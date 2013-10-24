@@ -1,5 +1,4 @@
-Tremella fulvacea anon. SPECIES
-=======
+# Tremella fulvacea anon. SPECIES
 
 #### Status
 ACCEPTED

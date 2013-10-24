@@ -1,5 +1,4 @@
-Botryodiplodia cerebrina Sacc. SPECIES
-=======
+# Botryodiplodia cerebrina Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca abbreviata Malme SPECIES
-=======
+# Caloplaca abbreviata Malme SPECIES
 
 #### Status
 ACCEPTED

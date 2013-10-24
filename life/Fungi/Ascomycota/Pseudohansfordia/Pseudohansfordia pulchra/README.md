@@ -1,5 +1,4 @@
-Pseudohansfordia pulchra (Linder) Matsush. SPECIES
-=======
+# Pseudohansfordia pulchra (Linder) Matsush. SPECIES
 
 #### Status
 ACCEPTED

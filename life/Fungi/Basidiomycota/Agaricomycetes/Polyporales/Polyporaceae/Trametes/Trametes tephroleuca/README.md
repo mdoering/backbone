@@ -1,14 +1,13 @@
-Coriolus tephroleucus (Berk.) Bondartsev, 1953 SPECIES
-=======
+# Trametes tephroleuca Berk., 1854 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-The Bracket Fungi of the European Part of the U. S. S. R. and the Caucasus 492 (1953)
+Hooker's J. Bot. Kew Gard. Misc. 6: 165 (1854)
 
 #### Original name
 Trametes tephroleuca Berk., 1854

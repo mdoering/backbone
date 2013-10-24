@@ -1,5 +1,4 @@
-Boletus cinnabarinus. Wahlenb., 1812 SPECIES
-=======
+# Boletus cinnabarinus. Wahlenb., 1812 SPECIES
 
 #### Status
 ACCEPTED

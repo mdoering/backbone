@@ -1,5 +1,4 @@
-Tholurna dissimilis (Norman) Norman SPECIES
-=======
+# Tholurna dissimilis (Norman) Norman SPECIES
 
 #### Status
 ACCEPTED

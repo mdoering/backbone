@@ -1,5 +1,4 @@
-Naucoria panurensis Berk. SPECIES
-=======
+# Naucoria panurensis Berk. SPECIES
 
 #### Status
 ACCEPTED

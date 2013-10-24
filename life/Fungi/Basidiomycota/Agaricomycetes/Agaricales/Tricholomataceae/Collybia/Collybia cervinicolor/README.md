@@ -1,5 +1,4 @@
-Collybia cervinicolor (Murrill) Pegler SPECIES
-=======
+# Collybia cervinicolor (Murrill) Pegler SPECIES
 
 #### Status
 ACCEPTED

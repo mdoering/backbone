@@ -1,5 +1,4 @@
-Porina eitneri Zahlbr. SPECIES
-=======
+# Porina eitneri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius rotaliscystidiatus C. Puccin. & Capelari SPECIES
-=======
+# Marasmius rotaliscystidiatus C. Puccin. & Capelari SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora pallidocerina Nyl. SPECIES
-=======
+# Lecanora pallidocerina Nyl. SPECIES
 
 #### Status
 ACCEPTED

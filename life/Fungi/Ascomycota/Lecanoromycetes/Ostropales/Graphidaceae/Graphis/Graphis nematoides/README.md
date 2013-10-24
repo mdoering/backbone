@@ -1,5 +1,4 @@
-Graphis nematoides Leight. SPECIES
-=======
+# Graphis nematoides Leight. SPECIES
 
 #### Status
 ACCEPTED

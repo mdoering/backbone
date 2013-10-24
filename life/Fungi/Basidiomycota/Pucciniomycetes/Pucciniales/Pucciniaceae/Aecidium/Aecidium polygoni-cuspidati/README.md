@@ -1,5 +1,4 @@
-Aecidium polygoni-cuspidati Dietel SPECIES
-=======
+# Aecidium polygoni-cuspidati Dietel SPECIES
 
 #### Status
 ACCEPTED

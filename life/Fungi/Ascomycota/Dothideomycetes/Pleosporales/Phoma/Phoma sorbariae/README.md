@@ -1,5 +1,4 @@
-Phoma sorbariae Sacc. SPECIES
-=======
+# Phoma sorbariae Sacc. SPECIES
 
 #### Status
 ACCEPTED

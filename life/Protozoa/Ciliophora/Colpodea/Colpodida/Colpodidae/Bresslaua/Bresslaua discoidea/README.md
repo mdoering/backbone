@@ -1,5 +1,4 @@
-Bresslaua discoidea (Kahl, 1931) Foissner, 1993 SPECIES
-=======
+# Bresslaua discoidea (Kahl, 1931) Foissner, 1993 SPECIES
 
 #### Status
 ACCEPTED

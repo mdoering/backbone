@@ -1,5 +1,4 @@
-Cortinarius anthracinoides Rob. Henry SPECIES
-=======
+# Cortinarius anthracinoides Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

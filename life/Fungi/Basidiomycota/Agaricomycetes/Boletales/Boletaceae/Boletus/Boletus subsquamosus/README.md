@@ -1,5 +1,4 @@
-Boletus subsquamosus var. subsquamosus VARIETY
-=======
+# Boletus subsquamosus With. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Sp. pl. 2: 1178 (1753)
+Arr. Brit. Pl. (London), Edn 3 4: 314 (1796)
 
 #### Original name
-Boletus subsquamosus var. subsquamosus
+Boletus subsquamosus With.
 
 ### Remarks
 null

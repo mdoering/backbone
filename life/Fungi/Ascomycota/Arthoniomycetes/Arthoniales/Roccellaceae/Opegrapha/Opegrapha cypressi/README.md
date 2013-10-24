@@ -1,5 +1,4 @@
-Opegrapha cypressi R.C. Harris SPECIES
-=======
+# Opegrapha cypressi R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

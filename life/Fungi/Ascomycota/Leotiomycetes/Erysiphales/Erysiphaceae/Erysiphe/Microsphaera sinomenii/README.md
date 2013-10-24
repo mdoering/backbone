@@ -1,5 +1,4 @@
-Microsphaera sinomenii Y.N. Yu SPECIES
-=======
+# Microsphaera sinomenii Y.N. Yu SPECIES
 
 #### Status
 ACCEPTED

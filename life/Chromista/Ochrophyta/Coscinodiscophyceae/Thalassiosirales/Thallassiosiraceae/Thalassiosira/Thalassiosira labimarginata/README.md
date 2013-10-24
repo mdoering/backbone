@@ -1,5 +1,4 @@
-Thalassiosira labimarginata P. Bodén SPECIES
-=======
+# Thalassiosira labimarginata P. Bodén SPECIES
 
 #### Status
 ACCEPTED

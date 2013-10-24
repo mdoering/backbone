@@ -1,8 +1,7 @@
-Dinophysis norvegica var. crassior Paulsen, 1907 VARIETY
-=======
+# Dinophysis crassior Paulsen, 1949 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

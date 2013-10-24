@@ -1,14 +1,13 @@
-Astigerina Pictet, 1846 GENUS
-=======
+# Asterigerina d'Orbigny, 1839 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Traité Pal. , 4, 515.
+Voy. Amér. mérid. (Foram. ), 5 (5), 55.
 
 #### Original name
 null

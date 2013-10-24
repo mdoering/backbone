@@ -1,5 +1,4 @@
-Triloculina suborbicularis SPECIES
-=======
+# Triloculina suborbicularis SPECIES
 
 #### Status
 ACCEPTED

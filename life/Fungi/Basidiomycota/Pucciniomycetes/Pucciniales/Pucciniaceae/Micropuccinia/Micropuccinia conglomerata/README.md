@@ -1,5 +1,4 @@
-Micropuccinia conglomerata (F. Strauss) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia conglomerata (F. Strauss) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

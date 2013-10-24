@@ -1,5 +1,4 @@
-Patinella laricina Velen. SPECIES
-=======
+# Patinella laricina Velen. SPECIES
 
 #### Status
 ACCEPTED

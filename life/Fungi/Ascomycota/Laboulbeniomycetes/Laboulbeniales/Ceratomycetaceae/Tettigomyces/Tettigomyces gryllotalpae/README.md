@@ -1,5 +1,4 @@
-Tettigomyces gryllotalpae Thaxt. SPECIES
-=======
+# Tettigomyces gryllotalpae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

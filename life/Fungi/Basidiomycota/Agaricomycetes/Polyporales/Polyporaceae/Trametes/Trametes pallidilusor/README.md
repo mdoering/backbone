@@ -1,5 +1,4 @@
-Trametes pallidilusor Corner SPECIES
-=======
+# Trametes pallidilusor Corner SPECIES
 
 #### Status
 ACCEPTED

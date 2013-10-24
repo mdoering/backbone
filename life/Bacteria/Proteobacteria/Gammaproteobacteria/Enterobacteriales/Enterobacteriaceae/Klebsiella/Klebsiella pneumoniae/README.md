@@ -1,5 +1,4 @@
-Klebsiella pneumoniae subsp. pneumoniae SUBSPECIES
-=======
+# Klebsiella pneumoniae (Schröter, 1886) Trevisan, 1887 SPECIES
 
 #### Status
 ACCEPTED

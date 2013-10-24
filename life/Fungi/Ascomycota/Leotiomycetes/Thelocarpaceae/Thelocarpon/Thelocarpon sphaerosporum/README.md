@@ -1,14 +1,13 @@
-Ahlesia sphaerospora (H. Magn.) G. Salisb. SPECIES
-=======
+# Thelocarpon sphaerosporum H. Magn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichenologist 3(2): 194 (1966)
+Rabenhorst's Kryptogamenflora (Leipzig) 9(5,1): 305 (1935)
 
 #### Original name
 Thelocarpon sphaerosporum H. Magn.

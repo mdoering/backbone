@@ -1,5 +1,4 @@
-Peziza valenzueliana Berk. SPECIES
-=======
+# Peziza valenzueliana Berk. SPECIES
 
 #### Status
 ACCEPTED

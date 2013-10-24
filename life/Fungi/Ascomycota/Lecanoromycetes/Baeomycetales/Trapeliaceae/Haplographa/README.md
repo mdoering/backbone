@@ -1,5 +1,4 @@
-Haplographa GENUS
-=======
+# Haplographa GENUS
 
 #### Status
 ACCEPTED

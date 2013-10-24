@@ -1,5 +1,4 @@
-Clostridium cellulolyticum Petitdemange et al., 1984 SPECIES
-=======
+# Clostridium cellulolyticum Petitdemange et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

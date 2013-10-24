@@ -1,5 +1,4 @@
-Botryomyces Greco, 1916 GENUS
-=======
+# Botryomyces Greco, 1916 GENUS
 
 #### Status
 ACCEPTED

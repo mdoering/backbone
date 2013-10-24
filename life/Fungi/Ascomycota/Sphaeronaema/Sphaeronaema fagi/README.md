@@ -1,5 +1,4 @@
-Sphaeronaema fagi Oudem. SPECIES
-=======
+# Sphaeronaema fagi Oudem. SPECIES
 
 #### Status
 ACCEPTED

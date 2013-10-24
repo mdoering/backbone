@@ -1,5 +1,4 @@
-Meliola ptaeroxyli Doidge SPECIES
-=======
+# Meliola ptaeroxyli Doidge SPECIES
 
 #### Status
 ACCEPTED

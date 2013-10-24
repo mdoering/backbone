@@ -1,5 +1,4 @@
-Phialea subpallida Rehm SPECIES
-=======
+# Phialea subpallida Rehm SPECIES
 
 #### Status
 ACCEPTED

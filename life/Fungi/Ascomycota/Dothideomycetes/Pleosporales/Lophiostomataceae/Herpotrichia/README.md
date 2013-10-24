@@ -1,17 +1,16 @@
-Khekia Petr. GENUS
-=======
+# Herpotrichia Fuckel GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 62: 284 (1921)
+Fungi rhenani exsic. no. 2171 (1868)
 
 #### Original name
-Khekia Petr.
+Herpotrichia Fuckel
 
 ### Remarks
 null

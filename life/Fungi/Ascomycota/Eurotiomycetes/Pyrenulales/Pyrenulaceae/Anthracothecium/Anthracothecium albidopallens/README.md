@@ -1,5 +1,4 @@
-Anthracothecium albidopallens SPECIES
-=======
+# Anthracothecium albidopallens SPECIES
 
 #### Status
 ACCEPTED

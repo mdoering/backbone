@@ -1,5 +1,4 @@
-Leucocoprinus fuscatus Pegler SPECIES
-=======
+# Leucocoprinus fuscatus Pegler SPECIES
 
 #### Status
 ACCEPTED

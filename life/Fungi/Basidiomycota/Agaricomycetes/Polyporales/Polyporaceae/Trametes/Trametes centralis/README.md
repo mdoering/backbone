@@ -1,5 +1,4 @@
-Trametes centralis Fr. SPECIES
-=======
+# Trametes centralis Fr. SPECIES
 
 #### Status
 ACCEPTED

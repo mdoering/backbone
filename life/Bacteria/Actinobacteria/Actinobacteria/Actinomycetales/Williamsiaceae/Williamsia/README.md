@@ -1,5 +1,4 @@
-Williamsia Kämpfer et al., 1999 GENUS
-=======
+# Williamsia Kämpfer et al., 1999 GENUS
 
 #### Status
 ACCEPTED

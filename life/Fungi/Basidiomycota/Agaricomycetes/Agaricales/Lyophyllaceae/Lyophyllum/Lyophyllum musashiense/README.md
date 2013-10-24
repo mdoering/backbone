@@ -1,5 +1,4 @@
-Lyophyllum musashiense Hongo SPECIES
-=======
+# Lyophyllum musashiense Hongo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypogymnia protea Goward, T. Sprib. & Ahti SPECIES
-=======
+# Hypogymnia protea Goward, T. Sprib. & Ahti SPECIES
 
 #### Status
 ACCEPTED

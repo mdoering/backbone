@@ -1,5 +1,4 @@
-Stictis virginea Cooke & W. Phillips SPECIES
-=======
+# Stictis virginea Cooke & W. Phillips SPECIES
 
 #### Status
 ACCEPTED

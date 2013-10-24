@@ -1,5 +1,4 @@
-Phialea dearnessii Ellis & Everh. SPECIES
-=======
+# Phialea dearnessii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

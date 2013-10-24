@@ -1,5 +1,4 @@
-Amanita advena Tulloss, Ovrebo & Halling SPECIES
-=======
+# Amanita advena Tulloss, Ovrebo & Halling SPECIES
 
 #### Status
 ACCEPTED

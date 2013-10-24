@@ -1,5 +1,4 @@
-Obruchevella condensata X.X. Liu SPECIES
-=======
+# Obruchevella condensata X.X. Liu SPECIES
 
 #### Status
 ACCEPTED

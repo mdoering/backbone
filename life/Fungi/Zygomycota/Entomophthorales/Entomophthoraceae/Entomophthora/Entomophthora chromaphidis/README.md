@@ -1,5 +1,4 @@
-Entomophthora chromaphidis O.F. Burger & Swain, 1918 SPECIES
-=======
+# Entomophthora chromaphidis O.F. Burger & Swain, 1918 SPECIES
 
 #### Status
 ACCEPTED

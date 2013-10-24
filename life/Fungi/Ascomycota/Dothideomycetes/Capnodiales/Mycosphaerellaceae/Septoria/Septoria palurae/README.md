@@ -1,5 +1,4 @@
-Septoria palurae Sawada SPECIES
-=======
+# Septoria palurae Sawada SPECIES
 
 #### Status
 ACCEPTED

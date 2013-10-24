@@ -1,5 +1,4 @@
-Pleurotheciopsis websteri Cazau, Aramb. & Cabello, 1993 SPECIES
-=======
+# Pleurotheciopsis websteri Cazau, Aramb. & Cabello, 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula sesemotani Beeli SPECIES
-=======
+# Russula sesemotani Beeli SPECIES
 
 #### Status
 ACCEPTED

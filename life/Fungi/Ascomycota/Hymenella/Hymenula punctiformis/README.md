@@ -1,5 +1,4 @@
-Hymenula punctiformis Corda SPECIES
-=======
+# Hymenula punctiformis Corda SPECIES
 
 #### Status
 ACCEPTED

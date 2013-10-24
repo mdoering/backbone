@@ -1,17 +1,16 @@
-Globosasclerotes ägiranus Stach & Pickh. SPECIES
-=======
+# Globosasclerotes aegiranus Stach & Pickh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Palaeontologische Zeitschrift 31(3/4): 150 + taf. 14, fig. 12 (1957)
 
 #### Original name
-Globosasclerotes ägiranus Stach & Pickh.
+Globosasclerotes aegiranus Stach & Pickh.
 
 ### Remarks
 null

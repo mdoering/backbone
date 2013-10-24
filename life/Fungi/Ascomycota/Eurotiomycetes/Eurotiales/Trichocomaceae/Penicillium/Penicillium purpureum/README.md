@@ -1,8 +1,7 @@
-Talaromyces purpureus (E. Müll. & Pacha-Aue) Stolk & Samson, 1972 SPECIES
-=======
+# Penicillium purpureum Stolk & Samson, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Stud. Mycol. 2: 57 (1972)
 
 #### Original name
-Arachniotus purpureus E. Müll. & Pacha-Aue, 1968
+Penicillium purpureum Stolk & Samson, 1972
 
 ### Remarks
 null

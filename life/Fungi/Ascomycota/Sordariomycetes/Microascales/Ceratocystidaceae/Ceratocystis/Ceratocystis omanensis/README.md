@@ -1,5 +1,4 @@
-Ceratocystis omanensis Al-Subhi, M.J. Wingf., M. Van Wyk & Deadman SPECIES
-=======
+# Ceratocystis omanensis Al-Subhi, M.J. Wingf., M. Van Wyk & Deadman SPECIES
 
 #### Status
 ACCEPTED

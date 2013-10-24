@@ -1,5 +1,4 @@
-Schmitzomia sesleriae De Not. SPECIES
-=======
+# Schmitzomia sesleriae De Not. SPECIES
 
 #### Status
 ACCEPTED

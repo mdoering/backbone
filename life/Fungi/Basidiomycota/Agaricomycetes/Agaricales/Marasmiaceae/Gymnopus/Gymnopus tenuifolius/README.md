@@ -1,5 +1,4 @@
-Gymnopus tenuifolius Murrill SPECIES
-=======
+# Gymnopus tenuifolius Murrill SPECIES
 
 #### Status
 ACCEPTED

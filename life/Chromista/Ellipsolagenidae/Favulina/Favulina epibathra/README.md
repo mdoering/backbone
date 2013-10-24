@@ -1,5 +1,4 @@
-Favulina epibathra Patterson & Richardson, 1988 SPECIES
-=======
+# Favulina epibathra Patterson & Richardson, 1988 SPECIES
 
 #### Status
 ACCEPTED

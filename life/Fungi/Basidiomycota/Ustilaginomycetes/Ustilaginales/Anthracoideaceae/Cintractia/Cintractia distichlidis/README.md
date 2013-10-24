@@ -1,5 +1,4 @@
-Cintractia distichlidis McAlpine SPECIES
-=======
+# Cintractia distichlidis McAlpine SPECIES
 
 #### Status
 ACCEPTED

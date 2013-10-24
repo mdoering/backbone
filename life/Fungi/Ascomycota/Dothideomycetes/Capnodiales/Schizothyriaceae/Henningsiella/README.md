@@ -1,5 +1,4 @@
-Henningsiella Rehm GENUS
-=======
+# Henningsiella Rehm GENUS
 
 #### Status
 ACCEPTED

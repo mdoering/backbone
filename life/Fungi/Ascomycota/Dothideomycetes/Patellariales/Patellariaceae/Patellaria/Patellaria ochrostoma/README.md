@@ -1,5 +1,4 @@
-Patellaria ochrostoma Wallr. SPECIES
-=======
+# Patellaria ochrostoma Wallr. SPECIES
 
 #### Status
 ACCEPTED

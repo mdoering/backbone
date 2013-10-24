@@ -1,8 +1,7 @@
-Alveolophragmium subglobosum Cushman, 1910 SPECIES
-=======
+# Cribrostomoides subglobosum (Cushman, 1910) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

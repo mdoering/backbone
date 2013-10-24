@@ -1,5 +1,4 @@
-Parmelia maciformis Delise SPECIES
-=======
+# Parmelia maciformis Delise SPECIES
 
 #### Status
 ACCEPTED

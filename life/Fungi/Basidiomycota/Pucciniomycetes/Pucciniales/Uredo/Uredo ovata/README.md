@@ -1,5 +1,4 @@
-Uredo ovata var. ovata VARIETY
-=======
+# Uredo ovata anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Uredo ovata var. ovata
+Uredo ovata anon.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cercospora hibiscina Ellis & Everh. SPECIES
-=======
+# Cercospora hibiscina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

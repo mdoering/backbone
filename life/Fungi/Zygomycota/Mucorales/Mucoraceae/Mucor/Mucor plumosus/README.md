@@ -1,5 +1,4 @@
-Mucor plumosus (Schrank) K. Kunze SPECIES
-=======
+# Mucor plumosus (Schrank) K. Kunze SPECIES
 
 #### Status
 ACCEPTED

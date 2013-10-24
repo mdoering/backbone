@@ -1,5 +1,4 @@
-Carchesium Ehrenberg, 1831 GENUS
-=======
+# Carchesium Ehrenberg, 1831 GENUS
 
 #### Status
 ACCEPTED

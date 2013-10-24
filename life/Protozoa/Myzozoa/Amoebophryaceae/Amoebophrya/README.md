@@ -1,14 +1,13 @@
-Hyalosaccus Koeppen, 1899 GENUS
-=======
+# Amoebophrya Koeppen, 1894 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Sapiski Kiew Obschtsch. Estestw. , 16, 89.
+Zool. Anz. , 17, 417, 424.
 
 #### Original name
 null

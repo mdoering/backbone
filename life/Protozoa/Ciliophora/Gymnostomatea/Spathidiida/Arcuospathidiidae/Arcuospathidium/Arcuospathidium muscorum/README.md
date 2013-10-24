@@ -1,5 +1,4 @@
-Arcuospathidium muscorum subsp. rhopaloplites Foissner & Xu, 2007 SUBSPECIES
-=======
+# Arcuospathidium muscorum (Dragesco & Dragesco-Kernéis, 1979) Foissner, 1984 SPECIES
 
 #### Status
 ACCEPTED

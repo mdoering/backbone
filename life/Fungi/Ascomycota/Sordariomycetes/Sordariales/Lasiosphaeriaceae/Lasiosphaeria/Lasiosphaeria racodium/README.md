@@ -1,17 +1,16 @@
-Sphaeria rhacodium var. hirsuta (Pers.) Fr. VARIETY
-=======
+# Lasiosphaeria racodium (Pers.) Ces. & De Not., 1863 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Comm. Soc. crittog. Ital. 1(4): 229 (1863)
 
 #### Original name
-Sphaeria hirsuta Fr., 1817
+Sphaeria racodium Pers., 1801
 
 ### Remarks
 null

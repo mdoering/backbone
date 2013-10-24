@@ -1,5 +1,4 @@
-Schulzeria chlorospora Massee SPECIES
-=======
+# Schulzeria chlorospora Massee SPECIES
 
 #### Status
 ACCEPTED

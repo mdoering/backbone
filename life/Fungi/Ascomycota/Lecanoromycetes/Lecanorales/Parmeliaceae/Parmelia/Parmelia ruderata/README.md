@@ -1,5 +1,4 @@
-Parmelia ruderata Vain. SPECIES
-=======
+# Parmelia ruderata Vain. SPECIES
 
 #### Status
 ACCEPTED

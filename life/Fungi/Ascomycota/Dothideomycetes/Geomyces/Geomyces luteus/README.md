@@ -1,5 +1,4 @@
-Geomyces luteus Kwasna & G.L. Bateman SPECIES
-=======
+# Geomyces luteus Kwasna & G.L. Bateman SPECIES
 
 #### Status
 ACCEPTED

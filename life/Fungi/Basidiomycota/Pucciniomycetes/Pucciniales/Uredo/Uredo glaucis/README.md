@@ -1,5 +1,4 @@
-Uredo glaucis Rabenh. SPECIES
-=======
+# Uredo glaucis Rabenh. SPECIES
 
 #### Status
 ACCEPTED

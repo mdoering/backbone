@@ -1,5 +1,4 @@
-Marasmius rotalis var. rotalis VARIETY
-=======
+# Marasmius rotalis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Marasmius rotalis var. rotalis
+Marasmius rotalis Berk. & Broome
 
 ### Remarks
 null

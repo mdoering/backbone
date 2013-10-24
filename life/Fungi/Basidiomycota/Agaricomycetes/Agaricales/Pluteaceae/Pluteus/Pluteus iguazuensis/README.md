@@ -1,5 +1,4 @@
-Pluteus iguazuensis Singer SPECIES
-=======
+# Pluteus iguazuensis Singer SPECIES
 
 #### Status
 ACCEPTED

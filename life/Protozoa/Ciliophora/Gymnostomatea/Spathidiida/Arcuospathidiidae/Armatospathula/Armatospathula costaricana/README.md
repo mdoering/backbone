@@ -1,5 +1,4 @@
-Armatospathula costaricana Foissner & Xu, 2007 SPECIES
-=======
+# Armatospathula costaricana Foissner & Xu, 2007 SPECIES
 
 #### Status
 ACCEPTED

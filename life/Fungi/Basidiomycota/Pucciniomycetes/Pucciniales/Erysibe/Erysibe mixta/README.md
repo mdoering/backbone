@@ -1,5 +1,4 @@
-Erysibe mixta Wallr. SPECIES
-=======
+# Erysibe mixta Wallr. SPECIES
 
 #### Status
 ACCEPTED

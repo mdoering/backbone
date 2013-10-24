@@ -1,5 +1,4 @@
-Lophophacidium Lagerb. GENUS
-=======
+# Lophophacidium Lagerb. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Holopedia dednensis Pevalek SPECIES
-=======
+# Holopedia dednensis Pevalek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tetracyclus pseudocastellum D. M. Williams SPECIES
-=======
+# Tetracyclus pseudocastellum D. M. Williams SPECIES
 
 #### Status
 ACCEPTED

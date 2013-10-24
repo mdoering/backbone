@@ -1,5 +1,4 @@
-Halosimplex Vreeland et al., 2003 GENUS
-=======
+# Halosimplex Vreeland et al., 2003 GENUS
 
 #### Status
 ACCEPTED

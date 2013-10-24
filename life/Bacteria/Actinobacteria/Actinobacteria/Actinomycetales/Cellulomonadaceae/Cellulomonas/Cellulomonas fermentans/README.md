@@ -1,5 +1,4 @@
-Cellulomonas fermentans Bagnara et al., 1985 SPECIES
-=======
+# Cellulomonas fermentans Bagnara et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

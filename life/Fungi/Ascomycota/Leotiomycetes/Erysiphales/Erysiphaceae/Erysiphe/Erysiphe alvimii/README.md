@@ -1,5 +1,4 @@
-Erysiphe alvimii (A.C. Dianese & Dianese) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe alvimii (A.C. Dianese & Dianese) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

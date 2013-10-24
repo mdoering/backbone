@@ -1,5 +1,4 @@
-Physalospora palustris (Mont.) Sacc. SPECIES
-=======
+# Physalospora palustris (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

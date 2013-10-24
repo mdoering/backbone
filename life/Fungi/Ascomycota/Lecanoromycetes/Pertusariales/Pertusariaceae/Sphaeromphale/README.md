@@ -1,5 +1,4 @@
-Sphaeromphale GENUS
-=======
+# Sphaeromphale GENUS
 
 #### Status
 ACCEPTED

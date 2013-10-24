@@ -1,14 +1,13 @@
-Coryneum vaccinii Fuckel, 1874 SPECIES
-=======
+# Seimatosporium vaccinii (Fuckel) B. Erikss., 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 27-28: (1873)
+Svensk bot. Tidskr. 68(2): 242 (1974)
 
 #### Original name
 Coryneum vaccinii Fuckel, 1874

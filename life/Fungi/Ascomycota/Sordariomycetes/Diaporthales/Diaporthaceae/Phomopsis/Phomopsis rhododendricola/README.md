@@ -1,5 +1,4 @@
-Phomopsis rhododendricola Li Ma, M.M. Xiang & P.K. Chi SPECIES
-=======
+# Phomopsis rhododendricola Li Ma, M.M. Xiang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

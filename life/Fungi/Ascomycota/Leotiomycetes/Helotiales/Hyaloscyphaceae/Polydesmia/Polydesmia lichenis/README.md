@@ -1,5 +1,4 @@
-Polydesmia lichenis Huhtinen & R. Sant. SPECIES
-=======
+# Polydesmia lichenis Huhtinen & R. Sant. SPECIES
 
 #### Status
 ACCEPTED

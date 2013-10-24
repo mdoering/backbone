@@ -1,5 +1,4 @@
-Thelidium schadeanum Servít SPECIES
-=======
+# Thelidium schadeanum Servít SPECIES
 
 #### Status
 ACCEPTED

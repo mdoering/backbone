@@ -1,5 +1,4 @@
-Acantholigotriletum tetragonum Timofeev, 1959 SPECIES
-=======
+# Acantholigotriletum tetragonum Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

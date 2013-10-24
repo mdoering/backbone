@@ -1,5 +1,4 @@
-Microdiplodia foedans Sacc. SPECIES
-=======
+# Microdiplodia foedans Sacc. SPECIES
 
 #### Status
 ACCEPTED

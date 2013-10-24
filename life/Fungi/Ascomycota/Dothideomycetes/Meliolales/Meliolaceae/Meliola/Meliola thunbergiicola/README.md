@@ -1,5 +1,4 @@
-Meliola thunbergiicola Hansf. & Deighton SPECIES
-=======
+# Meliola thunbergiicola Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

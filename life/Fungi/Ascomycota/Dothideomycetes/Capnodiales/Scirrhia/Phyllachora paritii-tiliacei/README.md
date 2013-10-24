@@ -1,5 +1,4 @@
-Phyllachora paritii-tiliacei Chardón, 1939 SPECIES
-=======
+# Phyllachora paritii-tiliacei Chardón, 1939 SPECIES
 
 #### Status
 DOUBTFUL

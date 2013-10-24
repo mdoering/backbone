@@ -1,5 +1,4 @@
-Corticium murrillii Burt SPECIES
-=======
+# Corticium murrillii Burt SPECIES
 
 #### Status
 ACCEPTED

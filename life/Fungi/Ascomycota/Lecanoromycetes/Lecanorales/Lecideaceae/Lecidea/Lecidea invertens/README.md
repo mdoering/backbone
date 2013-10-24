@@ -1,5 +1,4 @@
-Lecidea invertens Nyl. SPECIES
-=======
+# Lecidea invertens Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Deinococcus saxicola Hirsch et al., 2006 SPECIES
-=======
+# Deinococcus saxicola Hirsch et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

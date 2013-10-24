@@ -1,5 +1,4 @@
-Nectria chaetopsinae-polyblastiae Samuels SPECIES
-=======
+# Nectria chaetopsinae-polyblastiae Samuels SPECIES
 
 #### Status
 ACCEPTED

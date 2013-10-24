@@ -1,5 +1,4 @@
-Calothyrium jaffuelianum (Speg.) F. Stevens SPECIES
-=======
+# Calothyrium jaffuelianum (Speg.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

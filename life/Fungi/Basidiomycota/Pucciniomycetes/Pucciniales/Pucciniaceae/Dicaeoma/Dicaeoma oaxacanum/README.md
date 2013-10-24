@@ -1,5 +1,4 @@
-Dicaeoma oaxacanum (Dietel & Holw.) Arthur & H.S. Jacks. SPECIES
-=======
+# Dicaeoma oaxacanum (Dietel & Holw.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

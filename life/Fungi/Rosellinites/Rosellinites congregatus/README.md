@@ -1,5 +1,4 @@
-Rosellinites congregatus (Beck) Mesch. SPECIES
-=======
+# Rosellinites congregatus (Beck) Mesch. SPECIES
 
 #### Status
 ACCEPTED

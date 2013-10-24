@@ -1,5 +1,4 @@
-Acanthothecium GENUS
-=======
+# Acanthothecium GENUS
 
 #### Status
 ACCEPTED

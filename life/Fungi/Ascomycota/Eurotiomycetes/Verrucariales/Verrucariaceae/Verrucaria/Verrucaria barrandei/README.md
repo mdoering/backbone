@@ -1,5 +1,4 @@
-Verrucaria barrandei f. barrandei FORM
-=======
+# Verrucaria barrandei Servít SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria barrandei f. barrandei
+Verrucaria barrandei Servít
 
 ### Remarks
 null

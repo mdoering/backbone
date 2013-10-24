@@ -1,5 +1,4 @@
-Zebrospora McKenzie GENUS
-=======
+# Zebrospora McKenzie GENUS
 
 #### Status
 ACCEPTED

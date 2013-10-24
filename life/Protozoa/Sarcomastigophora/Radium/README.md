@@ -1,5 +1,4 @@
-Radium Yeh, 1989 GENUS
-=======
+# Radium Yeh, 1989 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septobasidium cavarae Bres. SPECIES
-=======
+# Septobasidium cavarae Bres. SPECIES
 
 #### Status
 ACCEPTED

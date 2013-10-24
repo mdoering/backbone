@@ -1,5 +1,4 @@
-Melanconium monotospora (Cooke) Sacc. SPECIES
-=======
+# Melanconium monotospora (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

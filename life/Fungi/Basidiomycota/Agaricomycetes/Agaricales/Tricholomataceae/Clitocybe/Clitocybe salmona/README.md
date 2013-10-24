@@ -1,5 +1,4 @@
-Clitocybe salmona Métrod SPECIES
-=======
+# Clitocybe salmona Métrod SPECIES
 
 #### Status
 ACCEPTED

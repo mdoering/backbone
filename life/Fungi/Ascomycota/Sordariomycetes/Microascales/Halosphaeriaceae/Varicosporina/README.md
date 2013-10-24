@@ -1,5 +1,4 @@
-Varicosporina Meyers & Kohlm. GENUS
-=======
+# Varicosporina Meyers & Kohlm. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schiffnerula doidgeae Hansf. SPECIES
-=======
+# Schiffnerula doidgeae Hansf. SPECIES
 
 #### Status
 ACCEPTED

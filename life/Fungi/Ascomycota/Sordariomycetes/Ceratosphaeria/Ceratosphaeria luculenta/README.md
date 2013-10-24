@@ -1,5 +1,4 @@
-Ceratosphaeria luculenta Lar.N. Vassiljeva SPECIES
-=======
+# Ceratosphaeria luculenta Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyaloscypha opalina (Quél.) Boud. SPECIES
-=======
+# Hyaloscypha opalina (Quél.) Boud. SPECIES
 
 #### Status
 ACCEPTED

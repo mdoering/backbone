@@ -1,5 +1,4 @@
-Verrucaria olivaceofusca C. Knight SPECIES
-=======
+# Verrucaria olivaceofusca C. Knight SPECIES
 
 #### Status
 ACCEPTED

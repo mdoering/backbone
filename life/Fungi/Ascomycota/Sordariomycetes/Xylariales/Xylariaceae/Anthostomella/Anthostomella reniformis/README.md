@@ -1,5 +1,4 @@
-Anthostomella reniformis B.C. Paulus, Gadek & K.D. Hyde, 2003 SPECIES
-=======
+# Anthostomella reniformis B.C. Paulus, Gadek & K.D. Hyde, 2003 SPECIES
 
 #### Status
 ACCEPTED

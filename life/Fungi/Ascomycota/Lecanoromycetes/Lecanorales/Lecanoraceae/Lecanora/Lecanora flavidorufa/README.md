@@ -1,5 +1,4 @@
-Lecanora flavidorufa Hue SPECIES
-=======
+# Lecanora flavidorufa Hue SPECIES
 
 #### Status
 ACCEPTED

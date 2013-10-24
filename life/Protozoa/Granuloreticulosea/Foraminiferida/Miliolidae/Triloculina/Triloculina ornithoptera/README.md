@@ -1,5 +1,4 @@
-Triloculina ornithoptera Crespin SPECIES
-=======
+# Triloculina ornithoptera Crespin SPECIES
 
 #### Status
 ACCEPTED

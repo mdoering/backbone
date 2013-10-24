@@ -1,5 +1,4 @@
-Dadayiella ganymedes (Entz, 1884) Kofoid & Campbell, 1929 SPECIES
-=======
+# Dadayiella ganymedes (Entz, 1884) Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora mangiferae-indicae Munjal, Lall & Chona SPECIES
-=======
+# Cercospora mangiferae-indicae Munjal, Lall & Chona SPECIES
 
 #### Status
 ACCEPTED

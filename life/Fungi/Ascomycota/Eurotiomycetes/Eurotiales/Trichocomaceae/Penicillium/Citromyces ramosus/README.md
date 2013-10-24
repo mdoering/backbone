@@ -1,5 +1,4 @@
-Citromyces ramosus Bainier & Sartory SPECIES
-=======
+# Citromyces ramosus Bainier & Sartory SPECIES
 
 #### Status
 ACCEPTED

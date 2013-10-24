@@ -1,5 +1,4 @@
-Discinella meuriesii Boud. SPECIES
-=======
+# Discinella meuriesii Boud. SPECIES
 
 #### Status
 ACCEPTED

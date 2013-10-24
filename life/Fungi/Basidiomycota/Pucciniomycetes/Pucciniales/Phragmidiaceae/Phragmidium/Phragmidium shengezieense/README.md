@@ -1,5 +1,4 @@
-Phragmidium shengezieense M.M. Chen & G.Q. Chen SPECIES
-=======
+# Phragmidium shengezieense M.M. Chen & G.Q. Chen SPECIES
 
 #### Status
 ACCEPTED

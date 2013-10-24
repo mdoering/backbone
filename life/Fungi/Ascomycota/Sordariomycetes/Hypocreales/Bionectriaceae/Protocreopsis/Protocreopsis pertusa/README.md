@@ -1,14 +1,13 @@
-Nectria pertusa Pat., 1895 SPECIES
-=======
+# Protocreopsis pertusa (Pat.) Samuels & Rossman, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Patouillard & Lagerheim, Bull. Soc. mycol. Fr. 11: 227 (1895)
+in Rossman, Samuels, Rogerson & Lowen, Stud. Mycol. 42: 66 (1999)
 
 #### Original name
 Nectria pertusa Pat., 1895

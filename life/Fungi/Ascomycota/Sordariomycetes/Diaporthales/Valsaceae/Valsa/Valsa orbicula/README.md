@@ -1,5 +1,4 @@
-Valsa orbicula Berk. & M.A. Curtis SPECIES
-=======
+# Valsa orbicula Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

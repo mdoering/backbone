@@ -1,5 +1,4 @@
-Phaeohydnochaete Lloyd GENUS
-=======
+# Phaeohydnochaete Lloyd GENUS
 
 #### Status
 ACCEPTED

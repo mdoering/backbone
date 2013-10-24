@@ -1,5 +1,4 @@
-Chalara kobensis McKenzie SPECIES
-=======
+# Chalara kobensis McKenzie SPECIES
 
 #### Status
 ACCEPTED

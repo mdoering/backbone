@@ -1,14 +1,13 @@
-Codinaea coffeae Maggi & Persiani, 1984 SPECIES
-=======
+# Dictyochaeta coffeae (Maggi & Persiani) Aramb. & Cabello, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 20(2): 251 (1984)
+Mycotaxon 34(2): 681 (1989)
 
 #### Original name
 Codinaea coffeae Maggi & Persiani, 1984

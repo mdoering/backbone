@@ -1,5 +1,4 @@
-Synchytrium bromi Maire SPECIES
-=======
+# Synchytrium bromi Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnum minutum Schumach. SPECIES
-=======
+# Hydnum minutum Schumach. SPECIES
 
 #### Status
 ACCEPTED

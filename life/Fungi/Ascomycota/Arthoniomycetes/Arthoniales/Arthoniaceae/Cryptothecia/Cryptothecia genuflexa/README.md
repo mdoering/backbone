@@ -1,5 +1,4 @@
-Cryptothecia genuflexa (Müll. Arg.) R. Sant. SPECIES
-=======
+# Cryptothecia genuflexa (Müll. Arg.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

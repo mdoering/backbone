@@ -1,5 +1,4 @@
-Phragmidium yezoense Kasai SPECIES
-=======
+# Phragmidium yezoense Kasai SPECIES
 
 #### Status
 ACCEPTED

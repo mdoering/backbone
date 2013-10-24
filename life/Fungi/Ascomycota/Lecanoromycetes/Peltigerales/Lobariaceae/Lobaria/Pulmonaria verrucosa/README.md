@@ -1,5 +1,4 @@
-Pulmonaria verrucosa (Baumg.) Hoffm. SPECIES
-=======
+# Pulmonaria verrucosa (Baumg.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

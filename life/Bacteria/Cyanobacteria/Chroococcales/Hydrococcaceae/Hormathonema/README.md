@@ -1,5 +1,4 @@
-Hormathonema A. Ercegovic, 1929 GENUS
-=======
+# Hormathonema A. Ercegovic, 1929 GENUS
 
 #### Status
 ACCEPTED

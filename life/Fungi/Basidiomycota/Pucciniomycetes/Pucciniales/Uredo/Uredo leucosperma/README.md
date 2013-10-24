@@ -1,5 +1,4 @@
-Uredo leucosperma Spreng. SPECIES
-=======
+# Uredo leucosperma Spreng. SPECIES
 
 #### Status
 ACCEPTED

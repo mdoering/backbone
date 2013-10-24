@@ -1,5 +1,4 @@
-Stenothermobacter spongiae Lau et al., 2006 SPECIES
-=======
+# Stenothermobacter spongiae Lau et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sporodesmium Link GENUS
-=======
+# Sporidesmium Link GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Magazin Ges. naturf. Freunde, Berlin 3(1-2): 41 (1809)
 
 #### Original name
-Sporodesmium Link
+Sporidesmium Link
 
 ### Remarks
 null

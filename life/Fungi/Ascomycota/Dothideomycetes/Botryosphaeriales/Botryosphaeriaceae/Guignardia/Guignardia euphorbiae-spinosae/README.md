@@ -1,5 +1,4 @@
-Guignardia euphorbiae-spinosae Bubák SPECIES
-=======
+# Guignardia euphorbiae-spinosae Bubák SPECIES
 
 #### Status
 ACCEPTED

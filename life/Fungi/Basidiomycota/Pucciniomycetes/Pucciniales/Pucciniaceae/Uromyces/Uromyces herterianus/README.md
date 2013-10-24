@@ -1,5 +1,4 @@
-Uromyces herterianus Dietel SPECIES
-=======
+# Uromyces herterianus Dietel SPECIES
 
 #### Status
 ACCEPTED

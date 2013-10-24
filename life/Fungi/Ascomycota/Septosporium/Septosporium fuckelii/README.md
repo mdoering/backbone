@@ -1,5 +1,4 @@
-Septosporium fuckelii Thüm. SPECIES
-=======
+# Septosporium fuckelii Thüm. SPECIES
 
 #### Status
 ACCEPTED

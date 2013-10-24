@@ -1,5 +1,4 @@
-Fusidium sphaceliae Westend. SPECIES
-=======
+# Fusidium sphaceliae Westend. SPECIES
 
 #### Status
 ACCEPTED

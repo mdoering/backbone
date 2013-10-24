@@ -1,5 +1,4 @@
-Tricholoma glareosum Velen. SPECIES
-=======
+# Tricholoma glareosum Velen. SPECIES
 
 #### Status
 ACCEPTED

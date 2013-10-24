@@ -1,5 +1,4 @@
-Peziza variella Nyl. SPECIES
-=======
+# Peziza variella Nyl. SPECIES
 
 #### Status
 ACCEPTED

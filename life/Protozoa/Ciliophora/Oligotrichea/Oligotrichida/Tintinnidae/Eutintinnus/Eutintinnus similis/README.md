@@ -1,5 +1,4 @@
-Eutintinnus similis Balech, 1962 SPECIES
-=======
+# Eutintinnus similis Balech, 1962 SPECIES
 
 #### Status
 ACCEPTED

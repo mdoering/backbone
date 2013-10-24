@@ -1,5 +1,4 @@
-Amorosia littoralis Mantle & D. Hawksw., 2006 SPECIES
-=======
+# Amorosia littoralis Mantle & D. Hawksw., 2006 SPECIES
 
 #### Status
 ACCEPTED

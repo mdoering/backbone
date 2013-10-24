@@ -1,17 +1,16 @@
-Parmelia interposita Kurok. SPECIES
-=======
+# Xanthoparmelia neorimalis (Elix & P. M. Armstr.) Elix & T. H. Nash SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. natn. Sci. Mus. , Tokyo, B 11(3): 81 (1985)
+in Nash & Elix, Mycotaxon 26: 455 (1986)
 
 #### Original name
-Parmelia interposita Kurok.
+Parmelia neorimalis Elix & P. M. Armstr.
 
 ### Remarks
 null

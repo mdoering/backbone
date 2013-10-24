@@ -1,5 +1,4 @@
-Pleurotus chevallieri Pat. SPECIES
-=======
+# Pleurotus chevallieri Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleomassaria protrusa (Fr.) Berl. & Bres. SPECIES
-=======
+# Pleomassaria protrusa (Fr.) Berl. & Bres. SPECIES
 
 #### Status
 ACCEPTED

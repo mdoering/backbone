@@ -1,5 +1,4 @@
-Leptogium sessile Vain. SPECIES
-=======
+# Leptogium sessile Vain. SPECIES
 
 #### Status
 ACCEPTED

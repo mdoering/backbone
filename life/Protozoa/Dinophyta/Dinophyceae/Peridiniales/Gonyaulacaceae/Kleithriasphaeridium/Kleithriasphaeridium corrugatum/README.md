@@ -1,5 +1,4 @@
-Kleithriasphaeridium corrugatum R. J. Davey SPECIES
-=======
+# Kleithriasphaeridium corrugatum R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

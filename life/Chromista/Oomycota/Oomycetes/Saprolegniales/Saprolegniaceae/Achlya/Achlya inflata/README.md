@@ -1,5 +1,4 @@
-Achlya inflata Coker & Braxton SPECIES
-=======
+# Achlya inflata Coker & Braxton SPECIES
 
 #### Status
 ACCEPTED

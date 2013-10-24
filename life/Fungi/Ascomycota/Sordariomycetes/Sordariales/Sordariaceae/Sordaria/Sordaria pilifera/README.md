@@ -1,5 +1,4 @@
-Sordaria pilifera A. Bayer SPECIES
-=======
+# Sordaria pilifera A. Bayer SPECIES
 
 #### Status
 ACCEPTED

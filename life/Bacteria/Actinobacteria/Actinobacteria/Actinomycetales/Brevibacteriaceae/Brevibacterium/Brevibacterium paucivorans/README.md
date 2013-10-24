@@ -1,5 +1,4 @@
-Brevibacterium paucivorans Wauters et al., 2001 SPECIES
-=======
+# Brevibacterium paucivorans Wauters et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

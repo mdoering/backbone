@@ -1,5 +1,4 @@
-Placynthium centrifugum Nyl. SPECIES
-=======
+# Placynthium centrifugum Nyl. SPECIES
 
 #### Status
 ACCEPTED

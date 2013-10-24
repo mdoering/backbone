@@ -1,5 +1,4 @@
-Trichopeziza cyphelioides Rehm SPECIES
-=======
+# Trichopeziza cyphelioides Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microbotryum adenopetalae M. Lutz, Kemler & Chleb., 2008 SPECIES
-=======
+# Microbotryum adenopetalae M. Lutz, Kemler & Chleb., 2008 SPECIES
 
 #### Status
 ACCEPTED

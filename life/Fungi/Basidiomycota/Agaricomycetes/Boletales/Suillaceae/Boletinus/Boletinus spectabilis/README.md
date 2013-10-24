@@ -1,5 +1,4 @@
-Boletinus spectabilis (Pk.) Murr. SPECIES
-=======
+# Boletinus spectabilis (Pk.) Murr. SPECIES
 
 #### Status
 ACCEPTED

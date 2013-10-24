@@ -1,5 +1,4 @@
-Oscillatoria subuliformis (Kützing) Gomont SPECIES
-=======
+# Oscillatoria subuliformis (Kützing) Gomont SPECIES
 
 #### Status
 ACCEPTED

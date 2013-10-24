@@ -1,5 +1,4 @@
-Coniothyrium delacroixii Sacc. SPECIES
-=======
+# Coniothyrium delacroixii Sacc. SPECIES
 
 #### Status
 ACCEPTED

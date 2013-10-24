@@ -1,5 +1,4 @@
-Septobasidium natalense Couch ex L.D. Gómez & Henk SPECIES
-=======
+# Septobasidium natalense Couch ex L.D. Gómez & Henk SPECIES
 
 #### Status
 ACCEPTED

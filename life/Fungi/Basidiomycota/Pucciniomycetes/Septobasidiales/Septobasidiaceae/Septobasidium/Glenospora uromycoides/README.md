@@ -1,5 +1,4 @@
-Glenospora uromycoides Sacc. SPECIES
-=======
+# Glenospora uromycoides Sacc. SPECIES
 
 #### Status
 ACCEPTED

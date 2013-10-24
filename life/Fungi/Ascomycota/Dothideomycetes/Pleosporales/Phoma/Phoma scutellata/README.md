@@ -1,5 +1,4 @@
-Phoma scutellata Sacc. & Paol. SPECIES
-=======
+# Phoma scutellata Sacc. & Paol. SPECIES
 
 #### Status
 ACCEPTED

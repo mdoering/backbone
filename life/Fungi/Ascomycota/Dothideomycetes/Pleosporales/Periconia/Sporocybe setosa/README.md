@@ -1,5 +1,4 @@
-Sporocybe setosa (Wallr.) Sacc. SPECIES
-=======
+# Sporocybe setosa (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

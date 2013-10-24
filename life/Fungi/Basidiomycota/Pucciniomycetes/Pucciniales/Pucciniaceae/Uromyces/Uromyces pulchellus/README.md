@@ -1,5 +1,4 @@
-Uromyces pulchellus Ellis & Everh. SPECIES
-=======
+# Uromyces pulchellus Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

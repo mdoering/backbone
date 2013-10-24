@@ -1,5 +1,4 @@
-Phyllachora acaenae Henn., 1900 SPECIES
-=======
+# Phyllachora acaenae Henn., 1900 SPECIES
 
 #### Status
 DOUBTFUL

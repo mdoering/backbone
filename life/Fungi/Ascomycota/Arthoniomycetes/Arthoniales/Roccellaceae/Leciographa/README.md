@@ -1,5 +1,4 @@
-Leciographa GENUS
-=======
+# Leciographa GENUS
 
 #### Status
 ACCEPTED

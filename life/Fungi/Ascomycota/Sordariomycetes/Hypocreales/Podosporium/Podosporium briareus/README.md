@@ -1,5 +1,4 @@
-Podosporium briareus Berk. & M.A. Curtis SPECIES
-=======
+# Podosporium briareus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

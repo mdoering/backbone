@@ -1,5 +1,4 @@
-Lecidea multiseptata (Anzi) SPECIES
-=======
+# Lecidea multiseptata (Anzi) SPECIES
 
 #### Status
 ACCEPTED

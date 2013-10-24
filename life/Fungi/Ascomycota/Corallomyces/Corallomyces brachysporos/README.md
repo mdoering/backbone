@@ -1,5 +1,4 @@
-Corallomyces brachysporos Penz. & Sacc. SPECIES
-=======
+# Corallomyces brachysporos Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

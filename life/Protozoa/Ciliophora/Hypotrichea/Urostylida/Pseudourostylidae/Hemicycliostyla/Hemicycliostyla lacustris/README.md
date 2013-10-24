@@ -1,5 +1,4 @@
-Hemicycliostyla lacustris Gellert & Tamas, 1958 SPECIES
-=======
+# Hemicycliostyla lacustris Gellert & Tamas, 1958 SPECIES
 
 #### Status
 ACCEPTED

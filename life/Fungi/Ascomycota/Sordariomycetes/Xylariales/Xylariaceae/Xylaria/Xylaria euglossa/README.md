@@ -1,5 +1,4 @@
-Xylaria euglossa Fr. SPECIES
-=======
+# Xylaria euglossa Fr. SPECIES
 
 #### Status
 ACCEPTED

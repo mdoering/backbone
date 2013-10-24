@@ -1,5 +1,4 @@
-Proteus ammoniae SPECIES
-=======
+# Proteus ammoniae SPECIES
 
 #### Status
 ACCEPTED

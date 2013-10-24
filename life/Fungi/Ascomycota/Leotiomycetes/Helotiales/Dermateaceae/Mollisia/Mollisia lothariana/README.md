@@ -1,5 +1,4 @@
-Mollisia lothariana Gminder SPECIES
-=======
+# Mollisia lothariana Gminder SPECIES
 
 #### Status
 ACCEPTED

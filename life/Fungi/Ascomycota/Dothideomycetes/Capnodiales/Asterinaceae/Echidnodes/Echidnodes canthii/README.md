@@ -1,5 +1,4 @@
-Echidnodes canthii Hansf. SPECIES
-=======
+# Echidnodes canthii Hansf. SPECIES
 
 #### Status
 ACCEPTED

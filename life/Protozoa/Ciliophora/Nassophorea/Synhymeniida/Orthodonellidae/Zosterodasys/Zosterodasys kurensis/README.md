@@ -1,5 +1,4 @@
-Zosterodasys kurensis Aliev, 1990 SPECIES
-=======
+# Zosterodasys kurensis Aliev, 1990 SPECIES
 
 #### Status
 ACCEPTED

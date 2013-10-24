@@ -1,5 +1,4 @@
-Dinemasporium duguetiae Furlan. & Dianese SPECIES
-=======
+# Dinemasporium duguetiae Furlan. & Dianese SPECIES
 
 #### Status
 ACCEPTED

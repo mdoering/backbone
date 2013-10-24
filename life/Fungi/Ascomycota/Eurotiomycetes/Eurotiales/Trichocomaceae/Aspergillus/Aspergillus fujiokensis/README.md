@@ -1,5 +1,4 @@
-Aspergillus fujiokensis Sugiy. SPECIES
-=======
+# Aspergillus fujiokensis Sugiy. SPECIES
 
 #### Status
 ACCEPTED

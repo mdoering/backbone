@@ -1,5 +1,4 @@
-Scolicotrichum ochraceum Fuckel SPECIES
-=======
+# Scolicotrichum ochraceum Fuckel SPECIES
 
 #### Status
 ACCEPTED

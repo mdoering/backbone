@@ -1,5 +1,4 @@
-Asterina elaeocarpicola Hansf. SPECIES
-=======
+# Asterina elaeocarpicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

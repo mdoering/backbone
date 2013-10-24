@@ -1,5 +1,4 @@
-Amphisphaera cristata Carnevale, 1908 SPECIES
-=======
+# Amphisphaera cristata Carnevale, 1908 SPECIES
 
 #### Status
 ACCEPTED

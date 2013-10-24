@@ -1,5 +1,4 @@
-Indigestosphaeridium Zang & Walter, 1992 GENUS
-=======
+# Indigestosphaeridium Zang & Walter, 1992 GENUS
 
 #### Status
 ACCEPTED

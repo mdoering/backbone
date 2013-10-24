@@ -1,5 +1,4 @@
-Pseudovalsella Höhn. GENUS
-=======
+# Pseudovalsella Höhn. GENUS
 
 #### Status
 ACCEPTED

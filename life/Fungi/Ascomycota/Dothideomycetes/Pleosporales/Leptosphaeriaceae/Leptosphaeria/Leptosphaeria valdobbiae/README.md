@@ -1,5 +1,4 @@
-Leptosphaeria valdobbiae Ferraris SPECIES
-=======
+# Leptosphaeria valdobbiae Ferraris SPECIES
 
 #### Status
 ACCEPTED

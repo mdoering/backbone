@@ -1,5 +1,4 @@
-Collema ramenskii Elenkin SPECIES
-=======
+# Collema ramenskii Elenkin SPECIES
 
 #### Status
 ACCEPTED

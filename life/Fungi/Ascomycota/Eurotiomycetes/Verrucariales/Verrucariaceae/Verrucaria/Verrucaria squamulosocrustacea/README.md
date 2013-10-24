@@ -1,5 +1,4 @@
-Verrucaria squamulosocrustacea (Savast.) Oxner SPECIES
-=======
+# Verrucaria squamulosocrustacea (Savast.) Oxner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Paecilomyces cremeo-rosei Bat. SPECIES
-=======
+# Paecilomyces cremeoroseus Bat., 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Batista & Maia, Anais Soc. Biol. Pernambuco 15(1): 149 (1957)
 
 #### Original name
-Paecilomyces cremeo-rosei Bat.
+Paecilomyces cremeoroseus Bat., 1957
 
 ### Remarks
 null

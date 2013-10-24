@@ -1,5 +1,4 @@
-Ebria tripartita (Schumann) Lemmermann SPECIES
-=======
+# Ebria tripartita (Schumann) Lemmermann SPECIES
 
 #### Status
 ACCEPTED

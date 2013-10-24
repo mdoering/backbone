@@ -1,5 +1,4 @@
-Septogloeum savulescui Negru SPECIES
-=======
+# Septogloeum savulescui Negru SPECIES
 
 #### Status
 ACCEPTED

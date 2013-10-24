@@ -1,14 +1,13 @@
-Anthracoidea uleiana (Syd. & P. Syd.) Vánky SPECIES
-=======
+# Anthracoidea uleana (Syd. & P. Syd.) Vánky SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 62: 144 (1997)
 
 #### Original name
 Cintractia uleana Syd. & P. Syd.

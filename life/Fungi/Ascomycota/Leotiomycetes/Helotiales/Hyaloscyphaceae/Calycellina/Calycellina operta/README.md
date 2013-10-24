@@ -1,5 +1,4 @@
-Calycellina operta Svrcek SPECIES
-=======
+# Calycellina operta Svrcek SPECIES
 
 #### Status
 ACCEPTED

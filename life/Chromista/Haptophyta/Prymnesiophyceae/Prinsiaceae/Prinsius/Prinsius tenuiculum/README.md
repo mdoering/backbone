@@ -1,8 +1,7 @@
-Prinsius rosenkrantzii Perch-Nielsen, 1979 SPECIES
-=======
+# Prinsius tenuiculum (Okada & Thierstein, 1979) Perch-Nielsen, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

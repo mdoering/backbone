@@ -1,5 +1,4 @@
-Uredo iwatensis Dietel SPECIES
-=======
+# Uredo iwatensis Dietel SPECIES
 
 #### Status
 ACCEPTED

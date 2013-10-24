@@ -1,5 +1,4 @@
-Coniochaeta pilifera (A. Bayer) N. Lundq. SPECIES
-=======
+# Coniochaeta pilifera (A. Bayer) N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

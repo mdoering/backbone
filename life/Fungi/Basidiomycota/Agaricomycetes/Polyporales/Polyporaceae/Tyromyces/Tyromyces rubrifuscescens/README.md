@@ -1,5 +1,4 @@
-Tyromyces rubrifuscescens Corner SPECIES
-=======
+# Tyromyces rubrifuscescens Corner SPECIES
 
 #### Status
 ACCEPTED

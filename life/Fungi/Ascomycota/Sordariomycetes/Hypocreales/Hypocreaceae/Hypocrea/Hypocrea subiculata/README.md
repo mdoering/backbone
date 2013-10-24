@@ -1,5 +1,4 @@
-Hypocrea subiculata Theiss. SPECIES
-=======
+# Hypocrea subiculata Theiss. SPECIES
 
 #### Status
 ACCEPTED

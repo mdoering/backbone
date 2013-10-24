@@ -1,8 +1,7 @@
-Phyllosticta saponariae (Fuckel) Sacc., 1878 SPECIES
-=======
+# Asteromella saponariae (Fuckel) Petr., 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Ascochyta saponariae Fuckel, 1870
 
 ### Remarks
 null

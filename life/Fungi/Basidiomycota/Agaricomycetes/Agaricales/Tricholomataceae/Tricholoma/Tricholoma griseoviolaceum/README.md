@@ -1,5 +1,4 @@
-Tricholoma griseoviolaceum Shanks SPECIES
-=======
+# Tricholoma griseoviolaceum Shanks SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strombidium kryale Petz, 1994 SPECIES
-=======
+# Strombidium kryale Petz, 1994 SPECIES
 
 #### Status
 ACCEPTED

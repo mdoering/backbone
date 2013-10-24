@@ -1,5 +1,4 @@
-Cercosporella oenotherae Speg. SPECIES
-=======
+# Cercosporella oenotherae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cantharellus plicatulus (Heinem.) Corner SPECIES
-=======
+# Cantharellus plicatulus (Heinem.) Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zeora lightfootii SPECIES
-=======
+# Zeora lightfootii SPECIES
 
 #### Status
 ACCEPTED

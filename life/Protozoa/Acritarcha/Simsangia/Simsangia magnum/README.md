@@ -1,5 +1,4 @@
-Simsangia magnum Salujha, Kindra & Rehman, 1972 SPECIES
-=======
+# Simsangia magnum Salujha, Kindra & Rehman, 1972 SPECIES
 
 #### Status
 ACCEPTED

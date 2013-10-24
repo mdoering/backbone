@@ -1,5 +1,4 @@
-Parmelia conspurcata f. conspurcata FORM
-=======
+# Parmelia conspurcata (Schaer.) Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia conspurcata f. conspurcata
+Parmelia olivacea (L.) Ach.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaeronaema hystricinum Ellis SPECIES
-=======
+# Sphaeronaema hystricinum Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeocapsa shuttleworthiana Kützing SPECIES
-=======
+# Gloeocapsa shuttleworthiana Kützing SPECIES
 
 #### Status
 ACCEPTED

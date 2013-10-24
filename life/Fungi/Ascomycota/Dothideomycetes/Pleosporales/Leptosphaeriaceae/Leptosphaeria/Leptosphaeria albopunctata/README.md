@@ -1,17 +1,16 @@
-Leptosphaeria stricta Ellis & Everhart SPECIES
-=======
+# Leptosphaeria albopunctata (Westend.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 2: 72 (1883)
 
 #### Original name
-null
+Sphaeria albopunctata Westend., 1859
 
 ### Remarks
 null

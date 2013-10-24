@@ -1,5 +1,4 @@
-Collema melanochlorum Hue SPECIES
-=======
+# Collema melanochlorum Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phoma pomorum var. cyanea (Jooste & Papendorf) Aveskamp, Gruyter & Verkley, 2009 VARIETY
-=======
+# Phoma cyanea Jooste & Papendorf, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 12(2): 444 (1981)
 
 #### Original name
-null
+Phoma cyanea Jooste & Papendorf, 1981
 
 ### Remarks
 null

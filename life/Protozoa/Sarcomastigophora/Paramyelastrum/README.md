@@ -1,5 +1,4 @@
-Paramyelastrum Kozur & Mostler, 1978 GENUS
-=======
+# Paramyelastrum Kozur & Mostler, 1978 GENUS
 
 #### Status
 ACCEPTED

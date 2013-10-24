@@ -1,5 +1,4 @@
-Pertusaria polyzonalis Erichsen SPECIES
-=======
+# Pertusaria polyzonalis Erichsen SPECIES
 
 #### Status
 ACCEPTED

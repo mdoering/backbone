@@ -1,5 +1,4 @@
-Calocera cornea-cincta Pers. SPECIES
-=======
+# Calocera cornea-cincta Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catillaria hemitropa (Nyl.) Zahlbr. SPECIES
-=======
+# Catillaria hemitropa (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

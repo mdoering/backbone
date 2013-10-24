@@ -1,5 +1,4 @@
-Clitocybe robinsoniae Murrill SPECIES
-=======
+# Clitocybe robinsoniae Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cochliobolus neergaardii Alcorn, 1990 SPECIES
-=======
+# Cochliobolus neergaardii Alcorn, 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus insipidus Schulzer SPECIES
-=======
+# Agaricus insipidus Schulzer SPECIES
 
 #### Status
 ACCEPTED

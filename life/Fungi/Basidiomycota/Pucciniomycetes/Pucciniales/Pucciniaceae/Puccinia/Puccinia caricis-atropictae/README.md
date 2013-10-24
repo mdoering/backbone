@@ -1,5 +1,4 @@
-Puccinia caricis-atropictae Speg. SPECIES
-=======
+# Puccinia caricis-atropictae Speg. SPECIES
 
 #### Status
 ACCEPTED

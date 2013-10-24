@@ -1,8 +1,7 @@
-Dermocarpa pacifica Setchell & Gardner SPECIES
-=======
+# Cyanocystis pacifica (Setchell & Gardner) Komárek & Anagnostidis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

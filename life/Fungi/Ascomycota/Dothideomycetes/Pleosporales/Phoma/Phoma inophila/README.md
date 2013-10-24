@@ -1,5 +1,4 @@
-Phoma inophila Berk. SPECIES
-=======
+# Phoma inophila Berk. SPECIES
 
 #### Status
 ACCEPTED

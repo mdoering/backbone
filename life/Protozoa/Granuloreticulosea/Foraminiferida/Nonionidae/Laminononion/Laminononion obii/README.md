@@ -1,5 +1,4 @@
-Laminononion obii Saidova, 1975 SPECIES
-=======
+# Laminononion obii Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

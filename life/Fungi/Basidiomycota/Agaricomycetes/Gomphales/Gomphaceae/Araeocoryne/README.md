@@ -1,5 +1,4 @@
-Araeocoryne Corner GENUS
-=======
+# Araeocoryne Corner GENUS
 
 #### Status
 ACCEPTED

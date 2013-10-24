@@ -1,5 +1,4 @@
-Prosthecomicrobium hirschii Staley, 1984 SPECIES
-=======
+# Prosthecomicrobium hirschii Staley, 1984 SPECIES
 
 #### Status
 ACCEPTED

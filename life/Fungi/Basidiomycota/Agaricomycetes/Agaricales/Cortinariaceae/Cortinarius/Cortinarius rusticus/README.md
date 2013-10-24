@@ -1,5 +1,4 @@
-Cortinarius rusticus P. Karst. SPECIES
-=======
+# Cortinarius rusticus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

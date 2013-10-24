@@ -1,5 +1,4 @@
-Gymnodinium varians Maskell SPECIES
-=======
+# Gymnodinium varians Maskell SPECIES
 
 #### Status
 ACCEPTED

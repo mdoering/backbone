@@ -1,5 +1,4 @@
-Ascobolus pseudocainii Prokhorov SPECIES
-=======
+# Ascobolus pseudocainii Prokhorov SPECIES
 
 #### Status
 ACCEPTED

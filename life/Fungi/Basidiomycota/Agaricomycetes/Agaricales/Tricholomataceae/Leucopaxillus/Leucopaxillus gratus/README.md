@@ -1,5 +1,4 @@
-Leucopaxillus gratus Corner SPECIES
-=======
+# Leucopaxillus gratus Corner SPECIES
 
 #### Status
 ACCEPTED

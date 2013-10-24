@@ -1,5 +1,4 @@
-Valsa exudans House SPECIES
-=======
+# Valsa exudans House SPECIES
 
 #### Status
 ACCEPTED

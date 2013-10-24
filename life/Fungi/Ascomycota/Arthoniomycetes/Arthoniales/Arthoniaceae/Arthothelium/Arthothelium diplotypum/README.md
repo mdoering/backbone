@@ -1,5 +1,4 @@
-Arthothelium diplotypum Zahlbr. SPECIES
-=======
+# Arthothelium diplotypum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramaria subfennica (Coker) Corner SPECIES
-=======
+# Ramaria subfennica (Coker) Corner SPECIES
 
 #### Status
 ACCEPTED

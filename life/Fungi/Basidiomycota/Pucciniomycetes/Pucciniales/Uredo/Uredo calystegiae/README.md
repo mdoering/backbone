@@ -1,5 +1,4 @@
-Uredo calystegiae Sawada SPECIES
-=======
+# Uredo calystegiae Sawada SPECIES
 
 #### Status
 ACCEPTED

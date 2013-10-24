@@ -1,5 +1,4 @@
-Lecidea rhizocarpiza Zahlbr. SPECIES
-=======
+# Lecidea rhizocarpiza Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

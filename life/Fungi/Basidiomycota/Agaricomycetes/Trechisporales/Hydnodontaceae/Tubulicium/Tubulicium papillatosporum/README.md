@@ -1,5 +1,4 @@
-Tubulicium papillatosporum G. Moreno & Esteve-Rav. SPECIES
-=======
+# Tubulicium papillatosporum G. Moreno & Esteve-Rav. SPECIES
 
 #### Status
 ACCEPTED

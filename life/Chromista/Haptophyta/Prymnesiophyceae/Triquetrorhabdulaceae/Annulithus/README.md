@@ -1,5 +1,4 @@
-Annulithus Rood, Hay & Barnard GENUS
-=======
+# Annulithus Rood, Hay & Barnard GENUS
 
 #### Status
 ACCEPTED

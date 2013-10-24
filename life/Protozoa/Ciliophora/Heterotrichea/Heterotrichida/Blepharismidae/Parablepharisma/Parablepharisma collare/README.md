@@ -1,5 +1,4 @@
-Parablepharisma collare Kahl, 1932 SPECIES
-=======
+# Parablepharisma collare Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

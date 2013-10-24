@@ -1,5 +1,4 @@
-Macrocystidia incarnata Singer SPECIES
-=======
+# Macrocystidia incarnata Singer SPECIES
 
 #### Status
 ACCEPTED

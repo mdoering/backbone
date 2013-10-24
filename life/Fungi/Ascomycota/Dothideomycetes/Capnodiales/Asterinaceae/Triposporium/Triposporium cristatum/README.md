@@ -1,5 +1,4 @@
-Triposporium cristatum Pat. SPECIES
-=======
+# Triposporium cristatum Pat. SPECIES
 
 #### Status
 ACCEPTED

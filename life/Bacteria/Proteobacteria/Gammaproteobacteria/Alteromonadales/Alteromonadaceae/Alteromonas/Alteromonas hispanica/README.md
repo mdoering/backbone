@@ -1,5 +1,4 @@
-Alteromonas hispanica Martínez-Checa et al., 2005 SPECIES
-=======
+# Alteromonas hispanica Martínez-Checa et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

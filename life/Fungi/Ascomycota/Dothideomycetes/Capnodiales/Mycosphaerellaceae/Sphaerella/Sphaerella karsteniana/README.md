@@ -1,5 +1,4 @@
-Sphaerella karsteniana Speg. SPECIES
-=======
+# Sphaerella karsteniana Speg. SPECIES
 
 #### Status
 ACCEPTED

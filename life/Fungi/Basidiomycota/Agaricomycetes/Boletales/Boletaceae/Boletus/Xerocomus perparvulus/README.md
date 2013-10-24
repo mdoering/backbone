@@ -1,5 +1,4 @@
-Xerocomus perparvulus R. Heim & Gilles SPECIES
-=======
+# Xerocomus perparvulus R. Heim & Gilles SPECIES
 
 #### Status
 ACCEPTED

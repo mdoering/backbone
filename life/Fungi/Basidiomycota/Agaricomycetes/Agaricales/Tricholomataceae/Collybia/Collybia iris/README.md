@@ -1,5 +1,4 @@
-Collybia iris Massee & Rodway SPECIES
-=======
+# Collybia iris Massee & Rodway SPECIES
 
 #### Status
 ACCEPTED

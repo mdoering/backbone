@@ -1,17 +1,16 @@
-Urobasidium Giesenh. GENUS
-=======
+# Zygosporium C. Montagne, 1842 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Flora, Jena 76: 139 (1893)
+null
 
 #### Original name
-Urobasidium Giesenh.
+null
 
 ### Remarks
 null

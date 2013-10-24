@@ -1,5 +1,4 @@
-Pluteus compressipes Murrill SPECIES
-=======
+# Pluteus compressipes Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimeromyces tomoderi Thaxt. SPECIES
-=======
+# Dimeromyces tomoderi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

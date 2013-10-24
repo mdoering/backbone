@@ -1,5 +1,4 @@
-Arctomia muscicola A.L. Sm. SPECIES
-=======
+# Arctomia muscicola A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

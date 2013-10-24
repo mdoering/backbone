@@ -1,5 +1,4 @@
-Ascochyta australis Speg. SPECIES
-=======
+# Ascochyta australis Speg. SPECIES
 
 #### Status
 ACCEPTED

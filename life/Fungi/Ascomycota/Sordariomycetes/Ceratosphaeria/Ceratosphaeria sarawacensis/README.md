@@ -1,5 +1,4 @@
-Ceratosphaeria sarawacensis (Ces.) Sacc. SPECIES
-=======
+# Ceratosphaeria sarawacensis (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

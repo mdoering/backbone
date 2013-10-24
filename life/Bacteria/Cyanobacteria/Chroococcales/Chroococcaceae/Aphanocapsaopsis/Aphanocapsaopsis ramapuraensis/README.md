@@ -1,5 +1,4 @@
-Aphanocapsaopsis ramapuraensis P. K. Maithy & M. Shukla SPECIES
-=======
+# Aphanocapsaopsis ramapuraensis P. K. Maithy & M. Shukla SPECIES
 
 #### Status
 ACCEPTED

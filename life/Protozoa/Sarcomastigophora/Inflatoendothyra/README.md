@@ -1,5 +1,4 @@
-Inflatoendothyra Brazhnikova & Vdovenko in Vdovenko, 1972 GENUS
-=======
+# Inflatoendothyra Brazhnikova & Vdovenko in Vdovenko, 1972 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora bambusae Pass. SPECIES
-=======
+# Pleospora bambusae Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phragmothyrites ostiolatus (Cookson) Selkirk SPECIES
-=======
+# Phragmothyrites ostiolatus (Cookson) Selkirk SPECIES
 
 #### Status
 ACCEPTED

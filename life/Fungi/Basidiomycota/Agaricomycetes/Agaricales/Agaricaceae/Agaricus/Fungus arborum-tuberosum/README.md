@@ -1,5 +1,4 @@
-Fungus arborum-tuberosum Rumph. SPECIES
-=======
+# Fungus arborum-tuberosum Rumph. SPECIES
 
 #### Status
 ACCEPTED

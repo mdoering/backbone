@@ -1,5 +1,4 @@
-Cercospora portulacae Thirum. & Govindu SPECIES
-=======
+# Cercospora portulacae Thirum. & Govindu SPECIES
 
 #### Status
 ACCEPTED

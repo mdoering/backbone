@@ -1,5 +1,4 @@
-Phyllosticta stephanotidis Grove SPECIES
-=======
+# Phyllosticta stephanotidis Grove SPECIES
 
 #### Status
 ACCEPTED

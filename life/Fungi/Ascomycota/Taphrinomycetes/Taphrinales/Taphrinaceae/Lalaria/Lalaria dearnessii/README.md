@@ -1,5 +1,4 @@
-Lalaria dearnessii R.T. Moore SPECIES
-=======
+# Lalaria dearnessii R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

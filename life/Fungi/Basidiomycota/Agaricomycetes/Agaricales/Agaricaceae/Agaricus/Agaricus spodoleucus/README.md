@@ -1,5 +1,4 @@
-Agaricus spodoleucus Fr. SPECIES
-=======
+# Agaricus spodoleucus Fr. SPECIES
 
 #### Status
 ACCEPTED

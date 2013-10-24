@@ -1,17 +1,16 @@
-Pyreniopsis Kuntze GENUS
-=======
+# Trichoderma Persoon, 1794 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(3): 508 (1898)
+Neues Mag. Bot. 1: 92 (1794)
 
 #### Original name
-Pyreniopsis Kuntze
+Trichoderma Persoon, 1794
 
 ### Remarks
 null

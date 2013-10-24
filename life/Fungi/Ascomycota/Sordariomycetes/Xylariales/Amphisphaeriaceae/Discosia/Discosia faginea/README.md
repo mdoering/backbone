@@ -1,5 +1,4 @@
-Discosia faginea Lib. SPECIES
-=======
+# Discosia faginea Lib. SPECIES
 
 #### Status
 ACCEPTED

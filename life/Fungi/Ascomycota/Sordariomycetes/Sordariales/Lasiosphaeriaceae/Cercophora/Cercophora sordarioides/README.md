@@ -1,5 +1,4 @@
-Cercophora sordarioides (Speg.) N. Lundq. SPECIES
-=======
+# Cercophora sordarioides (Speg.) N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

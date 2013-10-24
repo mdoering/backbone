@@ -1,5 +1,4 @@
-Phlegmacium moseri E. Horak SPECIES
-=======
+# Phlegmacium moseri E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubercularia erumpens Corda SPECIES
-=======
+# Tubercularia erumpens Corda SPECIES
 
 #### Status
 ACCEPTED

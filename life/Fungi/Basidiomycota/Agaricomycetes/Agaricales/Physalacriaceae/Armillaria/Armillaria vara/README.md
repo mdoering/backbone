@@ -1,5 +1,4 @@
-Armillaria vara (Berk.) Sacc. SPECIES
-=======
+# Armillaria vara (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

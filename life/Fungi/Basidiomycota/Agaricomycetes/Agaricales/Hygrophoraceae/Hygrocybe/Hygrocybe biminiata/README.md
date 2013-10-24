@@ -1,5 +1,4 @@
-Hygrocybe biminiata Kühner SPECIES
-=======
+# Hygrocybe biminiata Kühner SPECIES
 
 #### Status
 ACCEPTED

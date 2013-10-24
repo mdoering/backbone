@@ -1,5 +1,4 @@
-Amanita pubescens Schwein. SPECIES
-=======
+# Amanita pubescens Schwein. SPECIES
 
 #### Status
 ACCEPTED

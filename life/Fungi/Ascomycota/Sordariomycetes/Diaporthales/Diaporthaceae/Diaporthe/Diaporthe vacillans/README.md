@@ -1,5 +1,4 @@
-Diaporthe vacillans (De Not.) Sacc. SPECIES
-=======
+# Diaporthe vacillans (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

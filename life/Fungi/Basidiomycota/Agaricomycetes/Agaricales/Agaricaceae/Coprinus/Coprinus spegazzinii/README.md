@@ -1,5 +1,4 @@
-Coprinus spegazzinii P. Karst. SPECIES
-=======
+# Coprinus spegazzinii P. Karst. SPECIES
 
 #### Status
 ACCEPTED

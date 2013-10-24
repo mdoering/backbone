@@ -1,5 +1,4 @@
-Clavaria pedunculata Batsch SPECIES
-=======
+# Clavaria pedunculata Batsch SPECIES
 
 #### Status
 ACCEPTED

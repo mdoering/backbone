@@ -1,5 +1,4 @@
-Coeloanguillopsora B.J. Dyko & B.C. Sutton, 1978 GENUS
-=======
+# Coeloanguillopsora B.J. Dyko & B.C. Sutton, 1978 GENUS
 
 #### Status
 ACCEPTED

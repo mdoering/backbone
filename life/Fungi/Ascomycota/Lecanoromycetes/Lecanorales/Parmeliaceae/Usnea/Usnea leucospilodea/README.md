@@ -1,5 +1,4 @@
-Usnea leucospilodea Nyl. SPECIES
-=======
+# Usnea leucospilodea Nyl. SPECIES
 
 #### Status
 ACCEPTED

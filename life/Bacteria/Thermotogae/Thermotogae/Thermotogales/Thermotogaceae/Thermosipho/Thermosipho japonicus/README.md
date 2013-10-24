@@ -1,5 +1,4 @@
-Thermosipho japonicus Takai & Horikoshi, 2000 SPECIES
-=======
+# Thermosipho japonicus Takai & Horikoshi, 2000 SPECIES
 
 #### Status
 ACCEPTED

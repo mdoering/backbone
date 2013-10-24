@@ -1,14 +1,13 @@
-Microdiplodia fibricola (Berk.) Zambett., 1955 SPECIES
-=======
+# Diplodiella fibricola (Berk.) Sacc., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 3: 376 (1884)
 
 #### Original name
 Diplodia fibricola Berk., 1853

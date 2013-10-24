@@ -1,5 +1,4 @@
-Scytonema foliicolum var. maius Gardner VARIETY
-=======
+# Scytonema foliicolum De Wildeman SPECIES
 
 #### Status
 ACCEPTED

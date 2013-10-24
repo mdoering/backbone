@@ -1,5 +1,4 @@
-Septoria daphnes D. Sacc. SPECIES
-=======
+# Septoria daphnes D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

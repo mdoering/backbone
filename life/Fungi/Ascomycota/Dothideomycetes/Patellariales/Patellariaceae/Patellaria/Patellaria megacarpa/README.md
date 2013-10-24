@@ -1,5 +1,4 @@
-Patellaria megacarpa (Nyl.) Müll. Arg. SPECIES
-=======
+# Patellaria megacarpa (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

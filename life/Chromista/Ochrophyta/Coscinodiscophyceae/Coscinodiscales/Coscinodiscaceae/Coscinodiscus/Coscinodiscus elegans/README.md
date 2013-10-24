@@ -1,5 +1,4 @@
-Coscinodiscus elegans Grev., 1866 SPECIES
-=======
+# Coscinodiscus elegans Grev., 1866 SPECIES
 
 #### Status
 ACCEPTED

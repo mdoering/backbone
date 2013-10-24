@@ -1,5 +1,4 @@
-Diderma puiggarii (Speg.) Kuntze SPECIES
-=======
+# Diderma puiggarii (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia rimalis (Kurok.) Elix, A. Thell & Søchting SPECIES
-=======
+# Xanthoparmelia rimalis (Kurok.) Elix, A. Thell & Søchting SPECIES
 
 #### Status
 ACCEPTED

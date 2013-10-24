@@ -1,5 +1,4 @@
-Metadevescovina Light, 1926 GENUS
-=======
+# Metadevescovina Light, 1926 GENUS
 
 #### Status
 ACCEPTED

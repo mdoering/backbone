@@ -1,5 +1,4 @@
-Cladostephus hariotii Sauvageau SPECIES
-=======
+# Cladostephus hariotii Sauvageau SPECIES
 
 #### Status
 ACCEPTED

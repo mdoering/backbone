@@ -1,5 +1,4 @@
-Nocardiopsis dassonvillei subsp. dassonvillei (Brocq-Rousseau, 1904) Meyer, 1976 SUBSPECIES
-=======
+# Nocardiopsis dassonvillei (Brocq-Rousseau, 1904) Meyer, 1976 SPECIES
 
 #### Status
 ACCEPTED

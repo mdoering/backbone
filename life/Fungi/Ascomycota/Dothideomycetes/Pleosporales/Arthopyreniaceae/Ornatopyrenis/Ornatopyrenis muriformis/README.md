@@ -1,5 +1,4 @@
-Ornatopyrenis muriformis Aptroot SPECIES
-=======
+# Ornatopyrenis muriformis Aptroot SPECIES
 
 #### Status
 ACCEPTED

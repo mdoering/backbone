@@ -1,5 +1,4 @@
-Microchaete grisea var. major H. Kumar VARIETY
-=======
+# Microchaete grisea Thuret SPECIES
 
 #### Status
 ACCEPTED

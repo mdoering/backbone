@@ -1,5 +1,4 @@
-Xylaria euphorbiicola Rehm SPECIES
-=======
+# Xylaria euphorbiicola Rehm SPECIES
 
 #### Status
 ACCEPTED

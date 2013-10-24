@@ -1,5 +1,4 @@
-Leveillula bignoniacearum f. bignoniacearum FORM
-=======
+# Leveillula bignoniacearum Golovin SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leveillula bignoniacearum f. bignoniacearum
+Leveillula bignoniacearum Golovin
 
 ### Remarks
 null

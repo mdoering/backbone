@@ -1,5 +1,4 @@
-Pyropiloides elongatus Zheng, 1979 SPECIES
-=======
+# Pyropiloides elongatus Zheng, 1979 SPECIES
 
 #### Status
 ACCEPTED

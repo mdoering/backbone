@@ -1,8 +1,7 @@
-Myceloblastanon montoyai (Castell.) M. Ota SPECIES
-=======
+# Myceloblastanon montoyae (Castell.) M. Ota SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

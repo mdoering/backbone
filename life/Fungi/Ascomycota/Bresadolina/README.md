@@ -1,5 +1,4 @@
-Bresadolina Rick, 1928 GENUS
-=======
+# Bresadolina Rick, 1928 GENUS
 
 #### Status
 ACCEPTED

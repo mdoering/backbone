@@ -1,5 +1,4 @@
-Parmelia magna Lynge SPECIES
-=======
+# Parmelia magna Lynge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Clavaria truncata Quél., 1886 SPECIES
-=======
+# Clavariadelphus truncatus (Quél.) Donk, 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Enchir. fung. (Paris) 221 (1886)
+Meddn Bot. Mus. Herb. Rijhs Universit. Utrecht. 9: 73 (1933)
 
 #### Original name
 Clavaria truncata Quél., 1886

@@ -1,8 +1,7 @@
-Geaster kunzei G. Winter SPECIES
-=======
+# Geastrum kunzei G. Winter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster kunzei G. Winter
+Geastrum kunzei G. Winter
 
 ### Remarks
 null

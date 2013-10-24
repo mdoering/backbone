@@ -1,5 +1,4 @@
-Macrophoma ailanthi Brunaud SPECIES
-=======
+# Macrophoma ailanthi Brunaud SPECIES
 
 #### Status
 ACCEPTED

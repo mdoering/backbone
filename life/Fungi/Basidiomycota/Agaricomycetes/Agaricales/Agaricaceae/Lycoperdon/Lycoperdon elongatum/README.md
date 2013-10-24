@@ -1,5 +1,4 @@
-Lycoperdon elongatum Berk. SPECIES
-=======
+# Lycoperdon elongatum Berk. SPECIES
 
 #### Status
 ACCEPTED

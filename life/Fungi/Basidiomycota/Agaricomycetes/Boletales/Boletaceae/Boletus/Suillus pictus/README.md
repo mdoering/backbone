@@ -1,5 +1,4 @@
-Suillus pictus (Peck) A.H. Sm. & Thiers, 1964 SPECIES
-=======
+# Suillus pictus (Peck) A.H. Sm. & Thiers, 1964 SPECIES
 
 #### Status
 DOUBTFUL

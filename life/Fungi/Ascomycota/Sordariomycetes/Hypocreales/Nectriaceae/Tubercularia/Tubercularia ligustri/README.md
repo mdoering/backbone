@@ -1,5 +1,4 @@
-Tubercularia ligustri Cooke SPECIES
-=======
+# Tubercularia ligustri Cooke SPECIES
 
 #### Status
 ACCEPTED

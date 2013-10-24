@@ -1,5 +1,4 @@
-Arthothelium psyllodes var. psyllodes VARIETY
-=======
+# Arthothelium psyllodes Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Arthothelium psyllodes var. psyllodes
+Arthothelium psyllodes Zahlbr.
 
 ### Remarks
 null

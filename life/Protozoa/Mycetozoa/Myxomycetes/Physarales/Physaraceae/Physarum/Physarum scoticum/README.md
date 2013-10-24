@@ -1,5 +1,4 @@
-Physarum scoticum Ing, 1982 SPECIES
-=======
+# Physarum scoticum Ing, 1982 SPECIES
 
 #### Status
 ACCEPTED

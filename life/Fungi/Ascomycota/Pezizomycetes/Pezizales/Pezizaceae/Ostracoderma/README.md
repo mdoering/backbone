@@ -1,5 +1,4 @@
-Ostracoderma E.M. Fries, 1829 GENUS
-=======
+# Ostracoderma E.M. Fries, 1829 GENUS
 
 #### Status
 ACCEPTED

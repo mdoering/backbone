@@ -1,5 +1,4 @@
-Lomiella Puytorac, 1961 GENUS
-=======
+# Lomiella Puytorac, 1961 GENUS
 
 #### Status
 ACCEPTED

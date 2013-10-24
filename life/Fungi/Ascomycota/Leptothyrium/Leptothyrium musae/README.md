@@ -1,5 +1,4 @@
-Leptothyrium musae Cif. & Gonz. Frag. SPECIES
-=======
+# Leptothyrium musae Cif. & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

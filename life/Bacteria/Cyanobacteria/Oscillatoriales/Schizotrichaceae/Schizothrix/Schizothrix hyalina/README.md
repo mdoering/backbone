@@ -1,5 +1,4 @@
-Schizothrix hyalina Kuetzing SPECIES
-=======
+# Schizothrix hyalina Kuetzing SPECIES
 
 #### Status
 ACCEPTED

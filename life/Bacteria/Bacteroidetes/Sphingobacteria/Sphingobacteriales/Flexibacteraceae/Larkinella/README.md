@@ -1,5 +1,4 @@
-Larkinella Vancanneyt et al., 2006 GENUS
-=======
+# Larkinella Vancanneyt et al., 2006 GENUS
 
 #### Status
 ACCEPTED

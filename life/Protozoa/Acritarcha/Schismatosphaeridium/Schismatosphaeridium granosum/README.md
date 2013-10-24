@@ -1,5 +1,4 @@
-Schismatosphaeridium granosum Uutela & Tynni, 1991 SPECIES
-=======
+# Schismatosphaeridium granosum Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

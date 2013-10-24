@@ -1,5 +1,4 @@
-Erythrobacter litoralis Yurkov et al., 1994 SPECIES
-=======
+# Erythrobacter litoralis Yurkov et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

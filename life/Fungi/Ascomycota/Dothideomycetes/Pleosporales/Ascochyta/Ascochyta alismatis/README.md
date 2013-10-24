@@ -1,14 +1,13 @@
-Ascochyta alismatias (Oudem.) Trail SPECIES
-=======
+# Ascochyta alismatis Ellis & Everh., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Scott. Natural. , N. S. 9: 188 (1887)
 
 #### Original name
 Septoria alismatis Thüm.

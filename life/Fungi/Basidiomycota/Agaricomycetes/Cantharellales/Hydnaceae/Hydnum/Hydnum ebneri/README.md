@@ -1,5 +1,4 @@
-Hydnum ebneri Wettst. SPECIES
-=======
+# Hydnum ebneri Wettst. SPECIES
 
 #### Status
 ACCEPTED

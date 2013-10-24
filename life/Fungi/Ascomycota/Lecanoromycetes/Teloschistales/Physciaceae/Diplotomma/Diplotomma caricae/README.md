@@ -1,5 +1,4 @@
-Diplotomma caricae Bagl. SPECIES
-=======
+# Diplotomma caricae Bagl. SPECIES
 
 #### Status
 ACCEPTED

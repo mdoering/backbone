@@ -1,5 +1,4 @@
-Prunulus brevipes Murrill SPECIES
-=======
+# Prunulus brevipes Murrill SPECIES
 
 #### Status
 ACCEPTED

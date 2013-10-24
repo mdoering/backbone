@@ -1,5 +1,4 @@
-Phyllosticta leveillei Allesch. SPECIES
-=======
+# Phyllosticta leveillei Allesch. SPECIES
 
 #### Status
 ACCEPTED

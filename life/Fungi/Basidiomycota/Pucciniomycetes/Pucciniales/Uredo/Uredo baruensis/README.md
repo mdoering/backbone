@@ -1,5 +1,4 @@
-Uredo baruensis J.R. Hern. & Aime SPECIES
-=======
+# Uredo baruensis J.R. Hern. & Aime SPECIES
 
 #### Status
 ACCEPTED

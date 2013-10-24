@@ -1,5 +1,4 @@
-Pannularia nigra SPECIES
-=======
+# Pannularia nigra SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora albonigra H. Magn. SPECIES
-=======
+# Lecanora albonigra H. Magn. SPECIES
 
 #### Status
 ACCEPTED

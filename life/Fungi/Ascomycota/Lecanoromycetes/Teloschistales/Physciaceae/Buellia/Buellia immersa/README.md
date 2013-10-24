@@ -1,5 +1,4 @@
-Buellia immersa Lynge SPECIES
-=======
+# Buellia immersa Lynge SPECIES
 
 #### Status
 ACCEPTED

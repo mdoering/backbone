@@ -1,5 +1,4 @@
-Nectria dacryocarpa Samuels SPECIES
-=======
+# Nectria dacryocarpa Samuels SPECIES
 
 #### Status
 ACCEPTED

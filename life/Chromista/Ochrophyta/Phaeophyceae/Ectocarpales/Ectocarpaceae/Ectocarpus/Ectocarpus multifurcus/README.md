@@ -1,5 +1,4 @@
-Ectocarpus multifurcus Zanardini SPECIES
-=======
+# Ectocarpus multifurcus Zanardini SPECIES
 
 #### Status
 ACCEPTED

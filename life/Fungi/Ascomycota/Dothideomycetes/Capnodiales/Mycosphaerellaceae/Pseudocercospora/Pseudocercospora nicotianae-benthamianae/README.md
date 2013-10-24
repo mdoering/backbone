@@ -1,5 +1,4 @@
-Pseudocercospora nicotianae-benthamianae Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora nicotianae-benthamianae Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

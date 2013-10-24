@@ -1,5 +1,4 @@
-Septoria salicifoliae (Trel.) Berl. & Voglino SPECIES
-=======
+# Septoria salicifoliae (Trel.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

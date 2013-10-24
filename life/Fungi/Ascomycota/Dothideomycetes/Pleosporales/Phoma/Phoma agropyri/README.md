@@ -1,5 +1,4 @@
-Phoma agropyri Lobik SPECIES
-=======
+# Phoma agropyri Lobik SPECIES
 
 #### Status
 ACCEPTED

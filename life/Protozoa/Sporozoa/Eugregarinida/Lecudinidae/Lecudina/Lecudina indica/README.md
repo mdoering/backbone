@@ -1,5 +1,4 @@
-Lecudina indica Ganapati, 1946 SPECIES
-=======
+# Lecudina indica Ganapati, 1946 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylon luteoviridis Kirschst. SPECIES
-=======
+# Hypoxylon luteoviridis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elsinoë rhynchosiae Jenkins & A.M.J. Watson SPECIES
-=======
+# Elsinoë rhynchosiae Jenkins & A.M.J. Watson SPECIES
 
 #### Status
 ACCEPTED

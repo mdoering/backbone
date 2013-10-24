@@ -1,5 +1,4 @@
-Camptothrix W. West & G.S. West, 1897 GENUS
-=======
+# Camptothrix W. West & G.S. West, 1897 GENUS
 
 #### Status
 ACCEPTED

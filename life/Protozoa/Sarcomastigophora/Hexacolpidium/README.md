@@ -1,5 +1,4 @@
-Hexacolpidium Haeckel, 1887 GENUS
-=======
+# Hexacolpidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalospora eucalypti (Rolland) Schrantz, 1960 SPECIES
-=======
+# Physalospora eucalypti (Rolland) Schrantz, 1960 SPECIES
 
 #### Status
 ACCEPTED

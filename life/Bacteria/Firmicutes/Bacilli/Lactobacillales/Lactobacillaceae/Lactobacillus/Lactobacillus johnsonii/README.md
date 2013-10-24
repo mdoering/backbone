@@ -1,5 +1,4 @@
-Lactobacillus johnsonii Fujisawa et al., 1992 SPECIES
-=======
+# Lactobacillus johnsonii Fujisawa et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

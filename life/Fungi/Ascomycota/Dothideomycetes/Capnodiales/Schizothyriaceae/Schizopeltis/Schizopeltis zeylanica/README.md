@@ -1,5 +1,4 @@
-Schizopeltis zeylanica (Cooke & Massee) Bat. SPECIES
-=======
+# Schizopeltis zeylanica (Cooke & Massee) Bat. SPECIES
 
 #### Status
 ACCEPTED

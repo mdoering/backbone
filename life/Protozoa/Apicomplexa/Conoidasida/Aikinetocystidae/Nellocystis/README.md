@@ -1,5 +1,4 @@
-Nellocystis Gates, 1933 GENUS
-=======
+# Nellocystis Gates, 1933 GENUS
 
 #### Status
 ACCEPTED

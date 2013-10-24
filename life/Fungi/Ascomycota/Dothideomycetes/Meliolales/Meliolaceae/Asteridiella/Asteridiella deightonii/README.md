@@ -1,5 +1,4 @@
-Asteridiella deightonii (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella deightonii (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

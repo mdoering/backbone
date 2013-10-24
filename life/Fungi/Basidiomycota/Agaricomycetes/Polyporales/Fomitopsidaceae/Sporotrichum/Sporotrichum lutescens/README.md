@@ -1,5 +1,4 @@
-Sporotrichum lutescens Schwein. SPECIES
-=======
+# Sporotrichum lutescens Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca erythranthoides (Vain.) Zahlbr. SPECIES
-=======
+# Caloplaca erythranthoides (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cantharellus candicans (Pers.) Duby SPECIES
-=======
+# Cantharellus candicans (Pers.) Duby SPECIES
 
 #### Status
 ACCEPTED

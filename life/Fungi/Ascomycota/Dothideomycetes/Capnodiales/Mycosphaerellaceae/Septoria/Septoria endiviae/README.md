@@ -1,5 +1,4 @@
-Septoria endiviae Thüm. SPECIES
-=======
+# Septoria endiviae Thüm. SPECIES
 
 #### Status
 ACCEPTED

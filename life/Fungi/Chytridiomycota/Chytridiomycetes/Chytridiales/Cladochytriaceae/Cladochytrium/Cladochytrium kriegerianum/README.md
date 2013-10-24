@@ -1,5 +1,4 @@
-Cladochytrium kriegerianum (Magnus) A. Fisch. SPECIES
-=======
+# Cladochytrium kriegerianum (Magnus) A. Fisch. SPECIES
 
 #### Status
 ACCEPTED

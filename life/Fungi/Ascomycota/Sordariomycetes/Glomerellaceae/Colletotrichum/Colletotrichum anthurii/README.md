@@ -1,5 +1,4 @@
-Colletotrichum anthurii Delacr. SPECIES
-=======
+# Colletotrichum anthurii Delacr. SPECIES
 
 #### Status
 ACCEPTED

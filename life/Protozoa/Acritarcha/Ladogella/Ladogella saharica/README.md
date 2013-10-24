@@ -1,5 +1,4 @@
-Ladogella saharica Vecoli & Playford, 1997 SPECIES
-=======
+# Ladogella saharica Vecoli & Playford, 1997 SPECIES
 
 #### Status
 ACCEPTED

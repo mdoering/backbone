@@ -1,5 +1,4 @@
-Lissodinium heteroporum M. C. Carbonell-Moore SPECIES
-=======
+# Lissodinium heteroporum M. C. Carbonell-Moore SPECIES
 
 #### Status
 ACCEPTED

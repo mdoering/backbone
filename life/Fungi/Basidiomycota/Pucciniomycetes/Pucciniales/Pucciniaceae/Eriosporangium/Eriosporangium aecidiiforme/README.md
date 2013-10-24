@@ -1,5 +1,4 @@
-Eriosporangium aecidiiforme (Thüm.) Dietel SPECIES
-=======
+# Eriosporangium aecidiiforme (Thüm.) Dietel SPECIES
 
 #### Status
 ACCEPTED

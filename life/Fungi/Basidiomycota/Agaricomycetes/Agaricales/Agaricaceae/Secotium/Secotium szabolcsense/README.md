@@ -1,5 +1,4 @@
-Secotium szabolcsense Hazsl. SPECIES
-=======
+# Secotium szabolcsense Hazsl. SPECIES
 
 #### Status
 ACCEPTED

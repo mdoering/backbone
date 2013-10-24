@@ -1,5 +1,4 @@
-Sphaerella caroliniana F.A. Wolf SPECIES
-=======
+# Sphaerella caroliniana F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

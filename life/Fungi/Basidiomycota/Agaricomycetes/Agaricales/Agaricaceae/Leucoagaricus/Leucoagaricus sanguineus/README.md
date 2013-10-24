@@ -1,5 +1,4 @@
-Leucoagaricus sanguineus (Beeli) Heinem. SPECIES
-=======
+# Leucoagaricus sanguineus (Beeli) Heinem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia retamae Gonz. Frag. SPECIES
-=======
+# Hendersonia retamae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

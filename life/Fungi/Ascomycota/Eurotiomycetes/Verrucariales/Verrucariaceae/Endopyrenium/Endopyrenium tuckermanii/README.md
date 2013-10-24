@@ -1,5 +1,4 @@
-Endopyrenium tuckermanii (Ravenel ex Mont.) Zahlbr. SPECIES
-=======
+# Endopyrenium tuckermanii (Ravenel ex Mont.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

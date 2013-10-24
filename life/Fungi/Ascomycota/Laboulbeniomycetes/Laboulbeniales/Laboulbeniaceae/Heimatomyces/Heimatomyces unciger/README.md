@@ -1,5 +1,4 @@
-Heimatomyces unciger Thaxt. SPECIES
-=======
+# Heimatomyces unciger Thaxt. SPECIES
 
 #### Status
 ACCEPTED

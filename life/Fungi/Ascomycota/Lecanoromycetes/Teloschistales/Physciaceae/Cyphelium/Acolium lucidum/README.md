@@ -1,5 +1,4 @@
-Acolium lucidum Th. Fr. SPECIES
-=======
+# Acolium lucidum Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

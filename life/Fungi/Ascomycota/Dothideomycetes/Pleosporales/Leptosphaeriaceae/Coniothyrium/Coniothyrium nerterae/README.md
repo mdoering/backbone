@@ -1,5 +1,4 @@
-Coniothyrium nerterae Jørst. SPECIES
-=======
+# Coniothyrium nerterae Jørst. SPECIES
 
 #### Status
 ACCEPTED

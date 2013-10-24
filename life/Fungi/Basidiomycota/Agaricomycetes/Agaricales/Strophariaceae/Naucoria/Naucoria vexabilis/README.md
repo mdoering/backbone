@@ -1,5 +1,4 @@
-Naucoria vexabilis (Britzelm.) Sacc. SPECIES
-=======
+# Naucoria vexabilis (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

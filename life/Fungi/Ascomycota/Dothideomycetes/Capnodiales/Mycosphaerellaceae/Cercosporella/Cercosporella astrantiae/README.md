@@ -1,5 +1,4 @@
-Cercosporella astrantiae Siemaszko SPECIES
-=======
+# Cercosporella astrantiae Siemaszko SPECIES
 
 #### Status
 ACCEPTED

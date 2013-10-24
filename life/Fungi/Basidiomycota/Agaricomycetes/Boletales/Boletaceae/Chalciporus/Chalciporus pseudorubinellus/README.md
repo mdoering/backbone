@@ -1,5 +1,4 @@
-Chalciporus pseudorubinellus (A.H. Sm. & Thiers) L.D. Gómez SPECIES
-=======
+# Chalciporus pseudorubinellus (A.H. Sm. & Thiers) L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

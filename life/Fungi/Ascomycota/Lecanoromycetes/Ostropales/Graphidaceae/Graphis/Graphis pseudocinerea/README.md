@@ -1,5 +1,4 @@
-Graphis pseudocinerea Lücking & Umaña SPECIES
-=======
+# Graphis pseudocinerea Lücking & Umaña SPECIES
 
 #### Status
 ACCEPTED

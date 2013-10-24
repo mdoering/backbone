@@ -1,11 +1,10 @@
-Pseudobacterium ferrugineum (Sickles & Shaw, 1934) Krasil'nikov, 1949 SPECIES
-=======
+# Terrimonas ferruginea (Sickles & Shaw, 1934) Xie & Yokota, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

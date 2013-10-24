@@ -1,17 +1,16 @@
-Chrysothallus capraea Velen. SPECIES
-=======
+# Chrysothallus capreae Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Novitates Mycologicae Novissimae 136 (1947)
 
 #### Original name
-Chrysothallus capraea Velen.
+Chrysothallus capreae Velen.
 
 ### Remarks
 null

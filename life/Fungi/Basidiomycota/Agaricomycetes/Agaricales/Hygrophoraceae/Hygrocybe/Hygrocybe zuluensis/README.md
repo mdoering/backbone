@@ -1,5 +1,4 @@
-Hygrocybe zuluensis Boertm. SPECIES
-=======
+# Hygrocybe zuluensis Boertm. SPECIES
 
 #### Status
 ACCEPTED

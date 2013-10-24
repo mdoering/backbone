@@ -1,5 +1,4 @@
-Ceriporia herinkii Vampola SPECIES
-=======
+# Ceriporia herinkii Vampola SPECIES
 
 #### Status
 ACCEPTED

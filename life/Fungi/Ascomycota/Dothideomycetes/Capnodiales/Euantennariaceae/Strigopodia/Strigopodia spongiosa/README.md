@@ -1,5 +1,4 @@
-Strigopodia spongiosa (M.E. Barr) M.E. Barr SPECIES
-=======
+# Strigopodia spongiosa (M.E. Barr) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

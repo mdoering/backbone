@@ -1,5 +1,4 @@
-Candelaria vulgaris A. Massal. SPECIES
-=======
+# Candelaria vulgaris A. Massal. SPECIES
 
 #### Status
 ACCEPTED

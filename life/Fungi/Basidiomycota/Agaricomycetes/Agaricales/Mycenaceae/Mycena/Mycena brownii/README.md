@@ -1,5 +1,4 @@
-Mycena brownii A.H. Sm. SPECIES
-=======
+# Mycena brownii A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria succisicola var. succisicola VARIETY
-=======
+# Septoria succisicola Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria succisicola var. succisicola
+Septoria succisicola Sacc.
 
 ### Remarks
 null

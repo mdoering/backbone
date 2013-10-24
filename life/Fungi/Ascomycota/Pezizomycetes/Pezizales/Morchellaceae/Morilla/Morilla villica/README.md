@@ -1,5 +1,4 @@
-Morilla villica var. villica VARIETY
-=======
+# Morilla villica anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Morilla villica var. villica
+Morilla villica anon.
 
 ### Remarks
 null

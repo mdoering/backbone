@@ -1,5 +1,4 @@
-Mortierella indohii C.Y. Chien, 1974 SPECIES
-=======
+# Mortierella indohii C.Y. Chien, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteus rimosus Murrill SPECIES
-=======
+# Pluteus rimosus Murrill SPECIES
 
 #### Status
 ACCEPTED

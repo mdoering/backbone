@@ -1,14 +1,13 @@
-Lachnella subtilissima (Cooke) W. Phillips, 1887 SPECIES
-=======
+# Lachnellula subtilissima (Cooke) Dennis, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 244 (1887)
+Persoonia 2(2): 184 (1962)
 
 #### Original name
 null

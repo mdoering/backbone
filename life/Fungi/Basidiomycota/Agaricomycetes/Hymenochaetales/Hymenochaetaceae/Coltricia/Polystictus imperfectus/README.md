@@ -1,5 +1,4 @@
-Polystictus imperfectus (Peck) Sacc. SPECIES
-=======
+# Polystictus imperfectus (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

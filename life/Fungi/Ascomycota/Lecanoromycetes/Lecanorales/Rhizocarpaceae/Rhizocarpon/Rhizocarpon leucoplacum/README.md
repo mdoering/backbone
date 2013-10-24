@@ -1,5 +1,4 @@
-Rhizocarpon leucoplacum (DC.) Poetsch & Schiderm. {?} SPECIES
-=======
+# Rhizocarpon leucoplacum (DC.) Poetsch & Schiderm. {?} SPECIES
 
 #### Status
 ACCEPTED

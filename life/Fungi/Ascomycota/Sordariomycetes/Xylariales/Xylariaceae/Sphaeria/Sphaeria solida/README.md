@@ -1,5 +1,4 @@
-Sphaeria solida Sowerby SPECIES
-=======
+# Sphaeria solida Sowerby SPECIES
 
 #### Status
 ACCEPTED

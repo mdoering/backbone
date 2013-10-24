@@ -1,5 +1,4 @@
-Lecanidion sepincola Rabenh. SPECIES
-=======
+# Lecanidion sepincola Rabenh. SPECIES
 
 #### Status
 ACCEPTED

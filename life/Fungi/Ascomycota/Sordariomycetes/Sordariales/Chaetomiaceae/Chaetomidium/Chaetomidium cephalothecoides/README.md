@@ -1,14 +1,13 @@
-Thielavia cephalothecoides Malloch & Benny, 1973 SPECIES
-=======
+# Chaetomidium cephalothecoides (Malloch & Benny) Arx, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 65(3): 653 (1973)
+Stud. Mycol. 8: 17 (1975)
 
 #### Original name
 Thielavia cephalothecoides Malloch & Benny, 1973

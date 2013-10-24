@@ -1,5 +1,4 @@
-Mortierella fatshederae Linnem., 1969 SPECIES
-=======
+# Mortierella fatshederae Linnem., 1969 SPECIES
 
 #### Status
 ACCEPTED

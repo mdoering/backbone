@@ -1,5 +1,4 @@
-Goplana mirabilis Racib., 1909 SPECIES
-=======
+# Goplana mirabilis Racib., 1909 SPECIES
 
 #### Status
 ACCEPTED

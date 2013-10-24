@@ -1,5 +1,4 @@
-Asteridium celastri Ellis & Kellerm. SPECIES
-=======
+# Asteridium celastri Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

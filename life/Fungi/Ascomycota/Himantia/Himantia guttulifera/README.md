@@ -1,5 +1,4 @@
-Himantia guttulifera Speg. SPECIES
-=======
+# Himantia guttulifera Speg. SPECIES
 
 #### Status
 ACCEPTED

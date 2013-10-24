@@ -1,5 +1,4 @@
-Graphis eburnea Adaw. & Makhija SPECIES
-=======
+# Graphis eburnea Adaw. & Makhija SPECIES
 
 #### Status
 ACCEPTED

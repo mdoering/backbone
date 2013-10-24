@@ -1,5 +1,4 @@
-Glomus aurantium Blaszk., Blanke, Renker & Buscot SPECIES
-=======
+# Glomus aurantium Blaszk., Blanke, Renker & Buscot SPECIES
 
 #### Status
 ACCEPTED

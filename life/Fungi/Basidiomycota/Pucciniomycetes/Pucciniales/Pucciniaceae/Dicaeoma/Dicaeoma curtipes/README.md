@@ -1,5 +1,4 @@
-Dicaeoma curtipes (Howe) Kuntze SPECIES
-=======
+# Dicaeoma curtipes (Howe) Kuntze SPECIES
 
 #### Status
 ACCEPTED

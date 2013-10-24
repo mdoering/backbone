@@ -1,5 +1,4 @@
-Biscutum boletum F.H. Wind & S.W. Wise SPECIES
-=======
+# Biscutum boletum F.H. Wind & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

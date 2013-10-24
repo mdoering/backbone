@@ -1,14 +1,13 @@
-Millbrookia Medd, 1979 GENUS
-=======
+# Crepidolithus D. Noël, 1965 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Eclogae Geol. Helv. 72 (1): 56.
+Cah. Micropaléontol. 1(1): 5.
 
 #### Original name
 null

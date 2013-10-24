@@ -1,5 +1,4 @@
-Phacidium eugeniarum Heer SPECIES
-=======
+# Phacidium eugeniarum Heer SPECIES
 
 #### Status
 ACCEPTED

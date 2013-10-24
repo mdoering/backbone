@@ -1,5 +1,4 @@
-Sclerochaeta erysimi (Hollós) Petr. SPECIES
-=======
+# Sclerochaeta erysimi (Hollós) Petr. SPECIES
 
 #### Status
 ACCEPTED

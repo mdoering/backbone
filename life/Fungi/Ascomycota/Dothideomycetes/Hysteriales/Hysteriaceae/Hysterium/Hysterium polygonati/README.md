@@ -1,5 +1,4 @@
-Hysterium polygonati Schwein. SPECIES
-=======
+# Hysterium polygonati Schwein. SPECIES
 
 #### Status
 ACCEPTED

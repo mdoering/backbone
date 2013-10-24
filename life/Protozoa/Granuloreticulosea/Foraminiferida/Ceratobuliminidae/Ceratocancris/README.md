@@ -1,5 +1,4 @@
-Ceratocancris Finlay, 1939 GENUS
-=======
+# Ceratocancris Finlay, 1939 GENUS
 
 #### Status
 ACCEPTED

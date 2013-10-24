@@ -1,5 +1,4 @@
-Hypocrella semen Bres. SPECIES
-=======
+# Hypocrella semen Bres. SPECIES
 
 #### Status
 ACCEPTED

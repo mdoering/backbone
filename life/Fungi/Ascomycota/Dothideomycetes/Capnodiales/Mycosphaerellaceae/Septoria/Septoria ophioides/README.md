@@ -1,5 +1,4 @@
-Septoria ophioides Sacc. SPECIES
-=======
+# Septoria ophioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

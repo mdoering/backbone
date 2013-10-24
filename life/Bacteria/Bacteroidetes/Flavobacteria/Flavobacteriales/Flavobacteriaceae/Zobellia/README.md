@@ -1,5 +1,4 @@
-Zobellia Barbeyron et al., 2001 GENUS
-=======
+# Zobellia Barbeyron et al., 2001 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Succinivibrionaceae FAMILY
-=======
+# Succinivibrionaceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stauraconidae Schewiakoff, 1926 FAMILY
-=======
+# Stauraconidae Schewiakoff, 1926 FAMILY
 
 #### Status
 ACCEPTED

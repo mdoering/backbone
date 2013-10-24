@@ -1,8 +1,7 @@
-Nautilus faba Fichtel & Moll, 1798 SPECIES
-=======
+# Nonion fabum (Fichtel & Moll, 1798) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

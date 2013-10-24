@@ -1,5 +1,4 @@
-Thelotrema develatum Nyl. SPECIES
-=======
+# Thelotrema develatum Nyl. SPECIES
 
 #### Status
 ACCEPTED

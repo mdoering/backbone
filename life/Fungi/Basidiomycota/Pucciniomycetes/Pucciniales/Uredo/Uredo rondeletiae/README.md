@@ -1,5 +1,4 @@
-Uredo rondeletiae Arthur & Holw. SPECIES
-=======
+# Uredo rondeletiae Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

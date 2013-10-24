@@ -1,5 +1,4 @@
-Dasyscyphella subcorticalis (Pat.) E.K. Cash SPECIES
-=======
+# Dasyscyphella subcorticalis (Pat.) E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

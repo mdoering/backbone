@@ -1,5 +1,4 @@
-Helotium himalayense K.S. Thind & H. Singh SPECIES
-=======
+# Helotium himalayense K.S. Thind & H. Singh SPECIES
 
 #### Status
 ACCEPTED

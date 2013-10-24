@@ -1,5 +1,4 @@
-Naemosphaera rudis P. Karst., 1888 SPECIES
-=======
+# Naemosphaera rudis P. Karst., 1888 SPECIES
 
 #### Status
 ACCEPTED

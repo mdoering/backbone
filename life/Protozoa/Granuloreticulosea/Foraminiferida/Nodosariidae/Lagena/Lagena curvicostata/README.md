@@ -1,5 +1,4 @@
-Lagena curvicostata Earland & Heron-Allen SPECIES
-=======
+# Lagena curvicostata Earland & Heron-Allen SPECIES
 
 #### Status
 ACCEPTED

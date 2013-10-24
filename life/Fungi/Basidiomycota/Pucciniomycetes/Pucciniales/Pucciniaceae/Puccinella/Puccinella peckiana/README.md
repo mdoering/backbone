@@ -1,5 +1,4 @@
-Puccinella peckiana (Farl.) Syd. SPECIES
-=======
+# Puccinella peckiana (Farl.) Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psora scotopholis (Tuck.) Fink SPECIES
-=======
+# Psora scotopholis (Tuck.) Fink SPECIES
 
 #### Status
 ACCEPTED

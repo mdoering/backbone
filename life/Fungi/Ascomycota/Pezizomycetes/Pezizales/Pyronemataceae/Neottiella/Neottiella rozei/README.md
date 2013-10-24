@@ -1,5 +1,4 @@
-Neottiella rozei (Boud.) Sacc. SPECIES
-=======
+# Neottiella rozei (Boud.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peronosporites W.G. Sm. GENUS
-=======
+# Peronosporites W.G. Sm. GENUS
 
 #### Status
 ACCEPTED

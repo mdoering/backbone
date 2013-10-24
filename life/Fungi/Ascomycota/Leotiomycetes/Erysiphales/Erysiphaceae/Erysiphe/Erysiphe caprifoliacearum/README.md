@@ -1,5 +1,4 @@
-Erysiphe caprifoliacearum var. caprifoliacearum VARIETY
-=======
+# Erysiphe caprifoliacearum (U. Braun) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Schlechtendalia 4: 6 (2000)
 
 #### Original name
-Erysiphe caprifoliacearum var. caprifoliacearum
+Microsphaera caprifoliacearum U. Braun
 
 ### Remarks
 null

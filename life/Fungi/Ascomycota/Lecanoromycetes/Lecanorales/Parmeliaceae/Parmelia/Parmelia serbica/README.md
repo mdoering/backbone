@@ -1,5 +1,4 @@
-Parmelia serbica Gyeln. SPECIES
-=======
+# Parmelia serbica Gyeln. SPECIES
 
 #### Status
 ACCEPTED

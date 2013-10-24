@@ -1,5 +1,4 @@
-Phyllosticta laurina J.V. Almeida SPECIES
-=======
+# Phyllosticta laurina J.V. Almeida SPECIES
 
 #### Status
 ACCEPTED

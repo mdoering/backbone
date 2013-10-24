@@ -1,5 +1,4 @@
-Puccinia castillejae Arthur SPECIES
-=======
+# Puccinia castillejae Arthur SPECIES
 
 #### Status
 ACCEPTED

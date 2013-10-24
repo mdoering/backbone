@@ -1,5 +1,4 @@
-Collybia pseudocinnomea Burds. SPECIES
-=======
+# Collybia pseudocinnomea Burds. SPECIES
 
 #### Status
 ACCEPTED

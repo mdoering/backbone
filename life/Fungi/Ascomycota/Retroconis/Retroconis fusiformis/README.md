@@ -1,5 +1,4 @@
-Retroconis fusiformis (S.M. Reddy & Bilgrami) de Hoog & Bat. Vegte, 1989 SPECIES
-=======
+# Retroconis fusiformis (S.M. Reddy & Bilgrami) de Hoog & Bat. Vegte, 1989 SPECIES
 
 #### Status
 ACCEPTED

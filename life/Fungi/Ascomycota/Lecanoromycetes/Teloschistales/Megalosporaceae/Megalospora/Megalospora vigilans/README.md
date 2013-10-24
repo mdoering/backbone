@@ -1,5 +1,4 @@
-Megalospora vigilans (Taylor) Zahlbr. SPECIES
-=======
+# Megalospora vigilans (Taylor) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

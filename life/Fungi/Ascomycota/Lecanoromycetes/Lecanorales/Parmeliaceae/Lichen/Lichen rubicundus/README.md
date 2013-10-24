@@ -1,5 +1,4 @@
-Lichen rubicundus Lam. SPECIES
-=======
+# Lichen rubicundus Lam. SPECIES
 
 #### Status
 ACCEPTED

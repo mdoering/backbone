@@ -1,5 +1,4 @@
-Penicillium ootensis A.K. Gupta & S. Chauhan, 1996 SPECIES
-=======
+# Penicillium ootensis A.K. Gupta & S. Chauhan, 1996 SPECIES
 
 #### Status
 ACCEPTED

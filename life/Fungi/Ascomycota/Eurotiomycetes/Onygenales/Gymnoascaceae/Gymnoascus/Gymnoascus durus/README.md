@@ -1,5 +1,4 @@
-Gymnoascus durus Zukal SPECIES
-=======
+# Gymnoascus durus Zukal SPECIES
 
 #### Status
 ACCEPTED

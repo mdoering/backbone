@@ -1,14 +1,13 @@
-Nematoloma aequatoriae (Singer) Guzmán SPECIES
-=======
+# Naematoloma aequatoriae (Singer) Guzmán SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 12(1): 237 (1980)
 
 #### Original name
 Psilocybe aequatoriae Singer

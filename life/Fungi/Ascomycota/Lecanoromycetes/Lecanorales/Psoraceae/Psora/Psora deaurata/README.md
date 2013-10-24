@@ -1,5 +1,4 @@
-Psora deaurata Hoffm. SPECIES
-=======
+# Psora deaurata Hoffm. SPECIES
 
 #### Status
 ACCEPTED

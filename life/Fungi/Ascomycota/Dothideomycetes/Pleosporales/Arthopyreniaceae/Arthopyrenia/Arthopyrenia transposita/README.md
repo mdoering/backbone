@@ -1,5 +1,4 @@
-Arthopyrenia transposita Müll. Arg. SPECIES
-=======
+# Arthopyrenia transposita Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

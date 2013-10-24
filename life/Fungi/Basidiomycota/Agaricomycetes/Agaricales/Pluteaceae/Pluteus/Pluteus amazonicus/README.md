@@ -1,5 +1,4 @@
-Pluteus amazonicus Singer SPECIES
-=======
+# Pluteus amazonicus Singer SPECIES
 
 #### Status
 ACCEPTED

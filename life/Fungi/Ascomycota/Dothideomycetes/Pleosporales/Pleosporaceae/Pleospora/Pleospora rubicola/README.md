@@ -1,5 +1,4 @@
-Pleospora rubicola Syd. SPECIES
-=======
+# Pleospora rubicola Syd. SPECIES
 
 #### Status
 ACCEPTED

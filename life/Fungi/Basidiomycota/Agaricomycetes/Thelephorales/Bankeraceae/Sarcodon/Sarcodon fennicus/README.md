@@ -1,14 +1,13 @@
-Sarcodon scabrosus var. fennicus P. Karst., 1882 VARIETY
-=======
+# Sarcodon fennicus (P. Karst.) P. Karst., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 37: 104 (1882)
+Revue mycol. , Toulouse 9: 10 (1887)
 
 #### Original name
 Sarcodon scabrosus var. fennicus P. Karst., 1882

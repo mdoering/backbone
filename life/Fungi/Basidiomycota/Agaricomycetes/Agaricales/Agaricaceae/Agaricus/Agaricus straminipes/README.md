@@ -1,5 +1,4 @@
-Agaricus straminipes Massee SPECIES
-=======
+# Agaricus straminipes Massee SPECIES
 
 #### Status
 ACCEPTED

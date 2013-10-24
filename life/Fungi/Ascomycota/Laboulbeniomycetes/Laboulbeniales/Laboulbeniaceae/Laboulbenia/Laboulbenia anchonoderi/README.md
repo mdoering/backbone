@@ -1,5 +1,4 @@
-Laboulbenia anchonoderi Thaxt. SPECIES
-=======
+# Laboulbenia anchonoderi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

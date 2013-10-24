@@ -1,5 +1,4 @@
-Gillotia orbicularis (Syd. & P. Syd.) Sacc. & Trotter, 1913 SPECIES
-=======
+# Gillotia orbicularis (Syd. & P. Syd.) Sacc. & Trotter, 1913 SPECIES
 
 #### Status
 ACCEPTED

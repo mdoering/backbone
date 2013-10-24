@@ -1,5 +1,4 @@
-Clitocybe confusa Velen. SPECIES
-=======
+# Clitocybe confusa Velen. SPECIES
 
 #### Status
 ACCEPTED

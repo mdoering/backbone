@@ -1,5 +1,4 @@
-Scytonema multiramosum Gardner SPECIES
-=======
+# Scytonema multiramosum Gardner SPECIES
 
 #### Status
 ACCEPTED

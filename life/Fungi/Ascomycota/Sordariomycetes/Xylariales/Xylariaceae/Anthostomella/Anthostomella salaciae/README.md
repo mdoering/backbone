@@ -1,5 +1,4 @@
-Anthostomella salaciae Doidge SPECIES
-=======
+# Anthostomella salaciae Doidge SPECIES
 
 #### Status
 ACCEPTED

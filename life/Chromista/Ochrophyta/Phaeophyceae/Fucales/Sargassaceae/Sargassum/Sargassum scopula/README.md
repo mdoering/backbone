@@ -1,5 +1,4 @@
-Sargassum scopula Grunow SPECIES
-=======
+# Sargassum scopula Grunow SPECIES
 
 #### Status
 ACCEPTED

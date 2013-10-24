@@ -1,5 +1,4 @@
-Phloeospora taurica Sacc. SPECIES
-=======
+# Phloeospora taurica Sacc. SPECIES
 
 #### Status
 ACCEPTED

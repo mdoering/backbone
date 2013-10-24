@@ -1,5 +1,4 @@
-Spicaria fimetaria Moesz SPECIES
-=======
+# Spicaria fimetaria Moesz SPECIES
 
 #### Status
 ACCEPTED

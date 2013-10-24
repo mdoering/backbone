@@ -1,5 +1,4 @@
-Bacillus siralis Pettersson et al., 2000 SPECIES
-=======
+# Bacillus siralis Pettersson et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

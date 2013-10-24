@@ -1,14 +1,13 @@
-Phaeotrema caledoniense Hale SPECIES
-=======
+# Ocellularia caledoniensis (Hale) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Phytologia 27: 494 (1974)
+Mycotaxon 11(1): 136 (1980)
 
 #### Original name
 Phaeotrema caledoniense Hale

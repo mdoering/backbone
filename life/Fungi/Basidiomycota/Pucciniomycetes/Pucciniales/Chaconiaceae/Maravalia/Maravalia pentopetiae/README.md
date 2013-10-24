@@ -1,5 +1,4 @@
-Maravalia pentopetiae H.C. Evans SPECIES
-=======
+# Maravalia pentopetiae H.C. Evans SPECIES
 
 #### Status
 ACCEPTED

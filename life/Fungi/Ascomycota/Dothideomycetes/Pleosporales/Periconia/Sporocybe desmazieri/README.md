@@ -1,5 +1,4 @@
-Sporocybe desmazieri Fr. SPECIES
-=======
+# Sporocybe desmazieri Fr. SPECIES
 
 #### Status
 ACCEPTED

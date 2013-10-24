@@ -1,5 +1,4 @@
-Caloplaca austroshetlandica (Zahlbr.) Olech & Søchting SPECIES
-=======
+# Caloplaca austroshetlandica (Zahlbr.) Olech & Søchting SPECIES
 
 #### Status
 ACCEPTED

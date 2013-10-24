@@ -1,5 +1,4 @@
-Schismatomma atratum (Stirt.) Zahlbr. SPECIES
-=======
+# Schismatomma atratum (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

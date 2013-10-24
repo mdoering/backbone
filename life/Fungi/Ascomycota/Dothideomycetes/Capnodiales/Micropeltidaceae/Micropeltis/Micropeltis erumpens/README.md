@@ -1,5 +1,4 @@
-Micropeltis erumpens Berk. & M.A. Curtis SPECIES
-=======
+# Micropeltis erumpens Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

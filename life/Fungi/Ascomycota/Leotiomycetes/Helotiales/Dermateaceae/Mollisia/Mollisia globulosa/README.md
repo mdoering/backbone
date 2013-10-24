@@ -1,5 +1,4 @@
-Mollisia globulosa Quél. SPECIES
-=======
+# Mollisia globulosa Quél. SPECIES
 
 #### Status
 ACCEPTED

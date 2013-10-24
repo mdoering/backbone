@@ -1,5 +1,4 @@
-Squamaria smithii (Ach.) DC. SPECIES
-=======
+# Squamaria smithii (Ach.) DC. SPECIES
 
 #### Status
 ACCEPTED

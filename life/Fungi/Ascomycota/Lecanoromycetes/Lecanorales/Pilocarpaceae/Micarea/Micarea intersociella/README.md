@@ -1,14 +1,13 @@
-Lecidea aniptiza var. intersociella Stirt. VARIETY
-=======
+# Micarea intersociella (Stirt.) Coppins SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Trans. Glasgow Soc. Fld Nat. 4: 94 (1876)
+in Kantvilas & Elix, Bryologist 97(3): 302 (1994)
 
 #### Original name
 Lecidea aniptiza var. intersociella Stirt.

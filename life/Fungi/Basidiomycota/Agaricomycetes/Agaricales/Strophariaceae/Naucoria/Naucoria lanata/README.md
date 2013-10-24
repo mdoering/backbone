@@ -1,5 +1,4 @@
-Naucoria lanata Sacc. SPECIES
-=======
+# Naucoria lanata Sacc. SPECIES
 
 #### Status
 ACCEPTED

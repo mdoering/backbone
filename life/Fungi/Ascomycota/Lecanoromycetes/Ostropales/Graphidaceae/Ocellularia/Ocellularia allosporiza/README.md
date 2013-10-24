@@ -1,14 +1,13 @@
-Thelotrema allosporizum Nyl. SPECIES
-=======
+# Ocellularia allosporiza (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Soc. linn. Normandie, sér. 2 7: 167 (1873)
+Cat. Lich. Univers. 2: 583 (1923)
 
 #### Original name
 Thelotrema allosporizum Nyl.

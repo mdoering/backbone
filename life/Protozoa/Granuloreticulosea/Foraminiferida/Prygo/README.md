@@ -1,5 +1,4 @@
-Prygo GENUS
-=======
+# Prygo GENUS
 
 #### Status
 ACCEPTED

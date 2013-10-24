@@ -1,5 +1,4 @@
-Cordyceps scarabaeicola Kobayasi SPECIES
-=======
+# Cordyceps scarabaeicola Kobayasi SPECIES
 
 #### Status
 ACCEPTED

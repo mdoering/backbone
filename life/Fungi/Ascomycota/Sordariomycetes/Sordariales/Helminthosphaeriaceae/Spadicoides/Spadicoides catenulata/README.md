@@ -1,5 +1,4 @@
-Spadicoides catenulata C.J.K. Wang & B. Sutton SPECIES
-=======
+# Spadicoides catenulata C.J.K. Wang & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

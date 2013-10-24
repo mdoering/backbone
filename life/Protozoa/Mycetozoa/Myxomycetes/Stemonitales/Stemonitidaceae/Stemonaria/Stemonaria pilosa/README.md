@@ -1,5 +1,4 @@
-Stemonaria pilosa Nann.-Bremek., 1984 SPECIES
-=======
+# Stemonaria pilosa Nann.-Bremek., 1984 SPECIES
 
 #### Status
 ACCEPTED

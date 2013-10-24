@@ -1,5 +1,4 @@
-Tripospermum acerinum P. Syd., 1918 SPECIES
-=======
+# Tripospermum acerinum P. Syd., 1918 SPECIES
 
 #### Status
 ACCEPTED

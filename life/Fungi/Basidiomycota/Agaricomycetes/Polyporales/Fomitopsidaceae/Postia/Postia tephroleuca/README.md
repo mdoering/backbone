@@ -1,17 +1,16 @@
-Polyporus lacteus Fr., 1821 SPECIES
-=======
+# Postia tephroleuca (Fr.) Jülich, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 11(4): 424 (1982)
 
 #### Original name
-null
+Polyporus tephroleucus Fr., 1821
 
 ### Remarks
 null

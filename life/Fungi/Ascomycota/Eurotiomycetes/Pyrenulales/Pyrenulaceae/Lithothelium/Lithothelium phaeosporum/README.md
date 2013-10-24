@@ -1,14 +1,13 @@
-Plagiocarpa phaeospora R.C. Harris SPECIES
-=======
+# Lithothelium phaeosporum (R.C. Harris) Aptroot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Michigan Bot. 12(1): 36 (1973)
+Biblthca Lichenol. 44: 65 (1991)
 
 #### Original name
 Plagiocarpa phaeospora R.C. Harris

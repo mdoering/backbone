@@ -1,5 +1,4 @@
-Rhizopus liquefaciens M. Yamaz. SPECIES
-=======
+# Rhizopus liquefaciens M. Yamaz. SPECIES
 
 #### Status
 ACCEPTED

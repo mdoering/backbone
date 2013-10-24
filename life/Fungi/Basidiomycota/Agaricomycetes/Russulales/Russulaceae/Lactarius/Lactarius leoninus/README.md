@@ -1,5 +1,4 @@
-Lactarius leoninus Verbeken & E. Horak SPECIES
-=======
+# Lactarius leoninus Verbeken & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella mazzantioides (Sacc.) Tomilin SPECIES
-=======
+# Mycosphaerella mazzantioides (Sacc.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

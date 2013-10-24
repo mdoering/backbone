@@ -1,5 +1,4 @@
-Lecanora eosina Motyka SPECIES
-=======
+# Lecanora eosina Motyka SPECIES
 
 #### Status
 ACCEPTED

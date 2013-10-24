@@ -1,5 +1,4 @@
-Gymnosporangium turkestanicum Tranzschel, 1939 SPECIES
-=======
+# Gymnosporangium turkestanicum Tranzschel, 1939 SPECIES
 
 #### Status
 ACCEPTED

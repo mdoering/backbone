@@ -1,5 +1,4 @@
-Uredo thlaspeos Pers. SPECIES
-=======
+# Uredo thlaspeos Pers. SPECIES
 
 #### Status
 ACCEPTED

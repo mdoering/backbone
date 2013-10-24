@@ -1,5 +1,4 @@
-Coniosporium parallelum P. Karst. SPECIES
-=======
+# Coniosporium parallelum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

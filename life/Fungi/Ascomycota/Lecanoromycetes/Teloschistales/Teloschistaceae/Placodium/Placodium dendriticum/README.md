@@ -1,5 +1,4 @@
-Placodium dendriticum Hazsl. SPECIES
-=======
+# Placodium dendriticum Hazsl. SPECIES
 
 #### Status
 ACCEPTED

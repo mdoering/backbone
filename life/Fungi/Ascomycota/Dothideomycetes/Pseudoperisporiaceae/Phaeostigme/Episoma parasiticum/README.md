@@ -1,5 +1,4 @@
-Episoma parasiticum Syd. SPECIES
-=======
+# Episoma parasiticum Syd. SPECIES
 
 #### Status
 ACCEPTED

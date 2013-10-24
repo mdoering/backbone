@@ -1,5 +1,4 @@
-Aecidium gerardiae Peck SPECIES
-=======
+# Aecidium gerardiae Peck SPECIES
 
 #### Status
 ACCEPTED

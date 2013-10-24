@@ -1,5 +1,4 @@
-Strombilidium Schewiakoff, 1892 GENUS
-=======
+# Strombilidium Schewiakoff, 1892 GENUS
 
 #### Status
 ACCEPTED

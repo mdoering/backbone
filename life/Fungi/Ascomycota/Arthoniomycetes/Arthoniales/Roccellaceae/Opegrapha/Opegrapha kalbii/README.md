@@ -1,5 +1,4 @@
-Opegrapha kalbii Matzer SPECIES
-=======
+# Opegrapha kalbii Matzer SPECIES
 
 #### Status
 ACCEPTED

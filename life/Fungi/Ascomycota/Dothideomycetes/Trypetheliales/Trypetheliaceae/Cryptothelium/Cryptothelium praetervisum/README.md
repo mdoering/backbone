@@ -1,5 +1,4 @@
-Cryptothelium praetervisum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Cryptothelium praetervisum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

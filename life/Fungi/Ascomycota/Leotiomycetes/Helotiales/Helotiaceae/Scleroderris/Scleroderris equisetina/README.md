@@ -1,5 +1,4 @@
-Scleroderris equisetina Feltgen SPECIES
-=======
+# Scleroderris equisetina Feltgen SPECIES
 
 #### Status
 ACCEPTED

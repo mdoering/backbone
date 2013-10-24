@@ -1,5 +1,4 @@
-Flavobacterium tegetincola McCammon & Bowman, 2000 SPECIES
-=======
+# Flavobacterium tegetincola McCammon & Bowman, 2000 SPECIES
 
 #### Status
 ACCEPTED

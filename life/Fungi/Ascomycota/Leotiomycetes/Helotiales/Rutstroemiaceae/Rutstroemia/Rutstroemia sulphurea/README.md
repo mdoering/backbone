@@ -1,5 +1,4 @@
-Rutstroemia sulphurea Velen. SPECIES
-=======
+# Rutstroemia sulphurea Velen. SPECIES
 
 #### Status
 ACCEPTED

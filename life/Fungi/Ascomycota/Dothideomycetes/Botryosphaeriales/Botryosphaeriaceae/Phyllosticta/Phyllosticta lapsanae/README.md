@@ -1,8 +1,7 @@
-Phyllosticta lampsanae P. Syd. SPECIES
-=======
+# Phyllosticta lapsanae P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllosticta lampsanae P. Syd.
+Phyllosticta lapsanae P. Syd.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aegerita traversiana Gaja SPECIES
-=======
+# Aegerita traversiana Gaja SPECIES
 
 #### Status
 ACCEPTED

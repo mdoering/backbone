@@ -1,5 +1,4 @@
-Lecanora subpurpurea Stirt. SPECIES
-=======
+# Lecanora subpurpurea Stirt. SPECIES
 
 #### Status
 ACCEPTED

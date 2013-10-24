@@ -1,5 +1,4 @@
-Phytophthora uliginosa T. Jung & E.M. Hansen, 2002 SPECIES
-=======
+# Phytophthora uliginosa T. Jung & E.M. Hansen, 2002 SPECIES
 
 #### Status
 ACCEPTED

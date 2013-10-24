@@ -1,5 +1,4 @@
-Lenzites gigantea Czern. SPECIES
-=======
+# Lenzites gigantea Czern. SPECIES
 
 #### Status
 ACCEPTED

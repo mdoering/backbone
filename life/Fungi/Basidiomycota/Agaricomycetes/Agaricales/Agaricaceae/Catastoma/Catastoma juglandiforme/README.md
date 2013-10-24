@@ -1,5 +1,4 @@
-Catastoma juglandiforme (Berk.) Lohwag SPECIES
-=======
+# Catastoma juglandiforme (Berk.) Lohwag SPECIES
 
 #### Status
 ACCEPTED

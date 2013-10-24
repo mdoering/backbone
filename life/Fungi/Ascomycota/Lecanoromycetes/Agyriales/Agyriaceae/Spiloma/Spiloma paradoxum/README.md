@@ -1,5 +1,4 @@
-Spiloma paradoxum Ach. SPECIES
-=======
+# Spiloma paradoxum Ach. SPECIES
 
 #### Status
 ACCEPTED

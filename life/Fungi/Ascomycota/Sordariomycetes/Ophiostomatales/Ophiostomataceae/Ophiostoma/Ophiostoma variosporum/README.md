@@ -1,5 +1,4 @@
-Ophiostoma variosporum (R.W. Davidson) Arx SPECIES
-=======
+# Ophiostoma variosporum (R.W. Davidson) Arx SPECIES
 
 #### Status
 ACCEPTED

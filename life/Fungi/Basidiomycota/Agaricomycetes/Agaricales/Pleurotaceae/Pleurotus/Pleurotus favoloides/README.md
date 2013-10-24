@@ -1,5 +1,4 @@
-Pleurotus favoloides Singer, 1989 SPECIES
-=======
+# Pleurotus favoloides Singer, 1989 SPECIES
 
 #### Status
 ACCEPTED

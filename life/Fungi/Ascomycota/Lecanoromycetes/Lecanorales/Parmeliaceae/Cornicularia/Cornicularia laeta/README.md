@@ -1,17 +1,16 @@
-Cornicularia lata Taylor SPECIES
-=======
+# Cornicularia laeta Taylor SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hooker's J. Bot. 6: 190 (1847)
 
 #### Original name
-Cornicularia lata Taylor
+Cornicularia laeta Taylor
 
 ### Remarks
 null

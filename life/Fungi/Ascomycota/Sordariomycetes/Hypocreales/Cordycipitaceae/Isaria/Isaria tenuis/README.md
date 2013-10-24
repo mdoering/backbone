@@ -1,5 +1,4 @@
-Isaria tenuis R. Heim SPECIES
-=======
+# Isaria tenuis R. Heim SPECIES
 
 #### Status
 ACCEPTED

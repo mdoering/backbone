@@ -1,5 +1,4 @@
-Brevundimonas alba (ex Poindexter, 1964) Abraham et al., 1999 SPECIES
-=======
+# Brevundimonas alba (ex Poindexter, 1964) Abraham et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

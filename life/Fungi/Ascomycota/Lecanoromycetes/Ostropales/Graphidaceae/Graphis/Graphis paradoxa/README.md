@@ -1,5 +1,4 @@
-Graphis paradoxa Fée SPECIES
-=======
+# Graphis paradoxa Fée SPECIES
 
 #### Status
 ACCEPTED

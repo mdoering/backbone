@@ -1,5 +1,4 @@
-Polystictus ater Lloyd SPECIES
-=======
+# Polystictus ater Lloyd SPECIES
 
 #### Status
 ACCEPTED

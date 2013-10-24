@@ -1,5 +1,4 @@
-Sporotrichum fenestrale Ditmar SPECIES
-=======
+# Sporotrichum fenestrale Ditmar SPECIES
 
 #### Status
 ACCEPTED

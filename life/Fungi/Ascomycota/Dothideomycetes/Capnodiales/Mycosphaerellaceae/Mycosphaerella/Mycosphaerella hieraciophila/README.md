@@ -1,5 +1,4 @@
-Mycosphaerella hieraciophila Petr. SPECIES
-=======
+# Mycosphaerella hieraciophila Petr. SPECIES
 
 #### Status
 ACCEPTED

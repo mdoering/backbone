@@ -1,5 +1,4 @@
-Synechocystis salina Wislouch SPECIES
-=======
+# Synechocystis salina Wislouch SPECIES
 
 #### Status
 ACCEPTED

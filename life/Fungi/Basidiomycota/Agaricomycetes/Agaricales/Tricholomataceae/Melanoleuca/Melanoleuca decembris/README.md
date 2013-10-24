@@ -1,5 +1,4 @@
-Melanoleuca decembris var. decembris VARIETY
-=======
+# Melanoleuca decembris Métrod SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Féd. Mycol. Dauphiné-Savoie 25(no. 102): 22 (1986)
 
 #### Original name
-Melanoleuca decembris var. decembris
+Melanoleuca decembris Métrod
 
 ### Remarks
 null

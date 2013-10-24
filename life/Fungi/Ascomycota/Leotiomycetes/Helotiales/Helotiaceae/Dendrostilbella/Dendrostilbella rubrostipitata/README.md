@@ -1,5 +1,4 @@
-Dendrostilbella rubrostipitata (Matsush.) Seifert SPECIES
-=======
+# Dendrostilbella rubrostipitata (Matsush.) Seifert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus celebicus (Henn.) SPECIES
-=======
+# Polyporus celebicus (Henn.) SPECIES
 
 #### Status
 ACCEPTED

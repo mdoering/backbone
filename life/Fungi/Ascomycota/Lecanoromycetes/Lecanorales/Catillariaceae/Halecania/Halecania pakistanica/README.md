@@ -1,5 +1,4 @@
-Halecania pakistanica van den Boom & Elix SPECIES
-=======
+# Halecania pakistanica van den Boom & Elix SPECIES
 
 #### Status
 ACCEPTED

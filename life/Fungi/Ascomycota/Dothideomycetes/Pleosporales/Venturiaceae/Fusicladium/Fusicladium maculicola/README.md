@@ -1,14 +1,13 @@
-Fusicladium maculicolum (Ellis & Kellerm.) Ondrej SPECIES
-=======
+# Fusicladium maculicola (Ellis & Kellerm.) Ondrej SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ceská Mykol. 27(4): 237 (1973)
 
 #### Original name
 Scolicotrichum maculicola Ellis & Kellerm.

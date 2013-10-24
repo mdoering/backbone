@@ -1,5 +1,4 @@
-Meliola xylopiae var. xylopiae VARIETY
-=======
+# Meliola xylopiae F. Stevens SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls mycol. 26(3/4): 257 (1928)
 
 #### Original name
-Meliola xylopiae var. xylopiae
+Meliola xylopiae F. Stevens
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Rhizosolenia hebetata f. hebetata FORM
-=======
+# Rhizosolenia hebetata J.W. Bailey, 1856 SPECIES
 
 #### Status
 ACCEPTED

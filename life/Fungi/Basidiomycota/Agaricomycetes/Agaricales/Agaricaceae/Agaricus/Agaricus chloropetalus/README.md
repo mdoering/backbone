@@ -1,5 +1,4 @@
-Agaricus chloropetalus J. Otto SPECIES
-=======
+# Agaricus chloropetalus J. Otto SPECIES
 
 #### Status
 ACCEPTED

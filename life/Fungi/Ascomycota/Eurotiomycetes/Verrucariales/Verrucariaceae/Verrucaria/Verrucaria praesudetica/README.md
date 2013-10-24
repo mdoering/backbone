@@ -1,5 +1,4 @@
-Verrucaria praesudetica Zschacke SPECIES
-=======
+# Verrucaria praesudetica Zschacke SPECIES
 
 #### Status
 ACCEPTED

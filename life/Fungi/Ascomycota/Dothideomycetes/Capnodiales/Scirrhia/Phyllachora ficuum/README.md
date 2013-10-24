@@ -1,5 +1,4 @@
-Phyllachora ficuum Niessl, 1881 SPECIES
-=======
+# Phyllachora ficuum Niessl, 1881 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Jansia borneensis f. borneensis FORM
-=======
+# Jansia borneensis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Jansia borneensis f. borneensis
+Jansia borneensis
 
 ### Remarks
 null

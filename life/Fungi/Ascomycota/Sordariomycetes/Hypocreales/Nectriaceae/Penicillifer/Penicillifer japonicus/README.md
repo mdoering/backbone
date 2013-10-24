@@ -1,5 +1,4 @@
-Penicillifer japonicus Matsush. SPECIES
-=======
+# Penicillifer japonicus Matsush. SPECIES
 
 #### Status
 ACCEPTED

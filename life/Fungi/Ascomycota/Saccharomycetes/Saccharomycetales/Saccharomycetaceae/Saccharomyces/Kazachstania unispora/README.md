@@ -1,17 +1,16 @@
-Saccharomyces unisporus agg. race INFRASPECIFIC_NAME
-=======
+# Kazachstania unispora (A. Jörg.) Kurtzman, 2003 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+FEMS Yeast Res. 4(3): 239 (2003)
 
 #### Original name
-Saccharomyces mongolicus H. Nagan., 1928
+Saccharomyces unisporus A. Jörg., 1909
 
 ### Remarks
 null

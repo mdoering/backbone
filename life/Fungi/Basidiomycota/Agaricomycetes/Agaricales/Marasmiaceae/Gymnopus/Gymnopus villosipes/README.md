@@ -1,5 +1,4 @@
-Gymnopus villosipes (Cleland) Desjardin, Halling & B.A. Perry SPECIES
-=======
+# Gymnopus villosipes (Cleland) Desjardin, Halling & B.A. Perry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exosporium ugandense M.B. Ellis SPECIES
-=======
+# Exosporium ugandense M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

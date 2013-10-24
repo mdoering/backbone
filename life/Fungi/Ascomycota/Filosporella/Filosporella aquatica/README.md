@@ -1,5 +1,4 @@
-Filosporella aquatica Nawawi, 1976 SPECIES
-=======
+# Filosporella aquatica Nawawi, 1976 SPECIES
 
 #### Status
 ACCEPTED

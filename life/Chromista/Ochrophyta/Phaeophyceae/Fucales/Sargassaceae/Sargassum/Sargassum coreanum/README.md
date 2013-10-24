@@ -1,5 +1,4 @@
-Sargassum coreanum J.Agardh, 1889 SPECIES
-=======
+# Sargassum coreanum J.Agardh, 1889 SPECIES
 
 #### Status
 ACCEPTED

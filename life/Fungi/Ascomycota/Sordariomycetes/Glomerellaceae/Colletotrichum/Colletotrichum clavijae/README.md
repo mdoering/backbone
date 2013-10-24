@@ -1,5 +1,4 @@
-Colletotrichum clavijae Gutner SPECIES
-=======
+# Colletotrichum clavijae Gutner SPECIES
 
 #### Status
 ACCEPTED

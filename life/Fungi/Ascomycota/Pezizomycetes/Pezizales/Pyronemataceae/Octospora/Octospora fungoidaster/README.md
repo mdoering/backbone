@@ -1,5 +1,4 @@
-Octospora fungoidaster Hedw. SPECIES
-=======
+# Octospora fungoidaster Hedw. SPECIES
 
 #### Status
 ACCEPTED

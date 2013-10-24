@@ -1,5 +1,4 @@
-Melanospora antarctica Speg. SPECIES
-=======
+# Melanospora antarctica Speg. SPECIES
 
 #### Status
 ACCEPTED

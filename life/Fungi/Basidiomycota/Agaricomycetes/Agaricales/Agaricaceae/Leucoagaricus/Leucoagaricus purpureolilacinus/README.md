@@ -1,17 +1,16 @@
-Leucoagaricus purpureorimosus f. purpureorimosus FORM
-=======
+# Leucoagaricus purpureolilacinus Huijsman, 1955 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 8(no. 29): 37 (1978)
+Fungus, Wageningen 25: 34 (1955)
 
 #### Original name
-Leucoagaricus purpureorimosus f. purpureorimosus
+Leucoagaricus purpureolilacinus Huijsman, 1955
 
 ### Remarks
 null

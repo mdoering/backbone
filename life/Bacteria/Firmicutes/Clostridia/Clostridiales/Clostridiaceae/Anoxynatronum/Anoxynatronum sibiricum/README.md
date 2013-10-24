@@ -1,5 +1,4 @@
-Anoxynatronum sibiricum Garnova & Zhilina, 2003 SPECIES
-=======
+# Anoxynatronum sibiricum Garnova & Zhilina, 2003 SPECIES
 
 #### Status
 ACCEPTED

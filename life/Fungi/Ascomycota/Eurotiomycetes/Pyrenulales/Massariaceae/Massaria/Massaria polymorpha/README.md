@@ -1,5 +1,4 @@
-Massaria polymorpha Rehm SPECIES
-=======
+# Massaria polymorpha Rehm SPECIES
 
 #### Status
 ACCEPTED

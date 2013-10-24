@@ -1,5 +1,4 @@
-Verrucaria christiansenii Servít SPECIES
-=======
+# Verrucaria christiansenii Servít SPECIES
 
 #### Status
 ACCEPTED

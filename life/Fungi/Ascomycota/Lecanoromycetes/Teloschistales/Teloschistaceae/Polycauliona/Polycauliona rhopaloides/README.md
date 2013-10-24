@@ -1,5 +1,4 @@
-Polycauliona rhopaloides Hue SPECIES
-=======
+# Polycauliona rhopaloides Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza pyxidata Schaeff. SPECIES
-=======
+# Peziza pyxidata Schaeff. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyrodinium striatissimum (E. M. Hulburt) G. Hansen & Ø. Moestrup SPECIES
-=======
+# Gyrodinium striatissimum (E. M. Hulburt) G. Hansen & Ø. Moestrup SPECIES
 
 #### Status
 ACCEPTED

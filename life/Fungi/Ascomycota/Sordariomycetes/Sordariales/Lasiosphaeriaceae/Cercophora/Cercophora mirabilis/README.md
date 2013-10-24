@@ -1,5 +1,4 @@
-Cercophora mirabilis Fuckel, 1870 SPECIES
-=======
+# Cercophora mirabilis Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

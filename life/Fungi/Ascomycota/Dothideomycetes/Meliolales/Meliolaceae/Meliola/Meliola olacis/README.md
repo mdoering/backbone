@@ -1,5 +1,4 @@
-Meliola olacis Deighton SPECIES
-=======
+# Meliola olacis Deighton SPECIES
 
 #### Status
 ACCEPTED

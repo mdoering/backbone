@@ -1,5 +1,4 @@
-Stagonospora australiana Tassi SPECIES
-=======
+# Stagonospora australiana Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora angolensis H. Magn. SPECIES
-=======
+# Acarospora angolensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

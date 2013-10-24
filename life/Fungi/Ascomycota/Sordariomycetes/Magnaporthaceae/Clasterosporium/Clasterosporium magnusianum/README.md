@@ -1,5 +1,4 @@
-Clasterosporium magnusianum Sacc. SPECIES
-=======
+# Clasterosporium magnusianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

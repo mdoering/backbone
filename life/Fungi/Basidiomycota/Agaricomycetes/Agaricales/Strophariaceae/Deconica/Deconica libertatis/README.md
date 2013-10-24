@@ -1,5 +1,4 @@
-Deconica libertatis Fr. SPECIES
-=======
+# Deconica libertatis Fr. SPECIES
 
 #### Status
 ACCEPTED

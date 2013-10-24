@@ -1,5 +1,4 @@
-Pseudocercospora isorae R.K. Verma & N. Sharma SPECIES
-=======
+# Pseudocercospora isorae R.K. Verma & N. Sharma SPECIES
 
 #### Status
 ACCEPTED

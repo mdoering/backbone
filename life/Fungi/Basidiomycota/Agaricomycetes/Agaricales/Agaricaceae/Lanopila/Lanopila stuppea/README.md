@@ -1,5 +1,4 @@
-Lanopila stuppea (Berk.) De Toni SPECIES
-=======
+# Lanopila stuppea (Berk.) De Toni SPECIES
 
 #### Status
 ACCEPTED

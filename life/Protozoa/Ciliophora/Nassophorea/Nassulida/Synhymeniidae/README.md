@@ -1,5 +1,4 @@
-Synhymeniidae FAMILY
-=======
+# Synhymeniidae FAMILY
 
 #### Status
 ACCEPTED

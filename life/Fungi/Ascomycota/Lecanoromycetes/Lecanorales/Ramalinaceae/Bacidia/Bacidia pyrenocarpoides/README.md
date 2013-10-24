@@ -1,5 +1,4 @@
-Bacidia pyrenocarpoides (Anzi) Lettau SPECIES
-=======
+# Bacidia pyrenocarpoides (Anzi) Lettau SPECIES
 
 #### Status
 ACCEPTED

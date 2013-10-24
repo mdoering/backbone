@@ -1,5 +1,4 @@
-Belonidium microscopicum Pat. SPECIES
-=======
+# Belonidium microscopicum Pat. SPECIES
 
 #### Status
 ACCEPTED

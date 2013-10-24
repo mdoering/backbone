@@ -1,5 +1,4 @@
-Phoma fructicola Siemaszko SPECIES
-=======
+# Phoma fructicola Siemaszko SPECIES
 
 #### Status
 ACCEPTED

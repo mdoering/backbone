@@ -1,5 +1,4 @@
-Coniothyrium fatsiae Dzhalag. SPECIES
-=======
+# Coniothyrium fatsiae Dzhalag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phloeospora baccharidicola Speg. SPECIES
-=======
+# Phloeospora baccharidicola Speg. SPECIES
 
 #### Status
 ACCEPTED

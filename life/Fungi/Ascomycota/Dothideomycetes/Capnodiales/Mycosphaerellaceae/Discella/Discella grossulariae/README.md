@@ -1,5 +1,4 @@
-Discella grossulariae Oudem. SPECIES
-=======
+# Discella grossulariae Oudem. SPECIES
 
 #### Status
 ACCEPTED

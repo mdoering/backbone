@@ -1,5 +1,4 @@
-Dermatocarpon andinum Lindau SPECIES
-=======
+# Dermatocarpon andinum Lindau SPECIES
 
 #### Status
 ACCEPTED

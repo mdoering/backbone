@@ -1,5 +1,4 @@
-Schistophoron variabile Tibell SPECIES
-=======
+# Schistophoron variabile Tibell SPECIES
 
 #### Status
 ACCEPTED

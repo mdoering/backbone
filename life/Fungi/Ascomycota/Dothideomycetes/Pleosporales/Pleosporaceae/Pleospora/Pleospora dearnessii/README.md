@@ -1,5 +1,4 @@
-Pleospora dearnessii Sacc. SPECIES
-=======
+# Pleospora dearnessii Sacc. SPECIES
 
 #### Status
 ACCEPTED

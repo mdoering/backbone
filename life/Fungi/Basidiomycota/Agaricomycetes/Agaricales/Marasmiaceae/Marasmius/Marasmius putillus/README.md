@@ -1,5 +1,4 @@
-Marasmius putillus Fr. SPECIES
-=======
+# Marasmius putillus Fr. SPECIES
 
 #### Status
 ACCEPTED

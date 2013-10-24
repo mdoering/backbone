@@ -1,5 +1,4 @@
-Metasphaeria patellariformis Kirschst. SPECIES
-=======
+# Metasphaeria patellariformis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

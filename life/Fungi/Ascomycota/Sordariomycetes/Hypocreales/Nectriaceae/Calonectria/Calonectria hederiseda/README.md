@@ -1,17 +1,16 @@
-Calonectria hedaeraeseda Rolland & Fautrey SPECIES
-=======
+# Calonectria hederiseda Rolland & Fautrey SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue mycol. , Toulouse 16: 73 (1894)
 
 #### Original name
-Calonectria hedaeraeseda Rolland & Fautrey
+Calonectria hederiseda Rolland & Fautrey
 
 ### Remarks
 null

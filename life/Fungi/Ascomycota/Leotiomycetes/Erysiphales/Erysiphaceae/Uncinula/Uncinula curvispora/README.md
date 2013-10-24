@@ -1,5 +1,4 @@
-Uncinula curvispora Hara SPECIES
-=======
+# Uncinula curvispora Hara SPECIES
 
 #### Status
 ACCEPTED

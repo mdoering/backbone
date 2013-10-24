@@ -1,5 +1,4 @@
-Lecidea palmeti Stizenb. SPECIES
-=======
+# Lecidea palmeti Stizenb. SPECIES
 
 #### Status
 ACCEPTED

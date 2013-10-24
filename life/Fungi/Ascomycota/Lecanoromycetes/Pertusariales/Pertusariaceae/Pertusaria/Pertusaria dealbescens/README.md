@@ -1,17 +1,16 @@
-Pertusaria dealbescens var. dealbescens VARIETY
-=======
+# Pertusaria dealbescens Erichsen SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Rabenh. Krypt. -Fl. (Leipzig) 9(5. 1): 527 (1936)
 
 #### Original name
-Pertusaria dealbescens var. dealbescens
+Pertusaria dealbescens Erichsen
 
 ### Remarks
 null

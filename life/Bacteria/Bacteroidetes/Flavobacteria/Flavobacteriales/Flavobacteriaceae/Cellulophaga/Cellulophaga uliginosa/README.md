@@ -1,5 +1,4 @@
-Cellulophaga uliginosa (ZoBell & Upham, 1944) Bowman, 2000 SPECIES
-=======
+# Cellulophaga uliginosa (ZoBell & Upham, 1944) Bowman, 2000 SPECIES
 
 #### Status
 ACCEPTED

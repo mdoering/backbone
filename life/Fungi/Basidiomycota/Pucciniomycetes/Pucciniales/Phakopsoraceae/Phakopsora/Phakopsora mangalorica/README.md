@@ -1,5 +1,4 @@
-Phakopsora mangalorica T.S. Ramakr. & Sundaram SPECIES
-=======
+# Phakopsora mangalorica T.S. Ramakr. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

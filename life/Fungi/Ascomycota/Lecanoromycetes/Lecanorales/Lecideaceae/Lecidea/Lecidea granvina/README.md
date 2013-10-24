@@ -1,5 +1,4 @@
-Lecidea granvina Vain. SPECIES
-=======
+# Lecidea granvina Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictydium ambiguum Schrad. SPECIES
-=======
+# Dictydium ambiguum Schrad. SPECIES
 
 #### Status
 ACCEPTED

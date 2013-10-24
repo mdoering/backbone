@@ -1,5 +1,4 @@
-Phlyctidium brevipes (G.F. Atk.) Minden SPECIES
-=======
+# Phlyctidium brevipes (G.F. Atk.) Minden SPECIES
 
 #### Status
 ACCEPTED

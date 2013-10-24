@@ -1,5 +1,4 @@
-Psorospermium Hilgendorf, 1883 GENUS
-=======
+# Psorospermium Hilgendorf, 1883 GENUS
 
 #### Status
 ACCEPTED

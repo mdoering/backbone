@@ -1,8 +1,7 @@
-Hippocrepinella hirudinea Heron-Allen & Earland, 1932 SPECIES
-=======
+# Bathysiphon hirudinea (Heron-Allen & Earland, 1932) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,17 +1,16 @@
-Mycena brunneodisca Murrill SPECIES
-=======
+# Mycena brunneidisca Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+N. Amer. Fl. (New York) 10(2): 192 (1917)
 
 #### Original name
-Mycena brunneodisca Murrill
+Mycena brunneidisca Murrill
 
 ### Remarks
 null

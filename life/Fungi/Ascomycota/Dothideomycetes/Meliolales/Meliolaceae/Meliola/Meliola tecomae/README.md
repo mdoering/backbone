@@ -1,5 +1,4 @@
-Meliola tecomae F. Stevens SPECIES
-=======
+# Meliola tecomae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

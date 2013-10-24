@@ -1,5 +1,4 @@
-Gymnodinium fulgens Kofoid & Swezy, 1921 SPECIES
-=======
+# Gymnodinium fulgens Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

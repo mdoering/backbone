@@ -1,5 +1,4 @@
-Rhabdospora princeps (Berk. & Broome) Sacc. SPECIES
-=======
+# Rhabdospora princeps (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

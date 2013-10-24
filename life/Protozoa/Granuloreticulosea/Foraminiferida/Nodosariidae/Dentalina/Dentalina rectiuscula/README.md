@@ -1,5 +1,4 @@
-Dentalina rectiuscula Macgillivray, 1843 SPECIES
-=======
+# Dentalina rectiuscula Macgillivray, 1843 SPECIES
 
 #### Status
 ACCEPTED

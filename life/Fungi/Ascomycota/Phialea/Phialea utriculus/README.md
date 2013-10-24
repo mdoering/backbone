@@ -1,5 +1,4 @@
-Phialea utriculus (Berk.) Sacc. SPECIES
-=======
+# Phialea utriculus (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

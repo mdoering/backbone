@@ -1,5 +1,4 @@
-Echinospora aculeifera (Berk. & M.A. Curtis) Ryvarden SPECIES
-=======
+# Echinospora aculeifera (Berk. & M.A. Curtis) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

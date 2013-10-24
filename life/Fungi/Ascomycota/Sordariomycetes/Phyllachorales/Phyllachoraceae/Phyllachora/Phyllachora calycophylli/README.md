@@ -1,5 +1,4 @@
-Phyllachora calycophylli Speg., 1922 SPECIES
-=======
+# Phyllachora calycophylli Speg., 1922 SPECIES
 
 #### Status
 ACCEPTED

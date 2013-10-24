@@ -1,8 +1,7 @@
-Boletus cavipes Opat., 1836 SPECIES
-=======
+# Suillus cavipes (Opat.) A.H. Sm. & Thiers, 1964 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

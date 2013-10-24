@@ -1,5 +1,4 @@
-Perispyridium Dumitrica, 1978 GENUS
-=======
+# Perispyridium Dumitrica, 1978 GENUS
 
 #### Status
 ACCEPTED

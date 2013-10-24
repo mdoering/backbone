@@ -1,5 +1,4 @@
-Sphacelia juncicola Fautrey SPECIES
-=======
+# Sphacelia juncicola Fautrey SPECIES
 
 #### Status
 ACCEPTED

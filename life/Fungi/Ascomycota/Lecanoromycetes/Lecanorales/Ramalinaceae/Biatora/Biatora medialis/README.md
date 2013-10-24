@@ -1,5 +1,4 @@
-Biatora medialis (Tuck.) SPECIES
-=======
+# Biatora medialis (Tuck.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marinospirillum megaterium Satomi et al., 1998 SPECIES
-=======
+# Marinospirillum megaterium Satomi et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

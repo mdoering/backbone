@@ -1,5 +1,4 @@
-Phyllosticta chardonii Vanev SPECIES
-=======
+# Phyllosticta chardonii Vanev SPECIES
 
 #### Status
 ACCEPTED

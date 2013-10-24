@@ -1,5 +1,4 @@
-Pannaria ramosii Vain. SPECIES
-=======
+# Pannaria ramosii Vain. SPECIES
 
 #### Status
 ACCEPTED

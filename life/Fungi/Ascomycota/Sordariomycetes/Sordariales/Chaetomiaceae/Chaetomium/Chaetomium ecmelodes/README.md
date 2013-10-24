@@ -1,5 +1,4 @@
-Chaetomium ecmelodes J.C. Krug & A. Carter SPECIES
-=======
+# Chaetomium ecmelodes J.C. Krug & A. Carter SPECIES
 
 #### Status
 ACCEPTED

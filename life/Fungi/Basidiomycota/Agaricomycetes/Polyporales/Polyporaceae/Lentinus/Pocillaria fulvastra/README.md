@@ -1,5 +1,4 @@
-Pocillaria fulvastra (Berk. & Cooke) Kuntze SPECIES
-=======
+# Pocillaria fulvastra (Berk. & Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

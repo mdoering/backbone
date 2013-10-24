@@ -1,5 +1,4 @@
-Aspergillus purpureus Samson & Mouch. SPECIES
-=======
+# Aspergillus purpureus Samson & Mouch. SPECIES
 
 #### Status
 ACCEPTED

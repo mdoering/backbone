@@ -1,8 +1,7 @@
-Pyrenula bonplandiae Fée SPECIES
-=======
+# Pyrenula bonplandii Fée SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pyrenula bonplandiae Fée
+Pyrenula bonplandii Fée
 
 ### Remarks
 null

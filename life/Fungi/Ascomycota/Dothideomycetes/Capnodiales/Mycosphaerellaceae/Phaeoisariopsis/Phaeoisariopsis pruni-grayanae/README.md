@@ -1,5 +1,4 @@
-Phaeoisariopsis pruni-grayanae Sawada SPECIES
-=======
+# Phaeoisariopsis pruni-grayanae Sawada SPECIES
 
 #### Status
 ACCEPTED

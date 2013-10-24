@@ -1,5 +1,4 @@
-Mazosia adelphoparasitica Matzer SPECIES
-=======
+# Mazosia adelphoparasitica Matzer SPECIES
 
 #### Status
 ACCEPTED

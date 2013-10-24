@@ -1,5 +1,4 @@
-Polystictus fernandesianus (Mont.) Cooke SPECIES
-=======
+# Polystictus fernandesianus (Mont.) Cooke SPECIES
 
 #### Status
 ACCEPTED

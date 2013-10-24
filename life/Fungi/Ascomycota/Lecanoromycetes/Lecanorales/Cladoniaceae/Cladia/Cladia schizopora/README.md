@@ -1,17 +1,16 @@
-Clathrina aggregata var. pygmaea Müll. Arg. VARIETY
-=======
+# Cladia schizopora (Nyl.) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 66: 80 (1883)
+Rev. Bot. Bull. Mens. 6: 161 (1888)
 
 #### Original name
-Clathrina aggregata var. pygmaea Müll. Arg.
+Cladonia schizopora Nyl.
 
 ### Remarks
 null

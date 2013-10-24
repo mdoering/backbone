@@ -1,5 +1,4 @@
-Placodium ferrugineum f. ferrugineum FORM
-=======
+# Placodium ferrugineum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Placodium ferrugineum f. ferrugineum
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Trichia lutea Trentep. SPECIES
-=======
+# Trichia lutea Trentep. SPECIES
 
 #### Status
 ACCEPTED

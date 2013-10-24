@@ -1,5 +1,4 @@
-Holophrya globulifera SPECIES
-=======
+# Holophrya globulifera SPECIES
 
 #### Status
 ACCEPTED

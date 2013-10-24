@@ -1,5 +1,4 @@
-Graphis subchrysocarpa Lücking SPECIES
-=======
+# Graphis subchrysocarpa Lücking SPECIES
 
 #### Status
 ACCEPTED

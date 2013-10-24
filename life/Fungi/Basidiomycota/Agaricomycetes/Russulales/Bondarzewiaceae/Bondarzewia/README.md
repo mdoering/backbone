@@ -1,5 +1,4 @@
-Bondarzewia Singer GENUS
-=======
+# Bondarzewia Singer GENUS
 
 #### Status
 ACCEPTED

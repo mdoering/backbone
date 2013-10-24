@@ -1,5 +1,4 @@
-Biorbulina bilobata D'Orbigny SPECIES
-=======
+# Biorbulina bilobata D'Orbigny SPECIES
 
 #### Status
 ACCEPTED

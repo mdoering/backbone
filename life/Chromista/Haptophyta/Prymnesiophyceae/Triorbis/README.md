@@ -1,5 +1,4 @@
-Triorbis O. Varol, 1984 GENUS
-=======
+# Triorbis O. Varol, 1984 GENUS
 
 #### Status
 ACCEPTED

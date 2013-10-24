@@ -1,5 +1,4 @@
-Halecania pepegospora (H. Magn.) van den Boom SPECIES
-=======
+# Halecania pepegospora (H. Magn.) van den Boom SPECIES
 
 #### Status
 ACCEPTED

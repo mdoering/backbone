@@ -1,14 +1,13 @@
-Ectocarpus confervoides f. pygmaeus (Areschoug) Kjellman FORM
-=======
+# Ectocarpus fasciculatus Harvey SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Harvey, W. (1841). A manual of the British algae: containing generic and specific descriptions of the known British species of sea-weeds and of Confervae both marine and fresh-water. Van Voorst, London.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Cenomyce clavarioides Dufour SPECIES
-=======
+# Cenomyce clavarioides Dufour SPECIES
 
 #### Status
 ACCEPTED

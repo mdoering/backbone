@@ -1,5 +1,4 @@
-Cladosporium leprosum Morgan-Jones, 1977 SPECIES
-=======
+# Cladosporium leprosum Morgan-Jones, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Propolomyces GENUS
-=======
+# Propolomyces GENUS
 
 #### Status
 ACCEPTED

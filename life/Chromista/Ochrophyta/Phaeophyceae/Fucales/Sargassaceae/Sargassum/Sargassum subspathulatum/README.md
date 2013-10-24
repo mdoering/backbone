@@ -1,5 +1,4 @@
-Sargassum subspathulatum (Grunow) Grunow SPECIES
-=======
+# Sargassum subspathulatum (Grunow) Grunow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporisorium tricholaenae (Henn.) Vánky SPECIES
-=======
+# Sporisorium tricholaenae (Henn.) Vánky SPECIES
 
 #### Status
 ACCEPTED

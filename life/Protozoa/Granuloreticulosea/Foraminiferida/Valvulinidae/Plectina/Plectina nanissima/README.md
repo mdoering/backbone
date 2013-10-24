@@ -1,5 +1,4 @@
-Plectina nanissima SPECIES
-=======
+# Plectina nanissima SPECIES
 
 #### Status
 ACCEPTED

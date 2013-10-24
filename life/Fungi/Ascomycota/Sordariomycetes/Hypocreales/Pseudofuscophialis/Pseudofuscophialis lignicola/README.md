@@ -1,5 +1,4 @@
-Pseudofuscophialis lignicola Sivan. & H.S. Chang, 1995 SPECIES
-=======
+# Pseudofuscophialis lignicola Sivan. & H.S. Chang, 1995 SPECIES
 
 #### Status
 ACCEPTED

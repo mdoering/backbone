@@ -1,5 +1,4 @@
-Asteromella malabailae (C. Massal.) Aa SPECIES
-=======
+# Asteromella malabailae (C. Massal.) Aa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora thulensis var. thulensis VARIETY
-=======
+# Lecanora thulensis Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora thulensis var. thulensis
+Lecanora thulensis Th. Fr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Helotium culmigenum Fr. SPECIES
-=======
+# Helotium culmigenum Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sterigmatocystis cinnamominus Weiss {?} SPECIES
-=======
+# Sterigmatocystis cinnamominus Weiss {?} SPECIES
 
 #### Status
 ACCEPTED

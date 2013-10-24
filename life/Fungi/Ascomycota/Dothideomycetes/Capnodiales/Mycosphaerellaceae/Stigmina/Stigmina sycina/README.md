@@ -1,5 +1,4 @@
-Stigmina sycina (Thüm.) B. Sutton SPECIES
-=======
+# Stigmina sycina (Thüm.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

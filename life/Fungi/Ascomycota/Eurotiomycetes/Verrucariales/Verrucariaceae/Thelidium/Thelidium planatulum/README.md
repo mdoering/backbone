@@ -1,5 +1,4 @@
-Thelidium planatulum (Nyl.) Zahlbr. SPECIES
-=======
+# Thelidium planatulum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

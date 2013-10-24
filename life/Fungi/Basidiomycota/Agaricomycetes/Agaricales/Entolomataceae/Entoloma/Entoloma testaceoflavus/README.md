@@ -1,5 +1,4 @@
-Entoloma testaceoflavus Murrill SPECIES
-=======
+# Entoloma testaceoflavus Murrill SPECIES
 
 #### Status
 ACCEPTED

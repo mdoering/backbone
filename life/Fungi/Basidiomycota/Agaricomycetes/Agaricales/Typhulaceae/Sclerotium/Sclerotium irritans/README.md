@@ -1,5 +1,4 @@
-Sclerotium irritans Mayr SPECIES
-=======
+# Sclerotium irritans Mayr SPECIES
 
 #### Status
 ACCEPTED

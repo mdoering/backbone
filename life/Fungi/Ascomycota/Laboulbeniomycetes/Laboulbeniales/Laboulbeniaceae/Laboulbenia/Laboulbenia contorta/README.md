@@ -1,5 +1,4 @@
-Laboulbenia contorta Thaxt. SPECIES
-=======
+# Laboulbenia contorta Thaxt. SPECIES
 
 #### Status
 ACCEPTED

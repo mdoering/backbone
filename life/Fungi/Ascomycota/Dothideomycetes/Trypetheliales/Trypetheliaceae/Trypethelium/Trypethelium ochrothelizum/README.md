@@ -1,5 +1,4 @@
-Trypethelium ochrothelizum Nyl. SPECIES
-=======
+# Trypethelium ochrothelizum Nyl. SPECIES
 
 #### Status
 ACCEPTED

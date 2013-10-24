@@ -1,5 +1,4 @@
-Cytosporina sapii Speg. SPECIES
-=======
+# Cytosporina sapii Speg. SPECIES
 
 #### Status
 ACCEPTED

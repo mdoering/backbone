@@ -1,5 +1,4 @@
-Chordostylum capillare Tode SPECIES
-=======
+# Chordostylum capillare Tode SPECIES
 
 #### Status
 ACCEPTED

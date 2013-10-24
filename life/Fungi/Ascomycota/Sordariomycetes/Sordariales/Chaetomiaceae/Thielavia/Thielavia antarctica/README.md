@@ -1,5 +1,4 @@
-Thielavia antarctica Stchigel & Guarro SPECIES
-=======
+# Thielavia antarctica Stchigel & Guarro SPECIES
 
 #### Status
 ACCEPTED

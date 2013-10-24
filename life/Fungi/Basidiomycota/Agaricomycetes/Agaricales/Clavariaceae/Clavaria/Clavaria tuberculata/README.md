@@ -1,5 +1,4 @@
-Clavaria tuberculata With. SPECIES
-=======
+# Clavaria tuberculata With. SPECIES
 
 #### Status
 ACCEPTED

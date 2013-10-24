@@ -1,5 +1,4 @@
-Biatora anomala var. anomala VARIETY
-=======
+# Biatora anomala Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 K. Vetensk-Acad. Nya Handl. 266 (1822)
 
 #### Original name
-Biatora anomala var. anomala
+Biatora anomala Fr.
 
 ### Remarks
 null

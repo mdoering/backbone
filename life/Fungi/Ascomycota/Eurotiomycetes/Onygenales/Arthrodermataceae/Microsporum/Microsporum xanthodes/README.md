@@ -1,5 +1,4 @@
-Microsporum xanthodes Fisch. {?} SPECIES
-=======
+# Microsporum xanthodes Fisch. {?} SPECIES
 
 #### Status
 ACCEPTED

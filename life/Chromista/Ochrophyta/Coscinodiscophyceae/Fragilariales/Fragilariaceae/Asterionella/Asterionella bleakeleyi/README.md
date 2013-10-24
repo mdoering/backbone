@@ -1,5 +1,4 @@
-Asterionella bleakeleyi W. Smith SPECIES
-=======
+# Asterionella bleakeleyi W. Smith SPECIES
 
 #### Status
 ACCEPTED

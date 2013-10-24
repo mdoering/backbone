@@ -1,5 +1,4 @@
-Geopyxis radicans Velen. SPECIES
-=======
+# Geopyxis radicans Velen. SPECIES
 
 #### Status
 ACCEPTED

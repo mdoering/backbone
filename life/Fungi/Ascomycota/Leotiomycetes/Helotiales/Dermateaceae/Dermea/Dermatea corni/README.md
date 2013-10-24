@@ -1,5 +1,4 @@
-Dermatea corni W. Phillips & Harkn. SPECIES
-=======
+# Dermatea corni W. Phillips & Harkn. SPECIES
 
 #### Status
 ACCEPTED

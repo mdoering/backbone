@@ -1,5 +1,4 @@
-Trichonectria hypotrachynae Etayo SPECIES
-=======
+# Trichonectria hypotrachynae Etayo SPECIES
 
 #### Status
 ACCEPTED

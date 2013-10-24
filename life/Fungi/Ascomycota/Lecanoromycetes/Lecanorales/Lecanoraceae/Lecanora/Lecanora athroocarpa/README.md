@@ -1,5 +1,4 @@
-Lecanora athroocarpa Duby SPECIES
-=======
+# Lecanora athroocarpa Duby SPECIES
 
 #### Status
 ACCEPTED

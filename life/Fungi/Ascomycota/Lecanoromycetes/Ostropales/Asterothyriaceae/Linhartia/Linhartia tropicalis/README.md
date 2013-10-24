@@ -1,5 +1,4 @@
-Linhartia tropicalis (Rehm) Sacc. & P. Syd. SPECIES
-=======
+# Linhartia tropicalis (Rehm) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

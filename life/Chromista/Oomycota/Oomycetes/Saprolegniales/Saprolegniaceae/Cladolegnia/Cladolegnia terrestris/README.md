@@ -1,5 +1,4 @@
-Cladolegnia terrestris (P.G. Richt.) Johannes SPECIES
-=======
+# Cladolegnia terrestris (P.G. Richt.) Johannes SPECIES
 
 #### Status
 ACCEPTED

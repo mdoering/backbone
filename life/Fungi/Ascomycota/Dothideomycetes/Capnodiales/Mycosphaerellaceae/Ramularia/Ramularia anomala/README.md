@@ -1,5 +1,4 @@
-Ramularia anomala Peck, 1913 SPECIES
-=======
+# Ramularia anomala Peck, 1913 SPECIES
 
 #### Status
 ACCEPTED

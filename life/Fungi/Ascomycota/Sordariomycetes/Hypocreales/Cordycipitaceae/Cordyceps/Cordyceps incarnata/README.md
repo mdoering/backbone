@@ -1,5 +1,4 @@
-Cordyceps incarnata Möller, 1901 SPECIES
-=======
+# Cordyceps incarnata Möller, 1901 SPECIES
 
 #### Status
 ACCEPTED

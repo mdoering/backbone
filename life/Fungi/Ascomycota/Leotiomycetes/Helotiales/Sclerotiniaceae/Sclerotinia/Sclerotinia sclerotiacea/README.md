@@ -1,5 +1,4 @@
-Sclerotinia sclerotiacea (Ces.) Rehm SPECIES
-=======
+# Sclerotinia sclerotiacea (Ces.) Rehm SPECIES
 
 #### Status
 ACCEPTED

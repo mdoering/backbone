@@ -1,5 +1,4 @@
-Sphaceloma ixorae Thirum. & Naras., 1970 SPECIES
-=======
+# Sphaceloma ixorae Thirum. & Naras., 1970 SPECIES
 
 #### Status
 ACCEPTED

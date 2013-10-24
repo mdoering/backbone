@@ -1,5 +1,4 @@
-Verrucaria tabacina Trevis. SPECIES
-=======
+# Verrucaria tabacina Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiroplectina Schubert, 1902 GENUS
-=======
+# Spiroplectina Schubert, 1902 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta perowskiae Zaprom. SPECIES
-=======
+# Phyllosticta perowskiae Zaprom. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporotrichum ambiguum P. Karst. SPECIES
-=======
+# Sporotrichum ambiguum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

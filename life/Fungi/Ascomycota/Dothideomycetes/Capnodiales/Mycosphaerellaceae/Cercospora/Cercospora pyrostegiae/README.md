@@ -1,5 +1,4 @@
-Cercospora pyrostegiae Viégas SPECIES
-=======
+# Cercospora pyrostegiae Viégas SPECIES
 
 #### Status
 ACCEPTED

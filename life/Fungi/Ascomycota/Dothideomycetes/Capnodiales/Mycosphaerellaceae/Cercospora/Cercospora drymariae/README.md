@@ -1,5 +1,4 @@
-Cercospora drymariae Katsuki SPECIES
-=======
+# Cercospora drymariae Katsuki SPECIES
 
 #### Status
 ACCEPTED

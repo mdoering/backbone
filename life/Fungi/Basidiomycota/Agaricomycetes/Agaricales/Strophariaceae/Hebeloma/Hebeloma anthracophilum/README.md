@@ -1,14 +1,13 @@
-Hebelomatis anthracophilum (Maire) Locq., 1979 SPECIES
-=======
+# Hebeloma anthracophilum Maire, 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Mycol. , 3. Cortinariales-A. 146 (1979)
+Bull. Soc. mycol. Fr. 26: tab. 7 (1910)
 
 #### Original name
 Hebeloma anthracophilum Maire, 1910

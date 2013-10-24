@@ -1,5 +1,4 @@
-Spirochaeta ovina SPECIES
-=======
+# Spirochaeta ovina SPECIES
 
 #### Status
 ACCEPTED

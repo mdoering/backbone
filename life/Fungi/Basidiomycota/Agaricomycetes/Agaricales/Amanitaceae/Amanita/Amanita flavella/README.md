@@ -1,5 +1,4 @@
-Amanita flavella E.-J. Gilbert & Cleland SPECIES
-=======
+# Amanita flavella E.-J. Gilbert & Cleland SPECIES
 
 #### Status
 ACCEPTED

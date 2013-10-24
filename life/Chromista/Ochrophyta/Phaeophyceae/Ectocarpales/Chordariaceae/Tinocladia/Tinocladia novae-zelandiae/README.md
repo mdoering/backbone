@@ -1,5 +1,4 @@
-Tinocladia novae-zelandiae Kylin SPECIES
-=======
+# Tinocladia novae-zelandiae Kylin SPECIES
 
 #### Status
 ACCEPTED

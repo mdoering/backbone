@@ -1,5 +1,4 @@
-Amanita ramosa Lam. SPECIES
-=======
+# Amanita ramosa Lam. SPECIES
 
 #### Status
 ACCEPTED

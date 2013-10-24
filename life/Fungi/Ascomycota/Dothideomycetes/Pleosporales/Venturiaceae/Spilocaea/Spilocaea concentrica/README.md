@@ -1,5 +1,4 @@
-Spilocaea concentrica Schwein. SPECIES
-=======
+# Spilocaea concentrica Schwein. SPECIES
 
 #### Status
 ACCEPTED

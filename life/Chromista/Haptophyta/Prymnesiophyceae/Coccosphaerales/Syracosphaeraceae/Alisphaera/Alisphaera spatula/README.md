@@ -1,5 +1,4 @@
-Alisphaera spatula Steinmetz, 1991. SPECIES
-=======
+# Alisphaera spatula Steinmetz, 1991. SPECIES
 
 #### Status
 ACCEPTED

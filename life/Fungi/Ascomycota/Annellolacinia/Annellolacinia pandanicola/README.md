@@ -1,5 +1,4 @@
-Annellolacinia pandanicola J. Fröhl., Raga, Philemon & K.D. Hyde, 1993 SPECIES
-=======
+# Annellolacinia pandanicola J. Fröhl., Raga, Philemon & K.D. Hyde, 1993 SPECIES
 
 #### Status
 ACCEPTED

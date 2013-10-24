@@ -1,5 +1,4 @@
-Gloeosporium polystigmicola Bondartsev SPECIES
-=======
+# Gloeosporium polystigmicola Bondartsev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota medullaris Rick SPECIES
-=======
+# Lepiota medullaris Rick SPECIES
 
 #### Status
 ACCEPTED

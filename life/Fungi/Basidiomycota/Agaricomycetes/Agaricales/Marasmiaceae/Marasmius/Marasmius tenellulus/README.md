@@ -1,5 +1,4 @@
-Marasmius tenellulus Corner SPECIES
-=======
+# Marasmius tenellulus Corner SPECIES
 
 #### Status
 ACCEPTED

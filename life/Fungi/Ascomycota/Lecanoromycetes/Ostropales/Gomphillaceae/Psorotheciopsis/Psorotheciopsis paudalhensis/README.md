@@ -1,5 +1,4 @@
-Psorotheciopsis paudalhensis Bat. & Peres SPECIES
-=======
+# Psorotheciopsis paudalhensis Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

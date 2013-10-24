@@ -1,5 +1,4 @@
-Septoria expansa Niessl, 1883 SPECIES
-=======
+# Septoria expansa Niessl, 1883 SPECIES
 
 #### Status
 ACCEPTED

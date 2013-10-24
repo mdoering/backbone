@@ -1,5 +1,4 @@
-Septonema dendriticum Lév. SPECIES
-=======
+# Septonema dendriticum Lév. SPECIES
 
 #### Status
 ACCEPTED

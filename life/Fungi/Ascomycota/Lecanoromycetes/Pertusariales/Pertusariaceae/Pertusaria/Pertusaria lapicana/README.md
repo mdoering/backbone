@@ -1,5 +1,4 @@
-Pertusaria lapicana B. de Lesd. SPECIES
-=======
+# Pertusaria lapicana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

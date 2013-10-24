@@ -1,5 +1,4 @@
-Cystolepiota furfuracea T.K.A. Kumar & Manim. SPECIES
-=======
+# Cystolepiota furfuracea T.K.A. Kumar & Manim. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea chlorotropa Nyl. SPECIES
-=======
+# Lecidea chlorotropa Nyl. SPECIES
 
 #### Status
 ACCEPTED

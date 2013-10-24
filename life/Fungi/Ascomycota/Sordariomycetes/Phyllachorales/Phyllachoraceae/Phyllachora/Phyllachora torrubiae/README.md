@@ -1,5 +1,4 @@
-Phyllachora torrubiae Chardón, 1932 SPECIES
-=======
+# Phyllachora torrubiae Chardón, 1932 SPECIES
 
 #### Status
 ACCEPTED

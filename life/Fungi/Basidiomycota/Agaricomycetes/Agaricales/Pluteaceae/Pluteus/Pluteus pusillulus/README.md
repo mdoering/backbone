@@ -1,5 +1,4 @@
-Pluteus pusillulus Romagn. SPECIES
-=======
+# Pluteus pusillulus Romagn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium hymenocrateris Annal. SPECIES
-=======
+# Gloeosporium hymenocrateris Annal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tetraporina mosquensis Naumova, 1950 SPECIES
-=======
+# Tetraporina mosquensis Naumova, 1950 SPECIES
 
 #### Status
 ACCEPTED

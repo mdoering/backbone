@@ -1,5 +1,4 @@
-Misgomyces ornatus Thaxt. SPECIES
-=======
+# Misgomyces ornatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

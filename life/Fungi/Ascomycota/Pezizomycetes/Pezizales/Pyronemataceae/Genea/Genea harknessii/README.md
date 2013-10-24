@@ -1,5 +1,4 @@
-Genea harknessii Gilkey SPECIES
-=======
+# Genea harknessii Gilkey SPECIES
 
 #### Status
 ACCEPTED

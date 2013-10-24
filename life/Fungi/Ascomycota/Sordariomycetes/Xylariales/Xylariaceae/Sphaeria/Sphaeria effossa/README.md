@@ -1,5 +1,4 @@
-Sphaeria effossa Heer SPECIES
-=======
+# Sphaeria effossa Heer SPECIES
 
 #### Status
 ACCEPTED

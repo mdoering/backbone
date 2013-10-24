@@ -1,5 +1,4 @@
-Leotia rufa Rostr. SPECIES
-=======
+# Leotia rufa Rostr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus endotheius Berk. SPECIES
-=======
+# Polyporus endotheius Berk. SPECIES
 
 #### Status
 ACCEPTED

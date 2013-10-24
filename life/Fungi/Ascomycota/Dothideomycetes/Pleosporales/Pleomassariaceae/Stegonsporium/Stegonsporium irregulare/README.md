@@ -1,5 +1,4 @@
-Stegonsporium irregulare (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Stegonsporium irregulare (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

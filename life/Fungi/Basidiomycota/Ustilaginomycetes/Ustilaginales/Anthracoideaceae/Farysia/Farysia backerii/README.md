@@ -1,5 +1,4 @@
-Farysia backerii Cif. SPECIES
-=======
+# Farysia backerii Cif. SPECIES
 
 #### Status
 ACCEPTED

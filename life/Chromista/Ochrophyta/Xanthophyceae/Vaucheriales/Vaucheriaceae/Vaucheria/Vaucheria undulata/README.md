@@ -1,5 +1,4 @@
-Vaucheria undulata var. ornata J. Cambra VARIETY
-=======
+# Vaucheria undulata C.C. Jao SPECIES
 
 #### Status
 ACCEPTED

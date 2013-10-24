@@ -1,5 +1,4 @@
-Darluca sorghi Zimm. SPECIES
-=======
+# Darluca sorghi Zimm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoglaena yasudae Vain. SPECIES
-=======
+# Mycoglaena yasudae Vain. SPECIES
 
 #### Status
 ACCEPTED

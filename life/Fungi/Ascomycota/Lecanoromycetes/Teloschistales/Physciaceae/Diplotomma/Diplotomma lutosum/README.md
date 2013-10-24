@@ -1,5 +1,4 @@
-Diplotomma lutosum A. Massal. SPECIES
-=======
+# Diplotomma lutosum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

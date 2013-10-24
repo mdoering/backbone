@@ -1,5 +1,4 @@
-Globigerina parva Bolli SPECIES
-=======
+# Globigerina parva Bolli SPECIES
 
 #### Status
 ACCEPTED

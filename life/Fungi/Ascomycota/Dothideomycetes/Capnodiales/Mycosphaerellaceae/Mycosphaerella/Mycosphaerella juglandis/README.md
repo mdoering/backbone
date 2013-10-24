@@ -1,5 +1,4 @@
-Mycosphaerella juglandis K.J. Kessler SPECIES
-=======
+# Mycosphaerella juglandis K.J. Kessler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Beloniella mirabilis Velen. SPECIES
-=======
+# Beloniella mirabilis Velen. SPECIES
 
 #### Status
 ACCEPTED

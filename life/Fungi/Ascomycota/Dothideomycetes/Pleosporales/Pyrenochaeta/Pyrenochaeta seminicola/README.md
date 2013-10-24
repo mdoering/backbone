@@ -1,5 +1,4 @@
-Pyrenochaeta seminicola (Berk. & Broome) Sacc. SPECIES
-=======
+# Pyrenochaeta seminicola (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

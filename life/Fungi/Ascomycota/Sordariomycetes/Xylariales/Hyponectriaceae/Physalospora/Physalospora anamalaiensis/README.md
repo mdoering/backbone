@@ -1,17 +1,16 @@
-Physalospora anamalaiensis var. anamalaiensis T.S. Ramakr. & K. Ramakr. VARIETY
-=======
+# Physalospora anamalaiensis T.S. Ramakr. & K. Ramakr., 1950 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Proc. Indian Acad. Sci. , Pl. Sci. 32: 68 (1950)
 
 #### Original name
-Physalospora anamalaiensis var. anamalaiensis T.S. Ramakr. & K. Ramakr.
+Physalospora anamalaiensis T.S. Ramakr. & K. Ramakr., 1950
 
 ### Remarks
 null

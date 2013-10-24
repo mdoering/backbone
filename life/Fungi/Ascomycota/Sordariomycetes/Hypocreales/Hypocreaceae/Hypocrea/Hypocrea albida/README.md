@@ -1,5 +1,4 @@
-Hypocrea albida Pat. SPECIES
-=======
+# Hypocrea albida Pat. SPECIES
 
 #### Status
 ACCEPTED

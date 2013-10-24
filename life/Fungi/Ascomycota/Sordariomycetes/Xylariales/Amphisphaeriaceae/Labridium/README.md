@@ -1,5 +1,4 @@
-Labridium GENUS
-=======
+# Labridium GENUS
 
 #### Status
 ACCEPTED

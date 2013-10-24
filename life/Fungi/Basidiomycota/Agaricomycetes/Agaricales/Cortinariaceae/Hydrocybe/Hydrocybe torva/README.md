@@ -1,5 +1,4 @@
-Hydrocybe torva (Fr.) M.M. Moser SPECIES
-=======
+# Hydrocybe torva (Fr.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

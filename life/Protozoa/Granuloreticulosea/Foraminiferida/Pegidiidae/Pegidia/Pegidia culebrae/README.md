@@ -1,5 +1,4 @@
-Pegidia culebrae Heron-Allen & Earland, 1928 SPECIES
-=======
+# Pegidia culebrae Heron-Allen & Earland, 1928 SPECIES
 
 #### Status
 ACCEPTED

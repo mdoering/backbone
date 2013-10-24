@@ -1,5 +1,4 @@
-Lembosina alyxiae Sivan. & R.G. Shivas SPECIES
-=======
+# Lembosina alyxiae Sivan. & R.G. Shivas SPECIES
 
 #### Status
 ACCEPTED

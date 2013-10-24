@@ -1,5 +1,4 @@
-Gloeosporium equiseti P. Karst. SPECIES
-=======
+# Gloeosporium equiseti P. Karst. SPECIES
 
 #### Status
 ACCEPTED

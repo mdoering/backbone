@@ -1,5 +1,4 @@
-Agaricus obrusseus Fr. SPECIES
-=======
+# Agaricus obrusseus Fr. SPECIES
 
 #### Status
 ACCEPTED

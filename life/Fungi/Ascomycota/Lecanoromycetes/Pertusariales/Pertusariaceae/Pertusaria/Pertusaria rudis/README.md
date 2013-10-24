@@ -1,5 +1,4 @@
-Pertusaria rudis Müll. Arg. SPECIES
-=======
+# Pertusaria rudis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

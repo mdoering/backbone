@@ -1,5 +1,4 @@
-Rotosphaeropsis R.J. Davey, 1988 GENUS
-=======
+# Rotosphaeropsis R.J. Davey, 1988 GENUS
 
 #### Status
 ACCEPTED

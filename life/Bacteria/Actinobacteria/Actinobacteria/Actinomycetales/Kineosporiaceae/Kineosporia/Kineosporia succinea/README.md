@@ -1,5 +1,4 @@
-Kineosporia succinea Kudo et al., 1998 SPECIES
-=======
+# Kineosporia succinea Kudo et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

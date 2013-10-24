@@ -1,5 +1,4 @@
-Chaetomium raii G. Malhotra & Mukerji, 1976 SPECIES
-=======
+# Chaetomium raii G. Malhotra & Mukerji, 1976 SPECIES
 
 #### Status
 ACCEPTED

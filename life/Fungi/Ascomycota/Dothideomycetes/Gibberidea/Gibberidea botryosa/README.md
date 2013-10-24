@@ -1,5 +1,4 @@
-Gibberidea botryosa (Tode) Kuntze SPECIES
-=======
+# Gibberidea botryosa (Tode) Kuntze SPECIES
 
 #### Status
 ACCEPTED

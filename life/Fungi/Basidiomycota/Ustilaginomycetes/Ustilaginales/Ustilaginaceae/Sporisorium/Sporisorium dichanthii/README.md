@@ -1,5 +1,4 @@
-Sporisorium dichanthii Vánky & N.D. Sharma SPECIES
-=======
+# Sporisorium dichanthii Vánky & N.D. Sharma SPECIES
 
 #### Status
 ACCEPTED

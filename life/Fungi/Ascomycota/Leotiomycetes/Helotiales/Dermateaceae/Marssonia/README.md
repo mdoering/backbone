@@ -1,5 +1,4 @@
-Marssonia GENUS
-=======
+# Marssonia GENUS
 
 #### Status
 ACCEPTED

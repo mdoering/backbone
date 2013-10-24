@@ -1,5 +1,4 @@
-Ophiobolus solidaginis (Schwein.) Sacc. SPECIES
-=======
+# Ophiobolus solidaginis (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

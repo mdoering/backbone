@@ -1,5 +1,4 @@
-Euglena rustica Schiller SPECIES
-=======
+# Euglena rustica Schiller SPECIES
 
 #### Status
 ACCEPTED

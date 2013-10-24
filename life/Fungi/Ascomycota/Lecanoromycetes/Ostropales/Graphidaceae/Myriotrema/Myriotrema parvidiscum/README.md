@@ -1,5 +1,4 @@
-Myriotrema parvidiscum Sipman SPECIES
-=======
+# Myriotrema parvidiscum Sipman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xerocomus orquidianus (Halling) L.D. Gómez SPECIES
-=======
+# Xerocomus orquidianus (Halling) L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

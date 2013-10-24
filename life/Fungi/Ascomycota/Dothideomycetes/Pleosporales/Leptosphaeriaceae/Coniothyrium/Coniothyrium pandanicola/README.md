@@ -1,5 +1,4 @@
-Coniothyrium pandanicola Petr. SPECIES
-=======
+# Coniothyrium pandanicola Petr. SPECIES
 
 #### Status
 ACCEPTED

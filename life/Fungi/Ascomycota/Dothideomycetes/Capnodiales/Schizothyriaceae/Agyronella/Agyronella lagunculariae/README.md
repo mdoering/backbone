@@ -1,5 +1,4 @@
-Agyronella lagunculariae (G. Winter) Höhn. SPECIES
-=======
+# Agyronella lagunculariae (G. Winter) Höhn. SPECIES
 
 #### Status
 ACCEPTED

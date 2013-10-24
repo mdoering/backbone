@@ -1,5 +1,4 @@
-Linkosia A. Hern. Gut. & B. Sutton GENUS
-=======
+# Linkosia A. Hern. Gut. & B. Sutton GENUS
 
 #### Status
 ACCEPTED

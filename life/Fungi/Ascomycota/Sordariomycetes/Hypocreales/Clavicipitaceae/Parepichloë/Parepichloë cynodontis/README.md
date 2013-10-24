@@ -1,5 +1,4 @@
-Parepichloë cynodontis (Syd.) J.F. White & P.V. Reddy SPECIES
-=======
+# Parepichloë cynodontis (Syd.) J.F. White & P.V. Reddy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Melanoleuca subpulverulenta var. subpulverulenta (Pers.) Singer VARIETY
-=======
+# Melanoleuca nivea Métrod ex Boekhout, 1988 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Schweiz. Z. Pilzk. 17: 56 (1939)
+Persoonia 13(4): 417 (1988)
 
 #### Original name
-Melanoleuca subpulverulenta var. subpulverulenta (Pers.) Singer
+Melanoleuca nivea Métrod ex Boekhout, 1988
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sporidesmium maclurae Thüm. SPECIES
-=======
+# Sporidesmium maclurae Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staffellidae FAMILY
-=======
+# Staffellidae FAMILY
 
 #### Status
 ACCEPTED

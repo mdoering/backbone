@@ -1,5 +1,4 @@
-Asteronectrioidea Cant. GENUS
-=======
+# Asteronectrioidea Cant. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora tetrasporicola Chardón ex Orton, 1944 SPECIES
-=======
+# Phyllachora tetrasporicola Chardón ex Orton, 1944 SPECIES
 
 #### Status
 ACCEPTED

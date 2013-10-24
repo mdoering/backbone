@@ -1,5 +1,4 @@
-Gloiocephala tezae Antonín SPECIES
-=======
+# Gloiocephala tezae Antonín SPECIES
 
 #### Status
 ACCEPTED

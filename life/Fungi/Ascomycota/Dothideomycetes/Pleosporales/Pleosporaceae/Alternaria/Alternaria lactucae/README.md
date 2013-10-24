@@ -1,5 +1,4 @@
-Alternaria lactucae M. Zhang & T.Y. Zhang SPECIES
-=======
+# Alternaria lactucae M. Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

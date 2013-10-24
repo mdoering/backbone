@@ -1,14 +1,13 @@
-Thelebolus coemansii (Boud.) Brumm., 1998 SPECIES
-=======
+# Ascophanus coemansii Boud., 1869 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 16(4): 433 (1998)
+Annls Sci. Nat. , Bot. , sér. 5 10: 244 (1869)
 
 #### Original name
 Ascophanus coemansii Boud., 1869

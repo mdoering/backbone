@@ -1,17 +1,16 @@
-Drosophila fasciculata Bertrand SPECIES
-=======
+# Psathyrella multipedata (Peck) A.H. Sm., 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Contr. Univ. Mich. Herb. 5: 33 (1941)
 
 #### Original name
-null
+Psathyra multipedata Peck, 1905
 
 ### Remarks
 null

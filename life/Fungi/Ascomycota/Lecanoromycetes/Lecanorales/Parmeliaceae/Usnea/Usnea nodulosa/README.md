@@ -1,5 +1,4 @@
-Usnea nodulosa Swinscow & Krog SPECIES
-=======
+# Usnea nodulosa Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

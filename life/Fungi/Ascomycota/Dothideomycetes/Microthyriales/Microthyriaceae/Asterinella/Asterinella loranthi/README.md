@@ -1,5 +1,4 @@
-Asterinella loranthi Syd. & P. Syd. SPECIES
-=======
+# Asterinella loranthi Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

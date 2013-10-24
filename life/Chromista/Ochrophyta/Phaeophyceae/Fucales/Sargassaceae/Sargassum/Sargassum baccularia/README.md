@@ -1,11 +1,10 @@
-Sargassum baccularia var. lantowensis Grunow, 1916 VARIETY
-=======
+# Sargassum baccularia (Mertens) C. Agardh SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

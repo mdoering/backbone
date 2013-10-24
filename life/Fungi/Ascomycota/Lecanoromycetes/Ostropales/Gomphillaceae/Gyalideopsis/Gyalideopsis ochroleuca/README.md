@@ -1,5 +1,4 @@
-Gyalideopsis ochroleuca Vezda SPECIES
-=======
+# Gyalideopsis ochroleuca Vezda SPECIES
 
 #### Status
 ACCEPTED

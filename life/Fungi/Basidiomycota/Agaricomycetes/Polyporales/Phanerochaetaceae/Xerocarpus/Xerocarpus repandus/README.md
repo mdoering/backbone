@@ -1,5 +1,4 @@
-Xerocarpus repandus (Fr.) P. Karst. SPECIES
-=======
+# Xerocarpus repandus (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

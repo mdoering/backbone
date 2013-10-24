@@ -1,5 +1,4 @@
-Vorticella encrinus Pallas, 1766 SPECIES
-=======
+# Vorticella encrinus Pallas, 1766 SPECIES
 
 #### Status
 ACCEPTED

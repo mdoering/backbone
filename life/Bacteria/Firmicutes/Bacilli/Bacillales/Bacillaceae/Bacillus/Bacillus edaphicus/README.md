@@ -1,5 +1,4 @@
-Bacillus edaphicus Shelobolina et al., 1998 SPECIES
-=======
+# Bacillus edaphicus Shelobolina et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

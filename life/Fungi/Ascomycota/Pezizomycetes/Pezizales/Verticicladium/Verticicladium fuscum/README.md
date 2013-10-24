@@ -1,5 +1,4 @@
-Verticicladium fuscum (Fuckel) Sacc. SPECIES
-=======
+# Verticicladium fuscum (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

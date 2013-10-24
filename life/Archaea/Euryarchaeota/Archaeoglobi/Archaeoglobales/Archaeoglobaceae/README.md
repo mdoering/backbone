@@ -1,5 +1,4 @@
-Archaeoglobaceae FAMILY
-=======
+# Archaeoglobaceae FAMILY
 
 #### Status
 ACCEPTED

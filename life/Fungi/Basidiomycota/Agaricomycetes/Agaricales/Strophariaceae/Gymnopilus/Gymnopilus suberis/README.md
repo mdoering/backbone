@@ -1,5 +1,4 @@
-Gymnopilus suberis (Maire) Singer SPECIES
-=======
+# Gymnopilus suberis (Maire) Singer SPECIES
 
 #### Status
 ACCEPTED

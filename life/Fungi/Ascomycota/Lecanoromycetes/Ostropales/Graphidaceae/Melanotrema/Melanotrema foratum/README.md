@@ -1,14 +1,13 @@
-Thelotrema foratum Nyl. SPECIES
-=======
+# Melanotrema foratum (Nyl.) Frisch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 69: 173 (1886)
+in Frisch & Kalb, Biblthca Lichenol. 92: 387 (2006)
 
 #### Original name
 Thelotrema foratum Nyl.

@@ -1,5 +1,4 @@
-Septoria thuemeniana Pass. SPECIES
-=======
+# Septoria thuemeniana Pass. SPECIES
 
 #### Status
 ACCEPTED

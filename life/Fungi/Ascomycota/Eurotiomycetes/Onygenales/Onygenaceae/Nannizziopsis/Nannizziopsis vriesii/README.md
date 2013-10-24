@@ -1,14 +1,13 @@
-Rollandina vriesii Apinis, 1970 SPECIES
-=======
+# Nannizziopsis vriesii (Apinis) Currah, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 55(3): 501 (1970)
+Mycotaxon 24: 164 (1985)
 
 #### Original name
 Rollandina vriesii Apinis, 1970

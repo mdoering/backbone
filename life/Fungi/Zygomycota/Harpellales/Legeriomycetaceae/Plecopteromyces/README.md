@@ -1,5 +1,4 @@
-Plecopteromyces Lichtw., Ferrington & López-Lastra GENUS
-=======
+# Plecopteromyces Lichtw., Ferrington & López-Lastra GENUS
 
 #### Status
 ACCEPTED

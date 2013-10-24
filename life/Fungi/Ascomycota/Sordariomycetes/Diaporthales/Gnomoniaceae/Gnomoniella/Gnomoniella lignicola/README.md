@@ -1,5 +1,4 @@
-Gnomoniella lignicola A.I. Romero & Samuels SPECIES
-=======
+# Gnomoniella lignicola A.I. Romero & Samuels SPECIES
 
 #### Status
 ACCEPTED

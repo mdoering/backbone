@@ -1,5 +1,4 @@
-Eutypella ceibae R.C. Rajak, A.K. Pandey & G.P. Agarwal SPECIES
-=======
+# Eutypella ceibae R.C. Rajak, A.K. Pandey & G.P. Agarwal SPECIES
 
 #### Status
 ACCEPTED

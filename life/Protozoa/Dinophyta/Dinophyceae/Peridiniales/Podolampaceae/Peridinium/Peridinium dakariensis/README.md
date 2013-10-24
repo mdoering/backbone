@@ -1,5 +1,4 @@
-Peridinium dakariensis P. Dangeard, 1927 SPECIES
-=======
+# Peridinium dakariensis P. Dangeard, 1927 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora dipterocarpacearum U. Braun SPECIES
-=======
+# Pseudocercospora dipterocarpacearum U. Braun SPECIES
 
 #### Status
 ACCEPTED

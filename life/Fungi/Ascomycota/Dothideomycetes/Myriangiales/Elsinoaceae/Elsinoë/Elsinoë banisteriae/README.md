@@ -1,5 +1,4 @@
-Elsinoë banisteriae Viégas SPECIES
-=======
+# Elsinoë banisteriae Viégas SPECIES
 
 #### Status
 ACCEPTED

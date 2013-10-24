@@ -1,5 +1,4 @@
-Phoma silphii Pass. SPECIES
-=======
+# Phoma silphii Pass. SPECIES
 
 #### Status
 ACCEPTED

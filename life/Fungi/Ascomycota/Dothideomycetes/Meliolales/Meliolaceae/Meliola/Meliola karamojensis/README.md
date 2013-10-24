@@ -1,5 +1,4 @@
-Meliola karamojensis Hansf. SPECIES
-=======
+# Meliola karamojensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

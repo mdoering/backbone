@@ -1,5 +1,4 @@
-Agaricus psamminus Berk. SPECIES
-=======
+# Agaricus psamminus Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Perirhiza Karling GENUS
-=======
+# Catenophlyctis Karling GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Am. J. Bot. 52: 133 (1965)
 
 #### Original name
-Perirhiza Karling
+Catenophlyctis Karling
 
 ### Remarks
 null

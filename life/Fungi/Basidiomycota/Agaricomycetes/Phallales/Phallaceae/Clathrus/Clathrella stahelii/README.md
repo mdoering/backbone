@@ -1,5 +1,4 @@
-Clathrella stahelii E. Fisch. SPECIES
-=======
+# Clathrella stahelii E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora rhabarbarina Hue SPECIES
-=======
+# Acarospora rhabarbarina Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cothurnia ovalis Kahl, 1933 SPECIES
-=======
+# Cothurnia ovalis Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

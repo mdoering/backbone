@@ -1,5 +1,4 @@
-Ascochyta viticola Sacc. SPECIES
-=======
+# Ascochyta viticola Sacc. SPECIES
 
 #### Status
 ACCEPTED

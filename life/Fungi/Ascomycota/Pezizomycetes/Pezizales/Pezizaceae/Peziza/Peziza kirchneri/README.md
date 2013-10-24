@@ -1,5 +1,4 @@
-Peziza kirchneri Opiz SPECIES
-=======
+# Peziza kirchneri Opiz SPECIES
 
 #### Status
 ACCEPTED

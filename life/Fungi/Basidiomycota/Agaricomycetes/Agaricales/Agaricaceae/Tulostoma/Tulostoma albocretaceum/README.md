@@ -1,5 +1,4 @@
-Tulostoma albocretaceum Long & S. Ahmad SPECIES
-=======
+# Tulostoma albocretaceum Long & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

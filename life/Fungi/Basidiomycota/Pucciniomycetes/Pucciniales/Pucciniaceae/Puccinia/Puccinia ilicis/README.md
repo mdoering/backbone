@@ -1,5 +1,4 @@
-Puccinia ilicis J.M. Yen & Zambett. SPECIES
-=======
+# Puccinia ilicis J.M. Yen & Zambett. SPECIES
 
 #### Status
 ACCEPTED

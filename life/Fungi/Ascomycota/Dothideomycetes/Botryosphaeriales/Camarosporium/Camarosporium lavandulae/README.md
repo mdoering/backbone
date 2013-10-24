@@ -1,5 +1,4 @@
-Camarosporium lavandulae Dias SPECIES
-=======
+# Camarosporium lavandulae Dias SPECIES
 
 #### Status
 ACCEPTED

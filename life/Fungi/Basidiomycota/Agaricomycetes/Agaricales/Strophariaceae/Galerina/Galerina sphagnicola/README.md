@@ -1,5 +1,4 @@
-Galerina sphagnicola (G.F. Atk.) A.H. Sm. & Singer SPECIES
-=======
+# Galerina sphagnicola (G.F. Atk.) A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

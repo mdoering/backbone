@@ -1,5 +1,4 @@
-Actinothyrium caulincolum Schwein. SPECIES
-=======
+# Actinothyrium caulincolum Schwein. SPECIES
 
 #### Status
 ACCEPTED

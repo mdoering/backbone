@@ -1,5 +1,4 @@
-Taphrina kruchii (Vuill.) Sacc. SPECIES
-=======
+# Taphrina kruchii (Vuill.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

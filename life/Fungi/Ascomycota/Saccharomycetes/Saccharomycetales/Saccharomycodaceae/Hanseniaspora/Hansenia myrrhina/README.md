@@ -1,5 +1,4 @@
-Hansenia myrrhina (J.J. Kickx) P. Karst. SPECIES
-=======
+# Hansenia myrrhina (J.J. Kickx) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

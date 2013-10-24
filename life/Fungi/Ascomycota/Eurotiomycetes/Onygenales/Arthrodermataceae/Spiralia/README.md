@@ -1,5 +1,4 @@
-Spiralia GENUS
-=======
+# Spiralia GENUS
 
 #### Status
 ACCEPTED

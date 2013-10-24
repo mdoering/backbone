@@ -1,5 +1,4 @@
-Lecidea intermiscens Nyl. SPECIES
-=======
+# Lecidea intermiscens Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola mussaendae-arcuatae Hansf. SPECIES
-=======
+# Meliola mussaendae-arcuatae Hansf. SPECIES
 
 #### Status
 ACCEPTED

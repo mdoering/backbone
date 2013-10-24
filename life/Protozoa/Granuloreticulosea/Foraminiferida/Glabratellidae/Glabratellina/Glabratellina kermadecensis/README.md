@@ -1,5 +1,4 @@
-Glabratellina kermadecensis Hayward, Grenfell, Reid & Hayward, 1999 SPECIES
-=======
+# Glabratellina kermadecensis Hayward, Grenfell, Reid & Hayward, 1999 SPECIES
 
 #### Status
 ACCEPTED

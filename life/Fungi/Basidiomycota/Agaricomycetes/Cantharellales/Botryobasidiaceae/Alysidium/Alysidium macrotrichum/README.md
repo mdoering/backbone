@@ -1,5 +1,4 @@
-Alysidium macrotrichum (Corda) Kuntze SPECIES
-=======
+# Alysidium macrotrichum (Corda) Kuntze SPECIES
 
 #### Status
 ACCEPTED

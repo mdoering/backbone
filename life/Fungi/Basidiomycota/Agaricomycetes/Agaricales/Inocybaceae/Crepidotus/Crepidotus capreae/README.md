@@ -1,5 +1,4 @@
-Crepidotus capreae Velen. SPECIES
-=======
+# Crepidotus capreae Velen. SPECIES
 
 #### Status
 ACCEPTED

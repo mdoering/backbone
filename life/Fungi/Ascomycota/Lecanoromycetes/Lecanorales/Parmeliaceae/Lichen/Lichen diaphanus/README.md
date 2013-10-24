@@ -1,5 +1,4 @@
-Lichen diaphanus Sw. SPECIES
-=======
+# Lichen diaphanus Sw. SPECIES
 
 #### Status
 ACCEPTED

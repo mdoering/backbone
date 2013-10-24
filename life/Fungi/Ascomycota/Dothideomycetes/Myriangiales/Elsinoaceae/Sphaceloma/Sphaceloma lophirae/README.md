@@ -1,5 +1,4 @@
-Sphaceloma lophirae C. Moreau & M. Moreau SPECIES
-=======
+# Sphaceloma lophirae C. Moreau & M. Moreau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Santessoniella saximontana T. Sprib., P. M. Jørg. & M. Schultz SPECIES
-=======
+# Santessoniella saximontana T. Sprib., P. M. Jørg. & M. Schultz SPECIES
 
 #### Status
 ACCEPTED

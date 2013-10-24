@@ -1,5 +1,4 @@
-Puccinia eupatorii Dietel SPECIES
-=======
+# Puccinia eupatorii Dietel SPECIES
 
 #### Status
 ACCEPTED

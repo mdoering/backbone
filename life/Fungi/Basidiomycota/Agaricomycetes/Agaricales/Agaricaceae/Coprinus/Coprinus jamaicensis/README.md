@@ -1,17 +1,16 @@
-Coprinus jamaicense Murrill SPECIES
-=======
+# Coprinus jamaicensis Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 10(2): 84 (1918)
 
 #### Original name
-Coprinus jamaicense Murrill
+Coprinus jamaicensis Murrill
 
 ### Remarks
 null

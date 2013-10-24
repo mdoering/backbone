@@ -1,5 +1,4 @@
-Buellia gyrosa Vain. SPECIES
-=======
+# Buellia gyrosa Vain. SPECIES
 
 #### Status
 ACCEPTED

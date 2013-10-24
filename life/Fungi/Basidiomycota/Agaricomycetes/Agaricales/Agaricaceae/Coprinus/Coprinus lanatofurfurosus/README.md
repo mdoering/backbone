@@ -1,5 +1,4 @@
-Coprinus lanatofurfurosus Britzelm. SPECIES
-=======
+# Coprinus lanatofurfurosus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

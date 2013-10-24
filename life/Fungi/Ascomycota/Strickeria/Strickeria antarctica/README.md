@@ -1,5 +1,4 @@
-Strickeria antarctica (Speg.) Lindau SPECIES
-=======
+# Strickeria antarctica (Speg.) Lindau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Ascidium massalongii Mont., 1860 SPECIES
-=======
+# Ocellularia massalongii (Mont.) Hale, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

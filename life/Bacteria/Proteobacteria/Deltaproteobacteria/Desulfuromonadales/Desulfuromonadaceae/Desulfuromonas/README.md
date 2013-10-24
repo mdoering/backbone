@@ -1,5 +1,4 @@
-Desulfuromonas GENUS
-=======
+# Desulfuromonas GENUS
 
 #### Status
 ACCEPTED

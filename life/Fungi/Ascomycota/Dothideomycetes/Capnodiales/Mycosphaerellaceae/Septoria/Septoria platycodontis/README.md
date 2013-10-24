@@ -1,5 +1,4 @@
-Septoria platycodontis Syd. {?} SPECIES
-=======
+# Septoria platycodontis Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

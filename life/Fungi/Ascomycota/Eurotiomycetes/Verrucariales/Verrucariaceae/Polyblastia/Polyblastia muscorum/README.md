@@ -1,5 +1,4 @@
-Polyblastia muscorum (Servazzi) Clauzade & Cl. Roux SPECIES
-=======
+# Polyblastia muscorum (Servazzi) Clauzade & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

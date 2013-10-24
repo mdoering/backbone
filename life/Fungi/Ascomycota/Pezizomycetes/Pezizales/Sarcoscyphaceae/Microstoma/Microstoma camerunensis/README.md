@@ -1,5 +1,4 @@
-Microstoma camerunensis Douanla-Meli SPECIES
-=======
+# Microstoma camerunensis Douanla-Meli SPECIES
 
 #### Status
 ACCEPTED

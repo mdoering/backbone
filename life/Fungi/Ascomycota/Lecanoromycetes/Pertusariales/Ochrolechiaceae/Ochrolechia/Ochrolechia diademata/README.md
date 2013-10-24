@@ -1,5 +1,4 @@
-Ochrolechia diademata Vain. SPECIES
-=======
+# Ochrolechia diademata Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces jamaicensis Vestergr. SPECIES
-=======
+# Uromyces jamaicensis Vestergr. SPECIES
 
 #### Status
 ACCEPTED

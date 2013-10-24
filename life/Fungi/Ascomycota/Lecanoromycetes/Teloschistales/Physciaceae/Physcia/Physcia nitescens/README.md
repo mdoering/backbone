@@ -1,5 +1,4 @@
-Physcia nitescens SPECIES
-=======
+# Physcia nitescens SPECIES
 
 #### Status
 ACCEPTED

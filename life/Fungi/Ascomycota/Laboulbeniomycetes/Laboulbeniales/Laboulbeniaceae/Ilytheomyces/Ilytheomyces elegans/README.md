@@ -1,5 +1,4 @@
-Ilytheomyces elegans Thaxt., 1917 SPECIES
-=======
+# Ilytheomyces elegans Thaxt., 1917 SPECIES
 
 #### Status
 ACCEPTED

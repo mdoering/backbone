@@ -1,5 +1,4 @@
-Puccinia insulans (Arthur) H.S. Jacks. SPECIES
-=======
+# Puccinia insulans (Arthur) H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

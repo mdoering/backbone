@@ -1,5 +1,4 @@
-Dicaeoma rabenhorstii Kuntze SPECIES
-=======
+# Dicaeoma rabenhorstii Kuntze SPECIES
 
 #### Status
 ACCEPTED

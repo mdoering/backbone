@@ -1,5 +1,4 @@
-Ceratostoma crassicolle Kirschst. SPECIES
-=======
+# Ceratostoma crassicolle Kirschst. SPECIES
 
 #### Status
 ACCEPTED

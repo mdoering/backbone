@@ -1,5 +1,4 @@
-Boletinus asiaticus Singer SPECIES
-=======
+# Boletinus asiaticus Singer SPECIES
 
 #### Status
 ACCEPTED

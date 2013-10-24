@@ -1,5 +1,4 @@
-Ovalicysta T. Bjaerke, 1980 GENUS
-=======
+# Ovalicysta T. Bjaerke, 1980 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phloeospora podagrariae (Lasch) SPECIES
-=======
+# Phloeospora podagrariae (Lasch) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meristracum GENUS
-=======
+# Meristracum GENUS
 
 #### Status
 ACCEPTED

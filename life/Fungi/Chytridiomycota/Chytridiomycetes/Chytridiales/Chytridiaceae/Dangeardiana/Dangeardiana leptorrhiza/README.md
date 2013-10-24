@@ -1,5 +1,4 @@
-Dangeardiana leptorrhiza (Johns) A. Batko SPECIES
-=======
+# Dangeardiana leptorrhiza (Johns) A. Batko SPECIES
 
 #### Status
 ACCEPTED

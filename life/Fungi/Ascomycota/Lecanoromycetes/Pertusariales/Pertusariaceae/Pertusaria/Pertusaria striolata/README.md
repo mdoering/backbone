@@ -1,5 +1,4 @@
-Pertusaria striolata Räsänen SPECIES
-=======
+# Pertusaria striolata Räsänen SPECIES
 
 #### Status
 ACCEPTED

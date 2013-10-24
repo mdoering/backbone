@@ -1,14 +1,13 @@
-Micromucor longicollis (Dixon-Stew.) Arx, 1982 SPECIES
-=======
+# Mortierella longicollis Dixon-Stew., 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 35: 19 (1982)
+Trans. Br. mycol. Soc. 17: 214 (1932)
 
 #### Original name
 Mortierella longicollis Dixon-Stew., 1932

@@ -1,5 +1,4 @@
-Peronospora lanceolatae Gapon. SPECIES
-=======
+# Peronospora lanceolatae Gapon. SPECIES
 
 #### Status
 ACCEPTED

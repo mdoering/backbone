@@ -1,5 +1,4 @@
-Planispirina edwardsi Schlumberger, 1887 SPECIES
-=======
+# Planispirina edwardsi Schlumberger, 1887 SPECIES
 
 #### Status
 ACCEPTED

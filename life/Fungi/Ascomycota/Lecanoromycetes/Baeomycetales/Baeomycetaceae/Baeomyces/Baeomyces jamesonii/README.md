@@ -1,5 +1,4 @@
-Baeomyces jamesonii Taylor SPECIES
-=======
+# Baeomyces jamesonii Taylor SPECIES
 
 #### Status
 ACCEPTED

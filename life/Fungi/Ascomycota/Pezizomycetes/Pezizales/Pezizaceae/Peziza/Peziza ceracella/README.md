@@ -1,5 +1,4 @@
-Peziza ceracella Fr. SPECIES
-=======
+# Peziza ceracella Fr. SPECIES
 
 #### Status
 ACCEPTED

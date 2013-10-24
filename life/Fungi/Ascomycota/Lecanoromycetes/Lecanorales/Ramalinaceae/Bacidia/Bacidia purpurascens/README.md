@@ -1,5 +1,4 @@
-Bacidia purpurascens Vain. SPECIES
-=======
+# Bacidia purpurascens Vain. SPECIES
 
 #### Status
 ACCEPTED

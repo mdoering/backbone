@@ -1,5 +1,4 @@
-Clavaria penicillata Bull. SPECIES
-=======
+# Clavaria penicillata Bull. SPECIES
 
 #### Status
 ACCEPTED

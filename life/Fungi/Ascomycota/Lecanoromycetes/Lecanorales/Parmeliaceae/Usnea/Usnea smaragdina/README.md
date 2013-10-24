@@ -1,5 +1,4 @@
-Usnea smaragdina Motyka SPECIES
-=======
+# Usnea smaragdina Motyka SPECIES
 
 #### Status
 ACCEPTED

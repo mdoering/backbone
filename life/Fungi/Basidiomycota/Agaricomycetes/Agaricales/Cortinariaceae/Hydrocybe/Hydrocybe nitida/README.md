@@ -1,5 +1,4 @@
-Hydrocybe nitida var. nitida VARIETY
-=======
+# Hydrocybe nitida (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 N. Amer. Fl. (New York) 9(6): 378 (1916)
 
 #### Original name
-Hydrocybe nitida var. nitida
+Hygrophorus nitidus Berk. & M.A. Curtis, 1853
 
 ### Remarks
 null

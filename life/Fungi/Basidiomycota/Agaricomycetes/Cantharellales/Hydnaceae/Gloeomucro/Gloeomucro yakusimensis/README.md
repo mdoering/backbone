@@ -1,14 +1,13 @@
-Myxomycidium yakusimense Kobayasi, 1954 SPECIES
-=======
+# Gloeomucro yakusimensis (Kobayasi) R.H. Petersen, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nagaoa 4: 43 (1954)
+Mycologia 72(2): 303 (1980)
 
 #### Original name
 Myxomycidium yakusimense Kobayasi, 1954

@@ -1,5 +1,4 @@
-Pontibacillus chungwhensis Lim et al., 2005 SPECIES
-=======
+# Pontibacillus chungwhensis Lim et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

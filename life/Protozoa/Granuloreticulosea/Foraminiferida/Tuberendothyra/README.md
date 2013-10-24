@@ -1,5 +1,4 @@
-Tuberendothyra Skipp, 1969 GENUS
-=======
+# Tuberendothyra Skipp, 1969 GENUS
 
 #### Status
 ACCEPTED

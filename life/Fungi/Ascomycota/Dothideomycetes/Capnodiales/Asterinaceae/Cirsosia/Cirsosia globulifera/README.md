@@ -1,5 +1,4 @@
-Cirsosia globulifera (Pat.) Arx SPECIES
-=======
+# Cirsosia globulifera (Pat.) Arx SPECIES
 
 #### Status
 ACCEPTED

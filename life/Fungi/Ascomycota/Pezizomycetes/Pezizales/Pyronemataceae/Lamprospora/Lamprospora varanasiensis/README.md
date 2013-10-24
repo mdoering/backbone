@@ -1,5 +1,4 @@
-Lamprospora varanasiensis K.B. Khare & V.P. Tewari SPECIES
-=======
+# Lamprospora varanasiensis K.B. Khare & V.P. Tewari SPECIES
 
 #### Status
 ACCEPTED

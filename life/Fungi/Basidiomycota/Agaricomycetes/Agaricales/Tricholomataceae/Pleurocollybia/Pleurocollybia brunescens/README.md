@@ -1,17 +1,16 @@
-Geopetalum brunnescens Earle SPECIES
-=======
+# Pleurocollybia brunescens (Earle) Singer, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beih. Sydowia 7: 17 (1973)
 
 #### Original name
-Geopetalum brunnescens Earle
+Geopetalum brunescens Earle, 1906
 
 ### Remarks
 null

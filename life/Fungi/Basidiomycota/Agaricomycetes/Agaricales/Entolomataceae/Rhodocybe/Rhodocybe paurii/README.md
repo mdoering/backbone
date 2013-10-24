@@ -1,5 +1,4 @@
-Rhodocybe paurii T.J. Baroni, Moncalvo, R.P. Bhatt & S.L. Stephenson SPECIES
-=======
+# Rhodocybe paurii T.J. Baroni, Moncalvo, R.P. Bhatt & S.L. Stephenson SPECIES
 
 #### Status
 ACCEPTED

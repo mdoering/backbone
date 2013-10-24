@@ -1,5 +1,4 @@
-Isthmolongispora lanceata de Hoog & Hennebert, 1983 SPECIES
-=======
+# Isthmolongispora lanceata de Hoog & Hennebert, 1983 SPECIES
 
 #### Status
 ACCEPTED

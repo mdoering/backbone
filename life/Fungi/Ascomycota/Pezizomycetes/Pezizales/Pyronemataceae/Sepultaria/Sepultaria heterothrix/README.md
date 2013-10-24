@@ -1,5 +1,4 @@
-Sepultaria heterothrix Clem. SPECIES
-=======
+# Sepultaria heterothrix Clem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramariopsis cremicolor R.H. Petersen, 1988 SPECIES
-=======
+# Ramariopsis cremicolor R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

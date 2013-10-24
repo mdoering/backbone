@@ -1,5 +1,4 @@
-Septoria hydrocotylicola Speg. SPECIES
-=======
+# Septoria hydrocotylicola Speg. SPECIES
 
 #### Status
 ACCEPTED

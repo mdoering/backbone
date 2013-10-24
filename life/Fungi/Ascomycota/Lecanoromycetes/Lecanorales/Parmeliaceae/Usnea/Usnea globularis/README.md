@@ -1,5 +1,4 @@
-Usnea globularis Motyka SPECIES
-=======
+# Usnea globularis Motyka SPECIES
 
 #### Status
 ACCEPTED

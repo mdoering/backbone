@@ -1,5 +1,4 @@
-Kalbographa lobata Lücking SPECIES
-=======
+# Kalbographa lobata Lücking SPECIES
 
 #### Status
 ACCEPTED

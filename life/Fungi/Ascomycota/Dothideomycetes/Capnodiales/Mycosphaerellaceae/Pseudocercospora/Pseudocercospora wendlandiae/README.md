@@ -1,5 +1,4 @@
-Pseudocercospora wendlandiae (U. Braun & Crous) B. Sutton SPECIES
-=======
+# Pseudocercospora wendlandiae (U. Braun & Crous) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

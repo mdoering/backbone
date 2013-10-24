@@ -1,5 +1,4 @@
-Leptonia aurea Velen. SPECIES
-=======
+# Leptonia aurea Velen. SPECIES
 
 #### Status
 ACCEPTED

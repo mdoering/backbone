@@ -1,5 +1,4 @@
-Podocrea pezizoidea (Möller) Sacc. & D. Sacc. SPECIES
-=======
+# Podocrea pezizoidea (Möller) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Morchella inamoena Boud. SPECIES
-=======
+# Morchella inamoena Boud. SPECIES
 
 #### Status
 ACCEPTED

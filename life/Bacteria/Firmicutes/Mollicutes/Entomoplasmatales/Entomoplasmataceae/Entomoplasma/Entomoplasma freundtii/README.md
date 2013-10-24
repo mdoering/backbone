@@ -1,5 +1,4 @@
-Entomoplasma freundtii Tully et al., 1998 SPECIES
-=======
+# Entomoplasma freundtii Tully et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

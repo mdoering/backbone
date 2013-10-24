@@ -1,5 +1,4 @@
-Lepiota nelvae Maire SPECIES
-=======
+# Lepiota nelvae Maire SPECIES
 
 #### Status
 ACCEPTED

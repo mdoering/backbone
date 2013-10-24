@@ -1,5 +1,4 @@
-Lichenoconium echinosporum D. Hawksw. SPECIES
-=======
+# Lichenoconium echinosporum D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

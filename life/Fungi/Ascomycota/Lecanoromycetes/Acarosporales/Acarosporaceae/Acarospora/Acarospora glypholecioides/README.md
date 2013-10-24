@@ -1,5 +1,4 @@
-Acarospora glypholecioides H. Magn. SPECIES
-=======
+# Acarospora glypholecioides H. Magn. SPECIES
 
 #### Status
 ACCEPTED

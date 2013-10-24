@@ -1,5 +1,4 @@
-Melampsora amygdalinae Kleb., 1900 SPECIES
-=======
+# Melampsora amygdalinae Kleb., 1900 SPECIES
 
 #### Status
 ACCEPTED

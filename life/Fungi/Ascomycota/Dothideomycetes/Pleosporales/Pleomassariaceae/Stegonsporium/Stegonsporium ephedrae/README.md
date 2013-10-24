@@ -1,5 +1,4 @@
-Stegonsporium ephedrae Golovin SPECIES
-=======
+# Stegonsporium ephedrae Golovin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichodochium disseminatum Syd., 1927 SPECIES
-=======
+# Trichodochium disseminatum Syd., 1927 SPECIES
 
 #### Status
 ACCEPTED

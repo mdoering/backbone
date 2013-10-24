@@ -1,5 +1,4 @@
-Fusarium speiseri J. Lindau SPECIES
-=======
+# Fusarium speiseri J. Lindau SPECIES
 
 #### Status
 ACCEPTED

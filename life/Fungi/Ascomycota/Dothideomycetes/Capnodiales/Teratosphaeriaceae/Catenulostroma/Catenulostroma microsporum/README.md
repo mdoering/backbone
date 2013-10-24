@@ -1,14 +1,13 @@
-Trimmatostroma microsporum Joanne E. Taylor & Crous, 2000 SPECIES
-=======
+# Catenulostroma microsporum (Joanne E. Taylor & Crous) Crous & U. Braun, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Res. 104(5): 631 (2000)
+in Crous, Braun & Groenewald, Stud. Mycol. 58: 10 (2007)
 
 #### Original name
 Trimmatostroma microsporum Joanne E. Taylor & Crous, 2000

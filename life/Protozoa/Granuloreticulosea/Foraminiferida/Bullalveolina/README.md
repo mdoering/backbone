@@ -1,5 +1,4 @@
-Bullalveolina Reichel, 1935 GENUS
-=======
+# Bullalveolina Reichel, 1935 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tylopilus pumilus (Saut.) Henn. SPECIES
-=======
+# Tylopilus pumilus (Saut.) Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta thlaspeos f. thlaspeos FORM
-=======
+# Ascochyta thlaspeos Ricken SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ascochyta thlaspeos f. thlaspeos
+Ascochyta thlaspeos Ricken
 
 ### Remarks
 null

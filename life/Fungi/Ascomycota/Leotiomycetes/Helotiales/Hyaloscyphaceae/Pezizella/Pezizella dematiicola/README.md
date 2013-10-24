@@ -1,5 +1,4 @@
-Pezizella dematiicola Feltgen SPECIES
-=======
+# Pezizella dematiicola Feltgen SPECIES
 
 #### Status
 ACCEPTED

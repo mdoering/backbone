@@ -1,5 +1,4 @@
-Baltisphaeridium delicatum (Turner, 1984) Eiserhardt, 1989 SPECIES
-=======
+# Baltisphaeridium delicatum (Turner, 1984) Eiserhardt, 1989 SPECIES
 
 #### Status
 ACCEPTED

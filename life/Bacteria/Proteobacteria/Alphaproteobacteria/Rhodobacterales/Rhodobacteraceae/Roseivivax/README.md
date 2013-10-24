@@ -1,5 +1,4 @@
-Roseivivax Suzuki, Muroga, Takahama & Nishimura, 1999 GENUS
-=======
+# Roseivivax Suzuki, Muroga, Takahama & Nishimura, 1999 GENUS
 
 #### Status
 ACCEPTED

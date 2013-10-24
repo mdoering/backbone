@@ -1,5 +1,4 @@
-Dacrymyces dacryomitriformis McNabb SPECIES
-=======
+# Dacrymyces dacryomitriformis McNabb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichophyton proliferans M.P. English & Stockdale, 1968 SPECIES
-=======
+# Trichophyton proliferans M.P. English & Stockdale, 1968 SPECIES
 
 #### Status
 ACCEPTED

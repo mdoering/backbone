@@ -1,5 +1,4 @@
-Cladosporium furfuraceum McAlpine SPECIES
-=======
+# Cladosporium furfuraceum McAlpine SPECIES
 
 #### Status
 ACCEPTED

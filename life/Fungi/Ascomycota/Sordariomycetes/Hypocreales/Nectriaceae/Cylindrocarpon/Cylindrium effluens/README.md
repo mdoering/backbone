@@ -1,5 +1,4 @@
-Cylindrium effluens P. Karst. SPECIES
-=======
+# Cylindrium effluens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

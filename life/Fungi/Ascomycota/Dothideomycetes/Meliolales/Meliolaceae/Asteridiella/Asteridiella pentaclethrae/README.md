@@ -1,5 +1,4 @@
-Asteridiella pentaclethrae Hansf. SPECIES
-=======
+# Asteridiella pentaclethrae Hansf. SPECIES
 
 #### Status
 ACCEPTED

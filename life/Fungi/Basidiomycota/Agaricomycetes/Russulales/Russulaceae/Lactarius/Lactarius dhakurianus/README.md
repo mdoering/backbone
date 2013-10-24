@@ -1,5 +1,4 @@
-Lactarius dhakurianus K. Das, Basso & J.R. Sharma SPECIES
-=======
+# Lactarius dhakurianus K. Das, Basso & J.R. Sharma SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium deeringiae Cooke & Massee SPECIES
-=======
+# Aecidium deeringiae Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

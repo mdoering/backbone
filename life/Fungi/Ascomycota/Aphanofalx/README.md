@@ -1,5 +1,4 @@
-Aphanofalx B. Sutton GENUS
-=======
+# Aphanofalx B. Sutton GENUS
 
 #### Status
 ACCEPTED

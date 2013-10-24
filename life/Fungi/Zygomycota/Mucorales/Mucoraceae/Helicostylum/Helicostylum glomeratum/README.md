@@ -1,5 +1,4 @@
-Helicostylum glomeratum (Tiegh. & G. Le Monn.) Tiegh. SPECIES
-=======
+# Helicostylum glomeratum (Tiegh. & G. Le Monn.) Tiegh. SPECIES
 
 #### Status
 ACCEPTED

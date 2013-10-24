@@ -1,5 +1,4 @@
-Medusula pedata Fr. SPECIES
-=======
+# Medusula pedata Fr. SPECIES
 
 #### Status
 ACCEPTED

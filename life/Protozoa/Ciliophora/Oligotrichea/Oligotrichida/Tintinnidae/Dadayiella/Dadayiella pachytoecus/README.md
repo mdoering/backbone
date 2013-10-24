@@ -1,5 +1,4 @@
-Dadayiella pachytoecus (Dendy, 1924) SPECIES
-=======
+# Dadayiella pachytoecus (Dendy, 1924) SPECIES
 
 #### Status
 ACCEPTED

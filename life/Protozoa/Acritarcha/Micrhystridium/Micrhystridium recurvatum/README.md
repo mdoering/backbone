@@ -1,5 +1,4 @@
-Micrhystridium recurvatum Valensi, 1953 SPECIES
-=======
+# Micrhystridium recurvatum Valensi, 1953 SPECIES
 
 #### Status
 ACCEPTED

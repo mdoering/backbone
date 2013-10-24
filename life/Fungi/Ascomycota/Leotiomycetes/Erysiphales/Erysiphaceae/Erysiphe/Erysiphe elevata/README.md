@@ -1,5 +1,4 @@
-Erysiphe elevata (Burrill) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe elevata (Burrill) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

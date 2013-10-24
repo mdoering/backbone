@@ -1,5 +1,4 @@
-Conidiobolus mycophilus Sriniv. & Thirum., 1966 SPECIES
-=======
+# Conidiobolus mycophilus Sriniv. & Thirum., 1966 SPECIES
 
 #### Status
 ACCEPTED

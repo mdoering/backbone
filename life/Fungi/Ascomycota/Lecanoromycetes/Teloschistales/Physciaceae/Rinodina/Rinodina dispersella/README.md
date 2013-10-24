@@ -1,5 +1,4 @@
-Rinodina dispersella (Vain.) Vain. SPECIES
-=======
+# Rinodina dispersella (Vain.) Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea kieneri R.A. Anderson SPECIES
-=======
+# Lecidea kieneri R.A. Anderson SPECIES
 
 #### Status
 ACCEPTED

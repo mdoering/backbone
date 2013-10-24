@@ -1,5 +1,4 @@
-Dicaeoma sydowianum (Zopf) Kuntze SPECIES
-=======
+# Dicaeoma sydowianum (Zopf) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lagena spiralis SPECIES
-=======
+# Lagena spiralis SPECIES
 
 #### Status
 ACCEPTED

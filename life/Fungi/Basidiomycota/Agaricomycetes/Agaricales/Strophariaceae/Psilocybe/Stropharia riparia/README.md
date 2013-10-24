@@ -1,5 +1,4 @@
-Stropharia riparia A.H. Sm. SPECIES
-=======
+# Stropharia riparia A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

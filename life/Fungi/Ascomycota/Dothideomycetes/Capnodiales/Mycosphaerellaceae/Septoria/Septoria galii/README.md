@@ -1,5 +1,4 @@
-Septoria galii Curzi & Barbaini SPECIES
-=======
+# Septoria galii Curzi & Barbaini SPECIES
 
 #### Status
 ACCEPTED

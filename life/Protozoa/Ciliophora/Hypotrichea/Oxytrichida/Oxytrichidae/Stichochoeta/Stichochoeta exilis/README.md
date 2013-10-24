@@ -1,5 +1,4 @@
-Stichochoeta exilis Dumas SPECIES
-=======
+# Stichochoeta exilis Dumas SPECIES
 
 #### Status
 ACCEPTED

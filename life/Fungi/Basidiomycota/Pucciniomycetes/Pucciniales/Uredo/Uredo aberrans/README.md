@@ -1,5 +1,4 @@
-Uredo aberrans Peck SPECIES
-=======
+# Uredo aberrans Peck SPECIES
 
 #### Status
 ACCEPTED

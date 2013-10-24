@@ -1,5 +1,4 @@
-Mollisia rosea Massee SPECIES
-=======
+# Mollisia rosea Massee SPECIES
 
 #### Status
 ACCEPTED

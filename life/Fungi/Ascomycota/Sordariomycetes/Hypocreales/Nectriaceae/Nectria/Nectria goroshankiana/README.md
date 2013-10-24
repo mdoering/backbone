@@ -1,5 +1,4 @@
-Nectria goroshankiana Wahrlich SPECIES
-=======
+# Nectria goroshankiana Wahrlich SPECIES
 
 #### Status
 ACCEPTED

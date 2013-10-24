@@ -1,5 +1,4 @@
-Wolfiporia dilatohypha Ryvarden & Gilb., 1984 SPECIES
-=======
+# Wolfiporia dilatohypha Ryvarden & Gilb., 1984 SPECIES
 
 #### Status
 ACCEPTED

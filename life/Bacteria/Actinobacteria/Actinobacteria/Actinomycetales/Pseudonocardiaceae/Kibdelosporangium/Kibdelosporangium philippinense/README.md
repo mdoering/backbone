@@ -1,5 +1,4 @@
-Kibdelosporangium philippinense Mertz & Yao, 1988 SPECIES
-=======
+# Kibdelosporangium philippinense Mertz & Yao, 1988 SPECIES
 
 #### Status
 ACCEPTED

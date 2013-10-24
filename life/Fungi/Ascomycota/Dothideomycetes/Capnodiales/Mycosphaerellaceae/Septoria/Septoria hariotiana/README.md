@@ -1,5 +1,4 @@
-Septoria hariotiana Sacc. SPECIES
-=======
+# Septoria hariotiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

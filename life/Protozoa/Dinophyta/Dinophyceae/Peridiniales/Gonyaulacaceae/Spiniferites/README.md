@@ -1,14 +1,13 @@
-Rivernookia I.C. Cookson & A. Eisenack, 1982 GENUS
-=======
+# Spiniferites G.A.Mantell, 1850 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Palaeontographica Abt. B Palaeophytol. 184 (1-3): 56.
+Pict. Atlas Foss. Remains, 191.
 
 #### Original name
 null

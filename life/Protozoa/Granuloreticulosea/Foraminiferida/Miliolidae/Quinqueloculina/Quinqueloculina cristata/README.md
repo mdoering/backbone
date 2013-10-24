@@ -1,5 +1,4 @@
-Quinqueloculina cristata SPECIES
-=======
+# Quinqueloculina cristata SPECIES
 
 #### Status
 ACCEPTED

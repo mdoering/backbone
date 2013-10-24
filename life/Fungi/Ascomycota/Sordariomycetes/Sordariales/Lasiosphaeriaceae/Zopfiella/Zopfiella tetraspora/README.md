@@ -1,17 +1,16 @@
-Podospora buffonii Cailleux, 1969 SPECIES
-=======
+# Zopfiella tetraspora (J.N. Rai, Mukerji & J.P. Tewari) S. Ahmad, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cahiers de La Maboké 7: 12 (1969)
+Monogr. Biol. Soc. Pakistan 7: 78 (1978)
 
 #### Original name
-Podospora buffonii Cailleux, 1969
+Tripterospora tetraspora J.N. Rai, Mukerji & J.P. Tewari, 1963
 
 ### Remarks
 null

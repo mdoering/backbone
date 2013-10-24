@@ -1,5 +1,4 @@
-Pseudocercospora melatomobia (W. Yamam.) Deighton SPECIES
-=======
+# Pseudocercospora melatomobia (W. Yamam.) Deighton SPECIES
 
 #### Status
 ACCEPTED

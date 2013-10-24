@@ -1,5 +1,4 @@
-Entoloma haematinum Manim., Leelav. & Noordel. SPECIES
-=======
+# Entoloma haematinum Manim., Leelav. & Noordel. SPECIES
 
 #### Status
 ACCEPTED

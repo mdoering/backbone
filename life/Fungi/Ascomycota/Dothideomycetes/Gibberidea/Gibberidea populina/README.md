@@ -1,5 +1,4 @@
-Gibberidea populina (Bacc. & P. Avetta) Kuntze SPECIES
-=======
+# Gibberidea populina (Bacc. & P. Avetta) Kuntze SPECIES
 
 #### Status
 ACCEPTED

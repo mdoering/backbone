@@ -1,5 +1,4 @@
-Naucoria brevipes Cout. SPECIES
-=======
+# Naucoria brevipes Cout. SPECIES
 
 #### Status
 ACCEPTED

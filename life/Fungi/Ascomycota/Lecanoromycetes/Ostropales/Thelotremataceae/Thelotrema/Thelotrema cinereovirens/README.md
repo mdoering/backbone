@@ -1,5 +1,4 @@
-Thelotrema cinereovirens Kremp. SPECIES
-=======
+# Thelotrema cinereovirens Kremp. SPECIES
 
 #### Status
 ACCEPTED

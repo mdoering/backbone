@@ -1,5 +1,4 @@
-Peroneutypella comosa (Speg.) Berl. SPECIES
-=======
+# Peroneutypella comosa (Speg.) Berl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trophogemma Yankovskii, 1970 GENUS
-=======
+# Trophogemma Yankovskii, 1970 GENUS
 
 #### Status
 ACCEPTED

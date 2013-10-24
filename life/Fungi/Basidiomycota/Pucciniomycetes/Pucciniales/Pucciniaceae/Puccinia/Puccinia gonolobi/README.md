@@ -1,5 +1,4 @@
-Puccinia gonolobi Ravenel SPECIES
-=======
+# Puccinia gonolobi Ravenel SPECIES
 
 #### Status
 ACCEPTED

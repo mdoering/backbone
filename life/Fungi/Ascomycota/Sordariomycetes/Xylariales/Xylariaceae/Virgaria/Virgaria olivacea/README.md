@@ -1,5 +1,4 @@
-Virgaria olivacea Ellis & Everh. SPECIES
-=======
+# Virgaria olivacea Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

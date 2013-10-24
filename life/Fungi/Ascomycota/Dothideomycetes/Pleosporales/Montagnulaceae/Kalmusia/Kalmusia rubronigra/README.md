@@ -1,5 +1,4 @@
-Kalmusia rubronigra Cooke SPECIES
-=======
+# Kalmusia rubronigra Cooke SPECIES
 
 #### Status
 ACCEPTED

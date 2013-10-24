@@ -1,5 +1,4 @@
-Parmelia coorgiana (Patw. & Prabhu) Ajay Singh SPECIES
-=======
+# Parmelia coorgiana (Patw. & Prabhu) Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

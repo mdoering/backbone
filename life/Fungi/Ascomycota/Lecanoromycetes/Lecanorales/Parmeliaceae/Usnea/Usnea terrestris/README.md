@@ -1,5 +1,4 @@
-Usnea terrestris Motyka SPECIES
-=======
+# Usnea terrestris Motyka SPECIES
 
 #### Status
 ACCEPTED

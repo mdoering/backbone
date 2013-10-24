@@ -1,5 +1,4 @@
-Trypethelium andamanicum Makhija & Patw. SPECIES
-=======
+# Trypethelium andamanicum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

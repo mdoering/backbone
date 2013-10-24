@@ -1,5 +1,4 @@
-Russula matoubensis Pegler SPECIES
-=======
+# Russula matoubensis Pegler SPECIES
 
 #### Status
 ACCEPTED

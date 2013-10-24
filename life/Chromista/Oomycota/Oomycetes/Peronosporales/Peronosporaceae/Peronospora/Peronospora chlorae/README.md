@@ -1,17 +1,16 @@
-Peronospora chlorae f. erythraeae Rabenh. FORM
-=======
+# Peronospora chlorae de Bary, 1872 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Rabenhorst, Fungi europ. exsicc. no. 1590 (1872)
 
 #### Original name
-Peronospora chlorae f. erythraeae Rabenh.
+Peronospora chlorae de Bary, 1872
 
 ### Remarks
 null

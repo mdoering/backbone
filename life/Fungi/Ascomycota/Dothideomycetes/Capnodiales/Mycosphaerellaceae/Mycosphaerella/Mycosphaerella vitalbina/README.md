@@ -1,5 +1,4 @@
-Mycosphaerella vitalbina (Pass.) Petr. SPECIES
-=======
+# Mycosphaerella vitalbina (Pass.) Petr. SPECIES
 
 #### Status
 ACCEPTED

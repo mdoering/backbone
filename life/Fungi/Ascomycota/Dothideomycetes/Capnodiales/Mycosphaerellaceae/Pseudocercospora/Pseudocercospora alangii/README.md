@@ -1,5 +1,4 @@
-Pseudocercospora alangii Y.L. Guo & X.J. Liu, 1989 SPECIES
-=======
+# Pseudocercospora alangii Y.L. Guo & X.J. Liu, 1989 SPECIES
 
 #### Status
 ACCEPTED

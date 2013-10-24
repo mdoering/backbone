@@ -1,5 +1,4 @@
-Acremonium hordei Unamuno SPECIES
-=======
+# Acremonium hordei Unamuno SPECIES
 
 #### Status
 ACCEPTED

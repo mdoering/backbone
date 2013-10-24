@@ -1,11 +1,10 @@
-Cribraria microcarpa var. microcarpa (Schrad.) Pers. VARIETY
-=======
+# Cribraria microcarpa (Schrad.) Pers., 1801 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syn. meth. fung. (Göttingen) 1: 190 (1801)

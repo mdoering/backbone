@@ -1,5 +1,4 @@
-Stachybotrys nephrodes McKenzie, 1991 SPECIES
-=======
+# Stachybotrys nephrodes McKenzie, 1991 SPECIES
 
 #### Status
 ACCEPTED

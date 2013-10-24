@@ -1,8 +1,7 @@
-Oolina squamosa var. scalariformis (Williamson, 1848) VARIETY
-=======
+# Favulina scalariformis (Williamson, 1848) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

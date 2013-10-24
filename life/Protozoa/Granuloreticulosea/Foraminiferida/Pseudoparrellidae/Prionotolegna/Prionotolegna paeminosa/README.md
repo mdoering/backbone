@@ -1,5 +1,4 @@
-Prionotolegna paeminosa Loeblich & Tappan, 1994 SPECIES
-=======
+# Prionotolegna paeminosa Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe nitriolens J. Favre SPECIES
-=======
+# Clitocybe nitriolens J. Favre SPECIES
 
 #### Status
 ACCEPTED

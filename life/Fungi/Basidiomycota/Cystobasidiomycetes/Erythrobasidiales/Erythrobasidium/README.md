@@ -1,5 +1,4 @@
-Erythrobasidium Hamam., Sugiy. & Komag. GENUS
-=======
+# Erythrobasidium Hamam., Sugiy. & Komag. GENUS
 
 #### Status
 ACCEPTED

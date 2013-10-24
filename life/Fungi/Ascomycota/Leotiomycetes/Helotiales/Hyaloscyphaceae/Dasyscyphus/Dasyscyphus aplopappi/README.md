@@ -1,17 +1,16 @@
-Dasyscypha aplopappi E.K. Cash SPECIES
-=======
+# Dasyscyphus aplopappi E.K. Cash SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 43: 229 (1951)
 
 #### Original name
-Dasyscypha aplopappi E.K. Cash
+Dasyscyphus aplopappi E.K. Cash
 
 ### Remarks
 null

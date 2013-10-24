@@ -1,5 +1,4 @@
-Collybia underwoodii (Murrill) Pegler SPECIES
-=======
+# Collybia underwoodii (Murrill) Pegler SPECIES
 
 #### Status
 ACCEPTED

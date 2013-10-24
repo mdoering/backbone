@@ -1,5 +1,4 @@
-Lecidea pycnosema Nyl. SPECIES
-=======
+# Lecidea pycnosema Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia calycotomes Rolland SPECIES
-=======
+# Diplodia calycotomes Rolland SPECIES
 
 #### Status
 ACCEPTED

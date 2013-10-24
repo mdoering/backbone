@@ -1,5 +1,4 @@
-Cornucopiella Höhn. GENUS
-=======
+# Cornucopiella Höhn. GENUS
 
 #### Status
 ACCEPTED

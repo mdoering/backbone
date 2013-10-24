@@ -1,5 +1,4 @@
-Russula ochroleuciformis Murrill SPECIES
-=======
+# Russula ochroleuciformis Murrill SPECIES
 
 #### Status
 ACCEPTED

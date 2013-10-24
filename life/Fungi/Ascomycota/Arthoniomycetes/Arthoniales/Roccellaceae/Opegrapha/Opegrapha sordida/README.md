@@ -1,5 +1,4 @@
-Opegrapha sordida (Fée) Mont. & Bosch SPECIES
-=======
+# Opegrapha sordida (Fée) Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

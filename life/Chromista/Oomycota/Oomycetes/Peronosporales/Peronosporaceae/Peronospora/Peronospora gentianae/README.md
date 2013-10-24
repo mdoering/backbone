@@ -1,5 +1,4 @@
-Peronospora gentianae Rostr. SPECIES
-=======
+# Peronospora gentianae Rostr. SPECIES
 
 #### Status
 ACCEPTED

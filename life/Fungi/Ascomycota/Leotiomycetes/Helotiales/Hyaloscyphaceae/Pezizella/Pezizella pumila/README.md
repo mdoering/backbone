@@ -1,5 +1,4 @@
-Pezizella pumila Kirschst. SPECIES
-=======
+# Pezizella pumila Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heppia gotlandica Du Rietz SPECIES
-=======
+# Heppia gotlandica Du Rietz SPECIES
 
 #### Status
 ACCEPTED

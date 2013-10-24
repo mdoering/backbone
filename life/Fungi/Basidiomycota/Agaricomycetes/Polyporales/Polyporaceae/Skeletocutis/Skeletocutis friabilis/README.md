@@ -1,14 +1,13 @@
-Skeletocutis friabile (Corner) Quanten SPECIES
-=======
+# Skeletocutis friabilis (Corner) Quanten, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Op. bot. Belg. 11: 228 (1997)
 
 #### Original name
 Ischnoderma friabile Corner, 1989

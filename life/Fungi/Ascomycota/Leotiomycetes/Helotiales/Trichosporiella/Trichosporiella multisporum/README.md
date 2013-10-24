@@ -1,5 +1,4 @@
-Trichosporiella multisporum Sigler & Currah, 1987 SPECIES
-=======
+# Trichosporiella multisporum Sigler & Currah, 1987 SPECIES
 
 #### Status
 ACCEPTED

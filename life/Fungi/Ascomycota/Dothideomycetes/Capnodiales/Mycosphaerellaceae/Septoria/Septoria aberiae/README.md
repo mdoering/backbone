@@ -1,5 +1,4 @@
-Septoria aberiae A. Agostini SPECIES
-=======
+# Septoria aberiae A. Agostini SPECIES
 
 #### Status
 ACCEPTED

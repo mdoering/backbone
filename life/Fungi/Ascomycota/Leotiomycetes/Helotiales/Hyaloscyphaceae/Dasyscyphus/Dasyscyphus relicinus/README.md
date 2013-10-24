@@ -1,5 +1,4 @@
-Dasyscyphus relicinus (Fr.) Boud. SPECIES
-=======
+# Dasyscyphus relicinus (Fr.) Boud. SPECIES
 
 #### Status
 ACCEPTED

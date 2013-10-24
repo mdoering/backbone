@@ -1,5 +1,4 @@
-Pachyascus geoicoides (Vain.) Vezda SPECIES
-=======
+# Pachyascus geoicoides (Vain.) Vezda SPECIES
 
 #### Status
 ACCEPTED

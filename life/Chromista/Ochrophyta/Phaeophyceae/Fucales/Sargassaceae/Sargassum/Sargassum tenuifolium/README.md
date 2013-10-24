@@ -1,5 +1,4 @@
-Sargassum tenuifolium Yamada SPECIES
-=======
+# Sargassum tenuifolium Yamada SPECIES
 
 #### Status
 ACCEPTED

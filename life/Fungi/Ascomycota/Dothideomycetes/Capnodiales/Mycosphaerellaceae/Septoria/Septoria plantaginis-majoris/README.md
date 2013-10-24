@@ -1,5 +1,4 @@
-Septoria plantaginis-majoris (Sacc.) Nannf. SPECIES
-=======
+# Septoria plantaginis-majoris (Sacc.) Nannf. SPECIES
 
 #### Status
 ACCEPTED

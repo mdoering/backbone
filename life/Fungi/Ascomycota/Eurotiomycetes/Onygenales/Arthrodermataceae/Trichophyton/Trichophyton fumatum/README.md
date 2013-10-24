@@ -1,5 +1,4 @@
-Trichophyton fumatum Sabour. SPECIES
-=======
+# Trichophyton fumatum Sabour. SPECIES
 
 #### Status
 ACCEPTED

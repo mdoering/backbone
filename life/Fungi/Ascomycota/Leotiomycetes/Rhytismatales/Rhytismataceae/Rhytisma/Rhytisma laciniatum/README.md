@@ -1,5 +1,4 @@
-Rhytisma laciniatum Fr. SPECIES
-=======
+# Rhytisma laciniatum Fr. SPECIES
 
 #### Status
 ACCEPTED

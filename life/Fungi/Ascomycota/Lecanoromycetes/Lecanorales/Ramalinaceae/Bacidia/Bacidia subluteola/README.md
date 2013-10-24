@@ -1,5 +1,4 @@
-Bacidia subluteola (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia subluteola (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

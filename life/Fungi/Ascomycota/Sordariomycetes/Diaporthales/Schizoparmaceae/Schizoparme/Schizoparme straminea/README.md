@@ -1,5 +1,4 @@
-Schizoparme straminea Shear, 1923 SPECIES
-=======
+# Schizoparme straminea Shear, 1923 SPECIES
 
 #### Status
 ACCEPTED

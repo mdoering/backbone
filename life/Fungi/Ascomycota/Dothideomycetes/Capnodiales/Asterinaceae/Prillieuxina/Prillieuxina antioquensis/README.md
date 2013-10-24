@@ -1,5 +1,4 @@
-Prillieuxina antioquensis (Toro) R.W. Ryan SPECIES
-=======
+# Prillieuxina antioquensis (Toro) R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

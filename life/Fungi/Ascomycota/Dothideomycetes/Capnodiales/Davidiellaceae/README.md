@@ -1,5 +1,4 @@
-Davidiellaceae C.L. Schoch, Spatafora, Crous & Shoemaker FAMILY
-=======
+# Davidiellaceae C.L. Schoch, Spatafora, Crous & Shoemaker FAMILY
 
 #### Status
 ACCEPTED

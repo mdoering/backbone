@@ -1,5 +1,4 @@
-Gnomonia rauii (Ellis & Everh.) Petr. SPECIES
-=======
+# Gnomonia rauii (Ellis & Everh.) Petr. SPECIES
 
 #### Status
 ACCEPTED

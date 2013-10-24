@@ -1,5 +1,4 @@
-Synchytrium groenlandicum Allesch. SPECIES
-=======
+# Synchytrium groenlandicum Allesch. SPECIES
 
 #### Status
 ACCEPTED

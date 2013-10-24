@@ -1,5 +1,4 @@
-Mycosphaerella rhodostacheos (Speg.) Cash SPECIES
-=======
+# Mycosphaerella rhodostacheos (Speg.) Cash SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bolivina punctata SPECIES
-=======
+# Bolivina punctata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nadvornikia diplotylia (Nyl.) G. Pant & D.D. Awasthi SPECIES
-=======
+# Nadvornikia diplotylia (Nyl.) G. Pant & D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

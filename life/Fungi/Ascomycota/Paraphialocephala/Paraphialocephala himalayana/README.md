@@ -1,5 +1,4 @@
-Paraphialocephala himalayana Budathoki, 1997 SPECIES
-=======
+# Paraphialocephala himalayana Budathoki, 1997 SPECIES
 
 #### Status
 ACCEPTED

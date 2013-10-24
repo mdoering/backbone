@@ -1,5 +1,4 @@
-Phialemonium W. Gams & McGinnis, 1983 GENUS
-=======
+# Phialemonium W. Gams & McGinnis, 1983 GENUS
 
 #### Status
 ACCEPTED

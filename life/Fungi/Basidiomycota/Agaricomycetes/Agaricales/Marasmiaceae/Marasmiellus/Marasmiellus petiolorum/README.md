@@ -1,5 +1,4 @@
-Marasmiellus petiolorum (Berk. & M.A. Curtis) Singer SPECIES
-=======
+# Marasmiellus petiolorum (Berk. & M.A. Curtis) Singer SPECIES
 
 #### Status
 ACCEPTED

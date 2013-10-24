@@ -1,5 +1,4 @@
-Hygrophorus subcitrinopallidus Largent SPECIES
-=======
+# Hygrophorus subcitrinopallidus Largent SPECIES
 
 #### Status
 ACCEPTED

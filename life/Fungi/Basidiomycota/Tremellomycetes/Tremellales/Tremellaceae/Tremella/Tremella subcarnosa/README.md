@@ -1,5 +1,4 @@
-Tremella subcarnosa Peck SPECIES
-=======
+# Tremella subcarnosa Peck SPECIES
 
 #### Status
 ACCEPTED

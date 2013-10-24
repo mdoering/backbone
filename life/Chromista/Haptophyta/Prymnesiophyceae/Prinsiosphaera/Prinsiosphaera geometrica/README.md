@@ -1,5 +1,4 @@
-Prinsiosphaera geometrica Jafar, 1983 SPECIES
-=======
+# Prinsiosphaera geometrica Jafar, 1983 SPECIES
 
 #### Status
 ACCEPTED

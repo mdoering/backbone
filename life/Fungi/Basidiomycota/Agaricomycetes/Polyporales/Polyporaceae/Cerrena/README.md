@@ -1,17 +1,16 @@
-Sistotrema Pers. GENUS
-=======
+# Cerrena Gray, 1821 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Neues Mag. Bot. 1: 108 (1794)
+null
 
 #### Original name
-Sistotrema Pers.
+null
 
 ### Remarks
 null

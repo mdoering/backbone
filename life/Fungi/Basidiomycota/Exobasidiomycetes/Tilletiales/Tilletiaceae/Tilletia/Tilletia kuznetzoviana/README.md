@@ -1,5 +1,4 @@
-Tilletia kuznetzoviana Schwarzman SPECIES
-=======
+# Tilletia kuznetzoviana Schwarzman SPECIES
 
 #### Status
 ACCEPTED

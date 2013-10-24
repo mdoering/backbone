@@ -1,5 +1,4 @@
-Rhachomyces brevipes Thaxt. SPECIES
-=======
+# Rhachomyces brevipes Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paradiplodia ribis Zerova SPECIES
-=======
+# Paradiplodia ribis Zerova SPECIES
 
 #### Status
 ACCEPTED

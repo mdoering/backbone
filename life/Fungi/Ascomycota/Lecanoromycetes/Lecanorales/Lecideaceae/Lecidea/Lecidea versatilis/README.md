@@ -1,5 +1,4 @@
-Lecidea versatilis Meyen & Flot. SPECIES
-=======
+# Lecidea versatilis Meyen & Flot. SPECIES
 
 #### Status
 ACCEPTED

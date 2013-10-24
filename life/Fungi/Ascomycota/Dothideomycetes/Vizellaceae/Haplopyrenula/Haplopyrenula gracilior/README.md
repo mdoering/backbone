@@ -1,5 +1,4 @@
-Haplopyrenula gracilior Müll. Arg. SPECIES
-=======
+# Haplopyrenula gracilior Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

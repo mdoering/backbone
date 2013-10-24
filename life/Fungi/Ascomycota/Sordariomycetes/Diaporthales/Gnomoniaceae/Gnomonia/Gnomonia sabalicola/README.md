@@ -1,5 +1,4 @@
-Gnomonia sabalicola Earle SPECIES
-=======
+# Gnomonia sabalicola Earle SPECIES
 
 #### Status
 ACCEPTED

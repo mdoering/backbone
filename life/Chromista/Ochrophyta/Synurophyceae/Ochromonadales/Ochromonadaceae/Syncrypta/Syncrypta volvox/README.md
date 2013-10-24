@@ -1,5 +1,4 @@
-Syncrypta volvox Ehrenberg, 1834 SPECIES
-=======
+# Syncrypta volvox Ehrenberg, 1834 SPECIES
 
 #### Status
 ACCEPTED

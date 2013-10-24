@@ -1,5 +1,4 @@
-Aecidium bunsteri Neger SPECIES
-=======
+# Aecidium bunsteri Neger SPECIES
 
 #### Status
 ACCEPTED

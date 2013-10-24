@@ -1,5 +1,4 @@
-Dactylococcopsis libyca Marchesoni SPECIES
-=======
+# Dactylococcopsis libyca Marchesoni SPECIES
 
 #### Status
 ACCEPTED

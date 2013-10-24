@@ -1,5 +1,4 @@
-Pseudocercospora asiminae-pygmaeae U. Braun SPECIES
-=======
+# Pseudocercospora asiminae-pygmaeae U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia pakistani S. Ahmad SPECIES
-=======
+# Puccinia pakistani S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

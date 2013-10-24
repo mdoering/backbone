@@ -1,5 +1,4 @@
-Piccolia wrightii (Tuck.) Hafellner SPECIES
-=======
+# Piccolia wrightii (Tuck.) Hafellner SPECIES
 
 #### Status
 ACCEPTED

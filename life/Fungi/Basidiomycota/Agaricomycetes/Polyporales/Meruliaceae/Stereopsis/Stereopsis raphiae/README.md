@@ -1,5 +1,4 @@
-Stereopsis raphiae D.A. Reid, 1965 SPECIES
-=======
+# Stereopsis raphiae D.A. Reid, 1965 SPECIES
 
 #### Status
 ACCEPTED

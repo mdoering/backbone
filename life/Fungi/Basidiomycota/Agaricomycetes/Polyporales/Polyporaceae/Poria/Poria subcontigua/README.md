@@ -1,5 +1,4 @@
-Poria subcontigua Cleland & Rodway SPECIES
-=======
+# Poria subcontigua Cleland & Rodway SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenocarpon lugubre (A. Massal.) Trevis. SPECIES
-=======
+# Pyrenocarpon lugubre (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

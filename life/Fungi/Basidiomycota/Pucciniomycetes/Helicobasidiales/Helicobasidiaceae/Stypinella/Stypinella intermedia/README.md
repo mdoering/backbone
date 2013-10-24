@@ -1,5 +1,4 @@
-Stypinella intermedia Rick SPECIES
-=======
+# Stypinella intermedia Rick SPECIES
 
 #### Status
 ACCEPTED

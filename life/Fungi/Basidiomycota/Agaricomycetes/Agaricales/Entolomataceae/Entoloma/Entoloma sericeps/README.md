@@ -1,5 +1,4 @@
-Entoloma sericeps Murrill SPECIES
-=======
+# Entoloma sericeps Murrill SPECIES
 
 #### Status
 ACCEPTED

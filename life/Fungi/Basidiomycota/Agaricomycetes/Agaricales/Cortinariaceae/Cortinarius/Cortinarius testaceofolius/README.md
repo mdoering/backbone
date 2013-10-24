@@ -1,5 +1,4 @@
-Cortinarius testaceofolius H. Lindstr. & Soop SPECIES
-=======
+# Cortinarius testaceofolius H. Lindstr. & Soop SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyphoderma deviatum (S. Lundell) Parmasto, 1968 SPECIES
-=======
+# Hyphoderma deviatum (S. Lundell) Parmasto, 1968 SPECIES
 
 #### Status
 ACCEPTED

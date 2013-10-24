@@ -1,14 +1,13 @@
-Cucurbitaria atraphaxidis (Rehm) Vasyag. SPECIES
-=======
+# Cucurbitaria atraphaxis (Rehm) Vasyag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Vasyagina, Byzova & Tartenova, Flora Sporovykh Rastenii Kazakhstana (Alma-Ata), Sumchatye. Griby Lokuloaskomitsety (Loculoascomycetes) 240 (1987)
 
 #### Original name
 Cucurbitaria transcaspica var. atraphaxidis Rehm

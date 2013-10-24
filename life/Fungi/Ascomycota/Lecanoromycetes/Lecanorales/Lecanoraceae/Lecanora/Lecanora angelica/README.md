@@ -1,5 +1,4 @@
-Lecanora angelica Parrique SPECIES
-=======
+# Lecanora angelica Parrique SPECIES
 
 #### Status
 ACCEPTED

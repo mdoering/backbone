@@ -1,5 +1,4 @@
-Ellobiopsis caridarum Coutière SPECIES
-=======
+# Ellobiopsis caridarum Coutière SPECIES
 
 #### Status
 ACCEPTED

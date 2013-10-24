@@ -1,5 +1,4 @@
-Chuppia Deighton GENUS
-=======
+# Chuppia Deighton GENUS
 
 #### Status
 ACCEPTED

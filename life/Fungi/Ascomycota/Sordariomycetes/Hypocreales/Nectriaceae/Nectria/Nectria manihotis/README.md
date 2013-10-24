@@ -1,5 +1,4 @@
-Nectria manihotis Rick SPECIES
-=======
+# Nectria manihotis Rick SPECIES
 
 #### Status
 ACCEPTED

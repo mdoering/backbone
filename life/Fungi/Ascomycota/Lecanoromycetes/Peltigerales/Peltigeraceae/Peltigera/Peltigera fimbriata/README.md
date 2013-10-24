@@ -1,5 +1,4 @@
-Peltigera fimbriata Vitik., Sérus., Goffinet & Miadl. SPECIES
-=======
+# Peltigera fimbriata Vitik., Sérus., Goffinet & Miadl. SPECIES
 
 #### Status
 ACCEPTED

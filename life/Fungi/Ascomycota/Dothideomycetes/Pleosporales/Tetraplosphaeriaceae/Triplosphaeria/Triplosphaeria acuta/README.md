@@ -1,5 +1,4 @@
-Triplosphaeria acuta Kaz. Tanaka & K. Hirayama, 2009 SPECIES
-=======
+# Triplosphaeria acuta Kaz. Tanaka & K. Hirayama, 2009 SPECIES
 
 #### Status
 ACCEPTED

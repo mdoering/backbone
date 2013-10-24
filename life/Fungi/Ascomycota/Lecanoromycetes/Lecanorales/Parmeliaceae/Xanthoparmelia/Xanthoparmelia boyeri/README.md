@@ -1,5 +1,4 @@
-Xanthoparmelia boyeri Elix SPECIES
-=======
+# Xanthoparmelia boyeri Elix SPECIES
 
 #### Status
 ACCEPTED

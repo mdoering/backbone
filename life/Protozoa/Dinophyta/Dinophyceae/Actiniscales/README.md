@@ -1,5 +1,4 @@
-Actiniscales Sournia, 1984 ORDER
-=======
+# Actiniscales Sournia, 1984 ORDER
 
 #### Status
 ACCEPTED

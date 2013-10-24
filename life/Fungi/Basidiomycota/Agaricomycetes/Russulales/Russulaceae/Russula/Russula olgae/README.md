@@ -1,5 +1,4 @@
-Russula olgae Velen. SPECIES
-=======
+# Russula olgae Velen. SPECIES
 
 #### Status
 ACCEPTED

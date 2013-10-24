@@ -1,5 +1,4 @@
-Acarospora groenlandica H. Magn. SPECIES
-=======
+# Acarospora groenlandica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

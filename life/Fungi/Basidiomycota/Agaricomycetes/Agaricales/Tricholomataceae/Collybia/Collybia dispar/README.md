@@ -1,5 +1,4 @@
-Collybia dispar Mont. SPECIES
-=======
+# Collybia dispar Mont. SPECIES
 
 #### Status
 ACCEPTED

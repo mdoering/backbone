@@ -1,5 +1,4 @@
-Calothyrium ingae R.W. Ryan SPECIES
-=======
+# Calothyrium ingae R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

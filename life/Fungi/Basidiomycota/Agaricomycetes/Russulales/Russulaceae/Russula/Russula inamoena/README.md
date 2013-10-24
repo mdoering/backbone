@@ -1,5 +1,4 @@
-Russula inamoena Sarnari, 1994 SPECIES
-=======
+# Russula inamoena Sarnari, 1994 SPECIES
 
 #### Status
 ACCEPTED

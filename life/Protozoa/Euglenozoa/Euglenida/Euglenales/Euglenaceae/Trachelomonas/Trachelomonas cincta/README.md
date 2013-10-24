@@ -1,5 +1,4 @@
-Trachelomonas cincta Safonowa SPECIES
-=======
+# Trachelomonas cincta Safonowa SPECIES
 
 #### Status
 ACCEPTED

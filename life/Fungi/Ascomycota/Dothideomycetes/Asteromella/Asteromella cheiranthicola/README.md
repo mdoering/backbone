@@ -1,5 +1,4 @@
-Asteromella cheiranthicola (Bubák & H. Zimm.) Aa SPECIES
-=======
+# Asteromella cheiranthicola (Bubák & H. Zimm.) Aa SPECIES
 
 #### Status
 ACCEPTED

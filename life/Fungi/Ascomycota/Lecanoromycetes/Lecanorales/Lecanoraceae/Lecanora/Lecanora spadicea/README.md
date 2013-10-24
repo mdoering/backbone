@@ -1,5 +1,4 @@
-Lecanora spadicea Flot. SPECIES
-=======
+# Lecanora spadicea Flot. SPECIES
 
 #### Status
 ACCEPTED

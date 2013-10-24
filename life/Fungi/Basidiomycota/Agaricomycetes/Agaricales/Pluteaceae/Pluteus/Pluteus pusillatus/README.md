@@ -1,5 +1,4 @@
-Pluteus pusillatus Fr. SPECIES
-=======
+# Pluteus pusillatus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella colombiensis Crous & M.J. Wingf., 1998 SPECIES
-=======
+# Mycosphaerella colombiensis Crous & M.J. Wingf., 1998 SPECIES
 
 #### Status
 ACCEPTED

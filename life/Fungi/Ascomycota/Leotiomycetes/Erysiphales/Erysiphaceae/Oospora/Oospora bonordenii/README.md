@@ -1,5 +1,4 @@
-Oospora bonordenii Sacc. & Voglino SPECIES
-=======
+# Oospora bonordenii Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

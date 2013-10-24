@@ -1,5 +1,4 @@
-Thermoproteus tenax Zillig & Stetter, 1982 SPECIES
-=======
+# Thermoproteus tenax Zillig & Stetter, 1982 SPECIES
 
 #### Status
 ACCEPTED

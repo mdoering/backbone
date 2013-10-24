@@ -1,5 +1,4 @@
-Phragmidium incrassatum var. incrassatum Link VARIETY
-=======
+# Phragmidium incrassatum a rosarum Rabenh. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Willdenow, Willd. , Sp. pl. , Edn 4 6(2): 85 (1825)
 
 #### Original name
-Phragmidium incrassatum var. incrassatum Link
+Phragmidium incrassatum a rosarum Rabenh.
 
 ### Remarks
 null

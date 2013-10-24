@@ -1,5 +1,4 @@
-Podospora petrogale A.E. Bell SPECIES
-=======
+# Podospora petrogale A.E. Bell SPECIES
 
 #### Status
 ACCEPTED

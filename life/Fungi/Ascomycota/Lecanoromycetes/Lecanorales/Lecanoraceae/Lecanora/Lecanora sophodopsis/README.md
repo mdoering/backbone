@@ -1,5 +1,4 @@
-Lecanora sophodopsis Nyl. SPECIES
-=======
+# Lecanora sophodopsis Nyl. SPECIES
 
 #### Status
 ACCEPTED

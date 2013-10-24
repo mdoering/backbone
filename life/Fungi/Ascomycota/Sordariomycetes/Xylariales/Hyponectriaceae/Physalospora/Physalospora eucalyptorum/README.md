@@ -1,5 +1,4 @@
-Physalospora eucalyptorum Turconi SPECIES
-=======
+# Physalospora eucalyptorum Turconi SPECIES
 
 #### Status
 ACCEPTED

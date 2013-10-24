@@ -1,5 +1,4 @@
-Phomachora anacardiicola Bat. & Peres SPECIES
-=======
+# Phomachora anacardiicola Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

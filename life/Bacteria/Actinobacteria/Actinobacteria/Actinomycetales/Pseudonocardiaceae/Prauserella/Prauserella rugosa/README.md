@@ -1,11 +1,10 @@
-Proactinomyces rugosa (di Marco & Spalla, 1957) Krasil'nikov, 1981 SPECIES
-=======
+# Prauserella rugosa (Lechevalier et al., 1986) Kim & Goodfellow, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

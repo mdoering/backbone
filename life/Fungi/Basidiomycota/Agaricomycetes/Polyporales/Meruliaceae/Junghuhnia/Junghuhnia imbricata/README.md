@@ -1,5 +1,4 @@
-Junghuhnia imbricata Spirin SPECIES
-=======
+# Junghuhnia imbricata Spirin SPECIES
 
 #### Status
 ACCEPTED

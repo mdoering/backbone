@@ -1,5 +1,4 @@
-Antrodia parvula (Bres.) Ryvarden SPECIES
-=======
+# Antrodia parvula (Bres.) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

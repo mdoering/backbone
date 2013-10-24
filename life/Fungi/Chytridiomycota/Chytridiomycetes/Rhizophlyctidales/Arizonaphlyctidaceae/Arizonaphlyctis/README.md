@@ -1,5 +1,4 @@
-Arizonaphlyctis Letcher GENUS
-=======
+# Arizonaphlyctis Letcher GENUS
 
 #### Status
 ACCEPTED

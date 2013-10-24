@@ -1,5 +1,4 @@
-Endopyrenium helveticum B. de Lesd. SPECIES
-=======
+# Endopyrenium helveticum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

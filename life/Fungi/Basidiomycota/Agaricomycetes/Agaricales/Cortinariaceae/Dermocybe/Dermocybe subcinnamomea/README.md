@@ -1,5 +1,4 @@
-Dermocybe subcinnamomea (P. Karst.) M.M. Moser SPECIES
-=======
+# Dermocybe subcinnamomea (P. Karst.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

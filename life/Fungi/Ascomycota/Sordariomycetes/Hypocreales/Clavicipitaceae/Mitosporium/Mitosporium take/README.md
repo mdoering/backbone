@@ -1,5 +1,4 @@
-Mitosporium take (I. Miyake) Clem. & Shear SPECIES
-=======
+# Mitosporium take (I. Miyake) Clem. & Shear SPECIES
 
 #### Status
 ACCEPTED

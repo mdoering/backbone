@@ -1,5 +1,4 @@
-Tessaracoccus flavescens Lee & Lee, 2008 SPECIES
-=======
+# Tessaracoccus flavescens Lee & Lee, 2008 SPECIES
 
 #### Status
 ACCEPTED

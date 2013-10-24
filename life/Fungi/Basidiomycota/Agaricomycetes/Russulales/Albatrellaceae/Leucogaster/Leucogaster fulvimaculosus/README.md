@@ -1,5 +1,4 @@
-Leucogaster fulvimaculosus Zeller & C.W. Dodge SPECIES
-=======
+# Leucogaster fulvimaculosus Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

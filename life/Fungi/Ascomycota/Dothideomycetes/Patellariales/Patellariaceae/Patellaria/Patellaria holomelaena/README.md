@@ -1,5 +1,4 @@
-Patellaria holomelaena Mont. SPECIES
-=======
+# Patellaria holomelaena Mont. SPECIES
 
 #### Status
 ACCEPTED

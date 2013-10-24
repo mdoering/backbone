@@ -1,5 +1,4 @@
-Gloeosporium trillii Ellis & Everh. SPECIES
-=======
+# Gloeosporium trillii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

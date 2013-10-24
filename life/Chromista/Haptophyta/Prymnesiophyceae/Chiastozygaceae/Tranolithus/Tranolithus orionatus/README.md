@@ -1,5 +1,4 @@
-Tranolithus orionatus (Reinhardt, 1966) Perch-Nielsen, 1968 SPECIES
-=======
+# Tranolithus orionatus (Reinhardt, 1966) Perch-Nielsen, 1968 SPECIES
 
 #### Status
 ACCEPTED

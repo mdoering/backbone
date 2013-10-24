@@ -1,5 +1,4 @@
-Tylopilus tenuis var. tenuis Heinem. VARIETY
-=======
+# Tylopilus tenuis Heinem. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Jard. Bot. État 21: 317 (1951)
 
 #### Original name
-Tylopilus tenuis var. tenuis Heinem.
+Tylopilus tenuis Heinem.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Macalpinia Arthur GENUS
-=======
+# Uromycladium McAlpine GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Résult. Sci. Congr. Bot. Vienne 340 (1906)
+Annls mycol. 3(4): 321 (1905)
 
 #### Original name
-Macalpinia Arthur
+Uromycladium McAlpine
 
 ### Remarks
 null

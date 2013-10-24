@@ -1,5 +1,4 @@
-Protomyces melanodes Berk. & Broome SPECIES
-=======
+# Protomyces melanodes Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

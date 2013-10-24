@@ -1,5 +1,4 @@
-Collybia pseudocalopus (Henn.) Singer SPECIES
-=======
+# Collybia pseudocalopus (Henn.) Singer SPECIES
 
 #### Status
 ACCEPTED

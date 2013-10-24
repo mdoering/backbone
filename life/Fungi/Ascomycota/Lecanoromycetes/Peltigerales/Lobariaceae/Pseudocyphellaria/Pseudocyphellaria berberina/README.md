@@ -1,5 +1,4 @@
-Pseudocyphellaria berberina (G. Forst.) D.J. Galloway & P. James SPECIES
-=======
+# Pseudocyphellaria berberina (G. Forst.) D.J. Galloway & P. James SPECIES
 
 #### Status
 ACCEPTED

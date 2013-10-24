@@ -1,5 +1,4 @@
-Cercospora dolichi Ellis & Everh. SPECIES
-=======
+# Cercospora dolichi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

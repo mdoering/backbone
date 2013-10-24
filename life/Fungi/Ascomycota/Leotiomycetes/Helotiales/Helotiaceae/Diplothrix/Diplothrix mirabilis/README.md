@@ -1,5 +1,4 @@
-Diplothrix mirabilis Vain. SPECIES
-=======
+# Diplothrix mirabilis Vain. SPECIES
 
 #### Status
 ACCEPTED

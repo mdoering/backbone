@@ -1,5 +1,4 @@
-Sticta wrightii Tuck. SPECIES
-=======
+# Sticta wrightii Tuck. SPECIES
 
 #### Status
 ACCEPTED

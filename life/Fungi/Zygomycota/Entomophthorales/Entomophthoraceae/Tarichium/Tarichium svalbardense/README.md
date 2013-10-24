@@ -1,5 +1,4 @@
-Tarichium svalbardense (Thor) Balazy & J. Wisn. SPECIES
-=======
+# Tarichium svalbardense (Thor) Balazy & J. Wisn. SPECIES
 
 #### Status
 ACCEPTED

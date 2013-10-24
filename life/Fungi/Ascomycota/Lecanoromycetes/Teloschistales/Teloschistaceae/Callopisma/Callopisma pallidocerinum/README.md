@@ -1,5 +1,4 @@
-Callopisma pallidocerinum Räsänen SPECIES
-=======
+# Callopisma pallidocerinum Räsänen SPECIES
 
 #### Status
 ACCEPTED

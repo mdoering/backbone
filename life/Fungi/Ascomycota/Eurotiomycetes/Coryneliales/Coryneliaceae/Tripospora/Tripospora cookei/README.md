@@ -1,5 +1,4 @@
-Tripospora cookei Sacc., 1886 SPECIES
-=======
+# Tripospora cookei Sacc., 1886 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma piceae (Fiedl.) Sacc. SPECIES
-=======
+# Phoma piceae (Fiedl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

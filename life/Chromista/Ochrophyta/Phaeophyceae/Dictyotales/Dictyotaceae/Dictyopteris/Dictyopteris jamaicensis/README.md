@@ -1,5 +1,4 @@
-Dictyopteris jamaicensis W.R. Taylor SPECIES
-=======
+# Dictyopteris jamaicensis W.R. Taylor SPECIES
 
 #### Status
 ACCEPTED

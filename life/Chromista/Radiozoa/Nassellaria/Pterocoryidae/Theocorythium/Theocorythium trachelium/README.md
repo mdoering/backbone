@@ -1,5 +1,4 @@
-Theocorythium trachelium subsp. trachelium Ehrenberg, 1872 SUBSPECIES
-=======
+# Theocorythium trachelium (Ehrenberg) Nigrini, 1967 SPECIES
 
 #### Status
 ACCEPTED

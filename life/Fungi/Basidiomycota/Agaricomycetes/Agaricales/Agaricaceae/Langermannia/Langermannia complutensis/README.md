@@ -1,5 +1,4 @@
-Langermannia complutensis (G. Moreno, Kreisel & Altés) Calonge SPECIES
-=======
+# Langermannia complutensis (G. Moreno, Kreisel & Altés) Calonge SPECIES
 
 #### Status
 ACCEPTED

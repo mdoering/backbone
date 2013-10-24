@@ -1,5 +1,4 @@
-Dimerosporium scheffleri Henn. SPECIES
-=======
+# Dimerosporium scheffleri Henn. SPECIES
 
 #### Status
 ACCEPTED

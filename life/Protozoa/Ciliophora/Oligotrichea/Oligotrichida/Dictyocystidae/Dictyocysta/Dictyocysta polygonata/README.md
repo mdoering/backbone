@@ -1,5 +1,4 @@
-Dictyocysta polygonata Kofoid & Campbell, 1929 SPECIES
-=======
+# Dictyocysta polygonata Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

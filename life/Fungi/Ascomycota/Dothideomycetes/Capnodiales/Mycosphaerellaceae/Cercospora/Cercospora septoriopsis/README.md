@@ -1,5 +1,4 @@
-Cercospora septoriopsis Chupp SPECIES
-=======
+# Cercospora septoriopsis Chupp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acrospeira balladynae Hansf. SPECIES
-=======
+# Acrospeira balladynae Hansf. SPECIES
 
 #### Status
 ACCEPTED

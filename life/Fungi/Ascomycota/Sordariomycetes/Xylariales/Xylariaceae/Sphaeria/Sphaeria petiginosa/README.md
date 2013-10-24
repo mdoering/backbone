@@ -1,5 +1,4 @@
-Sphaeria petiginosa Fr. SPECIES
-=======
+# Sphaeria petiginosa Fr. SPECIES
 
 #### Status
 ACCEPTED

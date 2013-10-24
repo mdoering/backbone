@@ -1,5 +1,4 @@
-Phoma ambiguella P. Karst. & Har. SPECIES
-=======
+# Phoma ambiguella P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

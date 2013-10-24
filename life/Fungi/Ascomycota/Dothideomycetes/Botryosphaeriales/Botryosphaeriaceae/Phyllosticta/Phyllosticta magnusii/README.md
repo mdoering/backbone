@@ -1,5 +1,4 @@
-Phyllosticta magnusii (Sacc., E. Bommer & M. Rousseau) Allesch. SPECIES
-=======
+# Phyllosticta magnusii (Sacc., E. Bommer & M. Rousseau) Allesch. SPECIES
 
 #### Status
 ACCEPTED

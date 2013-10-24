@@ -1,5 +1,4 @@
-Solenoplea polyporoidea Peck ex Burt SPECIES
-=======
+# Solenoplea polyporoidea Peck ex Burt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterochaete crystallina Bourdot SPECIES
-=======
+# Heterochaete crystallina Bourdot SPECIES
 
 #### Status
 ACCEPTED

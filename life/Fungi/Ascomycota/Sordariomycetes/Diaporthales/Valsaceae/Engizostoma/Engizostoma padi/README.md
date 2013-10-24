@@ -1,5 +1,4 @@
-Engizostoma padi (P. Karst.) Kuntze SPECIES
-=======
+# Engizostoma padi (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

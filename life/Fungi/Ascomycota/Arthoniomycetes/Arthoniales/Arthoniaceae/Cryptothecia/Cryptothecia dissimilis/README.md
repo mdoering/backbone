@@ -1,5 +1,4 @@
-Cryptothecia dissimilis Makhija & Patw. SPECIES
-=======
+# Cryptothecia dissimilis Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

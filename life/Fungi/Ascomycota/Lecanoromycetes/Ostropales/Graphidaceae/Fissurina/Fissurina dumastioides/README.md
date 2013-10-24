@@ -1,5 +1,4 @@
-Fissurina dumastioides var. dumastioides VARIETY
-=======
+# Fissurina dumastioides (Fink) Staiger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma meloplaca (Schwein.) Cooke SPECIES
-=======
+# Macrophoma meloplaca (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

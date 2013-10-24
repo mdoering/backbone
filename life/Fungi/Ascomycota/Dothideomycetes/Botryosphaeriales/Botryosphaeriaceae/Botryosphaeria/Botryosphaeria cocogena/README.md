@@ -1,5 +1,4 @@
-Botryosphaeria cocogena Subileau, Renard & Lacoste, 1994 SPECIES
-=======
+# Botryosphaeria cocogena Subileau, Renard & Lacoste, 1994 SPECIES
 
 #### Status
 ACCEPTED

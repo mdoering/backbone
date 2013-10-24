@@ -1,5 +1,4 @@
-Mycena aridiphila Cejp SPECIES
-=======
+# Mycena aridiphila Cejp SPECIES
 
 #### Status
 ACCEPTED

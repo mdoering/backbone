@@ -1,5 +1,4 @@
-Hypoxylon musceum J.D. Rogers, 1981 SPECIES
-=======
+# Hypoxylon musceum J.D. Rogers, 1981 SPECIES
 
 #### Status
 ACCEPTED

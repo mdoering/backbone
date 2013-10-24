@@ -1,5 +1,4 @@
-Stereocaulon tenellum Tuck. SPECIES
-=======
+# Stereocaulon tenellum Tuck. SPECIES
 
 #### Status
 ACCEPTED

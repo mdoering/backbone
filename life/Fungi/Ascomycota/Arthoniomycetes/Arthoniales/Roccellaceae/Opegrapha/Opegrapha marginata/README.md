@@ -1,5 +1,4 @@
-Opegrapha marginata (Raddi) Mont. & Bosch SPECIES
-=======
+# Opegrapha marginata (Raddi) Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

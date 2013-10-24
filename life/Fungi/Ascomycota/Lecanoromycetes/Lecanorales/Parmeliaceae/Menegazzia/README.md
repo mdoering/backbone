@@ -1,5 +1,4 @@
-Menegazzia A. Massal. GENUS
-=======
+# Menegazzia A. Massal. GENUS
 
 #### Status
 ACCEPTED

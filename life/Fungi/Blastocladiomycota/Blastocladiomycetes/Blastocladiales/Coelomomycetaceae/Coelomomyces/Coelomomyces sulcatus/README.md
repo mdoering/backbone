@@ -1,5 +1,4 @@
-Coelomomyces sulcatus Couch & A.V.V. Iyengar SPECIES
-=======
+# Coelomomyces sulcatus Couch & A.V.V. Iyengar SPECIES
 
 #### Status
 ACCEPTED

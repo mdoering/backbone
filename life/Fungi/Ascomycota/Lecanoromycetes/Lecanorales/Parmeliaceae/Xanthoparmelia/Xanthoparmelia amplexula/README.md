@@ -1,17 +1,16 @@
-Parmelia amplexula f. amplexula FORM
-=======
+# Xanthoparmelia amplexula (Stirt.) Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. & Proc. Roy. Soc. Victoria 17: 69 (1881)
+in Elix, Johnston & Armstrong, Bull. Br. Mus. nat. Hist. , Bot. 15(3): 192 (1986)
 
 #### Original name
-Parmelia amplexula f. amplexula
+Parmelia amplexula Stirt.
 
 ### Remarks
 null

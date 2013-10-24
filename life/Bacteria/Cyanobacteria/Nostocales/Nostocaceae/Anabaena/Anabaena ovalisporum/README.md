@@ -1,5 +1,4 @@
-Anabaena ovalisporum Forti SPECIES
-=======
+# Anabaena ovalisporum Forti SPECIES
 
 #### Status
 ACCEPTED

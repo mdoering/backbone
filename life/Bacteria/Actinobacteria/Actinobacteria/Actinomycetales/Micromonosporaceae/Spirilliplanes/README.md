@@ -1,5 +1,4 @@
-Spirilliplanes Tamura et al., 1997 GENUS
-=======
+# Spirilliplanes Tamura et al., 1997 GENUS
 
 #### Status
 ACCEPTED

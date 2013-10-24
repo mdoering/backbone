@@ -1,5 +1,4 @@
-Micromyces intermedius (Canter) Sparrow SPECIES
-=======
+# Micromyces intermedius (Canter) Sparrow SPECIES
 
 #### Status
 ACCEPTED

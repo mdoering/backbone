@@ -1,5 +1,4 @@
-Cylindralithus sculptus SPECIES
-=======
+# Cylindralithus sculptus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiorella cupressi Srinivasulu SPECIES
-=======
+# Dothiorella cupressi Srinivasulu SPECIES
 
 #### Status
 ACCEPTED

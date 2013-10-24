@@ -1,5 +1,4 @@
-Mycena minutissima Murrill SPECIES
-=======
+# Mycena minutissima Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimeromyces maculatus Thaxt. SPECIES
-=======
+# Dimeromyces maculatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

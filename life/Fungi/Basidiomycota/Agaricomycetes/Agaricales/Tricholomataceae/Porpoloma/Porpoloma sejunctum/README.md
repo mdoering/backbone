@@ -1,14 +1,13 @@
-Tricholoma singeri Kühner, 1980 SPECIES
-=======
+# Porpoloma sejunctum Singer, 1952 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. mens. Soc. linn. Lyon 49(5): 342 (1980)
+Sydowia 6(1-4): 198 (1952)
 
 #### Original name
 Porpoloma sejunctum Singer, 1952

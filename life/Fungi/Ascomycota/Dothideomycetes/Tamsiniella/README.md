@@ -1,5 +1,4 @@
-Tamsiniella S.W. Wong, K.D. Hyde, W.H. Ho & S.J. Stanley GENUS
-=======
+# Tamsiniella S.W. Wong, K.D. Hyde, W.H. Ho & S.J. Stanley GENUS
 
 #### Status
 ACCEPTED

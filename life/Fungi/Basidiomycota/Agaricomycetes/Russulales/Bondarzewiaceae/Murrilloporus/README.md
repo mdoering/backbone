@@ -1,5 +1,4 @@
-Murrilloporus GENUS
-=======
+# Murrilloporus GENUS
 
 #### Status
 ACCEPTED

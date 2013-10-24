@@ -1,5 +1,4 @@
-Xylaria froggattii Lloyd SPECIES
-=======
+# Xylaria froggattii Lloyd SPECIES
 
 #### Status
 ACCEPTED

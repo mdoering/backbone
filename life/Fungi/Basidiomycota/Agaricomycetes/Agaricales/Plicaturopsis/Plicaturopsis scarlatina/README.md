@@ -1,5 +1,4 @@
-Plicaturopsis scarlatina P.K. Buchanan & Hood, 1992 SPECIES
-=======
+# Plicaturopsis scarlatina P.K. Buchanan & Hood, 1992 SPECIES
 
 #### Status
 ACCEPTED

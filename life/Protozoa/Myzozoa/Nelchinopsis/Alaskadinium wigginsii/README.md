@@ -1,5 +1,4 @@
-Alaskadinium wigginsii Duxbury, 1977 SPECIES
-=======
+# Alaskadinium wigginsii Duxbury, 1977 SPECIES
 
 #### Status
 DOUBTFUL

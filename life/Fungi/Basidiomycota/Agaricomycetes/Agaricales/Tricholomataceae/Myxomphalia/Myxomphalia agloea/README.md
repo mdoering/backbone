@@ -1,14 +1,13 @@
-Fayodia agloea Singer & Passauer, 1980 SPECIES
-=======
+# Myxomphalia agloea (Singer & Passauer) Antonín, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 32(1-6): 299 (1980)
+Mycotaxon 73: 327 (1999)
 
 #### Original name
 Fayodia agloea Singer & Passauer, 1980

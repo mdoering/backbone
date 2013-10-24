@@ -1,5 +1,4 @@
-Dichotomocladium sphaerosporum R.K. Benj. & Benny, 1993 SPECIES
-=======
+# Dichotomocladium sphaerosporum R.K. Benj. & Benny, 1993 SPECIES
 
 #### Status
 ACCEPTED

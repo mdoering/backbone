@@ -1,5 +1,4 @@
-Lactobacillus rennini Chenoll et al., 2006 SPECIES
-=======
+# Lactobacillus rennini Chenoll et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

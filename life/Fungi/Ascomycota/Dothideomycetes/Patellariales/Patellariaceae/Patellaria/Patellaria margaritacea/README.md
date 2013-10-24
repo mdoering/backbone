@@ -1,5 +1,4 @@
-Patellaria margaritacea (Sommerf.) Duby SPECIES
-=======
+# Patellaria margaritacea (Sommerf.) Duby SPECIES
 
 #### Status
 ACCEPTED

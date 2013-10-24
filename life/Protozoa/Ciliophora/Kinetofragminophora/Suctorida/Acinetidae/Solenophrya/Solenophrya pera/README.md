@@ -1,5 +1,4 @@
-Solenophrya pera Stokes, 1885 SPECIES
-=======
+# Solenophrya pera Stokes, 1885 SPECIES
 
 #### Status
 ACCEPTED

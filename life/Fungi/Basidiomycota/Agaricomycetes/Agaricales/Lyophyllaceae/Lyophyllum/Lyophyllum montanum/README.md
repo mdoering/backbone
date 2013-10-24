@@ -1,5 +1,4 @@
-Lyophyllum montanum A.H. Sm. SPECIES
-=======
+# Lyophyllum montanum A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

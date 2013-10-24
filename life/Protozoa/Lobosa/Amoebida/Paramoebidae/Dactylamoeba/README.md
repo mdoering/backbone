@@ -1,5 +1,4 @@
-Dactylamoeba Korotneff, 1879 GENUS
-=======
+# Dactylamoeba Korotneff, 1879 GENUS
 
 #### Status
 ACCEPTED

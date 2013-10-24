@@ -1,5 +1,4 @@
-Amphisphaeria polymorpha Fairm. SPECIES
-=======
+# Amphisphaeria polymorpha Fairm. SPECIES
 
 #### Status
 ACCEPTED

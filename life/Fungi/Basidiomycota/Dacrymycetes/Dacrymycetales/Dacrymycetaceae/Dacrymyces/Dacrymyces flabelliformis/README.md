@@ -1,5 +1,4 @@
-Dacrymyces flabelliformis Burds. & Laursen SPECIES
-=======
+# Dacrymyces flabelliformis Burds. & Laursen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Microglomus paxillus var. bicellulare L.S. Olive VARIETY
-=======
+# Microglomus paxillus L.S. Olive & Stoian., 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Olive, Bennett & Stoianovitch, Trans. Br. mycol. Soc. 81(3): 451 (1983)
+J. Protozool. 24(4): 485 (1977)
 
 #### Original name
-Microglomus paxillus var. bicellulare L.S. Olive
+Microglomus paxillus L.S. Olive & Stoian., 1977
 
 ### Remarks
 null

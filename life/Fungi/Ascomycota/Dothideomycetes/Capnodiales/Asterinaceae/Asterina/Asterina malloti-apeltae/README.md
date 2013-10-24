@@ -1,17 +1,16 @@
-Asterina malloti-apelti B. Song, 2004 SPECIES
-=======
+# Asterina malloti-apeltae B. Song, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Song & Li, Mycotaxon 89(1): 196 (2004)
 
 #### Original name
-Asterina malloti-apelti B. Song, 2004
+Asterina malloti-apeltae B. Song, 2004
 
 ### Remarks
 null

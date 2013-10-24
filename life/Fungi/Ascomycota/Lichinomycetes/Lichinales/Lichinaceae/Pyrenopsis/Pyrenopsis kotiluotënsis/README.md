@@ -1,5 +1,4 @@
-Pyrenopsis kotiluotënsis Vain. ex Räsänen SPECIES
-=======
+# Pyrenopsis kotiluotënsis Vain. ex Räsänen SPECIES
 
 #### Status
 ACCEPTED

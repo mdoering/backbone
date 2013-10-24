@@ -1,5 +1,4 @@
-Leiosphaeridia crassa (Pykhova, 1973) Fensome et al., 1990 SPECIES
-=======
+# Leiosphaeridia crassa (Pykhova, 1973) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

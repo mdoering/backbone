@@ -1,5 +1,4 @@
-Aecidium cyani DC. SPECIES
-=======
+# Aecidium cyani DC. SPECIES
 
 #### Status
 ACCEPTED

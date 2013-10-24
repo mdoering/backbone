@@ -1,5 +1,4 @@
-Vermicularia carica Lib. SPECIES
-=======
+# Vermicularia carica Lib. SPECIES
 
 #### Status
 ACCEPTED

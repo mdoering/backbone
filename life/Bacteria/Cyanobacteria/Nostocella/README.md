@@ -1,5 +1,4 @@
-Nostocella GENUS
-=======
+# Nostocella GENUS
 
 #### Status
 ACCEPTED

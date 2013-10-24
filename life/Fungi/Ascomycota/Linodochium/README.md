@@ -1,5 +1,4 @@
-Linodochium von Höhnel, 1909 GENUS
-=======
+# Linodochium von Höhnel, 1909 GENUS
 
 #### Status
 ACCEPTED

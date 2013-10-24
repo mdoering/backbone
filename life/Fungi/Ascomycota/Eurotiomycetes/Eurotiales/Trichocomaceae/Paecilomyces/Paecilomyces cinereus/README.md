@@ -1,5 +1,4 @@
-Paecilomyces cinereus Z.Q. Liang, H.L. Chu & Y.F. Han SPECIES
-=======
+# Paecilomyces cinereus Z.Q. Liang, H.L. Chu & Y.F. Han SPECIES
 
 #### Status
 ACCEPTED

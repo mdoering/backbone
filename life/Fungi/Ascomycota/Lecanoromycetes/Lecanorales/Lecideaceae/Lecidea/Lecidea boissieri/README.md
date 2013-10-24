@@ -1,5 +1,4 @@
-Lecidea boissieri (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecidea boissieri (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

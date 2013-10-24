@@ -1,5 +1,4 @@
-Lecidea conjuncta Nyl. SPECIES
-=======
+# Lecidea conjuncta Nyl. SPECIES
 
 #### Status
 ACCEPTED

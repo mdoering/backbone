@@ -1,5 +1,4 @@
-Petalomonas klebsii Christen SPECIES
-=======
+# Petalomonas klebsii Christen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lionotus dusarti Dragesco, 1960 SPECIES
-=======
+# Lionotus dusarti Dragesco, 1960 SPECIES
 
 #### Status
 ACCEPTED

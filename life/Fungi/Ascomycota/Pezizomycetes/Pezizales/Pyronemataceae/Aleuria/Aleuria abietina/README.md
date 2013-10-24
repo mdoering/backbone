@@ -1,5 +1,4 @@
-Aleuria abietina (Pers.) Gillet SPECIES
-=======
+# Aleuria abietina (Pers.) Gillet SPECIES
 
 #### Status
 ACCEPTED

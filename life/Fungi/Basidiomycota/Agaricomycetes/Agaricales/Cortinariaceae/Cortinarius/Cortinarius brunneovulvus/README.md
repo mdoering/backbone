@@ -1,5 +1,4 @@
-Cortinarius brunneovulvus f. brunneovulvus FORM
-=======
+# Cortinarius brunneovulvus Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cortinarius brunneovulvus f. brunneovulvus
+Cortinarius brunneovulvus Fr.
 
 ### Remarks
 null

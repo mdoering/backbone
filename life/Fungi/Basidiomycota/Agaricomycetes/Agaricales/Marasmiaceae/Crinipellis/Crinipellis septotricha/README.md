@@ -1,5 +1,4 @@
-Crinipellis septotricha Singer SPECIES
-=======
+# Crinipellis septotricha Singer SPECIES
 
 #### Status
 ACCEPTED

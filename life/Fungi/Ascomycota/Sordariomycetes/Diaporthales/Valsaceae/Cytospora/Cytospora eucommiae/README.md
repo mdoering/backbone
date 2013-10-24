@@ -1,5 +1,4 @@
-Cytospora eucommiae Koshk. & Frolov SPECIES
-=======
+# Cytospora eucommiae Koshk. & Frolov SPECIES
 
 #### Status
 ACCEPTED

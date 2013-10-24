@@ -1,5 +1,4 @@
-Phoma ampelopsidis (Cooke & Ellis) Sacc. SPECIES
-=======
+# Phoma ampelopsidis (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

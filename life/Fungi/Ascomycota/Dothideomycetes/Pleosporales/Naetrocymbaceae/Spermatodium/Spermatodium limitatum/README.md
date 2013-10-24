@@ -1,5 +1,4 @@
-Spermatodium limitatum (Spreng.) Trevis. SPECIES
-=======
+# Spermatodium limitatum (Spreng.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

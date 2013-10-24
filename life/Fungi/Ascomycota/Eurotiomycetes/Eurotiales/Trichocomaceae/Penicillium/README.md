@@ -1,17 +1,16 @@
-Pritzeliella Henn. GENUS
-=======
+# Penicillium Link, 1809 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 42(Beibl. ): 88 (1903)
+Magazin Ges. naturf. Freunde, Berlin 3(1-2): 16 (1809)
 
 #### Original name
-Pritzeliella Henn.
+Penicillium Link, 1809
 
 ### Remarks
 null

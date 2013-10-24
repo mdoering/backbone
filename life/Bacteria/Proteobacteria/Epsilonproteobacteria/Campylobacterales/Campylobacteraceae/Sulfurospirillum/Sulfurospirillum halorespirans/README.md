@@ -1,5 +1,4 @@
-Sulfurospirillum halorespirans Luijten et al., 2003 SPECIES
-=======
+# Sulfurospirillum halorespirans Luijten et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

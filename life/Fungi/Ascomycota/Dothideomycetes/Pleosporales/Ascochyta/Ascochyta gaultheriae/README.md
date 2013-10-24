@@ -1,5 +1,4 @@
-Ascochyta gaultheriae Koval SPECIES
-=======
+# Ascochyta gaultheriae Koval SPECIES
 
 #### Status
 ACCEPTED

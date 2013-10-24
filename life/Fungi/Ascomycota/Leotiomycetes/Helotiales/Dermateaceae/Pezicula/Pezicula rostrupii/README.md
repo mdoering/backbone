@@ -1,5 +1,4 @@
-Pezicula rostrupii G. Johans. SPECIES
-=======
+# Pezicula rostrupii G. Johans. SPECIES
 
 #### Status
 ACCEPTED

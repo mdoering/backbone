@@ -1,5 +1,4 @@
-Thalassiosira strelnikovae I. V. Makarova SPECIES
-=======
+# Thalassiosira strelnikovae I. V. Makarova SPECIES
 
 #### Status
 ACCEPTED

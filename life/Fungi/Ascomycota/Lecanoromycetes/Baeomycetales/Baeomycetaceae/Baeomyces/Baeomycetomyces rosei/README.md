@@ -1,17 +1,16 @@
-Baeomycomyces rosei E.A. Thomas ex Cif. & Tomas. SPECIES
-=======
+# Baeomycetomyces rosei E.A. Thomas ex Cif. & Tomas. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atti Ist. bot. Univ. Lab. crittog. Pavia 10: 272 (1954)
 
 #### Original name
-Baeomycomyces rosei E.A. Thomas ex Cif. & Tomas.
+Baeomycetomyces rosei E.A. Thomas ex Cif. & Tomas.
 
 ### Remarks
 null

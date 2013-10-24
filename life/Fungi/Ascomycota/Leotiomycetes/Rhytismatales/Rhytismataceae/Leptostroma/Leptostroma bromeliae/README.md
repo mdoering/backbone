@@ -1,5 +1,4 @@
-Leptostroma bromeliae Pat. SPECIES
-=======
+# Leptostroma bromeliae Pat. SPECIES
 
 #### Status
 ACCEPTED

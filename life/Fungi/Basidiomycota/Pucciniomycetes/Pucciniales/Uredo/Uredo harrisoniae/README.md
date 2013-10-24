@@ -1,5 +1,4 @@
-Uredo harrisoniae Syd. & P. Syd. SPECIES
-=======
+# Uredo harrisoniae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe lateritiorosella Singer SPECIES
-=======
+# Hygrocybe lateritiorosella Singer SPECIES
 
 #### Status
 ACCEPTED

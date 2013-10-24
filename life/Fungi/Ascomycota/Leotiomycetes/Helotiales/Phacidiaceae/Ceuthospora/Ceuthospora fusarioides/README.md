@@ -1,5 +1,4 @@
-Ceuthospora fusarioides (Corda) Nag Raj SPECIES
-=======
+# Ceuthospora fusarioides (Corda) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

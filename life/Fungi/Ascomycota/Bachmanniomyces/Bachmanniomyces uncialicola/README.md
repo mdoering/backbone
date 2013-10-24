@@ -1,14 +1,13 @@
-Phoma uncialicola (Zopf) Vouaux SPECIES
-=======
+# Bachmanniomyces uncialicola (Zopf) D. Hawksw., 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Br. Mus. nat. Hist. , Bot. 9(1): 11 (1981)
 
 #### Original name
 Phyllosticta uncialicola Zopf, 1896

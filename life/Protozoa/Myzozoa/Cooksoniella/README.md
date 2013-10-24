@@ -1,5 +1,4 @@
-Cooksoniella Vozzhennikova GENUS
-=======
+# Cooksoniella Vozzhennikova GENUS
 
 #### Status
 ACCEPTED

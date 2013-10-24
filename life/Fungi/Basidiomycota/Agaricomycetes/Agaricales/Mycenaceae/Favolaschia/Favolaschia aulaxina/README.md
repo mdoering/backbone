@@ -1,17 +1,16 @@
-Pleurotus aulaxinus var. aulaxinus VARIETY
-=======
+# Favolaschia aulaxina (Mont.) Singer, 1969 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 5: 385 (1887)
+Beih. Nova Hedwigia 29: 380 (1969)
 
 #### Original name
-Pleurotus aulaxinus var. aulaxinus
+Agaricus aulaxinus Mont., 1850
 
 ### Remarks
 null

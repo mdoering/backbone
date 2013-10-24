@@ -1,5 +1,4 @@
-Collema ethiopicum C.W. Dodge SPECIES
-=======
+# Collema ethiopicum C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

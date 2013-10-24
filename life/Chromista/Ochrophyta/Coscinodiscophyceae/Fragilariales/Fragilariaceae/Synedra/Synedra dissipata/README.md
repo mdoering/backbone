@@ -1,8 +1,7 @@
-Cylindrocystis brebissonii f. curvata (Rabanus) Kossinka FORM
-=======
+# Synedra dissipata Kützing SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

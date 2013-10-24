@@ -1,5 +1,4 @@
-Rhizoctonia leguminicola Gough & E.S. Elliott, 1956 SPECIES
-=======
+# Rhizoctonia leguminicola Gough & E.S. Elliott, 1956 SPECIES
 
 #### Status
 ACCEPTED

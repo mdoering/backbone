@@ -1,8 +1,7 @@
-Quinqueloculina meditteranensis Le Calvez & Le Calvez, 1958 SPECIES
-=======
+# Adelosina mediterrranensis (Le Calvez, J. & Y., 1958) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

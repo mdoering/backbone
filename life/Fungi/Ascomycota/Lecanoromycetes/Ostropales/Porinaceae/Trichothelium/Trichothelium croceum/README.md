@@ -1,5 +1,4 @@
-Trichothelium croceum Sérus. SPECIES
-=======
+# Trichothelium croceum Sérus. SPECIES
 
 #### Status
 ACCEPTED

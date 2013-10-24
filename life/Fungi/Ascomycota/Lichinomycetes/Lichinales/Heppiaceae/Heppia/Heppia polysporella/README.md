@@ -1,5 +1,4 @@
-Heppia polysporella (Müll. Arg.) Vain. SPECIES
-=======
+# Heppia polysporella (Müll. Arg.) Vain. SPECIES
 
 #### Status
 ACCEPTED

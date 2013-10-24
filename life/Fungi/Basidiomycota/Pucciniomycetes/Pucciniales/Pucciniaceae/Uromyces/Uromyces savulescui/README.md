@@ -1,5 +1,4 @@
-Uromyces savulescui Rayss SPECIES
-=======
+# Uromyces savulescui Rayss SPECIES
 
 #### Status
 ACCEPTED

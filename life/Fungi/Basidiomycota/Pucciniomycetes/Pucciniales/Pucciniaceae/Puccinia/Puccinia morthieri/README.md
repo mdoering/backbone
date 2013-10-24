@@ -1,5 +1,4 @@
-Puccinia morthieri Körn. SPECIES
-=======
+# Puccinia morthieri Körn. SPECIES
 
 #### Status
 ACCEPTED

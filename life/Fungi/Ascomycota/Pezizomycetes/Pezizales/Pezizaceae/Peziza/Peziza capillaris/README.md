@@ -1,5 +1,4 @@
-Peziza capillaris Fr. SPECIES
-=======
+# Peziza capillaris Fr. SPECIES
 
 #### Status
 ACCEPTED

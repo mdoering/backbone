@@ -1,5 +1,4 @@
-Scolecopeltella quindecimseptata (Henn.) Bat. SPECIES
-=======
+# Scolecopeltella quindecimseptata (Henn.) Bat. SPECIES
 
 #### Status
 ACCEPTED

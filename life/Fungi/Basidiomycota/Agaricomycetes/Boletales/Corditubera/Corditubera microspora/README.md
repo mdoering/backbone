@@ -1,5 +1,4 @@
-Corditubera microspora Höhn. SPECIES
-=======
+# Corditubera microspora Höhn. SPECIES
 
 #### Status
 ACCEPTED

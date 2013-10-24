@@ -1,5 +1,4 @@
-Malmidea trailiana (Müll. Arg.) Kalb, Rivas Plata & Lumbsch SPECIES
-=======
+# Malmidea trailiana (Müll. Arg.) Kalb, Rivas Plata & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

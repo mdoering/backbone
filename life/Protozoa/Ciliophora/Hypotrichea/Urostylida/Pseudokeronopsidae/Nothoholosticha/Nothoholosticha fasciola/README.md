@@ -1,8 +1,7 @@
-Anteholosticha fasciola (Kahl, 1932) Berger, 2003 SPECIES
-=======
+# Nothoholosticha fasciola (Kahl, 1932) Li, Zhang, Hu, Warren, Al Rasheid, 2009 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

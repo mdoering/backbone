@@ -1,5 +1,4 @@
-Echinoplaca similis Kalb & Vezda SPECIES
-=======
+# Echinoplaca similis Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerocarpus sessilis Bull. SPECIES
-=======
+# Sphaerocarpus sessilis Bull. SPECIES
 
 #### Status
 ACCEPTED

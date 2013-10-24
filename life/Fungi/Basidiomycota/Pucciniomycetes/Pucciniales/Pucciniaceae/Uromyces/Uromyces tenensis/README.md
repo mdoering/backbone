@@ -1,5 +1,4 @@
-Uromyces tenensis Berk. & M.A. Curtis SPECIES
-=======
+# Uromyces tenensis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

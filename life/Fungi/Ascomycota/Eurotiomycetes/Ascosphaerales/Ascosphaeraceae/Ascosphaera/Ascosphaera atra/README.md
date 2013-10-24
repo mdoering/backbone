@@ -1,5 +1,4 @@
-Ascosphaera atra Skou & K. Hackett, 1979 SPECIES
-=======
+# Ascosphaera atra Skou & K. Hackett, 1979 SPECIES
 
 #### Status
 ACCEPTED

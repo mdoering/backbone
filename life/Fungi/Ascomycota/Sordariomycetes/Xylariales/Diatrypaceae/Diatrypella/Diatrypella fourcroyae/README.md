@@ -1,5 +1,4 @@
-Diatrypella fourcroyae Vouaux SPECIES
-=======
+# Diatrypella fourcroyae Vouaux SPECIES
 
 #### Status
 ACCEPTED

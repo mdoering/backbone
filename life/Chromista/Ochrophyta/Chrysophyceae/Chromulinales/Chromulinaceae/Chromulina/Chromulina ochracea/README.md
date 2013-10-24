@@ -1,5 +1,4 @@
-Chromulina ochracea Ehrenberg SPECIES
-=======
+# Chromulina ochracea Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

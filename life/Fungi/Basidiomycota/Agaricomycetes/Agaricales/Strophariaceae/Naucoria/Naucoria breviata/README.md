@@ -1,5 +1,4 @@
-Naucoria breviata (Britzelm.) Sacc. SPECIES
-=======
+# Naucoria breviata (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

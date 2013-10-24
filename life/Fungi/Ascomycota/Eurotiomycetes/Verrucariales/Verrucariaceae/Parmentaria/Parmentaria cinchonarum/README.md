@@ -1,5 +1,4 @@
-Parmentaria cinchonarum Fée SPECIES
-=======
+# Parmentaria cinchonarum Fée SPECIES
 
 #### Status
 ACCEPTED

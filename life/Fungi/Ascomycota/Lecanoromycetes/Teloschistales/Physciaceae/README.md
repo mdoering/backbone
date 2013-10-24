@@ -1,17 +1,16 @@
-Physcia pulverulenta f. venusta Leight. FORM
-=======
+# Physciaceae Zahlbr. FAMILY
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Engler, Syllabus (Berlin), Edn 2 46 (1898)
 
 #### Original name
-Physcia pulverulenta f. venusta Leight.
+Physciaceae Zahlbr.
 
 ### Remarks
 null

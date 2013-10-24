@@ -1,5 +1,4 @@
-Harpochytrium natrophilum Hortob. SPECIES
-=======
+# Harpochytrium natrophilum Hortob. SPECIES
 
 #### Status
 ACCEPTED

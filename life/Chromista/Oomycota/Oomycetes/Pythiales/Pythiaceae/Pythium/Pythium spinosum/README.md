@@ -1,5 +1,4 @@
-Pythium spinosum Sawada, 1926 SPECIES
-=======
+# Pythium spinosum Sawada, 1926 SPECIES
 
 #### Status
 ACCEPTED

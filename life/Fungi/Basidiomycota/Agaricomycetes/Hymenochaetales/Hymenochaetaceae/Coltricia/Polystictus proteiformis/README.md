@@ -1,5 +1,4 @@
-Polystictus proteiformis Cooke SPECIES
-=======
+# Polystictus proteiformis Cooke SPECIES
 
 #### Status
 ACCEPTED

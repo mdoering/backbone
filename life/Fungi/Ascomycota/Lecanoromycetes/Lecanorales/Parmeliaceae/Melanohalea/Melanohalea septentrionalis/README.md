@@ -1,14 +1,13 @@
-Staurothele septentrionalis Lynge SPECIES
-=======
+# Melanohalea septentrionalis (Lynge) O. Blanco, A. Crespo, Divakar, Essl., D. Hawksw. & Lumbsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. Nov. Zemlya 35 (1928)
+Mycol. Res. 108(8): 883 (2004)
 
 #### Original name
 Staurothele septentrionalis Lynge

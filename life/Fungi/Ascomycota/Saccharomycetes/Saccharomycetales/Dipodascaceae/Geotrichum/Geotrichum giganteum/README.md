@@ -1,5 +1,4 @@
-Geotrichum giganteum (Behrend ex Guég.) Coudert SPECIES
-=======
+# Geotrichum giganteum (Behrend ex Guég.) Coudert SPECIES
 
 #### Status
 ACCEPTED

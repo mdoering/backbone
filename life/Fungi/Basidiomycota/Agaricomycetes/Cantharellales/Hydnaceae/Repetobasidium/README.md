@@ -1,5 +1,4 @@
-Repetobasidium J. Eriksson, 1958 GENUS
-=======
+# Repetobasidium J. Eriksson, 1958 GENUS
 
 #### Status
 ACCEPTED

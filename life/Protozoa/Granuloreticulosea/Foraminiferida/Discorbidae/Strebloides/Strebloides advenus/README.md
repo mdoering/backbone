@@ -1,8 +1,7 @@
-Cibicides advenum (d’Orbigny, 1839) SPECIES
-=======
+# Strebloides advenus (Cushman, 1922) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

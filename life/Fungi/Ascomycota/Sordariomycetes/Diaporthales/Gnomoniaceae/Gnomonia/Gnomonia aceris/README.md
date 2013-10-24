@@ -1,5 +1,4 @@
-Gnomonia aceris Feltgen SPECIES
-=======
+# Gnomonia aceris Feltgen SPECIES
 
 #### Status
 ACCEPTED

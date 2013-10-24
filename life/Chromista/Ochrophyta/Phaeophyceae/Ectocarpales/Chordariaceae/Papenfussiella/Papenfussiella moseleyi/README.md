@@ -1,5 +1,4 @@
-Papenfussiella moseleyi Levring, 1941 SPECIES
-=======
+# Papenfussiella moseleyi Levring, 1941 SPECIES
 
 #### Status
 ACCEPTED

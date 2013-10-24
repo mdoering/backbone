@@ -1,5 +1,4 @@
-Thraustochytrium aggregatum Ulken, 1965 SPECIES
-=======
+# Thraustochytrium aggregatum Ulken, 1965 SPECIES
 
 #### Status
 ACCEPTED

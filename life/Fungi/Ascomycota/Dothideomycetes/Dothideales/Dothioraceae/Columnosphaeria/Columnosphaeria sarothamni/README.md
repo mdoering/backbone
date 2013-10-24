@@ -1,5 +1,4 @@
-Columnosphaeria sarothamni Munk, 1953 SPECIES
-=======
+# Columnosphaeria sarothamni Munk, 1953 SPECIES
 
 #### Status
 ACCEPTED

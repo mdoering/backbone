@@ -1,5 +1,4 @@
-Lecanora mollissima Lynge SPECIES
-=======
+# Lecanora mollissima Lynge SPECIES
 
 #### Status
 ACCEPTED

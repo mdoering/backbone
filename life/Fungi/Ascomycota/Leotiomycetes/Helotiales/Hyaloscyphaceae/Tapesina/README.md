@@ -1,5 +1,4 @@
-Tapesina Lambotte GENUS
-=======
+# Tapesina Lambotte GENUS
 
 #### Status
 ACCEPTED

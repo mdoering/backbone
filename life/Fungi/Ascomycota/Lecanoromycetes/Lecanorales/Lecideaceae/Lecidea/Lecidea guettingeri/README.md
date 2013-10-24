@@ -1,5 +1,4 @@
-Lecidea guettingeri Müll. Arg. SPECIES
-=======
+# Lecidea guettingeri Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Humicola lutea De Bert. SPECIES
-=======
+# Humicola lutea De Bert. SPECIES
 
 #### Status
 ACCEPTED

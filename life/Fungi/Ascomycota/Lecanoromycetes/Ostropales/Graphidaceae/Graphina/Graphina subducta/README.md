@@ -1,5 +1,4 @@
-Graphina subducta (Nyl.) Zahlbr. SPECIES
-=======
+# Graphina subducta (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

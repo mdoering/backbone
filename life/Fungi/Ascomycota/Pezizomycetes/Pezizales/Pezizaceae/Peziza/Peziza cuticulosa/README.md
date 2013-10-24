@@ -1,5 +1,4 @@
-Peziza cuticulosa Dicks. SPECIES
-=======
+# Peziza cuticulosa Dicks. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Thelotrema leucomelaenum var. stylothecium (Vain.) Redinger VARIETY
-=======
+# Ocellularia stylothecium (Vain.) Aptroot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fungal Diversity 9: 30 (2002)
 
 #### Original name
 Thelotrema stylothecium Vain.

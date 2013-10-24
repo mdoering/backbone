@@ -1,5 +1,4 @@
-Heliostaurus Haeckel, 1881 GENUS
-=======
+# Heliostaurus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

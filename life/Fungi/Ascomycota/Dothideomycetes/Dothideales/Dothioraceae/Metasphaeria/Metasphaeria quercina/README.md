@@ -1,5 +1,4 @@
-Metasphaeria quercina Ellis & Everh. SPECIES
-=======
+# Metasphaeria quercina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

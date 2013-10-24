@@ -1,5 +1,4 @@
-Caudospora Starbäck, 1889 GENUS
-=======
+# Caudospora Starbäck, 1889 GENUS
 
 #### Status
 ACCEPTED

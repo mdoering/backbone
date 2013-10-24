@@ -1,5 +1,4 @@
-Sepedonium monosporum Peyronel SPECIES
-=======
+# Sepedonium monosporum Peyronel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe pedicellata Velen. SPECIES
-=======
+# Inocybe pedicellata Velen. SPECIES
 
 #### Status
 ACCEPTED

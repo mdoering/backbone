@@ -1,5 +1,4 @@
-Hygrocybe collucera A.M. Young, R. Kearney & E. Kearney SPECIES
-=======
+# Hygrocybe collucera A.M. Young, R. Kearney & E. Kearney SPECIES
 
 #### Status
 ACCEPTED

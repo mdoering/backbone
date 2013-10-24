@@ -1,5 +1,4 @@
-Acarospora cratericola H. Magn. SPECIES
-=======
+# Acarospora cratericola H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thermosinus Sokolova et al., 2004 GENUS
-=======
+# Thermosinus Sokolova et al., 2004 GENUS
 
 #### Status
 ACCEPTED

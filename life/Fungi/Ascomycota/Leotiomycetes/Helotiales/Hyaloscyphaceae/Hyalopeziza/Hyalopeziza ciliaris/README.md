@@ -1,5 +1,4 @@
-Hyalopeziza ciliaris Fuckel SPECIES
-=======
+# Hyalopeziza ciliaris Fuckel SPECIES
 
 #### Status
 ACCEPTED

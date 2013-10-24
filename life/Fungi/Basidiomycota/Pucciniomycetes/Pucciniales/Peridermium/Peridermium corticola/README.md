@@ -1,5 +1,4 @@
-Peridermium corticola Rabenh. SPECIES
-=======
+# Peridermium corticola Rabenh. SPECIES
 
 #### Status
 ACCEPTED

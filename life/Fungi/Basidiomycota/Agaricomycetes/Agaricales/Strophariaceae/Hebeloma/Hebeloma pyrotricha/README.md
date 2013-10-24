@@ -1,5 +1,4 @@
-Hebeloma pyrotricha (Holmsk.) SPECIES
-=======
+# Hebeloma pyrotricha (Holmsk.) SPECIES
 
 #### Status
 ACCEPTED

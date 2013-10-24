@@ -1,5 +1,4 @@
-Timorella cypella SPECIES
-=======
+# Timorella cypella SPECIES
 
 #### Status
 ACCEPTED

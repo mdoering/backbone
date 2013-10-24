@@ -1,17 +1,16 @@
-Mycena mairei (E.-J. Gilbert) Kühner SPECIES
-=======
+# Hemimycena mairei (M.E. Gilbert) Singer, 1943 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 41(1/3): 121 (1943)
 
 #### Original name
-null
+Omphalia mairei E.-J. Gilbert, 1926
 
 ### Remarks
 null

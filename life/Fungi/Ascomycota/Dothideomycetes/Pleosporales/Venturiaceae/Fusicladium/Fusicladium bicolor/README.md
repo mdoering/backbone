@@ -1,5 +1,4 @@
-Fusicladium bicolor C. Massal. SPECIES
-=======
+# Fusicladium bicolor C. Massal. SPECIES
 
 #### Status
 ACCEPTED

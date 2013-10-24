@@ -1,5 +1,4 @@
-Phyllosticta cynosuri Gonz. Frag. SPECIES
-=======
+# Phyllosticta cynosuri Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

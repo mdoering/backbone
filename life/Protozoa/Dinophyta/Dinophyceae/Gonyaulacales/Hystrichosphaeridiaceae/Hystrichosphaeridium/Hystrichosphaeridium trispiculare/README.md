@@ -1,5 +1,4 @@
-Hystrichosphaeridium trispiculare Jagielska, 1962 SPECIES
-=======
+# Hystrichosphaeridium trispiculare Jagielska, 1962 SPECIES
 
 #### Status
 ACCEPTED

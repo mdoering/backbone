@@ -1,5 +1,4 @@
-Blitridium oleastri (Pass. & Thüm.) Sacc. SPECIES
-=======
+# Blitridium oleastri (Pass. & Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

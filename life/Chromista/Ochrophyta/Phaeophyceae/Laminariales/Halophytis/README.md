@@ -1,5 +1,4 @@
-Halophytis J. Sang, 1885 GENUS
-=======
+# Halophytis J. Sang, 1885 GENUS
 
 #### Status
 ACCEPTED

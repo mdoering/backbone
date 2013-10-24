@@ -1,5 +1,4 @@
-Exidia purpurascens Jungh. SPECIES
-=======
+# Exidia purpurascens Jungh. SPECIES
 
 #### Status
 ACCEPTED

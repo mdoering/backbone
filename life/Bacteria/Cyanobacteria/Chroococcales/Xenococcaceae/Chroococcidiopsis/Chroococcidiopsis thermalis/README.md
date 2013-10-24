@@ -1,5 +1,4 @@
-Chroococcidiopsis thermalis Geitler SPECIES
-=======
+# Chroococcidiopsis thermalis Geitler SPECIES
 
 #### Status
 ACCEPTED

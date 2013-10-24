@@ -1,5 +1,4 @@
-Trochila fuscella P. Karst. SPECIES
-=======
+# Trochila fuscella P. Karst. SPECIES
 
 #### Status
 ACCEPTED

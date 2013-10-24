@@ -1,5 +1,4 @@
-Peniophora bicornis Hjortstam & Ryvarden, 1984 SPECIES
-=======
+# Peniophora bicornis Hjortstam & Ryvarden, 1984 SPECIES
 
 #### Status
 ACCEPTED

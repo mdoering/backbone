@@ -1,5 +1,4 @@
-Russula rhytipes Fr. SPECIES
-=======
+# Russula rhytipes Fr. SPECIES
 
 #### Status
 ACCEPTED

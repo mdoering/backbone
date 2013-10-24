@@ -1,5 +1,4 @@
-Cortinarius oliveopetasatus M.M. Moser SPECIES
-=======
+# Cortinarius oliveopetasatus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyocephala GENUS
-=======
+# Dictyocephala GENUS
 
 #### Status
 ACCEPTED

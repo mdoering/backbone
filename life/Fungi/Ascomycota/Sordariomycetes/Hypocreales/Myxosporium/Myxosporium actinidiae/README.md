@@ -1,5 +1,4 @@
-Myxosporium actinidiae Ablak. & Koval SPECIES
-=======
+# Myxosporium actinidiae Ablak. & Koval SPECIES
 
 #### Status
 ACCEPTED

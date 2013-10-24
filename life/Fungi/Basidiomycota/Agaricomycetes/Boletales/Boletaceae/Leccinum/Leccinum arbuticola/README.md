@@ -1,5 +1,4 @@
-Leccinum arbuticola Thiers SPECIES
-=======
+# Leccinum arbuticola Thiers SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria styriaca Döbbeler SPECIES
-=======
+# Nectria styriaca Döbbeler SPECIES
 
 #### Status
 ACCEPTED

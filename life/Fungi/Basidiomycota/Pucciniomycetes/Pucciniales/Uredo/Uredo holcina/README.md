@@ -1,5 +1,4 @@
-Uredo holcina Erikss. SPECIES
-=======
+# Uredo holcina Erikss. SPECIES
 
 #### Status
 ACCEPTED

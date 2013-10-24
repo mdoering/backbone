@@ -1,5 +1,4 @@
-Physcia interpallens SPECIES
-=======
+# Physcia interpallens SPECIES
 
 #### Status
 ACCEPTED

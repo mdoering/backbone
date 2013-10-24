@@ -1,8 +1,7 @@
-Gastrocystis Brumpt, 1913 GENUS
-=======
+# Besnoitia Henry, 1913 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List

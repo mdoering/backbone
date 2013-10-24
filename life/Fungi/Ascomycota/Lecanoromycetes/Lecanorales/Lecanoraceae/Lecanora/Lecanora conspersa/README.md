@@ -1,5 +1,4 @@
-Lecanora conspersa Vain. SPECIES
-=======
+# Lecanora conspersa Vain. SPECIES
 
 #### Status
 ACCEPTED

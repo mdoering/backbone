@@ -1,5 +1,4 @@
-Lecanora deminuta (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Lecanora deminuta (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

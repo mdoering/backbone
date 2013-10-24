@@ -1,5 +1,4 @@
-Scolecopeltis pachyasca Speg. SPECIES
-=======
+# Scolecopeltis pachyasca Speg. SPECIES
 
 #### Status
 ACCEPTED

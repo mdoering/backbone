@@ -1,5 +1,4 @@
-Endomyces coprophilus Massee & E.S. Salmon, 1901 SPECIES
-=======
+# Endomyces coprophilus Massee & E.S. Salmon, 1901 SPECIES
 
 #### Status
 ACCEPTED

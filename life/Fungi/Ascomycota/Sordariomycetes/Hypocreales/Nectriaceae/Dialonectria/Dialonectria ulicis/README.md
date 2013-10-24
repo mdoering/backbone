@@ -1,5 +1,4 @@
-Dialonectria ulicis (P. Crouan & H. Crouan) Cooke SPECIES
-=======
+# Dialonectria ulicis (P. Crouan & H. Crouan) Cooke SPECIES
 
 #### Status
 ACCEPTED

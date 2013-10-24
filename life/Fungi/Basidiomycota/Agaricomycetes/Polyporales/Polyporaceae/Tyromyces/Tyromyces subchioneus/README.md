@@ -1,5 +1,4 @@
-Tyromyces subchioneus Murrill SPECIES
-=======
+# Tyromyces subchioneus Murrill SPECIES
 
 #### Status
 ACCEPTED

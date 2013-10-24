@@ -1,5 +1,4 @@
-Psilocybe pegleriana Guzmán SPECIES
-=======
+# Psilocybe pegleriana Guzmán SPECIES
 
 #### Status
 ACCEPTED

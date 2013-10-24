@@ -1,5 +1,4 @@
-Pleopyrenis picina (Nyl.) Clem. SPECIES
-=======
+# Pleopyrenis picina (Nyl.) Clem. SPECIES
 
 #### Status
 ACCEPTED

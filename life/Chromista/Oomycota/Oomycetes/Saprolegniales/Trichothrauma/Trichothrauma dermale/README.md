@@ -1,5 +1,4 @@
-Trichothrauma dermale Germ. SPECIES
-=======
+# Trichothrauma dermale Germ. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Periconia diffusa E.W. Mason & M.B. Ellis SPECIES
-=======
+# Periconia diffusa E.W. Mason & M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

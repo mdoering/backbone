@@ -1,5 +1,4 @@
-Mollisia piceae Quél. SPECIES
-=======
+# Mollisia piceae Quél. SPECIES
 
 #### Status
 ACCEPTED

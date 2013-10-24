@@ -1,5 +1,4 @@
-Polystictus incisus Lloyd SPECIES
-=======
+# Polystictus incisus Lloyd SPECIES
 
 #### Status
 ACCEPTED

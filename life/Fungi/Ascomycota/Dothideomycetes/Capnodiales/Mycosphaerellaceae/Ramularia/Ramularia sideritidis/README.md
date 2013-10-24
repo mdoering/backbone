@@ -1,5 +1,4 @@
-Ramularia sideritidis Hollós SPECIES
-=======
+# Ramularia sideritidis Hollós SPECIES
 
 #### Status
 ACCEPTED

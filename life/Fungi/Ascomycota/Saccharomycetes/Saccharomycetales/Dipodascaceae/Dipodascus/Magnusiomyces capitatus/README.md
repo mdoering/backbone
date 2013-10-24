@@ -1,17 +1,16 @@
-Geotrichum linkii Vörös-Felkai, 1961 SPECIES
-=======
+# Magnusiomyces capitatus (de Hoog, M.T. Sm. & E. Guého) de Hoog & M.T. Sm., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 50(2): 508 (2004)
 
 #### Original name
-null
+Dipodascus capitatus de Hoog, M.T. Sm. & E. Guého, 1986
 
 ### Remarks
 null

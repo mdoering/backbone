@@ -1,5 +1,4 @@
-Clisosporium subcorticale (P. Karst.) Kuntze SPECIES
-=======
+# Clisosporium subcorticale (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

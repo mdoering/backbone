@@ -1,5 +1,4 @@
-Opegrapha cerebralis Schaer. SPECIES
-=======
+# Opegrapha cerebralis Schaer. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachelomonas helvetica f. armata (Skvortzov) Popova FORM
-=======
+# Trachelomonas helvetica Lemmermann emend. Deflandre SPECIES
 
 #### Status
 ACCEPTED

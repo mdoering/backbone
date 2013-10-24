@@ -1,5 +1,4 @@
-Farinaria seminaria Sowerby SPECIES
-=======
+# Farinaria seminaria Sowerby SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenochaete coffeana J.C. Léger & Lanq., 1994 SPECIES
-=======
+# Hymenochaete coffeana J.C. Léger & Lanq., 1994 SPECIES
 
 #### Status
 ACCEPTED

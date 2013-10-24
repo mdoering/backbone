@@ -1,5 +1,4 @@
-Diplodia lathyri Lebedeva SPECIES
-=======
+# Diplodia lathyri Lebedeva SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Imshaugia aleurites (Ach.) S.L.F. Mey. SPECIES
-=======
+# Imshaugia aleurites (Ach.) S.L.F. Mey. SPECIES
 
 #### Status
 ACCEPTED

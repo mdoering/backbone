@@ -1,5 +1,4 @@
-Licnophora bassoni Van As & Van As, 2000 SPECIES
-=======
+# Licnophora bassoni Van As & Van As, 2000 SPECIES
 
 #### Status
 ACCEPTED

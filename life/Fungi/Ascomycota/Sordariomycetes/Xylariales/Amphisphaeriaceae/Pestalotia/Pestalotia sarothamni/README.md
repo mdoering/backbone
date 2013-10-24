@@ -1,5 +1,4 @@
-Pestalotia sarothamni Allesch. SPECIES
-=======
+# Pestalotia sarothamni Allesch. SPECIES
 
 #### Status
 ACCEPTED

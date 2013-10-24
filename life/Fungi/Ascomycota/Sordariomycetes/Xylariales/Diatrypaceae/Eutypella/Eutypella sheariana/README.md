@@ -1,5 +1,4 @@
-Eutypella sheariana Berl. SPECIES
-=======
+# Eutypella sheariana Berl. SPECIES
 
 #### Status
 ACCEPTED

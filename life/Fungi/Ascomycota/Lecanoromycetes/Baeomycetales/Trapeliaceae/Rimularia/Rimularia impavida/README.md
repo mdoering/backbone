@@ -1,17 +1,16 @@
-Lecidea impavida var. impavida VARIETY
-=======
+# Rimularia impavida (Th. Fr.) Hertel & Rambold SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mitt. bot. StSamml. , Münch. 23: 391 (1987)
 
 #### Original name
-Lecidea impavida var. impavida
+Lecidea impavida Th. Fr.
 
 ### Remarks
 null

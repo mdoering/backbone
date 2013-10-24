@@ -1,5 +1,4 @@
-Urotricha synuraphaga Kahl, 1927 SPECIES
-=======
+# Urotricha synuraphaga Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

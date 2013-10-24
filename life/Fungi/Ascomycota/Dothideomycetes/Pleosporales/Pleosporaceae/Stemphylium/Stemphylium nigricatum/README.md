@@ -1,5 +1,4 @@
-Stemphylium nigricatum (G.F. Atk.) Wiltshire SPECIES
-=======
+# Stemphylium nigricatum (G.F. Atk.) Wiltshire SPECIES
 
 #### Status
 ACCEPTED

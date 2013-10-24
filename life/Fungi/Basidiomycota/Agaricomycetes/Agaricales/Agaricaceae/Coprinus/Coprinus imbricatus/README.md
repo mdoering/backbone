@@ -1,5 +1,4 @@
-Coprinus imbricatus Rabenh. SPECIES
-=======
+# Coprinus imbricatus Rabenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmeliella blepharophora (Bél.) Müll. Arg. SPECIES
-=======
+# Parmeliella blepharophora (Bél.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

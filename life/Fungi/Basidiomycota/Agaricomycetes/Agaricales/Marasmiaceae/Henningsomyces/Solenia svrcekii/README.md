@@ -1,5 +1,4 @@
-Solenia svrcekii Pilát SPECIES
-=======
+# Solenia svrcekii Pilát SPECIES
 
 #### Status
 ACCEPTED

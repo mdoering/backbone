@@ -1,5 +1,4 @@
-Pluricellaesporites magnus Rouse & Mustard SPECIES
-=======
+# Pluricellaesporites magnus Rouse & Mustard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltisphaeridium kotulskyi Timofeev, 1963 SPECIES
-=======
+# Baltisphaeridium kotulskyi Timofeev, 1963 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Squamaria electrina (Ramond) DC. SPECIES
-=======
+# Squamaria electrina (Ramond) DC. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diporicellaesporites minifusiformis Kalgutkar & Janson. SPECIES
-=======
+# Diporicellaesporites minifusiformis Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

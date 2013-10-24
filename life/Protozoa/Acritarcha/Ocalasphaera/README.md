@@ -1,5 +1,4 @@
-Ocalasphaera K.F. Prössl, 1992 GENUS
-=======
+# Ocalasphaera K.F. Prössl, 1992 GENUS
 
 #### Status
 ACCEPTED

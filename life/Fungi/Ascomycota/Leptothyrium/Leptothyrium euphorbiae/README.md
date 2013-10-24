@@ -1,5 +1,4 @@
-Leptothyrium euphorbiae (J. Schröt.) Sacc. & D. Sacc. SPECIES
-=======
+# Leptothyrium euphorbiae (J. Schröt.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

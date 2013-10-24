@@ -1,5 +1,4 @@
-Cortinarius deceptivus Kauffman SPECIES
-=======
+# Cortinarius deceptivus Kauffman SPECIES
 
 #### Status
 ACCEPTED

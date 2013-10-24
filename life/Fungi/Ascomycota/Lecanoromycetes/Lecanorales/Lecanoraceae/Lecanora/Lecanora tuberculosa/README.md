@@ -1,5 +1,4 @@
-Lecanora tuberculosa (A. Massal.) Jatta SPECIES
-=======
+# Lecanora tuberculosa (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED

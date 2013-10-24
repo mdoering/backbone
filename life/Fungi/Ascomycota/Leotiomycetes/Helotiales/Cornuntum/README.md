@@ -1,5 +1,4 @@
-Cornuntum Velen. GENUS
-=======
+# Cornuntum Velen. GENUS
 
 #### Status
 ACCEPTED

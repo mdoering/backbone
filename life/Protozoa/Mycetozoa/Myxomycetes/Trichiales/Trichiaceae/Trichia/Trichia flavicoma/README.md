@@ -1,17 +1,16 @@
-Trichia botrytis flavicoma Lister, 1894 INFRASPECIFIC_NAME
-=======
+# Trichia flavicoma (Lister) Ing, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 50: 558 (1967)
 
 #### Original name
-null
+Trichia botrytis flavicoma Lister, 1894
 
 ### Remarks
 null

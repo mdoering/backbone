@@ -1,5 +1,4 @@
-Pterocanium grandiporus Nigrini, 1968 SPECIES
-=======
+# Pterocanium grandiporus Nigrini, 1968 SPECIES
 
 #### Status
 ACCEPTED

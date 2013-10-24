@@ -1,14 +1,13 @@
-Phlebiella submutabilis (Höhn. & Litsch.) Bondartsev & Singer, 1953 SPECIES
-=======
+# Cristella submutabilis (Höhn. & Litsch.) Donk, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bondartsev, Trut, griby 51 (1953)
+Fungus, Wageningen 27: 20 (1957)
 
 #### Original name
 null

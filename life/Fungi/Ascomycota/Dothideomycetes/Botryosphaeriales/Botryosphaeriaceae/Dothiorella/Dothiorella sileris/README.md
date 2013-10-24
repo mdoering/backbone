@@ -1,5 +1,4 @@
-Dothiorella sileris Petr. SPECIES
-=======
+# Dothiorella sileris Petr. SPECIES
 
 #### Status
 ACCEPTED

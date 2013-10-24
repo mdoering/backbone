@@ -1,5 +1,4 @@
-Sphaeronaema radulescui Docea SPECIES
-=======
+# Sphaeronaema radulescui Docea SPECIES
 
 #### Status
 ACCEPTED

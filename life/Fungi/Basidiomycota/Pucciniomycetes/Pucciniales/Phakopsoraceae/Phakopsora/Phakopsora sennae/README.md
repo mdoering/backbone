@@ -1,5 +1,4 @@
-Phakopsora sennae Salazar-Yepes & A.A. Carvalho SPECIES
-=======
+# Phakopsora sennae Salazar-Yepes & A.A. Carvalho SPECIES
 
 #### Status
 ACCEPTED

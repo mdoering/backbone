@@ -1,5 +1,4 @@
-Cercosporidium euphorbiae Earle SPECIES
-=======
+# Cercosporidium euphorbiae Earle SPECIES
 
 #### Status
 ACCEPTED

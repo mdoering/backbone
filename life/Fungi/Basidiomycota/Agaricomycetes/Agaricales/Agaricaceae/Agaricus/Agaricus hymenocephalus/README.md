@@ -1,5 +1,4 @@
-Agaricus hymenocephalus Peck SPECIES
-=======
+# Agaricus hymenocephalus Peck SPECIES
 
 #### Status
 ACCEPTED

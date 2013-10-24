@@ -1,5 +1,4 @@
-Puccinia iberidis Duby SPECIES
-=======
+# Puccinia iberidis Duby SPECIES
 
 #### Status
 ACCEPTED

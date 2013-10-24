@@ -1,5 +1,4 @@
-Anabaena anomala F. E. Fritsch SPECIES
-=======
+# Anabaena anomala F. E. Fritsch SPECIES
 
 #### Status
 ACCEPTED

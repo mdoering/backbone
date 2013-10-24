@@ -1,5 +1,4 @@
-Beltraniomyces lignicola Manohar., D.K. Agarwal & Rao SPECIES
-=======
+# Beltraniomyces lignicola Manohar., D.K. Agarwal & Rao SPECIES
 
 #### Status
 ACCEPTED

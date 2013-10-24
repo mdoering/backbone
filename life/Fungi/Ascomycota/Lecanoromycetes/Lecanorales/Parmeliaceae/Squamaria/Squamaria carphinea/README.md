@@ -1,5 +1,4 @@
-Squamaria carphinea (Fr.) Boist. SPECIES
-=======
+# Squamaria carphinea (Fr.) Boist. SPECIES
 
 #### Status
 ACCEPTED

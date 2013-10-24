@@ -1,5 +1,4 @@
-Diplozythiella bambusina Died., 1916 SPECIES
-=======
+# Diplozythiella bambusina Died., 1916 SPECIES
 
 #### Status
 ACCEPTED

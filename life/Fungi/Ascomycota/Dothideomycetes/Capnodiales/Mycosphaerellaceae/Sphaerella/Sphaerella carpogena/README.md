@@ -1,5 +1,4 @@
-Sphaerella carpogena Pass. SPECIES
-=======
+# Sphaerella carpogena Pass. SPECIES
 
 #### Status
 ACCEPTED

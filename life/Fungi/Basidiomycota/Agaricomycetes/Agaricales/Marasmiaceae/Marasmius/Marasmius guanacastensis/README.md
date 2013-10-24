@@ -1,5 +1,4 @@
-Marasmius guanacastensis Singer SPECIES
-=======
+# Marasmius guanacastensis Singer SPECIES
 
 #### Status
 ACCEPTED

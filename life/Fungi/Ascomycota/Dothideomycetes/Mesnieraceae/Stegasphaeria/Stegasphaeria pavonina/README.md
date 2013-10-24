@@ -1,14 +1,13 @@
-Mesniera pavonina (Syd. & P. Syd.) Petr., 1941 SPECIES
-=======
+# Stegasphaeria pavonina Syd. & P. Syd., 1916 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 39: 345 (1941)
+Annls mycol. 14(5): 362 (1916)
 
 #### Original name
 Stegasphaeria pavonina Syd. & P. Syd., 1916

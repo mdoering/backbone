@@ -1,5 +1,4 @@
-Thalassiosira flexuosa var. tenella Y. Tanimura VARIETY
-=======
+# Thalassiosira flexuosa (J. Brun) F. Akiba & Y. Yanagisawa SPECIES
 
 #### Status
 ACCEPTED

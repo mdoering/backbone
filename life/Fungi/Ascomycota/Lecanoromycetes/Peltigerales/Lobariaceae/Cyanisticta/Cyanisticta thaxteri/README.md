@@ -1,5 +1,4 @@
-Cyanisticta thaxteri C.W. Dodge SPECIES
-=======
+# Cyanisticta thaxteri C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Favolus africanus Lloyd SPECIES
-=======
+# Favolus africanus Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita albidoides A.E. Wood SPECIES
-=======
+# Amanita albidoides A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

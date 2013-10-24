@@ -1,5 +1,4 @@
-Schiffnerula afflata (G. Winter) Theiss. SPECIES
-=======
+# Schiffnerula afflata (G. Winter) Theiss. SPECIES
 
 #### Status
 ACCEPTED

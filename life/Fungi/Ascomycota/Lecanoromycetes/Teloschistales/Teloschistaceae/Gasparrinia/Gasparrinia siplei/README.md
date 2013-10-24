@@ -1,5 +1,4 @@
-Gasparrinia siplei C.W. Dodge & G.E. Baker SPECIES
-=======
+# Gasparrinia siplei C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

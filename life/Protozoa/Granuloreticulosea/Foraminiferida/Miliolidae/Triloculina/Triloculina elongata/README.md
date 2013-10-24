@@ -1,5 +1,4 @@
-Triloculina elongata SPECIES
-=======
+# Triloculina elongata SPECIES
 
 #### Status
 ACCEPTED

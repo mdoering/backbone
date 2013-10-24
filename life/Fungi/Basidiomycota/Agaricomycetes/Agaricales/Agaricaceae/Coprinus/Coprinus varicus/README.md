@@ -1,5 +1,4 @@
-Coprinus varicus Fr. SPECIES
-=======
+# Coprinus varicus Fr. SPECIES
 
 #### Status
 ACCEPTED

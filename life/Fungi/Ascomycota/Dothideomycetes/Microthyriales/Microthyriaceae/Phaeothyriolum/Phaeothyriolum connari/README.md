@@ -1,5 +1,4 @@
-Phaeothyriolum connari Bat. & H. Maia SPECIES
-=======
+# Phaeothyriolum connari Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

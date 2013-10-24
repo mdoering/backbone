@@ -1,5 +1,4 @@
-Buellia naraujitana Zahlbr. SPECIES
-=======
+# Buellia naraujitana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

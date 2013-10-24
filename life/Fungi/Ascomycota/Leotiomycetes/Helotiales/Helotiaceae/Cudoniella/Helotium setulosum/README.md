@@ -1,5 +1,4 @@
-Helotium setulosum (A.H. Sm.) Redhead SPECIES
-=======
+# Helotium setulosum (A.H. Sm.) Redhead SPECIES
 
 #### Status
 ACCEPTED

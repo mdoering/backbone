@@ -1,5 +1,4 @@
-Stagonospora marssonia Siemaszko SPECIES
-=======
+# Stagonospora marssonia Siemaszko SPECIES
 
 #### Status
 ACCEPTED

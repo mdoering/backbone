@@ -1,5 +1,4 @@
-Haplographium penicilloides Fautrey SPECIES
-=======
+# Haplographium penicilloides Fautrey SPECIES
 
 #### Status
 ACCEPTED

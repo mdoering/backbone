@@ -1,5 +1,4 @@
-Phoma tridacis Wehm. SPECIES
-=======
+# Phoma tridacis Wehm. SPECIES
 
 #### Status
 ACCEPTED

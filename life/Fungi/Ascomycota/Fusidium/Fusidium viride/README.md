@@ -1,5 +1,4 @@
-Fusidium viride Grove, 1885 SPECIES
-=======
+# Fusidium viride Grove, 1885 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius caryotis Soop, 2001 SPECIES
-=======
+# Cortinarius caryotis Soop, 2001 SPECIES
 
 #### Status
 ACCEPTED

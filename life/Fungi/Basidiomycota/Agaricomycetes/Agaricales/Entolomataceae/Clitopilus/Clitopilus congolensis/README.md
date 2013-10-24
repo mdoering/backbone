@@ -1,5 +1,4 @@
-Clitopilus congolensis Beeli SPECIES
-=======
+# Clitopilus congolensis Beeli SPECIES
 
 #### Status
 ACCEPTED

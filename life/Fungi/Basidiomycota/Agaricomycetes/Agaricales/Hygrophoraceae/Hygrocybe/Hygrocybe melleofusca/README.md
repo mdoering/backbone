@@ -1,5 +1,4 @@
-Hygrocybe melleofusca Lodge & Pegler SPECIES
-=======
+# Hygrocybe melleofusca Lodge & Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Caeoma himalayensis Suj. Singh, S.N. Khan & B.M. Misra SPECIES
-=======
+# Caeoma himalayense Suj. Singh, S.N. Khan & B.M. Misra SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Forester 113(5): 360 (1987)
 
 #### Original name
-Caeoma himalayensis Suj. Singh, S.N. Khan & B.M. Misra
+Caeoma himalayense Suj. Singh, S.N. Khan & B.M. Misra
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Krebsina okinawaensis Hatta, 1992 SPECIES
-=======
+# Krebsina okinawaensis Hatta, 1992 SPECIES
 
 #### Status
 ACCEPTED

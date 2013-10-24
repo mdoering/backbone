@@ -1,5 +1,4 @@
-Planitrichidium Yankovskij, 1979 GENUS
-=======
+# Planitrichidium Yankovskij, 1979 GENUS
 
 #### Status
 ACCEPTED

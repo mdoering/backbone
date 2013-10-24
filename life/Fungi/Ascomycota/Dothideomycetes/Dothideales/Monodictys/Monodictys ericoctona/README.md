@@ -1,5 +1,4 @@
-Monodictys ericoctona (A. Braun & de Bary) Matsush. SPECIES
-=======
+# Monodictys ericoctona (A. Braun & de Bary) Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synhymenia hisioensis (Ozaki & Yagiu, 1941) Jankowski, 1992 SPECIES
-=======
+# Synhymenia hisioensis (Ozaki & Yagiu, 1941) Jankowski, 1992 SPECIES
 
 #### Status
 ACCEPTED

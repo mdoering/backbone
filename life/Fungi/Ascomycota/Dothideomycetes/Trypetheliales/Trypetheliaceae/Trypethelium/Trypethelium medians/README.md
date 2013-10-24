@@ -1,5 +1,4 @@
-Trypethelium medians Harm. SPECIES
-=======
+# Trypethelium medians Harm. SPECIES
 
 #### Status
 ACCEPTED

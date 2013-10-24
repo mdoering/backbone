@@ -1,5 +1,4 @@
-Volvaria submyochroa Clem. SPECIES
-=======
+# Volvaria submyochroa Clem. SPECIES
 
 #### Status
 ACCEPTED

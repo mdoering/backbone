@@ -1,5 +1,4 @@
-Clitocybe pausiaca (Fr.) Gillet SPECIES
-=======
+# Clitocybe pausiaca (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

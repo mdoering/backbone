@@ -1,5 +1,4 @@
-Lecidea incerta Nyl. SPECIES
-=======
+# Lecidea incerta Nyl. SPECIES
 
 #### Status
 ACCEPTED

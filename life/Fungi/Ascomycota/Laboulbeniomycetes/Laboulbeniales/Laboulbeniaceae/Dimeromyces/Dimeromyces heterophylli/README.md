@@ -1,5 +1,4 @@
-Dimeromyces heterophylli Thaxt. SPECIES
-=======
+# Dimeromyces heterophylli Thaxt. SPECIES
 
 #### Status
 ACCEPTED

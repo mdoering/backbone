@@ -1,14 +1,13 @@
-Gloeoporus retamoanus (Rajchenb.) Zmitr. & Spirin, 2006 SPECIES
-=======
+# Ceriporia retamoana Rajchenb., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Zmitrovich, Malysheva & Spirin, Mycena 6: 36 (2006)
+Karstenia 40(1-2): 143 (2000)
 
 #### Original name
 Ceriporia retamoana Rajchenb., 2000

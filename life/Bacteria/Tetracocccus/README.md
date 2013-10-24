@@ -1,5 +1,4 @@
-Tetracocccus GENUS
-=======
+# Tetracocccus GENUS
 
 #### Status
 ACCEPTED

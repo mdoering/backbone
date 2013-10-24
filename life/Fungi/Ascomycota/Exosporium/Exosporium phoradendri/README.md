@@ -1,5 +1,4 @@
-Exosporium phoradendri Tharp SPECIES
-=======
+# Exosporium phoradendri Tharp SPECIES
 
 #### Status
 ACCEPTED

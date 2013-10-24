@@ -1,5 +1,4 @@
-Polystictus poecilus Berk. SPECIES
-=======
+# Polystictus poecilus Berk. SPECIES
 
 #### Status
 ACCEPTED

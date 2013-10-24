@@ -1,5 +1,4 @@
-Mycena (Persoon) Roussel, 1806 GENUS
-=======
+# Mycena (Persoon) Roussel, 1806 GENUS
 
 #### Status
 ACCEPTED

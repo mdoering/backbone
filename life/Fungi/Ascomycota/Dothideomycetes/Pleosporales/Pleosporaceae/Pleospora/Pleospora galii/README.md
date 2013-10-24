@@ -1,5 +1,4 @@
-Pleospora galii Wehm. SPECIES
-=======
+# Pleospora galii Wehm. SPECIES
 
 #### Status
 ACCEPTED

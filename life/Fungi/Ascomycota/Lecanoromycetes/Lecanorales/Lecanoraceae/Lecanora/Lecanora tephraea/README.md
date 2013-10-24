@@ -1,5 +1,4 @@
-Lecanora tephraea Körb. SPECIES
-=======
+# Lecanora tephraea Körb. SPECIES
 
 #### Status
 ACCEPTED

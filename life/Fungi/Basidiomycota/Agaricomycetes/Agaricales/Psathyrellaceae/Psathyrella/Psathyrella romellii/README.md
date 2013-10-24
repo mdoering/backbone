@@ -1,5 +1,4 @@
-Psathyrella romellii Örstadius SPECIES
-=======
+# Psathyrella romellii Örstadius SPECIES
 
 #### Status
 ACCEPTED

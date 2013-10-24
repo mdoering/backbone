@@ -1,5 +1,4 @@
-Heteroaulax Diesing GENUS
-=======
+# Heteroaulax Diesing GENUS
 
 #### Status
 ACCEPTED

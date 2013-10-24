@@ -1,5 +1,4 @@
-Uromyces minimus Davis SPECIES
-=======
+# Uromyces minimus Davis SPECIES
 
 #### Status
 ACCEPTED

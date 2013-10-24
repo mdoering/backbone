@@ -1,8 +1,7 @@
-Acineta crenata sensu Möbius, 1888 SPECIES
-=======
+# Paracineta mobiusi Kahl, 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

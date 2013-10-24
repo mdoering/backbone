@@ -1,5 +1,4 @@
-Cortinarius cucumeris E. Horak, 1990 SPECIES
-=======
+# Cortinarius cucumeris E. Horak, 1990 SPECIES
 
 #### Status
 ACCEPTED

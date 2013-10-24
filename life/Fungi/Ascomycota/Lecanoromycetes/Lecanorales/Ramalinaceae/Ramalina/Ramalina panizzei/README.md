@@ -1,14 +1,13 @@
-Fistulariella panizzei (De Not.) Bowler & Rundel SPECIES
-=======
+# Ramalina panizzei de Not. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Mycotaxon 6(1): 199 (1977)
+G. bot. ital. 2(1): 211 (1846)
 
 #### Original name
 Ramalina panizzei de Not.

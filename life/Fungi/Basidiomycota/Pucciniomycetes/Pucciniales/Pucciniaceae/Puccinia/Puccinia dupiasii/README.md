@@ -1,5 +1,4 @@
-Puccinia dupiasii Terrier SPECIES
-=======
+# Puccinia dupiasii Terrier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodocybe gilvoides var. gilvoides VARIETY
-=======
+# Rhodocybe gilvoides (Rick) Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Lilloa 26: 71 (1953)
 
 #### Original name
-Rhodocybe gilvoides var. gilvoides
+Clitocybe gilvoides Rick
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Cochlonema pygmaea F.R. Jones bis SPECIES
-=======
+# Cochlonema pygmaeum F.R. Jones bis, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 42: 81 (1959)
 
 #### Original name
-Cochlonema pygmaea F.R. Jones bis
+Cochlonema pygmaeum F.R. Jones bis, 1959
 
 ### Remarks
 null

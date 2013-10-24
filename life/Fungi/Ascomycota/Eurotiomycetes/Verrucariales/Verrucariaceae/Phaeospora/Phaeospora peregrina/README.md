@@ -1,5 +1,4 @@
-Phaeospora peregrina (Flot.) Arnold SPECIES
-=======
+# Phaeospora peregrina (Flot.) Arnold SPECIES
 
 #### Status
 ACCEPTED

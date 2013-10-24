@@ -1,14 +1,13 @@
-Dicaeoma asarinum (Kunze) Kuntze, 1898 SPECIES
-=======
+# Puccinia asarina Kunze, 1817 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 467 (1898)
+in Kunze & Schmidt, Mykologische Hefte (Leipzig) 1: 70 (1817)
 
 #### Original name
 Puccinia asarina Kunze, 1817

@@ -1,5 +1,4 @@
-Sciodothis leucoplaca (Müll. Arg.) Clem. SPECIES
-=======
+# Sciodothis leucoplaca (Müll. Arg.) Clem. SPECIES
 
 #### Status
 ACCEPTED

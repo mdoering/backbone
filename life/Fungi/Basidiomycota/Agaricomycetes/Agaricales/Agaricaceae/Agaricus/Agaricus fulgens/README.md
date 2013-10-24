@@ -1,5 +1,4 @@
-Agaricus fulgens Alb. & Schwein. SPECIES
-=======
+# Agaricus fulgens Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

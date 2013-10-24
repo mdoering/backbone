@@ -1,5 +1,4 @@
-Usnea aculeata Motyka SPECIES
-=======
+# Usnea aculeata Motyka SPECIES
 
 #### Status
 ACCEPTED

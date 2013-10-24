@@ -1,5 +1,4 @@
-Erysiphe verbenicola U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe verbenicola U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

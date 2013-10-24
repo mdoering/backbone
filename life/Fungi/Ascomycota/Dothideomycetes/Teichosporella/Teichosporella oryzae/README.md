@@ -1,5 +1,4 @@
-Teichosporella oryzae Bat. & Gayão SPECIES
-=======
+# Teichosporella oryzae Bat. & Gayão SPECIES
 
 #### Status
 ACCEPTED

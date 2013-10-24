@@ -1,5 +1,4 @@
-Balantidium marsupialis Hegner, 1934 SPECIES
-=======
+# Balantidium marsupialis Hegner, 1934 SPECIES
 
 #### Status
 ACCEPTED

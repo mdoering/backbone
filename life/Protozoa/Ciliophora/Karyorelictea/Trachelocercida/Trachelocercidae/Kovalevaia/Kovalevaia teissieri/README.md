@@ -1,8 +1,7 @@
-Tracheloraphis teissieri Dragesco, 1960 SPECIES
-=======
+# Kovalevaia teissieri (Dragesco, 1960) Foissner, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

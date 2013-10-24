@@ -1,5 +1,4 @@
-Biatorina synothea (Ach.) Körb. SPECIES
-=======
+# Biatorina synothea (Ach.) Körb. SPECIES
 
 #### Status
 ACCEPTED

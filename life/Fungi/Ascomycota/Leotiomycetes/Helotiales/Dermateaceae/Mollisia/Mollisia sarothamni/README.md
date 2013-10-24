@@ -1,5 +1,4 @@
-Mollisia sarothamni Velen. SPECIES
-=======
+# Mollisia sarothamni Velen. SPECIES
 
 #### Status
 ACCEPTED

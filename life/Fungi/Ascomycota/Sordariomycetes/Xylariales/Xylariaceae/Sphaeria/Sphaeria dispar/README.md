@@ -1,5 +1,4 @@
-Sphaeria dispar Fr. SPECIES
-=======
+# Sphaeria dispar Fr. SPECIES
 
 #### Status
 ACCEPTED

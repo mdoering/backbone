@@ -1,5 +1,4 @@
-Batarrea Persoon, 1801 GENUS
-=======
+# Batarrea Persoon, 1801 GENUS
 
 #### Status
 ACCEPTED

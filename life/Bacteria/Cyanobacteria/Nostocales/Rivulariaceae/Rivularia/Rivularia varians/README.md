@@ -1,5 +1,4 @@
-Rivularia varians Obenlüneschloss SPECIES
-=======
+# Rivularia varians Obenlüneschloss SPECIES
 
 #### Status
 ACCEPTED

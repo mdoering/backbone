@@ -1,5 +1,4 @@
-Anachoreta O'Dogherty, 1994 GENUS
-=======
+# Anachoreta O'Dogherty, 1994 GENUS
 
 #### Status
 ACCEPTED

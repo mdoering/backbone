@@ -1,14 +1,13 @@
-Mucor nederlandicus Vánová, 1991 SPECIES
-=======
+# Mucor subtilissimus Oudem., 1898 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 45(3): 128 (1991)
+Ned. kruidk. Archf, 3 sér. 1: 463 (1898)
 
 #### Original name
 Mucor subtilissimus Oudem., 1898

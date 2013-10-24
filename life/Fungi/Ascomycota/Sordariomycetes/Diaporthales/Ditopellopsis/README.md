@@ -1,5 +1,4 @@
-Ditopellopsis J. Reid & C. Booth GENUS
-=======
+# Ditopellopsis J. Reid & C. Booth GENUS
 
 #### Status
 ACCEPTED

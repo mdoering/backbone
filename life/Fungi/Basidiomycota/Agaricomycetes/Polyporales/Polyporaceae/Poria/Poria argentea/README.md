@@ -1,5 +1,4 @@
-Poria argentea Ehrenb. SPECIES
-=======
+# Poria argentea Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

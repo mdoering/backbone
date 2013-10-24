@@ -1,5 +1,4 @@
-Phomopsis aloës-percrassae Trinchieri SPECIES
-=======
+# Phomopsis aloës-percrassae Trinchieri SPECIES
 
 #### Status
 ACCEPTED

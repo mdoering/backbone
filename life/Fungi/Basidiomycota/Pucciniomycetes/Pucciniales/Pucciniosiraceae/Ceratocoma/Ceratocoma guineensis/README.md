@@ -1,14 +1,13 @@
-Endophylloides guineensis Vienn.-Bourg., 1959 SPECIES
-=======
+# Ceratocoma guineensis (Vienn.-Bourg.) Buriticá, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Inst. natn. agron. , Paris 45: 21 and 25 [of reprint] (1959)
+Revta Acad. colomb. cienc. exact. fís. nat. 18(no. 69): 146 (1991)
 
 #### Original name
 Endophylloides guineensis Vienn.-Bourg., 1959

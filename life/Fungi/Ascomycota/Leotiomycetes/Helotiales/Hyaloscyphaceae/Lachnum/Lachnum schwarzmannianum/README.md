@@ -1,5 +1,4 @@
-Lachnum schwarzmannianum Kazhieva {?} SPECIES
-=======
+# Lachnum schwarzmannianum Kazhieva {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Carlia morthieri (Fuckel) Höhn., 1930 SPECIES
-=======
+# Phyllachora morthieri (Fuckel) Fuckel, 1870 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

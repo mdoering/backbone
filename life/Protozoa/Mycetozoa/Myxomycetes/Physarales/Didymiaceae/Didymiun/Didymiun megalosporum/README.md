@@ -1,5 +1,4 @@
-Didymiun megalosporum Berk. & Curt. SPECIES
-=======
+# Didymiun megalosporum Berk. & Curt. SPECIES
 
 #### Status
 ACCEPTED

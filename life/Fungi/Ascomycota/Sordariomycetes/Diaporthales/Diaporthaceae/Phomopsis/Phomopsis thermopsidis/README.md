@@ -1,5 +1,4 @@
-Phomopsis thermopsidis N.F. Buchw. SPECIES
-=======
+# Phomopsis thermopsidis N.F. Buchw. SPECIES
 
 #### Status
 ACCEPTED

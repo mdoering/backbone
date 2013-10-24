@@ -1,5 +1,4 @@
-Perisporiopsis lophirae (Deighton) Arx SPECIES
-=======
+# Perisporiopsis lophirae (Deighton) Arx SPECIES
 
 #### Status
 ACCEPTED

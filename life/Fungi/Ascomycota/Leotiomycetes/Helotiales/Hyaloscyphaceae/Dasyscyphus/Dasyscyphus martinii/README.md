@@ -1,17 +1,16 @@
-Dasyscypha martinii Dennis SPECIES
-=======
+# Dasyscyphus martinii Dennis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kew Bull. 9(2): 303 (1954)
 
 #### Original name
-Dasyscypha martinii Dennis
+Dasyscyphella acutipila E.K. Cash
 
 ### Remarks
 null

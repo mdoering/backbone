@@ -1,5 +1,4 @@
-Aspergillus taichungensis Yaguchi, Someya & Udagawa, 1995 SPECIES
-=======
+# Aspergillus taichungensis Yaguchi, Someya & Udagawa, 1995 SPECIES
 
 #### Status
 ACCEPTED

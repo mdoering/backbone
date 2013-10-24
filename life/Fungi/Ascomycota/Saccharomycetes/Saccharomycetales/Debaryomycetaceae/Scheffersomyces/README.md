@@ -1,5 +1,4 @@
-Scheffersomyces GENUS
-=======
+# Scheffersomyces GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Aecidium brunswigiae Henn. SPECIES
-=======
+# Aecidium brunsvigiae Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 37: 294 (1898)
 
 #### Original name
-Aecidium brunswigiae Henn.
+Aecidium brunsvigiae Henn.
 
 ### Remarks
 null

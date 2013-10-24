@@ -1,5 +1,4 @@
-Popovia Suleimanov, 1965 GENUS
-=======
+# Popovia Suleimanov, 1965 GENUS
 
 #### Status
 ACCEPTED

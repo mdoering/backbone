@@ -1,5 +1,4 @@
-Lachnea lysimachiae Velen. SPECIES
-=======
+# Lachnea lysimachiae Velen. SPECIES
 
 #### Status
 ACCEPTED

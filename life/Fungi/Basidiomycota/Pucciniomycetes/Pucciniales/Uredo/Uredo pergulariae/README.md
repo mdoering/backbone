@@ -1,5 +1,4 @@
-Uredo pergulariae Cummins SPECIES
-=======
+# Uredo pergulariae Cummins SPECIES
 
 #### Status
 ACCEPTED

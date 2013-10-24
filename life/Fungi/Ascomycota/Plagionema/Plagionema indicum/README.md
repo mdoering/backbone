@@ -1,17 +1,16 @@
-Plagionema indica Subram. & K. Ramakr. SPECIES
-=======
+# Plagionema indicum Subram. & K. Ramakr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Indian bot. Soc. 323: 136 (1953)
 
 #### Original name
-Plagionema indica Subram. & K. Ramakr.
+Plagionema indicum Subram. & K. Ramakr.
 
 ### Remarks
 null

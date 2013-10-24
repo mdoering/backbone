@@ -1,5 +1,4 @@
-Phoma broussonetiae Sacc. SPECIES
-=======
+# Phoma broussonetiae Sacc. SPECIES
 
 #### Status
 ACCEPTED

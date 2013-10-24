@@ -1,17 +1,16 @@
-Bacidiomyces Cif. & Tomas. GENUS
-=======
+# Bacidia De Not. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 39, 65 (1953)
+G. bot. ital. 2(1. 1): 189 (1846)
 
 #### Original name
-Bacidiomyces Cif. & Tomas.
+Bacidia De Not.
 
 ### Remarks
 null

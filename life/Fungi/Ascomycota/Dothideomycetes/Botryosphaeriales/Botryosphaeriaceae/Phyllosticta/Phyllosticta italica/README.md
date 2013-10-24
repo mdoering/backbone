@@ -1,5 +1,4 @@
-Phyllosticta italica Montem. SPECIES
-=======
+# Phyllosticta italica Montem. SPECIES
 
 #### Status
 ACCEPTED

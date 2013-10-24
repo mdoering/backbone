@@ -1,5 +1,4 @@
-Cortinarius caledoniensis P.D. Orton, 1964 SPECIES
-=======
+# Cortinarius caledoniensis P.D. Orton, 1964 SPECIES
 
 #### Status
 ACCEPTED

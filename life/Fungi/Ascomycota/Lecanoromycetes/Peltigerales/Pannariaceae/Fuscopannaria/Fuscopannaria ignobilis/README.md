@@ -1,17 +1,16 @@
-Pannaria servitiana Gyeln. SPECIES
-=======
+# Fuscopannaria ignobilis (Anzi) P. M. Jørg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rabenhorst's Kryptogamenflora (Leipzig) 9(2,2): 237 (1940)
+J. Hattori bot. Lab. 76: 205 (1994)
 
 #### Original name
-Pannaria servitiana Gyeln.
+Pannaria ignobilis Anzi
 
 ### Remarks
 null

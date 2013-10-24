@@ -1,5 +1,4 @@
-Merismopedia affixa Richter SPECIES
-=======
+# Merismopedia affixa Richter SPECIES
 
 #### Status
 ACCEPTED

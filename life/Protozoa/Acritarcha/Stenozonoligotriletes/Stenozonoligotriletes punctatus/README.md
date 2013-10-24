@@ -1,5 +1,4 @@
-Stenozonoligotriletes punctatus Timofeev, 1959 SPECIES
-=======
+# Stenozonoligotriletes punctatus Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lenormandia GENUS
-=======
+# Lenormandia GENUS
 
 #### Status
 ACCEPTED

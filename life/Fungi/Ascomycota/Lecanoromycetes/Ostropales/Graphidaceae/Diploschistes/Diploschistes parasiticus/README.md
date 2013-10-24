@@ -1,5 +1,4 @@
-Diploschistes parasiticus Sommerf. SPECIES
-=======
+# Diploschistes parasiticus Sommerf. SPECIES
 
 #### Status
 ACCEPTED

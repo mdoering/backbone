@@ -1,5 +1,4 @@
-Balansia discoidea Henn. SPECIES
-=======
+# Balansia discoidea Henn. SPECIES
 
 #### Status
 ACCEPTED

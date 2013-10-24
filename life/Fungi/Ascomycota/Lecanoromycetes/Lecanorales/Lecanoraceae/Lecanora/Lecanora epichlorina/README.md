@@ -1,5 +1,4 @@
-Lecanora epichlorina f. epichlorina FORM
-=======
+# Lecanora epichlorina Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora epichlorina f. epichlorina
+Lecanora epichlorina Vain.
 
 ### Remarks
 null

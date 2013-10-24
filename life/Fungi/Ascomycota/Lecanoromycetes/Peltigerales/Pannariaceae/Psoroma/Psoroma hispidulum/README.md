@@ -1,5 +1,4 @@
-Psoroma hispidulum Nyl. SPECIES
-=======
+# Psoroma hispidulum Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metadiplodia Syd. GENUS
-=======
+# Metadiplodia Syd. GENUS
 
 #### Status
 ACCEPTED

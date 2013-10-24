@@ -1,5 +1,4 @@
-Polyblastiopsis elactescens (Nyl.) Zahlbr. SPECIES
-=======
+# Polyblastiopsis elactescens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

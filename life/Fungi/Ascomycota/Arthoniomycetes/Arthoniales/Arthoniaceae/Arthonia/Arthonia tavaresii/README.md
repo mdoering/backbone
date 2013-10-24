@@ -1,5 +1,4 @@
-Arthonia tavaresii Grube & Hafellner SPECIES
-=======
+# Arthonia tavaresii Grube & Hafellner SPECIES
 
 #### Status
 ACCEPTED

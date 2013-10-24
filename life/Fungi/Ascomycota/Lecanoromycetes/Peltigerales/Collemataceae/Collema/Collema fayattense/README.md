@@ -1,5 +1,4 @@
-Collema fayattense SPECIES
-=======
+# Collema fayattense SPECIES
 
 #### Status
 ACCEPTED

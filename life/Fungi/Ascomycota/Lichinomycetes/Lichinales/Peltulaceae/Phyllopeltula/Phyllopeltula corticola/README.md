@@ -1,5 +1,4 @@
-Phyllopeltula corticola (Büdel & R. Sant.) Kalb SPECIES
-=======
+# Phyllopeltula corticola (Büdel & R. Sant.) Kalb SPECIES
 
 #### Status
 ACCEPTED

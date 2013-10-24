@@ -1,5 +1,4 @@
-Haloferax elongans Allen, Goh, Leuko, Echigo, Mizuki, Usami, Kamekura, Neilan & Burns, 2008 SPECIES
-=======
+# Haloferax elongans Allen, Goh, Leuko, Echigo, Mizuki, Usami, Kamekura, Neilan & Burns, 2008 SPECIES
 
 #### Status
 ACCEPTED

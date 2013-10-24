@@ -1,5 +1,4 @@
-Corynesporella helminthosporioides Hol.-Jech. SPECIES
-=======
+# Corynesporella helminthosporioides Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strobilomyces subnudus J.Z. Ying SPECIES
-=======
+# Strobilomyces subnudus J.Z. Ying SPECIES
 
 #### Status
 ACCEPTED

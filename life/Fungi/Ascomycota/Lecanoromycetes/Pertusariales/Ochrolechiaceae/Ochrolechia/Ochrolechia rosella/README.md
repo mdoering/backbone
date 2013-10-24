@@ -1,5 +1,4 @@
-Ochrolechia rosella f. sorediascens Poelt FORM
-=======
+# Ochrolechia rosella (Müll. Arg.) Verseghy SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ochrolechia rosella f. sorediascens Poelt
+Pertusaria pallescens var. rosella Müll. Arg.
 
 ### Remarks
 null

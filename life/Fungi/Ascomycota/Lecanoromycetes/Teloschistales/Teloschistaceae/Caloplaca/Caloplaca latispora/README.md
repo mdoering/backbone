@@ -1,5 +1,4 @@
-Caloplaca latispora (Lynge) H. Magn. SPECIES
-=======
+# Caloplaca latispora (Lynge) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

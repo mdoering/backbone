@@ -1,14 +1,13 @@
-Kluyveromyces bacillisporus Lachance, Phaff & Starmer, 1993 SPECIES
-=======
+# Nakaseomyces bacillisporus (Lachance, Phaff & Starmer) Kurtzman, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Int. J. Syst. Bacteriol. 43(1): 116 (1993)
+FEMS Yeast Res. 4(3): 240 (2003)
 
 #### Original name
 Kluyveromyces bacillisporus Lachance, Phaff & Starmer, 1993

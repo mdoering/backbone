@@ -1,5 +1,4 @@
-Cortinarius castaneicolor A.H. Sm. SPECIES
-=======
+# Cortinarius castaneicolor A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

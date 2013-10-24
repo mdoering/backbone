@@ -1,5 +1,4 @@
-Hendersonia conspurcata Sacc., E. Bommer & M. Rousseau SPECIES
-=======
+# Hendersonia conspurcata Sacc., E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

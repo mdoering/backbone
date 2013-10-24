@@ -1,5 +1,4 @@
-Omphalia chondripes Berk. & M.A. Curtis SPECIES
-=======
+# Omphalia chondripes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

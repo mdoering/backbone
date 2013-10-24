@@ -1,5 +1,4 @@
-Paravalsa indica Ananthap., 1990 SPECIES
-=======
+# Paravalsa indica Ananthap., 1990 SPECIES
 
 #### Status
 ACCEPTED

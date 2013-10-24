@@ -1,5 +1,4 @@
-Entophysalis papillosa (Kützing) Drouet & Daily SPECIES
-=======
+# Entophysalis papillosa (Kützing) Drouet & Daily SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coryne unicolor Berk. & M.A. Curtis SPECIES
-=======
+# Coryne unicolor Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

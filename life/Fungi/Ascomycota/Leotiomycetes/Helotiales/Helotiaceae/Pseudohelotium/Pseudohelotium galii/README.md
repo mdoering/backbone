@@ -1,5 +1,4 @@
-Pseudohelotium galii Mouton SPECIES
-=======
+# Pseudohelotium galii Mouton SPECIES
 
 #### Status
 ACCEPTED

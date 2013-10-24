@@ -1,5 +1,4 @@
-Cercospora cassiae Henn. SPECIES
-=======
+# Cercospora cassiae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oxytricha histrioides Gellert, 1957 SPECIES
-=======
+# Oxytricha histrioides Gellert, 1957 SPECIES
 
 #### Status
 ACCEPTED

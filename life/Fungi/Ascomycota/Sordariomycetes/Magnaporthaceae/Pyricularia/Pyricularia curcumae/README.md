@@ -1,5 +1,4 @@
-Pyricularia curcumae Rathaiah SPECIES
-=======
+# Pyricularia curcumae Rathaiah SPECIES
 
 #### Status
 ACCEPTED

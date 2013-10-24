@@ -1,5 +1,4 @@
-Rhabdospora gentianae Died. SPECIES
-=======
+# Rhabdospora gentianae Died. SPECIES
 
 #### Status
 ACCEPTED

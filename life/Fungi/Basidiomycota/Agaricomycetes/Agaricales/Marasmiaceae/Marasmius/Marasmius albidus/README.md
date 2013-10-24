@@ -1,5 +1,4 @@
-Marasmius albidus (Cleland) Grgur. SPECIES
-=======
+# Marasmius albidus (Cleland) Grgur. SPECIES
 
 #### Status
 ACCEPTED

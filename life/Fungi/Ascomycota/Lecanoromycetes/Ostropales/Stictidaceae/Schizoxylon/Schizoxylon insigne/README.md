@@ -1,5 +1,4 @@
-Schizoxylon insigne (De Not.) Rehm SPECIES
-=======
+# Schizoxylon insigne (De Not.) Rehm SPECIES
 
 #### Status
 ACCEPTED

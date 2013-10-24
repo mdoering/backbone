@@ -1,5 +1,4 @@
-Collodochium atroviolaceum Höhn., 1902 SPECIES
-=======
+# Collodochium atroviolaceum Höhn., 1902 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycothyridium floridanum (Petr.) Petr. SPECIES
-=======
+# Mycothyridium floridanum (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

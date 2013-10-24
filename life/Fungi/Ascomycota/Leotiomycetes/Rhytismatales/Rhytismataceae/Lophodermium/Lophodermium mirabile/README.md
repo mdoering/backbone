@@ -1,5 +1,4 @@
-Lophodermium mirabile Y.R. Lin SPECIES
-=======
+# Lophodermium mirabile Y.R. Lin SPECIES
 
 #### Status
 ACCEPTED

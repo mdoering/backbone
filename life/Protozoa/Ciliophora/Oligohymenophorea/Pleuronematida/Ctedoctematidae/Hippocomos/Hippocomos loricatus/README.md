@@ -1,5 +1,4 @@
-Hippocomos loricatus Czapik & Jordan, 1977 SPECIES
-=======
+# Hippocomos loricatus Czapik & Jordan, 1977 SPECIES
 
 #### Status
 ACCEPTED

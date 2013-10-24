@@ -1,5 +1,4 @@
-Rinodina constrictula H. Magn. SPECIES
-=======
+# Rinodina constrictula H. Magn. SPECIES
 
 #### Status
 ACCEPTED

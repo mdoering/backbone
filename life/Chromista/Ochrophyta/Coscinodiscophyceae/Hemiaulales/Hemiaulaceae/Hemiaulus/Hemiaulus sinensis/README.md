@@ -1,5 +1,4 @@
-Hemiaulus sinensis Greville, 1865 SPECIES
-=======
+# Hemiaulus sinensis Greville, 1865 SPECIES
 
 #### Status
 ACCEPTED

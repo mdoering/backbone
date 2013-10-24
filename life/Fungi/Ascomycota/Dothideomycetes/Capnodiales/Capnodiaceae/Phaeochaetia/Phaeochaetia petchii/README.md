@@ -1,5 +1,4 @@
-Phaeochaetia petchii (Hansf.) Bat. & Cif. SPECIES
-=======
+# Phaeochaetia petchii (Hansf.) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

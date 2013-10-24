@@ -1,5 +1,4 @@
-Lecidea glandulosa C. Knight SPECIES
-=======
+# Lecidea glandulosa C. Knight SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acanthothecis celata B. O. Sharma, Makhija & Khadilkar SPECIES
-=======
+# Acanthothecis celata B. O. Sharma, Makhija & Khadilkar SPECIES
 
 #### Status
 ACCEPTED

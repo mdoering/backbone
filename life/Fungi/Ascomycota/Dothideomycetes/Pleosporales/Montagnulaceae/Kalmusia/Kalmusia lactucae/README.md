@@ -1,5 +1,4 @@
-Kalmusia lactucae Rehm SPECIES
-=======
+# Kalmusia lactucae Rehm SPECIES
 
 #### Status
 ACCEPTED

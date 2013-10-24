@@ -1,8 +1,7 @@
-Labrospira kosterensis Höglund, 1947 SPECIES
-=======
+# Cribrostomoides kosterensis (Höglund, 1947) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

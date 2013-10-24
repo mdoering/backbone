@@ -1,5 +1,4 @@
-Staurothele mediterranea f. mediterranea B. de Lesd. FORM
-=======
+# Staurothele mediterranea B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Staurothele mediterranea f. mediterranea B. de Lesd.
+Staurothele mediterranea B. de Lesd.
 
 ### Remarks
 null

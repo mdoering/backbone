@@ -1,5 +1,4 @@
-Candelariella faginea Nimis, Poelt & Puntillo SPECIES
-=======
+# Candelariella faginea Nimis, Poelt & Puntillo SPECIES
 
 #### Status
 ACCEPTED

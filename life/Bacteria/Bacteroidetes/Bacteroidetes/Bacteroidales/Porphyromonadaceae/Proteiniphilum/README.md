@@ -1,5 +1,4 @@
-Proteiniphilum Chen & Dong, 2005 GENUS
-=======
+# Proteiniphilum Chen & Dong, 2005 GENUS
 
 #### Status
 ACCEPTED

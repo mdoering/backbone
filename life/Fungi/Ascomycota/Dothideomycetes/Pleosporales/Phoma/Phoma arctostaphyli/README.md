@@ -1,5 +1,4 @@
-Phoma arctostaphyli Vestergr. SPECIES
-=======
+# Phoma arctostaphyli Vestergr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blastocladia glomerata Sparrow, 1936 SPECIES
-=======
+# Blastocladia glomerata Sparrow, 1936 SPECIES
 
 #### Status
 ACCEPTED

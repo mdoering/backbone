@@ -1,5 +1,4 @@
-Rhizopogon chamaleontinus K.A. Harrison & A.H. Sm. SPECIES
-=======
+# Rhizopogon chamaleontinus K.A. Harrison & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

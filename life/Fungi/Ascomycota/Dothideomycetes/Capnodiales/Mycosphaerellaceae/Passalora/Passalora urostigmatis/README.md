@@ -1,5 +1,4 @@
-Passalora urostigmatis (Henn.) Crous & M.P.S. Câmara SPECIES
-=======
+# Passalora urostigmatis (Henn.) Crous & M.P.S. Câmara SPECIES
 
 #### Status
 ACCEPTED

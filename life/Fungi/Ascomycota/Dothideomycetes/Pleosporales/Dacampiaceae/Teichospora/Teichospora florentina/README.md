@@ -1,5 +1,4 @@
-Teichospora florentina Berl. SPECIES
-=======
+# Teichospora florentina Berl. SPECIES
 
 #### Status
 ACCEPTED

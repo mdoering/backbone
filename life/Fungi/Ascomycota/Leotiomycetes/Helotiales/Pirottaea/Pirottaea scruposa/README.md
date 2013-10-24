@@ -1,5 +1,4 @@
-Pirottaea scruposa Velen. SPECIES
-=======
+# Pirottaea scruposa Velen. SPECIES
 
 #### Status
 ACCEPTED

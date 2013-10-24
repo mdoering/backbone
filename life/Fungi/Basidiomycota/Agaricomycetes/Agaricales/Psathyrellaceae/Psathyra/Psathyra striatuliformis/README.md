@@ -1,5 +1,4 @@
-Psathyra striatuliformis Murrill SPECIES
-=======
+# Psathyra striatuliformis Murrill SPECIES
 
 #### Status
 ACCEPTED

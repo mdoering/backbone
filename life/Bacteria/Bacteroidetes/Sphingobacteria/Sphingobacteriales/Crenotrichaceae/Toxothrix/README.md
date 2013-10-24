@@ -1,5 +1,4 @@
-Toxothrix GENUS
-=======
+# Toxothrix GENUS
 
 #### Status
 ACCEPTED

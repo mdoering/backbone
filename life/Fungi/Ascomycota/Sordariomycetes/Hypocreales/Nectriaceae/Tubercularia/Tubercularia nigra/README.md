@@ -1,5 +1,4 @@
-Tubercularia nigra F. Stevens SPECIES
-=======
+# Tubercularia nigra F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria larvarum Westwood SPECIES
-=======
+# Sphaeria larvarum Westwood SPECIES
 
 #### Status
 ACCEPTED

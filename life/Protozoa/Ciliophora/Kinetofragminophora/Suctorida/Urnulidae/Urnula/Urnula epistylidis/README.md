@@ -1,8 +1,7 @@
-Urnula epistylides SPECIES
-=======
+# Urnula epistylidis Claparède & Lachmann, 1857 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

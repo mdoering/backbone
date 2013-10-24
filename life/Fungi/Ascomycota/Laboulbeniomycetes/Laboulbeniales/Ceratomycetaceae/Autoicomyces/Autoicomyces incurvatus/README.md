@@ -1,5 +1,4 @@
-Autoicomyces incurvatus Thaxt. SPECIES
-=======
+# Autoicomyces incurvatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Clavicorona cristata var. cristata VARIETY
-=======
+# Artomyces cristatus (Kauffman) Jülich, 1982 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lloydia 10: 40 (1947)
+Biblthca Mycol. 85: 399 (1982)
 
 #### Original name
-Clavicorona cristata var. cristata
+Craterellus cristatus Kauffman, 1930
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Uvigerina beccarii Fornasini SPECIES
-=======
+# Uvigerina beccarii Fornasini SPECIES
 
 #### Status
 ACCEPTED

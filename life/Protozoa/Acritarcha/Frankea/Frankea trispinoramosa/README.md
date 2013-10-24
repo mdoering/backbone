@@ -1,5 +1,4 @@
-Frankea trispinoramosa (Stockmans & Willière, 1962) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Frankea trispinoramosa (Stockmans & Willière, 1962) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

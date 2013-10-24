@@ -1,5 +1,4 @@
-Heterochaete sinensis Teng SPECIES
-=======
+# Heterochaete sinensis Teng SPECIES
 
 #### Status
 ACCEPTED

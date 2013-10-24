@@ -1,5 +1,4 @@
-Leptotrema zollingeri Mont. & Bosch SPECIES
-=======
+# Leptotrema zollingeri Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

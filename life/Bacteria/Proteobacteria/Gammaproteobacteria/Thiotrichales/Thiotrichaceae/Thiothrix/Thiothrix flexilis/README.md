@@ -1,5 +1,4 @@
-Thiothrix flexilis Aruga et al., 2002 SPECIES
-=======
+# Thiothrix flexilis Aruga et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

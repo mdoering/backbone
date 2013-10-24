@@ -1,5 +1,4 @@
-Starbaeckiella elmeri (Syd.) Syd. SPECIES
-=======
+# Starbaeckiella elmeri (Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

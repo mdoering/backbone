@@ -1,5 +1,4 @@
-Passalora arachidicola (Hori) U. Braun SPECIES
-=======
+# Passalora arachidicola (Hori) U. Braun SPECIES
 
 #### Status
 ACCEPTED

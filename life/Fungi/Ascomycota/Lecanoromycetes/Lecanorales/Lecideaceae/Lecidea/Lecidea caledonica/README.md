@@ -1,5 +1,4 @@
-Lecidea caledonica Zahlbr. SPECIES
-=======
+# Lecidea caledonica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

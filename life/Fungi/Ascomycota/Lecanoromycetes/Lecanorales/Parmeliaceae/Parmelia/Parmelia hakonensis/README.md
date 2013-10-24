@@ -1,5 +1,4 @@
-Parmelia hakonensis Zahlbr. SPECIES
-=======
+# Parmelia hakonensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

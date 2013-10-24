@@ -1,5 +1,4 @@
-Polyporus squamaformis Berk. SPECIES
-=======
+# Polyporus squamaformis Berk. SPECIES
 
 #### Status
 ACCEPTED

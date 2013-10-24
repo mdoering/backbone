@@ -1,5 +1,4 @@
-Mycena sulphureoconspersa Ricken SPECIES
-=======
+# Mycena sulphureoconspersa Ricken SPECIES
 
 #### Status
 ACCEPTED

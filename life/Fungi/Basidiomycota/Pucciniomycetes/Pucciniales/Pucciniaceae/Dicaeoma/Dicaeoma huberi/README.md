@@ -1,5 +1,4 @@
-Dicaeoma huberi (Henn.) Arthur & Fromme SPECIES
-=======
+# Dicaeoma huberi (Henn.) Arthur & Fromme SPECIES
 
 #### Status
 ACCEPTED

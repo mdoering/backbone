@@ -1,5 +1,4 @@
-Volutella corticioides J. Lindau SPECIES
-=======
+# Volutella corticioides J. Lindau SPECIES
 
 #### Status
 ACCEPTED

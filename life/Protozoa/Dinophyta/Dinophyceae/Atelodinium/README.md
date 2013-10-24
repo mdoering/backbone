@@ -1,5 +1,4 @@
-Atelodinium Chatton, 1920 GENUS
-=======
+# Atelodinium Chatton, 1920 GENUS
 
 #### Status
 ACCEPTED

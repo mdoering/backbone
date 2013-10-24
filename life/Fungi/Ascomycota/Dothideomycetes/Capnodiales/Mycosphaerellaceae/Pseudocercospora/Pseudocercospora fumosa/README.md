@@ -1,5 +1,4 @@
-Pseudocercospora fumosa (Speg.) U. Braun SPECIES
-=======
+# Pseudocercospora fumosa (Speg.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

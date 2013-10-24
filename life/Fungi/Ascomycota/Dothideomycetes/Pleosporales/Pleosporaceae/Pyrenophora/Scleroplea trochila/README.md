@@ -1,5 +1,4 @@
-Scleroplea trochila (Fr.) Sacc. & P. Syd. SPECIES
-=======
+# Scleroplea trochila (Fr.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ciboria hercynica Kirschst., 1935 SPECIES
-=======
+# Rutstroemia hercynica (Kirschst.) Dennis, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 33: 205 (1935)
+Kew Bull. 16: 317 (1962)
 
 #### Original name
 Ciboria hercynica Kirschst., 1935

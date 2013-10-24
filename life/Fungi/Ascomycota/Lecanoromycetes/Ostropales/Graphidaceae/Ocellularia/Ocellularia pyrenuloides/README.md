@@ -1,5 +1,4 @@
-Ocellularia pyrenuloides Zahlbr. SPECIES
-=======
+# Ocellularia pyrenuloides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

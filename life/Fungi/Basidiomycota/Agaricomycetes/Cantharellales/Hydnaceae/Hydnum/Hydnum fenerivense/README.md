@@ -1,5 +1,4 @@
-Hydnum fenerivense Henn. SPECIES
-=======
+# Hydnum fenerivense Henn. SPECIES
 
 #### Status
 ACCEPTED

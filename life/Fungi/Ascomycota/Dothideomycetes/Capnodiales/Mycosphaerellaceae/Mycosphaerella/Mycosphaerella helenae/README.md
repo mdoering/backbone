@@ -1,5 +1,4 @@
-Mycosphaerella helenae Chevaug. SPECIES
-=======
+# Mycosphaerella helenae Chevaug. SPECIES
 
 #### Status
 ACCEPTED

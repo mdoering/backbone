@@ -1,5 +1,4 @@
-Pyrenotea rudis (Borrer) Leight. SPECIES
-=======
+# Pyrenotea rudis (Borrer) Leight. SPECIES
 
 #### Status
 ACCEPTED

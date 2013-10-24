@@ -1,5 +1,4 @@
-Balantidium ctenopharyngodonis Chen, 1955 SPECIES
-=======
+# Balantidium ctenopharyngodonis Chen, 1955 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis chondroplaca (Redinger) Lücking SPECIES
-=======
+# Graphis chondroplaca (Redinger) Lücking SPECIES
 
 #### Status
 ACCEPTED

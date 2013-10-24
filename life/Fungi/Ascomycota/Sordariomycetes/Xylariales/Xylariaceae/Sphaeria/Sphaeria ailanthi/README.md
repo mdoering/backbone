@@ -1,5 +1,4 @@
-Sphaeria ailanthi Ellis & Barthol. SPECIES
-=======
+# Sphaeria ailanthi Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

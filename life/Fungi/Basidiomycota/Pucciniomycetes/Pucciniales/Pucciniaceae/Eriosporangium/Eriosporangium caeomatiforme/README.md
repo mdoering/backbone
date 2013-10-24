@@ -1,8 +1,7 @@
-Eriosporangium caematiforme (Lagerh.) Dietel SPECIES
-=======
+# Eriosporangium caeomatiforme (Lagerh.) Dietel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

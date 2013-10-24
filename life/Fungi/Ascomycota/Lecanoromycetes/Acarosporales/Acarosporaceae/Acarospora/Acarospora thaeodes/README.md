@@ -1,5 +1,4 @@
-Acarospora thaeodes A. Massal. SPECIES
-=======
+# Acarospora thaeodes A. Massal. SPECIES
 
 #### Status
 ACCEPTED

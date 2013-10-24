@@ -1,5 +1,4 @@
-Rhizopogon molligleba A.H. Sm. SPECIES
-=======
+# Rhizopogon molligleba A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

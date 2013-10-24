@@ -1,5 +1,4 @@
-Kochmania Piatek GENUS
-=======
+# Kochmania Piatek GENUS
 
 #### Status
 ACCEPTED

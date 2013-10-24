@@ -1,5 +1,4 @@
-Lecanora microbola I.M. Lamb SPECIES
-=======
+# Lecanora microbola I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

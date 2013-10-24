@@ -1,5 +1,4 @@
-Boletus rubropruinosus Barla SPECIES
-=======
+# Boletus rubropruinosus Barla SPECIES
 
 #### Status
 ACCEPTED

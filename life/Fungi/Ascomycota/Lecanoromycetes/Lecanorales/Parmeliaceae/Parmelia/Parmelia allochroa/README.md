@@ -1,5 +1,4 @@
-Parmelia allochroa SPECIES
-=======
+# Parmelia allochroa SPECIES
 
 #### Status
 ACCEPTED

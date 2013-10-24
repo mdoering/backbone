@@ -1,5 +1,4 @@
-Helicomina indica Subram. SPECIES
-=======
+# Helicomina indica Subram. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta bignoniae Kamal, R.P. Singh & P. Kumar SPECIES
-=======
+# Ascochyta bignoniae Kamal, R.P. Singh & P. Kumar SPECIES
 
 #### Status
 ACCEPTED

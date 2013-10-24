@@ -1,8 +1,7 @@
-Penicillium katangense Stolk, 1968 SPECIES
-=======
+# Penicillium citreonigrum Dierckx, 1901 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

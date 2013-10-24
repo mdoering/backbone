@@ -1,5 +1,4 @@
-Parmelia subincana (Maheu & A. Gillet) Maheu & A. Gillet SPECIES
-=======
+# Parmelia subincana (Maheu & A. Gillet) Maheu & A. Gillet SPECIES
 
 #### Status
 ACCEPTED

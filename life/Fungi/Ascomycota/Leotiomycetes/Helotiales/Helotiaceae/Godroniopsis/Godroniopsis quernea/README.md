@@ -1,14 +1,13 @@
-Dichaena quernea (Schwein.) Petr., 1952 SPECIES
-=======
+# Godroniopsis quernea (Schwein.) Diehl & E.K. Cash, 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 6(5-6): 336 (1952)
+Mycologia 21(5): 244 (1929)
 
 #### Original name
 null

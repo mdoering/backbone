@@ -1,5 +1,4 @@
-Relicina subcoronata Elix & J. Johnst. SPECIES
-=======
+# Relicina subcoronata Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sigmoilina distorta SPECIES
-=======
+# Sigmoilina distorta SPECIES
 
 #### Status
 ACCEPTED

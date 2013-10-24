@@ -1,5 +1,4 @@
-Gliothrix Zopf GENUS
-=======
+# Gliothrix Zopf GENUS
 
 #### Status
 ACCEPTED

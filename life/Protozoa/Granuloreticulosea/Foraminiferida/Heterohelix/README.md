@@ -1,14 +1,13 @@
-Gümbelina Egger, 1889 GENUS
-=======
+# Heterohelix Ehrenberg, 1843 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Abh. Bayer. Akad. Wiss. , 21, Abt. 1, 31.
+[teste Brady, 1884, Rep. Voy. "Challenger" (Foram. ), 375, sed non comp. ].
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Helminthosporium appatternae K.S. Deshp. & K.B. Deshp. SPECIES
-=======
+# Helminthosporium appatternae K.S. Deshp. & K.B. Deshp. SPECIES
 
 #### Status
 ACCEPTED

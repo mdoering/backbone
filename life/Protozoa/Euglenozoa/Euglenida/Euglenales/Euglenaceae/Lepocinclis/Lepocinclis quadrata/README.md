@@ -1,5 +1,4 @@
-Lepocinclis quadrata (Kufferath) Conrad SPECIES
-=======
+# Lepocinclis quadrata (Kufferath) Conrad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scutellinia marginata Gamundí, 1975 SPECIES
-=======
+# Scutellinia marginata Gamundí, 1975 SPECIES
 
 #### Status
 ACCEPTED

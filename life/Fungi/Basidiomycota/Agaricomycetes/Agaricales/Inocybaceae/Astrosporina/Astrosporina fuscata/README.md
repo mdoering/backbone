@@ -1,5 +1,4 @@
-Astrosporina fuscata var. fuscata VARIETY
-=======
+# Astrosporina fuscata (Singer) E. Horak SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Fl. criptog. Tierra del Fuego 11(6): 374 (1980)
 
 #### Original name
-Astrosporina fuscata var. fuscata
+Inocybe fuscata Singer
 
 ### Remarks
 null

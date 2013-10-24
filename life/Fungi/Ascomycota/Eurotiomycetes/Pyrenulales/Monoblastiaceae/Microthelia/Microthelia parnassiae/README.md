@@ -1,5 +1,4 @@
-Microthelia parnassiae (Peck) Kuntze SPECIES
-=======
+# Microthelia parnassiae (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

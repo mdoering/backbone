@@ -1,5 +1,4 @@
-Ramicandelaber longisporus Y. Ogawa, S. Hayashi, Degawa & Y. Yaguchi, 2001 SPECIES
-=======
+# Ramicandelaber longisporus Y. Ogawa, S. Hayashi, Degawa & Y. Yaguchi, 2001 SPECIES
 
 #### Status
 ACCEPTED

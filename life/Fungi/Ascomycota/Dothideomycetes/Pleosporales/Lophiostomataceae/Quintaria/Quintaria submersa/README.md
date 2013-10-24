@@ -1,5 +1,4 @@
-Quintaria submersa K.D. Hyde & Goh, 1999 SPECIES
-=======
+# Quintaria submersa K.D. Hyde & Goh, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conocybe striatipes (Speg.) Singer SPECIES
-=======
+# Conocybe striatipes (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

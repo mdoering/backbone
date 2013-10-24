@@ -1,5 +1,4 @@
-Sphaerella rapaneae Keissl. SPECIES
-=======
+# Sphaerella rapaneae Keissl. SPECIES
 
 #### Status
 ACCEPTED

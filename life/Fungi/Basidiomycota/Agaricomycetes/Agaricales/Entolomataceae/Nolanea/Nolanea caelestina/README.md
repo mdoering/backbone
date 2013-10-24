@@ -1,5 +1,4 @@
-Nolanea caelestina (Fr.) Gillet SPECIES
-=======
+# Nolanea caelestina (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

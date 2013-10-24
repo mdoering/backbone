@@ -1,17 +1,16 @@
-Peziza hoffmanni Spreng. SPECIES
-=======
+# Peziza hoffmannii Spreng. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syst. veg. , Edn 16 4(1): 516 (1827)
 
 #### Original name
-Peziza hoffmanni Spreng.
+Peziza hoffmannii Spreng.
 
 ### Remarks
 null

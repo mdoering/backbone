@@ -1,5 +1,4 @@
-Hagenia elaeina SPECIES
-=======
+# Hagenia elaeina SPECIES
 
 #### Status
 ACCEPTED

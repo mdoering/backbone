@@ -1,5 +1,4 @@
-Uromyces cellicarpae (Petch) Fujik SPECIES
-=======
+# Uromyces cellicarpae (Petch) Fujik SPECIES
 
 #### Status
 ACCEPTED

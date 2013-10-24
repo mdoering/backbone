@@ -1,5 +1,4 @@
-Leptosphaeria pseudohleria Fairm. SPECIES
-=======
+# Leptosphaeria pseudohleria Fairm. SPECIES
 
 #### Status
 ACCEPTED

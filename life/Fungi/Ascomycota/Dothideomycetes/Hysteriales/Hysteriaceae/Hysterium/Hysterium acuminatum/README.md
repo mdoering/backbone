@@ -1,17 +1,16 @@
-Hysterium acuminatum var. alpinum Rehm VARIETY
-=======
+# Hysterium acuminatum Fr., 1819 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ber. naturw. Augsburg 26: 34 (1881)
+Vet. Akad. Handl. 92 (1819)
 
 #### Original name
-Hysterium acuminatum var. alpinum Rehm
+Hysterium acuminatum Fr., 1819
 
 ### Remarks
 null

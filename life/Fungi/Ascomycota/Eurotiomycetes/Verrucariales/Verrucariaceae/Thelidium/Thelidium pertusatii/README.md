@@ -1,5 +1,4 @@
-Thelidium pertusatii (Garov.) Jatta SPECIES
-=======
+# Thelidium pertusatii (Garov.) Jatta SPECIES
 
 #### Status
 ACCEPTED

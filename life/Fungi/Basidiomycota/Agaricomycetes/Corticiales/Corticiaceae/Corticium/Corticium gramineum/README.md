@@ -1,5 +1,4 @@
-Corticium gramineum Ikata & T. Matsuura, 1910 SPECIES
-=======
+# Corticium gramineum Ikata & T. Matsuura, 1910 SPECIES
 
 #### Status
 ACCEPTED

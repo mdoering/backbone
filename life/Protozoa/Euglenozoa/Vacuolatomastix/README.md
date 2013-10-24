@@ -1,5 +1,4 @@
-Vacuolatomastix Skvortzov & Noda GENUS
-=======
+# Vacuolatomastix Skvortzov & Noda GENUS
 
 #### Status
 ACCEPTED

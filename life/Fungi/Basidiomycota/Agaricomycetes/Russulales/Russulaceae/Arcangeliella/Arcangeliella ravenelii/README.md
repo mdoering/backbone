@@ -1,5 +1,4 @@
-Arcangeliella ravenelii (Berk. & M.A. Curtis) C.W. Dodge SPECIES
-=======
+# Arcangeliella ravenelii (Berk. & M.A. Curtis) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Deflandraceae FAMILY
-=======
+# Deflandraceae FAMILY
 
 #### Status
 ACCEPTED

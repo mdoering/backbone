@@ -1,17 +1,16 @@
-Dasyscyphus pteridialis Graddon SPECIES
-=======
+# Lachnum pteridialis Graddon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Trans. Br. mycol. Soc. 69(2): 261 (1977)
+null
 
 #### Original name
-Dasyscyphus pteridialis Graddon
+Lachnum pteridialis Graddon
 
 ### Remarks
 null

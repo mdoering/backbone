@@ -1,5 +1,4 @@
-Corethromyces uncinulus Thaxt. SPECIES
-=======
+# Corethromyces uncinulus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

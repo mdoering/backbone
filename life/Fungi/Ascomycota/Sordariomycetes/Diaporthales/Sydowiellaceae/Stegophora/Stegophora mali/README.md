@@ -1,5 +1,4 @@
-Stegophora mali Frolov SPECIES
-=======
+# Stegophora mali Frolov SPECIES
 
 #### Status
 ACCEPTED

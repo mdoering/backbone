@@ -1,5 +1,4 @@
-Gymnodinium instriatum (Freudenthal & Lee, 1963) Coats, 2002 SPECIES
-=======
+# Gymnodinium instriatum (Freudenthal & Lee, 1963) Coats, 2002 SPECIES
 
 #### Status
 ACCEPTED

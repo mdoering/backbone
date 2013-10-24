@@ -1,5 +1,4 @@
-Rhytisma hysterioides Fr. SPECIES
-=======
+# Rhytisma hysterioides Fr. SPECIES
 
 #### Status
 ACCEPTED

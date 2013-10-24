@@ -1,17 +1,16 @@
-Phylloporina epiphylla var. atriceps (Vain.) Zahlbr. VARIETY
-=======
+# Porina atriceps (Vain.) Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 1: 534 (1922)
+Ann. Acad. Sci. fenn. , Ser. A 15: 364 (1931)
 
 #### Original name
-Porina epiphylla var. atriceps Vain.
+Phylloporina atriceps Vain.
 
 ### Remarks
 null

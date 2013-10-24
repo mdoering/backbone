@@ -1,5 +1,4 @@
-Hyperdevescovina Kirby, 1947 GENUS
-=======
+# Hyperdevescovina Kirby, 1947 GENUS
 
 #### Status
 ACCEPTED

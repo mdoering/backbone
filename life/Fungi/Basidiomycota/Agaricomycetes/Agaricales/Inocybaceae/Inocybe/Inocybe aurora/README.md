@@ -1,5 +1,4 @@
-Inocybe aurora var. aurora VARIETY
-=======
+# Inocybe aurora Grund & D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycologia 67(1): 24 (1975)
 
 #### Original name
-Inocybe aurora var. aurora
+Inocybe aurora Grund & D.E. Stuntz
 
 ### Remarks
 null

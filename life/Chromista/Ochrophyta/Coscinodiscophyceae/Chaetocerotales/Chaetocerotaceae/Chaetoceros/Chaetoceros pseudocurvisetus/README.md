@@ -1,5 +1,4 @@
-Chaetoceros pseudocurvisetus Mangin SPECIES
-=======
+# Chaetoceros pseudocurvisetus Mangin SPECIES
 
 #### Status
 ACCEPTED

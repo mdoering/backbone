@@ -1,5 +1,4 @@
-Monocillium minutisporum W. Gams SPECIES
-=======
+# Monocillium minutisporum W. Gams SPECIES
 
 #### Status
 ACCEPTED

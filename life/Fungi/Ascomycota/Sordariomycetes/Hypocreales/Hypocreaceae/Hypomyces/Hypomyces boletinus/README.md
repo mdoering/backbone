@@ -1,5 +1,4 @@
-Hypomyces boletinus Peck SPECIES
-=======
+# Hypomyces boletinus Peck SPECIES
 
 #### Status
 ACCEPTED

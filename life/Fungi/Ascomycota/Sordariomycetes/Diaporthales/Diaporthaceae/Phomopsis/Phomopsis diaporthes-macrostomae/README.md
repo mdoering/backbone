@@ -1,5 +1,4 @@
-Phomopsis diaporthes-macrostomae Traverso SPECIES
-=======
+# Phomopsis diaporthes-macrostomae Traverso SPECIES
 
 #### Status
 ACCEPTED

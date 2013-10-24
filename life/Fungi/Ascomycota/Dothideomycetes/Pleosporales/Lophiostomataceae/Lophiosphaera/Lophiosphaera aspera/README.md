@@ -1,5 +1,4 @@
-Lophiosphaera aspera (Ellis & Everh.) Sacc. SPECIES
-=======
+# Lophiosphaera aspera (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lopadium admixtum (Nyl.) Zahlbr. SPECIES
-=======
+# Lopadium admixtum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

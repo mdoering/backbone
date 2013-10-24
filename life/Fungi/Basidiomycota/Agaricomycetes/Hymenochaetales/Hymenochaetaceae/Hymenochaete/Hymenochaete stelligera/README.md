@@ -1,5 +1,4 @@
-Hymenochaete stelligera (Speg.) Speg. SPECIES
-=======
+# Hymenochaete stelligera (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

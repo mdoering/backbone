@@ -1,5 +1,4 @@
-Septoria hyoseridis Maire SPECIES
-=======
+# Septoria hyoseridis Maire SPECIES
 
 #### Status
 ACCEPTED

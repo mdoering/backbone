@@ -1,14 +1,13 @@
-Nectria nymaniana Henn., 1900 SPECIES
-=======
+# Hydropisphaera nymaniana (Henn.) Rossman & Samuels, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Warburg, Monsunia 1: 161 (1899)
+in Rossman, Samuels, Rogerson & Lowen, Stud. Mycol. 42: 31 (1999)
 
 #### Original name
 Nectria nymaniana Henn., 1900

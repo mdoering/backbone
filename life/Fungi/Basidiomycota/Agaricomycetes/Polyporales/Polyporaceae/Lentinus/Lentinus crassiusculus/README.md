@@ -1,5 +1,4 @@
-Lentinus crassiusculus (Berk. & Broome) Henn. SPECIES
-=======
+# Lentinus crassiusculus (Berk. & Broome) Henn. SPECIES
 
 #### Status
 ACCEPTED

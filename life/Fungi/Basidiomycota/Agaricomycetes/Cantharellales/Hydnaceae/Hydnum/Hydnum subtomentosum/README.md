@@ -1,5 +1,4 @@
-Hydnum subtomentosum Fr. SPECIES
-=======
+# Hydnum subtomentosum Fr. SPECIES
 
 #### Status
 ACCEPTED

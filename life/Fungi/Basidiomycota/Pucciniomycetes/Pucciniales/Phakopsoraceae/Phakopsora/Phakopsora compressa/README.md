@@ -1,5 +1,4 @@
-Phakopsora compressa (Mains) Buriticá & J.F. Hennen SPECIES
-=======
+# Phakopsora compressa (Mains) Buriticá & J.F. Hennen SPECIES
 
 #### Status
 ACCEPTED

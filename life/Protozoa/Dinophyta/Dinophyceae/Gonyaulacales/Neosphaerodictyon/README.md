@@ -1,5 +1,4 @@
-Neosphaerodictyon Slimani, 2003 GENUS
-=======
+# Neosphaerodictyon Slimani, 2003 GENUS
 
 #### Status
 ACCEPTED

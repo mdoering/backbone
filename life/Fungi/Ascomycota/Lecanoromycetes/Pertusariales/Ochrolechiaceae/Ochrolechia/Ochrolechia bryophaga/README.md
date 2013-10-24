@@ -1,5 +1,4 @@
-Ochrolechia bryophaga (Erichsen) K. Schmitz & Lumbsch SPECIES
-=======
+# Ochrolechia bryophaga (Erichsen) K. Schmitz & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fayodia cystidiosa G. Stev. SPECIES
-=======
+# Fayodia cystidiosa G. Stev. SPECIES
 
 #### Status
 ACCEPTED

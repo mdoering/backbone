@@ -1,5 +1,4 @@
-Pseudomonas cremoricolorata Uchino et al., 2002 SPECIES
-=======
+# Pseudomonas cremoricolorata Uchino et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tapesia laricina Velen. SPECIES
-=======
+# Tapesia laricina Velen. SPECIES
 
 #### Status
 ACCEPTED

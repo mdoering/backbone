@@ -1,5 +1,4 @@
-Flabellites H.R. Thierstein, 1973 GENUS
-=======
+# Flabellites H.R. Thierstein, 1973 GENUS
 
 #### Status
 ACCEPTED

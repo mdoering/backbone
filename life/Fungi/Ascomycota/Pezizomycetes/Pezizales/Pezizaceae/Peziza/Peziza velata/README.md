@@ -1,5 +1,4 @@
-Peziza velata Quél. SPECIES
-=======
+# Peziza velata Quél. SPECIES
 
 #### Status
 ACCEPTED

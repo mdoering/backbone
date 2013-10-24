@@ -1,5 +1,4 @@
-Thoracosphaera thoracata Keupp, 1979 SPECIES
-=======
+# Thoracosphaera thoracata Keupp, 1979 SPECIES
 
 #### Status
 ACCEPTED

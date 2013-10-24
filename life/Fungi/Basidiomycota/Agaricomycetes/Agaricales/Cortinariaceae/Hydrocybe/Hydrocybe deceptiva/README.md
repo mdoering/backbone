@@ -1,5 +1,4 @@
-Hydrocybe deceptiva (Kauffman) M.M. Moser SPECIES
-=======
+# Hydrocybe deceptiva (Kauffman) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

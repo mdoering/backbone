@@ -1,5 +1,4 @@
-Cercospora curtisiae Chupp & Doidge SPECIES
-=======
+# Cercospora curtisiae Chupp & Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pterula echo D.J. McLaughlin & E.G. McLaughlin, 1980 SPECIES
-=======
+# Pterula echo D.J. McLaughlin & E.G. McLaughlin, 1980 SPECIES
 
 #### Status
 ACCEPTED

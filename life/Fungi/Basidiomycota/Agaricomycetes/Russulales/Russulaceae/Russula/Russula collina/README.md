@@ -1,5 +1,4 @@
-Russula collina Velen. SPECIES
-=======
+# Russula collina Velen. SPECIES
 
 #### Status
 ACCEPTED

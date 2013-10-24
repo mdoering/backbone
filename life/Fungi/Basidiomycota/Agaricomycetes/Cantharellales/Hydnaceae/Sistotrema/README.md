@@ -1,17 +1,16 @@
-Urnobasidium Parmasto GENUS
-=======
+# Sistotrema E.M. Fries, 1821 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Consp. System. Corticiac. (Tartu) 38 (1968)
+Syst. mycol. (Lundae) 1: 426 (1821)
 
 #### Original name
-Urnobasidium Parmasto
+Sistotrema E.M. Fries, 1821
 
 ### Remarks
 null

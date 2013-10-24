@@ -1,5 +1,4 @@
-Amygdalaria continua Brodo & Hertel SPECIES
-=======
+# Amygdalaria continua Brodo & Hertel SPECIES
 
 #### Status
 ACCEPTED

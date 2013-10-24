@@ -1,5 +1,4 @@
-Conocybe microrrhiza var. parvispora (Hauskn.) Hauskn. VARIETY
-=======
+# Conocybe microrrhiza Hauskn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Czech Mycol. 51(1): 55 (1999)
 
 #### Original name
-Conocybe leporina var. parvispora Hauskn.
+Conocybe microrrhiza Hauskn.
 
 ### Remarks
 null

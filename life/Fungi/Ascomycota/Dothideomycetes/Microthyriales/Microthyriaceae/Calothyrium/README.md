@@ -1,5 +1,4 @@
-Calothyrium GENUS
-=======
+# Calothyrium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alectoria vulpinoides (Zahlbr.) Gyeln. SPECIES
-=======
+# Alectoria vulpinoides (Zahlbr.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

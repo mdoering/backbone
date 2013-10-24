@@ -1,5 +1,4 @@
-Sclerotium opuntiarum Speg. SPECIES
-=======
+# Sclerotium opuntiarum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Amphorellopsis maximus Golemansky, 1970 SPECIES
-=======
+# Ogdeniella maxima (Golemansky, 1970) Golemansky, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
 null

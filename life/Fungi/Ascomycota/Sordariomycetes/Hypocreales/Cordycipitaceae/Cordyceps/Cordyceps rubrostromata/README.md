@@ -1,5 +1,4 @@
-Cordyceps rubrostromata Kobayasi SPECIES
-=======
+# Cordyceps rubrostromata Kobayasi SPECIES
 
 #### Status
 ACCEPTED

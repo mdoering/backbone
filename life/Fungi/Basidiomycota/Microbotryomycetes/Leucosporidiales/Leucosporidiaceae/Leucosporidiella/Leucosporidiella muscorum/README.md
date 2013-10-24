@@ -1,14 +1,13 @@
-Vanrijia muscorum (Di Menna) R.T. Moore SPECIES
-=======
+# Leucosporidiella muscorum (Di Menna) J.P. Samp., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Sampaio, Gadanho, Bauer & Weiss, Mycol. Progr. 2(1): 66 (2003)
 
 #### Original name
 Candida muscorum Di Menna, 1958

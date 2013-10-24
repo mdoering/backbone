@@ -1,5 +1,4 @@
-Hysterium calabash Seaver SPECIES
-=======
+# Hysterium calabash Seaver SPECIES
 
 #### Status
 ACCEPTED

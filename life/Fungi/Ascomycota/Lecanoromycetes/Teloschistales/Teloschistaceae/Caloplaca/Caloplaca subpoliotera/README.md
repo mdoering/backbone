@@ -1,5 +1,4 @@
-Caloplaca subpoliotera Y. Joshi & Upreti SPECIES
-=======
+# Caloplaca subpoliotera Y. Joshi & Upreti SPECIES
 
 #### Status
 ACCEPTED

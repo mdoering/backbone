@@ -1,5 +1,4 @@
-Parmotrema laeve (J. D. Zhao) J. B. Chen & Elix SPECIES
-=======
+# Parmotrema laeve (J. D. Zhao) J. B. Chen & Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monosporium sepedonioides Harz SPECIES
-=======
+# Monosporium sepedonioides Harz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eutypella malloti Rehm SPECIES
-=======
+# Eutypella malloti Rehm SPECIES
 
 #### Status
 ACCEPTED

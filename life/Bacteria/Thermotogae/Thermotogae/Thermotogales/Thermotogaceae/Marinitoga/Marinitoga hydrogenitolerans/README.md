@@ -1,5 +1,4 @@
-Marinitoga hydrogenitolerans Postec et al., 2005 SPECIES
-=======
+# Marinitoga hydrogenitolerans Postec et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

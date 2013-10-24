@@ -1,5 +1,4 @@
-Parmelia palmata Ach. SPECIES
-=======
+# Parmelia palmata Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anaerofilum pentosovorans Zellner et al., 1996 SPECIES
-=======
+# Anaerofilum pentosovorans Zellner et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

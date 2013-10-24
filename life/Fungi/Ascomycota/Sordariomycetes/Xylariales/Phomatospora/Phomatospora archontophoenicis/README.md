@@ -1,5 +1,4 @@
-Phomatospora archontophoenicis Joanne E. Taylor, K.D. Hyde & E.B.G. Jones SPECIES
-=======
+# Phomatospora archontophoenicis Joanne E. Taylor, K.D. Hyde & E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

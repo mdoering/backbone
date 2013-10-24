@@ -1,5 +1,4 @@
-Sphaerella tabaci Maubl. SPECIES
-=======
+# Sphaerella tabaci Maubl. SPECIES
 
 #### Status
 ACCEPTED

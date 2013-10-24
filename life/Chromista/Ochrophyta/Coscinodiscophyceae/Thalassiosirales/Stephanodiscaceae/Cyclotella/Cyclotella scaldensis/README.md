@@ -1,5 +1,4 @@
-Cyclotella scaldensis Muylaert & Sabbe, 1996 SPECIES
-=======
+# Cyclotella scaldensis Muylaert & Sabbe, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria macrochaetopsinae Samuels SPECIES
-=======
+# Nectria macrochaetopsinae Samuels SPECIES
 
 #### Status
 ACCEPTED

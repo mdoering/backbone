@@ -1,5 +1,4 @@
-Pyrenodesmia bullata (Müll. Arg.) Tomin SPECIES
-=======
+# Pyrenodesmia bullata (Müll. Arg.) Tomin SPECIES
 
 #### Status
 ACCEPTED

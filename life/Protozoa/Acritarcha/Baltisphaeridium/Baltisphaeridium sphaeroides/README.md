@@ -1,5 +1,4 @@
-Baltisphaeridium sphaeroides Takahashi & Matsuoka, 1981 SPECIES
-=======
+# Baltisphaeridium sphaeroides Takahashi & Matsuoka, 1981 SPECIES
 
 #### Status
 ACCEPTED

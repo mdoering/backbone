@@ -1,5 +1,4 @@
-Hemisphaerammina Loeblich & Tappan, 1957 GENUS
-=======
+# Hemisphaerammina Loeblich & Tappan, 1957 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus fuegianus Speg. SPECIES
-=======
+# Polyporus fuegianus Speg. SPECIES
 
 #### Status
 ACCEPTED

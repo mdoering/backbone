@@ -1,5 +1,4 @@
-Misgomyces filarius (Thaxt.) Thaxt. SPECIES
-=======
+# Misgomyces filarius (Thaxt.) Thaxt. SPECIES
 
 #### Status
 ACCEPTED

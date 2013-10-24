@@ -1,5 +1,4 @@
-Cylindrosporium iridis Ellis & Halst. SPECIES
-=======
+# Cylindrosporium iridis Ellis & Halst. SPECIES
 
 #### Status
 ACCEPTED

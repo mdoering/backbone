@@ -1,5 +1,4 @@
-Collybia disciformis Wettst. SPECIES
-=======
+# Collybia disciformis Wettst. SPECIES
 
 #### Status
 ACCEPTED

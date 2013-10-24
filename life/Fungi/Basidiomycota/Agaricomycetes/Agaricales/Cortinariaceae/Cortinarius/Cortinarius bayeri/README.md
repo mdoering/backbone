@@ -1,5 +1,4 @@
-Cortinarius bayeri (Velen.) Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius bayeri (Velen.) Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

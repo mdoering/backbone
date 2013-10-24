@@ -1,5 +1,4 @@
-Lembosiopsis eucalyptina Petr. & Syd. SPECIES
-=======
+# Lembosiopsis eucalyptina Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

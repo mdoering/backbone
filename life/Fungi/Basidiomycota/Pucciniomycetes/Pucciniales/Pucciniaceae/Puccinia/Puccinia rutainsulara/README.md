@@ -1,5 +1,4 @@
-Puccinia rutainsulara D.E. Gardner SPECIES
-=======
+# Puccinia rutainsulara D.E. Gardner SPECIES
 
 #### Status
 ACCEPTED

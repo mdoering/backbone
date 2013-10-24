@@ -1,5 +1,4 @@
-Clavaria fallax Pers. SPECIES
-=======
+# Clavaria fallax Pers. SPECIES
 
 #### Status
 ACCEPTED

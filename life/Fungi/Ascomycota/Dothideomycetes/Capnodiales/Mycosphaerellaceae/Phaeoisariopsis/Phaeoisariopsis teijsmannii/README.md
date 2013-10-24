@@ -1,8 +1,7 @@
-Phaeoisariopsis teysmanni (G.C.S. Barua & K.C. Barua) Deighton SPECIES
-=======
+# Phaeoisariopsis teijsmannii (G.C.S. Barua & K.C. Barua) Deighton SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

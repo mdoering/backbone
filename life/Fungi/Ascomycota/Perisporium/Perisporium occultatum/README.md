@@ -1,5 +1,4 @@
-Perisporium occultatum Ces. SPECIES
-=======
+# Perisporium occultatum Ces. SPECIES
 
 #### Status
 ACCEPTED

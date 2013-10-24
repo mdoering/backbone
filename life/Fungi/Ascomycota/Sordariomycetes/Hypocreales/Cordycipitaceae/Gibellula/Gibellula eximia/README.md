@@ -1,5 +1,4 @@
-Gibellula eximia Höhn. SPECIES
-=======
+# Gibellula eximia Höhn. SPECIES
 
 #### Status
 ACCEPTED

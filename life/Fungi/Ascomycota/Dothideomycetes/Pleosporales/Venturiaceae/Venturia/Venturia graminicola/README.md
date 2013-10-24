@@ -1,5 +1,4 @@
-Venturia graminicola G. Winter SPECIES
-=======
+# Venturia graminicola G. Winter SPECIES
 
 #### Status
 ACCEPTED

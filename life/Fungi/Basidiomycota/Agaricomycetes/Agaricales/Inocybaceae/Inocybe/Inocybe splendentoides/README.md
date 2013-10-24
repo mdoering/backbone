@@ -1,5 +1,4 @@
-Inocybe splendentoides Bon SPECIES
-=======
+# Inocybe splendentoides Bon SPECIES
 
 #### Status
 ACCEPTED

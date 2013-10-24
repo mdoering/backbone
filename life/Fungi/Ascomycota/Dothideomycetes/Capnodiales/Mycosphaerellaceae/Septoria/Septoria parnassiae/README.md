@@ -1,5 +1,4 @@
-Septoria parnassiae Died. SPECIES
-=======
+# Septoria parnassiae Died. SPECIES
 
 #### Status
 ACCEPTED

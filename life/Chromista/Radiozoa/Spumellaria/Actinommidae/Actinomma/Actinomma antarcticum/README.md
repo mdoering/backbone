@@ -1,14 +1,13 @@
-Spongoplegma antarcticum Haeckel, 1887 SPECIES
-=======
+# Actinomma antarcticum (Haeckel) Nigrini, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Haeckel, E. (1887). Report on the Radiolaria collected by H. M. S. Challenger during the years 1873-76. London: Eyre & Spottiswoode.
+null
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Arachnopeziza subnuda Korf & W.Y. Zhuang SPECIES
-=======
+# Arachnopeziza subnuda Korf & W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helicobasidium anomalum L.S. Olive SPECIES
-=======
+# Helicobasidium anomalum L.S. Olive SPECIES
 
 #### Status
 ACCEPTED

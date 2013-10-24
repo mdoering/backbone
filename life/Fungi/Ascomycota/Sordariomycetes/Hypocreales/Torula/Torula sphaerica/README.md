@@ -1,5 +1,4 @@
-Torula sphaerica B.W. Hammer & Cordes SPECIES
-=======
+# Torula sphaerica B.W. Hammer & Cordes SPECIES
 
 #### Status
 ACCEPTED

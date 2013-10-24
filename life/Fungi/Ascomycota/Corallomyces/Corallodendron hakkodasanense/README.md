@@ -1,5 +1,4 @@
-Corallodendron hakkodasanense Kobayasi SPECIES
-=======
+# Corallodendron hakkodasanense Kobayasi SPECIES
 
 #### Status
 ACCEPTED

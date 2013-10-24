@@ -1,5 +1,4 @@
-Caudella bipolaris O.L. Pereira, 2006 SPECIES
-=======
+# Caudella bipolaris O.L. Pereira, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peronospora nthemidis Gäum. SPECIES
-=======
+# Peronospora nthemidis Gäum. SPECIES
 
 #### Status
 ACCEPTED

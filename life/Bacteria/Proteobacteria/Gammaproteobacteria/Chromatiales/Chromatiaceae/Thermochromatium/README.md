@@ -1,5 +1,4 @@
-Thermochromatium Imhoff et al., 1998 GENUS
-=======
+# Thermochromatium Imhoff et al., 1998 GENUS
 
 #### Status
 ACCEPTED

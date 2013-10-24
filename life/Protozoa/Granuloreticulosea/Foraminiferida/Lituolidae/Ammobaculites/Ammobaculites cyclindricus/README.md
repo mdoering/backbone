@@ -1,5 +1,4 @@
-Ammobaculites cyclindricus Cushman SPECIES
-=======
+# Ammobaculites cyclindricus Cushman SPECIES
 
 #### Status
 ACCEPTED

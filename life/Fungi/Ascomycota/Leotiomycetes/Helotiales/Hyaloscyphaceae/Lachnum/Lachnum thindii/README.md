@@ -1,5 +1,4 @@
-Lachnum thindii (M.P. Sharma) M.P. Sharma SPECIES
-=======
+# Lachnum thindii (M.P. Sharma) M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

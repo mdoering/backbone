@@ -1,5 +1,4 @@
-Lecania subcaesia (Nyl.) B. de Lesd. SPECIES
-=======
+# Lecania subcaesia (Nyl.) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

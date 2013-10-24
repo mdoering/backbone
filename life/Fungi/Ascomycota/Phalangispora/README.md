@@ -1,5 +1,4 @@
-Phalangispora Nawawi & J. Webster GENUS
-=======
+# Phalangispora Nawawi & J. Webster GENUS
 
 #### Status
 ACCEPTED

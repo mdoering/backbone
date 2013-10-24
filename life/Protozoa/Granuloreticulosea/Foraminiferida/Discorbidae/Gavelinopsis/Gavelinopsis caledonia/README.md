@@ -1,5 +1,4 @@
-Gavelinopsis caledonia Murray & Whittaker, 2001 SPECIES
-=======
+# Gavelinopsis caledonia Murray & Whittaker, 2001 SPECIES
 
 #### Status
 ACCEPTED

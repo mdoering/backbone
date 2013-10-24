@@ -1,5 +1,4 @@
-Pleurotus inornatus Speg. SPECIES
-=======
+# Pleurotus inornatus Speg. SPECIES
 
 #### Status
 ACCEPTED

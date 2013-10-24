@@ -1,5 +1,4 @@
-Homostegia asparagi (Fuckel) Höhn. SPECIES
-=======
+# Homostegia asparagi (Fuckel) Höhn. SPECIES
 
 #### Status
 ACCEPTED

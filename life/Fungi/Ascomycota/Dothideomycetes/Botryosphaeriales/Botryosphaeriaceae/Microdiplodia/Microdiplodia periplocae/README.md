@@ -1,5 +1,4 @@
-Microdiplodia periplocae Mekht. SPECIES
-=======
+# Microdiplodia periplocae Mekht. SPECIES
 
 #### Status
 ACCEPTED

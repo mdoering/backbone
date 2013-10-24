@@ -1,5 +1,4 @@
-Novosphingobium lentum Tiirola et al., 2005 SPECIES
-=======
+# Novosphingobium lentum Tiirola et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

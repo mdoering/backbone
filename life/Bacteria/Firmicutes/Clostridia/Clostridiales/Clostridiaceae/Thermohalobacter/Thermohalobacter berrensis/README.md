@@ -1,5 +1,4 @@
-Thermohalobacter berrensis Cayol et al., 2000 SPECIES
-=======
+# Thermohalobacter berrensis Cayol et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryodiplodia baccharidis (Allesch.) Petr. & Syd. SPECIES
-=======
+# Botryodiplodia baccharidis (Allesch.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

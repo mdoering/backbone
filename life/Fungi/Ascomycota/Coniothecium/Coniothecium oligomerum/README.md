@@ -1,5 +1,4 @@
-Coniothecium oligomerum Speg. SPECIES
-=======
+# Coniothecium oligomerum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrype tectonae M.S. Patil & S.D. Patil SPECIES
-=======
+# Diatrype tectonae M.S. Patil & S.D. Patil SPECIES
 
 #### Status
 ACCEPTED

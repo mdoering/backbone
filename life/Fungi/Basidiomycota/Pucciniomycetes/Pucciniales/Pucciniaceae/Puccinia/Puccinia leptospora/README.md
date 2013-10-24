@@ -1,5 +1,4 @@
-Puccinia leptospora Ricker SPECIES
-=======
+# Puccinia leptospora Ricker SPECIES
 
 #### Status
 ACCEPTED

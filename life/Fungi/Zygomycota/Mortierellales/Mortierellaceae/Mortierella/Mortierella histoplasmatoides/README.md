@@ -1,5 +1,4 @@
-Mortierella histoplasmatoides W. Gams, 1991 SPECIES
-=======
+# Mortierella histoplasmatoides W. Gams, 1991 SPECIES
 
 #### Status
 ACCEPTED

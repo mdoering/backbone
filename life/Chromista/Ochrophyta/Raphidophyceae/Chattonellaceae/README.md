@@ -1,5 +1,4 @@
-Chattonellaceae J. Throndsen FAMILY
-=======
+# Chattonellaceae J. Throndsen FAMILY
 
 #### Status
 ACCEPTED

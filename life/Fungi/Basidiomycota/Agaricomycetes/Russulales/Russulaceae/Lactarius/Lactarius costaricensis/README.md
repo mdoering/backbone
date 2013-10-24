@@ -1,5 +1,4 @@
-Lactarius costaricensis Singer SPECIES
-=======
+# Lactarius costaricensis Singer SPECIES
 
 #### Status
 ACCEPTED

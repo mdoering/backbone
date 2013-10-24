@@ -1,5 +1,4 @@
-Lecanora occidanea Nyl. SPECIES
-=======
+# Lecanora occidanea Nyl. SPECIES
 
 #### Status
 ACCEPTED

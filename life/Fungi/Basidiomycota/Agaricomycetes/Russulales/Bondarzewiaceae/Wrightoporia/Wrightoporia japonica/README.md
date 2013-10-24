@@ -1,5 +1,4 @@
-Wrightoporia japonica Núñez & Ryvarden, 1999 SPECIES
-=======
+# Wrightoporia japonica Núñez & Ryvarden, 1999 SPECIES
 
 #### Status
 ACCEPTED

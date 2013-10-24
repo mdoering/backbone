@@ -1,5 +1,4 @@
-Cantharospyris Haeckel, 1887 GENUS
-=======
+# Cantharospyris Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

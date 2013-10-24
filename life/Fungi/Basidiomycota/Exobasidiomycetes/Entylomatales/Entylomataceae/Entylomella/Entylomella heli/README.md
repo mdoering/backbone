@@ -1,5 +1,4 @@
-Entylomella heli anon. SPECIES
-=======
+# Entylomella heli anon. SPECIES
 
 #### Status
 ACCEPTED

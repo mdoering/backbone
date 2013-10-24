@@ -1,5 +1,4 @@
-Tranzschelia tucsonensis (Arthur) Dietel SPECIES
-=======
+# Tranzschelia tucsonensis (Arthur) Dietel SPECIES
 
 #### Status
 ACCEPTED

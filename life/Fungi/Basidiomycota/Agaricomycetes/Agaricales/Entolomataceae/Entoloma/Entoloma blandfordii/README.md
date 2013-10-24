@@ -1,5 +1,4 @@
-Entoloma blandfordii (Henn.) Singer SPECIES
-=======
+# Entoloma blandfordii (Henn.) Singer SPECIES
 
 #### Status
 ACCEPTED

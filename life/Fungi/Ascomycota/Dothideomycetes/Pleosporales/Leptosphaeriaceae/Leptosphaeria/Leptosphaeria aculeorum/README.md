@@ -1,5 +1,4 @@
-Leptosphaeria aculeorum Pass. SPECIES
-=======
+# Leptosphaeria aculeorum Pass. SPECIES
 
 #### Status
 ACCEPTED

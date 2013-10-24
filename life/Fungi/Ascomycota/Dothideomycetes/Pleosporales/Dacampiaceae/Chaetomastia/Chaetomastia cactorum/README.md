@@ -1,5 +1,4 @@
-Chaetomastia cactorum (Earle) M.E. Barr & Boise SPECIES
-=======
+# Chaetomastia cactorum (Earle) M.E. Barr & Boise SPECIES
 
 #### Status
 ACCEPTED

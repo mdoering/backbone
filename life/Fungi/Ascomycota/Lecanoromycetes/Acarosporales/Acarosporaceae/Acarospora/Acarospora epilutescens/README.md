@@ -1,5 +1,4 @@
-Acarospora epilutescens Zahlbr. SPECIES
-=======
+# Acarospora epilutescens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

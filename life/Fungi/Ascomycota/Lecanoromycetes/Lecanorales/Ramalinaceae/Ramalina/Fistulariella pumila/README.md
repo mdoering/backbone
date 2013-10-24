@@ -1,5 +1,4 @@
-Fistulariella pumila (Mont.) Bowler & Rundel SPECIES
-=======
+# Fistulariella pumila (Mont.) Bowler & Rundel SPECIES
 
 #### Status
 ACCEPTED

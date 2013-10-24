@@ -1,14 +1,13 @@
-Nectria subiculosa Berk. & M.A. Curtis, 1868 SPECIES
-=======
+# Hypomyces subiculosus (Berk. & M.A. Curtis) Höhn., 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Berkeley, J. Linn. Soc. , Bot. 10(no. 46): 378 (1868)
+in Höhnel & Weese, Annls mycol. 8: 468 (1910)
 
 #### Original name
 Nectria subiculosa Berk. & M.A. Curtis, 1868

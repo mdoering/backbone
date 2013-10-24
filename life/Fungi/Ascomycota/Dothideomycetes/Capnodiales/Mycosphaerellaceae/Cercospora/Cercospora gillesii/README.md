@@ -1,5 +1,4 @@
-Cercospora gillesii Speg. SPECIES
-=======
+# Cercospora gillesii Speg. SPECIES
 
 #### Status
 ACCEPTED

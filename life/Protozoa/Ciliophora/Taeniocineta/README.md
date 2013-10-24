@@ -1,5 +1,4 @@
-Taeniocineta Raabe, 1972 GENUS
-=======
+# Taeniocineta Raabe, 1972 GENUS
 
 #### Status
 ACCEPTED

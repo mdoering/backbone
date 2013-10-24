@@ -1,5 +1,4 @@
-Readeriella Syd. GENUS
-=======
+# Readeriella Syd. GENUS
 
 #### Status
 ACCEPTED

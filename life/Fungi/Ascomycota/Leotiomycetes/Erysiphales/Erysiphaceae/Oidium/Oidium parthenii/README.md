@@ -1,5 +1,4 @@
-Oidium parthenii Satyapr. & Ushar. SPECIES
-=======
+# Oidium parthenii Satyapr. & Ushar. SPECIES
 
 #### Status
 ACCEPTED

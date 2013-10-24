@@ -1,5 +1,4 @@
-Chaetomiaceae G. Winter FAMILY
-=======
+# Chaetomiaceae G. Winter FAMILY
 
 #### Status
 ACCEPTED

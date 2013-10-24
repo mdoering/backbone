@@ -1,5 +1,4 @@
-Pacyoncus GENUS
-=======
+# Pacyoncus GENUS
 
 #### Status
 ACCEPTED

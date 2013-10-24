@@ -1,5 +1,4 @@
-Diplodina coloradensis Ellis & Everh., 1895 SPECIES
-=======
+# Diplodina coloradensis Ellis & Everh., 1895 SPECIES
 
 #### Status
 ACCEPTED

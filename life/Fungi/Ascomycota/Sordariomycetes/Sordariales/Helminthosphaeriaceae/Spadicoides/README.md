@@ -1,5 +1,4 @@
-Spadicoides S. Hughes GENUS
-=======
+# Spadicoides S. Hughes GENUS
 
 #### Status
 ACCEPTED

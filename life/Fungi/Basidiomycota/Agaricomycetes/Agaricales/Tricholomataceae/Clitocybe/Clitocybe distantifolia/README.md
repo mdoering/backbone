@@ -1,5 +1,4 @@
-Clitocybe distantifolia H.E. Bigelow SPECIES
-=======
+# Clitocybe distantifolia H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

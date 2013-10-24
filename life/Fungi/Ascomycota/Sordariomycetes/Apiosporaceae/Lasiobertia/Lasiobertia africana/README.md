@@ -1,5 +1,4 @@
-Lasiobertia africana Sivan., 1978 SPECIES
-=======
+# Lasiobertia africana Sivan., 1978 SPECIES
 
 #### Status
 ACCEPTED

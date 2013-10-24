@@ -1,5 +1,4 @@
-Vaginulina webbervillensis Carsey SPECIES
-=======
+# Vaginulina webbervillensis Carsey SPECIES
 
 #### Status
 ACCEPTED

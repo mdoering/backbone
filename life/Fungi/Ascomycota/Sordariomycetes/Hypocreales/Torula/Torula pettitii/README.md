@@ -1,5 +1,4 @@
-Torula pettitii Hranova SPECIES
-=======
+# Torula pettitii Hranova SPECIES
 
 #### Status
 ACCEPTED

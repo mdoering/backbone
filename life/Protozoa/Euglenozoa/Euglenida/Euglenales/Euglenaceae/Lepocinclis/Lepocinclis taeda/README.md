@@ -1,5 +1,4 @@
-Lepocinclis taeda f. biconstricta Wehrle FORM
-=======
+# Lepocinclis taeda Wehrle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conosphaeridium Cookson & Eisenack GENUS
-=======
+# Conosphaeridium Cookson & Eisenack GENUS
 
 #### Status
 ACCEPTED

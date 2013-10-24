@@ -1,17 +1,16 @@
-Hymenochaete ferruginea var. ferruginea VARIETY
-=======
+# Hymenochaete rubiginosa (Dicks.) Lév., 1846 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 27: 103 (1890)
+Annls Sci. Nat. , Bot. , sér. 3 5: 150 (1846)
 
 #### Original name
-Hymenochaete ferruginea var. ferruginea
+Helvella rubiginosa Dicks., 1785
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Dimorphina millettii Sidebottom, 1918 SPECIES
-=======
+# Dimorphina millettii Sidebottom, 1918 SPECIES
 
 #### Status
 ACCEPTED

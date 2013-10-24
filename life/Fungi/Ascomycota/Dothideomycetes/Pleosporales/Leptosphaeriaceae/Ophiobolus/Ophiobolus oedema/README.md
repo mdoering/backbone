@@ -1,5 +1,4 @@
-Ophiobolus oedema (Mont.) Sacc. SPECIES
-=======
+# Ophiobolus oedema (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

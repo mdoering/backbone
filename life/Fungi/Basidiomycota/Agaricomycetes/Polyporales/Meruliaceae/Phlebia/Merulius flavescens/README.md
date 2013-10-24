@@ -1,5 +1,4 @@
-Merulius flavescens Bres. SPECIES
-=======
+# Merulius flavescens Bres. SPECIES
 
 #### Status
 ACCEPTED

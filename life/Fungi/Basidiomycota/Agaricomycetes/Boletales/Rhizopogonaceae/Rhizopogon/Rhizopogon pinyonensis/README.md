@@ -1,5 +1,4 @@
-Rhizopogon pinyonensis var. pinyonensis VARIETY
-=======
+# Rhizopogon pinyonensis K.A. Harrison & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Can. J. Bot. 46(7): 890 (1968)
 
 #### Original name
-Rhizopogon pinyonensis var. pinyonensis
+Rhizopogon pinyonensis K.A. Harrison & A.H. Sm.
 
 ### Remarks
 null

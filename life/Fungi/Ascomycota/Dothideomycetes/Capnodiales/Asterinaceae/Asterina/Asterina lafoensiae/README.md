@@ -1,5 +1,4 @@
-Asterina lafoensiae Bat. & Gayão SPECIES
-=======
+# Asterina lafoensiae Bat. & Gayão SPECIES
 
 #### Status
 ACCEPTED

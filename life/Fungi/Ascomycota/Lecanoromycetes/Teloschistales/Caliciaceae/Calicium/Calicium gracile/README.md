@@ -1,5 +1,4 @@
-Calicium gracile (Nádv.) Oxner SPECIES
-=======
+# Calicium gracile (Nádv.) Oxner SPECIES
 
 #### Status
 ACCEPTED

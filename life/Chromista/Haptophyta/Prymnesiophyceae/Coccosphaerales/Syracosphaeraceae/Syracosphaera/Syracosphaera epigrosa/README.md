@@ -1,5 +1,4 @@
-Syracosphaera epigrosa Okada & McIntyre, 1977 SPECIES
-=======
+# Syracosphaera epigrosa Okada & McIntyre, 1977 SPECIES
 
 #### Status
 ACCEPTED

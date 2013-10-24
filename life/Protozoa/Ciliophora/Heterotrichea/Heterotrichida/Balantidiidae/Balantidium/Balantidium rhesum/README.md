@@ -1,5 +1,4 @@
-Balantidium rhesum SPECIES
-=======
+# Balantidium rhesum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia teretiuscula Oxner SPECIES
-=======
+# Parmelia teretiuscula Oxner SPECIES
 
 #### Status
 ACCEPTED

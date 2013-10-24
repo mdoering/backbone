@@ -1,5 +1,4 @@
-Herbaspirillum Baldani et al., 1986 GENUS
-=======
+# Herbaspirillum Baldani et al., 1986 GENUS
 
 #### Status
 ACCEPTED

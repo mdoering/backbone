@@ -1,5 +1,4 @@
-Dictyota vittata Kraft, 2009 SPECIES
-=======
+# Dictyota vittata Kraft, 2009 SPECIES
 
 #### Status
 ACCEPTED

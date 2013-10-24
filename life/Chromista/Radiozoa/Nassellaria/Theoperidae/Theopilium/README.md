@@ -1,5 +1,4 @@
-Theopilium Haeckel, 1881 GENUS
-=======
+# Theopilium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

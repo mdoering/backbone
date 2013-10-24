@@ -1,5 +1,4 @@
-Agaricus laetifrons Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus laetifrons Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

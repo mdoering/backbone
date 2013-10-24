@@ -1,5 +1,4 @@
-Charonectria fimicola Höhn. SPECIES
-=======
+# Charonectria fimicola Höhn. SPECIES
 
 #### Status
 ACCEPTED

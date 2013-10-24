@@ -1,5 +1,4 @@
-Hypomyces arachnoideus J. Schröt. SPECIES
-=======
+# Hypomyces arachnoideus J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

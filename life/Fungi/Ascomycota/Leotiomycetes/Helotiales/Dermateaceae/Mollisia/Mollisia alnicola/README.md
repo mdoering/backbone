@@ -1,5 +1,4 @@
-Mollisia alnicola Bubák & Vleugel SPECIES
-=======
+# Mollisia alnicola Bubák & Vleugel SPECIES
 
 #### Status
 ACCEPTED

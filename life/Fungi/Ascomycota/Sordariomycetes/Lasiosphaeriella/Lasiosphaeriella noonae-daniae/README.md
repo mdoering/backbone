@@ -1,5 +1,4 @@
-Lasiosphaeriella noonae-daniae (Carroll & Munk) Sivan. SPECIES
-=======
+# Lasiosphaeriella noonae-daniae (Carroll & Munk) Sivan. SPECIES
 
 #### Status
 ACCEPTED

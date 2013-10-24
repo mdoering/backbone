@@ -1,5 +1,4 @@
-Amaurochaete speciosa Zukal SPECIES
-=======
+# Amaurochaete speciosa Zukal SPECIES
 
 #### Status
 ACCEPTED

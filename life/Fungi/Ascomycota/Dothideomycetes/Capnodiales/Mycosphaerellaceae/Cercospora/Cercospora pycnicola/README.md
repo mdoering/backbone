@@ -1,5 +1,4 @@
-Cercospora pycnicola Chona, Lall & Munjal SPECIES
-=======
+# Cercospora pycnicola Chona, Lall & Munjal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria assamensis Lloyd SPECIES
-=======
+# Xylaria assamensis Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bitectatodinium tepikiense G.J. Wilson, 1973 SPECIES
-=======
+# Bitectatodinium tepikiense G.J. Wilson, 1973 SPECIES
 
 #### Status
 ACCEPTED

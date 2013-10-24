@@ -1,5 +1,4 @@
-Coryneum rostratum Fuckel SPECIES
-=======
+# Coryneum rostratum Fuckel SPECIES
 
 #### Status
 ACCEPTED

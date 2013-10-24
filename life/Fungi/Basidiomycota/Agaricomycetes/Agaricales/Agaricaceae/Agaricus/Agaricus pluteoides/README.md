@@ -1,5 +1,4 @@
-Agaricus pluteoides Fr. SPECIES
-=======
+# Agaricus pluteoides Fr. SPECIES
 
 #### Status
 ACCEPTED

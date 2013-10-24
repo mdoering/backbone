@@ -1,5 +1,4 @@
-Pseudophyscia GENUS
-=======
+# Pseudophyscia GENUS
 
 #### Status
 ACCEPTED

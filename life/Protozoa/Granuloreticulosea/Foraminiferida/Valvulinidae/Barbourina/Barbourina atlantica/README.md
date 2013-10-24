@@ -1,5 +1,4 @@
-Barbourina atlantica SPECIES
-=======
+# Barbourina atlantica SPECIES
 
 #### Status
 ACCEPTED

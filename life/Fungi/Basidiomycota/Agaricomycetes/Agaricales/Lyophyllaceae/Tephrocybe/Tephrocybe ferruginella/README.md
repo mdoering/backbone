@@ -1,14 +1,13 @@
-Lyophyllum ferruginellum (A. Pearson) Consiglio & Contu, 2001 SPECIES
-=======
+# Tephrocybe ferruginella (A. Pearson) P.D. Orton, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 30(no. 120): 45 (2001)
+Bull. Br. mycol. Soc. 18(2): 119 (1984)
 
 #### Original name
 Collybia ferruginella A. Pearson, 1952

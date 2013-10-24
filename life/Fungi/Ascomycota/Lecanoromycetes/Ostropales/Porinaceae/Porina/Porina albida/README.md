@@ -1,5 +1,4 @@
-Porina albida Lücking SPECIES
-=======
+# Porina albida Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus gardneri (Berk.) Sacc. SPECIES
-=======
+# Pleurotus gardneri (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

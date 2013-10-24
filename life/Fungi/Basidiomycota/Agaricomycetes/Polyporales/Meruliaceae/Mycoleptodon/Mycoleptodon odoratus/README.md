@@ -1,8 +1,7 @@
-Mycoleptodon odoratum Pilát SPECIES
-=======
+# Mycoleptodon odoratus Pilát SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mycoleptodon odoratum Pilát
+Mycoleptodon odoratus Pilát
 
 ### Remarks
 null

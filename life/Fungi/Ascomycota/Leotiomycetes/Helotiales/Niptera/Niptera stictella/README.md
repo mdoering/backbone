@@ -1,5 +1,4 @@
-Niptera stictella Sacc. & Speg. SPECIES
-=======
+# Niptera stictella Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

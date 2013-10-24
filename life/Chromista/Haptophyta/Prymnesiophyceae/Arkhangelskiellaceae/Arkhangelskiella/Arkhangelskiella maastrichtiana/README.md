@@ -1,5 +1,4 @@
-Arkhangelskiella maastrichtiana SPECIES
-=======
+# Arkhangelskiella maastrichtiana SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium corycii Doidge SPECIES
-=======
+# Aecidium corycii Doidge SPECIES
 
 #### Status
 ACCEPTED

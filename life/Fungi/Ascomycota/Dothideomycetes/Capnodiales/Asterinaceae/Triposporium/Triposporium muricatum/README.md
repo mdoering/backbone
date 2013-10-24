@@ -1,5 +1,4 @@
-Triposporium muricatum Wakker SPECIES
-=======
+# Triposporium muricatum Wakker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gemmulina Descals & Marvanová, 1999 GENUS
-=======
+# Gemmulina Descals & Marvanová, 1999 GENUS
 
 #### Status
 ACCEPTED

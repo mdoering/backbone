@@ -1,5 +1,4 @@
-Didymella chionanthi (Berk. & Broome) Sacc. SPECIES
-=======
+# Didymella chionanthi (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

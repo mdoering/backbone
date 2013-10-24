@@ -1,5 +1,4 @@
-Pleovalsa macrospora (Fuckel) Kirschst. SPECIES
-=======
+# Pleovalsa macrospora (Fuckel) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

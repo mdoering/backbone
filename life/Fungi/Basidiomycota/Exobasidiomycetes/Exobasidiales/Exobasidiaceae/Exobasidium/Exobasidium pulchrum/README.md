@@ -1,5 +1,4 @@
-Exobasidium pulchrum Z.Y. Li & L. Guo SPECIES
-=======
+# Exobasidium pulchrum Z.Y. Li & L. Guo SPECIES
 
 #### Status
 ACCEPTED

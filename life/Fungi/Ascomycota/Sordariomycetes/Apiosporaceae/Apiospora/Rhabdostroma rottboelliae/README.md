@@ -1,5 +1,4 @@
-Rhabdostroma rottboelliae (Rehm) Syd. & P. Syd. SPECIES
-=======
+# Rhabdostroma rottboelliae (Rehm) Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

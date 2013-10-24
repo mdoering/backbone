@@ -1,5 +1,4 @@
-Dicaeoma heterogeneum (Lagerh.) Kuntze SPECIES
-=======
+# Dicaeoma heterogeneum (Lagerh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

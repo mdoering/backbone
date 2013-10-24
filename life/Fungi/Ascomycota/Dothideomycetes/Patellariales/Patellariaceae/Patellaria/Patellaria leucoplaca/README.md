@@ -1,5 +1,4 @@
-Patellaria leucoplaca DC. SPECIES
-=======
+# Patellaria leucoplaca DC. SPECIES
 
 #### Status
 ACCEPTED

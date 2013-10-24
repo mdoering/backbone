@@ -1,14 +1,13 @@
-Sphaeria carneoalba Lib., 1834 SPECIES
-=======
+# Oomyces carneoalbus (Lib.) Berk. & Broome, 1851 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pl. crypt. Arduenna (Liège), fasc. 3: no. 241 (1834)
+Ann. Mag. nat. Hist. , Ser. 2 7: 185 (1851)
 
 #### Original name
 Sphaeria carneoalba Lib., 1834

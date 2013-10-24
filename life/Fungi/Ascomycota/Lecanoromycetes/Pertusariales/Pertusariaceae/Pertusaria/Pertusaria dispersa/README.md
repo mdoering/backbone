@@ -1,5 +1,4 @@
-Pertusaria dispersa Vain. SPECIES
-=======
+# Pertusaria dispersa Vain. SPECIES
 
 #### Status
 ACCEPTED

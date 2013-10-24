@@ -1,17 +1,16 @@
-Helminthosporium bloxami Cooke SPECIES
-=======
+# Brachysporium bloxamii (Cooke) Sacc., 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. 4: 426 (1886)
 
 #### Original name
-Helminthosporium bloxami Cooke
+Helminthosporium bloxamii Cooke, 1883
 
 ### Remarks
 null

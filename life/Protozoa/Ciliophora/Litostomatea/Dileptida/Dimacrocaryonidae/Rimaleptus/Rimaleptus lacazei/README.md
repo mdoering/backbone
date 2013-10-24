@@ -1,8 +1,7 @@
-Dileptus lacazei Gourret & Roeser, 1886 SPECIES
-=======
+# Rimaleptus lacazei (Gourret & Roeser, 1886) Vdacny & Foissner, 2011 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

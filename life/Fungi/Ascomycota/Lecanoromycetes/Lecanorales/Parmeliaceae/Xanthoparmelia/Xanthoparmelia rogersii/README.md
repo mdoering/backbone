@@ -1,14 +1,13 @@
-Parmelia rogersii (Elix & J. Johnst.) Brusse SPECIES
-=======
+# Xanthoparmelia rogersii Elix & J. Johnst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 31(2): 539 (1988)
+in Elix, Johnston & Armstrong, Bull. Br. Mus. nat. Hist. , Bot. 15(3): 317 (1986)
 
 #### Original name
 Xanthoparmelia rogersii Elix & J. Johnst.

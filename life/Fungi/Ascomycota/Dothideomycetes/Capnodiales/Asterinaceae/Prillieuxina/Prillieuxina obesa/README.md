@@ -1,5 +1,4 @@
-Prillieuxina obesa (Syd. & P. Syd.) Arx SPECIES
-=======
+# Prillieuxina obesa (Syd. & P. Syd.) Arx SPECIES
 
 #### Status
 ACCEPTED

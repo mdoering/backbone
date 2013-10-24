@@ -1,5 +1,4 @@
-Lactarius hirtipes J.Z. Ying SPECIES
-=======
+# Lactarius hirtipes J.Z. Ying SPECIES
 
 #### Status
 ACCEPTED

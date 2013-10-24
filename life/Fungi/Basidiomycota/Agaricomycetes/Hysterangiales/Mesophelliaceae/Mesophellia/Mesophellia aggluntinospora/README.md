@@ -1,5 +1,4 @@
-Mesophellia aggluntinospora SPECIES
-=======
+# Mesophellia aggluntinospora SPECIES
 
 #### Status
 ACCEPTED

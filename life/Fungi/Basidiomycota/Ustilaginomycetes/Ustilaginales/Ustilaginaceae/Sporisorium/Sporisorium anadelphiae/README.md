@@ -1,5 +1,4 @@
-Sporisorium anadelphiae (Vienn.-Bourg.) Vánky SPECIES
-=======
+# Sporisorium anadelphiae (Vienn.-Bourg.) Vánky SPECIES
 
 #### Status
 ACCEPTED

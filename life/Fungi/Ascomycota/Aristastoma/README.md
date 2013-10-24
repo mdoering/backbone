@@ -1,5 +1,4 @@
-Aristastoma Tehon GENUS
-=======
+# Aristastoma Tehon GENUS
 
 #### Status
 ACCEPTED

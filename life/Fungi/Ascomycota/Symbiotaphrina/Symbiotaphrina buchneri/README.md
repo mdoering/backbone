@@ -1,17 +1,16 @@
-Torulopsis buchneri Gräbner, 1954 SPECIES
-=======
+# Symbiotaphrina buchneri Gräbner ex W. Gams & Arx, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 10(4): 543 (1980)
 
 #### Original name
-null
+Symbiotaphrina buchneri Gräbner ex W. Gams & Arx, 1980
 
 ### Remarks
 null

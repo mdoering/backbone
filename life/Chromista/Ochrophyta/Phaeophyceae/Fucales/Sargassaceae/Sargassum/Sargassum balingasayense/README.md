@@ -1,5 +1,4 @@
-Sargassum balingasayense Trono SPECIES
-=======
+# Sargassum balingasayense Trono SPECIES
 
 #### Status
 ACCEPTED

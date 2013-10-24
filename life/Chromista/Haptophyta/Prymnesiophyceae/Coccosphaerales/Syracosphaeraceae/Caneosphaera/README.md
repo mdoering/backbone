@@ -1,5 +1,4 @@
-Caneosphaera Gaarder, 1977 GENUS
-=======
+# Caneosphaera Gaarder, 1977 GENUS
 
 #### Status
 ACCEPTED

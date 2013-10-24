@@ -1,5 +1,4 @@
-Rhabdospora berlesii Sacc. & P. Syd. SPECIES
-=======
+# Rhabdospora berlesii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

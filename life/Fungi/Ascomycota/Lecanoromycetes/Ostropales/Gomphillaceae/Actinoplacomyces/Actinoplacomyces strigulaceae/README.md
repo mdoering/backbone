@@ -1,5 +1,4 @@
-Actinoplacomyces strigulaceae Cif. & Tomas. SPECIES
-=======
+# Actinoplacomyces strigulaceae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

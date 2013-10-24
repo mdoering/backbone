@@ -1,14 +1,13 @@
-Arthrobotryum albicans Sacc., 1877 SPECIES
-=======
+# Arthrosporium albicans (Sacc.) Sacc., 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 1): 75 (1877)
+Syll. fung. (Abellini) 4: 598 (1886)
 
 #### Original name
 Arthrobotryum albicans Sacc., 1877

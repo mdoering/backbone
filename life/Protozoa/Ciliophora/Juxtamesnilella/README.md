@@ -1,5 +1,4 @@
-Juxtamesnilella de Puytorac, 1969 GENUS
-=======
+# Juxtamesnilella de Puytorac, 1969 GENUS
 
 #### Status
 ACCEPTED

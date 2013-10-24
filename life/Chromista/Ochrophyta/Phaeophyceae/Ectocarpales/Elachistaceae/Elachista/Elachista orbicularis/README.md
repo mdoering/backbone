@@ -1,5 +1,4 @@
-Elachista orbicularis (Ohta) Skinner SPECIES
-=======
+# Elachista orbicularis (Ohta) Skinner SPECIES
 
 #### Status
 ACCEPTED

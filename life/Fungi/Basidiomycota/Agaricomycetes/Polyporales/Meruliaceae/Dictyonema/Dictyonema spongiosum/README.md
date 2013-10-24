@@ -1,5 +1,4 @@
-Dictyonema spongiosum Berk. & M.A. Curtis SPECIES
-=======
+# Dictyonema spongiosum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

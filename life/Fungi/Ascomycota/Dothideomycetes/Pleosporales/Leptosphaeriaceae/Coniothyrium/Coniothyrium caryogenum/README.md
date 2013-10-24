@@ -1,5 +1,4 @@
-Coniothyrium caryogenum F.V. Rand SPECIES
-=======
+# Coniothyrium caryogenum F.V. Rand SPECIES
 
 #### Status
 ACCEPTED

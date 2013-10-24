@@ -1,17 +1,16 @@
-Aecidium meliosmatis Dietel SPECIES
-=======
+# Aecidium meliosmae Dietel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Engler's Bot. Jahrb. 28: 289 (1900)
 
 #### Original name
-Aecidium meliosmatis Dietel
+Aecidium meliosmae Dietel
 
 ### Remarks
 null

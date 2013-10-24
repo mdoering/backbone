@@ -1,5 +1,4 @@
-Erysiphe salmonii (Syd. & P. Syd.) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe salmonii (Syd. & P. Syd.) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

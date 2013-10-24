@@ -1,5 +1,4 @@
-Didymosphaeria petrakiana Sacc., 1914 SPECIES
-=======
+# Didymosphaeria petrakiana Sacc., 1914 SPECIES
 
 #### Status
 ACCEPTED

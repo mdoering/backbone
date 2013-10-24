@@ -1,5 +1,4 @@
-Phoma aucubicola Brunaud SPECIES
-=======
+# Phoma aucubicola Brunaud SPECIES
 
 #### Status
 ACCEPTED

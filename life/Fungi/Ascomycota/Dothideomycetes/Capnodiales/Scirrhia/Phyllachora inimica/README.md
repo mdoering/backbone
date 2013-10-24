@@ -1,5 +1,4 @@
-Phyllachora inimica (Theiss. & Syd.) Petr., 1929 SPECIES
-=======
+# Phyllachora inimica (Theiss. & Syd.) Petr., 1929 SPECIES
 
 #### Status
 DOUBTFUL

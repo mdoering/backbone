@@ -1,5 +1,4 @@
-Meliola imperatae Syd. & P. Syd. SPECIES
-=======
+# Meliola imperatae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola coronata var. hibisci (Hansf.) Cif. VARIETY
-=======
+# Meliola coronata Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Mycopath. Mycol. appl. 7: 87 (1954)
+Anal. Soc. cient. argent. 17(3): 133 (1884)
 
 #### Original name
-Irenopsis coronata var. hibisci Hansf.
+Meliola coronata Speg.
 
 ### Remarks
 null

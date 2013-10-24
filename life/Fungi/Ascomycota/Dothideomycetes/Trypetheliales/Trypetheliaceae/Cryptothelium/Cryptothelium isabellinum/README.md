@@ -1,5 +1,4 @@
-Cryptothelium isabellinum (Eschw.) Zahlbr. SPECIES
-=======
+# Cryptothelium isabellinum (Eschw.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiorella zeae É.E. Foëx & P. Berthault, 1912 SPECIES
-=======
+# Dothiorella zeae É.E. Foëx & P. Berthault, 1912 SPECIES
 
 #### Status
 ACCEPTED

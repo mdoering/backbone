@@ -1,5 +1,4 @@
-Spiroplasma floricola Davis et al., 1981 SPECIES
-=======
+# Spiroplasma floricola Davis et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

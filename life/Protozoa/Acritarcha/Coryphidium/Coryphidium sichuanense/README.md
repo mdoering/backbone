@@ -1,5 +1,4 @@
-Coryphidium sichuanense F.Wang & Q. Chen SPECIES
-=======
+# Coryphidium sichuanense F.Wang & Q. Chen SPECIES
 
 #### Status
 ACCEPTED

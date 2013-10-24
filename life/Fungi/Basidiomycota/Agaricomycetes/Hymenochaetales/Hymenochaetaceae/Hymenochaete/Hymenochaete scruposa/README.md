@@ -1,5 +1,4 @@
-Hymenochaete scruposa Massee SPECIES
-=======
+# Hymenochaete scruposa Massee SPECIES
 
 #### Status
 ACCEPTED

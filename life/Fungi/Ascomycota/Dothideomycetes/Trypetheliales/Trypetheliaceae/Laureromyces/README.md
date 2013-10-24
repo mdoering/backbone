@@ -1,5 +1,4 @@
-Laureromyces GENUS
-=======
+# Laureromyces GENUS
 
 #### Status
 ACCEPTED

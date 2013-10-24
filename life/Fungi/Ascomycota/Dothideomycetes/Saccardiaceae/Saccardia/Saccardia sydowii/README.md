@@ -1,5 +1,4 @@
-Saccardia sydowii (Petr.) Arx SPECIES
-=======
+# Saccardia sydowii (Petr.) Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Subtilisphaera pontis-mariae (Deflandre, 1936) Lentin & Williams, 1976 SPECIES
-=======
+# Subtilisphaera pontis-mariae (Deflandre, 1936) Lentin & Williams, 1976 SPECIES
 
 #### Status
 ACCEPTED

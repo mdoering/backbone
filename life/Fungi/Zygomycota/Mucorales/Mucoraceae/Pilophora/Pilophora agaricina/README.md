@@ -1,5 +1,4 @@
-Pilophora agaricina Wallr., 1833 SPECIES
-=======
+# Pilophora agaricina Wallr., 1833 SPECIES
 
 #### Status
 ACCEPTED

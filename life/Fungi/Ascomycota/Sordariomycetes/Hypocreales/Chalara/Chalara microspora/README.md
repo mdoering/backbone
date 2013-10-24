@@ -1,14 +1,13 @@
-Cylindrium clandestinum var. microsporium (Corda) Sacc. VARIETY
-=======
+# Chalara microspora (Corda) S. Hughes, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 36: 747 (1958)
 
 #### Original name
 Fusidium clandestinum var. microsporum Corda, 1838

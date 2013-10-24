@@ -1,5 +1,4 @@
-Brachysporiella rhizoidea (V. Rao & de Hoog) W.P. Wu SPECIES
-=======
+# Brachysporiella rhizoidea (V. Rao & de Hoog) W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

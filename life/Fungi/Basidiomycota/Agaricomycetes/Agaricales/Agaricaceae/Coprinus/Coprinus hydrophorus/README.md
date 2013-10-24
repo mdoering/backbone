@@ -1,5 +1,4 @@
-Coprinus hydrophorus (Bull.) Quél. SPECIES
-=======
+# Coprinus hydrophorus (Bull.) Quél. SPECIES
 
 #### Status
 ACCEPTED

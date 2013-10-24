@@ -1,5 +1,4 @@
-Diporicellaesporites anisospora Sal.-Cheb. & Locq. SPECIES
-=======
+# Diporicellaesporites anisospora Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

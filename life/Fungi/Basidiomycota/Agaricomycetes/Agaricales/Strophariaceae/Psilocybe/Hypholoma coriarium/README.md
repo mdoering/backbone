@@ -1,5 +1,4 @@
-Hypholoma coriarium Panizzi SPECIES
-=======
+# Hypholoma coriarium Panizzi SPECIES
 
 #### Status
 ACCEPTED

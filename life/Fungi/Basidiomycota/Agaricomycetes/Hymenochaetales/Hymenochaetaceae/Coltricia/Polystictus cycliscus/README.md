@@ -1,5 +1,4 @@
-Polystictus cycliscus (Mont.) Cooke SPECIES
-=======
+# Polystictus cycliscus (Mont.) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluricellaesporites typicus Hammen SPECIES
-=======
+# Pluricellaesporites typicus Hammen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spongotrochiscus Haeckel, 1887 GENUS
-=======
+# Spongotrochiscus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

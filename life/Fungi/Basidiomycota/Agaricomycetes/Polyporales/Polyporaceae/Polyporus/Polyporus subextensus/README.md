@@ -1,5 +1,4 @@
-Polyporus subextensus Murrill SPECIES
-=======
+# Polyporus subextensus Murrill SPECIES
 
 #### Status
 ACCEPTED

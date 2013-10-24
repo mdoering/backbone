@@ -1,5 +1,4 @@
-Clathrus albidus L. Becker SPECIES
-=======
+# Clathrus albidus L. Becker SPECIES
 
 #### Status
 ACCEPTED

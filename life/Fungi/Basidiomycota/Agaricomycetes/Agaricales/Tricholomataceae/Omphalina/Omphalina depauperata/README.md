@@ -1,5 +1,4 @@
-Omphalina depauperata (Singer) Raithelh. SPECIES
-=======
+# Omphalina depauperata (Singer) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

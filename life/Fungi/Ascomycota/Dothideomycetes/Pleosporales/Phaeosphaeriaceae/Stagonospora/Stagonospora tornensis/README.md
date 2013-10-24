@@ -1,5 +1,4 @@
-Stagonospora tornensis Subhedar & V.G. Rao SPECIES
-=======
+# Stagonospora tornensis Subhedar & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

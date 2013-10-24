@@ -1,5 +1,4 @@
-Operculigera asymmetrica Clamp, 1991 SPECIES
-=======
+# Operculigera asymmetrica Clamp, 1991 SPECIES
 
 #### Status
 ACCEPTED

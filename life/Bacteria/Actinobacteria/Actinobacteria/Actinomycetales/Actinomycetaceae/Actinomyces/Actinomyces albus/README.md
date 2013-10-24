@@ -1,5 +1,4 @@
-Actinomyces albus Tarozzi SPECIES
-=======
+# Actinomyces albus Tarozzi SPECIES
 
 #### Status
 ACCEPTED

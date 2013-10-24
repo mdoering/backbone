@@ -1,5 +1,4 @@
-Gazelletta Haeckel, 1887 GENUS
-=======
+# Gazelletta Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

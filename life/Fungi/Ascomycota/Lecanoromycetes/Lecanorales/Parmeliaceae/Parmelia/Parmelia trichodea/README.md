@@ -1,5 +1,4 @@
-Parmelia trichodea Spreng. SPECIES
-=======
+# Parmelia trichodea Spreng. SPECIES
 
 #### Status
 ACCEPTED

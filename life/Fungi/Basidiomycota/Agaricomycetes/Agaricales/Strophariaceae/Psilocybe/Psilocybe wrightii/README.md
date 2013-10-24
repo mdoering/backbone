@@ -1,5 +1,4 @@
-Psilocybe wrightii Guzmán SPECIES
-=======
+# Psilocybe wrightii Guzmán SPECIES
 
 #### Status
 ACCEPTED

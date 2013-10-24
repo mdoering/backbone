@@ -1,5 +1,4 @@
-Lactarius luculentus var. luculentus VARIETY
-=======
+# Lactarius luculentus Burl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycologia 28: 260 (1936)
 
 #### Original name
-Lactarius luculentus var. luculentus
+Lactarius luculentus Burl.
 
 ### Remarks
 null

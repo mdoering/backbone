@@ -1,17 +1,16 @@
-Peziza cerina f. cerina FORM
-=======
+# Peziza cerina SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Observ. mycol. (Lipsiae) 1: 43 (1796)
+null
 
 #### Original name
-Peziza cerina f. cerina
+null
 
 ### Remarks
 null

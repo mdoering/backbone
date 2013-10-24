@@ -1,5 +1,4 @@
-Spirodiniidae FAMILY
-=======
+# Spirodiniidae FAMILY
 
 #### Status
 ACCEPTED

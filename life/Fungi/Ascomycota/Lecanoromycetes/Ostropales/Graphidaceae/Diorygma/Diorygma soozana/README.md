@@ -1,5 +1,4 @@
-Diorygma soozana (Zahlbr.) M. Nakan. & Kashiw. SPECIES
-=======
+# Diorygma soozana (Zahlbr.) M. Nakan. & Kashiw. SPECIES
 
 #### Status
 ACCEPTED

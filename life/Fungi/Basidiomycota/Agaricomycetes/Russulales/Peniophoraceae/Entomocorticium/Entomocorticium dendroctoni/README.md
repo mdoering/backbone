@@ -1,5 +1,4 @@
-Entomocorticium dendroctoni H.S. Whitney, 1987 SPECIES
-=======
+# Entomocorticium dendroctoni H.S. Whitney, 1987 SPECIES
 
 #### Status
 ACCEPTED

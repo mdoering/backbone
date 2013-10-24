@@ -1,5 +1,4 @@
-Xylographa perangusta (Stirt.) Müll. Arg. SPECIES
-=======
+# Xylographa perangusta (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

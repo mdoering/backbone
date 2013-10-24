@@ -1,5 +1,4 @@
-Sphaerella delphiniicola (Tracy & Earle) Sacc. & P. Syd. SPECIES
-=======
+# Sphaerella delphiniicola (Tracy & Earle) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

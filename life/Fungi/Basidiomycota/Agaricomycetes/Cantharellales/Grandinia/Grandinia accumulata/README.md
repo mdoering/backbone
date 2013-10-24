@@ -1,5 +1,4 @@
-Grandinia accumulata Berk. & M.A. Curtis SPECIES
-=======
+# Grandinia accumulata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanactis redingeri Zahlbr. SPECIES
-=======
+# Lecanactis redingeri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

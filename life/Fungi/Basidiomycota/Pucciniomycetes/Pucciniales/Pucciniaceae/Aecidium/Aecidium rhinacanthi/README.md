@@ -1,5 +1,4 @@
-Aecidium rhinacanthi J.M. Yen SPECIES
-=======
+# Aecidium rhinacanthi J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

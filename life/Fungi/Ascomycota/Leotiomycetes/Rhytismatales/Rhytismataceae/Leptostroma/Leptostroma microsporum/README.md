@@ -1,5 +1,4 @@
-Leptostroma microsporum (F. Lamb. & Fautrey) Keissl. SPECIES
-=======
+# Leptostroma microsporum (F. Lamb. & Fautrey) Keissl. SPECIES
 
 #### Status
 ACCEPTED

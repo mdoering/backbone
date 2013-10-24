@@ -1,5 +1,4 @@
-Paracoccidioides antarcticus Gezuele SPECIES
-=======
+# Paracoccidioides antarcticus Gezuele SPECIES
 
 #### Status
 ACCEPTED

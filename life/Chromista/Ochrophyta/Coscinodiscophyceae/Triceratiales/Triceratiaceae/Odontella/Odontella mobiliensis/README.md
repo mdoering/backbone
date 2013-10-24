@@ -1,5 +1,4 @@
-Odontella mobiliensis (J.W. Bailey) Grunow SPECIES
-=======
+# Odontella mobiliensis (J.W. Bailey) Grunow SPECIES
 
 #### Status
 ACCEPTED

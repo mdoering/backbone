@@ -1,5 +1,4 @@
-Clitopilus glabellus Speg. SPECIES
-=======
+# Clitopilus glabellus Speg. SPECIES
 
 #### Status
 ACCEPTED

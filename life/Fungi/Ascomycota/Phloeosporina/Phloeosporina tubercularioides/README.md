@@ -1,5 +1,4 @@
-Phloeosporina tubercularioides (Speg.) U. Braun SPECIES
-=======
+# Phloeosporina tubercularioides (Speg.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

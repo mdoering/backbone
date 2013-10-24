@@ -1,5 +1,4 @@
-Cucujomyces rotundatus T. Majewski, 1974 SPECIES
-=======
+# Cucujomyces rotundatus T. Majewski, 1974 SPECIES
 
 #### Status
 ACCEPTED

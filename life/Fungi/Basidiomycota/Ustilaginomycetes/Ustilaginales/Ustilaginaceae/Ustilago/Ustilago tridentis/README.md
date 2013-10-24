@@ -1,5 +1,4 @@
-Ustilago tridentis Vánky SPECIES
-=======
+# Ustilago tridentis Vánky SPECIES
 
 #### Status
 ACCEPTED

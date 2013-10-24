@@ -1,5 +1,4 @@
-Rhizoplegma Haeckel, 1881 GENUS
-=======
+# Rhizoplegma Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

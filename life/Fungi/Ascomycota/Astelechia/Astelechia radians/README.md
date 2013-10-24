@@ -1,5 +1,4 @@
-Astelechia radians Cif., 1962 SPECIES
-=======
+# Astelechia radians Cif., 1962 SPECIES
 
 #### Status
 ACCEPTED

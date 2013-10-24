@@ -1,5 +1,4 @@
-Aspicilia incolorella (Nyl.) Hue SPECIES
-=======
+# Aspicilia incolorella (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

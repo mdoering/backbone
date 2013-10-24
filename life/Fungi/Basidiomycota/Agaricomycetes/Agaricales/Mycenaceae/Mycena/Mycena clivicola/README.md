@@ -1,5 +1,4 @@
-Mycena clivicola Speg. SPECIES
-=======
+# Mycena clivicola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula pseudolepida Singer SPECIES
-=======
+# Russula pseudolepida Singer SPECIES
 
 #### Status
 ACCEPTED

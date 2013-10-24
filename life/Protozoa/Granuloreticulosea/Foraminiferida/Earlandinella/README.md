@@ -1,5 +1,4 @@
-Earlandinella Cummings, 1955 GENUS
-=======
+# Earlandinella Cummings, 1955 GENUS
 
 #### Status
 ACCEPTED

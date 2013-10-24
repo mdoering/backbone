@@ -1,5 +1,4 @@
-Ophioceras tjibodense Penz. & Sacc. SPECIES
-=======
+# Ophioceras tjibodense Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

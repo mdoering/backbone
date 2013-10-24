@@ -1,5 +1,4 @@
-Calycina citrinicolor (P. Crouan & H. Crouan) Kuntze SPECIES
-=======
+# Calycina citrinicolor (P. Crouan & H. Crouan) Kuntze SPECIES
 
 #### Status
 ACCEPTED

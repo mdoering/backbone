@@ -1,5 +1,4 @@
-Camarosporium aucupariae Kirschst. SPECIES
-=======
+# Camarosporium aucupariae Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylon pseudotubulina var. pseudotubulina VARIETY
-=======
+# Hypoxylon pseudotubulina Ces. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Atti Accad. Sci. fis. mat. Napoli 8: 17 (1879)
 
 #### Original name
-Hypoxylon pseudotubulina var. pseudotubulina
+Hypoxylon pseudotubulina Ces.
 
 ### Remarks
 null

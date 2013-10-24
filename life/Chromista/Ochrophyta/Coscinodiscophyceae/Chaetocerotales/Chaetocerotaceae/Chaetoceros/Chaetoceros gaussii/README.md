@@ -1,5 +1,4 @@
-Chaetoceros gaussii Heiden SPECIES
-=======
+# Chaetoceros gaussii Heiden SPECIES
 
 #### Status
 ACCEPTED

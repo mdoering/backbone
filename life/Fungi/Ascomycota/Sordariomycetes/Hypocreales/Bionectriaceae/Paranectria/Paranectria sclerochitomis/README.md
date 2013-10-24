@@ -1,5 +1,4 @@
-Paranectria sclerochitomis Hansf. SPECIES
-=======
+# Paranectria sclerochitomis Hansf. SPECIES
 
 #### Status
 ACCEPTED

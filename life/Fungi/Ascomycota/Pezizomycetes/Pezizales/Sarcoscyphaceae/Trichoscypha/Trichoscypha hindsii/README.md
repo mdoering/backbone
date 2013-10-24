@@ -1,5 +1,4 @@
-Trichoscypha hindsii (Berk.) Cooke SPECIES
-=======
+# Trichoscypha hindsii (Berk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

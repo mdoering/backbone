@@ -1,5 +1,4 @@
-Cortinarius zonatus Reumaux SPECIES
-=======
+# Cortinarius zonatus Reumaux SPECIES
 
 #### Status
 ACCEPTED

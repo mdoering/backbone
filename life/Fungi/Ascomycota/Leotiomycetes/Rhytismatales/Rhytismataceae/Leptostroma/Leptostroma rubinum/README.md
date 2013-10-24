@@ -1,5 +1,4 @@
-Leptostroma rubinum P. Karst. SPECIES
-=======
+# Leptostroma rubinum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

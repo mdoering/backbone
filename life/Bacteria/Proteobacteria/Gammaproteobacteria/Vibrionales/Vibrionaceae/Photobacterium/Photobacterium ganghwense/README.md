@@ -1,5 +1,4 @@
-Photobacterium ganghwense Park et al., 2006 SPECIES
-=======
+# Photobacterium ganghwense Park et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

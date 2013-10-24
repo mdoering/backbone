@@ -1,5 +1,4 @@
-Parmelia nigrociliata Hillmann SPECIES
-=======
+# Parmelia nigrociliata Hillmann SPECIES
 
 #### Status
 ACCEPTED

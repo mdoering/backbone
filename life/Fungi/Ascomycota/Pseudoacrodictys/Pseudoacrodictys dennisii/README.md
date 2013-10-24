@@ -1,5 +1,4 @@
-Pseudoacrodictys dennisii (M.B. Ellis) W.A. Baker & Morgan-Jones SPECIES
-=======
+# Pseudoacrodictys dennisii (M.B. Ellis) W.A. Baker & Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

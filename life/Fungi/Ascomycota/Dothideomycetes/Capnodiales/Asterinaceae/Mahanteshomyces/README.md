@@ -1,5 +1,4 @@
-Mahanteshomyces Hosag. & C.K. Biju GENUS
-=======
+# Mahanteshomyces Hosag. & C.K. Biju GENUS
 
 #### Status
 ACCEPTED

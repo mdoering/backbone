@@ -1,5 +1,4 @@
-Granomarginata squamacea Volkova, 1968 SPECIES
-=======
+# Granomarginata squamacea Volkova, 1968 SPECIES
 
 #### Status
 ACCEPTED

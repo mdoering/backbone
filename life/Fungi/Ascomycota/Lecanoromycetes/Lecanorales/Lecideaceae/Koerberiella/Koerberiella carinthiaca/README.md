@@ -1,5 +1,4 @@
-Koerberiella carinthiaca Motyka SPECIES
-=======
+# Koerberiella carinthiaca Motyka SPECIES
 
 #### Status
 ACCEPTED

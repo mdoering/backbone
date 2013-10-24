@@ -1,5 +1,4 @@
-Himantia tela Pers. SPECIES
-=======
+# Himantia tela Pers. SPECIES
 
 #### Status
 ACCEPTED

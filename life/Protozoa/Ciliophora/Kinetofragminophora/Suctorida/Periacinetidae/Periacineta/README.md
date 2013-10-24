@@ -1,5 +1,4 @@
-Periacineta Collin, 1909 GENUS
-=======
+# Periacineta Collin, 1909 GENUS
 
 #### Status
 ACCEPTED

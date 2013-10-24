@@ -1,5 +1,4 @@
-Exosporium lateritium Syd. & P. Syd. SPECIES
-=======
+# Exosporium lateritium Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

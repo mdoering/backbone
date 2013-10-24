@@ -1,5 +1,4 @@
-Acetomonas Leifson, 1954 GENUS
-=======
+# Acetomonas Leifson, 1954 GENUS
 
 #### Status
 ACCEPTED

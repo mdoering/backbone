@@ -1,5 +1,4 @@
-Mycena venustula Quél., 1883 SPECIES
-=======
+# Mycena venustula Quél., 1883 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Boletus juglandinus Schwein., 1822 SPECIES
-=======
+# Ceriporia spissa (Schwein. ex Fr.) Rajchenb., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Schr. naturf. Ges. Leipzig 1: 99 (1822)
+Mycotaxon 17: 276 (1983)
 
 #### Original name
-Boletus juglandinus Schwein., 1822
+Polyporus spissus Schwein. ex Fr., 1828
 
 ### Remarks
 null

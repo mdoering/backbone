@@ -1,5 +1,4 @@
-Exserohilum minor Alcorn SPECIES
-=======
+# Exserohilum minor Alcorn SPECIES
 
 #### Status
 ACCEPTED

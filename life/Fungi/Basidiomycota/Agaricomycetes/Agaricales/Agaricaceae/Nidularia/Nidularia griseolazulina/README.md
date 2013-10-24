@@ -1,5 +1,4 @@
-Nidularia griseolazulina Lindsey & Gilb. SPECIES
-=======
+# Nidularia griseolazulina Lindsey & Gilb. SPECIES
 
 #### Status
 ACCEPTED

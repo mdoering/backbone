@@ -1,17 +1,16 @@
-Comatricha longa var. flaccida Minakata VARIETY
-=======
+# Stemonaria longa (Peck) Nann.-Bremek., R. Sharma & Y. Yamam., 1984 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Mycetozoa (London) 149 (1925)
+null
 
 #### Original name
-Comatricha longa var. flaccida Minakata
+null
 
 ### Remarks
 null

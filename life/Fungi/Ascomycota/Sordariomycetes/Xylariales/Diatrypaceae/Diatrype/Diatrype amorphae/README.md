@@ -1,5 +1,4 @@
-Diatrype amorphae Savul. & Sandu SPECIES
-=======
+# Diatrype amorphae Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

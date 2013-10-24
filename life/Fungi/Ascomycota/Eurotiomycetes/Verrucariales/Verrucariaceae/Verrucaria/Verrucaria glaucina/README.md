@@ -1,17 +1,16 @@
-Verrucaria glaucina var. glaucina VARIETY
-=======
+# Verrucaria glaucina Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Lich. univ. 675 (1810)
 
 #### Original name
-Verrucaria glaucina var. glaucina
+Verrucaria glaucina Ach.
 
 ### Remarks
 null

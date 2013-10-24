@@ -1,5 +1,4 @@
-Neofusulinella Deprat, 1912 GENUS
-=======
+# Neofusulinella Deprat, 1912 GENUS
 
 #### Status
 ACCEPTED

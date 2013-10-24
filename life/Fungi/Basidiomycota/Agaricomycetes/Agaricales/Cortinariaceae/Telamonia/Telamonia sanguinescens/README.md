@@ -1,5 +1,4 @@
-Telamonia sanguinescens Velen. SPECIES
-=======
+# Telamonia sanguinescens Velen. SPECIES
 
 #### Status
 ACCEPTED

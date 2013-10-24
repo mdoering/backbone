@@ -1,5 +1,4 @@
-Xylaria delicatissima Rick SPECIES
-=======
+# Xylaria delicatissima Rick SPECIES
 
 #### Status
 ACCEPTED

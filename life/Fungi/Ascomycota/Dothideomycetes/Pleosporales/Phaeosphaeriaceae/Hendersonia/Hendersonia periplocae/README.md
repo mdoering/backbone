@@ -1,5 +1,4 @@
-Hendersonia periplocae Hollós SPECIES
-=======
+# Hendersonia periplocae Hollós SPECIES
 
 #### Status
 ACCEPTED

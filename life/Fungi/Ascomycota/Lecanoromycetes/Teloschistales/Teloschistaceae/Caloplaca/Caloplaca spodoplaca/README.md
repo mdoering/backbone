@@ -1,5 +1,4 @@
-Caloplaca spodoplaca (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca spodoplaca (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

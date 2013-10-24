@@ -1,17 +1,16 @@
-Rhizopogon subcaerulescens var. subpannosus A.H. Sm. VARIETY
-=======
+# Rhizopogon subcaerulescens A.H. Sm., 1966 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. N. Y. bot. Gdn 14(2): 46 (1966)
+Mem. N. Y. bot. Gdn 14(2): 44 (1966)
 
 #### Original name
-Rhizopogon subcaerulescens var. subpannosus A.H. Sm.
+Rhizopogon subcaerulescens A.H. Sm., 1966
 
 ### Remarks
 null

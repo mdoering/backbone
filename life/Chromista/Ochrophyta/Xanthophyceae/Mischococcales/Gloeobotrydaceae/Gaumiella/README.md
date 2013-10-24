@@ -1,5 +1,4 @@
-Gaumiella Bourrelly, 1948 GENUS
-=======
+# Gaumiella Bourrelly, 1948 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cannopilus literatus (D. Bukry) T. V. Desikachary & P. Prema SPECIES
-=======
+# Cannopilus literatus (D. Bukry) T. V. Desikachary & P. Prema SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synedra splendens Kützing SPECIES
-=======
+# Synedra splendens Kützing SPECIES
 
 #### Status
 ACCEPTED

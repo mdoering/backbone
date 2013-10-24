@@ -1,5 +1,4 @@
-Quercella aurantiaca Velen. SPECIES
-=======
+# Quercella aurantiaca Velen. SPECIES
 
 #### Status
 ACCEPTED

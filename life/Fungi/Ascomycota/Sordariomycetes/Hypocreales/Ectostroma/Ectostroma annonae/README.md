@@ -1,5 +1,4 @@
-Ectostroma annonae (Schwein.) Fr. SPECIES
-=======
+# Ectostroma annonae (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

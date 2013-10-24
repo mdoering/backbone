@@ -1,5 +1,4 @@
-Blastobotrys arbuscula de Hoog, Rant.-Leht. & M.T. Sm., 1985 SPECIES
-=======
+# Blastobotrys arbuscula de Hoog, Rant.-Leht. & M.T. Sm., 1985 SPECIES
 
 #### Status
 ACCEPTED

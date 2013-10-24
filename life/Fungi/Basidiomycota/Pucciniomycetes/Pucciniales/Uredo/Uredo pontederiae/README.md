@@ -1,5 +1,4 @@
-Uredo pontederiae Speg. SPECIES
-=======
+# Uredo pontederiae Speg. SPECIES
 
 #### Status
 ACCEPTED

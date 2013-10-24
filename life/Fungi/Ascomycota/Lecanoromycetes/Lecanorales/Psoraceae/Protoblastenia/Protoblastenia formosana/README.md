@@ -1,5 +1,4 @@
-Protoblastenia formosana Zahlbr. SPECIES
-=======
+# Protoblastenia formosana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

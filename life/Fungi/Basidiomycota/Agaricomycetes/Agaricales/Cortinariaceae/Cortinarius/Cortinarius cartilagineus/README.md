@@ -1,14 +1,13 @@
-Secotium cartilagineum G. Cunn., 1924 SPECIES
-=======
+# Cortinarius cartilagineus (G. Cunn.) Peintner & M.M. Moser, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Linn. Soc. N. S. W. 49: 115 (1924)
+Mycotaxon 81: 179 (2002)
 
 #### Original name
 Secotium cartilagineum G. Cunn., 1924

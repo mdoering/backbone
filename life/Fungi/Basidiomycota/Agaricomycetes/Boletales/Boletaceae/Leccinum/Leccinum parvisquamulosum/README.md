@@ -1,5 +1,4 @@
-Leccinum parvisquamulosum E.A. Dick & Snell SPECIES
-=======
+# Leccinum parvisquamulosum E.A. Dick & Snell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricellula symmetrica K. Matsush. & Matsush. SPECIES
-=======
+# Tricellula symmetrica K. Matsush. & Matsush. SPECIES
 
 #### Status
 ACCEPTED

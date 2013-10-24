@@ -1,5 +1,4 @@
-Pluteus okabei S. Ito & S. Imai SPECIES
-=======
+# Pluteus okabei S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

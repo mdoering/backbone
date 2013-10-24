@@ -1,5 +1,4 @@
-Cytosporina elongata Vouaux SPECIES
-=======
+# Cytosporina elongata Vouaux SPECIES
 
 #### Status
 ACCEPTED

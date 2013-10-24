@@ -1,17 +1,16 @@
-Peziza calyculiformis var. calyculiformis VARIETY
-=======
+# Peziza calyculiformis SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Enum. pl. (Kjbenhavn) 2: 425 (1803)
+null
 
 #### Original name
-Peziza calyculiformis var. calyculiformis
+null
 
 ### Remarks
 null

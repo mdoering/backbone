@@ -1,5 +1,4 @@
-Naemospora microsperma Ellis & Everh. SPECIES
-=======
+# Naemospora microsperma Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

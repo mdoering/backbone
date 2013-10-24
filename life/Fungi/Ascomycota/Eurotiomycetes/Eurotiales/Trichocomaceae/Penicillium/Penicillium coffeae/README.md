@@ -1,5 +1,4 @@
-Penicillium coffeae S.W. Peterson, F.E. Vega, Posada & C. Nagai SPECIES
-=======
+# Penicillium coffeae S.W. Peterson, F.E. Vega, Posada & C. Nagai SPECIES
 
 #### Status
 ACCEPTED

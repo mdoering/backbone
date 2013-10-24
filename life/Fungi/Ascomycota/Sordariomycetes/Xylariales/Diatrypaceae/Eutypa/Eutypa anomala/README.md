@@ -1,5 +1,4 @@
-Eutypa anomala (De Not.) Sacc. SPECIES
-=======
+# Eutypa anomala (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

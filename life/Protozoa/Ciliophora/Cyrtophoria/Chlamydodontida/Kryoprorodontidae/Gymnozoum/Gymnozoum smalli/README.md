@@ -1,5 +1,4 @@
-Gymnozoum smalli Dale, 1996 SPECIES
-=======
+# Gymnozoum smalli Dale, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geopyxis albocinerea Velen. SPECIES
-=======
+# Geopyxis albocinerea Velen. SPECIES
 
 #### Status
 ACCEPTED

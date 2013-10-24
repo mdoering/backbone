@@ -1,5 +1,4 @@
-Agaricus hemisphaericus J. Otto SPECIES
-=======
+# Agaricus hemisphaericus J. Otto SPECIES
 
 #### Status
 ACCEPTED

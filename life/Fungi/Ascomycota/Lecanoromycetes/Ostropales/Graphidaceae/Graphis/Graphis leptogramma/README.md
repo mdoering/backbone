@@ -1,5 +1,4 @@
-Graphis leptogramma Nyl. SPECIES
-=======
+# Graphis leptogramma Nyl. SPECIES
 
 #### Status
 ACCEPTED

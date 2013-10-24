@@ -1,5 +1,4 @@
-Pseudoparmelia floridensis Elix & T. H. Nash SPECIES
-=======
+# Pseudoparmelia floridensis Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

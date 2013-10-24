@@ -1,5 +1,4 @@
-Anteholosticha antecirrata Berger, 2006 SPECIES
-=======
+# Anteholosticha antecirrata Berger, 2006 SPECIES
 
 #### Status
 ACCEPTED

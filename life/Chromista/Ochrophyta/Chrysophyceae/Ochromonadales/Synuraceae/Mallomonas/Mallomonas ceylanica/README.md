@@ -1,5 +1,4 @@
-Mallomonas ceylanica M. Dürrschmidt & G. Cronberg SPECIES
-=======
+# Mallomonas ceylanica M. Dürrschmidt & G. Cronberg SPECIES
 
 #### Status
 ACCEPTED

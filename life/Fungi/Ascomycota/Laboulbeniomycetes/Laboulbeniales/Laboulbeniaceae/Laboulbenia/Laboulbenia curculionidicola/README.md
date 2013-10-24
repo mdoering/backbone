@@ -1,5 +1,4 @@
-Laboulbenia curculionidicola K. Sugiy. & T. Majewski SPECIES
-=======
+# Laboulbenia curculionidicola K. Sugiy. & T. Majewski SPECIES
 
 #### Status
 ACCEPTED

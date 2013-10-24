@@ -1,8 +1,7 @@
-Trachelomonas rapacea Skvortzov SPECIES
-=======
+# Strombomonas rapacea (Skvortsov) Huber-PeStalozzi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

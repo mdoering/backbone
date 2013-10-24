@@ -1,5 +1,4 @@
-Dactylella magnabrocha Glockling SPECIES
-=======
+# Dactylella magnabrocha Glockling SPECIES
 
 #### Status
 ACCEPTED

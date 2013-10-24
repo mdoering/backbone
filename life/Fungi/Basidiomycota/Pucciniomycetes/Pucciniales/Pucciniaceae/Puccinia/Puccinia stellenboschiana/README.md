@@ -1,5 +1,4 @@
-Puccinia stellenboschiana Van der Byl SPECIES
-=======
+# Puccinia stellenboschiana Van der Byl SPECIES
 
 #### Status
 ACCEPTED

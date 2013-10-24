@@ -1,14 +1,13 @@
-Calvatia subcretacea Zeller, 1947 SPECIES
-=======
+# Gastropila subcretacea (Zeller) P. Ponce de León, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 39(3): 298 (1947)
+Phytologia 33(7): 461 (1976)
 
 #### Original name
 Calvatia subcretacea Zeller, 1947

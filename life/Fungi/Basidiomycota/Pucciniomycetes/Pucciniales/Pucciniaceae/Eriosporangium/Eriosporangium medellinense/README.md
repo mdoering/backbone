@@ -1,5 +1,4 @@
-Eriosporangium medellinense (Mayor) Syd. SPECIES
-=======
+# Eriosporangium medellinense (Mayor) Syd. SPECIES
 
 #### Status
 ACCEPTED

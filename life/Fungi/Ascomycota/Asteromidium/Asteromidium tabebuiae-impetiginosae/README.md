@@ -1,5 +1,4 @@
-Asteromidium tabebuiae-impetiginosae Pomella & J.B. Mesquita SPECIES
-=======
+# Asteromidium tabebuiae-impetiginosae Pomella & J.B. Mesquita SPECIES
 
 #### Status
 ACCEPTED

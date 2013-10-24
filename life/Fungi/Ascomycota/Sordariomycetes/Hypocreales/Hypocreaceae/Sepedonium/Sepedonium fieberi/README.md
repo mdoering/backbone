@@ -1,5 +1,4 @@
-Sepedonium fieberi E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Sepedonium fieberi E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

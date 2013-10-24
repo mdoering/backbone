@@ -1,5 +1,4 @@
-Marginarae Zadorozhnyj & Yuferev, 1984 GENUS
-=======
+# Marginarae Zadorozhnyj & Yuferev, 1984 GENUS
 
 #### Status
 ACCEPTED

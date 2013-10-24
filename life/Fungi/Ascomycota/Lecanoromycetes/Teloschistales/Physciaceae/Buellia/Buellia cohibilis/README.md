@@ -1,5 +1,4 @@
-Buellia cohibilis (Nyl.) Zahlbr. SPECIES
-=======
+# Buellia cohibilis (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

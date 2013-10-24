@@ -1,5 +1,4 @@
-Tremellodiscus mucidus (Rodway) Lloyd SPECIES
-=======
+# Tremellodiscus mucidus (Rodway) Lloyd SPECIES
 
 #### Status
 ACCEPTED

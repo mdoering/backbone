@@ -1,5 +1,4 @@
-Gibberella agglomerata (Fr.) Sacc. SPECIES
-=======
+# Gibberella agglomerata (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

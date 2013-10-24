@@ -1,5 +1,4 @@
-Coleps arenicolus Dragesco, 1965 SPECIES
-=======
+# Coleps arenicolus Dragesco, 1965 SPECIES
 
 #### Status
 ACCEPTED

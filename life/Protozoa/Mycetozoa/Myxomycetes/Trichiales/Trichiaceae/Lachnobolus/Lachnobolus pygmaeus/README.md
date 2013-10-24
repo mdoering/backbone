@@ -1,5 +1,4 @@
-Lachnobolus pygmaeus Zukal SPECIES
-=======
+# Lachnobolus pygmaeus Zukal SPECIES
 
 #### Status
 ACCEPTED

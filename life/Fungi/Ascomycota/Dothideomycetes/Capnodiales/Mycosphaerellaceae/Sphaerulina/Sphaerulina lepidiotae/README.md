@@ -1,5 +1,4 @@
-Sphaerulina lepidiotae (Anzi) Vain. SPECIES
-=======
+# Sphaerulina lepidiotae (Anzi) Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora soredifera Fée SPECIES
-=======
+# Lecanora soredifera Fée SPECIES
 
 #### Status
 ACCEPTED

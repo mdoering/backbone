@@ -1,5 +1,4 @@
-Bulimina etnea Seguenza SPECIES
-=======
+# Bulimina etnea Seguenza SPECIES
 
 #### Status
 ACCEPTED

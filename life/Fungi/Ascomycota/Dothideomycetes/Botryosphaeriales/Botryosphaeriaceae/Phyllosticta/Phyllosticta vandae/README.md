@@ -1,5 +1,4 @@
-Phyllosticta vandae Namysl. SPECIES
-=======
+# Phyllosticta vandae Namysl. SPECIES
 
 #### Status
 ACCEPTED

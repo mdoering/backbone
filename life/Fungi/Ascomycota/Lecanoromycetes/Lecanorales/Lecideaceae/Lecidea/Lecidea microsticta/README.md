@@ -1,5 +1,4 @@
-Lecidea microsticta Meyen & Flot. SPECIES
-=======
+# Lecidea microsticta Meyen & Flot. SPECIES
 
 #### Status
 ACCEPTED

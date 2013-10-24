@@ -1,5 +1,4 @@
-Hypocrella obconica Henn. SPECIES
-=======
+# Hypocrella obconica Henn. SPECIES
 
 #### Status
 ACCEPTED

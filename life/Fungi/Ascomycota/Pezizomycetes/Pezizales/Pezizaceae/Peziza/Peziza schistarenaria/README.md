@@ -1,5 +1,4 @@
-Peziza schistarenaria Saut. SPECIES
-=======
+# Peziza schistarenaria Saut. SPECIES
 
 #### Status
 ACCEPTED

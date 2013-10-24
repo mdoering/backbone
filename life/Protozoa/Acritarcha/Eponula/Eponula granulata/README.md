@@ -1,5 +1,4 @@
-Eponula granulata Vavrdova in Vavrdova, 1990 SPECIES
-=======
+# Eponula granulata Vavrdova in Vavrdova, 1990 SPECIES
 
 #### Status
 ACCEPTED

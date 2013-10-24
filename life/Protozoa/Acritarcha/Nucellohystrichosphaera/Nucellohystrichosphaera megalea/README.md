@@ -1,5 +1,4 @@
-Nucellohystrichosphaera megalea Timofeev in Timofeev et al., 1976 SPECIES
-=======
+# Nucellohystrichosphaera megalea Timofeev in Timofeev et al., 1976 SPECIES
 
 #### Status
 ACCEPTED

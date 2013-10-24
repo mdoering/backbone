@@ -1,5 +1,4 @@
-Leptosphaeria ahmadii Petr. SPECIES
-=======
+# Leptosphaeria ahmadii Petr. SPECIES
 
 #### Status
 ACCEPTED

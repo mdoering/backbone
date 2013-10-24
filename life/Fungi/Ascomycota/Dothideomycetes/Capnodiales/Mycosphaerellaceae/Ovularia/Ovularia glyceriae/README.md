@@ -1,5 +1,4 @@
-Ovularia glyceriae Jaap SPECIES
-=======
+# Ovularia glyceriae Jaap SPECIES
 
 #### Status
 ACCEPTED

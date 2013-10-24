@@ -1,5 +1,4 @@
-Aecidium liatridis Ellis & H.W. Anderson SPECIES
-=======
+# Aecidium liatridis Ellis & H.W. Anderson SPECIES
 
 #### Status
 ACCEPTED

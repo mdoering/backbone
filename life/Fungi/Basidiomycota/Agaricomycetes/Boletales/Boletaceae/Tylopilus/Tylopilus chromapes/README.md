@@ -1,5 +1,4 @@
-Tylopilus chromapes (Frost) A.H. Sm. & Thiers SPECIES
-=======
+# Tylopilus chromapes (Frost) A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

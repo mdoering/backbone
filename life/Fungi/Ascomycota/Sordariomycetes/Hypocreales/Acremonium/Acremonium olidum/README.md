@@ -1,5 +1,4 @@
-Acremonium olidum W. Gams, 1971 SPECIES
-=======
+# Acremonium olidum W. Gams, 1971 SPECIES
 
 #### Status
 ACCEPTED

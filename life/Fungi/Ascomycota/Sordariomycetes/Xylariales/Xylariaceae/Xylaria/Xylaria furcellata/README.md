@@ -1,5 +1,4 @@
-Xylaria furcellata Berk. SPECIES
-=======
+# Xylaria furcellata Berk. SPECIES
 
 #### Status
 ACCEPTED

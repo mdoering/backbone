@@ -1,17 +1,16 @@
-Hygroaster agumbense Sathe & S.M. Kulk. SPECIES
-=======
+# Hygroaster agumbensis Sathe & S.M. Kulk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Maharashtra Association for the Cultivation of Science, Monograph No. 1 Agaricales (Mushrooms) of South West India (Pune) 52 (1981)
 
 #### Original name
-Hygroaster agumbense Sathe & S.M. Kulk.
+Hygroaster agumbensis Sathe & S.M. Kulk.
 
 ### Remarks
 null

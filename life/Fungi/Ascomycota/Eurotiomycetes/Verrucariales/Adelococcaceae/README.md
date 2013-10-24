@@ -1,5 +1,4 @@
-Adelococcaceae Triebel FAMILY
-=======
+# Adelococcaceae Triebel FAMILY
 
 #### Status
 ACCEPTED

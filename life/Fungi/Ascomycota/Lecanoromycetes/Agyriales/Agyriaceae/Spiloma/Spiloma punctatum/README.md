@@ -1,5 +1,4 @@
-Spiloma punctatum Turner & Borrer SPECIES
-=======
+# Spiloma punctatum Turner & Borrer SPECIES
 
 #### Status
 ACCEPTED

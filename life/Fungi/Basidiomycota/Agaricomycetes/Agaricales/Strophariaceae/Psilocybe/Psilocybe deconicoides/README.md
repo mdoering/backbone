@@ -1,5 +1,4 @@
-Psilocybe deconicoides E. Horak, Guzmán & Desjardin SPECIES
-=======
+# Psilocybe deconicoides E. Horak, Guzmán & Desjardin SPECIES
 
 #### Status
 ACCEPTED

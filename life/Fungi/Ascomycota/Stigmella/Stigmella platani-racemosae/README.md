@@ -1,5 +1,4 @@
-Stigmella platani-racemosae Dearn. & Barthol. SPECIES
-=======
+# Stigmella platani-racemosae Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

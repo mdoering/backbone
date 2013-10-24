@@ -1,5 +1,4 @@
-Pyrenophora meliloti Ranoj. SPECIES
-=======
+# Pyrenophora meliloti Ranoj. SPECIES
 
 #### Status
 ACCEPTED

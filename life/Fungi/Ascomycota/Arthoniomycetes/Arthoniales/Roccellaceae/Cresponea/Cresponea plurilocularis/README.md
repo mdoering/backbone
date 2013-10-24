@@ -1,17 +1,16 @@
-Lecanactis quassiae var. obfuscata (Müll. Arg.) Zahlbr. VARIETY
-=======
+# Cresponea plurilocularis (Nyl.) Egea & Torrente SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 2: 545 (1923)
+Mycotaxon 48: 322 (1993)
 
 #### Original name
-Opegrapha plurilocularis var. obfuscata Müll. Arg.
+Lecidea premnea var. plurilocularis Nyl.
 
 ### Remarks
 null

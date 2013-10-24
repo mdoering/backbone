@@ -1,5 +1,4 @@
-Transversopontis duocavus (Bramlette & Sullivan, 1961) Locker, 1973 SPECIES
-=======
+# Transversopontis duocavus (Bramlette & Sullivan, 1961) Locker, 1973 SPECIES
 
 #### Status
 ACCEPTED

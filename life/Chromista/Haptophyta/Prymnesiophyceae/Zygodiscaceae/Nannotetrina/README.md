@@ -1,17 +1,16 @@
-Nannotetraster Stradner, 1960 GENUS
-=======
+# Nannotetrina M.V. Achuthan & H. Stradner, 1969 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+in Bronnimann & Renz (Eds). Proceedings of the First International Conference on Planktonic Microfossils, Geneva 1967. Vol. 1. E. J. Brill, Leiden: 7.
 
 #### Original name
-null
+Nannotetraster Stradner, 1960
 
 ### Remarks
 null

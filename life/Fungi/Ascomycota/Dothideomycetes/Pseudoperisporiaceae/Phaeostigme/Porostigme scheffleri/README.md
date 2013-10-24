@@ -1,5 +1,4 @@
-Porostigme scheffleri (Henn.) Syd. & P. Syd. SPECIES
-=======
+# Porostigme scheffleri (Henn.) Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

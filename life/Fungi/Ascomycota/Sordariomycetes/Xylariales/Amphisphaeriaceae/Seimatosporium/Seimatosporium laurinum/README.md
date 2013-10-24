@@ -1,5 +1,4 @@
-Seimatosporium laurinum (Mont.) Arx SPECIES
-=======
+# Seimatosporium laurinum (Mont.) Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria lepidospermatis McAlpine SPECIES
-=======
+# Metasphaeria lepidospermatis McAlpine SPECIES
 
 #### Status
 ACCEPTED

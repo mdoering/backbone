@@ -1,5 +1,4 @@
-Basispora africana John & Lawson SPECIES
-=======
+# Basispora africana John & Lawson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita squarrosa Nagas. & Hongo SPECIES
-=======
+# Amanita squarrosa Nagas. & Hongo SPECIES
 
 #### Status
 ACCEPTED

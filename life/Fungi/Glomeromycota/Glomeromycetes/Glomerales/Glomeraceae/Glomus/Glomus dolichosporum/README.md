@@ -1,5 +1,4 @@
-Glomus dolichosporum M.Q. Zhang & You S. Wang, 1997 SPECIES
-=======
+# Glomus dolichosporum M.Q. Zhang & You S. Wang, 1997 SPECIES
 
 #### Status
 ACCEPTED

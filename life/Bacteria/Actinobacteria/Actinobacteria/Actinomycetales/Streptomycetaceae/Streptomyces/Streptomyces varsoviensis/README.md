@@ -1,5 +1,4 @@
-Streptomyces varsoviensis Kurylowicz and Woznicka, 1967 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces varsoviensis Kurylowicz and Woznicka, 1967 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

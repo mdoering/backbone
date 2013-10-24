@@ -1,14 +1,13 @@
-Leptotrema elachistoteron (Leight.) Patw. & Kulk. SPECIES
-=======
+# Leucodecton elachistoteron (Leight.) Frisch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Norw. Jl Bot. 24: 128 (1977)
+Biblthca Lichenol. 92: 155 (2006)
 
 #### Original name
 Thelotrema elachistoteron Leight.

@@ -1,5 +1,4 @@
-Entelexis magnoliae Van der Walt & Johannsen, 1973 SPECIES
-=======
+# Entelexis magnoliae Van der Walt & Johannsen, 1973 SPECIES
 
 #### Status
 ACCEPTED

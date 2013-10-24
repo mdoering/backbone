@@ -1,5 +1,4 @@
-Leccinum subalpinum Thiers SPECIES
-=======
+# Leccinum subalpinum Thiers SPECIES
 
 #### Status
 ACCEPTED

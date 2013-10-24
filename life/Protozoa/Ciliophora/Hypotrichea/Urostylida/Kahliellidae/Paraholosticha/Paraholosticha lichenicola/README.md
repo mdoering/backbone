@@ -1,5 +1,4 @@
-Paraholosticha lichenicola Gellert, 1955 SPECIES
-=======
+# Paraholosticha lichenicola Gellert, 1955 SPECIES
 
 #### Status
 ACCEPTED

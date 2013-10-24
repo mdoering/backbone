@@ -1,5 +1,4 @@
-Clisosporium tuberculariae (Pass.) Kuntze SPECIES
-=======
+# Clisosporium tuberculariae (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

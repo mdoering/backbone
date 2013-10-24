@@ -1,5 +1,4 @@
-Discosia ignobilis Fautrey SPECIES
-=======
+# Discosia ignobilis Fautrey SPECIES
 
 #### Status
 ACCEPTED

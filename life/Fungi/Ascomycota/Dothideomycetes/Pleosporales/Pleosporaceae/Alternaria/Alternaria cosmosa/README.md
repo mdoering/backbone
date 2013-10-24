@@ -1,5 +1,4 @@
-Alternaria cosmosa Y.L. Li & W.S. Wu SPECIES
-=======
+# Alternaria cosmosa Y.L. Li & W.S. Wu SPECIES
 
 #### Status
 ACCEPTED

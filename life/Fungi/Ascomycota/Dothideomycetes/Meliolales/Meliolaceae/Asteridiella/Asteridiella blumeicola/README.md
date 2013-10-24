@@ -1,5 +1,4 @@
-Asteridiella blumeicola H. Hu SPECIES
-=======
+# Asteridiella blumeicola H. Hu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora ehretiae Hosag. & N.C. Nair, 1986 SPECIES
-=======
+# Phyllachora ehretiae Hosag. & N.C. Nair, 1986 SPECIES
 
 #### Status
 DOUBTFUL

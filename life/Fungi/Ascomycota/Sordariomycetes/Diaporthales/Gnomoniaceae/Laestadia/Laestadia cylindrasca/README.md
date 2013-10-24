@@ -1,5 +1,4 @@
-Laestadia cylindrasca (Sacc. & Speg.) Sacc. SPECIES
-=======
+# Laestadia cylindrasca (Sacc. & Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium oblongatum Abbas, B. Sutton & Ghaffar SPECIES
-=======
+# Coniothyrium oblongatum Abbas, B. Sutton & Ghaffar SPECIES
 
 #### Status
 ACCEPTED

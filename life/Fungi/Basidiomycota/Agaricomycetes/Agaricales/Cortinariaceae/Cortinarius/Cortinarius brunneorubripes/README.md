@@ -1,5 +1,4 @@
-Cortinarius brunneorubripes Melot SPECIES
-=======
+# Cortinarius brunneorubripes Melot SPECIES
 
 #### Status
 ACCEPTED

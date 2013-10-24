@@ -1,5 +1,4 @@
-Mycena viscidipileus Corner SPECIES
-=======
+# Mycena viscidipileus Corner SPECIES
 
 #### Status
 ACCEPTED

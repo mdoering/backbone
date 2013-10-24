@@ -1,5 +1,4 @@
-Diplodina geasteris Hollós SPECIES
-=======
+# Diplodina geasteris Hollós SPECIES
 
 #### Status
 ACCEPTED

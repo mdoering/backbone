@@ -1,5 +1,4 @@
-Lachnodochium candidum Marchal, 1895 SPECIES
-=======
+# Lachnodochium candidum Marchal, 1895 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrea melanomagna P. Chaverri & Samuels SPECIES
-=======
+# Hypocrea melanomagna P. Chaverri & Samuels SPECIES
 
 #### Status
 ACCEPTED

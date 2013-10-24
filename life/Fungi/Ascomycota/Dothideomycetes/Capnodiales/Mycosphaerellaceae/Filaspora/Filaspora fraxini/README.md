@@ -1,5 +1,4 @@
-Filaspora fraxini (Pass.) Kuntze SPECIES
-=======
+# Filaspora fraxini (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

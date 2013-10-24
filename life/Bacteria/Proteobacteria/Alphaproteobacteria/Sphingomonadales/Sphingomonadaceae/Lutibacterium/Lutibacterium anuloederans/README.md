@@ -1,5 +1,4 @@
-Lutibacterium anuloederans Chung & King, 2001 SPECIES
-=======
+# Lutibacterium anuloederans Chung & King, 2001 SPECIES
 
 #### Status
 ACCEPTED

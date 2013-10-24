@@ -1,5 +1,4 @@
-Distopyrenis composita R. C. Harris SPECIES
-=======
+# Distopyrenis composita R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

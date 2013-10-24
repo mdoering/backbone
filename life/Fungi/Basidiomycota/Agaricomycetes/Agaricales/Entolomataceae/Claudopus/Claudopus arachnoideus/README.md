@@ -1,5 +1,4 @@
-Claudopus arachnoideus (Berk. & M.A. Curtis) Pegler SPECIES
-=======
+# Claudopus arachnoideus (Berk. & M.A. Curtis) Pegler SPECIES
 
 #### Status
 ACCEPTED

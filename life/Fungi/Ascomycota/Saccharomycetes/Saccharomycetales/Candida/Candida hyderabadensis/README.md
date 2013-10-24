@@ -1,5 +1,4 @@
-Candida hyderabadensis R.Sreen. Rao, Bhadra, N.N. Kumar & Shivaji SPECIES
-=======
+# Candida hyderabadensis R.Sreen. Rao, Bhadra, N.N. Kumar & Shivaji SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heraldoa ardua (Syd.) Bat. SPECIES
-=======
+# Heraldoa ardua (Syd.) Bat. SPECIES
 
 #### Status
 ACCEPTED

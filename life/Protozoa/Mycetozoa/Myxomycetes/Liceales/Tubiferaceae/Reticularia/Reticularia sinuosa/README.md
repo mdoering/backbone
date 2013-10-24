@@ -1,5 +1,4 @@
-Reticularia sinuosa Bull. SPECIES
-=======
+# Reticularia sinuosa Bull. SPECIES
 
 #### Status
 ACCEPTED

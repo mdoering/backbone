@@ -1,17 +1,16 @@
-Arthrobotrys gracilis (Dudd.) S. Schenck, W.B. Kendr. & Pramer, 1977 SPECIES
-=======
+# Arthrobotrys brochopaga (Drechsler) S. Schenck, W.B. Kendr. & Pramer, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 55(8): 983 (1977)
+Can. J. Bot. 55(8): 982 (1977)
 
 #### Original name
-Dactylaria gracilis Dudd., 1951
+Dactylella brochopaga Drechsler, 1937
 
 ### Remarks
 null

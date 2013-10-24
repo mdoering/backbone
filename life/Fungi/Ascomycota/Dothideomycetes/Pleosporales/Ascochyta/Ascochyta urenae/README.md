@@ -1,5 +1,4 @@
-Ascochyta urenae Sawada SPECIES
-=======
+# Ascochyta urenae Sawada SPECIES
 
 #### Status
 ACCEPTED

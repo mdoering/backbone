@@ -1,5 +1,4 @@
-Peridermium laricis (Kleb.) Arthur & F. Kern SPECIES
-=======
+# Peridermium laricis (Kleb.) Arthur & F. Kern SPECIES
 
 #### Status
 ACCEPTED

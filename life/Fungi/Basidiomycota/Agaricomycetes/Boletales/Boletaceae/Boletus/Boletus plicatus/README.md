@@ -1,5 +1,4 @@
-Boletus plicatus Schumach. SPECIES
-=======
+# Boletus plicatus Schumach. SPECIES
 
 #### Status
 ACCEPTED

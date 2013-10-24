@@ -1,5 +1,4 @@
-Pontibacter actiniarum Nedashkovskaya et al., 2005 SPECIES
-=======
+# Pontibacter actiniarum Nedashkovskaya et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pachyella punctispora Pfister SPECIES
-=======
+# Pachyella punctispora Pfister SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyacanthitidae FAMILY
-=======
+# Dictyacanthitidae FAMILY
 
 #### Status
 ACCEPTED

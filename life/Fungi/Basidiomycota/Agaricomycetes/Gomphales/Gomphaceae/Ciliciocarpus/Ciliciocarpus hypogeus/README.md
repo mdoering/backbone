@@ -1,17 +1,16 @@
-Ciliciocarpus hypogaeus Corda SPECIES
-=======
+# Ciliciocarpus hypogeus Corda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Sturm, Deutschl. Fl. , 3 Abt. (Pilze Deutschl. ) 3(11): 5 (1831)
 
 #### Original name
-Ciliciocarpus hypogaeus Corda
+Ciliciocarpus hypogeus Corda
 
 ### Remarks
 null

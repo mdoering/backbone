@@ -1,5 +1,4 @@
-Cryptococcus watticus Guffogg, Thomas-Hall, P. Holloway & Watson SPECIES
-=======
+# Cryptococcus watticus Guffogg, Thomas-Hall, P. Holloway & Watson SPECIES
 
 #### Status
 ACCEPTED

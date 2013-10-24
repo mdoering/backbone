@@ -1,5 +1,4 @@
-Nectriella myriadea (Ces.) Sacc. SPECIES
-=======
+# Nectriella myriadea (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

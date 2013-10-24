@@ -1,5 +1,4 @@
-Vaucheria nasuta W.R. Taylor & Bernatowicz SPECIES
-=======
+# Vaucheria nasuta W.R. Taylor & Bernatowicz SPECIES
 
 #### Status
 ACCEPTED

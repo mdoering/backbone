@@ -1,5 +1,4 @@
-Reophax pauciloculatus Rhumbler, 1931 SPECIES
-=======
+# Reophax pauciloculatus Rhumbler, 1931 SPECIES
 
 #### Status
 ACCEPTED

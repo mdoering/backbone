@@ -1,5 +1,4 @@
-Uredo polymniae Henn. SPECIES
-=======
+# Uredo polymniae Henn. SPECIES
 
 #### Status
 ACCEPTED

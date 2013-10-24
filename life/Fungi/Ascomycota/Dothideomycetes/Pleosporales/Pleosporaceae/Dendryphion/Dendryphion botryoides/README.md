@@ -1,5 +1,4 @@
-Dendryphion botryoides (A.L. Sm.) Sacc. & D. Sacc. SPECIES
-=======
+# Dendryphion botryoides (A.L. Sm.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

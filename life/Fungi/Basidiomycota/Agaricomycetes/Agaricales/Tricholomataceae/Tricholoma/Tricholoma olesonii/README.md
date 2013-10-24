@@ -1,5 +1,4 @@
-Tricholoma olesonii Murrill SPECIES
-=======
+# Tricholoma olesonii Murrill SPECIES
 
 #### Status
 ACCEPTED

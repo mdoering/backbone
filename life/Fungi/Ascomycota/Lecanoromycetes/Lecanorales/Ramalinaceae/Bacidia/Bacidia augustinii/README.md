@@ -1,5 +1,4 @@
-Bacidia augustinii (Tuck.) Zahlbr. SPECIES
-=======
+# Bacidia augustinii (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

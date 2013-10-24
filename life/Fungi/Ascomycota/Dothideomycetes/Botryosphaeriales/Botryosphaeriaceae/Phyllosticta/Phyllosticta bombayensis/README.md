@@ -1,5 +1,4 @@
-Phyllosticta bombayensis Aa SPECIES
-=======
+# Phyllosticta bombayensis Aa SPECIES
 
 #### Status
 ACCEPTED

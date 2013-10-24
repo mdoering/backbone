@@ -1,8 +1,7 @@
-Crassicollaria massutiana SPECIES
-=======
+# Crassicollaria massutiniana (Colom, 1948) Remane, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Skeletohydnum Jülich GENUS
-=======
+# Skeletohydnum Jülich GENUS
 
 #### Status
 ACCEPTED

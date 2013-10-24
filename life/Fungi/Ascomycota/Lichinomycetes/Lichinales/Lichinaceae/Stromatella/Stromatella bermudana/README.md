@@ -1,5 +1,4 @@
-Stromatella bermudana (Riddle) Henssen SPECIES
-=======
+# Stromatella bermudana (Riddle) Henssen SPECIES
 
 #### Status
 ACCEPTED

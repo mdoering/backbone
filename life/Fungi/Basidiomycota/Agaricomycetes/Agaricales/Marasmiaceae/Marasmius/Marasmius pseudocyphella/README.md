@@ -1,5 +1,4 @@
-Marasmius pseudocyphella Antonín & Buyck SPECIES
-=======
+# Marasmius pseudocyphella Antonín & Buyck SPECIES
 
 #### Status
 ACCEPTED

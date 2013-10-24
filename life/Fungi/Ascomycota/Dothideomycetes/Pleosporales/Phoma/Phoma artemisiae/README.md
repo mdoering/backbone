@@ -1,5 +1,4 @@
-Phoma artemisiae Golovin SPECIES
-=======
+# Phoma artemisiae Golovin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pilosace ombrophilus (P. Karst.) Kuntze SPECIES
-=======
+# Pilosace ombrophilus (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

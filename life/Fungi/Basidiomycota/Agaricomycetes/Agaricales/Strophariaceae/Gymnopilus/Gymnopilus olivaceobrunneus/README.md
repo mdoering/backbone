@@ -1,5 +1,4 @@
-Gymnopilus olivaceobrunneus S.M. Kulk. SPECIES
-=======
+# Gymnopilus olivaceobrunneus S.M. Kulk. SPECIES
 
 #### Status
 ACCEPTED

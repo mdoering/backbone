@@ -1,5 +1,4 @@
-Methylopila capsulata Doronina et al., 1998 SPECIES
-=======
+# Methylopila capsulata Doronina et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

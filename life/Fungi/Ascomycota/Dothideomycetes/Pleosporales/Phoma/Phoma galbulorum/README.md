@@ -1,5 +1,4 @@
-Phoma galbulorum Sacc. & Therry SPECIES
-=======
+# Phoma galbulorum Sacc. & Therry SPECIES
 
 #### Status
 ACCEPTED

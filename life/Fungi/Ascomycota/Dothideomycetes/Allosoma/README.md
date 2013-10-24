@@ -1,5 +1,4 @@
-Allosoma Syd. GENUS
-=======
+# Allosoma Syd. GENUS
 
 #### Status
 ACCEPTED

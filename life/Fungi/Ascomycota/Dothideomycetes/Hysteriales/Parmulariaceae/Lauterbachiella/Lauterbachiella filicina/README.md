@@ -1,14 +1,13 @@
-Rhagadolobium filicinum (Berk. & Broome) Arx, 1962 SPECIES
-=======
+# Lauterbachiella filicina (Berk. & Broome) Dingley, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Müller & Arx, Beitr. Kryptfl. Schweiz 11(no. 2): 42 (1962)
+N. Z. Jl Bot. 10(1): 82 (1972)
 
 #### Original name
 Rhytisma filicinum Berk. & Broome

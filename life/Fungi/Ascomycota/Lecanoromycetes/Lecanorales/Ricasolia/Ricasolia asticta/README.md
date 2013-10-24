@@ -1,5 +1,4 @@
-Ricasolia asticta (Nyl.) Müll. Arg. SPECIES
-=======
+# Ricasolia asticta (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

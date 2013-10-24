@@ -1,5 +1,4 @@
-Leptogium devertens (Nyl.) Zahlbr. SPECIES
-=======
+# Leptogium devertens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

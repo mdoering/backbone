@@ -1,5 +1,4 @@
-Agaricus effocatellus Mauri SPECIES
-=======
+# Agaricus effocatellus Mauri SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galera mucidolens Berk. SPECIES
-=======
+# Galera mucidolens Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Passalora millii (Syd.) G.A. de Vries SPECIES
-=======
+# Cladosporium milii Syd., 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 12(6): 538 (1914)
 
 #### Original name
 Cladosporium milii Syd., 1914

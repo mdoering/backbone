@@ -1,5 +1,4 @@
-Psychrobacter salsus Shivaji et al., 2005 SPECIES
-=======
+# Psychrobacter salsus Shivaji et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

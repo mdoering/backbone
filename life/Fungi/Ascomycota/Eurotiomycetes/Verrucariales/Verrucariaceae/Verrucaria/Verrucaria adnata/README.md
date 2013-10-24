@@ -1,5 +1,4 @@
-Verrucaria adnata Nyl. SPECIES
-=======
+# Verrucaria adnata Nyl. SPECIES
 
 #### Status
 ACCEPTED

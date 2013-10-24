@@ -1,5 +1,4 @@
-Aecidium tournefortiae Henn. SPECIES
-=======
+# Aecidium tournefortiae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta orni Sacc. & Speg. SPECIES
-=======
+# Ascochyta orni Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

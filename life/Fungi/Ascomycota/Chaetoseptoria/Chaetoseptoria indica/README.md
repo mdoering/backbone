@@ -1,5 +1,4 @@
-Chaetoseptoria indica P.K. Khanna SPECIES
-=======
+# Chaetoseptoria indica P.K. Khanna SPECIES
 
 #### Status
 ACCEPTED

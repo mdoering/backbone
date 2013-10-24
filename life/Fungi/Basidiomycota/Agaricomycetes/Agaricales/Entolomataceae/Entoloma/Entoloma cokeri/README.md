@@ -1,5 +1,4 @@
-Entoloma cokeri Murrill SPECIES
-=======
+# Entoloma cokeri Murrill SPECIES
 
 #### Status
 ACCEPTED

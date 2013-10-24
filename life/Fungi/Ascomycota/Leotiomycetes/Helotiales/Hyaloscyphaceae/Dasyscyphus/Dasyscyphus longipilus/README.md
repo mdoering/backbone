@@ -1,8 +1,7 @@
-Dasyscypha longipilus (Peck) Sacc. SPECIES
-=======
+# Dasyscyphus longipilus (Peck) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

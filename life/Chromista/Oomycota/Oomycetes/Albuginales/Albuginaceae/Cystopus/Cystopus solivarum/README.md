@@ -1,5 +1,4 @@
-Cystopus solivarum Speg. SPECIES
-=======
+# Cystopus solivarum Speg. SPECIES
 
 #### Status
 ACCEPTED

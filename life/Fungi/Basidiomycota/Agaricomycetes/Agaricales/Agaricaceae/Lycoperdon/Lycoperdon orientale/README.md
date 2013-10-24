@@ -1,5 +1,4 @@
-Lycoperdon orientale Schmidel SPECIES
-=======
+# Lycoperdon orientale Schmidel SPECIES
 
 #### Status
 ACCEPTED

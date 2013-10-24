@@ -1,5 +1,4 @@
-Phoma peponis Politis SPECIES
-=======
+# Phoma peponis Politis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phytomastigophora CLASS
-=======
+# Phytomastigophora CLASS
 
 #### Status
 ACCEPTED

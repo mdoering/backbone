@@ -1,5 +1,4 @@
-Sphaeria subsolitaria Schwein. ex Fr. SPECIES
-=======
+# Sphaeria subsolitaria Schwein. ex Fr. SPECIES
 
 #### Status
 ACCEPTED

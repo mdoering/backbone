@@ -1,5 +1,4 @@
-Catillaria limosescens Zahlbr. SPECIES
-=======
+# Catillaria limosescens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

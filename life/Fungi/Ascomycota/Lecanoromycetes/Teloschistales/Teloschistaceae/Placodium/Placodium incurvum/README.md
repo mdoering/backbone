@@ -1,5 +1,4 @@
-Placodium incurvum (Pers.) Frege SPECIES
-=======
+# Placodium incurvum (Pers.) Frege SPECIES
 
 #### Status
 ACCEPTED

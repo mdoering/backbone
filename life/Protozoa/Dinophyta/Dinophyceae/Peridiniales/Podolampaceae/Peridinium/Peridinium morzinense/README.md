@@ -1,8 +1,7 @@
-Peridinium lubieniense f. elegans (Lefèvre) Lindemann FORM
-=======
+# Peridinium morzinense Lefèvre SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

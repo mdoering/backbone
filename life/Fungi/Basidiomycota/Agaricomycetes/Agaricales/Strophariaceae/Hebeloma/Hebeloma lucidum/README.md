@@ -1,5 +1,4 @@
-Hebeloma lucidum Murrill SPECIES
-=======
+# Hebeloma lucidum Murrill SPECIES
 
 #### Status
 ACCEPTED

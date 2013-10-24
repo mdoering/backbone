@@ -1,5 +1,4 @@
-Dictyopteris macrocarpa (Areschoug) O. Schmidt SPECIES
-=======
+# Dictyopteris macrocarpa (Areschoug) O. Schmidt SPECIES
 
 #### Status
 ACCEPTED

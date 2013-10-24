@@ -1,5 +1,4 @@
-Bizzozeria didyma Speg. SPECIES
-=======
+# Bizzozeria didyma Speg. SPECIES
 
 #### Status
 ACCEPTED

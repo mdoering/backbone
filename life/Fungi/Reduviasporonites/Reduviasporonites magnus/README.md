@@ -1,5 +1,4 @@
-Reduviasporonites magnus (Doub. & D. Pons) Kalgutkar & Janson. SPECIES
-=======
+# Reduviasporonites magnus (Doub. & D. Pons) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

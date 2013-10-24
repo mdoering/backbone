@@ -1,5 +1,4 @@
-Pseudoprorodon sossiae Dietz, 1964 SPECIES
-=======
+# Pseudoprorodon sossiae Dietz, 1964 SPECIES
 
 #### Status
 ACCEPTED

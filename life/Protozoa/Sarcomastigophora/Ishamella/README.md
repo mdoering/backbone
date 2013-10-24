@@ -1,5 +1,4 @@
-Ishamella Buzas & Severin, 1982 GENUS
-=======
+# Ishamella Buzas & Severin, 1982 GENUS
 
 #### Status
 ACCEPTED

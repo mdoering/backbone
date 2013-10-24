@@ -1,5 +1,4 @@
-Meliola matacotricha Speg. SPECIES
-=======
+# Meliola matacotricha Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyrocorys Stein, 1860 GENUS
-=======
+# Gyrocorys Stein, 1860 GENUS
 
 #### Status
 ACCEPTED

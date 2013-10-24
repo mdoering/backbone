@@ -1,5 +1,4 @@
-Rhodanobacter fulvus Im et al., 2005 SPECIES
-=======
+# Rhodanobacter fulvus Im et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

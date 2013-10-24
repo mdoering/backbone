@@ -1,5 +1,4 @@
-Hypoxylon palmigena Berk. & Cooke SPECIES
-=======
+# Hypoxylon palmigena Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

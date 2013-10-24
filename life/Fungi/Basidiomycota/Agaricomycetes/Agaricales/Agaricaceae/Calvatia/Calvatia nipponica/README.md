@@ -1,5 +1,4 @@
-Calvatia nipponica Kawam. SPECIES
-=======
+# Calvatia nipponica Kawam. SPECIES
 
 #### Status
 ACCEPTED

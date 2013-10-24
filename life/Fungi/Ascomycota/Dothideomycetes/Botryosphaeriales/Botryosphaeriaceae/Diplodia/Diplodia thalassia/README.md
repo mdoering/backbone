@@ -1,5 +1,4 @@
-Diplodia thalassia N.J. Artemczuk, 1980 SPECIES
-=======
+# Diplodia thalassia N.J. Artemczuk, 1980 SPECIES
 
 #### Status
 ACCEPTED

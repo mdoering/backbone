@@ -1,5 +1,4 @@
-Azospirillum brasilense Tarrand et al. SPECIES
-=======
+# Azospirillum brasilense Tarrand et al. SPECIES
 
 #### Status
 ACCEPTED

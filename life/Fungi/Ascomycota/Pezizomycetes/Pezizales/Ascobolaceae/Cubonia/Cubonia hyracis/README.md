@@ -1,5 +1,4 @@
-Cubonia hyracis Faurel & Schotter SPECIES
-=======
+# Cubonia hyracis Faurel & Schotter SPECIES
 
 #### Status
 ACCEPTED

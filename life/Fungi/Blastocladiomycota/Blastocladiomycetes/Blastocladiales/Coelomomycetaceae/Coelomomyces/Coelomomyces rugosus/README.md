@@ -1,5 +1,4 @@
-Coelomomyces rugosus Couch & Service SPECIES
-=======
+# Coelomomyces rugosus Couch & Service SPECIES
 
 #### Status
 ACCEPTED

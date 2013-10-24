@@ -1,5 +1,4 @@
-Xylographa pruinodisca B. D. Ryan & T. H. Nash SPECIES
-=======
+# Xylographa pruinodisca B. D. Ryan & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

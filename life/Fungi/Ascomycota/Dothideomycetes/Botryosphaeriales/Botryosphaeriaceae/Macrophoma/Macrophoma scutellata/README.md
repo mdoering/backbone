@@ -1,5 +1,4 @@
-Macrophoma scutellata (G.H. Otth) Sacc. SPECIES
-=======
+# Macrophoma scutellata (G.H. Otth) Sacc. SPECIES
 
 #### Status
 ACCEPTED

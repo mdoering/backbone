@@ -1,5 +1,4 @@
-Agaricus coerulescens Fr. SPECIES
-=======
+# Agaricus coerulescens Fr. SPECIES
 
 #### Status
 ACCEPTED

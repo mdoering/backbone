@@ -1,5 +1,4 @@
-Tricholoma albidum Bon SPECIES
-=======
+# Tricholoma albidum Bon SPECIES
 
 #### Status
 ACCEPTED

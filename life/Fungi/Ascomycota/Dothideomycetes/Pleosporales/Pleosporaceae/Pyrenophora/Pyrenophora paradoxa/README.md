@@ -1,5 +1,4 @@
-Pyrenophora paradoxa Fr. SPECIES
-=======
+# Pyrenophora paradoxa Fr. SPECIES
 
 #### Status
 ACCEPTED

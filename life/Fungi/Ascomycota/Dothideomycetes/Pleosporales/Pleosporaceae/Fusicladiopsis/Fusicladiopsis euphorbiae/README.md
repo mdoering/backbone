@@ -1,5 +1,4 @@
-Fusicladiopsis euphorbiae (Karak.) Karak. & Vassiljevsky SPECIES
-=======
+# Fusicladiopsis euphorbiae (Karak.) Karak. & Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

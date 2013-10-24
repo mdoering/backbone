@@ -1,5 +1,4 @@
-Delitschia palmietensis K.D. Hyde & Steinke SPECIES
-=======
+# Delitschia palmietensis K.D. Hyde & Steinke SPECIES
 
 #### Status
 ACCEPTED

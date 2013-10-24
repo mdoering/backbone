@@ -1,5 +1,4 @@
-Hecatonema sargassicola Børgesen SPECIES
-=======
+# Hecatonema sargassicola Børgesen SPECIES
 
 #### Status
 ACCEPTED

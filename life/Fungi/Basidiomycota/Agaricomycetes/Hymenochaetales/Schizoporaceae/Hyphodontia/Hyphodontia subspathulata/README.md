@@ -1,14 +1,13 @@
-Odontia subspathulata H. Furuk., 1974 SPECIES
-=======
+# Hyphodontia subspathulata (H. Furuk.) N. Maek., 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Govt Forest Exp. Stn Meguro 261: 21 (1974)
+Rep. Tottori Mycol. Inst. 31: 16 (1993)
 
 #### Original name
 Odontia subspathulata H. Furuk., 1974

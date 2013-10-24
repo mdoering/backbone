@@ -1,5 +1,4 @@
-Choanophrya stenaselli Matjasic, 1963 SPECIES
-=======
+# Choanophrya stenaselli Matjasic, 1963 SPECIES
 
 #### Status
 ACCEPTED

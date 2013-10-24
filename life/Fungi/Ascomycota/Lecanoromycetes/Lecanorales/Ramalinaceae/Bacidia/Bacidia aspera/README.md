@@ -1,5 +1,4 @@
-Bacidia aspera Groenh. SPECIES
-=======
+# Bacidia aspera Groenh. SPECIES
 
 #### Status
 ACCEPTED

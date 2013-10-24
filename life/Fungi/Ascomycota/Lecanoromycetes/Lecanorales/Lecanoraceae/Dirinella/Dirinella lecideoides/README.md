@@ -1,5 +1,4 @@
-Dirinella lecideoides M. Choisy SPECIES
-=======
+# Dirinella lecideoides M. Choisy SPECIES
 
 #### Status
 ACCEPTED

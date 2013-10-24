@@ -1,5 +1,4 @@
-Isidium stalactiticum Bory SPECIES
-=======
+# Isidium stalactiticum Bory SPECIES
 
 #### Status
 ACCEPTED

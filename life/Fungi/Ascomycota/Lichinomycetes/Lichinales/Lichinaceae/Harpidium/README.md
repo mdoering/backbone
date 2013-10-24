@@ -1,5 +1,4 @@
-Harpidium Körber, 1855 GENUS
-=======
+# Harpidium Körber, 1855 GENUS
 
 #### Status
 ACCEPTED

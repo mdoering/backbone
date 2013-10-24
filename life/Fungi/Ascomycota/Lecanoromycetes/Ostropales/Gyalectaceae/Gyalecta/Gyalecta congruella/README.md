@@ -1,5 +1,4 @@
-Gyalecta congruella H. Olivier SPECIES
-=======
+# Gyalecta congruella H. Olivier SPECIES
 
 #### Status
 ACCEPTED

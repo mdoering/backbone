@@ -1,5 +1,4 @@
-Asteridium elegantissimum Rehm SPECIES
-=======
+# Asteridium elegantissimum Rehm SPECIES
 
 #### Status
 ACCEPTED

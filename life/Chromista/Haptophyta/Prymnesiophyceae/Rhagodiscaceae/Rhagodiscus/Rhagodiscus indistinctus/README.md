@@ -1,5 +1,4 @@
-Rhagodiscus indistinctus SPECIES
-=======
+# Rhagodiscus indistinctus SPECIES
 
 #### Status
 ACCEPTED

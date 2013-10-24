@@ -1,5 +1,4 @@
-Lophodermium unciniae P.R. Johnst., 1989 SPECIES
-=======
+# Lophodermium unciniae P.R. Johnst., 1989 SPECIES
 
 #### Status
 ACCEPTED

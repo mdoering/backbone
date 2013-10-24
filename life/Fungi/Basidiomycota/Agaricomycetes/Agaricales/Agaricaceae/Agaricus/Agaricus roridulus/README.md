@@ -1,5 +1,4 @@
-Agaricus roridulus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus roridulus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

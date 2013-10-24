@@ -1,17 +1,16 @@
-Parmelia concolor var. multifida (Flot.) Zahlbr. VARIETY
-=======
+# Xanthoparmelia concolor (Spreng.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 28(5): 486 (1974)
 
 #### Original name
-null
+Xanthoparmelia concolor (Spreng.) Hale
 
 ### Remarks
 null

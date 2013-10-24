@@ -1,5 +1,4 @@
-Hygrotrama bicolor Sathe & S.M. Kulk. SPECIES
-=======
+# Hygrotrama bicolor Sathe & S.M. Kulk. SPECIES
 
 #### Status
 ACCEPTED

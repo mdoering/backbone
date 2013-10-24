@@ -1,5 +1,4 @@
-Pestalotiopsis elephants (Carman) Y.X. Chen SPECIES
-=======
+# Pestalotiopsis elephants (Carman) Y.X. Chen SPECIES
 
 #### Status
 ACCEPTED

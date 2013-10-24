@@ -1,5 +1,4 @@
-Psilocybe heliconiae Guzmán, Saldarr., Pineda, G. García & L.-F. Velázquez SPECIES
-=======
+# Psilocybe heliconiae Guzmán, Saldarr., Pineda, G. García & L.-F. Velázquez SPECIES
 
 #### Status
 ACCEPTED

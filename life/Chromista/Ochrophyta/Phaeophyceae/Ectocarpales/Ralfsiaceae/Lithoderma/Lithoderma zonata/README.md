@@ -1,5 +1,4 @@
-Lithoderma zonata C.C.Jao, 1941 SPECIES
-=======
+# Lithoderma zonata C.C.Jao, 1941 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotium betulae Lib. SPECIES
-=======
+# Sclerotium betulae Lib. SPECIES
 
 #### Status
 ACCEPTED

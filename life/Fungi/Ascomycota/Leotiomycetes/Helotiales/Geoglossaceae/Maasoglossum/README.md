@@ -1,5 +1,4 @@
-Maasoglossum K.S. Thind & R. Sharma GENUS
-=======
+# Maasoglossum K.S. Thind & R. Sharma GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola entebbeensis Hansf. SPECIES
-=======
+# Meliola entebbeensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

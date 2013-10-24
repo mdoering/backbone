@@ -1,5 +1,4 @@
-Catenochytridium Berdan GENUS
-=======
+# Catenochytridium Berdan GENUS
 
 #### Status
 ACCEPTED

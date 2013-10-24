@@ -1,5 +1,4 @@
-Spinobrunsiina Conil & Longerstaey in Conil, Longerstaey & Ramsbottom, 1980 GENUS
-=======
+# Spinobrunsiina Conil & Longerstaey in Conil, Longerstaey & Ramsbottom, 1980 GENUS
 
 #### Status
 ACCEPTED

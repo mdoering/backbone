@@ -1,5 +1,4 @@
-Pyrgoella tenuiaperta (Huang, 1970) SPECIES
-=======
+# Pyrgoella tenuiaperta (Huang, 1970) SPECIES
 
 #### Status
 ACCEPTED

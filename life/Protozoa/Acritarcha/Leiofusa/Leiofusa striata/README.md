@@ -1,5 +1,4 @@
-Leiofusa striata Brito & Santos, 1965 SPECIES
-=======
+# Leiofusa striata Brito & Santos, 1965 SPECIES
 
 #### Status
 ACCEPTED

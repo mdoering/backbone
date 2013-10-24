@@ -1,5 +1,4 @@
-Erysiphe thesii L. Junell, 1967 SPECIES
-=======
+# Erysiphe thesii L. Junell, 1967 SPECIES
 
 #### Status
 ACCEPTED

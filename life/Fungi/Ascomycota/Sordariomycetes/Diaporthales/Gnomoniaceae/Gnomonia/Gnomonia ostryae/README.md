@@ -1,5 +1,4 @@
-Gnomonia ostryae De Not. SPECIES
-=======
+# Gnomonia ostryae De Not. SPECIES
 
 #### Status
 ACCEPTED

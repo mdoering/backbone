@@ -1,8 +1,7 @@
-Carchesium epistilidis SPECIES
-=======
+# Carchesium epistylis Claparède & Lachmann, 1858 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

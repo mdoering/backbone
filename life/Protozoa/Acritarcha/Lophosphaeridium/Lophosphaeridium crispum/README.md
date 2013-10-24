@@ -1,5 +1,4 @@
-Lophosphaeridium crispum (Timofeev, 1959) Li Zaiping, 1982 SPECIES
-=======
+# Lophosphaeridium crispum (Timofeev, 1959) Li Zaiping, 1982 SPECIES
 
 #### Status
 ACCEPTED

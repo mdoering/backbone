@@ -1,5 +1,4 @@
-Physalospora sampaioi Gonz. Frag. SPECIES
-=======
+# Physalospora sampaioi Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

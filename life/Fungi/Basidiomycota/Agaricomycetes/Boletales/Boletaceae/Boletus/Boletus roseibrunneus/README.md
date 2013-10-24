@@ -1,5 +1,4 @@
-Boletus roseibrunneus Thiers SPECIES
-=======
+# Boletus roseibrunneus Thiers SPECIES
 
 #### Status
 ACCEPTED

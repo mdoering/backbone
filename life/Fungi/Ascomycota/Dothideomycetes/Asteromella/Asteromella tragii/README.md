@@ -1,5 +1,4 @@
-Asteromella tragii (Bubák) Petr. SPECIES
-=======
+# Asteromella tragii (Bubák) Petr. SPECIES
 
 #### Status
 ACCEPTED

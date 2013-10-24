@@ -1,5 +1,4 @@
-Clisosporium populi (Richon) Kuntze SPECIES
-=======
+# Clisosporium populi (Richon) Kuntze SPECIES
 
 #### Status
 ACCEPTED

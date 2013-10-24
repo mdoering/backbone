@@ -1,5 +1,4 @@
-Biatora difformis (Fr.) Tuck. SPECIES
-=======
+# Biatora difformis (Fr.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

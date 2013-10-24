@@ -1,5 +1,4 @@
-Lunatriella Eicher & Worstell, 1970 GENUS
-=======
+# Lunatriella Eicher & Worstell, 1970 GENUS
 
 #### Status
 ACCEPTED

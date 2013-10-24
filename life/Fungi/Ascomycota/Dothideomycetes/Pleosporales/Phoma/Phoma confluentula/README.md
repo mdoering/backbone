@@ -1,5 +1,4 @@
-Phoma confluentula Sacc. & P. Syd. SPECIES
-=======
+# Phoma confluentula Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

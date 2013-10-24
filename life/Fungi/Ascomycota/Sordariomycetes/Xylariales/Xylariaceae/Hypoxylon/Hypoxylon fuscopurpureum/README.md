@@ -1,17 +1,16 @@
-Hypoxylon fuscopurpureum f. fuscopurpureum (Schwein.) M.A. Curtis FORM
-=======
+# Hypoxylon fuscopurpureum (Schwein.) M.A. Curtis, 1867 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Goel. Nat. Hist. Surv. N. Carol. , Pt 3 140 (1867)
 
 #### Original name
-Hypoxylon fuscopurpureum f. fuscopurpureum (Schwein.) M.A. Curtis
+Sphaeria fuscopurpurea Schwein., 1825
 
 ### Remarks
 null

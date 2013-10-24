@@ -1,17 +1,16 @@
-Lentinus villosus var. villosus VARIETY
-=======
+# Lentinus villosus Klotzsch, 1833 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Linnaea 8: 479 (1833)
 
 #### Original name
-Lentinus villosus var. villosus
+Lentinus villosus Klotzsch, 1833
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Pyrenula neglecta subsp. occidentalis R.C. Harris SUBSPECIES
-=======
+# Pyrenula occidentalis (R. C. Harris) R. C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michigan Bot. 12(1): 51 (1973)
+in Ahti, Brodo & Noble, Mycotaxon 28(1): 96 (1987)
 
 #### Original name
 Pyrenula neglecta subsp. occidentalis R.C. Harris

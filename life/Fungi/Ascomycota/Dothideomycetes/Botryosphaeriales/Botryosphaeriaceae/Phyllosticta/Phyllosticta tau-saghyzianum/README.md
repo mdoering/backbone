@@ -1,5 +1,4 @@
-Phyllosticta tau-saghyzianum Zerova SPECIES
-=======
+# Phyllosticta tau-saghyzianum Zerova SPECIES
 
 #### Status
 ACCEPTED

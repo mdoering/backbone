@@ -1,5 +1,4 @@
-Ostreopsis labens M. A. Faust & S. L. Morton SPECIES
-=======
+# Ostreopsis labens M. A. Faust & S. L. Morton SPECIES
 
 #### Status
 ACCEPTED

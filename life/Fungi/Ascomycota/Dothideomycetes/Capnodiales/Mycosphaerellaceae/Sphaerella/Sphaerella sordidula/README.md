@@ -1,5 +1,4 @@
-Sphaerella sordidula Speg. SPECIES
-=======
+# Sphaerella sordidula Speg. SPECIES
 
 #### Status
 ACCEPTED

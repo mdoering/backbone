@@ -1,5 +1,4 @@
-Diplodia saxauli Kravtzev SPECIES
-=======
+# Diplodia saxauli Kravtzev SPECIES
 
 #### Status
 ACCEPTED

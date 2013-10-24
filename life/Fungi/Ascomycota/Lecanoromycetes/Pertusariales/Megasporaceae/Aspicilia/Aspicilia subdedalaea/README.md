@@ -1,5 +1,4 @@
-Aspicilia subdedalaea Motyka SPECIES
-=======
+# Aspicilia subdedalaea Motyka SPECIES
 
 #### Status
 ACCEPTED

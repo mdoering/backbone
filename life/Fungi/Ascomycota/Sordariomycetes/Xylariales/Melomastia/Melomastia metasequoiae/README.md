@@ -1,5 +1,4 @@
-Melomastia metasequoiae Gucevic SPECIES
-=======
+# Melomastia metasequoiae Gucevic SPECIES
 
 #### Status
 ACCEPTED

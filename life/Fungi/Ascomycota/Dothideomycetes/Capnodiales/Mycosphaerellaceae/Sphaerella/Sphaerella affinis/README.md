@@ -1,5 +1,4 @@
-Sphaerella affinis G. Winter SPECIES
-=======
+# Sphaerella affinis G. Winter SPECIES
 
 #### Status
 ACCEPTED

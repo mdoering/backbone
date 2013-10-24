@@ -1,5 +1,4 @@
-Biddulphia granulata Roper SPECIES
-=======
+# Biddulphia granulata Roper SPECIES
 
 #### Status
 ACCEPTED

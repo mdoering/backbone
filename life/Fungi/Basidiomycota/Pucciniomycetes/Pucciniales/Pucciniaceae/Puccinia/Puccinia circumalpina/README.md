@@ -1,5 +1,4 @@
-Puccinia circumalpina Zwetko, 1993 SPECIES
-=======
+# Puccinia circumalpina Zwetko, 1993 SPECIES
 
 #### Status
 ACCEPTED

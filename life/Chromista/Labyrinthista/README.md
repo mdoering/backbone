@@ -1,5 +1,4 @@
-Labyrinthista PHYLUM
-=======
+# Labyrinthista PHYLUM
 
 #### Status
 ACCEPTED

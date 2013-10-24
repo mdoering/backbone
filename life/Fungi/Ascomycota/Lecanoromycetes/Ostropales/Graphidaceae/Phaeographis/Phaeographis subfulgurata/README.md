@@ -1,5 +1,4 @@
-Phaeographis subfulgurata (Nyl.) Zahlbr. SPECIES
-=======
+# Phaeographis subfulgurata (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

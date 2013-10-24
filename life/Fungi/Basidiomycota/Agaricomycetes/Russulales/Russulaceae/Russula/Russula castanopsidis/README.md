@@ -1,17 +1,16 @@
-Russula castanopsis Hongo SPECIES
-=======
+# Russula castanopsidis Hongo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Memoirs of Shiga University 23: 42 (1973)
 
 #### Original name
-Russula castanopsis Hongo
+Russula castanopsidis Hongo
 
 ### Remarks
 null

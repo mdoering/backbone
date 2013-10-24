@@ -1,5 +1,4 @@
-Cryptosporium sorbi Ces. SPECIES
-=======
+# Cryptosporium sorbi Ces. SPECIES
 
 #### Status
 ACCEPTED

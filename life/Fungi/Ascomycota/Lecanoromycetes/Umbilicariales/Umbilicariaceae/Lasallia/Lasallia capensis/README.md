@@ -1,5 +1,4 @@
-Lasallia capensis (Frey) Llano SPECIES
-=======
+# Lasallia capensis (Frey) Llano SPECIES
 
 #### Status
 ACCEPTED

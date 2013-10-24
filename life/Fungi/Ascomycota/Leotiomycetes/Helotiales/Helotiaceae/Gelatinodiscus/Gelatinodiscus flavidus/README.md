@@ -1,5 +1,4 @@
-Gelatinodiscus flavidus Kanouse & A.H. Sm., 1940 SPECIES
-=======
+# Gelatinodiscus flavidus Kanouse & A.H. Sm., 1940 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola amoena (Syd.) Petr. SPECIES
-=======
+# Meliola amoena (Syd.) Petr. SPECIES
 
 #### Status
 ACCEPTED

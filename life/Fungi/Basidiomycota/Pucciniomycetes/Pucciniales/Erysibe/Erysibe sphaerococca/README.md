@@ -1,17 +1,16 @@
-Erysibe sphaerococca var. sphaerococca VARIETY
-=======
+# Erysibe sphaerococca Wallr., 1833 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. crypt. Germ. (Nürnberg) 2: 213 (1833)
 
 #### Original name
-Erysibe sphaerococca var. sphaerococca
+Erysibe sphaerococca Wallr., 1833
 
 ### Remarks
 null

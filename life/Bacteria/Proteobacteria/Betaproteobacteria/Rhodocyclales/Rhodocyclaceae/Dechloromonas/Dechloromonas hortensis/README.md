@@ -1,5 +1,4 @@
-Dechloromonas hortensis Wolterink et al., 2005 SPECIES
-=======
+# Dechloromonas hortensis Wolterink et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

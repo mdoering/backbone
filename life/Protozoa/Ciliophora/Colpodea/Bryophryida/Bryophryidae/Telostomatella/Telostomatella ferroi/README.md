@@ -1,5 +1,4 @@
-Telostomatella ferroi (Grandori, 1935) Foissner, 1985 SPECIES
-=======
+# Telostomatella ferroi (Grandori, 1935) Foissner, 1985 SPECIES
 
 #### Status
 ACCEPTED

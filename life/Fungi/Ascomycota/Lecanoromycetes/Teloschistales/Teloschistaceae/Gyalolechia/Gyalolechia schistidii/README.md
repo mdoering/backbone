@@ -1,5 +1,4 @@
-Gyalolechia schistidii Anzi SPECIES
-=======
+# Gyalolechia schistidii Anzi SPECIES
 
 #### Status
 ACCEPTED

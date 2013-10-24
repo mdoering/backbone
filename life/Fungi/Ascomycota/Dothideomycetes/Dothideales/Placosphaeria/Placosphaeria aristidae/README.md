@@ -1,5 +1,4 @@
-Placosphaeria aristidae Allesch. SPECIES
-=======
+# Placosphaeria aristidae Allesch. SPECIES
 
 #### Status
 ACCEPTED

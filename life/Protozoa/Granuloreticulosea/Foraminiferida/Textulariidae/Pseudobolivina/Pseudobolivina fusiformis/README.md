@@ -1,5 +1,4 @@
-Pseudobolivina fusiformis SPECIES
-=======
+# Pseudobolivina fusiformis SPECIES
 
 #### Status
 ACCEPTED

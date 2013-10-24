@@ -1,5 +1,4 @@
-Mycena pallida (Murrill) A.H. Sm. SPECIES
-=======
+# Mycena pallida (Murrill) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

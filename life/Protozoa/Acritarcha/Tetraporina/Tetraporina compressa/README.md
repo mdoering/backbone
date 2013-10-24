@@ -1,5 +1,4 @@
-Tetraporina compressa Kondratyev, 1963 SPECIES
-=======
+# Tetraporina compressa Kondratyev, 1963 SPECIES
 
 #### Status
 ACCEPTED

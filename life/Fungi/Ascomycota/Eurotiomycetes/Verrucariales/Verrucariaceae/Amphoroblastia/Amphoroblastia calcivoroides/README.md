@@ -1,5 +1,4 @@
-Amphoroblastia calcivoroides Servít SPECIES
-=======
+# Amphoroblastia calcivoroides Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Verrucaria cavata Ach. SPECIES
-=======
+# Acrocordia cavata (Ach.) R. C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. Lich. 91 (1814)
+Lichenes Selecti Exsiccati (Pruhonice) 50: 2 (no. 1229) (1974)
 
 #### Original name
 Verrucaria cavata Ach.

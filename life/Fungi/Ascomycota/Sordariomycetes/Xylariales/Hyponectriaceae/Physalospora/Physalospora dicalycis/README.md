@@ -1,5 +1,4 @@
-Physalospora dicalycis I. Hino & Katum. SPECIES
-=======
+# Physalospora dicalycis I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

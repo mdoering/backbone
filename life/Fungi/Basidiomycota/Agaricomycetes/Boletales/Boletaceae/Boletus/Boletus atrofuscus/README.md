@@ -1,5 +1,4 @@
-Boletus atrofuscus Schaeff. SPECIES
-=======
+# Boletus atrofuscus Schaeff. SPECIES
 
 #### Status
 ACCEPTED

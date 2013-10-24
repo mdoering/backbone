@@ -1,5 +1,4 @@
-Trichoderma corfecianum Sacc., 1911 SPECIES
-=======
+# Trichoderma corfecianum Sacc., 1911 SPECIES
 
 #### Status
 ACCEPTED

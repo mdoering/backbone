@@ -1,14 +1,13 @@
-Sphaerella zingiberi (Shirai & Hara) Sacc. SPECIES
-=======
+# Sphaerella zingiberis (Shirai & Hara) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 24(2): 892 (1928)
 
 #### Original name
 Mycosphaerella zingiberis Shirai & Hara

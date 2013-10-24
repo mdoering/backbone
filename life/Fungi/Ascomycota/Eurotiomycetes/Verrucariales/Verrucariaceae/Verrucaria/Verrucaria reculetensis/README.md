@@ -1,5 +1,4 @@
-Verrucaria reculetensis Servít SPECIES
-=======
+# Verrucaria reculetensis Servít SPECIES
 
 #### Status
 ACCEPTED

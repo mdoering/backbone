@@ -1,5 +1,4 @@
-Sphaerotheca gunnerae Havryl. & U. Braun SPECIES
-=======
+# Sphaerotheca gunnerae Havryl. & U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudovalsa caudata Ellis & Everh. SPECIES
-=======
+# Pseudovalsa caudata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

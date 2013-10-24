@@ -1,5 +1,4 @@
-Porosira Jørgensen, 1905 GENUS
-=======
+# Porosira Jørgensen, 1905 GENUS
 
 #### Status
 ACCEPTED

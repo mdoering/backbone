@@ -1,5 +1,4 @@
-Anthracothecium laevigatum Müll. Arg. SPECIES
-=======
+# Anthracothecium laevigatum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

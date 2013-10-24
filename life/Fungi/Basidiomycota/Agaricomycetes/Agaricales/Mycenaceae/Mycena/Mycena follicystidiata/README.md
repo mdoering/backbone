@@ -1,5 +1,4 @@
-Mycena follicystidiata Raithelh. SPECIES
-=======
+# Mycena follicystidiata Raithelh. SPECIES
 
 #### Status
 ACCEPTED

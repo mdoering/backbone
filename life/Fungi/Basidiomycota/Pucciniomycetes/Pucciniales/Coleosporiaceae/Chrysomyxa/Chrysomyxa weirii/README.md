@@ -1,5 +1,4 @@
-Chrysomyxa weirii H.S. Jacks., 1917 SPECIES
-=======
+# Chrysomyxa weirii H.S. Jacks., 1917 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus revolutus Copel. SPECIES
-=======
+# Coprinus revolutus Copel. SPECIES
 
 #### Status
 ACCEPTED

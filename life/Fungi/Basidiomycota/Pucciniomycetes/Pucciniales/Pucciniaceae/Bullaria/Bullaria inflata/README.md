@@ -1,5 +1,4 @@
-Bullaria inflata (Arthur) Arthur & Mains SPECIES
-=======
+# Bullaria inflata (Arthur) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

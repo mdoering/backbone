@@ -1,5 +1,4 @@
-Fuscopannaria granulans P.M. Jørg. SPECIES
-=======
+# Fuscopannaria granulans P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

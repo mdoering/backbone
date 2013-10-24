@@ -1,5 +1,4 @@
-Leptosphaeria orthogramma (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Leptosphaeria orthogramma (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chilodontopsis transversa Kahl, 1928 SPECIES
-=======
+# Chilodontopsis transversa Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

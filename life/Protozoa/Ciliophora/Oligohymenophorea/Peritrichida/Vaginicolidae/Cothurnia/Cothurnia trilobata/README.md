@@ -1,5 +1,4 @@
-Cothurnia trilobata SPECIES
-=======
+# Cothurnia trilobata SPECIES
 
 #### Status
 ACCEPTED

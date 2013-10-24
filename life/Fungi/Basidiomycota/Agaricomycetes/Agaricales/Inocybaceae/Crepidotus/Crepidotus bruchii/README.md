@@ -1,5 +1,4 @@
-Crepidotus bruchii Speg. SPECIES
-=======
+# Crepidotus bruchii Speg. SPECIES
 
 #### Status
 ACCEPTED

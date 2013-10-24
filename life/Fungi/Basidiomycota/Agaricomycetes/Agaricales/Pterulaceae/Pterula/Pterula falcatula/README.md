@@ -1,5 +1,4 @@
-Pterula falcatula (Henn.) Corner SPECIES
-=======
+# Pterula falcatula (Henn.) Corner SPECIES
 
 #### Status
 ACCEPTED

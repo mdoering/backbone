@@ -1,5 +1,4 @@
-Omphalia peri Berk. & Broome SPECIES
-=======
+# Omphalia peri Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

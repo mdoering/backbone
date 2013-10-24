@@ -1,5 +1,4 @@
-Peziza sanguinolenta Alb. & Schwein. SPECIES
-=======
+# Peziza sanguinolenta Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

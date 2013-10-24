@@ -1,5 +1,4 @@
-Polyporus tephroleucus SPECIES
-=======
+# Polyporus tephroleucus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypogymnia pseudoenteromorpha M.J. Lai SPECIES
-=======
+# Hypogymnia pseudoenteromorpha M.J. Lai SPECIES
 
 #### Status
 ACCEPTED

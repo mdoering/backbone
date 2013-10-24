@@ -1,5 +1,4 @@
-Phoma sycophila Massee SPECIES
-=======
+# Phoma sycophila Massee SPECIES
 
 #### Status
 ACCEPTED

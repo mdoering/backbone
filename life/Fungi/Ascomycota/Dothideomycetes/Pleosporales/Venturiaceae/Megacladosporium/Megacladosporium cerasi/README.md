@@ -1,5 +1,4 @@
-Megacladosporium cerasi (Rabenh.) Vienn.-Bourg. SPECIES
-=======
+# Megacladosporium cerasi (Rabenh.) Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophrydium ophrydiiformis Nüsslin, 1884 SPECIES
-=======
+# Ophrydium ophrydiiformis Nüsslin, 1884 SPECIES
 
 #### Status
 ACCEPTED

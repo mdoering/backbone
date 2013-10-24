@@ -1,5 +1,4 @@
-Sphaerella cassythae McAlpine SPECIES
-=======
+# Sphaerella cassythae McAlpine SPECIES
 
 #### Status
 ACCEPTED

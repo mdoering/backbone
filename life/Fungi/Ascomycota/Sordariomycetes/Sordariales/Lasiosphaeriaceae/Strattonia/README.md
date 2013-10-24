@@ -1,17 +1,16 @@
-Hansenia Zopf GENUS
-=======
+# Strattonia Ciferri, 1954 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Z. Naturwiss. 56: 565 (1883)
+null
 
 #### Original name
-Hansenia Zopf
+null
 
 ### Remarks
 null

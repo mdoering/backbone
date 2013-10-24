@@ -1,5 +1,4 @@
-Diatrype enteroxantha Berk. SPECIES
-=======
+# Diatrype enteroxantha Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lobaria humberii (B. de Lesd.) C.W. Dodge SPECIES
-=======
+# Lobaria humberii (B. de Lesd.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

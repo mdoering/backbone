@@ -1,5 +1,4 @@
-Physcia subteres SPECIES
-=======
+# Physcia subteres SPECIES
 
 #### Status
 ACCEPTED

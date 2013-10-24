@@ -1,5 +1,4 @@
-Lindavia (F. Schütt) G.B. De Toni & A. Forti, 1900 GENUS
-=======
+# Lindavia (F. Schütt) G.B. De Toni & A. Forti, 1900 GENUS
 
 #### Status
 ACCEPTED

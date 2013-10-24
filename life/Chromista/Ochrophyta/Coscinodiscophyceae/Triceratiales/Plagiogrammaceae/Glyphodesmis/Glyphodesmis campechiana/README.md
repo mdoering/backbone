@@ -1,5 +1,4 @@
-Glyphodesmis campechiana C.S. Boyer, 1920 SPECIES
-=======
+# Glyphodesmis campechiana C.S. Boyer, 1920 SPECIES
 
 #### Status
 ACCEPTED

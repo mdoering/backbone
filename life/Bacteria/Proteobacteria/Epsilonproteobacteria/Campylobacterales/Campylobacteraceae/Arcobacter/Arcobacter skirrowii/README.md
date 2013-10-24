@@ -1,5 +1,4 @@
-Arcobacter skirrowii Vandamme et al., 1992 SPECIES
-=======
+# Arcobacter skirrowii Vandamme et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

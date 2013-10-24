@@ -1,5 +1,4 @@
-Coniothyrium proteus (Schulzer) Sacc. & Traverso SPECIES
-=======
+# Coniothyrium proteus (Schulzer) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

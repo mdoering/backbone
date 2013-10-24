@@ -1,5 +1,4 @@
-Corynespora merremiae Y.L. Guo SPECIES
-=======
+# Corynespora merremiae Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

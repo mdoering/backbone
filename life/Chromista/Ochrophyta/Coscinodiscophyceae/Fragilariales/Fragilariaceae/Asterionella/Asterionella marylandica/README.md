@@ -1,5 +1,4 @@
-Asterionella marylandica SPECIES
-=======
+# Asterionella marylandica SPECIES
 
 #### Status
 ACCEPTED

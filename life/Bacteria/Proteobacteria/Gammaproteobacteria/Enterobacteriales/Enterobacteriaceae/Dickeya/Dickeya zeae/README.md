@@ -1,5 +1,4 @@
-Dickeya zeae Samson et al., 2005 SPECIES
-=======
+# Dickeya zeae Samson et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

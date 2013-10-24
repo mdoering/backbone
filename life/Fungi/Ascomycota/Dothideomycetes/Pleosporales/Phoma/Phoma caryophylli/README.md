@@ -1,5 +1,4 @@
-Phoma caryophylli Cooke SPECIES
-=======
+# Phoma caryophylli Cooke SPECIES
 
 #### Status
 ACCEPTED

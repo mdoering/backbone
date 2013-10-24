@@ -1,5 +1,4 @@
-Anthostomella valparadisiaca (Speg.) Sacc. & Trotter SPECIES
-=======
+# Anthostomella valparadisiaca (Speg.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

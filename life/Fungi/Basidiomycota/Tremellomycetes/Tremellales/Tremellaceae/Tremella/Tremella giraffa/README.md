@@ -1,5 +1,4 @@
-Tremella giraffa Chee J. Chen, 1998 SPECIES
-=======
+# Tremella giraffa Chee J. Chen, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Paathramaya drewsi Dominik SPECIES
-=======
+# Paathramaya drewsii Dominik SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Dominik & Majchrowicz, Ekon. pol. , Ser. A 18: 598 (1970)
 
 #### Original name
-Paathramaya drewsi Dominik
+Paathramaya drewsii Dominik
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Crocynia cruenta Räsänen SPECIES
-=======
+# Crocynia cruenta Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus fabaceus Berk. SPECIES
-=======
+# Agaricus fabaceus Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena digitata Maas Geest. & E. Horak SPECIES
-=======
+# Mycena digitata Maas Geest. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta baphiae Novoss. SPECIES
-=======
+# Phyllosticta baphiae Novoss. SPECIES
 
 #### Status
 ACCEPTED

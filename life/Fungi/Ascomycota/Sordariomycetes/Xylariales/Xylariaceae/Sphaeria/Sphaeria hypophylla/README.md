@@ -1,5 +1,4 @@
-Sphaeria hypophylla Rebent. SPECIES
-=======
+# Sphaeria hypophylla Rebent. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiorella scripta (Schwein.) Sacc. SPECIES
-=======
+# Dothiorella scripta (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

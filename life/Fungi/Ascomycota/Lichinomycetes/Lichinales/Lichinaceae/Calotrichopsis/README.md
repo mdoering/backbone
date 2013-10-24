@@ -1,5 +1,4 @@
-Calotrichopsis Vain. GENUS
-=======
+# Calotrichopsis Vain. GENUS
 
 #### Status
 ACCEPTED

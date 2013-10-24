@@ -1,14 +1,13 @@
-Verrucaria guayaci Fée SPECIES
-=======
+# Parapyrenis guayaci (Fée) Aptroot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 44: 100 (1991)
 
 #### Original name
 Verrucaria guayaci Fée

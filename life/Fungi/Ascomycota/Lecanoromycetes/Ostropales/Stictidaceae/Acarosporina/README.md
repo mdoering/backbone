@@ -1,5 +1,4 @@
-Acarosporina Sherwood GENUS
-=======
+# Acarosporina Sherwood GENUS
 
 #### Status
 ACCEPTED

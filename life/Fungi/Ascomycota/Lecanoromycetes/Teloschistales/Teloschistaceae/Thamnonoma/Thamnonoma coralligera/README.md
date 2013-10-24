@@ -1,5 +1,4 @@
-Thamnonoma coralligera (Hue) Gyeln. SPECIES
-=======
+# Thamnonoma coralligera (Hue) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

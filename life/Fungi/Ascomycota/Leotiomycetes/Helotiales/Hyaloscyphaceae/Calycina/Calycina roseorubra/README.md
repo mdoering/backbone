@@ -1,5 +1,4 @@
-Calycina roseorubra (P. Crouan & H. Crouan) Kuntze SPECIES
-=======
+# Calycina roseorubra (P. Crouan & H. Crouan) Kuntze SPECIES
 
 #### Status
 ACCEPTED

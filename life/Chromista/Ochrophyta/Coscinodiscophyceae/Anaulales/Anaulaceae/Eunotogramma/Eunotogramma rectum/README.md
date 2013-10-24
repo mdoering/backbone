@@ -1,5 +1,4 @@
-Eunotogramma rectum Salah SPECIES
-=======
+# Eunotogramma rectum Salah SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremella squamosa Schumach. SPECIES
-=======
+# Tremella squamosa Schumach. SPECIES
 
 #### Status
 ACCEPTED

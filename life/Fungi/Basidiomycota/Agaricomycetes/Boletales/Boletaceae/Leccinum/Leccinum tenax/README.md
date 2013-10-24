@@ -1,5 +1,4 @@
-Leccinum tenax Heinem. SPECIES
-=======
+# Leccinum tenax Heinem. SPECIES
 
 #### Status
 ACCEPTED

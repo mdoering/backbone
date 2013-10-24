@@ -1,5 +1,4 @@
-Puccinia peruviana P. Syd. & Syd. SPECIES
-=======
+# Puccinia peruviana P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

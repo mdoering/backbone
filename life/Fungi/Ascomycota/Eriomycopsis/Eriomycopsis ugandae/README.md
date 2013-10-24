@@ -1,5 +1,4 @@
-Eriomycopsis ugandae Hansf. SPECIES
-=======
+# Eriomycopsis ugandae Hansf. SPECIES
 
 #### Status
 ACCEPTED

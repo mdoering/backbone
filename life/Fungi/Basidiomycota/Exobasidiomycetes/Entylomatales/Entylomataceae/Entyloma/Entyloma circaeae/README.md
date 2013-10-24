@@ -1,5 +1,4 @@
-Entyloma circaeae Dearn. SPECIES
-=======
+# Entyloma circaeae Dearn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelotrema terebratum var. terebratum VARIETY
-=======
+# Thelotrema terebratum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Thelotrema terebratum var. terebratum
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pachybasium pezizinum Ferraris SPECIES
-=======
+# Pachybasium pezizinum Ferraris SPECIES
 
 #### Status
 ACCEPTED

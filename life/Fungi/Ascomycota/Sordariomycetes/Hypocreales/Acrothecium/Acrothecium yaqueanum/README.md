@@ -1,5 +1,4 @@
-Acrothecium yaqueanum Cif. SPECIES
-=======
+# Acrothecium yaqueanum Cif. SPECIES
 
 #### Status
 ACCEPTED

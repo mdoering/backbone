@@ -1,5 +1,4 @@
-Cladotrichum strictum (Sacc.) Sacc. SPECIES
-=======
+# Cladotrichum strictum (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

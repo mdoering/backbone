@@ -1,5 +1,4 @@
-Rinodina crespoae Giralt & H. Mayrhofer SPECIES
-=======
+# Rinodina crespoae Giralt & H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarosporium limoniae Cooke SPECIES
-=======
+# Camarosporium limoniae Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trypethelium clandestinum Fée SPECIES
-=======
+# Trypethelium clandestinum Fée SPECIES
 
 #### Status
 ACCEPTED

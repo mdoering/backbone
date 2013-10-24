@@ -1,5 +1,4 @@
-Sphaeronaema ludwigii Sacc. SPECIES
-=======
+# Sphaeronaema ludwigii Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Frondicularia condahensis SPECIES
-=======
+# Frondicularia condahensis SPECIES
 
 #### Status
 ACCEPTED

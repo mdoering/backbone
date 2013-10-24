@@ -1,5 +1,4 @@
-Buellia nilgiriensis S.R. Singh & D.D. Awasthi SPECIES
-=======
+# Buellia nilgiriensis S.R. Singh & D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

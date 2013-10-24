@@ -1,5 +1,4 @@
-Caloplaca saxifragarum Poelt SPECIES
-=======
+# Caloplaca saxifragarum Poelt SPECIES
 
 #### Status
 ACCEPTED

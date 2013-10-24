@@ -1,5 +1,4 @@
-Dermocybe cistoadelpha G. Moreno, Pöder, Kirchm., Esteve-Rav. & Heykoop SPECIES
-=======
+# Dermocybe cistoadelpha G. Moreno, Pöder, Kirchm., Esteve-Rav. & Heykoop SPECIES
 
 #### Status
 ACCEPTED

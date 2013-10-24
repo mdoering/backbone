@@ -1,5 +1,4 @@
-Buellia coquimbensis C.W. Dodge SPECIES
-=======
+# Buellia coquimbensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

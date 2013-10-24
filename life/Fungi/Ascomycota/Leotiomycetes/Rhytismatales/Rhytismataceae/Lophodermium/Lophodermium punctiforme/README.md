@@ -1,14 +1,13 @@
-Hysterium punctiforme Fr., 1815 SPECIES
-=======
+# Lophodermium punctiforme (Fr.) Fuckel, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Observ. mycol. (Havniae) 1: 356 (1815)
+Jb. nassau. Ver. Naturk. 23-24: 255 (1870)
 
 #### Original name
 Hysterium punctiforme Fr., 1815

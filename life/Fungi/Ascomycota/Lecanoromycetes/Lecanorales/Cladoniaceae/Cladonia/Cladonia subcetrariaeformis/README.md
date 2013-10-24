@@ -1,5 +1,4 @@
-Cladonia subcetrariaeformis Asahina SPECIES
-=======
+# Cladonia subcetrariaeformis Asahina SPECIES
 
 #### Status
 ACCEPTED

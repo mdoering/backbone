@@ -1,5 +1,4 @@
-Lizoniella hypnorum (Ferd. & Winge) Sacc. & Trotter SPECIES
-=======
+# Lizoniella hypnorum (Ferd. & Winge) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

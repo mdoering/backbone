@@ -1,5 +1,4 @@
-Stigmatea scabiosae Lebedeva SPECIES
-=======
+# Stigmatea scabiosae Lebedeva SPECIES
 
 #### Status
 ACCEPTED

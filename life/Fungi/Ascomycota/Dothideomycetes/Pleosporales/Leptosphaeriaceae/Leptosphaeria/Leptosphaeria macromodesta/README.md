@@ -1,5 +1,4 @@
-Leptosphaeria macromodesta Lar.N. Vassiljeva SPECIES
-=======
+# Leptosphaeria macromodesta Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichenoconium lichenicola var. buelliae (Keissl.) Keissl. VARIETY
-=======
+# Lichenoconium lichenicola (P. Karst.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Rabenhorst's Kryptogamen-Flora, Pilze - Die Flechtenparasiten 2(8): 560 (1930)
+Repert. Spec. Nov. Regni Veg. Beih. 42(1): 432 (1927)
 
 #### Original name
-Coniothyrium lichenicola var. buelliae Keissl.
+Dactylium lichenicola P. Karst.
 
 ### Remarks
 null

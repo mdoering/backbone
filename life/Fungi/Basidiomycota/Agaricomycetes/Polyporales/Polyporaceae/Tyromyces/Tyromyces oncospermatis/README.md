@@ -1,5 +1,4 @@
-Tyromyces oncospermatis Corner SPECIES
-=======
+# Tyromyces oncospermatis Corner SPECIES
 
 #### Status
 ACCEPTED

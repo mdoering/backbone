@@ -1,5 +1,4 @@
-Phyllactinia salicis (Jacz.) Bunkina SPECIES
-=======
+# Phyllactinia salicis (Jacz.) Bunkina SPECIES
 
 #### Status
 ACCEPTED

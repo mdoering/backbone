@@ -1,5 +1,4 @@
-Tuberculina portulacarum Speg. SPECIES
-=======
+# Tuberculina portulacarum Speg. SPECIES
 
 #### Status
 ACCEPTED

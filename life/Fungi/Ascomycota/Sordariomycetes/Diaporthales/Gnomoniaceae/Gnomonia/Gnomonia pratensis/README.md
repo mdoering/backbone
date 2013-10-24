@@ -1,5 +1,4 @@
-Gnomonia pratensis Svrcek SPECIES
-=======
+# Gnomonia pratensis Svrcek SPECIES
 
 #### Status
 ACCEPTED

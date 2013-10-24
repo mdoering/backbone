@@ -1,5 +1,4 @@
-Metacystis elongata Kahl, 1928 SPECIES
-=======
+# Metacystis elongata Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

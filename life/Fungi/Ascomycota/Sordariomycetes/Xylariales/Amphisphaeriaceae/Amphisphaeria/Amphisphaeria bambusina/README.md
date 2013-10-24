@@ -1,5 +1,4 @@
-Amphisphaeria bambusina Syd. SPECIES
-=======
+# Amphisphaeria bambusina Syd. SPECIES
 
 #### Status
 ACCEPTED

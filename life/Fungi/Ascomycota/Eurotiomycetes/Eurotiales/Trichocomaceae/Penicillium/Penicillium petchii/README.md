@@ -1,5 +1,4 @@
-Penicillium petchii Sartory & Bainier SPECIES
-=======
+# Penicillium petchii Sartory & Bainier SPECIES
 
 #### Status
 ACCEPTED

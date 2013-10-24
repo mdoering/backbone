@@ -1,5 +1,4 @@
-Coniothecium capsularum Grognot SPECIES
-=======
+# Coniothecium capsularum Grognot SPECIES
 
 #### Status
 ACCEPTED

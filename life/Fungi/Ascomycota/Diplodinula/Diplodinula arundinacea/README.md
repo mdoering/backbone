@@ -1,5 +1,4 @@
-Diplodinula arundinacea (Sacc.) Tassi SPECIES
-=======
+# Diplodinula arundinacea (Sacc.) Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria piptatheri Gonz. Frag. SPECIES
-=======
+# Septoria piptatheri Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

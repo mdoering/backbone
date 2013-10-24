@@ -1,8 +1,7 @@
-Thiomicrospira denitrificans Timmer-ten Hoor, 1975 (Approved Lists, 1980) SPECIES
-=======
+# Sulfurimonas denitrificans (Timmer-ten Hoor, 1975) Takai et al., 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

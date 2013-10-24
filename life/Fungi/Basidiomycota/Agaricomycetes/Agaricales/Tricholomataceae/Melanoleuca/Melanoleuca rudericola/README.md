@@ -1,5 +1,4 @@
-Melanoleuca rudericola Murrill SPECIES
-=======
+# Melanoleuca rudericola Murrill SPECIES
 
 #### Status
 ACCEPTED

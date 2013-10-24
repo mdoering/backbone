@@ -1,5 +1,4 @@
-Septoria myrobalanae Brunaud SPECIES
-=======
+# Septoria myrobalanae Brunaud SPECIES
 
 #### Status
 ACCEPTED

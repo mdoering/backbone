@@ -1,5 +1,4 @@
-Lecidea viperae (Zahlbr.) Hue SPECIES
-=======
+# Lecidea viperae (Zahlbr.) Hue SPECIES
 
 #### Status
 ACCEPTED

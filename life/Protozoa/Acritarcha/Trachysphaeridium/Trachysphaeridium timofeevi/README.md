@@ -1,5 +1,4 @@
-Trachysphaeridium timofeevi Vidal, 1976 SPECIES
-=======
+# Trachysphaeridium timofeevi Vidal, 1976 SPECIES
 
 #### Status
 ACCEPTED

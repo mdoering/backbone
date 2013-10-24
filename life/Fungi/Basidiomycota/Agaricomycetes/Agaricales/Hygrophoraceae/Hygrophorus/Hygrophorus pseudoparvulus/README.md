@@ -1,5 +1,4 @@
-Hygrophorus pseudoparvulus Hesler & A.H. Sm. SPECIES
-=======
+# Hygrophorus pseudoparvulus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

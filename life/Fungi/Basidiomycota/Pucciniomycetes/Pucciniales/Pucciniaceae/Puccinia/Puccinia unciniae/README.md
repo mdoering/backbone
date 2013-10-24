@@ -1,5 +1,4 @@
-Puccinia unciniae Jørst. SPECIES
-=======
+# Puccinia unciniae Jørst. SPECIES
 
 #### Status
 ACCEPTED

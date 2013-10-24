@@ -1,5 +1,4 @@
-Septonema septoidii (Hansf.) S. Hughes SPECIES
-=======
+# Septonema septoidii (Hansf.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

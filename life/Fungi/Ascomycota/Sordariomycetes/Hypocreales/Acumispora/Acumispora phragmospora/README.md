@@ -1,5 +1,4 @@
-Acumispora phragmospora Matsush., 1980 SPECIES
-=======
+# Acumispora phragmospora Matsush., 1980 SPECIES
 
 #### Status
 ACCEPTED

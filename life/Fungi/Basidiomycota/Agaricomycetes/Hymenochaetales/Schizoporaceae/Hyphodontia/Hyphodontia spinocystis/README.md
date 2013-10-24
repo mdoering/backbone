@@ -1,5 +1,4 @@
-Hyphodontia spinocystis Hjortstam SPECIES
-=======
+# Hyphodontia spinocystis Hjortstam SPECIES
 
 #### Status
 ACCEPTED

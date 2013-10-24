@@ -1,5 +1,4 @@
-Pholiota talquensis Garrido SPECIES
-=======
+# Pholiota talquensis Garrido SPECIES
 
 #### Status
 ACCEPTED

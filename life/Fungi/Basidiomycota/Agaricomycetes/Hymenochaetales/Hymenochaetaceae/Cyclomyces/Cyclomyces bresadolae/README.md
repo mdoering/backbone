@@ -1,5 +1,4 @@
-Cyclomyces bresadolae Henn. ex G. Cunn. SPECIES
-=======
+# Cyclomyces bresadolae Henn. ex G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

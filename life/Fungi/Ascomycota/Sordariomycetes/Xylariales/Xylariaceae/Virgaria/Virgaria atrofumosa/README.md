@@ -1,5 +1,4 @@
-Virgaria atrofumosa (Cooke & Ellis) Sacc. SPECIES
-=======
+# Virgaria atrofumosa (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

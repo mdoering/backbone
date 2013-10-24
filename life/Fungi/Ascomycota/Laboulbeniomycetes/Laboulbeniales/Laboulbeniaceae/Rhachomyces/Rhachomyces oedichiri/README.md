@@ -1,5 +1,4 @@
-Rhachomyces oedichiri Thaxt. SPECIES
-=======
+# Rhachomyces oedichiri Thaxt. SPECIES
 
 #### Status
 ACCEPTED

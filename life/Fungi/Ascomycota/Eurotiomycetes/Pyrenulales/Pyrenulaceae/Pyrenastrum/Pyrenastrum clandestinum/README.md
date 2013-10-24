@@ -1,5 +1,4 @@
-Pyrenastrum clandestinum (Fée) Müll. Arg. SPECIES
-=======
+# Pyrenastrum clandestinum (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

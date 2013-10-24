@@ -1,5 +1,4 @@
-Botryodiplodia loculata (Mont.) Sacc. SPECIES
-=======
+# Botryodiplodia loculata (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

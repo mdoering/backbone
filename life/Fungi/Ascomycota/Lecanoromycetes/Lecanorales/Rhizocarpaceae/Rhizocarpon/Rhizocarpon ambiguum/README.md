@@ -1,5 +1,4 @@
-Rhizocarpon ambiguum f. ambiguum FORM
-=======
+# Rhizocarpon ambiguum SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 4: 344 (1927)
+null
 
 #### Original name
-Rhizocarpon ambiguum f. ambiguum
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Discorbis jacksonensis SPECIES
-=======
+# Discorbis jacksonensis SPECIES
 
 #### Status
 ACCEPTED

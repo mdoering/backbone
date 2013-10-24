@@ -1,5 +1,4 @@
-Corticium hypochnoideum Berk. & M.A. Curtis SPECIES
-=======
+# Corticium hypochnoideum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

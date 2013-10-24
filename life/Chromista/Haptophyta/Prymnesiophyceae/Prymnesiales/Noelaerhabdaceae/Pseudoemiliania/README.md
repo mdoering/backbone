@@ -1,5 +1,4 @@
-Pseudoemiliania S. Gartner, 1969 GENUS
-=======
+# Pseudoemiliania S. Gartner, 1969 GENUS
 
 #### Status
 ACCEPTED

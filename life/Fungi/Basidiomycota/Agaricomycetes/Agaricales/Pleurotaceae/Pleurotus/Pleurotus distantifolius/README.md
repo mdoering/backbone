@@ -1,5 +1,4 @@
-Pleurotus distantifolius (Murrill) Dennis SPECIES
-=======
+# Pleurotus distantifolius (Murrill) Dennis SPECIES
 
 #### Status
 ACCEPTED

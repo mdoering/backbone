@@ -1,5 +1,4 @@
-Lepiota sanguinea Sathe & S.D. Deshp. SPECIES
-=======
+# Lepiota sanguinea Sathe & S.D. Deshp. SPECIES
 
 #### Status
 ACCEPTED

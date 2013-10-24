@@ -1,5 +1,4 @@
-Pygacapsa Wang Naiwen, 1989 GENUS
-=======
+# Pygacapsa Wang Naiwen, 1989 GENUS
 
 #### Status
 ACCEPTED

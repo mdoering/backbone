@@ -1,5 +1,4 @@
-Psora assimilis Hampe SPECIES
-=======
+# Psora assimilis Hampe SPECIES
 
 #### Status
 ACCEPTED

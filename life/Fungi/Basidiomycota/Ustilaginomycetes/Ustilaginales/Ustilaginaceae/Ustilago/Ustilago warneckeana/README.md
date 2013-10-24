@@ -1,5 +1,4 @@
-Ustilago warneckeana Henn. SPECIES
-=======
+# Ustilago warneckeana Henn. SPECIES
 
 #### Status
 ACCEPTED

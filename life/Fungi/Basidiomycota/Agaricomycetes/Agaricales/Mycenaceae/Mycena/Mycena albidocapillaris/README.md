@@ -1,5 +1,4 @@
-Mycena albidocapillaris Grgur. & T.W. May SPECIES
-=======
+# Mycena albidocapillaris Grgur. & T.W. May SPECIES
 
 #### Status
 ACCEPTED

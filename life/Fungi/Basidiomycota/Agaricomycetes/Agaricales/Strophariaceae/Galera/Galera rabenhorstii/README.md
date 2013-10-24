@@ -1,5 +1,4 @@
-Galera rabenhorstii Fr. SPECIES
-=======
+# Galera rabenhorstii Fr. SPECIES
 
 #### Status
 ACCEPTED

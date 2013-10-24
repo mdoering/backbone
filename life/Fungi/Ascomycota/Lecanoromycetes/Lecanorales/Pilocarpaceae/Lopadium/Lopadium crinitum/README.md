@@ -1,5 +1,4 @@
-Lopadium crinitum Zahlbr. SPECIES
-=======
+# Lopadium crinitum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

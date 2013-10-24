@@ -1,5 +1,4 @@
-Naucoria zenkeriana Henn. SPECIES
-=======
+# Naucoria zenkeriana Henn. SPECIES
 
 #### Status
 ACCEPTED

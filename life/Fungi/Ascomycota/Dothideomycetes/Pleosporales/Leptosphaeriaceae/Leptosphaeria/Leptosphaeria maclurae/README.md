@@ -1,5 +1,4 @@
-Leptosphaeria maclurae Ellis & Everh. SPECIES
-=======
+# Leptosphaeria maclurae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

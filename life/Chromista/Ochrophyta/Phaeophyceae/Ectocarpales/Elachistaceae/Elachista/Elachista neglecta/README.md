@@ -1,5 +1,4 @@
-Elachista neglecta Kuckuck SPECIES
-=======
+# Elachista neglecta Kuckuck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erineum ilicinum Pers. SPECIES
-=======
+# Erineum ilicinum Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phellinus newtoniae Niemelä & Mrema SPECIES
-=======
+# Phellinus newtoniae Niemelä & Mrema SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius lewisii O.K. Mill. SPECIES
-=======
+# Cortinarius lewisii O.K. Mill. SPECIES
 
 #### Status
 ACCEPTED

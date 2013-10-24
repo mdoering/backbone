@@ -1,5 +1,4 @@
-Boletus lupinus Fr. SPECIES
-=======
+# Boletus lupinus Fr. SPECIES
 
 #### Status
 ACCEPTED

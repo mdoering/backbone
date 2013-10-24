@@ -1,5 +1,4 @@
-Stromatinia oreophila (Sacc.) Boud. SPECIES
-=======
+# Stromatinia oreophila (Sacc.) Boud. SPECIES
 
 #### Status
 ACCEPTED

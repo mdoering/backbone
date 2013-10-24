@@ -1,5 +1,4 @@
-Peripanicea Haeckel, 1887 GENUS
-=======
+# Peripanicea Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

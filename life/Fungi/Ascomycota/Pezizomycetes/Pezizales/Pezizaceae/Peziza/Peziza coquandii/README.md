@@ -1,17 +1,16 @@
-Peziza coquandi Donadini SPECIES
-=======
+# Peziza coquandii Donadini SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Féd. Mycol. Dauphiné-Savoie 25(no. 97): 9-12 (1985)
 
 #### Original name
-Peziza coquandi Donadini
+Peziza coquandii Donadini
 
 ### Remarks
 null

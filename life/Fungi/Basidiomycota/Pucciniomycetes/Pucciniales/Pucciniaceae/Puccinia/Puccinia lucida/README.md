@@ -1,5 +1,4 @@
-Puccinia lucida Guyot SPECIES
-=======
+# Puccinia lucida Guyot SPECIES
 
 #### Status
 ACCEPTED

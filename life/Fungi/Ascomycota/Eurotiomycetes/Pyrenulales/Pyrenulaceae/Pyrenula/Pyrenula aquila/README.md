@@ -1,5 +1,4 @@
-Pyrenula aquila R.C. Harris SPECIES
-=======
+# Pyrenula aquila R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium rehderianum Magnus SPECIES
-=======
+# Aecidium rehderianum Magnus SPECIES
 
 #### Status
 ACCEPTED

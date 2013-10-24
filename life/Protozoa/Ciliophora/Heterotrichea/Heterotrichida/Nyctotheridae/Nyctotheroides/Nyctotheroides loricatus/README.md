@@ -1,5 +1,4 @@
-Nyctotheroides loricatus (Carini, 1939) ? SPECIES
-=======
+# Nyctotheroides loricatus (Carini, 1939) ? SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora thespesiae (Suj. Singh) R.K. Verma, M.K. Khan & Kamal SPECIES
-=======
+# Pseudocercospora thespesiae (Suj. Singh) R.K. Verma, M.K. Khan & Kamal SPECIES
 
 #### Status
 ACCEPTED

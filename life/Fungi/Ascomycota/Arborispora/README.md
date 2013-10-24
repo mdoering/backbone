@@ -1,5 +1,4 @@
-Arborispora K. Ando GENUS
-=======
+# Arborispora K. Ando GENUS
 
 #### Status
 ACCEPTED

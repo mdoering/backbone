@@ -1,5 +1,4 @@
-Epulorhiza epiphytica O.L. Pereira, Rollemb. & Kasuya, 2003 SPECIES
-=======
+# Epulorhiza epiphytica O.L. Pereira, Rollemb. & Kasuya, 2003 SPECIES
 
 #### Status
 ACCEPTED

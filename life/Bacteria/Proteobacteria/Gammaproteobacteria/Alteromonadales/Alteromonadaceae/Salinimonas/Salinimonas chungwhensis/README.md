@@ -1,5 +1,4 @@
-Salinimonas chungwhensis Jeon et al., 2005 SPECIES
-=======
+# Salinimonas chungwhensis Jeon et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia serrulatae J.C. Lindq. SPECIES
-=======
+# Puccinia serrulatae J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

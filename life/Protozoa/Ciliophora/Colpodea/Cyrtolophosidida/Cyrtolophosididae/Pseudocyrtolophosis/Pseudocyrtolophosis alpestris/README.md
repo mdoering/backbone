@@ -1,5 +1,4 @@
-Pseudocyrtolophosis alpestris Foissner, 1980 SPECIES
-=======
+# Pseudocyrtolophosis alpestris Foissner, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucor setaceus L. SPECIES
-=======
+# Mucor setaceus L. SPECIES
 
 #### Status
 ACCEPTED

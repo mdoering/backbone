@@ -1,5 +1,4 @@
-Priscogalea barbara Deunff, 1961 SPECIES
-=======
+# Priscogalea barbara Deunff, 1961 SPECIES
 
 #### Status
 ACCEPTED

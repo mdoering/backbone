@@ -1,5 +1,4 @@
-Ellisembia paravaginata McKenzie SPECIES
-=======
+# Ellisembia paravaginata McKenzie SPECIES
 
 #### Status
 ACCEPTED

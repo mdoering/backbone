@@ -1,5 +1,4 @@
-Kentrochona Rompel, 1894 GENUS
-=======
+# Kentrochona Rompel, 1894 GENUS
 
 #### Status
 ACCEPTED

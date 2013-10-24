@@ -1,5 +1,4 @@
-Mesolenticulina McCulloch, 1977 GENUS
-=======
+# Mesolenticulina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

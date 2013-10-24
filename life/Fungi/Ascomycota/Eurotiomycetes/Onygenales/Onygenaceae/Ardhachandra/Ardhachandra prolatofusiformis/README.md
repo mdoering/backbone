@@ -1,5 +1,4 @@
-Ardhachandra prolatofusiformis J. L. Chen & Tzean SPECIES
-=======
+# Ardhachandra prolatofusiformis J. L. Chen & Tzean SPECIES
 
 #### Status
 ACCEPTED

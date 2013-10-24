@@ -1,5 +1,4 @@
-Peniophora colorea Burt SPECIES
-=======
+# Peniophora colorea Burt SPECIES
 
 #### Status
 ACCEPTED

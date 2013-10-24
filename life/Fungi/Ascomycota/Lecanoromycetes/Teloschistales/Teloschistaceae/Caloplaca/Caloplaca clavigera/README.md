@@ -1,14 +1,13 @@
-Placodium clavigerum Stirt. SPECIES
-=======
+# Caloplaca clavigera (Stirt. ex F.M. Bailey) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Bailey, Queensland Agric. J. 5: 487 (1899)
+Cat. Lich. Univers. 7: 108 (1930)
 
 #### Original name
 Placodium clavigerum Stirt.

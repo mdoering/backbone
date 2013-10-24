@@ -1,5 +1,4 @@
-Agaricus vescus Vent. SPECIES
-=======
+# Agaricus vescus Vent. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo fructicola Henn. SPECIES
-=======
+# Uredo fructicola Henn. SPECIES
 
 #### Status
 ACCEPTED

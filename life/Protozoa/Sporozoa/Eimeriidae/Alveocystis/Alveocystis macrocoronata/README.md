@@ -1,8 +1,7 @@
-Alveocystis intestinalis Bel'tenev, 1980 SPECIES
-=======
+# Alveocystis macrocoronata (Lüling, 1942) Levine, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

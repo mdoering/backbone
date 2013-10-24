@@ -1,5 +1,4 @@
-Russula luteoviolacea Krombh. SPECIES
-=======
+# Russula luteoviolacea Krombh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria cucurbitae Montem. {?} SPECIES
-=======
+# Leptosphaeria cucurbitae Montem. {?} SPECIES
 
 #### Status
 ACCEPTED

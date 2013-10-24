@@ -1,5 +1,4 @@
-Sirococcus echii Speg. SPECIES
-=======
+# Sirococcus echii Speg. SPECIES
 
 #### Status
 ACCEPTED

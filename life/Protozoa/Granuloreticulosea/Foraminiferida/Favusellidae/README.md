@@ -1,5 +1,4 @@
-Favusellidae Longoria, 1974 FAMILY
-=======
+# Favusellidae Longoria, 1974 FAMILY
 
 #### Status
 ACCEPTED

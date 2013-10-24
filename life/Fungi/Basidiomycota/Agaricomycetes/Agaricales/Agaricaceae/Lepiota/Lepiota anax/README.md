@@ -1,5 +1,4 @@
-Lepiota anax (Berk.) Sacc. SPECIES
-=======
+# Lepiota anax (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta bubakiana Picb. SPECIES
-=======
+# Ascochyta bubakiana Picb. SPECIES
 
 #### Status
 ACCEPTED

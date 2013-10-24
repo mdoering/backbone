@@ -1,5 +1,4 @@
-Phragmidium brevipes Fuckel SPECIES
-=======
+# Phragmidium brevipes Fuckel SPECIES
 
 #### Status
 ACCEPTED

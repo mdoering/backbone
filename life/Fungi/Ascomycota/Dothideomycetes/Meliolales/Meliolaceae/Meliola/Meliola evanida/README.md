@@ -1,5 +1,4 @@
-Meliola evanida Gaillard SPECIES
-=======
+# Meliola evanida Gaillard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polarella M.Montresor, G.Procaccini & D.K.Stoecker, 1999 GENUS
-=======
+# Polarella M.Montresor, G.Procaccini & D.K.Stoecker, 1999 GENUS
 
 #### Status
 ACCEPTED

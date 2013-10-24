@@ -1,5 +1,4 @@
-Clavaria major Justus Müll. SPECIES
-=======
+# Clavaria major Justus Müll. SPECIES
 
 #### Status
 ACCEPTED

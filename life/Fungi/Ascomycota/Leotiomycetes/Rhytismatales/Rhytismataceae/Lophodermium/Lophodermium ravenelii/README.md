@@ -1,5 +1,4 @@
-Lophodermium ravenelii Minter, 1981 SPECIES
-=======
+# Lophodermium ravenelii Minter, 1981 SPECIES
 
 #### Status
 ACCEPTED

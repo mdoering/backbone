@@ -1,5 +1,4 @@
-Leptosphaeria akagiensis Vain. SPECIES
-=======
+# Leptosphaeria akagiensis Vain. SPECIES
 
 #### Status
 ACCEPTED

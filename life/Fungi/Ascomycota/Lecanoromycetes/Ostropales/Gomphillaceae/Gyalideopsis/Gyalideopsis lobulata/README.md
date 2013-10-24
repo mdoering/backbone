@@ -1,5 +1,4 @@
-Gyalideopsis lobulata Lücking SPECIES
-=======
+# Gyalideopsis lobulata Lücking SPECIES
 
 #### Status
 ACCEPTED

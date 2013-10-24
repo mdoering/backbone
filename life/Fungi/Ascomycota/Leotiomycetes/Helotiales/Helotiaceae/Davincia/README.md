@@ -1,5 +1,4 @@
-Davincia GENUS
-=======
+# Davincia GENUS
 
 #### Status
 ACCEPTED

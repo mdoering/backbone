@@ -1,5 +1,4 @@
-Verrucaria margheritae Servít SPECIES
-=======
+# Verrucaria margheritae Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum vermicularia Sacc. & Dearn. SPECIES
-=======
+# Colletotrichum vermicularia Sacc. & Dearn. SPECIES
 
 #### Status
 ACCEPTED

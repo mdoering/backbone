@@ -1,5 +1,4 @@
-Chamaeceras synodicus (Kuntze) Kuntze SPECIES
-=======
+# Chamaeceras synodicus (Kuntze) Kuntze SPECIES
 
 #### Status
 ACCEPTED

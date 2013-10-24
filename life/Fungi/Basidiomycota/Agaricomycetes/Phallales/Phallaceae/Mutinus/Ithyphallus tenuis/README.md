@@ -1,5 +1,4 @@
-Ithyphallus tenuis E. Fisch. SPECIES
-=======
+# Ithyphallus tenuis E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma clarkiae (Peck) Kuntze SPECIES
-=======
+# Dicaeoma clarkiae (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

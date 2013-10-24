@@ -1,17 +1,16 @@
-Termitomyces cylindricus S.C. He, 1985 SPECIES
-=======
+# Termitomyces aurantiacus (R. Heim) R. Heim, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Mycol. Sin. 4(2): 104 (1985)
+Termites et Champignons (Paris) 56 (1977)
 
 #### Original name
-Termitomyces cylindricus S.C. He, 1985
+Termitomyces striatus var. aurantiacus R. Heim, 1948
 
 ### Remarks
 null

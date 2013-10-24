@@ -1,5 +1,4 @@
-Phyllosticta rhapiolepidis Gutner SPECIES
-=======
+# Phyllosticta rhapiolepidis Gutner SPECIES
 
 #### Status
 ACCEPTED

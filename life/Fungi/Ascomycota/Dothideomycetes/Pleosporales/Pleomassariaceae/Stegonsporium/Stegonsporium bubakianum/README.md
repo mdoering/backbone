@@ -1,17 +1,16 @@
-Steganosporium bubakianum Serebrian. SPECIES
-=======
+# Stegonsporium bubakianum Serebrian. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Tranzschel & Serebrianikow, Mycotheca rossica, Fascicle <b>6 & 7</b> 7 (1912)
 
 #### Original name
-Steganosporium bubakianum Serebrian.
+Stegonsporium bubakianum Serebrian.
 
 ### Remarks
 null

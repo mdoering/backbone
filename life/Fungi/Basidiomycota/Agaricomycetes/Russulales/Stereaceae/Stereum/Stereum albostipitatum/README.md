@@ -1,5 +1,4 @@
-Stereum albostipitatum Lloyd SPECIES
-=======
+# Stereum albostipitatum Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gluconobacter frateurii Mason & Claus, 1989 SPECIES
-=======
+# Gluconobacter frateurii Mason & Claus, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea polioterodes J. Steiner SPECIES
-=======
+# Lecidea polioterodes J. Steiner SPECIES
 
 #### Status
 ACCEPTED

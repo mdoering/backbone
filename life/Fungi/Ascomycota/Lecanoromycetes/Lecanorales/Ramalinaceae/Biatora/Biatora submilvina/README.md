@@ -1,5 +1,4 @@
-Biatora submilvina (Vain.) Räsänen SPECIES
-=======
+# Biatora submilvina (Vain.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

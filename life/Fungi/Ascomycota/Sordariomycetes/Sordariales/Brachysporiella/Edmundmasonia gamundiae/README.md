@@ -1,5 +1,4 @@
-Edmundmasonia gamundiae Aramb. & Godeas SPECIES
-=======
+# Edmundmasonia gamundiae Aramb. & Godeas SPECIES
 
 #### Status
 ACCEPTED

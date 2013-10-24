@@ -1,5 +1,4 @@
-Pseudovorticella cylindrica (Dons, 1915) Sun, Song, Ji & Hu, 2005 SPECIES
-=======
+# Pseudovorticella cylindrica (Dons, 1915) Sun, Song, Ji & Hu, 2005 SPECIES
 
 #### Status
 ACCEPTED

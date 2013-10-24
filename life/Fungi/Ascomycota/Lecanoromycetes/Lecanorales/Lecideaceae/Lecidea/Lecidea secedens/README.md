@@ -1,5 +1,4 @@
-Lecidea secedens SPECIES
-=======
+# Lecidea secedens SPECIES
 
 #### Status
 ACCEPTED

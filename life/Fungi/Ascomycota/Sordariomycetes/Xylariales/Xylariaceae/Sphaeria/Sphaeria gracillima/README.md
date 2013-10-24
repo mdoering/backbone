@@ -1,5 +1,4 @@
-Sphaeria gracillima Fr. SPECIES
-=======
+# Sphaeria gracillima Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria delicatuloides Kühner SPECIES
-=======
+# Naucoria delicatuloides Kühner SPECIES
 
 #### Status
 ACCEPTED

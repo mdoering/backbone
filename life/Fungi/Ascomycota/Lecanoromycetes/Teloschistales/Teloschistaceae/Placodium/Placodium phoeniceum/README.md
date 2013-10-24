@@ -1,5 +1,4 @@
-Placodium phoeniceum Hepp SPECIES
-=======
+# Placodium phoeniceum Hepp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena sabulicola Maas Geest. & de Meijer SPECIES
-=======
+# Mycena sabulicola Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

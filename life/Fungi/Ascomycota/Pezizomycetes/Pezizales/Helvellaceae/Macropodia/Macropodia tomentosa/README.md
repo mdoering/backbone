@@ -1,5 +1,4 @@
-Macropodia tomentosa (Schumach.) Fr. SPECIES
-=======
+# Macropodia tomentosa (Schumach.) Fr. SPECIES
 
 #### Status
 ACCEPTED

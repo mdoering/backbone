@@ -1,5 +1,4 @@
-Camillea heterostoma var. heterostoma VARIETY
-=======
+# Camillea heterostoma (Mont.) Laessøe, J.D. Rogers & Whalley, 1989 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Res. 93(2): 134 (1989)
+null
 
 #### Original name
-Camillea heterostoma var. heterostoma
+null
 
 ### Remarks
 null

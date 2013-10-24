@@ -1,5 +1,4 @@
-Leucoagaricus carminescens Heinem. SPECIES
-=======
+# Leucoagaricus carminescens Heinem. SPECIES
 
 #### Status
 ACCEPTED

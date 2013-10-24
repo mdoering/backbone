@@ -1,5 +1,4 @@
-Oidium quinckeanum Zopf SPECIES
-=======
+# Oidium quinckeanum Zopf SPECIES
 
 #### Status
 ACCEPTED

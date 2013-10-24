@@ -1,5 +1,4 @@
-Gloeosporium henningsii Staritz SPECIES
-=======
+# Gloeosporium henningsii Staritz SPECIES
 
 #### Status
 ACCEPTED

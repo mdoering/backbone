@@ -1,5 +1,4 @@
-Caloplaca muelleri (Vain.) Zahlbr. SPECIES
-=======
+# Caloplaca muelleri (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

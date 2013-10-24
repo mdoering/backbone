@@ -1,5 +1,4 @@
-Phoma andropogonivora (R. Sprague & Rogerson) Gruyter SPECIES
-=======
+# Phoma andropogonivora (R. Sprague & Rogerson) Gruyter SPECIES
 
 #### Status
 ACCEPTED

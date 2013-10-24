@@ -1,5 +1,4 @@
-Praeprinsius O. Varol & M. Jakubowski, 1989 GENUS
-=======
+# Praeprinsius O. Varol & M. Jakubowski, 1989 GENUS
 
 #### Status
 ACCEPTED

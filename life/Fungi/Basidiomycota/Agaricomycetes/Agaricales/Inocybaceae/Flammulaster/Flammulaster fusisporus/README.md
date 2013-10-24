@@ -1,14 +1,13 @@
-Flammulaster fusispora (P.D. Orton) Watling SPECIES
-=======
+# Flammulaster fusisporus (P.D. Orton) Watling, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Notes R. bot. Gdn Edinb. 28(1): 66 (1967)
 
 #### Original name
 Flocculina fusispora P.D. Orton, 1960

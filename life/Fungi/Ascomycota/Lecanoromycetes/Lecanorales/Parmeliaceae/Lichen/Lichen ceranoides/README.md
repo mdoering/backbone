@@ -1,5 +1,4 @@
-Lichen ceranoides Lam. SPECIES
-=======
+# Lichen ceranoides Lam. SPECIES
 
 #### Status
 ACCEPTED

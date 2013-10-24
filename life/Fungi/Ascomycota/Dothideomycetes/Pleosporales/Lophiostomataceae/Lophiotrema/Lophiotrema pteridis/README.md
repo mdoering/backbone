@@ -1,5 +1,4 @@
-Lophiotrema pteridis Gonz. Frag. SPECIES
-=======
+# Lophiotrema pteridis Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

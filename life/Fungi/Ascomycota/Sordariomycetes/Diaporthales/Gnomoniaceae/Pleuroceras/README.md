@@ -1,5 +1,4 @@
-Pleuroceras Riess, 1854 GENUS
-=======
+# Pleuroceras Riess, 1854 GENUS
 
 #### Status
 ACCEPTED

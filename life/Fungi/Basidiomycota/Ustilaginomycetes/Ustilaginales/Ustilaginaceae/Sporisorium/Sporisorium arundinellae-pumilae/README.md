@@ -1,5 +1,4 @@
-Sporisorium arundinellae-pumilae Vánky SPECIES
-=======
+# Sporisorium arundinellae-pumilae Vánky SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stephanopyxis weissflogii A. Schmidt SPECIES
-=======
+# Stephanopyxis weissflogii A. Schmidt SPECIES
 
 #### Status
 ACCEPTED

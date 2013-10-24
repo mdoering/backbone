@@ -1,5 +1,4 @@
-Volvariella pseudovolvacea (Berk. & Broome) Singer SPECIES
-=======
+# Volvariella pseudovolvacea (Berk. & Broome) Singer SPECIES
 
 #### Status
 ACCEPTED

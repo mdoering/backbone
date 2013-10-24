@@ -1,5 +1,4 @@
-Uredo alaskana (Mains) Cummins SPECIES
-=======
+# Uredo alaskana (Mains) Cummins SPECIES
 
 #### Status
 ACCEPTED

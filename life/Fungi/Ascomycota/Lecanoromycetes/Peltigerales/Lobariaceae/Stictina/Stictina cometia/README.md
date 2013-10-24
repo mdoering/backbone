@@ -1,5 +1,4 @@
-Stictina cometia Ach. SPECIES
-=======
+# Stictina cometia Ach. SPECIES
 
 #### Status
 ACCEPTED

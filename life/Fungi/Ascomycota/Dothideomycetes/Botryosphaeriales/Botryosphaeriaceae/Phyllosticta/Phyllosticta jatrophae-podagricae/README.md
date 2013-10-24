@@ -1,5 +1,4 @@
-Phyllosticta jatrophae-podagricae B.R.D. Yadav & V.G. Rao SPECIES
-=======
+# Phyllosticta jatrophae-podagricae B.R.D. Yadav & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

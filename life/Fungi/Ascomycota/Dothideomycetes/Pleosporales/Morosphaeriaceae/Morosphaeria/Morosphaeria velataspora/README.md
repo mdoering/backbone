@@ -1,5 +1,4 @@
-Morosphaeria velataspora (K.D. Hyde & Borse) Suetrong, Sakay., E.B.G. Jones & C.L. Schoch, 2009 SPECIES
-=======
+# Morosphaeria velataspora (K.D. Hyde & Borse) Suetrong, Sakay., E.B.G. Jones & C.L. Schoch, 2009 SPECIES
 
 #### Status
 ACCEPTED

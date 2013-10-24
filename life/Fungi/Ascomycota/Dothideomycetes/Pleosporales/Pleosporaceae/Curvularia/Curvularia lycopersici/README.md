@@ -1,5 +1,4 @@
-Curvularia lycopersici Tandon & Kakkar SPECIES
-=======
+# Curvularia lycopersici Tandon & Kakkar SPECIES
 
 #### Status
 ACCEPTED

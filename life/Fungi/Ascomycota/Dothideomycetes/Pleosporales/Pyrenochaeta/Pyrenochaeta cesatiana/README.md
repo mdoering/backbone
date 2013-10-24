@@ -1,5 +1,4 @@
-Pyrenochaeta cesatiana Sacc. & Flageolet SPECIES
-=======
+# Pyrenochaeta cesatiana Sacc. & Flageolet SPECIES
 
 #### Status
 ACCEPTED

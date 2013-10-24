@@ -1,17 +1,16 @@
-Calosphaeria anonae R. Rao SPECIES
-=======
+# Calosphaeria annonae R. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Univ. Poona, Sci. Techn. 42: 144 (1972)
 
 #### Original name
-Calosphaeria anonae R. Rao
+Calosphaeria annonae R. Rao
 
 ### Remarks
 null

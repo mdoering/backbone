@@ -1,5 +1,4 @@
-Cercidospora oleandri (Durieu & Mont.) Kuntze SPECIES
-=======
+# Cercidospora oleandri (Durieu & Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Holophrya virginica Kepner & Carroll, 1923 SPECIES
-=======
+# Holophrya virginica Kepner & Carroll, 1923 SPECIES
 
 #### Status
 ACCEPTED

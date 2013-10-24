@@ -1,5 +1,4 @@
-Striatojaponocapsa plicarum SPECIES
-=======
+# Striatojaponocapsa plicarum SPECIES
 
 #### Status
 ACCEPTED

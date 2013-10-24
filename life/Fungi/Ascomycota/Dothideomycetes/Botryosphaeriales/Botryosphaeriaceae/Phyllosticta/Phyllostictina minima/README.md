@@ -1,5 +1,4 @@
-Phyllostictina minima (Berk. & M.A. Curtis) B. Sutton SPECIES
-=======
+# Phyllostictina minima (Berk. & M.A. Curtis) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

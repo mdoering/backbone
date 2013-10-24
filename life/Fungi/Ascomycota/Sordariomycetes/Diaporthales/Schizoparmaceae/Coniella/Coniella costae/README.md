@@ -1,5 +1,4 @@
-Coniella costae Dianese, R.B. Medeiros, L.T.P. Santos & B. Sutton SPECIES
-=======
+# Coniella costae Dianese, R.B. Medeiros, L.T.P. Santos & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Morchella conica subsp. conica SUBSPECIES
-=======
+# Morchella vulgaris (Pers.) Boud., 1897 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Morchella conica subsp. conica
+Morchella esculenta (L.) Pers., 1801
 
 ### Remarks
 null

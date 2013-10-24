@@ -1,5 +1,4 @@
-Globanomalina GENUS
-=======
+# Globanomalina GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lentinus michailowskoensis Henn. SPECIES
-=======
+# Lentinus michailowskojensis Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 43: 68 (1904)
 
 #### Original name
-Lentinus michailowskoensis Henn.
+Lentinus michailowskojensis Henn.
 
 ### Remarks
 null

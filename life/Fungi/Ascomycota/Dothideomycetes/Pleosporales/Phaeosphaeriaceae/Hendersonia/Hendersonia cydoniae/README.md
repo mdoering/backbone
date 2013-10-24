@@ -1,5 +1,4 @@
-Hendersonia cydoniae Cooke & Ellis SPECIES
-=======
+# Hendersonia cydoniae Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

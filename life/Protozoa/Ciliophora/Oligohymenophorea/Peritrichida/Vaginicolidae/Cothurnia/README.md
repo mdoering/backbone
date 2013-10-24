@@ -1,5 +1,4 @@
-Cothurnia Ehrenberg, 1831 GENUS
-=======
+# Cothurnia Ehrenberg, 1831 GENUS
 
 #### Status
 ACCEPTED

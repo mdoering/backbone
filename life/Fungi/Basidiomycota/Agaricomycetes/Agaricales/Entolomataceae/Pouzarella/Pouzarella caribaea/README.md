@@ -1,5 +1,4 @@
-Pouzarella caribaea T.J. Baroni & B. Ortiz SPECIES
-=======
+# Pouzarella caribaea T.J. Baroni & B. Ortiz SPECIES
 
 #### Status
 ACCEPTED

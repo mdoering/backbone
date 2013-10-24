@@ -1,5 +1,4 @@
-Agaricus aulacopus J. Otto SPECIES
-=======
+# Agaricus aulacopus J. Otto SPECIES
 
 #### Status
 ACCEPTED

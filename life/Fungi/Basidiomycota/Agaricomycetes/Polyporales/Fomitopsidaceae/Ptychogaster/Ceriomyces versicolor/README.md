@@ -1,5 +1,4 @@
-Ceriomyces versicolor De Seynes SPECIES
-=======
+# Ceriomyces versicolor De Seynes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zygopolaris ephemeridarum S.T. Moss, Lichtw. & Manier, 1975 SPECIES
-=======
+# Zygopolaris ephemeridarum S.T. Moss, Lichtw. & Manier, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe terrifera J.G. Kühn SPECIES
-=======
+# Inocybe terrifera J.G. Kühn SPECIES
 
 #### Status
 ACCEPTED

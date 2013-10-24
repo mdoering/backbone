@@ -1,5 +1,4 @@
-Siphonina glabra (Heron-Allen & Earland) SPECIES
-=======
+# Siphonina glabra (Heron-Allen & Earland) SPECIES
 
 #### Status
 ACCEPTED

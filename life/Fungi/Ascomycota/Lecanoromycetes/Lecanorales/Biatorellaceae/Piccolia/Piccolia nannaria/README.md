@@ -1,5 +1,4 @@
-Piccolia nannaria (Tuck.) Lendemer & Beeching SPECIES
-=======
+# Piccolia nannaria (Tuck.) Lendemer & Beeching SPECIES
 
 #### Status
 ACCEPTED

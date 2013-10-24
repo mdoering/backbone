@@ -1,5 +1,4 @@
-Stilbum violaceum Fr. SPECIES
-=======
+# Stilbum violaceum Fr. SPECIES
 
 #### Status
 ACCEPTED

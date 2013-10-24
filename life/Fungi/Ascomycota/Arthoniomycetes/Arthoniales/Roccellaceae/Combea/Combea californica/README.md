@@ -1,5 +1,4 @@
-Combea californica (Th. Fr.) Follmann & M. Geyer SPECIES
-=======
+# Combea californica (Th. Fr.) Follmann & M. Geyer SPECIES
 
 #### Status
 ACCEPTED

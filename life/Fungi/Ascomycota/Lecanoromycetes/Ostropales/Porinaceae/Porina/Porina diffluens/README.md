@@ -1,5 +1,4 @@
-Porina diffluens Malcolm & Vezda SPECIES
-=======
+# Porina diffluens Malcolm & Vezda SPECIES
 
 #### Status
 ACCEPTED

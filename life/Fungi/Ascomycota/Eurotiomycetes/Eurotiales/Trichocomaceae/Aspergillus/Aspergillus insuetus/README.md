@@ -1,5 +1,4 @@
-Aspergillus insuetus (Bainier) Thom & Church SPECIES
-=======
+# Aspergillus insuetus (Bainier) Thom & Church SPECIES
 
 #### Status
 ACCEPTED

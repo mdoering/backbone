@@ -1,5 +1,4 @@
-Taphrina carnea Johanson, 1886 SPECIES
-=======
+# Taphrina carnea Johanson, 1886 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cephalosporium humicola (Oudem.) Bat. & H. Maia SPECIES
-=======
+# Cephalosporium humicola (Oudem.) Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

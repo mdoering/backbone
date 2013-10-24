@@ -1,5 +1,4 @@
-Corethromyces macropus Thaxt. SPECIES
-=======
+# Corethromyces macropus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

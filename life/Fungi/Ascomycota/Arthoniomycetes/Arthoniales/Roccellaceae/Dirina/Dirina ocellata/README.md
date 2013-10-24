@@ -1,5 +1,4 @@
-Dirina ocellata (Zenker) Flot. SPECIES
-=======
+# Dirina ocellata (Zenker) Flot. SPECIES
 
 #### Status
 ACCEPTED

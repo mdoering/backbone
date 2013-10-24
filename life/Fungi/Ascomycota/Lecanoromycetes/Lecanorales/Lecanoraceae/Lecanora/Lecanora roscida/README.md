@@ -1,5 +1,4 @@
-Lecanora roscida Sommerf. SPECIES
-=======
+# Lecanora roscida Sommerf. SPECIES
 
 #### Status
 ACCEPTED

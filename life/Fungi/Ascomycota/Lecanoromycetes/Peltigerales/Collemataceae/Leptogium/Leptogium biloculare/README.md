@@ -1,5 +1,4 @@
-Leptogium biloculare F. Wilson SPECIES
-=======
+# Leptogium biloculare F. Wilson SPECIES
 
 #### Status
 ACCEPTED

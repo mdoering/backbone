@@ -1,5 +1,4 @@
-Graphis contortuplicata Müll. Arg. SPECIES
-=======
+# Graphis contortuplicata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyronema Carus, 1835 GENUS
-=======
+# Pyronema Carus, 1835 GENUS
 
 #### Status
 ACCEPTED

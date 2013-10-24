@@ -1,5 +1,4 @@
-Penicillium verruculosum Peyronel, 1913 SPECIES
-=======
+# Penicillium verruculosum Peyronel, 1913 SPECIES
 
 #### Status
 DOUBTFUL

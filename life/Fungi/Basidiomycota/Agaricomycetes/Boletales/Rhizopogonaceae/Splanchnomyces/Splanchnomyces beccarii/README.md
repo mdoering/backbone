@@ -1,5 +1,4 @@
-Splanchnomyces beccarii Petri SPECIES
-=======
+# Splanchnomyces beccarii Petri SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella calthae Clem., 1906 SPECIES
-=======
+# Mycosphaerella calthae Clem., 1906 SPECIES
 
 #### Status
 ACCEPTED

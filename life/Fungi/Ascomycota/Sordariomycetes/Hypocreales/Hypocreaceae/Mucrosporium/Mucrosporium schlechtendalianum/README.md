@@ -1,5 +1,4 @@
-Mucrosporium schlechtendalianum (Preuss) Sacc. SPECIES
-=======
+# Mucrosporium schlechtendalianum (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

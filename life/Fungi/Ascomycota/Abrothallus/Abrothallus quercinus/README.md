@@ -1,5 +1,4 @@
-Abrothallus quercinus Velen. SPECIES
-=======
+# Abrothallus quercinus Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria dolosa Fr. SPECIES
-=======
+# Sphaeria dolosa Fr. SPECIES
 
 #### Status
 ACCEPTED

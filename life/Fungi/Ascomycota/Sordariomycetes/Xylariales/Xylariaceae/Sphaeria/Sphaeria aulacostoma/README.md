@@ -1,5 +1,4 @@
-Sphaeria aulacostoma Kunze & Fr. SPECIES
-=======
+# Sphaeria aulacostoma Kunze & Fr. SPECIES
 
 #### Status
 ACCEPTED

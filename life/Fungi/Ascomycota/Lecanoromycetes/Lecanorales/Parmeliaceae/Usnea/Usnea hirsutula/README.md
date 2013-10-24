@@ -1,5 +1,4 @@
-Usnea hirsutula Stirt. SPECIES
-=======
+# Usnea hirsutula Stirt. SPECIES
 
 #### Status
 ACCEPTED

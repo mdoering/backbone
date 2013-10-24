@@ -1,5 +1,4 @@
-Ammomassilina alveoliniformis SPECIES
-=======
+# Ammomassilina alveoliniformis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eccilia blandfordii Henn. SPECIES
-=======
+# Eccilia blandfordii Henn. SPECIES
 
 #### Status
 ACCEPTED

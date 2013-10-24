@@ -1,5 +1,4 @@
-Clavaria tortilis Pers. SPECIES
-=======
+# Clavaria tortilis Pers. SPECIES
 
 #### Status
 ACCEPTED

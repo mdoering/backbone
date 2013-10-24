@@ -1,5 +1,4 @@
-Guignardia coffeae Punith. & B.S. Lee SPECIES
-=======
+# Guignardia coffeae Punith. & B.S. Lee SPECIES
 
 #### Status
 ACCEPTED

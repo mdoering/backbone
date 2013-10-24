@@ -1,5 +1,4 @@
-Irpiciporus japonicus Nohara, 1910 SPECIES
-=======
+# Irpiciporus japonicus Nohara, 1910 SPECIES
 
 #### Status
 ACCEPTED

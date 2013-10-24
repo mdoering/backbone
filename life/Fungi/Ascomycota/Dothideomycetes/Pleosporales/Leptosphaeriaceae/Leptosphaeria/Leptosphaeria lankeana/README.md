@@ -1,5 +1,4 @@
-Leptosphaeria lankeana Henn. SPECIES
-=======
+# Leptosphaeria lankeana Henn. SPECIES
 
 #### Status
 ACCEPTED

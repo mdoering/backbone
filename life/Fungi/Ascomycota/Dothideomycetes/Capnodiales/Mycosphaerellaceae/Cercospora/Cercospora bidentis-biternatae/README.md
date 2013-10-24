@@ -1,5 +1,4 @@
-Cercospora bidentis-biternatae Pavgi & U.P. Singh SPECIES
-=======
+# Cercospora bidentis-biternatae Pavgi & U.P. Singh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Candida bogoriensis var. bogoriensis Deinema, 1961 VARIETY
-=======
+# Rhodotorula bogoriensis (Deinema) Arx & Weijman, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Antonie van Leeuwenhoek 45(4): 554 (1980)
 
 #### Original name
-null
+Candida bogoriensis Deinema, 1961
 
 ### Remarks
 null

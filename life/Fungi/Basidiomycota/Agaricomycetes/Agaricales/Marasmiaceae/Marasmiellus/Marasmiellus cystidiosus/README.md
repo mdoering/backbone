@@ -1,5 +1,4 @@
-Marasmiellus cystidiosus Singer SPECIES
-=======
+# Marasmiellus cystidiosus Singer SPECIES
 
 #### Status
 ACCEPTED

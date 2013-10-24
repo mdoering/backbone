@@ -1,5 +1,4 @@
-Venturia tirolensis Höhn. SPECIES
-=======
+# Venturia tirolensis Höhn. SPECIES
 
 #### Status
 ACCEPTED

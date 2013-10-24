@@ -1,5 +1,4 @@
-Hygrocybe anomala A.M. Young SPECIES
-=======
+# Hygrocybe anomala A.M. Young SPECIES
 
 #### Status
 ACCEPTED

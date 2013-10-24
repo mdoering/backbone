@@ -1,5 +1,4 @@
-Bacidia gyalizella (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia gyalizella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

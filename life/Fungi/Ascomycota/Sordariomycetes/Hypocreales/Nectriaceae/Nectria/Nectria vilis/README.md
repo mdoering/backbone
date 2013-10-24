@@ -1,5 +1,4 @@
-Nectria vilis (Syd.) Petch SPECIES
-=======
+# Nectria vilis (Syd.) Petch SPECIES
 
 #### Status
 ACCEPTED

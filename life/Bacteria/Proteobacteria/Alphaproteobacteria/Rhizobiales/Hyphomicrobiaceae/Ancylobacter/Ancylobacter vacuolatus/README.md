@@ -1,5 +1,4 @@
-Ancylobacter vacuolatus Xin et al., 2006 SPECIES
-=======
+# Ancylobacter vacuolatus Xin et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

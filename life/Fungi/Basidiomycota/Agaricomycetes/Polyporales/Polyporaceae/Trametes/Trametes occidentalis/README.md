@@ -1,5 +1,4 @@
-Trametes occidentalis Fr. SPECIES
-=======
+# Trametes occidentalis Fr. SPECIES
 
 #### Status
 ACCEPTED

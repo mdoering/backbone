@@ -1,5 +1,4 @@
-Archerella Loeblich & Tappan, 1961 GENUS
-=======
+# Archerella Loeblich & Tappan, 1961 GENUS
 
 #### Status
 ACCEPTED

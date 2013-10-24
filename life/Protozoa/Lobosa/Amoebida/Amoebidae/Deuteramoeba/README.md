@@ -1,5 +1,4 @@
-Deuteramoeba Page, 1986 GENUS
-=======
+# Deuteramoeba Page, 1986 GENUS
 
 #### Status
 ACCEPTED

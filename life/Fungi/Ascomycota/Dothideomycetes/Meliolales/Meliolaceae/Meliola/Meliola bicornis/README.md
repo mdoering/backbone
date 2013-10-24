@@ -1,17 +1,16 @@
-Meliola bicornis subsp. bicornis SUBSPECIES
-=======
+# Meliola bicornis G. Winter, 1886 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 25: 99 (1886)
 
 #### Original name
-null
+Meliola bicornis G. Winter, 1886
 
 ### Remarks
 null

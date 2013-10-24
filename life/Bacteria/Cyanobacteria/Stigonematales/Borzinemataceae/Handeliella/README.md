@@ -1,5 +1,4 @@
-Handeliella Skuja in Handel-Mazzetti, 1937 GENUS
-=======
+# Handeliella Skuja in Handel-Mazzetti, 1937 GENUS
 
 #### Status
 ACCEPTED

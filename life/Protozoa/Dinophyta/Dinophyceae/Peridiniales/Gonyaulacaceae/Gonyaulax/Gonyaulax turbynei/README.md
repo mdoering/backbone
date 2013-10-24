@@ -1,5 +1,4 @@
-Gonyaulax turbynei Murray & Whitting SPECIES
-=======
+# Gonyaulax turbynei Murray & Whitting SPECIES
 
 #### Status
 ACCEPTED

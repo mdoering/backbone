@@ -1,5 +1,4 @@
-Vaginulina regina Plummer SPECIES
-=======
+# Vaginulina regina Plummer SPECIES
 
 #### Status
 ACCEPTED

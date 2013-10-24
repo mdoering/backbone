@@ -1,5 +1,4 @@
-Sphaeria psoriella Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria psoriella Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

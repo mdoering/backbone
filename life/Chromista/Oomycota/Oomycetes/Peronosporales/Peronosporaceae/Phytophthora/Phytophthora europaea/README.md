@@ -1,5 +1,4 @@
-Phytophthora europaea E.M. Hansen & T. Jung, 2002 SPECIES
-=======
+# Phytophthora europaea E.M. Hansen & T. Jung, 2002 SPECIES
 
 #### Status
 ACCEPTED

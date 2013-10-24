@@ -1,5 +1,4 @@
-Emticicia oligotrophica Saha & Chakrabarti, 2006 SPECIES
-=======
+# Emticicia oligotrophica Saha & Chakrabarti, 2006 SPECIES
 
 #### Status
 ACCEPTED

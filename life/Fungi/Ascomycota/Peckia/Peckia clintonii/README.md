@@ -1,5 +1,4 @@
-Peckia clintonii SPECIES
-=======
+# Peckia clintonii SPECIES
 
 #### Status
 ACCEPTED

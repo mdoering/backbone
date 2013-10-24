@@ -1,5 +1,4 @@
-Johansonia pandani E. Müll., 1954 SPECIES
-=======
+# Johansonia pandani E. Müll., 1954 SPECIES
 
 #### Status
 ACCEPTED

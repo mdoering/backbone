@@ -1,5 +1,4 @@
-Pleurotus hortensis Velen. SPECIES
-=======
+# Pleurotus hortensis Velen. SPECIES
 
 #### Status
 ACCEPTED

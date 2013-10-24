@@ -1,5 +1,4 @@
-Lepiota fustiformis A. Pearson SPECIES
-=======
+# Lepiota fustiformis A. Pearson SPECIES
 
 #### Status
 ACCEPTED

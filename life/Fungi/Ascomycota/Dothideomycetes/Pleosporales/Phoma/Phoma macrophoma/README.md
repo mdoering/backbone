@@ -1,5 +1,4 @@
-Phoma macrophoma McAlpine SPECIES
-=======
+# Phoma macrophoma McAlpine SPECIES
 
 #### Status
 ACCEPTED

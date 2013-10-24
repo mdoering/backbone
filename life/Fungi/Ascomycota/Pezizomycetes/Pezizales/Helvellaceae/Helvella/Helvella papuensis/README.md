@@ -1,5 +1,4 @@
-Helvella papuensis Dissing SPECIES
-=======
+# Helvella papuensis Dissing SPECIES
 
 #### Status
 ACCEPTED

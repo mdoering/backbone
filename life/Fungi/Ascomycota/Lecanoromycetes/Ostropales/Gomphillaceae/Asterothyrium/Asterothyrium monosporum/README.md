@@ -1,5 +1,4 @@
-Asterothyrium monosporum Müll. Arg. SPECIES
-=======
+# Asterothyrium monosporum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

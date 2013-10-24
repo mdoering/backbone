@@ -1,5 +1,4 @@
-Coprinus calvescens (Berk.) Manjula SPECIES
-=======
+# Coprinus calvescens (Berk.) Manjula SPECIES
 
 #### Status
 ACCEPTED

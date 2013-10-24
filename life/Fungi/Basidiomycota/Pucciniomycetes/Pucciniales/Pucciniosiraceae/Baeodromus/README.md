@@ -1,5 +1,4 @@
-Baeodromus Arthur GENUS
-=======
+# Baeodromus Arthur GENUS
 
 #### Status
 ACCEPTED

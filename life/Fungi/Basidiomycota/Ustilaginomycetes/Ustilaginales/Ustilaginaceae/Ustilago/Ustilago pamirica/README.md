@@ -1,5 +1,4 @@
-Ustilago pamirica Golovin SPECIES
-=======
+# Ustilago pamirica Golovin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyanisticta endochrysoides (Müll. Arg.) Räsänen SPECIES
-=======
+# Cyanisticta endochrysoides (Müll. Arg.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

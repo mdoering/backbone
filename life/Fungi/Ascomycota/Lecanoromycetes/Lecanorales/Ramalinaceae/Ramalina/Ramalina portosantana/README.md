@@ -1,5 +1,4 @@
-Ramalina portosantana Krog SPECIES
-=======
+# Ramalina portosantana Krog SPECIES
 
 #### Status
 ACCEPTED

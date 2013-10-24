@@ -1,5 +1,4 @@
-Entoloma persimile E. Horak, 2008 SPECIES
-=======
+# Entoloma persimile E. Horak, 2008 SPECIES
 
 #### Status
 ACCEPTED

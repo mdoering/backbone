@@ -1,5 +1,4 @@
-Lacrimasporonites oviformis V.S. Ediger SPECIES
-=======
+# Lacrimasporonites oviformis V.S. Ediger SPECIES
 
 #### Status
 ACCEPTED

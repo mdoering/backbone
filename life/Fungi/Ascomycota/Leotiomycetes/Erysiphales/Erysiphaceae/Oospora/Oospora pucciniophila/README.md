@@ -1,5 +1,4 @@
-Oospora pucciniophila Syd. & P. Syd. SPECIES
-=======
+# Oospora pucciniophila Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

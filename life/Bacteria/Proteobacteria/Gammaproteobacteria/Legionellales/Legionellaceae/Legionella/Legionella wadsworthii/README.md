@@ -1,5 +1,4 @@
-Legionella wadsworthii Edelstein et al., 1983 SPECIES
-=======
+# Legionella wadsworthii Edelstein et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

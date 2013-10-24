@@ -1,8 +1,7 @@
-Pocosphaeria anonae Rangel SPECIES
-=======
+# Pocosphaeria annonae Rangel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pocosphaeria anonae Rangel
+Pocosphaeria annonae Rangel
 
 ### Remarks
 null

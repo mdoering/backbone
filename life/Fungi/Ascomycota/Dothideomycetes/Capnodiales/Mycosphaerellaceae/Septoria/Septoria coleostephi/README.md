@@ -1,5 +1,4 @@
-Septoria coleostephi Gonz. Frag. SPECIES
-=======
+# Septoria coleostephi Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

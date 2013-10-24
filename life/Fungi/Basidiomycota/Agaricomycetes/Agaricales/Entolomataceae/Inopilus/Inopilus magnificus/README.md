@@ -1,5 +1,4 @@
-Inopilus magnificus Pegler SPECIES
-=======
+# Inopilus magnificus Pegler SPECIES
 
 #### Status
 ACCEPTED

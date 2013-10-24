@@ -1,5 +1,4 @@
-Dendrostilbella indica A. Pande & Ghate SPECIES
-=======
+# Dendrostilbella indica A. Pande & Ghate SPECIES
 
 #### Status
 ACCEPTED

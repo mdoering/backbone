@@ -1,5 +1,4 @@
-Hyaloscypha cerberi Velen. SPECIES
-=======
+# Hyaloscypha cerberi Velen. SPECIES
 
 #### Status
 ACCEPTED

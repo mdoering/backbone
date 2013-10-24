@@ -1,5 +1,4 @@
-Sphaeria agnina Desm. SPECIES
-=======
+# Sphaeria agnina Desm. SPECIES
 
 #### Status
 ACCEPTED

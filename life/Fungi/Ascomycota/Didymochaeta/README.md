@@ -1,5 +1,4 @@
-Didymochaeta Saccardo & Ellis, 1898 GENUS
-=======
+# Didymochaeta Saccardo & Ellis, 1898 GENUS
 
 #### Status
 ACCEPTED

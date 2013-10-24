@@ -1,5 +1,4 @@
-Helotium lactucae Losa SPECIES
-=======
+# Helotium lactucae Losa SPECIES
 
 #### Status
 ACCEPTED

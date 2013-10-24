@@ -1,5 +1,4 @@
-Tympanis pseudoalnea Ouell. & Piroz. SPECIES
-=======
+# Tympanis pseudoalnea Ouell. & Piroz. SPECIES
 
 #### Status
 ACCEPTED

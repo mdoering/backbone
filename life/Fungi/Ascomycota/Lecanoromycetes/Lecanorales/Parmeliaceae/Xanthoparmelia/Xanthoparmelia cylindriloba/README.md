@@ -1,5 +1,4 @@
-Xanthoparmelia cylindriloba M. D. E. Knox SPECIES
-=======
+# Xanthoparmelia cylindriloba M. D. E. Knox SPECIES
 
 #### Status
 ACCEPTED

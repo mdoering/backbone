@@ -1,5 +1,4 @@
-Eopyrenula septemseptata Coppins SPECIES
-=======
+# Eopyrenula septemseptata Coppins SPECIES
 
 #### Status
 ACCEPTED

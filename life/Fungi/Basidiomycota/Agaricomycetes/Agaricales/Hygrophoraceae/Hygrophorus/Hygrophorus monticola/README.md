@@ -1,5 +1,4 @@
-Hygrophorus monticola A.H. Sm. & Hesler SPECIES
-=======
+# Hygrophorus monticola A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

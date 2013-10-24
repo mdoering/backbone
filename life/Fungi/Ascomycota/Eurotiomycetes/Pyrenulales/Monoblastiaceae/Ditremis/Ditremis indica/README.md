@@ -1,5 +1,4 @@
-Ditremis indica Makhija & Patw. SPECIES
-=======
+# Ditremis indica Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

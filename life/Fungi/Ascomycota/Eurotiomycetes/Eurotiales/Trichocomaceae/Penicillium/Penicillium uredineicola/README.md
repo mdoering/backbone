@@ -1,8 +1,7 @@
-Penicillium uredineicolum Hulea SPECIES
-=======
+# Penicillium uredineicola Ana Hulsa {?} SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Penicillium uredineicolum Hulea
+Penicillium uredineicola Ana Hulsa {?}
 
 ### Remarks
 null

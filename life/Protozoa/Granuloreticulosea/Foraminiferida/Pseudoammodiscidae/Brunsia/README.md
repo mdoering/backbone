@@ -1,5 +1,4 @@
-Brunsia Mikhailov, 1939 GENUS
-=======
+# Brunsia Mikhailov, 1939 GENUS
 
 #### Status
 ACCEPTED

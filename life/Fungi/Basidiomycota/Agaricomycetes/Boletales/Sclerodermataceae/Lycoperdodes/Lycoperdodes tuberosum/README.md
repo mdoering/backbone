@@ -1,5 +1,4 @@
-Lycoperdodes tuberosum (P. Micheli ex Fr.) Kuntze SPECIES
-=======
+# Lycoperdodes tuberosum (P. Micheli ex Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

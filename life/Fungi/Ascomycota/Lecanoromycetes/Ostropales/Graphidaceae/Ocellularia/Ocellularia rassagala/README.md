@@ -1,5 +1,4 @@
-Ocellularia rassagala Hale SPECIES
-=======
+# Ocellularia rassagala Hale SPECIES
 
 #### Status
 ACCEPTED

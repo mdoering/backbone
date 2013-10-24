@@ -1,5 +1,4 @@
-Diplococcium varieseptatum Goh & K.D. Hyde SPECIES
-=======
+# Diplococcium varieseptatum Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

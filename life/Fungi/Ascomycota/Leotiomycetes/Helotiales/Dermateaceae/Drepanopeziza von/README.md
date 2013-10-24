@@ -1,5 +1,4 @@
-Drepanopeziza subgen. Klebahn von Höhnel, 1917 GENUS
-=======
+# Drepanopeziza subgen. Klebahn von Höhnel, 1917 GENUS
 
 #### Status
 ACCEPTED

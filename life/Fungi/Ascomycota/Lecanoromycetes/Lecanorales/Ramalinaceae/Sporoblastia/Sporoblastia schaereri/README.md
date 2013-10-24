@@ -1,5 +1,4 @@
-Sporoblastia schaereri Trevis. SPECIES
-=======
+# Sporoblastia schaereri Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Frondicularia fritschi Perner SPECIES
-=======
+# Frondicularia fritschi Perner SPECIES
 
 #### Status
 ACCEPTED

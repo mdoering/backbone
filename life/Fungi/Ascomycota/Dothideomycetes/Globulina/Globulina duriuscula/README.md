@@ -1,5 +1,4 @@
-Globulina duriuscula Velen. SPECIES
-=======
+# Globulina duriuscula Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptotrema integrum Müll. Arg. SPECIES
-=======
+# Leptotrema integrum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elaphomyces carbonaceus Corner & Hawker SPECIES
-=======
+# Elaphomyces carbonaceus Corner & Hawker SPECIES
 
 #### Status
 ACCEPTED

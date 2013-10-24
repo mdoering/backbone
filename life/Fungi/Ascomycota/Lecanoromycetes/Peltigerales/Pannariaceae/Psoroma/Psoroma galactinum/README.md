@@ -1,5 +1,4 @@
-Psoroma galactinum (Ach.) Flagey SPECIES
-=======
+# Psoroma galactinum (Ach.) Flagey SPECIES
 
 #### Status
 ACCEPTED

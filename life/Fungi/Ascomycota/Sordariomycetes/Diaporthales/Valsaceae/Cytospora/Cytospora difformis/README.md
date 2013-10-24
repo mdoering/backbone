@@ -1,5 +1,4 @@
-Cytospora difformis Schwein. SPECIES
-=======
+# Cytospora difformis Schwein. SPECIES
 
 #### Status
 ACCEPTED

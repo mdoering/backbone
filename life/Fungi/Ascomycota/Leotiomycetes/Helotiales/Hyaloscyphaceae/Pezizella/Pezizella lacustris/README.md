@@ -1,5 +1,4 @@
-Pezizella lacustris Velen. SPECIES
-=======
+# Pezizella lacustris Velen. SPECIES
 
 #### Status
 ACCEPTED

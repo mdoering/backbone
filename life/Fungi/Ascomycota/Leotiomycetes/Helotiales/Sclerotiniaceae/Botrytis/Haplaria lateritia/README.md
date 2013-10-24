@@ -1,5 +1,4 @@
-Haplaria lateritia Torrend SPECIES
-=======
+# Haplaria lateritia Torrend SPECIES
 
 #### Status
 ACCEPTED

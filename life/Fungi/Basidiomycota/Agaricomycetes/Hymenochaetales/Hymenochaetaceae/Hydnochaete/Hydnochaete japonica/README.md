@@ -1,5 +1,4 @@
-Hydnochaete japonica Lloyd, 1916 SPECIES
-=======
+# Hydnochaete japonica Lloyd, 1916 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spongolena Haeckel, 1887 GENUS
-=======
+# Spongolena Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

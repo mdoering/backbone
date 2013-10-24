@@ -1,5 +1,4 @@
-Apodospora thescelina Cain & Mirza, 1970 SPECIES
-=======
+# Apodospora thescelina Cain & Mirza, 1970 SPECIES
 
 #### Status
 ACCEPTED

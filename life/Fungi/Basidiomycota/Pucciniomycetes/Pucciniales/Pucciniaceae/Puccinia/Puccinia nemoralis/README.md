@@ -1,14 +1,13 @@
-Dicaeoma nemorale (Juel) Kuntze, 1898 SPECIES
-=======
+# Puccinia nemoralis Juel, 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 469 (1898)
+Öfvers. kongl. Svensk. Vetensk. -Akad. Förhandl. 51: 503 (1894)
 
 #### Original name
 Puccinia nemoralis Juel, 1894

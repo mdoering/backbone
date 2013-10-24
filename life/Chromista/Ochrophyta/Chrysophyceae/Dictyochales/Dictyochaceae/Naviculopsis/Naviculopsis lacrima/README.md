@@ -1,5 +1,4 @@
-Naviculopsis lacrima D. Bukry SPECIES
-=======
+# Naviculopsis lacrima D. Bukry SPECIES
 
 #### Status
 ACCEPTED

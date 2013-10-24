@@ -1,5 +1,4 @@
-Pyrenochaetella P. Karst. ex Höhn. GENUS
-=======
+# Pyrenochaetella P. Karst. ex Höhn. GENUS
 
 #### Status
 ACCEPTED

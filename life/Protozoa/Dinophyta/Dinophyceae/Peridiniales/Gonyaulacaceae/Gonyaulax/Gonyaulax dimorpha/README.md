@@ -1,5 +1,4 @@
-Gonyaulax dimorpha Biecheler SPECIES
-=======
+# Gonyaulax dimorpha Biecheler SPECIES
 
 #### Status
 ACCEPTED

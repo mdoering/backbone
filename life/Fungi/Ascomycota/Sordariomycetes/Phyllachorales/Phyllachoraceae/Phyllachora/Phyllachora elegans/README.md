@@ -1,14 +1,13 @@
-Dothidea elegans Schwein., 1832 SPECIES
-=======
+# Phyllachora elegans (Schwein.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Am. phil. Soc. , New Series 4(2): 233 (1832)
+Syll. fung. (Abellini) 2: 619 (1883)
 
 #### Original name
 Dothidea elegans Schwein., 1832

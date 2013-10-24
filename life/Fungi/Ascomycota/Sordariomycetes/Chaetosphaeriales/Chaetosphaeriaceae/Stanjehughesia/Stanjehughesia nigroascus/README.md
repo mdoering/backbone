@@ -1,5 +1,4 @@
-Stanjehughesia nigroascus (B. Sutton) Subram. SPECIES
-=======
+# Stanjehughesia nigroascus (B. Sutton) Subram. SPECIES
 
 #### Status
 ACCEPTED

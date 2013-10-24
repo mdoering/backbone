@@ -1,5 +1,4 @@
-Ciboria carpini (Batsch) Whetzel SPECIES
-=======
+# Ciboria carpini (Batsch) Whetzel SPECIES
 
 #### Status
 ACCEPTED

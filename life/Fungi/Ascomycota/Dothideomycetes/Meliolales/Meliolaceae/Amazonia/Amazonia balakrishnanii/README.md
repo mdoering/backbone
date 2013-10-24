@@ -1,5 +1,4 @@
-Amazonia balakrishnanii Hosag. SPECIES
-=======
+# Amazonia balakrishnanii Hosag. SPECIES
 
 #### Status
 ACCEPTED

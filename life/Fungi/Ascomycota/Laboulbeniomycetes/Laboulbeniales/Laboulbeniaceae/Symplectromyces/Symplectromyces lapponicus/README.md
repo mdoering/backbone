@@ -1,5 +1,4 @@
-Symplectromyces lapponicus Huldén SPECIES
-=======
+# Symplectromyces lapponicus Huldén SPECIES
 
 #### Status
 ACCEPTED

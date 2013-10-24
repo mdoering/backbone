@@ -1,5 +1,4 @@
-Dysteria procera Kahl, 1931 SPECIES
-=======
+# Dysteria procera Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

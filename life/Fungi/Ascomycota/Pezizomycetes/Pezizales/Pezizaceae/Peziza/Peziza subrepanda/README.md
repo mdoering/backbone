@@ -1,14 +1,13 @@
-Aleuria subrepanda (Cooke & W. Phillips) Boud., 1907 SPECIES
-=======
+# Peziza subrepanda Cooke & W. Phillips, 1877 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Cooke, Mycogr. fig. 260 (1877)
 
 #### Original name
 Peziza subrepanda Cooke & W. Phillips, 1877

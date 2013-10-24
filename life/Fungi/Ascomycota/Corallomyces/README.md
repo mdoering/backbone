@@ -1,17 +1,16 @@
-Hasskarlinda Kuntze GENUS
-=======
+# Corallomyces E.M. Fries, 1849 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 1: 172 (1891)
+Summa veg. Scand. (Stockholm), Section Post. 468 (1849)
 
 #### Original name
-Hasskarlinda Kuntze
+Corallomyces E.M. Fries, 1849
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Rhopalophrya acuta Kahl, 1926 SPECIES
-=======
+# Rhopalophrya acuta Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

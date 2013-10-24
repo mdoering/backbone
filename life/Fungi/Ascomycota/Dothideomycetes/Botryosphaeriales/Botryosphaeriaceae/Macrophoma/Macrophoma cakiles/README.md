@@ -1,5 +1,4 @@
-Macrophoma cakiles Naumov SPECIES
-=======
+# Macrophoma cakiles Naumov SPECIES
 
 #### Status
 ACCEPTED

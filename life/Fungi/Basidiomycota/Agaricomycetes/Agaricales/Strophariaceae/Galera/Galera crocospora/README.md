@@ -1,5 +1,4 @@
-Galera crocospora Berk. & M.A. Curtis SPECIES
-=======
+# Galera crocospora Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

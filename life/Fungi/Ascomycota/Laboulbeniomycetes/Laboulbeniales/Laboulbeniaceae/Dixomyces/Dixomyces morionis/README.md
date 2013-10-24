@@ -1,5 +1,4 @@
-Dixomyces morionis (Thaxt.) I.I. Tav. SPECIES
-=======
+# Dixomyces morionis (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

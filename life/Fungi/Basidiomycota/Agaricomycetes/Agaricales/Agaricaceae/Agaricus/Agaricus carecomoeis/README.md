@@ -1,5 +1,4 @@
-Agaricus carecomoeis Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus carecomoeis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

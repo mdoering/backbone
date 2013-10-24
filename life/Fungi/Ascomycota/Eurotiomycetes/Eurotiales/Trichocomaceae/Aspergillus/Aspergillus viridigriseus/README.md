@@ -1,5 +1,4 @@
-Aspergillus viridigriseus Costantin & Lucet SPECIES
-=======
+# Aspergillus viridigriseus Costantin & Lucet SPECIES
 
 #### Status
 ACCEPTED

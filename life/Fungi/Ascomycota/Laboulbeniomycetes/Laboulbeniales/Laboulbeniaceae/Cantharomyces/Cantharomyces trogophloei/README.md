@@ -1,5 +1,4 @@
-Cantharomyces trogophloei Speg. SPECIES
-=======
+# Cantharomyces trogophloei Speg. SPECIES
 
 #### Status
 ACCEPTED

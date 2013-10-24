@@ -1,5 +1,4 @@
-Cortinarius pseudovarius Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius pseudovarius Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

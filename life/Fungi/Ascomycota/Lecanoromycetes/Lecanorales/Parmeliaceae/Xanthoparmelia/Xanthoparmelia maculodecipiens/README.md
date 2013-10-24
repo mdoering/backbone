@@ -1,5 +1,4 @@
-Xanthoparmelia maculodecipiens Elix SPECIES
-=======
+# Xanthoparmelia maculodecipiens Elix SPECIES
 
 #### Status
 ACCEPTED

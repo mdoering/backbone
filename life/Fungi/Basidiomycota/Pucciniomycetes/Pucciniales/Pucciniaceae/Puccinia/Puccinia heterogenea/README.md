@@ -1,5 +1,4 @@
-Puccinia heterogenea Lagerh. SPECIES
-=======
+# Puccinia heterogenea Lagerh. SPECIES
 
 #### Status
 ACCEPTED

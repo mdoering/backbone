@@ -1,5 +1,4 @@
-Dirinaria devertens (Nyl.) C.W. Dodge SPECIES
-=======
+# Dirinaria devertens (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria suborbicularis Curr. SPECIES
-=======
+# Sphaeria suborbicularis Curr. SPECIES
 
 #### Status
 ACCEPTED

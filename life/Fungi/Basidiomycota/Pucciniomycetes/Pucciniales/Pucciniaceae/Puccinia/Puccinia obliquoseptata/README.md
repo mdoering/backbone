@@ -1,5 +1,4 @@
-Puccinia obliquoseptata Vienn.-Bourg. SPECIES
-=======
+# Puccinia obliquoseptata Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

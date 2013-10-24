@@ -1,5 +1,4 @@
-Sticta efflorescens Zahlbr. SPECIES
-=======
+# Sticta efflorescens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

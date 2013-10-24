@@ -1,5 +1,4 @@
-Paenibacillus odorifer Berge et al., 2002 SPECIES
-=======
+# Paenibacillus odorifer Berge et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

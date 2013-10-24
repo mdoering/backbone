@@ -1,5 +1,4 @@
-Pluteus laricinus P. Banerjee & Sundb. SPECIES
-=======
+# Pluteus laricinus P. Banerjee & Sundb. SPECIES
 
 #### Status
 ACCEPTED

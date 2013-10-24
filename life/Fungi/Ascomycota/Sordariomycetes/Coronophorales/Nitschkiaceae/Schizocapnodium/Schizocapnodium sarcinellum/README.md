@@ -1,5 +1,4 @@
-Schizocapnodium sarcinellum Fairm., 1921 SPECIES
-=======
+# Schizocapnodium sarcinellum Fairm., 1921 SPECIES
 
 #### Status
 ACCEPTED

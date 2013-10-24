@@ -1,5 +1,4 @@
-Lembosia harunganae (Hansf.) Arx SPECIES
-=======
+# Lembosia harunganae (Hansf.) Arx SPECIES
 
 #### Status
 ACCEPTED

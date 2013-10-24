@@ -1,5 +1,4 @@
-Laboulbenia separata Thaxt. SPECIES
-=======
+# Laboulbenia separata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Murangium Seaver GENUS
-=======
+# Murangium Seaver GENUS
 
 #### Status
 ACCEPTED

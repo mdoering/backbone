@@ -1,5 +1,4 @@
-Uromyces asteris McAlpine SPECIES
-=======
+# Uromyces asteris McAlpine SPECIES
 
 #### Status
 ACCEPTED

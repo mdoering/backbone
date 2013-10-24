@@ -1,8 +1,7 @@
-Auerswaldia cecropiae Henn., 1904 SPECIES
-=======
+# Phyllachora cecropiae (Rehm) Arx & E. Müll., 1954 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

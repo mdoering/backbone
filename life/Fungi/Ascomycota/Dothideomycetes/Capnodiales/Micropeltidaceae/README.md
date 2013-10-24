@@ -1,17 +1,16 @@
-Micropeltaceae FAMILY
-=======
+# Micropeltidaceae Clem. & Shear FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Gen. fung. (Minneapolis), Edn 2 100 (1931)
 
 #### Original name
-null
+Micropeltidaceae Clem. & Shear
 
 ### Remarks
 null

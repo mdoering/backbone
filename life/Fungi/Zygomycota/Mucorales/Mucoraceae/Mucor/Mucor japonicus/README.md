@@ -1,5 +1,4 @@
-Mucor japonicus Wehmer SPECIES
-=======
+# Mucor japonicus Wehmer SPECIES
 
 #### Status
 ACCEPTED

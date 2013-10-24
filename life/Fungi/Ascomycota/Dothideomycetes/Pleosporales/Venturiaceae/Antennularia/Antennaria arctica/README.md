@@ -1,5 +1,4 @@
-Antennaria arctica Rostr. SPECIES
-=======
+# Antennaria arctica Rostr. SPECIES
 
 #### Status
 ACCEPTED

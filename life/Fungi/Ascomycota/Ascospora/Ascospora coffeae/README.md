@@ -1,5 +1,4 @@
-Ascospora coffeae Faber SPECIES
-=======
+# Ascospora coffeae Faber SPECIES
 
 #### Status
 ACCEPTED

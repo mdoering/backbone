@@ -1,5 +1,4 @@
-Leucoagaricus amanitoides R.M. Davis & Vellinga SPECIES
-=======
+# Leucoagaricus amanitoides R.M. Davis & Vellinga SPECIES
 
 #### Status
 ACCEPTED

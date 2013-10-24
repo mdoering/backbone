@@ -1,5 +1,4 @@
-Tapesia rehmiana Sacc., E. Bommer & M. Rousseau SPECIES
-=======
+# Tapesia rehmiana Sacc., E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

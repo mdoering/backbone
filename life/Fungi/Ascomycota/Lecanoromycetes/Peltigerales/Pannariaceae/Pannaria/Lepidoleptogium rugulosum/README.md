@@ -1,5 +1,4 @@
-Lepidoleptogium rugulosum A.L. Sm. SPECIES
-=======
+# Lepidoleptogium rugulosum A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

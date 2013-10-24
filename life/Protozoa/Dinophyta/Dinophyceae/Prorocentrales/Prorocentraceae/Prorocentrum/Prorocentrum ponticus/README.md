@@ -1,5 +1,4 @@
-Prorocentrum ponticus Krachmalny & Terenko, 2002 SPECIES
-=======
+# Prorocentrum ponticus Krachmalny & Terenko, 2002 SPECIES
 
 #### Status
 ACCEPTED

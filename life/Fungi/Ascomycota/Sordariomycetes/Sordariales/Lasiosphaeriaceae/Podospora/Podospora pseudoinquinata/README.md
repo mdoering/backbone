@@ -1,5 +1,4 @@
-Podospora pseudoinquinata S.I. Ahmed & Ahmedunn. SPECIES
-=======
+# Podospora pseudoinquinata S.I. Ahmed & Ahmedunn. SPECIES
 
 #### Status
 ACCEPTED

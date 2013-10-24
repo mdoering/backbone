@@ -1,5 +1,4 @@
-Pilosace gastrodes (Mont.) Kuntze SPECIES
-=======
+# Pilosace gastrodes (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

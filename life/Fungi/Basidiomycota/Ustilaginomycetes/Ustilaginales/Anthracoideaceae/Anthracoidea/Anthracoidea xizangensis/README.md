@@ -1,5 +1,4 @@
-Anthracoidea xizangensis L. Guo SPECIES
-=======
+# Anthracoidea xizangensis L. Guo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendrosarcus berkeleyi Kuntze SPECIES
-=======
+# Dendrosarcus berkeleyi Kuntze SPECIES
 
 #### Status
 ACCEPTED

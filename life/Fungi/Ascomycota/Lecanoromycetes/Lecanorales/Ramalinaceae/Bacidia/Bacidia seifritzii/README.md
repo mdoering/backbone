@@ -1,5 +1,4 @@
-Bacidia seifritzii Zahlbr. SPECIES
-=======
+# Bacidia seifritzii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

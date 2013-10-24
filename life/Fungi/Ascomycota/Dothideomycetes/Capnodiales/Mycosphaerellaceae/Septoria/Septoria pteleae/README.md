@@ -1,5 +1,4 @@
-Septoria pteleae Ellis & Everh. SPECIES
-=======
+# Septoria pteleae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

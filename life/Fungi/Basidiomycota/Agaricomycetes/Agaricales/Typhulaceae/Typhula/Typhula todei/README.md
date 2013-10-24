@@ -1,14 +1,13 @@
-Pistillaria todei (Fr.) Corner, 1950 SPECIES
-=======
+# Typhula todei Fr., 1815 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 493 (1950)
+Observ. mycol. (Havniae) 1: 160 (1815)
 
 #### Original name
 Typhula todei Fr., 1815

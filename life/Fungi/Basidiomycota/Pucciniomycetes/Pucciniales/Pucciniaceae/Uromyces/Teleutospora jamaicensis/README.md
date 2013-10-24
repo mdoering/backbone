@@ -1,5 +1,4 @@
-Teleutospora jamaicensis (Vestergr.) Arthur & Bisby SPECIES
-=======
+# Teleutospora jamaicensis (Vestergr.) Arthur & Bisby SPECIES
 
 #### Status
 ACCEPTED

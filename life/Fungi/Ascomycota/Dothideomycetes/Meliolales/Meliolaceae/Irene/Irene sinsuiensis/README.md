@@ -1,5 +1,4 @@
-Irene sinsuiensis W. Yamam. SPECIES
-=======
+# Irene sinsuiensis W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

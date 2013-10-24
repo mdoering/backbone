@@ -1,5 +1,4 @@
-Bjerkandera diffusa (Fr.) P. Karst. SPECIES
-=======
+# Bjerkandera diffusa (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

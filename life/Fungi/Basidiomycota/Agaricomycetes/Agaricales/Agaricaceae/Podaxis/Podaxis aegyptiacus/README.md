@@ -1,8 +1,7 @@
-Podaxon aegyptiacus Mont. SPECIES
-=======
+# Podaxis aegyptiacus Mont. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Podaxon aegyptiacus Mont.
+Podaxis aegyptiacus Mont.
 
 ### Remarks
 null

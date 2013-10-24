@@ -1,5 +1,4 @@
-Dasyscyphus macrolanceolatus G.W. Beaton SPECIES
-=======
+# Dasyscyphus macrolanceolatus G.W. Beaton SPECIES
 
 #### Status
 ACCEPTED

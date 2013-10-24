@@ -1,14 +1,13 @@
-Scirrhodothis seriata (Syd., P. Syd. & E.J. Butler) Theiss. & Syd., 1915 SPECIES
-=======
+# Scirrhia seriata Syd., P. Syd. & E.J. Butler, 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 9(4): 402 (1911)
 
 #### Original name
 Scirrhia seriata Syd., P. Syd. & E.J. Butler, 1911

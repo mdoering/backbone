@@ -1,5 +1,4 @@
-Streptococcus sobrinus (ex Coykendall, 1974) Coykendall, 1983 SPECIES
-=======
+# Streptococcus sobrinus (ex Coykendall, 1974) Coykendall, 1983 SPECIES
 
 #### Status
 ACCEPTED

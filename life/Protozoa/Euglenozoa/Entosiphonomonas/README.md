@@ -1,5 +1,4 @@
-Entosiphonomonas Larsen & Patterson, 1991 GENUS
-=======
+# Entosiphonomonas Larsen & Patterson, 1991 GENUS
 
 #### Status
 ACCEPTED

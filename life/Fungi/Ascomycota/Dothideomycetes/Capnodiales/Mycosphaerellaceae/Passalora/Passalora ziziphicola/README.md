@@ -1,5 +1,4 @@
-Passalora ziziphicola U. Braun & Crous SPECIES
-=======
+# Passalora ziziphicola U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

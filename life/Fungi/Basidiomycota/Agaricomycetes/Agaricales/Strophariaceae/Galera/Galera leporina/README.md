@@ -1,5 +1,4 @@
-Galera leporina Velen. SPECIES
-=======
+# Galera leporina Velen. SPECIES
 
 #### Status
 ACCEPTED

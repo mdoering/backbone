@@ -1,5 +1,4 @@
-Polymeridium endocrocinum R.C. Harris SPECIES
-=======
+# Polymeridium endocrocinum R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

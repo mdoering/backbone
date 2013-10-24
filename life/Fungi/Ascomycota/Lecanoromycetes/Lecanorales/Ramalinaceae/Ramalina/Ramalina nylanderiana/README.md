@@ -1,5 +1,4 @@
-Ramalina nylanderiana Räsänen SPECIES
-=======
+# Ramalina nylanderiana Räsänen SPECIES
 
 #### Status
 ACCEPTED

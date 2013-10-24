@@ -1,11 +1,10 @@
-Acuformis perennis Prévot, 1940 SPECIES
-=======
+# Clostridium perenne (Prévot, 1940) McClung and McCoy, 1957 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

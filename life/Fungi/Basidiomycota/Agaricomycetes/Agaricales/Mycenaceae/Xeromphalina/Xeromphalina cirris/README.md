@@ -1,5 +1,4 @@
-Xeromphalina cirris Redhead SPECIES
-=======
+# Xeromphalina cirris Redhead SPECIES
 
 #### Status
 ACCEPTED

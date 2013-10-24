@@ -1,5 +1,4 @@
-Hypocomagalma Jarocki & Raabe, 1932 GENUS
-=======
+# Hypocomagalma Jarocki & Raabe, 1932 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichoderma sinuosum P. Chaverri & Samuels SPECIES
-=======
+# Trichoderma sinuosum P. Chaverri & Samuels SPECIES
 
 #### Status
 ACCEPTED

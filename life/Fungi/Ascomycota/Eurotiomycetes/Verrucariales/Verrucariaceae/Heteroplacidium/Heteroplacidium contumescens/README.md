@@ -1,14 +1,13 @@
-Dermatocarpon contumescens (Nyl.) Zahlbr. SPECIES
-=======
+# Heteroplacidium contumescens (Nyl.) Breuss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 1: 213 (1921)
+Annln naturh. Mus. Wien, Ser. B, Bot. Zool. 98(Suppl. ): 40 (1996)
 
 #### Original name
 Endocarpon contumescens Nyl.

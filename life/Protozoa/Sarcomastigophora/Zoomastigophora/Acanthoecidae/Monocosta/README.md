@@ -1,5 +1,4 @@
-Monocosta Thomsen, 1979 GENUS
-=======
+# Monocosta Thomsen, 1979 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dicaeoma antarcticum (Speg.) Kuntze, 1898 SPECIES
-=======
+# Cumminsiella antarctica (Speg.) J.W. Baxter, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 467 (1898)
+null
 
 #### Original name
 Puccinia antarctica Speg.

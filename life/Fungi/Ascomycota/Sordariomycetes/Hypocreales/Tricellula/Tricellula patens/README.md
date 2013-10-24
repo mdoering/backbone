@@ -1,5 +1,4 @@
-Tricellula patens W. Gams SPECIES
-=======
+# Tricellula patens W. Gams SPECIES
 
 #### Status
 ACCEPTED

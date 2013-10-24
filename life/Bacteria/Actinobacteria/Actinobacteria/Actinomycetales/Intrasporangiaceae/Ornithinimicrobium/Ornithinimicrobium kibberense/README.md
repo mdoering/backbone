@@ -1,5 +1,4 @@
-Ornithinimicrobium kibberense Mayilraj et al., 2006 SPECIES
-=======
+# Ornithinimicrobium kibberense Mayilraj et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia citrina Died. SPECIES
-=======
+# Diplodia citrina Died. SPECIES
 
 #### Status
 ACCEPTED

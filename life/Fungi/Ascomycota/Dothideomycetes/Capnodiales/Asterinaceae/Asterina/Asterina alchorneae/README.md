@@ -1,5 +1,4 @@
-Asterina alchorneae Syd., 1938 SPECIES
-=======
+# Asterina alchorneae Syd., 1938 SPECIES
 
 #### Status
 ACCEPTED

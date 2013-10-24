@@ -1,5 +1,4 @@
-Psiloparmelia subcrustosa Elix & T.H. Nash SPECIES
-=======
+# Psiloparmelia subcrustosa Elix & T.H. Nash SPECIES
 
 #### Status
 ACCEPTED

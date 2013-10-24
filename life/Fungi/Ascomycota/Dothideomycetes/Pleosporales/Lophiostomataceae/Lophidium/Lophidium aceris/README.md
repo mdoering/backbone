@@ -1,5 +1,4 @@
-Lophidium aceris Sacc. SPECIES
-=======
+# Lophidium aceris Sacc. SPECIES
 
 #### Status
 ACCEPTED

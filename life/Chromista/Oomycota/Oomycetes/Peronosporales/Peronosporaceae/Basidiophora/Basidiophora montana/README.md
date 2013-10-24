@@ -1,5 +1,4 @@
-Basidiophora montana R.W. Barreto, 1991 SPECIES
-=======
+# Basidiophora montana R.W. Barreto, 1991 SPECIES
 
 #### Status
 ACCEPTED

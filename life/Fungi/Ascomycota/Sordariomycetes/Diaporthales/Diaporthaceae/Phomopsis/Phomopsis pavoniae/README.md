@@ -1,5 +1,4 @@
-Phomopsis pavoniae Novoss. SPECIES
-=======
+# Phomopsis pavoniae Novoss. SPECIES
 
 #### Status
 ACCEPTED

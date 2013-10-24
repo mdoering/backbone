@@ -1,5 +1,4 @@
-Xenotypa Petr. GENUS
-=======
+# Xenotypa Petr. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thalassobacter arenae Kim, Weon, Son, Lee, Hong, Jeon, Koo & Kwon, 2009 SPECIES
-=======
+# Thalassobacter arenae Kim, Weon, Son, Lee, Hong, Jeon, Koo & Kwon, 2009 SPECIES
 
 #### Status
 ACCEPTED

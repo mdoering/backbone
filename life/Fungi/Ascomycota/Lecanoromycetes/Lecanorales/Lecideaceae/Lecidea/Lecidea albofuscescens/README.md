@@ -1,5 +1,4 @@
-Lecidea albofuscescens Lettau SPECIES
-=======
+# Lecidea albofuscescens Lettau SPECIES
 
 #### Status
 ACCEPTED

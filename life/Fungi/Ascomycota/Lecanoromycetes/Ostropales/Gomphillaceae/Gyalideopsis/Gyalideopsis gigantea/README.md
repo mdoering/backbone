@@ -1,5 +1,4 @@
-Gyalideopsis gigantea Kalb & Vezda SPECIES
-=======
+# Gyalideopsis gigantea Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

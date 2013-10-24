@@ -1,5 +1,4 @@
-Celidium nephromiarium (Nyl.) P. Karst. SPECIES
-=======
+# Celidium nephromiarium (Nyl.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

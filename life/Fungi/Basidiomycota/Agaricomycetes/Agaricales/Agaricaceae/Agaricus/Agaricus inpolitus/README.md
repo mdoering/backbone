@@ -1,5 +1,4 @@
-Agaricus inpolitus Schumach. SPECIES
-=======
+# Agaricus inpolitus Schumach. SPECIES
 
 #### Status
 ACCEPTED

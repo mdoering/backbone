@@ -1,5 +1,4 @@
-Phacus kemenesii Hortobágyi SPECIES
-=======
+# Phacus kemenesii Hortobágyi SPECIES
 
 #### Status
 ACCEPTED

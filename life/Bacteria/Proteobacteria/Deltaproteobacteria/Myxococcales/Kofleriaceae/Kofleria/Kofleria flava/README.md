@@ -1,5 +1,4 @@
-Kofleria flava SPECIES
-=======
+# Kofleria flava SPECIES
 
 #### Status
 ACCEPTED

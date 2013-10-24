@@ -1,5 +1,4 @@
-Pseudobolivina heronalleni SPECIES
-=======
+# Pseudobolivina heronalleni SPECIES
 
 #### Status
 ACCEPTED

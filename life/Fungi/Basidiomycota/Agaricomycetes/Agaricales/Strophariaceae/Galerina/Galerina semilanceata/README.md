@@ -1,5 +1,4 @@
-Galerina semilanceata (Peck) A.H. Sm. & Singer SPECIES
-=======
+# Galerina semilanceata (Peck) A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

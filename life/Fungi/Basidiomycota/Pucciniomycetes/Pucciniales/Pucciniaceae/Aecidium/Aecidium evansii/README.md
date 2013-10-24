@@ -1,5 +1,4 @@
-Aecidium evansii Henn. SPECIES
-=======
+# Aecidium evansii Henn. SPECIES
 
 #### Status
 ACCEPTED

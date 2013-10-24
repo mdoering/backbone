@@ -1,5 +1,4 @@
-Catillaria incana H. Olivier SPECIES
-=======
+# Catillaria incana H. Olivier SPECIES
 
 #### Status
 ACCEPTED

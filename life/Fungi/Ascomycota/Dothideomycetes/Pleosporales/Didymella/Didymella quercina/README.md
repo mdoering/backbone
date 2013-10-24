@@ -1,5 +1,4 @@
-Didymella quercina Petr. SPECIES
-=======
+# Didymella quercina Petr. SPECIES
 
 #### Status
 ACCEPTED

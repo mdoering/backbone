@@ -1,17 +1,16 @@
-Perichaena corticalis subsp. corticalis SUBSPECIES
-=======
+# Perichaena corticalis (Batsch) Rostaf., 1875 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sluzowce monogr. (Paryz) 293 (1875)
 
 #### Original name
-null
+Lycoperdon corticale Batsch
 
 ### Remarks
 null

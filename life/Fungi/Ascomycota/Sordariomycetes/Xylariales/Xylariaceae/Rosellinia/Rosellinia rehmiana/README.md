@@ -1,5 +1,4 @@
-Rosellinia rehmiana Henn. SPECIES
-=======
+# Rosellinia rehmiana Henn. SPECIES
 
 #### Status
 ACCEPTED

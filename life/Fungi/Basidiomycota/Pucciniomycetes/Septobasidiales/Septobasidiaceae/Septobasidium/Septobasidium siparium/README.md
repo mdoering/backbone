@@ -1,14 +1,13 @@
-Stereum siparium (Berk. & M.A. Curtis) Massee, 1890 SPECIES
-=======
+# Septobasidium siparium (Berk. & M.A. Curtis) Bres., 1920 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 27: 204 (1890)
+Annls mycol. 18(1/3): 59 (1920)
 
 #### Original name
 Hymenochaete siparia Berk. & M.A. Curtis, 1868

@@ -1,5 +1,4 @@
-Biatorella coracina (Sommerf.) Lynge SPECIES
-=======
+# Biatorella coracina (Sommerf.) Lynge SPECIES
 
 #### Status
 ACCEPTED

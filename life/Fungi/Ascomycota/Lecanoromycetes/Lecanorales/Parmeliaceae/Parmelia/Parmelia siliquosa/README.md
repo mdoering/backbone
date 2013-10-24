@@ -1,5 +1,4 @@
-Parmelia siliquosa Ach. SPECIES
-=======
+# Parmelia siliquosa Ach. SPECIES
 
 #### Status
 ACCEPTED

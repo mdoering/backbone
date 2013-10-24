@@ -1,5 +1,4 @@
-Meliola durantae Gaillard SPECIES
-=======
+# Meliola durantae Gaillard SPECIES
 
 #### Status
 ACCEPTED

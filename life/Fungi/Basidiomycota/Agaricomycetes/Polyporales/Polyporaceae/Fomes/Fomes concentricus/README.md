@@ -1,5 +1,4 @@
-Fomes concentricus Cooke SPECIES
-=======
+# Fomes concentricus Cooke SPECIES
 
 #### Status
 ACCEPTED

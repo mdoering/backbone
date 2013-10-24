@@ -1,5 +1,4 @@
-Platysma complicatum (Laurer) Nyl. SPECIES
-=======
+# Platysma complicatum (Laurer) Nyl. SPECIES
 
 #### Status
 ACCEPTED

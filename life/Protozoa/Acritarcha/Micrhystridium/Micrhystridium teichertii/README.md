@@ -1,5 +1,4 @@
-Micrhystridium teichertii Sarjeant, 1973 SPECIES
-=======
+# Micrhystridium teichertii Sarjeant, 1973 SPECIES
 
 #### Status
 ACCEPTED

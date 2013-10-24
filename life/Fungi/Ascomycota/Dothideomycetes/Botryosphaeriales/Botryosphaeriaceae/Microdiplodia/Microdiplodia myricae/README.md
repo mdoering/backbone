@@ -1,5 +1,4 @@
-Microdiplodia myricae (Henn.) Sacc. & D. Sacc. SPECIES
-=======
+# Microdiplodia myricae (Henn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

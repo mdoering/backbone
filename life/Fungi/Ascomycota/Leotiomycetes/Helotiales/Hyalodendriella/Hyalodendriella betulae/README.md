@@ -1,5 +1,4 @@
-Hyalodendriella betulae Crous, 2007 SPECIES
-=======
+# Hyalodendriella betulae Crous, 2007 SPECIES
 
 #### Status
 ACCEPTED

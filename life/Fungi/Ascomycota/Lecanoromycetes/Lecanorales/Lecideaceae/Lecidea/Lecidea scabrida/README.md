@@ -1,5 +1,4 @@
-Lecidea scabrida C. Knight SPECIES
-=======
+# Lecidea scabrida C. Knight SPECIES
 
 #### Status
 ACCEPTED

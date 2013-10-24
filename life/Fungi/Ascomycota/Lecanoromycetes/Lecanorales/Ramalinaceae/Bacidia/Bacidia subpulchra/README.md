@@ -1,5 +1,4 @@
-Bacidia subpulchra (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia subpulchra (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

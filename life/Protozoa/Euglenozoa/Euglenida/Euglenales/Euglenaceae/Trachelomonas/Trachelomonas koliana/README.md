@@ -1,5 +1,4 @@
-Trachelomonas koliana Hortobagy SPECIES
-=======
+# Trachelomonas koliana Hortobagy SPECIES
 
 #### Status
 ACCEPTED

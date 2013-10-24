@@ -1,17 +1,16 @@
-Dictyolus cinnamoneus Cleland SPECIES
-=======
+# Dictyolus cinnamomeus Cleland SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Toadstools and Mushrooms and Other Larger Fungi of South Australia (Adelaide) 174 (1934)
 
 #### Original name
-Dictyolus cinnamoneus Cleland
+Dictyolus cinnamomeus Cleland
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Nodosaria tetragona Reuss SPECIES
-=======
+# Nodosaria tetragona Reuss SPECIES
 
 #### Status
 ACCEPTED

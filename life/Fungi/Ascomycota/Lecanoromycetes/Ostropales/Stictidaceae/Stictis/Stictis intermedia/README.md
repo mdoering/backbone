@@ -1,5 +1,4 @@
-Stictis intermedia Speg. SPECIES
-=======
+# Stictis intermedia Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scutellinia nivalis (Boud.) Le Gal SPECIES
-=======
+# Scutellinia nivalis (Boud.) Le Gal SPECIES
 
 #### Status
 ACCEPTED

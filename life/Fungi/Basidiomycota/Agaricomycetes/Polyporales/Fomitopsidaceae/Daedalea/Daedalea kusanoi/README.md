@@ -1,5 +1,4 @@
-Daedalea kusanoi Murrill SPECIES
-=======
+# Daedalea kusanoi Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guttulina vitrea SPECIES
-=======
+# Guttulina vitrea SPECIES
 
 #### Status
 ACCEPTED

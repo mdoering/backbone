@@ -1,5 +1,4 @@
-Stomiopeltis japonica (I. Hino & Katum.) Bat. SPECIES
-=======
+# Stomiopeltis japonica (I. Hino & Katum.) Bat. SPECIES
 
 #### Status
 ACCEPTED

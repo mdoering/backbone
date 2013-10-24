@@ -1,5 +1,4 @@
-Graphis isographoides Vain. SPECIES
-=======
+# Graphis isographoides Vain. SPECIES
 
 #### Status
 ACCEPTED

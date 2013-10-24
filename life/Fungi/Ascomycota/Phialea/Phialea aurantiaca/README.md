@@ -1,5 +1,4 @@
-Phialea aurantiaca Syd. SPECIES
-=======
+# Phialea aurantiaca Syd. SPECIES
 
 #### Status
 ACCEPTED

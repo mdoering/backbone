@@ -1,5 +1,4 @@
-Perelegamyces R.F. Castañeda & W.B. Kendr. GENUS
-=======
+# Perelegamyces R.F. Castañeda & W.B. Kendr. GENUS
 
 #### Status
 ACCEPTED

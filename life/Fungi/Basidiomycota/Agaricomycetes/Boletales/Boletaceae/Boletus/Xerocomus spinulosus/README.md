@@ -1,5 +1,4 @@
-Xerocomus spinulosus Heinem. & Gooss.-Font. SPECIES
-=======
+# Xerocomus spinulosus Heinem. & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

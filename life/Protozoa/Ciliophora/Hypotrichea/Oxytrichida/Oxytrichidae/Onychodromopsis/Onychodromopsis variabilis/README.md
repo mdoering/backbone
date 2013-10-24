@@ -1,5 +1,4 @@
-Onychodromopsis variabilis SPECIES
-=======
+# Onychodromopsis variabilis SPECIES
 
 #### Status
 ACCEPTED

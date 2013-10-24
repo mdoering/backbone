@@ -1,5 +1,4 @@
-Solenophaera polysiphonia Haeckel SPECIES
-=======
+# Solenophaera polysiphonia Haeckel SPECIES
 
 #### Status
 ACCEPTED

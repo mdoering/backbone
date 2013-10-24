@@ -1,5 +1,4 @@
-Melampsora laricis-daphnoidis Kleb. SPECIES
-=======
+# Melampsora laricis-daphnoidis Kleb. SPECIES
 
 #### Status
 ACCEPTED

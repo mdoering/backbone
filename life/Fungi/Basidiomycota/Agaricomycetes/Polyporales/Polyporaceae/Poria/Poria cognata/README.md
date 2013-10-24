@@ -1,5 +1,4 @@
-Poria cognata Overh. SPECIES
-=======
+# Poria cognata Overh. SPECIES
 
 #### Status
 ACCEPTED

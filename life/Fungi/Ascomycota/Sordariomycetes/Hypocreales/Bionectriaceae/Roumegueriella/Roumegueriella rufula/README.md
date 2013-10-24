@@ -1,17 +1,16 @@
-Mycogala macrospora Jaap, 1910 SPECIES
-=======
+# Roumegueriella rufula (Berk. & Broome) Malloch & Cain, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 50(1): 64 (1972)
 
 #### Original name
-Mycogala macrospora Jaap, 1910
+Chaetomium rufulum Berk. & Broome, 1873
 
 ### Remarks
 null

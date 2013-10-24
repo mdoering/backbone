@@ -1,5 +1,4 @@
-Lycoperdon faveolum Lloyd SPECIES
-=======
+# Lycoperdon faveolum Lloyd SPECIES
 
 #### Status
 ACCEPTED

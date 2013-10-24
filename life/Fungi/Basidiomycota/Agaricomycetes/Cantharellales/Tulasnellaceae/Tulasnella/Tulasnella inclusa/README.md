@@ -1,14 +1,13 @@
-Gloeotulasnella inclusa M.P. Christ., 1959 SPECIES
-=======
+# Tulasnella inclusa (M.P. Christ.) Donk, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Dansk bot. Ark. 19(no. 2): 41 (1959)
+Persoonia 4(3): 263 (1966)
 
 #### Original name
 Gloeotulasnella inclusa M.P. Christ., 1959

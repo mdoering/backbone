@@ -1,5 +1,4 @@
-Puccinia gymnocarpi Brandenb. & Poelt SPECIES
-=======
+# Puccinia gymnocarpi Brandenb. & Poelt SPECIES
 
 #### Status
 ACCEPTED

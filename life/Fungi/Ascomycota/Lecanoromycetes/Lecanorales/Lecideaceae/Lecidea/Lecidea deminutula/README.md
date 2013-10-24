@@ -1,5 +1,4 @@
-Lecidea deminutula H. Magn. SPECIES
-=======
+# Lecidea deminutula H. Magn. SPECIES
 
 #### Status
 ACCEPTED

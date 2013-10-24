@@ -1,5 +1,4 @@
-Lecidea nubila Norman SPECIES
-=======
+# Lecidea nubila Norman SPECIES
 
 #### Status
 ACCEPTED

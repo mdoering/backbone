@@ -1,17 +1,16 @@
-Cryptaulax Skuja, 1948 GENUS
-=======
+# Cryptaulaxoides Novarino, 1996 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List
 
 #### Published in
-null
+Acta Protozool 35 (3), August: 236.
 
 #### Original name
-null
+Cryptaulax Skuja, 1948
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Menoidiomonas schewiakoffii Skvortzov SPECIES
-=======
+# Menoidiomonas schewiakoffii Skvortzov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen melaleucus Ach. SPECIES
-=======
+# Lichen melaleucus Ach. SPECIES
 
 #### Status
 ACCEPTED

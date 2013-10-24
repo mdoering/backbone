@@ -1,5 +1,4 @@
-Microthyrium rimulosum Speg. SPECIES
-=======
+# Microthyrium rimulosum Speg. SPECIES
 
 #### Status
 ACCEPTED

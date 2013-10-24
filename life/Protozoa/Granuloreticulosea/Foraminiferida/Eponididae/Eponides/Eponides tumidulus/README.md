@@ -1,5 +1,4 @@
-Eponides tumidulus SPECIES
-=======
+# Eponides tumidulus SPECIES
 
 #### Status
 ACCEPTED

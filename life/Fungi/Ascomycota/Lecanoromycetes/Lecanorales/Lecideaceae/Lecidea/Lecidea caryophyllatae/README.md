@@ -1,5 +1,4 @@
-Lecidea caryophyllatae Fée SPECIES
-=======
+# Lecidea caryophyllatae Fée SPECIES
 
 #### Status
 ACCEPTED

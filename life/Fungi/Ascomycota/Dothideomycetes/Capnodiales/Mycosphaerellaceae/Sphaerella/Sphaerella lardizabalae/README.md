@@ -1,5 +1,4 @@
-Sphaerella lardizabalae Speg. SPECIES
-=======
+# Sphaerella lardizabalae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hesperomyces papuanus T. Majewski & K. Sugiy. SPECIES
-=======
+# Hesperomyces papuanus T. Majewski & K. Sugiy. SPECIES
 
 #### Status
 ACCEPTED

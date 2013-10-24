@@ -1,5 +1,4 @@
-Hygrophoropsis mangenotii Locq. SPECIES
-=======
+# Hygrophoropsis mangenotii Locq. SPECIES
 
 #### Status
 ACCEPTED

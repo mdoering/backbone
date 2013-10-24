@@ -1,5 +1,4 @@
-Erysiphe shinanoensis (Tanada) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe shinanoensis (Tanada) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

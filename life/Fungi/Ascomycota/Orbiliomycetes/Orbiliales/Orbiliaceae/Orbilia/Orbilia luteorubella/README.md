@@ -1,17 +1,16 @@
-Orbilia luteorubella f. luteorubella FORM
-=======
+# Orbilia luteorubella (Nyl.) P. Karst., 1870 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Orbilia luteorubella f. luteorubella
+null
 
 ### Remarks
 null

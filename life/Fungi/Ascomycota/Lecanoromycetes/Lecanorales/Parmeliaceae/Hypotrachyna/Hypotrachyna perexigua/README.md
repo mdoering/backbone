@@ -1,5 +1,4 @@
-Hypotrachyna perexigua Marcelli & C. H. Ribeiro SPECIES
-=======
+# Hypotrachyna perexigua Marcelli & C. H. Ribeiro SPECIES
 
 #### Status
 ACCEPTED

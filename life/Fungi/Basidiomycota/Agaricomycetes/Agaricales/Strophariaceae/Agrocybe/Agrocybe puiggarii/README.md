@@ -1,14 +1,13 @@
-Pholiota puiggarii Speg., 1889 SPECIES
-=======
+# Agrocybe puiggarii (Speg.) Singer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boln Acad. nac. Cienc. Córdoba 11(4): 413 (1889)
+Lilloa 212 (1951)
 
 #### Original name
 Pholiota puiggarii Speg., 1889

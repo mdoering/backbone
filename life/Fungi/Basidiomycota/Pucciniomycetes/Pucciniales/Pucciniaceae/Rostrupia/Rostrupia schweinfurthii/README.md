@@ -1,5 +1,4 @@
-Rostrupia schweinfurthii Henn. SPECIES
-=======
+# Rostrupia schweinfurthii Henn. SPECIES
 
 #### Status
 ACCEPTED

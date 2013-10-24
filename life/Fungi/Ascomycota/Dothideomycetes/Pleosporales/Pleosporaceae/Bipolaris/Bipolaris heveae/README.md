@@ -1,14 +1,13 @@
-Helminthosporium heveae Petch, 1906 SPECIES
-=======
+# Bipolaris heveae (Petch) Arx, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. R. bot. Gdns Peradeniya 3: 8-9 (1906)
+Beih. Nova Hedwigia 87: 288 (1987)
 
 #### Original name
 Helminthosporium heveae Petch, 1906

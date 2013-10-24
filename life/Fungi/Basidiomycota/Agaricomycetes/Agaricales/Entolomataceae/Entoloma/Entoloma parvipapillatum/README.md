@@ -1,5 +1,4 @@
-Entoloma parvipapillatum (Murrill) Hesler SPECIES
-=======
+# Entoloma parvipapillatum (Murrill) Hesler SPECIES
 
 #### Status
 ACCEPTED

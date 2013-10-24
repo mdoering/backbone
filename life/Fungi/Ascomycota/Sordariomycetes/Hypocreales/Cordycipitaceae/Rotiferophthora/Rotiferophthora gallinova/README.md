@@ -1,5 +1,4 @@
-Rotiferophthora gallinova Glockling, 1994 SPECIES
-=======
+# Rotiferophthora gallinova Glockling, 1994 SPECIES
 
 #### Status
 ACCEPTED

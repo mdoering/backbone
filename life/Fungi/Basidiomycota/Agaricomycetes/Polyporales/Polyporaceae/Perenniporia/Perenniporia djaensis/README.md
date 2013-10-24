@@ -1,5 +1,4 @@
-Perenniporia djaensis Decock & Mossebo SPECIES
-=======
+# Perenniporia djaensis Decock & Mossebo SPECIES
 
 #### Status
 ACCEPTED

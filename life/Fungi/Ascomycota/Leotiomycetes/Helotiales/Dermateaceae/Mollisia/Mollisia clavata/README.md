@@ -1,14 +1,13 @@
-Pyrenopeziza clavata (Gremmen) Gremmen, 1958 SPECIES
-=======
+# Mollisia clavata Gremmen, 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungus, Wageningen 28: 45 (1958)
+Fungus, Wageningen 24: 5 (1954)
 
 #### Original name
 Mollisia clavata Gremmen, 1954

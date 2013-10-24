@@ -1,17 +1,16 @@
-Lachnum acutum var. acutum VARIETY
-=======
+# Psilachnum acutum (Velen.) Raitv., 1968 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Discom. Bohem. (Prague) 254 (1934)
+in Raitviir & Sirko, Eesti NSV Tead. Akad. Toim. , Biol. seer 17: 328 (1968)
 
 #### Original name
-Lachnum acutum var. acutum
+Lachnum acutum Velen., 1934
 
 ### Remarks
 null

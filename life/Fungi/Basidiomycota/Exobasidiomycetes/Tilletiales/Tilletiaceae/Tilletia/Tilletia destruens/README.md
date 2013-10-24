@@ -1,5 +1,4 @@
-Tilletia destruens Lév. SPECIES
-=======
+# Tilletia destruens Lév. SPECIES
 
 #### Status
 ACCEPTED

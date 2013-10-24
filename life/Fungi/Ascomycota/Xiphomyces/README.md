@@ -1,5 +1,4 @@
-Xiphomyces Syd. & P. Syd. GENUS
-=======
+# Xiphomyces Syd. & P. Syd. GENUS
 
 #### Status
 ACCEPTED

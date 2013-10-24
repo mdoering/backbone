@@ -1,5 +1,4 @@
-Meliola aglaiicola Hansf. SPECIES
-=======
+# Meliola aglaiicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia claytoniae W.B. Cooke SPECIES
-=======
+# Ramularia claytoniae W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Clitopilus melleopallens (P.D. Orton) Noordel. & Co-David, 2009 SPECIES
-=======
+# Rhodocybe melleopallens P.D. Orton, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 43: 380 (1960)
 
 #### Original name
-null
+Rhodocybe melleopallens P.D. Orton, 1960
 
 ### Remarks
 null

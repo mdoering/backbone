@@ -1,17 +1,16 @@
-Diplodia fairmani Ellis & Everh. SPECIES
-=======
+# Diplodia fairmanii Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Mycol. 10: 168 (1904)
 
 #### Original name
-Diplodia fairmani Ellis & Everh.
+Diplodia fairmanii Ellis & Everh.
 
 ### Remarks
 null

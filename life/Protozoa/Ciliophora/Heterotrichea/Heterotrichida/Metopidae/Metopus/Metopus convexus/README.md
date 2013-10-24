@@ -1,5 +1,4 @@
-Metopus convexus Kahl, 1927 SPECIES
-=======
+# Metopus convexus Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

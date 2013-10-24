@@ -1,5 +1,4 @@
-Diplodia globulosa Pass. SPECIES
-=======
+# Diplodia globulosa Pass. SPECIES
 
 #### Status
 ACCEPTED

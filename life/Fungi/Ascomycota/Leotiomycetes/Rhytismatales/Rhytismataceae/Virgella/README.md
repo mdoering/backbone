@@ -1,5 +1,4 @@
-Virgella Darker, 1967 GENUS
-=======
+# Virgella Darker, 1967 GENUS
 
 #### Status
 ACCEPTED

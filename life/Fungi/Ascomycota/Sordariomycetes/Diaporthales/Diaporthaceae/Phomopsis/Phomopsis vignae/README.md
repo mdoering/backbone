@@ -1,5 +1,4 @@
-Phomopsis vignae (Speg.) Aa & Vanev SPECIES
-=======
+# Phomopsis vignae (Speg.) Aa & Vanev SPECIES
 
 #### Status
 ACCEPTED

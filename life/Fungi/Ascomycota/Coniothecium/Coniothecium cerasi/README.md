@@ -1,5 +1,4 @@
-Coniothecium cerasi McAlpine SPECIES
-=======
+# Coniothecium cerasi McAlpine SPECIES
 
 #### Status
 ACCEPTED

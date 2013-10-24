@@ -1,5 +1,4 @@
-Colletotrichum guaranicola F.C. Albuq. SPECIES
-=======
+# Colletotrichum guaranicola F.C. Albuq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma singulare (Magnus) Kuntze SPECIES
-=======
+# Dicaeoma singulare (Magnus) Kuntze SPECIES
 
 #### Status
 ACCEPTED

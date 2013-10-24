@@ -1,5 +1,4 @@
-Platystomum ambiguum (Fabre) Sacc. & D. Sacc. SPECIES
-=======
+# Platystomum ambiguum (Fabre) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

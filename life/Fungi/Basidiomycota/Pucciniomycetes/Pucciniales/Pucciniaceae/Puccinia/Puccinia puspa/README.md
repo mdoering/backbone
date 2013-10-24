@@ -1,5 +1,4 @@
-Puccinia puspa Racib. SPECIES
-=======
+# Puccinia puspa Racib. SPECIES
 
 #### Status
 ACCEPTED

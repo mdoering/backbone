@@ -1,5 +1,4 @@
-Guignardia lunulata (Rostr.) P. Larsen SPECIES
-=======
+# Guignardia lunulata (Rostr.) P. Larsen SPECIES
 
 #### Status
 ACCEPTED

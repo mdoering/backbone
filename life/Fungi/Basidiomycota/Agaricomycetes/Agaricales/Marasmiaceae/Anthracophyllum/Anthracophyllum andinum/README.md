@@ -1,5 +1,4 @@
-Anthracophyllum andinum Dennis, 1961 SPECIES
-=======
+# Anthracophyllum andinum Dennis, 1961 SPECIES
 
 #### Status
 ACCEPTED

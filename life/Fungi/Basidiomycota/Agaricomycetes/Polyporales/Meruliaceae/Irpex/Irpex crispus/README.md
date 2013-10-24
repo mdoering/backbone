@@ -1,5 +1,4 @@
-Irpex crispus (Schaeff.) Fr. SPECIES
-=======
+# Irpex crispus (Schaeff.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopilus bryophilus Murrill SPECIES
-=======
+# Gymnopilus bryophilus Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentomita ovalis Petch SPECIES
-=======
+# Lentomita ovalis Petch SPECIES
 
 #### Status
 ACCEPTED

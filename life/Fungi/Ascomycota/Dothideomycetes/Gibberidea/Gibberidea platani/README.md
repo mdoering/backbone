@@ -1,5 +1,4 @@
-Gibberidea platani (Tavel) Kuntze SPECIES
-=======
+# Gibberidea platani (Tavel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

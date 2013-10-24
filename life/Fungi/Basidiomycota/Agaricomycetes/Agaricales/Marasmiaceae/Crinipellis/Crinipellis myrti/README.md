@@ -1,5 +1,4 @@
-Crinipellis myrti Pat. SPECIES
-=======
+# Crinipellis myrti Pat. SPECIES
 
 #### Status
 ACCEPTED

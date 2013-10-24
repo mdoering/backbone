@@ -1,5 +1,4 @@
-Caloplaca johnstonii (C.W. Dodge) Søchting & Olech SPECIES
-=======
+# Caloplaca johnstonii (C.W. Dodge) Søchting & Olech SPECIES
 
 #### Status
 ACCEPTED

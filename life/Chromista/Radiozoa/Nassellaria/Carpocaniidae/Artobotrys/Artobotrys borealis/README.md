@@ -1,5 +1,4 @@
-Artobotrys borealis (Cleve) Petrushevskaya, 1971 SPECIES
-=======
+# Artobotrys borealis (Cleve) Petrushevskaya, 1971 SPECIES
 
 #### Status
 ACCEPTED

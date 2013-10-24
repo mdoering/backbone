@@ -1,5 +1,4 @@
-Imshaugia placorodia (Ach.) S.L.F. Mey. SPECIES
-=======
+# Imshaugia placorodia (Ach.) S.L.F. Mey. SPECIES
 
 #### Status
 ACCEPTED

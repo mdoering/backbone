@@ -1,5 +1,4 @@
-Agaricus injucundus Weinm. SPECIES
-=======
+# Agaricus injucundus Weinm. SPECIES
 
 #### Status
 ACCEPTED

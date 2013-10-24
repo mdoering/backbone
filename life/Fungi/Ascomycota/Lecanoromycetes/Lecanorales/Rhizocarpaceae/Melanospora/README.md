@@ -1,5 +1,4 @@
-Melanospora GENUS
-=======
+# Melanospora GENUS
 
 #### Status
 ACCEPTED

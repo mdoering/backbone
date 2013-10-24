@@ -1,5 +1,4 @@
-Hirmidium Perty GENUS
-=======
+# Hirmidium Perty GENUS
 
 #### Status
 ACCEPTED

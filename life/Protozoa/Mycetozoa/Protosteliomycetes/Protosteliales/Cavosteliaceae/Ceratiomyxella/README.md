@@ -1,5 +1,4 @@
-Ceratiomyxella L.S. Olive & Stoian. GENUS
-=======
+# Ceratiomyxella L.S. Olive & Stoian. GENUS
 
 #### Status
 ACCEPTED

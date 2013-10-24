@@ -1,5 +1,4 @@
-Odontia wrightii (Berk. & M.A. Curtis) Pat. SPECIES
-=======
+# Odontia wrightii (Berk. & M.A. Curtis) Pat. SPECIES
 
 #### Status
 ACCEPTED

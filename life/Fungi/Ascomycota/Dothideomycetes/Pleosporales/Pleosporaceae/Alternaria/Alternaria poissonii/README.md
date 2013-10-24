@@ -1,5 +1,4 @@
-Alternaria poissonii (Bouriquet) SPECIES
-=======
+# Alternaria poissonii (Bouriquet) SPECIES
 
 #### Status
 ACCEPTED

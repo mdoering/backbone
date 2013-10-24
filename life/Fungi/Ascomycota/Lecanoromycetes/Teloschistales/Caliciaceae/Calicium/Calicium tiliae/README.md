@@ -1,5 +1,4 @@
-Calicium tiliae Arnaud SPECIES
-=======
+# Calicium tiliae Arnaud SPECIES
 
 #### Status
 ACCEPTED

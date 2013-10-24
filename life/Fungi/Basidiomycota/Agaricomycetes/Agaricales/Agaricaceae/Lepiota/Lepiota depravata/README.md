@@ -1,5 +1,4 @@
-Lepiota depravata Berk. & M.A. Curtis SPECIES
-=======
+# Lepiota depravata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

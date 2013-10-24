@@ -1,5 +1,4 @@
-Russula griseobrunnea McNabb, 1973 SPECIES
-=======
+# Russula griseobrunnea McNabb, 1973 SPECIES
 
 #### Status
 ACCEPTED

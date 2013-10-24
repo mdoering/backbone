@@ -1,5 +1,4 @@
-Baltisphaeridium multiechinatum Kjellström, 1974 SPECIES
-=======
+# Baltisphaeridium multiechinatum Kjellström, 1974 SPECIES
 
 #### Status
 ACCEPTED

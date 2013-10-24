@@ -1,5 +1,4 @@
-Sporodum solani Oudem. SPECIES
-=======
+# Sporodum solani Oudem. SPECIES
 
 #### Status
 ACCEPTED

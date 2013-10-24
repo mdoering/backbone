@@ -1,5 +1,4 @@
-Staurothele humistrata Zahlbr. SPECIES
-=======
+# Staurothele humistrata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

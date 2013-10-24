@@ -1,5 +1,4 @@
-Erysiphe magnusii (S. Blumer) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe magnusii (S. Blumer) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

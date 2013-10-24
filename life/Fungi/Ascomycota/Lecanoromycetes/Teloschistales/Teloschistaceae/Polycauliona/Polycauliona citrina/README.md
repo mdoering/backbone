@@ -1,5 +1,4 @@
-Polycauliona citrina C.W. Dodge SPECIES
-=======
+# Polycauliona citrina C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

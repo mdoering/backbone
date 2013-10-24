@@ -1,17 +1,16 @@
-Ovularia obliqua var. canaegricola Henn. VARIETY
-=======
+# Ovularia obliqua (Cooke) Oudem., 1883 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 22: 85 (1883)
 
 #### Original name
-Ovularia obliqua var. canaegricola Henn.
+Peronospora obliqua Cooke, 1865
 
 ### Remarks
 null

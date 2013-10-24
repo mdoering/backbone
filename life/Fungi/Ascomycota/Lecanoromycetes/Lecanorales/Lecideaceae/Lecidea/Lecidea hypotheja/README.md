@@ -1,5 +1,4 @@
-Lecidea hypotheja I.M. Lamb SPECIES
-=======
+# Lecidea hypotheja I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

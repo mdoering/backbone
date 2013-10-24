@@ -1,5 +1,4 @@
-Cortinarius napivolvata E. Horak SPECIES
-=======
+# Cortinarius napivolvata E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chalara longior Sacc. SPECIES
-=======
+# Chalara longior Sacc. SPECIES
 
 #### Status
 ACCEPTED

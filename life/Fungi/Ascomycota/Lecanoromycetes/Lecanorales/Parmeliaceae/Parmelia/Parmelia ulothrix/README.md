@@ -1,5 +1,4 @@
-Parmelia ulothrix SPECIES
-=======
+# Parmelia ulothrix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymosphaeria rhois Feltgen SPECIES
-=======
+# Didymosphaeria rhois Feltgen SPECIES
 
 #### Status
 ACCEPTED

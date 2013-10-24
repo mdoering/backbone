@@ -1,5 +1,4 @@
-Clevelandina Bermudes et al., 1988 GENUS
-=======
+# Clevelandina Bermudes et al., 1988 GENUS
 
 #### Status
 ACCEPTED

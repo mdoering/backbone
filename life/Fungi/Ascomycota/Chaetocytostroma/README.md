@@ -1,5 +1,4 @@
-Chaetocytostroma Petr. GENUS
-=======
+# Chaetocytostroma Petr. GENUS
 
 #### Status
 ACCEPTED

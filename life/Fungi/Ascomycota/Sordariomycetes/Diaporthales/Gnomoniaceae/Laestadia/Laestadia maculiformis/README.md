@@ -1,5 +1,4 @@
-Laestadia maculiformis (Bonord.) Sacc. SPECIES
-=======
+# Laestadia maculiformis (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coscinodiscus wittianus Pantocsek SPECIES
-=======
+# Coscinodiscus wittianus Pantocsek SPECIES
 
 #### Status
 ACCEPTED

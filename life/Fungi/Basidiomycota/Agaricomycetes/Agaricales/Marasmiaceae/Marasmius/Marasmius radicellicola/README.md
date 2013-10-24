@@ -1,5 +1,4 @@
-Marasmius radicellicola Singer SPECIES
-=======
+# Marasmius radicellicola Singer SPECIES
 
 #### Status
 ACCEPTED

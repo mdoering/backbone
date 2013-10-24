@@ -1,5 +1,4 @@
-Clostridium oceanicum Smith, 1970 (Approved Lists, 1980) SPECIES
-=======
+# Clostridium oceanicum Smith, 1970 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Acanthocystis portegnus (Speg.) Singer SPECIES
-=======
+# Acanthocystis portegna (Speg.) Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 40: 148 (1943)
 
 #### Original name
 Agaricus portegnus Speg.

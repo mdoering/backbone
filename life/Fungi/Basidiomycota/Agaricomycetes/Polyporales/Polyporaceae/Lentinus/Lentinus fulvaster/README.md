@@ -1,5 +1,4 @@
-Lentinus fulvaster Berk. & Cooke SPECIES
-=======
+# Lentinus fulvaster Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

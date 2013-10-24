@@ -1,5 +1,4 @@
-Cercospora celosiae Syd., 1929 SPECIES
-=======
+# Cercospora celosiae Syd., 1929 SPECIES
 
 #### Status
 ACCEPTED

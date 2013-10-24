@@ -1,5 +1,4 @@
-Agaricus monstrosus Sowerby SPECIES
-=======
+# Agaricus monstrosus Sowerby SPECIES
 
 #### Status
 ACCEPTED

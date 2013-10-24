@@ -1,5 +1,4 @@
-Palaeotetradinium silicorum Deflandre, 1936 SPECIES
-=======
+# Palaeotetradinium silicorum Deflandre, 1936 SPECIES
 
 #### Status
 ACCEPTED

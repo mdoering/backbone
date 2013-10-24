@@ -1,5 +1,4 @@
-Sphaeria purpureofusca Schwein. SPECIES
-=======
+# Sphaeria purpureofusca Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ornatasphaera reticulata Saxena et al., 1982 SPECIES
-=======
+# Ornatasphaera reticulata Saxena et al., 1982 SPECIES
 
 #### Status
 ACCEPTED

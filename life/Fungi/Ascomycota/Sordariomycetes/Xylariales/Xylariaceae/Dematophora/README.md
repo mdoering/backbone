@@ -1,5 +1,4 @@
-Dematophora R. Hartig GENUS
-=======
+# Dematophora R. Hartig GENUS
 
 #### Status
 ACCEPTED

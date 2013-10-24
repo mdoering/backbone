@@ -1,5 +1,4 @@
-Epicrea insignis Petr., 1950 SPECIES
-=======
+# Epicrea insignis Petr., 1950 SPECIES
 
 #### Status
 ACCEPTED

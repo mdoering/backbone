@@ -1,5 +1,4 @@
-Aecidium geranii-maculati Schwein. SPECIES
-=======
+# Aecidium geranii-maculati Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Shewanella livingstonensis Bozal et al., 2002 SPECIES
-=======
+# Shewanella livingstonensis Bozal et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Pediococcus homari Deibel & Niven, 1960 SPECIES
-=======
+# Aerococcus viridans Williams et al., 1953 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

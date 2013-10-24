@@ -1,5 +1,4 @@
-Parmeliella verruculosa P.M. Jørg. SPECIES
-=======
+# Parmeliella verruculosa P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Amphiciliella eryobotryae Höhn. SPECIES
-=======
+# Amphiciliella eriobotryae Höhn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ber. dt. bot. Ges. 37: (1919)
 
 #### Original name
-Amphiciliella eryobotryae Höhn.
+Amphiciliella eriobotryae Höhn.
 
 ### Remarks
 null

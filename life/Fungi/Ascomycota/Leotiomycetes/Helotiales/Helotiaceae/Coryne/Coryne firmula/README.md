@@ -1,5 +1,4 @@
-Coryne firmula Rolland SPECIES
-=======
+# Coryne firmula Rolland SPECIES
 
 #### Status
 ACCEPTED

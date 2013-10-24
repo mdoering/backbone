@@ -1,5 +1,4 @@
-Cytospora melanodiscus (G.H. Otth) Höhn. SPECIES
-=======
+# Cytospora melanodiscus (G.H. Otth) Höhn. SPECIES
 
 #### Status
 ACCEPTED

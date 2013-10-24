@@ -1,5 +1,4 @@
-Aspicilia aliena (Zahlbr.) Oxner SPECIES
-=======
+# Aspicilia aliena (Zahlbr.) Oxner SPECIES
 
 #### Status
 ACCEPTED

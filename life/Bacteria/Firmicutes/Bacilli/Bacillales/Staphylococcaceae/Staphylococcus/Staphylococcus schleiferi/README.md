@@ -1,5 +1,4 @@
-Staphylococcus schleiferi subsp. schleiferi SUBSPECIES
-=======
+# Staphylococcus schleiferi Freney et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

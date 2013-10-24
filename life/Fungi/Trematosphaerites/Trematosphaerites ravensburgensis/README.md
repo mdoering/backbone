@@ -1,5 +1,4 @@
-Trematosphaerites ravensburgensis Kirschst. SPECIES
-=======
+# Trematosphaerites ravensburgensis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

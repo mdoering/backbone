@@ -1,5 +1,4 @@
-Parmelia carnea Eschw. SPECIES
-=======
+# Parmelia carnea Eschw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredinopsis copelandii Syd. & P. Syd. SPECIES
-=======
+# Uredinopsis copelandii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora incurva Müll. Arg. SPECIES
-=======
+# Lecanora incurva Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

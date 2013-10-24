@@ -1,5 +1,4 @@
-Lecanactis sulphurea Egea & Torrente SPECIES
-=======
+# Lecanactis sulphurea Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

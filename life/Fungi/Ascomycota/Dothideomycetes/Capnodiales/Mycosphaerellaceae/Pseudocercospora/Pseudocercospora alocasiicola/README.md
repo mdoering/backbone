@@ -1,5 +1,4 @@
-Pseudocercospora alocasiicola U. Braun & McKenzie, 1999 SPECIES
-=======
+# Pseudocercospora alocasiicola U. Braun & McKenzie, 1999 SPECIES
 
 #### Status
 ACCEPTED

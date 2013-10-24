@@ -1,8 +1,7 @@
-Puccinia phaenospermae I. Hino & Katum. SPECIES
-=======
+# Puccinia phaenospermatis Wang {?} SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia phaenospermae I. Hino & Katum.
+Puccinia phaenospermatis Wang {?}
 
 ### Remarks
 null

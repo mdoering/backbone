@@ -1,5 +1,4 @@
-Puccinia spatiosa F. Kern SPECIES
-=======
+# Puccinia spatiosa F. Kern SPECIES
 
 #### Status
 ACCEPTED

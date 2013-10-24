@@ -1,5 +1,4 @@
-Lignincola Höhnk GENUS
-=======
+# Lignincola Höhnk GENUS
 
 #### Status
 ACCEPTED

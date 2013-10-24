@@ -1,5 +1,4 @@
-Protoblastenia amagiensis Räsänen SPECIES
-=======
+# Protoblastenia amagiensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

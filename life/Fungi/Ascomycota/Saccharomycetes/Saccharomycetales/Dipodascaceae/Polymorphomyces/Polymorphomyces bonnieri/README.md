@@ -1,5 +1,4 @@
-Polymorphomyces bonnieri Coupin SPECIES
-=======
+# Polymorphomyces bonnieri Coupin SPECIES
 
 #### Status
 ACCEPTED

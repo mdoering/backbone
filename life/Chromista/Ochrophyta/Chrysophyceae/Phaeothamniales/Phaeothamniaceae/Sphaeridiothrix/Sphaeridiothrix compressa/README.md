@@ -1,5 +1,4 @@
-Sphaeridiothrix compressa Pascher & Vlk SPECIES
-=======
+# Sphaeridiothrix compressa Pascher & Vlk SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora ingae Zahlbr. SPECIES
-=======
+# Lecanora ingae Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

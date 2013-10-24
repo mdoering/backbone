@@ -1,8 +1,7 @@
-Legendrea pes Penard, 1922 SPECIES
-=======
+# Lacerus pespelicani (Penard, 1922) Jankowski, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

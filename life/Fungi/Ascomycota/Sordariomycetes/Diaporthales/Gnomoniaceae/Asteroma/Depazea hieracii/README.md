@@ -1,5 +1,4 @@
-Depazea hieracii Lasch SPECIES
-=======
+# Depazea hieracii Lasch SPECIES
 
 #### Status
 ACCEPTED

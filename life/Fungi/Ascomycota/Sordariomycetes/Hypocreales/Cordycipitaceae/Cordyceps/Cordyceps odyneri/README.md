@@ -1,5 +1,4 @@
-Cordyceps odyneri Quél. SPECIES
-=======
+# Cordyceps odyneri Quél. SPECIES
 
 #### Status
 ACCEPTED

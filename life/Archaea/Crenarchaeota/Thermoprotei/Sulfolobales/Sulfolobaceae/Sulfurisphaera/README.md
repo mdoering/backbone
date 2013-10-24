@@ -1,5 +1,4 @@
-Sulfurisphaera Kurosawa et al., 1998 GENUS
-=======
+# Sulfurisphaera Kurosawa et al., 1998 GENUS
 
 #### Status
 ACCEPTED

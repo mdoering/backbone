@@ -1,5 +1,4 @@
-Meliola petiveriae Hansf. SPECIES
-=======
+# Meliola petiveriae Hansf. SPECIES
 
 #### Status
 ACCEPTED

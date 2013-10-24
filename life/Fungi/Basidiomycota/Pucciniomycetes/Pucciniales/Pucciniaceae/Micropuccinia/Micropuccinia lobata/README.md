@@ -1,5 +1,4 @@
-Micropuccinia lobata (Berk. & M.A. Curtis) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia lobata (Berk. & M.A. Curtis) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

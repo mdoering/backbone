@@ -1,5 +1,4 @@
-Strebloides Bermudez & Seiglie, 1963 GENUS
-=======
+# Strebloides Bermudez & Seiglie, 1963 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Gliophorus laetus f. laetus FORM
-=======
+# Hygrocybe laeta (Pers. Fr.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sborník severoceského Musea, Historia Naturalis 1: 84 (1958)
+null
 
 #### Original name
-Gliophorus laetus f. laetus
+null
 
 ### Remarks
 null

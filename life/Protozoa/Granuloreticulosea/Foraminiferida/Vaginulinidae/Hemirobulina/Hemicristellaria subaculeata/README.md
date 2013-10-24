@@ -1,5 +1,4 @@
-Hemicristellaria subaculeata SPECIES
-=======
+# Hemicristellaria subaculeata SPECIES
 
 #### Status
 DOUBTFUL

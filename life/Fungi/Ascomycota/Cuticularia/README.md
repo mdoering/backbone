@@ -1,5 +1,4 @@
-Cuticularia Ducomet, 1907 GENUS
-=======
+# Cuticularia Ducomet, 1907 GENUS
 
 #### Status
 ACCEPTED

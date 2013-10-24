@@ -1,5 +1,4 @@
-Septoria salicina Peck SPECIES
-=======
+# Septoria salicina Peck SPECIES
 
 #### Status
 ACCEPTED

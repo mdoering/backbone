@@ -1,5 +1,4 @@
-Lecanora plinthina Nyl. SPECIES
-=======
+# Lecanora plinthina Nyl. SPECIES
 
 #### Status
 ACCEPTED

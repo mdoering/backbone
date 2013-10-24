@@ -1,5 +1,4 @@
-Lecidea rubricosa SPECIES
-=======
+# Lecidea rubricosa SPECIES
 
 #### Status
 ACCEPTED

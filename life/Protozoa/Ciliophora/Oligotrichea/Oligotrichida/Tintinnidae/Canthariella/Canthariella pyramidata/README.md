@@ -1,5 +1,4 @@
-Canthariella pyramidata (Jørgensen, 1924) Kofoid & Campbell, 1929 SPECIES
-=======
+# Canthariella pyramidata (Jørgensen, 1924) Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

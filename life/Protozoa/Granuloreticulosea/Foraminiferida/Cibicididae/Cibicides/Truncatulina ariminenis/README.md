@@ -1,5 +1,4 @@
-Truncatulina ariminenis d’Orbigny, 1902 SPECIES
-=======
+# Truncatulina ariminenis d’Orbigny, 1902 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Munkiella shiraiana I. Miyake & Hara SPECIES
-=======
+# Munkiella shiraiana I. Miyake & Hara SPECIES
 
 #### Status
 ACCEPTED

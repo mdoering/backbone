@@ -1,5 +1,4 @@
-Puccinia elymi-sibirici S. Ito SPECIES
-=======
+# Puccinia elymi-sibirici S. Ito SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola gersoppaensis Hosag., C.M. Pillai & Raghu SPECIES
-=======
+# Meliola gersoppaensis Hosag., C.M. Pillai & Raghu SPECIES
 
 #### Status
 ACCEPTED

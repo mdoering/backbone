@@ -1,5 +1,4 @@
-Schizoparme Shear GENUS
-=======
+# Schizoparme Shear GENUS
 
 #### Status
 ACCEPTED

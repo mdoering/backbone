@@ -1,5 +1,4 @@
-Humaria ammophila (Saut.) Sacc. SPECIES
-=======
+# Humaria ammophila (Saut.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

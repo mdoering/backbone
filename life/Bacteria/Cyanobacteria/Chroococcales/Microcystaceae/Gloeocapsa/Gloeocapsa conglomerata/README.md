@@ -1,5 +1,4 @@
-Gloeocapsa conglomerata Kützing SPECIES
-=======
+# Gloeocapsa conglomerata Kützing SPECIES
 
 #### Status
 ACCEPTED

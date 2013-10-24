@@ -1,5 +1,4 @@
-Cladolegnia spiralis (Cornu) Johannes SPECIES
-=======
+# Cladolegnia spiralis (Cornu) Johannes SPECIES
 
 #### Status
 ACCEPTED

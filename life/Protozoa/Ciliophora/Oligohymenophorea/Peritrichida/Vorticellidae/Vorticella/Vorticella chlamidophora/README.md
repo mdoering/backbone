@@ -1,5 +1,4 @@
-Vorticella chlamidophora SPECIES
-=======
+# Vorticella chlamidophora SPECIES
 
 #### Status
 ACCEPTED

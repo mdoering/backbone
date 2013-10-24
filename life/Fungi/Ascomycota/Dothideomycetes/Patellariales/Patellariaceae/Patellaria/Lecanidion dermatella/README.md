@@ -1,5 +1,4 @@
-Lecanidion dermatella E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Lecanidion dermatella E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

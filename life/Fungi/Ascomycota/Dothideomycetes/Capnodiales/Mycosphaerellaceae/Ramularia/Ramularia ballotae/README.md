@@ -1,5 +1,4 @@
-Ramularia ballotae C. Massal. SPECIES
-=======
+# Ramularia ballotae C. Massal. SPECIES
 
 #### Status
 ACCEPTED

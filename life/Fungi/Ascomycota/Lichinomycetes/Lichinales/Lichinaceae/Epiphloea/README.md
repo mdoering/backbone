@@ -1,17 +1,16 @@
-Latzelia Zahlbruckner, 1926 GENUS
-=======
+# Epiphloea Trevisan, 1880 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List
 
 #### Published in
-in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Edn 2 8: 175 (1926)
+Rendoconti R. Istituto Lombardi, Milano, ser. 2 18: 73 (1880)
 
 #### Original name
-Latzelia Zahlbruckner, 1926
+Epiphloea Trevisan, 1880
 
 ### Remarks
 null

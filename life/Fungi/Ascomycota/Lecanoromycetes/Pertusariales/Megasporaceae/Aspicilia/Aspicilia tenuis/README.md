@@ -1,5 +1,4 @@
-Aspicilia tenuis (H. Magn.) Owe-Larss. & A. Nordin SPECIES
-=======
+# Aspicilia tenuis (H. Magn.) Owe-Larss. & A. Nordin SPECIES
 
 #### Status
 ACCEPTED

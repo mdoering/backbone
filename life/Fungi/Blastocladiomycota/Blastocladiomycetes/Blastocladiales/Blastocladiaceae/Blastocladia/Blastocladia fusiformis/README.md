@@ -1,5 +1,4 @@
-Blastocladia fusiformis S.N. Dasgupta & R. John SPECIES
-=======
+# Blastocladia fusiformis S.N. Dasgupta & R. John SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catapyrenium insigne (Zahlbr.) D.J. Galloway SPECIES
-=======
+# Catapyrenium insigne (Zahlbr.) D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

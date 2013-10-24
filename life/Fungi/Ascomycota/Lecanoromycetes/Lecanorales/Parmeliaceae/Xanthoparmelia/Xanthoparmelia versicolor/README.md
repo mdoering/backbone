@@ -1,17 +1,16 @@
-Parmelia callifolia Kurok. SPECIES
-=======
+# Xanthoparmelia versicolor (Müll. Arg.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Kurokawa & Filson, Bull. natn. Sci. Mus. , Tokyo, B 1: 42 (1975)
+Phytologia 28: 490 (1974)
 
 #### Original name
-Parmelia callifolia Kurok.
+Parmelia versicolor Müll. Arg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phaeotrichoconis aurata Rambelli SPECIES
-=======
+# Phaeotrichoconis aurata Rambelli SPECIES
 
 #### Status
 ACCEPTED

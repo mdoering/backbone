@@ -1,5 +1,4 @@
-Gyrophora ustulata (Vain.) Dalla Torre & Sarnth. SPECIES
-=======
+# Gyrophora ustulata (Vain.) Dalla Torre & Sarnth. SPECIES
 
 #### Status
 ACCEPTED

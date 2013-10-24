@@ -1,11 +1,10 @@
-Corticium evolvens var. evolvens VARIETY
-=======
+# Corticium evolvens SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null

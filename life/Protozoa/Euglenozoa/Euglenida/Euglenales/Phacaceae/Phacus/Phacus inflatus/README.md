@@ -1,5 +1,4 @@
-Phacus inflatus Playfair SPECIES
-=======
+# Phacus inflatus Playfair SPECIES
 
 #### Status
 ACCEPTED

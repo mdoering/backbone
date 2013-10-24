@@ -1,5 +1,4 @@
-Filoboletus mycenoides Henn. SPECIES
-=======
+# Filoboletus mycenoides Henn. SPECIES
 
 #### Status
 ACCEPTED

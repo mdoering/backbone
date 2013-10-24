@@ -1,5 +1,4 @@
-Panaeolus rufus Overh. SPECIES
-=======
+# Panaeolus rufus Overh. SPECIES
 
 #### Status
 ACCEPTED

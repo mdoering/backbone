@@ -1,5 +1,4 @@
-Asellaria armadillidii Tuzet & Manier ex Manier, 1968 SPECIES
-=======
+# Asellaria armadillidii Tuzet & Manier ex Manier, 1968 SPECIES
 
 #### Status
 ACCEPTED

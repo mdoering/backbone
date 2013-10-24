@@ -1,5 +1,4 @@
-Sphaerella drymariae (Syd.) Sacc. SPECIES
-=======
+# Sphaerella drymariae (Syd.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

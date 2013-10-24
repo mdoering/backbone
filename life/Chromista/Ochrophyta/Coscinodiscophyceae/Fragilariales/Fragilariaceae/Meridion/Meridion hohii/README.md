@@ -1,5 +1,4 @@
-Meridion hohii K. M. Rhode SPECIES
-=======
+# Meridion hohii K. M. Rhode SPECIES
 
 #### Status
 ACCEPTED

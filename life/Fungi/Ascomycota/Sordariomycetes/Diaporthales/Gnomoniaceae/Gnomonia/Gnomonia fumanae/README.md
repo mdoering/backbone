@@ -1,5 +1,4 @@
-Gnomonia fumanae Tóth SPECIES
-=======
+# Gnomonia fumanae Tóth SPECIES
 
 #### Status
 ACCEPTED

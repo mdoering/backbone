@@ -1,5 +1,4 @@
-Verrucaria epigaeiza Nyl. SPECIES
-=======
+# Verrucaria epigaeiza Nyl. SPECIES
 
 #### Status
 ACCEPTED

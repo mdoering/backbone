@@ -1,5 +1,4 @@
-Pluteus albidus Beeli SPECIES
-=======
+# Pluteus albidus Beeli SPECIES
 
 #### Status
 ACCEPTED

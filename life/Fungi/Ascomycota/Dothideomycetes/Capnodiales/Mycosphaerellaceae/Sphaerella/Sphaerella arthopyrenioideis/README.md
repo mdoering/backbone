@@ -1,5 +1,4 @@
-Sphaerella arthopyrenioideis Auersw. SPECIES
-=======
+# Sphaerella arthopyrenioideis Auersw. SPECIES
 
 #### Status
 ACCEPTED

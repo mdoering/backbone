@@ -1,5 +1,4 @@
-Meliola phyllostachydis W. Yamam. SPECIES
-=======
+# Meliola phyllostachydis W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

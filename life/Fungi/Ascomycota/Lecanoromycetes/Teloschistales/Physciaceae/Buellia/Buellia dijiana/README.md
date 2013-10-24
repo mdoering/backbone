@@ -1,5 +1,4 @@
-Buellia dijiana Trinkaus SPECIES
-=======
+# Buellia dijiana Trinkaus SPECIES
 
 #### Status
 ACCEPTED

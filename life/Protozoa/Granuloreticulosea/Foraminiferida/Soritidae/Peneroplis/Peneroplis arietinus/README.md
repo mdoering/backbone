@@ -1,5 +1,4 @@
-Peneroplis arietinus SPECIES
-=======
+# Peneroplis arietinus SPECIES
 
 #### Status
 ACCEPTED

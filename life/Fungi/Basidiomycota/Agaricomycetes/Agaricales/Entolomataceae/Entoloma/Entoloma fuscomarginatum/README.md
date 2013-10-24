@@ -1,17 +1,16 @@
-Rhodophyllus fuscomarginatus (P.D. Orton) M.M. Moser, 1967 SPECIES
-=======
+# Entoloma fuscomarginatum P.D. Orton, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Gams, Kleine Kryptogamenflora (Stuttgart), Edn 3 2b/2: 153 (1967)
+Beih. Nova Hedwigia 65: 291 (1980)
 
 #### Original name
-Entoloma fuscomarginatum P.D. Orton, 1960
+Leptonia fuscomarginata Cleland
 
 ### Remarks
 null

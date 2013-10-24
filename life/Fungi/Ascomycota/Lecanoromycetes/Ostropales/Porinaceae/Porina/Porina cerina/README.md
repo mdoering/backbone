@@ -1,5 +1,4 @@
-Porina cerina (Zahlbr.) R. Sant. SPECIES
-=======
+# Porina cerina (Zahlbr.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

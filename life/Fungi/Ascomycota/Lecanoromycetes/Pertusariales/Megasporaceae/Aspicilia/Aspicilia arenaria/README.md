@@ -1,5 +1,4 @@
-Aspicilia arenaria Eitner SPECIES
-=======
+# Aspicilia arenaria Eitner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Charonectria pedicularis Tracy & Earle SPECIES
-=======
+# Charonectria pedicularis Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella psammisiae Cooke SPECIES
-=======
+# Sphaerella psammisiae Cooke SPECIES
 
 #### Status
 ACCEPTED

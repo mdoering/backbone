@@ -1,8 +1,7 @@
-Cladopyxis claytoni R.W. Holmes SPECIES
-=======
+# Micracanthodinium claytonii (Holmes) Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

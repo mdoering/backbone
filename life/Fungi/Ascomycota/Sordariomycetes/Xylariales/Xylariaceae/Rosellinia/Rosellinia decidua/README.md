@@ -1,5 +1,4 @@
-Rosellinia decidua Petch SPECIES
-=======
+# Rosellinia decidua Petch SPECIES
 
 #### Status
 ACCEPTED

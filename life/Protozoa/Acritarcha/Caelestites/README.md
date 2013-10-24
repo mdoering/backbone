@@ -1,5 +1,4 @@
-Caelestites F.L. Staplin, 1962 GENUS
-=======
+# Caelestites F.L. Staplin, 1962 GENUS
 
 #### Status
 ACCEPTED

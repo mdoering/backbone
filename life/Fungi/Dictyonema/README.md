@@ -1,5 +1,4 @@
-Dictyonema Reinsch, 1875 GENUS
-=======
+# Dictyonema Reinsch, 1875 GENUS
 
 #### Status
 ACCEPTED

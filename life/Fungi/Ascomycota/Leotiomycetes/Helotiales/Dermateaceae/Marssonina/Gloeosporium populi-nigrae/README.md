@@ -1,5 +1,4 @@
-Gloeosporium populi-nigrae Gonz. Frag. SPECIES
-=======
+# Gloeosporium populi-nigrae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lecanora crenulata f. crenulata FORM
-=======
+# Lecanora crenulata Hook. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Engl. Fl. 5: 194 (1844)
 
 #### Original name
-Lecanora crenulata f. crenulata
+Lichen murorum var. crenulatus Wahlenb.
 
 ### Remarks
 null

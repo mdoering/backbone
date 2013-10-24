@@ -1,17 +1,16 @@
-Echinosphaeria strigosa (Alb. & Schwein.) Declercq, 2009 SPECIES
-=======
+# Lasiosphaeria strigosa (Alb. & Schwein.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 2: 201 (1883)
 
 #### Original name
-null
+Sphaeria strigosa Alb. & Schwein., 1805
 
 ### Remarks
 null

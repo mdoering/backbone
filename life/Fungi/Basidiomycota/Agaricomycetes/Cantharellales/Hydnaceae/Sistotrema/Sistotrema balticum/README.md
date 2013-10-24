@@ -1,5 +1,4 @@
-Sistotrema balticum H.A. Dietr. SPECIES
-=======
+# Sistotrema balticum H.A. Dietr. SPECIES
 
 #### Status
 ACCEPTED

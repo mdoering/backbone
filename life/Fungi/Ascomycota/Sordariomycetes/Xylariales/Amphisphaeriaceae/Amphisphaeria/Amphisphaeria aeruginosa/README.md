@@ -1,5 +1,4 @@
-Amphisphaeria aeruginosa Fairm. SPECIES
-=======
+# Amphisphaeria aeruginosa Fairm. SPECIES
 
 #### Status
 ACCEPTED

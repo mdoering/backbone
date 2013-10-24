@@ -1,5 +1,4 @@
-Catacauma dussiae Syd. & P. Syd., 1921 SPECIES
-=======
+# Catacauma dussiae Syd. & P. Syd., 1921 SPECIES
 
 #### Status
 ACCEPTED

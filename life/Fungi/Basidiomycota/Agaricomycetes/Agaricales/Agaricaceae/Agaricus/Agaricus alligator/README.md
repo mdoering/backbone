@@ -1,5 +1,4 @@
-Agaricus alligator Murrill SPECIES
-=======
+# Agaricus alligator Murrill SPECIES
 
 #### Status
 ACCEPTED

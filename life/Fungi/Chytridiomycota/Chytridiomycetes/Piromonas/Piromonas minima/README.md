@@ -1,5 +1,4 @@
-Piromonas minima E. Liebet. SPECIES
-=======
+# Piromonas minima E. Liebet. SPECIES
 
 #### Status
 ACCEPTED

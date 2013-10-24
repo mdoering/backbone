@@ -1,5 +1,4 @@
-Fusarium mycophytum (Wm. G. Sm.) Massee SPECIES
-=======
+# Fusarium mycophytum (Wm. G. Sm.) Massee SPECIES
 
 #### Status
 ACCEPTED

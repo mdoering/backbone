@@ -1,5 +1,4 @@
-Porina exacta Malcolm, P. M. McCarthy & Kantvilas SPECIES
-=======
+# Porina exacta Malcolm, P. M. McCarthy & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

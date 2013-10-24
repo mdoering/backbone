@@ -1,14 +1,13 @@
-Crossopsora byrsonimatis (Henn.) R.S. Peterson SPECIES
-=======
+# Crossopsora byrsonimae (Henn.) R.S. Peterson SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Rep. Tottori Mycol. Inst. 10: 210 (1973)
 
 #### Original name
 Cronartium byrsonimatis Henn.

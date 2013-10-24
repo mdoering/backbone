@@ -1,5 +1,4 @@
-Cantharellus rhodophyllus Heinem., 1958 SPECIES
-=======
+# Cantharellus rhodophyllus Heinem., 1958 SPECIES
 
 #### Status
 ACCEPTED

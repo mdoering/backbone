@@ -1,5 +1,4 @@
-Pleospora passeriniana Berl. SPECIES
-=======
+# Pleospora passeriniana Berl. SPECIES
 
 #### Status
 ACCEPTED

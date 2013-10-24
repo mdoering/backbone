@@ -1,5 +1,4 @@
-Aspidella pulverulenta (Beeli) E.-J. Gilbert SPECIES
-=======
+# Aspidella pulverulenta (Beeli) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

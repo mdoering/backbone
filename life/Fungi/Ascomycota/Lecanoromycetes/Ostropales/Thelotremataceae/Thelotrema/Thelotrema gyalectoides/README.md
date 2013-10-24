@@ -1,5 +1,4 @@
-Thelotrema gyalectoides A. Massal. SPECIES
-=======
+# Thelotrema gyalectoides A. Massal. SPECIES
 
 #### Status
 ACCEPTED

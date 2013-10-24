@@ -1,5 +1,4 @@
-Hymenagaricus subaeruginosus (Berk. & Broome) Heinem. & Little Flower SPECIES
-=======
+# Hymenagaricus subaeruginosus (Berk. & Broome) Heinem. & Little Flower SPECIES
 
 #### Status
 ACCEPTED

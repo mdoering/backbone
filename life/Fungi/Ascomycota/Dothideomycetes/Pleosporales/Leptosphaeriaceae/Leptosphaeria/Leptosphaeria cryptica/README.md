@@ -1,5 +1,4 @@
-Leptosphaeria cryptica Syd. SPECIES
-=======
+# Leptosphaeria cryptica Syd. SPECIES
 
 #### Status
 ACCEPTED

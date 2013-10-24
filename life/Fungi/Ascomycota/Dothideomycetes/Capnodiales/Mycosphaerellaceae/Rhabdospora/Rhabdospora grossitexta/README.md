@@ -1,5 +1,4 @@
-Rhabdospora grossitexta Bubák SPECIES
-=======
+# Rhabdospora grossitexta Bubák SPECIES
 
 #### Status
 ACCEPTED

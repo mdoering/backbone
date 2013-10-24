@@ -1,5 +1,4 @@
-Mycosphaerella digitalis-ambiguae Arx SPECIES
-=======
+# Mycosphaerella digitalis-ambiguae Arx SPECIES
 
 #### Status
 ACCEPTED

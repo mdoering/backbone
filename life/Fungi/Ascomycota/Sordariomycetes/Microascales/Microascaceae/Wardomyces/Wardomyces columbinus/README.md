@@ -1,14 +1,13 @@
-Hennebertia columbina (Demelius) M. Morelet, 1969 SPECIES
-=======
+# Wardomyces columbinus (Demelius) Hennebert, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annales de la Société des Sciences Naturelles et d'Archéologie de Toulon et du Var 21: 104 (1969)
+Trans. Br. mycol. Soc. 51: 753 (1968)
 
 #### Original name
 null

@@ -1,17 +1,16 @@
-Physcia strigosa Poelt & Buschardt SPECIES
-=======
+# Phaeophyscia strigosa (Poelt & Buschardt) N. S. Golubk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Konspekt Flory Lishainikov Mongol'skoi Naradnoi Respubliki (Leningrad) 175 (1981)
 
 #### Original name
-null
+Physcia strigosa Poelt & Buschardt
 
 ### Remarks
 null

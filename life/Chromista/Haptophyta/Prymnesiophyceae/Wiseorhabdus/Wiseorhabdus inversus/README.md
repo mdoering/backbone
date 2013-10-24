@@ -1,5 +1,4 @@
-Wiseorhabdus inversus (D. Bukry & M.N. Bramlette) D. Bukry SPECIES
-=======
+# Wiseorhabdus inversus (D. Bukry & M.N. Bramlette) D. Bukry SPECIES
 
 #### Status
 ACCEPTED

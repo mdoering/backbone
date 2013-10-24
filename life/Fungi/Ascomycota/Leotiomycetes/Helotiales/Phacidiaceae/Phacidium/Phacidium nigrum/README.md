@@ -1,5 +1,4 @@
-Phacidium nigrum Cooke SPECIES
-=======
+# Phacidium nigrum Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haemophilus pittmaniae Nørskov-Lauritsen et al., 2005 SPECIES
-=======
+# Haemophilus pittmaniae Nørskov-Lauritsen et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius violeorotalis Singer SPECIES
-=======
+# Marasmius violeorotalis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clasterosphaeria indica Hosag. & Manojk. SPECIES
-=======
+# Clasterosphaeria indica Hosag. & Manojk. SPECIES
 
 #### Status
 ACCEPTED

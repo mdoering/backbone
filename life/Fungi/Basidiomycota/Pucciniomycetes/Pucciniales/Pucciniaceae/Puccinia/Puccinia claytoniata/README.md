@@ -1,5 +1,4 @@
-Puccinia claytoniata (Schwein.) P. Syd. & Syd. SPECIES
-=======
+# Puccinia claytoniata (Schwein.) P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

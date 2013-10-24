@@ -1,5 +1,4 @@
-Abrothallomyces protothallini Cif. & Tomas. SPECIES
-=======
+# Abrothallomyces protothallini Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycocalia sphagneti J.T. Palmer, 1963 SPECIES
-=======
+# Mycocalia sphagneti J.T. Palmer, 1963 SPECIES
 
 #### Status
 ACCEPTED

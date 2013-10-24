@@ -1,5 +1,4 @@
-Verrucaria pseudominuta Servít SPECIES
-=======
+# Verrucaria pseudominuta Servít SPECIES
 
 #### Status
 ACCEPTED

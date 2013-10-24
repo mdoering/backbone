@@ -1,5 +1,4 @@
-Hemigastrostyla szaboi Wilbert & Song, 2005 SPECIES
-=======
+# Hemigastrostyla szaboi Wilbert & Song, 2005 SPECIES
 
 #### Status
 ACCEPTED

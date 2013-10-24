@@ -1,5 +1,4 @@
-Dermatea pulchra Starbäck SPECIES
-=======
+# Dermatea pulchra Starbäck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza omphalodes SPECIES
-=======
+# Peziza omphalodes SPECIES
 
 #### Status
 ACCEPTED

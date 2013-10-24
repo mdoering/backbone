@@ -1,5 +1,4 @@
-Patellaria exigua (Ach.) DC. SPECIES
-=======
+# Patellaria exigua (Ach.) DC. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cenangium brasiliense Mont. SPECIES
-=======
+# Cenangium brasiliense Mont. SPECIES
 
 #### Status
 ACCEPTED

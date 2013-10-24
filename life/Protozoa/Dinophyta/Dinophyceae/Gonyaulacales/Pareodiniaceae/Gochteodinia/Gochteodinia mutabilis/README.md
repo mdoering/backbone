@@ -1,5 +1,4 @@
-Gochteodinia mutabilis (L. A. Riley) R. J. Davey SPECIES
-=======
+# Gochteodinia mutabilis (L. A. Riley) R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

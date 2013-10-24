@@ -1,5 +1,4 @@
-Actinocladium penicillus Fr. SPECIES
-=======
+# Actinocladium penicillus Fr. SPECIES
 
 #### Status
 ACCEPTED

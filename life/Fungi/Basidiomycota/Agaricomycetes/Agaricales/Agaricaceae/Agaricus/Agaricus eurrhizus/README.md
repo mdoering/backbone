@@ -1,5 +1,4 @@
-Agaricus eurrhizus Berk. SPECIES
-=======
+# Agaricus eurrhizus Berk. SPECIES
 
 #### Status
 ACCEPTED

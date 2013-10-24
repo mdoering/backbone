@@ -1,5 +1,4 @@
-Lecanora kukunorensis H. Magn. SPECIES
-=======
+# Lecanora kukunorensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocapsa dubia Ercegovic SPECIES
-=======
+# Pseudocapsa dubia Ercegovic SPECIES
 
 #### Status
 ACCEPTED

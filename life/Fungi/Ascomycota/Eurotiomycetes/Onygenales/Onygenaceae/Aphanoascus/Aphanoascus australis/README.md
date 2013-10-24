@@ -1,5 +1,4 @@
-Aphanoascus australis Cano & Guarro SPECIES
-=======
+# Aphanoascus australis Cano & Guarro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora vulcanicola (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Lecanora vulcanicola (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

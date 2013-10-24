@@ -1,5 +1,4 @@
-Lophopteryx camelina Npv SPECIES
-=======
+# Lophopteryx camelina Npv SPECIES
 
 #### Status
 ACCEPTED

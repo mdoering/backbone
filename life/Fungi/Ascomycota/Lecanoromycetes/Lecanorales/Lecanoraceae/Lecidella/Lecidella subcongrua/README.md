@@ -1,5 +1,4 @@
-Lecidella subcongrua (Vain.) R. Sant. SPECIES
-=======
+# Lecidella subcongrua (Vain.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

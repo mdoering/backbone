@@ -1,5 +1,4 @@
-Macrophoma guttifera (G.H. Otth) Höhn. SPECIES
-=======
+# Macrophoma guttifera (G.H. Otth) Höhn. SPECIES
 
 #### Status
 ACCEPTED

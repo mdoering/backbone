@@ -1,5 +1,4 @@
-Prunulus paludicola Murrill SPECIES
-=======
+# Prunulus paludicola Murrill SPECIES
 
 #### Status
 ACCEPTED

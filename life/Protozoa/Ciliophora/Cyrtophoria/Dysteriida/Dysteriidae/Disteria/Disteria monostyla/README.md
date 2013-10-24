@@ -1,5 +1,4 @@
-Disteria monostyla SPECIES
-=======
+# Disteria monostyla SPECIES
 
 #### Status
 ACCEPTED

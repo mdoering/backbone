@@ -1,5 +1,4 @@
-Epiplosphaera bireticulata Klement, 1960 SPECIES
-=======
+# Epiplosphaera bireticulata Klement, 1960 SPECIES
 
 #### Status
 ACCEPTED

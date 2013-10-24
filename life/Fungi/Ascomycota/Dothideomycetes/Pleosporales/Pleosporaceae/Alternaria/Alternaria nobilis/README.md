@@ -1,14 +1,13 @@
-Macrosporium nobile Vize, 1877 SPECIES
-=======
+# Alternaria nobilis (Vize) E.G. Simmons, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 5(no. 35): 119 (1877)
+Mycotaxon 82: 7 (2002)
 
 #### Original name
 Macrosporium nobile Vize, 1877

@@ -1,5 +1,4 @@
-Lasiobolus hirtellus (P. Karst.) P. Karst. SPECIES
-=======
+# Lasiobolus hirtellus (P. Karst.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

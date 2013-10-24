@@ -1,5 +1,4 @@
-Leptothyrium pyrolatum (Rostr.) Jørst. SPECIES
-=======
+# Leptothyrium pyrolatum (Rostr.) Jørst. SPECIES
 
 #### Status
 ACCEPTED

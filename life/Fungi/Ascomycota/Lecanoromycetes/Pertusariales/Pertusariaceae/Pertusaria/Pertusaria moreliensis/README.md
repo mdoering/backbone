@@ -1,5 +1,4 @@
-Pertusaria moreliensis B. de Lesd. SPECIES
-=======
+# Pertusaria moreliensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

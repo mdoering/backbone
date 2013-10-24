@@ -1,5 +1,4 @@
-Isidium stalactificum Clemente SPECIES
-=======
+# Isidium stalactificum Clemente SPECIES
 
 #### Status
 ACCEPTED

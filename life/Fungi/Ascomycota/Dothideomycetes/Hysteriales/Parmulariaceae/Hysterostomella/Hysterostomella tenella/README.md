@@ -1,17 +1,16 @@
-Hysterostomina tenella (Syd. & P. Syd.) Theiss. & Syd., 1915 SPECIES
-=======
+# Hysterostomella tenella Syd. & P. Syd., 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 10: 442 (1912)
 
 #### Original name
-null
+Hysterostomella tenella Syd. & P. Syd., 1912
 
 ### Remarks
 null

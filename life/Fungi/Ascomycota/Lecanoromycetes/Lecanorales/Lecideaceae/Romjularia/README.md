@@ -1,5 +1,4 @@
-Romjularia Timdal GENUS
-=======
+# Romjularia Timdal GENUS
 
 #### Status
 ACCEPTED

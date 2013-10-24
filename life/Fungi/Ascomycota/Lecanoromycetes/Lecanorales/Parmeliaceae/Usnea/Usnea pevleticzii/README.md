@@ -1,5 +1,4 @@
-Usnea pevleticzii Bystrek SPECIES
-=======
+# Usnea pevleticzii Bystrek SPECIES
 
 #### Status
 ACCEPTED

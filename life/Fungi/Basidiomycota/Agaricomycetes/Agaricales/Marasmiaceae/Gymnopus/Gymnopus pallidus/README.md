@@ -1,5 +1,4 @@
-Gymnopus pallidus Murrill SPECIES
-=======
+# Gymnopus pallidus Murrill SPECIES
 
 #### Status
 ACCEPTED

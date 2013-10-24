@@ -1,5 +1,4 @@
-Mollisiopsis lachnoideis Rehm SPECIES
-=======
+# Mollisiopsis lachnoideis Rehm SPECIES
 
 #### Status
 ACCEPTED

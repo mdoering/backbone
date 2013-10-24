@@ -1,5 +1,4 @@
-Corethromyces brunneolus Thaxt. SPECIES
-=======
+# Corethromyces brunneolus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

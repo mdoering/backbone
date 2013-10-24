@@ -1,5 +1,4 @@
-Cladotricha sagittata Ruinen, 1938 SPECIES
-=======
+# Cladotricha sagittata Ruinen, 1938 SPECIES
 
 #### Status
 ACCEPTED

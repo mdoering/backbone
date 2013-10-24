@@ -1,17 +1,16 @@
-Sporormiella gigantea (E.C. Hansen) Doveri, 2007 SPECIES
-=======
+# Sporormiella ovina (Desm.) S.I. Ahmed & Cain, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Riv. Micol. 50(1): 46 (2007)
+Can. J. Bot. 50(3): 454 (1972)
 
 #### Original name
-Sporormia gigantea E.C. Hansen, 1877
+null
 
 ### Remarks
 null

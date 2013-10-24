@@ -1,5 +1,4 @@
-Lecidea electrodes Stirt. SPECIES
-=======
+# Lecidea electrodes Stirt. SPECIES
 
 #### Status
 ACCEPTED

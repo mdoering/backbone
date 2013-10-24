@@ -1,5 +1,4 @@
-Verrucaria verruculosa Vain. SPECIES
-=======
+# Verrucaria verruculosa Vain. SPECIES
 
 #### Status
 ACCEPTED

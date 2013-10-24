@@ -1,8 +1,7 @@
-Schizosiphon bauerianus Grunow SPECIES
-=======
+# Dichothrix baueriana (Grunow) Bornet & Flahault SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

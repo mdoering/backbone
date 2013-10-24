@@ -1,5 +1,4 @@
-Cortinarius aurora M.M. Moser & Ammirati SPECIES
-=======
+# Cortinarius aurora M.M. Moser & Ammirati SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora discreta f. discreta FORM
-=======
+# Acarospora discreta (Ach.) Arnold SPECIES
 
 #### Status
 ACCEPTED

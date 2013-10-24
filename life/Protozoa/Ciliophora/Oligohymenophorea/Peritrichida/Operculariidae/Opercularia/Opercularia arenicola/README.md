@@ -1,5 +1,4 @@
-Opercularia arenicola Greeff, 1873 SPECIES
-=======
+# Opercularia arenicola Greeff, 1873 SPECIES
 
 #### Status
 ACCEPTED

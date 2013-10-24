@@ -1,5 +1,4 @@
-Plicaria rubrofusca Rehm SPECIES
-=======
+# Plicaria rubrofusca Rehm SPECIES
 
 #### Status
 ACCEPTED

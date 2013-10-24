@@ -1,5 +1,4 @@
-Clypeopyrenis Aptroot GENUS
-=======
+# Clypeopyrenis Aptroot GENUS
 
 #### Status
 ACCEPTED

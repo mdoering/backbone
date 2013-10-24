@@ -1,5 +1,4 @@
-Stagonospora ligniseda (Tassi) Sacc. & D. Sacc. SPECIES
-=======
+# Stagonospora ligniseda (Tassi) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

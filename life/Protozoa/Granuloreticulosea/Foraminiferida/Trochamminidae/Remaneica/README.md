@@ -1,5 +1,4 @@
-Remaneica Rhumbler, 1938 GENUS
-=======
+# Remaneica Rhumbler, 1938 GENUS
 
 #### Status
 ACCEPTED

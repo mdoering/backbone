@@ -1,5 +1,4 @@
-Porophoromyces Thaxt. GENUS
-=======
+# Porophoromyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

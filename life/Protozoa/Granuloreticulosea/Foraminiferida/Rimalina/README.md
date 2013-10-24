@@ -1,5 +1,4 @@
-Rimalina Pérébaskine, 1945 GENUS
-=======
+# Rimalina Pérébaskine, 1945 GENUS
 
 #### Status
 ACCEPTED

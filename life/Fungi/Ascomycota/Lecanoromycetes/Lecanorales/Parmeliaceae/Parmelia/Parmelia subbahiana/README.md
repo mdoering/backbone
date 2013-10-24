@@ -1,5 +1,4 @@
-Parmelia subbahiana Zahlbr. SPECIES
-=======
+# Parmelia subbahiana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

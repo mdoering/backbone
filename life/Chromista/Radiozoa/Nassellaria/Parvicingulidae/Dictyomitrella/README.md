@@ -1,5 +1,4 @@
-Dictyomitrella Haeckel, 1887 GENUS
-=======
+# Dictyomitrella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

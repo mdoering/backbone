@@ -1,5 +1,4 @@
-Globoflarina Rahaghi, 1983 GENUS
-=======
+# Globoflarina Rahaghi, 1983 GENUS
 
 #### Status
 ACCEPTED

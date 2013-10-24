@@ -1,5 +1,4 @@
-Mycomicrothelia confusa D. Hawksw. SPECIES
-=======
+# Mycomicrothelia confusa D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

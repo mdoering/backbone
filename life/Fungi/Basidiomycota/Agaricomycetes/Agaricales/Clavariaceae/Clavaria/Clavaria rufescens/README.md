@@ -1,5 +1,4 @@
-Clavaria rufescens var. rufescens VARIETY
-=======
+# Clavaria rufescens Schaeff. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Fung. Bavar. Palat. 3: tab. 288 (1770)
 
 #### Original name
-Clavaria rufescens var. rufescens
+Clavaria rufescens Schaeff.
 
 ### Remarks
 null

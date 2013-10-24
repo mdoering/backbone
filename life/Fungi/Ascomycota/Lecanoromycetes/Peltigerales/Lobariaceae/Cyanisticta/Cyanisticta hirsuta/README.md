@@ -1,5 +1,4 @@
-Cyanisticta hirsuta var. hirsuta (Mont.) Räsänen VARIETY
-=======
+# Cyanisticta hirsuta (Mont.) Räsänen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Revta Univ. (Santiago) 21: 144 (1936)
 
 #### Original name
-Cyanisticta hirsuta var. hirsuta (Mont.) Räsänen
+Sticta hirsuta Mont.
 
 ### Remarks
 null

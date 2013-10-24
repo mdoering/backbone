@@ -1,5 +1,4 @@
-Chromulina globosa Pascher SPECIES
-=======
+# Chromulina globosa Pascher SPECIES
 
 #### Status
 ACCEPTED

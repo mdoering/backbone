@@ -1,8 +1,7 @@
-Geaster biplicatus Berk. & M.A. Curtis SPECIES
-=======
+# Geastrum biplicatus Berk. & M.A. Curtis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster biplicatus Berk. & M.A. Curtis
+Geastrum biplicatus Berk. & M.A. Curtis
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Coccomycetella Höhn. GENUS
-=======
+# Coccomycetella Höhn. GENUS
 
 #### Status
 ACCEPTED

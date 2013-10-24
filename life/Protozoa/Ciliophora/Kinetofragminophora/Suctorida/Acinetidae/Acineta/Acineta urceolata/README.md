@@ -1,5 +1,4 @@
-Acineta urceolata Stokes, 1885 SPECIES
-=======
+# Acineta urceolata Stokes, 1885 SPECIES
 
 #### Status
 ACCEPTED

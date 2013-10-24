@@ -1,5 +1,4 @@
-Stephanoeca urnula Thomsen, 1973 SPECIES
-=======
+# Stephanoeca urnula Thomsen, 1973 SPECIES
 
 #### Status
 ACCEPTED

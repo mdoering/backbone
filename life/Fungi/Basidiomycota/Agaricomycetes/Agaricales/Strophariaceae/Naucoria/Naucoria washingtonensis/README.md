@@ -1,5 +1,4 @@
-Naucoria washingtonensis Murrill SPECIES
-=======
+# Naucoria washingtonensis Murrill SPECIES
 
 #### Status
 ACCEPTED

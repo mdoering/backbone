@@ -1,5 +1,4 @@
-Phyllosticta acanthospermi Ellis & Everh. SPECIES
-=======
+# Phyllosticta acanthospermi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

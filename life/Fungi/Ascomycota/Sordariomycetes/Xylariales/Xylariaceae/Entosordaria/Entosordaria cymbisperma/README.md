@@ -1,5 +1,4 @@
-Entosordaria cymbisperma (G. Winter) Höhn. SPECIES
-=======
+# Entosordaria cymbisperma (G. Winter) Höhn. SPECIES
 
 #### Status
 ACCEPTED

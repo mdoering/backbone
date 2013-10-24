@@ -1,5 +1,4 @@
-Darvasites GENUS
-=======
+# Darvasites GENUS
 
 #### Status
 ACCEPTED

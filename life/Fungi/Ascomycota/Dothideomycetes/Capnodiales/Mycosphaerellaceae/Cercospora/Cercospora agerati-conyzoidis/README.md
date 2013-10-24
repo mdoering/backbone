@@ -1,5 +1,4 @@
-Cercospora agerati-conyzoidis Bagyan., Jagad. & U. Braun SPECIES
-=======
+# Cercospora agerati-conyzoidis Bagyan., Jagad. & U. Braun SPECIES
 
 #### Status
 ACCEPTED

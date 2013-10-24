@@ -1,5 +1,4 @@
-Mycogalopsis retinospora Gjurašin, 1925 SPECIES
-=======
+# Mycogalopsis retinospora Gjurašin, 1925 SPECIES
 
 #### Status
 ACCEPTED

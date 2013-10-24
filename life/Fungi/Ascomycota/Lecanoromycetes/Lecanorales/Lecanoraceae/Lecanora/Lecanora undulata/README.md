@@ -1,5 +1,4 @@
-Lecanora undulata Fée SPECIES
-=======
+# Lecanora undulata Fée SPECIES
 
 #### Status
 ACCEPTED

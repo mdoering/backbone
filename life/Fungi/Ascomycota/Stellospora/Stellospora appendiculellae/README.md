@@ -1,5 +1,4 @@
-Stellospora appendiculellae Alcorn & B. Sutton, 1984 SPECIES
-=======
+# Stellospora appendiculellae Alcorn & B. Sutton, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliniomyces bicolor Hambl. & Sigler, 2005 SPECIES
-=======
+# Meliniomyces bicolor Hambl. & Sigler, 2005 SPECIES
 
 #### Status
 ACCEPTED

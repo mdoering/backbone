@@ -1,14 +1,13 @@
-Arachnion aurantiacum (Raf.) De Toni, 1887 SPECIES
-=======
+# Acinophora aurantiaca Raf., 1808 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Saccardo, Syll. fung. (Abellini) 5: 151 (1887)
+Précis Découv. Trav. Somiologiques Palermo (1808)
 
 #### Original name
 Acinophora aurantiaca Raf., 1808

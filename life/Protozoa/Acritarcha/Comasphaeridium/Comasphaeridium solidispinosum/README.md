@@ -1,5 +1,4 @@
-Comasphaeridium solidispinosum (Cramer & Díez, 1977) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Comasphaeridium solidispinosum (Cramer & Díez, 1977) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

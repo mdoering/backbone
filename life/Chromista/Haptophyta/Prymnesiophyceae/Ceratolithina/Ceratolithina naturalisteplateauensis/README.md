@@ -1,5 +1,4 @@
-Ceratolithina naturalisteplateauensis SPECIES
-=======
+# Ceratolithina naturalisteplateauensis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synchytrium cocculi M.T. Cook SPECIES
-=======
+# Synchytrium cocculi M.T. Cook SPECIES
 
 #### Status
 ACCEPTED

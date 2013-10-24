@@ -1,5 +1,4 @@
-Tilletia rotundata Massee SPECIES
-=======
+# Tilletia rotundata Massee SPECIES
 
 #### Status
 ACCEPTED

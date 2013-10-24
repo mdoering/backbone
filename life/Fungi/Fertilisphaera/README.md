@@ -1,5 +1,4 @@
-Fertilisphaera Descals GENUS
-=======
+# Fertilisphaera Descals GENUS
 
 #### Status
 ACCEPTED

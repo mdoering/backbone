@@ -1,5 +1,4 @@
-Acremonium keio Nakam. & Takats. SPECIES
-=======
+# Acremonium keio Nakam. & Takats. SPECIES
 
 #### Status
 ACCEPTED

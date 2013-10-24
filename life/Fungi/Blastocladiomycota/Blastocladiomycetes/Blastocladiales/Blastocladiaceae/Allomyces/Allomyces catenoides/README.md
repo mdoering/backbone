@@ -1,5 +1,4 @@
-Allomyces catenoides Sparrow SPECIES
-=======
+# Allomyces catenoides Sparrow SPECIES
 
 #### Status
 ACCEPTED

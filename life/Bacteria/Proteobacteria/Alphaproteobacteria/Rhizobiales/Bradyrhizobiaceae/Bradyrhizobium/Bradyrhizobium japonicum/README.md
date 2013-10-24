@@ -1,8 +1,7 @@
-Rhizobium japonicum (Kirchner, 1896) Buchanan, 1926 (Approved Lists, 1980) SPECIES
-=======
+# Bradyrhizobium japonicum (Kirchner, 1896) Jordan, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

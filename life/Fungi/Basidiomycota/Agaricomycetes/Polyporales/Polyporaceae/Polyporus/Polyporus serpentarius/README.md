@@ -1,5 +1,4 @@
-Polyporus serpentarius Pers. SPECIES
-=======
+# Polyporus serpentarius Pers. SPECIES
 
 #### Status
 ACCEPTED

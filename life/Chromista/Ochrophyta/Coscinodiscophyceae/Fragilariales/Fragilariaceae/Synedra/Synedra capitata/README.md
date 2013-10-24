@@ -1,5 +1,4 @@
-Synedra capitata var. fossilis VARIETY
-=======
+# Synedra capitata Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

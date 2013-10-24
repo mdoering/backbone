@@ -1,5 +1,4 @@
-Autophagomyces coronatus Thaxt. SPECIES
-=======
+# Autophagomyces coronatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

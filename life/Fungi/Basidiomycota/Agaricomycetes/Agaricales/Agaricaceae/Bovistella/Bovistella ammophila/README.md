@@ -1,5 +1,4 @@
-Bovistella ammophila (Lév.) Lloyd SPECIES
-=======
+# Bovistella ammophila (Lév.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

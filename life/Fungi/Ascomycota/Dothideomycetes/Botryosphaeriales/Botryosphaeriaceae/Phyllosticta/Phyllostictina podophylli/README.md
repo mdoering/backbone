@@ -1,5 +1,4 @@
-Phyllostictina podophylli (M.A. Curtis) Petr. SPECIES
-=======
+# Phyllostictina podophylli (M.A. Curtis) Petr. SPECIES
 
 #### Status
 ACCEPTED

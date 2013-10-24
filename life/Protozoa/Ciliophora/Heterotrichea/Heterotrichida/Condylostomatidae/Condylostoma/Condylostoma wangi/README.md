@@ -1,5 +1,4 @@
-Condylostoma wangi Foissner & Wölfl, 1994 SPECIES
-=======
+# Condylostoma wangi Foissner & Wölfl, 1994 SPECIES
 
 #### Status
 ACCEPTED

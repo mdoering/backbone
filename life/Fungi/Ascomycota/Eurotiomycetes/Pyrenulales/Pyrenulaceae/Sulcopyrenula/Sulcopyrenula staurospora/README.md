@@ -1,14 +1,13 @@
-Pyrenula staurospora Tuck. ex Willey SPECIES
-=======
+# Sulcopyrenula staurospora (Tuck. ex Willey) H. Harada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Enumeration of the lichens found in New Bedford, Mass. , and its vicinity from 1862 to 1892 38 (1892)
+Lichenologist 31(6): 571 (1999)
 
 #### Original name
 Pyrenula staurospora Tuck. ex Willey

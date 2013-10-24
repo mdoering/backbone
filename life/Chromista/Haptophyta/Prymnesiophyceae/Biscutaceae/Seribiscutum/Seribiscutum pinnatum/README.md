@@ -1,5 +1,4 @@
-Seribiscutum pinnatum (M. Black) S.W. Wise SPECIES
-=======
+# Seribiscutum pinnatum (M. Black) S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

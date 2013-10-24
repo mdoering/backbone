@@ -1,5 +1,4 @@
-Arctomiaceae Th. Fr. FAMILY
-=======
+# Arctomiaceae Th. Fr. FAMILY
 
 #### Status
 ACCEPTED

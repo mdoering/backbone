@@ -1,5 +1,4 @@
-Mycopappus quercus Y. Suto & M. Kawai SPECIES
-=======
+# Mycopappus quercus Y. Suto & M. Kawai SPECIES
 
 #### Status
 ACCEPTED

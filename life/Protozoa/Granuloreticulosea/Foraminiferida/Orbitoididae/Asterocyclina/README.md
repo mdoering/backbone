@@ -1,14 +1,13 @@
-Asteriacites Schlotheim, 1822 GENUS
-=======
+# Asterocyclina Gümbel, 1868 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Petrif. Nachtr. , 1, 71.
+Abh. Bayer. Akad. , 10 (2), 689.
 
 #### Original name
 null

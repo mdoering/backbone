@@ -1,5 +1,4 @@
-Septoria gymnadeniae Thüm. SPECIES
-=======
+# Septoria gymnadeniae Thüm. SPECIES
 
 #### Status
 ACCEPTED

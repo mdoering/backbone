@@ -1,5 +1,4 @@
-Micropsalliota lateritia Heinem. SPECIES
-=======
+# Micropsalliota lateritia Heinem. SPECIES
 
 #### Status
 ACCEPTED

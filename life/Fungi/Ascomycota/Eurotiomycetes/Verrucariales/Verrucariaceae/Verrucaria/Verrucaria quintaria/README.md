@@ -1,5 +1,4 @@
-Verrucaria quintaria Nyl. SPECIES
-=======
+# Verrucaria quintaria Nyl. SPECIES
 
 #### Status
 ACCEPTED

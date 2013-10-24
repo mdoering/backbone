@@ -1,8 +1,7 @@
-Geaster djakovensis Schulzer SPECIES
-=======
+# Geastrum djakovensis Schulzer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster djakovensis Schulzer
+Geastrum djakovensis Schulzer
 
 ### Remarks
 null

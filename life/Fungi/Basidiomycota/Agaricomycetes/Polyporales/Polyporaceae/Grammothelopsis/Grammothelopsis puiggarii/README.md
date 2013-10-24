@@ -1,14 +1,13 @@
-Grammothelopsis puiggari (Speg.) Rajchenb. & J.E. Wright SPECIES
-=======
+# Grammothelopsis puiggarii (Speg.) Rajchenb. & J.E. Wright, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 79(2): 253 (1987)
 
 #### Original name
 Hymenogramme puiggarii Speg., 1919

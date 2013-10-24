@@ -1,5 +1,4 @@
-Macrotrichum ferrugineum Grev. SPECIES
-=======
+# Macrotrichum ferrugineum Grev. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Protomycopsis crotalariae M.C. Joshi, 1955 SPECIES
-=======
+# Erratomyces crotalariae (M.C. Joshi) M. Piepenbr. & R. Bauer, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Curr. Sci. 24: 168 (1955)
+Mycologia 89(6): 934 (1997)
 
 #### Original name
 Protomycopsis crotalariae M.C. Joshi, 1955

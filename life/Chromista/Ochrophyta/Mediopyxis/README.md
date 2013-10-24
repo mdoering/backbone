@@ -1,5 +1,4 @@
-Mediopyxis L.K.Medlin & Kühn, 2006 GENUS
-=======
+# Mediopyxis L.K.Medlin & Kühn, 2006 GENUS
 
 #### Status
 ACCEPTED

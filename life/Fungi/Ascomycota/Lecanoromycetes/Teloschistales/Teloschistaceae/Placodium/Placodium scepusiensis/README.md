@@ -1,5 +1,4 @@
-Placodium scepusiensis (Gyeln.) Barkh. SPECIES
-=======
+# Placodium scepusiensis (Gyeln.) Barkh. SPECIES
 
 #### Status
 ACCEPTED

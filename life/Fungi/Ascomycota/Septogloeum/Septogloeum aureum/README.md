@@ -1,5 +1,4 @@
-Septogloeum aureum Syd. & P. Syd. SPECIES
-=======
+# Septogloeum aureum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

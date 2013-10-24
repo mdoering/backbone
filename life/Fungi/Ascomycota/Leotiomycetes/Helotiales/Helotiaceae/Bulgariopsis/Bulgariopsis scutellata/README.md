@@ -1,5 +1,4 @@
-Bulgariopsis scutellata Henn. SPECIES
-=======
+# Bulgariopsis scutellata Henn. SPECIES
 
 #### Status
 ACCEPTED

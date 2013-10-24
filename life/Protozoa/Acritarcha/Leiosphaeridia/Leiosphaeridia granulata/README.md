@@ -1,5 +1,4 @@
-Leiosphaeridia granulata (Eisenack, 1938) Eisenack, 1958 SPECIES
-=======
+# Leiosphaeridia granulata (Eisenack, 1938) Eisenack, 1958 SPECIES
 
 #### Status
 ACCEPTED

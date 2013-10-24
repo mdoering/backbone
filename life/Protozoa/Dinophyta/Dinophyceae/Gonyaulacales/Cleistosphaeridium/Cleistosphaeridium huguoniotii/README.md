@@ -1,5 +1,4 @@
-Cleistosphaeridium huguoniotii (Valensi, 1955) Davey SPECIES
-=======
+# Cleistosphaeridium huguoniotii (Valensi, 1955) Davey SPECIES
 
 #### Status
 ACCEPTED

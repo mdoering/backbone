@@ -1,5 +1,4 @@
-Cyrtidula grammatodes Minks SPECIES
-=======
+# Cyrtidula grammatodes Minks SPECIES
 
 #### Status
 ACCEPTED

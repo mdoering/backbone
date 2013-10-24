@@ -1,5 +1,4 @@
-Arthonia polystigmatea Vain. SPECIES
-=======
+# Arthonia polystigmatea Vain. SPECIES
 
 #### Status
 ACCEPTED

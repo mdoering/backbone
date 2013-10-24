@@ -1,5 +1,4 @@
-Sclerotium sulfurellum Speg. SPECIES
-=======
+# Sclerotium sulfurellum Speg. SPECIES
 
 #### Status
 ACCEPTED

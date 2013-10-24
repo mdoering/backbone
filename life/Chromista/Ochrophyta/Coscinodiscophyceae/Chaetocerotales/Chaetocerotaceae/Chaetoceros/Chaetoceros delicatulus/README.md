@@ -1,5 +1,4 @@
-Chaetoceros delicatulus SPECIES
-=======
+# Chaetoceros delicatulus SPECIES
 
 #### Status
 ACCEPTED

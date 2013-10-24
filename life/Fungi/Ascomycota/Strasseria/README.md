@@ -1,17 +1,16 @@
-Plagiorhabdus Shear GENUS
-=======
+# Strasseria Bresadola & Saccardo, 1902 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 34: 310 (1907)
+in Strasser, Verh. zool. -bot. Ges. Wien 52: 436 (1902)
 
 #### Original name
-Plagiorhabdus Shear
+Strasseria Bresadola & Saccardo, 1902
 
 ### Remarks
 null

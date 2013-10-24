@@ -1,5 +1,4 @@
-Cortinarius azureocaninus Rob. Henry SPECIES
-=======
+# Cortinarius azureocaninus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

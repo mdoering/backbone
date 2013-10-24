@@ -1,5 +1,4 @@
-Athelia singularis Parmasto, 1967 SPECIES
-=======
+# Athelia singularis Parmasto, 1967 SPECIES
 
 #### Status
 ACCEPTED

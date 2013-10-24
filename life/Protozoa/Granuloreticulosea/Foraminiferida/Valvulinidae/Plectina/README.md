@@ -1,5 +1,4 @@
-Plectina Marsson, 1878 GENUS
-=======
+# Plectina Marsson, 1878 GENUS
 
 #### Status
 ACCEPTED

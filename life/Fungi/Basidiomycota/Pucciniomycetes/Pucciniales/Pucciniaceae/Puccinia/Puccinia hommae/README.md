@@ -1,5 +1,4 @@
-Puccinia hommae S. Ito SPECIES
-=======
+# Puccinia hommae S. Ito SPECIES
 
 #### Status
 ACCEPTED

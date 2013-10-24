@@ -1,5 +1,4 @@
-Cortinarius naevosus Fr. SPECIES
-=======
+# Cortinarius naevosus Fr. SPECIES
 
 #### Status
 ACCEPTED

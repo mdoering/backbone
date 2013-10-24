@@ -1,5 +1,4 @@
-Platygrapha incurvula Stirt. SPECIES
-=======
+# Platygrapha incurvula Stirt. SPECIES
 
 #### Status
 ACCEPTED

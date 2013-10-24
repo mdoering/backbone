@@ -1,5 +1,4 @@
-Graphis hysterioides (Dufour) A. Massal. SPECIES
-=======
+# Graphis hysterioides (Dufour) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

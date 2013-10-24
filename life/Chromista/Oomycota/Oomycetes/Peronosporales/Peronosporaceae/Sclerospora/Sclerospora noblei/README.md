@@ -1,5 +1,4 @@
-Sclerospora noblei W. Weston SPECIES
-=======
+# Sclerospora noblei W. Weston SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zythia ovata Peck SPECIES
-=======
+# Zythia ovata Peck SPECIES
 
 #### Status
 ACCEPTED

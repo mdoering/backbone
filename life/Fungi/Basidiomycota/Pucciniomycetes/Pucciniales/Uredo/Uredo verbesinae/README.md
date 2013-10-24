@@ -1,5 +1,4 @@
-Uredo verbesinae Speg. SPECIES
-=======
+# Uredo verbesinae Speg. SPECIES
 
 #### Status
 ACCEPTED

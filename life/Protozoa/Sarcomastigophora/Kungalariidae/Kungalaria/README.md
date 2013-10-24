@@ -1,5 +1,4 @@
-Kungalaria Dumitrica & Carter, 1999 GENUS
-=======
+# Kungalaria Dumitrica & Carter, 1999 GENUS
 
 #### Status
 ACCEPTED

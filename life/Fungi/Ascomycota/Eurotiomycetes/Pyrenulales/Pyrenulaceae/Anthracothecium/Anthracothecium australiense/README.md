@@ -1,14 +1,13 @@
-Pleurothelium australiense Müll. Arg. SPECIES
-=======
+# Anthracothecium australiense (Müll. Arg.) Aptroot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Nuovo Giorn. Bot. Ital. 23: 401 (1891)
+in Aptroot, Diederich, Sérusiaux & Sipman, Biblthca Lichenol. 64: 17 (1997)
 
 #### Original name
 Pleurothelium australiense Müll. Arg.

@@ -1,5 +1,4 @@
-Lopadium stenosporum Malme SPECIES
-=======
+# Lopadium stenosporum Malme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pycnidiochaeta GENUS
-=======
+# Pycnidiochaeta GENUS
 
 #### Status
 ACCEPTED

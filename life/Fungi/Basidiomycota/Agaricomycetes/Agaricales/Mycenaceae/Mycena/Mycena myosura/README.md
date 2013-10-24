@@ -1,5 +1,4 @@
-Mycena myosura SPECIES
-=======
+# Mycena myosura SPECIES
 
 #### Status
 ACCEPTED

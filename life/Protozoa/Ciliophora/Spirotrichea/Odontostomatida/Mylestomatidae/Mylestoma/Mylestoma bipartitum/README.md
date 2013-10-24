@@ -1,5 +1,4 @@
-Mylestoma bipartitum (Gourret & Roeser, 1886) Kahl, 1928 SPECIES
-=======
+# Mylestoma bipartitum (Gourret & Roeser, 1886) Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

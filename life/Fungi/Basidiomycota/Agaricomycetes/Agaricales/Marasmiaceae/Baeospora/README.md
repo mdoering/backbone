@@ -1,5 +1,4 @@
-Baeospora Singer, 1938 GENUS
-=======
+# Baeospora Singer, 1938 GENUS
 
 #### Status
 ACCEPTED

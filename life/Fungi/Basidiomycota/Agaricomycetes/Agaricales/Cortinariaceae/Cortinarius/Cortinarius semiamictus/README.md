@@ -1,5 +1,4 @@
-Cortinarius semiamictus E. Horak SPECIES
-=======
+# Cortinarius semiamictus E. Horak SPECIES
 
 #### Status
 ACCEPTED

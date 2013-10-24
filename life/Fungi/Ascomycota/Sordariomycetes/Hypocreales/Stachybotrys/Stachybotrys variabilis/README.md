@@ -1,5 +1,4 @@
-Stachybotrys variabilis H.F. Wang & T.Y. Zhang SPECIES
-=======
+# Stachybotrys variabilis H.F. Wang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

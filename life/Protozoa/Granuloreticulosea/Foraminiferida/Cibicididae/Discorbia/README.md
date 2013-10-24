@@ -1,5 +1,4 @@
-Discorbia Sellier de Civrieux, 1977 GENUS
-=======
+# Discorbia Sellier de Civrieux, 1977 GENUS
 
 #### Status
 ACCEPTED

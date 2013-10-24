@@ -1,5 +1,4 @@
-Helotium album Schumach. SPECIES
-=======
+# Helotium album Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis amaranthicola Rosskopf, Charud., Shabana & Benny SPECIES
-=======
+# Phomopsis amaranthicola Rosskopf, Charud., Shabana & Benny SPECIES
 
 #### Status
 ACCEPTED

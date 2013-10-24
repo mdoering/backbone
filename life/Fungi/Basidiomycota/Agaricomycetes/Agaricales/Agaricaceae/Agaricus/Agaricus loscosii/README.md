@@ -1,5 +1,4 @@
-Agaricus loscosii Rabenh. SPECIES
-=======
+# Agaricus loscosii Rabenh. SPECIES
 
 #### Status
 ACCEPTED

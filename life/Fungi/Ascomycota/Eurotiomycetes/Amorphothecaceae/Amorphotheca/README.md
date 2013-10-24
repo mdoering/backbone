@@ -1,5 +1,4 @@
-Amorphotheca Parbery GENUS
-=======
+# Amorphotheca Parbery GENUS
 
 #### Status
 ACCEPTED

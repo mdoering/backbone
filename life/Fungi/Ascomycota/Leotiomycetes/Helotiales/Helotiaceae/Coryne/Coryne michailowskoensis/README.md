@@ -1,5 +1,4 @@
-Coryne michailowskoensis Henn. SPECIES
-=======
+# Coryne michailowskoensis Henn. SPECIES
 
 #### Status
 ACCEPTED

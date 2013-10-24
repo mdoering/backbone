@@ -1,5 +1,4 @@
-Russula tenuithrix Buyck SPECIES
-=======
+# Russula tenuithrix Buyck SPECIES
 
 #### Status
 ACCEPTED

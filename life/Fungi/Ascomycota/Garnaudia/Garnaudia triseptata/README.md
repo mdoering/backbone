@@ -1,5 +1,4 @@
-Garnaudia triseptata Hol.-Jech. & R.F. Castañeda SPECIES
-=======
+# Garnaudia triseptata Hol.-Jech. & R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

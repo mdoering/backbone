@@ -1,5 +1,4 @@
-Cortinarius emunctus Fr., 1838 SPECIES
-=======
+# Cortinarius emunctus Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED

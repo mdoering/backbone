@@ -1,5 +1,4 @@
-Lysurus pentactinus Berk. SPECIES
-=======
+# Lysurus pentactinus Berk. SPECIES
 
 #### Status
 ACCEPTED

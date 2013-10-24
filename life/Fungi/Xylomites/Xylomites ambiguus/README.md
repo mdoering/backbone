@@ -1,5 +1,4 @@
-Xylomites ambiguus Ettingsh. SPECIES
-=======
+# Xylomites ambiguus Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

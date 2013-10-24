@@ -1,5 +1,4 @@
-Taeniola antiqua (Corda) Bonord. SPECIES
-=======
+# Taeniola antiqua (Corda) Bonord. SPECIES
 
 #### Status
 ACCEPTED

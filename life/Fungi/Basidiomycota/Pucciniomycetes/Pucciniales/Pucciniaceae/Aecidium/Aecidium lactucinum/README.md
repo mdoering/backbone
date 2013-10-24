@@ -1,5 +1,4 @@
-Aecidium lactucinum Lagerh. & Lindr. SPECIES
-=======
+# Aecidium lactucinum Lagerh. & Lindr. SPECIES
 
 #### Status
 ACCEPTED

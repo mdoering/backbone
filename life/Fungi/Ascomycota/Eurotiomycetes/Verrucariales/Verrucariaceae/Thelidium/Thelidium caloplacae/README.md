@@ -1,5 +1,4 @@
-Thelidium caloplacae C.W. Dodge & G.E. Baker SPECIES
-=======
+# Thelidium caloplacae C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

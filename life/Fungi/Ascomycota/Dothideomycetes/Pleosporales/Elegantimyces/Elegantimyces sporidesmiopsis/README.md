@@ -1,5 +1,4 @@
-Elegantimyces sporidesmiopsis Goh, K.M. Tsui & K.D. Hyde, 1998 SPECIES
-=======
+# Elegantimyces sporidesmiopsis Goh, K.M. Tsui & K.D. Hyde, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia oliganthicola Jørst. SPECIES
-=======
+# Puccinia oliganthicola Jørst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria eugeniae F. San Martín, Vanoye & P. Lavín SPECIES
-=======
+# Xylaria eugeniae F. San Martín, Vanoye & P. Lavín SPECIES
 
 #### Status
 ACCEPTED

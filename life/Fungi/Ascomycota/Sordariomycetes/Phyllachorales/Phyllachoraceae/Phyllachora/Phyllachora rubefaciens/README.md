@@ -1,5 +1,4 @@
-Phyllachora rubefaciens Rehm, 1900 SPECIES
-=======
+# Phyllachora rubefaciens Rehm, 1900 SPECIES
 
 #### Status
 ACCEPTED

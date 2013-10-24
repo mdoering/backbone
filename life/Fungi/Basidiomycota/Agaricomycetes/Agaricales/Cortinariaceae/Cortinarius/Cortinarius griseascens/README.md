@@ -1,17 +1,16 @@
-Cortinarius grisescens Rob. Henry ex Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius griseascens Rob. Henry ex Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Bidaud, Moënne-Loccoz, Reumaux & Henry, Atlas des Cortinaires, Hors-Serie 1: 147 (1997)
 
 #### Original name
-Cortinarius grisescens Rob. Henry ex Bidaud, Moënne-Locc. & Reumaux
+Cortinarius griseascens Rob. Henry ex Bidaud, Moënne-Locc. & Reumaux
 
 ### Remarks
 null

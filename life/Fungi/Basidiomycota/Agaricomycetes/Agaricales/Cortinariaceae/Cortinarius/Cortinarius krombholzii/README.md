@@ -1,17 +1,16 @@
-Cortinarius krombholzii var. rotondispora Rob. Henry VARIETY
-=======
+# Cortinarius krombholzii Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hymenomyc. eur. (Upsaliae) 395 (1874)
 
 #### Original name
-Cortinarius krombholzii var. rotondispora Rob. Henry
+Cortinarius krombholzii Fr.
 
 ### Remarks
 null

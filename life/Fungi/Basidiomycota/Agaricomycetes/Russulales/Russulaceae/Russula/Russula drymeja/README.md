@@ -1,5 +1,4 @@
-Russula drymeja Cooke SPECIES
-=======
+# Russula drymeja Cooke SPECIES
 
 #### Status
 ACCEPTED

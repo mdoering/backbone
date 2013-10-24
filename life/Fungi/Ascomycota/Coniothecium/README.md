@@ -1,5 +1,4 @@
-Coniothecium Corda, 1833 GENUS
-=======
+# Coniothecium Corda, 1833 GENUS
 
 #### Status
 ACCEPTED

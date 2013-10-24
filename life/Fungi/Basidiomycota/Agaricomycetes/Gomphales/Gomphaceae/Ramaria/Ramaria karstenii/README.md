@@ -1,5 +1,4 @@
-Ramaria karstenii (Sacc. & P. Syd.) Corner SPECIES
-=======
+# Ramaria karstenii (Sacc. & P. Syd.) Corner SPECIES
 
 #### Status
 ACCEPTED

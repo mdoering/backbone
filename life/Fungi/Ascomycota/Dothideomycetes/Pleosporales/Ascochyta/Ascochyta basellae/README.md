@@ -1,5 +1,4 @@
-Ascochyta basellae Henn. SPECIES
-=======
+# Ascochyta basellae Henn. SPECIES
 
 #### Status
 ACCEPTED

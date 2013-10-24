@@ -1,5 +1,4 @@
-Bryochysium muscorum Link SPECIES
-=======
+# Bryochysium muscorum Link SPECIES
 
 #### Status
 ACCEPTED

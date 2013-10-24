@@ -1,5 +1,4 @@
-Trichophyton spadix (Y. Katô) Nann. SPECIES
-=======
+# Trichophyton spadix (Y. Katô) Nann. SPECIES
 
 #### Status
 ACCEPTED

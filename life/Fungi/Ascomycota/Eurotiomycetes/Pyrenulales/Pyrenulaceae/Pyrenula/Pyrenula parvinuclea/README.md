@@ -1,14 +1,13 @@
-Verrucaria parvinuclea Meyen & Flot. SPECIES
-=======
+# Pyrenula parvinuclea (Meyen & Flot.) Aptroot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Aptroot, Diederich, Sérusiaux & Sipman, Biblthca Lichenol. 64: 165 (1997)
 
 #### Original name
 Verrucaria parvinuclea Meyen & Flot.

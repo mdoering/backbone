@@ -1,5 +1,4 @@
-Coniella musaiaensis var. musaiaensis VARIETY
-=======
+# Coniella musaiaensis B. Sutton, 1969 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 47: 607 (1969)
+null
 
 #### Original name
-Coniella musaiaensis var. musaiaensis
+null
 
 ### Remarks
 null

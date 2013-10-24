@@ -1,5 +1,4 @@
-Lecaniocola pulvinariae Brain SPECIES
-=======
+# Lecaniocola pulvinariae Brain SPECIES
 
 #### Status
 ACCEPTED

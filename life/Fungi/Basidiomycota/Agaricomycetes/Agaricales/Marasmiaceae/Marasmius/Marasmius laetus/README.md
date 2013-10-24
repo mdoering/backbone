@@ -1,5 +1,4 @@
-Marasmius laetus Rick SPECIES
-=======
+# Marasmius laetus Rick SPECIES
 
 #### Status
 ACCEPTED

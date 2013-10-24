@@ -1,5 +1,4 @@
-Oospora trichiae Petch SPECIES
-=======
+# Oospora trichiae Petch SPECIES
 
 #### Status
 ACCEPTED

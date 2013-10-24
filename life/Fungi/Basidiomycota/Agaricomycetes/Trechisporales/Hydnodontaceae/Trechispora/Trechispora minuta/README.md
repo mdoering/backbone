@@ -1,5 +1,4 @@
-Trechispora minuta K.H. Larss. SPECIES
-=======
+# Trechispora minuta K.H. Larss. SPECIES
 
 #### Status
 ACCEPTED

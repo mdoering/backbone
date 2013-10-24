@@ -1,5 +1,4 @@
-Phomopsis pinophylla Höhn. SPECIES
-=======
+# Phomopsis pinophylla Höhn. SPECIES
 
 #### Status
 ACCEPTED

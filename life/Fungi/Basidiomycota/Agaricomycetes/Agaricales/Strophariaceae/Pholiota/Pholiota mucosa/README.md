@@ -1,5 +1,4 @@
-Pholiota mucosa Velen. SPECIES
-=======
+# Pholiota mucosa Velen. SPECIES
 
 #### Status
 ACCEPTED

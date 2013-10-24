@@ -1,5 +1,4 @@
-Hysterobrevium constrictum (N. Amano) E. Boehm & C.L. Schoch, 2009 SPECIES
-=======
+# Hysterobrevium constrictum (N. Amano) E. Boehm & C.L. Schoch, 2009 SPECIES
 
 #### Status
 ACCEPTED

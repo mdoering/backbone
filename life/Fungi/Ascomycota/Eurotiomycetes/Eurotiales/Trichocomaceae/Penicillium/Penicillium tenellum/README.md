@@ -1,5 +1,4 @@
-Penicillium tenellum Cooke SPECIES
-=======
+# Penicillium tenellum Cooke SPECIES
 
 #### Status
 ACCEPTED

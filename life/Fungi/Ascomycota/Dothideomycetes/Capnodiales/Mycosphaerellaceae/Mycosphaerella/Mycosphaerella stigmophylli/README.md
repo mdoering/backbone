@@ -1,5 +1,4 @@
-Mycosphaerella stigmophylli Rangel SPECIES
-=======
+# Mycosphaerella stigmophylli Rangel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria siplei C.W. Dodge SPECIES
-=======
+# Verrucaria siplei C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

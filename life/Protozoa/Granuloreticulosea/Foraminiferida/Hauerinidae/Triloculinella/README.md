@@ -1,8 +1,7 @@
-Quinquinella Vella, 1957 GENUS
-=======
+# Triloculinella Riccio, 1950 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

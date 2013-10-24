@@ -1,5 +1,4 @@
-Psamminopelta Tappan, 1957 GENUS
-=======
+# Psamminopelta Tappan, 1957 GENUS
 
 #### Status
 ACCEPTED

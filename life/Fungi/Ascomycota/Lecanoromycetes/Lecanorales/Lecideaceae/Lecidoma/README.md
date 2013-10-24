@@ -1,5 +1,4 @@
-Lecidoma Gotth. Schneid. & Hertel GENUS
-=======
+# Lecidoma Gotth. Schneid. & Hertel GENUS
 
 #### Status
 ACCEPTED

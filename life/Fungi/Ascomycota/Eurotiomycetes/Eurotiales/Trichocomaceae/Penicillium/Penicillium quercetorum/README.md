@@ -1,5 +1,4 @@
-Penicillium quercetorum Baghd., 1968 SPECIES
-=======
+# Penicillium quercetorum Baghd., 1968 SPECIES
 
 #### Status
 ACCEPTED

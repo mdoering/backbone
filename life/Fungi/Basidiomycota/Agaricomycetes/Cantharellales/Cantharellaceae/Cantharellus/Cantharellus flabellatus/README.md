@@ -1,5 +1,4 @@
-Cantharellus flabellatus Berk. SPECIES
-=======
+# Cantharellus flabellatus Berk. SPECIES
 
 #### Status
 ACCEPTED

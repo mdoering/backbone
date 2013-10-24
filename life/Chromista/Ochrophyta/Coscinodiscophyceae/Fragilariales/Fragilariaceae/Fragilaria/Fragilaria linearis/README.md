@@ -1,5 +1,4 @@
-Fragilaria linearis Castracane SPECIES
-=======
+# Fragilaria linearis Castracane SPECIES
 
 #### Status
 ACCEPTED

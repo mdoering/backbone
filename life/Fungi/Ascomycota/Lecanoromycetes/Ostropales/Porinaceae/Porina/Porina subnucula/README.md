@@ -1,5 +1,4 @@
-Porina subnucula Lumbsch, Lücking & Vezda SPECIES
-=======
+# Porina subnucula Lumbsch, Lücking & Vezda SPECIES
 
 #### Status
 ACCEPTED

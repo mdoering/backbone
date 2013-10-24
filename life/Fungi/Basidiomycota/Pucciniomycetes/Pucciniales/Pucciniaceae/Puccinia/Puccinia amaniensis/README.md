@@ -1,5 +1,4 @@
-Puccinia amaniensis Henn. SPECIES
-=======
+# Puccinia amaniensis Henn. SPECIES
 
 #### Status
 ACCEPTED

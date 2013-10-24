@@ -1,5 +1,4 @@
-Nidularia campoi Speg. SPECIES
-=======
+# Nidularia campoi Speg. SPECIES
 
 #### Status
 ACCEPTED

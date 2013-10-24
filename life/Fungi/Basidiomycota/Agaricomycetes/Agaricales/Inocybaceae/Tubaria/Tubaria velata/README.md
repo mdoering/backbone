@@ -1,5 +1,4 @@
-Tubaria velata Dennis SPECIES
-=======
+# Tubaria velata Dennis SPECIES
 
 #### Status
 ACCEPTED

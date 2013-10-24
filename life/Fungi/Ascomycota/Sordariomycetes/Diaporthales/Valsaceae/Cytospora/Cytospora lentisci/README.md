@@ -1,5 +1,4 @@
-Cytospora lentisci Bres. SPECIES
-=======
+# Cytospora lentisci Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aphysa lebeckiae (Verwoerd & Dippen.) Doidge SPECIES
-=======
+# Aphysa lebeckiae (Verwoerd & Dippen.) Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiotrema vitigenum Kaz. Tanaka & Y. Harada SPECIES
-=======
+# Lophiotrema vitigenum Kaz. Tanaka & Y. Harada SPECIES
 
 #### Status
 ACCEPTED

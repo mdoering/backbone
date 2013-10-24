@@ -1,5 +1,4 @@
-Schizosaccharomyces slooffiae Kumbh. SPECIES
-=======
+# Schizosaccharomyces slooffiae Kumbh. SPECIES
 
 #### Status
 ACCEPTED

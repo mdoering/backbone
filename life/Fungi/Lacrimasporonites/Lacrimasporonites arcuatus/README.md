@@ -1,5 +1,4 @@
-Lacrimasporonites arcuatus Doub. & D. Pons SPECIES
-=======
+# Lacrimasporonites arcuatus Doub. & D. Pons SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fungus rhytopilus (Mont.) Kuntze SPECIES
-=======
+# Fungus rhytopilus (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

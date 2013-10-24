@@ -1,5 +1,4 @@
-Deinococcus hohokamensis Rainey & da Costa, 2005 SPECIES
-=======
+# Deinococcus hohokamensis Rainey & da Costa, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia caesiororida f. caesiororida FORM
-=======
+# Aspicilia caesiororida (Zahlbr.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 An Enumeration of Lichens in China (Beijing) 30 (1991)
 
 #### Original name
-Aspicilia caesiororida f. caesiororida
+Lecanora caesiororida Zahlbr.
 
 ### Remarks
 null

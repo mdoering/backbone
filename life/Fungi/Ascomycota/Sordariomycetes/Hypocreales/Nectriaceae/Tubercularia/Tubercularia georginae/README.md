@@ -1,5 +1,4 @@
-Tubercularia georginae Wallr. SPECIES
-=======
+# Tubercularia georginae Wallr. SPECIES
 
 #### Status
 ACCEPTED

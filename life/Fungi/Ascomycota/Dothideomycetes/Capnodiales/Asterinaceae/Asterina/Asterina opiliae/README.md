@@ -1,5 +1,4 @@
-Asterina opiliae Mibey SPECIES
-=======
+# Asterina opiliae Mibey SPECIES
 
 #### Status
 ACCEPTED

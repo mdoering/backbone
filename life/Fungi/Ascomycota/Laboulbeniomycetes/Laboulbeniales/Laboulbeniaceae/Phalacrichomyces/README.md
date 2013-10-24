@@ -1,5 +1,4 @@
-Phalacrichomyces R.K. Benj. GENUS
-=======
+# Phalacrichomyces R.K. Benj. GENUS
 
 #### Status
 ACCEPTED

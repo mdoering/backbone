@@ -1,5 +1,4 @@
-Eutintinnus brandti (Kofoid & Campbell, 1929) SPECIES
-=======
+# Eutintinnus brandti (Kofoid & Campbell, 1929) SPECIES
 
 #### Status
 ACCEPTED

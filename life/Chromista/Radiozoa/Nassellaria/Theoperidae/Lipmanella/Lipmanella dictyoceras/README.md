@@ -1,8 +1,7 @@
-Dictyoceras xiphephorum Joergensen, 1900 SPECIES
-=======
+# Lipmanella dictyoceras (Haeckel) Kling, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

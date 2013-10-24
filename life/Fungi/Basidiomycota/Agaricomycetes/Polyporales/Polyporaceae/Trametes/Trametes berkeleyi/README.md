@@ -1,5 +1,4 @@
-Trametes berkeleyi Cooke SPECIES
-=======
+# Trametes berkeleyi Cooke SPECIES
 
 #### Status
 ACCEPTED

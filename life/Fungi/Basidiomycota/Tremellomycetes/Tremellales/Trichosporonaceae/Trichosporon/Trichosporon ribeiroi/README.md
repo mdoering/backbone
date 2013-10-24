@@ -1,5 +1,4 @@
-Trichosporon ribeiroi Moraes SPECIES
-=======
+# Trichosporon ribeiroi Moraes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pulvinosphaeridium trifidum Kiryanov, 1978 SPECIES
-=======
+# Pulvinosphaeridium trifidum Kiryanov, 1978 SPECIES
 
 #### Status
 ACCEPTED

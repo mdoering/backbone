@@ -1,5 +1,4 @@
-Sphaeria disjecta P. Karst. SPECIES
-=======
+# Sphaeria disjecta P. Karst. SPECIES
 
 #### Status
 ACCEPTED

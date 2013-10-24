@@ -1,5 +1,4 @@
-Lecidea brebissonii Fée SPECIES
-=======
+# Lecidea brebissonii Fée SPECIES
 
 #### Status
 ACCEPTED

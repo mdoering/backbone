@@ -1,5 +1,4 @@
-Ramalina paraguayensis Gyeln. SPECIES
-=======
+# Ramalina paraguayensis Gyeln. SPECIES
 
 #### Status
 ACCEPTED

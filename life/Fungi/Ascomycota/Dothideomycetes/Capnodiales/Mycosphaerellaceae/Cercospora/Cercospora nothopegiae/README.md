@@ -1,5 +1,4 @@
-Cercospora nothopegiae T.S. Ramakr., Sriniv. & Sundaram SPECIES
-=======
+# Cercospora nothopegiae T.S. Ramakr., Sriniv. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

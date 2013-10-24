@@ -1,5 +1,4 @@
-Trematosphaeria schneideriana Rick SPECIES
-=======
+# Trematosphaeria schneideriana Rick SPECIES
 
 #### Status
 ACCEPTED

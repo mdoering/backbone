@@ -1,5 +1,4 @@
-Diporaspis Haeckel, 1887 GENUS
-=======
+# Diporaspis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

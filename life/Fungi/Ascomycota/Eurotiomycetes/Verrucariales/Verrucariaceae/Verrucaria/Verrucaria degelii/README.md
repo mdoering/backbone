@@ -1,5 +1,4 @@
-Verrucaria degelii R. Sant. SPECIES
-=======
+# Verrucaria degelii R. Sant. SPECIES
 
 #### Status
 ACCEPTED

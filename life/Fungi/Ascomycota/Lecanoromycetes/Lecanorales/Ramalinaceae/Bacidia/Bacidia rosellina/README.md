@@ -1,5 +1,4 @@
-Bacidia rosellina (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia rosellina (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

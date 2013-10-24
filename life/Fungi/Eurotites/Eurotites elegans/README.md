@@ -1,5 +1,4 @@
-Eurotites elegans Göpp. & J.A. Menge SPECIES
-=======
+# Eurotites elegans Göpp. & J.A. Menge SPECIES
 
 #### Status
 ACCEPTED

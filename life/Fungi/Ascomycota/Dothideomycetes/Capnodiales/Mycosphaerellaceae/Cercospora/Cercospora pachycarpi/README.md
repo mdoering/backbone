@@ -1,5 +1,4 @@
-Cercospora pachycarpi Chupp & Doidge SPECIES
-=======
+# Cercospora pachycarpi Chupp & Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dictyolus australis Cleland, 1933 SPECIES
-=======
+# Arrhenia australis (Cleland) Grgur., 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. & Proc. Roy. Soc. S. Australia 57: 194 (1933)
+Larger Fungi of South Australia (Adelaide) 318 (1997)
 
 #### Original name
 Dictyolus australis Cleland, 1933

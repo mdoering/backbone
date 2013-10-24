@@ -1,17 +1,16 @@
-Tetrachia Berkeley & M.A. Curtis, 1882 GENUS
-=======
+# Spegazzinia Saccardo, 1879 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletino dell'orto Botanico della R. Universitá di Napoli 6: 65 (1921)
+Spegazzinia [1] (1879)
 
 #### Original name
-Tetrachia Berkeley & M.A. Curtis, 1882
+Spegazzinia Saccardo, 1879
 
 ### Remarks
 null

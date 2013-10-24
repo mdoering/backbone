@@ -1,5 +1,4 @@
-Colletotrichum piri F. Noack SPECIES
-=======
+# Colletotrichum piri F. Noack SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopus purpureicollus (Corner) A.W. Wilson, Desjardin & E. Horak SPECIES
-=======
+# Gymnopus purpureicollus (Corner) A.W. Wilson, Desjardin & E. Horak SPECIES
 
 #### Status
 ACCEPTED

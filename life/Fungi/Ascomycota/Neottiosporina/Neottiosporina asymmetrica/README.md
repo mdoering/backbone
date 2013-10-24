@@ -1,5 +1,4 @@
-Neottiosporina asymmetrica B. Sutton & Alcorn, 1974 SPECIES
-=======
+# Neottiosporina asymmetrica B. Sutton & Alcorn, 1974 SPECIES
 
 #### Status
 ACCEPTED

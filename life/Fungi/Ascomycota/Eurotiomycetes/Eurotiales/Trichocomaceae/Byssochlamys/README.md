@@ -1,5 +1,4 @@
-Byssochlamys Westling GENUS
-=======
+# Byssochlamys Westling GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phoma evonymella Brunaud SPECIES
-=======
+# Phoma euonymella Brunaud SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sphaerops. Char. 15 (1889)
 
 #### Original name
-Phoma evonymella Brunaud
+Phoma euonymella Brunaud
 
 ### Remarks
 null

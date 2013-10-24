@@ -1,5 +1,4 @@
-Pleistophora hominis Cheney et al. SPECIES
-=======
+# Pleistophora hominis Cheney et al. SPECIES
 
 #### Status
 ACCEPTED

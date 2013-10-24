@@ -1,5 +1,4 @@
-Physalacria decaryi Pat. SPECIES
-=======
+# Physalacria decaryi Pat. SPECIES
 
 #### Status
 ACCEPTED

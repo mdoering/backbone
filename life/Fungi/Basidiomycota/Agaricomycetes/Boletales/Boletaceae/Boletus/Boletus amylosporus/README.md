@@ -1,5 +1,4 @@
-Boletus amylosporus (A.H. Sm.) Wolfe SPECIES
-=======
+# Boletus amylosporus (A.H. Sm.) Wolfe SPECIES
 
 #### Status
 ACCEPTED

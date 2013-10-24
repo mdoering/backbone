@@ -1,5 +1,4 @@
-Sporisorium inconspicuum (Zundel) Vánky SPECIES
-=======
+# Sporisorium inconspicuum (Zundel) Vánky SPECIES
 
 #### Status
 ACCEPTED

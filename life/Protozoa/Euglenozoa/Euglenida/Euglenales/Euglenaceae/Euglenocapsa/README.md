@@ -1,5 +1,4 @@
-Euglenocapsa F.Steinecke GENUS
-=======
+# Euglenocapsa F.Steinecke GENUS
 
 #### Status
 ACCEPTED

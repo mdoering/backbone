@@ -1,5 +1,4 @@
-Patellaria subtilis Wallr. SPECIES
-=======
+# Patellaria subtilis Wallr. SPECIES
 
 #### Status
 ACCEPTED

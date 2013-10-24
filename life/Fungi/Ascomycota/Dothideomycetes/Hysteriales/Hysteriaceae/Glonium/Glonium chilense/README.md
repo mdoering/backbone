@@ -1,5 +1,4 @@
-Glonium chilense Speg. SPECIES
-=======
+# Glonium chilense Speg. SPECIES
 
 #### Status
 ACCEPTED

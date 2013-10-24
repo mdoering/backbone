@@ -1,5 +1,4 @@
-Protocystis tridens Bjørklund, 1976 SPECIES
-=======
+# Protocystis tridens Bjørklund, 1976 SPECIES
 
 #### Status
 ACCEPTED

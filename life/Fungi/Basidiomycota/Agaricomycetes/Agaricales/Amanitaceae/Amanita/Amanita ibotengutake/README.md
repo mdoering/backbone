@@ -1,5 +1,4 @@
-Amanita ibotengutake T. Oda, C. Tanaka & Tsuda SPECIES
-=======
+# Amanita ibotengutake T. Oda, C. Tanaka & Tsuda SPECIES
 
 #### Status
 ACCEPTED

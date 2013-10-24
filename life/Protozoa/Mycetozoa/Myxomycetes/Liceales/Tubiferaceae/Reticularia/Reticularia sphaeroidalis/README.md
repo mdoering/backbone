@@ -1,5 +1,4 @@
-Reticularia sphaeroidalis Bull. SPECIES
-=======
+# Reticularia sphaeroidalis Bull. SPECIES
 
 #### Status
 ACCEPTED

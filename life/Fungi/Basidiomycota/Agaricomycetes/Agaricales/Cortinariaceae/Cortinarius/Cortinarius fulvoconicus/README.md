@@ -1,5 +1,4 @@
-Cortinarius fulvoconicus M.M. Moser SPECIES
-=======
+# Cortinarius fulvoconicus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

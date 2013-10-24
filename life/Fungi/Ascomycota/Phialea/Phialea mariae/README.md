@@ -1,5 +1,4 @@
-Phialea mariae Boud. SPECIES
-=======
+# Phialea mariae Boud. SPECIES
 
 #### Status
 ACCEPTED

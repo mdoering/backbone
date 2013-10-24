@@ -1,5 +1,4 @@
-Thamnonoma rhopaloides (Hue) Gyeln. SPECIES
-=======
+# Thamnonoma rhopaloides (Hue) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

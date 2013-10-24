@@ -1,5 +1,4 @@
-Bacidia subarctoa Th. Fr. SPECIES
-=======
+# Bacidia subarctoa Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

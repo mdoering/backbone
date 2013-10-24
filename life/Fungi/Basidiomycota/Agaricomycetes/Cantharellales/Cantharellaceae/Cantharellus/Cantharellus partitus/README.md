@@ -1,5 +1,4 @@
-Cantharellus partitus Fr. SPECIES
-=======
+# Cantharellus partitus Fr. SPECIES
 
 #### Status
 ACCEPTED

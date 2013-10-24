@@ -1,5 +1,4 @@
-Tylopilus brachypus Singer, J. García & L.D. Gómez SPECIES
-=======
+# Tylopilus brachypus Singer, J. García & L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

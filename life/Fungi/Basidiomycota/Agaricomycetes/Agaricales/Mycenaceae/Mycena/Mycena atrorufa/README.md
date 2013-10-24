@@ -1,5 +1,4 @@
-Mycena atrorufa (Bolton) Gray SPECIES
-=======
+# Mycena atrorufa (Bolton) Gray SPECIES
 
 #### Status
 ACCEPTED

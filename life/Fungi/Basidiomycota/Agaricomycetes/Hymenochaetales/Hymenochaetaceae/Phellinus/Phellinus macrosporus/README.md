@@ -1,5 +1,4 @@
-Phellinus macrosporus Gibertoni & Ryvarden, 2004 SPECIES
-=======
+# Phellinus macrosporus Gibertoni & Ryvarden, 2004 SPECIES
 
 #### Status
 ACCEPTED

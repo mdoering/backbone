@@ -1,5 +1,4 @@
-Prunulus vexans (Peck) Murrill SPECIES
-=======
+# Prunulus vexans (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

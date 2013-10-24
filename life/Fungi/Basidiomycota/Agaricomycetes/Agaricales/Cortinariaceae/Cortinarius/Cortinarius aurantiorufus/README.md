@@ -1,5 +1,4 @@
-Cortinarius aurantiorufus Bidaud SPECIES
-=======
+# Cortinarius aurantiorufus Bidaud SPECIES
 
 #### Status
 ACCEPTED

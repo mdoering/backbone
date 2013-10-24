@@ -1,5 +1,4 @@
-Flustrella Ehrenberg, 1839 GENUS
-=======
+# Flustrella Ehrenberg, 1839 GENUS
 
 #### Status
 ACCEPTED

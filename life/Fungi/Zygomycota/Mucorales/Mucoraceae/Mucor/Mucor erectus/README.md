@@ -1,5 +1,4 @@
-Mucor erectus Bainier SPECIES
-=======
+# Mucor erectus Bainier SPECIES
 
 #### Status
 ACCEPTED

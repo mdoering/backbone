@@ -1,5 +1,4 @@
-Rhizophydium subglobosum Kobayasi & M. Ôkubo SPECIES
-=======
+# Rhizophydium subglobosum Kobayasi & M. Ôkubo SPECIES
 
 #### Status
 ACCEPTED

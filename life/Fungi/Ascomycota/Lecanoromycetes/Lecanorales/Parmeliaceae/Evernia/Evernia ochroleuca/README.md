@@ -1,5 +1,4 @@
-Evernia ochroleuca var. ochroleuca VARIETY
-=======
+# Evernia ochroleuca SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea ochroleuca Hoffm.
+null
 
 ### Remarks
 null

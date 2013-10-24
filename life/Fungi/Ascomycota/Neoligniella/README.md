@@ -1,5 +1,4 @@
-Neoligniella Naumov GENUS
-=======
+# Neoligniella Naumov GENUS
 
 #### Status
 ACCEPTED

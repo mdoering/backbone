@@ -1,14 +1,13 @@
-Amerosporina concinna (Petr.) Petr., 1965 SPECIES
-=======
+# Amerosporium concinnum Petr., 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 18: 377 (1965)
+Sydowia 7: 68 (1953)
 
 #### Original name
 Amerosporium concinnum Petr., 1953

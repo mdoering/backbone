@@ -1,14 +1,13 @@
-Ramularia pastinacae-sativae U. Braun, 1988 SPECIES
-=======
+# Ramularia pastinacae Bubák, 1903 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Int. J. Mycol. Lichenol. 3(2-3): 282 (1988)
+Sitzungsberichte der Königlichen Böhmischen Gesellschaft der Wissenschaften Prag. 19 (1903)
 
 #### Original name
 Ramularia pastinacae Bubák, 1903

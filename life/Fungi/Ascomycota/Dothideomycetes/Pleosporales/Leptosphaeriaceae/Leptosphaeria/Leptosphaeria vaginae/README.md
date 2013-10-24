@@ -1,5 +1,4 @@
-Leptosphaeria vaginae Pass. SPECIES
-=======
+# Leptosphaeria vaginae Pass. SPECIES
 
 #### Status
 ACCEPTED

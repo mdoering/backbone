@@ -1,5 +1,4 @@
-Chaetomium microascoides Guarro, 1985 SPECIES
-=======
+# Chaetomium microascoides Guarro, 1985 SPECIES
 
 #### Status
 ACCEPTED

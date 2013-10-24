@@ -1,5 +1,4 @@
-Klebsiella mobilis Bascomb et al., 1971 (Approved Lists, 1980) SPECIES
-=======
+# Klebsiella mobilis Bascomb et al., 1971 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

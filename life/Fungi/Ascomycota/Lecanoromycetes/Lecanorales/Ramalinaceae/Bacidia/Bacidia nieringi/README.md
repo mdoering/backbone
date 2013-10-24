@@ -1,5 +1,4 @@
-Bacidia nieringi Herre SPECIES
-=======
+# Bacidia nieringi Herre SPECIES
 
 #### Status
 ACCEPTED

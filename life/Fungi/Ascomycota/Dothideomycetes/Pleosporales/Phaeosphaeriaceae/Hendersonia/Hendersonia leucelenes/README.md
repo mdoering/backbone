@@ -1,5 +1,4 @@
-Hendersonia leucelenes Fairm. SPECIES
-=======
+# Hendersonia leucelenes Fairm. SPECIES
 
 #### Status
 ACCEPTED

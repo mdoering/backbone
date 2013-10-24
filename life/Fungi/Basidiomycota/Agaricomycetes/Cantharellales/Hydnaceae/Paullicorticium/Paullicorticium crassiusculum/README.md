@@ -1,5 +1,4 @@
-Paullicorticium crassiusculum Hjortstam, 2007 SPECIES
-=======
+# Paullicorticium crassiusculum Hjortstam, 2007 SPECIES
 
 #### Status
 ACCEPTED

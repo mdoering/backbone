@@ -1,5 +1,4 @@
-Amphoridium delitoide (Servít) Servít SPECIES
-=======
+# Amphoridium delitoide (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

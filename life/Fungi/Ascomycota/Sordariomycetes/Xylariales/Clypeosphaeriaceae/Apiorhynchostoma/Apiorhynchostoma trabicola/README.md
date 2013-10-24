@@ -1,5 +1,4 @@
-Apiorhynchostoma trabicola You Z. Wang, Aptroot & K.D. Hyde SPECIES
-=======
+# Apiorhynchostoma trabicola You Z. Wang, Aptroot & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

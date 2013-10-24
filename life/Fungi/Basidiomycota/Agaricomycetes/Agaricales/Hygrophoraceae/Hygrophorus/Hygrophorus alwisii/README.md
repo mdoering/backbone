@@ -1,5 +1,4 @@
-Hygrophorus alwisii Berk. & Broome SPECIES
-=======
+# Hygrophorus alwisii Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

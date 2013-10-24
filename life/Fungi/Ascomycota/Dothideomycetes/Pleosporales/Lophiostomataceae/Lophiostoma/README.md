@@ -1,17 +1,16 @@
-Brigantiella (Sacc.) Sacc. GENUS
-=======
+# Lophiostoma Ces. & De Not. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 17: 889 (1905)
+Comm. Soc. crittog. Ital. 1: 219 (1863)
 
 #### Original name
-null
+Lophiostoma Ces. & De Not.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Multicellaesporites pachydermus P. Ke & Z.Y. Shi SPECIES
-=======
+# Multicellaesporites pachydermus P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

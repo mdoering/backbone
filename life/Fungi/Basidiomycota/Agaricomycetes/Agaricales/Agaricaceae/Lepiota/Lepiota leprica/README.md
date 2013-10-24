@@ -1,5 +1,4 @@
-Lepiota leprica (Berk. & Broome) Sacc. SPECIES
-=======
+# Lepiota leprica (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

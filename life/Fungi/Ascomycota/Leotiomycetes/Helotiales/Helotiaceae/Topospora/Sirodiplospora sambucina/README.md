@@ -1,5 +1,4 @@
-Sirodiplospora sambucina Naumov SPECIES
-=======
+# Sirodiplospora sambucina Naumov SPECIES
 
 #### Status
 ACCEPTED

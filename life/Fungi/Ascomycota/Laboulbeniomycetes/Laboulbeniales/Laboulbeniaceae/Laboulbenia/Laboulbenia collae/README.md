@@ -1,5 +1,4 @@
-Laboulbenia collae T. Majewski SPECIES
-=======
+# Laboulbenia collae T. Majewski SPECIES
 
 #### Status
 ACCEPTED

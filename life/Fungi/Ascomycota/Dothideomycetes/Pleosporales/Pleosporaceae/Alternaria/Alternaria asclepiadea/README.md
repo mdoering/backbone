@@ -1,5 +1,4 @@
-Alternaria asclepiadea (Cooke) E.G. Simmons SPECIES
-=======
+# Alternaria asclepiadea (Cooke) E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pogotrichum yezoense (Yamada & Nakamura) Sakai & Saga SPECIES
-=======
+# Pogotrichum yezoense (Yamada & Nakamura) Sakai & Saga SPECIES
 
 #### Status
 ACCEPTED

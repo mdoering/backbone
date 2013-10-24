@@ -1,5 +1,4 @@
-Psalliota collivaga Velen. SPECIES
-=======
+# Psalliota collivaga Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gibberidea acerina (Fuckel) Kuntze SPECIES
-=======
+# Gibberidea acerina (Fuckel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

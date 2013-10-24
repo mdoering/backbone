@@ -1,5 +1,4 @@
-Verrucaria praebiharica Servít SPECIES
-=======
+# Verrucaria praebiharica Servít SPECIES
 
 #### Status
 ACCEPTED

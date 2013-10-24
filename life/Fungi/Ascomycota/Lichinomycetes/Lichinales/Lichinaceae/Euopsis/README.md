@@ -1,5 +1,4 @@
-Euopsis Nyl. GENUS
-=======
+# Euopsis Nyl. GENUS
 
 #### Status
 ACCEPTED

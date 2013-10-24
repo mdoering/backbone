@@ -1,5 +1,4 @@
-Pseudocercospora crotonis (Ellis & Everh.) Deighton SPECIES
-=======
+# Pseudocercospora crotonis (Ellis & Everh.) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteolus brunneus Murrill SPECIES
-=======
+# Pluteolus brunneus Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gluconacetobacter GENUS
-=======
+# Gluconacetobacter GENUS
 
 #### Status
 ACCEPTED

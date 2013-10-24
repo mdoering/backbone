@@ -1,5 +1,4 @@
-Bitaxia Plotnikova, 1978 GENUS
-=======
+# Bitaxia Plotnikova, 1978 GENUS
 
 #### Status
 ACCEPTED

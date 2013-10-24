@@ -1,17 +1,16 @@
-Lecidea subincongrua f. subincongrua FORM
-=======
+# Lecidella asema (Nyl.) Knoph & Hertel SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Knoph, Biblthca Lichenol. 36: 66 (1990)
 
 #### Original name
-Lecidea subincongrua f. subincongrua
+Lecidea asema Nyl.
 
 ### Remarks
 null

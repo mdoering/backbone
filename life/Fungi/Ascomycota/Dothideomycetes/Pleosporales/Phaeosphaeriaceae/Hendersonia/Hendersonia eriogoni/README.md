@@ -1,5 +1,4 @@
-Hendersonia eriogoni Fairm. SPECIES
-=======
+# Hendersonia eriogoni Fairm. SPECIES
 
 #### Status
 ACCEPTED

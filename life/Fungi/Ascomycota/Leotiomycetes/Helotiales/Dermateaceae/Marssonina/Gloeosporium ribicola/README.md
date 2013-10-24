@@ -1,5 +1,4 @@
-Gloeosporium ribicola Ellis & Everh. SPECIES
-=======
+# Gloeosporium ribicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

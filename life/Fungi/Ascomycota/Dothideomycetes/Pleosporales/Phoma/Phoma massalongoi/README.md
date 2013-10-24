@@ -1,17 +1,16 @@
-Phoma massalongii Speg. SPECIES
-=======
+# Phoma massalongoi Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue mycol. , Toulouse 4(14): 79 (1882)
 
 #### Original name
-Phoma massalongii Speg.
+Phoma massalongoi Speg.
 
 ### Remarks
 null

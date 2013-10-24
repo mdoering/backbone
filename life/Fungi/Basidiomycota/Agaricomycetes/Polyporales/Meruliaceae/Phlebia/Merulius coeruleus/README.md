@@ -1,5 +1,4 @@
-Merulius coeruleus (Tode) Fr. SPECIES
-=======
+# Merulius coeruleus (Tode) Fr. SPECIES
 
 #### Status
 ACCEPTED

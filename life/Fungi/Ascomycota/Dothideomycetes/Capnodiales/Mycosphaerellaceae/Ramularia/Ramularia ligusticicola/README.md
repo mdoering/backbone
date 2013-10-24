@@ -1,5 +1,4 @@
-Ramularia ligusticicola U. Braun SPECIES
-=======
+# Ramularia ligusticicola U. Braun SPECIES
 
 #### Status
 ACCEPTED

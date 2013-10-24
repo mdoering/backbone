@@ -1,5 +1,4 @@
-Hendersonia eximia Berk. & M.A. Curtis SPECIES
-=======
+# Hendersonia eximia Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

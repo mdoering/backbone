@@ -1,5 +1,4 @@
-Phialophora europaea de Hoog, Mayser & Haase SPECIES
-=======
+# Phialophora europaea de Hoog, Mayser & Haase SPECIES
 
 #### Status
 ACCEPTED

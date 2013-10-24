@@ -1,5 +1,4 @@
-Truncorotalia Cushman & Bermudez, 1949 GENUS
-=======
+# Truncorotalia Cushman & Bermudez, 1949 GENUS
 
 #### Status
 ACCEPTED

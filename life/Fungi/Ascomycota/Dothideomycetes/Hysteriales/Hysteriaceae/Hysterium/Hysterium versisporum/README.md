@@ -1,5 +1,4 @@
-Hysterium versisporum W.R. Gerard SPECIES
-=======
+# Hysterium versisporum W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

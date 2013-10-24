@@ -1,5 +1,4 @@
-Physcia detonsa SPECIES
-=======
+# Physcia detonsa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cassidulina tortuosa SPECIES
-=======
+# Cassidulina tortuosa SPECIES
 
 #### Status
 ACCEPTED

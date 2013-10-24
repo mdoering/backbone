@@ -1,5 +1,4 @@
-Caloplaca apagea (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca apagea (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monoporisporites koenigii Elsik SPECIES
-=======
+# Monoporisporites koenigii Elsik SPECIES
 
 #### Status
 ACCEPTED

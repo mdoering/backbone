@@ -1,5 +1,4 @@
-Coprinus willapaensis Bogart SPECIES
-=======
+# Coprinus willapaensis Bogart SPECIES
 
 #### Status
 ACCEPTED

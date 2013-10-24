@@ -1,5 +1,4 @@
-Phyllosticta quernea Thüm. SPECIES
-=======
+# Phyllosticta quernea Thüm. SPECIES
 
 #### Status
 ACCEPTED

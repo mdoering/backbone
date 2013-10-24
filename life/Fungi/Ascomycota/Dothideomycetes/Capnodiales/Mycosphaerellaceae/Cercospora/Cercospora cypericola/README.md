@@ -1,5 +1,4 @@
-Cercospora cypericola Chupp & H.C. Greene SPECIES
-=======
+# Cercospora cypericola Chupp & H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

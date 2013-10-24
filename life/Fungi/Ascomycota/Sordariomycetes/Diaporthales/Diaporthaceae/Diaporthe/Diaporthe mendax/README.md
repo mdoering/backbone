@@ -1,5 +1,4 @@
-Diaporthe mendax Sacc. SPECIES
-=======
+# Diaporthe mendax Sacc. SPECIES
 
 #### Status
 ACCEPTED

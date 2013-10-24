@@ -1,5 +1,4 @@
-Sirosporium morindina D.K. Agarwal SPECIES
-=======
+# Sirosporium morindina D.K. Agarwal SPECIES
 
 #### Status
 ACCEPTED

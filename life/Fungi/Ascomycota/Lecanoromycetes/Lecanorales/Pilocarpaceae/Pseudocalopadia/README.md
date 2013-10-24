@@ -1,5 +1,4 @@
-Pseudocalopadia Lücking GENUS
-=======
+# Pseudocalopadia Lücking GENUS
 
 #### Status
 ACCEPTED

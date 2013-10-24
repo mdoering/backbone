@@ -1,5 +1,4 @@
-Sarcina GENUS
-=======
+# Sarcina GENUS
 
 #### Status
 ACCEPTED

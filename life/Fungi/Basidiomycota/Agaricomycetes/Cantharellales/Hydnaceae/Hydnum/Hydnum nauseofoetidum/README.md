@@ -1,5 +1,4 @@
-Hydnum nauseofoetidum Teng SPECIES
-=======
+# Hydnum nauseofoetidum Teng SPECIES
 
 #### Status
 ACCEPTED

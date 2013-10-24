@@ -1,8 +1,7 @@
-Lyngbya lacustris Lemmermann, 1898 SPECIES
-=======
+# Planktolyngbya lacustris (Lemmermann) Anagnostidis & Komárek, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

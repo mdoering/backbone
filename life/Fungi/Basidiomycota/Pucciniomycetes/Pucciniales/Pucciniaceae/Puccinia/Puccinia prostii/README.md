@@ -1,5 +1,4 @@
-Puccinia prostii Duby, 1830 SPECIES
-=======
+# Puccinia prostii Duby, 1830 SPECIES
 
 #### Status
 ACCEPTED

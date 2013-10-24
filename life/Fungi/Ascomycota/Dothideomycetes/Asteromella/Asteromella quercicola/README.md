@@ -1,5 +1,4 @@
-Asteromella quercicola Petr. SPECIES
-=======
+# Asteromella quercicola Petr. SPECIES
 
 #### Status
 ACCEPTED

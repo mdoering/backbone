@@ -1,17 +1,16 @@
-Lloydia quadangularis C.H. Chow SPECIES
-=======
+# Lloydia quadrangularis C.H. Chow SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Fan Mem. Inst. Biol. , Bot. 6: (1935)
 
 #### Original name
-Lloydia quadangularis C.H. Chow
+Lloydia quadrangularis C.H. Chow
 
 ### Remarks
 null

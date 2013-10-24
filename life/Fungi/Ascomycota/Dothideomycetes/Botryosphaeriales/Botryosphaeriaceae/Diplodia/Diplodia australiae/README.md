@@ -1,5 +1,4 @@
-Diplodia australiae Speg. SPECIES
-=======
+# Diplodia australiae Speg. SPECIES
 
 #### Status
 ACCEPTED

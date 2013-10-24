@@ -1,5 +1,4 @@
-Heppia deserticola f. deserticola FORM
-=======
+# Heppia deserticola Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Heppia deserticola f. deserticola
+Heppia deserticola Zahlbr.
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Sporotrichum pereirai (Rodr. Mir.) Redaelli & Cif. SPECIES
-=======
+# Sporotrichum pereirae (Rodr. Mir.) Redaelli & Cif. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trattato di Micopatologia Umana (Firenze) 5: 460 (1942)
 
 #### Original name
 Rhinocladium pereirae Rodr. Mir.

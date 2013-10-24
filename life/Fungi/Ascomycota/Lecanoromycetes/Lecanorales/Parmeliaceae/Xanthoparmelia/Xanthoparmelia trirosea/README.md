@@ -1,5 +1,4 @@
-Xanthoparmelia trirosea Elix SPECIES
-=======
+# Xanthoparmelia trirosea Elix SPECIES
 
 #### Status
 ACCEPTED

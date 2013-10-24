@@ -1,5 +1,4 @@
-Filaspora bresadolae (Allesch.) Kuntze SPECIES
-=======
+# Filaspora bresadolae (Allesch.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

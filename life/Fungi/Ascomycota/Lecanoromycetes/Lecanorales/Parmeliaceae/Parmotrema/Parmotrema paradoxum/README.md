@@ -1,5 +1,4 @@
-Parmotrema paradoxum (Hale) Hale SPECIES
-=======
+# Parmotrema paradoxum (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

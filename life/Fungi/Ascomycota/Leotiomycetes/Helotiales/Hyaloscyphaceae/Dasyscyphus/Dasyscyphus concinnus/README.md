@@ -1,5 +1,4 @@
-Dasyscyphus concinnus (Kirschst.) Dennis SPECIES
-=======
+# Dasyscyphus concinnus (Kirschst.) Dennis SPECIES
 
 #### Status
 ACCEPTED

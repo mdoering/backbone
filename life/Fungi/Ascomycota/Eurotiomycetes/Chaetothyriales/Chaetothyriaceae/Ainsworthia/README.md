@@ -1,5 +1,4 @@
-Ainsworthia GENUS
-=======
+# Ainsworthia GENUS
 
 #### Status
 ACCEPTED

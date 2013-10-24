@@ -1,5 +1,4 @@
-Fusidium cylindrospora Corda SPECIES
-=======
+# Fusidium cylindrospora Corda SPECIES
 
 #### Status
 ACCEPTED

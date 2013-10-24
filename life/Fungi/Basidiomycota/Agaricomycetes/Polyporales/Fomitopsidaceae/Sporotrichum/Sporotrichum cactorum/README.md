@@ -1,5 +1,4 @@
-Sporotrichum cactorum Pasin. & Buzz.-Trav. SPECIES
-=======
+# Sporotrichum cactorum Pasin. & Buzz.-Trav. SPECIES
 
 #### Status
 ACCEPTED

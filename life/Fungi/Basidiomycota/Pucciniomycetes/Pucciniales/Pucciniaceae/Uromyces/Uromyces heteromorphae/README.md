@@ -1,17 +1,16 @@
-Uromyces heteromorpha Thüm. SPECIES
-=======
+# Uromyces heteromorphae Thüm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 60: 409 (1877)
 
 #### Original name
-Uromyces heteromorpha Thüm.
+Uromyces heteromorphae Thüm.
 
 ### Remarks
 null

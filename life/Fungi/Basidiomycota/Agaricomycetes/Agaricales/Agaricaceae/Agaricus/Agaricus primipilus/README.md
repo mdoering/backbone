@@ -1,5 +1,4 @@
-Agaricus primipilus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus primipilus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

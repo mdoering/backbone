@@ -1,5 +1,4 @@
-Pyrgo pisum (Schlumberger, 1891) SPECIES
-=======
+# Pyrgo pisum (Schlumberger, 1891) SPECIES
 
 #### Status
 ACCEPTED

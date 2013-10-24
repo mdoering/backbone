@@ -1,5 +1,4 @@
-Dystictina GENUS
-=======
+# Dystictina GENUS
 
 #### Status
 ACCEPTED

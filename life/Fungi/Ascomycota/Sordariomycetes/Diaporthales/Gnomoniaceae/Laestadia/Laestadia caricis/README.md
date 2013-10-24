@@ -1,5 +1,4 @@
-Laestadia caricis Dearn. & House SPECIES
-=======
+# Laestadia caricis Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porphyrellus zaragozae Singer & J. García SPECIES
-=======
+# Porphyrellus zaragozae Singer & J. García SPECIES
 
 #### Status
 ACCEPTED

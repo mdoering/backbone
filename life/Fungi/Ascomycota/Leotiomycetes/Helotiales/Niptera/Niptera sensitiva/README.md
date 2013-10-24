@@ -1,5 +1,4 @@
-Niptera sensitiva Hazsl. SPECIES
-=======
+# Niptera sensitiva Hazsl. SPECIES
 
 #### Status
 ACCEPTED

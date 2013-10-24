@@ -1,5 +1,4 @@
-Riftus Jankowski, 1981 GENUS
-=======
+# Riftus Jankowski, 1981 GENUS
 
 #### Status
 ACCEPTED

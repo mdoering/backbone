@@ -1,5 +1,4 @@
-Coltrica GENUS
-=======
+# Coltrica GENUS
 
 #### Status
 ACCEPTED

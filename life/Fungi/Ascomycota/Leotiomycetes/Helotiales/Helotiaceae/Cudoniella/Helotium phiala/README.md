@@ -1,5 +1,4 @@
-Helotium phiala (Vahl) Fr. SPECIES
-=======
+# Helotium phiala (Vahl) Fr. SPECIES
 
 #### Status
 ACCEPTED

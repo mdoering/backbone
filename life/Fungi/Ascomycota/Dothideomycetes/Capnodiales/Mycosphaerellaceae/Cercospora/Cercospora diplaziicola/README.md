@@ -1,5 +1,4 @@
-Cercospora diplaziicola A.K. Das SPECIES
-=======
+# Cercospora diplaziicola A.K. Das SPECIES
 
 #### Status
 ACCEPTED

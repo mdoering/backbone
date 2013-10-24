@@ -1,5 +1,4 @@
-Lecidea hyperborea Vain. SPECIES
-=======
+# Lecidea hyperborea Vain. SPECIES
 
 #### Status
 ACCEPTED

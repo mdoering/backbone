@@ -1,5 +1,4 @@
-Septoria paulowniae Thüm. SPECIES
-=======
+# Septoria paulowniae Thüm. SPECIES
 
 #### Status
 ACCEPTED

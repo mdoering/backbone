@@ -1,5 +1,4 @@
-Sphaerotheca sparsa U. Braun SPECIES
-=======
+# Sphaerotheca sparsa U. Braun SPECIES
 
 #### Status
 ACCEPTED

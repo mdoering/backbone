@@ -1,5 +1,4 @@
-Cyathus pezizoides Berk. SPECIES
-=======
+# Cyathus pezizoides Berk. SPECIES
 
 #### Status
 ACCEPTED

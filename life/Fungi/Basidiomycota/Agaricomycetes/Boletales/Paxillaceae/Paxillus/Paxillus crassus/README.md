@@ -1,5 +1,4 @@
-Paxillus crassus Fr. SPECIES
-=======
+# Paxillus crassus Fr. SPECIES
 
 #### Status
 ACCEPTED

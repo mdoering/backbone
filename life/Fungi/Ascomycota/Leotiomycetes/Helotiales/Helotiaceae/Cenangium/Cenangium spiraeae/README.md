@@ -1,5 +1,4 @@
-Cenangium spiraeae (Schwein.) Berk. SPECIES
-=======
+# Cenangium spiraeae (Schwein.) Berk. SPECIES
 
 #### Status
 ACCEPTED

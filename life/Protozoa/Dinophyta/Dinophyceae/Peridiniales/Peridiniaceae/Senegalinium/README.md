@@ -1,5 +1,4 @@
-Senegalinium K.P. Jain & P. Millepied, 1973 GENUS
-=======
+# Senegalinium K.P. Jain & P. Millepied, 1973 GENUS
 
 #### Status
 ACCEPTED

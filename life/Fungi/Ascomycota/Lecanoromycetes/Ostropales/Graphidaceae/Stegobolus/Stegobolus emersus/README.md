@@ -1,14 +1,13 @@
-Phaeotrema emersum (Kremp.) Zahlbr. SPECIES
-=======
+# Stegobolus emersus (Kremp.) Frisch & Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Denkschr. Akad. Wiss. , Wein, Mathematische-naturwissenschaftliche Klasse 83: 119 (1909)
+Biblthca Lichenol. 92: 452 (2006)
 
 #### Original name
 Thelotrema emersum Kremp.

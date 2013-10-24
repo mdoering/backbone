@@ -1,5 +1,4 @@
-Cortinarius acigemmascens Rob. Henry SPECIES
-=======
+# Cortinarius acigemmascens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Daedalea pinicola (Lázaro Ibiza) Sacc. & Trotter SPECIES
-=======
+# Daedalea pinicola (Lázaro Ibiza) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

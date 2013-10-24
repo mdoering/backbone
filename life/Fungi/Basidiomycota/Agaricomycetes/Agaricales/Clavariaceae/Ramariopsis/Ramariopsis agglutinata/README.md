@@ -1,5 +1,4 @@
-Ramariopsis agglutinata R.H. Petersen, 1988 SPECIES
-=======
+# Ramariopsis agglutinata R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

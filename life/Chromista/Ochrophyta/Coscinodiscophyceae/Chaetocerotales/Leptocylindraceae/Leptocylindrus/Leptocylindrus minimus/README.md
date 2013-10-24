@@ -1,8 +1,7 @@
-Leptocylindrus belgicus Meunier SPECIES
-=======
+# Leptocylindrus minimus Gran SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

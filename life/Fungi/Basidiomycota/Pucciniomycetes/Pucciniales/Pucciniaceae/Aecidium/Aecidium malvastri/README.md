@@ -1,5 +1,4 @@
-Aecidium malvastri Ellis & Tracy SPECIES
-=======
+# Aecidium malvastri Ellis & Tracy SPECIES
 
 #### Status
 ACCEPTED

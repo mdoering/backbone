@@ -1,5 +1,4 @@
-Stigmatomyces divergens Thaxt. SPECIES
-=======
+# Stigmatomyces divergens Thaxt. SPECIES
 
 #### Status
 ACCEPTED

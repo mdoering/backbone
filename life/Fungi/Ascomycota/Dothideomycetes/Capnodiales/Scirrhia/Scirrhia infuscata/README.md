@@ -1,5 +1,4 @@
-Scirrhia infuscata G. Winter SPECIES
-=======
+# Scirrhia infuscata G. Winter SPECIES
 
 #### Status
 ACCEPTED

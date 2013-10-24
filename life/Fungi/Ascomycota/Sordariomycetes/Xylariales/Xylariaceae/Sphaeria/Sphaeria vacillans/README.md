@@ -1,5 +1,4 @@
-Sphaeria vacillans De Not. SPECIES
-=======
+# Sphaeria vacillans De Not. SPECIES
 
 #### Status
 ACCEPTED

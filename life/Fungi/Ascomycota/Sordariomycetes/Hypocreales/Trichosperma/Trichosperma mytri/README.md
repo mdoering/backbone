@@ -1,5 +1,4 @@
-Trichosperma mytri (Lind) Hughes SPECIES
-=======
+# Trichosperma mytri (Lind) Hughes SPECIES
 
 #### Status
 ACCEPTED

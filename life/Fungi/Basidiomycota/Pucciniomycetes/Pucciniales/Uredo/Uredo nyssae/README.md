@@ -1,5 +1,4 @@
-Uredo nyssae Ellis & Tracy SPECIES
-=======
+# Uredo nyssae Ellis & Tracy SPECIES
 
 #### Status
 ACCEPTED

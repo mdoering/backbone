@@ -1,5 +1,4 @@
-Parmelia demangei Harm. SPECIES
-=======
+# Parmelia demangei Harm. SPECIES
 
 #### Status
 ACCEPTED

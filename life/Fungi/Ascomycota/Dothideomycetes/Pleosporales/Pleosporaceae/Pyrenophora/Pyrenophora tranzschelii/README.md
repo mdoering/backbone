@@ -1,5 +1,4 @@
-Pyrenophora tranzschelii Gucevic SPECIES
-=======
+# Pyrenophora tranzschelii Gucevic SPECIES
 
 #### Status
 ACCEPTED

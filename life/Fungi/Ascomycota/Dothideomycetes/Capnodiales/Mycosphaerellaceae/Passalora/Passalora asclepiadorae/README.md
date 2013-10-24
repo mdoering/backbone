@@ -1,5 +1,4 @@
-Passalora asclepiadorae (Ellis & Kellerm.) U. Braun & Crous SPECIES
-=======
+# Passalora asclepiadorae (Ellis & Kellerm.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Eumela usterii Bat. & H. Maia SPECIES
-=======
+# Eumela usteri Bat. & H. Maia SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atas Inst. Micol. Univ. Recife 1: 289 (1960)
 
 #### Original name
-Eumela usterii Bat. & H. Maia
+Eumela usteri Bat. & H. Maia
 
 ### Remarks
 null

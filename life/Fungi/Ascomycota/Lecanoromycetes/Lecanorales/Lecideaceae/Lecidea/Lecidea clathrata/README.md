@@ -1,5 +1,4 @@
-Lecidea clathrata C. Knight SPECIES
-=======
+# Lecidea clathrata C. Knight SPECIES
 
 #### Status
 ACCEPTED

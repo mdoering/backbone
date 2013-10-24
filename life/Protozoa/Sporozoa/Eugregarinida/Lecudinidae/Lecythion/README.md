@@ -1,5 +1,4 @@
-Lecythion Mackinnon & Ray, 1931 GENUS
-=======
+# Lecythion Mackinnon & Ray, 1931 GENUS
 
 #### Status
 ACCEPTED

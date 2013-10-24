@@ -1,5 +1,4 @@
-Naematoloma fasciculare var. fasciculare VARIETY
-=======
+# Naematoloma fasciculare SPECIES
 
 #### Status
 ACCEPTED

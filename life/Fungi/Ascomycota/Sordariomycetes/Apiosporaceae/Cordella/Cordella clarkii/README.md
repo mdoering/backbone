@@ -1,5 +1,4 @@
-Cordella clarkii M.B. Ellis, 1976 SPECIES
-=======
+# Cordella clarkii M.B. Ellis, 1976 SPECIES
 
 #### Status
 ACCEPTED

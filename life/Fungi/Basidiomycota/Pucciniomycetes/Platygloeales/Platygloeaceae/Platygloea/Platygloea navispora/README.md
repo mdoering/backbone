@@ -1,5 +1,4 @@
-Platygloea navispora T. Aoki & Tubaki SPECIES
-=======
+# Platygloea navispora T. Aoki & Tubaki SPECIES
 
 #### Status
 ACCEPTED

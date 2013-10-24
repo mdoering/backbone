@@ -1,14 +1,13 @@
-Solenia idahoensis W.B. Cooke, 1961 SPECIES
-=======
+# Rectipilus idahoensis (W.B. Cooke) Agerer, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Sydowia 4: 24 (1961)
+Persoonia 7(3): 424 (1973)
 
 #### Original name
 Solenia idahoensis W.B. Cooke, 1961

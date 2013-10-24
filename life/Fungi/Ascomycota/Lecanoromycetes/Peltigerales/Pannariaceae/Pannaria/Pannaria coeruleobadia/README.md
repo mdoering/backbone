@@ -1,5 +1,4 @@
-Pannaria coeruleobadia f. coeruleobadia FORM
-=======
+# Pannaria coeruleobadia (Schleich.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

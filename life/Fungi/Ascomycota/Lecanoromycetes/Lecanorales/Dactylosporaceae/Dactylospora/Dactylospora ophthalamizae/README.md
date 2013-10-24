@@ -1,5 +1,4 @@
-Dactylospora ophthalamizae anon. SPECIES
-=======
+# Dactylospora ophthalamizae anon. SPECIES
 
 #### Status
 ACCEPTED

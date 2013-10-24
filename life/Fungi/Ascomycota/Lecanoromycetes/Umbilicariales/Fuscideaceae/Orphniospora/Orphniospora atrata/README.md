@@ -1,5 +1,4 @@
-Orphniospora atrata SPECIES
-=======
+# Orphniospora atrata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epicoccum menispermi Pass. SPECIES
-=======
+# Epicoccum menispermi Pass. SPECIES
 
 #### Status
 ACCEPTED

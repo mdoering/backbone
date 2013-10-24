@@ -1,5 +1,4 @@
-Coniothyrium lobeliae (Berk. & Broome) Petch SPECIES
-=======
+# Coniothyrium lobeliae (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

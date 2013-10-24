@@ -1,5 +1,4 @@
-Marasmius gramineus Lév. SPECIES
-=======
+# Marasmius gramineus Lév. SPECIES
 
 #### Status
 ACCEPTED

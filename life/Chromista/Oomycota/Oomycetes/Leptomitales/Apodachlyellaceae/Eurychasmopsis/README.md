@@ -1,5 +1,4 @@
-Eurychasmopsis Canter & M.W. Dick GENUS
-=======
+# Eurychasmopsis Canter & M.W. Dick GENUS
 
 #### Status
 ACCEPTED

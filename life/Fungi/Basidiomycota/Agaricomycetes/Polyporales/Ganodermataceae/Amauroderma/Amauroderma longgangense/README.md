@@ -1,5 +1,4 @@
-Amauroderma longgangense J.D. Zhao & X.Q. Zhang, 1986 SPECIES
-=======
+# Amauroderma longgangense J.D. Zhao & X.Q. Zhang, 1986 SPECIES
 
 #### Status
 ACCEPTED

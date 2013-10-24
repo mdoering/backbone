@@ -1,17 +1,16 @@
-Allantospora Wakker GENUS
-=======
+# Cylindrocarpon Wollenw. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Meded. Proefstat. Oost-Java, ser. 2 28: 4 (1896)
+Phytopathology 3: 225 (1913)
 
 #### Original name
-Allantospora Wakker
+Cylindrocarpon Wollenw.
 
 ### Remarks
 null

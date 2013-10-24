@@ -1,5 +1,4 @@
-Lecanora sbarbaroana (Klem.) H. Magn. SPECIES
-=======
+# Lecanora sbarbaroana (Klem.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

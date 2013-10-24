@@ -1,5 +1,4 @@
-Dicaeoma denticulatum (G.H. Otth) Kuntze SPECIES
-=======
+# Dicaeoma denticulatum (G.H. Otth) Kuntze SPECIES
 
 #### Status
 ACCEPTED

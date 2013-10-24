@@ -1,5 +1,4 @@
-Cruciplacolithus cribellum (Bramlette & Sullivan, 1961) Romein, 1979 SPECIES
-=======
+# Cruciplacolithus cribellum (Bramlette & Sullivan, 1961) Romein, 1979 SPECIES
 
 #### Status
 ACCEPTED

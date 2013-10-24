@@ -1,5 +1,4 @@
-Strombidium ioanum Lynn & Gilron, 1993 SPECIES
-=======
+# Strombidium ioanum Lynn & Gilron, 1993 SPECIES
 
 #### Status
 ACCEPTED

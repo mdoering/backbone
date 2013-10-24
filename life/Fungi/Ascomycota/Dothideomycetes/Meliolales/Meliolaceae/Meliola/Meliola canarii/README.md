@@ -1,5 +1,4 @@
-Meliola canarii Syd. & P. Syd. SPECIES
-=======
+# Meliola canarii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

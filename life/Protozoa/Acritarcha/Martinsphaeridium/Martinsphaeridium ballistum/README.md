@@ -1,5 +1,4 @@
-Martinsphaeridium ballistum (Ottone in Ottone, Toro & Waisfeld, 1992) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Martinsphaeridium ballistum (Ottone in Ottone, Toro & Waisfeld, 1992) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

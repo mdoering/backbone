@@ -1,5 +1,4 @@
-Akanthomyces koratensis Hywel-Jones SPECIES
-=======
+# Akanthomyces koratensis Hywel-Jones SPECIES
 
 #### Status
 ACCEPTED

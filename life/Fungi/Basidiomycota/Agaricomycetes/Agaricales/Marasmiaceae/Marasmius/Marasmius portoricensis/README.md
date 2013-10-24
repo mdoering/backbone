@@ -1,5 +1,4 @@
-Marasmius portoricensis Murrill SPECIES
-=======
+# Marasmius portoricensis Murrill SPECIES
 
 #### Status
 ACCEPTED

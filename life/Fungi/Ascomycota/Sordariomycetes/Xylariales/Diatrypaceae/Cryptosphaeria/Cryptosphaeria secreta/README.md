@@ -1,5 +1,4 @@
-Cryptosphaeria secreta (Cooke & Ellis) Sacc. SPECIES
-=======
+# Cryptosphaeria secreta (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Plowrightiella (Sacc.) Trotter GENUS
-=======
+# Sydowia Bresadola, 1895 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-in Saccardo, Syll. fung. (Abellini) 24(1): 542 (1926)
+null
 
 #### Original name
 null

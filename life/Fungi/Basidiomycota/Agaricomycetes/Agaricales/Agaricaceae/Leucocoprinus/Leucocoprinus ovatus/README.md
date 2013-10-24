@@ -1,5 +1,4 @@
-Leucocoprinus ovatus Raithelh. SPECIES
-=======
+# Leucocoprinus ovatus Raithelh. SPECIES
 
 #### Status
 ACCEPTED

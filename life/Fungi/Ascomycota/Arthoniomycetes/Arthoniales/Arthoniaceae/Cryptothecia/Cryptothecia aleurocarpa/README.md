@@ -1,5 +1,4 @@
-Cryptothecia aleurocarpa (Nyl.) Makhija & Patw. SPECIES
-=======
+# Cryptothecia aleurocarpa (Nyl.) Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

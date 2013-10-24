@@ -1,5 +1,4 @@
-Inocybe alboperonata Kühner SPECIES
-=======
+# Inocybe alboperonata Kühner SPECIES
 
 #### Status
 ACCEPTED

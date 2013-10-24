@@ -1,5 +1,4 @@
-Pannularia microleuca Nyl. SPECIES
-=======
+# Pannularia microleuca Nyl. SPECIES
 
 #### Status
 ACCEPTED

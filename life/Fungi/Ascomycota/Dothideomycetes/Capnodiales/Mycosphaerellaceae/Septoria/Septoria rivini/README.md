@@ -1,5 +1,4 @@
-Septoria rivini Brunaud SPECIES
-=======
+# Septoria rivini Brunaud SPECIES
 
 #### Status
 ACCEPTED

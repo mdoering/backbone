@@ -1,5 +1,4 @@
-Pleosphaerulina houttuyniae Siemaszko SPECIES
-=======
+# Pleosphaerulina houttuyniae Siemaszko SPECIES
 
 #### Status
 ACCEPTED

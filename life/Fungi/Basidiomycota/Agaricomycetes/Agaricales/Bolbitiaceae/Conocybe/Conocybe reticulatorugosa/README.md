@@ -1,5 +1,4 @@
-Conocybe reticulatorugosa Singer SPECIES
-=======
+# Conocybe reticulatorugosa Singer SPECIES
 
 #### Status
 ACCEPTED

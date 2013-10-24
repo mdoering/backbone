@@ -1,5 +1,4 @@
-Xanthophyllomyces dendrorhous Golubev, 1995 SPECIES
-=======
+# Xanthophyllomyces dendrorhous Golubev, 1995 SPECIES
 
 #### Status
 ACCEPTED

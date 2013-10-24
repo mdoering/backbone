@@ -1,5 +1,4 @@
-Leiosphaerella livistonae I. Hino & Katum. SPECIES
-=======
+# Leiosphaerella livistonae I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

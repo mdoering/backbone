@@ -1,5 +1,4 @@
-Aphanothece hegewaldii Kovácik SPECIES
-=======
+# Aphanothece hegewaldii Kovácik SPECIES
 
 #### Status
 ACCEPTED

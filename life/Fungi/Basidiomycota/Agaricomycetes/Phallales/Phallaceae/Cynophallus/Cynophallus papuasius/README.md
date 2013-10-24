@@ -1,5 +1,4 @@
-Cynophallus papuasius (Kalchbr.) F. Ludw. SPECIES
-=======
+# Cynophallus papuasius (Kalchbr.) F. Ludw. SPECIES
 
 #### Status
 ACCEPTED

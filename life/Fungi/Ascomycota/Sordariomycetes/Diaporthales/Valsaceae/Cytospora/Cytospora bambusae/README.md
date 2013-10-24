@@ -1,5 +1,4 @@
-Cytospora bambusae Pat. SPECIES
-=======
+# Cytospora bambusae Pat. SPECIES
 
 #### Status
 ACCEPTED

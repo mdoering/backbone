@@ -1,5 +1,4 @@
-Lachnella cenangioides Ellis SPECIES
-=======
+# Lachnella cenangioides Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plicaria rouastiana Boud. SPECIES
-=======
+# Plicaria rouastiana Boud. SPECIES
 
 #### Status
 ACCEPTED

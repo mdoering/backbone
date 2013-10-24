@@ -1,14 +1,13 @@
-Piringa castagnei (Arnaud) Sacc. SPECIES
-=======
+# Pleocouturea castagnei G. Arnaud, 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annals d'École National d'Agric. de Montpellier, Série 2 10(4): 326 (1911)
 
 #### Original name
 Pleocouturea castagnei G. Arnaud, 1911

@@ -1,5 +1,4 @@
-Candida anneliseae S.O. Suh & M. Blackw., 2004 SPECIES
-=======
+# Candida anneliseae S.O. Suh & M. Blackw., 2004 SPECIES
 
 #### Status
 ACCEPTED

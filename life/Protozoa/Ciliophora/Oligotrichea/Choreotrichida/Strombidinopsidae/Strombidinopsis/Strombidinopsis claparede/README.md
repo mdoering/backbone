@@ -1,5 +1,4 @@
-Strombidinopsis claparede SPECIES
-=======
+# Strombidinopsis claparede SPECIES
 
 #### Status
 ACCEPTED

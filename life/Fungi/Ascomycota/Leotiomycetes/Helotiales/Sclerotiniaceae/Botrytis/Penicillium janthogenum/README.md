@@ -1,5 +1,4 @@
-Penicillium janthogenum Biourge SPECIES
-=======
+# Penicillium janthogenum Biourge SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Cryptococcus dattilus (Kluyver) C.E. Skinner SPECIES
-=======
+# Cryptococcus dattilus (Kluyver) C.E. Skinner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Spongosphaera polycantha SPECIES
-=======
+# Spongosphaera streptacantha Haeckel, 1860 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

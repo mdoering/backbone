@@ -1,5 +1,4 @@
-Rhytisma nervisequium Berk. SPECIES
-=======
+# Rhytisma nervisequium Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scytonema holstii Hieronimus SPECIES
-=======
+# Scytonema holstii Hieronimus SPECIES
 
 #### Status
 ACCEPTED

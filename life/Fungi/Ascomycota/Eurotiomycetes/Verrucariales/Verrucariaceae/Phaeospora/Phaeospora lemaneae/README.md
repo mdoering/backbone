@@ -1,14 +1,13 @@
-Heptameria lemaneae (Cohn ex Woronin) Cooke SPECIES
-=======
+# Phaeospora lemaneae (Cohn ex Woronin) D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Notes R. bot. Gdn Edinb. 44(3): 551 (1987)
 
 #### Original name
 Sphaeria lemaneae Cohn ex Woronin

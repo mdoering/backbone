@@ -1,5 +1,4 @@
-Biatora cinereovirens Hepp SPECIES
-=======
+# Biatora cinereovirens Hepp SPECIES
 
 #### Status
 ACCEPTED

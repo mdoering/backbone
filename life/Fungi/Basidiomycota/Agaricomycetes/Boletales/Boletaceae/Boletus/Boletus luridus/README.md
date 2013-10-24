@@ -1,17 +1,16 @@
-Boletus luridus f. luridus FORM
-=======
+# Boletus luridus Sowerby SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fung. Bavar. Palat. 4: 78 (1774)
+null
 
 #### Original name
-Boletus luridus f. luridus
+Boletus luridus Sowerby
 
 ### Remarks
 null

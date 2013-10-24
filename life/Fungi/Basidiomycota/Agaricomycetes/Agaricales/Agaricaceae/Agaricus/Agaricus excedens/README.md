@@ -1,5 +1,4 @@
-Agaricus excedens Peck SPECIES
-=======
+# Agaricus excedens Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stichotricha mulleri SPECIES
-=======
+# Stichotricha mulleri SPECIES
 
 #### Status
 ACCEPTED

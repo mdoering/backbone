@@ -1,5 +1,4 @@
-Colpoda hippocrepis SPECIES
-=======
+# Colpoda hippocrepis SPECIES
 
 #### Status
 ACCEPTED

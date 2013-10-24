@@ -1,5 +1,4 @@
-Polythyrium costaricense Syd. SPECIES
-=======
+# Polythyrium costaricense Syd. SPECIES
 
 #### Status
 ACCEPTED

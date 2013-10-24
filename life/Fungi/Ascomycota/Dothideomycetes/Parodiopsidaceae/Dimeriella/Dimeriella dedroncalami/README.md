@@ -1,5 +1,4 @@
-Dimeriella dedroncalami Sawada & W. Yamam. SPECIES
-=======
+# Dimeriella dedroncalami Sawada & W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

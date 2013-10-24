@@ -1,5 +1,4 @@
-Lecanicillium W. Gams & Zare, 2001 GENUS
-=======
+# Lecanicillium W. Gams & Zare, 2001 GENUS
 
 #### Status
 ACCEPTED

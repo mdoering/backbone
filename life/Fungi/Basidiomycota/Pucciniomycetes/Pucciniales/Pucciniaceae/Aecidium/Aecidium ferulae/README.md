@@ -1,5 +1,4 @@
-Aecidium ferulae M. Rousseau & Durieu SPECIES
-=======
+# Aecidium ferulae M. Rousseau & Durieu SPECIES
 
 #### Status
 ACCEPTED

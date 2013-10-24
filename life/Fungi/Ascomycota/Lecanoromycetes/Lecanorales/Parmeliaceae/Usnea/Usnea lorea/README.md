@@ -1,5 +1,4 @@
-Usnea lorea Fr. SPECIES
-=======
+# Usnea lorea Fr. SPECIES
 
 #### Status
 ACCEPTED

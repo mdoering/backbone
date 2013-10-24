@@ -1,5 +1,4 @@
-Soritidae Ehrenberg, 1839 FAMILY
-=======
+# Soritidae Ehrenberg, 1839 FAMILY
 
 #### Status
 ACCEPTED

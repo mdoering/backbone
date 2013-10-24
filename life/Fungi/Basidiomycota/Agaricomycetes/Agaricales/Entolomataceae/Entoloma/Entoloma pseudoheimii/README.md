@@ -1,5 +1,4 @@
-Entoloma pseudoheimii Eyssart., Buyck & Courtec. SPECIES
-=======
+# Entoloma pseudoheimii Eyssart., Buyck & Courtec. SPECIES
 
 #### Status
 ACCEPTED

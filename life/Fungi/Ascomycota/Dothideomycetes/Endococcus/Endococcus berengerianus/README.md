@@ -1,5 +1,4 @@
-Endococcus berengerianus Arnold SPECIES
-=======
+# Endococcus berengerianus Arnold SPECIES
 
 #### Status
 ACCEPTED

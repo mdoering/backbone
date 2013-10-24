@@ -1,5 +1,4 @@
-Myriangium pritzelianum Henn. SPECIES
-=======
+# Myriangium pritzelianum Henn. SPECIES
 
 #### Status
 ACCEPTED

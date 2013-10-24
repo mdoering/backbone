@@ -1,5 +1,4 @@
-Erysiphe sambuci var. sambuci VARIETY
-=======
+# Erysiphe sambuci S. Ahmad SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Erysiphe sambuci var. sambuci
+Erysiphe sambuci S. Ahmad
 
 ### Remarks
 null

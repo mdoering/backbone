@@ -1,5 +1,4 @@
-Komokiidae Tendal & Hessler, 1977 FAMILY
-=======
+# Komokiidae Tendal & Hessler, 1977 FAMILY
 
 #### Status
 ACCEPTED

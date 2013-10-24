@@ -1,5 +1,4 @@
-Claviceps balansioides Möller SPECIES
-=======
+# Claviceps balansioides Möller SPECIES
 
 #### Status
 ACCEPTED

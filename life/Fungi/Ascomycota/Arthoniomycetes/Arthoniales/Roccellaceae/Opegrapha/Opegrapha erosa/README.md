@@ -1,5 +1,4 @@
-Opegrapha erosa Egea & Ertz SPECIES
-=======
+# Opegrapha erosa Egea & Ertz SPECIES
 
 #### Status
 ACCEPTED

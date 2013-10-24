@@ -1,5 +1,4 @@
-Enterographa byssoidea Lücking SPECIES
-=======
+# Enterographa byssoidea Lücking SPECIES
 
 #### Status
 ACCEPTED

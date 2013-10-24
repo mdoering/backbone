@@ -1,5 +1,4 @@
-Chaetomium zopfii Boulanger SPECIES
-=======
+# Chaetomium zopfii Boulanger SPECIES
 
 #### Status
 ACCEPTED

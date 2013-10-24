@@ -1,5 +1,4 @@
-Psathyrella usambarensis Pegler SPECIES
-=======
+# Psathyrella usambarensis Pegler SPECIES
 
 #### Status
 ACCEPTED

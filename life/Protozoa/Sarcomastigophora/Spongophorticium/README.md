@@ -1,5 +1,4 @@
-Spongophorticium Haeckel, 1887 GENUS
-=======
+# Spongophorticium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

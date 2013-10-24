@@ -1,8 +1,7 @@
-Dinophysis porosa (Kofoid & Skogsberg, 1928) Balech, 1967 SPECIES
-=======
+# Dinophysis perforata Sournia, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

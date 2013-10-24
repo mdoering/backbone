@@ -1,5 +1,4 @@
-Septoria ziziphorae Vasyag. SPECIES
-=======
+# Septoria ziziphorae Vasyag. SPECIES
 
 #### Status
 ACCEPTED

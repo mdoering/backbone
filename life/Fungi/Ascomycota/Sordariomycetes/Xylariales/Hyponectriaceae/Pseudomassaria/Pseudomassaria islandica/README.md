@@ -1,14 +1,13 @@
-Chaetapiospora islandica (Johanson) Petr., 1947 SPECIES
-=======
+# Pseudomassaria islandica (Johanson) M.E. Barr, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 1: 87 (1947)
+Mycologia 56(6): 854 (1965)
 
 #### Original name
 null

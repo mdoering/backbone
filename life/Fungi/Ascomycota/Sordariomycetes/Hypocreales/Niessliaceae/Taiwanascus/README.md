@@ -1,5 +1,4 @@
-Taiwanascus Sivan. & H.S. Chang GENUS
-=======
+# Taiwanascus Sivan. & H.S. Chang GENUS
 
 #### Status
 ACCEPTED

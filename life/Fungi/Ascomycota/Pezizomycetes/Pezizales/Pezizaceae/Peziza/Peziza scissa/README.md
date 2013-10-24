@@ -1,5 +1,4 @@
-Peziza scissa P. Karst. SPECIES
-=======
+# Peziza scissa P. Karst. SPECIES
 
 #### Status
 ACCEPTED

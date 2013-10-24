@@ -1,8 +1,7 @@
-Tetraplecta corynephorum SPECIES
-=======
+# Euscenium corynephorum Joergensen, 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

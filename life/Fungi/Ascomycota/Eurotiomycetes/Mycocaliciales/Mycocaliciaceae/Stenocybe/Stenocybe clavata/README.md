@@ -1,5 +1,4 @@
-Stenocybe clavata Tibell SPECIES
-=======
+# Stenocybe clavata Tibell SPECIES
 
 #### Status
 ACCEPTED

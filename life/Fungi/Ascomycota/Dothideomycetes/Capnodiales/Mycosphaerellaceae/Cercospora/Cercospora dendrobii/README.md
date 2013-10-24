@@ -1,5 +1,4 @@
-Cercospora dendrobii H.C. Burnett SPECIES
-=======
+# Cercospora dendrobii H.C. Burnett SPECIES
 
 #### Status
 ACCEPTED

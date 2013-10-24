@@ -1,5 +1,4 @@
-Clitocybe admissa (Britzelm.) Kühner & Romagn. SPECIES
-=======
+# Clitocybe admissa (Britzelm.) Kühner & Romagn. SPECIES
 
 #### Status
 ACCEPTED

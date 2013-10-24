@@ -1,5 +1,4 @@
-Pleurotus coriipellis (Fr.) Sacc. SPECIES
-=======
+# Pleurotus coriipellis (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

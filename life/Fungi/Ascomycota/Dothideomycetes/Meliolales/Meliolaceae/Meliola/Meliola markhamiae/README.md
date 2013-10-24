@@ -1,5 +1,4 @@
-Meliola markhamiae Hansf. & F. Stevens SPECIES
-=======
+# Meliola markhamiae Hansf. & F. Stevens SPECIES
 
 #### Status
 ACCEPTED

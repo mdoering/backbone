@@ -1,5 +1,4 @@
-Septoria malcolmiae Byzova SPECIES
-=======
+# Septoria malcolmiae Byzova SPECIES
 
 #### Status
 ACCEPTED

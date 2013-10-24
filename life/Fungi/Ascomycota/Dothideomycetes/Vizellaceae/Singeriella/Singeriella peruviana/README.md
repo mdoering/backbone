@@ -1,5 +1,4 @@
-Singeriella peruviana Petr., 1959 SPECIES
-=======
+# Singeriella peruviana Petr., 1959 SPECIES
 
 #### Status
 ACCEPTED

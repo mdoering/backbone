@@ -1,5 +1,4 @@
-Sorosporium granulosum Ellis & Tracy SPECIES
-=======
+# Sorosporium granulosum Ellis & Tracy SPECIES
 
 #### Status
 ACCEPTED

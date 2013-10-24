@@ -1,14 +1,13 @@
-Adelomyces ephistemi Thaxt., 1931 SPECIES
-=======
+# Phaulomyces ephistemi (Thaxt.) I.I. Tav., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. Amer. Acad. Arts 16: 307 (1931)
+Mycol. Mem. 9: 273 (1985)
 
 #### Original name
 Adelomyces ephistemi Thaxt., 1931

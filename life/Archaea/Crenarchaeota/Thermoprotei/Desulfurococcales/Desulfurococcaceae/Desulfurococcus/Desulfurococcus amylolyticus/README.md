@@ -1,5 +1,4 @@
-Desulfurococcus amylolyticus Bonch-Osmolovskaya et al., 2001 SPECIES
-=======
+# Desulfurococcus amylolyticus Bonch-Osmolovskaya et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

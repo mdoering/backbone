@@ -1,5 +1,4 @@
-Amphispyris bria Tan & Su SPECIES
-=======
+# Amphispyris bria Tan & Su SPECIES
 
 #### Status
 ACCEPTED

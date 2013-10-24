@@ -1,5 +1,4 @@
-Micropeltis rechingeri Höhn. SPECIES
-=======
+# Micropeltis rechingeri Höhn. SPECIES
 
 #### Status
 ACCEPTED

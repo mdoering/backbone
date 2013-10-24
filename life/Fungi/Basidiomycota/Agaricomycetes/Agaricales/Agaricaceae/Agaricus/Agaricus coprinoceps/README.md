@@ -1,5 +1,4 @@
-Agaricus coprinoceps Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus coprinoceps Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

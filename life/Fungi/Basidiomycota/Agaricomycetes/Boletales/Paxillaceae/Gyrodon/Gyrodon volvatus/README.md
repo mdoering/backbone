@@ -1,5 +1,4 @@
-Gyrodon volvatus (Pers.) Opat. SPECIES
-=======
+# Gyrodon volvatus (Pers.) Opat. SPECIES
 
 #### Status
 ACCEPTED

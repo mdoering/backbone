@@ -1,5 +1,4 @@
-Cylindrocarpon pithyusae Kizik. SPECIES
-=======
+# Cylindrocarpon pithyusae Kizik. SPECIES
 
 #### Status
 ACCEPTED

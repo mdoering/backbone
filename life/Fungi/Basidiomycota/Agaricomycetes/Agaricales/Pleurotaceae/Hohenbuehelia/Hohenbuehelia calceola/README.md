@@ -1,5 +1,4 @@
-Hohenbuehelia calceola (Pat. & Demange) Singer SPECIES
-=======
+# Hohenbuehelia calceola (Pat. & Demange) Singer SPECIES
 
 #### Status
 ACCEPTED

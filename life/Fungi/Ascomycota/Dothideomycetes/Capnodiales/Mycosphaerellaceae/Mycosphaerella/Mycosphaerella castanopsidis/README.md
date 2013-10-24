@@ -1,5 +1,4 @@
-Mycosphaerella castanopsidis (Dearn.) Petr. SPECIES
-=======
+# Mycosphaerella castanopsidis (Dearn.) Petr. SPECIES
 
 #### Status
 ACCEPTED

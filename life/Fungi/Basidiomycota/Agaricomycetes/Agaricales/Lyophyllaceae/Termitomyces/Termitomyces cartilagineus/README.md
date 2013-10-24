@@ -1,5 +1,4 @@
-Termitomyces cartilagineus (Berk.) R. Heim SPECIES
-=======
+# Termitomyces cartilagineus (Berk.) R. Heim SPECIES
 
 #### Status
 ACCEPTED

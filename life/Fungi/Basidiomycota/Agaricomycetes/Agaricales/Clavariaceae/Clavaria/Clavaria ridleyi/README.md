@@ -1,5 +1,4 @@
-Clavaria ridleyi Massee SPECIES
-=======
+# Clavaria ridleyi Massee SPECIES
 
 #### Status
 ACCEPTED

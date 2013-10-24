@@ -1,5 +1,4 @@
-Buellia aequata var. aequata VARIETY
-=======
+# Buellia aequata (Ach.) Szatala SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Rechinger, Denkschr. Akad. Wiss. , Wein, Mathematische-naturwissenschaftliche Klasse 1: 53 (1943)
 
 #### Original name
-Buellia aequata var. aequata
+Lecidea coniops var. aequata Ach.
 
 ### Remarks
 null

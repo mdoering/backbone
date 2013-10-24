@@ -1,5 +1,4 @@
-Moniliopsis rigida Petch SPECIES
-=======
+# Moniliopsis rigida Petch SPECIES
 
 #### Status
 ACCEPTED

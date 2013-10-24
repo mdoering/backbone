@@ -1,5 +1,4 @@
-Sphacelaria spuria Sauvageau SPECIES
-=======
+# Sphacelaria spuria Sauvageau SPECIES
 
 #### Status
 ACCEPTED

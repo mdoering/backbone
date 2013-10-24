@@ -1,5 +1,4 @@
-Cryptococcus parasitarius (Trab.) Guég. SPECIES
-=======
+# Cryptococcus parasitarius (Trab.) Guég. SPECIES
 
 #### Status
 ACCEPTED

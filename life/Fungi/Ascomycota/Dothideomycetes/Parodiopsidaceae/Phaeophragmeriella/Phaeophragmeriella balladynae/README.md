@@ -1,5 +1,4 @@
-Phaeophragmeriella balladynae Hansf. SPECIES
-=======
+# Phaeophragmeriella balladynae Hansf. SPECIES
 
 #### Status
 ACCEPTED

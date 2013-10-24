@@ -1,5 +1,4 @@
-"Textularia articulata D' Orbigny" SPECIES
-=======
+# "Textularia articulata D' Orbigny" SPECIES
 
 #### Status
 ACCEPTED

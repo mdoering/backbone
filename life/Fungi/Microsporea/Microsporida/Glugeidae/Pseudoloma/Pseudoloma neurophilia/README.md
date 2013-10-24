@@ -1,5 +1,4 @@
-Pseudoloma neurophilia J.L. Matthews, A.M.V. Brown, K. Larison, J.K. Bishop-Stewart, P. Rogers & M.L. Kent SPECIES
-=======
+# Pseudoloma neurophilia J.L. Matthews, A.M.V. Brown, K. Larison, J.K. Bishop-Stewart, P. Rogers & M.L. Kent SPECIES
 
 #### Status
 ACCEPTED

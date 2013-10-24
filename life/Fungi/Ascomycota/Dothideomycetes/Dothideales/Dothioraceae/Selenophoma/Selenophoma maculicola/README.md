@@ -1,5 +1,4 @@
-Selenophoma maculicola Wehm. SPECIES
-=======
+# Selenophoma maculicola Wehm. SPECIES
 
 #### Status
 ACCEPTED

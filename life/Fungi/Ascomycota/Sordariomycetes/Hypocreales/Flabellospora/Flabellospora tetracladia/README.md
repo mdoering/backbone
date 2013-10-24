@@ -1,14 +1,13 @@
-Flabellocladia tetracladia (Nawawi) Nawawi, 1985 SPECIES
-=======
+# Flabellospora tetracladia Nawawi, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 85(1): 175 (1985)
+Malaysian J. Sci. 2A: 55 (1973)
 
 #### Original name
 Flabellospora tetracladia Nawawi, 1973

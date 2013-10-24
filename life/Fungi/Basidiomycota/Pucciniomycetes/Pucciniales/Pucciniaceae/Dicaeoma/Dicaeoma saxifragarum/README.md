@@ -1,5 +1,4 @@
-Dicaeoma saxifragarum (Schltdl.) Kuntze SPECIES
-=======
+# Dicaeoma saxifragarum (Schltdl.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

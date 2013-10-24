@@ -1,5 +1,4 @@
-Russula psammophila Singer SPECIES
-=======
+# Russula psammophila Singer SPECIES
 
 #### Status
 ACCEPTED

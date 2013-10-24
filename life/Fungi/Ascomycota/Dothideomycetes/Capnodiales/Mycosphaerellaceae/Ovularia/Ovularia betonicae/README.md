@@ -1,5 +1,4 @@
-Ovularia betonicae C. Massal. SPECIES
-=======
+# Ovularia betonicae C. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora oligocarpa Printzen & Tønsberg SPECIES
-=======
+# Biatora oligocarpa Printzen & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

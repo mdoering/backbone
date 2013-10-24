@@ -1,5 +1,4 @@
-Fungus mamillatus (Kalchbr.) Kuntze SPECIES
-=======
+# Fungus mamillatus (Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

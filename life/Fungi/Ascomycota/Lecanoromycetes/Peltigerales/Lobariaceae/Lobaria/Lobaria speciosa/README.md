@@ -1,5 +1,4 @@
-Lobaria speciosa SPECIES
-=======
+# Lobaria speciosa SPECIES
 
 #### Status
 ACCEPTED

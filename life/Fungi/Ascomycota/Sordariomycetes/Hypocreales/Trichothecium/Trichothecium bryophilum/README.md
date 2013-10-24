@@ -1,5 +1,4 @@
-Trichothecium bryophilum Kavina SPECIES
-=======
+# Trichothecium bryophilum Kavina SPECIES
 
 #### Status
 ACCEPTED

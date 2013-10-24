@@ -1,5 +1,4 @@
-Chaetostroma aterrimum (Cooke) Sacc. SPECIES
-=======
+# Chaetostroma aterrimum (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

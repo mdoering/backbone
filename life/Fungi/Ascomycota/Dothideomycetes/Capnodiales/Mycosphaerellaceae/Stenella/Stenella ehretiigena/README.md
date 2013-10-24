@@ -1,17 +1,16 @@
-Stenella ehretigena S. Chaudhary & R.K. Chaudhary SPECIES
-=======
+# Stenella ehretiigena S. Chaudhary & R.K. Chaudhary SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Frontiers of Fungal Diversity in India (Lucknow), (Prof. Kamal Festschrift) 591 (2003)
 
 #### Original name
-Stenella ehretigena S. Chaudhary & R.K. Chaudhary
+Stenella ehretiigena S. Chaudhary & R.K. Chaudhary
 
 ### Remarks
 null

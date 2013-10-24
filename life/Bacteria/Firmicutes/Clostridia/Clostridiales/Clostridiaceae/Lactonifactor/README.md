@@ -1,5 +1,4 @@
-Lactonifactor Clavel et al., 2007 GENUS
-=======
+# Lactonifactor Clavel et al., 2007 GENUS
 
 #### Status
 ACCEPTED

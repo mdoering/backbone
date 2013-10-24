@@ -1,5 +1,4 @@
-Phloeospora tremulae Woron. SPECIES
-=======
+# Phloeospora tremulae Woron. SPECIES
 
 #### Status
 ACCEPTED

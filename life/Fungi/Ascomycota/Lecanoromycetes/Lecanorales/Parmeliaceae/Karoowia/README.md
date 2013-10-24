@@ -1,5 +1,4 @@
-Karoowia Hale GENUS
-=======
+# Karoowia Hale GENUS
 
 #### Status
 ACCEPTED

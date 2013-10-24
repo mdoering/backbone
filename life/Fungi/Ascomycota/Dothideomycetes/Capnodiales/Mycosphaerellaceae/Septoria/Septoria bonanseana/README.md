@@ -1,5 +1,4 @@
-Septoria bonanseana Sacc. SPECIES
-=======
+# Septoria bonanseana Sacc. SPECIES
 
 #### Status
 ACCEPTED

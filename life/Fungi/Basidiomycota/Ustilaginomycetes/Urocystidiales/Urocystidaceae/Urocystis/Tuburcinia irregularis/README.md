@@ -1,5 +1,4 @@
-Tuburcinia irregularis (G. Winter) Liro SPECIES
-=======
+# Tuburcinia irregularis (G. Winter) Liro SPECIES
 
 #### Status
 ACCEPTED

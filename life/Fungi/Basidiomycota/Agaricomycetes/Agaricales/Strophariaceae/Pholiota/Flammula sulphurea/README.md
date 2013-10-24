@@ -1,5 +1,4 @@
-Flammula sulphurea Peck SPECIES
-=======
+# Flammula sulphurea Peck SPECIES
 
 #### Status
 ACCEPTED

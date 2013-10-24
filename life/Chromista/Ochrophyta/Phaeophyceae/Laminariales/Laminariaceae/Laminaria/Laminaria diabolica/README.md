@@ -1,5 +1,4 @@
-Laminaria diabolica f. longipes Miyabe & Tokida FORM
-=======
+# Laminaria diabolica Miyabe SPECIES
 
 #### Status
 ACCEPTED

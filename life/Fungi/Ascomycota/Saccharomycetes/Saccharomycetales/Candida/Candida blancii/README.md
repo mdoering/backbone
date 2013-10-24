@@ -1,5 +1,4 @@
-Candida blancii Catanei SPECIES
-=======
+# Candida blancii Catanei SPECIES
 
 #### Status
 ACCEPTED

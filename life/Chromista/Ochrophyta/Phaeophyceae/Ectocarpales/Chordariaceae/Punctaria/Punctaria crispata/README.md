@@ -1,8 +1,7 @@
-Punctaria laminarioides P.L. Crouan & H.M. Crouan SPECIES
-=======
+# Punctaria crispata (Kützing) Batters SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

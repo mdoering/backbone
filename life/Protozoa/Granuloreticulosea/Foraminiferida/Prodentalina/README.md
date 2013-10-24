@@ -1,5 +1,4 @@
-Prodentalina Norling, 1968 GENUS
-=======
+# Prodentalina Norling, 1968 GENUS
 
 #### Status
 ACCEPTED

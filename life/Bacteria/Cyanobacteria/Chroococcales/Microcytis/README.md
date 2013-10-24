@@ -1,5 +1,4 @@
-Microcytis GENUS
-=======
+# Microcytis GENUS
 
 #### Status
 ACCEPTED

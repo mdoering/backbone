@@ -1,5 +1,4 @@
-Mastocephalus repandus Clem. SPECIES
-=======
+# Mastocephalus repandus Clem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galerula bryophila (Peck) G.F. Atk. SPECIES
-=======
+# Galerula bryophila (Peck) G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synchytrium emiliae T.S. Ramakr. & Sundaram SPECIES
-=======
+# Synchytrium emiliae T.S. Ramakr. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

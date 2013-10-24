@@ -1,5 +1,4 @@
-Marasmius sericipes Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius sericipes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

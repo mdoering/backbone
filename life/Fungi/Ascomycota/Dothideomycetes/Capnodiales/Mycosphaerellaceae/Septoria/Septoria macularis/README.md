@@ -1,5 +1,4 @@
-Septoria macularis Lév. SPECIES
-=======
+# Septoria macularis Lév. SPECIES
 
 #### Status
 ACCEPTED

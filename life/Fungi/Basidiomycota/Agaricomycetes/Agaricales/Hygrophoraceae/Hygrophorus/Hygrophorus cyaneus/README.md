@@ -1,5 +1,4 @@
-Hygrophorus cyaneus Berk. SPECIES
-=======
+# Hygrophorus cyaneus Berk. SPECIES
 
 #### Status
 ACCEPTED

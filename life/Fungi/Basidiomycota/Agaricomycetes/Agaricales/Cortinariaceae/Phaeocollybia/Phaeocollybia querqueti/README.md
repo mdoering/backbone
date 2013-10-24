@@ -1,5 +1,4 @@
-Phaeocollybia querqueti Corner & E. Horak SPECIES
-=======
+# Phaeocollybia querqueti Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

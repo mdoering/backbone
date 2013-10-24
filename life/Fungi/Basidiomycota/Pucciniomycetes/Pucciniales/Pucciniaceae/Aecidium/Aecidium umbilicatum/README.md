@@ -1,5 +1,4 @@
-Aecidium umbilicatum Berk. & Broome SPECIES
-=======
+# Aecidium umbilicatum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

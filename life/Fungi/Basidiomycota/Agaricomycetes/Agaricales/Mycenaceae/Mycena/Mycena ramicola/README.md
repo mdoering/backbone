@@ -1,5 +1,4 @@
-Mycena ramicola Raithelh. SPECIES
-=======
+# Mycena ramicola Raithelh. SPECIES
 
 #### Status
 ACCEPTED

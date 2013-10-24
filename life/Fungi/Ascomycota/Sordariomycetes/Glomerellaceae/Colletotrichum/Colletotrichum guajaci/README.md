@@ -1,5 +1,4 @@
-Colletotrichum guajaci Syd. SPECIES
-=======
+# Colletotrichum guajaci Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria megalotheca (Theiss.) You Z. Wang, Aptroot & K.D. Hyde SPECIES
-=======
+# Leptosphaeria megalotheca (Theiss.) You Z. Wang, Aptroot & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

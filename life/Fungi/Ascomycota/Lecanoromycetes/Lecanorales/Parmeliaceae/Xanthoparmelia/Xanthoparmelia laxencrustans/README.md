@@ -1,17 +1,16 @@
-Xanthoparmelia encrustans (Hale) Hale SPECIES
-=======
+# Xanthoparmelia laxencrustans Elix & J. Johnst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytologia 28(5): 487 (1974)
+in Elix, Johnston & Armstrong, Bull. Br. Mus. nat. Hist. , Bot. 15(3): 275 (1986)
 
 #### Original name
-Parmelia encrustans Hale
+Xanthoparmelia laxencrustans Elix & J. Johnst.
 
 ### Remarks
 null

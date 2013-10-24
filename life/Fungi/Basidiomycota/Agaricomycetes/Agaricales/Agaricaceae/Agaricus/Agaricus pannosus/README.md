@@ -1,5 +1,4 @@
-Agaricus pannosus Fr. SPECIES
-=======
+# Agaricus pannosus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phragmothyrium smilacis Bat. & H. Maia SPECIES
-=======
+# Phragmothyrium smilacis Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

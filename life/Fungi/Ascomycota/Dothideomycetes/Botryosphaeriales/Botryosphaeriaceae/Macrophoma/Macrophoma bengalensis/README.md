@@ -1,5 +1,4 @@
-Macrophoma bengalensis B.K. Bakshi SPECIES
-=======
+# Macrophoma bengalensis B.K. Bakshi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactobacillus salivarius subsp. salivarius SUBSPECIES
-=======
+# Lactobacillus salivarius Rogosa et al., 1953 SPECIES
 
 #### Status
 ACCEPTED

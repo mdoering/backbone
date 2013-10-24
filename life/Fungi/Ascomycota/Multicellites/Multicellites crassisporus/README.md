@@ -1,5 +1,4 @@
-Multicellites crassisporus (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
-=======
+# Multicellites crassisporus (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

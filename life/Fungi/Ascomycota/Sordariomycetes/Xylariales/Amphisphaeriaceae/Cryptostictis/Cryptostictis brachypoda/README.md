@@ -1,5 +1,4 @@
-Cryptostictis brachypoda (Sacc.) Guba SPECIES
-=======
+# Cryptostictis brachypoda (Sacc.) Guba SPECIES
 
 #### Status
 ACCEPTED

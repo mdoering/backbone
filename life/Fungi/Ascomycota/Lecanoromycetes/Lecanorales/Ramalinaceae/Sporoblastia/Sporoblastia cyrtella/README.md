@@ -1,5 +1,4 @@
-Sporoblastia cyrtella (Ach.) Trevis. SPECIES
-=======
+# Sporoblastia cyrtella (Ach.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

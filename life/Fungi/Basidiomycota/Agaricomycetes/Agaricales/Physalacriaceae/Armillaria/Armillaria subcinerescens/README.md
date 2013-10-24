@@ -1,5 +1,4 @@
-Armillaria subcinerescens Rick SPECIES
-=======
+# Armillaria subcinerescens Rick SPECIES
 
 #### Status
 ACCEPTED

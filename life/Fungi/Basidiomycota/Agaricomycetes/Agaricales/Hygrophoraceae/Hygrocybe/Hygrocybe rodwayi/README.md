@@ -1,5 +1,4 @@
-Hygrocybe rodwayi (Massee) A.M. Young SPECIES
-=======
+# Hygrocybe rodwayi (Massee) A.M. Young SPECIES
 
 #### Status
 ACCEPTED

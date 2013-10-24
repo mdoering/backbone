@@ -1,5 +1,4 @@
-Coprinopsis tigrina (Pat.) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis tigrina (Pat.) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

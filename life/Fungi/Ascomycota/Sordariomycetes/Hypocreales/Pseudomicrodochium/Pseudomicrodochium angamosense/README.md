@@ -1,5 +1,4 @@
-Pseudomicrodochium angamosense Matsush. SPECIES
-=======
+# Pseudomicrodochium angamosense Matsush. SPECIES
 
 #### Status
 ACCEPTED

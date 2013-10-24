@@ -1,5 +1,4 @@
-Stygiomyces Coppins & S.Y. Kondr. GENUS
-=======
+# Stygiomyces Coppins & S.Y. Kondr. GENUS
 
 #### Status
 ACCEPTED

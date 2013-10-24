@@ -1,5 +1,4 @@
-Laestadia saxifragae Sacc. & Scalia SPECIES
-=======
+# Laestadia saxifragae Sacc. & Scalia SPECIES
 
 #### Status
 ACCEPTED

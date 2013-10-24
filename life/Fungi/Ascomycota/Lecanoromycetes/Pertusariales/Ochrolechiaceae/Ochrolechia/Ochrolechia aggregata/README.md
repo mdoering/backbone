@@ -1,5 +1,4 @@
-Ochrolechia aggregata (Bagl.) Verseghy SPECIES
-=======
+# Ochrolechia aggregata (Bagl.) Verseghy SPECIES
 
 #### Status
 ACCEPTED

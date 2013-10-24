@@ -1,5 +1,4 @@
-Clitocybe raphaniolens P. Karst. SPECIES
-=======
+# Clitocybe raphaniolens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces hidakaensis Muray. & Takeuchi SPECIES
-=======
+# Uromyces hidakaensis Muray. & Takeuchi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Globosphaeria jamesii D. Hawksw., 1990 SPECIES
-=======
+# Globosphaeria jamesii D. Hawksw., 1990 SPECIES
 
 #### Status
 ACCEPTED

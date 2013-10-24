@@ -1,14 +1,13 @@
-Barlaea minuta Velen., 1934 SPECIES
-=======
+# Lamprospora minuta (Velen.) Svrcek, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Discom. Bohem. (Prague) 322 (1934)
+Ceská Mykol. 31(2): 69 (1977)
 
 #### Original name
 Barlaea minuta Velen., 1934

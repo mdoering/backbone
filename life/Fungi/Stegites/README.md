@@ -1,5 +1,4 @@
-Stegites Mesch. GENUS
-=======
+# Stegites Mesch. GENUS
 
 #### Status
 ACCEPTED

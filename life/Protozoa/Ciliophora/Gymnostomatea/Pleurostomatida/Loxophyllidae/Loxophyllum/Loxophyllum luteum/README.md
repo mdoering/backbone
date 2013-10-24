@@ -1,5 +1,4 @@
-Loxophyllum luteum SPECIES
-=======
+# Loxophyllum luteum SPECIES
 
 #### Status
 ACCEPTED

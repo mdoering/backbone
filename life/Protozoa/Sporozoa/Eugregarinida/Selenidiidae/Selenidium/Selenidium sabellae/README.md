@@ -1,5 +1,4 @@
-Selenidium sabellae Lankester, 1863 SPECIES
-=======
+# Selenidium sabellae Lankester, 1863 SPECIES
 
 #### Status
 ACCEPTED

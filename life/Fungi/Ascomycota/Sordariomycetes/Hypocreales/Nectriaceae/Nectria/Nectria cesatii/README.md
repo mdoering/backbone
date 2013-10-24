@@ -1,5 +1,4 @@
-Nectria cesatii Mont. SPECIES
-=======
+# Nectria cesatii Mont. SPECIES
 
 #### Status
 ACCEPTED

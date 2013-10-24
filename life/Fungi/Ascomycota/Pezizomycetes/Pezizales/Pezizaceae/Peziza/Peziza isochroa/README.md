@@ -1,5 +1,4 @@
-Peziza isochroa Fr. SPECIES
-=======
+# Peziza isochroa Fr. SPECIES
 
 #### Status
 ACCEPTED

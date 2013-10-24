@@ -1,5 +1,4 @@
-Filaspora salicella (Berk. & Broome) Kuntze SPECIES
-=======
+# Filaspora salicella (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

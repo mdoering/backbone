@@ -1,5 +1,4 @@
-Hamatocanthoscypha cuneata (Velen.) Svrcek SPECIES
-=======
+# Hamatocanthoscypha cuneata (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

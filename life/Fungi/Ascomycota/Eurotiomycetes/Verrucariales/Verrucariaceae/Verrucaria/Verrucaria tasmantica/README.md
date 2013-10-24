@@ -1,5 +1,4 @@
-Verrucaria tasmantica P.M. McCarthy SPECIES
-=======
+# Verrucaria tasmantica P.M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

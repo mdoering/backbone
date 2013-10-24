@@ -1,5 +1,4 @@
-Aecidium kowhai G. Cunn. SPECIES
-=======
+# Aecidium kowhai G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

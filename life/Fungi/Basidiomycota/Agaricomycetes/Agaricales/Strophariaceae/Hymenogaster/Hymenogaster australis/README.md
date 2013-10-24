@@ -1,5 +1,4 @@
-Hymenogaster australis (Speg.) Speg. SPECIES
-=======
+# Hymenogaster australis (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

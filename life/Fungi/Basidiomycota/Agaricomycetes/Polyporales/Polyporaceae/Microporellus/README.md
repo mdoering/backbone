@@ -1,5 +1,4 @@
-Microporellus Murrill, 1905 GENUS
-=======
+# Microporellus Murrill, 1905 GENUS
 
 #### Status
 ACCEPTED

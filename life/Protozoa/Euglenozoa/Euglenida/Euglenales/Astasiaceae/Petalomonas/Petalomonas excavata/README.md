@@ -1,5 +1,4 @@
-Petalomonas excavata Skuja SPECIES
-=======
+# Petalomonas excavata Skuja SPECIES
 
 #### Status
 ACCEPTED

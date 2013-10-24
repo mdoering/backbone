@@ -1,5 +1,4 @@
-Otidea sinensis J.Z. Cao & L. Fan SPECIES
-=======
+# Otidea sinensis J.Z. Cao & L. Fan SPECIES
 
 #### Status
 ACCEPTED

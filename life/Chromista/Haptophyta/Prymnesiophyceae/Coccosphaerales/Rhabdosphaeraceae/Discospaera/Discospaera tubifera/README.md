@@ -1,5 +1,4 @@
-Discospaera tubifera (Murray & Blackman) Ostenfeld, 1898 SPECIES
-=======
+# Discospaera tubifera (Murray & Blackman) Ostenfeld, 1898 SPECIES
 
 #### Status
 ACCEPTED

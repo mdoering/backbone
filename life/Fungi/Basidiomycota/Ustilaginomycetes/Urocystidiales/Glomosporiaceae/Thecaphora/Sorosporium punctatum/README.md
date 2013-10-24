@@ -1,5 +1,4 @@
-Sorosporium punctatum Malençon & Yen {?} SPECIES
-=======
+# Sorosporium punctatum Malençon & Yen {?} SPECIES
 
 #### Status
 ACCEPTED

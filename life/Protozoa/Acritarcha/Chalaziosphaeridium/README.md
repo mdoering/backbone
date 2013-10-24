@@ -1,5 +1,4 @@
-Chalaziosphaeridium W.A.S. Sarjeant & Stancliffe, 1994 GENUS
-=======
+# Chalaziosphaeridium W.A.S. Sarjeant & Stancliffe, 1994 GENUS
 
 #### Status
 ACCEPTED

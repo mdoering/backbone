@@ -1,5 +1,4 @@
-Mucor primus var. primus VARIETY
-=======
+# Mucor primus Schaeff. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Fung. Bavar. Palat. 2: tab. 192 (1763)
 
 #### Original name
-Mucor primus var. primus
+Mucor primus Schaeff.
 
 ### Remarks
 null

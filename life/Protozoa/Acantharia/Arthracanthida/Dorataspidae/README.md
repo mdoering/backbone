@@ -1,5 +1,4 @@
-Dorataspidae Haeckel, 1887 FAMILY
-=======
+# Dorataspidae Haeckel, 1887 FAMILY
 
 #### Status
 ACCEPTED

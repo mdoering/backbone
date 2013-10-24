@@ -1,5 +1,4 @@
-Sphaeria perversum De Not. SPECIES
-=======
+# Sphaeria perversum De Not. SPECIES
 
 #### Status
 ACCEPTED

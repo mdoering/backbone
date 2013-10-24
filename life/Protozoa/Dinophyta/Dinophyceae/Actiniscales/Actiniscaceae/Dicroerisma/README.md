@@ -1,14 +1,13 @@
-Discroerisma F.J.R. Taylor & S.A. Cattell, 1969 GENUS
-=======
+# Dicroerisma Taylor & Cattell, 1970 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Protistologica 5: 169 (also as Dicroerisma).
+Protistologica 5: 169 (as Discroerisma; also as Dicroerisma).
 
 #### Original name
 null

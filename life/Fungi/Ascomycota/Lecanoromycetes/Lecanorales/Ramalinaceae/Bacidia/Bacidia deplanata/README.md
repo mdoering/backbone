@@ -1,5 +1,4 @@
-Bacidia deplanata (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia deplanata (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

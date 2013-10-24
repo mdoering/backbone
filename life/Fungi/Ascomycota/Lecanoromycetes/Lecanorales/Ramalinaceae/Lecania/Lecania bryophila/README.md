@@ -1,5 +1,4 @@
-Lecania bryophila Etayo & Van den Boom SPECIES
-=======
+# Lecania bryophila Etayo & Van den Boom SPECIES
 
 #### Status
 ACCEPTED

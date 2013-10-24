@@ -1,5 +1,4 @@
-Crepidotus subsapidus Murrill SPECIES
-=======
+# Crepidotus subsapidus Murrill SPECIES
 
 #### Status
 ACCEPTED

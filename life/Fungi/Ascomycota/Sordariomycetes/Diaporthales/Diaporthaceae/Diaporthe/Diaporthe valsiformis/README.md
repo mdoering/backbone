@@ -1,5 +1,4 @@
-Diaporthe valsiformis Rehm SPECIES
-=======
+# Diaporthe valsiformis Rehm SPECIES
 
 #### Status
 ACCEPTED

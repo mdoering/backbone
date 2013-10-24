@@ -1,5 +1,4 @@
-Cortinarius semudaphilus Rob. Henry SPECIES
-=======
+# Cortinarius semudaphilus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

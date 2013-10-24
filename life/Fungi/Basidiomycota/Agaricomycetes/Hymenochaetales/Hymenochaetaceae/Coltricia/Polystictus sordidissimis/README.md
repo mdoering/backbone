@@ -1,5 +1,4 @@
-Polystictus sordidissimis SPECIES
-=======
+# Polystictus sordidissimis SPECIES
 
 #### Status
 ACCEPTED

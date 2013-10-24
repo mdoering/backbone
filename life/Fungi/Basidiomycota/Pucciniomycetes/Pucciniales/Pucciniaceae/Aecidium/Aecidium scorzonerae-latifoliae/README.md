@@ -1,5 +1,4 @@
-Aecidium scorzonerae-latifoliae M. Abbasi, Gjaerum & Hedjar. SPECIES
-=======
+# Aecidium scorzonerae-latifoliae M. Abbasi, Gjaerum & Hedjar. SPECIES
 
 #### Status
 ACCEPTED

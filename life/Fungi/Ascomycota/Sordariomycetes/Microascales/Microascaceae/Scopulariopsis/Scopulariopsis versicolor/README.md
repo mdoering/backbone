@@ -1,5 +1,4 @@
-Scopulariopsis versicolor Salv.-Duval SPECIES
-=======
+# Scopulariopsis versicolor Salv.-Duval SPECIES
 
 #### Status
 ACCEPTED

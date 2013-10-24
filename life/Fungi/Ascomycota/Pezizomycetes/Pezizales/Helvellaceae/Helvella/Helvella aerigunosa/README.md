@@ -1,5 +1,4 @@
-Helvella aerigunosa Pers. SPECIES
-=======
+# Helvella aerigunosa Pers. SPECIES
 
 #### Status
 ACCEPTED

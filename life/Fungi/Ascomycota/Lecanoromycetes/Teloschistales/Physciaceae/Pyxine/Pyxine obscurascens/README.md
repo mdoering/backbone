@@ -1,5 +1,4 @@
-Pyxine obscurascens Malme SPECIES
-=======
+# Pyxine obscurascens Malme SPECIES
 
 #### Status
 ACCEPTED

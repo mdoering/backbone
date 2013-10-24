@@ -1,5 +1,4 @@
-Mycena madorophila H.E. Bigelow SPECIES
-=======
+# Mycena madorophila H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

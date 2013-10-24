@@ -1,5 +1,4 @@
-Pestalozzina geranii-pusilli C. Massal. SPECIES
-=======
+# Pestalozzina geranii-pusilli C. Massal. SPECIES
 
 #### Status
 ACCEPTED

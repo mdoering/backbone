@@ -1,5 +1,4 @@
-Eutypa salicicola Allesch. SPECIES
-=======
+# Eutypa salicicola Allesch. SPECIES
 
 #### Status
 ACCEPTED

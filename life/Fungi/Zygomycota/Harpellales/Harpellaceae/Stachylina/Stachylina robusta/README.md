@@ -1,5 +1,4 @@
-Stachylina robusta Lichtw. & M.C. Williams, 1999 SPECIES
-=======
+# Stachylina robusta Lichtw. & M.C. Williams, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Isaria aviaria Sacc. SPECIES
-=======
+# Isaria aviaria Sacc. SPECIES
 
 #### Status
 ACCEPTED

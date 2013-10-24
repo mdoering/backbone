@@ -1,5 +1,4 @@
-Leptonia staudtii Henn. SPECIES
-=======
+# Leptonia staudtii Henn. SPECIES
 
 #### Status
 ACCEPTED

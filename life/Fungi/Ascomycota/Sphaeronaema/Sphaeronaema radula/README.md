@@ -1,5 +1,4 @@
-Sphaeronaema radula Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeronaema radula Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

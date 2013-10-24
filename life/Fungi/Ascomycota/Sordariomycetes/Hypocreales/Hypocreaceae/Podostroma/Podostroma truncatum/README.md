@@ -1,5 +1,4 @@
-Podostroma truncatum S. Imai SPECIES
-=======
+# Podostroma truncatum S. Imai SPECIES
 
 #### Status
 ACCEPTED

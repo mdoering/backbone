@@ -1,5 +1,4 @@
-Boletus fuscoroseus Smotl. SPECIES
-=======
+# Boletus fuscoroseus Smotl. SPECIES
 
 #### Status
 ACCEPTED

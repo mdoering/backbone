@@ -1,5 +1,4 @@
-Polystictus hodgkinsoniae var. hodgkinsoniae VARIETY
-=======
+# Polystictus hodgkinsoniae (Kalchbr.) Rick SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Rambo (Ed. ), Iheringia, Sér. Bot. 7: 246 (1960)
 
 #### Original name
-Polystictus hodgkinsoniae var. hodgkinsoniae
+Polystictus elongatus var. hodgkinsoniae (Kalchbr.) Cooke
 
 ### Remarks
 null

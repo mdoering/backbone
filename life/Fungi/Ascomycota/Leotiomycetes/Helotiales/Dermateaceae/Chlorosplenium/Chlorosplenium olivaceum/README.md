@@ -1,5 +1,4 @@
-Chlorosplenium olivaceum Seaver SPECIES
-=======
+# Chlorosplenium olivaceum Seaver SPECIES
 
 #### Status
 ACCEPTED

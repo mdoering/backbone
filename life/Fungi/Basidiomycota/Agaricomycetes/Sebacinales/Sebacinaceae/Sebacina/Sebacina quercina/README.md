@@ -1,5 +1,4 @@
-Sebacina quercina Maire SPECIES
-=======
+# Sebacina quercina Maire SPECIES
 
 #### Status
 ACCEPTED

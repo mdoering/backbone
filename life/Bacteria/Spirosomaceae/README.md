@@ -1,5 +1,4 @@
-Spirosomaceae FAMILY
-=======
+# Spirosomaceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Uredo heliconiae Dietel, 1897 SPECIES
-=======
+# Puccinia heliconiae Arthur, 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 36: 35 (1897)
+Bull. Torrey bot. Club 45: 144 (1918)
 
 #### Original name
-Uredo heliconiae Dietel, 1897
+Puccinia heliconiae Arthur, 1918
 
 ### Remarks
 null

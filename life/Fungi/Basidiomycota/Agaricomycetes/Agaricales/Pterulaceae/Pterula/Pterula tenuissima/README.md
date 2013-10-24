@@ -1,14 +1,13 @@
-Typhula tenuissima M.A. Curtis, 1848 SPECIES
-=======
+# Pterula tenuissima (M.A. Curtis) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. Journ. Art. Scienc. 6: (1848)
+Ann. Bot. Mem. 1: 524 (1950)
 
 #### Original name
 Typhula tenuissima M.A. Curtis, 1848

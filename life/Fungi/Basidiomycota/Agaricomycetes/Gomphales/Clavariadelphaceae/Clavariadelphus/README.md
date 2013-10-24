@@ -1,5 +1,4 @@
-Clavariadelphus Donk, 1933 GENUS
-=======
+# Clavariadelphus Donk, 1933 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptonia subtenuipes (Murrill) Largent SPECIES
-=======
+# Leptonia subtenuipes (Murrill) Largent SPECIES
 
 #### Status
 ACCEPTED

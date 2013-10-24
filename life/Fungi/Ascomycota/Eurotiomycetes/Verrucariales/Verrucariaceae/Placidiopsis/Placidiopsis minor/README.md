@@ -1,5 +1,4 @@
-Placidiopsis minor R.C. Harris SPECIES
-=======
+# Placidiopsis minor R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

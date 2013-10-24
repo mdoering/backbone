@@ -1,5 +1,4 @@
-Pertusaria ceylonica Müll. Arg. SPECIES
-=======
+# Pertusaria ceylonica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

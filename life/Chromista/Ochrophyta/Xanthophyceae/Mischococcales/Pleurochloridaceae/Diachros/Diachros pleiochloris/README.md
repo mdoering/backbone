@@ -1,5 +1,4 @@
-Diachros pleiochloris Pascher SPECIES
-=======
+# Diachros pleiochloris Pascher SPECIES
 
 #### Status
 ACCEPTED

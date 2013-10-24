@@ -1,5 +1,4 @@
-Arthothelium vermiferum SPECIES
-=======
+# Arthothelium vermiferum SPECIES
 
 #### Status
 ACCEPTED

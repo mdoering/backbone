@@ -1,5 +1,4 @@
-Phloeospora salicis Bubák & Vleugel SPECIES
-=======
+# Phloeospora salicis Bubák & Vleugel SPECIES
 
 #### Status
 ACCEPTED

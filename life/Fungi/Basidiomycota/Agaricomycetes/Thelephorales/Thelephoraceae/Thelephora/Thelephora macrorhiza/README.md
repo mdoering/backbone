@@ -1,5 +1,4 @@
-Thelephora macrorhiza Lév. SPECIES
-=======
+# Thelephora macrorhiza Lév. SPECIES
 
 #### Status
 ACCEPTED

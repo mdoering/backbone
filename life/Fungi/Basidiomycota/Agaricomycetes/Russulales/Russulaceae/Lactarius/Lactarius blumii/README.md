@@ -1,5 +1,4 @@
-Lactarius blumii Bon SPECIES
-=======
+# Lactarius blumii Bon SPECIES
 
 #### Status
 ACCEPTED

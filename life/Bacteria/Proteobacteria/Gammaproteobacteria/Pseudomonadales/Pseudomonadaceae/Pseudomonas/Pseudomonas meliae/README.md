@@ -1,5 +1,4 @@
-Pseudomonas meliae Ogimi, 1981 SPECIES
-=======
+# Pseudomonas meliae Ogimi, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphileptus gutta Kalmus, 1929 SPECIES
-=======
+# Amphileptus gutta Kalmus, 1929 SPECIES
 
 #### Status
 ACCEPTED

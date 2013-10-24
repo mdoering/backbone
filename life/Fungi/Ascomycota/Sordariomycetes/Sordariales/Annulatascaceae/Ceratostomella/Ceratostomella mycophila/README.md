@@ -1,5 +1,4 @@
-Ceratostomella mycophila Rick SPECIES
-=======
+# Ceratostomella mycophila Rick SPECIES
 
 #### Status
 ACCEPTED

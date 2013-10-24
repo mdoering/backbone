@@ -1,5 +1,4 @@
-Amanita clypeolaria Sacc. SPECIES
-=======
+# Amanita clypeolaria Sacc. SPECIES
 
 #### Status
 ACCEPTED

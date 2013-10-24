@@ -1,5 +1,4 @@
-Bargoniella Loeblich, Jr. & Tappan GENUS
-=======
+# Bargoniella Loeblich, Jr. & Tappan GENUS
 
 #### Status
 ACCEPTED

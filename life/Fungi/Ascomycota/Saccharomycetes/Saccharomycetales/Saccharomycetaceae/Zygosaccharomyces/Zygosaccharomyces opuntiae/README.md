@@ -1,5 +1,4 @@
-Zygosaccharomyces opuntiae Cif. SPECIES
-=======
+# Zygosaccharomyces opuntiae Cif. SPECIES
 
 #### Status
 ACCEPTED

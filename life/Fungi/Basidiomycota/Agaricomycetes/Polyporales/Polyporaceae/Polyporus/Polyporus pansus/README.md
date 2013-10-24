@@ -1,5 +1,4 @@
-Polyporus pansus Berk. SPECIES
-=======
+# Polyporus pansus Berk. SPECIES
 
 #### Status
 ACCEPTED

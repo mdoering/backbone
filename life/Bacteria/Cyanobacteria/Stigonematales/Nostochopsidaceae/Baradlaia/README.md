@@ -1,5 +1,4 @@
-Baradlaia P.Palik, 1960 GENUS
-=======
+# Baradlaia P.Palik, 1960 GENUS
 
 #### Status
 ACCEPTED

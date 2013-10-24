@@ -1,5 +1,4 @@
-Phaeophyscia endococcinea (Körb.) Moberg SPECIES
-=======
+# Phaeophyscia endococcinea (Körb.) Moberg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tintinnopsis prowazeki Faria & Cunha, 1917 SPECIES
-=======
+# Tintinnopsis prowazeki Faria & Cunha, 1917 SPECIES
 
 #### Status
 ACCEPTED

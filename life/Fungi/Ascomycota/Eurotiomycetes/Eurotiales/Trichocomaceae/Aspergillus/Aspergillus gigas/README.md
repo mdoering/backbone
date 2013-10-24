@@ -1,5 +1,4 @@
-Aspergillus gigas Speg. SPECIES
-=======
+# Aspergillus gigas Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria medusina Fr. SPECIES
-=======
+# Sphaeria medusina Fr. SPECIES
 
 #### Status
 ACCEPTED

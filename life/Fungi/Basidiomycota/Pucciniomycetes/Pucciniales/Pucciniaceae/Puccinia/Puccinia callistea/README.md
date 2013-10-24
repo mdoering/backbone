@@ -1,5 +1,4 @@
-Puccinia callistea Syd. & P. Syd. SPECIES
-=======
+# Puccinia callistea Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteromella cynanchicola Petr. SPECIES
-=======
+# Asteromella cynanchicola Petr. SPECIES
 
 #### Status
 ACCEPTED

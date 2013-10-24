@@ -1,5 +1,4 @@
-Gonatophragmium kuanense A.N. Rai SPECIES
-=======
+# Gonatophragmium kuanense A.N. Rai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caeoma cladosporii (Corda) Bonord. SPECIES
-=======
+# Caeoma cladosporii (Corda) Bonord. SPECIES
 
 #### Status
 ACCEPTED

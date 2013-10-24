@@ -1,5 +1,4 @@
-Fomes nigriporus Lázaro Ibiza SPECIES
-=======
+# Fomes nigriporus Lázaro Ibiza SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microthelia grumata (Cooke) Kuntze SPECIES
-=======
+# Microthelia grumata (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

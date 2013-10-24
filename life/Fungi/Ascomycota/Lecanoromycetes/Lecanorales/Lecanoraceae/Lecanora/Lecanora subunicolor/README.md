@@ -1,5 +1,4 @@
-Lecanora subunicolor Nyl. SPECIES
-=======
+# Lecanora subunicolor Nyl. SPECIES
 
 #### Status
 ACCEPTED

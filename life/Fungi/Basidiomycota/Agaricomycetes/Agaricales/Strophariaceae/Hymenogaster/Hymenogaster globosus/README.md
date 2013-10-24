@@ -1,5 +1,4 @@
-Hymenogaster globosus Harkn. SPECIES
-=======
+# Hymenogaster globosus Harkn. SPECIES
 
 #### Status
 ACCEPTED

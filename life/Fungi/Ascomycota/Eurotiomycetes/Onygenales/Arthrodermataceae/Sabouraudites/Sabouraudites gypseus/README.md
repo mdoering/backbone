@@ -1,5 +1,4 @@
-Sabouraudites gypseus (E. Bodin) M. Ota & Langeron SPECIES
-=======
+# Sabouraudites gypseus (E. Bodin) M. Ota & Langeron SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erwinia aphidicola Harada et al., 1998 SPECIES
-=======
+# Erwinia aphidicola Harada et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

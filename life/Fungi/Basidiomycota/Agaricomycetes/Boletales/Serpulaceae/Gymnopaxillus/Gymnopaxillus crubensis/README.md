@@ -1,5 +1,4 @@
-Gymnopaxillus crubensis Calvelo & Lorenzo, 1989 SPECIES
-=======
+# Gymnopaxillus crubensis Calvelo & Lorenzo, 1989 SPECIES
 
 #### Status
 ACCEPTED

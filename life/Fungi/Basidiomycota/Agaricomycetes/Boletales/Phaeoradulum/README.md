@@ -1,5 +1,4 @@
-Phaeoradulum Pat. GENUS
-=======
+# Phaeoradulum Pat. GENUS
 
 #### Status
 ACCEPTED

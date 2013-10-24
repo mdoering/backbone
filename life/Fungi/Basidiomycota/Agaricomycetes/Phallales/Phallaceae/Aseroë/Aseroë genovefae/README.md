@@ -1,5 +1,4 @@
-Aseroë genovefae Decary SPECIES
-=======
+# Aseroë genovefae Decary SPECIES
 
 #### Status
 ACCEPTED

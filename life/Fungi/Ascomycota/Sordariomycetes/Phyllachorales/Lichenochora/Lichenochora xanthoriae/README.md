@@ -1,5 +1,4 @@
-Lichenochora xanthoriae Triebel & Rambold, 1991 SPECIES
-=======
+# Lichenochora xanthoriae Triebel & Rambold, 1991 SPECIES
 
 #### Status
 ACCEPTED

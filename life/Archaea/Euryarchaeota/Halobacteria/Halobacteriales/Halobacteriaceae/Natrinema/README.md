@@ -1,5 +1,4 @@
-Natrinema McGenity et al., 1998 GENUS
-=======
+# Natrinema McGenity et al., 1998 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chroococcus purpureus Snow SPECIES
-=======
+# Chroococcus purpureus Snow SPECIES
 
 #### Status
 ACCEPTED

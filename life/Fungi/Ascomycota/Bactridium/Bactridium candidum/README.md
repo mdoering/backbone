@@ -1,5 +1,4 @@
-Bactridium candidum Kunze & J.C. Schmidt SPECIES
-=======
+# Bactridium candidum Kunze & J.C. Schmidt SPECIES
 
 #### Status
 ACCEPTED

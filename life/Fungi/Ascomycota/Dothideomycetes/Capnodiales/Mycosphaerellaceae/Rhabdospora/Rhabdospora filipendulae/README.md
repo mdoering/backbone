@@ -1,5 +1,4 @@
-Rhabdospora filipendulae Sandu & Mítítíuc SPECIES
-=======
+# Rhabdospora filipendulae Sandu & Mítítíuc SPECIES
 
 #### Status
 ACCEPTED

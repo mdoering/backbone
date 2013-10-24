@@ -1,5 +1,4 @@
-Pseudocercospora barringtoniae-acutangulae U. Braun & Mouch. SPECIES
-=======
+# Pseudocercospora barringtoniae-acutangulae U. Braun & Mouch. SPECIES
 
 #### Status
 ACCEPTED

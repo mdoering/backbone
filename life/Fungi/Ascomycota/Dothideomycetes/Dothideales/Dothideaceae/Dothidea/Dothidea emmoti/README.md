@@ -1,5 +1,4 @@
-Dothidea emmoti Henn. SPECIES
-=======
+# Dothidea emmoti Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthothelium rechingeri J. Steiner SPECIES
-=======
+# Arthothelium rechingeri J. Steiner SPECIES
 
 #### Status
 ACCEPTED

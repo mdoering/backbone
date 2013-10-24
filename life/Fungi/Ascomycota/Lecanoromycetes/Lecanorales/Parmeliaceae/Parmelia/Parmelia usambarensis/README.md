@@ -1,5 +1,4 @@
-Parmelia usambarensis J. Steiner & Zahlbr. SPECIES
-=======
+# Parmelia usambarensis J. Steiner & Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiodothis fici Earle SPECIES
-=======
+# Ophiodothis fici Earle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nosema empoascae SPECIES
-=======
+# Nosema empoascae SPECIES
 
 #### Status
 ACCEPTED

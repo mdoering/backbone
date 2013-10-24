@@ -1,11 +1,10 @@
-Nouria polymorphinoides var. halkyardi Heron-Allen & Earland, 1919 VARIETY
-=======
+# Nouria polymorphinoides Heron-Allen & Earland, 1914 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Syntrophomonas McInerney et al., 1982 GENUS
-=======
+# Syntrophomonas McInerney et al., 1982 GENUS
 
 #### Status
 ACCEPTED

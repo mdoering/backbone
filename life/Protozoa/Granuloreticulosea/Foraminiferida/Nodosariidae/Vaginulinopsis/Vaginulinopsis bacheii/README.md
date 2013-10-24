@@ -1,5 +1,4 @@
-Vaginulinopsis bacheii SPECIES
-=======
+# Vaginulinopsis bacheii SPECIES
 
 #### Status
 ACCEPTED

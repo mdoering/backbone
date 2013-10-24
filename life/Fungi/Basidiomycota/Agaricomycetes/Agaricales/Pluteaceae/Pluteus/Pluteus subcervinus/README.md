@@ -1,5 +1,4 @@
-Pluteus subcervinus (Berk. & Broome) Sacc. SPECIES
-=======
+# Pluteus subcervinus (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

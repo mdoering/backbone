@@ -1,5 +1,4 @@
-Cerebella ischaemicola Sawada SPECIES
-=======
+# Cerebella ischaemicola Sawada SPECIES
 
 #### Status
 ACCEPTED

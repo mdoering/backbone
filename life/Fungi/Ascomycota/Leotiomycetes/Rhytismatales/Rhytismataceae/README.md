@@ -1,5 +1,4 @@
-Rhytismataceae Chevall. FAMILY
-=======
+# Rhytismataceae Chevall. FAMILY
 
 #### Status
 ACCEPTED

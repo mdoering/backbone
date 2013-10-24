@@ -1,5 +1,4 @@
-Leptoxyphium casuarinae (McAlpine) Bat. & Cif. SPECIES
-=======
+# Leptoxyphium casuarinae (McAlpine) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

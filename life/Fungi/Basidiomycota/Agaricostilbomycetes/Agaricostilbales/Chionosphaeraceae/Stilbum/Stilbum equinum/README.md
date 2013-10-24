@@ -1,5 +1,4 @@
-Stilbum equinum Pers. SPECIES
-=======
+# Stilbum equinum Pers. SPECIES
 
 #### Status
 ACCEPTED

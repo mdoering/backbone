@@ -1,5 +1,4 @@
-Diadorhombus minutus Rood et al., 1971 SPECIES
-=======
+# Diadorhombus minutus Rood et al., 1971 SPECIES
 
 #### Status
 ACCEPTED

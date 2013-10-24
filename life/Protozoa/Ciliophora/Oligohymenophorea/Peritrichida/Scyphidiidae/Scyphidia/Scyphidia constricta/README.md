@@ -1,5 +1,4 @@
-Scyphidia constricta Stokes, 1885 SPECIES
-=======
+# Scyphidia constricta Stokes, 1885 SPECIES
 
 #### Status
 ACCEPTED

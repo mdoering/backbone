@@ -1,5 +1,4 @@
-Spongoserrula Dumitrica, 1982 GENUS
-=======
+# Spongoserrula Dumitrica, 1982 GENUS
 
 #### Status
 ACCEPTED

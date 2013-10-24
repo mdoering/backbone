@@ -1,5 +1,4 @@
-Wettsteinina kobresiae Shoemaker & C.E. Babc. SPECIES
-=======
+# Wettsteinina kobresiae Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

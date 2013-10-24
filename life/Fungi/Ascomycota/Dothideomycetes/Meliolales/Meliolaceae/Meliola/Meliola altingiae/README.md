@@ -1,5 +1,4 @@
-Meliola altingiae B. Song & Y.X. Hu SPECIES
-=======
+# Meliola altingiae B. Song & Y.X. Hu SPECIES
 
 #### Status
 ACCEPTED

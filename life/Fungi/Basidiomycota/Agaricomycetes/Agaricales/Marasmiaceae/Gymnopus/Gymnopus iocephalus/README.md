@@ -1,5 +1,4 @@
-Gymnopus iocephalus (Berk. & M.A. Curtis) Halling SPECIES
-=======
+# Gymnopus iocephalus (Berk. & M.A. Curtis) Halling SPECIES
 
 #### Status
 ACCEPTED

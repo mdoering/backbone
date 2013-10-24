@@ -1,5 +1,4 @@
-Rhizomorpha stokesii Sowerby SPECIES
-=======
+# Rhizomorpha stokesii Sowerby SPECIES
 
 #### Status
 ACCEPTED

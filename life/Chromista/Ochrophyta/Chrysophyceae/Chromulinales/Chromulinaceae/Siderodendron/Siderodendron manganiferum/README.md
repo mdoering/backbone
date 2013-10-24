@@ -1,5 +1,4 @@
-Siderodendron manganiferum E.G. Pringsheim SPECIES
-=======
+# Siderodendron manganiferum E.G. Pringsheim SPECIES
 
 #### Status
 ACCEPTED

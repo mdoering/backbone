@@ -1,5 +1,4 @@
-Uredo aristidae-acutiflorae Maire SPECIES
-=======
+# Uredo aristidae-acutiflorae Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diderma mussooriense K. S. Thind & Manocha, 1964 SPECIES
-=======
+# Diderma mussooriense K. S. Thind & Manocha, 1964 SPECIES
 
 #### Status
 ACCEPTED

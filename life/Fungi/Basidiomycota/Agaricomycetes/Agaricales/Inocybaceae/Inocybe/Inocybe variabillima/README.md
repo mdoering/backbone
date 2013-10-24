@@ -1,5 +1,4 @@
-Inocybe variabillima var. variabillima VARIETY
-=======
+# Inocybe variabillima Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Fungi argentini novi vel crit. 125 (1899)
 
 #### Original name
-Inocybe variabillima var. variabillima
+Inocybe variabillima Speg.
 
 ### Remarks
 null

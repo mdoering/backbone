@@ -1,5 +1,4 @@
-Amphoroblastia circularis (Blomb. ex Th. Fr.) Servít SPECIES
-=======
+# Amphoroblastia circularis (Blomb. ex Th. Fr.) Servít SPECIES
 
 #### Status
 ACCEPTED

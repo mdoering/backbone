@@ -1,5 +1,4 @@
-Paxillus extenuatus Fr. SPECIES
-=======
+# Paxillus extenuatus Fr. SPECIES
 
 #### Status
 ACCEPTED

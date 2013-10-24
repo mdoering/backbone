@@ -1,5 +1,4 @@
-Agaricus falkii Weinm. SPECIES
-=======
+# Agaricus falkii Weinm. SPECIES
 
 #### Status
 ACCEPTED

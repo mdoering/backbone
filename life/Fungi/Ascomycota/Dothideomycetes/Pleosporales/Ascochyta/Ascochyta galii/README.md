@@ -1,5 +1,4 @@
-Ascochyta galii Lasch SPECIES
-=======
+# Ascochyta galii Lasch SPECIES
 
 #### Status
 ACCEPTED

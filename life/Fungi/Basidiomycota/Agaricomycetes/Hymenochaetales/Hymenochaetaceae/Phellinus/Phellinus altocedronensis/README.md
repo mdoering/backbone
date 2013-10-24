@@ -1,5 +1,4 @@
-Phellinus altocedronensis (Murrill) Ryvarden SPECIES
-=======
+# Phellinus altocedronensis (Murrill) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

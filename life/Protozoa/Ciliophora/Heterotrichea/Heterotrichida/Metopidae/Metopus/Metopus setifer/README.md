@@ -1,5 +1,4 @@
-Metopus setifer Kahl, 1932 SPECIES
-=======
+# Metopus setifer Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

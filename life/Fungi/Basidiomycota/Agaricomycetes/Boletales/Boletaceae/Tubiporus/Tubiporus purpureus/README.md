@@ -1,5 +1,4 @@
-Tubiporus purpureus (Fr. & Hök.) Maire SPECIES
-=======
+# Tubiporus purpureus (Fr. & Hök.) Maire SPECIES
 
 #### Status
 ACCEPTED

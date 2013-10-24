@@ -1,5 +1,4 @@
-Ochrolechia crozalsiana Clauzade & Vezda SPECIES
-=======
+# Ochrolechia crozalsiana Clauzade & Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterocalyx ecuadorenis S.E. Carp. & Dumont SPECIES
-=======
+# Asterocalyx ecuadorenis S.E. Carp. & Dumont SPECIES
 
 #### Status
 ACCEPTED

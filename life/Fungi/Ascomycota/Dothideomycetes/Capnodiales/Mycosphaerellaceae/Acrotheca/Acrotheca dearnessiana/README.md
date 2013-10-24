@@ -1,5 +1,4 @@
-Acrotheca dearnessiana Sacc. SPECIES
-=======
+# Acrotheca dearnessiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

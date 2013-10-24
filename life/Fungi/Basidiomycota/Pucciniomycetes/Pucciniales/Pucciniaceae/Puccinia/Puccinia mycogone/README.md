@@ -1,5 +1,4 @@
-Puccinia mycogone Corda SPECIES
-=======
+# Puccinia mycogone Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe conigena Feltgen SPECIES
-=======
+# Diaporthe conigena Feltgen SPECIES
 
 #### Status
 ACCEPTED

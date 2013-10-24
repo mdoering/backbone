@@ -1,5 +1,4 @@
-Plectonema hansgirgi Schmidle SPECIES
-=======
+# Plectonema hansgirgi Schmidle SPECIES
 
 #### Status
 ACCEPTED

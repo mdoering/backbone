@@ -1,5 +1,4 @@
-Tabanispora bacillifera H.I. Bykova, Y.Y. Sokolova & I.V. Issi SPECIES
-=======
+# Tabanispora bacillifera H.I. Bykova, Y.Y. Sokolova & I.V. Issi SPECIES
 
 #### Status
 ACCEPTED

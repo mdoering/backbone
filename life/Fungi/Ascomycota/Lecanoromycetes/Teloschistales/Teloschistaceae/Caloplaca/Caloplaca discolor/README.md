@@ -1,5 +1,4 @@
-Caloplaca discolor (Willey) Fink SPECIES
-=======
+# Caloplaca discolor (Willey) Fink SPECIES
 
 #### Status
 ACCEPTED

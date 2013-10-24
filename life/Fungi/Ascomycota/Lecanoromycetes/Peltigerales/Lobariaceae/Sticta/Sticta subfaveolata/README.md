@@ -1,5 +1,4 @@
-Sticta subfaveolata (Nyl.) Zahlbr. SPECIES
-=======
+# Sticta subfaveolata (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

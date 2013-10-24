@@ -1,5 +1,4 @@
-Lepraria antiquitatis (L.) Ach. SPECIES
-=======
+# Lepraria antiquitatis (L.) Ach. SPECIES
 
 #### Status
 ACCEPTED

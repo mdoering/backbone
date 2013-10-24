@@ -1,14 +1,13 @@
-Oospora insectorum Petch SPECIES
-=======
+# Verticillium insectorum (Petch) W. Gams, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 16: 63 (1931)
+Cephalosporium-artige Schimmelpilze (Stuttgart) 193 (1971)
 
 #### Original name
 Oospora insectorum Petch

@@ -1,5 +1,4 @@
-Rosellinia smilacina Speg. SPECIES
-=======
+# Rosellinia smilacina Speg. SPECIES
 
 #### Status
 ACCEPTED

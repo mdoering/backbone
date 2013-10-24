@@ -1,5 +1,4 @@
-Sporisorium modestum anon. ined. SPECIES
-=======
+# Sporisorium modestum anon. ined. SPECIES
 
 #### Status
 ACCEPTED

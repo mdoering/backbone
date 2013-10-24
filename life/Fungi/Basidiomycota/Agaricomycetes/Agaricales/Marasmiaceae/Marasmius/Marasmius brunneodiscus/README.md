@@ -1,5 +1,4 @@
-Marasmius brunneodiscus Pegler SPECIES
-=======
+# Marasmius brunneodiscus Pegler SPECIES
 
 #### Status
 ACCEPTED

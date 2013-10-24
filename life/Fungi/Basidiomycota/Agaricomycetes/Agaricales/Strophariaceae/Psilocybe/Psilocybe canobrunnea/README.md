@@ -1,5 +1,4 @@
-Psilocybe canobrunnea (Batsch) Sacc. SPECIES
-=======
+# Psilocybe canobrunnea (Batsch) Sacc. SPECIES
 
 #### Status
 ACCEPTED

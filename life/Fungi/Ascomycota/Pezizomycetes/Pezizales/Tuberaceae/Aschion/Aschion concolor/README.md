@@ -1,5 +1,4 @@
-Aschion concolor Wallr. SPECIES
-=======
+# Aschion concolor Wallr. SPECIES
 
 #### Status
 ACCEPTED

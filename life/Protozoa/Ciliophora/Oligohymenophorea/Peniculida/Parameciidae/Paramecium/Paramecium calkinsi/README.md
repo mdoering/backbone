@@ -1,5 +1,4 @@
-Paramecium calkinsi Woodruff, 1921 SPECIES
-=======
+# Paramecium calkinsi Woodruff, 1921 SPECIES
 
 #### Status
 ACCEPTED

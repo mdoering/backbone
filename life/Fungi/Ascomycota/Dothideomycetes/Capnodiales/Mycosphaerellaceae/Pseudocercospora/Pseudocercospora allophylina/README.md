@@ -1,5 +1,4 @@
-Pseudocercospora allophylina Sawada ex Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora allophylina Sawada ex Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

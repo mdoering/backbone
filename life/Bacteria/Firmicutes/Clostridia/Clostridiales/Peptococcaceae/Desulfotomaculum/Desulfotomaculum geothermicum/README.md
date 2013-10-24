@@ -1,5 +1,4 @@
-Desulfotomaculum geothermicum Daumas et al., 1990 SPECIES
-=======
+# Desulfotomaculum geothermicum Daumas et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

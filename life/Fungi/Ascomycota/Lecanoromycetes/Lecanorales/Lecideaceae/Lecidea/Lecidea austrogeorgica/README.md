@@ -1,5 +1,4 @@
-Lecidea austrogeorgica Müll. Arg. SPECIES
-=======
+# Lecidea austrogeorgica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

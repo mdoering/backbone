@@ -1,5 +1,4 @@
-Uromyces baccarinii Syd. & P. Syd. SPECIES
-=======
+# Uromyces baccarinii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

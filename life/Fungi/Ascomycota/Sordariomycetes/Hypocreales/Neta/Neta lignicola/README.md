@@ -1,5 +1,4 @@
-Neta lignicola Shearer, 1974 SPECIES
-=======
+# Neta lignicola Shearer, 1974 SPECIES
 
 #### Status
 ACCEPTED

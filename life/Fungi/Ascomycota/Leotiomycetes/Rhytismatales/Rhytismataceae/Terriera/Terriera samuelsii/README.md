@@ -1,5 +1,4 @@
-Terriera samuelsii P.R. Johnst., 2003 SPECIES
-=======
+# Terriera samuelsii P.R. Johnst., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps typhulaeformis Berk. & Cooke SPECIES
-=======
+# Cordyceps typhulaeformis Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

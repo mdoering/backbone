@@ -1,5 +1,4 @@
-Sphaerella pulviscula Cocc. & Morini SPECIES
-=======
+# Sphaerella pulviscula Cocc. & Morini SPECIES
 
 #### Status
 ACCEPTED

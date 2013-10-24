@@ -1,14 +1,13 @@
-Rhizophydium coleochaetes (Nowak.) A. Fisch. SPECIES
-=======
+# Chytridium coleochaetes Nowak., 1877 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Zeitschr. (1877)
 
 #### Original name
 Chytridium coleochaetes Nowak., 1877

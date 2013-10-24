@@ -1,5 +1,4 @@
-Lambottiella glacialis (Rehm) Sacc. SPECIES
-=======
+# Lambottiella glacialis (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

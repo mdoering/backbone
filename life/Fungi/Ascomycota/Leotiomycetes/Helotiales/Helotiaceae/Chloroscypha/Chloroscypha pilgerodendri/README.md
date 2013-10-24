@@ -1,5 +1,4 @@
-Chloroscypha pilgerodendri Butin SPECIES
-=======
+# Chloroscypha pilgerodendri Butin SPECIES
 
 #### Status
 ACCEPTED

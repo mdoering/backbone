@@ -1,5 +1,4 @@
-Lophiotrema fontanesiae Pass. SPECIES
-=======
+# Lophiotrema fontanesiae Pass. SPECIES
 
 #### Status
 ACCEPTED

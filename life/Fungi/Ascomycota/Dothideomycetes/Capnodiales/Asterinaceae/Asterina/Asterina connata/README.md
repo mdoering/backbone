@@ -1,5 +1,4 @@
-Asterina connata Berk. & M.A. Curtis SPECIES
-=======
+# Asterina connata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

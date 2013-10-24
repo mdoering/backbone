@@ -1,5 +1,4 @@
-Phellinus aureobrunneus J.E. Wright & Blumenf., 1984 SPECIES
-=======
+# Phellinus aureobrunneus J.E. Wright & Blumenf., 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Onychocola kanei Gibas, Sigler & Summerb. SPECIES
-=======
+# Onychocola kanei Gibas, Sigler & Summerb. SPECIES
 
 #### Status
 ACCEPTED

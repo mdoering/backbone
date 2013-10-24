@@ -1,5 +1,4 @@
-Phyllosticta maricae Gutner SPECIES
-=======
+# Phyllosticta maricae Gutner SPECIES
 
 #### Status
 ACCEPTED

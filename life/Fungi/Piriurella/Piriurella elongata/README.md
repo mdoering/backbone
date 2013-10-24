@@ -1,5 +1,4 @@
-Piriurella elongata Cookson & Eisenack SPECIES
-=======
+# Piriurella elongata Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

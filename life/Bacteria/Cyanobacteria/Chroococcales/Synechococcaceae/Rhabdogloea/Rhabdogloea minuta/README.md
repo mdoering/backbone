@@ -1,5 +1,4 @@
-Rhabdogloea minuta B. Hickel SPECIES
-=======
+# Rhabdogloea minuta B. Hickel SPECIES
 
 #### Status
 ACCEPTED

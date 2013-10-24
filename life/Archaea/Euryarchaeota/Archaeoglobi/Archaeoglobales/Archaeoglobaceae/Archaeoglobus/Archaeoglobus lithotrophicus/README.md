@@ -1,5 +1,4 @@
-Archaeoglobus lithotrophicus Stetter, Huber, Blochl, Kurr, Eden, Fielder, Cash & Vance, 1993 SPECIES
-=======
+# Archaeoglobus lithotrophicus Stetter, Huber, Blochl, Kurr, Eden, Fielder, Cash & Vance, 1993 SPECIES
 
 #### Status
 ACCEPTED

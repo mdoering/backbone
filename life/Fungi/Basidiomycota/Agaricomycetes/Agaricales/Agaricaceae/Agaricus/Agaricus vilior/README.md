@@ -1,5 +1,4 @@
-Agaricus vilior P. Karst. SPECIES
-=======
+# Agaricus vilior P. Karst. SPECIES
 
 #### Status
 ACCEPTED

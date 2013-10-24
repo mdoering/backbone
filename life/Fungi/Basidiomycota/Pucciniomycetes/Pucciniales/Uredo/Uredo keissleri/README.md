@@ -1,5 +1,4 @@
-Uredo keissleri J.C. Lindq. SPECIES
-=======
+# Uredo keissleri J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

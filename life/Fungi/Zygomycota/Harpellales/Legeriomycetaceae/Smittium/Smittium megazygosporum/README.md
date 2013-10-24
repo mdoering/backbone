@@ -1,5 +1,4 @@
-Smittium megazygosporum Manier & F. Coste, 1971 SPECIES
-=======
+# Smittium megazygosporum Manier & F. Coste, 1971 SPECIES
 
 #### Status
 ACCEPTED

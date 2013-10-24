@@ -1,5 +1,4 @@
-Pleosphaerulina canadensis Bubák & Dearn. SPECIES
-=======
+# Pleosphaerulina canadensis Bubák & Dearn. SPECIES
 
 #### Status
 ACCEPTED

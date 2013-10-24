@@ -1,5 +1,4 @@
-Corythodinium frenguellii (Rampi) Balech SPECIES
-=======
+# Corythodinium frenguellii (Rampi) Balech SPECIES
 
 #### Status
 ACCEPTED

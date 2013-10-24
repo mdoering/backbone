@@ -1,5 +1,4 @@
-Inocybe paralanuginosa Pegler SPECIES
-=======
+# Inocybe paralanuginosa Pegler SPECIES
 
 #### Status
 ACCEPTED

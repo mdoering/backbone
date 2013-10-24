@@ -1,5 +1,4 @@
-Pseudocercospora phyllanthi-reticulati Deighton SPECIES
-=======
+# Pseudocercospora phyllanthi-reticulati Deighton SPECIES
 
 #### Status
 ACCEPTED

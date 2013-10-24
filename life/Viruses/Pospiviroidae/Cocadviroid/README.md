@@ -1,5 +1,4 @@
-Cocadviroid: GENUS
-=======
+# Cocadviroid: GENUS
 
 #### Status
 ACCEPTED

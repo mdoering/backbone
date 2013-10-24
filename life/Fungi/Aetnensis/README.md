@@ -1,5 +1,4 @@
-Aetnensis Lloyd GENUS
-=======
+# Aetnensis Lloyd GENUS
 
 #### Status
 ACCEPTED

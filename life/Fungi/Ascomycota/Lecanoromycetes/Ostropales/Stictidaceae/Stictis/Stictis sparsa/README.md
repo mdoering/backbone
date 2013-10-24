@@ -1,5 +1,4 @@
-Stictis sparsa (Schwein.) Berk. SPECIES
-=======
+# Stictis sparsa (Schwein.) Berk. SPECIES
 
 #### Status
 ACCEPTED

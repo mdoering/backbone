@@ -1,5 +1,4 @@
-Cordyceps changpaishanensis Kobayasi SPECIES
-=======
+# Cordyceps changpaishanensis Kobayasi SPECIES
 
 #### Status
 ACCEPTED

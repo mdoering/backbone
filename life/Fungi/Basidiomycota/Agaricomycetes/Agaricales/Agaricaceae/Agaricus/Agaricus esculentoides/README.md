@@ -1,5 +1,4 @@
-Agaricus esculentoides Peck SPECIES
-=======
+# Agaricus esculentoides Peck SPECIES
 
 #### Status
 ACCEPTED

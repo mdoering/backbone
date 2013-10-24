@@ -1,5 +1,4 @@
-Stannarium Haeckel, 1889 GENUS
-=======
+# Stannarium Haeckel, 1889 GENUS
 
 #### Status
 ACCEPTED

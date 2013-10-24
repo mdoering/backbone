@@ -1,5 +1,4 @@
-Capronia leptogii Etayo & Diederich SPECIES
-=======
+# Capronia leptogii Etayo & Diederich SPECIES
 
 #### Status
 ACCEPTED

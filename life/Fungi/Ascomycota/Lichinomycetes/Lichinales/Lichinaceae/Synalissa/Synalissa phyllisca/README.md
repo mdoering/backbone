@@ -1,5 +1,4 @@
-Synalissa phyllisca (Wahlenb.) Fr. SPECIES
-=======
+# Synalissa phyllisca (Wahlenb.) Fr. SPECIES
 
 #### Status
 ACCEPTED

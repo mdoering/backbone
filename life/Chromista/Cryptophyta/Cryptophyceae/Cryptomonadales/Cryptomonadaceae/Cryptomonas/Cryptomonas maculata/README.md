@@ -1,5 +1,4 @@
-Cryptomonas maculata R. W. Butcher SPECIES
-=======
+# Cryptomonas maculata R. W. Butcher SPECIES
 
 #### Status
 ACCEPTED

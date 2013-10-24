@@ -1,17 +1,16 @@
-Pertusaria melanochlora var. melanochlora VARIETY
-=======
+# Pertusaria melanochlora (DC.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. linn. Normandie, sér. 2 6: 289 (1872)
 
 #### Original name
-Pertusaria melanochlora var. melanochlora
+Isidium melanochlorum DC.
 
 ### Remarks
 null

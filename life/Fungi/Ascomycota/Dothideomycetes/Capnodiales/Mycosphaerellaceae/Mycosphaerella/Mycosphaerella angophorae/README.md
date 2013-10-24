@@ -1,5 +1,4 @@
-Mycosphaerella angophorae Hansf. SPECIES
-=======
+# Mycosphaerella angophorae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria spinaciae Allesch. & F. Noack SPECIES
-=======
+# Alternaria spinaciae Allesch. & F. Noack SPECIES
 
 #### Status
 ACCEPTED

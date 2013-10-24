@@ -1,5 +1,4 @@
-Genea perlata Corda SPECIES
-=======
+# Genea perlata Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus juglandinus (Kalchbr. ex G. Winter) Sacc. SPECIES
-=======
+# Pleurotus juglandinus (Kalchbr. ex G. Winter) Sacc. SPECIES
 
 #### Status
 ACCEPTED

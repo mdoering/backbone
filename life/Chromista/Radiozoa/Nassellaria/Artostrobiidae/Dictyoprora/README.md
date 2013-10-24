@@ -1,14 +1,13 @@
-Dictyoprona Haeckel, 1887 GENUS
-=======
+# Dictyoprora Haeckel, 1881 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Rep. Voy. Challenger Exped. , Zool. , 18 (2), 1764.
+Jena. Z. , 15, 430.
 
 #### Original name
 null

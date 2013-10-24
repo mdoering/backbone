@@ -1,14 +1,13 @@
-Pseudomuderongia Jain & Khowaja-Ateequzzaman, 1984 GENUS
-=======
+# Muderongia Cookson & Eisenack, 1958 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Journal Palaeont. Soc. India 29: 40.
+Proc. R. Soc. Vict. (N. S. ) 70: 40.
 
 #### Original name
 null

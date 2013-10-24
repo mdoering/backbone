@@ -1,5 +1,4 @@
-Leptoniella davisiana (Peck) Murrill SPECIES
-=======
+# Leptoniella davisiana (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

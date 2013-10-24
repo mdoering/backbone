@@ -1,5 +1,4 @@
-Phyllachora kanyakumariana Hosag., 1995 SPECIES
-=======
+# Phyllachora kanyakumariana Hosag., 1995 SPECIES
 
 #### Status
 ACCEPTED

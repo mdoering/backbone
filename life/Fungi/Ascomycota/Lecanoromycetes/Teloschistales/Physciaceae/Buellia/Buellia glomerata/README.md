@@ -1,5 +1,4 @@
-Buellia glomerata (Briss.) Zahlbr. SPECIES
-=======
+# Buellia glomerata (Briss.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

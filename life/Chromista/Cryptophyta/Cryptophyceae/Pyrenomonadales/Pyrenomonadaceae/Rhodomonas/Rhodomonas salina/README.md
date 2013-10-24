@@ -1,5 +1,4 @@
-Rhodomonas salina (Wislouch) D. R. A. Hill & R. Wetherbee SPECIES
-=======
+# Rhodomonas salina (Wislouch) D. R. A. Hill & R. Wetherbee SPECIES
 
 #### Status
 ACCEPTED

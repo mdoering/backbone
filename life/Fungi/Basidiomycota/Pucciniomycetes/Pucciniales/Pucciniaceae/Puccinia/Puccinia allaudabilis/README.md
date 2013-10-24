@@ -1,5 +1,4 @@
-Puccinia allaudabilis H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia allaudabilis H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

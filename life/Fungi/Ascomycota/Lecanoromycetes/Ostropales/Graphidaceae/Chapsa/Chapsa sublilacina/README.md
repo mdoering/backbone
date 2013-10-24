@@ -1,5 +1,4 @@
-Chapsa sublilacina (Ellis & Everh.) M. Cáceres & Lücking SPECIES
-=======
+# Chapsa sublilacina (Ellis & Everh.) M. Cáceres & Lücking SPECIES
 
 #### Status
 ACCEPTED

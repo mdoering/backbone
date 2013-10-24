@@ -1,14 +1,13 @@
-Humaria phyllogena Seaver, 1925 SPECIES
-=======
+# Kompsoscypha phyllogena (Seaver) Pfister, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 17(2): 46 (1925)
+Mem. N. Y. bot. Gdn 49: 341 (1989)
 
 #### Original name
 Humaria phyllogena Seaver, 1925

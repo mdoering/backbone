@@ -1,5 +1,4 @@
-Scyphosphaera tubifera Kamptner, 1955 SPECIES
-=======
+# Scyphosphaera tubifera Kamptner, 1955 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Rhabdospora atraphaxidis Woron. SPECIES
-=======
+# Rhabdospora atraphaxis Woron. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhabdospora atraphaxidis Woron.
+Rhabdospora atraphaxis Woron.
 
 ### Remarks
 null

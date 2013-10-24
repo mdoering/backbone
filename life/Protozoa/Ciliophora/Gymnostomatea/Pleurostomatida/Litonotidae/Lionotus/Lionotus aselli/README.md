@@ -1,5 +1,4 @@
-Lionotus aselli Kahl, 1931 SPECIES
-=======
+# Lionotus aselli Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

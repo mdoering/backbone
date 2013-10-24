@@ -1,5 +1,4 @@
-Lecania subdisparata (Nyl.) SPECIES
-=======
+# Lecania subdisparata (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

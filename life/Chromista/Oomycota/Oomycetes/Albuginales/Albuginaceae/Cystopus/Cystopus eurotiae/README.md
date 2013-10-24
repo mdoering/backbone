@@ -1,5 +1,4 @@
-Cystopus eurotiae (Tranzschel) Sacc. & Trotter SPECIES
-=======
+# Cystopus eurotiae (Tranzschel) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

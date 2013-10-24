@@ -1,5 +1,4 @@
-Uredo californica Ellis & Everh. SPECIES
-=======
+# Uredo californica Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

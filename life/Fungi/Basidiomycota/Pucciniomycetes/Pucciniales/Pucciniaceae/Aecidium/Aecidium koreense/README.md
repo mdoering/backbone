@@ -1,17 +1,16 @@
-Aecidium koreaënse Henn. SPECIES
-=======
+# Aecidium koreense Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monsunia 1: 4 (1899)
 
 #### Original name
-Aecidium koreaënse Henn.
+Aecidium koreense Henn.
 
 ### Remarks
 null

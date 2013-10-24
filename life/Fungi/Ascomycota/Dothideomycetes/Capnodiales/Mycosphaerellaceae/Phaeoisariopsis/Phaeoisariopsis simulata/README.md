@@ -1,5 +1,4 @@
-Phaeoisariopsis simulata (Ellis & Everh.) L.G. Br. & Morgan-Jones SPECIES
-=======
+# Phaeoisariopsis simulata (Ellis & Everh.) L.G. Br. & Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca percrocata (Arnold) J. Steiner SPECIES
-=======
+# Caloplaca percrocata (Arnold) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

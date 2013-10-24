@@ -1,5 +1,4 @@
-Diplodia oenotherae Hollós SPECIES
-=======
+# Diplodia oenotherae Hollós SPECIES
 
 #### Status
 ACCEPTED

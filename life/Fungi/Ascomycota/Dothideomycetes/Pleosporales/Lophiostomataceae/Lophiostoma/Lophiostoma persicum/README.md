@@ -1,5 +1,4 @@
-Lophiostoma persicum Petr. SPECIES
-=======
+# Lophiostoma persicum Petr. SPECIES
 
 #### Status
 ACCEPTED

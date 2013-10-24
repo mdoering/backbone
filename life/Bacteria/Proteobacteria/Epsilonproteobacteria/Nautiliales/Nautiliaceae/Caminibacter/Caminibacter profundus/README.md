@@ -1,5 +1,4 @@
-Caminibacter profundus Miroshnichenko et al., 2004 SPECIES
-=======
+# Caminibacter profundus Miroshnichenko et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

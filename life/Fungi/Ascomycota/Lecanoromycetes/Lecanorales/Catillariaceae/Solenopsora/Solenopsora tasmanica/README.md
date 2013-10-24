@@ -1,5 +1,4 @@
-Solenopsora tasmanica Kantvilas SPECIES
-=======
+# Solenopsora tasmanica Kantvilas SPECIES
 
 #### Status
 ACCEPTED

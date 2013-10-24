@@ -1,5 +1,4 @@
-Puccinia pimpinellae-brachycarpae Tranzschel & Erem. SPECIES
-=======
+# Puccinia pimpinellae-brachycarpae Tranzschel & Erem. SPECIES
 
 #### Status
 ACCEPTED

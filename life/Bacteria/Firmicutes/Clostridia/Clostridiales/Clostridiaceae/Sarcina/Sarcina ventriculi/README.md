@@ -1,11 +1,10 @@
-Zymosarcina ventriculi (Goodsir, 1842) Smit, 1930 SPECIES
-=======
+# Sarcina ventriculi Goodsir, 1842 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

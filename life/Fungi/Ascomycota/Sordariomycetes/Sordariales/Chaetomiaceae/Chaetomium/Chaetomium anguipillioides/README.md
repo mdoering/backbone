@@ -1,5 +1,4 @@
-Chaetomium anguipillioides Mazzuch. SPECIES
-=======
+# Chaetomium anguipillioides Mazzuch. SPECIES
 
 #### Status
 ACCEPTED

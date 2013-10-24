@@ -1,17 +1,16 @@
-Physmatomyces E.A. Thomas ex Cif. & Tomas. GENUS
-=======
+# Physma A. Massal. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 45, 71 (1953)
+Neagenea Lich 6 (1854)
 
 #### Original name
-Physmatomyces E.A. Thomas ex Cif. & Tomas.
+Physma A. Massal.
 
 ### Remarks
 null

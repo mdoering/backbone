@@ -1,5 +1,4 @@
-Clavogaster novozelandicus Henn., 1896 SPECIES
-=======
+# Clavogaster novozelandicus Henn., 1896 SPECIES
 
 #### Status
 ACCEPTED

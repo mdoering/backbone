@@ -1,5 +1,4 @@
-Septoria dalibardae Peck SPECIES
-=======
+# Septoria dalibardae Peck SPECIES
 
 #### Status
 ACCEPTED

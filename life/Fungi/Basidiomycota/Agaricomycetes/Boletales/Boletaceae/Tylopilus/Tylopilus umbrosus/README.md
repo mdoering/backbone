@@ -1,5 +1,4 @@
-Tylopilus umbrosus (G.F. Atk.) A.H. Sm. & Thiers SPECIES
-=======
+# Tylopilus umbrosus (G.F. Atk.) A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

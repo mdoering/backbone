@@ -1,5 +1,4 @@
-Linkiella GENUS
-=======
+# Linkiella GENUS
 
 #### Status
 ACCEPTED

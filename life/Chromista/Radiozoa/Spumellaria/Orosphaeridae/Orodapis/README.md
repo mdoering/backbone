@@ -1,5 +1,4 @@
-Orodapis Friend & Riedel, 1967 GENUS
-=======
+# Orodapis Friend & Riedel, 1967 GENUS
 
 #### Status
 ACCEPTED

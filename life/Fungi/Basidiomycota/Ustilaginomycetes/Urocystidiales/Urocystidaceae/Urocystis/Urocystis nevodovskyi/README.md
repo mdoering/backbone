@@ -1,5 +1,4 @@
-Urocystis nevodovskyi Schwarzman SPECIES
-=======
+# Urocystis nevodovskyi Schwarzman SPECIES
 
 #### Status
 ACCEPTED

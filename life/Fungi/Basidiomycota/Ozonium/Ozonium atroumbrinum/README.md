@@ -1,5 +1,4 @@
-Ozonium atroumbrinum Speg. SPECIES
-=======
+# Ozonium atroumbrinum Speg. SPECIES
 
 #### Status
 ACCEPTED

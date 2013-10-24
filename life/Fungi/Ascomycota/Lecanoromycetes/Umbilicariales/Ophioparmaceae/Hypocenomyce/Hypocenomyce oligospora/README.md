@@ -1,5 +1,4 @@
-Hypocenomyce oligospora Timdal SPECIES
-=======
+# Hypocenomyce oligospora Timdal SPECIES
 
 #### Status
 ACCEPTED

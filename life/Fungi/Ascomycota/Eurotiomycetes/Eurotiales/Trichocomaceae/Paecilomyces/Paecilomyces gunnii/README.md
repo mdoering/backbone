@@ -1,17 +1,16 @@
-Paecilomyces gunnii var. minor Z.Z. Li, C.R. Li, B. Huang, M.Z. Fan & M.W. Lee VARIETY
-=======
+# Paecilomyces gunnii Z.Q. Liang, 1985 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Korean J. Mycol. 27(3): 233 (1999)
+Acta Mycol. Sin. 4(3): 163 (1985)
 
 #### Original name
-Paecilomyces gunnii var. minor Z.Z. Li, C.R. Li, B. Huang, M.Z. Fan & M.W. Lee
+Paecilomyces gunnii Z.Q. Liang, 1985
 
 ### Remarks
 null

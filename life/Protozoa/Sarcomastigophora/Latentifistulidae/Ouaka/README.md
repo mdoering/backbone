@@ -1,5 +1,4 @@
-Ouaka Cheng, 1986 GENUS
-=======
+# Ouaka Cheng, 1986 GENUS
 
 #### Status
 ACCEPTED

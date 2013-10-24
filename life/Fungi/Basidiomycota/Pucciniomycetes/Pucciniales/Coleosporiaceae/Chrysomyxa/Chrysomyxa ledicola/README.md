@@ -1,5 +1,4 @@
-Chrysomyxa ledicola Lagerh., 1893 SPECIES
-=======
+# Chrysomyxa ledicola Lagerh., 1893 SPECIES
 
 #### Status
 ACCEPTED

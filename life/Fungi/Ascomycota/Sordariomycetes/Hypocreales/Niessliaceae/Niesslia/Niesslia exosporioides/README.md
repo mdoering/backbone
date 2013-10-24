@@ -1,14 +1,13 @@
-Sphaeria exosporioides Desm., 1843 SPECIES
-=======
+# Niesslia exosporioides (Desm.) G. Winter, 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nouv. Not. 39 (1843)
+in Rabenhorst, Rabenh. Krypt. -Fl. (Leipzig) 1(2): 197 (1887)
 
 #### Original name
 Sphaeria exosporioides Desm., 1843

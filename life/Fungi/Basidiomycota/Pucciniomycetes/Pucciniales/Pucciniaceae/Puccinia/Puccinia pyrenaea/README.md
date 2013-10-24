@@ -1,5 +1,4 @@
-Puccinia pyrenaea Durrieu SPECIES
-=======
+# Puccinia pyrenaea Durrieu SPECIES
 
 #### Status
 ACCEPTED

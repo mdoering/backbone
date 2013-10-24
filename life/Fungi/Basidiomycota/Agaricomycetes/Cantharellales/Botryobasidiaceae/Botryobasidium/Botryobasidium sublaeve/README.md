@@ -1,5 +1,4 @@
-Botryobasidium sublaeve G. Langer, 1994 SPECIES
-=======
+# Botryobasidium sublaeve G. Langer, 1994 SPECIES
 
 #### Status
 ACCEPTED

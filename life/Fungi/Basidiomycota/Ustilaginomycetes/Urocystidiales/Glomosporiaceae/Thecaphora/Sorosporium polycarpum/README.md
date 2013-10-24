@@ -1,5 +1,4 @@
-Sorosporium polycarpum Syd. SPECIES
-=======
+# Sorosporium polycarpum Syd. SPECIES
 
 #### Status
 ACCEPTED

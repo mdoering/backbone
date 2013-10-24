@@ -1,5 +1,4 @@
-Inesia ined. GENUS
-=======
+# Inesia ined. GENUS
 
 #### Status
 ACCEPTED

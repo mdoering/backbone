@@ -1,14 +1,13 @@
-Trichobasis apii (Desm.) Cooke, 1878 SPECIES
-=======
+# Puccinia apii Desm., 1823 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Microscopic fungi 224 (1878)
+Catal. des plantes omis. 25 (1823)
 
 #### Original name
 Puccinia apii Desm., 1823

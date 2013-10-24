@@ -1,5 +1,4 @@
-Aecidium vincetoxici Henn. & Shirai SPECIES
-=======
+# Aecidium vincetoxici Henn. & Shirai SPECIES
 
 #### Status
 ACCEPTED

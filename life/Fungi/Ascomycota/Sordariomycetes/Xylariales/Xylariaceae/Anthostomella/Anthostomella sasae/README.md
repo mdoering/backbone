@@ -1,5 +1,4 @@
-Anthostomella sasae Hara SPECIES
-=======
+# Anthostomella sasae Hara SPECIES
 
 #### Status
 ACCEPTED

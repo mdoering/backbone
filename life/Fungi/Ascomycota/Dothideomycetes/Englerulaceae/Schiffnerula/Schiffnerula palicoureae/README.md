@@ -1,5 +1,4 @@
-Schiffnerula palicoureae (M.L. Farr) S. Hughes SPECIES
-=======
+# Schiffnerula palicoureae (M.L. Farr) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

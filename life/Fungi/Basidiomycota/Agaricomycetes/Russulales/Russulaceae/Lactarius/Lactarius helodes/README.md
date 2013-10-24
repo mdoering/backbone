@@ -1,5 +1,4 @@
-Lactarius helodes A. Favre & Guichard SPECIES
-=======
+# Lactarius helodes A. Favre & Guichard SPECIES
 
 #### Status
 ACCEPTED

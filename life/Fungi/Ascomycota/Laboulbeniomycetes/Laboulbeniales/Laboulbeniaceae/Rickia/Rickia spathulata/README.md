@@ -1,5 +1,4 @@
-Rickia spathulata Thaxt. SPECIES
-=======
+# Rickia spathulata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

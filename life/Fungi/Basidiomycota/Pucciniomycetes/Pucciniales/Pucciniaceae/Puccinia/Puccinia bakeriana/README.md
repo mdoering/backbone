@@ -1,5 +1,4 @@
-Puccinia bakeriana Arthur SPECIES
-=======
+# Puccinia bakeriana Arthur SPECIES
 
 #### Status
 ACCEPTED

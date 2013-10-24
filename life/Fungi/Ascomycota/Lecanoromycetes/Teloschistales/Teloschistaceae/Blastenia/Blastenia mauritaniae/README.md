@@ -1,5 +1,4 @@
-Blastenia mauritaniae (Hue) Zahlbr. SPECIES
-=======
+# Blastenia mauritaniae (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Otidea subpurpurea W.Y. Zhuang SPECIES
-=======
+# Otidea subpurpurea W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

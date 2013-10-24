@@ -1,5 +1,4 @@
-Agaricus fuscoalbus Lasch SPECIES
-=======
+# Agaricus fuscoalbus Lasch SPECIES
 
 #### Status
 ACCEPTED

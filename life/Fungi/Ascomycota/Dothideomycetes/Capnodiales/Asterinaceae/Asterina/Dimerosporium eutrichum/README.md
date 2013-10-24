@@ -1,5 +1,4 @@
-Dimerosporium eutrichum Sacc. & Berl. SPECIES
-=======
+# Dimerosporium eutrichum Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

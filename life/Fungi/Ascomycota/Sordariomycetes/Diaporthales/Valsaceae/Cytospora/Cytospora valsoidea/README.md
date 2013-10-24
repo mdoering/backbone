@@ -1,5 +1,4 @@
-Cytospora valsoidea G.C. Adams & M.J. Wingf. SPECIES
-=======
+# Cytospora valsoidea G.C. Adams & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

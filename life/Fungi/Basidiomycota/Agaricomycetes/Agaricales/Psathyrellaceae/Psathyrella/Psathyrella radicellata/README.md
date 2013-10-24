@@ -1,5 +1,4 @@
-Psathyrella radicellata Malençon ex Pacioni SPECIES
-=======
+# Psathyrella radicellata Malençon ex Pacioni SPECIES
 
 #### Status
 ACCEPTED

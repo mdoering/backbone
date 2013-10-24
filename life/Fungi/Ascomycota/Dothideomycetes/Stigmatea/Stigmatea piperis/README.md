@@ -1,5 +1,4 @@
-Stigmatea piperis Rehm SPECIES
-=======
+# Stigmatea piperis Rehm SPECIES
 
 #### Status
 ACCEPTED

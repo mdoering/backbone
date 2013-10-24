@@ -1,5 +1,4 @@
-Patellaria corroborans (Stirt.) Müll. Arg. SPECIES
-=======
+# Patellaria corroborans (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

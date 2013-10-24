@@ -1,5 +1,4 @@
-Krombholziella cinnamomea (A.H. Sm., Thiers & Watling) utara SPECIES
-=======
+# Krombholziella cinnamomea (A.H. Sm., Thiers & Watling) utara SPECIES
 
 #### Status
 ACCEPTED

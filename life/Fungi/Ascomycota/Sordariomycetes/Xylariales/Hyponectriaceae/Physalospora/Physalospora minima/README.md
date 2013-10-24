@@ -1,5 +1,4 @@
-Physalospora minima Ellis & Everh. SPECIES
-=======
+# Physalospora minima Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

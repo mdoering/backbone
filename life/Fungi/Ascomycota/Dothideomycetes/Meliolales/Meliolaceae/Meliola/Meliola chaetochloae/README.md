@@ -1,5 +1,4 @@
-Meliola chaetochloae F. Stevens SPECIES
-=======
+# Meliola chaetochloae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

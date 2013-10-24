@@ -1,5 +1,4 @@
-Phormidium acutissimum (C.Agardh ex Gomont) Anagnostidis & Komárek SPECIES
-=======
+# Phormidium acutissimum (C.Agardh ex Gomont) Anagnostidis & Komárek SPECIES
 
 #### Status
 ACCEPTED

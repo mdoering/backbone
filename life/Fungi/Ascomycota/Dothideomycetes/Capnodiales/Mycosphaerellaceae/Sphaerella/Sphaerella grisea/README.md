@@ -1,5 +1,4 @@
-Sphaerella grisea Boyer & Jacz. SPECIES
-=======
+# Sphaerella grisea Boyer & Jacz. SPECIES
 
 #### Status
 ACCEPTED

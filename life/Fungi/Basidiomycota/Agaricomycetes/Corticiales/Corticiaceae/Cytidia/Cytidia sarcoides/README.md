@@ -1,14 +1,13 @@
-Corticium sarcoides (Fr.) Fr., 1838 SPECIES
-=======
+# Cytidia sarcoides (Fr.) Herter, 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 558 (1838)
+Krypt. -Fl. Brandenburg (Leipzig) 6(1): 84 (1910)
 
 #### Original name
 Thelephora sarcoides Fr., 1828

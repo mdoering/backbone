@@ -1,5 +1,4 @@
-Brachysporium flexuosum (Corda) Sacc. SPECIES
-=======
+# Brachysporium flexuosum (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

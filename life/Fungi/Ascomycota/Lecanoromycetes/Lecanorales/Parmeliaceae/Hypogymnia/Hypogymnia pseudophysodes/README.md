@@ -1,5 +1,4 @@
-Hypogymnia pseudophysodes var. pseudophysodes VARIETY
-=======
+# Hypogymnia pseudophysodes (Asahina) Rass. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hypogymnia pseudophysodes var. pseudophysodes
+Parmelia pseudophysodes Asahina
 
 ### Remarks
 null

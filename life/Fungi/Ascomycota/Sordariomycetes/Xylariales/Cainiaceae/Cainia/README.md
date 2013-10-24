@@ -1,5 +1,4 @@
-Cainia Arx & E. Müll. GENUS
-=======
+# Cainia Arx & E. Müll. GENUS
 
 #### Status
 ACCEPTED

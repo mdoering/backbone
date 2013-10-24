@@ -1,5 +1,4 @@
-Cladonia andereggii S. Hammer SPECIES
-=======
+# Cladonia andereggii S. Hammer SPECIES
 
 #### Status
 ACCEPTED

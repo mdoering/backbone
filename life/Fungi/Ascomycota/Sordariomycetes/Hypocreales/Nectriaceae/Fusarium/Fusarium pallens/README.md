@@ -1,5 +1,4 @@
-Fusarium pallens Berk. & M.A. Curtis SPECIES
-=======
+# Fusarium pallens Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

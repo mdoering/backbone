@@ -1,5 +1,4 @@
-Guignardia eucalyptorum Crous SPECIES
-=======
+# Guignardia eucalyptorum Crous SPECIES
 
 #### Status
 ACCEPTED

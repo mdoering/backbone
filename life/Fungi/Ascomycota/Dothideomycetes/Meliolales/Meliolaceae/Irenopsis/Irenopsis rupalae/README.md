@@ -1,5 +1,4 @@
-Irenopsis rupalae (Speg.) F. Stevens SPECIES
-=======
+# Irenopsis rupalae (Speg.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

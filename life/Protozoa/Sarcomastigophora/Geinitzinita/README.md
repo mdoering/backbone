@@ -1,5 +1,4 @@
-Geinitzinita de Civrieux & Dessauvagie, 1965 GENUS
-=======
+# Geinitzinita de Civrieux & Dessauvagie, 1965 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium samararum Allesch. SPECIES
-=======
+# Gloeosporium samararum Allesch. SPECIES
 
 #### Status
 ACCEPTED

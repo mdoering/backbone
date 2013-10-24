@@ -1,5 +1,4 @@
-Cyclostephanos guatamalae E. C. Theriot & J. P. Bradbury SPECIES
-=======
+# Cyclostephanos guatamalae E. C. Theriot & J. P. Bradbury SPECIES
 
 #### Status
 ACCEPTED

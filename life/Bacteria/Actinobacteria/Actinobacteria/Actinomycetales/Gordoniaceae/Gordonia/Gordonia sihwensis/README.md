@@ -1,5 +1,4 @@
-Gordonia sihwensis Kim et al., 2003 SPECIES
-=======
+# Gordonia sihwensis Kim et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius alphitodes Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius alphitodes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora melaena (Syd.) Deighton SPECIES
-=======
+# Pseudocercospora melaena (Syd.) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ammobaculites pauperculus Zheng & Fu, 2001 SPECIES
-=======
+# Ammobaculites pauperculus Zheng & Fu, 2001 SPECIES
 
 #### Status
 ACCEPTED

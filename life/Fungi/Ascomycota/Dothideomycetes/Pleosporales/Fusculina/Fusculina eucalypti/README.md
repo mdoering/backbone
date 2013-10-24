@@ -1,5 +1,4 @@
-Fusculina eucalypti Crous & Summerell, 2006 SPECIES
-=======
+# Fusculina eucalypti Crous & Summerell, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coenogonium saunosum anon. SPECIES
-=======
+# Coenogonium saunosum anon. SPECIES
 
 #### Status
 ACCEPTED

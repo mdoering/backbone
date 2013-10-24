@@ -1,5 +1,4 @@
-Sollasites M.Black, 1967 GENUS
-=======
+# Sollasites M.Black, 1967 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vaucheria geminata (Vaucher) De Candolle SPECIES
-=======
+# Vaucheria geminata (Vaucher) De Candolle SPECIES
 
 #### Status
 ACCEPTED

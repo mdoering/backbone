@@ -1,5 +1,4 @@
-Cercospora epigaea Ellis & Dearn. SPECIES
-=======
+# Cercospora epigaea Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

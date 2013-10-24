@@ -1,5 +1,4 @@
-Spondylocladium tremae Sawada SPECIES
-=======
+# Spondylocladium tremae Sawada SPECIES
 
 #### Status
 ACCEPTED

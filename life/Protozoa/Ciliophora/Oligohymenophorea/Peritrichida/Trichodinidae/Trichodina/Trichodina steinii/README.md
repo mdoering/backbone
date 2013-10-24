@@ -1,8 +1,7 @@
-Trichodina steini Claparède & Lachmann, 1858 SPECIES
-=======
+# Trichodina steinii Claparède & Lachmann, 1858 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Thalloidima paradoxum Jatta SPECIES
-=======
+# Thalloidima paradoxum Jatta SPECIES
 
 #### Status
 ACCEPTED

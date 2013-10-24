@@ -1,14 +1,13 @@
-Erinella cervina Ellis & Everh., 1897 SPECIES
-=======
+# Lachnellula cervina (Ellis & Everh.) Dennis, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kew Bull. 17(2): 338 (1963)
 
 #### Original name
 Erinella cervina Ellis & Everh., 1897

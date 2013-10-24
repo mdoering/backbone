@@ -1,5 +1,4 @@
-Leptosphaeria yulan Sacc. SPECIES
-=======
+# Leptosphaeria yulan Sacc. SPECIES
 
 #### Status
 ACCEPTED

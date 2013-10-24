@@ -1,5 +1,4 @@
-Stilophora rhizoides SPECIES
-=======
+# Stilophora rhizoides SPECIES
 
 #### Status
 ACCEPTED

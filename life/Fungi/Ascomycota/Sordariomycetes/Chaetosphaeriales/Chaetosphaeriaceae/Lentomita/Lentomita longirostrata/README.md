@@ -1,5 +1,4 @@
-Lentomita longirostrata G.F. Atk. SPECIES
-=======
+# Lentomita longirostrata G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

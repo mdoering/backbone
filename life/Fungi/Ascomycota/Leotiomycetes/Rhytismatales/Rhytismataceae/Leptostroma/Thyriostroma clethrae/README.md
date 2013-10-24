@@ -1,5 +1,4 @@
-Thyriostroma clethrae Bat. & Taltasse SPECIES
-=======
+# Thyriostroma clethrae Bat. & Taltasse SPECIES
 
 #### Status
 ACCEPTED

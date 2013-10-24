@@ -1,5 +1,4 @@
-Phyllosticta neomexicana Kabát & Bubák ex Sacc. & Trotter SPECIES
-=======
+# Phyllosticta neomexicana Kabát & Bubák ex Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

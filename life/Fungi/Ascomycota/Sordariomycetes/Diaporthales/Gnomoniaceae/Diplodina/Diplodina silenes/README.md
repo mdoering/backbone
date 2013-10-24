@@ -1,5 +1,4 @@
-Diplodina silenes W.B. Cooke SPECIES
-=======
+# Diplodina silenes W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

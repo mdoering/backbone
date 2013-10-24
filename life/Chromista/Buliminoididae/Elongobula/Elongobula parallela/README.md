@@ -1,5 +1,4 @@
-Elongobula parallela (Cushman & Parker, 1931) SPECIES
-=======
+# Elongobula parallela (Cushman & Parker, 1931) SPECIES
 
 #### Status
 ACCEPTED

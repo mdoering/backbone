@@ -1,5 +1,4 @@
-Galerina laeta Singer SPECIES
-=======
+# Galerina laeta Singer SPECIES
 
 #### Status
 ACCEPTED

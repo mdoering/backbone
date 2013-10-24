@@ -1,5 +1,4 @@
-Polystigma orbiculatum (Syd. & P. Syd.) Arx & E. Müll., 1954 SPECIES
-=======
+# Polystigma orbiculatum (Syd. & P. Syd.) Arx & E. Müll., 1954 SPECIES
 
 #### Status
 ACCEPTED

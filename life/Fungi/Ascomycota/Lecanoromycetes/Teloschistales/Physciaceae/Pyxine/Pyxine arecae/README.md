@@ -1,5 +1,4 @@
-Pyxine arecae Spreng. SPECIES
-=======
+# Pyxine arecae Spreng. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina gracillima (Kremp.) Müll. Arg. SPECIES
-=======
+# Graphina gracillima (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

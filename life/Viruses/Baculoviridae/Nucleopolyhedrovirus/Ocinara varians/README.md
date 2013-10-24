@@ -1,5 +1,4 @@
-Ocinara varians Npv SPECIES
-=======
+# Ocinara varians Npv SPECIES
 
 #### Status
 ACCEPTED

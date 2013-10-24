@@ -1,5 +1,4 @@
-Ustilago andropogonis-annulati Bref. SPECIES
-=======
+# Ustilago andropogonis-annulati Bref. SPECIES
 
 #### Status
 ACCEPTED

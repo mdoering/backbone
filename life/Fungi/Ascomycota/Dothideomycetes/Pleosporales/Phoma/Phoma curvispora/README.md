@@ -1,5 +1,4 @@
-Phoma curvispora Vouaux SPECIES
-=======
+# Phoma curvispora Vouaux SPECIES
 
 #### Status
 ACCEPTED

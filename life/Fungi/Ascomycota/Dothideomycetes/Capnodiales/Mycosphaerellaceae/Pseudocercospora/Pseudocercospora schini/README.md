@@ -1,5 +1,4 @@
-Pseudocercospora schini (Syd. & P. Syd.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora schini (Syd. & P. Syd.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

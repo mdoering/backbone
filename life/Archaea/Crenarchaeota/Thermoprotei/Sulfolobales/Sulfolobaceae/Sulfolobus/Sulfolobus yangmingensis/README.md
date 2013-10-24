@@ -1,5 +1,4 @@
-Sulfolobus yangmingensis Jan et al., 1999 SPECIES
-=======
+# Sulfolobus yangmingensis Jan et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scleroderris sepiaria (P. Karst.) Sacc. SPECIES
-=======
+# Scleroderris sepiaria (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

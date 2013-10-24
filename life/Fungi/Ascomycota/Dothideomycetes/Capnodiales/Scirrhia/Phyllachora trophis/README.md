@@ -1,5 +1,4 @@
-Phyllachora trophis F. Stevens, 1927 SPECIES
-=======
+# Phyllachora trophis F. Stevens, 1927 SPECIES
 
 #### Status
 DOUBTFUL

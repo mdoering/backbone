@@ -1,5 +1,4 @@
-Kyphomyces carinatus (Thaxt.) I.I. Tav. SPECIES
-=======
+# Kyphomyces carinatus (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

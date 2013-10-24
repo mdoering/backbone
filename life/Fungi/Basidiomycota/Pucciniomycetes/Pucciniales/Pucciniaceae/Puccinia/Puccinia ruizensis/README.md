@@ -1,5 +1,4 @@
-Puccinia ruizensis Mayor, 1913 SPECIES
-=======
+# Puccinia ruizensis Mayor, 1913 SPECIES
 
 #### Status
 ACCEPTED

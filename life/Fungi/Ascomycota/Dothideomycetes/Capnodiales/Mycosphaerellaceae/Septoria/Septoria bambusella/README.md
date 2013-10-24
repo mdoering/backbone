@@ -1,5 +1,4 @@
-Septoria bambusella Speg. SPECIES
-=======
+# Septoria bambusella Speg. SPECIES
 
 #### Status
 ACCEPTED

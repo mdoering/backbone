@@ -1,5 +1,4 @@
-Physcia capensis (L. f.) De Not. SPECIES
-=======
+# Physcia capensis (L. f.) De Not. SPECIES
 
 #### Status
 ACCEPTED

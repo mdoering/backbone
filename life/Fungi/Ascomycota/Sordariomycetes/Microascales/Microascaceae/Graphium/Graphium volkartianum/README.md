@@ -1,5 +1,4 @@
-Graphium volkartianum Magnus SPECIES
-=======
+# Graphium volkartianum Magnus SPECIES
 
 #### Status
 ACCEPTED

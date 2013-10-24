@@ -1,5 +1,4 @@
-Dentalina spinulosa (Montagu) SPECIES
-=======
+# Dentalina spinulosa (Montagu) SPECIES
 
 #### Status
 ACCEPTED

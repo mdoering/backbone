@@ -1,5 +1,4 @@
-Micarea melaeniza Hedl. SPECIES
-=======
+# Micarea melaeniza Hedl. SPECIES
 
 #### Status
 ACCEPTED

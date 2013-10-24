@@ -1,5 +1,4 @@
-Endotrichum Corda, 1838 GENUS
-=======
+# Endotrichum Corda, 1838 GENUS
 
 #### Status
 ACCEPTED

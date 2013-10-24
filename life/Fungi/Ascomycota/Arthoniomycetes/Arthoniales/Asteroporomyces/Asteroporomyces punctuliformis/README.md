@@ -1,5 +1,4 @@
-Asteroporomyces punctuliformis Cif. & Tomas. SPECIES
-=======
+# Asteroporomyces punctuliformis Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

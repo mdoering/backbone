@@ -1,5 +1,4 @@
-Sporotrichum atropurpureum Peck SPECIES
-=======
+# Sporotrichum atropurpureum Peck SPECIES
 
 #### Status
 ACCEPTED

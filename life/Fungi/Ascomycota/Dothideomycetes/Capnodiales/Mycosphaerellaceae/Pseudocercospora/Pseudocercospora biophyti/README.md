@@ -1,5 +1,4 @@
-Pseudocercospora biophyti (Syd. & P. Syd.) Deighton SPECIES
-=======
+# Pseudocercospora biophyti (Syd. & P. Syd.) Deighton SPECIES
 
 #### Status
 ACCEPTED

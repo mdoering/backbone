@@ -1,5 +1,4 @@
-Acidovorax avenae subsp. avenae SUBSPECIES
-=======
+# Acidovorax avenae (Manns, 1909) Willems et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

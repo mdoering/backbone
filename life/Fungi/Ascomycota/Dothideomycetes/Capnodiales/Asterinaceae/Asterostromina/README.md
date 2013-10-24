@@ -1,5 +1,4 @@
-Asterostromina Bat. & A.F. Vital GENUS
-=======
+# Asterostromina Bat. & A.F. Vital GENUS
 
 #### Status
 ACCEPTED

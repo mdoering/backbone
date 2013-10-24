@@ -1,5 +1,4 @@
-Sphaerella brionnensis Sacc. & Malbr. SPECIES
-=======
+# Sphaerella brionnensis Sacc. & Malbr. SPECIES
 
 #### Status
 ACCEPTED

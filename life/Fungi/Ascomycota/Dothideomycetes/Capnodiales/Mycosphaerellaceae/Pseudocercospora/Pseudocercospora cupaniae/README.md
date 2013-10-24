@@ -1,5 +1,4 @@
-Pseudocercospora cupaniae (Syd.) U. Braun & F.O. Freire SPECIES
-=======
+# Pseudocercospora cupaniae (Syd.) U. Braun & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

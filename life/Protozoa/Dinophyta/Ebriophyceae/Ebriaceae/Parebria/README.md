@@ -1,5 +1,4 @@
-Parebria Hovasse, 1932 GENUS
-=======
+# Parebria Hovasse, 1932 GENUS
 
 #### Status
 ACCEPTED

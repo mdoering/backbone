@@ -1,5 +1,4 @@
-Nephrochytrium aurantium Whiffen, 1941 SPECIES
-=======
+# Nephrochytrium aurantium Whiffen, 1941 SPECIES
 
 #### Status
 ACCEPTED

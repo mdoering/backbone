@@ -1,5 +1,4 @@
-Nigrocupula GENUS
-=======
+# Nigrocupula GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oxydothis maquilingiana (Sacc.) K.D. Hyde SPECIES
-=======
+# Oxydothis maquilingiana (Sacc.) K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

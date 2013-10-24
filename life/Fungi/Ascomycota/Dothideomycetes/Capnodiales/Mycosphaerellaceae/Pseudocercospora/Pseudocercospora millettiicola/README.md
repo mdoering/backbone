@@ -1,5 +1,4 @@
-Pseudocercospora millettiicola Y.L. Guo SPECIES
-=======
+# Pseudocercospora millettiicola Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

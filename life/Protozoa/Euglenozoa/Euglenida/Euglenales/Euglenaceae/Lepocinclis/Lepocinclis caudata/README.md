@@ -1,5 +1,4 @@
-Lepocinclis caudata var. wangii (S. P. Chu) Z. X. Shi VARIETY
-=======
+# Lepocinclis caudata A.M. Cunha SPECIES
 
 #### Status
 ACCEPTED

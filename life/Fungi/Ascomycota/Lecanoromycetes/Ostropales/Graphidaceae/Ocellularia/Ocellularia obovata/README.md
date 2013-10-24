@@ -1,14 +1,13 @@
-Thelotrema obovatum Stirt. SPECIES
-=======
+# Ocellularia obovata (Stirt.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Trans. Glasgow Soc. Fld Nat. 1: 21 (1874)
+Bull. Herb. Boissier 2(App. 1): 74 (1894)
 
 #### Original name
 Thelotrema obovatum Stirt.

@@ -1,5 +1,4 @@
-Mesocena connudata D. Bukry SPECIES
-=======
+# Mesocena connudata D. Bukry SPECIES
 
 #### Status
 ACCEPTED

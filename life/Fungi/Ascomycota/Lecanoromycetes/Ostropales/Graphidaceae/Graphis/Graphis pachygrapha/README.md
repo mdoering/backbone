@@ -1,5 +1,4 @@
-Graphis pachygrapha Nyl. SPECIES
-=======
+# Graphis pachygrapha Nyl. SPECIES
 
 #### Status
 ACCEPTED

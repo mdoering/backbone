@@ -1,5 +1,4 @@
-Gloeosporium phaegopteridis Pass. SPECIES
-=======
+# Gloeosporium phaegopteridis Pass. SPECIES
 
 #### Status
 ACCEPTED

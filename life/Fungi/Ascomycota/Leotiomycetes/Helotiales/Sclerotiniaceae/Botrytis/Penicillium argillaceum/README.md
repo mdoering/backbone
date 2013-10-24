@@ -1,5 +1,4 @@
-Penicillium argillaceum Stolk, H.C. Evans & T. Nilsson, 1969 SPECIES
-=======
+# Penicillium argillaceum Stolk, H.C. Evans & T. Nilsson, 1969 SPECIES
 
 #### Status
 DOUBTFUL

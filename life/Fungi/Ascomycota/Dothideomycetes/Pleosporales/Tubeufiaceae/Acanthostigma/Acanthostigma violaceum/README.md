@@ -1,5 +1,4 @@
-Acanthostigma violaceum Racib. SPECIES
-=======
+# Acanthostigma violaceum Racib. SPECIES
 
 #### Status
 ACCEPTED

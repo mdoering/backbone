@@ -1,5 +1,4 @@
-Acarospora nigrocastanea Hue SPECIES
-=======
+# Acarospora nigrocastanea Hue SPECIES
 
 #### Status
 ACCEPTED

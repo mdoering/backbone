@@ -1,5 +1,4 @@
-Aecidium pisi-formosi Syd. & P. Syd. SPECIES
-=======
+# Aecidium pisi-formosi Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

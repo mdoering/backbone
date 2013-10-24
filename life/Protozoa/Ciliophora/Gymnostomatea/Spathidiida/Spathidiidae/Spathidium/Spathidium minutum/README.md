@@ -1,5 +1,4 @@
-Spathidium minutum Kahl, 1926 SPECIES
-=======
+# Spathidium minutum Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterinella flexuosa (G. Winter) Theiss. SPECIES
-=======
+# Asterinella flexuosa (G. Winter) Theiss. SPECIES
 
 #### Status
 ACCEPTED

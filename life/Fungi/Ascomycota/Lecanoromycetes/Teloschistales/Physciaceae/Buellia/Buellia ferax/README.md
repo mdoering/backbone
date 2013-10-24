@@ -1,5 +1,4 @@
-Buellia ferax Müll. Arg. SPECIES
-=======
+# Buellia ferax Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

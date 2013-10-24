@@ -1,5 +1,4 @@
-Pezizella pulchella Fuckel SPECIES
-=======
+# Pezizella pulchella Fuckel SPECIES
 
 #### Status
 ACCEPTED

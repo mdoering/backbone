@@ -1,14 +1,13 @@
-Rozellopsis waterhouseae Karling, 1942 SPECIES
-=======
+# Gracea waterhouseae (Karling) M.W. Dick, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. J. Bot. 29: 34 (1942)
+Mycol. Res. 101(7): 882 (1997)
 
 #### Original name
 Rozellopsis waterhouseae Karling, 1942

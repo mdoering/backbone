@@ -1,5 +1,4 @@
-Uredo sibthorpiae J.C. Lindq. SPECIES
-=======
+# Uredo sibthorpiae J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

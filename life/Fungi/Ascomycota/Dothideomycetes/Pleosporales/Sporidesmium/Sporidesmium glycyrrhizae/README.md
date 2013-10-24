@@ -1,5 +1,4 @@
-Sporidesmium glycyrrhizae Antok. SPECIES
-=======
+# Sporidesmium glycyrrhizae Antok. SPECIES
 
 #### Status
 ACCEPTED

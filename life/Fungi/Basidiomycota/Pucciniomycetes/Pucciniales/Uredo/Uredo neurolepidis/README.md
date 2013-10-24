@@ -1,5 +1,4 @@
-Uredo neurolepidis Pardo-Card. SPECIES
-=======
+# Uredo neurolepidis Pardo-Card. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporidesmium leguminosa Fairm. SPECIES
-=======
+# Sporidesmium leguminosa Fairm. SPECIES
 
 #### Status
 ACCEPTED

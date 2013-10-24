@@ -1,5 +1,4 @@
-Triacartus Haeckel, 1881 GENUS
-=======
+# Triacartus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

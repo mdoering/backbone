@@ -1,5 +1,4 @@
-Pilobolus kleinii Tiegh. SPECIES
-=======
+# Pilobolus kleinii Tiegh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mitsuaria chitosanitabida Amakata et al., 2005 SPECIES
-=======
+# Mitsuaria chitosanitabida Amakata et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

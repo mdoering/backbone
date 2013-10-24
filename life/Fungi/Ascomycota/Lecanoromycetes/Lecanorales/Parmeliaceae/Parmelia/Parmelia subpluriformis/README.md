@@ -1,5 +1,4 @@
-Parmelia subpluriformis Zahlbr. SPECIES
-=======
+# Parmelia subpluriformis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

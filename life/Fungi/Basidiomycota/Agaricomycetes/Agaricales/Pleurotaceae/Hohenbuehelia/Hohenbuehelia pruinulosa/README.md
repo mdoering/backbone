@@ -1,14 +1,13 @@
-Hohenbuehelia pruinosula (Pat. & Demange) Singer SPECIES
-=======
+# Hohenbuehelia pruinulosa (Pat. & Demange) Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lilloa 22: 256 (1951)
 
 #### Original name
 Calathinus pruinulosus Pat. & Demange

@@ -1,5 +1,4 @@
-Fusarium inflexum R. Schneid., 1975 SPECIES
-=======
+# Fusarium inflexum R. Schneid., 1975 SPECIES
 
 #### Status
 ACCEPTED

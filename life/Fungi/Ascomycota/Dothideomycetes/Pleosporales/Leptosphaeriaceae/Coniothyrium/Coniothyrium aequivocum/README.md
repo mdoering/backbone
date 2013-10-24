@@ -1,5 +1,4 @@
-Coniothyrium aequivocum (Ces.) Sacc. SPECIES
-=======
+# Coniothyrium aequivocum (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

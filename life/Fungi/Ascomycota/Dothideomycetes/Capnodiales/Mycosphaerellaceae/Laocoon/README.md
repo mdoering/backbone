@@ -1,5 +1,4 @@
-Laocoon J.C. David, 1997 GENUS
-=======
+# Laocoon J.C. David, 1997 GENUS
 
 #### Status
 ACCEPTED

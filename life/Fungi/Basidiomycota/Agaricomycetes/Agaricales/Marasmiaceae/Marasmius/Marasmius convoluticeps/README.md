@@ -1,5 +1,4 @@
-Marasmius convoluticeps Singer SPECIES
-=======
+# Marasmius convoluticeps Singer SPECIES
 
 #### Status
 ACCEPTED

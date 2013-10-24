@@ -1,5 +1,4 @@
-Peniophora canadensis Burt SPECIES
-=======
+# Peniophora canadensis Burt SPECIES
 
 #### Status
 ACCEPTED

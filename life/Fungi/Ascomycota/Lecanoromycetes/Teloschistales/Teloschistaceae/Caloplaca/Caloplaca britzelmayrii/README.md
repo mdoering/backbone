@@ -1,14 +1,13 @@
-Caloplaca britzelmayri (Hue) Zahlbr. SPECIES
-=======
+# Caloplaca britzelmayrii (Hue) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 7: 80 (1930)
 
 #### Original name
 Lecidea britzelmayrii Hue

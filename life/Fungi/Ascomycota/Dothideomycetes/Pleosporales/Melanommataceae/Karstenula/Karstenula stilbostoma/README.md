@@ -1,17 +1,16 @@
-Mycothyridium stilbostomum (Ellis & Everh.) Petr., 1962 SPECIES
-=======
+# Karstenula stilbostoma (Ellis & Everh.) M.E. Barr, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Amer. Fl. (New York), Ser. 2 13: 53 (1990)
 
 #### Original name
-null
+Thyridium stilbostomum Ellis & Everh., 1903
 
 ### Remarks
 null

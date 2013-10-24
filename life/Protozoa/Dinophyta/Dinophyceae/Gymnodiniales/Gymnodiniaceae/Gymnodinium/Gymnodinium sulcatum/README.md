@@ -1,5 +1,4 @@
-Gymnodinium sulcatum Kofoid & Swezy, 1921 SPECIES
-=======
+# Gymnodinium sulcatum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

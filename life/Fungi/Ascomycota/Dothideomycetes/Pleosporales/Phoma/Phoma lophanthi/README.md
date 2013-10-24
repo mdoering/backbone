@@ -1,5 +1,4 @@
-Phoma lophanthi Bubák SPECIES
-=======
+# Phoma lophanthi Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calosphaeriales M.E. Barr ORDER
-=======
+# Calosphaeriales M.E. Barr ORDER
 
 #### Status
 ACCEPTED

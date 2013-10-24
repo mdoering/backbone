@@ -1,5 +1,4 @@
-Scolecosporiella amazonensis Matsush. SPECIES
-=======
+# Scolecosporiella amazonensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

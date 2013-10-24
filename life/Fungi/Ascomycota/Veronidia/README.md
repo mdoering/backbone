@@ -1,5 +1,4 @@
-Veronidia Negru GENUS
-=======
+# Veronidia Negru GENUS
 
 #### Status
 ACCEPTED

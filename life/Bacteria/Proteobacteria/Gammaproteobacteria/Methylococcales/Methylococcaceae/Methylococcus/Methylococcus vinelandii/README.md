@@ -1,5 +1,4 @@
-Methylococcus vinelandii Romanovskaya et al., 1981 SPECIES
-=======
+# Methylococcus vinelandii Romanovskaya et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

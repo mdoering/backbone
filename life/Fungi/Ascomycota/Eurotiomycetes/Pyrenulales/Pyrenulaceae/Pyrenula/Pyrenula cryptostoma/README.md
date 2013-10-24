@@ -1,5 +1,4 @@
-Pyrenula cryptostoma (Nyl.) Müll. Arg. SPECIES
-=======
+# Pyrenula cryptostoma (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

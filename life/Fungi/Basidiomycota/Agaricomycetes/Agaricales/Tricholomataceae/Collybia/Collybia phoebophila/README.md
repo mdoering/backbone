@@ -1,5 +1,4 @@
-Collybia phoebophila Singer SPECIES
-=======
+# Collybia phoebophila Singer SPECIES
 
 #### Status
 ACCEPTED

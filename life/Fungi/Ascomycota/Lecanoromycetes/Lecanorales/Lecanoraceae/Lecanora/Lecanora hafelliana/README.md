@@ -1,5 +1,4 @@
-Lecanora hafelliana L. Lü, Y. Joshi & Hur SPECIES
-=======
+# Lecanora hafelliana L. Lü, Y. Joshi & Hur SPECIES
 
 #### Status
 ACCEPTED

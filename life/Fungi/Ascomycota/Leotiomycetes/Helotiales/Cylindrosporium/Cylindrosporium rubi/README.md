@@ -1,5 +1,4 @@
-Cylindrosporium rubi Ellis & Morgan SPECIES
-=======
+# Cylindrosporium rubi Ellis & Morgan SPECIES
 
 #### Status
 ACCEPTED

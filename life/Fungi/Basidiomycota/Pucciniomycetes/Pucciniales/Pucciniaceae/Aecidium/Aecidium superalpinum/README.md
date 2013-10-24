@@ -1,5 +1,4 @@
-Aecidium superalpinum Jørst. SPECIES
-=======
+# Aecidium superalpinum Jørst. SPECIES
 
 #### Status
 ACCEPTED

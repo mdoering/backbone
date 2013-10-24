@@ -1,5 +1,4 @@
-Rhinotrichum multisporum Doguet SPECIES
-=======
+# Rhinotrichum multisporum Doguet SPECIES
 
 #### Status
 ACCEPTED

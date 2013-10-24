@@ -1,5 +1,4 @@
-Septoriopsis citri Gonz. Frag. SPECIES
-=======
+# Septoriopsis citri Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

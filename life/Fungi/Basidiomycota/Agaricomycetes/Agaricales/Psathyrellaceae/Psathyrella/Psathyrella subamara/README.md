@@ -1,5 +1,4 @@
-Psathyrella subamara A.H. Sm. SPECIES
-=======
+# Psathyrella subamara A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

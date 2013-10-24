@@ -1,5 +1,4 @@
-Lamtoquadrula Bonnet, 1975 GENUS
-=======
+# Lamtoquadrula Bonnet, 1975 GENUS
 
 #### Status
 ACCEPTED

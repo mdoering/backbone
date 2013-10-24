@@ -1,5 +1,4 @@
-Polyporus humboldtii Pers. SPECIES
-=======
+# Polyporus humboldtii Pers. SPECIES
 
 #### Status
 ACCEPTED

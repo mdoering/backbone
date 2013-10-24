@@ -1,5 +1,4 @@
-Phomopsis longiparaphysata Uecker & K.C. Kuo, 1992 SPECIES
-=======
+# Phomopsis longiparaphysata Uecker & K.C. Kuo, 1992 SPECIES
 
 #### Status
 ACCEPTED

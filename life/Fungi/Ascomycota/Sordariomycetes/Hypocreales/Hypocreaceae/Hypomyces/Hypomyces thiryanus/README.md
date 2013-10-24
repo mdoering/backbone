@@ -1,5 +1,4 @@
-Hypomyces thiryanus Maire SPECIES
-=======
+# Hypomyces thiryanus Maire SPECIES
 
 #### Status
 ACCEPTED

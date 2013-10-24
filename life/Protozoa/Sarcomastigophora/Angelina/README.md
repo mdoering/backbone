@@ -1,5 +1,4 @@
-Angelina Altiner, 1988 GENUS
-=======
+# Angelina Altiner, 1988 GENUS
 
 #### Status
 ACCEPTED

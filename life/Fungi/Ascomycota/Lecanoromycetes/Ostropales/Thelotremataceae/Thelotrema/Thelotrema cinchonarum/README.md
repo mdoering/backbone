@@ -1,5 +1,4 @@
-Thelotrema cinchonarum (Fée) Vain. SPECIES
-=======
+# Thelotrema cinchonarum (Fée) Vain. SPECIES
 
 #### Status
 ACCEPTED

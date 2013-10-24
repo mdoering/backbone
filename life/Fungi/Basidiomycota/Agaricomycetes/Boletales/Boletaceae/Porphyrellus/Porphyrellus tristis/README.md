@@ -1,5 +1,4 @@
-Porphyrellus tristis (Pat. & C.F. Baker) Singer SPECIES
-=======
+# Porphyrellus tristis (Pat. & C.F. Baker) Singer SPECIES
 
 #### Status
 ACCEPTED

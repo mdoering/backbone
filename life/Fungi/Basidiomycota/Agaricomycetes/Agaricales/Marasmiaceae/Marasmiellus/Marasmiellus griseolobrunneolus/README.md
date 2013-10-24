@@ -1,5 +1,4 @@
-Marasmiellus griseolobrunneolus Singer SPECIES
-=======
+# Marasmiellus griseolobrunneolus Singer SPECIES
 
 #### Status
 ACCEPTED

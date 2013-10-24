@@ -1,5 +1,4 @@
-Hebeloma ellipsoideosporium Hesler SPECIES
-=======
+# Hebeloma ellipsoideosporium Hesler SPECIES
 
 #### Status
 ACCEPTED

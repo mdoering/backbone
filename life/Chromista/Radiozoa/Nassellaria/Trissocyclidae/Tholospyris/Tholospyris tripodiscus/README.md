@@ -1,5 +1,4 @@
-Tholospyris tripodiscus Haeckel, 1887 SPECIES
-=======
+# Tholospyris tripodiscus Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

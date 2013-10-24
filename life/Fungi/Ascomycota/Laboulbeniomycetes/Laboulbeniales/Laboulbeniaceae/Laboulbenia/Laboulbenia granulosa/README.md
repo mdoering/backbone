@@ -1,5 +1,4 @@
-Laboulbenia granulosa Thaxt. SPECIES
-=======
+# Laboulbenia granulosa Thaxt. SPECIES
 
 #### Status
 ACCEPTED

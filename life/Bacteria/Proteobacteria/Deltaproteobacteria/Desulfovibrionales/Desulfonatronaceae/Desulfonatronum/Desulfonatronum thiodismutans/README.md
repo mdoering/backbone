@@ -1,5 +1,4 @@
-Desulfonatronum thiodismutans Pikuta et al., 2003 SPECIES
-=======
+# Desulfonatronum thiodismutans Pikuta et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

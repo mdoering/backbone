@@ -1,5 +1,4 @@
-Sporidesmium urceolatum Matsush. SPECIES
-=======
+# Sporidesmium urceolatum Matsush. SPECIES
 
 #### Status
 ACCEPTED

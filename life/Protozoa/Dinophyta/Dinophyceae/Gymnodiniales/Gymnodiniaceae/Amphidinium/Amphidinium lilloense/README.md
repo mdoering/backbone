@@ -1,5 +1,4 @@
-Amphidinium lilloense Conrad & Kufferath SPECIES
-=======
+# Amphidinium lilloense Conrad & Kufferath SPECIES
 
 #### Status
 ACCEPTED

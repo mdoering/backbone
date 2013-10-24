@@ -1,5 +1,4 @@
-Parmelia pulverulenta f. pulverulenta FORM
-=======
+# Parmelia pulverulenta SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Proc. Amer. Acad. Arts & Sci. 1: 224 (1847)
 
 #### Original name
-Parmelia pulverulenta f. pulverulenta
+Parmelia pulverulenta
 
 ### Remarks
 null

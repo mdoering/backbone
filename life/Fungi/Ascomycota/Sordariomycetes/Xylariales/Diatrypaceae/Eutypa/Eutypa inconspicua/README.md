@@ -1,5 +1,4 @@
-Eutypa inconspicua Rehm SPECIES
-=======
+# Eutypa inconspicua Rehm SPECIES
 
 #### Status
 ACCEPTED

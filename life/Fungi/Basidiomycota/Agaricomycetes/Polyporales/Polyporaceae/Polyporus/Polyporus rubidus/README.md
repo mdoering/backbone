@@ -1,5 +1,4 @@
-Polyporus rubidus Berk. SPECIES
-=======
+# Polyporus rubidus Berk. SPECIES
 
 #### Status
 ACCEPTED

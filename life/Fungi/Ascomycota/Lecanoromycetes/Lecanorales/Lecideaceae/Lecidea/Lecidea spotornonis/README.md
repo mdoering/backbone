@@ -1,5 +1,4 @@
-Lecidea spotornonis B. de Lesd. SPECIES
-=======
+# Lecidea spotornonis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

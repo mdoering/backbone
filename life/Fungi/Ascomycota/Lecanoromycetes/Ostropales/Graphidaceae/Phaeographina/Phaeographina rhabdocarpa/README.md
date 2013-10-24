@@ -1,5 +1,4 @@
-Phaeographina rhabdocarpa (Müll. Arg.) Redinger SPECIES
-=======
+# Phaeographina rhabdocarpa (Müll. Arg.) Redinger SPECIES
 
 #### Status
 ACCEPTED

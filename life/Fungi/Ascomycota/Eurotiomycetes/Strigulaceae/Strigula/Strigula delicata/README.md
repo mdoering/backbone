@@ -1,5 +1,4 @@
-Strigula delicata Sérus. SPECIES
-=======
+# Strigula delicata Sérus. SPECIES
 
 #### Status
 ACCEPTED

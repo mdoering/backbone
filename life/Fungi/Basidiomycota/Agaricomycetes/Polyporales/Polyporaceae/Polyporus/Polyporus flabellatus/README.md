@@ -1,5 +1,4 @@
-Polyporus flabellatus Schulzer & Bres. SPECIES
-=======
+# Polyporus flabellatus Schulzer & Bres. SPECIES
 
 #### Status
 ACCEPTED

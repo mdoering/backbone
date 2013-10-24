@@ -1,5 +1,4 @@
-Bacidia pallida (Müll. Arg.) Darb. SPECIES
-=======
+# Bacidia pallida (Müll. Arg.) Darb. SPECIES
 
 #### Status
 ACCEPTED

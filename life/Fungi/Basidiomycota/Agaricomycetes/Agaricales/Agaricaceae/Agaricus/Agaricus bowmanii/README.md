@@ -1,5 +1,4 @@
-Agaricus bowmanii F. Muell. ex Berk. SPECIES
-=======
+# Agaricus bowmanii F. Muell. ex Berk. SPECIES
 
 #### Status
 ACCEPTED

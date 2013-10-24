@@ -1,5 +1,4 @@
-Entoloma cogitatum E. Horak SPECIES
-=======
+# Entoloma cogitatum E. Horak SPECIES
 
 #### Status
 ACCEPTED

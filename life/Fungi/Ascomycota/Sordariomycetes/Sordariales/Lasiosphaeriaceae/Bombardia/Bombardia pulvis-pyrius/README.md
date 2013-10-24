@@ -1,5 +1,4 @@
-Bombardia pulvis-pyrius (Penz. & Sacc.) Höhn. SPECIES
-=======
+# Bombardia pulvis-pyrius (Penz. & Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

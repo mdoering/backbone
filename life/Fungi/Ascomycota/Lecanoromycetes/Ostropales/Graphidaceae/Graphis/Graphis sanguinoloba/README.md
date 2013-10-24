@@ -1,5 +1,4 @@
-Graphis sanguinoloba Redinger SPECIES
-=======
+# Graphis sanguinoloba Redinger SPECIES
 
 #### Status
 ACCEPTED

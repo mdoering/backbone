@@ -1,5 +1,4 @@
-Dennisographium ustulinae (Pat.) Seifert SPECIES
-=======
+# Dennisographium ustulinae (Pat.) Seifert SPECIES
 
 #### Status
 ACCEPTED

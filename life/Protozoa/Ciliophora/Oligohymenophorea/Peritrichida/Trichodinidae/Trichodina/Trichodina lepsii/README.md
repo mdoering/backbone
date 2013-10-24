@@ -1,5 +1,4 @@
-Trichodina lepsii Lom, 1962 SPECIES
-=======
+# Trichodina lepsii Lom, 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe serrata Cleland SPECIES
-=======
+# Inocybe serrata Cleland SPECIES
 
 #### Status
 ACCEPTED

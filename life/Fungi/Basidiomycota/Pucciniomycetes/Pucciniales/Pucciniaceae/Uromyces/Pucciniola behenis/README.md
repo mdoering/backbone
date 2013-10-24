@@ -1,5 +1,4 @@
-Pucciniola behenis (DC.) Marchand SPECIES
-=======
+# Pucciniola behenis (DC.) Marchand SPECIES
 
 #### Status
 ACCEPTED

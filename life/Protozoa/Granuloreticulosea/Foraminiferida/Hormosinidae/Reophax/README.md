@@ -1,14 +1,13 @@
-Rheophax Oken, 1815 GENUS
-=======
+# Reophax de Montfort, 1808 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lehrb. Nat. , 3 (1), 323.
+Conch. , 1, 330.
 
 #### Original name
 null

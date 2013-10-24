@@ -1,5 +1,4 @@
-"Globigerinoides helicina (D' Orbigny) " SPECIES
-=======
+# "Globigerinoides helicina (D' Orbigny) " SPECIES
 
 #### Status
 ACCEPTED

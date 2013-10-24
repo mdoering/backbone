@@ -1,5 +1,4 @@
-Skeletonema probabilis SPECIES
-=======
+# Skeletonema probabilis SPECIES
 
 #### Status
 ACCEPTED

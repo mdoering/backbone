@@ -1,17 +1,16 @@
-Tryblidium colletiae Speg. SPECIES
-=======
+# Triblidium colletiae Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Mus. nac. B. Aires, Ser. 2 6: 300 (1899)
 
 #### Original name
-Tryblidium colletiae Speg.
+Triblidium colletiae Speg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Endocarpon tahitense Vain. SPECIES
-=======
+# Endocarpon tahitense Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudotulasnella Lowy GENUS
-=======
+# Pseudotulasnella Lowy GENUS
 
 #### Status
 ACCEPTED

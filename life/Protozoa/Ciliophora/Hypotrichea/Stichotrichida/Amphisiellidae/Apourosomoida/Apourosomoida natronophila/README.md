@@ -1,8 +1,7 @@
-Apourosomoida natronophilus (Dietz, 1965) Berger, 2008 SPECIES
-=======
+# Apourosomoida natronophila (Dietz, 1965) Berger SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

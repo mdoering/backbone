@@ -1,5 +1,4 @@
-Scutula Tulasne, 1852 GENUS
-=======
+# Scutula Tulasne, 1852 GENUS
 
 #### Status
 ACCEPTED

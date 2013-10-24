@@ -1,5 +1,4 @@
-Eurotium albidum (Eichelb.) Sacc. SPECIES
-=======
+# Eurotium albidum (Eichelb.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

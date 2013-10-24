@@ -1,17 +1,16 @@
-Guignardia xanthosomatis Cif. & Gonz. Frag. SPECIES
-=======
+# Guignardia xanthosomae Cif. & Gonz. Frag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Boln de la Real Soc. Españ. Hist. Nat. , Madrid 26: 493 (1926)
 
 #### Original name
-Guignardia xanthosomatis Cif. & Gonz. Frag.
+Guignardia xanthosomae Cif. & Gonz. Frag.
 
 ### Remarks
 null

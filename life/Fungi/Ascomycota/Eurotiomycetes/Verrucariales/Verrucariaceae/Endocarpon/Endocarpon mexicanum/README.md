@@ -1,5 +1,4 @@
-Endocarpon mexicanum B. de Lesd. SPECIES
-=======
+# Endocarpon mexicanum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

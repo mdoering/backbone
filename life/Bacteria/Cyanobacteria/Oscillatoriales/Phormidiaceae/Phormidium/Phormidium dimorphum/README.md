@@ -1,5 +1,4 @@
-Phormidium dimorphum Lemmermann SPECIES
-=======
+# Phormidium dimorphum Lemmermann SPECIES
 
 #### Status
 ACCEPTED

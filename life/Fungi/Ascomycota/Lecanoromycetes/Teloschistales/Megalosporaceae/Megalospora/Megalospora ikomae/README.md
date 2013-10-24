@@ -1,5 +1,4 @@
-Megalospora ikomae (Räsänen) M. Satô SPECIES
-=======
+# Megalospora ikomae (Räsänen) M. Satô SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Allodium GENUS
-=======
+# Allodium GENUS
 
 #### Status
 ACCEPTED

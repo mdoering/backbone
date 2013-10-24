@@ -1,5 +1,4 @@
-Simocybe tiliophila (Peck) Singer SPECIES
-=======
+# Simocybe tiliophila (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

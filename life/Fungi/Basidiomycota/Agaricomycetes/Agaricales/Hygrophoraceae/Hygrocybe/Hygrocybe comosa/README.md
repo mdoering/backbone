@@ -1,5 +1,4 @@
-Hygrocybe comosa Bas & Arnolds SPECIES
-=======
+# Hygrocybe comosa Bas & Arnolds SPECIES
 
 #### Status
 ACCEPTED

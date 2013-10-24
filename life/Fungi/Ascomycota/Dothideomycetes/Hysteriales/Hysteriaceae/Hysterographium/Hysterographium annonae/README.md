@@ -1,17 +1,16 @@
-Hysterographium anonae Celotti SPECIES
-=======
+# Hysterographium annonae Celotti SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Miceti del parco e dintorni della scuola nazionale di agricoltura di Montpellier raccolti e studiati (1887)
 
 #### Original name
-Hysterographium anonae Celotti
+Hysterographium annonae Celotti
 
 ### Remarks
 null

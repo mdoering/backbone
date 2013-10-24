@@ -1,5 +1,4 @@
-Pulveroboletus albopruinosus Cetto SPECIES
-=======
+# Pulveroboletus albopruinosus Cetto SPECIES
 
 #### Status
 ACCEPTED

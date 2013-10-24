@@ -1,5 +1,4 @@
-Trypethelium paradoxum Ach. SPECIES
-=======
+# Trypethelium paradoxum Ach. SPECIES
 
 #### Status
 ACCEPTED

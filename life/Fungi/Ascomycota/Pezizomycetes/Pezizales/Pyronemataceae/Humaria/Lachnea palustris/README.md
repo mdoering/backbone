@@ -1,5 +1,4 @@
-Lachnea palustris (Speg.) Sacc. SPECIES
-=======
+# Lachnea palustris (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

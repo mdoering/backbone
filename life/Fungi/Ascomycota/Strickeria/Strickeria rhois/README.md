@@ -1,8 +1,7 @@
-Strickera rhois T.M. Achundov SPECIES
-=======
+# Strickeria rhois T.M. Achundov SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Strickera rhois T.M. Achundov
+Strickeria rhois T.M. Achundov
 
 ### Remarks
 null

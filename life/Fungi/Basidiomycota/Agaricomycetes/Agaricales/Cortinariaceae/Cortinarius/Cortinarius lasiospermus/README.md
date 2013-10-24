@@ -1,5 +1,4 @@
-Cortinarius lasiospermus M.M. Moser SPECIES
-=======
+# Cortinarius lasiospermus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

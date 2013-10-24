@@ -1,5 +1,4 @@
-Uromyces celtidis Dietel SPECIES
-=======
+# Uromyces celtidis Dietel SPECIES
 
 #### Status
 ACCEPTED

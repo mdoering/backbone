@@ -1,17 +1,16 @@
-Phoma pseudacaciae Sacc., 1884 SPECIES
-=======
+# Phomopsis petiolorum (Desm.) Grove, 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 3: 69 (1884)
+null
 
 #### Original name
-Phoma pseudacaciae Sacc., 1884
+Phoma petiolorum Desm., 1847
 
 ### Remarks
 null

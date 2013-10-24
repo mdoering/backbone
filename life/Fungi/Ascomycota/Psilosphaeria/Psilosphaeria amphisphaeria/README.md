@@ -1,5 +1,4 @@
-Psilosphaeria amphisphaeria (Schulzer) Cooke SPECIES
-=======
+# Psilosphaeria amphisphaeria (Schulzer) Cooke SPECIES
 
 #### Status
 ACCEPTED

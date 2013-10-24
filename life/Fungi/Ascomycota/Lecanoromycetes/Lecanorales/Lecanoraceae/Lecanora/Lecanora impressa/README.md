@@ -1,5 +1,4 @@
-Lecidea impressa var. impressa VARIETY
-=======
+# Lecanora impressa (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 5: 319 (1928)
 
 #### Original name
-Lecidea impressa var. impressa
+Lecidea impressa Kremp.
 
 ### Remarks
 null

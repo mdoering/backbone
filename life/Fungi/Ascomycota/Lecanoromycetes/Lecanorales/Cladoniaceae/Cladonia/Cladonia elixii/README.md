@@ -1,5 +1,4 @@
-Cladonia elixii Ahti & V. Wirth SPECIES
-=======
+# Cladonia elixii Ahti & V. Wirth SPECIES
 
 #### Status
 ACCEPTED

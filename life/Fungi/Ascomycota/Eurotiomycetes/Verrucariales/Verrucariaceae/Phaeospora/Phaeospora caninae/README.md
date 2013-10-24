@@ -1,5 +1,4 @@
-Phaeospora caninae (W. Phillips & Plowr.) SPECIES
-=======
+# Phaeospora caninae (W. Phillips & Plowr.) SPECIES
 
 #### Status
 ACCEPTED

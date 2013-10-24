@@ -1,5 +1,4 @@
-Hagenia detersa SPECIES
-=======
+# Hagenia detersa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimeromyces platycilibis Thaxt. SPECIES
-=======
+# Dimeromyces platycilibis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

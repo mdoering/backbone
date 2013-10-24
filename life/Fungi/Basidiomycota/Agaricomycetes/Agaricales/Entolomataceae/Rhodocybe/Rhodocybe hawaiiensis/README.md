@@ -1,5 +1,4 @@
-Rhodocybe hawaiiensis Singer SPECIES
-=======
+# Rhodocybe hawaiiensis Singer SPECIES
 
 #### Status
 ACCEPTED

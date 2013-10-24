@@ -1,5 +1,4 @@
-Oleibacter marinus Teramoto, Ohuchi, Hatmanti, Darmayati, Widyastuti, Harayama & Fukunaga, 2011 SPECIES
-=======
+# Oleibacter marinus Teramoto, Ohuchi, Hatmanti, Darmayati, Widyastuti, Harayama & Fukunaga, 2011 SPECIES
 
 #### Status
 ACCEPTED

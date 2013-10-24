@@ -1,5 +1,4 @@
-Cudonia orientalis Yasuda SPECIES
-=======
+# Cudonia orientalis Yasuda SPECIES
 
 #### Status
 ACCEPTED

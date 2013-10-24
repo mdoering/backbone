@@ -1,5 +1,4 @@
-Opegrapha loandensis Nyl. SPECIES
-=======
+# Opegrapha loandensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

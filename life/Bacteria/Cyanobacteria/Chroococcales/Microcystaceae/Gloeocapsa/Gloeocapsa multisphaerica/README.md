@@ -1,5 +1,4 @@
-Gloeocapsa multisphaerica Gardner SPECIES
-=======
+# Gloeocapsa multisphaerica Gardner SPECIES
 
 #### Status
 ACCEPTED

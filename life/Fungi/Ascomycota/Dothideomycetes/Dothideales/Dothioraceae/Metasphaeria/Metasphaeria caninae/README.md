@@ -1,5 +1,4 @@
-Metasphaeria caninae Pass. SPECIES
-=======
+# Metasphaeria caninae Pass. SPECIES
 
 #### Status
 ACCEPTED

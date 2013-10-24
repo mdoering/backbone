@@ -1,5 +1,4 @@
-Arthonia lecideoides C. Knight SPECIES
-=======
+# Arthonia lecideoides C. Knight SPECIES
 
 #### Status
 ACCEPTED

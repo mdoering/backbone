@@ -1,5 +1,4 @@
-Placodium persicum Müll. Arg. SPECIES
-=======
+# Placodium persicum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

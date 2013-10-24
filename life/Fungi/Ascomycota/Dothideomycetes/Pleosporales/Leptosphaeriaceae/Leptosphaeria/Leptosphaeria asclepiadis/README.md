@@ -1,5 +1,4 @@
-Leptosphaeria asclepiadis Khokhr. SPECIES
-=======
+# Leptosphaeria asclepiadis Khokhr. SPECIES
 
 #### Status
 ACCEPTED

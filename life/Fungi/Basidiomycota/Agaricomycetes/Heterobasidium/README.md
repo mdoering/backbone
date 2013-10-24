@@ -1,5 +1,4 @@
-Heterobasidium Massee GENUS
-=======
+# Heterobasidium Massee GENUS
 
 #### Status
 ACCEPTED

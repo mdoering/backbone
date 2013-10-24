@@ -1,5 +1,4 @@
-Spirochaeta lagopodus SPECIES
-=======
+# Spirochaeta lagopodus SPECIES
 
 #### Status
 ACCEPTED

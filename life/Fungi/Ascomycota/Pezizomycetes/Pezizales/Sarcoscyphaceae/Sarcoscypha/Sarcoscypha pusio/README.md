@@ -1,5 +1,4 @@
-Sarcoscypha pusio (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Sarcoscypha pusio (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Clypeolum sorbicolum Kirschst. SPECIES
-=======
+# Clypeolum sorbicola Kirschst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 34: 185 (1936)
 
 #### Original name
-Clypeolum sorbicolum Kirschst.
+Clypeolum sorbicola Kirschst.
 
 ### Remarks
 null

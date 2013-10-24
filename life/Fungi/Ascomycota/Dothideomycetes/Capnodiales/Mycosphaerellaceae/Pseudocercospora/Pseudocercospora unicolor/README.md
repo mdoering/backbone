@@ -1,14 +1,13 @@
-Cercospora unicolor Sacc. & Penz., 1882 SPECIES
-=======
+# Pseudocercospora unicolor (Sacc. & Penz.) P.M. Kirk, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 2(no. 8): 642 (1882)
+Mycotaxon 18(2): 281 (1983)
 
 #### Original name
 Cercospora unicolor Sacc. & Penz., 1882

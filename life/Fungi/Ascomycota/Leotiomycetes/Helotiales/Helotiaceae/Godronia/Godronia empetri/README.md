@@ -1,5 +1,4 @@
-Godronia empetri B. Erikss. SPECIES
-=======
+# Godronia empetri B. Erikss. SPECIES
 
 #### Status
 ACCEPTED

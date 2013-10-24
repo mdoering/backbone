@@ -1,5 +1,4 @@
-Dicaeoma piptatheri (Lagerh.) Kuntze SPECIES
-=======
+# Dicaeoma piptatheri (Lagerh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

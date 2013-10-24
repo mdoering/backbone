@@ -1,5 +1,4 @@
-Porina curtula Malme SPECIES
-=======
+# Porina curtula Malme SPECIES
 
 #### Status
 ACCEPTED

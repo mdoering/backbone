@@ -1,5 +1,4 @@
-Filisphaeridium brachyspinosum (Kiryanov, 1974) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium brachyspinosum (Kiryanov, 1974) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta expansa Stirt. SPECIES
-=======
+# Sticta expansa Stirt. SPECIES
 
 #### Status
 ACCEPTED

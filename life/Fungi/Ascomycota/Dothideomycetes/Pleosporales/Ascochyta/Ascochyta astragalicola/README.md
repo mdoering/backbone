@@ -1,5 +1,4 @@
-Ascochyta astragalicola Petr. SPECIES
-=======
+# Ascochyta astragalicola Petr. SPECIES
 
 #### Status
 ACCEPTED

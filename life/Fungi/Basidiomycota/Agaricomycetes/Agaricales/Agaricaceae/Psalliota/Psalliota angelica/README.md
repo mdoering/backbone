@@ -1,5 +1,4 @@
-Psalliota angelica (Speg.) Herter SPECIES
-=======
+# Psalliota angelica (Speg.) Herter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lasiophoma aconiti Naumov SPECIES
-=======
+# Lasiophoma aconiti Naumov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus integer var. integer L. VARIETY
-=======
+# Agaricus integer Vahl SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Sp. pl. 2: 1171 (1753)
+Fl. Danic. 6: tab. 1009: 1 (1790)
 
 #### Original name
-Agaricus integer var. integer L.
+Agaricus integer Vahl
 
 ### Remarks
 null

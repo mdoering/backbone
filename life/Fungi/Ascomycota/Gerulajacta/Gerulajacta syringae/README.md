@@ -1,5 +1,4 @@
-Gerulajacta syringae Preuss SPECIES
-=======
+# Gerulajacta syringae Preuss SPECIES
 
 #### Status
 ACCEPTED

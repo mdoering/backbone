@@ -1,5 +1,4 @@
-Hypoxylon kanchanapisekii Suwann., Rodtong, Thienh. & Whalley, 2006 SPECIES
-=======
+# Hypoxylon kanchanapisekii Suwann., Rodtong, Thienh. & Whalley, 2006 SPECIES
 
 #### Status
 ACCEPTED

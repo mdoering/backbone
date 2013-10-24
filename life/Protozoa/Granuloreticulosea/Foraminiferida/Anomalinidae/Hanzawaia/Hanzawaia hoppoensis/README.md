@@ -1,5 +1,4 @@
-Hanzawaia hoppoensis Nakamura SPECIES
-=======
+# Hanzawaia hoppoensis Nakamura SPECIES
 
 #### Status
 ACCEPTED

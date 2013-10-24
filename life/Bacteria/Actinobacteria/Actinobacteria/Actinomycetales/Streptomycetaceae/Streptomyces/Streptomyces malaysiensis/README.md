@@ -1,5 +1,4 @@
-Streptomyces malaysiensis Al-Tai et al., 1999 SPECIES
-=======
+# Streptomyces malaysiensis Al-Tai et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

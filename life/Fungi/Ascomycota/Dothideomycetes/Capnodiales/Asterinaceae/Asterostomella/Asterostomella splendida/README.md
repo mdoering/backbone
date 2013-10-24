@@ -1,5 +1,4 @@
-Asterostomella splendida Viégas SPECIES
-=======
+# Asterostomella splendida Viégas SPECIES
 
 #### Status
 ACCEPTED

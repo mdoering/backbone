@@ -1,5 +1,4 @@
-Cercospora heteromalla Syd. SPECIES
-=======
+# Cercospora heteromalla Syd. SPECIES
 
 #### Status
 ACCEPTED

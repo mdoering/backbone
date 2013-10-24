@@ -1,5 +1,4 @@
-Flavocetrariella D.D. Awasthi GENUS
-=======
+# Flavocetrariella D.D. Awasthi GENUS
 
 #### Status
 ACCEPTED

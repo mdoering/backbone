@@ -1,5 +1,4 @@
-Paramecium varionuklei Baumeister, 1969 SPECIES
-=======
+# Paramecium varionuklei Baumeister, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clathrus delicatus Berk. & Broome SPECIES
-=======
+# Clathrus delicatus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

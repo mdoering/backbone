@@ -1,5 +1,4 @@
-Pseudocercosporella myopori U. Braun & C.F. Hill, 2002 SPECIES
-=======
+# Pseudocercosporella myopori U. Braun & C.F. Hill, 2002 SPECIES
 
 #### Status
 ACCEPTED

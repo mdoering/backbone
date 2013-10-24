@@ -1,5 +1,4 @@
-Phoma lantanae Verwoerd & du Plessis SPECIES
-=======
+# Phoma lantanae Verwoerd & du Plessis SPECIES
 
 #### Status
 ACCEPTED

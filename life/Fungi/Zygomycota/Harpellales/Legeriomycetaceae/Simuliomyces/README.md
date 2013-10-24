@@ -1,5 +1,4 @@
-Simuliomyces Lichtw. GENUS
-=======
+# Simuliomyces Lichtw. GENUS
 
 #### Status
 ACCEPTED

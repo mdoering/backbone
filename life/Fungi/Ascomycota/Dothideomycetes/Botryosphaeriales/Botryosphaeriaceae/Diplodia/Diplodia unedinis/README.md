@@ -1,5 +1,4 @@
-Diplodia unedinis Brunaud SPECIES
-=======
+# Diplodia unedinis Brunaud SPECIES
 
 #### Status
 ACCEPTED

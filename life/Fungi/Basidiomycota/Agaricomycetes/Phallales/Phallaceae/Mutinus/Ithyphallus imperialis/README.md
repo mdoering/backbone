@@ -1,5 +1,4 @@
-Ithyphallus imperialis Jacz. SPECIES
-=======
+# Ithyphallus imperialis Jacz. SPECIES
 
 #### Status
 ACCEPTED

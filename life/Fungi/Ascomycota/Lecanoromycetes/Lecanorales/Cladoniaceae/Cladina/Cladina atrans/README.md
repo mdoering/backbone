@@ -1,5 +1,4 @@
-Cladina atrans Ahti SPECIES
-=======
+# Cladina atrans Ahti SPECIES
 
 #### Status
 ACCEPTED

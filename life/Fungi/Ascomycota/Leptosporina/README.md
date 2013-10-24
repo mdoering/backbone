@@ -1,5 +1,4 @@
-Leptosporina Chardón GENUS
-=======
+# Leptosporina Chardón GENUS
 
 #### Status
 ACCEPTED

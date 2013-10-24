@@ -1,5 +1,4 @@
-Syracolithus corolla J. Lecal SPECIES
-=======
+# Syracolithus corolla J. Lecal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Annulohypoxylon subeffusum (Speg.) Hladki & A.I. Romero, 2009 SPECIES
-=======
+# Annulohypoxylon subeffusum (Speg.) Hladki & A.I. Romero, 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea homochromoides Nyl. SPECIES
-=======
+# Lecidea homochromoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

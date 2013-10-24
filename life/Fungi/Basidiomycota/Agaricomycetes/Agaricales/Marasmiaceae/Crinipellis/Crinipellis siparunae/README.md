@@ -1,5 +1,4 @@
-Crinipellis siparunae Singer SPECIES
-=======
+# Crinipellis siparunae Singer SPECIES
 
 #### Status
 ACCEPTED

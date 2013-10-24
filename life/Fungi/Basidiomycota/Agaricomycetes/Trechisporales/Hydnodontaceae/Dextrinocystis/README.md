@@ -1,5 +1,4 @@
-Dextrinocystis Gilb. & M. Blackw. GENUS
-=======
+# Dextrinocystis Gilb. & M. Blackw. GENUS
 
 #### Status
 ACCEPTED

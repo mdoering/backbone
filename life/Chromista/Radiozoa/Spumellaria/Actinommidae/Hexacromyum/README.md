@@ -1,14 +1,13 @@
-Hexacromyon Haeckel, 1887 GENUS
-=======
+# Hexacromyum Haeckel, 1881 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rep. Voy. Challenger Exped. , Zool. , 18 (1), 85, 203.
+Jena. Z. , 15, 453.
 
 #### Original name
 null

@@ -1,14 +1,13 @@
-Lagenidium humanum Karling, 1947 SPECIES
-=======
+# Myzocytiopsis humana (Karling) M.W. Dick, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 39(2): 225 (1947)
+Mycol. Res. 101(7): 879 (1997)
 
 #### Original name
 Lagenidium humanum Karling, 1947

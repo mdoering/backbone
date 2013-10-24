@@ -1,5 +1,4 @@
-Puccinia batesiana Arthur SPECIES
-=======
+# Puccinia batesiana Arthur SPECIES
 
 #### Status
 ACCEPTED

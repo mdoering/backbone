@@ -1,5 +1,4 @@
-Dicheirinia trispora Cummins, 1960 SPECIES
-=======
+# Dicheirinia trispora Cummins, 1960 SPECIES
 
 #### Status
 ACCEPTED

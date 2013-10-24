@@ -1,17 +1,16 @@
-Polyschema indica D.P. Tiwari & P.D. Agrawal SPECIES
-=======
+# Polyschema indicum Behera, Mukerji & K.R. Sharma, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lloydia 36(1): 88 (1973)
 
 #### Original name
-Polyschema indica D.P. Tiwari & P.D. Agrawal
+Polyschema indicum Behera, Mukerji & K.R. Sharma, 1973
 
 ### Remarks
 null

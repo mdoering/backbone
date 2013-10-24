@@ -1,5 +1,4 @@
-Lecidea farrea Fée SPECIES
-=======
+# Lecidea farrea Fée SPECIES
 
 #### Status
 ACCEPTED

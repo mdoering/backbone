@@ -1,8 +1,7 @@
-Leotia helvelloidea (Corda) Sacc. SPECIES
-=======
+# Leotia helvelloides (Corda) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

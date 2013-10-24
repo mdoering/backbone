@@ -1,14 +1,13 @@
-Neopeckia thaxteri Pat., 1922 SPECIES
-=======
+# Spinulosphaeria thaxteri (Pat.) Sivan., 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 38(2): 83 (1922)
+Trans. Br. mycol. Soc. 62(1): 36 (1974)
 
 #### Original name
 Neopeckia thaxteri Pat., 1922

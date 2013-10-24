@@ -1,5 +1,4 @@
-Lyngbya aestuarii Liebman ex Gomont SPECIES
-=======
+# Lyngbya aestuarii Liebman ex Gomont SPECIES
 
 #### Status
 ACCEPTED

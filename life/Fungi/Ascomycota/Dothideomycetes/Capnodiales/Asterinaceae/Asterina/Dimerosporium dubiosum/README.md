@@ -1,5 +1,4 @@
-Dimerosporium dubiosum Speg. SPECIES
-=======
+# Dimerosporium dubiosum Speg. SPECIES
 
 #### Status
 ACCEPTED

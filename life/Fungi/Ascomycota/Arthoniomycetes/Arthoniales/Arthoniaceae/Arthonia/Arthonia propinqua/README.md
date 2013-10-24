@@ -1,5 +1,4 @@
-Arthonia propinqua Nyl. SPECIES
-=======
+# Arthonia propinqua Nyl. SPECIES
 
 #### Status
 ACCEPTED

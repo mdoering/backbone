@@ -1,5 +1,4 @@
-Puccinia yokogurae Henn. SPECIES
-=======
+# Puccinia yokogurae Henn. SPECIES
 
 #### Status
 ACCEPTED

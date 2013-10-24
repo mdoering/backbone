@@ -1,5 +1,4 @@
-Buellia polysporella (Nyl.) Arnold SPECIES
-=======
+# Buellia polysporella (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

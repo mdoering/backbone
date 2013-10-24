@@ -1,8 +1,7 @@
-Chromatium tepidum Madigan, 1986 SPECIES
-=======
+# Thermochromatium tepidum (Madigan, 1986) Imhoff et al., 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

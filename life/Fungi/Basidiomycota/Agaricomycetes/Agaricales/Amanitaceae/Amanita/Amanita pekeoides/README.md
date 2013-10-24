@@ -1,5 +1,4 @@
-Amanita pekeoides G.S. Ridl., 1991 SPECIES
-=======
+# Amanita pekeoides G.S. Ridl., 1991 SPECIES
 
 #### Status
 ACCEPTED

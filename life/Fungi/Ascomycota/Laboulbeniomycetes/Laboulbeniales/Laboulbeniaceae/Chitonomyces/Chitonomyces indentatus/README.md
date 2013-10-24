@@ -1,5 +1,4 @@
-Chitonomyces indentatus Thaxt. SPECIES
-=======
+# Chitonomyces indentatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

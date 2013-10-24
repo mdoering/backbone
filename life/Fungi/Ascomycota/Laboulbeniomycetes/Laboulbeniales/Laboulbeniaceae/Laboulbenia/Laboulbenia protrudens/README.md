@@ -1,5 +1,4 @@
-Laboulbenia protrudens Thaxt. SPECIES
-=======
+# Laboulbenia protrudens Thaxt. SPECIES
 
 #### Status
 ACCEPTED

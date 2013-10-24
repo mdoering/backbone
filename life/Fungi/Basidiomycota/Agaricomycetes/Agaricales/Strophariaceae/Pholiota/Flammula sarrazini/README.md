@@ -1,5 +1,4 @@
-Flammula sarrazini Roum. SPECIES
-=======
+# Flammula sarrazini Roum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nimbospora J. Koch GENUS
-=======
+# Nimbospora J. Koch GENUS
 
 #### Status
 ACCEPTED

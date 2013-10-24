@@ -1,5 +1,4 @@
-Coscinodiscus decrescens Grunow, 1878 SPECIES
-=======
+# Coscinodiscus decrescens Grunow, 1878 SPECIES
 
 #### Status
 ACCEPTED

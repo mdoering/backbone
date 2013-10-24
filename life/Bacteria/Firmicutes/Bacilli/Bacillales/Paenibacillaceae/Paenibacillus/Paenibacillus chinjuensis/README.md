@@ -1,5 +1,4 @@
-Paenibacillus chinjuensis Yoon et al., 2002 SPECIES
-=======
+# Paenibacillus chinjuensis Yoon et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

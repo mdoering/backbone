@@ -1,5 +1,4 @@
-Septoria gentianae var. gentianae VARIETY
-=======
+# Septoria gentianae Thüm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. N. Y. St. Mus. 197: 35 (1918)
 
 #### Original name
-Septoria gentianae var. gentianae
+Septoria gentianae Thüm.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cercospora phaseolicola U. Braun & Mouch. SPECIES
-=======
+# Cercospora phaseolicola U. Braun & Mouch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucosphaerina arxii Malloch, 1989 SPECIES
-=======
+# Leucosphaerina arxii Malloch, 1989 SPECIES
 
 #### Status
 ACCEPTED

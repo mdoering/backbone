@@ -1,17 +1,16 @@
-Hypoxylon regale var. regale Morgan VARIETY
-=======
+# Nemania quadrata (Schwein.) Y.M. Ju & J.D. Rogers, 2002 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Mycol. 10: 162 (1904)
+Nova Hedwigia 74(1-2): 105 (2002)
 
 #### Original name
-Hypoxylon regale var. regale Morgan
+Sphaeria quadrata Schwein., 1832
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Proteus penneri Hickman et al., 1983 SPECIES
-=======
+# Proteus penneri Hickman et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

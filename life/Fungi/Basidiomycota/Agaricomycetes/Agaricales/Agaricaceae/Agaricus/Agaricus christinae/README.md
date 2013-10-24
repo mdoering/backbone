@@ -1,5 +1,4 @@
-Agaricus christinae Fr. SPECIES
-=======
+# Agaricus christinae Fr. SPECIES
 
 #### Status
 ACCEPTED

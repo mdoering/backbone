@@ -1,5 +1,4 @@
-Cortinarius albonigrellus J. Favre SPECIES
-=======
+# Cortinarius albonigrellus J. Favre SPECIES
 
 #### Status
 ACCEPTED

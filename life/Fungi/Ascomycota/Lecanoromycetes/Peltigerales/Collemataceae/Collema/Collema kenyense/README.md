@@ -1,5 +1,4 @@
-Collema kenyense C.W. Dodge SPECIES
-=======
+# Collema kenyense C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discorbis mira SPECIES
-=======
+# Discorbis mira SPECIES
 
 #### Status
 ACCEPTED

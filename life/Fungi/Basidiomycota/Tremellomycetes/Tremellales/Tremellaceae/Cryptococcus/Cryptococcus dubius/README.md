@@ -1,5 +1,4 @@
-Cryptococcus dubius var. dubius VARIETY
-=======
+# Cryptococcus dubius (Cif. & Redaelli) Nann. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Repertorio sistematico dei miceti dell'uemo e degli animale Siena 4: 308 (1934)
 
 #### Original name
-Cryptococcus dubius var. dubius
+Eutorulopsis dubia Cif. & Redaelli, 1926
 
 ### Remarks
 null

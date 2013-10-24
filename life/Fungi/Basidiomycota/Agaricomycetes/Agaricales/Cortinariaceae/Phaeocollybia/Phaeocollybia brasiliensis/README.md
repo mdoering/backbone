@@ -1,5 +1,4 @@
-Phaeocollybia brasiliensis I.A. Aguiar ex Singer SPECIES
-=======
+# Phaeocollybia brasiliensis I.A. Aguiar ex Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lophodermina thuyae (Davis) Tehon SPECIES
-=======
+# Lophodermium thujae Davis, 1922 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Wis. Acad. Sci. Arts Lett. 20: 424 (1922)
 
 #### Original name
 Lophodermium thujae Davis, 1922

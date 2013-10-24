@@ -1,5 +1,4 @@
-Dicaeoma diutinum (Mains & Holw.) Arthur SPECIES
-=======
+# Dicaeoma diutinum (Mains & Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

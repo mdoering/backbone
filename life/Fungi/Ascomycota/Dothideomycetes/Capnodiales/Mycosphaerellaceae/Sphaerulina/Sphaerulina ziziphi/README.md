@@ -1,8 +1,7 @@
-Sphaerulina zizyphae Subhedar & V.G. Rao SPECIES
-=======
+# Sphaerulina ziziphi Subhedar & V.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaerulina zizyphae Subhedar & V.G. Rao
+Sphaerulina ziziphi Subhedar & V.G. Rao
 
 ### Remarks
 null

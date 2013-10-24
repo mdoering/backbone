@@ -1,5 +1,4 @@
-Titaea mimeoma Cif. SPECIES
-=======
+# Titaea mimeoma Cif. SPECIES
 
 #### Status
 ACCEPTED

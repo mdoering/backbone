@@ -1,5 +1,4 @@
-Dothidea haplopappi Rehm SPECIES
-=======
+# Dothidea haplopappi Rehm SPECIES
 
 #### Status
 ACCEPTED

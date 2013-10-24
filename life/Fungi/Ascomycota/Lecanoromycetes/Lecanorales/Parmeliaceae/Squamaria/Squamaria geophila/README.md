@@ -1,5 +1,4 @@
-Squamaria geophila (Th. Fr.) H. Olivier SPECIES
-=======
+# Squamaria geophila (Th. Fr.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

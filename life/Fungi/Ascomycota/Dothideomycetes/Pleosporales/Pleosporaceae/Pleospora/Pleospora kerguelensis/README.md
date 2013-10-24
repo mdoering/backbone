@@ -1,5 +1,4 @@
-Pleospora kerguelensis Henn. SPECIES
-=======
+# Pleospora kerguelensis Henn. SPECIES
 
 #### Status
 ACCEPTED

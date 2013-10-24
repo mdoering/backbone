@@ -1,5 +1,4 @@
-Richelia sinica Y. W. Shen & Y. Y. Li SPECIES
-=======
+# Richelia sinica Y. W. Shen & Y. Y. Li SPECIES
 
 #### Status
 ACCEPTED

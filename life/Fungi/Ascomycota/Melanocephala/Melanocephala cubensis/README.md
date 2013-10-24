@@ -1,5 +1,4 @@
-Melanocephala cubensis Hol.-Jech., 1988 SPECIES
-=======
+# Melanocephala cubensis Hol.-Jech., 1988 SPECIES
 
 #### Status
 ACCEPTED

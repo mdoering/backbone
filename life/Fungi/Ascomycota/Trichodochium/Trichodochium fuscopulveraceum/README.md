@@ -1,5 +1,4 @@
-Trichodochium fuscopulveraceum (Rehm) Sivan. & S. Hughes SPECIES
-=======
+# Trichodochium fuscopulveraceum (Rehm) Sivan. & S. Hughes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helicoma candidum (Preuss) Linder SPECIES
-=======
+# Helicoma candidum (Preuss) Linder SPECIES
 
 #### Status
 ACCEPTED

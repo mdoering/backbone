@@ -1,5 +1,4 @@
-Clypeoceriospora rubi Sousa da Câmara, 1946 SPECIES
-=======
+# Clypeoceriospora rubi Sousa da Câmara, 1946 SPECIES
 
 #### Status
 ACCEPTED

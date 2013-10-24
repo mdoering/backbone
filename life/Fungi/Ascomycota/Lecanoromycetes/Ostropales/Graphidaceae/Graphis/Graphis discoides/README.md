@@ -1,5 +1,4 @@
-Graphis discoides Stirt. SPECIES
-=======
+# Graphis discoides Stirt. SPECIES
 
 #### Status
 ACCEPTED

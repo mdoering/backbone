@@ -1,5 +1,4 @@
-Licea gloeoderma Döbbeler & Nann.-Bremek, 1979 SPECIES
-=======
+# Licea gloeoderma Döbbeler & Nann.-Bremek, 1979 SPECIES
 
 #### Status
 ACCEPTED

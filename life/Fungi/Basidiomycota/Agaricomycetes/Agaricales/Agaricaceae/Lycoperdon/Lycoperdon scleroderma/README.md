@@ -1,5 +1,4 @@
-Lycoperdon scleroderma Speg. SPECIES
-=======
+# Lycoperdon scleroderma Speg. SPECIES
 
 #### Status
 ACCEPTED

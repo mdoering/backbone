@@ -1,5 +1,4 @@
-Meliolinopsis clavatispora (Speg.) Beeli SPECIES
-=======
+# Meliolinopsis clavatispora (Speg.) Beeli SPECIES
 
 #### Status
 ACCEPTED

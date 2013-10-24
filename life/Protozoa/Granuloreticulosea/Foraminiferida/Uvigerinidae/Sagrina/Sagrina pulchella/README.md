@@ -1,5 +1,4 @@
-Sagrina pulchella SPECIES
-=======
+# Sagrina pulchella SPECIES
 
 #### Status
 ACCEPTED

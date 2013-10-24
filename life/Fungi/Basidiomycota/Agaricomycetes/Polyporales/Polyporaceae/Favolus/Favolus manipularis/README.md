@@ -1,5 +1,4 @@
-Favolus manipularis Berk. SPECIES
-=======
+# Favolus manipularis Berk. SPECIES
 
 #### Status
 ACCEPTED

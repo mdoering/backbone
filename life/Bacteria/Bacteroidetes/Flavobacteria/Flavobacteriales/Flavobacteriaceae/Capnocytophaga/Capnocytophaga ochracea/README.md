@@ -1,11 +1,10 @@
-Ristella ochraceus (Prévot, 1956) Sebald, 1962 SPECIES
-=======
+# Capnocytophaga ochracea (Prévot et al., 1956) Leadbetter et al., 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

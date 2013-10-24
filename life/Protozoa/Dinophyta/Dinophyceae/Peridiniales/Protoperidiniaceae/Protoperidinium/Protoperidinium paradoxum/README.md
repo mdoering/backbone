@@ -1,5 +1,4 @@
-Protoperidinium paradoxum (F.J.R. Taylor, 1976) Balech, 1994 SPECIES
-=======
+# Protoperidinium paradoxum (F.J.R. Taylor, 1976) Balech, 1994 SPECIES
 
 #### Status
 ACCEPTED

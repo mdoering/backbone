@@ -1,5 +1,4 @@
-Gyrophana GENUS
-=======
+# Gyrophana GENUS
 
 #### Status
 ACCEPTED

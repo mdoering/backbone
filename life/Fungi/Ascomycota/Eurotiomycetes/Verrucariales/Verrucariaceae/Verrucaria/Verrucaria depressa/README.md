@@ -1,5 +1,4 @@
-Verrucaria depressa Stenh. SPECIES
-=======
+# Verrucaria depressa Stenh. SPECIES
 
 #### Status
 ACCEPTED

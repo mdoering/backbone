@@ -1,5 +1,4 @@
-Trametes ellisiana Henn. SPECIES
-=======
+# Trametes ellisiana Henn. SPECIES
 
 #### Status
 ACCEPTED

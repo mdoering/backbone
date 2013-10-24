@@ -1,5 +1,4 @@
-Thalloidima iguapense Müll. Arg. SPECIES
-=======
+# Thalloidima iguapense Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

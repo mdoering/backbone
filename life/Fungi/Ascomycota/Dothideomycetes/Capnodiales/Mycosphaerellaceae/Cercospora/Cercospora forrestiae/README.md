@@ -1,5 +1,4 @@
-Cercospora forrestiae Sawada SPECIES
-=======
+# Cercospora forrestiae Sawada SPECIES
 
 #### Status
 ACCEPTED

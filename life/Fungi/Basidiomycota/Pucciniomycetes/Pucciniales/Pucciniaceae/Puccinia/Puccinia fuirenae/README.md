@@ -1,5 +1,4 @@
-Puccinia fuirenae Cooke SPECIES
-=======
+# Puccinia fuirenae Cooke SPECIES
 
 #### Status
 ACCEPTED

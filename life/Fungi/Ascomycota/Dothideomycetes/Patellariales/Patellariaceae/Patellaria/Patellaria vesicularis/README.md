@@ -1,5 +1,4 @@
-Patellaria vesicularis (Hoffm.) SPECIES
-=======
+# Patellaria vesicularis (Hoffm.) SPECIES
 
 #### Status
 ACCEPTED

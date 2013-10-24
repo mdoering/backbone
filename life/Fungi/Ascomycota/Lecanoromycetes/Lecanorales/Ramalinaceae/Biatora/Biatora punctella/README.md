@@ -1,5 +1,4 @@
-Biatora punctella Willey SPECIES
-=======
+# Biatora punctella Willey SPECIES
 
 #### Status
 ACCEPTED

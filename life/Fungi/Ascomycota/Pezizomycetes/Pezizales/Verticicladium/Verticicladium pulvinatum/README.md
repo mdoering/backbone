@@ -1,5 +1,4 @@
-Verticicladium pulvinatum (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Verticicladium pulvinatum (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

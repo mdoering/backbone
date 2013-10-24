@@ -1,5 +1,4 @@
-Tripartiella incissa Lom, 1959 SPECIES
-=======
+# Tripartiella incissa Lom, 1959 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporotrichum cinnamomeum Wallr. SPECIES
-=======
+# Sporotrichum cinnamomeum Wallr. SPECIES
 
 #### Status
 ACCEPTED

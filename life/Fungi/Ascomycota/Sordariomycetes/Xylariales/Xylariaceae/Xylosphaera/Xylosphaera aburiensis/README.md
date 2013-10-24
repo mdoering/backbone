@@ -1,5 +1,4 @@
-Xylosphaera aburiensis Dennis SPECIES
-=======
+# Xylosphaera aburiensis Dennis SPECIES
 
 #### Status
 ACCEPTED

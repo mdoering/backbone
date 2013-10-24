@@ -1,5 +1,4 @@
-Xerocomus boudieri Singer SPECIES
-=======
+# Xerocomus boudieri Singer SPECIES
 
 #### Status
 ACCEPTED

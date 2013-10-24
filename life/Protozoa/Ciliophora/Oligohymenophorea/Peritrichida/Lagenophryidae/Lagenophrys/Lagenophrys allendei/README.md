@@ -1,8 +1,7 @@
-Stylohedra allendei Jankowski, 1986 SPECIES
-=======
+# Lagenophrys allendei Jankowski, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

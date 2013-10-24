@@ -1,5 +1,4 @@
-Saccharothrix australiensis Labeda et al., 1984 SPECIES
-=======
+# Saccharothrix australiensis Labeda et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zeugrhabdotus spiralis SPECIES
-=======
+# Zeugrhabdotus spiralis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogium tasmanicum F. Wilson SPECIES
-=======
+# Leptogium tasmanicum F. Wilson SPECIES
 
 #### Status
 ACCEPTED

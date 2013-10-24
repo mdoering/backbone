@@ -1,14 +1,13 @@
-Agaricus alphitochrous (Berk. & Broome) Sacc. & Trotter, 1912 SPECIES
-=======
+# Hymenagaricus alphitochrous (Berk. & Broome) Heinem., 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Jard. Bot. Nat. Belg. 51(3/4): 466 (1981)
 
 #### Original name
 Lepiota alphitochroa Berk. & Broome

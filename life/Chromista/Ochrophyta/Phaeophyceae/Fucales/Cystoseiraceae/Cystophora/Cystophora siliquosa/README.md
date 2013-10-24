@@ -1,5 +1,4 @@
-Cystophora siliquosa J. Agardh SPECIES
-=======
+# Cystophora siliquosa J. Agardh SPECIES
 
 #### Status
 ACCEPTED

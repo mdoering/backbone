@@ -1,5 +1,4 @@
-Gymnodinium caput Schiller SPECIES
-=======
+# Gymnodinium caput Schiller SPECIES
 
 #### Status
 ACCEPTED

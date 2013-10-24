@@ -1,17 +1,16 @@
-Tremella spiculosa var. spiculosa VARIETY
-=======
+# Tremella spiculosa SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Observ. mycol. (Lipsiae) 1: 99 (1796)
+null
 
 #### Original name
-Tremella spiculosa var. spiculosa
+null
 
 ### Remarks
 null

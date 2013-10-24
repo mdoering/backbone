@@ -1,17 +1,16 @@
-Peniophora glebulosa f. glebulosa FORM
-=======
+# Tubulicrinis glebulosus (Fr.) Donk, 1956 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 16: 195 (1902)
+Fungus, Wageningen 26(1-4): 14 (1956)
 
 #### Original name
-Peniophora glebulosa f. glebulosa
+Thelephora calcea var. glebulosa Fr., 1828
 
 ### Remarks
 null

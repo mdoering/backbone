@@ -1,5 +1,4 @@
-Mycosphaerella ficophila (G. Winter) Cruchet SPECIES
-=======
+# Mycosphaerella ficophila (G. Winter) Cruchet SPECIES
 
 #### Status
 ACCEPTED

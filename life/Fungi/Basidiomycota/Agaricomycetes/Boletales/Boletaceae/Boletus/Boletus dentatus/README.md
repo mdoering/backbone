@@ -1,5 +1,4 @@
-Boletus dentatus Rostk. SPECIES
-=======
+# Boletus dentatus Rostk. SPECIES
 
 #### Status
 ACCEPTED

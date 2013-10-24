@@ -1,5 +1,4 @@
-Puccinia hashiokai Hirats. f. SPECIES
-=======
+# Puccinia hashiokai Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

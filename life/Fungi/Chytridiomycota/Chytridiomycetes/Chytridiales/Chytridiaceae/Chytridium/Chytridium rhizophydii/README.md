@@ -1,5 +1,4 @@
-Chytridium rhizophydii Karling SPECIES
-=======
+# Chytridium rhizophydii Karling SPECIES
 
 #### Status
 ACCEPTED

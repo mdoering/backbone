@@ -1,5 +1,4 @@
-Ramularia betonicae Khokhr. SPECIES
-=======
+# Ramularia betonicae Khokhr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthina penicillata (Bull.) Fr. SPECIES
-=======
+# Anthina penicillata (Bull.) Fr. SPECIES
 
 #### Status
 ACCEPTED

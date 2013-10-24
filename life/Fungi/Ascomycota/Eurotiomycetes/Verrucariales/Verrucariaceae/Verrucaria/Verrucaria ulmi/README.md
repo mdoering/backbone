@@ -1,5 +1,4 @@
-Verrucaria ulmi Breuss SPECIES
-=======
+# Verrucaria ulmi Breuss SPECIES
 
 #### Status
 ACCEPTED

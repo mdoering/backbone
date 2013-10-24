@@ -1,14 +1,13 @@
-Hebelomatis cavipes (Huijsman) Locq., 1979 SPECIES
-=======
+# Hebeloma cavipes Huijsman, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Mycol. , 3. Cortinariales-A. 146 (1979)
+Persoonia 2(1): 97 (1961)
 
 #### Original name
 Hebeloma cavipes Huijsman, 1961

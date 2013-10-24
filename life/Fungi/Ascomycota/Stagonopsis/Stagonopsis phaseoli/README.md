@@ -1,5 +1,4 @@
-Stagonopsis phaseoli Erikss. SPECIES
-=======
+# Stagonopsis phaseoli Erikss. SPECIES
 
 #### Status
 ACCEPTED

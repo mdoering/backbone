@@ -1,5 +1,4 @@
-Sneathiella Jordan, Thompson, Zhang, Li, Vancanneyt, Kroppenstedt, Priest & Austin, 2007 GENUS
-=======
+# Sneathiella Jordan, Thompson, Zhang, Li, Vancanneyt, Kroppenstedt, Priest & Austin, 2007 GENUS
 
 #### Status
 ACCEPTED

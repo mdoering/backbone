@@ -1,5 +1,4 @@
-Cercospora marcelliana Chupp SPECIES
-=======
+# Cercospora marcelliana Chupp SPECIES
 
 #### Status
 ACCEPTED

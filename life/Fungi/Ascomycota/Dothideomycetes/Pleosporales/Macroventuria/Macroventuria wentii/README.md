@@ -1,5 +1,4 @@
-Macroventuria wentii Aa, 1971 SPECIES
-=======
+# Macroventuria wentii Aa, 1971 SPECIES
 
 #### Status
 ACCEPTED

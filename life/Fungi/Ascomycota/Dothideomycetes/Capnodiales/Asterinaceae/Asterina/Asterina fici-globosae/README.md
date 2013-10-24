@@ -1,5 +1,4 @@
-Asterina fici-globosae Hansf. SPECIES
-=======
+# Asterina fici-globosae Hansf. SPECIES
 
 #### Status
 ACCEPTED

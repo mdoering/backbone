@@ -1,8 +1,7 @@
-Lecanora bijlii Zahlbr. SPECIES
-=======
+# Lecanora bylii Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora bijlii Zahlbr.
+Lecanora bylii Zahlbr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Llimoniella pyrenulae Diederich & Etayo SPECIES
-=======
+# Llimoniella pyrenulae Diederich & Etayo SPECIES
 
 #### Status
 ACCEPTED

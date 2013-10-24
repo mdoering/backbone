@@ -1,5 +1,4 @@
-Kyphophora B. Sutton GENUS
-=======
+# Kyphophora B. Sutton GENUS
 
 #### Status
 ACCEPTED

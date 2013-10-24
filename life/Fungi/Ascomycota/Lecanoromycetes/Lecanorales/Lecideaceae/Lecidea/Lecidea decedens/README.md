@@ -1,5 +1,4 @@
-Lecidea decedens Nyl. SPECIES
-=======
+# Lecidea decedens Nyl. SPECIES
 
 #### Status
 ACCEPTED

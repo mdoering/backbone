@@ -1,5 +1,4 @@
-Simocybe subvelutina (Singer) Singer SPECIES
-=======
+# Simocybe subvelutina (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bullera pseudohuiaensis F.Y. Bai, M. Takash. & Nakase SPECIES
-=======
+# Bullera pseudohuiaensis F.Y. Bai, M. Takash. & Nakase SPECIES
 
 #### Status
 ACCEPTED

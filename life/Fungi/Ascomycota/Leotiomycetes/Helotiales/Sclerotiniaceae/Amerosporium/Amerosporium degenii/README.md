@@ -1,5 +1,4 @@
-Amerosporium degenii Moesz SPECIES
-=======
+# Amerosporium degenii Moesz SPECIES
 
 #### Status
 ACCEPTED

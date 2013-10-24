@@ -1,17 +1,16 @@
-Nematoloma campestre A.H. Sm. SPECIES
-=======
+# Naematoloma campestre A.H. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 40(6): 692 (1948)
 
 #### Original name
-Nematoloma campestre A.H. Sm.
+Naematoloma campestre A.H. Sm.
 
 ### Remarks
 null

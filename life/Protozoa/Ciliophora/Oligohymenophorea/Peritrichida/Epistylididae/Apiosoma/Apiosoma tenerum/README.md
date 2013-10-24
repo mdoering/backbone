@@ -1,5 +1,4 @@
-Apiosoma tenerum SPECIES
-=======
+# Apiosoma tenerum SPECIES
 
 #### Status
 ACCEPTED

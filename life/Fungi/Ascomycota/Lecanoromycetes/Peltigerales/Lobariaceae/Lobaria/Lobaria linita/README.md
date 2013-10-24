@@ -1,17 +1,16 @@
-Lobaria linita var. linita VARIETY
-=======
+# Lobaria linita (Ach.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Lobaria linita var. linita
+Sticta linita Ach.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecanora maceriicola B. de Lesd. SPECIES
-=======
+# Lecanora maceriicola B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

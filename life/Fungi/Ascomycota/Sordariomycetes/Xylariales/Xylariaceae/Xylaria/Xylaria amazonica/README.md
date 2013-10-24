@@ -1,5 +1,4 @@
-Xylaria amazonica Henn. SPECIES
-=======
+# Xylaria amazonica Henn. SPECIES
 
 #### Status
 ACCEPTED

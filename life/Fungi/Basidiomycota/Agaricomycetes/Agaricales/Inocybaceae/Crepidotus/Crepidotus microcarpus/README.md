@@ -1,5 +1,4 @@
-Crepidotus microcarpus Malençon SPECIES
-=======
+# Crepidotus microcarpus Malençon SPECIES
 
 #### Status
 ACCEPTED

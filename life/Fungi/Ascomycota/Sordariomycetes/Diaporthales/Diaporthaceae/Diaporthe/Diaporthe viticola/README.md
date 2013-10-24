@@ -1,5 +1,4 @@
-Diaporthe viticola Nitschke, 1870 SPECIES
-=======
+# Diaporthe viticola Nitschke, 1870 SPECIES
 
 #### Status
 ACCEPTED

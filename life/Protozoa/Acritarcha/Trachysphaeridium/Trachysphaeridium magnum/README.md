@@ -1,5 +1,4 @@
-Trachysphaeridium magnum (Timofeev, 1969) Pyatiletov, 1978 SPECIES
-=======
+# Trachysphaeridium magnum (Timofeev, 1969) Pyatiletov, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia hunanensis Zahlbr. SPECIES
-=======
+# Parmelia hunanensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

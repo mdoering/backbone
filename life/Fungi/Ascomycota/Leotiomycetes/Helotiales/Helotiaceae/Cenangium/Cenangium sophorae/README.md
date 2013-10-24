@@ -1,5 +1,4 @@
-Cenangium sophorae Pass. SPECIES
-=======
+# Cenangium sophorae Pass. SPECIES
 
 #### Status
 ACCEPTED

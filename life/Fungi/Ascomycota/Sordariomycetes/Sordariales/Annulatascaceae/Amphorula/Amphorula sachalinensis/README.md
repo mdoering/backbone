@@ -1,5 +1,4 @@
-Amphorula sachalinensis Grove, 1922 SPECIES
-=======
+# Amphorula sachalinensis Grove, 1922 SPECIES
 
 #### Status
 ACCEPTED

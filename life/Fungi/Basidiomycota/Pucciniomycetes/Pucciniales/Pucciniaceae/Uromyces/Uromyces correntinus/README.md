@@ -1,5 +1,4 @@
-Uromyces correntinus J.C. Lindq. SPECIES
-=======
+# Uromyces correntinus J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

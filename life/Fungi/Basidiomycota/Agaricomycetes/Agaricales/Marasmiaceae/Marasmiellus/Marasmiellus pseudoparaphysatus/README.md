@@ -1,5 +1,4 @@
-Marasmiellus pseudoparaphysatus Singer SPECIES
-=======
+# Marasmiellus pseudoparaphysatus Singer SPECIES
 
 #### Status
 ACCEPTED

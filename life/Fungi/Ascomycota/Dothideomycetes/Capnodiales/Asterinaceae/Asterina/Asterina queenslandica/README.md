@@ -1,5 +1,4 @@
-Asterina queenslandica Rahayu & I.H. Parbery SPECIES
-=======
+# Asterina queenslandica Rahayu & I.H. Parbery SPECIES
 
 #### Status
 ACCEPTED

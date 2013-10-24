@@ -1,5 +1,4 @@
-Peltigera arctica Fr. SPECIES
-=======
+# Peltigera arctica Fr. SPECIES
 
 #### Status
 ACCEPTED

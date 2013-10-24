@@ -1,5 +1,4 @@
-Chaetomium sphaerospermum Cooke & Ellis SPECIES
-=======
+# Chaetomium sphaerospermum Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

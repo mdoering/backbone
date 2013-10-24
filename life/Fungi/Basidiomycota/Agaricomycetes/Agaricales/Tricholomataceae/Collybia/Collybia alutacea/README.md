@@ -1,5 +1,4 @@
-Collybia alutacea Cleland SPECIES
-=======
+# Collybia alutacea Cleland SPECIES
 
 #### Status
 ACCEPTED

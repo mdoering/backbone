@@ -1,8 +1,7 @@
-Rhodobacter sulfidophilus (Hansen & Veldkamp, 1973) Imhoff et al., 1984 SPECIES
-=======
+# Rhodovulum sulfidophilum (Hansen & Veldkamp, 1973) Hiraishi & Ueda, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

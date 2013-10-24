@@ -1,5 +1,4 @@
-Leiosphaeridia exasperata Johnson, 1985 SPECIES
-=======
+# Leiosphaeridia exasperata Johnson, 1985 SPECIES
 
 #### Status
 ACCEPTED

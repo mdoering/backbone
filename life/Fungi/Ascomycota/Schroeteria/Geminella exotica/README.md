@@ -1,5 +1,4 @@
-Geminella exotica var. exotica VARIETY
-=======
+# Geminella exotica Cornu SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 6 224 (1876)
+Annls Sci. Nat. , Bot. , sér. 6 15: 292 (1883)
 
 #### Original name
-Geminella exotica var. exotica
+Geminella exotica Cornu
 
 ### Remarks
 null

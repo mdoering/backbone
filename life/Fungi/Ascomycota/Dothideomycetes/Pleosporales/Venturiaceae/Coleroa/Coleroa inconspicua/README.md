@@ -1,5 +1,4 @@
-Coleroa inconspicua Bubák SPECIES
-=======
+# Coleroa inconspicua Bubák SPECIES
 
 #### Status
 ACCEPTED

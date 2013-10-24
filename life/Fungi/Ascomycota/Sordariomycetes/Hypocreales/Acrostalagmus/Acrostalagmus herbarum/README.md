@@ -1,5 +1,4 @@
-Acrostalagmus herbarum Preuss SPECIES
-=======
+# Acrostalagmus herbarum Preuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurostromella steineri Petr. SPECIES
-=======
+# Pleurostromella steineri Petr. SPECIES
 
 #### Status
 ACCEPTED

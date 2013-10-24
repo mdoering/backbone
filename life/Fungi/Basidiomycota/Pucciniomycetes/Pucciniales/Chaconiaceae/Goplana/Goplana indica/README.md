@@ -1,5 +1,4 @@
-Goplana indica T.S. Ramakr. & K. Ramakr., 1949 SPECIES
-=======
+# Goplana indica T.S. Ramakr. & K. Ramakr., 1949 SPECIES
 
 #### Status
 ACCEPTED

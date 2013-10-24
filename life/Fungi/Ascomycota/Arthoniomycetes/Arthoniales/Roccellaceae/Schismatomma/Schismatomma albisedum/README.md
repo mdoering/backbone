@@ -1,5 +1,4 @@
-Schismatomma albisedum (Nyl.) Zahlbr. SPECIES
-=======
+# Schismatomma albisedum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

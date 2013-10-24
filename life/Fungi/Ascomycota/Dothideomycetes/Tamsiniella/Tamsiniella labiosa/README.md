@@ -1,5 +1,4 @@
-Tamsiniella labiosa S.W. Wong, K.D. Hyde, W.H. Ho & S.J. Stanley, 1998 SPECIES
-=======
+# Tamsiniella labiosa S.W. Wong, K.D. Hyde, W.H. Ho & S.J. Stanley, 1998 SPECIES
 
 #### Status
 ACCEPTED

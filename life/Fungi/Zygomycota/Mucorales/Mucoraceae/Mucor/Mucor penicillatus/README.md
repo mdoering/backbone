@@ -1,5 +1,4 @@
-Mucor penicillatus Bull. SPECIES
-=======
+# Mucor penicillatus Bull. SPECIES
 
 #### Status
 ACCEPTED

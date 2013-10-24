@@ -1,5 +1,4 @@
-Lanopila GENUS
-=======
+# Lanopila GENUS
 
 #### Status
 ACCEPTED

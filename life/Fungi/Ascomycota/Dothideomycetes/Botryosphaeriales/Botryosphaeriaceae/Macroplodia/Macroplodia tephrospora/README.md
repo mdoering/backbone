@@ -1,5 +1,4 @@
-Macroplodia tephrospora (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Macroplodia tephrospora (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

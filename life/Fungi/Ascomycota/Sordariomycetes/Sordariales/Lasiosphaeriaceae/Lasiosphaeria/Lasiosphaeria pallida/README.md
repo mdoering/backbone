@@ -1,5 +1,4 @@
-Lasiosphaeria pallida Cand., J. Fourn. & Magni SPECIES
-=======
+# Lasiosphaeria pallida Cand., J. Fourn. & Magni SPECIES
 
 #### Status
 ACCEPTED

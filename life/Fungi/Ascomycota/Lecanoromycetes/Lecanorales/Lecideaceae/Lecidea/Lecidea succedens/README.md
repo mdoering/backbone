@@ -1,5 +1,4 @@
-Lecidea succedens Nyl. SPECIES
-=======
+# Lecidea succedens Nyl. SPECIES
 
 #### Status
 ACCEPTED

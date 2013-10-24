@@ -1,5 +1,4 @@
-Physcia exilis Michx. SPECIES
-=======
+# Physcia exilis Michx. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium welwitschii Lagerh. SPECIES
-=======
+# Aecidium welwitschii Lagerh. SPECIES
 
 #### Status
 ACCEPTED

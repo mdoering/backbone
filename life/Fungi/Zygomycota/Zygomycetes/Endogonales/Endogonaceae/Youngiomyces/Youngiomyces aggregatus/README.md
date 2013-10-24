@@ -1,5 +1,4 @@
-Youngiomyces aggregatus Y.J. Yao, 1995 SPECIES
-=======
+# Youngiomyces aggregatus Y.J. Yao, 1995 SPECIES
 
 #### Status
 ACCEPTED

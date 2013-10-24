@@ -1,5 +1,4 @@
-Inonotus ulmicola Corfixen SPECIES
-=======
+# Inonotus ulmicola Corfixen SPECIES
 
 #### Status
 ACCEPTED

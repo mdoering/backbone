@@ -1,5 +1,4 @@
-Rimeliella Kurok. GENUS
-=======
+# Rimeliella Kurok. GENUS
 
 #### Status
 ACCEPTED

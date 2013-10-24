@@ -1,5 +1,4 @@
-Hesperomyces catopii Thaxt. SPECIES
-=======
+# Hesperomyces catopii Thaxt. SPECIES
 
 #### Status
 ACCEPTED

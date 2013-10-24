@@ -1,5 +1,4 @@
-Microdiplodia anagyridis Gonz. Frag. SPECIES
-=======
+# Microdiplodia anagyridis Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

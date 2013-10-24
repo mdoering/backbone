@@ -1,5 +1,4 @@
-Mycovellosiella acalyphae (Tharp) U. Braun SPECIES
-=======
+# Mycovellosiella acalyphae (Tharp) U. Braun SPECIES
 
 #### Status
 ACCEPTED

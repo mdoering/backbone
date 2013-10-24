@@ -1,5 +1,4 @@
-Uncinia nardi Velen. SPECIES
-=======
+# Uncinia nardi Velen. SPECIES
 
 #### Status
 ACCEPTED

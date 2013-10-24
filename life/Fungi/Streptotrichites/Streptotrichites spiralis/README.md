@@ -1,5 +1,4 @@
-Streptotrichites spiralis (Berk.) Mesch. SPECIES
-=======
+# Streptotrichites spiralis (Berk.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

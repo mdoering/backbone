@@ -1,5 +1,4 @@
-Mycenopsis GENUS
-=======
+# Mycenopsis GENUS
 
 #### Status
 ACCEPTED

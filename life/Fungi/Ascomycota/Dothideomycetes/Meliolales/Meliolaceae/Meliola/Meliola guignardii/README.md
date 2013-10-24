@@ -1,5 +1,4 @@
-Meliola guignardii Gaillard SPECIES
-=======
+# Meliola guignardii Gaillard SPECIES
 
 #### Status
 ACCEPTED

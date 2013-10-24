@@ -1,5 +1,4 @@
-Botryobasidium ponderosum M.J. Larsen, 1996 SPECIES
-=======
+# Botryobasidium ponderosum M.J. Larsen, 1996 SPECIES
 
 #### Status
 ACCEPTED

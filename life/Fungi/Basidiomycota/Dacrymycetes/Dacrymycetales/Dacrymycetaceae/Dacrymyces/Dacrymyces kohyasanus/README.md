@@ -1,5 +1,4 @@
-Dacrymyces kohyasanus Kobayasi SPECIES
-=======
+# Dacrymyces kohyasanus Kobayasi SPECIES
 
 #### Status
 ACCEPTED

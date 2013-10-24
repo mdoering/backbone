@@ -1,5 +1,4 @@
-Parabryophrya Foissner, 1985 GENUS
-=======
+# Parabryophrya Foissner, 1985 GENUS
 
 #### Status
 ACCEPTED

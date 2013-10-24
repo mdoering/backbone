@@ -1,17 +1,16 @@
-Fusicoccum bacillare var. bacillare VARIETY
-=======
+# Phacidium lacerum Fr., 1818 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 2(no. 8): 627 (1882)
+Observ. mycol. (Havniae) 2: 313 (1818)
 
 #### Original name
-Fusicoccum bacillare var. bacillare
+Phacidium lacerum Fr., 1818
 
 ### Remarks
 null

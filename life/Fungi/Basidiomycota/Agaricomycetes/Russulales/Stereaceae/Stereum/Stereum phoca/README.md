@@ -1,5 +1,4 @@
-Stereum phoca Lloyd SPECIES
-=======
+# Stereum phoca Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma porii Pass. SPECIES
-=======
+# Phoma porii Pass. SPECIES
 
 #### Status
 ACCEPTED

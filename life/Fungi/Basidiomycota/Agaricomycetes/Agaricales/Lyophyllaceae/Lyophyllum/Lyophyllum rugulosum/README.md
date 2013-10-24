@@ -1,5 +1,4 @@
-Lyophyllum rugulosum Clémençon & A.H. Sm. SPECIES
-=======
+# Lyophyllum rugulosum Clémençon & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

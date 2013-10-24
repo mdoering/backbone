@@ -1,17 +1,16 @@
-Licea biforis var. sinuosa (Nann.-Bremek.) Y. Yamam. VARIETY
-=======
+# Licea biforis Morgan, 1893 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hikobia 11(4): 528 (1994)
+J. Cincinnati Soc. Nat. Hist. 15: 131 (1893)
 
 #### Original name
-Licea sinuosa Nann.-Bremek., 1965
+Licea biforis Morgan, 1893
 
 ### Remarks
 null

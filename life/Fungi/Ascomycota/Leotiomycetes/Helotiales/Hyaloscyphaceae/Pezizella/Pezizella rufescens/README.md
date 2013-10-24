@@ -1,5 +1,4 @@
-Pezizella rufescens Velen. SPECIES
-=======
+# Pezizella rufescens Velen. SPECIES
 
 #### Status
 ACCEPTED

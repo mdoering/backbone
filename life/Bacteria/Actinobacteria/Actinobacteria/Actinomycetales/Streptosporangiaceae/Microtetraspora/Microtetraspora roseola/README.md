@@ -1,5 +1,4 @@
-Microtetraspora roseola (Lavrova & Preobrazhenskaya, 1975) Kroppenstedt et al., 1991 SPECIES
-=======
+# Microtetraspora roseola (Lavrova & Preobrazhenskaya, 1975) Kroppenstedt et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

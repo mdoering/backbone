@@ -1,5 +1,4 @@
-Dictyopteris crassinervia (Zanardini) O.C.Schmidt SPECIES
-=======
+# Dictyopteris crassinervia (Zanardini) O.C.Schmidt SPECIES
 
 #### Status
 ACCEPTED

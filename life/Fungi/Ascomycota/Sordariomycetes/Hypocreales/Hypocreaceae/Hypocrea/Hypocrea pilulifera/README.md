@@ -1,5 +1,4 @@
-Hypocrea pilulifera J. Webster & Rifai, 1968 SPECIES
-=======
+# Hypocrea pilulifera J. Webster & Rifai, 1968 SPECIES
 
 #### Status
 ACCEPTED

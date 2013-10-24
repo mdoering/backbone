@@ -1,5 +1,4 @@
-Boletus subtilis Schrad. SPECIES
-=======
+# Boletus subtilis Schrad. SPECIES
 
 #### Status
 ACCEPTED

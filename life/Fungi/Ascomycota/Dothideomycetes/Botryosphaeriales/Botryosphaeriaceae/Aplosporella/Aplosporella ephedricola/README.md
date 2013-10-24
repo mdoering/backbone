@@ -1,5 +1,4 @@
-Aplosporella ephedricola S. Ahmad SPECIES
-=======
+# Aplosporella ephedricola S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

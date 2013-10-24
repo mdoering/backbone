@@ -1,14 +1,13 @@
-Penicillium cylindrosporum G. Sm. SPECIES
-=======
+# Geosmithia cylindrospora (G. Sm.) Pitt, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 40: 483 (1957)
+Can. J. Bot. 57(19): 2024 (1979)
 
 #### Original name
 Penicillium cylindrosporum G. Sm.

@@ -1,5 +1,4 @@
-Chaetoceros setoensis Ikari SPECIES
-=======
+# Chaetoceros setoensis Ikari SPECIES
 
 #### Status
 ACCEPTED

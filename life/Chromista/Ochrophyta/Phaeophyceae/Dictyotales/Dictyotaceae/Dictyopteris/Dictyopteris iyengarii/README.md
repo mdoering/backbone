@@ -1,5 +1,4 @@
-Dictyopteris iyengarii P. Anand SPECIES
-=======
+# Dictyopteris iyengarii P. Anand SPECIES
 
 #### Status
 ACCEPTED

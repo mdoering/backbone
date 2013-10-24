@@ -1,5 +1,4 @@
-Peniophora bruneiensis Hjortstam, 1998 SPECIES
-=======
+# Peniophora bruneiensis Hjortstam, 1998 SPECIES
 
 #### Status
 ACCEPTED

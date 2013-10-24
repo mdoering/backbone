@@ -1,5 +1,4 @@
-Clavaria polita Fr. SPECIES
-=======
+# Clavaria polita Fr. SPECIES
 
 #### Status
 ACCEPTED

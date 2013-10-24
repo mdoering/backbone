@@ -1,5 +1,4 @@
-Xanthomendoza fallax Søchting, Kärnefelt & S.Y. Kondr. SPECIES
-=======
+# Xanthomendoza fallax Søchting, Kärnefelt & S.Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

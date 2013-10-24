@@ -1,5 +1,4 @@
-Pocillaria janthina (Sobol.) Kuntze SPECIES
-=======
+# Pocillaria janthina (Sobol.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corticium triviale Speg. SPECIES
-=======
+# Corticium triviale Speg. SPECIES
 
 #### Status
 ACCEPTED

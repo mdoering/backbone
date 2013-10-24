@@ -1,5 +1,4 @@
-Thielavia coerulescens Kamyschko SPECIES
-=======
+# Thielavia coerulescens Kamyschko SPECIES
 
 #### Status
 ACCEPTED

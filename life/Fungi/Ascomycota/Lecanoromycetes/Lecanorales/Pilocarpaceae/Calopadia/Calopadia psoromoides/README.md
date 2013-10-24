@@ -1,5 +1,4 @@
-Calopadia psoromoides Kalb & Vezda SPECIES
-=======
+# Calopadia psoromoides Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

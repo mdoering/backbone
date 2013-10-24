@@ -1,5 +1,4 @@
-Lasiosphaeria meznaensis R. Hilber SPECIES
-=======
+# Lasiosphaeria meznaensis R. Hilber SPECIES
 
 #### Status
 ACCEPTED

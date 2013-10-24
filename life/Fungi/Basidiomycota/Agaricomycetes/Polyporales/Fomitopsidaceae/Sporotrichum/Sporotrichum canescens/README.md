@@ -1,5 +1,4 @@
-Sporotrichum canescens Pers. SPECIES
-=======
+# Sporotrichum canescens Pers. SPECIES
 
 #### Status
 ACCEPTED

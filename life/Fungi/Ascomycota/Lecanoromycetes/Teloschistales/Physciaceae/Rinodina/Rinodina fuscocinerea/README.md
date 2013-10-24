@@ -1,5 +1,4 @@
-Rinodina fuscocinerea SPECIES
-=======
+# Rinodina fuscocinerea SPECIES
 
 #### Status
 ACCEPTED

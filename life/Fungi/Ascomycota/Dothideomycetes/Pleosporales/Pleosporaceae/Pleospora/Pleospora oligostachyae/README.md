@@ -1,5 +1,4 @@
-Pleospora oligostachyae Ellis & Everh. SPECIES
-=======
+# Pleospora oligostachyae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

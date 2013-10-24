@@ -1,5 +1,4 @@
-Tricholoma marquettense Ovrebo SPECIES
-=======
+# Tricholoma marquettense Ovrebo SPECIES
 
 #### Status
 ACCEPTED

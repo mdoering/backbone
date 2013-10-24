@@ -1,5 +1,4 @@
-Uromyces calycotomes Gäum. SPECIES
-=======
+# Uromyces calycotomes Gäum. SPECIES
 
 #### Status
 ACCEPTED

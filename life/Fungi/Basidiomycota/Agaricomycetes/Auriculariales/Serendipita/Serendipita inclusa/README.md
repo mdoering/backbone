@@ -1,14 +1,13 @@
-Sebacina inclusa Oberw., 1964 SPECIES
-=======
+# Serendipita inclusa (Oberw.) P. Roberts, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 7: 496 (1964)
+Mycol. Res. 97(4): 478 (1993)
 
 #### Original name
 Sebacina inclusa Oberw., 1964

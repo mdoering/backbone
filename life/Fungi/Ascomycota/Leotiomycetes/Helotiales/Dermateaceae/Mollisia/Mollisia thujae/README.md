@@ -1,5 +1,4 @@
-Mollisia thujae Velen. SPECIES
-=======
+# Mollisia thujae Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Krombholzia chromapes (Frost) Singer SPECIES
-=======
+# Krombholzia chromapes (Frost) Singer SPECIES
 
 #### Status
 ACCEPTED

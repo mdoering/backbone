@@ -1,5 +1,4 @@
-Cortinarius compar f. compar FORM
-=======
+# Cortinarius compar (Weinm.) Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cortinarius compar f. compar
+Agaricus compar Weinm.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Stelexomonas dichotoma Lackey SPECIES
-=======
+# Stelexomonas dichotoma Lackey SPECIES
 
 #### Status
 ACCEPTED

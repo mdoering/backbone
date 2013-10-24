@@ -1,5 +1,4 @@
-Corticium pelliculare var. merulioides Bourdot & Galzin VARIETY
-=======
+# Corticium pelliculare (P. Karst.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Hyménomyc. de France (Sceaux) 192 (1928)
+Bidr. Känn. Finl. Nat. Folk 48: 411 (1889)
 
 #### Original name
-Corticium pelliculare var. merulioides Bourdot & Galzin
+Corticium laeve subsp. pelliculare P. Karst.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lasiodiplodia ricini Sacc. SPECIES
-=======
+# Lasiodiplodia ricini Sacc. SPECIES
 
 #### Status
 ACCEPTED

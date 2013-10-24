@@ -1,5 +1,4 @@
-Hydrocybe cedriolens M.M. Moser SPECIES
-=======
+# Hydrocybe cedriolens M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

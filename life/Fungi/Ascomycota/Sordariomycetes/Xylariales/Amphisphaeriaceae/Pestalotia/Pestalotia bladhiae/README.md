@@ -1,17 +1,16 @@
-Pestalozzia bladhiae Sawada SPECIES
-=======
+# Pestalotia bladhiae Sawada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Taihoku Soc. Agric. 7: 115 (1942)
 
 #### Original name
-Pestalozzia bladhiae Sawada
+Pestalotia bladhiae Sawada
 
 ### Remarks
 null

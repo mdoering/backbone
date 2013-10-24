@@ -1,5 +1,4 @@
-Callopisma arenarium (Pers.) Trevis. SPECIES
-=======
+# Callopisma arenarium (Pers.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

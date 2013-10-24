@@ -1,5 +1,4 @@
-Amanita crassivolata L. Krieg. SPECIES
-=======
+# Amanita crassivolata L. Krieg. SPECIES
 
 #### Status
 ACCEPTED

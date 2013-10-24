@@ -1,14 +1,13 @@
-Gymnoglossum gunnii (Massee) G. Cunn., 1941 SPECIES
-=======
+# Descolea gunnii (Massee) E. Horak, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 6(2): 242 (1971)
 
 #### Original name
 Secotium gunnii Berk.

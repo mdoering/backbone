@@ -1,5 +1,4 @@
-Tuburcinia punctiformis (Lam. & DC.) Fr. SPECIES
-=======
+# Tuburcinia punctiformis (Lam. & DC.) Fr. SPECIES
 
 #### Status
 ACCEPTED

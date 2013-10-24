@@ -1,17 +1,16 @@
-Lachnum nainitalensis M.P. Sharma SPECIES
-=======
+# Lachnum nainitalense M.P. Sharma SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 43(3-4): 413 (1986)
 
 #### Original name
-Lachnum nainitalensis M.P. Sharma
+Lachnum nainitalense M.P. Sharma
 
 ### Remarks
 null

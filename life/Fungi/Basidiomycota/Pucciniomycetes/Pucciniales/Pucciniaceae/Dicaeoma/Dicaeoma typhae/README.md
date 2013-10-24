@@ -1,5 +1,4 @@
-Dicaeoma typhae (Kalchbr.) Kuntze SPECIES
-=======
+# Dicaeoma typhae (Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

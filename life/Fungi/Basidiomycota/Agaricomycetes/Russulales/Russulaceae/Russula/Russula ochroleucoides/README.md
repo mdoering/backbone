@@ -1,5 +1,4 @@
-Russula ochroleucoides Kauffman SPECIES
-=======
+# Russula ochroleucoides Kauffman SPECIES
 
 #### Status
 ACCEPTED

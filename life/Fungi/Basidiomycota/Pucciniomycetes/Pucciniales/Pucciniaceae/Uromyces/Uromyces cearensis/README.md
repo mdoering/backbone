@@ -1,5 +1,4 @@
-Uromyces cearensis Berndt & F.O. Freire SPECIES
-=======
+# Uromyces cearensis Berndt & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

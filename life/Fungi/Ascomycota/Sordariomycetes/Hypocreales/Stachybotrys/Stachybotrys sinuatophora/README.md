@@ -1,5 +1,4 @@
-Stachybotrys sinuatophora Matsush., 1971 SPECIES
-=======
+# Stachybotrys sinuatophora Matsush., 1971 SPECIES
 
 #### Status
 ACCEPTED

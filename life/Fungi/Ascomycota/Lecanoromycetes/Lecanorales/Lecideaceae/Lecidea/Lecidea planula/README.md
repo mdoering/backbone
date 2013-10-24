@@ -1,5 +1,4 @@
-Lecidea planula Nyl. SPECIES
-=======
+# Lecidea planula Nyl. SPECIES
 
 #### Status
 ACCEPTED

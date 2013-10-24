@@ -1,5 +1,4 @@
-Psora viridiatra (Ach.) Anzi SPECIES
-=======
+# Psora viridiatra (Ach.) Anzi SPECIES
 
 #### Status
 ACCEPTED

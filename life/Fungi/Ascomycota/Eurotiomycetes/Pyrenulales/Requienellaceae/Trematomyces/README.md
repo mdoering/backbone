@@ -1,5 +1,4 @@
-Trematomyces GENUS
-=======
+# Trematomyces GENUS
 
 #### Status
 ACCEPTED

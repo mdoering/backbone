@@ -1,5 +1,4 @@
-Oncospora pezizella Penz. & Sacc. SPECIES
-=======
+# Oncospora pezizella Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

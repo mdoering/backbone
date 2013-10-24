@@ -1,5 +1,4 @@
-Dothichiza betulae anon. SPECIES
-=======
+# Dothichiza betulae anon. SPECIES
 
 #### Status
 ACCEPTED

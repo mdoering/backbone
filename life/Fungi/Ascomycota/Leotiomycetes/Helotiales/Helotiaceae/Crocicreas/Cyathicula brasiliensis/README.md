@@ -1,5 +1,4 @@
-Cyathicula brasiliensis Rick SPECIES
-=======
+# Cyathicula brasiliensis Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma glomeratum (Peck) Kuntze SPECIES
-=======
+# Dicaeoma glomeratum (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

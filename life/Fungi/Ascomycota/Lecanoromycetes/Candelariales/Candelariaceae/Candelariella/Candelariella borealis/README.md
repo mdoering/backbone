@@ -1,5 +1,4 @@
-Candelariella borealis M. Westb. SPECIES
-=======
+# Candelariella borealis M. Westb. SPECIES
 
 #### Status
 ACCEPTED

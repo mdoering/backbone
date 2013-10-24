@@ -1,5 +1,4 @@
-Mycena cuspidata Massee SPECIES
-=======
+# Mycena cuspidata Massee SPECIES
 
 #### Status
 ACCEPTED

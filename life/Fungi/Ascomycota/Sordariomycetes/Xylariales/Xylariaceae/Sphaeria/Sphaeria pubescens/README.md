@@ -1,5 +1,4 @@
-Sphaeria pubescens Schumach. SPECIES
-=======
+# Sphaeria pubescens Schumach. SPECIES
 
 #### Status
 ACCEPTED

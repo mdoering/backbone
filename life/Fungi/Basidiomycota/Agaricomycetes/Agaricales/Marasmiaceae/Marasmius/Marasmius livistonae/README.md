@@ -1,5 +1,4 @@
-Marasmius livistonae Hino {?} SPECIES
-=======
+# Marasmius livistonae Hino {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium bulgaricum Bubák & Picb. SPECIES
-=======
+# Coniothyrium bulgaricum Bubák & Picb. SPECIES
 
 #### Status
 ACCEPTED

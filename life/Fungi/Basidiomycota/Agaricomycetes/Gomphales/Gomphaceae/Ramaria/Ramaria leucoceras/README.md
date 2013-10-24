@@ -1,5 +1,4 @@
-Ramaria leucoceras (Pat.) Corner SPECIES
-=======
+# Ramaria leucoceras (Pat.) Corner SPECIES
 
 #### Status
 ACCEPTED

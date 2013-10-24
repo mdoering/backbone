@@ -1,5 +1,4 @@
-Xylaria lutea Beeli SPECIES
-=======
+# Xylaria lutea Beeli SPECIES
 
 #### Status
 ACCEPTED

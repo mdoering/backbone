@@ -1,5 +1,4 @@
-Parmelia luzonensis Räsänen SPECIES
-=======
+# Parmelia luzonensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

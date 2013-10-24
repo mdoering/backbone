@@ -1,14 +1,13 @@
-Corallomyces jatrophae Möller, 1901 SPECIES
-=======
+# Nectria jatrophae (Möller) Wollenw., 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Mitt. Trop. 9: 296 (1901)
+in Sorauer, Handb. Pflanzenkr. 2(1): 560 (1931)
 
 #### Original name
 Corallomyces jatrophae Möller, 1901

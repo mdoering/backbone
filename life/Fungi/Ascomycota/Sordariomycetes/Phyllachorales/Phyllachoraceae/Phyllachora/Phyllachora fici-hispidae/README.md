@@ -1,5 +1,4 @@
-Phyllachora fici-hispidae Seshadri, 1968 SPECIES
-=======
+# Phyllachora fici-hispidae Seshadri, 1968 SPECIES
 
 #### Status
 ACCEPTED

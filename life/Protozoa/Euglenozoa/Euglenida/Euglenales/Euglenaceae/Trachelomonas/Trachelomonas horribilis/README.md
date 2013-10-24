@@ -1,5 +1,4 @@
-Trachelomonas horribilis Pascher SPECIES
-=======
+# Trachelomonas horribilis Pascher SPECIES
 
 #### Status
 ACCEPTED

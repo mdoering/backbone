@@ -1,5 +1,4 @@
-Botrytis pulcherrima Schwein. SPECIES
-=======
+# Botrytis pulcherrima Schwein. SPECIES
 
 #### Status
 ACCEPTED

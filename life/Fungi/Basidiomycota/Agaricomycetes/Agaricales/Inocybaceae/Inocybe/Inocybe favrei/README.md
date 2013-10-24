@@ -1,5 +1,4 @@
-Inocybe favrei var. favrei VARIETY
-=======
+# Inocybe favrei Bon SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Féd. Mycol. Dauphiné-Savoie 25(no. 97): 28 (1985)
 
 #### Original name
-Inocybe favrei var. favrei
+Inocybe favrei Bon
 
 ### Remarks
 null

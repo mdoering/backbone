@@ -1,5 +1,4 @@
-Asteroma trillii (Ellis & Everh.) Rulamort SPECIES
-=======
+# Asteroma trillii (Ellis & Everh.) Rulamort SPECIES
 
 #### Status
 ACCEPTED

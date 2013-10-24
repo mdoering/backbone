@@ -1,5 +1,4 @@
-Chaetomium hungaricum E.K. Novák, 1966 SPECIES
-=======
+# Chaetomium hungaricum E.K. Novák, 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Foissneridium constrictum (Meunier, 1910) SPECIES
-=======
+# Foissneridium constrictum (Meunier, 1910) SPECIES
 
 #### Status
 ACCEPTED

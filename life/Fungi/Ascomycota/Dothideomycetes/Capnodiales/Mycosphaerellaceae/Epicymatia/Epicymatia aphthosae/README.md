@@ -1,5 +1,4 @@
-Epicymatia aphthosae Moreau SPECIES
-=======
+# Epicymatia aphthosae Moreau SPECIES
 
 #### Status
 ACCEPTED

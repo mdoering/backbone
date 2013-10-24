@@ -1,5 +1,4 @@
-Gloeosporium smilacinum Bubák SPECIES
-=======
+# Gloeosporium smilacinum Bubák SPECIES
 
 #### Status
 ACCEPTED

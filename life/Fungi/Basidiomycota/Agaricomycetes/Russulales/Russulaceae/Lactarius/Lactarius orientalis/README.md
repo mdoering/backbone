@@ -1,5 +1,4 @@
-Lactarius orientalis (Verbeken) Verbeken SPECIES
-=======
+# Lactarius orientalis (Verbeken) Verbeken SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprotrichum cinereum Bonord. SPECIES
-=======
+# Coprotrichum cinereum Bonord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paracytospora Petr. GENUS
-=======
+# Paracytospora Petr. GENUS
 
 #### Status
 ACCEPTED

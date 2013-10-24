@@ -1,5 +1,4 @@
-Synchytrium corni M.T. Cook SPECIES
-=======
+# Synchytrium corni M.T. Cook SPECIES
 
 #### Status
 ACCEPTED

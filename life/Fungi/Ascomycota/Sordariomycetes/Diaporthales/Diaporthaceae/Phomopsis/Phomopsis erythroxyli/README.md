@@ -1,5 +1,4 @@
-Phomopsis erythroxyli Novoss. SPECIES
-=======
+# Phomopsis erythroxyli Novoss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelephora angustata (Lév.) Fr. SPECIES
-=======
+# Thelephora angustata (Lév.) Fr. SPECIES
 
 #### Status
 ACCEPTED

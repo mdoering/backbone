@@ -1,5 +1,4 @@
-Triloculina asymmetrica Said, 1949 SPECIES
-=======
+# Triloculina asymmetrica Said, 1949 SPECIES
 
 #### Status
 ACCEPTED

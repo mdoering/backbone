@@ -1,5 +1,4 @@
-Polygonium M.Vavrdová, 1966 GENUS
-=======
+# Polygonium M.Vavrdová, 1966 GENUS
 
 #### Status
 ACCEPTED

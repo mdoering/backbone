@@ -1,5 +1,4 @@
-Ilyobacter Stieb & Schink, 1985 GENUS
-=======
+# Ilyobacter Stieb & Schink, 1985 GENUS
 
 #### Status
 ACCEPTED

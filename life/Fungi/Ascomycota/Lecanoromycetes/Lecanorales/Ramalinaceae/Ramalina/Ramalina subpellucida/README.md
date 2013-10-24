@@ -1,5 +1,4 @@
-Ramalina subpellucida Müll. Arg. SPECIES
-=======
+# Ramalina subpellucida Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

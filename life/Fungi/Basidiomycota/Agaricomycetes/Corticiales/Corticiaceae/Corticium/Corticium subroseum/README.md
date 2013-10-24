@@ -1,5 +1,4 @@
-Corticium subroseum Sacc. & P. Syd. SPECIES
-=======
+# Corticium subroseum Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

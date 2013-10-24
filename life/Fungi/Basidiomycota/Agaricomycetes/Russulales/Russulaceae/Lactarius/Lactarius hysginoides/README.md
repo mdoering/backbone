@@ -1,5 +1,4 @@
-Lactarius hysginoides Korhonen & T. Ulvinen, 1985 SPECIES
-=======
+# Lactarius hysginoides Korhonen & T. Ulvinen, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ocellaria (Tulasne & C. Tulasne) Kirschstein, 1935 GENUS
-=======
+# Ocellaria (Tulasne & C. Tulasne) Kirschstein, 1935 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Navicella erosa (Ellis & Everh.) Kuntze SPECIES
-=======
+# Navicella erosa (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

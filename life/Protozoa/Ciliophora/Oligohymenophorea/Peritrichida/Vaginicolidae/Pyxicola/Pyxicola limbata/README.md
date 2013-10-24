@@ -1,5 +1,4 @@
-Pyxicola limbata Stiller, 1922 SPECIES
-=======
+# Pyxicola limbata Stiller, 1922 SPECIES
 
 #### Status
 ACCEPTED

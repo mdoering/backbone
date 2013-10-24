@@ -1,17 +1,16 @@
-Tillitaceae FAMILY
-=======
+# Tilletiaceae J. Schröt. FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 1(1724): 276 (1887)
 
 #### Original name
-null
+Tilletiaceae J. Schröt.
 
 ### Remarks
 null

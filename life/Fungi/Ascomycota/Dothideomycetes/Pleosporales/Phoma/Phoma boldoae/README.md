@@ -1,5 +1,4 @@
-Phoma boldoae Speg. SPECIES
-=======
+# Phoma boldoae Speg. SPECIES
 
 #### Status
 ACCEPTED

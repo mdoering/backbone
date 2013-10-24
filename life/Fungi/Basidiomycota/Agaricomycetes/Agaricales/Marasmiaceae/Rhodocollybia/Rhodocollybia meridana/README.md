@@ -1,5 +1,4 @@
-Rhodocollybia meridana (Dennis) Halling SPECIES
-=======
+# Rhodocollybia meridana (Dennis) Halling SPECIES
 
 #### Status
 ACCEPTED

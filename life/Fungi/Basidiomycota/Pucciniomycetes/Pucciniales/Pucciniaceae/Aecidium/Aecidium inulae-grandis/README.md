@@ -1,5 +1,4 @@
-Aecidium inulae-grandis Nevod. SPECIES
-=======
+# Aecidium inulae-grandis Nevod. SPECIES
 
 #### Status
 ACCEPTED

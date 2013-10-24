@@ -1,14 +1,13 @@
-Mucor parasiticus Bainier, 1884 SPECIES
-=======
+# Parasitella parasitica (Bainier) Syd., 1903 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 6 19: 212 (1884)
+Annls mycol. 1: 371 (1903)
 
 #### Original name
 Mucor parasiticus Bainier, 1884

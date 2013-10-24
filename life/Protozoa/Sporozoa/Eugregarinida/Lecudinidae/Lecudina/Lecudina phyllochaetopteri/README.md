@@ -1,5 +1,4 @@
-Lecudina phyllochaetopteri Rueckert, Chantangsi & Leander, 2010 SPECIES
-=======
+# Lecudina phyllochaetopteri Rueckert, Chantangsi & Leander, 2010 SPECIES
 
 #### Status
 ACCEPTED

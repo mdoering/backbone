@@ -1,5 +1,4 @@
-Rabenhorstia discoidea Speg. SPECIES
-=======
+# Rabenhorstia discoidea Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago pueblaensis Durán SPECIES
-=======
+# Ustilago pueblaensis Durán SPECIES
 
 #### Status
 ACCEPTED

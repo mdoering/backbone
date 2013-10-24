@@ -1,17 +1,16 @@
-Thelocarpon epibolum var. epibolum VARIETY
-=======
+# Thelocarpon epibolum Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Not. Sällsk. Fauna et Fl. Fenn. Förh. 8: 188 (1866)
+null
 
 #### Original name
-Thelocarpon epibolum var. epibolum
+Thelocarpon epibolum Nyl.
 
 ### Remarks
 null

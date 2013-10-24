@@ -1,5 +1,4 @@
-Gymnopus subpruinosus (Murrill) Desjardin, Halling & Hemmes SPECIES
-=======
+# Gymnopus subpruinosus (Murrill) Desjardin, Halling & Hemmes SPECIES
 
 #### Status
 ACCEPTED

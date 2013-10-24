@@ -1,5 +1,4 @@
-Clavariadelphus himalayensis Methven, 1989 SPECIES
-=======
+# Clavariadelphus himalayensis Methven, 1989 SPECIES
 
 #### Status
 ACCEPTED

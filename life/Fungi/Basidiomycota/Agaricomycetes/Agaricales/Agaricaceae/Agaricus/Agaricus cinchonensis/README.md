@@ -1,5 +1,4 @@
-Agaricus cinchonensis Murrill SPECIES
-=======
+# Agaricus cinchonensis Murrill SPECIES
 
 #### Status
 ACCEPTED

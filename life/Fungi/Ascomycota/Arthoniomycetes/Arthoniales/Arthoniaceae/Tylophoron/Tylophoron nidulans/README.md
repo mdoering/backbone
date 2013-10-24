@@ -1,5 +1,4 @@
-Tylophoron nidulans Stirt. SPECIES
-=======
+# Tylophoron nidulans Stirt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia polymorpha F.H. Wigg. SPECIES
-=======
+# Cladonia polymorpha F.H. Wigg. SPECIES
 
 #### Status
 ACCEPTED

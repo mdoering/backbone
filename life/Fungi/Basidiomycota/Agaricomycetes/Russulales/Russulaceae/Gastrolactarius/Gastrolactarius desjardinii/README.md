@@ -1,5 +1,4 @@
-Gastrolactarius desjardinii (Thiers) J.M. Vidal SPECIES
-=======
+# Gastrolactarius desjardinii (Thiers) J.M. Vidal SPECIES
 
 #### Status
 ACCEPTED

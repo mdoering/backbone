@@ -1,14 +1,13 @@
-Parmelia norsticticata G. N. Stevens SPECIES
-=======
+# Canoparmelia norsticticata (G. N. Stevens) Elix & Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Elix & Stevens, Aust. J. Bot. 27(6): 881 (1980)
+in Elix, Johnston & Verdon, Mycotaxon 27: 278 (1986)
 
 #### Original name
 Parmelia norsticticata G. N. Stevens

@@ -1,5 +1,4 @@
-Cowdryia GENUS
-=======
+# Cowdryia GENUS
 
 #### Status
 ACCEPTED

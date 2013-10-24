@@ -1,5 +1,4 @@
-Macrosporium convolvuli Losa SPECIES
-=======
+# Macrosporium convolvuli Losa SPECIES
 
 #### Status
 ACCEPTED

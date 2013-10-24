@@ -1,5 +1,4 @@
-Psathyrella rupchandii A.H. Sm. SPECIES
-=======
+# Psathyrella rupchandii A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

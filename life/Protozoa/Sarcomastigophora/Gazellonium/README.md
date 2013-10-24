@@ -1,5 +1,4 @@
-Gazellonium Haeckel, 1887 GENUS
-=======
+# Gazellonium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

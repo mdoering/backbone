@@ -1,5 +1,4 @@
-Tympanicus Carter, 1895 GENUS
-=======
+# Tympanicus Carter, 1895 GENUS
 
 #### Status
 ACCEPTED

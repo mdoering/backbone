@@ -1,5 +1,4 @@
-Lecidea phillippea (Mont.) SPECIES
-=======
+# Lecidea phillippea (Mont.) SPECIES
 
 #### Status
 ACCEPTED

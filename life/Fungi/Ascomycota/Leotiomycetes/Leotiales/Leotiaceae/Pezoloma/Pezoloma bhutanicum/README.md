@@ -1,5 +1,4 @@
-Pezoloma bhutanicum R. Sharma & K.S. Thind, 1987 SPECIES
-=======
+# Pezoloma bhutanicum R. Sharma & K.S. Thind, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nadinella Penard, 1899 GENUS
-=======
+# Nadinella Penard, 1899 GENUS
 
 #### Status
 ACCEPTED

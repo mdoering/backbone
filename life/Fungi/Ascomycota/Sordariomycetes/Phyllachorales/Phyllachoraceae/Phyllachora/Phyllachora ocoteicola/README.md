@@ -1,17 +1,16 @@
-Phyllachora ocoteicola var. costaricensis F. Stevens, 1927 VARIETY
-=======
+# Phyllachora ocoteicola F. Stevens & Dalbey, 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Illinois Biol. Monogr. (Urbana) 11(2): 189 (1927)
+Bot. Gaz. 68: 57 (1919)
 
 #### Original name
-Phyllachora ocoteicola var. costaricensis F. Stevens, 1927
+Phyllachora ocoteicola F. Stevens & Dalbey, 1919
 
 ### Remarks
 null

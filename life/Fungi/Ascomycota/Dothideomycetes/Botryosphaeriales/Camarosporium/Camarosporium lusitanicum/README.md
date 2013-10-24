@@ -1,5 +1,4 @@
-Camarosporium lusitanicum M.T. Lucas & Sousa da Câmara SPECIES
-=======
+# Camarosporium lusitanicum M.T. Lucas & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

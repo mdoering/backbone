@@ -1,5 +1,4 @@
-Rhizopogon cinnamomeus K.A. Harrison & A.H. Sm. SPECIES
-=======
+# Rhizopogon cinnamomeus K.A. Harrison & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

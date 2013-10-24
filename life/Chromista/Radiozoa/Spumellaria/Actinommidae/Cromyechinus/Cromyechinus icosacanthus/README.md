@@ -1,5 +1,4 @@
-Cromyechinus icosacanthus Haeckel, 1887 SPECIES
-=======
+# Cromyechinus icosacanthus Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

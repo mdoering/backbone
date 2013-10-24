@@ -1,5 +1,4 @@
-Candida homilentoma Van der Walt & Nakase, 1973 SPECIES
-=======
+# Candida homilentoma Van der Walt & Nakase, 1973 SPECIES
 
 #### Status
 ACCEPTED

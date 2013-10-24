@@ -1,5 +1,4 @@
-Ceriomyces fumosipes (Peck) Murrill SPECIES
-=======
+# Ceriomyces fumosipes (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

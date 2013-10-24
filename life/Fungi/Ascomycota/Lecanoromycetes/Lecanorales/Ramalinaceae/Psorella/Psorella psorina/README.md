@@ -1,5 +1,4 @@
-Psorella psorina (Nyl.) Zahlbr. SPECIES
-=======
+# Psorella psorina (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus braunii Rabenh. SPECIES
-=======
+# Polystictus braunii Rabenh. SPECIES
 
 #### Status
 ACCEPTED

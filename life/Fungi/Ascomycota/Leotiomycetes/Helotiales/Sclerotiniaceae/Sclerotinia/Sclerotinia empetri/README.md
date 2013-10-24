@@ -1,5 +1,4 @@
-Sclerotinia empetri Lagerh. SPECIES
-=======
+# Sclerotinia empetri Lagerh. SPECIES
 
 #### Status
 ACCEPTED

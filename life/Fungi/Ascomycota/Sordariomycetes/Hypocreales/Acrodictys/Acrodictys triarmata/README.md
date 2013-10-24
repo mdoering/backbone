@@ -1,17 +1,16 @@
-Acrodictys triarmatus Whitton, McKenzie & K.D. Hyde SPECIES
-=======
+# Acrodictys triarmata Whitton, McKenzie & K.D. Hyde SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fungal Diversity 4: 166 (2000)
 
 #### Original name
-Acrodictys triarmatus Whitton, McKenzie & K.D. Hyde
+Acrodictys triarmata Whitton, McKenzie & K.D. Hyde
 
 ### Remarks
 null

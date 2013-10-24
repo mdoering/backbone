@@ -1,5 +1,4 @@
-Meliola guareae var. guareae VARIETY
-=======
+# Meliola guareae Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Anal. Mus. nac. Hist. nat. B. Aires 23: 42 (1912)
 
 #### Original name
-Meliola guareae var. guareae
+Meliola guareae Speg.
 
 ### Remarks
 null

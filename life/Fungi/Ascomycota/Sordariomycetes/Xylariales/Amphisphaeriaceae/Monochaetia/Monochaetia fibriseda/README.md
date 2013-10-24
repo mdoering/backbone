@@ -1,5 +1,4 @@
-Monochaetia fibriseda (Ellis & Burt) Sacc. SPECIES
-=======
+# Monochaetia fibriseda (Ellis & Burt) Sacc. SPECIES
 
 #### Status
 ACCEPTED

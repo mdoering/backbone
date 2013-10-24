@@ -1,5 +1,4 @@
-Hypoxylon peleae J.D. Rogers & Y.M. Ju, 2007 SPECIES
-=======
+# Hypoxylon peleae J.D. Rogers & Y.M. Ju, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola nigrorufescens Sacc. SPECIES
-=======
+# Meliola nigrorufescens Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo hyptidis-atrorubentis Mayor SPECIES
-=======
+# Uredo hyptidis-atrorubentis Mayor SPECIES
 
 #### Status
 ACCEPTED

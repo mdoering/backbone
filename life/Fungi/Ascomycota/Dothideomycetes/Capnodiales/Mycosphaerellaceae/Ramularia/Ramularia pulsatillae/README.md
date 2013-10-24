@@ -1,5 +1,4 @@
-Ramularia pulsatillae Hollós SPECIES
-=======
+# Ramularia pulsatillae Hollós SPECIES
 
 #### Status
 ACCEPTED

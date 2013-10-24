@@ -1,5 +1,4 @@
-Rhabdospora violae Gutner SPECIES
-=======
+# Rhabdospora violae Gutner SPECIES
 
 #### Status
 ACCEPTED

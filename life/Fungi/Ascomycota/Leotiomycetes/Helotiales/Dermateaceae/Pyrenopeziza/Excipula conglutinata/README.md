@@ -1,5 +1,4 @@
-Excipula conglutinata Ellis & Everh. SPECIES
-=======
+# Excipula conglutinata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

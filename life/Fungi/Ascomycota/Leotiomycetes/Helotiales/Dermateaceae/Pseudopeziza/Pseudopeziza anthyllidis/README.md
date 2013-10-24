@@ -1,5 +1,4 @@
-Pseudopeziza anthyllidis Gonz. Frag. SPECIES
-=======
+# Pseudopeziza anthyllidis Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

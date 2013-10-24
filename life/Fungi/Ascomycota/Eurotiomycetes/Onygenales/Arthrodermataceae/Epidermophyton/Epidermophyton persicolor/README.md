@@ -1,5 +1,4 @@
-Epidermophyton persicolor (Sabour.) C.W. Dodge SPECIES
-=======
+# Epidermophyton persicolor (Sabour.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyperamoeba Seravin & Goodkov in Goodkov, Seravin & Railkin, 1982 GENUS
-=======
+# Hyperamoeba Seravin & Goodkov in Goodkov, Seravin & Railkin, 1982 GENUS
 
 #### Status
 ACCEPTED

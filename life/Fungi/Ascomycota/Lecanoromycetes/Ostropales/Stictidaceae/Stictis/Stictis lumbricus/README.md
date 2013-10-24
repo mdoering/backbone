@@ -1,5 +1,4 @@
-Stictis lumbricus Sherwood SPECIES
-=======
+# Stictis lumbricus Sherwood SPECIES
 
 #### Status
 ACCEPTED

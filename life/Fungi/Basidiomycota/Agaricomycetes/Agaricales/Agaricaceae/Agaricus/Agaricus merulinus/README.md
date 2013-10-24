@@ -1,5 +1,4 @@
-Agaricus merulinus Berk. SPECIES
-=======
+# Agaricus merulinus Berk. SPECIES
 
 #### Status
 ACCEPTED

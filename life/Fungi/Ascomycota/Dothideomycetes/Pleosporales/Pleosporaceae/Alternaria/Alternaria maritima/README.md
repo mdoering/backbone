@@ -1,5 +1,4 @@
-Alternaria maritima G.K. Sutherl., 1916 SPECIES
-=======
+# Alternaria maritima G.K. Sutherl., 1916 SPECIES
 
 #### Status
 ACCEPTED

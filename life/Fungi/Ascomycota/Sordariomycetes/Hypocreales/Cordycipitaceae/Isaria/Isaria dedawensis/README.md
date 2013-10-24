@@ -1,5 +1,4 @@
-Isaria dedawensis Henn. SPECIES
-=======
+# Isaria dedawensis Henn. SPECIES
 
 #### Status
 ACCEPTED

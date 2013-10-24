@@ -1,14 +1,13 @@
-Ceratocorrys Schroeder, 1906 GENUS
-=======
+# Ceratocorys F. Stein, 1883 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Vierteljahrschr. Ges. Zürich, 51, 321.
+Org. Infus. , 3 (2), 20.
 
 #### Original name
 null

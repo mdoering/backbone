@@ -1,5 +1,4 @@
-Symplocastrum (Gomont) Kirchner, 1898 GENUS
-=======
+# Symplocastrum (Gomont) Kirchner, 1898 GENUS
 
 #### Status
 ACCEPTED

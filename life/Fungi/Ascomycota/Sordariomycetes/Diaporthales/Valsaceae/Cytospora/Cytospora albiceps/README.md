@@ -1,5 +1,4 @@
-Cytospora albiceps Ellis & Kellerm. SPECIES
-=======
+# Cytospora albiceps Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

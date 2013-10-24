@@ -1,5 +1,4 @@
-Peristomialis bambusina (Syd. & P. Syd.) Rossman, Samuels & Lowen SPECIES
-=======
+# Peristomialis bambusina (Syd. & P. Syd.) Rossman, Samuels & Lowen SPECIES
 
 #### Status
 ACCEPTED

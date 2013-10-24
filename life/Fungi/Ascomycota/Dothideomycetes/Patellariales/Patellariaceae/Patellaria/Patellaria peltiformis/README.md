@@ -1,5 +1,4 @@
-Patellaria peltiformis Müll. Arg. SPECIES
-=======
+# Patellaria peltiformis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

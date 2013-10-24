@@ -1,5 +1,4 @@
-Verrucaria acharii Fée SPECIES
-=======
+# Verrucaria acharii Fée SPECIES
 
 #### Status
 ACCEPTED

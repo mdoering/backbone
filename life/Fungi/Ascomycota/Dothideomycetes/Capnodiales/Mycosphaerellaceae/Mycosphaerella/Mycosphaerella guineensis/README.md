@@ -1,5 +1,4 @@
-Mycosphaerella guineensis J. Kranz SPECIES
-=======
+# Mycosphaerella guineensis J. Kranz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria lingue (Speg.) Sacc. & Trotter SPECIES
-=======
+# Leptosphaeria lingue (Speg.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

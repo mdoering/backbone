@@ -1,5 +1,4 @@
-Coniothyrium eugeniae Tassi SPECIES
-=======
+# Coniothyrium eugeniae Tassi SPECIES
 
 #### Status
 ACCEPTED

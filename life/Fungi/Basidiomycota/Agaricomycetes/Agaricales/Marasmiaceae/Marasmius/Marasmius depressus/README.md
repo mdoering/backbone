@@ -1,5 +1,4 @@
-Marasmius depressus Lév. SPECIES
-=======
+# Marasmius depressus Lév. SPECIES
 
 #### Status
 ACCEPTED

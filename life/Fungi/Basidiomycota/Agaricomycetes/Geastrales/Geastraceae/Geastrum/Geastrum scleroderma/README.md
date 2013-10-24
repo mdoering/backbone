@@ -1,8 +1,7 @@
-Geaster scleroderma Mont. SPECIES
-=======
+# Geastrum scleroderma Mont. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster scleroderma Mont.
+Geastrum scleroderma Mont.
 
 ### Remarks
 null

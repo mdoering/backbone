@@ -1,5 +1,4 @@
-Biatora interversa (Nyl.) Hellb. SPECIES
-=======
+# Biatora interversa (Nyl.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

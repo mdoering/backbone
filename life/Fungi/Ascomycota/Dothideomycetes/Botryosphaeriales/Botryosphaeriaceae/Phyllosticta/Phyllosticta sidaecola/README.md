@@ -1,5 +1,4 @@
-Phyllosticta sidaecola Cooke SPECIES
-=======
+# Phyllosticta sidaecola Cooke SPECIES
 
 #### Status
 ACCEPTED

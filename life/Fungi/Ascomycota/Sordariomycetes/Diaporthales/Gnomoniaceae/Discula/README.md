@@ -1,17 +1,16 @@
-Ligniella Naumov GENUS
-=======
+# Discula Saccardo, 1884 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mater. Mikol. Fitopat. Ross. 5(1): 5 (1926)
+Syll. fung. (Abellini) 3: 674 (1884)
 
 #### Original name
-Ligniella Naumov
+Discula Saccardo, 1884
 
 ### Remarks
 null

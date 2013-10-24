@@ -1,5 +1,4 @@
-Trichosporum atratum (Fr.) Sacc. SPECIES
-=======
+# Trichosporum atratum (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

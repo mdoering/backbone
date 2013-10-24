@@ -1,5 +1,4 @@
-Hendersonia weigeliae Oudem. SPECIES
-=======
+# Hendersonia weigeliae Oudem. SPECIES
 
 #### Status
 ACCEPTED

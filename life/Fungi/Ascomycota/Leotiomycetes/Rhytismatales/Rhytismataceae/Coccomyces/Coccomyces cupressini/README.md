@@ -1,17 +1,16 @@
-Coccomyces cupressinum P.R. Johnst. SPECIES
-=======
+# Coccomyces cupressini P.R. Johnst., 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Z. Jl Bot. 24(1): 97 (1986)
 
 #### Original name
-Coccomyces cupressinum P.R. Johnst.
+Coccomyces cupressini P.R. Johnst., 1986
 
 ### Remarks
 null

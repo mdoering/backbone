@@ -1,5 +1,4 @@
-Ephelis caricina Syd. SPECIES
-=======
+# Ephelis caricina Syd. SPECIES
 
 #### Status
 ACCEPTED

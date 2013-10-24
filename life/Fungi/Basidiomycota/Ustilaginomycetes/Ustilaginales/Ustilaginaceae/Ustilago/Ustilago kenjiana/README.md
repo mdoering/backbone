@@ -1,5 +1,4 @@
-Ustilago kenjiana S. Ito SPECIES
-=======
+# Ustilago kenjiana S. Ito SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kazachstania siamensis Limtong, Yongman., Tun, H. Kawas. & Tats. Seki, 2007 SPECIES
-=======
+# Kazachstania siamensis Limtong, Yongman., Tun, H. Kawas. & Tats. Seki, 2007 SPECIES
 
 #### Status
 ACCEPTED

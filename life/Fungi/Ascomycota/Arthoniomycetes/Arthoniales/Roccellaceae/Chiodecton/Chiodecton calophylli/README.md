@@ -1,5 +1,4 @@
-Chiodecton calophylli Vain. SPECIES
-=======
+# Chiodecton calophylli Vain. SPECIES
 
 #### Status
 ACCEPTED

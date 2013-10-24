@@ -1,5 +1,4 @@
-Cercophora aquatica P. Chaudhary, J. Fourn. & A.N. Mill. SPECIES
-=======
+# Cercophora aquatica P. Chaudhary, J. Fourn. & A.N. Mill. SPECIES
 
 #### Status
 ACCEPTED

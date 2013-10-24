@@ -1,5 +1,4 @@
-Microsphaera polonica Siemaszko SPECIES
-=======
+# Microsphaera polonica Siemaszko SPECIES
 
 #### Status
 ACCEPTED

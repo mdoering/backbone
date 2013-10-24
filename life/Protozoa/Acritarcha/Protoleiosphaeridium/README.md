@@ -1,5 +1,4 @@
-Protoleiosphaeridium B.V.Timofeev ex B.V.Timofeev, 1960 GENUS
-=======
+# Protoleiosphaeridium B.V.Timofeev ex B.V.Timofeev, 1960 GENUS
 
 #### Status
 ACCEPTED

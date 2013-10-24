@@ -1,5 +1,4 @@
-Pachysphaeridium irregulare (Yin Leiming, 1994) Ribecai & Tongiorgi, 1999 SPECIES
-=======
+# Pachysphaeridium irregulare (Yin Leiming, 1994) Ribecai & Tongiorgi, 1999 SPECIES
 
 #### Status
 ACCEPTED

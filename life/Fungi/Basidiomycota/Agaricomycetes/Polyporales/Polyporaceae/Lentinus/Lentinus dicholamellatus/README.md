@@ -1,5 +1,4 @@
-Lentinus dicholamellatus Manim. SPECIES
-=======
+# Lentinus dicholamellatus Manim. SPECIES
 
 #### Status
 ACCEPTED

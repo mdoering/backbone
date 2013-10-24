@@ -1,5 +1,4 @@
-Setulipes hakgalensis (Petch) Antonín SPECIES
-=======
+# Setulipes hakgalensis (Petch) Antonín SPECIES
 
 #### Status
 ACCEPTED

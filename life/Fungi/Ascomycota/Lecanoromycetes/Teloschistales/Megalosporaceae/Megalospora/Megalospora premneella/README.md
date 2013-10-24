@@ -1,5 +1,4 @@
-Megalospora premneella (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Megalospora premneella (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

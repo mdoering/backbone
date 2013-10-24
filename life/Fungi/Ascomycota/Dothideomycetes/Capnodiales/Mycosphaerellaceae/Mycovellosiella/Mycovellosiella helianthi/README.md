@@ -1,5 +1,4 @@
-Mycovellosiella helianthi (Ellis & Everh.) U. Braun SPECIES
-=======
+# Mycovellosiella helianthi (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

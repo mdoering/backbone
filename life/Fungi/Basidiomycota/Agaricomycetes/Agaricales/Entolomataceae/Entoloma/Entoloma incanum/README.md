@@ -1,17 +1,16 @@
-Leptonia incana var. polychroa (Berk. & Broome) Sacc. VARIETY
-=======
+# Entoloma incanum (Fr.) Hesler, 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 5: 713 (1887)
+Nova Hedwigia, Beih. 23: 147 (1967)
 
 #### Original name
-Agaricus incanus var. polychrous Berk. & Broome
+Agaricus incanus Fr., 1821
 
 ### Remarks
 null

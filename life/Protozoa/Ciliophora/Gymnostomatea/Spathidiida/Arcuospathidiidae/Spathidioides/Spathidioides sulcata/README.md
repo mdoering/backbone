@@ -1,5 +1,4 @@
-Spathidioides sulcata Brodsky, 1925 SPECIES
-=======
+# Spathidioides sulcata Brodsky, 1925 SPECIES
 
 #### Status
 ACCEPTED

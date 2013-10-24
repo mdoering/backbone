@@ -1,5 +1,4 @@
-Sclerosporaceae M.W. Dick FAMILY
-=======
+# Sclerosporaceae M.W. Dick FAMILY
 
 #### Status
 ACCEPTED

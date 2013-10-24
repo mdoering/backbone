@@ -1,5 +1,4 @@
-Furzidinium Stancliffe, 1991 GENUS
-=======
+# Furzidinium Stancliffe, 1991 GENUS
 
 #### Status
 ACCEPTED

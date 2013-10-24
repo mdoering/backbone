@@ -1,5 +1,4 @@
-Ramalina rubrotincta Krog & Østh. SPECIES
-=======
+# Ramalina rubrotincta Krog & Østh. SPECIES
 
 #### Status
 ACCEPTED

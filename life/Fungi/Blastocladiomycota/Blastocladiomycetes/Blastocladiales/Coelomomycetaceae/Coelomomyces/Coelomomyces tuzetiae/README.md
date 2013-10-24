@@ -1,17 +1,16 @@
-Coelomomyces tuzelae Manier, Rioux, F. Coste & Maurand SPECIES
-=======
+# Coelomomyces tuzetiae Manier, Rioux, F. Coste & Maurand SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls Parasit. hum. comp. 45(1): 126 (1970)
 
 #### Original name
-Coelomomyces tuzelae Manier, Rioux, F. Coste & Maurand
+Coelomomyces tuzetiae Manier, Rioux, F. Coste & Maurand
 
 ### Remarks
 null

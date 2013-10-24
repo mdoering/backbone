@@ -1,5 +1,4 @@
-Heterococcus leptosiroides Pitschmann SPECIES
-=======
+# Heterococcus leptosiroides Pitschmann SPECIES
 
 #### Status
 ACCEPTED

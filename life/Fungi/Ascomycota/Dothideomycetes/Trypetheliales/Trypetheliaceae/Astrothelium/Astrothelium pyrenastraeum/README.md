@@ -1,5 +1,4 @@
-Astrothelium pyrenastraeum Nyl. SPECIES
-=======
+# Astrothelium pyrenastraeum Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiopsis syringae P. Karst. SPECIES
-=======
+# Dothiopsis syringae P. Karst. SPECIES
 
 #### Status
 ACCEPTED

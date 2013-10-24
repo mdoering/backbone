@@ -1,5 +1,4 @@
-Laeticorticium pinsapineum G. Moreno, Manjón & Hjortstam SPECIES
-=======
+# Laeticorticium pinsapineum G. Moreno, Manjón & Hjortstam SPECIES
 
 #### Status
 ACCEPTED

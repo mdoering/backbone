@@ -1,5 +1,4 @@
-Excipularia lignicola P. Karst. & Malbr. SPECIES
-=======
+# Excipularia lignicola P. Karst. & Malbr. SPECIES
 
 #### Status
 ACCEPTED

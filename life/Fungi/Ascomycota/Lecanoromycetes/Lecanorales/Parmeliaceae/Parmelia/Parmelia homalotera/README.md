@@ -1,5 +1,4 @@
-Parmelia homalotera Hue SPECIES
-=======
+# Parmelia homalotera Hue SPECIES
 
 #### Status
 ACCEPTED

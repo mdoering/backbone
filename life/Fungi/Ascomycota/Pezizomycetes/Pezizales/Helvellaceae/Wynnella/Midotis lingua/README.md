@@ -1,5 +1,4 @@
-Midotis lingua Fr. SPECIES
-=======
+# Midotis lingua Fr. SPECIES
 
 #### Status
 ACCEPTED

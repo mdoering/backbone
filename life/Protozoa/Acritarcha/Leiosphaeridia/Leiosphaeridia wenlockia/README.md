@@ -1,5 +1,4 @@
-Leiosphaeridia wenlockia Downie, 1959 SPECIES
-=======
+# Leiosphaeridia wenlockia Downie, 1959 SPECIES
 
 #### Status
 ACCEPTED

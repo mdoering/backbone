@@ -1,5 +1,4 @@
-Synedra baculus Gregory SPECIES
-=======
+# Synedra baculus Gregory SPECIES
 
 #### Status
 ACCEPTED

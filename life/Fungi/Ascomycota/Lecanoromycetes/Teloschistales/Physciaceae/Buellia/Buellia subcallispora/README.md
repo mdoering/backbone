@@ -1,5 +1,4 @@
-Buellia subcallispora H. Magn. SPECIES
-=======
+# Buellia subcallispora H. Magn. SPECIES
 
 #### Status
 ACCEPTED

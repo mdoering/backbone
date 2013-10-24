@@ -1,5 +1,4 @@
-Pleurotus nauseosa-dulcis P. Karst. SPECIES
-=======
+# Pleurotus nauseosa-dulcis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

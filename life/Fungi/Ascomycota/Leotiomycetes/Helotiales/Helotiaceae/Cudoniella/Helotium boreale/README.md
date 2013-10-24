@@ -1,5 +1,4 @@
-Helotium boreale (Linder) Mains SPECIES
-=======
+# Helotium boreale (Linder) Mains SPECIES
 
 #### Status
 ACCEPTED

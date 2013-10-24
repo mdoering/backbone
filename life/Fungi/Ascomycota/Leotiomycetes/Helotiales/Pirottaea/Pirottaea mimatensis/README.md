@@ -1,5 +1,4 @@
-Pirottaea mimatensis Pass. & Roum. SPECIES
-=======
+# Pirottaea mimatensis Pass. & Roum. SPECIES
 
 #### Status
 ACCEPTED

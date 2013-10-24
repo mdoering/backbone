@@ -1,5 +1,4 @@
-Thamnolecania antarctica C.W. Dodge SPECIES
-=======
+# Thamnolecania antarctica C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

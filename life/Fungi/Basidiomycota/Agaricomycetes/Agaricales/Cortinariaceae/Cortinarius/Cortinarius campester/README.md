@@ -1,5 +1,4 @@
-Cortinarius campester Reumaux SPECIES
-=======
+# Cortinarius campester Reumaux SPECIES
 
 #### Status
 ACCEPTED

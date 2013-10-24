@@ -1,5 +1,4 @@
-Amphisphaeria rhizophila Kirschst. SPECIES
-=======
+# Amphisphaeria rhizophila Kirschst. SPECIES
 
 #### Status
 ACCEPTED

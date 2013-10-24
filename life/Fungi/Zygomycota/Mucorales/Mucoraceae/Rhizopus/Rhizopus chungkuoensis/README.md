@@ -1,5 +1,4 @@
-Rhizopus chungkuoensis SPECIES
-=======
+# Rhizopus chungkuoensis SPECIES
 
 #### Status
 ACCEPTED

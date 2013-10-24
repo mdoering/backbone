@@ -1,5 +1,4 @@
-Arthonia hamamelidis Nyl. SPECIES
-=======
+# Arthonia hamamelidis Nyl. SPECIES
 
 #### Status
 ACCEPTED

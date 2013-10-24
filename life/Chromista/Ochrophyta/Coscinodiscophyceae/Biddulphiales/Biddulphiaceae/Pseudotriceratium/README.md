@@ -1,5 +1,4 @@
-Pseudotriceratium Grunow, 1884 GENUS
-=======
+# Pseudotriceratium Grunow, 1884 GENUS
 
 #### Status
 ACCEPTED

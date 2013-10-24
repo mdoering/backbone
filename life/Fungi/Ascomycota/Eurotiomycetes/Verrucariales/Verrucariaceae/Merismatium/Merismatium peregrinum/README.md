@@ -1,5 +1,4 @@
-Merismatium peregrinum (Flot.) Triebel SPECIES
-=======
+# Merismatium peregrinum (Flot.) Triebel SPECIES
 
 #### Status
 ACCEPTED

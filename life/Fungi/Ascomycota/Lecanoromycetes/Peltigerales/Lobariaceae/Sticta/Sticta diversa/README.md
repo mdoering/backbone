@@ -1,17 +1,16 @@
-Sticta weigelii var. microphylla (Kremp.) Zahlbr. VARIETY
-=======
+# Sticta diversa (Stirt.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 3: 406 (1925)
+Cat. Lich. Univers. 3: 379 (1899)
 
 #### Original name
-Sticta quercizans var. microphylla Kremp.
+Sticta diversa (Stirt.) Zahlbr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Entyloma australe Speg., 1880 SPECIES
-=======
+# Entyloma australe Speg., 1880 SPECIES
 
 #### Status
 ACCEPTED

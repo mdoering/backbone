@@ -1,5 +1,4 @@
-Galera tortipes Mont. SPECIES
-=======
+# Galera tortipes Mont. SPECIES
 
 #### Status
 ACCEPTED

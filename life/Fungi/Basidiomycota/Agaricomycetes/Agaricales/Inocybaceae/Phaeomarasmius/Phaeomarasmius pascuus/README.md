@@ -1,5 +1,4 @@
-Phaeomarasmius pascuus Singer SPECIES
-=======
+# Phaeomarasmius pascuus Singer SPECIES
 
 #### Status
 ACCEPTED

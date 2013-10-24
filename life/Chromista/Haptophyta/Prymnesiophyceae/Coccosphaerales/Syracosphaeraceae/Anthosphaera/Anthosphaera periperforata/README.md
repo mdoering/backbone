@@ -1,5 +1,4 @@
-Anthosphaera periperforata A. Kleijne SPECIES
-=======
+# Anthosphaera periperforata A. Kleijne SPECIES
 
 #### Status
 ACCEPTED

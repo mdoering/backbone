@@ -1,5 +1,4 @@
-Crotalia cintractiae-liroi Lehtola SPECIES
-=======
+# Crotalia cintractiae-liroi Lehtola SPECIES
 
 #### Status
 ACCEPTED

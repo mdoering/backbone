@@ -1,5 +1,4 @@
-Parmelia villarsii (Ach.) Spreng. SPECIES
-=======
+# Parmelia villarsii (Ach.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

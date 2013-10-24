@@ -1,5 +1,4 @@
-Sclerophyton extenuatum (Nyl.) Sparrius SPECIES
-=======
+# Sclerophyton extenuatum (Nyl.) Sparrius SPECIES
 
 #### Status
 ACCEPTED

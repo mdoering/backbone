@@ -1,5 +1,4 @@
-Sphaeropezia gallicola Feltgen SPECIES
-=======
+# Sphaeropezia gallicola Feltgen SPECIES
 
 #### Status
 ACCEPTED

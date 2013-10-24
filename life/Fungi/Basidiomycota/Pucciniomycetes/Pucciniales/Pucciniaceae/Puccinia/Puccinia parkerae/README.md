@@ -1,5 +1,4 @@
-Puccinia parkerae Dietel & Holw. SPECIES
-=======
+# Puccinia parkerae Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

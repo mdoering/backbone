@@ -1,5 +1,4 @@
-Clathroporina elliottii (Vain.) Zahlbr. SPECIES
-=======
+# Clathroporina elliottii (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

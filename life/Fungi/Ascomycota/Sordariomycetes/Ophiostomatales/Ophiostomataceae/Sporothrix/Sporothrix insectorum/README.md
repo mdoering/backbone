@@ -1,5 +1,4 @@
-Sporothrix insectorum de Hoog & H.C. Evans, 1974 SPECIES
-=======
+# Sporothrix insectorum de Hoog & H.C. Evans, 1974 SPECIES
 
 #### Status
 ACCEPTED

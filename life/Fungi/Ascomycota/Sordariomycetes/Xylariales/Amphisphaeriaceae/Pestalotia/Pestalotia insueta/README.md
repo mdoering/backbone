@@ -1,5 +1,4 @@
-Pestalotia insueta Petr. SPECIES
-=======
+# Pestalotia insueta Petr. SPECIES
 
 #### Status
 ACCEPTED

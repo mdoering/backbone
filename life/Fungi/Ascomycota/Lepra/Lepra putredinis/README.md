@@ -1,5 +1,4 @@
-Lepra putredinis SPECIES
-=======
+# Lepra putredinis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus petigosus Fr. SPECIES
-=======
+# Agaricus petigosus Fr. SPECIES
 
 #### Status
 ACCEPTED

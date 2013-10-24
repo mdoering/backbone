@@ -1,5 +1,4 @@
-Mucor obducens Sacc. & P. Syd. SPECIES
-=======
+# Mucor obducens Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

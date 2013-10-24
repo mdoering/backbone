@@ -1,5 +1,4 @@
-Physcia picta f. picta FORM
-=======
+# Physcia picta SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Mém. Soc. natn. Sci. nat. math. Cherbourg 3: 175 (1855)
+null
 
 #### Original name
-Physcia picta f. picta
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Byssotheciella Petr. GENUS
-=======
+# Byssotheciella Petr. GENUS
 
 #### Status
 ACCEPTED

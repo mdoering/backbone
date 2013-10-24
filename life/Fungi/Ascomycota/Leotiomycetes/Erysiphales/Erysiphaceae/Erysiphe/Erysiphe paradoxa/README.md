@@ -1,5 +1,4 @@
-Erysiphe paradoxa (Simonyan) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe paradoxa (Simonyan) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

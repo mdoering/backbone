@@ -1,5 +1,4 @@
-Glenodinium caspicum (Ostenfeld) J.Schiller SPECIES
-=======
+# Glenodinium caspicum (Ostenfeld) J.Schiller SPECIES
 
 #### Status
 ACCEPTED

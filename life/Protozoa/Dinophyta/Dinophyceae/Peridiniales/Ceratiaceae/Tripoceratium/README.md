@@ -1,5 +1,4 @@
-Tripoceratium C.A. Kofoid, 1909 GENUS
-=======
+# Tripoceratium C.A. Kofoid, 1909 GENUS
 
 #### Status
 ACCEPTED

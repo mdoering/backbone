@@ -1,5 +1,4 @@
-Iridea clavellosa Suhr SPECIES
-=======
+# Iridea clavellosa Suhr SPECIES
 
 #### Status
 ACCEPTED

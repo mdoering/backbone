@@ -1,5 +1,4 @@
-Decapitatus Redhead & Seifert GENUS
-=======
+# Decapitatus Redhead & Seifert GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenoscyphus sphagnisedus (Velen.) Svrcek SPECIES
-=======
+# Hymenoscyphus sphagnisedus (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

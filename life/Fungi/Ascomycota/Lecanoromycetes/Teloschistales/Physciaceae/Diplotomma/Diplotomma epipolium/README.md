@@ -1,17 +1,16 @@
-Diplotomma epipolium var. ocellatum (A. Massal.) J. Nowak & Tobol. VARIETY
-=======
+# Diplotomma epipolium (Ach.) Arnold SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 52: 262 (1869)
 
 #### Original name
-Diplotomma alboatrum var. ocellatum A. Massal.
+Lichen epipolius Ach.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Biatorina globulosa SPECIES
-=======
+# Biatorina globulosa SPECIES
 
 #### Status
 ACCEPTED

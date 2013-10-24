@@ -1,5 +1,4 @@
-Dothiorella ilicella (Sacc. & Penz.) Petr. & Syd. SPECIES
-=======
+# Dothiorella ilicella (Sacc. & Penz.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

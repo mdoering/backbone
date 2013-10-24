@@ -1,5 +1,4 @@
-Lecidea pseudohandelii Asahina SPECIES
-=======
+# Lecidea pseudohandelii Asahina SPECIES
 
 #### Status
 ACCEPTED

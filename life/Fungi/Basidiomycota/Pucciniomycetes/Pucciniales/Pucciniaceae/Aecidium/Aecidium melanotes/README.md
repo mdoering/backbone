@@ -1,5 +1,4 @@
-Aecidium melanotes Syd. & P. Syd. SPECIES
-=======
+# Aecidium melanotes Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

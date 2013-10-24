@@ -1,5 +1,4 @@
-Lyophyllum investitum Clémençon & A.H. Sm. SPECIES
-=======
+# Lyophyllum investitum Clémençon & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

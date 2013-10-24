@@ -1,17 +1,16 @@
-Veronaea parvispora M.B. Ellis, 1976 SPECIES
-=======
+# Ramichloridium anceps (Sacc. & Ellis) de Hoog, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-More Dematiaceous Hyphomycetes (Kew) 210 (1976)
+Stud. Mycol. 15: 59 (1977)
 
 #### Original name
-Veronaea parvispora M.B. Ellis, 1976
+Sporotrichum anceps Sacc. & Ellis, 1882
 
 ### Remarks
 null

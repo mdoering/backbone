@@ -1,5 +1,4 @@
-Abnormisphaera Tikhomirova, 1986 GENUS
-=======
+# Abnormisphaera Tikhomirova, 1986 GENUS
 
 #### Status
 ACCEPTED

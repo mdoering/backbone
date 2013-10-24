@@ -1,5 +1,4 @@
-Chiodecton leucinum (Nyl.) Zahlbr. SPECIES
-=======
+# Chiodecton leucinum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

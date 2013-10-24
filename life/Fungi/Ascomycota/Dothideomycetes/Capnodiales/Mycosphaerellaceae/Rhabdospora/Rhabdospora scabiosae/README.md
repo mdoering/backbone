@@ -1,5 +1,4 @@
-Rhabdospora scabiosae Fautrey SPECIES
-=======
+# Rhabdospora scabiosae Fautrey SPECIES
 
 #### Status
 ACCEPTED

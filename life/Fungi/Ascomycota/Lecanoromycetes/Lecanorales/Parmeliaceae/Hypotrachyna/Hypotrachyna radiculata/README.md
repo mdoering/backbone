@@ -1,14 +1,13 @@
-Parmelina radiculata (Kurok.) Streimann SPECIES
-=======
+# Hypotrachyna radiculata (Kurok.) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Lichenol. 22: 92 (1986)
+Australasian Lichenology 48: 35 (2001)
 
 #### Original name
 Parmelia radiculata Kurok.

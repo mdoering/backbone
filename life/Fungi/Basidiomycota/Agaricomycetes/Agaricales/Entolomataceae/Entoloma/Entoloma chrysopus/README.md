@@ -1,5 +1,4 @@
-Entoloma chrysopus G.M. Gates & Noordel. SPECIES
-=======
+# Entoloma chrysopus G.M. Gates & Noordel. SPECIES
 
 #### Status
 ACCEPTED

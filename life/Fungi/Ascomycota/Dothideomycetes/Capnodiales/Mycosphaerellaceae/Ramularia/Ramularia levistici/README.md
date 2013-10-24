@@ -1,5 +1,4 @@
-Ramularia levistici (J. Schröt.) Syd. SPECIES
-=======
+# Ramularia levistici (J. Schröt.) Syd. SPECIES
 
 #### Status
 ACCEPTED

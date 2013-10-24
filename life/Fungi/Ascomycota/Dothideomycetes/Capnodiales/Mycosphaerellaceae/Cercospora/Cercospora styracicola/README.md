@@ -1,5 +1,4 @@
-Cercospora styracicola X.J. Liu & Y.L. Guo SPECIES
-=======
+# Cercospora styracicola X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

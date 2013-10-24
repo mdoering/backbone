@@ -1,5 +1,4 @@
-Lachnum rufescens Velen. SPECIES
-=======
+# Lachnum rufescens Velen. SPECIES
 
 #### Status
 ACCEPTED

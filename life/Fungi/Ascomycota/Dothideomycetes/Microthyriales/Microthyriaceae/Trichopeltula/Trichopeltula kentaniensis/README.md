@@ -1,5 +1,4 @@
-Trichopeltula kentaniensis Doidge SPECIES
-=======
+# Trichopeltula kentaniensis Doidge SPECIES
 
 #### Status
 ACCEPTED

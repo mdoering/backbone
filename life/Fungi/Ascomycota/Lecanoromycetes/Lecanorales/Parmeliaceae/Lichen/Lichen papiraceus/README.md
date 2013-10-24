@@ -1,5 +1,4 @@
-Lichen papiraceus Vill. SPECIES
-=======
+# Lichen papiraceus Vill. SPECIES
 
 #### Status
 ACCEPTED

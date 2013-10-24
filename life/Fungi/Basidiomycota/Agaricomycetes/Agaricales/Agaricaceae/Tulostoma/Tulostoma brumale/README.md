@@ -1,17 +1,16 @@
-Tulostoma brumale f. brumale FORM
-=======
+# Tulostoma brumale Pers., 1794 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Neues Mag. Bot. 1: 86 (1794)
 
 #### Original name
-null
+Tulostoma brumale Pers., 1794
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lembosia similis Bres. SPECIES
-=======
+# Lembosia similis Bres. SPECIES
 
 #### Status
 ACCEPTED

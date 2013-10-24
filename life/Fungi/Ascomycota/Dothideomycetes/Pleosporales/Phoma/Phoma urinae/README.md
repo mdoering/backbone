@@ -1,5 +1,4 @@
-Phoma urinae Politis SPECIES
-=======
+# Phoma urinae Politis SPECIES
 
 #### Status
 ACCEPTED

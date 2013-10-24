@@ -1,5 +1,4 @@
-Buedingiisphaeridium mickwitzi (Timofeev, 1959 ex N. Umnova, 1975) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Buedingiisphaeridium mickwitzi (Timofeev, 1959 ex N. Umnova, 1975) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

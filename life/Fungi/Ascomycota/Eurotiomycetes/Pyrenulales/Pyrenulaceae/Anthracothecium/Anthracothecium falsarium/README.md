@@ -1,5 +1,4 @@
-Anthracothecium falsarium Zahlbr. SPECIES
-=======
+# Anthracothecium falsarium Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

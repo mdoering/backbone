@@ -1,5 +1,4 @@
-Phomachora punctulata I. Hino & Katum. SPECIES
-=======
+# Phomachora punctulata I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

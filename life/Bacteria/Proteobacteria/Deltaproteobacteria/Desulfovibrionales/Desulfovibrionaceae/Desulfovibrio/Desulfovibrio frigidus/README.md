@@ -1,5 +1,4 @@
-Desulfovibrio frigidus Vandieken et al., 2006 SPECIES
-=======
+# Desulfovibrio frigidus Vandieken et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

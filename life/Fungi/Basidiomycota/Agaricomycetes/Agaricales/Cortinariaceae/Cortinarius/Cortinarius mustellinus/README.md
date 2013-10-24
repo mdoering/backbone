@@ -1,5 +1,4 @@
-Cortinarius mustellinus E. Horak & M.M. Moser SPECIES
-=======
+# Cortinarius mustellinus E. Horak & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

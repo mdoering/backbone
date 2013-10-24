@@ -1,17 +1,16 @@
-Auricularia goossensii Beeli SPECIES
-=======
+# Auricularia goossensiae Beeli SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. R. Bot. Belg. 58: 206 (1926)
 
 #### Original name
-Auricularia goossensii Beeli
+Auricularia goossensiae Beeli
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Uredo phaji Racib. SPECIES
-=======
+# Uredo phaji Racib. SPECIES
 
 #### Status
 ACCEPTED

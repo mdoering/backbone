@@ -1,5 +1,4 @@
-Rinodina purpurifera Poelt SPECIES
-=======
+# Rinodina purpurifera Poelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stirtonia dubia A. L. Sm. SPECIES
-=======
+# Stirtonia dubia A. L. Sm. SPECIES
 
 #### Status
 ACCEPTED

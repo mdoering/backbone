@@ -1,5 +1,4 @@
-Glugea gasterostei SPECIES
-=======
+# Glugea gasterostei SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penzigia fuscoareolata Rehm SPECIES
-=======
+# Penzigia fuscoareolata Rehm SPECIES
 
 #### Status
 ACCEPTED

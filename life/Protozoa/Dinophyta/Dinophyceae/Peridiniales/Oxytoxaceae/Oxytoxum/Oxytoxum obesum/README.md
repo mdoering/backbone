@@ -1,5 +1,4 @@
-Oxytoxum obesum Rampi SPECIES
-=======
+# Oxytoxum obesum Rampi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphiloma pulvinatum (Hoffm.) Bagl. SPECIES
-=======
+# Amphiloma pulvinatum (Hoffm.) Bagl. SPECIES
 
 #### Status
 ACCEPTED

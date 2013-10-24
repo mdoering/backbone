@@ -1,5 +1,4 @@
-Phyllosticta lucumae Syd. & P. Syd. SPECIES
-=======
+# Phyllosticta lucumae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

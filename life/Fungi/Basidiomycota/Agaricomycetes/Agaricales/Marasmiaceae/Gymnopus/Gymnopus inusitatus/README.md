@@ -1,5 +1,4 @@
-Gymnopus inusitatus (Vila & Llimona) Vila & Llimona SPECIES
-=======
+# Gymnopus inusitatus (Vila & Llimona) Vila & Llimona SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria ascaloniae E.G. Simmons & C.F. Hill, 2007 SPECIES
-=======
+# Alternaria ascaloniae E.G. Simmons & C.F. Hill, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta procenkoi Melnik SPECIES
-=======
+# Ascochyta procenkoi Melnik SPECIES
 
 #### Status
 ACCEPTED

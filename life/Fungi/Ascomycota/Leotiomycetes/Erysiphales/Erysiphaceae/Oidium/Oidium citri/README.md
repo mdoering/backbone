@@ -1,14 +1,13 @@
-Oidium erysiphoides f. citri J.M. Yen, 1967 FORM
-=======
+# Oidium citri (J.M. Yen) U. Braun, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cahiers Pacif. 11: 99 (1967)
+Zentbl. Mikrobiol. 137: 323 (1982)
 
 #### Original name
 Oidium erysiphoides f. citri J.M. Yen, 1967

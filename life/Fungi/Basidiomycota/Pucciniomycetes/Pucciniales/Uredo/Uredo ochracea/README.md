@@ -1,5 +1,4 @@
-Uredo ochracea Dietel SPECIES
-=======
+# Uredo ochracea Dietel SPECIES
 
 #### Status
 ACCEPTED

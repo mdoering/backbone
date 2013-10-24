@@ -1,5 +1,4 @@
-Cercospora liquidambaricola J.M. Yen SPECIES
-=======
+# Cercospora liquidambaricola J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

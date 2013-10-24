@@ -1,5 +1,4 @@
-Pucciniola galii (Dietel) Syd. SPECIES
-=======
+# Pucciniola galii (Dietel) Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rosellinia melioloides (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Rosellinia melioloides (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

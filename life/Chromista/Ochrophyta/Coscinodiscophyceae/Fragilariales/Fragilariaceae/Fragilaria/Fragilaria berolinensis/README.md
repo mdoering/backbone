@@ -1,5 +1,4 @@
-Fragilaria berolinensis (Lemmermann) Lange-Bertalot SPECIES
-=======
+# Fragilaria berolinensis (Lemmermann) Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Niptera ellisii Rehm SPECIES
-=======
+# Niptera ellisii Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Pseudobacterium cylindroides (Rocchi, 1908) Krasil'nikov, 1949 SPECIES
-=======
+# Eubacterium cylindroides (Rocchi, 1908) Holdeman and Moore, 1970 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

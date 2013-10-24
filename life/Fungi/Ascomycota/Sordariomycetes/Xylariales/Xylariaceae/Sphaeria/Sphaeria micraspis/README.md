@@ -1,5 +1,4 @@
-Sphaeria micraspis Berk. SPECIES
-=======
+# Sphaeria micraspis Berk. SPECIES
 
 #### Status
 ACCEPTED

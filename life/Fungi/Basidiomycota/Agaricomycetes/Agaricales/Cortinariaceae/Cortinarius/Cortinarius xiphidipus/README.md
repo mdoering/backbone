@@ -1,5 +1,4 @@
-Cortinarius xiphidipus M.M. Moser & E. Horak, 1975 SPECIES
-=======
+# Cortinarius xiphidipus M.M. Moser & E. Horak, 1975 SPECIES
 
 #### Status
 ACCEPTED

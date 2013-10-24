@@ -1,5 +1,4 @@
-Phyllachora winteri Sacc. & P. Syd., 1899 SPECIES
-=======
+# Phyllachora winteri Sacc. & P. Syd., 1899 SPECIES
 
 #### Status
 DOUBTFUL

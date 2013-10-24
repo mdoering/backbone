@@ -1,17 +1,16 @@
-Xyloma acerinum var. acerinum VARIETY
-=======
+# Rhytisma acerinum (Pers.) Fr., 1819 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+K. svenska Vetensk-Akad. Handl. 104 (1819)
 
 #### Original name
-null
+Xyloma acerinum Pers., 1794
 
 ### Remarks
 null

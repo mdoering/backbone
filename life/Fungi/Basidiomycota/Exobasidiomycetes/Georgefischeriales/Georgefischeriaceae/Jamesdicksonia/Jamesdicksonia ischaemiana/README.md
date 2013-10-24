@@ -1,14 +1,13 @@
-Jamesdicksonia ischaemianum (Thirum. & Pavgi) R. Bauer, Begerow, A. Nagler & Oberw. SPECIES
-=======
+# Jamesdicksonia ischaemiana (Thirum. & Pavgi) R. Bauer, Begerow, A. Nagler & Oberw., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Res. 105(4): 422 (2001)
 
 #### Original name
 Melanotaenium ischaemianum Thirum. & Pavgi, 1968

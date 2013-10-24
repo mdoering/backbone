@@ -1,5 +1,4 @@
-Septoria consimilis Ellis & G. Martin SPECIES
-=======
+# Septoria consimilis Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

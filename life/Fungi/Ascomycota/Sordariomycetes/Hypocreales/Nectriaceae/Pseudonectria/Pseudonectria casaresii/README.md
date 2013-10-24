@@ -1,8 +1,7 @@
-Pseudonectria casaresi (Gonz. Frag.) Racov. SPECIES
-=======
+# Pseudonectria casaresii (Gonz. Frag.) Racov. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

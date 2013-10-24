@@ -1,5 +1,4 @@
-Coriscium japonicum Räsänen SPECIES
-=======
+# Coriscium japonicum Räsänen SPECIES
 
 #### Status
 ACCEPTED

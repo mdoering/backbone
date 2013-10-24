@@ -1,5 +1,4 @@
-Amaricoccus tamworthensis Maszenan et al., 1997 SPECIES
-=======
+# Amaricoccus tamworthensis Maszenan et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

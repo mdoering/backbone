@@ -1,5 +1,4 @@
-Heterosporium fraxini Ferd. & Winge SPECIES
-=======
+# Heterosporium fraxini Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

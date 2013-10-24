@@ -1,5 +1,4 @@
-Uncinula idesiae D.Z. Xie SPECIES
-=======
+# Uncinula idesiae D.Z. Xie SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marssonina fraserae (Ellis & Everh.) Magnus SPECIES
-=======
+# Marssonina fraserae (Ellis & Everh.) Magnus SPECIES
 
 #### Status
 ACCEPTED

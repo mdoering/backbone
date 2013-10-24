@@ -1,5 +1,4 @@
-Stegonsporium golovinii Vasyag. & Nasyrov SPECIES
-=======
+# Stegonsporium golovinii Vasyag. & Nasyrov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Favelloides Colom, 1939 GENUS
-=======
+# Favelloides Colom, 1939 GENUS
 
 #### Status
 ACCEPTED

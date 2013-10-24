@@ -1,5 +1,4 @@
-Puccinia nervincola Lagerh. SPECIES
-=======
+# Puccinia nervincola Lagerh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis echioidis (Brunaud) Gonz. Frag. SPECIES
-=======
+# Phomopsis echioidis (Brunaud) Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

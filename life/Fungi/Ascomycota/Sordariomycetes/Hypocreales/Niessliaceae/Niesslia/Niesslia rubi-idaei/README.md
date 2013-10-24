@@ -1,5 +1,4 @@
-Niesslia rubi-idaei Höhn. SPECIES
-=======
+# Niesslia rubi-idaei Höhn. SPECIES
 
 #### Status
 ACCEPTED

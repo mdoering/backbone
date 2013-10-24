@@ -1,5 +1,4 @@
-Coprinus pulchrifolius Peck SPECIES
-=======
+# Coprinus pulchrifolius Peck SPECIES
 
 #### Status
 ACCEPTED

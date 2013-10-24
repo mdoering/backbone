@@ -1,5 +1,4 @@
-Phaeosaccardinula pipericola Bat. & A.F. Vital SPECIES
-=======
+# Phaeosaccardinula pipericola Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

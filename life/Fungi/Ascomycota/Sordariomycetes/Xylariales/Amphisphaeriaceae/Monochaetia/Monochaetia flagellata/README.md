@@ -1,5 +1,4 @@
-Monochaetia flagellata (Earle) Sacc. SPECIES
-=======
+# Monochaetia flagellata (Earle) Sacc. SPECIES
 
 #### Status
 ACCEPTED

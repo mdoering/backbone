@@ -1,5 +1,4 @@
-Pleospora tessellata Ferd. & Winge SPECIES
-=======
+# Pleospora tessellata Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrea melaleuca Ellis & Everh. SPECIES
-=======
+# Hypocrea melaleuca Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

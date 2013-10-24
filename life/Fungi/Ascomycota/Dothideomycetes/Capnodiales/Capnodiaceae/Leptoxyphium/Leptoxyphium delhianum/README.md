@@ -1,17 +1,16 @@
-Leptoxyphium dehlianum Mukerji SPECIES
-=======
+# Leptoxyphium delhianum Mukerji SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Mukerji, Gupta, Khanna & Rajeevalochana, Biblthca Mycol. 91: 296 (1983)
 
 #### Original name
-Leptoxyphium dehlianum Mukerji
+Podoxyphium indicum K.R. Sharma, Mukerji & Behera
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Monochaetia vernoniae S. Ahmad SPECIES
-=======
+# Monochaetia vernoniae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacillus plakortidis Borchert, Nielsen, Graeber, Kaesler, Szewzyk, Pape, Antranikian & Schafer, 2007 SPECIES
-=======
+# Bacillus plakortidis Borchert, Nielsen, Graeber, Kaesler, Szewzyk, Pape, Antranikian & Schafer, 2007 SPECIES
 
 #### Status
 ACCEPTED

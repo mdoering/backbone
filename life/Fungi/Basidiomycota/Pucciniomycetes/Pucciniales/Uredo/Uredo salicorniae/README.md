@@ -1,5 +1,4 @@
-Uredo salicorniae G. Cunn., 1930 SPECIES
-=======
+# Uredo salicorniae G. Cunn., 1930 SPECIES
 
 #### Status
 ACCEPTED

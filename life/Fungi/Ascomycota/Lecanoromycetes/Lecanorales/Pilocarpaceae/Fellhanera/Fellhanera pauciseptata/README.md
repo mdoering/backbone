@@ -1,5 +1,4 @@
-Fellhanera pauciseptata (R. Sant.) Lücking SPECIES
-=======
+# Fellhanera pauciseptata (R. Sant.) Lücking SPECIES
 
 #### Status
 ACCEPTED

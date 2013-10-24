@@ -1,5 +1,4 @@
-Collema triptophylloides Nyl. SPECIES
-=======
+# Collema triptophylloides Nyl. SPECIES
 
 #### Status
 ACCEPTED

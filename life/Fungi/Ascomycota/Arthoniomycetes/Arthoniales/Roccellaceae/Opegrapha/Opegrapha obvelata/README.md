@@ -1,5 +1,4 @@
-Opegrapha obvelata Vain. SPECIES
-=======
+# Opegrapha obvelata Vain. SPECIES
 
 #### Status
 ACCEPTED

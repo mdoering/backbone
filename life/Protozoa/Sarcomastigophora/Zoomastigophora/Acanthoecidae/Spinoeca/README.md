@@ -1,5 +1,4 @@
-Spinoeca Thomsen, 1995 GENUS
-=======
+# Spinoeca Thomsen, 1995 GENUS
 
 #### Status
 ACCEPTED

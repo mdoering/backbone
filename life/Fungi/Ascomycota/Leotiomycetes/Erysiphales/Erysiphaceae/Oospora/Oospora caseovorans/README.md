@@ -1,5 +1,4 @@
-Oospora caseovorans Burri & W. Staub SPECIES
-=======
+# Oospora caseovorans Burri & W. Staub SPECIES
 
 #### Status
 ACCEPTED

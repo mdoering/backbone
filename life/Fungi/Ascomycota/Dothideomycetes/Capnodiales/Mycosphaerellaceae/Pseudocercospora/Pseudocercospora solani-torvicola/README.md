@@ -1,5 +1,4 @@
-Pseudocercospora solani-torvicola Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora solani-torvicola Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

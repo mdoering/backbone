@@ -1,5 +1,4 @@
-Bipolaris flagelloidea (G.F. Atk.) Shoemaker SPECIES
-=======
+# Bipolaris flagelloidea (G.F. Atk.) Shoemaker SPECIES
 
 #### Status
 ACCEPTED

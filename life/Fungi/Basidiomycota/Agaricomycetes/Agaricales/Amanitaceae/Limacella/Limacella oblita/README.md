@@ -1,5 +1,4 @@
-Limacella oblita (Peck) Murrill SPECIES
-=======
+# Limacella oblita (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

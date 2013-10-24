@@ -1,17 +1,16 @@
-Saprolegnia monoica var. acidamica S. Suzuki VARIETY
-=======
+# Saprolegnia monoica Pringsh., 1858 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Jb. wiss. Bot. 1: 292 (1858)
 
 #### Original name
-Saprolegnia monoica var. acidamica S. Suzuki
+Saprolegnia monoica Pringsh., 1858
 
 ### Remarks
 null

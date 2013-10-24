@@ -1,5 +1,4 @@
-Lecidea arenaria (Pers.) Steud. SPECIES
-=======
+# Lecidea arenaria (Pers.) Steud. SPECIES
 
 #### Status
 ACCEPTED

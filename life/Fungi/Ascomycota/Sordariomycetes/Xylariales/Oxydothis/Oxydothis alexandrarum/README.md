@@ -1,5 +1,4 @@
-Oxydothis alexandrarum K.D. Hyde SPECIES
-=======
+# Oxydothis alexandrarum K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

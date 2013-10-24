@@ -1,5 +1,4 @@
-Ramularia ranunculi-oxyspermi Lobik SPECIES
-=======
+# Ramularia ranunculi-oxyspermi Lobik SPECIES
 
 #### Status
 ACCEPTED

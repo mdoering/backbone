@@ -1,5 +1,4 @@
-Humaria coprogena Sacc. SPECIES
-=======
+# Humaria coprogena Sacc. SPECIES
 
 #### Status
 ACCEPTED

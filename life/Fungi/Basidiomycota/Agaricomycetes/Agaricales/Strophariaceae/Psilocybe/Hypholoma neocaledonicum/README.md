@@ -1,5 +1,4 @@
-Hypholoma neocaledonicum (Guzmán & E. Horak) Guzmán SPECIES
-=======
+# Hypholoma neocaledonicum (Guzmán & E. Horak) Guzmán SPECIES
 
 #### Status
 ACCEPTED

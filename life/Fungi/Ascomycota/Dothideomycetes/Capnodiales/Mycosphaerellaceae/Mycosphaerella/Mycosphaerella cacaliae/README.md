@@ -1,5 +1,4 @@
-Mycosphaerella cacaliae Ziling SPECIES
-=======
+# Mycosphaerella cacaliae Ziling SPECIES
 
 #### Status
 ACCEPTED

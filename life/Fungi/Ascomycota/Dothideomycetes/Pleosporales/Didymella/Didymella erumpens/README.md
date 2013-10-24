@@ -1,5 +1,4 @@
-Didymella erumpens (Cooke) Hansf. SPECIES
-=======
+# Didymella erumpens (Cooke) Hansf. SPECIES
 
 #### Status
 ACCEPTED

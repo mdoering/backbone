@@ -1,5 +1,4 @@
-Hebeloma naufragum Speg. SPECIES
-=======
+# Hebeloma naufragum Speg. SPECIES
 
 #### Status
 ACCEPTED

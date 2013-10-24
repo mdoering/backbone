@@ -1,17 +1,16 @@
-Uredo orchidum Link SPECIES
-=======
+# Pucciniastrum goodyerae (Tranzschel) Arthur, 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Amer. Fl. (New York) 7: 105 (1907)
 
 #### Original name
-null
+Uredo goodyerae Tranzschel, 1893
 
 ### Remarks
 null

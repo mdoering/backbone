@@ -1,5 +1,4 @@
-Ramularia solani Sherb. SPECIES
-=======
+# Ramularia solani Sherb. SPECIES
 
 #### Status
 ACCEPTED

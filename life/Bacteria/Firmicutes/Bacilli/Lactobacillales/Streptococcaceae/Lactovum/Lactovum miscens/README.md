@@ -1,5 +1,4 @@
-Lactovum miscens Matthies et al., 2005 SPECIES
-=======
+# Lactovum miscens Matthies et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

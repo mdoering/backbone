@@ -1,5 +1,4 @@
-Peziza uliginosa Donadini SPECIES
-=======
+# Peziza uliginosa Donadini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea inquilina (Tuck.) Stizenb. SPECIES
-=======
+# Lecidea inquilina (Tuck.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

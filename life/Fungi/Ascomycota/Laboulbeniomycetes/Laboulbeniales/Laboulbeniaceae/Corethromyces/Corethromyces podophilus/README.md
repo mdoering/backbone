@@ -1,5 +1,4 @@
-Corethromyces podophilus Speg. SPECIES
-=======
+# Corethromyces podophilus Speg. SPECIES
 
 #### Status
 ACCEPTED

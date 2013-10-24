@@ -1,5 +1,4 @@
-Pseudocercospora adinicola (A.K. Kar & M. Mandal) Deighton SPECIES
-=======
+# Pseudocercospora adinicola (A.K. Kar & M. Mandal) Deighton SPECIES
 
 #### Status
 ACCEPTED

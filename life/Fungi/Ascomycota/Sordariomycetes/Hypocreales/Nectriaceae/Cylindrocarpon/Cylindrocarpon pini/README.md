@@ -1,5 +1,4 @@
-Cylindrocarpon pini Kizik. SPECIES
-=======
+# Cylindrocarpon pini Kizik. SPECIES
 
 #### Status
 ACCEPTED

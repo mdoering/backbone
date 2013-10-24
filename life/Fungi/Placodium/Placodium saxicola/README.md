@@ -1,17 +1,16 @@
-Placodium saxicola var. saxicola VARIETY
-=======
+# Placodium saxicola SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Lichen saxicola Hoffm.
+null
 
 ### Remarks
 null

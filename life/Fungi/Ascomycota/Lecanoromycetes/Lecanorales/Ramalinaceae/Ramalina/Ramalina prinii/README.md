@@ -1,5 +1,4 @@
-Ramalina prinii B. de Lesd. SPECIES
-=======
+# Ramalina prinii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

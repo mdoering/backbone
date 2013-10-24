@@ -1,5 +1,4 @@
-Eriosporopsis albida Petr., 1947 SPECIES
-=======
+# Eriosporopsis albida Petr., 1947 SPECIES
 
 #### Status
 ACCEPTED

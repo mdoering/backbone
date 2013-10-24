@@ -1,5 +1,4 @@
-Scytonema evanescens Gardner SPECIES
-=======
+# Scytonema evanescens Gardner SPECIES
 
 #### Status
 ACCEPTED

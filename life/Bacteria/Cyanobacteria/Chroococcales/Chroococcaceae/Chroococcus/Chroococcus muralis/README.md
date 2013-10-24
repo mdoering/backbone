@@ -1,5 +1,4 @@
-Chroococcus muralis Gardner SPECIES
-=======
+# Chroococcus muralis Gardner SPECIES
 
 #### Status
 ACCEPTED

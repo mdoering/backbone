@@ -1,14 +1,13 @@
-Poria saxonica Dörfelt, 1974 SPECIES
-=======
+# Amyloporiella saxonica (Dörfelt) Krieglst., 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Veröff. Mus. Naturk. Karl-Marx-Stadt 8: 61 (1974)
+Z. Mykol. 57(1): 36 (1991)
 
 #### Original name
 Poria saxonica Dörfelt, 1974

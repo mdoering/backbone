@@ -1,5 +1,4 @@
-Cercospora vasconcelliae Speg. SPECIES
-=======
+# Cercospora vasconcelliae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plowrightia paradoxa (Duby) Sacc. SPECIES
-=======
+# Plowrightia paradoxa (Duby) Sacc. SPECIES
 
 #### Status
 ACCEPTED

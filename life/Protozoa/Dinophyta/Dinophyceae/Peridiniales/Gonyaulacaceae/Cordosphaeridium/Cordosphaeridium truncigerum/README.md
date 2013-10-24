@@ -1,5 +1,4 @@
-Cordosphaeridium truncigerum (Deflandre, 1937) De Coninck SPECIES
-=======
+# Cordosphaeridium truncigerum (Deflandre, 1937) De Coninck SPECIES
 
 #### Status
 ACCEPTED

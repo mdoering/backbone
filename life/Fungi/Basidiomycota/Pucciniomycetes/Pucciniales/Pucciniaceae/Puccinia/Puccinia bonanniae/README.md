@@ -1,5 +1,4 @@
-Puccinia bonanniae Syd. SPECIES
-=======
+# Puccinia bonanniae Syd. SPECIES
 
 #### Status
 ACCEPTED

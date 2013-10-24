@@ -1,5 +1,4 @@
-Cercoseptoria sesami (Hansf.) Deighton SPECIES
-=======
+# Cercoseptoria sesami (Hansf.) Deighton SPECIES
 
 #### Status
 ACCEPTED

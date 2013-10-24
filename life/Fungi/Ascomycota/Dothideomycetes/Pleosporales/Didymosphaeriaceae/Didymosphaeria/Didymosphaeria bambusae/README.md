@@ -1,5 +1,4 @@
-Didymosphaeria bambusae Rolland SPECIES
-=======
+# Didymosphaeria bambusae Rolland SPECIES
 
 #### Status
 ACCEPTED

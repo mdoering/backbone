@@ -1,5 +1,4 @@
-Entoloma azureoviride E. Horak & Singer SPECIES
-=======
+# Entoloma azureoviride E. Horak & Singer SPECIES
 
 #### Status
 ACCEPTED

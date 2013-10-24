@@ -1,5 +1,4 @@
-Biatora cladoniscum Willey SPECIES
-=======
+# Biatora cladoniscum Willey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia circinata (Pers.) Ach. SPECIES
-=======
+# Parmelia circinata (Pers.) Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ciboria candolleana (Lév.) SPECIES
-=======
+# Ciboria candolleana (Lév.) SPECIES
 
 #### Status
 ACCEPTED

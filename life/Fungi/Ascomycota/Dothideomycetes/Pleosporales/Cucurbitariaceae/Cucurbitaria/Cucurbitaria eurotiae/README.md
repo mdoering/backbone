@@ -1,5 +1,4 @@
-Cucurbitaria eurotiae Kravtzev SPECIES
-=======
+# Cucurbitaria eurotiae Kravtzev SPECIES
 
 #### Status
 ACCEPTED

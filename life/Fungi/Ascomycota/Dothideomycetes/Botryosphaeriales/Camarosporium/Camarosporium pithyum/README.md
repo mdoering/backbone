@@ -1,5 +1,4 @@
-Camarosporium pithyum Sacc., M. Rousseau & E. Bommer SPECIES
-=======
+# Camarosporium pithyum Sacc., M. Rousseau & E. Bommer SPECIES
 
 #### Status
 ACCEPTED

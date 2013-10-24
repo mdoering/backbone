@@ -1,5 +1,4 @@
-Collybia proletaria Dennis SPECIES
-=======
+# Collybia proletaria Dennis SPECIES
 
 #### Status
 ACCEPTED

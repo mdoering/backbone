@@ -1,5 +1,4 @@
-Chaetocalathus carecomoeis (Berk. & M.A. Curtis) Singer SPECIES
-=======
+# Chaetocalathus carecomoeis (Berk. & M.A. Curtis) Singer SPECIES
 
 #### Status
 ACCEPTED

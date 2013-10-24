@@ -1,5 +1,4 @@
-Ascochyta moricola Berl. SPECIES
-=======
+# Ascochyta moricola Berl. SPECIES
 
 #### Status
 ACCEPTED

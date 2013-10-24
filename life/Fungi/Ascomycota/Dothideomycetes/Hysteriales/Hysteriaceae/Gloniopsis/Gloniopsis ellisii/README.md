@@ -1,5 +1,4 @@
-Gloniopsis ellisii Cash SPECIES
-=======
+# Gloniopsis ellisii Cash SPECIES
 
 #### Status
 ACCEPTED

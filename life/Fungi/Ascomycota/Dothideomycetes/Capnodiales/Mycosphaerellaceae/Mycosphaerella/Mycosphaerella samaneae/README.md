@@ -1,5 +1,4 @@
-Mycosphaerella samaneae Chardón SPECIES
-=======
+# Mycosphaerella samaneae Chardón SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Melanelia subaurifera f. subaurifera FORM
-=======
+# Melanelixia subaurifera (Nyl.) O. Blanco, A. Crespo, Divakar, Essl., D. Hawksw. & Lumbsch SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 7(1): 48 (1978)
+null
 
 #### Original name
-Melanelia subaurifera f. subaurifera
+null
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Dasyscypha uncinatus (W. Phillips) Sacc. SPECIES
-=======
+# Dasyscyphus uncinatus (W. Phillips) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 8: 456 (1889)
 
 #### Original name
 Peziza uncinata W. Phillips

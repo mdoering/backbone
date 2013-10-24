@@ -1,5 +1,4 @@
-Meliola longiappressoriata Mibey & P.F. Cannon SPECIES
-=======
+# Meliola longiappressoriata Mibey & P.F. Cannon SPECIES
 
 #### Status
 ACCEPTED

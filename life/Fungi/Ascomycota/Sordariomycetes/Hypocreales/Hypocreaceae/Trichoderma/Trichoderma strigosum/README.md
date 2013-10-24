@@ -1,5 +1,4 @@
-Trichoderma strigosum Bissett, 1992 SPECIES
-=======
+# Trichoderma strigosum Bissett, 1992 SPECIES
 
 #### Status
 ACCEPTED

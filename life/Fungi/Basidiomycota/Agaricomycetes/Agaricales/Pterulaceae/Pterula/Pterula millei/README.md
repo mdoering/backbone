@@ -1,5 +1,4 @@
-Pterula millei Lloyd SPECIES
-=======
+# Pterula millei Lloyd SPECIES
 
 #### Status
 ACCEPTED

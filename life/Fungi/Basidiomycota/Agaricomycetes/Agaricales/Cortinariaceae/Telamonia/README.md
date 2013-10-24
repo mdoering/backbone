@@ -1,5 +1,4 @@
-Telamonia GENUS
-=======
+# Telamonia GENUS
 
 #### Status
 ACCEPTED

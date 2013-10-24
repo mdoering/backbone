@@ -1,5 +1,4 @@
-Ramalina reducta Krog & Swinscow SPECIES
-=======
+# Ramalina reducta Krog & Swinscow SPECIES
 
 #### Status
 ACCEPTED

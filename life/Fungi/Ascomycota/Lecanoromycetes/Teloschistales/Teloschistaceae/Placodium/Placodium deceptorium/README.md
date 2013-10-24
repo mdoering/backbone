@@ -1,5 +1,4 @@
-Placodium deceptorium Flagey SPECIES
-=======
+# Placodium deceptorium Flagey SPECIES
 
 #### Status
 ACCEPTED

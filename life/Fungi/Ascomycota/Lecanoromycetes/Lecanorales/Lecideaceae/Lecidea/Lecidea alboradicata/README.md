@@ -1,5 +1,4 @@
-Lecidea alboradicata B. de Lesd. SPECIES
-=======
+# Lecidea alboradicata B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

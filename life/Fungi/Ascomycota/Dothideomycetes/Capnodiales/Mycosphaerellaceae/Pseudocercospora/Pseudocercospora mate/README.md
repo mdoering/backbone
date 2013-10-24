@@ -1,14 +1,13 @@
-Pseudocercospora mete (Speg.) Y.L. Guo & W.X. Zhao SPECIES
-=======
+# Pseudocercospora mate (Speg.) Y.L. Guo & W.X. Zhao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta Mycol. Sin. 8(2): 118 (1989)
 
 #### Original name
 Cercosporina mate Speg.

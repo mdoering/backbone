@@ -1,5 +1,4 @@
-Stereum scriblitum Berk. & Cooke SPECIES
-=======
+# Stereum scriblitum Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

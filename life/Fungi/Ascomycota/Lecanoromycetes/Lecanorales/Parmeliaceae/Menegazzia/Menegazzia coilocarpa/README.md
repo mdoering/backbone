@@ -1,8 +1,7 @@
-Menegazzia coilocarpi (Vain.) Gyeln. SPECIES
-=======
+# Menegazzia coilocarpa (Vain.) Gyeln. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

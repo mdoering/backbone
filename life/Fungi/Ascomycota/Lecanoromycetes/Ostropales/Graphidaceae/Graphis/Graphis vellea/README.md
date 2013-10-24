@@ -1,5 +1,4 @@
-Graphis vellea (L.) Wallr. SPECIES
-=======
+# Graphis vellea (L.) Wallr. SPECIES
 
 #### Status
 ACCEPTED

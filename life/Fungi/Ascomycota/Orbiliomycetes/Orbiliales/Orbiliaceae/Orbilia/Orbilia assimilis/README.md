@@ -1,5 +1,4 @@
-Orbilia assimilis (Cooke & Peck) Sacc. SPECIES
-=======
+# Orbilia assimilis (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

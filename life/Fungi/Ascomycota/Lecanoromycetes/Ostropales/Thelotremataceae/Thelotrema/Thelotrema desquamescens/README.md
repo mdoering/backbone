@@ -1,5 +1,4 @@
-Thelotrema desquamescens Vain. SPECIES
-=======
+# Thelotrema desquamescens Vain. SPECIES
 
 #### Status
 ACCEPTED

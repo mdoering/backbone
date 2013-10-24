@@ -1,5 +1,4 @@
-Usnea retifera Motyka SPECIES
-=======
+# Usnea retifera Motyka SPECIES
 
 #### Status
 ACCEPTED

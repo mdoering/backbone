@@ -1,5 +1,4 @@
-Agaricus dichromaticus J. Otto SPECIES
-=======
+# Agaricus dichromaticus J. Otto SPECIES
 
 #### Status
 ACCEPTED

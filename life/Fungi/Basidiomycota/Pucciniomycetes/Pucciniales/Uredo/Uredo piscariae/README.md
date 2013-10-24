@@ -1,5 +1,4 @@
-Uredo piscariae (H.S. Jacks.) Cummins SPECIES
-=======
+# Uredo piscariae (H.S. Jacks.) Cummins SPECIES
 
 #### Status
 ACCEPTED

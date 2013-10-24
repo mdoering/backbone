@@ -1,5 +1,4 @@
-Haematomma wattii (Stirt.) Zahlbr. SPECIES
-=======
+# Haematomma wattii (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

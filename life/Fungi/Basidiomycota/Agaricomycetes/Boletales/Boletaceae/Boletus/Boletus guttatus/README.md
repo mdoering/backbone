@@ -1,5 +1,4 @@
-Boletus guttatus Pers. SPECIES
-=======
+# Boletus guttatus Pers. SPECIES
 
 #### Status
 ACCEPTED

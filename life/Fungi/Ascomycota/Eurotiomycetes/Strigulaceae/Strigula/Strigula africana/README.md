@@ -1,5 +1,4 @@
-Strigula africana Vain. SPECIES
-=======
+# Strigula africana Vain. SPECIES
 
 #### Status
 ACCEPTED

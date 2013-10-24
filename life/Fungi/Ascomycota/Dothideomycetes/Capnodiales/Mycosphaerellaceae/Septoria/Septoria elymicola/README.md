@@ -1,5 +1,4 @@
-Septoria elymicola Died. SPECIES
-=======
+# Septoria elymicola Died. SPECIES
 
 #### Status
 ACCEPTED

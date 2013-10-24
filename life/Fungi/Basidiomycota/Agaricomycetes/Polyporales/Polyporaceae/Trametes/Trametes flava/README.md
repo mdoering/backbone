@@ -1,5 +1,4 @@
-Trametes flava (Jungh.) Pat. SPECIES
-=======
+# Trametes flava (Jungh.) Pat. SPECIES
 
 #### Status
 ACCEPTED

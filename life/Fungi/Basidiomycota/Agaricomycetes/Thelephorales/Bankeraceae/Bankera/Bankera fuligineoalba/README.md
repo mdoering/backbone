@@ -1,17 +1,16 @@
-Sarcodon reticulatus Banker, 1906 SPECIES
-=======
+# Bankera fuligineoalba (J.C. Schmidt) Coker & Beers ex Pouzar, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. Torrey bot. Club 12: 139 (1906)
+Ceská Mykol. 9: 96 (1955)
 
 #### Original name
-Sarcodon reticulatus Banker, 1906
+Hydnum fuligineoalbum J.C. Schmidt, 1817
 
 ### Remarks
 null

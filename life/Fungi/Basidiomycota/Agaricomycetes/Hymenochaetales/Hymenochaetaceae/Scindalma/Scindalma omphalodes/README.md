@@ -1,5 +1,4 @@
-Scindalma omphalodes (Berk.) Kuntze SPECIES
-=======
+# Scindalma omphalodes (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

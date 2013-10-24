@@ -1,5 +1,4 @@
-Periconiella phormii M.B. Ellis, 1967 SPECIES
-=======
+# Periconiella phormii M.B. Ellis, 1967 SPECIES
 
 #### Status
 ACCEPTED

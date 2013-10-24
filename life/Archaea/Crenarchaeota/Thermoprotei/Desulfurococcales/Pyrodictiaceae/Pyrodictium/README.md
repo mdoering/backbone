@@ -1,5 +1,4 @@
-Pyrodictium Stetter, Konig & Stackebrandt, 1984 GENUS
-=======
+# Pyrodictium Stetter, Konig & Stackebrandt, 1984 GENUS
 
 #### Status
 ACCEPTED

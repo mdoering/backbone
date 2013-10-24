@@ -1,5 +1,4 @@
-Pleurotus guepiniformis (Berk.) Sacc. SPECIES
-=======
+# Pleurotus guepiniformis (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

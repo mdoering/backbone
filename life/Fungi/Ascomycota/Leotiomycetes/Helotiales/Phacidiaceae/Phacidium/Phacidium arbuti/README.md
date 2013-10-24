@@ -1,5 +1,4 @@
-Phacidium arbuti Cooke & Harkn. SPECIES
-=======
+# Phacidium arbuti Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microcystis thermalis Yoneda SPECIES
-=======
+# Microcystis thermalis Yoneda SPECIES
 
 #### Status
 ACCEPTED

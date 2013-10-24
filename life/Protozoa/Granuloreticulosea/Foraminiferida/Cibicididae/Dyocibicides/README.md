@@ -1,5 +1,4 @@
-Dyocibicides Cushman & Valentine, 1930 GENUS
-=======
+# Dyocibicides Cushman & Valentine, 1930 GENUS
 
 #### Status
 ACCEPTED

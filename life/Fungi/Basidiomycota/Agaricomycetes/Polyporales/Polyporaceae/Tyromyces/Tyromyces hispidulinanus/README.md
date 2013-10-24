@@ -1,5 +1,4 @@
-Tyromyces hispidulinanus Corner, 1989 SPECIES
-=======
+# Tyromyces hispidulinanus Corner, 1989 SPECIES
 
 #### Status
 ACCEPTED

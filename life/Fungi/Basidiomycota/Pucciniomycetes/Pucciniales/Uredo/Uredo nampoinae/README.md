@@ -1,5 +1,4 @@
-Uredo nampoinae Bouriquet & Bassino SPECIES
-=======
+# Uredo nampoinae Bouriquet & Bassino SPECIES
 
 #### Status
 ACCEPTED

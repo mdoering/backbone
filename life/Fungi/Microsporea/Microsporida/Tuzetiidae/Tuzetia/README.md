@@ -1,5 +1,4 @@
-Tuzetia Maurand, Fize, Fenwick & Michel GENUS
-=======
+# Tuzetia Maurand, Fize, Fenwick & Michel GENUS
 
 #### Status
 ACCEPTED

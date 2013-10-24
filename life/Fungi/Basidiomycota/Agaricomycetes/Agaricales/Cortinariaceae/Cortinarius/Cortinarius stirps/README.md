@@ -1,5 +1,4 @@
-Cortinarius stirps Xanthophyllus Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius stirps Xanthophyllus Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Drepanopeziza variabilis E. Müll., Hütter & Schüepp SPECIES
-=======
+# Drepanopeziza variabilis E. Müll., Hütter & Schüepp SPECIES
 
 #### Status
 ACCEPTED

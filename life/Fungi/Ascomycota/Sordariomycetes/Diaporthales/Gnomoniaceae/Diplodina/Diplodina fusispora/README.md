@@ -1,5 +1,4 @@
-Diplodina fusispora Peck SPECIES
-=======
+# Diplodina fusispora Peck SPECIES
 
 #### Status
 ACCEPTED

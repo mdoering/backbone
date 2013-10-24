@@ -1,5 +1,4 @@
-Agaricus lignyodes Berk. & Broome SPECIES
-=======
+# Agaricus lignyodes Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

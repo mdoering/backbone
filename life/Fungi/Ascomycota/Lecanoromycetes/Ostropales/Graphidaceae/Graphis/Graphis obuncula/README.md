@@ -1,5 +1,4 @@
-Graphis obuncula Kremp. SPECIES
-=======
+# Graphis obuncula Kremp. SPECIES
 
 #### Status
 ACCEPTED

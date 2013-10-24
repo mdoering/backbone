@@ -1,5 +1,4 @@
-Psathyra squamosa (P. Karst.) P. Karst. SPECIES
-=======
+# Psathyra squamosa (P. Karst.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

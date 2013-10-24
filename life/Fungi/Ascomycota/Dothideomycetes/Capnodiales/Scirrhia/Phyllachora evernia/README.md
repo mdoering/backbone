@@ -1,5 +1,4 @@
-Phyllachora evernia Syd., 1931 SPECIES
-=======
+# Phyllachora evernia Syd., 1931 SPECIES
 
 #### Status
 DOUBTFUL

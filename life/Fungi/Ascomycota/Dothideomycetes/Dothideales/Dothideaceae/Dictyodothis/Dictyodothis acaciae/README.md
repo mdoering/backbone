@@ -1,5 +1,4 @@
-Dictyodothis acaciae Tilak, S.B. Kale & S.V.S. Kale SPECIES
-=======
+# Dictyodothis acaciae Tilak, S.B. Kale & S.V.S. Kale SPECIES
 
 #### Status
 ACCEPTED

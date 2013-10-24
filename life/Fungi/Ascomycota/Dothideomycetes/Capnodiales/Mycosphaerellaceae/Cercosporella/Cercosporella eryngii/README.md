@@ -1,5 +1,4 @@
-Cercosporella eryngii Vasyag. & Pisareva SPECIES
-=======
+# Cercosporella eryngii Vasyag. & Pisareva SPECIES
 
 #### Status
 ACCEPTED

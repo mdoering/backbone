@@ -1,5 +1,4 @@
-Uromyces capensis Doidge SPECIES
-=======
+# Uromyces capensis Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lamproderma spinulosporum Mar.Mey., Nowotny & Poulain, 1994 SPECIES
-=======
+# Lamproderma spinulosporum Mar.Mey., Nowotny & Poulain, 1994 SPECIES
 
 #### Status
 ACCEPTED

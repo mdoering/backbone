@@ -1,5 +1,4 @@
-Phyllachora nectandricola Speg., 1909 SPECIES
-=======
+# Phyllachora nectandricola Speg., 1909 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypochnus eylesii Van der Byl SPECIES
-=======
+# Hypochnus eylesii Van der Byl SPECIES
 
 #### Status
 ACCEPTED

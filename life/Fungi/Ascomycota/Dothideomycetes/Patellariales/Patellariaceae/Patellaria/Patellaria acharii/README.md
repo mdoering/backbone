@@ -1,5 +1,4 @@
-Patellaria acharii Balb. SPECIES
-=======
+# Patellaria acharii Balb. SPECIES
 
 #### Status
 ACCEPTED

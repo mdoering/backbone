@@ -1,5 +1,4 @@
-Hydnum serpens Lasch SPECIES
-=======
+# Hydnum serpens Lasch SPECIES
 
 #### Status
 ACCEPTED

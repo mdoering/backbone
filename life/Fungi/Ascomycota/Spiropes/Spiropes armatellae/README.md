@@ -1,5 +1,4 @@
-Spiropes armatellae M.B. Ellis SPECIES
-=======
+# Spiropes armatellae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

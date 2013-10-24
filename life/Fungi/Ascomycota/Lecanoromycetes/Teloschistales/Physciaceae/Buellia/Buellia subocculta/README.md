@@ -1,5 +1,4 @@
-Buellia subocculta SPECIES
-=======
+# Buellia subocculta SPECIES
 
 #### Status
 ACCEPTED

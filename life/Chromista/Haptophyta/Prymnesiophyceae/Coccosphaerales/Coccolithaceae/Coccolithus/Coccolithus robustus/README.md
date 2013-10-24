@@ -1,5 +1,4 @@
-Coccolithus robustus (M.N. Bramlette & F.R. Sullivan) F.H. Wind & S.W. Wise SPECIES
-=======
+# Coccolithus robustus (M.N. Bramlette & F.R. Sullivan) F.H. Wind & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

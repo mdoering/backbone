@@ -1,5 +1,4 @@
-Gymnodinium ravenescens Kofoid & Swezy, 1921 SPECIES
-=======
+# Gymnodinium ravenescens Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

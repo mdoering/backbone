@@ -1,5 +1,4 @@
-Scolecopeltella portoricensis Speg. SPECIES
-=======
+# Scolecopeltella portoricensis Speg. SPECIES
 
 #### Status
 ACCEPTED

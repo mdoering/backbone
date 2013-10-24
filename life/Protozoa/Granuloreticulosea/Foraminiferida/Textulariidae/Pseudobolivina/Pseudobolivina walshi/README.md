@@ -1,5 +1,4 @@
-Pseudobolivina walshi SPECIES
-=======
+# Pseudobolivina walshi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paracapsa siderophila Naumann SPECIES
-=======
+# Paracapsa siderophila Naumann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia asteris-alpini P. Syd. & Syd. SPECIES
-=======
+# Puccinia asteris-alpini P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

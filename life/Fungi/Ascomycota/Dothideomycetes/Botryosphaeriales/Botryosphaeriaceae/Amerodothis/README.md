@@ -1,5 +1,4 @@
-Amerodothis GENUS
-=======
+# Amerodothis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea elmeri Herre SPECIES
-=======
+# Usnea elmeri Herre SPECIES
 
 #### Status
 ACCEPTED

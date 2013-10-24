@@ -1,5 +1,4 @@
-Scoliciosporum tenax Kremp. SPECIES
-=======
+# Scoliciosporum tenax Kremp. SPECIES
 
 #### Status
 ACCEPTED

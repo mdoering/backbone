@@ -1,17 +1,16 @@
-Cercospora asparagicola (Speg.) Vassiljevsky, 1937 SPECIES
-=======
+# Cercospora asparagi Sacc., 1877 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi Imperfecti Parasitici (Hyphomycetes) 296 (1937)
+Michelia 1(no. 1): 88 (1877)
 
 #### Original name
-Cercosporina asparagicola Speg., 1910
+Cercospora asparagi Sacc., 1877
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Stagonospora subchlorinoflavida R. Sprague & Rogerson SPECIES
-=======
+# Stagonospora subchlorinoflavida R. Sprague & Rogerson SPECIES
 
 #### Status
 ACCEPTED

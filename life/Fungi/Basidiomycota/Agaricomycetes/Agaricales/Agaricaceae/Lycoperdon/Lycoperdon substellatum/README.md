@@ -1,5 +1,4 @@
-Lycoperdon substellatum Berk. & M.A. Curtis SPECIES
-=======
+# Lycoperdon substellatum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

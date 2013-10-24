@@ -1,5 +1,4 @@
-Flagellospora leucorhynchos Marvanová SPECIES
-=======
+# Flagellospora leucorhynchos Marvanová SPECIES
 
 #### Status
 ACCEPTED

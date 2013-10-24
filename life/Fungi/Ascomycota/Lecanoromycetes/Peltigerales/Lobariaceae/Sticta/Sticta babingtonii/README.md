@@ -1,5 +1,4 @@
-Sticta babingtonii D. J. Galloway SPECIES
-=======
+# Sticta babingtonii D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia coniceps (Murrill) Murrill SPECIES
-=======
+# Collybia coniceps (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

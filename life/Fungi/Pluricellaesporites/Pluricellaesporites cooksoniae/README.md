@@ -1,5 +1,4 @@
-Pluricellaesporites cooksoniae (Cookson & Eisenack) Kalgutkar & Janson. SPECIES
-=======
+# Pluricellaesporites cooksoniae (Cookson & Eisenack) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

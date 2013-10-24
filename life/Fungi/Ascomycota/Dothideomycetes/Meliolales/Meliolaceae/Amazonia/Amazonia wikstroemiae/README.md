@@ -1,5 +1,4 @@
-Amazonia wikstroemiae Hansf. SPECIES
-=======
+# Amazonia wikstroemiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

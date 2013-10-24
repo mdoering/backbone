@@ -1,5 +1,4 @@
-Leptosphaeria larvalis Sacc. SPECIES
-=======
+# Leptosphaeria larvalis Sacc. SPECIES
 
 #### Status
 ACCEPTED

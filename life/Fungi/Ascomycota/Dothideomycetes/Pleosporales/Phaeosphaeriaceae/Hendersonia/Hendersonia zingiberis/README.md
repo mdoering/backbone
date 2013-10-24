@@ -1,5 +1,4 @@
-Hendersonia zingiberis Sawada SPECIES
-=======
+# Hendersonia zingiberis Sawada SPECIES
 
 #### Status
 ACCEPTED

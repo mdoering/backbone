@@ -1,5 +1,4 @@
-Cystoderma kuehneri Singer SPECIES
-=======
+# Cystoderma kuehneri Singer SPECIES
 
 #### Status
 ACCEPTED

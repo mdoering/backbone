@@ -1,5 +1,4 @@
-Microsporum flavescens Horta SPECIES
-=======
+# Microsporum flavescens Horta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea immarginata R. Br. ex Cromb. SPECIES
-=======
+# Lecidea immarginata R. Br. ex Cromb. SPECIES
 
 #### Status
 ACCEPTED

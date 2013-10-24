@@ -1,5 +1,4 @@
-Phanerochaete sulphurosa (Bres.) Hjortstam & K.H. Larss. SPECIES
-=======
+# Phanerochaete sulphurosa (Bres.) Hjortstam & K.H. Larss. SPECIES
 
 #### Status
 ACCEPTED

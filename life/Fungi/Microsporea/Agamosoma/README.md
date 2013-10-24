@@ -1,5 +1,4 @@
-Agamosoma GENUS
-=======
+# Agamosoma GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Colletotrichum sinuatosetiferum Matsush. SPECIES
-=======
+# Colletotrichum sinuatisetiferum Matsush. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Matsush. Mycol. Mem. 9: 6 (1996)
 
 #### Original name
-Colletotrichum sinuatosetiferum Matsush.
+Colletotrichum sinuatisetiferum Matsush.
 
 ### Remarks
 null

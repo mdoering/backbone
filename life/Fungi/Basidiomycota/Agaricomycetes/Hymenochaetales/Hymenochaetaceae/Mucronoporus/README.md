@@ -1,5 +1,4 @@
-Mucronoporus GENUS
-=======
+# Mucronoporus GENUS
 
 #### Status
 ACCEPTED

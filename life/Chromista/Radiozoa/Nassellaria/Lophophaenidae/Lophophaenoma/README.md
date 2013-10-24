@@ -1,5 +1,4 @@
-Lophophaenoma Haeckel, 1887 GENUS
-=======
+# Lophophaenoma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

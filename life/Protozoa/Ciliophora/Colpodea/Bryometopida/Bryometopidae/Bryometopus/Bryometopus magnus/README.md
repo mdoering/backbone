@@ -1,5 +1,4 @@
-Bryometopus magnus (Foissner, 1980) Foissner, 1993 SPECIES
-=======
+# Bryometopus magnus (Foissner, 1980) Foissner, 1993 SPECIES
 
 #### Status
 ACCEPTED

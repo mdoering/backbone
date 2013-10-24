@@ -1,5 +1,4 @@
-Versiomyces Whalley & Watling GENUS
-=======
+# Versiomyces Whalley & Watling GENUS
 
 #### Status
 ACCEPTED

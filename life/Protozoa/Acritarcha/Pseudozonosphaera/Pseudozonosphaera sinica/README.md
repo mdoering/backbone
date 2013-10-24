@@ -1,5 +1,4 @@
-Pseudozonosphaera sinica Xing Yusheng & Liu Kuizhih, 1973 SPECIES
-=======
+# Pseudozonosphaera sinica Xing Yusheng & Liu Kuizhih, 1973 SPECIES
 
 #### Status
 ACCEPTED

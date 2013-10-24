@@ -1,5 +1,4 @@
-Synchytrium caricis Golovin SPECIES
-=======
+# Synchytrium caricis Golovin SPECIES
 
 #### Status
 ACCEPTED

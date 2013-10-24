@@ -1,5 +1,4 @@
-Collybia dehiscens (Kalchbr.) Sacc. SPECIES
-=======
+# Collybia dehiscens (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

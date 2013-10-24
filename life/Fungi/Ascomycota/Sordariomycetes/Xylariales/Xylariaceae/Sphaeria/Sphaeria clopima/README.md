@@ -1,5 +1,4 @@
-Sphaeria clopima Fr. SPECIES
-=======
+# Sphaeria clopima Fr. SPECIES
 
 #### Status
 ACCEPTED

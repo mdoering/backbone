@@ -1,5 +1,4 @@
-Didymopeltis pini Bat. SPECIES
-=======
+# Didymopeltis pini Bat. SPECIES
 
 #### Status
 ACCEPTED

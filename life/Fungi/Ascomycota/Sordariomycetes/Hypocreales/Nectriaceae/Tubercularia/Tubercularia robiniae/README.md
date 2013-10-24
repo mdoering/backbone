@@ -1,5 +1,4 @@
-Tubercularia robiniae J. Kickx f. SPECIES
-=======
+# Tubercularia robiniae J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED

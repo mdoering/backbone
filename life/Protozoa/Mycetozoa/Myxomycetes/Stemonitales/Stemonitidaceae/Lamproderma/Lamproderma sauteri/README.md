@@ -1,17 +1,16 @@
-Lamproderma sauteri var. piriformis Meyl. VARIETY
-=======
+# Lamproderma sauteri Rostaf., 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. Vaud. Sci. Nat. 56: 71 (1925)
+Sluzowce monogr. (Paryz) 205 (1875)
 
 #### Original name
-Lamproderma sauteri var. piriformis Meyl.
+Lamproderma sauteri Rostaf., 1874
 
 ### Remarks
 null

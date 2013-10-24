@@ -1,5 +1,4 @@
-Patellina bicolor P. Karst. SPECIES
-=======
+# Patellina bicolor P. Karst. SPECIES
 
 #### Status
 ACCEPTED

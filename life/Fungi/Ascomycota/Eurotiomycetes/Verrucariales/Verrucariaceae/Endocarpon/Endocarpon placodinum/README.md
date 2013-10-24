@@ -1,5 +1,4 @@
-Endocarpon placodinum Malme SPECIES
-=======
+# Endocarpon placodinum Malme SPECIES
 
 #### Status
 ACCEPTED

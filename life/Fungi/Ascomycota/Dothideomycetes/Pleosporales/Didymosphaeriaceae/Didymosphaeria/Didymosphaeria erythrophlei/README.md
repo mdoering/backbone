@@ -1,5 +1,4 @@
-Didymosphaeria erythrophlei Tassi SPECIES
-=======
+# Didymosphaeria erythrophlei Tassi SPECIES
 
 #### Status
 ACCEPTED

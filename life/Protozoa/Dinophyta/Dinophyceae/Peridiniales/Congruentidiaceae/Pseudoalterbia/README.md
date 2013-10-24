@@ -1,5 +1,4 @@
-Pseudoalterbia S.-Z. Mao & G. Norris, 1988 GENUS
-=======
+# Pseudoalterbia S.-Z. Mao & G. Norris, 1988 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereum venosulum Henn. SPECIES
-=======
+# Stereum venosulum Henn. SPECIES
 
 #### Status
 ACCEPTED

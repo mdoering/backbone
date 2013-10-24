@@ -1,5 +1,4 @@
-Opegrapha rosea SPECIES
-=======
+# Opegrapha rosea SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Microdiplodia obiones Grove, 1937 SPECIES
-=======
+# Diplodia obiones (Grove) Zambett., 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 70: 263 (1955)
 
 #### Original name
-null
+Microdiplodia obiones Grove, 1937
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Badhamia crassipella K.D. Whitney & H.W. Keller, 1982 SPECIES
-=======
+# Badhamia crassipella K.D. Whitney & H.W. Keller, 1982 SPECIES
 
 #### Status
 ACCEPTED

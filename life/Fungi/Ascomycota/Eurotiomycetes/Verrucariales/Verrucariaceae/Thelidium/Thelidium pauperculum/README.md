@@ -1,5 +1,4 @@
-Thelidium pauperculum Müll. Arg. SPECIES
-=======
+# Thelidium pauperculum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

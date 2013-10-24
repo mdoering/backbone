@@ -1,5 +1,4 @@
-Toxellium Haeckel, 1887 GENUS
-=======
+# Toxellium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

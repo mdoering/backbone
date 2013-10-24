@@ -1,5 +1,4 @@
-Sphaeria iridicola Schwein. SPECIES
-=======
+# Sphaeria iridicola Schwein. SPECIES
 
 #### Status
 ACCEPTED

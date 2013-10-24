@@ -1,5 +1,4 @@
-Sphacelaria bertiana De Notaris SPECIES
-=======
+# Sphacelaria bertiana De Notaris SPECIES
 
 #### Status
 ACCEPTED

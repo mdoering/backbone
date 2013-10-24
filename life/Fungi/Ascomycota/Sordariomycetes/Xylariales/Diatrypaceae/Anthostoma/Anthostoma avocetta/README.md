@@ -1,5 +1,4 @@
-Anthostoma avocetta (Cooke & Ellis) Arx & E. Müll. SPECIES
-=======
+# Anthostoma avocetta (Cooke & Ellis) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

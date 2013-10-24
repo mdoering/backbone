@@ -1,5 +1,4 @@
-Heptaster regnellianae Bat. SPECIES
-=======
+# Heptaster regnellianae Bat. SPECIES
 
 #### Status
 ACCEPTED

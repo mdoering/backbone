@@ -1,5 +1,4 @@
-Coniocybe luteum Asahina SPECIES
-=======
+# Coniocybe luteum Asahina SPECIES
 
 #### Status
 ACCEPTED

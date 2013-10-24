@@ -1,5 +1,4 @@
-Lecanora minuta (Rabenh.) Motyka SPECIES
-=======
+# Lecanora minuta (Rabenh.) Motyka SPECIES
 
 #### Status
 ACCEPTED

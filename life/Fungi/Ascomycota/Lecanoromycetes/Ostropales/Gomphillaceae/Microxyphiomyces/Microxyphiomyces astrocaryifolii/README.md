@@ -1,5 +1,4 @@
-Microxyphiomyces astrocaryifolii Bat., J.L. Bezerra & Cavalc. SPECIES
-=======
+# Microxyphiomyces astrocaryifolii Bat., J.L. Bezerra & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

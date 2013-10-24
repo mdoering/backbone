@@ -1,5 +1,4 @@
-Septoria jujubae Traverso & Spessa SPECIES
-=======
+# Septoria jujubae Traverso & Spessa SPECIES
 
 #### Status
 ACCEPTED

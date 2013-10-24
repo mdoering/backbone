@@ -1,5 +1,4 @@
-Mycena nivalis Grgur. SPECIES
-=======
+# Mycena nivalis Grgur. SPECIES
 
 #### Status
 ACCEPTED

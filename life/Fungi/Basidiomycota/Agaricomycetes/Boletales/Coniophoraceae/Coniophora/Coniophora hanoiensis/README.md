@@ -1,5 +1,4 @@
-Coniophora hanoiensis Pat., 1907 SPECIES
-=======
+# Coniophora hanoiensis Pat., 1907 SPECIES
 
 #### Status
 ACCEPTED

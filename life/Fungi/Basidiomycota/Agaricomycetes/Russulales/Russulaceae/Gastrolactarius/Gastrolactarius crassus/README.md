@@ -1,5 +1,4 @@
-Gastrolactarius crassus (Singer & A.H. Sm.) J.M. Vidal SPECIES
-=======
+# Gastrolactarius crassus (Singer & A.H. Sm.) J.M. Vidal SPECIES
 
 #### Status
 ACCEPTED

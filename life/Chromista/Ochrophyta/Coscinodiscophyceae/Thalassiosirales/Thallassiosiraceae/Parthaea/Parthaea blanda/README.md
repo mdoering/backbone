@@ -1,5 +1,4 @@
-Parthaea blanda (A. Schmidt) S. Gowthaman SPECIES
-=======
+# Parthaea blanda (A. Schmidt) S. Gowthaman SPECIES
 
 #### Status
 ACCEPTED

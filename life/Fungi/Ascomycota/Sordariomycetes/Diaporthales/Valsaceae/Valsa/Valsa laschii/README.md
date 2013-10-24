@@ -1,5 +1,4 @@
-Valsa laschii Nitschke SPECIES
-=======
+# Valsa laschii Nitschke SPECIES
 
 #### Status
 ACCEPTED

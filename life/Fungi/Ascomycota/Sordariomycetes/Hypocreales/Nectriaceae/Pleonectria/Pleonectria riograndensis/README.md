@@ -1,5 +1,4 @@
-Pleonectria riograndensis Theiss. SPECIES
-=======
+# Pleonectria riograndensis Theiss. SPECIES
 
 #### Status
 ACCEPTED

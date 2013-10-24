@@ -1,14 +1,13 @@
-Goniopila monticola (Dyko) Marvanová & Descals, 1985 SPECIES
-=======
+# Margaritispora monticola Dyko, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 91(1-2): 16 (1985)
+Trans. Br. mycol. Soc. 70(3): 413 (1978)
 
 #### Original name
 Margaritispora monticola Dyko, 1978

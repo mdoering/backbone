@@ -1,5 +1,4 @@
-Pterula fusispora Yasuda SPECIES
-=======
+# Pterula fusispora Yasuda SPECIES
 
 #### Status
 ACCEPTED

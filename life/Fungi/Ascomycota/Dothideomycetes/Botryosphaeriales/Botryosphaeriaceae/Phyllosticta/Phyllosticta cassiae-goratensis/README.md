@@ -1,5 +1,4 @@
-Phyllosticta cassiae-goratensis Canonaco SPECIES
-=======
+# Phyllosticta cassiae-goratensis Canonaco SPECIES
 
 #### Status
 ACCEPTED

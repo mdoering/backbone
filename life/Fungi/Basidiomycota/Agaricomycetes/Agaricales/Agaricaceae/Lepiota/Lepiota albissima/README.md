@@ -1,5 +1,4 @@
-Lepiota albissima (Murrill) Murrill SPECIES
-=======
+# Lepiota albissima (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

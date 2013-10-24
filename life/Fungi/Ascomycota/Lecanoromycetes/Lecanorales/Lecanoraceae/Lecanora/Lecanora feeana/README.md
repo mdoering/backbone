@@ -1,5 +1,4 @@
-Lecanora feeana Müll. Arg. SPECIES
-=======
+# Lecanora feeana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

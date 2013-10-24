@@ -1,5 +1,4 @@
-Bisporella strumosa (Ellis & Everh.) Korf SPECIES
-=======
+# Bisporella strumosa (Ellis & Everh.) Korf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta corylina Ellis SPECIES
-=======
+# Phyllosticta corylina Ellis SPECIES
 
 #### Status
 ACCEPTED

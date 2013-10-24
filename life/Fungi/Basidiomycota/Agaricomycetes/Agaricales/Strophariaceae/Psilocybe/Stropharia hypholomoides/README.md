@@ -1,5 +1,4 @@
-Stropharia hypholomoides Henn. SPECIES
-=======
+# Stropharia hypholomoides Henn. SPECIES
 
 #### Status
 ACCEPTED

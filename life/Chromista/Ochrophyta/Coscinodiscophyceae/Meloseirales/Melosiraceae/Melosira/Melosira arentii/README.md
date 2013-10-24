@@ -1,5 +1,4 @@
-Melosira arentii (Kolbe) Nagumo & Kobayashi SPECIES
-=======
+# Melosira arentii (Kolbe) Nagumo & Kobayashi SPECIES
 
 #### Status
 ACCEPTED

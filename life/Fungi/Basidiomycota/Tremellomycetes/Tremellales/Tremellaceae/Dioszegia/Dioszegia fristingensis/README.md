@@ -1,5 +1,4 @@
-Dioszegia fristingensis Á. Fonseca, J. Inácio & J.P. Samp. SPECIES
-=======
+# Dioszegia fristingensis Á. Fonseca, J. Inácio & J.P. Samp. SPECIES
 
 #### Status
 ACCEPTED

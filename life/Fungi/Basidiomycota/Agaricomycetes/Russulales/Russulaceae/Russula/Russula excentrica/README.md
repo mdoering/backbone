@@ -1,5 +1,4 @@
-Russula excentrica Velen. SPECIES
-=======
+# Russula excentrica Velen. SPECIES
 
 #### Status
 ACCEPTED

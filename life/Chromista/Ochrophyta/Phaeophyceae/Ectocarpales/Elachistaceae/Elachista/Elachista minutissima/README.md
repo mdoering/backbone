@@ -1,5 +1,4 @@
-Elachista minutissima W.R. Taylor SPECIES
-=======
+# Elachista minutissima W.R. Taylor SPECIES
 
 #### Status
 ACCEPTED

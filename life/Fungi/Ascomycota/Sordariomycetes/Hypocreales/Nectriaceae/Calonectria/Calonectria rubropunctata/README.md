@@ -1,5 +1,4 @@
-Calonectria rubropunctata Rehm SPECIES
-=======
+# Calonectria rubropunctata Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Dendrocometides priscus Swarczewsky, 1928 SPECIES
-=======
+# Dendrocometes priscus (Swarczewsky, 1928) Dovgal, 263 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

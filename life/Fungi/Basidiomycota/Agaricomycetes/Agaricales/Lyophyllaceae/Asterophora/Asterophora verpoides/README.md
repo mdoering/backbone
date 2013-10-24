@@ -1,14 +1,13 @@
-Asterophora verpodes (Fr.) Kuntze SPECIES
-=======
+# Asterophora verpoides (Fr.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 445 (1898)
 
 #### Original name
 Nyctalis verpoides Fr.

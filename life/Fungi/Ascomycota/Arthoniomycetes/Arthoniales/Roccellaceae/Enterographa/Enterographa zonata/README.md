@@ -1,17 +1,16 @@
-Opegrapha horistica var. horistica (Leight.) Stein VARIETY
-=======
+# Enterographa zonata (Körb.) Källsten SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 32: 198 (1989)
 
 #### Original name
-Opegrapha horistica var. horistica (Leight.) Stein
+Opegrapha zonata Körb.
 
 ### Remarks
 null

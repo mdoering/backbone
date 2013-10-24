@@ -1,5 +1,4 @@
-Irene anisomera Syd. SPECIES
-=======
+# Irene anisomera Syd. SPECIES
 
 #### Status
 ACCEPTED

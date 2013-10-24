@@ -1,14 +1,13 @@
-Phragmographium E.F. Morris GENUS
-=======
+# Morrisographium M. Morelet GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycopathologia 28: 99 (1966)
+Taxon 17: 528 (1968)
 
 #### Original name
 Phragmographium E.F. Morris

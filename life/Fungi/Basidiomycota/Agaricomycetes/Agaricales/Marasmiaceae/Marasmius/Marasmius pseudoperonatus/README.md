@@ -1,5 +1,4 @@
-Marasmius pseudoperonatus Speg. SPECIES
-=======
+# Marasmius pseudoperonatus Speg. SPECIES
 
 #### Status
 ACCEPTED

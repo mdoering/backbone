@@ -1,5 +1,4 @@
-Pestalotia kasagiensis C.T. Yeh & Katsura SPECIES
-=======
+# Pestalotia kasagiensis C.T. Yeh & Katsura SPECIES
 
 #### Status
 ACCEPTED

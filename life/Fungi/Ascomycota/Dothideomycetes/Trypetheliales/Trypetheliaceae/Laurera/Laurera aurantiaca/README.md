@@ -1,5 +1,4 @@
-Laurera aurantiaca Makhija & Patw. SPECIES
-=======
+# Laurera aurantiaca Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

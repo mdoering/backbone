@@ -1,5 +1,4 @@
-Lecanora elevata Lynge SPECIES
-=======
+# Lecanora elevata Lynge SPECIES
 
 #### Status
 ACCEPTED

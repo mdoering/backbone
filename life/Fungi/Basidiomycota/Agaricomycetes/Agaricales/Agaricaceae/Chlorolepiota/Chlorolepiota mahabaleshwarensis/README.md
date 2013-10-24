@@ -1,14 +1,13 @@
-Macrolepiota mahabaleshwarensis (Sathe & S.D. Deshp.) Manjula, 1983 SPECIES
-=======
+# Chlorolepiota mahabaleshwarensis Sathe & S.D. Deshp., 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Indian Acad. Sci. , Pl. Sci. 92(2): 101 (1983)
+Curr. Sci. 48(15): 694 (1979)
 
 #### Original name
 Chlorolepiota mahabaleshwarensis Sathe & S.D. Deshp., 1979

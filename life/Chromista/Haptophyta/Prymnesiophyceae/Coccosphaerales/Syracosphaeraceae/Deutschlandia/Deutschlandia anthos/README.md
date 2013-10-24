@@ -1,5 +1,4 @@
-Deutschlandia anthos Lohmann SPECIES
-=======
+# Deutschlandia anthos Lohmann SPECIES
 
 #### Status
 ACCEPTED

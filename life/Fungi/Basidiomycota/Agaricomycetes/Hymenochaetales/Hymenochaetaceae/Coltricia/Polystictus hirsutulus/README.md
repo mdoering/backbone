@@ -1,5 +1,4 @@
-Polystictus hirsutulus (Schwein.) Cooke SPECIES
-=======
+# Polystictus hirsutulus (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

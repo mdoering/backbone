@@ -1,5 +1,4 @@
-Candida jaroonii Imanishi, Jindam., Mikata, Nagak., Potach., Tantich. & Nakase SPECIES
-=======
+# Candida jaroonii Imanishi, Jindam., Mikata, Nagak., Potach., Tantich. & Nakase SPECIES
 
 #### Status
 ACCEPTED

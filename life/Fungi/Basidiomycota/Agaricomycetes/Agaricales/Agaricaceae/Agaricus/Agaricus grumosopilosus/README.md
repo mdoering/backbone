@@ -1,5 +1,4 @@
-Agaricus grumosopilosus Berk. & Broome SPECIES
-=======
+# Agaricus grumosopilosus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

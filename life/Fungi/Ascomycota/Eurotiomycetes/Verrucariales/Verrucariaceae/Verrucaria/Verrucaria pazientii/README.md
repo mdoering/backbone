@@ -1,5 +1,4 @@
-Verrucaria pazientii A. Massal. SPECIES
-=======
+# Verrucaria pazientii A. Massal. SPECIES
 
 #### Status
 ACCEPTED

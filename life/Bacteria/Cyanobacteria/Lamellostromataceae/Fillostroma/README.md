@@ -1,5 +1,4 @@
-Fillostroma Vologdin, 1962 GENUS
-=======
+# Fillostroma Vologdin, 1962 GENUS
 
 #### Status
 ACCEPTED

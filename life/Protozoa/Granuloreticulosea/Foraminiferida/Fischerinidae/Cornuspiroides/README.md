@@ -1,5 +1,4 @@
-Cornuspiroides Cushman, 1928 GENUS
-=======
+# Cornuspiroides Cushman, 1928 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichocladium lobatum B. Sutton, 1975 SPECIES
-=======
+# Trichocladium lobatum B. Sutton, 1975 SPECIES
 
 #### Status
 ACCEPTED

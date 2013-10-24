@@ -1,5 +1,4 @@
-Lembosia rizalensis Petr. SPECIES
-=======
+# Lembosia rizalensis Petr. SPECIES
 
 #### Status
 ACCEPTED

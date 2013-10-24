@@ -1,5 +1,4 @@
-Ophiobolus junicola Rehm SPECIES
-=======
+# Ophiobolus junicola Rehm SPECIES
 
 #### Status
 ACCEPTED

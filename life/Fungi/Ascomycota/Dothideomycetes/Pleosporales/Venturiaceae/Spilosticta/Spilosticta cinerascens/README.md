@@ -1,5 +1,4 @@
-Spilosticta cinerascens (Fleischh.) Petr. SPECIES
-=======
+# Spilosticta cinerascens (Fleischh.) Petr. SPECIES
 
 #### Status
 ACCEPTED

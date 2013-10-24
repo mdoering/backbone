@@ -1,5 +1,4 @@
-Cercoseptoria liquidambaricola (J.M. Yen) J.M. Yen SPECIES
-=======
+# Cercoseptoria liquidambaricola (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

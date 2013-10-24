@@ -1,17 +1,16 @@
-Heptameria vagans (P. Karst.) Cooke, 1889 SPECIES
-=======
+# Phaeosphaeria caricinella (P. Karst.) O.E. Erikss., 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ark. Bot. , Ser. 2 6: 414 (1967)
 
 #### Original name
-null
+Leptosphaeria caricinella P. Karst., 1872
 
 ### Remarks
 null

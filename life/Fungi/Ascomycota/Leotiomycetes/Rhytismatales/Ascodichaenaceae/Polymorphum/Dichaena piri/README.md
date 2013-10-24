@@ -1,5 +1,4 @@
-Dichaena piri Dearn. SPECIES
-=======
+# Dichaena piri Dearn. SPECIES
 
 #### Status
 ACCEPTED

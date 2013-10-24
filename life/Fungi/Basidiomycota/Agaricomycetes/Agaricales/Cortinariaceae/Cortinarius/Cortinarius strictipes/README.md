@@ -1,5 +1,4 @@
-Cortinarius strictipes M.M. Moser SPECIES
-=======
+# Cortinarius strictipes M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

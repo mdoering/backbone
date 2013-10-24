@@ -1,5 +1,4 @@
-Aspicilia nunatakkorum (Poelt) Poelt SPECIES
-=======
+# Aspicilia nunatakkorum (Poelt) Poelt SPECIES
 
 #### Status
 ACCEPTED

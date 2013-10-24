@@ -1,5 +1,4 @@
-Aplosporella negundinis Ellis & Barthol. SPECIES
-=======
+# Aplosporella negundinis Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

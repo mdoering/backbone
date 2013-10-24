@@ -1,5 +1,4 @@
-Pseudohiatula guzmaniana Singer SPECIES
-=======
+# Pseudohiatula guzmaniana Singer SPECIES
 
 #### Status
 ACCEPTED

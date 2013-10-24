@@ -1,5 +1,4 @@
-Chitonomyces iriomotensis T. Majewski SPECIES
-=======
+# Chitonomyces iriomotensis T. Majewski SPECIES
 
 #### Status
 ACCEPTED

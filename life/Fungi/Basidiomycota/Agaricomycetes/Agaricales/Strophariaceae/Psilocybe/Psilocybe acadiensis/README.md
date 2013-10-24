@@ -1,5 +1,4 @@
-Psilocybe acadiensis A.H. Sm. SPECIES
-=======
+# Psilocybe acadiensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

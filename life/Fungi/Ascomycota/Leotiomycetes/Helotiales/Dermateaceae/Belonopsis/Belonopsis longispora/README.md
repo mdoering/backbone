@@ -1,5 +1,4 @@
-Belonopsis longispora I. Hino & Katum. SPECIES
-=======
+# Belonopsis longispora I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

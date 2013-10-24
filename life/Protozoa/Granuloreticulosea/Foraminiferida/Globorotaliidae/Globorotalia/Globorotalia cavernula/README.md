@@ -1,5 +1,4 @@
-Globorotalia cavernula Bé, 1967 SPECIES
-=======
+# Globorotalia cavernula Bé, 1967 SPECIES
 
 #### Status
 ACCEPTED

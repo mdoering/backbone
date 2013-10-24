@@ -1,5 +1,4 @@
-Cucurbitaria crataegi Niessl SPECIES
-=======
+# Cucurbitaria crataegi Niessl SPECIES
 
 #### Status
 ACCEPTED

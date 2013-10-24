@@ -1,14 +1,13 @@
-Robillarda agrostidis R. Sprague, 1939 SPECIES
-=======
+# Pseudorobillarda agrostidis (R. Sprague) Nag Raj, Morgan-Jones & W.B. Kendr., 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 31(1): 47 (1939)
+Can. J. Bot. 50(4): 863 (1972)
 
 #### Original name
 Robillarda agrostidis R. Sprague, 1939

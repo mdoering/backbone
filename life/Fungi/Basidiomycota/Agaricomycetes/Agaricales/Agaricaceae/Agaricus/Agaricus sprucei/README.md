@@ -1,5 +1,4 @@
-Agaricus sprucei Berk. SPECIES
-=======
+# Agaricus sprucei Berk. SPECIES
 
 #### Status
 ACCEPTED

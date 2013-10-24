@@ -1,5 +1,4 @@
-Dicaeoma fimbristylidis Arthur SPECIES
-=======
+# Dicaeoma fimbristylidis Arthur SPECIES
 
 #### Status
 ACCEPTED

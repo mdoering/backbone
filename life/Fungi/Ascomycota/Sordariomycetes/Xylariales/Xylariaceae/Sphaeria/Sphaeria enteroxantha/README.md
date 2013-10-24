@@ -1,5 +1,4 @@
-Sphaeria enteroxantha Berk. SPECIES
-=======
+# Sphaeria enteroxantha Berk. SPECIES
 
 #### Status
 ACCEPTED

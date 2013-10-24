@@ -1,14 +1,13 @@
-Pleospora phragmitis Hollós, 1910 SPECIES
-=======
+# Phaeosphaeria phragmitis (Hollós) Leuchtm., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 37: 139 (1984)
 
 #### Original name
 Pleospora phragmitis Hollós, 1910

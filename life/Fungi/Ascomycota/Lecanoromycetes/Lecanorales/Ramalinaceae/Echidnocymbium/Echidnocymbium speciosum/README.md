@@ -1,5 +1,4 @@
-Echidnocymbium speciosum Brusse SPECIES
-=======
+# Echidnocymbium speciosum Brusse SPECIES
 
 #### Status
 ACCEPTED

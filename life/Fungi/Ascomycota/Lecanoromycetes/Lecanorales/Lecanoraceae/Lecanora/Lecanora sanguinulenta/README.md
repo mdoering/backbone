@@ -1,5 +1,4 @@
-Lecanora sanguinulenta And. {?} SPECIES
-=======
+# Lecanora sanguinulenta And. {?} SPECIES
 
 #### Status
 ACCEPTED

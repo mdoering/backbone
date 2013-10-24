@@ -1,5 +1,4 @@
-Aplosporella pelargonii (Pat.) Maire SPECIES
-=======
+# Aplosporella pelargonii (Pat.) Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Achroomyces tumidus Bonord. SPECIES
-=======
+# Achroomyces tumidus Bonord. SPECIES
 
 #### Status
 ACCEPTED

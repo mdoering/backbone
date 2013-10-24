@@ -1,5 +1,4 @@
-Lichen obtusatus Vahl SPECIES
-=======
+# Lichen obtusatus Vahl SPECIES
 
 #### Status
 ACCEPTED

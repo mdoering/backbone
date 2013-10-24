@@ -1,5 +1,4 @@
-Diploderma avellaneum Lloyd, 1917 SPECIES
-=======
+# Diploderma avellaneum Lloyd, 1917 SPECIES
 
 #### Status
 ACCEPTED

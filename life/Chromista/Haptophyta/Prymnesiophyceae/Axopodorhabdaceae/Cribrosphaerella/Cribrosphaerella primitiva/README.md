@@ -1,5 +1,4 @@
-Cribrosphaerella primitiva H. R. Thierstein SPECIES
-=======
+# Cribrosphaerella primitiva H. R. Thierstein SPECIES
 
 #### Status
 ACCEPTED

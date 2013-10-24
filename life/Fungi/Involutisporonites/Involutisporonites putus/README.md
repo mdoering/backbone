@@ -1,5 +1,4 @@
-Involutisporonites putus P. Ke & Z.Y. Shi SPECIES
-=======
+# Involutisporonites putus P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

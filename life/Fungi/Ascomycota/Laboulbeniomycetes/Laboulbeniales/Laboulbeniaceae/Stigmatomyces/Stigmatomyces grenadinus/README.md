@@ -1,5 +1,4 @@
-Stigmatomyces grenadinus Thaxt. SPECIES
-=======
+# Stigmatomyces grenadinus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

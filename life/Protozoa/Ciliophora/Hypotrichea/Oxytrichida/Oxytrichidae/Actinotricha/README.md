@@ -1,5 +1,4 @@
-Actinotricha Cohn, 1866 GENUS
-=======
+# Actinotricha Cohn, 1866 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola celtidicola Van der Byl SPECIES
-=======
+# Meliola celtidicola Van der Byl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptoxyphium spongiosium Bat., Nascim. & Cif. SPECIES
-=======
+# Leptoxyphium spongiosium Bat., Nascim. & Cif. SPECIES
 
 #### Status
 ACCEPTED

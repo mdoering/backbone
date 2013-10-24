@@ -1,5 +1,4 @@
-Triblidium pineum Pers. SPECIES
-=======
+# Triblidium pineum Pers. SPECIES
 
 #### Status
 ACCEPTED

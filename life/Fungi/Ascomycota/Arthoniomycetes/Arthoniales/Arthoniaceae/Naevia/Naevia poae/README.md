@@ -1,5 +1,4 @@
-Naevia poae Rehm SPECIES
-=======
+# Naevia poae Rehm SPECIES
 
 #### Status
 ACCEPTED

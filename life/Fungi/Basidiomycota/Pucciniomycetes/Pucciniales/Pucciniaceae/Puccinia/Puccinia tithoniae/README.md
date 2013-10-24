@@ -1,5 +1,4 @@
-Puccinia tithoniae Dietel & Holw. SPECIES
-=======
+# Puccinia tithoniae Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sparganothis pettitana Npv SPECIES
-=======
+# Sparganothis pettitana Npv SPECIES
 
 #### Status
 ACCEPTED

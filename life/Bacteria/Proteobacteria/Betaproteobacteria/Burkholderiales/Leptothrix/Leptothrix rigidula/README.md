@@ -1,5 +1,4 @@
-Leptothrix rigidula Kützing SPECIES
-=======
+# Leptothrix rigidula Kützing SPECIES
 
 #### Status
 ACCEPTED

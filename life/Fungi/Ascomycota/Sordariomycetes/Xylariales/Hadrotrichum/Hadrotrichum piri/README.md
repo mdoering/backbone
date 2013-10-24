@@ -1,5 +1,4 @@
-Hadrotrichum piri Montem. SPECIES
-=======
+# Hadrotrichum piri Montem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trunculocavus durrandi Brönnimann & Whittaker, 1993 SPECIES
-=======
+# Trunculocavus durrandi Brönnimann & Whittaker, 1993 SPECIES
 
 #### Status
 ACCEPTED

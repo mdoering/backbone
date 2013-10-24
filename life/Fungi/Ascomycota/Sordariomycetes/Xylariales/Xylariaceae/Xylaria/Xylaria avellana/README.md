@@ -1,14 +1,13 @@
-Hypoxylon avellana Ces., 1879 SPECIES
-=======
+# Xylaria avellana (Ces.) P.M.D. Martin, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Accad. Sci. fis. mat. Napoli 8: 18 (1879)
+Jl S. Afr. Bot. 42(1): 80 (1976)
 
 #### Original name
 Hypoxylon avellana Ces., 1879

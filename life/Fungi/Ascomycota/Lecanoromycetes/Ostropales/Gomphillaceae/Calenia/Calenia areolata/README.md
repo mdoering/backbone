@@ -1,5 +1,4 @@
-Calenia areolata Lücking SPECIES
-=======
+# Calenia areolata Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Proliferodiscus dingleyi Spooner SPECIES
-=======
+# Proliferodiscus dingleyae Spooner, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Mycol. 116: 635 (1987)
 
 #### Original name
-Proliferodiscus dingleyi Spooner
+Proliferodiscus dingleyae Spooner, 1987
 
 ### Remarks
 null

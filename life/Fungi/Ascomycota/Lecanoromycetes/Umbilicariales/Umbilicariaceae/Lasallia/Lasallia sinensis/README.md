@@ -1,5 +1,4 @@
-Lasallia sinensis J.C. Wei SPECIES
-=======
+# Lasallia sinensis J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

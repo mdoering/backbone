@@ -1,5 +1,4 @@
-Cyanostylon ovoideum Skuja SPECIES
-=======
+# Cyanostylon ovoideum Skuja SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachelophyllum triangulatum SPECIES
-=======
+# Trachelophyllum triangulatum SPECIES
 
 #### Status
 ACCEPTED

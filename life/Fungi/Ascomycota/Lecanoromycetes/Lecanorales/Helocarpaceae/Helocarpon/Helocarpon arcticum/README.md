@@ -1,5 +1,4 @@
-Helocarpon arcticum H. Magn. SPECIES
-=======
+# Helocarpon arcticum H. Magn. SPECIES
 
 #### Status
 ACCEPTED

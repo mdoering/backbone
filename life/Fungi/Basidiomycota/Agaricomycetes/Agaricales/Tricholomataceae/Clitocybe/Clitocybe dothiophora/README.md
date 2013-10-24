@@ -1,5 +1,4 @@
-Clitocybe dothiophora subsp. dothiophora SUBSPECIES
-=======
+# Clitocybe dothiophora Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Clitocybe dothiophora subsp. dothiophora
+Clitocybe dothiophora Fr.
 
 ### Remarks
 null

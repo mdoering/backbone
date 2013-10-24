@@ -1,5 +1,4 @@
-Dendrophoma sambuci (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Dendrophoma sambuci (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

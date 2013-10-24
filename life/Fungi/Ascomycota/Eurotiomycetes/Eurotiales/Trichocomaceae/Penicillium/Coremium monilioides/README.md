@@ -1,5 +1,4 @@
-Coremium monilioides (Alb. & Schwein.) Pound & Clem. SPECIES
-=======
+# Coremium monilioides (Alb. & Schwein.) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

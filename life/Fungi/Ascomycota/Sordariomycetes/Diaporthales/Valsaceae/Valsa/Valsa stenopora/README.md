@@ -1,5 +1,4 @@
-Valsa stenopora Sacc. SPECIES
-=======
+# Valsa stenopora Sacc. SPECIES
 
 #### Status
 ACCEPTED

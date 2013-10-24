@@ -1,5 +1,4 @@
-Panaeolus subditus (Britzelm.) Sacc. SPECIES
-=======
+# Panaeolus subditus (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

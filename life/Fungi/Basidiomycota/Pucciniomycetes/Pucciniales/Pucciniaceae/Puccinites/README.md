@@ -1,5 +1,4 @@
-Puccinites Velenovsky, 1890 GENUS
-=======
+# Puccinites Velenovsky, 1890 GENUS
 
 #### Status
 ACCEPTED

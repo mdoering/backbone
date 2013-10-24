@@ -1,5 +1,4 @@
-Aphelaria Corner, 1950 GENUS
-=======
+# Aphelaria Corner, 1950 GENUS
 
 #### Status
 ACCEPTED

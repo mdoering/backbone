@@ -1,5 +1,4 @@
-Dicaeoma variolans (Harkn.) Kuntze SPECIES
-=======
+# Dicaeoma variolans (Harkn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

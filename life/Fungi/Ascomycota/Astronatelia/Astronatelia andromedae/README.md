@@ -1,5 +1,4 @@
-Astronatelia andromedae Bat. & H. Maia, 1962 SPECIES
-=======
+# Astronatelia andromedae Bat. & H. Maia, 1962 SPECIES
 
 #### Status
 ACCEPTED

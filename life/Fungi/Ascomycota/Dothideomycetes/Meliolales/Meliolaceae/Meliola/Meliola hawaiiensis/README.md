@@ -1,5 +1,4 @@
-Meliola hawaiiensis F. Stevens SPECIES
-=======
+# Meliola hawaiiensis F. Stevens SPECIES
 
 #### Status
 ACCEPTED

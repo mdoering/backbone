@@ -1,17 +1,16 @@
-Mydonotrichum aterum Corda SPECIES
-=======
+# Mydonotrichum atrum Corda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Sturm, Deutschl. Fl. , 3 Abt. (Pilze Deutschl. ) 3(12): 37 (1831)
 
 #### Original name
-Mydonotrichum aterum Corda
+Mydonotrichum atrum Corda
 
 ### Remarks
 null

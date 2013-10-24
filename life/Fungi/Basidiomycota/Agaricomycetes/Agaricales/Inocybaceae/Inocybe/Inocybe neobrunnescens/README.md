@@ -1,5 +1,4 @@
-Inocybe neobrunnescens Grund & D.E. Stuntz SPECIES
-=======
+# Inocybe neobrunnescens Grund & D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

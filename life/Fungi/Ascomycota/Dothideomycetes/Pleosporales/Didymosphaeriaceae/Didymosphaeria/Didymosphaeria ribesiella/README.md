@@ -1,5 +1,4 @@
-Didymosphaeria ribesiella (Nyl. ex Vain.) SPECIES
-=======
+# Didymosphaeria ribesiella (Nyl. ex Vain.) SPECIES
 
 #### Status
 ACCEPTED

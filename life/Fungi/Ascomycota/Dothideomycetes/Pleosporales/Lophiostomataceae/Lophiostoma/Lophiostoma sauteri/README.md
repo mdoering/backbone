@@ -1,5 +1,4 @@
-Lophiostoma sauteri Nitschke SPECIES
-=======
+# Lophiostoma sauteri Nitschke SPECIES
 
 #### Status
 ACCEPTED

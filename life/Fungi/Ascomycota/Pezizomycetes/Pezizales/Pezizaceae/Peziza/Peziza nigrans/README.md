@@ -1,5 +1,4 @@
-Peziza nigrans Morgan SPECIES
-=======
+# Peziza nigrans Morgan SPECIES
 
 #### Status
 ACCEPTED

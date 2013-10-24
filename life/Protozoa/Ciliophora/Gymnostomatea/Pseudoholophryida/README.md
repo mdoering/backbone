@@ -1,5 +1,4 @@
-Pseudoholophryida ORDER
-=======
+# Pseudoholophryida ORDER
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Farrowia D. Hawksworth, 1975 GENUS
-=======
+# Farrowia D. Hawksworth, 1975 GENUS
 
 #### Status
 ACCEPTED

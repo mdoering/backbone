@@ -1,5 +1,4 @@
-Leptopuccinia schistocarphae (H.S. Jacks. & Holw.) Syd. SPECIES
-=======
+# Leptopuccinia schistocarphae (H.S. Jacks. & Holw.) Syd. SPECIES
 
 #### Status
 ACCEPTED

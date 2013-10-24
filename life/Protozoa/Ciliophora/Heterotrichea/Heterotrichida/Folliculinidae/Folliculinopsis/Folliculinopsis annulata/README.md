@@ -1,5 +1,4 @@
-Folliculinopsis annulata (Faure-Fremiet, 1935) Ringuelet, 1953 SPECIES
-=======
+# Folliculinopsis annulata (Faure-Fremiet, 1935) Ringuelet, 1953 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteromella rhoina (Kalchbr. & Cooke) Aa SPECIES
-=======
+# Asteromella rhoina (Kalchbr. & Cooke) Aa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oropogon barbaticus Essl. SPECIES
-=======
+# Oropogon barbaticus Essl. SPECIES
 
 #### Status
 ACCEPTED

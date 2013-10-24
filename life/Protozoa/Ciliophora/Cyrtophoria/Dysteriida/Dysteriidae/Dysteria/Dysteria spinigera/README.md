@@ -1,5 +1,4 @@
-Dysteria spinigera Claparède & Lachmann, 1859 SPECIES
-=======
+# Dysteria spinigera Claparède & Lachmann, 1859 SPECIES
 
 #### Status
 ACCEPTED

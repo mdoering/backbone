@@ -1,5 +1,4 @@
-Methylocystis echinoides (ex Gal'chenko et al., 1977) Bowman et al., 1993 SPECIES
-=======
+# Methylocystis echinoides (ex Gal'chenko et al., 1977) Bowman et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

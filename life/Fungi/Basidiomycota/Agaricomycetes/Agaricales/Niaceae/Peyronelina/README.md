@@ -1,5 +1,4 @@
-Peyronelina G. Arnaud, 1952 GENUS
-=======
+# Peyronelina G. Arnaud, 1952 GENUS
 
 #### Status
 ACCEPTED

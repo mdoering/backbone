@@ -1,5 +1,4 @@
-Tremella simplex H.S. Jacks. & G.W. Martin, 1940 SPECIES
-=======
+# Tremella simplex H.S. Jacks. & G.W. Martin, 1940 SPECIES
 
 #### Status
 ACCEPTED

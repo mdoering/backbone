@@ -1,5 +1,4 @@
-Cortinellus subdecorosus Murrill SPECIES
-=======
+# Cortinellus subdecorosus Murrill SPECIES
 
 #### Status
 ACCEPTED

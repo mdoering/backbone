@@ -1,5 +1,4 @@
-Saidovina striata (Schwager) SPECIES
-=======
+# Saidovina striata (Schwager) SPECIES
 
 #### Status
 ACCEPTED

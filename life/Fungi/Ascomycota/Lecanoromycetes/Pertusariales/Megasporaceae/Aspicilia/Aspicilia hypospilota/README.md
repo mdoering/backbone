@@ -1,5 +1,4 @@
-Aspicilia hypospilota (Vain.) Hue SPECIES
-=======
+# Aspicilia hypospilota (Vain.) Hue SPECIES
 
 #### Status
 ACCEPTED

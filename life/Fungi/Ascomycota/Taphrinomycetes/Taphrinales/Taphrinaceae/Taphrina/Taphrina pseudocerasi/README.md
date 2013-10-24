@@ -1,5 +1,4 @@
-Taphrina pseudocerasi Shirai SPECIES
-=======
+# Taphrina pseudocerasi Shirai SPECIES
 
 #### Status
 ACCEPTED

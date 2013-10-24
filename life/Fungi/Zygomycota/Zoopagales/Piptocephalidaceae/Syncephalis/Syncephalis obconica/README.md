@@ -1,5 +1,4 @@
-Syncephalis obconica Indoh, 1962 SPECIES
-=======
+# Syncephalis obconica Indoh, 1962 SPECIES
 
 #### Status
 ACCEPTED

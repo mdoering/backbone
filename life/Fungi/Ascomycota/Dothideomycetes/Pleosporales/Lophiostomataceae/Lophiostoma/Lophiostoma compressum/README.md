@@ -1,17 +1,16 @@
-Lophidium compressum var. compressum VARIETY
-=======
+# Lophiostoma compressum (Pers.) Ces. & De Not., 1861 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Comm. Soc. crittog. Ital. 1: 19 (1863)
 
 #### Original name
-Lophidium compressum var. compressum
+Sphaeria compressa Pers., 1801
 
 ### Remarks
 null

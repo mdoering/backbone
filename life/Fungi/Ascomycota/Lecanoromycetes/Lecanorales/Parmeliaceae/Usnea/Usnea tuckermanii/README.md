@@ -1,5 +1,4 @@
-Usnea tuckermanii Motyka SPECIES
-=======
+# Usnea tuckermanii Motyka SPECIES
 
 #### Status
 ACCEPTED

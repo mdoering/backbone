@@ -1,5 +1,4 @@
-Phytophthora lateralis Tucker & Milbrath, 1942 SPECIES
-=======
+# Phytophthora lateralis Tucker & Milbrath, 1942 SPECIES
 
 #### Status
 ACCEPTED

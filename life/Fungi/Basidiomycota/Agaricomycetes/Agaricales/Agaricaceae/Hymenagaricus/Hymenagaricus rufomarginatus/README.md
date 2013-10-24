@@ -1,5 +1,4 @@
-Hymenagaricus rufomarginatus D.A. Reid & Eicker SPECIES
-=======
+# Hymenagaricus rufomarginatus D.A. Reid & Eicker SPECIES
 
 #### Status
 ACCEPTED

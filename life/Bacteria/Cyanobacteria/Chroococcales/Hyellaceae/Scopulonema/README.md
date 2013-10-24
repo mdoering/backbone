@@ -1,5 +1,4 @@
-Scopulonema GENUS
-=======
+# Scopulonema GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Auricularia hispida Iwade SPECIES
-=======
+# Auricularia hispida Iwade SPECIES
 
 #### Status
 ACCEPTED

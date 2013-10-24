@@ -1,8 +1,7 @@
-Tracheloraphis angustivittata Borror, 1973 SPECIES
-=======
+# Prototrachelocerca angustivittatus Borror, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

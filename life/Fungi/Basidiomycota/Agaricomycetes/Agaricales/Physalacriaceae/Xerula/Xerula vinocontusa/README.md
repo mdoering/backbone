@@ -1,5 +1,4 @@
-Xerula vinocontusa R.H. Petersen & Nagas. SPECIES
-=======
+# Xerula vinocontusa R.H. Petersen & Nagas. SPECIES
 
 #### Status
 ACCEPTED

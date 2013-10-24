@@ -1,5 +1,4 @@
-Carinichona Jankowski, 1973 GENUS
-=======
+# Carinichona Jankowski, 1973 GENUS
 
 #### Status
 ACCEPTED

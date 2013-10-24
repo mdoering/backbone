@@ -1,5 +1,4 @@
-Heliochona alternans Jankowski, 1972 SPECIES
-=======
+# Heliochona alternans Jankowski, 1972 SPECIES
 
 #### Status
 ACCEPTED

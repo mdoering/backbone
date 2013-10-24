@@ -1,5 +1,4 @@
-Ganoderma rufoalbum Pat. SPECIES
-=======
+# Ganoderma rufoalbum Pat. SPECIES
 
 #### Status
 ACCEPTED

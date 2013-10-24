@@ -1,5 +1,4 @@
-Gloeocapsa quarternata SPECIES
-=======
+# Gloeocapsa quarternata SPECIES
 
 #### Status
 ACCEPTED

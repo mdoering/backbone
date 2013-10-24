@@ -1,5 +1,4 @@
-Septoria secalis Prill. & Delacr. SPECIES
-=======
+# Septoria secalis Prill. & Delacr. SPECIES
 
 #### Status
 ACCEPTED

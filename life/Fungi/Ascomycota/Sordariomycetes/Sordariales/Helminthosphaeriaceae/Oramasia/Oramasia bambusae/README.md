@@ -1,5 +1,4 @@
-Oramasia bambusae N.D. Sharma & S.R. Singh SPECIES
-=======
+# Oramasia bambusae N.D. Sharma & S.R. Singh SPECIES
 
 #### Status
 ACCEPTED

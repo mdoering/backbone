@@ -1,5 +1,4 @@
-Beckingia Ruinen, 1938 GENUS
-=======
+# Beckingia Ruinen, 1938 GENUS
 
 #### Status
 ACCEPTED

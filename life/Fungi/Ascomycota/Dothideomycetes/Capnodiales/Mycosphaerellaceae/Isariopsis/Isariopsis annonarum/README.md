@@ -1,17 +1,16 @@
-Isariopsis anonarum Petr. & Cif. SPECIES
-=======
+# Isariopsis annonarum Petr. & Cif. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 30(3-4): 345 (1932)
 
 #### Original name
-Isariopsis anonarum Petr. & Cif.
+Isariopsis annonarum Petr. & Cif.
 
 ### Remarks
 null

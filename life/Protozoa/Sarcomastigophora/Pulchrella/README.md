@@ -1,5 +1,4 @@
-Pulchrella Solovieva, 1983 GENUS
-=======
+# Pulchrella Solovieva, 1983 GENUS
 
 #### Status
 ACCEPTED

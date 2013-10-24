@@ -1,5 +1,4 @@
-Leptonia cyathiformis (Dennis) Dennis SPECIES
-=======
+# Leptonia cyathiformis (Dennis) Dennis SPECIES
 
 #### Status
 ACCEPTED

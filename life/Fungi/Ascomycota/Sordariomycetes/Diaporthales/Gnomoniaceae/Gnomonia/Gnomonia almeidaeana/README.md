@@ -1,5 +1,4 @@
-Gnomonia almeidaeana Sousa da Câmara & Luz SPECIES
-=======
+# Gnomonia almeidaeana Sousa da Câmara & Luz SPECIES
 
 #### Status
 ACCEPTED

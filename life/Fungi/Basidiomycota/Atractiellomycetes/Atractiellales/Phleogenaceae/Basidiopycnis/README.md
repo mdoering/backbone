@@ -1,5 +1,4 @@
-Basidiopycnis Oberw., R. Kirschner, R. Bauer, Begerow & Arenal GENUS
-=======
+# Basidiopycnis Oberw., R. Kirschner, R. Bauer, Begerow & Arenal GENUS
 
 #### Status
 ACCEPTED

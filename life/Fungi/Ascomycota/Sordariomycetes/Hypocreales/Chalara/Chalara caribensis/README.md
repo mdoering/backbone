@@ -1,5 +1,4 @@
-Chalara caribensis Hol.-Jech. SPECIES
-=======
+# Chalara caribensis Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

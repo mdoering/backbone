@@ -1,5 +1,4 @@
-Metasphaeria gei Richon SPECIES
-=======
+# Metasphaeria gei Richon SPECIES
 
 #### Status
 ACCEPTED

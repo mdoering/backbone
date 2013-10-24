@@ -1,17 +1,16 @@
-Fusarium redolens f. sp FORM
-=======
+# Fusarium redolens Wollenw., 1913 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytopath. Z. 42: 359 (1961)
+Phytopathology 3(1): 29 (1913)
 
 #### Original name
-Fusarium redolens f. sp
+Fusarium redolens Wollenw., 1913
 
 ### Remarks
 null

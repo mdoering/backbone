@@ -1,5 +1,4 @@
-Columnodomus microsporus Petr., 1941 SPECIES
-=======
+# Columnodomus microsporus Petr., 1941 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium parasiticum Sopp SPECIES
-=======
+# Penicillium parasiticum Sopp SPECIES
 
 #### Status
 ACCEPTED

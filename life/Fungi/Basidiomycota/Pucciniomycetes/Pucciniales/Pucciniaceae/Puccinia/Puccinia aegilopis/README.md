@@ -1,5 +1,4 @@
-Puccinia aegilopis Maire SPECIES
-=======
+# Puccinia aegilopis Maire SPECIES
 
 #### Status
 ACCEPTED

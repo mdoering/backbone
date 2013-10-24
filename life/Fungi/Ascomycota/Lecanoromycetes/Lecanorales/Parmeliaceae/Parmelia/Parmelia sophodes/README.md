@@ -1,5 +1,4 @@
-Parmelia sophodes var. sophodes VARIETY
-=======
+# Parmelia sophodes SPECIES
 
 #### Status
 ACCEPTED

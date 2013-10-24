@@ -1,5 +1,4 @@
-Phaeohelotium melleoflavum Svrcek SPECIES
-=======
+# Phaeohelotium melleoflavum Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schroeteriaster crotonis (Burrill) Petr. SPECIES
-=======
+# Schroeteriaster crotonis (Burrill) Petr. SPECIES
 
 #### Status
 ACCEPTED

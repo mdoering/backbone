@@ -1,5 +1,4 @@
-Sphaeria oppilata Fr. SPECIES
-=======
+# Sphaeria oppilata Fr. SPECIES
 
 #### Status
 ACCEPTED

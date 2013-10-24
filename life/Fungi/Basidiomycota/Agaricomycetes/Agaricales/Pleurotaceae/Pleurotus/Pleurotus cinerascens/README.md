@@ -1,5 +1,4 @@
-Pleurotus cinerascens Velen. SPECIES
-=======
+# Pleurotus cinerascens Velen. SPECIES
 
 #### Status
 ACCEPTED

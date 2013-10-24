@@ -1,5 +1,4 @@
-Lasiosphaeria bravoi Urries SPECIES
-=======
+# Lasiosphaeria bravoi Urries SPECIES
 
 #### Status
 ACCEPTED

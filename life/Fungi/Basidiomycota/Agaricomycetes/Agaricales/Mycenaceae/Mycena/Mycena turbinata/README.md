@@ -1,5 +1,4 @@
-Mycena turbinata (Murrill) A.H. Sm. SPECIES
-=======
+# Mycena turbinata (Murrill) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

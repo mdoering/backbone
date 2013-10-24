@@ -1,5 +1,4 @@
-Chaetomium gangligerum L.M. Ames, 1950 SPECIES
-=======
+# Chaetomium gangligerum L.M. Ames, 1950 SPECIES
 
 #### Status
 ACCEPTED

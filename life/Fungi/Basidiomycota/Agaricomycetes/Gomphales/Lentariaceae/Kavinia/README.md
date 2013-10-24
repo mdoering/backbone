@@ -1,5 +1,4 @@
-Kavinia Pilát, 1938 GENUS
-=======
+# Kavinia Pilát, 1938 GENUS
 
 #### Status
 ACCEPTED

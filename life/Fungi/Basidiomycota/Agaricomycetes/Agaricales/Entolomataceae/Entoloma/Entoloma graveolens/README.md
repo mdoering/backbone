@@ -1,5 +1,4 @@
-Entoloma graveolens (Largent) Esteve-Rav. & A. Ortega SPECIES
-=======
+# Entoloma graveolens (Largent) Esteve-Rav. & A. Ortega SPECIES
 
 #### Status
 ACCEPTED

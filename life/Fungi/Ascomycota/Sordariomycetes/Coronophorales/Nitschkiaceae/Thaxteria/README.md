@@ -1,5 +1,4 @@
-Thaxteria Saccardo, 1891 GENUS
-=======
+# Thaxteria Saccardo, 1891 GENUS
 
 #### Status
 ACCEPTED

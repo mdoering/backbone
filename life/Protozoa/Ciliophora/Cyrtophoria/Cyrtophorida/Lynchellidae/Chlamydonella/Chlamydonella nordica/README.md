@@ -1,5 +1,4 @@
-Chlamydonella nordica (Jankowski, 1968) Song & Wilbert, 2000 SPECIES
-=======
+# Chlamydonella nordica (Jankowski, 1968) Song & Wilbert, 2000 SPECIES
 
 #### Status
 ACCEPTED

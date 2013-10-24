@@ -1,8 +1,7 @@
-Abathostoma stercoris (Powers, 1935) Berger in Corliss, 1979 SPECIES
-=======
+# Echinocyclidium stercoris (Powers, 1935) Jankowski, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

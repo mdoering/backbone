@@ -1,17 +1,16 @@
-Boletus quercinus (Pilát) Hlavácek, 1990 SPECIES
-=======
+# Leccinum quercinum (Pilát) E.E. Green & Watling, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mykologický Sborník 67(3): 87 (1990)
+Notes R. bot. Gdn Edinb. 29: 151 (1969)
 
 #### Original name
-Leccinum aurantiacum var. quercinum Pilát, 1959
+Leccinum quercinum (Pilát) E.E. Green & Watling, 1969
 
 ### Remarks
 null

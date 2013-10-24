@@ -1,5 +1,4 @@
-Trichodina decipiens Laird, 1961 SPECIES
-=======
+# Trichodina decipiens Laird, 1961 SPECIES
 
 #### Status
 ACCEPTED

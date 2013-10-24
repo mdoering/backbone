@@ -1,17 +1,16 @@
-Collema pulposum f. granulatum FORM
-=======
+# Collema bachmanianum (Fink) Degel. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 13(no. 2): 192 (1954)
 
 #### Original name
-Collema pulposum f. granulatum
+Collemodes bachmanianum Fink
 
 ### Remarks
 null

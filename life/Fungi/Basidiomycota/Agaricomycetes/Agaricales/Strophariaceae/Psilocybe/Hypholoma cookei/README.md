@@ -1,5 +1,4 @@
-Hypholoma cookei Kill. {?} SPECIES
-=======
+# Hypholoma cookei Kill. {?} SPECIES
 
 #### Status
 ACCEPTED

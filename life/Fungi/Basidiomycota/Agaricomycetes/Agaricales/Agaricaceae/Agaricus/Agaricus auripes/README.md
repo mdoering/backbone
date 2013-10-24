@@ -1,5 +1,4 @@
-Agaricus auripes Secr. SPECIES
-=======
+# Agaricus auripes Secr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Anthostomella faustus Lar.N. Vassiljeva SPECIES
-=======
+# Anthostomella fausta Lar.N. Vassiljeva, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nizshie Rasteniya, Griby i Mokhoobraznye Dalnego Vostoka Rossii (Sankt-Peterburg), Griby. Tom <b>4</b>. Pirenomitsety i Lokuloaskomitsety 135 (1998)
 
 #### Original name
-Anthostomella faustus Lar.N. Vassiljeva
+Anthostomella fausta Lar.N. Vassiljeva, 1998
 
 ### Remarks
 null

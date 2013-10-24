@@ -1,5 +1,4 @@
-Teichospora disseminata (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Teichospora disseminata (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

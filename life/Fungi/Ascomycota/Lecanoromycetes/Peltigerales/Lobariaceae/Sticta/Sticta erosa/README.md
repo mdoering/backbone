@@ -1,5 +1,4 @@
-Sticta erosa (Eschw.) Tuck. SPECIES
-=======
+# Sticta erosa (Eschw.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

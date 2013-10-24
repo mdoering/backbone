@@ -1,5 +1,4 @@
-Schultzella Rhumbler, 1904 GENUS
-=======
+# Schultzella Rhumbler, 1904 GENUS
 
 #### Status
 ACCEPTED

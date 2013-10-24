@@ -1,5 +1,4 @@
-Lachnellula cyphelloides (Ellis & Everh.) Sacc. SPECIES
-=======
+# Lachnellula cyphelloides (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

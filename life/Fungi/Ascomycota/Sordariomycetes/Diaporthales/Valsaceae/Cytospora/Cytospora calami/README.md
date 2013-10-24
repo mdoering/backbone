@@ -1,5 +1,4 @@
-Cytospora calami Syd. SPECIES
-=======
+# Cytospora calami Syd. SPECIES
 
 #### Status
 ACCEPTED

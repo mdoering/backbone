@@ -1,5 +1,4 @@
-Lepiota lactea Murrill SPECIES
-=======
+# Lepiota lactea Murrill SPECIES
 
 #### Status
 ACCEPTED

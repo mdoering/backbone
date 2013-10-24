@@ -1,5 +1,4 @@
-Aecidium philibertiae Henn. SPECIES
-=======
+# Aecidium philibertiae Henn. SPECIES
 
 #### Status
 ACCEPTED

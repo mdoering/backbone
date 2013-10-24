@@ -1,5 +1,4 @@
-Lobaria variegata J. Steiner SPECIES
-=======
+# Lobaria variegata J. Steiner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydropus sabalis Singer SPECIES
-=======
+# Hydropus sabalis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyxine endolutea Kalb SPECIES
-=======
+# Pyxine endolutea Kalb SPECIES
 
 #### Status
 ACCEPTED

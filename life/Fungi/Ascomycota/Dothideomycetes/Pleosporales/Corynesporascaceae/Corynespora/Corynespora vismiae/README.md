@@ -1,5 +1,4 @@
-Corynespora vismiae M.B. Ellis SPECIES
-=======
+# Corynespora vismiae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

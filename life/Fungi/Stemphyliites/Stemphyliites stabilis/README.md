@@ -1,5 +1,4 @@
-Stemphyliites stabilis Babajan & Tasl. SPECIES
-=======
+# Stemphyliites stabilis Babajan & Tasl. SPECIES
 
 #### Status
 ACCEPTED

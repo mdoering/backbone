@@ -1,5 +1,4 @@
-Phallus marcidus O.F. Müll. SPECIES
-=======
+# Phallus marcidus O.F. Müll. SPECIES
 
 #### Status
 ACCEPTED

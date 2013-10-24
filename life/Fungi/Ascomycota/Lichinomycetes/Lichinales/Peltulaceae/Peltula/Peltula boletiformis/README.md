@@ -1,5 +1,4 @@
-Peltula boletiformis (Hue) Henssen & Büdel SPECIES
-=======
+# Peltula boletiformis (Hue) Henssen & Büdel SPECIES
 
 #### Status
 ACCEPTED

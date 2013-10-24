@@ -1,5 +1,4 @@
-Oleibacter Teramoto, Ohuchi, Hatmanti, Darmayati, Widyastuti, Harayama & Fukunaga, 2011 GENUS
-=======
+# Oleibacter Teramoto, Ohuchi, Hatmanti, Darmayati, Widyastuti, Harayama & Fukunaga, 2011 GENUS
 
 #### Status
 ACCEPTED

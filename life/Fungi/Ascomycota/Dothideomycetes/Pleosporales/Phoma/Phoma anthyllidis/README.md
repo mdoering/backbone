@@ -1,5 +1,4 @@
-Phoma anthyllidis I.E. Brezhnev SPECIES
-=======
+# Phoma anthyllidis I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermicularia pseudosphaeria Tode SPECIES
-=======
+# Vermicularia pseudosphaeria Tode SPECIES
 
 #### Status
 ACCEPTED

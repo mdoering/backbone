@@ -1,5 +1,4 @@
-Nakataea bambusicola Dewi SPECIES
-=======
+# Nakataea bambusicola Dewi SPECIES
 
 #### Status
 ACCEPTED

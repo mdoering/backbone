@@ -1,17 +1,16 @@
-Lactaria flocculosaceps Burl. SPECIES
-=======
+# Lactarius flocculosiceps Burl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 37(1): 60 (1945)
 
 #### Original name
-Lactaria flocculosaceps Burl.
+Lactarius flocculosiceps Burl.
 
 ### Remarks
 null

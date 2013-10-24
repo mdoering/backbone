@@ -1,5 +1,4 @@
-Meliola kauaiensis F. Stevens SPECIES
-=======
+# Meliola kauaiensis F. Stevens SPECIES
 
 #### Status
 ACCEPTED

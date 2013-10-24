@@ -1,5 +1,4 @@
-Cercospora odontitis Pisareva SPECIES
-=======
+# Cercospora odontitis Pisareva SPECIES
 
 #### Status
 ACCEPTED

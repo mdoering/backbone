@@ -1,5 +1,4 @@
-Caloramator Collins, Lawson, Willems, Cordoba, Fernandez-Garayzabal, Garcia, Cai, Hippe & Farrow, 1994 GENUS
-=======
+# Caloramator Collins, Lawson, Willems, Cordoba, Fernandez-Garayzabal, Garcia, Cai, Hippe & Farrow, 1994 GENUS
 
 #### Status
 ACCEPTED

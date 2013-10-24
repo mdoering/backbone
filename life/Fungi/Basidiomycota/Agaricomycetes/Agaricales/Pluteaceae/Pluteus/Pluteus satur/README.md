@@ -1,17 +1,16 @@
-Pluteus satur f. satur Kühner & Romagn. FORM
-=======
+# Pluteus satur Kühner & Romagn., 1956 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. trimest. Soc. mycol. Fr. 72: 182 (1956)
 
 #### Original name
-Pluteus satur f. satur Kühner & Romagn.
+Pluteus satur Kühner & Romagn., 1956
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Quadrispora musispora Bougher & Castellano, 1993 SPECIES
-=======
+# Quadrispora musispora Bougher & Castellano, 1993 SPECIES
 
 #### Status
 ACCEPTED

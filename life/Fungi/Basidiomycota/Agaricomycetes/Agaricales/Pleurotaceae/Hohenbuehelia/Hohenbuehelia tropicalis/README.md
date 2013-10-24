@@ -1,5 +1,4 @@
-Hohenbuehelia tropicalis Singer, 1989 SPECIES
-=======
+# Hohenbuehelia tropicalis Singer, 1989 SPECIES
 
 #### Status
 ACCEPTED

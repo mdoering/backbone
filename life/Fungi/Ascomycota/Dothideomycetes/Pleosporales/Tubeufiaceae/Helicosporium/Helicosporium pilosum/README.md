@@ -1,5 +1,4 @@
-Helicosporium pilosum Ellis & Everh. SPECIES
-=======
+# Helicosporium pilosum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

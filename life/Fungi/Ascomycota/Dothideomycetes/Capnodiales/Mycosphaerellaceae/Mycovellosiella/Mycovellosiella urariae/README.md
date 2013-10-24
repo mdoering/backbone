@@ -1,5 +1,4 @@
-Mycovellosiella urariae M.K. Khan, R.K. Verma & Kamal SPECIES
-=======
+# Mycovellosiella urariae M.K. Khan, R.K. Verma & Kamal SPECIES
 
 #### Status
 ACCEPTED

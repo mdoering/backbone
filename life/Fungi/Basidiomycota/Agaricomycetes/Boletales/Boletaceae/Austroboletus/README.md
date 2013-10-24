@@ -1,5 +1,4 @@
-Austroboletus (Corner) Wolfe GENUS
-=======
+# Austroboletus (Corner) Wolfe GENUS
 
 #### Status
 ACCEPTED

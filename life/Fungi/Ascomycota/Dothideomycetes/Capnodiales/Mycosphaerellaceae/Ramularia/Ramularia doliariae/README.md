@@ -1,5 +1,4 @@
-Ramularia doliariae Viégas SPECIES
-=======
+# Ramularia doliariae Viégas SPECIES
 
 #### Status
 ACCEPTED

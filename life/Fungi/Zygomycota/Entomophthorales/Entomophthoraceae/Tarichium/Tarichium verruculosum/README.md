@@ -1,5 +1,4 @@
-Tarichium verruculosum Balazy, J. Wisn. & S. Kaczm. SPECIES
-=======
+# Tarichium verruculosum Balazy, J. Wisn. & S. Kaczm. SPECIES
 
 #### Status
 ACCEPTED

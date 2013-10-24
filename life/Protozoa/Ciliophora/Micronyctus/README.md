@@ -1,5 +1,4 @@
-Micronyctus Yankovskij, 1978 GENUS
-=======
+# Micronyctus Yankovskij, 1978 GENUS
 
 #### Status
 ACCEPTED

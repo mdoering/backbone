@@ -1,5 +1,4 @@
-Spirillina groomii Chapman, 1900 SPECIES
-=======
+# Spirillina groomii Chapman, 1900 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria tenebrica H. Magn. SPECIES
-=======
+# Verrucaria tenebrica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

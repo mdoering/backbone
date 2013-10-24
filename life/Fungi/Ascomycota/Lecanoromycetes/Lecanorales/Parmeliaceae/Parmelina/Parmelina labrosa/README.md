@@ -1,5 +1,4 @@
-Parmelina labrosa (Zahlbr.) Elix & J. Johnst. SPECIES
-=======
+# Parmelina labrosa (Zahlbr.) Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

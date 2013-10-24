@@ -1,5 +1,4 @@
-Lactarius frustratus Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius frustratus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

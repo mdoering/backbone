@@ -1,5 +1,4 @@
-Licea caespitosa Peck SPECIES
-=======
+# Licea caespitosa Peck SPECIES
 
 #### Status
 ACCEPTED

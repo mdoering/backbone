@@ -1,5 +1,4 @@
-Lautosporopsis GENUS
-=======
+# Lautosporopsis GENUS
 
 #### Status
 ACCEPTED

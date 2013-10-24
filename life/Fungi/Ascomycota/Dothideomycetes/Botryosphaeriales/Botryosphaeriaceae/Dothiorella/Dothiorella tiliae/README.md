@@ -1,5 +1,4 @@
-Dothiorella tiliae Sacc. SPECIES
-=======
+# Dothiorella tiliae Sacc. SPECIES
 
 #### Status
 ACCEPTED

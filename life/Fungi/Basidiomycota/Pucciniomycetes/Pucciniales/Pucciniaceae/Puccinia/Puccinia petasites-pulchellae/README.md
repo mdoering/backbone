@@ -1,17 +1,16 @@
-Puccinia petasitis-pulchellae Lüdi SPECIES
-=======
+# Puccinia petasites-pulchellae Lüdi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mitt. naturf. Ges. Bern 35 (1916)
 
 #### Original name
-Puccinia petasitis-pulchellae Lüdi
+Puccinia petasites-pulchellae Lüdi
 
 ### Remarks
 null

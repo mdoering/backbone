@@ -1,5 +1,4 @@
-Woronichinia elorantae J. Komárek & J. Komárková-Legnerová SPECIES
-=======
+# Woronichinia elorantae J. Komárek & J. Komárková-Legnerová SPECIES
 
 #### Status
 ACCEPTED

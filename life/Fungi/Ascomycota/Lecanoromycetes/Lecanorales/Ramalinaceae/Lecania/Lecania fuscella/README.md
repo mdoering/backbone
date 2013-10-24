@@ -1,5 +1,4 @@
-Lecania fuscella f. fuscella (Schaer.) A. Massal. FORM
-=======
+# Lecania fuscella (Schaer.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Gen. lich. (Verona) 12 (1853)
 
 #### Original name
-Lecania fuscella f. fuscella (Schaer.) A. Massal.
+Parmelia pallida var. fuscella Schaer.
 
 ### Remarks
 null

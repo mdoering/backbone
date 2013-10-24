@@ -1,5 +1,4 @@
-Dinemasporiopsis hispidula Bubák & Kabát SPECIES
-=======
+# Dinemasporiopsis hispidula Bubák & Kabát SPECIES
 
 #### Status
 ACCEPTED

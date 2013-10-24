@@ -1,5 +1,4 @@
-Pholiota macmurphyi Murrill SPECIES
-=======
+# Pholiota macmurphyi Murrill SPECIES
 
 #### Status
 ACCEPTED

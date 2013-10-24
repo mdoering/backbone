@@ -1,5 +1,4 @@
-Dichomera moricola S. Ahmad & Arshad SPECIES
-=======
+# Dichomera moricola S. Ahmad & Arshad SPECIES
 
 #### Status
 ACCEPTED

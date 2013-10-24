@@ -1,5 +1,4 @@
-Rhadinocladia farlowii Schuh SPECIES
-=======
+# Rhadinocladia farlowii Schuh SPECIES
 
 #### Status
 ACCEPTED

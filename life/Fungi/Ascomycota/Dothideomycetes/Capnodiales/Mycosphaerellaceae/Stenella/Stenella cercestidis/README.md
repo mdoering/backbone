@@ -1,14 +1,13 @@
-Stenella cercestis (Deighton) U. Braun SPECIES
-=======
+# Stenella cercestidis (Deighton) U. Braun SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Schlechtendalia 5: 54 (2000)
 
 #### Original name
 Cladosporium cercestidis Deighton

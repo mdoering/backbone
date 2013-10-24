@@ -1,5 +1,4 @@
-Ovularia pini Oudem. SPECIES
-=======
+# Ovularia pini Oudem. SPECIES
 
 #### Status
 ACCEPTED

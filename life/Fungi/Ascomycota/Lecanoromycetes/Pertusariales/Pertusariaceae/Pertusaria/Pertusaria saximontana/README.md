@@ -1,5 +1,4 @@
-Pertusaria saximontana Wetmore SPECIES
-=======
+# Pertusaria saximontana Wetmore SPECIES
 
 #### Status
 ACCEPTED

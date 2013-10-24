@@ -1,5 +1,4 @@
-Tolyposporium cymbopogonis Mundk. SPECIES
-=======
+# Tolyposporium cymbopogonis Mundk. SPECIES
 
 #### Status
 ACCEPTED

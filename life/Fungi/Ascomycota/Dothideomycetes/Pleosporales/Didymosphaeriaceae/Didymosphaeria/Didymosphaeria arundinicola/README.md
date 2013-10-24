@@ -1,5 +1,4 @@
-Didymosphaeria arundinicola Bizz. SPECIES
-=======
+# Didymosphaeria arundinicola Bizz. SPECIES
 
 #### Status
 ACCEPTED

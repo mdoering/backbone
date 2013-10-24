@@ -1,5 +1,4 @@
-Palmomyces deliensis (Palm & Jochems) Maire SPECIES
-=======
+# Palmomyces deliensis (Palm & Jochems) Maire SPECIES
 
 #### Status
 ACCEPTED

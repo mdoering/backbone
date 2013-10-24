@@ -1,5 +1,4 @@
-Peroneutypella microcarpa (Ellis & Everh.) Berl. SPECIES
-=======
+# Peroneutypella microcarpa (Ellis & Everh.) Berl. SPECIES
 
 #### Status
 ACCEPTED

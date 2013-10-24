@@ -1,5 +1,4 @@
-Dermatocarpon arnoldianum Degel. SPECIES
-=======
+# Dermatocarpon arnoldianum Degel. SPECIES
 
 #### Status
 ACCEPTED

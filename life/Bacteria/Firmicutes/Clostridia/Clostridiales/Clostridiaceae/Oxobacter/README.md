@@ -1,5 +1,4 @@
-Oxobacter Collins, Lawson, Willems, Cordoba, Fernandez-Garayzabal, Garcia, Cai, Hippe & Farrow, 1994 GENUS
-=======
+# Oxobacter Collins, Lawson, Willems, Cordoba, Fernandez-Garayzabal, Garcia, Cai, Hippe & Farrow, 1994 GENUS
 
 #### Status
 ACCEPTED

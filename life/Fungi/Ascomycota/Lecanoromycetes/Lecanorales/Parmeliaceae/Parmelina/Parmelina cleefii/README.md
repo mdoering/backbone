@@ -1,5 +1,4 @@
-Parmelina cleefii Sipman SPECIES
-=======
+# Parmelina cleefii Sipman SPECIES
 
 #### Status
 ACCEPTED

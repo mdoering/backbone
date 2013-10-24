@@ -1,5 +1,4 @@
-Mycosphaerella daphnes I.E. Brezhnev SPECIES
-=======
+# Mycosphaerella daphnes I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

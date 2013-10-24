@@ -1,5 +1,4 @@
-Lecidea amoena Nyl. SPECIES
-=======
+# Lecidea amoena Nyl. SPECIES
 
 #### Status
 ACCEPTED

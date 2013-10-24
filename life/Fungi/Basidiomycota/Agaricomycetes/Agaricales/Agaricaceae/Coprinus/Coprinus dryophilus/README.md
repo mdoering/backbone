@@ -1,5 +1,4 @@
-Coprinus dryophilus Pat. SPECIES
-=======
+# Coprinus dryophilus Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia oligoseptata Grove SPECIES
-=======
+# Hendersonia oligoseptata Grove SPECIES
 
 #### Status
 ACCEPTED

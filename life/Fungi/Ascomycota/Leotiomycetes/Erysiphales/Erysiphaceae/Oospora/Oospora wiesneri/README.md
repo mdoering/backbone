@@ -1,5 +1,4 @@
-Oospora wiesneri (Zikes) Sacc. SPECIES
-=======
+# Oospora wiesneri (Zikes) Sacc. SPECIES
 
 #### Status
 ACCEPTED

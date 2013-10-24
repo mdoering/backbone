@@ -1,5 +1,4 @@
-Helminthosporium macilentum Cooke, 1877 SPECIES
-=======
+# Helminthosporium macilentum Cooke, 1877 SPECIES
 
 #### Status
 ACCEPTED

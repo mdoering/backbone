@@ -1,5 +1,4 @@
-Sphaerella succedanea Pass. SPECIES
-=======
+# Sphaerella succedanea Pass. SPECIES
 
 #### Status
 ACCEPTED

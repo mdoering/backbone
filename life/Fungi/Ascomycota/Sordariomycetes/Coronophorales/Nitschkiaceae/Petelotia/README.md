@@ -1,5 +1,4 @@
-Petelotia GENUS
-=======
+# Petelotia GENUS
 
 #### Status
 ACCEPTED

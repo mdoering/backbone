@@ -1,5 +1,4 @@
-Pyrenastrum knightii Müll. Arg. SPECIES
-=======
+# Pyrenastrum knightii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Volutellospora circinoseta (Stolk) Thirum. & P.N. Mathur, 1965 SPECIES
-=======
+# Chaetomella circinoseta Stolk, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 46: 413 (1963)
 
 #### Original name
 Chaetomella circinoseta Stolk, 1963

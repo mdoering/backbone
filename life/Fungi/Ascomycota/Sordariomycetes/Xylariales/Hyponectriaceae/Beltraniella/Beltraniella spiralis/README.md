@@ -1,5 +1,4 @@
-Beltraniella spiralis Piroz. & S.D. Patil SPECIES
-=======
+# Beltraniella spiralis Piroz. & S.D. Patil SPECIES
 
 #### Status
 ACCEPTED

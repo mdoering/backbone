@@ -1,5 +1,4 @@
-Macroptycha revolutina Hu Yunxu, 1986 SPECIES
-=======
+# Macroptycha revolutina Hu Yunxu, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ophiostoma novo-ulmi subsp. novo-ulmi SUBSPECIES
-=======
+# Ophiostoma novo-ulmi Brasier, 1991 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mycopathologia 115(3): 155 (1991)
 
 #### Original name
-Ophiostoma novo-ulmi subsp. novo-ulmi
+Ophiostoma novo-ulmi Brasier, 1991
 
 ### Remarks
 null

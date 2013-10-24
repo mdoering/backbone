@@ -1,5 +1,4 @@
-Uleothyrium amazonicum Petr., 1929 SPECIES
-=======
+# Uleothyrium amazonicum Petr., 1929 SPECIES
 
 #### Status
 ACCEPTED

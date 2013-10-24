@@ -1,5 +1,4 @@
-Rugoglobigerinidae Subbotina, 1959 FAMILY
-=======
+# Rugoglobigerinidae Subbotina, 1959 FAMILY
 
 #### Status
 ACCEPTED

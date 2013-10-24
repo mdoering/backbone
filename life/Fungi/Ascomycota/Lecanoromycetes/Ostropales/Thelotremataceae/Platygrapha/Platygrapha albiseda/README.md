@@ -1,5 +1,4 @@
-Platygrapha albiseda Nyl. SPECIES
-=======
+# Platygrapha albiseda Nyl. SPECIES
 
 #### Status
 ACCEPTED

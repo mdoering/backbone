@@ -1,5 +1,4 @@
-Gonohymenia heppii (Müll. Arg.) Henssen SPECIES
-=======
+# Gonohymenia heppii (Müll. Arg.) Henssen SPECIES
 
 #### Status
 ACCEPTED

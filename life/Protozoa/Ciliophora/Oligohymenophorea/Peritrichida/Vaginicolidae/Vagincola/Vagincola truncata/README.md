@@ -1,5 +1,4 @@
-Vagincola truncata Fromentel, 1876 SPECIES
-=======
+# Vagincola truncata Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

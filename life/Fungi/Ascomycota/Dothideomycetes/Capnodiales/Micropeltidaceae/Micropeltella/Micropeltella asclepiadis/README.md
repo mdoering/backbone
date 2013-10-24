@@ -1,5 +1,4 @@
-Micropeltella asclepiadis (Bat. & A.F. Vital) Bat. SPECIES
-=======
+# Micropeltella asclepiadis (Bat. & A.F. Vital) Bat. SPECIES
 
 #### Status
 ACCEPTED

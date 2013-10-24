@@ -1,5 +1,4 @@
-Phyllosticta aporoica Speg. SPECIES
-=======
+# Phyllosticta aporoica Speg. SPECIES
 
 #### Status
 ACCEPTED

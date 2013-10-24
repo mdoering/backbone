@@ -1,5 +1,4 @@
-Phyllosticta mortolensis Allesch. SPECIES
-=======
+# Phyllosticta mortolensis Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Limaciniopsis rollandiae J.M. Mend., 1925 SPECIES
-=======
+# Limaciniopsis rollandiae J.M. Mend., 1925 SPECIES
 
 #### Status
 ACCEPTED

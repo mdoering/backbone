@@ -1,14 +1,13 @@
-Septoria lepidospermatis Cooke & Massee SPECIES
-=======
+# Clypeopycnis lepidospermatis (Cooke & Massee) B. Sutton & Pascoe, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 31: 183 (1989)
 
 #### Original name
 null

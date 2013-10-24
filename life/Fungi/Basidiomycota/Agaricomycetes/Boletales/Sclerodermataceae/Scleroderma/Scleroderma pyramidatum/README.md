@@ -1,5 +1,4 @@
-Scleroderma pyramidatum Kalchbr. SPECIES
-=======
+# Scleroderma pyramidatum Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

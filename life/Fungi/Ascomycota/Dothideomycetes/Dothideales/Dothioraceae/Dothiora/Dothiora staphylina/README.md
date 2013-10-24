@@ -1,5 +1,4 @@
-Dothiora staphylina (Peck) M.E. Barr SPECIES
-=======
+# Dothiora staphylina (Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

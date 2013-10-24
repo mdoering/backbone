@@ -1,5 +1,4 @@
-Erineum roseum Schultz SPECIES
-=======
+# Erineum roseum Schultz SPECIES
 
 #### Status
 ACCEPTED

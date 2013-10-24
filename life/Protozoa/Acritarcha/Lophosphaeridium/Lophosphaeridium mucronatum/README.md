@@ -1,5 +1,4 @@
-Lophosphaeridium mucronatum L. Gao SPECIES
-=======
+# Lophosphaeridium mucronatum L. Gao SPECIES
 
 #### Status
 ACCEPTED

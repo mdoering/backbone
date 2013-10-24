@@ -1,5 +1,4 @@
-Mycovellosiella hamamelidis (Peck) U. Braun SPECIES
-=======
+# Mycovellosiella hamamelidis (Peck) U. Braun SPECIES
 
 #### Status
 ACCEPTED

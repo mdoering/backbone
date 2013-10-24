@@ -1,5 +1,4 @@
-Patellaria quercina Velen. SPECIES
-=======
+# Patellaria quercina Velen. SPECIES
 
 #### Status
 ACCEPTED

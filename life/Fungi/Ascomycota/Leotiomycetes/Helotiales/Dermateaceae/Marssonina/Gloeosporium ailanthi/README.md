@@ -1,5 +1,4 @@
-Gloeosporium ailanthi Dearn. & Barthol. SPECIES
-=======
+# Gloeosporium ailanthi Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

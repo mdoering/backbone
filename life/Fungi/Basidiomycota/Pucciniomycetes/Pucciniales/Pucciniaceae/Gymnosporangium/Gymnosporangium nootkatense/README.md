@@ -1,14 +1,13 @@
-Gymnotelium nootkatense (Arthur) Syd., 1921 SPECIES
-=======
+# Gymnosporangium nootkatense Arthur, 1916 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 19(1/2): 170 (1921)
+Am. J. Bot. 3: 44 (1916)
 
 #### Original name
 Gymnosporangium nootkatense Arthur, 1916

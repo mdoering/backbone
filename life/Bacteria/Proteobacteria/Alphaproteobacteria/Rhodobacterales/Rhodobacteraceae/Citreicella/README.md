@@ -1,5 +1,4 @@
-Citreicella Sorokin, Tourova & Muyzer, 2006 GENUS
-=======
+# Citreicella Sorokin, Tourova & Muyzer, 2006 GENUS
 
 #### Status
 ACCEPTED

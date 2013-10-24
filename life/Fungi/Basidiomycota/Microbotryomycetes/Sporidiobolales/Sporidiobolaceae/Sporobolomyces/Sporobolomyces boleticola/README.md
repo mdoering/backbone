@@ -1,5 +1,4 @@
-Sporobolomyces boleticola C. Ramírez SPECIES
-=======
+# Sporobolomyces boleticola C. Ramírez SPECIES
 
 #### Status
 ACCEPTED

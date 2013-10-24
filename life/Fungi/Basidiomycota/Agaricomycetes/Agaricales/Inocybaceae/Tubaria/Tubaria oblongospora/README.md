@@ -1,5 +1,4 @@
-Tubaria oblongospora Herp. SPECIES
-=======
+# Tubaria oblongospora Herp. SPECIES
 
 #### Status
 ACCEPTED

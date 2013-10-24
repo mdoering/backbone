@@ -1,5 +1,4 @@
-Mycosphaerella epilobii-montani Lobik SPECIES
-=======
+# Mycosphaerella epilobii-montani Lobik SPECIES
 
 #### Status
 ACCEPTED

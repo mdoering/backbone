@@ -1,5 +1,4 @@
-Dictyota canaliculata O. De Clerck & E. Coppejans SPECIES
-=======
+# Dictyota canaliculata O. De Clerck & E. Coppejans SPECIES
 
 #### Status
 ACCEPTED

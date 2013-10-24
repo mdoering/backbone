@@ -1,5 +1,4 @@
-Ambrosiella clodiensis (Sacc.) Mussat SPECIES
-=======
+# Ambrosiella clodiensis (Sacc.) Mussat SPECIES
 
 #### Status
 ACCEPTED

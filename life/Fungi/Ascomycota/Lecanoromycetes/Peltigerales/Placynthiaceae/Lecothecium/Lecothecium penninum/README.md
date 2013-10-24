@@ -1,5 +1,4 @@
-Lecothecium penninum (Schaer.) Arnold SPECIES
-=======
+# Lecothecium penninum (Schaer.) Arnold SPECIES
 
 #### Status
 ACCEPTED

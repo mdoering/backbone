@@ -1,5 +1,4 @@
-Sphaeria scabiens Ces. SPECIES
-=======
+# Sphaeria scabiens Ces. SPECIES
 
 #### Status
 ACCEPTED

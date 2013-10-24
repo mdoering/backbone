@@ -1,5 +1,4 @@
-Steinella Cépède, 1910 GENUS
-=======
+# Steinella Cépède, 1910 GENUS
 
 #### Status
 ACCEPTED

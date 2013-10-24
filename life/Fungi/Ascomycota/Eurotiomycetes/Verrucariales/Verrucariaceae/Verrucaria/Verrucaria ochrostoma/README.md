@@ -1,14 +1,13 @@
-Verrucaria cataleptoides var. ochrostoma (Borrer ex Leight.) Servít VARIETY
-=======
+# Verrucaria ochrostoma Borrer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lich. helv. spicil. 7: 347 (1836)
 
 #### Original name
 Verrucaria ochrostoma Borrer

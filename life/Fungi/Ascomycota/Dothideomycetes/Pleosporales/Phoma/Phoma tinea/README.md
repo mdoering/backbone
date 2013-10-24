@@ -1,5 +1,4 @@
-Phoma tinea SPECIES
-=======
+# Phoma tinea SPECIES
 
 #### Status
 ACCEPTED

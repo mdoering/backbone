@@ -1,5 +1,4 @@
-Uredo clavo J.F. Hennen & J.W. McCain SPECIES
-=======
+# Uredo clavo J.F. Hennen & J.W. McCain SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septobasidium atratum Pat. SPECIES
-=======
+# Septobasidium atratum Pat. SPECIES
 
 #### Status
 ACCEPTED

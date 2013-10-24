@@ -1,5 +1,4 @@
-Trypethelium pringlei Eckfeldt SPECIES
-=======
+# Trypethelium pringlei Eckfeldt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Klebsiella aerogenes SPECIES
-=======
+# Klebsiella aerogenes SPECIES
 
 #### Status
 ACCEPTED

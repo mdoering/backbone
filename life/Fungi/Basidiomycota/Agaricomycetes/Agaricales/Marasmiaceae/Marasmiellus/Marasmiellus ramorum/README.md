@@ -1,5 +1,4 @@
-Marasmiellus ramorum Singer SPECIES
-=======
+# Marasmiellus ramorum Singer SPECIES
 
 #### Status
 ACCEPTED

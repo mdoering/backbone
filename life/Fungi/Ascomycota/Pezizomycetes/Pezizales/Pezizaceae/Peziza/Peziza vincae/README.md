@@ -1,5 +1,4 @@
-Peziza vincae Lib. SPECIES
-=======
+# Peziza vincae Lib. SPECIES
 
 #### Status
 ACCEPTED

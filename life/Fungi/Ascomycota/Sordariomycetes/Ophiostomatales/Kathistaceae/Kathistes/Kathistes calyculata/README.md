@@ -1,5 +1,4 @@
-Kathistes calyculata Malloch & M. Blackw., 1990 SPECIES
-=======
+# Kathistes calyculata Malloch & M. Blackw., 1990 SPECIES
 
 #### Status
 ACCEPTED

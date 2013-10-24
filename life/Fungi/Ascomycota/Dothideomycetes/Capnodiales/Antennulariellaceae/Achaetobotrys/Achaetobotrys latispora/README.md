@@ -1,5 +1,4 @@
-Achaetobotrys latispora M.E. Barr & Rogerson SPECIES
-=======
+# Achaetobotrys latispora M.E. Barr & Rogerson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bovista sclerocystis Calonge, Kreisel & Guzmán SPECIES
-=======
+# Bovista sclerocystis Calonge, Kreisel & Guzmán SPECIES
 
 #### Status
 ACCEPTED

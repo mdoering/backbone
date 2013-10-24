@@ -1,5 +1,4 @@
-Ramaricium occultum J. Erikss., 1954 SPECIES
-=======
+# Ramaricium occultum J. Erikss., 1954 SPECIES
 
 #### Status
 ACCEPTED

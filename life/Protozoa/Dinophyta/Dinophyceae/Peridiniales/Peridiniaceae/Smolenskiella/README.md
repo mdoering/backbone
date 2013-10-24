@@ -1,5 +1,4 @@
-Smolenskiella T.F. Vozzhennikova, 1967 GENUS
-=======
+# Smolenskiella T.F. Vozzhennikova, 1967 GENUS
 
 #### Status
 ACCEPTED

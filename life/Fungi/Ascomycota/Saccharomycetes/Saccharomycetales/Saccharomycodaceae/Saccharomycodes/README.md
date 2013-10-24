@@ -1,17 +1,16 @@
-Saeenkia Kudrjanzev GENUS
-=======
+# Saccharomycodes E.C. Hansen, 1904 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bot. Mater. Otd. Sporov. Rast. Bot. Inst. Komarova Akad. Nauk S. S. S. R. 13: 150 (1960)
+null
 
 #### Original name
-Saeenkia Kudrjanzev
+null
 
 ### Remarks
 null

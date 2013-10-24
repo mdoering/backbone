@@ -1,5 +1,4 @@
-Lasionectria cannae Speg. SPECIES
-=======
+# Lasionectria cannae Speg. SPECIES
 
 #### Status
 ACCEPTED

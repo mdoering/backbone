@@ -1,5 +1,4 @@
-Stilbum incarnatum Jungh. SPECIES
-=======
+# Stilbum incarnatum Jungh. SPECIES
 
 #### Status
 ACCEPTED

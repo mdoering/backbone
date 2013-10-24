@@ -1,5 +1,4 @@
-Parmelia peliocypha Wahlenb. SPECIES
-=======
+# Parmelia peliocypha Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cornularia persicae (Schwein.) Sacc. SPECIES
-=======
+# Cornularia persicae (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

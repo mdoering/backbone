@@ -1,5 +1,4 @@
-Stagonospora andropogonis Castell. & Germano SPECIES
-=======
+# Stagonospora andropogonis Castell. & Germano SPECIES
 
 #### Status
 ACCEPTED

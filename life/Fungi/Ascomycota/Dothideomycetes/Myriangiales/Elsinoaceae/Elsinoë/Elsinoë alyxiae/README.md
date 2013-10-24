@@ -1,5 +1,4 @@
-Elsinoë alyxiae A.M.J. Watson & Jenkins SPECIES
-=======
+# Elsinoë alyxiae A.M.J. Watson & Jenkins SPECIES
 
 #### Status
 ACCEPTED

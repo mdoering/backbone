@@ -1,5 +1,4 @@
-Periolopsis helicochaeta Maire SPECIES
-=======
+# Periolopsis helicochaeta Maire SPECIES
 
 #### Status
 ACCEPTED

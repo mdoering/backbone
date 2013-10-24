@@ -1,5 +1,4 @@
-Dermocystidium salmonis H.S. Davis SPECIES
-=======
+# Dermocystidium salmonis H.S. Davis SPECIES
 
 #### Status
 ACCEPTED

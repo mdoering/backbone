@@ -1,5 +1,4 @@
-Paratalaromyces Matsush. GENUS
-=======
+# Paratalaromyces Matsush. GENUS
 
 #### Status
 ACCEPTED

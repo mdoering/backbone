@@ -1,5 +1,4 @@
-Aulacodiscus argus (Ehrenberg) A. Schmidt SPECIES
-=======
+# Aulacodiscus argus (Ehrenberg) A. Schmidt SPECIES
 
 #### Status
 ACCEPTED

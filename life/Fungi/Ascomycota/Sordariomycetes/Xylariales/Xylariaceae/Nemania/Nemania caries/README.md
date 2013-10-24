@@ -1,14 +1,13 @@
-Hypoxylon caries (Schwein.) Sacc., 1882 SPECIES
-=======
+# Nemania caries (Schwein.) Y.M. Ju & J.D. Rogers, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 1: 393 (1882)
+Nova Hedwigia 74(1-2): 90 (2002)
 
 #### Original name
 Sphaeria caries Schwein., 1832

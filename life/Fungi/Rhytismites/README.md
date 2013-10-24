@@ -1,5 +1,4 @@
-Rhytismites Mesch. GENUS
-=======
+# Rhytismites Mesch. GENUS
 
 #### Status
 ACCEPTED

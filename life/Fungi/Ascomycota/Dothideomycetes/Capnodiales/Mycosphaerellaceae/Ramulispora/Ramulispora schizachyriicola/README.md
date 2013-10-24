@@ -1,5 +1,4 @@
-Ramulispora schizachyriicola U. Braun SPECIES
-=======
+# Ramulispora schizachyriicola U. Braun SPECIES
 
 #### Status
 ACCEPTED

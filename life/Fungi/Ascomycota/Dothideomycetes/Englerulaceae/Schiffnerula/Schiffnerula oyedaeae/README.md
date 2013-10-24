@@ -1,5 +1,4 @@
-Schiffnerula oyedaeae Syd. SPECIES
-=======
+# Schiffnerula oyedaeae Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula kathmanduensis Adhikari SPECIES
-=======
+# Russula kathmanduensis Adhikari SPECIES
 
 #### Status
 ACCEPTED

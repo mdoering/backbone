@@ -1,5 +1,4 @@
-Huilia albuginosa (Nyl.) Asta & Cl. Roux SPECIES
-=======
+# Huilia albuginosa (Nyl.) Asta & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

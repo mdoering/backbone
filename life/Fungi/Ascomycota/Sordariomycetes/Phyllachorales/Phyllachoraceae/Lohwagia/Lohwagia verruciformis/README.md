@@ -1,5 +1,4 @@
-Lohwagia verruciformis Petr., 1955 SPECIES
-=======
+# Lohwagia verruciformis Petr., 1955 SPECIES
 
 #### Status
 ACCEPTED

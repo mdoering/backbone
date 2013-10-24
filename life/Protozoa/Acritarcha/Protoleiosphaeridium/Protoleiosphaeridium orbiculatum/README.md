@@ -1,5 +1,4 @@
-Protoleiosphaeridium orbiculatum Staplin, 1961 SPECIES
-=======
+# Protoleiosphaeridium orbiculatum Staplin, 1961 SPECIES
 
 #### Status
 ACCEPTED

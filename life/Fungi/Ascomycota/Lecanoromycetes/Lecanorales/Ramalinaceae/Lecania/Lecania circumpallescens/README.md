@@ -1,5 +1,4 @@
-Lecania circumpallescens (Nyl.) Kotlov SPECIES
-=======
+# Lecania circumpallescens (Nyl.) Kotlov SPECIES
 
 #### Status
 ACCEPTED

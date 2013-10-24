@@ -1,5 +1,4 @@
-Hydnum concentricum anon. SPECIES
-=======
+# Hydnum concentricum anon. SPECIES
 
 #### Status
 ACCEPTED

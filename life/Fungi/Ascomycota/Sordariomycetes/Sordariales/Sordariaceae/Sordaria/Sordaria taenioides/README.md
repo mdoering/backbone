@@ -1,5 +1,4 @@
-Sordaria taenioides (Griffiths) Sacc. & D. Sacc. SPECIES
-=======
+# Sordaria taenioides (Griffiths) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

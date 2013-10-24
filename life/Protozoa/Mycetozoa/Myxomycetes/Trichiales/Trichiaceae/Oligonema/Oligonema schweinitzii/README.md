@@ -1,17 +1,16 @@
-Trichia nitens var. nitens Lib. VARIETY
-=======
+# Oligonema schweinitzii (Berk.) G.W. Martin, 1947 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pl. crypt. Arduenna (Liège), fasc. 277 (1834)
+Mycologia 39(4): 460 (1947)
 
 #### Original name
-Trichia nitens var. nitens Lib.
+Physarum schweinitzii Berk., 1873
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Boletus decurrens Schumach. SPECIES
-=======
+# Boletus decurrens Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina microtropidicola Hosag., C.K. Biju & D.K. Agarwal SPECIES
-=======
+# Asterina microtropidicola Hosag., C.K. Biju & D.K. Agarwal SPECIES
 
 #### Status
 ACCEPTED

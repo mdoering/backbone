@@ -1,5 +1,4 @@
-Marasmius lacteoides Antonín SPECIES
-=======
+# Marasmius lacteoides Antonín SPECIES
 
 #### Status
 ACCEPTED

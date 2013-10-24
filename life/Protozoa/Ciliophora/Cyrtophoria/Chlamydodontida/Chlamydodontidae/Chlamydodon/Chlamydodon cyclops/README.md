@@ -1,5 +1,4 @@
-Chlamydodon cyclops Entz, 1884 SPECIES
-=======
+# Chlamydodon cyclops Entz, 1884 SPECIES
 
 #### Status
 ACCEPTED

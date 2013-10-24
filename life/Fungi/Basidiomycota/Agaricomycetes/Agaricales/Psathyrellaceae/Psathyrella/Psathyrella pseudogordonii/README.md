@@ -1,5 +1,4 @@
-Psathyrella pseudogordonii Kits van Wav., 1985 SPECIES
-=======
+# Psathyrella pseudogordonii Kits van Wav., 1985 SPECIES
 
 #### Status
 ACCEPTED

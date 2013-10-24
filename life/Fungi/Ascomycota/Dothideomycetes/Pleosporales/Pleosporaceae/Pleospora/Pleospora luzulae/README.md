@@ -1,5 +1,4 @@
-Pleospora luzulae E. Müll. SPECIES
-=======
+# Pleospora luzulae E. Müll. SPECIES
 
 #### Status
 ACCEPTED

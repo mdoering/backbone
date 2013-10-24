@@ -1,5 +1,4 @@
-Perispira ovum Stein, 1859 SPECIES
-=======
+# Perispira ovum Stein, 1859 SPECIES
 
 #### Status
 ACCEPTED

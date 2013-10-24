@@ -1,17 +1,16 @@
-Plectodiscella Woron. GENUS
-=======
+# Elsinoë Racib. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mykol. Zentbl. 4: 232 (1914)
+Parasit. Alg. Pilze Java's (Jakarta) 1: 14 (1900)
 
 #### Original name
-Plectodiscella Woron.
+Elsinoë Racib.
 
 ### Remarks
 null

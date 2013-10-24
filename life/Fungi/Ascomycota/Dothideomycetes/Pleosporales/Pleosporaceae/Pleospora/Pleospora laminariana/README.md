@@ -1,5 +1,4 @@
-Pleospora laminariana G.K. Sutherl., 1916 SPECIES
-=======
+# Pleospora laminariana G.K. Sutherl., 1916 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Monochaetia rosenwaldia Khaz. SPECIES
-=======
+# Monochaetia rosenwaldii Khaz. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Monochaetia rosenwaldia Khaz.
+Monochaetia rosenwaldii Khaz.
 
 ### Remarks
 null

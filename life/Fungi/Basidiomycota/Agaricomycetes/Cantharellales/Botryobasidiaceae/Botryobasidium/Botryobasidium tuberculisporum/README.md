@@ -1,5 +1,4 @@
-Botryobasidium tuberculisporum G. Langer, 1994 SPECIES
-=======
+# Botryobasidium tuberculisporum G. Langer, 1994 SPECIES
 
 #### Status
 ACCEPTED

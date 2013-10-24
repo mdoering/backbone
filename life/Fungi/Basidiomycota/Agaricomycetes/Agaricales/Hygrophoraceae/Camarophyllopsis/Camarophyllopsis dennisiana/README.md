@@ -1,17 +1,16 @@
-Aeruginospora dennisiana (Singer) Singer, 1962 SPECIES
-=======
+# Camarophyllopsis dennisiana (Singer) Arnolds, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 15: 46 (1962)
+Mycotaxon 25(2): 642 (1986)
 
 #### Original name
-Hygrophorus dennisianus (Singer) Hesler & A.H. Sm., 1963
+Hygrotrama dennisianum Singer, 1959
 
 ### Remarks
 null

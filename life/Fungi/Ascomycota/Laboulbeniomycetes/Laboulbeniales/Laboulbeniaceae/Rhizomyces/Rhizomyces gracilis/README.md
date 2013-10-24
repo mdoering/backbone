@@ -1,5 +1,4 @@
-Rhizomyces gracilis Thaxt., 1918 SPECIES
-=======
+# Rhizomyces gracilis Thaxt., 1918 SPECIES
 
 #### Status
 ACCEPTED

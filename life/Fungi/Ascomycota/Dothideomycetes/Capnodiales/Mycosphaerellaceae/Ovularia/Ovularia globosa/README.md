@@ -1,5 +1,4 @@
-Ovularia globosa Golovin SPECIES
-=======
+# Ovularia globosa Golovin SPECIES
 
 #### Status
 ACCEPTED

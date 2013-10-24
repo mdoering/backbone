@@ -1,5 +1,4 @@
-Phomopsis vincentiana (Speg.) M.T. Lucas & Sousa da Câmara SPECIES
-=======
+# Phomopsis vincentiana (Speg.) M.T. Lucas & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

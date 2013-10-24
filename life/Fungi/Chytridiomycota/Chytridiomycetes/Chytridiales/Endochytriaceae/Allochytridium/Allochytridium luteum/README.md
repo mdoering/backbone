@@ -1,5 +1,4 @@
-Allochytridium luteum D.J.S. Barr & Désauln., 1987 SPECIES
-=======
+# Allochytridium luteum D.J.S. Barr & Désauln., 1987 SPECIES
 
 #### Status
 ACCEPTED

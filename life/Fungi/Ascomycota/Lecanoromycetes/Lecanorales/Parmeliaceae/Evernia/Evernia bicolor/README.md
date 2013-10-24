@@ -1,5 +1,4 @@
-Evernia bicolor (Ehrh.) Fr. SPECIES
-=======
+# Evernia bicolor (Ehrh.) Fr. SPECIES
 
 #### Status
 ACCEPTED

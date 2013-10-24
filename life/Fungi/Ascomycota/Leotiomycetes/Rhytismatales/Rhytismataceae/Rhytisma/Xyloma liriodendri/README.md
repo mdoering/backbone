@@ -1,5 +1,4 @@
-Xyloma liriodendri Wallr. SPECIES
-=======
+# Xyloma liriodendri Wallr. SPECIES
 
 #### Status
 ACCEPTED

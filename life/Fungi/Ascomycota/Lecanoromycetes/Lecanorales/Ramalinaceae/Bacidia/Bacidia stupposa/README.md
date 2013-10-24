@@ -1,5 +1,4 @@
-Bacidia stupposa (A. Massal.) Zahlbr. SPECIES
-=======
+# Bacidia stupposa (A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

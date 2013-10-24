@@ -1,5 +1,4 @@
-Protomyces pahchydermus Thüm. SPECIES
-=======
+# Protomyces pahchydermus Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetopeltiopsis sasae Hara SPECIES
-=======
+# Chaetopeltiopsis sasae Hara SPECIES
 
 #### Status
 ACCEPTED

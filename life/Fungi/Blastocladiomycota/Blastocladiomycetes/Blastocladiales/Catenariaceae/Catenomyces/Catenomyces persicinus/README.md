@@ -1,5 +1,4 @@
-Catenomyces persicinus A.M. Hanson, 1944 SPECIES
-=======
+# Catenomyces persicinus A.M. Hanson, 1944 SPECIES
 
 #### Status
 ACCEPTED

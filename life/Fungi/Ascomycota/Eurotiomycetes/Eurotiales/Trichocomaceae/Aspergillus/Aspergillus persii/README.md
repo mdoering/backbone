@@ -1,5 +1,4 @@
-Aspergillus persii A.M. Corte & Zotti, 2002 SPECIES
-=======
+# Aspergillus persii A.M. Corte & Zotti, 2002 SPECIES
 
 #### Status
 ACCEPTED

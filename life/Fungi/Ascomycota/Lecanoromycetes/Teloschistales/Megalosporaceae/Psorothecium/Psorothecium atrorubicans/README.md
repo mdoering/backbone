@@ -1,5 +1,4 @@
-Psorothecium atrorubicans var. atrorubicans Nyl. VARIETY
-=======
+# Psorothecium atrorubicans Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Psorothecium atrorubicans var. atrorubicans Nyl.
+Psorothecium atrorubicans Nyl.
 
 ### Remarks
 null

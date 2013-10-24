@@ -1,5 +1,4 @@
-Asteromella equiseti (Dobrozr.) Aa & Vanev SPECIES
-=======
+# Asteromella equiseti (Dobrozr.) Aa & Vanev SPECIES
 
 #### Status
 ACCEPTED

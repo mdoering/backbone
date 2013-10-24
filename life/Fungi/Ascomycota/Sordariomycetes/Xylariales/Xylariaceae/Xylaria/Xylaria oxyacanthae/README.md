@@ -1,5 +1,4 @@
-Xylaria oxyacanthae Tul. & C. Tul., 1863 SPECIES
-=======
+# Xylaria oxyacanthae Tul. & C. Tul., 1863 SPECIES
 
 #### Status
 ACCEPTED

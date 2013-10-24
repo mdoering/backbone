@@ -1,5 +1,4 @@
-Opegrapha maroccana Müll. Arg. SPECIES
-=======
+# Opegrapha maroccana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

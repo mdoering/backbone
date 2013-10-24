@@ -1,5 +1,4 @@
-Cercospora palustris Losa SPECIES
-=======
+# Cercospora palustris Losa SPECIES
 
 #### Status
 ACCEPTED

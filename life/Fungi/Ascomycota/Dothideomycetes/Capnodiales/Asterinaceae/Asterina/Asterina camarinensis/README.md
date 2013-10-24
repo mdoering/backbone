@@ -1,5 +1,4 @@
-Asterina camarinensis Syd. & P. Syd. SPECIES
-=======
+# Asterina camarinensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius neosessilis Singer SPECIES
-=======
+# Marasmius neosessilis Singer SPECIES
 
 #### Status
 ACCEPTED

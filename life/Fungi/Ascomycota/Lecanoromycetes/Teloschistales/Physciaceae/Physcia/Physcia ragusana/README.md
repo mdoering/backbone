@@ -1,5 +1,4 @@
-Physcia ragusana f. ragusana FORM
-=======
+# Physcia ragusana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Physcia ragusana f. ragusana
+Physcia ragusana Zahlbr.
 
 ### Remarks
 null

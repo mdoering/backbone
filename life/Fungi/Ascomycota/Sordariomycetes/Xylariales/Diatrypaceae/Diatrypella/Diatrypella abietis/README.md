@@ -1,5 +1,4 @@
-Diatrypella abietis Rostr. ex Lind SPECIES
-=======
+# Diatrypella abietis Rostr. ex Lind SPECIES
 
 #### Status
 ACCEPTED

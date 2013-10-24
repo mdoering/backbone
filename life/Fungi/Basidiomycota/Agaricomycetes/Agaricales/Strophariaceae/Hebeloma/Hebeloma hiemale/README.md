@@ -1,14 +1,13 @@
-Hebelomatis hiemale (Bres.) Locq., 1979 SPECIES
-=======
+# Hebeloma hiemale Bres., 1892 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Mycol. , 3. Cortinariales-A. 146 (1979)
+Fung. trident. 2(11-13): 52 (1892)
 
 #### Original name
 Hebeloma hiemale Bres., 1892

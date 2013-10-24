@@ -1,5 +1,4 @@
-Trametites A. Straus, 1950 GENUS
-=======
+# Trametites A. Straus, 1950 GENUS
 
 #### Status
 ACCEPTED

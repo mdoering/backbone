@@ -1,5 +1,4 @@
-Botrytis pannosa Ellis & Everh. SPECIES
-=======
+# Botrytis pannosa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

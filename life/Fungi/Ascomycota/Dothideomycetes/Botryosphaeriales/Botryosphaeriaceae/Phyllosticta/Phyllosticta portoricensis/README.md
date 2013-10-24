@@ -1,5 +1,4 @@
-Phyllosticta portoricensis E. Young SPECIES
-=======
+# Phyllosticta portoricensis E. Young SPECIES
 
 #### Status
 ACCEPTED

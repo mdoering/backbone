@@ -1,5 +1,4 @@
-Phaeophleospora toledana Crous & Bills SPECIES
-=======
+# Phaeophleospora toledana Crous & Bills SPECIES
 
 #### Status
 ACCEPTED

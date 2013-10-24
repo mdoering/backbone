@@ -1,5 +1,4 @@
-Chrysomyxa tsugae-yunnanensis Teng SPECIES
-=======
+# Chrysomyxa tsugae-yunnanensis Teng SPECIES
 
 #### Status
 ACCEPTED

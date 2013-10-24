@@ -1,5 +1,4 @@
-Tropidoscyphus caudatus Skuja SPECIES
-=======
+# Tropidoscyphus caudatus Skuja SPECIES
 
 #### Status
 ACCEPTED

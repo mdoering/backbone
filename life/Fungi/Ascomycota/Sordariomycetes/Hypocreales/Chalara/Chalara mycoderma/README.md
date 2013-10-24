@@ -1,5 +1,4 @@
-Chalara mycoderma Bonord. SPECIES
-=======
+# Chalara mycoderma Bonord. SPECIES
 
 #### Status
 ACCEPTED

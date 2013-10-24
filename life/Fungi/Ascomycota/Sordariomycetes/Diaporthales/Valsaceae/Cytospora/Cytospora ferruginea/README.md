@@ -1,5 +1,4 @@
-Cytospora ferruginea var. ferruginea VARIETY
-=======
+# Cytospora ferruginea Desm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cytospora ferruginea var. ferruginea
+Cytospora ferruginea Desm.
 
 ### Remarks
 null

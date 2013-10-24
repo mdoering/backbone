@@ -1,5 +1,4 @@
-Usnea leucina Motyka SPECIES
-=======
+# Usnea leucina Motyka SPECIES
 
 #### Status
 ACCEPTED

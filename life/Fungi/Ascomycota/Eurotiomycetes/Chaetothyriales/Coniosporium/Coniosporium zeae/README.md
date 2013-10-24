@@ -1,5 +1,4 @@
-Coniosporium zeae Opiz SPECIES
-=======
+# Coniosporium zeae Opiz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleochaeta indica N. Ahmad, A.K. Sarbhoy & Kamal SPECIES
-=======
+# Pleochaeta indica N. Ahmad, A.K. Sarbhoy & Kamal SPECIES
 
 #### Status
 ACCEPTED

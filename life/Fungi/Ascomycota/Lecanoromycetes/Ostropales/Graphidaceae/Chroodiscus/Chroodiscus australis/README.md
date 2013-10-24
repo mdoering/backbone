@@ -1,8 +1,7 @@
-Chroodiscus australis subsp. australis Kantvilas & Vezda SUBSPECIES
-=======
+# Chroodiscus australis Kantvilas & Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 Lichenologist 32(4): 331 (2000)
 
 #### Original name
-Chroodiscus australis subsp. australis Kantvilas & Vezda
+Chroodiscus australis Kantvilas & Vezda
 
 ### Remarks
 null

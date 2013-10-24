@@ -1,5 +1,4 @@
-Microthelia spatharum (G. Winter) Kuntze SPECIES
-=======
+# Microthelia spatharum (G. Winter) Kuntze SPECIES
 
 #### Status
 ACCEPTED

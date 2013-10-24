@@ -1,8 +1,7 @@
-Geaster rabenhorstii Kunze SPECIES
-=======
+# Geastrum rabenhorstii Kunze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster rabenhorstii Kunze
+Geastrum rabenhorstii Kunze
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Erinella discolor Mouton SPECIES
-=======
+# Erinella discolor Mouton SPECIES
 
 #### Status
 ACCEPTED

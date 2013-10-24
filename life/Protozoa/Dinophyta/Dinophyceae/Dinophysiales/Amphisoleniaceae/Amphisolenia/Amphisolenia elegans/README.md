@@ -1,5 +1,4 @@
-Amphisolenia elegans Boehm, 1933 SPECIES
-=======
+# Amphisolenia elegans Boehm, 1933 SPECIES
 
 #### Status
 ACCEPTED

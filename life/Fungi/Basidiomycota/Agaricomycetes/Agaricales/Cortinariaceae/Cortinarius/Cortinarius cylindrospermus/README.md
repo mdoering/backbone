@@ -1,5 +1,4 @@
-Cortinarius cylindrospermus M.M. Moser SPECIES
-=======
+# Cortinarius cylindrospermus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

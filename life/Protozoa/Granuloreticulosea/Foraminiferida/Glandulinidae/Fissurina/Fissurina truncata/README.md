@@ -1,5 +1,4 @@
-Fissurina truncata (Brady, 1884) SPECIES
-=======
+# Fissurina truncata (Brady, 1884) SPECIES
 
 #### Status
 ACCEPTED

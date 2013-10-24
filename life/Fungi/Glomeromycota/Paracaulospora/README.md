@@ -1,5 +1,4 @@
-Paracaulospora S.P. Gautam & U.S. Patel GENUS
-=======
+# Paracaulospora S.P. Gautam & U.S. Patel GENUS
 
 #### Status
 ACCEPTED

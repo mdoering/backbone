@@ -1,5 +1,4 @@
-Lecanophrya truncata (Collin, 1909) Kahl, 1934 SPECIES
-=======
+# Lecanophrya truncata (Collin, 1909) Kahl, 1934 SPECIES
 
 #### Status
 ACCEPTED

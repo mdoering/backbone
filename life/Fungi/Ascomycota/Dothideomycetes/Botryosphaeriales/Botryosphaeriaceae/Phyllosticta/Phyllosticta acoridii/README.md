@@ -1,5 +1,4 @@
-Phyllosticta acoridii Henn. SPECIES
-=======
+# Phyllosticta acoridii Henn. SPECIES
 
 #### Status
 ACCEPTED

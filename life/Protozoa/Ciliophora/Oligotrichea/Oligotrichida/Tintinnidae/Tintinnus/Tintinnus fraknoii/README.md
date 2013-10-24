@@ -1,5 +1,4 @@
-Tintinnus fraknoii Daday, 1887 SPECIES
-=======
+# Tintinnus fraknoii Daday, 1887 SPECIES
 
 #### Status
 ACCEPTED

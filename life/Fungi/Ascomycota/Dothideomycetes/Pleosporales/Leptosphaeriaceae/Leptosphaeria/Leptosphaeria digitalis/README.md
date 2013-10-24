@@ -1,5 +1,4 @@
-Leptosphaeria digitalis (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Leptosphaeria digitalis (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnum laeve Velen. SPECIES
-=======
+# Lachnum laeve Velen. SPECIES
 
 #### Status
 ACCEPTED

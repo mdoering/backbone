@@ -1,14 +1,13 @@
-Hysterium graphicum Fr., 1815 SPECIES
-=======
+# Glonium graphicum (Fr.) Duby, 1862 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Observ. mycol. (Havniae) 1: 194 (1815)
+Mém. Soc. Phys. Hist. nat. Genève 16(1): 35 (1862)
 
 #### Original name
 Hysterium graphicum Fr., 1815

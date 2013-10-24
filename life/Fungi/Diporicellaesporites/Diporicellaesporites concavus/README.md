@@ -1,5 +1,4 @@
-Diporicellaesporites concavus P. Kumar SPECIES
-=======
+# Diporicellaesporites concavus P. Kumar SPECIES
 
 #### Status
 ACCEPTED

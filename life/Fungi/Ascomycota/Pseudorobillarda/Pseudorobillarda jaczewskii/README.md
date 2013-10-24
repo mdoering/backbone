@@ -1,14 +1,13 @@
-Robillarda jaczewskii Girz., 1927 SPECIES
-=======
+# Pseudorobillarda jaczewskii (Girz.) Nag Raj, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Jard. Bot. Kieff, V-VI 166 (1927)
+Coelomycetous Anamorphs with Appendage-bearing Conidia (Ontario) 740 (1993)
 
 #### Original name
 Robillarda jaczewskii Girz., 1927

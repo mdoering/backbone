@@ -1,5 +1,4 @@
-Lecanora pleiophora Nyl. SPECIES
-=======
+# Lecanora pleiophora Nyl. SPECIES
 
 #### Status
 ACCEPTED

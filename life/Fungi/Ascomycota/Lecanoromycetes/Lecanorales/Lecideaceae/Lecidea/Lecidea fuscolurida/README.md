@@ -1,5 +1,4 @@
-Lecidea fuscolurida Vain. SPECIES
-=======
+# Lecidea fuscolurida Vain. SPECIES
 
 #### Status
 ACCEPTED

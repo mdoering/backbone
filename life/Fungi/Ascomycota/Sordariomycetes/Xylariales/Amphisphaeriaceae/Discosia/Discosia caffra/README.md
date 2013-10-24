@@ -1,17 +1,16 @@
-Discosia caffera Matsush. SPECIES
-=======
+# Discosia caffra Matsush. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Matsush. Mycol. Mem. 9: 9 (1996)
 
 #### Original name
-Discosia caffera Matsush.
+Discosia caffra Matsush.
 
 ### Remarks
 null

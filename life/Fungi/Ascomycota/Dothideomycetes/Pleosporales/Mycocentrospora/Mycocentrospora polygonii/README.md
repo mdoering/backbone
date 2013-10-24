@@ -1,5 +1,4 @@
-Mycocentrospora polygonii K. Srivast. & A.K. Srivast. SPECIES
-=======
+# Mycocentrospora polygonii K. Srivast. & A.K. Srivast. SPECIES
 
 #### Status
 ACCEPTED

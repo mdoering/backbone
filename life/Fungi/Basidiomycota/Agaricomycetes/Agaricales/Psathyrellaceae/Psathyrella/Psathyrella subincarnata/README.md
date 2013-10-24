@@ -1,5 +1,4 @@
-Psathyrella subincarnata A.H. Sm. SPECIES
-=======
+# Psathyrella subincarnata A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

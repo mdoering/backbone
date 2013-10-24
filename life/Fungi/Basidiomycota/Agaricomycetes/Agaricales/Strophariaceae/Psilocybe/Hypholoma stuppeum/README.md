@@ -1,5 +1,4 @@
-Hypholoma stuppeum Berk. SPECIES
-=======
+# Hypholoma stuppeum Berk. SPECIES
 
 #### Status
 ACCEPTED

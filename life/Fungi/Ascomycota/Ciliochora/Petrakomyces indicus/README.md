@@ -1,5 +1,4 @@
-Petrakomyces indicus Subram. & K. Ramakr. SPECIES
-=======
+# Petrakomyces indicus Subram. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

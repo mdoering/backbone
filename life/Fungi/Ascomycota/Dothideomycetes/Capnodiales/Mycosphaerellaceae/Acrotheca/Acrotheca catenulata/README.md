@@ -1,5 +1,4 @@
-Acrotheca catenulata Fautrey SPECIES
-=======
+# Acrotheca catenulata Fautrey SPECIES
 
 #### Status
 ACCEPTED

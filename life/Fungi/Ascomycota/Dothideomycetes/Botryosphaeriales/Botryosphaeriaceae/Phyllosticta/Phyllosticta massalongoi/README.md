@@ -1,5 +1,4 @@
-Phyllosticta massalongoi (Speg.) Allesch. SPECIES
-=======
+# Phyllosticta massalongoi (Speg.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

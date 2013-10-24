@@ -1,5 +1,4 @@
-Crocynia scotica B. de Lesd. SPECIES
-=======
+# Crocynia scotica B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

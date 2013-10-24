@@ -1,5 +1,4 @@
-Hendersonia socia McAlpine SPECIES
-=======
+# Hendersonia socia McAlpine SPECIES
 
 #### Status
 ACCEPTED

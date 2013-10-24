@@ -1,5 +1,4 @@
-Spongiophrya Yankovskii, 1978 GENUS
-=======
+# Spongiophrya Yankovskii, 1978 GENUS
 
 #### Status
 ACCEPTED

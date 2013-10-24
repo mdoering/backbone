@@ -1,5 +1,4 @@
-Cordyceps baumanniana Henn. SPECIES
-=======
+# Cordyceps baumanniana Henn. SPECIES
 
 #### Status
 ACCEPTED

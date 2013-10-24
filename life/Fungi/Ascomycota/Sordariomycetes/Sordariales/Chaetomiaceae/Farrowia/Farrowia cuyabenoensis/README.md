@@ -1,5 +1,4 @@
-Farrowia cuyabenoensis (Decock & Hennebert) D. Hawksw. SPECIES
-=======
+# Farrowia cuyabenoensis (Decock & Hennebert) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

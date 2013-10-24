@@ -1,5 +1,4 @@
-Aecidium schwabeae Pat. & Har. SPECIES
-=======
+# Aecidium schwabeae Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

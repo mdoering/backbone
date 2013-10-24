@@ -1,5 +1,4 @@
-Allocyrtium Afanasjeva, 1986 GENUS
-=======
+# Allocyrtium Afanasjeva, 1986 GENUS
 
 #### Status
 ACCEPTED

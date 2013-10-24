@@ -1,5 +1,4 @@
-Ojibwaya B. Sutton GENUS
-=======
+# Ojibwaya B. Sutton GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sagedia verrucarioides Lam. SPECIES
-=======
+# Sagedia verrucarioides Lam. SPECIES
 
 #### Status
 ACCEPTED

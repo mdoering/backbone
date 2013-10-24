@@ -1,5 +1,4 @@
-Polyporus epixanthus Rostk. SPECIES
-=======
+# Polyporus epixanthus Rostk. SPECIES
 
 #### Status
 ACCEPTED

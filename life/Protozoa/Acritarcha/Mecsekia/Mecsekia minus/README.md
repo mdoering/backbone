@@ -1,5 +1,4 @@
-Mecsekia minus (Takahashi, 1964) Schrank, 2003 SPECIES
-=======
+# Mecsekia minus (Takahashi, 1964) Schrank, 2003 SPECIES
 
 #### Status
 ACCEPTED

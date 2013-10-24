@@ -1,5 +1,4 @@
-Papulosporonites siwalikus (R.K. Saxena & A.P. Bhattach.) Kalgutkar & Janson. SPECIES
-=======
+# Papulosporonites siwalikus (R.K. Saxena & A.P. Bhattach.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

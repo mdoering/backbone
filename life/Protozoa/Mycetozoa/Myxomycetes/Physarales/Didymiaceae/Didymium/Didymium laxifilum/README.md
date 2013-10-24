@@ -1,17 +1,16 @@
-Didymium laxifila G. Lister & J. Ross SPECIES
-=======
+# Didymium laxifilum G. Lister & J. Ross, 1945 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Lister, Essex Naturalist 27(10): 264 (1943)
 
 #### Original name
-Didymium laxifila G. Lister & J. Ross
+Didymium laxifilum G. Lister & J. Ross, 1945
 
 ### Remarks
 null

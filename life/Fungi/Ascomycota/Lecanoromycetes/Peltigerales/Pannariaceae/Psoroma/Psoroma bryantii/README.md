@@ -1,5 +1,4 @@
-Psoroma bryantii C.W. Dodge SPECIES
-=======
+# Psoroma bryantii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

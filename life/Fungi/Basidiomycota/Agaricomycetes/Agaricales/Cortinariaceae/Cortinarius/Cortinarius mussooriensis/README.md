@@ -1,5 +1,4 @@
-Cortinarius mussooriensis Rawla SPECIES
-=======
+# Cortinarius mussooriensis Rawla SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnum lunatum W.Y. Zhuang & Spooner SPECIES
-=======
+# Lachnum lunatum W.Y. Zhuang & Spooner SPECIES
 
 #### Status
 ACCEPTED

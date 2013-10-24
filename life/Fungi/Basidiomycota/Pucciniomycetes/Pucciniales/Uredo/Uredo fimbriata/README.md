@@ -1,5 +1,4 @@
-Uredo fimbriata Speg. SPECIES
-=======
+# Uredo fimbriata Speg. SPECIES
 
 #### Status
 ACCEPTED

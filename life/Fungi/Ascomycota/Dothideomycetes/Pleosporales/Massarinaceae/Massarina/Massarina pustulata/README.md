@@ -1,5 +1,4 @@
-Massarina pustulata I. Hino & Katum. SPECIES
-=======
+# Massarina pustulata I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

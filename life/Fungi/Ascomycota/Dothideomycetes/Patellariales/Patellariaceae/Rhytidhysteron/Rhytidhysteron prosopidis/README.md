@@ -1,17 +1,16 @@
-Rhytidhysterium prosopidis Peck SPECIES
-=======
+# Rhytidhysteron prosopidis Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Rep. N. Y. St. Mus. 46: 119 [reprint page 39] (1894)
 
 #### Original name
-Rhytidhysterium prosopidis Peck
+Rhytidhysteron prosopidis Peck
 
 ### Remarks
 null

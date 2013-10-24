@@ -1,5 +1,4 @@
-Asterina clematidis Hansf. SPECIES
-=======
+# Asterina clematidis Hansf. SPECIES
 
 #### Status
 ACCEPTED

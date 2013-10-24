@@ -1,5 +1,4 @@
-Didymosphaeria paeoniae Sandu SPECIES
-=======
+# Didymosphaeria paeoniae Sandu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corethromyces bruchii Speg. SPECIES
-=======
+# Corethromyces bruchii Speg. SPECIES
 
 #### Status
 ACCEPTED

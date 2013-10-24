@@ -1,5 +1,4 @@
-Polystomammina Seiglie, 1965 GENUS
-=======
+# Polystomammina Seiglie, 1965 GENUS
 
 #### Status
 ACCEPTED

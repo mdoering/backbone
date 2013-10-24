@@ -1,5 +1,4 @@
-Diatrype buteae M.S. Patil & S.D. Patil SPECIES
-=======
+# Diatrype buteae M.S. Patil & S.D. Patil SPECIES
 
 #### Status
 ACCEPTED

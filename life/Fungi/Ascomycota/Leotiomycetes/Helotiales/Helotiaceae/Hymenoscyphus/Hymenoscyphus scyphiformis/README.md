@@ -1,5 +1,4 @@
-Hymenoscyphus scyphiformis (Wallr.) Kuntze SPECIES
-=======
+# Hymenoscyphus scyphiformis (Wallr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

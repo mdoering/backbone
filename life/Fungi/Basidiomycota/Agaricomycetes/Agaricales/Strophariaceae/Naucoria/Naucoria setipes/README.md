@@ -1,5 +1,4 @@
-Naucoria setipes Hruby SPECIES
-=======
+# Naucoria setipes Hruby SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptopterygium gracilentum Zahlbr. SPECIES
-=======
+# Leptopterygium gracilentum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

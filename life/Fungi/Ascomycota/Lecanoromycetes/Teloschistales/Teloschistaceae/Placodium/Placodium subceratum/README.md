@@ -1,5 +1,4 @@
-Placodium subceratum (Stizenb.) Vain. SPECIES
-=======
+# Placodium subceratum (Stizenb.) Vain. SPECIES
 
 #### Status
 ACCEPTED

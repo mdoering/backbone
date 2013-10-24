@@ -1,5 +1,4 @@
-Placidia Moriya, Nakayama & Inouye, 2002 GENUS
-=======
+# Placidia Moriya, Nakayama & Inouye, 2002 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyclostomella theissenii (Rick) Inácio & P.F. Cannon SPECIES
-=======
+# Cyclostomella theissenii (Rick) Inácio & P.F. Cannon SPECIES
 
 #### Status
 ACCEPTED

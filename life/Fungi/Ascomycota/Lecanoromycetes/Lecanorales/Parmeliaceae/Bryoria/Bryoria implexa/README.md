@@ -1,17 +1,16 @@
-Bryopogon pseudofuscescens (Gyeln.) Gyeln. SPECIES
-=======
+# Bryoria implexa (Hoffm.) Brodo & D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Op. bot. 42: 121 (1977)
 
 #### Original name
-Alectoria pseudofuscescens Gyeln.
+Usnea jubata agg. tax
 
 ### Remarks
 null

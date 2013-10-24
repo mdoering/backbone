@@ -1,5 +1,4 @@
-Rosellinia pinicola Ellis & Everh. SPECIES
-=======
+# Rosellinia pinicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

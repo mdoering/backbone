@@ -1,5 +1,4 @@
-Plasmodiophora elaeagni J. Schröt. SPECIES
-=======
+# Plasmodiophora elaeagni J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

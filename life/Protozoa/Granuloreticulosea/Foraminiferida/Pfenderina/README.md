@@ -1,5 +1,4 @@
-Pfenderina Henson, 1948 GENUS
-=======
+# Pfenderina Henson, 1948 GENUS
 
 #### Status
 ACCEPTED

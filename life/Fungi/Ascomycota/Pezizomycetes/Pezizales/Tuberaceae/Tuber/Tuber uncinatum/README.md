@@ -1,5 +1,4 @@
-Tuber uncinatum Chatin SPECIES
-=======
+# Tuber uncinatum Chatin SPECIES
 
 #### Status
 ACCEPTED

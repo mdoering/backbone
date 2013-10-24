@@ -1,5 +1,4 @@
-Graphium curvulum Berk. & Broome SPECIES
-=======
+# Graphium curvulum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymella smilacis Ellis & Everh. SPECIES
-=======
+# Didymella smilacis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

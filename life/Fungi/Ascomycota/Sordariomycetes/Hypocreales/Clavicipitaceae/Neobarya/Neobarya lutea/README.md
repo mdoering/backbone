@@ -1,5 +1,4 @@
-Neobarya lutea Samuels & Lodge SPECIES
-=======
+# Neobarya lutea Samuels & Lodge SPECIES
 
 #### Status
 ACCEPTED

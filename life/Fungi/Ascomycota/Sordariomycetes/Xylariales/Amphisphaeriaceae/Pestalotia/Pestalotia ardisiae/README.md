@@ -1,5 +1,4 @@
-Pestalotia ardisiae Henn. SPECIES
-=======
+# Pestalotia ardisiae Henn. SPECIES
 
 #### Status
 ACCEPTED

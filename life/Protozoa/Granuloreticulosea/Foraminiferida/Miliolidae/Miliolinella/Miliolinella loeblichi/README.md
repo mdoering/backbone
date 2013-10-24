@@ -1,5 +1,4 @@
-Miliolinella loeblichi SPECIES
-=======
+# Miliolinella loeblichi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus impressus J.F. Gmel. SPECIES
-=======
+# Agaricus impressus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

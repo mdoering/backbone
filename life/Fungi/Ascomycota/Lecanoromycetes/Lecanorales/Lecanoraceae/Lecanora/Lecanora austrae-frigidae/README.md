@@ -1,5 +1,4 @@
-Lecanora austrae-frigidae Øvstedal SPECIES
-=======
+# Lecanora austrae-frigidae Øvstedal SPECIES
 
 #### Status
 ACCEPTED

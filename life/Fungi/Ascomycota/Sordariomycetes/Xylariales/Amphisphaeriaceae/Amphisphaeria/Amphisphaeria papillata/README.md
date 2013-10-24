@@ -1,5 +1,4 @@
-Amphisphaeria papillata (Schumach.) De Not. SPECIES
-=======
+# Amphisphaeria papillata (Schumach.) De Not. SPECIES
 
 #### Status
 ACCEPTED

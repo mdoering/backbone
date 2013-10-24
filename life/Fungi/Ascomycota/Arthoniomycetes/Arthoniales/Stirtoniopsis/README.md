@@ -1,5 +1,4 @@
-Stirtoniopsis Groenh. GENUS
-=======
+# Stirtoniopsis Groenh. GENUS
 
 #### Status
 ACCEPTED

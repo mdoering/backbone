@@ -1,5 +1,4 @@
-Diacheopsis minuta Nann.-Bremek. & Y. Yamam., 1990 SPECIES
-=======
+# Diacheopsis minuta Nann.-Bremek. & Y. Yamam., 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Navifusa nerutschanda Faizulina & Treshchetenkova in Nikolskii et al., 1984 SPECIES
-=======
+# Navifusa nerutschanda Faizulina & Treshchetenkova in Nikolskii et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

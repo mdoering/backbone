@@ -1,5 +1,4 @@
-Sphyridium speciosum Körb. SPECIES
-=======
+# Sphyridium speciosum Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora lapponica var. lapponica VARIETY
-=======
+# Acarospora lapponica SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula rhodomarginata Sarnari SPECIES
-=======
+# Russula rhodomarginata Sarnari SPECIES
 
 #### Status
 ACCEPTED

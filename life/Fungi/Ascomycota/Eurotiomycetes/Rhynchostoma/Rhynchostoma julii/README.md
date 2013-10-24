@@ -1,5 +1,4 @@
-Rhynchostoma julii var. julii VARIETY
-=======
+# Rhynchostoma julii Fabre SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhynchostoma julii var. julii
+Rhynchostoma julii Fabre
 
 ### Remarks
 null

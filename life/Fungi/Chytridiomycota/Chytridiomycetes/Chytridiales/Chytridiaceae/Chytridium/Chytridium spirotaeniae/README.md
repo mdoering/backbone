@@ -1,5 +1,4 @@
-Chytridium spirotaeniae Scherff. SPECIES
-=======
+# Chytridium spirotaeniae Scherff. SPECIES
 
 #### Status
 ACCEPTED

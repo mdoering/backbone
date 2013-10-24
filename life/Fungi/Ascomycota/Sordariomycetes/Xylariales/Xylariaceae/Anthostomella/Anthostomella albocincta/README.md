@@ -1,5 +1,4 @@
-Anthostomella albocincta Ellis & Everh. SPECIES
-=======
+# Anthostomella albocincta Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

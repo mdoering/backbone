@@ -1,5 +1,4 @@
-Micropuccinia parnassiae (Arthur) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia parnassiae (Arthur) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

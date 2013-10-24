@@ -1,5 +1,4 @@
-Hypoxylon multiplex (Kunze) Mont. SPECIES
-=======
+# Hypoxylon multiplex (Kunze) Mont. SPECIES
 
 #### Status
 ACCEPTED

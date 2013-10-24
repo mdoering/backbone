@@ -1,5 +1,4 @@
-Nectria impariphialis Samuels SPECIES
-=======
+# Nectria impariphialis Samuels SPECIES
 
 #### Status
 ACCEPTED

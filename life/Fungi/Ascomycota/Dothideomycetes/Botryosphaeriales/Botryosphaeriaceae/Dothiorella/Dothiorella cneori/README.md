@@ -1,5 +1,4 @@
-Dothiorella cneori (Gonz. Frag.) Petr. & Syd. SPECIES
-=======
+# Dothiorella cneori (Gonz. Frag.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

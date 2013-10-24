@@ -1,5 +1,4 @@
-Opegrapha jamaicensis F. Weber SPECIES
-=======
+# Opegrapha jamaicensis F. Weber SPECIES
 
 #### Status
 ACCEPTED

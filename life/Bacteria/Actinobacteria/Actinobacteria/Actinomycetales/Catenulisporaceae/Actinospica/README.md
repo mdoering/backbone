@@ -1,5 +1,4 @@
-Actinospica Cavaletti, Monciardini, Schumann, Rohde, Bamonte, Busti, Sosio, Donadio, 2006 GENUS
-=======
+# Actinospica Cavaletti, Monciardini, Schumann, Rohde, Bamonte, Busti, Sosio, Donadio, 2006 GENUS
 
 #### Status
 ACCEPTED

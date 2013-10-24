@@ -1,5 +1,4 @@
-Beloniella polygonati (Feltgen) Vorst. {?} SPECIES
-=======
+# Beloniella polygonati (Feltgen) Vorst. {?} SPECIES
 
 #### Status
 ACCEPTED

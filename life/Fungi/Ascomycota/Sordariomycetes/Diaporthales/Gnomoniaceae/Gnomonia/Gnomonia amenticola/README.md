@@ -1,5 +1,4 @@
-Gnomonia amenticola (Ces.) Príhoda SPECIES
-=======
+# Gnomonia amenticola (Ces.) Príhoda SPECIES
 
 #### Status
 ACCEPTED

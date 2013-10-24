@@ -1,5 +1,4 @@
-Trichoglossum octopertitum Mains SPECIES
-=======
+# Trichoglossum octopertitum Mains SPECIES
 
 #### Status
 ACCEPTED

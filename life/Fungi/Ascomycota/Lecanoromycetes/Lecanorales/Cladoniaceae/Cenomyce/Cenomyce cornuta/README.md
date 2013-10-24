@@ -1,5 +1,4 @@
-Cenomyce cornuta SPECIES
-=======
+# Cenomyce cornuta SPECIES
 
 #### Status
 ACCEPTED

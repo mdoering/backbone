@@ -1,5 +1,4 @@
-Cortinarius roblicola Garrido SPECIES
-=======
+# Cortinarius roblicola Garrido SPECIES
 
 #### Status
 ACCEPTED

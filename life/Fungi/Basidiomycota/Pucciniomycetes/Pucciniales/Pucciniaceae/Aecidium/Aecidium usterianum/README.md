@@ -1,5 +1,4 @@
-Aecidium usterianum Speg. SPECIES
-=======
+# Aecidium usterianum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria asperula Servít SPECIES
-=======
+# Verrucaria asperula Servít SPECIES
 
 #### Status
 ACCEPTED

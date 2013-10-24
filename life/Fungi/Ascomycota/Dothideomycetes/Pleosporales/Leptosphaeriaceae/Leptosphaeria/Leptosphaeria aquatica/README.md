@@ -1,5 +1,4 @@
-Leptosphaeria aquatica Tilak & R.L. Kulk. SPECIES
-=======
+# Leptosphaeria aquatica Tilak & R.L. Kulk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discocolla Prill. & Delacr. GENUS
-=======
+# Discocolla Prill. & Delacr. GENUS
 
 #### Status
 ACCEPTED

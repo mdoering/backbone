@@ -1,5 +1,4 @@
-Clitocybe subleptoloma Singer SPECIES
-=======
+# Clitocybe subleptoloma Singer SPECIES
 
 #### Status
 ACCEPTED

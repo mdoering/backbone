@@ -1,5 +1,4 @@
-Phyllosticta cunninghamiae Gucevic SPECIES
-=======
+# Phyllosticta cunninghamiae Gucevic SPECIES
 
 #### Status
 ACCEPTED

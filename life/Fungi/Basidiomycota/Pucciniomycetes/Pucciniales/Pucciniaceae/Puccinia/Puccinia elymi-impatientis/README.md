@@ -1,5 +1,4 @@
-Puccinia elymi-impatientis Kleb. SPECIES
-=======
+# Puccinia elymi-impatientis Kleb. SPECIES
 
 #### Status
 ACCEPTED

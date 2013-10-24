@@ -1,5 +1,4 @@
-Protosphaeridium vermium Timofeev, 1966 SPECIES
-=======
+# Protosphaeridium vermium Timofeev, 1966 SPECIES
 
 #### Status
 ACCEPTED

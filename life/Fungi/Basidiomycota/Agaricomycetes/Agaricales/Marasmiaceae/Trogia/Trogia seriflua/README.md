@@ -1,5 +1,4 @@
-Trogia seriflua Corner SPECIES
-=======
+# Trogia seriflua Corner SPECIES
 
 #### Status
 ACCEPTED

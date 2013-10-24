@@ -1,14 +1,13 @@
-Aporella erigerontis Syd., 1939 SPECIES
-=======
+# Aporellula erigerontis (Syd.) B. Sutton, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 37(4/5): 416 (1939)
+Sydowia 38: 324 (1986)
 
 #### Original name
 Aporella erigerontis Syd., 1939

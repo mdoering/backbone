@@ -1,5 +1,4 @@
-Ramalina hypodectodes Nyl. SPECIES
-=======
+# Ramalina hypodectodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

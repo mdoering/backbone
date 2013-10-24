@@ -1,5 +1,4 @@
-Clitocybe odontella Mont. SPECIES
-=======
+# Clitocybe odontella Mont. SPECIES
 
 #### Status
 ACCEPTED

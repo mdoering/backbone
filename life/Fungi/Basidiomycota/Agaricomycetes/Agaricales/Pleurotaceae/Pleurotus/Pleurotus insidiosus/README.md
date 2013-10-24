@@ -1,5 +1,4 @@
-Pleurotus insidiosus (Sacc.) Y.S. Chang & Kantvilas SPECIES
-=======
+# Pleurotus insidiosus (Sacc.) Y.S. Chang & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

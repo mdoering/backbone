@@ -1,5 +1,4 @@
-Vorticella ramosissima Dujardin, 1841 SPECIES
-=======
+# Vorticella ramosissima Dujardin, 1841 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vekshinella acutifera (Vekshina, 1959) Loeblich & Tappan, 1963 SPECIES
-=======
+# Vekshinella acutifera (Vekshina, 1959) Loeblich & Tappan, 1963 SPECIES
 
 #### Status
 DOUBTFUL

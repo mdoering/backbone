@@ -1,17 +1,16 @@
-Cantharellus pallens Pilát, 1959 SPECIES
-=======
+# Cantharellus ferruginascens P.D. Orton, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Omagiu lui Traian Savulescu 600 (1959)
+Notes R. bot. Gdn Edinb. 29: 84 (1969)
 
 #### Original name
-Cantharellus pallens Pilát, 1959
+Cantharellus ferruginascens P.D. Orton, 1969
 
 ### Remarks
 null

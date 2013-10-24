@@ -1,5 +1,4 @@
-Hormophysa Kützing, 1843 GENUS
-=======
+# Hormophysa Kützing, 1843 GENUS
 
 #### Status
 ACCEPTED

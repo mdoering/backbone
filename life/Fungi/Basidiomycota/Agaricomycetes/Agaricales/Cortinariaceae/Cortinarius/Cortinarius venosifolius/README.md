@@ -1,5 +1,4 @@
-Cortinarius venosifolius Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius venosifolius Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

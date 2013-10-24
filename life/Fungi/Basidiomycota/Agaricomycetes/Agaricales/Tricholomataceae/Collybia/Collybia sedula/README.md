@@ -1,5 +1,4 @@
-Collybia sedula P.W. Graff SPECIES
-=======
+# Collybia sedula P.W. Graff SPECIES
 
 #### Status
 ACCEPTED

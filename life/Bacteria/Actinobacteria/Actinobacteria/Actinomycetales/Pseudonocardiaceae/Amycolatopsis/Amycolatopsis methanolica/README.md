@@ -1,5 +1,4 @@
-Amycolatopsis methanolica de Boer et al., 1990 SPECIES
-=======
+# Amycolatopsis methanolica de Boer et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

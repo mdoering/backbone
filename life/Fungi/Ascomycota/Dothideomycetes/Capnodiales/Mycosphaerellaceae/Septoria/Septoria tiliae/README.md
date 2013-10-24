@@ -1,5 +1,4 @@
-Septoria tiliae Westend. SPECIES
-=======
+# Septoria tiliae Westend. SPECIES
 
 #### Status
 ACCEPTED

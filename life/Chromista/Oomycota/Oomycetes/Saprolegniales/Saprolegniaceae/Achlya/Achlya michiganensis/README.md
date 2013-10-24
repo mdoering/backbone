@@ -1,5 +1,4 @@
-Achlya michiganensis T.W. Johnson SPECIES
-=======
+# Achlya michiganensis T.W. Johnson SPECIES
 
 #### Status
 ACCEPTED

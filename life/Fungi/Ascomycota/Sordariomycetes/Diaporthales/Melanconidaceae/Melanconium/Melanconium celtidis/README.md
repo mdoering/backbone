@@ -1,5 +1,4 @@
-Melanconium celtidis Ellis & Everh. SPECIES
-=======
+# Melanconium celtidis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

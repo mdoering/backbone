@@ -1,5 +1,4 @@
-Melanomma moricola Ellis & Everh. SPECIES
-=======
+# Melanomma moricola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

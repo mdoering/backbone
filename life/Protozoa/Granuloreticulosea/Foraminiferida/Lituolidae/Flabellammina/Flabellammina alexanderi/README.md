@@ -1,5 +1,4 @@
-Flabellammina alexanderi Cushman, 1928 SPECIES
-=======
+# Flabellammina alexanderi Cushman, 1928 SPECIES
 
 #### Status
 ACCEPTED

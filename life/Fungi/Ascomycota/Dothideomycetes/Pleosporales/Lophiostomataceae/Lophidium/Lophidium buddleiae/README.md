@@ -1,5 +1,4 @@
-Lophidium buddleiae Sousa da Câmara & A.T. Vasconc. SPECIES
-=======
+# Lophidium buddleiae Sousa da Câmara & A.T. Vasconc. SPECIES
 
 #### Status
 ACCEPTED

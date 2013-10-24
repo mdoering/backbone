@@ -1,5 +1,4 @@
-Rinodina calcigena (Th. Fr.) Lynge SPECIES
-=======
+# Rinodina calcigena (Th. Fr.) Lynge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myrosporium coccineum Corda SPECIES
-=======
+# Myrosporium coccineum Corda SPECIES
 
 #### Status
 ACCEPTED

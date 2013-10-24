@@ -1,5 +1,4 @@
-Lactobacillus fuchuensis Sakala et al., 2002 SPECIES
-=======
+# Lactobacillus fuchuensis Sakala et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

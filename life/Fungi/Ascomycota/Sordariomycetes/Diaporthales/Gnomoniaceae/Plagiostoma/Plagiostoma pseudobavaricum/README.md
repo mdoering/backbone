@@ -1,5 +1,4 @@
-Plagiostoma pseudobavaricum M. Monod SPECIES
-=======
+# Plagiostoma pseudobavaricum M. Monod SPECIES
 
 #### Status
 ACCEPTED

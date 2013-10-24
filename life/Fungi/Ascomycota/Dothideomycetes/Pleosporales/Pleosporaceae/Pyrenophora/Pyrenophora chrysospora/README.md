@@ -1,5 +1,4 @@
-Pyrenophora chrysospora (Niessl) Sacc. SPECIES
-=======
+# Pyrenophora chrysospora (Niessl) Sacc. SPECIES
 
 #### Status
 ACCEPTED

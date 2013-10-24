@@ -1,5 +1,4 @@
-Krombholziella thalassina (Pilát & Dermek) Alessio SPECIES
-=======
+# Krombholziella thalassina (Pilát & Dermek) Alessio SPECIES
 
 #### Status
 ACCEPTED

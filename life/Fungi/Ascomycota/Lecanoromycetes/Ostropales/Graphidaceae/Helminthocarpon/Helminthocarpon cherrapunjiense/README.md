@@ -1,5 +1,4 @@
-Helminthocarpon cherrapunjiense D.D. Awasthi & S.R. Singh SPECIES
-=======
+# Helminthocarpon cherrapunjiense D.D. Awasthi & S.R. Singh SPECIES
 
 #### Status
 ACCEPTED

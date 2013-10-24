@@ -1,5 +1,4 @@
-Nolanea naranjana (Dennis) Dennis SPECIES
-=======
+# Nolanea naranjana (Dennis) Dennis SPECIES
 
 #### Status
 ACCEPTED

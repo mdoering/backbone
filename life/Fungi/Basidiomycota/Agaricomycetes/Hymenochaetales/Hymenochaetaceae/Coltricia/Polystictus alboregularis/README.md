@@ -1,5 +1,4 @@
-Polystictus alboregularis Lloyd SPECIES
-=======
+# Polystictus alboregularis Lloyd SPECIES
 
 #### Status
 ACCEPTED

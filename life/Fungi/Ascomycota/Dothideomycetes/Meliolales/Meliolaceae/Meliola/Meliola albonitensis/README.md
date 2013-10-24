@@ -1,5 +1,4 @@
-Meliola albonitensis F. Stevens SPECIES
-=======
+# Meliola albonitensis F. Stevens SPECIES
 
 #### Status
 ACCEPTED

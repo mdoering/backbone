@@ -1,5 +1,4 @@
-Stropharia umbonescens (Britzelm.) Sacc. & Traverso SPECIES
-=======
+# Stropharia umbonescens (Britzelm.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

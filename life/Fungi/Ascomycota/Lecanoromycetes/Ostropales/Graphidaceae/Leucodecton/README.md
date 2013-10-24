@@ -1,5 +1,4 @@
-Leucodecton A. Massal. GENUS
-=======
+# Leucodecton A. Massal. GENUS
 
 #### Status
 ACCEPTED

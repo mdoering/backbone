@@ -1,5 +1,4 @@
-Coelosphaeria pezizoidea Pat. SPECIES
-=======
+# Coelosphaeria pezizoidea Pat. SPECIES
 
 #### Status
 ACCEPTED

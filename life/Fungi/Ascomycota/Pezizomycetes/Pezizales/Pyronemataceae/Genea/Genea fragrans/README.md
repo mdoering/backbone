@@ -1,5 +1,4 @@
-Genea fragrans (Wallr.) Sacc. SPECIES
-=======
+# Genea fragrans (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

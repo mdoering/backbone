@@ -1,5 +1,4 @@
-Peziza vinosella Pers. SPECIES
-=======
+# Peziza vinosella Pers. SPECIES
 
 #### Status
 ACCEPTED

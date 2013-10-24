@@ -1,5 +1,4 @@
-Macrophoma abietis-pectinatae Bubák SPECIES
-=======
+# Macrophoma abietis-pectinatae Bubák SPECIES
 
 #### Status
 ACCEPTED

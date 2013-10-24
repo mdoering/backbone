@@ -1,5 +1,4 @@
-Peniophora gigaspora Massee SPECIES
-=======
+# Peniophora gigaspora Massee SPECIES
 
 #### Status
 ACCEPTED

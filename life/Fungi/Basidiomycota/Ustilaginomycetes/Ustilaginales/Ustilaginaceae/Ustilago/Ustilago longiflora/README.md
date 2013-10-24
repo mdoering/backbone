@@ -1,5 +1,4 @@
-Ustilago longiflora Mundk. & Thirum. SPECIES
-=======
+# Ustilago longiflora Mundk. & Thirum. SPECIES
 
 #### Status
 ACCEPTED

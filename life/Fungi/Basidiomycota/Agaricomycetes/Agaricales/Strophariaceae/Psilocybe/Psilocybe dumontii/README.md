@@ -1,5 +1,4 @@
-Psilocybe dumontii Singer ex Guzmán SPECIES
-=======
+# Psilocybe dumontii Singer ex Guzmán SPECIES
 
 #### Status
 ACCEPTED

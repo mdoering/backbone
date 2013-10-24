@@ -1,5 +1,4 @@
-Uredo allophili Henn. SPECIES
-=======
+# Uredo allophili Henn. SPECIES
 
 #### Status
 ACCEPTED

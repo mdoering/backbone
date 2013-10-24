@@ -1,5 +1,4 @@
-Micromycopsis intermedia Canter SPECIES
-=======
+# Micromycopsis intermedia Canter SPECIES
 
 #### Status
 ACCEPTED

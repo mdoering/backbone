@@ -1,5 +1,4 @@
-Fennellomyces Benny & R.K. Benj. GENUS
-=======
+# Fennellomyces Benny & R.K. Benj. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sulfurihydrogenibium subterraneum Takai et al., 2003 SPECIES
-=======
+# Sulfurihydrogenibium subterraneum Takai et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

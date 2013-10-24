@@ -1,5 +1,4 @@
-Uromyces ornithopodioides Gonz. Frag. SPECIES
-=======
+# Uromyces ornithopodioides Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

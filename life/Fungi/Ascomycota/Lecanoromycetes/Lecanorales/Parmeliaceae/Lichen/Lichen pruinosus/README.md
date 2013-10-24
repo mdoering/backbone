@@ -1,5 +1,4 @@
-Lichen pruinosus Humb. SPECIES
-=======
+# Lichen pruinosus Humb. SPECIES
 
 #### Status
 ACCEPTED

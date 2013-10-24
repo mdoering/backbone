@@ -1,5 +1,4 @@
-Calacogloea peniophorae Oberw. & Bandoni, 1991 SPECIES
-=======
+# Calacogloea peniophorae Oberw. & Bandoni, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea ypocrita A. Massal. SPECIES
-=======
+# Lecidea ypocrita A. Massal. SPECIES
 
 #### Status
 ACCEPTED

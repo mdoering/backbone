@@ -1,5 +1,4 @@
-Phaeopyxis varia Coppins, Rambold & Triebel, 1990 SPECIES
-=======
+# Phaeopyxis varia Coppins, Rambold & Triebel, 1990 SPECIES
 
 #### Status
 ACCEPTED

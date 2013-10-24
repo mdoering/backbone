@@ -1,5 +1,4 @@
-Krombholziella sardoa (Belli & Sacc.) Bon & Contu SPECIES
-=======
+# Krombholziella sardoa (Belli & Sacc.) Bon & Contu SPECIES
 
 #### Status
 ACCEPTED

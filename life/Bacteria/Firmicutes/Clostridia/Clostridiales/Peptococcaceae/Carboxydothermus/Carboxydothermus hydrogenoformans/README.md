@@ -1,5 +1,4 @@
-Carboxydothermus hydrogenoformans Svetlichny et al., 1991 SPECIES
-=======
+# Carboxydothermus hydrogenoformans Svetlichny et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

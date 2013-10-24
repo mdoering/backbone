@@ -1,5 +1,4 @@
-Phellinus terminaliae (S. Ito & S. Imai) M.J. Larsen SPECIES
-=======
+# Phellinus terminaliae (S. Ito & S. Imai) M.J. Larsen SPECIES
 
 #### Status
 ACCEPTED

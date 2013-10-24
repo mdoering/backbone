@@ -1,5 +1,4 @@
-Asperococcus attenuatus (C. Agardh) Zanardini SPECIES
-=======
+# Asperococcus attenuatus (C. Agardh) Zanardini SPECIES
 
 #### Status
 ACCEPTED

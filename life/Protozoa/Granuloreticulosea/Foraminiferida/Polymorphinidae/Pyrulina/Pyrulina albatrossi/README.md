@@ -1,5 +1,4 @@
-Pyrulina albatrossi Cushman & Ozawa, 1930 SPECIES
-=======
+# Pyrulina albatrossi Cushman & Ozawa, 1930 SPECIES
 
 #### Status
 ACCEPTED

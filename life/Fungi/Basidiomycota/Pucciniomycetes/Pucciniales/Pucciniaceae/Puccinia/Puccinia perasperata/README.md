@@ -1,5 +1,4 @@
-Puccinia perasperata J.F. Hennen & Cummins SPECIES
-=======
+# Puccinia perasperata J.F. Hennen & Cummins SPECIES
 
 #### Status
 ACCEPTED

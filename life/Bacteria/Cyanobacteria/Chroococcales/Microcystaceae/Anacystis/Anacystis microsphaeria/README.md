@@ -1,5 +1,4 @@
-Anacystis microsphaeria Gardner SPECIES
-=======
+# Anacystis microsphaeria Gardner SPECIES
 
 #### Status
 ACCEPTED

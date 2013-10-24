@@ -1,17 +1,16 @@
-Aecidium ushwaiensis Speg. SPECIES
-=======
+# Aecidium ushuwaiense Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Boletín de la Academia Nacional de Ciencias de Córdoba 27(4): 356 [no. 40] (1924)
 
 #### Original name
-Aecidium ushwaiensis Speg.
+Aecidium ushuwaiense Speg.
 
 ### Remarks
 null

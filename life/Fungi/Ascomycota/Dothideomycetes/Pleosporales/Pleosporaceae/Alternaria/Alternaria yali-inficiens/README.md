@@ -1,17 +1,16 @@
-Alternaria yaliinficiens R.G. Roberts SPECIES
-=======
+# Alternaria yali-inficiens R.G. Roberts, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Pl. Dis. 89(2): 142 (2005)
 
 #### Original name
-Alternaria yaliinficiens R.G. Roberts
+Alternaria yali-inficiens R.G. Roberts, 2005
 
 ### Remarks
 null

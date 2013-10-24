@@ -1,5 +1,4 @@
-Maupasella Cépède, 1910 GENUS
-=======
+# Maupasella Cépède, 1910 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Jola orthosacca Rick SPECIES
-=======
+# Jola orthosacca Rick SPECIES
 
 #### Status
 ACCEPTED

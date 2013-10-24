@@ -1,17 +1,16 @@
-Porina epiphylloides Vezda SPECIES
-=======
+# Porina minutissima Henssen, Lücking & Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Folia geobot. phytotax. 10: 393 (1975)
+in Lücking & Vezda, Willdenowia 28(1/2): 211 (1998)
 
 #### Original name
-Porina epiphylloides Vezda
+Porina minutissima Henssen, Lücking & Vezda
 
 ### Remarks
 null

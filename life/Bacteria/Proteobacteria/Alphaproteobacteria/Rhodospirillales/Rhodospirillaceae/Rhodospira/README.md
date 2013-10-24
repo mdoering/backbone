@@ -1,5 +1,4 @@
-Rhodospira Pfennig et al., 1998 GENUS
-=======
+# Rhodospira Pfennig et al., 1998 GENUS
 
 #### Status
 ACCEPTED

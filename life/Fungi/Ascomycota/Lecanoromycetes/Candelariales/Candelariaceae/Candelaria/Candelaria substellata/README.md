@@ -1,5 +1,4 @@
-Candelaria substellata var. substellata VARIETY
-=======
+# Candelaria substellata Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Candelaria substellata var. substellata
+Candelaria substellata Ach.
 
 ### Remarks
 null

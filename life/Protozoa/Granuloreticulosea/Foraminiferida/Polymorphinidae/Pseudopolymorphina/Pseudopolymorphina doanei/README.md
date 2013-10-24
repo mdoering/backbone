@@ -1,5 +1,4 @@
-Pseudopolymorphina doanei (Galloway & Wissler) SPECIES
-=======
+# Pseudopolymorphina doanei (Galloway & Wissler) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterothyrites edvensis (K.P. Rao & Ramanujam) Kalgutkar & Janson. SPECIES
-=======
+# Asterothyrites edvensis (K.P. Rao & Ramanujam) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

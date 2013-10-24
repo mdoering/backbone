@@ -1,5 +1,4 @@
-Microthyriacites palmatus P. Ke & Z.Y. Shi SPECIES
-=======
+# Microthyriacites palmatus P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

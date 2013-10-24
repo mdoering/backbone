@@ -1,5 +1,4 @@
-Dactylaria simplex (Preuss) Sacc. SPECIES
-=======
+# Dactylaria simplex (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metadoga mercurius F.H. Wind & P. Cepek SPECIES
-=======
+# Metadoga mercurius F.H. Wind & P. Cepek SPECIES
 
 #### Status
 ACCEPTED

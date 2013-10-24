@@ -1,5 +1,4 @@
-Phaeographis flavicans Kashiw. SPECIES
-=======
+# Phaeographis flavicans Kashiw. SPECIES
 
 #### Status
 ACCEPTED

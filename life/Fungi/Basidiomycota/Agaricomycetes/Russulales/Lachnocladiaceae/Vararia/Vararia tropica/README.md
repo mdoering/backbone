@@ -1,5 +1,4 @@
-Vararia tropica A.L. Welden, 1965 SPECIES
-=======
+# Vararia tropica A.L. Welden, 1965 SPECIES
 
 #### Status
 ACCEPTED

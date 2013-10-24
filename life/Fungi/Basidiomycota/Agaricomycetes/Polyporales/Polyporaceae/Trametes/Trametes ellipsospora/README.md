@@ -1,5 +1,4 @@
-Trametes ellipsospora Ryvarden, 1987 SPECIES
-=======
+# Trametes ellipsospora Ryvarden, 1987 SPECIES
 
 #### Status
 ACCEPTED

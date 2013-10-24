@@ -1,5 +1,4 @@
-Zamenhofia coralloidea (P. James) Clauzade & Cl. Roux SPECIES
-=======
+# Zamenhofia coralloidea (P. James) Clauzade & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

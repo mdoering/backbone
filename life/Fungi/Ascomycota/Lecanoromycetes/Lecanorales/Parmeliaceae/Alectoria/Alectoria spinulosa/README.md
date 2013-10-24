@@ -1,5 +1,4 @@
-Alectoria spinulosa Ahlner SPECIES
-=======
+# Alectoria spinulosa Ahlner SPECIES
 
 #### Status
 ACCEPTED

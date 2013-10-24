@@ -1,5 +1,4 @@
-Pulveroboletus kivuensis (Heinem. & Gooss.-Font.) Singer SPECIES
-=======
+# Pulveroboletus kivuensis (Heinem. & Gooss.-Font.) Singer SPECIES
 
 #### Status
 ACCEPTED

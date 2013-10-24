@@ -1,5 +1,4 @@
-Ahmadia pentatropidis Syd., 1939 SPECIES
-=======
+# Ahmadia pentatropidis Syd., 1939 SPECIES
 
 #### Status
 ACCEPTED

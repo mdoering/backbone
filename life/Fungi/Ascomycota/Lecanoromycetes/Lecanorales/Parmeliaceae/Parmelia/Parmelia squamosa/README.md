@@ -1,5 +1,4 @@
-Parmelia squamosa Hepp SPECIES
-=======
+# Parmelia squamosa Hepp SPECIES
 
 #### Status
 ACCEPTED

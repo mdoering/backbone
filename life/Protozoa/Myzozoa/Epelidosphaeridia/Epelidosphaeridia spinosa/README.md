@@ -1,5 +1,4 @@
-Epelidosphaeridia spinosa (Cookson & Hughes, 1964) Davey, 1969 SPECIES
-=======
+# Epelidosphaeridia spinosa (Cookson & Hughes, 1964) Davey, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Speira toruloides Corda, 1837 SPECIES
-=======
+# Dictyosporium toruloides (Corda) Guég., 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. fung. (Prague) 1: 9 (1837)
+Bull. Soc. mycol. Fr. 21: 101 (1905)
 
 #### Original name
 Speira toruloides Corda, 1837

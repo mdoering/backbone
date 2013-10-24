@@ -1,5 +1,4 @@
-Macrophoma ilicella (Sacc. & Penz.) Berl. & Voglino SPECIES
-=======
+# Macrophoma ilicella (Sacc. & Penz.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amandinea petermannii (Hue) Matzer, H. Mayrhofer & Scheid. SPECIES
-=======
+# Amandinea petermannii (Hue) Matzer, H. Mayrhofer & Scheid. SPECIES
 
 #### Status
 ACCEPTED

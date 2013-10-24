@@ -1,5 +1,4 @@
-Talimudinium S.-Z. Mao & G. Norris, 1988 GENUS
-=======
+# Talimudinium S.-Z. Mao & G. Norris, 1988 GENUS
 
 #### Status
 ACCEPTED

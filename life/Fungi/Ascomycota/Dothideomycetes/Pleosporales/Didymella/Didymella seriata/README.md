@@ -1,5 +1,4 @@
-Didymella seriata Rehm SPECIES
-=======
+# Didymella seriata Rehm SPECIES
 
 #### Status
 ACCEPTED

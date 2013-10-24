@@ -1,5 +1,4 @@
-Galera flavida Velen. SPECIES
-=======
+# Galera flavida Velen. SPECIES
 
 #### Status
 ACCEPTED

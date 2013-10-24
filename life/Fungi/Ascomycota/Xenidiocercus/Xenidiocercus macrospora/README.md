@@ -1,5 +1,4 @@
-Xenidiocercus macrospora W.P. Wu & B. Sutton, 1995 SPECIES
-=======
+# Xenidiocercus macrospora W.P. Wu & B. Sutton, 1995 SPECIES
 
 #### Status
 ACCEPTED

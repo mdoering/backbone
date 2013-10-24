@@ -1,5 +1,4 @@
-Sphaerella galatea Sacc. SPECIES
-=======
+# Sphaerella galatea Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Actinophora Merr. GENUS
-=======
+# Acinophora Raf. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Précis Découv. Trav. Somiologiques Palermo 51 (1808)
 
 #### Original name
-Actinophora Merr.
+Acinophora Raf.
 
 ### Remarks
 null

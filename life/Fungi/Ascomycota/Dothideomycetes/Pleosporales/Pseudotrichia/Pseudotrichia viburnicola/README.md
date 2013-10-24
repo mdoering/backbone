@@ -1,14 +1,13 @@
-Nectria viburnicola P. Crouan & H. Crouan SPECIES
-=======
+# Pseudotrichia viburnicola (P. Crouan & H. Crouan) Rossman, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Florule Finistère (Paris) 39 (1867)
+Mycol. Pap. 157: 6 (1987)
 
 #### Original name
 Nectria viburnicola P. Crouan & H. Crouan

@@ -1,5 +1,4 @@
-Stemphylium subsphaericum Fairm. SPECIES
-=======
+# Stemphylium subsphaericum Fairm. SPECIES
 
 #### Status
 ACCEPTED

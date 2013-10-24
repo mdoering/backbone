@@ -1,5 +1,4 @@
-Inocybe roseipes Malençon SPECIES
-=======
+# Inocybe roseipes Malençon SPECIES
 
 #### Status
 ACCEPTED

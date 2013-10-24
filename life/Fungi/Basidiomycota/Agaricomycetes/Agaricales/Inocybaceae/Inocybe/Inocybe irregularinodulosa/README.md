@@ -1,5 +1,4 @@
-Inocybe irregularinodulosa Takah. Kobay. SPECIES
-=======
+# Inocybe irregularinodulosa Takah. Kobay. SPECIES
 
 #### Status
 ACCEPTED

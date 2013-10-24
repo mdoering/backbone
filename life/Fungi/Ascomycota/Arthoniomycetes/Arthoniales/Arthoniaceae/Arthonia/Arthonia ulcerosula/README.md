@@ -1,5 +1,4 @@
-Arthonia ulcerosula Nyl. SPECIES
-=======
+# Arthonia ulcerosula Nyl. SPECIES
 
 #### Status
 ACCEPTED

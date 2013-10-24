@@ -1,5 +1,4 @@
-Placodium griseovirens A.L. Sm. SPECIES
-=======
+# Placodium griseovirens A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

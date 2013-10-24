@@ -1,5 +1,4 @@
-Mastigocladium GENUS
-=======
+# Mastigocladium GENUS
 
 #### Status
 ACCEPTED

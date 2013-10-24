@@ -1,17 +1,16 @@
-Camarosporium elaeagnella Vasyag. SPECIES
-=======
+# Camarosporium elaeagnellum Vasyag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Byzova et al. , Diss. Eidgenöss. Techn. Hochschule Zürich 140 (1970)
 
 #### Original name
-Camarosporium elaeagnella Vasyag.
+Camarosporium elaeagnellum Vasyag.
 
 ### Remarks
 null

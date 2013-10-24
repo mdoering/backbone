@@ -1,5 +1,4 @@
-Uredo cheesemanii G. Cunn., 1928 SPECIES
-=======
+# Uredo cheesemanii G. Cunn., 1928 SPECIES
 
 #### Status
 ACCEPTED

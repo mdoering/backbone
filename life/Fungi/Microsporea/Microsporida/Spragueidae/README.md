@@ -1,5 +1,4 @@
-Spragueidae Vávra & Sprague, 1976 FAMILY
-=======
+# Spragueidae Vávra & Sprague, 1976 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo bauhiniicola Henn. SPECIES
-=======
+# Uredo bauhiniicola Henn. SPECIES
 
 #### Status
 ACCEPTED

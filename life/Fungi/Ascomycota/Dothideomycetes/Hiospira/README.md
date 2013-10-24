@@ -1,5 +1,4 @@
-Hiospira R.T. Moore GENUS
-=======
+# Hiospira R.T. Moore GENUS
 
 #### Status
 ACCEPTED

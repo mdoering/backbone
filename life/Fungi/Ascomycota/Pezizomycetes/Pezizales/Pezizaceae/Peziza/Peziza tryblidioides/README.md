@@ -1,5 +1,4 @@
-Peziza tryblidioides Rabenh. SPECIES
-=======
+# Peziza tryblidioides Rabenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha epiporina Matzer SPECIES
-=======
+# Opegrapha epiporina Matzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Ectocarpus zanardinii P.L. Crouan & H.M. Crouan SPECIES
-=======
+# Streblonema zanardinii (P.L. Crouan & H.M. Crouan) De Toni SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

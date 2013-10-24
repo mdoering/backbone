@@ -1,5 +1,4 @@
-Anaptychia atrosetigera SPECIES
-=======
+# Anaptychia atrosetigera SPECIES
 
 #### Status
 ACCEPTED

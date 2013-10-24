@@ -1,5 +1,4 @@
-Palaeoperidinium Deflandre, 1934 GENUS
-=======
+# Palaeoperidinium Deflandre, 1934 GENUS
 
 #### Status
 ACCEPTED

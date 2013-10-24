@@ -1,5 +1,4 @@
-Chondrioderma mutabile J. Schröt. SPECIES
-=======
+# Chondrioderma mutabile J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

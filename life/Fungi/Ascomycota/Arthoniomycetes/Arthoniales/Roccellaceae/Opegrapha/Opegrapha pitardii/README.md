@@ -1,5 +1,4 @@
-Opegrapha pitardii SPECIES
-=======
+# Opegrapha pitardii SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria verbenacae Unamuno SPECIES
-=======
+# Septoria verbenacae Unamuno SPECIES
 
 #### Status
 ACCEPTED

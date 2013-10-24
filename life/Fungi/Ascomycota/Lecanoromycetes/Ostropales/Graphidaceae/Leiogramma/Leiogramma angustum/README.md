@@ -1,5 +1,4 @@
-Leiogramma angustum Eschw. SPECIES
-=======
+# Leiogramma angustum Eschw. SPECIES
 
 #### Status
 ACCEPTED

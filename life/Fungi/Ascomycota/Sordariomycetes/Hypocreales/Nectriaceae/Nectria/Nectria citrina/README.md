@@ -1,5 +1,4 @@
-Nectria citrina P. Crouan & H. Crouan SPECIES
-=======
+# Nectria citrina P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

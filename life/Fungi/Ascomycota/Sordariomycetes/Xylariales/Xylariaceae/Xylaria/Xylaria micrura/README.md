@@ -1,5 +1,4 @@
-Xylaria micrura Speg. SPECIES
-=======
+# Xylaria micrura Speg. SPECIES
 
 #### Status
 ACCEPTED

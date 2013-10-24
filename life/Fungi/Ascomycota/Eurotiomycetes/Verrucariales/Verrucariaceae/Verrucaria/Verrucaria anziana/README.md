@@ -1,5 +1,4 @@
-Verrucaria anziana Garov. SPECIES
-=======
+# Verrucaria anziana Garov. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus subglaber (Lloyd) Singer SPECIES
-=======
+# Pleurotus subglaber (Lloyd) Singer SPECIES
 
 #### Status
 ACCEPTED

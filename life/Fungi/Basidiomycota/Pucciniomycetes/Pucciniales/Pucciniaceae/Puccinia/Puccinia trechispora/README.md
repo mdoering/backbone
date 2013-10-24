@@ -1,5 +1,4 @@
-Puccinia trechispora Pass. SPECIES
-=======
+# Puccinia trechispora Pass. SPECIES
 
 #### Status
 ACCEPTED

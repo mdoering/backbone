@@ -1,5 +1,4 @@
-Phyllachora vallecaucana Chardón, 1930 SPECIES
-=======
+# Phyllachora vallecaucana Chardón, 1930 SPECIES
 
 #### Status
 DOUBTFUL

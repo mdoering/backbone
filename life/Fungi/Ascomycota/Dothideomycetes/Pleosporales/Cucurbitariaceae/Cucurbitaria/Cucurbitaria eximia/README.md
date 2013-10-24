@@ -1,5 +1,4 @@
-Cucurbitaria eximia (Cooke & Kalchbr.) Kuntze SPECIES
-=======
+# Cucurbitaria eximia (Cooke & Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

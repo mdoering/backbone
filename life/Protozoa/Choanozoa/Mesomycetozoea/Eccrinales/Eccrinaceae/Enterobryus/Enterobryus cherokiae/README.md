@@ -1,5 +1,4 @@
-Enterobryus cherokiae Lichtw., 1961 SPECIES
-=======
+# Enterobryus cherokiae Lichtw., 1961 SPECIES
 
 #### Status
 ACCEPTED

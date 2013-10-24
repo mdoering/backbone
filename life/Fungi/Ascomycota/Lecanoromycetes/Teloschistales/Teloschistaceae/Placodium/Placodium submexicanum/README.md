@@ -1,5 +1,4 @@
-Placodium submexicanum B. de Lesd. SPECIES
-=======
+# Placodium submexicanum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

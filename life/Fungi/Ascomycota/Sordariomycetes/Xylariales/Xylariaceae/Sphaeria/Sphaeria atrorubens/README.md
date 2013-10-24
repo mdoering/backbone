@@ -1,5 +1,4 @@
-Sphaeria atrorubens Wallr. SPECIES
-=======
+# Sphaeria atrorubens Wallr. SPECIES
 
 #### Status
 ACCEPTED

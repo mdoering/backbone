@@ -1,8 +1,7 @@
-Parduczia murmanica (Raikov, 1962) Dragesco, 1999 SPECIES
-=======
+# Parduzia murmanica Raikov, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

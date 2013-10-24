@@ -1,5 +1,4 @@
-Saccharomyces comesii Cavara SPECIES
-=======
+# Saccharomyces comesii Cavara SPECIES
 
 #### Status
 ACCEPTED

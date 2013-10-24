@@ -1,5 +1,4 @@
-Fomitiporia mediterranea M. Fisch., 2002 SPECIES
-=======
+# Fomitiporia mediterranea M. Fisch., 2002 SPECIES
 
 #### Status
 ACCEPTED

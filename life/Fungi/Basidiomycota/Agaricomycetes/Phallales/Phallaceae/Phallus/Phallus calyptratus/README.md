@@ -1,5 +1,4 @@
-Phallus calyptratus Berk. & Broome SPECIES
-=======
+# Phallus calyptratus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

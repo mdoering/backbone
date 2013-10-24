@@ -1,5 +1,4 @@
-Rosellinia abscondita Rehm, 1889 SPECIES
-=======
+# Rosellinia abscondita Rehm, 1889 SPECIES
 
 #### Status
 ACCEPTED

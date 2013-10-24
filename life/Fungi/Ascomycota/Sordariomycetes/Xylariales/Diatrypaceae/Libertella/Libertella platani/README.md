@@ -1,5 +1,4 @@
-Libertella platani Ellis & Everh. SPECIES
-=======
+# Libertella platani Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

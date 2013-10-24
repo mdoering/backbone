@@ -1,5 +1,4 @@
-Collema muelleri (Hepp) Stizenb. SPECIES
-=======
+# Collema muelleri (Hepp) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

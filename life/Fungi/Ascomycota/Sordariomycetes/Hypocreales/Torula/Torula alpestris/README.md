@@ -1,5 +1,4 @@
-Torula alpestris R.E. Ludw. SPECIES
-=======
+# Torula alpestris R.E. Ludw. SPECIES
 
 #### Status
 ACCEPTED

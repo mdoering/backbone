@@ -1,5 +1,4 @@
-Hansfordiellopsis elongata D. Hawksw. SPECIES
-=======
+# Hansfordiellopsis elongata D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

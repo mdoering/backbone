@@ -1,5 +1,4 @@
-Bacidia hakonensis (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia hakonensis (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

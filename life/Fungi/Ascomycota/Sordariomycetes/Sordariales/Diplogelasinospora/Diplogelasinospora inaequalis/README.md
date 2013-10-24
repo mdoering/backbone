@@ -1,5 +1,4 @@
-Diplogelasinospora inaequalis Udagawa, 1973 SPECIES
-=======
+# Diplogelasinospora inaequalis Udagawa, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinobacillus scotiae Foster et al., 1998 SPECIES
-=======
+# Actinobacillus scotiae Foster et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

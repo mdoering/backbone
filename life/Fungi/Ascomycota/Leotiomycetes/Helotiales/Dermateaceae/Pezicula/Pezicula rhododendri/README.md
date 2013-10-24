@@ -1,5 +1,4 @@
-Pezicula rhododendri Remler, 1980 SPECIES
-=======
+# Pezicula rhododendri Remler, 1980 SPECIES
 
 #### Status
 ACCEPTED

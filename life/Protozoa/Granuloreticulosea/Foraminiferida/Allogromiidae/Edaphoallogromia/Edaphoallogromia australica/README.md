@@ -1,5 +1,4 @@
-Edaphoallogromia australica Meisterfeld, Holzmann & Pawlowski, 2001 SPECIES
-=======
+# Edaphoallogromia australica Meisterfeld, Holzmann & Pawlowski, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phragmotrichum pini (W.B. Cooke) B. Sutton & D.K. Sandhu SPECIES
-=======
+# Phragmotrichum pini (W.B. Cooke) B. Sutton & D.K. Sandhu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps grylli Teng SPECIES
-=======
+# Cordyceps grylli Teng SPECIES
 
 #### Status
 ACCEPTED

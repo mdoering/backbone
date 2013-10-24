@@ -1,5 +1,4 @@
-Patellaria viticola Pers. SPECIES
-=======
+# Patellaria viticola Pers. SPECIES
 
 #### Status
 ACCEPTED

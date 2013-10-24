@@ -1,5 +1,4 @@
-Inocybe huijsmanii Kuyper, 1986 SPECIES
-=======
+# Inocybe huijsmanii Kuyper, 1986 SPECIES
 
 #### Status
 ACCEPTED

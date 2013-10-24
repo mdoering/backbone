@@ -1,5 +1,4 @@
-Gloeothece monococca (Kützing) Rabenhorst SPECIES
-=======
+# Gloeothece monococca (Kützing) Rabenhorst SPECIES
 
 #### Status
 ACCEPTED

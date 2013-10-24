@@ -1,5 +1,4 @@
-Podospora obclavata A.E. Bell, 2006 SPECIES
-=======
+# Podospora obclavata A.E. Bell, 2006 SPECIES
 
 #### Status
 ACCEPTED

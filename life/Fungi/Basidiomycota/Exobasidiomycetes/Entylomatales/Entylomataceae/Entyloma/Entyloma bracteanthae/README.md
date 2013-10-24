@@ -1,5 +1,4 @@
-Entyloma bracteanthae Vánky, 1997 SPECIES
-=======
+# Entyloma bracteanthae Vánky, 1997 SPECIES
 
 #### Status
 ACCEPTED

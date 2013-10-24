@@ -1,17 +1,16 @@
-Mycena pinus-rigidae Robich SPECIES
-=======
+# Mycena pini-rigidae Robich SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Micol. Veg. Medit. 14(1): 78 (1999)
 
 #### Original name
-Mycena pinus-rigidae Robich
+Mycena pini-rigidae Robich
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Discoaster salisburgensis Stradner, 1961 SPECIES
-=======
+# Discoaster salisburgensis Stradner, 1961 SPECIES
 
 #### Status
 ACCEPTED

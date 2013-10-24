@@ -1,17 +1,16 @@
-Arthothelium saxicolum Makhija & Patw. SPECIES
-=======
+# Arthothelium saxicola Makhija & Patw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 29(2): 169 (1997)
 
 #### Original name
-Arthothelium saxicolum Makhija & Patw.
+Arthothelium saxicola Makhija & Patw.
 
 ### Remarks
 null

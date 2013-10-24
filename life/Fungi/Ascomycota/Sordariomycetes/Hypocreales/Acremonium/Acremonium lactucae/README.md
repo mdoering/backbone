@@ -1,5 +1,4 @@
-Acremonium lactucae H.J. Lin, C.Y. Chien & J.W. Huang SPECIES
-=======
+# Acremonium lactucae H.J. Lin, C.Y. Chien & J.W. Huang SPECIES
 
 #### Status
 ACCEPTED

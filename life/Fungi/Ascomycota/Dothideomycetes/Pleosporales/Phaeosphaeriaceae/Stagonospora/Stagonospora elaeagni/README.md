@@ -1,5 +1,4 @@
-Stagonospora elaeagni Y. Gao SPECIES
-=======
+# Stagonospora elaeagni Y. Gao SPECIES
 
 #### Status
 ACCEPTED

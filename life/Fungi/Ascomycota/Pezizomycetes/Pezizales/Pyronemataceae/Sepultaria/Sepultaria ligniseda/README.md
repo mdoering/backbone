@@ -1,5 +1,4 @@
-Sepultaria ligniseda Velen. SPECIES
-=======
+# Sepultaria ligniseda Velen. SPECIES
 
 #### Status
 ACCEPTED

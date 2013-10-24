@@ -1,5 +1,4 @@
-Mycena cariciophila Redhead SPECIES
-=======
+# Mycena cariciophila Redhead SPECIES
 
 #### Status
 ACCEPTED

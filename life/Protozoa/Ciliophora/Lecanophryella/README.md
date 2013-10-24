@@ -1,5 +1,4 @@
-Lecanophryella Dovgal, 1985 GENUS
-=======
+# Lecanophryella Dovgal, 1985 GENUS
 
 #### Status
 ACCEPTED

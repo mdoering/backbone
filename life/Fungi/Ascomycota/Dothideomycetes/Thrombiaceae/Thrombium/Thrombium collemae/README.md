@@ -1,5 +1,4 @@
-Thrombium collemae Stein SPECIES
-=======
+# Thrombium collemae Stein SPECIES
 
 #### Status
 ACCEPTED

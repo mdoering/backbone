@@ -1,5 +1,4 @@
-Lichtheimia dubia (Bainier) Vuill. SPECIES
-=======
+# Lichtheimia dubia (Bainier) Vuill. SPECIES
 
 #### Status
 ACCEPTED

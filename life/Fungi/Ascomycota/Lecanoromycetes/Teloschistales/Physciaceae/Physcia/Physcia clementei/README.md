@@ -1,17 +1,16 @@
-Physcia astroidea f. astroidea FORM
-=======
+# Physcia clementei (Sm.) Lynge SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. linn. Bordeaux 21: 308 (1856)
+null
 
 #### Original name
-Physcia astroidea f. astroidea
+Parmelia clementei Turner
 
 ### Remarks
 null

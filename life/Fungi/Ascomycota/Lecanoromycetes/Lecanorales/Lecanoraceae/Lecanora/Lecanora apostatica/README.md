@@ -1,5 +1,4 @@
-Lecanora apostatica Nyl. SPECIES
-=======
+# Lecanora apostatica Nyl. SPECIES
 
 #### Status
 ACCEPTED

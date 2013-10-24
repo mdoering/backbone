@@ -1,5 +1,4 @@
-Buellia cupreola Müll. Arg. SPECIES
-=======
+# Buellia cupreola Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

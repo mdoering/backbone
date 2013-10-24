@@ -1,17 +1,16 @@
-Aecidium jurvense Henn. SPECIES
-=======
+# Aecidium juruense Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 43: 169 (1904)
 
 #### Original name
-Aecidium jurvense Henn.
+Aecidium juruense Henn.
 
 ### Remarks
 null

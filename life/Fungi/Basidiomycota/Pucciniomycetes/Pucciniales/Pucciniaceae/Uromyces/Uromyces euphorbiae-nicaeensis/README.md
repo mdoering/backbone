@@ -1,5 +1,4 @@
-Uromyces euphorbiae-nicaeensis Unamuno SPECIES
-=======
+# Uromyces euphorbiae-nicaeensis Unamuno SPECIES
 
 #### Status
 ACCEPTED

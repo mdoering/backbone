@@ -1,5 +1,4 @@
-Isaria bialowieziensis Koval SPECIES
-=======
+# Isaria bialowieziensis Koval SPECIES
 
 #### Status
 ACCEPTED

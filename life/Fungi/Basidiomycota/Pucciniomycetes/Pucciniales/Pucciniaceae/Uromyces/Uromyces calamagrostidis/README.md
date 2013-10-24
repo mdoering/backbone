@@ -1,8 +1,7 @@
-Uromyces calamagrostis Uljan. SPECIES
-=======
+# Uromyces calamagrostidis Uljan. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Uromyces calamagrostis Uljan.
+Uromyces calamagrostidis Uljan.
 
 ### Remarks
 null

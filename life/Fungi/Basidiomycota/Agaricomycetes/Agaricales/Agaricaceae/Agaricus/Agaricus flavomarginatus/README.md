@@ -1,5 +1,4 @@
-Agaricus flavomarginatus Berk. & Broome SPECIES
-=======
+# Agaricus flavomarginatus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

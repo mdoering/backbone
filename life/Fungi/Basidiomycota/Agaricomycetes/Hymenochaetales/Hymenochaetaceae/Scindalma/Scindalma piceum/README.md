@@ -1,5 +1,4 @@
-Scindalma piceum (Ces.) Kuntze SPECIES
-=======
+# Scindalma piceum (Ces.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

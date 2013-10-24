@@ -1,5 +1,4 @@
-Butleria inaghatahani Sacc., 1914 SPECIES
-=======
+# Butleria inaghatahani Sacc., 1914 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Terricirra livida (Berger & Foissner, 1987) Berger & Foissner, 1989 SPECIES
-=======
+# Terricirra livida (Berger & Foissner, 1987) Berger & Foissner, 1989 SPECIES
 
 #### Status
 ACCEPTED

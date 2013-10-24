@@ -1,5 +1,4 @@
-Cortinarius subumidicola Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius subumidicola Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

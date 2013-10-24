@@ -1,5 +1,4 @@
-Lembosia quercina (Ellis & G. Martin) Tracy & Earle SPECIES
-=======
+# Lembosia quercina (Ellis & G. Martin) Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bertia hydrophila (Kirschst.) Sacc. SPECIES
-=======
+# Bertia hydrophila (Kirschst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

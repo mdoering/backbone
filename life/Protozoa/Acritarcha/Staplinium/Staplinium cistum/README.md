@@ -1,5 +1,4 @@
-Staplinium cistum Gitmez, 1970 SPECIES
-=======
+# Staplinium cistum Gitmez, 1970 SPECIES
 
 #### Status
 ACCEPTED

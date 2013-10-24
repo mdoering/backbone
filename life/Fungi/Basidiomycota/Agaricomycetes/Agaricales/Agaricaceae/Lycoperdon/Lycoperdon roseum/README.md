@@ -1,5 +1,4 @@
-Lycoperdon roseum Zoll. SPECIES
-=======
+# Lycoperdon roseum Zoll. SPECIES
 
 #### Status
 ACCEPTED

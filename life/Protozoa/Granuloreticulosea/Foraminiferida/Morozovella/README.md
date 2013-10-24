@@ -1,5 +1,4 @@
-Morozovella GENUS
-=======
+# Morozovella GENUS
 
 #### Status
 ACCEPTED

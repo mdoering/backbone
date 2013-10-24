@@ -1,5 +1,4 @@
-Zignoëlla diaphana (Cooke & Ellis) Sacc. SPECIES
-=======
+# Zignoëlla diaphana (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

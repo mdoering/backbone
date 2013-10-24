@@ -1,5 +1,4 @@
-Moellerella Hickman-Brenner et al., 1984 GENUS
-=======
+# Moellerella Hickman-Brenner et al., 1984 GENUS
 
 #### Status
 ACCEPTED

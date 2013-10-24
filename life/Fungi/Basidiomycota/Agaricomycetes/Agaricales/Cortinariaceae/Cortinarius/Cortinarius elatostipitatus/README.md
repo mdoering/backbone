@@ -1,5 +1,4 @@
-Cortinarius elatostipitatus Gasparini SPECIES
-=======
+# Cortinarius elatostipitatus Gasparini SPECIES
 
 #### Status
 ACCEPTED

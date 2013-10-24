@@ -1,5 +1,4 @@
-Lactarius crampylus (J. Otto) Fr. SPECIES
-=======
+# Lactarius crampylus (J. Otto) Fr. SPECIES
 
 #### Status
 ACCEPTED

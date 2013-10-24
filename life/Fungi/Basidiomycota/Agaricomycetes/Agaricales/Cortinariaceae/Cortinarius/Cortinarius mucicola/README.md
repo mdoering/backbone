@@ -1,5 +1,4 @@
-Cortinarius mucicola A.H. Sm. SPECIES
-=======
+# Cortinarius mucicola A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

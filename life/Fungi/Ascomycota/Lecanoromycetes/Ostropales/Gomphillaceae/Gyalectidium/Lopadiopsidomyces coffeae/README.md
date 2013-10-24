@@ -1,5 +1,4 @@
-Lopadiopsidomyces coffeae Cif. & Tomas. SPECIES
-=======
+# Lopadiopsidomyces coffeae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

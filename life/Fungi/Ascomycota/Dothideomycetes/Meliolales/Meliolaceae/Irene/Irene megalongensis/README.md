@@ -1,5 +1,4 @@
-Irene megalongensis Hansf. SPECIES
-=======
+# Irene megalongensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

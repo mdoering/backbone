@@ -1,5 +1,4 @@
-Corynesporopsis inaequiseptata Matsush., 1993 SPECIES
-=======
+# Corynesporopsis inaequiseptata Matsush., 1993 SPECIES
 
 #### Status
 ACCEPTED

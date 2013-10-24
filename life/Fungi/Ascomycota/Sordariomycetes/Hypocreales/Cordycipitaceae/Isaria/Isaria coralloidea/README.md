@@ -1,5 +1,4 @@
-Isaria coralloidea Kalchbr. & Cooke SPECIES
-=======
+# Isaria coralloidea Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

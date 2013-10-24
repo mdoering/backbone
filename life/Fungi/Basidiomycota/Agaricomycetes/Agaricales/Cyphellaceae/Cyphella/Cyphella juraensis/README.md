@@ -1,5 +1,4 @@
-Cyphella juraensis Henn. SPECIES
-=======
+# Cyphella juraensis Henn. SPECIES
 
 #### Status
 ACCEPTED

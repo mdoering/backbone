@@ -1,5 +1,4 @@
-Amanita ochrophylloides D.A. Reid SPECIES
-=======
+# Amanita ochrophylloides D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

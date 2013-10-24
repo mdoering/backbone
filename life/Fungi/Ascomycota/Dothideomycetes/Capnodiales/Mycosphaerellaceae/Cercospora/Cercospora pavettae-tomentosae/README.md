@@ -1,5 +1,4 @@
-Cercospora pavettae-tomentosae Thirum. & Govindu SPECIES
-=======
+# Cercospora pavettae-tomentosae Thirum. & Govindu SPECIES
 
 #### Status
 ACCEPTED

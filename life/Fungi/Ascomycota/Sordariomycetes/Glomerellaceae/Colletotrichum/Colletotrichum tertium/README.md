@@ -1,5 +1,4 @@
-Colletotrichum tertium (Cooke) Grove SPECIES
-=======
+# Colletotrichum tertium (Cooke) Grove SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leciographa conglomerans (Müll. Arg.) Vouaux SPECIES
-=======
+# Leciographa conglomerans (Müll. Arg.) Vouaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma nubilum Manim., Leelav. & Noordel. SPECIES
-=======
+# Entoloma nubilum Manim., Leelav. & Noordel. SPECIES
 
 #### Status
 ACCEPTED

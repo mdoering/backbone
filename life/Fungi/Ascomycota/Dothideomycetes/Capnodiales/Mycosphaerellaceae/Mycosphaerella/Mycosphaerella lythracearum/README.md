@@ -1,5 +1,4 @@
-Mycosphaerella lythracearum F.A. Wolf, 1927 SPECIES
-=======
+# Mycosphaerella lythracearum F.A. Wolf, 1927 SPECIES
 
 #### Status
 ACCEPTED

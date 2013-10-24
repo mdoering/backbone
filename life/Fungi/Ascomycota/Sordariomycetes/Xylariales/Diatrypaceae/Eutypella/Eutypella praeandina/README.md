@@ -1,5 +1,4 @@
-Eutypella praeandina Speg. SPECIES
-=======
+# Eutypella praeandina Speg. SPECIES
 
 #### Status
 ACCEPTED

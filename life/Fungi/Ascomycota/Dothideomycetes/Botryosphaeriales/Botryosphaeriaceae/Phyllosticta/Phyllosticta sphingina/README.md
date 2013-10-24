@@ -1,5 +1,4 @@
-Phyllosticta sphingina Bubák SPECIES
-=======
+# Phyllosticta sphingina Bubák SPECIES
 
 #### Status
 ACCEPTED

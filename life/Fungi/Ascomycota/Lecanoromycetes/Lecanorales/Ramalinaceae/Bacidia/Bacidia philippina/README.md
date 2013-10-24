@@ -1,5 +1,4 @@
-Bacidia philippina (Vain.) Zahlbr. SPECIES
-=======
+# Bacidia philippina (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthrospora squamulosa (Mudd) Arnold SPECIES
-=======
+# Arthrospora squamulosa (Mudd) Arnold SPECIES
 
 #### Status
 ACCEPTED

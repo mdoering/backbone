@@ -1,5 +1,4 @@
-Agrocybe allocystis Singer SPECIES
-=======
+# Agrocybe allocystis Singer SPECIES
 
 #### Status
 ACCEPTED

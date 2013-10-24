@@ -1,5 +1,4 @@
-Cortinarius georgianae Moënne-Locc. SPECIES
-=======
+# Cortinarius georgianae Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discella populina Sacc. SPECIES
-=======
+# Discella populina Sacc. SPECIES
 
 #### Status
 ACCEPTED

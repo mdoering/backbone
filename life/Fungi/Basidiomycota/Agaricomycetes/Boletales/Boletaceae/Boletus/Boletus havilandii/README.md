@@ -1,5 +1,4 @@
-Boletus havilandii Corner SPECIES
-=======
+# Boletus havilandii Corner SPECIES
 
 #### Status
 ACCEPTED

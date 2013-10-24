@@ -1,5 +1,4 @@
-Streimannia varieseptata G. Thor SPECIES
-=======
+# Streimannia varieseptata G. Thor SPECIES
 
 #### Status
 ACCEPTED

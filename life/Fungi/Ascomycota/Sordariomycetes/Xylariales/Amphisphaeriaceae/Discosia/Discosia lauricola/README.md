@@ -1,5 +1,4 @@
-Discosia lauricola Nag Raj SPECIES
-=======
+# Discosia lauricola Nag Raj SPECIES
 
 #### Status
 ACCEPTED

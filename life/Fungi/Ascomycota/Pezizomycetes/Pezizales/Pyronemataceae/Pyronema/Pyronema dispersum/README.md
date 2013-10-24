@@ -1,5 +1,4 @@
-Pyronema dispersum Velen. SPECIES
-=======
+# Pyronema dispersum Velen. SPECIES
 
 #### Status
 ACCEPTED

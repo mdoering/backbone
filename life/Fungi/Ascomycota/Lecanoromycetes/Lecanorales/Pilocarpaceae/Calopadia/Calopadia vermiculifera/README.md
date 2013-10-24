@@ -1,5 +1,4 @@
-Calopadia vermiculifera (Vain.) Sérus. SPECIES
-=======
+# Calopadia vermiculifera (Vain.) Sérus. SPECIES
 
 #### Status
 ACCEPTED

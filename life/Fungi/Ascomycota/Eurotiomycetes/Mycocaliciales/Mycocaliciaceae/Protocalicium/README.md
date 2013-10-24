@@ -1,5 +1,4 @@
-Protocalicium Woron. GENUS
-=======
+# Protocalicium Woron. GENUS
 
 #### Status
 ACCEPTED

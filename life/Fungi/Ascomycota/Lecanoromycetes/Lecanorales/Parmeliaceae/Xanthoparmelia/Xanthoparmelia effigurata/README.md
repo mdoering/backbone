@@ -1,5 +1,4 @@
-Xanthoparmelia effigurata Hale SPECIES
-=======
+# Xanthoparmelia effigurata Hale SPECIES
 
 #### Status
 ACCEPTED

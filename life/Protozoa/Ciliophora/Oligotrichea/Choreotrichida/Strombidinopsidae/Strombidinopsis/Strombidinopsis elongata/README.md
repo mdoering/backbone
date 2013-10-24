@@ -1,5 +1,4 @@
-Strombidinopsis elongata Song & Bradbury, 1998 SPECIES
-=======
+# Strombidinopsis elongata Song & Bradbury, 1998 SPECIES
 
 #### Status
 ACCEPTED

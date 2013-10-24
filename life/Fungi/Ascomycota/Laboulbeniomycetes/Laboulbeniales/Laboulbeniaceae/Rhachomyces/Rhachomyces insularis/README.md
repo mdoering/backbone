@@ -1,5 +1,4 @@
-Rhachomyces insularis T. Majewski & K. Sugiy. SPECIES
-=======
+# Rhachomyces insularis T. Majewski & K. Sugiy. SPECIES
 
 #### Status
 ACCEPTED

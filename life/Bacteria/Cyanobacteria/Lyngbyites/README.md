@@ -1,5 +1,4 @@
-Lyngbyites V.N. Makhaev, 1937 GENUS
-=======
+# Lyngbyites V.N. Makhaev, 1937 GENUS
 
 #### Status
 ACCEPTED

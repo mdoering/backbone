@@ -1,5 +1,4 @@
-Aspidisca minuta SPECIES
-=======
+# Aspidisca minuta SPECIES
 
 #### Status
 ACCEPTED

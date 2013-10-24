@@ -1,14 +1,13 @@
-Passalora codonopsis (Y.L. Guo) U. Braun & Crous SPECIES
-=======
+# Passalora codonopsidis (Y.L. Guo) U. Braun & Crous SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 1: 448 (2003)
 
 #### Original name
 Mycovellosiella codonopsidis Y.L. Guo

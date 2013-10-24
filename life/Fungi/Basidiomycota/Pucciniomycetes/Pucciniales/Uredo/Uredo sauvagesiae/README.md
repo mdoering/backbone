@@ -1,5 +1,4 @@
-Uredo sauvagesiae Arthur SPECIES
-=======
+# Uredo sauvagesiae Arthur SPECIES
 
 #### Status
 ACCEPTED

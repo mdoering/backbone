@@ -1,5 +1,4 @@
-Myxodochium G. Arnaud GENUS
-=======
+# Myxodochium G. Arnaud GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psychrobacter aquaticus Shivaji et al., 2005 SPECIES
-=======
+# Psychrobacter aquaticus Shivaji et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

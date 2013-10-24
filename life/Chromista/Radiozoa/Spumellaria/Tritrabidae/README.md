@@ -1,5 +1,4 @@
-Tritrabidae Baumgartner, 1980 FAMILY
-=======
+# Tritrabidae Baumgartner, 1980 FAMILY
 
 #### Status
 ACCEPTED

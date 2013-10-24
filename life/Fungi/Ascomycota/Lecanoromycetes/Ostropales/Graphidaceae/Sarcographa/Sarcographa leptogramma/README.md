@@ -1,5 +1,4 @@
-Sarcographa leptogramma Fée SPECIES
-=======
+# Sarcographa leptogramma Fée SPECIES
 
 #### Status
 ACCEPTED

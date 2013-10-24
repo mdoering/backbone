@@ -1,5 +1,4 @@
-Pseudohydnotrya GENUS
-=======
+# Pseudohydnotrya GENUS
 
 #### Status
 ACCEPTED

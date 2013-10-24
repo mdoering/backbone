@@ -1,5 +1,4 @@
-Xanthophyceae Allorge ex Fritsch, 1935 CLASS
-=======
+# Xanthophyceae Allorge ex Fritsch, 1935 CLASS
 
 #### Status
 ACCEPTED

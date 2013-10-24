@@ -1,5 +1,4 @@
-Epidochium eucalypti Cooke SPECIES
-=======
+# Epidochium eucalypti Cooke SPECIES
 
 #### Status
 ACCEPTED

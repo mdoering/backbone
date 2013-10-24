@@ -1,5 +1,4 @@
-Xylaria kretzschmarioidea J.D. Rogers & Rossman SPECIES
-=======
+# Xylaria kretzschmarioidea J.D. Rogers & Rossman SPECIES
 
 #### Status
 ACCEPTED

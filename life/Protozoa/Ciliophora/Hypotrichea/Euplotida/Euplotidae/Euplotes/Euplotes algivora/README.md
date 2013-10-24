@@ -1,5 +1,4 @@
-Euplotes algivora SPECIES
-=======
+# Euplotes algivora SPECIES
 
 #### Status
 ACCEPTED

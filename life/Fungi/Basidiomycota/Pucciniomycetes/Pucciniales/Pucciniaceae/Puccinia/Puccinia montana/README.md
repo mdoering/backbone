@@ -1,14 +1,13 @@
-Dicaeoma montanum (Fuckel) Kuntze, 1898 SPECIES
-=======
+# Puccinia montana Fuckel, 1874 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 469 (1898)
+Jb. nassau. Ver. Naturk. 27-28: 14 (1873)
 
 #### Original name
 Puccinia montana Fuckel, 1874

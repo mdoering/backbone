@@ -1,17 +1,16 @@
-Lecanora caesiorubella var. glaucomodes VARIETY
-=======
+# Lecanora caesiorubella Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. univ. 366 (1810)
 
 #### Original name
-null
+Lecanora caesiorubella Ach.
 
 ### Remarks
 null

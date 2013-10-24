@@ -1,5 +1,4 @@
-Marginopora anomala Lacroix, 1940 SPECIES
-=======
+# Marginopora anomala Lacroix, 1940 SPECIES
 
 #### Status
 ACCEPTED

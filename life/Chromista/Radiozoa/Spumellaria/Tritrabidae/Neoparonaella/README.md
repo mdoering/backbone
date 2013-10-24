@@ -1,5 +1,4 @@
-Neoparonaella GENUS
-=======
+# Neoparonaella GENUS
 
 #### Status
 ACCEPTED

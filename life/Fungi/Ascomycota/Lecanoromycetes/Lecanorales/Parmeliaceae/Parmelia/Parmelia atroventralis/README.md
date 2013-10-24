@@ -1,5 +1,4 @@
-Parmelia atroventralis Hale SPECIES
-=======
+# Parmelia atroventralis Hale SPECIES
 
 #### Status
 ACCEPTED

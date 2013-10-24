@@ -1,5 +1,4 @@
-Dicoccum populinum Ellis & Everh. SPECIES
-=======
+# Dicoccum populinum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

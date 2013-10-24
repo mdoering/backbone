@@ -1,11 +1,10 @@
-Asperococcus turneri f. profundus (Feldmann) M.Cormaci & G.Furnari in T. Gallardo, 1992 FORM
-=======
+# Asperococcus bullosus J.V. Lamouroux SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

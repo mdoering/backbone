@@ -1,5 +1,4 @@
-Meliola lonchocarpicola var. lonchocarpicola VARIETY
-=======
+# Meliola lonchocarpicola F. Stevens SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 26: 207 (1928)
 
 #### Original name
-Meliola lonchocarpicola var. lonchocarpicola
+Meliola lonchocarpicola F. Stevens
 
 ### Remarks
 null

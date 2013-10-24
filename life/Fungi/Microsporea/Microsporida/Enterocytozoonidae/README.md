@@ -1,5 +1,4 @@
-Enterocytozoonidae Cali & Owen, 1990 FAMILY
-=======
+# Enterocytozoonidae Cali & Owen, 1990 FAMILY
 
 #### Status
 ACCEPTED

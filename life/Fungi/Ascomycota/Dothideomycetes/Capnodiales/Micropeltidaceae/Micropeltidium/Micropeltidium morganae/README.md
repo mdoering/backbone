@@ -1,5 +1,4 @@
-Micropeltidium morganae (Doidge) Bat. SPECIES
-=======
+# Micropeltidium morganae (Doidge) Bat. SPECIES
 
 #### Status
 ACCEPTED

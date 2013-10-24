@@ -1,5 +1,4 @@
-Phomopsis sequoiae (Naito) Vanev SPECIES
-=======
+# Phomopsis sequoiae (Naito) Vanev SPECIES
 
 #### Status
 ACCEPTED

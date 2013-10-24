@@ -1,17 +1,16 @@
-Physarum leucophaeum var. violascens Berl. VARIETY
-=======
+# Physarum leucophaeum Fr., 1818 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. gasteromyc. (Lund) 1-3: 24 (1818)
 
 #### Original name
-Physarum leucophaeum var. violascens Berl.
+Physarum leucophaeum Fr., 1818
 
 ### Remarks
 null

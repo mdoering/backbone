@@ -1,5 +1,4 @@
-Rhizocarpon havaasii Räsänen SPECIES
-=======
+# Rhizocarpon havaasii Räsänen SPECIES
 
 #### Status
 ACCEPTED

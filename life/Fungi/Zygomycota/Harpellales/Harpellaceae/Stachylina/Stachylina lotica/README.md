@@ -1,5 +1,4 @@
-Stachylina lotica M.C. Williams & Lichtw., 1984 SPECIES
-=======
+# Stachylina lotica M.C. Williams & Lichtw., 1984 SPECIES
 
 #### Status
 ACCEPTED

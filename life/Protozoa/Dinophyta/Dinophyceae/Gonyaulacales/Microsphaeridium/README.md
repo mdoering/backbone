@@ -1,5 +1,4 @@
-Microsphaeridium P.N. von Benedek, 1972 GENUS
-=======
+# Microsphaeridium P.N. von Benedek, 1972 GENUS
 
 #### Status
 ACCEPTED

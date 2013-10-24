@@ -1,5 +1,4 @@
-Echinofolliculina Dons, 1935 GENUS
-=======
+# Echinofolliculina Dons, 1935 GENUS
 
 #### Status
 ACCEPTED

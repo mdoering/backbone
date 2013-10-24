@@ -1,5 +1,4 @@
-Peridermium californicum Arthur & F. Kern SPECIES
-=======
+# Peridermium californicum Arthur & F. Kern SPECIES
 
 #### Status
 ACCEPTED

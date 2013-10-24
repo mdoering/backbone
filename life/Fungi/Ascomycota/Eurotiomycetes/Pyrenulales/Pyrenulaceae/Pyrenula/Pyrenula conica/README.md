@@ -1,5 +1,4 @@
-Pyrenula conica Müll. Arg. SPECIES
-=======
+# Pyrenula conica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

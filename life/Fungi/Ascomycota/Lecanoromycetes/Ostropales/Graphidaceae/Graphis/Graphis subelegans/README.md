@@ -1,5 +1,4 @@
-Graphis subelegans Nyl. SPECIES
-=======
+# Graphis subelegans Nyl. SPECIES
 
 #### Status
 ACCEPTED

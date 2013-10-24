@@ -1,5 +1,4 @@
-Coniothyrium pallidofuscum Sacc. SPECIES
-=======
+# Coniothyrium pallidofuscum Sacc. SPECIES
 
 #### Status
 ACCEPTED

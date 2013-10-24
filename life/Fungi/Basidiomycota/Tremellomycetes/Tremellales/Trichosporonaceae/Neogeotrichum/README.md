@@ -1,5 +1,4 @@
-Neogeotrichum GENUS
-=======
+# Neogeotrichum GENUS
 
 #### Status
 ACCEPTED

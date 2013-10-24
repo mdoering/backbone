@@ -1,5 +1,4 @@
-Erioderma phaeorhizum Vain. SPECIES
-=======
+# Erioderma phaeorhizum Vain. SPECIES
 
 #### Status
 ACCEPTED

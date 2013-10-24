@@ -1,5 +1,4 @@
-Botrytis wallrothii Sacc. SPECIES
-=======
+# Botrytis wallrothii Sacc. SPECIES
 
 #### Status
 ACCEPTED

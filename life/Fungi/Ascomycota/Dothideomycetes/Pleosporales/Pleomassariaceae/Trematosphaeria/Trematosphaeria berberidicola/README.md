@@ -1,5 +1,4 @@
-Trematosphaeria berberidicola (G.H. Otth) Shoemaker & P.M. LeClair SPECIES
-=======
+# Trematosphaeria berberidicola (G.H. Otth) Shoemaker & P.M. LeClair SPECIES
 
 #### Status
 ACCEPTED

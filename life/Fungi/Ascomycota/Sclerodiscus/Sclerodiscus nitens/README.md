@@ -1,5 +1,4 @@
-Sclerodiscus nitens Pat., 1890 SPECIES
-=======
+# Sclerodiscus nitens Pat., 1890 SPECIES
 
 #### Status
 ACCEPTED

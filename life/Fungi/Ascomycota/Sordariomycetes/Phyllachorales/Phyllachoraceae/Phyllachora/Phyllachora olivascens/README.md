@@ -1,14 +1,13 @@
-Physalospora olivascens Rehm, 1901 SPECIES
-=======
+# Phyllachora olivascens (Rehm) Arx & E. Müll., 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 40: 111 (1901)
+Beitr. Kryptfl. Schweiz 11(no. 1): 222 (1954)
 
 #### Original name
 Physalospora olivascens Rehm, 1901

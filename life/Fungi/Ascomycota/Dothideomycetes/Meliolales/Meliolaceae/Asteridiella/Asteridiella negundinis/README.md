@@ -1,5 +1,4 @@
-Asteridiella negundinis J.A. Stev. SPECIES
-=======
+# Asteridiella negundinis J.A. Stev. SPECIES
 
 #### Status
 ACCEPTED

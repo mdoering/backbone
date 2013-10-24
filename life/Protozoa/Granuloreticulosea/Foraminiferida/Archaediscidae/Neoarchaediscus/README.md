@@ -1,5 +1,4 @@
-Neoarchaediscus Miklukho-Maklay, 1956 GENUS
-=======
+# Neoarchaediscus Miklukho-Maklay, 1956 GENUS
 
 #### Status
 ACCEPTED

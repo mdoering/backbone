@@ -1,14 +1,13 @@
-Lecidea trachonoides Nyl. SPECIES
-=======
+# Catillaria trachonoides (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 4: 80 (1926)
 
 #### Original name
 Lecidea trachonoides Nyl.

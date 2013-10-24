@@ -1,5 +1,4 @@
-Leucopholiota (Romagn.) O.K. Mill., T.J. Volk & Bessette GENUS
-=======
+# Leucopholiota (Romagn.) O.K. Mill., T.J. Volk & Bessette GENUS
 
 #### Status
 ACCEPTED

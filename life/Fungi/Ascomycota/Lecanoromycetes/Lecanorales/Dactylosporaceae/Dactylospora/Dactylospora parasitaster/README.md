@@ -1,5 +1,4 @@
-Dactylospora parasitaster SPECIES
-=======
+# Dactylospora parasitaster SPECIES
 
 #### Status
 ACCEPTED

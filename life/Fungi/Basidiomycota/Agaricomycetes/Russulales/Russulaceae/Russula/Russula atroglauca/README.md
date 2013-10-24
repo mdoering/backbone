@@ -1,5 +1,4 @@
-Russula atroglauca Einhell. SPECIES
-=======
+# Russula atroglauca Einhell. SPECIES
 
 #### Status
 ACCEPTED

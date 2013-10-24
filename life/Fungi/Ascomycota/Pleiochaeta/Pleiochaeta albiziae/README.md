@@ -1,17 +1,16 @@
-Pleiochaeta albizziae (Petch) S. Hughes SPECIES
-=======
+# Pleiochaeta albiziae (Petch) S. Hughes, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 36: 39 (1951)
 
 #### Original name
-Ceratosporium albiziae (Petch)
+Ceratophorum albiziae Petch, 1917
 
 ### Remarks
 null

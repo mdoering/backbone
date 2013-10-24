@@ -1,5 +1,4 @@
-Involucroscypha Raitv. GENUS
-=======
+# Involucroscypha Raitv. GENUS
 
 #### Status
 ACCEPTED

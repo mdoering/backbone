@@ -1,5 +1,4 @@
-Pestalotia artemisiae Pass. SPECIES
-=======
+# Pestalotia artemisiae Pass. SPECIES
 
 #### Status
 ACCEPTED

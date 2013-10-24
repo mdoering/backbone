@@ -1,5 +1,4 @@
-Lecanora rimularum Wedd. SPECIES
-=======
+# Lecanora rimularum Wedd. SPECIES
 
 #### Status
 ACCEPTED

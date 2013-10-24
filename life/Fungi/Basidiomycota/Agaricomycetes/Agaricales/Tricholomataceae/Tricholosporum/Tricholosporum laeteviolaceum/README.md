@@ -1,5 +1,4 @@
-Tricholosporum laeteviolaceum D.A. Reid, Eicker, Clémençon & Cec. Roux SPECIES
-=======
+# Tricholosporum laeteviolaceum D.A. Reid, Eicker, Clémençon & Cec. Roux SPECIES
 
 #### Status
 ACCEPTED

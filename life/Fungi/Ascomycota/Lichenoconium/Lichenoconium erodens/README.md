@@ -1,5 +1,4 @@
-Lichenoconium erodens M.S. Christ. & D. Hawksw., 1977 SPECIES
-=======
+# Lichenoconium erodens M.S. Christ. & D. Hawksw., 1977 SPECIES
 
 #### Status
 ACCEPTED

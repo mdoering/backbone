@@ -1,5 +1,4 @@
-Coleosporium hedyotidis Kalchbr. & Cooke SPECIES
-=======
+# Coleosporium hedyotidis Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

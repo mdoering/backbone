@@ -1,5 +1,4 @@
-Diploplenodomopsis genistae Petr. SPECIES
-=======
+# Diploplenodomopsis genistae Petr. SPECIES
 
 #### Status
 ACCEPTED

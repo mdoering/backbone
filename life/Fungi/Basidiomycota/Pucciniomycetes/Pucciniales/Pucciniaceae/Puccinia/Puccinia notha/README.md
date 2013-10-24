@@ -1,5 +1,4 @@
-Puccinia notha H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia notha H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

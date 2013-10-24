@@ -1,5 +1,4 @@
-Geopyxis velata (Quél.) Sacc. & P. Syd. SPECIES
-=======
+# Geopyxis velata (Quél.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

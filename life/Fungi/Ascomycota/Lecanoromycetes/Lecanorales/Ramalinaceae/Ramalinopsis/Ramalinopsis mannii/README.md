@@ -1,5 +1,4 @@
-Ramalinopsis mannii (Zahlbr.) Follmann & Huneck SPECIES
-=======
+# Ramalinopsis mannii (Zahlbr.) Follmann & Huneck SPECIES
 
 #### Status
 ACCEPTED

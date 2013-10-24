@@ -1,5 +1,4 @@
-Arctopeltis Poelt GENUS
-=======
+# Arctopeltis Poelt GENUS
 
 #### Status
 ACCEPTED

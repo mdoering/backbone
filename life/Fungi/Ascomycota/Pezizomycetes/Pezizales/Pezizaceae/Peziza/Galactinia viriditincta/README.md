@@ -1,5 +1,4 @@
-Galactinia viriditincta Clem. SPECIES
-=======
+# Galactinia viriditincta Clem. SPECIES
 
 #### Status
 ACCEPTED

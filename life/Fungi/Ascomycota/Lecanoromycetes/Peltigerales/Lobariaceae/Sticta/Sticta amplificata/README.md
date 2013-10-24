@@ -1,5 +1,4 @@
-Sticta amplificata Zahlbr. SPECIES
-=======
+# Sticta amplificata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

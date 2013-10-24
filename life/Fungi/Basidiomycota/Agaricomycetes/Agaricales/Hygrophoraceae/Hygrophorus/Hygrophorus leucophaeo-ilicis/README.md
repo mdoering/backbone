@@ -1,5 +1,4 @@
-Hygrophorus leucophaeo-ilicis Bon & Chevassut SPECIES
-=======
+# Hygrophorus leucophaeo-ilicis Bon & Chevassut SPECIES
 
 #### Status
 ACCEPTED

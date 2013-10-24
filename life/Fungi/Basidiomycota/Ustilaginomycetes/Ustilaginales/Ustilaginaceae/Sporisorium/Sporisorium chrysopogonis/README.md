@@ -1,14 +1,13 @@
-Sporisorium clintonianum Vánky, 2006 SPECIES
-=======
+# Sporisorium chrysopogonis Vánky, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 95: 30 (2006)
+Mycotaxon 18(2): 327 (1983)
 
 #### Original name
 Sporisorium chrysopogonis Vánky, 1983

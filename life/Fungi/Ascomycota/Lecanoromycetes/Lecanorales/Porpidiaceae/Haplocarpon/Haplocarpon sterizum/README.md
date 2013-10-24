@@ -1,5 +1,4 @@
-Haplocarpon sterizum var. sterizum VARIETY
-=======
+# Haplocarpon sterizum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Haplocarpon sterizum var. sterizum
+null
 
 ### Remarks
 null

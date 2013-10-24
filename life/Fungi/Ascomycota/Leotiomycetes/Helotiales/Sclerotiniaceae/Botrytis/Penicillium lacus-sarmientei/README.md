@@ -1,5 +1,4 @@
-Penicillium lacus-sarmientei C. Ramírez, 1986 SPECIES
-=======
+# Penicillium lacus-sarmientei C. Ramírez, 1986 SPECIES
 
 #### Status
 DOUBTFUL

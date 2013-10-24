@@ -1,5 +1,4 @@
-Infundibulicybe bresadolana (Singer) Harmaja SPECIES
-=======
+# Infundibulicybe bresadolana (Singer) Harmaja SPECIES
 
 #### Status
 ACCEPTED

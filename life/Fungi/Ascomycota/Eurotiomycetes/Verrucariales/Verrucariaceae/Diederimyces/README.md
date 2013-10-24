@@ -1,5 +1,4 @@
-Diederimyces Etayo GENUS
-=======
+# Diederimyces Etayo GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thalassiosira sancettae F. Akiba SPECIES
-=======
+# Thalassiosira sancettae F. Akiba SPECIES
 
 #### Status
 ACCEPTED

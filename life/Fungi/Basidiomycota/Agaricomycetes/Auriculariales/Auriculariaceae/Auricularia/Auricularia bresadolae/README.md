@@ -1,5 +1,4 @@
-Auricularia bresadolae Schulzer SPECIES
-=======
+# Auricularia bresadolae Schulzer SPECIES
 
 #### Status
 ACCEPTED

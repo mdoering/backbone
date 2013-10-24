@@ -1,5 +1,4 @@
-Puccinia meshhedensis Petr. SPECIES
-=======
+# Puccinia meshhedensis Petr. SPECIES
 
 #### Status
 ACCEPTED

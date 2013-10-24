@@ -1,14 +1,13 @@
-Agaricus lugubris Fr., 1821 SPECIES
-=======
+# Phaeocollybia lugubris (Fr.) R. Heim, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 1: 254 (1821)
+Encyclop. Mycol. 1: 71 (1931)
 
 #### Original name
 Agaricus lugubris Fr., 1821

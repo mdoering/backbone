@@ -1,5 +1,4 @@
-Tranzschelia hyrcanica M. Abbasi & Gjaerum, 1997 SPECIES
-=======
+# Tranzschelia hyrcanica M. Abbasi & Gjaerum, 1997 SPECIES
 
 #### Status
 ACCEPTED

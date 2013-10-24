@@ -1,5 +1,4 @@
-Lepiota mucrocystis Pegler SPECIES
-=======
+# Lepiota mucrocystis Pegler SPECIES
 
 #### Status
 ACCEPTED

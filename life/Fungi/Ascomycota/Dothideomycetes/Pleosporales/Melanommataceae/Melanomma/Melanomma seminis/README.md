@@ -1,5 +1,4 @@
-Melanomma seminis (Cooke & Harkn.) Berl. & Voglino SPECIES
-=======
+# Melanomma seminis (Cooke & Harkn.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

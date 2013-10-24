@@ -1,5 +1,4 @@
-Teratomyces quedianus Thaxt. SPECIES
-=======
+# Teratomyces quedianus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria fistuca Berk. SPECIES
-=======
+# Xylaria fistuca Berk. SPECIES
 
 #### Status
 ACCEPTED

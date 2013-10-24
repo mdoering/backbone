@@ -1,5 +1,4 @@
-Verrucaria meridionalis P. M. McCarthy SPECIES
-=======
+# Verrucaria meridionalis P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lembosia javensis Hansf. SPECIES
-=======
+# Lembosia javensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

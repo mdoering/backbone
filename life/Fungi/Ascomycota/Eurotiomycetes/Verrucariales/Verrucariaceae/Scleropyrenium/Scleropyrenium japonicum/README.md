@@ -1,5 +1,4 @@
-Scleropyrenium japonicum H. Harada SPECIES
-=======
+# Scleropyrenium japonicum H. Harada SPECIES
 
 #### Status
 ACCEPTED

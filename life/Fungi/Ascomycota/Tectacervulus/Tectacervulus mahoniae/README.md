@@ -1,5 +1,4 @@
-Tectacervulus mahoniae A.W. Ramaley, 1992 SPECIES
-=======
+# Tectacervulus mahoniae A.W. Ramaley, 1992 SPECIES
 
 #### Status
 ACCEPTED

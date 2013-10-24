@@ -1,5 +1,4 @@
-Bovista muelleri Berk. SPECIES
-=======
+# Bovista muelleri Berk. SPECIES
 
 #### Status
 ACCEPTED

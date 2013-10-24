@@ -1,5 +1,4 @@
-Peronospora lithospermi Gäum. SPECIES
-=======
+# Peronospora lithospermi Gäum. SPECIES
 
 #### Status
 ACCEPTED

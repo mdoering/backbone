@@ -1,5 +1,4 @@
-Lockhartia Davies, 1933 GENUS
-=======
+# Lockhartia Davies, 1933 GENUS
 
 #### Status
 ACCEPTED

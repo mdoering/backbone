@@ -1,5 +1,4 @@
-Phoma inocarpi Sacc. SPECIES
-=======
+# Phoma inocarpi Sacc. SPECIES
 
 #### Status
 ACCEPTED

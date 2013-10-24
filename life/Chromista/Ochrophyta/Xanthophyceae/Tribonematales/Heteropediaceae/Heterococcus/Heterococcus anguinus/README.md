@@ -1,5 +1,4 @@
-Heterococcus anguinus Pitschmann SPECIES
-=======
+# Heterococcus anguinus Pitschmann SPECIES
 
 #### Status
 ACCEPTED

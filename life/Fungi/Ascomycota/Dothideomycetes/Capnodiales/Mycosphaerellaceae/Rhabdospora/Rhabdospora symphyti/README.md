@@ -1,5 +1,4 @@
-Rhabdospora symphyti Hollós SPECIES
-=======
+# Rhabdospora symphyti Hollós SPECIES
 
 #### Status
 ACCEPTED

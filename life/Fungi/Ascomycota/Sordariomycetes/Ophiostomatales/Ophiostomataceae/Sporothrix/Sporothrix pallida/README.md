@@ -1,14 +1,13 @@
-Calcarisporium pallidum Tubaki, 1955 SPECIES
-=======
+# Sporothrix pallida (Tubaki) Matsush., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nagaoa 5: 13 (1955)
+Icon. microfung. Matsush. lect. (Kobe) 143 (1975)
 
 #### Original name
 Calcarisporium pallidum Tubaki, 1955

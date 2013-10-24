@@ -1,5 +1,4 @@
-Phellinus lonicericola Parmasto SPECIES
-=======
+# Phellinus lonicericola Parmasto SPECIES
 
 #### Status
 ACCEPTED

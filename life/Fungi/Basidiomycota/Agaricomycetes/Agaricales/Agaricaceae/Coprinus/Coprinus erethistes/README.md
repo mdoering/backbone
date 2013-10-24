@@ -1,5 +1,4 @@
-Coprinus erethistes Walleyn & Rammeloo SPECIES
-=======
+# Coprinus erethistes Walleyn & Rammeloo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chrysopodocystis socialis Billard SPECIES
-=======
+# Chrysopodocystis socialis Billard SPECIES
 
 #### Status
 ACCEPTED

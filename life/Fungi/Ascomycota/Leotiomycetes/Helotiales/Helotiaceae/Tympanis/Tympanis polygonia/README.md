@@ -1,5 +1,4 @@
-Tympanis polygonia (Fuckel) Sacc. SPECIES
-=======
+# Tympanis polygonia (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

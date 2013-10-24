@@ -1,5 +1,4 @@
-Terana microscopica (Speg.) Kuntze SPECIES
-=======
+# Terana microscopica (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

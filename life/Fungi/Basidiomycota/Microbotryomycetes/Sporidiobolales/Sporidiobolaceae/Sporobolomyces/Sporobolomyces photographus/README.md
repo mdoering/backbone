@@ -1,5 +1,4 @@
-Sporobolomyces photographus var. photographus VARIETY
-=======
+# Sporobolomyces photographus (Biourge) Cif. & Redaelli SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sporobolomyces photographus var. photographus
+Torula photographa Biourge
 
 ### Remarks
 null

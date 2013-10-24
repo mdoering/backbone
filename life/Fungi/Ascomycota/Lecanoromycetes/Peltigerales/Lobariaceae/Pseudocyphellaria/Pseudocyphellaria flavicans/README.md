@@ -1,5 +1,4 @@
-Pseudocyphellaria flavicans (Hook. f. & Taylor) Vain. SPECIES
-=======
+# Pseudocyphellaria flavicans (Hook. f. & Taylor) Vain. SPECIES
 
 #### Status
 ACCEPTED

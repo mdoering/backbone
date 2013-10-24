@@ -1,5 +1,4 @@
-Orbilia junci Kohlm., Baral & Volkm.-Kohlm. SPECIES
-=======
+# Orbilia junci Kohlm., Baral & Volkm.-Kohlm. SPECIES
 
 #### Status
 ACCEPTED

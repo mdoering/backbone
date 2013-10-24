@@ -1,5 +1,4 @@
-Coprinopsis paleotropica (Redhead & Pegler) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis paleotropica (Redhead & Pegler) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

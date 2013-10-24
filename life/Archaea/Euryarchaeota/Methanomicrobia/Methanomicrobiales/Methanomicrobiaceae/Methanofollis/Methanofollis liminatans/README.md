@@ -1,8 +1,7 @@
-Methanogenium liminatans Zellner et al., 1990 SPECIES
-=======
+# Methanofollis liminatans (Zellner et al., 1990) Zellner et al., 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

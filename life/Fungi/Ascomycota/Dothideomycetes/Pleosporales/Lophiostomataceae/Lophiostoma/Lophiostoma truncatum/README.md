@@ -1,5 +1,4 @@
-Lophiostoma truncatum (Pers.) Sacc. SPECIES
-=======
+# Lophiostoma truncatum (Pers.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

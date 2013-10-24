@@ -1,5 +1,4 @@
-Leptosphaeria involucralis Pass. SPECIES
-=======
+# Leptosphaeria involucralis Pass. SPECIES
 
 #### Status
 ACCEPTED

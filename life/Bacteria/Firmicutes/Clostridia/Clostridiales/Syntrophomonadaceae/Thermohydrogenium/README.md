@@ -1,5 +1,4 @@
-Thermohydrogenium Zacharova et al., 1996 GENUS
-=======
+# Thermohydrogenium Zacharova et al., 1996 GENUS
 
 #### Status
 ACCEPTED

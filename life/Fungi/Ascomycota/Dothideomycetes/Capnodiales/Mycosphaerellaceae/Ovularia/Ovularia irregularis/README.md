@@ -1,5 +1,4 @@
-Ovularia irregularis (Peck) Trel. SPECIES
-=======
+# Ovularia irregularis (Peck) Trel. SPECIES
 
 #### Status
 ACCEPTED

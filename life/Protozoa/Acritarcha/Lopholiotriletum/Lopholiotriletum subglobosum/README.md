@@ -1,5 +1,4 @@
-Lopholiotriletum subglobosum Timofeev, 1959 SPECIES
-=======
+# Lopholiotriletum subglobosum Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

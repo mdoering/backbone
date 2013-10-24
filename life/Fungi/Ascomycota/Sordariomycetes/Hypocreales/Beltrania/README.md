@@ -1,5 +1,4 @@
-Beltrania Penzig, 1882 GENUS
-=======
+# Beltrania Penzig, 1882 GENUS
 
 #### Status
 ACCEPTED

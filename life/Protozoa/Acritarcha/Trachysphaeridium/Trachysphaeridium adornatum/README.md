@@ -1,5 +1,4 @@
-Trachysphaeridium adornatum Chen Jinbiao et al., 1980 SPECIES
-=======
+# Trachysphaeridium adornatum Chen Jinbiao et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

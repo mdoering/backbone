@@ -1,5 +1,4 @@
-Pezicula corylina J.W. Groves, 1938 SPECIES
-=======
+# Pezicula corylina J.W. Groves, 1938 SPECIES
 
 #### Status
 ACCEPTED

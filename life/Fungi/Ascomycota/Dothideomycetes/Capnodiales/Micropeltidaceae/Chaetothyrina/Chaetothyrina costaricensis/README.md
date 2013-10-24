@@ -1,5 +1,4 @@
-Chaetothyrina costaricensis (F. Stevens & Weedon) Bat. SPECIES
-=======
+# Chaetothyrina costaricensis (F. Stevens & Weedon) Bat. SPECIES
 
 #### Status
 ACCEPTED

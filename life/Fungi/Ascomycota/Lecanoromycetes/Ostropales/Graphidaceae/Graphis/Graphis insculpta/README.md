@@ -1,5 +1,4 @@
-Graphis insculpta (Eschw.) Nyl. SPECIES
-=======
+# Graphis insculpta (Eschw.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

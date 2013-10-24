@@ -1,5 +1,4 @@
-Polyphlyctis Karling GENUS
-=======
+# Polyphlyctis Karling GENUS
 
 #### Status
 ACCEPTED

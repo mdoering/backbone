@@ -1,5 +1,4 @@
-Sporisorium absconditum Vánky SPECIES
-=======
+# Sporisorium absconditum Vánky SPECIES
 
 #### Status
 ACCEPTED

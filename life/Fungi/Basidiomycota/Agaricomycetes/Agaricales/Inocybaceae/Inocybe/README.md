@@ -1,5 +1,4 @@
-Inocybe (Fr.) Fr. GENUS
-=======
+# Inocybe (Fr.) Fr. GENUS
 
 #### Status
 ACCEPTED

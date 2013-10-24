@@ -1,5 +1,4 @@
-Gaudryina testigosensis SPECIES
-=======
+# Gaudryina testigosensis SPECIES
 
 #### Status
 ACCEPTED

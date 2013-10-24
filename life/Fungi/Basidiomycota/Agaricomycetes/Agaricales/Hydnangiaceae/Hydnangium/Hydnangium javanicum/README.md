@@ -1,5 +1,4 @@
-Hydnangium javanicum Henn. SPECIES
-=======
+# Hydnangium javanicum Henn. SPECIES
 
 #### Status
 ACCEPTED

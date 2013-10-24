@@ -1,5 +1,4 @@
-Sporotrichum campyleum Sacc. SPECIES
-=======
+# Sporotrichum campyleum Sacc. SPECIES
 
 #### Status
 ACCEPTED

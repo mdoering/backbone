@@ -1,5 +1,4 @@
-Phoma winteri Speg. SPECIES
-=======
+# Phoma winteri Speg. SPECIES
 
 #### Status
 ACCEPTED

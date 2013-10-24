@@ -1,5 +1,4 @@
-Entoloma proprium E. Horak SPECIES
-=======
+# Entoloma proprium E. Horak SPECIES
 
 #### Status
 ACCEPTED

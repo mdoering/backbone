@@ -1,5 +1,4 @@
-Septocylindrium punctatum (Bonord.) Sacc. SPECIES
-=======
+# Septocylindrium punctatum (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

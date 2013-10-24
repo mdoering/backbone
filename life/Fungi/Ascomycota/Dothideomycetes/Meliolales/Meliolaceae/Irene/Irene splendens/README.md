@@ -1,5 +1,4 @@
-Irene splendens F. Stevens SPECIES
-=======
+# Irene splendens F. Stevens SPECIES
 
 #### Status
 ACCEPTED

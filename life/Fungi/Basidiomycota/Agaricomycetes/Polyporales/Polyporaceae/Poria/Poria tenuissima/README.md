@@ -1,5 +1,4 @@
-Poria tenuissima Speg. SPECIES
-=======
+# Poria tenuissima Speg. SPECIES
 
 #### Status
 ACCEPTED

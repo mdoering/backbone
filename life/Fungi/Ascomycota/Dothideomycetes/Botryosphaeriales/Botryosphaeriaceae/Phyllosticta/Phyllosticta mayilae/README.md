@@ -1,5 +1,4 @@
-Phyllosticta mayilae Petch SPECIES
-=======
+# Phyllosticta mayilae Petch SPECIES
 
 #### Status
 ACCEPTED

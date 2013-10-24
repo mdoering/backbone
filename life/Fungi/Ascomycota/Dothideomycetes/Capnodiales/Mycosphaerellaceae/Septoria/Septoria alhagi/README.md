@@ -1,5 +1,4 @@
-Septoria alhagi S. Ahmad SPECIES
-=======
+# Septoria alhagi S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

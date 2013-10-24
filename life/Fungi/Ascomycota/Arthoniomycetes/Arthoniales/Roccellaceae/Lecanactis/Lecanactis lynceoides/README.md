@@ -1,5 +1,4 @@
-Lecanactis lynceoides (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Lecanactis lynceoides (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

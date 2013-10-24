@@ -1,5 +1,4 @@
-Eprolithus rarus SPECIES
-=======
+# Eprolithus rarus SPECIES
 
 #### Status
 ACCEPTED

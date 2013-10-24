@@ -1,5 +1,4 @@
-Thelohania disparis SPECIES
-=======
+# Thelohania disparis SPECIES
 
 #### Status
 ACCEPTED

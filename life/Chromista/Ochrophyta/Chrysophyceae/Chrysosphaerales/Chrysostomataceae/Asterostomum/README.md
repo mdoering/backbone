@@ -1,5 +1,4 @@
-Asterostomum Zanon GENUS
-=======
+# Asterostomum Zanon GENUS
 
 #### Status
 ACCEPTED

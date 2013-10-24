@@ -1,5 +1,4 @@
-Phyllosticta pruni-salicinae Miura SPECIES
-=======
+# Phyllosticta pruni-salicinae Miura SPECIES
 
 #### Status
 ACCEPTED

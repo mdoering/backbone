@@ -1,5 +1,4 @@
-Cladonia uliginosa (Ahti) Ahti SPECIES
-=======
+# Cladonia uliginosa (Ahti) Ahti SPECIES
 
 #### Status
 ACCEPTED

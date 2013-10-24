@@ -1,5 +1,4 @@
-Natronococcus occultus Tindall et al., 1984 SPECIES
-=======
+# Natronococcus occultus Tindall et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

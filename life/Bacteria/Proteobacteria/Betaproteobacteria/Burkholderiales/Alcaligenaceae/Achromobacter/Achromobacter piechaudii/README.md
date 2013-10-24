@@ -1,8 +1,7 @@
-Alcaligenes piechaudii Kiredjian et al., 1986 SPECIES
-=======
+# Achromobacter piechaudii (Kiredjian et al., 1986) Yabuuchi et al., 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

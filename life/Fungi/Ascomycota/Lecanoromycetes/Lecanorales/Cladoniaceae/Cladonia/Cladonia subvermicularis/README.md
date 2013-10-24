@@ -1,5 +1,4 @@
-Cladonia subvermicularis Asahina SPECIES
-=======
+# Cladonia subvermicularis Asahina SPECIES
 
 #### Status
 ACCEPTED

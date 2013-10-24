@@ -1,5 +1,4 @@
-Bulgariastrum cordiae Bat. SPECIES
-=======
+# Bulgariastrum cordiae Bat. SPECIES
 
 #### Status
 ACCEPTED

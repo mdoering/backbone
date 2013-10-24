@@ -1,5 +1,4 @@
-Parmeliomyces tiliaceae Cif. & Tomas. SPECIES
-=======
+# Parmeliomyces tiliaceae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

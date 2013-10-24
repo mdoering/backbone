@@ -1,5 +1,4 @@
-Oospora alba (Preuss) Sacc. & Voglino SPECIES
-=======
+# Oospora alba (Preuss) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

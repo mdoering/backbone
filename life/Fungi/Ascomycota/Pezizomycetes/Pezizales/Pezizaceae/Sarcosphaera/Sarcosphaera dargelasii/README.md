@@ -1,5 +1,4 @@
-Sarcosphaera dargelasii (Gachet) Nannf. SPECIES
-=======
+# Sarcosphaera dargelasii (Gachet) Nannf. SPECIES
 
 #### Status
 ACCEPTED

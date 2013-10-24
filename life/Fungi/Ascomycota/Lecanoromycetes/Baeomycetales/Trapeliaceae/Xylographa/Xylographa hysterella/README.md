@@ -1,5 +1,4 @@
-Xylographa hysterella Nyl. SPECIES
-=======
+# Xylographa hysterella Nyl. SPECIES
 
 #### Status
 ACCEPTED

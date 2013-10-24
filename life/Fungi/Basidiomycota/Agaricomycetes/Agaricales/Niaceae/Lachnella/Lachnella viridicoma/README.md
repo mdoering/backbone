@@ -1,5 +1,4 @@
-Lachnella viridicoma (Peck) Seaver SPECIES
-=======
+# Lachnella viridicoma (Peck) Seaver SPECIES
 
 #### Status
 ACCEPTED

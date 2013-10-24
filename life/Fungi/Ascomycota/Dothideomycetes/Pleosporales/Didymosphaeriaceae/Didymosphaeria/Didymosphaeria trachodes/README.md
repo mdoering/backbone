@@ -1,5 +1,4 @@
-Didymosphaeria trachodes (Mont.) Sacc. SPECIES
-=======
+# Didymosphaeria trachodes (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Rhizosolenia flaccida Castracane, 1886 SPECIES
-=======
+# Guinardia flaccida (Castracane) H. Peragallo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Gloeodinium viscum A.T. Banaszak, R. Iglesias-Prieto & R.K. Trench SPECIES
-=======
+# Gloeodinium viscum A.T. Banaszak, R. Iglesias-Prieto & R.K. Trench SPECIES
 
 #### Status
 ACCEPTED

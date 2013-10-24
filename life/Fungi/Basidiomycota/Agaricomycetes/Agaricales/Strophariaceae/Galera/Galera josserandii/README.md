@@ -1,5 +1,4 @@
-Galera josserandii Kühner SPECIES
-=======
+# Galera josserandii Kühner SPECIES
 
 #### Status
 ACCEPTED

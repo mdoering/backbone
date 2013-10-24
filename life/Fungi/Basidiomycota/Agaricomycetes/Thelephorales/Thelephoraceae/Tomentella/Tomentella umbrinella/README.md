@@ -1,5 +1,4 @@
-Tomentella umbrinella (Bourdot & Galzin) M.P. Christ. SPECIES
-=======
+# Tomentella umbrinella (Bourdot & Galzin) M.P. Christ. SPECIES
 
 #### Status
 ACCEPTED

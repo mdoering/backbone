@@ -1,5 +1,4 @@
-Parmelia miniata (Hoffm.) Ach. SPECIES
-=======
+# Parmelia miniata (Hoffm.) Ach. SPECIES
 
 #### Status
 ACCEPTED

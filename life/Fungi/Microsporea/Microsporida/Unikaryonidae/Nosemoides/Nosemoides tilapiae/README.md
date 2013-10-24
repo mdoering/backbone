@@ -1,5 +1,4 @@
-Nosemoides tilapiae N.G. Sakiti & G. Bouix SPECIES
-=======
+# Nosemoides tilapiae N.G. Sakiti & G. Bouix SPECIES
 
 #### Status
 ACCEPTED

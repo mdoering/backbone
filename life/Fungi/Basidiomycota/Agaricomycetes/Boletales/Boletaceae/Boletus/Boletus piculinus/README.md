@@ -1,5 +1,4 @@
-Boletus piculinus Corner SPECIES
-=======
+# Boletus piculinus Corner SPECIES
 
 #### Status
 ACCEPTED

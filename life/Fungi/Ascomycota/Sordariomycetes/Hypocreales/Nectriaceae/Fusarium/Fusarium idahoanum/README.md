@@ -1,5 +1,4 @@
-Fusarium idahoanum O.A. Pratt SPECIES
-=======
+# Fusarium idahoanum O.A. Pratt SPECIES
 
 #### Status
 ACCEPTED

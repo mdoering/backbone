@@ -1,17 +1,16 @@
-Dacryopsella Höhn. GENUS
-=======
+# Pistillina Quél. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 124: 50 (1915)
+Compt. Rend. Assoc. Franç. Avancem. Sci. 9: 671 (1880)
 
 #### Original name
-Dacryopsella Höhn.
+Pistillina Quél.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Verrucaria bachmannii Zschacke SPECIES
-=======
+# Verrucaria bachmannii Zschacke SPECIES
 
 #### Status
 ACCEPTED

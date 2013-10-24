@@ -1,5 +1,4 @@
-Phoma phillyreae-variabilis Ces. SPECIES
-=======
+# Phoma phillyreae-variabilis Ces. SPECIES
 
 #### Status
 ACCEPTED

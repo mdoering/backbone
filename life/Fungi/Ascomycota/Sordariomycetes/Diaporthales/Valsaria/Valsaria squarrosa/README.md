@@ -1,5 +1,4 @@
-Valsaria squarrosa Bat. SPECIES
-=======
+# Valsaria squarrosa Bat. SPECIES
 
 #### Status
 ACCEPTED

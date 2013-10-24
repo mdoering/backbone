@@ -1,5 +1,4 @@
-Haplopyrenula tunicata Müll. Arg. SPECIES
-=======
+# Haplopyrenula tunicata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

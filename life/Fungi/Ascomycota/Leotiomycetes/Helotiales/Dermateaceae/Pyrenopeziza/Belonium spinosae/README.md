@@ -1,5 +1,4 @@
-Belonium spinosae Velen. SPECIES
-=======
+# Belonium spinosae Velen. SPECIES
 
 #### Status
 ACCEPTED

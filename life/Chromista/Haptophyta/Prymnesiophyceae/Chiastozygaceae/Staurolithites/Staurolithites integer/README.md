@@ -1,5 +1,4 @@
-Staurolithites integer SPECIES
-=======
+# Staurolithites integer SPECIES
 
 #### Status
 ACCEPTED

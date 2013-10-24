@@ -1,5 +1,4 @@
-Cheissiniophrya GENUS
-=======
+# Cheissiniophrya GENUS
 
 #### Status
 ACCEPTED

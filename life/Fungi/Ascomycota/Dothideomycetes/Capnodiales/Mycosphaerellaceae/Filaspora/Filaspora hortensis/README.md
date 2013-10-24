@@ -1,5 +1,4 @@
-Filaspora hortensis (Sacc.) Kuntze SPECIES
-=======
+# Filaspora hortensis (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

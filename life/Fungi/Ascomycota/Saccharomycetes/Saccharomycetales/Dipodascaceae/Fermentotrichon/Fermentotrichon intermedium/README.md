@@ -1,5 +1,4 @@
-Fermentotrichon intermedium (Florenz.) E.K. Novák & Zsolt SPECIES
-=======
+# Fermentotrichon intermedium (Florenz.) E.K. Novák & Zsolt SPECIES
 
 #### Status
 ACCEPTED

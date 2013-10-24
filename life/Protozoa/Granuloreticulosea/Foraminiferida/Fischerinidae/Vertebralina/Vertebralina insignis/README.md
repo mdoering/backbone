@@ -1,5 +1,4 @@
-Vertebralina insignis Brady, 1884 SPECIES
-=======
+# Vertebralina insignis Brady, 1884 SPECIES
 
 #### Status
 ACCEPTED

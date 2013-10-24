@@ -1,5 +1,4 @@
-Tokophrya vulgata SPECIES
-=======
+# Tokophrya vulgata SPECIES
 
 #### Status
 ACCEPTED

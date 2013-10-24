@@ -1,5 +1,4 @@
-Anabaena orthogona W. West SPECIES
-=======
+# Anabaena orthogona W. West SPECIES
 
 #### Status
 ACCEPTED

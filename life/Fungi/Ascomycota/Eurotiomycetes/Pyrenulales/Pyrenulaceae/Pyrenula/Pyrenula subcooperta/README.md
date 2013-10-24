@@ -1,5 +1,4 @@
-Pyrenula subcooperta Anzi SPECIES
-=======
+# Pyrenula subcooperta Anzi SPECIES
 
 #### Status
 ACCEPTED

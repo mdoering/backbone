@@ -1,5 +1,4 @@
-Dualomyces taiwanensis Matsush., 1987 SPECIES
-=======
+# Dualomyces taiwanensis Matsush., 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe pacifica Speg. SPECIES
-=======
+# Clitocybe pacifica Speg. SPECIES
 
 #### Status
 ACCEPTED

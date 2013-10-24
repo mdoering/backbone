@@ -1,5 +1,4 @@
-Leptostromella caricina Brunaud SPECIES
-=======
+# Leptostromella caricina Brunaud SPECIES
 
 #### Status
 ACCEPTED

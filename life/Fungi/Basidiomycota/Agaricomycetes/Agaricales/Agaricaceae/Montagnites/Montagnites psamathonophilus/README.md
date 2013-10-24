@@ -1,5 +1,4 @@
-Montagnites psamathonophilus (Speg.) E. Horak SPECIES
-=======
+# Montagnites psamathonophilus (Speg.) E. Horak SPECIES
 
 #### Status
 ACCEPTED

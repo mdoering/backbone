@@ -1,5 +1,4 @@
-Chlorosplenium fusisporum Liou & Z.C. Chen SPECIES
-=======
+# Chlorosplenium fusisporum Liou & Z.C. Chen SPECIES
 
 #### Status
 ACCEPTED

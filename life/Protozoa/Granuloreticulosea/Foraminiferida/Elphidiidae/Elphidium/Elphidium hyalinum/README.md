@@ -1,5 +1,4 @@
-Elphidium hyalinum Brodniewicz, 1972 SPECIES
-=======
+# Elphidium hyalinum Brodniewicz, 1972 SPECIES
 
 #### Status
 ACCEPTED

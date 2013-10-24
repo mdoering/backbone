@@ -1,5 +1,4 @@
-Cryptococcus corallinus Sartory, R. Sartory, Hufschm. & J. Mey. SPECIES
-=======
+# Cryptococcus corallinus Sartory, R. Sartory, Hufschm. & J. Mey. SPECIES
 
 #### Status
 ACCEPTED

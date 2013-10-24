@@ -1,5 +1,4 @@
-Polyblastia plicata (A. Massal.) Lönnr. SPECIES
-=======
+# Polyblastia plicata (A. Massal.) Lönnr. SPECIES
 
 #### Status
 ACCEPTED

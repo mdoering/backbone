@@ -1,5 +1,4 @@
-Triloculina deformis d’Orbigny, 1843 SPECIES
-=======
+# Triloculina deformis d’Orbigny, 1843 SPECIES
 
 #### Status
 ACCEPTED

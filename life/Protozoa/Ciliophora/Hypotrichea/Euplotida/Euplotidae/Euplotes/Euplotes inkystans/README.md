@@ -1,5 +1,4 @@
-Euplotes inkystans Chatton in Tuffrau, 1960 SPECIES
-=======
+# Euplotes inkystans Chatton in Tuffrau, 1960 SPECIES
 
 #### Status
 ACCEPTED

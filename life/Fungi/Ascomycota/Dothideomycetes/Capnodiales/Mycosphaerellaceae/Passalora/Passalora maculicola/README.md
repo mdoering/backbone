@@ -1,5 +1,4 @@
-Passalora maculicola (Ellis & Kellerm.) U. Braun SPECIES
-=======
+# Passalora maculicola (Ellis & Kellerm.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

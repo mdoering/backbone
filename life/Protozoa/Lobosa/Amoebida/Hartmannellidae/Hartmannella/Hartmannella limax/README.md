@@ -1,5 +1,4 @@
-Hartmannella limax (Dujardin) Page SPECIES
-=======
+# Hartmannella limax (Dujardin) Page SPECIES
 
 #### Status
 ACCEPTED

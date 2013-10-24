@@ -1,5 +1,4 @@
-Agaricus crampylus J. Otto SPECIES
-=======
+# Agaricus crampylus J. Otto SPECIES
 
 #### Status
 ACCEPTED

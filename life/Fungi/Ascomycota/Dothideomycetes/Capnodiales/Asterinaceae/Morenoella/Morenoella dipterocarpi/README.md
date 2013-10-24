@@ -1,5 +1,4 @@
-Morenoella dipterocarpi (Henn.) Theiss. SPECIES
-=======
+# Morenoella dipterocarpi (Henn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

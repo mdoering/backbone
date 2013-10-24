@@ -1,5 +1,4 @@
-Inocybe connexifolia Gillet SPECIES
-=======
+# Inocybe connexifolia Gillet SPECIES
 
 #### Status
 ACCEPTED

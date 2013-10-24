@@ -1,5 +1,4 @@
-Leciographa pinacea Velen. SPECIES
-=======
+# Leciographa pinacea Velen. SPECIES
 
 #### Status
 ACCEPTED

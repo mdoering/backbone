@@ -1,11 +1,10 @@
-Giffordia mitchelliae var. parvus Taylor, 1921 VARIETY
-=======
+# Hincksia mitchelliae (Harvey) P.C. Silva SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

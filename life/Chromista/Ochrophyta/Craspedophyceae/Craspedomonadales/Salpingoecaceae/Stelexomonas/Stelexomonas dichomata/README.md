@@ -1,5 +1,4 @@
-Stelexomonas dichomata SPECIES
-=======
+# Stelexomonas dichomata SPECIES
 
 #### Status
 ACCEPTED

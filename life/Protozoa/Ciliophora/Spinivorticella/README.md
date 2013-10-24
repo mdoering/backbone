@@ -1,5 +1,4 @@
-Spinivorticella Jankowski, 1993 GENUS
-=======
+# Spinivorticella Jankowski, 1993 GENUS
 
 #### Status
 ACCEPTED

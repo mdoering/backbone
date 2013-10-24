@@ -1,14 +1,13 @@
-Secotium leucocephalum Massee, 1891 SPECIES
-=======
+# Cortinarius leucocephalus (Massee) Peintner & M.M. Moser, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 19(no. 92): 95 (1891)
+Mycotaxon 81: 180 (2002)
 
 #### Original name
 Secotium leucocephalum Massee, 1891

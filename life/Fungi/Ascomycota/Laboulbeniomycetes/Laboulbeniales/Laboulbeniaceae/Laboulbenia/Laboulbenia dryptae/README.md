@@ -1,5 +1,4 @@
-Laboulbenia dryptae Thaxt. SPECIES
-=======
+# Laboulbenia dryptae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

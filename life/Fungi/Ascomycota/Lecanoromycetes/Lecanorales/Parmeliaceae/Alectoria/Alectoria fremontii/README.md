@@ -1,5 +1,4 @@
-Alectoria fremontii subsp. fremontii SUBSPECIES
-=======
+# Alectoria fremontii Tuck. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Alectoria fremontii subsp. fremontii
+Alectoria fremontii Tuck.
 
 ### Remarks
 null

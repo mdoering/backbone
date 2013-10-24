@@ -1,5 +1,4 @@
-Asteridiella dalechampiae (F. Stevens) Hansf. SPECIES
-=======
+# Asteridiella dalechampiae (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED

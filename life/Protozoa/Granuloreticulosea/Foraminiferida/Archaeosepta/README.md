@@ -1,5 +1,4 @@
-Archaeosepta Wernli, 1970 GENUS
-=======
+# Archaeosepta Wernli, 1970 GENUS
 
 #### Status
 ACCEPTED

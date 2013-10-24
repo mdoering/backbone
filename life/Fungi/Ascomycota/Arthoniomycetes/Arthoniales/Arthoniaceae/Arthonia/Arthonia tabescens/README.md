@@ -1,5 +1,4 @@
-Arthonia tabescens (Anzi) Jatta SPECIES
-=======
+# Arthonia tabescens (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

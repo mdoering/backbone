@@ -1,5 +1,4 @@
-Didymosphaeria lycii (Kalchbr.) Sacc. SPECIES
-=======
+# Didymosphaeria lycii (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

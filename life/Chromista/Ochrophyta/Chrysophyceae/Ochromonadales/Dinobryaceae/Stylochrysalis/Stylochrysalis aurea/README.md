@@ -1,5 +1,4 @@
-Stylochrysalis aurea (Chodat) Bachmann SPECIES
-=======
+# Stylochrysalis aurea (Chodat) Bachmann SPECIES
 
 #### Status
 ACCEPTED

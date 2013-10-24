@@ -1,5 +1,4 @@
-Amauroderma fasciculatum (Pat.) Torrend SPECIES
-=======
+# Amauroderma fasciculatum (Pat.) Torrend SPECIES
 
 #### Status
 ACCEPTED

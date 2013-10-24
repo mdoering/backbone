@@ -1,5 +1,4 @@
-Rhizoctonia carnea Ellis & Everh. SPECIES
-=======
+# Rhizoctonia carnea Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

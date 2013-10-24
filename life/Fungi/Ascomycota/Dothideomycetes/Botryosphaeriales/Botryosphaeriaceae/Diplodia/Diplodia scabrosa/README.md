@@ -1,5 +1,4 @@
-Diplodia scabrosa Westend. SPECIES
-=======
+# Diplodia scabrosa Westend. SPECIES
 
 #### Status
 ACCEPTED

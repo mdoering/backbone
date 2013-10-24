@@ -1,5 +1,4 @@
-Peziza catharinensis Möller SPECIES
-=======
+# Peziza catharinensis Möller SPECIES
 
 #### Status
 ACCEPTED

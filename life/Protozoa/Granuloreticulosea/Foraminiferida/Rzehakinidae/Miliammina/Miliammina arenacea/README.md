@@ -1,5 +1,4 @@
-Miliammina arenacea (Chapman, 1916) SPECIES
-=======
+# Miliammina arenacea (Chapman, 1916) SPECIES
 
 #### Status
 ACCEPTED

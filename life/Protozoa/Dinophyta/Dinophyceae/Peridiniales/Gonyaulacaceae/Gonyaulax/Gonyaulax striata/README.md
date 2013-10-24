@@ -1,5 +1,4 @@
-Gonyaulax striata Mangin, 1922 SPECIES
-=======
+# Gonyaulax striata Mangin, 1922 SPECIES
 
 #### Status
 ACCEPTED

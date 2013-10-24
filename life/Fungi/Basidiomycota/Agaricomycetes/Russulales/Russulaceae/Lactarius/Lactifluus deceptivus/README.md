@@ -1,5 +1,4 @@
-Lactifluus deceptivus (Peck) Kuntze SPECIES
-=======
+# Lactifluus deceptivus (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

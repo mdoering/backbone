@@ -1,5 +1,4 @@
-Dimeromyces versicolor T. Majewski & K. Sugiy. SPECIES
-=======
+# Dimeromyces versicolor T. Majewski & K. Sugiy. SPECIES
 
 #### Status
 ACCEPTED

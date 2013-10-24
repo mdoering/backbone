@@ -1,5 +1,4 @@
-Polyporus abnormis Lév. SPECIES
-=======
+# Polyporus abnormis Lév. SPECIES
 
 #### Status
 ACCEPTED

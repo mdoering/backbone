@@ -1,5 +1,4 @@
-Pseudosagedia oleriana (A. Massal.) Hafellner & Kalb SPECIES
-=======
+# Pseudosagedia oleriana (A. Massal.) Hafellner & Kalb SPECIES
 
 #### Status
 ACCEPTED

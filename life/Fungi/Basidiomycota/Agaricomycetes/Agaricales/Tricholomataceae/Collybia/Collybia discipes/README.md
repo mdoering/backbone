@@ -1,5 +1,4 @@
-Collybia discipes Clem. SPECIES
-=======
+# Collybia discipes Clem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucophra hydrocampa Bory, 1824 SPECIES
-=======
+# Leucophra hydrocampa Bory, 1824 SPECIES
 
 #### Status
 ACCEPTED

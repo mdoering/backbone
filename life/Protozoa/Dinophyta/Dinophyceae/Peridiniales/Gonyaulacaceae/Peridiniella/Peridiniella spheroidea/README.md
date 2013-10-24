@@ -1,5 +1,4 @@
-Peridiniella spheroidea Kofoid & Michener SPECIES
-=======
+# Peridiniella spheroidea Kofoid & Michener SPECIES
 
 #### Status
 ACCEPTED

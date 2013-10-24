@@ -1,5 +1,4 @@
-Aspidothelium papillicarpum Lücking SPECIES
-=======
+# Aspidothelium papillicarpum Lücking SPECIES
 
 #### Status
 ACCEPTED

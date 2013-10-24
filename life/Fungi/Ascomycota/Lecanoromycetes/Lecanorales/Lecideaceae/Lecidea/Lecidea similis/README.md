@@ -1,5 +1,4 @@
-Lecidea similis (A. Massal.) Jatta SPECIES
-=======
+# Lecidea similis (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED

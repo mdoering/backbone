@@ -1,5 +1,4 @@
-Neosartorya fennelliae Kwon-Chung & S.J. Kim, 1974 SPECIES
-=======
+# Neosartorya fennelliae Kwon-Chung & S.J. Kim, 1974 SPECIES
 
 #### Status
 ACCEPTED

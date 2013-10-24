@@ -1,5 +1,4 @@
-Entyloma boltoniae Cif. SPECIES
-=======
+# Entyloma boltoniae Cif. SPECIES
 
 #### Status
 ACCEPTED

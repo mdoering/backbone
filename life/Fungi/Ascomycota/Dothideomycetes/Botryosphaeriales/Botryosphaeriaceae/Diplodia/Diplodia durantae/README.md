@@ -1,5 +1,4 @@
-Diplodia durantae V.G. Rao SPECIES
-=======
+# Diplodia durantae V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

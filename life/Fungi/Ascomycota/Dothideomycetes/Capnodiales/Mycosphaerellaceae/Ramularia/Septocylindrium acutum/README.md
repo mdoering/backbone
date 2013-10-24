@@ -1,5 +1,4 @@
-Septocylindrium acutum Davis, 1919 SPECIES
-=======
+# Septocylindrium acutum Davis, 1919 SPECIES
 
 #### Status
 ACCEPTED

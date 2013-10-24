@@ -1,5 +1,4 @@
-Toninia acarnanica Harm. SPECIES
-=======
+# Toninia acarnanica Harm. SPECIES
 
 #### Status
 ACCEPTED

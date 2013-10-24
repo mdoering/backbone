@@ -1,5 +1,4 @@
-Phakopsora allophyli Berndt, 2005 SPECIES
-=======
+# Phakopsora allophyli Berndt, 2005 SPECIES
 
 #### Status
 ACCEPTED

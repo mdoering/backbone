@@ -1,5 +1,4 @@
-Boletus nigrellus Peck SPECIES
-=======
+# Boletus nigrellus Peck SPECIES
 
 #### Status
 ACCEPTED

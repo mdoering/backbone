@@ -1,5 +1,4 @@
-Pyrenophora seseli f. seseli FORM
-=======
+# Pyrenophora seseli Gucevic SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Notul. Syst. Sect. Crypt. Inst. Bot. Acad. Sci. U. S. S. R. 12: 193 (1959)
 
 #### Original name
-Pyrenophora seseli f. seseli
+Pyrenophora seseli Gucevic
 
 ### Remarks
 null

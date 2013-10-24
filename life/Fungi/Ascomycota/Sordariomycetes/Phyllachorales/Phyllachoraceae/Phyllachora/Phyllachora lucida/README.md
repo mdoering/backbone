@@ -1,5 +1,4 @@
-Phyllachora lucida Sacc. & Paol., 1888 SPECIES
-=======
+# Phyllachora lucida Sacc. & Paol., 1888 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotinia schoenicola Whetzel SPECIES
-=======
+# Sclerotinia schoenicola Whetzel SPECIES
 
 #### Status
 ACCEPTED

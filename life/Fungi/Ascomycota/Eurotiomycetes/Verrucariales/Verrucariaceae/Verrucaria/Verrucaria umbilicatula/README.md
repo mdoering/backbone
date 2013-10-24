@@ -1,5 +1,4 @@
-Verrucaria umbilicatula Müll. Arg. SPECIES
-=======
+# Verrucaria umbilicatula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

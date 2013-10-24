@@ -1,17 +1,16 @@
-Urophlyctites oliverianus Magnus SPECIES
-=======
+# Urophlyctites oliveriana Magnus SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ber. dt. bot. Ges. 21: 249 (1903)
 
 #### Original name
-Urophlyctites oliverianus Magnus
+Urophlyctites oliveriana Magnus
 
 ### Remarks
 null

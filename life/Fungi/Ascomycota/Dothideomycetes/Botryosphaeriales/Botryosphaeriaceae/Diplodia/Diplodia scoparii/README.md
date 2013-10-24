@@ -1,5 +1,4 @@
-Diplodia scoparii Petr. SPECIES
-=======
+# Diplodia scoparii Petr. SPECIES
 
 #### Status
 ACCEPTED

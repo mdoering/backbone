@@ -1,5 +1,4 @@
-Ciboria juglandis Preuss SPECIES
-=======
+# Ciboria juglandis Preuss SPECIES
 
 #### Status
 ACCEPTED

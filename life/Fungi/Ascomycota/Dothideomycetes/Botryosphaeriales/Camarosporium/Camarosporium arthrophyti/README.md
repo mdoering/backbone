@@ -1,5 +1,4 @@
-Camarosporium arthrophyti Byzova SPECIES
-=======
+# Camarosporium arthrophyti Byzova SPECIES
 
 #### Status
 ACCEPTED

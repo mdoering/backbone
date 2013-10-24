@@ -1,5 +1,4 @@
-Apiosoma amoeba SPECIES
-=======
+# Apiosoma amoeba SPECIES
 
 #### Status
 ACCEPTED

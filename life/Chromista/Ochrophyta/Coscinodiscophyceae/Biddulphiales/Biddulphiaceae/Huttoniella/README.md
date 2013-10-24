@@ -1,5 +1,4 @@
-Huttoniella GENUS
-=======
+# Huttoniella GENUS
 
 #### Status
 ACCEPTED

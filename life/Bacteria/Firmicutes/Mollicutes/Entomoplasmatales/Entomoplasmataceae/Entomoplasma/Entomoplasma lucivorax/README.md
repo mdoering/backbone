@@ -1,8 +1,7 @@
-Mycoplasma lucivorax Williamson et al., 1990 SPECIES
-=======
+# Entomoplasma lucivorax (Williamson et al., 1990) Tully et al., 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

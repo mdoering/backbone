@@ -1,5 +1,4 @@
-Annulatopsophosphaera interrupta Pykhova, 1969 SPECIES
-=======
+# Annulatopsophosphaera interrupta Pykhova, 1969 SPECIES
 
 #### Status
 ACCEPTED

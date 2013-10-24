@@ -1,5 +1,4 @@
-Mycosphaerella pseudacaciae (Auersw.) Lindau SPECIES
-=======
+# Mycosphaerella pseudacaciae (Auersw.) Lindau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia angelorum B. de Lesd. SPECIES
-=======
+# Aspicilia angelorum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

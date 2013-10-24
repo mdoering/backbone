@@ -1,5 +1,4 @@
-Diaporthe rhanicensis Petr. SPECIES
-=======
+# Diaporthe rhanicensis Petr. SPECIES
 
 #### Status
 ACCEPTED

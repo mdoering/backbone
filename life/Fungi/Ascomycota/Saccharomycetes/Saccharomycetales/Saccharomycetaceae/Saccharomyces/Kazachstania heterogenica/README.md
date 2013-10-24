@@ -1,5 +1,4 @@
-Kazachstania heterogenica Kurtzman & Robnett, 2005 SPECIES
-=======
+# Kazachstania heterogenica Kurtzman & Robnett, 2005 SPECIES
 
 #### Status
 ACCEPTED

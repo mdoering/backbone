@@ -1,5 +1,4 @@
-Dactylaria fusarioidea Matsush. SPECIES
-=======
+# Dactylaria fusarioidea Matsush. SPECIES
 
 #### Status
 ACCEPTED

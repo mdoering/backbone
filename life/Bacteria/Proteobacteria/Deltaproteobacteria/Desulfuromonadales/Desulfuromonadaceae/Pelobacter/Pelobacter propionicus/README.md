@@ -1,5 +1,4 @@
-Pelobacter propionicus Schink, 1984 SPECIES
-=======
+# Pelobacter propionicus Schink, 1984 SPECIES
 
 #### Status
 ACCEPTED

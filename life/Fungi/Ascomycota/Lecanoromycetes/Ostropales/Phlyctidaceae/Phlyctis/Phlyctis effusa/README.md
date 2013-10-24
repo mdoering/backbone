@@ -1,5 +1,4 @@
-Phlyctis effusa Müll. Arg. SPECIES
-=======
+# Phlyctis effusa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

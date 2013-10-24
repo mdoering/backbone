@@ -1,5 +1,4 @@
-Ombrophila squalida P. Karst. SPECIES
-=======
+# Ombrophila squalida P. Karst. SPECIES
 
 #### Status
 ACCEPTED

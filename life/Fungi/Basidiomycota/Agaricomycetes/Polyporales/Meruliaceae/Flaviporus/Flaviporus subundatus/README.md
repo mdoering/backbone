@@ -1,17 +1,16 @@
-Poria lacteimicans Murrill, 1938 SPECIES
-=======
+# Flaviporus subundatus (Murrill) Ginns, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 65: 660 (1938)
+Can. J. Bot. 58(14): 1587 (1980)
 
 #### Original name
-Poria lacteimicans Murrill, 1938
+Poria subundata Murrill, 1921
 
 ### Remarks
 null

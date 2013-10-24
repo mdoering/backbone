@@ -1,5 +1,4 @@
-Urceolaria gibbosa Ach. SPECIES
-=======
+# Urceolaria gibbosa Ach. SPECIES
 
 #### Status
 ACCEPTED

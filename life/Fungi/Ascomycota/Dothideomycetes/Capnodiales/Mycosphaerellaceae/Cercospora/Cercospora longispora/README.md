@@ -1,5 +1,4 @@
-Cercospora longispora Peck, 1884 SPECIES
-=======
+# Cercospora longispora Peck, 1884 SPECIES
 
 #### Status
 ACCEPTED

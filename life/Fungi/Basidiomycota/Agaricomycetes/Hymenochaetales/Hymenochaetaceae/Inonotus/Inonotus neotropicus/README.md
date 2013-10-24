@@ -1,5 +1,4 @@
-Inonotus neotropicus Ryvarden, 2002 SPECIES
-=======
+# Inonotus neotropicus Ryvarden, 2002 SPECIES
 
 #### Status
 ACCEPTED

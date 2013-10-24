@@ -1,5 +1,4 @@
-Reophax eunetus Jensen, 1905 SPECIES
-=======
+# Reophax eunetus Jensen, 1905 SPECIES
 
 #### Status
 ACCEPTED

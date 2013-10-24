@@ -1,5 +1,4 @@
-Cannartidium Haeckel, 1887 GENUS
-=======
+# Cannartidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

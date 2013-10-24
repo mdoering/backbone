@@ -1,5 +1,4 @@
-Lophophaena hispida (Ehrenberg) Petrushevskaya, 1971 SPECIES
-=======
+# Lophophaena hispida (Ehrenberg) Petrushevskaya, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora hesperidica Speg. SPECIES
-=======
+# Rhabdospora hesperidica Speg. SPECIES
 
 #### Status
 ACCEPTED

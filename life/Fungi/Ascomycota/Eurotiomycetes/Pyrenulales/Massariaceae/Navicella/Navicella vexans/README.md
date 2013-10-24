@@ -1,5 +1,4 @@
-Navicella vexans (Nitschke) Kuntze SPECIES
-=======
+# Navicella vexans (Nitschke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

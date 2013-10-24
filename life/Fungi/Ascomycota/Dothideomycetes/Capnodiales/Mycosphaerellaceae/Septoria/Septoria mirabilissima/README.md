@@ -1,5 +1,4 @@
-Septoria mirabilissima Peck SPECIES
-=======
+# Septoria mirabilissima Peck SPECIES
 
 #### Status
 ACCEPTED

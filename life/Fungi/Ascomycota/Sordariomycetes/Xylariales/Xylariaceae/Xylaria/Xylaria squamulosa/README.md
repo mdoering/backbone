@@ -1,5 +1,4 @@
-Xylaria squamulosa F.S.M. González & J.D. Rogers SPECIES
-=======
+# Xylaria squamulosa F.S.M. González & J.D. Rogers SPECIES
 
 #### Status
 ACCEPTED

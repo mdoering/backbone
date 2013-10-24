@@ -1,5 +1,4 @@
-Apiosporium maculosum Speg. SPECIES
-=======
+# Apiosporium maculosum Speg. SPECIES
 
 #### Status
 ACCEPTED

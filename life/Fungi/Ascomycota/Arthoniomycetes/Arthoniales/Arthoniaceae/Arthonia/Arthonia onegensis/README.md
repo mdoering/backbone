@@ -1,5 +1,4 @@
-Arthonia onegensis Nyl. SPECIES
-=======
+# Arthonia onegensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

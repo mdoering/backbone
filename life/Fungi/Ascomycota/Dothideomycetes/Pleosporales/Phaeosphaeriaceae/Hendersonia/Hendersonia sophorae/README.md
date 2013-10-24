@@ -1,5 +1,4 @@
-Hendersonia sophorae (Peyl) Sacc. & Traverso SPECIES
-=======
+# Hendersonia sophorae (Peyl) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

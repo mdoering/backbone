@@ -1,5 +1,4 @@
-Phoma begoniae Tassi SPECIES
-=======
+# Phoma begoniae Tassi SPECIES
 
 #### Status
 ACCEPTED

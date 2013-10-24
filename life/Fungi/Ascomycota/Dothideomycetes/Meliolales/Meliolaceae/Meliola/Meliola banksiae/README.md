@@ -1,5 +1,4 @@
-Meliola banksiae Hansf. SPECIES
-=======
+# Meliola banksiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

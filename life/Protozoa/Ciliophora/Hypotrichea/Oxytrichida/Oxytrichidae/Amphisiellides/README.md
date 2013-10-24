@@ -1,5 +1,4 @@
-Amphisiellides Foissner, 1988 GENUS
-=======
+# Amphisiellides Foissner, 1988 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora gaurae (Kellerm. & Swingle) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora gaurae (Kellerm. & Swingle) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

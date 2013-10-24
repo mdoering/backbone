@@ -1,17 +1,16 @@
-Pichia finlandica Kurtzman, 1984 SPECIES
-=======
+# Ogataea wickerhamii (Capr.) Y. Yamada, M. Matsuda, K. Maeda & Mikata, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biosc. , Biotechn. , Biochem. 59(3): 443 (1995)
 
 #### Original name
-null
+Hansenula wickerhamii Capr., 1961
 
 ### Remarks
 null

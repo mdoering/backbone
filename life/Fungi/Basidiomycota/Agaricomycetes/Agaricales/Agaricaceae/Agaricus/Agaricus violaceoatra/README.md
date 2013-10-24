@@ -1,5 +1,4 @@
-Agaricus violaceoatra Letell. SPECIES
-=======
+# Agaricus violaceoatra Letell. SPECIES
 
 #### Status
 ACCEPTED

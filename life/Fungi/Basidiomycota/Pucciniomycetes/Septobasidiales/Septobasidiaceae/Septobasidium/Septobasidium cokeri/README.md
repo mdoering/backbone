@@ -1,5 +1,4 @@
-Septobasidium cokeri Couch ex L.D. Gómez & Henk SPECIES
-=======
+# Septobasidium cokeri Couch ex L.D. Gómez & Henk SPECIES
 
 #### Status
 ACCEPTED

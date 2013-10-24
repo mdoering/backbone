@@ -1,5 +1,4 @@
-Buellia paupercula Jatta SPECIES
-=======
+# Buellia paupercula Jatta SPECIES
 
 #### Status
 ACCEPTED

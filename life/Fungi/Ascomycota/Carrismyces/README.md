@@ -1,5 +1,4 @@
-Carrismyces R.F. Castañ & Heredia GENUS
-=======
+# Carrismyces R.F. Castañ & Heredia GENUS
 
 #### Status
 ACCEPTED

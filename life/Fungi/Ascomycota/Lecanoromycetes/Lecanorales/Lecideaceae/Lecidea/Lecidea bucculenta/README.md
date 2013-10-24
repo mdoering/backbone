@@ -1,5 +1,4 @@
-Lecidea bucculenta Hertel SPECIES
-=======
+# Lecidea bucculenta Hertel SPECIES
 
 #### Status
 ACCEPTED

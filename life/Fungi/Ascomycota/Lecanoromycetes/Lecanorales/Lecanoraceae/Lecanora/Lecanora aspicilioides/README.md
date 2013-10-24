@@ -1,5 +1,4 @@
-Lecanora aspicilioides (Harm.) Motyka SPECIES
-=======
+# Lecanora aspicilioides (Harm.) Motyka SPECIES
 
 #### Status
 ACCEPTED

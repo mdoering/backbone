@@ -1,17 +1,16 @@
-Stilbella tomentosa var. tomentosa VARIETY
-=======
+# Polycephalomyces tomentosus (Schrad.) Seifert, 1985 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 27: 175 (1985)
 
 #### Original name
-Stilbella tomentosa var. tomentosa
+null
 
 ### Remarks
 null

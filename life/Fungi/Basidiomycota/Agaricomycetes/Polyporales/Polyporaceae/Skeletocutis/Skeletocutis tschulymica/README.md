@@ -1,17 +1,16 @@
-Poria tschulymica Pilát, 1932 SPECIES
-=======
+# Skeletocutis tschulymica (Pilát) Jean Keller, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 48: 35 (1932)
+Persoonia 10(3): 353 (1979)
 
 #### Original name
-Poria tschulymica Pilát, 1932
+Incrustoporia tschulymica (Pilát) Domanski, 1963
 
 ### Remarks
 null

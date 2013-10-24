@@ -1,5 +1,4 @@
-Aspergillus chrysellus Kwon-Chung & Fennell, 1965 SPECIES
-=======
+# Aspergillus chrysellus Kwon-Chung & Fennell, 1965 SPECIES
 
 #### Status
 ACCEPTED

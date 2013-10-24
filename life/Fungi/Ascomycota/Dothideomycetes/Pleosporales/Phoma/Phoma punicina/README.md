@@ -1,5 +1,4 @@
-Phoma punicina Traverso SPECIES
-=======
+# Phoma punicina Traverso SPECIES
 
 #### Status
 ACCEPTED

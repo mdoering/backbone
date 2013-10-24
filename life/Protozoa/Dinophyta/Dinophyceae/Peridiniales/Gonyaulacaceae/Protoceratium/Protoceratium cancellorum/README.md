@@ -1,5 +1,4 @@
-Protoceratium cancellorum Kofoid & Michener, 1911 SPECIES
-=======
+# Protoceratium cancellorum Kofoid & Michener, 1911 SPECIES
 
 #### Status
 ACCEPTED

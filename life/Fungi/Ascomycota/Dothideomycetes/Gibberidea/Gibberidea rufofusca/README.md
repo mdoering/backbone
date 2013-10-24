@@ -1,5 +1,4 @@
-Gibberidea rufofusca (Fr.) Kuntze SPECIES
-=======
+# Gibberidea rufofusca (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia testacea Malme SPECIES
-=======
+# Bacidia testacea Malme SPECIES
 
 #### Status
 ACCEPTED

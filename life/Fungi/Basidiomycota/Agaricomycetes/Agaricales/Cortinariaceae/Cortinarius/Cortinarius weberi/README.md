@@ -1,17 +1,16 @@
-Cortinaria weberi Murrill SPECIES
-=======
+# Cortinarius weberi Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 7(4): 321 (1945)
 
 #### Original name
-Cortinaria weberi Murrill
+Cortinarius weberi Murrill
 
 ### Remarks
 null

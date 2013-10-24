@@ -1,5 +1,4 @@
-Rosellinia crustacea Rehm SPECIES
-=======
+# Rosellinia crustacea Rehm SPECIES
 
 #### Status
 ACCEPTED

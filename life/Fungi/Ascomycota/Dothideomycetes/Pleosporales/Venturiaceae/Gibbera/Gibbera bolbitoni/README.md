@@ -1,5 +1,4 @@
-Gibbera bolbitoni Quél. SPECIES
-=======
+# Gibbera bolbitoni Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella grasmerensis Trueblood & A.H. Sm. SPECIES
-=======
+# Psathyrella grasmerensis Trueblood & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Striglia inconcinna (Berk.) Kuntze SPECIES
-=======
+# Striglia inconcinna (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

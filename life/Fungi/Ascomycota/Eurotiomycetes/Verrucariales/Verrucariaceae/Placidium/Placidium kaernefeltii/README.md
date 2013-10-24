@@ -1,5 +1,4 @@
-Placidium kaernefeltii (Breuss) Breuss SPECIES
-=======
+# Placidium kaernefeltii (Breuss) Breuss SPECIES
 
 #### Status
 ACCEPTED

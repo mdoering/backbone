@@ -1,5 +1,4 @@
-Scleroderma radicatum (Durieu) De Toni SPECIES
-=======
+# Scleroderma radicatum (Durieu) De Toni SPECIES
 
 #### Status
 ACCEPTED

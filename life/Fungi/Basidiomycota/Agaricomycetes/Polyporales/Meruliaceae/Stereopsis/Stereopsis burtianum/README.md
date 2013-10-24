@@ -1,5 +1,4 @@
-Stereopsis burtianum (Peck) D. Reid SPECIES
-=======
+# Stereopsis burtianum (Peck) D. Reid SPECIES
 
 #### Status
 ACCEPTED

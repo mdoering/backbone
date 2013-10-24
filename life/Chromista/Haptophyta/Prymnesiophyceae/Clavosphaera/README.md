@@ -1,5 +1,4 @@
-Clavosphaera Lecal-Schlauder, 1951 GENUS
-=======
+# Clavosphaera Lecal-Schlauder, 1951 GENUS
 
 #### Status
 ACCEPTED

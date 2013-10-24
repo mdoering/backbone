@@ -1,5 +1,4 @@
-Triloculinella parisa Loeblich & Tappan, 1994 SPECIES
-=======
+# Triloculinella parisa Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

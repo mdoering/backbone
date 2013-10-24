@@ -1,5 +1,4 @@
-Cercosporina arctostaphyli (Davis) Sacc. SPECIES
-=======
+# Cercosporina arctostaphyli (Davis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

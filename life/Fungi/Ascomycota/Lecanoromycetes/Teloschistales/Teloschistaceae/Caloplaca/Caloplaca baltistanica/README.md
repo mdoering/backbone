@@ -1,5 +1,4 @@
-Caloplaca baltistanica Poelt & Hinter. SPECIES
-=======
+# Caloplaca baltistanica Poelt & Hinter. SPECIES
 
 #### Status
 ACCEPTED

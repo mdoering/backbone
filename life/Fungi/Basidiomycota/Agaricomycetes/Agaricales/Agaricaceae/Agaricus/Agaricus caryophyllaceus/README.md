@@ -1,5 +1,4 @@
-Agaricus caryophyllaceus Britzelm. SPECIES
-=======
+# Agaricus caryophyllaceus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

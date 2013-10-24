@@ -1,5 +1,4 @@
-Camarosporium bignoniae Gonz. Frag. SPECIES
-=======
+# Camarosporium bignoniae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

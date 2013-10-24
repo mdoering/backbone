@@ -1,5 +1,4 @@
-Satorina Fourcade & Chorowicz, 1980 GENUS
-=======
+# Satorina Fourcade & Chorowicz, 1980 GENUS
 
 #### Status
 ACCEPTED

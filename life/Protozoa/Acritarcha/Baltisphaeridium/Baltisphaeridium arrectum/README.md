@@ -1,5 +1,4 @@
-Baltisphaeridium arrectum (Timofeev, 1959) Downie & Sarjeant, 1965 SPECIES
-=======
+# Baltisphaeridium arrectum (Timofeev, 1959) Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

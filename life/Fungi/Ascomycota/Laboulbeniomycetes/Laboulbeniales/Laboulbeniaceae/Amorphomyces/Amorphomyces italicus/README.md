@@ -1,5 +1,4 @@
-Amorphomyces italicus Speg. SPECIES
-=======
+# Amorphomyces italicus Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lyophyllum odoratum Raithelh. SPECIES
-=======
+# Lyophyllum odoratum Raithelh. SPECIES
 
 #### Status
 ACCEPTED

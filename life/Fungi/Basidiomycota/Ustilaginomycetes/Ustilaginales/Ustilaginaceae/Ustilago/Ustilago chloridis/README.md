@@ -1,5 +1,4 @@
-Ustilago chloridis Vánky, C. Vánky & R.G. Shivas, 2001 SPECIES
-=======
+# Ustilago chloridis Vánky, C. Vánky & R.G. Shivas, 2001 SPECIES
 
 #### Status
 ACCEPTED

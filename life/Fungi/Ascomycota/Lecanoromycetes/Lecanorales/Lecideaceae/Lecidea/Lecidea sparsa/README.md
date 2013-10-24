@@ -1,5 +1,4 @@
-Lecidea sparsa Dufour SPECIES
-=======
+# Lecidea sparsa Dufour SPECIES
 
 #### Status
 ACCEPTED

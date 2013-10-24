@@ -1,17 +1,16 @@
-Parmelia vivida Krog & Swinscow SPECIES
-=======
+# Parmotrema vividum (Krog & Swinscow) Krog & Swinscow SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 19(4): 421 (1987)
 
 #### Original name
-null
+Parmelia vivida Krog & Swinscow
 
 ### Remarks
 null

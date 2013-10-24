@@ -1,5 +1,4 @@
-Pluteus fernandezianus Singer SPECIES
-=======
+# Pluteus fernandezianus Singer SPECIES
 
 #### Status
 ACCEPTED

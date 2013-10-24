@@ -1,5 +1,4 @@
-Euzodiomyces capillarius Cépède SPECIES
-=======
+# Euzodiomyces capillarius Cépède SPECIES
 
 #### Status
 ACCEPTED

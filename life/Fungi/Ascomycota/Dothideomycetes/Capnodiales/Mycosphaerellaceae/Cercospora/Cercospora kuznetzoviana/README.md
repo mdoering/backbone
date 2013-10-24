@@ -1,5 +1,4 @@
-Cercospora kuznetzoviana Tartenova SPECIES
-=======
+# Cercospora kuznetzoviana Tartenova SPECIES
 
 #### Status
 ACCEPTED

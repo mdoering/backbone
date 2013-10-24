@@ -1,5 +1,4 @@
-Patellaria rubida Müll. Arg. SPECIES
-=======
+# Patellaria rubida Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

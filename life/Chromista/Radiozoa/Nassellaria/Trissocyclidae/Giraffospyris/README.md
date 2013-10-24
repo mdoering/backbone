@@ -1,5 +1,4 @@
-Giraffospyris Haeckel, 1881 emend. Goll, 1968 GENUS
-=======
+# Giraffospyris Haeckel, 1881 emend. Goll, 1968 GENUS
 
 #### Status
 ACCEPTED

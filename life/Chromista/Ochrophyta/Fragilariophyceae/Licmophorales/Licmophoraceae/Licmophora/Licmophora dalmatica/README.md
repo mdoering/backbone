@@ -1,5 +1,4 @@
-Licmophora dalmatica (Kützing) Grunow SPECIES
-=======
+# Licmophora dalmatica (Kützing) Grunow SPECIES
 
 #### Status
 ACCEPTED

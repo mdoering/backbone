@@ -1,5 +1,4 @@
-Pestalotiopsis espaillatii (Cif. & Gonz. Frag.) Satya SPECIES
-=======
+# Pestalotiopsis espaillatii (Cif. & Gonz. Frag.) Satya SPECIES
 
 #### Status
 ACCEPTED

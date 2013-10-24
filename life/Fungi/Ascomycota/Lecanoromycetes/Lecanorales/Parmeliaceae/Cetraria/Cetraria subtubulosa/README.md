@@ -1,5 +1,4 @@
-Cetraria subtubulosa (Fr. ex Nyl.) Zopf SPECIES
-=======
+# Cetraria subtubulosa (Fr. ex Nyl.) Zopf SPECIES
 
 #### Status
 ACCEPTED

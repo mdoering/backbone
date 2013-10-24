@@ -1,5 +1,4 @@
-Kephyrion ovum Pascher SPECIES
-=======
+# Kephyrion ovum Pascher SPECIES
 
 #### Status
 ACCEPTED

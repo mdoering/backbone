@@ -1,5 +1,4 @@
-Gerronema alexandri Singer SPECIES
-=======
+# Gerronema alexandri Singer SPECIES
 
 #### Status
 ACCEPTED

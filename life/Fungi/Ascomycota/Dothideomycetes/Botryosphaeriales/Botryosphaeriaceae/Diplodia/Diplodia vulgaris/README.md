@@ -1,5 +1,4 @@
-Diplodia vulgaris Lév., 1846 SPECIES
-=======
+# Diplodia vulgaris Lév., 1846 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma andryalina Petr. SPECIES
-=======
+# Phoma andryalina Petr. SPECIES
 
 #### Status
 ACCEPTED

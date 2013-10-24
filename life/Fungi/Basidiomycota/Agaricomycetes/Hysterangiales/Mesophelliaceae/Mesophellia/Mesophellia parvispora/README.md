@@ -1,14 +1,13 @@
-Diploderma parvisporum Lloyd, 1919 SPECIES
-=======
+# Mesophellia parvispora (Lloyd) Trappe, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 6(61): 901 (1919)
+null
 
 #### Original name
 Diploderma parvisporum Lloyd, 1919

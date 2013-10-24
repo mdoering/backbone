@@ -1,5 +1,4 @@
-Pleuropus pascuensis (Peck) Murrill SPECIES
-=======
+# Pleuropus pascuensis (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

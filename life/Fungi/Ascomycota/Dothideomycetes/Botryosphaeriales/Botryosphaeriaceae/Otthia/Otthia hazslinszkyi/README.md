@@ -1,5 +1,4 @@
-Otthia hazslinszkyi Sacc. SPECIES
-=======
+# Otthia hazslinszkyi Sacc. SPECIES
 
 #### Status
 ACCEPTED

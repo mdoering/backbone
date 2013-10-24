@@ -1,14 +1,13 @@
-Gibberidea hippophaës (Fabre) Kirschst. SPECIES
-=======
+# Hymenopleella hippophaës (Fabre) Rulamort SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Hedwigia 81: 206 (1944)
+Bull. Soc. bot. Centre-Ouest, Nouv. sér. 17(2): 192 (1986)
 
 #### Original name
 null

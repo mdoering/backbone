@@ -1,5 +1,4 @@
-Sabalicola K.D. Hyde GENUS
-=======
+# Sabalicola K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

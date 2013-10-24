@@ -1,5 +1,4 @@
-Cryptadelphia brevior Réblová & Seifert, 2004 SPECIES
-=======
+# Cryptadelphia brevior Réblová & Seifert, 2004 SPECIES
 
 #### Status
 ACCEPTED

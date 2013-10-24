@@ -1,5 +1,4 @@
-Monilia hammonis Ehrenb. SPECIES
-=======
+# Monilia hammonis Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

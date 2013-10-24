@@ -1,5 +1,4 @@
-Entoloma pruinosipes (Singer) E. Horak SPECIES
-=======
+# Entoloma pruinosipes (Singer) E. Horak SPECIES
 
 #### Status
 ACCEPTED

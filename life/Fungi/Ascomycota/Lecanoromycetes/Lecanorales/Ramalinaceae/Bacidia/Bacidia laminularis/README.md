@@ -1,5 +1,4 @@
-Bacidia laminularis (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia laminularis (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

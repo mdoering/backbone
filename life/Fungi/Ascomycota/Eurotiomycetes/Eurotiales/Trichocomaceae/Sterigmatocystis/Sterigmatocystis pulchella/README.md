@@ -1,5 +1,4 @@
-Sterigmatocystis pulchella Speg. SPECIES
-=======
+# Sterigmatocystis pulchella Speg. SPECIES
 
 #### Status
 ACCEPTED

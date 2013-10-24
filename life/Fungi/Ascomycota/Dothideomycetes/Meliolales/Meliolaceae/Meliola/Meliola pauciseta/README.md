@@ -1,5 +1,4 @@
-Meliola pauciseta Hansf. SPECIES
-=======
+# Meliola pauciseta Hansf. SPECIES
 
 #### Status
 ACCEPTED

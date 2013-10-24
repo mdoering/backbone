@@ -1,5 +1,4 @@
-Trichopeziza galegae (Ces.) Sacc. SPECIES
-=======
+# Trichopeziza galegae (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

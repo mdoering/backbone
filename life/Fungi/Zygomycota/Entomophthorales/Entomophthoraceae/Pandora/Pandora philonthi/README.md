@@ -1,5 +1,4 @@
-Pandora philonthi (Balazy) S. Keller, 2005 SPECIES
-=======
+# Pandora philonthi (Balazy) S. Keller, 2005 SPECIES
 
 #### Status
 ACCEPTED

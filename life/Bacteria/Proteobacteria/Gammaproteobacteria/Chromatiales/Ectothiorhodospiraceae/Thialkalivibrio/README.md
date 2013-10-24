@@ -1,5 +1,4 @@
-Thialkalivibrio GENUS
-=======
+# Thialkalivibrio GENUS
 
 #### Status
 ACCEPTED

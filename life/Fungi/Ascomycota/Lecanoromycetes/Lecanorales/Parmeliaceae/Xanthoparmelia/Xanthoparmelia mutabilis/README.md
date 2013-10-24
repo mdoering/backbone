@@ -1,17 +1,16 @@
-Parmelia mutabilis Taylor SPECIES
-=======
+# Xanthoparmelia mutabilis (Taylor) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Smithson. Contr. bot. 74: 152 (1990)
 
 #### Original name
-null
+Parmelia mutabilis Taylor
 
 ### Remarks
 null

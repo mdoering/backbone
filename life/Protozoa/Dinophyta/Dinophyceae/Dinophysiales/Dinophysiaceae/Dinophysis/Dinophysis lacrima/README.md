@@ -1,5 +1,4 @@
-Dinophysis lacrima (Gaarder, 1954) Balech, 1967 SPECIES
-=======
+# Dinophysis lacrima (Gaarder, 1954) Balech, 1967 SPECIES
 
 #### Status
 ACCEPTED

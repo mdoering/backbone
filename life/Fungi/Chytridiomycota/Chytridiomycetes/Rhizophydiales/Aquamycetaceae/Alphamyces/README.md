@@ -1,5 +1,4 @@
-Alphamyces Letcher GENUS
-=======
+# Alphamyces Letcher GENUS
 
 #### Status
 ACCEPTED

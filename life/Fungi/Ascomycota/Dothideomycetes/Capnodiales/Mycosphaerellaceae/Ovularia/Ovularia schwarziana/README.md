@@ -1,5 +1,4 @@
-Ovularia schwarziana Magnus SPECIES
-=======
+# Ovularia schwarziana Magnus SPECIES
 
 #### Status
 ACCEPTED

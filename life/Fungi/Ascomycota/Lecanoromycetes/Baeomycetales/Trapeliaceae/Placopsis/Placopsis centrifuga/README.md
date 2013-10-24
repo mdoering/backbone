@@ -1,5 +1,4 @@
-Placopsis centrifuga D. J. Galloway SPECIES
-=======
+# Placopsis centrifuga D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

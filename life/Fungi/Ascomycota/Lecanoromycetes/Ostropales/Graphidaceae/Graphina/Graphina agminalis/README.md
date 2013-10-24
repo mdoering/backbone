@@ -1,5 +1,4 @@
-Graphina agminalis (Nyl.) Zahlbr. SPECIES
-=======
+# Graphina agminalis (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

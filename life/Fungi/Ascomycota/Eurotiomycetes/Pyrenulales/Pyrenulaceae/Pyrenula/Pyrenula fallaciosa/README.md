@@ -1,5 +1,4 @@
-Pyrenula fallaciosa (Stizenb. ex Arnold) Willey SPECIES
-=======
+# Pyrenula fallaciosa (Stizenb. ex Arnold) Willey SPECIES
 
 #### Status
 ACCEPTED

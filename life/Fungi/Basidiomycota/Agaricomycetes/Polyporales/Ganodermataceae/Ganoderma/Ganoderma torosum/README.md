@@ -1,5 +1,4 @@
-Ganoderma torosum Steyaert SPECIES
-=======
+# Ganoderma torosum Steyaert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora guanicensis (E. Young) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora guanicensis (E. Young) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

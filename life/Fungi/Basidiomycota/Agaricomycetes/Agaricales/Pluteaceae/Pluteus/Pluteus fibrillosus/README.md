@@ -1,5 +1,4 @@
-Pluteus fibrillosus Murrill SPECIES
-=======
+# Pluteus fibrillosus Murrill SPECIES
 
 #### Status
 ACCEPTED

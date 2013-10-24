@@ -1,5 +1,4 @@
-Leptostroma leguminum Cooke SPECIES
-=======
+# Leptostroma leguminum Cooke SPECIES
 
 #### Status
 ACCEPTED

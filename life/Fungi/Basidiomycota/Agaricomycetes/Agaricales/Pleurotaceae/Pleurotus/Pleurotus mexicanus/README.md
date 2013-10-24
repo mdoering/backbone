@@ -1,5 +1,4 @@
-Pleurotus mexicanus Guzmán SPECIES
-=======
+# Pleurotus mexicanus Guzmán SPECIES
 
 #### Status
 ACCEPTED

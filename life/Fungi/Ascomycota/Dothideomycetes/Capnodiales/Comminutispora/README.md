@@ -1,5 +1,4 @@
-Comminutispora A.W. Ramaley GENUS
-=======
+# Comminutispora A.W. Ramaley GENUS
 
 #### Status
 ACCEPTED

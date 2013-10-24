@@ -1,5 +1,4 @@
-Pseudocercospora arrabidaeae R. Kirschner SPECIES
-=======
+# Pseudocercospora arrabidaeae R. Kirschner SPECIES
 
 #### Status
 ACCEPTED

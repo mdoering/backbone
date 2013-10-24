@@ -1,14 +1,13 @@
-Lachnella aotearoa G. Cunn., 1963 SPECIES
-=======
+# Flagelloscypha aotearoa (G. Cunn.) Agerer, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. N. Z. Dept. Sci. Industr. Res. , Pl. Dis. Div. 145: 331 (1963)
+Mitt. bot. StSamml. , Münch. 19: 252 (1983)
 
 #### Original name
 Lachnella aotearoa G. Cunn., 1963

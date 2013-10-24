@@ -1,5 +1,4 @@
-Hymenoscyphus craginianus (Ellis & Everh.) Kuntze SPECIES
-=======
+# Hymenoscyphus craginianus (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

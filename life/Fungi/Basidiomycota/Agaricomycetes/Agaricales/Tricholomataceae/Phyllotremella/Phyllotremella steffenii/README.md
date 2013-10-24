@@ -1,5 +1,4 @@
-Phyllotremella steffenii Rick SPECIES
-=======
+# Phyllotremella steffenii Rick SPECIES
 
 #### Status
 ACCEPTED

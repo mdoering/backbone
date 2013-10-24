@@ -1,5 +1,4 @@
-Kumbhamaya indica M. Jacob & Bhat SPECIES
-=======
+# Kumbhamaya indica M. Jacob & Bhat SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza caligata Nyl. SPECIES
-=======
+# Peziza caligata Nyl. SPECIES
 
 #### Status
 ACCEPTED

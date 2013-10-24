@@ -1,5 +1,4 @@
-Irenopsis hurae (Syd.) Hansf. SPECIES
-=======
+# Irenopsis hurae (Syd.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

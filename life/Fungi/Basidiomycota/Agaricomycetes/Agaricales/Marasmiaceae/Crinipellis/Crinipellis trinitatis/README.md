@@ -1,5 +1,4 @@
-Crinipellis trinitatis Dennis SPECIES
-=======
+# Crinipellis trinitatis Dennis SPECIES
 
 #### Status
 ACCEPTED

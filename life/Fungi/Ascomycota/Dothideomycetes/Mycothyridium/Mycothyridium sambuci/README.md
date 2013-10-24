@@ -1,5 +1,4 @@
-Mycothyridium sambuci (Earle) Petr. SPECIES
-=======
+# Mycothyridium sambuci (Earle) Petr. SPECIES
 
 #### Status
 ACCEPTED

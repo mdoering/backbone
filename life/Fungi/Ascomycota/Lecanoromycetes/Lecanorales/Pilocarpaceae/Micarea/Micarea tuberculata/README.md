@@ -1,17 +1,16 @@
-Lecidea tuberculata var. tuberculata VARIETY
-=======
+# Micarea tuberculata (Sommerf.) R. A. Anderson SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bryologist 77(1): 46 (1974)
 
 #### Original name
-Lecidea tuberculata var. tuberculata
+Lecidea tuberculata Sommerf.
 
 ### Remarks
 null

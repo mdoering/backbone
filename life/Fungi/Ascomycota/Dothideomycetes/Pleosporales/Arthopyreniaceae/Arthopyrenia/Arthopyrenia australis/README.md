@@ -1,5 +1,4 @@
-Arthopyrenia australis Müll. Arg. SPECIES
-=======
+# Arthopyrenia australis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

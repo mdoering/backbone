@@ -1,5 +1,4 @@
-Ceriomyces venulosus (Berk. & M.A. Curtis) Torrend SPECIES
-=======
+# Ceriomyces venulosus (Berk. & M.A. Curtis) Torrend SPECIES
 
 #### Status
 ACCEPTED

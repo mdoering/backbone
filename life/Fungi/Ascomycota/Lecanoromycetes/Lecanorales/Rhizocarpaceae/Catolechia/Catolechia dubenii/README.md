@@ -1,5 +1,4 @@
-Catolechia dubenii (Fr.) SPECIES
-=======
+# Catolechia dubenii (Fr.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatorella scabra (Nyl.) Zahlbr. SPECIES
-=======
+# Biatorella scabra (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

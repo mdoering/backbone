@@ -1,5 +1,4 @@
-Phyllosticta masdewalliae Henn. SPECIES
-=======
+# Phyllosticta masdewalliae Henn. SPECIES
 
 #### Status
 ACCEPTED

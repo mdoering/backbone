@@ -1,5 +1,4 @@
-Leptomonas ciliatorum H.-D. Görtz & J. Dieckmann SPECIES
-=======
+# Leptomonas ciliatorum H.-D. Görtz & J. Dieckmann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia fasciata Bonord. SPECIES
-=======
+# Puccinia fasciata Bonord. SPECIES
 
 #### Status
 ACCEPTED

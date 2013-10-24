@@ -1,5 +1,4 @@
-Cerotelium butleri (Syd.) Arthur SPECIES
-=======
+# Cerotelium butleri (Syd.) Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thecadiniaceae Balech, 1956 FAMILY
-=======
+# Thecadiniaceae Balech, 1956 FAMILY
 
 #### Status
 ACCEPTED

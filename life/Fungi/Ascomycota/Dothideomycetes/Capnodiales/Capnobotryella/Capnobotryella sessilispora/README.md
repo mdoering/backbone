@@ -1,14 +1,13 @@
-Capnobotrys sessilispora S. Hughes & Y. Hirats., 1981 SPECIES
-=======
+# Capnobotryella sessilispora (S. Hughes & Y. Hirats.) Sugiy., 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi Canadenses (Ottawa), no. 201 [1] (1981)
+in Sigiyama & Amano in Sugiyama (ed. ), Pleomorphic Fungi: The Diversity and its Taxonomic Implications (Tokyo) 154 (1987)
 
 #### Original name
 Capnobotrys sessilispora S. Hughes & Y. Hirats., 1981

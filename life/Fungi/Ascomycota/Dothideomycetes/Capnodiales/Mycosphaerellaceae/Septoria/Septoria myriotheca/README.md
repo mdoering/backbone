@@ -1,5 +1,4 @@
-Septoria myriotheca C. Massal. SPECIES
-=======
+# Septoria myriotheca C. Massal. SPECIES
 
 #### Status
 ACCEPTED

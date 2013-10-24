@@ -1,5 +1,4 @@
-Fusarium adesmiae Henn. SPECIES
-=======
+# Fusarium adesmiae Henn. SPECIES
 
 #### Status
 ACCEPTED

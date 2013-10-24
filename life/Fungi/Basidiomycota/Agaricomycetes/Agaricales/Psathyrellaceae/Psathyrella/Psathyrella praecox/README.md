@@ -1,5 +1,4 @@
-Psathyrella praecox A.H. Sm. SPECIES
-=======
+# Psathyrella praecox A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

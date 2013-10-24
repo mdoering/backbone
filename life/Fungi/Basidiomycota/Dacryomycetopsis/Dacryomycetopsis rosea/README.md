@@ -1,5 +1,4 @@
-Dacryomycetopsis rosea Rick, 1958 SPECIES
-=======
+# Dacryomycetopsis rosea Rick, 1958 SPECIES
 
 #### Status
 ACCEPTED

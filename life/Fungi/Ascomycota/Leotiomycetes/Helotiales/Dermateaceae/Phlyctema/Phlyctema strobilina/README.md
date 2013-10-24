@@ -1,5 +1,4 @@
-Phlyctema strobilina P. Karst. & Har. SPECIES
-=======
+# Phlyctema strobilina P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

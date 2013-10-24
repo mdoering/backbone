@@ -1,5 +1,4 @@
-Opercularia niagarae Kellicott, ? SPECIES
-=======
+# Opercularia niagarae Kellicott, ? SPECIES
 
 #### Status
 ACCEPTED

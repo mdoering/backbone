@@ -1,5 +1,4 @@
-Aplosporella indica D.K. Agarwal, Chowdhry & A.K. Sarbhoy SPECIES
-=======
+# Aplosporella indica D.K. Agarwal, Chowdhry & A.K. Sarbhoy SPECIES
 
 #### Status
 ACCEPTED

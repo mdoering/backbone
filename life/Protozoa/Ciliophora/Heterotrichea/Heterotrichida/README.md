@@ -1,5 +1,4 @@
-Heterotrichida Stein, 1859 ORDER
-=======
+# Heterotrichida Stein, 1859 ORDER
 
 #### Status
 ACCEPTED

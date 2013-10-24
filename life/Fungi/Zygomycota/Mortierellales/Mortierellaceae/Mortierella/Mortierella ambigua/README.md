@@ -1,14 +1,13 @@
-Actinomortierella ambigua (B.S. Mehrotra) Chalab., 1973 SPECIES
-=======
+# Mortierella ambigua B.S. Mehrotra, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Griby Roda Mortierella 198 (1973)
+in Mehrotra, Baijal & Mehrotra, Mycologia 55(3): 291 (1963)
 
 #### Original name
 Mortierella ambigua B.S. Mehrotra, 1963

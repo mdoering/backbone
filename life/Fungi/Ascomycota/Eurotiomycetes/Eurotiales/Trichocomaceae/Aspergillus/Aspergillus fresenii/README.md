@@ -1,5 +1,4 @@
-Aspergillus fresenii Subram. SPECIES
-=======
+# Aspergillus fresenii Subram. SPECIES
 
 #### Status
 ACCEPTED

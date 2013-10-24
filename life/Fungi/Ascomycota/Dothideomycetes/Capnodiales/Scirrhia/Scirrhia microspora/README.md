@@ -1,5 +1,4 @@
-Scirrhia microspora var. microspora VARIETY
-=======
+# Scirrhia microspora (Niessl) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Scirrhia microspora var. microspora
+Monographos microsporus Niessl
 
 ### Remarks
 null

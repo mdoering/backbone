@@ -1,5 +1,4 @@
-Staheliomyces cinctus E. Fisch., 1921 SPECIES
-=======
+# Staheliomyces cinctus E. Fisch., 1921 SPECIES
 
 #### Status
 ACCEPTED

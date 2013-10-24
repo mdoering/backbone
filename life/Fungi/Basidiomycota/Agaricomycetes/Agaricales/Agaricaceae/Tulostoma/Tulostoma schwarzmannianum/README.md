@@ -1,5 +1,4 @@
-Tulostoma schwarzmannianum Philimonova SPECIES
-=======
+# Tulostoma schwarzmannianum Philimonova SPECIES
 
 #### Status
 ACCEPTED

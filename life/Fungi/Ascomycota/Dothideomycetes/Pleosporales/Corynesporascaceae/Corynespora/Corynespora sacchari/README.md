@@ -1,17 +1,16 @@
-Corynespora saccharume X.G. Zhang & Cheng K. Shi SPECIES
-=======
+# Corynespora sacchari X.G. Zhang & Cheng K. Shi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 92: 418 (2005)
 
 #### Original name
-Corynespora saccharume X.G. Zhang & Cheng K. Shi
+Corynespora sacchari X.G. Zhang & Cheng K. Shi
 
 ### Remarks
 null

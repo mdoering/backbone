@@ -1,5 +1,4 @@
-Peronospora fagopyri I. Tanaka SPECIES
-=======
+# Peronospora fagopyri I. Tanaka SPECIES
 
 #### Status
 ACCEPTED

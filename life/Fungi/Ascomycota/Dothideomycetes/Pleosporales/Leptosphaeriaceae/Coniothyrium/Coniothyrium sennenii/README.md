@@ -1,8 +1,7 @@
-Coniothyrium senneni Gonz. Frag. SPECIES
-=======
+# Coniothyrium sennenii Gonz. Frag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Coniothyrium senneni Gonz. Frag.
+Coniothyrium sennenii Gonz. Frag.
 
 ### Remarks
 null

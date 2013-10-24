@@ -1,5 +1,4 @@
-Leptosphaeria inconspicua Rehm SPECIES
-=======
+# Leptosphaeria inconspicua Rehm SPECIES
 
 #### Status
 ACCEPTED

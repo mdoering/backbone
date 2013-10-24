@@ -1,5 +1,4 @@
-Agaricus augustanus Britzelm. SPECIES
-=======
+# Agaricus augustanus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

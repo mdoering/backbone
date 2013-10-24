@@ -1,5 +1,4 @@
-Lecanora dedractula Nyl. SPECIES
-=======
+# Lecanora dedractula Nyl. SPECIES
 
 #### Status
 ACCEPTED

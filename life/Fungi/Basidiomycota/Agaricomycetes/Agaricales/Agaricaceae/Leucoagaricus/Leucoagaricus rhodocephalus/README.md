@@ -1,5 +1,4 @@
-Leucoagaricus rhodocephalus (Berk.) Pegler SPECIES
-=======
+# Leucoagaricus rhodocephalus (Berk.) Pegler SPECIES
 
 #### Status
 ACCEPTED

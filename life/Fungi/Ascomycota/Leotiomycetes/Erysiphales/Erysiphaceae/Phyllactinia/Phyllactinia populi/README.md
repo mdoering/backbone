@@ -1,5 +1,4 @@
-Phyllactinia populi (Jacz.) Y.N. Yu SPECIES
-=======
+# Phyllactinia populi (Jacz.) Y.N. Yu SPECIES
 
 #### Status
 ACCEPTED

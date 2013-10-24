@@ -1,5 +1,4 @@
-Trachysphaeridium plicatum Piskun, 1974 SPECIES
-=======
+# Trachysphaeridium plicatum Piskun, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylon urriesii J. Fourn. & M. Stadler SPECIES
-=======
+# Hypoxylon urriesii J. Fourn. & M. Stadler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Annulatascus palmietensis Goh, K.D. Hyde & Steinke SPECIES
-=======
+# Annulatascus palmietensis Goh, K.D. Hyde & Steinke SPECIES
 
 #### Status
 ACCEPTED

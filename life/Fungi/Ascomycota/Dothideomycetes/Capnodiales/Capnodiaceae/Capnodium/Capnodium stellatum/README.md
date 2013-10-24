@@ -1,5 +1,4 @@
-Capnodium stellatum G.E. Bernard SPECIES
-=======
+# Capnodium stellatum G.E. Bernard SPECIES
 
 #### Status
 ACCEPTED

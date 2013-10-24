@@ -1,5 +1,4 @@
-Phoma oncidii-sphacelati Tassi SPECIES
-=======
+# Phoma oncidii-sphacelati Tassi SPECIES
 
 #### Status
 ACCEPTED

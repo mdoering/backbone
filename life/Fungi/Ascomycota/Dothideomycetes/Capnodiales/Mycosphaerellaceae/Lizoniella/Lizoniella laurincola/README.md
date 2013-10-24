@@ -1,5 +1,4 @@
-Lizoniella laurincola (Rehm) Kirschst. SPECIES
-=======
+# Lizoniella laurincola (Rehm) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

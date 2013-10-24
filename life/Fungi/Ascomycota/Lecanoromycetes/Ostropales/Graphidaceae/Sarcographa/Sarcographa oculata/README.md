@@ -1,5 +1,4 @@
-Sarcographa oculata Müll. Arg. SPECIES
-=======
+# Sarcographa oculata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

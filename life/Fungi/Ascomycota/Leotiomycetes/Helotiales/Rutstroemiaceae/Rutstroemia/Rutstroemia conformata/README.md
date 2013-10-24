@@ -1,17 +1,16 @@
-Sclerotinia nervisequa var. nervisequa VARIETY
-=======
+# Rutstroemia conformata (P. Karst.) Nannf., 1942 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungi Exsiccati Suecici no. 1174 (1942)
 
 #### Original name
-Sclerotinia nervisequa var. nervisequa
+null
 
 ### Remarks
 null

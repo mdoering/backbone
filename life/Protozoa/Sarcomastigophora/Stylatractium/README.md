@@ -1,5 +1,4 @@
-Stylatractium Haeckel, 1887 GENUS
-=======
+# Stylatractium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

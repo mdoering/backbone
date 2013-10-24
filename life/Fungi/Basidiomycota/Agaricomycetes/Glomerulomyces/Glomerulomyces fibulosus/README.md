@@ -1,5 +1,4 @@
-Glomerulomyces fibulosus A.I. Romero & S.E. López, 1989 SPECIES
-=======
+# Glomerulomyces fibulosus A.I. Romero & S.E. López, 1989 SPECIES
 
 #### Status
 ACCEPTED

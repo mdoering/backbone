@@ -1,5 +1,4 @@
-Haploporus odorus (Sommerf.) Bondartsev & Singer, 1944 SPECIES
-=======
+# Haploporus odorus (Sommerf.) Bondartsev & Singer, 1944 SPECIES
 
 #### Status
 ACCEPTED

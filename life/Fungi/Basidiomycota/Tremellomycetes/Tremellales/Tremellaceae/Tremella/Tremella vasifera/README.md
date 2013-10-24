@@ -1,5 +1,4 @@
-Tremella vasifera Chee J. Chen SPECIES
-=======
+# Tremella vasifera Chee J. Chen SPECIES
 
 #### Status
 ACCEPTED

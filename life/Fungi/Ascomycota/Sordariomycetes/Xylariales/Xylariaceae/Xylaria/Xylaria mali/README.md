@@ -1,5 +1,4 @@
-Xylaria mali Fromme, 1928 SPECIES
-=======
+# Xylaria mali Fromme, 1928 SPECIES
 
 #### Status
 ACCEPTED

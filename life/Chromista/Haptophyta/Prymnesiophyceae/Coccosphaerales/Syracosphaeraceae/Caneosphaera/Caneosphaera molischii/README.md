@@ -1,8 +1,7 @@
-Syracosphaera corrugis Okada & McIntyre, 1977 SPECIES
-=======
+# Caneosphaera molischii (Schiller, 1925) Gaarder, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

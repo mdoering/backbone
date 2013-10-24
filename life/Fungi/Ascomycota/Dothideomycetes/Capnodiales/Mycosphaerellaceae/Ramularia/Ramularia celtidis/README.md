@@ -1,5 +1,4 @@
-Ramularia celtidis Ellis & Kellerm. SPECIES
-=======
+# Ramularia celtidis Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

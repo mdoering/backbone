@@ -1,5 +1,4 @@
-Monoporisporites niger (P. Kumar) Kalgutkar & Janson. SPECIES
-=======
+# Monoporisporites niger (P. Kumar) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

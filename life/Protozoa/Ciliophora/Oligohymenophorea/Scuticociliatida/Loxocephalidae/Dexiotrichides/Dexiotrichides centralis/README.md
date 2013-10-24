@@ -1,8 +1,7 @@
-Uronema microcrepis Penard, 1922 SPECIES
-=======
+# Dexiotrichides centralis (Stokes, 1885) Kahl, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

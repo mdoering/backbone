@@ -1,5 +1,4 @@
-Paraspathidium longinucleatum Czapik & Jordan, 1976 SPECIES
-=======
+# Paraspathidium longinucleatum Czapik & Jordan, 1976 SPECIES
 
 #### Status
 ACCEPTED

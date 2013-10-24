@@ -1,5 +1,4 @@
-Stysanus ulmi Siemaszko SPECIES
-=======
+# Stysanus ulmi Siemaszko SPECIES
 
 #### Status
 ACCEPTED

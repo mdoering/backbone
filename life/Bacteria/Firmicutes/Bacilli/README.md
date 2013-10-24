@@ -1,5 +1,4 @@
-Bacilli CLASS
-=======
+# Bacilli CLASS
 
 #### Status
 ACCEPTED

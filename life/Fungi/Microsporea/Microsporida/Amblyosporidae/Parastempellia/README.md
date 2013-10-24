@@ -1,5 +1,4 @@
-Parastempellia Khodzhaeva GENUS
-=======
+# Parastempellia Khodzhaeva GENUS
 
 #### Status
 ACCEPTED

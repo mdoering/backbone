@@ -1,5 +1,4 @@
-Phoma hyssopi Pass. SPECIES
-=======
+# Phoma hyssopi Pass. SPECIES
 
 #### Status
 ACCEPTED

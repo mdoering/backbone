@@ -1,5 +1,4 @@
-Aleuriella personata (P. Karst.) P. Karst. SPECIES
-=======
+# Aleuriella personata (P. Karst.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota brevipes Z.S. Bi SPECIES
-=======
+# Pholiota brevipes Z.S. Bi SPECIES
 
 #### Status
 ACCEPTED

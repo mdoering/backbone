@@ -1,5 +1,4 @@
-Entyloma saccardoanum Scalia ex Cif., 1924 SPECIES
-=======
+# Entyloma saccardoanum Scalia ex Cif., 1924 SPECIES
 
 #### Status
 ACCEPTED

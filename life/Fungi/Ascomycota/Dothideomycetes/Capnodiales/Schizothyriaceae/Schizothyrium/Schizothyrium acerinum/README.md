@@ -1,5 +1,4 @@
-Schizothyrium acerinum Desm., 1849 SPECIES
-=======
+# Schizothyrium acerinum Desm., 1849 SPECIES
 
 #### Status
 ACCEPTED

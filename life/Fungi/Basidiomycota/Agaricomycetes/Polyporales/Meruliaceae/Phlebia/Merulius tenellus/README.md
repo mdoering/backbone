@@ -1,5 +1,4 @@
-Merulius tenellus Lam. & DC. SPECIES
-=======
+# Merulius tenellus Lam. & DC. SPECIES
 
 #### Status
 ACCEPTED

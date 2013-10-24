@@ -1,5 +1,4 @@
-Selenophoma ixiolirii Byzova SPECIES
-=======
+# Selenophoma ixiolirii Byzova SPECIES
 
 #### Status
 ACCEPTED

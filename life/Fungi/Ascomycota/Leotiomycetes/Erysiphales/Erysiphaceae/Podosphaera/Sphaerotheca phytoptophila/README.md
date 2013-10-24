@@ -1,5 +1,4 @@
-Sphaerotheca phytoptophila Kellerm. & Swingle SPECIES
-=======
+# Sphaerotheca phytoptophila Kellerm. & Swingle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma farrahi Massee & Crossl. SPECIES
-=======
+# Entoloma farrahi Massee & Crossl. SPECIES
 
 #### Status
 ACCEPTED

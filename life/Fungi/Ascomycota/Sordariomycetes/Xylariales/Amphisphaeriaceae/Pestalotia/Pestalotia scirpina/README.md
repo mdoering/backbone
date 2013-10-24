@@ -1,17 +1,16 @@
-Pestalozzia scirpina Ellis & G. Martin SPECIES
-=======
+# Pestalotia scirpina Ellis & G. Martin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Am. Midl. Nat. 19: 76 (1885)
 
 #### Original name
-Pestalozzia scirpina Ellis & G. Martin
+Pestalotia scirpina Ellis & G. Martin
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Selenomonas lipolytica Dighe et al., 1998 SPECIES
-=======
+# Selenomonas lipolytica Dighe et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

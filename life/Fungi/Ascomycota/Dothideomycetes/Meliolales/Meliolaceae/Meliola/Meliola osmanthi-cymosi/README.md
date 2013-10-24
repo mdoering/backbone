@@ -1,5 +1,4 @@
-Meliola osmanthi-cymosi B. Huguenin SPECIES
-=======
+# Meliola osmanthi-cymosi B. Huguenin SPECIES
 
 #### Status
 ACCEPTED

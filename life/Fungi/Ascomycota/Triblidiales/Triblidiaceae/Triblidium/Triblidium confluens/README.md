@@ -1,8 +1,7 @@
-Tryblidium confluens (Kunze) De Not. SPECIES
-=======
+# Triblidium confluens (Kunze) De Not. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

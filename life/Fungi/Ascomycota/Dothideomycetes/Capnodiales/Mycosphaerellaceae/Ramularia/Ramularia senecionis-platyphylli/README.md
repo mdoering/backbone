@@ -1,5 +1,4 @@
-Ramularia senecionis-platyphylli Siemaszko SPECIES
-=======
+# Ramularia senecionis-platyphylli Siemaszko SPECIES
 
 #### Status
 ACCEPTED

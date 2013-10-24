@@ -1,5 +1,4 @@
-Septoria arnoseridis Lind SPECIES
-=======
+# Septoria arnoseridis Lind SPECIES
 
 #### Status
 ACCEPTED

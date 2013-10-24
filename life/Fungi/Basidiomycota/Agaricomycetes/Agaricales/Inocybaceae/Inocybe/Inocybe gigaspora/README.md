@@ -1,5 +1,4 @@
-Inocybe gigaspora (Cooke & Massee) McAlpine SPECIES
-=======
+# Inocybe gigaspora (Cooke & Massee) McAlpine SPECIES
 
 #### Status
 ACCEPTED

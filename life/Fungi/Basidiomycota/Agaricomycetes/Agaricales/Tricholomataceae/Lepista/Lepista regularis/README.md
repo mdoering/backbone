@@ -1,5 +1,4 @@
-Lepista regularis (Peck) Harmaja SPECIES
-=======
+# Lepista regularis (Peck) Harmaja SPECIES
 
 #### Status
 ACCEPTED

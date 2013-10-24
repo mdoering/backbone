@@ -1,14 +1,13 @@
-Ocellularia neodominicana Hale SPECIES
-=======
+# Thelotrema dominicanum Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Mycotaxon 11(1): 137 (1980)
+Smithson. Contr. bot. 16: 33 (1974)
 
 #### Original name
 Thelotrema dominicanum Hale

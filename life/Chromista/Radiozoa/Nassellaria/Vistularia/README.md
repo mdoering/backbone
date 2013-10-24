@@ -1,5 +1,4 @@
-Vistularia Górka, 1989 GENUS
-=======
+# Vistularia Górka, 1989 GENUS
 
 #### Status
 ACCEPTED

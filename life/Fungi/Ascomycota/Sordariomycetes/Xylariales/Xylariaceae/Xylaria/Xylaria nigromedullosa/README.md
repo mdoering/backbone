@@ -1,5 +1,4 @@
-Xylaria nigromedullosa Trierv.-Per. & A.I. Romero, 2009 SPECIES
-=======
+# Xylaria nigromedullosa Trierv.-Per. & A.I. Romero, 2009 SPECIES
 
 #### Status
 ACCEPTED

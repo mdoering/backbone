@@ -1,5 +1,4 @@
-Mycoblastaceae Hafellner FAMILY
-=======
+# Mycoblastaceae Hafellner FAMILY
 
 #### Status
 ACCEPTED

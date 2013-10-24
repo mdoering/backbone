@@ -1,5 +1,4 @@
-Semiendothyra Reitlinger, 1980 GENUS
-=======
+# Semiendothyra Reitlinger, 1980 GENUS
 
 #### Status
 ACCEPTED

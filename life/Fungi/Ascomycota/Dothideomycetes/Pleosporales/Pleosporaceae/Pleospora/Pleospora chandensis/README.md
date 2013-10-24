@@ -1,5 +1,4 @@
-Pleospora chandensis P.G. Sathe & K.M. Mogarkar SPECIES
-=======
+# Pleospora chandensis P.G. Sathe & K.M. Mogarkar SPECIES
 
 #### Status
 ACCEPTED

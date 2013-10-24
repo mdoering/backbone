@@ -1,8 +1,7 @@
-Napicladium harioti Speg. SPECIES
-=======
+# Napicladium hariotii Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Napicladium harioti Speg.
+Napicladium hariotii Speg.
 
 ### Remarks
 null

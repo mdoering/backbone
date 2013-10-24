@@ -1,5 +1,4 @@
-Diaphanoeca fiordensis (R.F.Scagel & J.R.Stein) R.E.Norris SPECIES
-=======
+# Diaphanoeca fiordensis (R.F.Scagel & J.R.Stein) R.E.Norris SPECIES
 
 #### Status
 ACCEPTED

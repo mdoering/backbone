@@ -1,5 +1,4 @@
-Porina curnowii A.L. Sm., 1911 SPECIES
-=======
+# Porina curnowii A.L. Sm., 1911 SPECIES
 
 #### Status
 DOUBTFUL

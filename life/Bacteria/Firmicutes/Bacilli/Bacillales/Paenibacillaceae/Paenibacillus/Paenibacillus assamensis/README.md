@@ -1,5 +1,4 @@
-Paenibacillus assamensis Saha et al., 2005 SPECIES
-=======
+# Paenibacillus assamensis Saha et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

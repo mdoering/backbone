@@ -1,5 +1,4 @@
-Tretospora ochreinaucleae Hosag., Jose & Pandur. SPECIES
-=======
+# Tretospora ochreinaucleae Hosag., Jose & Pandur. SPECIES
 
 #### Status
 ACCEPTED

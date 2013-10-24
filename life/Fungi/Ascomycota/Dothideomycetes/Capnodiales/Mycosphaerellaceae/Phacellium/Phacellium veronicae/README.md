@@ -1,5 +1,4 @@
-Phacellium veronicae (Pass.) U. Braun SPECIES
-=======
+# Phacellium veronicae (Pass.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

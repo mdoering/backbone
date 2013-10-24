@@ -1,5 +1,4 @@
-Caloplaca quercina Flagey SPECIES
-=======
+# Caloplaca quercina Flagey SPECIES
 
 #### Status
 ACCEPTED

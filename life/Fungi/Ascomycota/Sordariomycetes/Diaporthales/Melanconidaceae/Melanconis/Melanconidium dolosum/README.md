@@ -1,5 +1,4 @@
-Melanconidium dolosum (Fr.) Kuntze SPECIES
-=======
+# Melanconidium dolosum (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

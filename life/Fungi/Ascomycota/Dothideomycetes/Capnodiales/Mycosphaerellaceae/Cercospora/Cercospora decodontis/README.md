@@ -1,5 +1,4 @@
-Cercospora decodontis Tehon & E.Y. Daniels SPECIES
-=======
+# Cercospora decodontis Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelephora albicans Kunth SPECIES
-=======
+# Thelephora albicans Kunth SPECIES
 
 #### Status
 ACCEPTED

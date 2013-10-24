@@ -1,5 +1,4 @@
-Protocolletotrichum deccanensis R.K. Kar, Neeta Sharma & U.K. Verma SPECIES
-=======
+# Protocolletotrichum deccanensis R.K. Kar, Neeta Sharma & U.K. Verma SPECIES
 
 #### Status
 ACCEPTED

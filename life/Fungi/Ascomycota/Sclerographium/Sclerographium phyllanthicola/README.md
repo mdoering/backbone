@@ -1,5 +1,4 @@
-Sclerographium phyllanthicola Deighton SPECIES
-=======
+# Sclerographium phyllanthicola Deighton SPECIES
 
 #### Status
 ACCEPTED

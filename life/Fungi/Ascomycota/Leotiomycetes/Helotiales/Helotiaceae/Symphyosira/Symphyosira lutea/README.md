@@ -1,5 +1,4 @@
-Symphyosira lutea Preuss, 1852 SPECIES
-=======
+# Symphyosira lutea Preuss, 1852 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gibellia Saccardo, 1885 GENUS
-=======
+# Gibellia Saccardo, 1885 GENUS
 
 #### Status
 ACCEPTED

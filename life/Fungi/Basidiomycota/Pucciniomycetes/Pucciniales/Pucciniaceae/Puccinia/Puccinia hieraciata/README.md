@@ -1,5 +1,4 @@
-Puccinia hieraciata (Schwein.) H.S. Jacks. SPECIES
-=======
+# Puccinia hieraciata (Schwein.) H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

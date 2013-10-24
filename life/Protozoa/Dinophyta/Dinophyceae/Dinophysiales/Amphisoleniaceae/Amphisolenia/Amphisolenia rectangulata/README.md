@@ -1,5 +1,4 @@
-Amphisolenia rectangulata Kofoid SPECIES
-=======
+# Amphisolenia rectangulata Kofoid SPECIES
 
 #### Status
 ACCEPTED

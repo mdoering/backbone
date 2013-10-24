@@ -1,5 +1,4 @@
-Linotexis philippinensis Syd. & P. Syd. SPECIES
-=======
+# Linotexis philippinensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma ulicis Syd. SPECIES
-=======
+# Phoma ulicis Syd. SPECIES
 
 #### Status
 ACCEPTED

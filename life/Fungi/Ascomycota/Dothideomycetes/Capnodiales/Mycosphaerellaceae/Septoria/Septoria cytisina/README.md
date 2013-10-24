@@ -1,5 +1,4 @@
-Septoria cytisina Garb. SPECIES
-=======
+# Septoria cytisina Garb. SPECIES
 
 #### Status
 ACCEPTED

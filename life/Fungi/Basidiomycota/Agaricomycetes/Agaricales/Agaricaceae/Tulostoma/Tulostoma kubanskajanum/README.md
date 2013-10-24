@@ -1,5 +1,4 @@
-Tulostoma kubanskajanum Schwarzman & Philimonova SPECIES
-=======
+# Tulostoma kubanskajanum Schwarzman & Philimonova SPECIES
 
 #### Status
 ACCEPTED

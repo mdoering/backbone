@@ -1,5 +1,4 @@
-Mazosia pseudobambusae Kalb & Vezda SPECIES
-=======
+# Mazosia pseudobambusae Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

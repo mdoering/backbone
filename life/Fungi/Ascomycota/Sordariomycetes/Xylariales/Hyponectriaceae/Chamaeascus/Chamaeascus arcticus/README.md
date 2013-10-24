@@ -1,5 +1,4 @@
-Chamaeascus arcticus L. Holm, K. Holm & M.E. Barr, 1993 SPECIES
-=======
+# Chamaeascus arcticus L. Holm, K. Holm & M.E. Barr, 1993 SPECIES
 
 #### Status
 ACCEPTED

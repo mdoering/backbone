@@ -1,14 +1,13 @@
-Catapyrenium liratum Breuss SPECIES
-=======
+# Clavascidium liratum (Breuss) Breuss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Linzer biol. Beitr. 23(2): 533 (1991)
+Annln naturh. Mus. Wien, Ser. B, Bot. Zool. 98(Suppl. ): 41 (1996)
 
 #### Original name
 Catapyrenium liratum Breuss

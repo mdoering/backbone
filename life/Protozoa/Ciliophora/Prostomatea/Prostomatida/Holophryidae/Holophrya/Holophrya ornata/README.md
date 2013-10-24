@@ -1,5 +1,4 @@
-Holophrya ornata Stokes, 1887 SPECIES
-=======
+# Holophrya ornata Stokes, 1887 SPECIES
 
 #### Status
 ACCEPTED

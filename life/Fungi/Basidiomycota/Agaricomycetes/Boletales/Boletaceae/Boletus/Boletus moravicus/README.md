@@ -1,17 +1,16 @@
-Xerocomus moravicus f. moravicus FORM
-=======
+# Boletus moravicus Vacek, 1946 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 18: 193 (1964)
+Stud. Bot. Cechoslav. 36 (1946)
 
 #### Original name
-Xerocomus moravicus f. moravicus
+Boletus moravicus Vacek, 1946
 
 ### Remarks
 null

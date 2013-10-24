@@ -1,5 +1,4 @@
-Myxosporium populinum Sacc. SPECIES
-=======
+# Myxosporium populinum Sacc. SPECIES
 
 #### Status
 ACCEPTED

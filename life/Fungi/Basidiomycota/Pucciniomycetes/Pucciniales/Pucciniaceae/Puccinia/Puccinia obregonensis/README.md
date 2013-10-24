@@ -1,5 +1,4 @@
-Puccinia obregonensis Pardo-Card. SPECIES
-=======
+# Puccinia obregonensis Pardo-Card. SPECIES
 
 #### Status
 ACCEPTED

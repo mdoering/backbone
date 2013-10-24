@@ -1,5 +1,4 @@
-Pyrenastrum americanum Spreng. SPECIES
-=======
+# Pyrenastrum americanum Spreng. SPECIES
 
 #### Status
 ACCEPTED

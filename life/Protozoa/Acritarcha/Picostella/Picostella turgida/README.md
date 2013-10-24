@@ -1,5 +1,4 @@
-Picostella turgida Yin Leiming, Di Milia & Tongiorgi, 1998 SPECIES
-=======
+# Picostella turgida Yin Leiming, Di Milia & Tongiorgi, 1998 SPECIES
 
 #### Status
 ACCEPTED

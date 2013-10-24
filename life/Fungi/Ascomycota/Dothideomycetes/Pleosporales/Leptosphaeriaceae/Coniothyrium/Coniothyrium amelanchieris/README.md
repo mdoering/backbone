@@ -1,5 +1,4 @@
-Coniothyrium amelanchieris (P. Karst.) Kuntze SPECIES
-=======
+# Coniothyrium amelanchieris (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

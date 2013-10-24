@@ -1,5 +1,4 @@
-Hendersonia grossulariae Oudem. SPECIES
-=======
+# Hendersonia grossulariae Oudem. SPECIES
 
 #### Status
 ACCEPTED

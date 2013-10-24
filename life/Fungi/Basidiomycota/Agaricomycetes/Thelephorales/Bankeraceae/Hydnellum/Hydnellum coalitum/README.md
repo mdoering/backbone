@@ -1,5 +1,4 @@
-Hydnellum coalitum Maas Geest., 1975 SPECIES
-=======
+# Hydnellum coalitum Maas Geest., 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cephalosporium sclerotiorum Gang. & K.B. Deshp. SPECIES
-=======
+# Cephalosporium sclerotiorum Gang. & K.B. Deshp. SPECIES
 
 #### Status
 ACCEPTED

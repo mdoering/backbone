@@ -1,5 +1,4 @@
-Bolbitius nobilis Peck SPECIES
-=======
+# Bolbitius nobilis Peck SPECIES
 
 #### Status
 ACCEPTED

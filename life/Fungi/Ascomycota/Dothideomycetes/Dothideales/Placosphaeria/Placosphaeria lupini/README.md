@@ -1,5 +1,4 @@
-Placosphaeria lupini Syd. SPECIES
-=======
+# Placosphaeria lupini Syd. SPECIES
 
 #### Status
 ACCEPTED

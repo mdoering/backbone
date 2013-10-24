@@ -1,14 +1,13 @@
-Titaea ugandae Hansf. SPECIES
-=======
+# Titaeopsis ugandae (Hansf.) B. Sutton & Deighton, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Linn. Soc. London 155: 44 (1943)
+in Sutton, Trans. Br. mycol. Soc. 83(3): 411 (1984)
 
 #### Original name
 Titaea ugandae Hansf.

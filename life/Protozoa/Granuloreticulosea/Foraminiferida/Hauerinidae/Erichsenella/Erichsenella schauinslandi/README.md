@@ -1,8 +1,7 @@
-Miliolina schauinslandi Rhumbler, 1906 SPECIES
-=======
+# Erichsenella schauinslandi (Rhumbler, 1906) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

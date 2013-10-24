@@ -1,5 +1,4 @@
-Septoria bosniaca Picb. SPECIES
-=======
+# Septoria bosniaca Picb. SPECIES
 
 #### Status
 ACCEPTED

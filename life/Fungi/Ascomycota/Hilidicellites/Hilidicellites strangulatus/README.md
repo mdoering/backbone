@@ -1,5 +1,4 @@
-Hilidicellites strangulatus (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
-=======
+# Hilidicellites strangulatus (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

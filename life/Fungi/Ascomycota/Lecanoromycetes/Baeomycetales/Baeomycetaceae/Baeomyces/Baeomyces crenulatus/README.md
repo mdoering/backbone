@@ -1,5 +1,4 @@
-Baeomyces crenulatus Hepp SPECIES
-=======
+# Baeomyces crenulatus Hepp SPECIES
 
 #### Status
 ACCEPTED

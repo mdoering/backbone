@@ -1,5 +1,4 @@
-Armillariella armeniaca (Mont.) Raithelh. SPECIES
-=======
+# Armillariella armeniaca (Mont.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

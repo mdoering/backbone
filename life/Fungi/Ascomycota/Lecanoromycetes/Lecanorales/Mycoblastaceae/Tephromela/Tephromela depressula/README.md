@@ -1,5 +1,4 @@
-Tephromela depressula Motyka SPECIES
-=======
+# Tephromela depressula Motyka SPECIES
 
 #### Status
 ACCEPTED

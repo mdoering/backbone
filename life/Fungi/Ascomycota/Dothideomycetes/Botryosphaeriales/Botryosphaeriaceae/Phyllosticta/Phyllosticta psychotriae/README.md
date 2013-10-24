@@ -1,5 +1,4 @@
-Phyllosticta psychotriae Henn. SPECIES
-=======
+# Phyllosticta psychotriae Henn. SPECIES
 
 #### Status
 ACCEPTED

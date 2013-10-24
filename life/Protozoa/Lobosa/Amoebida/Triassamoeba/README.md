@@ -1,5 +1,4 @@
-Triassamoeba Poincar, Waggoner & Bauer, 1993 GENUS
-=======
+# Triassamoeba Poincar, Waggoner & Bauer, 1993 GENUS
 
 #### Status
 ACCEPTED

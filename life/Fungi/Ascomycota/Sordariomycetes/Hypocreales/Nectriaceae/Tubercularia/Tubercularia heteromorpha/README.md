@@ -1,5 +1,4 @@
-Tubercularia heteromorpha (Nyl. ex C. Bab. & Mitt.) Kuntze SPECIES
-=======
+# Tubercularia heteromorpha (Nyl. ex C. Bab. & Mitt.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

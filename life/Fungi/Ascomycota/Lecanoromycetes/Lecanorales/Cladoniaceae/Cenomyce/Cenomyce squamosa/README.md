@@ -1,5 +1,4 @@
-Cenomyce squamosa var. squamosa VARIETY
-=======
+# Cenomyce squamosa SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cenomyce squamosa var. squamosa
+null
 
 ### Remarks
 null

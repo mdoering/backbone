@@ -1,5 +1,4 @@
-Valentinia vacini Velen. SPECIES
-=======
+# Valentinia vacini Velen. SPECIES
 
 #### Status
 ACCEPTED

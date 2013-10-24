@@ -1,5 +1,4 @@
-Sphaeria aulica Cooke & Ellis SPECIES
-=======
+# Sphaeria aulica Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

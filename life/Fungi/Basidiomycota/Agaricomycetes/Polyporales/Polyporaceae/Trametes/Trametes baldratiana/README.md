@@ -1,5 +1,4 @@
-Trametes baldratiana Trotter SPECIES
-=======
+# Trametes baldratiana Trotter SPECIES
 
 #### Status
 ACCEPTED

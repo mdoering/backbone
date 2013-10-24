@@ -1,5 +1,4 @@
-Fragilaria africana Hustedt SPECIES
-=======
+# Fragilaria africana Hustedt SPECIES
 
 #### Status
 ACCEPTED

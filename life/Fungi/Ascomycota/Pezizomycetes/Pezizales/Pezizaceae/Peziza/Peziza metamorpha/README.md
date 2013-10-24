@@ -1,5 +1,4 @@
-Peziza metamorpha Schumach. SPECIES
-=======
+# Peziza metamorpha Schumach. SPECIES
 
 #### Status
 ACCEPTED

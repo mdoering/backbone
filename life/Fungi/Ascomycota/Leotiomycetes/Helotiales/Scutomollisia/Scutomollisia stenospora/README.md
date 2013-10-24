@@ -1,5 +1,4 @@
-Scutomollisia stenospora Nannf., 1976 SPECIES
-=======
+# Scutomollisia stenospora Nannf., 1976 SPECIES
 
 #### Status
 ACCEPTED

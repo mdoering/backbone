@@ -1,17 +1,16 @@
-Gyrophora deusta var. deusta (L.) Ach. VARIETY
-=======
+# Umbilicaria deusta (L.) Baumg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. Lips. 571 (1790)
 
 #### Original name
-Gyrophora deusta var. deusta (L.) Ach.
+Lichen deustus L.
 
 ### Remarks
 null

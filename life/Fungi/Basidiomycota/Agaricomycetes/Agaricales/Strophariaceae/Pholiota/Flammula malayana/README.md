@@ -1,5 +1,4 @@
-Flammula malayana Boedijn SPECIES
-=======
+# Flammula malayana Boedijn SPECIES
 
 #### Status
 ACCEPTED

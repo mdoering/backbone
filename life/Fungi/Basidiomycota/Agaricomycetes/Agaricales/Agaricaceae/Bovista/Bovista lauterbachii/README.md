@@ -1,5 +1,4 @@
-Bovista lauterbachii (Henn.) Sacc. & Syd. SPECIES
-=======
+# Bovista lauterbachii (Henn.) Sacc. & Syd. SPECIES
 
 #### Status
 ACCEPTED

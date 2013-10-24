@@ -1,5 +1,4 @@
-Hypoxylon arcticum (Fuckel) Rostr. SPECIES
-=======
+# Hypoxylon arcticum (Fuckel) Rostr. SPECIES
 
 #### Status
 ACCEPTED

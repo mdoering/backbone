@@ -1,17 +1,16 @@
-Gymnoconia patouillardi Trotter SPECIES
-=======
+# Joerstadia patouillardii (Trotter) Gjaerum & Cummins, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 15: 421 (1982)
 
 #### Original name
-Gymnoconia patouillardi Trotter
+Gymnoconia patouillardii Trotter, 1925
 
 ### Remarks
 null

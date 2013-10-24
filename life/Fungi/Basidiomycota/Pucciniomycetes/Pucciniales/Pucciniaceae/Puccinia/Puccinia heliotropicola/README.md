@@ -1,5 +1,4 @@
-Puccinia heliotropicola Speg. SPECIES
-=======
+# Puccinia heliotropicola Speg. SPECIES
 
 #### Status
 ACCEPTED

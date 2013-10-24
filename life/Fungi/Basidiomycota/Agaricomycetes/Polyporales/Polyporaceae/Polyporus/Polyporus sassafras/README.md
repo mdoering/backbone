@@ -1,5 +1,4 @@
-Polyporus sassafras Schwein. SPECIES
-=======
+# Polyporus sassafras Schwein. SPECIES
 
 #### Status
 ACCEPTED

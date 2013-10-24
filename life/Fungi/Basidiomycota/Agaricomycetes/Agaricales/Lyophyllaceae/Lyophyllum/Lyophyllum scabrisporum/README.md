@@ -1,5 +1,4 @@
-Lyophyllum scabrisporum Clémençon & A.H. Sm. SPECIES
-=======
+# Lyophyllum scabrisporum Clémençon & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

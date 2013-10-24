@@ -1,5 +1,4 @@
-Dacrymyces violacea Fr. SPECIES
-=======
+# Dacrymyces violacea Fr. SPECIES
 
 #### Status
 ACCEPTED

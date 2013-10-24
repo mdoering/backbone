@@ -1,5 +1,4 @@
-Phoma bacilligera Czerepan. SPECIES
-=======
+# Phoma bacilligera Czerepan. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cladosporium scribnerianum Cavara, 1892 SPECIES
-=======
+# Fusicladium scribnerianum (Briosi & Cavara) M.B. Ellis, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Briosi & Cavara, Funghi Parass. Piante Colt. od Utili, Fasc. 7-8: no. 187 (1892)
+More Dematiaceous Hyphomycetes (Kew) 238 (1976)
 
 #### Original name
 Cladosporium scribnerianum Cavara, 1892

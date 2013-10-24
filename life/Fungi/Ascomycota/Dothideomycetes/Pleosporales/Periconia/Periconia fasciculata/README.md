@@ -1,5 +1,4 @@
-Periconia fasciculata Schwein. SPECIES
-=======
+# Periconia fasciculata Schwein. SPECIES
 
 #### Status
 ACCEPTED

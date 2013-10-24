@@ -1,5 +1,4 @@
-Fragilaria lanceolata (Kützing) E.Reichardt SPECIES
-=======
+# Fragilaria lanceolata (Kützing) E.Reichardt SPECIES
 
 #### Status
 ACCEPTED

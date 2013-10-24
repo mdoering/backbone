@@ -1,5 +1,4 @@
-Stictis pallida Speg. & W. Phillips SPECIES
-=======
+# Stictis pallida Speg. & W. Phillips SPECIES
 
 #### Status
 ACCEPTED

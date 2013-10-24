@@ -1,5 +1,4 @@
-Lepista effugiens Corner SPECIES
-=======
+# Lepista effugiens Corner SPECIES
 
 #### Status
 ACCEPTED

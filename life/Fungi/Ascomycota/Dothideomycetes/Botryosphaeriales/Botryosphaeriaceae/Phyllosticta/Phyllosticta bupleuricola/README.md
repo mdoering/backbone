@@ -1,5 +1,4 @@
-Phyllosticta bupleuricola Hollós SPECIES
-=======
+# Phyllosticta bupleuricola Hollós SPECIES
 
 #### Status
 ACCEPTED

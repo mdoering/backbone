@@ -1,5 +1,4 @@
-Teichospora montteae Speg. SPECIES
-=======
+# Teichospora montteae Speg. SPECIES
 
 #### Status
 ACCEPTED

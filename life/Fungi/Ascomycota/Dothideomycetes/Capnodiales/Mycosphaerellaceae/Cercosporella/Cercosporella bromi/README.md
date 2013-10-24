@@ -1,5 +1,4 @@
-Cercosporella bromi R. Sprague SPECIES
-=======
+# Cercosporella bromi R. Sprague SPECIES
 
 #### Status
 ACCEPTED

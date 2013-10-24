@@ -1,5 +1,4 @@
-Gnomonia papuana Sivan. & D.E. Shaw, 1977 SPECIES
-=======
+# Gnomonia papuana Sivan. & D.E. Shaw, 1977 SPECIES
 
 #### Status
 ACCEPTED

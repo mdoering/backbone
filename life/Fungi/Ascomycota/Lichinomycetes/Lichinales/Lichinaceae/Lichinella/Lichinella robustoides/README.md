@@ -1,5 +1,4 @@
-Lichinella robustoides Henssen, Büdel & T. H. Nash SPECIES
-=======
+# Lichinella robustoides Henssen, Büdel & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

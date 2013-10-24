@@ -1,5 +1,4 @@
-Rinodina macrospora Sheard SPECIES
-=======
+# Rinodina macrospora Sheard SPECIES
 
 #### Status
 ACCEPTED

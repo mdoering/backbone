@@ -1,5 +1,4 @@
-Tetrasporopsis Lemmermann, 1899 GENUS
-=======
+# Tetrasporopsis Lemmermann, 1899 GENUS
 
 #### Status
 ACCEPTED

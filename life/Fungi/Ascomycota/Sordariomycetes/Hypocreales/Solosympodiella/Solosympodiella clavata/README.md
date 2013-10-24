@@ -1,5 +1,4 @@
-Solosympodiella clavata Matsush., 1971 SPECIES
-=======
+# Solosympodiella clavata Matsush., 1971 SPECIES
 
 #### Status
 ACCEPTED

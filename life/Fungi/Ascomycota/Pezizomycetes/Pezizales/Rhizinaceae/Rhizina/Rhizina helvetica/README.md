@@ -1,5 +1,4 @@
-Rhizina helvetica Fuckel SPECIES
-=======
+# Rhizina helvetica Fuckel SPECIES
 
 #### Status
 ACCEPTED

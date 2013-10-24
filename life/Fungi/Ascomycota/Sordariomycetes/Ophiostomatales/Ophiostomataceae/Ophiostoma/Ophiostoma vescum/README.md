@@ -1,5 +1,4 @@
-Ophiostoma vescum (R.W. Davidson) Georg Hausner, J. Reid & Klassen SPECIES
-=======
+# Ophiostoma vescum (R.W. Davidson) Georg Hausner, J. Reid & Klassen SPECIES
 
 #### Status
 ACCEPTED

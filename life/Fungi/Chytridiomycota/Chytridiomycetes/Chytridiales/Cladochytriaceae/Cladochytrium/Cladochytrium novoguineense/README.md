@@ -1,5 +1,4 @@
-Cladochytrium novoguineense Kobayasi & K. Konno SPECIES
-=======
+# Cladochytrium novoguineense Kobayasi & K. Konno SPECIES
 
 #### Status
 ACCEPTED

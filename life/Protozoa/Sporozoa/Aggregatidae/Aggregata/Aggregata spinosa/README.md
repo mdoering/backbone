@@ -1,5 +1,4 @@
-Aggregata spinosa Moroff, 1906 SPECIES
-=======
+# Aggregata spinosa Moroff, 1906 SPECIES
 
 #### Status
 ACCEPTED

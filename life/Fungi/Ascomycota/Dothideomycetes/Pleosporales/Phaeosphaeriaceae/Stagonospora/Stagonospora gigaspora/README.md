@@ -1,14 +1,13 @@
-Hendersonia gigaspora Niessl, 1882 SPECIES
-=======
+# Stagonospora gigaspora (Niessl) Sacc., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 21: 181 (1882)
+Syll. fung. (Abellini) 3: 453 (1884)
 
 #### Original name
 Hendersonia gigaspora Niessl, 1882

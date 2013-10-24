@@ -1,5 +1,4 @@
-Pseudocercospora pangiicola U. Braun & Sivap. SPECIES
-=======
+# Pseudocercospora pangiicola U. Braun & Sivap. SPECIES
 
 #### Status
 ACCEPTED

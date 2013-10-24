@@ -1,5 +1,4 @@
-Cladophialophora modesta McGinnis, de Hoog & Haase SPECIES
-=======
+# Cladophialophora modesta McGinnis, de Hoog & Haase SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Physarum viride var. bethelii (T. Macbr. ex G. Lister) Sturgis VARIETY
-=======
+# Physarum bethelii T. Macbr. ex G. Lister, 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Colorado College Publication, Science Series 12: 439 (1913)
+Monogr. Mycetozoa (London), Edn 2 57 (1911)
 
 #### Original name
 Physarum bethelii T. Macbr. ex G. Lister, 1911

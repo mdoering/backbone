@@ -1,5 +1,4 @@
-Lecidea meiosporella (Vain.) Kernst. SPECIES
-=======
+# Lecidea meiosporella (Vain.) Kernst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helicosporium hongkongense K.M. Tsui, Goh, K.D. Hyde & Hodgkiss SPECIES
-=======
+# Helicosporium hongkongense K.M. Tsui, Goh, K.D. Hyde & Hodgkiss SPECIES
 
 #### Status
 ACCEPTED

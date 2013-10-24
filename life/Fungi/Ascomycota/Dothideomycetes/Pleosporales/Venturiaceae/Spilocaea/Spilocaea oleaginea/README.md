@@ -1,17 +1,16 @@
-Cycloconium oleagineum var. oleagineum VARIETY
-=======
+# Spilocaea oleaginea (Castagne) S. Hughes, 1953 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Pl. Mars. 220 (1845)
+Can. J. Bot. 31(5): 564 (1953)
 
 #### Original name
-Cycloconium oleagineum var. oleagineum
+Cycloconium oleagineum Castagne, 1845
 
 ### Remarks
 null

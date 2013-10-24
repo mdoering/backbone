@@ -1,5 +1,4 @@
-Diatrypella protrusa (Preuss) Sacc. SPECIES
-=======
+# Diatrypella protrusa (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

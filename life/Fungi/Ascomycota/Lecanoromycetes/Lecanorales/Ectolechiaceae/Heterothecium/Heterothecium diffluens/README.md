@@ -1,5 +1,4 @@
-Heterothecium diffluens (Nyl.) Müll. Arg. SPECIES
-=======
+# Heterothecium diffluens (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

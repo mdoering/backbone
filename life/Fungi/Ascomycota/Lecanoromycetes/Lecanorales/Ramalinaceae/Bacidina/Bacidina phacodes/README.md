@@ -1,17 +1,16 @@
-Bacidia phacodes f. phacodes FORM
-=======
+# Bacidina phacodes (Körb.) Vezda SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Bacidia phacodes f. phacodes
+null
 
 ### Remarks
 null

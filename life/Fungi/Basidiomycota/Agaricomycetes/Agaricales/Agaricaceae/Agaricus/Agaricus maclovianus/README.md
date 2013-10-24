@@ -1,5 +1,4 @@
-Agaricus maclovianus var. maclovianus VARIETY
-=======
+# Agaricus maclovianus Nauta & Jalink SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Nauta, Kew Bull. 54(3): 624 (1999)
 
 #### Original name
-Agaricus maclovianus var. maclovianus
+Agaricus maclovianus Nauta & Jalink
 
 ### Remarks
 null

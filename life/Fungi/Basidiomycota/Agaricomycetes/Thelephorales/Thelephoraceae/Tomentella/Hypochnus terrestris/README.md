@@ -1,5 +1,4 @@
-Hypochnus terrestris Kniep SPECIES
-=======
+# Hypochnus terrestris Kniep SPECIES
 
 #### Status
 ACCEPTED

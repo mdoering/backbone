@@ -1,17 +1,16 @@
-Lecidea perpusilla Vain. SPECIES
-=======
+# Fellhanera perpusilla (Vain.) Matzer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 171: 177 (1996)
 
 #### Original name
-null
+Lecidea perpusilla Vain.
 
 ### Remarks
 null

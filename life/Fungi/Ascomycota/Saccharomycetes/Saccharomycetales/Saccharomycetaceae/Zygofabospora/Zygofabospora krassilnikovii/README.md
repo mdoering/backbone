@@ -1,5 +1,4 @@
-Zygofabospora krassilnikovii Kudryavtsev SPECIES
-=======
+# Zygofabospora krassilnikovii Kudryavtsev SPECIES
 
 #### Status
 ACCEPTED

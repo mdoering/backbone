@@ -1,5 +1,4 @@
-Cladonia caribaea S. Stenroos SPECIES
-=======
+# Cladonia caribaea S. Stenroos SPECIES
 
 #### Status
 ACCEPTED

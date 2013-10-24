@@ -1,17 +1,16 @@
-Candida parapsilosis var. obtusa Dietrichson, 1954 VARIETY
-=======
+# Clavispora lusitaniae Rodr. Mir., 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Antonie van Leeuwenhoek 45(3): 480 (1979)
 
 #### Original name
-null
+Clavispora lusitaniae Rodr. Mir., 1979
 
 ### Remarks
 null

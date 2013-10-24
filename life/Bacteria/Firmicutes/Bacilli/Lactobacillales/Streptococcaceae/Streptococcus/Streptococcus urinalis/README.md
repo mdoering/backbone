@@ -1,5 +1,4 @@
-Streptococcus urinalis Collins et al., 2000 SPECIES
-=======
+# Streptococcus urinalis Collins et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

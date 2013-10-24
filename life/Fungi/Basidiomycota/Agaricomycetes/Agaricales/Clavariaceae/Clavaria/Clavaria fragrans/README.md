@@ -1,5 +1,4 @@
-Clavaria fragrans Ellis & Everh. SPECIES
-=======
+# Clavaria fragrans Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

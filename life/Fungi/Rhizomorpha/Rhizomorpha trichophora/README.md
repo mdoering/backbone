@@ -1,5 +1,4 @@
-Rhizomorpha trichophora Desm. SPECIES
-=======
+# Rhizomorpha trichophora Desm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ganoderma rothwellii Steyaert, 1980 SPECIES
-=======
+# Ganoderma rothwellii Steyaert, 1980 SPECIES
 
 #### Status
 ACCEPTED

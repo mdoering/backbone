@@ -1,5 +1,4 @@
-Sarcosoma thwaitesii (Berk. & Broome) Petch SPECIES
-=======
+# Sarcosoma thwaitesii (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

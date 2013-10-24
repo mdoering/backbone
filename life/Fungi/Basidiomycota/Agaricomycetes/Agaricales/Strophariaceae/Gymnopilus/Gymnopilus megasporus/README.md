@@ -1,5 +1,4 @@
-Gymnopilus megasporus Grgur. SPECIES
-=======
+# Gymnopilus megasporus Grgur. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysteropeziza lonicerae Nannf. SPECIES
-=======
+# Hysteropeziza lonicerae Nannf. SPECIES
 
 #### Status
 ACCEPTED

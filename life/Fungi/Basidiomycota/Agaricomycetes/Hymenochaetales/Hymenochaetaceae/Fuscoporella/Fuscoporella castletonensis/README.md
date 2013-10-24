@@ -1,5 +1,4 @@
-Fuscoporella castletonensis Murrill SPECIES
-=======
+# Fuscoporella castletonensis Murrill SPECIES
 
 #### Status
 ACCEPTED

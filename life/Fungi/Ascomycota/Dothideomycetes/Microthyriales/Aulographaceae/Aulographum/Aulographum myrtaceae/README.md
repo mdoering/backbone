@@ -1,5 +1,4 @@
-Aulographum myrtaceae Theiss. SPECIES
-=======
+# Aulographum myrtaceae Theiss. SPECIES
 
 #### Status
 ACCEPTED

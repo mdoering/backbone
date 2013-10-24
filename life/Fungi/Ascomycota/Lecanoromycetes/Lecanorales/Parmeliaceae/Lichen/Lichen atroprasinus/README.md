@@ -1,5 +1,4 @@
-Lichen atroprasinus Schl. {?} SPECIES
-=======
+# Lichen atroprasinus Schl. {?} SPECIES
 
 #### Status
 ACCEPTED

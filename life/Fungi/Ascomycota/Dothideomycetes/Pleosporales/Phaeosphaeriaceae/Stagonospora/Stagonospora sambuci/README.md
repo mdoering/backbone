@@ -1,5 +1,4 @@
-Stagonospora sambuci Brunaud SPECIES
-=======
+# Stagonospora sambuci Brunaud SPECIES
 
 #### Status
 ACCEPTED

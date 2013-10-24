@@ -1,5 +1,4 @@
-Mycobacidia plumbina (Anzi) SPECIES
-=======
+# Mycobacidia plumbina (Anzi) SPECIES
 
 #### Status
 ACCEPTED

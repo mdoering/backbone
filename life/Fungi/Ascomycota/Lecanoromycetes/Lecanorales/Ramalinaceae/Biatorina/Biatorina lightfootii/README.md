@@ -1,5 +1,4 @@
-Biatorina lightfootii SPECIES
-=======
+# Biatorina lightfootii SPECIES
 
 #### Status
 ACCEPTED

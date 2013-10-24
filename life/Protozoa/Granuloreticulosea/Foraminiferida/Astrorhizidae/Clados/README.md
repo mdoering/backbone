@@ -1,5 +1,4 @@
-Clados Schröder, Medioli & Scott, 1989 GENUS
-=======
+# Clados Schröder, Medioli & Scott, 1989 GENUS
 
 #### Status
 ACCEPTED

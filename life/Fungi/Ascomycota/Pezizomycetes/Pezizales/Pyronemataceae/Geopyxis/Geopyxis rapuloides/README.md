@@ -1,5 +1,4 @@
-Geopyxis rapuloides (Rehm) Sacc. & P. Syd. SPECIES
-=======
+# Geopyxis rapuloides (Rehm) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

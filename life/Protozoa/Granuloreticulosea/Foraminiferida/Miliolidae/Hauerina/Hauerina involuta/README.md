@@ -1,5 +1,4 @@
-Hauerina involuta Cushman SPECIES
-=======
+# Hauerina involuta Cushman SPECIES
 
 #### Status
 ACCEPTED

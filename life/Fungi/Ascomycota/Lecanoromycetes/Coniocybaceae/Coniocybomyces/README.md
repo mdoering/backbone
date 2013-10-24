@@ -1,5 +1,4 @@
-Coniocybomyces GENUS
-=======
+# Coniocybomyces GENUS
 
 #### Status
 ACCEPTED

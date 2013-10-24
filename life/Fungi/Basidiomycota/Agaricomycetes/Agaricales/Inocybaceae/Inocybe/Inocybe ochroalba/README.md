@@ -1,5 +1,4 @@
-Inocybe ochroalba Bruyl., 1970 SPECIES
-=======
+# Inocybe ochroalba Bruyl., 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria fungiformis (Scop.) SPECIES
-=======
+# Patellaria fungiformis (Scop.) SPECIES
 
 #### Status
 ACCEPTED

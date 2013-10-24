@@ -1,5 +1,4 @@
-Verrucaria monstrosa (Schaer.) Jatta SPECIES
-=======
+# Verrucaria monstrosa (Schaer.) Jatta SPECIES
 
 #### Status
 ACCEPTED

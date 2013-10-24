@@ -1,5 +1,4 @@
-Crinipellis hepatica Corner SPECIES
-=======
+# Crinipellis hepatica Corner SPECIES
 
 #### Status
 ACCEPTED

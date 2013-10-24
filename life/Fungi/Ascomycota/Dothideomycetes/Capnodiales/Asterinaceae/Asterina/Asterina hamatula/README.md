@@ -1,5 +1,4 @@
-Asterina hamatula Cif. SPECIES
-=======
+# Asterina hamatula Cif. SPECIES
 
 #### Status
 ACCEPTED

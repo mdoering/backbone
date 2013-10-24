@@ -1,5 +1,4 @@
-Arthopyrenia peltigerella Zahlbr. SPECIES
-=======
+# Arthopyrenia peltigerella Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

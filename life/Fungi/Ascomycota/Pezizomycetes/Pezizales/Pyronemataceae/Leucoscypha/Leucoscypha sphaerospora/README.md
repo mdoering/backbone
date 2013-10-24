@@ -1,5 +1,4 @@
-Leucoscypha sphaerospora Spooner SPECIES
-=======
+# Leucoscypha sphaerospora Spooner SPECIES
 
 #### Status
 ACCEPTED

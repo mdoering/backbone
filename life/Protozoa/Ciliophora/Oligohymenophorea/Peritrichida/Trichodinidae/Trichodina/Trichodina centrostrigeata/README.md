@@ -1,5 +1,4 @@
-Trichodina centrostrigeata SPECIES
-=======
+# Trichodina centrostrigeata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza hysterigena Berk. & Broome SPECIES
-=======
+# Peziza hysterigena Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

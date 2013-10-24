@@ -1,5 +1,4 @@
-Diaporthe elaeagni Rehm SPECIES
-=======
+# Diaporthe elaeagni Rehm SPECIES
 
 #### Status
 ACCEPTED

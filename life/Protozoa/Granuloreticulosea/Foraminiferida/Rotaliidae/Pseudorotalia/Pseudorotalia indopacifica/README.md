@@ -1,5 +1,4 @@
-Pseudorotalia indopacifica (Thalmann) SPECIES
-=======
+# Pseudorotalia indopacifica (Thalmann) SPECIES
 
 #### Status
 ACCEPTED

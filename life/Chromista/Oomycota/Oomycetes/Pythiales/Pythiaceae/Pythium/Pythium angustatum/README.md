@@ -1,5 +1,4 @@
-Pythium angustatum Sparrow, 1931 SPECIES
-=======
+# Pythium angustatum Sparrow, 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostoma conostomoides Rick SPECIES
-=======
+# Anthostoma conostomoides Rick SPECIES
 
 #### Status
 ACCEPTED

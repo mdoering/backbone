@@ -1,5 +1,4 @@
-Isthmotricladia gombakiensis Nawawi, 1975 SPECIES
-=======
+# Isthmotricladia gombakiensis Nawawi, 1975 SPECIES
 
 #### Status
 ACCEPTED

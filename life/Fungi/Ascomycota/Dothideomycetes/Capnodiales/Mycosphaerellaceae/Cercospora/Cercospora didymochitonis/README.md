@@ -1,5 +1,4 @@
-Cercospora didymochitonis Wakef. SPECIES
-=======
+# Cercospora didymochitonis Wakef. SPECIES
 
 #### Status
 ACCEPTED

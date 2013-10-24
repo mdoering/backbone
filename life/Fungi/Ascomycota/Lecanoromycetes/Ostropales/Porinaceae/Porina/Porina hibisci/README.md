@@ -1,5 +1,4 @@
-Porina hibisci Vain. SPECIES
-=======
+# Porina hibisci Vain. SPECIES
 
 #### Status
 ACCEPTED

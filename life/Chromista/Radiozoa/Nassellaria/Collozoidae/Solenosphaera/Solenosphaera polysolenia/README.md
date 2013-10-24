@@ -1,5 +1,4 @@
-Solenosphaera polysolenia Strelkov, 1971 SPECIES
-=======
+# Solenosphaera polysolenia Strelkov, 1971 SPECIES
 
 #### Status
 ACCEPTED

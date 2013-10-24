@@ -1,5 +1,4 @@
-Coxliella pseudannulata Jörgensen SPECIES
-=======
+# Coxliella pseudannulata Jörgensen SPECIES
 
 #### Status
 ACCEPTED

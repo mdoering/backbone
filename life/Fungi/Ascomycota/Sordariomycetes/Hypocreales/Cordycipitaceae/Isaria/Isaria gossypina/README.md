@@ -1,5 +1,4 @@
-Isaria gossypina Pat. SPECIES
-=======
+# Isaria gossypina Pat. SPECIES
 
 #### Status
 ACCEPTED

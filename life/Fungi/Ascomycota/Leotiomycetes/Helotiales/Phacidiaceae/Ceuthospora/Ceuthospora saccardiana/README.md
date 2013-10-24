@@ -1,5 +1,4 @@
-Ceuthospora saccardiana (Roum. & Therry) Georgescu & Tutunaru SPECIES
-=======
+# Ceuthospora saccardiana (Roum. & Therry) Georgescu & Tutunaru SPECIES
 
 #### Status
 ACCEPTED

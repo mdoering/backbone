@@ -1,5 +1,4 @@
-Stereocaulon solutum I.M. Lamb ex Lynge SPECIES
-=======
+# Stereocaulon solutum I.M. Lamb ex Lynge SPECIES
 
 #### Status
 ACCEPTED

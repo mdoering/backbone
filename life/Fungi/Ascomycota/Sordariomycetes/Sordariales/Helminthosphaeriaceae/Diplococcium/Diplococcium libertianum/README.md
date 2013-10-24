@@ -1,5 +1,4 @@
-Diplococcium libertianum (Roum.) Sacc. SPECIES
-=======
+# Diplococcium libertianum (Roum.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

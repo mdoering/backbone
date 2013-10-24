@@ -1,5 +1,4 @@
-Myxosporium ovatum (Preuss) Sacc. SPECIES
-=======
+# Myxosporium ovatum (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

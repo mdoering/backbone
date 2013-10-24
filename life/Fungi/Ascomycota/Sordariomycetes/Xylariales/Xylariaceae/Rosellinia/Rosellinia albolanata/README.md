@@ -1,5 +1,4 @@
-Rosellinia albolanata Ellis & Everh. SPECIES
-=======
+# Rosellinia albolanata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

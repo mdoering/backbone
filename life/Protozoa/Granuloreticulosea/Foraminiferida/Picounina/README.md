@@ -1,5 +1,4 @@
-Picounina GENUS
-=======
+# Picounina GENUS
 
 #### Status
 ACCEPTED

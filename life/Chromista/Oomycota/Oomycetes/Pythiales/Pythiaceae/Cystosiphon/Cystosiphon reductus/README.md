@@ -1,14 +1,13 @@
-Lagenidiopsis reducta De Wild., 1896 SPECIES
-=======
+# Cystosiphon reductus (De Wild.) M.W. Dick, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Soc. Belge Microscop. 20: (1896)
+Straminipilous Fungi (Dordrecht) 301 (2001)
 
 #### Original name
 Lagenidiopsis reducta De Wild., 1896

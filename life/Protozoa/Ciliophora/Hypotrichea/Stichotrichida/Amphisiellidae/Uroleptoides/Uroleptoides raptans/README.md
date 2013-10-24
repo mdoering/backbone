@@ -1,8 +1,7 @@
-Amphisiella raptans Buitkamp & Wilbert, 1974 SPECIES
-=======
+# Uroleptoides raptans (Buitkamp & Wilbert, 1974) Hemberger, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

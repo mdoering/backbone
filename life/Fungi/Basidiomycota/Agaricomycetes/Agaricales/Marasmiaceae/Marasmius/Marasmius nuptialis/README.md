@@ -1,5 +1,4 @@
-Marasmius nuptialis Morgan SPECIES
-=======
+# Marasmius nuptialis Morgan SPECIES
 
 #### Status
 ACCEPTED

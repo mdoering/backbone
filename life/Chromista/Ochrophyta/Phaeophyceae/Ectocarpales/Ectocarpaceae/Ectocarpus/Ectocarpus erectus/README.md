@@ -1,5 +1,4 @@
-Ectocarpus erectus Kützing SPECIES
-=======
+# Ectocarpus erectus Kützing SPECIES
 
 #### Status
 ACCEPTED

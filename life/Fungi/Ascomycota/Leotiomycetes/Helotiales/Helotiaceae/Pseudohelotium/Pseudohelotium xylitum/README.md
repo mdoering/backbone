@@ -1,5 +1,4 @@
-Pseudohelotium xylitum (P. Karst.) Sacc. SPECIES
-=======
+# Pseudohelotium xylitum (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

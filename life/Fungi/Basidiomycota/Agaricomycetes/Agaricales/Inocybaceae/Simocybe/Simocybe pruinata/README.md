@@ -1,5 +1,4 @@
-Simocybe pruinata E. Horak, 1980 SPECIES
-=======
+# Simocybe pruinata E. Horak, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodocybe harperi (Murrill) Harmaja SPECIES
-=======
+# Rhodocybe harperi (Murrill) Harmaja SPECIES
 
 #### Status
 ACCEPTED

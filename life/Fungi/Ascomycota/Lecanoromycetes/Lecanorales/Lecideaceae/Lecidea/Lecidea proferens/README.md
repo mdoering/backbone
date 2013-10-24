@@ -1,5 +1,4 @@
-Lecidea proferens Nyl. SPECIES
-=======
+# Lecidea proferens Nyl. SPECIES
 
 #### Status
 ACCEPTED

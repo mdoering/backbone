@@ -1,5 +1,4 @@
-Scolecopeltidium connaraceaefolii Bat. & I.H. Lima SPECIES
-=======
+# Scolecopeltidium connaraceaefolii Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

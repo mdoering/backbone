@@ -1,5 +1,4 @@
-Belemnospora P.M. Kirk GENUS
-=======
+# Belemnospora P.M. Kirk GENUS
 
 #### Status
 ACCEPTED

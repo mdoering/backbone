@@ -1,14 +1,13 @@
-Rosellinia subcorticalis Fuckel, 1870 SPECIES
-=======
+# Coniochaeta subcorticalis (Fuckel) Munk, 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 150 (1870)
+Dansk bot. Ark. 15(no. 2): 54 (1953)
 
 #### Original name
 Rosellinia subcorticalis Fuckel, 1870

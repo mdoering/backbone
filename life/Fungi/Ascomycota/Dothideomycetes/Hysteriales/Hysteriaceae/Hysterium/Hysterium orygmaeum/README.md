@@ -1,5 +1,4 @@
-Hysterium orygmaeum Mont. SPECIES
-=======
+# Hysterium orygmaeum Mont. SPECIES
 
 #### Status
 ACCEPTED

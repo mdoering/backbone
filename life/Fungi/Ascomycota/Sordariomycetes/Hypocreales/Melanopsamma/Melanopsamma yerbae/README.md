@@ -1,5 +1,4 @@
-Melanopsamma yerbae Speg. SPECIES
-=======
+# Melanopsamma yerbae Speg. SPECIES
 
 #### Status
 ACCEPTED

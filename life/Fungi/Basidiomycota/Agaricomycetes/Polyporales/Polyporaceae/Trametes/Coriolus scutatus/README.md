@@ -1,5 +1,4 @@
-Coriolus scutatus Murrill SPECIES
-=======
+# Coriolus scutatus Murrill SPECIES
 
 #### Status
 ACCEPTED

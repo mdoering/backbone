@@ -1,5 +1,4 @@
-Lophiostoma congregatum Harkn. SPECIES
-=======
+# Lophiostoma congregatum Harkn. SPECIES
 
 #### Status
 ACCEPTED

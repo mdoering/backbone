@@ -1,17 +1,16 @@
-Schizothyrioma indica A. Pande SPECIES
-=======
+# Schizothyrioma indicum A. Pande SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 40(20): 554 (1971)
 
 #### Original name
-Schizothyrioma indica A. Pande
+Schizothyrioma indicum A. Pande
 
 ### Remarks
 null

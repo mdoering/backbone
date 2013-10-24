@@ -1,5 +1,4 @@
-Oceanospirillaceae FAMILY
-=======
+# Oceanospirillaceae FAMILY
 
 #### Status
 ACCEPTED

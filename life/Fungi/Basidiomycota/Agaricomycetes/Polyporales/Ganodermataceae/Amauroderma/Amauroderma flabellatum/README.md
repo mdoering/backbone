@@ -1,5 +1,4 @@
-Amauroderma flabellatum Aime & Ryvarden SPECIES
-=======
+# Amauroderma flabellatum Aime & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

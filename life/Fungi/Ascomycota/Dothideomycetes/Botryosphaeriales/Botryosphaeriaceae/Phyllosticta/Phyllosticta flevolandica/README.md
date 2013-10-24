@@ -1,5 +1,4 @@
-Phyllosticta flevolandica Aa, 1973 SPECIES
-=======
+# Phyllosticta flevolandica Aa, 1973 SPECIES
 
 #### Status
 ACCEPTED

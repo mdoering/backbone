@@ -1,5 +1,4 @@
-Leptosphaeria debeauxii Sacc. & Roum. SPECIES
-=======
+# Leptosphaeria debeauxii Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

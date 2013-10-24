@@ -1,5 +1,4 @@
-Toninia caesiopallida (Nyl.) Zahlbr. SPECIES
-=======
+# Toninia caesiopallida (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

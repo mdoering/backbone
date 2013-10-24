@@ -1,5 +1,4 @@
-Reophax arayaensis Bermudez & Seiglie, 1963 SPECIES
-=======
+# Reophax arayaensis Bermudez & Seiglie, 1963 SPECIES
 
 #### Status
 ACCEPTED

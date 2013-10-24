@@ -1,5 +1,4 @@
-Mycosphaerella serratulae (Hollós) Tomilin SPECIES
-=======
+# Mycosphaerella serratulae (Hollós) Tomilin SPECIES
 
 #### Status
 ACCEPTED

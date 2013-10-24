@@ -1,5 +1,4 @@
-Leptoglossum septentrionale (W.B. Cooke) Agerer SPECIES
-=======
+# Leptoglossum septentrionale (W.B. Cooke) Agerer SPECIES
 
 #### Status
 ACCEPTED

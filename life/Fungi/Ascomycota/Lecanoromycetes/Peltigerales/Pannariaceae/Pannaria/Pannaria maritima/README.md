@@ -1,5 +1,4 @@
-Pannaria maritima P.M. Jørg. SPECIES
-=======
+# Pannaria maritima P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

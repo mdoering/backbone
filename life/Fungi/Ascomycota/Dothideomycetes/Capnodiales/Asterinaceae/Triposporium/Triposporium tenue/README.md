@@ -1,5 +1,4 @@
-Triposporium tenue Woron. SPECIES
-=======
+# Triposporium tenue Woron. SPECIES
 
 #### Status
 ACCEPTED

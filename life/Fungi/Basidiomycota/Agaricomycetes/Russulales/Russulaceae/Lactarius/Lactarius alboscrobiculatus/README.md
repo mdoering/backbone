@@ -1,5 +1,4 @@
-Lactarius alboscrobiculatus H.T. Le & Verbeken SPECIES
-=======
+# Lactarius alboscrobiculatus H.T. Le & Verbeken SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthracoidea altiphila Vánky & M. Piepenbr. SPECIES
-=======
+# Anthracoidea altiphila Vánky & M. Piepenbr. SPECIES
 
 #### Status
 ACCEPTED

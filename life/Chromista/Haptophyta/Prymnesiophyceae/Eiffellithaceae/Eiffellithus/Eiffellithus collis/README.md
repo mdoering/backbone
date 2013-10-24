@@ -1,5 +1,4 @@
-Eiffellithus collis Hoffmann, 1970 SPECIES
-=======
+# Eiffellithus collis Hoffmann, 1970 SPECIES
 
 #### Status
 ACCEPTED

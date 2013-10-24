@@ -1,5 +1,4 @@
-Arthonia gracillima Müll. Arg. SPECIES
-=======
+# Arthonia gracillima Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

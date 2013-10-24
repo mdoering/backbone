@@ -1,5 +1,4 @@
-Feigeana Mies, Lumbsch & Tehler GENUS
-=======
+# Feigeana Mies, Lumbsch & Tehler GENUS
 
 #### Status
 ACCEPTED

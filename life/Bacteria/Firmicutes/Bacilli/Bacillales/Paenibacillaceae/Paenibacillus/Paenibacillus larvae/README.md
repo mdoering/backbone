@@ -1,5 +1,4 @@
-Paenibacillus larvae subsp. larvae SUBSPECIES
-=======
+# Paenibacillus larvae (White, 1906) Ash et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

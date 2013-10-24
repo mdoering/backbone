@@ -1,5 +1,4 @@
-Monascus barkeri P.A. Dang. SPECIES
-=======
+# Monascus barkeri P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

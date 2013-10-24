@@ -1,5 +1,4 @@
-Tripedocassis Dumitrica, 1991 GENUS
-=======
+# Tripedocassis Dumitrica, 1991 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discoaster exilis SPECIES
-=======
+# Discoaster exilis SPECIES
 
 #### Status
 ACCEPTED

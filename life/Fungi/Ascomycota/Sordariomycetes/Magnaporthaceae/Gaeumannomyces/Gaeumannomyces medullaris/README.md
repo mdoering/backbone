@@ -1,5 +1,4 @@
-Gaeumannomyces medullaris Kohlm., Volkm.-Kohlm. & O.E. Erikss., 1995 SPECIES
-=======
+# Gaeumannomyces medullaris Kohlm., Volkm.-Kohlm. & O.E. Erikss., 1995 SPECIES
 
 #### Status
 ACCEPTED

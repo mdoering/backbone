@@ -1,5 +1,4 @@
-Fuscidea mayrhoferi Kantvilas SPECIES
-=======
+# Fuscidea mayrhoferi Kantvilas SPECIES
 
 #### Status
 ACCEPTED

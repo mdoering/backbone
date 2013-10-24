@@ -1,5 +1,4 @@
-Actinoplanes capillaceus Matsumoto et al., 2001 SPECIES
-=======
+# Actinoplanes capillaceus Matsumoto et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

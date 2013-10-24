@@ -1,5 +1,4 @@
-Lophodermium yanglingense Z.M. Cao & C.M. Tian SPECIES
-=======
+# Lophodermium yanglingense Z.M. Cao & C.M. Tian SPECIES
 
 #### Status
 ACCEPTED

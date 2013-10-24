@@ -1,5 +1,4 @@
-Amerosporiella tristis Höhn., 1916 SPECIES
-=======
+# Amerosporiella tristis Höhn., 1916 SPECIES
 
 #### Status
 ACCEPTED

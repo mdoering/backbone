@@ -1,5 +1,4 @@
-Phlyctema maculans Fautrey SPECIES
-=======
+# Phlyctema maculans Fautrey SPECIES
 
 #### Status
 ACCEPTED

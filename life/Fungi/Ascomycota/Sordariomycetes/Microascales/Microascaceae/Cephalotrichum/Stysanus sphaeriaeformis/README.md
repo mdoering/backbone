@@ -1,5 +1,4 @@
-Stysanus sphaeriaeformis Fuckel SPECIES
-=======
+# Stysanus sphaeriaeformis Fuckel SPECIES
 
 #### Status
 ACCEPTED

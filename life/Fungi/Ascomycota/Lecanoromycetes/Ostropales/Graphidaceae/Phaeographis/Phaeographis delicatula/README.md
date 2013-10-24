@@ -1,5 +1,4 @@
-Phaeographis delicatula Common & Lücking SPECIES
-=======
+# Phaeographis delicatula Common & Lücking SPECIES
 
 #### Status
 ACCEPTED

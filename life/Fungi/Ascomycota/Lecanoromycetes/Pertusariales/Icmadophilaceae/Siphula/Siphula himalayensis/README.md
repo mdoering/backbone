@@ -1,5 +1,4 @@
-Siphula himalayensis (Räsänen) Kantvilas SPECIES
-=======
+# Siphula himalayensis (Räsänen) Kantvilas SPECIES
 
 #### Status
 ACCEPTED

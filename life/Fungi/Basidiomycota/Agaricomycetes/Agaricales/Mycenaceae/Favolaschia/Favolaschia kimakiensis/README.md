@@ -1,5 +1,4 @@
-Favolaschia kimakiensis Otieno SPECIES
-=======
+# Favolaschia kimakiensis Otieno SPECIES
 
 #### Status
 ACCEPTED

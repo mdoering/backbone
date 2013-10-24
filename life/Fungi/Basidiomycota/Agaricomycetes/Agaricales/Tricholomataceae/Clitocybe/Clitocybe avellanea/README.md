@@ -1,5 +1,4 @@
-Clitocybe avellanea Beeli SPECIES
-=======
+# Clitocybe avellanea Beeli SPECIES
 
 #### Status
 ACCEPTED

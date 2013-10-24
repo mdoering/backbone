@@ -1,5 +1,4 @@
-Corynespora bdellomorpha (Speg.) M.B. Ellis SPECIES
-=======
+# Corynespora bdellomorpha (Speg.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

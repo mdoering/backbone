@@ -1,17 +1,16 @@
-Mycosphaerella cornii R.K. Verma & Kamal SPECIES
-=======
+# Mycosphaerella corni (Schwein.) J.H. Mill. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 33: 80 (1941)
 
 #### Original name
-Mycosphaerella cornii R.K. Verma & Kamal
+Sphaeria corni Sowerby, 1803
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cortinarius absinthiacus M.M. Moser SPECIES
-=======
+# Cortinarius absinthiacus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

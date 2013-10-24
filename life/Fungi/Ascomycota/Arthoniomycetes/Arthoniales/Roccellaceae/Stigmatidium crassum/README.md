@@ -1,17 +1,16 @@
-Stigmatidium crassum var. crassum VARIETY
-=======
+# Stigmatidium crassum Hook. f. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Stigmatidium crassum Hook. f.
 
 ### Remarks
 null

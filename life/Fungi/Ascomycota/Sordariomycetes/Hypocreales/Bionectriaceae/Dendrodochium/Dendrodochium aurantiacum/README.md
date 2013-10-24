@@ -1,5 +1,4 @@
-Dendrodochium aurantiacum Bonord. SPECIES
-=======
+# Dendrodochium aurantiacum Bonord. SPECIES
 
 #### Status
 ACCEPTED

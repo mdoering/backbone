@@ -1,5 +1,4 @@
-Stichochaeta cylindrica SPECIES
-=======
+# Stichochaeta cylindrica SPECIES
 
 #### Status
 ACCEPTED

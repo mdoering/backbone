@@ -1,5 +1,4 @@
-Uredo holboelliicola J.Y. Zhuang SPECIES
-=======
+# Uredo holboelliicola J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

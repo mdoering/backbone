@@ -1,5 +1,4 @@
-Phyllostictella symphoriella (Sacc. & Marchal) Tassi SPECIES
-=======
+# Phyllostictella symphoriella (Sacc. & Marchal) Tassi SPECIES
 
 #### Status
 ACCEPTED

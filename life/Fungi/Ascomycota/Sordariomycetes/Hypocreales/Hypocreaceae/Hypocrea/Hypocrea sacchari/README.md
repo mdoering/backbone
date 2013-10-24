@@ -1,5 +1,4 @@
-Hypocrea sacchari Went SPECIES
-=======
+# Hypocrea sacchari Went SPECIES
 
 #### Status
 ACCEPTED

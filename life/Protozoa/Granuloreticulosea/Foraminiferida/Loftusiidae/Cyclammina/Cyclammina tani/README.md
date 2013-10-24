@@ -1,5 +1,4 @@
-Cyclammina tani Ishizaki SPECIES
-=======
+# Cyclammina tani Ishizaki SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Paradiacheopsis lurida (Lister) Hertel SPECIES
-=======
+# Collaria lurida (Lister) Nann.-Bremek., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Dusenia 7(6): 348 (1956)
+Nederlandse Myxomyceten (Amsterdam), 2 Suppl. 236 (1975)
 
 #### Original name
 Comatricha lurida Lister, 1894

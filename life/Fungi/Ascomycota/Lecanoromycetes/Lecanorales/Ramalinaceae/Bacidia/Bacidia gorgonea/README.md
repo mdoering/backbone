@@ -1,5 +1,4 @@
-Bacidia gorgonea Vezda & Poelt SPECIES
-=======
+# Bacidia gorgonea Vezda & Poelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discostroma pachystimae M.E. Barr & Rogerson SPECIES
-=======
+# Discostroma pachystimae M.E. Barr & Rogerson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus quadrifarius Schumach. SPECIES
-=======
+# Agaricus quadrifarius Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phragmoscutella abchasica Woron. & Abramov, 1927 SPECIES
-=======
+# Phragmoscutella abchasica Woron. & Abramov, 1927 SPECIES
 
 #### Status
 ACCEPTED

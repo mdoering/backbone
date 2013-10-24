@@ -1,5 +1,4 @@
-Capnodium maximum Berk. & M.A. Curtis SPECIES
-=======
+# Capnodium maximum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

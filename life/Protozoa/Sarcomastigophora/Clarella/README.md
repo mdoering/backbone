@@ -1,5 +1,4 @@
-Clarella Fuchs, 1967 GENUS
-=======
+# Clarella Fuchs, 1967 GENUS
 
 #### Status
 ACCEPTED

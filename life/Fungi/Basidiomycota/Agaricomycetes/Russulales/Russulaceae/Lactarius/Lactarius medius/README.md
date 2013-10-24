@@ -1,5 +1,4 @@
-Lactarius medius Schulzer SPECIES
-=======
+# Lactarius medius Schulzer SPECIES
 
 #### Status
 ACCEPTED

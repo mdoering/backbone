@@ -1,5 +1,4 @@
-Diplotomma hungaricum var. hungaricum VARIETY
-=======
+# Diplotomma hungaricum Szatala SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Diplotomma hungaricum var. hungaricum
+Diplotomma hungaricum Szatala
 
 ### Remarks
 null

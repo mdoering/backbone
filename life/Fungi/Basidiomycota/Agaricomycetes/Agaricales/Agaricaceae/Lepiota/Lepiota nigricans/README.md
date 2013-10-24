@@ -1,5 +1,4 @@
-Lepiota nigricans Pat. SPECIES
-=======
+# Lepiota nigricans Pat. SPECIES
 
 #### Status
 ACCEPTED

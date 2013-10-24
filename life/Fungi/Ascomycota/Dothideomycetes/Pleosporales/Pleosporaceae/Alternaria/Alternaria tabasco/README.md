@@ -1,5 +1,4 @@
-Alternaria tabasco E.G. Simmons & R.G. Roberts SPECIES
-=======
+# Alternaria tabasco E.G. Simmons & R.G. Roberts SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia sardonensis Gäum. SPECIES
-=======
+# Puccinia sardonensis Gäum. SPECIES
 
 #### Status
 ACCEPTED

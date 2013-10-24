@@ -1,5 +1,4 @@
-Phelonites Fries, 1846 GENUS
-=======
+# Phelonites Fries, 1846 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia gjaerumii Bahç. & Kabakt. SPECIES
-=======
+# Puccinia gjaerumii Bahç. & Kabakt. SPECIES
 
 #### Status
 ACCEPTED

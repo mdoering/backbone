@@ -1,5 +1,4 @@
-Sorosporium atrum Peck SPECIES
-=======
+# Sorosporium atrum Peck SPECIES
 
 #### Status
 ACCEPTED

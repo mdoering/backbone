@@ -1,5 +1,4 @@
-Crucispora naucorioides E. Horak, 1971 SPECIES
-=======
+# Crucispora naucorioides E. Horak, 1971 SPECIES
 
 #### Status
 ACCEPTED

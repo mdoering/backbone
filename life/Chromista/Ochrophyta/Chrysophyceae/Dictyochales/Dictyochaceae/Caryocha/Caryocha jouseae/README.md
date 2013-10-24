@@ -1,5 +1,4 @@
-Caryocha jouseae (A. Bachmann) D. Bukry & S. Monechi SPECIES
-=======
+# Caryocha jouseae (A. Bachmann) D. Bukry & S. Monechi SPECIES
 
 #### Status
 ACCEPTED

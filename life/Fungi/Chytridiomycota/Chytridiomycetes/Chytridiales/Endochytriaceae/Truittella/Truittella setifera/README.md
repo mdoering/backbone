@@ -1,5 +1,4 @@
-Truittella setifera Karling, 1949 SPECIES
-=======
+# Truittella setifera Karling, 1949 SPECIES
 
 #### Status
 ACCEPTED

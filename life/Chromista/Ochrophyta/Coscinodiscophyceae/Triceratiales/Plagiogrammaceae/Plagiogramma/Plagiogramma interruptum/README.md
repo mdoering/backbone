@@ -1,11 +1,10 @@
-Plagiogramma adriaticum (Grunow in Van Heurck, 1881) Peragallo and Peragallo, 1897-, 1908 SPECIES
-=======
+# Plagiogramma interruptum (W. Gregory) Ralfs SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

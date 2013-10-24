@@ -1,5 +1,4 @@
-Ocellularia isertii (Vain.) Zahlbr. SPECIES
-=======
+# Ocellularia isertii (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

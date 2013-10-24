@@ -1,5 +1,4 @@
-Marasmius dimorphus C. Puccin. & Capelari SPECIES
-=======
+# Marasmius dimorphus C. Puccin. & Capelari SPECIES
 
 #### Status
 ACCEPTED

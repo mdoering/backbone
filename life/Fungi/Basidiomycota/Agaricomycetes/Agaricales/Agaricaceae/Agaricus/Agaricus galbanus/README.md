@@ -1,5 +1,4 @@
-Agaricus galbanus Lasch SPECIES
-=======
+# Agaricus galbanus Lasch SPECIES
 
 #### Status
 ACCEPTED

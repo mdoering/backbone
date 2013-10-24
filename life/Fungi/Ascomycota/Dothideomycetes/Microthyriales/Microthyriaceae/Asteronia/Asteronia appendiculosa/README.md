@@ -1,5 +1,4 @@
-Asteronia appendiculosa (Mont. & Berk.) Mont. SPECIES
-=======
+# Asteronia appendiculosa (Mont. & Berk.) Mont. SPECIES
 
 #### Status
 ACCEPTED

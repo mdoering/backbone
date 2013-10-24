@@ -1,5 +1,4 @@
-Sclerotinia mycetophila (Fayod) Sacc. SPECIES
-=======
+# Sclerotinia mycetophila (Fayod) Sacc. SPECIES
 
 #### Status
 ACCEPTED

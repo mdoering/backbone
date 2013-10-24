@@ -1,5 +1,4 @@
-Hypogymnia deserti (Hue) C.W. Dodge SPECIES
-=======
+# Hypogymnia deserti (Hue) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

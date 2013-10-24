@@ -1,5 +1,4 @@
-Usnea kushiroensis subsp. kushiroensis SUBSPECIES
-=======
+# Usnea kushiroensis Asahina SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea kushiroensis subsp. kushiroensis
+Usnea kushiroensis Asahina
 
 ### Remarks
 null

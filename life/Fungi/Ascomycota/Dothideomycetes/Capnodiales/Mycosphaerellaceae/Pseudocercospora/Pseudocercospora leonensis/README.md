@@ -1,5 +1,4 @@
-Pseudocercospora leonensis (Deighton) Deighton SPECIES
-=======
+# Pseudocercospora leonensis (Deighton) Deighton SPECIES
 
 #### Status
 ACCEPTED

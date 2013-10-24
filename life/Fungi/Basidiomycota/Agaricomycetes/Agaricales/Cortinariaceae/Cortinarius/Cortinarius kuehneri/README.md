@@ -1,5 +1,4 @@
-Cortinarius kuehneri M.M. Moser SPECIES
-=======
+# Cortinarius kuehneri M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

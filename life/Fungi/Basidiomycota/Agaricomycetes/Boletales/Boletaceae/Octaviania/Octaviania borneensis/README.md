@@ -1,5 +1,4 @@
-Octaviania borneensis Petri SPECIES
-=======
+# Octaviania borneensis Petri SPECIES
 
 #### Status
 ACCEPTED

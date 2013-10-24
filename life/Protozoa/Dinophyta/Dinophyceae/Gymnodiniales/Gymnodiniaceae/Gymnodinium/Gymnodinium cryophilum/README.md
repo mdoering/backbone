@@ -1,5 +1,4 @@
-Gymnodinium cryophilum (G.J. Wedemayer, L.W. Wilcox, & L.E. Graham) G. Hansen & Ø. Moestrup SPECIES
-=======
+# Gymnodinium cryophilum (G.J. Wedemayer, L.W. Wilcox, & L.E. Graham) G. Hansen & Ø. Moestrup SPECIES
 
 #### Status
 ACCEPTED

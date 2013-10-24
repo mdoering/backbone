@@ -1,5 +1,4 @@
-Aposphaeria arctica (P. Karst.) Sacc. SPECIES
-=======
+# Aposphaeria arctica (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

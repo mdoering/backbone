@@ -1,5 +1,4 @@
-Botrytis seriata Ellis & Everh. SPECIES
-=======
+# Botrytis seriata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

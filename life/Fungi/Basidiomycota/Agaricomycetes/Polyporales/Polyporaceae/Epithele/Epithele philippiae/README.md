@@ -1,5 +1,4 @@
-Epithele philippiae Boidin & Gilles SPECIES
-=======
+# Epithele philippiae Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

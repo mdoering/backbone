@@ -1,5 +1,4 @@
-Boletus subsanguineus Peck SPECIES
-=======
+# Boletus subsanguineus Peck SPECIES
 
 #### Status
 ACCEPTED

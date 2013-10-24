@@ -1,14 +1,13 @@
-Dermatocarpon latzelii Zahlbr. SPECIES
-=======
+# Neocatapyrenium latzelii (Zahlbr.) Breuss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annln naturh. Mus. Wien, Ser. B, Bot. Zool. 98(Suppl. ): 41 (1996)
 
 #### Original name
 Dermatocarpon latzelii Zahlbr.

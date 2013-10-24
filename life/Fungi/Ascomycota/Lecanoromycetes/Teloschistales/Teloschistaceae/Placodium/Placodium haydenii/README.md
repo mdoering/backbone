@@ -1,5 +1,4 @@
-Placodium haydenii (Tuck.) Oxner SPECIES
-=======
+# Placodium haydenii (Tuck.) Oxner SPECIES
 
 #### Status
 ACCEPTED

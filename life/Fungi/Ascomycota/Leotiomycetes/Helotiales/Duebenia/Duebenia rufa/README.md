@@ -1,17 +1,16 @@
-Duebenia rubra Fr. SPECIES
-=======
+# Duebenia rufa Fr., 1849 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Summa veg. Scand. (Stockholm), Section Post. 356 (1849)
 
 #### Original name
-Duebenia rubra Fr.
+Duebenia rufa Fr., 1849
 
 ### Remarks
 null

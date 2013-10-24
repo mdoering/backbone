@@ -1,8 +1,7 @@
-Physalospora obionis (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Physalospora obiones (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

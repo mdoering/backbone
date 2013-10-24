@@ -1,5 +1,4 @@
-Uredo panici-montani Petch SPECIES
-=======
+# Uredo panici-montani Petch SPECIES
 
 #### Status
 ACCEPTED

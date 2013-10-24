@@ -1,5 +1,4 @@
-Mycosphaerella albescens (Rabenh.) Lind SPECIES
-=======
+# Mycosphaerella albescens (Rabenh.) Lind SPECIES
 
 #### Status
 ACCEPTED

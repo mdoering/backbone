@@ -1,5 +1,4 @@
-Lecania spadicea (Flot.) Zahlbr. SPECIES
-=======
+# Lecania spadicea (Flot.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

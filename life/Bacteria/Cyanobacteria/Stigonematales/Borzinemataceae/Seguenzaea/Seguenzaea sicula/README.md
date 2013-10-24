@@ -1,5 +1,4 @@
-Seguenzaea sicula Borzi SPECIES
-=======
+# Seguenzaea sicula Borzi SPECIES
 
 #### Status
 ACCEPTED

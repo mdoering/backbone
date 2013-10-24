@@ -1,5 +1,4 @@
-Chromosporium olivaceum (DC.) Vouaux SPECIES
-=======
+# Chromosporium olivaceum (DC.) Vouaux SPECIES
 
 #### Status
 ACCEPTED

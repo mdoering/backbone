@@ -1,8 +1,7 @@
-Chorostate batatatis (Harter & E.C. Field) Sacc. SPECIES
-=======
+# Chorostate batatas (Harter & E.C. Field) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Mycena basibarbis Rick SPECIES
-=======
+# Mycena basibarbis Rick SPECIES
 
 #### Status
 ACCEPTED

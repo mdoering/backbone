@@ -1,17 +1,16 @@
-Penicillium subtile var. ramosium Grove VARIETY
-=======
+# Penicillium subtile Berk., 1841 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Mag. nat. Hist. , Ser. 1 6: no. 241 (1841)
 
 #### Original name
-Penicillium subtile var. ramosium Grove
+Penicillium subtile Berk., 1841
 
 ### Remarks
 null

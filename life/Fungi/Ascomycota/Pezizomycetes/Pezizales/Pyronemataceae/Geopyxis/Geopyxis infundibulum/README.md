@@ -1,5 +1,4 @@
-Geopyxis infundibulum (Hazsl.) Sacc. SPECIES
-=======
+# Geopyxis infundibulum (Hazsl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

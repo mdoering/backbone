@@ -1,8 +1,7 @@
-Epistylis umbellata (Gmelin, 1790) Jankowski, 2007 SPECIES
-=======
+# Epistylis galea Ehrenberg, 1831 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

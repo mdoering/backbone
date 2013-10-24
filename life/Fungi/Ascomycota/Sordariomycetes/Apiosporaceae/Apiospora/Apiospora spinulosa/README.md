@@ -1,5 +1,4 @@
-Apiospora spinulosa Petr. SPECIES
-=======
+# Apiospora spinulosa Petr. SPECIES
 
 #### Status
 ACCEPTED

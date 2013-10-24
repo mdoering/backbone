@@ -1,5 +1,4 @@
-Eurotium caulincola Fr. SPECIES
-=======
+# Eurotium caulincola Fr. SPECIES
 
 #### Status
 ACCEPTED

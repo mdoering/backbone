@@ -1,5 +1,4 @@
-Asterina fragillissima Berk., 1855 SPECIES
-=======
+# Asterina fragillissima Berk., 1855 SPECIES
 
 #### Status
 ACCEPTED

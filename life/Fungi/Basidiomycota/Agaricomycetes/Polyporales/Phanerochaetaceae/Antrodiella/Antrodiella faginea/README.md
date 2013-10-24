@@ -1,5 +1,4 @@
-Antrodiella faginea Vampola & Pouzar, 1996 SPECIES
-=======
+# Antrodiella faginea Vampola & Pouzar, 1996 SPECIES
 
 #### Status
 ACCEPTED

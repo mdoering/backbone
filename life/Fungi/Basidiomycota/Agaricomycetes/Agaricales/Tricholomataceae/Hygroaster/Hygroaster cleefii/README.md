@@ -1,5 +1,4 @@
-Hygroaster cleefii Franco-Mol. & López-Quint. SPECIES
-=======
+# Hygroaster cleefii Franco-Mol. & López-Quint. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudotetraëdriella Hedgewald, Padisak & Friedl, 2007 GENUS
-=======
+# Pseudotetraëdriella Hedgewald, Padisak & Friedl, 2007 GENUS
 
 #### Status
 ACCEPTED

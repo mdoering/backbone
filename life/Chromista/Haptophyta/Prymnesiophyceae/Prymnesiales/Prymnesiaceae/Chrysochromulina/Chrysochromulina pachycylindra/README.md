@@ -1,5 +1,4 @@
-Chrysochromulina pachycylindra Manton & Oates in Manton et al., 1981 SPECIES
-=======
+# Chrysochromulina pachycylindra Manton & Oates in Manton et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

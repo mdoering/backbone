@@ -1,5 +1,4 @@
-Rhizomorpha sulfurea Speg. SPECIES
-=======
+# Rhizomorpha sulfurea Speg. SPECIES
 
 #### Status
 ACCEPTED

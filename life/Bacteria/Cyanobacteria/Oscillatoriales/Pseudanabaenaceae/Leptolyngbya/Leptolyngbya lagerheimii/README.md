@@ -1,5 +1,4 @@
-Leptolyngbya lagerheimii (Gomont) Anagnostidis & Komárek SPECIES
-=======
+# Leptolyngbya lagerheimii (Gomont) Anagnostidis & Komárek SPECIES
 
 #### Status
 ACCEPTED

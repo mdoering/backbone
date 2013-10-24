@@ -1,17 +1,16 @@
-Cortinarius elegantissimus var. elegantissimus VARIETY
-=======
+# Cortinarius elegantissimus Rob. Henry, 1989 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Docums Mycol. 20(no. 77): 69 (1989)
 
 #### Original name
-null
+Cortinarius elegantissimus Rob. Henry, 1989
 
 ### Remarks
 null

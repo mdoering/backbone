@@ -1,5 +1,4 @@
-Dictyota angusta (J. Agardh) I. Hörnig, R. Schnetter & W.F. Prud'homme van Reine SPECIES
-=======
+# Dictyota angusta (J. Agardh) I. Hörnig, R. Schnetter & W.F. Prud'homme van Reine SPECIES
 
 #### Status
 ACCEPTED

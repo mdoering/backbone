@@ -1,5 +1,4 @@
-Trichosporum tabacinum Sacc. & Roum. SPECIES
-=======
+# Trichosporum tabacinum Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

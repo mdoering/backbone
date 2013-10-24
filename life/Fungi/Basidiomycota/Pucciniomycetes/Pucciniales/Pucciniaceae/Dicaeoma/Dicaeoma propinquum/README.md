@@ -1,5 +1,4 @@
-Dicaeoma propinquum (Syd., P. Syd. & E.J. Butler) Syd. SPECIES
-=======
+# Dicaeoma propinquum (Syd., P. Syd. & E.J. Butler) Syd. SPECIES
 
 #### Status
 ACCEPTED

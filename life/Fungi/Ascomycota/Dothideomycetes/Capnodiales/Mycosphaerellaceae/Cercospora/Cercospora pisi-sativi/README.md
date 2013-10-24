@@ -1,17 +1,16 @@
-Cercospora pisa-sativae J.A. Stev. SPECIES
-=======
+# Cercospora pisi-sativi J.A. Stev. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Rep. P. Rico insul. agric. Exp. Station, 1917-18 138 (1919)
 
 #### Original name
-Cercospora pisa-sativae J.A. Stev.
+Cercospora pisi-sativi J.A. Stev.
 
 ### Remarks
 null

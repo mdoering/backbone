@@ -1,5 +1,4 @@
-Agaricus constans Peck SPECIES
-=======
+# Agaricus constans Peck SPECIES
 
 #### Status
 ACCEPTED

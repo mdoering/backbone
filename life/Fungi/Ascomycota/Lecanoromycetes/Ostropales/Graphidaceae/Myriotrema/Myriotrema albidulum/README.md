@@ -1,5 +1,4 @@
-Myriotrema albidulum (Nyl.) Hale SPECIES
-=======
+# Myriotrema albidulum (Nyl.) Hale SPECIES
 
 #### Status
 ACCEPTED

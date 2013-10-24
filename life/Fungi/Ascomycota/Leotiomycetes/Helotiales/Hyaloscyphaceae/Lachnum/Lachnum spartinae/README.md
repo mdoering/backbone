@@ -1,5 +1,4 @@
-Lachnum spartinae S.A. Cantrell SPECIES
-=======
+# Lachnum spartinae S.A. Cantrell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Holophrya indica Bathia, 1916 SPECIES
-=======
+# Holophrya indica Bathia, 1916 SPECIES
 
 #### Status
 ACCEPTED

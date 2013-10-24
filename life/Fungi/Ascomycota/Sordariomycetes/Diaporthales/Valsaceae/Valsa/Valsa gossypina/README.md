@@ -1,5 +1,4 @@
-Valsa gossypina Cooke SPECIES
-=======
+# Valsa gossypina Cooke SPECIES
 
 #### Status
 ACCEPTED

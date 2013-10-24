@@ -1,17 +1,16 @@
-Conocybe aurea var. aurea VARIETY
-=======
+# Conocybe aurea (Jul. Schäff.) Hongo, 1963 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 J. Jap. Bot. 38: 236 (1963)
 
 #### Original name
-Conocybe aurea var. aurea
+Galera aurea Jul. Schäff., 1963
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Falcia K. Benes, 1956 GENUS
-=======
+# Falcia K. Benes, 1956 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodium tolucae B. de Lesd. SPECIES
-=======
+# Placodium tolucae B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

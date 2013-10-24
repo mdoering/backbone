@@ -1,5 +1,4 @@
-Hyaloseta nolinae A.W. Ramaley, 2001 SPECIES
-=======
+# Hyaloseta nolinae A.W. Ramaley, 2001 SPECIES
 
 #### Status
 ACCEPTED

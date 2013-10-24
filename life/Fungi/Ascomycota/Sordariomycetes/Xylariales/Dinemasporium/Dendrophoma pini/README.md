@@ -1,5 +1,4 @@
-Dendrophoma pini Richon SPECIES
-=======
+# Dendrophoma pini Richon SPECIES
 
 #### Status
 ACCEPTED

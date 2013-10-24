@@ -1,5 +1,4 @@
-Botryochloris minima Pascher SPECIES
-=======
+# Botryochloris minima Pascher SPECIES
 
 #### Status
 ACCEPTED

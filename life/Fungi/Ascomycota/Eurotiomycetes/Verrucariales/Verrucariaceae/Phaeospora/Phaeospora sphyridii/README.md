@@ -1,5 +1,4 @@
-Phaeospora sphyridii (Hazsl.) Arnold SPECIES
-=======
+# Phaeospora sphyridii (Hazsl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

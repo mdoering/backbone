@@ -1,5 +1,4 @@
-Cenangium conglobatum Ellis & Everh. SPECIES
-=======
+# Cenangium conglobatum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

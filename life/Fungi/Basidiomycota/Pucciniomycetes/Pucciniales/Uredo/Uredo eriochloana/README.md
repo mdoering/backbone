@@ -1,5 +1,4 @@
-Uredo eriochloana Sacc. & Trotter SPECIES
-=======
+# Uredo eriochloana Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

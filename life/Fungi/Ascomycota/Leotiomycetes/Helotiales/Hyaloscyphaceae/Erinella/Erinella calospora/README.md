@@ -1,5 +1,4 @@
-Erinella calospora Pat. & Gaillard SPECIES
-=======
+# Erinella calospora Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

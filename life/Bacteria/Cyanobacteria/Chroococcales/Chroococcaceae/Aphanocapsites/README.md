@@ -1,5 +1,4 @@
-Aphanocapsites V.P. Maslov, 1956 GENUS
-=======
+# Aphanocapsites V.P. Maslov, 1956 GENUS
 
 #### Status
 ACCEPTED

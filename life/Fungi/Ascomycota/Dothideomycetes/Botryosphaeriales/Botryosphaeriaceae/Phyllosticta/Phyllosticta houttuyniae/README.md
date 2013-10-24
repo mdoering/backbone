@@ -1,5 +1,4 @@
-Phyllosticta houttuyniae Sawada SPECIES
-=======
+# Phyllosticta houttuyniae Sawada SPECIES
 
 #### Status
 ACCEPTED

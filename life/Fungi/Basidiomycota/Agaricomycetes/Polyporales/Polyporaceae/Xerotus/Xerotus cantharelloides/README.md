@@ -1,5 +1,4 @@
-Xerotus cantharelloides Berk. SPECIES
-=======
+# Xerotus cantharelloides Berk. SPECIES
 
 #### Status
 ACCEPTED

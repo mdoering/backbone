@@ -1,5 +1,4 @@
-Rickia uncigeri Scheloske SPECIES
-=======
+# Rickia uncigeri Scheloske SPECIES
 
 #### Status
 ACCEPTED

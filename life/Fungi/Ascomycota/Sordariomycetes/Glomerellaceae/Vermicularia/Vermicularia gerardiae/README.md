@@ -1,5 +1,4 @@
-Vermicularia gerardiae Schwein. SPECIES
-=======
+# Vermicularia gerardiae Schwein. SPECIES
 
 #### Status
 ACCEPTED

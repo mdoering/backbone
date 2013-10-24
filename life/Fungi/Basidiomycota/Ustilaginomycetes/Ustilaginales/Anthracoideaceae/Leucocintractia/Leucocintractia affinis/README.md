@@ -1,14 +1,13 @@
-Cintractia affinis Peck, 1903 SPECIES
-=======
+# Leucocintractia affinis (Peck) M. Piepenbr., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. 67: 28 (1903)
+Nova Hedwigia 70(3-4): 312 (2000)
 
 #### Original name
 Cintractia affinis Peck, 1903

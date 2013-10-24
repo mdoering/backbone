@@ -1,14 +1,13 @@
-Hypocopra macrospora (Auersw.) Sacc., 1882 SPECIES
-=======
+# Sordaria macrospora Auersw., 1866 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 1: 241 (1882)
+Hedwigia 5(12): 192 (1866)
 
 #### Original name
 Sordaria macrospora Auersw., 1866

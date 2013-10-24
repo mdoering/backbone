@@ -1,5 +1,4 @@
-Scytinostroma intextum var. intextum VARIETY
-=======
+# Scytinostroma intextum Boidin, Lanq. & Gilles, 1987 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Boidin & Lanquetin, Biblthca Mycol. 114: 64 (1987)
+null
 
 #### Original name
-Scytinostroma intextum var. intextum
+null
 
 ### Remarks
 null

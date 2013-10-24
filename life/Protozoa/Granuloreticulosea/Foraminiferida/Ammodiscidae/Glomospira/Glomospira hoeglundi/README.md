@@ -1,5 +1,4 @@
-Glomospira hoeglundi Zheng & Fu, 2001 SPECIES
-=======
+# Glomospira hoeglundi Zheng & Fu, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium sophorae Allesch. SPECIES
-=======
+# Fusarium sophorae Allesch. SPECIES
 
 #### Status
 ACCEPTED

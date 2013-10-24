@@ -1,5 +1,4 @@
-Myriogenospora paspali G.F. Atk., 1894 SPECIES
-=======
+# Myriogenospora paspali G.F. Atk., 1894 SPECIES
 
 #### Status
 ACCEPTED

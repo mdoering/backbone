@@ -1,5 +1,4 @@
-Durandiella rugosa (Ellis & Everh.) J.W. Groves SPECIES
-=======
+# Durandiella rugosa (Ellis & Everh.) J.W. Groves SPECIES
 
 #### Status
 ACCEPTED

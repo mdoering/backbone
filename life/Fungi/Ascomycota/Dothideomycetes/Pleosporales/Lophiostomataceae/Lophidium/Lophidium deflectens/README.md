@@ -1,5 +1,4 @@
-Lophidium deflectens (P. Karst.) Sacc. SPECIES
-=======
+# Lophidium deflectens (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

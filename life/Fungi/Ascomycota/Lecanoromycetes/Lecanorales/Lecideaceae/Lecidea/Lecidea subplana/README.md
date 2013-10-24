@@ -1,5 +1,4 @@
-Lecidea subplana Nyl. SPECIES
-=======
+# Lecidea subplana Nyl. SPECIES
 
 #### Status
 ACCEPTED

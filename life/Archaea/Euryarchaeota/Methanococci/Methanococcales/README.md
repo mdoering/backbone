@@ -1,5 +1,4 @@
-Methanococcales ORDER
-=======
+# Methanococcales ORDER
 
 #### Status
 ACCEPTED

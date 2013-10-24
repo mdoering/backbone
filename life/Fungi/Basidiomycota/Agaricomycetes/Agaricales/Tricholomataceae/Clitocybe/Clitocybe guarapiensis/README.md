@@ -1,5 +1,4 @@
-Clitocybe guarapiensis Sacc. & P. Syd. SPECIES
-=======
+# Clitocybe guarapiensis Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

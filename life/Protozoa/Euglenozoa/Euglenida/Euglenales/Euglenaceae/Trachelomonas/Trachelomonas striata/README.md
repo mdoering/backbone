@@ -1,5 +1,4 @@
-Trachelomonas striata var. simplex Skvortsov VARIETY
-=======
+# Trachelomonas striata SPECIES
 
 #### Status
 ACCEPTED

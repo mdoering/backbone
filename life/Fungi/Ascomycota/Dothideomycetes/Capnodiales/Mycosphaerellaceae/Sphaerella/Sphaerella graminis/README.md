@@ -1,5 +1,4 @@
-Sphaerella graminis Sacc. SPECIES
-=======
+# Sphaerella graminis Sacc. SPECIES
 
 #### Status
 ACCEPTED

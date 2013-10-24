@@ -1,5 +1,4 @@
-Sphaeria koelreuteriae Durieu SPECIES
-=======
+# Sphaeria koelreuteriae Durieu SPECIES
 
 #### Status
 ACCEPTED

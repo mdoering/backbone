@@ -1,5 +1,4 @@
-Arthrobotrys shizishanna (X.F. Liu & K.Q. Zhang) J. Chen, L.L. Xu, B. Liu & Xing Z. Liu SPECIES
-=======
+# Arthrobotrys shizishanna (X.F. Liu & K.Q. Zhang) J. Chen, L.L. Xu, B. Liu & Xing Z. Liu SPECIES
 
 #### Status
 ACCEPTED

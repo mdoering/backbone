@@ -1,5 +1,4 @@
-Phyllosticta centifoliae Politis SPECIES
-=======
+# Phyllosticta centifoliae Politis SPECIES
 
 #### Status
 ACCEPTED

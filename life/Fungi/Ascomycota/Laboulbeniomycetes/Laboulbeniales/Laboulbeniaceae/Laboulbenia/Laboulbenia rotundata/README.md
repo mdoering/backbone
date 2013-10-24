@@ -1,5 +1,4 @@
-Laboulbenia rotundata Thaxt. SPECIES
-=======
+# Laboulbenia rotundata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora pallens (Kullh.) Zahlbr. SPECIES
-=======
+# Biatora pallens (Kullh.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

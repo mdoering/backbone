@@ -1,5 +1,4 @@
-Pseudozonosphaeridium populosum Andreeva, 1966 SPECIES
-=======
+# Pseudozonosphaeridium populosum Andreeva, 1966 SPECIES
 
 #### Status
 ACCEPTED

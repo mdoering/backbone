@@ -1,5 +1,4 @@
-Sphaerella vesicariae-arcticae Henn. SPECIES
-=======
+# Sphaerella vesicariae-arcticae Henn. SPECIES
 
 #### Status
 ACCEPTED

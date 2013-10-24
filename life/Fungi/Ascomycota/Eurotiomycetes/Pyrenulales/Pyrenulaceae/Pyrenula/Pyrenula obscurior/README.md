@@ -1,5 +1,4 @@
-Pyrenula obscurior Vain. SPECIES
-=======
+# Pyrenula obscurior Vain. SPECIES
 
 #### Status
 ACCEPTED

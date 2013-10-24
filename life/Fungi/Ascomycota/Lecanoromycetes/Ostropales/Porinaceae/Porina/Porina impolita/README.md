@@ -1,5 +1,4 @@
-Porina impolita P. M. McCarthy SPECIES
-=======
+# Porina impolita P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

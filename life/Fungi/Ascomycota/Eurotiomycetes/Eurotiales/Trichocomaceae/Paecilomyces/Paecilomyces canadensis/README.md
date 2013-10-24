@@ -1,14 +1,13 @@
-Spicaria canadensis Vuill., 1925 SPECIES
-=======
+# Paecilomyces canadensis (Vuill.) A.H.S. Br. & G. Sm., 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Canadian Entomologist 57: 97 (1925)
+Trans. Br. mycol. Soc. 40: 74 (1957)
 
 #### Original name
 Spicaria canadensis Vuill., 1925

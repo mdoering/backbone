@@ -1,5 +1,4 @@
-Gelasinospora angusta Jeng & J.C. Krug SPECIES
-=======
+# Gelasinospora angusta Jeng & J.C. Krug SPECIES
 
 #### Status
 ACCEPTED

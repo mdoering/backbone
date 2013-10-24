@@ -1,5 +1,4 @@
-Bovistella longipedicellata Teng SPECIES
-=======
+# Bovistella longipedicellata Teng SPECIES
 
 #### Status
 ACCEPTED

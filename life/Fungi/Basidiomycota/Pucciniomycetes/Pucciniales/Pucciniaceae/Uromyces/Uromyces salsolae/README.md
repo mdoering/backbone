@@ -1,5 +1,4 @@
-Uromyces salsolae Rabenh. SPECIES
-=======
+# Uromyces salsolae Rabenh. SPECIES
 
 #### Status
 ACCEPTED

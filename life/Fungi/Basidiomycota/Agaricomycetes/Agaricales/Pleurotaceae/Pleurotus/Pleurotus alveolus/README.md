@@ -1,5 +1,4 @@
-Pleurotus alveolus Velen. SPECIES
-=======
+# Pleurotus alveolus Velen. SPECIES
 
 #### Status
 ACCEPTED

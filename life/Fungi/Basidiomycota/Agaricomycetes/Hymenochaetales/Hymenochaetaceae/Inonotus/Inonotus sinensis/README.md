@@ -1,5 +1,4 @@
-Inonotus sinensis (Lloyd) Teng SPECIES
-=======
+# Inonotus sinensis (Lloyd) Teng SPECIES
 
 #### Status
 ACCEPTED

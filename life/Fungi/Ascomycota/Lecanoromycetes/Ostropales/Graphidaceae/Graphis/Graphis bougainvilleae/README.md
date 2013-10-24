@@ -1,5 +1,4 @@
-Graphis bougainvilleae Zahlbr. SPECIES
-=======
+# Graphis bougainvilleae Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cornicularia Bonorden, 1851 GENUS
-=======
+# Clavulinopsis Overeem, 1923 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Handb. Allgem. mykol. (Stuttgart) 166 (1851)
+Bull. Jard. Bot. Buitenz, 3 Sér. 5: 278 (1923)
 
 #### Original name
-Cornicularia Bonorden, 1851
+Clavulinopsis Overeem, 1923
 
 ### Remarks
 null

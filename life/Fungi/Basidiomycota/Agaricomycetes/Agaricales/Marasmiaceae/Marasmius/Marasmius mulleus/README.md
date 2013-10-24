@@ -1,5 +1,4 @@
-Marasmius mulleus Fr. SPECIES
-=======
+# Marasmius mulleus Fr. SPECIES
 
 #### Status
 ACCEPTED

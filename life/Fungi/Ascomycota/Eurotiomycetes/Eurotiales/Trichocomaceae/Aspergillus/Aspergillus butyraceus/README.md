@@ -1,5 +1,4 @@
-Aspergillus butyraceus (Bainier) Thom & Raper SPECIES
-=======
+# Aspergillus butyraceus (Bainier) Thom & Raper SPECIES
 
 #### Status
 ACCEPTED

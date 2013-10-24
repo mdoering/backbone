@@ -1,5 +1,4 @@
-Brigantiaea lordhowensis Elix SPECIES
-=======
+# Brigantiaea lordhowensis Elix SPECIES
 
 #### Status
 ACCEPTED

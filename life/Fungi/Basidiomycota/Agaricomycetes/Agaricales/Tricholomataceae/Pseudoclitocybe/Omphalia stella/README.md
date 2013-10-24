@@ -1,5 +1,4 @@
-Omphalia stella E. Bommer & M. Rousseau SPECIES
-=======
+# Omphalia stella E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

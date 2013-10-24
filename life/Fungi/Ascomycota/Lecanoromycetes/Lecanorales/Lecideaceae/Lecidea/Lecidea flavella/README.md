@@ -1,5 +1,4 @@
-Lecidea flavella Nyl. SPECIES
-=======
+# Lecidea flavella Nyl. SPECIES
 
 #### Status
 ACCEPTED

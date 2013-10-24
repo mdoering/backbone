@@ -1,5 +1,4 @@
-Rhytisma australe Durieu & Mont. SPECIES
-=======
+# Rhytisma australe Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

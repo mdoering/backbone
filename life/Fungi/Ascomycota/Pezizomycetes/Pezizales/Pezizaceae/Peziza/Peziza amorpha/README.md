@@ -1,17 +1,16 @@
-Peziza amorpha var. amorpha VARIETY
-=======
+# Peziza amorpha SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Syn. meth. fung. (Göttingen) 2: 657 (1801)
+null
 
 #### Original name
-Peziza amorpha var. amorpha
+null
 
 ### Remarks
 null

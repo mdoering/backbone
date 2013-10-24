@@ -1,5 +1,4 @@
-Caloplaca brebissonii (Fée) J. Sant. ex Hafellner & Poelt SPECIES
-=======
+# Caloplaca brebissonii (Fée) J. Sant. ex Hafellner & Poelt SPECIES
 
 #### Status
 ACCEPTED

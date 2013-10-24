@@ -1,5 +1,4 @@
-Nezzazatinella Darmoian, 1976 GENUS
-=======
+# Nezzazatinella Darmoian, 1976 GENUS
 
 #### Status
 ACCEPTED

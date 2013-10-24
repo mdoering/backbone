@@ -1,5 +1,4 @@
-Boletinellaceae Manfr. Binder & Bresinsky FAMILY
-=======
+# Boletinellaceae Manfr. Binder & Bresinsky FAMILY
 
 #### Status
 ACCEPTED

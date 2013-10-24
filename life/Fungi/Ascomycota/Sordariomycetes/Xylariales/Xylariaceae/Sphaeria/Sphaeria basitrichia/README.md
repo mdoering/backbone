@@ -1,5 +1,4 @@
-Sphaeria basitrichia Wallr. SPECIES
-=======
+# Sphaeria basitrichia Wallr. SPECIES
 
 #### Status
 ACCEPTED

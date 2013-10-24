@@ -1,5 +1,4 @@
-Cortinarius cliduchus Secr. ex Fr. SPECIES
-=======
+# Cortinarius cliduchus Secr. ex Fr. SPECIES
 
 #### Status
 ACCEPTED

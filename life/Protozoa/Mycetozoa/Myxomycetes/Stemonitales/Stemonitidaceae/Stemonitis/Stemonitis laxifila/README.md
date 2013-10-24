@@ -1,5 +1,4 @@
-Stemonitis laxifila Nann.-Bremek. & Y. Yamam., 1988 SPECIES
-=======
+# Stemonitis laxifila Nann.-Bremek. & Y. Yamam., 1988 SPECIES
 
 #### Status
 ACCEPTED

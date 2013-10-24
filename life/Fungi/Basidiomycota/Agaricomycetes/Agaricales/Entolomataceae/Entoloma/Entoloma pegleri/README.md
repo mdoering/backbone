@@ -1,17 +1,16 @@
-Entoloma peglerii Courtec. SPECIES
-=======
+# Entoloma pegleri Courtec. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Docums Mycol. 14(nos 54-55): 86 (1984)
 
 #### Original name
-Entoloma peglerii Courtec.
+Entoloma murinum Pegler
 
 ### Remarks
 null

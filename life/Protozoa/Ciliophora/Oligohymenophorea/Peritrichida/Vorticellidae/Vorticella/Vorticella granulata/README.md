@@ -1,5 +1,4 @@
-Vorticella granulata Kahl, 1933 SPECIES
-=======
+# Vorticella granulata Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

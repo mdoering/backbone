@@ -1,5 +1,4 @@
-Alternaria brassicinae E.G. Simmons SPECIES
-=======
+# Alternaria brassicinae E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

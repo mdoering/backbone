@@ -1,5 +1,4 @@
-Claviceps litoralis Kawat. {?} SPECIES
-=======
+# Claviceps litoralis Kawat. {?} SPECIES
 
 #### Status
 ACCEPTED

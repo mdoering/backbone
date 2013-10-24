@@ -1,5 +1,4 @@
-Collemodium albociliatum (Desm.) Nyl. SPECIES
-=======
+# Collemodium albociliatum (Desm.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

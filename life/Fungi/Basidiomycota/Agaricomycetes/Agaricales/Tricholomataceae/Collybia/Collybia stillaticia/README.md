@@ -1,5 +1,4 @@
-Collybia stillaticia Berk. SPECIES
-=======
+# Collybia stillaticia Berk. SPECIES
 
 #### Status
 ACCEPTED

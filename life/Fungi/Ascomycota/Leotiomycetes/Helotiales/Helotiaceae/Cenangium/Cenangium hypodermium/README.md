@@ -1,5 +1,4 @@
-Cenangium hypodermium DC. SPECIES
-=======
+# Cenangium hypodermium DC. SPECIES
 
 #### Status
 ACCEPTED

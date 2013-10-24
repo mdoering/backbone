@@ -1,5 +1,4 @@
-Cystolepiota oregonensis (H.V. Sm.) Vellinga SPECIES
-=======
+# Cystolepiota oregonensis (H.V. Sm.) Vellinga SPECIES
 
 #### Status
 ACCEPTED

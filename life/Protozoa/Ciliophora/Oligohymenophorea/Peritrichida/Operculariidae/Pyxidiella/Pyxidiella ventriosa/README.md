@@ -1,5 +1,4 @@
-Pyxidiella ventriosa SPECIES
-=======
+# Pyxidiella ventriosa SPECIES
 
 #### Status
 ACCEPTED

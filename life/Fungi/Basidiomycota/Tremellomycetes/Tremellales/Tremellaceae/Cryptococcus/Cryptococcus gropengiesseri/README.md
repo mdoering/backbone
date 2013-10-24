@@ -1,14 +1,13 @@
-Cryptococcus gropengiersseri (F.C. Harrison) C.E. Skinner SPECIES
-=======
+# Cryptococcus gropengiesseri (F.C. Harrison) C.E. Skinner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Am. Midl. Nat. 43: 248 (1950)
 
 #### Original name
 Torula gropengiesseri F.C. Harrison, 1928

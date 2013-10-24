@@ -1,8 +1,7 @@
-Heppia richardsi Herre SPECIES
-=======
+# Heppia richardsii Herre SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Heppia richardsi Herre
+Heppia richardsii Herre
 
 ### Remarks
 null

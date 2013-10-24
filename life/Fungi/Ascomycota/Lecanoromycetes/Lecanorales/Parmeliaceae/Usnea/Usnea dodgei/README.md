@@ -1,5 +1,4 @@
-Usnea dodgei Motyka SPECIES
-=======
+# Usnea dodgei Motyka SPECIES
 
 #### Status
 ACCEPTED

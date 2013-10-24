@@ -1,5 +1,4 @@
-Gymnopus nubicola Halling SPECIES
-=======
+# Gymnopus nubicola Halling SPECIES
 
 #### Status
 ACCEPTED

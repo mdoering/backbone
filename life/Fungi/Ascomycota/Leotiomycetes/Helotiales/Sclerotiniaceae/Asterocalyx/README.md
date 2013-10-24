@@ -1,5 +1,4 @@
-Asterocalyx von Höhnel, 1912 GENUS
-=======
+# Asterocalyx von Höhnel, 1912 GENUS
 
 #### Status
 ACCEPTED

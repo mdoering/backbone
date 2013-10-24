@@ -1,17 +1,16 @@
-Capnodium cryptolepiae M.S. Patil SPECIES
-=======
+# Capnodium cryptolepidis M.S. Patil SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 32(4): 576 (1980)
 
 #### Original name
-Capnodium cryptolepiae M.S. Patil
+Capnodium cryptolepidis M.S. Patil
 
 ### Remarks
 null

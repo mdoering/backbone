@@ -1,5 +1,4 @@
-Bovista queletii (Schulzer) De Toni SPECIES
-=======
+# Bovista queletii (Schulzer) De Toni SPECIES
 
 #### Status
 ACCEPTED

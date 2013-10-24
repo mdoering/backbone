@@ -1,5 +1,4 @@
-Tricholoma aeruginascens Corner SPECIES
-=======
+# Tricholoma aeruginascens Corner SPECIES
 
 #### Status
 ACCEPTED

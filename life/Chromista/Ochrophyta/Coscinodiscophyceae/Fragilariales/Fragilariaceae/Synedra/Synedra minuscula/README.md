@@ -1,5 +1,4 @@
-Synedra minuscula Grunow SPECIES
-=======
+# Synedra minuscula Grunow SPECIES
 
 #### Status
 ACCEPTED

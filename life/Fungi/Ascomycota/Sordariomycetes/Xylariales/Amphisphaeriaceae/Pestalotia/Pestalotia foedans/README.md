@@ -1,5 +1,4 @@
-Pestalotia foedans Sacc. & Ellis SPECIES
-=======
+# Pestalotia foedans Sacc. & Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezizella lyonsiae (Cobb) Sacc. SPECIES
-=======
+# Pezizella lyonsiae (Cobb) Sacc. SPECIES
 
 #### Status
 ACCEPTED

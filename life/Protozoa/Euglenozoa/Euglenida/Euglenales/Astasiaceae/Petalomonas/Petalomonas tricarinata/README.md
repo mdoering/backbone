@@ -1,5 +1,4 @@
-Petalomonas tricarinata Skuja SPECIES
-=======
+# Petalomonas tricarinata Skuja SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina subgigantospora Makhija, Adaw. & Patw. SPECIES
-=======
+# Porina subgigantospora Makhija, Adaw. & Patw. SPECIES
 
 #### Status
 ACCEPTED

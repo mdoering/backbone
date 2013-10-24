@@ -1,5 +1,4 @@
-Aspicilia dedalaea (Schaer.) Motyka SPECIES
-=======
+# Aspicilia dedalaea (Schaer.) Motyka SPECIES
 
 #### Status
 ACCEPTED

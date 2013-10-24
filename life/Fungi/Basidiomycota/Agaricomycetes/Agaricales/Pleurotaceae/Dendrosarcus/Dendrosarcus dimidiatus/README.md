@@ -1,5 +1,4 @@
-Dendrosarcus dimidiatus (Schaeff.) Kuntze SPECIES
-=======
+# Dendrosarcus dimidiatus (Schaeff.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepista aeruginosa (H.E. Bigelow) Harmaja SPECIES
-=======
+# Lepista aeruginosa (H.E. Bigelow) Harmaja SPECIES
 
 #### Status
 ACCEPTED

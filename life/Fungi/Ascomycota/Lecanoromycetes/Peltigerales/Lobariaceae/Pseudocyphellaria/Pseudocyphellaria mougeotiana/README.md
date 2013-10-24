@@ -1,5 +1,4 @@
-Pseudocyphellaria mougeotiana (Delise) Vain. SPECIES
-=======
+# Pseudocyphellaria mougeotiana (Delise) Vain. SPECIES
 
 #### Status
 ACCEPTED

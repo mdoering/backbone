@@ -1,5 +1,4 @@
-Pirsonia verrucosa Kühn, 1996 SPECIES
-=======
+# Pirsonia verrucosa Kühn, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium dianellae Sawada SPECIES
-=======
+# Helminthosporium dianellae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elatomma penicillus Haeckel, 1887 SPECIES
-=======
+# Elatomma penicillus Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

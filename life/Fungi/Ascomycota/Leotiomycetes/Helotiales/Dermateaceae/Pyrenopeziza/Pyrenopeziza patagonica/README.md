@@ -1,5 +1,4 @@
-Pyrenopeziza patagonica Speg. SPECIES
-=======
+# Pyrenopeziza patagonica Speg. SPECIES
 
 #### Status
 ACCEPTED

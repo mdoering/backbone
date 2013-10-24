@@ -1,8 +1,7 @@
-Parmelia massalongoana Gyeln. SPECIES
-=======
+# Parmelia massalongiana Gyeln. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia massalongoana Gyeln.
+Parmelia massalongiana Gyeln.
 
 ### Remarks
 null

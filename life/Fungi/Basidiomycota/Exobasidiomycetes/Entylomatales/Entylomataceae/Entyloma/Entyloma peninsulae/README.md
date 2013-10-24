@@ -1,5 +1,4 @@
-Entyloma peninsulae Crowell SPECIES
-=======
+# Entyloma peninsulae Crowell SPECIES
 
 #### Status
 ACCEPTED

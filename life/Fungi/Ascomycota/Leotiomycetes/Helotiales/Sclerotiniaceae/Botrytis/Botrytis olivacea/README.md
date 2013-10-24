@@ -1,5 +1,4 @@
-Botrytis olivacea Ellis & Everh. SPECIES
-=======
+# Botrytis olivacea Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

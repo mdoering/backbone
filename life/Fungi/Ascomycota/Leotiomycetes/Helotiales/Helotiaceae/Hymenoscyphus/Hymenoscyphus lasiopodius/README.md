@@ -1,5 +1,4 @@
-Hymenoscyphus lasiopodius (Pat.) Dennis SPECIES
-=======
+# Hymenoscyphus lasiopodius (Pat.) Dennis SPECIES
 
 #### Status
 ACCEPTED

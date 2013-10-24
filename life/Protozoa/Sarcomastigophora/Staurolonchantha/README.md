@@ -1,5 +1,4 @@
-Staurolonchantha Haeckel, 1887 GENUS
-=======
+# Staurolonchantha Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

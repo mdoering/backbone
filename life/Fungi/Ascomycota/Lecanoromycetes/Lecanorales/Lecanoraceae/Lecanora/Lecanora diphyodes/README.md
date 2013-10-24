@@ -1,5 +1,4 @@
-Lecanora diphyodes Nyl. SPECIES
-=======
+# Lecanora diphyodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

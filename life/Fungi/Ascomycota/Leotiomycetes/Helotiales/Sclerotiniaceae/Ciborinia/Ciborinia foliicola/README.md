@@ -1,14 +1,13 @@
-Sclerotinia foliicola E.K. Cash & R.W. Davidson, 1933 SPECIES
-=======
+# Ciborinia foliicola (E.K. Cash & R.W. Davidson) Whetzel, 1945 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 25: 269 (1933)
+Mycologia 37(6): 668 (1945)
 
 #### Original name
 Sclerotinia foliicola E.K. Cash & R.W. Davidson, 1933

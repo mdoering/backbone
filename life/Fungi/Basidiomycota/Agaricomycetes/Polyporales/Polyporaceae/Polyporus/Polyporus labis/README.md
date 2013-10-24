@@ -1,5 +1,4 @@
-Polyporus labis Lloyd SPECIES
-=======
+# Polyporus labis Lloyd SPECIES
 
 #### Status
 ACCEPTED

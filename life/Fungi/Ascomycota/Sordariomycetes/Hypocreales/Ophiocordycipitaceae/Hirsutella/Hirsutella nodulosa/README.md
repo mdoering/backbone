@@ -1,5 +1,4 @@
-Hirsutella nodulosa Petch, 1926 SPECIES
-=======
+# Hirsutella nodulosa Petch, 1926 SPECIES
 
 #### Status
 ACCEPTED

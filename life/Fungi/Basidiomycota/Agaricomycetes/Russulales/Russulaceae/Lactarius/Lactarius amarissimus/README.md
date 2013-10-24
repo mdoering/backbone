@@ -1,17 +1,16 @@
-Lactaria amarissima Murrill SPECIES
-=======
+# Lactarius amarissimus Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 6: 207 (1943)
 
 #### Original name
-Lactaria amarissima Murrill
+Lactarius amarissimus Murrill
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Alternaria polypodii T.G. Major SPECIES
-=======
+# Alternaria polypodii T.G. Major SPECIES
 
 #### Status
 ACCEPTED

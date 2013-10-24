@@ -1,5 +1,4 @@
-Entomorphinoides intricatus McCulloch, 1977 SPECIES
-=======
+# Entomorphinoides intricatus McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

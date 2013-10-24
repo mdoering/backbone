@@ -1,5 +1,4 @@
-Lentinus spegazzinii Bres. SPECIES
-=======
+# Lentinus spegazzinii Bres. SPECIES
 
 #### Status
 ACCEPTED

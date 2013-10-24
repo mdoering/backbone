@@ -1,5 +1,4 @@
-Chaenothecopsis nigripunctata Rikkinen SPECIES
-=======
+# Chaenothecopsis nigripunctata Rikkinen SPECIES
 
 #### Status
 ACCEPTED

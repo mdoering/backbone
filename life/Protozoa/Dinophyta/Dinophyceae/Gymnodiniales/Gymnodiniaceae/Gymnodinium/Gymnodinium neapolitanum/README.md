@@ -1,5 +1,4 @@
-Gymnodinium neapolitanum Schiller SPECIES
-=======
+# Gymnodinium neapolitanum Schiller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascosalsum J. Campb., J.L. Anderson & Shearer GENUS
-=======
+# Ascosalsum J. Campb., J.L. Anderson & Shearer GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteromella acanthopanacis (Syd. & P. Syd.) Aa SPECIES
-=======
+# Asteromella acanthopanacis (Syd. & P. Syd.) Aa SPECIES
 
 #### Status
 ACCEPTED

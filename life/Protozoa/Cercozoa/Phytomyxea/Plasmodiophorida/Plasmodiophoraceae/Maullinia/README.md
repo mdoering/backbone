@@ -1,5 +1,4 @@
-Maullinia I. Maier, E.R. Parodi, R. Westermeier & D.G. Müll. GENUS
-=======
+# Maullinia I. Maier, E.R. Parodi, R. Westermeier & D.G. Müll. GENUS
 
 #### Status
 ACCEPTED

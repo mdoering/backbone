@@ -1,5 +1,4 @@
-Clasterosporites eocenicus (Fritel & R. Vig.) Pia SPECIES
-=======
+# Clasterosporites eocenicus (Fritel & R. Vig.) Pia SPECIES
 
 #### Status
 ACCEPTED

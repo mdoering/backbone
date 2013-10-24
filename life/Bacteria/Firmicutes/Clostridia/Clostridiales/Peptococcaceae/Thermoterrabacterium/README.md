@@ -1,5 +1,4 @@
-Thermoterrabacterium Slobodkin et al., 1997 GENUS
-=======
+# Thermoterrabacterium Slobodkin et al., 1997 GENUS
 
 #### Status
 ACCEPTED

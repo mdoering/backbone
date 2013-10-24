@@ -1,5 +1,4 @@
-Tuscaretta Haeckel, 1887 GENUS
-=======
+# Tuscaretta Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

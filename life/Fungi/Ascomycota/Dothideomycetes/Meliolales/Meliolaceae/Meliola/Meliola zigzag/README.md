@@ -1,5 +1,4 @@
-Meliola zigzag Berk. & M.A. Curtis SPECIES
-=======
+# Meliola zigzag Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

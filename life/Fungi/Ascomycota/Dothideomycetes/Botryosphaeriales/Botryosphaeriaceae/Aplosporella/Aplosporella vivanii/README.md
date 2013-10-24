@@ -1,5 +1,4 @@
-Aplosporella vivanii Goid., 1937 SPECIES
-=======
+# Aplosporella vivanii Goid., 1937 SPECIES
 
 #### Status
 ACCEPTED

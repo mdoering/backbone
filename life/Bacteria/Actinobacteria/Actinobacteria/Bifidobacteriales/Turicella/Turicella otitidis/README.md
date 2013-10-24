@@ -1,5 +1,4 @@
-Turicella otitidis Funke et al., 1994 SPECIES
-=======
+# Turicella otitidis Funke et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

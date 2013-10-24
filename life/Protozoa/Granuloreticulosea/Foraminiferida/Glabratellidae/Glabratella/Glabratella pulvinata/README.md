@@ -1,5 +1,4 @@
-Glabratella pulvinata SPECIES
-=======
+# Glabratella pulvinata SPECIES
 
 #### Status
 ACCEPTED

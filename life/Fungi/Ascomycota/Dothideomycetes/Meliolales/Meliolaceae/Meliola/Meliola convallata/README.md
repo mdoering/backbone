@@ -1,5 +1,4 @@
-Meliola convallata Petr. SPECIES
-=======
+# Meliola convallata Petr. SPECIES
 
 #### Status
 ACCEPTED

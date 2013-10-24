@@ -1,5 +1,4 @@
-Tuber solidum With. SPECIES
-=======
+# Tuber solidum With. SPECIES
 
 #### Status
 ACCEPTED

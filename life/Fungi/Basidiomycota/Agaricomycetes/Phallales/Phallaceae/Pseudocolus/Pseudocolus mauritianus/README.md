@@ -1,5 +1,4 @@
-Pseudocolus mauritianus Lloyd SPECIES
-=======
+# Pseudocolus mauritianus Lloyd SPECIES
 
 #### Status
 ACCEPTED

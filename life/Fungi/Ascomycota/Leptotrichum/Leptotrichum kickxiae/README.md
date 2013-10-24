@@ -1,5 +1,4 @@
-Leptotrichum kickxiae Henn. SPECIES
-=======
+# Leptotrichum kickxiae Henn. SPECIES
 
 #### Status
 ACCEPTED

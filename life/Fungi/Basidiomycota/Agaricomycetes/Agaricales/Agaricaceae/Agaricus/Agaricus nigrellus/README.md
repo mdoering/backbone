@@ -1,5 +1,4 @@
-Agaricus nigrellus Pers. SPECIES
-=======
+# Agaricus nigrellus Pers. SPECIES
 
 #### Status
 ACCEPTED

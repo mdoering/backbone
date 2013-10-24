@@ -1,5 +1,4 @@
-Bloxamia nilagirica (Subram.) Nag Raj & W.B. Kendr. SPECIES
-=======
+# Bloxamia nilagirica (Subram.) Nag Raj & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

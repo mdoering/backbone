@@ -1,5 +1,4 @@
-Macowanites durangensis Guzmán SPECIES
-=======
+# Macowanites durangensis Guzmán SPECIES
 
 #### Status
 ACCEPTED

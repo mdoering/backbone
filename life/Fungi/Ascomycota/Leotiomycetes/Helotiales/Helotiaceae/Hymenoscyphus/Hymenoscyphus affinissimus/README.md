@@ -1,5 +1,4 @@
-Hymenoscyphus affinissimus (Peck) Kuntze SPECIES
-=======
+# Hymenoscyphus affinissimus (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

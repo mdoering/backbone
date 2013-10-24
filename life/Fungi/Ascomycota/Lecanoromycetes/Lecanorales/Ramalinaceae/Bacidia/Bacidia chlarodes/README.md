@@ -1,5 +1,4 @@
-Bacidia chlarodes (Vain.) Zahlbr. SPECIES
-=======
+# Bacidia chlarodes (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Rinodina murrayii H. Mayrhofer SPECIES
-=======
+# Rinodina murrayi H. Mayrhofer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lichenologist 15(3): 273 (1983)
 
 #### Original name
-Rinodina murrayii H. Mayrhofer
+Rinodina murrayi H. Mayrhofer
 
 ### Remarks
 null

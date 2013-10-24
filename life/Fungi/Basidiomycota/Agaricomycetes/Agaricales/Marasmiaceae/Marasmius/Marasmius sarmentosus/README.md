@@ -1,5 +1,4 @@
-Marasmius sarmentosus Berk. SPECIES
-=======
+# Marasmius sarmentosus Berk. SPECIES
 
 #### Status
 ACCEPTED

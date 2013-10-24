@@ -1,5 +1,4 @@
-Eccilia glaucobrunnea Berk. & M.A. Curtis SPECIES
-=======
+# Eccilia glaucobrunnea Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

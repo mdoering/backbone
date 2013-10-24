@@ -1,5 +1,4 @@
-Tetradinium javanicum Klebs SPECIES
-=======
+# Tetradinium javanicum Klebs SPECIES
 
 #### Status
 ACCEPTED

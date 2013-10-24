@@ -1,5 +1,4 @@
-Xerotus mauryi Pat. SPECIES
-=======
+# Xerotus mauryi Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plicaria minutispora Velen. SPECIES
-=======
+# Plicaria minutispora Velen. SPECIES
 
 #### Status
 ACCEPTED

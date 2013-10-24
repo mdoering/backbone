@@ -1,5 +1,4 @@
-Gyrophora polaris SPECIES
-=======
+# Gyrophora polaris SPECIES
 
 #### Status
 ACCEPTED

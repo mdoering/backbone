@@ -1,5 +1,4 @@
-Cystostereum Pouzar GENUS
-=======
+# Cystostereum Pouzar GENUS
 
 #### Status
 ACCEPTED

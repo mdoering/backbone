@@ -1,5 +1,4 @@
-Graphis abstracta Kremp. SPECIES
-=======
+# Graphis abstracta Kremp. SPECIES
 
 #### Status
 ACCEPTED

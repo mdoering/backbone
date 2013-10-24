@@ -1,5 +1,4 @@
-Puccinia stonemaniae Syd. & P. Syd. SPECIES
-=======
+# Puccinia stonemaniae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia urceolata (Elenkin) Clauzade, Diederich & Cl. Roux SPECIES
-=======
+# Arthonia urceolata (Elenkin) Clauzade, Diederich & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

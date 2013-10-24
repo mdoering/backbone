@@ -1,5 +1,4 @@
-Elsinoë mayaguensis Bitanc. & Jenkins SPECIES
-=======
+# Elsinoë mayaguensis Bitanc. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

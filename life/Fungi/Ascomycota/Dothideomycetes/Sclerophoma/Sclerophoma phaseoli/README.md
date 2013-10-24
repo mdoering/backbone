@@ -1,5 +1,4 @@
-Sclerophoma phaseoli Karak. SPECIES
-=======
+# Sclerophoma phaseoli Karak. SPECIES
 
 #### Status
 ACCEPTED

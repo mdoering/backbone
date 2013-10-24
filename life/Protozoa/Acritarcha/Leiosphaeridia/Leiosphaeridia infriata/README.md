@@ -1,5 +1,4 @@
-Leiosphaeridia infriata (Andreeva, 1966) Paskeviciene, 1980 SPECIES
-=======
+# Leiosphaeridia infriata (Andreeva, 1966) Paskeviciene, 1980 SPECIES
 
 #### Status
 ACCEPTED

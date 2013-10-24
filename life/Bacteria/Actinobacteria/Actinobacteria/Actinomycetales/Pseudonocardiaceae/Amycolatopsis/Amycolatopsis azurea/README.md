@@ -1,8 +1,7 @@
-Pseudonocardia azurea Omura et al., 1983 SPECIES
-=======
+# Amycolatopsis azurea (Omura et al., 1983) Henssen et al., 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Claudopus camerunensis Henn. SPECIES
-=======
+# Claudopus camerunensis Henn. SPECIES
 
 #### Status
 ACCEPTED

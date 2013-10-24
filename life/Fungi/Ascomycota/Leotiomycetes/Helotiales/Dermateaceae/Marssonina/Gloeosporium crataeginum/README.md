@@ -1,5 +1,4 @@
-Gloeosporium crataeginum Sacc. SPECIES
-=======
+# Gloeosporium crataeginum Sacc. SPECIES
 
 #### Status
 ACCEPTED

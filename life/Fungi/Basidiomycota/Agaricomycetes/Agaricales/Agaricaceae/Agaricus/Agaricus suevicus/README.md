@@ -1,5 +1,4 @@
-Agaricus suevicus Britzelm. SPECIES
-=======
+# Agaricus suevicus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

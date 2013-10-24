@@ -1,5 +1,4 @@
-Detonisia Gonz. Frag. GENUS
-=======
+# Detonisia Gonz. Frag. GENUS
 
 #### Status
 ACCEPTED

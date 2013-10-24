@@ -1,5 +1,4 @@
-Physoderma lycopi Sparrow SPECIES
-=======
+# Physoderma lycopi Sparrow SPECIES
 
 #### Status
 ACCEPTED

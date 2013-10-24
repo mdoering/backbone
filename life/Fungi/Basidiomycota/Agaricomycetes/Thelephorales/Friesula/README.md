@@ -1,5 +1,4 @@
-Friesula Speg. GENUS
-=======
+# Friesula Speg. GENUS
 
 #### Status
 ACCEPTED

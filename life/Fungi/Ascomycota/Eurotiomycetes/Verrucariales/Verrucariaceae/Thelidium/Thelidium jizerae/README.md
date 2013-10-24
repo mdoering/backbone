@@ -1,5 +1,4 @@
-Thelidium jizerae (Servít) Riedl SPECIES
-=======
+# Thelidium jizerae (Servít) Riedl SPECIES
 
 #### Status
 ACCEPTED

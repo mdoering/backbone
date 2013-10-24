@@ -1,5 +1,4 @@
-Agrocybe rivulosa Nauta, 2003 SPECIES
-=======
+# Agrocybe rivulosa Nauta, 2003 SPECIES
 
 #### Status
 ACCEPTED

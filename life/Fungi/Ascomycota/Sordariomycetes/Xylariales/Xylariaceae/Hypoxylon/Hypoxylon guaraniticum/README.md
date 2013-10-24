@@ -1,5 +1,4 @@
-Hypoxylon guaraniticum Speg. SPECIES
-=======
+# Hypoxylon guaraniticum Speg. SPECIES
 
 #### Status
 ACCEPTED

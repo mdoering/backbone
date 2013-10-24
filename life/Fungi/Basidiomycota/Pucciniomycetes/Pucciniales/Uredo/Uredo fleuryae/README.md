@@ -1,5 +1,4 @@
-Uredo fleuryae Cummins SPECIES
-=======
+# Uredo fleuryae Cummins SPECIES
 
 #### Status
 ACCEPTED

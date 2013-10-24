@@ -1,5 +1,4 @@
-Oscillatoria waterbergensis Claasen SPECIES
-=======
+# Oscillatoria waterbergensis Claasen SPECIES
 
 #### Status
 ACCEPTED

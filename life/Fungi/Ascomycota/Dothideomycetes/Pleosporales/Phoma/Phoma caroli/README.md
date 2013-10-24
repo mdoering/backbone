@@ -1,5 +1,4 @@
-Phoma caroli Sacc. SPECIES
-=======
+# Phoma caroli Sacc. SPECIES
 
 #### Status
 ACCEPTED

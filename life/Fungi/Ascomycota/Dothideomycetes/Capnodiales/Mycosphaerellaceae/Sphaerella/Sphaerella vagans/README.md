@@ -1,5 +1,4 @@
-Sphaerella vagans Ellis & Everh. SPECIES
-=======
+# Sphaerella vagans Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteromella clethrae (P. Syd.) Aa SPECIES
-=======
+# Asteromella clethrae (P. Syd.) Aa SPECIES
 
 #### Status
 ACCEPTED

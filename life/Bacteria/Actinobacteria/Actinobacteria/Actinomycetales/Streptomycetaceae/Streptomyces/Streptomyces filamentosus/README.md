@@ -1,5 +1,4 @@
-Streptomyces filamentosus Okami and Umezawa, 1953 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces filamentosus Okami and Umezawa, 1953 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

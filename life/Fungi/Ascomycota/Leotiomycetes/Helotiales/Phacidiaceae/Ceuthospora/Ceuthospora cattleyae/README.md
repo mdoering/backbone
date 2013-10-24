@@ -1,5 +1,4 @@
-Ceuthospora cattleyae Sacc. & P. Syd. SPECIES
-=======
+# Ceuthospora cattleyae Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

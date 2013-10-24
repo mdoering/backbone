@@ -1,5 +1,4 @@
-Thelotrema annulatum Müll. Arg. SPECIES
-=======
+# Thelotrema annulatum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

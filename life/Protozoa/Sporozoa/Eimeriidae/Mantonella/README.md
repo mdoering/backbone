@@ -1,5 +1,4 @@
-Mantonella Vincent, 1936 GENUS
-=======
+# Mantonella Vincent, 1936 GENUS
 
 #### Status
 ACCEPTED

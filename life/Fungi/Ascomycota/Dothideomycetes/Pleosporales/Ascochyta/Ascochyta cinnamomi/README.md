@@ -1,5 +1,4 @@
-Ascochyta cinnamomi S.Q. Chen & P.K. Chi SPECIES
-=======
+# Ascochyta cinnamomi S.Q. Chen & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium tremellina Sacc. SPECIES
-=======
+# Gloeosporium tremellina Sacc. SPECIES
 
 #### Status
 ACCEPTED

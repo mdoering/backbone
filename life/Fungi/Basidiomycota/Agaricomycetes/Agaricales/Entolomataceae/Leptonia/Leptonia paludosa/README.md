@@ -1,5 +1,4 @@
-Leptonia paludosa Murrill SPECIES
-=======
+# Leptonia paludosa Murrill SPECIES
 
 #### Status
 ACCEPTED

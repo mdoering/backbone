@@ -1,5 +1,4 @@
-Calothrix membranacea Schmidle SPECIES
-=======
+# Calothrix membranacea Schmidle SPECIES
 
 #### Status
 ACCEPTED

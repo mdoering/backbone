@@ -1,5 +1,4 @@
-Marasmius juglandis Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius juglandis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

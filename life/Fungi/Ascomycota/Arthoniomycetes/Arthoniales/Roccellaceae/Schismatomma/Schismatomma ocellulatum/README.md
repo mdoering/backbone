@@ -1,5 +1,4 @@
-Schismatomma ocellulatum (Vain.) Tehler SPECIES
-=======
+# Schismatomma ocellulatum (Vain.) Tehler SPECIES
 
 #### Status
 ACCEPTED

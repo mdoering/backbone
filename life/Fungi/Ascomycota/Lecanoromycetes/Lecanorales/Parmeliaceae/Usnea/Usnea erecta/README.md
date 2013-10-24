@@ -1,5 +1,4 @@
-Usnea erecta (Stein) Motyka SPECIES
-=======
+# Usnea erecta (Stein) Motyka SPECIES
 
 #### Status
 ACCEPTED

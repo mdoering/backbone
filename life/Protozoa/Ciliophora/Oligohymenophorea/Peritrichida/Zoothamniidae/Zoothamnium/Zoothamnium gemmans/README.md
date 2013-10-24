@@ -1,5 +1,4 @@
-Zoothamnium gemmans Dumas, 1930 SPECIES
-=======
+# Zoothamnium gemmans Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

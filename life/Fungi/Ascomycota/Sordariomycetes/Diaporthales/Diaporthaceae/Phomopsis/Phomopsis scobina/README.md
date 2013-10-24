@@ -1,5 +1,4 @@
-Phomopsis scobina Höhn. SPECIES
-=======
+# Phomopsis scobina Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula attenuata Carteret & Reumaux SPECIES
-=======
+# Russula attenuata Carteret & Reumaux SPECIES
 
 #### Status
 ACCEPTED

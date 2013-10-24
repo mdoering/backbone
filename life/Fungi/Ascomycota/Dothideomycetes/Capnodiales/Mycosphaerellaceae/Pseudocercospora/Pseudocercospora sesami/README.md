@@ -1,5 +1,4 @@
-Pseudocercospora sesami (Hansf.) Deighton SPECIES
-=======
+# Pseudocercospora sesami (Hansf.) Deighton SPECIES
 
 #### Status
 ACCEPTED

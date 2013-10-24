@@ -1,5 +1,4 @@
-Trichophyton avium (Neveu-Lem.) Nann. SPECIES
-=======
+# Trichophyton avium (Neveu-Lem.) Nann. SPECIES
 
 #### Status
 ACCEPTED

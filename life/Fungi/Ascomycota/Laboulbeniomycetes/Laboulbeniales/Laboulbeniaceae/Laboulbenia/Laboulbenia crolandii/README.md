@@ -1,17 +1,16 @@
-Laboulbenia crolandi Balazuc SPECIES
-=======
+# Laboulbenia crolandii Balazuc SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta Mycologica, Warszawa 11(1): 51 (1975)
 
 #### Original name
-Laboulbenia crolandi Balazuc
+Laboulbenia crolandii Balazuc
 
 ### Remarks
 null

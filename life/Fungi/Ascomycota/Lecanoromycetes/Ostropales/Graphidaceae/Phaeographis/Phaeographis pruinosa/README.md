@@ -1,5 +1,4 @@
-Phaeographis pruinosa M. Nakan. SPECIES
-=======
+# Phaeographis pruinosa M. Nakan. SPECIES
 
 #### Status
 ACCEPTED

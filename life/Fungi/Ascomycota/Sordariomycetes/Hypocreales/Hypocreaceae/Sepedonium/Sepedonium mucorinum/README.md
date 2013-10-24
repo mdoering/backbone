@@ -1,5 +1,4 @@
-Sepedonium mucorinum var. mucorinum VARIETY
-=======
+# Sepedonium mucorinum Harz SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sepedonium mucorinum var. mucorinum
+Sepedonium mucorinum Harz
 
 ### Remarks
 null

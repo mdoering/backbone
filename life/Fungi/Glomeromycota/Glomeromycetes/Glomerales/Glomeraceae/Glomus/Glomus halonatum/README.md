@@ -1,17 +1,16 @@
-Glomus halonatus S.L. Rose & Trappe SPECIES
-=======
+# Glomus halonatum S.L. Rose & Trappe SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 10(2): 413 (1980)
 
 #### Original name
-Glomus halonatus S.L. Rose & Trappe
+Glomus halonatum S.L. Rose & Trappe
 
 ### Remarks
 null

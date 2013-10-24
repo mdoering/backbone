@@ -1,5 +1,4 @@
-Hymenochaete weldenii G.A. Escobar SPECIES
-=======
+# Hymenochaete weldenii G.A. Escobar SPECIES
 
 #### Status
 ACCEPTED

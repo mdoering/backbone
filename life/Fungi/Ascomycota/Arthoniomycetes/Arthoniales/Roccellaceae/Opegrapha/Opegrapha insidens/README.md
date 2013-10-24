@@ -1,5 +1,4 @@
-Opegrapha insidens (J. Steiner) S.Y. Kondr. SPECIES
-=======
+# Opegrapha insidens (J. Steiner) S.Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

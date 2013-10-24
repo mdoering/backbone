@@ -1,5 +1,4 @@
-Meliola myrtacearum F. Stevens & Roldan ex Hansf. SPECIES
-=======
+# Meliola myrtacearum F. Stevens & Roldan ex Hansf. SPECIES
 
 #### Status
 ACCEPTED

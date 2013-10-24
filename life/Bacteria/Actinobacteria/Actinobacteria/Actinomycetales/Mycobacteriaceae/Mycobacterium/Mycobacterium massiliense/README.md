@@ -1,5 +1,4 @@
-Mycobacterium massiliense Adékambi et al., 2006 SPECIES
-=======
+# Mycobacterium massiliense Adékambi et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

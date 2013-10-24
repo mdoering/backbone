@@ -1,5 +1,4 @@
-Lecanora libisca Stizenb. SPECIES
-=======
+# Lecanora libisca Stizenb. SPECIES
 
 #### Status
 ACCEPTED

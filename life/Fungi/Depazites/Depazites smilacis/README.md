@@ -1,5 +1,4 @@
-Depazites smilacis (Heer) Mesch. SPECIES
-=======
+# Depazites smilacis (Heer) Mesch. SPECIES
 
 #### Status
 ACCEPTED

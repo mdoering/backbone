@@ -1,5 +1,4 @@
-Fragilaria ungeriana Grunow SPECIES
-=======
+# Fragilaria ungeriana Grunow SPECIES
 
 #### Status
 ACCEPTED

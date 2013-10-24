@@ -1,5 +1,4 @@
-Umbilicaria varia Leight. SPECIES
-=======
+# Umbilicaria varia Leight. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Bilimbia subfuscae (Arnold) Arnold SPECIES
-=======
+# Toninia subfuscae (Arnold) Timdal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Op. bot. 110: 101 (1991)
 
 #### Original name
 Celidium subfuscae Arnold

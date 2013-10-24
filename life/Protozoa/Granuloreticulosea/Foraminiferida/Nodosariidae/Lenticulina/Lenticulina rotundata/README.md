@@ -1,5 +1,4 @@
-Lenticulina rotundata (Lamarck, 1804) SPECIES
-=======
+# Lenticulina rotundata (Lamarck, 1804) SPECIES
 
 #### Status
 ACCEPTED

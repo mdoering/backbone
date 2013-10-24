@@ -1,5 +1,4 @@
-Naemaspora fusca Preuss SPECIES
-=======
+# Naemaspora fusca Preuss SPECIES
 
 #### Status
 ACCEPTED

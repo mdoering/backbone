@@ -1,5 +1,4 @@
-Mycena chaetodes Berk. & M.A. Curtis SPECIES
-=======
+# Mycena chaetodes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

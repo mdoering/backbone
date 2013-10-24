@@ -1,5 +1,4 @@
-Usnea palmata Scop. SPECIES
-=======
+# Usnea palmata Scop. SPECIES
 
 #### Status
 ACCEPTED

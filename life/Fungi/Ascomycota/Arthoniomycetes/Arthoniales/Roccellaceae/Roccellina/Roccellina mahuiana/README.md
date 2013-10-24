@@ -1,5 +1,4 @@
-Roccellina mahuiana (Follmann) Tehler SPECIES
-=======
+# Roccellina mahuiana (Follmann) Tehler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Penicillium heteromorphus H.Z. Kong & Z.T. Qi SPECIES
-=======
+# Penicillium heteromorphum H.Z. Kong & Z.T. Qi, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycosystema 1: 107 (1988)
 
 #### Original name
-Penicillium heteromorphus H.Z. Kong & Z.T. Qi
+Penicillium heteromorphum H.Z. Kong & Z.T. Qi, 1988
 
 ### Remarks
 null

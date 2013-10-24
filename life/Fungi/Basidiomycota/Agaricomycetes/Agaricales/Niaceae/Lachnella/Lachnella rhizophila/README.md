@@ -1,5 +1,4 @@
-Lachnella rhizophila Ellis & Everh. SPECIES
-=======
+# Lachnella rhizophila Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

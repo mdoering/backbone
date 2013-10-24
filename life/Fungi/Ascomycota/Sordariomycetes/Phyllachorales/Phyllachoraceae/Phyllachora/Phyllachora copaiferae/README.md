@@ -1,17 +1,16 @@
-Catacauma copaifericola Chardón, 1940 SPECIES
-=======
+# Phyllachora copaiferae Speg., 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 32: 185 (1940)
+Anal. Soc. cient. argent. 19: 95 (1885)
 
 #### Original name
-Catacauma copaifericola Chardón, 1940
+Phyllachora copaiferae Speg., 1885
 
 ### Remarks
 null

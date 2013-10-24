@@ -1,5 +1,4 @@
-Synchytrium gonolobi M.T. Cook SPECIES
-=======
+# Synchytrium gonolobi M.T. Cook SPECIES
 
 #### Status
 ACCEPTED

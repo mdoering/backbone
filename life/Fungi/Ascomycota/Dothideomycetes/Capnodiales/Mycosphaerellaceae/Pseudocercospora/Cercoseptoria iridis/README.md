@@ -1,5 +1,4 @@
-Cercoseptoria iridis (Ellis & Halst.) H.C. Greene SPECIES
-=======
+# Cercoseptoria iridis (Ellis & Halst.) H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

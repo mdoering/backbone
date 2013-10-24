@@ -1,5 +1,4 @@
-Pseudoidium GENUS
-=======
+# Pseudoidium GENUS
 
 #### Status
 ACCEPTED

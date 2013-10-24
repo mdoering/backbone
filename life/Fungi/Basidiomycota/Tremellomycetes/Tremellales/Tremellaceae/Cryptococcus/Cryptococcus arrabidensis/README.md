@@ -1,5 +1,4 @@
-Cryptococcus arrabidensis Á. Fonseca, Scorzetti & Fell SPECIES
-=======
+# Cryptococcus arrabidensis Á. Fonseca, Scorzetti & Fell SPECIES
 
 #### Status
 ACCEPTED

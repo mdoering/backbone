@@ -1,5 +1,4 @@
-Pratella zonaria Brond. SPECIES
-=======
+# Pratella zonaria Brond. SPECIES
 
 #### Status
 ACCEPTED

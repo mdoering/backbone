@@ -1,5 +1,4 @@
-Didymosphaeria acaciae Tilak SPECIES
-=======
+# Didymosphaeria acaciae Tilak SPECIES
 
 #### Status
 ACCEPTED

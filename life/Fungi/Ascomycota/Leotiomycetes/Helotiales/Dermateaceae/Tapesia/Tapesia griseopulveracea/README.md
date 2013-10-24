@@ -1,5 +1,4 @@
-Tapesia griseopulveracea (Schwein.) Sacc. SPECIES
-=======
+# Tapesia griseopulveracea (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

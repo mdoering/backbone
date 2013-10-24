@@ -1,5 +1,4 @@
-Phyllosticta bumeliifolia Heald & F.A. Wolf SPECIES
-=======
+# Phyllosticta bumeliifolia Heald & F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epidermophyton repens (Eklund) Sartory SPECIES
-=======
+# Epidermophyton repens (Eklund) Sartory SPECIES
 
 #### Status
 ACCEPTED

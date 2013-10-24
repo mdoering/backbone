@@ -1,5 +1,4 @@
-Sargogyne integra SPECIES
-=======
+# Sargogyne integra SPECIES
 
 #### Status
 ACCEPTED

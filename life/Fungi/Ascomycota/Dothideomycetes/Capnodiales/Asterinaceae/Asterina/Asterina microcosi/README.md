@@ -1,5 +1,4 @@
-Asterina microcosi B. Song SPECIES
-=======
+# Asterina microcosi B. Song SPECIES
 
 #### Status
 ACCEPTED

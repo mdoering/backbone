@@ -1,5 +1,4 @@
-Agaricus deliberatus Britzelm. SPECIES
-=======
+# Agaricus deliberatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

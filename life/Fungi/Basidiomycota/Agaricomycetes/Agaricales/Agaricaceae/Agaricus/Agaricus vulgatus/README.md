@@ -1,5 +1,4 @@
-Agaricus vulgatus Britzelm. SPECIES
-=======
+# Agaricus vulgatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

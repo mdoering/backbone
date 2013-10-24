@@ -1,5 +1,4 @@
-Lopadium purpuratum Zahlbr. SPECIES
-=======
+# Lopadium purpuratum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

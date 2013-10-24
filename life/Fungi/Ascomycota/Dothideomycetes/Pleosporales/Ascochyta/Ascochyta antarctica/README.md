@@ -1,5 +1,4 @@
-Ascochyta antarctica Henn. SPECIES
-=======
+# Ascochyta antarctica Henn. SPECIES
 
 #### Status
 ACCEPTED

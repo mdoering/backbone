@@ -1,5 +1,4 @@
-Lepiota pulverea Herp. SPECIES
-=======
+# Lepiota pulverea Herp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria tolosa Rodway SPECIES
-=======
+# Xylaria tolosa Rodway SPECIES
 
 #### Status
 ACCEPTED

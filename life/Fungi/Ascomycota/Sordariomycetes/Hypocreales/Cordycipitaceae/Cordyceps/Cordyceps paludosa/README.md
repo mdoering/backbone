@@ -1,5 +1,4 @@
-Cordyceps paludosa (Mains) Mains SPECIES
-=======
+# Cordyceps paludosa (Mains) Mains SPECIES
 
 #### Status
 ACCEPTED

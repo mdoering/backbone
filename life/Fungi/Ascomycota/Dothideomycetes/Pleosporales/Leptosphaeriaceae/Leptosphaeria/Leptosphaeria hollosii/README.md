@@ -1,5 +1,4 @@
-Leptosphaeria hollosii Moesz SPECIES
-=======
+# Leptosphaeria hollosii Moesz SPECIES
 
 #### Status
 ACCEPTED

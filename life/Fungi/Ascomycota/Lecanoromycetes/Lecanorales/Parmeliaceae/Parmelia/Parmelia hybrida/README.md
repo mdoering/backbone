@@ -1,5 +1,4 @@
-Parmelia hybrida SPECIES
-=======
+# Parmelia hybrida SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scenidium discopodum (Pat. & Har.) Kuntze SPECIES
-=======
+# Scenidium discopodum (Pat. & Har.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

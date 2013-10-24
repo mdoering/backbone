@@ -1,5 +1,4 @@
-Aphanocladium macrosporum J.L. Chen, W.S. Lin & Tzean SPECIES
-=======
+# Aphanocladium macrosporum J.L. Chen, W.S. Lin & Tzean SPECIES
 
 #### Status
 ACCEPTED

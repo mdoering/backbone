@@ -1,5 +1,4 @@
-Stenella smilacis P. Kumar, D.N. Shukla & Kamal SPECIES
-=======
+# Stenella smilacis P. Kumar, D.N. Shukla & Kamal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmularia miconiae Inácio & P.F. Cannon, 2008 SPECIES
-=======
+# Parmularia miconiae Inácio & P.F. Cannon, 2008 SPECIES
 
 #### Status
 ACCEPTED

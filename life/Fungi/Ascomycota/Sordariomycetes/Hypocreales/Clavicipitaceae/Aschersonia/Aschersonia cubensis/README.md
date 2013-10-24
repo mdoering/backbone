@@ -1,5 +1,4 @@
-Aschersonia cubensis Berk. & M.A. Curtis, 1868 SPECIES
-=======
+# Aschersonia cubensis Berk. & M.A. Curtis, 1868 SPECIES
 
 #### Status
 ACCEPTED

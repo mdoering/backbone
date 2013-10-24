@@ -1,5 +1,4 @@
-Polystictus scutatus Mattir. SPECIES
-=======
+# Polystictus scutatus Mattir. SPECIES
 
 #### Status
 ACCEPTED

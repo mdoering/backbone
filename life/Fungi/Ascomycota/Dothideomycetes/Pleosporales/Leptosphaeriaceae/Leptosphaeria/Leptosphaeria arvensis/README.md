@@ -1,5 +1,4 @@
-Leptosphaeria arvensis Speg. SPECIES
-=======
+# Leptosphaeria arvensis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oospora catarrhalis Sartory & A. Bailly SPECIES
-=======
+# Oospora catarrhalis Sartory & A. Bailly SPECIES
 
 #### Status
 ACCEPTED

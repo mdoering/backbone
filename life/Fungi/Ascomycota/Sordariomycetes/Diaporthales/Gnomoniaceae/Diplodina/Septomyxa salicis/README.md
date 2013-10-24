@@ -1,5 +1,4 @@
-Septomyxa salicis Grove SPECIES
-=======
+# Septomyxa salicis Grove SPECIES
 
 #### Status
 ACCEPTED

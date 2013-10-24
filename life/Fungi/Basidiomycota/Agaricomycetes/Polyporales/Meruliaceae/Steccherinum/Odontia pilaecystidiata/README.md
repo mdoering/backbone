@@ -1,5 +1,4 @@
-Odontia pilaecystidiata S. Lundell SPECIES
-=======
+# Odontia pilaecystidiata S. Lundell SPECIES
 
 #### Status
 ACCEPTED

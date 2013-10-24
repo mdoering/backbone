@@ -1,5 +1,4 @@
-Stichoticha GENUS
-=======
+# Stichoticha GENUS
 
 #### Status
 ACCEPTED

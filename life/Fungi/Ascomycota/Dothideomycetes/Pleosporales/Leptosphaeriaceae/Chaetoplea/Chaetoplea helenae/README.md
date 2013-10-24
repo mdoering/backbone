@@ -1,5 +1,4 @@
-Chaetoplea helenae (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Chaetoplea helenae (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pseudocercospora crotoniphila (Speg.) Crous, U. Braun & Alfenas SPECIES
-=======
+# Pseudocercospora crotonophila (Speg.) Crous, U. Braun & Alfenas SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 72: 177 (1999)
 
 #### Original name
 Cercospora crotonophila Speg.

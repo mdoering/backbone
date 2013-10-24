@@ -1,5 +1,4 @@
-Harknessia eucalyptorum Crous, M.J. Wingf. & Nag Raj SPECIES
-=======
+# Harknessia eucalyptorum Crous, M.J. Wingf. & Nag Raj SPECIES
 
 #### Status
 ACCEPTED

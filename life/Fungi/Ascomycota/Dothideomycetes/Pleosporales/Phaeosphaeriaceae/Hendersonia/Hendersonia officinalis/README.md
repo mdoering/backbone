@@ -1,5 +1,4 @@
-Hendersonia officinalis G.F. Atk. SPECIES
-=======
+# Hendersonia officinalis G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

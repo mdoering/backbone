@@ -1,5 +1,4 @@
-Thoracosphaera pulchra Chongyou Wang SPECIES
-=======
+# Thoracosphaera pulchra Chongyou Wang SPECIES
 
 #### Status
 ACCEPTED

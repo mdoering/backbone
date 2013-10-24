@@ -1,17 +1,16 @@
-Saccharomyces piriforme H.M. Ward SPECIES
-=======
+# Saccharomyces pyriformis H.M. Ward SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Jörgens. Microrg. trad. franc. Paris 109, 265 (1893)
 
 #### Original name
-Saccharomyces piriforme H.M. Ward
+Saccharomyces pyriformis H.M. Ward
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tribonosphaera centripetalis Haeckel, 1887 SPECIES
-=======
+# Tribonosphaera centripetalis Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

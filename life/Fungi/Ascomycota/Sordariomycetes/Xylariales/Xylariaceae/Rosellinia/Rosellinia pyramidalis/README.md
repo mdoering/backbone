@@ -1,5 +1,4 @@
-Rosellinia pyramidalis Lar.N. Vassiljeva, 1998 SPECIES
-=======
+# Rosellinia pyramidalis Lar.N. Vassiljeva, 1998 SPECIES
 
 #### Status
 ACCEPTED

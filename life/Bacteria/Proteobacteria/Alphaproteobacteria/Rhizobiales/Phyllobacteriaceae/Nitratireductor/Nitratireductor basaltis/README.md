@@ -1,5 +1,4 @@
-Nitratireductor basaltis Kim, Roh, Chang, Nam, Yoon, Jeon, Oh & Bae, 2009 SPECIES
-=======
+# Nitratireductor basaltis Kim, Roh, Chang, Nam, Yoon, Jeon, Oh & Bae, 2009 SPECIES
 
 #### Status
 ACCEPTED

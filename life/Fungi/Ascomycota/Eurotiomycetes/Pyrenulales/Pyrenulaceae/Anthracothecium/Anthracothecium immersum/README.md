@@ -1,5 +1,4 @@
-Anthracothecium immersum Patw. & Makhija SPECIES
-=======
+# Anthracothecium immersum Patw. & Makhija SPECIES
 
 #### Status
 ACCEPTED

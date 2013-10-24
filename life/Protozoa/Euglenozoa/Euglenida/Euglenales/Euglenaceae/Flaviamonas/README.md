@@ -1,5 +1,4 @@
-Flaviamonas B.V. Skvortzov & M. Noda, 1983 GENUS
-=======
+# Flaviamonas B.V. Skvortzov & M. Noda, 1983 GENUS
 
 #### Status
 ACCEPTED

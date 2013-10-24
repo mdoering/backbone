@@ -1,11 +1,10 @@
-Actinomyces mutabilis Preobrazhenskaya & Ryabova in Gauze et al., 1957 SPECIES
-=======
+# Streptomyces mutabilis (Preobrazhenskaya and Ryabova, 1957) Pridham et al., 1958 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

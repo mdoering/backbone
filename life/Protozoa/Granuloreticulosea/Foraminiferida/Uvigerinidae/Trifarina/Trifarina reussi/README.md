@@ -1,8 +1,7 @@
-Triplasia reussi Cushman, 1913 SPECIES
-=======
+# Trifarina reussi (Cushman, 1913) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

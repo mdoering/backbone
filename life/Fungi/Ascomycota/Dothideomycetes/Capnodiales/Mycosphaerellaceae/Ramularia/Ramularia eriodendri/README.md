@@ -1,5 +1,4 @@
-Ramularia eriodendri Racib. SPECIES
-=======
+# Ramularia eriodendri Racib. SPECIES
 
 #### Status
 ACCEPTED

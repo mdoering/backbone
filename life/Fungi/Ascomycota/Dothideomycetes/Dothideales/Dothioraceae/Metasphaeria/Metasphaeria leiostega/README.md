@@ -1,8 +1,7 @@
-Metasphaeria lejostega (Ellis) Sacc. SPECIES
-=======
+# Metasphaeria leiostega (Ellis) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Austrosmittium biforme M.C. Williams & Lichtw., 1992 SPECIES
-=======
+# Austrosmittium biforme M.C. Williams & Lichtw., 1992 SPECIES
 
 #### Status
 ACCEPTED

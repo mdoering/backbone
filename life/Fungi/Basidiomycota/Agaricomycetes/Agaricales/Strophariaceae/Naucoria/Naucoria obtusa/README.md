@@ -1,5 +1,4 @@
-Naucoria obtusa (Cooke & Massee) Sacc. SPECIES
-=======
+# Naucoria obtusa (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

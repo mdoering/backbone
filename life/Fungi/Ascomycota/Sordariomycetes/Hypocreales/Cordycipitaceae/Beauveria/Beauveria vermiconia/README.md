@@ -1,5 +1,4 @@
-Beauveria vermiconia de Hoog & V. Rao, 1975 SPECIES
-=======
+# Beauveria vermiconia de Hoog & V. Rao, 1975 SPECIES
 
 #### Status
 ACCEPTED

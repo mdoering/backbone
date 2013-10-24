@@ -1,17 +1,16 @@
-Polydesmus exitiosus f. luxuriosum (J.G. Kühn) J.G. Kühn, 1858 FORM
-=======
+# Alternaria brassicicola (Schwein.) Wiltshire, 1947 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 20: 8 (1947)
 
 #### Original name
-Sporidesmium exitiosum f. luxuriosum J.G. Kühn, 1855
+Helminthosporium brassicicola Schwein., 1832
 
 ### Remarks
 null

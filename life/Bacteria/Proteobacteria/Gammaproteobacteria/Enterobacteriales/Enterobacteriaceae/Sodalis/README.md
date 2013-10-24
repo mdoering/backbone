@@ -1,5 +1,4 @@
-Sodalis Dale & Maudlin, 1999 GENUS
-=======
+# Sodalis Dale & Maudlin, 1999 GENUS
 
 #### Status
 ACCEPTED

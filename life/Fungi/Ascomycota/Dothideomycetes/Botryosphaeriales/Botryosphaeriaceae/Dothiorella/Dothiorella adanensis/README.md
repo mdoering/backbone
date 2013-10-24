@@ -1,5 +1,4 @@
-Dothiorella adanensis Petr. SPECIES
-=======
+# Dothiorella adanensis Petr. SPECIES
 
 #### Status
 ACCEPTED

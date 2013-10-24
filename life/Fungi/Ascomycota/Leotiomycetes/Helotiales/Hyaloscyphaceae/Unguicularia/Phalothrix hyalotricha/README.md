@@ -1,5 +1,4 @@
-Phalothrix hyalotricha (Rehm) Clem. SPECIES
-=======
+# Phalothrix hyalotricha (Rehm) Clem. SPECIES
 
 #### Status
 ACCEPTED

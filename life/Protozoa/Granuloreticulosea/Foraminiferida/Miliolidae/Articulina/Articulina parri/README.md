@@ -1,5 +1,4 @@
-Articulina parri Cushman SPECIES
-=======
+# Articulina parri Cushman SPECIES
 
 #### Status
 ACCEPTED

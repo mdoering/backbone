@@ -1,17 +1,16 @@
-Cercoseptoria albizziae J.M. Yen SPECIES
-=======
+# Cercoseptoria albiziae J.M. Yen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 96(1): 30 (1980)
 
 #### Original name
-Cercoseptoria albizziae J.M. Yen
+Cercoseptoria albiziae J.M. Yen
 
 ### Remarks
 null

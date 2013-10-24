@@ -1,5 +1,4 @@
-Agaricus tenuivolvatus (F.H. Møller) F.H. Møller SPECIES
-=======
+# Agaricus tenuivolvatus (F.H. Møller) F.H. Møller SPECIES
 
 #### Status
 ACCEPTED

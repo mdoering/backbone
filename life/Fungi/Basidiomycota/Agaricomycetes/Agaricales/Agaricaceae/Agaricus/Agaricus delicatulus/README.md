@@ -1,5 +1,4 @@
-Agaricus delicatulus Peck SPECIES
-=======
+# Agaricus delicatulus Peck SPECIES
 
 #### Status
 ACCEPTED

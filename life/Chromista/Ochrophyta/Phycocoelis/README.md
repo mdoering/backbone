@@ -1,5 +1,4 @@
-Phycocoelis GENUS
-=======
+# Phycocoelis GENUS
 
 #### Status
 ACCEPTED

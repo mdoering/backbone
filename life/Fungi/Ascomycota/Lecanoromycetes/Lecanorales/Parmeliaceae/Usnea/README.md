@@ -1,17 +1,16 @@
-Usneomyces E.A. Thomas ex Cif. & Tomas. GENUS
-=======
+# Usnea Dill. ex Adans. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 45, 71 (1953)
+Fam. Pl. 2: 7 (1763)
 
 #### Original name
-Usneomyces E.A. Thomas ex Cif. & Tomas.
+Usnea Dill. ex Adans.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaeria interrupta Mont. SPECIES
-=======
+# Sphaeria interrupta Mont. SPECIES
 
 #### Status
 ACCEPTED

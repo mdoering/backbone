@@ -1,5 +1,4 @@
-Discomycopsella GENUS
-=======
+# Discomycopsella GENUS
 
 #### Status
 ACCEPTED

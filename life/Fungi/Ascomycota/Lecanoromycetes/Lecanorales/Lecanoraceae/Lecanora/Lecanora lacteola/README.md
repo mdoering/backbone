@@ -1,5 +1,4 @@
-Lecanora lacteola Müll. Arg. SPECIES
-=======
+# Lecanora lacteola Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplotomma cedricola (Werner) Etayo SPECIES
-=======
+# Diplotomma cedricola (Werner) Etayo SPECIES
 
 #### Status
 ACCEPTED

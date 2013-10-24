@@ -1,5 +1,4 @@
-Aecidium dahliae Syd. & P. Syd. SPECIES
-=======
+# Aecidium dahliae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

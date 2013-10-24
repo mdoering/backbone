@@ -1,14 +1,13 @@
-Entyloma brefeldii var. fluitans (Liro) Cif., 1963 VARIETY
-=======
+# Ustilentyloma fluitans (Liro) Vánky, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Quaderno Ist. Bot. Univ. Pavia 27: 70 (1963)
+Microbiologia, Bucuresti 1: 328 (1970)
 
 #### Original name
 Entyloma fluitans Liro, 1935

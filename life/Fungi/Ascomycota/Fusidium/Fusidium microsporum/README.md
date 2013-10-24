@@ -1,5 +1,4 @@
-Fusidium microsporum Corda SPECIES
-=======
+# Fusidium microsporum Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microtetraspora polychroma (Galatenko et al., 1987) Kroppenstedt et al., 1991 SPECIES
-=======
+# Microtetraspora polychroma (Galatenko et al., 1987) Kroppenstedt et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

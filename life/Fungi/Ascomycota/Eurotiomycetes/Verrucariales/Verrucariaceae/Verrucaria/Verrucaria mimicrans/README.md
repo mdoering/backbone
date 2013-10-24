@@ -1,5 +1,4 @@
-Verrucaria mimicrans Servít SPECIES
-=======
+# Verrucaria mimicrans Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus pleurocystidiatus Heinem. SPECIES
-=======
+# Agaricus pleurocystidiatus Heinem. SPECIES
 
 #### Status
 ACCEPTED

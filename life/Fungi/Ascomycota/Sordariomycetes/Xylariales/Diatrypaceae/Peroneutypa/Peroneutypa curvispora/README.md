@@ -1,5 +1,4 @@
-Peroneutypa curvispora (Starbäck) Carmarán & A.I. Romero SPECIES
-=======
+# Peroneutypa curvispora (Starbäck) Carmarán & A.I. Romero SPECIES
 
 #### Status
 ACCEPTED

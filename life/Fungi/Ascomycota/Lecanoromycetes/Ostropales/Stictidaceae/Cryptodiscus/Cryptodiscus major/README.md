@@ -1,5 +1,4 @@
-Cryptodiscus major Sacc. SPECIES
-=======
+# Cryptodiscus major Sacc. SPECIES
 
 #### Status
 ACCEPTED

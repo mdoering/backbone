@@ -1,5 +1,4 @@
-Phyllopsora glaucescens Timdal SPECIES
-=======
+# Phyllopsora glaucescens Timdal SPECIES
 
 #### Status
 ACCEPTED

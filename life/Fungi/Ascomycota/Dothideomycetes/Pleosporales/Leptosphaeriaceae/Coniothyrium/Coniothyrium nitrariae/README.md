@@ -1,5 +1,4 @@
-Coniothyrium nitrariae Kravtzev SPECIES
-=======
+# Coniothyrium nitrariae Kravtzev SPECIES
 
 #### Status
 ACCEPTED

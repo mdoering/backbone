@@ -1,17 +1,16 @@
-Entoloma globulifer Noordel. SPECIES
-=======
+# Entoloma globuliferum Noordel. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Persoonia 10(4): 513 (1980)
 
 #### Original name
-Entoloma globulifer Noordel.
+Entoloma globuliferum Noordel.
 
 ### Remarks
 null

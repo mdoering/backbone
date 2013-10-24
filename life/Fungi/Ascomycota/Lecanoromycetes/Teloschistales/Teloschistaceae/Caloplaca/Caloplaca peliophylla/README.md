@@ -1,5 +1,4 @@
-Caloplaca peliophylla (Tuck.) Zahlbr. SPECIES
-=======
+# Caloplaca peliophylla (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

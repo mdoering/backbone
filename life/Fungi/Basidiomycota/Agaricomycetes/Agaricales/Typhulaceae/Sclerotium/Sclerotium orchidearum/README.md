@@ -1,5 +1,4 @@
-Sclerotium orchidearum Henn. SPECIES
-=======
+# Sclerotium orchidearum Henn. SPECIES
 
 #### Status
 ACCEPTED

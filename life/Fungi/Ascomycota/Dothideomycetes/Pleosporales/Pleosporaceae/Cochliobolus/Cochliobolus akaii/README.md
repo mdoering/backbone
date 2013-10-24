@@ -1,14 +1,13 @@
-Pseudocochliobolus akaii Tsuda & Ueyama, 1985 SPECIES
-=======
+# Cochliobolus akaii (Tsuda & Ueyama) Sivan., 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Mycol. Soc. Japan 26(3): 324 (1985)
+Mycol. Pap. 158: 106 (1987)
 
 #### Original name
 Pseudocochliobolus akaii Tsuda & Ueyama, 1985

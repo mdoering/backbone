@@ -1,5 +1,4 @@
-Alternaria chenopodiicola T.Y. Zhang, W.Q. Chen & M.X. Gao SPECIES
-=======
+# Alternaria chenopodiicola T.Y. Zhang, W.Q. Chen & M.X. Gao SPECIES
 
 #### Status
 ACCEPTED

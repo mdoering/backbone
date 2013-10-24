@@ -1,5 +1,4 @@
-Dimacrocaryon arenicola Vdacny & Foissner, 2011 SPECIES
-=======
+# Dimacrocaryon arenicola Vdacny & Foissner, 2011 SPECIES
 
 #### Status
 ACCEPTED

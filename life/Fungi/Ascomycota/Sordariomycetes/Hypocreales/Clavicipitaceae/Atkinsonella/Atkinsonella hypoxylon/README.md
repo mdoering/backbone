@@ -1,17 +1,16 @@
-Hypocrea hypoxylon (Peck) Cooke, 1884 SPECIES
-=======
+# Atkinsonella hypoxylon (Peck) Diehl, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Agric. Monogr. U. S. D. A. 4: 49 (1950)
 
 #### Original name
-null
+Epichloë hypoxylon Peck, 1875
 
 ### Remarks
 null

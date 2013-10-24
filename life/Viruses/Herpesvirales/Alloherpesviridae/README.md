@@ -1,5 +1,4 @@
-Alloherpesviridae FAMILY
-=======
+# Alloherpesviridae FAMILY
 
 #### Status
 ACCEPTED

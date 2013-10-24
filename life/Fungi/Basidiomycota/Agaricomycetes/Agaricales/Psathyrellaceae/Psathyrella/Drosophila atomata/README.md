@@ -1,5 +1,4 @@
-Drosophila atomata (Fr.) Kühner & Romagn. SPECIES
-=======
+# Drosophila atomata (Fr.) Kühner & Romagn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria verrucaria Fr. SPECIES
-=======
+# Sphaeria verrucaria Fr. SPECIES
 
 #### Status
 ACCEPTED

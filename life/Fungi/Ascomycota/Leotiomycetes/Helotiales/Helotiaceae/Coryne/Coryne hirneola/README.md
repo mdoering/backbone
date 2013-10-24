@@ -1,5 +1,4 @@
-Coryne hirneola (Fr.) Sacc. SPECIES
-=======
+# Coryne hirneola (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

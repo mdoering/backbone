@@ -1,5 +1,4 @@
-Anserina globosa Velen. SPECIES
-=======
+# Anserina globosa Velen. SPECIES
 
 #### Status
 ACCEPTED

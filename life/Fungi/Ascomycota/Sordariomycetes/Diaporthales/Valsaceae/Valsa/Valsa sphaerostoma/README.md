@@ -1,5 +1,4 @@
-Valsa sphaerostoma Nitschke SPECIES
-=======
+# Valsa sphaerostoma Nitschke SPECIES
 
 #### Status
 ACCEPTED

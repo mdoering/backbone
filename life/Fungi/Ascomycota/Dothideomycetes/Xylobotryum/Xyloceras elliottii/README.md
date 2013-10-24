@@ -1,17 +1,16 @@
-Xyloceras elliotti A.L. Sm. SPECIES
-=======
+# Xyloceras elliottii A.L. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 35: 16 (1901)
 
 #### Original name
-Xyloceras elliotti A.L. Sm.
+Xyloceras elliottii A.L. Sm.
 
 ### Remarks
 null

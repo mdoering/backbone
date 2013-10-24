@@ -1,5 +1,4 @@
-Petractis nodispora Orange SPECIES
-=======
+# Petractis nodispora Orange SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Choffatella Schlumberger, 1904 GENUS
-=======
+# Choffatella Schlumberger, 1904 GENUS
 
 #### Status
 ACCEPTED

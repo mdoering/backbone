@@ -1,17 +1,16 @@
-Pestalotia congesta Berk. & Broome, 1875 SPECIES
-=======
+# Deshpandiella jambolana (T.S. Ramakr., Sriniv. & Sundaram) Kamat & Ullasa, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 14(2): 89 (1875)
+in Ullasa & Rao, Bull. Torrey bot. Club 100: 42 (1973)
 
 #### Original name
-Pestalotia congesta Berk. & Broome, 1875
+Didymosphaeria jambolana T.S. Ramakr., Sriniv. & Sundaram, 1953
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Misceomarginatus pleniporus F.H. Wind & S.W. Wise SPECIES
-=======
+# Misceomarginatus pleniporus F.H. Wind & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

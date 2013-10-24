@@ -1,5 +1,4 @@
-Irene guatemalensis Hansf. SPECIES
-=======
+# Irene guatemalensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

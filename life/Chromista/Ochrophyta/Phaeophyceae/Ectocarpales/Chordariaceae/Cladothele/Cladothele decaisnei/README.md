@@ -1,8 +1,7 @@
-Stictyosiphon decaisnei (J.D. Hooker & Harvey) G.Murray SPECIES
-=======
+# Cladothele decaisnei J.D. Hooker & Harvey SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

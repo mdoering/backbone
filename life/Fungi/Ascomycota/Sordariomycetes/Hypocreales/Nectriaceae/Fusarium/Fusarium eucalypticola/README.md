@@ -1,5 +1,4 @@
-Fusarium eucalypticola Henn. SPECIES
-=======
+# Fusarium eucalypticola Henn. SPECIES
 
 #### Status
 ACCEPTED

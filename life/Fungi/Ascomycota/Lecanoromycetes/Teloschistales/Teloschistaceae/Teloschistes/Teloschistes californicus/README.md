@@ -1,5 +1,4 @@
-Teloschistes californicus Sipman SPECIES
-=======
+# Teloschistes californicus Sipman SPECIES
 
 #### Status
 ACCEPTED

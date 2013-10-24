@@ -1,5 +1,4 @@
-Physcia labrata f. labrata FORM
-=======
+# Physcia labrata Mereschk. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Physcia labrata f. labrata
+Physcia labrata Mereschk.
 
 ### Remarks
 null

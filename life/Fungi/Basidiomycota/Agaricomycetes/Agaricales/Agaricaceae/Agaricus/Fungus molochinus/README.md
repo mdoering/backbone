@@ -1,5 +1,4 @@
-Fungus molochinus (Fr.) Kuntze SPECIES
-=======
+# Fungus molochinus (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentaria corticola (Quél.) Corner SPECIES
-=======
+# Lentaria corticola (Quél.) Corner SPECIES
 
 #### Status
 ACCEPTED

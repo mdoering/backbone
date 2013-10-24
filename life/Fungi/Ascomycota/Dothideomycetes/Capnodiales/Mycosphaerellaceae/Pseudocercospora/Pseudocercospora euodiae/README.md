@@ -1,14 +1,13 @@
-Pseudocercospora evodiae (Syd. & P. Syd.) Chupp SPECIES
-=======
+# Pseudocercospora euodiae (Syd. & P. Syd.) Chupp SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monograph of Cercospora 504 (1954)
 
 #### Original name
 Cercospora euodiae Syd. & P. Syd.

@@ -1,5 +1,4 @@
-Isaria graminiperda Berk. & F. Muell. SPECIES
-=======
+# Isaria graminiperda Berk. & F. Muell. SPECIES
 
 #### Status
 ACCEPTED

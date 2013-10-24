@@ -1,5 +1,4 @@
-Mycosphaerella bumeliae (Cooke) J.H. Mill. SPECIES
-=======
+# Mycosphaerella bumeliae (Cooke) J.H. Mill. SPECIES
 
 #### Status
 ACCEPTED

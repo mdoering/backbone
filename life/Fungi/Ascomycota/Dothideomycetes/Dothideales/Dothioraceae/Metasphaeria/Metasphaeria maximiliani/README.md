@@ -1,5 +1,4 @@
-Metasphaeria maximiliani Ellis & Everh. SPECIES
-=======
+# Metasphaeria maximiliani Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

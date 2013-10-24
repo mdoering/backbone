@@ -1,5 +1,4 @@
-Aegeritella Balazy & J. Wisn. GENUS
-=======
+# Aegeritella Balazy & J. Wisn. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodococcus wratislaviensis (Goodfellow et al., 1995) Goodfellow et al., 2002 SPECIES
-=======
+# Rhodococcus wratislaviensis (Goodfellow et al., 1995) Goodfellow et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

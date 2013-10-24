@@ -1,5 +1,4 @@
-Buellia catalipa A. Massal. SPECIES
-=======
+# Buellia catalipa A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ancylobacter rudongensis Xin et al., 2004 SPECIES
-=======
+# Ancylobacter rudongensis Xin et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

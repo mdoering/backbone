@@ -1,5 +1,4 @@
-Lophiostoma sedi Hazsl. SPECIES
-=======
+# Lophiostoma sedi Hazsl. SPECIES
 
 #### Status
 ACCEPTED

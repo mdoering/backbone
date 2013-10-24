@@ -1,5 +1,4 @@
-Filaspora tragopogonis (Richon) Kuntze SPECIES
-=======
+# Filaspora tragopogonis (Richon) Kuntze SPECIES
 
 #### Status
 ACCEPTED

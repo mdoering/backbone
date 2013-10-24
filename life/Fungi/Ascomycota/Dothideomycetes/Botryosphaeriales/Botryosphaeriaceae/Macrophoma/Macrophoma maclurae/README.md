@@ -1,5 +1,4 @@
-Macrophoma maclurae Koshk. & Frolov SPECIES
-=======
+# Macrophoma maclurae Koshk. & Frolov SPECIES
 
 #### Status
 ACCEPTED

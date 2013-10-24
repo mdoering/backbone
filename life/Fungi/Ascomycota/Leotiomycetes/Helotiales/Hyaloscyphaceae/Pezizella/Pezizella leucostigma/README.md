@@ -1,5 +1,4 @@
-Pezizella leucostigma (Fuckel) Sacc., 1889 SPECIES
-=======
+# Pezizella leucostigma (Fuckel) Sacc., 1889 SPECIES
 
 #### Status
 ACCEPTED

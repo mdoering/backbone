@@ -1,5 +1,4 @@
-Leptonia microspora (Largent) Largent SPECIES
-=======
+# Leptonia microspora (Largent) Largent SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyaloscypha graminum Velen. SPECIES
-=======
+# Hyaloscypha graminum Velen. SPECIES
 
 #### Status
 ACCEPTED

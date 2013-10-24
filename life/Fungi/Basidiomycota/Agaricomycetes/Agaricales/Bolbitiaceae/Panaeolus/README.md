@@ -1,17 +1,16 @@
-Chalymmota P. Karst. GENUS
-=======
+# Panaeolus (E.M. Fries) Quélet, 1872 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 32: xxvii, 518 (1879)
+null
 
 #### Original name
-Chalymmota P. Karst.
+null
 
 ### Remarks
 null

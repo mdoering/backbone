@@ -1,17 +1,16 @@
-Fusarium tumidum var. coeruleum Bugnic. VARIETY
-=======
+# Fusarium tumidum Sherb., 1928 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Encyclop. Mycol. 11: 83 (1939)
+Phytopathology 18: 148 (1928)
 
 #### Original name
-Fusarium tumidum var. coeruleum Bugnic.
+Fusarium tumidum Sherb., 1928
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phyllocratera Sérus. & Aptroot GENUS
-=======
+# Phyllocratera Sérus. & Aptroot GENUS
 
 #### Status
 ACCEPTED

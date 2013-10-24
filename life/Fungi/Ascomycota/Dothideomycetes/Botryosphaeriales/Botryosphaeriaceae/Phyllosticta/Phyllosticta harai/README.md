@@ -1,5 +1,4 @@
-Phyllosticta harai Togashi SPECIES
-=======
+# Phyllosticta harai Togashi SPECIES
 
 #### Status
 ACCEPTED

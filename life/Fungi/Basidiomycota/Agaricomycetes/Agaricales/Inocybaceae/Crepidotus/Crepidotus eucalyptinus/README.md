@@ -1,5 +1,4 @@
-Crepidotus eucalyptinus Maire & Malençon SPECIES
-=======
+# Crepidotus eucalyptinus Maire & Malençon SPECIES
 
 #### Status
 ACCEPTED

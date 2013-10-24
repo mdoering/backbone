@@ -1,5 +1,4 @@
-Hypoxylon uraniae (Mont.) Mont. SPECIES
-=======
+# Hypoxylon uraniae (Mont.) Mont. SPECIES
 
 #### Status
 ACCEPTED

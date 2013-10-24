@@ -1,5 +1,4 @@
-Mesenterica argentea Vaill. ex Pers. SPECIES
-=======
+# Mesenterica argentea Vaill. ex Pers. SPECIES
 
 #### Status
 ACCEPTED

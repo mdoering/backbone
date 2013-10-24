@@ -1,5 +1,4 @@
-Peyritschiella gracilis (Thaxt.) I.I. Tav. SPECIES
-=======
+# Peyritschiella gracilis (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

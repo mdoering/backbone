@@ -1,5 +1,4 @@
-Lepocinclis pseudotexta var. pusilla Z. X. Shi VARIETY
-=======
+# Lepocinclis pseudotexta SPECIES
 
 #### Status
 ACCEPTED

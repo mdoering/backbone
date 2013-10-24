@@ -1,5 +1,4 @@
-Auricularia crassa Lloyd SPECIES
-=======
+# Auricularia crassa Lloyd SPECIES
 
 #### Status
 ACCEPTED

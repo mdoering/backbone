@@ -1,5 +1,4 @@
-Lecanora centromela Nyl. SPECIES
-=======
+# Lecanora centromela Nyl. SPECIES
 
 #### Status
 ACCEPTED

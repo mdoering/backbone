@@ -1,5 +1,4 @@
-Pholiotina intermedia (A.H. Sm.) Singer SPECIES
-=======
+# Pholiotina intermedia (A.H. Sm.) Singer SPECIES
 
 #### Status
 ACCEPTED

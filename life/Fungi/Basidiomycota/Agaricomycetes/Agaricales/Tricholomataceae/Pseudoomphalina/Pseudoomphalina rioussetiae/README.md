@@ -1,5 +1,4 @@
-Pseudoomphalina rioussetiae Bon SPECIES
-=======
+# Pseudoomphalina rioussetiae Bon SPECIES
 
 #### Status
 ACCEPTED

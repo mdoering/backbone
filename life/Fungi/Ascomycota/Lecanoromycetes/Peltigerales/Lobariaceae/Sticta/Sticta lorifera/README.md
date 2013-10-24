@@ -1,5 +1,4 @@
-Sticta lorifera Stirt. SPECIES
-=======
+# Sticta lorifera Stirt. SPECIES
 
 #### Status
 ACCEPTED

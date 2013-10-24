@@ -1,5 +1,4 @@
-Eccrinopsis ligidii Maessen SPECIES
-=======
+# Eccrinopsis ligidii Maessen SPECIES
 
 #### Status
 ACCEPTED

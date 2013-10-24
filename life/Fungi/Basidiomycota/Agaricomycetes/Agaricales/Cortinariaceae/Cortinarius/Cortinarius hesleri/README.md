@@ -1,5 +1,4 @@
-Cortinarius hesleri Ammirati & A.H. Sm. SPECIES
-=======
+# Cortinarius hesleri Ammirati & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

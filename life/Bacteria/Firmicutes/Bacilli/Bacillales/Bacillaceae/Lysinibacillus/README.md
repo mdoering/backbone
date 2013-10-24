@@ -1,5 +1,4 @@
-Lysinibacillus Ahmed, Yokota, Yamazoe & Fujiwara, 2007 GENUS
-=======
+# Lysinibacillus Ahmed, Yokota, Yamazoe & Fujiwara, 2007 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Secotium coarctatum Berk., 1845 SPECIES
-=======
+# Secotium coarctatum Berk., 1845 SPECIES
 
 #### Status
 ACCEPTED

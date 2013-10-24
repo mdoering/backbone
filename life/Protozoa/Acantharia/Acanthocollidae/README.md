@@ -1,5 +1,4 @@
-Acanthocollidae Schewiakoff, 1926 FAMILY
-=======
+# Acanthocollidae Schewiakoff, 1926 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blastobacter aggregatus Hirsch & Müller, 1986 SPECIES
-=======
+# Blastobacter aggregatus Hirsch & Müller, 1986 SPECIES
 
 #### Status
 ACCEPTED

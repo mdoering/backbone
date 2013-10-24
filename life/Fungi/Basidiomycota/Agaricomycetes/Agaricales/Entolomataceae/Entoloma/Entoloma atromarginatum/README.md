@@ -1,14 +1,13 @@
-Leptonia atromarginata (Romagn. & J. Favre) Konrad & Maubl., 1948 SPECIES
-=======
+# Entoloma atromarginatum (Romagn. & J. Favre) Zschiesch., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Hirsch, Wiss. Z. Friedrich Schiller-Univ. Jena, Math. -nat. Reihe 33(6): 814 (1984)
 
 #### Original name
 Rhodophyllus atromarginatus Romagn. & J. Favre, 1938

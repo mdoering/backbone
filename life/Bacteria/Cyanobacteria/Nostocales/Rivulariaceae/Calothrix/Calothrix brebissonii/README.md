@@ -1,5 +1,4 @@
-Calothrix brebissonii Kützing SPECIES
-=======
+# Calothrix brebissonii Kützing SPECIES
 
 #### Status
 ACCEPTED

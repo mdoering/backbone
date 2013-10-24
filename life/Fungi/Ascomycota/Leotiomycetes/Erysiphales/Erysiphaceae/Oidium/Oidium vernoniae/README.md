@@ -1,5 +1,4 @@
-Oidium vernoniae A.K. Saxena & S.B. Saksena SPECIES
-=======
+# Oidium vernoniae A.K. Saxena & S.B. Saksena SPECIES
 
 #### Status
 ACCEPTED

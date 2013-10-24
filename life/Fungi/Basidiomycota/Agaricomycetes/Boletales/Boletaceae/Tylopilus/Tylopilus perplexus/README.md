@@ -1,5 +1,4 @@
-Tylopilus perplexus Watling SPECIES
-=======
+# Tylopilus perplexus Watling SPECIES
 
 #### Status
 ACCEPTED

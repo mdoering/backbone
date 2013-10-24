@@ -1,5 +1,4 @@
-Cortinarius mucosoamarissimus Rob. Henry SPECIES
-=======
+# Cortinarius mucosoamarissimus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

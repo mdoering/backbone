@@ -1,5 +1,4 @@
-Haplopeltheca Bat., J.L. Bezerra & Cavalc. GENUS
-=======
+# Haplopeltheca Bat., J.L. Bezerra & Cavalc. GENUS
 
 #### Status
 ACCEPTED

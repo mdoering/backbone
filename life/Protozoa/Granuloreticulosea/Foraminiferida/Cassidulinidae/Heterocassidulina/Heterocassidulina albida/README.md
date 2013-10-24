@@ -1,5 +1,4 @@
-Heterocassidulina albida McCulloch, 1977 SPECIES
-=======
+# Heterocassidulina albida McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

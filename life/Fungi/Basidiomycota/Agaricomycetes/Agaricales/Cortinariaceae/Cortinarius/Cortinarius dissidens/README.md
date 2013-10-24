@@ -1,5 +1,4 @@
-Cortinarius dissidens Reumaux SPECIES
-=======
+# Cortinarius dissidens Reumaux SPECIES
 
 #### Status
 ACCEPTED

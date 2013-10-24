@@ -1,5 +1,4 @@
-Ramaria canescens R.H. Petersen, 1986 SPECIES
-=======
+# Ramaria canescens R.H. Petersen, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora cirsii Davis SPECIES
-=======
+# Stagonospora cirsii Davis SPECIES
 
 #### Status
 ACCEPTED

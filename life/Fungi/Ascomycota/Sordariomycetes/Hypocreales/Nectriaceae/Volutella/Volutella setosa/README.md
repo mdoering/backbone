@@ -1,17 +1,16 @@
-Chaetostroma setosum (Grev.) Lév., 1846 SPECIES
-=======
+# Volutella setosa (Grev.) Berk., 1860 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Outl. Brit. Fung. (London) 340 (1860)
 
 #### Original name
-null
+Aegerita setosa Grev., 1826
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Verrucaria atomariella Nyl. SPECIES
-=======
+# Verrucaria atomariella Nyl. SPECIES
 
 #### Status
 ACCEPTED

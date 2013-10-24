@@ -1,5 +1,4 @@
-Mortierella ficariae Therry & Thierry SPECIES
-=======
+# Mortierella ficariae Therry & Thierry SPECIES
 
 #### Status
 ACCEPTED

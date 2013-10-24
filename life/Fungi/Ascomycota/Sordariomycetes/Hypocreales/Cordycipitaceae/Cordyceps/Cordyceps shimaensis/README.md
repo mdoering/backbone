@@ -1,5 +1,4 @@
-Cordyceps shimaensis Kobayasi SPECIES
-=======
+# Cordyceps shimaensis Kobayasi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia howardi Herre SPECIES
-=======
+# Bacidia howardi Herre SPECIES
 
 #### Status
 ACCEPTED

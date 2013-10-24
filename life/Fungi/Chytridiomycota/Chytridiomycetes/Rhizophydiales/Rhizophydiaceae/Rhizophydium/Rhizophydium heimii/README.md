@@ -1,5 +1,4 @@
-Rhizophydium heimii Motte SPECIES
-=======
+# Rhizophydium heimii Motte SPECIES
 
 #### Status
 ACCEPTED

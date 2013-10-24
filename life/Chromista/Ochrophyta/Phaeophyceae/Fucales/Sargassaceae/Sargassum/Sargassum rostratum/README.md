@@ -1,5 +1,4 @@
-Sargassum rostratum J. Agardh SPECIES
-=======
+# Sargassum rostratum J. Agardh SPECIES
 
 #### Status
 ACCEPTED

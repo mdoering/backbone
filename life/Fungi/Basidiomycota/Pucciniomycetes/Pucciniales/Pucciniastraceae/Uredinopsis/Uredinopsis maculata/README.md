@@ -1,5 +1,4 @@
-Uredinopsis maculata (Faull) Hirats. f. SPECIES
-=======
+# Uredinopsis maculata (Faull) Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

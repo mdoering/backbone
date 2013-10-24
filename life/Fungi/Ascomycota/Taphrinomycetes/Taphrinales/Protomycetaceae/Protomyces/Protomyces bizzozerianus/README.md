@@ -1,5 +1,4 @@
-Protomyces bizzozerianus Sacc. SPECIES
-=======
+# Protomyces bizzozerianus Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amauroascus javanicus Udagawa & Uchiy. SPECIES
-=======
+# Amauroascus javanicus Udagawa & Uchiy. SPECIES
 
 #### Status
 ACCEPTED

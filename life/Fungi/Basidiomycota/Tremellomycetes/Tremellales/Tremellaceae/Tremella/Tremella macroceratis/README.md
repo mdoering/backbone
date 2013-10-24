@@ -1,5 +1,4 @@
-Tremella macroceratis Diederich & Hafellner SPECIES
-=======
+# Tremella macroceratis Diederich & Hafellner SPECIES
 
 #### Status
 ACCEPTED

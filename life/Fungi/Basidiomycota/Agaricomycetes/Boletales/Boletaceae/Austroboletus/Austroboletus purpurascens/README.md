@@ -1,5 +1,4 @@
-Austroboletus purpurascens (Heinem.) E. Horak SPECIES
-=======
+# Austroboletus purpurascens (Heinem.) E. Horak SPECIES
 
 #### Status
 ACCEPTED

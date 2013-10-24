@@ -1,5 +1,4 @@
-Cenangium polygonium Fuckel SPECIES
-=======
+# Cenangium polygonium Fuckel SPECIES
 
 #### Status
 ACCEPTED

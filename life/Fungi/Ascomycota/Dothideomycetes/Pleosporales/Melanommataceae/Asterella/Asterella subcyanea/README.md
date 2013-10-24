@@ -1,5 +1,4 @@
-Asterella subcyanea (Ellis) Sacc. SPECIES
-=======
+# Asterella subcyanea (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

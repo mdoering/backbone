@@ -1,5 +1,4 @@
-Ascosphaera larvis Bissett, 1988 SPECIES
-=======
+# Ascosphaera larvis Bissett, 1988 SPECIES
 
 #### Status
 ACCEPTED

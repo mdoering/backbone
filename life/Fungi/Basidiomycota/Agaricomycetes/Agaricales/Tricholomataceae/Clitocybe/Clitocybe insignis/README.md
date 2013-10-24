@@ -1,5 +1,4 @@
-Clitocybe insignis Gillet SPECIES
-=======
+# Clitocybe insignis Gillet SPECIES
 
 #### Status
 ACCEPTED

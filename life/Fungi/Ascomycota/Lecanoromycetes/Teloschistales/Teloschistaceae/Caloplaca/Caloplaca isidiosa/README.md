@@ -1,5 +1,4 @@
-Caloplaca isidiosa (Vain.) Zahlbr. SPECIES
-=======
+# Caloplaca isidiosa (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

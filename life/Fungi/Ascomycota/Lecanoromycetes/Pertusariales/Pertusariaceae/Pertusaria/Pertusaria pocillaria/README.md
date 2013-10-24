@@ -1,5 +1,4 @@
-Pertusaria pocillaria C.E. Cumm. SPECIES
-=======
+# Pertusaria pocillaria C.E. Cumm. SPECIES
 
 #### Status
 ACCEPTED

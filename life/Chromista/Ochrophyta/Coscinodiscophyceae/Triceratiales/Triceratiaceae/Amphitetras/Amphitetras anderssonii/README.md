@@ -1,5 +1,4 @@
-Amphitetras anderssonii (Cleve) De Toni SPECIES
-=======
+# Amphitetras anderssonii (Cleve) De Toni SPECIES
 
 #### Status
 ACCEPTED

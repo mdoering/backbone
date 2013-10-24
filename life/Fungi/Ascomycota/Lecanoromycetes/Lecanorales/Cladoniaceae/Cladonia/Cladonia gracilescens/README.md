@@ -1,5 +1,4 @@
-Cladonia gracilescens (Flörke) Vain. SPECIES
-=======
+# Cladonia gracilescens (Flörke) Vain. SPECIES
 
 #### Status
 ACCEPTED

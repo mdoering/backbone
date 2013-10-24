@@ -1,5 +1,4 @@
-Inocybe perbrevis (Weinm.) Gillet SPECIES
-=======
+# Inocybe perbrevis (Weinm.) Gillet SPECIES
 
 #### Status
 ACCEPTED

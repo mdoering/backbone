@@ -1,5 +1,4 @@
-Aplosporella yalgorensis K. Taylor, Barber & T.I. Burgess SPECIES
-=======
+# Aplosporella yalgorensis K. Taylor, Barber & T.I. Burgess SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phialoselanospora elegans Udaiyan, 1992 SPECIES
-=======
+# Phialoselanospora elegans Udaiyan, 1992 SPECIES
 
 #### Status
 ACCEPTED

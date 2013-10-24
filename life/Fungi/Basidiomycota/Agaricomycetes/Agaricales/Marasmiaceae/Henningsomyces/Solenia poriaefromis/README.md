@@ -1,5 +1,4 @@
-Solenia poriaefromis SPECIES
-=======
+# Solenia poriaefromis SPECIES
 
 #### Status
 ACCEPTED

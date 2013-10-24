@@ -1,5 +1,4 @@
-Leptophoma platantherae Keissl. SPECIES
-=======
+# Leptophoma platantherae Keissl. SPECIES
 
 #### Status
 ACCEPTED

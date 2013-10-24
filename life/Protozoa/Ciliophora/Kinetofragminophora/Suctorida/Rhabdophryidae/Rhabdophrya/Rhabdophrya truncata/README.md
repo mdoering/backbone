@@ -1,8 +1,7 @@
-Dendrosomides truncatus SPECIES
-=======
+# Rhabdophrya truncata (Dons, 1915) Dovgal, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

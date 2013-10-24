@@ -1,5 +1,4 @@
-Jattaea ceanothina (Peck) M.E. Barr SPECIES
-=======
+# Jattaea ceanothina (Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

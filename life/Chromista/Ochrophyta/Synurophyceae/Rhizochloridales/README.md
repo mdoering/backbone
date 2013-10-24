@@ -1,5 +1,4 @@
-Rhizochloridales ORDER
-=======
+# Rhizochloridales ORDER
 
 #### Status
 ACCEPTED

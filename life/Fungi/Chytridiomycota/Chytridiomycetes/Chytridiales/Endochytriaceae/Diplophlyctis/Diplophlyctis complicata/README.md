@@ -1,14 +1,13 @@
-Nephrochytrium complicatum Willoughby, 1962 SPECIES
-=======
+# Diplophlyctis complicata (Willoughby) Dogma, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 3(4): 440 (1962)
+Nova Hedwigia 25(1-2): 144 (1974)
 
 #### Original name
 Nephrochytrium complicatum Willoughby, 1962

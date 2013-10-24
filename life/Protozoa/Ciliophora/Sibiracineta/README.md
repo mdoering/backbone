@@ -1,5 +1,4 @@
-Sibiracineta Yankovskij, 1982 GENUS
-=======
+# Sibiracineta Yankovskij, 1982 GENUS
 
 #### Status
 ACCEPTED

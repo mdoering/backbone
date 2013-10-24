@@ -1,5 +1,4 @@
-Candida sagamina Nakase, M. Suzuki, Sugita, S.O. Suh & Komag. SPECIES
-=======
+# Candida sagamina Nakase, M. Suzuki, Sugita, S.O. Suh & Komag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candida batistae C.A. Rosa, R.P. Martins, E.M. Viana, Antonini & Lachance SPECIES
-=======
+# Candida batistae C.A. Rosa, R.P. Martins, E.M. Viana, Antonini & Lachance SPECIES
 
 #### Status
 ACCEPTED

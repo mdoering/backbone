@@ -1,17 +1,16 @@
-Lepiota geniculospora G.F. Atk. SPECIES
-=======
+# Lepiota geniculispora G.F. Atk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 7: 372 (1909)
 
 #### Original name
-Lepiota geniculospora G.F. Atk.
+Lepiota geniculispora G.F. Atk.
 
 ### Remarks
 null

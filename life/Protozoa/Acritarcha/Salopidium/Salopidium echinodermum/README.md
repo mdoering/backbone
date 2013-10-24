@@ -1,5 +1,4 @@
-Salopidium echinodermum (Stockmans & Willière, 1963) Priewalder, 1987 SPECIES
-=======
+# Salopidium echinodermum (Stockmans & Willière, 1963) Priewalder, 1987 SPECIES
 
 #### Status
 ACCEPTED

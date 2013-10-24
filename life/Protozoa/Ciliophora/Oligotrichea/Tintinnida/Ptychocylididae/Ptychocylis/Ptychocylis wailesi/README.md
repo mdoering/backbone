@@ -1,5 +1,4 @@
-Ptychocylis wailesi Kofoid & Campbell, 1929 SPECIES
-=======
+# Ptychocylis wailesi Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

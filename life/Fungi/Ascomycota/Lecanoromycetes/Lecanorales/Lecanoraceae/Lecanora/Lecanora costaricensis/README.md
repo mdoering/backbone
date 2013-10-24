@@ -1,5 +1,4 @@
-Lecanora costaricensis Zahlbr. SPECIES
-=======
+# Lecanora costaricensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

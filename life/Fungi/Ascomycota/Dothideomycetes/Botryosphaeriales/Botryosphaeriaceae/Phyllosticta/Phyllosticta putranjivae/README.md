@@ -1,5 +1,4 @@
-Phyllosticta putranjivae Syd. SPECIES
-=======
+# Phyllosticta putranjivae Syd. SPECIES
 
 #### Status
 ACCEPTED

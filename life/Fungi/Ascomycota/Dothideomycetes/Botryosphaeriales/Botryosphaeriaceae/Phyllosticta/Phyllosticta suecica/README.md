@@ -1,5 +1,4 @@
-Phyllosticta suecica Bubák & Vleugel SPECIES
-=======
+# Phyllosticta suecica Bubák & Vleugel SPECIES
 
 #### Status
 ACCEPTED

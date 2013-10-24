@@ -1,5 +1,4 @@
-Helotium amoenum Velen. SPECIES
-=======
+# Helotium amoenum Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verticillium nubilum Pethybr., 1919 SPECIES
-=======
+# Verticillium nubilum Pethybr., 1919 SPECIES
 
 #### Status
 ACCEPTED

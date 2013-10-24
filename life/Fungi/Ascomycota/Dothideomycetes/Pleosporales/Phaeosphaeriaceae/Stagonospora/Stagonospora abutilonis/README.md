@@ -1,5 +1,4 @@
-Stagonospora abutilonis Khokhr. SPECIES
-=======
+# Stagonospora abutilonis Khokhr. SPECIES
 
 #### Status
 ACCEPTED

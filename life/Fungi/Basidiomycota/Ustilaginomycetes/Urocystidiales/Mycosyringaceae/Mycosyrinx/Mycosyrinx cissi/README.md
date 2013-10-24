@@ -1,17 +1,16 @@
-Mycosyrinx arabica (Henn.) Penz., 1899 SPECIES
-=======
+# Mycosyrinx cissi (DC.) Beck, 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annln K. K. naturh. Hofmus. Wien 9: 123 (1894)
 
 #### Original name
-null
+Uredo cissi DC., 1808
 
 ### Remarks
 null

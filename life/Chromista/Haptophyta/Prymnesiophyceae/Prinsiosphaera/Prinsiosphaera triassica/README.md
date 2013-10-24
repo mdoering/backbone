@@ -1,5 +1,4 @@
-Prinsiosphaera triassica Jafar, 1983 SPECIES
-=======
+# Prinsiosphaera triassica Jafar, 1983 SPECIES
 
 #### Status
 ACCEPTED

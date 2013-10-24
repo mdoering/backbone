@@ -1,5 +1,4 @@
-Buellia xanthinula (Müll. Arg.) Malme SPECIES
-=======
+# Buellia xanthinula (Müll. Arg.) Malme SPECIES
 
 #### Status
 ACCEPTED

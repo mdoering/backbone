@@ -1,5 +1,4 @@
-Microcallis schizostachyi Hansf. SPECIES
-=======
+# Microcallis schizostachyi Hansf. SPECIES
 
 #### Status
 ACCEPTED

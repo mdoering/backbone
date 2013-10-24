@@ -1,17 +1,16 @@
-Dasyscypha bryophila Velen. SPECIES
-=======
+# Dasyscyphus bryophila Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 409 (1934)
 
 #### Original name
-Dasyscypha bryophila Velen.
+Dasyscyphus bryophila Velen.
 
 ### Remarks
 null

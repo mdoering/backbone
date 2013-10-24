@@ -1,5 +1,4 @@
-Thelotrema pauperius Nyl. SPECIES
-=======
+# Thelotrema pauperius Nyl. SPECIES
 
 #### Status
 ACCEPTED

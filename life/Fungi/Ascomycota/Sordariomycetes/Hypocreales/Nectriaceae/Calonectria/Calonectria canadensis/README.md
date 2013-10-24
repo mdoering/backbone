@@ -1,5 +1,4 @@
-Calonectria canadensis (Ellis & Everh.) Berl. & Voglino SPECIES
-=======
+# Calonectria canadensis (Ellis & Everh.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

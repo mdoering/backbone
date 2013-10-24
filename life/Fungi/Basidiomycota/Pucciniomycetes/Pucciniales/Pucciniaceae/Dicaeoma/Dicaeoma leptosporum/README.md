@@ -1,5 +1,4 @@
-Dicaeoma leptosporum (Ricker) Arthur & Fromme SPECIES
-=======
+# Dicaeoma leptosporum (Ricker) Arthur & Fromme SPECIES
 
 #### Status
 ACCEPTED

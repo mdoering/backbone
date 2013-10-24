@@ -1,5 +1,4 @@
-Phaeobacter caeruleus Vandecandelaere, Segaert, Mollica, Faimali & Vandamme, 2009 SPECIES
-=======
+# Phaeobacter caeruleus Vandecandelaere, Segaert, Mollica, Faimali & Vandamme, 2009 SPECIES
 
 #### Status
 ACCEPTED

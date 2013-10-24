@@ -1,5 +1,4 @@
-Sphaeria microscopica Kunze SPECIES
-=======
+# Sphaeria microscopica Kunze SPECIES
 
 #### Status
 ACCEPTED

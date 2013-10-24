@@ -1,5 +1,4 @@
-Actipilion Loeblich Jr. GENUS
-=======
+# Actipilion Loeblich Jr. GENUS
 
 #### Status
 ACCEPTED

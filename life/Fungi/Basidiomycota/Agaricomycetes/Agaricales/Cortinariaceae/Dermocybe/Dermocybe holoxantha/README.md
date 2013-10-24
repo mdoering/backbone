@@ -1,5 +1,4 @@
-Dermocybe holoxantha M.M. Moser & I. Gruber SPECIES
-=======
+# Dermocybe holoxantha M.M. Moser & I. Gruber SPECIES
 
 #### Status
 ACCEPTED

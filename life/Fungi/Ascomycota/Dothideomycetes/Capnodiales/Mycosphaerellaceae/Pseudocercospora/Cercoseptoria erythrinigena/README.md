@@ -1,14 +1,13 @@
-Cercoseptoria erytrinigena (J.M. Yen) J.M. Yen SPECIES
-=======
+# Cercoseptoria erythrinigena (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 97(2): 92 (1981)
 
 #### Original name
 Pseudocercospora erythrinigena J.M. Yen

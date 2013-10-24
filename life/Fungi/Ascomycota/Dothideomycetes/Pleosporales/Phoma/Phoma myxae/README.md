@@ -1,5 +1,4 @@
-Phoma myxae Farneti SPECIES
-=======
+# Phoma myxae Farneti SPECIES
 
 #### Status
 ACCEPTED

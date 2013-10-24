@@ -1,5 +1,4 @@
-Stereum conspurcata Berk. & M.A. Curtis ex Massee SPECIES
-=======
+# Stereum conspurcata Berk. & M.A. Curtis ex Massee SPECIES
 
 #### Status
 ACCEPTED

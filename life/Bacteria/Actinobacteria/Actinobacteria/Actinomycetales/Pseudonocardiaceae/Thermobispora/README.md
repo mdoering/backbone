@@ -1,5 +1,4 @@
-Thermobispora Wang et al., 1996 GENUS
-=======
+# Thermobispora Wang et al., 1996 GENUS
 
 #### Status
 ACCEPTED

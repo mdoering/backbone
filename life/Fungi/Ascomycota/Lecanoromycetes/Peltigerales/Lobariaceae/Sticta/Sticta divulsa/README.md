@@ -1,5 +1,4 @@
-Sticta divulsa Taylor SPECIES
-=======
+# Sticta divulsa Taylor SPECIES
 
 #### Status
 ACCEPTED

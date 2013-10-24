@@ -1,5 +1,4 @@
-Patellaria cismonica (Beltr.) Hepp SPECIES
-=======
+# Patellaria cismonica (Beltr.) Hepp SPECIES
 
 #### Status
 ACCEPTED

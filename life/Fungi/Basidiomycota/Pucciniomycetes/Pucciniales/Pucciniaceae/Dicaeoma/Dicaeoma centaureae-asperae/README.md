@@ -1,5 +1,4 @@
-Dicaeoma centaureae-asperae (Castagne) Kuntze SPECIES
-=======
+# Dicaeoma centaureae-asperae (Castagne) Kuntze SPECIES
 
 #### Status
 ACCEPTED

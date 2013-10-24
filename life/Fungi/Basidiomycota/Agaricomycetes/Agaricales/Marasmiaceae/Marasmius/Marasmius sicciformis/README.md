@@ -1,5 +1,4 @@
-Marasmius sicciformis Murrill SPECIES
-=======
+# Marasmius sicciformis Murrill SPECIES
 
 #### Status
 ACCEPTED

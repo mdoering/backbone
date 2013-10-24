@@ -1,5 +1,4 @@
-Rosellinia prorumpens Bonord. SPECIES
-=======
+# Rosellinia prorumpens Bonord. SPECIES
 
 #### Status
 ACCEPTED

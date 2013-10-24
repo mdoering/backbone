@@ -1,5 +1,4 @@
-Phellinus acifer (Y.C. Dai) T. Hatt. SPECIES
-=======
+# Phellinus acifer (Y.C. Dai) T. Hatt. SPECIES
 
 #### Status
 ACCEPTED

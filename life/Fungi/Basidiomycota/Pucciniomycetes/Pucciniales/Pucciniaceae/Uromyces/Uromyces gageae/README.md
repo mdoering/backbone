@@ -1,5 +1,4 @@
-Uromyces gageae Beck, 1880 SPECIES
-=======
+# Uromyces gageae Beck, 1880 SPECIES
 
 #### Status
 ACCEPTED

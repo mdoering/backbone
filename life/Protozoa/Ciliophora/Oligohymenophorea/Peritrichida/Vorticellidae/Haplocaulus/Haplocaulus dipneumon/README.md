@@ -1,5 +1,4 @@
-Haplocaulus dipneumon (Penard, 1922) Stiller, 1971 SPECIES
-=======
+# Haplocaulus dipneumon (Penard, 1922) Stiller, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubercularia sessilis Sacc. SPECIES
-=======
+# Tubercularia sessilis Sacc. SPECIES
 
 #### Status
 ACCEPTED

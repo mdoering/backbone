@@ -1,5 +1,4 @@
-Candida takamatsuzukensis Nagats., Kiyuna, Kigawa & Sugiy. SPECIES
-=======
+# Candida takamatsuzukensis Nagats., Kiyuna, Kigawa & Sugiy. SPECIES
 
 #### Status
 ACCEPTED

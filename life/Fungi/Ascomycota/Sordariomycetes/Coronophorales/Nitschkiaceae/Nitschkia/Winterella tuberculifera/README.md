@@ -1,5 +1,4 @@
-Winterella tuberculifera (Ellis & Everh.) Berl. SPECIES
-=======
+# Winterella tuberculifera (Ellis & Everh.) Berl. SPECIES
 
 #### Status
 ACCEPTED

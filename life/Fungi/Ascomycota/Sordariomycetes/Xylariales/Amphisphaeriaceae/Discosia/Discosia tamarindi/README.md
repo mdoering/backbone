@@ -1,17 +1,16 @@
-Discosia tamarindii Phadke & V.G. Rao SPECIES
-=======
+# Discosia tamarindi Phadke & V.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Maharashtra Vidnyan Mandir, Patrika 12(2): 66 (1977)
 
 #### Original name
-Discosia tamarindii Phadke & V.G. Rao
+Discosia tamarindi Phadke & V.G. Rao
 
 ### Remarks
 null

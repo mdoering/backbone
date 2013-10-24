@@ -1,5 +1,4 @@
-Phyllosticta laburnicola Sacc. SPECIES
-=======
+# Phyllosticta laburnicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

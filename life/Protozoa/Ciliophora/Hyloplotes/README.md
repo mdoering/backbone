@@ -1,5 +1,4 @@
-Hyloplotes GENUS
-=======
+# Hyloplotes GENUS
 
 #### Status
 ACCEPTED

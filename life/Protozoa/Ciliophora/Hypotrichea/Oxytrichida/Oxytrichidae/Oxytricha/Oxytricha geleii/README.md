@@ -1,8 +1,7 @@
-Holosticha geleii Wilbert, 1986 SPECIES
-=======
+# Oxytricha geleii (Wilbert, 1986) Berger, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

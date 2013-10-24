@@ -1,5 +1,4 @@
-Dendromyces carpini Paulet SPECIES
-=======
+# Dendromyces carpini Paulet SPECIES
 
 #### Status
 ACCEPTED

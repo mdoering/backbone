@@ -1,8 +1,7 @@
-Gregarina annulata Greeff, 1885 SPECIES
-=======
+# Selenidium annulatum (Greeff, 1885) Levine, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

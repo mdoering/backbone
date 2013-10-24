@@ -1,5 +1,4 @@
-Schismatomma cupressum Herre SPECIES
-=======
+# Schismatomma cupressum Herre SPECIES
 
 #### Status
 ACCEPTED

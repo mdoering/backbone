@@ -1,5 +1,4 @@
-Rynchogromia Rhumbler, 1894 GENUS
-=======
+# Rynchogromia Rhumbler, 1894 GENUS
 
 #### Status
 ACCEPTED

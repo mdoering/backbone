@@ -1,5 +1,4 @@
-Gloniella lapponica (P. Karst.) Sacc. SPECIES
-=======
+# Gloniella lapponica (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

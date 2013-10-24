@@ -1,5 +1,4 @@
-Helvella agariciformis Bolton SPECIES
-=======
+# Helvella agariciformis Bolton SPECIES
 
 #### Status
 ACCEPTED

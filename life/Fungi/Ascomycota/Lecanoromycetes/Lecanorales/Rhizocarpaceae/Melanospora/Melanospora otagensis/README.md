@@ -1,5 +1,4 @@
-Melanospora otagensis Linds. SPECIES
-=======
+# Melanospora otagensis Linds. SPECIES
 
 #### Status
 ACCEPTED

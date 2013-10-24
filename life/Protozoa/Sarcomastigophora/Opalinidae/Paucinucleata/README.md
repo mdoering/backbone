@@ -1,5 +1,4 @@
-Paucinucleata Amaro, 1966 GENUS
-=======
+# Paucinucleata Amaro, 1966 GENUS
 
 #### Status
 ACCEPTED

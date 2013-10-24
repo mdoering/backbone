@@ -1,5 +1,4 @@
-Verrucaria tigrina Hoffm. SPECIES
-=======
+# Verrucaria tigrina Hoffm. SPECIES
 
 #### Status
 ACCEPTED

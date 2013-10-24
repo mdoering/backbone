@@ -1,5 +1,4 @@
-Passalora macarangae S.K. Singh, P.N. Singh & P. Mishra SPECIES
-=======
+# Passalora macarangae S.K. Singh, P.N. Singh & P. Mishra SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aphanostigme phragmitis Hansf. SPECIES
-=======
+# Aphanostigme phragmitis Hansf. SPECIES
 
 #### Status
 ACCEPTED

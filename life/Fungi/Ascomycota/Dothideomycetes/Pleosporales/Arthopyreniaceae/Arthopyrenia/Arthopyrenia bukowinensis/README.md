@@ -1,5 +1,4 @@
-Arthopyrenia bukowinensis (Makar.) Tomin SPECIES
-=======
+# Arthopyrenia bukowinensis (Makar.) Tomin SPECIES
 
 #### Status
 ACCEPTED

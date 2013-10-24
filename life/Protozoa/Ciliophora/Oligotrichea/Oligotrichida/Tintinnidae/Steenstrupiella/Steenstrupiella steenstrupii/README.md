@@ -1,8 +1,7 @@
-Amphorella steenstrupii Daday, 1887 SPECIES
-=======
+# Steenstrupiella steenstrupii (Claparède & Lachmann, 1858) Kofoid & Campbell, 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

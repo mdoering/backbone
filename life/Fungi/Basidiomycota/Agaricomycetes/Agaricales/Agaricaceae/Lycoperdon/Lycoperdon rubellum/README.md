@@ -1,5 +1,4 @@
-Lycoperdon rubellum Berk. & M.A. Curtis SPECIES
-=======
+# Lycoperdon rubellum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dubiocarpon tabulatum (Will.) S.A. Hutch. SPECIES
-=======
+# Dubiocarpon tabulatum (Will.) S.A. Hutch. SPECIES
 
 #### Status
 ACCEPTED

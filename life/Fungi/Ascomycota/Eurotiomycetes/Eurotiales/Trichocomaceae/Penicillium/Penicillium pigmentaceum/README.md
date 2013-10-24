@@ -1,5 +1,4 @@
-Penicillium pigmentaceum Raillo SPECIES
-=======
+# Penicillium pigmentaceum Raillo SPECIES
 
 #### Status
 ACCEPTED

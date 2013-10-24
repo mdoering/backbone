@@ -1,5 +1,4 @@
-Graphis labuana (Nyl.) Vain. SPECIES
-=======
+# Graphis labuana (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

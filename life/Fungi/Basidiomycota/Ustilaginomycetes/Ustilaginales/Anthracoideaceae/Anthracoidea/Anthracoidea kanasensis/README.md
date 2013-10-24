@@ -1,5 +1,4 @@
-Anthracoidea kanasensis H.C. Zhang & L. Guo SPECIES
-=======
+# Anthracoidea kanasensis H.C. Zhang & L. Guo SPECIES
 
 #### Status
 ACCEPTED

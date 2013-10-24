@@ -1,5 +1,4 @@
-Peziza cruenta Bong. SPECIES
-=======
+# Peziza cruenta Bong. SPECIES
 
 #### Status
 ACCEPTED

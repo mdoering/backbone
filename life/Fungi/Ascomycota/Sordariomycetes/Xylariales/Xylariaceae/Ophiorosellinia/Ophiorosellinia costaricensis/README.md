@@ -1,5 +1,4 @@
-Ophiorosellinia costaricensis J.D. Rogers, A. Hidalgo, F.A. Fernández & Huhndorf, 2004 SPECIES
-=======
+# Ophiorosellinia costaricensis J.D. Rogers, A. Hidalgo, F.A. Fernández & Huhndorf, 2004 SPECIES
 
 #### Status
 ACCEPTED

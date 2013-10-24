@@ -1,5 +1,4 @@
-Hypoxylon julii (Fabre) P.M.D. Martin SPECIES
-=======
+# Hypoxylon julii (Fabre) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

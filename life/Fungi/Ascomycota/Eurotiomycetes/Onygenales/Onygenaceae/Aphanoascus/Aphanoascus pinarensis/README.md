@@ -1,5 +1,4 @@
-Aphanoascus pinarensis Cano & Guarro, 2002 SPECIES
-=======
+# Aphanoascus pinarensis Cano & Guarro, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola livistonae var. livistonae VARIETY
-=======
+# Meliola livistonae H.S. Yates SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Meliola livistonae var. livistonae
+Meliola livistonae H.S. Yates
 
 ### Remarks
 null

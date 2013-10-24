@@ -1,5 +1,4 @@
-Triporisporites minutus Hammen SPECIES
-=======
+# Triporisporites minutus Hammen SPECIES
 
 #### Status
 ACCEPTED

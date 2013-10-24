@@ -1,5 +1,4 @@
-Anaptychia multiciliata Kurok. SPECIES
-=======
+# Anaptychia multiciliata Kurok. SPECIES
 
 #### Status
 ACCEPTED

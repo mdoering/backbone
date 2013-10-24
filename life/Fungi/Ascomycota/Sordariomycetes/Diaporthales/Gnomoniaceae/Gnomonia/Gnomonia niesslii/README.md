@@ -1,5 +1,4 @@
-Gnomonia niesslii Auersw. SPECIES
-=======
+# Gnomonia niesslii Auersw. SPECIES
 
 #### Status
 ACCEPTED

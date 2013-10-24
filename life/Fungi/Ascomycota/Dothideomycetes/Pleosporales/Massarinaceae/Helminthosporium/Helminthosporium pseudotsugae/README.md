@@ -1,17 +1,16 @@
-Helmisporium pseudotsugae W.B. Cooke SPECIES
-=======
+# Helminthosporium pseudotsugae W.B. Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 44(2): 251 (1952)
 
 #### Original name
-Helmisporium pseudotsugae W.B. Cooke
+Helminthosporium pseudotsugae W.B. Cooke
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Diplodiella caricae Tognini SPECIES
-=======
+# Diplodiella caricae Tognini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptoniella acericola Murrill SPECIES
-=======
+# Leptoniella acericola Murrill SPECIES
 
 #### Status
 ACCEPTED

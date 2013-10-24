@@ -1,5 +1,4 @@
-Vermiculariopsiella elegans Kesh. Prasad, D'Souza & Bhat SPECIES
-=======
+# Vermiculariopsiella elegans Kesh. Prasad, D'Souza & Bhat SPECIES
 
 #### Status
 ACCEPTED

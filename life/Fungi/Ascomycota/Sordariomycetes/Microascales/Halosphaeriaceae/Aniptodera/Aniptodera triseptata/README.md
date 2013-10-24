@@ -1,5 +1,4 @@
-Aniptodera triseptata K.D. Hyde SPECIES
-=======
+# Aniptodera triseptata K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

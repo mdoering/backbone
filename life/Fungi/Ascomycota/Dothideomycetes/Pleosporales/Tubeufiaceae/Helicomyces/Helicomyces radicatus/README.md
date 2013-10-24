@@ -1,5 +1,4 @@
-Helicomyces radicatus Teng SPECIES
-=======
+# Helicomyces radicatus Teng SPECIES
 
 #### Status
 ACCEPTED

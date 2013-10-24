@@ -1,5 +1,4 @@
-Calvatia hungarica Hollós SPECIES
-=======
+# Calvatia hungarica Hollós SPECIES
 
 #### Status
 ACCEPTED

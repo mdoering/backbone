@@ -1,5 +1,4 @@
-Amphisolenia brevicaudata Kofoid SPECIES
-=======
+# Amphisolenia brevicaudata Kofoid SPECIES
 
 #### Status
 ACCEPTED

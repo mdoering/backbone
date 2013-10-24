@@ -1,5 +1,4 @@
-Cryptococcus corsellii Neveu-Lem. SPECIES
-=======
+# Cryptococcus corsellii Neveu-Lem. SPECIES
 
 #### Status
 ACCEPTED

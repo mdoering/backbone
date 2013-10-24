@@ -1,5 +1,4 @@
-Methanobrevibacter cuticularis Leadbetter & Breznak, 1997 SPECIES
-=======
+# Methanobrevibacter cuticularis Leadbetter & Breznak, 1997 SPECIES
 
 #### Status
 ACCEPTED

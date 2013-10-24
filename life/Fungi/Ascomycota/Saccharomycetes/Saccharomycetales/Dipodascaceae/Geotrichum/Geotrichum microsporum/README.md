@@ -1,5 +1,4 @@
-Geotrichum microsporum G. Sm. SPECIES
-=======
+# Geotrichum microsporum G. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces teheranicus Petr. SPECIES
-=======
+# Uromyces teheranicus Petr. SPECIES
 
 #### Status
 ACCEPTED

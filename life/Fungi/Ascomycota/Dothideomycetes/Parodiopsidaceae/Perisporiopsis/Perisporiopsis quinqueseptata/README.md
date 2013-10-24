@@ -1,5 +1,4 @@
-Perisporiopsis quinqueseptata Katum. & Y. Harada SPECIES
-=======
+# Perisporiopsis quinqueseptata Katum. & Y. Harada SPECIES
 
 #### Status
 ACCEPTED

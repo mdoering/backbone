@@ -1,5 +1,4 @@
-Anthracothecium denudatum (Nyl.) Müll. Arg. SPECIES
-=======
+# Anthracothecium denudatum (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

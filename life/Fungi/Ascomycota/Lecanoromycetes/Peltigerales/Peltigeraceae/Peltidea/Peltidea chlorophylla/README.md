@@ -1,5 +1,4 @@
-Peltidea chlorophylla (Willd.) Ach. SPECIES
-=======
+# Peltidea chlorophylla (Willd.) Ach. SPECIES
 
 #### Status
 ACCEPTED

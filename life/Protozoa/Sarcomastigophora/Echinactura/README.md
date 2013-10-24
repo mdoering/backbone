@@ -1,5 +1,4 @@
-Echinactura Haeckel, 1887 GENUS
-=======
+# Echinactura Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

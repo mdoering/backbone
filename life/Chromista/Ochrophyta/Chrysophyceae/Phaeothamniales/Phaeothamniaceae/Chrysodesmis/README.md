@@ -1,5 +1,4 @@
-Chrysodesmis Starmach, 1970 GENUS
-=======
+# Chrysodesmis Starmach, 1970 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Verrucaria calciseda var. calciseda VARIETY
-=======
+# Bagliettoa calciseda (DC.) Gueidan & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Lamarck & de Candolle, Fl. franç. (Paris), Edn 3 2: 317 (1805)
+null
 
 #### Original name
-Verrucaria calciseda var. calciseda
+null
 
 ### Remarks
 null

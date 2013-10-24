@@ -1,5 +1,4 @@
-Stagonospora machili Sawada SPECIES
-=======
+# Stagonospora machili Sawada SPECIES
 
 #### Status
 ACCEPTED

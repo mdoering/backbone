@@ -1,5 +1,4 @@
-Rhaphidospora erythrospora Oudem. SPECIES
-=======
+# Rhaphidospora erythrospora Oudem. SPECIES
 
 #### Status
 ACCEPTED

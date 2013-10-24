@@ -1,5 +1,4 @@
-Lecidea epiiodiza Nyl. SPECIES
-=======
+# Lecidea epiiodiza Nyl. SPECIES
 
 #### Status
 ACCEPTED

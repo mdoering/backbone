@@ -1,5 +1,4 @@
-Puccinia riobambensis Jørst. SPECIES
-=======
+# Puccinia riobambensis Jørst. SPECIES
 
 #### Status
 ACCEPTED

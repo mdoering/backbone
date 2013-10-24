@@ -1,17 +1,16 @@
-Cortinarius coerulescens var. cyaneus Bres. VARIETY
-=======
+# Cortinarius cyaneus (Bres.) M.M. Moser, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Gams, Kleine Kryptogamenflora (Stuttgart), Edn 3 2b/2: 298 (1967)
 
 #### Original name
-Cortinarius coerulescens var. cyaneus Bres.
+Cortinarius caerulescens var. cyaneus Bres., 1930
 
 ### Remarks
 null

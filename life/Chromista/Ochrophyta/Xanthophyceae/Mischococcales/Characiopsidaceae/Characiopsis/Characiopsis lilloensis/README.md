@@ -1,5 +1,4 @@
-Characiopsis lilloensis Conrad SPECIES
-=======
+# Characiopsis lilloensis Conrad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Allodus megalospora Doidge SPECIES
-=======
+# Allodus megalospora Doidge SPECIES
 
 #### Status
 ACCEPTED

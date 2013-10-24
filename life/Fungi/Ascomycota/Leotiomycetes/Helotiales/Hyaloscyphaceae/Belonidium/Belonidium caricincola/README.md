@@ -1,17 +1,16 @@
-Belonidium caricincola var. holci Velen. VARIETY
-=======
+# Belonidium caricincola Rehm, 1891 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Discom. Bohem. (Prague) 404 (1934)
+Discom. 564 (1891)
 
 #### Original name
-Belonidium caricincola var. holci Velen.
+Belonidium caricincola Rehm, 1891
 
 ### Remarks
 null

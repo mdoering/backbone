@@ -1,5 +1,4 @@
-Moniliopsis foliicola (Woronin) Siemaszko, 1924 SPECIES
-=======
+# Moniliopsis foliicola (Woronin) Siemaszko, 1924 SPECIES
 
 #### Status
 ACCEPTED

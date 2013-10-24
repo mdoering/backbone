@@ -1,5 +1,4 @@
-Ascochyta kuhniae H.C. Greene SPECIES
-=======
+# Ascochyta kuhniae H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

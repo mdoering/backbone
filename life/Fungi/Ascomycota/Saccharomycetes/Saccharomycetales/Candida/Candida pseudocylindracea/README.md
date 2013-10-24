@@ -1,5 +1,4 @@
-Candida pseudocylindracea F.Y. Bai & Chen Wang bis SPECIES
-=======
+# Candida pseudocylindracea F.Y. Bai & Chen Wang bis SPECIES
 
 #### Status
 ACCEPTED

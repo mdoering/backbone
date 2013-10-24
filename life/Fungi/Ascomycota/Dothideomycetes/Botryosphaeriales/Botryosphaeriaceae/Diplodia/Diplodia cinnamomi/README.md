@@ -1,5 +1,4 @@
-Diplodia cinnamomi Sousa da Câmara SPECIES
-=======
+# Diplodia cinnamomi Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptococcus mucorugosus Benham SPECIES
-=======
+# Cryptococcus mucorugosus Benham SPECIES
 
 #### Status
 ACCEPTED

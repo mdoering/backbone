@@ -1,5 +1,4 @@
-Spirulina gordiana P. González SPECIES
-=======
+# Spirulina gordiana P. González SPECIES
 
 #### Status
 ACCEPTED

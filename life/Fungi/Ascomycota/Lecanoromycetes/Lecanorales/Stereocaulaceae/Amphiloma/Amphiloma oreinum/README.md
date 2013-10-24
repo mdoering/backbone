@@ -1,5 +1,4 @@
-Amphiloma oreinum SPECIES
-=======
+# Amphiloma oreinum SPECIES
 
 #### Status
 ACCEPTED

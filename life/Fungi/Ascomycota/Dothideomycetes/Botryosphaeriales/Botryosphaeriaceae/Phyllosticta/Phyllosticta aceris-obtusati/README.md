@@ -1,5 +1,4 @@
-Phyllosticta aceris-obtusati Moesz SPECIES
-=======
+# Phyllosticta aceris-obtusati Moesz SPECIES
 
 #### Status
 ACCEPTED

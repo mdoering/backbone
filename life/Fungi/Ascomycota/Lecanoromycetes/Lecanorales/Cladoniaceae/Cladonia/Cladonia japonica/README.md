@@ -1,5 +1,4 @@
-Cladonia japonica var. japonica VARIETY
-=======
+# Cladonia japonica Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia japonica var. japonica
+Cladonia japonica Vain.
 
 ### Remarks
 null

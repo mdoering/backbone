@@ -1,5 +1,4 @@
-Dermatocarpon rhizinosum M. Choisy SPECIES
-=======
+# Dermatocarpon rhizinosum M. Choisy SPECIES
 
 #### Status
 ACCEPTED

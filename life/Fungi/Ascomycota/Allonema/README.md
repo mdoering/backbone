@@ -1,5 +1,4 @@
-Allonema Sydow, 1934 GENUS
-=======
+# Allonema Sydow, 1934 GENUS
 
 #### Status
 ACCEPTED

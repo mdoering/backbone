@@ -1,5 +1,4 @@
-Psathyrella sepulchralis Singer, A.H. Sm. & Guzmán SPECIES
-=======
+# Psathyrella sepulchralis Singer, A.H. Sm. & Guzmán SPECIES
 
 #### Status
 ACCEPTED

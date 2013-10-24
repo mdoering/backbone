@@ -1,5 +1,4 @@
-Toriyamaia Kanmera, 1956 GENUS
-=======
+# Toriyamaia Kanmera, 1956 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycoperdon cupreum Velen. SPECIES
-=======
+# Lycoperdon cupreum Velen. SPECIES
 
 #### Status
 ACCEPTED

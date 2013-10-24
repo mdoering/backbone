@@ -1,5 +1,4 @@
-Aposphaeria herbicola Ellis & Everh. SPECIES
-=======
+# Aposphaeria herbicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

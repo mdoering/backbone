@@ -1,5 +1,4 @@
-Erysiphe howeana U. Braun, 1982 SPECIES
-=======
+# Erysiphe howeana U. Braun, 1982 SPECIES
 
 #### Status
 ACCEPTED

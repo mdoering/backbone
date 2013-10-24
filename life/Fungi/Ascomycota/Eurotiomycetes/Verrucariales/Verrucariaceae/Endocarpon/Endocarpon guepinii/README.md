@@ -1,5 +1,4 @@
-Endocarpon guepinii Delise SPECIES
-=======
+# Endocarpon guepinii Delise SPECIES
 
 #### Status
 ACCEPTED

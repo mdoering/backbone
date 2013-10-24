@@ -1,5 +1,4 @@
-Inocybe suboreina Moënne-Locc., Poirier & Reumaux SPECIES
-=======
+# Inocybe suboreina Moënne-Locc., Poirier & Reumaux SPECIES
 
 #### Status
 ACCEPTED

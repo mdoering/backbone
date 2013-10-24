@@ -1,5 +1,4 @@
-Lepiota rufovelutina var. rufovelutina VARIETY
-=======
+# Lepiota rufovelutina Velen. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Novitates Mycologicae 217 (1939)
 
 #### Original name
-Lepiota rufovelutina var. rufovelutina
+Lepiota rufovelutina Velen.
 
 ### Remarks
 null

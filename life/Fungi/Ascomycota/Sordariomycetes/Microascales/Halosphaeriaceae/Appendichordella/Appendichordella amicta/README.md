@@ -1,14 +1,13 @@
-Haligena amicta (Kohlm.) Kohlm. & E. Kohlm., 1979 SPECIES
-=======
+# Appendichordella amicta (Kohlm.) R.G. Johnson, E.B.G. Jones & S.T. Moss, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Marine Mycology, the Higher Fungi (London) 280 (1979)
+Can. J. Bot. 65(5): 941 (1987)
 
 #### Original name
 null

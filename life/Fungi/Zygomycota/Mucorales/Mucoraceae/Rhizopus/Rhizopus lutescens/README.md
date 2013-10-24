@@ -1,5 +1,4 @@
-Rhizopus lutescens (Link) Naumov SPECIES
-=======
+# Rhizopus lutescens (Link) Naumov SPECIES
 
 #### Status
 ACCEPTED

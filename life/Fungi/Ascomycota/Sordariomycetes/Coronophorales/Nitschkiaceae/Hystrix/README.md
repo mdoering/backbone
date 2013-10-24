@@ -1,5 +1,4 @@
-Hystrix GENUS
-=======
+# Hystrix GENUS
 
 #### Status
 ACCEPTED

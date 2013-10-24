@@ -1,5 +1,4 @@
-Fomes lauterbachii Henn. SPECIES
-=======
+# Fomes lauterbachii Henn. SPECIES
 
 #### Status
 ACCEPTED

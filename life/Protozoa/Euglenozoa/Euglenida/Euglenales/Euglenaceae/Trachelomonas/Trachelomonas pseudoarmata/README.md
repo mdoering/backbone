@@ -1,5 +1,4 @@
-Trachelomonas pseudoarmata Deflandre SPECIES
-=======
+# Trachelomonas pseudoarmata Deflandre SPECIES
 
 #### Status
 ACCEPTED

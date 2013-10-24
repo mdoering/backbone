@@ -1,5 +1,4 @@
-Thelocarpon albomarginatum Herre SPECIES
-=======
+# Thelocarpon albomarginatum Herre SPECIES
 
 #### Status
 ACCEPTED

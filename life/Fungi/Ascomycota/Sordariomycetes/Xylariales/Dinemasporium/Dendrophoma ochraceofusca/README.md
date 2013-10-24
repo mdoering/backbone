@@ -1,5 +1,4 @@
-Dendrophoma ochraceofusca Sacc. SPECIES
-=======
+# Dendrophoma ochraceofusca Sacc. SPECIES
 
 #### Status
 ACCEPTED

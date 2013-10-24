@@ -1,17 +1,16 @@
-Agaricus umkowaanii Cooke & Massee SPECIES
-=======
+# Termitomyces umkowaan (Cooke & Massee) D.A. Reid, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Contr. Bolus Herb. 7: 118 (1975)
 
 #### Original name
-Agaricus umkowaanii Cooke & Massee
+Agaricus umkowaan Cooke & Massee, 1889
 
 ### Remarks
 null

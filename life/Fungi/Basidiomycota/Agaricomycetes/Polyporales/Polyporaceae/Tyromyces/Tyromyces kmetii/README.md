@@ -1,14 +1,13 @@
-Polyporus kmetii Bres., 1897 SPECIES
-=======
+# Tyromyces kmetii (Bres.) Bondartsev & Singer, 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Acad. Agiato Rovereto 3: 70 (1897)
+Annls mycol. 39(1): 52 (1941)
 
 #### Original name
 Polyporus kmetii Bres., 1897

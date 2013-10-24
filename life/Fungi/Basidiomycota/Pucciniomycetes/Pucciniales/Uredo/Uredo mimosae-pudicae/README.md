@@ -1,5 +1,4 @@
-Uredo mimosae-pudicae (F. Kern, Thurst. & Whetzel) Buriticá SPECIES
-=======
+# Uredo mimosae-pudicae (F. Kern, Thurst. & Whetzel) Buriticá SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptosporella ilicis Fabre SPECIES
-=======
+# Cryptosporella ilicis Fabre SPECIES
 
 #### Status
 ACCEPTED

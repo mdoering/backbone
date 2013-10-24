@@ -1,5 +1,4 @@
-Sporisorium fallax R.G. Shivas & Cunningt. SPECIES
-=======
+# Sporisorium fallax R.G. Shivas & Cunningt. SPECIES
 
 #### Status
 ACCEPTED

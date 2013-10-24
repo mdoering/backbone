@@ -1,5 +1,4 @@
-Phacus curvicauda Svirenko, 1915 SPECIES
-=======
+# Phacus curvicauda Svirenko, 1915 SPECIES
 
 #### Status
 ACCEPTED

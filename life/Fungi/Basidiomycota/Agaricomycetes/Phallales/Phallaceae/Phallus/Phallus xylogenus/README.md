@@ -1,5 +1,4 @@
-Phallus xylogenus Mont. SPECIES
-=======
+# Phallus xylogenus Mont. SPECIES
 
 #### Status
 ACCEPTED

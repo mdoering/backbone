@@ -1,5 +1,4 @@
-Puccinia granularis Kalchbr. & Cooke SPECIES
-=======
+# Puccinia granularis Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

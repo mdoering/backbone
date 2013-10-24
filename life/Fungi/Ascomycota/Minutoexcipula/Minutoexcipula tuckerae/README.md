@@ -1,5 +1,4 @@
-Minutoexcipula tuckerae V. Atienza & D. Hawksw., 1994 SPECIES
-=======
+# Minutoexcipula tuckerae V. Atienza & D. Hawksw., 1994 SPECIES
 
 #### Status
 ACCEPTED

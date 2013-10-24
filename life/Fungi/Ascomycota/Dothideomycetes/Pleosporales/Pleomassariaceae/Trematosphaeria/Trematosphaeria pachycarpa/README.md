@@ -1,5 +1,4 @@
-Trematosphaeria pachycarpa (Sacc. & Marchal) Shoemaker & C.E. Babc. SPECIES
-=======
+# Trematosphaeria pachycarpa (Sacc. & Marchal) Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

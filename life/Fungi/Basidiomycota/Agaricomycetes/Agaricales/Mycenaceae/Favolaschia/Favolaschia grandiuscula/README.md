@@ -1,5 +1,4 @@
-Favolaschia grandiuscula Syd. SPECIES
-=======
+# Favolaschia grandiuscula Syd. SPECIES
 
 #### Status
 ACCEPTED

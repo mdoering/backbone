@@ -1,5 +1,4 @@
-Macrophoma achyranthis Tassi SPECIES
-=======
+# Macrophoma achyranthis Tassi SPECIES
 
 #### Status
 ACCEPTED

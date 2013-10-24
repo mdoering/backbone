@@ -1,14 +1,13 @@
-Rupertianella Loeblich & Tappan, 1985 GENUS
-=======
+# Edentostomina Collins, 1958 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-null
+Scient. Rep. Gt Barrier Reef Exped. 6: 371.
 
 #### Original name
 null

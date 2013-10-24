@@ -1,5 +1,4 @@
-Tremella cephalodiicola Diederich SPECIES
-=======
+# Tremella cephalodiicola Diederich SPECIES
 
 #### Status
 ACCEPTED

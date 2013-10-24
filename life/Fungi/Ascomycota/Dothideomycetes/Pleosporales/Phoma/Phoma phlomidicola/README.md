@@ -1,5 +1,4 @@
-Phoma phlomidicola Moesz SPECIES
-=======
+# Phoma phlomidicola Moesz SPECIES
 
 #### Status
 ACCEPTED

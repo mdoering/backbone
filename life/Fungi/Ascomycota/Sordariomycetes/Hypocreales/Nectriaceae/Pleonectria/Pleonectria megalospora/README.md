@@ -1,5 +1,4 @@
-Pleonectria megalospora Speg. SPECIES
-=======
+# Pleonectria megalospora Speg. SPECIES
 
 #### Status
 ACCEPTED

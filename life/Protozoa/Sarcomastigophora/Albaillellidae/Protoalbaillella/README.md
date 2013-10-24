@@ -1,5 +1,4 @@
-Protoalbaillella Cheng, 1986 GENUS
-=======
+# Protoalbaillella Cheng, 1986 GENUS
 
 #### Status
 ACCEPTED

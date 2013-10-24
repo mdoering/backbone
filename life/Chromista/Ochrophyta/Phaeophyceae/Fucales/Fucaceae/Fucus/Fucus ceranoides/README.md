@@ -1,5 +1,4 @@
-Fucus ceranoides var. harveyanus Kjellman VARIETY
-=======
+# Fucus ceranoides Linnaeus SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Linnaeus, C. (1753). Species plantarum, exhibentes plantas rite cognitas ad genera relatas cum differentiis specificis, nominibus trivialibus, synonymis selectis, locis natalibus, secundum systema sexuale digestas. Stockholm.
 
 #### Original name
 null

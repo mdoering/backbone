@@ -1,5 +1,4 @@
-Aspergillus amoenus M. Roberg SPECIES
-=======
+# Aspergillus amoenus M. Roberg SPECIES
 
 #### Status
 ACCEPTED

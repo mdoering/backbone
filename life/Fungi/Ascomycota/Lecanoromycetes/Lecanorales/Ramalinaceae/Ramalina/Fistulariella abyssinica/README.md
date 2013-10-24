@@ -1,5 +1,4 @@
-Fistulariella abyssinica (Nyl.) Bowler & Rundel SPECIES
-=======
+# Fistulariella abyssinica (Nyl.) Bowler & Rundel SPECIES
 
 #### Status
 ACCEPTED

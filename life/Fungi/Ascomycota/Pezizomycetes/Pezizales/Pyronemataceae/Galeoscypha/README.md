@@ -1,5 +1,4 @@
-Galeoscypha Svrcek & J. Moravec GENUS
-=======
+# Galeoscypha Svrcek & J. Moravec GENUS
 
 #### Status
 ACCEPTED

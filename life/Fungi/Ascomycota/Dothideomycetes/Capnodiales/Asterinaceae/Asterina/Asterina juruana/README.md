@@ -1,5 +1,4 @@
-Asterina juruana (Henn.) Theiss. SPECIES
-=======
+# Asterina juruana (Henn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

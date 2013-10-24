@@ -1,5 +1,4 @@
-Gymnopilus tomentulosus B.J. Rees SPECIES
-=======
+# Gymnopilus tomentulosus B.J. Rees SPECIES
 
 #### Status
 ACCEPTED

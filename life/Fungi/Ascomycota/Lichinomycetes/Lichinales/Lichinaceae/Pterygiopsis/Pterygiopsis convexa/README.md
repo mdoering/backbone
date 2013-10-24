@@ -1,5 +1,4 @@
-Pterygiopsis convexa Henssen, Büdel & Wessels SPECIES
-=======
+# Pterygiopsis convexa Henssen, Büdel & Wessels SPECIES
 
 #### Status
 ACCEPTED

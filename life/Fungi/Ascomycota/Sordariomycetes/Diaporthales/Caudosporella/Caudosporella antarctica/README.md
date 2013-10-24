@@ -1,5 +1,4 @@
-Caudosporella antarctica (Speg.) Höhn. SPECIES
-=======
+# Caudosporella antarctica (Speg.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

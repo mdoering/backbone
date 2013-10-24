@@ -1,5 +1,4 @@
-Bacidia niveocincta G. Merr. ex Zahlbr. SPECIES
-=======
+# Bacidia niveocincta G. Merr. ex Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

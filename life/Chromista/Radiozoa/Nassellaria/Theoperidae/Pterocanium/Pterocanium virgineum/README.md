@@ -1,5 +1,4 @@
-Pterocanium virgineum Haeckel SPECIES
-=======
+# Pterocanium virgineum Haeckel SPECIES
 
 #### Status
 ACCEPTED

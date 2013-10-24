@@ -1,5 +1,4 @@
-Rhodophyllus mexicanus Guzmán SPECIES
-=======
+# Rhodophyllus mexicanus Guzmán SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Peniophora ralla H.S. Jacks., 1948 SPECIES
-=======
+# Subulicium rallum (H.S. Jacks.) Jülich & Stalpers, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Canadian Journal of Research, Section C 26: 136 (1948)
+Verh. K. ned. Akad. Wet. , 2 Sectie 74: 223 (1980)
 
 #### Original name
 Peniophora ralla H.S. Jacks., 1948

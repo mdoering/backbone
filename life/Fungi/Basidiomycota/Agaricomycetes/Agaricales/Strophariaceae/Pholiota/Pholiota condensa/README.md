@@ -1,5 +1,4 @@
-Pholiota condensa (Peck) A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota condensa (Peck) A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

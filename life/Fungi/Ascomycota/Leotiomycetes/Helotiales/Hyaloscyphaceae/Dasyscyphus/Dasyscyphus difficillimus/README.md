@@ -1,14 +1,13 @@
-Dasyscypha difficillimus (Höhn.) Le Gal SPECIES
-=======
+# Dasyscyphus difficillimus (Höhn.) Le Gal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Les Discomycetes de Madagascar 372 (1953)
 
 #### Original name
 Dasyscyphella difficillima Höhn.

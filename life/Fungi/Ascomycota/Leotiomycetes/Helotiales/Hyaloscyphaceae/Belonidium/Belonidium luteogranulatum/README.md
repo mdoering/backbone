@@ -1,5 +1,4 @@
-Belonidium luteogranulatum (J.H. Haines & M.P. Sharma) J.H. Haines & M.P. Sharma SPECIES
-=======
+# Belonidium luteogranulatum (J.H. Haines & M.P. Sharma) J.H. Haines & M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

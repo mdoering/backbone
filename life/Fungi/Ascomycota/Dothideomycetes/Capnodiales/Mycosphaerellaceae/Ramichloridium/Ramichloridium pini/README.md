@@ -1,5 +1,4 @@
-Ramichloridium pini de Hoog & Rahman, 1983 SPECIES
-=======
+# Ramichloridium pini de Hoog & Rahman, 1983 SPECIES
 
 #### Status
 ACCEPTED

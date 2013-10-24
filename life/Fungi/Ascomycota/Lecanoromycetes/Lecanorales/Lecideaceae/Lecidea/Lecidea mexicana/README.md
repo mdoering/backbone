@@ -1,5 +1,4 @@
-Lecidea mexicana (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Lecidea mexicana (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

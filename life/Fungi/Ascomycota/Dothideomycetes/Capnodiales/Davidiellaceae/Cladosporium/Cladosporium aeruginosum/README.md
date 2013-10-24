@@ -1,5 +1,4 @@
-Cladosporium aeruginosum F. Patt. SPECIES
-=======
+# Cladosporium aeruginosum F. Patt. SPECIES
 
 #### Status
 ACCEPTED

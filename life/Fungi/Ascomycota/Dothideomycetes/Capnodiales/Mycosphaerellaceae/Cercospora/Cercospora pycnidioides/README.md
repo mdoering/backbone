@@ -1,5 +1,4 @@
-Cercospora pycnidioides Chupp SPECIES
-=======
+# Cercospora pycnidioides Chupp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Agaricus integrellus var. integrellus VARIETY
-=======
+# Delicatula integrella (Pers.) Fayod, 1889 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 7 9: 313 (1889)
 
 #### Original name
-Agaricus integrellus var. integrellus
+Agaricus integrellus Pers., 1800
 
 ### Remarks
 null

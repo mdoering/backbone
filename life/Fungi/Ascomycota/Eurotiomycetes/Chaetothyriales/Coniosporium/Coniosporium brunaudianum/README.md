@@ -1,5 +1,4 @@
-Coniosporium brunaudianum (Thüm.) Sacc. SPECIES
-=======
+# Coniosporium brunaudianum (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

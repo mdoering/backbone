@@ -1,5 +1,4 @@
-Pertusaria debazaci Werner SPECIES
-=======
+# Pertusaria debazaci Werner SPECIES
 
 #### Status
 ACCEPTED

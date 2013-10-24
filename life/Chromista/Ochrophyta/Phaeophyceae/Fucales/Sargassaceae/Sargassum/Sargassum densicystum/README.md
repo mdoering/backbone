@@ -1,5 +1,4 @@
-Sargassum densicystum Tseng & Lu SPECIES
-=======
+# Sargassum densicystum Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

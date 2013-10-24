@@ -1,5 +1,4 @@
-Ramularia rhabdospora (Berk. & Broome) Nannf., 1950 SPECIES
-=======
+# Ramularia rhabdospora (Berk. & Broome) Nannf., 1950 SPECIES
 
 #### Status
 ACCEPTED

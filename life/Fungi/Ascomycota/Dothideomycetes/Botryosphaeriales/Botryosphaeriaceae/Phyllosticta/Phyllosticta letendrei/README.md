@@ -1,5 +1,4 @@
-Phyllosticta letendrei (Sacc.) Allescher in G. Winter SPECIES
-=======
+# Phyllosticta letendrei (Sacc.) Allescher in G. Winter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Callopisma ferruginosum (Tuck.) Malme SPECIES
-=======
+# Callopisma ferruginosum (Tuck.) Malme SPECIES
 
 #### Status
 ACCEPTED

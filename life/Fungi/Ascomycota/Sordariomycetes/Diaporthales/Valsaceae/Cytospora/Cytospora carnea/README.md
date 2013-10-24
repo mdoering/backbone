@@ -1,5 +1,4 @@
-Cytospora carnea Ellis & Everh. SPECIES
-=======
+# Cytospora carnea Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

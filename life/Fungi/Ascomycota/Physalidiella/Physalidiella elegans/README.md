@@ -1,14 +1,13 @@
-Physalidium elegans Luppi Mosca, 1965 SPECIES
-=======
+# Physalidiella elegans (Mosca) Rulamort, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Allionia 11: 78 (1965)
+Bull. Soc. bot. Centre-Ouest, Nouv. sér. 21: 512 (1990)
 
 #### Original name
 Physalidium elegans Luppi Mosca, 1965

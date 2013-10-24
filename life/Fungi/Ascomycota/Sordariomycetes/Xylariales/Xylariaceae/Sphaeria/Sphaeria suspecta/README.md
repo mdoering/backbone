@@ -1,5 +1,4 @@
-Sphaeria suspecta Auersw. SPECIES
-=======
+# Sphaeria suspecta Auersw. SPECIES
 
 #### Status
 ACCEPTED

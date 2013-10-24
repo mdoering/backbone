@@ -1,5 +1,4 @@
-Ellisembia turcomanica (Hol.-Jech.) W.P. Wu SPECIES
-=======
+# Ellisembia turcomanica (Hol.-Jech.) W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

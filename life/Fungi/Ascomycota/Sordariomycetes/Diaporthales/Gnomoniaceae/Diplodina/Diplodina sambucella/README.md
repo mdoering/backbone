@@ -1,5 +1,4 @@
-Diplodina sambucella (Pass.) Allesch. SPECIES
-=======
+# Diplodina sambucella (Pass.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nyctotheroides puytoraci Albaret, 1968 SPECIES
-=======
+# Nyctotheroides puytoraci Albaret, 1968 SPECIES
 
 #### Status
 ACCEPTED

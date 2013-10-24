@@ -1,5 +1,4 @@
-Pezizella viridiflavescens Rehm SPECIES
-=======
+# Pezizella viridiflavescens Rehm SPECIES
 
 #### Status
 ACCEPTED

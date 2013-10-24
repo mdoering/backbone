@@ -1,5 +1,4 @@
-Phoma oryzicola (Hara) Hara SPECIES
-=======
+# Phoma oryzicola (Hara) Hara SPECIES
 
 #### Status
 ACCEPTED

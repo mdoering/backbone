@@ -1,5 +1,4 @@
-Cercosporella cylindrospora R. Heim SPECIES
-=======
+# Cercosporella cylindrospora R. Heim SPECIES
 
 #### Status
 ACCEPTED

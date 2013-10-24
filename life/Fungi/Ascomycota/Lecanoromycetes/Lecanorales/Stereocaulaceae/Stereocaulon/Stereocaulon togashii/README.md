@@ -1,17 +1,16 @@
-Stereocaulon togashi I.M. Lamb SPECIES
-=======
+# Stereocaulon togashii I.M. Lamb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Hattori bot. Lab. 43: 278 (1977)
 
 #### Original name
-Stereocaulon togashi I.M. Lamb
+Stereocaulon togashii I.M. Lamb
 
 ### Remarks
 null

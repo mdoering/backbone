@@ -1,5 +1,4 @@
-Bigelowiella natans Moestrup SPECIES
-=======
+# Bigelowiella natans Moestrup SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterochloris mutabilis Pascher SPECIES
-=======
+# Heterochloris mutabilis Pascher SPECIES
 
 #### Status
 ACCEPTED

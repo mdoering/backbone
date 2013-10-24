@@ -1,5 +1,4 @@
-Polyactis simplex Preuss SPECIES
-=======
+# Polyactis simplex Preuss SPECIES
 
 #### Status
 ACCEPTED

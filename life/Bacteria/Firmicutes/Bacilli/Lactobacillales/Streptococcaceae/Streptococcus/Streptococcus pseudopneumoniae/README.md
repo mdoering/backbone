@@ -1,5 +1,4 @@
-Streptococcus pseudopneumoniae Arbique et al., 2005 SPECIES
-=======
+# Streptococcus pseudopneumoniae Arbique et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

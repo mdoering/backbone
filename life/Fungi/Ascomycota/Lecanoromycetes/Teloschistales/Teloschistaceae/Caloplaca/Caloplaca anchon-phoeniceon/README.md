@@ -1,5 +1,4 @@
-Caloplaca anchon-phoeniceon Werner SPECIES
-=======
+# Caloplaca anchon-phoeniceon Werner SPECIES
 
 #### Status
 ACCEPTED

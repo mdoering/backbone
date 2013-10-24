@@ -1,5 +1,4 @@
-Botryodiplodia ailanthi f. ailanthi FORM
-=======
+# Botryodiplodia ailanthi (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Botryodiplodia ailanthi f. ailanthi
+Diplodia ailanthi Cooke
 
 ### Remarks
 null

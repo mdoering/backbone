@@ -1,5 +1,4 @@
-Caespitotheca S. Takam. & U. Braun GENUS
-=======
+# Caespitotheca S. Takam. & U. Braun GENUS
 
 #### Status
 ACCEPTED

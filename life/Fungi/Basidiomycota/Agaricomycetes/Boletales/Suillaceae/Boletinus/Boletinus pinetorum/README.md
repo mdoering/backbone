@@ -1,5 +1,4 @@
-Boletinus pinetorum (W.F. Chiu) Teng SPECIES
-=======
+# Boletinus pinetorum (W.F. Chiu) Teng SPECIES
 
 #### Status
 ACCEPTED

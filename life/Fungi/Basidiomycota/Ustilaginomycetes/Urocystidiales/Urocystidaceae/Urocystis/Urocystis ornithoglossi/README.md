@@ -1,5 +1,4 @@
-Urocystis ornithoglossi (Syd.) Zundel SPECIES
-=======
+# Urocystis ornithoglossi (Syd.) Zundel SPECIES
 
 #### Status
 ACCEPTED

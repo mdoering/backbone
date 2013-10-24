@@ -1,5 +1,4 @@
-Anisomeridium aureopunctatum R.C. Harris SPECIES
-=======
+# Anisomeridium aureopunctatum R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

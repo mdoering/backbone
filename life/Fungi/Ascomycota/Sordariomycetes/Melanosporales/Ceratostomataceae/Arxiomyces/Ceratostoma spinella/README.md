@@ -1,5 +1,4 @@
-Ceratostoma spinella Kalchbr. SPECIES
-=======
+# Ceratostoma spinella Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

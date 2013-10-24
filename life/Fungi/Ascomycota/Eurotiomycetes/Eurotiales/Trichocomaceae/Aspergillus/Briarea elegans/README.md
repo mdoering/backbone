@@ -1,5 +1,4 @@
-Briarea elegans Corda SPECIES
-=======
+# Briarea elegans Corda SPECIES
 
 #### Status
 ACCEPTED

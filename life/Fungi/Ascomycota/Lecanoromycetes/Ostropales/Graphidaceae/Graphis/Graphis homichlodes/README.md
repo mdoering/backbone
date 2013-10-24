@@ -1,5 +1,4 @@
-Graphis homichlodes Redinger SPECIES
-=======
+# Graphis homichlodes Redinger SPECIES
 
 #### Status
 ACCEPTED

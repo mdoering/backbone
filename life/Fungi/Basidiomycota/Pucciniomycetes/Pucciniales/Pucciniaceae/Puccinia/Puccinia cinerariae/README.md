@@ -1,5 +1,4 @@
-Puccinia cinerariae McAlpine SPECIES
-=======
+# Puccinia cinerariae McAlpine SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tholurnomyces dissimilis Cif. & Tomas. SPECIES
-=======
+# Tholurnomyces dissimilis Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

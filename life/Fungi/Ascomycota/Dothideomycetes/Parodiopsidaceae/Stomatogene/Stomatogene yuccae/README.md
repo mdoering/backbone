@@ -1,5 +1,4 @@
-Stomatogene yuccae Hansf. SPECIES
-=======
+# Stomatogene yuccae Hansf. SPECIES
 
 #### Status
 ACCEPTED

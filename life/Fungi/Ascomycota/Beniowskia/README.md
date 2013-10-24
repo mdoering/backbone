@@ -1,17 +1,16 @@
-Clathrotrichum Pat. GENUS
-=======
+# Beniowskia Racib. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 37: 35 (1921)
+Parasit. Alg. Pilze Java's (Jakarta) 2: 37 (1900)
 
 #### Original name
-Clathrotrichum Pat.
+Beniowskia Racib.
 
 ### Remarks
 null

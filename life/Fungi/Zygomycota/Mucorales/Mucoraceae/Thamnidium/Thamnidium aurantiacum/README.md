@@ -1,5 +1,4 @@
-Thamnidium aurantiacum Krassinski {?} SPECIES
-=======
+# Thamnidium aurantiacum Krassinski {?} SPECIES
 
 #### Status
 ACCEPTED

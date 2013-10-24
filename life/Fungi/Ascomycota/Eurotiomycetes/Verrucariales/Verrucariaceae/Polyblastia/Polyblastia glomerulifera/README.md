@@ -1,5 +1,4 @@
-Polyblastia glomerulifera (A. Massal.) Jatta SPECIES
-=======
+# Polyblastia glomerulifera (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED

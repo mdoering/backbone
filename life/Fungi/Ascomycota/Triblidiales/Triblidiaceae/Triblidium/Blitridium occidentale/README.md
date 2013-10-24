@@ -1,5 +1,4 @@
-Blitridium occidentale (Earle) Sacc. & D. Sacc. SPECIES
-=======
+# Blitridium occidentale (Earle) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

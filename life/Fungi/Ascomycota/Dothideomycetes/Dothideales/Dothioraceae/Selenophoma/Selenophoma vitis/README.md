@@ -1,5 +1,4 @@
-Selenophoma vitis Frolov SPECIES
-=======
+# Selenophoma vitis Frolov SPECIES
 
 #### Status
 ACCEPTED

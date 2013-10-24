@@ -1,5 +1,4 @@
-Lycoperdon faccatum Schumach. SPECIES
-=======
+# Lycoperdon faccatum Schumach. SPECIES
 
 #### Status
 ACCEPTED

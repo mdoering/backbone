@@ -1,5 +1,4 @@
-Cylindrosporium garbowskii Vassiljevsky SPECIES
-=======
+# Cylindrosporium garbowskii Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Eutypa crouani Sacc. SPECIES
-=======
+# Eutypa crouanii Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 1: 180 (1882)
 
 #### Original name
-Eutypa crouani Sacc.
+Eutypa viticola P. Crouan & H. Crouan
 
 ### Remarks
 null

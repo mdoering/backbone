@@ -1,5 +1,4 @@
-Lecanora obsoleta Sommerf. SPECIES
-=======
+# Lecanora obsoleta Sommerf. SPECIES
 
 #### Status
 ACCEPTED

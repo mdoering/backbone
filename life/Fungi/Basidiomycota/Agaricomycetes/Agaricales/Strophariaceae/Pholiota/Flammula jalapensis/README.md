@@ -1,5 +1,4 @@
-Flammula jalapensis Murrill SPECIES
-=======
+# Flammula jalapensis Murrill SPECIES
 
 #### Status
 ACCEPTED

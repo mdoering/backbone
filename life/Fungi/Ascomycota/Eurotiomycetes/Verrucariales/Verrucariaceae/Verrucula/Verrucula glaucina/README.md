@@ -1,5 +1,4 @@
-Verrucula glaucina J. Steiner SPECIES
-=======
+# Verrucula glaucina J. Steiner SPECIES
 
 #### Status
 ACCEPTED

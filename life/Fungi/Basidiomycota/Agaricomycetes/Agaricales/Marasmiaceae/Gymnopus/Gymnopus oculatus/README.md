@@ -1,5 +1,4 @@
-Gymnopus oculatus Murrill SPECIES
-=======
+# Gymnopus oculatus Murrill SPECIES
 
 #### Status
 ACCEPTED

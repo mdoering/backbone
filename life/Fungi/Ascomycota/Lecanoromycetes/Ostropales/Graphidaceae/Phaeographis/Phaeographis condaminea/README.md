@@ -1,5 +1,4 @@
-Phaeographis condaminea anon. SPECIES
-=======
+# Phaeographis condaminea anon. SPECIES
 
 #### Status
 ACCEPTED

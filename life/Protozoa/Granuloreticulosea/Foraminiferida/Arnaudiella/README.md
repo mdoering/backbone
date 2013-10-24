@@ -1,5 +1,4 @@
-Arnaudiella Douvillé, 1907 GENUS
-=======
+# Arnaudiella Douvillé, 1907 GENUS
 
 #### Status
 ACCEPTED

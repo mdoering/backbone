@@ -1,5 +1,4 @@
-Didymotrichum caricicola (Corda) Bonord. SPECIES
-=======
+# Didymotrichum caricicola (Corda) Bonord. SPECIES
 
 #### Status
 ACCEPTED

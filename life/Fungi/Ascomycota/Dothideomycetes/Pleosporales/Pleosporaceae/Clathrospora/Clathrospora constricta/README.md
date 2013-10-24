@@ -1,5 +1,4 @@
-Clathrospora constricta Maire SPECIES
-=======
+# Clathrospora constricta Maire SPECIES
 
 #### Status
 ACCEPTED

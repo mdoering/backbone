@@ -1,5 +1,4 @@
-Eubacterium tarantellae Udey, Young & Sallman, 1977 SPECIES
-=======
+# Eubacterium tarantellae Udey, Young & Sallman, 1977 SPECIES
 
 #### Status
 ACCEPTED

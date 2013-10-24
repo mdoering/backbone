@@ -1,5 +1,4 @@
-Sphaeronaema sphaericum Preuss SPECIES
-=======
+# Sphaeronaema sphaericum Preuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Physalidium carbonis R.F. Castañeda, 1986 SPECIES
-=======
+# Physalidiopsis carbonis (R.F. Castañeda) R.F. Castañeda & W.B. Kendr., 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi Cubenses (La Habana) 13 (1986)
+Univ. Waterloo Biol. Ser. 32: 39 (1990)
 
 #### Original name
 Physalidium carbonis R.F. Castañeda, 1986

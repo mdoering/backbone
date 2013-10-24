@@ -1,5 +1,4 @@
-Mycena leaiana f. leaiana FORM
-=======
+# Mycena leaiana SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Syll. fung. (Abellini) 9: 38 (1891)
+null
 
 #### Original name
-Mycena leaiana f. leaiana
+null
 
 ### Remarks
 null

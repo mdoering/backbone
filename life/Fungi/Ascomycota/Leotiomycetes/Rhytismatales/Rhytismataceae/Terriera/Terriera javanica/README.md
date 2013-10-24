@@ -1,5 +1,4 @@
-Terriera javanica var. javanica VARIETY
-=======
+# Terriera javanica (Penz. & Sacc.) P.R. Johnst., 2001 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 176: 152 (2001)
+null
 
 #### Original name
-Lophodermium javanicum Penz. & Sacc., 1897
+null
 
 ### Remarks
 null

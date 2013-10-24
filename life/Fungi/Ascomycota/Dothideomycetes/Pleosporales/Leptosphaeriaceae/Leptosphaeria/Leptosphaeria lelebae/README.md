@@ -1,5 +1,4 @@
-Leptosphaeria lelebae I. Hino & Katum. SPECIES
-=======
+# Leptosphaeria lelebae I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

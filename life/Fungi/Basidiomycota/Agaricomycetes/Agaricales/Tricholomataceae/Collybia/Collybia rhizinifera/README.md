@@ -1,5 +1,4 @@
-Collybia rhizinifera Velen. SPECIES
-=======
+# Collybia rhizinifera Velen. SPECIES
 
 #### Status
 ACCEPTED

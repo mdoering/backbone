@@ -1,5 +1,4 @@
-Catillaria kerguelensis C.W. Dodge SPECIES
-=======
+# Catillaria kerguelensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

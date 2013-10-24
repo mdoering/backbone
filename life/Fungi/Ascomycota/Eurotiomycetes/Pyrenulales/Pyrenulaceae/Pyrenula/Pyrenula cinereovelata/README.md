@@ -1,5 +1,4 @@
-Pyrenula cinereovelata SPECIES
-=======
+# Pyrenula cinereovelata SPECIES
 
 #### Status
 ACCEPTED

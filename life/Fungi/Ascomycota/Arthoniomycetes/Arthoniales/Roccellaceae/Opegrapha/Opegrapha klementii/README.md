@@ -1,5 +1,4 @@
-Opegrapha klementii Cretz. SPECIES
-=======
+# Opegrapha klementii Cretz. SPECIES
 
 #### Status
 ACCEPTED

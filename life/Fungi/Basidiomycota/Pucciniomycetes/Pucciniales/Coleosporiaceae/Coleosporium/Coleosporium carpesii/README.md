@@ -1,5 +1,4 @@
-Coleosporium carpesii var. carpesii VARIETY
-=======
+# Coleosporium carpesii Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Riv. Accad. di Padova 24: 208 (1874)
 
 #### Original name
-Coleosporium carpesii var. carpesii
+Coleosporium carpesii Sacc.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaerobacteraceae FAMILY
-=======
+# Sphaerobacteraceae FAMILY
 
 #### Status
 ACCEPTED

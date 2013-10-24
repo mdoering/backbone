@@ -1,5 +1,4 @@
-Pseudocercospora eucalyptigena U. Braun SPECIES
-=======
+# Pseudocercospora eucalyptigena U. Braun SPECIES
 
 #### Status
 ACCEPTED

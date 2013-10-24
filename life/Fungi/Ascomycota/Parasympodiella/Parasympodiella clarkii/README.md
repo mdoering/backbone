@@ -1,5 +1,4 @@
-Parasympodiella clarkii B. Sutton, 1978 SPECIES
-=======
+# Parasympodiella clarkii B. Sutton, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astrosphaeriella fuscomaculans W. Yamam. SPECIES
-=======
+# Astrosphaeriella fuscomaculans W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporopachydermia lactativora Rodr. Mir., 1978 SPECIES
-=======
+# Sporopachydermia lactativora Rodr. Mir., 1978 SPECIES
 
 #### Status
 ACCEPTED

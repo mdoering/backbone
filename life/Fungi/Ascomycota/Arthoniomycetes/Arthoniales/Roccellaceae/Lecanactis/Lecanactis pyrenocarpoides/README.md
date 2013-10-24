@@ -1,5 +1,4 @@
-Lecanactis pyrenocarpoides (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Lecanactis pyrenocarpoides (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

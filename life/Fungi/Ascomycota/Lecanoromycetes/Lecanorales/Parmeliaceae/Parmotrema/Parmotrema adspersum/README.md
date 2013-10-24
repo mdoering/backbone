@@ -1,14 +1,13 @@
-Canoparmelia adspersa (Vain.) Elix & Hale SPECIES
-=======
+# Parmotrema adspersum (Vain.) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Elix, Johnston & Verdon, Mycotaxon 27: 278 (1986)
+Mycotaxon 81: 255 (2002)
 
 #### Original name
 Parmelia adspersa Vain.

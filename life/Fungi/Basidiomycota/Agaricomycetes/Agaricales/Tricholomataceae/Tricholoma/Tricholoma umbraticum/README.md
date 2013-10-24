@@ -1,5 +1,4 @@
-Tricholoma umbraticum Corner SPECIES
-=======
+# Tricholoma umbraticum Corner SPECIES
 
 #### Status
 ACCEPTED

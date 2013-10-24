@@ -1,5 +1,4 @@
-Hemileia laurentii P. Syd. & Syd. SPECIES
-=======
+# Hemileia laurentii P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

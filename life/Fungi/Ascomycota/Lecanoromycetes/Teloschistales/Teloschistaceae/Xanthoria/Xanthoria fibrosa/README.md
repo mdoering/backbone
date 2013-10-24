@@ -1,5 +1,4 @@
-Xanthoria fibrosa (Fr.) Zahlbr. SPECIES
-=======
+# Xanthoria fibrosa (Fr.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

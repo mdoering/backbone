@@ -1,5 +1,4 @@
-Myriophysella GENUS
-=======
+# Myriophysella GENUS
 
 #### Status
 ACCEPTED

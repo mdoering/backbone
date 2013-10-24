@@ -1,5 +1,4 @@
-Eutypella elaeagni Vasyag. SPECIES
-=======
+# Eutypella elaeagni Vasyag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerophoma rupicola Petr. SPECIES
-=======
+# Sclerophoma rupicola Petr. SPECIES
 
 #### Status
 ACCEPTED

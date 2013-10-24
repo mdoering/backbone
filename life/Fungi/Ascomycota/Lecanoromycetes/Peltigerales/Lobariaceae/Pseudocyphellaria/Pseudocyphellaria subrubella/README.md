@@ -1,5 +1,4 @@
-Pseudocyphellaria subrubella Räsänen SPECIES
-=======
+# Pseudocyphellaria subrubella Räsänen SPECIES
 
 #### Status
 ACCEPTED

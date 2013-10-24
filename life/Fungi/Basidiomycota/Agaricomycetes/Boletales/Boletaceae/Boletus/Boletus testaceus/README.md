@@ -1,5 +1,4 @@
-Boletus testaceus Gillet SPECIES
-=======
+# Boletus testaceus Gillet SPECIES
 
 #### Status
 ACCEPTED

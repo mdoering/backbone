@@ -1,5 +1,4 @@
-Tuberculina ricini (Cocc.) Sacc. & P. Syd. SPECIES
-=======
+# Tuberculina ricini (Cocc.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

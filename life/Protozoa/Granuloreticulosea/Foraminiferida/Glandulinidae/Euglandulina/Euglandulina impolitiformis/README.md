@@ -1,5 +1,4 @@
-Euglandulina impolitiformis McCulloch, 1977 SPECIES
-=======
+# Euglandulina impolitiformis McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

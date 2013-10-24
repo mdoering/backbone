@@ -1,5 +1,4 @@
-Eupenicillium catenatum D.B. Scott, 1968 SPECIES
-=======
+# Eupenicillium catenatum D.B. Scott, 1968 SPECIES
 
 #### Status
 ACCEPTED

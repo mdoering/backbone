@@ -1,5 +1,4 @@
-Boletus tuberosus Schumach. SPECIES
-=======
+# Boletus tuberosus Schumach. SPECIES
 
 #### Status
 ACCEPTED

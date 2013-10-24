@@ -1,5 +1,4 @@
-Karschia elasticae Koord. SPECIES
-=======
+# Karschia elasticae Koord. SPECIES
 
 #### Status
 ACCEPTED

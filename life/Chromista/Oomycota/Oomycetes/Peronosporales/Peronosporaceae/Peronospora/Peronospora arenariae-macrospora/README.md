@@ -1,5 +1,4 @@
-Peronospora arenariae-macrospora Farl. SPECIES
-=======
+# Peronospora arenariae-macrospora Farl. SPECIES
 
 #### Status
 ACCEPTED

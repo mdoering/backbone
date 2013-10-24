@@ -1,5 +1,4 @@
-Sphaerella othonnopsidis Tassi SPECIES
-=======
+# Sphaerella othonnopsidis Tassi SPECIES
 
 #### Status
 ACCEPTED

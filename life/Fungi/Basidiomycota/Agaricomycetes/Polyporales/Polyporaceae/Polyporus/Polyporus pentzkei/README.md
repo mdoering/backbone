@@ -1,5 +1,4 @@
-Polyporus pentzkei Kalchbr. SPECIES
-=======
+# Polyporus pentzkei Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epichloë virescens Quél. SPECIES
-=======
+# Epichloë virescens Quél. SPECIES
 
 #### Status
 ACCEPTED

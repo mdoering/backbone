@@ -1,5 +1,4 @@
-Marssonina helosciadii (Fautrey & Lambotte) Magnus SPECIES
-=======
+# Marssonina helosciadii (Fautrey & Lambotte) Magnus SPECIES
 
 #### Status
 ACCEPTED

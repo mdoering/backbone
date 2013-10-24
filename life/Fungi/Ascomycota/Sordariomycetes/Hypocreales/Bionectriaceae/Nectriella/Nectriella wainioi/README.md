@@ -1,5 +1,4 @@
-Nectriella wainioi P. Karst. SPECIES
-=======
+# Nectriella wainioi P. Karst. SPECIES
 
 #### Status
 ACCEPTED

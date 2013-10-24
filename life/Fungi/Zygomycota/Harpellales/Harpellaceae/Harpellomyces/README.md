@@ -1,5 +1,4 @@
-Harpellomyces Lichtw. & S.T. Moss GENUS
-=======
+# Harpellomyces Lichtw. & S.T. Moss GENUS
 
 #### Status
 ACCEPTED

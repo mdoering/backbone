@@ -1,5 +1,4 @@
-Globaria bresadolae Schulzer SPECIES
-=======
+# Globaria bresadolae Schulzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Claviceps glabra Langdon SPECIES
-=======
+# Claviceps glabra Langdon SPECIES
 
 #### Status
 ACCEPTED

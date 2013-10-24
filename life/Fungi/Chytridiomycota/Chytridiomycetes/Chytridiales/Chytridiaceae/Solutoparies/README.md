@@ -1,5 +1,4 @@
-Solutoparies Whiffen ex W.H. Blackw. & M.J. Powell GENUS
-=======
+# Solutoparies Whiffen ex W.H. Blackw. & M.J. Powell GENUS
 
 #### Status
 ACCEPTED

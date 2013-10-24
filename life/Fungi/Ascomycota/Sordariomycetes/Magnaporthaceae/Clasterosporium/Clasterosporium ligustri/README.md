@@ -1,5 +1,4 @@
-Clasterosporium ligustri Richon SPECIES
-=======
+# Clasterosporium ligustri Richon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Harmocoma Yankovskij, 1980 GENUS
-=======
+# Harmocoma Yankovskij, 1980 GENUS
 
 #### Status
 ACCEPTED

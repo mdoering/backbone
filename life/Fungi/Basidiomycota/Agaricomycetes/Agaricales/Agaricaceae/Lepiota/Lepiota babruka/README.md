@@ -1,5 +1,4 @@
-Lepiota babruka T.K.A. Kumar & Manim. SPECIES
-=======
+# Lepiota babruka T.K.A. Kumar & Manim. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatomyces aciurae Thaxt. SPECIES
-=======
+# Stigmatomyces aciurae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

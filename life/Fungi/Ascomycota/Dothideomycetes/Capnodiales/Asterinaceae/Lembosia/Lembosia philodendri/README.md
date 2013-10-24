@@ -1,5 +1,4 @@
-Lembosia philodendri Henn. SPECIES
-=======
+# Lembosia philodendri Henn. SPECIES
 
 #### Status
 ACCEPTED

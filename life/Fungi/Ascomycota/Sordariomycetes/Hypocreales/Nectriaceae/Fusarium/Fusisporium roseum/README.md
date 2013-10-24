@@ -1,5 +1,4 @@
-Fusisporium roseum Link SPECIES
-=======
+# Fusisporium roseum Link SPECIES
 
 #### Status
 ACCEPTED

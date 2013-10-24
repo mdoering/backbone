@@ -1,5 +1,4 @@
-Chytridium rostellatum De Wild. SPECIES
-=======
+# Chytridium rostellatum De Wild. SPECIES
 
 #### Status
 ACCEPTED

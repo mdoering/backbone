@@ -1,5 +1,4 @@
-Acineta tulipa Maskell, 1887 SPECIES
-=======
+# Acineta tulipa Maskell, 1887 SPECIES
 
 #### Status
 ACCEPTED

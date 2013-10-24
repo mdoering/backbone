@@ -1,5 +1,4 @@
-Phomopsis elenkinii Lebedeva SPECIES
-=======
+# Phomopsis elenkinii Lebedeva SPECIES
 
 #### Status
 ACCEPTED

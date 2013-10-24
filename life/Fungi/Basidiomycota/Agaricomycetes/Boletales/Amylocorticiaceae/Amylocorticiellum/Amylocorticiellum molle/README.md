@@ -1,17 +1,16 @@
-Grandinia bresadolae subsp. fugax (P. Karst.) P. Karst. SUBSPECIES
-=======
+# Amylocorticiellum molle (Fr.) Spirin & Zmitr., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kritisk Öfversigt af Finlands Basidsvampar, Tillägg 3: 23 (1898)
+Mikol. Fitopatol. 36(1): 23 (2002)
 
 #### Original name
-Grandinia fugax P. Karst., 1896
+Thelephora mollis Fr., 1821
 
 ### Remarks
 null

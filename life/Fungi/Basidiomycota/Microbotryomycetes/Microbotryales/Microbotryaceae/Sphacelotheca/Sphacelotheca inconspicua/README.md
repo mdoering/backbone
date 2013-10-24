@@ -1,5 +1,4 @@
-Sphacelotheca inconspicua Zundel SPECIES
-=======
+# Sphacelotheca inconspicua Zundel SPECIES
 
 #### Status
 ACCEPTED

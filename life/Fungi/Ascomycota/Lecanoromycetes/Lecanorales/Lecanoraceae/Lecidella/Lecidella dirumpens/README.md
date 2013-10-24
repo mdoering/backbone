@@ -1,5 +1,4 @@
-Lecidella dirumpens (Hertel & Poelt) Hertel & Poelt SPECIES
-=======
+# Lecidella dirumpens (Hertel & Poelt) Hertel & Poelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vorticella longifilum Kent, 1881 SPECIES
-=======
+# Vorticella longifilum Kent, 1881 SPECIES
 
 #### Status
 ACCEPTED

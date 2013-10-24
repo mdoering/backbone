@@ -1,5 +1,4 @@
-Chrysomyxa keteleeriae (F.L. Tai) Y.C. Wang & R.S. Peterson SPECIES
-=======
+# Chrysomyxa keteleeriae (F.L. Tai) Y.C. Wang & R.S. Peterson SPECIES
 
 #### Status
 ACCEPTED

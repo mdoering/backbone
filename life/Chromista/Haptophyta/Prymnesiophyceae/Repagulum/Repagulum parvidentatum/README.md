@@ -1,5 +1,4 @@
-Repagulum parvidentatum (Deflandre & Fert, 1954) Forchheimer, 1972 SPECIES
-=======
+# Repagulum parvidentatum (Deflandre & Fert, 1954) Forchheimer, 1972 SPECIES
 
 #### Status
 ACCEPTED

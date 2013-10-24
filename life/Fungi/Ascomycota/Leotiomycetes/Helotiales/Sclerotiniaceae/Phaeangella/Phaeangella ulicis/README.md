@@ -1,14 +1,13 @@
-Dermatea ulicis Cooke, 1875 SPECIES
-=======
+# Phaeangella ulicis (Cooke) Sacc. & D. Sacc., 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 3(no. 28): 186 (1875)
+null
 
 #### Original name
 Dermatea ulicis Cooke, 1875

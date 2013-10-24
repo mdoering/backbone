@@ -1,5 +1,4 @@
-Orthella Bykova, 1956 GENUS
-=======
+# Orthella Bykova, 1956 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stenella oligoneuri (H.C. Greene) U. Braun & Crous SPECIES
-=======
+# Stenella oligoneuri (H.C. Greene) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

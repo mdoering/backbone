@@ -1,5 +1,4 @@
-Telomyxa L. Léger & E. Hesse GENUS
-=======
+# Telomyxa L. Léger & E. Hesse GENUS
 
 #### Status
 ACCEPTED

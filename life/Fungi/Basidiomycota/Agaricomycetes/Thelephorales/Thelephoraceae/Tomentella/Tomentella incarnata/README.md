@@ -1,5 +1,4 @@
-Tomentella incarnata Henn. SPECIES
-=======
+# Tomentella incarnata Henn. SPECIES
 
 #### Status
 ACCEPTED

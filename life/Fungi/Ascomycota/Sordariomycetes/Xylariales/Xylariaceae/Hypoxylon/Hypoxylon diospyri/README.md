@@ -1,5 +1,4 @@
-Hypoxylon diospyri R.C. Gupta & R.C. Rajak SPECIES
-=======
+# Hypoxylon diospyri R.C. Gupta & R.C. Rajak SPECIES
 
 #### Status
 ACCEPTED

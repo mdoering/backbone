@@ -1,5 +1,4 @@
-Cortinarius rubidus Mont. SPECIES
-=======
+# Cortinarius rubidus Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella rubiginosa (Cooke) Lindau SPECIES
-=======
+# Mycosphaerella rubiginosa (Cooke) Lindau SPECIES
 
 #### Status
 ACCEPTED

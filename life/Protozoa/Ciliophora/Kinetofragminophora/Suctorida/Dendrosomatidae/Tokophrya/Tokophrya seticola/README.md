@@ -1,5 +1,4 @@
-Tokophrya seticola (Jankowski, 1982) Dovgal, 2002 SPECIES
-=======
+# Tokophrya seticola (Jankowski, 1982) Dovgal, 2002 SPECIES
 
 #### Status
 ACCEPTED

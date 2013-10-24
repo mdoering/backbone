@@ -1,17 +1,16 @@
-Melanconis decoraensis var. decoraensis VARIETY
-=======
+# Melanconis decoraensis Ellis SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Am. Nat. 195 (1883)
 
 #### Original name
-null
+Melanconis decoraensis Ellis
 
 ### Remarks
 null

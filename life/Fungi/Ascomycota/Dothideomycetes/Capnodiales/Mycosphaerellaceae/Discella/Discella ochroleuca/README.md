@@ -1,5 +1,4 @@
-Discella ochroleuca (Berk. & M.A. Curtis) Arx SPECIES
-=======
+# Discella ochroleuca (Berk. & M.A. Curtis) Arx SPECIES
 
 #### Status
 ACCEPTED

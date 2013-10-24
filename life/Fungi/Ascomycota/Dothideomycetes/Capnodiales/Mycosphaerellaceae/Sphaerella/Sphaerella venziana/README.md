@@ -1,5 +1,4 @@
-Sphaerella venziana Sacc. SPECIES
-=======
+# Sphaerella venziana Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Heterostrombidium paracalkinsi Lei, Xu & Song, 1999 SPECIES
-=======
+# Strombidium paracalkinsi (Lei, Xu & Song, 1999) Agatha, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

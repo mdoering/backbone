@@ -1,5 +1,4 @@
-Lecidea hyaliniza Nyl. SPECIES
-=======
+# Lecidea hyaliniza Nyl. SPECIES
 
 #### Status
 ACCEPTED

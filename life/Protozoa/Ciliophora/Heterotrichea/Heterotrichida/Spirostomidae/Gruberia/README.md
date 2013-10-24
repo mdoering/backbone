@@ -1,5 +1,4 @@
-Gruberia Kahl, 1932 GENUS
-=======
+# Gruberia Kahl, 1932 GENUS
 
 #### Status
 ACCEPTED

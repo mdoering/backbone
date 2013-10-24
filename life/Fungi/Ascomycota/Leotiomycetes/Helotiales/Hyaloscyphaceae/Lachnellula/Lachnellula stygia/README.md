@@ -1,5 +1,4 @@
-Lachnellula stygia anon. SPECIES
-=======
+# Lachnellula stygia anon. SPECIES
 
 #### Status
 ACCEPTED

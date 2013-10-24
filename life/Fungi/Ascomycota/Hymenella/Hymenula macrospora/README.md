@@ -1,5 +1,4 @@
-Hymenula macrospora Sacc. & Roum. SPECIES
-=======
+# Hymenula macrospora Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascobolus globularis Rolland SPECIES
-=======
+# Ascobolus globularis Rolland SPECIES
 
 #### Status
 ACCEPTED

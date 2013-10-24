@@ -1,5 +1,4 @@
-Polystratorictus fusarioideus Matsush., 1993 SPECIES
-=======
+# Polystratorictus fusarioideus Matsush., 1993 SPECIES
 
 #### Status
 ACCEPTED

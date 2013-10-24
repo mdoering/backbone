@@ -1,5 +1,4 @@
-Zygnemomyces echinulatus K. Miura, 1973 SPECIES
-=======
+# Zygnemomyces echinulatus K. Miura, 1973 SPECIES
 
 #### Status
 ACCEPTED

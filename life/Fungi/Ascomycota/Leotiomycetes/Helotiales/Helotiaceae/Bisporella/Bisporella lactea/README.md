@@ -1,14 +1,13 @@
-Belonioscypha lactea (Sacc.) Seaver, 1951 SPECIES
-=======
+# Bisporella lactea (Sacc.) Stadelman, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 30: 830 (1979)
 
 #### Original name
 Helotiella lactea Sacc., 1895

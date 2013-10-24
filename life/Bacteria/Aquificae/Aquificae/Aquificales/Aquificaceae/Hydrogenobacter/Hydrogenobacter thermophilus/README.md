@@ -1,5 +1,4 @@
-Hydrogenobacter thermophilus Kawasumi et al., 1984 SPECIES
-=======
+# Hydrogenobacter thermophilus Kawasumi et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

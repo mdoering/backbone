@@ -1,5 +1,4 @@
-Thelidium verrucosum Zschacke SPECIES
-=======
+# Thelidium verrucosum Zschacke SPECIES
 
 #### Status
 ACCEPTED

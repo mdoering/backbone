@@ -1,5 +1,4 @@
-Anthracoidea blanda Vánky & H. Alexander, 2005 SPECIES
-=======
+# Anthracoidea blanda Vánky & H. Alexander, 2005 SPECIES
 
 #### Status
 ACCEPTED

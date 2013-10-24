@@ -1,5 +1,4 @@
-Verrucisporota indica (Kamal & P. Kumar) U. Braun SPECIES
-=======
+# Verrucisporota indica (Kamal & P. Kumar) U. Braun SPECIES
 
 #### Status
 ACCEPTED

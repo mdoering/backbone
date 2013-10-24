@@ -1,5 +1,4 @@
-Synechococcus leopoliensis (Raciborski) Komrek SPECIES
-=======
+# Synechococcus leopoliensis (Raciborski) Komrek SPECIES
 
 #### Status
 ACCEPTED

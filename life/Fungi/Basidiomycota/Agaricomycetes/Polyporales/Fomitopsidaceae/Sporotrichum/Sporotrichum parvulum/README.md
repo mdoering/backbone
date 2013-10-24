@@ -1,5 +1,4 @@
-Sporotrichum parvulum Pass. SPECIES
-=======
+# Sporotrichum parvulum Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplactinium Haeckel, 1887 GENUS
-=======
+# Diplactinium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

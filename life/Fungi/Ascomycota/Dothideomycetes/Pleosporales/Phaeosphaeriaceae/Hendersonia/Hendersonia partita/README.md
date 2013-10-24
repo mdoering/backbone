@@ -1,5 +1,4 @@
-Hendersonia partita Berk. & M.A. Curtis SPECIES
-=======
+# Hendersonia partita Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

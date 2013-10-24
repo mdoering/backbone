@@ -1,5 +1,4 @@
-Colpoda lamella SPECIES
-=======
+# Colpoda lamella SPECIES
 
 #### Status
 ACCEPTED

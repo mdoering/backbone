@@ -1,5 +1,4 @@
-Tulostoma sedimenticola Long & S. Ahmad SPECIES
-=======
+# Tulostoma sedimenticola Long & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

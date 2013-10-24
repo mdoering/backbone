@@ -1,5 +1,4 @@
-Ceratium boehmii Graham & Bronikovsky, 1944 SPECIES
-=======
+# Ceratium boehmii Graham & Bronikovsky, 1944 SPECIES
 
 #### Status
 ACCEPTED

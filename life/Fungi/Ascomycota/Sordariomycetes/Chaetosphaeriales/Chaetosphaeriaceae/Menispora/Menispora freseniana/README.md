@@ -1,5 +1,4 @@
-Menispora freseniana Sacc. SPECIES
-=======
+# Menispora freseniana Sacc. SPECIES
 
 #### Status
 ACCEPTED

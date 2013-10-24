@@ -1,5 +1,4 @@
-Camarosporium bygdoense Henn. SPECIES
-=======
+# Camarosporium bygdoense Henn. SPECIES
 
 #### Status
 ACCEPTED

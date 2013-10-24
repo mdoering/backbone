@@ -1,5 +1,4 @@
-Spathidioides Brodsky, 1925 GENUS
-=======
+# Spathidioides Brodsky, 1925 GENUS
 
 #### Status
 ACCEPTED

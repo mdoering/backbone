@@ -1,8 +1,7 @@
-Amycolata alni Evtushenko et al., 1989 SPECIES
-=======
+# Pseudonocardia alni (Evtushenko et al., 1989) Warwick et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

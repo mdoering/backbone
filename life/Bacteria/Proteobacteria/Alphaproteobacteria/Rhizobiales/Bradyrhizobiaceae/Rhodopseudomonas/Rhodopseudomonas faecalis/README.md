@@ -1,5 +1,4 @@
-Rhodopseudomonas faecalis Zhang et al., 2002 SPECIES
-=======
+# Rhodopseudomonas faecalis Zhang et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

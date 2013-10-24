@@ -1,5 +1,4 @@
-Lecanora subalbida Nyl. SPECIES
-=======
+# Lecanora subalbida Nyl. SPECIES
 
 #### Status
 ACCEPTED

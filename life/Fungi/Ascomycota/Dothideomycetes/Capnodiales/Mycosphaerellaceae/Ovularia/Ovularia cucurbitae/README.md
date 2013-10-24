@@ -1,5 +1,4 @@
-Ovularia cucurbitae Sacc. SPECIES
-=======
+# Ovularia cucurbitae Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe insignis A.H. Sm. SPECIES
-=======
+# Inocybe insignis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

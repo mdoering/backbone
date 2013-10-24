@@ -1,5 +1,4 @@
-Phaeoisariopsis indica (Subram.) Deighton SPECIES
-=======
+# Phaeoisariopsis indica (Subram.) Deighton SPECIES
 
 #### Status
 ACCEPTED

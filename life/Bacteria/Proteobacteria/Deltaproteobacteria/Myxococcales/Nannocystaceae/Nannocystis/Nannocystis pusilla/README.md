@@ -1,5 +1,4 @@
-Nannocystis pusilla SPECIES
-=======
+# Nannocystis pusilla SPECIES
 
 #### Status
 ACCEPTED

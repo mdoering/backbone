@@ -1,17 +1,16 @@
-Deflexula lilaceobrunnea var. lilaceobrunnea VARIETY
-=======
+# Deflexula lilaceobrunnea Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Ann. Bot. Mem. 1: 695 (1950)
 
 #### Original name
-Deflexula lilaceobrunnea var. lilaceobrunnea
+Deflexula lilaceobrunnea Corner, 1950
 
 ### Remarks
 null

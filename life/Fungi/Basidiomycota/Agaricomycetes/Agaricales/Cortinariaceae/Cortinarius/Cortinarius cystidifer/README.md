@@ -1,5 +1,4 @@
-Cortinarius cystidifer (Velen.) Reumaux SPECIES
-=======
+# Cortinarius cystidifer (Velen.) Reumaux SPECIES
 
 #### Status
 ACCEPTED

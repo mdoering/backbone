@@ -1,5 +1,4 @@
-Didymella conchae Bonar SPECIES
-=======
+# Didymella conchae Bonar SPECIES
 
 #### Status
 ACCEPTED

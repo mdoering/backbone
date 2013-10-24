@@ -1,17 +1,16 @@
-Botryohypochnus hebelomatosporus Boidin & Gilles SPECIES
-=======
+# Thanatephorus hebelomatosporus (Boidin & Gilles) P. Roberts, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 69: 36 (1998)
 
 #### Original name
-Botryohypochnus hebelomatosporus Boidin & Gilles
+Botryohypochnus hebelomatisporus Boidin & Gilles, 1982
 
 ### Remarks
 null

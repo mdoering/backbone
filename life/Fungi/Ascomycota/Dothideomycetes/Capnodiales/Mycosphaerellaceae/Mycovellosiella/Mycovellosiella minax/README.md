@@ -1,5 +1,4 @@
-Mycovellosiella minax (Davis) Deighton SPECIES
-=======
+# Mycovellosiella minax (Davis) Deighton SPECIES
 
 #### Status
 ACCEPTED

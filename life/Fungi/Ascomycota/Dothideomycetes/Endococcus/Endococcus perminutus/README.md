@@ -1,5 +1,4 @@
-Endococcus perminutus Nyl. ex Vain., 1878 SPECIES
-=======
+# Endococcus perminutus Nyl. ex Vain., 1878 SPECIES
 
 #### Status
 ACCEPTED

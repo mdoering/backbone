@@ -1,5 +1,4 @@
-Phoma rutae Henn. SPECIES
-=======
+# Phoma rutae Henn. SPECIES
 
 #### Status
 ACCEPTED

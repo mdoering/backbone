@@ -1,5 +1,4 @@
-Asterina acanthopoda var. acanthopoda Speg. VARIETY
-=======
+# Asterina acanthopoda Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Anal. Soc. cient. argent. 26: 49 (1888)
 
 #### Original name
-Asterina acanthopoda var. acanthopoda Speg.
+Asterina acanthopoda Speg.
 
 ### Remarks
 null

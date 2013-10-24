@@ -1,5 +1,4 @@
-Adelosina phoenicia Martinotti, 1921 SPECIES
-=======
+# Adelosina phoenicia Martinotti, 1921 SPECIES
 
 #### Status
 ACCEPTED

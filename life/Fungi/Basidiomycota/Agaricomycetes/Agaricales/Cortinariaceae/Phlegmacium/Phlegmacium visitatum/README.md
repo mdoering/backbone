@@ -1,5 +1,4 @@
-Phlegmacium visitatum (Britzelm.) M.M. Moser SPECIES
-=======
+# Phlegmacium visitatum (Britzelm.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

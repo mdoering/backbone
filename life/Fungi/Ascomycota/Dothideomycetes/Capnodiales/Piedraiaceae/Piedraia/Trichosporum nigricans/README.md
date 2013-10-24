@@ -1,5 +1,4 @@
-Trichosporum nigricans Sacc. SPECIES
-=======
+# Trichosporum nigricans Sacc. SPECIES
 
 #### Status
 ACCEPTED

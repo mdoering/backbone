@@ -1,5 +1,4 @@
-Parmelina crassata Hale SPECIES
-=======
+# Parmelina crassata Hale SPECIES
 
 #### Status
 ACCEPTED

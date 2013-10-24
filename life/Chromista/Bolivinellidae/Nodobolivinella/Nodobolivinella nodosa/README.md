@@ -1,5 +1,4 @@
-Nodobolivinella nodosa SPECIES
-=======
+# Nodobolivinella nodosa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiroloculina antillarium d'Orbigny, 1839 SPECIES
-=======
+# Spiroloculina antillarium d'Orbigny, 1839 SPECIES
 
 #### Status
 ACCEPTED

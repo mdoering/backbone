@@ -1,5 +1,4 @@
-Puccinia salviae Unger SPECIES
-=======
+# Puccinia salviae Unger SPECIES
 
 #### Status
 ACCEPTED

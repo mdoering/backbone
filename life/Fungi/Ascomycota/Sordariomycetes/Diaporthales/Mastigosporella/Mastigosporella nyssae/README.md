@@ -1,5 +1,4 @@
-Mastigosporella nyssae Nag Raj & DiCosmo, 1981 SPECIES
-=======
+# Mastigosporella nyssae Nag Raj & DiCosmo, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microsphaeropsis maricae (Gutner) Aa & Vanev SPECIES
-=======
+# Microsphaeropsis maricae (Gutner) Aa & Vanev SPECIES
 
 #### Status
 ACCEPTED

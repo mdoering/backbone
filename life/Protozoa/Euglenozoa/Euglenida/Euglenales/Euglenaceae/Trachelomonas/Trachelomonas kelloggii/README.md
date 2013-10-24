@@ -1,5 +1,4 @@
-Trachelomonas kelloggii var. levis Skvortsov VARIETY
-=======
+# Trachelomonas kelloggii SPECIES
 
 #### Status
 ACCEPTED

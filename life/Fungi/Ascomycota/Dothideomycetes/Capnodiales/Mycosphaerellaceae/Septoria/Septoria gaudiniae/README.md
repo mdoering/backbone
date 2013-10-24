@@ -1,5 +1,4 @@
-Septoria gaudiniae Unamuno SPECIES
-=======
+# Septoria gaudiniae Unamuno SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Annellosympodia orbiculata McTaggart, R.G. Shivas & U. Braun, 2007 SPECIES
-=======
+# Annellosympodia orbiculata McTaggart, R.G. Shivas & U. Braun, 2007 SPECIES
 
 #### Status
 ACCEPTED

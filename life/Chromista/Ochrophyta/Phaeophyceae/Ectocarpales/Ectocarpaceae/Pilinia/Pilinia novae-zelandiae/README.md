@@ -1,8 +1,7 @@
-Sporocladopsis novae-zelandiae V.J. Chapman SPECIES
-=======
+# Pilinia novae-zelandiae (V.J.Chapman) Papenfuss & Fan ex Papenfuss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

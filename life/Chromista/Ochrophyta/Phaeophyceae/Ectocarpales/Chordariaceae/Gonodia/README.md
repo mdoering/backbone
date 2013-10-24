@@ -1,5 +1,4 @@
-Gonodia J.A. Nieuwland, 1917 GENUS
-=======
+# Gonodia J.A. Nieuwland, 1917 GENUS
 
 #### Status
 ACCEPTED

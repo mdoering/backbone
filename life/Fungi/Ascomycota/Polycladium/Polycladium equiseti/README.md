@@ -1,5 +1,4 @@
-Polycladium equiseti Ingold, 1959 SPECIES
-=======
+# Polycladium equiseti Ingold, 1959 SPECIES
 
 #### Status
 ACCEPTED

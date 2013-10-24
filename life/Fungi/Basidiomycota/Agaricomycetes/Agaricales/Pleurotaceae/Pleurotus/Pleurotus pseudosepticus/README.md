@@ -1,5 +1,4 @@
-Pleurotus pseudosepticus Hruby SPECIES
-=======
+# Pleurotus pseudosepticus Hruby SPECIES
 
 #### Status
 ACCEPTED

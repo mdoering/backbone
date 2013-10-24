@@ -1,5 +1,4 @@
-Parmelia hanszenii Gyeln. SPECIES
-=======
+# Parmelia hanszenii Gyeln. SPECIES
 
 #### Status
 ACCEPTED

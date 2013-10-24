@@ -1,5 +1,4 @@
-Cymbalopora inversa Chapman, 1902 SPECIES
-=======
+# Cymbalopora inversa Chapman, 1902 SPECIES
 
 #### Status
 ACCEPTED

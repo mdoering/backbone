@@ -1,5 +1,4 @@
-Arthrobotrys robusta Dudd., 1952 SPECIES
-=======
+# Arthrobotrys robusta Dudd., 1952 SPECIES
 
 #### Status
 ACCEPTED

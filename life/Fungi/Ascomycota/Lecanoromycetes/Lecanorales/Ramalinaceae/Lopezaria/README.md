@@ -1,5 +1,4 @@
-Lopezaria Kalb & Hafellner GENUS
-=======
+# Lopezaria Kalb & Hafellner GENUS
 
 #### Status
 ACCEPTED

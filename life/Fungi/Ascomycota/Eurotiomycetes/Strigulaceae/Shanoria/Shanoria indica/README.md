@@ -1,5 +1,4 @@
-Shanoria indica Anahosur SPECIES
-=======
+# Shanoria indica Anahosur SPECIES
 
 #### Status
 ACCEPTED

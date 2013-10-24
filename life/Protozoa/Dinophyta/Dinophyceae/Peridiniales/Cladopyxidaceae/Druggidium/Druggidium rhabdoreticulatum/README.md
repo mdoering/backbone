@@ -1,5 +1,4 @@
-Druggidium rhabdoreticulatum Habib, 1973 SPECIES
-=======
+# Druggidium rhabdoreticulatum Habib, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodium stramineum (Wahlenb.) Th. Fr. SPECIES
-=======
+# Placodium stramineum (Wahlenb.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

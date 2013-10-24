@@ -1,5 +1,4 @@
-Epicoccum heterochroum Wollenw. SPECIES
-=======
+# Epicoccum heterochroum Wollenw. SPECIES
 
 #### Status
 ACCEPTED

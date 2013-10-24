@@ -1,5 +1,4 @@
-Humaria combusta Velen. SPECIES
-=======
+# Humaria combusta Velen. SPECIES
 
 #### Status
 ACCEPTED

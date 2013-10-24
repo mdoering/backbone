@@ -1,5 +1,4 @@
-Megalospora hillii Sipman SPECIES
-=======
+# Megalospora hillii Sipman SPECIES
 
 #### Status
 ACCEPTED

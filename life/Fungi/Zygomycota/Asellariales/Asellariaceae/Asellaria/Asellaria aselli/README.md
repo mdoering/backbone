@@ -1,17 +1,16 @@
-Recticharella aselli D. Scheer, 1944 SPECIES
-=======
+# Asellaria aselli D. Scheer ex S.T. Moss & Lichtw., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Z. ParasitKde 13: 275 (1944)
+in Lichtwardt & Moss, Mycotaxon 20(2): 264 (1984)
 
 #### Original name
-Recticharella aselli D. Scheer, 1944
+Asellaria aselli D. Scheer ex S.T. Moss & Lichtw., 1984
 
 ### Remarks
 null

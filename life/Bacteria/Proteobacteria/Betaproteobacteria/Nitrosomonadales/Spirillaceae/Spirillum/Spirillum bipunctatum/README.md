@@ -1,5 +1,4 @@
-Spirillum bipunctatum SPECIES
-=======
+# Spirillum bipunctatum SPECIES
 
 #### Status
 ACCEPTED

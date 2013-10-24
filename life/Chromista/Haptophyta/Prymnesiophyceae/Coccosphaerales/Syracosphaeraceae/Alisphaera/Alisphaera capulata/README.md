@@ -1,5 +1,4 @@
-Alisphaera capulata Heimdal in Heimdal & Gaardner, 1981 SPECIES
-=======
+# Alisphaera capulata Heimdal in Heimdal & Gaardner, 1981 SPECIES
 
 #### Status
 ACCEPTED

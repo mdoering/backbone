@@ -1,5 +1,4 @@
-Sargassum scabripes J. Agardh SPECIES
-=======
+# Sargassum scabripes J. Agardh SPECIES
 
 #### Status
 ACCEPTED

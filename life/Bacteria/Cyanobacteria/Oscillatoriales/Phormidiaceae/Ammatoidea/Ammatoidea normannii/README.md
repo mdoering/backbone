@@ -1,8 +1,7 @@
-Hammatoidea normannii W. & G. S. West SPECIES
-=======
+# Ammatoidea normannii (W. & G. S. West) West & West SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

@@ -1,17 +1,16 @@
-Phyllachora galavisi Chardón SPECIES
-=======
+# Phyllachora galavisii Chardón, 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monograph Univ. Puerto Rico, Series B 2: 154 (1934)
 
 #### Original name
-Phyllachora galavisi Chardón
+Phyllachora galavisii Chardón, 1934
 
 ### Remarks
 null

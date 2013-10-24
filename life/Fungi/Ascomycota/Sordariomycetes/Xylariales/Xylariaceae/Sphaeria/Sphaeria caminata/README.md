@@ -1,5 +1,4 @@
-Sphaeria caminata Cooke & Ellis SPECIES
-=======
+# Sphaeria caminata Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

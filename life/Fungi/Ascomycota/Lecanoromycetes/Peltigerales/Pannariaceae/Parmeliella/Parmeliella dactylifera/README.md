@@ -1,5 +1,4 @@
-Parmeliella dactylifera P.M. Jørg. SPECIES
-=======
+# Parmeliella dactylifera P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

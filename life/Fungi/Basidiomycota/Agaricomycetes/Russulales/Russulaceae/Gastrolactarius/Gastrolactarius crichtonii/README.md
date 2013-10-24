@@ -1,14 +1,13 @@
-Cystangium crichtonii G.W. Beaton, Pegler & T.W.K. Young, 1986 SPECIES
-=======
+# Gastrolactarius crichtonii (G.W. Beaton, Pegler & T.W.K. Young) J.M. Vidal, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 86(1): 181 (1986)
+Revista Catalana de Micologia 26: 77 (2005)
 
 #### Original name
 Cystangium crichtonii G.W. Beaton, Pegler & T.W.K. Young, 1986

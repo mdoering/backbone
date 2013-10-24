@@ -1,8 +1,7 @@
-Epistylis opercularia Linnaeus, 1758 SPECIES
-=======
+# Opercularia opercularia (Linnaeus, 1758) Goldfuss, 1820 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

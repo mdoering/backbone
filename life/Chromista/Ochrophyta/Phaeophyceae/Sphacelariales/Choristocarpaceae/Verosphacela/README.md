@@ -1,5 +1,4 @@
-Verosphacela E.C.Henry, 1987 GENUS
-=======
+# Verosphacela E.C.Henry, 1987 GENUS
 
 #### Status
 ACCEPTED

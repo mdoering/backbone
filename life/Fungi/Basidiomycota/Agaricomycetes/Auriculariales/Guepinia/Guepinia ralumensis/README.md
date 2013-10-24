@@ -1,5 +1,4 @@
-Guepinia ralumensis Henn. SPECIES
-=======
+# Guepinia ralumensis Henn. SPECIES
 
 #### Status
 ACCEPTED

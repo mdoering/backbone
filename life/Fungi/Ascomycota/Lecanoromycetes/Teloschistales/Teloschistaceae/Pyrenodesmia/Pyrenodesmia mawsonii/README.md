@@ -1,17 +1,16 @@
-Pyrenodesmia mawsoni C.W. Dodge SPECIES
-=======
+# Pyrenodesmia mawsonii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+B. A. N. Z. Antarct. Exped. Res. Rep. 7: 232 (1948)
 
 #### Original name
-Pyrenodesmia mawsoni C.W. Dodge
+Pyrenodesmia mawsonii C.W. Dodge
 
 ### Remarks
 null

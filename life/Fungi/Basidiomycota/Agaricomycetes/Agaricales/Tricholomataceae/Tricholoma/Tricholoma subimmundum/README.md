@@ -1,5 +1,4 @@
-Tricholoma subimmundum (Britzelm.) Sacc. SPECIES
-=======
+# Tricholoma subimmundum (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

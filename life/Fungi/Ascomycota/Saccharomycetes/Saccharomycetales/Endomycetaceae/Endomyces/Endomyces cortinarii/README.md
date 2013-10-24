@@ -1,5 +1,4 @@
-Endomyces cortinarii Redhead & Malloch SPECIES
-=======
+# Endomyces cortinarii Redhead & Malloch SPECIES
 
 #### Status
 ACCEPTED

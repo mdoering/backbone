@@ -1,5 +1,4 @@
-Halecania bryophila Fryday & Coppins SPECIES
-=======
+# Halecania bryophila Fryday & Coppins SPECIES
 
 #### Status
 ACCEPTED

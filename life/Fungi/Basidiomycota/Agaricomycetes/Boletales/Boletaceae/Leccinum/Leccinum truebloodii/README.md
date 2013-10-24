@@ -1,5 +1,4 @@
-Leccinum truebloodii A.H. Sm., Thiers & Watling SPECIES
-=======
+# Leccinum truebloodii A.H. Sm., Thiers & Watling SPECIES
 
 #### Status
 ACCEPTED

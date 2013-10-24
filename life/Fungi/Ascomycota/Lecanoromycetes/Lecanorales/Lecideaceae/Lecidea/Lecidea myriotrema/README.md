@@ -1,5 +1,4 @@
-Lecidea myriotrema Müll. Arg. SPECIES
-=======
+# Lecidea myriotrema Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

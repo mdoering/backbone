@@ -1,5 +1,4 @@
-Puccinia massalis Arthur SPECIES
-=======
+# Puccinia massalis Arthur SPECIES
 
 #### Status
 ACCEPTED

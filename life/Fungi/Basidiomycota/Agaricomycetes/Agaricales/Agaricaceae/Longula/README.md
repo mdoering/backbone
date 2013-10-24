@@ -1,17 +1,16 @@
-Longia Zeller, 1943 GENUS
-=======
+# Longula Zeller, 1945 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List
 
 #### Published in
-Mycologia 35(4): 414 (1943)
+Mycologia 37(5): 636 (1945)
 
 #### Original name
-Longia Zeller, 1943
+Longula Zeller, 1945
 
 ### Remarks
 null

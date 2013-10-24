@@ -1,5 +1,4 @@
-Phyllachora ospinae Chardón, 1930 SPECIES
-=======
+# Phyllachora ospinae Chardón, 1930 SPECIES
 
 #### Status
 DOUBTFUL

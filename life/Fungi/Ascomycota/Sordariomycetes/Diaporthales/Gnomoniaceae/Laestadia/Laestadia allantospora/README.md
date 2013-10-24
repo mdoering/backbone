@@ -1,5 +1,4 @@
-Laestadia allantospora Hazsl. SPECIES
-=======
+# Laestadia allantospora Hazsl. SPECIES
 
 #### Status
 ACCEPTED

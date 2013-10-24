@@ -1,5 +1,4 @@
-Phlegmacium pulcherrimum Velen. SPECIES
-=======
+# Phlegmacium pulcherrimum Velen. SPECIES
 
 #### Status
 ACCEPTED

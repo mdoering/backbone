@@ -1,5 +1,4 @@
-Synnemadiplodia GENUS
-=======
+# Synnemadiplodia GENUS
 
 #### Status
 ACCEPTED

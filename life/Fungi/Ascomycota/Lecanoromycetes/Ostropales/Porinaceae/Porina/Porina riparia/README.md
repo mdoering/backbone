@@ -1,5 +1,4 @@
-Porina riparia P. M. McCarthy SPECIES
-=======
+# Porina riparia P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

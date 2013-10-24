@@ -1,5 +1,4 @@
-Stephanoma meliolae F. Stevens & Dalbey SPECIES
-=======
+# Stephanoma meliolae F. Stevens & Dalbey SPECIES
 
 #### Status
 ACCEPTED

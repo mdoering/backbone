@@ -1,5 +1,4 @@
-Nitschkia macrospora Teng, 1934 SPECIES
-=======
+# Nitschkia macrospora Teng, 1934 SPECIES
 
 #### Status
 ACCEPTED

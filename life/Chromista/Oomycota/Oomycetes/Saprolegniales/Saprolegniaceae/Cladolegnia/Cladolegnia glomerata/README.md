@@ -1,5 +1,4 @@
-Cladolegnia glomerata (P.G. Richt.) Johannes SPECIES
-=======
+# Cladolegnia glomerata (P.G. Richt.) Johannes SPECIES
 
 #### Status
 ACCEPTED

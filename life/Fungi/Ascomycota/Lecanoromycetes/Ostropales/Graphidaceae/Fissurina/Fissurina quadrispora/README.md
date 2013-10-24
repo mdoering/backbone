@@ -1,5 +1,4 @@
-Fissurina quadrispora Kalb SPECIES
-=======
+# Fissurina quadrispora Kalb SPECIES
 
 #### Status
 ACCEPTED

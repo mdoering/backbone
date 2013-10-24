@@ -1,5 +1,4 @@
-Metasphaeria humulina (Peck) Sacc. SPECIES
-=======
+# Metasphaeria humulina (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

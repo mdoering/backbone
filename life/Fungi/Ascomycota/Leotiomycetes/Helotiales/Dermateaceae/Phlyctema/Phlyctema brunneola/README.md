@@ -1,5 +1,4 @@
-Phlyctema brunneola (Berk.) Sacc. SPECIES
-=======
+# Phlyctema brunneola (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

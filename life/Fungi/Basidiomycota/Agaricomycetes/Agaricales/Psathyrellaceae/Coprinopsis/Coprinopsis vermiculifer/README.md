@@ -1,5 +1,4 @@
-Coprinopsis vermiculifer (Joss. ex Dennis) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis vermiculifer (Joss. ex Dennis) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

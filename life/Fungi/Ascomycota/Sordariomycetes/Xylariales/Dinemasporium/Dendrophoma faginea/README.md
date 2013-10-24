@@ -1,5 +1,4 @@
-Dendrophoma faginea Ferraris, 1904 SPECIES
-=======
+# Dendrophoma faginea Ferraris, 1904 SPECIES
 
 #### Status
 ACCEPTED

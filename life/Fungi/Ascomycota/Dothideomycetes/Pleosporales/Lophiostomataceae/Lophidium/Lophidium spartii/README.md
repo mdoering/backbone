@@ -1,5 +1,4 @@
-Lophidium spartii Fabre SPECIES
-=======
+# Lophidium spartii Fabre SPECIES
 
 #### Status
 ACCEPTED

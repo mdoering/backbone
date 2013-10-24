@@ -1,5 +1,4 @@
-Bolidomonas mediterranea L. Guillou & M.-J. Chrétiennot-Dinet SPECIES
-=======
+# Bolidomonas mediterranea L. Guillou & M.-J. Chrétiennot-Dinet SPECIES
 
 #### Status
 ACCEPTED

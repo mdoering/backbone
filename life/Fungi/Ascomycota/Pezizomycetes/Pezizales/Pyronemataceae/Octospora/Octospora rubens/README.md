@@ -1,14 +1,13 @@
-Humaria rubens Boud., 1896 SPECIES
-=======
+# Octospora rubens (Boud.) M.M. Moser, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 13 (1896)
+in Gams, Kleine Kryptogamenflora (Stuttgart), Edn 3 2a: 111 (1963)
 
 #### Original name
 Humaria rubens Boud., 1896

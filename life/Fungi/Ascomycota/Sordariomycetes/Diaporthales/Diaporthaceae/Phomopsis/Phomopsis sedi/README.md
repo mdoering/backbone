@@ -1,5 +1,4 @@
-Phomopsis sedi Punith., 1974 SPECIES
-=======
+# Phomopsis sedi Punith., 1974 SPECIES
 
 #### Status
 ACCEPTED

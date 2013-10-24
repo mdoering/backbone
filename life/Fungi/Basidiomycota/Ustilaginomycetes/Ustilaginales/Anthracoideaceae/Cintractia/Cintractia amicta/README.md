@@ -1,5 +1,4 @@
-Cintractia amicta Cif. SPECIES
-=======
+# Cintractia amicta Cif. SPECIES
 
 #### Status
 ACCEPTED

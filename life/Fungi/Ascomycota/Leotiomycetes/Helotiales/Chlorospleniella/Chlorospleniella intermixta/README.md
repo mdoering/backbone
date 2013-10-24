@@ -1,5 +1,4 @@
-Chlorospleniella intermixta Rehm SPECIES
-=======
+# Chlorospleniella intermixta Rehm SPECIES
 
 #### Status
 ACCEPTED

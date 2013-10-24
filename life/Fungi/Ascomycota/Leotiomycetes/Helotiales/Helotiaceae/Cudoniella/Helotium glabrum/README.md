@@ -1,5 +1,4 @@
-Helotium glabrum Tode SPECIES
-=======
+# Helotium glabrum Tode SPECIES
 
 #### Status
 ACCEPTED

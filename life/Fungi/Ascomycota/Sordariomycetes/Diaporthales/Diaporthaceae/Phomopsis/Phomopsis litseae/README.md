@@ -1,5 +1,4 @@
-Phomopsis litseae Kamal & R.P. Singh SPECIES
-=======
+# Phomopsis litseae Kamal & R.P. Singh SPECIES
 
 #### Status
 ACCEPTED

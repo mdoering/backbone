@@ -1,5 +1,4 @@
-Puccinia varia (Dietel) Arthur SPECIES
-=======
+# Puccinia varia (Dietel) Arthur SPECIES
 
 #### Status
 ACCEPTED

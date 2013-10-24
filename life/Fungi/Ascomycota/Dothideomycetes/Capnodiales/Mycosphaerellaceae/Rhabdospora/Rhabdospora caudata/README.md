@@ -1,5 +1,4 @@
-Rhabdospora caudata (P. Karst.) Sacc. SPECIES
-=======
+# Rhabdospora caudata (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

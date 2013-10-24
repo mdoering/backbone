@@ -1,5 +1,4 @@
-Porophoromyces tmesiphori Thaxt., 1926 SPECIES
-=======
+# Porophoromyces tmesiphori Thaxt., 1926 SPECIES
 
 #### Status
 ACCEPTED

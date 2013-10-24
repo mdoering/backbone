@@ -1,5 +1,4 @@
-Prototrichia Rostafinski, 1876 GENUS
-=======
+# Prototrichia Rostafinski, 1876 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tintinnopsella gracilis SPECIES
-=======
+# Tintinnopsella gracilis SPECIES
 
 #### Status
 ACCEPTED

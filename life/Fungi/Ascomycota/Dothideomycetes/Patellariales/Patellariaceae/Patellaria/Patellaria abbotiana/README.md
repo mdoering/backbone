@@ -1,5 +1,4 @@
-Patellaria abbotiana (Sowerby) Sacc., 1889 SPECIES
-=======
+# Patellaria abbotiana (Sowerby) Sacc., 1889 SPECIES
 
 #### Status
 ACCEPTED

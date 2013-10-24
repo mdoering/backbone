@@ -1,5 +1,4 @@
-Seribiscutum M.V.Filewicz, F.H.Wind & S.W.Wise, 1977 GENUS
-=======
+# Seribiscutum M.V.Filewicz, F.H.Wind & S.W.Wise, 1977 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paxillus robiniae Velen. SPECIES
-=======
+# Paxillus robiniae Velen. SPECIES
 
 #### Status
 ACCEPTED

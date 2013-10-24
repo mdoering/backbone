@@ -1,17 +1,16 @@
-Psilocybe ceres (Cooke & Massee) Sacc., 1891 SPECIES
-=======
+# Leratiomyces ceres (Cooke & Massee) Spooner & Bridge, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 103: 116 (2008)
 
 #### Original name
-null
+Agaricus ceres Cooke & Massee, 1888
 
 ### Remarks
 null

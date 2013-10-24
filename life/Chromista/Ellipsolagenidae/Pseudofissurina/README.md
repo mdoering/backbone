@@ -1,5 +1,4 @@
-Pseudofissurina Jones, 1984 GENUS
-=======
+# Pseudofissurina Jones, 1984 GENUS
 
 #### Status
 ACCEPTED

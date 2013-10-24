@@ -1,5 +1,4 @@
-Tromera aurellae Werner SPECIES
-=======
+# Tromera aurellae Werner SPECIES
 
 #### Status
 ACCEPTED

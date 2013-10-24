@@ -1,5 +1,4 @@
-Gloniopsis orygmaea (Mont.) Sacc. SPECIES
-=======
+# Gloniopsis orygmaea (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

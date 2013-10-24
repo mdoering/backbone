@@ -1,17 +1,16 @@
-Pythium pachycaule var. ramificatum B. Paul VARIETY
-=======
+# Pythium pachycaule Ali-Shtayeh, 1985 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. helv. 5(2): 150 (1993)
+in Ali-Shtayeh & Dick, J. Linn. Soc. , Bot. 91(1-2): 313 (1985)
 
 #### Original name
-Pythium pachycaule var. ramificatum B. Paul
+Pythium pachycaule Ali-Shtayeh, 1985
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Puccinia caricis-pocilliformis Morim. SPECIES
-=======
+# Puccinia caricis-pocilliformis Morim. SPECIES
 
 #### Status
 ACCEPTED

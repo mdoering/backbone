@@ -1,5 +1,4 @@
-Agaricus tephrophanus Berk. SPECIES
-=======
+# Agaricus tephrophanus Berk. SPECIES
 
 #### Status
 ACCEPTED

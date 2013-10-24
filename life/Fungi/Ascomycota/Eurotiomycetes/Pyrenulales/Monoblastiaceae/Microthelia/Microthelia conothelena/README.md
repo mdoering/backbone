@@ -1,5 +1,4 @@
-Microthelia conothelena (Nyl.) Zahlbr. SPECIES
-=======
+# Microthelia conothelena (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

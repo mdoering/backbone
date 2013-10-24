@@ -1,5 +1,4 @@
-Galactinia mairei Boud. SPECIES
-=======
+# Galactinia mairei Boud. SPECIES
 
 #### Status
 ACCEPTED

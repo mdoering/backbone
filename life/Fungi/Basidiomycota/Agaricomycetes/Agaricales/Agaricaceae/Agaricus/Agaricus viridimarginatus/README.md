@@ -1,5 +1,4 @@
-Agaricus viridimarginatus Schumach. SPECIES
-=======
+# Agaricus viridimarginatus Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prodenia litosia Npv SPECIES
-=======
+# Prodenia litosia Npv SPECIES
 
 #### Status
 ACCEPTED

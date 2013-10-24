@@ -1,5 +1,4 @@
-Lithothelium hyalosporum (Nyl.) Aptroot SPECIES
-=======
+# Lithothelium hyalosporum (Nyl.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

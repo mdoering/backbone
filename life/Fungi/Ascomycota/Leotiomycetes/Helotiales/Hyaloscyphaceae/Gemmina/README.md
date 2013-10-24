@@ -1,5 +1,4 @@
-Gemmina Raitv. GENUS
-=======
+# Gemmina Raitv. GENUS
 
 #### Status
 ACCEPTED

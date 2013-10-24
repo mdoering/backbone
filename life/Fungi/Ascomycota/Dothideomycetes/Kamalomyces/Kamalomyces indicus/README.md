@@ -1,5 +1,4 @@
-Kamalomyces indicus R.K. Verma, N. Sharma & Soni, 2008 SPECIES
-=======
+# Kamalomyces indicus R.K. Verma, N. Sharma & Soni, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Malacosphaeria GENUS
-=======
+# Malacosphaeria GENUS
 
 #### Status
 ACCEPTED

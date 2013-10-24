@@ -1,5 +1,4 @@
-Durella medullosa Velen. SPECIES
-=======
+# Durella medullosa Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia insidens Zabriskie SPECIES
-=======
+# Pestalotia insidens Zabriskie SPECIES
 
 #### Status
 ACCEPTED

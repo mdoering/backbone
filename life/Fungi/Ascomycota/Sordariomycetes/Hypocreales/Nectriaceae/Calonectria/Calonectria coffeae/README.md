@@ -1,5 +1,4 @@
-Calonectria coffeae Zimm. SPECIES
-=======
+# Calonectria coffeae Zimm. SPECIES
 
 #### Status
 ACCEPTED

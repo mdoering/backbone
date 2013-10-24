@@ -1,17 +1,16 @@
-Opegrapha subsiderella f. subsiderella FORM
-=======
+# Opegrapha vulgata (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Method. Lich. 20 (1803)
 
 #### Original name
-Opegrapha subsiderella f. subsiderella
+Lichen vulgatus Ach.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aecidium crotalariae Henn. SPECIES
-=======
+# Aecidium crotalariae Henn. SPECIES
 
 #### Status
 ACCEPTED

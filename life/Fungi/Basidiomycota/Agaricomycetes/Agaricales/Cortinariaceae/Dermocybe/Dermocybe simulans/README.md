@@ -1,5 +1,4 @@
-Dermocybe simulans Peck SPECIES
-=======
+# Dermocybe simulans Peck SPECIES
 
 #### Status
 ACCEPTED

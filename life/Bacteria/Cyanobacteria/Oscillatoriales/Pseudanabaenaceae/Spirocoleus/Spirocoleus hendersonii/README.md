@@ -1,8 +1,7 @@
-Phormidium hendersonii Howe SPECIES
-=======
+# Spirocoleus hendersonii (Howe) P.Silva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

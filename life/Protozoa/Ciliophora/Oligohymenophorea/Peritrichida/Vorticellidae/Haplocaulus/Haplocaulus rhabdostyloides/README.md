@@ -1,8 +1,7 @@
-Vorticella rhabdostyloides Kellicott, 1885 SPECIES
-=======
+# Haplocaulus rhabdostyloides Kellicott, 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

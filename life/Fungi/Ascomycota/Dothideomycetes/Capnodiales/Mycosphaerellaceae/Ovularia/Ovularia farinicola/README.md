@@ -1,5 +1,4 @@
-Ovularia farinicola Burnside SPECIES
-=======
+# Ovularia farinicola Burnside SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilbothamnium nudipes f. nudipes FORM
-=======
+# Stilbothamnium nudipes Hauman SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stilbothamnium nudipes f. nudipes
+Stilbothamnium nudipes Hauman
 
 ### Remarks
 null

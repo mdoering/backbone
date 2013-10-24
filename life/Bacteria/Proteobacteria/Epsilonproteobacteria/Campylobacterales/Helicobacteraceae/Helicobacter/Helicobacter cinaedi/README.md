@@ -1,8 +1,7 @@
-Campylobacter cinaedi Totten et al., 1988 SPECIES
-=======
+# Helicobacter cinaedi (Totten et al., 1988) Vandamme et al., 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Spooneromyces helveticus J. Breitenb. & F. Kränzl. SPECIES
-=======
+# Spooneromyces helveticus J. Breitenb. & F. Kränzl. SPECIES
 
 #### Status
 ACCEPTED

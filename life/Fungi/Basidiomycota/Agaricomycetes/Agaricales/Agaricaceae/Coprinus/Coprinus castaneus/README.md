@@ -1,5 +1,4 @@
-Coprinus castaneus Berk. & Broome SPECIES
-=======
+# Coprinus castaneus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

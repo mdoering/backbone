@@ -1,14 +1,13 @@
-Octaviania striata G. Cunn., 1935 SPECIES
-=======
+# Zelleromyces striatus (G. Cunn.) G.W. Beaton, Pegler & T.W.K. Young, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Linn. Soc. N. S. W. 60(1-2): 119 (1935)
+Kew Bull. 39(4): 684 (1984)
 
 #### Original name
 Octaviania striata G. Cunn., 1935

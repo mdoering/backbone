@@ -1,5 +1,4 @@
-Diatrypella hysterioides Ellis & Everh. SPECIES
-=======
+# Diatrypella hysterioides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

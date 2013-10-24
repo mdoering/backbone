@@ -1,5 +1,4 @@
-Naucoria gregoriana Speg. SPECIES
-=======
+# Naucoria gregoriana Speg. SPECIES
 
 #### Status
 ACCEPTED

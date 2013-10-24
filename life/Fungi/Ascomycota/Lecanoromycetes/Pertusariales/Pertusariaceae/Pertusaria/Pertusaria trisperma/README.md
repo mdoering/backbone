@@ -1,5 +1,4 @@
-Pertusaria trisperma Müll. Arg. SPECIES
-=======
+# Pertusaria trisperma Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

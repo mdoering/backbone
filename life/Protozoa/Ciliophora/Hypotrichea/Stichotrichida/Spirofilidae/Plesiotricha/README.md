@@ -1,5 +1,4 @@
-Plesiotricha Dragesco, 1970 GENUS
-=======
+# Plesiotricha Dragesco, 1970 GENUS
 
 #### Status
 ACCEPTED

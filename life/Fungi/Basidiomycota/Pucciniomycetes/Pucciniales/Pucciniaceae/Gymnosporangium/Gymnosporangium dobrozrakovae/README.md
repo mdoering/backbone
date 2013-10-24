@@ -1,5 +1,4 @@
-Gymnosporangium dobrozrakovae Mitrof., 1969 SPECIES
-=======
+# Gymnosporangium dobrozrakovae Mitrof., 1969 SPECIES
 
 #### Status
 ACCEPTED

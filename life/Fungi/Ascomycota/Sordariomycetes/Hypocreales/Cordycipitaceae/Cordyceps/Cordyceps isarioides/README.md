@@ -1,5 +1,4 @@
-Cordyceps isarioides M.A. Curtis SPECIES
-=======
+# Cordyceps isarioides M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

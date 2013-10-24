@@ -1,5 +1,4 @@
-Lambertella torquata W.Y. Zhuang SPECIES
-=======
+# Lambertella torquata W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

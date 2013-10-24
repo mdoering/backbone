@@ -1,8 +1,7 @@
-Pestalozzina rollandi Fautrey SPECIES
-=======
+# Pestalozzina rollandii Fautrey SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pestalozzina rollandi Fautrey
+Pestalozzina rollandii Fautrey
 
 ### Remarks
 null

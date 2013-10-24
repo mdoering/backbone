@@ -1,5 +1,4 @@
-Stratisporella Hafellner GENUS
-=======
+# Stratisporella Hafellner GENUS
 
 #### Status
 ACCEPTED

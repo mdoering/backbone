@@ -1,5 +1,4 @@
-Lecidea ericetorum (Körb.) H. Olivier SPECIES
-=======
+# Lecidea ericetorum (Körb.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

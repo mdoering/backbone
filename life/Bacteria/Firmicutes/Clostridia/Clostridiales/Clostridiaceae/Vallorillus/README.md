@@ -1,5 +1,4 @@
-Vallorillus GENUS
-=======
+# Vallorillus GENUS
 
 #### Status
 ACCEPTED

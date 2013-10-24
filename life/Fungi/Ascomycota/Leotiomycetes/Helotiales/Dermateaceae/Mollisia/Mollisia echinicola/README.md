@@ -1,5 +1,4 @@
-Mollisia echinicola Sacc. SPECIES
-=======
+# Mollisia echinicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

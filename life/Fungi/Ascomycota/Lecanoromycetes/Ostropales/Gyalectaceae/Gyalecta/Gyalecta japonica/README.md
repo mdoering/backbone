@@ -1,5 +1,4 @@
-Gyalecta japonica Asahina SPECIES
-=======
+# Gyalecta japonica Asahina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sargassum glaucescens var. wernerianum Grunow VARIETY
-=======
+# Sargassum glaucescens J. Agardh SPECIES
 
 #### Status
 ACCEPTED

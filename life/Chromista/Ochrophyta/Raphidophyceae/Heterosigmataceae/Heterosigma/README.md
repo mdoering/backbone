@@ -1,5 +1,4 @@
-Heterosigma Y.Hada ex Y.Hara & M.Chihara, 1987 GENUS
-=======
+# Heterosigma Y.Hada ex Y.Hara & M.Chihara, 1987 GENUS
 
 #### Status
 ACCEPTED

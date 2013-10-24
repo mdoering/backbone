@@ -1,5 +1,4 @@
-Strobilomyces velutipes Cooke & Massee SPECIES
-=======
+# Strobilomyces velutipes Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

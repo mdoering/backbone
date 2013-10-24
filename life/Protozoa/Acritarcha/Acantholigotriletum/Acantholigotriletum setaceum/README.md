@@ -1,5 +1,4 @@
-Acantholigotriletum setaceum Timofeev, 1959 SPECIES
-=======
+# Acantholigotriletum setaceum Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

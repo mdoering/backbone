@@ -1,5 +1,4 @@
-Coccolithus eopelagicus (Bramlette & Riedel, 1954) Bramlette & Sullivan, 1961 SPECIES
-=======
+# Coccolithus eopelagicus (Bramlette & Riedel, 1954) Bramlette & Sullivan, 1961 SPECIES
 
 #### Status
 ACCEPTED

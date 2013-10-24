@@ -1,5 +1,4 @@
-Nectria ingae Chardón SPECIES
-=======
+# Nectria ingae Chardón SPECIES
 
 #### Status
 ACCEPTED

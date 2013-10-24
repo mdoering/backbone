@@ -1,5 +1,4 @@
-Puccinia camargoi Puttemans SPECIES
-=======
+# Puccinia camargoi Puttemans SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe albobrunnea Beeli SPECIES
-=======
+# Psilocybe albobrunnea Beeli SPECIES
 
 #### Status
 ACCEPTED

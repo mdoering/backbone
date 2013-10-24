@@ -1,5 +1,4 @@
-Octaedryxium intrarium Timofeev, 1973 SPECIES
-=======
+# Octaedryxium intrarium Timofeev, 1973 SPECIES
 
 #### Status
 ACCEPTED

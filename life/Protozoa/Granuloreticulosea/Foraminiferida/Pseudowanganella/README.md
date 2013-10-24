@@ -1,5 +1,4 @@
-Pseudowanganella Sosnina, 1983 GENUS
-=======
+# Pseudowanganella Sosnina, 1983 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Keronopsis Penard, 1922 GENUS
-=======
+# Keronopsis Penard, 1922 GENUS
 
 #### Status
 ACCEPTED

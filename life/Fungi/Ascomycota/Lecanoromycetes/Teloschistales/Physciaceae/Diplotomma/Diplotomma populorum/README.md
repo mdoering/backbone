@@ -1,5 +1,4 @@
-Diplotomma populorum A. Massal. SPECIES
-=======
+# Diplotomma populorum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptoniella glabra Murrill SPECIES
-=======
+# Leptoniella glabra Murrill SPECIES
 
 #### Status
 ACCEPTED

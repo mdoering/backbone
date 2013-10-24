@@ -1,5 +1,4 @@
-Clitocybe aromatica (Murrill) H.E. Bigelow SPECIES
-=======
+# Clitocybe aromatica (Murrill) H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

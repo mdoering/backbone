@@ -1,5 +1,4 @@
-Cystidiodendron fuscum Rick SPECIES
-=======
+# Cystidiodendron fuscum Rick SPECIES
 
 #### Status
 ACCEPTED

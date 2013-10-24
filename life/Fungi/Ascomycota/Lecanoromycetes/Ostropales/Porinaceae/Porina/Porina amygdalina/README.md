@@ -1,5 +1,4 @@
-Porina amygdalina Müll. Arg. SPECIES
-=======
+# Porina amygdalina Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

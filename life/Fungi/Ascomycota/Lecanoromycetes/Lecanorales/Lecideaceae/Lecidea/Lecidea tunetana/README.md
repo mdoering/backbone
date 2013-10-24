@@ -1,5 +1,4 @@
-Lecidea tunetana SPECIES
-=======
+# Lecidea tunetana SPECIES
 
 #### Status
 ACCEPTED

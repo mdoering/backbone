@@ -1,5 +1,4 @@
-Uredo digitariae Kunze SPECIES
-=======
+# Uredo digitariae Kunze SPECIES
 
 #### Status
 ACCEPTED

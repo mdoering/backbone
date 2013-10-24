@@ -1,5 +1,4 @@
-Diatrypella ivorensis Chevaug. SPECIES
-=======
+# Diatrypella ivorensis Chevaug. SPECIES
 
 #### Status
 ACCEPTED

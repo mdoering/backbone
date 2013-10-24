@@ -1,14 +1,13 @@
-Rhodophyllus sordidulus Kühner & Romagn., 1955 SPECIES
-=======
+# Entoloma sordidulum (Kühner & Romagn.) P.D. Orton, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 19: 10 (1955)
+Trans. Br. mycol. Soc. 43: 175 (1960)
 
 #### Original name
 Rhodophyllus sordidulus Kühner & Romagn., 1955

@@ -1,5 +1,4 @@
-Cortinarius karstenii Sacc. & P. Syd. SPECIES
-=======
+# Cortinarius karstenii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

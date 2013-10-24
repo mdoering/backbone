@@ -1,5 +1,4 @@
-Aposphaeria librincola (Cooke & Harkn.) Sacc. SPECIES
-=======
+# Aposphaeria librincola (Cooke & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

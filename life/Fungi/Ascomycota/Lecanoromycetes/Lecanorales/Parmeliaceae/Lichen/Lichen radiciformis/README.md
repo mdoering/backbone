@@ -1,5 +1,4 @@
-Lichen radiciformis (Scop.) Weber SPECIES
-=======
+# Lichen radiciformis (Scop.) Weber SPECIES
 
 #### Status
 ACCEPTED

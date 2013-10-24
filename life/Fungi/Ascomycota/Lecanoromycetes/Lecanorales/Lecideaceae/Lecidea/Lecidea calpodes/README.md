@@ -1,14 +1,13 @@
-Biatora calpodes (Stirt.) Walt. Watson SPECIES
-=======
+# Lecidea calpodes Stirt. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Glasgow Soc. Fld Nat. 4: 88 (1876)
 
 #### Original name
 Lecidea calpodes Stirt.

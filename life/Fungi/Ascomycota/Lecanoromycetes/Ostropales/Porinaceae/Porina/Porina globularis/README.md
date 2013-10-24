@@ -1,5 +1,4 @@
-Porina globularis Ach. SPECIES
-=======
+# Porina globularis Ach. SPECIES
 
 #### Status
 ACCEPTED

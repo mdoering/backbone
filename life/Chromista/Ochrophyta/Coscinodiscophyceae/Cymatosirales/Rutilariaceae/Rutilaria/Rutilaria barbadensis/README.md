@@ -1,5 +1,4 @@
-Rutilaria barbadensis R. Ross SPECIES
-=======
+# Rutilaria barbadensis R. Ross SPECIES
 
 #### Status
 ACCEPTED

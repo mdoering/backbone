@@ -1,5 +1,4 @@
-Perenniporia formosana T.T. Chang SPECIES
-=======
+# Perenniporia formosana T.T. Chang SPECIES
 
 #### Status
 ACCEPTED

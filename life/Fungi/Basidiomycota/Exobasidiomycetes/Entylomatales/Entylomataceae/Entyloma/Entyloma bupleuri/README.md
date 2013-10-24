@@ -1,5 +1,4 @@
-Entyloma bupleuri Lindr. SPECIES
-=======
+# Entyloma bupleuri Lindr. SPECIES
 
 #### Status
 ACCEPTED

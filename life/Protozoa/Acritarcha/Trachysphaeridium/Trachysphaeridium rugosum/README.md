@@ -1,5 +1,4 @@
-Trachysphaeridium rugosum Xing Yusheng in Xing Yusheng & Liu Kuizhih, 1973 SPECIES
-=======
+# Trachysphaeridium rugosum Xing Yusheng in Xing Yusheng & Liu Kuizhih, 1973 SPECIES
 
 #### Status
 ACCEPTED

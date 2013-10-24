@@ -1,5 +1,4 @@
-Panaeolus guttulatus Bres. SPECIES
-=======
+# Panaeolus guttulatus Bres. SPECIES
 
 #### Status
 ACCEPTED

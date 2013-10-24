@@ -1,5 +1,4 @@
-Sphaeria guttifera DC. SPECIES
-=======
+# Sphaeria guttifera DC. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophodermium rottobaelliae Sawada SPECIES
-=======
+# Lophodermium rottobaelliae Sawada SPECIES
 
 #### Status
 ACCEPTED

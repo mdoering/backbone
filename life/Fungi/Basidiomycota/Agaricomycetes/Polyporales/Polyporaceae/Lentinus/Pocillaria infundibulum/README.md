@@ -1,5 +1,4 @@
-Pocillaria infundibulum (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Pocillaria infundibulum (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

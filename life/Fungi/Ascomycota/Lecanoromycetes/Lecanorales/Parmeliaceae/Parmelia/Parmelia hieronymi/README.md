@@ -1,5 +1,4 @@
-Parmelia hieronymi Lynge SPECIES
-=======
+# Parmelia hieronymi Lynge SPECIES
 
 #### Status
 ACCEPTED

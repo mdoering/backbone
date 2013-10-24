@@ -1,5 +1,4 @@
-Sporotrichum granulosum (Mart.) Link SPECIES
-=======
+# Sporotrichum granulosum (Mart.) Link SPECIES
 
 #### Status
 ACCEPTED

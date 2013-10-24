@@ -1,5 +1,4 @@
-Agaricus linkii Fr. SPECIES
-=======
+# Agaricus linkii Fr. SPECIES
 
 #### Status
 ACCEPTED

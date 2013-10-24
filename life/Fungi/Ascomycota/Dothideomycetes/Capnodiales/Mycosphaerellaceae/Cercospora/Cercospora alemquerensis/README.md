@@ -1,5 +1,4 @@
-Cercospora alemquerensis Speg. SPECIES
-=======
+# Cercospora alemquerensis Speg. SPECIES
 
 #### Status
 ACCEPTED

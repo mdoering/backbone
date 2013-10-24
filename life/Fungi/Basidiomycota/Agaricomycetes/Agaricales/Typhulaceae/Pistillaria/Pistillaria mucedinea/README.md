@@ -1,5 +1,4 @@
-Pistillaria mucedinea Boud. SPECIES
-=======
+# Pistillaria mucedinea Boud. SPECIES
 
 #### Status
 ACCEPTED

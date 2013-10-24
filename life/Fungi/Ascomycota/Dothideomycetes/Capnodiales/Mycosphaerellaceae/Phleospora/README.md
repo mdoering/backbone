@@ -1,5 +1,4 @@
-Phleospora GENUS
-=======
+# Phleospora GENUS
 
 #### Status
 ACCEPTED

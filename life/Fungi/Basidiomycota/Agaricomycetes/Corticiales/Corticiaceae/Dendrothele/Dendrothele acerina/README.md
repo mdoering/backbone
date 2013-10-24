@@ -1,17 +1,16 @@
-Corticium acerinum var. acerinum VARIETY
-=======
+# Dendrothele acerina (Pers.) P.A. Lemke, 1965 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 3(3): 366 (1965)
 
 #### Original name
-Corticium acerinum var. acerinum
+Corticium acerinum Pers., 1796
 
 ### Remarks
 null

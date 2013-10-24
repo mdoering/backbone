@@ -1,5 +1,4 @@
-Cercospora rauwolfiae Chupp & A.S. Mull. SPECIES
-=======
+# Cercospora rauwolfiae Chupp & A.S. Mull. SPECIES
 
 #### Status
 ACCEPTED

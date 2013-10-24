@@ -1,5 +1,4 @@
-Lipospora tucsonensis Arthur SPECIES
-=======
+# Lipospora tucsonensis Arthur SPECIES
 
 #### Status
 ACCEPTED

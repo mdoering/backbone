@@ -1,5 +1,4 @@
-Thalassiosira spinosa Simonsen, 1974 SPECIES
-=======
+# Thalassiosira spinosa Simonsen, 1974 SPECIES
 
 #### Status
 ACCEPTED

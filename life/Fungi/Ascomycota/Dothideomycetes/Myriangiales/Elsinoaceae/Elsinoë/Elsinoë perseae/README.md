@@ -1,5 +1,4 @@
-Elsinoë perseae anon. SPECIES
-=======
+# Elsinoë perseae anon. SPECIES
 
 #### Status
 ACCEPTED

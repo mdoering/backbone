@@ -1,5 +1,4 @@
-Collybia glacialis Fr. SPECIES
-=======
+# Collybia glacialis Fr. SPECIES
 
 #### Status
 ACCEPTED

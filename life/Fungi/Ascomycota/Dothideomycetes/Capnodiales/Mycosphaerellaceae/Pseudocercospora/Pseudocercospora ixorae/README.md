@@ -1,5 +1,4 @@
-Pseudocercospora ixorae (Solheim) Deighton SPECIES
-=======
+# Pseudocercospora ixorae (Solheim) Deighton SPECIES
 
 #### Status
 ACCEPTED

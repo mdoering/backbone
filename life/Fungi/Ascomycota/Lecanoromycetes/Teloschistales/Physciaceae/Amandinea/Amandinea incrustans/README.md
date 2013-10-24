@@ -1,5 +1,4 @@
-Amandinea incrustans (J. Steiner) Marbach SPECIES
-=======
+# Amandinea incrustans (J. Steiner) Marbach SPECIES
 
 #### Status
 ACCEPTED

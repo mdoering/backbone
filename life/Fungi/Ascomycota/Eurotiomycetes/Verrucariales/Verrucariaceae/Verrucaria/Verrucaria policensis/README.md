@@ -1,5 +1,4 @@
-Verrucaria policensis Servít SPECIES
-=======
+# Verrucaria policensis Servít SPECIES
 
 #### Status
 ACCEPTED

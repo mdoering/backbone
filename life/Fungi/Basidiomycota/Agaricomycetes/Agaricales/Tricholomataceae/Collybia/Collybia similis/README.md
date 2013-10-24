@@ -1,5 +1,4 @@
-Collybia similis Hruby SPECIES
-=======
+# Collybia similis Hruby SPECIES
 
 #### Status
 ACCEPTED

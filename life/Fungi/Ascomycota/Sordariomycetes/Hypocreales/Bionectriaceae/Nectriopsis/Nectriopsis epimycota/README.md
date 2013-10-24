@@ -1,5 +1,4 @@
-Nectriopsis epimycota Samuels SPECIES
-=======
+# Nectriopsis epimycota Samuels SPECIES
 
 #### Status
 ACCEPTED

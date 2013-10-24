@@ -1,5 +1,4 @@
-Sphaeria aurantium Wallr. SPECIES
-=======
+# Sphaeria aurantium Wallr. SPECIES
 
 #### Status
 ACCEPTED

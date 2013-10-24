@@ -1,5 +1,4 @@
-Patellaria deusta Trevis. SPECIES
-=======
+# Patellaria deusta Trevis. SPECIES
 
 #### Status
 ACCEPTED

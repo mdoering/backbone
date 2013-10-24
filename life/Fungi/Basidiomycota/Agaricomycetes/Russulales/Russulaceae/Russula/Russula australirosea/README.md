@@ -1,5 +1,4 @@
-Russula australirosea Murrill SPECIES
-=======
+# Russula australirosea Murrill SPECIES
 
 #### Status
 ACCEPTED

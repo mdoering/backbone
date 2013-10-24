@@ -1,5 +1,4 @@
-Sebacina plumbea Bres. & Torrend SPECIES
-=======
+# Sebacina plumbea Bres. & Torrend SPECIES
 
 #### Status
 ACCEPTED

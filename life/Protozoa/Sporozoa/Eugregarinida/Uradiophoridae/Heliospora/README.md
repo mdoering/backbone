@@ -1,5 +1,4 @@
-Heliospora Goodrich, 1949 GENUS
-=======
+# Heliospora Goodrich, 1949 GENUS
 
 #### Status
 ACCEPTED

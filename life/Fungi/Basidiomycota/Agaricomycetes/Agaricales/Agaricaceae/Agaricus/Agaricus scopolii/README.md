@@ -1,5 +1,4 @@
-Agaricus scopolii Pers. SPECIES
-=======
+# Agaricus scopolii Pers. SPECIES
 
 #### Status
 ACCEPTED

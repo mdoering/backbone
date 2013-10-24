@@ -1,5 +1,4 @@
-Phlyctochytrium verruculosum J.S. Knox SPECIES
-=======
+# Phlyctochytrium verruculosum J.S. Knox SPECIES
 
 #### Status
 ACCEPTED

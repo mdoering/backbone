@@ -1,5 +1,4 @@
-Trypanomonas Danilewsky GENUS
-=======
+# Trypanomonas Danilewsky GENUS
 
 #### Status
 ACCEPTED

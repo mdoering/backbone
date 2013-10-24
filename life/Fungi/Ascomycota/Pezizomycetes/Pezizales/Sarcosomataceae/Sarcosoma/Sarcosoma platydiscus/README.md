@@ -1,5 +1,4 @@
-Sarcosoma platydiscus (Casp.) Sacc. SPECIES
-=======
+# Sarcosoma platydiscus (Casp.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

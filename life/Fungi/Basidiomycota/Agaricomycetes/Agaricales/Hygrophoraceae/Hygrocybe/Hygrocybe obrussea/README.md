@@ -1,5 +1,4 @@
-Hygrocybe obrussea (Fr.) Wünsche SPECIES
-=======
+# Hygrocybe obrussea (Fr.) Wünsche SPECIES
 
 #### Status
 ACCEPTED

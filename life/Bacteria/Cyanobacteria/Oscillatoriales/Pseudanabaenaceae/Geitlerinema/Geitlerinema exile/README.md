@@ -1,5 +1,4 @@
-Geitlerinema exile (Skuja) Anagnostidis SPECIES
-=======
+# Geitlerinema exile (Skuja) Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

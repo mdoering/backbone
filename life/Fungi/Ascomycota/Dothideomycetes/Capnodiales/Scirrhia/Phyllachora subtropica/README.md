@@ -1,5 +1,4 @@
-Phyllachora subtropica Speg., 1891 SPECIES
-=======
+# Phyllachora subtropica Speg., 1891 SPECIES
 
 #### Status
 DOUBTFUL

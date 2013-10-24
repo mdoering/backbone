@@ -1,8 +1,7 @@
-Gyroidina umbonata (Silvestri, 1898) SPECIES
-=======
+# Gyroidinoides umbonatus (Silvestri, 1898) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

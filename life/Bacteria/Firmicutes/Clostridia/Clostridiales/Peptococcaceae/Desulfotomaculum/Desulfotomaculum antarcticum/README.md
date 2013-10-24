@@ -1,5 +1,4 @@
-Desulfotomaculum antarcticum (ex Iizuka et al., 1969) Campbell & Singleton, 1988 SPECIES
-=======
+# Desulfotomaculum antarcticum (ex Iizuka et al., 1969) Campbell & Singleton, 1988 SPECIES
 
 #### Status
 ACCEPTED

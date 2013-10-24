@@ -1,5 +1,4 @@
-Verrucaria tumidula (Pers.) Hoffm. SPECIES
-=======
+# Verrucaria tumidula (Pers.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

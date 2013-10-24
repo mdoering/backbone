@@ -1,5 +1,4 @@
-Ramalina meyeri Stein SPECIES
-=======
+# Ramalina meyeri Stein SPECIES
 
 #### Status
 ACCEPTED

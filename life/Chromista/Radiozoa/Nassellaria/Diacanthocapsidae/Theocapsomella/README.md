@@ -1,5 +1,4 @@
-Theocapsomella O'Dogherty, Gorican & Dumitrica, 2006 GENUS
-=======
+# Theocapsomella O'Dogherty, Gorican & Dumitrica, 2006 GENUS
 
 #### Status
 ACCEPTED

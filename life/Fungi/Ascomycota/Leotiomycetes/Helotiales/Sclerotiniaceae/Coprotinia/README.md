@@ -1,5 +1,4 @@
-Coprotinia Whetzel, 1944 GENUS
-=======
+# Coprotinia Whetzel, 1944 GENUS
 
 #### Status
 ACCEPTED

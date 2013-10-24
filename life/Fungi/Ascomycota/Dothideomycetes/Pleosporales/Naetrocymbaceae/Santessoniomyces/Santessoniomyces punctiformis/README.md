@@ -1,5 +1,4 @@
-Santessoniomyces punctiformis Cif. & Tomas. SPECIES
-=======
+# Santessoniomyces punctiformis Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

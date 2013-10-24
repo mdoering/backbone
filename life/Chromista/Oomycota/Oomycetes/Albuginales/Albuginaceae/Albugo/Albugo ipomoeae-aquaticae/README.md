@@ -1,5 +1,4 @@
-Albugo ipomoeae-aquaticae Sawada SPECIES
-=======
+# Albugo ipomoeae-aquaticae Sawada SPECIES
 
 #### Status
 ACCEPTED

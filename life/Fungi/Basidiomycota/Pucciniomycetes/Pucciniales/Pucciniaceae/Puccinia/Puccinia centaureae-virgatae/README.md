@@ -1,5 +1,4 @@
-Puccinia centaureae-virgatae Vienn.-Bourg. SPECIES
-=======
+# Puccinia centaureae-virgatae Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

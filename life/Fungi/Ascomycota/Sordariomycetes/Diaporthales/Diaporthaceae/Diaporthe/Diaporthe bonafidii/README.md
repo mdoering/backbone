@@ -1,5 +1,4 @@
-Diaporthe bonafidii Sacc. SPECIES
-=======
+# Diaporthe bonafidii Sacc. SPECIES
 
 #### Status
 ACCEPTED

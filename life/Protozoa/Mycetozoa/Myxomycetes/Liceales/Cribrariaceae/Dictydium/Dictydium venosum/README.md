@@ -1,5 +1,4 @@
-Dictydium venosum Schrad. SPECIES
-=======
+# Dictydium venosum Schrad. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galerina alluviana A.H. Sm. SPECIES
-=======
+# Galerina alluviana A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

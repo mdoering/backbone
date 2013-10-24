@@ -1,5 +1,4 @@
-Detonula conferrancea (Cleve) Gran SPECIES
-=======
+# Detonula conferrancea (Cleve) Gran SPECIES
 
 #### Status
 ACCEPTED

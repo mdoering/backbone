@@ -1,5 +1,4 @@
-Stemphylium bresadolae Neerg. SPECIES
-=======
+# Stemphylium bresadolae Neerg. SPECIES
 
 #### Status
 ACCEPTED

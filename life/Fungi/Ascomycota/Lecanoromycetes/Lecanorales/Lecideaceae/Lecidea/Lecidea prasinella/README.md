@@ -1,5 +1,4 @@
-Lecidea prasinella Müll. Arg. SPECIES
-=======
+# Lecidea prasinella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Coniothyrium gregori Príhoda SPECIES
-=======
+# Coniothyrium gregorii Príhoda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Coniothyrium gregori Príhoda
+Coniothyrium gregorii Príhoda
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Acanthocorys Haeckel, 1881 GENUS
-=======
+# Acanthocorys Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

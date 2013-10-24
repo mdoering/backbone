@@ -1,5 +1,4 @@
-Blastenia agardhiana f. agardhiana FORM
-=======
+# Blastenia agardhiana (Flot.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

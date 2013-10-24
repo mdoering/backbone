@@ -1,5 +1,4 @@
-Septoria kitaibeliae Moesz & Smarods SPECIES
-=======
+# Septoria kitaibeliae Moesz & Smarods SPECIES
 
 #### Status
 ACCEPTED

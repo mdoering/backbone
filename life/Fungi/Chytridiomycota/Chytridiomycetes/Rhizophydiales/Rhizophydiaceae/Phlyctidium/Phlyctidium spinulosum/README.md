@@ -1,5 +1,4 @@
-Phlyctidium spinulosum Sparrow SPECIES
-=======
+# Phlyctidium spinulosum Sparrow SPECIES
 
 #### Status
 ACCEPTED

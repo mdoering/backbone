@@ -1,5 +1,4 @@
-Bacidina ramea S. Ekman SPECIES
-=======
+# Bacidina ramea S. Ekman SPECIES
 
 #### Status
 ACCEPTED

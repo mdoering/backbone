@@ -1,5 +1,4 @@
-Proboscia praebarboi (H. J. Schrader) R. W. Jordan & J. Priddle SPECIES
-=======
+# Proboscia praebarboi (H. J. Schrader) R. W. Jordan & J. Priddle SPECIES
 
 #### Status
 ACCEPTED

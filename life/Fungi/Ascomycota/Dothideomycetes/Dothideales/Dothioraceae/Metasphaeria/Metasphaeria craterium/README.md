@@ -1,5 +1,4 @@
-Metasphaeria craterium (Mont.) Sacc. SPECIES
-=======
+# Metasphaeria craterium (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

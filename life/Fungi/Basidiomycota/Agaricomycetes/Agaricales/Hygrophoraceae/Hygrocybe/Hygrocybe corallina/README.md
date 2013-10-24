@@ -1,5 +1,4 @@
-Hygrocybe corallina Leelav., Manim. & Arnolds SPECIES
-=======
+# Hygrocybe corallina Leelav., Manim. & Arnolds SPECIES
 
 #### Status
 ACCEPTED

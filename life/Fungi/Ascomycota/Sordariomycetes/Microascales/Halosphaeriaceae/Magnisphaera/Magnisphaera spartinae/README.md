@@ -1,5 +1,4 @@
-Magnisphaera spartinae (E.B.G. Jones) J. Campb., J.L. Anderson & Shearer, 2003 SPECIES
-=======
+# Magnisphaera spartinae (E.B.G. Jones) J. Campb., J.L. Anderson & Shearer, 2003 SPECIES
 
 #### Status
 ACCEPTED

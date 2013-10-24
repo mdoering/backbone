@@ -1,5 +1,4 @@
-Orthosomella lambdinaen T.G. Andreadis, C.T. Maier & C.R. Lemmon SPECIES
-=======
+# Orthosomella lambdinaen T.G. Andreadis, C.T. Maier & C.R. Lemmon SPECIES
 
 #### Status
 ACCEPTED

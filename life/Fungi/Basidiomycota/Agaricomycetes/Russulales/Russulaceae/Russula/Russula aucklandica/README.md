@@ -1,5 +1,4 @@
-Russula aucklandica McNabb, 1973 SPECIES
-=======
+# Russula aucklandica McNabb, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptospora elaeodendri S.D. Patil & C. Ramesh SPECIES
-=======
+# Leptospora elaeodendri S.D. Patil & C. Ramesh SPECIES
 
 #### Status
 ACCEPTED

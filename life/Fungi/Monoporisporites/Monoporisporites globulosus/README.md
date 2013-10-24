@@ -1,5 +1,4 @@
-Monoporisporites globulosus (Rouse) Kalgutkar & Janson. SPECIES
-=======
+# Monoporisporites globulosus (Rouse) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

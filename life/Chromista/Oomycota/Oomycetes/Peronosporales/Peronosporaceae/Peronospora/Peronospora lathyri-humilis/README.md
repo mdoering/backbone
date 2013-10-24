@@ -1,8 +1,7 @@
-Peronospora lathyri-puntili Benua SPECIES
-=======
+# Peronospora lathyri-humilis Benua SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peronospora lathyri-puntili Benua
+Peronospora lathyri-humilis Benua
 
 ### Remarks
 null

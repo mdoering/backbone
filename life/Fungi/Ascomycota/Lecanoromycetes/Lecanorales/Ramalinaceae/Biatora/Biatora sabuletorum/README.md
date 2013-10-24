@@ -1,5 +1,4 @@
-Biatora sabuletorum (Fr.) Müll. Arg. SPECIES
-=======
+# Biatora sabuletorum (Fr.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

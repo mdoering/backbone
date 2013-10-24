@@ -1,5 +1,4 @@
-Cercospora acuminata S. Das SPECIES
-=======
+# Cercospora acuminata S. Das SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patinella aterrima Fuckel SPECIES
-=======
+# Patinella aterrima Fuckel SPECIES
 
 #### Status
 ACCEPTED

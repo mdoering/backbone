@@ -1,5 +1,4 @@
-Tulostoma tartenovianum Philimonova & Vasyag. SPECIES
-=======
+# Tulostoma tartenovianum Philimonova & Vasyag. SPECIES
 
 #### Status
 ACCEPTED

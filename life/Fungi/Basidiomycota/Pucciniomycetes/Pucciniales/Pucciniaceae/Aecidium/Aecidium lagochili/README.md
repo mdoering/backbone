@@ -1,5 +1,4 @@
-Aecidium lagochili var. lagochili VARIETY
-=======
+# Aecidium lagochili Kom. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aecidium lagochili var. lagochili
+Aecidium lagochili Kom.
 
 ### Remarks
 null

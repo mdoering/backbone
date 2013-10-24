@@ -1,5 +1,4 @@
-Archaealveolina Fourcade, 1980 GENUS
-=======
+# Archaealveolina Fourcade, 1980 GENUS
 
 #### Status
 ACCEPTED

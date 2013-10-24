@@ -1,5 +1,4 @@
-Pasteuriaceae FAMILY
-=======
+# Pasteuriaceae FAMILY
 
 #### Status
 ACCEPTED

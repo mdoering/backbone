@@ -1,5 +1,4 @@
-Trametes japonica Yasuda SPECIES
-=======
+# Trametes japonica Yasuda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galera tenuissima (Weinm.) Gillet SPECIES
-=======
+# Galera tenuissima (Weinm.) Gillet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urocystis macrospora Desm. SPECIES
-=======
+# Urocystis macrospora Desm. SPECIES
 
 #### Status
 ACCEPTED

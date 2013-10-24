@@ -1,5 +1,4 @@
-Phaeospora cacticola F. Stevens SPECIES
-=======
+# Phaeospora cacticola F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea discoides Chevall. SPECIES
-=======
+# Lecidea discoides Chevall. SPECIES
 
 #### Status
 ACCEPTED

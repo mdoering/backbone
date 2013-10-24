@@ -1,5 +1,4 @@
-Dothidea atra Spreng. ex Fr. SPECIES
-=======
+# Dothidea atra Spreng. ex Fr. SPECIES
 
 #### Status
 ACCEPTED

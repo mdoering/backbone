@@ -1,5 +1,4 @@
-Epicoccum maritimum G.K. Sutherl. SPECIES
-=======
+# Epicoccum maritimum G.K. Sutherl. SPECIES
 
 #### Status
 ACCEPTED

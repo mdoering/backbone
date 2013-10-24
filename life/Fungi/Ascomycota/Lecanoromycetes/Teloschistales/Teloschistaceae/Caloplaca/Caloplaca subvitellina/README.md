@@ -1,5 +1,4 @@
-Caloplaca subvitellina (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Caloplaca subvitellina (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Solenia Hill ex Kuntze, 1898 GENUS
-=======
+# Boletus E.M. Fries, 1821 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(3): 521 (1898)
+Sp. pl. 2: 1176 (1753)
 
 #### Original name
-Solenia Hill ex Kuntze, 1898
+Boletus E.M. Fries, 1821
 
 ### Remarks
 null

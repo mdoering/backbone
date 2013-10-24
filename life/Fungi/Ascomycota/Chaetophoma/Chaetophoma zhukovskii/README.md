@@ -1,5 +1,4 @@
-Chaetophoma zhukovskii Gucevic SPECIES
-=======
+# Chaetophoma zhukovskii Gucevic SPECIES
 
 #### Status
 ACCEPTED

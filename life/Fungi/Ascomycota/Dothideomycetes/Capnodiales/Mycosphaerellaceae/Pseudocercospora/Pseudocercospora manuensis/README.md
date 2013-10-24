@@ -1,5 +1,4 @@
-Pseudocercospora manuensis Matsush. SPECIES
-=======
+# Pseudocercospora manuensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

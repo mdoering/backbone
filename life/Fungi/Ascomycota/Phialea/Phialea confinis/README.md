@@ -1,5 +1,4 @@
-Phialea confinis (P. Karst.) Sacc. SPECIES
-=======
+# Phialea confinis (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

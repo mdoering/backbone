@@ -1,5 +1,4 @@
-Melanoporia GENUS
-=======
+# Melanoporia GENUS
 
 #### Status
 ACCEPTED

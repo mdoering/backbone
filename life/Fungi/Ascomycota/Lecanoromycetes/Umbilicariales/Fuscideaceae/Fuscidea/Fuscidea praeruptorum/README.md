@@ -1,17 +1,16 @@
-Lecidea praeruptarum Du Rietz & H. Magn. SPECIES
-=======
+# Fuscidea praeruptorum (Du Rietz & H. Magn.) V. Wirth & Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beitr. Naturk. Forsch. Südwestdeutschl. 31: 92 (1972)
 
 #### Original name
-Lecidea praeruptarum Du Rietz & H. Magn.
+Lecidea praeruptorum Du Rietz & H. Magn.
 
 ### Remarks
 null

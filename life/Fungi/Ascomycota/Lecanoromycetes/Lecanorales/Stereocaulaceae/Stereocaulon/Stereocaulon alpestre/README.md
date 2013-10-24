@@ -1,5 +1,4 @@
-Stereocaulon alpestre (Flot.) Dombr. SPECIES
-=======
+# Stereocaulon alpestre (Flot.) Dombr. SPECIES
 
 #### Status
 ACCEPTED

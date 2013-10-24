@@ -1,5 +1,4 @@
-Lecidea michelettiana (A. Massal.) Nyl. SPECIES
-=======
+# Lecidea michelettiana (A. Massal.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

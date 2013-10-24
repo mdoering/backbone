@@ -1,5 +1,4 @@
-Chiastozygus amphipons (Bramlette & Martini, 1964) Gartner, 1968 SPECIES
-=======
+# Chiastozygus amphipons (Bramlette & Martini, 1964) Gartner, 1968 SPECIES
 
 #### Status
 ACCEPTED

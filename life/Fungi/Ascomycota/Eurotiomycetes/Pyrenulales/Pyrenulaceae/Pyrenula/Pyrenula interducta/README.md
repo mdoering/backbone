@@ -1,5 +1,4 @@
-Pyrenula interducta (Nyl.) Zahlbr. SPECIES
-=======
+# Pyrenula interducta (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

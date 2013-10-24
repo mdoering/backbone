@@ -1,5 +1,4 @@
-Psoroma patagonicum Malme SPECIES
-=======
+# Psoroma patagonicum Malme SPECIES
 
 #### Status
 ACCEPTED

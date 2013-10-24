@@ -1,5 +1,4 @@
-Aecidium singulare (Dietel & Holw.) Arthur SPECIES
-=======
+# Aecidium singulare (Dietel & Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

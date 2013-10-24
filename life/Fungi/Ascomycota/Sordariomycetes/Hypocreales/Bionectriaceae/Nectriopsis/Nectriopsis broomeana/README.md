@@ -1,14 +1,13 @@
-Sphaerostilbella broomeana (Tul. & C. Tul.) K. Põldmaa, 1999 SPECIES
-=======
+# Nectriopsis broomeana (Tul. & C. Tul.) W. Gams, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in K. Põldmaa, Larsson & Köljalg, Can. J. Bot. 77(12): 1764 (1999)
+in Gams & Van Zaayen, Neth. Jl Pl. Path. 88(2): 73 (1982)
 
 #### Original name
 Hypomyces broomeanus Tul. & C. Tul., 1865

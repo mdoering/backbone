@@ -1,5 +1,4 @@
-Pseudocyphellaria nudata (Zahlbr.) D. J. Galloway SPECIES
-=======
+# Pseudocyphellaria nudata (Zahlbr.) D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

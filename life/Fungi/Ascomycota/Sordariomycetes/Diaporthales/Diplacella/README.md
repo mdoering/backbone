@@ -1,5 +1,4 @@
-Diplacella Syd. GENUS
-=======
+# Diplacella Syd. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eriomycopsis schiffnerulae Hansf. SPECIES
-=======
+# Eriomycopsis schiffnerulae Hansf. SPECIES
 
 #### Status
 ACCEPTED

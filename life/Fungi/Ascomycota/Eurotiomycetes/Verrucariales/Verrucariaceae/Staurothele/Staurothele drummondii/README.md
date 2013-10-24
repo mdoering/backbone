@@ -1,5 +1,4 @@
-Staurothele drummondii (Tuck.) Tuck. SPECIES
-=======
+# Staurothele drummondii (Tuck.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

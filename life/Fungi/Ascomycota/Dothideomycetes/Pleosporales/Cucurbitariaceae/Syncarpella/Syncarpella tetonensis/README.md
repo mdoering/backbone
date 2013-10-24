@@ -1,5 +1,4 @@
-Syncarpella tetonensis (Ellis & Everh.) M.E. Barr & Boise SPECIES
-=======
+# Syncarpella tetonensis (Ellis & Everh.) M.E. Barr & Boise SPECIES
 
 #### Status
 ACCEPTED

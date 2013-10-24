@@ -1,5 +1,4 @@
-Anthostoma ambiguum Fabre SPECIES
-=======
+# Anthostoma ambiguum Fabre SPECIES
 
 #### Status
 ACCEPTED

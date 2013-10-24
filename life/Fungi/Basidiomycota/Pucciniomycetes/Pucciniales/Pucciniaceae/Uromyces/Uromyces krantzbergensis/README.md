@@ -1,5 +1,4 @@
-Uromyces krantzbergensis Doidge SPECIES
-=======
+# Uromyces krantzbergensis Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Trimmatostroma protearum Crous & M.E. Palm, 1999 SPECIES
-=======
+# Catenulostroma protearum (Crous & M.E. Palm) Crous & U. Braun, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Res. 103(10): 1303 (1999)
+in Crous, Braun & Groenewald, Stud. Mycol. 58: 17 (2007)
 
 #### Original name
 Trimmatostroma protearum Crous & M.E. Palm, 1999

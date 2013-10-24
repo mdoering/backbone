@@ -1,5 +1,4 @@
-Valsa affinis Nitschke SPECIES
-=======
+# Valsa affinis Nitschke SPECIES
 
 #### Status
 ACCEPTED

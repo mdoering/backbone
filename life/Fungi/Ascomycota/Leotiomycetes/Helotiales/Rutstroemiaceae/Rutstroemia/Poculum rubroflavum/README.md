@@ -1,5 +1,4 @@
-Poculum rubroflavum (K.S. Thind & Saini) Dumont SPECIES
-=======
+# Poculum rubroflavum (K.S. Thind & Saini) Dumont SPECIES
 
 #### Status
 ACCEPTED

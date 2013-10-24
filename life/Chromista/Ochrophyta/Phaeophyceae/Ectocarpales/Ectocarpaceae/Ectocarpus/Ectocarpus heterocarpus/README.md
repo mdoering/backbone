@@ -1,5 +1,4 @@
-Ectocarpus heterocarpus P.L. Crouan & H.M. Crouan SPECIES
-=======
+# Ectocarpus heterocarpus P.L. Crouan & H.M. Crouan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeocystidium abeuns (Burt) Tad. Ito SPECIES
-=======
+# Gloeocystidium abeuns (Burt) Tad. Ito SPECIES
 
 #### Status
 ACCEPTED

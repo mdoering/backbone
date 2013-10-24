@@ -1,5 +1,4 @@
-Leipokatium M.R. Bradford, 1975 GENUS
-=======
+# Leipokatium M.R. Bradford, 1975 GENUS
 
 #### Status
 ACCEPTED

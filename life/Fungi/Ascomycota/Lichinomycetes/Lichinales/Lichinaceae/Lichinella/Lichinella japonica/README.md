@@ -1,5 +1,4 @@
-Lichinella japonica H. Harada & Henssen SPECIES
-=======
+# Lichinella japonica H. Harada & Henssen SPECIES
 
 #### Status
 ACCEPTED

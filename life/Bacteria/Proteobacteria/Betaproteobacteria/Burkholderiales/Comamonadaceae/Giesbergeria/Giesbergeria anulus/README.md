@@ -1,8 +1,7 @@
-Aquaspirillum anulus (Williams and Rittenberg, 1957) Hylemon et al., 1973 (Approved Lists, 1980) SPECIES
-=======
+# Giesbergeria anulus (Williams & Rittenberg, 1957) Grabovich et al., 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

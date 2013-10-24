@@ -1,5 +1,4 @@
-Sticta humboldtii Hook. f. SPECIES
-=======
+# Sticta humboldtii Hook. f. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium festucae Scharif SPECIES
-=======
+# Helminthosporium festucae Scharif SPECIES
 
 #### Status
 ACCEPTED

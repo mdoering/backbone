@@ -1,5 +1,4 @@
-Heterillina cribrostoma SPECIES
-=======
+# Heterillina cribrostoma SPECIES
 
 #### Status
 ACCEPTED

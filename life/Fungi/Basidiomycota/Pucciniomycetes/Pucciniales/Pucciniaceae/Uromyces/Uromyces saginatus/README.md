@@ -1,5 +1,4 @@
-Uromyces saginatus Syd. SPECIES
-=======
+# Uromyces saginatus Syd. SPECIES
 
 #### Status
 ACCEPTED

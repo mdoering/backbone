@@ -1,5 +1,4 @@
-Hysterium berengerii Sacc. SPECIES
-=======
+# Hysterium berengerii Sacc. SPECIES
 
 #### Status
 ACCEPTED

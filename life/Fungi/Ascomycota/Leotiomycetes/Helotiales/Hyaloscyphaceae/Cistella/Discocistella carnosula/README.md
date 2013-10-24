@@ -1,5 +1,4 @@
-Discocistella carnosula (Velen.) Svrcek SPECIES
-=======
+# Discocistella carnosula (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota andegavensis Mornand SPECIES
-=======
+# Lepiota andegavensis Mornand SPECIES
 
 #### Status
 ACCEPTED

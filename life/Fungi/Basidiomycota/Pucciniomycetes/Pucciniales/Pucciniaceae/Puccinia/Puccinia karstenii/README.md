@@ -1,14 +1,13 @@
-Puccinia karsteni Lindr. SPECIES
-=======
+# Puccinia karstenii Lindr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Meddn Stockholms Högskolas Bot. Inst. 4: 4 (1901)
 
 #### Original name
 Puccinia angelicae (Schumach.) Fuckel, 1870

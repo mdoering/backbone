@@ -1,5 +1,4 @@
-Clitocybe pseudodicolor Raithelh. SPECIES
-=======
+# Clitocybe pseudodicolor Raithelh. SPECIES
 
 #### Status
 ACCEPTED

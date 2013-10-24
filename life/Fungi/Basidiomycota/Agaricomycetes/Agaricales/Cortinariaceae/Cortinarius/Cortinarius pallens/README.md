@@ -1,5 +1,4 @@
-Cortinarius pallens Eyssart. & Reumaux SPECIES
-=======
+# Cortinarius pallens Eyssart. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

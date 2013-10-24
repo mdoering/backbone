@@ -1,5 +1,4 @@
-Parmelia subregressa Lynge SPECIES
-=======
+# Parmelia subregressa Lynge SPECIES
 
 #### Status
 ACCEPTED

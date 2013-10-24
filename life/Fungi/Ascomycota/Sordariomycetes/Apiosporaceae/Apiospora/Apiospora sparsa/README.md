@@ -1,5 +1,4 @@
-Apiospora sparsa Earle SPECIES
-=======
+# Apiospora sparsa Earle SPECIES
 
 #### Status
 ACCEPTED

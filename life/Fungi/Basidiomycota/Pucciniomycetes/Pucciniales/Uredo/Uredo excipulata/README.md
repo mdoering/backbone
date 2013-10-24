@@ -1,5 +1,4 @@
-Uredo excipulata Syd. & P. Syd. SPECIES
-=======
+# Uredo excipulata Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

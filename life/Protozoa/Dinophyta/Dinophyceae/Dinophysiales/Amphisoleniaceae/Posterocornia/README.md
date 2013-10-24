@@ -1,5 +1,4 @@
-Posterocornia C.A. Kofoid, 1906 GENUS
-=======
+# Posterocornia C.A. Kofoid, 1906 GENUS
 
 #### Status
 ACCEPTED

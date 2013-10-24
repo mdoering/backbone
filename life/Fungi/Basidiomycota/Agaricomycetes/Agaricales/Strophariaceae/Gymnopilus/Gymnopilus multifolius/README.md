@@ -1,5 +1,4 @@
-Gymnopilus multifolius (Peck) Murrill SPECIES
-=======
+# Gymnopilus multifolius (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

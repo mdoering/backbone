@@ -1,5 +1,4 @@
-Daedalea parasitica Velen. SPECIES
-=======
+# Daedalea parasitica Velen. SPECIES
 
 #### Status
 ACCEPTED

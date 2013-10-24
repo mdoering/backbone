@@ -1,11 +1,10 @@
-Mycobacterium avidum (Eggerth, 1935) Krasil'nikov, 1949 SPECIES
-=======
+# Propionibacterium avidum (Eggerth, 1935) Moore and Holdeman, 1969 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

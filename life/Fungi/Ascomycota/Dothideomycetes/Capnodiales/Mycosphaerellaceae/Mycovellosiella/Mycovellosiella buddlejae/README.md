@@ -1,17 +1,16 @@
-Mycovellosiella buddleiae Deighton SPECIES
-=======
+# Mycovellosiella buddlejae Deighton SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Pap. 137: 31 (1974)
 
 #### Original name
-Mycovellosiella buddleiae Deighton
+Mycovellosiella buddlejae Deighton
 
 ### Remarks
 null

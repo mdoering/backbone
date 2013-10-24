@@ -1,5 +1,4 @@
-Cortinarius barrentium Poirier & Reumaux SPECIES
-=======
+# Cortinarius barrentium Poirier & Reumaux SPECIES
 
 #### Status
 ACCEPTED

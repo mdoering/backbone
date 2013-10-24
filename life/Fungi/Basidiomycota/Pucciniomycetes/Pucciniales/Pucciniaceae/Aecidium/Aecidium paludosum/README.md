@@ -1,5 +1,4 @@
-Aecidium paludosum Pass. SPECIES
-=======
+# Aecidium paludosum Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphium giganteum Speg. SPECIES
-=======
+# Graphium giganteum Speg. SPECIES
 
 #### Status
 ACCEPTED

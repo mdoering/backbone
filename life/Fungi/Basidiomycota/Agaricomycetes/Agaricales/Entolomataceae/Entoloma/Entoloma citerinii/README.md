@@ -1,5 +1,4 @@
-Entoloma citerinii Réaudin & Eyssart. SPECIES
-=======
+# Entoloma citerinii Réaudin & Eyssart. SPECIES
 
 #### Status
 ACCEPTED

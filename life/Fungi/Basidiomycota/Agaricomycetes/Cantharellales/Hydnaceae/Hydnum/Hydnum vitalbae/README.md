@@ -1,5 +1,4 @@
-Hydnum vitalbae Pers. SPECIES
-=======
+# Hydnum vitalbae Pers. SPECIES
 
 #### Status
 ACCEPTED

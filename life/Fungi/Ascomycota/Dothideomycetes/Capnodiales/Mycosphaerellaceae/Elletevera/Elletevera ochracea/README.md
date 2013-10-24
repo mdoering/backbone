@@ -1,5 +1,4 @@
-Elletevera ochracea Katum. SPECIES
-=======
+# Elletevera ochracea Katum. SPECIES
 
 #### Status
 ACCEPTED

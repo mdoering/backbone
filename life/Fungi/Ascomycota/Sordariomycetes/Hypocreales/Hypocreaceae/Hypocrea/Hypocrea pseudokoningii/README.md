@@ -1,5 +1,4 @@
-Hypocrea pseudokoningii Samuels & Petrini, 1998 SPECIES
-=======
+# Hypocrea pseudokoningii Samuels & Petrini, 1998 SPECIES
 
 #### Status
 ACCEPTED

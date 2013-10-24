@@ -1,5 +1,4 @@
-Glomus arenarium Blaszk., Tadych & Madej, 2001 SPECIES
-=======
+# Glomus arenarium Blaszk., Tadych & Madej, 2001 SPECIES
 
 #### Status
 ACCEPTED

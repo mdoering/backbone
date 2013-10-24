@@ -1,5 +1,4 @@
-Helmisporium GENUS
-=======
+# Helmisporium GENUS
 
 #### Status
 ACCEPTED

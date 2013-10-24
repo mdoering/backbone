@@ -1,5 +1,4 @@
-Helminthosporium cantareirense Henn. SPECIES
-=======
+# Helminthosporium cantareirense Henn. SPECIES
 
 #### Status
 ACCEPTED

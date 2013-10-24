@@ -1,5 +1,4 @@
-Penicillium citreoroseum Dierckx SPECIES
-=======
+# Penicillium citreoroseum Dierckx SPECIES
 
 #### Status
 ACCEPTED

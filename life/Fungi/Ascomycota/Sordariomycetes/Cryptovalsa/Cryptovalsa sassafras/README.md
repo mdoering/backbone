@@ -1,5 +1,4 @@
-Cryptovalsa sassafras (Ellis & Evehart) Berl. SPECIES
-=======
+# Cryptovalsa sassafras (Ellis & Evehart) Berl. SPECIES
 
 #### Status
 ACCEPTED

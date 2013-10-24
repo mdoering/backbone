@@ -1,5 +1,4 @@
-Serenomyces Petr. GENUS
-=======
+# Serenomyces Petr. GENUS
 
 #### Status
 ACCEPTED

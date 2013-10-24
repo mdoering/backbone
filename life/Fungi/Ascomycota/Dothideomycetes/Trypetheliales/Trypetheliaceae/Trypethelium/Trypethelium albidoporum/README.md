@@ -1,5 +1,4 @@
-Trypethelium albidoporum Makhija & Patw. SPECIES
-=======
+# Trypethelium albidoporum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

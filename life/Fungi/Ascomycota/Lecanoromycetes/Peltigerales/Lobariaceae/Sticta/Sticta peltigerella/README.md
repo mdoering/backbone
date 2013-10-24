@@ -1,5 +1,4 @@
-Sticta peltigerella (Nyl.) Trevis. SPECIES
-=======
+# Sticta peltigerella (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

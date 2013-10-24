@@ -1,5 +1,4 @@
-Meliola myrsinacearum F. Stevens SPECIES
-=======
+# Meliola myrsinacearum F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria delisei var. deplanata (Erichsen) Rondon & Vezda VARIETY
-=======
+# Pertusaria delisei Duby SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pertusaria rupestris var. deplanata Erichsen
+Pertusaria delisei Duby
 
 ### Remarks
 null

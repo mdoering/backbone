@@ -1,5 +1,4 @@
-Puccinia triraphidis Gjaerum SPECIES
-=======
+# Puccinia triraphidis Gjaerum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Polyporus caeruliporus Peck SPECIES
-=======
+# Polyporus caeruleoporus Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Rep. N. Y. St. Mus. nat. Hist. 26: 68 (1874)
 
 #### Original name
-Polyporus caeruliporus Peck
+Polyporus caeruleoporus Peck
 
 ### Remarks
 null

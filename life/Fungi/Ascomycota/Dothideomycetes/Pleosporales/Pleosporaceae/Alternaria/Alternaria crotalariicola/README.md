@@ -1,17 +1,16 @@
-Alternaria crotalaricola V. Rao SPECIES
-=======
+# Alternaria crotalariicola V. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 17(1-6): 70 (1964)
 
 #### Original name
-Alternaria crotalaricola V. Rao
+Alternaria crotalariicola V. Rao
 
 ### Remarks
 null

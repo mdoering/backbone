@@ -1,5 +1,4 @@
-Kuehneromyces papuensis (Cooke & Massee) Pegler SPECIES
-=======
+# Kuehneromyces papuensis (Cooke & Massee) Pegler SPECIES
 
 #### Status
 ACCEPTED

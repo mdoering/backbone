@@ -1,5 +1,4 @@
-Boletus tristiculus Massee SPECIES
-=======
+# Boletus tristiculus Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria stuppea (Wallr.) Nitschke SPECIES
-=======
+# Xylaria stuppea (Wallr.) Nitschke SPECIES
 
 #### Status
 ACCEPTED

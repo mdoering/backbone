@@ -1,5 +1,4 @@
-Tomentella retiruga E.C. Martini & Hentic, 2003 SPECIES
-=======
+# Tomentella retiruga E.C. Martini & Hentic, 2003 SPECIES
 
 #### Status
 ACCEPTED

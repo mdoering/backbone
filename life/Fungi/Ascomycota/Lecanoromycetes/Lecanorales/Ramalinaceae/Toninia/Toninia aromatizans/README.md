@@ -1,5 +1,4 @@
-Toninia aromatizans (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Toninia aromatizans (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

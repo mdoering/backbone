@@ -1,5 +1,4 @@
-Gerhardtia GENUS
-=======
+# Gerhardtia GENUS
 
 #### Status
 ACCEPTED

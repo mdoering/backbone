@@ -1,5 +1,4 @@
-Rhodocybe luteocinnamomea T.J. Baroni & Ovrebo SPECIES
-=======
+# Rhodocybe luteocinnamomea T.J. Baroni & Ovrebo SPECIES
 
 #### Status
 ACCEPTED

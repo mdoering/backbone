@@ -1,5 +1,4 @@
-Dendrodochium epidochium Sacc. SPECIES
-=======
+# Dendrodochium epidochium Sacc. SPECIES
 
 #### Status
 ACCEPTED

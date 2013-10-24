@@ -1,5 +1,4 @@
-Neonaumovia tianschanica Schwarzman SPECIES
-=======
+# Neonaumovia tianschanica Schwarzman SPECIES
 
 #### Status
 ACCEPTED

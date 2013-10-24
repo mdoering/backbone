@@ -1,5 +1,4 @@
-Collybia subabundans (Murrill) Murrill SPECIES
-=======
+# Collybia subabundans (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

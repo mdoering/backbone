@@ -1,5 +1,4 @@
-Lentinus graminicola Murrill SPECIES
-=======
+# Lentinus graminicola Murrill SPECIES
 
 #### Status
 ACCEPTED

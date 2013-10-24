@@ -1,14 +1,13 @@
-Coprinus nudiceps P.D. Orton, 1972 SPECIES
-=======
+# Parasola nudiceps (P.D. Orton) Redhead, Vilgalys & Hopple, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Notes R. bot. Gdn Edinb. 32: 142 (1972)
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 236 (2001)
 
 #### Original name
 Coprinus nudiceps P.D. Orton, 1972

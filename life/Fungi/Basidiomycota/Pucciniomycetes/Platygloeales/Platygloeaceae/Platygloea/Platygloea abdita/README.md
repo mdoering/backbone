@@ -1,14 +1,13 @@
-Achroomyces abditus (Bandoni) Hauerslev, 1993 SPECIES
-=======
+# Platygloea abdita Bandoni, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 49: 218 (1993)
+Mycologia 51(1): 94 (1959)
 
 #### Original name
 Platygloea abdita Bandoni, 1959

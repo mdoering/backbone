@@ -1,8 +1,7 @@
-Microcystis montigena Hoffmann SPECIES
-=======
+# Aphanocapsa muscicola (Meneghini) Wille SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

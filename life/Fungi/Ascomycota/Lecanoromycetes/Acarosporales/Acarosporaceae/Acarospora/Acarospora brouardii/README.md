@@ -1,5 +1,4 @@
-Acarospora brouardii de Lesd. SPECIES
-=======
+# Acarospora brouardii de Lesd. SPECIES
 
 #### Status
 ACCEPTED

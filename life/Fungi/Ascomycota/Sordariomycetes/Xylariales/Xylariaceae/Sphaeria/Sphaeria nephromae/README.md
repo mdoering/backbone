@@ -1,5 +1,4 @@
-Sphaeria nephromae P. Crouan & H. Crouan SPECIES
-=======
+# Sphaeria nephromae P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

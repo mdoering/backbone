@@ -1,5 +1,4 @@
-Galerula tenerella (G.F. Atk.) Murrill SPECIES
-=======
+# Galerula tenerella (G.F. Atk.) Murrill SPECIES
 
 #### Status
 ACCEPTED

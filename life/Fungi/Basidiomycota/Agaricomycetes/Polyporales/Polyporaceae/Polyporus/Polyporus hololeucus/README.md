@@ -1,5 +1,4 @@
-Polyporus hololeucus Mont. SPECIES
-=======
+# Polyporus hololeucus Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discula campestris (Pass.) Arx, 1957 SPECIES
-=======
+# Discula campestris (Pass.) Arx, 1957 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bicosoeca lacustris J. Clark SPECIES
-=======
+# Bicosoeca lacustris J. Clark SPECIES
 
 #### Status
 ACCEPTED

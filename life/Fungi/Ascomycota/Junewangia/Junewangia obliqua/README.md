@@ -1,14 +1,13 @@
-Acrodictys obliqua M.B. Ellis, 1961 SPECIES
-=======
+# Junewangia obliqua (M.B. Ellis) W.A. Baker & Morgan-Jones, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 79: 13 (1961)
+Mycotaxon 81: 311 (2002)
 
 #### Original name
 Acrodictys obliqua M.B. Ellis, 1961

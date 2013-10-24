@@ -1,5 +1,4 @@
-Vorticella subsinuata Ghosh, 1825 SPECIES
-=======
+# Vorticella subsinuata Ghosh, 1825 SPECIES
 
 #### Status
 ACCEPTED

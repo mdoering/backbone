@@ -1,5 +1,4 @@
-Striatosphaeria Samuels & E. Müll. GENUS
-=======
+# Striatosphaeria Samuels & E. Müll. GENUS
 
 #### Status
 ACCEPTED

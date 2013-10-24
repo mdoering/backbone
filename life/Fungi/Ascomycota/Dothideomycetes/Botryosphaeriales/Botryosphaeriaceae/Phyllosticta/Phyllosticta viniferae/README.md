@@ -1,17 +1,16 @@
-Phyllosticta vinifera Bat. & A.F. Vital SPECIES
-=======
+# Phyllosticta viniferae Bat. & A.F. Vital SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bol. Secr. Agric. (Pernambuco) 19(1-2): 56 (1952)
 
 #### Original name
-Phyllosticta vinifera Bat. & A.F. Vital
+Phyllosticta viniferae Bat. & A.F. Vital
 
 ### Remarks
 null

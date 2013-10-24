@@ -1,5 +1,4 @@
-Sclerotium umbilicatulum J. Lindau SPECIES
-=======
+# Sclerotium umbilicatulum J. Lindau SPECIES
 
 #### Status
 ACCEPTED

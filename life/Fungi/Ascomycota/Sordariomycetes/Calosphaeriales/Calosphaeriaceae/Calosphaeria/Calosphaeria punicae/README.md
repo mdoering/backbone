@@ -1,5 +1,4 @@
-Calosphaeria punicae Rolland SPECIES
-=======
+# Calosphaeria punicae Rolland SPECIES
 
 #### Status
 ACCEPTED

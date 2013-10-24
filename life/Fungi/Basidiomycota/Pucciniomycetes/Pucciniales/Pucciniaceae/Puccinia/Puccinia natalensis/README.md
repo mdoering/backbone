@@ -1,5 +1,4 @@
-Puccinia natalensis var. natalensis VARIETY
-=======
+# Puccinia natalensis Dietel & P. Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hedwigia 38: 130 (1899)
 
 #### Original name
-Puccinia natalensis var. natalensis
+Puccinia natalensis Dietel & P. Syd.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ramularia martianoffiana Thüm. SPECIES
-=======
+# Ramularia martianoffiana Thüm. SPECIES
 
 #### Status
 ACCEPTED

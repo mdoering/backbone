@@ -1,5 +1,4 @@
-Sulfobacillus Golovacheva & Karavaiko, 1991 GENUS
-=======
+# Sulfobacillus Golovacheva & Karavaiko, 1991 GENUS
 
 #### Status
 ACCEPTED

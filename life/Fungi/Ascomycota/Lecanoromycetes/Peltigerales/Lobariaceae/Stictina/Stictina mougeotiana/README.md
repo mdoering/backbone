@@ -1,5 +1,4 @@
-Stictina mougeotiana (Delise) Nyl. SPECIES
-=======
+# Stictina mougeotiana (Delise) Nyl. SPECIES
 
 #### Status
 ACCEPTED

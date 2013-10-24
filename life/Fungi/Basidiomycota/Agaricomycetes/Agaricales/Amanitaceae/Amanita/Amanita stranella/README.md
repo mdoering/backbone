@@ -1,5 +1,4 @@
-Amanita stranella E.-J. Gilbert & Snell SPECIES
-=======
+# Amanita stranella E.-J. Gilbert & Snell SPECIES
 
 #### Status
 ACCEPTED

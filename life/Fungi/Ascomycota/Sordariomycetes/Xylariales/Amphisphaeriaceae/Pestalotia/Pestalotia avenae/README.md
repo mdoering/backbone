@@ -1,5 +1,4 @@
-Pestalotia avenae R. Sprague SPECIES
-=======
+# Pestalotia avenae R. Sprague SPECIES
 
 #### Status
 ACCEPTED

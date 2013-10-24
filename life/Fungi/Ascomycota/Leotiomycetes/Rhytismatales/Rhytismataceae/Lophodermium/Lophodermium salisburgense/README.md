@@ -1,5 +1,4 @@
-Lophodermium salisburgense Petr., 1963 SPECIES
-=======
+# Lophodermium salisburgense Petr., 1963 SPECIES
 
 #### Status
 ACCEPTED

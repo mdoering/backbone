@@ -1,5 +1,4 @@
-Mauritzia phyllisca (Nyl.) Gyeln. SPECIES
-=======
+# Mauritzia phyllisca (Nyl.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

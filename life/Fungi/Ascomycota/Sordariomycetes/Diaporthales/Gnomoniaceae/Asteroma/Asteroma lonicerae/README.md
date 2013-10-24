@@ -1,5 +1,4 @@
-Asteroma lonicerae Gonz. Frag. SPECIES
-=======
+# Asteroma lonicerae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

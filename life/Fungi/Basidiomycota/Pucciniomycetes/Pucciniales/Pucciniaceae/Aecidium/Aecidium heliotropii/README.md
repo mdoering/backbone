@@ -1,5 +1,4 @@
-Aecidium heliotropii Tracy & L.D. Galloway SPECIES
-=======
+# Aecidium heliotropii Tracy & L.D. Galloway SPECIES
 
 #### Status
 ACCEPTED

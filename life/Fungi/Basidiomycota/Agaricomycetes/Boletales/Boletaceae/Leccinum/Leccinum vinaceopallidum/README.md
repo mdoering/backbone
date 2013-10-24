@@ -1,5 +1,4 @@
-Leccinum vinaceopallidum A.H. Sm., Thiers & Watling SPECIES
-=======
+# Leccinum vinaceopallidum A.H. Sm., Thiers & Watling SPECIES
 
 #### Status
 ACCEPTED

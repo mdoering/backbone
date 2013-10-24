@@ -1,5 +1,4 @@
-Endoxyla xanthostroma Unter. SPECIES
-=======
+# Endoxyla xanthostroma Unter. SPECIES
 
 #### Status
 ACCEPTED

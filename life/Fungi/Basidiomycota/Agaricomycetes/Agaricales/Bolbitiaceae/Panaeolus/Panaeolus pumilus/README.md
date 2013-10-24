@@ -1,5 +1,4 @@
-Panaeolus pumilus (Murrill) Murrill SPECIES
-=======
+# Panaeolus pumilus (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

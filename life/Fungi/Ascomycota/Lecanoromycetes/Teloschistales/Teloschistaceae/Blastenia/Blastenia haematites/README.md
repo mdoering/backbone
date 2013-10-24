@@ -1,5 +1,4 @@
-Blastenia haematites (Chaub. ex St.-Amans) B. de Lesd. SPECIES
-=======
+# Blastenia haematites (Chaub. ex St.-Amans) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria vernoniae (Hansf.) Rossman SPECIES
-=======
+# Nectria vernoniae (Hansf.) Rossman SPECIES
 
 #### Status
 ACCEPTED

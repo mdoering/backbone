@@ -1,5 +1,4 @@
-Schizodiscus Brusse, 1988 GENUS
-=======
+# Schizodiscus Brusse, 1988 GENUS
 
 #### Status
 ACCEPTED

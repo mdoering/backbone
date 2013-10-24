@@ -1,14 +1,13 @@
-Pocillaria cirrhosa (Fr.) Kuntze, 1891 SPECIES
-=======
+# Neolentinus cirrhosus (Fr.) Redhead & Ginns, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 865 (1891)
+Trans. Mycol. Soc. Japan 26(3): 357 (1985)
 
 #### Original name
 Lentinus cirrhosus Fr., 1837

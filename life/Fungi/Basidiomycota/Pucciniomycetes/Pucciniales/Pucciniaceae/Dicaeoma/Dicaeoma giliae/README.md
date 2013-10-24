@@ -1,5 +1,4 @@
-Dicaeoma giliae (Ellis & Harkn.) Kuntze SPECIES
-=======
+# Dicaeoma giliae (Ellis & Harkn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

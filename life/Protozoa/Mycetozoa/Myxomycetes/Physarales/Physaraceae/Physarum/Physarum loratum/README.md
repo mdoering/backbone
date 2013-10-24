@@ -1,5 +1,4 @@
-Physarum loratum Shuang L. Chen, Yu Li & H.Z. Li, 1999 SPECIES
-=======
+# Physarum loratum Shuang L. Chen, Yu Li & H.Z. Li, 1999 SPECIES
 
 #### Status
 ACCEPTED

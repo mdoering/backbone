@@ -1,5 +1,4 @@
-Sphaeria idaei Fuckel SPECIES
-=======
+# Sphaeria idaei Fuckel SPECIES
 
 #### Status
 ACCEPTED

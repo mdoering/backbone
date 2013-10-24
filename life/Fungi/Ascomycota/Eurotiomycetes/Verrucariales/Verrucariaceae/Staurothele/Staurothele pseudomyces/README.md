@@ -1,5 +1,4 @@
-Staurothele pseudomyces Norman SPECIES
-=======
+# Staurothele pseudomyces Norman SPECIES
 
 #### Status
 ACCEPTED

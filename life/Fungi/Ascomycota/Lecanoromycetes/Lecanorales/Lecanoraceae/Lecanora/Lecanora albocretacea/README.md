@@ -1,5 +1,4 @@
-Lecanora albocretacea Zahlbr. SPECIES
-=======
+# Lecanora albocretacea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

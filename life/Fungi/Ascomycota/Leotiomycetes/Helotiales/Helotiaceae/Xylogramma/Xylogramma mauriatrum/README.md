@@ -1,14 +1,13 @@
-Xylogramma mauriatra (Cooke & Ellis) Kutorga & D. Hawksw. SPECIES
-=======
+# Xylogramma mauriatrum (Cooke & Ellis) Kutorga & D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syst. Ascom. 15(1-2): 40 (1997)
 
 #### Original name
 Peziza mauriatra Cooke & Ellis

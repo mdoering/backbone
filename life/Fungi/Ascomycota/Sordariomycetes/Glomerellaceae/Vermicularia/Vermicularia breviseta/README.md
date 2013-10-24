@@ -1,5 +1,4 @@
-Vermicularia breviseta Curzi & Barbaini SPECIES
-=======
+# Vermicularia breviseta Curzi & Barbaini SPECIES
 
 #### Status
 ACCEPTED

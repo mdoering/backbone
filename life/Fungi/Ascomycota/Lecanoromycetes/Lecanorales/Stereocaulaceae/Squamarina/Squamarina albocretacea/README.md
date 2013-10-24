@@ -1,5 +1,4 @@
-Squamarina albocretacea (B. de Lesd.) Motyka SPECIES
-=======
+# Squamarina albocretacea (B. de Lesd.) Motyka SPECIES
 
 #### Status
 ACCEPTED

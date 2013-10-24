@@ -1,5 +1,4 @@
-Spirostomum crassum Kahl, 1927 SPECIES
-=======
+# Spirostomum crassum Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

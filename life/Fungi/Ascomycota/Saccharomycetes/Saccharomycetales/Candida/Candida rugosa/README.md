@@ -1,17 +1,16 @@
-Torula rugosa Saito, 1922 SPECIES
-=======
+# Candida rugosa (H.W. Anderson) Diddens & Lodder SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Die Hefasammlung des 'Centraalbureau voor Schimmelcultures': Beitrage zu einer Monographie der Hefearten. II. Teil. Die anaskosporogenen Hefen. Zweite Halfte 2: 280 (1942)
 
 #### Original name
-null
+Mycoderma rugosum H.W. Anderson, 1917
 
 ### Remarks
 null

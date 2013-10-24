@@ -1,5 +1,4 @@
-Stylospongia huxleyi Haeckel, 1862 SPECIES
-=======
+# Stylospongia huxleyi Haeckel, 1862 SPECIES
 
 #### Status
 ACCEPTED

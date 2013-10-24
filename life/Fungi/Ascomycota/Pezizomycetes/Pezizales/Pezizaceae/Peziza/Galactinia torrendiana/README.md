@@ -1,5 +1,4 @@
-Galactinia torrendiana Boud. SPECIES
-=======
+# Galactinia torrendiana Boud. SPECIES
 
 #### Status
 ACCEPTED

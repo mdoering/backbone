@@ -1,5 +1,4 @@
-Pleospora misera Speg. SPECIES
-=======
+# Pleospora misera Speg. SPECIES
 
 #### Status
 ACCEPTED

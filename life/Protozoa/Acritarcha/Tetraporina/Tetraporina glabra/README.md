@@ -1,5 +1,4 @@
-Tetraporina glabra Naumova, 1950 SPECIES
-=======
+# Tetraporina glabra Naumova, 1950 SPECIES
 
 #### Status
 ACCEPTED

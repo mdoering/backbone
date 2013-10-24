@@ -1,5 +1,4 @@
-Hymenogaster maurus Maire SPECIES
-=======
+# Hymenogaster maurus Maire SPECIES
 
 #### Status
 ACCEPTED

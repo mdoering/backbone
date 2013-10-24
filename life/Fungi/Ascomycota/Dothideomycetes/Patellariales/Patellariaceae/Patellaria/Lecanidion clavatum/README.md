@@ -1,5 +1,4 @@
-Lecanidion clavatum (Ellis) Sacc. SPECIES
-=======
+# Lecanidion clavatum (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

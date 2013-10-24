@@ -1,5 +1,4 @@
-Rhopaliophora reticulata Uutela & Tynni, 1991 SPECIES
-=======
+# Rhopaliophora reticulata Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

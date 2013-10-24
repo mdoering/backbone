@@ -1,5 +1,4 @@
-Lecidea vahliana Linds. SPECIES
-=======
+# Lecidea vahliana Linds. SPECIES
 
 #### Status
 ACCEPTED

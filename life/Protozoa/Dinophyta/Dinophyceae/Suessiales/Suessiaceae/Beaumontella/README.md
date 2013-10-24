@@ -1,5 +1,4 @@
-Beaumontella R.Below, 1987 GENUS
-=======
+# Beaumontella R.Below, 1987 GENUS
 
 #### Status
 ACCEPTED

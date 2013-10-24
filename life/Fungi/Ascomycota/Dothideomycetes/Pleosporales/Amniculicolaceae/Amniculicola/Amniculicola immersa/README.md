@@ -1,5 +1,4 @@
-Amniculicola immersa Ying Zhang, J. Fourn., Crous & K.D. Hyde, 2009 SPECIES
-=======
+# Amniculicola immersa Ying Zhang, J. Fourn., Crous & K.D. Hyde, 2009 SPECIES
 
 #### Status
 ACCEPTED

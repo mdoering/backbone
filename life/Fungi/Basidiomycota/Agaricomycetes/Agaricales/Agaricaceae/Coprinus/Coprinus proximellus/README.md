@@ -1,5 +1,4 @@
-Coprinus proximellus P. Karst. SPECIES
-=======
+# Coprinus proximellus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

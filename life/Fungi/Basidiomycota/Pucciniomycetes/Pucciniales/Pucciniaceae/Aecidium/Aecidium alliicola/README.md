@@ -1,5 +1,4 @@
-Aecidium alliicola G. Winter SPECIES
-=======
+# Aecidium alliicola G. Winter SPECIES
 
 #### Status
 ACCEPTED

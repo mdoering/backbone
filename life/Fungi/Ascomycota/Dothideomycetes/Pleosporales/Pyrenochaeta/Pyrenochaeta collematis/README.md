@@ -1,5 +1,4 @@
-Pyrenochaeta collematis Vouaux SPECIES
-=======
+# Pyrenochaeta collematis Vouaux SPECIES
 
 #### Status
 ACCEPTED

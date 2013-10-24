@@ -1,5 +1,4 @@
-Hexagonia subtenuis Sacc. SPECIES
-=======
+# Hexagonia subtenuis Sacc. SPECIES
 
 #### Status
 ACCEPTED

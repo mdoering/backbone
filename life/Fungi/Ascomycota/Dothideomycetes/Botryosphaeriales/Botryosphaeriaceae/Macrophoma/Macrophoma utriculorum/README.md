@@ -1,5 +1,4 @@
-Macrophoma utriculorum Sacc. SPECIES
-=======
+# Macrophoma utriculorum Sacc. SPECIES
 
 #### Status
 ACCEPTED

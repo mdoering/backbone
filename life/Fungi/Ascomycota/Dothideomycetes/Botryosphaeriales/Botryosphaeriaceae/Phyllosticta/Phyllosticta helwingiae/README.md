@@ -1,5 +1,4 @@
-Phyllosticta helwingiae Nann. SPECIES
-=======
+# Phyllosticta helwingiae Nann. SPECIES
 
 #### Status
 ACCEPTED

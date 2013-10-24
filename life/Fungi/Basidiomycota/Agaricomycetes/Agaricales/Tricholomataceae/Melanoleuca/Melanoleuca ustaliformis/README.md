@@ -1,5 +1,4 @@
-Melanoleuca ustaliformis Murrill SPECIES
-=======
+# Melanoleuca ustaliformis Murrill SPECIES
 
 #### Status
 ACCEPTED

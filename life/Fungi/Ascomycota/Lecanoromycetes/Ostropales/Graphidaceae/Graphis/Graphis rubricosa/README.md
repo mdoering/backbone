@@ -1,5 +1,4 @@
-Graphis rubricosa Fée SPECIES
-=======
+# Graphis rubricosa Fée SPECIES
 
 #### Status
 ACCEPTED

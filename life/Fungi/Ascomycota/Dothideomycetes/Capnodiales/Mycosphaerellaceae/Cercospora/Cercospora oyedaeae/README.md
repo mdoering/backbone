@@ -1,5 +1,4 @@
-Cercospora oyedaeae Syd. SPECIES
-=======
+# Cercospora oyedaeae Syd. SPECIES
 
 #### Status
 ACCEPTED

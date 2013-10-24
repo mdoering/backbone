@@ -1,5 +1,4 @@
-Sphaeria viridicoma Cooke & Peck SPECIES
-=======
+# Sphaeria viridicoma Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

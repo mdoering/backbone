@@ -1,5 +1,4 @@
-Teichosporella planiuscula Sacc. SPECIES
-=======
+# Teichosporella planiuscula Sacc. SPECIES
 
 #### Status
 ACCEPTED

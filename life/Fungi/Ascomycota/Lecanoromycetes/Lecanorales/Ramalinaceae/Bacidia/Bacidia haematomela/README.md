@@ -1,5 +1,4 @@
-Bacidia haematomela SPECIES
-=======
+# Bacidia haematomela SPECIES
 
 #### Status
 ACCEPTED

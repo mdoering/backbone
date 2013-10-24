@@ -1,5 +1,4 @@
-Lecidora exuta (Nyl.) Motyka SPECIES
-=======
+# Lecidora exuta (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora oxneri Cretz. SPECIES
-=======
+# Lecanora oxneri Cretz. SPECIES
 
 #### Status
 ACCEPTED

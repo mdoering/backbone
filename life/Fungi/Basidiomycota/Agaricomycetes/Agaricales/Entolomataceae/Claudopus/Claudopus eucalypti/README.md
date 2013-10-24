@@ -1,5 +1,4 @@
-Claudopus eucalypti Torrend SPECIES
-=======
+# Claudopus eucalypti Torrend SPECIES
 
 #### Status
 ACCEPTED

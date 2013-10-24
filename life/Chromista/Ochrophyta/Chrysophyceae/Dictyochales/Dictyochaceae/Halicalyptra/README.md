@@ -1,5 +1,4 @@
-Halicalyptra C.G.Ehrenberg, 1847 GENUS
-=======
+# Halicalyptra C.G.Ehrenberg, 1847 GENUS
 
 #### Status
 ACCEPTED

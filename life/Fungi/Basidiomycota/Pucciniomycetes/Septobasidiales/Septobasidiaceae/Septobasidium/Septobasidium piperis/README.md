@@ -1,5 +1,4 @@
-Septobasidium piperis Henn. ex Couch SPECIES
-=======
+# Septobasidium piperis Henn. ex Couch SPECIES
 
 #### Status
 ACCEPTED

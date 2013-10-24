@@ -1,5 +1,4 @@
-Pertusaria glaucopunctata Vain. SPECIES
-=======
+# Pertusaria glaucopunctata Vain. SPECIES
 
 #### Status
 ACCEPTED

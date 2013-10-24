@@ -1,5 +1,4 @@
-Peridinium anserinum Baumeister SPECIES
-=======
+# Peridinium anserinum Baumeister SPECIES
 
 #### Status
 ACCEPTED

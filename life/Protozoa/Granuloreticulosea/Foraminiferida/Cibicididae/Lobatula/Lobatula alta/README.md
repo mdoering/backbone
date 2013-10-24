@@ -1,5 +1,4 @@
-Lobatula alta Saidova, 1975 SPECIES
-=======
+# Lobatula alta Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

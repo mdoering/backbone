@@ -1,5 +1,4 @@
-Lecidea acarnanica (Harm.) H. Olivier SPECIES
-=======
+# Lecidea acarnanica (Harm.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

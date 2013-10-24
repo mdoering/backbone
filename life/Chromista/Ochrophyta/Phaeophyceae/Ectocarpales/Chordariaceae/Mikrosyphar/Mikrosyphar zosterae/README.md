@@ -1,5 +1,4 @@
-Mikrosyphar zosterae Kuckuck SPECIES
-=======
+# Mikrosyphar zosterae Kuckuck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alveosphaera R.W. Jordan & J.R. Young, 1990 GENUS
-=======
+# Alveosphaera R.W. Jordan & J.R. Young, 1990 GENUS
 
 #### Status
 ACCEPTED

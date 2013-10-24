@@ -1,5 +1,4 @@
-Tubercularia olivacea McAlpine SPECIES
-=======
+# Tubercularia olivacea McAlpine SPECIES
 
 #### Status
 ACCEPTED

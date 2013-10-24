@@ -1,5 +1,4 @@
-Xiambola Minter & Hol.-Jech. GENUS
-=======
+# Xiambola Minter & Hol.-Jech. GENUS
 
 #### Status
 ACCEPTED

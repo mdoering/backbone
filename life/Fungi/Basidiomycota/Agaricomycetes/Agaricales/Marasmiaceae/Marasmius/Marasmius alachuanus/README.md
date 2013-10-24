@@ -1,5 +1,4 @@
-Marasmius alachuanus Murrill SPECIES
-=======
+# Marasmius alachuanus Murrill SPECIES
 
 #### Status
 ACCEPTED

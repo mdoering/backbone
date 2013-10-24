@@ -1,5 +1,4 @@
-Trochila prominula Sacc. & Speg. SPECIES
-=======
+# Trochila prominula Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

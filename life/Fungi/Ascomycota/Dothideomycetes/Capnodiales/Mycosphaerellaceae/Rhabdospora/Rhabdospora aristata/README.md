@@ -1,5 +1,4 @@
-Rhabdospora aristata Dearn. & Barthol. SPECIES
-=======
+# Rhabdospora aristata Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

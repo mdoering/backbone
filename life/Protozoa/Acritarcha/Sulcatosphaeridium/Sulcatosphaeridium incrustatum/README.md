@@ -1,5 +1,4 @@
-Sulcatosphaeridium incrustatum N. Umnova in N. Umnova & Fanderflit, 1971 SPECIES
-=======
+# Sulcatosphaeridium incrustatum N. Umnova in N. Umnova & Fanderflit, 1971 SPECIES
 
 #### Status
 ACCEPTED

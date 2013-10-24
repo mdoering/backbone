@@ -1,5 +1,4 @@
-Lophiosphaera rivulicola K.D. Hyde & Goh SPECIES
-=======
+# Lophiosphaera rivulicola K.D. Hyde & Goh SPECIES
 
 #### Status
 ACCEPTED

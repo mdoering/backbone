@@ -1,5 +1,4 @@
-Nocardia pneumoniae Kageyama et al., 2004 SPECIES
-=======
+# Nocardia pneumoniae Kageyama et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

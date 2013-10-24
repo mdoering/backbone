@@ -1,5 +1,4 @@
-Rhabdospora veratrina Bres. SPECIES
-=======
+# Rhabdospora veratrina Bres. SPECIES
 
 #### Status
 ACCEPTED

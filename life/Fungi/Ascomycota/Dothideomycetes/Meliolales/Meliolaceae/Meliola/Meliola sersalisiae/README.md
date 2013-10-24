@@ -1,5 +1,4 @@
-Meliola sersalisiae Hansf. SPECIES
-=======
+# Meliola sersalisiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

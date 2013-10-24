@@ -1,8 +1,7 @@
-Spathidium implicatum Kahl, 1930 SPECIES
-=======
+# Apertospathidium implicata (Kahl, 1930) Foissner & Oertel, 2009 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

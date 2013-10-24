@@ -1,5 +1,4 @@
-Asterina ixorae R.W. Ryan SPECIES
-=======
+# Asterina ixorae R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

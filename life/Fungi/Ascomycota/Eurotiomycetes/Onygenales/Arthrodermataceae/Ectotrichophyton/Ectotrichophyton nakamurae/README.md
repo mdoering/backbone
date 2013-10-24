@@ -1,5 +1,4 @@
-Ectotrichophyton nakamurae C.W. Dodge SPECIES
-=======
+# Ectotrichophyton nakamurae C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

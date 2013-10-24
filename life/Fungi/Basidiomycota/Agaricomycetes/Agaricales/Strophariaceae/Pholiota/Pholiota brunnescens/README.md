@@ -1,5 +1,4 @@
-Pholiota brunnescens A.H. Sm. & Hesler, 1968 SPECIES
-=======
+# Pholiota brunnescens A.H. Sm. & Hesler, 1968 SPECIES
 
 #### Status
 ACCEPTED

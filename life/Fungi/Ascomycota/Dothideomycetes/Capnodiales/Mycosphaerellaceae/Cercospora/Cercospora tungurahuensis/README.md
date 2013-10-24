@@ -1,5 +1,4 @@
-Cercospora tungurahuensis Petr. SPECIES
-=======
+# Cercospora tungurahuensis Petr. SPECIES
 
 #### Status
 ACCEPTED

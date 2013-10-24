@@ -1,5 +1,4 @@
-Olpidium difflugiae Scherff. SPECIES
-=======
+# Olpidium difflugiae Scherff. SPECIES
 
 #### Status
 ACCEPTED

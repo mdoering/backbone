@@ -1,5 +1,4 @@
-Stagonospora harae E. Castell. & Germano SPECIES
-=======
+# Stagonospora harae E. Castell. & Germano SPECIES
 
 #### Status
 ACCEPTED

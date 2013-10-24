@@ -1,17 +1,16 @@
-Ramularia albo-maculans Sawada SPECIES
-=======
+# Ramularia albomaculans Sawada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Govt Forest Exp. Stn Meguro 105: 86 (1958)
 
 #### Original name
-Ramularia albo-maculans Sawada
+Ramularia albomaculans Sawada
 
 ### Remarks
 null

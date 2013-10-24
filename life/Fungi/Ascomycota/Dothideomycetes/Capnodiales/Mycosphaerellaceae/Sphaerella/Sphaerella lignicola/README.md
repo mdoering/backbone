@@ -1,5 +1,4 @@
-Sphaerella lignicola Munk SPECIES
-=======
+# Sphaerella lignicola Munk SPECIES
 
 #### Status
 ACCEPTED

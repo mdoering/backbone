@@ -1,5 +1,4 @@
-Bullaria idonea (H.S. Jacks. & Holw.) Arthur & Mains SPECIES
-=======
+# Bullaria idonea (H.S. Jacks. & Holw.) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

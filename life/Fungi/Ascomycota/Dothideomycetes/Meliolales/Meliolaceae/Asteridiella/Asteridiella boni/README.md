@@ -1,5 +1,4 @@
-Asteridiella boni (Gaillard) Hansf. SPECIES
-=======
+# Asteridiella boni (Gaillard) Hansf. SPECIES
 
 #### Status
 ACCEPTED

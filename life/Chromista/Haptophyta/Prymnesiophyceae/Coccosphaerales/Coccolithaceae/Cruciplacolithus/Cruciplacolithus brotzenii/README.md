@@ -1,5 +1,4 @@
-Cruciplacolithus brotzenii (Perch-Nielsen, 1969) Perch-Nielsen, I, 984 SPECIES
-=======
+# Cruciplacolithus brotzenii (Perch-Nielsen, 1969) Perch-Nielsen, I, 984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septatium quercinum Velen. SPECIES
-=======
+# Septatium quercinum Velen. SPECIES
 
 #### Status
 ACCEPTED

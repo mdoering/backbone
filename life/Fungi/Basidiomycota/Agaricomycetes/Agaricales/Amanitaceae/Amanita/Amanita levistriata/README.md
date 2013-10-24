@@ -1,5 +1,4 @@
-Amanita levistriata D.T. Jenkins SPECIES
-=======
+# Amanita levistriata D.T. Jenkins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Napicladium thalictri Bäumler SPECIES
-=======
+# Napicladium thalictri Bäumler SPECIES
 
 #### Status
 ACCEPTED

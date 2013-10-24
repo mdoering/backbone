@@ -1,5 +1,4 @@
-Pholiota sipei A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota sipei A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

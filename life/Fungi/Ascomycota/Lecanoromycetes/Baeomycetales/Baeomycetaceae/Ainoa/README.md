@@ -1,5 +1,4 @@
-Ainoa Lumbsch & I. Schmitt, 2001 GENUS
-=======
+# Ainoa Lumbsch & I. Schmitt, 2001 GENUS
 
 #### Status
 ACCEPTED

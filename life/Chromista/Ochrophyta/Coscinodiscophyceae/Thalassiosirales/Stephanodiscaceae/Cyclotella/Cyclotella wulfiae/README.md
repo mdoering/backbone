@@ -1,5 +1,4 @@
-Cyclotella wulfiae B. Meyer & H. Håkansson SPECIES
-=======
+# Cyclotella wulfiae B. Meyer & H. Håkansson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia dusenii Zahlbr. SPECIES
-=======
+# Parmelia dusenii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

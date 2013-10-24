@@ -1,5 +1,4 @@
-Uromyces wulffiae Henn. SPECIES
-=======
+# Uromyces wulffiae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimeromyces storkii W. Rossi & A. Weir SPECIES
-=======
+# Dimeromyces storkii W. Rossi & A. Weir SPECIES
 
 #### Status
 ACCEPTED

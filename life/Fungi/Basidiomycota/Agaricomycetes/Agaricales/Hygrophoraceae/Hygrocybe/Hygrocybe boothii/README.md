@@ -1,5 +1,4 @@
-Hygrocybe boothii A.M. Young SPECIES
-=======
+# Hygrocybe boothii A.M. Young SPECIES
 
 #### Status
 ACCEPTED

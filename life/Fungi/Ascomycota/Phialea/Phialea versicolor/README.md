@@ -1,5 +1,4 @@
-Phialea versicolor Quél. SPECIES
-=======
+# Phialea versicolor Quél. SPECIES
 
 #### Status
 ACCEPTED

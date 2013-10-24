@@ -1,5 +1,4 @@
-Downiea Pothe de Baldis, 1975 GENUS
-=======
+# Downiea Pothe de Baldis, 1975 GENUS
 
 #### Status
 ACCEPTED

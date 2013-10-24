@@ -1,5 +1,4 @@
-Stropharia yunnanensis W.F. Chiu SPECIES
-=======
+# Stropharia yunnanensis W.F. Chiu SPECIES
 
 #### Status
 ACCEPTED

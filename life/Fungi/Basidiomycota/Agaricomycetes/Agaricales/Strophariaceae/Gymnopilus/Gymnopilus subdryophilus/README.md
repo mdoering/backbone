@@ -1,5 +1,4 @@
-Gymnopilus subdryophilus Murrill SPECIES
-=======
+# Gymnopilus subdryophilus Murrill SPECIES
 
 #### Status
 ACCEPTED

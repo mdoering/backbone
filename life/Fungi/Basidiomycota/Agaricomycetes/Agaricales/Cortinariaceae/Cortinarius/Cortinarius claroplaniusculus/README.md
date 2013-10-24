@@ -1,5 +1,4 @@
-Cortinarius claroplaniusculus Rob. Henry SPECIES
-=======
+# Cortinarius claroplaniusculus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

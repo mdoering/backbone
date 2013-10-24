@@ -1,5 +1,4 @@
-Dermatocarpon maroccanum Werner SPECIES
-=======
+# Dermatocarpon maroccanum Werner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elytrosporangium Morais, Bat. & Massa GENUS
-=======
+# Elytrosporangium Morais, Bat. & Massa GENUS
 
 #### Status
 ACCEPTED

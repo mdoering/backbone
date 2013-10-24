@@ -1,5 +1,4 @@
-Nannoconus cornuta Deres & Achéritéguy, 1980 SPECIES
-=======
+# Nannoconus cornuta Deres & Achéritéguy, 1980 SPECIES
 
 #### Status
 ACCEPTED

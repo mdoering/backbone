@@ -1,5 +1,4 @@
-Candida viswanathi Sandhu & Randhawa SPECIES
-=======
+# Candida viswanathi Sandhu & Randhawa SPECIES
 
 #### Status
 ACCEPTED

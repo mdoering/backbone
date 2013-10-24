@@ -1,5 +1,4 @@
-Pseudopyrenula endoxantha (Vain.) Zahlbr. SPECIES
-=======
+# Pseudopyrenula endoxantha (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

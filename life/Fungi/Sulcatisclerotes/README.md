@@ -1,5 +1,4 @@
-Sulcatisclerotes Bene GENUS
-=======
+# Sulcatisclerotes Bene GENUS
 
 #### Status
 ACCEPTED

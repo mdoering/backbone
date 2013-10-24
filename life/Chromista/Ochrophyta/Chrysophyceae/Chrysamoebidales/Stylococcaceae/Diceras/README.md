@@ -1,5 +1,4 @@
-Diceras Reverdin, 1917 GENUS
-=======
+# Diceras Reverdin, 1917 GENUS
 
 #### Status
 ACCEPTED

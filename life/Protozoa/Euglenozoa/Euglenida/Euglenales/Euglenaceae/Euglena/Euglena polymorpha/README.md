@@ -1,5 +1,4 @@
-Euglena polymorpha P.A. Dangeard SPECIES
-=======
+# Euglena polymorpha P.A. Dangeard SPECIES
 
 #### Status
 ACCEPTED

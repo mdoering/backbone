@@ -1,5 +1,4 @@
-Phaeosphaerella gouaniae (Gonz. Frag. & Cif.) Petr. SPECIES
-=======
+# Phaeosphaerella gouaniae (Gonz. Frag. & Cif.) Petr. SPECIES
 
 #### Status
 ACCEPTED

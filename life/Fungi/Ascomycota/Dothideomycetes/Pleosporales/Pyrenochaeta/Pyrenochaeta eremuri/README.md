@@ -1,5 +1,4 @@
-Pyrenochaeta eremuri Annal. SPECIES
-=======
+# Pyrenochaeta eremuri Annal. SPECIES
 
 #### Status
 ACCEPTED

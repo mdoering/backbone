@@ -1,5 +1,4 @@
-Acolium chloroconium Tuck. SPECIES
-=======
+# Acolium chloroconium Tuck. SPECIES
 
 #### Status
 ACCEPTED

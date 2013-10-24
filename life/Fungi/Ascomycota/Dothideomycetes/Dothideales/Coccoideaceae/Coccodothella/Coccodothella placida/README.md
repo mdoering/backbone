@@ -1,5 +1,4 @@
-Coccodothella placida (Syd.) Syd. SPECIES
-=======
+# Coccodothella placida (Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

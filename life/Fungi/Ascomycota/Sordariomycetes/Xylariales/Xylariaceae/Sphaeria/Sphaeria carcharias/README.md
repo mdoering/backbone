@@ -1,5 +1,4 @@
-Sphaeria carcharias var. carcharias VARIETY
-=======
+# Sphaeria carcharias Weigel SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Observ. Bot. tab. 3: 6 (1869)
+Observ. Bot. tab. 3:6 (1869)
 
 #### Original name
-Sphaeria carcharias var. carcharias
+Sphaeria carcharias Weigel
 
 ### Remarks
 null

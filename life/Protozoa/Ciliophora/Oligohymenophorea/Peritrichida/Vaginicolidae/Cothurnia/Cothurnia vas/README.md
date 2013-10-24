@@ -1,5 +1,4 @@
-Cothurnia vas Swarczewsky, 1930 SPECIES
-=======
+# Cothurnia vas Swarczewsky, 1930 SPECIES
 
 #### Status
 ACCEPTED

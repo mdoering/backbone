@@ -1,17 +1,16 @@
-Diplodia ribis var. ribis VARIETY
-=======
+# Cucurbitaria ribis Niessl, 1872 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 5): 578 (1879)
+Verh. nat. Ver. Brünn 10: 198 (1872)
 
 #### Original name
-Diplodia ribis var. ribis
+Cucurbitaria ribis Niessl, 1872
 
 ### Remarks
 null

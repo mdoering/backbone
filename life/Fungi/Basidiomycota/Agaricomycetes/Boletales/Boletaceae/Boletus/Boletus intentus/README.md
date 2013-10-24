@@ -1,5 +1,4 @@
-Boletus intentus Corner SPECIES
-=======
+# Boletus intentus Corner SPECIES
 
 #### Status
 ACCEPTED

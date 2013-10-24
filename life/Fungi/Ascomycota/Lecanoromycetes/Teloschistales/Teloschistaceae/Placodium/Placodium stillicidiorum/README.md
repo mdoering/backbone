@@ -1,5 +1,4 @@
-Placodium stillicidiorum f. stillicidiorum FORM
-=======
+# Placodium stillicidiorum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lichen stillicidiorum Vahl
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Candida entomophila D.B. Scott, van der Walt & Klift, 1971 SPECIES
-=======
+# Candida entomophila D.B. Scott, van der Walt & Klift, 1971 SPECIES
 
 #### Status
 ACCEPTED

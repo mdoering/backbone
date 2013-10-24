@@ -1,5 +1,4 @@
-Microdiplodia mori Allesch. SPECIES
-=======
+# Microdiplodia mori Allesch. SPECIES
 
 #### Status
 ACCEPTED

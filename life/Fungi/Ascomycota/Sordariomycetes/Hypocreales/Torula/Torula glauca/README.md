@@ -1,5 +1,4 @@
-Torula glauca Preuss SPECIES
-=======
+# Torula glauca Preuss SPECIES
 
 #### Status
 ACCEPTED

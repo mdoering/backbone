@@ -1,5 +1,4 @@
-Streptosporangium Couch GENUS
-=======
+# Streptosporangium Couch GENUS
 
 #### Status
 ACCEPTED

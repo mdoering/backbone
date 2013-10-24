@@ -1,8 +1,7 @@
-Acholeplasma seiffertii Bonnet et al., 1991 SPECIES
-=======
+# Mesoplasma seiffertii (Bonnet et al., 1991) Tully et al., 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

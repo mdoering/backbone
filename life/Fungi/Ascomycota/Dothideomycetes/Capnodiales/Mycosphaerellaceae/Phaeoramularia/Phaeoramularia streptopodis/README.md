@@ -1,5 +1,4 @@
-Phaeoramularia streptopodis (Dearn. & Barthol.) Deighton SPECIES
-=======
+# Phaeoramularia streptopodis (Dearn. & Barthol.) Deighton SPECIES
 
 #### Status
 ACCEPTED

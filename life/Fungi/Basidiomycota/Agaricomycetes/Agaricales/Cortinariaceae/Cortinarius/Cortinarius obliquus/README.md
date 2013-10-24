@@ -1,5 +1,4 @@
-Cortinarius obliquus Peck SPECIES
-=======
+# Cortinarius obliquus Peck SPECIES
 
 #### Status
 ACCEPTED

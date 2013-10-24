@@ -1,5 +1,4 @@
-Xanthoparmelia subamplexuloides Hale SPECIES
-=======
+# Xanthoparmelia subamplexuloides Hale SPECIES
 
 #### Status
 ACCEPTED

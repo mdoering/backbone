@@ -1,5 +1,4 @@
-Omphalina trigonospora Lamoure SPECIES
-=======
+# Omphalina trigonospora Lamoure SPECIES
 
 #### Status
 ACCEPTED

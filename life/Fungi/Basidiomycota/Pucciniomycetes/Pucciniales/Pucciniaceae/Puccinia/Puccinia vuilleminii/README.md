@@ -1,5 +1,4 @@
-Puccinia vuilleminii De Toni SPECIES
-=======
+# Puccinia vuilleminii De Toni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlyctis capillaris Stirt. SPECIES
-=======
+# Phlyctis capillaris Stirt. SPECIES
 
 #### Status
 ACCEPTED

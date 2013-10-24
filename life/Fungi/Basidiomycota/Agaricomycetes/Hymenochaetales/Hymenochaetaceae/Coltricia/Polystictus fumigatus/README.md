@@ -1,5 +1,4 @@
-Polystictus fumigatus Bres. SPECIES
-=======
+# Polystictus fumigatus Bres. SPECIES
 
 #### Status
 ACCEPTED

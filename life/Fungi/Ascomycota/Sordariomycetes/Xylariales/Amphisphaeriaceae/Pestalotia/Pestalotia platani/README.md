@@ -1,5 +1,4 @@
-Pestalotia platani Fautrey SPECIES
-=======
+# Pestalotia platani Fautrey SPECIES
 
 #### Status
 ACCEPTED

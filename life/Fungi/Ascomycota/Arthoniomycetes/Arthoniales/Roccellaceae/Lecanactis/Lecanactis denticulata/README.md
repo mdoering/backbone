@@ -1,5 +1,4 @@
-Lecanactis denticulata Vain. SPECIES
-=======
+# Lecanactis denticulata Vain. SPECIES
 
 #### Status
 ACCEPTED

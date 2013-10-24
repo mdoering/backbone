@@ -1,5 +1,4 @@
-Phoma papyricola Tassi SPECIES
-=======
+# Phoma papyricola Tassi SPECIES
 
 #### Status
 ACCEPTED

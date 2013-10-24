@@ -1,5 +1,4 @@
-Ophiochaeta inulae Feltgen SPECIES
-=======
+# Ophiochaeta inulae Feltgen SPECIES
 
 #### Status
 ACCEPTED

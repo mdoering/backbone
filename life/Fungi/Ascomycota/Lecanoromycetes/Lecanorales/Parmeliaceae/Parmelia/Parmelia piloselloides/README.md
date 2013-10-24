@@ -1,5 +1,4 @@
-Parmelia piloselloides Zahlbr. SPECIES
-=======
+# Parmelia piloselloides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

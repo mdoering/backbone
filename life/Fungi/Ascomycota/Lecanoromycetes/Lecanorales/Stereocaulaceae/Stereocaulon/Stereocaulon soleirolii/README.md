@@ -1,5 +1,4 @@
-Stereocaulon soleirolii Schaer. SPECIES
-=======
+# Stereocaulon soleirolii Schaer. SPECIES
 
 #### Status
 ACCEPTED

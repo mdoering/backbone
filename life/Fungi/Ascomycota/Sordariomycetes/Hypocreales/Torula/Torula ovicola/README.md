@@ -1,5 +1,4 @@
-Torula ovicola Zimm. SPECIES
-=======
+# Torula ovicola Zimm. SPECIES
 
 #### Status
 ACCEPTED

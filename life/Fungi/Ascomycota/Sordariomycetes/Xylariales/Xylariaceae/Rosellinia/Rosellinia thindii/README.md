@@ -1,5 +1,4 @@
-Rosellinia thindii Dargan SPECIES
-=======
+# Rosellinia thindii Dargan SPECIES
 
 #### Status
 ACCEPTED

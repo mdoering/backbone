@@ -1,5 +1,4 @@
-Phaeophyscia nadvornikii (Frey & Poelt) N.S. Golubk. SPECIES
-=======
+# Phaeophyscia nadvornikii (Frey & Poelt) N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

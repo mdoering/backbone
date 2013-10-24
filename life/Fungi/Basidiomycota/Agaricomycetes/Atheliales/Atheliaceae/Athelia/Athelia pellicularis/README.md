@@ -1,5 +1,4 @@
-Athelia pellicularis (P. Karst.) Donk SPECIES
-=======
+# Athelia pellicularis (P. Karst.) Donk SPECIES
 
 #### Status
 ACCEPTED

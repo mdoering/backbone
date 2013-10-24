@@ -1,5 +1,4 @@
-Humaria stellata Kanouse SPECIES
-=======
+# Humaria stellata Kanouse SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucocoprinus rubrosquamosus (Rick) Raithelh. SPECIES
-=======
+# Leucocoprinus rubrosquamosus (Rick) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

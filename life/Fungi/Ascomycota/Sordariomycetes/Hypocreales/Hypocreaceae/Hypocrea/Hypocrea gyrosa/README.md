@@ -1,5 +1,4 @@
-Hypocrea gyrosa Theiss. SPECIES
-=======
+# Hypocrea gyrosa Theiss. SPECIES
 
 #### Status
 ACCEPTED

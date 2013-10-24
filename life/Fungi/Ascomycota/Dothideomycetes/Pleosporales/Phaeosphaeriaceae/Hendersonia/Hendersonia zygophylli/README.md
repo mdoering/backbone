@@ -1,5 +1,4 @@
-Hendersonia zygophylli Petr. SPECIES
-=======
+# Hendersonia zygophylli Petr. SPECIES
 
 #### Status
 ACCEPTED

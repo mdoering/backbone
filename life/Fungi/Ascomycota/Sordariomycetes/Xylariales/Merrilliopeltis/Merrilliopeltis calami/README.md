@@ -1,5 +1,4 @@
-Merrilliopeltis calami Henn. SPECIES
-=======
+# Merrilliopeltis calami Henn. SPECIES
 
 #### Status
 ACCEPTED

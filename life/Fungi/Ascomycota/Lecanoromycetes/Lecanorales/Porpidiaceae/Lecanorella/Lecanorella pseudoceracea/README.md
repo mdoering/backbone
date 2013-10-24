@@ -1,5 +1,4 @@
-Lecanorella pseudoceracea Motyka SPECIES
-=======
+# Lecanorella pseudoceracea Motyka SPECIES
 
 #### Status
 ACCEPTED

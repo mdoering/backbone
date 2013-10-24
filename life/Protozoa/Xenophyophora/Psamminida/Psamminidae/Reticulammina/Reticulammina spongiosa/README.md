@@ -1,5 +1,4 @@
-Reticulammina spongiosa Kamenskaya, 1998 SPECIES
-=======
+# Reticulammina spongiosa Kamenskaya, 1998 SPECIES
 
 #### Status
 ACCEPTED

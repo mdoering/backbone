@@ -1,5 +1,4 @@
-Uromyces arisaemae Cooke SPECIES
-=======
+# Uromyces arisaemae Cooke SPECIES
 
 #### Status
 ACCEPTED

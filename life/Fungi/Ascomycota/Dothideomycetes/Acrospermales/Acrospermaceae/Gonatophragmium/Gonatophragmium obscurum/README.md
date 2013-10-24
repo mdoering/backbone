@@ -1,5 +1,4 @@
-Gonatophragmium obscurum U. Braun & C.F. Hill, 2002 SPECIES
-=======
+# Gonatophragmium obscurum U. Braun & C.F. Hill, 2002 SPECIES
 
 #### Status
 ACCEPTED

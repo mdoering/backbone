@@ -1,5 +1,4 @@
-Clitocybe acicola Singer SPECIES
-=======
+# Clitocybe acicola Singer SPECIES
 
 #### Status
 ACCEPTED

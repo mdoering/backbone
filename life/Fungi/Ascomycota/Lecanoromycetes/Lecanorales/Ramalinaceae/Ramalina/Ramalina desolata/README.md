@@ -1,5 +1,4 @@
-Ramalina desolata H. Magn. SPECIES
-=======
+# Ramalina desolata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

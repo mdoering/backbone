@@ -1,5 +1,4 @@
-Diploschistes steifensandii (Stein) Zahlbr. SPECIES
-=======
+# Diploschistes steifensandii (Stein) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

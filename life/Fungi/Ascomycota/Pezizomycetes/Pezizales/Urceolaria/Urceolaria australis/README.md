@@ -1,5 +1,4 @@
-Urceolaria australis Nyl. SPECIES
-=======
+# Urceolaria australis Nyl. SPECIES
 
 #### Status
 ACCEPTED

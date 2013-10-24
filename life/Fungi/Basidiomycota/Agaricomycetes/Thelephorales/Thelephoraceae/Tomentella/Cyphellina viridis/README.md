@@ -1,5 +1,4 @@
-Cyphellina viridis (Berk.) Rick SPECIES
-=======
+# Cyphellina viridis (Berk.) Rick SPECIES
 
 #### Status
 ACCEPTED

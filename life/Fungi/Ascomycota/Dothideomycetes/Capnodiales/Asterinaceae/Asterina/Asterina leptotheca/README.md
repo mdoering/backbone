@@ -1,5 +1,4 @@
-Asterina leptotheca Speg. SPECIES
-=======
+# Asterina leptotheca Speg. SPECIES
 
 #### Status
 ACCEPTED

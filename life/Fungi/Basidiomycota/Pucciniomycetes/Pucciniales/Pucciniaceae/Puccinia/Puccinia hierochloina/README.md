@@ -1,5 +1,4 @@
-Puccinia hierochloina Kleb. SPECIES
-=======
+# Puccinia hierochloina Kleb. SPECIES
 
 #### Status
 ACCEPTED

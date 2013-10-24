@@ -1,5 +1,4 @@
-Pertusaria lecanorodes Erichsen SPECIES
-=======
+# Pertusaria lecanorodes Erichsen SPECIES
 
 #### Status
 ACCEPTED

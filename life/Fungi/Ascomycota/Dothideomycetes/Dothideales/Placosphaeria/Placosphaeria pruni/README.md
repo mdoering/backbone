@@ -1,5 +1,4 @@
-Placosphaeria pruni Oudem. SPECIES
-=======
+# Placosphaeria pruni Oudem. SPECIES
 
 #### Status
 ACCEPTED

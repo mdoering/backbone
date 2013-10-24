@@ -1,5 +1,4 @@
-Septoria eremuricola Byzova SPECIES
-=======
+# Septoria eremuricola Byzova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Textularia excavata Cushman SPECIES
-=======
+# Textularia excavata Cushman SPECIES
 
 #### Status
 ACCEPTED

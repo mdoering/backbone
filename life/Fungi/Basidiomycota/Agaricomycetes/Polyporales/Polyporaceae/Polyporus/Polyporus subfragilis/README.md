@@ -1,5 +1,4 @@
-Polyporus subfragilis Speg. SPECIES
-=======
+# Polyporus subfragilis Speg. SPECIES
 
 #### Status
 ACCEPTED

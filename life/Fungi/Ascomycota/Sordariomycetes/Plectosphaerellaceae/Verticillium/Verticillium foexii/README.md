@@ -1,5 +1,4 @@
-Verticillium foexii J.F.H. Beyma SPECIES
-=======
+# Verticillium foexii J.F.H. Beyma SPECIES
 
 #### Status
 ACCEPTED

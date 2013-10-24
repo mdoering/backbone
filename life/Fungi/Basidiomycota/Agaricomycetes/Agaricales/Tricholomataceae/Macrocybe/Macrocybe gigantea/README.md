@@ -1,14 +1,13 @@
-Tricholoma giganteum Massee, 1912 SPECIES
-=======
+# Macrocybe gigantea (Massee) Pegler & Lodge, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Pegler, Lodge & Nakasone, Mycologia 90(3): 497 (1998)
 
 #### Original name
 Tricholoma giganteum Massee, 1912

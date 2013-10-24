@@ -1,5 +1,4 @@
-Thelidium sbarbaronis Servít SPECIES
-=======
+# Thelidium sbarbaronis Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothecium eryngii Moesz SPECIES
-=======
+# Coniothecium eryngii Moesz SPECIES
 
 #### Status
 ACCEPTED

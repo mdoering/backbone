@@ -1,5 +1,4 @@
-Leptothyrium holoschoeni (Durieu & Mont.) Sacc. SPECIES
-=======
+# Leptothyrium holoschoeni (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

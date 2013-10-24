@@ -1,5 +1,4 @@
-Cladonia frondescens Nyl. SPECIES
-=======
+# Cladonia frondescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascophanus subgranuliformis Rehm SPECIES
-=======
+# Ascophanus subgranuliformis Rehm SPECIES
 
 #### Status
 ACCEPTED

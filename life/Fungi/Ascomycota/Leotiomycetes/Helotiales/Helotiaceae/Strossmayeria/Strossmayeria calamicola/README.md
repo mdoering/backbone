@@ -1,5 +1,4 @@
-Strossmayeria calamicola J. Fröhl. & K.D. Hyde, 2000 SPECIES
-=======
+# Strossmayeria calamicola J. Fröhl. & K.D. Hyde, 2000 SPECIES
 
 #### Status
 ACCEPTED

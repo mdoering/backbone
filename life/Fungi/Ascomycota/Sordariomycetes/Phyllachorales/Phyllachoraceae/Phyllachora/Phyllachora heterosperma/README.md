@@ -1,5 +1,4 @@
-Phyllachora heterosperma Syd. SPECIES
-=======
+# Phyllachora heterosperma Syd. SPECIES
 
 #### Status
 ACCEPTED

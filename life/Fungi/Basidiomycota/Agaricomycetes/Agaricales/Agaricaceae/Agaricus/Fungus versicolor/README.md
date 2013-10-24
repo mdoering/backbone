@@ -1,5 +1,4 @@
-Fungus versicolor (With.) Kuntze SPECIES
-=======
+# Fungus versicolor (With.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

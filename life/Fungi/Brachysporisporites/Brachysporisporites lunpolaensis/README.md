@@ -1,5 +1,4 @@
-Brachysporisporites lunpolaensis (Zhong Y. Zhang) Z.C. Song SPECIES
-=======
+# Brachysporisporites lunpolaensis (Zhong Y. Zhang) Z.C. Song SPECIES
 
 #### Status
 ACCEPTED

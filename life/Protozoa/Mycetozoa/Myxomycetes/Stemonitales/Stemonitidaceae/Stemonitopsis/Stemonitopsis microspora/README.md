@@ -1,17 +1,16 @@
-Stemonitis hyperopta var. microspora (Lister) G. Lister VARIETY
-=======
+# Stemonitopsis microspora (Lister) Nann.-Bremek., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Lister, Monogr. Mycetozoa, Edn 2 134 (1925)
+Nederlandse Myxomyceten (Amsterdam) 208 (1975)
 
 #### Original name
-Comatricha typhoides var. microspora Lister
+Stemonitis microspora Lister ex Morgan, 1894
 
 ### Remarks
 null

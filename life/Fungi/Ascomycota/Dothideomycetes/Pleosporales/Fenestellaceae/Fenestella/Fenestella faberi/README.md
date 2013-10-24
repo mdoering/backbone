@@ -1,5 +1,4 @@
-Fenestella faberi Kunze SPECIES
-=======
+# Fenestella faberi Kunze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe arcana Borovicka & Hlavácek SPECIES
-=======
+# Psilocybe arcana Borovicka & Hlavácek SPECIES
 
 #### Status
 ACCEPTED

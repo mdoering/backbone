@@ -1,5 +1,4 @@
-Trichosia pernambucensis Bat. & R. Garnier SPECIES
-=======
+# Trichosia pernambucensis Bat. & R. Garnier SPECIES
 
 #### Status
 ACCEPTED

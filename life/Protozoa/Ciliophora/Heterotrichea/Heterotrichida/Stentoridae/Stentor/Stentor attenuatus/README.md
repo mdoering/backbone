@@ -1,5 +1,4 @@
-Stentor attenuatus Maskell, 1887 SPECIES
-=======
+# Stentor attenuatus Maskell, 1887 SPECIES
 
 #### Status
 ACCEPTED

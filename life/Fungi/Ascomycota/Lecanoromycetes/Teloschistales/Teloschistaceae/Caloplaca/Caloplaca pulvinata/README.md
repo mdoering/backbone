@@ -1,5 +1,4 @@
-Caloplaca pulvinata (C.W. Dodge & G.E. Baker) Cretz. SPECIES
-=======
+# Caloplaca pulvinata (C.W. Dodge & G.E. Baker) Cretz. SPECIES
 
 #### Status
 ACCEPTED

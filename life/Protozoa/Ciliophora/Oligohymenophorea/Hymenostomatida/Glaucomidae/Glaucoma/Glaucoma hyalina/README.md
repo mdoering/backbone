@@ -1,5 +1,4 @@
-Glaucoma hyalina Wang & Nie, 1932 SPECIES
-=======
+# Glaucoma hyalina Wang & Nie, 1932 SPECIES
 
 #### Status
 ACCEPTED

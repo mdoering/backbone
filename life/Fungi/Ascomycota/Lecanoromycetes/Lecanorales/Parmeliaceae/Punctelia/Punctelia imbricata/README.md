@@ -1,5 +1,4 @@
-Punctelia imbricata Marcelli, Jungbluth & Elix SPECIES
-=======
+# Punctelia imbricata Marcelli, Jungbluth & Elix SPECIES
 
 #### Status
 ACCEPTED

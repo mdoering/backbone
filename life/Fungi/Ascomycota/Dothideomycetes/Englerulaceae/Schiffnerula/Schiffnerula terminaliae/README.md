@@ -1,5 +1,4 @@
-Schiffnerula terminaliae Hosag. & Riju, 2009 SPECIES
-=======
+# Schiffnerula terminaliae Hosag. & Riju, 2009 SPECIES
 
 #### Status
 ACCEPTED

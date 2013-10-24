@@ -1,5 +1,4 @@
-Polyporus rohlenae Velen. SPECIES
-=======
+# Polyporus rohlenae Velen. SPECIES
 
 #### Status
 ACCEPTED

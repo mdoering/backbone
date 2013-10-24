@@ -1,5 +1,4 @@
-Clisosporium fuscidulum (Sacc.) Kuntze SPECIES
-=======
+# Clisosporium fuscidulum (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

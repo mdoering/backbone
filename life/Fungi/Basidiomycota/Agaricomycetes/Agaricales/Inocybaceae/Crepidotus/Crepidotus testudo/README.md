@@ -1,5 +1,4 @@
-Crepidotus testudo Cooke SPECIES
-=======
+# Crepidotus testudo Cooke SPECIES
 
 #### Status
 ACCEPTED

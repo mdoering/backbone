@@ -1,5 +1,4 @@
-Pestalotia conspicua Servazzi SPECIES
-=======
+# Pestalotia conspicua Servazzi SPECIES
 
 #### Status
 ACCEPTED

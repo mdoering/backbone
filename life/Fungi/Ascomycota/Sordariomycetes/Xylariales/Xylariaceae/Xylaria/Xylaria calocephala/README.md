@@ -1,5 +1,4 @@
-Xylaria calocephala Syd. SPECIES
-=======
+# Xylaria calocephala Syd. SPECIES
 
 #### Status
 ACCEPTED

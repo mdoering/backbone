@@ -1,5 +1,4 @@
-Meliola phyllanthicola Hansf. & Deighton SPECIES
-=======
+# Meliola phyllanthicola Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

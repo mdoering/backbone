@@ -1,5 +1,4 @@
-Pertusaria griseola Vain. SPECIES
-=======
+# Pertusaria griseola Vain. SPECIES
 
 #### Status
 ACCEPTED

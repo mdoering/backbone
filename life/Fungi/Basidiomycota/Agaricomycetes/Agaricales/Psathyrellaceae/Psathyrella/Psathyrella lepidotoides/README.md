@@ -1,5 +1,4 @@
-Psathyrella lepidotoides A.H. Sm. SPECIES
-=======
+# Psathyrella lepidotoides A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

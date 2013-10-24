@@ -1,5 +1,4 @@
-Puccinia asyneumatis Bahç. & Kabakt. SPECIES
-=======
+# Puccinia asyneumatis Bahç. & Kabakt. SPECIES
 
 #### Status
 ACCEPTED

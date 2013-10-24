@@ -1,5 +1,4 @@
-Marasmius skalae Antonín SPECIES
-=======
+# Marasmius skalae Antonín SPECIES
 
 #### Status
 ACCEPTED

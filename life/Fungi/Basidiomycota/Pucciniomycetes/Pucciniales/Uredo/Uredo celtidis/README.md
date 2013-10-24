@@ -1,5 +1,4 @@
-Uredo celtidis Pazschke SPECIES
-=======
+# Uredo celtidis Pazschke SPECIES
 
 #### Status
 ACCEPTED

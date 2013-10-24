@@ -1,5 +1,4 @@
-Bacidia touzalinii (Harm.) Zahlbr. SPECIES
-=======
+# Bacidia touzalinii (Harm.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium arenarium Moreau SPECIES
-=======
+# Helminthosporium arenarium Moreau SPECIES
 
 #### Status
 ACCEPTED

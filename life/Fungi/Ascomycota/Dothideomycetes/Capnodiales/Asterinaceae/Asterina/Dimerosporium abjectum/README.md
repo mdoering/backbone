@@ -1,5 +1,4 @@
-Dimerosporium abjectum (Lib.) Fuckel SPECIES
-=======
+# Dimerosporium abjectum (Lib.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

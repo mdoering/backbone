@@ -1,5 +1,4 @@
-Phellinus cryptarum Quél. SPECIES
-=======
+# Phellinus cryptarum Quél. SPECIES
 
 #### Status
 ACCEPTED

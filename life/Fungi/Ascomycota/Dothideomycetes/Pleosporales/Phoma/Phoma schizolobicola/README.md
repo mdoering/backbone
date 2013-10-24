@@ -1,5 +1,4 @@
-Phoma schizolobicola Henn. SPECIES
-=======
+# Phoma schizolobicola Henn. SPECIES
 
 #### Status
 ACCEPTED

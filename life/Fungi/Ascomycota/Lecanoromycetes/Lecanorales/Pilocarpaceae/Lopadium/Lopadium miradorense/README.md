@@ -1,5 +1,4 @@
-Lopadium miradorense SPECIES
-=======
+# Lopadium miradorense SPECIES
 
 #### Status
 ACCEPTED

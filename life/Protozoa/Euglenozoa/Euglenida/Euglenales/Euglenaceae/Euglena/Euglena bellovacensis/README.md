@@ -1,5 +1,4 @@
-Euglena bellovacensis Chadefaud & Gojdics SPECIES
-=======
+# Euglena bellovacensis Chadefaud & Gojdics SPECIES
 
 #### Status
 ACCEPTED

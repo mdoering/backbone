@@ -1,5 +1,4 @@
-Dicaeoma angulatum (Dietel & Neger) Arthur SPECIES
-=======
+# Dicaeoma angulatum (Dietel & Neger) Arthur SPECIES
 
 #### Status
 ACCEPTED

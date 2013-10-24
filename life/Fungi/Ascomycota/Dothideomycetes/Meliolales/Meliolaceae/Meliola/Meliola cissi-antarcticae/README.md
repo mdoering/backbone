@@ -1,5 +1,4 @@
-Meliola cissi-antarcticae Hansf. SPECIES
-=======
+# Meliola cissi-antarcticae Hansf. SPECIES
 
 #### Status
 ACCEPTED

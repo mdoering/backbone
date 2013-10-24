@@ -1,5 +1,4 @@
-Relicina kurandensis Elix SPECIES
-=======
+# Relicina kurandensis Elix SPECIES
 
 #### Status
 ACCEPTED

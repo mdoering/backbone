@@ -1,5 +1,4 @@
-Flammula magna Peck SPECIES
-=======
+# Flammula magna Peck SPECIES
 
 #### Status
 ACCEPTED

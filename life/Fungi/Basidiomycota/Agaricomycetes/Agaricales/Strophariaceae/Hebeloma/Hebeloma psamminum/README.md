@@ -1,5 +1,4 @@
-Hebeloma psamminum Berk. SPECIES
-=======
+# Hebeloma psamminum Berk. SPECIES
 
 #### Status
 ACCEPTED

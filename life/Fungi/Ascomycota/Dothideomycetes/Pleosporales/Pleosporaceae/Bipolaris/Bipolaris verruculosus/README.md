@@ -1,5 +1,4 @@
-Bipolaris verruculosus R.W. Barreto SPECIES
-=======
+# Bipolaris verruculosus R.W. Barreto SPECIES
 
 #### Status
 ACCEPTED

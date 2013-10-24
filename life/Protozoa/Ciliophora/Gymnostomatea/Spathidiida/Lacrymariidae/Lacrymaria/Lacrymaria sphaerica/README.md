@@ -1,5 +1,4 @@
-Lacrymaria sphaerica Lepsi, 1962 SPECIES
-=======
+# Lacrymaria sphaerica Lepsi, 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tapesia atrospora Velen. SPECIES
-=======
+# Tapesia atrospora Velen. SPECIES
 
 #### Status
 ACCEPTED

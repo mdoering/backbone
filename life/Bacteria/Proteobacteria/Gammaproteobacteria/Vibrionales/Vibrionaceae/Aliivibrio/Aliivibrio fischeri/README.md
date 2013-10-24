@@ -1,5 +1,4 @@
-Aliivibrio fischeri (Beijerinck, 1889) SPECIES
-=======
+# Aliivibrio fischeri (Beijerinck, 1889) SPECIES
 
 #### Status
 ACCEPTED

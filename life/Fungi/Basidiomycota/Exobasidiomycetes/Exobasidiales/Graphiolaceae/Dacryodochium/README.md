@@ -1,5 +1,4 @@
-Dacryodochium GENUS
-=======
+# Dacryodochium GENUS
 
 #### Status
 ACCEPTED

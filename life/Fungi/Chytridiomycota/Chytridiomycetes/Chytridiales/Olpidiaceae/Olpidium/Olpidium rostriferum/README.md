@@ -1,5 +1,4 @@
-Olpidium rostriferum var. rostriferum VARIETY
-=======
+# Olpidium rostriferum Ivimey Cook SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Trans. Sapporo nat. Hist. Soc. 13(2): 80 (1933)
 
 #### Original name
-Olpidium rostriferum var. rostriferum
+Olpidium rostriferum Ivimey Cook
 
 ### Remarks
 null

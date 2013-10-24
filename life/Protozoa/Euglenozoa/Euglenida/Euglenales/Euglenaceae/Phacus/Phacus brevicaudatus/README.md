@@ -1,8 +1,7 @@
-Phacus pleuronectes var. brevicaudata Klebs VARIETY
-=======
+# Phacus brevicaudatus (Klebs) Lemmermann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

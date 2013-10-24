@@ -1,5 +1,4 @@
-Uromyces mysticus Arthur SPECIES
-=======
+# Uromyces mysticus Arthur SPECIES
 
 #### Status
 ACCEPTED

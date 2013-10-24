@@ -1,5 +1,4 @@
-Ascochyta caspanea Sacc. SPECIES
-=======
+# Ascochyta caspanea Sacc. SPECIES
 
 #### Status
 ACCEPTED

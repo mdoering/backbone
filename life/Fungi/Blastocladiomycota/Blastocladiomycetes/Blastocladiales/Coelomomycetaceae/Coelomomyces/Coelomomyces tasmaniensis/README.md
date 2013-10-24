@@ -1,5 +1,4 @@
-Coelomomyces tasmaniensis Laird SPECIES
-=======
+# Coelomomyces tasmaniensis Laird SPECIES
 
 #### Status
 ACCEPTED

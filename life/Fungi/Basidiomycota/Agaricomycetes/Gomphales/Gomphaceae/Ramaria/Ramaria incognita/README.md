@@ -1,5 +1,4 @@
-Ramaria incognita R.H. Petersen, 1981 SPECIES
-=======
+# Ramaria incognita R.H. Petersen, 1981 SPECIES
 
 #### Status
 ACCEPTED

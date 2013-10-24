@@ -1,14 +1,13 @@
-Clavulinopsis hastula Corner, 1950 SPECIES
-=======
+# Multiclavula hastula (Corner) R.H. Petersen, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 694 (1950)
+Am. Midl. Nat. 77: 214 (1967)
 
 #### Original name
 Clavulinopsis hastula Corner, 1950

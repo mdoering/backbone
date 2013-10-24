@@ -1,5 +1,4 @@
-Puccinia ethuliae Syd. SPECIES
-=======
+# Puccinia ethuliae Syd. SPECIES
 
 #### Status
 ACCEPTED

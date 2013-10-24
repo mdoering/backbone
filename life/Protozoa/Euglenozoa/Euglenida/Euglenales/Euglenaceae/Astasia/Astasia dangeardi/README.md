@@ -1,5 +1,4 @@
-Astasia dangeardi SPECIES
-=======
+# Astasia dangeardi SPECIES
 
 #### Status
 ACCEPTED

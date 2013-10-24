@@ -1,5 +1,4 @@
-Acremonium sclerotiniarum K.R. Appel & Laubert SPECIES
-=======
+# Acremonium sclerotiniarum K.R. Appel & Laubert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septobasidium granulosum Syd. & P. Syd. SPECIES
-=======
+# Septobasidium granulosum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

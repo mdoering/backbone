@@ -1,5 +1,4 @@
-Aspicilia novae-semiliae (Zahlbr.) Oxner SPECIES
-=======
+# Aspicilia novae-semiliae (Zahlbr.) Oxner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthothelium lahmianum Körb. SPECIES
-=======
+# Arthothelium lahmianum Körb. SPECIES
 
 #### Status
 ACCEPTED

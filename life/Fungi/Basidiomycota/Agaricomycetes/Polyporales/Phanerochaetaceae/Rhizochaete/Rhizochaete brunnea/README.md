@@ -1,5 +1,4 @@
-Rhizochaete brunnea Gresl., Nakasone & Rajchenb., 2004 SPECIES
-=======
+# Rhizochaete brunnea Gresl., Nakasone & Rajchenb., 2004 SPECIES
 
 #### Status
 ACCEPTED

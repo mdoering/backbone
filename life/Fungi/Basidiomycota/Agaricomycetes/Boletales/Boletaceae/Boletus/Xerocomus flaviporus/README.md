@@ -1,5 +1,4 @@
-Xerocomus flaviporus (Earle) Singer SPECIES
-=======
+# Xerocomus flaviporus (Earle) Singer SPECIES
 
 #### Status
 ACCEPTED

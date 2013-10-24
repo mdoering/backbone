@@ -1,5 +1,4 @@
-Diatrype glomeraria Berk., 1855 SPECIES
-=======
+# Diatrype glomeraria Berk., 1855 SPECIES
 
 #### Status
 ACCEPTED

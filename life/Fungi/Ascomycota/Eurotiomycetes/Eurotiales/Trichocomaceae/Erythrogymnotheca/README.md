@@ -1,5 +1,4 @@
-Erythrogymnotheca Yaguchi & Udagawa GENUS
-=======
+# Erythrogymnotheca Yaguchi & Udagawa GENUS
 
 #### Status
 ACCEPTED

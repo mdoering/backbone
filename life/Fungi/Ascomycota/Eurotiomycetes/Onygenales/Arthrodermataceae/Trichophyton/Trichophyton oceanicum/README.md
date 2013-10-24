@@ -1,5 +1,4 @@
-Trichophyton oceanicum Dompm., Drouhet & F. Moreau SPECIES
-=======
+# Trichophyton oceanicum Dompm., Drouhet & F. Moreau SPECIES
 
 #### Status
 ACCEPTED

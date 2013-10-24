@@ -1,17 +1,16 @@
-Agaricus conigenus subsp. conigenus SUBSPECIES
-=======
+# Strobilurus stephanocystis (Kühner & Romagn. ex Hora) Singer, 1962 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. fung. (Göttingen) 2: 388 (1801)
+Persoonia 2(3): 409 (1962)
 
 #### Original name
-Agaricus conigenus subsp. conigenus
+Pseudohiatula stephanocystis Kühner & Romagn. ex Hora, 1960
 
 ### Remarks
 null

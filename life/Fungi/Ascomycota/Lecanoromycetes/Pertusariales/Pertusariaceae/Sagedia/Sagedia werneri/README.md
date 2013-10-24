@@ -1,5 +1,4 @@
-Sagedia werneri M. Choisy SPECIES
-=======
+# Sagedia werneri M. Choisy SPECIES
 
 #### Status
 ACCEPTED

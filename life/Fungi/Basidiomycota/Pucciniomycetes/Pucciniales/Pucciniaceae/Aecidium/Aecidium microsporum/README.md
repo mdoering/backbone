@@ -1,5 +1,4 @@
-Aecidium microsporum Dietel SPECIES
-=======
+# Aecidium microsporum Dietel SPECIES
 
 #### Status
 ACCEPTED

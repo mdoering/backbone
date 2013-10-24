@@ -1,5 +1,4 @@
-Trochamminopsis irregularis Bender, 1989 SPECIES
-=======
+# Trochamminopsis irregularis Bender, 1989 SPECIES
 
 #### Status
 ACCEPTED

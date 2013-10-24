@@ -1,5 +1,4 @@
-Arrhytidia fulva Berk. & M.A. Curtis SPECIES
-=======
+# Arrhytidia fulva Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula platysporella Zahlbr. SPECIES
-=======
+# Pyrenula platysporella Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

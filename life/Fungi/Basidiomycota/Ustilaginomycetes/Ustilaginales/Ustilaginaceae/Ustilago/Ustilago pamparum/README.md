@@ -1,5 +1,4 @@
-Ustilago pamparum Speg. SPECIES
-=======
+# Ustilago pamparum Speg. SPECIES
 
 #### Status
 ACCEPTED

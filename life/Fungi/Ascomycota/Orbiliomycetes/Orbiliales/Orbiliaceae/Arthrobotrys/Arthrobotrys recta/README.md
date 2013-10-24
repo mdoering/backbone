@@ -1,5 +1,4 @@
-Arthrobotrys recta Preuss SPECIES
-=======
+# Arthrobotrys recta Preuss SPECIES
 
 #### Status
 ACCEPTED

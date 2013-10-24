@@ -1,8 +1,7 @@
-Epiperidinium michaelsarsi Gaarder SPECIES
-=======
+# Palaeophalacroma unicincta Schiller SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

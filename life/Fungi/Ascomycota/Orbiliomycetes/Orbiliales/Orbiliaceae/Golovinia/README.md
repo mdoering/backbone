@@ -1,5 +1,4 @@
-Golovinia Mekht., 1967 GENUS
-=======
+# Golovinia Mekht., 1967 GENUS
 
 #### Status
 ACCEPTED

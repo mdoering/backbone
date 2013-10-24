@@ -1,5 +1,4 @@
-Cryothecomonas inermis Thomsen, Buck, Bolt & Garrison, 1991 SPECIES
-=======
+# Cryothecomonas inermis Thomsen, Buck, Bolt & Garrison, 1991 SPECIES
 
 #### Status
 ACCEPTED

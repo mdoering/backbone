@@ -1,5 +1,4 @@
-Chrysosaccus incompletus Pascher SPECIES
-=======
+# Chrysosaccus incompletus Pascher SPECIES
 
 #### Status
 ACCEPTED

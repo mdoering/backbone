@@ -1,5 +1,4 @@
-Rinodina chrysomelaena Tuck. SPECIES
-=======
+# Rinodina chrysomelaena Tuck. SPECIES
 
 #### Status
 ACCEPTED

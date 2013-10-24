@@ -1,5 +1,4 @@
-Lichen defraudans Zeoga SPECIES
-=======
+# Lichen defraudans Zeoga SPECIES
 
 #### Status
 ACCEPTED

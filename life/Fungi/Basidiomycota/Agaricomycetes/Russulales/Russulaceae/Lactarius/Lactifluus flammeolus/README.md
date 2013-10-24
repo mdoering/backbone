@@ -1,5 +1,4 @@
-Lactifluus flammeolus (Pollini) Kuntze SPECIES
-=======
+# Lactifluus flammeolus (Pollini) Kuntze SPECIES
 
 #### Status
 ACCEPTED

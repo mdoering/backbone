@@ -1,5 +1,4 @@
-Psathyrella liciosae Contu & Pacioni SPECIES
-=======
+# Psathyrella liciosae Contu & Pacioni SPECIES
 
 #### Status
 ACCEPTED

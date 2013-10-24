@@ -1,5 +1,4 @@
-Chaetomium minutispora Aruna & Gopalkr. SPECIES
-=======
+# Chaetomium minutispora Aruna & Gopalkr. SPECIES
 
 #### Status
 ACCEPTED

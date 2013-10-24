@@ -1,5 +1,4 @@
-Bacidia mitescens (Nyl.) Sandst. SPECIES
-=======
+# Bacidia mitescens (Nyl.) Sandst. SPECIES
 
 #### Status
 ACCEPTED

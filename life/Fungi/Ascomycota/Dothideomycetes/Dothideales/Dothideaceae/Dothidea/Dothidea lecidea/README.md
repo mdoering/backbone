@@ -1,5 +1,4 @@
-Dothidea lecidea Fr. SPECIES
-=======
+# Dothidea lecidea Fr. SPECIES
 
 #### Status
 ACCEPTED

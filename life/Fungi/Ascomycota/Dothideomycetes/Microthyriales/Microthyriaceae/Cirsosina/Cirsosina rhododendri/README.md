@@ -1,5 +1,4 @@
-Cirsosina rhododendri Bat. & J.L. Bezerra, 1960 SPECIES
-=======
+# Cirsosina rhododendri Bat. & J.L. Bezerra, 1960 SPECIES
 
 #### Status
 ACCEPTED

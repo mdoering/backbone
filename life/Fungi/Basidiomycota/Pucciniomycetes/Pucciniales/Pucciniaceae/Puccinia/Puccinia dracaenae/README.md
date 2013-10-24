@@ -1,5 +1,4 @@
-Puccinia dracaenae E. Castell. SPECIES
-=======
+# Puccinia dracaenae E. Castell. SPECIES
 
 #### Status
 ACCEPTED

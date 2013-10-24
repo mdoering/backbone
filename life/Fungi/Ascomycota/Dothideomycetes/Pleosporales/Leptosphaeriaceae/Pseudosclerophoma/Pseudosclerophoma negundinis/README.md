@@ -1,5 +1,4 @@
-Pseudosclerophoma negundinis Petr. SPECIES
-=======
+# Pseudosclerophoma negundinis Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Telioclipeum lavrense Viégas, 1962 SPECIES
-=======
+# Telioclipeum lavrense Viégas, 1962 SPECIES
 
 #### Status
 ACCEPTED

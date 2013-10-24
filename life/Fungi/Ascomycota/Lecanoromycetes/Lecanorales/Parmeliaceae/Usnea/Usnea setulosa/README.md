@@ -1,5 +1,4 @@
-Usnea setulosa var. setulosa VARIETY
-=======
+# Usnea setulosa Motyka SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea setulosa var. setulosa
+Usnea setulosa Motyka
 
 ### Remarks
 null

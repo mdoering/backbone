@@ -1,5 +1,4 @@
-Coronatomyces Dania García, Stchigel & Guarro GENUS
-=======
+# Coronatomyces Dania García, Stchigel & Guarro GENUS
 
 #### Status
 ACCEPTED

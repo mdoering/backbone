@@ -1,5 +1,4 @@
-Sigmomorphina trilocularis SPECIES
-=======
+# Sigmomorphina trilocularis SPECIES
 
 #### Status
 ACCEPTED

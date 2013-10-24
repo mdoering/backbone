@@ -1,5 +1,4 @@
-Autophagomyces ramosus R.K. Benj. SPECIES
-=======
+# Autophagomyces ramosus R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymosporonites saccatus Sal.-Cheb. & Locq. SPECIES
-=======
+# Didymosporonites saccatus Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermicularia eryngii (Corda) Fuckel SPECIES
-=======
+# Vermicularia eryngii (Corda) Fuckel SPECIES
 
 #### Status
 ACCEPTED

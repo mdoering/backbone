@@ -1,5 +1,4 @@
-Eutreptia thiophila Skuja SPECIES
-=======
+# Eutreptia thiophila Skuja SPECIES
 
 #### Status
 ACCEPTED

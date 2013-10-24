@@ -1,5 +1,4 @@
-Mycocalicium cacoti B. de Lesd. SPECIES
-=======
+# Mycocalicium cacoti B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

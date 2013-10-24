@@ -1,5 +1,4 @@
-Pleospora monilispora Fuckel SPECIES
-=======
+# Pleospora monilispora Fuckel SPECIES
 
 #### Status
 ACCEPTED

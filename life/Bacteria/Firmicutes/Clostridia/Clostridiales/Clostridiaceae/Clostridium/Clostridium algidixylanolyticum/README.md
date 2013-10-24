@@ -1,5 +1,4 @@
-Clostridium algidixylanolyticum Broda et al., 2000 SPECIES
-=======
+# Clostridium algidixylanolyticum Broda et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius incensus Soop, 2003 SPECIES
-=======
+# Cortinarius incensus Soop, 2003 SPECIES
 
 #### Status
 ACCEPTED

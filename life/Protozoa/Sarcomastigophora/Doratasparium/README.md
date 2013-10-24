@@ -1,5 +1,4 @@
-Doratasparium Haeckel, 1887 GENUS
-=======
+# Doratasparium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pontiadinium L.E. Stover & W.R. Evitt, 1978 GENUS
-=======
+# Komewuia Cookson & Eisenack GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Stanford Univ. Publs Geol. Sci. 15: 180.
+null
 
 #### Original name
 null

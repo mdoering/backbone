@@ -1,5 +1,4 @@
-Hafniasphaera hyalospinosa J. M. Hansen SPECIES
-=======
+# Hafniasphaera hyalospinosa J. M. Hansen SPECIES
 
 #### Status
 ACCEPTED

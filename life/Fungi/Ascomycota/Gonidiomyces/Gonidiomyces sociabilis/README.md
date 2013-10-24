@@ -1,5 +1,4 @@
-Gonidiomyces sociabilis Vain. SPECIES
-=======
+# Gonidiomyces sociabilis Vain. SPECIES
 
 #### Status
 ACCEPTED

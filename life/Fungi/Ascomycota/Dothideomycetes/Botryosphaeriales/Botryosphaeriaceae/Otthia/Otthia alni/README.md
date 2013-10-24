@@ -1,5 +1,4 @@
-Otthia alni G. Winter SPECIES
-=======
+# Otthia alni G. Winter SPECIES
 
 #### Status
 ACCEPTED

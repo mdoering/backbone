@@ -1,5 +1,4 @@
-Thyridaria tarta C.K. Bancr. SPECIES
-=======
+# Thyridaria tarta C.K. Bancr. SPECIES
 
 #### Status
 ACCEPTED

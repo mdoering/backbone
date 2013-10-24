@@ -1,5 +1,4 @@
-Sphaeria muenzenbergensis Ettingsh. SPECIES
-=======
+# Sphaeria muenzenbergensis Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

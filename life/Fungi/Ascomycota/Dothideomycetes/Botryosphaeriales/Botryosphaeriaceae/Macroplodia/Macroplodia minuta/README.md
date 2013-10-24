@@ -1,5 +1,4 @@
-Macroplodia minuta (Berl. & F. Sacc.) Kuntze SPECIES
-=======
+# Macroplodia minuta (Berl. & F. Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

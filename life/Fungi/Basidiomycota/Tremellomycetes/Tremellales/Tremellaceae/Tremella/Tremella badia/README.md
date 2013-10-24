@@ -1,5 +1,4 @@
-Tremella badia Chevall. SPECIES
-=======
+# Tremella badia Chevall. SPECIES
 
 #### Status
 ACCEPTED

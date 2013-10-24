@@ -1,5 +1,4 @@
-Haloarcula quadrata Oren et al., 1999 SPECIES
-=======
+# Haloarcula quadrata Oren et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

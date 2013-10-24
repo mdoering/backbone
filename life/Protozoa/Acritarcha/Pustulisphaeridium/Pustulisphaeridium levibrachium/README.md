@@ -1,5 +1,4 @@
-Pustulisphaeridium levibrachium Wicander, 1974 SPECIES
-=======
+# Pustulisphaeridium levibrachium Wicander, 1974 SPECIES
 
 #### Status
 ACCEPTED

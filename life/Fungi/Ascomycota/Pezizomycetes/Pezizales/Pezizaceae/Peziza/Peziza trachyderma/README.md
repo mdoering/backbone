@@ -1,5 +1,4 @@
-Peziza trachyderma Ellis & Everh. SPECIES
-=======
+# Peziza trachyderma Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

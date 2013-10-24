@@ -1,5 +1,4 @@
-Usnea pulvinulata C.W. Dodge SPECIES
-=======
+# Usnea pulvinulata C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

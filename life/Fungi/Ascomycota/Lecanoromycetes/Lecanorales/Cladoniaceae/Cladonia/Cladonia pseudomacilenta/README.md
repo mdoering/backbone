@@ -1,5 +1,4 @@
-Cladonia pseudomacilenta f. pseudomacilenta FORM
-=======
+# Cladonia pseudomacilenta Asahina SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia pseudomacilenta f. pseudomacilenta
+Cladonia pseudomacilenta Asahina
 
 ### Remarks
 null

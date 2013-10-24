@@ -1,5 +1,4 @@
-Lecania duschakensis Dzhur. SPECIES
-=======
+# Lecania duschakensis Dzhur. SPECIES
 
 #### Status
 ACCEPTED

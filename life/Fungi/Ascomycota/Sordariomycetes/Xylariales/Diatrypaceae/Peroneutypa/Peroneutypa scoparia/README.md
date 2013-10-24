@@ -1,17 +1,16 @@
-Peroneutypa heteracantha f. heteracantha FORM
-=======
+# Peroneutypa scoparia (Schwein.) Carmarán & A.I. Romero, 2006 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Carmarán, Romero & Giussani, Fungal Diversity 23: 84 (2006)
 
 #### Original name
-Peroneutypa heteracantha f. heteracantha
+Sphaeria scoparia Schwein., 1822
 
 ### Remarks
 null

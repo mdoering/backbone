@@ -1,17 +1,16 @@
-Puccinia centaureae var. centaureae VARIETY
-=======
+# Puccinia carthami Corda, 1840 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in de Candolle & Lamarck, Fl. franç. (Paris), Edn 3 5/6: 59 (1815)
+Icon. fung. (Prague) 4: 15 (1840)
 
 #### Original name
-Puccinia centaureae var. centaureae
+Puccinia carthami Corda, 1840
 
 ### Remarks
 null

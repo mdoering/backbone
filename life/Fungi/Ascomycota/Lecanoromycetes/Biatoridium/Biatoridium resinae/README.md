@@ -1,5 +1,4 @@
-Biatoridium resinae (Fr.) Uloth SPECIES
-=======
+# Biatoridium resinae (Fr.) Uloth SPECIES
 
 #### Status
 ACCEPTED

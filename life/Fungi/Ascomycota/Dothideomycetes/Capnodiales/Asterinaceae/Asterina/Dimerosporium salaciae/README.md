@@ -1,5 +1,4 @@
-Dimerosporium salaciae Henn. SPECIES
-=======
+# Dimerosporium salaciae Henn. SPECIES
 
 #### Status
 ACCEPTED

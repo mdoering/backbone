@@ -1,8 +1,7 @@
-Ocellularia bicintula (Nyl.) Müll. Arg. SPECIES
-=======
+# Ocellularia bicinctula (Nyl.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

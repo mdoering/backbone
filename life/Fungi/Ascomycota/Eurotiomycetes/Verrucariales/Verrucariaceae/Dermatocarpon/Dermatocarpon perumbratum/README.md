@@ -1,5 +1,4 @@
-Dermatocarpon perumbratum (Nyl.) Zahlbr. SPECIES
-=======
+# Dermatocarpon perumbratum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

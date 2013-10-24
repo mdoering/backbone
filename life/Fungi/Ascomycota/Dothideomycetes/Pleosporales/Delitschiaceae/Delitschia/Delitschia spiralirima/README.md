@@ -1,5 +1,4 @@
-Delitschia spiralirima Jeng, Luck-Allen & Cain SPECIES
-=======
+# Delitschia spiralirima Jeng, Luck-Allen & Cain SPECIES
 
 #### Status
 ACCEPTED

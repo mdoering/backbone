@@ -1,5 +1,4 @@
-Phaeographis intercedens H. Magn. SPECIES
-=======
+# Phaeographis intercedens H. Magn. SPECIES
 
 #### Status
 ACCEPTED

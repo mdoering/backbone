@@ -1,5 +1,4 @@
-Rickia proteini T. Majewski SPECIES
-=======
+# Rickia proteini T. Majewski SPECIES
 
 #### Status
 ACCEPTED

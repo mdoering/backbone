@@ -1,5 +1,4 @@
-Graphina antillarum (Vain.) Zahlbr. SPECIES
-=======
+# Graphina antillarum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

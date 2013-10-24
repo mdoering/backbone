@@ -1,5 +1,4 @@
-Clitopilus chalybescens T.J. Baroni & Desjardin SPECIES
-=======
+# Clitopilus chalybescens T.J. Baroni & Desjardin SPECIES
 
 #### Status
 ACCEPTED

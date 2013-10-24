@@ -1,5 +1,4 @@
-Gaudryina flinti SPECIES
-=======
+# Gaudryina flinti SPECIES
 
 #### Status
 ACCEPTED

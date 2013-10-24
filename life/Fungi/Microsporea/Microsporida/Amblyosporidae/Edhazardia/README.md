@@ -1,5 +1,4 @@
-Edhazardia J.J. Becnel, V.Sprague & T. Fukuda GENUS
-=======
+# Edhazardia J.J. Becnel, V.Sprague & T. Fukuda GENUS
 
 #### Status
 ACCEPTED

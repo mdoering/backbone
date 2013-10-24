@@ -1,5 +1,4 @@
-Entyloma sydowianum Cif. SPECIES
-=======
+# Entyloma sydowianum Cif. SPECIES
 
 #### Status
 ACCEPTED

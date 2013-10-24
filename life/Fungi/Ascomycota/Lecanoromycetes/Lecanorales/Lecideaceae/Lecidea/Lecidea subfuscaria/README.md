@@ -1,5 +1,4 @@
-Lecidea subfuscaria Nyl. SPECIES
-=======
+# Lecidea subfuscaria Nyl. SPECIES
 
 #### Status
 ACCEPTED

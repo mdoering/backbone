@@ -1,5 +1,4 @@
-Sesia sulcata (Peck) Kuntze SPECIES
-=======
+# Sesia sulcata (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

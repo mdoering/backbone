@@ -1,5 +1,4 @@
-Rivularia beccarina (De Not) Born. & Flah. SPECIES
-=======
+# Rivularia beccarina (De Not) Born. & Flah. SPECIES
 
 #### Status
 ACCEPTED

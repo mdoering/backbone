@@ -1,5 +1,4 @@
-Buellia subviridescens SPECIES
-=======
+# Buellia subviridescens SPECIES
 
 #### Status
 ACCEPTED

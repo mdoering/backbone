@@ -1,5 +1,4 @@
-Cicadomyces minor Buchner SPECIES
-=======
+# Cicadomyces minor Buchner SPECIES
 
 #### Status
 ACCEPTED

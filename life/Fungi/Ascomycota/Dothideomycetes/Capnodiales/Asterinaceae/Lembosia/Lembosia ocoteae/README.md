@@ -1,5 +1,4 @@
-Lembosia ocoteae Bat. & Maia SPECIES
-=======
+# Lembosia ocoteae Bat. & Maia SPECIES
 
 #### Status
 ACCEPTED

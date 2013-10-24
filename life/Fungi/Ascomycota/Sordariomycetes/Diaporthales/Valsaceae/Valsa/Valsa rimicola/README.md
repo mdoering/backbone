@@ -1,5 +1,4 @@
-Valsa rimicola (Schwein.) Cooke SPECIES
-=======
+# Valsa rimicola (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Karstenula moravica (Rehm) Petr. SPECIES
-=======
+# Karstenula moravica (Rehm) Petr. SPECIES
 
 #### Status
 ACCEPTED

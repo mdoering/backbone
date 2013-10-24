@@ -1,5 +1,4 @@
-Androspyris reticulidisca Takahashi, 1991 SPECIES
-=======
+# Androspyris reticulidisca Takahashi, 1991 SPECIES
 
 #### Status
 ACCEPTED

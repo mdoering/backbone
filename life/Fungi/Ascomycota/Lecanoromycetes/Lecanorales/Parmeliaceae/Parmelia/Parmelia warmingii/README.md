@@ -1,5 +1,4 @@
-Parmelia warmingii Vain. SPECIES
-=======
+# Parmelia warmingii Vain. SPECIES
 
 #### Status
 ACCEPTED

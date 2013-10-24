@@ -1,5 +1,4 @@
-Sclerotinia solani Vañha SPECIES
-=======
+# Sclerotinia solani Vañha SPECIES
 
 #### Status
 ACCEPTED

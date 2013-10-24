@@ -1,5 +1,4 @@
-Phyllactinia yarwoodii Patw. SPECIES
-=======
+# Phyllactinia yarwoodii Patw. SPECIES
 
 #### Status
 ACCEPTED

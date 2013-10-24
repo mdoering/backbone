@@ -1,5 +1,4 @@
-Stagonospora sparticola Sacc. & D. Sacc. SPECIES
-=======
+# Stagonospora sparticola Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

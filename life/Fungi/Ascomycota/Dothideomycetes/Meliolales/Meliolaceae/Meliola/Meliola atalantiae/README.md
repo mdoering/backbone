@@ -1,5 +1,4 @@
-Meliola atalantiae Hosag. SPECIES
-=======
+# Meliola atalantiae Hosag. SPECIES
 
 #### Status
 ACCEPTED

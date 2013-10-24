@@ -1,5 +1,4 @@
-Aplosporella prosopidina Petr., 1954 SPECIES
-=======
+# Aplosporella prosopidina Petr., 1954 SPECIES
 
 #### Status
 ACCEPTED

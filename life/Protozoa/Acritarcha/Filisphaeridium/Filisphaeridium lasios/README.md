@@ -1,5 +1,4 @@
-Filisphaeridium lasios (Wicander, 1974) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium lasios (Wicander, 1974) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

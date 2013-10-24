@@ -1,5 +1,4 @@
-Pluteus velatus Rick SPECIES
-=======
+# Pluteus velatus Rick SPECIES
 
 #### Status
 ACCEPTED

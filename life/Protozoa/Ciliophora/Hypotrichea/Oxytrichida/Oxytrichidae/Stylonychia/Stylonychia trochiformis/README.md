@@ -1,5 +1,4 @@
-Stylonychia trochiformis Dumas SPECIES
-=======
+# Stylonychia trochiformis Dumas SPECIES
 
 #### Status
 ACCEPTED

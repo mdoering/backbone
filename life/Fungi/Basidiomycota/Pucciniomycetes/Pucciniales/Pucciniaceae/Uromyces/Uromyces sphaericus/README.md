@@ -1,5 +1,4 @@
-Uromyces sphaericus H.S. Jacks. & Holw. SPECIES
-=======
+# Uromyces sphaericus H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia ailanthi Cooke SPECIES
-=======
+# Diplodia ailanthi Cooke SPECIES
 
 #### Status
 ACCEPTED

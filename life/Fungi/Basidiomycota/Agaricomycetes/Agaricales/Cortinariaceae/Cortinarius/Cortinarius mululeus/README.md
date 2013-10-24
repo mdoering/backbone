@@ -1,5 +1,4 @@
-Cortinarius mululeus E.H.L. Krause SPECIES
-=======
+# Cortinarius mululeus E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

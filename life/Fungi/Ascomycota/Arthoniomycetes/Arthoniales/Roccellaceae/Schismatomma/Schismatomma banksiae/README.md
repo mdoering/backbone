@@ -1,5 +1,4 @@
-Schismatomma banksiae (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Schismatomma banksiae (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

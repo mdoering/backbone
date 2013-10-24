@@ -1,5 +1,4 @@
-Chionomyces sclerochitonis (Hansf.) Deighton & Piroz. SPECIES
-=======
+# Chionomyces sclerochitonis (Hansf.) Deighton & Piroz. SPECIES
 
 #### Status
 ACCEPTED

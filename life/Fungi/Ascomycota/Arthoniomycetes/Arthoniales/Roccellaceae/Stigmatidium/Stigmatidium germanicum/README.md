@@ -1,5 +1,4 @@
-Stigmatidium germanicum A. Massal. SPECIES
-=======
+# Stigmatidium germanicum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

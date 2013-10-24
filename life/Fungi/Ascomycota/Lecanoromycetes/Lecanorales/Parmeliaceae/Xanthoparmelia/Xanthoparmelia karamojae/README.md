@@ -1,5 +1,4 @@
-Xanthoparmelia karamojae Krog & Swinscow SPECIES
-=======
+# Xanthoparmelia karamojae Krog & Swinscow SPECIES
 
 #### Status
 ACCEPTED

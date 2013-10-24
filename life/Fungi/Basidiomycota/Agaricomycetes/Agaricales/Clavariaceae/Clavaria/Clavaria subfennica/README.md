@@ -1,5 +1,4 @@
-Clavaria subfennica Coker SPECIES
-=======
+# Clavaria subfennica Coker SPECIES
 
 #### Status
 ACCEPTED

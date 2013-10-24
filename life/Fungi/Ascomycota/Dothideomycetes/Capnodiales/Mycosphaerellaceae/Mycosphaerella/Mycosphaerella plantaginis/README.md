@@ -1,17 +1,16 @@
-Septoria plantaginis var. plantaginis VARIETY
-=======
+# Mycosphaerella plantaginis (Sollm.) Vestergr., 1896 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 10(2): 196 (1912)
 
 #### Original name
-null
+Sphaerella plantaginis Sollm., 1864
 
 ### Remarks
 null

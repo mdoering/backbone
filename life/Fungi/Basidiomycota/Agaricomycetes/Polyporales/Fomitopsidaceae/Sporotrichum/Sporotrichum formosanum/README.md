@@ -1,5 +1,4 @@
-Sporotrichum formosanum Kobayasi SPECIES
-=======
+# Sporotrichum formosanum Kobayasi SPECIES
 
 #### Status
 ACCEPTED

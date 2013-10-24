@@ -1,5 +1,4 @@
-Steganocubus Sugiyama, 1993 GENUS
-=======
+# Steganocubus Sugiyama, 1993 GENUS
 
 #### Status
 ACCEPTED

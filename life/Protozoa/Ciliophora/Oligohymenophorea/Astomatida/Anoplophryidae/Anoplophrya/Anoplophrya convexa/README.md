@@ -1,5 +1,4 @@
-Anoplophrya convexa SPECIES
-=======
+# Anoplophrya convexa SPECIES
 
 #### Status
 ACCEPTED

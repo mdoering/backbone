@@ -1,5 +1,4 @@
-Pholiota melaphila Raithelh. SPECIES
-=======
+# Pholiota melaphila Raithelh. SPECIES
 
 #### Status
 ACCEPTED

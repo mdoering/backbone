@@ -1,17 +1,16 @@
-Laccaria hudsonii var. hudsonii VARIETY
-=======
+# Laccaria amethystina (Huds.) Cooke, 1884 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Z. Mykol. 7 (1994)
+Grevillea 12(no. 63): 70 (1884)
 
 #### Original name
-Laccaria hudsonii var. hudsonii
+Agaricus amethystinus Huds., 1778
 
 ### Remarks
 null

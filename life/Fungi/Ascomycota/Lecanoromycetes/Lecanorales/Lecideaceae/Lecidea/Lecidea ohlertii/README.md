@@ -1,5 +1,4 @@
-Lecidea ohlertii (Körb.) H. Olivier SPECIES
-=======
+# Lecidea ohlertii (Körb.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula rubefaciens Grosb. SPECIES
-=======
+# Torula rubefaciens Grosb. SPECIES
 
 #### Status
 ACCEPTED

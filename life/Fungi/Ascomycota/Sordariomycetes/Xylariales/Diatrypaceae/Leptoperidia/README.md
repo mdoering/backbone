@@ -1,17 +1,16 @@
-Paraeutypa Subram. & Ananthap. GENUS
-=======
+# Leptoperidia Rappaz GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 90(2): 327 (1988)
+Mycol. helv. 2(547): 544 (1987)
 
 #### Original name
-Paraeutypa Subram. & Ananthap.
+Leptoperidia Rappaz
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cortinarius rubrovioleipes Bendiksen & K. Bendiksen SPECIES
-=======
+# Cortinarius rubrovioleipes Bendiksen & K. Bendiksen SPECIES
 
 #### Status
 ACCEPTED

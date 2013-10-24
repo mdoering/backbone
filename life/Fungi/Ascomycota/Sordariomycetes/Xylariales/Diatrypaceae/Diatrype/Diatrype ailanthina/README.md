@@ -1,5 +1,4 @@
-Diatrype ailanthina (Grove) Zambett. SPECIES
-=======
+# Diatrype ailanthina (Grove) Zambett. SPECIES
 
 #### Status
 ACCEPTED

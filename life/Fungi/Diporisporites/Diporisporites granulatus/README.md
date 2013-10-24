@@ -1,5 +1,4 @@
-Diporisporites granulatus B. Samant SPECIES
-=======
+# Diporisporites granulatus B. Samant SPECIES
 
 #### Status
 ACCEPTED

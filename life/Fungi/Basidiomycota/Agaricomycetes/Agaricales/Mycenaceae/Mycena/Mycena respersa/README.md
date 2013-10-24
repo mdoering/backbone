@@ -1,5 +1,4 @@
-Mycena respersa Raithelh. SPECIES
-=======
+# Mycena respersa Raithelh. SPECIES
 
 #### Status
 ACCEPTED

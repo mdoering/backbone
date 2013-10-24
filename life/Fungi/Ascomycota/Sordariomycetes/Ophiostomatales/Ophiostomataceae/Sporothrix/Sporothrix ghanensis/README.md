@@ -1,5 +1,4 @@
-Sporothrix ghanensis de Hoog & H.C. Evans, 1974 SPECIES
-=======
+# Sporothrix ghanensis de Hoog & H.C. Evans, 1974 SPECIES
 
 #### Status
 ACCEPTED

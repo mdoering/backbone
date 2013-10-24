@@ -1,5 +1,4 @@
-Merismella oligomera Syd., 1927 SPECIES
-=======
+# Merismella oligomera Syd., 1927 SPECIES
 
 #### Status
 ACCEPTED

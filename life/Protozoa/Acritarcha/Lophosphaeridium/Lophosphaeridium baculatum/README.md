@@ -1,5 +1,4 @@
-Lophosphaeridium baculatum N. Umnova, 1975 SPECIES
-=======
+# Lophosphaeridium baculatum N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

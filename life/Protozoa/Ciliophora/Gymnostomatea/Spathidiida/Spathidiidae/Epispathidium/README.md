@@ -1,5 +1,4 @@
-Epispathidium Foissner, 1984 GENUS
-=======
+# Epispathidium Foissner, 1984 GENUS
 
 #### Status
 ACCEPTED

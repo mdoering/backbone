@@ -1,5 +1,4 @@
-Phaeocalicium tibetanicum Titov SPECIES
-=======
+# Phaeocalicium tibetanicum Titov SPECIES
 
 #### Status
 ACCEPTED

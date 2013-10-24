@@ -1,5 +1,4 @@
-Amanita sinensis var. sinensis VARIETY
-=======
+# Amanita sinensis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Biblthca Mycol. 170: 23 (1997)
 
 #### Original name
-Amanita sinensis var. sinensis
+Amanita sinensis
 
 ### Remarks
 null

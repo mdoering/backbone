@@ -1,5 +1,4 @@
-Pseudoplanoendothyra Brazhnikova & Vdovenko in Brazhnikova, 1982 GENUS
-=======
+# Pseudoplanoendothyra Brazhnikova & Vdovenko in Brazhnikova, 1982 GENUS
 
 #### Status
 ACCEPTED

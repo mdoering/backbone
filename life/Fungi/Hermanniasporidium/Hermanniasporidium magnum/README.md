@@ -1,5 +1,4 @@
-Hermanniasporidium magnum G. Thor SPECIES
-=======
+# Hermanniasporidium magnum G. Thor SPECIES
 
 #### Status
 ACCEPTED

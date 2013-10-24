@@ -1,5 +1,4 @@
-Eocribrella Lipina, 1989 GENUS
-=======
+# Eocribrella Lipina, 1989 GENUS
 
 #### Status
 ACCEPTED

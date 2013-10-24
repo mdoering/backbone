@@ -1,5 +1,4 @@
-Galeanella GENUS
-=======
+# Galeanella GENUS
 
 #### Status
 ACCEPTED

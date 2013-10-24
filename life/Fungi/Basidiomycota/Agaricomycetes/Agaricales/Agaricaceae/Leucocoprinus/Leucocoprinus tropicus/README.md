@@ -1,5 +1,4 @@
-Leucocoprinus tropicus Natarajan & Manjula SPECIES
-=======
+# Leucocoprinus tropicus Natarajan & Manjula SPECIES
 
 #### Status
 ACCEPTED

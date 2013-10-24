@@ -1,5 +1,4 @@
-Cercospora ecdysantherae J.M. Yen SPECIES
-=======
+# Cercospora ecdysantherae J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

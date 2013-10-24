@@ -1,5 +1,4 @@
-Coccomyces crateriformis Y.R. Lin & Z.Z. Li, 2000 SPECIES
-=======
+# Coccomyces crateriformis Y.R. Lin & Z.Z. Li, 2000 SPECIES
 
 #### Status
 ACCEPTED

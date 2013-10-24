@@ -1,17 +1,16 @@
-Diachea cerifera sessilis Meyl., 1933 INFRASPECIFIC_NAME
-=======
+# Elaeomyxa cerifera (G. Lister) Hagelst., 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 34(5): 593 (1942)
 
 #### Original name
-null
+Diachea cerifera G. Lister, 1913
 
 ### Remarks
 null

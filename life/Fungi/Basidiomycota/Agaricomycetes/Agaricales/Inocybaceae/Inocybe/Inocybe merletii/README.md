@@ -1,5 +1,4 @@
-Inocybe merletii Quél. SPECIES
-=======
+# Inocybe merletii Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypotrachyna virensica Elix, T. H. Nash & Sipman SPECIES
-=======
+# Hypotrachyna virensica Elix, T. H. Nash & Sipman SPECIES
 
 #### Status
 ACCEPTED

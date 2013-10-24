@@ -1,17 +1,16 @@
-Phaeographinomyces Cif. & Tomas. GENUS
-=======
+# Phaeographina Müll. Arg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 50, 76 (1953)
+Flora, Jena 65: 398 (1882)
 
 #### Original name
-Phaeographinomyces Cif. & Tomas.
+Phaeographina Müll. Arg.
 
 ### Remarks
 null

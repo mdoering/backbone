@@ -1,5 +1,4 @@
-Placodium bullatum Müll. Arg. SPECIES
-=======
+# Placodium bullatum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

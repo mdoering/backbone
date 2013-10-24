@@ -1,5 +1,4 @@
-Enteridium GENUS
-=======
+# Enteridium GENUS
 
 #### Status
 ACCEPTED

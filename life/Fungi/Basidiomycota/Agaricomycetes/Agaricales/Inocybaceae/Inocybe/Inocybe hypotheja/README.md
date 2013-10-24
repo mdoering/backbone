@@ -1,5 +1,4 @@
-Inocybe hypotheja Kühner SPECIES
-=======
+# Inocybe hypotheja Kühner SPECIES
 
 #### Status
 ACCEPTED

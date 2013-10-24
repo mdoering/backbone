@@ -1,5 +1,4 @@
-Buellia polychroa (Hue) Darb. SPECIES
-=======
+# Buellia polychroa (Hue) Darb. SPECIES
 
 #### Status
 ACCEPTED

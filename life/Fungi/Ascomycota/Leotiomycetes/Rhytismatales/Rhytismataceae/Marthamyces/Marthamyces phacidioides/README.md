@@ -1,14 +1,13 @@
-Stictis phacidioides Fr., 1822 SPECIES
-=======
+# Marthamyces phacidioides (Fr.) Minter, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 2(1): 199 (1822)
+Mycotaxon 87: 51 (2003)
 
 #### Original name
 Stictis phacidioides Fr., 1822

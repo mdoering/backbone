@@ -1,14 +1,13 @@
-Cercospora morindicola Jenkins & Chupp, 1943 SPECIES
-=======
+# Pseudocercospora morindicola (Jenkins & Chupp) U. Braun & McKenzie, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 35(4): 480 (1943)
+in Braun, Mouchacca & McKenzie, N. Z. Jl Bot. 37(2): 314 (1999)
 
 #### Original name
 Cercospora morindicola Jenkins & Chupp, 1943

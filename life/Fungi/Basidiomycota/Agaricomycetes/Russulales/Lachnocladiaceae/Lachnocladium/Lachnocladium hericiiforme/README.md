@@ -1,5 +1,4 @@
-Lachnocladium hericiiforme Singer SPECIES
-=======
+# Lachnocladium hericiiforme Singer SPECIES
 
 #### Status
 ACCEPTED

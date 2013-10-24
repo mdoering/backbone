@@ -1,17 +1,16 @@
-Septoria caricis var. major Lobik VARIETY
-=======
+# Septoria caricis Pass., 1879 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Funghi Parm. Septor. no. 135 (1879)
 
 #### Original name
-Septoria caricis var. major Lobik
+Septoria caricis Pass., 1879
 
 ### Remarks
 null

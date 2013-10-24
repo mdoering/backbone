@@ -1,5 +1,4 @@
-Trichodina ovonucleata Raabe, 1958 SPECIES
-=======
+# Trichodina ovonucleata Raabe, 1958 SPECIES
 
 #### Status
 ACCEPTED

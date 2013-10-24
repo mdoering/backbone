@@ -1,5 +1,4 @@
-Sphaeropezia rhododendri Sacc. SPECIES
-=======
+# Sphaeropezia rhododendri Sacc. SPECIES
 
 #### Status
 ACCEPTED

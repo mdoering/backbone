@@ -1,5 +1,4 @@
-Lycoperdon yetisodale Kreisel SPECIES
-=======
+# Lycoperdon yetisodale Kreisel SPECIES
 
 #### Status
 ACCEPTED

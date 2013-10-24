@@ -1,5 +1,4 @@
-Phoma rhizophila Delacr. SPECIES
-=======
+# Phoma rhizophila Delacr. SPECIES
 
 #### Status
 ACCEPTED

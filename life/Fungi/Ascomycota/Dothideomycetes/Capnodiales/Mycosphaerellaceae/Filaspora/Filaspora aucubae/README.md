@@ -1,5 +1,4 @@
-Filaspora aucubae (Brunaud) Kuntze SPECIES
-=======
+# Filaspora aucubae (Brunaud) Kuntze SPECIES
 
 #### Status
 ACCEPTED

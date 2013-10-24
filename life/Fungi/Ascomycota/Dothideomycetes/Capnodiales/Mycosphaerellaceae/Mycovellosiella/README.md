@@ -1,17 +1,16 @@
-Vellosiella Rangel GENUS
-=======
+# Mycovellosiella Rangel, 1917 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Boln Agric. , São Paulo 16: 151 (1915)
+null
 
 #### Original name
-Vellosiella Rangel
+null
 
 ### Remarks
 null

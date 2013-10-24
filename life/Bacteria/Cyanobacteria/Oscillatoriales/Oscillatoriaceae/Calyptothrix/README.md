@@ -1,5 +1,4 @@
-Calyptothrix J.W. Schopf, 1968 GENUS
-=======
+# Calyptothrix J.W. Schopf, 1968 GENUS
 
 #### Status
 ACCEPTED

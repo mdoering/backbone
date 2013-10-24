@@ -1,5 +1,4 @@
-Paucisalibacillus Nunes et al., 2006 GENUS
-=======
+# Paucisalibacillus Nunes et al., 2006 GENUS
 
 #### Status
 ACCEPTED

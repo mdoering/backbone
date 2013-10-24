@@ -1,5 +1,4 @@
-Opegrapha interalbescens Nyl. SPECIES
-=======
+# Opegrapha interalbescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

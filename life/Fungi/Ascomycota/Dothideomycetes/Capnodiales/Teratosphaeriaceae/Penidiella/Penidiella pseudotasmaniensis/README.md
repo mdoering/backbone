@@ -1,5 +1,4 @@
-Penidiella pseudotasmaniensis Crous, 2009 SPECIES
-=======
+# Penidiella pseudotasmaniensis Crous, 2009 SPECIES
 
 #### Status
 ACCEPTED

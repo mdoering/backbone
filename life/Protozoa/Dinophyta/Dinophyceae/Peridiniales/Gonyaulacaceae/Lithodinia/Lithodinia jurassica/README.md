@@ -1,5 +1,4 @@
-Lithodinia jurassica Eisenack, 1935 SPECIES
-=======
+# Lithodinia jurassica Eisenack, 1935 SPECIES
 
 #### Status
 ACCEPTED

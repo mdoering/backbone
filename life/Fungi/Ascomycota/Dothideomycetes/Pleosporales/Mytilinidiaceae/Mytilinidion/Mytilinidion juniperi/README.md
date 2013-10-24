@@ -1,8 +1,7 @@
-Mytilidion juniperi Ellis & Everh. SPECIES
-=======
+# Mytilinidion juniperi Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mytilidion juniperi Ellis & Everh.
+Mytilinidion juniperi Ellis & Everh.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Paradoxa Mattirolo, 1935 GENUS
-=======
+# Paradoxa Mattirolo, 1935 GENUS
 
 #### Status
 ACCEPTED

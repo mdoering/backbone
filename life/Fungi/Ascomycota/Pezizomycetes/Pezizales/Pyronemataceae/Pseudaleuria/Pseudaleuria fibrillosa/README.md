@@ -1,17 +1,16 @@
-Peziza fibrillosa Curr., 1863 SPECIES
-=======
+# Pseudaleuria fibrillosa (Massee) J. Moravec, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Linn. Soc. London 24: 153 (1863)
+Acta Musei Moraviae, Sci. biolog. 88(1/2): 51 (2003)
 
 #### Original name
-Peziza fibrillosa Curr., 1863
+Otidea fibrillosa Massee, 1895
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cortinarius alkalivirens Høil. & Watling SPECIES
-=======
+# Cortinarius alkalivirens Høil. & Watling SPECIES
 
 #### Status
 ACCEPTED

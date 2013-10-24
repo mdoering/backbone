@@ -1,5 +1,4 @@
-Mereschkowskiella Skvortzkow, 1958 GENUS
-=======
+# Mereschkowskiella Skvortzkow, 1958 GENUS
 
 #### Status
 ACCEPTED

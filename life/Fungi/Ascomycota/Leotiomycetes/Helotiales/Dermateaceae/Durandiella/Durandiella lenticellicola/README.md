@@ -1,5 +1,4 @@
-Durandiella lenticellicola J.W. Groves SPECIES
-=======
+# Durandiella lenticellicola J.W. Groves SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatoma anomalum var. longissimum Grunow VARIETY
-=======
+# Diatoma anomalum (W. Smith) Schonf. SPECIES
 
 #### Status
 ACCEPTED

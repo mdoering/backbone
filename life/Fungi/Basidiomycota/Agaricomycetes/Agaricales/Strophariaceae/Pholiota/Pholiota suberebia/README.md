@@ -1,5 +1,4 @@
-Pholiota suberebia (Britzelm.) Sacc. & Traverso SPECIES
-=======
+# Pholiota suberebia (Britzelm.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

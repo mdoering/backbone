@@ -1,5 +1,4 @@
-Melasmia ulmicola Berk. & M.A. Curtis, 1874 SPECIES
-=======
+# Melasmia ulmicola Berk. & M.A. Curtis, 1874 SPECIES
 
 #### Status
 ACCEPTED

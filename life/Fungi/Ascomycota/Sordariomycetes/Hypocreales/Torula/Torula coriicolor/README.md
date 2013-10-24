@@ -1,5 +1,4 @@
-Torula coriicolor H. Will SPECIES
-=======
+# Torula coriicolor H. Will SPECIES
 
 #### Status
 ACCEPTED

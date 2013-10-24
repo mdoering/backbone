@@ -1,5 +1,4 @@
-Histoplasma pyriformis (M. Moore) Cif. & Redaelli SPECIES
-=======
+# Histoplasma pyriformis (M. Moore) Cif. & Redaelli SPECIES
 
 #### Status
 ACCEPTED

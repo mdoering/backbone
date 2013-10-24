@@ -1,5 +1,4 @@
-Diaporthe salinicola Speg. SPECIES
-=======
+# Diaporthe salinicola Speg. SPECIES
 
 #### Status
 ACCEPTED

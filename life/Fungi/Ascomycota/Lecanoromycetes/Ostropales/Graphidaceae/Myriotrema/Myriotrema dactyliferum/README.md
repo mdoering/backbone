@@ -1,5 +1,4 @@
-Myriotrema dactyliferum (Hale) Hale SPECIES
-=======
+# Myriotrema dactyliferum (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

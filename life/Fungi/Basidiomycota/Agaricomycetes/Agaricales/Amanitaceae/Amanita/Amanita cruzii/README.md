@@ -1,5 +1,4 @@
-Amanita cruzii O.K. Mill. & Lodge SPECIES
-=======
+# Amanita cruzii O.K. Mill. & Lodge SPECIES
 
 #### Status
 ACCEPTED

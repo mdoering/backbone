@@ -1,5 +1,4 @@
-Peziza chavetiae Lib. SPECIES
-=======
+# Peziza chavetiae Lib. SPECIES
 
 #### Status
 ACCEPTED

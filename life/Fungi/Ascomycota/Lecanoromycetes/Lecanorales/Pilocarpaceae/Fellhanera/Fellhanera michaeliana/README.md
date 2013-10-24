@@ -1,5 +1,4 @@
-Fellhanera michaeliana (Sérus.) Sérus. SPECIES
-=======
+# Fellhanera michaeliana (Sérus.) Sérus. SPECIES
 
 #### Status
 ACCEPTED

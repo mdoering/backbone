@@ -1,5 +1,4 @@
-Pyrenula infernalis (Mont.) Trevis. SPECIES
-=======
+# Pyrenula infernalis (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

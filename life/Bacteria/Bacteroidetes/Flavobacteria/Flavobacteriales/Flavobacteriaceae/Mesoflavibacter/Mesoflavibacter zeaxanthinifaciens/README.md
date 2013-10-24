@@ -1,5 +1,4 @@
-Mesoflavibacter zeaxanthinifaciens Asker, Beppu & Ueda, 2008 SPECIES
-=======
+# Mesoflavibacter zeaxanthinifaciens Asker, Beppu & Ueda, 2008 SPECIES
 
 #### Status
 ACCEPTED

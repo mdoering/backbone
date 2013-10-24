@@ -1,5 +1,4 @@
-Morenoella shoreae R.W. Ryan SPECIES
-=======
+# Morenoella shoreae R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

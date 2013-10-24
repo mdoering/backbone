@@ -1,5 +1,4 @@
-Lycoperdon brasiliense Fr. SPECIES
-=======
+# Lycoperdon brasiliense Fr. SPECIES
 
 #### Status
 ACCEPTED

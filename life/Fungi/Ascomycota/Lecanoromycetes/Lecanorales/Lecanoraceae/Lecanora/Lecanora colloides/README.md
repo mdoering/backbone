@@ -1,5 +1,4 @@
-Lecanora colloides Vain. SPECIES
-=======
+# Lecanora colloides Vain. SPECIES
 
 #### Status
 ACCEPTED

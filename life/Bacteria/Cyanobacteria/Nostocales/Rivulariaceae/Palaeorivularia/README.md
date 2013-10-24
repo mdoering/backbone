@@ -1,5 +1,4 @@
-Palaeorivularia K.B. Korde, 1958 GENUS
-=======
+# Palaeorivularia K.B. Korde, 1958 GENUS
 
 #### Status
 ACCEPTED

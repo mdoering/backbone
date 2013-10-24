@@ -1,5 +1,4 @@
-Erysipelothrix Rosenbach, 1909 GENUS
-=======
+# Erysipelothrix Rosenbach, 1909 GENUS
 
 #### Status
 ACCEPTED

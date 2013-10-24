@@ -1,5 +1,4 @@
-Physcia candelaria (Weber ex F.H. Wigg.) Anzi SPECIES
-=======
+# Physcia candelaria (Weber ex F.H. Wigg.) Anzi SPECIES
 
 #### Status
 ACCEPTED

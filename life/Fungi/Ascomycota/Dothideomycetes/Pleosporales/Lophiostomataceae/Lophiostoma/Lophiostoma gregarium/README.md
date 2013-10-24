@@ -1,5 +1,4 @@
-Lophiostoma gregarium Fuckel SPECIES
-=======
+# Lophiostoma gregarium Fuckel SPECIES
 
 #### Status
 ACCEPTED

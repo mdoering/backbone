@@ -1,5 +1,4 @@
-Diaporthe casuarinae Speg. SPECIES
-=======
+# Diaporthe casuarinae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Jahnula siamensiae Sivichai & E.B.G. Jones SPECIES
-=======
+# Jahnula siamensis Sivichai & E.B.G. Jones SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Pang, Abdel-Wahab, Sivichai, El-Sharouny & Jones, Mycol. Res. 106(9): 1037 (2002)
 
 #### Original name
-Jahnula siamensiae Sivichai & E.B.G. Jones
+Jahnula siamensis Sivichai & E.B.G. Jones
 
 ### Remarks
 null

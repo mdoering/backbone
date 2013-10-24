@@ -1,5 +1,4 @@
-Agaricus olivacens Pers. SPECIES
-=======
+# Agaricus olivacens Pers. SPECIES
 
 #### Status
 ACCEPTED

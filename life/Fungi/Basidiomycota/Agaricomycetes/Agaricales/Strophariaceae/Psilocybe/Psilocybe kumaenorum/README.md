@@ -1,5 +1,4 @@
-Psilocybe kumaenorum R. Heim, 1967 SPECIES
-=======
+# Psilocybe kumaenorum R. Heim, 1967 SPECIES
 
 #### Status
 ACCEPTED

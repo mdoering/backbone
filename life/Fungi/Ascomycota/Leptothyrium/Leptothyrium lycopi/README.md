@@ -1,5 +1,4 @@
-Leptothyrium lycopi Richon SPECIES
-=======
+# Leptothyrium lycopi Richon SPECIES
 
 #### Status
 ACCEPTED

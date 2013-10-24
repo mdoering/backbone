@@ -1,5 +1,4 @@
-Trichophaea paraphysincrustata Donadini, M. Torre & Calonge SPECIES
-=======
+# Trichophaea paraphysincrustata Donadini, M. Torre & Calonge SPECIES
 
 #### Status
 ACCEPTED

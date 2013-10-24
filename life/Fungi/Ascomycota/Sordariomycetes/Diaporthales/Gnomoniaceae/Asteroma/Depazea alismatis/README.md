@@ -1,5 +1,4 @@
-Depazea alismatis Westend. SPECIES
-=======
+# Depazea alismatis Westend. SPECIES
 
 #### Status
 ACCEPTED

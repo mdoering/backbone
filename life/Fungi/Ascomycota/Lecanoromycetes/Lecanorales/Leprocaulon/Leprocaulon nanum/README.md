@@ -1,5 +1,4 @@
-Leprocaulon nanum Nyl. SPECIES
-=======
+# Leprocaulon nanum Nyl. SPECIES
 
 #### Status
 ACCEPTED

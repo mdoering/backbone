@@ -1,5 +1,4 @@
-Clavaria lignea Willd. SPECIES
-=======
+# Clavaria lignea Willd. SPECIES
 
 #### Status
 ACCEPTED

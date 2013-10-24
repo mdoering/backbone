@@ -1,5 +1,4 @@
-Physcia melops Nyl. SPECIES
-=======
+# Physcia melops Nyl. SPECIES
 
 #### Status
 ACCEPTED

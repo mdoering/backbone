@@ -1,5 +1,4 @@
-Distopyrenis pachyspora Aptroot SPECIES
-=======
+# Distopyrenis pachyspora Aptroot SPECIES
 
 #### Status
 ACCEPTED

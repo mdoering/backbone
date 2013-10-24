@@ -1,5 +1,4 @@
-Cortinarius nanus Melot SPECIES
-=======
+# Cortinarius nanus Melot SPECIES
 
 #### Status
 ACCEPTED

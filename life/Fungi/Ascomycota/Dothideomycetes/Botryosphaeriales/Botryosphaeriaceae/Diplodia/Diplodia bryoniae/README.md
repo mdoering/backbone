@@ -1,5 +1,4 @@
-Diplodia bryoniae Zimm. SPECIES
-=======
+# Diplodia bryoniae Zimm. SPECIES
 
 #### Status
 ACCEPTED

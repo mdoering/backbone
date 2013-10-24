@@ -1,5 +1,4 @@
-Lecideola flavescens A. Massal. SPECIES
-=======
+# Lecideola flavescens A. Massal. SPECIES
 
 #### Status
 ACCEPTED

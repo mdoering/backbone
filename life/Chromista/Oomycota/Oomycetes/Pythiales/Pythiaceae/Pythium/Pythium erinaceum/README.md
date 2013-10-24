@@ -1,5 +1,4 @@
-Pythium erinaceum J.A. Robertson, 1977 SPECIES
-=======
+# Pythium erinaceum J.A. Robertson, 1977 SPECIES
 
 #### Status
 ACCEPTED

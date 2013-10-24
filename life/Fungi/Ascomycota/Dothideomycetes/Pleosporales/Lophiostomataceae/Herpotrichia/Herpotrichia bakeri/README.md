@@ -1,5 +1,4 @@
-Herpotrichia bakeri Syd. {?} SPECIES
-=======
+# Herpotrichia bakeri Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetosphaeria holophaea (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Chaetosphaeria holophaea (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

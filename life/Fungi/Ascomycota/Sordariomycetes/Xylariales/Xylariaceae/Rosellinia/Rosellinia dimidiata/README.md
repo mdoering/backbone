@@ -1,5 +1,4 @@
-Rosellinia dimidiata Starbäck SPECIES
-=======
+# Rosellinia dimidiata Starbäck SPECIES
 
 #### Status
 ACCEPTED

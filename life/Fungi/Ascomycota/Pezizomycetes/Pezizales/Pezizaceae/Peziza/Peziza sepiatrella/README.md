@@ -1,5 +1,4 @@
-Peziza sepiatrella Sacc. SPECIES
-=======
+# Peziza sepiatrella Sacc. SPECIES
 
 #### Status
 ACCEPTED

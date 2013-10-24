@@ -1,5 +1,4 @@
-Rhaphidophora camptospora Sacc. SPECIES
-=======
+# Rhaphidophora camptospora Sacc. SPECIES
 
 #### Status
 ACCEPTED

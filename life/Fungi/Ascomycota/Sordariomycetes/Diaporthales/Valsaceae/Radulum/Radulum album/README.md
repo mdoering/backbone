@@ -1,5 +1,4 @@
-Radulum album Rick SPECIES
-=======
+# Radulum album Rick SPECIES
 
 #### Status
 ACCEPTED

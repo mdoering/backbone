@@ -1,5 +1,4 @@
-Porina trichothelioides R. Sant., 1952 SPECIES
-=======
+# Porina trichothelioides R. Sant., 1952 SPECIES
 
 #### Status
 DOUBTFUL

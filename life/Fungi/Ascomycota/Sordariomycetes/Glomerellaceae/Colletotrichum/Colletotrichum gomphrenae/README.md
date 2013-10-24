@@ -1,5 +1,4 @@
-Colletotrichum gomphrenae Rao & M.A. Salam SPECIES
-=======
+# Colletotrichum gomphrenae Rao & M.A. Salam SPECIES
 
 #### Status
 ACCEPTED

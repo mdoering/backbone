@@ -1,8 +1,7 @@
-Conolagena favospunctata (Brady, 1881) SPECIES
-=======
+# Favulina favosopunctata (Brady, 1881) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

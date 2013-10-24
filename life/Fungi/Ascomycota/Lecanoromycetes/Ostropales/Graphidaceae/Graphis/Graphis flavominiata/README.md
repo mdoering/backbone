@@ -1,5 +1,4 @@
-Graphis flavominiata Moncada & Lücking SPECIES
-=======
+# Graphis flavominiata Moncada & Lücking SPECIES
 
 #### Status
 ACCEPTED

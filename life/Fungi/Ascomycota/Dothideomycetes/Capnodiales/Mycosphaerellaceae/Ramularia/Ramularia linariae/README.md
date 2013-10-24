@@ -1,5 +1,4 @@
-Ramularia linariae Baudy & Picb. SPECIES
-=======
+# Ramularia linariae Baudy & Picb. SPECIES
 
 #### Status
 ACCEPTED

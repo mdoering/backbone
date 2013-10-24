@@ -1,5 +1,4 @@
-Thamnolecania (Vain.) Gyeln. GENUS
-=======
+# Thamnolecania (Vain.) Gyeln. GENUS
 
 #### Status
 ACCEPTED

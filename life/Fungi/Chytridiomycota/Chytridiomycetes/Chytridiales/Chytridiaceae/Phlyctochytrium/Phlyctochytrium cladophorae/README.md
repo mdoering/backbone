@@ -1,5 +1,4 @@
-Phlyctochytrium cladophorae Kobayasi & M. Ôkubo SPECIES
-=======
+# Phlyctochytrium cladophorae Kobayasi & M. Ôkubo SPECIES
 
 #### Status
 ACCEPTED

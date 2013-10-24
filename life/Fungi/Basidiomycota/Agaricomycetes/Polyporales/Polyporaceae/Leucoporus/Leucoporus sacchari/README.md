@@ -1,5 +1,4 @@
-Leucoporus sacchari J.M. Yen & L.W. Hsu SPECIES
-=======
+# Leucoporus sacchari J.M. Yen & L.W. Hsu SPECIES
 
 #### Status
 ACCEPTED

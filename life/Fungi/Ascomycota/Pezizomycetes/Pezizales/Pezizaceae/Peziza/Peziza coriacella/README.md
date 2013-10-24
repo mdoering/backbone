@@ -1,5 +1,4 @@
-Peziza coriacella Speg. SPECIES
-=======
+# Peziza coriacella Speg. SPECIES
 
 #### Status
 ACCEPTED

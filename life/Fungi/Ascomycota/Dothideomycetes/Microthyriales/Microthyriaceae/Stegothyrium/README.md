@@ -1,5 +1,4 @@
-Stegothyrium Höhn. GENUS
-=======
+# Stegothyrium Höhn. GENUS
 
 #### Status
 ACCEPTED

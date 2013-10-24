@@ -1,5 +1,4 @@
-Pythium dissimile Vaartaja, 1965 SPECIES
-=======
+# Pythium dissimile Vaartaja, 1965 SPECIES
 
 #### Status
 ACCEPTED

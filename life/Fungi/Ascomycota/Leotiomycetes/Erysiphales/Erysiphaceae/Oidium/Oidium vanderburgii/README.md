@@ -1,5 +1,4 @@
-Oidium vanderburgii Kohlbr. SPECIES
-=======
+# Oidium vanderburgii Kohlbr. SPECIES
 
 #### Status
 ACCEPTED

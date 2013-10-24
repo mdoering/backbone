@@ -1,5 +1,4 @@
-Depazea palmarum Rabenh. SPECIES
-=======
+# Depazea palmarum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

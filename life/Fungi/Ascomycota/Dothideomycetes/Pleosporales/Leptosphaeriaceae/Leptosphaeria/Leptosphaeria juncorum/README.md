@@ -1,5 +1,4 @@
-Leptosphaeria juncorum (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Leptosphaeria juncorum (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boerlagiomyces Butzin GENUS
-=======
+# Boerlagiomyces Butzin GENUS
 
 #### Status
 ACCEPTED

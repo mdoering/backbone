@@ -1,5 +1,4 @@
-Palaeomyces Renault, 1896 GENUS
-=======
+# Palaeomyces Renault, 1896 GENUS
 
 #### Status
 ACCEPTED

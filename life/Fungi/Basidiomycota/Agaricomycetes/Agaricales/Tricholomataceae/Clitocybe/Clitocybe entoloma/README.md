@@ -1,5 +1,4 @@
-Clitocybe entoloma (Murrill) Singer SPECIES
-=======
+# Clitocybe entoloma (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

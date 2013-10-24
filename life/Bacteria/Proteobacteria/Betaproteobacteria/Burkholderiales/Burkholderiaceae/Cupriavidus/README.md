@@ -1,5 +1,4 @@
-Cupriavidus Makkar & Casida, 1987 GENUS
-=======
+# Cupriavidus Makkar & Casida, 1987 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis camptothecae C.Q. Chang, Z.D. Jiang & P.K. Chi SPECIES
-=======
+# Phomopsis camptothecae C.Q. Chang, Z.D. Jiang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

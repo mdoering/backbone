@@ -1,5 +1,4 @@
-Ithyphallus paucinervis E. Fisch. SPECIES
-=======
+# Ithyphallus paucinervis E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

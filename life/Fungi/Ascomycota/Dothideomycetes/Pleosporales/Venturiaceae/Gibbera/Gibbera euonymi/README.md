@@ -1,5 +1,4 @@
-Gibbera euonymi Fuckel SPECIES
-=======
+# Gibbera euonymi Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staphlosporonites allomorphus Sheffy & Dilcher SPECIES
-=======
+# Staphlosporonites allomorphus Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

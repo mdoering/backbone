@@ -1,5 +1,4 @@
-Massospora cleoni Wize SPECIES
-=======
+# Massospora cleoni Wize SPECIES
 
 #### Status
 ACCEPTED

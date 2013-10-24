@@ -1,5 +1,4 @@
-Trypethelium quassiaecola Fée SPECIES
-=======
+# Trypethelium quassiaecola Fée SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalospora piperina Syd. SPECIES
-=======
+# Physalospora piperina Syd. SPECIES
 
 #### Status
 ACCEPTED

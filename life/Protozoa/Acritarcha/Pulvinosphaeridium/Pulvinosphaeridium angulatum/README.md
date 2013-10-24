@@ -1,5 +1,4 @@
-Pulvinosphaeridium angulatum (Timofeev, 1966) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Pulvinosphaeridium angulatum (Timofeev, 1966) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

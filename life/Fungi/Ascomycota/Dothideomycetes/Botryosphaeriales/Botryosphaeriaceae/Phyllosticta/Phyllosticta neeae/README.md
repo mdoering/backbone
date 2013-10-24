@@ -1,5 +1,4 @@
-Phyllosticta neeae Bat. & Peres SPECIES
-=======
+# Phyllosticta neeae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

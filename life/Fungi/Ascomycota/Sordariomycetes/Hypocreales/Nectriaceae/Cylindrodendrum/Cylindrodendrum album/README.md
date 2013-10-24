@@ -1,17 +1,16 @@
-Cylindrodendrum album var. paralion Summerb., Seifert & J.A. Mackinnon VARIETY
-=======
+# Cylindrodendrum album Bonord., 1851 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 67(2): 573 (1989)
+Handb. Allgem. mykol. (Stuttgart) 48 (1851)
 
 #### Original name
-Cylindrodendrum album var. paralion Summerb., Seifert & J.A. Mackinnon
+Cylindrodendrum album Bonord., 1851
 
 ### Remarks
 null

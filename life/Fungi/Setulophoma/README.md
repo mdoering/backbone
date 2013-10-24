@@ -1,5 +1,4 @@
-Setulophoma Cec. Roux GENUS
-=======
+# Setulophoma Cec. Roux GENUS
 
 #### Status
 ACCEPTED

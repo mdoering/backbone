@@ -1,5 +1,4 @@
-Helotium monachorum Velen. SPECIES
-=======
+# Helotium monachorum Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calothrix stellaris Bornet & Flahault SPECIES
-=======
+# Calothrix stellaris Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

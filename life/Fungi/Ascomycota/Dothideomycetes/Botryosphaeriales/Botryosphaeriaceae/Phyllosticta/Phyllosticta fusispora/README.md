@@ -1,5 +1,4 @@
-Phyllosticta fusispora Ellis & Everh. SPECIES
-=======
+# Phyllosticta fusispora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

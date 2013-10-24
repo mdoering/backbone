@@ -1,5 +1,4 @@
-Physalospora erratica (Cooke & Ellis) Sacc. SPECIES
-=======
+# Physalospora erratica (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

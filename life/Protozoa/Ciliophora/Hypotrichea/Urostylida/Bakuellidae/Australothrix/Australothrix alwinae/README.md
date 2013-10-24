@@ -1,5 +1,4 @@
-Australothrix alwinae Blatterer & Foissner, 1988 SPECIES
-=======
+# Australothrix alwinae Blatterer & Foissner, 1988 SPECIES
 
 #### Status
 ACCEPTED

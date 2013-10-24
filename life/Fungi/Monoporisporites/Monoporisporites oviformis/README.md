@@ -1,5 +1,4 @@
-Monoporisporites oviformis (V.S. Ediger) Kalgutkar & Janson. SPECIES
-=======
+# Monoporisporites oviformis (V.S. Ediger) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

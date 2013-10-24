@@ -1,5 +1,4 @@
-Tricholoma pseudosaponaceum Hácek {?} SPECIES
-=======
+# Tricholoma pseudosaponaceum Hácek {?} SPECIES
 
 #### Status
 ACCEPTED

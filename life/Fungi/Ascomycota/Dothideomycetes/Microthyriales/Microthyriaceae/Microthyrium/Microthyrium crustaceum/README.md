@@ -1,5 +1,4 @@
-Microthyrium crustaceum Pat. SPECIES
-=======
+# Microthyrium crustaceum Pat. SPECIES
 
 #### Status
 ACCEPTED

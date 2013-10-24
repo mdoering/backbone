@@ -1,5 +1,4 @@
-Bacidia dolera (Nyl.) Blomb. & Forssell SPECIES
-=======
+# Bacidia dolera (Nyl.) Blomb. & Forssell SPECIES
 
 #### Status
 ACCEPTED

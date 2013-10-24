@@ -1,5 +1,4 @@
-Rhabdospora ephedrella Golovin SPECIES
-=======
+# Rhabdospora ephedrella Golovin SPECIES
 
 #### Status
 ACCEPTED

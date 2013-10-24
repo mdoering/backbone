@@ -1,5 +1,4 @@
-Actinobolus GENUS
-=======
+# Actinobolus GENUS
 
 #### Status
 ACCEPTED

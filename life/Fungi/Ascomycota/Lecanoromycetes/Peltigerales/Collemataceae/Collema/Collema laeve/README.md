@@ -1,17 +1,16 @@
-Collema laeve var. senecionis (F. Wilson) Degel. VARIETY
-=======
+# Collema laeve Hook. f. & Taylor SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symb. bot. upsal. 20(no. 2): 119 (1974)
+null
 
 #### Original name
-Collema senecionis F. Wilson
+null
 
 ### Remarks
 null

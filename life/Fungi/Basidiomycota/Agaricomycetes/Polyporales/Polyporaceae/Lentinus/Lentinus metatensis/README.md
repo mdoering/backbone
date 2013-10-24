@@ -1,5 +1,4 @@
-Lentinus metatensis Bacc. SPECIES
-=======
+# Lentinus metatensis Bacc. SPECIES
 
 #### Status
 ACCEPTED

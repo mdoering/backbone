@@ -1,5 +1,4 @@
-Ramularia rhaetica (Sacc. & G. Winter) Jaap SPECIES
-=======
+# Ramularia rhaetica (Sacc. & G. Winter) Jaap SPECIES
 
 #### Status
 ACCEPTED

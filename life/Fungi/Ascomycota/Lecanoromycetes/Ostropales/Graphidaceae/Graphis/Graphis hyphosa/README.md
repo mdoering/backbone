@@ -1,5 +1,4 @@
-Graphis hyphosa Staiger SPECIES
-=======
+# Graphis hyphosa Staiger SPECIES
 
 #### Status
 ACCEPTED

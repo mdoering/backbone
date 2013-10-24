@@ -1,5 +1,4 @@
-Amanita crispa Lam. SPECIES
-=======
+# Amanita crispa Lam. SPECIES
 
 #### Status
 ACCEPTED

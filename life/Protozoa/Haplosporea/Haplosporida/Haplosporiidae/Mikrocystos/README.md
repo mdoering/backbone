@@ -1,5 +1,4 @@
-Mikrocystos Farley, Wolf & Elston, 1988 GENUS
-=======
+# Mikrocystos Farley, Wolf & Elston, 1988 GENUS
 
 #### Status
 ACCEPTED

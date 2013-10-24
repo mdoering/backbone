@@ -1,5 +1,4 @@
-Humaria flavotingens (Berk. & Broome) Sacc. SPECIES
-=======
+# Humaria flavotingens (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

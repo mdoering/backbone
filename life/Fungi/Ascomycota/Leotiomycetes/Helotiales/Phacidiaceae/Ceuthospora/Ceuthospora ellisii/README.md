@@ -1,5 +1,4 @@
-Ceuthospora ellisii Sacc. & Trotter SPECIES
-=======
+# Ceuthospora ellisii Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

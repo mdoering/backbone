@@ -1,5 +1,4 @@
-Roccella guanchica Feige & Viethen SPECIES
-=======
+# Roccella guanchica Feige & Viethen SPECIES
 
 #### Status
 ACCEPTED

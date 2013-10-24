@@ -1,5 +1,4 @@
-Balladyna pavettae Boedijn SPECIES
-=======
+# Balladyna pavettae Boedijn SPECIES
 
 #### Status
 ACCEPTED

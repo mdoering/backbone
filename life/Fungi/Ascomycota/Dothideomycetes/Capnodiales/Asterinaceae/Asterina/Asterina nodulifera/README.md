@@ -1,5 +1,4 @@
-Asterina nodulifera Syd. & P. Syd. SPECIES
-=======
+# Asterina nodulifera Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

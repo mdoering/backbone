@@ -1,5 +1,4 @@
-Ithyphallus sanguineus (Henn.) Sacc. & D. Sacc. SPECIES
-=======
+# Ithyphallus sanguineus (Henn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

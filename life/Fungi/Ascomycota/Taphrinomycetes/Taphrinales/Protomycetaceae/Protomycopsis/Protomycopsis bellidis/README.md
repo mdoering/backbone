@@ -1,5 +1,4 @@
-Protomycopsis bellidis (Krieg.) Magnus SPECIES
-=======
+# Protomycopsis bellidis (Krieg.) Magnus SPECIES
 
 #### Status
 ACCEPTED

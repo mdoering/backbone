@@ -1,5 +1,4 @@
-Cleistosphaeridium ancoriferum (Cookson & Eisenack, 1960) Davey, Downie, Sarjeant & Williams SPECIES
-=======
+# Cleistosphaeridium ancoriferum (Cookson & Eisenack, 1960) Davey, Downie, Sarjeant & Williams SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia persicae McAlpine SPECIES
-=======
+# Hendersonia persicae McAlpine SPECIES
 
 #### Status
 ACCEPTED

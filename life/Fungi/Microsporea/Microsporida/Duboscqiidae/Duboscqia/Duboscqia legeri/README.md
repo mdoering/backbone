@@ -1,5 +1,4 @@
-Duboscqia legeri Perez SPECIES
-=======
+# Duboscqia legeri Perez SPECIES
 
 #### Status
 ACCEPTED

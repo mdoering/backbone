@@ -1,5 +1,4 @@
-Frontonia algivora Kahl, 1931 SPECIES
-=======
+# Frontonia algivora Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

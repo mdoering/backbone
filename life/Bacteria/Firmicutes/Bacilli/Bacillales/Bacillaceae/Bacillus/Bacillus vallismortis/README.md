@@ -1,5 +1,4 @@
-Bacillus vallismortis Roberts et al., 1996 SPECIES
-=======
+# Bacillus vallismortis Roberts et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

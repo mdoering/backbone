@@ -1,5 +1,4 @@
-Parmelia solidepedicellata Bitter SPECIES
-=======
+# Parmelia solidepedicellata Bitter SPECIES
 
 #### Status
 ACCEPTED

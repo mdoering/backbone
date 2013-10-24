@@ -1,5 +1,4 @@
-Hygrocybe hypospoda A.M. Young SPECIES
-=======
+# Hygrocybe hypospoda A.M. Young SPECIES
 
 #### Status
 ACCEPTED

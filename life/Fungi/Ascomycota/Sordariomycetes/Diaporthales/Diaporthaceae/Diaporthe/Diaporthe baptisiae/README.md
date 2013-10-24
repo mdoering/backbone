@@ -1,5 +1,4 @@
-Diaporthe baptisiae Rehm SPECIES
-=======
+# Diaporthe baptisiae Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium hibisci Reichert SPECIES
-=======
+# Cladosporium hibisci Reichert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius baeocephalus Singer SPECIES
-=======
+# Marasmius baeocephalus Singer SPECIES
 
 #### Status
 ACCEPTED

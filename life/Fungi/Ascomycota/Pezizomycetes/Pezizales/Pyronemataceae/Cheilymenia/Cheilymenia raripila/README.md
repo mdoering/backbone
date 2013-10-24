@@ -1,14 +1,13 @@
-Patella raripila (W. Phillips) Seaver, 1928 SPECIES
-=======
+# Cheilymenia raripila (W. Phillips) Dennis, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-North American Cup-fungi (New York), (Operculates) 173 (1928)
+Kew Bull. 14(3): 428 (1960)
 
 #### Original name
 Ascobolus raripilus W. Phillips, 1878

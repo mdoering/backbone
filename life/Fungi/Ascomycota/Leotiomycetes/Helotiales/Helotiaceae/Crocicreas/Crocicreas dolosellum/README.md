@@ -1,17 +1,16 @@
-Phialea dolosella subsp. dolosella SUBSPECIES
-=======
+# Crocicreas dolosellum (P. Karst.) S.E. Carp., 1980 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 275 (1889)
+Brittonia 32(2): 270 (1980)
 
 #### Original name
-Phialea dolosella subsp. dolosella
+null
 
 ### Remarks
 null

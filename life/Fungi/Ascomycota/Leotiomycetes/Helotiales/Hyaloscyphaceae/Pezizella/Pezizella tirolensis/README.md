@@ -1,5 +1,4 @@
-Pezizella tirolensis Rehm ex Höhn. SPECIES
-=======
+# Pezizella tirolensis Rehm ex Höhn. SPECIES
 
 #### Status
 ACCEPTED

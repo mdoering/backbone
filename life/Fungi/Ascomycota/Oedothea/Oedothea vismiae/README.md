@@ -1,5 +1,4 @@
-Oedothea vismiae Syd., 1930 SPECIES
-=======
+# Oedothea vismiae Syd., 1930 SPECIES
 
 #### Status
 ACCEPTED

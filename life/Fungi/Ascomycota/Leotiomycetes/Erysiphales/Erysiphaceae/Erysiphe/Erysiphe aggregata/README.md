@@ -1,5 +1,4 @@
-Erysiphe aggregata Farl. SPECIES
-=======
+# Erysiphe aggregata Farl. SPECIES
 
 #### Status
 ACCEPTED

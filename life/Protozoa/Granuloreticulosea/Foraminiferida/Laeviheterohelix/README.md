@@ -1,5 +1,4 @@
-Laeviheterohelix Nederbragt, 1991 GENUS
-=======
+# Laeviheterohelix Nederbragt, 1991 GENUS
 
 #### Status
 ACCEPTED

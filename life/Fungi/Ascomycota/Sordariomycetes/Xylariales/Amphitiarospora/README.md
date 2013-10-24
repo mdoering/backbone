@@ -1,5 +1,4 @@
-Amphitiarospora GENUS
-=======
+# Amphitiarospora GENUS
 
 #### Status
 ACCEPTED

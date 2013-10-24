@@ -1,5 +1,4 @@
-Puccinia sylvatica J. Schröt. SPECIES
-=======
+# Puccinia sylvatica J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

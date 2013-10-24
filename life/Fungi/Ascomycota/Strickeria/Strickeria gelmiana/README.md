@@ -1,14 +1,13 @@
-Strickera gelmiana (Berk. & Broome) Kuntze SPECIES
-=======
+# Strickeria gelmiana (Berk. & Broome) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3(2): 534 (1898)
 
 #### Original name
 Teichospora gelmiana Berl. & Bres.

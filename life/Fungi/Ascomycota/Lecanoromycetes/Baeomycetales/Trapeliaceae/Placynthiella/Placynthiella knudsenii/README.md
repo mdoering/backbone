@@ -1,5 +1,4 @@
-Placynthiella knudsenii Lendemer SPECIES
-=======
+# Placynthiella knudsenii Lendemer SPECIES
 
 #### Status
 ACCEPTED

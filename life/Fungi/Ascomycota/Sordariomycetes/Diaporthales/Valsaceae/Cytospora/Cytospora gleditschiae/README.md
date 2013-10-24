@@ -1,5 +1,4 @@
-Cytospora gleditschiae Ellis & Barthol. SPECIES
-=======
+# Cytospora gleditschiae Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

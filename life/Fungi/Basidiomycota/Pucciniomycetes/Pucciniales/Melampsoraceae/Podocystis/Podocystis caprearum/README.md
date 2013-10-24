@@ -1,14 +1,13 @@
-Podocystis capraearum (DC.) Fr. SPECIES
-=======
+# Podocystis caprearum (DC.) Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Summa veg. Scand. (Stockholm), Section Post. 512 (1849)
 
 #### Original name
 Uredo caprearum DC.

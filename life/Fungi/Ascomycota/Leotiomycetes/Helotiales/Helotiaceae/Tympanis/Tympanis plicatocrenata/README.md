@@ -1,5 +1,4 @@
-Tympanis plicatocrenata Fr. SPECIES
-=======
+# Tympanis plicatocrenata Fr. SPECIES
 
 #### Status
 ACCEPTED

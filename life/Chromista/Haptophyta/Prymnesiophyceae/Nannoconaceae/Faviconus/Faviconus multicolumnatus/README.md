@@ -1,5 +1,4 @@
-Faviconus multicolumnatus SPECIES
-=======
+# Faviconus multicolumnatus SPECIES
 
 #### Status
 ACCEPTED

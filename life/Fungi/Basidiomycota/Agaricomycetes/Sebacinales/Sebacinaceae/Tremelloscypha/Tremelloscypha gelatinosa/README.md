@@ -1,14 +1,13 @@
-Eichleriella gelatinosa Murrill, 1915 SPECIES
-=======
+# Tremelloscypha gelatinosa (Murrill) Oberw. & K. Wells, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Burt, Ann. Mo. bot. Gdn 2: 748 (1915)
+in Wells & Oberwinkler, Mycologia 74(2): 325 (1982)
 
 #### Original name
 Eichleriella gelatinosa Murrill, 1915

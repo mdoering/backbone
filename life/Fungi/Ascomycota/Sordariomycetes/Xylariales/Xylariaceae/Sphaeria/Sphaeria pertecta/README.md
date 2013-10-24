@@ -1,5 +1,4 @@
-Sphaeria pertecta Cooke SPECIES
-=======
+# Sphaeria pertecta Cooke SPECIES
 
 #### Status
 ACCEPTED

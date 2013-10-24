@@ -1,14 +1,13 @@
-Badhamia gracilis var. melanospora (Speg.) A. Castillo, G. Moreno & Illana VARIETY
-=======
+# Badhamia melanospora Speg., 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Castillo, Illana & Moreno, Mycotaxon 57: 169 (1996)
+Anal. Soc. cient. argent. 10: 150 (1880)
 
 #### Original name
 Badhamia melanospora Speg., 1880

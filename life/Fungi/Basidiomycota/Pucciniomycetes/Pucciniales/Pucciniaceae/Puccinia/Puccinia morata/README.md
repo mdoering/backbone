@@ -1,5 +1,4 @@
-Puccinia morata Cummins SPECIES
-=======
+# Puccinia morata Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tintinnopsis cheribonensis SPECIES
-=======
+# Tintinnopsis cheribonensis SPECIES
 
 #### Status
 ACCEPTED

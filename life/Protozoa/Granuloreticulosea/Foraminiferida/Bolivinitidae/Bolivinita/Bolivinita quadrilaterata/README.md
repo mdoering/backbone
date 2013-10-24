@@ -1,5 +1,4 @@
-Bolivinita quadrilaterata SPECIES
-=======
+# Bolivinita quadrilaterata SPECIES
 
 #### Status
 ACCEPTED

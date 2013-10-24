@@ -1,5 +1,4 @@
-Camarosporium macrostachyum Unamuno SPECIES
-=======
+# Camarosporium macrostachyum Unamuno SPECIES
 
 #### Status
 ACCEPTED

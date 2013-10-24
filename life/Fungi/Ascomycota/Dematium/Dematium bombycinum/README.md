@@ -1,5 +1,4 @@
-Dematium bombycinum var. bombycinum VARIETY
-=======
+# Dematium bombycinum Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dematium bombycinum var. bombycinum
+Dematium bombycinum Pers.
 
 ### Remarks
 null

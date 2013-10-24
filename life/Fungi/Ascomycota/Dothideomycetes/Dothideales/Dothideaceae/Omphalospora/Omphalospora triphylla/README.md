@@ -1,5 +1,4 @@
-Omphalospora triphylla Fourr. SPECIES
-=======
+# Omphalospora triphylla Fourr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Idriella rhododendri W.P. Wu, B. Sutton & Gange, 1997 SPECIES
-=======
+# Idriella rhododendri W.P. Wu, B. Sutton & Gange, 1997 SPECIES
 
 #### Status
 ACCEPTED

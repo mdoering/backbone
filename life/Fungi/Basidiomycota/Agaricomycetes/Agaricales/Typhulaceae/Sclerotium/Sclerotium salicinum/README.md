@@ -1,5 +1,4 @@
-Sclerotium salicinum Pers. ex DC. SPECIES
-=======
+# Sclerotium salicinum Pers. ex DC. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenogaster gardneri Zeller & C.W. Dodge SPECIES
-=======
+# Hymenogaster gardneri Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

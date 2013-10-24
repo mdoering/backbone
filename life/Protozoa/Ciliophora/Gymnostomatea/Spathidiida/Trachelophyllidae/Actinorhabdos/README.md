@@ -1,5 +1,4 @@
-Actinorhabdos Foissner, 1984 GENUS
-=======
+# Actinorhabdos Foissner, 1984 GENUS
 
 #### Status
 ACCEPTED

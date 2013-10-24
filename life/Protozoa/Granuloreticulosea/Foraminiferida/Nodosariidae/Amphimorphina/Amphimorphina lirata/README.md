@@ -1,5 +1,4 @@
-Amphimorphina lirata Cushman & Bermudez SPECIES
-=======
+# Amphimorphina lirata Cushman & Bermudez SPECIES
 
 #### Status
 ACCEPTED

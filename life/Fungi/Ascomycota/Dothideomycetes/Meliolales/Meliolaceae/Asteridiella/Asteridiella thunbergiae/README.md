@@ -1,5 +1,4 @@
-Asteridiella thunbergiae (F. Stevens & Roldan) Hansf. SPECIES
-=======
+# Asteridiella thunbergiae (F. Stevens & Roldan) Hansf. SPECIES
 
 #### Status
 ACCEPTED

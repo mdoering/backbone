@@ -1,5 +1,4 @@
-Endogone argentina Speg. SPECIES
-=======
+# Endogone argentina Speg. SPECIES
 
 #### Status
 ACCEPTED

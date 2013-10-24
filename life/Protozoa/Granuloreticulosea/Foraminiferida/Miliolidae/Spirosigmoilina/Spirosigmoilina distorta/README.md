@@ -1,5 +1,4 @@
-Spirosigmoilina distorta SPECIES
-=======
+# Spirosigmoilina distorta SPECIES
 
 #### Status
 ACCEPTED

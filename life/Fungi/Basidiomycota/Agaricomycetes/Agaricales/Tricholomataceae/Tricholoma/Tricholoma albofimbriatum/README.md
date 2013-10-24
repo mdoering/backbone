@@ -1,5 +1,4 @@
-Tricholoma albofimbriatum Trog SPECIES
-=======
+# Tricholoma albofimbriatum Trog SPECIES
 
 #### Status
 ACCEPTED

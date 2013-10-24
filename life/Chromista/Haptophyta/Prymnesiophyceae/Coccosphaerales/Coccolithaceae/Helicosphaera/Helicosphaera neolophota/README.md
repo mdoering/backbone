@@ -1,5 +1,4 @@
-Helicosphaera neolophota D. Bukry SPECIES
-=======
+# Helicosphaera neolophota D. Bukry SPECIES
 
 #### Status
 ACCEPTED

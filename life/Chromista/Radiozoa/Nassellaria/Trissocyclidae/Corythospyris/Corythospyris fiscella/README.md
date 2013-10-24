@@ -1,5 +1,4 @@
-Corythospyris fiscella Goll, 1978 SPECIES
-=======
+# Corythospyris fiscella Goll, 1978 SPECIES
 
 #### Status
 ACCEPTED

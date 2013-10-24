@@ -1,5 +1,4 @@
-Cucurbitaria citricola Sturgis SPECIES
-=======
+# Cucurbitaria citricola Sturgis SPECIES
 
 #### Status
 ACCEPTED

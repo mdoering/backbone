@@ -1,5 +1,4 @@
-Lactarius melanodermus R. Heim & Gooss.-Font. SPECIES
-=======
+# Lactarius melanodermus R. Heim & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

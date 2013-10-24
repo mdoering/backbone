@@ -1,5 +1,4 @@
-Physcia kansuensis H. Magn. SPECIES
-=======
+# Physcia kansuensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

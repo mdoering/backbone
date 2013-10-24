@@ -1,8 +1,7 @@
-Peronospora simoniani Osipian SPECIES
-=======
+# Peronospora simonianii Osipian SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peronospora simoniani Osipian
+Peronospora simonianii Osipian
 
 ### Remarks
 null

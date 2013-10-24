@@ -1,5 +1,4 @@
-Capronia commonsii (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Capronia commonsii (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

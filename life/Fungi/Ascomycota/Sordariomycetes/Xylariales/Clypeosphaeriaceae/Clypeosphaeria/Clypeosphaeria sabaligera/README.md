@@ -1,5 +1,4 @@
-Clypeosphaeria sabaligera (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Clypeosphaeria sabaligera (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

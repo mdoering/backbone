@@ -1,5 +1,4 @@
-Camarosporium paliuri Berl. SPECIES
-=======
+# Camarosporium paliuri Berl. SPECIES
 
 #### Status
 ACCEPTED

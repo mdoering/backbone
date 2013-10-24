@@ -1,5 +1,4 @@
-Stichosiphon regularis Geitler SPECIES
-=======
+# Stichosiphon regularis Geitler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula azurea Bres., 1881 SPECIES
-=======
+# Russula azurea Bres., 1881 SPECIES
 
 #### Status
 ACCEPTED

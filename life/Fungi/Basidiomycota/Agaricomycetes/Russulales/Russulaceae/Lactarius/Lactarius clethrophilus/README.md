@@ -1,5 +1,4 @@
-Lactarius clethrophilus Romagn. SPECIES
-=======
+# Lactarius clethrophilus Romagn. SPECIES
 
 #### Status
 ACCEPTED

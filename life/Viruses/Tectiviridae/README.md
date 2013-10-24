@@ -1,5 +1,4 @@
-Tectiviridae FAMILY
-=======
+# Tectiviridae FAMILY
 
 #### Status
 ACCEPTED

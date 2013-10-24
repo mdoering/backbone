@@ -1,5 +1,4 @@
-Sticta lechleri Flot. SPECIES
-=======
+# Sticta lechleri Flot. SPECIES
 
 #### Status
 ACCEPTED

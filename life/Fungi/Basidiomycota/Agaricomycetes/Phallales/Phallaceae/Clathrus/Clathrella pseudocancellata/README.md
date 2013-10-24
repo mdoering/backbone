@@ -1,5 +1,4 @@
-Clathrella pseudocancellata E. Fisch. SPECIES
-=======
+# Clathrella pseudocancellata E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

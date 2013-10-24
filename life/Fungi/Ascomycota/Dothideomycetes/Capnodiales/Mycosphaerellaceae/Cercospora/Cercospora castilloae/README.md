@@ -1,5 +1,4 @@
-Cercospora castilloae Sawada SPECIES
-=======
+# Cercospora castilloae Sawada SPECIES
 
 #### Status
 ACCEPTED

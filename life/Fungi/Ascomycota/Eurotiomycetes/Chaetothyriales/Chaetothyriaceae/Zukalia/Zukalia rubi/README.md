@@ -1,5 +1,4 @@
-Zukalia rubi Petch SPECIES
-=======
+# Zukalia rubi Petch SPECIES
 
 #### Status
 ACCEPTED

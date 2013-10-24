@@ -1,5 +1,4 @@
-Rhizochloris mirabilis Pascher SPECIES
-=======
+# Rhizochloris mirabilis Pascher SPECIES
 
 #### Status
 ACCEPTED

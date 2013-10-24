@@ -1,5 +1,4 @@
-Cercospora gayophyti Ellis & Everh. SPECIES
-=======
+# Cercospora gayophyti Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

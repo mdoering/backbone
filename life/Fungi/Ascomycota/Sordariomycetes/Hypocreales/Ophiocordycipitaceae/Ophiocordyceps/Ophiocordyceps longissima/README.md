@@ -1,5 +1,4 @@
-Ophiocordyceps longissima (Kobayasi) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps longissima (Kobayasi) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED

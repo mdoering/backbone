@@ -1,5 +1,4 @@
-Hypoxylonites armentroutii Elsik SPECIES
-=======
+# Hypoxylonites armentroutii Elsik SPECIES
 
 #### Status
 ACCEPTED

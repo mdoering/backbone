@@ -1,5 +1,4 @@
-Trichopeltula GENUS
-=======
+# Trichopeltula GENUS
 
 #### Status
 ACCEPTED

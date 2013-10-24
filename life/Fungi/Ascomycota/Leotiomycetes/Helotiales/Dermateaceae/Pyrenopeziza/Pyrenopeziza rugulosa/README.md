@@ -1,5 +1,4 @@
-Pyrenopeziza rugulosa Fuckel SPECIES
-=======
+# Pyrenopeziza rugulosa Fuckel SPECIES
 
 #### Status
 ACCEPTED

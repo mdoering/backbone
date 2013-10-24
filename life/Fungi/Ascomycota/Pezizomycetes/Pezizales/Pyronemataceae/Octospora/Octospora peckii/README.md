@@ -1,5 +1,4 @@
-Octospora peckii (House) K.B. Khare & V.P. Tewari SPECIES
-=======
+# Octospora peckii (House) K.B. Khare & V.P. Tewari SPECIES
 
 #### Status
 ACCEPTED

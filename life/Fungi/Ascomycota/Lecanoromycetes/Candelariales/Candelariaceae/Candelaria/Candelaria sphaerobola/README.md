@@ -1,5 +1,4 @@
-Candelaria sphaerobola Poelt & Reddi SPECIES
-=======
+# Candelaria sphaerobola Poelt & Reddi SPECIES
 
 #### Status
 ACCEPTED

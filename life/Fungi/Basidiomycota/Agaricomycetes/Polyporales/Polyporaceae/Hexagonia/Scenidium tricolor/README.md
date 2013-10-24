@@ -1,5 +1,4 @@
-Scenidium tricolor (Fr.) Kuntze SPECIES
-=======
+# Scenidium tricolor (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

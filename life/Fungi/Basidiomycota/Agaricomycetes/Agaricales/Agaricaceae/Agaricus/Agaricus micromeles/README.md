@@ -1,5 +1,4 @@
-Agaricus micromeles Berk. & Broome SPECIES
-=======
+# Agaricus micromeles Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

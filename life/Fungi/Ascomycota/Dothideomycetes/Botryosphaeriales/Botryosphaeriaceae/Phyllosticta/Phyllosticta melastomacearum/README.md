@@ -1,5 +1,4 @@
-Phyllosticta melastomacearum Speg. SPECIES
-=======
+# Phyllosticta melastomacearum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria antoniae Kremp. SPECIES
-=======
+# Verrucaria antoniae Kremp. SPECIES
 
 #### Status
 ACCEPTED

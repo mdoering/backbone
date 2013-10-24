@@ -1,5 +1,4 @@
-Staurothele sessilis H. Magn. SPECIES
-=======
+# Staurothele sessilis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

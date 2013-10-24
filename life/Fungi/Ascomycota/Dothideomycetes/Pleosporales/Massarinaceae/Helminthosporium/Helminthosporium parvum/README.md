@@ -1,5 +1,4 @@
-Helminthosporium parvum R.F. Castañeda & W.B. Kendr., 1991 SPECIES
-=======
+# Helminthosporium parvum R.F. Castañeda & W.B. Kendr., 1991 SPECIES
 
 #### Status
 ACCEPTED

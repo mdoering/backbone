@@ -1,5 +1,4 @@
-Cortinarius pseudobovinus M.M. Moser & Ammirati SPECIES
-=======
+# Cortinarius pseudobovinus M.M. Moser & Ammirati SPECIES
 
 #### Status
 ACCEPTED

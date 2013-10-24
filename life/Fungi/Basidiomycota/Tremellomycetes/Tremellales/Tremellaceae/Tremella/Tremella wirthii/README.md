@@ -1,5 +1,4 @@
-Tremella wirthii Diederich SPECIES
-=======
+# Tremella wirthii Diederich SPECIES
 
 #### Status
 ACCEPTED

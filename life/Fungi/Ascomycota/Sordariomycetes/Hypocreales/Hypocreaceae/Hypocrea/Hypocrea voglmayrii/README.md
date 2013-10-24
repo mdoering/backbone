@@ -1,5 +1,4 @@
-Hypocrea voglmayrii Jaklitsch SPECIES
-=======
+# Hypocrea voglmayrii Jaklitsch SPECIES
 
 #### Status
 ACCEPTED

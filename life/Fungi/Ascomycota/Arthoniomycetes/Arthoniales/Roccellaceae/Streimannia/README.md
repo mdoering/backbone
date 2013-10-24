@@ -1,5 +1,4 @@
-Streimannia G. Thor, 1990 GENUS
-=======
+# Streimannia G. Thor, 1990 GENUS
 
 #### Status
 ACCEPTED

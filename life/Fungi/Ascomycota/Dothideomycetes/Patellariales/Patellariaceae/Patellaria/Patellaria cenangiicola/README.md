@@ -1,5 +1,4 @@
-Patellaria cenangiicola Ellis & Everh. SPECIES
-=======
+# Patellaria cenangiicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

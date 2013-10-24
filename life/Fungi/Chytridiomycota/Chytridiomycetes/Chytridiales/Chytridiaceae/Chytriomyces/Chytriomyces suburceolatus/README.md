@@ -1,14 +1,13 @@
-Chytridium suburceolatum Willoughby, 1956 SPECIES
-=======
+# Chytriomyces suburceolatus (Willoughby) Willoughby, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 39: 132 (1956)
+Nova Hedwigia 7(1-2): 134 (1964)
 
 #### Original name
 Chytridium suburceolatum Willoughby, 1956

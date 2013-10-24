@@ -1,5 +1,4 @@
-Echidnodella vateriae Hosag. & Kamar. SPECIES
-=======
+# Echidnodella vateriae Hosag. & Kamar. SPECIES
 
 #### Status
 ACCEPTED

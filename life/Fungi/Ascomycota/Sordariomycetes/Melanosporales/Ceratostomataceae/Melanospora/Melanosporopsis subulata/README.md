@@ -1,5 +1,4 @@
-Melanosporopsis subulata Naumov SPECIES
-=======
+# Melanosporopsis subulata Naumov SPECIES
 
 #### Status
 ACCEPTED

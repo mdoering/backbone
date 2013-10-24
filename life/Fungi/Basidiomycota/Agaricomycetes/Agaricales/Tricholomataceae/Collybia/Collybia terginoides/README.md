@@ -1,5 +1,4 @@
-Collybia terginoides Svrcek & Kubicka SPECIES
-=======
+# Collybia terginoides Svrcek & Kubicka SPECIES
 
 #### Status
 ACCEPTED

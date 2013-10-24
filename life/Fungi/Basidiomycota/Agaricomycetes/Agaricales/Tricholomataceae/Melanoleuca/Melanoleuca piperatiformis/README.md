@@ -1,5 +1,4 @@
-Melanoleuca piperatiformis Murrill SPECIES
-=======
+# Melanoleuca piperatiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucor dipersus var. dipersus VARIETY
-=======
+# Mucor dipersus Hagem SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mucor dipersus var. dipersus
+Mucor dipersus Hagem
 
 ### Remarks
 null

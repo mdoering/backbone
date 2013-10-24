@@ -1,5 +1,4 @@
-Asterina psychotriicola Hosag. & Archana, 2009 SPECIES
-=======
+# Asterina psychotriicola Hosag. & Archana, 2009 SPECIES
 
 #### Status
 ACCEPTED

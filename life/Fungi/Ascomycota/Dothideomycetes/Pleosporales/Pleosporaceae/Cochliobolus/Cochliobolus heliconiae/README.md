@@ -1,5 +1,4 @@
-Cochliobolus heliconiae Alcorn SPECIES
-=======
+# Cochliobolus heliconiae Alcorn SPECIES
 
 #### Status
 ACCEPTED

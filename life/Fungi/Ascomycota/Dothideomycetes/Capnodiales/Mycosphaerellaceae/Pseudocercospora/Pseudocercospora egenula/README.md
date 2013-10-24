@@ -1,14 +1,13 @@
-Cercospora egenula (Syd.) Chupp & Doidge, 1948 SPECIES
-=======
+# Pseudocercospora egenula (Syd.) U. Braun & Crous, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bothalia 4: 885 (1948)
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 171 (2003)
 
 #### Original name
 Cercoseptoria egenula Syd., 1935

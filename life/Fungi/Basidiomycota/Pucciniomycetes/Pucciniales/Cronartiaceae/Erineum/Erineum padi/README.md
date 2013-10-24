@@ -1,5 +1,4 @@
-Erineum padi Alb. & Schwein. SPECIES
-=======
+# Erineum padi Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

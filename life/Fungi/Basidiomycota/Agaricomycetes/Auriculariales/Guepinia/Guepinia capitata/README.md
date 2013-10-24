@@ -1,5 +1,4 @@
-Guepinia capitata Feltgen SPECIES
-=======
+# Guepinia capitata Feltgen SPECIES
 
 #### Status
 ACCEPTED

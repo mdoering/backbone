@@ -1,5 +1,4 @@
-Mucilago granosa Scop. SPECIES
-=======
+# Mucilago granosa Scop. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thrombium endogaeum Oxner SPECIES
-=======
+# Thrombium endogaeum Oxner SPECIES
 
 #### Status
 ACCEPTED

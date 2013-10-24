@@ -1,5 +1,4 @@
-Nectriella setulosa Penz. & Sacc. SPECIES
-=======
+# Nectriella setulosa Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

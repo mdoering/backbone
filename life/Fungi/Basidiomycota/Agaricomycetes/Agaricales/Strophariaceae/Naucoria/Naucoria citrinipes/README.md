@@ -1,5 +1,4 @@
-Naucoria citrinipes Murrill SPECIES
-=======
+# Naucoria citrinipes Murrill SPECIES
 
 #### Status
 ACCEPTED

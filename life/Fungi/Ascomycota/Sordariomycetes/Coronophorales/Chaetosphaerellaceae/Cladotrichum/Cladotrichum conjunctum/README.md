@@ -1,5 +1,4 @@
-Cladotrichum conjunctum Bonord. SPECIES
-=======
+# Cladotrichum conjunctum Bonord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Coniosporium vuillemini Oudem. SPECIES
-=======
+# Coniosporium vuilleminii Oudem. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Coniosporium vuillemini Oudem.
+Coniosporium vuilleminii Oudem.
 
 ### Remarks
 null

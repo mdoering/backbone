@@ -1,5 +1,4 @@
-Titaeella capnophila G. Arnaud ex K. Ando & Tubaki, 1985 SPECIES
-=======
+# Titaeella capnophila G. Arnaud ex K. Ando & Tubaki, 1985 SPECIES
 
 #### Status
 ACCEPTED

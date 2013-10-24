@@ -1,8 +1,7 @@
-Stereocaulon walamoënse (Nyl.) Räsänen SPECIES
-=======
+# Stereocaulon valamoënse (Nyl.) Räsänen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

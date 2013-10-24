@@ -1,5 +1,4 @@
-Trachelomonas denisii var. sphagnicola Conrad VARIETY
-=======
+# Trachelomonas denisii Deflandre SPECIES
 
 #### Status
 ACCEPTED

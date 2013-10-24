@@ -1,5 +1,4 @@
-Navicella subrugosa (Schwein.) Kuntze SPECIES
-=======
+# Navicella subrugosa (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

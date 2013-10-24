@@ -1,5 +1,4 @@
-Tetracanthellipsis Squinabol, 1903 GENUS
-=======
+# Tetracanthellipsis Squinabol, 1903 GENUS
 
 #### Status
 ACCEPTED

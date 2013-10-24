@@ -1,5 +1,4 @@
-Phyllosticta oncidii-sphacelati (Tassi) Allesch. SPECIES
-=======
+# Phyllosticta oncidii-sphacelati (Tassi) Allesch. SPECIES
 
 #### Status
 ACCEPTED

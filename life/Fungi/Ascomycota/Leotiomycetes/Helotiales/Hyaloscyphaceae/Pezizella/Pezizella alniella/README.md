@@ -1,14 +1,13 @@
-Helotium alniellum (Nyl.) P. Karst., 1871 SPECIES
-=======
+# Pezizella alniella (Nyl.) Dennis, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycoth. fenn. (Helsinki) 1: 239 (1870)
+Mycol. Pap. 62: 56 (1956)
 
 #### Original name
 null

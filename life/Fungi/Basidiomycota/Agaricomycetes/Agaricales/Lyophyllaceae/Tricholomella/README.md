@@ -1,5 +1,4 @@
-Tricholomella GENUS
-=======
+# Tricholomella GENUS
 
 #### Status
 ACCEPTED

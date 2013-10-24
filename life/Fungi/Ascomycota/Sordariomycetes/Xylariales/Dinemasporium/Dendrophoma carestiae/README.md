@@ -1,5 +1,4 @@
-Dendrophoma carestiae Bres. SPECIES
-=======
+# Dendrophoma carestiae Bres. SPECIES
 
 #### Status
 ACCEPTED

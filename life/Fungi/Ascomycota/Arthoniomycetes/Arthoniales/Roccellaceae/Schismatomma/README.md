@@ -1,17 +1,16 @@
-Schismatommatomyces Cif. & Tomas. GENUS
-=======
+# Schismatomma Flotow & Körber ex A. Massalongo, 1852 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 46, 72 (1953)
+null
 
 #### Original name
-Schismatommatomyces Cif. & Tomas.
+null
 
 ### Remarks
 null

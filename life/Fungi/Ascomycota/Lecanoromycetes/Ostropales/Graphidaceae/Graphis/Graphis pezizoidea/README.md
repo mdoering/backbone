@@ -1,5 +1,4 @@
-Graphis pezizoidea Ach. SPECIES
-=======
+# Graphis pezizoidea Ach. SPECIES
 
 #### Status
 ACCEPTED

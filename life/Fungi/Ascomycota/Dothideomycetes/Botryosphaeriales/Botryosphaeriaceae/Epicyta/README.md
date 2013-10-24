@@ -1,5 +1,4 @@
-Epicyta GENUS
-=======
+# Epicyta GENUS
 
 #### Status
 ACCEPTED

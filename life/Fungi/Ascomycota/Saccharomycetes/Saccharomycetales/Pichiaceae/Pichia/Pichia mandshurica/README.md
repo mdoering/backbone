@@ -1,5 +1,4 @@
-Pichia mandshurica Saito SPECIES
-=======
+# Pichia mandshurica Saito SPECIES
 
 #### Status
 ACCEPTED

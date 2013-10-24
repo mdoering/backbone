@@ -1,5 +1,4 @@
-Discoaster calculosus Bukry, 1971 SPECIES
-=======
+# Discoaster calculosus Bukry, 1971 SPECIES
 
 #### Status
 ACCEPTED

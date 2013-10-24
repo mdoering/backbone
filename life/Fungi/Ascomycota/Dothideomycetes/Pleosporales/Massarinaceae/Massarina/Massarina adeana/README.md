@@ -1,5 +1,4 @@
-Massarina adeana (Petr.) E. Müll. SPECIES
-=======
+# Massarina adeana (Petr.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stentorella viridis Ghosh SPECIES
-=======
+# Stentorella viridis Ghosh SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Brachysporium harunganae Hansf. SPECIES
-=======
+# Brachysporium harunganae Hansf. SPECIES
 
 #### Status
 ACCEPTED

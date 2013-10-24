@@ -1,5 +1,4 @@
-Aulacostroma Syd. & P. Syd. GENUS
-=======
+# Aulacostroma Syd. & P. Syd. GENUS
 
 #### Status
 ACCEPTED

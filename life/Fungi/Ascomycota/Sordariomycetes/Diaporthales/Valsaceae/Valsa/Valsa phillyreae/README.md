@@ -1,5 +1,4 @@
-Valsa phillyreae Jaap SPECIES
-=======
+# Valsa phillyreae Jaap SPECIES
 
 #### Status
 ACCEPTED

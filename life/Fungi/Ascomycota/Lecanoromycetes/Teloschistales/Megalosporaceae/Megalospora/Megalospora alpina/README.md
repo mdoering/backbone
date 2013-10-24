@@ -1,5 +1,4 @@
-Megalospora alpina Arnold SPECIES
-=======
+# Megalospora alpina Arnold SPECIES
 
 #### Status
 ACCEPTED

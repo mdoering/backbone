@@ -1,5 +1,4 @@
-Helminthosporium kakamegense Siboe, P.M. Kirk & P.F. Cannon SPECIES
-=======
+# Helminthosporium kakamegense Siboe, P.M. Kirk & P.F. Cannon SPECIES
 
 #### Status
 ACCEPTED

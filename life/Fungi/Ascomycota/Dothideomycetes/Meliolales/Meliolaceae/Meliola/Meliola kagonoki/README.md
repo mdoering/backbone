@@ -1,5 +1,4 @@
-Meliola kagonoki I. Hino & Katum. SPECIES
-=======
+# Meliola kagonoki I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

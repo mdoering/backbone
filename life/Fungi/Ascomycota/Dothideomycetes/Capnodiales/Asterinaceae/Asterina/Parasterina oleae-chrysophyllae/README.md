@@ -1,5 +1,4 @@
-Parasterina oleae-chrysophyllae E. Castell. SPECIES
-=======
+# Parasterina oleae-chrysophyllae E. Castell. SPECIES
 
 #### Status
 ACCEPTED

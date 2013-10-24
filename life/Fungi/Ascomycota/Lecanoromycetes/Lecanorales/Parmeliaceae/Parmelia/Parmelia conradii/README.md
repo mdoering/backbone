@@ -1,5 +1,4 @@
-Parmelia conradii SPECIES
-=======
+# Parmelia conradii SPECIES
 
 #### Status
 ACCEPTED

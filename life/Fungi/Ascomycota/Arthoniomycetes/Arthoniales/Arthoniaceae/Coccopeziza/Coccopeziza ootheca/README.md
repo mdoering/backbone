@@ -1,5 +1,4 @@
-Coccopeziza ootheca Har. & P. Karst. SPECIES
-=======
+# Coccopeziza ootheca Har. & P. Karst. SPECIES
 
 #### Status
 ACCEPTED

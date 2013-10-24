@@ -1,5 +1,4 @@
-Uredo zorniae Berk. SPECIES
-=======
+# Uredo zorniae Berk. SPECIES
 
 #### Status
 ACCEPTED

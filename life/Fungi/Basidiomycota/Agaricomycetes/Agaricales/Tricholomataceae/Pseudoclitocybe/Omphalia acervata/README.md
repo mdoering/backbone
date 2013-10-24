@@ -1,5 +1,4 @@
-Omphalia acervata Velen. SPECIES
-=======
+# Omphalia acervata Velen. SPECIES
 
 #### Status
 ACCEPTED

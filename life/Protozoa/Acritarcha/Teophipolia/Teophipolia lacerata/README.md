@@ -1,5 +1,4 @@
-Teophipolia lacerata Kiryanov in Volkova et al., 1979 SPECIES
-=======
+# Teophipolia lacerata Kiryanov in Volkova et al., 1979 SPECIES
 
 #### Status
 ACCEPTED

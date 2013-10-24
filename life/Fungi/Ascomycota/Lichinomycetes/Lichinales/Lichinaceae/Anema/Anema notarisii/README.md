@@ -1,8 +1,7 @@
-Anema moedlingense Zahlbr. SPECIES
-=======
+# Anema notarisii (A. Massal.) Forssell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Omphalaria notarisii A. Massal.
 
 ### Remarks
 null

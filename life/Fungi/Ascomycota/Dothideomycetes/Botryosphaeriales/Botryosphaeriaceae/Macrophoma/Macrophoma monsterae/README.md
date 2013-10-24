@@ -1,5 +1,4 @@
-Macrophoma monsterae var. monsterae VARIETY
-=======
+# Macrophoma monsterae Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Macrophoma monsterae var. monsterae
+Macrophoma monsterae Sacc.
 
 ### Remarks
 null

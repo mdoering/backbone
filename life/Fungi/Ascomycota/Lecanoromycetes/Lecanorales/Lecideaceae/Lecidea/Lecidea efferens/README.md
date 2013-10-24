@@ -1,5 +1,4 @@
-Lecidea efferens Nyl. SPECIES
-=======
+# Lecidea efferens Nyl. SPECIES
 
 #### Status
 ACCEPTED

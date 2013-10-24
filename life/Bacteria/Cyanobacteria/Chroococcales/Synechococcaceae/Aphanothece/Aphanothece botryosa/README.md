@@ -1,5 +1,4 @@
-Aphanothece botryosa Obuchova SPECIES
-=======
+# Aphanothece botryosa Obuchova SPECIES
 
 #### Status
 ACCEPTED

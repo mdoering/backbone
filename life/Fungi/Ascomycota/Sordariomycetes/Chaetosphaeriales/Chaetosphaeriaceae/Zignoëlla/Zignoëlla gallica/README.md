@@ -1,5 +1,4 @@
-Zignoëlla gallica Sacc. & Flageolet SPECIES
-=======
+# Zignoëlla gallica Sacc. & Flageolet SPECIES
 
 #### Status
 ACCEPTED

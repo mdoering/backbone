@@ -1,5 +1,4 @@
-Xanthoparmelia crassilobata Hale SPECIES
-=======
+# Xanthoparmelia crassilobata Hale SPECIES
 
 #### Status
 ACCEPTED

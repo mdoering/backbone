@@ -1,5 +1,4 @@
-Aecidium elegans Berk. & M.A. Curtis SPECIES
-=======
+# Aecidium elegans Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

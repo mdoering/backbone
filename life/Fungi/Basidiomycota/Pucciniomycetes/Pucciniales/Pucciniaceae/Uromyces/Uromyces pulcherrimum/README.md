@@ -1,5 +1,4 @@
-Uromyces pulcherrimum Berk. & M.A. Curtis SPECIES
-=======
+# Uromyces pulcherrimum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

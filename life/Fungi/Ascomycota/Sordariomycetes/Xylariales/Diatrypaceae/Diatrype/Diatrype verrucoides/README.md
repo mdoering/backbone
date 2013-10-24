@@ -1,5 +1,4 @@
-Diatrype verrucoides Peck SPECIES
-=======
+# Diatrype verrucoides Peck SPECIES
 
 #### Status
 ACCEPTED

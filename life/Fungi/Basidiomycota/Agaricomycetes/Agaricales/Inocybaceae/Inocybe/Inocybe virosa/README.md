@@ -1,5 +1,4 @@
-Inocybe virosa K.B. Vrinda, C.K. Pradeep, A.V. Joseph & T.K. Abraham SPECIES
-=======
+# Inocybe virosa K.B. Vrinda, C.K. Pradeep, A.V. Joseph & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

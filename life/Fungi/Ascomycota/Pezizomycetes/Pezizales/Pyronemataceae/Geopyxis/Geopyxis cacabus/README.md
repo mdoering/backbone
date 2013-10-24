@@ -1,5 +1,4 @@
-Geopyxis cacabus (Fr.) Sacc. SPECIES
-=======
+# Geopyxis cacabus (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

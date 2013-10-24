@@ -1,5 +1,4 @@
-Gloeosporium araucariae Massee SPECIES
-=======
+# Gloeosporium araucariae Massee SPECIES
 
 #### Status
 ACCEPTED

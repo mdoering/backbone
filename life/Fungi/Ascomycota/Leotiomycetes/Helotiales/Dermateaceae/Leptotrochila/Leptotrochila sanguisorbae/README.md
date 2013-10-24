@@ -1,14 +1,13 @@
-Fabraea sanguisorbae Jaap, 1911 SPECIES
-=======
+# Leptotrochila sanguisorbae (Jaap) Schüepp, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytopath. Z. 36: 261 (1959)
 
 #### Original name
 Fabraea sanguisorbae Jaap, 1911

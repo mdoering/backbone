@@ -1,5 +1,4 @@
-Mycosphaerella saussureae-alpinae Petr. SPECIES
-=======
+# Mycosphaerella saussureae-alpinae Petr. SPECIES
 
 #### Status
 ACCEPTED

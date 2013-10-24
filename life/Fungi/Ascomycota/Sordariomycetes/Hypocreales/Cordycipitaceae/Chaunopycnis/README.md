@@ -1,5 +1,4 @@
-Chaunopycnis W. Gams, 1979 GENUS
-=======
+# Chaunopycnis W. Gams, 1979 GENUS
 
 #### Status
 ACCEPTED

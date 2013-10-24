@@ -1,5 +1,4 @@
-Pleosphaerulina sphaerelloides (Speg.) Sacc. SPECIES
-=======
+# Pleosphaerulina sphaerelloides (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

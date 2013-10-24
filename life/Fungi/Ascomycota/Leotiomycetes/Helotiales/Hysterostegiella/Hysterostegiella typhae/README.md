@@ -1,5 +1,4 @@
-Hysterostegiella typhae Syd. SPECIES
-=======
+# Hysterostegiella typhae Syd. SPECIES
 
 #### Status
 ACCEPTED

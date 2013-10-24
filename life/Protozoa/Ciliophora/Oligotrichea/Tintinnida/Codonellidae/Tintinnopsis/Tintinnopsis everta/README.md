@@ -1,5 +1,4 @@
-Tintinnopsis everta Kofoid & Campbell, 1929 SPECIES
-=======
+# Tintinnopsis everta Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

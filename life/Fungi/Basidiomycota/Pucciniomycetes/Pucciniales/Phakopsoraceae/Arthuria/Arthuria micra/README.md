@@ -1,5 +1,4 @@
-Arthuria micra Buriticá & J.F. Hennen, 1998 SPECIES
-=======
+# Arthuria micra Buriticá & J.F. Hennen, 1998 SPECIES
 
 #### Status
 ACCEPTED

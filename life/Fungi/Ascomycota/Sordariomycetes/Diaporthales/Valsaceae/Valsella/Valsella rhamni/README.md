@@ -1,5 +1,4 @@
-Valsella rhamni Allesch. SPECIES
-=======
+# Valsella rhamni Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora findens Ellis & Everh. SPECIES
-=======
+# Pleospora findens Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

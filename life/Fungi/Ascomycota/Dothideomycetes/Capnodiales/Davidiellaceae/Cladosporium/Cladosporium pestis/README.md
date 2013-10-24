@@ -1,5 +1,4 @@
-Cladosporium pestis Thüm. SPECIES
-=======
+# Cladosporium pestis Thüm. SPECIES
 
 #### Status
 ACCEPTED

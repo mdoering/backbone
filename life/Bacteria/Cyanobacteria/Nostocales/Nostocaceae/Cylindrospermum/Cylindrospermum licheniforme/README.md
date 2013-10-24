@@ -1,5 +1,4 @@
-Cylindrospermum licheniforme (Bory) Kützing ex Bornet & Flahault SPECIES
-=======
+# Cylindrospermum licheniforme (Bory) Kützing ex Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Deferribacteres Garrity & Holt, 2002 PHYLUM
-=======
+# Deferribacteres Garrity & Holt, 2002 PHYLUM
 
 #### Status
 ACCEPTED

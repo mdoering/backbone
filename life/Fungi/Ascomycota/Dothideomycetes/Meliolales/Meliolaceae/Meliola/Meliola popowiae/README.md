@@ -1,5 +1,4 @@
-Meliola popowiae Doidge SPECIES
-=======
+# Meliola popowiae Doidge SPECIES
 
 #### Status
 ACCEPTED

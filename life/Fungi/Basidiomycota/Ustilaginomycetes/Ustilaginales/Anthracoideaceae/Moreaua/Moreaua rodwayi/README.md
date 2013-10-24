@@ -1,14 +1,13 @@
-Thecaphora rodwayi (McAlpine) Thirum. & Neerg., 1978 SPECIES
-=======
+# Moreaua rodwayi (McAlpine) Vánky, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Friesia 11(3): 188 (1978)
+Mycotaxon 74(2): 353 (2000)
 
 #### Original name
 Tolyposporium rodwayi McAlpine, 1906

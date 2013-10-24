@@ -1,5 +1,4 @@
-Tricladium splendens Ingold, 1942 SPECIES
-=======
+# Tricladium splendens Ingold, 1942 SPECIES
 
 #### Status
 ACCEPTED

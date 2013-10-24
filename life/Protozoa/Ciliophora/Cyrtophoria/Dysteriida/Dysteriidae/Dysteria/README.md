@@ -1,5 +1,4 @@
-Dysteria Huxley, 1857 GENUS
-=======
+# Dysteria Huxley, 1857 GENUS
 
 #### Status
 ACCEPTED

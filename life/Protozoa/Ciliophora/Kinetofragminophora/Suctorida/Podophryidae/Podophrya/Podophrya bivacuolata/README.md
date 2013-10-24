@@ -1,5 +1,4 @@
-Podophrya bivacuolata Foissner, 2004 SPECIES
-=======
+# Podophrya bivacuolata Foissner, 2004 SPECIES
 
 #### Status
 ACCEPTED

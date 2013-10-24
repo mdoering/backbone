@@ -1,5 +1,4 @@
-Ectostroma epilobii Kirchn. SPECIES
-=======
+# Ectostroma epilobii Kirchn. SPECIES
 
 #### Status
 ACCEPTED

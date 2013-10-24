@@ -1,5 +1,4 @@
-Asteromella ungerniae (Vasyag.) Vanev & Aa SPECIES
-=======
+# Asteromella ungerniae (Vasyag.) Vanev & Aa SPECIES
 
 #### Status
 ACCEPTED

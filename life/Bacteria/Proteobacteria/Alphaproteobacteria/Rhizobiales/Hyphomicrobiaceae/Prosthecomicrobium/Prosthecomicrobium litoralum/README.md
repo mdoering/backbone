@@ -1,5 +1,4 @@
-Prosthecomicrobium litoralum Bauld et al., 1983 SPECIES
-=======
+# Prosthecomicrobium litoralum Bauld et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Karschia deformata (Peck) Peck SPECIES
-=======
+# Karschia deformata (Peck) Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora piricola (Sawada) J.M. Yen SPECIES
-=======
+# Pseudocercospora piricola (Sawada) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium allescheri Bres. SPECIES
-=======
+# Gloeosporium allescheri Bres. SPECIES
 
 #### Status
 ACCEPTED

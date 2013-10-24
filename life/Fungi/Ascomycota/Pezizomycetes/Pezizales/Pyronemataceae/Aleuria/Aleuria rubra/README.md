@@ -1,5 +1,4 @@
-Aleuria rubra L.R. Batra SPECIES
-=======
+# Aleuria rubra L.R. Batra SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exidia rubra E. Bommer & M. Rousseau SPECIES
-=======
+# Exidia rubra E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

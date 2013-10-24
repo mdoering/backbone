@@ -1,5 +1,4 @@
-Trifarina jamaicensis (Cushman & Todd, 1945) SPECIES
-=======
+# Trifarina jamaicensis (Cushman & Todd, 1945) SPECIES
 
 #### Status
 ACCEPTED

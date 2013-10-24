@@ -1,5 +1,4 @@
-Belonidium subnivale Rehm SPECIES
-=======
+# Belonidium subnivale Rehm SPECIES
 
 #### Status
 ACCEPTED

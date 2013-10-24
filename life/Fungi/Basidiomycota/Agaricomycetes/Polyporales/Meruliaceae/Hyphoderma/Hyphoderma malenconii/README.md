@@ -1,5 +1,4 @@
-Hyphoderma malenconii (Manjón & G. Moreno) Manjón, G. Moreno & Hjortstam, 1988 SPECIES
-=======
+# Hyphoderma malenconii (Manjón & G. Moreno) Manjón, G. Moreno & Hjortstam, 1988 SPECIES
 
 #### Status
 ACCEPTED

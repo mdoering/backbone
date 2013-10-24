@@ -1,17 +1,16 @@
-Chrysomyxa dieteli Syd. & P. Syd. SPECIES
-=======
+# Chrysomyxa dietelii Syd. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 5: 502 (1907)
 
 #### Original name
-Chrysomyxa dieteli Syd. & P. Syd.
+Chrysomyxa dietelii Syd. & P. Syd.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Schistophoron indicum Kr. P. Singh & Swarnalatha SPECIES
-=======
+# Schistophoron indicum Kr. P. Singh & Swarnalatha SPECIES
 
 #### Status
 ACCEPTED

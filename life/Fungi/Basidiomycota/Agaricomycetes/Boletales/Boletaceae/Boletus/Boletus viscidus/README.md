@@ -1,11 +1,10 @@
-Boletus viscidus f. viscidus FORM
-=======
+# Boletus viscidus SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
 null

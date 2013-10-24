@@ -1,5 +1,4 @@
-Vibrio ponticus Macián et al., 2005 SPECIES
-=======
+# Vibrio ponticus Macián et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

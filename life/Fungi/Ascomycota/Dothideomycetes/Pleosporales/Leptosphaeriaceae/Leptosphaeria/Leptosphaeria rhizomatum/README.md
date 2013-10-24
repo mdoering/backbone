@@ -1,5 +1,4 @@
-Leptosphaeria rhizomatum Pass. SPECIES
-=======
+# Leptosphaeria rhizomatum Pass. SPECIES
 
 #### Status
 ACCEPTED

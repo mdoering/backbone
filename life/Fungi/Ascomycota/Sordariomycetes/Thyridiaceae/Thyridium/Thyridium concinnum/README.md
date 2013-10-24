@@ -1,5 +1,4 @@
-Thyridium concinnum Petr. SPECIES
-=======
+# Thyridium concinnum Petr. SPECIES
 
 #### Status
 ACCEPTED

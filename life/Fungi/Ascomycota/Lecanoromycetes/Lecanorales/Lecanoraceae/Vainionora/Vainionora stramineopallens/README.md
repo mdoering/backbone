@@ -1,14 +1,13 @@
-Lecanora stramineopallens Vain. SPECIES
-=======
+# Vainionora stramineopallens (Vain.) Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Soc. Fauna Flora fenn. 7: 88 (1890)
+Lichenes Neotropici (Neumarkt), Fascicle <b>12</b> (nos 476-525) 3 (1991)
 
 #### Original name
 Lecanora stramineopallens Vain.

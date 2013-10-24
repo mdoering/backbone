@@ -1,5 +1,4 @@
-Puccinia cruchetiana Mayor SPECIES
-=======
+# Puccinia cruchetiana Mayor SPECIES
 
 #### Status
 ACCEPTED

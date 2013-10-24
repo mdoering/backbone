@@ -1,8 +1,7 @@
-Schizothrix coriacea var. endolithica Ercegovic VARIETY
-=======
+# Schizothrix perforans (Ercegovic) Geitler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

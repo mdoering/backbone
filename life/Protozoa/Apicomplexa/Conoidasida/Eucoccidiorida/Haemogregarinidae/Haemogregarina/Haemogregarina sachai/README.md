@@ -1,5 +1,4 @@
-Haemogregarina sachai Kirmse, 1978 SPECIES
-=======
+# Haemogregarina sachai Kirmse, 1978 SPECIES
 
 #### Status
 ACCEPTED

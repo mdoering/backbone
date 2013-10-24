@@ -1,5 +1,4 @@
-Mahella Bonilla Salinas et al., 2004 GENUS
-=======
+# Mahella Bonilla Salinas et al., 2004 GENUS
 
 #### Status
 ACCEPTED

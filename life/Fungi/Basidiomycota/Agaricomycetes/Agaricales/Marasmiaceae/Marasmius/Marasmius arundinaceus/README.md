@@ -1,5 +1,4 @@
-Marasmius arundinaceus Velen. SPECIES
-=======
+# Marasmius arundinaceus Velen. SPECIES
 
 #### Status
 ACCEPTED

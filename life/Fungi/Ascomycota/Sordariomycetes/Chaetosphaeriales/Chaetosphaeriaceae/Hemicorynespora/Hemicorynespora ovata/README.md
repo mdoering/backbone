@@ -1,5 +1,4 @@
-Hemicorynespora ovata Subram. SPECIES
-=======
+# Hemicorynespora ovata Subram. SPECIES
 
 #### Status
 ACCEPTED

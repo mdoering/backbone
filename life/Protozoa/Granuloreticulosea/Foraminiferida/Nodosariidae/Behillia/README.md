@@ -1,5 +1,4 @@
-Behillia Haman, 1979 GENUS
-=======
+# Behillia Haman, 1979 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporidiella cercidis H.C. Greene SPECIES
-=======
+# Gloeosporidiella cercidis H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

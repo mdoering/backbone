@@ -1,5 +1,4 @@
-Panellus pyruliferus Corner SPECIES
-=======
+# Panellus pyruliferus Corner SPECIES
 
 #### Status
 ACCEPTED

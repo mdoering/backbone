@@ -1,5 +1,4 @@
-Meliola echitis Hansf. SPECIES
-=======
+# Meliola echitis Hansf. SPECIES
 
 #### Status
 ACCEPTED

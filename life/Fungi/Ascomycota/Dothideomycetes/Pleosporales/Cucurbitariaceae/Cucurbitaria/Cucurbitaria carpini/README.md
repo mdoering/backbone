@@ -1,5 +1,4 @@
-Cucurbitaria carpini Sacc. SPECIES
-=======
+# Cucurbitaria carpini Sacc. SPECIES
 
 #### Status
 ACCEPTED

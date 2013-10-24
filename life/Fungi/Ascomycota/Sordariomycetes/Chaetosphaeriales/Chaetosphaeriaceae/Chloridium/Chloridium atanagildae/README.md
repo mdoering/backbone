@@ -1,5 +1,4 @@
-Chloridium atanagildae Hol.-Jech. SPECIES
-=======
+# Chloridium atanagildae Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

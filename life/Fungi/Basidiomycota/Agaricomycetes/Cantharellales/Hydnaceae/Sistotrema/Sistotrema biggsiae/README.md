@@ -1,5 +1,4 @@
-Sistotrema biggsiae Hallenb., 1984 SPECIES
-=======
+# Sistotrema biggsiae Hallenb., 1984 SPECIES
 
 #### Status
 ACCEPTED

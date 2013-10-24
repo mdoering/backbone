@@ -1,5 +1,4 @@
-Lecanora aggresta Hue SPECIES
-=======
+# Lecanora aggresta Hue SPECIES
 
 #### Status
 ACCEPTED

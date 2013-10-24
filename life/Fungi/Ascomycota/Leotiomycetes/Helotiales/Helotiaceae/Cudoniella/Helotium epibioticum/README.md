@@ -1,5 +1,4 @@
-Helotium epibioticum (Singer) Redhead SPECIES
-=======
+# Helotium epibioticum (Singer) Redhead SPECIES
 
 #### Status
 ACCEPTED

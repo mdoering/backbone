@@ -1,5 +1,4 @@
-Chaetomium libertiae Roum. & Pat. SPECIES
-=======
+# Chaetomium libertiae Roum. & Pat. SPECIES
 
 #### Status
 ACCEPTED

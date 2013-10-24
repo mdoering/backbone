@@ -1,5 +1,4 @@
-Niptera pallescens Fuckel SPECIES
-=======
+# Niptera pallescens Fuckel SPECIES
 
 #### Status
 ACCEPTED

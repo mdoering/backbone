@@ -1,5 +1,4 @@
-Parmelia melanimom SPECIES
-=======
+# Parmelia melanimom SPECIES
 
 #### Status
 ACCEPTED

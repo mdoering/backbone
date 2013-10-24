@@ -1,5 +1,4 @@
-Torula modica F.C. Harrison SPECIES
-=======
+# Torula modica F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

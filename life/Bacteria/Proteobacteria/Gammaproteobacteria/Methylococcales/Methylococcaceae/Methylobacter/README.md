@@ -1,5 +1,4 @@
-Methylobacter Bowman et al., 1993 GENUS
-=======
+# Methylobacter Bowman et al., 1993 GENUS
 
 #### Status
 ACCEPTED

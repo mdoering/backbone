@@ -1,5 +1,4 @@
-Clitocybe lactariiformis Murrill SPECIES
-=======
+# Clitocybe lactariiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

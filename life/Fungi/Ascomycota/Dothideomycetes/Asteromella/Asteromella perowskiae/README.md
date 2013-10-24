@@ -1,5 +1,4 @@
-Asteromella perowskiae (Zaprom.) Vanev & Aa SPECIES
-=======
+# Asteromella perowskiae (Zaprom.) Vanev & Aa SPECIES
 
 #### Status
 ACCEPTED

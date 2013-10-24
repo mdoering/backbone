@@ -1,5 +1,4 @@
-Enterococcus seriolicida Kusuda et al., 1991 SPECIES
-=======
+# Enterococcus seriolicida Kusuda et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

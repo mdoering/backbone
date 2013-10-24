@@ -1,5 +1,4 @@
-Pleurosticta Petrak, 1931 GENUS
-=======
+# Pleurosticta Petrak, 1931 GENUS
 
 #### Status
 ACCEPTED

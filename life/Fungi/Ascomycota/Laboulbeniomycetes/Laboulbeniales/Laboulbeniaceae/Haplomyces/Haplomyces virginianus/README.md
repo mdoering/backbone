@@ -1,5 +1,4 @@
-Haplomyces virginianus Thaxt., 1893 SPECIES
-=======
+# Haplomyces virginianus Thaxt., 1893 SPECIES
 
 #### Status
 ACCEPTED

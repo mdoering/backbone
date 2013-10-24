@@ -1,5 +1,4 @@
-Naucoria jalapensis Murrill SPECIES
-=======
+# Naucoria jalapensis Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Capnofrasera dendryphioides S. Hughes, 2003 SPECIES
-=======
+# Capnofrasera dendryphioides S. Hughes, 2003 SPECIES
 
 #### Status
 ACCEPTED

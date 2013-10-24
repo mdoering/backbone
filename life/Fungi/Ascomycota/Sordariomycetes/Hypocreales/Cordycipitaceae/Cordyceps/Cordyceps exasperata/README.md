@@ -1,5 +1,4 @@
-Cordyceps exasperata A.F. Vital SPECIES
-=======
+# Cordyceps exasperata A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

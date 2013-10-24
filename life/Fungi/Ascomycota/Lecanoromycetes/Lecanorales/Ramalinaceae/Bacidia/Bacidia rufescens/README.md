@@ -1,5 +1,4 @@
-Bacidia rufescens (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia rufescens (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

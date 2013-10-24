@@ -1,5 +1,4 @@
-Peronoplasmopara elatostematis Togashi & Onuma SPECIES
-=======
+# Peronoplasmopara elatostematis Togashi & Onuma SPECIES
 
 #### Status
 ACCEPTED

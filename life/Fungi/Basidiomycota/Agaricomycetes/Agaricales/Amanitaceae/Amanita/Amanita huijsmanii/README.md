@@ -1,17 +1,16 @@
-Amanita huijsmani F. Massart & Rouzeau SPECIES
-=======
+# Amanita huijsmanii F. Massart & Rouzeau SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. linn. Bordeaux 17(3): 159 (1990)
 
 #### Original name
-Amanita huijsmani F. Massart & Rouzeau
+Amanita huijsmanii F. Massart & Rouzeau
 
 ### Remarks
 null

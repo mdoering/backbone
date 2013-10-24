@@ -1,8 +1,7 @@
-Diaporthe kellermanniana G. Winter SPECIES
-=======
+# Diaporthe kellermaniana G. Winter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Diaporthe kellermanniana G. Winter
+Diaporthe kellermaniana G. Winter
 
 ### Remarks
 null

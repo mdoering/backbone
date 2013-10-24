@@ -1,5 +1,4 @@
-Coccomyces strobilicola Spooner, 1987 SPECIES
-=======
+# Coccomyces strobilicola Spooner, 1987 SPECIES
 
 #### Status
 ACCEPTED

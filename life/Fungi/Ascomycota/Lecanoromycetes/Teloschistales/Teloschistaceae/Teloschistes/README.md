@@ -1,17 +1,16 @@
-Theloschistes Th. Fr. GENUS
-=======
+# Teloschistes Norman GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. Heterolich. Eur. 51 (1861)
+Nytt Mag. Natur. 7: 228 (1853)
 
 #### Original name
-Theloschistes Th. Fr.
+Teloschistes Norman
 
 ### Remarks
 null

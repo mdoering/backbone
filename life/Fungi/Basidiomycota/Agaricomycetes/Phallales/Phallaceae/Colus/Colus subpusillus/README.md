@@ -1,5 +1,4 @@
-Colus subpusillus Dring SPECIES
-=======
+# Colus subpusillus Dring SPECIES
 
 #### Status
 ACCEPTED

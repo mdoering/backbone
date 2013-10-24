@@ -1,5 +1,4 @@
-Thalassiosira nitzschioïdes SPECIES
-=======
+# Thalassiosira nitzschioïdes SPECIES
 
 #### Status
 ACCEPTED

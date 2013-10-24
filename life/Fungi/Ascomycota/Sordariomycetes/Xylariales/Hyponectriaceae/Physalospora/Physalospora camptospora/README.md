@@ -1,5 +1,4 @@
-Physalospora camptospora Sacc. SPECIES
-=======
+# Physalospora camptospora Sacc. SPECIES
 
 #### Status
 ACCEPTED

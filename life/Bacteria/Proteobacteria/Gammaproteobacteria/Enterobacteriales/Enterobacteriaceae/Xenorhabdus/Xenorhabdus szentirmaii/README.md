@@ -1,5 +1,4 @@
-Xenorhabdus szentirmaii Lengyel et al., 2005 SPECIES
-=======
+# Xenorhabdus szentirmaii Lengyel et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

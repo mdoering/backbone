@@ -1,5 +1,4 @@
-Phaeosphaeria huronensis Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria huronensis Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

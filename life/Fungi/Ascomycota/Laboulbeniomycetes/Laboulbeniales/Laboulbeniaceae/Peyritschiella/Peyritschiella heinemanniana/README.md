@@ -1,5 +1,4 @@
-Peyritschiella heinemanniana De Kesel SPECIES
-=======
+# Peyritschiella heinemanniana De Kesel SPECIES
 
 #### Status
 ACCEPTED

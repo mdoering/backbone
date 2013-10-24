@@ -1,5 +1,4 @@
-Pseudocercospora garryae (Harkn.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora garryae (Harkn.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

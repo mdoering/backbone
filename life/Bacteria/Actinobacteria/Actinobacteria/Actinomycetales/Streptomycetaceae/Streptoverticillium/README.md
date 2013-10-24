@@ -1,5 +1,4 @@
-Streptoverticillium E. Bald. GENUS
-=======
+# Streptoverticillium E. Bald. GENUS
 
 #### Status
 ACCEPTED

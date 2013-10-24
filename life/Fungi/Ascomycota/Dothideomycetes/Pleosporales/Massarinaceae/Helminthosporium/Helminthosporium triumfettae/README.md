@@ -1,5 +1,4 @@
-Helminthosporium triumfettae Henn. SPECIES
-=======
+# Helminthosporium triumfettae Henn. SPECIES
 
 #### Status
 ACCEPTED

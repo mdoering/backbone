@@ -1,5 +1,4 @@
-Stagonospora koelreuteriae Hollós SPECIES
-=======
+# Stagonospora koelreuteriae Hollós SPECIES
 
 #### Status
 ACCEPTED

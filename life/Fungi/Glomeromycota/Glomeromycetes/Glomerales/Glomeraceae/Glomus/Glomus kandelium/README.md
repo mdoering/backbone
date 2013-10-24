@@ -1,5 +1,4 @@
-Glomus kandelium Hu SPECIES
-=======
+# Glomus kandelium Hu SPECIES
 
 #### Status
 ACCEPTED

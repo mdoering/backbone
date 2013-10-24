@@ -1,5 +1,4 @@
-Lachnella atropurpurea (E.J. Durand) Seaver SPECIES
-=======
+# Lachnella atropurpurea (E.J. Durand) Seaver SPECIES
 
 #### Status
 ACCEPTED

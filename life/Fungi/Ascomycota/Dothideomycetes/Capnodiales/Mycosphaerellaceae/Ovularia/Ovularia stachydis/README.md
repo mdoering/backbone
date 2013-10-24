@@ -1,5 +1,4 @@
-Ovularia stachydis Bres. SPECIES
-=======
+# Ovularia stachydis Bres. SPECIES
 
 #### Status
 ACCEPTED

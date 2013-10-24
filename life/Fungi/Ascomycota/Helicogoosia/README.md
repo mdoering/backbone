@@ -1,5 +1,4 @@
-Helicogoosia Hol.-Jech. GENUS
-=======
+# Helicogoosia Hol.-Jech. GENUS
 
 #### Status
 ACCEPTED

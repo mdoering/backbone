@@ -1,5 +1,4 @@
-Pseudococcidioides mazzae Fonseca SPECIES
-=======
+# Pseudococcidioides mazzae Fonseca SPECIES
 
 #### Status
 ACCEPTED

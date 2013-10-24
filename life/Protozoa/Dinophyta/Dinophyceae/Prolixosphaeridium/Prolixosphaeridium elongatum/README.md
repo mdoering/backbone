@@ -1,5 +1,4 @@
-Prolixosphaeridium elongatum K. P. Jain SPECIES
-=======
+# Prolixosphaeridium elongatum K. P. Jain SPECIES
 
 #### Status
 ACCEPTED

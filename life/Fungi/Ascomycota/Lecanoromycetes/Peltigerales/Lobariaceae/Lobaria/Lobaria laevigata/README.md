@@ -1,5 +1,4 @@
-Lobaria laevigata (Kremp.) Hellb. SPECIES
-=======
+# Lobaria laevigata (Kremp.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

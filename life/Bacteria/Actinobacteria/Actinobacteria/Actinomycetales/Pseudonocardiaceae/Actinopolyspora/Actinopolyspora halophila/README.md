@@ -1,5 +1,4 @@
-Actinopolyspora halophila Gochnauer et al., 1975 (Approved Lists, 1980) SPECIES
-=======
+# Actinopolyspora halophila Gochnauer et al., 1975 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

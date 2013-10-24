@@ -1,5 +1,4 @@
-Sarcostroma sinicum Nag Raj SPECIES
-=======
+# Sarcostroma sinicum Nag Raj SPECIES
 
 #### Status
 ACCEPTED

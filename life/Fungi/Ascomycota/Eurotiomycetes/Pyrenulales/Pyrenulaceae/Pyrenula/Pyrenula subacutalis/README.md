@@ -1,5 +1,4 @@
-Pyrenula subacutalis Upreti SPECIES
-=======
+# Pyrenula subacutalis Upreti SPECIES
 
 #### Status
 ACCEPTED

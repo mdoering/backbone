@@ -1,5 +1,4 @@
-Hygrophorus occidentalis A.H. Sm. & Hesler SPECIES
-=======
+# Hygrophorus occidentalis A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

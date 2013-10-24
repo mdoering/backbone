@@ -1,5 +1,4 @@
-Thyridaria californica Rehm SPECIES
-=======
+# Thyridaria californica Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus hieroglyphicus Rostk. SPECIES
-=======
+# Boletus hieroglyphicus Rostk. SPECIES
 
 #### Status
 ACCEPTED

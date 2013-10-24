@@ -1,5 +1,4 @@
-Pleospora pileata (Volkart) E. Müll. & Arx SPECIES
-=======
+# Pleospora pileata (Volkart) E. Müll. & Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trematophlyctis leptodesmiae Pat., 1918 SPECIES
-=======
+# Trematophlyctis leptodesmiae Pat., 1918 SPECIES
 
 #### Status
 ACCEPTED

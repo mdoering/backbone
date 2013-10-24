@@ -1,5 +1,4 @@
-Arthonia emersa (Müll. Arg.) Willey SPECIES
-=======
+# Arthonia emersa (Müll. Arg.) Willey SPECIES
 
 #### Status
 ACCEPTED

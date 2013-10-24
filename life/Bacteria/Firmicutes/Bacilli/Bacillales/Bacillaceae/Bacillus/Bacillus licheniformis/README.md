@@ -1,5 +1,4 @@
-Bacillus licheniformis (Weigmann, 1898) Chester, 1901 (Approved Lists, 1980) SPECIES
-=======
+# Bacillus licheniformis (Weigmann, 1898) Chester, 1901 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dictyonema guadelupense (Rabenh.) Zahlbr. SPECIES
-=======
+# Dictyonema guadalupense (Rabenh.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Teil. <b>I</b> 1*: 239 (1908)
 
 #### Original name
 Dictyonema membranaceum var. guadalupense Rabenh.

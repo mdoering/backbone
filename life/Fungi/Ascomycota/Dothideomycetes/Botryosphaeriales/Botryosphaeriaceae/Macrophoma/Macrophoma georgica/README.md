@@ -1,5 +1,4 @@
-Macrophoma georgica Kechekm. SPECIES
-=======
+# Macrophoma georgica Kechekm. SPECIES
 
 #### Status
 ACCEPTED

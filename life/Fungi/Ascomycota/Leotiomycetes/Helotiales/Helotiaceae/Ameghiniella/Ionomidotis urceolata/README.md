@@ -1,5 +1,4 @@
-Ionomidotis urceolata E.J. Durand SPECIES
-=======
+# Ionomidotis urceolata E.J. Durand SPECIES
 
 #### Status
 ACCEPTED

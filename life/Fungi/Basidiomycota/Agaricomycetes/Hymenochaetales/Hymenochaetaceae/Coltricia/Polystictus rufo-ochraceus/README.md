@@ -1,5 +1,4 @@
-Polystictus rufo-ochraceus (Pat.) Sacc. SPECIES
-=======
+# Polystictus rufo-ochraceus (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

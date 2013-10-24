@@ -1,5 +1,4 @@
-Megalospora kalbii Sipman SPECIES
-=======
+# Megalospora kalbii Sipman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heronallenia Chapman & Parr, 1931 GENUS
-=======
+# Heronallenia Chapman & Parr, 1931 GENUS
 
 #### Status
 ACCEPTED

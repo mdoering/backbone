@@ -1,5 +1,4 @@
-Phoma detegens Starbäck SPECIES
-=======
+# Phoma detegens Starbäck SPECIES
 
 #### Status
 ACCEPTED

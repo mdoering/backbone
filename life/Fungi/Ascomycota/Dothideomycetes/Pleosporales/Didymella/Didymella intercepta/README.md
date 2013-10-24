@@ -1,5 +1,4 @@
-Didymella intercepta (Kalchbr. & Cooke) Sacc. SPECIES
-=======
+# Didymella intercepta (Kalchbr. & Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

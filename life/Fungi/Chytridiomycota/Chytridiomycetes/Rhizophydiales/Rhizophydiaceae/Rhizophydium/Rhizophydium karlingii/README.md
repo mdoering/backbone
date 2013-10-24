@@ -1,5 +1,4 @@
-Rhizophydium karlingii Sparrow SPECIES
-=======
+# Rhizophydium karlingii Sparrow SPECIES
 
 #### Status
 ACCEPTED

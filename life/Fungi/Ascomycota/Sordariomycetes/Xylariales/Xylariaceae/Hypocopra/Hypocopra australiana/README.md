@@ -1,5 +1,4 @@
-Hypocopra australiana Tassi SPECIES
-=======
+# Hypocopra australiana Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strongylium minor Fr. SPECIES
-=======
+# Strongylium minor Fr. SPECIES
 
 #### Status
 ACCEPTED

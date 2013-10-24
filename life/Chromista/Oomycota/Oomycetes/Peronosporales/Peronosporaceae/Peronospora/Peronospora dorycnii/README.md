@@ -1,5 +1,4 @@
-Peronospora dorycnii Uljan. SPECIES
-=======
+# Peronospora dorycnii Uljan. SPECIES
 
 #### Status
 ACCEPTED

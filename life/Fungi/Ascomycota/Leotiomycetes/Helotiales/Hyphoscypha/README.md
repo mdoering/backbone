@@ -1,5 +1,4 @@
-Hyphoscypha Velenovský, 1934 GENUS
-=======
+# Hyphoscypha Velenovský, 1934 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta kalmicola (Schwein.) Ellis & Everh. SPECIES
-=======
+# Phyllosticta kalmicola (Schwein.) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

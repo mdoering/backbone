@@ -1,5 +1,4 @@
-Xylaria bertioides Starbäck SPECIES
-=======
+# Xylaria bertioides Starbäck SPECIES
 
 #### Status
 ACCEPTED

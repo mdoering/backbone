@@ -1,5 +1,4 @@
-Synchytrium trifolii Pass. SPECIES
-=======
+# Synchytrium trifolii Pass. SPECIES
 
 #### Status
 ACCEPTED

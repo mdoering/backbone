@@ -1,14 +1,13 @@
-Parmelia metamorphosa Gyeln. SPECIES
-=======
+# Xanthoparmelia metamorphosa (Gyeln.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 36: 284 (1938)
+Phytologia 28: 488 (1974)
 
 #### Original name
 Parmelia metamorphosa Gyeln.

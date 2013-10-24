@@ -1,5 +1,4 @@
-Didymella truncata P. Karst. SPECIES
-=======
+# Didymella truncata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

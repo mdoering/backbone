@@ -1,5 +1,4 @@
-Venturia systema-solare (Fuckel) G. Winter SPECIES
-=======
+# Venturia systema-solare (Fuckel) G. Winter SPECIES
 
 #### Status
 ACCEPTED

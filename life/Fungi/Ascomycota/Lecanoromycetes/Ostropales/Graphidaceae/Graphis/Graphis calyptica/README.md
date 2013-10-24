@@ -1,5 +1,4 @@
-Graphis calyptica Kremp. SPECIES
-=======
+# Graphis calyptica Kremp. SPECIES
 
 #### Status
 ACCEPTED

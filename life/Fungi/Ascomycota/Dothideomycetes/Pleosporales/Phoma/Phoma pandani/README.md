@@ -1,5 +1,4 @@
-Phoma pandani Verona SPECIES
-=======
+# Phoma pandani Verona SPECIES
 
 #### Status
 ACCEPTED

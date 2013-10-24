@@ -1,5 +1,4 @@
-Tricholoma subfulvidiscum (Murrill) Murrill SPECIES
-=======
+# Tricholoma subfulvidiscum (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

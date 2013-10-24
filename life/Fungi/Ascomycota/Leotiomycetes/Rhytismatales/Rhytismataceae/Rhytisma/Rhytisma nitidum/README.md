@@ -1,5 +1,4 @@
-Rhytisma nitidum Lév. SPECIES
-=======
+# Rhytisma nitidum Lév. SPECIES
 
 #### Status
 ACCEPTED

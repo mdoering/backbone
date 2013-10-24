@@ -1,5 +1,4 @@
-Solentia intricata Ercegovic SPECIES
-=======
+# Solentia intricata Ercegovic SPECIES
 
 #### Status
 ACCEPTED

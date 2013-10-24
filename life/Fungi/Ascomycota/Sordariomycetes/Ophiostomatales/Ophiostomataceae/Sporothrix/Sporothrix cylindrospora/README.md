@@ -1,5 +1,4 @@
-Sporothrix cylindrospora Hol.-Jech. SPECIES
-=======
+# Sporothrix cylindrospora Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

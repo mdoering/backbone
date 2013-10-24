@@ -1,5 +1,4 @@
-Smardaea purpurea Dissing SPECIES
-=======
+# Smardaea purpurea Dissing SPECIES
 
 #### Status
 ACCEPTED

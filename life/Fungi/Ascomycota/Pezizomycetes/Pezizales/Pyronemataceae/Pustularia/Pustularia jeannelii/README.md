@@ -1,5 +1,4 @@
-Pustularia jeannelii Lagarde SPECIES
-=======
+# Pustularia jeannelii Lagarde SPECIES
 
 #### Status
 ACCEPTED

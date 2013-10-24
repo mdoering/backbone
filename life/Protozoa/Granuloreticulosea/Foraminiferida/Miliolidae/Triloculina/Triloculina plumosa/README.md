@@ -1,5 +1,4 @@
-Triloculina plumosa Saidova, 1975 SPECIES
-=======
+# Triloculina plumosa Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

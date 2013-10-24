@@ -1,5 +1,4 @@
-Marasmius rodwayi Massee SPECIES
-=======
+# Marasmius rodwayi Massee SPECIES
 
 #### Status
 ACCEPTED

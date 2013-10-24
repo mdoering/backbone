@@ -1,5 +1,4 @@
-Scleropycnium aureum Heald & C.E. Lewis SPECIES
-=======
+# Scleropycnium aureum Heald & C.E. Lewis SPECIES
 
 #### Status
 ACCEPTED

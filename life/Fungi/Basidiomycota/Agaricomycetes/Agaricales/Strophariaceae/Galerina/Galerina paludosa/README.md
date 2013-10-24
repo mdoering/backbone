@@ -1,17 +1,16 @@
-Tubaria paludosa f. paludosa FORM
-=======
+# Galerina paludosa (Fr.) Kühner, 1935 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rysslands, Finlands och den Skandinaviska Halföns. Hattsvampar 445 (1879)
+Encyclop. Mycol. 7: 184 (1935)
 
 #### Original name
-Tubaria paludosa f. paludosa
+Agaricus paludosus Fr., 1838
 
 ### Remarks
 null

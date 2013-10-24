@@ -1,5 +1,4 @@
-Peltasteropsis baphiae Bat. & H. Maia SPECIES
-=======
+# Peltasteropsis baphiae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

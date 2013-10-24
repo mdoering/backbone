@@ -1,5 +1,4 @@
-Hymenochaete yasudae Imazeki, 1940 SPECIES
-=======
+# Hymenochaete yasudae Imazeki, 1940 SPECIES
 
 #### Status
 ACCEPTED

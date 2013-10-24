@@ -1,17 +1,16 @@
-Pseudomitrula horakii var. horakii VARIETY
-=======
+# Pseudomitrula horakii Gamundí, 1980 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Sydowia 32(1-6): 87 (1980)
 
 #### Original name
-Pseudomitrula horakii var. horakii
+Pseudomitrula horakii Gamundí, 1980
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Homostegia stictarum Fuckel SPECIES
-=======
+# Homostegia stictarum Fuckel SPECIES
 
 #### Status
 ACCEPTED

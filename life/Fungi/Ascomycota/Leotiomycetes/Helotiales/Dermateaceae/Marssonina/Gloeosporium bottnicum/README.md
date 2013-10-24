@@ -1,5 +1,4 @@
-Gloeosporium bottnicum Lind & Vleugel SPECIES
-=======
+# Gloeosporium bottnicum Lind & Vleugel SPECIES
 
 #### Status
 ACCEPTED

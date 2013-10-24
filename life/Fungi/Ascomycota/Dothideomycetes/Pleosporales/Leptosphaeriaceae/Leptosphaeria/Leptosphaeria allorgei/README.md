@@ -1,5 +1,4 @@
-Leptosphaeria allorgei A.L. Guyot, 1949 SPECIES
-=======
+# Leptosphaeria allorgei A.L. Guyot, 1949 SPECIES
 
 #### Status
 ACCEPTED

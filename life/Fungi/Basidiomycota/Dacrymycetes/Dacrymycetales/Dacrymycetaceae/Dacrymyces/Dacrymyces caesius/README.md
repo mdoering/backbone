@@ -1,5 +1,4 @@
-Dacrymyces caesius Sommerf. SPECIES
-=======
+# Dacrymyces caesius Sommerf. SPECIES
 
 #### Status
 ACCEPTED

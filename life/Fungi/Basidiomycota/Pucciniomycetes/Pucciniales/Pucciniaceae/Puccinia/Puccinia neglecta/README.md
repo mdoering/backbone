@@ -1,5 +1,4 @@
-Puccinia neglecta Magnus SPECIES
-=======
+# Puccinia neglecta Magnus SPECIES
 
 #### Status
 ACCEPTED

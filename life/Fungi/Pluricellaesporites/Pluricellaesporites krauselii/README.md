@@ -1,5 +1,4 @@
-Pluricellaesporites krauselii Hammen SPECIES
-=======
+# Pluricellaesporites krauselii Hammen SPECIES
 
 #### Status
 ACCEPTED

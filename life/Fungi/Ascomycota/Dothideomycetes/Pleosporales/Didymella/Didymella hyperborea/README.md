@@ -1,5 +1,4 @@
-Didymella hyperborea (P. Karst.) Sacc. SPECIES
-=======
+# Didymella hyperborea (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

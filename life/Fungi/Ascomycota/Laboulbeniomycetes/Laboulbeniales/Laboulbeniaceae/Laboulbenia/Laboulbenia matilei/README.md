@@ -1,5 +1,4 @@
-Laboulbenia matilei Balazuc SPECIES
-=======
+# Laboulbenia matilei Balazuc SPECIES
 
 #### Status
 ACCEPTED

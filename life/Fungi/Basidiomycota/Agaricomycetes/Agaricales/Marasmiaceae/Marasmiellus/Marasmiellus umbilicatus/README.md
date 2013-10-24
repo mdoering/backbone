@@ -1,5 +1,4 @@
-Marasmiellus umbilicatus Singer SPECIES
-=======
+# Marasmiellus umbilicatus Singer SPECIES
 
 #### Status
 ACCEPTED

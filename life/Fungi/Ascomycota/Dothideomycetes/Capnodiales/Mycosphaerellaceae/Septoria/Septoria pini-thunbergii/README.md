@@ -1,5 +1,4 @@
-Septoria pini-thunbergii S. Kaneko, 1989 SPECIES
-=======
+# Septoria pini-thunbergii S. Kaneko, 1989 SPECIES
 
 #### Status
 ACCEPTED

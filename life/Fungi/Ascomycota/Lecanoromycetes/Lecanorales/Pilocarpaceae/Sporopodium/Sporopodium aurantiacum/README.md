@@ -1,14 +1,13 @@
-Lopadium aurantiacum Müll. Arg. SPECIES
-=======
+# Sporopodium aurantiacum (Müll. Arg.) Lücking SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichenes Epiphylli Novi 15 (1890)
+Phyton, Horn 39(1): 145 (1999)
 
 #### Original name
 Lopadium aurantiacum Müll. Arg.

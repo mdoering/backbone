@@ -1,5 +1,4 @@
-Sporisorium andropogonis-chinensis Vánky SPECIES
-=======
+# Sporisorium andropogonis-chinensis Vánky SPECIES
 
 #### Status
 ACCEPTED

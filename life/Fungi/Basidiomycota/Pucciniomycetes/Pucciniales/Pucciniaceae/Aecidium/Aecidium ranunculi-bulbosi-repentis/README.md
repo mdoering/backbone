@@ -1,5 +1,4 @@
-Aecidium ranunculi-bulbosi-repentis Plowr. SPECIES
-=======
+# Aecidium ranunculi-bulbosi-repentis Plowr. SPECIES
 
 #### Status
 ACCEPTED

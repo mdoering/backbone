@@ -1,5 +1,4 @@
-Azohydromonas australica Xie & Yokota, 2005 SPECIES
-=======
+# Azohydromonas australica Xie & Yokota, 2005 SPECIES
 
 #### Status
 ACCEPTED

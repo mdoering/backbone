@@ -1,5 +1,4 @@
-Volutella ochracea (Corda) Sacc. SPECIES
-=======
+# Volutella ochracea (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

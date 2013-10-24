@@ -1,5 +1,4 @@
-Puccinia peucedani-kerstenii Gjaerum SPECIES
-=======
+# Puccinia peucedani-kerstenii Gjaerum SPECIES
 
 #### Status
 ACCEPTED

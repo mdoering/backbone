@@ -1,5 +1,4 @@
-Perisporiopsis torrendii (Bat. & Maia) Arx SPECIES
-=======
+# Perisporiopsis torrendii (Bat. & Maia) Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimerium (Saccardo & P. Sydow) Saccardo & D. Saccardo, 1905 GENUS
-=======
+# Dimerium (Saccardo & P. Sydow) Saccardo & D. Saccardo, 1905 GENUS
 
 #### Status
 ACCEPTED

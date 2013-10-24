@@ -1,5 +1,4 @@
-Uncinula pseudoehretiae R.Y. Zheng & G.Q. Chen SPECIES
-=======
+# Uncinula pseudoehretiae R.Y. Zheng & G.Q. Chen SPECIES
 
 #### Status
 ACCEPTED

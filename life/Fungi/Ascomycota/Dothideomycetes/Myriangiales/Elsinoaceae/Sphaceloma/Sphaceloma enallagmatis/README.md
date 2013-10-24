@@ -1,5 +1,4 @@
-Sphaceloma enallagmatis A.M.J. Watson & Jenkins SPECIES
-=======
+# Sphaceloma enallagmatis A.M.J. Watson & Jenkins SPECIES
 
 #### Status
 ACCEPTED

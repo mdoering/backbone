@@ -1,17 +1,16 @@
-Cercospora jacobinicola A.S. Mull. & Chupp SPECIES
-=======
+# Cercospora jacobiniicola A.S. Mull. & Chupp SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ceiba 1: 174 (1950)
 
 #### Original name
-Cercospora jacobinicola A.S. Mull. & Chupp
+Cercospora jacobiniicola A.S. Mull. & Chupp
 
 ### Remarks
 null

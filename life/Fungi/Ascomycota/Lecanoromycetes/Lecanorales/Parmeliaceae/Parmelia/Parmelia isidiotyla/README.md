@@ -1,5 +1,4 @@
-Parmelia isidiotyla f. isidiotyla FORM
-=======
+# Parmelia isidiotyla SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia isidiotyla f. isidiotyla
+null
 
 ### Remarks
 null

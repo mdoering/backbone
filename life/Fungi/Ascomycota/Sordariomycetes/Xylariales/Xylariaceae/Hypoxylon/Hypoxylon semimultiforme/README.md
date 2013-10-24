@@ -1,5 +1,4 @@
-Hypoxylon semimultiforme F. San Martín, P. Lavin & Pérez-Silva SPECIES
-=======
+# Hypoxylon semimultiforme F. San Martín, P. Lavin & Pérez-Silva SPECIES
 
 #### Status
 ACCEPTED

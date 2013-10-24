@@ -1,5 +1,4 @@
-Lachnum juncisedum J. Schröt. SPECIES
-=======
+# Lachnum juncisedum J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

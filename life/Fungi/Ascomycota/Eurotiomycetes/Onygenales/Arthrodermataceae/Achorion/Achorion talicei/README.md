@@ -1,5 +1,4 @@
-Achorion talicei Langeron & Baeza SPECIES
-=======
+# Achorion talicei Langeron & Baeza SPECIES
 
 #### Status
 ACCEPTED

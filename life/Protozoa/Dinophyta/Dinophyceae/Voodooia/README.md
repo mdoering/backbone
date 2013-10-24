@@ -1,5 +1,4 @@
-Voodooia J.B. Riding & R. Helby, 2001 GENUS
-=======
+# Voodooia J.B. Riding & R. Helby, 2001 GENUS
 
 #### Status
 ACCEPTED

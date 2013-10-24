@@ -1,17 +1,16 @@
-Heterodictyon bieniaszii Racib., 1889 SPECIES
-=======
+# Cribraria macrocarpa Schrad., 1797 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nov. gen. pl. (Lipsiae) 8 (1797)
 
 #### Original name
-null
+Cribraria macrocarpa Schrad., 1797
 
 ### Remarks
 null

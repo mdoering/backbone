@@ -1,5 +1,4 @@
-Lepiota luteola Pat. SPECIES
-=======
+# Lepiota luteola Pat. SPECIES
 
 #### Status
 ACCEPTED

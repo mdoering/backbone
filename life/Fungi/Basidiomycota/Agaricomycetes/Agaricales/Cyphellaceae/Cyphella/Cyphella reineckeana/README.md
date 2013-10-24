@@ -1,5 +1,4 @@
-Cyphella reineckeana Henn. SPECIES
-=======
+# Cyphella reineckeana Henn. SPECIES
 
 #### Status
 ACCEPTED

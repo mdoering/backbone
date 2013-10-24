@@ -1,5 +1,4 @@
-Collybia dichrous (Berk. & M.A. Curtis) Gilliam SPECIES
-=======
+# Collybia dichrous (Berk. & M.A. Curtis) Gilliam SPECIES
 
 #### Status
 ACCEPTED

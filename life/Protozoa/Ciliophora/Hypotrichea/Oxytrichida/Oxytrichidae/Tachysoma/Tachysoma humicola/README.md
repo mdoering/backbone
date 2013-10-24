@@ -1,5 +1,4 @@
-Tachysoma humicola subsp. humicola SUBSPECIES
-=======
+# Tachysoma humicola Gellert SPECIES
 
 #### Status
 ACCEPTED

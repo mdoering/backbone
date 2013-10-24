@@ -1,5 +1,4 @@
-Exobasidium novae-zelandiae McNabb, 1962 SPECIES
-=======
+# Exobasidium novae-zelandiae McNabb, 1962 SPECIES
 
 #### Status
 ACCEPTED

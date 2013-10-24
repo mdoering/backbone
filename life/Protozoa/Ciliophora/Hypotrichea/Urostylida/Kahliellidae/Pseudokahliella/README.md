@@ -1,5 +1,4 @@
-Pseudokahliella Berger, Foissner & Adam, 1985 GENUS
-=======
+# Pseudokahliella Berger, Foissner & Adam, 1985 GENUS
 
 #### Status
 ACCEPTED

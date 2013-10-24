@@ -1,5 +1,4 @@
-Agaricus caesifolius Peck SPECIES
-=======
+# Agaricus caesifolius Peck SPECIES
 
 #### Status
 ACCEPTED

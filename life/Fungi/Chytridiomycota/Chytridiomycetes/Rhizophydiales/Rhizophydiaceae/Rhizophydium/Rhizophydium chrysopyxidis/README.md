@@ -1,5 +1,4 @@
-Rhizophydium chrysopyxidis Scherff. SPECIES
-=======
+# Rhizophydium chrysopyxidis Scherff. SPECIES
 
 #### Status
 ACCEPTED

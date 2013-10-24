@@ -1,5 +1,4 @@
-Xanthoparmelia condaminensis Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia condaminensis Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

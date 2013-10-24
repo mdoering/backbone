@@ -1,5 +1,4 @@
-Trachelomonas ampullula var. major Playfair VARIETY
-=======
+# Trachelomonas ampullula Playfair SPECIES
 
 #### Status
 ACCEPTED

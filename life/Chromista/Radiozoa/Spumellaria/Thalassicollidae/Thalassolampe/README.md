@@ -1,5 +1,4 @@
-Thalassolampe Haeckel, 1862 GENUS
-=======
+# Thalassolampe Haeckel, 1862 GENUS
 
 #### Status
 ACCEPTED

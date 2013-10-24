@@ -1,5 +1,4 @@
-Ruzhentsevella Bensh & Solovieva in Bensh, 1996 GENUS
-=======
+# Ruzhentsevella Bensh & Solovieva in Bensh, 1996 GENUS
 
 #### Status
 ACCEPTED

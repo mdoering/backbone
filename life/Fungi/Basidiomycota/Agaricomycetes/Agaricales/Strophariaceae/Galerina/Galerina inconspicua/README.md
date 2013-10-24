@@ -1,5 +1,4 @@
-Galerina inconspicua var. inconspicua VARIETY
-=======
+# Galerina inconspicua Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Sydowia 8(1-6): 139 (1954)
 
 #### Original name
-Galerina inconspicua var. inconspicua
+Galerina inconspicua Singer
 
 ### Remarks
 null

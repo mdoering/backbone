@@ -1,17 +1,16 @@
-Polyporus sulphureus var. sulphureus VARIETY
-=======
+# Polyporus sulphureus (Bull.) Fr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+Belgian Species List
 
 #### Published in
-Syst. mycol. (Lundae) 1: 357 (1821)
+null
 
 #### Original name
-Boletus sulphureus Fr., 1838
+null
 
 ### Remarks
 null

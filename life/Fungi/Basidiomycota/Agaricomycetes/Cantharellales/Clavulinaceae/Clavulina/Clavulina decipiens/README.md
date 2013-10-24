@@ -1,5 +1,4 @@
-Clavulina decipiens Corner, 1950 SPECIES
-=======
+# Clavulina decipiens Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED

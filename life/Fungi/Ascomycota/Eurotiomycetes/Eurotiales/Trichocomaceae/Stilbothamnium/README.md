@@ -1,5 +1,4 @@
-Stilbothamnium GENUS
-=======
+# Stilbothamnium GENUS
 
 #### Status
 ACCEPTED

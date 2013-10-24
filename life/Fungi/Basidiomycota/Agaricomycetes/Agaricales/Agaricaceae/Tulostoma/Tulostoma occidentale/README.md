@@ -1,5 +1,4 @@
-Tulostoma occidentale Lloyd SPECIES
-=======
+# Tulostoma occidentale Lloyd SPECIES
 
 #### Status
 ACCEPTED

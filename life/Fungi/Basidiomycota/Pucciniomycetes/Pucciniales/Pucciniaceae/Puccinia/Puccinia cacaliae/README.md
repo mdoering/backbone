@@ -1,5 +1,4 @@
-Puccinia cacaliae DC. SPECIES
-=======
+# Puccinia cacaliae DC. SPECIES
 
 #### Status
 ACCEPTED

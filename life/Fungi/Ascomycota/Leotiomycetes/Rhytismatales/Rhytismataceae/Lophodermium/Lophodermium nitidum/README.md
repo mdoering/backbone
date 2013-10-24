@@ -1,5 +1,4 @@
-Lophodermium nitidum P.R. Johnst., 2001 SPECIES
-=======
+# Lophodermium nitidum P.R. Johnst., 2001 SPECIES
 
 #### Status
 ACCEPTED

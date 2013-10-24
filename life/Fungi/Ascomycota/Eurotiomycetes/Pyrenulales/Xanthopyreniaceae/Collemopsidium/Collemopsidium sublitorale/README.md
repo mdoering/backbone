@@ -1,17 +1,16 @@
-Verrucaria sublitoralis Leight. SPECIES
-=======
+# Collemopsidium sublitorale (Leight.) Grube & B. D. Ryan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. -Fl. Great Brit. 435 (1871)
+null
 
 #### Original name
-Verrucaria sublitoralis Leight.
+null
 
 ### Remarks
 null

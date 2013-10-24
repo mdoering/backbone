@@ -1,5 +1,4 @@
-Cercospora maracasensis R.E.D. Baker & W.T. Dale SPECIES
-=======
+# Cercospora maracasensis R.E.D. Baker & W.T. Dale SPECIES
 
 #### Status
 ACCEPTED

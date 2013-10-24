@@ -1,5 +1,4 @@
-Arthriniites Babajan & Tasl. GENUS
-=======
+# Arthriniites Babajan & Tasl. GENUS
 
 #### Status
 ACCEPTED

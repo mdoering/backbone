@@ -1,5 +1,4 @@
-Carpenteria candei SPECIES
-=======
+# Carpenteria candei SPECIES
 
 #### Status
 ACCEPTED

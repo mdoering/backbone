@@ -1,5 +1,4 @@
-Stridiporosporites asper P. Ke & Z.Y. Shi SPECIES
-=======
+# Stridiporosporites asper P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

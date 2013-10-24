@@ -1,14 +1,13 @@
-Verrucaria gothica (Th. Fr.) Leight. SPECIES
-=======
+# Polyblastia gothica Th. Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Notiser 112 (1865)
 
 #### Original name
 Polyblastia gothica Th. Fr.

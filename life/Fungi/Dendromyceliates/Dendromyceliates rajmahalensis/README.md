@@ -1,5 +1,4 @@
-Dendromyceliates rajmahalensis A. Tripathi SPECIES
-=======
+# Dendromyceliates rajmahalensis A. Tripathi SPECIES
 
 #### Status
 ACCEPTED

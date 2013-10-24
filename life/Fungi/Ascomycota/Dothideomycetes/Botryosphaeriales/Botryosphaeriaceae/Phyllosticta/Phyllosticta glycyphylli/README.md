@@ -1,5 +1,4 @@
-Phyllosticta glycyphylli Maire SPECIES
-=======
+# Phyllosticta glycyphylli Maire SPECIES
 
 #### Status
 ACCEPTED

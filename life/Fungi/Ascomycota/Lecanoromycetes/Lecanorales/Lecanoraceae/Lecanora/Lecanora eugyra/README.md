@@ -1,5 +1,4 @@
-Lecanora eugyra (Tuck.) Nyl. SPECIES
-=======
+# Lecanora eugyra (Tuck.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

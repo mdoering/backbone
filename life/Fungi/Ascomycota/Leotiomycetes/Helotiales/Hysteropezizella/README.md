@@ -1,5 +1,4 @@
-Hysteropezizella Höhn. GENUS
-=======
+# Hysteropezizella Höhn. GENUS
 
 #### Status
 ACCEPTED

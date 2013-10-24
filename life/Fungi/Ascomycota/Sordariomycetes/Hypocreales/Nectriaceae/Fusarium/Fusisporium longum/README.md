@@ -1,5 +1,4 @@
-Fusisporium longum Wallr. SPECIES
-=======
+# Fusisporium longum Wallr. SPECIES
 
 #### Status
 ACCEPTED

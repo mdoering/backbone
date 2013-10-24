@@ -1,5 +1,4 @@
-Porosira antarctica O. G. Kozlova SPECIES
-=======
+# Porosira antarctica O. G. Kozlova SPECIES
 
 #### Status
 ACCEPTED

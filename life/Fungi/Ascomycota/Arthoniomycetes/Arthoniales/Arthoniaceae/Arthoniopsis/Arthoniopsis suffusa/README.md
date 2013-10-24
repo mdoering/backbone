@@ -1,5 +1,4 @@
-Arthoniopsis suffusa (Stirt.) Müll. Arg. SPECIES
-=======
+# Arthoniopsis suffusa (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius puniceus Thiers SPECIES
-=======
+# Marasmius puniceus Thiers SPECIES
 
 #### Status
 ACCEPTED

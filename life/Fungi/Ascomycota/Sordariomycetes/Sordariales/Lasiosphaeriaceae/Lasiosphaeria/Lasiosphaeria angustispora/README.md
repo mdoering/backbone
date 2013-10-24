@@ -1,5 +1,4 @@
-Lasiosphaeria angustispora Lar.N. Vassiljeva SPECIES
-=======
+# Lasiosphaeria angustispora Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

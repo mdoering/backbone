@@ -1,5 +1,4 @@
-Micropeltis pitya Sacc. SPECIES
-=======
+# Micropeltis pitya Sacc. SPECIES
 
 #### Status
 ACCEPTED

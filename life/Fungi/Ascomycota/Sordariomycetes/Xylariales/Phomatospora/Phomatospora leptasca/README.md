@@ -1,5 +1,4 @@
-Phomatospora leptasca (Peck & Clinton) J. Reid & C. Booth SPECIES
-=======
+# Phomatospora leptasca (Peck & Clinton) J. Reid & C. Booth SPECIES
 
 #### Status
 ACCEPTED

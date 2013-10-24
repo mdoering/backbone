@@ -1,5 +1,4 @@
-Lasiosphaeria trichiacea (Fr.) Sacc. SPECIES
-=======
+# Lasiosphaeria trichiacea (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

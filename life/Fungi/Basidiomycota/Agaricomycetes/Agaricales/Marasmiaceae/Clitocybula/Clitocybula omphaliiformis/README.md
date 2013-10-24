@@ -1,5 +1,4 @@
-Clitocybula omphaliiformis Pegler SPECIES
-=======
+# Clitocybula omphaliiformis Pegler SPECIES
 
 #### Status
 ACCEPTED

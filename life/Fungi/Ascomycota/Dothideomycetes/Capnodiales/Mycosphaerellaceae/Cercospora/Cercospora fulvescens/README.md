@@ -1,5 +1,4 @@
-Cercospora fulvescens Sacc. SPECIES
-=======
+# Cercospora fulvescens Sacc. SPECIES
 
 #### Status
 ACCEPTED

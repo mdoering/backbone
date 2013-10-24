@@ -1,5 +1,4 @@
-Usnea erubescens (Stein) Motyka SPECIES
-=======
+# Usnea erubescens (Stein) Motyka SPECIES
 
 #### Status
 ACCEPTED

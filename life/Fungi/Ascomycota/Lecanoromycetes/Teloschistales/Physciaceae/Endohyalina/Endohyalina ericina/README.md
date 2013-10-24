@@ -1,5 +1,4 @@
-Endohyalina ericina var. ericina (Nyl.) Giralt, van den Boom & Elix VARIETY
-=======
+# Endohyalina ericina (Nyl.) Giralt, van den Boom & Elix SPECIES
 
 #### Status
 ACCEPTED

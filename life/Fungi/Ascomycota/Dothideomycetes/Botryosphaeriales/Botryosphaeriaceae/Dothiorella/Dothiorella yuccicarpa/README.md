@@ -1,14 +1,13 @@
-Dothiorella yuccocarpa (Sacc.) Petr. & Syd. SPECIES
-=======
+# Dothiorella yuccicarpa (Sacc.) Petr. & Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Feddes Repert. Spec. Nov. Regni Veg. , Beih. 42: 509 (1927)
 
 #### Original name
 Macrophoma yuccicarpa Sacc.

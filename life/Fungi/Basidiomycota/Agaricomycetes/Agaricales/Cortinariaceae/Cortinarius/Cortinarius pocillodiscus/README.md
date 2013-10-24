@@ -1,5 +1,4 @@
-Cortinarius pocillodiscus Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius pocillodiscus Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

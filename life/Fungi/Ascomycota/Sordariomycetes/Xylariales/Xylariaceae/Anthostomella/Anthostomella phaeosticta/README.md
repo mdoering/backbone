@@ -1,17 +1,16 @@
-Anthostomella phaeosticta subsp. phaeosticta SUBSPECIES
-=======
+# Anthostomella phaeosticta (Berk.) Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Michelia 1(no. 4): 374 (1878)
 
 #### Original name
-null
+Sphaeria phaeosticta Berk., 1845
 
 ### Remarks
 null

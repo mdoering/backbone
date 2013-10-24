@@ -1,5 +1,4 @@
-Sphaeronaema minutulum D. Sacc. SPECIES
-=======
+# Sphaeronaema minutulum D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenoscyphus nainitalensis M.P. Sharma SPECIES
-=======
+# Hymenoscyphus nainitalensis M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca subdecadens (Nyl.) Hafellner & Poelt SPECIES
-=======
+# Caloplaca subdecadens (Nyl.) Hafellner & Poelt SPECIES
 
 #### Status
 ACCEPTED

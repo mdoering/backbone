@@ -1,5 +1,4 @@
-Aecidium centaureae-scabiosae Magnus SPECIES
-=======
+# Aecidium centaureae-scabiosae Magnus SPECIES
 
 #### Status
 ACCEPTED

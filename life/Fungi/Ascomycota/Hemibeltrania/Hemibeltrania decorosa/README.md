@@ -1,5 +1,4 @@
-Hemibeltrania decorosa R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Hemibeltrania decorosa R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

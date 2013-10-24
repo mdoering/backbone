@@ -1,5 +1,4 @@
-Lichenochora thorii Zhurb., 2008 SPECIES
-=======
+# Lichenochora thorii Zhurb., 2008 SPECIES
 
 #### Status
 ACCEPTED

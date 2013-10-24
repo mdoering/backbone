@@ -1,5 +1,4 @@
-Meliola vitis Hansf. SPECIES
-=======
+# Meliola vitis Hansf. SPECIES
 
 #### Status
 ACCEPTED

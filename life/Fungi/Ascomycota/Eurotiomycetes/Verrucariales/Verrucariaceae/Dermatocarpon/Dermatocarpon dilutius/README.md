@@ -1,5 +1,4 @@
-Dermatocarpon dilutius (Nyl.) Zahlbr. SPECIES
-=======
+# Dermatocarpon dilutius (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

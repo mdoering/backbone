@@ -1,17 +1,16 @@
-Tieghemella japonica Saito, 1904 SPECIES
-=======
+# Absidia repens Tiegh., 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Coll. Sci. imp. Univ. Tokyo 19: 6 (1904)
+Annls Sci. Nat. , Bot. , sér. 6 4(4): 363 (1878)
 
 #### Original name
-Tieghemella japonica Saito, 1904
+Absidia repens Tiegh., 1878
 
 ### Remarks
 null

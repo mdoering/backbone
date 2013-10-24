@@ -1,5 +1,4 @@
-Amanita mortenii Knudsen & T. Borgen SPECIES
-=======
+# Amanita mortenii Knudsen & T. Borgen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia decaryana Gyeln. SPECIES
-=======
+# Parmelia decaryana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

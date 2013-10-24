@@ -1,5 +1,4 @@
-Mycena gelatinomarginata Lodge SPECIES
-=======
+# Mycena gelatinomarginata Lodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psorotichia caesia (Nyl.) Forssell SPECIES
-=======
+# Psorotichia caesia (Nyl.) Forssell SPECIES
 
 #### Status
 ACCEPTED

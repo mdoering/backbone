@@ -1,5 +1,4 @@
-Urostyla magna (Alekperov, 1984) Jankowski, 1992 SPECIES
-=======
+# Urostyla magna (Alekperov, 1984) Jankowski, 1992 SPECIES
 
 #### Status
 ACCEPTED

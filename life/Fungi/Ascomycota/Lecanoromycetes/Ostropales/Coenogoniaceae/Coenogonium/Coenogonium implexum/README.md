@@ -1,17 +1,16 @@
-Coenogonium acrocephalum Müll. Arg. SPECIES
-=======
+# Coenogonium implexum Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 64: 525 (1881)
+Annls Sci. Nat. , Bot. , sér. 4 16: 92 (1862)
 
 #### Original name
-Coenogonium acrocephalum Müll. Arg.
+Coenogonium implexum Nyl.
 
 ### Remarks
 null

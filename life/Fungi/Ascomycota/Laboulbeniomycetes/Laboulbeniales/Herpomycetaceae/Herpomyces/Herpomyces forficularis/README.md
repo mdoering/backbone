@@ -1,5 +1,4 @@
-Herpomyces forficularis Thaxt. SPECIES
-=======
+# Herpomyces forficularis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

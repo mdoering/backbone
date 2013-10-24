@@ -1,5 +1,4 @@
-Gliocladium album (Preuss) Petch, 1939 SPECIES
-=======
+# Gliocladium album (Preuss) Petch, 1939 SPECIES
 
 #### Status
 ACCEPTED

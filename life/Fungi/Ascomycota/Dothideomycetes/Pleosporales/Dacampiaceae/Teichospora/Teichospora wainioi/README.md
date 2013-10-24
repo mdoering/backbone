@@ -1,5 +1,4 @@
-Teichospora wainioi P. Karst. SPECIES
-=======
+# Teichospora wainioi P. Karst. SPECIES
 
 #### Status
 ACCEPTED

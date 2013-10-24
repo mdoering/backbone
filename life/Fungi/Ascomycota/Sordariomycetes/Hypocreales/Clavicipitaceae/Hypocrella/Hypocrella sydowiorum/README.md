@@ -1,17 +1,16 @@
-Hypocrella sydowii Sacc. & Trotter SPECIES
-=======
+# Hypocrella sydowiorum Sacc. & Trotter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 22: 503 (1913)
 
 #### Original name
-Hypocrella globosa Syd. & P. Syd.
+Hypocrella sydowiorum Sacc. & Trotter
 
 ### Remarks
 null

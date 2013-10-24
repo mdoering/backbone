@@ -1,5 +1,4 @@
-Mycena coccineoides Grgur. SPECIES
-=======
+# Mycena coccineoides Grgur. SPECIES
 
 #### Status
 ACCEPTED

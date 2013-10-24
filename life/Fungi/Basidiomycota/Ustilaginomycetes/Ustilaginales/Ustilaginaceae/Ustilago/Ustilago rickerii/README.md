@@ -1,5 +1,4 @@
-Ustilago rickerii G.P. Clinton SPECIES
-=======
+# Ustilago rickerii G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycoperdon melanesicum Demoulin SPECIES
-=======
+# Lycoperdon melanesicum Demoulin SPECIES
 
 #### Status
 ACCEPTED

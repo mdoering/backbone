@@ -1,5 +1,4 @@
-Pseudozonosphaera junshaoensis Wang, Zhou & Chen, 1980 SPECIES
-=======
+# Pseudozonosphaera junshaoensis Wang, Zhou & Chen, 1980 SPECIES
 
 #### Status
 ACCEPTED

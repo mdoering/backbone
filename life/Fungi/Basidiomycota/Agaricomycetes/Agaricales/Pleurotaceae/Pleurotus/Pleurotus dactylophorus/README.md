@@ -1,5 +1,4 @@
-Pleurotus dactylophorus Bouriquet SPECIES
-=======
+# Pleurotus dactylophorus Bouriquet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geopsychrobacter electrodiphilus Holmes et al., 2005 SPECIES
-=======
+# Geopsychrobacter electrodiphilus Holmes et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

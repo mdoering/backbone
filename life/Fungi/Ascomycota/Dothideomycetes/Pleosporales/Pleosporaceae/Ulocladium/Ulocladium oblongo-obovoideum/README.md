@@ -1,5 +1,4 @@
-Ulocladium oblongo-obovoideum X.G. Zhang & T.Y. Zhang SPECIES
-=======
+# Ulocladium oblongo-obovoideum X.G. Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

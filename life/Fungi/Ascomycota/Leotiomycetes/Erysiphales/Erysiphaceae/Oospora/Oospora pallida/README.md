@@ -1,5 +1,4 @@
-Oospora pallida (Berk. & Broome) Sacc. & Voglino SPECIES
-=======
+# Oospora pallida (Berk. & Broome) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Capnodium expansum Berk. & Desm. SPECIES
-=======
+# Capnodium expansum Berk. & Desm. SPECIES
 
 #### Status
 ACCEPTED

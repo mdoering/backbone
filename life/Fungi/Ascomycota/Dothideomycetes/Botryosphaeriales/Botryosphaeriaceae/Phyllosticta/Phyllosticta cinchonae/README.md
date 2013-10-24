@@ -1,5 +1,4 @@
-Phyllosticta cinchonae Pat. SPECIES
-=======
+# Phyllosticta cinchonae Pat. SPECIES
 
 #### Status
 ACCEPTED

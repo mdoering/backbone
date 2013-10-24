@@ -1,5 +1,4 @@
-Achroomyces arachidosporus Trichiès SPECIES
-=======
+# Achroomyces arachidosporus Trichiès SPECIES
 
 #### Status
 ACCEPTED

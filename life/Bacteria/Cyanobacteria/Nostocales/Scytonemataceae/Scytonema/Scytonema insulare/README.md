@@ -1,5 +1,4 @@
-Scytonema insulare C. L. Sant'Anna SPECIES
-=======
+# Scytonema insulare C. L. Sant'Anna SPECIES
 
 #### Status
 ACCEPTED

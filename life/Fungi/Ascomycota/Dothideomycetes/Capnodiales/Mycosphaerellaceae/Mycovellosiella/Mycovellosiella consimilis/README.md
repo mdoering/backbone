@@ -1,5 +1,4 @@
-Mycovellosiella consimilis (Syd.) U. Braun SPECIES
-=======
+# Mycovellosiella consimilis (Syd.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

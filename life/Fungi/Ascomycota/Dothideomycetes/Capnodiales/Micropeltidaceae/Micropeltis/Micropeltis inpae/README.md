@@ -1,5 +1,4 @@
-Micropeltis inpae Bat. & Peres SPECIES
-=======
+# Micropeltis inpae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

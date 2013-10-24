@@ -1,5 +1,4 @@
-Naucoria smidioides Mont. SPECIES
-=======
+# Naucoria smidioides Mont. SPECIES
 
 #### Status
 ACCEPTED

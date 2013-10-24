@@ -1,5 +1,4 @@
-Cylindrocarpon chiayiense Matsush. SPECIES
-=======
+# Cylindrocarpon chiayiense Matsush. SPECIES
 
 #### Status
 ACCEPTED

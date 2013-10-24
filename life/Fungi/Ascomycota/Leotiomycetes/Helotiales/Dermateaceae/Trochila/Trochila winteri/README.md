@@ -1,5 +1,4 @@
-Trochila winteri Speg. SPECIES
-=======
+# Trochila winteri Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyrodinium jusiforme Koifoid & Swezy SPECIES
-=======
+# Gyrodinium jusiforme Koifoid & Swezy SPECIES
 
 #### Status
 ACCEPTED

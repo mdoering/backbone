@@ -1,5 +1,4 @@
-Oscillatoria nigro-viridis var. australis Playfair VARIETY
-=======
+# Oscillatoria nigro-viridis T. & G. SPECIES
 
 #### Status
 ACCEPTED

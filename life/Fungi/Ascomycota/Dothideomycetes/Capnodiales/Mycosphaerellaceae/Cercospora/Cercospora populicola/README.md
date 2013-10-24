@@ -1,5 +1,4 @@
-Cercospora populicola Tharp SPECIES
-=======
+# Cercospora populicola Tharp SPECIES
 
 #### Status
 ACCEPTED

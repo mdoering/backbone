@@ -1,5 +1,4 @@
-Staurolonchura Haeckel, 1887 GENUS
-=======
+# Staurolonchura Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

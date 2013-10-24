@@ -1,5 +1,4 @@
-Porina viridatula (Nyl.) Zahlbr. SPECIES
-=======
+# Porina viridatula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

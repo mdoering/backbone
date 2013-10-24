@@ -1,5 +1,4 @@
-Astrocystis palmarum Laessøe & Spooner SPECIES
-=======
+# Astrocystis palmarum Laessøe & Spooner SPECIES
 
 #### Status
 ACCEPTED

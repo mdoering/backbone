@@ -1,5 +1,4 @@
-Macrophoma heuffelii (Berk. & M.A. Curtis) Berl. & Voglino SPECIES
-=======
+# Macrophoma heuffelii (Berk. & M.A. Curtis) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

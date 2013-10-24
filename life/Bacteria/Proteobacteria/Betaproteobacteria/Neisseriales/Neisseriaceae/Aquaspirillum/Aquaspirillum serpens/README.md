@@ -1,5 +1,4 @@
-Aquaspirillum serpens subsp. serpens SUBSPECIES
-=======
+# Aquaspirillum serpens (Müller, 1786) Hylemon et al., 1973 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

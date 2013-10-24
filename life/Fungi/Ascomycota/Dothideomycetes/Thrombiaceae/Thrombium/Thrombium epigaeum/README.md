@@ -1,14 +1,13 @@
-Inoderma epigaea (Pers.) Gray SPECIES
-=======
+# Thrombium epigaeum (Pers.) Wallr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. crypt. Germ. (Nürnberg) 3: 294 (1831)
 
 #### Original name
 Sphaeria epigaea Pers.

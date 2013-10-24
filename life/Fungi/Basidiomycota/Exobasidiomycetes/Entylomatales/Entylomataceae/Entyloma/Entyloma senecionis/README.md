@@ -1,5 +1,4 @@
-Entyloma senecionis Sawada SPECIES
-=======
+# Entyloma senecionis Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scheplelevia Aristova, 1971 GENUS
-=======
+# Scheplelevia Aristova, 1971 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aquasphaeria K.D. Hyde GENUS
-=======
+# Aquasphaeria K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Enchelys pisi Delphy, 1938 SPECIES
-=======
+# Hypocomella krzysiki (Jarocki, 1934) Raabe, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
 null

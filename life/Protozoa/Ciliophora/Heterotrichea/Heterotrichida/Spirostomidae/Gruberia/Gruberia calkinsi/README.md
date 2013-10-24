@@ -1,5 +1,4 @@
-Gruberia calkinsi Beltrán, 1933 SPECIES
-=======
+# Gruberia calkinsi Beltrán, 1933 SPECIES
 
 #### Status
 ACCEPTED

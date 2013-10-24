@@ -1,5 +1,4 @@
-Paraleptonia GENUS
-=======
+# Paraleptonia GENUS
 
 #### Status
 ACCEPTED

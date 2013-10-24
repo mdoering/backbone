@@ -1,5 +1,4 @@
-Phomatospora trevoae Speg. SPECIES
-=======
+# Phomatospora trevoae Speg. SPECIES
 
 #### Status
 ACCEPTED

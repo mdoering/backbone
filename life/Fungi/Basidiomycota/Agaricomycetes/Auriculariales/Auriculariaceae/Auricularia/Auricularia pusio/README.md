@@ -1,5 +1,4 @@
-Auricularia pusio Berk. SPECIES
-=======
+# Auricularia pusio Berk. SPECIES
 
 #### Status
 ACCEPTED

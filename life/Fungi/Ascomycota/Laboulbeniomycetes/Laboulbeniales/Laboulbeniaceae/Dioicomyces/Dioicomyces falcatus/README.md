@@ -1,5 +1,4 @@
-Dioicomyces falcatus Speg. SPECIES
-=======
+# Dioicomyces falcatus Speg. SPECIES
 
 #### Status
 ACCEPTED

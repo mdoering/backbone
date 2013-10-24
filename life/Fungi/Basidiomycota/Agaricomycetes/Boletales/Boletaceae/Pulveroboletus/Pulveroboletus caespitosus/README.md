@@ -1,5 +1,4 @@
-Pulveroboletus caespitosus (Peck) Singer SPECIES
-=======
+# Pulveroboletus caespitosus (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Somion Adans. GENUS
-=======
+# Spongipellis Patouillard, 1887 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Fam. Pl. 2: 5, 606 (1763)
+null
 
 #### Original name
-Somion Adans.
+null
 
 ### Remarks
 null

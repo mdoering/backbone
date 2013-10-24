@@ -1,5 +1,4 @@
-Filaspora herbarum (Preuss) Kuntze SPECIES
-=======
+# Filaspora herbarum (Preuss) Kuntze SPECIES
 
 #### Status
 ACCEPTED

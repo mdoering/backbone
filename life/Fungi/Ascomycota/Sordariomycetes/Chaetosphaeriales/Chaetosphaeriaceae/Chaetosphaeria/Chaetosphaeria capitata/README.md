@@ -1,5 +1,4 @@
-Chaetosphaeria capitata Sivan. & H.S. Chang, 1995 SPECIES
-=======
+# Chaetosphaeria capitata Sivan. & H.S. Chang, 1995 SPECIES
 
 #### Status
 ACCEPTED

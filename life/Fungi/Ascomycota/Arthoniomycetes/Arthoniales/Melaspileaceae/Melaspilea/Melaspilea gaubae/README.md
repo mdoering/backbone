@@ -1,5 +1,4 @@
-Melaspilea gaubae Petr. SPECIES
-=======
+# Melaspilea gaubae Petr. SPECIES
 
 #### Status
 ACCEPTED

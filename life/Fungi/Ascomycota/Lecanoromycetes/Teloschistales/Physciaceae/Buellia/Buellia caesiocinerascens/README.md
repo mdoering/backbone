@@ -1,5 +1,4 @@
-Buellia caesiocinerascens Darb. SPECIES
-=======
+# Buellia caesiocinerascens Darb. SPECIES
 
 #### Status
 ACCEPTED

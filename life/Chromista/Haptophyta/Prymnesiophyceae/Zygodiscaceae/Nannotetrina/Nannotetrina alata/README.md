@@ -1,5 +1,4 @@
-Nannotetrina alata (Martini, 1960) Haq & Lohmann, 1976 SPECIES
-=======
+# Nannotetrina alata (Martini, 1960) Haq & Lohmann, 1976 SPECIES
 
 #### Status
 ACCEPTED

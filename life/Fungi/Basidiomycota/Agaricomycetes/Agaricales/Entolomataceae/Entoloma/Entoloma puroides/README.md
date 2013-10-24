@@ -1,5 +1,4 @@
-Entoloma puroides E. Horak SPECIES
-=======
+# Entoloma puroides E. Horak SPECIES
 
 #### Status
 ACCEPTED

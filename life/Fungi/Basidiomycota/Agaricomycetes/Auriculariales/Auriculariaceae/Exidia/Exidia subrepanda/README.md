@@ -1,5 +1,4 @@
-Exidia subrepanda P. Karst. SPECIES
-=======
+# Exidia subrepanda P. Karst. SPECIES
 
 #### Status
 ACCEPTED

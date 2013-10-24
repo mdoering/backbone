@@ -1,5 +1,4 @@
-Diporicellaesporites vermiculatus Kalgutkar SPECIES
-=======
+# Diporicellaesporites vermiculatus Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

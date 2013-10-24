@@ -1,5 +1,4 @@
-Monodus guttula Pascher SPECIES
-=======
+# Monodus guttula Pascher SPECIES
 
 #### Status
 ACCEPTED

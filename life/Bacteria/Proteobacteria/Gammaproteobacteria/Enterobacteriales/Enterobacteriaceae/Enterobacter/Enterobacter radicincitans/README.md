@@ -1,5 +1,4 @@
-Enterobacter radicincitans Kämpfer et al., 2005 SPECIES
-=======
+# Enterobacter radicincitans Kämpfer et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

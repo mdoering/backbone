@@ -1,5 +1,4 @@
-Nostoc hatei S.C. Dixit SPECIES
-=======
+# Nostoc hatei S.C. Dixit SPECIES
 
 #### Status
 ACCEPTED

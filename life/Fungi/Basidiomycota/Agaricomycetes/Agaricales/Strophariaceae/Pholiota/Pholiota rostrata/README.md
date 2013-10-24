@@ -1,5 +1,4 @@
-Pholiota rostrata Velen. SPECIES
-=======
+# Pholiota rostrata Velen. SPECIES
 
 #### Status
 ACCEPTED

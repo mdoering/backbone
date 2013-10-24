@@ -1,5 +1,4 @@
-Polysphaeridium granulosum K. P. Jain & P. Millepied SPECIES
-=======
+# Polysphaeridium granulosum K. P. Jain & P. Millepied SPECIES
 
 #### Status
 ACCEPTED

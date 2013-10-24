@@ -1,5 +1,4 @@
-Cortinarius dissensio Rob. Henry SPECIES
-=======
+# Cortinarius dissensio Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

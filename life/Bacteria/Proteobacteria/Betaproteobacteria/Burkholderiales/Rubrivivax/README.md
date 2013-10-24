@@ -1,5 +1,4 @@
-Rubrivivax Willems et al., 1991 GENUS
-=======
+# Rubrivivax Willems et al., 1991 GENUS
 
 #### Status
 ACCEPTED

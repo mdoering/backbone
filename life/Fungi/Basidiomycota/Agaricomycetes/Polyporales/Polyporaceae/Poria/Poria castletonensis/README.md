@@ -1,5 +1,4 @@
-Poria castletonensis (Murrill) Sacc. & Trotter SPECIES
-=======
+# Poria castletonensis (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

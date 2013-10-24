@@ -1,5 +1,4 @@
-Chrysosporium zonatum Al-Musallam & C.S. Tan, 1989 SPECIES
-=======
+# Chrysosporium zonatum Al-Musallam & C.S. Tan, 1989 SPECIES
 
 #### Status
 ACCEPTED

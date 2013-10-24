@@ -1,5 +1,4 @@
-Cercospora sydowiana Chupp SPECIES
-=======
+# Cercospora sydowiana Chupp SPECIES
 
 #### Status
 ACCEPTED

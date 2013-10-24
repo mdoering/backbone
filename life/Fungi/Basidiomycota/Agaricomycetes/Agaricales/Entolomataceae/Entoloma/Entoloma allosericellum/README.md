@@ -1,5 +1,4 @@
-Entoloma allosericellum Noordel. SPECIES
-=======
+# Entoloma allosericellum Noordel. SPECIES
 
 #### Status
 ACCEPTED

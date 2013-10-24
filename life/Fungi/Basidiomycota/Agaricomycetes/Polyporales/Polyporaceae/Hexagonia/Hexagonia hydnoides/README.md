@@ -1,14 +1,13 @@
-Boletus hydnoides Sw., 1806 SPECIES
-=======
+# Hexagonia hydnoides (Sw.) M. Fidalgo, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Ind. Occid. 3: 1942 (1806)
+Mem. N. Y. bot. Gdn 17: 64 (1968)
 
 #### Original name
 Boletus hydnoides Sw., 1806

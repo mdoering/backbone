@@ -1,5 +1,4 @@
-Psathyrella calvinii A.H. Sm. SPECIES
-=======
+# Psathyrella calvinii A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

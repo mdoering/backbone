@@ -1,5 +1,4 @@
-Hygrocybe (E.M. Fries) P. Kummer, 1871 GENUS
-=======
+# Hygrocybe (E.M. Fries) P. Kummer, 1871 GENUS
 
 #### Status
 ACCEPTED

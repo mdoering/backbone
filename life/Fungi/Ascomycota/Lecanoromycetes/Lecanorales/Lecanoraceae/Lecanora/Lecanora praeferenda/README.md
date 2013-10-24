@@ -1,5 +1,4 @@
-Lecanora praeferenda (Nyl.) Nyl. SPECIES
-=======
+# Lecanora praeferenda (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletellus shichianus (Teng & L. Ling) Teng SPECIES
-=======
+# Boletellus shichianus (Teng & L. Ling) Teng SPECIES
 
 #### Status
 ACCEPTED

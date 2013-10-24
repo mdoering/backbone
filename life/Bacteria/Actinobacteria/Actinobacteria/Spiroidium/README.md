@@ -1,5 +1,4 @@
-Spiroidium Saito GENUS
-=======
+# Spiroidium Saito GENUS
 
 #### Status
 ACCEPTED

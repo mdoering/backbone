@@ -1,5 +1,4 @@
-Linochora qualeae (Allesch.) Arx SPECIES
-=======
+# Linochora qualeae (Allesch.) Arx SPECIES
 
 #### Status
 ACCEPTED

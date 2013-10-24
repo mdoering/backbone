@@ -1,5 +1,4 @@
-Helminthosporium tapurae Allesch. SPECIES
-=======
+# Helminthosporium tapurae Allesch. SPECIES
 
 #### Status
 ACCEPTED

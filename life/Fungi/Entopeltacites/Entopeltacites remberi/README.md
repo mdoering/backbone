@@ -1,5 +1,4 @@
-Entopeltacites remberi Carlie J. Phipps SPECIES
-=======
+# Entopeltacites remberi Carlie J. Phipps SPECIES
 
 #### Status
 ACCEPTED

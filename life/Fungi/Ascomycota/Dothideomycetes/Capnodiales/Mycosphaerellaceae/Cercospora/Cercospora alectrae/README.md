@@ -1,5 +1,4 @@
-Cercospora alectrae Hansf. SPECIES
-=======
+# Cercospora alectrae Hansf. SPECIES
 
 #### Status
 ACCEPTED

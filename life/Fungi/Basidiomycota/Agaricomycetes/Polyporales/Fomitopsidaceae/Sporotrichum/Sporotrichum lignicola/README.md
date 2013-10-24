@@ -1,5 +1,4 @@
-Sporotrichum lignicola Udaiyan SPECIES
-=======
+# Sporotrichum lignicola Udaiyan SPECIES
 
 #### Status
 ACCEPTED

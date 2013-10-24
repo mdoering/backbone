@@ -1,5 +1,4 @@
-Agaricus nitidulus DC. SPECIES
-=======
+# Agaricus nitidulus DC. SPECIES
 
 #### Status
 ACCEPTED

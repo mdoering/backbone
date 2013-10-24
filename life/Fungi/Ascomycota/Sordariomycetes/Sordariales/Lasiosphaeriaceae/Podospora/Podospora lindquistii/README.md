@@ -1,17 +1,16 @@
-Podospora lindqziisti García-Zorrón SPECIES
-=======
+# Podospora lindquistii García-Zorrón SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Boln Soc. argent. Bot. 18(1-2): 173 (1977)
 
 #### Original name
-Podospora lindqziisti García-Zorrón
+Podospora lindquistii García-Zorrón
 
 ### Remarks
 null

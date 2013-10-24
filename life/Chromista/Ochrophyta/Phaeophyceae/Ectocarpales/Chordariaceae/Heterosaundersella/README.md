@@ -1,5 +1,4 @@
-Heterosaundersella Tokida, 1942 GENUS
-=======
+# Heterosaundersella Tokida, 1942 GENUS
 
 #### Status
 ACCEPTED

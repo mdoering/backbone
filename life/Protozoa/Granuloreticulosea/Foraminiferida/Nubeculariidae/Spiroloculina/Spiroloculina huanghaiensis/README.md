@@ -1,5 +1,4 @@
-Spiroloculina huanghaiensis Zheng SPECIES
-=======
+# Spiroloculina huanghaiensis Zheng SPECIES
 
 #### Status
 ACCEPTED

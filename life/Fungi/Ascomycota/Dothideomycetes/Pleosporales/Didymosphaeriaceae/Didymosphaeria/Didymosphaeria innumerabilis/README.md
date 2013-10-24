@@ -1,5 +1,4 @@
-Didymosphaeria innumerabilis G. Winter SPECIES
-=======
+# Didymosphaeria innumerabilis G. Winter SPECIES
 
 #### Status
 ACCEPTED

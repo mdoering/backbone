@@ -1,5 +1,4 @@
-Euplotes longicirratus SPECIES
-=======
+# Euplotes longicirratus SPECIES
 
 #### Status
 ACCEPTED

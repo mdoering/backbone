@@ -1,5 +1,4 @@
-Rudoloculina Guilbault & Patterson, 1998 GENUS
-=======
+# Rudoloculina Guilbault & Patterson, 1998 GENUS
 
 #### Status
 ACCEPTED

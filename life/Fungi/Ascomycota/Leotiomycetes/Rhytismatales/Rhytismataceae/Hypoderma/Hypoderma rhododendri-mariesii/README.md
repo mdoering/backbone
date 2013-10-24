@@ -1,5 +1,4 @@
-Hypoderma rhododendri-mariesii Y.R. Lin & S.J. Wang, 2004 SPECIES
-=======
+# Hypoderma rhododendri-mariesii Y.R. Lin & S.J. Wang, 2004 SPECIES
 
 #### Status
 ACCEPTED

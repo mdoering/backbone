@@ -1,5 +1,4 @@
-Apertapetra Hay, Mohler & Wade GENUS
-=======
+# Apertapetra Hay, Mohler & Wade GENUS
 
 #### Status
 ACCEPTED

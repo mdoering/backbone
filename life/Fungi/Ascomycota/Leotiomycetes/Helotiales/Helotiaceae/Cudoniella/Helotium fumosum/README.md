@@ -1,5 +1,4 @@
-Helotium fumosum Ellis & Everh. SPECIES
-=======
+# Helotium fumosum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

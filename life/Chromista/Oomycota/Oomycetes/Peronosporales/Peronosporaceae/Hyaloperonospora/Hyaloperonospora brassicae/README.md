@@ -1,17 +1,16 @@
-Peronospora brassicae f. sp FORM
-=======
+# Hyaloperonospora brassicae (Gäum.) Göker, Voglmayr, Riethm., Weiss & Oberw., 2003 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Zh. SSSR 47(6): 862 (1962)
+Can. J. Bot. 81(7): 681 (2003)
 
 #### Original name
-Peronospora brassicae f. sp
+Peronospora brassicae Gäum., 1918
 
 ### Remarks
 null

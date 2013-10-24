@@ -1,5 +1,4 @@
-Thermoproteus neutrophilus Stetter & Zillig, 1989 SPECIES
-=======
+# Thermoproteus neutrophilus Stetter & Zillig, 1989 SPECIES
 
 #### Status
 ACCEPTED

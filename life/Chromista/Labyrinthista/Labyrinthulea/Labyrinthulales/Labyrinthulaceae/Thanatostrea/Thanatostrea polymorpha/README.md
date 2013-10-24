@@ -1,5 +1,4 @@
-Thanatostrea polymorpha A. Franc & Arvy SPECIES
-=======
+# Thanatostrea polymorpha A. Franc & Arvy SPECIES
 
 #### Status
 ACCEPTED

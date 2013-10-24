@@ -1,5 +1,4 @@
-Eupenicillium arvense Udagawa & T. Yokoy. SPECIES
-=======
+# Eupenicillium arvense Udagawa & T. Yokoy. SPECIES
 
 #### Status
 ACCEPTED

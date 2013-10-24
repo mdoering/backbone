@@ -1,5 +1,4 @@
-Stereocaulon pilophoroides Tuck. SPECIES
-=======
+# Stereocaulon pilophoroides Tuck. SPECIES
 
 #### Status
 ACCEPTED

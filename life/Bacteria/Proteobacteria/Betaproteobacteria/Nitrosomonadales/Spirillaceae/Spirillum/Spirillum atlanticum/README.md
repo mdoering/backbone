@@ -1,5 +1,4 @@
-Spirillum atlanticum SPECIES
-=======
+# Spirillum atlanticum SPECIES
 
 #### Status
 ACCEPTED

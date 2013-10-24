@@ -1,17 +1,16 @@
-Massarina sivanesami Subhedar & V.G. Rao SPECIES
-=======
+# Massarina sivanesanii Subhedar & V.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Journal of Mycology and Plant Pathology 15(2): 180 (1986)
 
 #### Original name
-Massarina sivanesami Subhedar & V.G. Rao
+Massarina sivanesanii Subhedar & V.G. Rao
 
 ### Remarks
 null

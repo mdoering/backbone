@@ -1,5 +1,4 @@
-Hayella situliformis Gartner (1969, b SPECIES
-=======
+# Hayella situliformis Gartner (1969, b SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymium confluens Rostaf. SPECIES
-=======
+# Didymium confluens Rostaf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anaptychia palpebrata Vain. SPECIES
-=======
+# Anaptychia palpebrata Vain. SPECIES
 
 #### Status
 ACCEPTED

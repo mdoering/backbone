@@ -1,5 +1,4 @@
-Poria atrovinosa (Cooke) Sacc. SPECIES
-=======
+# Poria atrovinosa (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

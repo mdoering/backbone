@@ -1,5 +1,4 @@
-Cercosporella viticis Syd. SPECIES
-=======
+# Cercosporella viticis Syd. SPECIES
 
 #### Status
 ACCEPTED

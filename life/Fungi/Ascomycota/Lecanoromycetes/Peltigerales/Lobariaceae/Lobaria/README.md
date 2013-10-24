@@ -1,17 +1,16 @@
-Ricasoliomyces E.A. Thomas ex Cif. & Tomas. GENUS
-=======
+# Lobaria (Schreber) Hoffmann, 1796 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 45, 71 (1953)
+Deutschl. Fl. (Erlangen), Zweiter Theil 138 (1796)
 
 #### Original name
-Ricasoliomyces E.A. Thomas ex Cif. & Tomas.
+null
 
 ### Remarks
 null

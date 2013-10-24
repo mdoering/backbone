@@ -1,5 +1,4 @@
-Adelungia Suleymanov, 1966 GENUS
-=======
+# Adelungia Suleymanov, 1966 GENUS
 
 #### Status
 ACCEPTED

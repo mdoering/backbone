@@ -1,5 +1,4 @@
-Naucoria fusco-olivacea Bres. & Roum. SPECIES
-=======
+# Naucoria fusco-olivacea Bres. & Roum. SPECIES
 
 #### Status
 ACCEPTED

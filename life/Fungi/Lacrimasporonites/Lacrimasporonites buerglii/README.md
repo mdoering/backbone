@@ -1,5 +1,4 @@
-Lacrimasporonites buerglii (Hammen) Kalgutkar & Janson. SPECIES
-=======
+# Lacrimasporonites buerglii (Hammen) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporocephalium roseum Chevall. SPECIES
-=======
+# Sporocephalium roseum Chevall. SPECIES
 
 #### Status
 ACCEPTED

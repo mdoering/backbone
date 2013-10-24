@@ -1,5 +1,4 @@
-Didothis dispersa I. Hino & Katum. SPECIES
-=======
+# Didothis dispersa I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

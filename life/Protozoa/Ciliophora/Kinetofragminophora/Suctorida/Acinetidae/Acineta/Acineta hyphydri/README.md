@@ -1,5 +1,4 @@
-Acineta hyphydri SPECIES
-=======
+# Acineta hyphydri SPECIES
 
 #### Status
 ACCEPTED

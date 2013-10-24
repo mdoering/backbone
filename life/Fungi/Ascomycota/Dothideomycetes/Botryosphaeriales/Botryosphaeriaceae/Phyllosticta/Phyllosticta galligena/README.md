@@ -1,5 +1,4 @@
-Phyllosticta galligena Moreau {?} SPECIES
-=======
+# Phyllosticta galligena Moreau {?} SPECIES
 
 #### Status
 ACCEPTED

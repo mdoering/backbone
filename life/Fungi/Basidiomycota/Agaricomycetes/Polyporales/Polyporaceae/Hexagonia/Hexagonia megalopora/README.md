@@ -1,5 +1,4 @@
-Hexagonia megalopora Beeli SPECIES
-=======
+# Hexagonia megalopora Beeli SPECIES
 
 #### Status
 ACCEPTED

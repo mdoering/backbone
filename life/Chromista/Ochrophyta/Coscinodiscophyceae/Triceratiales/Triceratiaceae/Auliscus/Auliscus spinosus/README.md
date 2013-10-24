@@ -1,5 +1,4 @@
-Auliscus spinosus T. Christian SPECIES
-=======
+# Auliscus spinosus T. Christian SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceramothyrium peltatum (L.R. Fraser) Bat. & Cif. SPECIES
-=======
+# Ceramothyrium peltatum (L.R. Fraser) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

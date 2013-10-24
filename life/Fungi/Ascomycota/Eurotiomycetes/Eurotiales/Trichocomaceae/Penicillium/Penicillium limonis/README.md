@@ -1,5 +1,4 @@
-Penicillium limonis Sopp SPECIES
-=======
+# Penicillium limonis Sopp SPECIES
 
 #### Status
 ACCEPTED

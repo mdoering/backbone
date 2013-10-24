@@ -1,5 +1,4 @@
-Lecidea perminutula Nyl. SPECIES
-=======
+# Lecidea perminutula Nyl. SPECIES
 
 #### Status
 ACCEPTED

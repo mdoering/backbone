@@ -1,5 +1,4 @@
-Vermicularia sambucina Ellis & Everh. SPECIES
-=======
+# Vermicularia sambucina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

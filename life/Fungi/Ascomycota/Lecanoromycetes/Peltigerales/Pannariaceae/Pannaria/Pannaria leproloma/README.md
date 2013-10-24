@@ -1,14 +1,13 @@
-Placopsis tararuana (Zahlbr.) D.J. Galloway SPECIES
-=======
+# Pannaria leproloma (Nyl.) P. M. Jørg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Lichenol. 78: 59 (2001)
+Biblthca Lichenol. 78: 119 (2001)
 
 #### Original name
 Lecanora tararuana Zahlbr.

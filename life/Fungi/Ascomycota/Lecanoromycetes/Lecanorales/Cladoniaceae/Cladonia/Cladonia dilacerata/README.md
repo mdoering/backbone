@@ -1,5 +1,4 @@
-Cladonia dilacerata SPECIES
-=======
+# Cladonia dilacerata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca farinosa Poelt & Hinter. SPECIES
-=======
+# Caloplaca farinosa Poelt & Hinter. SPECIES
 
 #### Status
 ACCEPTED

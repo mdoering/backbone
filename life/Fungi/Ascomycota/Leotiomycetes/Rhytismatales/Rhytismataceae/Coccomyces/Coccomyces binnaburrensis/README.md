@@ -1,5 +1,4 @@
-Coccomyces binnaburrensis P.R. Johnst., 2000 SPECIES
-=======
+# Coccomyces binnaburrensis P.R. Johnst., 2000 SPECIES
 
 #### Status
 ACCEPTED

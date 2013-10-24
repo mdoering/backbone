@@ -1,5 +1,4 @@
-Cumulospora varia Chatmala & Somrith., 2004 SPECIES
-=======
+# Cumulospora varia Chatmala & Somrith., 2004 SPECIES
 
 #### Status
 ACCEPTED

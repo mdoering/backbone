@@ -1,5 +1,4 @@
-Arthrinium francii Larrondo & Calvo SPECIES
-=======
+# Arthrinium francii Larrondo & Calvo SPECIES
 
 #### Status
 ACCEPTED

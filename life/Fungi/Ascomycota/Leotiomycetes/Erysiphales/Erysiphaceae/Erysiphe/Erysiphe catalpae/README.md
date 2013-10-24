@@ -1,5 +1,4 @@
-Erysiphe catalpae Simonyan, 1984 SPECIES
-=======
+# Erysiphe catalpae Simonyan, 1984 SPECIES
 
 #### Status
 ACCEPTED

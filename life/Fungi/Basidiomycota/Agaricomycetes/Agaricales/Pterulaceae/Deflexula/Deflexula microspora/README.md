@@ -1,5 +1,4 @@
-Deflexula microspora Corner, 1966 SPECIES
-=======
+# Deflexula microspora Corner, 1966 SPECIES
 
 #### Status
 ACCEPTED

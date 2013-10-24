@@ -1,5 +1,4 @@
-Hypogymnia inflata C.W. Dodge SPECIES
-=======
+# Hypogymnia inflata C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

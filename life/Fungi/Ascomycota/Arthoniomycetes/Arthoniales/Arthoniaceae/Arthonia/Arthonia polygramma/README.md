@@ -1,5 +1,4 @@
-Arthonia polygramma Nyl. SPECIES
-=======
+# Arthonia polygramma Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lettauia cladoniicola D. Hawksw. & R. Sant. SPECIES
-=======
+# Lettauia cladoniicola D. Hawksw. & R. Sant. SPECIES
 
 #### Status
 ACCEPTED

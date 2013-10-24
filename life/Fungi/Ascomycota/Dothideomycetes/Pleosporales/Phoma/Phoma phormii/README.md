@@ -1,5 +1,4 @@
-Phoma phormii (Cooke) Sacc. SPECIES
-=======
+# Phoma phormii (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spirochaeta minima SPECIES
-=======
+# Spirochaeta minima SPECIES
 
 #### Status
 ACCEPTED

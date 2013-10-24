@@ -1,5 +1,4 @@
-Biddulphia tuomeyi var. tridentata (Ehrenberg) A. P. Jousé VARIETY
-=======
+# Biddulphia tuomeyi (Bailey) Roper, 1859 SPECIES
 
 #### Status
 ACCEPTED

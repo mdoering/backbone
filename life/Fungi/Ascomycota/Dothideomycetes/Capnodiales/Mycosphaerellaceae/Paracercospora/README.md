@@ -1,5 +1,4 @@
-Paracercospora Deighton GENUS
-=======
+# Paracercospora Deighton GENUS
 
 #### Status
 ACCEPTED

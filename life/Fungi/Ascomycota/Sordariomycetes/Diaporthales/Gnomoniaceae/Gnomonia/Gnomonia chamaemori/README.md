@@ -1,14 +1,13 @@
-Gnomoniopsis chamaemori (Fr.) Berl., 1892 SPECIES
-=======
+# Gnomonia chamaemori Fr., 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. fung. (Abellini) 1(3): 93 (1892)
+in Karsten, Mycoth. fenn. (Helsinki) 2: 123 (1871)
 
 #### Original name
 Gnomonia chamaemori Fr., 1871

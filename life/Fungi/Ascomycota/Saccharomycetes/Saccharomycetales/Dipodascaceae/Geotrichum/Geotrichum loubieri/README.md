@@ -1,17 +1,16 @@
-Trichosporon loubieri var. loubieri (Morenz) Weijman VARIETY
-=======
+# Geotrichum loubieri Morenz, 1964 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Antonie van Leeuwenhoek 45(1): 126 (1979)
+Mykologische Schriftenreihe, Leipzig 2: 46 (1964)
 
 #### Original name
-Trichosporon loubieri var. loubieri (Morenz) Weijman
+Geotrichum loubieri Morenz, 1964
 
 ### Remarks
 null

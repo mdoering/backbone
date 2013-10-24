@@ -1,5 +1,4 @@
-Thelotrema limae Vain. SPECIES
-=======
+# Thelotrema limae Vain. SPECIES
 
 #### Status
 ACCEPTED

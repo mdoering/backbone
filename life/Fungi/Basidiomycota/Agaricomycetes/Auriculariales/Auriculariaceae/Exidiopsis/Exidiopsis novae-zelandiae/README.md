@@ -1,14 +1,13 @@
-Sebacina novae-zelandiae McNabb, 1969 SPECIES
-=======
+# Exidiopsis novae-zelandiae (McNabb) Wojewoda, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Z. Jl Bot. 252 (1969)
+Mala Flora Grzybów (Warszawa), <b>2</b> Basidiomycetes (Podstawczaki) Tremellales (Trzesakowe) Auriculariales (Uszakowe) 117 (1981)
 
 #### Original name
 Sebacina novae-zelandiae McNabb, 1969

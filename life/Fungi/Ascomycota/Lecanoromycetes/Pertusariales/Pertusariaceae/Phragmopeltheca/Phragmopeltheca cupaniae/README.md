@@ -1,5 +1,4 @@
-Phragmopeltheca cupaniae L. Xavier SPECIES
-=======
+# Phragmopeltheca cupaniae L. Xavier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium atrichum Corda SPECIES
-=======
+# Helminthosporium atrichum Corda SPECIES
 
 #### Status
 ACCEPTED

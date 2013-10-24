@@ -1,5 +1,4 @@
-Leptosphaeria herpotrichioides De Not. SPECIES
-=======
+# Leptosphaeria herpotrichioides De Not. SPECIES
 
 #### Status
 ACCEPTED

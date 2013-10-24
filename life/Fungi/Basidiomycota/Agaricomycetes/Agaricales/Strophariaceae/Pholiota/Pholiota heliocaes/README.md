@@ -1,5 +1,4 @@
-Pholiota heliocaes (Berk. & Broome) Singer SPECIES
-=======
+# Pholiota heliocaes (Berk. & Broome) Singer SPECIES
 
 #### Status
 ACCEPTED

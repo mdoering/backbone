@@ -1,5 +1,4 @@
-Corinophoros coralloides A. Massal. SPECIES
-=======
+# Corinophoros coralloides A. Massal. SPECIES
 
 #### Status
 ACCEPTED

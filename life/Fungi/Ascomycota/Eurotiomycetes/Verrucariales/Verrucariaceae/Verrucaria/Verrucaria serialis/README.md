@@ -1,5 +1,4 @@
-Verrucaria serialis Fée SPECIES
-=======
+# Verrucaria serialis Fée SPECIES
 
 #### Status
 ACCEPTED

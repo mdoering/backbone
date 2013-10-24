@@ -1,5 +1,4 @@
-Cryptovalsa coryli Voglino SPECIES
-=======
+# Cryptovalsa coryli Voglino SPECIES
 
 #### Status
 ACCEPTED

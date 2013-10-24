@@ -1,5 +1,4 @@
-Meliola bactridis Hansf. SPECIES
-=======
+# Meliola bactridis Hansf. SPECIES
 
 #### Status
 ACCEPTED

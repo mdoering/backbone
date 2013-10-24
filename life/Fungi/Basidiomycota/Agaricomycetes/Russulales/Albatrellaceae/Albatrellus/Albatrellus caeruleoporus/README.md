@@ -1,5 +1,4 @@
-Albatrellus caeruleoporus (Peck) Pouzar SPECIES
-=======
+# Albatrellus caeruleoporus (Peck) Pouzar SPECIES
 
 #### Status
 ACCEPTED

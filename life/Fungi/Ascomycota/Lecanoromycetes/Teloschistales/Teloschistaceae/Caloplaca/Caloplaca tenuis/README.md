@@ -1,5 +1,4 @@
-Caloplaca tenuis Øvstedal SPECIES
-=======
+# Caloplaca tenuis Øvstedal SPECIES
 
 #### Status
 ACCEPTED

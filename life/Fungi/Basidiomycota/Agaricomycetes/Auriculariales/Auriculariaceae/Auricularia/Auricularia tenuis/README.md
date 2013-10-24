@@ -1,5 +1,4 @@
-Auricularia tenuis (Lév.) Farl. SPECIES
-=======
+# Auricularia tenuis (Lév.) Farl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma shwethum Manim., A.V. Joseph & Leelav. SPECIES
-=======
+# Entoloma shwethum Manim., A.V. Joseph & Leelav. SPECIES
 
 #### Status
 ACCEPTED

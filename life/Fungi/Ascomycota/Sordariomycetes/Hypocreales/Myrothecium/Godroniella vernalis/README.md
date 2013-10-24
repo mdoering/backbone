@@ -1,5 +1,4 @@
-Godroniella vernalis Kabát & Bubák SPECIES
-=======
+# Godroniella vernalis Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

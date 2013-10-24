@@ -1,5 +1,4 @@
-Davisiella domingensis Petr. & Cif., 1932 SPECIES
-=======
+# Davisiella domingensis Petr. & Cif., 1932 SPECIES
 
 #### Status
 ACCEPTED

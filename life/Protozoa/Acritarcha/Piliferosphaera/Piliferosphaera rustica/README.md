@@ -1,5 +1,4 @@
-Piliferosphaera rustica (Martin, 1973) Martin, 1978 SPECIES
-=======
+# Piliferosphaera rustica (Martin, 1973) Martin, 1978 SPECIES
 
 #### Status
 ACCEPTED

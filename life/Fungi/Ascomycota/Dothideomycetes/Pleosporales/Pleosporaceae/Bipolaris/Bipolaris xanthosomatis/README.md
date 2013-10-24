@@ -1,5 +1,4 @@
-Bipolaris xanthosomatis B. Huguenin SPECIES
-=======
+# Bipolaris xanthosomatis B. Huguenin SPECIES
 
 #### Status
 ACCEPTED

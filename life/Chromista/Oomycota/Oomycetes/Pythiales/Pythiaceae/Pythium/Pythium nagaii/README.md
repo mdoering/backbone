@@ -1,17 +1,16 @@
-Pythium nagae S. Ito & Tokun. SPECIES
-=======
+# Pythium nagaii S. Ito & Tokun., 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Fac. agric. , Hokkaido Imp. Univ. Sapporo 32(5): 201-28 (1933)
 
 #### Original name
-Pythium nagae S. Ito & Tokun.
+Pythium nagaii S. Ito & Tokun., 1933
 
 ### Remarks
 null

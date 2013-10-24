@@ -1,5 +1,4 @@
-Leptosphaeria psilospora Auersw. SPECIES
-=======
+# Leptosphaeria psilospora Auersw. SPECIES
 
 #### Status
 ACCEPTED

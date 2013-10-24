@@ -1,5 +1,4 @@
-Cenangium pityum Fuckel SPECIES
-=======
+# Cenangium pityum Fuckel SPECIES
 
 #### Status
 ACCEPTED

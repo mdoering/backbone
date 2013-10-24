@@ -1,5 +1,4 @@
-Lecidea sociella var. sociella VARIETY
-=======
+# Lecidea sociella Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea sociella var. sociella
+Lecidea sociella Nyl.
 
 ### Remarks
 null

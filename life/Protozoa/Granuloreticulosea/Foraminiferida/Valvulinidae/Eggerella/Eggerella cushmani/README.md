@@ -1,5 +1,4 @@
-Eggerella cushmani (Weinzierl & Applin) SPECIES
-=======
+# Eggerella cushmani (Weinzierl & Applin) SPECIES
 
 #### Status
 ACCEPTED

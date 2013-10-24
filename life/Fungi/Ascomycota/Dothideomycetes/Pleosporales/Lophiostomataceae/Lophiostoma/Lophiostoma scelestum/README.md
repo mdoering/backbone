@@ -1,5 +1,4 @@
-Lophiostoma scelestum (Cooke & Ellis) Sacc. SPECIES
-=======
+# Lophiostoma scelestum (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

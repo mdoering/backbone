@@ -1,5 +1,4 @@
-Merulius aureolus (Cooke & Massee) Kuntze SPECIES
-=======
+# Merulius aureolus (Cooke & Massee) Kuntze SPECIES
 
 #### Status
 ACCEPTED

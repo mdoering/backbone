@@ -1,5 +1,4 @@
-Ramalina vulcanica (Mont.) Nyl. SPECIES
-=======
+# Ramalina vulcanica (Mont.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe xanthophylla Bon SPECIES
-=======
+# Inocybe xanthophylla Bon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula dadmunii Singer SPECIES
-=======
+# Russula dadmunii Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sagedia ferruginosa Eitner SPECIES
-=======
+# Sagedia ferruginosa Eitner SPECIES
 
 #### Status
 ACCEPTED

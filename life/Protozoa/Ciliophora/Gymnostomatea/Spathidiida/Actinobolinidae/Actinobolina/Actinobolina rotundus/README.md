@@ -1,5 +1,4 @@
-Actinobolina rotundus SPECIES
-=======
+# Actinobolina rotundus SPECIES
 
 #### Status
 ACCEPTED

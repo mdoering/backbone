@@ -1,5 +1,4 @@
-Stigmina cactivora (Petr. & Cif.) M.B. Ellis, 1963 SPECIES
-=======
+# Stigmina cactivora (Petr. & Cif.) M.B. Ellis, 1963 SPECIES
 
 #### Status
 ACCEPTED

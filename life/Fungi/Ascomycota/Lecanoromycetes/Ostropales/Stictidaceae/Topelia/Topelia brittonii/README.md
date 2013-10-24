@@ -1,14 +1,13 @@
-Microglaena brittonii Riddle SPECIES
-=======
+# Topelia brittonii (Riddle) H. Mayrhofer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 26: 85 (1987)
 
 #### Original name
 Microglaena brittonii Riddle

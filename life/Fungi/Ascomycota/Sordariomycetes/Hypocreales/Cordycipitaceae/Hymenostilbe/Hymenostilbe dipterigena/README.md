@@ -1,5 +1,4 @@
-Hymenostilbe dipterigena Petch SPECIES
-=======
+# Hymenostilbe dipterigena Petch SPECIES
 
 #### Status
 ACCEPTED

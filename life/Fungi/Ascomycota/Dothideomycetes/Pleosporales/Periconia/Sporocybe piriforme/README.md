@@ -1,5 +1,4 @@
-Sporocybe piriforme Goid. SPECIES
-=======
+# Sporocybe piriforme Goid. SPECIES
 
 #### Status
 ACCEPTED

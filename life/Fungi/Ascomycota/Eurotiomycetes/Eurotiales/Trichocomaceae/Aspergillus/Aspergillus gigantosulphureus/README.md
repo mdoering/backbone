@@ -1,5 +1,4 @@
-Aspergillus gigantosulphureus Saito SPECIES
-=======
+# Aspergillus gigantosulphureus Saito SPECIES
 
 #### Status
 ACCEPTED

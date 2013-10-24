@@ -1,17 +1,16 @@
-Lepiota micropholis var. micropholis VARIETY
-=======
+# Lepiota micropholis (Berk. & Broome) Sacc., 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syll. fung. (Abellini) 5: 61 (1887)
 
 #### Original name
-Lepiota micropholis var. micropholis
+Agaricus micropholis Berk. & Broome, 1871
 
 ### Remarks
 null

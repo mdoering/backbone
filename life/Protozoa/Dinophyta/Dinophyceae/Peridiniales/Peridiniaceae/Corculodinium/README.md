@@ -1,5 +1,4 @@
-Corculodinium Batten & Lister, 1988 GENUS
-=======
+# Corculodinium Batten & Lister, 1988 GENUS
 
 #### Status
 ACCEPTED

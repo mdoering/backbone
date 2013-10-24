@@ -1,5 +1,4 @@
-Cistella amenticola Matheis SPECIES
-=======
+# Cistella amenticola Matheis SPECIES
 
 #### Status
 ACCEPTED

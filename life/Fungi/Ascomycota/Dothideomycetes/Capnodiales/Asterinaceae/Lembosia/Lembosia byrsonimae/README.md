@@ -1,5 +1,4 @@
-Lembosia byrsonimae Henn., 1904 SPECIES
-=======
+# Lembosia byrsonimae Henn., 1904 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urceolaria fritillina Bory SPECIES
-=======
+# Urceolaria fritillina Bory SPECIES
 
 #### Status
 ACCEPTED

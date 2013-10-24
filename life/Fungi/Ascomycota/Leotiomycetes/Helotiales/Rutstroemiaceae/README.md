@@ -1,5 +1,4 @@
-Rutstroemiaceae Holst-Jensen, L.M. Kohn & T. Schumach. FAMILY
-=======
+# Rutstroemiaceae Holst-Jensen, L.M. Kohn & T. Schumach. FAMILY
 
 #### Status
 ACCEPTED

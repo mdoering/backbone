@@ -1,5 +1,4 @@
-Psathyrella subdisseminata Speg. SPECIES
-=======
+# Psathyrella subdisseminata Speg. SPECIES
 
 #### Status
 ACCEPTED

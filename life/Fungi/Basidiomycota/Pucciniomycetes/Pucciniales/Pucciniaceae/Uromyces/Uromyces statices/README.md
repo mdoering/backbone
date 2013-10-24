@@ -1,5 +1,4 @@
-Uromyces statices Berk. & M.A. Curtis SPECIES
-=======
+# Uromyces statices Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

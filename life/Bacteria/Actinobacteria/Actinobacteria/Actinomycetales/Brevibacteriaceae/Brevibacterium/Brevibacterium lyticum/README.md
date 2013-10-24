@@ -1,5 +1,4 @@
-Brevibacterium lyticum Takayama et al., 1960 (Approved Lists, 1980) SPECIES
-=======
+# Brevibacterium lyticum Takayama et al., 1960 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

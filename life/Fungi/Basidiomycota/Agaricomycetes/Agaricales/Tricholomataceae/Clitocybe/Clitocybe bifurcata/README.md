@@ -1,5 +1,4 @@
-Clitocybe bifurcata var. bifurcata VARIETY
-=======
+# Clitocybe bifurcata Weinm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Clitocybe bifurcata var. bifurcata
+Clitocybe bifurcata Weinm.
 
 ### Remarks
 null

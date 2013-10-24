@@ -1,5 +1,4 @@
-Otthia brunaudiana Sacc. SPECIES
-=======
+# Otthia brunaudiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

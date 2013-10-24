@@ -1,5 +1,4 @@
-Sorosporium desmodii Peck SPECIES
-=======
+# Sorosporium desmodii Peck SPECIES
 
 #### Status
 ACCEPTED

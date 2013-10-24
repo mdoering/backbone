@@ -1,5 +1,4 @@
-Porina basilica (Kremp.) Zahlbr. SPECIES
-=======
+# Porina basilica (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

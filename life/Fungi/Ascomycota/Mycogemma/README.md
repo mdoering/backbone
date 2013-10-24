@@ -1,5 +1,4 @@
-Mycogemma K.M. Zalessky GENUS
-=======
+# Mycogemma K.M. Zalessky GENUS
 
 #### Status
 ACCEPTED

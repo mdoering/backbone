@@ -1,5 +1,4 @@
-Aspicilia griseocinerea Räsänen SPECIES
-=======
+# Aspicilia griseocinerea Räsänen SPECIES
 
 #### Status
 ACCEPTED

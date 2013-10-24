@@ -1,5 +1,4 @@
-Coleosporium arizonicum Cummins SPECIES
-=======
+# Coleosporium arizonicum Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Mytilidion thujarum (Cooke & Peck) M.L. Lohman SPECIES
-=======
+# Mytilinidion thujarum (Cooke & Peck) M.L. Lohman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Pap. Mich. Acad. Sci. 17: 33 (1933)
 
 #### Original name
 Hysterium thujarum Cooke & Peck

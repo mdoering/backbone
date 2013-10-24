@@ -1,5 +1,4 @@
-Cortinarius badioflammescens Rob. Henry SPECIES
-=======
+# Cortinarius badioflammescens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

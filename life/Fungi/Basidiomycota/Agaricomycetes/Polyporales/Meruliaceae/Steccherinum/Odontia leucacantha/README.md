@@ -1,5 +1,4 @@
-Odontia leucacantha Pat. SPECIES
-=======
+# Odontia leucacantha Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudoruegeria aquimaris Yoon, Lee, Kang, Lee & Oh, 2007 SPECIES
-=======
+# Pseudoruegeria aquimaris Yoon, Lee, Kang, Lee & Oh, 2007 SPECIES
 
 #### Status
 ACCEPTED

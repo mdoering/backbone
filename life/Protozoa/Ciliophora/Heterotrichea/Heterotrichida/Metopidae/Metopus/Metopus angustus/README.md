@@ -1,5 +1,4 @@
-Metopus angustus Kahl, 1927 SPECIES
-=======
+# Metopus angustus Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

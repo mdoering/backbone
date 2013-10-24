@@ -1,5 +1,4 @@
-Sporoblastia intermiata SPECIES
-=======
+# Sporoblastia intermiata SPECIES
 
 #### Status
 ACCEPTED

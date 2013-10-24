@@ -1,5 +1,4 @@
-Collybia steinmannii (Raithelh.) Raithelh. SPECIES
-=======
+# Collybia steinmannii (Raithelh.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

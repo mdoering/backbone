@@ -1,5 +1,4 @@
-Gymnomyces luteolus (Harkn.) Trappe, T. Lebel & Castellano, 2002 SPECIES
-=======
+# Gymnomyces luteolus (Harkn.) Trappe, T. Lebel & Castellano, 2002 SPECIES
 
 #### Status
 ACCEPTED

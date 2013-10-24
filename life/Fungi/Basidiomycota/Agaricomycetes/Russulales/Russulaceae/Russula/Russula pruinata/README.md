@@ -1,5 +1,4 @@
-Russula pruinata Buyck SPECIES
-=======
+# Russula pruinata Buyck SPECIES
 
 #### Status
 ACCEPTED

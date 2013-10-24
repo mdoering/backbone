@@ -1,5 +1,4 @@
-Thalassiphora pansa Stover, 1977 SPECIES
-=======
+# Thalassiphora pansa Stover, 1977 SPECIES
 
 #### Status
 ACCEPTED

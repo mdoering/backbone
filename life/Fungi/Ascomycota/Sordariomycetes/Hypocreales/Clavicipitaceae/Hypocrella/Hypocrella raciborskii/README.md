@@ -1,5 +1,4 @@
-Hypocrella raciborskii Zimm. SPECIES
-=======
+# Hypocrella raciborskii Zimm. SPECIES
 
 #### Status
 ACCEPTED

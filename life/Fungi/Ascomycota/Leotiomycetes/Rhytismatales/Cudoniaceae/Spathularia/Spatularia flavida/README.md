@@ -1,5 +1,4 @@
-Spatularia flavida Persoon Ex Fries SPECIES
-=======
+# Spatularia flavida Persoon Ex Fries SPECIES
 
 #### Status
 DOUBTFUL

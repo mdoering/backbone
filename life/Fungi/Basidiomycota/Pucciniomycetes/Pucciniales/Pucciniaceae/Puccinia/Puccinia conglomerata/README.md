@@ -1,5 +1,4 @@
-Puccinia conglomerata G. Winter SPECIES
-=======
+# Puccinia conglomerata G. Winter SPECIES
 
 #### Status
 ACCEPTED

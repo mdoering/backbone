@@ -1,5 +1,4 @@
-Hypochnus strigosus (Pers.) Wallr. SPECIES
-=======
+# Hypochnus strigosus (Pers.) Wallr. SPECIES
 
 #### Status
 ACCEPTED

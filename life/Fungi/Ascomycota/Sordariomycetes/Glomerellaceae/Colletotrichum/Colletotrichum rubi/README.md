@@ -1,5 +1,4 @@
-Colletotrichum rubi Dias & Sousa da Câmara SPECIES
-=======
+# Colletotrichum rubi Dias & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

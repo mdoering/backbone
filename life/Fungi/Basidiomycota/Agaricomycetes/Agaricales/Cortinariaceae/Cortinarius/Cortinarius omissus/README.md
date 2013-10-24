@@ -1,5 +1,4 @@
-Cortinarius omissus Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius omissus Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

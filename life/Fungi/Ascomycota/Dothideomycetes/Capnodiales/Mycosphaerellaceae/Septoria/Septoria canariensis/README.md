@@ -1,5 +1,4 @@
-Septoria canariensis Vanev & Sameva SPECIES
-=======
+# Septoria canariensis Vanev & Sameva SPECIES
 
 #### Status
 ACCEPTED

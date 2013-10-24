@@ -1,5 +1,4 @@
-Trichogromia Haeckel, 1887 GENUS
-=======
+# Trichogromia Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

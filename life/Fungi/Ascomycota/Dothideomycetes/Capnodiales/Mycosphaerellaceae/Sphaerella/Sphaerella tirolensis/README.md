@@ -1,5 +1,4 @@
-Sphaerella tirolensis Auersw. SPECIES
-=======
+# Sphaerella tirolensis Auersw. SPECIES
 
 #### Status
 ACCEPTED

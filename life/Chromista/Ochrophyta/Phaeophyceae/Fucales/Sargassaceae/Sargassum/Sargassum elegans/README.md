@@ -1,5 +1,4 @@
-Sargassum elegans var. ludwigii Grunow VARIETY
-=======
+# Sargassum elegans Suhr SPECIES
 
 #### Status
 ACCEPTED

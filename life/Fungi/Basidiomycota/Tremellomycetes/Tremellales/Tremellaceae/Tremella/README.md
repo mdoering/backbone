@@ -1,17 +1,16 @@
-Encephalium Link GENUS
-=======
+# Tremella Persoon ex Saint Amans, 1821 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Magazin Ges. naturf. Freunde, Berlin 7: 3 (1816)
+Neues Mag. Bot. 1: 111 (1794)
 
 #### Original name
-Encephalium Link
+Tremella Persoon ex Saint Amans, 1821
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Rhizophydium angulosum Karling SPECIES
-=======
+# Rhizophydium angulosum Karling SPECIES
 
 #### Status
 ACCEPTED

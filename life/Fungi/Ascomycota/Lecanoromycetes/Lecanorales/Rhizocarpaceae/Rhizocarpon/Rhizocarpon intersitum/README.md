@@ -1,5 +1,4 @@
-Rhizocarpon intersitum f. intersitum FORM
-=======
+# Rhizocarpon intersitum Arnold SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhizocarpon intersitum f. intersitum
+Rhizocarpon intersitum Arnold
 
 ### Remarks
 null

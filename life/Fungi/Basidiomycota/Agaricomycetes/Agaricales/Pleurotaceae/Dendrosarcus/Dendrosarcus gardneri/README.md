@@ -1,5 +1,4 @@
-Dendrosarcus gardneri (Berk.) Kuntze SPECIES
-=======
+# Dendrosarcus gardneri (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

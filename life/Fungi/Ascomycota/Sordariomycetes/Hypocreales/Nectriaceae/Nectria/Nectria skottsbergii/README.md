@@ -1,5 +1,4 @@
-Nectria skottsbergii Weese SPECIES
-=======
+# Nectria skottsbergii Weese SPECIES
 
 #### Status
 ACCEPTED

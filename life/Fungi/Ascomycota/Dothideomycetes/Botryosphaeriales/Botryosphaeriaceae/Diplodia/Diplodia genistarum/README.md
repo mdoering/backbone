@@ -1,5 +1,4 @@
-Diplodia genistarum Cooke SPECIES
-=======
+# Diplodia genistarum Cooke SPECIES
 
 #### Status
 ACCEPTED

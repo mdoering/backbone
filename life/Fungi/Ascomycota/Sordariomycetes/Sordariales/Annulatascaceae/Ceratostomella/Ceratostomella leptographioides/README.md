@@ -1,5 +1,4 @@
-Ceratostomella leptographioides R.W. Davidson SPECIES
-=======
+# Ceratostomella leptographioides R.W. Davidson SPECIES
 
 #### Status
 ACCEPTED

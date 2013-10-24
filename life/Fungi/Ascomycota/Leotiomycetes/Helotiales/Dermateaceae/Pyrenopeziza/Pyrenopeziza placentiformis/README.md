@@ -1,5 +1,4 @@
-Pyrenopeziza placentiformis (Niessl) Rehm SPECIES
-=======
+# Pyrenopeziza placentiformis (Niessl) Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Heteropatella lacera f. umbilicata (Pers.) Sacc. FORM
-=======
+# Heteropatella umbilicata (Pers.) Sacc., 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Sphaeria umbilicata Pers., 1801
 
 ### Remarks
 null

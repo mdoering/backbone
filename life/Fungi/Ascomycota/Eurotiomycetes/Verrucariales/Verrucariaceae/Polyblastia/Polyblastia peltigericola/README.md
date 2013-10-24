@@ -1,5 +1,4 @@
-Polyblastia peltigericola (Nyl.) H. Olivier SPECIES
-=======
+# Polyblastia peltigericola (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

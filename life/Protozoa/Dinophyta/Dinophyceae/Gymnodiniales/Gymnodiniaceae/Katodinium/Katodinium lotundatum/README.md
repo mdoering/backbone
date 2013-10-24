@@ -1,5 +1,4 @@
-Katodinium lotundatum SPECIES
-=======
+# Katodinium lotundatum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis multisulcata (Müll. Arg.) Lücking & Chaves SPECIES
-=======
+# Graphis multisulcata (Müll. Arg.) Lücking & Chaves SPECIES
 
 #### Status
 ACCEPTED

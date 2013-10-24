@@ -1,5 +1,4 @@
-Catellibacterium nectariphilum Tanaka et al., 2004 SPECIES
-=======
+# Catellibacterium nectariphilum Tanaka et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

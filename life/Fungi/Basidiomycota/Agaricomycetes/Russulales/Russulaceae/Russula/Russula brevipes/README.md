@@ -1,5 +1,4 @@
-Russula brevipes Peck SPECIES
-=======
+# Russula brevipes Peck SPECIES
 
 #### Status
 ACCEPTED

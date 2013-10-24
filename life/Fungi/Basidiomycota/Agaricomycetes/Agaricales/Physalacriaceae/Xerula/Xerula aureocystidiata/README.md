@@ -1,5 +1,4 @@
-Xerula aureocystidiata R.H. Petersen & Nagas. SPECIES
-=======
+# Xerula aureocystidiata R.H. Petersen & Nagas. SPECIES
 
 #### Status
 ACCEPTED

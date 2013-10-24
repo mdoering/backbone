@@ -1,5 +1,4 @@
-Puccinia anatolica Gassner SPECIES
-=======
+# Puccinia anatolica Gassner SPECIES
 
 #### Status
 ACCEPTED

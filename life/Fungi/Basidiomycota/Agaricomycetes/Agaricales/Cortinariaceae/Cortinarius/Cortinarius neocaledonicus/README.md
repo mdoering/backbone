@@ -1,5 +1,4 @@
-Cortinarius neocaledonicus E. Horak SPECIES
-=======
+# Cortinarius neocaledonicus E. Horak SPECIES
 
 #### Status
 ACCEPTED

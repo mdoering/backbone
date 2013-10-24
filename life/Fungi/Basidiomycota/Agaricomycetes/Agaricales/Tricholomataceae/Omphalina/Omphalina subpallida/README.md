@@ -1,5 +1,4 @@
-Omphalina subpallida (Singer) Raithelh. SPECIES
-=======
+# Omphalina subpallida (Singer) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

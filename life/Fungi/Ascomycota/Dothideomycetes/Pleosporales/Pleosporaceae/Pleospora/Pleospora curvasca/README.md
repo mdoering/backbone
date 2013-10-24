@@ -1,5 +1,4 @@
-Pleospora curvasca Bubák SPECIES
-=======
+# Pleospora curvasca Bubák SPECIES
 
 #### Status
 ACCEPTED

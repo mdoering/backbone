@@ -1,17 +1,16 @@
-Boletus splendidus subsp. splendidus C. Martín SUBSPECIES
-=======
+# Boletus legaliae Pilát, 1968 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. bot. Genève, 2 sér. 7: 190 (1894)
+Revue Mycol. , Paris 33: 124 (1968)
 
 #### Original name
-Boletus splendidus subsp. splendidus C. Martín
+Boletus legaliae Pilát, 1968
 
 ### Remarks
 null

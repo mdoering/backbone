@@ -1,5 +1,4 @@
-Verrucaria grisea Pers. SPECIES
-=======
+# Verrucaria grisea Pers. SPECIES
 
 #### Status
 ACCEPTED

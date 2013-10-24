@@ -1,5 +1,4 @@
-Phomopsis stellariae (Kirchn.) Petr., 1921 SPECIES
-=======
+# Phomopsis stellariae (Kirchn.) Petr., 1921 SPECIES
 
 #### Status
 ACCEPTED

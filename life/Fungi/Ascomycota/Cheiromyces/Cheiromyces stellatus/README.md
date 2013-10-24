@@ -1,5 +1,4 @@
-Cheiromyces stellatus Berk. & M.A. Curtis, 1875 SPECIES
-=======
+# Cheiromyces stellatus Berk. & M.A. Curtis, 1875 SPECIES
 
 #### Status
 ACCEPTED

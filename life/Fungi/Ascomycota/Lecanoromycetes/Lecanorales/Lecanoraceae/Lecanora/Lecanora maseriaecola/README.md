@@ -1,5 +1,4 @@
-Lecanora maseriaecola B. de Lesd. SPECIES
-=======
+# Lecanora maseriaecola B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

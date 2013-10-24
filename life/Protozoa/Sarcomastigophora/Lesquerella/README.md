@@ -1,5 +1,4 @@
-Lesquerella Chardez & Thomas, 1980 GENUS
-=======
+# Lesquerella Chardez & Thomas, 1980 GENUS
 
 #### Status
 ACCEPTED

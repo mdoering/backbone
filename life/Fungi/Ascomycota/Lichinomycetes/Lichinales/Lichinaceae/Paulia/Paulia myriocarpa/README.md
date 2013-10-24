@@ -1,5 +1,4 @@
-Paulia myriocarpa (Zahlbr.) Henssen SPECIES
-=======
+# Paulia myriocarpa (Zahlbr.) Henssen SPECIES
 
 #### Status
 ACCEPTED

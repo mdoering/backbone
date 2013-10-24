@@ -1,5 +1,4 @@
-Lecanora similis (A. Massal.) Nyl. SPECIES
-=======
+# Lecanora similis (A. Massal.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

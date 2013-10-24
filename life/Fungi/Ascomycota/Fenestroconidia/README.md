@@ -1,5 +1,4 @@
-Fenestroconidia Calat. & Etayo GENUS
-=======
+# Fenestroconidia Calat. & Etayo GENUS
 
 #### Status
 ACCEPTED

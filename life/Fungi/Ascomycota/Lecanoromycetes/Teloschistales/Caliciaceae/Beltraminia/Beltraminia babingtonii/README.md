@@ -1,8 +1,7 @@
-Beltraminia babingtoni (Hook. f. & Taylor) C.W. Dodge SPECIES
-=======
+# Beltraminia babingtonii (Hook. f. & Taylor) C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

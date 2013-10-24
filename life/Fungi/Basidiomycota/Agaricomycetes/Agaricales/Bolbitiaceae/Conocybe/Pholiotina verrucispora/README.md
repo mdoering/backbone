@@ -1,5 +1,4 @@
-Pholiotina verrucispora Singer SPECIES
-=======
+# Pholiotina verrucispora Singer SPECIES
 
 #### Status
 ACCEPTED

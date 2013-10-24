@@ -1,5 +1,4 @@
-Tilletia mixta Massee SPECIES
-=======
+# Tilletia mixta Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calopadia isidiosa Kalb & Vezda SPECIES
-=======
+# Calopadia isidiosa Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

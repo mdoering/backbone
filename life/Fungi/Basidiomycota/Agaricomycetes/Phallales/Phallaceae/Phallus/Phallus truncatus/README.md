@@ -1,5 +1,4 @@
-Phallus truncatus Berk. SPECIES
-=======
+# Phallus truncatus Berk. SPECIES
 
 #### Status
 ACCEPTED

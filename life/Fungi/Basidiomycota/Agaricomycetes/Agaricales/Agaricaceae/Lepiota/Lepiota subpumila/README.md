@@ -1,5 +1,4 @@
-Lepiota subpumila Murrill SPECIES
-=======
+# Lepiota subpumila Murrill SPECIES
 
 #### Status
 ACCEPTED

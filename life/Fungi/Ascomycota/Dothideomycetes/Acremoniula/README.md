@@ -1,5 +1,4 @@
-Acremoniula G. Arnaud, 1954 GENUS
-=======
+# Acremoniula G. Arnaud, 1954 GENUS
 
 #### Status
 ACCEPTED

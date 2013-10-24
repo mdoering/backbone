@@ -1,14 +1,13 @@
-Helotium rufocorneum Berk. & Broome, 1875 SPECIES
-=======
+# Dicephalospora rufocornea (Berk. & Broome) Spooner, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 14(2): 108 (1875)
+Biblthca Mycol. 116: 272 (1987)
 
 #### Original name
 Helotium rufocorneum Berk. & Broome, 1875

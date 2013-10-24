@@ -1,5 +1,4 @@
-Leptosphaeria brunellae Ellis & Everh. SPECIES
-=======
+# Leptosphaeria brunellae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

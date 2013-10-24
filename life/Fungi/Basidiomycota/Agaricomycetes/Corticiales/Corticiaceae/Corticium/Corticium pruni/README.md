@@ -1,5 +1,4 @@
-Corticium pruni Overh. SPECIES
-=======
+# Corticium pruni Overh. SPECIES
 
 #### Status
 ACCEPTED

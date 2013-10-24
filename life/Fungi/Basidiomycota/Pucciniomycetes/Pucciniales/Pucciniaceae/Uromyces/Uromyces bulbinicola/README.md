@@ -1,5 +1,4 @@
-Uromyces bulbinicola Doidge SPECIES
-=======
+# Uromyces bulbinicola Doidge SPECIES
 
 #### Status
 ACCEPTED

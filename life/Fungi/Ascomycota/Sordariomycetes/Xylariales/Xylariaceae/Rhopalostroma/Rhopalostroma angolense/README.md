@@ -1,17 +1,16 @@
-Rhopalopsis angolense (Welw. & Curr.) Cooke, 1884 SPECIES
-=======
+# Rhopalostroma angolense (Welw. & Curr.) D. Hawksw., 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kew Bull. 31(3): 424 (1977)
 
 #### Original name
-null
+Hypoxylon angolense Welw. & Curr., 1867
 
 ### Remarks
 null

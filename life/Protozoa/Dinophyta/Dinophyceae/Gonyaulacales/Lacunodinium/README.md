@@ -1,5 +1,4 @@
-Lacunodinium He, 1984 GENUS
-=======
+# Lacunodinium He, 1984 GENUS
 
 #### Status
 ACCEPTED

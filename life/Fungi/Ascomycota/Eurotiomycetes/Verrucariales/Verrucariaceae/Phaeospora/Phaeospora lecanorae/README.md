@@ -1,5 +1,4 @@
-Phaeospora lecanorae Eitner SPECIES
-=======
+# Phaeospora lecanorae Eitner SPECIES
 
 #### Status
 ACCEPTED

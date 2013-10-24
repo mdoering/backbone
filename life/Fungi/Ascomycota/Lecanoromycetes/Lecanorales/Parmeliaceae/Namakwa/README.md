@@ -1,5 +1,4 @@
-Namakwa Hale GENUS
-=======
+# Namakwa Hale GENUS
 
 #### Status
 ACCEPTED

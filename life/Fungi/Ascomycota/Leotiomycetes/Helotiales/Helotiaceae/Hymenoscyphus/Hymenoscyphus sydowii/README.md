@@ -1,5 +1,4 @@
-Hymenoscyphus sydowii (Rehm) V.P. Tewari & K.B. Khare SPECIES
-=======
+# Hymenoscyphus sydowii (Rehm) V.P. Tewari & K.B. Khare SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bertia haloxyli Kravtzev SPECIES
-=======
+# Bertia haloxyli Kravtzev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratium gracile SPECIES
-=======
+# Ceratium gracile SPECIES
 
 #### Status
 ACCEPTED

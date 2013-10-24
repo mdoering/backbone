@@ -1,5 +1,4 @@
-Stigmina parrotiae (S. Ahmad) B. Sutton SPECIES
-=======
+# Stigmina parrotiae (S. Ahmad) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

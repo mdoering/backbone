@@ -1,5 +1,4 @@
-Fragilaria lancettula Schumann SPECIES
-=======
+# Fragilaria lancettula Schumann SPECIES
 
 #### Status
 ACCEPTED

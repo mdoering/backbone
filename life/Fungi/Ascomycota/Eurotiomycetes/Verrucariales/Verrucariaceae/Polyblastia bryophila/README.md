@@ -1,5 +1,4 @@
-Polyblastia bryophila Lönnr. SPECIES
-=======
+# Polyblastia bryophila Lönnr. SPECIES
 
 #### Status
 ACCEPTED

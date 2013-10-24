@@ -1,5 +1,4 @@
-Gyalectidium paolae Herrera-Camp. & Lücking SPECIES
-=======
+# Gyalectidium paolae Herrera-Camp. & Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria nana T.S. Matvejeva SPECIES
-=======
+# Alternaria nana T.S. Matvejeva SPECIES
 
 #### Status
 ACCEPTED

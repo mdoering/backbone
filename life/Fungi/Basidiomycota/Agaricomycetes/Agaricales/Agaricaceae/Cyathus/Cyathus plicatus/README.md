@@ -1,5 +1,4 @@
-Cyathus plicatus (Fr.) Tul. SPECIES
-=======
+# Cyathus plicatus (Fr.) Tul. SPECIES
 
 #### Status
 ACCEPTED

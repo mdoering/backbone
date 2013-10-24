@@ -1,5 +1,4 @@
-Septoria ludwigii (Syd.) Petr. SPECIES
-=======
+# Septoria ludwigii (Syd.) Petr. SPECIES
 
 #### Status
 ACCEPTED

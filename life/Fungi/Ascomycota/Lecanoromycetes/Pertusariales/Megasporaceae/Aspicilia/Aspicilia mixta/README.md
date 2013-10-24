@@ -1,5 +1,4 @@
-Aspicilia mixta Eitner SPECIES
-=======
+# Aspicilia mixta Eitner SPECIES
 
 #### Status
 ACCEPTED

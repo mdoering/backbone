@@ -1,5 +1,4 @@
-Pholiota vinaceobrunnea A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota vinaceobrunnea A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

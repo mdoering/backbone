@@ -1,5 +1,4 @@
-Leptothyrium rouriae Bat. & I.H. Lima SPECIES
-=======
+# Leptothyrium rouriae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

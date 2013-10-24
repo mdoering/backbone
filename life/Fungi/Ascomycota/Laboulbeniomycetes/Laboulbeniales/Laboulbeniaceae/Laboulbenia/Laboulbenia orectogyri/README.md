@@ -1,5 +1,4 @@
-Laboulbenia orectogyri (Thaxt.) Thaxt. SPECIES
-=======
+# Laboulbenia orectogyri (Thaxt.) Thaxt. SPECIES
 
 #### Status
 ACCEPTED

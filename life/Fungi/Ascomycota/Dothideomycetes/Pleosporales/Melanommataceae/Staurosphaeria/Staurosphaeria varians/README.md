@@ -1,5 +1,4 @@
-Staurosphaeria varians (Hazsl.) Niessl SPECIES
-=======
+# Staurosphaeria varians (Hazsl.) Niessl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Obstipispora R.C. Sinclair & Morgan-Jones GENUS
-=======
+# Obstipispora R.C. Sinclair & Morgan-Jones GENUS
 
 #### Status
 ACCEPTED

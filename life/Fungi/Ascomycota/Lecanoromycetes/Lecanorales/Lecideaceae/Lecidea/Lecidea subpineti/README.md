@@ -1,5 +1,4 @@
-Lecidea subpineti Kremp. SPECIES
-=======
+# Lecidea subpineti Kremp. SPECIES
 
 #### Status
 ACCEPTED

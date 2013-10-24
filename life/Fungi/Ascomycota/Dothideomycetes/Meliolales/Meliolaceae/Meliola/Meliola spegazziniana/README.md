@@ -1,5 +1,4 @@
-Meliola spegazziniana G. Winter SPECIES
-=======
+# Meliola spegazziniana G. Winter SPECIES
 
 #### Status
 ACCEPTED

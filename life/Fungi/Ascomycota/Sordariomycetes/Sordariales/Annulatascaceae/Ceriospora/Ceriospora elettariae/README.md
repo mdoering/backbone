@@ -1,5 +1,4 @@
-Ceriospora elettariae Ponnappa & C.G. Shaw SPECIES
-=======
+# Ceriospora elettariae Ponnappa & C.G. Shaw SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sorosporium versatile (Syd. & P. Syd.) Zundel SPECIES
-=======
+# Sorosporium versatile (Syd. & P. Syd.) Zundel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Jullienella Schlumberger, 1890 GENUS
-=======
+# Jullienella Schlumberger, 1890 GENUS
 
 #### Status
 ACCEPTED

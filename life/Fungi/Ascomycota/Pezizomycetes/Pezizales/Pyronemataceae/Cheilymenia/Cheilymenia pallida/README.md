@@ -1,5 +1,4 @@
-Cheilymenia pallida A.E. Bell & Dennis, 1971 SPECIES
-=======
+# Cheilymenia pallida A.E. Bell & Dennis, 1971 SPECIES
 
 #### Status
 ACCEPTED

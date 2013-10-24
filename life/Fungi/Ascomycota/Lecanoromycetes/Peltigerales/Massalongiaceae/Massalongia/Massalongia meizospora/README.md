@@ -1,5 +1,4 @@
-Massalongia meizospora (Harm.) Gyeln. SPECIES
-=======
+# Massalongia meizospora (Harm.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

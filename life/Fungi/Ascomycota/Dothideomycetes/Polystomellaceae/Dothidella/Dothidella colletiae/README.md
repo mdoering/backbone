@@ -1,5 +1,4 @@
-Dothidella colletiae (Henn. & Lind) Theiss. & Syd. SPECIES
-=======
+# Dothidella colletiae (Henn. & Lind) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

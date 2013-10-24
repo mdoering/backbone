@@ -1,5 +1,4 @@
-Anaptychia bryorum Poelt SPECIES
-=======
+# Anaptychia bryorum Poelt SPECIES
 
 #### Status
 ACCEPTED

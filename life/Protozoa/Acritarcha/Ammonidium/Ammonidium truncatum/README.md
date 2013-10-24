@@ -1,5 +1,4 @@
-Ammonidium truncatum (Staplin, 1961) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Ammonidium truncatum (Staplin, 1961) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

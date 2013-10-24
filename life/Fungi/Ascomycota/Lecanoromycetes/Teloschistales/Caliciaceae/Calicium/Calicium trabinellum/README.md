@@ -1,11 +1,10 @@
-Calicium trabinellum f. trabinellum FORM
-=======
+# Calicium trabinellum (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Lich. univ. 629 (1803)

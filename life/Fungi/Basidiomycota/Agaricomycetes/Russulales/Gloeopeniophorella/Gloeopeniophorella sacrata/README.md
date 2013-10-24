@@ -1,14 +1,13 @@
-Gloeocystidiellum sacratum (G. Cunn.) Stalpers & P.K. Buchanan, 1991 SPECIES
-=======
+# Gloeopeniophorella sacrata (G. Cunn.) Hjortstam & Ryvarden, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Z. Jl Bot. 29(3): 336 (1991)
+Syn. Fung. (Oslo) 23: 72 (2007)
 
 #### Original name
 Peniophora sacrata G. Cunn., 1955

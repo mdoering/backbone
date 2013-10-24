@@ -1,5 +1,4 @@
-Inocybe chondrospora Einhell. & Stangl SPECIES
-=======
+# Inocybe chondrospora Einhell. & Stangl SPECIES
 
 #### Status
 ACCEPTED

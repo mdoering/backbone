@@ -1,5 +1,4 @@
-Microsphaera robiniae F.L. Tai SPECIES
-=======
+# Microsphaera robiniae F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

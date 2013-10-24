@@ -1,14 +1,13 @@
-Stomodinium He, 1984 GENUS
-=======
+# Xenicodinium Klement, 1960 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Palaeont. Sin. 23 (6): 774.
+Palaeontographica (A) 114: 53.
 
 #### Original name
 null

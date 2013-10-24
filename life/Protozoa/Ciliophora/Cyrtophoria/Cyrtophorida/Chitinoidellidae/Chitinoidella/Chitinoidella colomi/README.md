@@ -1,5 +1,4 @@
-Chitinoidella colomi Borza, 1966 SPECIES
-=======
+# Chitinoidella colomi Borza, 1966 SPECIES
 
 #### Status
 ACCEPTED

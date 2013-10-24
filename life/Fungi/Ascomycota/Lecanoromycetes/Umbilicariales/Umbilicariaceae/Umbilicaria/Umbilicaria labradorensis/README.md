@@ -1,5 +1,4 @@
-Umbilicaria labradorensis Hulting SPECIES
-=======
+# Umbilicaria labradorensis Hulting SPECIES
 
 #### Status
 ACCEPTED

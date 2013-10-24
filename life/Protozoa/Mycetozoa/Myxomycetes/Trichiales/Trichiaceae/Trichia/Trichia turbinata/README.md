@@ -1,5 +1,4 @@
-Trichia turbinata Purton SPECIES
-=======
+# Trichia turbinata Purton SPECIES
 
 #### Status
 ACCEPTED

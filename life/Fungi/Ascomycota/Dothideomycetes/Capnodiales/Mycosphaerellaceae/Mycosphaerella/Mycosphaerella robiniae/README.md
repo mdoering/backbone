@@ -1,5 +1,4 @@
-Mycosphaerella robiniae Siemaszko SPECIES
-=======
+# Mycosphaerella robiniae Siemaszko SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Leucoagaricus croceovelutinus var. diversisporus (D.A. Reid) VARIETY
-=======
+# Leucoagaricus croceovelutinus Bon, 1976 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Docums Mycol. 6(no. 24): 45 (1976)
 
 #### Original name
-Leucocoprinus croceovelutinus var. diversisporus D.A. Reid, 1990
+Leucoagaricus croceovelutinus Bon, 1976
 
 ### Remarks
 null

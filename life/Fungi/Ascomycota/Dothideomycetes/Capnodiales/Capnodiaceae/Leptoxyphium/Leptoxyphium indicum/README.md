@@ -1,5 +1,4 @@
-Leptoxyphium indicum Bat. & Cif. SPECIES
-=======
+# Leptoxyphium indicum Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe unicolor Peck SPECIES
-=======
+# Psilocybe unicolor Peck SPECIES
 
 #### Status
 ACCEPTED

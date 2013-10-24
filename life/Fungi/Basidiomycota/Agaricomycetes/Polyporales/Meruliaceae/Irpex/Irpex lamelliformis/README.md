@@ -1,5 +1,4 @@
-Irpex lamelliformis Umemura SPECIES
-=======
+# Irpex lamelliformis Umemura SPECIES
 
 #### Status
 ACCEPTED

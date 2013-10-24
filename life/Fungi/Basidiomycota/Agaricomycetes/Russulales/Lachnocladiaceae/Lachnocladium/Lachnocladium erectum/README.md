@@ -1,5 +1,4 @@
-Lachnocladium erectum Burt SPECIES
-=======
+# Lachnocladium erectum Burt SPECIES
 
 #### Status
 ACCEPTED

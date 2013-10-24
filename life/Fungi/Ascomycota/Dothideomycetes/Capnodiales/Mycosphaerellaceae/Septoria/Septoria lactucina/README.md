@@ -1,5 +1,4 @@
-Septoria lactucina Petr. SPECIES
-=======
+# Septoria lactucina Petr. SPECIES
 
 #### Status
 ACCEPTED

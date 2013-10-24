@@ -1,5 +1,4 @@
-Henningsomyces separatus Gilb. & Hemmes, 2001 SPECIES
-=======
+# Henningsomyces separatus Gilb. & Hemmes, 2001 SPECIES
 
 #### Status
 ACCEPTED

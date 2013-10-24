@@ -1,5 +1,4 @@
-Rhodocybe gibbosa E. Horak SPECIES
-=======
+# Rhodocybe gibbosa E. Horak SPECIES
 
 #### Status
 ACCEPTED

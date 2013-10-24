@@ -1,5 +1,4 @@
-Rhodobacter azotoformans Hiraishi et al., 1997 SPECIES
-=======
+# Rhodobacter azotoformans Hiraishi et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Proactinomyces restrictus Turfitt SPECIES
-=======
+# Proactinomyces restrictus Turfitt SPECIES
 
 #### Status
 ACCEPTED

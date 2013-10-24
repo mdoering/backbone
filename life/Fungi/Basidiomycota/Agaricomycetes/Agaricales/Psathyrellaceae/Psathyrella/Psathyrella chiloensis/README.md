@@ -1,5 +1,4 @@
-Psathyrella chiloensis Singer SPECIES
-=======
+# Psathyrella chiloensis Singer SPECIES
 
 #### Status
 ACCEPTED

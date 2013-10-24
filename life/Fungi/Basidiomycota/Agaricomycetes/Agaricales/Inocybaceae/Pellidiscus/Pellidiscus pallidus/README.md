@@ -1,17 +1,16 @@
-Cyphella bloxamii var. bloxamii VARIETY
-=======
+# Pellidiscus pallidus (Berk. & Broome) Donk, 1959 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 5 7: 129 (1881)
+Persoonia 1(1): 90 (1959)
 
 #### Original name
-Cyphella bloxamii var. bloxamii
+Cyphella pallida Berk. & Broome, 1873
 
 ### Remarks
 null

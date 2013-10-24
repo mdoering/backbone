@@ -1,5 +1,4 @@
-Desulfovibrio vietnamensis Dang et al., 2002 SPECIES
-=======
+# Desulfovibrio vietnamensis Dang et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

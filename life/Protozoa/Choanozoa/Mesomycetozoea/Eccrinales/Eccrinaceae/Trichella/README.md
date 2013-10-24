@@ -1,5 +1,4 @@
-Trichella GENUS
-=======
+# Trichella GENUS
 
 #### Status
 ACCEPTED

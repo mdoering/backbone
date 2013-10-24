@@ -1,5 +1,4 @@
-Pyronema marianum Carus, 1835 SPECIES
-=======
+# Pyronema marianum Carus, 1835 SPECIES
 
 #### Status
 ACCEPTED

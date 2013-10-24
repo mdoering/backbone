@@ -1,5 +1,4 @@
-Leptostroma sequoiae Cooke & Harkn. SPECIES
-=======
+# Leptostroma sequoiae Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

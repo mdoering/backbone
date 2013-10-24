@@ -1,5 +1,4 @@
-Dicaeoma rostratum (Cooke) Kuntze SPECIES
-=======
+# Dicaeoma rostratum (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

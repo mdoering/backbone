@@ -1,5 +1,4 @@
-Polysaccum pusillum Har. & Pat. SPECIES
-=======
+# Polysaccum pusillum Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

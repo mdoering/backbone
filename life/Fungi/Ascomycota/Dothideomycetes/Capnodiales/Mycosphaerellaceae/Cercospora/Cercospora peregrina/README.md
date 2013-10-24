@@ -1,5 +1,4 @@
-Cercospora peregrina Chupp SPECIES
-=======
+# Cercospora peregrina Chupp SPECIES
 
 #### Status
 ACCEPTED

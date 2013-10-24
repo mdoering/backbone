@@ -1,5 +1,4 @@
-Fusidium peronosporae Fautrey & Lambotte SPECIES
-=======
+# Fusidium peronosporae Fautrey & Lambotte SPECIES
 
 #### Status
 ACCEPTED

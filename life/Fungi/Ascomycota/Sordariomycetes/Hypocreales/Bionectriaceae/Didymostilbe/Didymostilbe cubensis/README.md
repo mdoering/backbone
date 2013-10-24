@@ -1,5 +1,4 @@
-Didymostilbe cubensis G.R.W. Arnold & R.F. Castañeda SPECIES
-=======
+# Didymostilbe cubensis G.R.W. Arnold & R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

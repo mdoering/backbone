@@ -1,17 +1,16 @@
-Mycosphaerella linicola var. linicola VARIETY
-=======
+# Mycosphaerella linicola Naumov, 1926 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Materials for Mycology & Phyt. 5: 2 (1926)
 
 #### Original name
-Mycosphaerella linicola var. linicola
+Mycosphaerella linicola Naumov, 1926
 
 ### Remarks
 null

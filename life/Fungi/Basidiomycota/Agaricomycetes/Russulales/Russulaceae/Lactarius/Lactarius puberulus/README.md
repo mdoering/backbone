@@ -1,5 +1,4 @@
-Lactarius puberulus H.A. Wen & J.Z. Ying SPECIES
-=======
+# Lactarius puberulus H.A. Wen & J.Z. Ying SPECIES
 
 #### Status
 ACCEPTED

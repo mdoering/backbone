@@ -1,8 +1,7 @@
-Poteriochromonas malhamensis (E.G. Pringsh.) L.S. Péterfi, 1969 SPECIES
-=======
+# Poterioochromonas malhamensis (E.G. Pringsh.) L.S. Péterfi, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

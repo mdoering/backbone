@@ -1,5 +1,4 @@
-Mycothyridium platense (Speg.) Petr. SPECIES
-=======
+# Mycothyridium platense (Speg.) Petr. SPECIES
 
 #### Status
 ACCEPTED

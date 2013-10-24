@@ -1,5 +1,4 @@
-Leptorhaphis chlorospila (Nyl.) Boistel SPECIES
-=======
+# Leptorhaphis chlorospila (Nyl.) Boistel SPECIES
 
 #### Status
 ACCEPTED

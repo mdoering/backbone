@@ -1,5 +1,4 @@
-Propionigenium maris Janssen & Liesack, 1996 SPECIES
-=======
+# Propionigenium maris Janssen & Liesack, 1996 SPECIES
 
 #### Status
 ACCEPTED

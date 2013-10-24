@@ -1,5 +1,4 @@
-Peronospora tornensis Gäum. SPECIES
-=======
+# Peronospora tornensis Gäum. SPECIES
 
 #### Status
 ACCEPTED

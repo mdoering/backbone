@@ -1,5 +1,4 @@
-Leptothyrium cestri (Pat.) Speg. SPECIES
-=======
+# Leptothyrium cestri (Pat.) Speg. SPECIES
 
 #### Status
 ACCEPTED

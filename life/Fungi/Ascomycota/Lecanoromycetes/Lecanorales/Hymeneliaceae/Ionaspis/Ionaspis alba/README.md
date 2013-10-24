@@ -1,5 +1,4 @@
-Ionaspis alba Lutzoni SPECIES
-=======
+# Ionaspis alba Lutzoni SPECIES
 
 #### Status
 ACCEPTED

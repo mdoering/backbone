@@ -1,5 +1,4 @@
-Piscibacillus Tanasupawat et al., 2007 GENUS
-=======
+# Piscibacillus Tanasupawat et al., 2007 GENUS
 
 #### Status
 ACCEPTED

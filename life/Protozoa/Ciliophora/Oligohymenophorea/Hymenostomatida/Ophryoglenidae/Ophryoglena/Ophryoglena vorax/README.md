@@ -1,5 +1,4 @@
-Ophryoglena vorax Smith, 1897 SPECIES
-=======
+# Ophryoglena vorax Smith, 1897 SPECIES
 
 #### Status
 ACCEPTED

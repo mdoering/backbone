@@ -1,5 +1,4 @@
-Heterodermia detonsa SPECIES
-=======
+# Heterodermia detonsa SPECIES
 
 #### Status
 ACCEPTED

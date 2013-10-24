@@ -1,5 +1,4 @@
-Haptoglossa elegans G.L. Barron, 1990 SPECIES
-=======
+# Haptoglossa elegans G.L. Barron, 1990 SPECIES
 
 #### Status
 ACCEPTED

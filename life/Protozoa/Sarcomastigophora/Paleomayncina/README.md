@@ -1,5 +1,4 @@
-Paleomayncina Septfontaine, 1988 GENUS
-=======
+# Paleomayncina Septfontaine, 1988 GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Gymnodinium opimum Schutt SPECIES
-=======
+# Gyrodinium opimum (Schütt) Lebour SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

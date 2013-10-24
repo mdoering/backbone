@@ -1,5 +1,4 @@
-Miogypsinodella Boudagher-Fadel, Lord & Banner, 2000 GENUS
-=======
+# Miogypsinodella Boudagher-Fadel, Lord & Banner, 2000 GENUS
 
 #### Status
 ACCEPTED

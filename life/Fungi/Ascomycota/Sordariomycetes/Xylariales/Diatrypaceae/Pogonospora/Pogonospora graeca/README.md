@@ -1,5 +1,4 @@
-Pogonospora graeca Petr., 1957 SPECIES
-=======
+# Pogonospora graeca Petr., 1957 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Callopisma dissimile Malme SPECIES
-=======
+# Callopisma dissimile Malme SPECIES
 
 #### Status
 ACCEPTED

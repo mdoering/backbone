@@ -1,5 +1,4 @@
-Llimoniella adnata Hafellner & Nav.-Ros. SPECIES
-=======
+# Llimoniella adnata Hafellner & Nav.-Ros. SPECIES
 
 #### Status
 ACCEPTED

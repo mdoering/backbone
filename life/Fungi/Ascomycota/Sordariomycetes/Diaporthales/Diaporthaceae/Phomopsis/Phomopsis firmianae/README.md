@@ -1,5 +1,4 @@
-Phomopsis firmianae Kamal, P. Kumar & R.P. Singh SPECIES
-=======
+# Phomopsis firmianae Kamal, P. Kumar & R.P. Singh SPECIES
 
 #### Status
 ACCEPTED

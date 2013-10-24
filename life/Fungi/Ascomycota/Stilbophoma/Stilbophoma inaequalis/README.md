@@ -1,5 +1,4 @@
-Stilbophoma inaequalis (Sacc. & Trotter) B. Sutton SPECIES
-=======
+# Stilbophoma inaequalis (Sacc. & Trotter) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

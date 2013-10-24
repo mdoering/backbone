@@ -1,5 +1,4 @@
-Cercosporina boringuensis (E. Young) Sacc. SPECIES
-=======
+# Cercosporina boringuensis (E. Young) Sacc. SPECIES
 
 #### Status
 ACCEPTED

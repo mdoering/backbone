@@ -1,5 +1,4 @@
-Teichospora strigosa Sacc. SPECIES
-=======
+# Teichospora strigosa Sacc. SPECIES
 
 #### Status
 ACCEPTED

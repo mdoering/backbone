@@ -1,5 +1,4 @@
-Bombardia comata Kirschst. SPECIES
-=======
+# Bombardia comata Kirschst. SPECIES
 
 #### Status
 ACCEPTED

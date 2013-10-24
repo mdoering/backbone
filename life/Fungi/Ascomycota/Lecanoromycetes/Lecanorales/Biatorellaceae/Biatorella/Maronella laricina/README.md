@@ -1,5 +1,4 @@
-Maronella laricina M. Steiner SPECIES
-=======
+# Maronella laricina M. Steiner SPECIES
 
 #### Status
 ACCEPTED

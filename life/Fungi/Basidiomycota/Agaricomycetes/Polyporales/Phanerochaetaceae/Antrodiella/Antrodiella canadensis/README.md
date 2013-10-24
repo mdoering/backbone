@@ -1,14 +1,13 @@
-Polyporus canadensis Overh., 1941 SPECIES
-=======
+# Antrodiella canadensis (Overh.) Niemelä, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Lowe, Mycotaxon 2(1): 45 (1975)
+in Niemelä, Kinnunen, Larsson Schige & Larsson, Karstenia 45(2): [75] (2005)
 
 #### Original name
 Polyporus canadensis Overh., 1941

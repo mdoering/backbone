@@ -1,5 +1,4 @@
-Helodiomyces F. Picard GENUS
-=======
+# Helodiomyces F. Picard GENUS
 
 #### Status
 ACCEPTED

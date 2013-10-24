@@ -1,5 +1,4 @@
-Ramalina seawardii Aptroot & Sipman SPECIES
-=======
+# Ramalina seawardii Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

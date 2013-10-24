@@ -1,5 +1,4 @@
-Biatora lanuginosa Riddle SPECIES
-=======
+# Biatora lanuginosa Riddle SPECIES
 
 #### Status
 ACCEPTED

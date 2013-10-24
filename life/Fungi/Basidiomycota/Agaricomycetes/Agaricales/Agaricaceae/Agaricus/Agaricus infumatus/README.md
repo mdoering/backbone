@@ -1,5 +1,4 @@
-Agaricus infumatus Lév. SPECIES
-=======
+# Agaricus infumatus Lév. SPECIES
 
 #### Status
 ACCEPTED

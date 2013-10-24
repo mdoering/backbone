@@ -1,5 +1,4 @@
-Bartaliniopsis GENUS
-=======
+# Bartaliniopsis GENUS
 
 #### Status
 ACCEPTED

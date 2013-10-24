@@ -1,5 +1,4 @@
-Lichinodium ahlneri Henssen SPECIES
-=======
+# Lichinodium ahlneri Henssen SPECIES
 
 #### Status
 ACCEPTED

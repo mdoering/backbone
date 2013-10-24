@@ -1,17 +1,16 @@
-Meliola strophanthicola var. strophanthicola VARIETY
-=======
+# Meliola strophanthicola Hansf. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Beih. Sydowia 2: 559 (1961)
 
 #### Original name
-null
+Meliola strophanthicola Hansf.
 
 ### Remarks
 null

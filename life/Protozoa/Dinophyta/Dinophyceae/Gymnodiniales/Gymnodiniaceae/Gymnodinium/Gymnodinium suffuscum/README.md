@@ -1,5 +1,4 @@
-Gymnodinium suffuscum Van Meel SPECIES
-=======
+# Gymnodinium suffuscum Van Meel SPECIES
 
 #### Status
 ACCEPTED

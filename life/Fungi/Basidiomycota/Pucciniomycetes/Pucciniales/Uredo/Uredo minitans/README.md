@@ -1,5 +1,4 @@
-Uredo minitans Speg. SPECIES
-=======
+# Uredo minitans Speg. SPECIES
 
 #### Status
 ACCEPTED

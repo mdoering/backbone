@@ -1,5 +1,4 @@
-Cortinarius boyacensis Singer SPECIES
-=======
+# Cortinarius boyacensis Singer SPECIES
 
 #### Status
 ACCEPTED

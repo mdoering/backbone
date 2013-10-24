@@ -1,5 +1,4 @@
-Leptothyrium dahliae Oudem. SPECIES
-=======
+# Leptothyrium dahliae Oudem. SPECIES
 
 #### Status
 ACCEPTED

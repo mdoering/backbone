@@ -1,5 +1,4 @@
-Tulasnella interrogans P. Roberts, 1992 SPECIES
-=======
+# Tulasnella interrogans P. Roberts, 1992 SPECIES
 
 #### Status
 ACCEPTED

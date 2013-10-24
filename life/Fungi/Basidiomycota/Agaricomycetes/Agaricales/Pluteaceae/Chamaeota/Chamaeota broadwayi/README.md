@@ -1,14 +1,13 @@
-Annularia broadwayi (Murrill) Sacc. & Trotter, 1925 SPECIES
-=======
+# Chamaeota broadwayi Murrill, 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Amer. Fl. (New York) 10(2): 139 (1917)
 
 #### Original name
 Chamaeota broadwayi Murrill, 1917

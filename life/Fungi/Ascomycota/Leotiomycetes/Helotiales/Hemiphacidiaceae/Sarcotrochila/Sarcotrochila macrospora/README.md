@@ -1,5 +1,4 @@
-Sarcotrochila macrospora Ziller & A. Funk, 1973 SPECIES
-=======
+# Sarcotrochila macrospora Ziller & A. Funk, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria abundans Rehm SPECIES
-=======
+# Metasphaeria abundans Rehm SPECIES
 
 #### Status
 ACCEPTED

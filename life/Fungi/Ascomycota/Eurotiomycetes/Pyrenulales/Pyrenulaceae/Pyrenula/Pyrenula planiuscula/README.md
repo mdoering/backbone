@@ -1,5 +1,4 @@
-Pyrenula planiuscula (Nyl.) Tuck. SPECIES
-=======
+# Pyrenula planiuscula (Nyl.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

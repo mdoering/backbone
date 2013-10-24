@@ -1,5 +1,4 @@
-Ustilago gageae Sorokin SPECIES
-=======
+# Ustilago gageae Sorokin SPECIES
 
 #### Status
 ACCEPTED

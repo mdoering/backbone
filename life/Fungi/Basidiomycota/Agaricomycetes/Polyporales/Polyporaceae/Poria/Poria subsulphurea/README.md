@@ -1,5 +1,4 @@
-Poria subsulphurea (Ellis & Everh.) Murrill SPECIES
-=======
+# Poria subsulphurea (Ellis & Everh.) Murrill SPECIES
 
 #### Status
 ACCEPTED

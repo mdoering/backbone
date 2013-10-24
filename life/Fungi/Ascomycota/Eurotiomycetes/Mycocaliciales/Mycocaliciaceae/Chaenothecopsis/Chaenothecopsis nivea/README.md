@@ -1,14 +1,13 @@
-Calicium niveum F. Wilson SPECIES
-=======
+# Chaenothecopsis nivea (F. Wilson) Tibell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-J. Linn. Soc. , Bot. 28: 362 (1891)
+Symb. bot. upsal. 27(no. 1): 139 (1987)
 
 #### Original name
 Calicium niveum F. Wilson

@@ -1,5 +1,4 @@
-Psathyrella subcernua (Schulzer) Singer SPECIES
-=======
+# Psathyrella subcernua (Schulzer) Singer SPECIES
 
 #### Status
 ACCEPTED

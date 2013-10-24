@@ -1,5 +1,4 @@
-Milesia sennae Salazar-Yepes & A.A. Carvalho SPECIES
-=======
+# Milesia sennae Salazar-Yepes & A.A. Carvalho SPECIES
 
 #### Status
 ACCEPTED

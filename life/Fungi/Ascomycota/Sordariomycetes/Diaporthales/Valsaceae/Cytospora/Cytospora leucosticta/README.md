@@ -1,5 +1,4 @@
-Cytospora leucosticta Ellis & Barthol. SPECIES
-=======
+# Cytospora leucosticta Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

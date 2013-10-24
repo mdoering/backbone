@@ -1,5 +1,4 @@
-Cercoseptoria septoriopsidis (Dearn. & Overh.) Constant. SPECIES
-=======
+# Cercoseptoria septoriopsidis (Dearn. & Overh.) Constant. SPECIES
 
 #### Status
 ACCEPTED

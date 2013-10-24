@@ -1,5 +1,4 @@
-Stigmatomyces venezuelae Thaxt. SPECIES
-=======
+# Stigmatomyces venezuelae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

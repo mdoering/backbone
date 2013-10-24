@@ -1,5 +1,4 @@
-Coryneum myristicae B.A. Steinm. SPECIES
-=======
+# Coryneum myristicae B.A. Steinm. SPECIES
 
 #### Status
 ACCEPTED

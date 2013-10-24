@@ -1,5 +1,4 @@
-Colletotrichum paucisetum Petch SPECIES
-=======
+# Colletotrichum paucisetum Petch SPECIES
 
 #### Status
 ACCEPTED

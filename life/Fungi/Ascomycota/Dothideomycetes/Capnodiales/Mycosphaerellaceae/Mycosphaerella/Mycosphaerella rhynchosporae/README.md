@@ -1,5 +1,4 @@
-Mycosphaerella rhynchosporae Petr. SPECIES
-=======
+# Mycosphaerella rhynchosporae Petr. SPECIES
 
 #### Status
 ACCEPTED

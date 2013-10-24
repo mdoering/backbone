@@ -1,5 +1,4 @@
-Gymnodinium microreticulatum C. J. S. Bolch & G. M. Hallegraeff SPECIES
-=======
+# Gymnodinium microreticulatum C. J. S. Bolch & G. M. Hallegraeff SPECIES
 
 #### Status
 ACCEPTED

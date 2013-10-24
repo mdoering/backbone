@@ -1,5 +1,4 @@
-Calocybe graveolens (Pers.) Singer SPECIES
-=======
+# Calocybe graveolens (Pers.) Singer SPECIES
 
 #### Status
 ACCEPTED

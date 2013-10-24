@@ -1,5 +1,4 @@
-Agaricus cyanipes Vahl SPECIES
-=======
+# Agaricus cyanipes Vahl SPECIES
 
 #### Status
 ACCEPTED

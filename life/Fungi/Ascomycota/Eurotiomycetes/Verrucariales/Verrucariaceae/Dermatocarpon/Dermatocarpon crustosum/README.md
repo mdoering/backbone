@@ -1,5 +1,4 @@
-Dermatocarpon crustosum H. Magn. SPECIES
-=======
+# Dermatocarpon crustosum H. Magn. SPECIES
 
 #### Status
 ACCEPTED

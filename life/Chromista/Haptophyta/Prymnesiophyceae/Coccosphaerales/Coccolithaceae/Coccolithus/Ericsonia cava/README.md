@@ -1,5 +1,4 @@
-Ericsonia cava (Hay & Mohler, 1967) Perch-Nielsen, 1969 SPECIES
-=======
+# Ericsonia cava (Hay & Mohler, 1967) Perch-Nielsen, 1969 SPECIES
 
 #### Status
 DOUBTFUL

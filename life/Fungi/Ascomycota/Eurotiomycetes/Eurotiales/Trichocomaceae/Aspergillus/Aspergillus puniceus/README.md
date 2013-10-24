@@ -1,5 +1,4 @@
-Aspergillus puniceus Kwon-Chung & Fennell, 1965 SPECIES
-=======
+# Aspergillus puniceus Kwon-Chung & Fennell, 1965 SPECIES
 
 #### Status
 ACCEPTED

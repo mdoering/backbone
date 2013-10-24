@@ -1,5 +1,4 @@
-Ropalosporaceae Hafellner FAMILY
-=======
+# Ropalosporaceae Hafellner FAMILY
 
 #### Status
 ACCEPTED

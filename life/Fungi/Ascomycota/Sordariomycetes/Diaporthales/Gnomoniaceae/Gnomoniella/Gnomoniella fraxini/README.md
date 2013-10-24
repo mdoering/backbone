@@ -1,5 +1,4 @@
-Gnomoniella fraxini Redlin & Stack SPECIES
-=======
+# Gnomoniella fraxini Redlin & Stack SPECIES
 
 #### Status
 ACCEPTED

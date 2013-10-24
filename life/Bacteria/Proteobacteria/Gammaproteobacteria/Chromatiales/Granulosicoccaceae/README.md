@@ -1,5 +1,4 @@
-Granulosicoccaceae FAMILY
-=======
+# Granulosicoccaceae FAMILY
 
 #### Status
 ACCEPTED

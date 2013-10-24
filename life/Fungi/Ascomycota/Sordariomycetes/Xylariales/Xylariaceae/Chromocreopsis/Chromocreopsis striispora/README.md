@@ -1,5 +1,4 @@
-Chromocreopsis striispora Stevenson {?} SPECIES
-=======
+# Chromocreopsis striispora Stevenson {?} SPECIES
 
 #### Status
 ACCEPTED

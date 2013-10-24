@@ -1,5 +1,4 @@
-Patellaria pulla var. pulla VARIETY
-=======
+# Patellaria pulla Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syst. mycol. (Lundae) 2(1): 160 (1822)
 
 #### Original name
-Patellaria pulla var. pulla
+Patellaria pulla Fr.
 
 ### Remarks
 null

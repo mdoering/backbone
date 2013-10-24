@@ -1,5 +1,4 @@
-Endocarpon obscuratum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Endocarpon obscuratum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

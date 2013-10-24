@@ -1,5 +1,4 @@
-Fenestella gigaspora Henn. SPECIES
-=======
+# Fenestella gigaspora Henn. SPECIES
 
 #### Status
 ACCEPTED

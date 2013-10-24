@@ -1,5 +1,4 @@
-Limacella myochroa Pegler SPECIES
-=======
+# Limacella myochroa Pegler SPECIES
 
 #### Status
 ACCEPTED

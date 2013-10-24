@@ -1,5 +1,4 @@
-Cladina sublacunosa (Vain.) SPECIES
-=======
+# Cladina sublacunosa (Vain.) SPECIES
 
 #### Status
 ACCEPTED

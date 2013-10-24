@@ -1,14 +1,13 @@
-Periconiella musae Stahel ex M.B. Ellis, 1967 SPECIES
-=======
+# Ramichloridium biverticillatum Arzanlou & Crous, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 111: 5 (1967)
+in Arzanlou, Groenewald, Gams, Braun, Shin & Crous, Stud. Mycol. 58: 72 (2007)
 
 #### Original name
 Periconiella musae Stahel ex M.B. Ellis, 1967

@@ -1,17 +1,16 @@
-Stictis cordylinae P.R. Johnst. SPECIES
-=======
+# Stictis cordylines P.R. Johnst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+N. Z. Jl Bot. 21(3): 257 (1983)
 
 #### Original name
-Stictis cordylinae P.R. Johnst.
+Stictis cordylines P.R. Johnst.
 
 ### Remarks
 null

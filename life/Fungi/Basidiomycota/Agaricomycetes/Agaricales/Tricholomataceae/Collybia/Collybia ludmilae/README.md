@@ -1,5 +1,4 @@
-Collybia ludmilae Velen. SPECIES
-=======
+# Collybia ludmilae Velen. SPECIES
 
 #### Status
 ACCEPTED

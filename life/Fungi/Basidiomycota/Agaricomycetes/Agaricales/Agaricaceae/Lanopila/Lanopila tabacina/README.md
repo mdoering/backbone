@@ -1,5 +1,4 @@
-Lanopila tabacina (Sacc.) De Toni SPECIES
-=======
+# Lanopila tabacina (Sacc.) De Toni SPECIES
 
 #### Status
 ACCEPTED

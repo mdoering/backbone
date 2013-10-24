@@ -1,5 +1,4 @@
-Borrera leptalea SPECIES
-=======
+# Borrera leptalea SPECIES
 
 #### Status
 ACCEPTED

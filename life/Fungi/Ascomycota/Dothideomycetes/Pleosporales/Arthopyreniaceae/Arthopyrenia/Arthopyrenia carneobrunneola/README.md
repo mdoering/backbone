@@ -1,5 +1,4 @@
-Arthopyrenia carneobrunneola Coppins SPECIES
-=======
+# Arthopyrenia carneobrunneola Coppins SPECIES
 
 #### Status
 ACCEPTED

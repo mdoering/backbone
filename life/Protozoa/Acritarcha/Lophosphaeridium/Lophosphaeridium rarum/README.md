@@ -1,5 +1,4 @@
-Lophosphaeridium rarum Timofeev, 1959 ex Downie, 1963 SPECIES
-=======
+# Lophosphaeridium rarum Timofeev, 1959 ex Downie, 1963 SPECIES
 
 #### Status
 ACCEPTED

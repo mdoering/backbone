@@ -1,5 +1,4 @@
-Kocuria polaris Reddy et al., 2003 SPECIES
-=======
+# Kocuria polaris Reddy et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichophyton ceylonense Castell. SPECIES
-=======
+# Trichophyton ceylonense Castell. SPECIES
 
 #### Status
 ACCEPTED

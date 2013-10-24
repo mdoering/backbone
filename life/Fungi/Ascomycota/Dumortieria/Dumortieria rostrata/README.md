@@ -1,5 +1,4 @@
-Dumortieria rostrata Westend. SPECIES
-=======
+# Dumortieria rostrata Westend. SPECIES
 
 #### Status
 ACCEPTED

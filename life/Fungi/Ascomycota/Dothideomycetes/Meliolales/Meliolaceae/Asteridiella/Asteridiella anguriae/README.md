@@ -1,5 +1,4 @@
-Asteridiella anguriae (F. Stevens) Hansf. SPECIES
-=======
+# Asteridiella anguriae (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED

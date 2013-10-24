@@ -1,5 +1,4 @@
-Marasmius piceinus Kauffman SPECIES
-=======
+# Marasmius piceinus Kauffman SPECIES
 
 #### Status
 ACCEPTED

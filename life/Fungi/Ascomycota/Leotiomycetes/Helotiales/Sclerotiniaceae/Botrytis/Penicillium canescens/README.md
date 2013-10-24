@@ -1,8 +1,7 @@
-Penicillium yarmokense Baghd., 1968 SPECIES
-=======
+# Penicillium canescens Sopp, 1912 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

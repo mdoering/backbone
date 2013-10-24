@@ -1,5 +1,4 @@
-Cintractia eructans (J. Kunze) Liro SPECIES
-=======
+# Cintractia eructans (J. Kunze) Liro SPECIES
 
 #### Status
 ACCEPTED

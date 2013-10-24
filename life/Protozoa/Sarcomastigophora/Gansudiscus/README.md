@@ -1,5 +1,4 @@
-Gansudiscus Wang & Sun, 1973 GENUS
-=======
+# Gansudiscus Wang & Sun, 1973 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oospora auridorsa (Biourge) Biourge SPECIES
-=======
+# Oospora auridorsa (Biourge) Biourge SPECIES
 
 #### Status
 ACCEPTED

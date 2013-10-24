@@ -1,5 +1,4 @@
-Pseudocercospora franserae (Ellis & Everh.) U. Braun SPECIES
-=======
+# Pseudocercospora franserae (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

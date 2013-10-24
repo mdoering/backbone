@@ -1,5 +1,4 @@
-Microphyma microsporium Speg. SPECIES
-=======
+# Microphyma microsporium Speg. SPECIES
 
 #### Status
 ACCEPTED

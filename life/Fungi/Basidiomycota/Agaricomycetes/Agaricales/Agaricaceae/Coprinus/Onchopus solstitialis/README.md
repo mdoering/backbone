@@ -1,5 +1,4 @@
-Onchopus solstitialis P. Karst. SPECIES
-=======
+# Onchopus solstitialis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus gilvorigidus Lloyd SPECIES
-=======
+# Polyporus gilvorigidus Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Rhodophyllus subradiatus Kühner & Romagn., 1954 SPECIES
-=======
+# Entoloma subradiatum (Kühner & Romagn.) M.M. Moser, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 19(1): 10 (1954)
+in Gams, Kleine Kryptogamenflora (Stuttgart), Bd <b>II</b> b/2, ed. 4 2b/2: 197 (1978)
 
 #### Original name
 Rhodophyllus subradiatus Kühner & Romagn., 1954

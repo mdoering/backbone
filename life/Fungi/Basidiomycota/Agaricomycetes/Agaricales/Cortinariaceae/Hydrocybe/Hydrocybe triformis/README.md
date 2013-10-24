@@ -1,5 +1,4 @@
-Hydrocybe triformis (Fr.) M.M. Moser SPECIES
-=======
+# Hydrocybe triformis (Fr.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

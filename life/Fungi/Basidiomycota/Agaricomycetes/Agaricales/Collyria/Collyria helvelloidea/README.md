@@ -1,5 +1,4 @@
-Collyria helvelloidea (Schwein.) Fr. SPECIES
-=======
+# Collyria helvelloidea (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

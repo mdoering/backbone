@@ -1,5 +1,4 @@
-Metadiplodia radicicola (Tassi) Zambett. SPECIES
-=======
+# Metadiplodia radicicola (Tassi) Zambett. SPECIES
 
 #### Status
 ACCEPTED

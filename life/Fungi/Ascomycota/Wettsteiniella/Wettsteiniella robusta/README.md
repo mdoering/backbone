@@ -1,5 +1,4 @@
-Wettsteiniella robusta (Cooke & Ellis) O. Kuntze SPECIES
-=======
+# Wettsteiniella robusta (Cooke & Ellis) O. Kuntze SPECIES
 
 #### Status
 ACCEPTED

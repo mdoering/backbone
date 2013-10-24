@@ -1,5 +1,4 @@
-Hypocopra keniensis J.C. Krug & Cain, 1974 SPECIES
-=======
+# Hypocopra keniensis J.C. Krug & Cain, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiorella cercidospora (Sousa da Câmara) Sousa da Câmara SPECIES
-=======
+# Dothiorella cercidospora (Sousa da Câmara) Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

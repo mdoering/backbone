@@ -1,5 +1,4 @@
-Trichoduboscqia epeori L. Léger SPECIES
-=======
+# Trichoduboscqia epeori L. Léger SPECIES
 
 #### Status
 ACCEPTED

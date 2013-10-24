@@ -1,5 +1,4 @@
-Sporidesmium dolichopus Pass. SPECIES
-=======
+# Sporidesmium dolichopus Pass. SPECIES
 
 #### Status
 ACCEPTED

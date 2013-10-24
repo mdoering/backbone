@@ -1,17 +1,16 @@
-Pholiota ferrugineo-lutescens A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota ferrugineolutescens A.H. Sm. & Hesler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+The North American species of Pholiota 261 (1968)
 
 #### Original name
-Pholiota ferrugineo-lutescens A.H. Sm. & Hesler
+Pholiota ferrugineolutescens A.H. Sm. & Hesler
 
 ### Remarks
 null

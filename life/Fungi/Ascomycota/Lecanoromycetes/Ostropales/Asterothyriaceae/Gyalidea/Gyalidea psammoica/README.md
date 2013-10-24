@@ -1,5 +1,4 @@
-Gyalidea psammoica (Nyl.) Lettau ex Vezda SPECIES
-=======
+# Gyalidea psammoica (Nyl.) Lettau ex Vezda SPECIES
 
 #### Status
 ACCEPTED

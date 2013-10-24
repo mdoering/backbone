@@ -1,5 +1,4 @@
-Cryptococcus genitalis Castell. SPECIES
-=======
+# Cryptococcus genitalis Castell. SPECIES
 
 #### Status
 ACCEPTED

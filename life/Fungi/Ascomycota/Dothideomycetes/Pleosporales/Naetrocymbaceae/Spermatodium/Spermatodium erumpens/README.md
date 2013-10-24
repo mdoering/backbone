@@ -1,5 +1,4 @@
-Spermatodium erumpens (A. Massal.) Trevis. SPECIES
-=======
+# Spermatodium erumpens (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

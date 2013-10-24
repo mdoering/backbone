@@ -1,5 +1,4 @@
-Entoloma flavidorufum Cooke & Massee SPECIES
-=======
+# Entoloma flavidorufum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

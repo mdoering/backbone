@@ -1,5 +1,4 @@
-Trichella hydrobii Maessen SPECIES
-=======
+# Trichella hydrobii Maessen SPECIES
 
 #### Status
 ACCEPTED

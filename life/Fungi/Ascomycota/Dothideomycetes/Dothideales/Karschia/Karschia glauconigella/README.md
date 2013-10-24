@@ -1,5 +1,4 @@
-Karschia glauconigella (Nyl.) Zopf SPECIES
-=======
+# Karschia glauconigella (Nyl.) Zopf SPECIES
 
 #### Status
 ACCEPTED

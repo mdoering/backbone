@@ -1,5 +1,4 @@
-Cryptosporidium canis Fayer, Trout, Xiao, Morgan, Lal & Dubey, 2001 SPECIES
-=======
+# Cryptosporidium canis Fayer, Trout, Xiao, Morgan, Lal & Dubey, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterostomella kushinagarensis R.C. Verma, M.S. Tripathi & R.K. Chaudhary SPECIES
-=======
+# Asterostomella kushinagarensis R.C. Verma, M.S. Tripathi & R.K. Chaudhary SPECIES
 
 #### Status
 ACCEPTED

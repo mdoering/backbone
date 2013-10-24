@@ -1,5 +1,4 @@
-Pyrenula arthonioides (Eschw.) Vain. SPECIES
-=======
+# Pyrenula arthonioides (Eschw.) Vain. SPECIES
 
 #### Status
 ACCEPTED

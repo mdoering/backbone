@@ -1,5 +1,4 @@
-Septosporium praelongum Sacc. SPECIES
-=======
+# Septosporium praelongum Sacc. SPECIES
 
 #### Status
 ACCEPTED

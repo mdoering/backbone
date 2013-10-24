@@ -1,5 +1,4 @@
-Baltisphaeridium lancettispinae Górka, 1969 SPECIES
-=======
+# Baltisphaeridium lancettispinae Górka, 1969 SPECIES
 
 #### Status
 ACCEPTED

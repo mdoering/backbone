@@ -1,5 +1,4 @@
-Inocybe picrosma D.E. Stuntz SPECIES
-=======
+# Inocybe picrosma D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

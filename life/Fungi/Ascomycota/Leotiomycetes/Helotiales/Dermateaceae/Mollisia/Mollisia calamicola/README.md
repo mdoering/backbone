@@ -1,5 +1,4 @@
-Mollisia calamicola P. Karst. SPECIES
-=======
+# Mollisia calamicola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

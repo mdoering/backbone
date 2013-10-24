@@ -1,5 +1,4 @@
-Podospora fimbriata (A. Bayer) Cain, 1962 SPECIES
-=======
+# Podospora fimbriata (A. Bayer) Cain, 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Karschia atherospermae Massee & Rodway SPECIES
-=======
+# Karschia atherospermae Massee & Rodway SPECIES
 
 #### Status
 ACCEPTED

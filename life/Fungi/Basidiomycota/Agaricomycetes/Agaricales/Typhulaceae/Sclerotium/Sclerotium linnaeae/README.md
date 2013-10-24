@@ -1,5 +1,4 @@
-Sclerotium linnaeae Fr. SPECIES
-=======
+# Sclerotium linnaeae Fr. SPECIES
 
 #### Status
 ACCEPTED

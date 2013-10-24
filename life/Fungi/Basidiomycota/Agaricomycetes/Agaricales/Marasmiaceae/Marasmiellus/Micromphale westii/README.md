@@ -1,5 +1,4 @@
-Micromphale westii (Murrill) Singer SPECIES
-=======
+# Micromphale westii (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

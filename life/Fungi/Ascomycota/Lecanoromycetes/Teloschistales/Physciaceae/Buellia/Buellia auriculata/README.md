@@ -1,5 +1,4 @@
-Buellia auriculata Malme SPECIES
-=======
+# Buellia auriculata Malme SPECIES
 
 #### Status
 ACCEPTED

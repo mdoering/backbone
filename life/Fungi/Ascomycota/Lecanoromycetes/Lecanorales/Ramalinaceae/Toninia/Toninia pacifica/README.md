@@ -1,5 +1,4 @@
-Toninia pacifica Timdal SPECIES
-=======
+# Toninia pacifica Timdal SPECIES
 
 #### Status
 ACCEPTED

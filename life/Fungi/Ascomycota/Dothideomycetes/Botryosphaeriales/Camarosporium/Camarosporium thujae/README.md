@@ -1,5 +1,4 @@
-Camarosporium thujae Hollós SPECIES
-=======
+# Camarosporium thujae Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia dondiae Arthur SPECIES
-=======
+# Puccinia dondiae Arthur SPECIES
 
 #### Status
 ACCEPTED

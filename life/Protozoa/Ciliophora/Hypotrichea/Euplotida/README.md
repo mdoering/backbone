@@ -1,5 +1,4 @@
-Euplotida Small & Lynn, 1985 ORDER
-=======
+# Euplotida Small & Lynn, 1985 ORDER
 
 #### Status
 ACCEPTED

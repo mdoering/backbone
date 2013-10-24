@@ -1,5 +1,4 @@
-Puccinia parthenii (Speg.) Arthur SPECIES
-=======
+# Puccinia parthenii (Speg.) Arthur SPECIES
 
 #### Status
 ACCEPTED

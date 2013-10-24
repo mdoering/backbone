@@ -1,5 +1,4 @@
-Podaxis senegalensis Desv., 1809 SPECIES
-=======
+# Podaxis senegalensis Desv., 1809 SPECIES
 
 #### Status
 ACCEPTED

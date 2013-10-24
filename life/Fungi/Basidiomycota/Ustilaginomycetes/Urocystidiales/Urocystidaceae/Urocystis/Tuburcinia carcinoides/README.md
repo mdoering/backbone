@@ -1,5 +1,4 @@
-Tuburcinia carcinoides (Berk. & M.A. Curtis) Liro SPECIES
-=======
+# Tuburcinia carcinoides (Berk. & M.A. Curtis) Liro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizocarpon triseptatum H. Magn. SPECIES
-=======
+# Rhizocarpon triseptatum H. Magn. SPECIES
 
 #### Status
 ACCEPTED

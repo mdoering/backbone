@@ -1,5 +1,4 @@
-Lentinus courtetianus Har. & Pat., 1909 SPECIES
-=======
+# Lentinus courtetianus Har. & Pat., 1909 SPECIES
 
 #### Status
 ACCEPTED

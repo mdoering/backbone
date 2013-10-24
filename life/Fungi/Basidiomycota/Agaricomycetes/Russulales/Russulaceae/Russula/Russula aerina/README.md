@@ -1,5 +1,4 @@
-Russula aerina Romagn. SPECIES
-=======
+# Russula aerina Romagn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macowanites alpinus Zeller SPECIES
-=======
+# Macowanites alpinus Zeller SPECIES
 
 #### Status
 ACCEPTED

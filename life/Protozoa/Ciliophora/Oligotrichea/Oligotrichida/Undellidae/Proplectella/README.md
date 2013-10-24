@@ -1,5 +1,4 @@
-Proplectella Kofoid & Campbell, 1929 GENUS
-=======
+# Proplectella Kofoid & Campbell, 1929 GENUS
 
 #### Status
 ACCEPTED

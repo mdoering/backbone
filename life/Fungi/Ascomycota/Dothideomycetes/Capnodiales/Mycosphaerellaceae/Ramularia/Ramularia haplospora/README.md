@@ -1,14 +1,13 @@
-Ovularia haplospora (Speg.) Magnus, 1904 SPECIES
-=======
+# Ramularia haplospora Speg., 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Saccardo, Michelia 2(no. 6): 170 (1880)
 
 #### Original name
 Ramularia haplospora Speg., 1880

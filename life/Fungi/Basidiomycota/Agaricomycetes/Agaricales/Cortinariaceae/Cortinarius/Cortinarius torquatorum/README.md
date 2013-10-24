@@ -1,5 +1,4 @@
-Cortinarius torquatorum Rob. Henry SPECIES
-=======
+# Cortinarius torquatorum Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

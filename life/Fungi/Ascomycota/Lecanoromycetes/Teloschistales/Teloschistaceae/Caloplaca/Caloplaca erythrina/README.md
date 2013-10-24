@@ -1,5 +1,4 @@
-Caloplaca erythrina (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Caloplaca erythrina (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

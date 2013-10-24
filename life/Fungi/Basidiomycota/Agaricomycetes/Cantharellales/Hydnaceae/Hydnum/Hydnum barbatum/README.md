@@ -1,5 +1,4 @@
-Hydnum barbatum Raf. SPECIES
-=======
+# Hydnum barbatum Raf. SPECIES
 
 #### Status
 ACCEPTED

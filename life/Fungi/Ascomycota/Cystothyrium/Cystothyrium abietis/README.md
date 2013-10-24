@@ -1,5 +1,4 @@
-Cystothyrium abietis Dearn. SPECIES
-=======
+# Cystothyrium abietis Dearn. SPECIES
 
 #### Status
 ACCEPTED

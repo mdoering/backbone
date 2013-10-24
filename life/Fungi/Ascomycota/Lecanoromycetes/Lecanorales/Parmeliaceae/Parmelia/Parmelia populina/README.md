@@ -1,5 +1,4 @@
-Parmelia populina (Hoffm.) Wallr. SPECIES
-=======
+# Parmelia populina (Hoffm.) Wallr. SPECIES
 
 #### Status
 ACCEPTED

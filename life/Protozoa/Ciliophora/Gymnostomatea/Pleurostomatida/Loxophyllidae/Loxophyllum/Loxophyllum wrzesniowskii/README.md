@@ -1,5 +1,4 @@
-Loxophyllum wrzesniowskii SPECIES
-=======
+# Loxophyllum wrzesniowskii SPECIES
 
 #### Status
 ACCEPTED

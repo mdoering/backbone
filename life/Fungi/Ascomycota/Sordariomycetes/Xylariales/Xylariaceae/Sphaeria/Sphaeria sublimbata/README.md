@@ -1,5 +1,4 @@
-Sphaeria sublimbata Durieu & Mont. SPECIES
-=======
+# Sphaeria sublimbata Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

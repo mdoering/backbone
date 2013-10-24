@@ -1,5 +1,4 @@
-Sclerotinia capillipes (Quél.) Sacc. SPECIES
-=======
+# Sclerotinia capillipes (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

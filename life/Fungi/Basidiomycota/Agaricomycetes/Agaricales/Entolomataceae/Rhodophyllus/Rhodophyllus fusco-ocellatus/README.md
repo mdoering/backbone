@@ -1,5 +1,4 @@
-Rhodophyllus fusco-ocellatus Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus fusco-ocellatus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

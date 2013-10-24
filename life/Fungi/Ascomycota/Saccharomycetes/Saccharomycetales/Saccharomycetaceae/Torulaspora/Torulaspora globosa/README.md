@@ -1,17 +1,16 @@
-Debaryomyces globosus Klöcker, 1909 SPECIES
-=======
+# Torulaspora globosa (Klöcker) Van der Walt & Johannsen, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+C. S. I. R. Res. Rep. 325: 15 (1975)
 
 #### Original name
-null
+Debaryomyces globosus Klöcker
 
 ### Remarks
 null

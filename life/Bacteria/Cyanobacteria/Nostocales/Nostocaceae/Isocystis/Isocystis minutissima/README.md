@@ -1,5 +1,4 @@
-Isocystis minutissima (Kützing ex Bornet & Flahault) Komárek & Anagnostidis SPECIES
-=======
+# Isocystis minutissima (Kützing ex Bornet & Flahault) Komárek & Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

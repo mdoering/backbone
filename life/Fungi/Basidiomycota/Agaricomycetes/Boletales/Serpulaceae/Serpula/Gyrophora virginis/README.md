@@ -1,5 +1,4 @@
-Gyrophora virginis SPECIES
-=======
+# Gyrophora virginis SPECIES
 
 #### Status
 ACCEPTED

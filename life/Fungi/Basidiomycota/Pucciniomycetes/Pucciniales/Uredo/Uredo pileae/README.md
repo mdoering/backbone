@@ -1,5 +1,4 @@
-Uredo pileae Barclay SPECIES
-=======
+# Uredo pileae Barclay SPECIES
 
 #### Status
 ACCEPTED

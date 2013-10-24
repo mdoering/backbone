@@ -1,5 +1,4 @@
-Megalospora albescens Sipman SPECIES
-=======
+# Megalospora albescens Sipman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermicularia oblongispora Ellis & Everh. SPECIES
-=======
+# Vermicularia oblongispora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

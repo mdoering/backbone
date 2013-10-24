@@ -1,5 +1,4 @@
-Peziza epithelephora Saut. SPECIES
-=======
+# Peziza epithelephora Saut. SPECIES
 
 #### Status
 ACCEPTED

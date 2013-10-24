@@ -1,5 +1,4 @@
-Stemphylium majusculum E.G. Simmons, 1969 SPECIES
-=======
+# Stemphylium majusculum E.G. Simmons, 1969 SPECIES
 
 #### Status
 ACCEPTED

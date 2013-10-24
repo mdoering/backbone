@@ -1,5 +1,4 @@
-Hexastylidae Haeckel, 1881 FAMILY
-=======
+# Hexastylidae Haeckel, 1881 FAMILY
 
 #### Status
 ACCEPTED

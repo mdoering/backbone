@@ -1,5 +1,4 @@
-Pseudowedekindellina Sheng, 1958 GENUS
-=======
+# Pseudowedekindellina Sheng, 1958 GENUS
 
 #### Status
 ACCEPTED

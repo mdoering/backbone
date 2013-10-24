@@ -1,5 +1,4 @@
-Streptomyces rameus Shibata, 1959 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces rameus Shibata, 1959 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

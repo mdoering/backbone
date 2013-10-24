@@ -1,5 +1,4 @@
-Camillea bomba (Mont.) Lloyd SPECIES
-=======
+# Camillea bomba (Mont.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

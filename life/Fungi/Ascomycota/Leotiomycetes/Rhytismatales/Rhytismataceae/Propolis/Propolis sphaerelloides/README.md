@@ -1,5 +1,4 @@
-Propolis sphaerelloides Ellis SPECIES
-=======
+# Propolis sphaerelloides Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiroxystonellites Knauer, 1969 GENUS
-=======
+# Spiroxystonellites Knauer, 1969 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mortierella beljakovae Milko, 1973 SPECIES
-=======
+# Mortierella beljakovae Milko, 1973 SPECIES
 
 #### Status
 ACCEPTED

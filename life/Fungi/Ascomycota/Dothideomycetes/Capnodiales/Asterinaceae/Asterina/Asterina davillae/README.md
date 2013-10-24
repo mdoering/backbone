@@ -1,5 +1,4 @@
-Asterina davillae var. davillae VARIETY
-=======
+# Asterina davillae J.A. Stev. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycologia 35(6): 631 (1943)
 
 #### Original name
-Asterina davillae var. davillae
+Asterina davillae J.A. Stev.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mayamontana coccolobae Castellano, Trappe & Lodge, 2007 SPECIES
-=======
+# Mayamontana coccolobae Castellano, Trappe & Lodge, 2007 SPECIES
 
 #### Status
 ACCEPTED

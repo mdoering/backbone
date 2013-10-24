@@ -1,8 +1,7 @@
-Uromyces demetrianus Pazschke SPECIES
-=======
+# Uromyces demetrionianus Pazschke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Uromyces demetrianus Pazschke
+Uromyces demetrionianus Pazschke
 
 ### Remarks
 null

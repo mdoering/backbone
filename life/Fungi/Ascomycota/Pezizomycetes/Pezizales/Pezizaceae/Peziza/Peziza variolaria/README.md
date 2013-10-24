@@ -1,5 +1,4 @@
-Peziza variolaria Pat. SPECIES
-=======
+# Peziza variolaria Pat. SPECIES
 
 #### Status
 ACCEPTED

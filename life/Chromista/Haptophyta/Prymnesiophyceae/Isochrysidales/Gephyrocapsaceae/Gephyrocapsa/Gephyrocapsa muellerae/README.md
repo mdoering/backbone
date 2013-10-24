@@ -1,5 +1,4 @@
-Gephyrocapsa muellerae Bréhéret, 1978 SPECIES
-=======
+# Gephyrocapsa muellerae Bréhéret, 1978 SPECIES
 
 #### Status
 ACCEPTED

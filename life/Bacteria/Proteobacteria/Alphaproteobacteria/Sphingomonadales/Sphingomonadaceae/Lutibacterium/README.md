@@ -1,5 +1,4 @@
-Lutibacterium GENUS
-=======
+# Lutibacterium GENUS
 
 #### Status
 ACCEPTED

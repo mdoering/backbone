@@ -1,5 +1,4 @@
-Cercospora rafinesquiae Harkn. SPECIES
-=======
+# Cercospora rafinesquiae Harkn. SPECIES
 
 #### Status
 ACCEPTED

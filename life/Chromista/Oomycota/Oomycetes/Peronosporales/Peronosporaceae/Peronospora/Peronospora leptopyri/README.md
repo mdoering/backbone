@@ -1,5 +1,4 @@
-Peronospora leptopyri C.K. Pai SPECIES
-=======
+# Peronospora leptopyri C.K. Pai SPECIES
 
 #### Status
 ACCEPTED

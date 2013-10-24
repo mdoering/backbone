@@ -1,5 +1,4 @@
-Stereum crenatum Lév. SPECIES
-=======
+# Stereum crenatum Lév. SPECIES
 
 #### Status
 ACCEPTED

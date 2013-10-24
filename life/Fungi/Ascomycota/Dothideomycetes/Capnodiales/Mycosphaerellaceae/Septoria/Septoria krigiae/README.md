@@ -1,5 +1,4 @@
-Septoria krigiae Dearn. & House SPECIES
-=======
+# Septoria krigiae Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

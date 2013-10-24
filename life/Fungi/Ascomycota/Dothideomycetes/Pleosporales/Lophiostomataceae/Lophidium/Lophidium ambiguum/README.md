@@ -1,5 +1,4 @@
-Lophidium ambiguum Fabre SPECIES
-=======
+# Lophidium ambiguum Fabre SPECIES
 
 #### Status
 ACCEPTED

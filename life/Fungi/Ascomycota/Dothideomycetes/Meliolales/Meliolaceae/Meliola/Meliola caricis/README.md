@@ -1,5 +1,4 @@
-Meliola caricis var. microspora Bat. & Poroca VARIETY
-=======
+# Meliola caricis anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Atas do instituto de micologia 5: 275 (1967)
+Sydowia 11(1-6): 53 (1958)
 
 #### Original name
-Meliola caricis var. microspora Bat. & Poroca
+Meliola caricis anon.
 
 ### Remarks
 null

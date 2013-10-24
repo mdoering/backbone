@@ -1,5 +1,4 @@
-Cercosporella boutelouae R. Sprague & Rogerson SPECIES
-=======
+# Cercosporella boutelouae R. Sprague & Rogerson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dactyliotheca G. Claus & B. Nagy, 1962 GENUS
-=======
+# Dactyliotheca G. Claus & B. Nagy, 1962 GENUS
 
 #### Status
 ACCEPTED

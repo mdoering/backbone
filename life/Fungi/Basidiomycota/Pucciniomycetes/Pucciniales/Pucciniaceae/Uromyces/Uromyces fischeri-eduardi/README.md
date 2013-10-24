@@ -1,5 +1,4 @@
-Uromyces fischeri-eduardi Magnus SPECIES
-=======
+# Uromyces fischeri-eduardi Magnus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haemogregarina hemiscyllii Mackerras & Mackerras, 1961 SPECIES
-=======
+# Haemogregarina hemiscyllii Mackerras & Mackerras, 1961 SPECIES
 
 #### Status
 ACCEPTED

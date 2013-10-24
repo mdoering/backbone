@@ -1,5 +1,4 @@
-Sporichthyaceae FAMILY
-=======
+# Sporichthyaceae FAMILY
 
 #### Status
 ACCEPTED

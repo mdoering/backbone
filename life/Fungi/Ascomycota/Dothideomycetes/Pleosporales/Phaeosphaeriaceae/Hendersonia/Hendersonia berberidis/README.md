@@ -1,5 +1,4 @@
-Hendersonia berberidis Fautrey SPECIES
-=======
+# Hendersonia berberidis Fautrey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola dimorphochaeta M.S. Patil & Maham. SPECIES
-=======
+# Meliola dimorphochaeta M.S. Patil & Maham. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Panaeolus hippophilus E.H.L. Krause SPECIES
-=======
+# Panaeolus hippophilus E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

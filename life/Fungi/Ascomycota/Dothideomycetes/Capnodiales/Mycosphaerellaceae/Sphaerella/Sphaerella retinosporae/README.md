@@ -1,5 +1,4 @@
-Sphaerella retinosporae Berl. & Bres. SPECIES
-=======
+# Sphaerella retinosporae Berl. & Bres. SPECIES
 
 #### Status
 ACCEPTED

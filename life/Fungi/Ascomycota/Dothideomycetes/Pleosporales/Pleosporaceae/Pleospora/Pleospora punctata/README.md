@@ -1,5 +1,4 @@
-Pleospora punctata Wehm., 1946 SPECIES
-=======
+# Pleospora punctata Wehm., 1946 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psammosphaera frankei (Rhumbler, 1935) SPECIES
-=======
+# Psammosphaera frankei (Rhumbler, 1935) SPECIES
 
 #### Status
 ACCEPTED

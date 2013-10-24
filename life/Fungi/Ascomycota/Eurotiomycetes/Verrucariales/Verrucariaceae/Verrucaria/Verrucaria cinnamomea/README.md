@@ -1,5 +1,4 @@
-Verrucaria cinnamomea Mont. SPECIES
-=======
+# Verrucaria cinnamomea Mont. SPECIES
 
 #### Status
 ACCEPTED

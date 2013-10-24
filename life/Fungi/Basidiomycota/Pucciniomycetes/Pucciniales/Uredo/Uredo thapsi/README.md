@@ -1,5 +1,4 @@
-Uredo thapsi Opiz SPECIES
-=======
+# Uredo thapsi Opiz SPECIES
 
 #### Status
 ACCEPTED

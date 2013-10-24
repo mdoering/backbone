@@ -1,5 +1,4 @@
-Aspicilia serpentinicola (Suza) Räsänen SPECIES
-=======
+# Aspicilia serpentinicola (Suza) Räsänen SPECIES
 
 #### Status
 ACCEPTED

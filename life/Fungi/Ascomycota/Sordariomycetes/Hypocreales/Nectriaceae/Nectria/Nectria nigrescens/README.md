@@ -1,5 +1,4 @@
-Nectria nigrescens Cooke SPECIES
-=======
+# Nectria nigrescens Cooke SPECIES
 
 #### Status
 ACCEPTED

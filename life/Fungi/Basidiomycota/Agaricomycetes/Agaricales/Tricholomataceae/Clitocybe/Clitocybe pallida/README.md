@@ -1,5 +1,4 @@
-Clitocybe pallida Velen. SPECIES
-=======
+# Clitocybe pallida Velen. SPECIES
 
 #### Status
 ACCEPTED

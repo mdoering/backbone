@@ -1,5 +1,4 @@
-Microbispora amethystogenes Nonomura and Ohara, 1960 (Approved Lists, 1980) SPECIES
-=======
+# Microbispora amethystogenes Nonomura and Ohara, 1960 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

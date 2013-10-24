@@ -1,5 +1,4 @@
-Polycostella beckmanii SPECIES
-=======
+# Polycostella beckmanii SPECIES
 
 #### Status
 ACCEPTED

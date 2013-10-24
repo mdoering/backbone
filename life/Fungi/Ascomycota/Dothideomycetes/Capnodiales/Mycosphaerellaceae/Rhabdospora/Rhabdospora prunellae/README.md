@@ -1,5 +1,4 @@
-Rhabdospora prunellae I.E. Brezhnev SPECIES
-=======
+# Rhabdospora prunellae I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

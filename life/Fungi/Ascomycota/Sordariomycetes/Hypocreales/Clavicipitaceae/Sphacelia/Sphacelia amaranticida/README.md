@@ -1,5 +1,4 @@
-Sphacelia amaranticida Speg. SPECIES
-=======
+# Sphacelia amaranticida Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Echinoderma eriophorum (Peck) Bon SPECIES
-=======
+# Echinoderma eriophorum (Peck) Bon SPECIES
 
 #### Status
 ACCEPTED

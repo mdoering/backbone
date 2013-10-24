@@ -1,5 +1,4 @@
-Gloeosporium gelonii Bond.-Mont. SPECIES
-=======
+# Gloeosporium gelonii Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

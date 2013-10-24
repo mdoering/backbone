@@ -1,5 +1,4 @@
-Amphilothus Schütt, 1895 GENUS
-=======
+# Amphilothus Schütt, 1895 GENUS
 
 #### Status
 ACCEPTED

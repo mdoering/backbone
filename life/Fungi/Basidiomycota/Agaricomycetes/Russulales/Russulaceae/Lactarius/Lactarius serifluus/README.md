@@ -1,14 +1,13 @@
-Agaricus serifluus DC., 1815 SPECIES
-=======
+# Lactarius serifluus (DC.) Fr., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in de Candolle & Lamarck, Fl. franç. (Paris), Edn 3 5/6: 45 (1815)
+Epicr. syst. mycol. (Upsaliae) 345 (1838)
 
 #### Original name
 Agaricus serifluus DC., 1815

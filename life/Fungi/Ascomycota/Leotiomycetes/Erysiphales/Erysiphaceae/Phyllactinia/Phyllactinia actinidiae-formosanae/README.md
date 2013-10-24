@@ -1,5 +1,4 @@
-Phyllactinia actinidiae-formosanae Sawada SPECIES
-=======
+# Phyllactinia actinidiae-formosanae Sawada SPECIES
 
 #### Status
 ACCEPTED

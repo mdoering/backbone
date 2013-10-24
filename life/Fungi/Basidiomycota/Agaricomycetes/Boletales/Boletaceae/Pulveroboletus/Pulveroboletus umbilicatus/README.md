@@ -1,5 +1,4 @@
-Pulveroboletus umbilicatus (Massee) Singer SPECIES
-=======
+# Pulveroboletus umbilicatus (Massee) Singer SPECIES
 
 #### Status
 ACCEPTED

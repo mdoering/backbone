@@ -1,5 +1,4 @@
-Tricholoma lilaceum (Quél.) SPECIES
-=======
+# Tricholoma lilaceum (Quél.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora myriocarpoides (Nyl.) Tuck. SPECIES
-=======
+# Biatora myriocarpoides (Nyl.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

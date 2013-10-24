@@ -1,17 +1,16 @@
-Oidium bloxami (Berk. & Broome) Linder SPECIES
-=======
+# Botryobasidium candicans J. Erikss., 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Svensk bot. Tidskr. 52(1): 6 (1958)
 
 #### Original name
-Rhinotrichum bloxamii Berk. & Broome, 1851
+Botryobasidium candicans J. Erikss., 1958
 
 ### Remarks
 null

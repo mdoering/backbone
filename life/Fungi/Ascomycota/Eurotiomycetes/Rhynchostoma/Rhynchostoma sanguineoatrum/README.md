@@ -1,5 +1,4 @@
-Rhynchostoma sanguineoatrum Rehm SPECIES
-=======
+# Rhynchostoma sanguineoatrum Rehm SPECIES
 
 #### Status
 ACCEPTED

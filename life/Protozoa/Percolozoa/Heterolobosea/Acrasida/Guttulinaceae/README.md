@@ -1,5 +1,4 @@
-Guttulinaceae Zopf ex Berl. FAMILY
-=======
+# Guttulinaceae Zopf ex Berl. FAMILY
 
 #### Status
 ACCEPTED

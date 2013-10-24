@@ -1,5 +1,4 @@
-Lepiota subcristata Cleland SPECIES
-=======
+# Lepiota subcristata Cleland SPECIES
 
 #### Status
 ACCEPTED

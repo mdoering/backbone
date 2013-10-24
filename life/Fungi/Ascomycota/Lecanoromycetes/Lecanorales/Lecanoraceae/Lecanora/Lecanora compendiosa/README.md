@@ -1,5 +1,4 @@
-Lecanora compendiosa Nyl. SPECIES
-=======
+# Lecanora compendiosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

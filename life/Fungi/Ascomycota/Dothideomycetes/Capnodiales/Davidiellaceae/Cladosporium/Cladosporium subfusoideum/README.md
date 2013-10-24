@@ -1,5 +1,4 @@
-Cladosporium subfusoideum McAlpine SPECIES
-=======
+# Cladosporium subfusoideum McAlpine SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora salicina (Ellis & Everh.) Deighton SPECIES
-=======
+# Pseudocercospora salicina (Ellis & Everh.) Deighton SPECIES
 
 #### Status
 ACCEPTED

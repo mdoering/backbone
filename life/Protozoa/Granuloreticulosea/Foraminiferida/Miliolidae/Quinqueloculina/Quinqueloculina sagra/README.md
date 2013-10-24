@@ -1,5 +1,4 @@
-Quinqueloculina sagra SPECIES
-=======
+# Quinqueloculina sagra SPECIES
 
 #### Status
 ACCEPTED

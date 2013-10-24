@@ -1,5 +1,4 @@
-Echinoplaca melanotrix Lücking SPECIES
-=======
+# Echinoplaca melanotrix Lücking SPECIES
 
 #### Status
 ACCEPTED

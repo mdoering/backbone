@@ -1,5 +1,4 @@
-Naucoria urticacea Velen. SPECIES
-=======
+# Naucoria urticacea Velen. SPECIES
 
 #### Status
 ACCEPTED

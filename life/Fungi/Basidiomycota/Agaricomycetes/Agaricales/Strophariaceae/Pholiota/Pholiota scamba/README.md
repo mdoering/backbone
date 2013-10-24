@@ -1,14 +1,13 @@
-Flammula scamba (Fr.) Sacc., 1887 SPECIES
-=======
+# Pholiota scamba (Fr.) M.M. Moser, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 5: 828 (1887)
+Persoonia 13(1): 81 (1986)
 
 #### Original name
 Agaricus scambus Fr., 1818

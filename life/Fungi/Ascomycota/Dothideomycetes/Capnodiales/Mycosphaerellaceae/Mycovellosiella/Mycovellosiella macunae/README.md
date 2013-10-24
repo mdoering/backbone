@@ -1,5 +1,4 @@
-Mycovellosiella macunae ined. SPECIES
-=======
+# Mycovellosiella macunae ined. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropeltidium cupaniae (Bat. & A.F. Vital) Bat. SPECIES
-=======
+# Micropeltidium cupaniae (Bat. & A.F. Vital) Bat. SPECIES
 
 #### Status
 ACCEPTED

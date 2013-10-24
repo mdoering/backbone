@@ -1,5 +1,4 @@
-Peltigera dissecta Purvis, P. James & Vitik. SPECIES
-=======
+# Peltigera dissecta Purvis, P. James & Vitik. SPECIES
 
 #### Status
 ACCEPTED

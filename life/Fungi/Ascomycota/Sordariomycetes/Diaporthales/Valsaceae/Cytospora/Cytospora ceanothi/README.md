@@ -1,5 +1,4 @@
-Cytospora ceanothi Schwein. SPECIES
-=======
+# Cytospora ceanothi Schwein. SPECIES
 
 #### Status
 ACCEPTED

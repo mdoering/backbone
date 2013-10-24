@@ -1,5 +1,4 @@
-Ditremis corticata Makhija & Patw. SPECIES
-=======
+# Ditremis corticata Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

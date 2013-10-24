@@ -1,17 +1,16 @@
-Cladonia foliacea var. foliacea VARIETY
-=======
+# Cladonia foliacea (Huds.) Willd. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Fl. Berol. Prodr. 363 (1787)
 
 #### Original name
-Cladonia foliacea var. foliacea
+Lichen foliaceus Huds.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Golovinomyces pseudosepultus (U. Braun) V.P. Heluta SPECIES
-=======
+# Golovinomyces pseudosepultus (U. Braun) V.P. Heluta SPECIES
 
 #### Status
 ACCEPTED

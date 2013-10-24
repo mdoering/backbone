@@ -1,5 +1,4 @@
-Placopsis amabilis B. de Lesd. SPECIES
-=======
+# Placopsis amabilis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

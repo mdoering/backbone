@@ -1,5 +1,4 @@
-Chalastospora obclavata Crous & U. Braun, 2009 SPECIES
-=======
+# Chalastospora obclavata Crous & U. Braun, 2009 SPECIES
 
 #### Status
 ACCEPTED

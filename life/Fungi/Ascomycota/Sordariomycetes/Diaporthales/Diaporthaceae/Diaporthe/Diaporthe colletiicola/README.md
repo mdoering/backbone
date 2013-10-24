@@ -1,5 +1,4 @@
-Diaporthe colletiicola Speg. SPECIES
-=======
+# Diaporthe colletiicola Speg. SPECIES
 
 #### Status
 ACCEPTED

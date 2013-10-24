@@ -1,17 +1,16 @@
-Corticium epiphyllum var. epiphyllum VARIETY
-=======
+# Corticium epiphyllum SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Michelia 1(no. 1): 6 (1877)
+null
 
 #### Original name
-Corticium epiphyllum var. epiphyllum
+null
 
 ### Remarks
 null

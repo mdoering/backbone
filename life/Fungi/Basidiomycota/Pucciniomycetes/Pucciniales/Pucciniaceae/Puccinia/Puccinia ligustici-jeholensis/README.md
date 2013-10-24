@@ -1,5 +1,4 @@
-Puccinia ligustici-jeholensis J.Y. Zhuang & S.X. Wei SPECIES
-=======
+# Puccinia ligustici-jeholensis J.Y. Zhuang & S.X. Wei SPECIES
 
 #### Status
 ACCEPTED

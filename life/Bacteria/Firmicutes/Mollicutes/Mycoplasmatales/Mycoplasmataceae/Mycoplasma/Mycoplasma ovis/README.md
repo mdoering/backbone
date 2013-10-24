@@ -1,8 +1,7 @@
-Eperythrozoon ovis Neitz et al., 1934 (Approved Lists, 1980) SPECIES
-=======
+# Mycoplasma ovis (Neitz et al., 1934) Neimark et al., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

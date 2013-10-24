@@ -1,17 +1,16 @@
-Polyporus supinus var. ater Rick, 1940 VARIETY
-=======
+# Fomitella supina (Sw.) Murrill, 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-An. Reun. Sul-Amer. Bot. 2: 289 (1940)
+null
 
 #### Original name
-Polyporus supinus var. ater Rick, 1940
+null
 
 ### Remarks
 null

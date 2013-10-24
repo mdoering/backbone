@@ -1,17 +1,16 @@
-Trichobasis primulae Cooke, 1875 SPECIES
-=======
+# Puccinia primulae (DC.) Duby, 1830 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 4(no. 30): 67 (1875)
+Bot. Gall. (Paris), Edn 2 2: 891 (1830)
 
 #### Original name
-Trichobasis primulae Cooke, 1875
+Uredo primulae DC., 1815
 
 ### Remarks
 null

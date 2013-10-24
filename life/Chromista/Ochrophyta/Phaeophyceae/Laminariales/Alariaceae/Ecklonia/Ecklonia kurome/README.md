@@ -1,5 +1,4 @@
-Ecklonia kurome Okamura SPECIES
-=======
+# Ecklonia kurome Okamura SPECIES
 
 #### Status
 ACCEPTED

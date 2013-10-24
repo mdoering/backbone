@@ -1,5 +1,4 @@
-Pyrgo sarsi SPECIES
-=======
+# Pyrgo sarsi SPECIES
 
 #### Status
 ACCEPTED

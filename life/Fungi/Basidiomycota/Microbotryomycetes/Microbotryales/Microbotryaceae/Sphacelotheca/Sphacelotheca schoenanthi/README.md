@@ -1,5 +1,4 @@
-Sphacelotheca schoenanthi (Syd. & E.J. Butler) Zundel SPECIES
-=======
+# Sphacelotheca schoenanthi (Syd. & E.J. Butler) Zundel SPECIES
 
 #### Status
 ACCEPTED

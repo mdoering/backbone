@@ -1,5 +1,4 @@
-Poria irregularis Rodway ex Y.S. Chang & Kantvilas SPECIES
-=======
+# Poria irregularis Rodway ex Y.S. Chang & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

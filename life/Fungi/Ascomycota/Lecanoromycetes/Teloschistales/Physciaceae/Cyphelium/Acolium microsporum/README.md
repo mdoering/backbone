@@ -1,5 +1,4 @@
-Acolium microsporum B. de Lesd. SPECIES
-=======
+# Acolium microsporum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

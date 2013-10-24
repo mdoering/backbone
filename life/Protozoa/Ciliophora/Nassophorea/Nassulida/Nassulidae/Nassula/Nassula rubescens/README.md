@@ -1,5 +1,4 @@
-Nassula rubescens Dumas, 1930 SPECIES
-=======
+# Nassula rubescens Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

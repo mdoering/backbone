@@ -1,5 +1,4 @@
-Torula ulmicola Rabenh. SPECIES
-=======
+# Torula ulmicola Rabenh. SPECIES
 
 #### Status
 ACCEPTED

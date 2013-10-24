@@ -1,5 +1,4 @@
-Microdiplodia consociata (Berk. & M.A. Curtis) Tassi SPECIES
-=======
+# Microdiplodia consociata (Berk. & M.A. Curtis) Tassi SPECIES
 
 #### Status
 ACCEPTED

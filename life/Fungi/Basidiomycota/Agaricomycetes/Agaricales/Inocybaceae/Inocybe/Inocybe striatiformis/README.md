@@ -1,5 +1,4 @@
-Inocybe striatiformis Murrill SPECIES
-=======
+# Inocybe striatiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

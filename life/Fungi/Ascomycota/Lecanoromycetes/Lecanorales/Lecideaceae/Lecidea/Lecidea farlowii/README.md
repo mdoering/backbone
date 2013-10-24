@@ -1,5 +1,4 @@
-Lecidea farlowii (Tuck.) Nyl. SPECIES
-=======
+# Lecidea farlowii (Tuck.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium pelargonii Cooke SPECIES
-=======
+# Fusarium pelargonii Cooke SPECIES
 
 #### Status
 ACCEPTED

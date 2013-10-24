@@ -1,5 +1,4 @@
-Sphaerella vitalbina Pass. SPECIES
-=======
+# Sphaerella vitalbina Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pseudocercospora malvacina P.N. Singh, M.S. Tripathi, A.N. Singh bis & R.K. Chaudhary SPECIES
-=======
+# Pseudocercospora malvaviscina P.N. Singh, M.S. Tripathi, A.N. Singh bis & R.K. Chaudhary SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kavaka 25: 36 (1998)
 
 #### Original name
-Pseudocercospora malvacina P.N. Singh, M.S. Tripathi, A.N. Singh bis & R.K. Chaudhary
+Pseudocercospora malvaviscina P.N. Singh, M.S. Tripathi, A.N. Singh bis & R.K. Chaudhary
 
 ### Remarks
 null

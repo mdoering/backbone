@@ -1,5 +1,4 @@
-Ditylis moderata (Nyl.) Clem. SPECIES
-=======
+# Ditylis moderata (Nyl.) Clem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium jacarandae Henn. SPECIES
-=======
+# Aecidium jacarandae Henn. SPECIES
 
 #### Status
 ACCEPTED

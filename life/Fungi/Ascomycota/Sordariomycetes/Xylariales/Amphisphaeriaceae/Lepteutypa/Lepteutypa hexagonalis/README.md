@@ -1,5 +1,4 @@
-Lepteutypa hexagonalis Goh & K.D. Hyde SPECIES
-=======
+# Lepteutypa hexagonalis Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

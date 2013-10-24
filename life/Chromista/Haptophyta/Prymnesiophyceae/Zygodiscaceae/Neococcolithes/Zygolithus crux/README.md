@@ -1,5 +1,4 @@
-Zygolithus crux (Deflandre & Fert, 1954) Bramlette & Sullivan, 1961 SPECIES
-=======
+# Zygolithus crux (Deflandre & Fert, 1954) Bramlette & Sullivan, 1961 SPECIES
 
 #### Status
 DOUBTFUL

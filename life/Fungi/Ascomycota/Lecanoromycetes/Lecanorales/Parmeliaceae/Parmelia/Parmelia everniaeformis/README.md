@@ -1,5 +1,4 @@
-Parmelia everniaeformis Zahlbr. SPECIES
-=======
+# Parmelia everniaeformis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

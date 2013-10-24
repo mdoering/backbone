@@ -1,8 +1,7 @@
-Tintinnus urnula Claparède & Lachmann, 1858 SPECIES
-=======
+# Ptychocylis urnula (Claparède & Lachmann, 1858) Brandt, 1896 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

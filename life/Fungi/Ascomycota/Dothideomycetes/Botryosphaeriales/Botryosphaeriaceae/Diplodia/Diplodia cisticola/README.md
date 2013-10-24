@@ -1,5 +1,4 @@
-Diplodia cisticola Brunaud SPECIES
-=======
+# Diplodia cisticola Brunaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmulariopsis pulchella Petr., 1954 SPECIES
-=======
+# Parmulariopsis pulchella Petr., 1954 SPECIES
 
 #### Status
 ACCEPTED

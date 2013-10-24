@@ -1,5 +1,4 @@
-Spirochaeta asiatica Zhilina et al., 1996 SPECIES
-=======
+# Spirochaeta asiatica Zhilina et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

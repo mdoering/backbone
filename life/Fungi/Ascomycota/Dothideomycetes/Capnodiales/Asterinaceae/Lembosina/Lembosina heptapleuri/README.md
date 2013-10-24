@@ -1,5 +1,4 @@
-Lembosina heptapleuri (Sacc.) Arx SPECIES
-=======
+# Lembosina heptapleuri (Sacc.) Arx SPECIES
 
 #### Status
 ACCEPTED

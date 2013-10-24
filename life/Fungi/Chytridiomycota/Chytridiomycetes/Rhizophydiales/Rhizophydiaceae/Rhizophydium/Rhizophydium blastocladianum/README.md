@@ -1,5 +1,4 @@
-Rhizophydium blastocladianum S.N. Dasgupta & R. John SPECIES
-=======
+# Rhizophydium blastocladianum S.N. Dasgupta & R. John SPECIES
 
 #### Status
 ACCEPTED

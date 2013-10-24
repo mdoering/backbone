@@ -1,5 +1,4 @@
-Aecidium senecionis-jacksonii Gjaerum SPECIES
-=======
+# Aecidium senecionis-jacksonii Gjaerum SPECIES
 
 #### Status
 ACCEPTED

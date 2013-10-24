@@ -1,5 +1,4 @@
-Cercospora silphii Ellis & Everh. SPECIES
-=======
+# Cercospora silphii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

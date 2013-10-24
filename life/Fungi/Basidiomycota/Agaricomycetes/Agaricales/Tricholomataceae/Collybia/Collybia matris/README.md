@@ -1,5 +1,4 @@
-Collybia matris S. Ito & S. Imai SPECIES
-=======
+# Collybia matris S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

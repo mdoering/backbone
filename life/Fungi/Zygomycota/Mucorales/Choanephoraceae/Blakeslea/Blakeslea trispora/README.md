@@ -1,17 +1,16 @@
-Blakeslea sinensis R.Y. Zheng & G.Q. Chen, 1987 SPECIES
-=======
+# Blakeslea trispora Thaxt., 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Mycol. Sin. (1987)
+Bot. Gaz. 58: 343 (1914)
 
 #### Original name
-Blakeslea sinensis R.Y. Zheng & G.Q. Chen, 1987
+Blakeslea trispora Thaxt., 1914
 
 ### Remarks
 null

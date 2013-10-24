@@ -1,5 +1,4 @@
-Spiroloculina elevata Wiesner, 1923 SPECIES
-=======
+# Spiroloculina elevata Wiesner, 1923 SPECIES
 
 #### Status
 ACCEPTED

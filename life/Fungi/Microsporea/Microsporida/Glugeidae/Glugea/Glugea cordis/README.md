@@ -1,5 +1,4 @@
-Glugea cordis Thélohan, 1895 SPECIES
-=======
+# Glugea cordis Thélohan, 1895 SPECIES
 
 #### Status
 ACCEPTED

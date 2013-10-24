@@ -1,5 +1,4 @@
-Chalara grandispora Matsush. SPECIES
-=======
+# Chalara grandispora Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum ixorae-parviflorae Patw. & Sathe SPECIES
-=======
+# Colletotrichum ixorae-parviflorae Patw. & Sathe SPECIES
 
 #### Status
 ACCEPTED

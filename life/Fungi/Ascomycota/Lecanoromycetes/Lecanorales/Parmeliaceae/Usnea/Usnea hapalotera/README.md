@@ -1,5 +1,4 @@
-Usnea hapalotera (Harm.) Motyka SPECIES
-=======
+# Usnea hapalotera (Harm.) Motyka SPECIES
 
 #### Status
 ACCEPTED

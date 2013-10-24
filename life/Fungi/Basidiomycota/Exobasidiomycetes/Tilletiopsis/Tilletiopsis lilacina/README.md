@@ -1,5 +1,4 @@
-Tilletiopsis lilacina Tubaki, 1952 SPECIES
-=======
+# Tilletiopsis lilacina Tubaki, 1952 SPECIES
 
 #### Status
 ACCEPTED

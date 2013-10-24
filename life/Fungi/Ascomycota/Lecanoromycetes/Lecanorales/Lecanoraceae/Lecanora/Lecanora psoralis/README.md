@@ -1,5 +1,4 @@
-Lecanora psoralis Ach. SPECIES
-=======
+# Lecanora psoralis Ach. SPECIES
 
 #### Status
 ACCEPTED

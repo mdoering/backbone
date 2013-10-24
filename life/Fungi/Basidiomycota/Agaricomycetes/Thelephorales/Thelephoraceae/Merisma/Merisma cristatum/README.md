@@ -1,17 +1,16 @@
-Merisma cristatum var. cristatum VARIETY
-=======
+# Merisma cristatum SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Comm. fung. clav. (Lipsiae) 96 (1797)
+null
 
 #### Original name
-Merisma cristatum var. cristatum
+null
 
 ### Remarks
 null

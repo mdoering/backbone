@@ -1,5 +1,4 @@
-Gymnopilus luteus (Peck) Hesler SPECIES
-=======
+# Gymnopilus luteus (Peck) Hesler SPECIES
 
 #### Status
 ACCEPTED

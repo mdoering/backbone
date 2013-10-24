@@ -1,5 +1,4 @@
-Leciographa stigmoides (Nyl.) Vouaux SPECIES
-=======
+# Leciographa stigmoides (Nyl.) Vouaux SPECIES
 
 #### Status
 ACCEPTED

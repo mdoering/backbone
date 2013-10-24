@@ -1,5 +1,4 @@
-Placolecania crenata Herre SPECIES
-=======
+# Placolecania crenata Herre SPECIES
 
 #### Status
 ACCEPTED

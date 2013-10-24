@@ -1,5 +1,4 @@
-Catacauma GENUS
-=======
+# Catacauma GENUS
 
 #### Status
 ACCEPTED

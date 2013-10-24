@@ -1,5 +1,4 @@
-Trachelomonas lagenella Stein SPECIES
-=======
+# Trachelomonas lagenella Stein SPECIES
 
 #### Status
 ACCEPTED

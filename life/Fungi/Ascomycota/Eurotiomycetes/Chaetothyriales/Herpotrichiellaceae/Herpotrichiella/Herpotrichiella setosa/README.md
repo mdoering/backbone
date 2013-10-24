@@ -1,5 +1,4 @@
-Herpotrichiella setosa M.E. Barr SPECIES
-=======
+# Herpotrichiella setosa M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Genistelloides amplispora M.M. White & Lichtw., 2004 SPECIES
-=======
+# Genistelloides amplispora M.M. White & Lichtw., 2004 SPECIES
 
 #### Status
 ACCEPTED

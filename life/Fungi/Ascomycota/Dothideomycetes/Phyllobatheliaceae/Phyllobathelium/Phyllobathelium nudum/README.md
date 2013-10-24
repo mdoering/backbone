@@ -1,5 +1,4 @@
-Phyllobathelium nudum Zahlbr. SPECIES
-=======
+# Phyllobathelium nudum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

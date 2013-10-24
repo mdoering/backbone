@@ -1,5 +1,4 @@
-Micromphale subtranslucens Dennis SPECIES
-=======
+# Micromphale subtranslucens Dennis SPECIES
 
 #### Status
 ACCEPTED

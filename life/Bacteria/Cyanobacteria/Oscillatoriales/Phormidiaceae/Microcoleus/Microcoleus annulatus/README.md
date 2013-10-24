@@ -1,5 +1,4 @@
-Microcoleus annulatus F. E. Fritsch SPECIES
-=======
+# Microcoleus annulatus F. E. Fritsch SPECIES
 
 #### Status
 ACCEPTED

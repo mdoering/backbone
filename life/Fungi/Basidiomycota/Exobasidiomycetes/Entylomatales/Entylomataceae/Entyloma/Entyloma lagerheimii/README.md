@@ -1,5 +1,4 @@
-Entyloma lagerheimii Cif. SPECIES
-=======
+# Entyloma lagerheimii Cif. SPECIES
 
 #### Status
 ACCEPTED

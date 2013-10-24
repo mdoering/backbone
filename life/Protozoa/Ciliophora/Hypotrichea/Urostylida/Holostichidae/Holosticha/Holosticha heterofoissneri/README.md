@@ -1,5 +1,4 @@
-Holosticha heterofoissneri Hu & Song, 2001 SPECIES
-=======
+# Holosticha heterofoissneri Hu & Song, 2001 SPECIES
 
 #### Status
 ACCEPTED

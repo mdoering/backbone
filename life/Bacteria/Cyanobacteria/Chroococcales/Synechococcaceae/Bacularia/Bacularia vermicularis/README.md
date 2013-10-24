@@ -1,5 +1,4 @@
-Bacularia vermicularis (Fedorov) Komárek & Anagnostidis SPECIES
-=======
+# Bacularia vermicularis (Fedorov) Komárek & Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

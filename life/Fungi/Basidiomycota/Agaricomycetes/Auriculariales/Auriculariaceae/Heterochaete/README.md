@@ -1,5 +1,4 @@
-Heterochaete Patouillard, 1892 GENUS
-=======
+# Heterochaete Patouillard, 1892 GENUS
 
 #### Status
 ACCEPTED

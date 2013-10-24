@@ -1,5 +1,4 @@
-Leptosillia Höhn. GENUS
-=======
+# Leptosillia Höhn. GENUS
 
 #### Status
 ACCEPTED

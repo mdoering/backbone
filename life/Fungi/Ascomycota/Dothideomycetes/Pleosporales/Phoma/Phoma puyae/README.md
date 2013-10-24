@@ -1,5 +1,4 @@
-Phoma puyae Speg. SPECIES
-=======
+# Phoma puyae Speg. SPECIES
 
 #### Status
 ACCEPTED

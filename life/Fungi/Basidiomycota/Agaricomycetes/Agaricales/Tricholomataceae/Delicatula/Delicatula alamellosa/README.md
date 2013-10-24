@@ -1,5 +1,4 @@
-Delicatula alamellosa Velen. SPECIES
-=======
+# Delicatula alamellosa Velen. SPECIES
 
 #### Status
 ACCEPTED

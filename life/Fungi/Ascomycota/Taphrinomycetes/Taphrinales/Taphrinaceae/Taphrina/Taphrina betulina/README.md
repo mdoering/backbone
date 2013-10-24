@@ -1,17 +1,16 @@
-Exoascus turgidus Sadeb., 1884 SPECIES
-=======
+# Taphrina betulina Rostr., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Tidsskrift fur Skovburg 6: 199-300 (1883)
 
 #### Original name
-Exoascus turgidus Sadeb., 1884
+Taphrina betulina Rostr., 1883
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Agaricus brondaei Laterrade {?} SPECIES
-=======
+# Agaricus brondaei Laterrade {?} SPECIES
 
 #### Status
 ACCEPTED

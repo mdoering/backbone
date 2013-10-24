@@ -1,5 +1,4 @@
-Lasiosphaeria disjuncta S. Ahmad & Lodhi SPECIES
-=======
+# Lasiosphaeria disjuncta S. Ahmad & Lodhi SPECIES
 
 #### Status
 ACCEPTED

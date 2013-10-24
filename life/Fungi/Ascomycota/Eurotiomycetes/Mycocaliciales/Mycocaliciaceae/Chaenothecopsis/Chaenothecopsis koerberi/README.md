@@ -1,5 +1,4 @@
-Chaenothecopsis koerberi (Nádv.) Tibell SPECIES
-=======
+# Chaenothecopsis koerberi (Nádv.) Tibell SPECIES
 
 #### Status
 ACCEPTED

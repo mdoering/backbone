@@ -1,5 +1,4 @@
-Sclerotium monohistum Maresq. {?} SPECIES
-=======
+# Sclerotium monohistum Maresq. {?} SPECIES
 
 #### Status
 ACCEPTED

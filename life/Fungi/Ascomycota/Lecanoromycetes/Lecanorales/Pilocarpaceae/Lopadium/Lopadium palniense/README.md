@@ -1,17 +1,16 @@
-Lopadium palniensis Patw. & Makhija SPECIES
-=======
+# Lopadium palniense Patw. & Makhija SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian J. Bot. 4(1): 24 (1981)
 
 #### Original name
-Lopadium palniensis Patw. & Makhija
+Lopadium palniense Patw. & Makhija
 
 ### Remarks
 null

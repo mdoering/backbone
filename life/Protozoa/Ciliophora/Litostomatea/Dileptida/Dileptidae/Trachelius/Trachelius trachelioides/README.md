@@ -1,5 +1,4 @@
-Trachelius trachelioides Maskell, 1887 SPECIES
-=======
+# Trachelius trachelioides Maskell, 1887 SPECIES
 
 #### Status
 ACCEPTED

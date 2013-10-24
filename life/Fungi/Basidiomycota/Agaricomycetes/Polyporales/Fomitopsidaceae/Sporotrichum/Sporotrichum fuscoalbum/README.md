@@ -1,5 +1,4 @@
-Sporotrichum fuscoalbum Link SPECIES
-=======
+# Sporotrichum fuscoalbum Link SPECIES
 
 #### Status
 ACCEPTED

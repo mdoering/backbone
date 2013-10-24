@@ -1,5 +1,4 @@
-Hysterostomella miconiae Henn., 1897 SPECIES
-=======
+# Hysterostomella miconiae Henn., 1897 SPECIES
 
 #### Status
 ACCEPTED

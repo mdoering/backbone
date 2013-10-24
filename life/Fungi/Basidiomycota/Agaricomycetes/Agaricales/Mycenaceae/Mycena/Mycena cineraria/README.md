@@ -1,5 +1,4 @@
-Mycena cineraria A.H. Sm. SPECIES
-=======
+# Mycena cineraria A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

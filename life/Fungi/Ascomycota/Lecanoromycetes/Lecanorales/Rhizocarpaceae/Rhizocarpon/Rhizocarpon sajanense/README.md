@@ -1,5 +1,4 @@
-Rhizocarpon sajanense (Räsänen) Räsänen SPECIES
-=======
+# Rhizocarpon sajanense (Räsänen) Räsänen SPECIES
 
 #### Status
 ACCEPTED

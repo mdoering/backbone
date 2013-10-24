@@ -1,5 +1,4 @@
-Puccinia abyssinica (Henn.) P. Syd. & Syd. SPECIES
-=======
+# Puccinia abyssinica (Henn.) P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

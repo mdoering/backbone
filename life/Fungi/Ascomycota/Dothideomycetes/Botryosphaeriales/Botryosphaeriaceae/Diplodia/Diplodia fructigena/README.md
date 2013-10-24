@@ -1,5 +1,4 @@
-Diplodia fructigena Brunaud SPECIES
-=======
+# Diplodia fructigena Brunaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laricina Velen. GENUS
-=======
+# Laricina Velen. GENUS
 
 #### Status
 ACCEPTED

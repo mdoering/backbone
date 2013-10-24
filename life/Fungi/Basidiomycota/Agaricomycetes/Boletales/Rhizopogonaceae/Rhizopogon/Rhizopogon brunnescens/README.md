@@ -1,5 +1,4 @@
-Rhizopogon brunnescens Zeller SPECIES
-=======
+# Rhizopogon brunnescens Zeller SPECIES
 
 #### Status
 ACCEPTED

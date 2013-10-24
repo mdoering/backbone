@@ -1,5 +1,4 @@
-Radulomyces arborifer Malysheva & Zmitr. SPECIES
-=======
+# Radulomyces arborifer Malysheva & Zmitr. SPECIES
 
 #### Status
 ACCEPTED

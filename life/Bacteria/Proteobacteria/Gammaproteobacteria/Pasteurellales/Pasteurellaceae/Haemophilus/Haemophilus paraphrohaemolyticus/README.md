@@ -1,5 +1,4 @@
-Haemophilus paraphrohaemolyticus Zinnemann et al., 1971 (Approved Lists, 1980) SPECIES
-=======
+# Haemophilus paraphrohaemolyticus Zinnemann et al., 1971 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paecilomyces heliothis (Charles) A.H.S. Br. & G. Sm. SPECIES
-=======
+# Paecilomyces heliothis (Charles) A.H.S. Br. & G. Sm. SPECIES
 
 #### Status
 ACCEPTED

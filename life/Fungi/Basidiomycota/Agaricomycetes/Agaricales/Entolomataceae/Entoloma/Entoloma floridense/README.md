@@ -1,5 +1,4 @@
-Entoloma floridense Morgan-Jones SPECIES
-=======
+# Entoloma floridense Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

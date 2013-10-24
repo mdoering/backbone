@@ -1,5 +1,4 @@
-Lophiotrema coffeicola Speg. SPECIES
-=======
+# Lophiotrema coffeicola Speg. SPECIES
 
 #### Status
 ACCEPTED

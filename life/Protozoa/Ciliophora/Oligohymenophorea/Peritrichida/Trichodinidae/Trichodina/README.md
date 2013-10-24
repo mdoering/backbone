@@ -1,5 +1,4 @@
-Trichodina Ehrenberg, 1830 GENUS
-=======
+# Trichodina Ehrenberg, 1830 GENUS
 
 #### Status
 ACCEPTED

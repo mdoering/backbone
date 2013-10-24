@@ -1,5 +1,4 @@
-Sporidesmiella pachyanthicola W.B. Kendr. & R.F. Castañeda SPECIES
-=======
+# Sporidesmiella pachyanthicola W.B. Kendr. & R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces melandryi Dietel & Neger SPECIES
-=======
+# Uromyces melandryi Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

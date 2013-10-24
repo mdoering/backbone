@@ -1,5 +1,4 @@
-Diplodia arecae Massee SPECIES
-=======
+# Diplodia arecae Massee SPECIES
 
 #### Status
 ACCEPTED

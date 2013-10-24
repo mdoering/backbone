@@ -1,5 +1,4 @@
-Corallococcus exiguus SPECIES
-=======
+# Corallococcus exiguus SPECIES
 
 #### Status
 ACCEPTED

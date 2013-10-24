@@ -1,5 +1,4 @@
-Calodon olidus (Berk.) S. Ito SPECIES
-=======
+# Calodon olidus (Berk.) S. Ito SPECIES
 
 #### Status
 ACCEPTED

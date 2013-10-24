@@ -1,5 +1,4 @@
-Dactyliosphaeridae Squinabol, 1904 FAMILY
-=======
+# Dactyliosphaeridae Squinabol, 1904 FAMILY
 
 #### Status
 ACCEPTED

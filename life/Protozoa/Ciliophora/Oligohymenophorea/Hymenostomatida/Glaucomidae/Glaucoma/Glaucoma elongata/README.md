@@ -1,5 +1,4 @@
-Glaucoma elongata Fromentel, 1876 SPECIES
-=======
+# Glaucoma elongata Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

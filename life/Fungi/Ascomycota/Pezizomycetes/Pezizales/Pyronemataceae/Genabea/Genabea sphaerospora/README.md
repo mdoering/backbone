@@ -1,5 +1,4 @@
-Genabea sphaerospora Mattir. SPECIES
-=======
+# Genabea sphaerospora Mattir. SPECIES
 
 #### Status
 ACCEPTED

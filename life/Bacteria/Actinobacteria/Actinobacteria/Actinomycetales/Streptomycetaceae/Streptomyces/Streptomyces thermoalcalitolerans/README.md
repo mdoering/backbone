@@ -1,5 +1,4 @@
-Streptomyces thermoalcalitolerans Kim et al., 1999 SPECIES
-=======
+# Streptomyces thermoalcalitolerans Kim et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

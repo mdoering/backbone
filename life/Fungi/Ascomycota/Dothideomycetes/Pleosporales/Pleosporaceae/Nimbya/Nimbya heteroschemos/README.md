@@ -1,14 +1,13 @@
-Macrosporium heteroschemon Fautrey, 1896 SPECIES
-=======
+# Nimbya heteroschemos (Fautrey) E.G. Simmons, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue mycol. , Toulouse 18: 69 (1896)
+Sydowia 41: 323 (1989)
 
 #### Original name
 Macrosporium heteroschemon Fautrey, 1896

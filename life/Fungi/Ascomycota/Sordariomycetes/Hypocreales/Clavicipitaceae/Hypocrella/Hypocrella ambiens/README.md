@@ -1,5 +1,4 @@
-Hypocrella ambiens Theiss. SPECIES
-=======
+# Hypocrella ambiens Theiss. SPECIES
 
 #### Status
 ACCEPTED

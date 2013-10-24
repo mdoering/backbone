@@ -1,5 +1,4 @@
-Eriomycopsis biseptata Chevaug. SPECIES
-=======
+# Eriomycopsis biseptata Chevaug. SPECIES
 
 #### Status
 ACCEPTED

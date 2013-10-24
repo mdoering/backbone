@@ -1,5 +1,4 @@
-Pachnolepia lanuginosa Hampe SPECIES
-=======
+# Pachnolepia lanuginosa Hampe SPECIES
 
 #### Status
 ACCEPTED

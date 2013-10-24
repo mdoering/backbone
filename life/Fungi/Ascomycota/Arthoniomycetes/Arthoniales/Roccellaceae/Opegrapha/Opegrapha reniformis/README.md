@@ -1,5 +1,4 @@
-Opegrapha reniformis Pers. SPECIES
-=======
+# Opegrapha reniformis Pers. SPECIES
 
 #### Status
 ACCEPTED

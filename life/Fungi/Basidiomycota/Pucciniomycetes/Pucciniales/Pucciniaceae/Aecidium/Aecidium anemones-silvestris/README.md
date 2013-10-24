@@ -1,5 +1,4 @@
-Aecidium anemones-silvestris Kleb. SPECIES
-=======
+# Aecidium anemones-silvestris Kleb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia samothrakiana Szatala SPECIES
-=======
+# Buellia samothrakiana Szatala SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha arthrospora Vain. SPECIES
-=======
+# Opegrapha arthrospora Vain. SPECIES
 
 #### Status
 ACCEPTED

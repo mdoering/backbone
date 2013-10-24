@@ -1,5 +1,4 @@
-Dwayalomella vaccinii Brisson, Piroz. & Pauzé, 1975 SPECIES
-=======
+# Dwayalomella vaccinii Brisson, Piroz. & Pauzé, 1975 SPECIES
 
 #### Status
 ACCEPTED

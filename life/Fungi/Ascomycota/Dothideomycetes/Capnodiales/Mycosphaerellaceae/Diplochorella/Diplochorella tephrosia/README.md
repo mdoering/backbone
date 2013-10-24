@@ -1,14 +1,13 @@
-Dothidella tephrosia (Lév.) Sacc., 1883 SPECIES
-=======
+# Diplochorella tephrosia (Lév.) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 630 (1883)
+Annls mycol. 13(5/6): 624 (1915)
 
 #### Original name
 Sphaeria tephrosia Lév., 1846

@@ -1,5 +1,4 @@
-Peltidea velleiformis (Bellardi) Ach. SPECIES
-=======
+# Peltidea velleiformis (Bellardi) Ach. SPECIES
 
 #### Status
 ACCEPTED

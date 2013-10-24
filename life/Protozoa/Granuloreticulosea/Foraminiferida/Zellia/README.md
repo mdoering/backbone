@@ -1,5 +1,4 @@
-Zellia Kahler & Kahler, 1937 GENUS
-=======
+# Zellia Kahler & Kahler, 1937 GENUS
 
 #### Status
 ACCEPTED

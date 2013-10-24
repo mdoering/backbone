@@ -1,5 +1,4 @@
-Mycovellosiella psidii Crous SPECIES
-=======
+# Mycovellosiella psidii Crous SPECIES
 
 #### Status
 ACCEPTED

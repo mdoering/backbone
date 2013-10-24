@@ -1,5 +1,4 @@
-Distatodinium ellipticum (Cookson, 1965) Eaton, 1976 SPECIES
-=======
+# Distatodinium ellipticum (Cookson, 1965) Eaton, 1976 SPECIES
 
 #### Status
 ACCEPTED

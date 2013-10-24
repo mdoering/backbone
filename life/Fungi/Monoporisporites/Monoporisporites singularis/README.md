@@ -1,5 +1,4 @@
-Monoporisporites singularis Sheffy & Dilcher SPECIES
-=======
+# Monoporisporites singularis Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

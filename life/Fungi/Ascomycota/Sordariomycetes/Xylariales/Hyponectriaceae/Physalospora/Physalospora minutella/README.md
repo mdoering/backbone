@@ -1,5 +1,4 @@
-Physalospora minutella (Peck) Sacc. SPECIES
-=======
+# Physalospora minutella (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

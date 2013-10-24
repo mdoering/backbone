@@ -1,5 +1,4 @@
-Peronospora erinicola Durrieu SPECIES
-=======
+# Peronospora erinicola Durrieu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Watznaueria quadriradiata SPECIES
-=======
+# Watznaueria quadriradiata SPECIES
 
 #### Status
 ACCEPTED

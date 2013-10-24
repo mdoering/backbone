@@ -1,5 +1,4 @@
-Cenangium palmatum Schwein. SPECIES
-=======
+# Cenangium palmatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

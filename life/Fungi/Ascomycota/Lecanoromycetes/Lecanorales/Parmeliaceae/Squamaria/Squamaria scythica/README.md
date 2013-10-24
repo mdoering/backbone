@@ -1,5 +1,4 @@
-Squamaria scythica Nyl. SPECIES
-=======
+# Squamaria scythica Nyl. SPECIES
 
 #### Status
 ACCEPTED

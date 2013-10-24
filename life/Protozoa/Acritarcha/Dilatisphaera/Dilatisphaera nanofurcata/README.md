@@ -1,5 +1,4 @@
-Dilatisphaera nanofurcata Uutela & Tynni, 1991 SPECIES
-=======
+# Dilatisphaera nanofurcata Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

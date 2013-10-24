@@ -1,17 +1,16 @@
-Dacryoma alba Samuels SPECIES
-=======
+# Dacryoma album Samuels, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Brittonia 40(3): 328 (1988)
 
 #### Original name
-Dacryoma alba Samuels
+Dacryoma album Samuels, 1988
 
 ### Remarks
 null

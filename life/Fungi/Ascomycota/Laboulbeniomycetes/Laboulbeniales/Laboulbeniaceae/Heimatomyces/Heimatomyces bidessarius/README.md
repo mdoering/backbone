@@ -1,5 +1,4 @@
-Heimatomyces bidessarius Thaxt. SPECIES
-=======
+# Heimatomyces bidessarius Thaxt. SPECIES
 
 #### Status
 ACCEPTED

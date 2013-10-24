@@ -1,5 +1,4 @@
-Tricholoma deserticola Speg. SPECIES
-=======
+# Tricholoma deserticola Speg. SPECIES
 
 #### Status
 ACCEPTED

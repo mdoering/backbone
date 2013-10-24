@@ -1,5 +1,4 @@
-Ectotrichophyton persicolor (Sabour.) Castell. & Chalm. SPECIES
-=======
+# Ectotrichophyton persicolor (Sabour.) Castell. & Chalm. SPECIES
 
 #### Status
 ACCEPTED

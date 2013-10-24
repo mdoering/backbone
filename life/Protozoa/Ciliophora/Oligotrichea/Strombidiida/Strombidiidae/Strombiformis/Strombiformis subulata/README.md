@@ -1,5 +1,4 @@
-Strombiformis subulata SPECIES
-=======
+# Strombiformis subulata SPECIES
 
 #### Status
 ACCEPTED

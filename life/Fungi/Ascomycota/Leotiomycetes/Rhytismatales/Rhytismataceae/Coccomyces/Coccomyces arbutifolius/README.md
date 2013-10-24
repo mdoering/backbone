@@ -1,5 +1,4 @@
-Coccomyces arbutifolius Sherwood, 1980 SPECIES
-=======
+# Coccomyces arbutifolius Sherwood, 1980 SPECIES
 
 #### Status
 ACCEPTED

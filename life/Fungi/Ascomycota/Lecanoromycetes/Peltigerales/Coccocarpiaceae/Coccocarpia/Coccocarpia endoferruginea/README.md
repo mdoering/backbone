@@ -1,5 +1,4 @@
-Coccocarpia endoferruginea (Räsänen) Arv. SPECIES
-=======
+# Coccocarpia endoferruginea (Räsänen) Arv. SPECIES
 
 #### Status
 ACCEPTED

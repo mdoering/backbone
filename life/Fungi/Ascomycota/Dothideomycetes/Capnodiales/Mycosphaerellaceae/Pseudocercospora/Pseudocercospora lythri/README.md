@@ -1,5 +1,4 @@
-Pseudocercospora lythri H.D. Shin & U. Braun SPECIES
-=======
+# Pseudocercospora lythri H.D. Shin & U. Braun SPECIES
 
 #### Status
 ACCEPTED

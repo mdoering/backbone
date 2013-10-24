@@ -1,5 +1,4 @@
-Haloarcula hispanica Juez et al., 1986 SPECIES
-=======
+# Haloarcula hispanica Juez et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

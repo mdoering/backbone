@@ -1,5 +1,4 @@
-Caloplaca squamulata (Nyl.) H. Olivier SPECIES
-=======
+# Caloplaca squamulata (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

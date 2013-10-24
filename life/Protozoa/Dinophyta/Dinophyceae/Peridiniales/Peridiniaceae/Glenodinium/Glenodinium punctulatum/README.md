@@ -1,5 +1,4 @@
-Glenodinium punctulatum T.M. Harris SPECIES
-=======
+# Glenodinium punctulatum T.M. Harris SPECIES
 
 #### Status
 ACCEPTED

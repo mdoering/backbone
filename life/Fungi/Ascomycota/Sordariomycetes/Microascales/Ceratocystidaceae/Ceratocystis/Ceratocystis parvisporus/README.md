@@ -1,5 +1,4 @@
-Ceratocystis parvisporus anon. SPECIES
-=======
+# Ceratocystis parvisporus anon. SPECIES
 
 #### Status
 ACCEPTED

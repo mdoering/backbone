@@ -1,5 +1,4 @@
-Lachnum willisiopsis W.Y. Zhuang SPECIES
-=======
+# Lachnum willisiopsis W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

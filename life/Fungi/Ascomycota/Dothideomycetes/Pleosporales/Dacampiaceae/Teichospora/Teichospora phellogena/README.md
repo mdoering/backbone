@@ -1,5 +1,4 @@
-Teichospora phellogena (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Teichospora phellogena (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

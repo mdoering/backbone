@@ -1,5 +1,4 @@
-Mycena meliigena (Berk. & Cooke) Sacc. SPECIES
-=======
+# Mycena meliigena (Berk. & Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

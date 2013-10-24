@@ -1,5 +1,4 @@
-Heterodermia albopruinosa (Kurok.) Kurok. SPECIES
-=======
+# Heterodermia albopruinosa (Kurok.) Kurok. SPECIES
 
 #### Status
 ACCEPTED

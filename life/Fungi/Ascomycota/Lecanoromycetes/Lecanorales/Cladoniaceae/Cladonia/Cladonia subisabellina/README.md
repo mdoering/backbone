@@ -1,5 +1,4 @@
-Cladonia subisabellina Abbayes SPECIES
-=======
+# Cladonia subisabellina Abbayes SPECIES
 
 #### Status
 ACCEPTED

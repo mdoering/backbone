@@ -1,5 +1,4 @@
-Pyrenophora echinopis Gucevic SPECIES
-=======
+# Pyrenophora echinopis Gucevic SPECIES
 
 #### Status
 ACCEPTED

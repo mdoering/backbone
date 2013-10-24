@@ -1,5 +1,4 @@
-Coprinus patouillardi Quèl. SPECIES
-=======
+# Coprinus patouillardi Quèl. SPECIES
 
 #### Status
 ACCEPTED

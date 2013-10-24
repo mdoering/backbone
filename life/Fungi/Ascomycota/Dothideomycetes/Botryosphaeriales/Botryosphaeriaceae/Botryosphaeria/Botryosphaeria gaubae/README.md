@@ -1,5 +1,4 @@
-Botryosphaeria gaubae Petr. SPECIES
-=======
+# Botryosphaeria gaubae Petr. SPECIES
 
 #### Status
 ACCEPTED

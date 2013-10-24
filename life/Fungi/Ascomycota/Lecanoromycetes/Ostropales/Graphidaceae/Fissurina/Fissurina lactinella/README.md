@@ -1,5 +1,4 @@
-Fissurina lactinella (Spreng.) Nyl. SPECIES
-=======
+# Fissurina lactinella (Spreng.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

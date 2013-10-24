@@ -1,5 +1,4 @@
-Tympanis syringae Fuckel SPECIES
-=======
+# Tympanis syringae Fuckel SPECIES
 
 #### Status
 ACCEPTED

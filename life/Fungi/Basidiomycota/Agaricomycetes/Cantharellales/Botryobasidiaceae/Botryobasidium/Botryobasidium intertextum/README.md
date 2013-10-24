@@ -1,17 +1,16 @@
-Pellicularia angustispora Boidin, 1957 SPECIES
-=======
+# Botryobasidium intertextum (Schwein.) Jülich & Stalpers, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Publ. Mus. Natl. Hist. Nat. 17: 119 (1957)
+Verh. K. ned. Akad. Wet. , 2 Sectie 74: 56 (1980)
 
 #### Original name
-Pellicularia angustispora Boidin, 1957
+Sporotrichum intertextum Schwein., 1832
 
 ### Remarks
 null

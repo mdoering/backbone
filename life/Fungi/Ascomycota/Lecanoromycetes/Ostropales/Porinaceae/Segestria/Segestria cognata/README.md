@@ -1,5 +1,4 @@
-Segestria cognata (Arnold) Dalla Torre & Sarnth. SPECIES
-=======
+# Segestria cognata (Arnold) Dalla Torre & Sarnth. SPECIES
 
 #### Status
 ACCEPTED

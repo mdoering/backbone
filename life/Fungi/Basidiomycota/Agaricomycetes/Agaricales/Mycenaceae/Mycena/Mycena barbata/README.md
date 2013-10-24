@@ -1,5 +1,4 @@
-Mycena barbata Velen. SPECIES
-=======
+# Mycena barbata Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllopsora weberi L.I. Ferraro SPECIES
-=======
+# Phyllopsora weberi L.I. Ferraro SPECIES
 
 #### Status
 ACCEPTED

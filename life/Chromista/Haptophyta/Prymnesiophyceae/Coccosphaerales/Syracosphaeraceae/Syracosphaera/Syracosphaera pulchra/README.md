@@ -1,11 +1,10 @@
-Syracosphaera variabilis (Halldal & Markali) Okada & McIntyre, 1977 SPECIES
-=======
+# Syracosphaera pulchra Lohmann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,14 +1,13 @@
-Clitopilus hobsonii var. daamsii (Noordel.) Courtec., 1994 VARIETY
-=======
+# Clitopilus daamsii Noordel., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 23(no. 92): 62 (1994)
+Persoonia 12(2): 161 (1984)
 
 #### Original name
 Clitopilus daamsii Noordel., 1984

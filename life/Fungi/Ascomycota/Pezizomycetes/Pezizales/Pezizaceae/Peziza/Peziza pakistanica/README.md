@@ -1,5 +1,4 @@
-Peziza pakistanica (S. Ahmad) S. Ahmad SPECIES
-=======
+# Peziza pakistanica (S. Ahmad) S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

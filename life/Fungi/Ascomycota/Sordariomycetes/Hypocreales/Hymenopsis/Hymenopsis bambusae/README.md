@@ -1,5 +1,4 @@
-Hymenopsis bambusae Nag Raj SPECIES
-=======
+# Hymenopsis bambusae Nag Raj SPECIES
 
 #### Status
 ACCEPTED

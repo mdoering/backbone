@@ -1,5 +1,4 @@
-Agaricus abiegna (Berk. & Broome) SPECIES
-=======
+# Agaricus abiegna (Berk. & Broome) SPECIES
 
 #### Status
 ACCEPTED

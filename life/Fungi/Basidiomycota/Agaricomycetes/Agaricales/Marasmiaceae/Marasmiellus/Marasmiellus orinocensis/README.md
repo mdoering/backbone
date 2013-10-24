@@ -1,5 +1,4 @@
-Marasmiellus orinocensis Singer SPECIES
-=======
+# Marasmiellus orinocensis Singer SPECIES
 
 #### Status
 ACCEPTED

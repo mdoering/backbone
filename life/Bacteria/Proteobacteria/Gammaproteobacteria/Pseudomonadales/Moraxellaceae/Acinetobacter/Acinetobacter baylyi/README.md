@@ -1,5 +1,4 @@
-Acinetobacter baylyi Carr et al., 2003 SPECIES
-=======
+# Acinetobacter baylyi Carr et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

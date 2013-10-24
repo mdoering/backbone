@@ -1,5 +1,4 @@
-Sarcostroma lomatiae (McAlpine) Nag Raj SPECIES
-=======
+# Sarcostroma lomatiae (McAlpine) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

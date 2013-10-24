@@ -1,5 +1,4 @@
-Gibberella violacea A.L. Sm. SPECIES
-=======
+# Gibberella violacea A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

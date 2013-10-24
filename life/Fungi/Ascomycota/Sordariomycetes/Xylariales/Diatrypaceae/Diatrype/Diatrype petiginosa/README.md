@@ -1,5 +1,4 @@
-Diatrype petiginosa Fr. ex Curr. SPECIES
-=======
+# Diatrype petiginosa Fr. ex Curr. SPECIES
 
 #### Status
 ACCEPTED

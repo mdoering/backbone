@@ -1,5 +1,4 @@
-Dermatea simillima Ellis & Everh. SPECIES
-=======
+# Dermatea simillima Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhinocladium guayaquilense Valenz. SPECIES
-=======
+# Rhinocladium guayaquilense Valenz. SPECIES
 
 #### Status
 ACCEPTED

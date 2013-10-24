@@ -1,5 +1,4 @@
-Pelagohalteria Foissner, Skogstad & Pratt, 1988 GENUS
-=======
+# Pelagohalteria Foissner, Skogstad & Pratt, 1988 GENUS
 
 #### Status
 ACCEPTED

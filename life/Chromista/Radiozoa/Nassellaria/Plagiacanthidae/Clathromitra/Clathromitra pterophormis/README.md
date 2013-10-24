@@ -1,5 +1,4 @@
-Clathromitra pterophormis Haeckel, 1887 SPECIES
-=======
+# Clathromitra pterophormis Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

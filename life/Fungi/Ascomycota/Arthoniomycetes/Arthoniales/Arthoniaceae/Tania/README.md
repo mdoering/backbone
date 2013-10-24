@@ -1,5 +1,4 @@
-Tania Egea, Torrente & Sipman, 1995 GENUS
-=======
+# Tania Egea, Torrente & Sipman, 1995 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Poria zameriensis (Pilát) Overh. SPECIES
-=======
+# Poria zameriensis (Pilát) Overh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Meliola cladotricha Lév., 1846 SPECIES
-=======
+# Meliolina cladotricha (Lév.) Syd. & P. Syd., 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 5: 266 (1846)
+Annls mycol. 12(6): 553 (1914)
 
 #### Original name
 Meliola cladotricha Lév., 1846

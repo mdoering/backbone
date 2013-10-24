@@ -1,5 +1,4 @@
-Cortinarius brunneoviolaceus Bidaud SPECIES
-=======
+# Cortinarius brunneoviolaceus Bidaud SPECIES
 
 #### Status
 ACCEPTED

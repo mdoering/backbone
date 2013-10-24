@@ -1,5 +1,4 @@
-Entoloma rimosiceps E. Horak SPECIES
-=======
+# Entoloma rimosiceps E. Horak SPECIES
 
 #### Status
 ACCEPTED

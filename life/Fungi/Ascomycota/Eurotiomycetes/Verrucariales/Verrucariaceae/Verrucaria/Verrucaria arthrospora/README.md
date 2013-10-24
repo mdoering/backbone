@@ -1,5 +1,4 @@
-Verrucaria arthrospora Garov. SPECIES
-=======
+# Verrucaria arthrospora Garov. SPECIES
 
 #### Status
 ACCEPTED

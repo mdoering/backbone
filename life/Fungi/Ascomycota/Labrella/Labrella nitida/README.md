@@ -1,5 +1,4 @@
-Labrella nitida Schwein. SPECIES
-=======
+# Labrella nitida Schwein. SPECIES
 
 #### Status
 ACCEPTED

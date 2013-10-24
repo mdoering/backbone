@@ -1,5 +1,4 @@
-Mystrosporium polytrichum Cooke SPECIES
-=======
+# Mystrosporium polytrichum Cooke SPECIES
 
 #### Status
 ACCEPTED

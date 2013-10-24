@@ -1,5 +1,4 @@
-Laestadia ahlesiana (Hepp) Vouaux SPECIES
-=======
+# Laestadia ahlesiana (Hepp) Vouaux SPECIES
 
 #### Status
 ACCEPTED

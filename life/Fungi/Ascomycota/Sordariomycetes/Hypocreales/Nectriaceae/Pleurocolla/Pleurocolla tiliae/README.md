@@ -1,5 +1,4 @@
-Pleurocolla tiliae Petr., 1924 SPECIES
-=======
+# Pleurocolla tiliae Petr., 1924 SPECIES
 
 #### Status
 ACCEPTED

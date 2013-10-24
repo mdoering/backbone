@@ -1,5 +1,4 @@
-Stellomyces kendrickii Kesh. Prasad & Bhat SPECIES
-=======
+# Stellomyces kendrickii Kesh. Prasad & Bhat SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia rupestris Juel SPECIES
-=======
+# Puccinia rupestris Juel SPECIES
 
 #### Status
 ACCEPTED

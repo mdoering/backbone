@@ -1,17 +1,16 @@
-Parmelia deightoni C.W. Dodge SPECIES
-=======
+# Parmelia deightonii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Mo. bot. Gdn 46(1-2): 110 (1959)
 
 #### Original name
-Parmelia deightoni C.W. Dodge
+Parmelia deightonii C.W. Dodge
 
 ### Remarks
 null

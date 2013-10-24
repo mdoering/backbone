@@ -1,8 +1,7 @@
-Parmelia overeemii Zahlbr. SPECIES
-=======
+# Parmotrema overeemii (Zahlbr.) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Xanthoria pityrea (Ach.) Horw. SPECIES
-=======
+# Xanthoria pityrea (Ach.) Horw. SPECIES
 
 #### Status
 ACCEPTED

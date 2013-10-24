@@ -1,5 +1,4 @@
-Trachelomonas grandis SPECIES
-=======
+# Trachelomonas grandis SPECIES
 
 #### Status
 ACCEPTED

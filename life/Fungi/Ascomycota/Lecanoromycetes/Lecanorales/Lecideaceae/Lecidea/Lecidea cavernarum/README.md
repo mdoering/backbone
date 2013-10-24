@@ -1,5 +1,4 @@
-Lecidea cavernarum (Räsänen) H. Magn. SPECIES
-=======
+# Lecidea cavernarum (Räsänen) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

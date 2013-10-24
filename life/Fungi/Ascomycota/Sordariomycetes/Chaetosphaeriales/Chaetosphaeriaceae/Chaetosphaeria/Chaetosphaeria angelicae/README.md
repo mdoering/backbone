@@ -1,5 +1,4 @@
-Chaetosphaeria angelicae P. Crouan & H. Crouan SPECIES
-=======
+# Chaetosphaeria angelicae P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

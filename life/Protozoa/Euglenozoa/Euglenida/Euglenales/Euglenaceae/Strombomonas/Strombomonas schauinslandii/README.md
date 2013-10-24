@@ -1,5 +1,4 @@
-Strombomonas schauinslandii var. minor V. Conforti & G.-J. Joo VARIETY
-=======
+# Strombomonas schauinslandii (Lemmermann) Deflandre SPECIES
 
 #### Status
 ACCEPTED

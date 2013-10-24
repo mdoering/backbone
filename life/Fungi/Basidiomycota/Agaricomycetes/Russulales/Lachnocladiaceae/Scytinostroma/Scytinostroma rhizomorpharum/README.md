@@ -1,5 +1,4 @@
-Scytinostroma rhizomorpharum S.S. Rattan, 1974 SPECIES
-=======
+# Scytinostroma rhizomorpharum S.S. Rattan, 1974 SPECIES
 
 #### Status
 ACCEPTED

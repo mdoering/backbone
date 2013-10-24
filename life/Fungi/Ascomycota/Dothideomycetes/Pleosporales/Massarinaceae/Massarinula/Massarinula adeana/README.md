@@ -1,5 +1,4 @@
-Massarinula adeana (Petr.) Petr. SPECIES
-=======
+# Massarinula adeana (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

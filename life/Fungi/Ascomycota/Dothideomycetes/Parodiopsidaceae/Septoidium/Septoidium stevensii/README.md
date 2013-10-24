@@ -1,5 +1,4 @@
-Septoidium stevensii G. Arnaud SPECIES
-=======
+# Septoidium stevensii G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

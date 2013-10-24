@@ -1,5 +1,4 @@
-Cerinomyces altaicus Parmasto, 1961 SPECIES
-=======
+# Cerinomyces altaicus Parmasto, 1961 SPECIES
 
 #### Status
 ACCEPTED

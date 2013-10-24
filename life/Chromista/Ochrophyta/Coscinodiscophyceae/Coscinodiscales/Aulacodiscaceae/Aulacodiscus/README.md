@@ -1,5 +1,4 @@
-Aulacodiscus Ehrenberg GENUS
-=======
+# Aulacodiscus Ehrenberg GENUS
 
 #### Status
 ACCEPTED

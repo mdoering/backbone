@@ -1,5 +1,4 @@
-Orthoseira punctata W. Smith SPECIES
-=======
+# Orthoseira punctata W. Smith SPECIES
 
 #### Status
 ACCEPTED

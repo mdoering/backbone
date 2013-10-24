@@ -1,11 +1,10 @@
-Pseudobodo minuta Griessmann, 1913 SPECIES
-=======
+# Cafeteria minuta (Griessmann, 1913) Larsen & Patterson, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Phaeomarasmius malvacearum Singer SPECIES
-=======
+# Phaeomarasmius malvacearum Singer SPECIES
 
 #### Status
 ACCEPTED

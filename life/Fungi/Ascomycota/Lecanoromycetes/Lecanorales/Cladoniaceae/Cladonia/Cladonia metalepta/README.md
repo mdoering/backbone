@@ -1,5 +1,4 @@
-Cladonia metalepta Nyl. SPECIES
-=======
+# Cladonia metalepta Nyl. SPECIES
 
 #### Status
 ACCEPTED

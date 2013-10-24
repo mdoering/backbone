@@ -1,5 +1,4 @@
-Lopadium newtonianum (Henriq.) R. Sant. SPECIES
-=======
+# Lopadium newtonianum (Henriq.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

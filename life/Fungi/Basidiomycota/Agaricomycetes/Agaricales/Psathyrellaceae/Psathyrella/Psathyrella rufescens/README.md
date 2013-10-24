@@ -1,5 +1,4 @@
-Psathyrella rufescens (Petch) Pegler SPECIES
-=======
+# Psathyrella rufescens (Petch) Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schinzia digitata Magnus SPECIES
-=======
+# Schinzia digitata Magnus SPECIES
 
 #### Status
 ACCEPTED

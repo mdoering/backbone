@@ -1,5 +1,4 @@
-Triostephus Haeckel, 1881 GENUS
-=======
+# Triostephus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

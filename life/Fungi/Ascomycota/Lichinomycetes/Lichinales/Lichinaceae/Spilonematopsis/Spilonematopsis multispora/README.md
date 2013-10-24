@@ -1,5 +1,4 @@
-Spilonematopsis multispora Å.E. Dahl SPECIES
-=======
+# Spilonematopsis multispora Å.E. Dahl SPECIES
 
 #### Status
 ACCEPTED

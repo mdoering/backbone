@@ -1,5 +1,4 @@
-Sphaerella verna Sacc. & Speg. SPECIES
-=======
+# Sphaerella verna Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

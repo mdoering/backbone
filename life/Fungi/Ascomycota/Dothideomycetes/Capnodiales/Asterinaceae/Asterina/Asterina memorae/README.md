@@ -1,5 +1,4 @@
-Asterina memorae Henn. SPECIES
-=======
+# Asterina memorae Henn. SPECIES
 
 #### Status
 ACCEPTED

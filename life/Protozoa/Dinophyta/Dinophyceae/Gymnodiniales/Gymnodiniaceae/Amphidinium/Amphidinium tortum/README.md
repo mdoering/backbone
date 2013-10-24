@@ -1,5 +1,4 @@
-Amphidinium tortum Conrad & Kufferath SPECIES
-=======
+# Amphidinium tortum Conrad & Kufferath SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acidobacterium capsulatum Kishimoto et al., 1991 SPECIES
-=======
+# Acidobacterium capsulatum Kishimoto et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

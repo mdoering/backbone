@@ -1,5 +1,4 @@
-Protoperidinium compressum (Nie) Balech SPECIES
-=======
+# Protoperidinium compressum (Nie) Balech SPECIES
 
 #### Status
 ACCEPTED

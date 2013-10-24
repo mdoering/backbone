@@ -1,5 +1,4 @@
-Kanakaia Hanzawa, 1957 GENUS
-=======
+# Kanakaia Hanzawa, 1957 GENUS
 
 #### Status
 ACCEPTED

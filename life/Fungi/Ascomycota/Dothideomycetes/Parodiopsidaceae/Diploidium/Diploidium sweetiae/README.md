@@ -1,5 +1,4 @@
-Diploidium sweetiae G. Arnaud SPECIES
-=======
+# Diploidium sweetiae G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

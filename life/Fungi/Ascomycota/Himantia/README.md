@@ -1,5 +1,4 @@
-Himantia Persoon, 1801 GENUS
-=======
+# Himantia Persoon, 1801 GENUS
 
 #### Status
 ACCEPTED

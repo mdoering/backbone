@@ -1,5 +1,4 @@
-Coniothyrium sublineatum Sacc. & Malbr. SPECIES
-=======
+# Coniothyrium sublineatum Sacc. & Malbr. SPECIES
 
 #### Status
 ACCEPTED

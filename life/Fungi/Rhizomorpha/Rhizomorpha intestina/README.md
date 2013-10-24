@@ -1,5 +1,4 @@
-Rhizomorpha intestina DC. SPECIES
-=======
+# Rhizomorpha intestina DC. SPECIES
 
 #### Status
 ACCEPTED

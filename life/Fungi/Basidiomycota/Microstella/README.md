@@ -1,5 +1,4 @@
-Microstella K. Ando & Tubaki GENUS
-=======
+# Microstella K. Ando & Tubaki GENUS
 
 #### Status
 ACCEPTED

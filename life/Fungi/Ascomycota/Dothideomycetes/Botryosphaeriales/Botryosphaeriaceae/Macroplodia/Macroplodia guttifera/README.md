@@ -1,5 +1,4 @@
-Macroplodia guttifera (G.H. Otth) Kuntze SPECIES
-=======
+# Macroplodia guttifera (G.H. Otth) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria podzimekii Servít SPECIES
-=======
+# Verrucaria podzimekii Servít SPECIES
 
 #### Status
 ACCEPTED

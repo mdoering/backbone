@@ -1,5 +1,4 @@
-Asterina opulenta (Henn.) Sacc. & D. Sacc. SPECIES
-=======
+# Asterina opulenta (Henn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

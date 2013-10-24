@@ -1,8 +1,7 @@
-Ellerbeckia arenaria (Moore) Crawford SPECIES
-=======
+# Melosira arenaria Moore ex Ralfs SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

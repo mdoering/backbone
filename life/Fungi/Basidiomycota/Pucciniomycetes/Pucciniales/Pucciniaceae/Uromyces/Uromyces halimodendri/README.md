@@ -1,5 +1,4 @@
-Uromyces halimodendri Solkina SPECIES
-=======
+# Uromyces halimodendri Solkina SPECIES
 
 #### Status
 ACCEPTED

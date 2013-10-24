@@ -1,5 +1,4 @@
-Tubeufia palmarum (Torrend) Samuels, Rossman & E. Müll., 1979 SPECIES
-=======
+# Tubeufia palmarum (Torrend) Samuels, Rossman & E. Müll., 1979 SPECIES
 
 #### Status
 ACCEPTED

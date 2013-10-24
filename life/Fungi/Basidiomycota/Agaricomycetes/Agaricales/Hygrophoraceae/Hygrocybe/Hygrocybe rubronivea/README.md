@@ -1,5 +1,4 @@
-Hygrocybe rubronivea A.M. Young SPECIES
-=======
+# Hygrocybe rubronivea A.M. Young SPECIES
 
 #### Status
 ACCEPTED

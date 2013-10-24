@@ -1,5 +1,4 @@
-Pseudocercospora glaucae (Syd.) Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora glaucae (Syd.) Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostomella zonospora Mouton SPECIES
-=======
+# Anthostomella zonospora Mouton SPECIES
 
 #### Status
 ACCEPTED

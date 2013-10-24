@@ -1,5 +1,4 @@
-Lecidea sciatropha Hue SPECIES
-=======
+# Lecidea sciatropha Hue SPECIES
 
 #### Status
 ACCEPTED

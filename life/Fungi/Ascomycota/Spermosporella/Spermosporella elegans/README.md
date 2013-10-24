@@ -1,5 +1,4 @@
-Spermosporella elegans B. Sutton SPECIES
-=======
+# Spermosporella elegans B. Sutton SPECIES
 
 #### Status
 ACCEPTED

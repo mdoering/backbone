@@ -1,14 +1,13 @@
-Entomophthora tabanivora J.F. Anderson & Magnar., 1979 SPECIES
-=======
+# Entomophaga tabanivora (J.F. Anderson & Magnar.) Humber, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Invert. Path. 34(3): 263 (1979)
+Mycotaxon 21: 270 (1984)
 
 #### Original name
 Entomophthora tabanivora J.F. Anderson & Magnar., 1979

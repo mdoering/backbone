@@ -1,5 +1,4 @@
-Ungulatelloides Seiglie, 1964 GENUS
-=======
+# Ungulatelloides Seiglie, 1964 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylariodiscus dorstenioides Henn. SPECIES
-=======
+# Xylariodiscus dorstenioides Henn. SPECIES
 
 #### Status
 ACCEPTED

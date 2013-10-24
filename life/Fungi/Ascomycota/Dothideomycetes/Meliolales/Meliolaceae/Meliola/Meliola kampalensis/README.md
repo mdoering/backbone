@@ -1,5 +1,4 @@
-Meliola kampalensis Hansf. SPECIES
-=======
+# Meliola kampalensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

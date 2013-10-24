@@ -1,5 +1,4 @@
-Microascus senegalensis Arx, 1975 SPECIES
-=======
+# Microascus senegalensis Arx, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea laevis f. laevis FORM
-=======
+# Usnea laevis (Eschw.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syn. meth. lich. 1(2): 271 (1860)
 
 #### Original name
-Usnea laevis f. laevis
+null
 
 ### Remarks
 null

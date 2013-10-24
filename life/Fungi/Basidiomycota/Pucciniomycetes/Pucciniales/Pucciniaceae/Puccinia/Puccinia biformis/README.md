@@ -1,5 +1,4 @@
-Puccinia biformis Lagerh. SPECIES
-=======
+# Puccinia biformis Lagerh. SPECIES
 
 #### Status
 ACCEPTED

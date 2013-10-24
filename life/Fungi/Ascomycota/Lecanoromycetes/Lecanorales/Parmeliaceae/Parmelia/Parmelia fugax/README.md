@@ -1,5 +1,4 @@
-Parmelia fugax (Wulfen) Ach. SPECIES
-=======
+# Parmelia fugax (Wulfen) Ach. SPECIES
 
 #### Status
 ACCEPTED

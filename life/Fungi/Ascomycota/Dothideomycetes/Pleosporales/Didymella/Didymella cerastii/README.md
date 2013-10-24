@@ -1,5 +1,4 @@
-Didymella cerastii Gucevic, 1967 SPECIES
-=======
+# Didymella cerastii Gucevic, 1967 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Lionotus varsaviensis Wrzesniowski, 1870 SPECIES
-=======
+# Litonotus varsaviensis (Wrzesniowski, 1866) Wrzesniowski, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

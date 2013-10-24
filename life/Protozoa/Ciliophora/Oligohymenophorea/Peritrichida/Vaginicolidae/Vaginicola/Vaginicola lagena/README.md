@@ -1,5 +1,4 @@
-Vaginicola lagena Kahl, 1935 SPECIES
-=======
+# Vaginicola lagena Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scolecopeltidium garciniae (Rehm) F. Stevens & Manter SPECIES
-=======
+# Scolecopeltidium garciniae (Rehm) F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

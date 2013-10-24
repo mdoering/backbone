@@ -1,5 +1,4 @@
-Naucoria weberiana Henn. SPECIES
-=======
+# Naucoria weberiana Henn. SPECIES
 
 #### Status
 ACCEPTED

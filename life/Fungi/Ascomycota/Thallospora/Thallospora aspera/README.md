@@ -1,5 +1,4 @@
-Thallospora aspera L.S. Olive, 1948 SPECIES
-=======
+# Thallospora aspera L.S. Olive, 1948 SPECIES
 
 #### Status
 ACCEPTED

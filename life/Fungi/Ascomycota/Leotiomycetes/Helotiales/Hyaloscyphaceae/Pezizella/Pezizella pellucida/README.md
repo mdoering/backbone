@@ -1,5 +1,4 @@
-Pezizella pellucida Velen. SPECIES
-=======
+# Pezizella pellucida Velen. SPECIES
 
 #### Status
 ACCEPTED

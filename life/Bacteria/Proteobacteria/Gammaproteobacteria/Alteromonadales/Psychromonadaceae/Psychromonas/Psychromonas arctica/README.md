@@ -1,5 +1,4 @@
-Psychromonas arctica Groudieva et al., 2003 SPECIES
-=======
+# Psychromonas arctica Groudieva et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

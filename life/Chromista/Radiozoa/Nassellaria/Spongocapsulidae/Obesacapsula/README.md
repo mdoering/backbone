@@ -1,5 +1,4 @@
-Obesacapsula Pessagno, 1977 GENUS
-=======
+# Obesacapsula Pessagno, 1977 GENUS
 
 #### Status
 ACCEPTED

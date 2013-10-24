@@ -1,5 +1,4 @@
-Heteromita nasuta Stokes SPECIES
-=======
+# Heteromita nasuta Stokes SPECIES
 
 #### Status
 ACCEPTED

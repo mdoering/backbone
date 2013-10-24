@@ -1,5 +1,4 @@
-Septoria glabra Ellis & Everh. SPECIES
-=======
+# Septoria glabra Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

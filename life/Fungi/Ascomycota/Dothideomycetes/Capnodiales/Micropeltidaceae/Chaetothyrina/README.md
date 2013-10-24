@@ -1,17 +1,16 @@
-Plochmopeltidella J.M. Mend. GENUS
-=======
+# Chaetothyrina Theiss. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Stevens & Manter, Bot. Gaz. 79: 291 (1925)
+Annls mycol. 11(5): 495 (1913)
 
 #### Original name
-Plochmopeltidella J.M. Mend.
+Chaetothyrina Theiss.
 
 ### Remarks
 null

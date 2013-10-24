@@ -1,5 +1,4 @@
-Parapermodiscus Reitlinger, 1969 GENUS
-=======
+# Parapermodiscus Reitlinger, 1969 GENUS
 
 #### Status
 ACCEPTED

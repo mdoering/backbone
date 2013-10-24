@@ -1,5 +1,4 @@
-Porina dipterocarpi Aptroot SPECIES
-=======
+# Porina dipterocarpi Aptroot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramaria subcinerea Velen. SPECIES
-=======
+# Ramaria subcinerea Velen. SPECIES
 
 #### Status
 ACCEPTED

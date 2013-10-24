@@ -1,5 +1,4 @@
-Ascochyta laurina Tassi SPECIES
-=======
+# Ascochyta laurina Tassi SPECIES
 
 #### Status
 ACCEPTED

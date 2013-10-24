@@ -1,5 +1,4 @@
-Crepidotus chilensis E. Horak SPECIES
-=======
+# Crepidotus chilensis E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spongasteriscus GENUS
-=======
+# Spongasteriscus GENUS
 
 #### Status
 ACCEPTED

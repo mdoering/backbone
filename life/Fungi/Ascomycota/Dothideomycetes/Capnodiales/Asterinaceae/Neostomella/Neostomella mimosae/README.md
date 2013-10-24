@@ -1,5 +1,4 @@
-Neostomella mimosae Bat. & R. Garnier SPECIES
-=======
+# Neostomella mimosae Bat. & R. Garnier SPECIES
 
 #### Status
 ACCEPTED

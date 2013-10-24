@@ -1,5 +1,4 @@
-Leptosphaeria crozalsiana Maire SPECIES
-=======
+# Leptosphaeria crozalsiana Maire SPECIES
 
 #### Status
 ACCEPTED

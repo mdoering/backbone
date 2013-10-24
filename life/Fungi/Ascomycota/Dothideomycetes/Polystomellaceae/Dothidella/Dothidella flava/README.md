@@ -1,5 +1,4 @@
-Dothidella flava F. Stevens SPECIES
-=======
+# Dothidella flava F. Stevens SPECIES
 
 #### Status
 ACCEPTED

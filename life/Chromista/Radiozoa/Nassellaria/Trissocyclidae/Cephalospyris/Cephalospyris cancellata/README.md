@@ -1,5 +1,4 @@
-Cephalospyris cancellata Haeckel, 1887 SPECIES
-=======
+# Cephalospyris cancellata Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

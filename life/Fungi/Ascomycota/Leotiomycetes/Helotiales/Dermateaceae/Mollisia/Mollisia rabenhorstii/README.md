@@ -1,14 +1,13 @@
-Peziza rabenhorstii Auersw. SPECIES
-=======
+# Mollisia rabenhorstii (Auersw.) Rehm, 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Rabenhorst, Rabenh. Krypt. -Fl. (Leipzig) 1(3): 537 (1891)
 
 #### Original name
 null

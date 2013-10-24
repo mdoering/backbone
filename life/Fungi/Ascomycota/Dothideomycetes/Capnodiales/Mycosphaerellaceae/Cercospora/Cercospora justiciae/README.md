@@ -1,5 +1,4 @@
-Cercospora justiciae F.L. Tai SPECIES
-=======
+# Cercospora justiciae F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

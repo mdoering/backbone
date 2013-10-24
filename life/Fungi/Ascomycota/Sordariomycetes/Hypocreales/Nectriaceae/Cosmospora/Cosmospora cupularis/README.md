@@ -1,5 +1,4 @@
-Cosmospora cupularis J. Luo & W.Y. Zhuang SPECIES
-=======
+# Cosmospora cupularis J. Luo & W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

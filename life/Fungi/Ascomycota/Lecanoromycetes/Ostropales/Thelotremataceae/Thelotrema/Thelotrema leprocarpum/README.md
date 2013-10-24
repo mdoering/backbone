@@ -1,5 +1,4 @@
-Thelotrema leprocarpum Tuck. SPECIES
-=======
+# Thelotrema leprocarpum Tuck. SPECIES
 
 #### Status
 ACCEPTED

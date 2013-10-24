@@ -1,5 +1,4 @@
-Trichostroma Link, 1826 GENUS
-=======
+# Trichostroma Link, 1826 GENUS
 
 #### Status
 ACCEPTED

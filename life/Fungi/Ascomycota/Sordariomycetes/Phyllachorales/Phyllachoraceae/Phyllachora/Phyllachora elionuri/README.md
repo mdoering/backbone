@@ -1,5 +1,4 @@
-Phyllachora elionuri Doidge, 1942 SPECIES
-=======
+# Phyllachora elionuri Doidge, 1942 SPECIES
 
 #### Status
 ACCEPTED

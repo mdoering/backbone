@@ -1,5 +1,4 @@
-Ceratium lineatum (Ehrenberg) Cleve SPECIES
-=======
+# Ceratium lineatum (Ehrenberg) Cleve SPECIES
 
 #### Status
 ACCEPTED

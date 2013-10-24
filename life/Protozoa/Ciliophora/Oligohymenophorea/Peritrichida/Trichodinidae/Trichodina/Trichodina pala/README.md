@@ -1,5 +1,4 @@
-Trichodina pala Stein, 1979 SPECIES
-=======
+# Trichodina pala Stein, 1979 SPECIES
 
 #### Status
 ACCEPTED

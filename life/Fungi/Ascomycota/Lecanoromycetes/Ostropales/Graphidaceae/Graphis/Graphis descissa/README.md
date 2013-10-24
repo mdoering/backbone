@@ -1,5 +1,4 @@
-Graphis descissa Müll. Arg. SPECIES
-=======
+# Graphis descissa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

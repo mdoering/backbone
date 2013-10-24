@@ -1,5 +1,4 @@
-Legeriomyces rarus M.C. Williams & Lichtw., 1993 SPECIES
-=======
+# Legeriomyces rarus M.C. Williams & Lichtw., 1993 SPECIES
 
 #### Status
 ACCEPTED

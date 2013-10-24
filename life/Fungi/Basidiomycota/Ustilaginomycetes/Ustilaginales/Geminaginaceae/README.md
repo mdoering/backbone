@@ -1,5 +1,4 @@
-Geminaginaceae Vánky FAMILY
-=======
+# Geminaginaceae Vánky FAMILY
 
 #### Status
 ACCEPTED

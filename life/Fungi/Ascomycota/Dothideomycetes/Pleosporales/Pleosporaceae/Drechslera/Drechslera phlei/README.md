@@ -1,14 +1,13 @@
-Helminthosporium phlei (J.H. Graham) Scharif, 1961 SPECIES
-=======
+# Drechslera phlei (J.H. Graham) Shoemaker, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 44: 217 (1961)
+Can. J. Bot. 37: 881 (1959)
 
 #### Original name
 Helminthosporium dictyoides var. phlei J.H. Graham, 1955

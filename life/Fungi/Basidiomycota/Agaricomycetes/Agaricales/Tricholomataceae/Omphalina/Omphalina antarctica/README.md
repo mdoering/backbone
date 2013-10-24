@@ -1,5 +1,4 @@
-Omphalina antarctica Singer SPECIES
-=======
+# Omphalina antarctica Singer SPECIES
 
 #### Status
 ACCEPTED

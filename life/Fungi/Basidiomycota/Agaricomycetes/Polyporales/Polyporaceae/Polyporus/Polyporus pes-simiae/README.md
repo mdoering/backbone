@@ -1,5 +1,4 @@
-Polyporus pes-simiae Berk. SPECIES
-=======
+# Polyporus pes-simiae Berk. SPECIES
 
 #### Status
 ACCEPTED

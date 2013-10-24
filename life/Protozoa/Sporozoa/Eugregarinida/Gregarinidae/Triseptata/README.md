@@ -1,5 +1,4 @@
-Triseptata Hoshide, 1958 GENUS
-=======
+# Triseptata Hoshide, 1958 GENUS
 
 #### Status
 ACCEPTED

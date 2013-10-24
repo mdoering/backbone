@@ -1,5 +1,4 @@
-Lycoperdon coprophilum Cooke & Massee SPECIES
-=======
+# Lycoperdon coprophilum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

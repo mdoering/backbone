@@ -1,5 +1,4 @@
-Calvatia pseudolilacina (Speg.) Speg. SPECIES
-=======
+# Calvatia pseudolilacina (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

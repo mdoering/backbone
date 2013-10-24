@@ -1,5 +1,4 @@
-Laminanopsis Skvortzov GENUS
-=======
+# Laminanopsis Skvortzov GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bolivinita eleyi Cushman, 1927 SPECIES
-=======
+# Bolivinita eleyi Cushman, 1927 SPECIES
 
 #### Status
 ACCEPTED

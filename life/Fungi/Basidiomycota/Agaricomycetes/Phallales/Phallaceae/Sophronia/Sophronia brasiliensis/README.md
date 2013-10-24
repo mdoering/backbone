@@ -1,5 +1,4 @@
-Sophronia brasiliensis Gaudich. SPECIES
-=======
+# Sophronia brasiliensis Gaudich. SPECIES
 
 #### Status
 ACCEPTED

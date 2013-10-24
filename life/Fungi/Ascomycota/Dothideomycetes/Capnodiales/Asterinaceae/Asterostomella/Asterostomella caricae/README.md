@@ -1,5 +1,4 @@
-Asterostomella caricae Henn. SPECIES
-=======
+# Asterostomella caricae Henn. SPECIES
 
 #### Status
 ACCEPTED

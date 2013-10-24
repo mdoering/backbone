@@ -1,5 +1,4 @@
-Phyllosticta griseofusca Bubák SPECIES
-=======
+# Phyllosticta griseofusca Bubák SPECIES
 
 #### Status
 ACCEPTED

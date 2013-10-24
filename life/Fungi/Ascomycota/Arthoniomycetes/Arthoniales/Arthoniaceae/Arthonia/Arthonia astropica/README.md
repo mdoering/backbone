@@ -1,5 +1,4 @@
-Arthonia astropica Kremp. SPECIES
-=======
+# Arthonia astropica Kremp. SPECIES
 
 #### Status
 ACCEPTED

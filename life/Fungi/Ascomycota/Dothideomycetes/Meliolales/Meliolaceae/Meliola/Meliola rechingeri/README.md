@@ -1,5 +1,4 @@
-Meliola rechingeri Hansf. SPECIES
-=======
+# Meliola rechingeri Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Canomaculina uruguensis (Kremp.) Elix SPECIES
-=======
+# Canomaculina uruguensis (Kremp.) Elix SPECIES
 
 #### Status
 ACCEPTED

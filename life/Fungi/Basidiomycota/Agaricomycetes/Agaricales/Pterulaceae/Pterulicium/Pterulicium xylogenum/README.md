@@ -1,14 +1,13 @@
-Clavaria xylogena Berk. & Broome, 1875 SPECIES
-=======
+# Pterulicium xylogenum (Berk. & Broome) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 14(2): 76 (1875)
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 538 (1950)
 
 #### Original name
 Clavaria xylogena Berk. & Broome, 1875

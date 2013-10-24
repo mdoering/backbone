@@ -1,8 +1,7 @@
-Trachelomonas chodatii Skvortzov SPECIES
-=======
+# Strombomonas chodatii (Skvortzov) Deflandre SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

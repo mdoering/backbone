@@ -1,5 +1,4 @@
-Vermicularia clarkiae Fautrey SPECIES
-=======
+# Vermicularia clarkiae Fautrey SPECIES
 
 #### Status
 ACCEPTED

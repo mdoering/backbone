@@ -1,17 +1,16 @@
-Cornuella Setch. GENUS
-=======
+# Tracya Syd. & P. Syd. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Amer. Acad. Arts & Sci. 26: 19 (1891)
+Hedwigia 40(Beibl. ): (3) (1901)
 
 #### Original name
-Cornuella Setch.
+Tracya Syd. & P. Syd.
 
 ### Remarks
 null

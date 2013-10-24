@@ -1,5 +1,4 @@
-Discella microspora Berk. & M.A. Curtis SPECIES
-=======
+# Discella microspora Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

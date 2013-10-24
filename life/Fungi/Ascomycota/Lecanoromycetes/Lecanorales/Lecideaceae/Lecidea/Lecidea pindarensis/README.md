@@ -1,5 +1,4 @@
-Lecidea pindarensis Räsänen SPECIES
-=======
+# Lecidea pindarensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

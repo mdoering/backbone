@@ -1,5 +1,4 @@
-Trachythyriolum Speg. GENUS
-=======
+# Trachythyriolum Speg. GENUS
 
 #### Status
 ACCEPTED

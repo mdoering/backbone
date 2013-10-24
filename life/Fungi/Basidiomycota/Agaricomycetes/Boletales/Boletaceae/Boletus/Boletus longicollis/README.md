@@ -1,5 +1,4 @@
-Boletus longicollis Ces. SPECIES
-=======
+# Boletus longicollis Ces. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protoperidinium globosum (Dangeard) Balech SPECIES
-=======
+# Protoperidinium globosum (Dangeard) Balech SPECIES
 
 #### Status
 ACCEPTED

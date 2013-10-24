@@ -1,5 +1,4 @@
-Hendersonia carpini Sacc. SPECIES
-=======
+# Hendersonia carpini Sacc. SPECIES
 
 #### Status
 ACCEPTED

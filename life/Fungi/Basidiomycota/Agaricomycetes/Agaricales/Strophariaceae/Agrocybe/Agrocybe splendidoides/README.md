@@ -1,5 +1,4 @@
-Agrocybe splendidoides Migl. & Coccia SPECIES
-=======
+# Agrocybe splendidoides Migl. & Coccia SPECIES
 
 #### Status
 ACCEPTED

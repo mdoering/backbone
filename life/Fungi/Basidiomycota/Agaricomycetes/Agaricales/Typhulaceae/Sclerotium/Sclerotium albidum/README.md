@@ -1,5 +1,4 @@
-Sclerotium albidum Roberge ex Desm. SPECIES
-=======
+# Sclerotium albidum Roberge ex Desm. SPECIES
 
 #### Status
 ACCEPTED

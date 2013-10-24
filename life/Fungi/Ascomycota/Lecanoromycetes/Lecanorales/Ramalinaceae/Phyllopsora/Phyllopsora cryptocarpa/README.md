@@ -1,5 +1,4 @@
-Phyllopsora cryptocarpa Riddle SPECIES
-=======
+# Phyllopsora cryptocarpa Riddle SPECIES
 
 #### Status
 ACCEPTED

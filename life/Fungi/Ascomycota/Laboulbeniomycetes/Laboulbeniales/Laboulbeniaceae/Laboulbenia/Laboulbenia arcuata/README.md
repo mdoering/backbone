@@ -1,5 +1,4 @@
-Laboulbenia arcuata Thaxt. SPECIES
-=======
+# Laboulbenia arcuata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

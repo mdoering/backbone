@@ -1,5 +1,4 @@
-Dicaeoma subcoronatum (Henn.) Kuntze SPECIES
-=======
+# Dicaeoma subcoronatum (Henn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

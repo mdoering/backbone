@@ -1,5 +1,4 @@
-Lecidea phillippii Zahlbr. SPECIES
-=======
+# Lecidea phillippii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

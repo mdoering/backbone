@@ -1,5 +1,4 @@
-Cercospora piscidiae Henn. SPECIES
-=======
+# Cercospora piscidiae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosyringaceae R. Bauer & Oberw. FAMILY
-=======
+# Mycosyringaceae R. Bauer & Oberw. FAMILY
 
 #### Status
 ACCEPTED

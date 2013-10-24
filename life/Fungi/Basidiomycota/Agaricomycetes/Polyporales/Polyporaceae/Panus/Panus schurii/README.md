@@ -1,5 +1,4 @@
-Panus schurii Schulzer SPECIES
-=======
+# Panus schurii Schulzer SPECIES
 
 #### Status
 ACCEPTED

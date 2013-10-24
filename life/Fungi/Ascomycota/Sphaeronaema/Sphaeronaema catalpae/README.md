@@ -1,5 +1,4 @@
-Sphaeronaema catalpae Schwein. SPECIES
-=======
+# Sphaeronaema catalpae Schwein. SPECIES
 
 #### Status
 ACCEPTED

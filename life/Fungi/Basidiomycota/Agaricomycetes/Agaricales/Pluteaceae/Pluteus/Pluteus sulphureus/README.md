@@ -1,5 +1,4 @@
-Pluteus sulphureus Velen. SPECIES
-=======
+# Pluteus sulphureus Velen. SPECIES
 
 #### Status
 ACCEPTED

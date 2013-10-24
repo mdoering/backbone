@@ -1,5 +1,4 @@
-Calosphaeria fallax Sacc., E. Bommer & M. Rousseau SPECIES
-=======
+# Calosphaeria fallax Sacc., E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Humicola indica Haware & Pavgi SPECIES
-=======
+# Humicola indica Haware & Pavgi SPECIES
 
 #### Status
 ACCEPTED

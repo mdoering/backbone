@@ -1,5 +1,4 @@
-Moyeria B. Thusu, 1973 GENUS
-=======
+# Moyeria B. Thusu, 1973 GENUS
 
 #### Status
 ACCEPTED

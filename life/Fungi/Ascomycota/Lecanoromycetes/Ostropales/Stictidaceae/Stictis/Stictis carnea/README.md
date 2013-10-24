@@ -1,5 +1,4 @@
-Stictis carnea Seaver & Waterston SPECIES
-=======
+# Stictis carnea Seaver & Waterston SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nocardia caishijiensis Zhang et al., 2003 SPECIES
-=======
+# Nocardia caishijiensis Zhang et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

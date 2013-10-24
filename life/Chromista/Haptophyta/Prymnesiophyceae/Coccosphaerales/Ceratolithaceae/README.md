@@ -1,5 +1,4 @@
-Ceratolithaceae Norris, 1965 FAMILY
-=======
+# Ceratolithaceae Norris, 1965 FAMILY
 
 #### Status
 ACCEPTED

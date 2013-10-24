@@ -1,5 +1,4 @@
-Marasmius spegazzinii Sacc. & P. Syd. SPECIES
-=======
+# Marasmius spegazzinii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

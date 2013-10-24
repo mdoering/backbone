@@ -1,5 +1,4 @@
-Clisosporium cephalanthi (Ellis & Everh.) Kuntze SPECIES
-=======
+# Clisosporium cephalanthi (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

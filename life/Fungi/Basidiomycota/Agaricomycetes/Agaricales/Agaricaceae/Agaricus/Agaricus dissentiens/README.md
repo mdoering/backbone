@@ -1,5 +1,4 @@
-Agaricus dissentiens Britzelm. SPECIES
-=======
+# Agaricus dissentiens Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena punicella (Fr.) Sacc. SPECIES
-=======
+# Mycena punicella (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

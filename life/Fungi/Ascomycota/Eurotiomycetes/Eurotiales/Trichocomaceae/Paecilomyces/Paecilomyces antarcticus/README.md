@@ -1,5 +1,4 @@
-Paecilomyces antarcticus Bridge, M.S. Clark & D.A. Pearce SPECIES
-=======
+# Paecilomyces antarcticus Bridge, M.S. Clark & D.A. Pearce SPECIES
 
 #### Status
 ACCEPTED

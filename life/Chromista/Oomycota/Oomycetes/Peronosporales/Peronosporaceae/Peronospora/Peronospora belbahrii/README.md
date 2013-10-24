@@ -1,5 +1,4 @@
-Peronospora belbahrii Thines SPECIES
-=======
+# Peronospora belbahrii Thines SPECIES
 
 #### Status
 ACCEPTED

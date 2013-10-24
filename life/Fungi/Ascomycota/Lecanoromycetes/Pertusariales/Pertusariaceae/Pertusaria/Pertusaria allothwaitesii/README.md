@@ -1,5 +1,4 @@
-Pertusaria allothwaitesii Jariangpr. & A.W. Archer SPECIES
-=======
+# Pertusaria allothwaitesii Jariangpr. & A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

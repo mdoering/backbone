@@ -1,8 +1,7 @@
-Pseudobumilleriopsis pyrenoidosa Deason & Bold SPECIES
-=======
+# Bumilleriopsis pyrenoidosa (Deason & Bold) Ettl SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

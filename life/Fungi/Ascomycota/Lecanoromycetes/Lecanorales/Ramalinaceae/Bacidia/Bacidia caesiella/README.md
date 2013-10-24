@@ -1,5 +1,4 @@
-Bacidia caesiella (Müll. Arg.) SPECIES
-=======
+# Bacidia caesiella (Müll. Arg.) SPECIES
 
 #### Status
 ACCEPTED

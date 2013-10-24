@@ -1,5 +1,4 @@
-Agaricus breviatus Britzelm. SPECIES
-=======
+# Agaricus breviatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pleospora dura var. orientalis Petr. VARIETY
-=======
+# Montagnula dura (Niessl) Crivelli, 1983 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annln naturh. Mus. Wien, Ser. B, Bot. Zool. 1: 455 (1940)
+Ueber die Heterogene Ascomycetengattung Pleospora Rabh. ; Vorschlag für eine Aufteilung (Diss. Eid genössischen Technischen Hochschule Zürich <b>7318</b>) 164 (1983)
 
 #### Original name
-Pleospora dura var. orientalis Petr.
+Pleospora dura Niessl, 1876
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Valsa theae Hara SPECIES
-=======
+# Valsa theae Hara SPECIES
 
 #### Status
 ACCEPTED

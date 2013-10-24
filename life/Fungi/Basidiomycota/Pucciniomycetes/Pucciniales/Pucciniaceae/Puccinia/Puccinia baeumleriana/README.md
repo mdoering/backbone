@@ -1,5 +1,4 @@
-Puccinia baeumleriana Bubák SPECIES
-=======
+# Puccinia baeumleriana Bubák SPECIES
 
 #### Status
 ACCEPTED

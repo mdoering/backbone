@@ -1,5 +1,4 @@
-Fusarium azedarachinum (Thüm.) Sacc. SPECIES
-=======
+# Fusarium azedarachinum (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

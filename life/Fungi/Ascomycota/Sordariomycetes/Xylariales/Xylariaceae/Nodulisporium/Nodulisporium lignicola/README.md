@@ -1,5 +1,4 @@
-Nodulisporium lignicola (Subram.) J.L. Mulder SPECIES
-=======
+# Nodulisporium lignicola (Subram.) J.L. Mulder SPECIES
 
 #### Status
 ACCEPTED

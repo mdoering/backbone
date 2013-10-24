@@ -1,5 +1,4 @@
-Hebeloma rubrum G.H. Otth SPECIES
-=======
+# Hebeloma rubrum G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Relicina segregata Elix SPECIES
-=======
+# Relicina segregata Elix SPECIES
 
 #### Status
 ACCEPTED

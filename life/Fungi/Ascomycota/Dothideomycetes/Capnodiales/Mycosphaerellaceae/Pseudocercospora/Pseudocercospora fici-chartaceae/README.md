@@ -1,5 +1,4 @@
-Pseudocercospora fici-chartaceae (J.M. Yen & Lim) J.M. Yen SPECIES
-=======
+# Pseudocercospora fici-chartaceae (J.M. Yen & Lim) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea spuinulifera SPECIES
-=======
+# Usnea spuinulifera SPECIES
 
 #### Status
 ACCEPTED

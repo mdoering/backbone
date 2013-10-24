@@ -1,5 +1,4 @@
-Patellaria humistrata Müll. Arg. SPECIES
-=======
+# Patellaria humistrata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

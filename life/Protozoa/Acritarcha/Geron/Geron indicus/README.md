@@ -1,5 +1,4 @@
-Geron indicus Sinha, Prasad & Srivastava, 1998 SPECIES
-=======
+# Geron indicus Sinha, Prasad & Srivastava, 1998 SPECIES
 
 #### Status
 ACCEPTED

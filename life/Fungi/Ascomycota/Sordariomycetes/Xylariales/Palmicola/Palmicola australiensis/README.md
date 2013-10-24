@@ -1,5 +1,4 @@
-Palmicola australiensis J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Palmicola australiensis J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

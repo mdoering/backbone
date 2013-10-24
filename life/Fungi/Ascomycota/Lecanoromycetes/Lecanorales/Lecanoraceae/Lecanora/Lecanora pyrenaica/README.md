@@ -1,5 +1,4 @@
-Lecanora pyrenaica (Hue) Zahlbr. SPECIES
-=======
+# Lecanora pyrenaica (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetothyrium anacardii (Hansf.) Hansf. SPECIES
-=======
+# Chaetothyrium anacardii (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

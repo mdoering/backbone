@@ -1,5 +1,4 @@
-Polyporus obvolutus Berk. & Cooke SPECIES
-=======
+# Polyporus obvolutus Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

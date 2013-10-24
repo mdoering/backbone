@@ -1,5 +1,4 @@
-Aspergillus viridinutans Ducker & Thrower, 1954 SPECIES
-=======
+# Aspergillus viridinutans Ducker & Thrower, 1954 SPECIES
 
 #### Status
 ACCEPTED

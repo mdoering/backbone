@@ -1,5 +1,4 @@
-Marasmius amazonicus Henn. SPECIES
-=======
+# Marasmius amazonicus Henn. SPECIES
 
 #### Status
 ACCEPTED

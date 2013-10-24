@@ -1,5 +1,4 @@
-Bacidia rubellovirens (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia rubellovirens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

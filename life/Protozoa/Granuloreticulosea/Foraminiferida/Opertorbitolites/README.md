@@ -1,5 +1,4 @@
-Opertorbitolites Nuttall, 1925 GENUS
-=======
+# Opertorbitolites Nuttall, 1925 GENUS
 
 #### Status
 ACCEPTED

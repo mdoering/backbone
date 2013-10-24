@@ -1,5 +1,4 @@
-Polyporus totus Berk. SPECIES
-=======
+# Polyporus totus Berk. SPECIES
 
 #### Status
 ACCEPTED

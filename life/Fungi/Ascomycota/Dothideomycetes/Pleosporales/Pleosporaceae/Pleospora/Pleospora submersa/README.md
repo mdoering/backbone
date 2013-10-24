@@ -1,5 +1,4 @@
-Pleospora submersa J. Webster & M.T. Lucas, 1961 SPECIES
-=======
+# Pleospora submersa J. Webster & M.T. Lucas, 1961 SPECIES
 
 #### Status
 ACCEPTED

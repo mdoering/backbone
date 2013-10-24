@@ -1,5 +1,4 @@
-Fusarium versicolor Sacc. SPECIES
-=======
+# Fusarium versicolor Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredinula GENUS
-=======
+# Uredinula GENUS
 
 #### Status
 ACCEPTED

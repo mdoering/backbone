@@ -1,5 +1,4 @@
-Thigmocoma Kazubski, 1958 GENUS
-=======
+# Thigmocoma Kazubski, 1958 GENUS
 
 #### Status
 ACCEPTED

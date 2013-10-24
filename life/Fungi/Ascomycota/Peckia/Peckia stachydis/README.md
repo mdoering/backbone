@@ -1,5 +1,4 @@
-Peckia stachydis Sawada SPECIES
-=======
+# Peckia stachydis Sawada SPECIES
 
 #### Status
 ACCEPTED

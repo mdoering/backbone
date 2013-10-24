@@ -1,5 +1,4 @@
-Bovista mundula (Kalchbr.) De Toni SPECIES
-=======
+# Bovista mundula (Kalchbr.) De Toni SPECIES
 
 #### Status
 ACCEPTED

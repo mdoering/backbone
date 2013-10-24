@@ -1,5 +1,4 @@
-Gibberella macrolopha (Syd.) Dingley, 1952 SPECIES
-=======
+# Gibberella macrolopha (Syd.) Dingley, 1952 SPECIES
 
 #### Status
 ACCEPTED

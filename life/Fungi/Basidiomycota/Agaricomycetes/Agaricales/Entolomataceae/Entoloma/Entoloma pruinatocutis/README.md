@@ -1,5 +1,4 @@
-Entoloma pruinatocutis E. Horak SPECIES
-=======
+# Entoloma pruinatocutis E. Horak SPECIES
 
 #### Status
 ACCEPTED

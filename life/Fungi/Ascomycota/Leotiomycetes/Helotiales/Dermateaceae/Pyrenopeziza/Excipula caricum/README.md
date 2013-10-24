@@ -1,5 +1,4 @@
-Excipula caricum (Lib.) Cooke SPECIES
-=======
+# Excipula caricum (Lib.) Cooke SPECIES
 
 #### Status
 ACCEPTED

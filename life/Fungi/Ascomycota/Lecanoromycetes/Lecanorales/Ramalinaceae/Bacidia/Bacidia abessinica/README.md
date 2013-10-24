@@ -1,5 +1,4 @@
-Bacidia abessinica (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia abessinica (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

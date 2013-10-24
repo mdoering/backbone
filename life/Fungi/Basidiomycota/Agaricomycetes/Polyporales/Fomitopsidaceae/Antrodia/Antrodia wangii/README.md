@@ -1,5 +1,4 @@
-Antrodia wangii Y.C. Dai & H.S. Yuan SPECIES
-=======
+# Antrodia wangii Y.C. Dai & H.S. Yuan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella laureolae (Desm.) Auersw. SPECIES
-=======
+# Sphaerella laureolae (Desm.) Auersw. SPECIES
 
 #### Status
 ACCEPTED

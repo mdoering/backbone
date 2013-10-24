@@ -1,5 +1,4 @@
-Mycosphaerella exigua Syd. SPECIES
-=======
+# Mycosphaerella exigua Syd. SPECIES
 
 #### Status
 ACCEPTED

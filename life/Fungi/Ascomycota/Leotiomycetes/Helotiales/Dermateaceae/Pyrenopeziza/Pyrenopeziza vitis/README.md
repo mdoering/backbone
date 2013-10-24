@@ -1,5 +1,4 @@
-Pyrenopeziza vitis Rehm SPECIES
-=======
+# Pyrenopeziza vitis Rehm SPECIES
 
 #### Status
 ACCEPTED

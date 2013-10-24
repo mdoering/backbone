@@ -1,5 +1,4 @@
-Graphina verruculina SPECIES
-=======
+# Graphina verruculina SPECIES
 
 #### Status
 ACCEPTED

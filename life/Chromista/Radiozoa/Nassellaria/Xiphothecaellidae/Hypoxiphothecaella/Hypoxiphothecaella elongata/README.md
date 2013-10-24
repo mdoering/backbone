@@ -1,5 +1,4 @@
-Hypoxiphothecaella elongata SPECIES
-=======
+# Hypoxiphothecaella elongata SPECIES
 
 #### Status
 ACCEPTED

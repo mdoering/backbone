@@ -1,5 +1,4 @@
-Lecidea rigida Malme SPECIES
-=======
+# Lecidea rigida Malme SPECIES
 
 #### Status
 ACCEPTED

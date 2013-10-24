@@ -1,5 +1,4 @@
-Lampriscus A.Schmidt, 1882 GENUS
-=======
+# Lampriscus A.Schmidt, 1882 GENUS
 
 #### Status
 ACCEPTED

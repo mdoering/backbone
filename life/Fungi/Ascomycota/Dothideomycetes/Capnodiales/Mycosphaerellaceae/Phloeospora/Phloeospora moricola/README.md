@@ -1,5 +1,4 @@
-Phloeospora moricola (Pass.) Sacc. SPECIES
-=======
+# Phloeospora moricola (Pass.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

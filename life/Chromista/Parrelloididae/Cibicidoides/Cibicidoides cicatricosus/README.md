@@ -1,8 +1,7 @@
-Cibicides cicatricosus (Schwager, 1866) SPECIES
-=======
+# Cibicidoides cicatricosus (Schwager, 1866) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

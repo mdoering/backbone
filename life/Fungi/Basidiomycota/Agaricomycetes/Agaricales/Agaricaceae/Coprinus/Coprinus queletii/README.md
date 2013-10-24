@@ -1,5 +1,4 @@
-Coprinus queletii Schulzer SPECIES
-=======
+# Coprinus queletii Schulzer SPECIES
 
 #### Status
 ACCEPTED

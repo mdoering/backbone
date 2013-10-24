@@ -1,5 +1,4 @@
-Favolaschia subamyloidea Singer, 1974 SPECIES
-=======
+# Favolaschia subamyloidea Singer, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pterammina GENUS
-=======
+# Pterammina GENUS
 
 #### Status
 ACCEPTED

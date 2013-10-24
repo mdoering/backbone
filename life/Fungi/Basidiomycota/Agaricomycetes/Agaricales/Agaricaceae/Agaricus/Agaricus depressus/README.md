@@ -1,5 +1,4 @@
-Agaricus depressus Lév. SPECIES
-=======
+# Agaricus depressus Lév. SPECIES
 
 #### Status
 ACCEPTED

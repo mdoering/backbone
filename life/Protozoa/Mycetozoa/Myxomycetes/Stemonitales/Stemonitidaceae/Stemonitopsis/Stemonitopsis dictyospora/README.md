@@ -1,14 +1,13 @@
-Comatricha dictyospora L.F. Celak. SPECIES
-=======
+# Stemonitopsis dictyospora (L.F. Celak.) Nann.-Bremek. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Enum. Pl. Scand. 49 (1893)
+null
 
 #### Original name
 Comatricha dictyospora L.F. Celak.

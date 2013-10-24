@@ -1,5 +1,4 @@
-Leptosphaeria janus (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Leptosphaeria janus (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

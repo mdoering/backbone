@@ -1,5 +1,4 @@
-Fusisporium zeae Westend. SPECIES
-=======
+# Fusisporium zeae Westend. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta diluta De Not. SPECIES
-=======
+# Sticta diluta De Not. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola celtidum Speg. SPECIES
-=======
+# Meliola celtidum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia aconiti Richon SPECIES
-=======
+# Hendersonia aconiti Richon SPECIES
 
 #### Status
 ACCEPTED

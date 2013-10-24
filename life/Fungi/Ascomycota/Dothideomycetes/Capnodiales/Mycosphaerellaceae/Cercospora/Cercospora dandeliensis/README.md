@@ -1,5 +1,4 @@
-Cercospora dandeliensis Rangasw., Seshadri, Lucy Chann., Swamin. & Raghun. SPECIES
-=======
+# Cercospora dandeliensis Rangasw., Seshadri, Lucy Chann., Swamin. & Raghun. SPECIES
 
 #### Status
 ACCEPTED

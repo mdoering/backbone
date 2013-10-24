@@ -1,5 +1,4 @@
-Xylosphaera tuberosa (Pers.) P. Joly SPECIES
-=======
+# Xylosphaera tuberosa (Pers.) P. Joly SPECIES
 
 #### Status
 ACCEPTED

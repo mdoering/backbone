@@ -1,5 +1,4 @@
-Xylanibacter oryzae Ueki et al., 2006 SPECIES
-=======
+# Xylanibacter oryzae Ueki et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

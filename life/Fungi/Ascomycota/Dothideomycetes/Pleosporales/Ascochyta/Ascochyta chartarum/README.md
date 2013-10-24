@@ -1,5 +1,4 @@
-Ascochyta chartarum Berk. SPECIES
-=======
+# Ascochyta chartarum Berk. SPECIES
 
 #### Status
 ACCEPTED

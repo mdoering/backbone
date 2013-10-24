@@ -1,5 +1,4 @@
-Pseudocercospora abeliae (Katsuki) Nishij., C. Nakash. & Tak. Kobay. SPECIES
-=======
+# Pseudocercospora abeliae (Katsuki) Nishij., C. Nakash. & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

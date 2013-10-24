@@ -1,5 +1,4 @@
-Meliola australis I. Hino & Katum. SPECIES
-=======
+# Meliola australis I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodobacterium GENUS
-=======
+# Rhodobacterium GENUS
 
 #### Status
 ACCEPTED

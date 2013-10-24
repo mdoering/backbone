@@ -1,5 +1,4 @@
-Aecidium trinitense W.T. Dale SPECIES
-=======
+# Aecidium trinitense W.T. Dale SPECIES
 
 #### Status
 ACCEPTED

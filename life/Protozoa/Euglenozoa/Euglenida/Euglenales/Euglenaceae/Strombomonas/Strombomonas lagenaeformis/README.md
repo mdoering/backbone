@@ -1,5 +1,4 @@
-Strombomonas lagenaeformis Huber-PeStalozzi SPECIES
-=======
+# Strombomonas lagenaeformis Huber-PeStalozzi SPECIES
 
 #### Status
 ACCEPTED

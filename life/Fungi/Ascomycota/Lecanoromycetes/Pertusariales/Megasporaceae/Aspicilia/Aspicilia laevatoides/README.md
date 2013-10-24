@@ -1,5 +1,4 @@
-Aspicilia laevatoides (H. Magn.) Oxner SPECIES
-=======
+# Aspicilia laevatoides (H. Magn.) Oxner SPECIES
 
 #### Status
 ACCEPTED

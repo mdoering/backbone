@@ -1,5 +1,4 @@
-Lecidea circumalbata (Müll. Arg.) Delise SPECIES
-=======
+# Lecidea circumalbata (Müll. Arg.) Delise SPECIES
 
 #### Status
 ACCEPTED

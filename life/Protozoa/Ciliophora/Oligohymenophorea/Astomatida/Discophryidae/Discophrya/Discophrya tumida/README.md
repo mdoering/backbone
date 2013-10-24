@@ -1,5 +1,4 @@
-Discophrya tumida Gajewskaja, 1933 SPECIES
-=======
+# Discophrya tumida Gajewskaja, 1933 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nodulosphaeria revelstokensis Shoemaker SPECIES
-=======
+# Nodulosphaeria revelstokensis Shoemaker SPECIES
 
 #### Status
 ACCEPTED

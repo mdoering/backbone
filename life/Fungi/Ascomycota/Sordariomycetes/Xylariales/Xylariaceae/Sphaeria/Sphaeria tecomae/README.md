@@ -1,5 +1,4 @@
-Sphaeria tecomae Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria tecomae Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

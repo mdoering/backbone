@@ -1,5 +1,4 @@
-Uncinula australis Speg. SPECIES
-=======
+# Uncinula australis Speg. SPECIES
 
 #### Status
 ACCEPTED

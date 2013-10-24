@@ -1,5 +1,4 @@
-Ravenelia mimosicola Arthur SPECIES
-=======
+# Ravenelia mimosicola Arthur SPECIES
 
 #### Status
 ACCEPTED

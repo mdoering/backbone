@@ -1,5 +1,4 @@
-Didymosphaeria bryonthae (Arnold) G. Winter SPECIES
-=======
+# Didymosphaeria bryonthae (Arnold) G. Winter SPECIES
 
 #### Status
 ACCEPTED

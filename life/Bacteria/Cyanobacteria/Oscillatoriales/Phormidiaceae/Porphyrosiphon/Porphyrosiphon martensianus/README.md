@@ -1,8 +1,7 @@
-Lyngbya martensiana Meneghini ex Gomont SPECIES
-=======
+# Porphyrosiphon martensianus (Meneghini ex Gomont) Anagnostidis & Komárek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

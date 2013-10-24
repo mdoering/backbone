@@ -1,5 +1,4 @@
-Dothioropsis Riedl GENUS
-=======
+# Dothioropsis Riedl GENUS
 
 #### Status
 ACCEPTED

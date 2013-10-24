@@ -1,5 +1,4 @@
-Lentinus mollipes Pat. SPECIES
-=======
+# Lentinus mollipes Pat. SPECIES
 
 #### Status
 ACCEPTED

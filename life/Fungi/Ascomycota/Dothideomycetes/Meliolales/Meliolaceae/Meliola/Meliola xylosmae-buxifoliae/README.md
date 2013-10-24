@@ -1,5 +1,4 @@
-Meliola xylosmae-buxifoliae Deighton SPECIES
-=======
+# Meliola xylosmae-buxifoliae Deighton SPECIES
 
 #### Status
 ACCEPTED

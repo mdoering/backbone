@@ -1,5 +1,4 @@
-Senegalosporites costatus S. Jardiné & Magloire SPECIES
-=======
+# Senegalosporites costatus S. Jardiné & Magloire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epicoccum cyaneum B. Sutton SPECIES
-=======
+# Epicoccum cyaneum B. Sutton SPECIES
 
 #### Status
 ACCEPTED

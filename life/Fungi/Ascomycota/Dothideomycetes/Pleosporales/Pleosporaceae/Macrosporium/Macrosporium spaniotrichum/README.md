@@ -1,5 +1,4 @@
-Macrosporium spaniotrichum Rabenh. SPECIES
-=======
+# Macrosporium spaniotrichum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

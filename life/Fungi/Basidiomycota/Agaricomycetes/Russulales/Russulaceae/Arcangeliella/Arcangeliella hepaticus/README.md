@@ -1,5 +1,4 @@
-Arcangeliella hepaticus (G.W. Beaton, Pegler & T.W.K. Young) T. Lebel & Castellano SPECIES
-=======
+# Arcangeliella hepaticus (G.W. Beaton, Pegler & T.W.K. Young) T. Lebel & Castellano SPECIES
 
 #### Status
 ACCEPTED

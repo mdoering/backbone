@@ -1,5 +1,4 @@
-Leptomitus urophilus Mont. SPECIES
-=======
+# Leptomitus urophilus Mont. SPECIES
 
 #### Status
 ACCEPTED

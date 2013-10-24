@@ -1,5 +1,4 @@
-Alectoria pacifica Stizenb. SPECIES
-=======
+# Alectoria pacifica Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora melampyri Nelen SPECIES
-=======
+# Cercospora melampyri Nelen SPECIES
 
 #### Status
 ACCEPTED

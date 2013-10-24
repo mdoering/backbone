@@ -1,5 +1,4 @@
-Trogia infundibuliformis Berk. & Broome SPECIES
-=======
+# Trogia infundibuliformis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

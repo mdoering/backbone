@@ -1,17 +1,16 @@
-Agaricus clypeolarius var. clypeolarius VARIETY
-=======
+# Lepiota cristata (Bolton) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Herb. Fr. 9: tab. 405 (1789)
+Führ. Pilzk. (Zwickau) 137 (1871)
 
 #### Original name
-Agaricus clypeolarius var. clypeolarius
+Lepiota cristata (Bolton) P. Kumm., 1871
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Coniothyrium mori (Mont.) Kuntze SPECIES
-=======
+# Coniothyrium mori (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

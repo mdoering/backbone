@@ -1,5 +1,4 @@
-Bloxamia cremea Aramb., Cabello & Cazau SPECIES
-=======
+# Bloxamia cremea Aramb., Cabello & Cazau SPECIES
 
 #### Status
 ACCEPTED

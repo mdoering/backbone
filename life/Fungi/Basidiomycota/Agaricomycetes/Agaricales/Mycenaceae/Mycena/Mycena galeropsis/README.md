@@ -1,5 +1,4 @@
-Mycena galeropsis (Fr.) Sacc. SPECIES
-=======
+# Mycena galeropsis (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

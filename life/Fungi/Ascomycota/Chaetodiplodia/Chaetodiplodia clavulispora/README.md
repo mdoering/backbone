@@ -1,5 +1,4 @@
-Chaetodiplodia clavulispora Speg. SPECIES
-=======
+# Chaetodiplodia clavulispora Speg. SPECIES
 
 #### Status
 ACCEPTED

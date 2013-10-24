@@ -1,5 +1,4 @@
-Physcia pyrithrocardia (Müll. Arg.) Räsänen SPECIES
-=======
+# Physcia pyrithrocardia (Müll. Arg.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

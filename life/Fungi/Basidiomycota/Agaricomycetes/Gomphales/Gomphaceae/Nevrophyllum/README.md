@@ -1,5 +1,4 @@
-Nevrophyllum GENUS
-=======
+# Nevrophyllum GENUS
 
 #### Status
 ACCEPTED

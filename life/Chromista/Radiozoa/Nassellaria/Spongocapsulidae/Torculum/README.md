@@ -1,5 +1,4 @@
-Torculum O'Dogherty, 1994 GENUS
-=======
+# Torculum O'Dogherty, 1994 GENUS
 
 #### Status
 ACCEPTED

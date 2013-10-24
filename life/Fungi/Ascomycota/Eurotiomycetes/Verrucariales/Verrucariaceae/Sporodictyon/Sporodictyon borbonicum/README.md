@@ -1,5 +1,4 @@
-Sporodictyon borbonicum (Nyl.) Trevis. SPECIES
-=======
+# Sporodictyon borbonicum (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

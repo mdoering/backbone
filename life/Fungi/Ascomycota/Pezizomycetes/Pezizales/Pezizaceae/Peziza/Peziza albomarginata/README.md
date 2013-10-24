@@ -1,5 +1,4 @@
-Peziza albomarginata Schumach. SPECIES
-=======
+# Peziza albomarginata Schumach. SPECIES
 
 #### Status
 ACCEPTED

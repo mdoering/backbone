@@ -1,5 +1,4 @@
-Lachnea albo-olivacea Gillet SPECIES
-=======
+# Lachnea albo-olivacea Gillet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ocellularia feigei Sipman SPECIES
-=======
+# Ocellularia feigei Sipman SPECIES
 
 #### Status
 ACCEPTED

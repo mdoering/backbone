@@ -1,5 +1,4 @@
-Acystis heinii Schiffner SPECIES
-=======
+# Acystis heinii Schiffner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sphaerella melanococca (Lév.) Berl. & Sacc., 1886 SPECIES
-=======
+# Dothidotthia melanococca (Lév. ex Triana & Planchon) Aptroot, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycosphaerella and its anamorphs: 2. Conspectus of Mycosphaerella 129 (2006)
 
 #### Original name
-null
+Sphaeria melanococca Lév., 1863
 
 ### Remarks
 null

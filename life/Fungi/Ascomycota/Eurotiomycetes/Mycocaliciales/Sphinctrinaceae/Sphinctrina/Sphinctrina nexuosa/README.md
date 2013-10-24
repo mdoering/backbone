@@ -1,5 +1,4 @@
-Sphinctrina nexuosa Preuss SPECIES
-=======
+# Sphinctrina nexuosa Preuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schismatomma picconianum (Bagl.) J. Steiner SPECIES
-=======
+# Schismatomma picconianum (Bagl.) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

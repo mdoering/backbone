@@ -1,17 +1,16 @@
-Globidium Neumann, 1909 GENUS
-=======
+# Globidiellum Brumpt, 1913 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Z. Hyg. Infektionskr. , 64, 83, 104.
+Précis Parasit. , ed. 2, 197.
 
 #### Original name
-null
+Globidium Neumann, 1909
 
 ### Remarks
 null

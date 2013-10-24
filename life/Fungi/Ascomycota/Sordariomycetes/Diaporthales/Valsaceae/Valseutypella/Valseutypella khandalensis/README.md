@@ -1,5 +1,4 @@
-Valseutypella khandalensis Vaidya SPECIES
-=======
+# Valseutypella khandalensis Vaidya SPECIES
 
 #### Status
 ACCEPTED

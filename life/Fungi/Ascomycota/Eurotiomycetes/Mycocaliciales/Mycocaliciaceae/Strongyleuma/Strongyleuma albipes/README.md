@@ -1,5 +1,4 @@
-Strongyleuma albipes Vain. SPECIES
-=======
+# Strongyleuma albipes Vain. SPECIES
 
 #### Status
 ACCEPTED

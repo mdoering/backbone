@@ -1,5 +1,4 @@
-Imbricaria quercifolia (Wulfen) Hepp SPECIES
-=======
+# Imbricaria quercifolia (Wulfen) Hepp SPECIES
 
 #### Status
 ACCEPTED

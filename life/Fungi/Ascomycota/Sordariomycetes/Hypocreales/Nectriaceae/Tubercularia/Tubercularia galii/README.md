@@ -1,5 +1,4 @@
-Tubercularia galii (Moug.) Lév. SPECIES
-=======
+# Tubercularia galii (Moug.) Lév. SPECIES
 
 #### Status
 ACCEPTED

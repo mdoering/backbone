@@ -1,5 +1,4 @@
-Langiella W.N. Croft & E.A. George, 1959 GENUS
-=======
+# Langiella W.N. Croft & E.A. George, 1959 GENUS
 
 #### Status
 ACCEPTED

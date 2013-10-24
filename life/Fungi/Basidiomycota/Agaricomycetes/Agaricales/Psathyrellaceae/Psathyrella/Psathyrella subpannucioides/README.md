@@ -1,5 +1,4 @@
-Psathyrella subpannucioides Courtec. SPECIES
-=======
+# Psathyrella subpannucioides Courtec. SPECIES
 
 #### Status
 ACCEPTED

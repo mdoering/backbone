@@ -1,5 +1,4 @@
-Thelocarpon citrum (Wallr.) Rossman SPECIES
-=======
+# Thelocarpon citrum (Wallr.) Rossman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopus diminutus var. diminutus VARIETY
-=======
+# Gymnopus diminutus (Berk. & Broome) A.W. Wilson, Desjardin & E. Horak SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Sydowia 56(1): 173 (2004)
 
 #### Original name
 Agaricus diminutus Berk. & Broome

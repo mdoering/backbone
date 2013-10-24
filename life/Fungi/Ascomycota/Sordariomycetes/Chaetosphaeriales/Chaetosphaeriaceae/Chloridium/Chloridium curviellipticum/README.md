@@ -1,5 +1,4 @@
-Chloridium curviellipticum Matsush. SPECIES
-=======
+# Chloridium curviellipticum Matsush. SPECIES
 
 #### Status
 ACCEPTED

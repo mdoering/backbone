@@ -1,5 +1,4 @@
-Puccinia oxypetali Henn. SPECIES
-=======
+# Puccinia oxypetali Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myrothecium crastophilum Sacc. SPECIES
-=======
+# Myrothecium crastophilum Sacc. SPECIES
 
 #### Status
 ACCEPTED

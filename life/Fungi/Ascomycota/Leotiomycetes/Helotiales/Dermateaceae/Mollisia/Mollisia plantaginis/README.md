@@ -1,5 +1,4 @@
-Mollisia plantaginis (Fuckel) W. Phillips SPECIES
-=======
+# Mollisia plantaginis (Fuckel) W. Phillips SPECIES
 
 #### Status
 ACCEPTED

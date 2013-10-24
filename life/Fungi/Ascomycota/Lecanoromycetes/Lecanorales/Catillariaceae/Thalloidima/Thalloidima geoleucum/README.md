@@ -1,5 +1,4 @@
-Thalloidima geoleucum (Nyl.) SPECIES
-=======
+# Thalloidima geoleucum (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

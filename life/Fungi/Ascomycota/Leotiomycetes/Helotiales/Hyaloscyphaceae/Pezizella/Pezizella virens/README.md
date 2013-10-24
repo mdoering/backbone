@@ -1,5 +1,4 @@
-Pezizella virens (Alb. & Schwein.) Rehm SPECIES
-=======
+# Pezizella virens (Alb. & Schwein.) Rehm SPECIES
 
 #### Status
 ACCEPTED

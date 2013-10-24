@@ -1,5 +1,4 @@
-Heteroconium eucalypti Crous & M.J. Wingf. SPECIES
-=======
+# Heteroconium eucalypti Crous & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

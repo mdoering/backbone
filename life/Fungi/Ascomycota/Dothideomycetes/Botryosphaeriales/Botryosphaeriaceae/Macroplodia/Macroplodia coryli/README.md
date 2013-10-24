@@ -1,5 +1,4 @@
-Macroplodia coryli (Ellis & Everh.) Kuntze SPECIES
-=======
+# Macroplodia coryli (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

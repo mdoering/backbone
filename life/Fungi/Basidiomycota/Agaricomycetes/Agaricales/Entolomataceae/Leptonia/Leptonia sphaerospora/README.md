@@ -1,5 +1,4 @@
-Leptonia sphaerospora Sacc. & Trotter SPECIES
-=======
+# Leptonia sphaerospora Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

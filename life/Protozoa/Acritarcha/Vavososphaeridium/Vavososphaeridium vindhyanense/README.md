@@ -1,5 +1,4 @@
-Vavososphaeridium vindhyanense (Maithy, 1969) Maithy & Shukla, 1977 SPECIES
-=======
+# Vavososphaeridium vindhyanense (Maithy, 1969) Maithy & Shukla, 1977 SPECIES
 
 #### Status
 ACCEPTED

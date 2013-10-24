@@ -1,5 +1,4 @@
-Cryothecomonas scybalophora Thomsen, Buck, Bolt & Garrison, 1991 SPECIES
-=======
+# Cryothecomonas scybalophora Thomsen, Buck, Bolt & Garrison, 1991 SPECIES
 
 #### Status
 ACCEPTED

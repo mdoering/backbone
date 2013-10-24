@@ -1,5 +1,4 @@
-Craspedotella Kofoid, 1905 GENUS
-=======
+# Craspedotella Kofoid, 1905 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irenina manaosensis (Henn.) Hansf. SPECIES
-=======
+# Irenina manaosensis (Henn.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

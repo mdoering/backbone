@@ -1,5 +1,4 @@
-Macowanites roseipes (Singer & A.H. Sm.) Pegler & T.W.K. Young SPECIES
-=======
+# Macowanites roseipes (Singer & A.H. Sm.) Pegler & T.W.K. Young SPECIES
 
 #### Status
 ACCEPTED

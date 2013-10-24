@@ -1,5 +1,4 @@
-Phomopsis gomphrenae M.H. Li, Z.D. Jiang & P.K. Chi SPECIES
-=======
+# Phomopsis gomphrenae M.H. Li, Z.D. Jiang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

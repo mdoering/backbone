@@ -1,5 +1,4 @@
-Semilecanora parvula Motyka SPECIES
-=======
+# Semilecanora parvula Motyka SPECIES
 
 #### Status
 ACCEPTED

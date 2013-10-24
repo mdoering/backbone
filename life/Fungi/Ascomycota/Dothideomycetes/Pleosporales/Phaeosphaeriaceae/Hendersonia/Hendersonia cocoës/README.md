@@ -1,5 +1,4 @@
-Hendersonia cocoës Caball. SPECIES
-=======
+# Hendersonia cocoës Caball. SPECIES
 
 #### Status
 ACCEPTED

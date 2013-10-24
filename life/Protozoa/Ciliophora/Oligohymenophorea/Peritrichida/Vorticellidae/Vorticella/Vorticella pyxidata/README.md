@@ -1,5 +1,4 @@
-Vorticella pyxidata Dumas, 1929 SPECIES
-=======
+# Vorticella pyxidata Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteolus acuminatus Beeli SPECIES
-=======
+# Pluteolus acuminatus Beeli SPECIES
 
 #### Status
 ACCEPTED

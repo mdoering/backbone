@@ -1,5 +1,4 @@
-Stichosiphon skujae G. Montejano, M. Gold-Morgan & J. Komárek SPECIES
-=======
+# Stichosiphon skujae G. Montejano, M. Gold-Morgan & J. Komárek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caeoma pentstemoniatum Schwein. SPECIES
-=======
+# Caeoma pentstemoniatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

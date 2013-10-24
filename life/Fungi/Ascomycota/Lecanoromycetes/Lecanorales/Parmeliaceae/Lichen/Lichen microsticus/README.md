@@ -1,5 +1,4 @@
-Lichen microsticus SPECIES
-=======
+# Lichen microsticus SPECIES
 
 #### Status
 ACCEPTED

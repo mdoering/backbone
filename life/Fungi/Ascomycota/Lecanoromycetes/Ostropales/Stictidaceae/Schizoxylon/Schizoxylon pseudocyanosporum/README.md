@@ -1,5 +1,4 @@
-Schizoxylon pseudocyanosporum Sherwood SPECIES
-=======
+# Schizoxylon pseudocyanosporum Sherwood SPECIES
 
 #### Status
 ACCEPTED

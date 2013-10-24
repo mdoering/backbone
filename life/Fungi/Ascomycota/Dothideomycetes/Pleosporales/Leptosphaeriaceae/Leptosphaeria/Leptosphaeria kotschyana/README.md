@@ -1,5 +1,4 @@
-Leptosphaeria kotschyana Petr. SPECIES
-=======
+# Leptosphaeria kotschyana Petr. SPECIES
 
 #### Status
 ACCEPTED

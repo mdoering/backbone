@@ -1,5 +1,4 @@
-Lagenidicopsis arctica N.J. Artemczuk SPECIES
-=======
+# Lagenidicopsis arctica N.J. Artemczuk SPECIES
 
 #### Status
 ACCEPTED

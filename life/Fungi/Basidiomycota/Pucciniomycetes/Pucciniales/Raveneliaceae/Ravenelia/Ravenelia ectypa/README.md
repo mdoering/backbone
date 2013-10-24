@@ -1,5 +1,4 @@
-Ravenelia ectypa Arthur & Holw. SPECIES
-=======
+# Ravenelia ectypa Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

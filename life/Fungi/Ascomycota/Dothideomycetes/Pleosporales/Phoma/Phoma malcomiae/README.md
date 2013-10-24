@@ -1,5 +1,4 @@
-Phoma malcomiae Sacc. SPECIES
-=======
+# Phoma malcomiae Sacc. SPECIES
 
 #### Status
 ACCEPTED

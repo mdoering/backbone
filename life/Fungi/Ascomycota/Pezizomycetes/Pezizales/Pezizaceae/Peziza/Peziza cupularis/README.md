@@ -1,5 +1,4 @@
-Peziza cupularis Oeder SPECIES
-=======
+# Peziza cupularis Oeder SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma ligustri N.F. Buchw. SPECIES
-=======
+# Phoma ligustri N.F. Buchw. SPECIES
 
 #### Status
 ACCEPTED

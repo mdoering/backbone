@@ -1,5 +1,4 @@
-Plagiophiale petrakii (E. Müll.) M.E. Barr SPECIES
-=======
+# Plagiophiale petrakii (E. Müll.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Gymnodermatomyces Cif. & Tomas. GENUS
-=======
+# Gymnoderma Nylander, 1860 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+IRMNG Homonym List
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 40, 67 (1953)
+Flora, Jena 43: 546 (1860)
 
 #### Original name
-Gymnodermatomyces Cif. & Tomas.
+Gymnoderma Nylander, 1860
 
 ### Remarks
 null

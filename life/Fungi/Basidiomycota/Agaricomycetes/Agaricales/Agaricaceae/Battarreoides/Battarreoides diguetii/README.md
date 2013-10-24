@@ -1,17 +1,16 @@
-Battarrea digueti Pat. & Har. SPECIES
-=======
+# Battarreoides diguetii (Pat. & Har.) R. Heim & T. Herrera, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+An. Inst. Biol. Univ. Mex. 32: 30 (1962)
 
 #### Original name
-Battarrea digueti Pat. & Har.
+Battarrea diguetii Pat. & Har., 1896
 
 ### Remarks
 null

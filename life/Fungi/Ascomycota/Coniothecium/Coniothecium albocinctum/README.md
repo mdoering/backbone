@@ -1,5 +1,4 @@
-Coniothecium albocinctum Preuss SPECIES
-=======
+# Coniothecium albocinctum Preuss SPECIES
 
 #### Status
 ACCEPTED

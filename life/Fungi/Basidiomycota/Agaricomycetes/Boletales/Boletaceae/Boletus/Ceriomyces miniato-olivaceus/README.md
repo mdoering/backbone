@@ -1,5 +1,4 @@
-Ceriomyces miniato-olivaceus (Frost) Murrill SPECIES
-=======
+# Ceriomyces miniato-olivaceus (Frost) Murrill SPECIES
 
 #### Status
 ACCEPTED

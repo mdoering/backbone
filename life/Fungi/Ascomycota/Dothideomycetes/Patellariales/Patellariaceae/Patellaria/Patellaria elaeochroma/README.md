@@ -1,5 +1,4 @@
-Patellaria elaeochroma Duby SPECIES
-=======
+# Patellaria elaeochroma Duby SPECIES
 
 #### Status
 ACCEPTED

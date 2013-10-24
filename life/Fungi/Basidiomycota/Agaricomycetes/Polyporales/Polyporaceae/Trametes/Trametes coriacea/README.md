@@ -1,5 +1,4 @@
-Trametes coriacea (Berk. & Ravenel) Pat. SPECIES
-=======
+# Trametes coriacea (Berk. & Ravenel) Pat. SPECIES
 
 #### Status
 ACCEPTED

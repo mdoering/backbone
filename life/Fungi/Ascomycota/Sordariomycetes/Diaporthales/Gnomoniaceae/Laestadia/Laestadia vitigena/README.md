@@ -1,5 +1,4 @@
-Laestadia vitigena Pass. SPECIES
-=======
+# Laestadia vitigena Pass. SPECIES
 
 #### Status
 ACCEPTED

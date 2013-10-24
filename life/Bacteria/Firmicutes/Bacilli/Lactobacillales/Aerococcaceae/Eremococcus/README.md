@@ -1,5 +1,4 @@
-Eremococcus Collins et al., 1999 GENUS
-=======
+# Eremococcus Collins et al., 1999 GENUS
 
 #### Status
 ACCEPTED

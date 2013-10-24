@@ -1,8 +1,7 @@
-Nautilus macellus var. alpha Fichtel & Moll, 1798 VARIETY
-=======
+# Elphidium planulatum (Lamarck, 1822) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Stemphyliomma crotonis Toro SPECIES
-=======
+# Stemphyliomma crotonis Toro SPECIES
 
 #### Status
 ACCEPTED

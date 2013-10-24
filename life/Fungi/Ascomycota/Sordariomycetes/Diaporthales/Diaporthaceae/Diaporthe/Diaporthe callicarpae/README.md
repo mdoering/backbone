@@ -1,5 +1,4 @@
-Diaporthe callicarpae Peck SPECIES
-=======
+# Diaporthe callicarpae Peck SPECIES
 
 #### Status
 ACCEPTED

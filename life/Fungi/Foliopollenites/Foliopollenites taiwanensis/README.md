@@ -1,5 +1,4 @@
-Foliopollenites taiwanensis T.C. Huang SPECIES
-=======
+# Foliopollenites taiwanensis T.C. Huang SPECIES
 
 #### Status
 ACCEPTED

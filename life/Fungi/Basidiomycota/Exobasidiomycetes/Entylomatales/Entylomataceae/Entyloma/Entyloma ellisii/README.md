@@ -1,5 +1,4 @@
-Entyloma ellisii Halst. SPECIES
-=======
+# Entyloma ellisii Halst. SPECIES
 
 #### Status
 ACCEPTED

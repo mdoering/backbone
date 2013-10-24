@@ -1,8 +1,7 @@
-Clitocybe castanicola Bacc. SPECIES
-=======
+# Clitocybe castaneicola Bacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Clitocybe castanicola Bacc.
+Clitocybe castaneicola Bacc.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Agaricus hilarianus Mont. SPECIES
-=======
+# Agaricus hilarianus Mont. SPECIES
 
 #### Status
 ACCEPTED

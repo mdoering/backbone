@@ -1,17 +1,16 @@
-Alectoria thrausta var. thrausta VARIETY
-=======
+# Ramalina thrausta (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syn. meth. lich. 1(2): 296 (1860)
 
 #### Original name
-null
+Alectoria thrausta Ach.
 
 ### Remarks
 null

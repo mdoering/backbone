@@ -1,5 +1,4 @@
-Lachnum attenuatum J.H. Haines & Dumont SPECIES
-=======
+# Lachnum attenuatum J.H. Haines & Dumont SPECIES
 
 #### Status
 ACCEPTED

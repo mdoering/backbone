@@ -1,5 +1,4 @@
-Uromyces lychnidis Tracy & Earle SPECIES
-=======
+# Uromyces lychnidis Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

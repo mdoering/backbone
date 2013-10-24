@@ -1,5 +1,4 @@
-Agaricus torosus Fr. SPECIES
-=======
+# Agaricus torosus Fr. SPECIES
 
 #### Status
 ACCEPTED

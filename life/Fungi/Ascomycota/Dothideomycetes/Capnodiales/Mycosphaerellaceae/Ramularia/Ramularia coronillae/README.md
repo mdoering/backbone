@@ -1,5 +1,4 @@
-Ramularia coronillae Bres. SPECIES
-=======
+# Ramularia coronillae Bres. SPECIES
 
 #### Status
 ACCEPTED

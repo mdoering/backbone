@@ -1,5 +1,4 @@
-Selenophoma murashkinskyi Petr. SPECIES
-=======
+# Selenophoma murashkinskyi Petr. SPECIES
 
 #### Status
 ACCEPTED

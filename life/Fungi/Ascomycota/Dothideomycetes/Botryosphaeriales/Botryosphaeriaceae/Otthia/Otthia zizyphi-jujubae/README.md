@@ -1,8 +1,7 @@
-Otthia ziziphi-jujubae Tilak & S.B. Kale SPECIES
-=======
+# Otthia zizyphi-jujubae Tilak & S.B. Kale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Otthia ziziphi-jujubae Tilak & S.B. Kale
+Otthia zizyphi-jujubae Tilak & S.B. Kale
 
 ### Remarks
 null

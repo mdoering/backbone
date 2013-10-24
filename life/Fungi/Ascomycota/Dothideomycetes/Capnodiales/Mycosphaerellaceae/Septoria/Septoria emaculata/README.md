@@ -1,5 +1,4 @@
-Septoria emaculata Peck & Cooke SPECIES
-=======
+# Septoria emaculata Peck & Cooke SPECIES
 
 #### Status
 ACCEPTED

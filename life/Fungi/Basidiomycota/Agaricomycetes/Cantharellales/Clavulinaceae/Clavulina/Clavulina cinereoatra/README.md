@@ -1,5 +1,4 @@
-Clavulina cinereoatra (Rick) D.A. Reid & Hedger SPECIES
-=======
+# Clavulina cinereoatra (Rick) D.A. Reid & Hedger SPECIES
 
 #### Status
 ACCEPTED

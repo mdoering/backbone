@@ -1,5 +1,4 @@
-Phormidium subterraneum J. Phillipson SPECIES
-=======
+# Phormidium subterraneum J. Phillipson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Comasphaeridium longibaculatum (Jiabo, 1978) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Comasphaeridium longibaculatum (Jiabo, 1978) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

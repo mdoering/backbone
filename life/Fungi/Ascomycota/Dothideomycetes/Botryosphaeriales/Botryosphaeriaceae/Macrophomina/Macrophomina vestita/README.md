@@ -1,5 +1,4 @@
-Macrophomina vestita (Prill. & Delacr.) SPECIES
-=======
+# Macrophomina vestita (Prill. & Delacr.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scolecopeltidium perae Bat. SPECIES
-=======
+# Scolecopeltidium perae Bat. SPECIES
 
 #### Status
 ACCEPTED

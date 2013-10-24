@@ -1,5 +1,4 @@
-Septobasidium tropicale Burt SPECIES
-=======
+# Septobasidium tropicale Burt SPECIES
 
 #### Status
 ACCEPTED

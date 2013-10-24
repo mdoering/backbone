@@ -1,5 +1,4 @@
-Lingulodinium milneri (Murray & Whitting, 1899) Dodge, 1989 SPECIES
-=======
+# Lingulodinium milneri (Murray & Whitting, 1899) Dodge, 1989 SPECIES
 
 #### Status
 ACCEPTED

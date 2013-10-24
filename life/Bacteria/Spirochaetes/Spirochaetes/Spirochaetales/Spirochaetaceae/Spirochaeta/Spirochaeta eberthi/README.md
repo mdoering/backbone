@@ -1,5 +1,4 @@
-Spirochaeta eberthi SPECIES
-=======
+# Spirochaeta eberthi SPECIES
 
 #### Status
 ACCEPTED

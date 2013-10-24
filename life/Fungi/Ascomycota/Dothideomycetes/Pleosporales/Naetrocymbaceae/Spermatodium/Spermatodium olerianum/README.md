@@ -1,5 +1,4 @@
-Spermatodium olerianum Trevis. SPECIES
-=======
+# Spermatodium olerianum Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterococcus capitatus Pitschmann SPECIES
-=======
+# Heterococcus capitatus Pitschmann SPECIES
 
 #### Status
 ACCEPTED

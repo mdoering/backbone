@@ -1,5 +1,4 @@
-Catillaria meizophthalma Vain. SPECIES
-=======
+# Catillaria meizophthalma Vain. SPECIES
 
 #### Status
 ACCEPTED

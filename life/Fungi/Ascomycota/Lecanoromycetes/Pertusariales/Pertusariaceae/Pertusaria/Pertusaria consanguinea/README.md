@@ -1,5 +1,4 @@
-Pertusaria consanguinea Müll. Arg. SPECIES
-=======
+# Pertusaria consanguinea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

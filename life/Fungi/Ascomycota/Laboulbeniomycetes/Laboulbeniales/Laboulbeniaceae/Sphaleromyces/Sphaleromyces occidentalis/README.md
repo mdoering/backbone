@@ -1,5 +1,4 @@
-Sphaleromyces occidentalis Thaxt. SPECIES
-=======
+# Sphaleromyces occidentalis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

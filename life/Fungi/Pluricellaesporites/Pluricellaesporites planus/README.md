@@ -1,5 +1,4 @@
-Pluricellaesporites planus Trivedi & C.L. Verma SPECIES
-=======
+# Pluricellaesporites planus Trivedi & C.L. Verma SPECIES
 
 #### Status
 ACCEPTED

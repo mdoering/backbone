@@ -1,5 +1,4 @@
-Dentalina mucronata Neugeboren, 1856 SPECIES
-=======
+# Dentalina mucronata Neugeboren, 1856 SPECIES
 
 #### Status
 ACCEPTED

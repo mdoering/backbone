@@ -1,5 +1,4 @@
-Colletotrichum magnusianum Bres. SPECIES
-=======
+# Colletotrichum magnusianum Bres. SPECIES
 
 #### Status
 ACCEPTED

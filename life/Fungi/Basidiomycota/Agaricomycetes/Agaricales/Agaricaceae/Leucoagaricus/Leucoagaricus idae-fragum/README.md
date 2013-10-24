@@ -1,5 +1,4 @@
-Leucoagaricus idae-fragum Guinb., Boisselet & G. Dupuy SPECIES
-=======
+# Leucoagaricus idae-fragum Guinb., Boisselet & G. Dupuy SPECIES
 
 #### Status
 ACCEPTED

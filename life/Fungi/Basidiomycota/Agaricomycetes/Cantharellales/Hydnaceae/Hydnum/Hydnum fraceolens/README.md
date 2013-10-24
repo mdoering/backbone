@@ -1,5 +1,4 @@
-Hydnum fraceolens Brot. SPECIES
-=======
+# Hydnum fraceolens Brot. SPECIES
 
 #### Status
 ACCEPTED

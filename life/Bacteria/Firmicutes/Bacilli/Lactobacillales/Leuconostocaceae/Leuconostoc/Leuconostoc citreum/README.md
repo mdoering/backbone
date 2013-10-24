@@ -1,5 +1,4 @@
-Leuconostoc citreum Farrow et al., 1989 SPECIES
-=======
+# Leuconostoc citreum Farrow et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

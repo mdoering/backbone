@@ -1,5 +1,4 @@
-Teichospora aspera Ellis & Everh. SPECIES
-=======
+# Teichospora aspera Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

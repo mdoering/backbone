@@ -1,5 +1,4 @@
-Sphaerella crataegicola Bondartsev & Tranzschel SPECIES
-=======
+# Sphaerella crataegicola Bondartsev & Tranzschel SPECIES
 
 #### Status
 ACCEPTED

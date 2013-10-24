@@ -1,5 +1,4 @@
-Bacidia elevata Körb. SPECIES
-=======
+# Bacidia elevata Körb. SPECIES
 
 #### Status
 ACCEPTED

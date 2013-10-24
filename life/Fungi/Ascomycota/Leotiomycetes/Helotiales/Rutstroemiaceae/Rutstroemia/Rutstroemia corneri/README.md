@@ -1,5 +1,4 @@
-Rutstroemia corneri E.K. Cash SPECIES
-=======
+# Rutstroemia corneri E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

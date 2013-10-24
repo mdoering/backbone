@@ -1,5 +1,4 @@
-Elphidium margaritaceum (Cushman, 1930) SPECIES
-=======
+# Elphidium margaritaceum (Cushman, 1930) SPECIES
 
 #### Status
 ACCEPTED

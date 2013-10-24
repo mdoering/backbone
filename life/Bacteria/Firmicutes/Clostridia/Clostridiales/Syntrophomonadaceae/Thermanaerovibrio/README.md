@@ -1,5 +1,4 @@
-Thermanaerovibrio Baena et al., 1999 GENUS
-=======
+# Thermanaerovibrio Baena et al., 1999 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius anuliferus M.M. Moser SPECIES
-=======
+# Cortinarius anuliferus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

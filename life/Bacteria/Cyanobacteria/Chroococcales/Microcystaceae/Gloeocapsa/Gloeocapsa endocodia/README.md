@@ -1,5 +1,4 @@
-Gloeocapsa endocodia Vouk SPECIES
-=======
+# Gloeocapsa endocodia Vouk SPECIES
 
 #### Status
 ACCEPTED

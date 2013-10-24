@@ -1,5 +1,4 @@
-Russula glauca Burl. SPECIES
-=======
+# Russula glauca Burl. SPECIES
 
 #### Status
 ACCEPTED

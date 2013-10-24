@@ -1,5 +1,4 @@
-Colletotrichum gnaphalii Syd., 1939 SPECIES
-=======
+# Colletotrichum gnaphalii Syd., 1939 SPECIES
 
 #### Status
 ACCEPTED

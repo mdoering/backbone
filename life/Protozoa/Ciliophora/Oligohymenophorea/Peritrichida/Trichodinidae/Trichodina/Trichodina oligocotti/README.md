@@ -1,5 +1,4 @@
-Trichodina oligocotti Lom, 1970 SPECIES
-=======
+# Trichodina oligocotti Lom, 1970 SPECIES
 
 #### Status
 ACCEPTED

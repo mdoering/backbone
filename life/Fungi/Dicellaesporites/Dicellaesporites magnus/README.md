@@ -1,5 +1,4 @@
-Dicellaesporites magnus Doub. & D. Pons SPECIES
-=======
+# Dicellaesporites magnus Doub. & D. Pons SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina copelandii (Vain.) Zahlbr. SPECIES
-=======
+# Graphina copelandii (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

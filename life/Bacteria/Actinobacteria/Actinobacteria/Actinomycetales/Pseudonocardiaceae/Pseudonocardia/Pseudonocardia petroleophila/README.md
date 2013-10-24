@@ -1,8 +1,7 @@
-Nocardia petroleophila Hirsch and Engel, 1956 (Approved Lists, 1980) SPECIES
-=======
+# Pseudonocardia petroleophila (Hirsch & Engel, 1956) Warwick et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

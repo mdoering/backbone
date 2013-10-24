@@ -1,5 +1,4 @@
-Phyllachora anacardiarum Chardón, 1934 SPECIES
-=======
+# Phyllachora anacardiarum Chardón, 1934 SPECIES
 
 #### Status
 ACCEPTED

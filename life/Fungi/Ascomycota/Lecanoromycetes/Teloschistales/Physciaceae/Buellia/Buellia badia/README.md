@@ -1,17 +1,16 @@
-Lecidea badia var. badia VARIETY
-=======
+# Buellia badia (Fr.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. orb. veg. (Lundae) 1: 287 (1825)
+Memor. Lichenogr. 124 (1853)
 
 #### Original name
-Lecidea badia var. badia
+Lecidea badia Fr.
 
 ### Remarks
 null

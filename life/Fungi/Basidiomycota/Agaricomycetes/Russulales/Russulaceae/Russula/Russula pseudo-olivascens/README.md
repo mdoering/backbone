@@ -1,17 +1,16 @@
-Russula pseudoolivascens Kärcher SPECIES
-=======
+# Russula pseudo-olivascens Kärcher, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Z. Mykol. 68(2): 174 (2002)
 
 #### Original name
-Russula pseudoolivascens Kärcher
+Russula pseudo-olivascens Kärcher, 2002
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Amphizygus Bukry, 1969 GENUS
-=======
+# Amphizygus Bukry, 1969 GENUS
 
 #### Status
 ACCEPTED

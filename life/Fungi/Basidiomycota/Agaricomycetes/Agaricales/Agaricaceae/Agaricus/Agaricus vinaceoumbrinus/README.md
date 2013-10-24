@@ -1,5 +1,4 @@
-Agaricus vinaceoumbrinus A.H. Sm. SPECIES
-=======
+# Agaricus vinaceoumbrinus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

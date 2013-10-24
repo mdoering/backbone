@@ -1,5 +1,4 @@
-Octopyle Haeckel, 1881 GENUS
-=======
+# Octopyle Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

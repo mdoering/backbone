@@ -1,5 +1,4 @@
-Prediscosphaera rhombica (Perch-Nielsen, 1968) Reinhardt, 1970 SPECIES
-=======
+# Prediscosphaera rhombica (Perch-Nielsen, 1968) Reinhardt, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia intermedia Sacc., E. Bommer & M. Rousseau SPECIES
-=======
+# Pestalotia intermedia Sacc., E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia ceillacensis Mayor SPECIES
-=======
+# Puccinia ceillacensis Mayor SPECIES
 
 #### Status
 ACCEPTED

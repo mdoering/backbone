@@ -1,5 +1,4 @@
-Propolis gilva (Fr.) Fr. SPECIES
-=======
+# Propolis gilva (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

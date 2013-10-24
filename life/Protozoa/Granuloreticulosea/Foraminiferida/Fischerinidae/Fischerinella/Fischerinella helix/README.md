@@ -1,5 +1,4 @@
-Fischerinella helix SPECIES
-=======
+# Fischerinella helix SPECIES
 
 #### Status
 ACCEPTED

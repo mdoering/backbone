@@ -1,8 +1,7 @@
-Sclerophthora rayssiae var. rayssiae R.G. Kenneth, Koltin & I. Wahl, 1964 VARIETY
-=======
+# Sclerophthora rayssiae R.G. Kenneth, Koltin & I. Wahl, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Sclerophthora rayssiae var. rayssiae R.G. Kenneth, Koltin & I. Wahl, 1964
+Sclerophthora rayssiae R.G. Kenneth, Koltin & I. Wahl, 1964
 
 ### Remarks
 null

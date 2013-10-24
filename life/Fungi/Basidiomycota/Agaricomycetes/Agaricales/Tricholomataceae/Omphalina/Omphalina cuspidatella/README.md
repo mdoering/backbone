@@ -1,5 +1,4 @@
-Omphalina cuspidatella Murrill SPECIES
-=======
+# Omphalina cuspidatella Murrill SPECIES
 
 #### Status
 ACCEPTED

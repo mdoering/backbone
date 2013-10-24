@@ -1,5 +1,4 @@
-Septothyrella dominicana Petr. & Cif. SPECIES
-=======
+# Septothyrella dominicana Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

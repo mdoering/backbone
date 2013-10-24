@@ -1,5 +1,4 @@
-Karschia protothallina (Anzi) Körb. SPECIES
-=======
+# Karschia protothallina (Anzi) Körb. SPECIES
 
 #### Status
 ACCEPTED

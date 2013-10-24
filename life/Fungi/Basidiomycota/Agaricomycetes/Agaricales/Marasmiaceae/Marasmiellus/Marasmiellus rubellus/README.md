@@ -1,5 +1,4 @@
-Marasmiellus rubellus (Mont.) Singer SPECIES
-=======
+# Marasmiellus rubellus (Mont.) Singer SPECIES
 
 #### Status
 ACCEPTED

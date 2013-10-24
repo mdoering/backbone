@@ -1,5 +1,4 @@
-Polyblastia vallorcinensis (Croz.) Zschacke SPECIES
-=======
+# Polyblastia vallorcinensis (Croz.) Zschacke SPECIES
 
 #### Status
 ACCEPTED

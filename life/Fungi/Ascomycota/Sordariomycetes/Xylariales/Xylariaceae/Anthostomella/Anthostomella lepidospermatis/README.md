@@ -1,8 +1,7 @@
-Anthostomella lepidospermae Cooke SPECIES
-=======
+# Anthostomella lepidospermatis Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Anthostomella lepidospermae Cooke
+Anthostomella lepidospermatis Cooke
 
 ### Remarks
 null

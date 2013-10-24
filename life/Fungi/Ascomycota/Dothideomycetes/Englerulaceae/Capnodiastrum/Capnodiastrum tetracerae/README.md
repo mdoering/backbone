@@ -1,5 +1,4 @@
-Capnodiastrum tetracerae Pat. SPECIES
-=======
+# Capnodiastrum tetracerae Pat. SPECIES
 
 #### Status
 ACCEPTED

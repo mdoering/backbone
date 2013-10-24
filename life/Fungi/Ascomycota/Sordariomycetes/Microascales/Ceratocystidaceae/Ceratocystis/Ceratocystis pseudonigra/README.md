@@ -1,5 +1,4 @@
-Ceratocystis pseudonigra Olchow. & J. Reid SPECIES
-=======
+# Ceratocystis pseudonigra Olchow. & J. Reid SPECIES
 
 #### Status
 ACCEPTED

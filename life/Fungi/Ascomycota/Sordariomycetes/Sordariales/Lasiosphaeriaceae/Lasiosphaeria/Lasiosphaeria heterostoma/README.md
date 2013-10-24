@@ -1,5 +1,4 @@
-Lasiosphaeria heterostoma P. Karst. SPECIES
-=======
+# Lasiosphaeria heterostoma P. Karst. SPECIES
 
 #### Status
 ACCEPTED

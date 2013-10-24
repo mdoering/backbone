@@ -1,5 +1,4 @@
-Potriphila Döbbeler GENUS
-=======
+# Potriphila Döbbeler GENUS
 
 #### Status
 ACCEPTED

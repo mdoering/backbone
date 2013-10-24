@@ -1,5 +1,4 @@
-Mycosphaerella albiziae U.P. Singh SPECIES
-=======
+# Mycosphaerella albiziae U.P. Singh SPECIES
 
 #### Status
 ACCEPTED

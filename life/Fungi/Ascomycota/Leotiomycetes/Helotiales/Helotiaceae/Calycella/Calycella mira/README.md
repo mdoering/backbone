@@ -1,5 +1,4 @@
-Calycella mira Quél. SPECIES
-=======
+# Calycella mira Quél. SPECIES
 
 #### Status
 ACCEPTED

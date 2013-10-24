@@ -1,5 +1,4 @@
-Endoteba Vachard & Razgallah, 1988 GENUS
-=======
+# Endoteba Vachard & Razgallah, 1988 GENUS
 
 #### Status
 ACCEPTED

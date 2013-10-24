@@ -1,5 +1,4 @@
-Laestadia mappa (Berk.) Sacc. SPECIES
-=======
+# Laestadia mappa (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria craspedia (Ach.) DC. SPECIES
-=======
+# Patellaria craspedia (Ach.) DC. SPECIES
 
 #### Status
 ACCEPTED

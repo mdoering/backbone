@@ -1,5 +1,4 @@
-Mycosphaerella eupatorii J.M. Yen SPECIES
-=======
+# Mycosphaerella eupatorii J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

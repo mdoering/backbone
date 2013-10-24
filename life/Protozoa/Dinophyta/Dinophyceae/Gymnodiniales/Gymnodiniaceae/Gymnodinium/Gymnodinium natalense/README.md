@@ -1,5 +1,4 @@
-Gymnodinium natalense Horiguchi & Pienaar SPECIES
-=======
+# Gymnodinium natalense Horiguchi & Pienaar SPECIES
 
 #### Status
 ACCEPTED

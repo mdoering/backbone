@@ -1,5 +1,4 @@
-Mycosphaerella martinae Hansf. SPECIES
-=======
+# Mycosphaerella martinae Hansf. SPECIES
 
 #### Status
 ACCEPTED

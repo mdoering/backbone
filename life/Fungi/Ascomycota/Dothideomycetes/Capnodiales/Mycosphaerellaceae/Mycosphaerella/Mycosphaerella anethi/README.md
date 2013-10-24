@@ -1,17 +1,16 @@
-Phoma anethi var. anethi VARIETY
-=======
+# Mycosphaerella anethi (Pers.) Petr., 1927 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 2(no. 7): 336 (1881)
+Annls mycol. 25(3/4): 229 (1927)
 
 #### Original name
-Phoma anethi var. anethi
+Sphaeria anethi Pers., 1796
 
 ### Remarks
 null

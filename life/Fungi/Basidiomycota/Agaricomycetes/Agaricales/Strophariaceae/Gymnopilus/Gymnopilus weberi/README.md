@@ -1,5 +1,4 @@
-Gymnopilus weberi Murrill SPECIES
-=======
+# Gymnopilus weberi Murrill SPECIES
 
 #### Status
 ACCEPTED

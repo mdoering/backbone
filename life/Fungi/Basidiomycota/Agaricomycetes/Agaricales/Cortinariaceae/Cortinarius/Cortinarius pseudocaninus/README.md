@@ -1,5 +1,4 @@
-Cortinarius pseudocaninus Rob. Henry SPECIES
-=======
+# Cortinarius pseudocaninus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

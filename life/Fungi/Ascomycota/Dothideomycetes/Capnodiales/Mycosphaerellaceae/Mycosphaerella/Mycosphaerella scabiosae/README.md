@@ -1,5 +1,4 @@
-Mycosphaerella scabiosae Tomilin SPECIES
-=======
+# Mycosphaerella scabiosae Tomilin SPECIES
 
 #### Status
 ACCEPTED

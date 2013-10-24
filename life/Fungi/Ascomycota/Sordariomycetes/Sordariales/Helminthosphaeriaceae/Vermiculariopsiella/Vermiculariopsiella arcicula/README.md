@@ -1,5 +1,4 @@
-Vermiculariopsiella arcicula Pasqual. & Zucconi SPECIES
-=======
+# Vermiculariopsiella arcicula Pasqual. & Zucconi SPECIES
 
 #### Status
 ACCEPTED

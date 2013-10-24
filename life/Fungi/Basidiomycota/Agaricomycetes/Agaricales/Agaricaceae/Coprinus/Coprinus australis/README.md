@@ -1,5 +1,4 @@
-Coprinus australis Speg. SPECIES
-=======
+# Coprinus australis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Perichaena taimyriensis Novozh. & Schnittler, 2000 SPECIES
-=======
+# Perichaena taimyriensis Novozh. & Schnittler, 2000 SPECIES
 
 #### Status
 ACCEPTED

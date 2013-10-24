@@ -1,5 +1,4 @@
-Armillariella macrospora (Peck) T.J. Baroni SPECIES
-=======
+# Armillariella macrospora (Peck) T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

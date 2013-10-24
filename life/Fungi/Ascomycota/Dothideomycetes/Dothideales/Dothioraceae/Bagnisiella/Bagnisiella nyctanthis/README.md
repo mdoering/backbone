@@ -1,17 +1,16 @@
-Bagnisiella nyctanthae R.C. Rajak, R.C. Gupta, Belap. & A.K. Pandey SPECIES
-=======
+# Bagnisiella nyctanthis R.C. Rajak, R.C. Gupta, Belap. & A.K. Pandey SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Econ. Taxon. Bot. 18(3): 547 (1995)
 
 #### Original name
-Bagnisiella nyctanthae R.C. Rajak, R.C. Gupta, Belap. & A.K. Pandey
+Bagnisiella nyctanthis R.C. Rajak, R.C. Gupta, Belap. & A.K. Pandey
 
 ### Remarks
 null

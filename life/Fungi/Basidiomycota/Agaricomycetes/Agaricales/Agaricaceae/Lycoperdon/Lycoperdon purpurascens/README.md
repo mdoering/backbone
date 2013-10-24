@@ -1,14 +1,13 @@
-Morganella purpurascens (Berk. & M.A. Curtis) Kreisel & Dring, 1967 SPECIES
-=======
+# Lycoperdon purpurascens (Berk. & M.A. Curtis) Sacc., 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 7: 488 (1888)
 
 #### Original name
 Bovista purpurascens Berk. & M.A. Curtis

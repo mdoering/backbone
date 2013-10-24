@@ -1,5 +1,4 @@
-Helvella atrata Sw. SPECIES
-=======
+# Helvella atrata Sw. SPECIES
 
 #### Status
 ACCEPTED

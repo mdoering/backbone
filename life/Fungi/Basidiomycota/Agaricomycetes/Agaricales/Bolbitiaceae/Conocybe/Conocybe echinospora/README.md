@@ -1,5 +1,4 @@
-Conocybe echinospora Murrill SPECIES
-=======
+# Conocybe echinospora Murrill SPECIES
 
 #### Status
 ACCEPTED

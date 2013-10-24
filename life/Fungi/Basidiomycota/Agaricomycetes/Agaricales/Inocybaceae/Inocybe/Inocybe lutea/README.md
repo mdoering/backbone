@@ -1,5 +1,4 @@
-Inocybe lutea Kobayasi & Hongo SPECIES
-=======
+# Inocybe lutea Kobayasi & Hongo SPECIES
 
 #### Status
 ACCEPTED

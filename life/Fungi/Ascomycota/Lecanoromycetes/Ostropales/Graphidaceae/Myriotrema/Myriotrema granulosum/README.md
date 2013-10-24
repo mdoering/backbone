@@ -1,14 +1,13 @@
-Ascidium granulosum Leight. SPECIES
-=======
+# Myriotrema granulosum (Leight.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Trans. Linn. Soc. London 27: 171 (1869)
+Mycotaxon 11(1): 133 (1980)
 
 #### Original name
 Ascidium granulosum Leight.

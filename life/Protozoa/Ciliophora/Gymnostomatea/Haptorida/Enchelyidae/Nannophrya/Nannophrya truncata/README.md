@@ -1,5 +1,4 @@
-Nannophrya truncata Kahl, 1933 SPECIES
-=======
+# Nannophrya truncata Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

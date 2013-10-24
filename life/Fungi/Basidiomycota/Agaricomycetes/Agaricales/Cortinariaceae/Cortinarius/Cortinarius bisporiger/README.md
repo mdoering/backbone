@@ -1,5 +1,4 @@
-Cortinarius bisporiger Contu SPECIES
-=======
+# Cortinarius bisporiger Contu SPECIES
 
 #### Status
 ACCEPTED

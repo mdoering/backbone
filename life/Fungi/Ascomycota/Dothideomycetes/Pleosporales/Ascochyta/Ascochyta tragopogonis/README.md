@@ -1,5 +1,4 @@
-Ascochyta tragopogonis Bondartsev SPECIES
-=======
+# Ascochyta tragopogonis Bondartsev SPECIES
 
 #### Status
 ACCEPTED

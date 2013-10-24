@@ -1,5 +1,4 @@
-Pleurage arachnoidea (Niessl) Griffiths SPECIES
-=======
+# Pleurage arachnoidea (Niessl) Griffiths SPECIES
 
 #### Status
 ACCEPTED

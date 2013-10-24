@@ -1,5 +1,4 @@
-Arwidssonia B. Eriksson, 1974 GENUS
-=======
+# Arwidssonia B. Eriksson, 1974 GENUS
 
 #### Status
 ACCEPTED

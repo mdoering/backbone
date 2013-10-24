@@ -1,17 +1,16 @@
-Amanita guzmanni Cifuentes, Villegas & G. Santiago SPECIES
-=======
+# Amanita guzmanii Cifuentes, Villegas & G. Santiago SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Santiago, Cifuentes & Villegas, Boletín de la Sociedad Mexicana de Micología 19: 100 (1984)
 
 #### Original name
-Amanita guzmanni Cifuentes, Villegas & G. Santiago
+Amanita guzmanii Cifuentes, Villegas & G. Santiago
 
 ### Remarks
 null

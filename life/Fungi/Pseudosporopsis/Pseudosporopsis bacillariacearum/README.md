@@ -1,5 +1,4 @@
-Pseudosporopsis bacillariacearum (Zopf) Scherff. SPECIES
-=======
+# Pseudosporopsis bacillariacearum (Zopf) Scherff. SPECIES
 
 #### Status
 ACCEPTED

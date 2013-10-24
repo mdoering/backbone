@@ -1,5 +1,4 @@
-Sphaerosoma violaceum Svrcek SPECIES
-=======
+# Sphaerosoma violaceum Svrcek SPECIES
 
 #### Status
 ACCEPTED

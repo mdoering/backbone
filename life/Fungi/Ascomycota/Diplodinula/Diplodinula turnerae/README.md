@@ -1,5 +1,4 @@
-Diplodinula turnerae (Tassi) Tassi SPECIES
-=======
+# Diplodinula turnerae (Tassi) Tassi SPECIES
 
 #### Status
 ACCEPTED

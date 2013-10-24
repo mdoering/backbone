@@ -1,5 +1,4 @@
-Isaria gigantea Mont. SPECIES
-=======
+# Isaria gigantea Mont. SPECIES
 
 #### Status
 ACCEPTED

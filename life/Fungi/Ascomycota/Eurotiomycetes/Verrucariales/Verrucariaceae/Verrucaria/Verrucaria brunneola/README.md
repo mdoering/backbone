@@ -1,5 +1,4 @@
-Verrucaria brunneola Malme SPECIES
-=======
+# Verrucaria brunneola Malme SPECIES
 
 #### Status
 ACCEPTED

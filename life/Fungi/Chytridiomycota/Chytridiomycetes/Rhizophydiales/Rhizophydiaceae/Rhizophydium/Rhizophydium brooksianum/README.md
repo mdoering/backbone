@@ -1,5 +1,4 @@
-Rhizophydium brooksianum Longcore, 2004 SPECIES
-=======
+# Rhizophydium brooksianum Longcore, 2004 SPECIES
 
 #### Status
 ACCEPTED

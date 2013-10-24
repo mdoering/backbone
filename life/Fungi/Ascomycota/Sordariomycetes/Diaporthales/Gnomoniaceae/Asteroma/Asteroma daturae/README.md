@@ -1,5 +1,4 @@
-Asteroma daturae Brunaud SPECIES
-=======
+# Asteroma daturae Brunaud SPECIES
 
 #### Status
 ACCEPTED

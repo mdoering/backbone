@@ -1,5 +1,4 @@
-Guignardia miconiae Seixas & R.W. Barreto, 2007 SPECIES
-=======
+# Guignardia miconiae Seixas & R.W. Barreto, 2007 SPECIES
 
 #### Status
 ACCEPTED

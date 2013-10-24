@@ -1,5 +1,4 @@
-Russula ingens Buyck SPECIES
-=======
+# Russula ingens Buyck SPECIES
 
 #### Status
 ACCEPTED

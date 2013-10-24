@@ -1,5 +1,4 @@
-Stereocaulon follmannii V. Marcano, A. Morales & Galiz SPECIES
-=======
+# Stereocaulon follmannii V. Marcano, A. Morales & Galiz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gnomoniella idaeicola (P. Karst.) Sacc. SPECIES
-=======
+# Gnomoniella idaeicola (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

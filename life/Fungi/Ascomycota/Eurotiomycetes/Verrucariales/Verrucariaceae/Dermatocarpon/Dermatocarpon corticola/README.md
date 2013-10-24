@@ -1,17 +1,16 @@
-Dermatocarpon corticolum Räsänen SPECIES
-=======
+# Dermatocarpon corticola Räsänen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Soc. cient. argent. 128: 147 (1939)
 
 #### Original name
-Dermatocarpon corticolum Räsänen
+Dermatocarpon corticola Räsänen
 
 ### Remarks
 null

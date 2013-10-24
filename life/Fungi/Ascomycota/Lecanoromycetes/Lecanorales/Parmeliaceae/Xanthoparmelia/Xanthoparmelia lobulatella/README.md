@@ -1,5 +1,4 @@
-Xanthoparmelia lobulatella T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia lobulatella T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

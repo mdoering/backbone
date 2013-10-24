@@ -1,5 +1,4 @@
-Sporocybe gracilis (Schwein.) Sacc. SPECIES
-=======
+# Sporocybe gracilis (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

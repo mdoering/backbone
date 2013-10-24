@@ -1,14 +1,13 @@
-Didymosphaeria palustris (Berk. & Broome) Sacc., 1882 SPECIES
-=======
+# Ceriophora palustris (Berk. & Broome) Höhn., 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 1: 708 (1882)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 128: 586 (1919)
 
 #### Original name
 Sphaeria palustris Berk. & Broome, 1859

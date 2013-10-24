@@ -1,5 +1,4 @@
-Camarosporium charticola (Speg.) Sacc. SPECIES
-=======
+# Camarosporium charticola (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

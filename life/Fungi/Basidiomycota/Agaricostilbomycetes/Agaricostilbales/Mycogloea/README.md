@@ -1,5 +1,4 @@
-Mycogloea L.S. Olive GENUS
-=======
+# Mycogloea L.S. Olive GENUS
 
 #### Status
 ACCEPTED

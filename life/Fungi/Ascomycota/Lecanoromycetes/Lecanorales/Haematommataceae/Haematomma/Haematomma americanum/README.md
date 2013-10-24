@@ -1,5 +1,4 @@
-Haematomma americanum Kalb & Staiger SPECIES
-=======
+# Haematomma americanum Kalb & Staiger SPECIES
 
 #### Status
 ACCEPTED

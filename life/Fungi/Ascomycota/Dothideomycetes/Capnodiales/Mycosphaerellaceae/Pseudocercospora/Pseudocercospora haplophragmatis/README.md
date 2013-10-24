@@ -1,5 +1,4 @@
-Pseudocercospora haplophragmatis (Kamal & R.P. Singh) U. Braun SPECIES
-=======
+# Pseudocercospora haplophragmatis (Kamal & R.P. Singh) U. Braun SPECIES
 
 #### Status
 ACCEPTED

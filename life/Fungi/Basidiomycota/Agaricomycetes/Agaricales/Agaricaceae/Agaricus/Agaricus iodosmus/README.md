@@ -1,5 +1,4 @@
-Agaricus iodosmus Heinem. SPECIES
-=======
+# Agaricus iodosmus Heinem. SPECIES
 
 #### Status
 ACCEPTED

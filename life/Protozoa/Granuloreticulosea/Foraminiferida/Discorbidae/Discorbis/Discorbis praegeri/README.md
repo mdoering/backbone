@@ -1,5 +1,4 @@
-Discorbis praegeri (Earland & Heron-Allen) SPECIES
-=======
+# Discorbis praegeri (Earland & Heron-Allen) SPECIES
 
 #### Status
 ACCEPTED

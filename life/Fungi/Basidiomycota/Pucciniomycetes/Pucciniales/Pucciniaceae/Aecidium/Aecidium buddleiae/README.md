@@ -1,5 +1,4 @@
-Aecidium buddleiae Speg. SPECIES
-=======
+# Aecidium buddleiae Speg. SPECIES
 
 #### Status
 ACCEPTED

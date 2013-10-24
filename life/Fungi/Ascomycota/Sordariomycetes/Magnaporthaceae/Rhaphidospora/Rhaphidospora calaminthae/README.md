@@ -1,5 +1,4 @@
-Rhaphidospora calaminthae Pass. SPECIES
-=======
+# Rhaphidospora calaminthae Pass. SPECIES
 
 #### Status
 ACCEPTED

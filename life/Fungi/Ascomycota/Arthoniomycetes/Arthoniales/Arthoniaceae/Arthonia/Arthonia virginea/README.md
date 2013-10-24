@@ -1,5 +1,4 @@
-Arthonia virginea (Müll. Arg.) Stizenb. SPECIES
-=======
+# Arthonia virginea (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

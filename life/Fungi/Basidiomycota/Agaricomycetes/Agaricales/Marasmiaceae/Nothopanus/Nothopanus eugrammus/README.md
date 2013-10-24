@@ -1,14 +1,13 @@
-Panus eugrammus (Mont.) Fr., 1851 SPECIES
-=======
+# Nothopanus eugrammus (Mont.) Singer, 1944 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Acta R. Soc. Scient. upsal. , Ser. 3 1: 40 (1851)
+Mycologia 36(4): 365 (1944)
 
 #### Original name
 Agaricus eugrammus Mont., 1837

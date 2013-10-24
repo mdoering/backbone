@@ -1,17 +1,16 @@
-Tapeinosporium Bonord. GENUS
-=======
+# Ramularia Unger, 1833 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Ztg. 11: 285 (1853)
+Exantheme der Pflanzen. Up. 119 (1833)
 
 #### Original name
-Tapeinosporium Bonord.
+Ramularia Unger, 1833
 
 ### Remarks
 null

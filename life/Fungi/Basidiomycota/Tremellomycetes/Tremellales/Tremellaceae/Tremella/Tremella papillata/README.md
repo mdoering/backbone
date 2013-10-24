@@ -1,5 +1,4 @@
-Tremella papillata Kunze SPECIES
-=======
+# Tremella papillata Kunze SPECIES
 
 #### Status
 ACCEPTED

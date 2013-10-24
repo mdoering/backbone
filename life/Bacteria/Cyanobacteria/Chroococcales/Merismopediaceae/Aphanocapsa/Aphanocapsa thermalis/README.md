@@ -1,5 +1,4 @@
-Aphanocapsa thermalis Brügger SPECIES
-=======
+# Aphanocapsa thermalis Brügger SPECIES
 
 #### Status
 ACCEPTED

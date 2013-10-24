@@ -1,5 +1,4 @@
-Nothorhytisma Minter, P.F. Cannon, A.I. Romero & Peredo GENUS
-=======
+# Nothorhytisma Minter, P.F. Cannon, A.I. Romero & Peredo GENUS
 
 #### Status
 ACCEPTED

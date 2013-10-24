@@ -1,5 +1,4 @@
-Russula eccentrica Peck SPECIES
-=======
+# Russula eccentrica Peck SPECIES
 
 #### Status
 ACCEPTED

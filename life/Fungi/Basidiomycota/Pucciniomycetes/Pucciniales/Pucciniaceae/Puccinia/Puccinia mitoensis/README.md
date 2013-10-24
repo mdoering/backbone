@@ -1,5 +1,4 @@
-Puccinia mitoensis J.W. Baxter SPECIES
-=======
+# Puccinia mitoensis J.W. Baxter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Didymella cladophila var. cladophila VARIETY
-=======
+# Keissleriella cladophila (Niessl) Corbaz, 1957 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 1: 545 (1882)
+Phytopath. Z. 28: 410 (1957)
 
 #### Original name
 Didymosphaeria cladophila Niessl, 1875

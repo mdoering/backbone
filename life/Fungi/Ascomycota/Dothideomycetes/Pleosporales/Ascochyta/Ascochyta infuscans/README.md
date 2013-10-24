@@ -1,5 +1,4 @@
-Ascochyta infuscans Ellis & Everh. SPECIES
-=======
+# Ascochyta infuscans Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

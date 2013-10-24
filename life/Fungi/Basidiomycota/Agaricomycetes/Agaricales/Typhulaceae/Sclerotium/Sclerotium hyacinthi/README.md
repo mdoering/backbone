@@ -1,14 +1,13 @@
-Sclerotium durum var. hyacinthi (Guépin) Fr., 1828 VARIETY
-=======
+# Sclerotium hyacinthi Guépin, 1830 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Elench. fung. (Greifswald) 1: 44 (1828)
+Elench. fung. (Greifswald) 2: 44 (1828)
 
 #### Original name
 Sclerotium hyacinthi Guépin, 1830

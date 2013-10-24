@@ -1,5 +1,4 @@
-Opegrapha cretacea Müll. Arg. SPECIES
-=======
+# Opegrapha cretacea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

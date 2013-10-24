@@ -1,5 +1,4 @@
-Spirochaeta dentium SPECIES
-=======
+# Spirochaeta dentium SPECIES
 
 #### Status
 ACCEPTED

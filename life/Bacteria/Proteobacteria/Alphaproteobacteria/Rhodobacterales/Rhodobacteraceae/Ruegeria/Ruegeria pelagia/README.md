@@ -1,5 +1,4 @@
-Ruegeria pelagia Lee, Choo, Giovannoni & Cho, 2007 SPECIES
-=======
+# Ruegeria pelagia Lee, Choo, Giovannoni & Cho, 2007 SPECIES
 
 #### Status
 ACCEPTED

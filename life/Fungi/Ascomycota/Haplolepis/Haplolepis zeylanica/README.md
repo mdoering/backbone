@@ -1,5 +1,4 @@
-Haplolepis zeylanica Petr. SPECIES
-=======
+# Haplolepis zeylanica Petr. SPECIES
 
 #### Status
 ACCEPTED

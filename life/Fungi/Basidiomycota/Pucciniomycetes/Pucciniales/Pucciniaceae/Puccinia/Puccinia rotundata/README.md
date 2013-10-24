@@ -1,5 +1,4 @@
-Puccinia rotundata Dietel SPECIES
-=======
+# Puccinia rotundata Dietel SPECIES
 
 #### Status
 ACCEPTED

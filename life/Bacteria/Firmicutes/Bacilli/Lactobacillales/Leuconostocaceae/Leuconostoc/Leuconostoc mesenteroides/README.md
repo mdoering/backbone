@@ -1,5 +1,4 @@
-Leuconostoc mesenteroides subsp. mesenteroides (Tsenkovskii, 1878) van Tieghem, 1878 SUBSPECIES
-=======
+# Leuconostoc mesenteroides (Tsenkovskii, 1878) van Tieghem, 1878 SPECIES
 
 #### Status
 ACCEPTED

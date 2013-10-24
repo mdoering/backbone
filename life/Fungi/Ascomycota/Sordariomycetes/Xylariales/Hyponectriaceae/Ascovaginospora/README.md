@@ -1,5 +1,4 @@
-Ascovaginospora Fallah, Shearer & W.D. Chen GENUS
-=======
+# Ascovaginospora Fallah, Shearer & W.D. Chen GENUS
 
 #### Status
 ACCEPTED

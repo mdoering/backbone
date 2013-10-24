@@ -1,5 +1,4 @@
-Graphiopsis GENUS
-=======
+# Graphiopsis GENUS
 
 #### Status
 ACCEPTED

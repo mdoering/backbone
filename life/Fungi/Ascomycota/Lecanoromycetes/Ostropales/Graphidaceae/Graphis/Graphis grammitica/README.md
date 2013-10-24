@@ -1,5 +1,4 @@
-Graphis grammitica Nyl. SPECIES
-=======
+# Graphis grammitica Nyl. SPECIES
 
 #### Status
 ACCEPTED

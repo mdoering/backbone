@@ -1,5 +1,4 @@
-Trichormus naviculoides (F. E. Fritsch) J. Komárek & K. Anagnostidis SPECIES
-=======
+# Trichormus naviculoides (F. E. Fritsch) J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

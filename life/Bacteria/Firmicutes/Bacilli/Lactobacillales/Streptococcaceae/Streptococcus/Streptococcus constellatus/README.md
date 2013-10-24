@@ -1,11 +1,10 @@
-Peptococcus constellatus (Prévot, 1924) Douglas, 1957 SPECIES
-=======
+# Streptococcus constellatus (Prévot, 1924) Holdeman & Moore, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Erysiphe macrocarpa Speer SPECIES
-=======
+# Erysiphe macrocarpa Speer SPECIES
 
 #### Status
 ACCEPTED

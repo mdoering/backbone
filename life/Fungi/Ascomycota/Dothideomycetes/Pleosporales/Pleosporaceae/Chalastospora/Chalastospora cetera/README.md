@@ -1,14 +1,13 @@
-Alternaria cetera E.G. Simmons, 1996 SPECIES
-=======
+# Chalastospora cetera (E.G. Simmons) E.G. Simmons, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 57: 393 (1996)
+Alternaria: an identification manual 668 (2007)
 
 #### Original name
 Alternaria cetera E.G. Simmons, 1996

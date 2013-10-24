@@ -1,5 +1,4 @@
-Entyloma hydrocotyles var. hydrocotyles VARIETY
-=======
+# Entyloma hydrocotyles Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Anal. Mus. nac. Hist. nat. B. Aires 6: 211 (1899)
 
 #### Original name
-Entyloma hydrocotyles var. hydrocotyles
+Entyloma hydrocotyles Speg.
 
 ### Remarks
 null

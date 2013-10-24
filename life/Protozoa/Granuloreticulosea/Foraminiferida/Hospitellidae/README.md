@@ -1,5 +1,4 @@
-Hospitellidae FAMILY
-=======
+# Hospitellidae FAMILY
 
 #### Status
 ACCEPTED

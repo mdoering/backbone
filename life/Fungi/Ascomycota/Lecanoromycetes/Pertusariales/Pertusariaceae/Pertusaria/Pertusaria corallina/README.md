@@ -1,17 +1,16 @@
-Pertusaria corallina var. corallina (L.) Arnold VARIETY
-=======
+# Pertusaria corallina (L.) Arnold SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 49: 658 (1861)
 
 #### Original name
-Pertusaria corallina var. corallina (L.) Arnold
+Lichen corallinus L.
 
 ### Remarks
 null

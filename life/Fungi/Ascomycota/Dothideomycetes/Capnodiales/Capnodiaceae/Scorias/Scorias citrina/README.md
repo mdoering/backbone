@@ -1,5 +1,4 @@
-Scorias citrina (Hara) W. Yamam. SPECIES
-=======
+# Scorias citrina (Hara) W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

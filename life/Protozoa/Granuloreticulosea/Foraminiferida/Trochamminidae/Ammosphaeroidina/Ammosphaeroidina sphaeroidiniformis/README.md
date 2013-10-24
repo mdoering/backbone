@@ -1,5 +1,4 @@
-Ammosphaeroidina sphaeroidiniformis SPECIES
-=======
+# Ammosphaeroidina sphaeroidiniformis SPECIES
 
 #### Status
 ACCEPTED

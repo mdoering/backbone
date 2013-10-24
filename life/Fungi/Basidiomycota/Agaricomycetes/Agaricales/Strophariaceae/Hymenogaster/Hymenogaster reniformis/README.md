@@ -1,5 +1,4 @@
-Hymenogaster reniformis R. Hesse SPECIES
-=======
+# Hymenogaster reniformis R. Hesse SPECIES
 
 #### Status
 ACCEPTED

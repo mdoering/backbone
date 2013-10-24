@@ -1,5 +1,4 @@
-Urceolella pinicola Raitv. & R. Galán SPECIES
-=======
+# Urceolella pinicola Raitv. & R. Galán SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendryphion thomasianum Berk. SPECIES
-=======
+# Dendryphion thomasianum Berk. SPECIES
 
 #### Status
 ACCEPTED

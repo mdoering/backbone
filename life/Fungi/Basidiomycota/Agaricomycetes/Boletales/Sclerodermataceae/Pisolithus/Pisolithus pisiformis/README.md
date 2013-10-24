@@ -1,8 +1,7 @@
-Pisolithus pisoformis (Lloyd) Rick SPECIES
-=======
+# Pisolithus pisiformis (Lloyd) Rick SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

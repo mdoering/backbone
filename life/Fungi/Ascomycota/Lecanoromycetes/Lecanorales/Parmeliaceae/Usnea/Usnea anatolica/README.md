@@ -1,5 +1,4 @@
-Usnea anatolica Motyka SPECIES
-=======
+# Usnea anatolica Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius musteus Fr., 1838 SPECIES
-=======
+# Lactarius musteus Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED

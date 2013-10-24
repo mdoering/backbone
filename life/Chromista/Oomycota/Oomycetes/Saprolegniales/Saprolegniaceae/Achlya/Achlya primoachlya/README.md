@@ -1,5 +1,4 @@
-Achlya primoachlya (Coker & Couch) T.W. Johnson & R.L. Seym., 2005 SPECIES
-=======
+# Achlya primoachlya (Coker & Couch) T.W. Johnson & R.L. Seym., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strobilomyces latirimosus J.Z. Ying SPECIES
-=======
+# Strobilomyces latirimosus J.Z. Ying SPECIES
 
 #### Status
 ACCEPTED

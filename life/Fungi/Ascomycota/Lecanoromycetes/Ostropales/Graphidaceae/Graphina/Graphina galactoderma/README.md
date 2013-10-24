@@ -1,5 +1,4 @@
-Graphina galactoderma SPECIES
-=======
+# Graphina galactoderma SPECIES
 
 #### Status
 ACCEPTED

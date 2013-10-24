@@ -1,5 +1,4 @@
-Usnea gaudichaudii Motyka SPECIES
-=======
+# Usnea gaudichaudii Motyka SPECIES
 
 #### Status
 ACCEPTED

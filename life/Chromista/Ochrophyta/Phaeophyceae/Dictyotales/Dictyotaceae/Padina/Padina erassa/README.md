@@ -1,5 +1,4 @@
-Padina erassa Yamada SPECIES
-=======
+# Padina erassa Yamada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanidium derogatum (Nyl.) C.W. Dodge SPECIES
-=======
+# Lecanidium derogatum (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprotiella Jeng & J.C. Krug GENUS
-=======
+# Coprotiella Jeng & J.C. Krug GENUS
 
 #### Status
 ACCEPTED

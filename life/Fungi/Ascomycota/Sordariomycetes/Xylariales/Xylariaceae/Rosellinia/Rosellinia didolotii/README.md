@@ -1,5 +1,4 @@
-Rosellinia didolotii Saccas SPECIES
-=======
+# Rosellinia didolotii Saccas SPECIES
 
 #### Status
 ACCEPTED

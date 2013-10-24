@@ -1,8 +1,7 @@
-Bacteroides levii (ex Holdeman et al., 1977) Johnson & Holdeman, 1983 SPECIES
-=======
+# Porphyromonas levii (Johnson & Holdeman, 1983) Shah et al., 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Aplosporella sidae D.K. Agarwal, Chowdhry & A.K. Sarbhoy SPECIES
-=======
+# Aplosporella sidae D.K. Agarwal, Chowdhry & A.K. Sarbhoy SPECIES
 
 #### Status
 ACCEPTED

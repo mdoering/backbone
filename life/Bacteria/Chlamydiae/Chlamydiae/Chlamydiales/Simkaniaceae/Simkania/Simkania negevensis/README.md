@@ -1,5 +1,4 @@
-Simkania negevensis Everett et al., 1999 SPECIES
-=======
+# Simkania negevensis Everett et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

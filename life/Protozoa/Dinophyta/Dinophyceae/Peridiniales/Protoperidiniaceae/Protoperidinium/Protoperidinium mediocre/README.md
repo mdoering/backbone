@@ -1,5 +1,4 @@
-Protoperidinium mediocre (Balech, 1958) Balech, 1974 SPECIES
-=======
+# Protoperidinium mediocre (Balech, 1958) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

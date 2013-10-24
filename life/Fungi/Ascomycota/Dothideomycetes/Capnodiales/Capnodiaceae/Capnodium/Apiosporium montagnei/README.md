@@ -1,5 +1,4 @@
-Apiosporium montagnei Sacc. SPECIES
-=======
+# Apiosporium montagnei Sacc. SPECIES
 
 #### Status
 ACCEPTED

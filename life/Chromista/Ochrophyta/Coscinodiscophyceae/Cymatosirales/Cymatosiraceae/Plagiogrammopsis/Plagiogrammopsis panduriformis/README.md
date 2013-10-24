@@ -1,5 +1,4 @@
-Plagiogrammopsis panduriformis D. Schulz & G. Drebes SPECIES
-=======
+# Plagiogrammopsis panduriformis D. Schulz & G. Drebes SPECIES
 
 #### Status
 ACCEPTED

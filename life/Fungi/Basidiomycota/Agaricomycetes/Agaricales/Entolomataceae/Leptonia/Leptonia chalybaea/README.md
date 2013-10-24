@@ -1,5 +1,4 @@
-Leptonia chalybaea var. chalybaea VARIETY
-=======
+# Leptonia chalybaea SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Führ. Pilzk. (Zwickau) 96 (1871)
+null
 
 #### Original name
-Leptonia chalybaea var. chalybaea
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Gorgoniceps kirschsteiniana Kirschst. SPECIES
-=======
+# Gorgoniceps kirschsteiniana Kirschst. SPECIES
 
 #### Status
 ACCEPTED

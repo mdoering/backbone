@@ -1,11 +1,10 @@
-Lecanora dispersa subsp. dispersa SUBSPECIES
-=======
+# Lecanora dispersa (Pers.) Sommerf. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Suppl. Fl. lapp. (Oslo) 96 (1813)

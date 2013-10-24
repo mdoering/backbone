@@ -1,5 +1,4 @@
-Anthracothecium brasilianum M. Choisy SPECIES
-=======
+# Anthracothecium brasilianum M. Choisy SPECIES
 
 #### Status
 ACCEPTED

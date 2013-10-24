@@ -1,5 +1,4 @@
-Pertusaria leucothelia Müll. Arg. SPECIES
-=======
+# Pertusaria leucothelia Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

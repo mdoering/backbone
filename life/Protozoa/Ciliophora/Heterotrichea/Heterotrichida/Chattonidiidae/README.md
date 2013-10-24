@@ -1,5 +1,4 @@
-Chattonidiidae FAMILY
-=======
+# Chattonidiidae FAMILY
 
 #### Status
 ACCEPTED

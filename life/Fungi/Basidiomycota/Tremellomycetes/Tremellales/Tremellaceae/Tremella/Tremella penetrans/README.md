@@ -1,5 +1,4 @@
-Tremella penetrans (Hauerslev) Jülich, 1983 SPECIES
-=======
+# Tremella penetrans (Hauerslev) Jülich, 1983 SPECIES
 
 #### Status
 ACCEPTED

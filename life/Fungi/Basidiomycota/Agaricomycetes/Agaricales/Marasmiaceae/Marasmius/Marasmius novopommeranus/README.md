@@ -1,5 +1,4 @@
-Marasmius novopommeranus Henn. SPECIES
-=======
+# Marasmius novopommeranus Henn. SPECIES
 
 #### Status
 ACCEPTED

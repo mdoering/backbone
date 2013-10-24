@@ -1,5 +1,4 @@
-Lecidea rinodinoides (Anzi) Stizenb. SPECIES
-=======
+# Lecidea rinodinoides (Anzi) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

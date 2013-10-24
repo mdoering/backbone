@@ -1,5 +1,4 @@
-Placosphaeria tragii Bubák SPECIES
-=======
+# Placosphaeria tragii Bubák SPECIES
 
 #### Status
 ACCEPTED

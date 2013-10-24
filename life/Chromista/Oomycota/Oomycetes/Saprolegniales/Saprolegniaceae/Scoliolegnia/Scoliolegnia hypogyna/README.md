@@ -1,5 +1,4 @@
-Scoliolegnia hypogyna Steciow, López-Lastra & M.W. Dick, 2005 SPECIES
-=======
+# Scoliolegnia hypogyna Steciow, López-Lastra & M.W. Dick, 2005 SPECIES
 
 #### Status
 ACCEPTED

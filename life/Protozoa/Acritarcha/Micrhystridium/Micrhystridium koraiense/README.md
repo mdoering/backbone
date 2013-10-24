@@ -1,5 +1,4 @@
-Micrhystridium koraiense Takahashi in Takahashi & Kim, 1979 SPECIES
-=======
+# Micrhystridium koraiense Takahashi in Takahashi & Kim, 1979 SPECIES
 
 #### Status
 ACCEPTED

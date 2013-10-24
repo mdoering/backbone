@@ -1,5 +1,4 @@
-Stilbothamnium novoguineense Syd. & P. Syd. SPECIES
-=======
+# Stilbothamnium novoguineense Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

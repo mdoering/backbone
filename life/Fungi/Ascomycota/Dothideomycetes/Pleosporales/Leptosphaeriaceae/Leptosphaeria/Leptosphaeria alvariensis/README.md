@@ -1,5 +1,4 @@
-Leptosphaeria alvariensis Starbäck SPECIES
-=======
+# Leptosphaeria alvariensis Starbäck SPECIES
 
 #### Status
 ACCEPTED

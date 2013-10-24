@@ -1,5 +1,4 @@
-Cylindrocarpon tokyoense Hirooka & Tak. Kobay. SPECIES
-=======
+# Cylindrocarpon tokyoense Hirooka & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

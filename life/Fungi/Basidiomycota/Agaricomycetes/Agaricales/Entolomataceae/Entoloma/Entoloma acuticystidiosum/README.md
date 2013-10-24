@@ -1,5 +1,4 @@
-Entoloma acuticystidiosum E. Horak SPECIES
-=======
+# Entoloma acuticystidiosum E. Horak SPECIES
 
 #### Status
 ACCEPTED

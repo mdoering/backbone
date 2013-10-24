@@ -1,5 +1,4 @@
-Phialea proximella f. proximella FORM
-=======
+# Phialea proximella (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. fung. (Abellini) 8: 256 (1889)
 
 #### Original name
-Phialea proximella f. proximella
+Helotium proximellum P. Karst.
 
 ### Remarks
 null

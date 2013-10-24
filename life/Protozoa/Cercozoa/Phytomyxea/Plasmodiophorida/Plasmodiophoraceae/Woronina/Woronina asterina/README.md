@@ -1,5 +1,4 @@
-Woronina asterina Tokun. SPECIES
-=======
+# Woronina asterina Tokun. SPECIES
 
 #### Status
 ACCEPTED

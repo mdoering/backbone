@@ -1,5 +1,4 @@
-Gloeosporium odontoglossi Verpl. & Claess. SPECIES
-=======
+# Gloeosporium odontoglossi Verpl. & Claess. SPECIES
 
 #### Status
 ACCEPTED

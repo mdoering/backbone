@@ -1,14 +1,13 @@
-Leptotrema andamanicum (Nyl.) A.L. Sm. SPECIES
-=======
+# Ocellularia andamanica (Nyl.) Tat. Matsumoto & Deguchi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 46: 74 (1922)
+Bryologist 102(1): 89 (1999)
 
 #### Original name
 Thelotrema andamanicum Nyl.

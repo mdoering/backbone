@@ -1,5 +1,4 @@
-Bryoria carlottae Brodo & D. Hawksw. SPECIES
-=======
+# Bryoria carlottae Brodo & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

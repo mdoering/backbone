@@ -1,5 +1,4 @@
-Sphaeria subusta Fr. SPECIES
-=======
+# Sphaeria subusta Fr. SPECIES
 
 #### Status
 ACCEPTED

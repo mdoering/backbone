@@ -1,5 +1,4 @@
-Laminaria belvisii C. Agardh SPECIES
-=======
+# Laminaria belvisii C. Agardh SPECIES
 
 #### Status
 ACCEPTED

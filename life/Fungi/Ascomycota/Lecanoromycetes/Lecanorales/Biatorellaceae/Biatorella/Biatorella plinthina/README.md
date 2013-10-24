@@ -1,5 +1,4 @@
-Biatorella plinthina (Nyl.) H. Olivier SPECIES
-=======
+# Biatorella plinthina (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

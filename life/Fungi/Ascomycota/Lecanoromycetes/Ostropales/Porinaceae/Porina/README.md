@@ -1,5 +1,4 @@
-Porina Acharius, 1809 GENUS
-=======
+# Porina Acharius, 1809 GENUS
 
 #### Status
 ACCEPTED

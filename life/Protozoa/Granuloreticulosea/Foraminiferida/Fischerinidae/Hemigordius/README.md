@@ -1,5 +1,4 @@
-Hemigordius Schubert, 1908 GENUS
-=======
+# Hemigordius Schubert, 1908 GENUS
 
 #### Status
 ACCEPTED

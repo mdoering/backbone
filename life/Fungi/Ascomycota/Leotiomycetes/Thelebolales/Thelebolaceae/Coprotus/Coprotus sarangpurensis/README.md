@@ -1,5 +1,4 @@
-Coprotus sarangpurensis K.S. Thind & S.C. Kaushal SPECIES
-=======
+# Coprotus sarangpurensis K.S. Thind & S.C. Kaushal SPECIES
 
 #### Status
 ACCEPTED

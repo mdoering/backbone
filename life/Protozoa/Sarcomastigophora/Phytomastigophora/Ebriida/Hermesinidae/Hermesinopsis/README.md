@@ -1,5 +1,4 @@
-Hermesinopsis Deflandre, 1934 GENUS
-=======
+# Hermesinopsis Deflandre, 1934 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spatoglossum subflabellatum E.Y.Dawson, 1954 SPECIES
-=======
+# Spatoglossum subflabellatum E.Y.Dawson, 1954 SPECIES
 
 #### Status
 ACCEPTED

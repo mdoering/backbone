@@ -1,5 +1,4 @@
-Hypholoma castilloi (Singer) Raithelh. SPECIES
-=======
+# Hypholoma castilloi (Singer) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

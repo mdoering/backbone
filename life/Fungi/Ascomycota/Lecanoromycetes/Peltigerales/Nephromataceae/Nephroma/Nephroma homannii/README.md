@@ -1,5 +1,4 @@
-Nephroma homannii Gyeln. SPECIES
-=======
+# Nephroma homannii Gyeln. SPECIES
 
 #### Status
 ACCEPTED

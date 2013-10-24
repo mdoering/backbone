@@ -1,5 +1,4 @@
-Toninia arenaria Räsänen SPECIES
-=======
+# Toninia arenaria Räsänen SPECIES
 
 #### Status
 ACCEPTED

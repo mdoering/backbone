@@ -1,5 +1,4 @@
-Lotharella polymorpha Dietz, Ehlers, Wilhelm, Gil-Rodríguez & Schnetter SPECIES
-=======
+# Lotharella polymorpha Dietz, Ehlers, Wilhelm, Gil-Rodríguez & Schnetter SPECIES
 
 #### Status
 ACCEPTED

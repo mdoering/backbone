@@ -1,5 +1,4 @@
-Uredo lespedezae Thüm. SPECIES
-=======
+# Uredo lespedezae Thüm. SPECIES
 
 #### Status
 ACCEPTED

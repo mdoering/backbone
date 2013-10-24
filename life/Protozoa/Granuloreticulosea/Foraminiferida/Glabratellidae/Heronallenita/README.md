@@ -1,5 +1,4 @@
-Heronallenita Seiglie & Bermüdez, 1965 GENUS
-=======
+# Heronallenita Seiglie & Bermüdez, 1965 GENUS
 
 #### Status
 ACCEPTED

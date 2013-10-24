@@ -1,5 +1,4 @@
-Rhizostilbella rubra Wolk, 1914 SPECIES
-=======
+# Rhizostilbella rubra Wolk, 1914 SPECIES
 
 #### Status
 ACCEPTED

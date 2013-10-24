@@ -1,5 +1,4 @@
-Vouauxiomyces Dyko & D. Hawksw. GENUS
-=======
+# Vouauxiomyces Dyko & D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

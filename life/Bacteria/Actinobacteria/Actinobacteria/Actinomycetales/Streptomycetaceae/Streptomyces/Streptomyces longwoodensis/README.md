@@ -1,5 +1,4 @@
-Streptomyces longwoodensis Prosser & Palleroni, 1981 SPECIES
-=======
+# Streptomyces longwoodensis Prosser & Palleroni, 1981 SPECIES
 
 #### Status
 ACCEPTED

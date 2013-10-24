@@ -1,5 +1,4 @@
-Verrucaria attica J. Steiner SPECIES
-=======
+# Verrucaria attica J. Steiner SPECIES
 
 #### Status
 ACCEPTED

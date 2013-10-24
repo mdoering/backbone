@@ -1,5 +1,4 @@
-Agaricus supinus Fr. SPECIES
-=======
+# Agaricus supinus Fr. SPECIES
 
 #### Status
 ACCEPTED

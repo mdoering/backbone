@@ -1,5 +1,4 @@
-Septoria rubiae-tinctorum Unamuno SPECIES
-=======
+# Septoria rubiae-tinctorum Unamuno SPECIES
 
 #### Status
 ACCEPTED

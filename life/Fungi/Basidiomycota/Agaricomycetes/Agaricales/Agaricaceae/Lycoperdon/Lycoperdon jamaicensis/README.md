@@ -1,17 +1,16 @@
-Lycoperdon jamaicense Ellis & Everh. SPECIES
-=======
+# Lycoperdon jamaicensis Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of the Inst. Jamaica 1: 220 (1893)
 
 #### Original name
-Lycoperdon jamaicense Ellis & Everh.
+Lycoperdon jamaicensis Ellis & Everh.
 
 ### Remarks
 null

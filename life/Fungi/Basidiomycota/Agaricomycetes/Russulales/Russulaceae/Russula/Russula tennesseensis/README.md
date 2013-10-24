@@ -1,5 +1,4 @@
-Russula tennesseensis Singer SPECIES
-=======
+# Russula tennesseensis Singer SPECIES
 
 #### Status
 ACCEPTED

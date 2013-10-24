@@ -1,5 +1,4 @@
-Diaporthe perexigua Sacc., 1875 SPECIES
-=======
+# Diaporthe perexigua Sacc., 1875 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Polyporus sendaiensis Yasuda, 1923 SPECIES
-=======
+# Pyrrhoderma sendaiense (Yasuda) Imazeki, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Mag. , Tokyo 37: 128 (1923)
+Trans. Mycol. Soc. Japan (1966)
 
 #### Original name
 Polyporus sendaiensis Yasuda, 1923

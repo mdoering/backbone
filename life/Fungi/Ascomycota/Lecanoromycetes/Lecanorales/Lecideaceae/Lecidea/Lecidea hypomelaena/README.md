@@ -1,5 +1,4 @@
-Lecidea hypomelaena f. altilis FORM
-=======
+# Lecidea hypomelaena Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea hypomelaena f. altilis
+Lecidea hypomelaena Nyl.
 
 ### Remarks
 null

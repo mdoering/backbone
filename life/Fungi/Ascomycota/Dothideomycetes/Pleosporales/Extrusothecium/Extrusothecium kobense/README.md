@@ -1,5 +1,4 @@
-Extrusothecium kobense Matsush., 2003 SPECIES
-=======
+# Extrusothecium kobense Matsush., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophthalmidium circularis SPECIES
-=======
+# Ophthalmidium circularis SPECIES
 
 #### Status
 ACCEPTED

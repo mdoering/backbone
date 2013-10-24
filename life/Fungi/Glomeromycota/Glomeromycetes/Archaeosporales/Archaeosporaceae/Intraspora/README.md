@@ -1,5 +1,4 @@
-Intraspora Oehl & Sieverd. GENUS
-=======
+# Intraspora Oehl & Sieverd. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Starmerella C.A. Rosa & Lachance GENUS
-=======
+# Starmerella C.A. Rosa & Lachance GENUS
 
 #### Status
 ACCEPTED

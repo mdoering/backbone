@@ -1,5 +1,4 @@
-Henningsomyces ochraceus (Hoffm.) Kuntze SPECIES
-=======
+# Henningsomyces ochraceus (Hoffm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria lignicola SPECIES
-=======
+# Verrucaria lignicola SPECIES
 
 #### Status
 ACCEPTED

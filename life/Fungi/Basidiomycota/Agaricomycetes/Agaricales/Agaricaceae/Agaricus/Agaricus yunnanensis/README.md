@@ -1,5 +1,4 @@
-Agaricus yunnanensis W.F. Chiu SPECIES
-=======
+# Agaricus yunnanensis W.F. Chiu SPECIES
 
 #### Status
 ACCEPTED

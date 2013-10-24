@@ -1,5 +1,4 @@
-Rhizocarpon vierhapperi Zahlbr. SPECIES
-=======
+# Rhizocarpon vierhapperi Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

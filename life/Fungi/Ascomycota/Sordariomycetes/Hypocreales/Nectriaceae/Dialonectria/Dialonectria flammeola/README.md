@@ -1,14 +1,13 @@
-Nectria flammeola Weese, 1912 SPECIES
-=======
+# Dialonectria flammeola (Weese) Petch, 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Jaap, Verh. bot. Ver. Prov. Brandenb. 134 (1912)
+Trans. Br. mycol. Soc. 25: 170 (1941)
 
 #### Original name
 Nectria flammeola Weese, 1912

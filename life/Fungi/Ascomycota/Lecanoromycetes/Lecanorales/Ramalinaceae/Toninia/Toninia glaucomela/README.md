@@ -1,5 +1,4 @@
-Toninia glaucomela (Nyl.) Boistel SPECIES
-=======
+# Toninia glaucomela (Nyl.) Boistel SPECIES
 
 #### Status
 ACCEPTED

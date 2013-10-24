@@ -1,5 +1,4 @@
-Hygrophorus squamulosus Ellis & Everh. SPECIES
-=======
+# Hygrophorus squamulosus Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

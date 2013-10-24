@@ -1,17 +1,16 @@
-Hypocrea nigricans f. nigricans FORM
-=======
+# Hypocrea nigricans (S. Imai) Yoshim. Doi, 1972 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. natn. Sci. Mus. , Tokyo 15(4): 732 (1972)
 
 #### Original name
-Hypocrea nigricans f. nigricans
+Chromocrea nigricans S. Imai, 1935
 
 ### Remarks
 null

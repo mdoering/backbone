@@ -1,5 +1,4 @@
-Bacillus haloalkaliphilus Fritze, 1996 SPECIES
-=======
+# Bacillus haloalkaliphilus Fritze, 1996 SPECIES
 
 #### Status
 ACCEPTED

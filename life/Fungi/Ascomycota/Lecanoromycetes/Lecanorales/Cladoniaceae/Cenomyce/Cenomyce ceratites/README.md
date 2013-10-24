@@ -1,5 +1,4 @@
-Cenomyce ceratites (Wahlenb.) Ach. SPECIES
-=======
+# Cenomyce ceratites (Wahlenb.) Ach. SPECIES
 
 #### Status
 ACCEPTED

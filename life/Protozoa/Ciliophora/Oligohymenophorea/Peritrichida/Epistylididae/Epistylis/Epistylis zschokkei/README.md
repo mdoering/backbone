@@ -1,8 +1,7 @@
-Opercularia zschokkei Keiser, 1921 SPECIES
-=======
+# Epistylis zschokkei Keiser, 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

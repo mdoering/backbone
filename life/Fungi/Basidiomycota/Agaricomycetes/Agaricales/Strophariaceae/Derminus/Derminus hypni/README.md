@@ -1,5 +1,4 @@
-Derminus hypni (Batsch) J. Schröt. SPECIES
-=======
+# Derminus hypni (Batsch) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeangella potentillae (Hazsl.) Sacc. & D. Sacc. SPECIES
-=======
+# Phaeangella potentillae (Hazsl.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

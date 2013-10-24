@@ -1,5 +1,4 @@
-Leptosphaeria ephedrae Maubl. SPECIES
-=======
+# Leptosphaeria ephedrae Maubl. SPECIES
 
 #### Status
 ACCEPTED

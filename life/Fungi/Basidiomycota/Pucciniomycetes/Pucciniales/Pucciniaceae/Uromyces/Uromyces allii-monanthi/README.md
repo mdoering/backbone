@@ -1,5 +1,4 @@
-Uromyces allii-monanthi Y. Harada SPECIES
-=======
+# Uromyces allii-monanthi Y. Harada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia perlata Darb. SPECIES
-=======
+# Buellia perlata Darb. SPECIES
 
 #### Status
 ACCEPTED

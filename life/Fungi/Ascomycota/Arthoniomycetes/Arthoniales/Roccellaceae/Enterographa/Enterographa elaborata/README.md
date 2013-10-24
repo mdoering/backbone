@@ -1,14 +1,13 @@
-Platygramma elaborata Lyell ex Leight. SPECIES
-=======
+# Enterographa elaborata (Lyell ex Leight.) Coppins & P. James SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 2 13: 394 (1854)
+Lichenologist 11: 38 (1979)
 
 #### Original name
 Platygramma elaborata Lyell ex Leight.

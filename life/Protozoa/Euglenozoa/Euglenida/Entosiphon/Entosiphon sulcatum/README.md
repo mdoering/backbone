@@ -1,11 +1,10 @@
-Anisonema sulcatum Dujardin SPECIES
-=======
+# Entosiphon sulcatum (Dujardin) Stein SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Integrated Taxonomic Information System
 
 #### Published in
 null

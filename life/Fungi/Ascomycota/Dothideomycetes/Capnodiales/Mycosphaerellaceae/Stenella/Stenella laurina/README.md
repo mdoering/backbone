@@ -1,5 +1,4 @@
-Stenella laurina (Speg.) J.L. Mulder SPECIES
-=======
+# Stenella laurina (Speg.) J.L. Mulder SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Massarina spiraeae S.K. Bose SPECIES
-=======
+# Massarina spiraeae S.K. Bose SPECIES
 
 #### Status
 ACCEPTED

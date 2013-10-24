@@ -1,5 +1,4 @@
-Photobacterium profundum Nogi et al., 1998 SPECIES
-=======
+# Photobacterium profundum Nogi et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

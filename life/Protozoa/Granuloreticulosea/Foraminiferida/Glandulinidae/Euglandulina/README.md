@@ -1,5 +1,4 @@
-Euglandulina McCulloch, 1977 GENUS
-=======
+# Euglandulina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

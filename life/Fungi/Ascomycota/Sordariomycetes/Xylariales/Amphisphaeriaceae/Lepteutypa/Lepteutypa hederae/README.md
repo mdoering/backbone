@@ -1,5 +1,4 @@
-Lepteutypa hederae (Fuckel) Rappaz SPECIES
-=======
+# Lepteutypa hederae (Fuckel) Rappaz SPECIES
 
 #### Status
 ACCEPTED

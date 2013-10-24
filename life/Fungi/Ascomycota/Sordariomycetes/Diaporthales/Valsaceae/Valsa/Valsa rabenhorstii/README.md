@@ -1,5 +1,4 @@
-Valsa rabenhorstii Nitschke SPECIES
-=======
+# Valsa rabenhorstii Nitschke SPECIES
 
 #### Status
 ACCEPTED

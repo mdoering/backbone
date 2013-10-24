@@ -1,5 +1,4 @@
-Scopulariopsis insolita Coutelen et al. {?} SPECIES
-=======
+# Scopulariopsis insolita Coutelen et al. {?} SPECIES
 
 #### Status
 ACCEPTED

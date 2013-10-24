@@ -1,5 +1,4 @@
-Cryptoderma pullum (Mont. & Berk.) Imazeki SPECIES
-=======
+# Cryptoderma pullum (Mont. & Berk.) Imazeki SPECIES
 
 #### Status
 ACCEPTED

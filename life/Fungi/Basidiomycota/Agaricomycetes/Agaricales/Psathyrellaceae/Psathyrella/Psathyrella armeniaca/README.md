@@ -1,5 +1,4 @@
-Psathyrella armeniaca Pegler SPECIES
-=======
+# Psathyrella armeniaca Pegler SPECIES
 
 #### Status
 ACCEPTED

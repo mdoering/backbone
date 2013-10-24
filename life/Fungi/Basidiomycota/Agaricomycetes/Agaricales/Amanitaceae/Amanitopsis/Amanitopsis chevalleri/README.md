@@ -1,5 +1,4 @@
-Amanitopsis chevalleri (Har. & Pat.) Sacc. & Trotter SPECIES
-=======
+# Amanitopsis chevalleri (Har. & Pat.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

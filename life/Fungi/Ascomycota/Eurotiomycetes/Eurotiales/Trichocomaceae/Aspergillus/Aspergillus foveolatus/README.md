@@ -1,5 +1,4 @@
-Aspergillus foveolatus Y. Horie, 1978 SPECIES
-=======
+# Aspergillus foveolatus Y. Horie, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ganoderma incrustatum var. incrustatum VARIETY
-=======
+# Ganoderma incrustatum (Fr.) Bres. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bot. -zool. Ergebnisse Samoa Salomon inseln 2 (1910)
 
 #### Original name
-Ganoderma incrustatum var. incrustatum
+Polyporus incrustatus Fr.
 
 ### Remarks
 null

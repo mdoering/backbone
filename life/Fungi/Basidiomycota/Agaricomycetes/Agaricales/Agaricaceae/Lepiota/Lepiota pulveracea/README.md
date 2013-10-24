@@ -1,5 +1,4 @@
-Lepiota pulveracea Peck SPECIES
-=======
+# Lepiota pulveracea Peck SPECIES
 
 #### Status
 ACCEPTED

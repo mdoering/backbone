@@ -1,5 +1,4 @@
-Acostaurus Haeckel, 1887 GENUS
-=======
+# Acostaurus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

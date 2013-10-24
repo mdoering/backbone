@@ -1,5 +1,4 @@
-Eccilia mexicana Murrill SPECIES
-=======
+# Eccilia mexicana Murrill SPECIES
 
 #### Status
 ACCEPTED

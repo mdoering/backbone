@@ -1,5 +1,4 @@
-Synchytrium rubrocinctum Magnus SPECIES
-=======
+# Synchytrium rubrocinctum Magnus SPECIES
 
 #### Status
 ACCEPTED

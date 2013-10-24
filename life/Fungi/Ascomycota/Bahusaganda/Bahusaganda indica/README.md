@@ -1,14 +1,13 @@
-Deightoniella indica Subram., 1958 SPECIES
-=======
+# Bahusaganda indica (Subram.) Subram., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Indian bot. Soc. 37: 52 (1958)
+in Subramanian & Srivastava, Proc. Indian natn Sci. Acad. , Part B. Biol. Sci. 60(3): 278 (1994)
 
 #### Original name
 Deightoniella indica Subram., 1958

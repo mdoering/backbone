@@ -1,5 +1,4 @@
-Pseudodiplodia beckii (Bäumler) Petr. SPECIES
-=======
+# Pseudodiplodia beckii (Bäumler) Petr. SPECIES
 
 #### Status
 ACCEPTED

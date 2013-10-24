@@ -1,5 +1,4 @@
-Gymnopilus subtropicus Hesler SPECIES
-=======
+# Gymnopilus subtropicus Hesler SPECIES
 
 #### Status
 ACCEPTED

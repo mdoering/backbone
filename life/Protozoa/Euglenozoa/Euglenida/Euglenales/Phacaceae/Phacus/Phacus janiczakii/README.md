@@ -1,5 +1,4 @@
-Phacus janiczakii Stawinski SPECIES
-=======
+# Phacus janiczakii Stawinski SPECIES
 
 #### Status
 ACCEPTED

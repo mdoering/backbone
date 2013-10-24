@@ -1,5 +1,4 @@
-Entomophthora bereshkovaeana (Lavrov & Smirnova {?} ) D.M. MacLeod & Müll.-Kög. SPECIES
-=======
+# Entomophthora bereshkovaeana (Lavrov & Smirnova {?} ) D.M. MacLeod & Müll.-Kög. SPECIES
 
 #### Status
 ACCEPTED

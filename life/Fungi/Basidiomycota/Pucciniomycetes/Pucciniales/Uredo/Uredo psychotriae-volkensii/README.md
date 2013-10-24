@@ -1,5 +1,4 @@
-Uredo psychotriae-volkensii Henn. SPECIES
-=======
+# Uredo psychotriae-volkensii Henn. SPECIES
 
 #### Status
 ACCEPTED

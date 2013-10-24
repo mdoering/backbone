@@ -1,5 +1,4 @@
-Ustilago furcata Pat. & Har. SPECIES
-=======
+# Ustilago furcata Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

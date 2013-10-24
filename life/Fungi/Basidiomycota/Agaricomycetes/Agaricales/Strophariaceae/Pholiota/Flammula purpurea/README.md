@@ -1,5 +1,4 @@
-Flammula purpurea Rick SPECIES
-=======
+# Flammula purpurea Rick SPECIES
 
 #### Status
 ACCEPTED

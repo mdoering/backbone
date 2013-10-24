@@ -1,5 +1,4 @@
-Septoria gouldiae F. Stevens & P.A. Young SPECIES
-=======
+# Septoria gouldiae F. Stevens & P.A. Young SPECIES
 
 #### Status
 ACCEPTED

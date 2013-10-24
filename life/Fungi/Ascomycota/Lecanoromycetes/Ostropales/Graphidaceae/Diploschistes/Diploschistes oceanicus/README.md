@@ -1,5 +1,4 @@
-Diploschistes oceanicus Zahlbr. SPECIES
-=======
+# Diploschistes oceanicus Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

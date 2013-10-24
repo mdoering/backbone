@@ -1,5 +1,4 @@
-Scyphidia slavinicola Dumas, 1929 SPECIES
-=======
+# Scyphidia slavinicola Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

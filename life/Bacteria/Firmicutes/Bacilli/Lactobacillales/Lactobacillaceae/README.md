@@ -1,5 +1,4 @@
-Lactobacillaceae FAMILY
-=======
+# Lactobacillaceae FAMILY
 
 #### Status
 ACCEPTED

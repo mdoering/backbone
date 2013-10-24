@@ -1,5 +1,4 @@
-Phomopsis irregularis (Died.) Petr., 1921 SPECIES
-=======
+# Phomopsis irregularis (Died.) Petr., 1921 SPECIES
 
 #### Status
 ACCEPTED

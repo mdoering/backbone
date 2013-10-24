@@ -1,5 +1,4 @@
-Guignardia caricae Sawada SPECIES
-=======
+# Guignardia caricae Sawada SPECIES
 
 #### Status
 ACCEPTED

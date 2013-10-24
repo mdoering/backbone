@@ -1,5 +1,4 @@
-Agaricus pyramidalis Scop. SPECIES
-=======
+# Agaricus pyramidalis Scop. SPECIES
 
 #### Status
 ACCEPTED

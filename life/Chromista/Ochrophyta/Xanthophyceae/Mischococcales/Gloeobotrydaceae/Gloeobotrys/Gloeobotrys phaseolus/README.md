@@ -1,5 +1,4 @@
-Gloeobotrys phaseolus Reisigl SPECIES
-=======
+# Gloeobotrys phaseolus Reisigl SPECIES
 
 #### Status
 ACCEPTED

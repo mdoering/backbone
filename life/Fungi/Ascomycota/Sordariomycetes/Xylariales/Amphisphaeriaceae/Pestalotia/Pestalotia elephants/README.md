@@ -1,5 +1,4 @@
-Pestalotia elephants Carman SPECIES
-=======
+# Pestalotia elephants Carman SPECIES
 
 #### Status
 ACCEPTED

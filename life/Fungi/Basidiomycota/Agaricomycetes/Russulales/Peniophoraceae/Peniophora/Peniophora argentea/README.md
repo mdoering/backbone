@@ -1,5 +1,4 @@
-Peniophora argentea Ellis & Everh. ex Burt SPECIES
-=======
+# Peniophora argentea Ellis & Everh. ex Burt SPECIES
 
 #### Status
 ACCEPTED

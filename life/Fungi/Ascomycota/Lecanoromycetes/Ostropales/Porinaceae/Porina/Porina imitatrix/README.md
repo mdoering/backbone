@@ -1,5 +1,4 @@
-Porina imitatrix Müll. Arg. SPECIES
-=======
+# Porina imitatrix Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

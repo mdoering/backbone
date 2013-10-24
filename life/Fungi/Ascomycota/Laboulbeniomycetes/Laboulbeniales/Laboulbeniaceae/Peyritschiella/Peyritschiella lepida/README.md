@@ -1,5 +1,4 @@
-Peyritschiella lepida (Thaxt.) I.I. Tav. SPECIES
-=======
+# Peyritschiella lepida (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

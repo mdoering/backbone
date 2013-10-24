@@ -1,8 +1,7 @@
-Phaeodothis congoënsis Sacc. SPECIES
-=======
+# Phaeodothis congoensis Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phaeodothis congoënsis Sacc.
+Phaeodothis congoensis Sacc.
 
 ### Remarks
 null

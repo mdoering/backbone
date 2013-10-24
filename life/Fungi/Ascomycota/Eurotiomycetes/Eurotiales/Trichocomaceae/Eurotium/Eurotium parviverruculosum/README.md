@@ -1,8 +1,7 @@
-Aspergillus parviverruculosus H.Z. Kong & Z.T. Qi, 1995 SPECIES
-=======
+# Eurotium parviverruculosum H.Z. Kong & Z.T. Qi, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Acta Mycol. Sin. 14(1): 12 (1995)
 
 #### Original name
-Aspergillus parviverruculosus H.Z. Kong & Z.T. Qi, 1995
+Eurotium parviverruculosum H.Z. Kong & Z.T. Qi, 1995
 
 ### Remarks
 null

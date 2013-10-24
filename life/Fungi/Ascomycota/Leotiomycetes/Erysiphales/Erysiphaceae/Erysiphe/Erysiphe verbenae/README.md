@@ -1,5 +1,4 @@
-Erysiphe verbenae Schwein. SPECIES
-=======
+# Erysiphe verbenae Schwein. SPECIES
 
 #### Status
 ACCEPTED

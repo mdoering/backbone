@@ -1,5 +1,4 @@
-Agaricus leccinus Scop. SPECIES
-=======
+# Agaricus leccinus Scop. SPECIES
 
 #### Status
 ACCEPTED

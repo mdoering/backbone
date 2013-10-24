@@ -1,5 +1,4 @@
-Filaspora greschikii (Bres.) Kuntze SPECIES
-=======
+# Filaspora greschikii (Bres.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

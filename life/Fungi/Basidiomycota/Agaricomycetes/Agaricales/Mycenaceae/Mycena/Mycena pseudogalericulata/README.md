@@ -1,5 +1,4 @@
-Mycena pseudogalericulata J.E. Lange SPECIES
-=======
+# Mycena pseudogalericulata J.E. Lange SPECIES
 
 #### Status
 ACCEPTED

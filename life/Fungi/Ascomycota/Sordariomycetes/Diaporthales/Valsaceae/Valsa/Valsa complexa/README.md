@@ -1,5 +1,4 @@
-Valsa complexa Mont. SPECIES
-=======
+# Valsa complexa Mont. SPECIES
 
 #### Status
 ACCEPTED

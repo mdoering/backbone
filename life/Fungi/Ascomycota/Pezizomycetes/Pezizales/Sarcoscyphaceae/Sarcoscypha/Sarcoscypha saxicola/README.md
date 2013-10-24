@@ -1,5 +1,4 @@
-Sarcoscypha saxicola Henn. SPECIES
-=======
+# Sarcoscypha saxicola Henn. SPECIES
 
 #### Status
 ACCEPTED

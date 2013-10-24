@@ -1,5 +1,4 @@
-Leptogium aucklandicum Zahlbr. SPECIES
-=======
+# Leptogium aucklandicum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

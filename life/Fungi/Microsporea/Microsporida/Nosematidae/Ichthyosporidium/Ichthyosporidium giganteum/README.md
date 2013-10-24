@@ -1,5 +1,4 @@
-Ichthyosporidium giganteum (Thélohan) Swarczewsky SPECIES
-=======
+# Ichthyosporidium giganteum (Thélohan) Swarczewsky SPECIES
 
 #### Status
 ACCEPTED

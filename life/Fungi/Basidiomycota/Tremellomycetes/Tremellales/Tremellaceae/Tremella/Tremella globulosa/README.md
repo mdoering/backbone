@@ -1,5 +1,4 @@
-Tremella globulosa Speg. SPECIES
-=======
+# Tremella globulosa Speg. SPECIES
 
 #### Status
 ACCEPTED

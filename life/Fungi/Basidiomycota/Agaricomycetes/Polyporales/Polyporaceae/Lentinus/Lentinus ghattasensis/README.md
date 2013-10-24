@@ -1,5 +1,4 @@
-Lentinus ghattasensis Henn. SPECIES
-=======
+# Lentinus ghattasensis Henn. SPECIES
 
 #### Status
 ACCEPTED

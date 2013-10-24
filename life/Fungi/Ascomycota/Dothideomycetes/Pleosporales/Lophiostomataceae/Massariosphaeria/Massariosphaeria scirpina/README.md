@@ -1,14 +1,13 @@
-Metasphaeria scirpina (G. Winter) Sacc., 1883 SPECIES
-=======
+# Massariosphaeria scirpina (G. Winter) Leuchtm., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 182 (1883)
+Sydowia 37: 174 (1984)
 
 #### Original name
 Leptosphaeria scirpina G. Winter, 1872

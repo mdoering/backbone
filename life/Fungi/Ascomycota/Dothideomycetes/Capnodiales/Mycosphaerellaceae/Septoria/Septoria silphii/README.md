@@ -1,5 +1,4 @@
-Septoria silphii Ellis & Everh. SPECIES
-=======
+# Septoria silphii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laestadia microspora (Auersw.) Sacc. SPECIES
-=======
+# Laestadia microspora (Auersw.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

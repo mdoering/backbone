@@ -1,5 +1,4 @@
-Umbilicaria tylorrhiza Nyl. SPECIES
-=======
+# Umbilicaria tylorrhiza Nyl. SPECIES
 
 #### Status
 ACCEPTED

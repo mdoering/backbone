@@ -1,5 +1,4 @@
-Acarospora cartilaginea H. Magn. SPECIES
-=======
+# Acarospora cartilaginea H. Magn. SPECIES
 
 #### Status
 ACCEPTED

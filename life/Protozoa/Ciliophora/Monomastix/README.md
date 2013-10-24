@@ -1,5 +1,4 @@
-Monomastix Roux, 1899 GENUS
-=======
+# Monomastix Roux, 1899 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterites serialis Göpp. SPECIES
-=======
+# Hysterites serialis Göpp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus thuidii Velen. SPECIES
-=======
+# Pleurotus thuidii Velen. SPECIES
 
 #### Status
 ACCEPTED

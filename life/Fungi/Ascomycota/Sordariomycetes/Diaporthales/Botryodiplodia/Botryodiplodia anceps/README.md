@@ -1,5 +1,4 @@
-Botryodiplodia anceps Sacc., Syd. & P. Syd. SPECIES
-=======
+# Botryodiplodia anceps Sacc., Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Archaeoglobus infectus Mori, Maruyama, Urabe, Suzuki & Hanada, 2008 SPECIES
-=======
+# Archaeoglobus infectus Mori, Maruyama, Urabe, Suzuki & Hanada, 2008 SPECIES
 
 #### Status
 ACCEPTED

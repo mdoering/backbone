@@ -1,5 +1,4 @@
-Pseudoxanthomonas taiwanensis Chen et al., 2002 SPECIES
-=======
+# Pseudoxanthomonas taiwanensis Chen et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

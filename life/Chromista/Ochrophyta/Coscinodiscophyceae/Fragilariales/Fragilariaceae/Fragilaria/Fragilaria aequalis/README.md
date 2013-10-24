@@ -1,5 +1,4 @@
-Fragilaria aequalis var. producta Lagerst. VARIETY
-=======
+# Fragilaria aequalis Heib. SPECIES
 
 #### Status
 ACCEPTED

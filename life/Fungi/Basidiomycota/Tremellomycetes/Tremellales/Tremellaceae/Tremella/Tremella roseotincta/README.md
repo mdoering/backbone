@@ -1,5 +1,4 @@
-Tremella roseotincta Lloyd SPECIES
-=======
+# Tremella roseotincta Lloyd SPECIES
 
 #### Status
 ACCEPTED

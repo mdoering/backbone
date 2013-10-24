@@ -1,5 +1,4 @@
-Lecidea overeemii Zahlbr. SPECIES
-=======
+# Lecidea overeemii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

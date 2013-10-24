@@ -1,5 +1,4 @@
-Tubakia B. Sutton, 1973 GENUS
-=======
+# Tubakia B. Sutton, 1973 GENUS
 
 #### Status
 ACCEPTED

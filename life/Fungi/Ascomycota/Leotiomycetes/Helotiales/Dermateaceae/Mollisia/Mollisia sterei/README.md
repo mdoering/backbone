@@ -1,5 +1,4 @@
-Mollisia sterei Rehm ex Strasser SPECIES
-=======
+# Mollisia sterei Rehm ex Strasser SPECIES
 
 #### Status
 ACCEPTED

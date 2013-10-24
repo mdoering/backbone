@@ -1,5 +1,4 @@
-Sclerotium cyparissiae DC. SPECIES
-=======
+# Sclerotium cyparissiae DC. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Propermodiscus Miklukho-Maklai, 1953 GENUS
-=======
+# Propermodiscus Miklukho-Maklai, 1953 GENUS
 
 #### Status
 ACCEPTED

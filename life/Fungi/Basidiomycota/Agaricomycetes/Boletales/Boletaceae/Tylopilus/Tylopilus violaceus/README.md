@@ -1,5 +1,4 @@
-Tylopilus violaceus (Beeli) Heinem. SPECIES
-=======
+# Tylopilus violaceus (Beeli) Heinem. SPECIES
 
 #### Status
 ACCEPTED

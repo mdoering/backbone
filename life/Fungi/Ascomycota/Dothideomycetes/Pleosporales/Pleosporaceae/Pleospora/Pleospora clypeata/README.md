@@ -1,5 +1,4 @@
-Pleospora clypeata Wehm. SPECIES
-=======
+# Pleospora clypeata Wehm. SPECIES
 
 #### Status
 ACCEPTED

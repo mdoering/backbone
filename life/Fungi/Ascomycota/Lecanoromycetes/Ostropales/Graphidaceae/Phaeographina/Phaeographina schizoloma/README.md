@@ -1,5 +1,4 @@
-Phaeographina schizoloma var. schizoloma VARIETY
-=======
+# Phaeographina schizoloma (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phaeographina schizoloma var. schizoloma
+Graphis schizoloma Müll. Arg.
 
 ### Remarks
 null

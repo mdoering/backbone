@@ -1,5 +1,4 @@
-Phaeodepas D.A. Reid GENUS
-=======
+# Phaeodepas D.A. Reid GENUS
 
 #### Status
 ACCEPTED

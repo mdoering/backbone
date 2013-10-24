@@ -1,14 +1,13 @@
-Peziza melatephra Lasch SPECIES
-=======
+# Niptera melatephra (Lasch) Rehm, 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Rabenhorst, Rabenh. Krypt. -Fl. (Leipzig) 1(3): 559 (1891)
 
 #### Original name
 Peziza melatephra Lasch

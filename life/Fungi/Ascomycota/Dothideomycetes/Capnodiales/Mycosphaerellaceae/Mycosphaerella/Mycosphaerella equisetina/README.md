@@ -1,5 +1,4 @@
-Mycosphaerella equisetina Syd. SPECIES
-=======
+# Mycosphaerella equisetina Syd. SPECIES
 
 #### Status
 ACCEPTED

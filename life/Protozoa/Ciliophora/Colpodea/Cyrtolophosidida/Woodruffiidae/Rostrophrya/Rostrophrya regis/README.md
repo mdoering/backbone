@@ -1,5 +1,4 @@
-Rostrophrya regis Njine, 1979 SPECIES
-=======
+# Rostrophrya regis Njine, 1979 SPECIES
 
 #### Status
 ACCEPTED

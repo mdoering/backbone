@@ -1,5 +1,4 @@
-Dimerosporium tropicale Speg. SPECIES
-=======
+# Dimerosporium tropicale Speg. SPECIES
 
 #### Status
 ACCEPTED

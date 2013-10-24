@@ -1,5 +1,4 @@
-Irenopsis haploa (Cif.) Hansf. SPECIES
-=======
+# Irenopsis haploa (Cif.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

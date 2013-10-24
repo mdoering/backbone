@@ -1,17 +1,16 @@
-Galera graminea Velen., 1921 SPECIES
-=======
+# Galerina graminea (Velen.) Kühner, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceské Houby 3: 548 (1921)
+null
 
 #### Original name
-Galera graminea Velen., 1921
+null
 
 ### Remarks
 null

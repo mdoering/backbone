@@ -1,5 +1,4 @@
-Collybia sobolewskii Weinm. SPECIES
-=======
+# Collybia sobolewskii Weinm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protomyces andinus Pat. SPECIES
-=======
+# Protomyces andinus Pat. SPECIES
 
 #### Status
 ACCEPTED

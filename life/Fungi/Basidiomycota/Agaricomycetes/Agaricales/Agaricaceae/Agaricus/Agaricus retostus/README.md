@@ -1,5 +1,4 @@
-Agaricus retostus subsp. retostus SUBSPECIES
-=======
+# Agaricus retostus Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hymenomyc. eur. (Upsaliae) 161 (1874)
 
 #### Original name
-Agaricus retostus subsp. retostus
+Agaricus retostus Fr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Calicium hemisphaericum G.E. Howard SPECIES
-=======
+# Calicium hemisphaericum G.E. Howard SPECIES
 
 #### Status
 ACCEPTED

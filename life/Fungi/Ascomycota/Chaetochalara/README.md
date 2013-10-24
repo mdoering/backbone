@@ -1,5 +1,4 @@
-Chaetochalara GENUS
-=======
+# Chaetochalara GENUS
 
 #### Status
 ACCEPTED

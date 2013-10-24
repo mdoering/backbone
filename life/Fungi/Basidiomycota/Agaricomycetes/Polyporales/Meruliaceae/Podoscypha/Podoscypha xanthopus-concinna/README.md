@@ -1,14 +1,13 @@
-Polystictus xanthopusconcinnus Lloyd, 1916 SPECIES
-=======
+# Podoscypha xanthopus-concinna (Lloyd) D.A. Reid, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 5: 618 (1916)
+Contr. Bolus Herb. 7: 80 (1975)
 
 #### Original name
 Polystictus xanthopusconcinnus Lloyd, 1916

@@ -1,5 +1,4 @@
-Topelia gyalectodes (Nyl.) B. D. Ryan & Lumbsch SPECIES
-=======
+# Topelia gyalectodes (Nyl.) B. D. Ryan & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

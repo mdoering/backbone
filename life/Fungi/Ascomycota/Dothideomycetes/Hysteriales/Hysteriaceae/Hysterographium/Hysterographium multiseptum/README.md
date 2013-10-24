@@ -1,5 +1,4 @@
-Hysterographium multiseptum Panwar & S.J. Kaur SPECIES
-=======
+# Hysterographium multiseptum Panwar & S.J. Kaur SPECIES
 
 #### Status
 ACCEPTED

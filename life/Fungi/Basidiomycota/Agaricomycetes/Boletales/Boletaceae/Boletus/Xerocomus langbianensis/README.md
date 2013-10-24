@@ -1,5 +1,4 @@
-Xerocomus langbianensis Dörfelt, Kiet & A. Berg bis SPECIES
-=======
+# Xerocomus langbianensis Dörfelt, Kiet & A. Berg bis SPECIES
 
 #### Status
 ACCEPTED

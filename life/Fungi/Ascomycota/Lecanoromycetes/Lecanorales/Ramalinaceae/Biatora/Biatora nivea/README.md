@@ -1,5 +1,4 @@
-Biatora nivea Müll. Arg. SPECIES
-=======
+# Biatora nivea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

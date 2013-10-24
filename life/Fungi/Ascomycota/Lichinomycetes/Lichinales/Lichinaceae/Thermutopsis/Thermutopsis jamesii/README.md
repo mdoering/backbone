@@ -1,5 +1,4 @@
-Thermutopsis jamesii Henssen SPECIES
-=======
+# Thermutopsis jamesii Henssen SPECIES
 
 #### Status
 ACCEPTED

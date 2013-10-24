@@ -1,5 +1,4 @@
-Ceuthosporella Petrak & Sydow, 1923 GENUS
-=======
+# Ceuthosporella Petrak & Sydow, 1923 GENUS
 
 #### Status
 ACCEPTED

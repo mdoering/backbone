@@ -1,5 +1,4 @@
-Cercosporidium uniseptatum J.L. Mulder SPECIES
-=======
+# Cercosporidium uniseptatum J.L. Mulder SPECIES
 
 #### Status
 ACCEPTED

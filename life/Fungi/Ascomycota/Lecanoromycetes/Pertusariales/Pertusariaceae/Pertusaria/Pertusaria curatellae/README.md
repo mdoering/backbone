@@ -1,5 +1,4 @@
-Pertusaria curatellae Malme SPECIES
-=======
+# Pertusaria curatellae Malme SPECIES
 
 #### Status
 ACCEPTED

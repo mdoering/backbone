@@ -1,17 +1,16 @@
-Merulius baylei Berk. & Broome SPECIES
-=======
+# Merulius bayleyi Berk. & Broome SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Linn. Soc. London, Bot. , Ser. 2 2: 62 (1883)
 
 #### Original name
-Merulius baylei Berk. & Broome
+Merulius bayleyi Berk. & Broome
 
 ### Remarks
 null

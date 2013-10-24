@@ -1,5 +1,4 @@
-Arthroderma tuberculatum Kuehn, 1960 SPECIES
-=======
+# Arthroderma tuberculatum Kuehn, 1960 SPECIES
 
 #### Status
 ACCEPTED

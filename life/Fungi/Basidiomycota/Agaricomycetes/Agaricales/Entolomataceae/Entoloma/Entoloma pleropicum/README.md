@@ -1,5 +1,4 @@
-Entoloma pleropicum (Britzelm.) Sacc. SPECIES
-=======
+# Entoloma pleropicum (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

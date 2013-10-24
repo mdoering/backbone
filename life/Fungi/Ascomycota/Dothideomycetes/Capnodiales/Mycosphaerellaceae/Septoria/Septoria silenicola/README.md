@@ -1,5 +1,4 @@
-Septoria silenicola (Ellis & G. Martin) Sacc. SPECIES
-=======
+# Septoria silenicola (Ellis & G. Martin) Sacc. SPECIES
 
 #### Status
 ACCEPTED

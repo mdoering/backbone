@@ -1,14 +1,13 @@
-Trachylia tricincta F. Wilson SPECIES
-=======
+# Cyphelium tricinctum (F. Wilson) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Bailey, Bot. Bull. Dept. Agric. , Queensland 7: 31 (1891)
+Cat. Lich. Univers. 1: 676 (1922)
 
 #### Original name
 Trachylia tricincta F. Wilson

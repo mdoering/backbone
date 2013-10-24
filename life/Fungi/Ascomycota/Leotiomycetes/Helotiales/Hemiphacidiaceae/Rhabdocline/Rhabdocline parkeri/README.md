@@ -1,5 +1,4 @@
-Rhabdocline parkeri Sherwood, J.K. Stone & G.C. Carroll, 1986 SPECIES
-=======
+# Rhabdocline parkeri Sherwood, J.K. Stone & G.C. Carroll, 1986 SPECIES
 
 #### Status
 ACCEPTED

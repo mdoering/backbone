@@ -1,5 +1,4 @@
-Arthoniopsis nebulosa (Stirt.) Zahlbr. SPECIES
-=======
+# Arthoniopsis nebulosa (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

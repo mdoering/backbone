@@ -1,5 +1,4 @@
-Septoria indica P.N. Singh, S.B. Gaikwad & S.K. Singh SPECIES
-=======
+# Septoria indica P.N. Singh, S.B. Gaikwad & S.K. Singh SPECIES
 
 #### Status
 ACCEPTED

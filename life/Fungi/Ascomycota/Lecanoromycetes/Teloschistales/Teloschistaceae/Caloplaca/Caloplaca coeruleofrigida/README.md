@@ -1,5 +1,4 @@
-Caloplaca coeruleofrigida Søchting & Seppelt SPECIES
-=======
+# Caloplaca coeruleofrigida Søchting & Seppelt SPECIES
 
 #### Status
 ACCEPTED

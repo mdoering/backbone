@@ -1,5 +1,4 @@
-Mycena subsanguinolenta A.H. Sm. SPECIES
-=======
+# Mycena subsanguinolenta A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

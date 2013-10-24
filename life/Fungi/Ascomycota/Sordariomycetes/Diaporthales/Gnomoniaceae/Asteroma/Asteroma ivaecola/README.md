@@ -1,5 +1,4 @@
-Asteroma ivaecola Ellis & Everh. SPECIES
-=======
+# Asteroma ivaecola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

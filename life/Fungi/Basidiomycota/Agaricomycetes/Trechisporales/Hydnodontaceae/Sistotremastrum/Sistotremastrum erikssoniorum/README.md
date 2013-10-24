@@ -1,5 +1,4 @@
-Sistotremastrum erikssoniorum anon. SPECIES
-=======
+# Sistotremastrum erikssoniorum anon. SPECIES
 
 #### Status
 ACCEPTED

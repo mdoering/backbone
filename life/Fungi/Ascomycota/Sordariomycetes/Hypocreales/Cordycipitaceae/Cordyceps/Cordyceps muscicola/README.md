@@ -1,5 +1,4 @@
-Cordyceps muscicola Möller SPECIES
-=======
+# Cordyceps muscicola Möller SPECIES
 
 #### Status
 ACCEPTED

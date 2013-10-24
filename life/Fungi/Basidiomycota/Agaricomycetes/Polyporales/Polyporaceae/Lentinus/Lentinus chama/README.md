@@ -1,5 +1,4 @@
-Lentinus chama (Bosc) Fr. SPECIES
-=======
+# Lentinus chama (Bosc) Fr. SPECIES
 
 #### Status
 ACCEPTED

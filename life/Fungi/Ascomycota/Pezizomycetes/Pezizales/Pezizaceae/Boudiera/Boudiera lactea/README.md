@@ -1,5 +1,4 @@
-Boudiera lactea Kirschst. SPECIES
-=======
+# Boudiera lactea Kirschst. SPECIES
 
 #### Status
 ACCEPTED

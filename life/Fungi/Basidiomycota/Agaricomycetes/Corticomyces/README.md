@@ -1,5 +1,4 @@
-Corticomyces A.I. Romero & S.E. López GENUS
-=======
+# Corticomyces A.I. Romero & S.E. López GENUS
 
 #### Status
 ACCEPTED

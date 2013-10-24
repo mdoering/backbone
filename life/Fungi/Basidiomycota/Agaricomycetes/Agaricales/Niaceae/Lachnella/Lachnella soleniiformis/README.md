@@ -1,5 +1,4 @@
-Lachnella soleniiformis Ellis & Everh. SPECIES
-=======
+# Lachnella soleniiformis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

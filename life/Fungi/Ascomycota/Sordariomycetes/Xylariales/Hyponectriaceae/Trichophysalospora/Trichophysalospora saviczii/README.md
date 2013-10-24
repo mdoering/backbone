@@ -1,5 +1,4 @@
-Trichophysalospora saviczii Lebedeva SPECIES
-=======
+# Trichophysalospora saviczii Lebedeva SPECIES
 
 #### Status
 ACCEPTED

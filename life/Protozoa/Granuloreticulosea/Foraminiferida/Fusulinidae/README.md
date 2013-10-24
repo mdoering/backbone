@@ -1,5 +1,4 @@
-Fusulinidae FAMILY
-=======
+# Fusulinidae FAMILY
 
 #### Status
 ACCEPTED

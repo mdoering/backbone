@@ -1,5 +1,4 @@
-Entoloma piceus anon. SPECIES
-=======
+# Entoloma piceus anon. SPECIES
 
 #### Status
 ACCEPTED

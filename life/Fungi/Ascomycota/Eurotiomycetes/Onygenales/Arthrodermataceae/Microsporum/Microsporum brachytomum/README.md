@@ -1,17 +1,16 @@
-Microsporon brachytomum Oho SPECIES
-=======
+# Microsporum brachytomum Oho SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kyoto Med. Journal 16(2): 20 (1919)
 
 #### Original name
-Microsporon brachytomum Oho
+Microsporum brachytomum Oho
 
 ### Remarks
 null

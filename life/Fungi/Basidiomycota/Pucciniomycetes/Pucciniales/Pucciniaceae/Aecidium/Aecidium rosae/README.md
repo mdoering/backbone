@@ -1,5 +1,4 @@
-Aecidium rosae Röhl SPECIES
-=======
+# Aecidium rosae Röhl SPECIES
 
 #### Status
 ACCEPTED

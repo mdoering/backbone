@@ -1,5 +1,4 @@
-Gomphus pezizoides Pers. SPECIES
-=======
+# Gomphus pezizoides Pers. SPECIES
 
 #### Status
 ACCEPTED

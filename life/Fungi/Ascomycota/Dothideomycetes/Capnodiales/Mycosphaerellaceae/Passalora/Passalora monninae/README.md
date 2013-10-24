@@ -1,5 +1,4 @@
-Passalora monninae U. Braun & Crous SPECIES
-=======
+# Passalora monninae U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

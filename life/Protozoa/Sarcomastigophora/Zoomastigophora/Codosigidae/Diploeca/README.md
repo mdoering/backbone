@@ -1,5 +1,4 @@
-Diploeca W.N.Ellis GENUS
-=======
+# Diploeca W.N.Ellis GENUS
 
 #### Status
 ACCEPTED

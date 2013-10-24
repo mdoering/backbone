@@ -1,5 +1,4 @@
-Cytospora cotoneastri Thüm. SPECIES
-=======
+# Cytospora cotoneastri Thüm. SPECIES
 
 #### Status
 ACCEPTED

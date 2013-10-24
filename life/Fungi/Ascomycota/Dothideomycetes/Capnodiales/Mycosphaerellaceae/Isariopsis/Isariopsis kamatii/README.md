@@ -1,5 +1,4 @@
-Isariopsis kamatii Subramon. & V.G. Rao SPECIES
-=======
+# Isariopsis kamatii Subramon. & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

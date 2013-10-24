@@ -1,5 +1,4 @@
-Camarosporium phaceliae (Cooke & Harkn.) Sacc. SPECIES
-=======
+# Camarosporium phaceliae (Cooke & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

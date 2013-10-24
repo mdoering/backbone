@@ -1,5 +1,4 @@
-Zeloasperisporium R.F. Castañeda GENUS
-=======
+# Zeloasperisporium R.F. Castañeda GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prospodium perornatum Syd., 1936 SPECIES
-=======
+# Prospodium perornatum Syd., 1936 SPECIES
 
 #### Status
 ACCEPTED

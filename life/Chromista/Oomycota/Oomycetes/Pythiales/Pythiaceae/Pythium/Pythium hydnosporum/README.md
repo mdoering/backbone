@@ -1,17 +1,16 @@
-Pythium artotrogus var. macracanthum Sideris VARIETY
-=======
+# Pythium hydnosporum (Mont.) J. Schröt., 1879 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 24: 47 (1932)
+in de Bary, Abh. senckenb. naturforsch. Ges. 12: 19 (1879)
 
 #### Original name
-Pythium artotrogus var. macracanthum Sideris
+Artotrogus hydnosporus Mont., 1845
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Pleosphaerulina argentinensis Speg., 1909 SPECIES
-=======
+# Leptosphaerulina argentinensis (Speg.) J.H. Graham & Luttr., 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Mus. nac. Hist. nat. B. Aires 19: 387 (1909)
+Phytopathology 51: 687 (1961)
 
 #### Original name
 Pleosphaerulina argentinensis Speg., 1909

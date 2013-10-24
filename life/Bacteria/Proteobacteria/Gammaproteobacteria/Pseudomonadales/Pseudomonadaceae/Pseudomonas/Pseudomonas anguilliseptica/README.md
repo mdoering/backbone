@@ -1,5 +1,4 @@
-Pseudomonas anguilliseptica Wakabayashi and Egusa, 1972 (Approved Lists, 1980) SPECIES
-=======
+# Pseudomonas anguilliseptica Wakabayashi and Egusa, 1972 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

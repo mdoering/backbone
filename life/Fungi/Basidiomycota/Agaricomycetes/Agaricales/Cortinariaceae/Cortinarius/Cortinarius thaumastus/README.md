@@ -1,5 +1,4 @@
-Cortinarius thaumastus Soop, 2005 SPECIES
-=======
+# Cortinarius thaumastus Soop, 2005 SPECIES
 
 #### Status
 ACCEPTED

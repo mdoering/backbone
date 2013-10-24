@@ -1,5 +1,4 @@
-Pannaria isidiosa Elvebakk & Elix SPECIES
-=======
+# Pannaria isidiosa Elvebakk & Elix SPECIES
 
 #### Status
 ACCEPTED

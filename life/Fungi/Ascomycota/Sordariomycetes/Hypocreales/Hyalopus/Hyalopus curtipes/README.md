@@ -1,5 +1,4 @@
-Hyalopus curtipes (Sacc.) M.A.J. Barbosa SPECIES
-=======
+# Hyalopus curtipes (Sacc.) M.A.J. Barbosa SPECIES
 
 #### Status
 ACCEPTED

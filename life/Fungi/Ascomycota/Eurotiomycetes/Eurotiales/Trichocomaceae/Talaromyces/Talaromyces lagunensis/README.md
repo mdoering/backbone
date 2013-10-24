@@ -1,5 +1,4 @@
-Talaromyces lagunensis Udagawa, Uchiy. & Kamiya, 1994 SPECIES
-=======
+# Talaromyces lagunensis Udagawa, Uchiy. & Kamiya, 1994 SPECIES
 
 #### Status
 ACCEPTED

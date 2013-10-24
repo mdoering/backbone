@@ -1,14 +1,13 @@
-Catapyrenium podolepis Breuss SPECIES
-=======
+# Heteroplacidium podolepis (Breuss) Breuss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Pl. Syst. Evol. 185(1-2): 29 (1993)
+Annln naturh. Mus. Wien, Ser. B, Bot. Zool. 98(Suppl. ): 40 (1996)
 
 #### Original name
 Catapyrenium podolepis Breuss

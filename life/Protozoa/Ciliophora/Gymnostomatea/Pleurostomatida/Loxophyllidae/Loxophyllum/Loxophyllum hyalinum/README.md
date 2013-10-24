@@ -1,5 +1,4 @@
-Loxophyllum hyalinum Vacelet, 1961 SPECIES
-=======
+# Loxophyllum hyalinum Vacelet, 1961 SPECIES
 
 #### Status
 ACCEPTED

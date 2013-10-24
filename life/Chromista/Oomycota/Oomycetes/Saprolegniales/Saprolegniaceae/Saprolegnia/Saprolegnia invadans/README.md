@@ -1,17 +1,16 @@
-Saprolegnia invaderis H.S. Davis & E.C. Lazarev SPECIES
-=======
+# Saprolegnia invadans H.S. Davis & E.C. Lazarev SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Am. Fisheries Soc. 70: 267 (1941)
 
 #### Original name
-Saprolegnia invaderis H.S. Davis & E.C. Lazarev
+Saprolegnia invadans H.S. Davis & E.C. Lazarev
 
 ### Remarks
 null

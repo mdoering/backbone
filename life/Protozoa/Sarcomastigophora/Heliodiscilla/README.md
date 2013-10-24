@@ -1,5 +1,4 @@
-Heliodiscilla Haeckel, 1887 GENUS
-=======
+# Heliodiscilla Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

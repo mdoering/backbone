@@ -1,5 +1,4 @@
-Anabaena isocystoides H. Welsh SPECIES
-=======
+# Anabaena isocystoides H. Welsh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria ruinicola Servít SPECIES
-=======
+# Verrucaria ruinicola Servít SPECIES
 
 #### Status
 ACCEPTED

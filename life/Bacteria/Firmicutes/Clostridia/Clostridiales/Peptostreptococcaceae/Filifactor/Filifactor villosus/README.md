@@ -1,8 +1,7 @@
-Clostridium villosum Love et al., 1979 (Approved Lists, 1980) SPECIES
-=======
+# Filifactor villosus (Love et al., 1979) Collins et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

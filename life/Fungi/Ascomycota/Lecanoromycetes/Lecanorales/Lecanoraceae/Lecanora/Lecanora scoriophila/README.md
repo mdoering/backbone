@@ -1,5 +1,4 @@
-Lecanora scoriophila (A. Massal.) Stizenb. SPECIES
-=======
+# Lecanora scoriophila (A. Massal.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

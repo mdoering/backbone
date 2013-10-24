@@ -1,5 +1,4 @@
-Charonectria australis Speg. SPECIES
-=======
+# Charonectria australis Speg. SPECIES
 
 #### Status
 ACCEPTED

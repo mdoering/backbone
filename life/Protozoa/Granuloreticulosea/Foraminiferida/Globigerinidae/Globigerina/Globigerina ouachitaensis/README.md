@@ -1,5 +1,4 @@
-Globigerina ouachitaensis Howe SPECIES
-=======
+# Globigerina ouachitaensis Howe SPECIES
 
 #### Status
 ACCEPTED

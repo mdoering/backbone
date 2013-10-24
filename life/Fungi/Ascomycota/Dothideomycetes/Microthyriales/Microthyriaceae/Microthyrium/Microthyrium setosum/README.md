@@ -1,5 +1,4 @@
-Microthyrium setosum Dennis & Spooner SPECIES
-=======
+# Microthyrium setosum Dennis & Spooner SPECIES
 
 #### Status
 ACCEPTED

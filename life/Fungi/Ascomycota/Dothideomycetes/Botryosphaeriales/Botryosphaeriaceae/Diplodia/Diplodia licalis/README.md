@@ -1,5 +1,4 @@
-Diplodia licalis Westend. SPECIES
-=======
+# Diplodia licalis Westend. SPECIES
 
 #### Status
 ACCEPTED

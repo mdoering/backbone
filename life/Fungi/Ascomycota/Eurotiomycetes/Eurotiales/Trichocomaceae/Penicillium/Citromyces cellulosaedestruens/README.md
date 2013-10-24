@@ -1,5 +1,4 @@
-Citromyces cellulosaedestruens Malchevsk. SPECIES
-=======
+# Citromyces cellulosaedestruens Malchevsk. SPECIES
 
 #### Status
 ACCEPTED

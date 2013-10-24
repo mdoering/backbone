@@ -1,5 +1,4 @@
-Comasphaeridium malpeinadum (Cramer, 1964) Eisenack et al., 1976 SPECIES
-=======
+# Comasphaeridium malpeinadum (Cramer, 1964) Eisenack et al., 1976 SPECIES
 
 #### Status
 ACCEPTED

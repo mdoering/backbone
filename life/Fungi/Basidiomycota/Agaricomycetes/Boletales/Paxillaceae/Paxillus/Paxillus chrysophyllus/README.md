@@ -1,5 +1,4 @@
-Paxillus chrysophyllus Trog SPECIES
-=======
+# Paxillus chrysophyllus Trog SPECIES
 
 #### Status
 ACCEPTED

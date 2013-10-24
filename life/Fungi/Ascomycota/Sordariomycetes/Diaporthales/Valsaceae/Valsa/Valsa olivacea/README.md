@@ -1,5 +1,4 @@
-Valsa olivacea Fuckel SPECIES
-=======
+# Valsa olivacea Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Gymnascella marginospora (Kuehn & G.F. Orr) Currah SPECIES
-=======
+# Gymnascella marginispora (Kuehn & G.F. Orr) Currah, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 24: 87 (1985)
 
 #### Original name
 Pseudoarachniotus marginosporus Kuehn & G.F. Orr, 1963

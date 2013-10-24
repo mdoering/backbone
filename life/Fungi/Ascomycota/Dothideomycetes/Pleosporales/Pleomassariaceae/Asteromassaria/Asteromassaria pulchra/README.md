@@ -1,5 +1,4 @@
-Asteromassaria pulchra (Harkn.) Shoemaker & P.M. LeClair SPECIES
-=======
+# Asteromassaria pulchra (Harkn.) Shoemaker & P.M. LeClair SPECIES
 
 #### Status
 ACCEPTED

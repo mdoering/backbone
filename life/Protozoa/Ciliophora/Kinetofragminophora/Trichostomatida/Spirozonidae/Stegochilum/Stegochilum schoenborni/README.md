@@ -1,5 +1,4 @@
-Stegochilum schoenborni Foissner, 1985 SPECIES
-=======
+# Stegochilum schoenborni Foissner, 1985 SPECIES
 
 #### Status
 ACCEPTED

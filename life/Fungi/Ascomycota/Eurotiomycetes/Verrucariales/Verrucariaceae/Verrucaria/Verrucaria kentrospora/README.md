@@ -1,5 +1,4 @@
-Verrucaria kentrospora Branth SPECIES
-=======
+# Verrucaria kentrospora Branth SPECIES
 
 #### Status
 ACCEPTED

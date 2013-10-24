@@ -1,5 +1,4 @@
-Macrophoma depressula (Sacc., E. Bommer & M. Rousseau) Tassi SPECIES
-=======
+# Macrophoma depressula (Sacc., E. Bommer & M. Rousseau) Tassi SPECIES
 
 #### Status
 ACCEPTED

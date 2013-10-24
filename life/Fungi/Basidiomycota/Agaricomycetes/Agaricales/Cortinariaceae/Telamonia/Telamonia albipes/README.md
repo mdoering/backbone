@@ -1,5 +1,4 @@
-Telamonia albipes Velen. SPECIES
-=======
+# Telamonia albipes Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia rubidofusca (Willey) Zahlbr. SPECIES
-=======
+# Bacidia rubidofusca (Willey) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

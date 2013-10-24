@@ -1,5 +1,4 @@
-Zwackhiomyces Grube & Hafellner GENUS
-=======
+# Zwackhiomyces Grube & Hafellner GENUS
 
 #### Status
 ACCEPTED

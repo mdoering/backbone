@@ -1,17 +1,16 @@
-Placotheliomyces Cif. & Tomas. GENUS
-=======
+# Placothelium Müll. Arg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 32, 60 (1953)
+Verh. zool. -bot. Ges. Wien 43: 299 (1893)
 
 #### Original name
-Placotheliomyces Cif. & Tomas.
+Placothelium Müll. Arg.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Mesodiscus Piller, 1978 GENUS
-=======
+# Triadodiscus Piller, 1983 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List
 
 #### Published in
-Beitr Palaeontol Oesterr No. 5: 41.
+Journal foram. Res. 13 (3): 197.
 
 #### Original name
-null
+Mesodiscus Piller, 1978
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ascochyta prosopidicola Speg. SPECIES
-=======
+# Ascochyta prosopidicola Speg. SPECIES
 
 #### Status
 ACCEPTED

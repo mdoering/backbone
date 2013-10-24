@@ -1,5 +1,4 @@
-Hendersonula elschanii Hüseyin SPECIES
-=======
+# Hendersonula elschanii Hüseyin SPECIES
 
 #### Status
 ACCEPTED

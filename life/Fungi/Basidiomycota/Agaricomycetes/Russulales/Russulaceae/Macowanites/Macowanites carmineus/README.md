@@ -1,5 +1,4 @@
-Macowanites carmineus McNabb SPECIES
-=======
+# Macowanites carmineus McNabb SPECIES
 
 #### Status
 ACCEPTED

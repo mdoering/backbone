@@ -1,5 +1,4 @@
-Neotyphodium pampeanum Iannone & Cabral SPECIES
-=======
+# Neotyphodium pampeanum Iannone & Cabral SPECIES
 
 #### Status
 ACCEPTED

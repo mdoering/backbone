@@ -1,5 +1,4 @@
-Mycena aschi Henn. SPECIES
-=======
+# Mycena aschi Henn. SPECIES
 
 #### Status
 ACCEPTED

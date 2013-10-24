@@ -1,5 +1,4 @@
-Hebeloma flaccidum A.H. Sm., V.S. Evenson & Mitchel SPECIES
-=======
+# Hebeloma flaccidum A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
 ACCEPTED

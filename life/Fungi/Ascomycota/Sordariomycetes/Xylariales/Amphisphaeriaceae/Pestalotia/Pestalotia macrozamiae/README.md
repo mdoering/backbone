@@ -1,17 +1,16 @@
-Pestalozzia macrozamiae Petr. SPECIES
-=======
+# Pestalotia macrozamiae Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 12: 518 (1959)
 
 #### Original name
-Pestalozzia macrozamiae Petr.
+Pestalotia macrozamiae Petr.
 
 ### Remarks
 null

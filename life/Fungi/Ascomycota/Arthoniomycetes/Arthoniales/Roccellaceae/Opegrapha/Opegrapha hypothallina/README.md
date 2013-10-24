@@ -1,5 +1,4 @@
-Opegrapha hypothallina (Zahlbr.) Tehler SPECIES
-=======
+# Opegrapha hypothallina (Zahlbr.) Tehler SPECIES
 
 #### Status
 ACCEPTED

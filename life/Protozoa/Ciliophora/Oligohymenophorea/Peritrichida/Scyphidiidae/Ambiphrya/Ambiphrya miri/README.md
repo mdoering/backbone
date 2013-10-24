@@ -1,5 +1,4 @@
-Ambiphrya miri Raabe, 1952 SPECIES
-=======
+# Ambiphrya miri Raabe, 1952 SPECIES
 
 #### Status
 ACCEPTED

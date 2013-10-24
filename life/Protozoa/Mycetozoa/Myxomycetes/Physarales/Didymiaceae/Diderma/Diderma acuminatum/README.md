@@ -1,5 +1,4 @@
-Diderma acuminatum Schumach. SPECIES
-=======
+# Diderma acuminatum Schumach. SPECIES
 
 #### Status
 ACCEPTED

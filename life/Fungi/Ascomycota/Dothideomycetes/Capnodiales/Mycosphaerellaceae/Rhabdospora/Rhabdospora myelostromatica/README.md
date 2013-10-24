@@ -1,5 +1,4 @@
-Rhabdospora myelostromatica (Preuss) Sacc. SPECIES
-=======
+# Rhabdospora myelostromatica (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

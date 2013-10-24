@@ -1,14 +1,13 @@
-Polycyclolithus S. Forchheimer, 1968 GENUS
-=======
+# Eprolithus L.E. Stover, 1966 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Sver. Geol. Unders. Afh. (C) 62 (6): 39.
+Micropaleontology 12: 149.
 
 #### Original name
 null

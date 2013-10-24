@@ -1,5 +1,4 @@
-Squamarina concrescens subsp. concrescens SUBSPECIES
-=======
+# Squamarina concrescens (Müll. Arg.) Poelt SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Squamarina concrescens subsp. concrescens
+null
 
 ### Remarks
 null

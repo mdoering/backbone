@@ -1,5 +1,4 @@
-Amphista GENUS
-=======
+# Amphista GENUS
 
 #### Status
 ACCEPTED

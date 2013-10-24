@@ -1,5 +1,4 @@
-Bacidia subspadicea (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia subspadicea (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

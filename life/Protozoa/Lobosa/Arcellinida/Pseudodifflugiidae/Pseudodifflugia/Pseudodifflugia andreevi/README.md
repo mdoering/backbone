@@ -1,5 +1,4 @@
-Pseudodifflugia andreevi Golemansky, 1976 SPECIES
-=======
+# Pseudodifflugia andreevi Golemansky, 1976 SPECIES
 
 #### Status
 ACCEPTED

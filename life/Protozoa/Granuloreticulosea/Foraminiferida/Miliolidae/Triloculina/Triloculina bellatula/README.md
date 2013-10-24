@@ -1,5 +1,4 @@
-Triloculina bellatula Bandy, 1956 SPECIES
-=======
+# Triloculina bellatula Bandy, 1956 SPECIES
 
 #### Status
 ACCEPTED

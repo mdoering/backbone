@@ -1,5 +1,4 @@
-Phaeographina perrigida (Vain.) Zahlbr. SPECIES
-=======
+# Phaeographina perrigida (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

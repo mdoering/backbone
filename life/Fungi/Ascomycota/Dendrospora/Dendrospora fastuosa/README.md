@@ -1,5 +1,4 @@
-Dendrospora fastuosa Descals & J. Webster, 1980 SPECIES
-=======
+# Dendrospora fastuosa Descals & J. Webster, 1980 SPECIES
 
 #### Status
 ACCEPTED

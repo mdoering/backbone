@@ -1,5 +1,4 @@
-Lyophyllum aemiliae Consiglio SPECIES
-=======
+# Lyophyllum aemiliae Consiglio SPECIES
 
 #### Status
 ACCEPTED

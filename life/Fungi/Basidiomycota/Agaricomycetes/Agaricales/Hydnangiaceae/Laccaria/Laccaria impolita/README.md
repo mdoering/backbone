@@ -1,17 +1,16 @@
-Laccaria singerii Locq. & Sarwal SPECIES
-=======
+# Laccaria impolita Vellinga & G.M. Muell., 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Mueller & Vellinga, Mycotaxon 37: 387 (1990)
 
 #### Original name
-Laccaria singerii Locq. & Sarwal
+Laccaria singeri Ballero & Contu, 1989
 
 ### Remarks
 null

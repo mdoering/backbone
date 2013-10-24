@@ -1,5 +1,4 @@
-Cercosporella echii Syd., 1921 SPECIES
-=======
+# Cercosporella echii Syd., 1921 SPECIES
 
 #### Status
 ACCEPTED

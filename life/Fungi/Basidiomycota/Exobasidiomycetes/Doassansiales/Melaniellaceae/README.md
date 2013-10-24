@@ -1,5 +1,4 @@
-Melaniellaceae R. Bauer, Vánky, Begerow & Oberw. FAMILY
-=======
+# Melaniellaceae R. Bauer, Vánky, Begerow & Oberw. FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diacanthum filapicatum (Gocht, 1970) Stover & Evitt SPECIES
-=======
+# Diacanthum filapicatum (Gocht, 1970) Stover & Evitt SPECIES
 
 #### Status
 ACCEPTED

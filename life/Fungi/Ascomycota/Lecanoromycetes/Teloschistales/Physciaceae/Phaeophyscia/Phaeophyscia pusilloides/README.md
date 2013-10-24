@@ -1,5 +1,4 @@
-Phaeophyscia pusilloides (Zahlbr.) Essl. SPECIES
-=======
+# Phaeophyscia pusilloides (Zahlbr.) Essl. SPECIES
 
 #### Status
 ACCEPTED

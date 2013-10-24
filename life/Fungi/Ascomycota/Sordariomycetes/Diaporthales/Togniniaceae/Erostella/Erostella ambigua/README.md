@@ -1,5 +1,4 @@
-Erostella ambigua (Berl.) Sacc. SPECIES
-=======
+# Erostella ambigua (Berl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

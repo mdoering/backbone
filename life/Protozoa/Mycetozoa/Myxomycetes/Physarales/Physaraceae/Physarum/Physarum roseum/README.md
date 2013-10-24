@@ -1,17 +1,16 @@
-Physarum roseum var. discocephalum Yamash. VARIETY
-=======
+# Physarum roseum Berk. & Broome, 1873 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Journal of Science of the Hiroshima University, B, 2 3: 29 (1936)
+J. Linn. Soc. , Bot. 14(2): 84 (1875)
 
 #### Original name
-Physarum roseum var. discocephalum Yamash.
+Physarum roseum Berk. & Broome, 1873
 
 ### Remarks
 null

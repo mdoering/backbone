@@ -1,5 +1,4 @@
-Tetramitaceae FAMILY
-=======
+# Tetramitaceae FAMILY
 
 #### Status
 ACCEPTED

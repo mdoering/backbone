@@ -1,5 +1,4 @@
-Peziza crucibulum Fr. SPECIES
-=======
+# Peziza crucibulum Fr. SPECIES
 
 #### Status
 ACCEPTED

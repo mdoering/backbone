@@ -1,5 +1,4 @@
-Sphaerulina blyttii (Rostr.) L. Holm & K. Holm SPECIES
-=======
+# Sphaerulina blyttii (Rostr.) L. Holm & K. Holm SPECIES
 
 #### Status
 ACCEPTED

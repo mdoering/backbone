@@ -1,5 +1,4 @@
-Omphalospora acanthaceifolii Bat., Peres & J.L. Bezerra SPECIES
-=======
+# Omphalospora acanthaceifolii Bat., Peres & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

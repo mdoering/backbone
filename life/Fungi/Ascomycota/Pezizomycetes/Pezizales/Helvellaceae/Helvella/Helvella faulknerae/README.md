@@ -1,5 +1,4 @@
-Helvella faulknerae Copel. SPECIES
-=======
+# Helvella faulknerae Copel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chloridium microsporum Ces. SPECIES
-=======
+# Chloridium microsporum Ces. SPECIES
 
 #### Status
 ACCEPTED

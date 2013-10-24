@@ -1,14 +1,13 @@
-Benjaminia aristata J. Ahmad, 1967 SPECIES
-=======
+# Pycnomoreletia aristata (J. Ahmad) Rulamort, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biologia, Lahore 13: 21 (1967)
+Bull. Soc. bot. Centre-Ouest, Nouv. sér. 21: 512 (1990)
 
 #### Original name
 Benjaminia aristata J. Ahmad, 1967

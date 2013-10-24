@@ -1,5 +1,4 @@
-Marasmiellus atrosetosus Dennis SPECIES
-=======
+# Marasmiellus atrosetosus Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium phaseoli (Burkh.) T. Aoki & O'Donnell SPECIES
-=======
+# Fusarium phaseoli (Burkh.) T. Aoki & O'Donnell SPECIES
 
 #### Status
 ACCEPTED

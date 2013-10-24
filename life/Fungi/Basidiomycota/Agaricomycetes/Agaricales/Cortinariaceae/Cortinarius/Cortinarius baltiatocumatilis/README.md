@@ -1,5 +1,4 @@
-Cortinarius baltiatocumatilis P.D. Orton SPECIES
-=======
+# Cortinarius baltiatocumatilis P.D. Orton SPECIES
 
 #### Status
 ACCEPTED

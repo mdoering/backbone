@@ -1,8 +1,7 @@
-Saccharomyces sociasi C. Ramírez SPECIES
-=======
+# Saccharomyces sociasii C. Ramírez SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Saccharomyces sociasi C. Ramírez
+Saccharomyces sociasii C. Ramírez
 
 ### Remarks
 null

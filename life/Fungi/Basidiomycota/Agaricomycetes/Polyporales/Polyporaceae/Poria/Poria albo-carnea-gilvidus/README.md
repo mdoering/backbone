@@ -1,5 +1,4 @@
-Poria albo-carnea-gilvidus (Romell) Sacc. SPECIES
-=======
+# Poria albo-carnea-gilvidus (Romell) Sacc. SPECIES
 
 #### Status
 ACCEPTED

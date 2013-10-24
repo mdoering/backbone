@@ -1,17 +1,16 @@
-Erysiphe doidgei U. Braun SPECIES
-=======
+# Erysiphe doidgeae U. Braun SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 89: 234 (1987)
 
 #### Original name
-Erysiphe doidgei U. Braun
+Erysiphe doidgeae U. Braun
 
 ### Remarks
 null

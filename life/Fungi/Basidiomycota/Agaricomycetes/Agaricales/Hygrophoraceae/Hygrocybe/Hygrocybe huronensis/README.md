@@ -1,5 +1,4 @@
-Hygrocybe huronensis (A.H. Sm. & Hesler) Singer SPECIES
-=======
+# Hygrocybe huronensis (A.H. Sm. & Hesler) Singer SPECIES
 
 #### Status
 ACCEPTED

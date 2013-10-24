@@ -1,5 +1,4 @@
-Scindalma albocinctum (Pat. & Morot) Kuntze SPECIES
-=======
+# Scindalma albocinctum (Pat. & Morot) Kuntze SPECIES
 
 #### Status
 ACCEPTED

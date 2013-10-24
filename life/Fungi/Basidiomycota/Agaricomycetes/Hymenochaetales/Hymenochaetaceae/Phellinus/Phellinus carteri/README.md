@@ -1,14 +1,13 @@
-Poria carteri Berk. ex Cooke, 1886 SPECIES
-=======
+# Phellinus carteri (Berk. ex Cooke) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 15(no. 73): 25 (1886)
+Norw. Jl Bot. 19: 234 (1972)
 
 #### Original name
 Poria carteri Berk. ex Cooke, 1886

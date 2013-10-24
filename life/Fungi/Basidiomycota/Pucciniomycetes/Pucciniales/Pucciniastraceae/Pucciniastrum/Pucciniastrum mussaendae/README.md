@@ -1,5 +1,4 @@
-Pucciniastrum mussaendae Syd. SPECIES
-=======
+# Pucciniastrum mussaendae Syd. SPECIES
 
 #### Status
 ACCEPTED

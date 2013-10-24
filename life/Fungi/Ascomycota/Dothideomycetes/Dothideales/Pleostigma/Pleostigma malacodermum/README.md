@@ -1,14 +1,13 @@
-Pleosphaeria malacoderma Höhn., 1907 SPECIES
-=======
+# Pleostigma malacodermum (Höhn.) Kirschst., 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 116: 121 (1907)
+Annls mycol. 37: 91 (1939)
 
 #### Original name
 Pleosphaeria malacoderma Höhn., 1907

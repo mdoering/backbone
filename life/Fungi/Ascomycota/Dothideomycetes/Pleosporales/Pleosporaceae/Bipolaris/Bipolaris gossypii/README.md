@@ -1,5 +1,4 @@
-Bipolaris gossypii (Tucker) Sivan. SPECIES
-=======
+# Bipolaris gossypii (Tucker) Sivan. SPECIES
 
 #### Status
 ACCEPTED

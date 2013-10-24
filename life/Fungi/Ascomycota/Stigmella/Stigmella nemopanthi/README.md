@@ -1,17 +1,16 @@
-Stigmella nemopanthis Dearn. SPECIES
-=======
+# Stigmella nemopanthi Dearn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 16(4): 174 (1924)
 
 #### Original name
-Stigmella nemopanthis Dearn.
+Stigmella nemopanthi Dearn.
 
 ### Remarks
 null

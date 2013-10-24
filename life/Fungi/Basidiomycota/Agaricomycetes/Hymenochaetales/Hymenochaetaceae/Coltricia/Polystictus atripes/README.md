@@ -1,5 +1,4 @@
-Polystictus atripes Rostr. SPECIES
-=======
+# Polystictus atripes Rostr. SPECIES
 
 #### Status
 ACCEPTED

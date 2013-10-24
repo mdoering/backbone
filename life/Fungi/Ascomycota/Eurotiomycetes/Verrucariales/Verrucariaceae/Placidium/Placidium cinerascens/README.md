@@ -1,5 +1,4 @@
-Placidium cinerascens (Nyl.) Arnold SPECIES
-=======
+# Placidium cinerascens (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

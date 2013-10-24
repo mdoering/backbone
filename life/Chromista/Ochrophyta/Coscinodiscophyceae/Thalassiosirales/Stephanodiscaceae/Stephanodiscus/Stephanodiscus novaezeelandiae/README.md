@@ -1,5 +1,4 @@
-Stephanodiscus novaezeelandiae Cleve SPECIES
-=======
+# Stephanodiscus novaezeelandiae Cleve SPECIES
 
 #### Status
 ACCEPTED

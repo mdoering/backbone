@@ -1,5 +1,4 @@
-Bacidina pseudohyphophorifera (Lücking & Sérus.) Lücking SPECIES
-=======
+# Bacidina pseudohyphophorifera (Lücking & Sérus.) Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia mason-halei (Patw. & Prabhu) Ajay Singh SPECIES
-=======
+# Parmelia mason-halei (Patw. & Prabhu) Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces imperfectus Arthur SPECIES
-=======
+# Uromyces imperfectus Arthur SPECIES
 
 #### Status
 ACCEPTED

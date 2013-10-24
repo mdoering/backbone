@@ -1,5 +1,4 @@
-Biatora laureri f. laureri FORM
-=======
+# Biatora laureri Hepp SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Biatora laureri f. laureri
+Biatora laureri Hepp
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecanora dennanensis Zahlbr. SPECIES
-=======
+# Lecanora dennanensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

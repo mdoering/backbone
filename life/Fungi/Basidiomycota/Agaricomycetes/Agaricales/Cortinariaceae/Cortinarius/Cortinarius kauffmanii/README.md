@@ -1,5 +1,4 @@
-Cortinarius kauffmanii Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius kauffmanii Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

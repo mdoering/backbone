@@ -1,5 +1,4 @@
-Dictyophora cinnabarina W.S. Lee SPECIES
-=======
+# Dictyophora cinnabarina W.S. Lee SPECIES
 
 #### Status
 ACCEPTED

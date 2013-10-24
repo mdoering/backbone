@@ -1,5 +1,4 @@
-Leohumicola lenta Hambl., Seifert & N.L. Nick., 2005 SPECIES
-=======
+# Leohumicola lenta Hambl., Seifert & N.L. Nick., 2005 SPECIES
 
 #### Status
 ACCEPTED

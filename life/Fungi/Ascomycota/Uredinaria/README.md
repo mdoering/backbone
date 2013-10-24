@@ -1,5 +1,4 @@
-Uredinaria Chevall. GENUS
-=======
+# Uredinaria Chevall. GENUS
 
 #### Status
 ACCEPTED

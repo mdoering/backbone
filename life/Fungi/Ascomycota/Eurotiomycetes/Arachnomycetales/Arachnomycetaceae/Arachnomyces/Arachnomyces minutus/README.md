@@ -1,5 +1,4 @@
-Arachnomyces minutus N. Singh & Mukerji SPECIES
-=======
+# Arachnomyces minutus N. Singh & Mukerji SPECIES
 
 #### Status
 ACCEPTED

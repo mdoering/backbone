@@ -1,5 +1,4 @@
-Gloeothece lunata W. West & G.S. West SPECIES
-=======
+# Gloeothece lunata W. West & G.S. West SPECIES
 
 #### Status
 ACCEPTED

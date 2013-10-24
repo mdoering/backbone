@@ -1,5 +1,4 @@
-Tholartella Haeckel, 1887 GENUS
-=======
+# Tholartella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

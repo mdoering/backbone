@@ -1,5 +1,4 @@
-Parmelia olivetorum var. olivetorum VARIETY
-=======
+# Parmelia olivetorum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia olivetorum var. olivetorum
+null
 
 ### Remarks
 null

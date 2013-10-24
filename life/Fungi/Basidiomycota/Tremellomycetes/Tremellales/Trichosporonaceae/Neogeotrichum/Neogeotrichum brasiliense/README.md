@@ -1,5 +1,4 @@
-Neogeotrichum brasiliense O. Magalh. SPECIES
-=======
+# Neogeotrichum brasiliense O. Magalh. SPECIES
 
 #### Status
 ACCEPTED

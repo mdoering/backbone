@@ -1,5 +1,4 @@
-Autoicomyces contortus (Thaxt.) I.I. Tav. SPECIES
-=======
+# Autoicomyces contortus (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

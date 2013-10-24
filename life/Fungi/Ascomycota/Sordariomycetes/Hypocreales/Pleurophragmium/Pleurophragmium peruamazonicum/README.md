@@ -1,5 +1,4 @@
-Pleurophragmium peruamazonicum var. peruamazonicum VARIETY
-=======
+# Pleurophragmium peruamazonicum Matsush. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Matsush. Mycol. Mem. 7: 61 (1993)
 
 #### Original name
-Pleurophragmium peruamazonicum var. peruamazonicum
+Pleurophragmium peruamazonicum Matsush.
 
 ### Remarks
 null

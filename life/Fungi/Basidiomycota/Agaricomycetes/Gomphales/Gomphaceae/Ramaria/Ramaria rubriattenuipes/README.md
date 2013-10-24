@@ -1,5 +1,4 @@
-Ramaria rubriattenuipes R.H. Petersen & M. Zang, 1989 SPECIES
-=======
+# Ramaria rubriattenuipes R.H. Petersen & M. Zang, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vandalosphaeridium reticulatum (Vidal, 1976) Vidal, 1981 SPECIES
-=======
+# Vandalosphaeridium reticulatum (Vidal, 1976) Vidal, 1981 SPECIES
 
 #### Status
 ACCEPTED

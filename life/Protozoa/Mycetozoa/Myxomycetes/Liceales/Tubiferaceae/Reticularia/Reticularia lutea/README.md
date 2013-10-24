@@ -1,5 +1,4 @@
-Reticularia lutea Bull. SPECIES
-=======
+# Reticularia lutea Bull. SPECIES
 
 #### Status
 ACCEPTED

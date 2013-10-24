@@ -1,5 +1,4 @@
-Caloplaca mooreae D.J. Galloway SPECIES
-=======
+# Caloplaca mooreae D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

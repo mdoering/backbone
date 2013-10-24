@@ -1,5 +1,4 @@
-Dwibahubeeja indica N. Srivast., A.K. Srivast. & Kamal, 1995 SPECIES
-=======
+# Dwibahubeeja indica N. Srivast., A.K. Srivast. & Kamal, 1995 SPECIES
 
 #### Status
 ACCEPTED

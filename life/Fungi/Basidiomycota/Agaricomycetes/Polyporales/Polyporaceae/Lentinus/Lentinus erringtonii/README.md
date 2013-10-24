@@ -1,5 +1,4 @@
-Lentinus erringtonii Pat. & Har. SPECIES
-=======
+# Lentinus erringtonii Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

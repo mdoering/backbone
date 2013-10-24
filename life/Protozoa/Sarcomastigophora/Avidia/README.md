@@ -1,5 +1,4 @@
-Avidia Haman, 1988 GENUS
-=======
+# Avidia Haman, 1988 GENUS
 
 #### Status
 ACCEPTED

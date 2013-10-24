@@ -1,5 +1,4 @@
-Stemonitis curitibensis Hertel SPECIES
-=======
+# Stemonitis curitibensis Hertel SPECIES
 
 #### Status
 ACCEPTED

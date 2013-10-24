@@ -1,5 +1,4 @@
-Diatrype loranthi Tend. SPECIES
-=======
+# Diatrype loranthi Tend. SPECIES
 
 #### Status
 ACCEPTED

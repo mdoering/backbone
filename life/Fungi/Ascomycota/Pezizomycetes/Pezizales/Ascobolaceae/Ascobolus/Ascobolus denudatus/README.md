@@ -1,17 +1,16 @@
-Ascobolus denudatus var. denudatus VARIETY
-=======
+# Ascobolus denudatus Fr., 1822 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syst. mycol. (Lundae) 2(1): 162 (1822)
 
 #### Original name
-Ascobolus denudatus var. denudatus
+Ascobolus denudatus Fr., 1822
 
 ### Remarks
 null

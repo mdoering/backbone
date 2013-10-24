@@ -1,5 +1,4 @@
-Balantidium falciformis Walker, 1909 SPECIES
-=======
+# Balantidium falciformis Walker, 1909 SPECIES
 
 #### Status
 ACCEPTED

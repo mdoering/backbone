@@ -1,5 +1,4 @@
-Tuburcinia subnuda Liro SPECIES
-=======
+# Tuburcinia subnuda Liro SPECIES
 
 #### Status
 ACCEPTED

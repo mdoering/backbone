@@ -1,5 +1,4 @@
-Ascochyta dicentrae Oudem. SPECIES
-=======
+# Ascochyta dicentrae Oudem. SPECIES
 
 #### Status
 ACCEPTED

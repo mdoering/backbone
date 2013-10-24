@@ -1,5 +1,4 @@
-Callopisma chalybaeum (Fr.) Trevis. SPECIES
-=======
+# Callopisma chalybaeum (Fr.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Arcyria fuliginea (Cooke & Massee) Massee, 1892 SPECIES
-=======
+# Arcyria oerstedii Rostaf., 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sluzowce monogr. (Paryz) 278 (1875)
 
 #### Original name
-null
+Arcyria oerstedii Rostaf., 1875
 
 ### Remarks
 null

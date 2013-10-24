@@ -1,5 +1,4 @@
-Zygophiala cryptogama Batzer & Crous SPECIES
-=======
+# Zygophiala cryptogama Batzer & Crous SPECIES
 
 #### Status
 ACCEPTED

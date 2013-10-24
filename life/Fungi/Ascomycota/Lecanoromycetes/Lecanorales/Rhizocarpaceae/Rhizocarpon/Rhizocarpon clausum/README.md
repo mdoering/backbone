@@ -1,14 +1,13 @@
-Lecidea clausa C. Knight SPECIES
-=======
+# Rhizocarpon clausum (C. Knight) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Shirley, Proc. R. Soc. Qd. 6: 183 (1889)
+Cat. Lich. Univers. 4: 350 (1926)
 
 #### Original name
 Lecidea clausa C. Knight

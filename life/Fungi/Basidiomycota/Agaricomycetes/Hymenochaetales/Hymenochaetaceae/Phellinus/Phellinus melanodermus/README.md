@@ -1,17 +1,16 @@
-Inonotus melanodermus (Pat.) Zmitr., Malysheva & Spirin, 2006 SPECIES
-=======
+# Phellinus melanodermus (Pat.) M. Fidalgo, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mem. N. Y. bot. Gdn 17: 135 (1968)
 
 #### Original name
-null
+Xanthochrous melanodermus Pat., 1897
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Diplodia hypoxyloides Ellis & Everh. SPECIES
-=======
+# Diplodia hypoxyloides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

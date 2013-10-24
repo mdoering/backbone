@@ -1,5 +1,4 @@
-Bacidia rivulicola (Vain.) Zahlbr. SPECIES
-=======
+# Bacidia rivulicola (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

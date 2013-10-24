@@ -1,5 +1,4 @@
-Stilbomyces Ellis & Everh. GENUS
-=======
+# Stilbomyces Ellis & Everh. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phormidites P. Palik, 1966 GENUS
-=======
+# Phormidites P. Palik, 1966 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oospora rutilans Cooke & Massee SPECIES
-=======
+# Oospora rutilans Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

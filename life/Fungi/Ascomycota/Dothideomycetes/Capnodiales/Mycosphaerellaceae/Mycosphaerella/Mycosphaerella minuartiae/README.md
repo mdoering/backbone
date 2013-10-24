@@ -1,5 +1,4 @@
-Mycosphaerella minuartiae Tomilin SPECIES
-=======
+# Mycosphaerella minuartiae Tomilin SPECIES
 
 #### Status
 ACCEPTED

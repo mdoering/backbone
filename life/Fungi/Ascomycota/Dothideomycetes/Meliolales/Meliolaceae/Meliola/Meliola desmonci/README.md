@@ -1,5 +1,4 @@
-Meliola desmonci Hansf. SPECIES
-=======
+# Meliola desmonci Hansf. SPECIES
 
 #### Status
 ACCEPTED

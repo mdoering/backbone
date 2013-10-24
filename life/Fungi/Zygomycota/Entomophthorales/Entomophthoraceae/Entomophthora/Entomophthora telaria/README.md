@@ -1,5 +1,4 @@
-Entomophthora telaria Giard SPECIES
-=======
+# Entomophthora telaria Giard SPECIES
 
 #### Status
 ACCEPTED

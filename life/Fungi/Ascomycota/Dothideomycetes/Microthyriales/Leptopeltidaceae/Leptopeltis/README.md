@@ -1,17 +1,16 @@
-Moesziella Petr. GENUS
-=======
+# Leptopeltis Höhn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 25(3/4): 323 (1927)
+Ber. dt. bot. Ges. 35: 422 (1917)
 
 #### Original name
-Moesziella Petr.
+Leptopeltis Höhn.
 
 ### Remarks
 null

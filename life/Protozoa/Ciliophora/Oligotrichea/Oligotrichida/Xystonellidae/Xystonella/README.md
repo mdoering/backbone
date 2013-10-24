@@ -1,5 +1,4 @@
-Xystonella Brandt, 1906 GENUS
-=======
+# Xystonella Brandt, 1906 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora woodfordiigena U. Braun & Crous SPECIES
-=======
+# Pseudocercospora woodfordiigena U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phanerochaete angustocystidiata Sheng H. Wu SPECIES
-=======
+# Phanerochaete angustocystidiata Sheng H. Wu SPECIES
 
 #### Status
 ACCEPTED

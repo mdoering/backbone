@@ -1,5 +1,4 @@
-Rhizomorpha laxa Rebent. SPECIES
-=======
+# Rhizomorpha laxa Rebent. SPECIES
 
 #### Status
 ACCEPTED

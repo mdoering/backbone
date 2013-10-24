@@ -1,5 +1,4 @@
-Belonidium fuscopallidum Bres. SPECIES
-=======
+# Belonidium fuscopallidum Bres. SPECIES
 
 #### Status
 ACCEPTED

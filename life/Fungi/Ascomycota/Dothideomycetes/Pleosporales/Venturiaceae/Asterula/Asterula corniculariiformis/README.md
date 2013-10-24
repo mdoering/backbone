@@ -1,5 +1,4 @@
-Asterula corniculariiformis Henn. SPECIES
-=======
+# Asterula corniculariiformis Henn. SPECIES
 
 #### Status
 ACCEPTED

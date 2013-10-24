@@ -1,5 +1,4 @@
-Mycena dextrinocystis Pegler SPECIES
-=======
+# Mycena dextrinocystis Pegler SPECIES
 
 #### Status
 ACCEPTED

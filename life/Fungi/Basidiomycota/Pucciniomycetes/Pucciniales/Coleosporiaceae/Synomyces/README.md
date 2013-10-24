@@ -1,5 +1,4 @@
-Synomyces GENUS
-=======
+# Synomyces GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mirandina dactylelloides Matsush. SPECIES
-=======
+# Mirandina dactylelloides Matsush. SPECIES
 
 #### Status
 ACCEPTED

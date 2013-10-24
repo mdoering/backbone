@@ -1,5 +1,4 @@
-Pertusaria pityreocarpa Erichsen SPECIES
-=======
+# Pertusaria pityreocarpa Erichsen SPECIES
 
 #### Status
 ACCEPTED

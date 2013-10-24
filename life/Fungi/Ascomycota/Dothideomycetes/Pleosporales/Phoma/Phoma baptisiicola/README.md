@@ -1,5 +1,4 @@
-Phoma baptisiicola Syd. SPECIES
-=======
+# Phoma baptisiicola Syd. SPECIES
 
 #### Status
 ACCEPTED

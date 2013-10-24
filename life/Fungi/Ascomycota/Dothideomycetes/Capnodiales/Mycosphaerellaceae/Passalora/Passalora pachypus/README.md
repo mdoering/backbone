@@ -1,5 +1,4 @@
-Passalora pachypus (Ellis & Kellerm.) U. Braun SPECIES
-=======
+# Passalora pachypus (Ellis & Kellerm.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

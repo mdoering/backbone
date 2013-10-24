@@ -1,8 +1,7 @@
-Coutourea couturea Desm. SPECIES
-=======
+# Coutourea castagnei Desm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Coutourea couturea Desm.
+Coutourea castagnei Desm.
 
 ### Remarks
 null

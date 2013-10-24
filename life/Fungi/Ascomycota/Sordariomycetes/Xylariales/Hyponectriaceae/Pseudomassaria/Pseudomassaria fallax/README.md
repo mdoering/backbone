@@ -1,5 +1,4 @@
-Pseudomassaria fallax (Petr.) Arx SPECIES
-=======
+# Pseudomassaria fallax (Petr.) Arx SPECIES
 
 #### Status
 ACCEPTED

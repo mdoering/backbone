@@ -1,5 +1,4 @@
-Phialea piriformis (Hedw.) Gillet SPECIES
-=======
+# Phialea piriformis (Hedw.) Gillet SPECIES
 
 #### Status
 ACCEPTED

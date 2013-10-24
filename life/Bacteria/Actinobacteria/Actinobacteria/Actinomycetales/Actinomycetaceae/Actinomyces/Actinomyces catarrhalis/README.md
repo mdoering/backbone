@@ -1,5 +1,4 @@
-Actinomyces catarrhalis (Sartory & A. Bailly) Brumpt SPECIES
-=======
+# Actinomyces catarrhalis (Sartory & A. Bailly) Brumpt SPECIES
 
 #### Status
 ACCEPTED

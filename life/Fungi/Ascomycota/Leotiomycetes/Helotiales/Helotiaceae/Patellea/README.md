@@ -1,5 +1,4 @@
-Patellea GENUS
-=======
+# Patellea GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Apteodinium Eisenack, 1958 GENUS
-=======
+# Apteodinium Eisenack, 1958 GENUS
 
 #### Status
 ACCEPTED

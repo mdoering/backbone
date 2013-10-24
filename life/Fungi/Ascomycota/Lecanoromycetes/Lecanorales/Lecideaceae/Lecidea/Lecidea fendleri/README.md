@@ -1,5 +1,4 @@
-Lecidea fendleri (Tuck. & Mont.) Nyl. SPECIES
-=======
+# Lecidea fendleri (Tuck. & Mont.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

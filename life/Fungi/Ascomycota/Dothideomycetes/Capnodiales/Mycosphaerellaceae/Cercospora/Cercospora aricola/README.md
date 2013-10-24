@@ -1,5 +1,4 @@
-Cercospora aricola Sacc. SPECIES
-=======
+# Cercospora aricola Sacc. SPECIES
 
 #### Status
 ACCEPTED

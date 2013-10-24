@@ -1,5 +1,4 @@
-Penicillium anomalum Corda SPECIES
-=======
+# Penicillium anomalum Corda SPECIES
 
 #### Status
 ACCEPTED

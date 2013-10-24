@@ -1,5 +1,4 @@
-Puccinia latimamma J.Y. Zhuang & S.X. Wei SPECIES
-=======
+# Puccinia latimamma J.Y. Zhuang & S.X. Wei SPECIES
 
 #### Status
 ACCEPTED

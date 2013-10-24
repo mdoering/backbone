@@ -1,5 +1,4 @@
-Lopharia pseudocinerascens Boidin & Gilles SPECIES
-=======
+# Lopharia pseudocinerascens Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

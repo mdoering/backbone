@@ -1,5 +1,4 @@
-Scytonema carolinianum Philson SPECIES
-=======
+# Scytonema carolinianum Philson SPECIES
 
 #### Status
 ACCEPTED

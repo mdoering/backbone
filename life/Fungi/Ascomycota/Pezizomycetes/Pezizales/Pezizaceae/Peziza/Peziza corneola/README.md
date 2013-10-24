@@ -1,5 +1,4 @@
-Peziza corneola Cooke & Peck SPECIES
-=======
+# Peziza corneola Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

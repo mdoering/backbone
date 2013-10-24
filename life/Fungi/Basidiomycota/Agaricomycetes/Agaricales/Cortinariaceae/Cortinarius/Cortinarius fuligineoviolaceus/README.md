@@ -1,5 +1,4 @@
-Cortinarius fuligineoviolaceus E. Horak SPECIES
-=======
+# Cortinarius fuligineoviolaceus E. Horak SPECIES
 
 #### Status
 ACCEPTED

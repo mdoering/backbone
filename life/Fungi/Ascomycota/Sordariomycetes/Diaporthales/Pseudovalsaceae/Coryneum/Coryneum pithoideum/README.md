@@ -1,5 +1,4 @@
-Coryneum pithoideum Dearn. & House SPECIES
-=======
+# Coryneum pithoideum Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

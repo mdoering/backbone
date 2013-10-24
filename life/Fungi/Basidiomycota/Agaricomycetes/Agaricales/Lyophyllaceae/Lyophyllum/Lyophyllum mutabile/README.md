@@ -1,5 +1,4 @@
-Lyophyllum mutabile J. Favre ex Contu & Consiglio SPECIES
-=======
+# Lyophyllum mutabile J. Favre ex Contu & Consiglio SPECIES
 
 #### Status
 ACCEPTED

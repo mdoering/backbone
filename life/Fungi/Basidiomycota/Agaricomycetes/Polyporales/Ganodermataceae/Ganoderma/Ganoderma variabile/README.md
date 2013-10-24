@@ -1,5 +1,4 @@
-Ganoderma variabile (Berk.) Pat. SPECIES
-=======
+# Ganoderma variabile (Berk.) Pat. SPECIES
 
 #### Status
 ACCEPTED

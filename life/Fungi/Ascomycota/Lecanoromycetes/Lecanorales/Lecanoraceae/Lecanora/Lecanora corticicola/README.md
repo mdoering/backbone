@@ -1,5 +1,4 @@
-Lecanora corticicola (Nyl.) Nyl. SPECIES
-=======
+# Lecanora corticicola (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

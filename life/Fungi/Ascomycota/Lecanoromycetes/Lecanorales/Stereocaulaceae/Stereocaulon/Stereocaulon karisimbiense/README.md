@@ -1,5 +1,4 @@
-Stereocaulon karisimbiense P.A. Duvign. SPECIES
-=======
+# Stereocaulon karisimbiense P.A. Duvign. SPECIES
 
 #### Status
 ACCEPTED

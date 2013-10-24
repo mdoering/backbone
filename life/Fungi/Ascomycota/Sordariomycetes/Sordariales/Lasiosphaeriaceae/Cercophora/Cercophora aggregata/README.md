@@ -1,5 +1,4 @@
-Cercophora aggregata N. Lundq. SPECIES
-=======
+# Cercophora aggregata N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

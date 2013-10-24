@@ -1,5 +1,4 @@
-Myrmaecium decorticans I. Hino & Katum. SPECIES
-=======
+# Myrmaecium decorticans I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

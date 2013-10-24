@@ -1,5 +1,4 @@
-Mycovellosiella solanacearum Bhalla, S.K. Singh & A.K. Srivast. SPECIES
-=======
+# Mycovellosiella solanacearum Bhalla, S.K. Singh & A.K. Srivast. SPECIES
 
 #### Status
 ACCEPTED

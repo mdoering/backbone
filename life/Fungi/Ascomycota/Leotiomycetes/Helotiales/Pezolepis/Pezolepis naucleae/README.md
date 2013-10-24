@@ -1,5 +1,4 @@
-Pezolepis naucleae Dennis SPECIES
-=======
+# Pezolepis naucleae Dennis SPECIES
 
 #### Status
 ACCEPTED

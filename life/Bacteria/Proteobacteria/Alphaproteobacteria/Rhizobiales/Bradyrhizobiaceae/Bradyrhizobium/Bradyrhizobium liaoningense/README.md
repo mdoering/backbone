@@ -1,5 +1,4 @@
-Bradyrhizobium liaoningense Xu et al., 1995 SPECIES
-=======
+# Bradyrhizobium liaoningense Xu et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

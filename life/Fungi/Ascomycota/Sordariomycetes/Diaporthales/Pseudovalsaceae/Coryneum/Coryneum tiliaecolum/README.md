@@ -1,5 +1,4 @@
-Coryneum tiliaecolum Ferraris & Lindegg SPECIES
-=======
+# Coryneum tiliaecolum Ferraris & Lindegg SPECIES
 
 #### Status
 ACCEPTED

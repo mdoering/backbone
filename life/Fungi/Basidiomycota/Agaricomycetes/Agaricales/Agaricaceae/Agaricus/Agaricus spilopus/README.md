@@ -1,5 +1,4 @@
-Agaricus spilopus Berk. & Broome SPECIES
-=======
+# Agaricus spilopus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

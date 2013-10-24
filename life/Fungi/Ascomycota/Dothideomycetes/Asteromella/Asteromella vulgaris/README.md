@@ -1,5 +1,4 @@
-Asteromella vulgaris Thüm. SPECIES
-=======
+# Asteromella vulgaris Thüm. SPECIES
 
 #### Status
 ACCEPTED

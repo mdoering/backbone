@@ -1,8 +1,7 @@
-Gymnodinium spirale mitra Schütt, 1895 SUBSPECIES
-=======
+# Gyrodinium mitrum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Leptogium faciifictum Verdon SPECIES
-=======
+# Leptogium faciifictum Verdon SPECIES
 
 #### Status
 ACCEPTED

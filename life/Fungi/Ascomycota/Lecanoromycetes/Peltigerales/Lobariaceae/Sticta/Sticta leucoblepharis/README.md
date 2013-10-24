@@ -1,5 +1,4 @@
-Sticta leucoblepharis Mont. SPECIES
-=======
+# Sticta leucoblepharis Mont. SPECIES
 
 #### Status
 ACCEPTED

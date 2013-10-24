@@ -1,5 +1,4 @@
-Pseudopeltula heppioides Henssen SPECIES
-=======
+# Pseudopeltula heppioides Henssen SPECIES
 
 #### Status
 ACCEPTED

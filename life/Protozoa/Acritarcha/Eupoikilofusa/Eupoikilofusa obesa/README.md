@@ -1,5 +1,4 @@
-Eupoikilofusa obesa Vavrdová, 1989 SPECIES
-=======
+# Eupoikilofusa obesa Vavrdová, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trechispora variseptata Burds. & Gilb. SPECIES
-=======
+# Trechispora variseptata Burds. & Gilb. SPECIES
 
 #### Status
 ACCEPTED

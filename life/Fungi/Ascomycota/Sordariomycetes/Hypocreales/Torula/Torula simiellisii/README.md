@@ -1,5 +1,4 @@
-Torula simiellisii G.V. Rao, K.A. Reddy & V.S. Rao SPECIES
-=======
+# Torula simiellisii G.V. Rao, K.A. Reddy & V.S. Rao SPECIES
 
 #### Status
 ACCEPTED

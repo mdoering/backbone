@@ -1,5 +1,4 @@
-Bagnisiella mirabilis (Starbäck) Theiss. SPECIES
-=======
+# Bagnisiella mirabilis (Starbäck) Theiss. SPECIES
 
 #### Status
 ACCEPTED

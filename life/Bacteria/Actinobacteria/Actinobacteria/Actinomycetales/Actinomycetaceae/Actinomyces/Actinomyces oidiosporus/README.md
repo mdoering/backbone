@@ -1,5 +1,4 @@
-Actinomyces oidiosporus Krassiln. SPECIES
-=======
+# Actinomyces oidiosporus Krassiln. SPECIES
 
 #### Status
 ACCEPTED

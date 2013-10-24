@@ -1,5 +1,4 @@
-Irene atra (Doidge) Doidge SPECIES
-=======
+# Irene atra (Doidge) Doidge SPECIES
 
 #### Status
 ACCEPTED

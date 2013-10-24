@@ -1,5 +1,4 @@
-Agaricus microsporus Ellis SPECIES
-=======
+# Agaricus microsporus Ellis SPECIES
 
 #### Status
 ACCEPTED

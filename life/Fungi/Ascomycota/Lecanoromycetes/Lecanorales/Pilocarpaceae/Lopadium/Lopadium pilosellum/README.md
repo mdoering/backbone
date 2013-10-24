@@ -1,5 +1,4 @@
-Lopadium pilosellum (Vain.) SPECIES
-=======
+# Lopadium pilosellum (Vain.) SPECIES
 
 #### Status
 ACCEPTED

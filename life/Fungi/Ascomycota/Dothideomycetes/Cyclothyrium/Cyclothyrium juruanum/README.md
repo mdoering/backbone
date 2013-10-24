@@ -1,5 +1,4 @@
-Cyclothyrium juruanum (Henn.) Aa SPECIES
-=======
+# Cyclothyrium juruanum (Henn.) Aa SPECIES
 
 #### Status
 ACCEPTED

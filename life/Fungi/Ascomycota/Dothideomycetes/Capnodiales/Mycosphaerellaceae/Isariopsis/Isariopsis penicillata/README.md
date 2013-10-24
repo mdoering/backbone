@@ -1,5 +1,4 @@
-Isariopsis penicillata Ellis & Everh. SPECIES
-=======
+# Isariopsis penicillata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

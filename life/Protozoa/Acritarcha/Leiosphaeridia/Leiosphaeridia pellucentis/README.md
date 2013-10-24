@@ -1,5 +1,4 @@
-Leiosphaeridia pellucentis (Xing Yusheng & Liu Kuizhih, 1973) Fensome et al., 1990 SPECIES
-=======
+# Leiosphaeridia pellucentis (Xing Yusheng & Liu Kuizhih, 1973) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

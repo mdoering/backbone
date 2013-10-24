@@ -1,5 +1,4 @@
-Aphanostigme jasmini Hansf. SPECIES
-=======
+# Aphanostigme jasmini Hansf. SPECIES
 
 #### Status
 ACCEPTED

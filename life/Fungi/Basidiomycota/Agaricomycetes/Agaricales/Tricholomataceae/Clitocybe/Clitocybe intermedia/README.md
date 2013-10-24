@@ -1,5 +1,4 @@
-Clitocybe intermedia Kauffman SPECIES
-=======
+# Clitocybe intermedia Kauffman SPECIES
 
 #### Status
 ACCEPTED

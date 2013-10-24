@@ -1,5 +1,4 @@
-Verrucaria bavarica Servít SPECIES
-=======
+# Verrucaria bavarica Servít SPECIES
 
 #### Status
 ACCEPTED

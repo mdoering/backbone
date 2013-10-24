@@ -1,5 +1,4 @@
-Lepiota steinhausii var. steinhausii VARIETY
-=======
+# Lepiota steinhausii (Penz.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lepiota steinhausii var. steinhausii
+Lepiota citri Steinhaus
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaerella myricae Ellis & Everh. SPECIES
-=======
+# Sphaerella myricae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

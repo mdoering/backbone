@@ -1,5 +1,4 @@
-Metasphaeria ambigua Berl. & Bres. SPECIES
-=======
+# Metasphaeria ambigua Berl. & Bres. SPECIES
 
 #### Status
 ACCEPTED

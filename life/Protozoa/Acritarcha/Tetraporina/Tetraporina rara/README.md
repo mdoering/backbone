@@ -1,5 +1,4 @@
-Tetraporina rara Kondratyev, 1963 SPECIES
-=======
+# Tetraporina rara Kondratyev, 1963 SPECIES
 
 #### Status
 ACCEPTED

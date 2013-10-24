@@ -1,5 +1,4 @@
-Cladosporium alliorum Hanzawa SPECIES
-=======
+# Cladosporium alliorum Hanzawa SPECIES
 
 #### Status
 ACCEPTED

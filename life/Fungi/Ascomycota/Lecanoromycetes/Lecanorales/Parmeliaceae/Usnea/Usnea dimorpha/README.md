@@ -1,5 +1,4 @@
-Usnea dimorpha (Müll. Arg.) Motyka SPECIES
-=======
+# Usnea dimorpha (Müll. Arg.) Motyka SPECIES
 
 #### Status
 ACCEPTED

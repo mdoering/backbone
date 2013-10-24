@@ -1,14 +1,13 @@
-Sphaeromphale lectissima (Fr.) Flot. SPECIES
-=======
+# Porina lectissima (Fr.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cat. Lich. 1: 388 (1922)
 
 #### Original name
 Segestria lectissima Fr.

@@ -1,5 +1,4 @@
-Arthonia gregantula Müll. Arg. SPECIES
-=======
+# Arthonia gregantula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

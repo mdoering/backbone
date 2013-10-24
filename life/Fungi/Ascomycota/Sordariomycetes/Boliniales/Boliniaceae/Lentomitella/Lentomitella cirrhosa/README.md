@@ -1,17 +1,16 @@
-Sphaeria cirrhosa var. cirrhosa VARIETY
-=======
+# Lentomitella cirrhosa (Pers.) Réblová, 2006 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 98(1): 82 (2006)
 
 #### Original name
-null
+Sphaeria cirrhosa Pers., 1801
 
 ### Remarks
 null

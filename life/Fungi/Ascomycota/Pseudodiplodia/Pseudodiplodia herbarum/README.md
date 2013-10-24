@@ -1,5 +1,4 @@
-Pseudodiplodia herbarum Strasser SPECIES
-=======
+# Pseudodiplodia herbarum Strasser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis kochiana Gaja SPECIES
-=======
+# Phomopsis kochiana Gaja SPECIES
 
 #### Status
 ACCEPTED

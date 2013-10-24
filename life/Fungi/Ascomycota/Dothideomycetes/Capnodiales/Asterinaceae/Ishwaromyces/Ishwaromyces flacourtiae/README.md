@@ -1,17 +1,16 @@
-Ishwaramyces flacourtiae Hosag., Kamar. & T. Sabu, 2004 SPECIES
-=======
+# Ishwaromyces flacourtiae Hosag., Kamar. & T. Sabu, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Hosagoudar, Biju & Abraham, J. Econ. Taxon. Bot. 28(1): 183 (2004)
 
 #### Original name
-Ishwaramyces flacourtiae Hosag., Kamar. & T. Sabu, 2004
+Ishwaromyces flacourtiae Hosag., Kamar. & T. Sabu, 2004
 
 ### Remarks
 null

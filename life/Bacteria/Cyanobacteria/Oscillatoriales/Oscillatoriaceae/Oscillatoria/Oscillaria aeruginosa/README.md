@@ -1,5 +1,4 @@
-Oscillaria aeruginosa (C. Agardh) Ruprecht SPECIES
-=======
+# Oscillaria aeruginosa (C. Agardh) Ruprecht SPECIES
 
 #### Status
 DOUBTFUL

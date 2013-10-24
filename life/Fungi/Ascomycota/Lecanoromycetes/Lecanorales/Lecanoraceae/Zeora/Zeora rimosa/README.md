@@ -1,5 +1,4 @@
-Zeora rimosa Kremp. SPECIES
-=======
+# Zeora rimosa Kremp. SPECIES
 
 #### Status
 ACCEPTED

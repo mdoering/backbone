@@ -1,5 +1,4 @@
-Tubercularia coryli Paol. SPECIES
-=======
+# Tubercularia coryli Paol. SPECIES
 
 #### Status
 ACCEPTED

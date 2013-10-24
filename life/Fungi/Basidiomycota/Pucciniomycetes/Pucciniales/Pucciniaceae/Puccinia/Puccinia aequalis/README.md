@@ -1,5 +1,4 @@
-Puccinia aequalis Henn. SPECIES
-=======
+# Puccinia aequalis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladobotryum virescens G.R.W. Arnold, 1987 SPECIES
-=======
+# Cladobotryum virescens G.R.W. Arnold, 1987 SPECIES
 
 #### Status
 ACCEPTED

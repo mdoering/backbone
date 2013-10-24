@@ -1,5 +1,4 @@
-Paxillus scleropus Rick SPECIES
-=======
+# Paxillus scleropus Rick SPECIES
 
 #### Status
 ACCEPTED

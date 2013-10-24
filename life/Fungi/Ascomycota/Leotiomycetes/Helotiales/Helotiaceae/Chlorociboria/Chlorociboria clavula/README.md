@@ -1,5 +1,4 @@
-Chlorociboria clavula P.R. Johnst., 2005 SPECIES
-=======
+# Chlorociboria clavula P.R. Johnst., 2005 SPECIES
 
 #### Status
 ACCEPTED

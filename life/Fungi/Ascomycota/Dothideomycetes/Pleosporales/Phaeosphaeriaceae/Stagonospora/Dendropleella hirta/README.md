@@ -1,5 +1,4 @@
-Dendropleella hirta (Fr.) Munk SPECIES
-=======
+# Dendropleella hirta (Fr.) Munk SPECIES
 
 #### Status
 ACCEPTED

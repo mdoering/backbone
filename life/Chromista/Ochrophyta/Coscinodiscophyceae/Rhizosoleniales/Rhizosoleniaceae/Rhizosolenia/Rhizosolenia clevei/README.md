@@ -1,5 +1,4 @@
-Rhizosolenia clevei var. communis Sundström, 1984 VARIETY
-=======
+# Rhizosolenia clevei Ostenfeld, 1902 SPECIES
 
 #### Status
 ACCEPTED

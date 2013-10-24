@@ -1,5 +1,4 @@
-Endoconidium luteolum Delacr. SPECIES
-=======
+# Endoconidium luteolum Delacr. SPECIES
 
 #### Status
 ACCEPTED

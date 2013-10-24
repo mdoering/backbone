@@ -1,5 +1,4 @@
-Amoeba limax Dujardin SPECIES
-=======
+# Amoeba limax Dujardin SPECIES
 
 #### Status
 ACCEPTED

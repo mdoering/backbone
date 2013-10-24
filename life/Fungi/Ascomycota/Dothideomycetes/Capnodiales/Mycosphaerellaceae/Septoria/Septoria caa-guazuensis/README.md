@@ -1,5 +1,4 @@
-Septoria caa-guazuensis Speg. SPECIES
-=======
+# Septoria caa-guazuensis Speg. SPECIES
 
 #### Status
 ACCEPTED

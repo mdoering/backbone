@@ -1,17 +1,16 @@
-Urceolaria novae-zelandiae C. Knight SPECIES
-=======
+# Diploschistes euganeus (A. Massal.) J. Steiner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Verh. zool. -bot. Ges. Wien 69(Zool. ): 96 (1892)
 
 #### Original name
-null
+Limboria euganea A. Massal.
 
 ### Remarks
 null

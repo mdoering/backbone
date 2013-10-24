@@ -1,5 +1,4 @@
-Lecanora ammiospiloides Nyl. SPECIES
-=======
+# Lecanora ammiospiloides Nyl. SPECIES
 
 #### Status
 ACCEPTED

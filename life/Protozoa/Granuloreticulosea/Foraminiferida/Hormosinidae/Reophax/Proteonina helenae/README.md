@@ -1,5 +1,4 @@
-Proteonina helenae Rhumbler, 1913 SPECIES
-=======
+# Proteonina helenae Rhumbler, 1913 SPECIES
 
 #### Status
 DOUBTFUL

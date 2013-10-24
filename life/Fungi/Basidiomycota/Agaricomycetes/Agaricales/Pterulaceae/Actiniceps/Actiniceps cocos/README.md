@@ -1,5 +1,4 @@
-Actiniceps cocos Subram. SPECIES
-=======
+# Actiniceps cocos Subram. SPECIES
 
 #### Status
 ACCEPTED

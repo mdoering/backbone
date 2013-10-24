@@ -1,5 +1,4 @@
-Diplodia rhosaecarpa Cooke SPECIES
-=======
+# Diplodia rhosaecarpa Cooke SPECIES
 
 #### Status
 ACCEPTED

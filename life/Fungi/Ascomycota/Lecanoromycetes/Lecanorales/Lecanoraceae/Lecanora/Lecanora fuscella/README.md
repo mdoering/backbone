@@ -1,5 +1,4 @@
-Lecanora fuscella (Schaer.) A. Massal. SPECIES
-=======
+# Lecanora fuscella (Schaer.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amorphomyces biformis Thaxt., 1931 SPECIES
-=======
+# Amorphomyces biformis Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

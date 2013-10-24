@@ -1,5 +1,4 @@
-Sphaerella mediterranea Sacc. SPECIES
-=======
+# Sphaerella mediterranea Sacc. SPECIES
 
 #### Status
 ACCEPTED

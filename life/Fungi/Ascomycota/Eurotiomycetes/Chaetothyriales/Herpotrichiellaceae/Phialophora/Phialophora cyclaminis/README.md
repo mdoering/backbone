@@ -1,5 +1,4 @@
-Phialophora cyclaminis J.F.H. Beyma, 1942 SPECIES
-=======
+# Phialophora cyclaminis J.F.H. Beyma, 1942 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Robillarda Castagne GENUS
-=======
+# Pestalotiopsis Steyaert, 1949 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Cat. Pl. Mars. 205 (1845)
+null
 
 #### Original name
-Robillarda Castagne
+null
 
 ### Remarks
 null

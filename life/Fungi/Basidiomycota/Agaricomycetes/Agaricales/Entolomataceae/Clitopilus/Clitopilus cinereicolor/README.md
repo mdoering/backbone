@@ -1,5 +1,4 @@
-Clitopilus cinereicolor Murrill SPECIES
-=======
+# Clitopilus cinereicolor Murrill SPECIES
 
 #### Status
 ACCEPTED

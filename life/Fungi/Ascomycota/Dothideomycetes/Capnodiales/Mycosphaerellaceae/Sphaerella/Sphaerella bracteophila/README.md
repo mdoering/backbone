@@ -1,5 +1,4 @@
-Sphaerella bracteophila Pass. SPECIES
-=======
+# Sphaerella bracteophila Pass. SPECIES
 
 #### Status
 ACCEPTED

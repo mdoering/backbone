@@ -1,5 +1,4 @@
-Setonophrys Jankowski, 1986 GENUS
-=======
+# Setonophrys Jankowski, 1986 GENUS
 
 #### Status
 ACCEPTED

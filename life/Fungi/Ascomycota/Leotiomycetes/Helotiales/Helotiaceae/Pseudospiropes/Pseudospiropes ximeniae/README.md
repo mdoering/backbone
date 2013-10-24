@@ -1,5 +1,4 @@
-Pseudospiropes ximeniae Z.Q. Shang & X.G. Zhang SPECIES
-=======
+# Pseudospiropes ximeniae Z.Q. Shang & X.G. Zhang SPECIES
 
 #### Status
 ACCEPTED

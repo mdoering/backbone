@@ -1,5 +1,4 @@
-Angiopsora melaena (Syd. & P. Syd.) Thirum. & F. Kern SPECIES
-=======
+# Angiopsora melaena (Syd. & P. Syd.) Thirum. & F. Kern SPECIES
 
 #### Status
 ACCEPTED

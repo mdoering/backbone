@@ -1,5 +1,4 @@
-Roseovarius crassostreae Boettcher et al., 2005 SPECIES
-=======
+# Roseovarius crassostreae Boettcher et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vaginicola solitaria Dumas, 1929 SPECIES
-=======
+# Vaginicola solitaria Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria acumulata Nyl. SPECIES
-=======
+# Verrucaria acumulata Nyl. SPECIES
 
 #### Status
 ACCEPTED

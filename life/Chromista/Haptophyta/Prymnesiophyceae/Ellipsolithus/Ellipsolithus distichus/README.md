@@ -1,5 +1,4 @@
-Ellipsolithus distichus (Bramlette & Sullivan, 1961) Sullivan, 1964 SPECIES
-=======
+# Ellipsolithus distichus (Bramlette & Sullivan, 1961) Sullivan, 1964 SPECIES
 
 #### Status
 ACCEPTED

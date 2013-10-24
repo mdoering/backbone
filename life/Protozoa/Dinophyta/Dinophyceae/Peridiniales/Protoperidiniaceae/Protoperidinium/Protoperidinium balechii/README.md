@@ -1,5 +1,4 @@
-Protoperidinium balechii (R. Akselman) E. Balech SPECIES
-=======
+# Protoperidinium balechii (R. Akselman) E. Balech SPECIES
 
 #### Status
 ACCEPTED

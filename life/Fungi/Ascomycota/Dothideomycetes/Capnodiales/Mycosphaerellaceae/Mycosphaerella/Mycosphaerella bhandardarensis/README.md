@@ -1,5 +1,4 @@
-Mycosphaerella bhandardarensis Patw. SPECIES
-=======
+# Mycosphaerella bhandardarensis Patw. SPECIES
 
 #### Status
 ACCEPTED

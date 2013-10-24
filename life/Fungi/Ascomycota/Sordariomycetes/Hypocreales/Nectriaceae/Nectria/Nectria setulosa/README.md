@@ -1,5 +1,4 @@
-Nectria setulosa Weese SPECIES
-=======
+# Nectria setulosa Weese SPECIES
 
 #### Status
 ACCEPTED

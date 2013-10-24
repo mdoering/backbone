@@ -1,5 +1,4 @@
-Graphina symplecta (Nyl.) Müll. Arg. SPECIES
-=======
+# Graphina symplecta (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

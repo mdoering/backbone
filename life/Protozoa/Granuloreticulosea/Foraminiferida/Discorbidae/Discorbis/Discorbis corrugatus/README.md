@@ -1,5 +1,4 @@
-Discorbis corrugatus (Millett) SPECIES
-=======
+# Discorbis corrugatus (Millett) SPECIES
 
 #### Status
 ACCEPTED

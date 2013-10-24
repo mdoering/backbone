@@ -1,5 +1,4 @@
-Diplodiopsis GENUS
-=======
+# Diplodiopsis GENUS
 
 #### Status
 ACCEPTED

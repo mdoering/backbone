@@ -1,14 +1,13 @@
-Clavaria boninensis S. Ito & S. Imai, 1937 SPECIES
-=======
+# Clavulinopsis boninensis (S. Ito & S. Imai) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Sapporo nat. Hist. Soc. 15: 53 (1937)
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 359 (1950)
 
 #### Original name
 Clavaria boninensis S. Ito & S. Imai, 1937

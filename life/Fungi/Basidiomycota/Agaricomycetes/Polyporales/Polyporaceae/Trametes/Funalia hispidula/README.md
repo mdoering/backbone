@@ -1,5 +1,4 @@
-Funalia hispidula (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Funalia hispidula (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

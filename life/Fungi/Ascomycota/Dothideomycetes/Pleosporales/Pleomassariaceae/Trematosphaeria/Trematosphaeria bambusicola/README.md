@@ -1,5 +1,4 @@
-Trematosphaeria bambusicola Rick SPECIES
-=======
+# Trematosphaeria bambusicola Rick SPECIES
 
 #### Status
 ACCEPTED

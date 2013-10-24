@@ -1,17 +1,16 @@
-Hypostigme Syd. GENUS
-=======
+# Parastigmatea Doidge GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 23(3/6): 337 (1925)
+Bothalia 1: 22 (1921)
 
 #### Original name
-Hypostigme Syd.
+Parastigmatea Doidge
 
 ### Remarks
 null

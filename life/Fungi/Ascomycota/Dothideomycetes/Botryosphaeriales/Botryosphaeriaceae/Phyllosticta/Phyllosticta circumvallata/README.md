@@ -1,5 +1,4 @@
-Phyllosticta circumvallata G. Winter SPECIES
-=======
+# Phyllosticta circumvallata G. Winter SPECIES
 
 #### Status
 ACCEPTED

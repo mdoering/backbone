@@ -1,5 +1,4 @@
-Lenticulina mamilligera (Karrer) SPECIES
-=======
+# Lenticulina mamilligera (Karrer) SPECIES
 
 #### Status
 ACCEPTED

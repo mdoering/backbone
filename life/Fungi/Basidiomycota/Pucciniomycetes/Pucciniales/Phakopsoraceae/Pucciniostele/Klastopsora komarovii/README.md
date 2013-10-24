@@ -1,17 +1,16 @@
-Klastopsora komarowii Dietel SPECIES
-=======
+# Klastopsora komarovii Dietel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 2: (1904)
 
 #### Original name
-Klastopsora komarowii Dietel
+Klastopsora komarovii Dietel
 
 ### Remarks
 null

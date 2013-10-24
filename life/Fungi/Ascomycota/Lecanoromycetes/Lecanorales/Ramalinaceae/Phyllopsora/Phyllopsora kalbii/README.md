@@ -1,5 +1,4 @@
-Phyllopsora kalbii Brako SPECIES
-=======
+# Phyllopsora kalbii Brako SPECIES
 
 #### Status
 ACCEPTED

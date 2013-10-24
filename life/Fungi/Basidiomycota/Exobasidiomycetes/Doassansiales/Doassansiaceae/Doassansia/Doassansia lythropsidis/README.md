@@ -1,5 +1,4 @@
-Doassansia lythropsidis Lagerh. SPECIES
-=======
+# Doassansia lythropsidis Lagerh. SPECIES
 
 #### Status
 ACCEPTED

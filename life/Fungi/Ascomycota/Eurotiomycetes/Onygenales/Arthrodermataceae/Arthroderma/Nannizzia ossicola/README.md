@@ -1,14 +1,13 @@
-Rollandina ossicola (Rostr.) Apinis, 1970 SPECIES
-=======
+# Nannizzia ossicola (O. Rostr.) Apinis, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 55(3): 501 (1970)
+Mycol. Pap. 96: 33 (1964)
 
 #### Original name
 Gymnoascus ossicola Rostr., 1897

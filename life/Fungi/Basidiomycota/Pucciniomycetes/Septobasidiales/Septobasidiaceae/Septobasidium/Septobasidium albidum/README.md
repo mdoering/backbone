@@ -1,5 +1,4 @@
-Septobasidium albidum Pat. SPECIES
-=======
+# Septobasidium albidum Pat. SPECIES
 
 #### Status
 ACCEPTED

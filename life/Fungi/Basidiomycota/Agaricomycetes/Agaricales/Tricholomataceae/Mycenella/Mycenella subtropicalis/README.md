@@ -1,5 +1,4 @@
-Mycenella subtropicalis Singer SPECIES
-=======
+# Mycenella subtropicalis Singer SPECIES
 
 #### Status
 ACCEPTED

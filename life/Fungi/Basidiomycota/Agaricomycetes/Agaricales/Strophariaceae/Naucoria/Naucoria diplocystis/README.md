@@ -1,5 +1,4 @@
-Naucoria diplocystis (Singer) Raithelh. SPECIES
-=======
+# Naucoria diplocystis (Singer) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

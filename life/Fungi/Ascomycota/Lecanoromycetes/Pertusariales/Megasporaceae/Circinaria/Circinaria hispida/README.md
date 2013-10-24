@@ -1,17 +1,16 @@
-Aspicilia hispida f. hispida FORM
-=======
+# Circinaria hispida (Mereschk.) A. Nordin, Savic & Tibell SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Aspicilia hispida f. hispida
+null
 
 ### Remarks
 null

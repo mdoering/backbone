@@ -1,5 +1,4 @@
-Mycosphaerella karajacensis (Allesch.) Tomilin SPECIES
-=======
+# Mycosphaerella karajacensis (Allesch.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

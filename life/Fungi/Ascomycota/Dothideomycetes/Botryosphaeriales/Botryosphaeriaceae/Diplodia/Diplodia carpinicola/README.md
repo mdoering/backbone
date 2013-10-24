@@ -1,5 +1,4 @@
-Diplodia carpinicola Politis SPECIES
-=======
+# Diplodia carpinicola Politis SPECIES
 
 #### Status
 ACCEPTED

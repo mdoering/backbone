@@ -1,5 +1,4 @@
-Bodo edax G.A. Klebs SPECIES
-=======
+# Bodo edax G.A. Klebs SPECIES
 
 #### Status
 ACCEPTED

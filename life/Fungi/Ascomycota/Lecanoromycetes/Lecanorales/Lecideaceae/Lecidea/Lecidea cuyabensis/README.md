@@ -1,5 +1,4 @@
-Lecidea cuyabensis Malme SPECIES
-=======
+# Lecidea cuyabensis Malme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lessardia elongata Saldarriaga & Taylor SPECIES
-=======
+# Lessardia elongata Saldarriaga & Taylor SPECIES
 
 #### Status
 ACCEPTED

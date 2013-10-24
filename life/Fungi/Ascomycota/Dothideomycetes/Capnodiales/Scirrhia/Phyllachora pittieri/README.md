@@ -1,8 +1,7 @@
-Phyllachora quadriloculata Pat., 1915 SPECIES
-=======
+# Phyllachora pittieri Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

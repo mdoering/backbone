@@ -1,5 +1,4 @@
-Lophiotrema epilobii Richon SPECIES
-=======
+# Lophiotrema epilobii Richon SPECIES
 
 #### Status
 ACCEPTED

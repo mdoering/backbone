@@ -1,17 +1,16 @@
-Paxillus obscurosporus C. Hahn SPECIES
-=======
+# Paxillus obscurisporus C. Hahn SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Hahn & Agerer, Nova Hedwigia 69(1-2): 268 (1999)
 
 #### Original name
-Paxillus obscurosporus C. Hahn
+Paxillus obscurisporus C. Hahn
 
 ### Remarks
 null

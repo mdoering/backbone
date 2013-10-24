@@ -1,5 +1,4 @@
-Heteroporus aculifer (Berk. & M.A. Curtis) SPECIES
-=======
+# Heteroporus aculifer (Berk. & M.A. Curtis) SPECIES
 
 #### Status
 ACCEPTED

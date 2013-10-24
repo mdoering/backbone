@@ -1,17 +1,16 @@
-Psilocybe semilanceata var. caerulescens (Cooke) Sacc., 1887 VARIETY
-=======
+# Psilocybe strictipes Singer & A.H. Sm., 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 5: 1051 (1887)
+Mycologia 50(1): 141 (1958)
 
 #### Original name
-Agaricus semilanceatus var. coerulescens Cooke, 1881
+Psilocybe strictipes Singer & A.H. Sm., 1958
 
 ### Remarks
 null

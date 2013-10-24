@@ -1,5 +1,4 @@
-Actinoptychus minutus Greville SPECIES
-=======
+# Actinoptychus minutus Greville SPECIES
 
 #### Status
 ACCEPTED

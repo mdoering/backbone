@@ -1,14 +1,13 @@
-Peritrichospora comata Kohlm., 1960 SPECIES
-=======
+# Corollospora comata (Kohlm.) Kohlm., 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 2: 323 (1960)
+Ber. dt. bot. Ges. 75: 126 (1962)
 
 #### Original name
 Peritrichospora comata Kohlm., 1960

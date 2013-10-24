@@ -1,5 +1,4 @@
-Stachylidium bassianum Mont. SPECIES
-=======
+# Stachylidium bassianum Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halanaerobacter salinarius Mouné et al., 1999 SPECIES
-=======
+# Halanaerobacter salinarius Mouné et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

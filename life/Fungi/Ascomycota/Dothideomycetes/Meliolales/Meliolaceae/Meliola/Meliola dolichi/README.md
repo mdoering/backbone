@@ -1,5 +1,4 @@
-Meliola dolichi Hosag. SPECIES
-=======
+# Meliola dolichi Hosag. SPECIES
 
 #### Status
 ACCEPTED

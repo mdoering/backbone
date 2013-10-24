@@ -1,5 +1,4 @@
-Pyrgo murrhina (Schwager, 1866) SPECIES
-=======
+# Pyrgo murrhina (Schwager, 1866) SPECIES
 
 #### Status
 ACCEPTED

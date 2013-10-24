@@ -1,5 +1,4 @@
-Meliola boedijniana Hansf. SPECIES
-=======
+# Meliola boedijniana Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chiastospora Riess GENUS
-=======
+# Chiastospora Riess GENUS
 
 #### Status
 ACCEPTED

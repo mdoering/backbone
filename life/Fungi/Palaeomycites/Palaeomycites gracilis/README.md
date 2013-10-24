@@ -1,5 +1,4 @@
-Palaeomycites gracilis (Renault) Mesch. SPECIES
-=======
+# Palaeomycites gracilis (Renault) Mesch. SPECIES
 
 #### Status
 ACCEPTED

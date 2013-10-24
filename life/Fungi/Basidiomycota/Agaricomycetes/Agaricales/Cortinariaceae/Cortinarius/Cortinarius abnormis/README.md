@@ -1,5 +1,4 @@
-Cortinarius abnormis Watling & T.W. May SPECIES
-=======
+# Cortinarius abnormis Watling & T.W. May SPECIES
 
 #### Status
 ACCEPTED

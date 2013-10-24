@@ -1,5 +1,4 @@
-Spongocapsula Pessagno, 1977 GENUS
-=======
+# Spongocapsula Pessagno, 1977 GENUS
 
 #### Status
 ACCEPTED

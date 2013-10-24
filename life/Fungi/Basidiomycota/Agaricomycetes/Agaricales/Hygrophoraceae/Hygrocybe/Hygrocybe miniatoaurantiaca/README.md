@@ -1,5 +1,4 @@
-Hygrocybe miniatoaurantiaca Hongo, 1990 SPECIES
-=======
+# Hygrocybe miniatoaurantiaca Hongo, 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tintinnopsis incurvata Meunier, 1910 SPECIES
-=======
+# Tintinnopsis incurvata Meunier, 1910 SPECIES
 
 #### Status
 ACCEPTED

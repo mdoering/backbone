@@ -1,5 +1,4 @@
-Russula ferrotincta Singer SPECIES
-=======
+# Russula ferrotincta Singer SPECIES
 
 #### Status
 ACCEPTED

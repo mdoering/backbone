@@ -1,5 +1,4 @@
-Squamaria casarettiana (De Not.) A. Massal. SPECIES
-=======
+# Squamaria casarettiana (De Not.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

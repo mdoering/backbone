@@ -1,5 +1,4 @@
-Nigredo euphlebia (Syd. & P. Syd.) Arthur SPECIES
-=======
+# Nigredo euphlebia (Syd. & P. Syd.) Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Muyocopron smilaciscaule Bat. SPECIES
-=======
+# Muyocopron smilaciscaule Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudozythia Höhn. GENUS
-=======
+# Pseudozythia Höhn. GENUS
 
 #### Status
 ACCEPTED

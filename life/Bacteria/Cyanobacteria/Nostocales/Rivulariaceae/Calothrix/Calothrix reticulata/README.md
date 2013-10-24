@@ -1,5 +1,4 @@
-Calothrix reticulata Berk. SPECIES
-=======
+# Calothrix reticulata Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fossil Palaeoclavariaceae FAMILY
-=======
+# Fossil Palaeoclavariaceae FAMILY
 
 #### Status
 ACCEPTED

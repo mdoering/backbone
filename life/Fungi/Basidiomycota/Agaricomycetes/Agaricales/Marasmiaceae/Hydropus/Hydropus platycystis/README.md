@@ -1,5 +1,4 @@
-Hydropus platycystis Singer SPECIES
-=======
+# Hydropus platycystis Singer SPECIES
 
 #### Status
 ACCEPTED

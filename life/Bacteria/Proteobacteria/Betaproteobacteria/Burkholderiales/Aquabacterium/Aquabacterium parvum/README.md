@@ -1,5 +1,4 @@
-Aquabacterium parvum Kalmbach et al., 1999 SPECIES
-=======
+# Aquabacterium parvum Kalmbach et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

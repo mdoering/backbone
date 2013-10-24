@@ -1,5 +1,4 @@
-Ladogella mamillosa (Welsch, 1986) Fatka & Brocke, 1999 SPECIES
-=======
+# Ladogella mamillosa (Welsch, 1986) Fatka & Brocke, 1999 SPECIES
 
 #### Status
 ACCEPTED

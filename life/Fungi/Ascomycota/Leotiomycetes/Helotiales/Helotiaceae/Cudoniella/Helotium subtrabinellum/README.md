@@ -1,5 +1,4 @@
-Helotium subtrabinellum Bres. SPECIES
-=======
+# Helotium subtrabinellum Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecania alexandrae Tomin SPECIES
-=======
+# Lecania alexandrae Tomin SPECIES
 
 #### Status
 ACCEPTED

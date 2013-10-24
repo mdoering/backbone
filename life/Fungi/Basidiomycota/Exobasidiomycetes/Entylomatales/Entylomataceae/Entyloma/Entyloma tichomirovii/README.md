@@ -1,5 +1,4 @@
-Entyloma tichomirovii Shkarupa SPECIES
-=======
+# Entyloma tichomirovii Shkarupa SPECIES
 
 #### Status
 ACCEPTED

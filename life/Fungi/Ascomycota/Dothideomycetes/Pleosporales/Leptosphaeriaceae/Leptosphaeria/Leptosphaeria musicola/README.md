@@ -1,5 +1,4 @@
-Leptosphaeria musicola (Speg.) Sacc. & Trotter SPECIES
-=======
+# Leptosphaeria musicola (Speg.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

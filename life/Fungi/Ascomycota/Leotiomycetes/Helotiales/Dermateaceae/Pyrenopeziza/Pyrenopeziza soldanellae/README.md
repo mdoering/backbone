@@ -1,5 +1,4 @@
-Pyrenopeziza soldanellae Petr. SPECIES
-=======
+# Pyrenopeziza soldanellae Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ombrophila kriegeriana Rabenh. SPECIES
-=======
+# Ombrophila kriegeriana Rabenh. SPECIES
 
 #### Status
 ACCEPTED

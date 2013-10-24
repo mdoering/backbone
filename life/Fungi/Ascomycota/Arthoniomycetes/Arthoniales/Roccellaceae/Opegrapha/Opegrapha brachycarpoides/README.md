@@ -1,5 +1,4 @@
-Opegrapha brachycarpoides Vain. SPECIES
-=======
+# Opegrapha brachycarpoides Vain. SPECIES
 
 #### Status
 ACCEPTED

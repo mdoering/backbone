@@ -1,5 +1,4 @@
-Ustalia anguina SPECIES
-=======
+# Ustalia anguina SPECIES
 
 #### Status
 ACCEPTED

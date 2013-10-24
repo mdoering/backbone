@@ -1,5 +1,4 @@
-Clavaria decolorans (P. Karst.) Sacc. SPECIES
-=======
+# Clavaria decolorans (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

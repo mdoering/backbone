@@ -1,5 +1,4 @@
-Pseudobaeospora aphana Vellinga SPECIES
-=======
+# Pseudobaeospora aphana Vellinga SPECIES
 
 #### Status
 ACCEPTED

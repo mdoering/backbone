@@ -1,14 +1,13 @@
-Malacodon candidum (J.C. Schmidt) Bataille SPECIES
-=======
+# Malacodon candidus (J.C. Schmidt) Bataille SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 39: 203 (1923)
 
 #### Original name
 Hydnum candidum Willd., 1788

@@ -1,5 +1,4 @@
-Stichoticha secunda SPECIES
-=======
+# Stichoticha secunda SPECIES
 
 #### Status
 ACCEPTED

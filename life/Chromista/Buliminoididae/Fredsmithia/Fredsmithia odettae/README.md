@@ -1,5 +1,4 @@
-Fredsmithia odettae McCulloch, 1977 SPECIES
-=======
+# Fredsmithia odettae McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

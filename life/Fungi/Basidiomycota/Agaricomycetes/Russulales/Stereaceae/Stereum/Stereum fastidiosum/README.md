@@ -1,5 +1,4 @@
-Stereum fastidiosum (Pers.) Lloyd SPECIES
-=======
+# Stereum fastidiosum (Pers.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

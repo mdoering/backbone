@@ -1,5 +1,4 @@
-Phoma acori Cooke SPECIES
-=======
+# Phoma acori Cooke SPECIES
 
 #### Status
 ACCEPTED

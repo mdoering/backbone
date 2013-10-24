@@ -1,5 +1,4 @@
-Pleurotus cinerescens Cleland SPECIES
-=======
+# Pleurotus cinerescens Cleland SPECIES
 
 #### Status
 ACCEPTED

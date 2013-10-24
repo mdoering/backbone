@@ -1,14 +1,13 @@
-Protoparmeliopsis laatokkaënsis (Räsänen) Moberg & R. Sant. SPECIES
-=======
+# Protoparmeliopsis laatokkensis (Räsänen) Moberg & R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Santesson, Moberg, Nordin, Tønsberg & Vitikainen, Lichen-Forming and Lichenicolous Fungi of Fennoscandia 269 (2004)
 
 #### Original name
 Parmularia laatokkensis Räsänen

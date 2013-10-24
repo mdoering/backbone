@@ -1,5 +1,4 @@
-Sphaeria sublanosa Cooke SPECIES
-=======
+# Sphaeria sublanosa Cooke SPECIES
 
 #### Status
 ACCEPTED

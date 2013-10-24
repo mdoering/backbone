@@ -1,5 +1,4 @@
-Graphis urandrae Vain. SPECIES
-=======
+# Graphis urandrae Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius brunneolus (Berk. & Broome) Pegler SPECIES
-=======
+# Marasmius brunneolus (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

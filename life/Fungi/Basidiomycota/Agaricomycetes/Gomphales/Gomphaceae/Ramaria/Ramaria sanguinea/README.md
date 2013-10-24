@@ -1,14 +1,13 @@
-Clavaria botrytis var. sanguinea (Pers.) Pers., 1801 VARIETY
-=======
+# Ramaria sanguinea (Pers.) Quél., 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. fung. (Göttingen) 2: 587 (1801)
+Fl. mycol. France (Paris) 466 (1888)
 
 #### Original name
 Clavaria sanguinea Pers., 1800

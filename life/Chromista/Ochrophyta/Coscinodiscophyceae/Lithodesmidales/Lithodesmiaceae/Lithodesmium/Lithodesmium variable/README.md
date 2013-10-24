@@ -1,5 +1,4 @@
-Lithodesmium variable Takano SPECIES
-=======
+# Lithodesmium variable Takano SPECIES
 
 #### Status
 ACCEPTED

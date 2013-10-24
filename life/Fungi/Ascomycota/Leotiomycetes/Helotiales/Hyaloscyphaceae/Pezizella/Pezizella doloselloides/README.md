@@ -1,5 +1,4 @@
-Pezizella doloselloides Velen. SPECIES
-=======
+# Pezizella doloselloides Velen. SPECIES
 
 #### Status
 ACCEPTED

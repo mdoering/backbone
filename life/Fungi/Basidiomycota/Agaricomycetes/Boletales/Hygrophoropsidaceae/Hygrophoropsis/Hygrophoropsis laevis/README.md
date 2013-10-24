@@ -1,5 +1,4 @@
-Hygrophoropsis laevis Heinem. & Rammeloo, 1985 SPECIES
-=======
+# Hygrophoropsis laevis Heinem. & Rammeloo, 1985 SPECIES
 
 #### Status
 ACCEPTED

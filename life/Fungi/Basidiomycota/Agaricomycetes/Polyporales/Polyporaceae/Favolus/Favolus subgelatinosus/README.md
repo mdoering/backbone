@@ -1,5 +1,4 @@
-Favolus subgelatinosus Berk. ex Cooke SPECIES
-=======
+# Favolus subgelatinosus Berk. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola araliicola W. Yamam. SPECIES
-=======
+# Meliola araliicola W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

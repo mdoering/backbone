@@ -1,5 +1,4 @@
-Phomopsis praetervisa Grove SPECIES
-=======
+# Phomopsis praetervisa Grove SPECIES
 
 #### Status
 ACCEPTED

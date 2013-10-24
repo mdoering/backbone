@@ -1,5 +1,4 @@
-Sappinia P.A. Dang. GENUS
-=======
+# Sappinia P.A. Dang. GENUS
 
 #### Status
 ACCEPTED

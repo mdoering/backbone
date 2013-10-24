@@ -1,5 +1,4 @@
-Septoria ecuadorensis Syd. SPECIES
-=======
+# Septoria ecuadorensis Syd. SPECIES
 
 #### Status
 ACCEPTED

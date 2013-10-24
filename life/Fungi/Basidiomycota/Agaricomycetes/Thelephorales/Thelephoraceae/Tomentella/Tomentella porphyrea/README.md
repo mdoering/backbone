@@ -1,5 +1,4 @@
-Tomentella porphyrea Petch SPECIES
-=======
+# Tomentella porphyrea Petch SPECIES
 
 #### Status
 ACCEPTED

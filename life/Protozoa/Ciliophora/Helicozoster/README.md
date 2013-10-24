@@ -1,5 +1,4 @@
-Helicozoster GENUS
-=======
+# Helicozoster GENUS
 
 #### Status
 ACCEPTED

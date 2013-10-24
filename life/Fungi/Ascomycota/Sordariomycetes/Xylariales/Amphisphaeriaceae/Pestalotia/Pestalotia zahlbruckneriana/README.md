@@ -1,5 +1,4 @@
-Pestalotia zahlbruckneriana Henn. SPECIES
-=======
+# Pestalotia zahlbruckneriana Henn. SPECIES
 
 #### Status
 ACCEPTED

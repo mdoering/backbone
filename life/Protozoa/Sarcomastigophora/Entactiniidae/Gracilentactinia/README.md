@@ -1,5 +1,4 @@
-Gracilentactinia GENUS
-=======
+# Gracilentactinia GENUS
 
 #### Status
 ACCEPTED

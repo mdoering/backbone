@@ -1,5 +1,4 @@
-Platyfolliculina Hadži, 1938 GENUS
-=======
+# Platyfolliculina Hadži, 1938 GENUS
 
 #### Status
 ACCEPTED

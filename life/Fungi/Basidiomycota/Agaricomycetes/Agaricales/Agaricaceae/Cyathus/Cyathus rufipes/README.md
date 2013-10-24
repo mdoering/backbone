@@ -1,5 +1,4 @@
-Cyathus rufipes Ellis & Everh. SPECIES
-=======
+# Cyathus rufipes Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

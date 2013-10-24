@@ -1,5 +1,4 @@
-Badhamia ovispora Racib., 1884 SPECIES
-=======
+# Badhamia ovispora Racib., 1884 SPECIES
 
 #### Status
 ACCEPTED

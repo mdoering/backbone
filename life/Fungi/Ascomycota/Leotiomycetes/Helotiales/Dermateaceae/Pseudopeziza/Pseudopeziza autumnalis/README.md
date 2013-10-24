@@ -1,5 +1,4 @@
-Pseudopeziza autumnalis (Fuckel) Sacc. SPECIES
-=======
+# Pseudopeziza autumnalis (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

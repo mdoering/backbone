@@ -1,5 +1,4 @@
-Vorticella halophila SPECIES
-=======
+# Vorticella halophila SPECIES
 
 #### Status
 ACCEPTED

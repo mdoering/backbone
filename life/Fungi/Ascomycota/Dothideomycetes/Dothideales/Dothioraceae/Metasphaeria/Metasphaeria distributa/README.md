@@ -1,5 +1,4 @@
-Metasphaeria distributa (Cooke & Ellis) Berl. SPECIES
-=======
+# Metasphaeria distributa (Cooke & Ellis) Berl. SPECIES
 
 #### Status
 ACCEPTED

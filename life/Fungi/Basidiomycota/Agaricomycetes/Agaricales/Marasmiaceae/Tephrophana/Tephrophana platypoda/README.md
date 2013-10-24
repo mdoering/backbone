@@ -1,5 +1,4 @@
-Tephrophana platypoda Kühner SPECIES
-=======
+# Tephrophana platypoda Kühner SPECIES
 
 #### Status
 ACCEPTED

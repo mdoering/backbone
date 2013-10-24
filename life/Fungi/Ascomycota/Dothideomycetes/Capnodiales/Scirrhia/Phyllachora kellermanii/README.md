@@ -1,5 +1,4 @@
-Phyllachora kellermanii (Rehm) Arx & E. Müll., 1954 SPECIES
-=======
+# Phyllachora kellermanii (Rehm) Arx & E. Müll., 1954 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Jubispora B. Sutton & H.J. Swart GENUS
-=======
+# Jubispora B. Sutton & H.J. Swart GENUS
 
 #### Status
 ACCEPTED

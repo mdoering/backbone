@@ -1,5 +1,4 @@
-Godronia bicellulata Schläpf.-Bernh. SPECIES
-=======
+# Godronia bicellulata Schläpf.-Bernh. SPECIES
 
 #### Status
 ACCEPTED

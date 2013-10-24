@@ -1,5 +1,4 @@
-Conocybe inocybeoides Watling, 1980 SPECIES
-=======
+# Conocybe inocybeoides Watling, 1980 SPECIES
 
 #### Status
 ACCEPTED

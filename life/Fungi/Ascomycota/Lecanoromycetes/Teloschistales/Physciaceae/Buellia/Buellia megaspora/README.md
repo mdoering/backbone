@@ -1,5 +1,4 @@
-Buellia megaspora (S. R. Singh & D. D. Awasthi) A. Nordin SPECIES
-=======
+# Buellia megaspora (S. R. Singh & D. D. Awasthi) A. Nordin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea medusula (C.W. Dodge) Hertel SPECIES
-=======
+# Lecidea medusula (C.W. Dodge) Hertel SPECIES
 
 #### Status
 ACCEPTED

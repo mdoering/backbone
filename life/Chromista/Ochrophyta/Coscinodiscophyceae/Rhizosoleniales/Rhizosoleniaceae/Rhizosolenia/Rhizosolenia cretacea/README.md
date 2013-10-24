@@ -1,5 +1,4 @@
-Rhizosolenia cretacea M. Hajós & H. Stradner SPECIES
-=======
+# Rhizosolenia cretacea M. Hajós & H. Stradner SPECIES
 
 #### Status
 ACCEPTED

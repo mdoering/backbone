@@ -1,8 +1,7 @@
-Dermocarpa suecica Kylin SPECIES
-=======
+# Stanieria suecica (Kylin) K. Anagnostidis & A. Pantazidou SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Gyrophora esculenta Miyoshi SPECIES
-=======
+# Gyrophora esculenta Miyoshi SPECIES
 
 #### Status
 ACCEPTED

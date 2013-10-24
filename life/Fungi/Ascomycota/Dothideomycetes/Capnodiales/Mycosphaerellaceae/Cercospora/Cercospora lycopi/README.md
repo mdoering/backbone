@@ -1,5 +1,4 @@
-Cercospora lycopi Ellis & Everh. SPECIES
-=======
+# Cercospora lycopi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

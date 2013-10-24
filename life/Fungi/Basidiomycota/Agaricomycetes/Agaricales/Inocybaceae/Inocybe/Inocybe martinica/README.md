@@ -1,5 +1,4 @@
-Inocybe martinica Pegler SPECIES
-=======
+# Inocybe martinica Pegler SPECIES
 
 #### Status
 ACCEPTED

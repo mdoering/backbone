@@ -1,5 +1,4 @@
-Puccinia arundinariae Schwein. SPECIES
-=======
+# Puccinia arundinariae Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bathelium porosum (Ach.) C.W. Dodge SPECIES
-=======
+# Bathelium porosum (Ach.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

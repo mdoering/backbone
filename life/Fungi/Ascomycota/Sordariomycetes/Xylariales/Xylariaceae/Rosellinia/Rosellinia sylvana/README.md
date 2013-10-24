@@ -1,5 +1,4 @@
-Rosellinia sylvana Sacc. SPECIES
-=======
+# Rosellinia sylvana Sacc. SPECIES
 
 #### Status
 ACCEPTED

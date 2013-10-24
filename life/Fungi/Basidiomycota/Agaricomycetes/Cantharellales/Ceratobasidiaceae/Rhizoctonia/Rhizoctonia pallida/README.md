@@ -1,5 +1,4 @@
-Rhizoctonia pallida Matz SPECIES
-=======
+# Rhizoctonia pallida Matz SPECIES
 
 #### Status
 ACCEPTED

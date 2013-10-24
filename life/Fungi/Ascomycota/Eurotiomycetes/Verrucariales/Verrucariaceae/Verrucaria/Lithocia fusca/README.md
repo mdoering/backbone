@@ -1,5 +1,4 @@
-Lithocia fusca (Pers.) Arnold SPECIES
-=======
+# Lithocia fusca (Pers.) Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cribrosphaerella daniae Perch-Nielsen, 1973 SPECIES
-=======
+# Cribrosphaerella daniae Perch-Nielsen, 1973 SPECIES
 
 #### Status
 ACCEPTED

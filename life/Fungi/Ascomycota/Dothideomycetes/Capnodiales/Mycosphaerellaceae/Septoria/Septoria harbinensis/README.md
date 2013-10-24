@@ -1,5 +1,4 @@
-Septoria harbinensis Miura SPECIES
-=======
+# Septoria harbinensis Miura SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spatangidium Brébisson, 1857 GENUS
-=======
+# Spatangidium Brébisson, 1857 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymosphaeria iranica Petr. SPECIES
-=======
+# Didymosphaeria iranica Petr. SPECIES
 
 #### Status
 ACCEPTED

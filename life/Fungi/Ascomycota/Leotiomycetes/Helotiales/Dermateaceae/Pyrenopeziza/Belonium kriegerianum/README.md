@@ -1,5 +1,4 @@
-Belonium kriegerianum Rehm SPECIES
-=======
+# Belonium kriegerianum Rehm SPECIES
 
 #### Status
 ACCEPTED

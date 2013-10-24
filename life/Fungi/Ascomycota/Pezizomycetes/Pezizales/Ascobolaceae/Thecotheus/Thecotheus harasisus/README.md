@@ -1,5 +1,4 @@
-Thecotheus harasisus Gené, El Shafie & Guarro SPECIES
-=======
+# Thecotheus harasisus Gené, El Shafie & Guarro SPECIES
 
 #### Status
 ACCEPTED

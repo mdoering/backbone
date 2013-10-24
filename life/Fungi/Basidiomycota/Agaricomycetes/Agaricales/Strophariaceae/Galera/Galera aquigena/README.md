@@ -1,5 +1,4 @@
-Galera aquigena (Britzelm.) Lapl. SPECIES
-=======
+# Galera aquigena (Britzelm.) Lapl. SPECIES
 
 #### Status
 ACCEPTED

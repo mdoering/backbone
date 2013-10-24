@@ -1,5 +1,4 @@
-Lusatia heteromorpha Vavrdová, 1986 SPECIES
-=======
+# Lusatia heteromorpha Vavrdová, 1986 SPECIES
 
 #### Status
 ACCEPTED

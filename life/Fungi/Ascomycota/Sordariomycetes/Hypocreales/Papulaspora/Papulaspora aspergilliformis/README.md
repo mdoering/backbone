@@ -1,5 +1,4 @@
-Papulaspora aspergilliformis Eidam, 1883 SPECIES
-=======
+# Papulaspora aspergilliformis Eidam, 1883 SPECIES
 
 #### Status
 ACCEPTED

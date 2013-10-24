@@ -1,5 +1,4 @@
-Myxosporium typhinae Grove SPECIES
-=======
+# Myxosporium typhinae Grove SPECIES
 
 #### Status
 ACCEPTED

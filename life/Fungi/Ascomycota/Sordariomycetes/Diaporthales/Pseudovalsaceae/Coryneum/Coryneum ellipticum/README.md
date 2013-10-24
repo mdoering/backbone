@@ -1,5 +1,4 @@
-Coryneum ellipticum Berk. & Broome SPECIES
-=======
+# Coryneum ellipticum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

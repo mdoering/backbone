@@ -1,5 +1,4 @@
-Phoma pteleicola Hollós SPECIES
-=======
+# Phoma pteleicola Hollós SPECIES
 
 #### Status
 ACCEPTED

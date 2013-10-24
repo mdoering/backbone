@@ -1,5 +1,4 @@
-Sphacelotheca exserta (McAlpine) W.Y. Yen SPECIES
-=======
+# Sphacelotheca exserta (McAlpine) W.Y. Yen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spongiophytaceae FAMILY
-=======
+# Spongiophytaceae FAMILY
 
 #### Status
 ACCEPTED

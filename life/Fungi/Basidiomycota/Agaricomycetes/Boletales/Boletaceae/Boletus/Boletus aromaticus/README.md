@@ -1,5 +1,4 @@
-Boletus aromaticus Pat. SPECIES
-=======
+# Boletus aromaticus Pat. SPECIES
 
 #### Status
 ACCEPTED

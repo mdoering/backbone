@@ -1,5 +1,4 @@
-Phoma schizandrae Ablak. & Koval SPECIES
-=======
+# Phoma schizandrae Ablak. & Koval SPECIES
 
 #### Status
 ACCEPTED

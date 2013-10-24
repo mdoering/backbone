@@ -1,5 +1,4 @@
-Hymenagaricus pallidodiscus D.A. Reid & Eicker SPECIES
-=======
+# Hymenagaricus pallidodiscus D.A. Reid & Eicker SPECIES
 
 #### Status
 ACCEPTED

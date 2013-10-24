@@ -1,5 +1,4 @@
-Sphenospora kevorkianii Linder, 1944 SPECIES
-=======
+# Sphenospora kevorkianii Linder, 1944 SPECIES
 
 #### Status
 ACCEPTED

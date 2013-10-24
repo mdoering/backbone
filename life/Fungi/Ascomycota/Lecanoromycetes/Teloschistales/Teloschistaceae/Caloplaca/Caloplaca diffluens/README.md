@@ -1,5 +1,4 @@
-Caloplaca diffluens (Hue) Zahlbr. SPECIES
-=======
+# Caloplaca diffluens (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

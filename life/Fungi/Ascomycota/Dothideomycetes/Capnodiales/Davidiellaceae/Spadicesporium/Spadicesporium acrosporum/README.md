@@ -1,5 +1,4 @@
-Spadicesporium acrosporum V.N. Boriss. & Dvoïnos SPECIES
-=======
+# Spadicesporium acrosporum V.N. Boriss. & Dvoïnos SPECIES
 
 #### Status
 ACCEPTED

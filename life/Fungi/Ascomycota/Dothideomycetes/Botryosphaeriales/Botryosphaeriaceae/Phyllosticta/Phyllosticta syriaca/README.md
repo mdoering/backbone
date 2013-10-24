@@ -1,5 +1,4 @@
-Phyllosticta syriaca Sacc. SPECIES
-=======
+# Phyllosticta syriaca Sacc. SPECIES
 
 #### Status
 ACCEPTED

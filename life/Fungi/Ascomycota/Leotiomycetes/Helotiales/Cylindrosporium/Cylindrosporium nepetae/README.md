@@ -1,5 +1,4 @@
-Cylindrosporium nepetae Annal. SPECIES
-=======
+# Cylindrosporium nepetae Annal. SPECIES
 
 #### Status
 ACCEPTED

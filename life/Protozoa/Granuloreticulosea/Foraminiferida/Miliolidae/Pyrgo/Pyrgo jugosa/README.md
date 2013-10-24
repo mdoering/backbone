@@ -1,5 +1,4 @@
-Pyrgo jugosa SPECIES
-=======
+# Pyrgo jugosa SPECIES
 
 #### Status
 ACCEPTED

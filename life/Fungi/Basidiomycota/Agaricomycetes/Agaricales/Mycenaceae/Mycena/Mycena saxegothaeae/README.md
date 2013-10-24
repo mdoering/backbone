@@ -1,5 +1,4 @@
-Mycena saxegothaeae Singer SPECIES
-=======
+# Mycena saxegothaeae Singer SPECIES
 
 #### Status
 ACCEPTED

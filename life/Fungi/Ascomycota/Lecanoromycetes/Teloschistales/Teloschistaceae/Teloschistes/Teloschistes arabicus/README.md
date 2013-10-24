@@ -1,5 +1,4 @@
-Teloschistes arabicus Frödén SPECIES
-=======
+# Teloschistes arabicus Frödén SPECIES
 
 #### Status
 ACCEPTED

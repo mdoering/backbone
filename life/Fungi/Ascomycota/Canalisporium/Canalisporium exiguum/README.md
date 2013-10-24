@@ -1,5 +1,4 @@
-Canalisporium exiguum Goh & K.D. Hyde SPECIES
-=======
+# Canalisporium exiguum Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

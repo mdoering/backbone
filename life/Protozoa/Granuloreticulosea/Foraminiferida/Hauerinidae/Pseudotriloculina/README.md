@@ -1,14 +1,13 @@
-Sinuloculina Luczkowska, 1972 GENUS
-=======
+# Pseudotriloculina Cherif, 1973 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+IRMNG Homonym List
 
 #### Published in
-null
+Neues Jb. Geol. Palaont. Abh. 142: 92.
 
 #### Original name
 null

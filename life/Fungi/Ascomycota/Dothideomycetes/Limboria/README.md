@@ -1,5 +1,4 @@
-Limboria Ach. GENUS
-=======
+# Limboria Ach. GENUS
 
 #### Status
 ACCEPTED

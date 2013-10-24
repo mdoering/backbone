@@ -1,5 +1,4 @@
-Sphaerobasidioscypha citrispora Agerer, 1983 SPECIES
-=======
+# Sphaerobasidioscypha citrispora Agerer, 1983 SPECIES
 
 #### Status
 ACCEPTED

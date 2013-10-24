@@ -1,5 +1,4 @@
-Psathyrella lanatipes A.H. Sm. SPECIES
-=======
+# Psathyrella lanatipes A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

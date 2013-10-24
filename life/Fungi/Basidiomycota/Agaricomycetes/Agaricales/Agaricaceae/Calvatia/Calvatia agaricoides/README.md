@@ -1,5 +1,4 @@
-Calvatia agaricoides Dissing & M. Lange SPECIES
-=======
+# Calvatia agaricoides Dissing & M. Lange SPECIES
 
 #### Status
 ACCEPTED

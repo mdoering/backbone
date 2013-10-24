@@ -1,5 +1,4 @@
-Verrucaria bakonyensis Servít SPECIES
-=======
+# Verrucaria bakonyensis Servít SPECIES
 
 #### Status
 ACCEPTED

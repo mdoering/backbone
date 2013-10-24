@@ -1,5 +1,4 @@
-Strigula feei Mont. SPECIES
-=======
+# Strigula feei Mont. SPECIES
 
 #### Status
 ACCEPTED

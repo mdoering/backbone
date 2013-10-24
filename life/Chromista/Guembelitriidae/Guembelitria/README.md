@@ -1,5 +1,4 @@
-Guembelitria Cushman, 1933 GENUS
-=======
+# Guembelitria Cushman, 1933 GENUS
 
 #### Status
 ACCEPTED

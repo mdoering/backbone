@@ -1,5 +1,4 @@
-Phaeociboria agaricicola (Berk. & Broome) Dennis SPECIES
-=======
+# Phaeociboria agaricicola (Berk. & Broome) Dennis SPECIES
 
 #### Status
 ACCEPTED

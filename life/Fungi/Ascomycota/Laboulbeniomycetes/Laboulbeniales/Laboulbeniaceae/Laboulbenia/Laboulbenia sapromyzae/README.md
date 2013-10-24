@@ -1,5 +1,4 @@
-Laboulbenia sapromyzae Thaxt. SPECIES
-=======
+# Laboulbenia sapromyzae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

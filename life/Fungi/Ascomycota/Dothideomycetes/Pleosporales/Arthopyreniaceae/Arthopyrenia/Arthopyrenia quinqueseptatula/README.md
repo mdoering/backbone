@@ -1,5 +1,4 @@
-Arthopyrenia quinqueseptatula (Nyl.) Müll. Arg. SPECIES
-=======
+# Arthopyrenia quinqueseptatula (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

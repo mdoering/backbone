@@ -1,5 +1,4 @@
-Eccilia lanica (Romagn.) SPECIES
-=======
+# Eccilia lanica (Romagn.) SPECIES
 
 #### Status
 ACCEPTED

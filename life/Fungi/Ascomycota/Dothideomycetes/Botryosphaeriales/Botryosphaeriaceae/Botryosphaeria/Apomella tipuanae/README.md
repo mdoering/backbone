@@ -1,5 +1,4 @@
-Apomella tipuanae Bat., J.L. Bezerra & Poroca SPECIES
-=======
+# Apomella tipuanae Bat., J.L. Bezerra & Poroca SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina eugeniae Mont. SPECIES
-=======
+# Asterina eugeniae Mont. SPECIES
 
 #### Status
 ACCEPTED

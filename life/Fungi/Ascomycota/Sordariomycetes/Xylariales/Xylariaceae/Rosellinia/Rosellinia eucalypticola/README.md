@@ -1,5 +1,4 @@
-Rosellinia eucalypticola Henn. & E. Nyman SPECIES
-=======
+# Rosellinia eucalypticola Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

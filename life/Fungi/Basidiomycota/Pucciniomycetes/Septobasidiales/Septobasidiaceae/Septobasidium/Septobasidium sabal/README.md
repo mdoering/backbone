@@ -1,17 +1,16 @@
-Septobasidium sabalis Couch ex L.D. Gómez & Henk SPECIES
-=======
+# Septobasidium sabal Couch ex L.D. Gómez & Henk SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lankesteriana 4(1): 91 (2004)
 
 #### Original name
-Septobasidium sabalis Couch ex L.D. Gómez & Henk
+Septobasidium sabal Couch ex L.D. Gómez & Henk
 
 ### Remarks
 null

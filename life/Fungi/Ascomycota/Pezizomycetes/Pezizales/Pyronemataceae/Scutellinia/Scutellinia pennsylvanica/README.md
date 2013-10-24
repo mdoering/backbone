@@ -1,5 +1,4 @@
-Scutellinia pennsylvanica (Seaver) Denison SPECIES
-=======
+# Scutellinia pennsylvanica (Seaver) Denison SPECIES
 
 #### Status
 ACCEPTED

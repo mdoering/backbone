@@ -1,5 +1,4 @@
-Acia tomentosa (Schrad. ex J. Schröt.) P. Karst. SPECIES
-=======
+# Acia tomentosa (Schrad. ex J. Schröt.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

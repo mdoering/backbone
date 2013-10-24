@@ -1,5 +1,4 @@
-Graphium pruinosipes (Peck) Sacc. SPECIES
-=======
+# Graphium pruinosipes (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

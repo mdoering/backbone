@@ -1,5 +1,4 @@
-Rhachomyces pilosellus (C.P. Robin) Thaxt. SPECIES
-=======
+# Rhachomyces pilosellus (C.P. Robin) Thaxt. SPECIES
 
 #### Status
 ACCEPTED

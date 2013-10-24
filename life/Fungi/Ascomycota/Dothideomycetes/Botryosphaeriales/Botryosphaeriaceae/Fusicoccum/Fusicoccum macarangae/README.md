@@ -1,5 +1,4 @@
-Fusicoccum macarangae Höhn. SPECIES
-=======
+# Fusicoccum macarangae Höhn. SPECIES
 
 #### Status
 ACCEPTED

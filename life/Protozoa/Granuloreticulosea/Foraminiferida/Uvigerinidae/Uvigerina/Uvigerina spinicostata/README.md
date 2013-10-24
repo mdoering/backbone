@@ -1,5 +1,4 @@
-Uvigerina spinicostata var. acuminata Thalmann, 1949 VARIETY
-=======
+# Uvigerina spinicostata Cushman & Jarvis, 1929 SPECIES
 
 #### Status
 ACCEPTED

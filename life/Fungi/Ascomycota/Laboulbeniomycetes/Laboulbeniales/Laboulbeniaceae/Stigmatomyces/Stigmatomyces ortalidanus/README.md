@@ -1,5 +1,4 @@
-Stigmatomyces ortalidanus Thaxt. SPECIES
-=======
+# Stigmatomyces ortalidanus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

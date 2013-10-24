@@ -1,5 +1,4 @@
-Operculigera Kane, 1969 GENUS
-=======
+# Operculigera Kane, 1969 GENUS
 
 #### Status
 ACCEPTED

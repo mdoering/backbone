@@ -1,5 +1,4 @@
-Glomulina Rhumbler, 1936 GENUS
-=======
+# Glomulina Rhumbler, 1936 GENUS
 
 #### Status
 ACCEPTED

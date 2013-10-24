@@ -1,5 +1,4 @@
-Peziza elachroa Berk. & M.A. Curtis SPECIES
-=======
+# Peziza elachroa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

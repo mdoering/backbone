@@ -1,5 +1,4 @@
-Hexagonia warburgiana (Henn.) Teixeira SPECIES
-=======
+# Hexagonia warburgiana (Henn.) Teixeira SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius badius Verbeken SPECIES
-=======
+# Lactarius badius Verbeken SPECIES
 
 #### Status
 ACCEPTED

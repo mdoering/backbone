@@ -1,14 +1,13 @@
-Ustilago arenariae-bryophyllae Vánky, 1983 SPECIES
-=======
+# Microbotryum arenariae-bryophyllae (Vánky) Vánky, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 18(2): 333 (1983)
+Mycotaxon 67: 40 (1998)
 
 #### Original name
 Ustilago arenariae-bryophyllae Vánky, 1983

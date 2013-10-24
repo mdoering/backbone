@@ -1,5 +1,4 @@
-Trichoscypha insititia (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Trichoscypha insititia (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

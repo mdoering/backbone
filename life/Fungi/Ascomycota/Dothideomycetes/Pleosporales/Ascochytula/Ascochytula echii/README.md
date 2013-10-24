@@ -1,5 +1,4 @@
-Ascochytula echii Petr. SPECIES
-=======
+# Ascochytula echii Petr. SPECIES
 
 #### Status
 ACCEPTED

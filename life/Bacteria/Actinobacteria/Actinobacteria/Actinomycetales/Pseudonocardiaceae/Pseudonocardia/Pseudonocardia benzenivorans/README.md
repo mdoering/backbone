@@ -1,5 +1,4 @@
-Pseudonocardia benzenivorans Kämpfer & Kroppenstedt, 2004 SPECIES
-=======
+# Pseudonocardia benzenivorans Kämpfer & Kroppenstedt, 2004 SPECIES
 
 #### Status
 ACCEPTED

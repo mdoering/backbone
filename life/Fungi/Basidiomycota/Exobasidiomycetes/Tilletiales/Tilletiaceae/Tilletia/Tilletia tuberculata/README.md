@@ -1,5 +1,4 @@
-Tilletia tuberculata Durán SPECIES
-=======
+# Tilletia tuberculata Durán SPECIES
 
 #### Status
 ACCEPTED

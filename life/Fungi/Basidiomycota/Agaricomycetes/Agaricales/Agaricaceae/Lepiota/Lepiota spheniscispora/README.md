@@ -1,5 +1,4 @@
-Lepiota spheniscispora Vellinga SPECIES
-=======
+# Lepiota spheniscispora Vellinga SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyota bifurca J. Agardh SPECIES
-=======
+# Dictyota bifurca J. Agardh SPECIES
 
 #### Status
 ACCEPTED

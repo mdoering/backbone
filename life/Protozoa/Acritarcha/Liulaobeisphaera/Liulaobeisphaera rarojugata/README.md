@@ -1,5 +1,4 @@
-Liulaobeisphaera rarojugata Yang Qinghe et al., 1980 SPECIES
-=======
+# Liulaobeisphaera rarojugata Yang Qinghe et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

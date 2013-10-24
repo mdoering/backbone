@@ -1,5 +1,4 @@
-Pseudopyrenula pupula (Ach.) Müll. Arg. SPECIES
-=======
+# Pseudopyrenula pupula (Ach.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

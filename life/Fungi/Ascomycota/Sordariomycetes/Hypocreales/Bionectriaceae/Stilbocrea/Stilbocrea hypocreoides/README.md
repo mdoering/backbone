@@ -1,5 +1,4 @@
-Stilbocrea hypocreoides (Kalchbr. & Cooke) Seaver SPECIES
-=======
+# Stilbocrea hypocreoides (Kalchbr. & Cooke) Seaver SPECIES
 
 #### Status
 ACCEPTED

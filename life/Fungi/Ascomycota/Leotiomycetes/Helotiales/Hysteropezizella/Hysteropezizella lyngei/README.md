@@ -1,14 +1,13 @@
-Naevia lyngei Lind, 1924 SPECIES
-=======
+# Hysteropezizella lyngei (Lind) Nannf., 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Report Sci. Res. Norweg. Exped. Novaya Zemlya, 1921 19: 8 (1924)
+Nova Acta R. Soc. Scient. upsal. , Ser. 2 8(no. 2): 119 (1932)
 
 #### Original name
 Naevia lyngei Lind, 1924

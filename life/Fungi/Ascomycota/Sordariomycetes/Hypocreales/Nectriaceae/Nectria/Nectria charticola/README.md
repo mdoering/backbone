@@ -1,14 +1,13 @@
-Nectria chartaecola (Fuckel) Sacc. SPECIES
-=======
+# Nectria charticola (Fuckel) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Michelia 1(no. 3): 289 (1878)
 
 #### Original name
 Nectriella charticola Fuckel

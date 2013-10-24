@@ -1,5 +1,4 @@
-Bacidia corisopitensis Piqu. {?} SPECIES
-=======
+# Bacidia corisopitensis Piqu. {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita concentrica T. Oda, C. Tanaka & Tsuda SPECIES
-=======
+# Amanita concentrica T. Oda, C. Tanaka & Tsuda SPECIES
 
 #### Status
 ACCEPTED

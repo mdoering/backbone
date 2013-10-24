@@ -1,5 +1,4 @@
-Amoebophyra GENUS
-=======
+# Amoebophyra GENUS
 
 #### Status
 ACCEPTED

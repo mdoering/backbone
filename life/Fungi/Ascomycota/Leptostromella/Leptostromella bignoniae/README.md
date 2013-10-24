@@ -1,5 +1,4 @@
-Leptostromella bignoniae Dearn. SPECIES
-=======
+# Leptostromella bignoniae Dearn. SPECIES
 
 #### Status
 ACCEPTED

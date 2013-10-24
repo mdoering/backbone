@@ -1,5 +1,4 @@
-Colpoda orientalis Foissner, 1993 SPECIES
-=======
+# Colpoda orientalis Foissner, 1993 SPECIES
 
 #### Status
 ACCEPTED

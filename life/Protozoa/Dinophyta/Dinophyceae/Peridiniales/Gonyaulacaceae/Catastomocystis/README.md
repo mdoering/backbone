@@ -1,5 +1,4 @@
-Catastomocystis C. Singh, 1983 GENUS
-=======
+# Catastomocystis C. Singh, 1983 GENUS
 
 #### Status
 ACCEPTED

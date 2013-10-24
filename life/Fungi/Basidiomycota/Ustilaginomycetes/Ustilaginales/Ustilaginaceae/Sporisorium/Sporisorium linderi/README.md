@@ -1,5 +1,4 @@
-Sporisorium linderi (Zundel) Vánky SPECIES
-=======
+# Sporisorium linderi (Zundel) Vánky SPECIES
 
 #### Status
 ACCEPTED

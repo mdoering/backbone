@@ -1,5 +1,4 @@
-Lepiota caerulea Beardslee SPECIES
-=======
+# Lepiota caerulea Beardslee SPECIES
 
 #### Status
 ACCEPTED

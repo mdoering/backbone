@@ -1,5 +1,4 @@
-Mycoderma rotundatum (Castell.) Brumpt SPECIES
-=======
+# Mycoderma rotundatum (Castell.) Brumpt SPECIES
 
 #### Status
 ACCEPTED

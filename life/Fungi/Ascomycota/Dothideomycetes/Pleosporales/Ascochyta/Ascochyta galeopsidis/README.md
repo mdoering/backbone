@@ -1,5 +1,4 @@
-Ascochyta galeopsidis A.L. Sm. & Ramsb., 1915 SPECIES
-=======
+# Ascochyta galeopsidis A.L. Sm. & Ramsb., 1915 SPECIES
 
 #### Status
 ACCEPTED

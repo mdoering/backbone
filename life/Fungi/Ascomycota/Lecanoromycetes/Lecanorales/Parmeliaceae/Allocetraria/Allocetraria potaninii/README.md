@@ -1,5 +1,4 @@
-Allocetraria potaninii (Oxner) Randlane & Saag SPECIES
-=======
+# Allocetraria potaninii (Oxner) Randlane & Saag SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycenella margaritifera (Maire) Maas Geest. SPECIES
-=======
+# Mycenella margaritifera (Maire) Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

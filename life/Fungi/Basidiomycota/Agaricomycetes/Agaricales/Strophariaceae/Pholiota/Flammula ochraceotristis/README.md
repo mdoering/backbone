@@ -1,5 +1,4 @@
-Flammula ochraceotristis Henn. SPECIES
-=======
+# Flammula ochraceotristis Henn. SPECIES
 
 #### Status
 ACCEPTED

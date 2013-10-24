@@ -1,5 +1,4 @@
-Coprinopsis radicatus (Cleland) J.A. Simpson & Grgur. SPECIES
-=======
+# Coprinopsis radicatus (Cleland) J.A. Simpson & Grgur. SPECIES
 
 #### Status
 ACCEPTED

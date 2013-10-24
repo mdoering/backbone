@@ -1,5 +1,4 @@
-Pertusaria enterostigmoides Zahlbr. SPECIES
-=======
+# Pertusaria enterostigmoides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

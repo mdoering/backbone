@@ -1,17 +1,16 @@
-Ophiobolus tanaceti (Fuckel) Sacc., 1883 SPECIES
-=======
+# Leptosphaeria tanaceti (Fuckel) L. Holm, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 9: 217 (1893)
 
 #### Original name
-null
+Leptosphaeria tanaceti (Fuckel) L. Holm, 1957
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pertusaria leioterella var. leioterella VARIETY
-=======
+# Pertusaria leioterella SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pertusaria leioterella var. leioterella
+null
 
 ### Remarks
 null

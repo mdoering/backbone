@@ -1,5 +1,4 @@
-Valsa rufescens Schwein. SPECIES
-=======
+# Valsa rufescens Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachorales M.E. Barr ORDER
-=======
+# Phyllachorales M.E. Barr ORDER
 
 #### Status
 ACCEPTED

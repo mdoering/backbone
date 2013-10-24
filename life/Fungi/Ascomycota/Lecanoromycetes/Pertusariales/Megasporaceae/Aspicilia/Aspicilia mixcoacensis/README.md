@@ -1,5 +1,4 @@
-Aspicilia mixcoacensis B. de Lesd. SPECIES
-=======
+# Aspicilia mixcoacensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

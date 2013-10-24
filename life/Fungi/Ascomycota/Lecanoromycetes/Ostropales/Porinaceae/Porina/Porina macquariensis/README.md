@@ -1,5 +1,4 @@
-Porina macquariensis C.W. Dodge SPECIES
-=======
+# Porina macquariensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

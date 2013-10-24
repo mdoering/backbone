@@ -1,5 +1,4 @@
-Ectocarpus tomentosus (Hudson) Lyngbye SPECIES
-=======
+# Ectocarpus tomentosus (Hudson) Lyngbye SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calcarisporium acerosum Matsush. SPECIES
-=======
+# Calcarisporium acerosum Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella valdiviana Singer SPECIES
-=======
+# Psathyrella valdiviana Singer SPECIES
 
 #### Status
 ACCEPTED

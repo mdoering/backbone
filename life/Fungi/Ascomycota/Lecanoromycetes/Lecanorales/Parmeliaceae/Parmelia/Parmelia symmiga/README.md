@@ -1,5 +1,4 @@
-Parmelia symmiga Hue SPECIES
-=======
+# Parmelia symmiga Hue SPECIES
 
 #### Status
 ACCEPTED

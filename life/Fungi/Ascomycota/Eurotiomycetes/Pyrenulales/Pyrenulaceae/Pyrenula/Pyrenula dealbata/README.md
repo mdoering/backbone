@@ -1,5 +1,4 @@
-Pyrenula dealbata (C. Knight) Müll. Arg. SPECIES
-=======
+# Pyrenula dealbata (C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

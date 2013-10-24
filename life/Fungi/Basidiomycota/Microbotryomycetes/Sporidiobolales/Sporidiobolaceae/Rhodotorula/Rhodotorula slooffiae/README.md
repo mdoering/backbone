@@ -1,5 +1,4 @@
-Rhodotorula slooffiae E.K. Novák & Vörös-Felkai SPECIES
-=======
+# Rhodotorula slooffiae E.K. Novák & Vörös-Felkai SPECIES
 
 #### Status
 ACCEPTED

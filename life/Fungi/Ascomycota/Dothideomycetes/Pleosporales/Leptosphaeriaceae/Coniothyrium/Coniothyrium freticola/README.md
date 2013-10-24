@@ -1,5 +1,4 @@
-Coniothyrium freticola (Speg.) Kuntze SPECIES
-=======
+# Coniothyrium freticola (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

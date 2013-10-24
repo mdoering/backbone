@@ -1,17 +1,16 @@
-Venenarius mexicanus (Murrill) Murrill, 1912 SPECIES
-=======
+# Smithiomyces mexicanus (Murrill) Singer, 1944 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 36(4): 366 (1944)
 
 #### Original name
-null
+Leucomyces mexicanus Murrill, 1911
 
 ### Remarks
 null

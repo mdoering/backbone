@@ -1,17 +1,16 @@
-Rhachomyces maublanci Lepesme SPECIES
-=======
+# Rhachomyces maublancii Lepesme SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+International Journal of Speleology 10(3-4): 329 (1978)
 
 #### Original name
-Rhachomyces maublanci Lepesme
+Rhachomyces maublancii Lepesme
 
 ### Remarks
 null

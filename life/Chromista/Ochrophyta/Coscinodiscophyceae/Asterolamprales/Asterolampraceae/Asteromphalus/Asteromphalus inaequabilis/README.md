@@ -1,5 +1,4 @@
-Asteromphalus inaequabilis R. Gersonde SPECIES
-=======
+# Asteromphalus inaequabilis R. Gersonde SPECIES
 
 #### Status
 ACCEPTED

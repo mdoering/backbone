@@ -1,5 +1,4 @@
-Leptosphaeria dearnessii Shoemaker SPECIES
-=======
+# Leptosphaeria dearnessii Shoemaker SPECIES
 
 #### Status
 ACCEPTED

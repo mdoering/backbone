@@ -1,5 +1,4 @@
-Russula ornaticeps Burl. SPECIES
-=======
+# Russula ornaticeps Burl. SPECIES
 
 #### Status
 ACCEPTED

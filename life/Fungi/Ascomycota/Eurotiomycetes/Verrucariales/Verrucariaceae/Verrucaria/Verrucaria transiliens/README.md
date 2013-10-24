@@ -1,5 +1,4 @@
-Verrucaria transiliens Arnold SPECIES
-=======
+# Verrucaria transiliens Arnold SPECIES
 
 #### Status
 ACCEPTED

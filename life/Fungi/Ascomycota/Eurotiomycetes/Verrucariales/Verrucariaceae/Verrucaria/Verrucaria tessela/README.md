@@ -1,5 +1,4 @@
-Verrucaria tessela Pers. SPECIES
-=======
+# Verrucaria tessela Pers. SPECIES
 
 #### Status
 ACCEPTED

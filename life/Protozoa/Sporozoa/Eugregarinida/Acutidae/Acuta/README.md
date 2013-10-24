@@ -1,5 +1,4 @@
-Acuta Stejskal, 1965 GENUS
-=======
+# Acuta Stejskal, 1965 GENUS
 
 #### Status
 ACCEPTED

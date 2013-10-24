@@ -1,5 +1,4 @@
-Marasmius togoensis Henn. SPECIES
-=======
+# Marasmius togoensis Henn. SPECIES
 
 #### Status
 ACCEPTED

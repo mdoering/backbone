@@ -1,5 +1,4 @@
-Ramalina hoehneliana Müll. Arg. SPECIES
-=======
+# Ramalina hoehneliana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

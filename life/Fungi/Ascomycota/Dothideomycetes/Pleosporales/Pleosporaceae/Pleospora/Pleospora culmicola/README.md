@@ -1,5 +1,4 @@
-Pleospora culmicola Speg. SPECIES
-=======
+# Pleospora culmicola Speg. SPECIES
 
 #### Status
 ACCEPTED

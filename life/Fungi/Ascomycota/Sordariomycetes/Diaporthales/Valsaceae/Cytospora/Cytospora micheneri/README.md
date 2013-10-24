@@ -1,5 +1,4 @@
-Cytospora micheneri Berk. & M.A. Curtis SPECIES
-=======
+# Cytospora micheneri Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

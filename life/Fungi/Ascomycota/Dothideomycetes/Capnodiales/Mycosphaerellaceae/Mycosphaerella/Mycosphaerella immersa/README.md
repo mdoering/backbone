@@ -1,5 +1,4 @@
-Mycosphaerella immersa Dearn. SPECIES
-=======
+# Mycosphaerella immersa Dearn. SPECIES
 
 #### Status
 ACCEPTED

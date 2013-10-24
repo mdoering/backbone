@@ -1,5 +1,4 @@
-Diplodia buxi Fr., 1849 SPECIES
-=======
+# Diplodia buxi Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis pauaiensis Vain. SPECIES
-=======
+# Graphis pauaiensis Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota gemmata Morgan SPECIES
-=======
+# Lepiota gemmata Morgan SPECIES
 
 #### Status
 ACCEPTED

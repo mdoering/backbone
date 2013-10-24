@@ -1,5 +1,4 @@
-Glomomidiella Vachard, Rettori, Angiolini & Checconi, 2008 GENUS
-=======
+# Glomomidiella Vachard, Rettori, Angiolini & Checconi, 2008 GENUS
 
 #### Status
 ACCEPTED

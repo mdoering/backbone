@@ -1,14 +1,13 @@
-Macentina perminuta Vezda SPECIES
-=======
+# Psoroglaena perminuta (Vezda) H. Harada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Mus. Silesiae, Ser. A 22: 69 (1973)
+Lichenology 2(1): 9 (2003)
 
 #### Original name
 Macentina perminuta Vezda

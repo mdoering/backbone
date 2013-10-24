@@ -1,5 +1,4 @@
-Sphaerella fallax Auersw. SPECIES
-=======
+# Sphaerella fallax Auersw. SPECIES
 
 #### Status
 ACCEPTED

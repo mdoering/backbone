@@ -1,5 +1,4 @@
-Arthonia erythrogona Müll. Arg. SPECIES
-=======
+# Arthonia erythrogona Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

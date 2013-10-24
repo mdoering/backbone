@@ -1,5 +1,4 @@
-Lobulomycetaceae D.R. Simmons FAMILY
-=======
+# Lobulomycetaceae D.R. Simmons FAMILY
 
 #### Status
 ACCEPTED

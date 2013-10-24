@@ -1,5 +1,4 @@
-Cryptosporella daldiniana (De Not.) Sacc. SPECIES
-=======
+# Cryptosporella daldiniana (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma bomareae (Lagerh.) Arthur SPECIES
-=======
+# Dicaeoma bomareae (Lagerh.) Arthur SPECIES
 
 #### Status
 ACCEPTED

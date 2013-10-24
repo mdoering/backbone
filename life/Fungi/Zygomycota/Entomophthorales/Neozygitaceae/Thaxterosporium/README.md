@@ -1,5 +1,4 @@
-Thaxterosporium Ben Ze'ev & R.G. Kenneth GENUS
-=======
+# Thaxterosporium Ben Ze'ev & R.G. Kenneth GENUS
 
 #### Status
 ACCEPTED

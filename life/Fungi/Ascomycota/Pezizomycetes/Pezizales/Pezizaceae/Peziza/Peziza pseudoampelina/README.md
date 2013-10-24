@@ -1,5 +1,4 @@
-Peziza pseudoampelina Donadini SPECIES
-=======
+# Peziza pseudoampelina Donadini SPECIES
 
 #### Status
 ACCEPTED

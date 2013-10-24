@@ -1,5 +1,4 @@
-Wardinella jaboatonensis Bat. & Peres, 1960 SPECIES
-=======
+# Wardinella jaboatonensis Bat. & Peres, 1960 SPECIES
 
 #### Status
 ACCEPTED

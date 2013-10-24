@@ -1,14 +1,13 @@
-Labyrinthomyces phymatodeus B.C. Zhang & Minter, 1988 SPECIES
-=======
+# Dingleya phymatodea (B.C. Zhang & Minter) Trappe, Castellano & Malajczuk, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. Ascom. 7(1): 48 (1988)
+Aust. Syst. Bot. 5(5): 603 (1992)
 
 #### Original name
 Labyrinthomyces phymatodeus B.C. Zhang & Minter, 1988

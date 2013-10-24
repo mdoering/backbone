@@ -1,5 +1,4 @@
-Lophiostoma glaciale var. glaciale VARIETY
-=======
+# Lophiostoma glaciale Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lophiostoma glaciale var. glaciale
+Lophiostoma glaciale Rehm
 
 ### Remarks
 null

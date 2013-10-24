@@ -1,5 +1,4 @@
-Pouzarella argenteolanata T.J. Baroni, Perd.-Sánch. & Cantrell SPECIES
-=======
+# Pouzarella argenteolanata T.J. Baroni, Perd.-Sánch. & Cantrell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphisphaeria goloskokovii Schrantz SPECIES
-=======
+# Amphisphaeria goloskokovii Schrantz SPECIES
 
 #### Status
 ACCEPTED

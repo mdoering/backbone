@@ -1,5 +1,4 @@
-Coniothyrium bougainvilleae A.C. Santos & Sousa da Câmara SPECIES
-=======
+# Coniothyrium bougainvilleae A.C. Santos & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

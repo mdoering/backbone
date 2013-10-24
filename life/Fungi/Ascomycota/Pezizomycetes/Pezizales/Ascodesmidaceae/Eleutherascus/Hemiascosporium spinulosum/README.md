@@ -1,5 +1,4 @@
-Hemiascosporium spinulosum L.R. Batra SPECIES
-=======
+# Hemiascosporium spinulosum L.R. Batra SPECIES
 
 #### Status
 ACCEPTED

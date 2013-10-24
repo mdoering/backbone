@@ -1,5 +1,4 @@
-Elaphomyces leveillei Tul. & C. Tul., 1841 SPECIES
-=======
+# Elaphomyces leveillei Tul. & C. Tul., 1841 SPECIES
 
 #### Status
 ACCEPTED

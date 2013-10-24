@@ -1,5 +1,4 @@
-Umbilicaria scholanderi (Llano) Krog SPECIES
-=======
+# Umbilicaria scholanderi (Llano) Krog SPECIES
 
 #### Status
 ACCEPTED

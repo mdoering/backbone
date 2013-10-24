@@ -1,5 +1,4 @@
-Phacidium rhododendri Schwein. SPECIES
-=======
+# Phacidium rhododendri Schwein. SPECIES
 
 #### Status
 ACCEPTED

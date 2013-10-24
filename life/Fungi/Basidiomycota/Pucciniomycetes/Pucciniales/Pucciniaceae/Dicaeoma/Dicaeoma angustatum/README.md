@@ -1,5 +1,4 @@
-Dicaeoma angustatum (Peck) Kuntze SPECIES
-=======
+# Dicaeoma angustatum (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

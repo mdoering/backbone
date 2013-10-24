@@ -1,5 +1,4 @@
-Russula tinctipes J. Blum ex Bon SPECIES
-=======
+# Russula tinctipes J. Blum ex Bon SPECIES
 
 #### Status
 ACCEPTED

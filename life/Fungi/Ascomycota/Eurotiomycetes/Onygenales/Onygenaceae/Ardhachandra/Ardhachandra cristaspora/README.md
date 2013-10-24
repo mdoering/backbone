@@ -1,14 +1,13 @@
-Rhinocladiella cristaspora Matsush. SPECIES
-=======
+# Ardhachandra cristaspora (Matsush.) Subram. & Sudha, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Microfungi of the Solomon Islands and Papua-New Guinea (Osaka) 49 (1971)
+Can. J. Bot. 56(7): 731 (1978)
 
 #### Original name
 Rhinocladiella cristaspora Matsush.

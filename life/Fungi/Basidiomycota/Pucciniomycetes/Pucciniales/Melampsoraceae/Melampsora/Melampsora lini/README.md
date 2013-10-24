@@ -1,5 +1,4 @@
-Melampsora lini var. lini VARIETY
-=======
+# Melampsora lini Desm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 8: 376 (1847)
+null
 
 #### Original name
-Melampsora lini var. lini
+null
 
 ### Remarks
 null

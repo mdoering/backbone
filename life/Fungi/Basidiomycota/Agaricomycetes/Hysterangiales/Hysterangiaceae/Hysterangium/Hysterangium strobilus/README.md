@@ -1,5 +1,4 @@
-Hysterangium strobilus Zeller & C.W. Dodge SPECIES
-=======
+# Hysterangium strobilus Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

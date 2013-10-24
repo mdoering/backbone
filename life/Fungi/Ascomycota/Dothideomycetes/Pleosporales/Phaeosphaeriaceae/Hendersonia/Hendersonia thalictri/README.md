@@ -1,5 +1,4 @@
-Hendersonia thalictri Pat. SPECIES
-=======
+# Hendersonia thalictri Pat. SPECIES
 
 #### Status
 ACCEPTED

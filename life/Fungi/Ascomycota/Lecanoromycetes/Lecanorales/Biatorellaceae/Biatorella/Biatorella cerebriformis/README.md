@@ -1,5 +1,4 @@
-Biatorella cerebriformis (C.W. Dodge) Filson SPECIES
-=======
+# Biatorella cerebriformis (C.W. Dodge) Filson SPECIES
 
 #### Status
 ACCEPTED

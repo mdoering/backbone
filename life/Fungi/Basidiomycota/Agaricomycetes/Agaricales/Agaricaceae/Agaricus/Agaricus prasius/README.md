@@ -1,5 +1,4 @@
-Agaricus prasius Berk. SPECIES
-=======
+# Agaricus prasius Berk. SPECIES
 
 #### Status
 ACCEPTED

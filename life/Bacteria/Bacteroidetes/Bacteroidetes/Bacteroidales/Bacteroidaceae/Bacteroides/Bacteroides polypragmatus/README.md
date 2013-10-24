@@ -1,5 +1,4 @@
-Bacteroides polypragmatus Patel & Breuil, 1982 SPECIES
-=======
+# Bacteroides polypragmatus Patel & Breuil, 1982 SPECIES
 
 #### Status
 ACCEPTED

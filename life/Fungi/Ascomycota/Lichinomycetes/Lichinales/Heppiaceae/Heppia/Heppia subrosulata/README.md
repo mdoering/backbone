@@ -1,5 +1,4 @@
-Heppia subrosulata var. subrosulata VARIETY
-=======
+# Heppia subrosulata J. Steiner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Heppia subrosulata var. subrosulata
+Heppia subrosulata J. Steiner
 
 ### Remarks
 null

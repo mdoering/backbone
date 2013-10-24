@@ -1,5 +1,4 @@
-Myrmaecium harperianum Rehm SPECIES
-=======
+# Myrmaecium harperianum Rehm SPECIES
 
 #### Status
 ACCEPTED

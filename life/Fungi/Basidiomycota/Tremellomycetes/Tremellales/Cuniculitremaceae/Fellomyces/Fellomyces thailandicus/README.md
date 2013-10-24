@@ -1,5 +1,4 @@
-Fellomyces thailandicus Prillinger, G. Kraep. & Lopandic SPECIES
-=======
+# Fellomyces thailandicus Prillinger, G. Kraep. & Lopandic SPECIES
 
 #### Status
 ACCEPTED

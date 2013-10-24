@@ -1,5 +1,4 @@
-Stictis lichenoides Speg. SPECIES
-=======
+# Stictis lichenoides Speg. SPECIES
 
 #### Status
 ACCEPTED

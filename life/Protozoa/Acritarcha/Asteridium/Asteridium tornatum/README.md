@@ -1,5 +1,4 @@
-Asteridium tornatum (Volkova, 1968) Moczydlowska, 1991 SPECIES
-=======
+# Asteridium tornatum (Volkova, 1968) Moczydlowska, 1991 SPECIES
 
 #### Status
 ACCEPTED

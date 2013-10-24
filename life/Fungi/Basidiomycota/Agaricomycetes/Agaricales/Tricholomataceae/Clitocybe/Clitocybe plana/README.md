@@ -1,5 +1,4 @@
-Clitocybe plana Velen. SPECIES
-=======
+# Clitocybe plana Velen. SPECIES
 
 #### Status
 ACCEPTED

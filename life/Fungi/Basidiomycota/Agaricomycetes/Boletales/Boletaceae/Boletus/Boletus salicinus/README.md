@@ -1,5 +1,4 @@
-Boletus salicinus Schumach. SPECIES
-=======
+# Boletus salicinus Schumach. SPECIES
 
 #### Status
 ACCEPTED

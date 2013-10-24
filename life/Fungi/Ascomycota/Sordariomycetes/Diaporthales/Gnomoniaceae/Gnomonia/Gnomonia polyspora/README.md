@@ -1,5 +1,4 @@
-Gnomonia polyspora Auersw. SPECIES
-=======
+# Gnomonia polyspora Auersw. SPECIES
 
 #### Status
 ACCEPTED

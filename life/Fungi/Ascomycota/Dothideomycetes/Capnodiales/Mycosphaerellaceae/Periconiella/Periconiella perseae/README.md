@@ -1,5 +1,4 @@
-Periconiella perseae McKenzie SPECIES
-=======
+# Periconiella perseae McKenzie SPECIES
 
 #### Status
 ACCEPTED

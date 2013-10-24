@@ -1,5 +1,4 @@
-Acladium miniatum Sacc. SPECIES
-=======
+# Acladium miniatum Sacc. SPECIES
 
 #### Status
 ACCEPTED

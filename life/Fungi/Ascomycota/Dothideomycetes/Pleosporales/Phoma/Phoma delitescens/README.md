@@ -1,5 +1,4 @@
-Phoma delitescens (Wallr.) Sacc. SPECIES
-=======
+# Phoma delitescens (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

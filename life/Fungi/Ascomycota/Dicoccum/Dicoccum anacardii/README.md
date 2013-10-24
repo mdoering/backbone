@@ -1,5 +1,4 @@
-Dicoccum anacardii Bat. & J.L. Bezerra SPECIES
-=======
+# Dicoccum anacardii Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

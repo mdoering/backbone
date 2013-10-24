@@ -1,5 +1,4 @@
-Peziza obvelata Delacr. SPECIES
-=======
+# Peziza obvelata Delacr. SPECIES
 
 #### Status
 ACCEPTED

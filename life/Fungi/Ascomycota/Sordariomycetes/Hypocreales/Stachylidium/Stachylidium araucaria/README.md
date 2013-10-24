@@ -1,5 +1,4 @@
-Stachylidium araucaria Bonord. SPECIES
-=======
+# Stachylidium araucaria Bonord. SPECIES
 
 #### Status
 ACCEPTED

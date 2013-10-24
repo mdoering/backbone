@@ -1,5 +1,4 @@
-Herpyzonema pulverulentum M. Hernández-Mariné & T. Canals SPECIES
-=======
+# Herpyzonema pulverulentum M. Hernández-Mariné & T. Canals SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropeltis sapotaceicola Bat. & I.H. Lima SPECIES
-=======
+# Micropeltis sapotaceicola Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium ligustri Henn. SPECIES
-=======
+# Gloeosporium ligustri Henn. SPECIES
 
 #### Status
 ACCEPTED

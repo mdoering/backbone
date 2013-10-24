@@ -1,5 +1,4 @@
-Physomyces heterosporus Harz SPECIES
-=======
+# Physomyces heterosporus Harz SPECIES
 
 #### Status
 ACCEPTED

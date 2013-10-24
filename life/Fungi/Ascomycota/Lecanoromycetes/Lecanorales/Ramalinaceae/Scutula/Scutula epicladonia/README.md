@@ -1,5 +1,4 @@
-Scutula epicladonia (Nyl.) Zopf SPECIES
-=======
+# Scutula epicladonia (Nyl.) Zopf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalacria clusiae Syd. SPECIES
-=======
+# Physalacria clusiae Syd. SPECIES
 
 #### Status
 ACCEPTED

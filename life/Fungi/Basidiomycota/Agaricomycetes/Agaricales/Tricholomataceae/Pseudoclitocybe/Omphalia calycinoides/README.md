@@ -1,5 +1,4 @@
-Omphalia calycinoides Henn. SPECIES
-=======
+# Omphalia calycinoides Henn. SPECIES
 
 #### Status
 ACCEPTED

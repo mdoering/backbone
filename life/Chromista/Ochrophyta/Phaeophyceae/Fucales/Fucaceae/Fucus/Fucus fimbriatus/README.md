@@ -1,5 +1,4 @@
-Fucus fimbriatus S.G. Gmelin SPECIES
-=======
+# Fucus fimbriatus S.G. Gmelin SPECIES
 
 #### Status
 ACCEPTED

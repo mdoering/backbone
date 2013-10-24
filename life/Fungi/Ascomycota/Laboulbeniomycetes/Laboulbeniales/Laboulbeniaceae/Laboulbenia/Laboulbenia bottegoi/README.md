@@ -1,5 +1,4 @@
-Laboulbenia bottegoi Speg. SPECIES
-=======
+# Laboulbenia bottegoi Speg. SPECIES
 
 #### Status
 ACCEPTED

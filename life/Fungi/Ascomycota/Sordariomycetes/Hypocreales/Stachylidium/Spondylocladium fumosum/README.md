@@ -1,5 +1,4 @@
-Spondylocladium fumosum Mart. SPECIES
-=======
+# Spondylocladium fumosum Mart. SPECIES
 
 #### Status
 ACCEPTED

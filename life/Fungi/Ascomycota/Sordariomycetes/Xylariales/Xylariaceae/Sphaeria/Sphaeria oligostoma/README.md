@@ -1,5 +1,4 @@
-Sphaeria oligostoma Schwein. SPECIES
-=======
+# Sphaeria oligostoma Schwein. SPECIES
 
 #### Status
 ACCEPTED

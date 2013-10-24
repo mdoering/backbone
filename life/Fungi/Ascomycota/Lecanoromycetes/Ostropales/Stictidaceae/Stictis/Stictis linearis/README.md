@@ -1,5 +1,4 @@
-Stictis linearis Cooke & Ellis SPECIES
-=======
+# Stictis linearis Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

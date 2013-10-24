@@ -1,5 +1,4 @@
-Cortinarius kerrii Singer & I.J. Araujo SPECIES
-=======
+# Cortinarius kerrii Singer & I.J. Araujo SPECIES
 
 #### Status
 ACCEPTED

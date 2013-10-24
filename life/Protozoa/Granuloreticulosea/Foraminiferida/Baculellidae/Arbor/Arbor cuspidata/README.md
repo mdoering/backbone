@@ -1,5 +1,4 @@
-Arbor cuspidata Schröder, Medioli & Scott, 1989 SPECIES
-=======
+# Arbor cuspidata Schröder, Medioli & Scott, 1989 SPECIES
 
 #### Status
 ACCEPTED

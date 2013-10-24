@@ -1,5 +1,4 @@
-Asterina stipitipodia M.L. Farr SPECIES
-=======
+# Asterina stipitipodia M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

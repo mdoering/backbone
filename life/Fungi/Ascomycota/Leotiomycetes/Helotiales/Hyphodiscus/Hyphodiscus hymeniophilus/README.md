@@ -1,14 +1,13 @@
-Helotium hymeniophilum (P. Karst.) P. Karst., 1871 SPECIES
-=======
+# Hyphodiscus hymeniophilus (P. Karst.) Baral, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycoth. fenn. (Helsinki) 1: 143 (1870)
+Z. Mykol. 59(1): 7 (1993)
 
 #### Original name
 Peziza hymeniophila P. Karst.

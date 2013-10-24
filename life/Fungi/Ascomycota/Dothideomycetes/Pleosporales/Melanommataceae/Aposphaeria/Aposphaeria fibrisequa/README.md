@@ -1,5 +1,4 @@
-Aposphaeria fibrisequa Sacc. SPECIES
-=======
+# Aposphaeria fibrisequa Sacc. SPECIES
 
 #### Status
 ACCEPTED

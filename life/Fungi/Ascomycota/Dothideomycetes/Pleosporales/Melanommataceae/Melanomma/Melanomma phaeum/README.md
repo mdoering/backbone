@@ -1,5 +1,4 @@
-Melanomma phaeum Rehm SPECIES
-=======
+# Melanomma phaeum Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyella stella Al-Thukair & Golubic SPECIES
-=======
+# Hyella stella Al-Thukair & Golubic SPECIES
 
 #### Status
 ACCEPTED

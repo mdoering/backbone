@@ -1,5 +1,4 @@
-Cercospora magellanica Speg. SPECIES
-=======
+# Cercospora magellanica Speg. SPECIES
 
 #### Status
 ACCEPTED

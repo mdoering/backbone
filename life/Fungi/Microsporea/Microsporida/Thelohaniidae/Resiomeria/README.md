@@ -1,5 +1,4 @@
-Resiomeria J.I.R. Larsson GENUS
-=======
+# Resiomeria J.I.R. Larsson GENUS
 
 #### Status
 ACCEPTED

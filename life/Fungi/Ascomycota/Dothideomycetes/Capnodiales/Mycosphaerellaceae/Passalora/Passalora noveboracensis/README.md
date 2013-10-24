@@ -1,5 +1,4 @@
-Passalora noveboracensis (Ellis & Everh.) U. Braun & Crous SPECIES
-=======
+# Passalora noveboracensis (Ellis & Everh.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

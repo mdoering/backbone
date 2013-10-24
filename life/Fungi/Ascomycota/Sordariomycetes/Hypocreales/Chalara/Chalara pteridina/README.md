@@ -1,5 +1,4 @@
-Chalara pteridina Syd. & P. Syd., 1912 SPECIES
-=======
+# Chalara pteridina Syd. & P. Syd., 1912 SPECIES
 
 #### Status
 ACCEPTED

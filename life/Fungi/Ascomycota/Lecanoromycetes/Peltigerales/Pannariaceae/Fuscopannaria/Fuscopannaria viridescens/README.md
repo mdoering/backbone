@@ -1,5 +1,4 @@
-Fuscopannaria viridescens P.M. Jørg. & Zhurb. SPECIES
-=======
+# Fuscopannaria viridescens P.M. Jørg. & Zhurb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus impolitus Lasch SPECIES
-=======
+# Agaricus impolitus Lasch SPECIES
 
 #### Status
 ACCEPTED

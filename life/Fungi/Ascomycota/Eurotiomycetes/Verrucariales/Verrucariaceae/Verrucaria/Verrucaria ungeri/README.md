@@ -1,5 +1,4 @@
-Verrucaria ungeri Flot. SPECIES
-=======
+# Verrucaria ungeri Flot. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyxidiophora fusco-olivacea (G.R.W. Arnold) N. Lundq. SPECIES
-=======
+# Pyxidiophora fusco-olivacea (G.R.W. Arnold) N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

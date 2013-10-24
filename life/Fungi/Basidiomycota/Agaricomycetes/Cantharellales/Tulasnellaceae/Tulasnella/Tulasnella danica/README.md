@@ -1,5 +1,4 @@
-Tulasnella danica Hauerslev, 1987 SPECIES
-=======
+# Tulasnella danica Hauerslev, 1987 SPECIES
 
 #### Status
 ACCEPTED

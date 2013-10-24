@@ -1,5 +1,4 @@
-Bacidia diffluens (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia diffluens (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

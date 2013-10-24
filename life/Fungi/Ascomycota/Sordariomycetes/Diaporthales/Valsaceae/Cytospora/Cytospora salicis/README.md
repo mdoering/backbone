@@ -1,14 +1,13 @@
-Naemaspora salicis Corda, 1840 SPECIES
-=======
+# Cytospora salicis (Corda) Rabenh., 1844 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. fung. (Prague) 4: 26 (1840)
+Deutschl. Krypt. -Fl. (Leipzig) 1: no. 1340 (1844)
 
 #### Original name
 Naemaspora salicis Corda, 1840

@@ -1,5 +1,4 @@
-Melosira canadensis Hustedt SPECIES
-=======
+# Melosira canadensis Hustedt SPECIES
 
 #### Status
 ACCEPTED

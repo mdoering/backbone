@@ -1,5 +1,4 @@
-Hyella terrestris Chodat SPECIES
-=======
+# Hyella terrestris Chodat SPECIES
 
 #### Status
 ACCEPTED

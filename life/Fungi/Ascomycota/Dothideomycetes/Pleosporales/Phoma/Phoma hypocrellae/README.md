@@ -1,5 +1,4 @@
-Phoma hypocrellae Sawada SPECIES
-=======
+# Phoma hypocrellae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Clathrosphaera spirifera Zalewski SPECIES
-=======
+# Clathrosphaerina zalewskii Beverw., 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 34: 289 (1951)
 
 #### Original name
-Clathrosphaera spirifera Zalewski
+Clathrosphaerina zalewskii Beverw., 1951
 
 ### Remarks
 null

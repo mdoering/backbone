@@ -1,5 +1,4 @@
-Angulocellularia A.G.Vologdin GENUS
-=======
+# Angulocellularia A.G.Vologdin GENUS
 
 #### Status
 ACCEPTED

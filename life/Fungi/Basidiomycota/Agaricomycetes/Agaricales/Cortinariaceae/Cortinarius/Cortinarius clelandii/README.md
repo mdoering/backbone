@@ -1,5 +1,4 @@
-Cortinarius clelandii A.H. Sm. SPECIES
-=======
+# Cortinarius clelandii A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

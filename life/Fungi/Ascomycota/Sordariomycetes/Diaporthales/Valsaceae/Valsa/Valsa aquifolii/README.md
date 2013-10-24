@@ -1,5 +1,4 @@
-Valsa aquifolii Nitschke SPECIES
-=======
+# Valsa aquifolii Nitschke SPECIES
 
 #### Status
 ACCEPTED

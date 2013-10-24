@@ -1,5 +1,4 @@
-Diatrype maclurae Ellis & Everh. SPECIES
-=======
+# Diatrype maclurae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

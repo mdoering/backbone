@@ -1,14 +1,13 @@
-Gyalectidium xantholeucum Müll. Arg. SPECIES
-=======
+# Sporopodium xantholeucum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 64: 101 (1881)
+Cat. Lich. Univers. 2: 681 (1924)
 
 #### Original name
 Gyalectidium xantholeucum Müll. Arg.

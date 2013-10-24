@@ -1,5 +1,4 @@
-Buetschliellopsis commune Lom, 1959 SPECIES
-=======
+# Buetschliellopsis commune Lom, 1959 SPECIES
 
 #### Status
 ACCEPTED

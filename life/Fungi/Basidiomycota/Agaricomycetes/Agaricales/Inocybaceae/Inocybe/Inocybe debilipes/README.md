@@ -1,5 +1,4 @@
-Inocybe debilipes P. Karst. SPECIES
-=======
+# Inocybe debilipes P. Karst. SPECIES
 
 #### Status
 ACCEPTED

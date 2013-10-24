@@ -1,5 +1,4 @@
-Boidinia borbonica Boidin, Lanq. & Gilles SPECIES
-=======
+# Boidinia borbonica Boidin, Lanq. & Gilles SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo hyperici-humifusi Kleb. SPECIES
-=======
+# Uredo hyperici-humifusi Kleb. SPECIES
 
 #### Status
 ACCEPTED

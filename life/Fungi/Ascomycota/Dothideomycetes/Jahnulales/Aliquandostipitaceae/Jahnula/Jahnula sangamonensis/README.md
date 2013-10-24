@@ -1,5 +1,4 @@
-Jahnula sangamonensis Shearer & Raja, 2006 SPECIES
-=======
+# Jahnula sangamonensis Shearer & Raja, 2006 SPECIES
 
 #### Status
 ACCEPTED

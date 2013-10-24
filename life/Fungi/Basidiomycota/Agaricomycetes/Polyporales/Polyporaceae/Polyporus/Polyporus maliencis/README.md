@@ -1,5 +1,4 @@
-Polyporus maliencis Lloyd SPECIES
-=======
+# Polyporus maliencis Lloyd SPECIES
 
 #### Status
 ACCEPTED

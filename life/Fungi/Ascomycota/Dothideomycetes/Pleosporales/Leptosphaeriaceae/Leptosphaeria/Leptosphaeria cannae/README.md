@@ -1,5 +1,4 @@
-Leptosphaeria cannae McAlpine SPECIES
-=======
+# Leptosphaeria cannae McAlpine SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanoleuca albissima var. albissima VARIETY
-=======
+# Melanoleuca albissima (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 N. Amer. Fl. (New York) 10(1): 8 (1914)
 
 #### Original name
-Melanoleuca albissima var. albissima
+Agaricus albissimus Peck
 
 ### Remarks
 null

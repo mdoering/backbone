@@ -1,17 +1,16 @@
-Russula rubra f. rubra FORM
-=======
+# Russula pungens Beardslee, 1918 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Elisha Mitchell scient. Soc. 33(4): 196 (1918)
 
 #### Original name
-Russula rubra f. rubra
+Russula pungens Beardslee, 1918
 
 ### Remarks
 null

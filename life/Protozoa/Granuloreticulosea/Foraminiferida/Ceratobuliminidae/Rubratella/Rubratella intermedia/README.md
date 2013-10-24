@@ -1,5 +1,4 @@
-Rubratella intermedia Grell, 1958 SPECIES
-=======
+# Rubratella intermedia Grell, 1958 SPECIES
 
 #### Status
 ACCEPTED

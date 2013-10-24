@@ -1,5 +1,4 @@
-Stagonospora agrostidis f. angusta R. Sprague FORM
-=======
+# Stagonospora agrostidis Syd. {?} SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Mycologia 38(1): 59 (1946)
+null
 
 #### Original name
-Stagonospora agrostidis f. angusta R. Sprague
+Stagonospora agrostidis Syd. {?}
 
 ### Remarks
 null

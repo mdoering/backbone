@@ -1,17 +1,16 @@
-Catocarpus cinereovirens f. cinereovirens FORM
-=======
+# Rhizocarpon cinereovirens (Müll. Arg.) Vain. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Acta Soc. Fauna Flora fenn. 53(no. 1): 280 (1922)
 
 #### Original name
-Catocarpus cinereovirens f. cinereovirens
+null
 
 ### Remarks
 null

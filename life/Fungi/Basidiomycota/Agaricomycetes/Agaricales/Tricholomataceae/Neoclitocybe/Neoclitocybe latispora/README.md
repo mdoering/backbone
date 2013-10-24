@@ -1,5 +1,4 @@
-Neoclitocybe latispora Singer SPECIES
-=======
+# Neoclitocybe latispora Singer SPECIES
 
 #### Status
 ACCEPTED

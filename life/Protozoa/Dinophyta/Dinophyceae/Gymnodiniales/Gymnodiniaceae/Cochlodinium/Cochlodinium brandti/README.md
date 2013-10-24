@@ -1,5 +1,4 @@
-Cochlodinium brandti Wulff, 1916 SPECIES
-=======
+# Cochlodinium brandti Wulff, 1916 SPECIES
 
 #### Status
 ACCEPTED

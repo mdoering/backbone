@@ -1,5 +1,4 @@
-Coniothyrium obovoideum P. Karst. SPECIES
-=======
+# Coniothyrium obovoideum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

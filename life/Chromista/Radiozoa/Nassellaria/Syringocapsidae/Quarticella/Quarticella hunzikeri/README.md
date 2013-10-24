@@ -1,5 +1,4 @@
-Quarticella hunzikeri SPECIES
-=======
+# Quarticella hunzikeri SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meroplacis GENUS
-=======
+# Meroplacis GENUS
 
 #### Status
 ACCEPTED

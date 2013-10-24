@@ -1,14 +1,13 @@
-Verrucaria praevalescens Nyl. SPECIES
-=======
+# Thelidium praevalescens (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Deutsche Südpolar-Expedit. 8: 51 (1906)
 
 #### Original name
 Verrucaria praevalescens Nyl.

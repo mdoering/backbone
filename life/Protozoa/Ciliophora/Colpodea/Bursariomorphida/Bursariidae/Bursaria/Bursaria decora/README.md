@@ -1,5 +1,4 @@
-Bursaria decora Claparède & Lachmann, 1858 SPECIES
-=======
+# Bursaria decora Claparède & Lachmann, 1858 SPECIES
 
 #### Status
 ACCEPTED

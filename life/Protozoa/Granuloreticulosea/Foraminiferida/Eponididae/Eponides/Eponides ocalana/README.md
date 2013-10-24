@@ -1,5 +1,4 @@
-Eponides ocalana Cushman, 1933 SPECIES
-=======
+# Eponides ocalana Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

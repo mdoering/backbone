@@ -1,5 +1,4 @@
-Pertusaria pulchretincta Zahlbr. SPECIES
-=======
+# Pertusaria pulchretincta Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

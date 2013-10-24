@@ -1,5 +1,4 @@
-Meliola buchananiae F. Stevens ex Hansf. SPECIES
-=======
+# Meliola buchananiae F. Stevens ex Hansf. SPECIES
 
 #### Status
 ACCEPTED

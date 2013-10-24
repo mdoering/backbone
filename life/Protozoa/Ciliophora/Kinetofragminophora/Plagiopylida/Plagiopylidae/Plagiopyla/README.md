@@ -1,5 +1,4 @@
-Plagiopyla Stein, 1860 GENUS
-=======
+# Plagiopyla Stein, 1860 GENUS
 
 #### Status
 ACCEPTED

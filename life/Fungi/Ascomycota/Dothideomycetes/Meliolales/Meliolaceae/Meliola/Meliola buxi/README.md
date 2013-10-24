@@ -1,5 +1,4 @@
-Meliola buxi Cif. SPECIES
-=======
+# Meliola buxi Cif. SPECIES
 
 #### Status
 ACCEPTED

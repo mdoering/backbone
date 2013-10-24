@@ -1,5 +1,4 @@
-Exosporium lolii Spreng. SPECIES
-=======
+# Exosporium lolii Spreng. SPECIES
 
 #### Status
 ACCEPTED

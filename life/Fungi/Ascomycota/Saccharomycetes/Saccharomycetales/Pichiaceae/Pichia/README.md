@@ -1,17 +1,16 @@
-Mycoderma Desm. GENUS
-=======
+# Pichia E.C. Hansen GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 1 10: 59 (1827)
+Zentbl. Bakt. ParasitKde, Abt. II 12: 538 (1904)
 
 #### Original name
-Mycoderma Desm.
+Pichia E.C. Hansen
 
 ### Remarks
 null

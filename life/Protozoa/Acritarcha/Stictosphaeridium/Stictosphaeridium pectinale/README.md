@@ -1,5 +1,4 @@
-Stictosphaeridium pectinale Timofeev, 1966 SPECIES
-=======
+# Stictosphaeridium pectinale Timofeev, 1966 SPECIES
 
 #### Status
 ACCEPTED

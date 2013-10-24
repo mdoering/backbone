@@ -1,5 +1,4 @@
-Metasphaeria caraguata Speg. SPECIES
-=======
+# Metasphaeria caraguata Speg. SPECIES
 
 #### Status
 ACCEPTED

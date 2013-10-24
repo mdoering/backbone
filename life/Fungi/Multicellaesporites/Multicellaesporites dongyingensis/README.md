@@ -1,5 +1,4 @@
-Multicellaesporites dongyingensis P. Ke & Z.Y. Shi SPECIES
-=======
+# Multicellaesporites dongyingensis P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

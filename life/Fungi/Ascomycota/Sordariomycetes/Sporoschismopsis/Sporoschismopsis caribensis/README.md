@@ -1,5 +1,4 @@
-Sporoschismopsis caribensis Hol.-Jech., 1982 SPECIES
-=======
+# Sporoschismopsis caribensis Hol.-Jech., 1982 SPECIES
 
 #### Status
 ACCEPTED

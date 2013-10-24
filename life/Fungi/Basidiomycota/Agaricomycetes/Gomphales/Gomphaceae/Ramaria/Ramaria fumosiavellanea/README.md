@@ -1,5 +1,4 @@
-Ramaria fumosiavellanea Marr & D.E. Stuntz, 1974 SPECIES
-=======
+# Ramaria fumosiavellanea Marr & D.E. Stuntz, 1974 SPECIES
 
 #### Status
 ACCEPTED

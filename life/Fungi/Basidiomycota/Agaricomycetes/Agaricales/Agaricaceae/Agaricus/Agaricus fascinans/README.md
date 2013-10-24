@@ -1,5 +1,4 @@
-Agaricus fascinans Fr. SPECIES
-=======
+# Agaricus fascinans Fr. SPECIES
 
 #### Status
 ACCEPTED

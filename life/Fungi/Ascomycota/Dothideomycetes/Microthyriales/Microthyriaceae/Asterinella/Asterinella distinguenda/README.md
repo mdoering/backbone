@@ -1,5 +1,4 @@
-Asterinella distinguenda Syd. & P. Syd. SPECIES
-=======
+# Asterinella distinguenda Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

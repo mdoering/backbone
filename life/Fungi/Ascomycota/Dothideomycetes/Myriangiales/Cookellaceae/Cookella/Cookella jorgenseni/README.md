@@ -1,5 +1,4 @@
-Cookella jorgenseni Speg. SPECIES
-=======
+# Cookella jorgenseni Speg. SPECIES
 
 #### Status
 ACCEPTED

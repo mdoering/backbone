@@ -1,5 +1,4 @@
-Puccinia acutiuscula Jørst. SPECIES
-=======
+# Puccinia acutiuscula Jørst. SPECIES
 
 #### Status
 ACCEPTED

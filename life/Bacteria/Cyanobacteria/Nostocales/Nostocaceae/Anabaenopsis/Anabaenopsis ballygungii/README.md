@@ -1,5 +1,4 @@
-Anabaenopsis ballygungii (J. C. Banerji) J. Komárek & K. Anagnostidis SPECIES
-=======
+# Anabaenopsis ballygungii (J. C. Banerji) J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

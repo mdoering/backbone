@@ -1,5 +1,4 @@
-Biatorina regeliana (Hepp) SPECIES
-=======
+# Biatorina regeliana (Hepp) SPECIES
 
 #### Status
 ACCEPTED

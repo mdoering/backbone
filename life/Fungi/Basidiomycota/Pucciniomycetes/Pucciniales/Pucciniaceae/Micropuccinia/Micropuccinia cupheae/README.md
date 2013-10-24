@@ -1,5 +1,4 @@
-Micropuccinia cupheae (Holw.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia cupheae (Holw.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

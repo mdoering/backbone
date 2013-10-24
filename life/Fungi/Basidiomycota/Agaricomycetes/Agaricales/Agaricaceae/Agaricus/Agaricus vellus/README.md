@@ -1,5 +1,4 @@
-Agaricus vellus Batsch SPECIES
-=======
+# Agaricus vellus Batsch SPECIES
 
 #### Status
 ACCEPTED

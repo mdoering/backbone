@@ -1,5 +1,4 @@
-Piricauda caribensis Mercado SPECIES
-=======
+# Piricauda caribensis Mercado SPECIES
 
 #### Status
 ACCEPTED

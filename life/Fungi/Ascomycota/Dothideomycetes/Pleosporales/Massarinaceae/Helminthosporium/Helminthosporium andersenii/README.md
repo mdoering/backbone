@@ -1,5 +1,4 @@
-Helminthosporium andersenii Scharif SPECIES
-=======
+# Helminthosporium andersenii Scharif SPECIES
 
 #### Status
 ACCEPTED

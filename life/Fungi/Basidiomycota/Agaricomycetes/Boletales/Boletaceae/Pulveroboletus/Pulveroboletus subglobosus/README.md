@@ -1,5 +1,4 @@
-Pulveroboletus subglobosus (Cleland & Cheel) Singer SPECIES
-=======
+# Pulveroboletus subglobosus (Cleland & Cheel) Singer SPECIES
 
 #### Status
 ACCEPTED

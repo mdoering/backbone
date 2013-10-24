@@ -1,5 +1,4 @@
-Psilocybe meridionalis Guzmán, Ram.-Guill. & Guzm.-Dáv. SPECIES
-=======
+# Psilocybe meridionalis Guzmán, Ram.-Guill. & Guzm.-Dáv. SPECIES
 
 #### Status
 ACCEPTED

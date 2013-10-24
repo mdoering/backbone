@@ -1,5 +1,4 @@
-Lachnum sinegoricum (Raitv.) Raitv. SPECIES
-=======
+# Lachnum sinegoricum (Raitv.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea pallida Th. Fr. SPECIES
-=======
+# Lecidea pallida Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

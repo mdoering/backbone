@@ -1,5 +1,4 @@
-Lembosia hormosiana Sacc. SPECIES
-=======
+# Lembosia hormosiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

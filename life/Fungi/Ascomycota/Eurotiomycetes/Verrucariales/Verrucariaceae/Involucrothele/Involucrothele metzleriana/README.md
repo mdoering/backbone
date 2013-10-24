@@ -1,5 +1,4 @@
-Involucrothele metzleriana (Servít) Servít SPECIES
-=======
+# Involucrothele metzleriana (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

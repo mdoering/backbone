@@ -1,17 +1,16 @@
-Diplodina parasitica (R. Hartig) Prill. SPECIES
-=======
+# Sirococcus strobilinus Preuss, 1853 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Linnaea 26: 716 (1853)
 
 #### Original name
-Septoria parasitica R. Hartig, 1890
+Sirococcus strobilinus Preuss, 1853
 
 ### Remarks
 null

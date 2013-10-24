@@ -1,5 +1,4 @@
-Cladina oxneri (Rass.) Trass SPECIES
-=======
+# Cladina oxneri (Rass.) Trass SPECIES
 
 #### Status
 ACCEPTED

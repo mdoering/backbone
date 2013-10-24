@@ -1,5 +1,4 @@
-Lacrimasporonites reniformis Sal.-Cheb. & Locq. SPECIES
-=======
+# Lacrimasporonites reniformis Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

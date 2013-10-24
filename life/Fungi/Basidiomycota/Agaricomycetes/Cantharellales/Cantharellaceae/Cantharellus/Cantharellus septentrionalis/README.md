@@ -1,5 +1,4 @@
-Cantharellus septentrionalis A.H. Sm. SPECIES
-=======
+# Cantharellus septentrionalis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

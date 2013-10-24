@@ -1,5 +1,4 @@
-Hydnum scabripes Peck SPECIES
-=======
+# Hydnum scabripes Peck SPECIES
 
 #### Status
 ACCEPTED

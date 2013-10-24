@@ -1,5 +1,4 @@
-Polyporus paluster Berk. & M.A. Curtis SPECIES
-=======
+# Polyporus paluster Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

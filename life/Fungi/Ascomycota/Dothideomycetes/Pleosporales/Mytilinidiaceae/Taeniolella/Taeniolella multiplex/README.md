@@ -1,5 +1,4 @@
-Taeniolella multiplex (Berk. & M.A. Curtis) S. Hughes SPECIES
-=======
+# Taeniolella multiplex (Berk. & M.A. Curtis) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

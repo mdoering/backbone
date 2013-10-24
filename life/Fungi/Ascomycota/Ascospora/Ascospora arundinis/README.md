@@ -1,5 +1,4 @@
-Ascospora arundinis Mont. SPECIES
-=======
+# Ascospora arundinis Mont. SPECIES
 
 #### Status
 ACCEPTED

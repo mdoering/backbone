@@ -1,5 +1,4 @@
-Conexibacter Monciardini, Cavaletti, Schumann, Rohde & Donadio, 2003 GENUS
-=======
+# Conexibacter Monciardini, Cavaletti, Schumann, Rohde & Donadio, 2003 GENUS
 
 #### Status
 ACCEPTED

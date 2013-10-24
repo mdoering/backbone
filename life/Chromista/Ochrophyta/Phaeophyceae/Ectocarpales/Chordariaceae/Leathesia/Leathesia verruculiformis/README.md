@@ -1,5 +1,4 @@
-Leathesia verruculiformis Y.Lee & I.K.Lee SPECIES
-=======
+# Leathesia verruculiformis Y.Lee & I.K.Lee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irpex incrustans Mont. & Berk. SPECIES
-=======
+# Irpex incrustans Mont. & Berk. SPECIES
 
 #### Status
 ACCEPTED

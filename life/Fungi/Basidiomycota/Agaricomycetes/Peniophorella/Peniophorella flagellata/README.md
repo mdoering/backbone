@@ -1,14 +1,13 @@
-Hyphoderma flagellatum (G. Cunn.) Jülich, 1978 SPECIES
-=======
+# Peniophorella flagellata (G. Cunn.) K.H. Larss., 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 9(4): 463 (1978)
+Mycol. Res. 111(2): 192 (2007)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Boveria labialis Ikeda & Ozaki, 1918 SPECIES
-=======
+# Boveria labialis Ikeda & Ozaki, 1918 SPECIES
 
 #### Status
 ACCEPTED

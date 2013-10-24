@@ -1,5 +1,4 @@
-Cronartium Fr. GENUS
-=======
+# Cronartium Fr. GENUS
 
 #### Status
 ACCEPTED

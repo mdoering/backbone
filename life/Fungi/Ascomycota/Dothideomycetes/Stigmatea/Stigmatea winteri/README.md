@@ -1,5 +1,4 @@
-Stigmatea winteri Pass. SPECIES
-=======
+# Stigmatea winteri Pass. SPECIES
 
 #### Status
 ACCEPTED

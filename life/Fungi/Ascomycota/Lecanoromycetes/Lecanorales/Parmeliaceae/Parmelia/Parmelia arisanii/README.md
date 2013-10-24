@@ -1,5 +1,4 @@
-Parmelia arisanii Zahlbr. SPECIES
-=======
+# Parmelia arisanii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

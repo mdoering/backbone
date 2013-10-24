@@ -1,5 +1,4 @@
-Crocysporium aegerita Corda SPECIES
-=======
+# Crocysporium aegerita Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Julella phycophila Döbbeler SPECIES
-=======
+# Julella phycophila Döbbeler SPECIES
 
 #### Status
 ACCEPTED

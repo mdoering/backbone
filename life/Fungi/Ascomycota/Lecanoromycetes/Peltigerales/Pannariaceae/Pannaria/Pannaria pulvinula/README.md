@@ -1,5 +1,4 @@
-Pannaria pulvinula P.M. Jørg. SPECIES
-=======
+# Pannaria pulvinula P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trithyrodinium suspectum (Manum & Cookson, 1964) Davey, 1969 SPECIES
-=======
+# Trithyrodinium suspectum (Manum & Cookson, 1964) Davey, 1969 SPECIES
 
 #### Status
 ACCEPTED

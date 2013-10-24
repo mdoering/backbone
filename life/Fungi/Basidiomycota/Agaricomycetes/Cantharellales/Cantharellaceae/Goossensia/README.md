@@ -1,5 +1,4 @@
-Goossensia Heinemann, 1958 GENUS
-=======
+# Goossensia Heinemann, 1958 GENUS
 
 #### Status
 ACCEPTED

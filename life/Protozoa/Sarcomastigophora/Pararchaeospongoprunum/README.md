@@ -1,5 +1,4 @@
-Pararchaeospongoprunum Lahm, 1984 GENUS
-=======
+# Pararchaeospongoprunum Lahm, 1984 GENUS
 
 #### Status
 ACCEPTED

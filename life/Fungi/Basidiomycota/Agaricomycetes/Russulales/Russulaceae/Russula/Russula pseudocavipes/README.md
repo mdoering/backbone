@@ -1,5 +1,4 @@
-Russula pseudocavipes Bon SPECIES
-=======
+# Russula pseudocavipes Bon SPECIES
 
 #### Status
 ACCEPTED

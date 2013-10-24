@@ -1,17 +1,16 @@
-Strickeria ohiensis (Ellis & Everh.) Kuntze SPECIES
-=======
+# Strickeria ohioensis (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3(2): 534 (1898)
 
 #### Original name
-Teichospora ohiensis Ellis & Everh.
+Teichospora ohioensis Ellis & Everh.
 
 ### Remarks
 null

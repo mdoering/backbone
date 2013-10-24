@@ -1,5 +1,4 @@
-Passalora citrigena Crous & U. Braun SPECIES
-=======
+# Passalora citrigena Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

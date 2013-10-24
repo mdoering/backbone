@@ -1,5 +1,4 @@
-Rectoglandulina aequalis SPECIES
-=======
+# Rectoglandulina aequalis SPECIES
 
 #### Status
 ACCEPTED

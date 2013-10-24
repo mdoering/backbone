@@ -1,5 +1,4 @@
-Bursaridium Lauterborn, 1894 GENUS
-=======
+# Bursaridium Lauterborn, 1894 GENUS
 
 #### Status
 ACCEPTED

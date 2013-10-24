@@ -1,5 +1,4 @@
-Nectriopsis hypocrellicola (Henn.) Samuels SPECIES
-=======
+# Nectriopsis hypocrellicola (Henn.) Samuels SPECIES
 
 #### Status
 ACCEPTED

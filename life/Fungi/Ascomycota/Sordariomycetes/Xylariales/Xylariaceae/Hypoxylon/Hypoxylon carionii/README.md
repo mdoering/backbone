@@ -1,17 +1,16 @@
-Hypoxylon carioni Flageolet SPECIES
-=======
+# Hypoxylon carionii Flageolet SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bulletin de la Société d'Histoire naturelle d'Autun 26: 445 (1914)
 
 #### Original name
-Hypoxylon carioni Flageolet
+Hypoxylon carionii Flageolet
 
 ### Remarks
 null

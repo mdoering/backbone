@@ -1,5 +1,4 @@
-Seticyphella Agerer GENUS
-=======
+# Seticyphella Agerer GENUS
 
 #### Status
 ACCEPTED

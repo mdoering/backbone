@@ -1,5 +1,4 @@
-Collybia cremeimellea Murrill SPECIES
-=======
+# Collybia cremeimellea Murrill SPECIES
 
 #### Status
 ACCEPTED

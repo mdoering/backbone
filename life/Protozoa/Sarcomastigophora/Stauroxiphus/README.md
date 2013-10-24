@@ -1,5 +1,4 @@
-Stauroxiphus Haeckel, 1887 GENUS
-=======
+# Stauroxiphus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Omphalia alba Bres., 1915 SPECIES
-=======
+# Mycena alba (Bres.) Kühner, 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. ital. crypt. 1: 295 (1915)
+Encyclop. Mycol. 10: 594 (1938)
 
 #### Original name
 Omphalia alba Bres., 1915

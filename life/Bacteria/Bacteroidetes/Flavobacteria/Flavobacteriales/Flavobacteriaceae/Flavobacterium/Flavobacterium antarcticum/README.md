@@ -1,5 +1,4 @@
-Flavobacterium antarcticum Yi et al., 2005 SPECIES
-=======
+# Flavobacterium antarcticum Yi et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

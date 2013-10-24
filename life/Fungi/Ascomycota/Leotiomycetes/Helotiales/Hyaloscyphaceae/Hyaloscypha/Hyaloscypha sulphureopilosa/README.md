@@ -1,5 +1,4 @@
-Hyaloscypha sulphureopilosa Svrcek SPECIES
-=======
+# Hyaloscypha sulphureopilosa Svrcek SPECIES
 
 #### Status
 ACCEPTED

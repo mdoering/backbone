@@ -1,5 +1,4 @@
-Celloniella palensis Pascher SPECIES
-=======
+# Celloniella palensis Pascher SPECIES
 
 #### Status
 ACCEPTED

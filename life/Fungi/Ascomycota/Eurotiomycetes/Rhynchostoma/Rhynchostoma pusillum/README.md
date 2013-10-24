@@ -1,5 +1,4 @@
-Rhynchostoma pusillum Syd. SPECIES
-=======
+# Rhynchostoma pusillum Syd. SPECIES
 
 #### Status
 ACCEPTED

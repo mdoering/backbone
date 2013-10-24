@@ -1,5 +1,4 @@
-Ophiobolus passiflorae Gonz. Frag. & Cif. SPECIES
-=======
+# Ophiobolus passiflorae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

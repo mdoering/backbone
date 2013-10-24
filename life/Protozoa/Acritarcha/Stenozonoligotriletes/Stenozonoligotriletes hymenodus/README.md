@@ -1,5 +1,4 @@
-Stenozonoligotriletes hymenodus Timofeev, 1959 SPECIES
-=======
+# Stenozonoligotriletes hymenodus Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

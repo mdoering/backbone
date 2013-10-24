@@ -1,5 +1,4 @@
-Brevibacillus Shida, Takagi, Kakowaki & Komagata, 1996 GENUS
-=======
+# Brevibacillus Shida, Takagi, Kakowaki & Komagata, 1996 GENUS
 
 #### Status
 ACCEPTED

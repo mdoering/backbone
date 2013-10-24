@@ -1,5 +1,4 @@
-Meliola leptidea var. leptidea VARIETY
-=======
+# Meliola leptidea Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls mycol. 10(1): 38 (1912)
 
 #### Original name
-Meliola leptidea var. leptidea
+Meliola leptidea Petr. & Syd.
 
 ### Remarks
 null

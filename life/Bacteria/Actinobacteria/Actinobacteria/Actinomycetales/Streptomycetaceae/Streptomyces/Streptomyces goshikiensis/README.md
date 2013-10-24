@@ -1,5 +1,4 @@
-Streptomyces goshikiensis Niida, 1966 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces goshikiensis Niida, 1966 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

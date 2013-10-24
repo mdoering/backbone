@@ -1,5 +1,4 @@
-Panaeolus atomatus (Fr.) Fr. SPECIES
-=======
+# Panaeolus atomatus (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

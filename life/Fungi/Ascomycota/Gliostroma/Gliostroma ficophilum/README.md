@@ -1,5 +1,4 @@
-Gliostroma ficophilum Schulzer SPECIES
-=======
+# Gliostroma ficophilum Schulzer SPECIES
 
 #### Status
 ACCEPTED

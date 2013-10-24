@@ -1,5 +1,4 @@
-Arthonia leucocarpa (Müll. Arg.) Willey SPECIES
-=======
+# Arthonia leucocarpa (Müll. Arg.) Willey SPECIES
 
 #### Status
 ACCEPTED

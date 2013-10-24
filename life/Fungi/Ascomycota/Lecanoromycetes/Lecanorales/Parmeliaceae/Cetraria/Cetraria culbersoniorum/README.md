@@ -1,5 +1,4 @@
-Cetraria culbersoniorum Trass SPECIES
-=======
+# Cetraria culbersoniorum Trass SPECIES
 
 #### Status
 ACCEPTED

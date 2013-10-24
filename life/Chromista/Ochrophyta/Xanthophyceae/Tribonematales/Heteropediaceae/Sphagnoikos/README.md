@@ -1,5 +1,4 @@
-Sphagnoikos P.C.Silva, 1979 GENUS
-=======
+# Sphagnoikos P.C.Silva, 1979 GENUS
 
 #### Status
 ACCEPTED

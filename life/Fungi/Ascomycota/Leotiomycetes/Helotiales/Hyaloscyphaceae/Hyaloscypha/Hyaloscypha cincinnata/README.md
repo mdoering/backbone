@@ -1,5 +1,4 @@
-Hyaloscypha cincinnata Sherwood SPECIES
-=======
+# Hyaloscypha cincinnata Sherwood SPECIES
 
 #### Status
 ACCEPTED

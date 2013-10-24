@@ -1,5 +1,4 @@
-Meliola khayae var. khayae VARIETY
-=======
+# Meliola khayae Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 J. Linn. Soc. , Bot. 51: 542 (1938)
 
 #### Original name
-Meliola khayae var. khayae
+Meliola khayae Hansf.
 
 ### Remarks
 null

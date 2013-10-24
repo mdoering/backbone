@@ -1,5 +1,4 @@
-Phakopsora microspora Cummins SPECIES
-=======
+# Phakopsora microspora Cummins SPECIES
 
 #### Status
 ACCEPTED

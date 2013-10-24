@@ -1,5 +1,4 @@
-Epilichen glauconigellus (Nyl.) Hafellner SPECIES
-=======
+# Epilichen glauconigellus (Nyl.) Hafellner SPECIES
 
 #### Status
 ACCEPTED

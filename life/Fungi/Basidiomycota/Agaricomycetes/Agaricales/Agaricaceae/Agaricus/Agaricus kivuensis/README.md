@@ -1,5 +1,4 @@
-Agaricus kivuensis Heinem. & Gooss.-Font. SPECIES
-=======
+# Agaricus kivuensis Heinem. & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

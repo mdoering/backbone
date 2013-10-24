@@ -1,5 +1,4 @@
-Gonohymenia etoshica Brusse SPECIES
-=======
+# Gonohymenia etoshica Brusse SPECIES
 
 #### Status
 ACCEPTED

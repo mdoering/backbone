@@ -1,17 +1,16 @@
-Jackya Bubák GENUS
-=======
+# Puccinia Pers. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Öst. bot. Z. 52: 42 (1902)
+Neues Mag. Bot. 1: 118 (1794)
 
 #### Original name
-Jackya Bubák
+Puccinia Pers.
 
 ### Remarks
 null

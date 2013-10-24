@@ -1,5 +1,4 @@
-Hemigrapha phaeospora Matzer & Lücking SPECIES
-=======
+# Hemigrapha phaeospora Matzer & Lücking SPECIES
 
 #### Status
 ACCEPTED

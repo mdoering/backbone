@@ -1,5 +1,4 @@
-Opegrapha chlorocarpoides Vain. SPECIES
-=======
+# Opegrapha chlorocarpoides Vain. SPECIES
 
 #### Status
 ACCEPTED

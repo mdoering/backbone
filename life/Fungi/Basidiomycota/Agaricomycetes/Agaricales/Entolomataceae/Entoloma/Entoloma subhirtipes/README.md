@@ -1,5 +1,4 @@
-Entoloma subhirtipes Hesler SPECIES
-=======
+# Entoloma subhirtipes Hesler SPECIES
 
 #### Status
 ACCEPTED

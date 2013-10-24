@@ -1,5 +1,4 @@
-Metasphaeria nigrovelata Feltgen SPECIES
-=======
+# Metasphaeria nigrovelata Feltgen SPECIES
 
 #### Status
 ACCEPTED

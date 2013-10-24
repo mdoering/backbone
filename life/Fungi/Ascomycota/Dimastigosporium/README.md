@@ -1,5 +1,4 @@
-Dimastigosporium Faurel & Schotter GENUS
-=======
+# Dimastigosporium Faurel & Schotter GENUS
 
 #### Status
 ACCEPTED

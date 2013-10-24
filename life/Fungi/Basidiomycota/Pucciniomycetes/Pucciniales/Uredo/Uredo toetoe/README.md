@@ -1,5 +1,4 @@
-Uredo toetoe G. Cunn., 1924 SPECIES
-=======
+# Uredo toetoe G. Cunn., 1924 SPECIES
 
 #### Status
 ACCEPTED

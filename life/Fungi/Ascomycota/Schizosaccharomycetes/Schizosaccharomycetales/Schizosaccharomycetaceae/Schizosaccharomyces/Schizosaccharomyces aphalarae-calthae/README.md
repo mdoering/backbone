@@ -1,5 +1,4 @@
-Schizosaccharomyces aphalarae-calthae ulc SPECIES
-=======
+# Schizosaccharomyces aphalarae-calthae ulc SPECIES
 
 #### Status
 ACCEPTED

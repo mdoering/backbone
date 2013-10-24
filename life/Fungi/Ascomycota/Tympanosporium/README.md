@@ -1,5 +1,4 @@
-Tympanosporium W. Gams, 1974 GENUS
-=======
+# Tympanosporium W. Gams, 1974 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllopsora soralifera Timdal SPECIES
-=======
+# Phyllopsora soralifera Timdal SPECIES
 
 #### Status
 ACCEPTED

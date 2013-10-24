@@ -1,14 +1,13 @@
-Beauveria nivea (Rostr.) Arx, 1986 SPECIES
-=======
+# Tolypocladium niveum (Rostr.) Bissett, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 25(1): 156 (1986)
+Can. J. Bot. 61(5): 1312 (1983)
 
 #### Original name
 Pachybasium niveum O. Rostr., 1916

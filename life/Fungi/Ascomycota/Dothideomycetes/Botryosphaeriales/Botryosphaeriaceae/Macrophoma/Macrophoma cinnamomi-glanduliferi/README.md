@@ -1,5 +1,4 @@
-Macrophoma cinnamomi-glanduliferi Maffei SPECIES
-=======
+# Macrophoma cinnamomi-glanduliferi Maffei SPECIES
 
 #### Status
 ACCEPTED

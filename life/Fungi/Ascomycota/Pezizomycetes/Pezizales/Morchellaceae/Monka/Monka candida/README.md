@@ -1,5 +1,4 @@
-Monka candida (Sw.) Kuntze SPECIES
-=======
+# Monka candida (Sw.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

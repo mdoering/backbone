@@ -1,5 +1,4 @@
-Buellia hedinii H. Magn. SPECIES
-=======
+# Buellia hedinii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

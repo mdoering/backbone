@@ -1,5 +1,4 @@
-Ramularia pimpinellae Jaap SPECIES
-=======
+# Ramularia pimpinellae Jaap SPECIES
 
 #### Status
 ACCEPTED

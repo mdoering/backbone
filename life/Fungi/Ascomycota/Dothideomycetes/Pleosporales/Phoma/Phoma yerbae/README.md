@@ -1,5 +1,4 @@
-Phoma yerbae Speg. SPECIES
-=======
+# Phoma yerbae Speg. SPECIES
 
 #### Status
 ACCEPTED

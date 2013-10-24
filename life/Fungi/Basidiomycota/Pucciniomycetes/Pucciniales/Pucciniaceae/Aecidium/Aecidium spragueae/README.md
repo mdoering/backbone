@@ -1,5 +1,4 @@
-Aecidium spragueae Harkn. SPECIES
-=======
+# Aecidium spragueae Harkn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichodina urinicola Fulton, 1923 SPECIES
-=======
+# Trichodina urinicola Fulton, 1923 SPECIES
 
 #### Status
 ACCEPTED

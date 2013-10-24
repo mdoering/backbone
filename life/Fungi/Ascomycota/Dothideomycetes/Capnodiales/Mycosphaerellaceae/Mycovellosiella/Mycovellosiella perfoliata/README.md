@@ -1,5 +1,4 @@
-Mycovellosiella perfoliata var. perfoliata VARIETY
-=======
+# Mycovellosiella perfoliata (Ellis & Everh.) Munt.-Cvetk., 1960 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hastatella radians Erlanger, 1890 SPECIES
-=======
+# Hastatella radians Erlanger, 1890 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coccomyces tympanibaculi P.R. Johnst., 2000 SPECIES
-=======
+# Coccomyces tympanibaculi P.R. Johnst., 2000 SPECIES
 
 #### Status
 ACCEPTED

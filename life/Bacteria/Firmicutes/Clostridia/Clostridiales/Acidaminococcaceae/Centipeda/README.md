@@ -1,5 +1,4 @@
-Centipeda Lai et al., 1983 GENUS
-=======
+# Centipeda Lai et al., 1983 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia passifloricola Henn. SPECIES
-=======
+# Diplodia passifloricola Henn. SPECIES
 
 #### Status
 ACCEPTED

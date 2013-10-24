@@ -1,5 +1,4 @@
-Aspicilia carnosula Arnold SPECIES
-=======
+# Aspicilia carnosula Arnold SPECIES
 
 #### Status
 ACCEPTED

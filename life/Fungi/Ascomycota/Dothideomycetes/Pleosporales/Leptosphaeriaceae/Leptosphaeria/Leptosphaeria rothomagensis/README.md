@@ -1,5 +1,4 @@
-Leptosphaeria rothomagensis var. rothomagensis Sacc. VARIETY
-=======
+# Leptosphaeria rothomagensis Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptosphaeria rothomagensis var. rothomagensis Sacc.
+Leptosphaeria rothomagensis Sacc.
 
 ### Remarks
 null

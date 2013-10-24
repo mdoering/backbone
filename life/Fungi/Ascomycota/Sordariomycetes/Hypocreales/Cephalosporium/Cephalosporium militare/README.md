@@ -1,5 +1,4 @@
-Cephalosporium militare Kobayasi SPECIES
-=======
+# Cephalosporium militare Kobayasi SPECIES
 
 #### Status
 ACCEPTED

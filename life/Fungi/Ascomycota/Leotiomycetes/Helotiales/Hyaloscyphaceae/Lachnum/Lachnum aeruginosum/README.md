@@ -1,5 +1,4 @@
-Lachnum aeruginosum (Durieu) Raitv. & R. Galán SPECIES
-=======
+# Lachnum aeruginosum (Durieu) Raitv. & R. Galán SPECIES
 
 #### Status
 ACCEPTED

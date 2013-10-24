@@ -1,5 +1,4 @@
-Aecidium hispaniolae F. Kern, Cif. & Thurst. SPECIES
-=======
+# Aecidium hispaniolae F. Kern, Cif. & Thurst. SPECIES
 
 #### Status
 ACCEPTED

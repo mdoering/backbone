@@ -1,5 +1,4 @@
-Cercospora abricola Boedijn SPECIES
-=======
+# Cercospora abricola Boedijn SPECIES
 
 #### Status
 ACCEPTED

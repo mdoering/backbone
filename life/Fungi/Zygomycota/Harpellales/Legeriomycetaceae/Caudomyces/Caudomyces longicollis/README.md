@@ -1,5 +1,4 @@
-Caudomyces longicollis Strongman, 2007 SPECIES
-=======
+# Caudomyces longicollis Strongman, 2007 SPECIES
 
 #### Status
 ACCEPTED

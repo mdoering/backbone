@@ -1,17 +1,16 @@
-Chalcosphaeria pustula f. pustula FORM
-=======
+# Hypospilina pustula (Pers.) M. Monod, 1983 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 16(1/2): 97 (1918)
+Beih. Sydowia 9: 189 (1983)
 
 #### Original name
-Chalcosphaeria pustula f. pustula
+Sphaeria pustula Curr., 1859
 
 ### Remarks
 null

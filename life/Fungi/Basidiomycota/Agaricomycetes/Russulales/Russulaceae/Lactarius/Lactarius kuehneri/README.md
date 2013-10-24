@@ -1,5 +1,4 @@
-Lactarius kuehneri Joss. SPECIES
-=======
+# Lactarius kuehneri Joss. SPECIES
 
 #### Status
 ACCEPTED

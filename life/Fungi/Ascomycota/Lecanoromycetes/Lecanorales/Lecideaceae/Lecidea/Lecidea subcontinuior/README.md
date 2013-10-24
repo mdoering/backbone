@@ -1,5 +1,4 @@
-Lecidea subcontinuior B. de Lesd. SPECIES
-=======
+# Lecidea subcontinuior B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

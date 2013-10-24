@@ -1,17 +1,16 @@
-Rinodina quintana (Henriq.) Zahlbr. SPECIES
-=======
+# Rinodina substellulata Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. R. Soc. Edinb. 11: 461 (1882)
 
 #### Original name
-null
+Rinodina substellulata Müll. Arg.
 
 ### Remarks
 null

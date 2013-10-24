@@ -1,5 +1,4 @@
-Hyaloscypha candida (Starbäck) Boud. SPECIES
-=======
+# Hyaloscypha candida (Starbäck) Boud. SPECIES
 
 #### Status
 ACCEPTED

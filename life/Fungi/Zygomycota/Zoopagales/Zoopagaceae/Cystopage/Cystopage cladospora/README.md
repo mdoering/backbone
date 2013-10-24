@@ -1,5 +1,4 @@
-Cystopage cladospora Drechsler, 1957 SPECIES
-=======
+# Cystopage cladospora Drechsler, 1957 SPECIES
 
 #### Status
 ACCEPTED

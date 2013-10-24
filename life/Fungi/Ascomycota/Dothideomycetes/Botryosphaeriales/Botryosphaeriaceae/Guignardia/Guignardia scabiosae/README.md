@@ -1,5 +1,4 @@
-Guignardia scabiosae (Lambotte & Fautrey) Arx & E. Müll. SPECIES
-=======
+# Guignardia scabiosae (Lambotte & Fautrey) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

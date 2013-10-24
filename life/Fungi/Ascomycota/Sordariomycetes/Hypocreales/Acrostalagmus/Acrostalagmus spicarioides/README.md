@@ -1,5 +1,4 @@
-Acrostalagmus spicarioides Rudakov SPECIES
-=======
+# Acrostalagmus spicarioides Rudakov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus tehuelches Speg. SPECIES
-=======
+# Agaricus tehuelches Speg. SPECIES
 
 #### Status
 ACCEPTED

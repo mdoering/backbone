@@ -1,5 +1,4 @@
-Thelephora eradians Fr. SPECIES
-=======
+# Thelephora eradians Fr. SPECIES
 
 #### Status
 ACCEPTED

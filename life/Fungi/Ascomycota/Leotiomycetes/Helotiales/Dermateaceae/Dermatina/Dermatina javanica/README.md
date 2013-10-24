@@ -1,5 +1,4 @@
-Dermatina javanica Höhn. SPECIES
-=======
+# Dermatina javanica Höhn. SPECIES
 
 #### Status
 ACCEPTED

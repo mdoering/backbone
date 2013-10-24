@@ -1,11 +1,10 @@
-Spirillum metamorphum Terasaki, 1961 SPECIES
-=======
+# Simplicispira metamorpha (Terasaki, 1961) Grabovich et al., 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

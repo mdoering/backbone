@@ -1,5 +1,4 @@
-Archnosphaera myriacantha Haeckel SPECIES
-=======
+# Archnosphaera myriacantha Haeckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma fabianae Tassi SPECIES
-=======
+# Phoma fabianae Tassi SPECIES
 
 #### Status
 ACCEPTED

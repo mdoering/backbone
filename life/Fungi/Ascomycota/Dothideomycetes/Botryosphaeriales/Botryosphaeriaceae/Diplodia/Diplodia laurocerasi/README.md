@@ -1,5 +1,4 @@
-Diplodia laurocerasi Westend. SPECIES
-=======
+# Diplodia laurocerasi Westend. SPECIES
 
 #### Status
 ACCEPTED

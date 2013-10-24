@@ -1,5 +1,4 @@
-Sphaerulina suchumica Siemaszko SPECIES
-=======
+# Sphaerulina suchumica Siemaszko SPECIES
 
 #### Status
 ACCEPTED

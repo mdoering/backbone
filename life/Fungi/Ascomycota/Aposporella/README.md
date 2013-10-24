@@ -1,5 +1,4 @@
-Aposporella Thaxt. GENUS
-=======
+# Aposporella Thaxt. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycelium radicis-atrovirens Melin SPECIES
-=======
+# Mycelium radicis-atrovirens Melin SPECIES
 
 #### Status
 ACCEPTED

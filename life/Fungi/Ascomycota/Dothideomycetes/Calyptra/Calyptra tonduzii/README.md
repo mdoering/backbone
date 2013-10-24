@@ -1,5 +1,4 @@
-Calyptra tonduzii (Speg.) Bat. & Cif. SPECIES
-=======
+# Calyptra tonduzii (Speg.) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

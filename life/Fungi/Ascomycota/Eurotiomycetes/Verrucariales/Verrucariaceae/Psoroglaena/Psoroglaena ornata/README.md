@@ -1,5 +1,4 @@
-Psoroglaena ornata Herrera-Camp. & Lücking SPECIES
-=======
+# Psoroglaena ornata Herrera-Camp. & Lücking SPECIES
 
 #### Status
 ACCEPTED

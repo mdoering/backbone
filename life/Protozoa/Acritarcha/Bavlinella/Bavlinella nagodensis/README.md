@@ -1,5 +1,4 @@
-Bavlinella nagodensis Maithy & Gupta, 1983 SPECIES
-=======
+# Bavlinella nagodensis Maithy & Gupta, 1983 SPECIES
 
 #### Status
 ACCEPTED

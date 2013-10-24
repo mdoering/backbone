@@ -1,17 +1,16 @@
-Agaricus augeanus Mont., 1856 SPECIES
-=======
+# Clitocybe augeana (Mont.) Sacc., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. gen. sp. crypt. (Paris) 336 (1856)
+Syll. fung. (Abellini) 5: 157 (1887)
 
 #### Original name
-Agaricus augeanus Mont., 1856
+Agaricus augeana Mont.
 
 ### Remarks
 null

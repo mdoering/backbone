@@ -1,5 +1,4 @@
-Cothurnia macrodisca SPECIES
-=======
+# Cothurnia macrodisca SPECIES
 
 #### Status
 ACCEPTED

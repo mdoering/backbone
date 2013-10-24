@@ -1,5 +1,4 @@
-Oidium lactucae-debilis Sawada SPECIES
-=======
+# Oidium lactucae-debilis Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Everhartia aquatica (Goh & K.D. Hyde) Yanna, W.H. Ho, Goh & K.D. Hyde SPECIES
-=======
+# Everhartia aquatica (Goh & K.D. Hyde) Yanna, W.H. Ho, Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

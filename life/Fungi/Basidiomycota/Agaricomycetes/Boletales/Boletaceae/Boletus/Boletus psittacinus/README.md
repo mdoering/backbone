@@ -1,5 +1,4 @@
-Boletus psittacinus Corner SPECIES
-=======
+# Boletus psittacinus Corner SPECIES
 
 #### Status
 ACCEPTED

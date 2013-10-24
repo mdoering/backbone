@@ -1,5 +1,4 @@
-Dicaeoma torosum (Thüm.) Kuntze SPECIES
-=======
+# Dicaeoma torosum (Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

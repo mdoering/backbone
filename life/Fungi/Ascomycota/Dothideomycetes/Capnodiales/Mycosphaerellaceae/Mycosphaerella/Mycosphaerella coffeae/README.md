@@ -1,5 +1,4 @@
-Mycosphaerella coffeae Sawada SPECIES
-=======
+# Mycosphaerella coffeae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucocoprinus tanetensis Bouriquet SPECIES
-=======
+# Leucocoprinus tanetensis Bouriquet SPECIES
 
 #### Status
 ACCEPTED

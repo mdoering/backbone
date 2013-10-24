@@ -1,14 +1,13 @@
-Lecidea protrusa f. meiococca (Nyl.) A.L. Sm. FORM
-=======
+# Lecidella meiococca (Nyl.) Leuckert & Hertel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Leuckert, Knoph & Hertel, Fourth International Mycological Congress Abstracts (Regensburg) 33 (1990)
 
 #### Original name
 Lecidea meiococca Nyl.

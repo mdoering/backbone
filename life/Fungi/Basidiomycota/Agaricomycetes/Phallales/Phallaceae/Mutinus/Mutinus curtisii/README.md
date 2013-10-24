@@ -1,5 +1,4 @@
-Mutinus curtisii (Berk.) E. Fisch. SPECIES
-=======
+# Mutinus curtisii (Berk.) E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita lignophila G.F. Atk. SPECIES
-=======
+# Amanita lignophila G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

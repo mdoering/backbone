@@ -1,5 +1,4 @@
-Sticta berteroana Mont. SPECIES
-=======
+# Sticta berteroana Mont. SPECIES
 
 #### Status
 ACCEPTED

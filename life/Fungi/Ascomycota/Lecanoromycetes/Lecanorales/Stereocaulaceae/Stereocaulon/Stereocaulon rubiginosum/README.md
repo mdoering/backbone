@@ -1,5 +1,4 @@
-Stereocaulon rubiginosum Pers. SPECIES
-=======
+# Stereocaulon rubiginosum Pers. SPECIES
 
 #### Status
 ACCEPTED

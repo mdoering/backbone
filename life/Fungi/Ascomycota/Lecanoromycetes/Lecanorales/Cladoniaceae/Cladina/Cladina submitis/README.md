@@ -1,5 +1,4 @@
-Cladina submitis (A. Evans) Hale & W.L. Culb. SPECIES
-=======
+# Cladina submitis (A. Evans) Hale & W.L. Culb. SPECIES
 
 #### Status
 ACCEPTED

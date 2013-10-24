@@ -1,5 +1,4 @@
-Dioicomyces umbonatus Thaxt. SPECIES
-=======
+# Dioicomyces umbonatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

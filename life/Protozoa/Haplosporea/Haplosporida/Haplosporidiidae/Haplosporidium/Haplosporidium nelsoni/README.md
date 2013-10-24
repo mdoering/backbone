@@ -1,5 +1,4 @@
-Haplosporidium nelsoni SPECIES
-=======
+# Haplosporidium nelsoni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trogia aphylla Corner SPECIES
-=======
+# Trogia aphylla Corner SPECIES
 
 #### Status
 ACCEPTED

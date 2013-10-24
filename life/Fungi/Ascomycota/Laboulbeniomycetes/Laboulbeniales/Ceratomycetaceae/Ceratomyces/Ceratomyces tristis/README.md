@@ -1,5 +1,4 @@
-Ceratomyces tristis Speg. SPECIES
-=======
+# Ceratomyces tristis Speg. SPECIES
 
 #### Status
 ACCEPTED

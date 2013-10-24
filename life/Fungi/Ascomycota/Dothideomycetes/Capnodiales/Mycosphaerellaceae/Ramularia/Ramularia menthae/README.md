@@ -1,5 +1,4 @@
-Ramularia menthae Sacc. SPECIES
-=======
+# Ramularia menthae Sacc. SPECIES
 
 #### Status
 ACCEPTED

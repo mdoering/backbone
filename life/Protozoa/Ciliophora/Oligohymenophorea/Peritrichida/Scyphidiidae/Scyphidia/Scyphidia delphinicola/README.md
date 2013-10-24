@@ -1,5 +1,4 @@
-Scyphidia delphinicola Dumas, 1929 SPECIES
-=======
+# Scyphidia delphinicola Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

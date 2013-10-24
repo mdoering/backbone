@@ -1,5 +1,4 @@
-Lophotrichus plumbescens Morinaga, Minoura & Udagawa, 1978 SPECIES
-=======
+# Lophotrichus plumbescens Morinaga, Minoura & Udagawa, 1978 SPECIES
 
 #### Status
 ACCEPTED

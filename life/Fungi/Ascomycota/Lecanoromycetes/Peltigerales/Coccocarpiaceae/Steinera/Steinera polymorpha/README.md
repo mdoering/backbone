@@ -1,5 +1,4 @@
-Steinera polymorpha P. James & Henssen SPECIES
-=======
+# Steinera polymorpha P. James & Henssen SPECIES
 
 #### Status
 ACCEPTED

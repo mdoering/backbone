@@ -1,5 +1,4 @@
-Polyporus irpex Schulzer ex E.H.L. Krause SPECIES
-=======
+# Polyporus irpex Schulzer ex E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

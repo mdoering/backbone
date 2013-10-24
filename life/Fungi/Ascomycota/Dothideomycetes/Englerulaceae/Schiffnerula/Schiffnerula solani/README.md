@@ -1,5 +1,4 @@
-Schiffnerula solani Hansf. SPECIES
-=======
+# Schiffnerula solani Hansf. SPECIES
 
 #### Status
 ACCEPTED

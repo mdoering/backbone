@@ -1,5 +1,4 @@
-Peziza antiquata Batsch SPECIES
-=======
+# Peziza antiquata Batsch SPECIES
 
 #### Status
 ACCEPTED

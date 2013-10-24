@@ -1,5 +1,4 @@
-Pertusaria pallidula Stirt. SPECIES
-=======
+# Pertusaria pallidula Stirt. SPECIES
 
 #### Status
 ACCEPTED

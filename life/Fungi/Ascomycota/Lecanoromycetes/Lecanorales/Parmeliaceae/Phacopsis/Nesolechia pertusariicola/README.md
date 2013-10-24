@@ -1,5 +1,4 @@
-Nesolechia pertusariicola (Jatta) Sacc. & D. Sacc. SPECIES
-=======
+# Nesolechia pertusariicola (Jatta) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

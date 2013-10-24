@@ -1,5 +1,4 @@
-Hypocopra amphisphaerioides (Ellis & Everh.) Griffiths SPECIES
-=======
+# Hypocopra amphisphaerioides (Ellis & Everh.) Griffiths SPECIES
 
 #### Status
 ACCEPTED

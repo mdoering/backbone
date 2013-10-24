@@ -1,5 +1,4 @@
-Cercospora verbenae-strictae Peck SPECIES
-=======
+# Cercospora verbenae-strictae Peck SPECIES
 
 #### Status
 ACCEPTED

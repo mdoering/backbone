@@ -1,5 +1,4 @@
-Sporidesmium copulatum Preuss SPECIES
-=======
+# Sporidesmium copulatum Preuss SPECIES
 
 #### Status
 ACCEPTED

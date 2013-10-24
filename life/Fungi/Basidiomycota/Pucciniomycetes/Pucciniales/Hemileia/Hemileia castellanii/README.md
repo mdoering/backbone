@@ -1,5 +1,4 @@
-Hemileia castellanii Ritschel SPECIES
-=======
+# Hemileia castellanii Ritschel SPECIES
 
 #### Status
 ACCEPTED

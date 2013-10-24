@@ -1,5 +1,4 @@
-Opercularia pleae Nenninger, 1948 SPECIES
-=======
+# Opercularia pleae Nenninger, 1948 SPECIES
 
 #### Status
 ACCEPTED

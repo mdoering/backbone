@@ -1,5 +1,4 @@
-Dennisiopsis multispora Subram. & Chandrash. SPECIES
-=======
+# Dennisiopsis multispora Subram. & Chandrash. SPECIES
 
 #### Status
 ACCEPTED

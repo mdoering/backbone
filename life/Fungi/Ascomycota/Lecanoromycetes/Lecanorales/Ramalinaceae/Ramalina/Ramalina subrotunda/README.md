@@ -1,5 +1,4 @@
-Ramalina subrotunda Kashiw., C.W. Sm. & K.H. Moon SPECIES
-=======
+# Ramalina subrotunda Kashiw., C.W. Sm. & K.H. Moon SPECIES
 
 #### Status
 ACCEPTED

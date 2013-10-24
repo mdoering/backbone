@@ -1,5 +1,4 @@
-Verrucaria obvoluta Nyl. SPECIES
-=======
+# Verrucaria obvoluta Nyl. SPECIES
 
 #### Status
 ACCEPTED

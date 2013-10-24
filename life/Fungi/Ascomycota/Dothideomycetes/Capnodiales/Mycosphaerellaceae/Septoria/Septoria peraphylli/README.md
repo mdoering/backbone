@@ -1,5 +1,4 @@
-Septoria peraphylli Peck SPECIES
-=======
+# Septoria peraphylli Peck SPECIES
 
 #### Status
 ACCEPTED

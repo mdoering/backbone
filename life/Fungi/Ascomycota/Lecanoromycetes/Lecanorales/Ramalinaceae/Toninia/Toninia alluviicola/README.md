@@ -1,5 +1,4 @@
-Toninia alluviicola M. Choisy SPECIES
-=======
+# Toninia alluviicola M. Choisy SPECIES
 
 #### Status
 ACCEPTED

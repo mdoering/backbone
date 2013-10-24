@@ -1,5 +1,4 @@
-Diplomitoporus dilutabilis Log.-Leite & J.E. Wright SPECIES
-=======
+# Diplomitoporus dilutabilis Log.-Leite & J.E. Wright SPECIES
 
 #### Status
 ACCEPTED

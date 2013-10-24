@@ -1,5 +1,4 @@
-Flavobacterium fryxellicola Van Trappen et al., 2005 SPECIES
-=======
+# Flavobacterium fryxellicola Van Trappen et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

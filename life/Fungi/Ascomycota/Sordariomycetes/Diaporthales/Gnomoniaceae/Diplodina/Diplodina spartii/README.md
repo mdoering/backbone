@@ -1,5 +1,4 @@
-Diplodina spartii Sousa da Câmara & Luz SPECIES
-=======
+# Diplodina spartii Sousa da Câmara & Luz SPECIES
 
 #### Status
 ACCEPTED

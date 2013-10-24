@@ -1,5 +1,4 @@
-Scolechotrichum GENUS
-=======
+# Scolechotrichum GENUS
 
 #### Status
 ACCEPTED

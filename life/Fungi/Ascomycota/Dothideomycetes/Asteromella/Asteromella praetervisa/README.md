@@ -1,5 +1,4 @@
-Asteromella praetervisa (Bubák) H. Ruppr. SPECIES
-=======
+# Asteromella praetervisa (Bubák) H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

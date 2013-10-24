@@ -1,5 +1,4 @@
-Fomes sordidissimus Speg. SPECIES
-=======
+# Fomes sordidissimus Speg. SPECIES
 
 #### Status
 ACCEPTED

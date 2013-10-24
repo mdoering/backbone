@@ -1,5 +1,4 @@
-Melampylidium africanum SPECIES
-=======
+# Melampylidium africanum SPECIES
 
 #### Status
 ACCEPTED

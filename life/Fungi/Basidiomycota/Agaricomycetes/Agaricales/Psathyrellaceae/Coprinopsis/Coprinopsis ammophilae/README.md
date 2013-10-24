@@ -1,5 +1,4 @@
-Coprinopsis ammophilae (Courtec.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis ammophilae (Courtec.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peniophora formosana Sheng H. Wu SPECIES
-=======
+# Peniophora formosana Sheng H. Wu SPECIES
 
 #### Status
 ACCEPTED

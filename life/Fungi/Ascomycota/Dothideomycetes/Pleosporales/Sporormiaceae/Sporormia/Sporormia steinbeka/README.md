@@ -1,5 +1,4 @@
-Sporormia steinbeka De Not. SPECIES
-=======
+# Sporormia steinbeka De Not. SPECIES
 
 #### Status
 ACCEPTED

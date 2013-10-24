@@ -1,5 +1,4 @@
-Pseudopyrenula polyphragmia Vain. SPECIES
-=======
+# Pseudopyrenula polyphragmia Vain. SPECIES
 
 #### Status
 ACCEPTED

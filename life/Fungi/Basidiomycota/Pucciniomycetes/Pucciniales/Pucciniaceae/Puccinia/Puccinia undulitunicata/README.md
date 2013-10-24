@@ -1,5 +1,4 @@
-Puccinia undulitunicata J.Y. Zhuang & Y.C. Wang SPECIES
-=======
+# Puccinia undulitunicata J.Y. Zhuang & Y.C. Wang SPECIES
 
 #### Status
 ACCEPTED

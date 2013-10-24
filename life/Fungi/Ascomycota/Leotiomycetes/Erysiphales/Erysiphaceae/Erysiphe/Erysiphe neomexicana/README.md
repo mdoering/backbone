@@ -1,5 +1,4 @@
-Erysiphe neomexicana (U. Braun) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe neomexicana (U. Braun) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

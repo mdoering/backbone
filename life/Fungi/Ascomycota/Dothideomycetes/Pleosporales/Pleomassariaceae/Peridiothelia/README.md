@@ -1,5 +1,4 @@
-Peridiothelia D. Hawksworth, 1985 GENUS
-=======
+# Peridiothelia D. Hawksworth, 1985 GENUS
 
 #### Status
 ACCEPTED

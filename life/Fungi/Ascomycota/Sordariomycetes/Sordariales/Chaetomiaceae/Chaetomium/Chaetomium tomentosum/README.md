@@ -1,5 +1,4 @@
-Chaetomium tomentosum Preuss SPECIES
-=======
+# Chaetomium tomentosum Preuss SPECIES
 
 #### Status
 ACCEPTED

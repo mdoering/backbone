@@ -1,5 +1,4 @@
-Puccinia papillosa J. Schröt. SPECIES
-=======
+# Puccinia papillosa J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

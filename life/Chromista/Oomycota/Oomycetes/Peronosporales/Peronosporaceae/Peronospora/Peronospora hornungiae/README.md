@@ -1,5 +1,4 @@
-Peronospora hornungiae A. Gustavsson SPECIES
-=======
+# Peronospora hornungiae A. Gustavsson SPECIES
 
 #### Status
 ACCEPTED

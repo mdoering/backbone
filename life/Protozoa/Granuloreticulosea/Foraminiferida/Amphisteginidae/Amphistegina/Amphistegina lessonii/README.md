@@ -1,5 +1,4 @@
-Amphistegina lessonii d'Orbigny in Guerin-Meneville, 1843 SPECIES
-=======
+# Amphistegina lessonii d'Orbigny in Guerin-Meneville, 1843 SPECIES
 
 #### Status
 ACCEPTED

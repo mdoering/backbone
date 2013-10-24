@@ -1,5 +1,4 @@
-Entonema subcorticale Reinsch SPECIES
-=======
+# Entonema subcorticale Reinsch SPECIES
 
 #### Status
 ACCEPTED

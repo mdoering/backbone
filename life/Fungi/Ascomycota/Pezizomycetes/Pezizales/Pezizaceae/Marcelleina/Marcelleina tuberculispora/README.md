@@ -1,5 +1,4 @@
-Marcelleina tuberculispora K. Hansen & Sandal SPECIES
-=======
+# Marcelleina tuberculispora K. Hansen & Sandal SPECIES
 
 #### Status
 ACCEPTED

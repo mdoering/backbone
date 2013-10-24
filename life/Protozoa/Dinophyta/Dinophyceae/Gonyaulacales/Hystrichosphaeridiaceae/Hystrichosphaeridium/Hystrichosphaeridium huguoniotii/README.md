@@ -1,5 +1,4 @@
-Hystrichosphaeridium huguoniotii L. Valensi SPECIES
-=======
+# Hystrichosphaeridium huguoniotii L. Valensi SPECIES
 
 #### Status
 ACCEPTED

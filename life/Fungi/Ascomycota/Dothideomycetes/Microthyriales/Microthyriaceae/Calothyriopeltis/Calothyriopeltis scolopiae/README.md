@@ -1,5 +1,4 @@
-Calothyriopeltis scolopiae Sawada & W. Yamam. SPECIES
-=======
+# Calothyriopeltis scolopiae Sawada & W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

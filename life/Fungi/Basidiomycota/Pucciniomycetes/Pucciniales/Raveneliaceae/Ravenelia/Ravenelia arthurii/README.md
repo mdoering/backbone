@@ -1,17 +1,16 @@
-Ravenelia arthuri Long SPECIES
-=======
+# Ravenelia arthurii Long SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Mycol. 12: 234 (1906)
 
 #### Original name
-Ravenelia arthuri Long
+Ravenelia arthurii Long
 
 ### Remarks
 null

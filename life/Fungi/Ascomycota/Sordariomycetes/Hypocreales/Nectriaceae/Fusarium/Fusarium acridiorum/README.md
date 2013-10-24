@@ -1,5 +1,4 @@
-Fusarium acridiorum (Trab.) Brongn. & Delacr. SPECIES
-=======
+# Fusarium acridiorum (Trab.) Brongn. & Delacr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aphelaria lacerata R.H. Petersen & M. Zang, 1986 SPECIES
-=======
+# Aphelaria lacerata R.H. Petersen & M. Zang, 1986 SPECIES
 
 #### Status
 ACCEPTED

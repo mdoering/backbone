@@ -1,5 +1,4 @@
-Lecanora aequinoctialis Stizenb. SPECIES
-=======
+# Lecanora aequinoctialis Stizenb. SPECIES
 
 #### Status
 ACCEPTED

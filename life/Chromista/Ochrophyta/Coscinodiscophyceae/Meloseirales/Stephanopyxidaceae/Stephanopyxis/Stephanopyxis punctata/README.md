@@ -1,5 +1,4 @@
-Stephanopyxis punctata Jousé SPECIES
-=======
+# Stephanopyxis punctata Jousé SPECIES
 
 #### Status
 ACCEPTED

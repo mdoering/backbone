@@ -1,5 +1,4 @@
-Haplosporidium Caullery & Mesnil, 1899 GENUS
-=======
+# Haplosporidium Caullery & Mesnil, 1899 GENUS
 
 #### Status
 ACCEPTED

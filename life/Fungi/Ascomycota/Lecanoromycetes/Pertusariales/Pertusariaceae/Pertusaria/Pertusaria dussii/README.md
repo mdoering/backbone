@@ -1,5 +1,4 @@
-Pertusaria dussii Vain. SPECIES
-=======
+# Pertusaria dussii Vain. SPECIES
 
 #### Status
 ACCEPTED

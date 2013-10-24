@@ -1,5 +1,4 @@
-Discosporium tremuloides (Ellis & Everh.) B. Sutton, 1980 SPECIES
-=======
+# Discosporium tremuloides (Ellis & Everh.) B. Sutton, 1980 SPECIES
 
 #### Status
 ACCEPTED

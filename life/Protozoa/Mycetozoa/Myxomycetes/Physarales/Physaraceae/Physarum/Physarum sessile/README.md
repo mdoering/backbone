@@ -1,5 +1,4 @@
-Physarum sessile Brândza, 1921 SPECIES
-=======
+# Physarum sessile Brândza, 1921 SPECIES
 
 #### Status
 ACCEPTED

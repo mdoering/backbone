@@ -1,5 +1,4 @@
-Streptomyces azureus Kelly et al., 1959 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces azureus Kelly et al., 1959 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

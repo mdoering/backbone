@@ -1,5 +1,4 @@
-Caloplaca cateileoides (Vain.) Plümper & Lumbsch SPECIES
-=======
+# Caloplaca cateileoides (Vain.) Plümper & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

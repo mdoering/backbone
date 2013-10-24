@@ -1,5 +1,4 @@
-Octospora ovalispora (Svrcek & Kubicka) Caillet & Moyne SPECIES
-=======
+# Octospora ovalispora (Svrcek & Kubicka) Caillet & Moyne SPECIES
 
 #### Status
 ACCEPTED

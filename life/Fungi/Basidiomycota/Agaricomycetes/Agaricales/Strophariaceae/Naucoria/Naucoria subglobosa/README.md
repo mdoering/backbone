@@ -1,14 +1,13 @@
-Nolanea subglobosa (Alb. & Schwein.) Cooke, 1922 SPECIES
-=======
+# Naucoria subglobosa (Alb. & Schwein.) Quél., 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brit. basidiomyc. (Cambridge) 404 (1922)
+Bull. Soc. bot. Fr. 26: 51 (1880)
 
 #### Original name
 Agaricus subglobosus Alb. & Schwein., 1805

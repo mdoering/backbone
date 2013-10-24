@@ -1,5 +1,4 @@
-Phyllachora gloriana C.A. Pearce, Reddell & K.D. Hyde, 1999 SPECIES
-=======
+# Phyllachora gloriana C.A. Pearce, Reddell & K.D. Hyde, 1999 SPECIES
 
 #### Status
 ACCEPTED

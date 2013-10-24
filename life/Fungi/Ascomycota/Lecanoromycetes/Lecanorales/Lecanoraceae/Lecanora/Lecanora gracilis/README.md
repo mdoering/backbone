@@ -1,5 +1,4 @@
-Lecanora gracilis (Müll. Arg.) Migula SPECIES
-=======
+# Lecanora gracilis (Müll. Arg.) Migula SPECIES
 
 #### Status
 ACCEPTED

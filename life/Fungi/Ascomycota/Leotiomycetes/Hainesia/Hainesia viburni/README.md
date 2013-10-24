@@ -1,5 +1,4 @@
-Hainesia viburni Petr. SPECIES
-=======
+# Hainesia viburni Petr. SPECIES
 
 #### Status
 ACCEPTED

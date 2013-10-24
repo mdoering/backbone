@@ -1,5 +1,4 @@
-Stagonospora vitensis Unamuno, 1929 SPECIES
-=======
+# Stagonospora vitensis Unamuno, 1929 SPECIES
 
 #### Status
 ACCEPTED

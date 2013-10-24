@@ -1,5 +1,4 @@
-Biatorinopsis GENUS
-=======
+# Biatorinopsis GENUS
 
 #### Status
 ACCEPTED

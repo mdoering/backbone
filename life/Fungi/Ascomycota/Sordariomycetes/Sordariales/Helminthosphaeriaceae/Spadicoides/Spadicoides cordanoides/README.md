@@ -1,5 +1,4 @@
-Spadicoides cordanoides Goh & K.D. Hyde SPECIES
-=======
+# Spadicoides cordanoides Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

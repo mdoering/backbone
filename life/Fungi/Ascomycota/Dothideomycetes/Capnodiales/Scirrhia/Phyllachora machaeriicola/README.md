@@ -1,8 +1,7 @@
-Phyllachora drepanocarpi Petr., 1947 SPECIES
-=======
+# Phyllachora machaeriicola (Henn.) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

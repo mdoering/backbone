@@ -1,5 +1,4 @@
-Pyrenodesmia GENUS
-=======
+# Pyrenodesmia GENUS
 
 #### Status
 ACCEPTED

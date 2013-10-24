@@ -1,5 +1,4 @@
-Leptogium simplicius var. simplicius VARIETY
-=======
+# Leptogium simplicius Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ann. Acad. Sci. fenn. , Ser. A 6(7): 109 (1915)
 
 #### Original name
-Leptogium simplicius var. simplicius
+Leptogium simplicius Vain.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pseudocyphellaria perpetua McCune & Miadl. SPECIES
-=======
+# Pseudocyphellaria perpetua McCune & Miadl. SPECIES
 
 #### Status
 ACCEPTED

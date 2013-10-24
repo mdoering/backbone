@@ -1,5 +1,4 @@
-Tetraplosphaeria nagasakiensis Kaz. Tanaka & K. Hirayama, 2009 SPECIES
-=======
+# Tetraplosphaeria nagasakiensis Kaz. Tanaka & K. Hirayama, 2009 SPECIES
 
 #### Status
 ACCEPTED

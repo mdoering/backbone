@@ -1,5 +1,4 @@
-Rhizoctonia tuliparum Whetzel & J.M. Arthur, 1924 SPECIES
-=======
+# Rhizoctonia tuliparum Whetzel & J.M. Arthur, 1924 SPECIES
 
 #### Status
 ACCEPTED

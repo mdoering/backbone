@@ -1,5 +1,4 @@
-Eidamella GENUS
-=======
+# Eidamella GENUS
 
 #### Status
 ACCEPTED

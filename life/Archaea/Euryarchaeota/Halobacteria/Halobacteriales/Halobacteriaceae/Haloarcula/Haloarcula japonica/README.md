@@ -1,5 +1,4 @@
-Haloarcula japonica Takashina et al., 1991 SPECIES
-=======
+# Haloarcula japonica Takashina et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

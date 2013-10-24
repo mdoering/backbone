@@ -1,5 +1,4 @@
-Cladonia fenestralis Nuno SPECIES
-=======
+# Cladonia fenestralis Nuno SPECIES
 
 #### Status
 ACCEPTED

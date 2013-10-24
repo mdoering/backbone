@@ -1,5 +1,4 @@
-Phycomycites organisatus Bender SPECIES
-=======
+# Phycomycites organisatus Bender SPECIES
 
 #### Status
 ACCEPTED

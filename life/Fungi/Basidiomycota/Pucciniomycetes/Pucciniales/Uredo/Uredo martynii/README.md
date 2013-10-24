@@ -1,5 +1,4 @@
-Uredo martynii W.T. Dale SPECIES
-=======
+# Uredo martynii W.T. Dale SPECIES
 
 #### Status
 ACCEPTED

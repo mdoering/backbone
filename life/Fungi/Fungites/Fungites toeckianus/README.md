@@ -1,5 +1,4 @@
-Fungites toeckianus Hallier SPECIES
-=======
+# Fungites toeckianus Hallier SPECIES
 
 #### Status
 ACCEPTED

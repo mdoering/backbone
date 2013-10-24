@@ -1,5 +1,4 @@
-Cortinarius rubeus Robar, K.A. Harrison & Grund SPECIES
-=======
+# Cortinarius rubeus Robar, K.A. Harrison & Grund SPECIES
 
 #### Status
 ACCEPTED

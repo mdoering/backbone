@@ -1,5 +1,4 @@
-Gonyaulax rugosa Wailes, 1928 SPECIES
-=======
+# Gonyaulax rugosa Wailes, 1928 SPECIES
 
 #### Status
 ACCEPTED

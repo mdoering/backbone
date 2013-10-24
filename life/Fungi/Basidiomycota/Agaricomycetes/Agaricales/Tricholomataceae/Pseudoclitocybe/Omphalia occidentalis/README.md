@@ -1,5 +1,4 @@
-Omphalia occidentalis A.H. Sm. SPECIES
-=======
+# Omphalia occidentalis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

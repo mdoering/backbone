@@ -1,14 +1,13 @@
-Catacauma grammicum (Henn.) Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora grammica Henn., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 13(3/4): 382 (1915)
+Annals de Musée du Congo, Botanique Série 5 2(2): 98 (1907)
 
 #### Original name
 Phyllachora grammica Henn., 1907

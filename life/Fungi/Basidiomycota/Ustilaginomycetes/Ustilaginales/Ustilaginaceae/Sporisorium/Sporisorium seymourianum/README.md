@@ -1,5 +1,4 @@
-Sporisorium seymourianum (G.P. Clinton) M. Piepenbr. SPECIES
-=======
+# Sporisorium seymourianum (G.P. Clinton) M. Piepenbr. SPECIES
 
 #### Status
 ACCEPTED

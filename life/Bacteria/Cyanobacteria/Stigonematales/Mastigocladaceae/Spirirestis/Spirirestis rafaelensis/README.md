@@ -1,5 +1,4 @@
-Spirirestis rafaelensis SPECIES
-=======
+# Spirirestis rafaelensis SPECIES
 
 #### Status
 ACCEPTED

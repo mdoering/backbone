@@ -1,5 +1,4 @@
-Collybia gregaria Henn. SPECIES
-=======
+# Collybia gregaria Henn. SPECIES
 
 #### Status
 ACCEPTED

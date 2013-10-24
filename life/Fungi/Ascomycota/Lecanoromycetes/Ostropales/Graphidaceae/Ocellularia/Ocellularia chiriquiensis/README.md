@@ -1,14 +1,13 @@
-Leptotrema chiriquiense Hale SPECIES
-=======
+# Ocellularia chiriquiensis (Hale) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Smithson. Contr. bot. 38: 50 (1978)
+Mycotaxon 11(1): 136 (1980)
 
 #### Original name
 Leptotrema chiriquiense Hale

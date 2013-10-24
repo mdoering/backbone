@@ -1,17 +1,16 @@
-Protomycopsis patelii f. sp FORM
-=======
+# Erratomyces patelii (Pavgi & Thirum.) M. Piepenbr. & R. Bauer, 1997 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Haware & Pavgi, Sydowia 29(1-6): 273 (1977)
+Mycologia 89(6): 933 (1997)
 
 #### Original name
-Protomycopsis patelii f. sp
+Protomycopsis patelii Pavgi & Thirum., 1953
 
 ### Remarks
 null

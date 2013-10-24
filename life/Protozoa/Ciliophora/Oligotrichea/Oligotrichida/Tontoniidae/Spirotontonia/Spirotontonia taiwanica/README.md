@@ -1,5 +1,4 @@
-Spirotontonia taiwanica Tsai, Chen & Chiang, 2010 SPECIES
-=======
+# Spirotontonia taiwanica Tsai, Chen & Chiang, 2010 SPECIES
 
 #### Status
 ACCEPTED

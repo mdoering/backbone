@@ -1,5 +1,4 @@
-Laminaria palmata Bory de St.-Vincent SPECIES
-=======
+# Laminaria palmata Bory de St.-Vincent SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis choisyae Grove SPECIES
-=======
+# Phomopsis choisyae Grove SPECIES
 
 #### Status
 ACCEPTED

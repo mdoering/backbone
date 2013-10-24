@@ -1,14 +1,13 @@
-Foxia mansonii (Castell.) Castell., 1908 SPECIES
-=======
+# Exophiala mansonii (Castell.) de Hoog, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Trop. Med. Hyg. 11: 260 (1908)
+Stud. Mycol. 15: 114 (1977)
 
 #### Original name
 Microsporum mansonii Castell., 1905

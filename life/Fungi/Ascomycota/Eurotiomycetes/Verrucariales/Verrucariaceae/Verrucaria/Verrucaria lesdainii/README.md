@@ -1,5 +1,4 @@
-Verrucaria lesdainii Harm. SPECIES
-=======
+# Verrucaria lesdainii Harm. SPECIES
 
 #### Status
 ACCEPTED

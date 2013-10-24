@@ -1,5 +1,4 @@
-Peniophora sordidissima (Rick) Rick SPECIES
-=======
+# Peniophora sordidissima (Rick) Rick SPECIES
 
 #### Status
 ACCEPTED

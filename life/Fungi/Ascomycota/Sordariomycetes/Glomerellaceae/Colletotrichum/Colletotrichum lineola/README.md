@@ -1,17 +1,16 @@
-Vermicularia lineola var. lineola VARIETY
-=======
+# Colletotrichum lineola Corda, 1832 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Vermicularia lineola var. lineola
+Colletotrichum lineola Corda, 1832
 
 ### Remarks
 null

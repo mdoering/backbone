@@ -1,5 +1,4 @@
-Cylindrocladium pini C. Booth SPECIES
-=======
+# Cylindrocladium pini C. Booth SPECIES
 
 #### Status
 ACCEPTED

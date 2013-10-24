@@ -1,5 +1,4 @@
-Hydnotrya subnix Trappe & Castellano SPECIES
-=======
+# Hydnotrya subnix Trappe & Castellano SPECIES
 
 #### Status
 ACCEPTED

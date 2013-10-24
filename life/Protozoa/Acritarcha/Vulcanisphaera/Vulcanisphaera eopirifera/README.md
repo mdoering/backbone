@@ -1,5 +1,4 @@
-Vulcanisphaera eopirifera (Fombella, 1978) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Vulcanisphaera eopirifera (Fombella, 1978) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

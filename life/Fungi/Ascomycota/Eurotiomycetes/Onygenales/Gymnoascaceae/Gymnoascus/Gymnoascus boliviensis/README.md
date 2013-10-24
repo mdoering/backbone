@@ -1,5 +1,4 @@
-Gymnoascus boliviensis Guarro, Ulfig & De Vroey, 1992 SPECIES
-=======
+# Gymnoascus boliviensis Guarro, Ulfig & De Vroey, 1992 SPECIES
 
 #### Status
 ACCEPTED

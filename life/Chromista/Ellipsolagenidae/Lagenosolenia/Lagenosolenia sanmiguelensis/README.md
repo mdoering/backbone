@@ -1,5 +1,4 @@
-Lagenosolenia sanmiguelensis McCulloch, 1977 SPECIES
-=======
+# Lagenosolenia sanmiguelensis McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

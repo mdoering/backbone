@@ -1,5 +1,4 @@
-Cladosphaeria hippophaës Nitschke SPECIES
-=======
+# Cladosphaeria hippophaës Nitschke SPECIES
 
 #### Status
 ACCEPTED

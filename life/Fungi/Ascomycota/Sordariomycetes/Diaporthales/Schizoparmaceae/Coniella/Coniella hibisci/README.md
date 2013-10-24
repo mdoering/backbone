@@ -1,5 +1,4 @@
-Coniella hibisci Morgan-Jones SPECIES
-=======
+# Coniella hibisci Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

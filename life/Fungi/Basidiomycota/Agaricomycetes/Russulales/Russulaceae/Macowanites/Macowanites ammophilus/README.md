@@ -1,14 +1,13 @@
-Gymnomyces ammophilus J.M. Vidal & Calonge, 1999 SPECIES
-=======
+# Macowanites ammophilus (J.M. Vidal & Calonge) J.M. Vidal & Calonge, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Calonge & Vidal, Boln Soc. Micol. Madrid 24: 66 (1999)
+in Vidal, Calonge & Martín, Revista Catalana de Micologia 24: 70 (2002)
 
 #### Original name
 Gymnomyces ammophilus J.M. Vidal & Calonge, 1999

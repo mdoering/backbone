@@ -1,5 +1,4 @@
-Hypoxylon niphidium Berk. & Broome SPECIES
-=======
+# Hypoxylon niphidium Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

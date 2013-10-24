@@ -1,5 +1,4 @@
-Bacidia albidolivens (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia albidolivens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

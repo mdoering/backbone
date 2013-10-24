@@ -1,5 +1,4 @@
-Pseudocercospora couratari (Chupp) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora couratari (Chupp) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

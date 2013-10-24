@@ -1,5 +1,4 @@
-Nectria minutissima Rehm SPECIES
-=======
+# Nectria minutissima Rehm SPECIES
 
 #### Status
 ACCEPTED

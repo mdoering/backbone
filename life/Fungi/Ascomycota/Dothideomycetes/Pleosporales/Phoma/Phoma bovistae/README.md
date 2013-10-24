@@ -1,5 +1,4 @@
-Phoma bovistae Hollós SPECIES
-=======
+# Phoma bovistae Hollós SPECIES
 
 #### Status
 ACCEPTED

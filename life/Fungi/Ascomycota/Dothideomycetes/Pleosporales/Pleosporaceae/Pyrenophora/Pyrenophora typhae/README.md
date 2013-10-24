@@ -1,5 +1,4 @@
-Pyrenophora typhae anon. SPECIES
-=======
+# Pyrenophora typhae anon. SPECIES
 
 #### Status
 ACCEPTED

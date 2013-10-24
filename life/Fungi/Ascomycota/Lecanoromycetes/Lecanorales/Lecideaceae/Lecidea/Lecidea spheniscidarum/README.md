@@ -1,5 +1,4 @@
-Lecidea spheniscidarum Hertel SPECIES
-=======
+# Lecidea spheniscidarum Hertel SPECIES
 
 #### Status
 ACCEPTED

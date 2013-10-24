@@ -1,5 +1,4 @@
-Tilletia lineata R.G. Shivas & Vánky, 2001 SPECIES
-=======
+# Tilletia lineata R.G. Shivas & Vánky, 2001 SPECIES
 
 #### Status
 ACCEPTED

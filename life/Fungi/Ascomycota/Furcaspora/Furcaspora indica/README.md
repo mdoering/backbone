@@ -1,5 +1,4 @@
-Furcaspora indica Talde SPECIES
-=======
+# Furcaspora indica Talde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha hoyae Vain. SPECIES
-=======
+# Opegrapha hoyae Vain. SPECIES
 
 #### Status
 ACCEPTED

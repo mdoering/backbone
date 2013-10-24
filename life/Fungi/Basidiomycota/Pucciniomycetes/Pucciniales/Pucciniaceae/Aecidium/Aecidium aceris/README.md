@@ -1,5 +1,4 @@
-Aecidium aceris Z.M. Cao & Z.Qi Li SPECIES
-=======
+# Aecidium aceris Z.M. Cao & Z.Qi Li SPECIES
 
 #### Status
 ACCEPTED

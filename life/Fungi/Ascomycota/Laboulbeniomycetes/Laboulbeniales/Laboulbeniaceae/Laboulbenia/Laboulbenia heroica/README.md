@@ -1,5 +1,4 @@
-Laboulbenia heroica Speg. SPECIES
-=======
+# Laboulbenia heroica Speg. SPECIES
 
 #### Status
 ACCEPTED

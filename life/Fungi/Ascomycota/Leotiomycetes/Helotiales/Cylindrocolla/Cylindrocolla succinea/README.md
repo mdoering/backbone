@@ -1,5 +1,4 @@
-Cylindrocolla succinea Sacc. & Penz. SPECIES
-=======
+# Cylindrocolla succinea Sacc. & Penz. SPECIES
 
 #### Status
 ACCEPTED

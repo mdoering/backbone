@@ -1,5 +1,4 @@
-Clavaria hydnoides Jungh. ex Lév. SPECIES
-=======
+# Clavaria hydnoides Jungh. ex Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces astragalicola Henn. SPECIES
-=======
+# Uromyces astragalicola Henn. SPECIES
 
 #### Status
 ACCEPTED

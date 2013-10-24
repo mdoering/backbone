@@ -1,5 +1,4 @@
-Meliola hoyae Sacc. SPECIES
-=======
+# Meliola hoyae Sacc. SPECIES
 
 #### Status
 ACCEPTED

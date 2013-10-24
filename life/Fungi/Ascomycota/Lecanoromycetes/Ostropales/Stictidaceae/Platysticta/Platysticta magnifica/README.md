@@ -1,5 +1,4 @@
-Platysticta magnifica Cooke SPECIES
-=======
+# Platysticta magnifica Cooke SPECIES
 
 #### Status
 ACCEPTED

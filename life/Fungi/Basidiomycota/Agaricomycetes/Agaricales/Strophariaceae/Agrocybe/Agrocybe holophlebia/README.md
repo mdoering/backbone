@@ -1,5 +1,4 @@
-Agrocybe holophlebia (Berk.) E. Horak SPECIES
-=======
+# Agrocybe holophlebia (Berk.) E. Horak SPECIES
 
 #### Status
 ACCEPTED

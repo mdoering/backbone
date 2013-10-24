@@ -1,5 +1,4 @@
-Quadratapora Hao & Shu, 1987 GENUS
-=======
+# Quadratapora Hao & Shu, 1987 GENUS
 
 #### Status
 ACCEPTED

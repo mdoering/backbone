@@ -1,5 +1,4 @@
-Uredo picridii (Magnus) Sacc., Traverso & Trotter SPECIES
-=======
+# Uredo picridii (Magnus) Sacc., Traverso & Trotter SPECIES
 
 #### Status
 ACCEPTED

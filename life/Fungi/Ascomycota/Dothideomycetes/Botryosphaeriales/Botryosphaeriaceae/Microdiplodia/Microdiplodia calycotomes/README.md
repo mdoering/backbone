@@ -1,5 +1,4 @@
-Microdiplodia calycotomes (Rolland) Tassi SPECIES
-=======
+# Microdiplodia calycotomes (Rolland) Tassi SPECIES
 
 #### Status
 ACCEPTED

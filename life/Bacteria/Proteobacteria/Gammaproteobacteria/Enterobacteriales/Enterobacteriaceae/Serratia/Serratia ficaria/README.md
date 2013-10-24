@@ -1,5 +1,4 @@
-Serratia ficaria Grimont et al., 1981 SPECIES
-=======
+# Serratia ficaria Grimont et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

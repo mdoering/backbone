@@ -1,5 +1,4 @@
-Spirulina jenneri (Stizenberger ex Gomont) Geitler, 1925 SPECIES
-=======
+# Spirulina jenneri (Stizenberger ex Gomont) Geitler, 1925 SPECIES
 
 #### Status
 ACCEPTED

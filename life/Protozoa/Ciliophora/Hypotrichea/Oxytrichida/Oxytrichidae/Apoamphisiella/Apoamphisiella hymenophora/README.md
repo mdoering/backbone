@@ -1,8 +1,7 @@
-Holosticha hymenophora Stokes, 1886 SPECIES
-=======
+# Apoamphisiella hymenophora Stokes SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

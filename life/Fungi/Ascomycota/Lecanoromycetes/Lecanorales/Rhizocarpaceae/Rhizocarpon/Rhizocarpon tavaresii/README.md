@@ -1,5 +1,4 @@
-Rhizocarpon tavaresii Räsänen SPECIES
-=======
+# Rhizocarpon tavaresii Räsänen SPECIES
 
 #### Status
 ACCEPTED

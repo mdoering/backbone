@@ -1,5 +1,4 @@
-Peziza orthotricha Berk. & M.A. Curtis SPECIES
-=======
+# Peziza orthotricha Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

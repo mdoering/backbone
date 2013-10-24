@@ -1,5 +1,4 @@
-Sphaceloma guatemalense Bitanc. & Jenkins SPECIES
-=======
+# Sphaceloma guatemalense Bitanc. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

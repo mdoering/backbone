@@ -1,5 +1,4 @@
-Entyloma jaegeriae Syd. SPECIES
-=======
+# Entyloma jaegeriae Syd. SPECIES
 
 #### Status
 ACCEPTED

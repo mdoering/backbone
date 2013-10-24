@@ -1,5 +1,4 @@
-Dimerosporium erysiphoides Ellis & Everh. SPECIES
-=======
+# Dimerosporium erysiphoides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

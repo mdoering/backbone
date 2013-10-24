@@ -1,5 +1,4 @@
-Stomiopeltopsis Bat. & Cavalc. GENUS
-=======
+# Stomiopeltopsis Bat. & Cavalc. GENUS
 
 #### Status
 ACCEPTED

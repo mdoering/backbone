@@ -1,5 +1,4 @@
-Eprolithus apertior Black, 1973 SPECIES
-=======
+# Eprolithus apertior Black, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Dasyscypha digitalincolus Rehm SPECIES
-=======
+# Dasyscyphus digitalincolus Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha digitalincolus Rehm
+Dasyscyphus digitalincolus Rehm
 
 ### Remarks
 null

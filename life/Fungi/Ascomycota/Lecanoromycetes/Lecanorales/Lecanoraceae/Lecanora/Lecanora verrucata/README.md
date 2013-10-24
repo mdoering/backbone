@@ -1,5 +1,4 @@
-Lecanora verrucata Hue SPECIES
-=======
+# Lecanora verrucata Hue SPECIES
 
 #### Status
 ACCEPTED

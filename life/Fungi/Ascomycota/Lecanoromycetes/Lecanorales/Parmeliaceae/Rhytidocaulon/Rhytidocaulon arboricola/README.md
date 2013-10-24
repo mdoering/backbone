@@ -1,5 +1,4 @@
-Rhytidocaulon arboricola (Jatta) Elenk. SPECIES
-=======
+# Rhytidocaulon arboricola (Jatta) Elenk. SPECIES
 
 #### Status
 ACCEPTED

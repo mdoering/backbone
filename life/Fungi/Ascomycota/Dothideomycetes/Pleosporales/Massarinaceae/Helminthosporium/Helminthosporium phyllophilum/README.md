@@ -1,17 +1,16 @@
-Helmisporium phyllophilum P. Karst. SPECIES
-=======
+# Helminthosporium phyllophilum Rabenh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 23: 41 (1884)
 
 #### Original name
-Helmisporium phyllophilum P. Karst.
+Helminthosporium phyllophilum Rabenh.
 
 ### Remarks
 null

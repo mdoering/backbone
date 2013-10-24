@@ -1,5 +1,4 @@
-Puccinia compressa Dietel SPECIES
-=======
+# Puccinia compressa Dietel SPECIES
 
 #### Status
 ACCEPTED

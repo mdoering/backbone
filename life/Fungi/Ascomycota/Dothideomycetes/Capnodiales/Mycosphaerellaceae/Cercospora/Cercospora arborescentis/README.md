@@ -1,5 +1,4 @@
-Cercospora arborescentis Tehon & E.Y. Daniels SPECIES
-=======
+# Cercospora arborescentis Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

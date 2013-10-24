@@ -1,17 +1,16 @@
-Sphaerella typhae (Lasch) Auersw., 1869 SPECIES
-=======
+# Mycosphaerella typhae J. Schröt., 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. eur. Abbildungen Sämmtlicher Pilze Europa's 5-6: 18 (1869)
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 2(3): 342 (1894)
 
 #### Original name
-Sphaeria typhae Lasch, 1850
+Mycosphaerella typhae J. Schröt., 1894
 
 ### Remarks
 null

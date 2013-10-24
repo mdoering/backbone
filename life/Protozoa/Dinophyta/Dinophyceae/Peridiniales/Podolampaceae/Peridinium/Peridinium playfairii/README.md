@@ -1,5 +1,4 @@
-Peridinium playfairii E.R. Lindemann SPECIES
-=======
+# Peridinium playfairii E.R. Lindemann SPECIES
 
 #### Status
 ACCEPTED

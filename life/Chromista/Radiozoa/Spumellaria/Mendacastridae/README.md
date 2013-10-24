@@ -1,5 +1,4 @@
-Mendacastridae FAMILY
-=======
+# Mendacastridae FAMILY
 
 #### Status
 ACCEPTED

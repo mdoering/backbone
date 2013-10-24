@@ -1,5 +1,4 @@
-Pluteus spinulosus Murrill SPECIES
-=======
+# Pluteus spinulosus Murrill SPECIES
 
 #### Status
 ACCEPTED

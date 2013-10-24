@@ -1,5 +1,4 @@
-Merulius applicatus Lév. SPECIES
-=======
+# Merulius applicatus Lév. SPECIES
 
 #### Status
 ACCEPTED

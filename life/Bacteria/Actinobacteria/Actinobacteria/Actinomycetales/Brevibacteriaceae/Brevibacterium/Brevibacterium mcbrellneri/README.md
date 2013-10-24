@@ -1,5 +1,4 @@
-Brevibacterium mcbrellneri McBride et al., 1994 SPECIES
-=======
+# Brevibacterium mcbrellneri McBride et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

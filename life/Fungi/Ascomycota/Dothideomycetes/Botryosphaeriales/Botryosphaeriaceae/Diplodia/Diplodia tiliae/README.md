@@ -1,5 +1,4 @@
-Diplodia tiliae Fuckel, 1870 SPECIES
-=======
+# Diplodia tiliae Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

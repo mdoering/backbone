@@ -1,5 +1,4 @@
-Paralithella B. Lambert, 1993 GENUS
-=======
+# Paralithella B. Lambert, 1993 GENUS
 
 #### Status
 ACCEPTED

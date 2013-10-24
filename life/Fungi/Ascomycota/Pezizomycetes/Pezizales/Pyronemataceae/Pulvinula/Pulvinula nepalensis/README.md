@@ -1,5 +1,4 @@
-Pulvinula nepalensis R. Kaushal SPECIES
-=======
+# Pulvinula nepalensis R. Kaushal SPECIES
 
 #### Status
 ACCEPTED

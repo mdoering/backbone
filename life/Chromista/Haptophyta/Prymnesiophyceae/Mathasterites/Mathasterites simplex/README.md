@@ -1,5 +1,4 @@
-Mathasterites simplex SPECIES
-=======
+# Mathasterites simplex SPECIES
 
 #### Status
 ACCEPTED

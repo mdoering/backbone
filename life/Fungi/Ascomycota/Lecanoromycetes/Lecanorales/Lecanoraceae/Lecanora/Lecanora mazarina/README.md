@@ -1,5 +1,4 @@
-Lecanora mazarina (Wahlenb.) Du Rietz SPECIES
-=======
+# Lecanora mazarina (Wahlenb.) Du Rietz SPECIES
 
 #### Status
 ACCEPTED

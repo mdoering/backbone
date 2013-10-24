@@ -1,5 +1,4 @@
-Astasia dangeardii Lemmermann SPECIES
-=======
+# Astasia dangeardii Lemmermann SPECIES
 
 #### Status
 ACCEPTED

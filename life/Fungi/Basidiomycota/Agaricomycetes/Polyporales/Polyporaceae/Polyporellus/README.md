@@ -1,5 +1,4 @@
-Polyporellus GENUS
-=======
+# Polyporellus GENUS
 
 #### Status
 ACCEPTED

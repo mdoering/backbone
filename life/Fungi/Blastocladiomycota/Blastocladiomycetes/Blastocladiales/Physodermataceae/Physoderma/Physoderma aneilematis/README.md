@@ -1,17 +1,16 @@
-Physoderma aneilemae Pavgi & Thirum. SPECIES
-=======
+# Physoderma aneilematis Pavgi & Thirum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 8(1-6): 94 (1954)
 
 #### Original name
-Physoderma aneilemae Pavgi & Thirum.
+Physoderma aneilematis Pavgi & Thirum.
 
 ### Remarks
 null

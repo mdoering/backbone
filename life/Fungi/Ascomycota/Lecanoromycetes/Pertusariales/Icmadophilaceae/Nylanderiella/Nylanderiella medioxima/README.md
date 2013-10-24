@@ -1,5 +1,4 @@
-Nylanderiella medioxima (Nyl.) Hue SPECIES
-=======
+# Nylanderiella medioxima (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

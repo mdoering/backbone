@@ -1,5 +1,4 @@
-Microthyrium holmiae Nograsek SPECIES
-=======
+# Microthyrium holmiae Nograsek SPECIES
 
 #### Status
 ACCEPTED

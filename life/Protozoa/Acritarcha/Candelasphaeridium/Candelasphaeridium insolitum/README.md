@@ -1,5 +1,4 @@
-Candelasphaeridium insolitum Deunff, 1978 SPECIES
-=======
+# Candelasphaeridium insolitum Deunff, 1978 SPECIES
 
 #### Status
 ACCEPTED

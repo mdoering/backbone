@@ -1,5 +1,4 @@
-Arthonia pyrenuloides Müll. Arg. SPECIES
-=======
+# Arthonia pyrenuloides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

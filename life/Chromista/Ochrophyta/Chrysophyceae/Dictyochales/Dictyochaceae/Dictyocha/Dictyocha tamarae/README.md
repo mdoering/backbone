@@ -1,5 +1,4 @@
-Dictyocha tamarae D. Bukry SPECIES
-=======
+# Dictyocha tamarae D. Bukry SPECIES
 
 #### Status
 ACCEPTED

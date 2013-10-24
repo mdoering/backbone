@@ -1,5 +1,4 @@
-Proteus infantum SPECIES
-=======
+# Proteus infantum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia prominula Berk. & M.A. Curtis SPECIES
-=======
+# Hendersonia prominula Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

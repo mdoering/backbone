@@ -1,5 +1,4 @@
-Flammula zenkeri Henn. SPECIES
-=======
+# Flammula zenkeri Henn. SPECIES
 
 #### Status
 ACCEPTED

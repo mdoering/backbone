@@ -1,5 +1,4 @@
-Arachnopeziza groenlandica Raitv. SPECIES
-=======
+# Arachnopeziza groenlandica Raitv. SPECIES
 
 #### Status
 ACCEPTED

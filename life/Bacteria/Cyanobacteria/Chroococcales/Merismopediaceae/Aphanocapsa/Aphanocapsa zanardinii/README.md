@@ -1,5 +1,4 @@
-Aphanocapsa zanardinii (Hauck) Hansgirg SPECIES
-=======
+# Aphanocapsa zanardinii (Hauck) Hansgirg SPECIES
 
 #### Status
 ACCEPTED

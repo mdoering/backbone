@@ -1,5 +1,4 @@
-Sporotrichum radicicola Zimm. SPECIES
-=======
+# Sporotrichum radicicola Zimm. SPECIES
 
 #### Status
 ACCEPTED

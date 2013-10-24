@@ -1,5 +1,4 @@
-Kisselovia edwardsii (Wilson, 1967) Stover & Evitt SPECIES
-=======
+# Kisselovia edwardsii (Wilson, 1967) Stover & Evitt SPECIES
 
 #### Status
 ACCEPTED

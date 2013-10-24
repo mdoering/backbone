@@ -1,5 +1,4 @@
-Ocellularia vaga (Vain.) Zahlbr. SPECIES
-=======
+# Ocellularia vaga (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

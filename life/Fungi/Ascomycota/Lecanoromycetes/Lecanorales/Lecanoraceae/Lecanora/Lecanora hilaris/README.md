@@ -1,5 +1,4 @@
-Lecanora hilaris Dufour SPECIES
-=======
+# Lecanora hilaris Dufour SPECIES
 
 #### Status
 ACCEPTED

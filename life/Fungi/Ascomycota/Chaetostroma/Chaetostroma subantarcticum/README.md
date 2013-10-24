@@ -1,5 +1,4 @@
-Chaetostroma subantarcticum Speg. SPECIES
-=======
+# Chaetostroma subantarcticum Speg. SPECIES
 
 #### Status
 ACCEPTED

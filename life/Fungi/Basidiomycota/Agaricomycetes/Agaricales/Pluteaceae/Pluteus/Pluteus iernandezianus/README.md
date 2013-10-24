@@ -1,5 +1,4 @@
-Pluteus iernandezianus Singer SPECIES
-=======
+# Pluteus iernandezianus Singer SPECIES
 
 #### Status
 ACCEPTED

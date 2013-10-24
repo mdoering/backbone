@@ -1,14 +1,13 @@
-Dendrocladium peckoltii Lloyd, 1922 SPECIES
-=======
+# Clavariachaete peckoltii (Lloyd) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Notes (Cincinnati) 66: 1111 (1922)
+Ann. Bot. Mem. 1: 269 (1950)
 
 #### Original name
 Dendrocladium peckoltii Lloyd, 1922

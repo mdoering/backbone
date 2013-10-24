@@ -1,8 +1,7 @@
-Lithoderma maculiforme Wollny SPECIES
-=======
+# Petroderma maculiforme (Wollny) Kuckuck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

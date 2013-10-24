@@ -1,5 +1,4 @@
-Escherichia albertii Huys et al., 2003 SPECIES
-=======
+# Escherichia albertii Huys et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

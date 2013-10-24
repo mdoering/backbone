@@ -1,5 +1,4 @@
-Dermatea pulcherrima Fuckel SPECIES
-=======
+# Dermatea pulcherrima Fuckel SPECIES
 
 #### Status
 ACCEPTED

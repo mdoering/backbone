@@ -1,5 +1,4 @@
-Monosporium spinosum Bonord. SPECIES
-=======
+# Monosporium spinosum Bonord. SPECIES
 
 #### Status
 ACCEPTED

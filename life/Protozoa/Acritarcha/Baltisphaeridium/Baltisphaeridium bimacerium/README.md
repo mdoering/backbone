@@ -1,5 +1,4 @@
-Baltisphaeridium bimacerium Zang Wen-long in Gravestock et al., 2001 SPECIES
-=======
+# Baltisphaeridium bimacerium Zang Wen-long in Gravestock et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

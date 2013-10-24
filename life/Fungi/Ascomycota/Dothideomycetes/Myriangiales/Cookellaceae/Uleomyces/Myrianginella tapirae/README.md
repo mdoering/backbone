@@ -1,5 +1,4 @@
-Myrianginella tapirae F. Stevens & Weedon SPECIES
-=======
+# Myrianginella tapirae F. Stevens & Weedon SPECIES
 
 #### Status
 ACCEPTED

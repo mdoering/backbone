@@ -1,5 +1,4 @@
-Placosphaeria scirrhioides Speg. SPECIES
-=======
+# Placosphaeria scirrhioides Speg. SPECIES
 
 #### Status
 ACCEPTED

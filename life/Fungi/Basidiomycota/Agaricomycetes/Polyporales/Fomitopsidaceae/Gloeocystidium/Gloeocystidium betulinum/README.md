@@ -1,5 +1,4 @@
-Gloeocystidium betulinum Killerm. SPECIES
-=======
+# Gloeocystidium betulinum Killerm. SPECIES
 
 #### Status
 ACCEPTED

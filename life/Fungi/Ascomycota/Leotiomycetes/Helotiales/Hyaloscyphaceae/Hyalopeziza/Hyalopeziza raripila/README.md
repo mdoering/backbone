@@ -1,5 +1,4 @@
-Hyalopeziza raripila (Höhn.) Huhtinen SPECIES
-=======
+# Hyalopeziza raripila (Höhn.) Huhtinen SPECIES
 
 #### Status
 ACCEPTED

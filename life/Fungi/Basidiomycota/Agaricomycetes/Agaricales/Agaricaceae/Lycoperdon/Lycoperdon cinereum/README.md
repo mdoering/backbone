@@ -1,5 +1,4 @@
-Lycoperdon cinereum Bonord. SPECIES
-=======
+# Lycoperdon cinereum Bonord. SPECIES
 
 #### Status
 ACCEPTED

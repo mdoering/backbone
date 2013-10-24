@@ -1,5 +1,4 @@
-Leptosphaeria vinosa Speg. SPECIES
-=======
+# Leptosphaeria vinosa Speg. SPECIES
 
 #### Status
 ACCEPTED

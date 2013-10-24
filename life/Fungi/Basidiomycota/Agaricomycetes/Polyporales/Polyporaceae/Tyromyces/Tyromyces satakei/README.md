@@ -1,5 +1,4 @@
-Tyromyces satakei (Imazeki) Quanten SPECIES
-=======
+# Tyromyces satakei (Imazeki) Quanten SPECIES
 
 #### Status
 ACCEPTED

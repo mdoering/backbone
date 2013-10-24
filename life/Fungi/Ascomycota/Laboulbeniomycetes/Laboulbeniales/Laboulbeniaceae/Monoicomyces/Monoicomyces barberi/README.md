@@ -1,5 +1,4 @@
-Monoicomyces barberi Thaxt. SPECIES
-=======
+# Monoicomyces barberi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

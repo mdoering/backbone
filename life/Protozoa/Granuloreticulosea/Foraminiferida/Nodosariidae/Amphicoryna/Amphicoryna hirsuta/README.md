@@ -1,5 +1,4 @@
-Amphicoryna hirsuta SPECIES
-=======
+# Amphicoryna hirsuta SPECIES
 
 #### Status
 ACCEPTED

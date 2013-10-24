@@ -1,17 +1,16 @@
-Dacrymyces tortus f. romellii (Neuhoff) Raitv., 1971 FORM
-=======
+# Dacrymyces punctiformis Neuhoff, 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Parmasto (Ed. ), Zhivaya priroda Dal'nego Vostoka [Plants and Animals of the Far East] (Tallin) 131 (1971)
+Schweiz. Z. Pilzk. 12: 81 (1934)
 
 #### Original name
-Dacrymyces romellii Neuhoff, 1934
+Dacrymyces punctiformis Neuhoff, 1934
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cryptococcus psoriasis Rivolta SPECIES
-=======
+# Cryptococcus psoriasis Rivolta SPECIES
 
 #### Status
 ACCEPTED

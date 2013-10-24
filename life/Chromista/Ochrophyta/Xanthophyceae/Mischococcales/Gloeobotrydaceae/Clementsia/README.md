@@ -1,5 +1,4 @@
-Clementsia G. Murray, 1905 GENUS
-=======
+# Clementsia G. Murray, 1905 GENUS
 
 #### Status
 ACCEPTED

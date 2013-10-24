@@ -1,5 +1,4 @@
-Sporisorium ryleyi Vánky & R.G. Shivas SPECIES
-=======
+# Sporisorium ryleyi Vánky & R.G. Shivas SPECIES
 
 #### Status
 ACCEPTED

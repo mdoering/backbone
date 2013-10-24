@@ -1,5 +1,4 @@
-Dothiorella lagenariae (Thüm.) Petr. & Syd. SPECIES
-=======
+# Dothiorella lagenariae (Thüm.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

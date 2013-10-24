@@ -1,5 +1,4 @@
-Lecanora iowensis Fink ex J. Hedrick SPECIES
-=======
+# Lecanora iowensis Fink ex J. Hedrick SPECIES
 
 #### Status
 ACCEPTED

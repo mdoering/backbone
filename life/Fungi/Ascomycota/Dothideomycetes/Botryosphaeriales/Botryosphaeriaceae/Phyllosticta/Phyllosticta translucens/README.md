@@ -1,5 +1,4 @@
-Phyllosticta translucens Bubák & Kabát SPECIES
-=======
+# Phyllosticta translucens Bubák & Kabát SPECIES
 
 #### Status
 ACCEPTED

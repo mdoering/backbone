@@ -1,5 +1,4 @@
-Collenella J.H. Johnson, 1942 GENUS
-=======
+# Collenella J.H. Johnson, 1942 GENUS
 
 #### Status
 ACCEPTED

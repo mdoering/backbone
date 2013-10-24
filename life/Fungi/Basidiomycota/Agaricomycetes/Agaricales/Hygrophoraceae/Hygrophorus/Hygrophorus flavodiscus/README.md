@@ -1,5 +1,4 @@
-Hygrophorus flavodiscus Frost SPECIES
-=======
+# Hygrophorus flavodiscus Frost SPECIES
 
 #### Status
 ACCEPTED

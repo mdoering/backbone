@@ -1,17 +1,16 @@
-Clitocybe rappiana Murrill, 1945 SPECIES
-=======
+# Leucopaxillus gracillimus Singer & A.H. Sm., 1943 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Pap. Mich. Acad. Sci. 28: 131 (1943)
 
 #### Original name
-Clitocybe rappiana Murrill, 1945
+Leucopaxillus gracillimus Singer & A.H. Sm., 1943
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Volvariopsis emendatior (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Volvariopsis emendatior (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichodiscus hooglandii Dennis SPECIES
-=======
+# Trichodiscus hooglandii Dennis SPECIES
 
 #### Status
 ACCEPTED

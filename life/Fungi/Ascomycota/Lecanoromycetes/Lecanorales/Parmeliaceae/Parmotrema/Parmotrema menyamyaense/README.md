@@ -1,5 +1,4 @@
-Parmotrema menyamyaense Louwhoff & Elix SPECIES
-=======
+# Parmotrema menyamyaense Louwhoff & Elix SPECIES
 
 #### Status
 ACCEPTED

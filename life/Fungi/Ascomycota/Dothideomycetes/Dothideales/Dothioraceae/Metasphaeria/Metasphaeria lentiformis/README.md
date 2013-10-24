@@ -1,5 +1,4 @@
-Metasphaeria lentiformis Feltgen SPECIES
-=======
+# Metasphaeria lentiformis Feltgen SPECIES
 
 #### Status
 ACCEPTED

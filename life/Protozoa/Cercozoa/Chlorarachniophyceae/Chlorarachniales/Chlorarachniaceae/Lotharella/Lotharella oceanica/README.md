@@ -1,5 +1,4 @@
-Lotharella oceanica S.Ota, 2009 SPECIES
-=======
+# Lotharella oceanica S.Ota, 2009 SPECIES
 
 #### Status
 ACCEPTED

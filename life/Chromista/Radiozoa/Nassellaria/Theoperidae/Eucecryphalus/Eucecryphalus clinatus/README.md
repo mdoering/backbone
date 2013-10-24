@@ -1,5 +1,4 @@
-Eucecryphalus clinatus Takahashi, 1991 SPECIES
-=======
+# Eucecryphalus clinatus Takahashi, 1991 SPECIES
 
 #### Status
 ACCEPTED

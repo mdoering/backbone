@@ -1,14 +1,13 @@
-Cladolegnia asterophora (de Bary) Johannes, 1955 SPECIES
-=======
+# Scoliolegnia asterophora (de Bary) M.W. Dick, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Feddes Repert. Spec. Nov. Regni Veg. 58: 215 (1955)
+J. Linn. Soc. , Bot. 62: 257 (1969)
 
 #### Original name
 Saprolegnia asterophora de Bary, 1860

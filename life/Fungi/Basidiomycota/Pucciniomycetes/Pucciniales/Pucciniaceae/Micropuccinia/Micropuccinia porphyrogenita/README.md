@@ -1,5 +1,4 @@
-Micropuccinia porphyrogenita (M.A. Curtis) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia porphyrogenita (M.A. Curtis) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

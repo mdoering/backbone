@@ -1,5 +1,4 @@
-Peziza exidiella Berk. & M.A. Curtis SPECIES
-=======
+# Peziza exidiella Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

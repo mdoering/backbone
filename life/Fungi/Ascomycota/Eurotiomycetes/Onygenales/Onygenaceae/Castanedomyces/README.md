@@ -1,5 +1,4 @@
-Castanedomyces Cano, L.B. Pitarch & Guarro GENUS
-=======
+# Castanedomyces Cano, L.B. Pitarch & Guarro GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria calonectricola Henn. SPECIES
-=======
+# Nectria calonectricola Henn. SPECIES
 
 #### Status
 ACCEPTED

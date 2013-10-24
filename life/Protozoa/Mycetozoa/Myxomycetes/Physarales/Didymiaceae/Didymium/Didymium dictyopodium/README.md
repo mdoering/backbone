@@ -1,5 +1,4 @@
-Didymium dictyopodium Nann.-Bremek. & Y. Yamam., 1986 SPECIES
-=======
+# Didymium dictyopodium Nann.-Bremek. & Y. Yamam., 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea periphaea Nyl. SPECIES
-=======
+# Lecidea periphaea Nyl. SPECIES
 
 #### Status
 ACCEPTED

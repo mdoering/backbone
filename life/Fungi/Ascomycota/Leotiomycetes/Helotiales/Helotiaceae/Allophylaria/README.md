@@ -1,5 +1,4 @@
-Allophylaria (P. Karst.) P. Karst. GENUS
-=======
+# Allophylaria (P. Karst.) P. Karst. GENUS
 
 #### Status
 ACCEPTED

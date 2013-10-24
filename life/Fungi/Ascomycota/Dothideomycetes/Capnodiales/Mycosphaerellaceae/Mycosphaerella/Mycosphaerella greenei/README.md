@@ -1,5 +1,4 @@
-Mycosphaerella greenei Tomilin SPECIES
-=======
+# Mycosphaerella greenei Tomilin SPECIES
 
 #### Status
 ACCEPTED

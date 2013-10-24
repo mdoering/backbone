@@ -1,8 +1,7 @@
-Diplodia nanophyton Byzova SPECIES
-=======
+# Diplodia nanophyti Byzova SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Diplodia nanophyton Byzova
+Diplodia nanophyti Byzova
 
 ### Remarks
 null

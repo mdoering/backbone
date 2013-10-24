@@ -1,5 +1,4 @@
-Dictyothyrium lauracearum Bat. & M.P. Herrera SPECIES
-=======
+# Dictyothyrium lauracearum Bat. & M.P. Herrera SPECIES
 
 #### Status
 ACCEPTED

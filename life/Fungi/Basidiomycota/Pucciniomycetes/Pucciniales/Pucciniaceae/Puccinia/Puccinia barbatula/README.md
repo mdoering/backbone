@@ -1,5 +1,4 @@
-Puccinia barbatula Arthur & J.R. Johnst. SPECIES
-=======
+# Puccinia barbatula Arthur & J.R. Johnst. SPECIES
 
 #### Status
 ACCEPTED

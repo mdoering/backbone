@@ -1,5 +1,4 @@
-Hygrophorus gedehensis Henn. SPECIES
-=======
+# Hygrophorus gedehensis Henn. SPECIES
 
 #### Status
 ACCEPTED

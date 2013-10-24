@@ -1,5 +1,4 @@
-Tolumonas Fischer-Romero, Tindall & Juttner, 1996 GENUS
-=======
+# Tolumonas Fischer-Romero, Tindall & Juttner, 1996 GENUS
 
 #### Status
 ACCEPTED

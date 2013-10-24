@@ -1,5 +1,4 @@
-Leptophacidium GENUS
-=======
+# Leptophacidium GENUS
 
 #### Status
 ACCEPTED

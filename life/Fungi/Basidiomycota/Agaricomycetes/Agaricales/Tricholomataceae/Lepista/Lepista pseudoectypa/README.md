@@ -1,5 +1,4 @@
-Lepista pseudoectypa (M. Lange) Gulden, 1983 SPECIES
-=======
+# Lepista pseudoectypa (M. Lange) Gulden, 1983 SPECIES
 
 #### Status
 ACCEPTED

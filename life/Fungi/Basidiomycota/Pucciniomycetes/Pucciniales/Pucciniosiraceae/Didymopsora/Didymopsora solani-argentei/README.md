@@ -1,14 +1,13 @@
-Aecidium solani-argentei Henn., 1896 SPECIES
-=======
+# Didymopsora solani-argentei (Henn.) Dietel, 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 35: 260 (1896)
+Hedwigia 38: 254 (1899)
 
 #### Original name
 Aecidium solani-argentei Henn., 1896

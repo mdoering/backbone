@@ -1,5 +1,4 @@
-Hendersonia diedickei Curzi & Barbaini SPECIES
-=======
+# Hendersonia diedickei Curzi & Barbaini SPECIES
 
 #### Status
 ACCEPTED

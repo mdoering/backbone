@@ -1,5 +1,4 @@
-Sporoschismopsis australiensis Goh & K.D. Hyde, 1997 SPECIES
-=======
+# Sporoschismopsis australiensis Goh & K.D. Hyde, 1997 SPECIES
 
 #### Status
 ACCEPTED

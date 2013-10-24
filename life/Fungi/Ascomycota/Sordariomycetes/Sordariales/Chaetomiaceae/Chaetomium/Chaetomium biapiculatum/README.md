@@ -1,5 +1,4 @@
-Chaetomium biapiculatum Lodha, 1964 SPECIES
-=======
+# Chaetomium biapiculatum Lodha, 1964 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricharia santessoniana Kalb & Vezda SPECIES
-=======
+# Tricharia santessoniana Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

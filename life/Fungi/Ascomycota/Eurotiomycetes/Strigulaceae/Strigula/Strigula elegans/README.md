@@ -1,17 +1,16 @@
-Strigula elegans subsp. elegans SUBSPECIES
-=======
+# Strigula elegans (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 63: 41 (1880)
+null
 
 #### Original name
-Strigula elegans subsp. elegans
+null
 
 ### Remarks
 null

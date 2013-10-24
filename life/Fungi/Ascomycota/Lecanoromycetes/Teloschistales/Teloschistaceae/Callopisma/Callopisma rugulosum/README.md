@@ -1,5 +1,4 @@
-Callopisma rugulosum (Nyl.) Malme SPECIES
-=======
+# Callopisma rugulosum (Nyl.) Malme SPECIES
 
 #### Status
 ACCEPTED

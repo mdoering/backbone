@@ -1,5 +1,4 @@
-Arcosphaeridium diversispinosum Uutela & Tynni, 1991 SPECIES
-=======
+# Arcosphaeridium diversispinosum Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

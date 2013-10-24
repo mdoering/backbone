@@ -1,5 +1,4 @@
-Rhizocarpon atrobrunnescens (Nyl.) Zahlbr. SPECIES
-=======
+# Rhizocarpon atrobrunnescens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus atrosanguineus Cumino SPECIES
-=======
+# Agaricus atrosanguineus Cumino SPECIES
 
 #### Status
 ACCEPTED

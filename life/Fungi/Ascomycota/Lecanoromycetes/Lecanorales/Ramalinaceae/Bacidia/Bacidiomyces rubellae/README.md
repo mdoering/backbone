@@ -1,5 +1,4 @@
-Bacidiomyces rubellae Cif. & Tomas. SPECIES
-=======
+# Bacidiomyces rubellae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

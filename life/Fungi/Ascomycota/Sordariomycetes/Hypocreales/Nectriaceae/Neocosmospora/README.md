@@ -1,5 +1,4 @@
-Neocosmospora E.F. Sm. GENUS
-=======
+# Neocosmospora E.F. Sm. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endocarpon monicae Zahlbr. SPECIES
-=======
+# Endocarpon monicae Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

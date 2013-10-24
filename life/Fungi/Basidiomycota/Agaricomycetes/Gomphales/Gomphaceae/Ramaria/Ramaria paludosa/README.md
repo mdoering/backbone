@@ -1,5 +1,4 @@
-Ramaria paludosa (S. Lundell) Schild SPECIES
-=======
+# Ramaria paludosa (S. Lundell) Schild SPECIES
 
 #### Status
 ACCEPTED

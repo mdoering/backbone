@@ -1,5 +1,4 @@
-Zwackhiomyces calcariae (Flagey) Hafellner & Nik. Hoffm. SPECIES
-=======
+# Zwackhiomyces calcariae (Flagey) Hafellner & Nik. Hoffm. SPECIES
 
 #### Status
 ACCEPTED

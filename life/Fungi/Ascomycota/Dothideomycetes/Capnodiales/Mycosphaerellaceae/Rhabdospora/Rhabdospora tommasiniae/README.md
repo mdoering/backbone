@@ -1,5 +1,4 @@
-Rhabdospora tommasiniae Kabát & Bubák SPECIES
-=======
+# Rhabdospora tommasiniae Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

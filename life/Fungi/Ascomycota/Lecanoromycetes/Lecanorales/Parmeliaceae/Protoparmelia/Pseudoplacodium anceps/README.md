@@ -1,5 +1,4 @@
-Pseudoplacodium anceps Motyka SPECIES
-=======
+# Pseudoplacodium anceps Motyka SPECIES
 
 #### Status
 ACCEPTED

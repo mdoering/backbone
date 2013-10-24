@@ -1,5 +1,4 @@
-Floromycetaceae M. Lutz, R. Bauer & Vánky FAMILY
-=======
+# Floromycetaceae M. Lutz, R. Bauer & Vánky FAMILY
 
 #### Status
 ACCEPTED

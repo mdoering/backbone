@@ -1,5 +1,4 @@
-Stilbella cinerea Torrend SPECIES
-=======
+# Stilbella cinerea Torrend SPECIES
 
 #### Status
 ACCEPTED

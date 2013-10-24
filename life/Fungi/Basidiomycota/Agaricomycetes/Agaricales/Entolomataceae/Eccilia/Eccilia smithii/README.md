@@ -1,5 +1,4 @@
-Eccilia smithii (Massee) W.G. Sm. SPECIES
-=======
+# Eccilia smithii (Massee) W.G. Sm. SPECIES
 
 #### Status
 ACCEPTED

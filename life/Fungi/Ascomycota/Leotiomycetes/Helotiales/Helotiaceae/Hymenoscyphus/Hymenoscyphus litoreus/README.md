@@ -1,5 +1,4 @@
-Hymenoscyphus litoreus (Fr.) Kuntze SPECIES
-=======
+# Hymenoscyphus litoreus (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

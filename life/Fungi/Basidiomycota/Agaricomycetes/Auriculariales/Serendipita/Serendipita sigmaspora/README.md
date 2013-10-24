@@ -1,5 +1,4 @@
-Serendipita sigmaspora P. Roberts, 1993 SPECIES
-=======
+# Serendipita sigmaspora P. Roberts, 1993 SPECIES
 
 #### Status
 ACCEPTED

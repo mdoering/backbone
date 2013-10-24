@@ -1,5 +1,4 @@
-Mirandina breviphora Matsush., 1971 SPECIES
-=======
+# Mirandina breviphora Matsush., 1971 SPECIES
 
 #### Status
 ACCEPTED

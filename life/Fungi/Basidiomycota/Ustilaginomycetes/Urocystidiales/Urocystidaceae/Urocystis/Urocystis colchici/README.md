@@ -1,17 +1,16 @@
-Polycystis colchici var. colchici VARIETY
-=======
+# Urocystis colchici (Schltdl.) Rabenh., 1861 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungi europ. exsicc. no. 396 (1861)
 
 #### Original name
-Polycystis colchici var. colchici
+Caeoma colchici Schltdl., 1826
 
 ### Remarks
 null

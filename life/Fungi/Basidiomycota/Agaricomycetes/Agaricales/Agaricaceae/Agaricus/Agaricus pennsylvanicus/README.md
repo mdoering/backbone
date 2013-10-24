@@ -1,5 +1,4 @@
-Agaricus pennsylvanicus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus pennsylvanicus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

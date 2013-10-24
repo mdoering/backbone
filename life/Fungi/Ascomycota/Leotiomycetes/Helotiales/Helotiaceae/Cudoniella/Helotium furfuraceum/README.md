@@ -1,5 +1,4 @@
-Helotium furfuraceum W. Phillips & Harkn. SPECIES
-=======
+# Helotium furfuraceum W. Phillips & Harkn. SPECIES
 
 #### Status
 ACCEPTED

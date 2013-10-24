@@ -1,5 +1,4 @@
-Geotrichoides GENUS
-=======
+# Geotrichoides GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nosema couilloudi B.S. Toguebaye & B. Marchand SPECIES
-=======
+# Nosema couilloudi B.S. Toguebaye & B. Marchand SPECIES
 
 #### Status
 ACCEPTED

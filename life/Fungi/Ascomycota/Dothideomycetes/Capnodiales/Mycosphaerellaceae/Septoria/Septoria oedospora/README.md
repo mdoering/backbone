@@ -1,5 +1,4 @@
-Septoria oedospora Clem. SPECIES
-=======
+# Septoria oedospora Clem. SPECIES
 
 #### Status
 ACCEPTED

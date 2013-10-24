@@ -1,5 +1,4 @@
-Entoloma chalybeum f. chalybeum FORM
-=======
+# Entoloma chalybeum SPECIES
 
 #### Status
 ACCEPTED

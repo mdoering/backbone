@@ -1,5 +1,4 @@
-Physcia carphinea (Fr.) A. Massal. SPECIES
-=======
+# Physcia carphinea (Fr.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

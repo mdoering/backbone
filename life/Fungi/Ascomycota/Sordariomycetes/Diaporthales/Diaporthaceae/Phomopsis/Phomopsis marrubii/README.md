@@ -1,5 +1,4 @@
-Phomopsis marrubii (Durieu & Mont.) Grove SPECIES
-=======
+# Phomopsis marrubii (Durieu & Mont.) Grove SPECIES
 
 #### Status
 ACCEPTED

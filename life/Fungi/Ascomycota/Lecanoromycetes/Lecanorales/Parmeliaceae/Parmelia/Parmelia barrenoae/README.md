@@ -1,5 +1,4 @@
-Parmelia barrenoae Divakar, M. C. Molina & A. Crespo SPECIES
-=======
+# Parmelia barrenoae Divakar, M. C. Molina & A. Crespo SPECIES
 
 #### Status
 ACCEPTED

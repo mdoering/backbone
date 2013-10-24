@@ -1,5 +1,4 @@
-Stereum kunzei (Hook.) Berk. SPECIES
-=======
+# Stereum kunzei (Hook.) Berk. SPECIES
 
 #### Status
 ACCEPTED

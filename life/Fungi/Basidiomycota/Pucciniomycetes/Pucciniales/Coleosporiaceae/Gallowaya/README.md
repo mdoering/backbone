@@ -1,5 +1,4 @@
-Gallowaya Arthur GENUS
-=======
+# Gallowaya Arthur GENUS
 
 #### Status
 ACCEPTED

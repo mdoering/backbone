@@ -1,5 +1,4 @@
-Ordonia GENUS
-=======
+# Ordonia GENUS
 
 #### Status
 ACCEPTED

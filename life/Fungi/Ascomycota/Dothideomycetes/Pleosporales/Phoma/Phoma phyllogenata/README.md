@@ -1,5 +1,4 @@
-Phoma phyllogenata (Link) Sacc. SPECIES
-=======
+# Phoma phyllogenata (Link) Sacc. SPECIES
 
 #### Status
 ACCEPTED

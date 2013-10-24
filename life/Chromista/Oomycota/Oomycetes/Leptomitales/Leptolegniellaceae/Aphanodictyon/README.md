@@ -1,5 +1,4 @@
-Aphanodictyon Huneycutt ex M.W. Dick, 1971 GENUS
-=======
+# Aphanodictyon Huneycutt ex M.W. Dick, 1971 GENUS
 
 #### Status
 ACCEPTED

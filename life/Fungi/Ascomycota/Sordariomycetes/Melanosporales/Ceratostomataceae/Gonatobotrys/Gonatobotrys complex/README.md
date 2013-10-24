@@ -1,5 +1,4 @@
-Gonatobotrys complex Jane Walker & Minter SPECIES
-=======
+# Gonatobotrys complex Jane Walker & Minter SPECIES
 
 #### Status
 ACCEPTED

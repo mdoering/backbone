@@ -1,5 +1,4 @@
-Agaricus versipellis Fr. SPECIES
-=======
+# Agaricus versipellis Fr. SPECIES
 
 #### Status
 ACCEPTED

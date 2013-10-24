@@ -1,5 +1,4 @@
-Nectria myriadea Ces. SPECIES
-=======
+# Nectria myriadea Ces. SPECIES
 
 #### Status
 ACCEPTED

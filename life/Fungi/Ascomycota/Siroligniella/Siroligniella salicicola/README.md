@@ -1,5 +1,4 @@
-Siroligniella salicicola Naumov, 1926 SPECIES
-=======
+# Siroligniella salicicola Naumov, 1926 SPECIES
 
 #### Status
 ACCEPTED

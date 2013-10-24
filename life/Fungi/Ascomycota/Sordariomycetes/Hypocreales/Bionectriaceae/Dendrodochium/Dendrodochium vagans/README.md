@@ -1,5 +1,4 @@
-Dendrodochium vagans Sacc. SPECIES
-=======
+# Dendrodochium vagans Sacc. SPECIES
 
 #### Status
 ACCEPTED

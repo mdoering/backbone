@@ -1,5 +1,4 @@
-Sphaeria floccosa Kunze SPECIES
-=======
+# Sphaeria floccosa Kunze SPECIES
 
 #### Status
 ACCEPTED

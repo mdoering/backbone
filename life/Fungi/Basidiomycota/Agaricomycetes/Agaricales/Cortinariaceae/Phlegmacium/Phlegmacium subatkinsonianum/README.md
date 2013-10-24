@@ -1,5 +1,4 @@
-Phlegmacium subatkinsonianum (Rob. Henry) M.M. Moser SPECIES
-=======
+# Phlegmacium subatkinsonianum (Rob. Henry) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

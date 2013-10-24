@@ -1,5 +1,4 @@
-Aspergillus archaeoflavus Blochwitz SPECIES
-=======
+# Aspergillus archaeoflavus Blochwitz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletosporium aterrimum Corda SPECIES
-=======
+# Colletosporium aterrimum Corda SPECIES
 
 #### Status
 ACCEPTED

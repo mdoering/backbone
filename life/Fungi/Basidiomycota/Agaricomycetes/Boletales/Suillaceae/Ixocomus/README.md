@@ -1,5 +1,4 @@
-Ixocomus GENUS
-=======
+# Ixocomus GENUS
 
 #### Status
 ACCEPTED

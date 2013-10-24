@@ -1,8 +1,7 @@
-Lecidea kündigiana Müll. Arg. SPECIES
-=======
+# Lecidea kuendigiana Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea kündigiana Müll. Arg.
+Lecidea kuendigiana Müll. Arg.
 
 ### Remarks
 null

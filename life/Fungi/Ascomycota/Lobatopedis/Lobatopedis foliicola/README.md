@@ -1,5 +1,4 @@
-Lobatopedis foliicola P.M. Kirk, 1979 SPECIES
-=======
+# Lobatopedis foliicola P.M. Kirk, 1979 SPECIES
 
 #### Status
 ACCEPTED

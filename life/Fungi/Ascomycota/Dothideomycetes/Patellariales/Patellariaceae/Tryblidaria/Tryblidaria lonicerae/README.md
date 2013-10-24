@@ -1,5 +1,4 @@
-Tryblidaria lonicerae E. Müll. SPECIES
-=======
+# Tryblidaria lonicerae E. Müll. SPECIES
 
 #### Status
 ACCEPTED

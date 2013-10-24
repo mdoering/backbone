@@ -1,5 +1,4 @@
-Stereocaulon exutum var. exutum VARIETY
-=======
+# Stereocaulon exutum Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Lich. Jap. 18 (1890)
 
 #### Original name
-Stereocaulon exutum var. exutum
+Stereocaulon exutum Nyl.
 
 ### Remarks
 null

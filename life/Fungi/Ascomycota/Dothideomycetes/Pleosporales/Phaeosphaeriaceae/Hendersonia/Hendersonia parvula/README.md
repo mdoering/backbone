@@ -1,5 +1,4 @@
-Hendersonia parvula Sacc. SPECIES
-=======
+# Hendersonia parvula Sacc. SPECIES
 
 #### Status
 ACCEPTED

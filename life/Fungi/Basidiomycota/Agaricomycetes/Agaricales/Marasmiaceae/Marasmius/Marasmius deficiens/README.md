@@ -1,5 +1,4 @@
-Marasmius deficiens Corner SPECIES
-=======
+# Marasmius deficiens Corner SPECIES
 
 #### Status
 ACCEPTED

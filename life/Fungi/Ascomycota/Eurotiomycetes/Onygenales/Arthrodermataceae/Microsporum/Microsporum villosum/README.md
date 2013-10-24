@@ -1,5 +1,4 @@
-Microsporum villosum Minne SPECIES
-=======
+# Microsporum villosum Minne SPECIES
 
 #### Status
 ACCEPTED

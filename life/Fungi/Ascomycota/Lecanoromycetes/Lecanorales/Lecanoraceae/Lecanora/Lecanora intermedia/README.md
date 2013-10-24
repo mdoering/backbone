@@ -1,5 +1,4 @@
-Lecanora intermedia var. aggregata Kremp. VARIETY
-=======
+# Lecanora intermedia Fée SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. bot. Fr. 20: 312 (1873)
 
 #### Original name
-Lecanora intermedia var. aggregata Kremp.
+Lecanora intermedia Fée
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Psilocybe coprophila var. vomitiicola Kill. VARIETY
-=======
+# Psilocybe coprophila (Bull.) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Führ. Pilzk. (Zwickau) 71 (1871)
 
 #### Original name
-Psilocybe coprophila var. vomitiicola Kill.
+Agaricus coprophilus Bull., 1793
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Heleococcum C.A. Jørg. GENUS
-=======
+# Heleococcum C.A. Jørg. GENUS
 
 #### Status
 ACCEPTED

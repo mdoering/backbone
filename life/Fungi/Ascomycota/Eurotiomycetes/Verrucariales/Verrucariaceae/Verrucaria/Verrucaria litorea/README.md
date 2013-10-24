@@ -1,5 +1,4 @@
-Verrucaria litorea (Hepp) Zschacke SPECIES
-=======
+# Verrucaria litorea (Hepp) Zschacke SPECIES
 
 #### Status
 ACCEPTED

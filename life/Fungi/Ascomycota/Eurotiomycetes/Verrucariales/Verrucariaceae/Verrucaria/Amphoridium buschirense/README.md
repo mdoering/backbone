@@ -1,5 +1,4 @@
-Amphoridium buschirense (J. Steiner) J. Steiner SPECIES
-=======
+# Amphoridium buschirense (J. Steiner) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

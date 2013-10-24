@@ -1,5 +1,4 @@
-Mycena citriceps Mont. SPECIES
-=======
+# Mycena citriceps Mont. SPECIES
 
 #### Status
 ACCEPTED

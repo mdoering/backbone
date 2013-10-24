@@ -1,5 +1,4 @@
-Actinocyclus fryxelliae J.A. Barron SPECIES
-=======
+# Actinocyclus fryxelliae J.A. Barron SPECIES
 
 #### Status
 ACCEPTED

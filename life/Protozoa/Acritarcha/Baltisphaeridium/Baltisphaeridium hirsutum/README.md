@@ -1,5 +1,4 @@
-Baltisphaeridium hirsutum Pyatiletov, 1976 SPECIES
-=======
+# Baltisphaeridium hirsutum Pyatiletov, 1976 SPECIES
 
 #### Status
 ACCEPTED

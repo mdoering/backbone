@@ -1,5 +1,4 @@
-Plagiogramma tenuistriatum Cleve, 1883 SPECIES
-=======
+# Plagiogramma tenuistriatum Cleve, 1883 SPECIES
 
 #### Status
 ACCEPTED

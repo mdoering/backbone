@@ -1,5 +1,4 @@
-Phoma media Ellis & Everh. SPECIES
-=======
+# Phoma media Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

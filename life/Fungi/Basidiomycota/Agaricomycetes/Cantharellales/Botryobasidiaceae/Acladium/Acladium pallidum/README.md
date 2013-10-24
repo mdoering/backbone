@@ -1,5 +1,4 @@
-Acladium pallidum Harz SPECIES
-=======
+# Acladium pallidum Harz SPECIES
 
 #### Status
 ACCEPTED

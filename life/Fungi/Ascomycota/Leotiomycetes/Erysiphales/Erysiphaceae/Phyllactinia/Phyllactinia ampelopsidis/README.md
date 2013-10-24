@@ -1,5 +1,4 @@
-Phyllactinia ampelopsidis Y.X. Yu & Y.Q. Lai SPECIES
-=======
+# Phyllactinia ampelopsidis Y.X. Yu & Y.Q. Lai SPECIES
 
 #### Status
 ACCEPTED

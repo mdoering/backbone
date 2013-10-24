@@ -1,5 +1,4 @@
-Coscinaria langloisii Ellis & Everh. SPECIES
-=======
+# Coscinaria langloisii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

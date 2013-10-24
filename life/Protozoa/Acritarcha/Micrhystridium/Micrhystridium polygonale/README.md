@@ -1,5 +1,4 @@
-Micrhystridium polygonale Uutela & Tynni, 1991 SPECIES
-=======
+# Micrhystridium polygonale Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

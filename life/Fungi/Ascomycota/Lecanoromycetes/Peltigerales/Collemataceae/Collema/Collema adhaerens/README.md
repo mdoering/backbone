@@ -1,5 +1,4 @@
-Collema adhaerens Grongnot {?} SPECIES
-=======
+# Collema adhaerens Grongnot {?} SPECIES
 
 #### Status
 ACCEPTED

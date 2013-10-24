@@ -1,5 +1,4 @@
-Hendersonia cerasella Prill. & Delacr. SPECIES
-=======
+# Hendersonia cerasella Prill. & Delacr. SPECIES
 
 #### Status
 ACCEPTED

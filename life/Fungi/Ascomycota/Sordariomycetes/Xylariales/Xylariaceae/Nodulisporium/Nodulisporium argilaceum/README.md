@@ -1,5 +1,4 @@
-Nodulisporium argilaceum (Cooke) SPECIES
-=======
+# Nodulisporium argilaceum (Cooke) SPECIES
 
 #### Status
 ACCEPTED

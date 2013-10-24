@@ -1,5 +1,4 @@
-Chaenotheca obscura (G. Merr.) Nádv. SPECIES
-=======
+# Chaenotheca obscura (G. Merr.) Nádv. SPECIES
 
 #### Status
 ACCEPTED

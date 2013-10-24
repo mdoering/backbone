@@ -1,5 +1,4 @@
-Distichomyces leptochiri Thaxt. SPECIES
-=======
+# Distichomyces leptochiri Thaxt. SPECIES
 
 #### Status
 ACCEPTED

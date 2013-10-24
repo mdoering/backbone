@@ -1,5 +1,4 @@
-Paraphilaster Grolière, de Puytorac & Grain, 1978 GENUS
-=======
+# Paraphilaster Grolière, de Puytorac & Grain, 1978 GENUS
 
 #### Status
 ACCEPTED

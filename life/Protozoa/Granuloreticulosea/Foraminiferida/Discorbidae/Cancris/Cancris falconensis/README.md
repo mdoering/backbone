@@ -1,5 +1,4 @@
-Cancris falconensis SPECIES
-=======
+# Cancris falconensis SPECIES
 
 #### Status
 ACCEPTED

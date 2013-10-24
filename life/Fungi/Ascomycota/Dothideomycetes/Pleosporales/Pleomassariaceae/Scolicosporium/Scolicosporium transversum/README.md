@@ -1,5 +1,4 @@
-Scolicosporium transversum Fairm. SPECIES
-=======
+# Scolicosporium transversum Fairm. SPECIES
 
 #### Status
 ACCEPTED

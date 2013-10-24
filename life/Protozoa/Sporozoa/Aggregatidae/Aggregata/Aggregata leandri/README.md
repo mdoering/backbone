@@ -1,5 +1,4 @@
-Aggregata leandri Goodrich, 1950 SPECIES
-=======
+# Aggregata leandri Goodrich, 1950 SPECIES
 
 #### Status
 ACCEPTED

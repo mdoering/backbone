@@ -1,5 +1,4 @@
-Vulcanisphaera cirrita Rasul, 1976 SPECIES
-=======
+# Vulcanisphaera cirrita Rasul, 1976 SPECIES
 
 #### Status
 ACCEPTED

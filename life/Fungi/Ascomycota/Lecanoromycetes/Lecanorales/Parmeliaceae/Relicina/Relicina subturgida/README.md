@@ -1,5 +1,4 @@
-Relicina subturgida (Kurok.) Hale SPECIES
-=======
+# Relicina subturgida (Kurok.) Hale SPECIES
 
 #### Status
 ACCEPTED

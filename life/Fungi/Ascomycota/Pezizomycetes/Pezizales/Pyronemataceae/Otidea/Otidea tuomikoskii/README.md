@@ -1,5 +1,4 @@
-Otidea tuomikoskii Harmaja SPECIES
-=======
+# Otidea tuomikoskii Harmaja SPECIES
 
 #### Status
 ACCEPTED

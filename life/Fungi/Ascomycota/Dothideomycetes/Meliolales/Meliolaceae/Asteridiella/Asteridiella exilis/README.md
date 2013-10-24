@@ -1,5 +1,4 @@
-Asteridiella exilis (Syd.) Hansf. SPECIES
-=======
+# Asteridiella exilis (Syd.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

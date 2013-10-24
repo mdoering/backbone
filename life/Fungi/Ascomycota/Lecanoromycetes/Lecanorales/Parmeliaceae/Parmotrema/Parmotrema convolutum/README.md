@@ -1,5 +1,4 @@
-Parmotrema convolutum Elix & J. Johnst. SPECIES
-=======
+# Parmotrema convolutum Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

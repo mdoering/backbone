@@ -1,5 +1,4 @@
-Rinodina luzonensis Herre SPECIES
-=======
+# Rinodina luzonensis Herre SPECIES
 
 #### Status
 ACCEPTED

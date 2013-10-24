@@ -1,5 +1,4 @@
-Cortinarius aurantiacus Reumaux SPECIES
-=======
+# Cortinarius aurantiacus Reumaux SPECIES
 
 #### Status
 ACCEPTED

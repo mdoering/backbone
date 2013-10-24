@@ -1,5 +1,4 @@
-Cephalotrichum fasciculatum (Schwein.) Kuntze SPECIES
-=======
+# Cephalotrichum fasciculatum (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia beckii Mayor SPECIES
-=======
+# Puccinia beckii Mayor SPECIES
 
 #### Status
 ACCEPTED

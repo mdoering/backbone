@@ -1,5 +1,4 @@
-Cladosporium confusum Matsush., 1983 SPECIES
-=======
+# Cladosporium confusum Matsush., 1983 SPECIES
 
 #### Status
 ACCEPTED

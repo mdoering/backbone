@@ -1,5 +1,4 @@
-Asteridiella myricicola (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella myricicola (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

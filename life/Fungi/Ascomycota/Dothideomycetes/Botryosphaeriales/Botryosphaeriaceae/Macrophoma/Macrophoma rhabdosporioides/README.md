@@ -1,5 +1,4 @@
-Macrophoma rhabdosporioides F. Lamb. & Fautrey SPECIES
-=======
+# Macrophoma rhabdosporioides F. Lamb. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

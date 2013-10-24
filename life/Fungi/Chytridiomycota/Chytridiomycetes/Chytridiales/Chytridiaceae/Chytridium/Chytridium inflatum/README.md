@@ -1,5 +1,4 @@
-Chytridium inflatum Sparrow SPECIES
-=======
+# Chytridium inflatum Sparrow SPECIES
 
 #### Status
 ACCEPTED

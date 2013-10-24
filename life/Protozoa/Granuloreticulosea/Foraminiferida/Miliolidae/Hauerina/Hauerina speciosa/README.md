@@ -1,5 +1,4 @@
-Hauerina speciosa SPECIES
-=======
+# Hauerina speciosa SPECIES
 
 #### Status
 ACCEPTED

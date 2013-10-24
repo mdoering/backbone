@@ -1,5 +1,4 @@
-Peziza leucobucha Alb. & Schwein. SPECIES
-=======
+# Peziza leucobucha Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Balansia madagascariensis Vienn.-Bourg. SPECIES
-=======
+# Balansia madagascariensis Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia cinerella Ahti SPECIES
-=======
+# Cladonia cinerella Ahti SPECIES
 
 #### Status
 ACCEPTED

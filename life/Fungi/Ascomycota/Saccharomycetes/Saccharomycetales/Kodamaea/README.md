@@ -1,5 +1,4 @@
-Kodamaea Y. Yamada, Tom. Suzuki, M. Matsuda & Mikata GENUS
-=======
+# Kodamaea Y. Yamada, Tom. Suzuki, M. Matsuda & Mikata GENUS
 
 #### Status
 ACCEPTED

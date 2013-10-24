@@ -1,5 +1,4 @@
-Alternaria vaccariicola E.G. Simmons SPECIES
-=======
+# Alternaria vaccariicola E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

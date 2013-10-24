@@ -1,5 +1,4 @@
-Diachorella Höhn. GENUS
-=======
+# Diachorella Höhn. GENUS
 
 #### Status
 ACCEPTED

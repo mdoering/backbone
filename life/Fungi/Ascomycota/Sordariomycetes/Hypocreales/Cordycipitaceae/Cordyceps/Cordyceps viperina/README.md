@@ -1,5 +1,4 @@
-Cordyceps viperina Mains SPECIES
-=======
+# Cordyceps viperina Mains SPECIES
 
 #### Status
 ACCEPTED

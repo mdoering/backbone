@@ -1,8 +1,7 @@
-Hypomyces stuhlmanni Henn. SPECIES
-=======
+# Hypomyces stuhlmannii Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hypomyces stuhlmanni Henn.
+Hypomyces stuhlmannii Henn.
 
 ### Remarks
 null

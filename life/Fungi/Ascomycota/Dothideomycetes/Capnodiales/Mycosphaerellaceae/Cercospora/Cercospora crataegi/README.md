@@ -1,5 +1,4 @@
-Cercospora crataegi Sacc. & C. Massal. SPECIES
-=======
+# Cercospora crataegi Sacc. & C. Massal. SPECIES
 
 #### Status
 ACCEPTED

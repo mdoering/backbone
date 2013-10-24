@@ -1,5 +1,4 @@
-Hysterangium album Zeller & C.W. Dodge SPECIES
-=======
+# Hysterangium album Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

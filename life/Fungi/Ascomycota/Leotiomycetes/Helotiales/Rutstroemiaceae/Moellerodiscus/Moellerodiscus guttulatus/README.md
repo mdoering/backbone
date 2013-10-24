@@ -1,5 +1,4 @@
-Moellerodiscus guttulatus Dumont SPECIES
-=======
+# Moellerodiscus guttulatus Dumont SPECIES
 
 #### Status
 ACCEPTED

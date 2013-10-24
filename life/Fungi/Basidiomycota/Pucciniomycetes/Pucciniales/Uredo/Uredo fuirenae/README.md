@@ -1,5 +1,4 @@
-Uredo fuirenae Rostr. SPECIES
-=======
+# Uredo fuirenae Rostr. SPECIES
 
 #### Status
 ACCEPTED

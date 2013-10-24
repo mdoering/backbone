@@ -1,5 +1,4 @@
-Caloplaca hanneshertelii S. Y. Kondr. & Kärnefelt SPECIES
-=======
+# Caloplaca hanneshertelii S. Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

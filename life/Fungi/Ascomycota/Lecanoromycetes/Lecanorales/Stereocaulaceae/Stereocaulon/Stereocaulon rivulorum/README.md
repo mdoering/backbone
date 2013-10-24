@@ -1,5 +1,4 @@
-Stereocaulon rivulorum f. rivulorum FORM
-=======
+# Stereocaulon rivulorum H. Magn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stereocaulon rivulorum f. rivulorum
+Stereocaulon rivulorum H. Magn.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lepiota hemisoodes Berk. & M.A. Curtis SPECIES
-=======
+# Lepiota hemisoodes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

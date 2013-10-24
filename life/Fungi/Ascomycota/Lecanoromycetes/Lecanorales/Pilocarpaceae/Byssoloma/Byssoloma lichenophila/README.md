@@ -1,5 +1,4 @@
-Byssoloma lichenophila S.Y. Kondr., Coppins & Sérus. SPECIES
-=======
+# Byssoloma lichenophila S.Y. Kondr., Coppins & Sérus. SPECIES
 
 #### Status
 ACCEPTED

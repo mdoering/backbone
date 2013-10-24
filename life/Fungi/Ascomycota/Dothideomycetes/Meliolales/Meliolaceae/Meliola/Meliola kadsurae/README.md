@@ -1,5 +1,4 @@
-Meliola kadsurae W. Yamam. SPECIES
-=======
+# Meliola kadsurae W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

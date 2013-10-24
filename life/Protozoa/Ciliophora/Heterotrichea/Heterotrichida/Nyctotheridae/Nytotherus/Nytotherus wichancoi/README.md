@@ -1,5 +1,4 @@
-Nytotherus wichancoi Kidder, 1937 SPECIES
-=======
+# Nytotherus wichancoi Kidder, 1937 SPECIES
 
 #### Status
 ACCEPTED

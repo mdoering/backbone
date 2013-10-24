@@ -1,5 +1,4 @@
-Lecanora neoamylophora Gyeln. SPECIES
-=======
+# Lecanora neoamylophora Gyeln. SPECIES
 
 #### Status
 ACCEPTED

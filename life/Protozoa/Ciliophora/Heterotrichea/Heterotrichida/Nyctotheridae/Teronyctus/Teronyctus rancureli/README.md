@@ -1,5 +1,4 @@
-Teronyctus rancureli (Laval & Albaret, 1973) Jankowski, 2007 SPECIES
-=======
+# Teronyctus rancureli (Laval & Albaret, 1973) Jankowski, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrgoides Hofker, 1976 GENUS
-=======
+# Pyrgoides Hofker, 1976 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizocarpon solitarium H. Magn. SPECIES
-=======
+# Rhizocarpon solitarium H. Magn. SPECIES
 
 #### Status
 ACCEPTED

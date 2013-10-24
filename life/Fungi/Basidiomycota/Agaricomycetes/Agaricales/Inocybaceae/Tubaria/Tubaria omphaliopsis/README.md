@@ -1,5 +1,4 @@
-Tubaria omphaliopsis Singer SPECIES
-=======
+# Tubaria omphaliopsis Singer SPECIES
 
 #### Status
 ACCEPTED

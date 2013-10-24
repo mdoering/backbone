@@ -1,5 +1,4 @@
-Marasmius aurantioferrugineus Hongo SPECIES
-=======
+# Marasmius aurantioferrugineus Hongo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe coffeae Saccas SPECIES
-=======
+# Diaporthe coffeae Saccas SPECIES
 
 #### Status
 ACCEPTED

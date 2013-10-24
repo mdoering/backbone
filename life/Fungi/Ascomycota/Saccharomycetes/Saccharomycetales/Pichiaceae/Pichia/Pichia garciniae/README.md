@@ -1,5 +1,4 @@
-Pichia garciniae Bhadra & Shivaji, 2008 SPECIES
-=======
+# Pichia garciniae Bhadra & Shivaji, 2008 SPECIES
 
 #### Status
 ACCEPTED

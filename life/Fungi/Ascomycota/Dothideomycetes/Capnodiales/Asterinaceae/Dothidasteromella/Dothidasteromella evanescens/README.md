@@ -1,5 +1,4 @@
-Dothidasteromella evanescens (Rehm) Arx SPECIES
-=======
+# Dothidasteromella evanescens (Rehm) Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota edulis Henn. SPECIES
-=======
+# Pholiota edulis Henn. SPECIES
 
 #### Status
 ACCEPTED

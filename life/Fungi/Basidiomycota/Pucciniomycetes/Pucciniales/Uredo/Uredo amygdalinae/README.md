@@ -1,5 +1,4 @@
-Uredo amygdalinae Arthur SPECIES
-=======
+# Uredo amygdalinae Arthur SPECIES
 
 #### Status
 ACCEPTED

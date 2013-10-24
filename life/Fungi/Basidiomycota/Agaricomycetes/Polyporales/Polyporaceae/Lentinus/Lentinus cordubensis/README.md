@@ -1,5 +1,4 @@
-Lentinus cordubensis Speg. SPECIES
-=======
+# Lentinus cordubensis Speg. SPECIES
 
 #### Status
 ACCEPTED

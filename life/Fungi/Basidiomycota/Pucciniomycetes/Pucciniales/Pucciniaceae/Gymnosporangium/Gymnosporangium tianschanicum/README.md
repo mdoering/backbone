@@ -1,5 +1,4 @@
-Gymnosporangium tianschanicum Z.Y. Zhao & J.Y. Zhuang SPECIES
-=======
+# Gymnosporangium tianschanicum Z.Y. Zhao & J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

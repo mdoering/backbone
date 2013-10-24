@@ -1,5 +1,4 @@
-Didymoporisporonites longus (R.K. Kar) Kalgutkar & Janson. SPECIES
-=======
+# Didymoporisporonites longus (R.K. Kar) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eusynaptomyces africanus Thaxt., 1931 SPECIES
-=======
+# Eusynaptomyces africanus Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

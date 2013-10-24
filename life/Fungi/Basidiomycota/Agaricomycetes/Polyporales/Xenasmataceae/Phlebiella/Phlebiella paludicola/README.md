@@ -1,17 +1,16 @@
-Corticium aurora Berk. & Broome, 1860 SPECIES
-=======
+# Phlebiella paludicola Hjortstam & P. Roberts, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Berkeley, Outl. Brit. Fung. (London) 276 (1860)
+in Roberts, Mycologist 9(4): 161 (1995)
 
 #### Original name
-Corticium aurora Berk. & Broome, 1860
+Phlebiella paludicola Hjortstam & P. Roberts, 1995
 
 ### Remarks
 null

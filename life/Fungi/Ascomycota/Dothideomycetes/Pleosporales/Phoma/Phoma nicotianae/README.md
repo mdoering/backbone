@@ -1,5 +1,4 @@
-Phoma nicotianae Maubl. SPECIES
-=======
+# Phoma nicotianae Maubl. SPECIES
 
 #### Status
 ACCEPTED

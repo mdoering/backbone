@@ -1,5 +1,4 @@
-Achlya paradoxa Coker SPECIES
-=======
+# Achlya paradoxa Coker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces americanus var. americanus VARIETY
-=======
+# Uromyces americanus Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Anal. Mus. nac. Hist. nat. B. Aires 19: 310 (1909)
 
 #### Original name
-Uromyces americanus var. americanus
+Uromyces americanus Speg.
 
 ### Remarks
 null

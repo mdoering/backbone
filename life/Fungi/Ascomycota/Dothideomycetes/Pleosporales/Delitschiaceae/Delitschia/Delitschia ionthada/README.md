@@ -1,5 +1,4 @@
-Delitschia ionthada Jeng, Luck-Allen & Cain SPECIES
-=======
+# Delitschia ionthada Jeng, Luck-Allen & Cain SPECIES
 
 #### Status
 ACCEPTED

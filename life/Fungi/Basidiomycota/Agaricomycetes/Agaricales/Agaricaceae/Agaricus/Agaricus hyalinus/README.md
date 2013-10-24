@@ -1,5 +1,4 @@
-Agaricus hyalinus Schaeff. SPECIES
-=======
+# Agaricus hyalinus Schaeff. SPECIES
 
 #### Status
 ACCEPTED

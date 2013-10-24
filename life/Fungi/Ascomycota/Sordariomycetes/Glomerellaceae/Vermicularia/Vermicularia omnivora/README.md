@@ -1,5 +1,4 @@
-Vermicularia omnivora (Halst.) Vassiljevsky SPECIES
-=======
+# Vermicularia omnivora (Halst.) Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplographium tandonii Mitter SPECIES
-=======
+# Haplographium tandonii Mitter SPECIES
 
 #### Status
 ACCEPTED

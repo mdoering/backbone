@@ -1,5 +1,4 @@
-Lecanora dispersizans Werner & M. Choisy SPECIES
-=======
+# Lecanora dispersizans Werner & M. Choisy SPECIES
 
 #### Status
 ACCEPTED

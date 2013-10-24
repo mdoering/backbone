@@ -1,5 +1,4 @@
-Sphaerulina coffeicola anon. SPECIES
-=======
+# Sphaerulina coffeicola anon. SPECIES
 
 #### Status
 ACCEPTED

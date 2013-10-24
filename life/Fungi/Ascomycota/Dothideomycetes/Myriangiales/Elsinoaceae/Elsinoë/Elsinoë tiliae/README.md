@@ -1,5 +1,4 @@
-Elsinoë tiliae Creelman, 1956 SPECIES
-=======
+# Elsinoë tiliae Creelman, 1956 SPECIES
 
 #### Status
 ACCEPTED

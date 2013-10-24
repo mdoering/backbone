@@ -1,5 +1,4 @@
-Sphaerella viciae J. Schröt. SPECIES
-=======
+# Sphaerella viciae J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

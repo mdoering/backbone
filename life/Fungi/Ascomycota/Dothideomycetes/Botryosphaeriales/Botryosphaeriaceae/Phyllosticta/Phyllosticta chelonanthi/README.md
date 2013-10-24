@@ -1,5 +1,4 @@
-Phyllosticta chelonanthi F. Stevens SPECIES
-=======
+# Phyllosticta chelonanthi F. Stevens SPECIES
 
 #### Status
 ACCEPTED

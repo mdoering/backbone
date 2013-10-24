@@ -1,5 +1,4 @@
-Marasmiellus pachycraspedum var. pachycraspedum VARIETY
-=======
+# Marasmiellus pachycraspedum Noordel. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Persoonia 9(2): 275 (1977)
 
 #### Original name
-Marasmiellus pachycraspedum var. pachycraspedum
+Marasmiellus pachycraspedum Noordel.
 
 ### Remarks
 null

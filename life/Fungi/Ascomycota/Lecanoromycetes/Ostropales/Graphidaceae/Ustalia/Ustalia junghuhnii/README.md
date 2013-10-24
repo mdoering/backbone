@@ -1,5 +1,4 @@
-Ustalia junghuhnii Mont. & Bosch SPECIES
-=======
+# Ustalia junghuhnii Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

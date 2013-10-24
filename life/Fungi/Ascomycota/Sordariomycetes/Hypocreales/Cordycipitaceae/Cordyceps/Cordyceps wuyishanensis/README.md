@@ -1,5 +1,4 @@
-Cordyceps wuyishanensis Z.Q. Liang, A.Y. Liu & J.Z. Huang SPECIES
-=======
+# Cordyceps wuyishanensis Z.Q. Liang, A.Y. Liu & J.Z. Huang SPECIES
 
 #### Status
 ACCEPTED

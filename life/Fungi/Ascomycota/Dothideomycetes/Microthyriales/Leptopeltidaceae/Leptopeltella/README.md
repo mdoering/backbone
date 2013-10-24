@@ -1,5 +1,4 @@
-Leptopeltella GENUS
-=======
+# Leptopeltella GENUS
 
 #### Status
 ACCEPTED

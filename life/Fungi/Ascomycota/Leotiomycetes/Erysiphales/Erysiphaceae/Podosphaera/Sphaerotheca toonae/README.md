@@ -1,5 +1,4 @@
-Sphaerotheca toonae Y.X. Yu & Y.Q. Lai SPECIES
-=======
+# Sphaerotheca toonae Y.X. Yu & Y.Q. Lai SPECIES
 
 #### Status
 ACCEPTED

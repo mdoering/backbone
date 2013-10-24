@@ -1,5 +1,4 @@
-Llanomyces GENUS
-=======
+# Llanomyces GENUS
 
 #### Status
 ACCEPTED

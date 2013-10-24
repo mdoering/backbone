@@ -1,5 +1,4 @@
-Collema molybdinum Körb. SPECIES
-=======
+# Collema molybdinum Körb. SPECIES
 
 #### Status
 ACCEPTED

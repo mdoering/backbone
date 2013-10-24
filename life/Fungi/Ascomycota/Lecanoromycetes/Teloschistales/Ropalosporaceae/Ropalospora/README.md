@@ -1,5 +1,4 @@
-Ropalospora A. Massal. GENUS
-=======
+# Ropalospora A. Massal. GENUS
 
 #### Status
 ACCEPTED

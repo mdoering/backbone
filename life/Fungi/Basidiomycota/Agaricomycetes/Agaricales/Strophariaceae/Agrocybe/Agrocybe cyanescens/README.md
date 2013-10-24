@@ -1,5 +1,4 @@
-Agrocybe cyanescens Contu SPECIES
-=======
+# Agrocybe cyanescens Contu SPECIES
 
 #### Status
 ACCEPTED

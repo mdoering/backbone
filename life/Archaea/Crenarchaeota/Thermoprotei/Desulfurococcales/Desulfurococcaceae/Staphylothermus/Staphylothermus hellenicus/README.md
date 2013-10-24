@@ -1,5 +1,4 @@
-Staphylothermus hellenicus Arab et al., 2000 SPECIES
-=======
+# Staphylothermus hellenicus Arab et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

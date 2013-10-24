@@ -1,5 +1,4 @@
-Acarospora plinthina (Nyl.) H. Magn. SPECIES
-=======
+# Acarospora plinthina (Nyl.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

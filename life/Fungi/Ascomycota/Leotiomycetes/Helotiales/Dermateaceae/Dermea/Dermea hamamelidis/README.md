@@ -1,14 +1,13 @@
-Lecanidion hamamelidis (Peck) Sacc., 1889 SPECIES
-=======
+# Dermea hamamelidis (Peck) J.W. Groves, 1946 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 800 (1889)
+null
 
 #### Original name
 null

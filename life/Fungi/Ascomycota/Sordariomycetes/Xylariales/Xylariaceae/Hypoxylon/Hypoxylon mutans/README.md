@@ -1,5 +1,4 @@
-Hypoxylon mutans (Cooke & Peck) P.M.D. Martin SPECIES
-=======
+# Hypoxylon mutans (Cooke & Peck) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

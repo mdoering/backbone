@@ -1,17 +1,16 @@
-Sagittospora cameroni Lubinsky SPECIES
-=======
+# Sagittospora cameronii Lubinsky, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Microbiol. 1: (1955)
 
 #### Original name
-Sagittospora cameroni Lubinsky
+Sagittospora cameronii Lubinsky, 1955
 
 ### Remarks
 null

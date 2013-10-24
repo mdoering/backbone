@@ -1,5 +1,4 @@
-Agaricus plinthogalus J. Otto SPECIES
-=======
+# Agaricus plinthogalus J. Otto SPECIES
 
 #### Status
 ACCEPTED

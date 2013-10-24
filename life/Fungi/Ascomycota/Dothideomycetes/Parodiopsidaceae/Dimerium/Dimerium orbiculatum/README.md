@@ -1,5 +1,4 @@
-Dimerium orbiculatum (McAlpine) Sacc. & D. Sacc. SPECIES
-=======
+# Dimerium orbiculatum (McAlpine) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

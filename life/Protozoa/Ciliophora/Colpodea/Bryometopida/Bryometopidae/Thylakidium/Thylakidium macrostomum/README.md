@@ -1,5 +1,4 @@
-Thylakidium macrostomum Alekperov, 1991 SPECIES
-=======
+# Thylakidium macrostomum Alekperov, 1991 SPECIES
 
 #### Status
 ACCEPTED

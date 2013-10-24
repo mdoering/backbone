@@ -1,5 +1,4 @@
-Psoroma dufourei (Fr.) SPECIES
-=======
+# Psoroma dufourei (Fr.) SPECIES
 
 #### Status
 ACCEPTED

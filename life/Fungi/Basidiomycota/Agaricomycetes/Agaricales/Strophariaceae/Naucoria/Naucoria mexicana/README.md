@@ -1,5 +1,4 @@
-Naucoria mexicana Murrill SPECIES
-=======
+# Naucoria mexicana Murrill SPECIES
 
 #### Status
 ACCEPTED

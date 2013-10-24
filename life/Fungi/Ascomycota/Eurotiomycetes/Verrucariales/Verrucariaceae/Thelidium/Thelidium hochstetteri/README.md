@@ -1,5 +1,4 @@
-Thelidium hochstetteri Fr. SPECIES
-=======
+# Thelidium hochstetteri Fr. SPECIES
 
 #### Status
 ACCEPTED

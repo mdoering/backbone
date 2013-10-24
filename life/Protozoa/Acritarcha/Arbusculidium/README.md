@@ -1,5 +1,4 @@
-Arbusculidium J. Deunff, 1968 GENUS
-=======
+# Arbusculidium J. Deunff, 1968 GENUS
 
 #### Status
 ACCEPTED

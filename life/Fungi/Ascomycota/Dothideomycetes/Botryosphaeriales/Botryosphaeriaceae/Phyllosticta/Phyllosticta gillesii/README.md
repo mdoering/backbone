@@ -1,5 +1,4 @@
-Phyllosticta gillesii Speg. SPECIES
-=======
+# Phyllosticta gillesii Speg. SPECIES
 
 #### Status
 ACCEPTED

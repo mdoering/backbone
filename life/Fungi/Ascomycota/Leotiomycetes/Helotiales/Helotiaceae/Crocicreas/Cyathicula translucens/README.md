@@ -1,5 +1,4 @@
-Cyathicula translucens Le Gal SPECIES
-=======
+# Cyathicula translucens Le Gal SPECIES
 
 #### Status
 ACCEPTED

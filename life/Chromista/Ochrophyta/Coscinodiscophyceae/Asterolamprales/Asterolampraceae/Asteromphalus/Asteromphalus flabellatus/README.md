@@ -1,8 +1,7 @@
-Spatangidium flabellatum Brébisson SPECIES
-=======
+# Asteromphalus flabellatus (Brébisson) Greville SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

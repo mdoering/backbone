@@ -1,5 +1,4 @@
-Sphingobacterium faecium Takeuchi & Yokota, 1993 SPECIES
-=======
+# Sphingobacterium faecium Takeuchi & Yokota, 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora pennellii Seaver, 1928 SPECIES
-=======
+# Phyllachora pennellii Seaver, 1928 SPECIES
 
 #### Status
 DOUBTFUL

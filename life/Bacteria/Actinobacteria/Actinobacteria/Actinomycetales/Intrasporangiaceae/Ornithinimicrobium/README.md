@@ -1,5 +1,4 @@
-Ornithinimicrobium Groth, Schumann, Weiss, Schuetze, Augsten & Stackebrandt, 2001 GENUS
-=======
+# Ornithinimicrobium Groth, Schumann, Weiss, Schuetze, Augsten & Stackebrandt, 2001 GENUS
 
 #### Status
 ACCEPTED

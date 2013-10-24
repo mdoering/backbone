@@ -1,5 +1,4 @@
-Polystictus pentzkei (Kalchbr.) Cleland & Cheel SPECIES
-=======
+# Polystictus pentzkei (Kalchbr.) Cleland & Cheel SPECIES
 
 #### Status
 ACCEPTED

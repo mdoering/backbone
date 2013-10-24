@@ -1,5 +1,4 @@
-Uredo puttemansii Henn. SPECIES
-=======
+# Uredo puttemansii Henn. SPECIES
 
 #### Status
 ACCEPTED

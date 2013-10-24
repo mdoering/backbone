@@ -1,5 +1,4 @@
-Russula subcarnicolor Murrill SPECIES
-=======
+# Russula subcarnicolor Murrill SPECIES
 
 #### Status
 ACCEPTED

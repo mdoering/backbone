@@ -1,5 +1,4 @@
-Lepiota furfuraceipes Han C. Wang & Zhu L. Yang SPECIES
-=======
+# Lepiota furfuraceipes Han C. Wang & Zhu L. Yang SPECIES
 
 #### Status
 ACCEPTED

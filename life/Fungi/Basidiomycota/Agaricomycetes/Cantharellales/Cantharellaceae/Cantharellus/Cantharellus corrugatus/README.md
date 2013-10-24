@@ -1,5 +1,4 @@
-Cantharellus corrugatus Cleland & Cheel SPECIES
-=======
+# Cantharellus corrugatus Cleland & Cheel SPECIES
 
 #### Status
 ACCEPTED

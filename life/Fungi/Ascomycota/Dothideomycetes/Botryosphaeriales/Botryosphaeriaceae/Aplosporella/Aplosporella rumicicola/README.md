@@ -1,5 +1,4 @@
-Aplosporella rumicicola (Sacc.) Petr. & Syd. SPECIES
-=======
+# Aplosporella rumicicola (Sacc.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

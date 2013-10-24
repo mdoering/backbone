@@ -1,5 +1,4 @@
-Arthopyrenia tersa (Kremp.) Zahlbr. SPECIES
-=======
+# Arthopyrenia tersa (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

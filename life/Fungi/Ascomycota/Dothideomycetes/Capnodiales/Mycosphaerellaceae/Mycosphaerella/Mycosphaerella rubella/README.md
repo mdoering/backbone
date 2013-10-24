@@ -1,14 +1,13 @@
-Sphaerella rubella Niessl & J. Schröt., 1877 SPECIES
-=======
+# Mycosphaerella rubella (Niessl & J. Schröt.) Magnus, 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 16: 118 (1877)
+null
 
 #### Original name
 Sphaerella rubella Niessl & J. Schröt., 1877

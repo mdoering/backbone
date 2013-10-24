@@ -1,5 +1,4 @@
-Baltisphaeridium parisii Elaouad-Debbaj, 1978 SPECIES
-=======
+# Baltisphaeridium parisii Elaouad-Debbaj, 1978 SPECIES
 
 #### Status
 ACCEPTED

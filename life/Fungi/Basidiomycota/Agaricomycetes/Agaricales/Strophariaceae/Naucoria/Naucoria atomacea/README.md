@@ -1,5 +1,4 @@
-Naucoria atomacea (Murrill) Murrill SPECIES
-=======
+# Naucoria atomacea (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

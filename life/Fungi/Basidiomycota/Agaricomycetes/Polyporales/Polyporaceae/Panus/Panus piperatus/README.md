@@ -1,5 +1,4 @@
-Panus piperatus Beeli SPECIES
-=======
+# Panus piperatus Beeli SPECIES
 
 #### Status
 ACCEPTED

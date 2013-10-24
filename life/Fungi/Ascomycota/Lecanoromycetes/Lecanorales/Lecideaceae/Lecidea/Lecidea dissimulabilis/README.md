@@ -1,5 +1,4 @@
-Lecidea dissimulabilis Nyl. SPECIES
-=======
+# Lecidea dissimulabilis Nyl. SPECIES
 
 #### Status
 ACCEPTED

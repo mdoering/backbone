@@ -1,5 +1,4 @@
-Elsinoë spondiadis A.M.J. Watson & Jenkins SPECIES
-=======
+# Elsinoë spondiadis A.M.J. Watson & Jenkins SPECIES
 
 #### Status
 ACCEPTED

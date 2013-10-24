@@ -1,8 +1,7 @@
-Amphista diademata SPECIES
-=======
+# Holosticha diademata Rees, 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Helotium chloropodium Rea & Ellis, 1911 SPECIES
-=======
+# Helotium chloropodium Rea & Ellis, 1911 SPECIES
 
 #### Status
 ACCEPTED

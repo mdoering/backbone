@@ -1,5 +1,4 @@
-Quinqueloculina samoaensis SPECIES
-=======
+# Quinqueloculina samoaensis SPECIES
 
 #### Status
 ACCEPTED

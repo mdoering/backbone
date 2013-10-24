@@ -1,5 +1,4 @@
-Gloeocystidiellum moniliforme Sheng H. Wu, 1996 SPECIES
-=======
+# Gloeocystidiellum moniliforme Sheng H. Wu, 1996 SPECIES
 
 #### Status
 ACCEPTED

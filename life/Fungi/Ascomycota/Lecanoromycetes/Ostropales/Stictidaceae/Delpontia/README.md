@@ -1,5 +1,4 @@
-Delpontia Penz. & Sacc. GENUS
-=======
+# Delpontia Penz. & Sacc. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalina pauxilla Clémençon SPECIES
-=======
+# Omphalina pauxilla Clémençon SPECIES
 
 #### Status
 ACCEPTED

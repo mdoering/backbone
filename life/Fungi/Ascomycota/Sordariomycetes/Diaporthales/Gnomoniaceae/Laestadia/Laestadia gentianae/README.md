@@ -1,5 +1,4 @@
-Laestadia gentianae Briard & Har. SPECIES
-=======
+# Laestadia gentianae Briard & Har. SPECIES
 
 #### Status
 ACCEPTED

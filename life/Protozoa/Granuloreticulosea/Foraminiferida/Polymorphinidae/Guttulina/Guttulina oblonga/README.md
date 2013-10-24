@@ -1,5 +1,4 @@
-Guttulina oblonga (d'Orbigny) SPECIES
-=======
+# Guttulina oblonga (d'Orbigny) SPECIES
 
 #### Status
 ACCEPTED

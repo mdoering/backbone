@@ -1,5 +1,4 @@
-Dicaeoma prostii (Moug.) Kuntze SPECIES
-=======
+# Dicaeoma prostii (Moug.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

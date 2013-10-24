@@ -1,5 +1,4 @@
-Otthia lilacis (G.H. Otth) Petr. SPECIES
-=======
+# Otthia lilacis (G.H. Otth) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diorygma Eschw. GENUS
-=======
+# Diorygma Eschw. GENUS
 
 #### Status
 ACCEPTED

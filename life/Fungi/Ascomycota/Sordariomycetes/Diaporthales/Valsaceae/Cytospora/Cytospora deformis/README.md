@@ -1,5 +1,4 @@
-Cytospora deformis (Fr.) Petr. & Syd. SPECIES
-=======
+# Cytospora deformis (Fr.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

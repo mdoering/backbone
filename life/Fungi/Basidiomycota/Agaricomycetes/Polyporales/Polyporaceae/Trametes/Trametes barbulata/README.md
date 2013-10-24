@@ -1,5 +1,4 @@
-Trametes barbulata Corner SPECIES
-=======
+# Trametes barbulata Corner SPECIES
 
 #### Status
 ACCEPTED

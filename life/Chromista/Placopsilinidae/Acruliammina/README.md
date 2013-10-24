@@ -1,5 +1,4 @@
-Acruliammina Loeblich & Tappan, 1946 GENUS
-=======
+# Acruliammina Loeblich & Tappan, 1946 GENUS
 
 #### Status
 ACCEPTED

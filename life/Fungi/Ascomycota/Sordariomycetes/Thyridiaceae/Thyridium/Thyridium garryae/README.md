@@ -1,5 +1,4 @@
-Thyridium garryae (Cooke & Harkn.) Berl. & Voglino SPECIES
-=======
+# Thyridium garryae (Cooke & Harkn.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

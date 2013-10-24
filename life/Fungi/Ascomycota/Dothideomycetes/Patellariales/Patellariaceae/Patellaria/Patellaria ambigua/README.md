@@ -1,5 +1,4 @@
-Patellaria ambigua (Ach.) Duby SPECIES
-=======
+# Patellaria ambigua (Ach.) Duby SPECIES
 
 #### Status
 ACCEPTED

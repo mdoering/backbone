@@ -1,5 +1,4 @@
-Bacidia coruscans S. Ekman SPECIES
-=======
+# Bacidia coruscans S. Ekman SPECIES
 
 #### Status
 ACCEPTED

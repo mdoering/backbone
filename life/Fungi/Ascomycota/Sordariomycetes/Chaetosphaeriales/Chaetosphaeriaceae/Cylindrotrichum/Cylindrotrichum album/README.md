@@ -1,5 +1,4 @@
-Cylindrotrichum album Bonord. SPECIES
-=======
+# Cylindrotrichum album Bonord. SPECIES
 
 #### Status
 ACCEPTED

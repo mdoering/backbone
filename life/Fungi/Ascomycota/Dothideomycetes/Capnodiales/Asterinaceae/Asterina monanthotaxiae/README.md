@@ -1,5 +1,4 @@
-Asterina monanthotaxiae Mibey SPECIES
-=======
+# Asterina monanthotaxiae Mibey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Corbisema navicula subsp. navicula SUBSPECIES
-=======
+# Corbisema navicula (Ehrenberg) K.E. Busen & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

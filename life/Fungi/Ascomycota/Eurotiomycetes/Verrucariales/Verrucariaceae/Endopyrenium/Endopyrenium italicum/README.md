@@ -1,5 +1,4 @@
-Endopyrenium italicum B. de Lesd. SPECIES
-=======
+# Endopyrenium italicum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

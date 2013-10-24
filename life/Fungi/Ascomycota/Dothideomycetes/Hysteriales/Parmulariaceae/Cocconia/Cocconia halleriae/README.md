@@ -1,5 +1,4 @@
-Cocconia halleriae Hansf., 1947 SPECIES
-=======
+# Cocconia halleriae Hansf., 1947 SPECIES
 
 #### Status
 ACCEPTED

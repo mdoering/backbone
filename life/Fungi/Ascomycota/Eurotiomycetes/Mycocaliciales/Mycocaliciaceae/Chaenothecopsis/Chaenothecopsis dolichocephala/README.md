@@ -1,5 +1,4 @@
-Chaenothecopsis dolichocephala Titov SPECIES
-=======
+# Chaenothecopsis dolichocephala Titov SPECIES
 
 #### Status
 ACCEPTED

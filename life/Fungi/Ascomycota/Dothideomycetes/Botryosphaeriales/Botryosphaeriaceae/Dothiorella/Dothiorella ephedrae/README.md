@@ -1,5 +1,4 @@
-Dothiorella ephedrae (Gonz. Frag.) Petr. & Syd. SPECIES
-=======
+# Dothiorella ephedrae (Gonz. Frag.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

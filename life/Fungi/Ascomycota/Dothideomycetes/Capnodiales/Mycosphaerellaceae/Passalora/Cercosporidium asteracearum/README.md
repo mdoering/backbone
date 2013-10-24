@@ -1,5 +1,4 @@
-Cercosporidium asteracearum M.K. Khan SPECIES
-=======
+# Cercosporidium asteracearum M.K. Khan SPECIES
 
 #### Status
 ACCEPTED

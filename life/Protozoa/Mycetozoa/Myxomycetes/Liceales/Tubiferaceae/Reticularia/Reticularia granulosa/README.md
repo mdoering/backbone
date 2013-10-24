@@ -1,5 +1,4 @@
-Reticularia granulosa Oerst. SPECIES
-=======
+# Reticularia granulosa Oerst. SPECIES
 
 #### Status
 ACCEPTED

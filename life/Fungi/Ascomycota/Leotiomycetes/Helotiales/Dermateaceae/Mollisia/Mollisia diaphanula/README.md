@@ -1,5 +1,4 @@
-Mollisia diaphanula Feltgen SPECIES
-=======
+# Mollisia diaphanula Feltgen SPECIES
 
 #### Status
 ACCEPTED

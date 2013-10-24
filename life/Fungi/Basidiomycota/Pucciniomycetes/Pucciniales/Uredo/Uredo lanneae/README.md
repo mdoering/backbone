@@ -1,5 +1,4 @@
-Uredo lanneae Höhn. SPECIES
-=======
+# Uredo lanneae Höhn. SPECIES
 
 #### Status
 ACCEPTED

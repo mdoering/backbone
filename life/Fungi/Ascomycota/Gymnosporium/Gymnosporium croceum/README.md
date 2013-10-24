@@ -1,5 +1,4 @@
-Gymnosporium croceum Berk. & M.A. Curtis SPECIES
-=======
+# Gymnosporium croceum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

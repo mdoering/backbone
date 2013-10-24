@@ -1,5 +1,4 @@
-Lithostromation G. Deflandre, 1942 GENUS
-=======
+# Lithostromation G. Deflandre, 1942 GENUS
 
 #### Status
 ACCEPTED

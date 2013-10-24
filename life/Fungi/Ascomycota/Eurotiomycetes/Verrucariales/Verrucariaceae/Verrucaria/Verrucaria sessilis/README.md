@@ -1,5 +1,4 @@
-Verrucaria sessilis P. M. McCarthy SPECIES
-=======
+# Verrucaria sessilis P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

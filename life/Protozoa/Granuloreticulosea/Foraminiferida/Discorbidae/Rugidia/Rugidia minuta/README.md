@@ -1,5 +1,4 @@
-Rugidia minuta SPECIES
-=======
+# Rugidia minuta SPECIES
 
 #### Status
 ACCEPTED

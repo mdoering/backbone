@@ -1,5 +1,4 @@
-Anaptychia subascendens Asahina SPECIES
-=======
+# Anaptychia subascendens Asahina SPECIES
 
 #### Status
 ACCEPTED

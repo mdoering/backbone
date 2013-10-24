@@ -1,5 +1,4 @@
-Litosphaeridium siphoniphorum (Cookson & Eisenack, 1958) Davey & Williams SPECIES
-=======
+# Litosphaeridium siphoniphorum (Cookson & Eisenack, 1958) Davey & Williams SPECIES
 
 #### Status
 ACCEPTED

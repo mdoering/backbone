@@ -1,5 +1,4 @@
-Ustilago agropyri McAlpine, 1896 SPECIES
-=======
+# Ustilago agropyri McAlpine, 1896 SPECIES
 
 #### Status
 ACCEPTED

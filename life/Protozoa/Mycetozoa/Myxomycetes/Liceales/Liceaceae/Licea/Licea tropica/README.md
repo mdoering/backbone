@@ -1,5 +1,4 @@
-Licea tropica Chao H. Chung & C.H. Liu, 1996 SPECIES
-=======
+# Licea tropica Chao H. Chung & C.H. Liu, 1996 SPECIES
 
 #### Status
 ACCEPTED

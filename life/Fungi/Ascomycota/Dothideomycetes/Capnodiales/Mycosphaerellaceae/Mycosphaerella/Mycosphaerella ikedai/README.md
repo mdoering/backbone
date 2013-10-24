@@ -1,5 +1,4 @@
-Mycosphaerella ikedai Hara SPECIES
-=======
+# Mycosphaerella ikedai Hara SPECIES
 
 #### Status
 ACCEPTED

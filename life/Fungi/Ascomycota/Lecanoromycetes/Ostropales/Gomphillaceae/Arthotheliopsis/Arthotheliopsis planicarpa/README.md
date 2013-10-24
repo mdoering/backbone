@@ -1,5 +1,4 @@
-Arthotheliopsis planicarpa (Lücking) Lücking, Sérus. & Vezda SPECIES
-=======
+# Arthotheliopsis planicarpa (Lücking) Lücking, Sérus. & Vezda SPECIES
 
 #### Status
 ACCEPTED

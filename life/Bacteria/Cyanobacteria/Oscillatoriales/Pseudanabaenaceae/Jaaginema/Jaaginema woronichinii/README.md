@@ -1,8 +1,7 @@
-Oscillatoria woronichini Anissimova, 1949 SPECIES
-=======
+# Jaaginema woronichinii (Anissimova) Anagnostidis & Komárek, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

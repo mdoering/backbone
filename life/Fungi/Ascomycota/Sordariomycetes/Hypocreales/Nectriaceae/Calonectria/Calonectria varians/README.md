@@ -1,5 +1,4 @@
-Calonectria varians Sacc. SPECIES
-=======
+# Calonectria varians Sacc. SPECIES
 
 #### Status
 ACCEPTED

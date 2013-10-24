@@ -1,14 +1,13 @@
-Tricharia plana Vezda SPECIES
-=======
+# Aderkomyces planus (Vezda) Lücking, Sérus. & Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Folia geobot. phytotax. 14: 74 (1979)
+Lichenologist 37(2): 162 (2005)
 
 #### Original name
 Tricharia plana Vezda

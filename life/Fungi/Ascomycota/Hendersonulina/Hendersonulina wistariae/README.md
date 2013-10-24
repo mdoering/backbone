@@ -1,5 +1,4 @@
-Hendersonulina wistariae (Cooke) Tassi SPECIES
-=======
+# Hendersonulina wistariae (Cooke) Tassi SPECIES
 
 #### Status
 ACCEPTED

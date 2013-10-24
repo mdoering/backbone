@@ -1,5 +1,4 @@
-Polypyramidae Reschetnjak, 1966 FAMILY
-=======
+# Polypyramidae Reschetnjak, 1966 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcogyne arenosa (Herre) K. Knudsen & Standley SPECIES
-=======
+# Sarcogyne arenosa (Herre) K. Knudsen & Standley SPECIES
 
 #### Status
 ACCEPTED

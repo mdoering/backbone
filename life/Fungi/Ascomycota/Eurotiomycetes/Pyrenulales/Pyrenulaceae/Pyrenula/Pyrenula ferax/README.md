@@ -1,5 +1,4 @@
-Pyrenula ferax Müll. Arg. SPECIES
-=======
+# Pyrenula ferax Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

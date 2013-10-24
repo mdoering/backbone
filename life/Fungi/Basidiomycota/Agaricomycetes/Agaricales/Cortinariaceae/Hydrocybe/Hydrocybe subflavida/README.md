@@ -1,5 +1,4 @@
-Hydrocybe subflavida Murrill SPECIES
-=======
+# Hydrocybe subflavida Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea hexaspora Hue SPECIES
-=======
+# Lecidea hexaspora Hue SPECIES
 
 #### Status
 ACCEPTED

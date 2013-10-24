@@ -1,5 +1,4 @@
-Lophiostoma cercocarpi Tracy & Earle SPECIES
-=======
+# Lophiostoma cercocarpi Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

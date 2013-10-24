@@ -1,5 +1,4 @@
-Schizoparme terminaliae Samuels, M.E. Barr & Lowen SPECIES
-=======
+# Schizoparme terminaliae Samuels, M.E. Barr & Lowen SPECIES
 
 #### Status
 ACCEPTED

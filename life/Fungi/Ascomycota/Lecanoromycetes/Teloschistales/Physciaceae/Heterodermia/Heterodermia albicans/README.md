@@ -1,17 +1,16 @@
-Parmelia albicans Pers. SPECIES
-=======
+# Heterodermia albicans (Pers.) Swinscow & Krog SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 8(2): 113 (1976)
 
 #### Original name
-null
+Parmelia albicans Pers.
 
 ### Remarks
 null

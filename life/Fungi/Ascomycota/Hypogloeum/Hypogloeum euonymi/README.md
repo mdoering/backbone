@@ -1,17 +1,16 @@
-Hypogloeum evonymi Petr. SPECIES
-=======
+# Hypogloeum euonymi Petr., 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 21(3/4): 264 (1923)
 
 #### Original name
-Hypogloeum evonymi Petr.
+Hypogloeum euonymi Petr., 1923
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Hexasphaera H. Keupp, 1987 GENUS
-=======
+# Keuppisphaera J.K. Lentin & G.L. Williams, 1989 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Facies 16: 41.
+AASP (Am Assoc Stratigr Palynol) Contrib Ser No. 20: 397.
 
 #### Original name
-null
+Hexasphaera H. Keupp, 1987
 
 ### Remarks
 null

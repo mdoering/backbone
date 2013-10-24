@@ -1,5 +1,4 @@
-Fusidium expansum (Schltdl.) Link SPECIES
-=======
+# Fusidium expansum (Schltdl.) Link SPECIES
 
 #### Status
 ACCEPTED

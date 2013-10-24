@@ -1,5 +1,4 @@
-Virgariella ellipsospora G. Delgado & J. Mena SPECIES
-=======
+# Virgariella ellipsospora G. Delgado & J. Mena SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Merulius rimosus Berk. ex Cooke, 1891 SPECIES
-=======
+# Plicatura nivea (Sommerf.) P. Karst., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 19(no. 92): 108 (1891)
+Bidr. Känn. Finl. Nat. Folk 48: 342 (1889)
 
 #### Original name
-Merulius rimosus Berk. ex Cooke, 1891
+Merulius niveus Fr., 1828
 
 ### Remarks
 null

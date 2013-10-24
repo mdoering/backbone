@@ -1,5 +1,4 @@
-Lactarius lacteovirescens Verbeken & E. Horak SPECIES
-=======
+# Lactarius lacteovirescens Verbeken & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus cardinalis Roum. SPECIES
-=======
+# Agaricus cardinalis Roum. SPECIES
 
 #### Status
 ACCEPTED

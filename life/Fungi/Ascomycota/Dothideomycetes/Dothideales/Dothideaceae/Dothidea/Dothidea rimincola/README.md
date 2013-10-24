@@ -1,5 +1,4 @@
-Dothidea rimincola (Schwein.) Peck SPECIES
-=======
+# Dothidea rimincola (Schwein.) Peck SPECIES
 
 #### Status
 ACCEPTED

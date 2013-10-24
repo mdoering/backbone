@@ -1,5 +1,4 @@
-Polystictus subcongener (Berk. ex Cooke) Lloyd SPECIES
-=======
+# Polystictus subcongener (Berk. ex Cooke) Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Velolentinus GENUS
-=======
+# Velolentinus GENUS
 
 #### Status
 ACCEPTED

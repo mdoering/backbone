@@ -1,5 +1,4 @@
-Lecidea thalloedaemiformis Szatala SPECIES
-=======
+# Lecidea thalloedaemiformis Szatala SPECIES
 
 #### Status
 ACCEPTED

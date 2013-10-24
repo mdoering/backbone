@@ -1,5 +1,4 @@
-Mycosphaerella wollemiae Sivan. & R.G. Shivas, 2002 SPECIES
-=======
+# Mycosphaerella wollemiae Sivan. & R.G. Shivas, 2002 SPECIES
 
 #### Status
 ACCEPTED

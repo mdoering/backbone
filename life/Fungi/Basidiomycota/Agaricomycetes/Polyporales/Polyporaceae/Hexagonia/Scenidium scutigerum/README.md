@@ -1,5 +1,4 @@
-Scenidium scutigerum (Fr.) Kuntze SPECIES
-=======
+# Scenidium scutigerum (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

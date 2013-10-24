@@ -1,5 +1,4 @@
-Comatricha extendens Hagelst. SPECIES
-=======
+# Comatricha extendens Hagelst. SPECIES
 
 #### Status
 ACCEPTED

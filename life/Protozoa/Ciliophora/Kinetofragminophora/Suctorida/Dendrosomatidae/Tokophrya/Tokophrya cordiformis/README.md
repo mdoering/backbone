@@ -1,5 +1,4 @@
-Tokophrya cordiformis SPECIES
-=======
+# Tokophrya cordiformis SPECIES
 
 #### Status
 ACCEPTED

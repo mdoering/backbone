@@ -1,5 +1,4 @@
-Eupenicillium sinaicum Udagawa & S. Ueda, 1982 SPECIES
-=======
+# Eupenicillium sinaicum Udagawa & S. Ueda, 1982 SPECIES
 
 #### Status
 ACCEPTED

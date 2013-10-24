@@ -1,5 +1,4 @@
-Hyaloraphidium Korshikov GENUS
-=======
+# Hyaloraphidium Korshikov GENUS
 
 #### Status
 ACCEPTED

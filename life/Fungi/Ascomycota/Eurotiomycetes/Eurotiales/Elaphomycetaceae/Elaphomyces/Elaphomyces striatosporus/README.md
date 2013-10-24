@@ -1,5 +1,4 @@
-Elaphomyces striatosporus Kers SPECIES
-=======
+# Elaphomyces striatosporus Kers SPECIES
 
 #### Status
 ACCEPTED

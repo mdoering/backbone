@@ -1,14 +1,13 @@
-Ahlesia impressella (Nyl.) G. Salisb. SPECIES
-=======
+# Thelocarpon impressellum Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Lichenologist 3(2): 193 (1966)
+Flora, Jena 50: 168 (1867)
 
 #### Original name
 Thelocarpon impressellum Nyl.

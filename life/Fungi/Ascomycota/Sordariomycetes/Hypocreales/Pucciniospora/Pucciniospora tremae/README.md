@@ -1,5 +1,4 @@
-Pucciniospora tremae Sawada SPECIES
-=======
+# Pucciniospora tremae Sawada SPECIES
 
 #### Status
 ACCEPTED

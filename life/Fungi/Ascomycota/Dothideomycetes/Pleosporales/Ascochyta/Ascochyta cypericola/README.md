@@ -1,5 +1,4 @@
-Ascochyta cypericola R.K. Upadhyay, Kenfield, Strobel & W.M. Hess, 1991 SPECIES
-=======
+# Ascochyta cypericola R.K. Upadhyay, Kenfield, Strobel & W.M. Hess, 1991 SPECIES
 
 #### Status
 ACCEPTED

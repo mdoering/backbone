@@ -1,5 +1,4 @@
-Caloplaca vitellinuloides (Harm.) M. Choisy & Werner SPECIES
-=======
+# Caloplaca vitellinuloides (Harm.) M. Choisy & Werner SPECIES
 
 #### Status
 ACCEPTED

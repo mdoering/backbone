@@ -1,5 +1,4 @@
-Apple scar SPECIES
-=======
+# Apple scar SPECIES
 
 #### Status
 ACCEPTED

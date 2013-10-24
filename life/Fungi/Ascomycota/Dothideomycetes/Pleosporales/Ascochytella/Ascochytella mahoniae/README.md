@@ -1,5 +1,4 @@
-Ascochytella mahoniae Unamuno SPECIES
-=======
+# Ascochytella mahoniae Unamuno SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gaetbulibacter marinus Yang & Cho, 2008 SPECIES
-=======
+# Gaetbulibacter marinus Yang & Cho, 2008 SPECIES
 
 #### Status
 ACCEPTED

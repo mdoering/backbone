@@ -1,5 +1,4 @@
-Pleurotus tephrophanus (Berk.) Sacc. SPECIES
-=======
+# Pleurotus tephrophanus (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

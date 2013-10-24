@@ -1,5 +1,4 @@
-Nectria cainitonis Henn. SPECIES
-=======
+# Nectria cainitonis Henn. SPECIES
 
 #### Status
 ACCEPTED

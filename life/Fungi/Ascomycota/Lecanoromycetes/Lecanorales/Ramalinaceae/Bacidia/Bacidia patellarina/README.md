@@ -1,5 +1,4 @@
-Bacidia patellarina (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia patellarina (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

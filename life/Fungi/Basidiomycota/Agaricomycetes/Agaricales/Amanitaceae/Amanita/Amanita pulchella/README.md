@@ -1,5 +1,4 @@
-Amanita pulchella S. Imai SPECIES
-=======
+# Amanita pulchella S. Imai SPECIES
 
 #### Status
 ACCEPTED

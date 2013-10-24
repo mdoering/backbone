@@ -1,5 +1,4 @@
-Dimelaena major SPECIES
-=======
+# Dimelaena major SPECIES
 
 #### Status
 ACCEPTED

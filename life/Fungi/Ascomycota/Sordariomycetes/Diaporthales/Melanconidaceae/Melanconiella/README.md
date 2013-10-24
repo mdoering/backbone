@@ -1,5 +1,4 @@
-Melanconiella GENUS
-=======
+# Melanconiella GENUS
 
 #### Status
 ACCEPTED

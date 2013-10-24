@@ -1,5 +1,4 @@
-Puccinia smilacearum-digraphidis Kleb. SPECIES
-=======
+# Puccinia smilacearum-digraphidis Kleb. SPECIES
 
 #### Status
 ACCEPTED

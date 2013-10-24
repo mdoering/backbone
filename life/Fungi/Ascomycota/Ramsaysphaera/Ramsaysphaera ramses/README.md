@@ -1,5 +1,4 @@
-Ramsaysphaera ramses H.D. Pflug SPECIES
-=======
+# Ramsaysphaera ramses H.D. Pflug SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Myrmecocystis Harkn. GENUS
-=======
+# Genea Vittadini, 1831 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Calif. Acad. Sci. , Ser. 3, Bot. 1: 269 (1899)
+Monogr. Tuberac. (Milano) 27 (1831)
 
 #### Original name
-Myrmecocystis Harkn.
+Genea Vittadini, 1831
 
 ### Remarks
 null

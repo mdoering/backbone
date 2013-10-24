@@ -1,5 +1,4 @@
-Steccherinum diversum Hjortstam & Melo SPECIES
-=======
+# Steccherinum diversum Hjortstam & Melo SPECIES
 
 #### Status
 ACCEPTED

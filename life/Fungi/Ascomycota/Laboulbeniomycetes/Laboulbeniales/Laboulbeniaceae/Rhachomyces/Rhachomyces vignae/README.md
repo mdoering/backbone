@@ -1,17 +1,16 @@
-Rhachomyces vignai W. Rossi & Cesari SPECIES
-=======
+# Rhachomyces vignae W. Rossi & Cesari SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atti Soc. ital. Sci. nat. (Modena) 115(2): 175 (1974)
 
 #### Original name
-Rhachomyces vignai W. Rossi & Cesari
+Rhachomyces vignae W. Rossi & Cesari
 
 ### Remarks
 null

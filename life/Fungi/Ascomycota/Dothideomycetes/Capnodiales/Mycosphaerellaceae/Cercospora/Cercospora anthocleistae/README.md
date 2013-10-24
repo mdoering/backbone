@@ -1,5 +1,4 @@
-Cercospora anthocleistae J.M. Yen & Gilles SPECIES
-=======
+# Cercospora anthocleistae J.M. Yen & Gilles SPECIES
 
 #### Status
 ACCEPTED

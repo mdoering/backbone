@@ -1,17 +1,16 @@
-Cyclopeltis jasmini (Doidge) Bat., Nascim. & A.F. Vital, 1960 SPECIES
-=======
+# Palawaniella jasmini (Doidge) Arx & E. Müll., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 9: 37 (1975)
 
 #### Original name
-null
+Ferrarisia jasmini Doidge, 1942
 
 ### Remarks
 null

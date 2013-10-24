@@ -1,5 +1,4 @@
-Cortinarius decoratus Bataille SPECIES
-=======
+# Cortinarius decoratus Bataille SPECIES
 
 #### Status
 ACCEPTED

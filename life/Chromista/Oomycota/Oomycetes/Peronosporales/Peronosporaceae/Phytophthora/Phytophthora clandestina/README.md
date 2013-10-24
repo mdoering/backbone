@@ -1,5 +1,4 @@
-Phytophthora clandestina P.A. Taylor, Pascoe & F.C. Greenh., 1985 SPECIES
-=======
+# Phytophthora clandestina P.A. Taylor, Pascoe & F.C. Greenh., 1985 SPECIES
 
 #### Status
 ACCEPTED

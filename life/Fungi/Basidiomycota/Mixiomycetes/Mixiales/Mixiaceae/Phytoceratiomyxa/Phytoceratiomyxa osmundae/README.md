@@ -1,5 +1,4 @@
-Phytoceratiomyxa osmundae Sawada SPECIES
-=======
+# Phytoceratiomyxa osmundae Sawada SPECIES
 
 #### Status
 ACCEPTED

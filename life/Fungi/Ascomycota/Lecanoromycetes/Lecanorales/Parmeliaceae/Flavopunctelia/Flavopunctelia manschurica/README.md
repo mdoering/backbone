@@ -1,5 +1,4 @@
-Flavopunctelia manschurica (Asahina) Hale SPECIES
-=======
+# Flavopunctelia manschurica (Asahina) Hale SPECIES
 
 #### Status
 ACCEPTED

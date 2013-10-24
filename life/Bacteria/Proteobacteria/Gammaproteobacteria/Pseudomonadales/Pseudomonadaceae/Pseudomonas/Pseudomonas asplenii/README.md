@@ -1,5 +1,4 @@
-Pseudomonas asplenii (Ark and Tompkins, 1946) Savulescu, 1947 (Approved Lists, 1980) SPECIES
-=======
+# Pseudomonas asplenii (Ark and Tompkins, 1946) Savulescu, 1947 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chlorokoryne Pascher, 1939 GENUS
-=======
+# Chlorokoryne Pascher, 1939 GENUS
 
 #### Status
 ACCEPTED

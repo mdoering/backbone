@@ -1,5 +1,4 @@
-Armillaria vivianii (Fr.) Sacc. SPECIES
-=======
+# Armillaria vivianii (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

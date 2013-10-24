@@ -1,5 +1,4 @@
-Sticta recedens (Müll. Arg.) Vain. SPECIES
-=======
+# Sticta recedens (Müll. Arg.) Vain. SPECIES
 
 #### Status
 ACCEPTED

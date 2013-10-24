@@ -1,8 +1,7 @@
-Peridinium inconspicuum var. armatum Lemmermann VARIETY
-=======
+# Peridinium umbonatum F.Stein SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

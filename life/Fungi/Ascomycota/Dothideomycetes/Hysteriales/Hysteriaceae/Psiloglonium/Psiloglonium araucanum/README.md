@@ -1,5 +1,4 @@
-Psiloglonium araucanum (Speg.) E. Boehm, Marincowitz & Schoch, 2009 SPECIES
-=======
+# Psiloglonium araucanum (Speg.) E. Boehm, Marincowitz & Schoch, 2009 SPECIES
 
 #### Status
 ACCEPTED

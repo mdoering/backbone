@@ -1,5 +1,4 @@
-Coprinopsis fluvialis (Lancon. & Uljé) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis fluvialis (Lancon. & Uljé) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

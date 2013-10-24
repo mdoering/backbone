@@ -1,5 +1,4 @@
-Heimiomyces brunneipes Singer SPECIES
-=======
+# Heimiomyces brunneipes Singer SPECIES
 
 #### Status
 ACCEPTED

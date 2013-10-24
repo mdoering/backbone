@@ -1,5 +1,4 @@
-Volutella caricicola Miles SPECIES
-=======
+# Volutella caricicola Miles SPECIES
 
 #### Status
 ACCEPTED

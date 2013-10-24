@@ -1,5 +1,4 @@
-Porotheleum reticulatum Petch SPECIES
-=======
+# Porotheleum reticulatum Petch SPECIES
 
 #### Status
 ACCEPTED

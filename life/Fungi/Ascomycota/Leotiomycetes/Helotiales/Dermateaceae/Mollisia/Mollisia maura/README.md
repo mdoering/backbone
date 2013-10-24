@@ -1,5 +1,4 @@
-Mollisia maura W. Phillips SPECIES
-=======
+# Mollisia maura W. Phillips SPECIES
 
 #### Status
 ACCEPTED

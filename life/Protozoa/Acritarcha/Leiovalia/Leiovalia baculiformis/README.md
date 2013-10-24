@@ -1,5 +1,4 @@
-Leiovalia baculiformis Burmann, 1970 SPECIES
-=======
+# Leiovalia baculiformis Burmann, 1970 SPECIES
 
 #### Status
 ACCEPTED

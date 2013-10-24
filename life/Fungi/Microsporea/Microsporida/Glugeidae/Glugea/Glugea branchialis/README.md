@@ -1,5 +1,4 @@
-Glugea branchialis (Nemeczek) Lom & Laird SPECIES
-=======
+# Glugea branchialis (Nemeczek) Lom & Laird SPECIES
 
 #### Status
 ACCEPTED

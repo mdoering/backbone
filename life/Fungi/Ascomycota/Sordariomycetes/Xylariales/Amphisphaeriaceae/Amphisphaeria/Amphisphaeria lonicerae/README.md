@@ -1,5 +1,4 @@
-Amphisphaeria lonicerae Sacc. SPECIES
-=======
+# Amphisphaeria lonicerae Sacc. SPECIES
 
 #### Status
 ACCEPTED

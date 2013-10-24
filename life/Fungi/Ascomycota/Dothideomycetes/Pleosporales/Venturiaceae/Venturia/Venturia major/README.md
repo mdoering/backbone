@@ -1,5 +1,4 @@
-Venturia major (Auersw.) M. Morelet SPECIES
-=======
+# Venturia major (Auersw.) M. Morelet SPECIES
 
 #### Status
 ACCEPTED

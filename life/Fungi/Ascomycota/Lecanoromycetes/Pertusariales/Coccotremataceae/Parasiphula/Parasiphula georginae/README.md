@@ -1,14 +1,13 @@
-Siphula georginae Kantvilas SPECIES
-=======
+# Parasiphula georginae (Kantvilas) Kantvilas & Grube SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Herzogia 12: 12 (1996)
+in Grube & Kantvilas, Lichenologist 38(3): 246 (2006)
 
 #### Original name
 Siphula georginae Kantvilas

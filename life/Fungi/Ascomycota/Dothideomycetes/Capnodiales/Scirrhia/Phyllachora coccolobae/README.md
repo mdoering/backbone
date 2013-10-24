@@ -1,5 +1,4 @@
-Phyllachora coccolobae Speg., 1909 SPECIES
-=======
+# Phyllachora coccolobae Speg., 1909 SPECIES
 
 #### Status
 ACCEPTED

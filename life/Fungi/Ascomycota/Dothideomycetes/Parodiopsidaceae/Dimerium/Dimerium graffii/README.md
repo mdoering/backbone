@@ -1,5 +1,4 @@
-Dimerium graffii anon. SPECIES
-=======
+# Dimerium graffii anon. SPECIES
 
 #### Status
 ACCEPTED

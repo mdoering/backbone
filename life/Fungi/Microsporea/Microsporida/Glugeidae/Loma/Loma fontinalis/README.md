@@ -1,5 +1,4 @@
-Loma fontinalis C.M. Morrison & V. Sprague SPECIES
-=======
+# Loma fontinalis C.M. Morrison & V. Sprague SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia pestalozzioides (Dearn. & Fairm.) Shoemaker & E. Müll. SPECIES
-=======
+# Pestalotia pestalozzioides (Dearn. & Fairm.) Shoemaker & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

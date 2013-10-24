@@ -1,17 +1,16 @@
-Paraparmelia fynbosiana Elix SPECIES
-=======
+# Xanthoparmelia fynbosiana (Elix) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 87: 399 (2003)
 
 #### Original name
-null
+Paraparmelia fynbosiana Elix
 
 ### Remarks
 null

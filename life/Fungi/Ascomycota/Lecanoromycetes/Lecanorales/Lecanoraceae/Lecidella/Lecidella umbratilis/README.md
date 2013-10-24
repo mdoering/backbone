@@ -1,5 +1,4 @@
-Lecidella umbratilis Arnold SPECIES
-=======
+# Lecidella umbratilis Arnold SPECIES
 
 #### Status
 ACCEPTED

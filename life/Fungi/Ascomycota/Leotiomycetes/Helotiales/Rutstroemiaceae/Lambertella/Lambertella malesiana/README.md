@@ -1,5 +1,4 @@
-Lambertella malesiana Dumont SPECIES
-=======
+# Lambertella malesiana Dumont SPECIES
 
 #### Status
 ACCEPTED

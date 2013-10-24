@@ -1,5 +1,4 @@
-Prospodium reticulati H.S. Jacks. & Holw. SPECIES
-=======
+# Prospodium reticulati H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

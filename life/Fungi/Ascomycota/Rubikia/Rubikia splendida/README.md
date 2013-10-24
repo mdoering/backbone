@@ -1,5 +1,4 @@
-Rubikia splendida Dulym., Minter & Peerally SPECIES
-=======
+# Rubikia splendida Dulym., Minter & Peerally SPECIES
 
 #### Status
 ACCEPTED

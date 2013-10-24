@@ -1,5 +1,4 @@
-Ricnophora carnea Pers. SPECIES
-=======
+# Ricnophora carnea Pers. SPECIES
 
 #### Status
 ACCEPTED

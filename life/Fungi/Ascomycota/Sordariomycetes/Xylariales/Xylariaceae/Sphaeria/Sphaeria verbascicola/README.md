@@ -1,5 +1,4 @@
-Sphaeria verbascicola Schwein. SPECIES
-=======
+# Sphaeria verbascicola Schwein. SPECIES
 
 #### Status
 ACCEPTED

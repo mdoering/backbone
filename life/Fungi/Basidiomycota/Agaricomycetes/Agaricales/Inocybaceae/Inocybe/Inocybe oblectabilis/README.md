@@ -1,17 +1,16 @@
-Inocybe oblectabilis f. oblectabilis FORM
-=======
+# Inocybe oblectabilis (Britzelm.) Sacc., 1895 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 1: 54 (1882)
+Syll. fung. (Abellini) 11: 54 (1895)
 
 #### Original name
-Inocybe oblectabilis f. oblectabilis
+Agaricus oblectabilis Britzelm., 1890
 
 ### Remarks
 null

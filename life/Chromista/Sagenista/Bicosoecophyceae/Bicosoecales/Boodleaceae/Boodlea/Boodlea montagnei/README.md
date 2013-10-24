@@ -1,8 +1,7 @@
-Boodlea paradoxa Reinbold SPECIES
-=======
+# Boodlea montagnei (Harvey ex J.E. Gray) Egerod SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

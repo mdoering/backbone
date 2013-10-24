@@ -1,5 +1,4 @@
-Polyporus lucens Wettst. SPECIES
-=======
+# Polyporus lucens Wettst. SPECIES
 
 #### Status
 ACCEPTED

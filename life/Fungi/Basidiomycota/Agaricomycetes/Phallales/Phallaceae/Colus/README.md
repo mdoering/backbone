@@ -1,5 +1,4 @@
-Colus Cavalier & Séchier, 1835 GENUS
-=======
+# Colus Cavalier & Séchier, 1835 GENUS
 
 #### Status
 ACCEPTED

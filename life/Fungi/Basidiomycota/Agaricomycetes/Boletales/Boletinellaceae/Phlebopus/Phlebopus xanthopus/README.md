@@ -1,5 +1,4 @@
-Phlebopus xanthopus T.H. Li & Watling, 1999 SPECIES
-=======
+# Phlebopus xanthopus T.H. Li & Watling, 1999 SPECIES
 
 #### Status
 ACCEPTED

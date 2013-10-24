@@ -1,5 +1,4 @@
-Lepidochromonas Kristiansen, 1980 GENUS
-=======
+# Lepidochromonas Kristiansen, 1980 GENUS
 
 #### Status
 SYNONYM

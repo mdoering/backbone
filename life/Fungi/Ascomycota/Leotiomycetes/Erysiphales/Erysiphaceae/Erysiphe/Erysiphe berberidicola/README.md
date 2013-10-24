@@ -1,5 +1,4 @@
-Erysiphe berberidicola (F.L. Tai) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe berberidicola (F.L. Tai) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

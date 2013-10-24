@@ -1,5 +1,4 @@
-Cortinarius atrofuscus (Velen.) Reumaux SPECIES
-=======
+# Cortinarius atrofuscus (Velen.) Reumaux SPECIES
 
 #### Status
 ACCEPTED

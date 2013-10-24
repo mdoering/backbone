@@ -1,5 +1,4 @@
-Chaetosphaeria longipila Peck SPECIES
-=======
+# Chaetosphaeria longipila Peck SPECIES
 
 #### Status
 ACCEPTED

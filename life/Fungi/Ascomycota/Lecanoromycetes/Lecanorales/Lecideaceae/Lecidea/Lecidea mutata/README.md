@@ -1,5 +1,4 @@
-Lecidea mutata Nyl. SPECIES
-=======
+# Lecidea mutata Nyl. SPECIES
 
 #### Status
 ACCEPTED

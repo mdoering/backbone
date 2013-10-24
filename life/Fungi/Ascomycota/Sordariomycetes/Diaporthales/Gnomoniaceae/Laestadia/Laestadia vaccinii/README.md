@@ -1,5 +1,4 @@
-Laestadia vaccinii Cooke SPECIES
-=======
+# Laestadia vaccinii Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Junghuhnia glabricystidia Ipulet & Ryvarden, 2005 SPECIES
-=======
+# Junghuhnia glabricystidia Ipulet & Ryvarden, 2005 SPECIES
 
 #### Status
 ACCEPTED

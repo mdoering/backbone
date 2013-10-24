@@ -1,5 +1,4 @@
-Peziza mauriatra Cooke & Ellis SPECIES
-=======
+# Peziza mauriatra Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

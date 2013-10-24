@@ -1,5 +1,4 @@
-Plectania stenostoma (Mart.) Sacc. SPECIES
-=======
+# Plectania stenostoma (Mart.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

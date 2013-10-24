@@ -1,5 +1,4 @@
-Phomopsis eugeniae Punith., 1974 SPECIES
-=======
+# Phomopsis eugeniae Punith., 1974 SPECIES
 
 #### Status
 ACCEPTED

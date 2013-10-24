@@ -1,5 +1,4 @@
-Pterodinium aliferum Eisenack, 1958 SPECIES
-=======
+# Pterodinium aliferum Eisenack, 1958 SPECIES
 
 #### Status
 ACCEPTED

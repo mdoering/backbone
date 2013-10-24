@@ -1,5 +1,4 @@
-Ustilago penniseti-purpurei Vánky SPECIES
-=======
+# Ustilago penniseti-purpurei Vánky SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascosphaera celerrima Skou, 1988 SPECIES
-=======
+# Ascosphaera celerrima Skou, 1988 SPECIES
 
 #### Status
 ACCEPTED

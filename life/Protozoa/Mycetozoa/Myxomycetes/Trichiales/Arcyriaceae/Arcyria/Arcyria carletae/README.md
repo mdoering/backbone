@@ -1,5 +1,4 @@
-Arcyria carletae Hertel SPECIES
-=======
+# Arcyria carletae Hertel SPECIES
 
 #### Status
 ACCEPTED

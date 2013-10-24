@@ -1,5 +1,4 @@
-Chromatiales ORDER
-=======
+# Chromatiales ORDER
 
 #### Status
 ACCEPTED

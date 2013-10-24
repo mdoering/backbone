@@ -1,5 +1,4 @@
-Metasphaeria islandica (Rostr.) P. Larsen SPECIES
-=======
+# Metasphaeria islandica (Rostr.) P. Larsen SPECIES
 
 #### Status
 ACCEPTED

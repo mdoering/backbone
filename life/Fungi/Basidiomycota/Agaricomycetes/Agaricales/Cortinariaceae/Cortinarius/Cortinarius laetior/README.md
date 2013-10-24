@@ -1,5 +1,4 @@
-Cortinarius laetior P. Karst. SPECIES
-=======
+# Cortinarius laetior P. Karst. SPECIES
 
 #### Status
 ACCEPTED

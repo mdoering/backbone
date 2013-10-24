@@ -1,5 +1,4 @@
-Schismatomma glaucescens (Nyl. ex Willey) R.C. Harris SPECIES
-=======
+# Schismatomma glaucescens (Nyl. ex Willey) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neofracchiaea Teng GENUS
-=======
+# Neofracchiaea Teng GENUS
 
 #### Status
 ACCEPTED

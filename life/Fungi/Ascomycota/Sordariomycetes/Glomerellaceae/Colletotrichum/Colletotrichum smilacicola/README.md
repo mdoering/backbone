@@ -1,5 +1,4 @@
-Colletotrichum smilacicola Speg. SPECIES
-=======
+# Colletotrichum smilacicola Speg. SPECIES
 
 #### Status
 ACCEPTED

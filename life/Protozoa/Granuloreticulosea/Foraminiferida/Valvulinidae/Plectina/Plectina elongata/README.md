@@ -1,5 +1,4 @@
-Plectina elongata Bermudez & Cushman SPECIES
-=======
+# Plectina elongata Bermudez & Cushman SPECIES
 
 #### Status
 ACCEPTED

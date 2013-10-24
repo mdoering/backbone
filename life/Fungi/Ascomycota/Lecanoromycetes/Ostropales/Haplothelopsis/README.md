@@ -1,5 +1,4 @@
-Haplothelopsis GENUS
-=======
+# Haplothelopsis GENUS
 
 #### Status
 ACCEPTED

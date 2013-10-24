@@ -1,5 +1,4 @@
-Chitonomyces excavatus Thaxt. SPECIES
-=======
+# Chitonomyces excavatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

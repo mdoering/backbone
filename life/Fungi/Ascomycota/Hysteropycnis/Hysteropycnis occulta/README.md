@@ -1,5 +1,4 @@
-Hysteropycnis occulta Hilitzer, 1929 SPECIES
-=======
+# Hysteropycnis occulta Hilitzer, 1929 SPECIES
 
 #### Status
 ACCEPTED

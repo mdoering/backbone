@@ -1,5 +1,4 @@
-Leptosphaeria hierochloae Oudem. SPECIES
-=======
+# Leptosphaeria hierochloae Oudem. SPECIES
 
 #### Status
 ACCEPTED

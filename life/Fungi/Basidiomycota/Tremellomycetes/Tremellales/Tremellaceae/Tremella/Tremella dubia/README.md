@@ -1,5 +1,4 @@
-Tremella dubia Pers. SPECIES
-=======
+# Tremella dubia Pers. SPECIES
 
 #### Status
 ACCEPTED

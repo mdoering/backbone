@@ -1,5 +1,4 @@
-Collybia pseudomphalodes Dennis SPECIES
-=======
+# Collybia pseudomphalodes Dennis SPECIES
 
 #### Status
 ACCEPTED

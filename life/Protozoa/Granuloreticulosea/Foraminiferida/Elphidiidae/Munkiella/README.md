@@ -1,14 +1,13 @@
-Nunkiella GENUS
-=======
+# Munkiella Collins, 1981 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+IRMNG Homonym List
 
 #### Published in
-null
+Memoirs Natn. Mus. Vict. No. 42: 3.
 
 #### Original name
 null

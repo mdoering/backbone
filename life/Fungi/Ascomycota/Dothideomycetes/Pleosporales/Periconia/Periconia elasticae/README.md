@@ -1,5 +1,4 @@
-Periconia elasticae Koord. SPECIES
-=======
+# Periconia elasticae Koord. SPECIES
 
 #### Status
 ACCEPTED

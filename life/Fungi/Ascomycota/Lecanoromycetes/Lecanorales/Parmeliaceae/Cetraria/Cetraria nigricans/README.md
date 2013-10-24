@@ -1,5 +1,4 @@
-Cetraria nigricans var. nigricans VARIETY
-=======
+# Cetraria nigricans Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cetraria nigricans var. nigricans
+null
 
 ### Remarks
 null

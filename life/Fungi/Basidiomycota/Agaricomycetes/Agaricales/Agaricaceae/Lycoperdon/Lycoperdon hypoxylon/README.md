@@ -1,5 +1,4 @@
-Lycoperdon hypoxylon Pall. SPECIES
-=======
+# Lycoperdon hypoxylon Pall. SPECIES
 
 #### Status
 ACCEPTED

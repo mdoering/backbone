@@ -1,5 +1,4 @@
-Trichosphaeria macularis Syd. & E.J. Butler SPECIES
-=======
+# Trichosphaeria macularis Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

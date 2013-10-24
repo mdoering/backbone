@@ -1,5 +1,4 @@
-Discoidella D. Habib, 1970 GENUS
-=======
+# Discoidella D. Habib, 1970 GENUS
 
 #### Status
 ACCEPTED

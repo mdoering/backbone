@@ -1,17 +1,16 @@
-Phlyctema fraxini J.W. Ellis, 1913 SPECIES
-=======
+# Diaporthe scobina Nitschke, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Pyrenomycetes Germanici 2: 293 (1870)
 
 #### Original name
-Phlyctema fraxini J.W. Ellis, 1913
+Diaporthe scobina Nitschke, 1870
 
 ### Remarks
 null

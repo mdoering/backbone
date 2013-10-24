@@ -1,5 +1,4 @@
-Dermatocarpon myogiense Asahina SPECIES
-=======
+# Dermatocarpon myogiense Asahina SPECIES
 
 #### Status
 ACCEPTED

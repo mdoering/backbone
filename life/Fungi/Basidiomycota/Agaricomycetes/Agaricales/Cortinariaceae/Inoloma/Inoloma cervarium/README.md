@@ -1,5 +1,4 @@
-Inoloma cervarium Velen. SPECIES
-=======
+# Inoloma cervarium Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exosporium phyllantheum (Sacc.) M.B. Ellis SPECIES
-=======
+# Exosporium phyllantheum (Sacc.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylonites felixii Elsik SPECIES
-=======
+# Hypoxylonites felixii Elsik SPECIES
 
 #### Status
 ACCEPTED

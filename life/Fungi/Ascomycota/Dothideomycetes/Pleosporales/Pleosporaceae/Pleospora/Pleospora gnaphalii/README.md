@@ -1,5 +1,4 @@
-Pleospora gnaphalii Westend. & Fuckel SPECIES
-=======
+# Pleospora gnaphalii Westend. & Fuckel SPECIES
 
 #### Status
 ACCEPTED

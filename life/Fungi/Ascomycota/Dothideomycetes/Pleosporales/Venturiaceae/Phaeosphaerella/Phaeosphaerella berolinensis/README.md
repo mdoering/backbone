@@ -1,5 +1,4 @@
-Phaeosphaerella berolinensis Kirschst. SPECIES
-=======
+# Phaeosphaerella berolinensis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

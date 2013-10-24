@@ -1,5 +1,4 @@
-Lophiostoma lunisporum (K.D. Hyde & Goh) Aptroot & K.D. Hyde SPECIES
-=======
+# Lophiostoma lunisporum (K.D. Hyde & Goh) Aptroot & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

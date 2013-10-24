@@ -1,5 +1,4 @@
-Rhizobium tropici Martínez-Romero et al., 1991 SPECIES
-=======
+# Rhizobium tropici Martínez-Romero et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

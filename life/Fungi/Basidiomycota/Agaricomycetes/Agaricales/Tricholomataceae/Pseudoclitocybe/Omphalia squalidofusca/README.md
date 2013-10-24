@@ -1,5 +1,4 @@
-Omphalia squalidofusca (Britzelm.) Sacc. & P. Syd. SPECIES
-=======
+# Omphalia squalidofusca (Britzelm.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

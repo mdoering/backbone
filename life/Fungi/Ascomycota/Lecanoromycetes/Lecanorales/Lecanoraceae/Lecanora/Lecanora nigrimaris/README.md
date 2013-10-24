@@ -1,5 +1,4 @@
-Lecanora nigrimaris Cretz. ex Servít & Cretz. SPECIES
-=======
+# Lecanora nigrimaris Cretz. ex Servít & Cretz. SPECIES
 
 #### Status
 ACCEPTED

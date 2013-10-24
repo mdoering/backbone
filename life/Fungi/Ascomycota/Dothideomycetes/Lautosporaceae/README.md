@@ -1,5 +1,4 @@
-Lautosporaceae Kohlm., Volkm.-Kohlm. & O.E. Erikss. FAMILY
-=======
+# Lautosporaceae Kohlm., Volkm.-Kohlm. & O.E. Erikss. FAMILY
 
 #### Status
 ACCEPTED

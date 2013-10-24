@@ -1,5 +1,4 @@
-Gloniopsis guttulata Seaver SPECIES
-=======
+# Gloniopsis guttulata Seaver SPECIES
 
 #### Status
 ACCEPTED

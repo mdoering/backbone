@@ -1,5 +1,4 @@
-Melanops sterculiae (Rehm) Petr. SPECIES
-=======
+# Melanops sterculiae (Rehm) Petr. SPECIES
 
 #### Status
 ACCEPTED

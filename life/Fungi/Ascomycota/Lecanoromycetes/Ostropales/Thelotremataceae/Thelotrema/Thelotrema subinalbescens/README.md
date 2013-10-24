@@ -1,5 +1,4 @@
-Thelotrema subinalbescens Nyl. SPECIES
-=======
+# Thelotrema subinalbescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

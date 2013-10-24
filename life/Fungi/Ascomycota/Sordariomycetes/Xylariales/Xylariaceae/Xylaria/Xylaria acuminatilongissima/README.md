@@ -1,5 +1,4 @@
-Xylaria acuminatilongissima Y.M. Ju & H.M. Hsieh, 2008 SPECIES
-=======
+# Xylaria acuminatilongissima Y.M. Ju & H.M. Hsieh, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladobotryum novovarium K. Põldmaa SPECIES
-=======
+# Cladobotryum novovarium K. Põldmaa SPECIES
 
 #### Status
 ACCEPTED

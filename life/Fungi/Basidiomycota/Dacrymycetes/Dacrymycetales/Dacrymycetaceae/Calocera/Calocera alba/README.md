@@ -1,5 +1,4 @@
-Calocera alba Kobayasi SPECIES
-=======
+# Calocera alba Kobayasi SPECIES
 
 #### Status
 ACCEPTED

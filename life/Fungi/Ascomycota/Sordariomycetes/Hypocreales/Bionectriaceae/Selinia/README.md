@@ -1,17 +1,16 @@
-Seliniana Kuntze GENUS
-=======
+# Selinia P. Karsten, 1876 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 869 (1891)
+null
 
 #### Original name
-Seliniana Kuntze
+null
 
 ### Remarks
 null

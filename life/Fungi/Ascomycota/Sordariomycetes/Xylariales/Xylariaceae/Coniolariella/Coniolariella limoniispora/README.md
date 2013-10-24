@@ -1,5 +1,4 @@
-Coniolariella limoniispora (Ellis & Everh.) Checa, Arenal & J.D. Rogers SPECIES
-=======
+# Coniolariella limoniispora (Ellis & Everh.) Checa, Arenal & J.D. Rogers SPECIES
 
 #### Status
 ACCEPTED

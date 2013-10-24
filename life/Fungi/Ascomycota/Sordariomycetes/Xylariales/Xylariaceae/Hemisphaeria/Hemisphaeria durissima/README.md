@@ -1,5 +1,4 @@
-Hemisphaeria durissima (Wahl.) Kuntze SPECIES
-=======
+# Hemisphaeria durissima (Wahl.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Jejuia pallidilutea Lee, Kahng, Lee, Jung, Kim, Chung, Park & Jeon, 2009 SPECIES
-=======
+# Jejuia pallidilutea Lee, Kahng, Lee, Jung, Kim, Chung, Park & Jeon, 2009 SPECIES
 
 #### Status
 ACCEPTED

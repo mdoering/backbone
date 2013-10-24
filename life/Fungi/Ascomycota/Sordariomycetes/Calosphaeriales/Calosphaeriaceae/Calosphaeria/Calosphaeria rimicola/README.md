@@ -1,5 +1,4 @@
-Calosphaeria rimicola (Schwein.) Ellis & Everh. SPECIES
-=======
+# Calosphaeria rimicola (Schwein.) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

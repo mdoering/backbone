@@ -1,5 +1,4 @@
-Rinodina dolichospora Malme SPECIES
-=======
+# Rinodina dolichospora Malme SPECIES
 
 #### Status
 ACCEPTED

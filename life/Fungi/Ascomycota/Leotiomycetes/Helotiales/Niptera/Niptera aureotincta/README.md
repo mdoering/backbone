@@ -1,5 +1,4 @@
-Niptera aureotincta Syd. {?} SPECIES
-=======
+# Niptera aureotincta Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizophlyctis hirsuta Karling, 1964 SPECIES
-=======
+# Rhizophlyctis hirsuta Karling, 1964 SPECIES
 
 #### Status
 ACCEPTED

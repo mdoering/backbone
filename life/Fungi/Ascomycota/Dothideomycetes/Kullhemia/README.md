@@ -1,5 +1,4 @@
-Kullhemia P. Karst. GENUS
-=======
+# Kullhemia P. Karst. GENUS
 
 #### Status
 ACCEPTED

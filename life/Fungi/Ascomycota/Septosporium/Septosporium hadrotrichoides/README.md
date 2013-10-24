@@ -1,5 +1,4 @@
-Septosporium hadrotrichoides Ellis & Everh. SPECIES
-=======
+# Septosporium hadrotrichoides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

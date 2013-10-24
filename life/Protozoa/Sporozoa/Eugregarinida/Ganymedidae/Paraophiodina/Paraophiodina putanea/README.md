@@ -1,8 +1,7 @@
-Zygocystis putanea Lachman, 1859 SPECIES
-=======
+# Paraophiodina putanea Lachman, 1859 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Torrubia GENUS
-=======
+# Torrubia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thermus filiformis Hudson et al., 1987 SPECIES
-=======
+# Thermus filiformis Hudson et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

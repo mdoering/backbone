@@ -1,5 +1,4 @@
-Lithothelium echinatum Aptroot SPECIES
-=======
+# Lithothelium echinatum Aptroot SPECIES
 
 #### Status
 ACCEPTED

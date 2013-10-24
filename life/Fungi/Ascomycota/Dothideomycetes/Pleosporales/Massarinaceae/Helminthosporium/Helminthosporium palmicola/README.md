@@ -1,5 +1,4 @@
-Helminthosporium palmicola Pat. & Gaillard SPECIES
-=======
+# Helminthosporium palmicola Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

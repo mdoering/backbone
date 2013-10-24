@@ -1,5 +1,4 @@
-Sommierella Borzì, 1907 GENUS
-=======
+# Sommierella Borzì, 1907 GENUS
 
 #### Status
 ACCEPTED

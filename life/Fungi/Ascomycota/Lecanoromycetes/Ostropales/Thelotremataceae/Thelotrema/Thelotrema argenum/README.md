@@ -1,5 +1,4 @@
-Thelotrema argenum (Ach.) Hepp SPECIES
-=======
+# Thelotrema argenum (Ach.) Hepp SPECIES
 
 #### Status
 ACCEPTED

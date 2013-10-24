@@ -1,5 +1,4 @@
-Puccinia belizensis Mains SPECIES
-=======
+# Puccinia belizensis Mains SPECIES
 
 #### Status
 ACCEPTED

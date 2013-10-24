@@ -1,5 +1,4 @@
-Trichormus steloides (L. Canabaeus) J. Komárek & K. Anagnostidis SPECIES
-=======
+# Trichormus steloides (L. Canabaeus) J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

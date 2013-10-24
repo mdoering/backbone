@@ -1,5 +1,4 @@
-Molinea Doub. & D. Pons GENUS
-=======
+# Molinea Doub. & D. Pons GENUS
 
 #### Status
 ACCEPTED

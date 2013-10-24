@@ -1,5 +1,4 @@
-Marasmiellus tetrachrous (Singer) Singer SPECIES
-=======
+# Marasmiellus tetrachrous (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

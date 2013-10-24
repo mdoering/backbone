@@ -1,5 +1,4 @@
-Agaricus oenochrous Mont. SPECIES
-=======
+# Agaricus oenochrous Mont. SPECIES
 
 #### Status
 ACCEPTED

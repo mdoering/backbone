@@ -1,5 +1,4 @@
-Irene rinoreae Doidge SPECIES
-=======
+# Irene rinoreae Doidge SPECIES
 
 #### Status
 ACCEPTED

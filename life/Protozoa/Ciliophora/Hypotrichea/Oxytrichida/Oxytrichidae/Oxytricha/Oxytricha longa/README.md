@@ -1,8 +1,7 @@
-Urosomoida longa SPECIES
-=======
+# Oxytricha longa Gelei & Szabados, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

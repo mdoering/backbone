@@ -1,5 +1,4 @@
-Phyllosticta tenebrosa H.C. Greene SPECIES
-=======
+# Phyllosticta tenebrosa H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium cyclaminis Massey & Tilford SPECIES
-=======
+# Cladosporium cyclaminis Massey & Tilford SPECIES
 
 #### Status
 ACCEPTED

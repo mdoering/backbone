@@ -1,14 +1,13 @@
-Oidium schoenleinii Lebert, 1845 SPECIES
-=======
+# Trichophyton schoenleinii (Lebert) Langeron & Miloch. ex Nann., 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Physiol. Pl. Path. 2: 490 (1845)
+Trattato di Micopatologia Umana (Firenze) 4: 198 (1934)
 
 #### Original name
 Oidium schoenleinii Lebert, 1845

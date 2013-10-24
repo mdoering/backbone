@@ -1,17 +1,16 @@
-Verrucaria maura f. maura FORM
-=======
+# Hydropunctaria maura (Wahlenb.) Keller, Gueidan & Thüs SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Acharius, Method. Lich. 19 (1803)
+null
 
 #### Original name
-Verrucaria maura f. maura
+null
 
 ### Remarks
 null

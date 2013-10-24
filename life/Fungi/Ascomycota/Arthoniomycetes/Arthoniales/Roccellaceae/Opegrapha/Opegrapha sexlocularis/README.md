@@ -1,5 +1,4 @@
-Opegrapha sexlocularis Vain. SPECIES
-=======
+# Opegrapha sexlocularis Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Krieglsteinera lasiosphaeriae Pouzar, 1987 SPECIES
-=======
+# Krieglsteinera lasiosphaeriae Pouzar, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aplosporella hibisci (Berk.) Petr. & Syd. SPECIES
-=======
+# Aplosporella hibisci (Berk.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

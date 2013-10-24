@@ -1,5 +1,4 @@
-Micropeltella paetensis Syd. & P. Syd. SPECIES
-=======
+# Micropeltella paetensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

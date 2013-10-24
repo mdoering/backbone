@@ -1,5 +1,4 @@
-Conocybe microsperma Singer SPECIES
-=======
+# Conocybe microsperma Singer SPECIES
 
 #### Status
 ACCEPTED

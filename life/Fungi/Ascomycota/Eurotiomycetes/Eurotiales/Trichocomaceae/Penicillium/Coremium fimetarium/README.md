@@ -1,5 +1,4 @@
-Coremium fimetarium Schwein. SPECIES
-=======
+# Coremium fimetarium Schwein. SPECIES
 
 #### Status
 ACCEPTED

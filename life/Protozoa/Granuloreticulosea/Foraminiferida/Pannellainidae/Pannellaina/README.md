@@ -1,17 +1,16 @@
-Fastigiella Seiglie & Bermúdez, 1965 GENUS
-=======
+# Pannellaina Seiglie & Bermudez, 1976 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Geos 12: 51.
+J. Paleont. 50: 291.
 
 #### Original name
-null
+Fastigiella Seiglie & Bermúdez, 1965
 
 ### Remarks
 null

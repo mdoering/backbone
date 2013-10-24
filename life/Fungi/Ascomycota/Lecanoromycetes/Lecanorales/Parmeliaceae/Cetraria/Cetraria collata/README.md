@@ -1,5 +1,4 @@
-Cetraria collata f. collata FORM
-=======
+# Cetraria collata (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cetraria collata f. collata
+Platysma collatum Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cortinarius bistreoides Kauffman SPECIES
-=======
+# Cortinarius bistreoides Kauffman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis manilkarae R.K. Rajak & A.A.K. Chatterjee, 1984 SPECIES
-=======
+# Phomopsis manilkarae R.K. Rajak & A.A.K. Chatterjee, 1984 SPECIES
 
 #### Status
 ACCEPTED

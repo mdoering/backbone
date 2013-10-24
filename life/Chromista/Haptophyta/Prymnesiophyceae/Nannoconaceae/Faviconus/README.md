@@ -1,5 +1,4 @@
-Faviconus Bralower in Bralower, Monechi & Thierstein, 1989 GENUS
-=======
+# Faviconus Bralower in Bralower, Monechi & Thierstein, 1989 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platyophrya hyalina Foissner, 1980 SPECIES
-=======
+# Platyophrya hyalina Foissner, 1980 SPECIES
 
 #### Status
 ACCEPTED

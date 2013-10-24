@@ -1,5 +1,4 @@
-Xylaria concursa Lloyd SPECIES
-=======
+# Xylaria concursa Lloyd SPECIES
 
 #### Status
 ACCEPTED

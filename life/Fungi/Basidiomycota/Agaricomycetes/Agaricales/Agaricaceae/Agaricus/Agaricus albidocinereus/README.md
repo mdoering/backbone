@@ -1,5 +1,4 @@
-Agaricus albidocinereus Britzelm. SPECIES
-=======
+# Agaricus albidocinereus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

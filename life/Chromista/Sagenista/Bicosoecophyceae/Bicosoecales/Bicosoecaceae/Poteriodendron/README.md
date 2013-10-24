@@ -1,5 +1,4 @@
-Poteriodendron F.Stein, 1878 GENUS
-=======
+# Poteriodendron F.Stein, 1878 GENUS
 
 #### Status
 ACCEPTED

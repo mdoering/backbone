@@ -1,5 +1,4 @@
-Diaporthe araliae Ellis & Everh. SPECIES
-=======
+# Diaporthe araliae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

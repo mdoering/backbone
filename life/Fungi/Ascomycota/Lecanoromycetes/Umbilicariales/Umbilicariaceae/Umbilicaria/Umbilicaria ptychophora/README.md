@@ -1,5 +1,4 @@
-Umbilicaria ptychophora Nyl. SPECIES
-=======
+# Umbilicaria ptychophora Nyl. SPECIES
 
 #### Status
 ACCEPTED

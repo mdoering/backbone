@@ -1,5 +1,4 @@
-Clypeus oblectabilis Britzelm. SPECIES
-=======
+# Clypeus oblectabilis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

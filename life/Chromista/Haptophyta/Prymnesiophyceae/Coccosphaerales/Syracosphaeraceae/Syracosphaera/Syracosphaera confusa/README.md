@@ -1,5 +1,4 @@
-Syracosphaera confusa P. Halldal & J. Markali SPECIES
-=======
+# Syracosphaera confusa P. Halldal & J. Markali SPECIES
 
 #### Status
 ACCEPTED

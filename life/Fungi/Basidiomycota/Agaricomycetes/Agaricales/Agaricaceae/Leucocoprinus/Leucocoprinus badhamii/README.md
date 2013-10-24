@@ -1,17 +1,16 @@
-Leucocoprinus badhamii var. badhamii (Berk. & Broome) M.M. Moser VARIETY
-=======
+# Leucocoprinus badhamii (Berk. & Broome) Locq., 1943 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. mens. Soc. linn. Lyon 12: 15 (1943)
 
 #### Original name
-Leucocoprinus badhamii var. badhamii (Berk. & Broome) M.M. Moser
+Agaricus badhamii Berk. & Broome, 1851
 
 ### Remarks
 null

@@ -1,8 +1,7 @@
-Chromatium purpuratum Imhoff & Trüper, 1980 SPECIES
-=======
+# Marichromatium purpuratum (Imhoff & Trüper, 1980) Imhoff et al., 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

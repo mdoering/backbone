@@ -1,5 +1,4 @@
-Dioszegia statzelliae (Thomas-Hall, Watson & Scorzetti) Á. Fonseca SPECIES
-=======
+# Dioszegia statzelliae (Thomas-Hall, Watson & Scorzetti) Á. Fonseca SPECIES
 
 #### Status
 ACCEPTED

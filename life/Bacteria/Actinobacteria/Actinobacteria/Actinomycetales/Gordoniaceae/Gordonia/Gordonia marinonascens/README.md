@@ -1,5 +1,4 @@
-Gordonia marinonascens Helmke & Weyland, 1984 SPECIES
-=======
+# Gordonia marinonascens Helmke & Weyland, 1984 SPECIES
 
 #### Status
 ACCEPTED

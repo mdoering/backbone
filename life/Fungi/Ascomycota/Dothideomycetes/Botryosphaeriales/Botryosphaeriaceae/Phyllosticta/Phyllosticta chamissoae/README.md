@@ -1,5 +1,4 @@
-Phyllosticta chamissoae Speg. SPECIES
-=======
+# Phyllosticta chamissoae Speg. SPECIES
 
 #### Status
 ACCEPTED

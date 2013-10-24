@@ -1,5 +1,4 @@
-Reophax mariae Acosta, 1940 SPECIES
-=======
+# Reophax mariae Acosta, 1940 SPECIES
 
 #### Status
 ACCEPTED

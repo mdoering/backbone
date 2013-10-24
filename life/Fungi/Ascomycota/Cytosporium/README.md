@@ -1,5 +1,4 @@
-Cytosporium GENUS
-=======
+# Cytosporium GENUS
 
 #### Status
 ACCEPTED

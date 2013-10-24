@@ -1,5 +1,4 @@
-Stomiopeltis myrciae Bat. SPECIES
-=======
+# Stomiopeltis myrciae Bat. SPECIES
 
 #### Status
 ACCEPTED

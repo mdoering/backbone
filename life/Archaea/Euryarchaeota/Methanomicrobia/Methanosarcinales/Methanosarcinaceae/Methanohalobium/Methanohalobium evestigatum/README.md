@@ -1,5 +1,4 @@
-Methanohalobium evestigatum Zhilina & Zavarzin, 1988 SPECIES
-=======
+# Methanohalobium evestigatum Zhilina & Zavarzin, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypochnus flavoaurantius Traverso SPECIES
-=======
+# Hypochnus flavoaurantius Traverso SPECIES
 
 #### Status
 ACCEPTED

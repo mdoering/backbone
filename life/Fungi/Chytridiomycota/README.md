@@ -1,5 +1,4 @@
-Chytridiomycota Arx PHYLUM
-=======
+# Chytridiomycota Arx PHYLUM
 
 #### Status
 ACCEPTED

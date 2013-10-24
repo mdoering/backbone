@@ -1,5 +1,4 @@
-Phyllachora lamprothea Petr., 1929 SPECIES
-=======
+# Phyllachora lamprothea Petr., 1929 SPECIES
 
 #### Status
 DOUBTFUL

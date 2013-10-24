@@ -1,5 +1,4 @@
-Apiosoma poteriformis SPECIES
-=======
+# Apiosoma poteriformis SPECIES
 
 #### Status
 ACCEPTED

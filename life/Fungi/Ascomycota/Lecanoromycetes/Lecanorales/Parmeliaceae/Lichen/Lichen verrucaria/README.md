@@ -1,5 +1,4 @@
-Lichen verrucaria Lam. SPECIES
-=======
+# Lichen verrucaria Lam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Polystictus hasskarlii (Lév.) Cooke SPECIES
-=======
+# Polystictus haskarlii (Lév.) Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

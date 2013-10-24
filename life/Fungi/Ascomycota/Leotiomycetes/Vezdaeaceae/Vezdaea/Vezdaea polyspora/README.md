@@ -1,5 +1,4 @@
-Vezdaea polyspora Kalb & Vezda SPECIES
-=======
+# Vezdaea polyspora Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia atractospora Zahlbr. SPECIES
-=======
+# Arthonia atractospora Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

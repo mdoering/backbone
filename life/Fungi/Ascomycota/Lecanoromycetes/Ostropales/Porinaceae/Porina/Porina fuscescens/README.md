@@ -1,5 +1,4 @@
-Porina fuscescens Harm. SPECIES
-=======
+# Porina fuscescens Harm. SPECIES
 
 #### Status
 ACCEPTED

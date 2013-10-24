@@ -1,5 +1,4 @@
-Excipula petiolicola Fuckel SPECIES
-=======
+# Excipula petiolicola Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena flos-alba Pat. SPECIES
-=======
+# Mycena flos-alba Pat. SPECIES
 
 #### Status
 ACCEPTED

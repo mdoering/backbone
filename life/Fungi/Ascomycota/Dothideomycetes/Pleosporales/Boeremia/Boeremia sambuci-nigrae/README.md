@@ -1,5 +1,4 @@
-Boeremia sambuci-nigrae (Sacc.) Aveskamp, Gruyter & Verkley, 2010 SPECIES
-=======
+# Boeremia sambuci-nigrae (Sacc.) Aveskamp, Gruyter & Verkley, 2010 SPECIES
 
 #### Status
 ACCEPTED

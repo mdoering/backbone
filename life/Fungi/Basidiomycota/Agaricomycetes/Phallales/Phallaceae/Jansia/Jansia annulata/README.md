@@ -1,5 +1,4 @@
-Jansia annulata Lloyd SPECIES
-=======
+# Jansia annulata Lloyd SPECIES
 
 #### Status
 ACCEPTED

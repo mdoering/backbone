@@ -1,5 +1,4 @@
-Elachista lubrica SPECIES
-=======
+# Elachista lubrica SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protostelium nocturnum Spiegel, 1984 SPECIES
-=======
+# Protostelium nocturnum Spiegel, 1984 SPECIES
 
 #### Status
 ACCEPTED

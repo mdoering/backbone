@@ -1,8 +1,7 @@
-Hygrophorus goetzii Hesler & A.H. Sm. SPECIES
-=======
+# Hygrophorus goetzei Hesler & A.H. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hygrophorus goetzii Hesler & A.H. Sm.
+Hygrophorus goetzei Hesler & A.H. Sm.
 
 ### Remarks
 null

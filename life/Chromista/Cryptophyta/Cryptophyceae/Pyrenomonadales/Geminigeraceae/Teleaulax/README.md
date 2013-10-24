@@ -1,5 +1,4 @@
-Teleaulax Hill, 1991 GENUS
-=======
+# Teleaulax Hill, 1991 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus perstrictifolius Speg. SPECIES
-=======
+# Pleurotus perstrictifolius Speg. SPECIES
 
 #### Status
 ACCEPTED

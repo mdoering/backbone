@@ -1,5 +1,4 @@
-Russula brunneoannulata Buyck SPECIES
-=======
+# Russula brunneoannulata Buyck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora lesleyana (Darb.) Paulson SPECIES
-=======
+# Lecanora lesleyana (Darb.) Paulson SPECIES
 
 #### Status
 ACCEPTED

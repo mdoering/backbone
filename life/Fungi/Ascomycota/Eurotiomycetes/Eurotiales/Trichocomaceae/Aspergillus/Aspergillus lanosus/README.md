@@ -1,5 +1,4 @@
-Aspergillus lanosus Kamal & Bhargava, 1969 SPECIES
-=======
+# Aspergillus lanosus Kamal & Bhargava, 1969 SPECIES
 
 #### Status
 ACCEPTED

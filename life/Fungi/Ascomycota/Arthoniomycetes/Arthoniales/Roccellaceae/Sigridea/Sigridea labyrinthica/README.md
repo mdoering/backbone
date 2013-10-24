@@ -1,5 +1,4 @@
-Sigridea labyrinthica (Follmann) Ertz & Diederich SPECIES
-=======
+# Sigridea labyrinthica (Follmann) Ertz & Diederich SPECIES
 
 #### Status
 ACCEPTED

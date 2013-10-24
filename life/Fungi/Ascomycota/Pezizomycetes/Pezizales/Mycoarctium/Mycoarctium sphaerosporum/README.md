@@ -1,5 +1,4 @@
-Mycoarctium sphaerosporum A.E. Bell & Mahoney, 2005 SPECIES
-=======
+# Mycoarctium sphaerosporum A.E. Bell & Mahoney, 2005 SPECIES
 
 #### Status
 ACCEPTED

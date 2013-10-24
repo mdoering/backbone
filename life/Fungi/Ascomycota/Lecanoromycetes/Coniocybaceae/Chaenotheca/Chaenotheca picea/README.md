@@ -1,5 +1,4 @@
-Chaenotheca picea (Chevall.) Zahlbr. SPECIES
-=======
+# Chaenotheca picea (Chevall.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptococcus lacrymeatus Jeaume SPECIES
-=======
+# Cryptococcus lacrymeatus Jeaume SPECIES
 
 #### Status
 ACCEPTED

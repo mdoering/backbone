@@ -1,5 +1,4 @@
-Exallosorus olsenii (H. B. S. Womersley) J. A. Phillips SPECIES
-=======
+# Exallosorus olsenii (H. B. S. Womersley) J. A. Phillips SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Crinipellis nigricaulis var. nigricaulis VARIETY
-=======
+# Crinipellis nigricaulis Har. Takah. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Mycoscience 41(2): 178 (2000)
 
 #### Original name
-null
+Crinipellis nigricaulis Har. Takah.
 
 ### Remarks
 null

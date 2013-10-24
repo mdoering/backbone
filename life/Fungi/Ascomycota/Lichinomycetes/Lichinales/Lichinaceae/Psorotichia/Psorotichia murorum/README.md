@@ -1,14 +1,13 @@
-Collemopsis murorum (A. Massal.) Stizenb. SPECIES
-=======
+# Psorotichia murorum A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Framm. Lichenogr. 15 (1855)
 
 #### Original name
 Psorotichia murorum A. Massal.

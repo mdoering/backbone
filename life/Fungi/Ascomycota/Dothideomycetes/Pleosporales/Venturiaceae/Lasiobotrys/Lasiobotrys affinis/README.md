@@ -1,5 +1,4 @@
-Lasiobotrys affinis Harkn. SPECIES
-=======
+# Lasiobotrys affinis Harkn. SPECIES
 
 #### Status
 ACCEPTED

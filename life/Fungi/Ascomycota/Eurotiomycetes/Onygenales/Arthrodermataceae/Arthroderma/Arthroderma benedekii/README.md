@@ -1,5 +1,4 @@
-Arthroderma benedekii Balogh, Lipt. & Nagy-Peti SPECIES
-=======
+# Arthroderma benedekii Balogh, Lipt. & Nagy-Peti SPECIES
 
 #### Status
 ACCEPTED

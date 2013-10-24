@@ -1,5 +1,4 @@
-Cortinarius subalbidus (A.H. Sm.) Peintner & M.M. Moser SPECIES
-=======
+# Cortinarius subalbidus (A.H. Sm.) Peintner & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

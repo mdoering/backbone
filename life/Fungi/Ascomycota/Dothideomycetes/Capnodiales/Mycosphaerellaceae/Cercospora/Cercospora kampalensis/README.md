@@ -1,5 +1,4 @@
-Cercospora kampalensis Hansf. SPECIES
-=======
+# Cercospora kampalensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

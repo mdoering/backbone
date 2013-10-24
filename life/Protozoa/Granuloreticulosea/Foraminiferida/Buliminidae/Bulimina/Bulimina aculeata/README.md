@@ -1,5 +1,4 @@
-Bulimina aculeata D'Orbigny SPECIES
-=======
+# Bulimina aculeata D'Orbigny SPECIES
 
 #### Status
 ACCEPTED

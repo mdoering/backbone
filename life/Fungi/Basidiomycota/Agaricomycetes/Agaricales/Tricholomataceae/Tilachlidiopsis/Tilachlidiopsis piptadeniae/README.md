@@ -1,5 +1,4 @@
-Tilachlidiopsis piptadeniae Bat. & H. Maia, 1955 SPECIES
-=======
+# Tilachlidiopsis piptadeniae Bat. & H. Maia, 1955 SPECIES
 
 #### Status
 ACCEPTED

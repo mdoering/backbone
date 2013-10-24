@@ -1,5 +1,4 @@
-Teichospora fendlerae (Earle) Sacc. & D. Sacc. SPECIES
-=======
+# Teichospora fendlerae (Earle) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

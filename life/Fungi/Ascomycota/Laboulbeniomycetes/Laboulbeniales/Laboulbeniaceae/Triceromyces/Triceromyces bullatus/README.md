@@ -1,5 +1,4 @@
-Triceromyces bullatus R.K. Benj. SPECIES
-=======
+# Triceromyces bullatus R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stephanopyxis biseriata N. I. Strelnikova SPECIES
-=======
+# Stephanopyxis biseriata N. I. Strelnikova SPECIES
 
 #### Status
 ACCEPTED

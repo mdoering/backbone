@@ -1,5 +1,4 @@
-Aposphaeria calligoni Kravtzev SPECIES
-=======
+# Aposphaeria calligoni Kravtzev SPECIES
 
 #### Status
 ACCEPTED

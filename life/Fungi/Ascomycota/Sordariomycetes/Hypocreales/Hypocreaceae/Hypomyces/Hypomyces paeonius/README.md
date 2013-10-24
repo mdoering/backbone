@@ -1,5 +1,4 @@
-Hypomyces paeonius Berk. & Broome SPECIES
-=======
+# Hypomyces paeonius Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nowakowskiella elongata Karling SPECIES
-=======
+# Nowakowskiella elongata Karling SPECIES
 
 #### Status
 ACCEPTED

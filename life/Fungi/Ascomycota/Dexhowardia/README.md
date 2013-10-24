@@ -1,5 +1,4 @@
-Dexhowardia J.J. Taylor, 1970 GENUS
-=======
+# Dexhowardia J.J. Taylor, 1970 GENUS
 
 #### Status
 ACCEPTED

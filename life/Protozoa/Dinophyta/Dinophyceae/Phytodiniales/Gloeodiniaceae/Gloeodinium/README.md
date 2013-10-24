@@ -1,5 +1,4 @@
-Gloeodinium Klebs, 1912 GENUS
-=======
+# Gloeodinium Klebs, 1912 GENUS
 
 #### Status
 ACCEPTED

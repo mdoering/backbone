@@ -1,5 +1,4 @@
-Symphyosirinia E.A. Ellis, 1956 GENUS
-=======
+# Symphyosirinia E.A. Ellis, 1956 GENUS
 
 #### Status
 ACCEPTED

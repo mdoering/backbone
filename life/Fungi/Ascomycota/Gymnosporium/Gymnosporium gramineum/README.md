@@ -1,5 +1,4 @@
-Gymnosporium gramineum Ellis & Everh. SPECIES
-=======
+# Gymnosporium gramineum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

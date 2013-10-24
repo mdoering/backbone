@@ -1,5 +1,4 @@
-Triophthalmidium auratopruinosa (Sambo) C.W. Dodge SPECIES
-=======
+# Triophthalmidium auratopruinosa (Sambo) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

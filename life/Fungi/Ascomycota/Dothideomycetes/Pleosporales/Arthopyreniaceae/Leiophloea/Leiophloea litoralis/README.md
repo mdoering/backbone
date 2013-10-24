@@ -1,5 +1,4 @@
-Leiophloea litoralis (Leight.) Trevis. SPECIES
-=======
+# Leiophloea litoralis (Leight.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

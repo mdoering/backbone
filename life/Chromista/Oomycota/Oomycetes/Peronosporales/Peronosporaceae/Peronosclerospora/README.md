@@ -1,5 +1,4 @@
-Peronosclerospora (S. Ito) Hara, 1927 GENUS
-=======
+# Peronosclerospora (S. Ito) Hara, 1927 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crystallospora Labbé, 1896 GENUS
-=======
+# Crystallospora Labbé, 1896 GENUS
 
 #### Status
 ACCEPTED

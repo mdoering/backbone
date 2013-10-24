@@ -1,5 +1,4 @@
-Russula arnouldii Maire ex Barbier SPECIES
-=======
+# Russula arnouldii Maire ex Barbier SPECIES
 
 #### Status
 ACCEPTED

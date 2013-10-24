@@ -1,5 +1,4 @@
-Orphniospora groenlandica Körb. SPECIES
-=======
+# Orphniospora groenlandica Körb. SPECIES
 
 #### Status
 ACCEPTED

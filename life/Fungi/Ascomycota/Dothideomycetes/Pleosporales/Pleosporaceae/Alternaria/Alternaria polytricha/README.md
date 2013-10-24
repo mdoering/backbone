@@ -1,5 +1,4 @@
-Alternaria polytricha (Cooke) E.G. Simmons SPECIES
-=======
+# Alternaria polytricha (Cooke) E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

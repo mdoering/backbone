@@ -1,14 +1,13 @@
-Dimerella zonata (Müll. Arg.) R. Sant. SPECIES
-=======
+# Coenogonium zonatum (Müll. Arg.) Kalb & Lücking SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symb. bot. upsal. 12(no. 1): 399 (1952)
+in Lücking & Kalb, Bot. Jb. 122(1): 34 (2000)
 
 #### Original name
 Biatorinopsis zonata Müll. Arg.

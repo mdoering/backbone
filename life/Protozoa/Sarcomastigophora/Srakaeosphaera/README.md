@@ -1,5 +1,4 @@
-Srakaeosphaera Sashida in Sashida, Adachi, Igo, Nakornsri & Ampornmaha, 1997 GENUS
-=======
+# Srakaeosphaera Sashida in Sashida, Adachi, Igo, Nakornsri & Ampornmaha, 1997 GENUS
 
 #### Status
 ACCEPTED

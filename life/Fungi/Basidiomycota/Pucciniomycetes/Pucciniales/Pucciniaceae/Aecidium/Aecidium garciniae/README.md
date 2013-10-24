@@ -1,5 +1,4 @@
-Aecidium garciniae Sundaram & Venkat Rao {?} SPECIES
-=======
+# Aecidium garciniae Sundaram & Venkat Rao {?} SPECIES
 
 #### Status
 ACCEPTED

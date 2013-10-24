@@ -1,5 +1,4 @@
-Allodus lindrothii (Syd.) Orton SPECIES
-=======
+# Allodus lindrothii (Syd.) Orton SPECIES
 
 #### Status
 ACCEPTED

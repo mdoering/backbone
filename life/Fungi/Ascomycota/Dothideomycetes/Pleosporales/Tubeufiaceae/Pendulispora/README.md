@@ -1,5 +1,4 @@
-Pendulispora M.B. Ellis GENUS
-=======
+# Pendulispora M.B. Ellis GENUS
 
 #### Status
 ACCEPTED

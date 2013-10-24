@@ -1,5 +1,4 @@
-Phomopsis oxyspora Petr. SPECIES
-=======
+# Phomopsis oxyspora Petr. SPECIES
 
 #### Status
 ACCEPTED

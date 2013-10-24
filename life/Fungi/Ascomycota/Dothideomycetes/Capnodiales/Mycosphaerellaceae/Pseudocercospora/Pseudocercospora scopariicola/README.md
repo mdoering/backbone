@@ -1,5 +1,4 @@
-Pseudocercospora scopariicola (J.M. Yen) Deighton SPECIES
-=======
+# Pseudocercospora scopariicola (J.M. Yen) Deighton SPECIES
 
 #### Status
 ACCEPTED

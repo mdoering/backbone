@@ -1,5 +1,4 @@
-Varmasporites Kalgutkar & Janson. GENUS
-=======
+# Varmasporites Kalgutkar & Janson. GENUS
 
 #### Status
 ACCEPTED

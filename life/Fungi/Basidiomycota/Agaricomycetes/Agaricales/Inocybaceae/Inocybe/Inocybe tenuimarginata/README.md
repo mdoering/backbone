@@ -1,5 +1,4 @@
-Inocybe tenuimarginata (Britzelm.) Sacc. SPECIES
-=======
+# Inocybe tenuimarginata (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

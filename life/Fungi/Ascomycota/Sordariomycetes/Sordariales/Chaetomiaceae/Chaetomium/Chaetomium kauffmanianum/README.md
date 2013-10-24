@@ -1,5 +1,4 @@
-Chaetomium kauffmanianum Povah SPECIES
-=======
+# Chaetomium kauffmanianum Povah SPECIES
 
 #### Status
 ACCEPTED

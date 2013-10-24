@@ -1,5 +1,4 @@
-Pseudocercospora psophocarpi (J.M. Yen) Deighton SPECIES
-=======
+# Pseudocercospora psophocarpi (J.M. Yen) Deighton SPECIES
 
 #### Status
 ACCEPTED

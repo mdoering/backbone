@@ -1,17 +1,16 @@
-Scolecopeltidium colorata Bat. & I.H. Lima SPECIES
-=======
+# Scolecopeltidium coloratum Bat. & I.H. Lima SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Publções Inst. Micol. Recife 56: 183 (1959)
 
 #### Original name
-Scolecopeltidium colorata Bat. & I.H. Lima
+Scolecopeltidium coloratum Bat. & I.H. Lima
 
 ### Remarks
 null

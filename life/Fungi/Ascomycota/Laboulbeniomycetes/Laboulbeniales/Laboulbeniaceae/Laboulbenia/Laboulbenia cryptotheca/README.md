@@ -1,5 +1,4 @@
-Laboulbenia cryptotheca Speg. SPECIES
-=======
+# Laboulbenia cryptotheca Speg. SPECIES
 
 #### Status
 ACCEPTED

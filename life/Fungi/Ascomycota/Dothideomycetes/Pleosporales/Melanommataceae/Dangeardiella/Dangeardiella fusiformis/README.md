@@ -1,5 +1,4 @@
-Dangeardiella fusiformis W. Obrist, 1959 SPECIES
-=======
+# Dangeardiella fusiformis W. Obrist, 1959 SPECIES
 
 #### Status
 ACCEPTED

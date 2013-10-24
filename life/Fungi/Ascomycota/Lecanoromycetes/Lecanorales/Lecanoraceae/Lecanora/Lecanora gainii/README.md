@@ -1,5 +1,4 @@
-Lecanora gainii Hue SPECIES
-=======
+# Lecanora gainii Hue SPECIES
 
 #### Status
 ACCEPTED

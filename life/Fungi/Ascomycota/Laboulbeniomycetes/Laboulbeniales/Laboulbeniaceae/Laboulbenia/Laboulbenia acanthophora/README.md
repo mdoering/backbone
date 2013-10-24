@@ -1,5 +1,4 @@
-Laboulbenia acanthophora Thaxt. SPECIES
-=======
+# Laboulbenia acanthophora Thaxt. SPECIES
 
 #### Status
 ACCEPTED

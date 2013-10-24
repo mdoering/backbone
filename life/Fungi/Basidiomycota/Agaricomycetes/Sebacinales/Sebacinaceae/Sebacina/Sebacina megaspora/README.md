@@ -1,5 +1,4 @@
-Sebacina megaspora G.W. Martin ex G.W. Martin SPECIES
-=======
+# Sebacina megaspora G.W. Martin ex G.W. Martin SPECIES
 
 #### Status
 ACCEPTED

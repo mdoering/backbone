@@ -1,5 +1,4 @@
-Sphaerella alnea (Fr.) SPECIES
-=======
+# Sphaerella alnea (Fr.) SPECIES
 
 #### Status
 ACCEPTED

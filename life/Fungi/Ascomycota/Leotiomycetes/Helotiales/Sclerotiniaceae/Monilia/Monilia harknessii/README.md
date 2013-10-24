@@ -1,8 +1,7 @@
-Monilia harknessi Berk. & Broome SPECIES
-=======
+# Monilia harknessii Berk. & Broome SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Monilia harknessi Berk. & Broome
+Monilia harknessii Berk. & Broome
 
 ### Remarks
 null

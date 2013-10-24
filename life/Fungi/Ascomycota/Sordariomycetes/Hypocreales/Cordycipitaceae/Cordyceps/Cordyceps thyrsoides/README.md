@@ -1,5 +1,4 @@
-Cordyceps thyrsoides Möller SPECIES
-=======
+# Cordyceps thyrsoides Möller SPECIES
 
 #### Status
 ACCEPTED

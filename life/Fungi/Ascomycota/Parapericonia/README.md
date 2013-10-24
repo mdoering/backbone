@@ -1,5 +1,4 @@
-Parapericonia M.B. Ellis GENUS
-=======
+# Parapericonia M.B. Ellis GENUS
 
 #### Status
 ACCEPTED

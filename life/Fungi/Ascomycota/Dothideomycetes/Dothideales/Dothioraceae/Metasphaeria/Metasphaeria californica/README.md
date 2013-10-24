@@ -1,5 +1,4 @@
-Metasphaeria californica (Cooke & Harkn.) Berl. SPECIES
-=======
+# Metasphaeria californica (Cooke & Harkn.) Berl. SPECIES
 
 #### Status
 ACCEPTED

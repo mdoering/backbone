@@ -1,5 +1,4 @@
-Flammula viridans Murrill SPECIES
-=======
+# Flammula viridans Murrill SPECIES
 
 #### Status
 ACCEPTED

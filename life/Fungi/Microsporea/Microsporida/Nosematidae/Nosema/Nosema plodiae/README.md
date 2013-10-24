@@ -1,5 +1,4 @@
-Nosema plodiae SPECIES
-=======
+# Nosema plodiae SPECIES
 
 #### Status
 ACCEPTED

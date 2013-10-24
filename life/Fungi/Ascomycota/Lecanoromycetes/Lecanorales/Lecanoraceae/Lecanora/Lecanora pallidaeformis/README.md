@@ -1,5 +1,4 @@
-Lecanora pallidaeformis (Anzi) Bagl. SPECIES
-=======
+# Lecanora pallidaeformis (Anzi) Bagl. SPECIES
 
 #### Status
 ACCEPTED

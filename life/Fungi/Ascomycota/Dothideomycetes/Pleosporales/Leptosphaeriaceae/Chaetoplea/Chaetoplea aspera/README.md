@@ -1,5 +1,4 @@
-Chaetoplea aspera (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Chaetoplea aspera (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

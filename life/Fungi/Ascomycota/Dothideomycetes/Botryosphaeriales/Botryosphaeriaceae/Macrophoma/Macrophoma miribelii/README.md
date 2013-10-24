@@ -1,5 +1,4 @@
-Macrophoma miribelii f. miribelii FORM
-=======
+# Macrophoma miribelii SPECIES
 
 #### Status
 ACCEPTED

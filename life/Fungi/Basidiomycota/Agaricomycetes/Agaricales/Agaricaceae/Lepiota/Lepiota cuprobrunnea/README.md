@@ -1,5 +1,4 @@
-Lepiota cuprobrunnea Raithelh. SPECIES
-=======
+# Lepiota cuprobrunnea Raithelh. SPECIES
 
 #### Status
 ACCEPTED

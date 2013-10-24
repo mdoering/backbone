@@ -1,5 +1,4 @@
-Macowaniella myrsinicola Doidge, 1924 SPECIES
-=======
+# Macowaniella myrsinicola Doidge, 1924 SPECIES
 
 #### Status
 ACCEPTED

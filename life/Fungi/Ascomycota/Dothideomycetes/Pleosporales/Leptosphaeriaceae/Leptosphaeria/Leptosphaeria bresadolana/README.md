@@ -1,17 +1,16 @@
-Leptosphaeria bresadoleana Jaap SPECIES
-=======
+# Leptosphaeria bresadolana Jaap SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 14(1/2): 14 (1916)
 
 #### Original name
-Leptosphaeria bresadoleana Jaap
+Leptosphaeria bresadolana Jaap
 
 ### Remarks
 null

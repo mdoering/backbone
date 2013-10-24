@@ -1,5 +1,4 @@
-Micropeziza graminis anon. SPECIES
-=======
+# Micropeziza graminis anon. SPECIES
 
 #### Status
 ACCEPTED

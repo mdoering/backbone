@@ -1,5 +1,4 @@
-Periaster strongylodontis Theiss. & Syd., 1917 SPECIES
-=======
+# Periaster strongylodontis Theiss. & Syd., 1917 SPECIES
 
 #### Status
 ACCEPTED

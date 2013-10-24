@@ -1,5 +1,4 @@
-Baradlaia speluncaecola P. Palik SPECIES
-=======
+# Baradlaia speluncaecola P. Palik SPECIES
 
 #### Status
 ACCEPTED

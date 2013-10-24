@@ -1,5 +1,4 @@
-Proteonina amblystoma Rhumbler, 1911 SPECIES
-=======
+# Proteonina amblystoma Rhumbler, 1911 SPECIES
 
 #### Status
 DOUBTFUL

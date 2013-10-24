@@ -1,5 +1,4 @@
-Diaporthe thujana Petr. SPECIES
-=======
+# Diaporthe thujana Petr. SPECIES
 
 #### Status
 ACCEPTED

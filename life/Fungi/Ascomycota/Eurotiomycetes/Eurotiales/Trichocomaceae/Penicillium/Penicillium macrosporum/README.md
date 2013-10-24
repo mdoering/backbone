@@ -1,5 +1,4 @@
-Penicillium macrosporum Berk. & Broome SPECIES
-=======
+# Penicillium macrosporum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

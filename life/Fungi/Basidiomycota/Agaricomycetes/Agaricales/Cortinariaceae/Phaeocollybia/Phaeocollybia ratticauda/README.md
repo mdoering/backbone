@@ -1,17 +1,16 @@
-Phaeocollybia ratticauda var. ratticauda VARIETY
-=======
+# Phaeocollybia ratticauda E. Horak, 1973 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beih. Nova Hedwigia 43: 184 (1973)
 
 #### Original name
-Phaeocollybia ratticauda var. ratticauda
+Phaeocollybia ratticauda E. Horak, 1973
 
 ### Remarks
 null

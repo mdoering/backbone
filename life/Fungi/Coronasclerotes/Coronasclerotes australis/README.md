@@ -1,5 +1,4 @@
-Coronasclerotes australis Stach & Pickh. SPECIES
-=======
+# Coronasclerotes australis Stach & Pickh. SPECIES
 
 #### Status
 ACCEPTED

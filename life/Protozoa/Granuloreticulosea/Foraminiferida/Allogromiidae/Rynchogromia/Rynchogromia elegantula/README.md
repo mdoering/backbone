@@ -1,5 +1,4 @@
-Rynchogromia elegantula Golemansky, 1991 SPECIES
-=======
+# Rynchogromia elegantula Golemansky, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fibrobacter Montgomery, Flesher & Stahl, 1988 GENUS
-=======
+# Fibrobacter Montgomery, Flesher & Stahl, 1988 GENUS
 
 #### Status
 ACCEPTED

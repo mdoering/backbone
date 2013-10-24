@@ -1,5 +1,4 @@
-Botryodontia (Hjortstam & Ryvarden) Hjortstam GENUS
-=======
+# Botryodontia (Hjortstam & Ryvarden) Hjortstam GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphingomonas melonis Buonaurio et al., 2002 SPECIES
-=======
+# Sphingomonas melonis Buonaurio et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

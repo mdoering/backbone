@@ -1,5 +1,4 @@
-Xylobolus hiugensis (Imazeki) Imazeki & Hongo SPECIES
-=======
+# Xylobolus hiugensis (Imazeki) Imazeki & Hongo SPECIES
 
 #### Status
 ACCEPTED

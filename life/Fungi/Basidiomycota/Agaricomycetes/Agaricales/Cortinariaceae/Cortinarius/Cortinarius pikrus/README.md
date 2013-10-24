@@ -1,5 +1,4 @@
-Cortinarius pikrus Garrido SPECIES
-=======
+# Cortinarius pikrus Garrido SPECIES
 
 #### Status
 ACCEPTED

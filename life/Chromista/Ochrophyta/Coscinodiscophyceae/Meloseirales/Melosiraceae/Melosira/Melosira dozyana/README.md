@@ -1,5 +1,4 @@
-Melosira dozyana Kützing SPECIES
-=======
+# Melosira dozyana Kützing SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hemileccinum Sutara, 2008 GENUS
-=======
+# Hemileccinum Sutara, 2008 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chroococcus heanogloios Gardner SPECIES
-=======
+# Chroococcus heanogloios Gardner SPECIES
 
 #### Status
 ACCEPTED

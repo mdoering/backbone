@@ -1,5 +1,4 @@
-Nematodinium partitum Kofoid & Swezy SPECIES
-=======
+# Nematodinium partitum Kofoid & Swezy SPECIES
 
 #### Status
 ACCEPTED

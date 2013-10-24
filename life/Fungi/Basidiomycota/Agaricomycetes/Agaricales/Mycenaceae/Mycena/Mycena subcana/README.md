@@ -1,5 +1,4 @@
-Mycena subcana A.H. Sm. SPECIES
-=======
+# Mycena subcana A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

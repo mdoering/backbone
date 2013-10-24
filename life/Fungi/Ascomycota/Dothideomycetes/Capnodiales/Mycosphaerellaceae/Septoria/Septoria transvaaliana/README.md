@@ -1,5 +1,4 @@
-Septoria transvaaliana Cejp SPECIES
-=======
+# Septoria transvaaliana Cejp SPECIES
 
 #### Status
 ACCEPTED

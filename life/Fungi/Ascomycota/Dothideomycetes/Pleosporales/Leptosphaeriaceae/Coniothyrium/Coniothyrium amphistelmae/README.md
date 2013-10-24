@@ -1,5 +1,4 @@
-Coniothyrium amphistelmae Henn. SPECIES
-=======
+# Coniothyrium amphistelmae Henn. SPECIES
 
 #### Status
 ACCEPTED

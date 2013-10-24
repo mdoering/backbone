@@ -1,5 +1,4 @@
-Diplodia suberina Durieu & Mont. SPECIES
-=======
+# Diplodia suberina Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mostlerispongus Kozur, 1993 GENUS
-=======
+# Mostlerispongus Kozur, 1993 GENUS
 
 #### Status
 ACCEPTED

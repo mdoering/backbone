@@ -1,5 +1,4 @@
-Urceolaria cretacea (Ach.) Balb. SPECIES
-=======
+# Urceolaria cretacea (Ach.) Balb. SPECIES
 
 #### Status
 ACCEPTED

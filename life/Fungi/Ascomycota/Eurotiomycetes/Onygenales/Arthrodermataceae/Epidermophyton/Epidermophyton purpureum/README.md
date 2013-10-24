@@ -1,5 +1,4 @@
-Epidermophyton purpureum (Sabour.) C.W. Dodge SPECIES
-=======
+# Epidermophyton purpureum (Sabour.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

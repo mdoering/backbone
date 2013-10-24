@@ -1,5 +1,4 @@
-Arthropycnis praetermissa Constant., 1992 SPECIES
-=======
+# Arthropycnis praetermissa Constant., 1992 SPECIES
 
 #### Status
 ACCEPTED

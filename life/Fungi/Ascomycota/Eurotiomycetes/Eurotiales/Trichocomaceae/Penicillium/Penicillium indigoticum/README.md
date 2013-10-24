@@ -1,5 +1,4 @@
-Penicillium indigoticum Takada & Udagawa SPECIES
-=======
+# Penicillium indigoticum Takada & Udagawa SPECIES
 
 #### Status
 ACCEPTED

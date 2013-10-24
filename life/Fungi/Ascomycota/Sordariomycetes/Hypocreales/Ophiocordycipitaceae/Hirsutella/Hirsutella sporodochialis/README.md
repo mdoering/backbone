@@ -1,5 +1,4 @@
-Hirsutella sporodochialis H.C. Evans & Samson SPECIES
-=======
+# Hirsutella sporodochialis H.C. Evans & Samson SPECIES
 
 #### Status
 ACCEPTED

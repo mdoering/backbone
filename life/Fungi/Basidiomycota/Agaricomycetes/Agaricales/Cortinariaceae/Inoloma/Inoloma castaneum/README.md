@@ -1,5 +1,4 @@
-Inoloma castaneum Velen. SPECIES
-=======
+# Inoloma castaneum Velen. SPECIES
 
 #### Status
 ACCEPTED

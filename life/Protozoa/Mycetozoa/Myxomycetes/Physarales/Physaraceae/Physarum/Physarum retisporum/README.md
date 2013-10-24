@@ -1,8 +1,7 @@
-Physarum durjoylingum Lodhi, 1934 SPECIES
-=======
+# Physarum retisporum G.W. Martin, K.S. Thind & Rehill, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Physarum retisporum G.W. Martin, K.S. Thind & Rehill, 1959
 
 ### Remarks
 null

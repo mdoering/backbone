@@ -1,5 +1,4 @@
-Mycena ptychocephala Maas Geest. & E. Horak SPECIES
-=======
+# Mycena ptychocephala Maas Geest. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

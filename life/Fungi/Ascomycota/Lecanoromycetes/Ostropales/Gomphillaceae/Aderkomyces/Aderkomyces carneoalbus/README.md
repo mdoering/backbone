@@ -1,5 +1,4 @@
-Aderkomyces carneoalbus (Lücking & Kalb) Lücking, Sérus. & Vezda SPECIES
-=======
+# Aderkomyces carneoalbus (Lücking & Kalb) Lücking, Sérus. & Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus loyo Phillippi {?} SPECIES
-=======
+# Boletus loyo Phillippi {?} SPECIES
 
 #### Status
 ACCEPTED

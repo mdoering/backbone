@@ -1,5 +1,4 @@
-Tyromyces polyporoides Ryvarden & Iturr. SPECIES
-=======
+# Tyromyces polyporoides Ryvarden & Iturr. SPECIES
 
 #### Status
 ACCEPTED

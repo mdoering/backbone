@@ -1,5 +1,4 @@
-Stigmatidium pitardii B. de Lesd. SPECIES
-=======
+# Stigmatidium pitardii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protosphaeridium paleaceum Timofeev, 1966 SPECIES
-=======
+# Protosphaeridium paleaceum Timofeev, 1966 SPECIES
 
 #### Status
 ACCEPTED

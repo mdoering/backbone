@@ -1,5 +1,4 @@
-Hadziella Kuscer, 1932 GENUS
-=======
+# Hadziella Kuscer, 1932 GENUS
 
 #### Status
 ACCEPTED

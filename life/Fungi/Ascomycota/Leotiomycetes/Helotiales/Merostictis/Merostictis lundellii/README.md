@@ -1,5 +1,4 @@
-Merostictis lundellii Svrcek SPECIES
-=======
+# Merostictis lundellii Svrcek SPECIES
 
 #### Status
 ACCEPTED

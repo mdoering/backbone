@@ -1,5 +1,4 @@
-Thelotrema albescens Vain. SPECIES
-=======
+# Thelotrema albescens Vain. SPECIES
 
 #### Status
 ACCEPTED

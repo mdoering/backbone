@@ -1,5 +1,4 @@
-Nodulisporium episphaericum (Schwein.) S. Hughes SPECIES
-=======
+# Nodulisporium episphaericum (Schwein.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

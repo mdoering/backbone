@@ -1,5 +1,4 @@
-Phyllosticta medinillae Rangel SPECIES
-=======
+# Phyllosticta medinillae Rangel SPECIES
 
 #### Status
 ACCEPTED

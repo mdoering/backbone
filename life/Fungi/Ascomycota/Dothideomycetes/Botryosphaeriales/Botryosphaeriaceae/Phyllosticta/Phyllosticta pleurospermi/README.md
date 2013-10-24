@@ -1,5 +1,4 @@
-Phyllosticta pleurospermi Died. SPECIES
-=======
+# Phyllosticta pleurospermi Died. SPECIES
 
 #### Status
 ACCEPTED

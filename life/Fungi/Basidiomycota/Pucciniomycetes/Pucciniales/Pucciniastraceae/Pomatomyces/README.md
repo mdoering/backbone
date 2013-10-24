@@ -1,5 +1,4 @@
-Pomatomyces Oerst. GENUS
-=======
+# Pomatomyces Oerst. GENUS
 
 #### Status
 ACCEPTED

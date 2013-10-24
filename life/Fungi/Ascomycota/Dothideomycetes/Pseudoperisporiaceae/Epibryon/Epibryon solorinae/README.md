@@ -1,14 +1,13 @@
-Laestadia solorinae Vain. SPECIES
-=======
+# Epibryon solorinae (Vain.) Nik. Hoffm. & Hafellner, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 77: 148 (2000)
 
 #### Original name
 Laestadia solorinae Vain.

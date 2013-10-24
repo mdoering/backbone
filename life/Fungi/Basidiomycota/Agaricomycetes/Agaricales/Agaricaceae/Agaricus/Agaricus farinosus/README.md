@@ -1,5 +1,4 @@
-Agaricus farinosus var. farinosus VARIETY
-=======
+# Agaricus farinosus Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Anal. Mus. nac. Hist. nat. B. Aires 6: 143 (1898)
 
 #### Original name
-Agaricus farinosus var. farinosus
+Agaricus farinosus Speg.
 
 ### Remarks
 null

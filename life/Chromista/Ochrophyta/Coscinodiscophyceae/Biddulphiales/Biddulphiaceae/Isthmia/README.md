@@ -1,5 +1,4 @@
-Isthmia C.A. Agardh, 1832 GENUS
-=======
+# Isthmia C.A. Agardh, 1832 GENUS
 
 #### Status
 ACCEPTED

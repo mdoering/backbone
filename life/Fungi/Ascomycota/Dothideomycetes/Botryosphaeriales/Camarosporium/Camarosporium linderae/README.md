@@ -1,5 +1,4 @@
-Camarosporium linderae Ellis & Everh. SPECIES
-=======
+# Camarosporium linderae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

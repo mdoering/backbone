@@ -1,5 +1,4 @@
-Exoascus acericola var. acericola VARIETY
-=======
+# Exoascus acericola C. Massal. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Exoascus acericola var. acericola
+Exoascus acericola C. Massal.
 
 ### Remarks
 null

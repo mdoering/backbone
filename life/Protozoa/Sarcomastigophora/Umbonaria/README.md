@@ -1,5 +1,4 @@
-Umbonaria Haman, 1988 GENUS
-=======
+# Umbonaria Haman, 1988 GENUS
 
 #### Status
 ACCEPTED

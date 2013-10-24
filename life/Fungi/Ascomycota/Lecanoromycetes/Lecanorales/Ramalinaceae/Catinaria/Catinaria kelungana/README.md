@@ -1,5 +1,4 @@
-Catinaria kelungana Zahlbr. SPECIES
-=======
+# Catinaria kelungana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

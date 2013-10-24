@@ -1,5 +1,4 @@
-Lepra farinosa (Hoffm.) Zenker SPECIES
-=======
+# Lepra farinosa (Hoffm.) Zenker SPECIES
 
 #### Status
 ACCEPTED

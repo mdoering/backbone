@@ -1,5 +1,4 @@
-Distospicula Wang Naiwen, 1989 GENUS
-=======
+# Distospicula Wang Naiwen, 1989 GENUS
 
 #### Status
 ACCEPTED

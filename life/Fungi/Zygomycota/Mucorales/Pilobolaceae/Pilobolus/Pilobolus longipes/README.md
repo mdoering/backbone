@@ -1,14 +1,13 @@
-Hydrogera longipes (Tiegh.) Kuntze, 1891 SPECIES
-=======
+# Pilobolus longipes Tiegh., 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 855 (1891)
+Annls Sci. Nat. , Bot. , sér. 6 4(4): 338 (1878)
 
 #### Original name
 Pilobolus longipes Tiegh., 1878

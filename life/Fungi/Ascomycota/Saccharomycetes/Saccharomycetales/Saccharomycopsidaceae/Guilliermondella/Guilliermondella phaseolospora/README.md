@@ -1,5 +1,4 @@
-Guilliermondella phaseolospora (Shehata, Mrak & Phaff) Boidin, Abadie, J.L. Jacob & Pignal SPECIES
-=======
+# Guilliermondella phaseolospora (Shehata, Mrak & Phaff) Boidin, Abadie, J.L. Jacob & Pignal SPECIES
 
 #### Status
 ACCEPTED

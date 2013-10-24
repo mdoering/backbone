@@ -1,5 +1,4 @@
-Opegrapha rotula SPECIES
-=======
+# Opegrapha rotula SPECIES
 
 #### Status
 ACCEPTED

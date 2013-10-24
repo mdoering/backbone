@@ -1,5 +1,4 @@
-Sporisorium sehimae (M.S. Patil) Vánky SPECIES
-=======
+# Sporisorium sehimae (M.S. Patil) Vánky SPECIES
 
 #### Status
 ACCEPTED

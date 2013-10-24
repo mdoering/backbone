@@ -1,5 +1,4 @@
-Puccinia songarica Jacz. SPECIES
-=======
+# Puccinia songarica Jacz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina chiodectonoides (Fée) Fée SPECIES
-=======
+# Porina chiodectonoides (Fée) Fée SPECIES
 
 #### Status
 ACCEPTED

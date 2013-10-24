@@ -1,5 +1,4 @@
-Stigmatidium leucinum Nyl. SPECIES
-=======
+# Stigmatidium leucinum Nyl. SPECIES
 
 #### Status
 ACCEPTED

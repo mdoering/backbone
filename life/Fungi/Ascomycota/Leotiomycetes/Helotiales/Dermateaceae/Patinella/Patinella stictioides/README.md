@@ -1,5 +1,4 @@
-Patinella stictioides (Berk. & Broome) Sacc. SPECIES
-=======
+# Patinella stictioides (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

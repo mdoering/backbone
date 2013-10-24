@@ -1,5 +1,4 @@
-Endogone flammicorona Trappe & Gerd., 1972 SPECIES
-=======
+# Endogone flammicorona Trappe & Gerd., 1972 SPECIES
 
 #### Status
 ACCEPTED

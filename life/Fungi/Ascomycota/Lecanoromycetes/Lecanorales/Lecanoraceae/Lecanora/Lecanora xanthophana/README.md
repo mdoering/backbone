@@ -1,5 +1,4 @@
-Lecanora xanthophana Nyl. SPECIES
-=======
+# Lecanora xanthophana Nyl. SPECIES
 
 #### Status
 ACCEPTED

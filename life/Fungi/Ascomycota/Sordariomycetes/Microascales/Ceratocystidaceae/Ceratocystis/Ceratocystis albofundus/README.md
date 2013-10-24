@@ -1,5 +1,4 @@
-Ceratocystis albofundus M.J. Wingf., De Beer & M.J. Morris SPECIES
-=======
+# Ceratocystis albofundus M.J. Wingf., De Beer & M.J. Morris SPECIES
 
 #### Status
 ACCEPTED

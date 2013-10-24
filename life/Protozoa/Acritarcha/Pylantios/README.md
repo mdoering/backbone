@@ -1,5 +1,4 @@
-Pylantios M. Quintavalle & G. Playford, 2006 GENUS
-=======
+# Pylantios M. Quintavalle & G. Playford, 2006 GENUS
 
 #### Status
 ACCEPTED

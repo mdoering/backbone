@@ -1,5 +1,4 @@
-Malmidea vinosa (Eschw.) Kalb, Rivas Plata & Lumbsch SPECIES
-=======
+# Malmidea vinosa (Eschw.) Kalb, Rivas Plata & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

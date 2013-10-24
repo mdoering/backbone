@@ -1,5 +1,4 @@
-Leiominuscula minuta Naumova, 1961 SPECIES
-=======
+# Leiominuscula minuta Naumova, 1961 SPECIES
 
 #### Status
 ACCEPTED

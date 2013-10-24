@@ -1,5 +1,4 @@
-Xerotus berteroi Mont., 1850 SPECIES
-=======
+# Xerotus berteroi Mont., 1850 SPECIES
 
 #### Status
 ACCEPTED

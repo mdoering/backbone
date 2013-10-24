@@ -1,5 +1,4 @@
-Gymnodinium viridans Van Meel SPECIES
-=======
+# Gymnodinium viridans Van Meel SPECIES
 
 #### Status
 ACCEPTED

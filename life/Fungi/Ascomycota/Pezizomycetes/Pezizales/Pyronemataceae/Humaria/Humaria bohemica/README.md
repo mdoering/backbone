@@ -1,5 +1,4 @@
-Humaria bohemica Klika SPECIES
-=======
+# Humaria bohemica Klika SPECIES
 
 #### Status
 ACCEPTED

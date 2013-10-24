@@ -1,5 +1,4 @@
-Phyllosticta globuli Pass. SPECIES
-=======
+# Phyllosticta globuli Pass. SPECIES
 
 #### Status
 ACCEPTED

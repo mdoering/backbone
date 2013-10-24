@@ -1,5 +1,4 @@
-Marasmius ochraceoniger Henn. SPECIES
-=======
+# Marasmius ochraceoniger Henn. SPECIES
 
 #### Status
 ACCEPTED

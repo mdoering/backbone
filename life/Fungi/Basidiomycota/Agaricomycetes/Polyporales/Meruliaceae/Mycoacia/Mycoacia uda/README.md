@@ -1,17 +1,16 @@
-Acia uda subsp. uda (Fr.) P. Karst. SUBSPECIES
-=======
+# Mycoacia uda (Fr.) Donk, 1931 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Meddn Soc. Fauna Flora fenn. 5: 42 (1879)
+Medded. Nedl. Mycol. Ver. 18-20: 151 (1931)
 
 #### Original name
-Acia uda subsp. uda (Fr.) P. Karst.
+Hydnum udum Fr., 1821
 
 ### Remarks
 null

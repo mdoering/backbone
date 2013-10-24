@@ -1,5 +1,4 @@
-Anabaena fertilissima C.B. Rao SPECIES
-=======
+# Anabaena fertilissima C.B. Rao SPECIES
 
 #### Status
 ACCEPTED

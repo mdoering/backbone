@@ -1,5 +1,4 @@
-Cercospora ligustri Roum. SPECIES
-=======
+# Cercospora ligustri Roum. SPECIES
 
 #### Status
 ACCEPTED

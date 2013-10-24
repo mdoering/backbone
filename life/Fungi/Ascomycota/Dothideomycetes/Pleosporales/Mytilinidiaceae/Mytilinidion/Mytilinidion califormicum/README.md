@@ -1,8 +1,7 @@
-Mytilidion califormicum Ellis & Harkn. SPECIES
-=======
+# Mytilinidion califormicum Ellis & Harkn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mytilidion califormicum Ellis & Harkn.
+Mytilinidion califormicum Ellis & Harkn.
 
 ### Remarks
 null

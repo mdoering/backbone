@@ -1,5 +1,4 @@
-Laboulbenia strictipes Speg. SPECIES
-=======
+# Laboulbenia strictipes Speg. SPECIES
 
 #### Status
 ACCEPTED

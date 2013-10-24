@@ -1,5 +1,4 @@
-Chaetomium concinnatum Preuss SPECIES
-=======
+# Chaetomium concinnatum Preuss SPECIES
 
 #### Status
 ACCEPTED

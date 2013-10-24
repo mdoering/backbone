@@ -1,5 +1,4 @@
-Calonectria pini-caribaeae Tak. Kobay. & E.D. Guzmán SPECIES
-=======
+# Calonectria pini-caribaeae Tak. Kobay. & E.D. Guzmán SPECIES
 
 #### Status
 ACCEPTED

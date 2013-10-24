@@ -1,17 +1,16 @@
-Cyclopleurotus Hasselt GENUS
-=======
+# Pleurotus (E.M. Fries) P. Kummer, 1871 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+IUCN Red List of Threatened Species
 
 #### Published in
 null
 
 #### Original name
-Cyclopleurotus Hasselt
+null
 
 ### Remarks
 null

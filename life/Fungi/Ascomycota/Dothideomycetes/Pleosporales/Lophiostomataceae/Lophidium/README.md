@@ -1,5 +1,4 @@
-Lophidium GENUS
-=======
+# Lophidium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa padina Nitschke SPECIES
-=======
+# Valsa padina Nitschke SPECIES
 
 #### Status
 ACCEPTED

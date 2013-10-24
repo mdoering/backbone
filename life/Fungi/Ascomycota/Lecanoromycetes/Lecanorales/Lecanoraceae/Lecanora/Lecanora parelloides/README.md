@@ -1,5 +1,4 @@
-Lecanora parelloides SPECIES
-=======
+# Lecanora parelloides SPECIES
 
 #### Status
 ACCEPTED

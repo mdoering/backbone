@@ -1,5 +1,4 @@
-Hydnangium thaxteri Zeller & C.W. Dodge SPECIES
-=======
+# Hydnangium thaxteri Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

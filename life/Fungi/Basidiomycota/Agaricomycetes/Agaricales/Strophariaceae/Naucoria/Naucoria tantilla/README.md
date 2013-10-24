@@ -1,14 +1,13 @@
-Alnicola tantilla (J. Favre) Gulden, 1988 SPECIES
-=======
+# Naucoria tantilla J. Favre, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Gulden & Jenssen, Arctic and Alpine Fungi (Oslo) 43 (1988)
+Ergebn. wiss. Unters. schweiz. NatnParks 5(33): (202) 120 (1955)
 
 #### Original name
 Naucoria tantilla J. Favre, 1955

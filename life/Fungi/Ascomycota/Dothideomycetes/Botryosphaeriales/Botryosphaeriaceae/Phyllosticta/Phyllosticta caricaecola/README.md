@@ -1,5 +1,4 @@
-Phyllosticta caricaecola Sawada SPECIES
-=======
+# Phyllosticta caricaecola Sawada SPECIES
 
 #### Status
 ACCEPTED

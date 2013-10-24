@@ -1,5 +1,4 @@
-Pyronema chartarum (Quél.) Sacc. SPECIES
-=======
+# Pyronema chartarum (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

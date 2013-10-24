@@ -1,5 +1,4 @@
-Clitocybe floridana (Murrill) Murrill SPECIES
-=======
+# Clitocybe floridana (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

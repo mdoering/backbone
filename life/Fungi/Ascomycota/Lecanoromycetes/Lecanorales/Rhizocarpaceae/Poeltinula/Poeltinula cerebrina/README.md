@@ -1,17 +1,16 @@
-Poeltinula cerebrina subsp. cerebrina SUBSPECIES
-=======
+# Poeltinula cerebrina (DC.) Hafellner SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Beih. Nova Hedwigia 79: 330 (1984)
 
 #### Original name
-Poeltinula cerebrina subsp. cerebrina
+Opegrapha cerebrina DC.
 
 ### Remarks
 null

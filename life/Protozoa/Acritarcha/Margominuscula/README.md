@@ -1,5 +1,4 @@
-Margominuscula S.N. Naumova ex T.V. Jankauskas, 1989 GENUS
-=======
+# Margominuscula S.N. Naumova ex T.V. Jankauskas, 1989 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus hasseltii (Lév.) Cooke SPECIES
-=======
+# Polystictus hasseltii (Lév.) Cooke SPECIES
 
 #### Status
 ACCEPTED

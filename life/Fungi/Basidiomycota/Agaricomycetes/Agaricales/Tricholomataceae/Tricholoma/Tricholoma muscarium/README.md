@@ -1,5 +1,4 @@
-Tricholoma muscarium A. Kawam. ex Hongo SPECIES
-=======
+# Tricholoma muscarium A. Kawam. ex Hongo SPECIES
 
 #### Status
 ACCEPTED

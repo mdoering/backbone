@@ -1,5 +1,4 @@
-Puccinia ishizuchiensis Hirats. f. SPECIES
-=======
+# Puccinia ishizuchiensis Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

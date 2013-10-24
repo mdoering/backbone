@@ -1,5 +1,4 @@
-Arthonia helvola Nyl. SPECIES
-=======
+# Arthonia helvola Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecythium Zukal, 1893 GENUS
-=======
+# Lecythium Zukal, 1893 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps juruensis Henn. SPECIES
-=======
+# Cordyceps juruensis Henn. SPECIES
 
 #### Status
 ACCEPTED

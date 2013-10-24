@@ -1,5 +1,4 @@
-Glanta Wakamatsu GENUS
-=======
+# Glanta Wakamatsu GENUS
 
 #### Status
 ACCEPTED

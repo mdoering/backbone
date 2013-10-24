@@ -1,17 +1,16 @@
-Allantoporthe leucothoes Lar.N. Vassiljeva SPECIES
-=======
+# Allantoporthe leucothoës Lar.N. Vassiljeva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 99(6): 916 (2008)
 
 #### Original name
-Allantoporthe leucothoes Lar.N. Vassiljeva
+Allantoporthe leucothoës Lar.N. Vassiljeva
 
 ### Remarks
 null

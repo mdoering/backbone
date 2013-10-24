@@ -1,5 +1,4 @@
-Hemiselmis amylosa B. L. Clay & P. Kugrens SPECIES
-=======
+# Hemiselmis amylosa B. L. Clay & P. Kugrens SPECIES
 
 #### Status
 ACCEPTED

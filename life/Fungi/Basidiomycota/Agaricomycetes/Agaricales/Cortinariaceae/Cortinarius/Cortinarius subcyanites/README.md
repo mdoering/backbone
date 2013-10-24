@@ -1,5 +1,4 @@
-Cortinarius subcyanites Bidaud SPECIES
-=======
+# Cortinarius subcyanites Bidaud SPECIES
 
 #### Status
 ACCEPTED

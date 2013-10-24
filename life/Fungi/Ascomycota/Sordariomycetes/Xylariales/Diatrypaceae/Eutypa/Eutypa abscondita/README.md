@@ -1,5 +1,4 @@
-Eutypa abscondita (Mont.) Rappaz SPECIES
-=======
+# Eutypa abscondita (Mont.) Rappaz SPECIES
 
 #### Status
 ACCEPTED

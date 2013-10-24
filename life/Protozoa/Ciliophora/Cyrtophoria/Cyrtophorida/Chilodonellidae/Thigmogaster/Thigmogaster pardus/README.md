@@ -1,5 +1,4 @@
-Thigmogaster pardus Deroux, 1976 SPECIES
-=======
+# Thigmogaster pardus Deroux, 1976 SPECIES
 
 #### Status
 ACCEPTED

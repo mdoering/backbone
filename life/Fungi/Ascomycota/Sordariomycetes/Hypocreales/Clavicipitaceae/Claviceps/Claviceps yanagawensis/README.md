@@ -1,5 +1,4 @@
-Claviceps yanagawensis Togashi SPECIES
-=======
+# Claviceps yanagawensis Togashi SPECIES
 
 #### Status
 ACCEPTED

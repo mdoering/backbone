@@ -1,5 +1,4 @@
-Oligoporus subfragilis (Corner) T. Hatt. SPECIES
-=======
+# Oligoporus subfragilis (Corner) T. Hatt. SPECIES
 
 #### Status
 ACCEPTED

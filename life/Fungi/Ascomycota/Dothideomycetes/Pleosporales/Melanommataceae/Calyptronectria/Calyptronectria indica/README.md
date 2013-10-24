@@ -1,5 +1,4 @@
-Calyptronectria indica Dhaware SPECIES
-=======
+# Calyptronectria indica Dhaware SPECIES
 
 #### Status
 ACCEPTED

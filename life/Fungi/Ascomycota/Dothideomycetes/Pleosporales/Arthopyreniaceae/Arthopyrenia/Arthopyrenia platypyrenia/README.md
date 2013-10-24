@@ -1,5 +1,4 @@
-Arthopyrenia platypyrenia (Nyl.) Arnold SPECIES
-=======
+# Arthopyrenia platypyrenia (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

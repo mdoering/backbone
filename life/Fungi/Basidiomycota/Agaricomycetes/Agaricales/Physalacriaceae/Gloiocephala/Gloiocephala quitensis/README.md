@@ -1,5 +1,4 @@
-Gloiocephala quitensis Singer SPECIES
-=======
+# Gloiocephala quitensis Singer SPECIES
 
 #### Status
 ACCEPTED

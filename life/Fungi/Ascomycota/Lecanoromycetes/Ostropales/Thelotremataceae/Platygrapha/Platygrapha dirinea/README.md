@@ -1,5 +1,4 @@
-Platygrapha dirinea Nyl. SPECIES
-=======
+# Platygrapha dirinea Nyl. SPECIES
 
 #### Status
 ACCEPTED

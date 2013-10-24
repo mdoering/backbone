@@ -1,5 +1,4 @@
-Eoceratobulimina Fuchs, 1973 GENUS
-=======
+# Eoceratobulimina Fuchs, 1973 GENUS
 
 #### Status
 ACCEPTED

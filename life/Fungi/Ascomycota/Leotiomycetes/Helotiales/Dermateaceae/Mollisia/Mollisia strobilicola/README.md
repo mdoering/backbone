@@ -1,5 +1,4 @@
-Mollisia strobilicola (Rehm) SPECIES
-=======
+# Mollisia strobilicola (Rehm) SPECIES
 
 #### Status
 ACCEPTED

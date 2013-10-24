@@ -1,5 +1,4 @@
-Pleospora principis Pass. SPECIES
-=======
+# Pleospora principis Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatoma elongatum var. minor Grunow VARIETY
-=======
+# Diatoma elongatum (Lyngbye) C. Agardh SPECIES
 
 #### Status
 ACCEPTED

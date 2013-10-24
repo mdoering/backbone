@@ -1,5 +1,4 @@
-Cephalotheca prolifica (Bainier) Sacc. & Trotter SPECIES
-=======
+# Cephalotheca prolifica (Bainier) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

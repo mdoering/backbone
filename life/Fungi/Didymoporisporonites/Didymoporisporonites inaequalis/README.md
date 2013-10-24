@@ -1,5 +1,4 @@
-Didymoporisporonites inaequalis Sheffy & Dilcher SPECIES
-=======
+# Didymoporisporonites inaequalis Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

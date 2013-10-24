@@ -1,5 +1,4 @@
-Cornuspira corticata Chapman, W D & Parr, W J, 1937 SPECIES
-=======
+# Cornuspira corticata Chapman, W D & Parr, W J, 1937 SPECIES
 
 #### Status
 DOUBTFUL

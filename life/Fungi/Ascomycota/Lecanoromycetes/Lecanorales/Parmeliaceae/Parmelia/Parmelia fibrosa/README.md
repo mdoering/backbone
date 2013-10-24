@@ -1,5 +1,4 @@
-Parmelia fibrosa Fr. SPECIES
-=======
+# Parmelia fibrosa Fr. SPECIES
 
 #### Status
 ACCEPTED

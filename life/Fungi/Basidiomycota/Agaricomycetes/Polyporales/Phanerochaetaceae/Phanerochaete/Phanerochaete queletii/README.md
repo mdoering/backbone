@@ -1,5 +1,4 @@
-Phanerochaete queletii (Bres.) Nakasone SPECIES
-=======
+# Phanerochaete queletii (Bres.) Nakasone SPECIES
 
 #### Status
 ACCEPTED

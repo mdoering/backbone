@@ -1,5 +1,4 @@
-Dothidella gigantochloae (Rehm) Theiss. & Syd. SPECIES
-=======
+# Dothidella gigantochloae (Rehm) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

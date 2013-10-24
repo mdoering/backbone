@@ -1,5 +1,4 @@
-Anema latissimum (Asahina) Yoshim. SPECIES
-=======
+# Anema latissimum (Asahina) Yoshim. SPECIES
 
 #### Status
 ACCEPTED

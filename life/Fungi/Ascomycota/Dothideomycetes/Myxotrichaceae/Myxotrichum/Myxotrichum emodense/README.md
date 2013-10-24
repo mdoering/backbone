@@ -1,5 +1,4 @@
-Myxotrichum emodense Udagawa & Uchiy. SPECIES
-=======
+# Myxotrichum emodense Udagawa & Uchiy. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physcia manuelii Moberg SPECIES
-=======
+# Physcia manuelii Moberg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthracothecium columellatum (Vain.) Zahlbr. SPECIES
-=======
+# Anthracothecium columellatum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

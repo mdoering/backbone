@@ -1,5 +1,4 @@
-Lignincola mareotae ined. SPECIES
-=======
+# Lignincola mareotae ined. SPECIES
 
 #### Status
 ACCEPTED

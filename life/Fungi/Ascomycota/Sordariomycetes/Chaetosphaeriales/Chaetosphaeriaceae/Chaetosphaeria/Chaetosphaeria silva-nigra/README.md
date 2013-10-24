@@ -1,5 +1,4 @@
-Chaetosphaeria silva-nigra Penz. & Sacc. SPECIES
-=======
+# Chaetosphaeria silva-nigra Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

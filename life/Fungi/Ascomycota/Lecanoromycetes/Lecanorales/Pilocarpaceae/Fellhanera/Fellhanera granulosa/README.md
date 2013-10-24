@@ -1,5 +1,4 @@
-Fellhanera granulosa R.C. Harris & Lendemer SPECIES
-=======
+# Fellhanera granulosa R.C. Harris & Lendemer SPECIES
 
 #### Status
 ACCEPTED

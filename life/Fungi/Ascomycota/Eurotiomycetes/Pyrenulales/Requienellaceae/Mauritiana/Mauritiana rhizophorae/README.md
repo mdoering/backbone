@@ -1,5 +1,4 @@
-Mauritiana rhizophorae Poonyth, K.D. Hyde, Aptroot & Peerally SPECIES
-=======
+# Mauritiana rhizophorae Poonyth, K.D. Hyde, Aptroot & Peerally SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Soredospora graminis Corda SPECIES
-=======
+# Soredospora graminis Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia acupalpi Speg. SPECIES
-=======
+# Laboulbenia acupalpi Speg. SPECIES
 
 #### Status
 ACCEPTED

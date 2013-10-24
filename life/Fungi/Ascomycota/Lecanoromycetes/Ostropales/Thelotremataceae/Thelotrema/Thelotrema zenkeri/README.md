@@ -1,5 +1,4 @@
-Thelotrema zenkeri C.W. Dodge SPECIES
-=======
+# Thelotrema zenkeri C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

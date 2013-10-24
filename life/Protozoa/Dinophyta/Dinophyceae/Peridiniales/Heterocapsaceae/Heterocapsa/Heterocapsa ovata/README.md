@@ -1,5 +1,4 @@
-Heterocapsa ovata Iwataki & Fukuyo, 2003 SPECIES
-=======
+# Heterocapsa ovata Iwataki & Fukuyo, 2003 SPECIES
 
 #### Status
 ACCEPTED

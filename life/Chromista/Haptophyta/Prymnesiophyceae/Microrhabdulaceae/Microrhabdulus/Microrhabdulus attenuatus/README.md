@@ -1,8 +1,7 @@
-Microrhabdulus stradneri Bramlette & Martini, 1964 SPECIES
-=======
+# Microrhabdulus attenuatus (Deflandre, 1959) Deflandre, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

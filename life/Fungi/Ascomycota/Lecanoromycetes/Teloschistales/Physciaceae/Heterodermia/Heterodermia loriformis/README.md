@@ -1,5 +1,4 @@
-Heterodermia loriformis (Kurok.) Swinscow & Krog SPECIES
-=======
+# Heterodermia loriformis (Kurok.) Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

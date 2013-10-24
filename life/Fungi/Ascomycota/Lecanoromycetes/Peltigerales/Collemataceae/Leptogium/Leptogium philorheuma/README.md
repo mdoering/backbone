@@ -1,5 +1,4 @@
-Leptogium philorheuma F. Wilson SPECIES
-=======
+# Leptogium philorheuma F. Wilson SPECIES
 
 #### Status
 ACCEPTED

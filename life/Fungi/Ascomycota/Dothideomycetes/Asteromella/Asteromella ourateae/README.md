@@ -1,5 +1,4 @@
-Asteromella ourateae Bat., J.L. Bezerra & Poroca SPECIES
-=======
+# Asteromella ourateae Bat., J.L. Bezerra & Poroca SPECIES
 
 #### Status
 ACCEPTED

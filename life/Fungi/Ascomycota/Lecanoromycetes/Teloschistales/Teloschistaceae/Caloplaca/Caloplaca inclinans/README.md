@@ -1,17 +1,16 @@
-Callopisma inclinans (Stirt.) Müll. Arg. SPECIES
-=======
+# Caloplaca inclinans (Stirt.) Hellb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bihangtill K. Svenska Vetensk. -Akad. Handl. , Afd. 3 21(no. 3): 68 (1896)
 
 #### Original name
-Lecanora inclinans Stirt.
+Pyrenodesmia inclinans (Stirt.) C.W. Dodge
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Nostoclavus Paulet GENUS
-=======
+# Nostoclavus Paulet GENUS
 
 #### Status
 ACCEPTED

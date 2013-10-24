@@ -1,5 +1,4 @@
-Phyllosticta pentopetiae Punith. & H.C. Evans SPECIES
-=======
+# Phyllosticta pentopetiae Punith. & H.C. Evans SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavulina alutaceosiccescens R.H. Petersen, 1988 SPECIES
-=======
+# Clavulina alutaceosiccescens R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

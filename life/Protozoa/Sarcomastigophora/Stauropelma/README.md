@@ -1,5 +1,4 @@
-Stauropelma Haeckel, 1881 GENUS
-=======
+# Stauropelma Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podospora similis (E.C. Hansen) Niessl, 1883 SPECIES
-=======
+# Podospora similis (E.C. Hansen) Niessl, 1883 SPECIES
 
 #### Status
 ACCEPTED

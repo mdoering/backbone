@@ -1,5 +1,4 @@
-Chaetoceros hispidum (Ehrenberg) Brightwell SPECIES
-=======
+# Chaetoceros hispidum (Ehrenberg) Brightwell SPECIES
 
 #### Status
 ACCEPTED

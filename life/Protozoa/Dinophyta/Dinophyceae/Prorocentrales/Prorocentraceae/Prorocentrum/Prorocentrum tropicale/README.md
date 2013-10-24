@@ -1,5 +1,4 @@
-Prorocentrum tropicale M.A. Faust SPECIES
-=======
+# Prorocentrum tropicale M.A. Faust SPECIES
 
 #### Status
 ACCEPTED

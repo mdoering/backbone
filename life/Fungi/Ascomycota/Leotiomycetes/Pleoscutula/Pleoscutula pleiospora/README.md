@@ -1,5 +1,4 @@
-Pleoscutula pleiospora Vouaux SPECIES
-=======
+# Pleoscutula pleiospora Vouaux SPECIES
 
 #### Status
 ACCEPTED

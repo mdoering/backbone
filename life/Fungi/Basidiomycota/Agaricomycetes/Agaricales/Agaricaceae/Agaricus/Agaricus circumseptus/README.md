@@ -1,5 +1,4 @@
-Agaricus circumseptus Batsch SPECIES
-=======
+# Agaricus circumseptus Batsch SPECIES
 
 #### Status
 ACCEPTED

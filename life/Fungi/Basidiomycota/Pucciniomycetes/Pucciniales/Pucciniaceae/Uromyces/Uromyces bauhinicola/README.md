@@ -1,5 +1,4 @@
-Uromyces bauhinicola Arthur SPECIES
-=======
+# Uromyces bauhinicola Arthur SPECIES
 
 #### Status
 ACCEPTED

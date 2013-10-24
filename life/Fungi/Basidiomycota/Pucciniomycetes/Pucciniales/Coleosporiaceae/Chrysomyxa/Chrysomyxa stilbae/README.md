@@ -1,5 +1,4 @@
-Chrysomyxa stilbae Y.Z. Wang, M.M. Chen & L. Guo, 1980 SPECIES
-=======
+# Chrysomyxa stilbae Y.Z. Wang, M.M. Chen & L. Guo, 1980 SPECIES
 
 #### Status
 ACCEPTED

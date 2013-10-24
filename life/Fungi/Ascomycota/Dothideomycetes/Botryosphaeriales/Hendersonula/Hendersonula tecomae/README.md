@@ -1,5 +1,4 @@
-Hendersonula tecomae S. Ahmad & Arshad SPECIES
-=======
+# Hendersonula tecomae S. Ahmad & Arshad SPECIES
 
 #### Status
 ACCEPTED

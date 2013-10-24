@@ -1,5 +1,4 @@
-Entoloma villosulum Corner & E. Horak SPECIES
-=======
+# Entoloma villosulum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

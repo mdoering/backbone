@@ -1,5 +1,4 @@
-Gelatinocrinis Matsush. GENUS
-=======
+# Gelatinocrinis Matsush. GENUS
 
 #### Status
 ACCEPTED

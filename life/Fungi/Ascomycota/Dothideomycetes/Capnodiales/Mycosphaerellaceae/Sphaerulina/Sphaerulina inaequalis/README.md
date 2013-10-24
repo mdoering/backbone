@@ -1,5 +1,4 @@
-Sphaerulina inaequalis Wehm. SPECIES
-=======
+# Sphaerulina inaequalis Wehm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Oothecium tremae Syd. SPECIES
-=======
+# Capnodiastrum tremae (Syd.) Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Annls mycol. 28(1/2): 195 (1930)
+Sydowia 6(5-6): 342 (1952)
 
 #### Original name
 Oothecium tremae Syd.

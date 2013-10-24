@@ -1,5 +1,4 @@
-Domasia tuvinica Sheshegova, 1976 SPECIES
-=======
+# Domasia tuvinica Sheshegova, 1976 SPECIES
 
 #### Status
 ACCEPTED

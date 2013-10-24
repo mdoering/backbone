@@ -1,5 +1,4 @@
-Chrysochromulina strobilus Parke & Manton SPECIES
-=======
+# Chrysochromulina strobilus Parke & Manton SPECIES
 
 #### Status
 ACCEPTED

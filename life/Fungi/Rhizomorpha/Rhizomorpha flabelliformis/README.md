@@ -1,5 +1,4 @@
-Rhizomorpha flabelliformis Pers. SPECIES
-=======
+# Rhizomorpha flabelliformis Pers. SPECIES
 
 #### Status
 ACCEPTED

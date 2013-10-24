@@ -1,5 +1,4 @@
-Physopella Arthur GENUS
-=======
+# Physopella Arthur GENUS
 
 #### Status
 ACCEPTED

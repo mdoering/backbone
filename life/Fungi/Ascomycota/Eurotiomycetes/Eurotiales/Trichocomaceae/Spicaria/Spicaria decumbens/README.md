@@ -1,5 +1,4 @@
-Spicaria decumbens Oudem. SPECIES
-=======
+# Spicaria decumbens Oudem. SPECIES
 
 #### Status
 ACCEPTED

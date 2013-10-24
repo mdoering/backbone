@@ -1,5 +1,4 @@
-Collema euganeum A. Massal. SPECIES
-=======
+# Collema euganeum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

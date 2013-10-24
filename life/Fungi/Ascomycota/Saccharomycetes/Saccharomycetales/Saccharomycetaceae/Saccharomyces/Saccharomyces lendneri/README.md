@@ -1,5 +1,4 @@
-Saccharomyces lendneri Guyot SPECIES
-=======
+# Saccharomyces lendneri Guyot SPECIES
 
 #### Status
 ACCEPTED

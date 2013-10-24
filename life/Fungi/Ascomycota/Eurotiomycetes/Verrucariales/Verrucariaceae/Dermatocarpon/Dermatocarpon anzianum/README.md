@@ -1,5 +1,4 @@
-Dermatocarpon anzianum f. anzianum FORM
-=======
+# Dermatocarpon anzianum Servít SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dermatocarpon anzianum f. anzianum
+Dermatocarpon anzianum Servít
 
 ### Remarks
 null

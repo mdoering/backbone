@@ -1,5 +1,4 @@
-Bovista anomala Cooke & Massee SPECIES
-=======
+# Bovista anomala Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

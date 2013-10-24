@@ -1,5 +1,4 @@
-Polyblastia butschetschensis Zschacke SPECIES
-=======
+# Polyblastia butschetschensis Zschacke SPECIES
 
 #### Status
 ACCEPTED

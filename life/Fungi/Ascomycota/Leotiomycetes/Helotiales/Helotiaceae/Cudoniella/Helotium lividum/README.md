@@ -1,5 +1,4 @@
-Helotium lividum Mont. SPECIES
-=======
+# Helotium lividum Mont. SPECIES
 
 #### Status
 ACCEPTED

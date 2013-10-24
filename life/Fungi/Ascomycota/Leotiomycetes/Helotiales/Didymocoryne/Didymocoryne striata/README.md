@@ -1,5 +1,4 @@
-Didymocoryne striata (Ellis & Everh.) Sacc. & Trotter SPECIES
-=======
+# Didymocoryne striata (Ellis & Everh.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

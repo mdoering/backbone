@@ -1,5 +1,4 @@
-Priceomyces melissophilus (van der Walt & Klift) M. Suzuki & Kurtzman, 2010 SPECIES
-=======
+# Priceomyces melissophilus (van der Walt & Klift) M. Suzuki & Kurtzman, 2010 SPECIES
 
 #### Status
 ACCEPTED

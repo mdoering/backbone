@@ -1,5 +1,4 @@
-Agaricus rubrolaesus Secr. SPECIES
-=======
+# Agaricus rubrolaesus Secr. SPECIES
 
 #### Status
 ACCEPTED

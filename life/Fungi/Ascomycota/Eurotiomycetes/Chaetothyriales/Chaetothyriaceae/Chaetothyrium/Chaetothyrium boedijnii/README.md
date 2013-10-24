@@ -1,5 +1,4 @@
-Chaetothyrium boedijnii Hansf. SPECIES
-=======
+# Chaetothyrium boedijnii Hansf. SPECIES
 
 #### Status
 ACCEPTED

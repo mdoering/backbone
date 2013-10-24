@@ -1,5 +1,4 @@
-Lycoperdon cantareirensis Henn. SPECIES
-=======
+# Lycoperdon cantareirensis Henn. SPECIES
 
 #### Status
 ACCEPTED

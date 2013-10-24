@@ -1,5 +1,4 @@
-Photococcus caeruleum Bratin, 2008 SPECIES
-=======
+# Photococcus caeruleum Bratin, 2008 SPECIES
 
 #### Status
 ACCEPTED

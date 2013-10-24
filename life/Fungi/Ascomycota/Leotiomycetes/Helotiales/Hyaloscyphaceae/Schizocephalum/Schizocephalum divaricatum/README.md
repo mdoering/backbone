@@ -1,5 +1,4 @@
-Schizocephalum divaricatum (Ellis & Langl.) Pound & Clem. SPECIES
-=======
+# Schizocephalum divaricatum (Ellis & Langl.) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

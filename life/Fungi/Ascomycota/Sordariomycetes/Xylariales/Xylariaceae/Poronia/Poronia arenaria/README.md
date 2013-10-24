@@ -1,5 +1,4 @@
-Poronia arenaria Syd., P. Syd. & E.J. Butler SPECIES
-=======
+# Poronia arenaria Syd., P. Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria cirrata Pat. SPECIES
-=======
+# Xylaria cirrata Pat. SPECIES
 
 #### Status
 ACCEPTED

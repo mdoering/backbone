@@ -1,5 +1,4 @@
-Didymium balearicum Ing, 2000 SPECIES
-=======
+# Didymium balearicum Ing, 2000 SPECIES
 
 #### Status
 ACCEPTED

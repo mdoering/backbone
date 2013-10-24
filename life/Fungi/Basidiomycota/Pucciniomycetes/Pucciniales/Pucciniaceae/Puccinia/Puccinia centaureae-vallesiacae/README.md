@@ -1,5 +1,4 @@
-Puccinia centaureae-vallesiacae Hasler SPECIES
-=======
+# Puccinia centaureae-vallesiacae Hasler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cyphospilea Syd. GENUS
-=======
+# Coleroa Rabenhorst, 1850 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Annls mycol. 24(5/6): 377 (1926)
+null
 
 #### Original name
-Cyphospilea Syd.
+null
 
 ### Remarks
 null

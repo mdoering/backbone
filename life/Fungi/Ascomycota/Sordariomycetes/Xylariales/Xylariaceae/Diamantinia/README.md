@@ -1,5 +1,4 @@
-Diamantinia A.N. Mill., Laessøe & Huhndorf GENUS
-=======
+# Diamantinia A.N. Mill., Laessøe & Huhndorf GENUS
 
 #### Status
 ACCEPTED

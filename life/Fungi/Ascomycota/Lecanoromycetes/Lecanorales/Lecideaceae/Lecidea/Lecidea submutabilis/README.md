@@ -1,5 +1,4 @@
-Lecidea submutabilis B. de Lesd. SPECIES
-=======
+# Lecidea submutabilis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

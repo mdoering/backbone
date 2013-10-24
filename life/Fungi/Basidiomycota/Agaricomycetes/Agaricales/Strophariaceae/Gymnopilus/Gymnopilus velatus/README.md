@@ -1,5 +1,4 @@
-Gymnopilus velatus (Peck) Murrill SPECIES
-=======
+# Gymnopilus velatus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

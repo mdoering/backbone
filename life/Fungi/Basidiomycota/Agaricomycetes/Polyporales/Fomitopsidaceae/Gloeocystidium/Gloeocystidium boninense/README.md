@@ -1,17 +1,16 @@
-Gloeocystidium boninensis S. Ito & S. Imai SPECIES
-=======
+# Gloeocystidium boninense S. Ito & S. Imai SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Sapporo nat. Hist. Soc. 16(3): 131 (1940)
 
 #### Original name
-Gloeocystidium boninensis S. Ito & S. Imai
+Gloeocystidium boninense S. Ito & S. Imai
 
 ### Remarks
 null

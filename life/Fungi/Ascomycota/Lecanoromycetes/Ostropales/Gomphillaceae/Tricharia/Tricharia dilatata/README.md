@@ -1,5 +1,4 @@
-Tricharia dilatata Vezda SPECIES
-=======
+# Tricharia dilatata Vezda SPECIES
 
 #### Status
 ACCEPTED

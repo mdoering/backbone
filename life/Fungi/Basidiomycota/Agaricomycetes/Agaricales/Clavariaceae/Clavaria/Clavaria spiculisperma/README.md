@@ -1,5 +1,4 @@
-Clavaria spiculisperma G.F. Atk. SPECIES
-=======
+# Clavaria spiculisperma G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

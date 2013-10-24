@@ -1,5 +1,4 @@
-Penicillium ochrochloron Biourge, 1923 SPECIES
-=======
+# Penicillium ochrochloron Biourge, 1923 SPECIES
 
 #### Status
 DOUBTFUL

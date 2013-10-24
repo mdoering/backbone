@@ -1,5 +1,4 @@
-Sporidesmium ehrenbergii M.B. Ellis, 1958 SPECIES
-=======
+# Sporidesmium ehrenbergii M.B. Ellis, 1958 SPECIES
 
 #### Status
 ACCEPTED

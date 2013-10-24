@@ -1,5 +1,4 @@
-Parmelia wattiana Müll. Arg. SPECIES
-=======
+# Parmelia wattiana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Bionectria pallidula (Cooke) Schroers et al. SPECIES
-=======
+# Nectria pallidula Cooke, 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Grevillea 17(no. 81): 3 (1888)
 
 #### Original name
-null
+Nectria pallidula Cooke, 1888
 
 ### Remarks
 null

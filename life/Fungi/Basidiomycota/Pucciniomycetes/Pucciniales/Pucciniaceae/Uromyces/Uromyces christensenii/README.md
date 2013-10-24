@@ -1,5 +1,4 @@
-Uromyces christensenii J. Anikster & I. Wahl SPECIES
-=======
+# Uromyces christensenii J. Anikster & I. Wahl SPECIES
 
 #### Status
 ACCEPTED

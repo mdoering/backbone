@@ -1,5 +1,4 @@
-Lecidea eschariza Nyl. SPECIES
-=======
+# Lecidea eschariza Nyl. SPECIES
 
 #### Status
 ACCEPTED

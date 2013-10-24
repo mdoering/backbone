@@ -1,5 +1,4 @@
-Tricholoma sparsifolium Velen. SPECIES
-=======
+# Tricholoma sparsifolium Velen. SPECIES
 
 #### Status
 ACCEPTED

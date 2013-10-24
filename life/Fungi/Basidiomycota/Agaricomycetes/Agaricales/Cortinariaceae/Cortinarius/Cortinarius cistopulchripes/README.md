@@ -1,5 +1,4 @@
-Cortinarius cistopulchripes Bidaud SPECIES
-=======
+# Cortinarius cistopulchripes Bidaud SPECIES
 
 #### Status
 ACCEPTED

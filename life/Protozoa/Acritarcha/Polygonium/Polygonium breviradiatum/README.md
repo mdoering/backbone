@@ -1,5 +1,4 @@
-Polygonium breviradiatum (Uutela & Tynni, 1991) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Polygonium breviradiatum (Uutela & Tynni, 1991) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

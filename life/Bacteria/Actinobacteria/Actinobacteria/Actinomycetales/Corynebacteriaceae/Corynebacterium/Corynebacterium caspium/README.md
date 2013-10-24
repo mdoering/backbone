@@ -1,5 +1,4 @@
-Corynebacterium caspium Collins et al., 2004 SPECIES
-=======
+# Corynebacterium caspium Collins et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

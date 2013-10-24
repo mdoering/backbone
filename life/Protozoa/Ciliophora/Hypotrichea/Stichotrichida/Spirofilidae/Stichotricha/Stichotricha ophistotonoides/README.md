@@ -1,5 +1,4 @@
-Stichotricha ophistotonoides SPECIES
-=======
+# Stichotricha ophistotonoides SPECIES
 
 #### Status
 ACCEPTED

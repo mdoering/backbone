@@ -1,5 +1,4 @@
-Lecidea griseocastanea Vain. SPECIES
-=======
+# Lecidea griseocastanea Vain. SPECIES
 
 #### Status
 ACCEPTED

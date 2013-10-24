@@ -1,5 +1,4 @@
-Humaria fulva Schumach. SPECIES
-=======
+# Humaria fulva Schumach. SPECIES
 
 #### Status
 ACCEPTED

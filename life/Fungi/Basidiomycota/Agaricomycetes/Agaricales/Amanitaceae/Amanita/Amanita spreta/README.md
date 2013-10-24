@@ -1,5 +1,4 @@
-Amanita spreta (Peck) Sacc. SPECIES
-=======
+# Amanita spreta (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

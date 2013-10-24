@@ -1,5 +1,4 @@
-Discorbina pyramidalis Heron-Allen & Earland, 1924 SPECIES
-=======
+# Discorbina pyramidalis Heron-Allen & Earland, 1924 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria areola Fuckel SPECIES
-=======
+# Sphaeria areola Fuckel SPECIES
 
 #### Status
 ACCEPTED

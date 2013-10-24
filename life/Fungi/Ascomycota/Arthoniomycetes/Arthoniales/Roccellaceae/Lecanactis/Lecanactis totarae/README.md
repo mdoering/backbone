@@ -1,5 +1,4 @@
-Lecanactis totarae Zahlbr. SPECIES
-=======
+# Lecanactis totarae Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptomyces minimus (Berk.) Murrill SPECIES
-=======
+# Leptomyces minimus (Berk.) Murrill SPECIES
 
 #### Status
 ACCEPTED

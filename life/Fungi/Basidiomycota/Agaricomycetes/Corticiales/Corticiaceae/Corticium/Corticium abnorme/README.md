@@ -1,5 +1,4 @@
-Corticium abnorme Henn. SPECIES
-=======
+# Corticium abnorme Henn. SPECIES
 
 #### Status
 ACCEPTED

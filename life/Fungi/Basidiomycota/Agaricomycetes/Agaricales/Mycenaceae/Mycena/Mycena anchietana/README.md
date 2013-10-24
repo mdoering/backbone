@@ -1,5 +1,4 @@
-Mycena anchietana Raithelh. SPECIES
-=======
+# Mycena anchietana Raithelh. SPECIES
 
 #### Status
 ACCEPTED

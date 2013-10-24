@@ -1,5 +1,4 @@
-Lactarius rusticanus (Scop.) Burl. SPECIES
-=======
+# Lactarius rusticanus (Scop.) Burl. SPECIES
 
 #### Status
 ACCEPTED

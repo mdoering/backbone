@@ -1,5 +1,4 @@
-Leucogaster carolinianus Coker & Couch SPECIES
-=======
+# Leucogaster carolinianus Coker & Couch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta betulicola Cejp SPECIES
-=======
+# Phyllosticta betulicola Cejp SPECIES
 
 #### Status
 ACCEPTED

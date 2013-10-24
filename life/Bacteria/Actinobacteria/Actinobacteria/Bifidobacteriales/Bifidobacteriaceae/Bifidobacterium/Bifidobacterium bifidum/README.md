@@ -1,11 +1,10 @@
-Nocardia bifida (Tissier, 1900) Vuillemin, 1931 SPECIES
-=======
+# Bifidobacterium bifidum (Tissier, 1900) Orla-Jensen, 1924 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Cercospora praegrandis R. Sprague SPECIES
-=======
+# Cercospora praegrandis R. Sprague SPECIES
 
 #### Status
 ACCEPTED

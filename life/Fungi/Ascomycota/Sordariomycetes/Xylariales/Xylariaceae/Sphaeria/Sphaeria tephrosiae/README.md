@@ -1,5 +1,4 @@
-Sphaeria tephrosiae Cooke & Ellis SPECIES
-=======
+# Sphaeria tephrosiae Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

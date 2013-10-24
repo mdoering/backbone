@@ -1,14 +1,13 @@
-Germinosphaera N.S. Mikhailova in A.A. Istchenko, 1986 GENUS
-=======
+# Tappania Yin, 1997 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-In Sokolov & Shumenko [Eds]. [Current questions of contemporary palaeoalgology. Collected works. ] Naukova dumka, Kiev: 33.
+null
 
 #### Original name
 null

@@ -1,17 +1,16 @@
-Pterula humilis var. humilis VARIETY
-=======
+# Pterula taxiformis Mont., 1856 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revista Argent. Hist. Nat. 1: 110 (1891)
+Syll. gen. sp. crypt. (Paris) no. 601 (1856)
 
 #### Original name
-Pterula humilis var. humilis
+Pterula taxiformis Mont., 1856
 
 ### Remarks
 null

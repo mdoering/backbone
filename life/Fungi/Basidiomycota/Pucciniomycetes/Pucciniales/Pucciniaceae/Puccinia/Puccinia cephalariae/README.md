@@ -1,5 +1,4 @@
-Puccinia cephalariae Vienn.-Bourg. SPECIES
-=======
+# Puccinia cephalariae Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

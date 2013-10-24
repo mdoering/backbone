@@ -1,5 +1,4 @@
-Ophioceras tenuisporum Shearer, J.L. Crane & W. Chen SPECIES
-=======
+# Ophioceras tenuisporum Shearer, J.L. Crane & W. Chen SPECIES
 
 #### Status
 ACCEPTED

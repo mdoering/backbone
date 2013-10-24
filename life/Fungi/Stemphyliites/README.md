@@ -1,5 +1,4 @@
-Stemphyliites Babajan & Tasl. GENUS
-=======
+# Stemphyliites Babajan & Tasl. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rosellinia colensoi Cooke, 1886 SPECIES
-=======
+# Rosellinia colensoi Cooke, 1886 SPECIES
 
 #### Status
 ACCEPTED

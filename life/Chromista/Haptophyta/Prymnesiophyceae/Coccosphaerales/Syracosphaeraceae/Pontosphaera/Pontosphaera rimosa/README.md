@@ -1,5 +1,4 @@
-Pontosphaera rimosa (Bramlette & Sullivan, 1961) Roth & Thierstein, 1972 SPECIES
-=======
+# Pontosphaera rimosa (Bramlette & Sullivan, 1961) Roth & Thierstein, 1972 SPECIES
 
 #### Status
 ACCEPTED

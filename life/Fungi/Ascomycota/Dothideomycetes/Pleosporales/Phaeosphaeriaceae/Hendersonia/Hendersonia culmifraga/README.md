@@ -1,5 +1,4 @@
-Hendersonia culmifraga Fautrey SPECIES
-=======
+# Hendersonia culmifraga Fautrey SPECIES
 
 #### Status
 ACCEPTED

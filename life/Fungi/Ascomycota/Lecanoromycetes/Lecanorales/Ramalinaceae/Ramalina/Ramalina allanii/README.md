@@ -1,5 +1,4 @@
-Ramalina allanii Bubák SPECIES
-=======
+# Ramalina allanii Bubák SPECIES
 
 #### Status
 ACCEPTED

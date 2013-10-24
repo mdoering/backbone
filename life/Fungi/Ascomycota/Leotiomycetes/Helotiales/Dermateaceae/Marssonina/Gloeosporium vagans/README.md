@@ -1,14 +1,13 @@
-Gloeosporidium vagans (Syd. & P. Syd.) Petr. SPECIES
-=======
+# Gloeosporium vagans Syd. & P. Syd., 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 10(5): 448 (1912)
 
 #### Original name
 Gloeosporium vagans Syd. & P. Syd., 1912

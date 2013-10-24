@@ -1,5 +1,4 @@
-Wallrothiella melanostigmoides Feltgen, 1903 SPECIES
-=======
+# Wallrothiella melanostigmoides Feltgen, 1903 SPECIES
 
 #### Status
 ACCEPTED

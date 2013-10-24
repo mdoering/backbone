@@ -1,17 +1,16 @@
-Parmelia schenckiana var. chalybaeizans J. Steiner & Zahlbr. VARIETY
-=======
+# Xanthoparmelia chalybaeizans (J. Steiner & Zahlbr.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 28(5): 486 (1974)
 
 #### Original name
-null
+Parmelia schenckiana var. chalybaeizans J. Steiner & Zahlbr.
 
 ### Remarks
 null

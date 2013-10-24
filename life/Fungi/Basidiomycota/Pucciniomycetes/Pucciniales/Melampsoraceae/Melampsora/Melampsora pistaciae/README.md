@@ -1,5 +1,4 @@
-Melampsora pistaciae Castagne SPECIES
-=======
+# Melampsora pistaciae Castagne SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acinetides symbiotica Daday SPECIES
-=======
+# Acinetides symbiotica Daday SPECIES
 
 #### Status
 ACCEPTED

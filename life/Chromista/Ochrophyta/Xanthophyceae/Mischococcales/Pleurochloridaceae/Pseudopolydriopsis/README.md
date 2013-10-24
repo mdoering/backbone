@@ -1,5 +1,4 @@
-Pseudopolydriopsis GENUS
-=======
+# Pseudopolydriopsis GENUS
 
 #### Status
 ACCEPTED

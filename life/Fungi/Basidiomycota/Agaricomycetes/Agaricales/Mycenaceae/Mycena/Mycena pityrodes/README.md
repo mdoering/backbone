@@ -1,5 +1,4 @@
-Mycena pityrodes Berk. & M.A. Curtis SPECIES
-=======
+# Mycena pityrodes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

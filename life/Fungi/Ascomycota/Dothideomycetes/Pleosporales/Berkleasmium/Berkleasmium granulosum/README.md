@@ -1,5 +1,4 @@
-Berkleasmium granulosum (Durieu & Mont.) R.T. Moore SPECIES
-=======
+# Berkleasmium granulosum (Durieu & Mont.) R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

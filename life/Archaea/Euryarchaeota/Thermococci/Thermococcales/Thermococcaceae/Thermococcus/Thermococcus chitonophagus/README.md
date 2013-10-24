@@ -1,5 +1,4 @@
-Thermococcus chitonophagus Huber & Stetter, 1996 SPECIES
-=======
+# Thermococcus chitonophagus Huber & Stetter, 1996 SPECIES
 
 #### Status
 ACCEPTED

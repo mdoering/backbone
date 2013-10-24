@@ -1,14 +1,13 @@
-Lecidea tesselina Tuck. SPECIES
-=======
+# Lecanora tesselina (Tuck.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Proc. Amer. Acad. Arts & Sci. 17: 181 (1877)
+Cat. Lich. Univers. 5: 355 (1928)
 
 #### Original name
 Lecidea tesselina Tuck.

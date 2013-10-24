@@ -1,5 +1,4 @@
-Squamaria heleoides Colmeiro SPECIES
-=======
+# Squamaria heleoides Colmeiro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps formicarum Kobayasi SPECIES
-=======
+# Cordyceps formicarum Kobayasi SPECIES
 
 #### Status
 ACCEPTED

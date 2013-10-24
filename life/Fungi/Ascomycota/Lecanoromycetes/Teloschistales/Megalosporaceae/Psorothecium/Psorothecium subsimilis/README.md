@@ -1,5 +1,4 @@
-Psorothecium subsimilis (Vain.) Forssell SPECIES
-=======
+# Psorothecium subsimilis (Vain.) Forssell SPECIES
 
 #### Status
 ACCEPTED

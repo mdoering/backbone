@@ -1,5 +1,4 @@
-Ixechinus viridis (Heinem. & Gooss.-Font.) Wolfe SPECIES
-=======
+# Ixechinus viridis (Heinem. & Gooss.-Font.) Wolfe SPECIES
 
 #### Status
 ACCEPTED

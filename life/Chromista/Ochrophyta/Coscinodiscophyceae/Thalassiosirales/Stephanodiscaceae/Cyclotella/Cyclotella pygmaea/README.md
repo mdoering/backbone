@@ -1,5 +1,4 @@
-Cyclotella pygmaea Pantocsek SPECIES
-=======
+# Cyclotella pygmaea Pantocsek SPECIES
 
 #### Status
 ACCEPTED

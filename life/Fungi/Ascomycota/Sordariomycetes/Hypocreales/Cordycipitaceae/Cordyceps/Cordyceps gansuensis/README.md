@@ -1,5 +1,4 @@
-Cordyceps gansuensis K.Y. Zhang, C.J.K. Wang & M.S. Yan SPECIES
-=======
+# Cordyceps gansuensis K.Y. Zhang, C.J.K. Wang & M.S. Yan SPECIES
 
 #### Status
 ACCEPTED

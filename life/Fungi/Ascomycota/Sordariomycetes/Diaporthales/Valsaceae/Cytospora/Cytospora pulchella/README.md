@@ -1,5 +1,4 @@
-Cytospora pulchella Sacc. SPECIES
-=======
+# Cytospora pulchella Sacc. SPECIES
 
 #### Status
 ACCEPTED

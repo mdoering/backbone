@@ -1,5 +1,4 @@
-Stemonaria laxiretis Nann.-Bremek. & Y. Yamam., 1990 SPECIES
-=======
+# Stemonaria laxiretis Nann.-Bremek. & Y. Yamam., 1990 SPECIES
 
 #### Status
 ACCEPTED

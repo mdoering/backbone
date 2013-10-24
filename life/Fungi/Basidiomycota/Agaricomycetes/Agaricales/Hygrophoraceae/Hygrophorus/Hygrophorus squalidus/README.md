@@ -1,5 +1,4 @@
-Hygrophorus squalidus (Lasch) Fr. SPECIES
-=======
+# Hygrophorus squalidus (Lasch) Fr. SPECIES
 
 #### Status
 ACCEPTED

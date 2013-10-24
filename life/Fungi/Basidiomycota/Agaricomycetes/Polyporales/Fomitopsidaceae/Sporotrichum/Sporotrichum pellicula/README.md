@@ -1,5 +1,4 @@
-Sporotrichum pellicula Link SPECIES
-=======
+# Sporotrichum pellicula Link SPECIES
 
 #### Status
 ACCEPTED

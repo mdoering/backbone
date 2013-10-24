@@ -1,14 +1,13 @@
-Flammula baylei (Berk. & Broome) Sacc. SPECIES
-=======
+# Flammula bayleyi (Berk. & Broome) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 5: 814 (1887)
 
 #### Original name
 Agaricus bayleyi Berk. & Broome

@@ -1,5 +1,4 @@
-Coniothyrium smirnoviae Golovin SPECIES
-=======
+# Coniothyrium smirnoviae Golovin SPECIES
 
 #### Status
 ACCEPTED

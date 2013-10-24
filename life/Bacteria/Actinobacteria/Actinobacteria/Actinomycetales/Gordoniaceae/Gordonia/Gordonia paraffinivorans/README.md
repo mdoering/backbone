@@ -1,5 +1,4 @@
-Gordonia paraffinivorans Xue et al., 2003 SPECIES
-=======
+# Gordonia paraffinivorans Xue et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

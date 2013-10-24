@@ -1,5 +1,4 @@
-Phylliscidiopsis abissinica Sambo SPECIES
-=======
+# Phylliscidiopsis abissinica Sambo SPECIES
 
 #### Status
 ACCEPTED

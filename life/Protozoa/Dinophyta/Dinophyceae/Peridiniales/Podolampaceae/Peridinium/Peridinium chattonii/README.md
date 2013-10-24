@@ -1,5 +1,4 @@
-Peridinium chattonii Biecheler SPECIES
-=======
+# Peridinium chattonii Biecheler SPECIES
 
 #### Status
 ACCEPTED

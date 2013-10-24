@@ -1,5 +1,4 @@
-Physcidia carassensis Kalb & Elix SPECIES
-=======
+# Physcidia carassensis Kalb & Elix SPECIES
 
 #### Status
 ACCEPTED

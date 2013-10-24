@@ -1,8 +1,7 @@
-Verneuilina affixa Cushman, 1911 SPECIES
-=======
+# Verneuilinulla affixa (Cushman, 1911) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

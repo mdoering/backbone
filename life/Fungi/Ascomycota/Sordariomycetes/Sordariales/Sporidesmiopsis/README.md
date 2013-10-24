@@ -1,5 +1,4 @@
-Sporidesmiopsis GENUS
-=======
+# Sporidesmiopsis GENUS
 
 #### Status
 ACCEPTED

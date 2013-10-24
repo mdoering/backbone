@@ -1,5 +1,4 @@
-Ellipsidiidae FAMILY
-=======
+# Ellipsidiidae FAMILY
 
 #### Status
 ACCEPTED

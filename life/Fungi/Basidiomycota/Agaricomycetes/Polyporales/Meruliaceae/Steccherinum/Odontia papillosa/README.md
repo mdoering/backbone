@@ -1,17 +1,16 @@
-Odontia papillosa var. papillosa VARIETY
-=======
+# Odontia papillosa SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 37: 117 (1882)
+null
 
 #### Original name
-Odontia papillosa var. papillosa
+null
 
 ### Remarks
 null

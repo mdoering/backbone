@@ -1,17 +1,16 @@
-Uromyces limonii-caroliniana Savile & Conners SPECIES
-=======
+# Uromyces limonii-caroliniani Savile & Conners, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 43(2): 193 (1951)
 
 #### Original name
-Uromyces limonii-caroliniana Savile & Conners
+Uromyces limonii-caroliniani Savile & Conners, 1951
 
 ### Remarks
 null

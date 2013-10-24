@@ -1,5 +1,4 @@
-Russula mendocinensis Thiers SPECIES
-=======
+# Russula mendocinensis Thiers SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Desmazieria sinensis (Jatta) D. Hawksw. SPECIES
-=======
+# Desmazieria sinensis (Jatta) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

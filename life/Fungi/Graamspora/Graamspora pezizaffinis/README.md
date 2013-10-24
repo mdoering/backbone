@@ -1,5 +1,4 @@
-Graamspora pezizaffinis Sal.-Cheb. & Locq. SPECIES
-=======
+# Graamspora pezizaffinis Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

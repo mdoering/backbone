@@ -1,5 +1,4 @@
-Psilocybe pyrispora (Murrill) A.H. Sm. SPECIES
-=======
+# Psilocybe pyrispora (Murrill) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

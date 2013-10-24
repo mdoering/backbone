@@ -1,5 +1,4 @@
-Synchytrium valerianellae Syd. SPECIES
-=======
+# Synchytrium valerianellae Syd. SPECIES
 
 #### Status
 ACCEPTED

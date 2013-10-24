@@ -1,5 +1,4 @@
-Helminthocarpon scriptellum J. Steiner SPECIES
-=======
+# Helminthocarpon scriptellum J. Steiner SPECIES
 
 #### Status
 ACCEPTED

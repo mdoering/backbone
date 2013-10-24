@@ -1,5 +1,4 @@
-Stichopilium bicorne Haeckel, 1887 SPECIES
-=======
+# Stichopilium bicorne Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

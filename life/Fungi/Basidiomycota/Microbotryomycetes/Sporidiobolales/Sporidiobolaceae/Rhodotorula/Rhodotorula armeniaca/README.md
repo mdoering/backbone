@@ -1,5 +1,4 @@
-Rhodotorula armeniaca R.G. Shivas & Rodr. Mir. SPECIES
-=======
+# Rhodotorula armeniaca R.G. Shivas & Rodr. Mir. SPECIES
 
 #### Status
 ACCEPTED

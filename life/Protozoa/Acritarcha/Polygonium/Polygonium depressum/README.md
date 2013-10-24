@@ -1,5 +1,4 @@
-Polygonium depressum Yin Leiming, 1995 SPECIES
-=======
+# Polygonium depressum Yin Leiming, 1995 SPECIES
 
 #### Status
 ACCEPTED

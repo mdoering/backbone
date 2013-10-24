@@ -1,5 +1,4 @@
-Gyromitra brunnea Underw. SPECIES
-=======
+# Gyromitra brunnea Underw. SPECIES
 
 #### Status
 ACCEPTED

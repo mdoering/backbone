@@ -1,5 +1,4 @@
-Plectacantha Jørgensen in Nordgaard & Joergensen, 1905 GENUS
-=======
+# Plectacantha Jørgensen in Nordgaard & Joergensen, 1905 GENUS
 
 #### Status
 ACCEPTED

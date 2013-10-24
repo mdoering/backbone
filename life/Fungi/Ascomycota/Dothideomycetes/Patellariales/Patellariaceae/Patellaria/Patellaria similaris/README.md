@@ -1,5 +1,4 @@
-Patellaria similaris (Hoffm.) Trevis. SPECIES
-=======
+# Patellaria similaris (Hoffm.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

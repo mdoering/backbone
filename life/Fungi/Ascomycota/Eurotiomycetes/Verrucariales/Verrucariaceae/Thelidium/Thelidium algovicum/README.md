@@ -1,5 +1,4 @@
-Thelidium algovicum SPECIES
-=======
+# Thelidium algovicum SPECIES
 
 #### Status
 ACCEPTED

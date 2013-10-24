@@ -1,5 +1,4 @@
-Sphaeria recedens Cooke & Harkn. SPECIES
-=======
+# Sphaeria recedens Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

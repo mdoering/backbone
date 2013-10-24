@@ -1,5 +1,4 @@
-Oscillatoria submembranaceae SPECIES
-=======
+# Oscillatoria submembranaceae SPECIES
 
 #### Status
 ACCEPTED

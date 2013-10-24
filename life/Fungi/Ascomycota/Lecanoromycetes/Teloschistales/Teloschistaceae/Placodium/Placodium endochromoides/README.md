@@ -1,5 +1,4 @@
-Placodium endochromoides SPECIES
-=======
+# Placodium endochromoides SPECIES
 
 #### Status
 ACCEPTED

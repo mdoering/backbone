@@ -1,5 +1,4 @@
-Fuscopannaria dissecta P.M. Jørg. SPECIES
-=======
+# Fuscopannaria dissecta P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

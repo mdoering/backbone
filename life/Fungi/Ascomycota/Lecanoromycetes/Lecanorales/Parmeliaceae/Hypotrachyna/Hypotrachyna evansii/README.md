@@ -1,5 +1,4 @@
-Hypotrachyna evansii M. D. E. Knox SPECIES
-=======
+# Hypotrachyna evansii M. D. E. Knox SPECIES
 
 #### Status
 ACCEPTED

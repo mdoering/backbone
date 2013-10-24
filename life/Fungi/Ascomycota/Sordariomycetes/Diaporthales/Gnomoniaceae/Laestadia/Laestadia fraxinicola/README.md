@@ -1,5 +1,4 @@
-Laestadia fraxinicola (M.A. Curtis & Peck) Sacc. SPECIES
-=======
+# Laestadia fraxinicola (M.A. Curtis & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

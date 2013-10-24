@@ -1,5 +1,4 @@
-Laschia reticulata Berk. & Cooke SPECIES
-=======
+# Laschia reticulata Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

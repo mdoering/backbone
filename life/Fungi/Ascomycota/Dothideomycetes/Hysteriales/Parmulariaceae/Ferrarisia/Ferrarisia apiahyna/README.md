@@ -1,5 +1,4 @@
-Ferrarisia apiahyna (Speg.) Arx, 1962 SPECIES
-=======
+# Ferrarisia apiahyna (Speg.) Arx, 1962 SPECIES
 
 #### Status
 ACCEPTED

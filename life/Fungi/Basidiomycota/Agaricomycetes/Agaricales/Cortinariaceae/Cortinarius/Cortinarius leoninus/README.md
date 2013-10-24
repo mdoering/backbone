@@ -1,5 +1,4 @@
-Cortinarius leoninus (Velen.) G. Garnier SPECIES
-=======
+# Cortinarius leoninus (Velen.) G. Garnier SPECIES
 
 #### Status
 ACCEPTED

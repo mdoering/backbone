@@ -1,5 +1,4 @@
-Tricholoma ceriniceps Pegler SPECIES
-=======
+# Tricholoma ceriniceps Pegler SPECIES
 
 #### Status
 ACCEPTED

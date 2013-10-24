@@ -1,5 +1,4 @@
-Cyanisticta mallota (Tuck.) C.W. Dodge SPECIES
-=======
+# Cyanisticta mallota (Tuck.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED
