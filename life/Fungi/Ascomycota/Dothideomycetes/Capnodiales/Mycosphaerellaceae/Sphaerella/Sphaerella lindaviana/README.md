@@ -1,5 +1,4 @@
-Sphaerella lindaviana (Staritz) Sacc. SPECIES
-=======
+# Sphaerella lindaviana (Staritz) Sacc. SPECIES
 
 #### Status
 ACCEPTED

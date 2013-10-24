@@ -1,5 +1,4 @@
-Blastenia coaddita (Nyl.) Zahlbr. SPECIES
-=======
+# Blastenia coaddita (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

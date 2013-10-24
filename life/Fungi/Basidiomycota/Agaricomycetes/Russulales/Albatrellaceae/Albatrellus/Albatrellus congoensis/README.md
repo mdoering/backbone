@@ -1,5 +1,4 @@
-Albatrellus congoensis Ryvarden, 2000 SPECIES
-=======
+# Albatrellus congoensis Ryvarden, 2000 SPECIES
 
 #### Status
 ACCEPTED

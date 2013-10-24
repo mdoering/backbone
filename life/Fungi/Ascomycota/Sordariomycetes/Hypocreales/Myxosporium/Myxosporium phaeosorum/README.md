@@ -1,5 +1,4 @@
-Myxosporium phaeosorum Link, 1825 SPECIES
-=======
+# Myxosporium phaeosorum Link, 1825 SPECIES
 
 #### Status
 ACCEPTED

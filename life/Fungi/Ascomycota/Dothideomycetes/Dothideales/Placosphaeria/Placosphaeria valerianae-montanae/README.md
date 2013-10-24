@@ -1,5 +1,4 @@
-Placosphaeria valerianae-montanae Magnus SPECIES
-=======
+# Placosphaeria valerianae-montanae Magnus SPECIES
 
 #### Status
 ACCEPTED

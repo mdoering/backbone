@@ -1,5 +1,4 @@
-Lecanora biloculata (Nyl.) Nyl. SPECIES
-=======
+# Lecanora biloculata (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

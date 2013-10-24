@@ -1,5 +1,4 @@
-Valsa fulvella Berk. & Ravenel SPECIES
-=======
+# Valsa fulvella Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

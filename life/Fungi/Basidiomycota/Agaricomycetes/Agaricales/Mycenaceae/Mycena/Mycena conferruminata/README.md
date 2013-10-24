@@ -1,5 +1,4 @@
-Mycena conferruminata Berk. & Mont. SPECIES
-=======
+# Mycena conferruminata Berk. & Mont. SPECIES
 
 #### Status
 ACCEPTED

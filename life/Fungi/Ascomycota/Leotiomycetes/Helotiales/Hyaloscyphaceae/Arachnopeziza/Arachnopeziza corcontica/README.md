@@ -1,5 +1,4 @@
-Arachnopeziza corcontica Velen. SPECIES
-=======
+# Arachnopeziza corcontica Velen. SPECIES
 
 #### Status
 ACCEPTED

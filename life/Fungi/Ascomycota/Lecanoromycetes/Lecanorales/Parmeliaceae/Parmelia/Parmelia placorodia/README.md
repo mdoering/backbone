@@ -1,5 +1,4 @@
-Parmelia placorodia Ach. SPECIES
-=======
+# Parmelia placorodia Ach. SPECIES
 
 #### Status
 ACCEPTED

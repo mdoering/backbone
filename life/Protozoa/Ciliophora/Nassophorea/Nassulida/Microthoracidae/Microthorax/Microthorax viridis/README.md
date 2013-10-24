@@ -1,5 +1,4 @@
-Microthorax viridis Penard, 1922 SPECIES
-=======
+# Microthorax viridis Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

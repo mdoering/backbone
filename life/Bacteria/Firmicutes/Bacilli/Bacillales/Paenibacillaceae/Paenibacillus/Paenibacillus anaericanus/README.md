@@ -1,5 +1,4 @@
-Paenibacillus anaericanus Horn et al., 2005 SPECIES
-=======
+# Paenibacillus anaericanus Horn et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

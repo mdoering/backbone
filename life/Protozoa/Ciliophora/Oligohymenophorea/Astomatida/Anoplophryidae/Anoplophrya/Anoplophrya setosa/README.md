@@ -1,5 +1,4 @@
-Anoplophrya setosa Georgevitch, 1941 SPECIES
-=======
+# Anoplophrya setosa Georgevitch, 1941 SPECIES
 
 #### Status
 ACCEPTED

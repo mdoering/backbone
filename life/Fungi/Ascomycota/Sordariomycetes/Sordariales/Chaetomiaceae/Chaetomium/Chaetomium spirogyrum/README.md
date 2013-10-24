@@ -1,5 +1,4 @@
-Chaetomium spirogyrum Dreyfuss & Arx SPECIES
-=======
+# Chaetomium spirogyrum Dreyfuss & Arx SPECIES
 
 #### Status
 ACCEPTED

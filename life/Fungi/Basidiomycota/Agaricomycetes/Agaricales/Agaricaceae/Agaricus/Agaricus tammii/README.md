@@ -1,5 +1,4 @@
-Agaricus tammii Fr. SPECIES
-=======
+# Agaricus tammii Fr. SPECIES
 
 #### Status
 ACCEPTED

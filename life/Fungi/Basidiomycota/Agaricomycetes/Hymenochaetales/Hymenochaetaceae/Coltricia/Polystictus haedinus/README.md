@@ -1,5 +1,4 @@
-Polystictus haedinus (Berk.) Cooke SPECIES
-=======
+# Polystictus haedinus (Berk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylonites xylarioides Sal.-Cheb. & Locq. SPECIES
-=======
+# Hypoxylonites xylarioides Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus plicatus Lév. SPECIES
-=======
+# Polystictus plicatus Lév. SPECIES
 
 #### Status
 ACCEPTED

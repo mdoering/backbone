@@ -1,5 +1,4 @@
-Heterocalycina P.C.Silva, 1979 GENUS
-=======
+# Heterocalycina P.C.Silva, 1979 GENUS
 
 #### Status
 ACCEPTED

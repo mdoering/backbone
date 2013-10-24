@@ -1,5 +1,4 @@
-Stylonichia aurifrons Dumas SPECIES
-=======
+# Stylonichia aurifrons Dumas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudotaeniolina globosa De Leo, Urzì & De Hoog SPECIES
-=======
+# Pseudotaeniolina globosa De Leo, Urzì & De Hoog SPECIES
 
 #### Status
 ACCEPTED

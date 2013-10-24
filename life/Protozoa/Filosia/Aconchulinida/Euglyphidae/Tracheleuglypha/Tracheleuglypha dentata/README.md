@@ -1,11 +1,10 @@
-Euglypha beta Vejdovsky, 1882 SPECIES
-=======
+# Tracheleuglypha dentata (Vejdovsky, 1882) Deflandre, 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
 null

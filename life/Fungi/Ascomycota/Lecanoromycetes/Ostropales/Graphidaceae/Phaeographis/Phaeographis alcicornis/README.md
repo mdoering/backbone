@@ -1,5 +1,4 @@
-Phaeographis alcicornis Redinger SPECIES
-=======
+# Phaeographis alcicornis Redinger SPECIES
 
 #### Status
 ACCEPTED

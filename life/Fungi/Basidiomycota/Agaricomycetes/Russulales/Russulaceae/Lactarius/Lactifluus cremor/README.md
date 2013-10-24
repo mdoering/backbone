@@ -1,5 +1,4 @@
-Lactifluus cremor (Fr.) Kuntze SPECIES
-=======
+# Lactifluus cremor (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

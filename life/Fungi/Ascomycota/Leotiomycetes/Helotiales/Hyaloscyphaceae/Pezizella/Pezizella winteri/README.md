@@ -1,5 +1,4 @@
-Pezizella winteri (Rehm) Dennis SPECIES
-=======
+# Pezizella winteri (Rehm) Dennis SPECIES
 
 #### Status
 ACCEPTED

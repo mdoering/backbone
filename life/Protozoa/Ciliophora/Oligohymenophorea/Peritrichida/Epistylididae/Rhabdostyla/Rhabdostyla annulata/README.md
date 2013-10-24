@@ -1,5 +1,4 @@
-Rhabdostyla annulata Stokes, 1886 SPECIES
-=======
+# Rhabdostyla annulata Stokes, 1886 SPECIES
 
 #### Status
 ACCEPTED

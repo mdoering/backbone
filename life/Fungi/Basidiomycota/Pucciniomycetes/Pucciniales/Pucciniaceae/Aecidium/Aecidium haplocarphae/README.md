@@ -1,5 +1,4 @@
-Aecidium haplocarphae Gjaerum SPECIES
-=======
+# Aecidium haplocarphae Gjaerum SPECIES
 
 #### Status
 ACCEPTED

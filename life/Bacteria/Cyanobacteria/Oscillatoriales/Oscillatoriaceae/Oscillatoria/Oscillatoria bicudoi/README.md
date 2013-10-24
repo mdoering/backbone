@@ -1,5 +1,4 @@
-Oscillatoria bicudoi P. A. C. Senna SPECIES
-=======
+# Oscillatoria bicudoi P. A. C. Senna SPECIES
 
 #### Status
 ACCEPTED

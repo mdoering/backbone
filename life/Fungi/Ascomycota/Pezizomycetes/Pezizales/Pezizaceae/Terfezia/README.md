@@ -1,17 +1,16 @@
-Tulasneinia Zobel ex Corda GENUS
-=======
+# Terfezia (Tul. & C. Tul.) Tul. & C. Tul. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. fung. (Prague) 6: 64 (1854)
+Fungi hypog. 172 (1851)
 
 #### Original name
-Tulasneinia Zobel ex Corda
+null
 
 ### Remarks
 null

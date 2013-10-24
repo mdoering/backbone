@@ -1,5 +1,4 @@
-Asteromella allescheri (P. Syd.) Aa SPECIES
-=======
+# Asteromella allescheri (P. Syd.) Aa SPECIES
 
 #### Status
 ACCEPTED

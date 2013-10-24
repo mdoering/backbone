@@ -1,5 +1,4 @@
-Agaricus gracilioides Schulzer SPECIES
-=======
+# Agaricus gracilioides Schulzer SPECIES
 
 #### Status
 ACCEPTED

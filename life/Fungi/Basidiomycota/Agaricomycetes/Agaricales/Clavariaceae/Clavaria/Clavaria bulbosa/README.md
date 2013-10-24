@@ -1,5 +1,4 @@
-Clavaria bulbosa Schumach. SPECIES
-=======
+# Clavaria bulbosa Schumach. SPECIES
 
 #### Status
 ACCEPTED

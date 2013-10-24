@@ -1,5 +1,4 @@
-Mallomonas teilingii Conrad SPECIES
-=======
+# Mallomonas teilingii Conrad SPECIES
 
 #### Status
 ACCEPTED

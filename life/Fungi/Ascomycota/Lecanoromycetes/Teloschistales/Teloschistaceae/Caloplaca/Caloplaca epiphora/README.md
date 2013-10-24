@@ -1,17 +1,16 @@
-Caloplaca epiphora var. epiphora (Taylor) C.W. Dodge VARIETY
-=======
+# Caloplaca epiphora (Taylor) C. W. Dodge SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beih. Nova Hedwigia 38: 96 (1971)
 
 #### Original name
-Caloplaca epiphora var. epiphora (Taylor) C.W. Dodge
+Lecanora epiphora Taylor
 
 ### Remarks
 null

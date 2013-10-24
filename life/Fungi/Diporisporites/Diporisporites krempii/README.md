@@ -1,5 +1,4 @@
-Diporisporites krempii (C.P. Varma & Rawat) Elsik SPECIES
-=======
+# Diporisporites krempii (C.P. Varma & Rawat) Elsik SPECIES
 
 #### Status
 ACCEPTED

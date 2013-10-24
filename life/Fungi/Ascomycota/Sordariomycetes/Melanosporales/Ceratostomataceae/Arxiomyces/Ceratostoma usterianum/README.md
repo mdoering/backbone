@@ -1,5 +1,4 @@
-Ceratostoma usterianum Speg. SPECIES
-=======
+# Ceratostoma usterianum Speg. SPECIES
 
 #### Status
 ACCEPTED

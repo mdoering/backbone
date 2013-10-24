@@ -1,5 +1,4 @@
-Nectriella artemisiae Fautrey SPECIES
-=======
+# Nectriella artemisiae Fautrey SPECIES
 
 #### Status
 ACCEPTED

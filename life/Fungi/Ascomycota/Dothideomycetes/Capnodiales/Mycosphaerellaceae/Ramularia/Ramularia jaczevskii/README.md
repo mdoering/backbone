@@ -1,5 +1,4 @@
-Ramularia jaczevskii (Negrean & Vlad) U. Braun SPECIES
-=======
+# Ramularia jaczevskii (Negrean & Vlad) U. Braun SPECIES
 
 #### Status
 ACCEPTED

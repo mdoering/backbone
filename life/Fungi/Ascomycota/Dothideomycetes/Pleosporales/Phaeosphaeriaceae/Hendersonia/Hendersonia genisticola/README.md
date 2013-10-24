@@ -1,5 +1,4 @@
-Hendersonia genisticola Hollós SPECIES
-=======
+# Hendersonia genisticola Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis incrustans (Fée) Nyl. SPECIES
-=======
+# Graphis incrustans (Fée) Nyl. SPECIES
 
 #### Status
 ACCEPTED

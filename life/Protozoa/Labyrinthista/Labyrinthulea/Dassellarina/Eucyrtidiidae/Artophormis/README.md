@@ -1,5 +1,4 @@
-Artophormis Haeckel, 1881 GENUS
-=======
+# Artophormis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

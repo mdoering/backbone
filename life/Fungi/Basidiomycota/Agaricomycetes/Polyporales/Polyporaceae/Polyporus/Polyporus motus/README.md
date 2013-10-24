@@ -1,5 +1,4 @@
-Polyporus motus Lloyd SPECIES
-=======
+# Polyporus motus Lloyd SPECIES
 
 #### Status
 ACCEPTED

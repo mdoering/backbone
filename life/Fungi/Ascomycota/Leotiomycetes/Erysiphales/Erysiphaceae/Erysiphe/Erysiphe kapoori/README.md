@@ -1,5 +1,4 @@
-Erysiphe kapoori Y.S. Paul & V. Thakur SPECIES
-=======
+# Erysiphe kapoori Y.S. Paul & V. Thakur SPECIES
 
 #### Status
 ACCEPTED

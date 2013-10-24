@@ -1,5 +1,4 @@
-Collema pycnocarpum f. pycnocarpum FORM
-=======
+# Collema pycnocarpum Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Collema pycnocarpum f. pycnocarpum
+Collema pycnocarpum Nyl.
 
 ### Remarks
 null

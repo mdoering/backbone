@@ -1,5 +1,4 @@
-Penicillium brevistipitatum L. Wang & W.Y. Zhuang SPECIES
-=======
+# Penicillium brevistipitatum L. Wang & W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

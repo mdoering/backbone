@@ -1,17 +1,16 @@
-Aspicilia cupreoatra var. albostieta Räsänen VARIETY
-=======
+# Immersaria cupreoatra (Nyl.) Calat. & Rambold SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Aspicilia cupreoatra var. albostieta Räsänen
+null
 
 ### Remarks
 null

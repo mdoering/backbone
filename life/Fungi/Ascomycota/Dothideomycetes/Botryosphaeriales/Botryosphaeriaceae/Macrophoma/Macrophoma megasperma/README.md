@@ -1,5 +1,4 @@
-Macrophoma megasperma (Speg.) Berl. & Voglino SPECIES
-=======
+# Macrophoma megasperma (Speg.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

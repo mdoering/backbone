@@ -1,5 +1,4 @@
-Verrucaria interlatens f. interlatens FORM
-=======
+# Verrucaria interlatens SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria interlatens f. interlatens
+null
 
 ### Remarks
 null

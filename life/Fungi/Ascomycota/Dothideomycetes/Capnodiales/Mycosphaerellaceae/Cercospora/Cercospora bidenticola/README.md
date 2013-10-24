@@ -1,5 +1,4 @@
-Cercospora bidenticola Chupp SPECIES
-=======
+# Cercospora bidenticola Chupp SPECIES
 
 #### Status
 ACCEPTED

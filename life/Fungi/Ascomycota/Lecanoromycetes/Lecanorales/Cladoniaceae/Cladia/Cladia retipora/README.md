@@ -1,14 +1,13 @@
-Clathrina retipora (Labill.) Müll. Arg. SPECIES
-=======
+# Cladia retipora (Labill.) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 66: 80 (1883)
+C. r. hebd. Séanc. Acad. Sci. , Paris 83: 88 (1876)
 
 #### Original name
 Baeomyces retiporus Labill.

@@ -1,5 +1,4 @@
-Pezizella minima (Fr.) Sacc. SPECIES
-=======
+# Pezizella minima (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vasicola Tatem, 1869 GENUS
-=======
+# Vasicola Tatem, 1869 GENUS
 
 #### Status
 ACCEPTED

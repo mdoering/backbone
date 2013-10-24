@@ -1,14 +1,13 @@
-Tubulicrinis angusta (D.P. Rogers & Weresub) Donk SPECIES
-=======
+# Tubulicrinis angustus (D.P. Rogers & Weresub) Donk, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungus, Wageningen 26: 14 (1956)
 
 #### Original name
 Peniophora angusta D.P. Rogers & Weresub, 1953

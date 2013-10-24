@@ -1,5 +1,4 @@
-Clitocybe cremea Velen. SPECIES
-=======
+# Clitocybe cremea Velen. SPECIES
 
 #### Status
 ACCEPTED

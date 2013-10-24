@@ -1,5 +1,4 @@
-Aleurina ochracea (Massee & Rodway) Sacc. & D. Sacc. SPECIES
-=======
+# Aleurina ochracea (Massee & Rodway) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

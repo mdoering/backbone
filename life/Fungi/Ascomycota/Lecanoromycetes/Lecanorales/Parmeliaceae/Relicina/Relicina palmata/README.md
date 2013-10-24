@@ -1,5 +1,4 @@
-Relicina palmata Elix SPECIES
-=======
+# Relicina palmata Elix SPECIES
 
 #### Status
 ACCEPTED

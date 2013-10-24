@@ -1,17 +1,16 @@
-Oudemansiella xeruloides var. xeruloides Bon VARIETY
-=======
+# Xerula xeruloides (Bon) Dörfelt, 1980 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 5(no. 17): 31 (1975)
+Feddes Repert. Spec. Nov. Regni Veg. 91(4): 216 (1980)
 
 #### Original name
-Oudemansiella xeruloides var. xeruloides Bon
+Oudemansiella xeruloides Bon, 1975
 
 ### Remarks
 null

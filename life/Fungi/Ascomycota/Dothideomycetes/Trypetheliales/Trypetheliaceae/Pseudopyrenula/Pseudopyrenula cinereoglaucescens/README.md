@@ -1,5 +1,4 @@
-Pseudopyrenula cinereoglaucescens Vain. SPECIES
-=======
+# Pseudopyrenula cinereoglaucescens Vain. SPECIES
 
 #### Status
 ACCEPTED

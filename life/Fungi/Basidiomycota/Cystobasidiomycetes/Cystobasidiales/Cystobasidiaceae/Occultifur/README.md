@@ -1,5 +1,4 @@
-Occultifur Oberw. GENUS
-=======
+# Occultifur Oberw. GENUS
 
 #### Status
 ACCEPTED

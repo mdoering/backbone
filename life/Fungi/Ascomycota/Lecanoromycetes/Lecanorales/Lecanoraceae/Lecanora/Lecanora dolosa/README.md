@@ -1,5 +1,4 @@
-Lecanora dolosa Motyka SPECIES
-=======
+# Lecanora dolosa Motyka SPECIES
 
 #### Status
 ACCEPTED

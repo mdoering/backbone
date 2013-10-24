@@ -1,5 +1,4 @@
-Leiosphaeridia ketchenata Turner, 1984 SPECIES
-=======
+# Leiosphaeridia ketchenata Turner, 1984 SPECIES
 
 #### Status
 ACCEPTED

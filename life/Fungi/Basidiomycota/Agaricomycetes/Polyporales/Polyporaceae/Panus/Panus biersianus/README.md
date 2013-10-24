@@ -1,5 +1,4 @@
-Panus biersianus Har. & Pat. SPECIES
-=======
+# Panus biersianus Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

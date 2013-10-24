@@ -1,17 +1,16 @@
-Helmisporium nodipes Penz. & Sacc. SPECIES
-=======
+# Penzigomyces nodipes (Penz. & Sacc.) Subram., 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. Indian natn Sci. Acad. , Part B. Biol. Sci. 58(4): 186 (1992)
 
 #### Original name
-Helmisporium nodipes Penz. & Sacc.
+Helminthosporium nodipes Penz. & Sacc., 1901
 
 ### Remarks
 null

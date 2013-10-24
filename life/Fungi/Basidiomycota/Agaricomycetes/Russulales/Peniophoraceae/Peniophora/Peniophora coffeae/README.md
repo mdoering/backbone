@@ -1,5 +1,4 @@
-Peniophora coffeae Zimm. SPECIES
-=======
+# Peniophora coffeae Zimm. SPECIES
 
 #### Status
 ACCEPTED

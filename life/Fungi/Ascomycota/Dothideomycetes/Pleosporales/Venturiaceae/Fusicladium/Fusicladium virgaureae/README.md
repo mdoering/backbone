@@ -1,5 +1,4 @@
-Fusicladium virgaureae Ondrej SPECIES
-=======
+# Fusicladium virgaureae Ondrej SPECIES
 
 #### Status
 ACCEPTED

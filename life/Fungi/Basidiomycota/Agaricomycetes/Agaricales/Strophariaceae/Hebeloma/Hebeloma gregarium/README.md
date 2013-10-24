@@ -1,5 +1,4 @@
-Hebeloma gregarium Peck SPECIES
-=======
+# Hebeloma gregarium Peck SPECIES
 
 #### Status
 ACCEPTED

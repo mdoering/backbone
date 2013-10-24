@@ -1,5 +1,4 @@
-Phanerochaete exigua (Burt) Nakasone, Burds. & Lodge SPECIES
-=======
+# Phanerochaete exigua (Burt) Nakasone, Burds. & Lodge SPECIES
 
 #### Status
 ACCEPTED

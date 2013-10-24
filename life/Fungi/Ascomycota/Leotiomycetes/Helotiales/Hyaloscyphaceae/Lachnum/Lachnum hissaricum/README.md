@@ -1,5 +1,4 @@
-Lachnum hissaricum (Raitv. & Faizova) Raitv. SPECIES
-=======
+# Lachnum hissaricum (Raitv. & Faizova) Raitv. SPECIES
 
 #### Status
 ACCEPTED

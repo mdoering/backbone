@@ -1,5 +1,4 @@
-Siphula gracilis Kantvilas SPECIES
-=======
+# Siphula gracilis Kantvilas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina guaranitica Speg., 1888 SPECIES
-=======
+# Asterina guaranitica Speg., 1888 SPECIES
 
 #### Status
 ACCEPTED

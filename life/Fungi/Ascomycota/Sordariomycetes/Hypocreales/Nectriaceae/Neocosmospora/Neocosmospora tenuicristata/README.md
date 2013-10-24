@@ -1,5 +1,4 @@
-Neocosmospora tenuicristata S. Ueda & Udagawa, 1983 SPECIES
-=======
+# Neocosmospora tenuicristata S. Ueda & Udagawa, 1983 SPECIES
 
 #### Status
 ACCEPTED

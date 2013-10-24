@@ -1,5 +1,4 @@
-Sarcostroma restionis S.J. Lee & Crous SPECIES
-=======
+# Sarcostroma restionis S.J. Lee & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendryphion pulchrum Richon SPECIES
-=======
+# Dendryphion pulchrum Richon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agathamminoides Vangerow, 1964 GENUS
-=======
+# Agathamminoides Vangerow, 1964 GENUS
 
 #### Status
 ACCEPTED

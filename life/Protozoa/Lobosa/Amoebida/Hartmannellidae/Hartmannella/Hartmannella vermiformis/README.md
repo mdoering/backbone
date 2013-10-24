@@ -1,5 +1,4 @@
-Hartmannella vermiformis Page, 1967 SPECIES
-=======
+# Hartmannella vermiformis Page, 1967 SPECIES
 
 #### Status
 ACCEPTED

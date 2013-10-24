@@ -1,17 +1,16 @@
-Robertomyces Starbäck GENUS
-=======
+# Bagnisiella Speg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ark. Bot. 5(7): 5 (1905)
+Anal. Soc. cient. argent. 10: 146 (1880)
 
 #### Original name
-Robertomyces Starbäck
+Bagnisiella Speg.
 
 ### Remarks
 null

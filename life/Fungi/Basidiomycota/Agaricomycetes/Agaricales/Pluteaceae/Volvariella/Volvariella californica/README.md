@@ -1,5 +1,4 @@
-Volvariella californica (Earle) Singer SPECIES
-=======
+# Volvariella californica (Earle) Singer SPECIES
 
 #### Status
 ACCEPTED

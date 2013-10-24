@@ -1,5 +1,4 @@
-Ancistrocoma primigenius (Chatton & Lwoff, 1950) SPECIES
-=======
+# Ancistrocoma primigenius (Chatton & Lwoff, 1950) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcographa tricosula (Nyl.) Zahlbr. SPECIES
-=======
+# Sarcographa tricosula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

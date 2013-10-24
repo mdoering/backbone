@@ -1,5 +1,4 @@
-Depazea bidentis Lasch SPECIES
-=======
+# Depazea bidentis Lasch SPECIES
 
 #### Status
 ACCEPTED

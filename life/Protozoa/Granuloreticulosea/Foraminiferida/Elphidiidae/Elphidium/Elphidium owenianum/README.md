@@ -1,5 +1,4 @@
-Elphidium owenianum SPECIES
-=======
+# Elphidium owenianum SPECIES
 
 #### Status
 ACCEPTED

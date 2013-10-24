@@ -1,5 +1,4 @@
-Ramularia lethalis Ellis & Everh. SPECIES
-=======
+# Ramularia lethalis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporisorium thelepogonis Vánky SPECIES
-=======
+# Sporisorium thelepogonis Vánky SPECIES
 
 #### Status
 ACCEPTED

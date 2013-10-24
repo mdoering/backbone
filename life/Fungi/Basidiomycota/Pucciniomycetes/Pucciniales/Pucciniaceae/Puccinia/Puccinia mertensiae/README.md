@@ -1,5 +1,4 @@
-Puccinia mertensiae Peck SPECIES
-=======
+# Puccinia mertensiae Peck SPECIES
 
 #### Status
 ACCEPTED

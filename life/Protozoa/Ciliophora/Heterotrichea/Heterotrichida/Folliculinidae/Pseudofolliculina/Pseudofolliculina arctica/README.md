@@ -1,8 +1,7 @@
-Pedifolliculina arctica (Dons, 1914) Hadzi, 1951 SPECIES
-=======
+# Pseudofolliculina arctica Dons, 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

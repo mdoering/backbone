@@ -1,5 +1,4 @@
-Perisporium ocellulatum Ces. SPECIES
-=======
+# Perisporium ocellulatum Ces. SPECIES
 
 #### Status
 ACCEPTED

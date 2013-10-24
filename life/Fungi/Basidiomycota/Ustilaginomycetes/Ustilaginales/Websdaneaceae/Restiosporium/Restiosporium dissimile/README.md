@@ -1,5 +1,4 @@
-Restiosporium dissimile Vánky & McKenzie, 2002 SPECIES
-=======
+# Restiosporium dissimile Vánky & McKenzie, 2002 SPECIES
 
 #### Status
 ACCEPTED

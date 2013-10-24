@@ -1,14 +1,13 @@
-Rhodocybe ianthinocystis Singer, 1952 SPECIES
-=======
+# Omphaliaster ianthinocystis (Singer) T.J. Baroni, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Singer & Digilio, Lilloa 25: 427 (1952)
+Beih. Nova Hedwigia 67: 115 (1981)
 
 #### Original name
 Rhodocybe ianthinocystis Singer, 1952

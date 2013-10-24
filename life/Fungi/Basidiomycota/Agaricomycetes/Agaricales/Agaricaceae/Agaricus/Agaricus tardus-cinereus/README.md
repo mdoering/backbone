@@ -1,5 +1,4 @@
-Agaricus tardus-cinereus Pers. SPECIES
-=======
+# Agaricus tardus-cinereus Pers. SPECIES
 
 #### Status
 ACCEPTED

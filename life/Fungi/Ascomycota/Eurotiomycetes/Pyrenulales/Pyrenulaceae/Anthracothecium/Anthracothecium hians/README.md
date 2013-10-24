@@ -1,5 +1,4 @@
-Anthracothecium hians Müll. Arg. SPECIES
-=======
+# Anthracothecium hians Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

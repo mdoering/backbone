@@ -1,5 +1,4 @@
-Porina insulata (Fée) Müll. Arg. SPECIES
-=======
+# Porina insulata (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

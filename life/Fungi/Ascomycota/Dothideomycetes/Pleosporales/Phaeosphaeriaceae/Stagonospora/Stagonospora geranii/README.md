@@ -1,5 +1,4 @@
-Stagonospora geranii Cruchet SPECIES
-=======
+# Stagonospora geranii Cruchet SPECIES
 
 #### Status
 ACCEPTED

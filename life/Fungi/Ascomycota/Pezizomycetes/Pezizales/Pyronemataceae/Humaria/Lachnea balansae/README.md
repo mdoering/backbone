@@ -1,5 +1,4 @@
-Lachnea balansae Speg. SPECIES
-=======
+# Lachnea balansae Speg. SPECIES
 
 #### Status
 ACCEPTED

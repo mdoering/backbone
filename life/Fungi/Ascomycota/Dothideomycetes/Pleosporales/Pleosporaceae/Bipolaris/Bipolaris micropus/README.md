@@ -1,14 +1,13 @@
-Drechslera micropa (Drechsler) Subram. & B.L. Jain SPECIES
-=======
+# Bipolaris micropus (Drechsler) Shoemaker, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 37: 884 (1959)
 
 #### Original name
 Helminthosporium micropus Drechsler, 1923

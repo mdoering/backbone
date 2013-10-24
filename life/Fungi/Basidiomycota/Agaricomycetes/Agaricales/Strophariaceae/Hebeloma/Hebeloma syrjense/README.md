@@ -1,5 +1,4 @@
-Hebeloma syrjense P. Karst., 1879 SPECIES
-=======
+# Hebeloma syrjense P. Karst., 1879 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endogone irregularis Szem. SPECIES
-=======
+# Endogone irregularis Szem. SPECIES
 
 #### Status
 ACCEPTED

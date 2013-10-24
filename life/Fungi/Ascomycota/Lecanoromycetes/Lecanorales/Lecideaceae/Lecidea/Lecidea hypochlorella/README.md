@@ -1,5 +1,4 @@
-Lecidea hypochlorella Vain. SPECIES
-=======
+# Lecidea hypochlorella Vain. SPECIES
 
 #### Status
 ACCEPTED

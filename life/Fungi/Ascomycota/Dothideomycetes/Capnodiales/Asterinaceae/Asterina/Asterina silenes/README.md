@@ -1,5 +1,4 @@
-Asterina silenes (Niessl) Sacc. SPECIES
-=======
+# Asterina silenes (Niessl) Sacc. SPECIES
 
 #### Status
 ACCEPTED

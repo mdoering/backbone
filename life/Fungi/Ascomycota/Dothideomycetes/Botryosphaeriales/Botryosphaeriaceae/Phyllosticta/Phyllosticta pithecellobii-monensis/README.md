@@ -1,17 +1,16 @@
-Phyllosticta pithecolobii-monensis E. Young ex Sacc. SPECIES
-=======
+# Phyllosticta pithecellobii-monensis E. Young SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 7(3): 145 (1915)
 
 #### Original name
-Phyllosticta pithecolobii-monensis E. Young ex Sacc.
+Phyllosticta pithecellobii-monensis E. Young
 
 ### Remarks
 null

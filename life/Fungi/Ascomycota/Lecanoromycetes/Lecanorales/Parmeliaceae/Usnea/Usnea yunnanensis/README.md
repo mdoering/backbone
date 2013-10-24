@@ -1,5 +1,4 @@
-Usnea yunnanensis J.C. Wei SPECIES
-=======
+# Usnea yunnanensis J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tripospermum camelopardus Ingold, Dann & P.J. McDougall, 1968 SPECIES
-=======
+# Tripospermum camelopardus Ingold, Dann & P.J. McDougall, 1968 SPECIES
 
 #### Status
 ACCEPTED

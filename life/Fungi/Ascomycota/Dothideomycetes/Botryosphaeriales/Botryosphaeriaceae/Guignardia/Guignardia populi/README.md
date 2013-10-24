@@ -1,5 +1,4 @@
-Guignardia populi G.E. Thomps. SPECIES
-=======
+# Guignardia populi G.E. Thomps. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthoseptobasidium Rick GENUS
-=======
+# Anthoseptobasidium Rick GENUS
 
 #### Status
 ACCEPTED

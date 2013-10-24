@@ -1,5 +1,4 @@
-Russula striatoviridis Buyck SPECIES
-=======
+# Russula striatoviridis Buyck SPECIES
 
 #### Status
 ACCEPTED

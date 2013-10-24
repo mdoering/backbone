@@ -1,5 +1,4 @@
-Urocystis koeleriae L. Guo, 2005 SPECIES
-=======
+# Urocystis koeleriae L. Guo, 2005 SPECIES
 
 #### Status
 ACCEPTED

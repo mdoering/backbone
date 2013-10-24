@@ -1,17 +1,16 @@
-Depazea meliloti Lasch SPECIES
-=======
+# Stagonospora meliloti (Lasch) Petr., 1920 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. N. Y. St. Mus. 42 (1921)
 
 #### Original name
-Depazea meliloti Lasch
+Stagonospora meliloti (Lasch) Petr., 1920
 
 ### Remarks
 null

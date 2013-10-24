@@ -1,5 +1,4 @@
-Phyllosticta tinctoriae Shreem. SPECIES
-=======
+# Phyllosticta tinctoriae Shreem. SPECIES
 
 #### Status
 ACCEPTED

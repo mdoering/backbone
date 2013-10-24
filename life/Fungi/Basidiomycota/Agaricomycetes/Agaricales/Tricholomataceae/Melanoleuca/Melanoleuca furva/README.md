@@ -1,5 +1,4 @@
-Melanoleuca furva (Fr.) Neuhoff SPECIES
-=======
+# Melanoleuca furva (Fr.) Neuhoff SPECIES
 
 #### Status
 ACCEPTED

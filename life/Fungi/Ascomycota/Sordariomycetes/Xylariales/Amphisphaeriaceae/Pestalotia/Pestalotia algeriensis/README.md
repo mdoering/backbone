@@ -1,14 +1,13 @@
-Pestalotiopsis algeriensis (Sacc. & Berl.) W.P. Wu, 1992 SPECIES
-=======
+# Pestalotia algeriensis (Sacc. & Berl.) Guba, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Journal of the Hebei Academy of Sciences 70 (1992)
+Monograph of Monochaetia and Pestalotia 124 (1961)
 
 #### Original name
 Pestalotia funerea var. algeriensis Sacc. & Berl., 1886

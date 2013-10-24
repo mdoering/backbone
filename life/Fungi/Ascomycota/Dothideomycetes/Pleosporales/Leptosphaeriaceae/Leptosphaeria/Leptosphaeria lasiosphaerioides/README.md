@@ -1,5 +1,4 @@
-Leptosphaeria lasiosphaerioides Starbäck & Grevill. SPECIES
-=======
+# Leptosphaeria lasiosphaerioides Starbäck & Grevill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dirinaria frostii (Tuck.) Hale & W. L. Culb. SPECIES
-=======
+# Dirinaria frostii (Tuck.) Hale & W. L. Culb. SPECIES
 
 #### Status
 ACCEPTED

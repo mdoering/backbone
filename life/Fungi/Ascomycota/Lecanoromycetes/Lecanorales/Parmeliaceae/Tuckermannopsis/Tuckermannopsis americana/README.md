@@ -1,5 +1,4 @@
-Tuckermannopsis americana (Spreng.) Hale SPECIES
-=======
+# Tuckermannopsis americana (Spreng.) Hale SPECIES
 
 #### Status
 ACCEPTED

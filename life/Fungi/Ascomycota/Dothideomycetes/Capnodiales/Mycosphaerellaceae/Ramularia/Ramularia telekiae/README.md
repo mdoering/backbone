@@ -1,5 +1,4 @@
-Ramularia telekiae Siemaszko SPECIES
-=======
+# Ramularia telekiae Siemaszko SPECIES
 
 #### Status
 ACCEPTED

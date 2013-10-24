@@ -1,17 +1,16 @@
-Clavaria uncialis subsp. uncialis Grev. SUBSPECIES
-=======
+# Typhula uncialis (Grev.) Berthier, 1976 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Scott. crypt. fl. (Edinburgh) 2(fasc. 20): tab. 98 (1824)
+Bull. mens. Soc. linn. Lyon 45: 83 (1976)
 
 #### Original name
-Clavaria uncialis subsp. uncialis Grev.
+Clavaria uncialis Grev., 1824
 
 ### Remarks
 null

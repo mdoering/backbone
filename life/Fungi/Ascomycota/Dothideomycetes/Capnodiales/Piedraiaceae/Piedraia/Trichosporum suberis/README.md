@@ -1,5 +1,4 @@
-Trichosporum suberis Henriq. SPECIES
-=======
+# Trichosporum suberis Henriq. SPECIES
 
 #### Status
 ACCEPTED

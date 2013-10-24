@@ -1,5 +1,4 @@
-Curreya corni Dearn. SPECIES
-=======
+# Curreya corni Dearn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laminaria longicrurus Bach. Pyl. SPECIES
-=======
+# Laminaria longicrurus Bach. Pyl. SPECIES
 
 #### Status
 ACCEPTED

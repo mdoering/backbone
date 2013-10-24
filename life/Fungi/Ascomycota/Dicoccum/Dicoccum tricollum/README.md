@@ -1,5 +1,4 @@
-Dicoccum tricollum Corda SPECIES
-=======
+# Dicoccum tricollum Corda SPECIES
 
 #### Status
 ACCEPTED

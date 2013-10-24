@@ -1,5 +1,4 @@
-Prototrematosphaeridium B.V. Timofeev, 1962 GENUS
-=======
+# Prototrematosphaeridium B.V. Timofeev, 1962 GENUS
 
 #### Status
 ACCEPTED

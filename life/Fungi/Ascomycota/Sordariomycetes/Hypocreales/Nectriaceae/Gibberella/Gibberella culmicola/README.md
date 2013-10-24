@@ -1,5 +1,4 @@
-Gibberella culmicola I. Hino & Katum. SPECIES
-=======
+# Gibberella culmicola I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

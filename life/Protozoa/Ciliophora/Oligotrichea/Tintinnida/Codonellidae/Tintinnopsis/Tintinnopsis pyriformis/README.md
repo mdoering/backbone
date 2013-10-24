@@ -1,5 +1,4 @@
-Tintinnopsis pyriformis SPECIES
-=======
+# Tintinnopsis pyriformis SPECIES
 
 #### Status
 ACCEPTED

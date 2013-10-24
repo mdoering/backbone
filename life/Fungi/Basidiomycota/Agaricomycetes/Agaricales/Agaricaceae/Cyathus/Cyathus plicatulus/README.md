@@ -1,5 +1,4 @@
-Cyathus plicatulus Paepp. {?} SPECIES
-=======
+# Cyathus plicatulus Paepp. {?} SPECIES
 
 #### Status
 ACCEPTED

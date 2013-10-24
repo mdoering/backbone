@@ -1,5 +1,4 @@
-Puccinia cladii Ellis & Tracy, 1895 SPECIES
-=======
+# Puccinia cladii Ellis & Tracy, 1895 SPECIES
 
 #### Status
 ACCEPTED

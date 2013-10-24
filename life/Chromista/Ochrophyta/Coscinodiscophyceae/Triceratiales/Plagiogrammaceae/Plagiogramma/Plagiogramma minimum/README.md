@@ -1,5 +1,4 @@
-Plagiogramma minimum Salah SPECIES
-=======
+# Plagiogramma minimum Salah SPECIES
 
 #### Status
 ACCEPTED

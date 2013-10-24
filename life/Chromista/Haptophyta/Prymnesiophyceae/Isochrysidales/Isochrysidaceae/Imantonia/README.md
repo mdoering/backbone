@@ -1,5 +1,4 @@
-Imantonia N.Reynolds, 1974 GENUS
-=======
+# Imantonia N.Reynolds, 1974 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo isicae Thüm. SPECIES
-=======
+# Uredo isicae Thüm. SPECIES
 
 #### Status
 ACCEPTED

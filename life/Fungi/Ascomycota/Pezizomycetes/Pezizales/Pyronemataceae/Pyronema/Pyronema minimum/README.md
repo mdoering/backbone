@@ -1,5 +1,4 @@
-Pyronema minimum Velen. SPECIES
-=======
+# Pyronema minimum Velen. SPECIES
 
 #### Status
 ACCEPTED

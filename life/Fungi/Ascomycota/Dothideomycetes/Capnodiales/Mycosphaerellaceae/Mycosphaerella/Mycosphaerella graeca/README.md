@@ -1,5 +1,4 @@
-Mycosphaerella graeca Petr. SPECIES
-=======
+# Mycosphaerella graeca Petr. SPECIES
 
 #### Status
 ACCEPTED

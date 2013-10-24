@@ -1,5 +1,4 @@
-Hendersonia hydrangeae Fairm. SPECIES
-=======
+# Hendersonia hydrangeae Fairm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microthelia denudata (Ellis & Galloway) Kuntze SPECIES
-=======
+# Microthelia denudata (Ellis & Galloway) Kuntze SPECIES
 
 #### Status
 ACCEPTED

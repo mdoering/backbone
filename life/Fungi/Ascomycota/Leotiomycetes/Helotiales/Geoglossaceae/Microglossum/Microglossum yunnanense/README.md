@@ -1,5 +1,4 @@
-Microglossum yunnanense Pat. SPECIES
-=======
+# Microglossum yunnanense Pat. SPECIES
 
 #### Status
 ACCEPTED

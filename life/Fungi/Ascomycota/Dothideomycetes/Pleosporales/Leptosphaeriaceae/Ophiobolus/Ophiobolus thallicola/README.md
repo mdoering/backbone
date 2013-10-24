@@ -1,5 +1,4 @@
-Ophiobolus thallicola (Ces. & De Not.) Sacc. SPECIES
-=======
+# Ophiobolus thallicola (Ces. & De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

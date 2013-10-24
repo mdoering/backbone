@@ -1,5 +1,4 @@
-Coryneum pulvinatum Kunze & J.C. Schmidt SPECIES
-=======
+# Coryneum pulvinatum Kunze & J.C. Schmidt SPECIES
 
 #### Status
 ACCEPTED

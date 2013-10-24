@@ -1,5 +1,4 @@
-Clitocybe mexicana Murrill SPECIES
-=======
+# Clitocybe mexicana Murrill SPECIES
 
 #### Status
 ACCEPTED

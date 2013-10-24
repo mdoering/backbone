@@ -1,5 +1,4 @@
-Laboulbenia ansodactylicola Speg. SPECIES
-=======
+# Laboulbenia ansodactylicola Speg. SPECIES
 
 #### Status
 ACCEPTED

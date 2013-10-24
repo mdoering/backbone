@@ -1,17 +1,16 @@
-Puccinia cnici var. cnici VARIETY
-=======
+# Puccinia cnici H. Mart., 1817 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Prodr. Fl. Mosq. , Edn 2 227 (1817)
+Prodr. Fl. Mosq. , Edn 2 2: 227 (1817)
 
 #### Original name
-Puccinia cnici var. cnici
+Puccinia cnici H. Mart., 1817
 
 ### Remarks
 null

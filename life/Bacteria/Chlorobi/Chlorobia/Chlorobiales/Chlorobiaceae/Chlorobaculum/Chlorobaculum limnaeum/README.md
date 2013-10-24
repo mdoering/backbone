@@ -1,5 +1,4 @@
-Chlorobaculum limnaeum Imhoff, 2003 SPECIES
-=======
+# Chlorobaculum limnaeum Imhoff, 2003 SPECIES
 
 #### Status
 ACCEPTED

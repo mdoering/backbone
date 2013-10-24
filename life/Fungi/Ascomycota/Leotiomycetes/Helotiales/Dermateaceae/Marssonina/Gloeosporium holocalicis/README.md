@@ -1,17 +1,16 @@
-Gloeosporium holocalycis Speg. SPECIES
-=======
+# Gloeosporium holocalicis Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Mus. nac. B. Aires, Ser. 3 20(13): 403 (1910)
 
 #### Original name
-Gloeosporium holocalycis Speg.
+Gloeosporium holocalicis Speg.
 
 ### Remarks
 null

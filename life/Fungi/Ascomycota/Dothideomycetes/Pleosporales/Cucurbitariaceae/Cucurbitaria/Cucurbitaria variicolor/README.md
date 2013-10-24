@@ -1,5 +1,4 @@
-Cucurbitaria variicolor (Fuckel) Kuntze SPECIES
-=======
+# Cucurbitaria variicolor (Fuckel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geastrum setiferum Baseia, 2002 SPECIES
-=======
+# Geastrum setiferum Baseia, 2002 SPECIES
 
 #### Status
 ACCEPTED

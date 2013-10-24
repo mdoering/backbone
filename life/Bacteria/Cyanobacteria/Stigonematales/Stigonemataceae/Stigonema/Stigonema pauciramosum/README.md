@@ -1,5 +1,4 @@
-Stigonema pauciramosum Gardner SPECIES
-=======
+# Stigonema pauciramosum Gardner SPECIES
 
 #### Status
 ACCEPTED

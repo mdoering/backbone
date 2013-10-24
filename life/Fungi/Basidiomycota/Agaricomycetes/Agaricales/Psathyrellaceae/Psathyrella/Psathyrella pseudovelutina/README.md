@@ -1,5 +1,4 @@
-Psathyrella pseudovelutina Guzmán, Bandala & Montoya SPECIES
-=======
+# Psathyrella pseudovelutina Guzmán, Bandala & Montoya SPECIES
 
 #### Status
 ACCEPTED

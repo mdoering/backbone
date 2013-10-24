@@ -1,5 +1,4 @@
-Clavaria sculpta Beck SPECIES
-=======
+# Clavaria sculpta Beck SPECIES
 
 #### Status
 ACCEPTED

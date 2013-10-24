@@ -1,5 +1,4 @@
-Paracapnodium GENUS
-=======
+# Paracapnodium GENUS
 
 #### Status
 ACCEPTED

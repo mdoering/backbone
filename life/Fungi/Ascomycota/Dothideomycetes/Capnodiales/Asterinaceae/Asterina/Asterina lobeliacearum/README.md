@@ -1,5 +1,4 @@
-Asterina lobeliacearum Hosag. & C.K. Biju SPECIES
-=======
+# Asterina lobeliacearum Hosag. & C.K. Biju SPECIES
 
 #### Status
 ACCEPTED

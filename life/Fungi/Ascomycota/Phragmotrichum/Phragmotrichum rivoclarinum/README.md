@@ -1,14 +1,13 @@
-Alysisporium rivoclarinum Peyronel, 1922 SPECIES
-=======
+# Phragmotrichum rivoclarinum (Peyronel) B. Sutton & Piroz., 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 38: (1922)
+Trans. Br. mycol. Soc. 49: 522 (1966)
 
 #### Original name
 Alysisporium rivoclarinum Peyronel, 1922

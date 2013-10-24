@@ -1,5 +1,4 @@
-Artobotrys Petrushevskaya, 1971 GENUS
-=======
+# Artobotrys Petrushevskaya, 1971 GENUS
 
 #### Status
 ACCEPTED

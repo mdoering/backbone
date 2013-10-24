@@ -1,5 +1,4 @@
-Paramaecium GENUS
-=======
+# Paramaecium GENUS
 
 #### Status
 ACCEPTED

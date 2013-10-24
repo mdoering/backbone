@@ -1,5 +1,4 @@
-Diplodina rhamni Hollós SPECIES
-=======
+# Diplodina rhamni Hollós SPECIES
 
 #### Status
 ACCEPTED

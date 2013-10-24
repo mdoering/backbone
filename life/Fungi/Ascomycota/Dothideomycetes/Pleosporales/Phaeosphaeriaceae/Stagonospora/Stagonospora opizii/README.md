@@ -1,5 +1,4 @@
-Stagonospora opizii Kupka {?} SPECIES
-=======
+# Stagonospora opizii Kupka {?} SPECIES
 
 #### Status
 ACCEPTED

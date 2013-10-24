@@ -1,5 +1,4 @@
-Tubaria privigna Speg. SPECIES
-=======
+# Tubaria privigna Speg. SPECIES
 
 #### Status
 ACCEPTED

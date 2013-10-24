@@ -1,5 +1,4 @@
-Panus cochlearis (Pers.) Fr. SPECIES
-=======
+# Panus cochlearis (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

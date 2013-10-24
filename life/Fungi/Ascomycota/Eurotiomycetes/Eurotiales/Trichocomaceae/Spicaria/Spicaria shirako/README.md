@@ -1,5 +1,4 @@
-Spicaria shirako Hara SPECIES
-=======
+# Spicaria shirako Hara SPECIES
 
 #### Status
 ACCEPTED

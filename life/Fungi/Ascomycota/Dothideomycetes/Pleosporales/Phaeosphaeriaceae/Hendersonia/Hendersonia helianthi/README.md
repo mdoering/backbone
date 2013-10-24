@@ -1,5 +1,4 @@
-Hendersonia helianthi Strasser SPECIES
-=======
+# Hendersonia helianthi Strasser SPECIES
 
 #### Status
 ACCEPTED

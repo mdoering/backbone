@@ -1,5 +1,4 @@
-Nakaseomyces Kurtzman GENUS
-=======
+# Nakaseomyces Kurtzman GENUS
 
 #### Status
 ACCEPTED

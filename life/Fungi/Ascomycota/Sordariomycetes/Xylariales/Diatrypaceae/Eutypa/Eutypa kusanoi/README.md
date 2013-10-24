@@ -1,5 +1,4 @@
-Eutypa kusanoi Henn. SPECIES
-=======
+# Eutypa kusanoi Henn. SPECIES
 
 #### Status
 ACCEPTED

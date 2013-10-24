@@ -1,5 +1,4 @@
-Amphisphaeria diplasia (Durieu & Mont.) Sacc. SPECIES
-=======
+# Amphisphaeria diplasia (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

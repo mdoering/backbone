@@ -1,17 +1,16 @@
-Sorosporium melandryi Syd. SPECIES
-=======
+# Sorosporium melandrii Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 32(3/4): 286 (1934)
 
 #### Original name
-Sorosporium melandryi Syd.
+Sorosporium melandrii Syd.
 
 ### Remarks
 null

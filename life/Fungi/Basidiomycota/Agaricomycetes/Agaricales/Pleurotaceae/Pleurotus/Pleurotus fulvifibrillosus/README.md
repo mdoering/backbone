@@ -1,5 +1,4 @@
-Pleurotus fulvifibrillosus Murrill SPECIES
-=======
+# Pleurotus fulvifibrillosus Murrill SPECIES
 
 #### Status
 ACCEPTED

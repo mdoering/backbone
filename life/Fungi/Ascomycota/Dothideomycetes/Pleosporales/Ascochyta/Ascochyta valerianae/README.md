@@ -1,5 +1,4 @@
-Ascochyta valerianae A.L. Sm. & Ramsb. SPECIES
-=======
+# Ascochyta valerianae A.L. Sm. & Ramsb. SPECIES
 
 #### Status
 ACCEPTED

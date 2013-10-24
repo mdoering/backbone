@@ -1,5 +1,4 @@
-Cortinarius tigris Bidaud SPECIES
-=======
+# Cortinarius tigris Bidaud SPECIES
 
 #### Status
 ACCEPTED

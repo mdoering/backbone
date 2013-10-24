@@ -1,5 +1,4 @@
-Ustilago togata Liro SPECIES
-=======
+# Ustilago togata Liro SPECIES
 
 #### Status
 ACCEPTED

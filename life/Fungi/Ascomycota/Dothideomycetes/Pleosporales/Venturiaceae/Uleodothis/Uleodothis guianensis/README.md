@@ -1,5 +1,4 @@
-Uleodothis guianensis (F. Stevens & Weedon) Thirum. & Jenkins SPECIES
-=======
+# Uleodothis guianensis (F. Stevens & Weedon) Thirum. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeophacidium Henn. & Lindau GENUS
-=======
+# Phaeophacidium Henn. & Lindau GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia tropica Nyl. SPECIES
-=======
+# Cladonia tropica Nyl. SPECIES
 
 #### Status
 ACCEPTED

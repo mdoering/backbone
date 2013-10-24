@@ -1,5 +1,4 @@
-Durietzia gotlandica (Du Rietz) Gyeln. SPECIES
-=======
+# Durietzia gotlandica (Du Rietz) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

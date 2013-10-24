@@ -1,5 +1,4 @@
-Chrysomyxa bombacis Petch SPECIES
-=======
+# Chrysomyxa bombacis Petch SPECIES
 
 #### Status
 ACCEPTED

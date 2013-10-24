@@ -1,5 +1,4 @@
-Venturia fagi M.E. Barr SPECIES
-=======
+# Venturia fagi M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

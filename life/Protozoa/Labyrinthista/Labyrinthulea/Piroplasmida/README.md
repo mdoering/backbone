@@ -1,5 +1,4 @@
-Actinopodea SUPERFAMILY
-=======
+# Piroplasmida ORDER
 
 #### Status
 ACCEPTED

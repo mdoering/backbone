@@ -1,5 +1,4 @@
-Clitocybe mycenopsis Velen. SPECIES
-=======
+# Clitocybe mycenopsis Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Perenniporia valliculorum Spirin & Zmitr. SPECIES
-=======
+# Perenniporia valliculorum Spirin & Zmitr. SPECIES
 
 #### Status
 ACCEPTED

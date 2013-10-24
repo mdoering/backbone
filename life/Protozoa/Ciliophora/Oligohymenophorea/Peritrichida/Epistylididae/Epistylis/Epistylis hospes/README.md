@@ -1,5 +1,4 @@
-Epistylis hospes Fromentel, 1876 SPECIES
-=======
+# Epistylis hospes Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

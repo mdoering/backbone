@@ -1,5 +1,4 @@
-Collybia fascicularis (Rick) Singer SPECIES
-=======
+# Collybia fascicularis (Rick) Singer SPECIES
 
 #### Status
 ACCEPTED

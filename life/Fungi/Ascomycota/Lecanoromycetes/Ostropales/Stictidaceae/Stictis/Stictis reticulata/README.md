@@ -1,5 +1,4 @@
-Stictis reticulata Sherwood SPECIES
-=======
+# Stictis reticulata Sherwood SPECIES
 
 #### Status
 ACCEPTED

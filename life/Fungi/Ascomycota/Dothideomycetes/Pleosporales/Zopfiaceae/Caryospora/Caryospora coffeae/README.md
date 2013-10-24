@@ -1,5 +1,4 @@
-Caryospora coffeae Pat. & Gaillard SPECIES
-=======
+# Caryospora coffeae Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

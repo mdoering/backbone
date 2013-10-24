@@ -1,5 +1,4 @@
-Geasteropsis GENUS
-=======
+# Geasteropsis GENUS
 
 #### Status
 ACCEPTED

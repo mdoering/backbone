@@ -1,5 +1,4 @@
-Capronia mycophila Schmid-Heckel SPECIES
-=======
+# Capronia mycophila Schmid-Heckel SPECIES
 
 #### Status
 ACCEPTED

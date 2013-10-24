@@ -1,5 +1,4 @@
-Phaeoisaria uniseptata Mercado SPECIES
-=======
+# Phaeoisaria uniseptata Mercado SPECIES
 
 #### Status
 ACCEPTED

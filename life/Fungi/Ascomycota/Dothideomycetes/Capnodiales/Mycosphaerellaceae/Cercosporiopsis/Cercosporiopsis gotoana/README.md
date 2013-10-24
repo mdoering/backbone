@@ -1,5 +1,4 @@
-Cercosporiopsis gotoana (Togashi) Miura SPECIES
-=======
+# Cercosporiopsis gotoana (Togashi) Miura SPECIES
 
 #### Status
 ACCEPTED

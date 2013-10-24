@@ -1,5 +1,4 @@
-Spirochaeta gracilis SPECIES
-=======
+# Spirochaeta gracilis SPECIES
 
 #### Status
 ACCEPTED

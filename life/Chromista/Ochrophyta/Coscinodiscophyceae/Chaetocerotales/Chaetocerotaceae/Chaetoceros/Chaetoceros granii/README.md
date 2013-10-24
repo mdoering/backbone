@@ -1,5 +1,4 @@
-Chaetoceros granii P.T. Cleve, 1900 SPECIES
-=======
+# Chaetoceros granii P.T. Cleve, 1900 SPECIES
 
 #### Status
 ACCEPTED

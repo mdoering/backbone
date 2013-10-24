@@ -1,5 +1,4 @@
-Sorosporium cynodontis L. Ling SPECIES
-=======
+# Sorosporium cynodontis L. Ling SPECIES
 
 #### Status
 ACCEPTED

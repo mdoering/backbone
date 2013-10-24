@@ -1,5 +1,4 @@
-Physalospora amaniensis Henn. SPECIES
-=======
+# Physalospora amaniensis Henn. SPECIES
 
 #### Status
 ACCEPTED

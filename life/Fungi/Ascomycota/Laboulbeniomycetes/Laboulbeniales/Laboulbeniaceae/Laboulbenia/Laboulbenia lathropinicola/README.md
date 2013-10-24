@@ -1,5 +1,4 @@
-Laboulbenia lathropinicola Speg. SPECIES
-=======
+# Laboulbenia lathropinicola Speg. SPECIES
 
 #### Status
 ACCEPTED

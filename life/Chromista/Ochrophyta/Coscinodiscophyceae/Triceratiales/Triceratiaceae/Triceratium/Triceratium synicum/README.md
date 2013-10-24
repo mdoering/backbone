@@ -1,5 +1,4 @@
-Triceratium synicum N. I. Strelnikova SPECIES
-=======
+# Triceratium synicum N. I. Strelnikova SPECIES
 
 #### Status
 ACCEPTED

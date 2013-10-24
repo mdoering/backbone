@@ -1,5 +1,4 @@
-Deuteromera cleava Bhatia & Setna, 1938 SPECIES
-=======
+# Deuteromera cleava Bhatia & Setna, 1938 SPECIES
 
 #### Status
 ACCEPTED

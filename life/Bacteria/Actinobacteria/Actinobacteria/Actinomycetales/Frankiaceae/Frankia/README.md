@@ -1,5 +1,4 @@
-Frankia GENUS
-=======
+# Frankia GENUS
 
 #### Status
 ACCEPTED

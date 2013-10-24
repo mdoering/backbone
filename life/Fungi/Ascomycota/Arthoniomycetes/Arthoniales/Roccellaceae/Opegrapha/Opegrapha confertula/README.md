@@ -1,5 +1,4 @@
-Opegrapha confertula Nyl. SPECIES
-=======
+# Opegrapha confertula Nyl. SPECIES
 
 #### Status
 ACCEPTED

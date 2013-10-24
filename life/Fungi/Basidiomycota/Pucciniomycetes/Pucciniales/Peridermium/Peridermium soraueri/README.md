@@ -1,5 +1,4 @@
-Peridermium soraueri Kleb. SPECIES
-=======
+# Peridermium soraueri Kleb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma ricini (Cooke) Sacc. SPECIES
-=======
+# Phoma ricini (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

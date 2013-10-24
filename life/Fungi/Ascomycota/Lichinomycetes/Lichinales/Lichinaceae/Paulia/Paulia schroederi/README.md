@@ -1,5 +1,4 @@
-Paulia schroederi (Zahlbr.) Henssen SPECIES
-=======
+# Paulia schroederi (Zahlbr.) Henssen SPECIES
 
 #### Status
 ACCEPTED

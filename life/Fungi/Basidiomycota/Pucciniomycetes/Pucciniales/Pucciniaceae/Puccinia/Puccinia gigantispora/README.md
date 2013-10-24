@@ -1,14 +1,13 @@
-Linkiella gigantispora (Bubák) Syd., 1921 SPECIES
-=======
+# Puccinia gigantispora Bubák, 1901 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 19: 173 (1921)
+Sitzungsberichte der Königlichen Böhmischen Gesellschaft der Wissenschaften Prag. 9 (1901)
 
 #### Original name
 Puccinia gigantispora Bubák, 1901

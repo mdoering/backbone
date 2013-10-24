@@ -1,5 +1,4 @@
-Verrucaria transwaalensis (Müll. Arg.) Stizenb. SPECIES
-=======
+# Verrucaria transwaalensis (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

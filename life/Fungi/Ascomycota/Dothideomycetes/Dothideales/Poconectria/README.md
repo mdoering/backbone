@@ -1,5 +1,4 @@
-Poconectria GENUS
-=======
+# Poconectria GENUS
 
 #### Status
 ACCEPTED

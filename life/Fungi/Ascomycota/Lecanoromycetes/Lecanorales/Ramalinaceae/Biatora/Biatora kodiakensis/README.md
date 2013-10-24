@@ -1,5 +1,4 @@
-Biatora kodiakensis Printzen & Tønsberg SPECIES
-=======
+# Biatora kodiakensis Printzen & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

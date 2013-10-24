@@ -1,5 +1,4 @@
-Fungus ochropodius (Mont.) Kuntze SPECIES
-=======
+# Fungus ochropodius (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

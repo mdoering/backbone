@@ -1,5 +1,4 @@
-Valsa variolaria (Schwein.) Cooke SPECIES
-=======
+# Valsa variolaria (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

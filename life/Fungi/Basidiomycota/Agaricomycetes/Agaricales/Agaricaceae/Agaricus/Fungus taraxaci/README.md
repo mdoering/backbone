@@ -1,5 +1,4 @@
-Fungus taraxaci (Krombh.) Kuntze SPECIES
-=======
+# Fungus taraxaci (Krombh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

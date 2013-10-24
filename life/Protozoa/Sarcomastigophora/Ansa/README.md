@@ -1,5 +1,4 @@
-Ansa Temirbekova in Magomedov & Temirbekova, 1978 GENUS
-=======
+# Ansa Temirbekova in Magomedov & Temirbekova, 1978 GENUS
 
 #### Status
 ACCEPTED

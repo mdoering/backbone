@@ -1,5 +1,4 @@
-Fusicladium fuscescens Rabenh. SPECIES
-=======
+# Fusicladium fuscescens Rabenh. SPECIES
 
 #### Status
 ACCEPTED

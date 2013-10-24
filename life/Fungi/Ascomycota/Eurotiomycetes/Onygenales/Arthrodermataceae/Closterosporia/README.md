@@ -1,5 +1,4 @@
-Closterosporia GENUS
-=======
+# Closterosporia GENUS
 
 #### Status
 ACCEPTED

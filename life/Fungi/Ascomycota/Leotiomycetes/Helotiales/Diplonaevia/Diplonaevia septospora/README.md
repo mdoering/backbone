@@ -1,5 +1,4 @@
-Diplonaevia septospora B. Hein & Scheuer SPECIES
-=======
+# Diplonaevia septospora B. Hein & Scheuer SPECIES
 
 #### Status
 ACCEPTED

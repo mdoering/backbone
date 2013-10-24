@@ -1,5 +1,4 @@
-Collybia longicystis (R. Heim) Dennis SPECIES
-=======
+# Collybia longicystis (R. Heim) Dennis SPECIES
 
 #### Status
 ACCEPTED

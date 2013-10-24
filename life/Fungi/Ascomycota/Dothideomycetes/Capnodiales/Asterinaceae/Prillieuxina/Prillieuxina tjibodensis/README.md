@@ -1,5 +1,4 @@
-Prillieuxina tjibodensis (Höhn.) R.W. Ryan SPECIES
-=======
+# Prillieuxina tjibodensis (Höhn.) R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

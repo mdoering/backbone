@@ -1,5 +1,4 @@
-Cytosporina quercus Pass. SPECIES
-=======
+# Cytosporina quercus Pass. SPECIES
 
 #### Status
 ACCEPTED

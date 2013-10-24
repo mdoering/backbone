@@ -1,5 +1,4 @@
-Anoplophrya parva Rossolimo, 1926 SPECIES
-=======
+# Anoplophrya parva Rossolimo, 1926 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma epimelaena Sacc. SPECIES
-=======
+# Phoma epimelaena Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staphlosporonites elsikii Ramanujam & Srisailam SPECIES
-=======
+# Staphlosporonites elsikii Ramanujam & Srisailam SPECIES
 
 #### Status
 ACCEPTED

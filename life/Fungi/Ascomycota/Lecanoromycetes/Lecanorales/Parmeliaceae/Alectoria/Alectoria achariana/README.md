@@ -1,5 +1,4 @@
-Alectoria achariana Gyeln. SPECIES
-=======
+# Alectoria achariana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

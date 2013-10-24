@@ -1,5 +1,4 @@
-Phaeochaetia acalyphae (Hansf.) Bat. & Cif. SPECIES
-=======
+# Phaeochaetia acalyphae (Hansf.) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

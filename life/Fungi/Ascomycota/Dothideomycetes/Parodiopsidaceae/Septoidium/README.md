@@ -1,5 +1,4 @@
-Septoidium G. Arnaud GENUS
-=======
+# Septoidium G. Arnaud GENUS
 
 #### Status
 ACCEPTED

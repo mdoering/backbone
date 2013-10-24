@@ -1,14 +1,13 @@
-Sporidesmium melanopum (Ach.) Berk. & Broome, 1850 SPECIES
-=======
+# Monodictys melanopa (Ach. ex Turner) M.B. Ellis, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 2 5: (1850)
+More Dematiaceous Hyphomycetes (Kew) 43 (1976)
 
 #### Original name
 Spiloma melanopum Ach. ex Turner

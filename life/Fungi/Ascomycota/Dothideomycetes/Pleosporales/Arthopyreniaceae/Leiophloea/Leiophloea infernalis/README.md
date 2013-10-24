@@ -1,5 +1,4 @@
-Leiophloea infernalis (Mont.) Trevis. SPECIES
-=======
+# Leiophloea infernalis (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

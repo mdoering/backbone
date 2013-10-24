@@ -1,5 +1,4 @@
-Synchytrium cupulatum F. Thomas SPECIES
-=======
+# Synchytrium cupulatum F. Thomas SPECIES
 
 #### Status
 ACCEPTED

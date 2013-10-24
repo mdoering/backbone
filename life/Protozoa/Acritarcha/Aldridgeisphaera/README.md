@@ -1,5 +1,4 @@
-Aldridgeisphaera Kozur, 1986 GENUS
-=======
+# Aldridgeisphaera Kozur, 1986 GENUS
 
 #### Status
 ACCEPTED

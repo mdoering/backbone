@@ -1,5 +1,4 @@
-Ustilago duthiei Ricker SPECIES
-=======
+# Ustilago duthiei Ricker SPECIES
 
 #### Status
 ACCEPTED

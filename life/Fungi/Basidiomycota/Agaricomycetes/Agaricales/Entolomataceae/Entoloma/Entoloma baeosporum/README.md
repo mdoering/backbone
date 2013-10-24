@@ -1,5 +1,4 @@
-Entoloma baeosporum (Romagn.) Bon & Courtec. SPECIES
-=======
+# Entoloma baeosporum (Romagn.) Bon & Courtec. SPECIES
 
 #### Status
 ACCEPTED

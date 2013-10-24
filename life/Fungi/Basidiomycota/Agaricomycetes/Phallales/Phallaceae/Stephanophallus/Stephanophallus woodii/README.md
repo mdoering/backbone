@@ -1,8 +1,7 @@
-Stephanophallus woodi MacOwan SPECIES
-=======
+# Stephanophallus woodii MacOwan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stephanophallus woodi MacOwan
+Stephanophallus woodii MacOwan
 
 ### Remarks
 null

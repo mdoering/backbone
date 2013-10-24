@@ -1,14 +1,13 @@
-Ramalina subfraxinea var. confirmata (Nyl.) G.N. Stevens VARIETY
-=======
+# Ramalina confirmata (Nyl.) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Br. Mus. nat. Hist. , Bot. 16(2): 205 (1987)
+Lichenes Australasici Exsiccati (Canberra), Fascicle <b>9</b> (nos 201-225) [5], no. 219 (1990)
 
 #### Original name
 Ramalina fraxinea subsp. confirmata Nyl.

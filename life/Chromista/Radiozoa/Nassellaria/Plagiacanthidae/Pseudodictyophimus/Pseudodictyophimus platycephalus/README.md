@@ -1,5 +1,4 @@
-Pseudodictyophimus platycephalus (Haeckel, 1887) SPECIES
-=======
+# Pseudodictyophimus platycephalus (Haeckel, 1887) SPECIES
 
 #### Status
 ACCEPTED

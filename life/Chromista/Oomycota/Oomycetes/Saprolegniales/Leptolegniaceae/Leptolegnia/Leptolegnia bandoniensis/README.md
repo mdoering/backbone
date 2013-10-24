@@ -1,5 +1,4 @@
-Leptolegnia bandoniensis A.P. Swan SPECIES
-=======
+# Leptolegnia bandoniensis A.P. Swan SPECIES
 
 #### Status
 ACCEPTED

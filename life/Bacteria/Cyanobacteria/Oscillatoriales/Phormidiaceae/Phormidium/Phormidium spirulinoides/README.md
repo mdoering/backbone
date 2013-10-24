@@ -1,5 +1,4 @@
-Phormidium spirulinoides I. Umezaki & M. Watanabe SPECIES
-=======
+# Phormidium spirulinoides I. Umezaki & M. Watanabe SPECIES
 
 #### Status
 ACCEPTED

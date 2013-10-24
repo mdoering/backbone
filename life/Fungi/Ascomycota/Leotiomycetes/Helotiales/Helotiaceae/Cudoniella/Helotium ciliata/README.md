@@ -1,5 +1,4 @@
-Helotium ciliata P. Crouan & H. Crouan SPECIES
-=======
+# Helotium ciliata P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

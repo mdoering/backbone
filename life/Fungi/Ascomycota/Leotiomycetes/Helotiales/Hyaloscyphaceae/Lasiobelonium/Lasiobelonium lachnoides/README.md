@@ -1,5 +1,4 @@
-Lasiobelonium lachnoides Rehm SPECIES
-=======
+# Lasiobelonium lachnoides Rehm SPECIES
 
 #### Status
 ACCEPTED

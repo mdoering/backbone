@@ -1,5 +1,4 @@
-Micropeltis dispora F. Stevens & Manter SPECIES
-=======
+# Micropeltis dispora F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

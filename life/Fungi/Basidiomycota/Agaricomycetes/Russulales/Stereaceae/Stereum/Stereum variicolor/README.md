@@ -1,5 +1,4 @@
-Stereum variicolor Lloyd SPECIES
-=======
+# Stereum variicolor Lloyd SPECIES
 
 #### Status
 ACCEPTED

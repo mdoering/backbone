@@ -1,5 +1,4 @@
-Meliola platysepali Hansf. & Deighton SPECIES
-=======
+# Meliola platysepali Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

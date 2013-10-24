@@ -1,5 +1,4 @@
-Lecidea acarosporoides (Darb.) Hue SPECIES
-=======
+# Lecidea acarosporoides (Darb.) Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe castanea Beeli SPECIES
-=======
+# Clitocybe castanea Beeli SPECIES
 
 #### Status
 ACCEPTED

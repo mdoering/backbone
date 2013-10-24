@@ -1,5 +1,4 @@
-Coryneum clusiae B. Sutton SPECIES
-=======
+# Coryneum clusiae B. Sutton SPECIES
 
 #### Status
 ACCEPTED

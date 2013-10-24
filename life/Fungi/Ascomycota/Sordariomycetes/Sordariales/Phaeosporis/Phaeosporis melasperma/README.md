@@ -1,14 +1,13 @@
-Verrucaria melasperma Nyl. SPECIES
-=======
+# Phaeosporis melasperma (Nyl.) Clem., 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Gen. Fung. (Minneapolis) 173 (1909)
 
 #### Original name
 Verrucaria melasperma Nyl.

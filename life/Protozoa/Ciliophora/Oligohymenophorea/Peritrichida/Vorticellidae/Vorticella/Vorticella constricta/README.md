@@ -1,5 +1,4 @@
-Vorticella constricta Müller, 1786 SPECIES
-=======
+# Vorticella constricta Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

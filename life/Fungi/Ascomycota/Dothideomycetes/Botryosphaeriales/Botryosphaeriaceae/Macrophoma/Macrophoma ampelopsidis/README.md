@@ -1,5 +1,4 @@
-Macrophoma ampelopsidis (Cooke & Ellis) Berl. & Voglino SPECIES
-=======
+# Macrophoma ampelopsidis (Cooke & Ellis) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

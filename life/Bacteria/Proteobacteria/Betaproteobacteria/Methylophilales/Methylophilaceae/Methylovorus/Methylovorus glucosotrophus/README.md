@@ -1,5 +1,4 @@
-Methylovorus glucosotrophus Govorukhina & Trotsenko, 1991 SPECIES
-=======
+# Methylovorus glucosotrophus Govorukhina & Trotsenko, 1991 SPECIES
 
 #### Status
 ACCEPTED

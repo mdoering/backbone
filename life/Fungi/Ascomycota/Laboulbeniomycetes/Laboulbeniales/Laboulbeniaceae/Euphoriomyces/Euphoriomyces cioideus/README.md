@@ -1,5 +1,4 @@
-Euphoriomyces cioideus Thaxt. SPECIES
-=======
+# Euphoriomyces cioideus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

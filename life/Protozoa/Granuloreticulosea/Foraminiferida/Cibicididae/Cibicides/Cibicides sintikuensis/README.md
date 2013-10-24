@@ -1,5 +1,4 @@
-Cibicides sintikuensis Nakamura SPECIES
-=======
+# Cibicides sintikuensis Nakamura SPECIES
 
 #### Status
 ACCEPTED

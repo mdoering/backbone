@@ -1,5 +1,4 @@
-Helicoön politulum (Schulzer) J. Lindau SPECIES
-=======
+# Helicoön politulum (Schulzer) J. Lindau SPECIES
 
 #### Status
 ACCEPTED

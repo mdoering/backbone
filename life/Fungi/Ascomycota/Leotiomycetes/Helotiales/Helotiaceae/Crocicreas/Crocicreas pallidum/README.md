@@ -1,14 +1,13 @@
-Cyathicula pallida Velen., 1934 SPECIES
-=======
+# Crocicreas pallidum (Velen.) S.E. Carp., 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Discom. Bohem. (Prague) 216 (1934)
+Brittonia 32(2): 271 (1980)
 
 #### Original name
 Cyathicula pallida Velen., 1934

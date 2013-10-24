@@ -1,5 +1,4 @@
-Lepiota cylindrospora R. Heim SPECIES
-=======
+# Lepiota cylindrospora R. Heim SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tuber linsdalei Gilkey SPECIES
-=======
+# Tuber linsdalei Gilkey SPECIES
 
 #### Status
 ACCEPTED

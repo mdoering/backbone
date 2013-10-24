@@ -1,8 +1,7 @@
-Stachylidium hageni Hallier SPECIES
-=======
+# Stachylidium hagenii Hallier SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stachylidium hageni Hallier
+Stachylidium hagenii Hallier
 
 ### Remarks
 null

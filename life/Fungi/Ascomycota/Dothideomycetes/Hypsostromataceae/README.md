@@ -1,5 +1,4 @@
-Hypsostromataceae Huhndorf FAMILY
-=======
+# Hypsostromataceae Huhndorf FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalolechia fusca B. de Lesd. SPECIES
-=======
+# Gyalolechia fusca B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

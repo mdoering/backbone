@@ -1,5 +1,4 @@
-Pocillaria colensoi Kuntze SPECIES
-=======
+# Pocillaria colensoi Kuntze SPECIES
 
 #### Status
 ACCEPTED

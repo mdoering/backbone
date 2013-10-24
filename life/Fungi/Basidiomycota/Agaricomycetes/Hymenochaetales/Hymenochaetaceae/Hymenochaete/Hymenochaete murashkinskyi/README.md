@@ -1,5 +1,4 @@
-Hymenochaete murashkinskyi Pilát SPECIES
-=======
+# Hymenochaete murashkinskyi Pilát SPECIES
 
 #### Status
 ACCEPTED

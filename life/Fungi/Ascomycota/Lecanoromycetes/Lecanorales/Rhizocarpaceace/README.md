@@ -1,5 +1,4 @@
-Rhizocarpaceace FAMILY
-=======
+# Rhizocarpaceace FAMILY
 
 #### Status
 ACCEPTED

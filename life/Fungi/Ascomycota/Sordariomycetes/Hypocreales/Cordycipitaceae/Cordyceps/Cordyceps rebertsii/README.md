@@ -1,5 +1,4 @@
-Cordyceps rebertsii Hook. SPECIES
-=======
+# Cordyceps rebertsii Hook. SPECIES
 
 #### Status
 ACCEPTED

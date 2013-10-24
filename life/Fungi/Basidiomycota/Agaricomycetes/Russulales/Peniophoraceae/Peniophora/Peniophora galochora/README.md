@@ -1,5 +1,4 @@
-Peniophora galochora Bres. SPECIES
-=======
+# Peniophora galochora Bres. SPECIES
 
 #### Status
 ACCEPTED

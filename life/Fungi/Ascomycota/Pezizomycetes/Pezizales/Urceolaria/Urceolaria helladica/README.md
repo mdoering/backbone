@@ -1,5 +1,4 @@
-Urceolaria helladica Motyka SPECIES
-=======
+# Urceolaria helladica Motyka SPECIES
 
 #### Status
 ACCEPTED

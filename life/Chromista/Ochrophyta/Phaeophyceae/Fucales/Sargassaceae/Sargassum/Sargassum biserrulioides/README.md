@@ -1,5 +1,4 @@
-Sargassum biserrulioides Tseng & Lu SPECIES
-=======
+# Sargassum biserrulioides Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

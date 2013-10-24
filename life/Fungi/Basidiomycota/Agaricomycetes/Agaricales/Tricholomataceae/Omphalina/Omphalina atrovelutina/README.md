@@ -1,5 +1,4 @@
-Omphalina atrovelutina (Romagn.) SPECIES
-=======
+# Omphalina atrovelutina (Romagn.) SPECIES
 
 #### Status
 ACCEPTED

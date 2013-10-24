@@ -1,8 +1,7 @@
-Sphaeria stilbostoma umbilicata Fr. SUBSPECIES
-=======
+# Calospora platanoides (Pers.) Niessl ex Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Belgian Species List

@@ -1,5 +1,4 @@
-Entoloma unicolor (Peck) Hesler SPECIES
-=======
+# Entoloma unicolor (Peck) Hesler SPECIES
 
 #### Status
 ACCEPTED

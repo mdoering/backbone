@@ -1,17 +1,16 @@
-Melampsora salcis-viminalis Y.Z. Wang & L. Guo SPECIES
-=======
+# Melampsora salacis-viminalis Y.Z. Wang & L. Guo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Wang, Han, Wei, Guo & Chen, Acta microbiol. sin. 20(1): 18 (1980)
 
 #### Original name
-Melampsora salcis-viminalis Y.Z. Wang & L. Guo
+Melampsora salacis-viminalis Y.Z. Wang & L. Guo
 
 ### Remarks
 null

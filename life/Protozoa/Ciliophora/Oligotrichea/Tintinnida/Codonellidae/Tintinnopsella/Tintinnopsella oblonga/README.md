@@ -1,5 +1,4 @@
-Tintinnopsella oblonga SPECIES
-=======
+# Tintinnopsella oblonga SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermocybe vulcanica Bon SPECIES
-=======
+# Dermocybe vulcanica Bon SPECIES
 
 #### Status
 ACCEPTED

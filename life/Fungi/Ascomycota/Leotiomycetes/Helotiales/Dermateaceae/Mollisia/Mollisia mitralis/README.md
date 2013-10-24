@@ -1,5 +1,4 @@
-Mollisia mitralis Quél. SPECIES
-=======
+# Mollisia mitralis Quél. SPECIES
 
 #### Status
 ACCEPTED

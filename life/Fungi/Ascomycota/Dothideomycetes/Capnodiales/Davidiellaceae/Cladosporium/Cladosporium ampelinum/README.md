@@ -1,5 +1,4 @@
-Cladosporium ampelinum Pass. SPECIES
-=======
+# Cladosporium ampelinum Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelidium decussatum (Kremp.) Zschacke SPECIES
-=======
+# Thelidium decussatum (Kremp.) Zschacke SPECIES
 
 #### Status
 ACCEPTED

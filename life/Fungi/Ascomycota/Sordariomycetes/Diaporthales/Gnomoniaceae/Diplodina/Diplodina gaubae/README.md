@@ -1,17 +1,16 @@
-Diplodina gaubiae Petr. SPECIES
-=======
+# Diplodina gaubae Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 8: 213 (1954)
 
 #### Original name
-Diplodina gaubiae Petr.
+Diplodina gaubae Petr.
 
 ### Remarks
 null

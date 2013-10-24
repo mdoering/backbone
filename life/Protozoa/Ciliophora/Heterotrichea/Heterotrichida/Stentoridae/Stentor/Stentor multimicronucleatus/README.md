@@ -1,5 +1,4 @@
-Stentor multimicronucleatus Dragesco, 1970 SPECIES
-=======
+# Stentor multimicronucleatus Dragesco, 1970 SPECIES
 
 #### Status
 ACCEPTED

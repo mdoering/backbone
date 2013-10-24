@@ -1,5 +1,4 @@
-Eotournayella Lipina & Pronina, 1965 GENUS
-=======
+# Eotournayella Lipina & Pronina, 1965 GENUS
 
 #### Status
 ACCEPTED

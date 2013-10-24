@@ -1,5 +1,4 @@
-Coleosporium fuscum Hazsl. SPECIES
-=======
+# Coleosporium fuscum Hazsl. SPECIES
 
 #### Status
 ACCEPTED

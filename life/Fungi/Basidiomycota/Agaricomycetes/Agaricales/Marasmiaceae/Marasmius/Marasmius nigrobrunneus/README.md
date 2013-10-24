@@ -1,5 +1,4 @@
-Marasmius nigrobrunneus (Pat.) Sacc. SPECIES
-=======
+# Marasmius nigrobrunneus (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physospora albida Höhn. SPECIES
-=======
+# Physospora albida Höhn. SPECIES
 
 #### Status
 ACCEPTED

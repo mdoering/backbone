@@ -1,5 +1,4 @@
-Cercospora thaliae Ellis & Langl. SPECIES
-=======
+# Cercospora thaliae Ellis & Langl. SPECIES
 
 #### Status
 ACCEPTED

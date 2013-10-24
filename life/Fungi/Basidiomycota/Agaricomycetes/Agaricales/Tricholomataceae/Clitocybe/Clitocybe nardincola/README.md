@@ -1,5 +1,4 @@
-Clitocybe nardincola Velen. SPECIES
-=======
+# Clitocybe nardincola Velen. SPECIES
 
 #### Status
 ACCEPTED

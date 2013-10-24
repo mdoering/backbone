@@ -1,5 +1,4 @@
-Canomaculina Elix & Hale GENUS
-=======
+# Canomaculina Elix & Hale GENUS
 
 #### Status
 ACCEPTED

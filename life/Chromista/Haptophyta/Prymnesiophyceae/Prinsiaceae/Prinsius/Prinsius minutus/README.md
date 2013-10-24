@@ -1,5 +1,4 @@
-Prinsius minutus B. U. Haq SPECIES
-=======
+# Prinsius minutus B. U. Haq SPECIES
 
 #### Status
 ACCEPTED

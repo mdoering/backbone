@@ -1,5 +1,4 @@
-Thermosipho Huber, Woese, Langworthy, Fricke & Stetter, 1989 GENUS
-=======
+# Thermosipho Huber, Woese, Langworthy, Fricke & Stetter, 1989 GENUS
 
 #### Status
 ACCEPTED

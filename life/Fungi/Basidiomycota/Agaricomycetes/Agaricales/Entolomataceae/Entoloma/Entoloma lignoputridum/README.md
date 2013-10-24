@@ -1,5 +1,4 @@
-Entoloma lignoputridum Corner & E. Horak SPECIES
-=======
+# Entoloma lignoputridum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naeviopsis saticis B. Hein, 1976 SPECIES
-=======
+# Naeviopsis saticis B. Hein, 1976 SPECIES
 
 #### Status
 ACCEPTED

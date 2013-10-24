@@ -1,5 +1,4 @@
-Strobilomyces dryophilus Cibula & N.S. Weber SPECIES
-=======
+# Strobilomyces dryophilus Cibula & N.S. Weber SPECIES
 
 #### Status
 ACCEPTED

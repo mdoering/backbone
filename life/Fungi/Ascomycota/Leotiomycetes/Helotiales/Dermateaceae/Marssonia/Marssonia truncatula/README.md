@@ -1,5 +1,4 @@
-Marssonia truncatula Sacc. SPECIES
-=======
+# Marssonia truncatula Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo imperspicua Speg. SPECIES
-=======
+# Uredo imperspicua Speg. SPECIES
 
 #### Status
 ACCEPTED

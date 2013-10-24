@@ -1,5 +1,4 @@
-Ectocarpus caespitulus J. Agardh SPECIES
-=======
+# Ectocarpus caespitulus J. Agardh SPECIES
 
 #### Status
 ACCEPTED

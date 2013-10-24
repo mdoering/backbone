@@ -1,5 +1,4 @@
-Sporichthya polymorpha Lechevalier et al., 1968 (Approved Lists, 1980) SPECIES
-=======
+# Sporichthya polymorpha Lechevalier et al., 1968 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

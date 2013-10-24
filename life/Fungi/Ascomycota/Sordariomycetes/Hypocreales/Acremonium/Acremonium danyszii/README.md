@@ -1,5 +1,4 @@
-Acremonium danyszii Wize SPECIES
-=======
+# Acremonium danyszii Wize SPECIES
 
 #### Status
 ACCEPTED

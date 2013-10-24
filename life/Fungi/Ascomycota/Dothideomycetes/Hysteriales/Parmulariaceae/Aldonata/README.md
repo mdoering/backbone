@@ -1,5 +1,4 @@
-Aldonata Sivan. & A.R.P. Sinha GENUS
-=======
+# Aldonata Sivan. & A.R.P. Sinha GENUS
 
 #### Status
 ACCEPTED

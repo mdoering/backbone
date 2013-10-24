@@ -1,5 +1,4 @@
-Uromyces apludae Syd. & E.J. Butler SPECIES
-=======
+# Uromyces apludae Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

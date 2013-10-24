@@ -1,5 +1,4 @@
-Asterocalyx ecuadorensis S.E. Carp. & Dumont, 1978 SPECIES
-=======
+# Asterocalyx ecuadorensis S.E. Carp. & Dumont, 1978 SPECIES
 
 #### Status
 ACCEPTED

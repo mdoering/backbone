@@ -1,5 +1,4 @@
-Pleomassaria elaeagni Potebnia SPECIES
-=======
+# Pleomassaria elaeagni Potebnia SPECIES
 
 #### Status
 ACCEPTED

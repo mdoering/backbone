@@ -1,5 +1,4 @@
-Uredo illaudanda H.S. Jacks. & Holw. SPECIES
-=======
+# Uredo illaudanda H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

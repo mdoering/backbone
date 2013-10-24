@@ -1,5 +1,4 @@
-Trapelina deliciosula (Th. Fr.) Motyka SPECIES
-=======
+# Trapelina deliciosula (Th. Fr.) Motyka SPECIES
 
 #### Status
 ACCEPTED

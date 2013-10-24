@@ -1,5 +1,4 @@
-Polystictus lichenoides SPECIES
-=======
+# Polystictus lichenoides SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita aestivalis Singer ex Singer SPECIES
-=======
+# Amanita aestivalis Singer ex Singer SPECIES
 
 #### Status
 ACCEPTED

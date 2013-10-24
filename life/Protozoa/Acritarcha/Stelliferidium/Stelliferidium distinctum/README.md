@@ -1,5 +1,4 @@
-Stelliferidium distinctum (S. M. Rasul) P. Pittau SPECIES
-=======
+# Stelliferidium distinctum (S. M. Rasul) P. Pittau SPECIES
 
 #### Status
 ACCEPTED

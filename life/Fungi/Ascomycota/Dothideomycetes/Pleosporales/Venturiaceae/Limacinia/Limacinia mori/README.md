@@ -1,5 +1,4 @@
-Limacinia mori (Catt.) Sacc. SPECIES
-=======
+# Limacinia mori (Catt.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dactylella shizishanna X.F. Liu & K.Q. Zhang SPECIES
-=======
+# Dactylella shizishanna X.F. Liu & K.Q. Zhang SPECIES
 
 #### Status
 ACCEPTED

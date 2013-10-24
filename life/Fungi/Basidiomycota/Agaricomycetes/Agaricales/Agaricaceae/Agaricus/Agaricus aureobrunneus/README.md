@@ -1,5 +1,4 @@
-Agaricus aureobrunneus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus aureobrunneus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

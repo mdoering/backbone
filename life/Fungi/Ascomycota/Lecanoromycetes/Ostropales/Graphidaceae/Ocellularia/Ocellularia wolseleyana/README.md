@@ -1,5 +1,4 @@
-Ocellularia wolseleyana Homchant. & Coppins SPECIES
-=======
+# Ocellularia wolseleyana Homchant. & Coppins SPECIES
 
 #### Status
 ACCEPTED

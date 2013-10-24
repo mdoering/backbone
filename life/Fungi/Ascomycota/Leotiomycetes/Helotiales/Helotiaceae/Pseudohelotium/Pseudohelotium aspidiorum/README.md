@@ -1,5 +1,4 @@
-Pseudohelotium aspidiorum (Rehm) Sacc. SPECIES
-=======
+# Pseudohelotium aspidiorum (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

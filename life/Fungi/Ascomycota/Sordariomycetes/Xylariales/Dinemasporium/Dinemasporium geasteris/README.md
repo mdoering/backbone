@@ -1,5 +1,4 @@
-Dinemasporium geasteris Hollós SPECIES
-=======
+# Dinemasporium geasteris Hollós SPECIES
 
 #### Status
 ACCEPTED

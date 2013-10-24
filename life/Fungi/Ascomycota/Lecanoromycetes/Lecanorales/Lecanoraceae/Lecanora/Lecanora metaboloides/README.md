@@ -1,5 +1,4 @@
-Lecanora metaboloides var. metaboloides VARIETY
-=======
+# Lecanora metaboloides Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora metaboloides var. metaboloides
+Lecanora metaboloides Nyl.
 
 ### Remarks
 null

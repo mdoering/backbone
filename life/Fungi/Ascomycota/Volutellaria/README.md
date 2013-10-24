@@ -1,5 +1,4 @@
-Volutellaria Sacc. GENUS
-=======
+# Volutellaria Sacc. GENUS
 
 #### Status
 ACCEPTED

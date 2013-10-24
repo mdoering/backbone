@@ -1,5 +1,4 @@
-Tripocoronis Haeckel, 1881 GENUS
-=======
+# Tripocoronis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

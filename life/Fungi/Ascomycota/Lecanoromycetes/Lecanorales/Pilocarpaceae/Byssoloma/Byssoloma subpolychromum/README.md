@@ -1,5 +1,4 @@
-Byssoloma subpolychromum Vezda SPECIES
-=======
+# Byssoloma subpolychromum Vezda SPECIES
 
 #### Status
 ACCEPTED

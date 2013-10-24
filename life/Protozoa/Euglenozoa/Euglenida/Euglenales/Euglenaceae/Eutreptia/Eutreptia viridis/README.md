@@ -1,5 +1,4 @@
-Eutreptia viridis Perty SPECIES
-=======
+# Eutreptia viridis Perty SPECIES
 
 #### Status
 ACCEPTED

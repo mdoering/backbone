@@ -1,5 +1,4 @@
-Coniophora minor G. Cunn., 1957 SPECIES
-=======
+# Coniophora minor G. Cunn., 1957 SPECIES
 
 #### Status
 ACCEPTED

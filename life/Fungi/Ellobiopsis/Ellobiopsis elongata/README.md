@@ -1,5 +1,4 @@
-Ellobiopsis elongata Steuer {?} SPECIES
-=======
+# Ellobiopsis elongata Steuer {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Acrothecium obovatum var. obovatum VARIETY
-=======
+# Spadicoides obovata (Cooke & Ellis) S. Hughes, 1958 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 5(no. 34): 50 (1876)
+Can. J. Bot. 36: 806 (1958)
 
 #### Original name
-Acrothecium obovatum var. obovatum
+Acrothecium obovatum Cooke & Ellis, 1876
 
 ### Remarks
 null

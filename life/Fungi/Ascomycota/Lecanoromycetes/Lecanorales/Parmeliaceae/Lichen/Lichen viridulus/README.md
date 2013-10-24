@@ -1,5 +1,4 @@
-Lichen viridulus Hoffm. SPECIES
-=======
+# Lichen viridulus Hoffm. SPECIES
 
 #### Status
 ACCEPTED

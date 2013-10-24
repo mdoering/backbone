@@ -1,5 +1,4 @@
-Mycosphaerella medicaginis Karimov SPECIES
-=======
+# Mycosphaerella medicaginis Karimov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clasterosporium celatum (Welw. & Curr.) Sacc. SPECIES
-=======
+# Clasterosporium celatum (Welw. & Curr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

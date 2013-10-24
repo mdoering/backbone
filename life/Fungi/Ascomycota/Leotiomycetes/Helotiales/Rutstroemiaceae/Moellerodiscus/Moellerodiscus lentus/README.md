@@ -1,17 +1,16 @@
-Helotium simulatum (Ellis) Sacc., 1889 SPECIES
-=======
+# Moellerodiscus lentus (Berk. & Broome) Dumont, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 254 (1889)
+Mycologia 68(2): 245 (1976)
 
 #### Original name
-null
+Helotium lentum Berk. & Broome, 1873
 
 ### Remarks
 null

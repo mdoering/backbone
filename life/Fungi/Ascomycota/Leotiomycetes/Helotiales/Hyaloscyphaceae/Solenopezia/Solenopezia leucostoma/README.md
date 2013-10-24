@@ -1,14 +1,13 @@
-Belonidium leucostomum (Rehm) Raitv., 1970 SPECIES
-=======
+# Solenopezia leucostoma (Rehm) Raitv., J.H. Haines & E. Müll., 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Akad. Nauk Estonskoi S. S. R. , Inst. Zool. Bot. , Tartu 48 (1970)
+Sydowia 43: 224 (1991)
 
 #### Original name
 Dasyscyphus leucostomus Rehm, 1881

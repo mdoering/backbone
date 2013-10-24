@@ -1,5 +1,4 @@
-Hygrophorus subvitellinus S. Imai SPECIES
-=======
+# Hygrophorus subvitellinus S. Imai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halopteris F.T. Kützing, 1843 GENUS
-=======
+# Halopteris F.T. Kützing, 1843 GENUS
 
 #### Status
 ACCEPTED

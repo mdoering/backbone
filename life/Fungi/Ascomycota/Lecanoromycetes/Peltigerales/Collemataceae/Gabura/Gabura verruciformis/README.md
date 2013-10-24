@@ -1,5 +1,4 @@
-Gabura verruciformis (Ach.) Kuntze SPECIES
-=======
+# Gabura verruciformis (Ach.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

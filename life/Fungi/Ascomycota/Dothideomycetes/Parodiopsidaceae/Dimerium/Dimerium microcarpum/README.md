@@ -1,5 +1,4 @@
-Dimerium microcarpum (Starbäck) Sacc. & D. Sacc. SPECIES
-=======
+# Dimerium microcarpum (Starbäck) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrype arundinariae (Berl.) Rappaz SPECIES
-=======
+# Diatrype arundinariae (Berl.) Rappaz SPECIES
 
 #### Status
 ACCEPTED

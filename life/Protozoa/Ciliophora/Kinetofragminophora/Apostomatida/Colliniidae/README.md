@@ -1,5 +1,4 @@
-Colliniidae Cépède, 1910 FAMILY
-=======
+# Colliniidae Cépède, 1910 FAMILY
 
 #### Status
 ACCEPTED

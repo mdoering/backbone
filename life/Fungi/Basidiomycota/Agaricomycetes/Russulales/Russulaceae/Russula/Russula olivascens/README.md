@@ -1,5 +1,4 @@
-Russula olivascens var. olivascens Fr. VARIETY
-=======
+# Russula olivascens Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Monogr. Hymenomyc. Suec. (Upsaliae) 2(1): 187 (1861)
+Observ. mycol. (Lipsiae) 1: 103 (1796)
 
 #### Original name
-Russula olivascens var. olivascens Fr.
+Russula olivascens Pers.
 
 ### Remarks
 null

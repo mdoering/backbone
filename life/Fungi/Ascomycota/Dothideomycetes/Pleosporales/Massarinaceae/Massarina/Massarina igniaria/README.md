@@ -1,17 +1,16 @@
-Periconia igniaria E.W. Mason & M.B. Ellis SPECIES
-=======
+# Massarina igniaria (C. Booth) Aptroot, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 56: 104 (1953)
+null
 
 #### Original name
-Periconia igniaria E.W. Mason & M.B. Ellis
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Spumaria physaroides Pers. SPECIES
-=======
+# Spumaria physaroides Pers. SPECIES
 
 #### Status
 ACCEPTED

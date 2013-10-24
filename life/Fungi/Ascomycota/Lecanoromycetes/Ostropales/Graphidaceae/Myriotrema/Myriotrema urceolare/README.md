@@ -1,14 +1,13 @@
-Leptotrema urceolare (Ach.) Müll. Arg. SPECIES
-=======
+# Myriotrema urceolare (Ach.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Mém. Soc. Phys. Hist. nat. Genève 29(8): 12 (1887)
+Mycotaxon 11(1): 135 (1980)
 
 #### Original name
 Thelotrema urceolare Fée

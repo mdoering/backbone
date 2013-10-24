@@ -1,5 +1,4 @@
-Galorrheus umbrinus (Fr.) P. Kumm. SPECIES
-=======
+# Galorrheus umbrinus (Fr.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

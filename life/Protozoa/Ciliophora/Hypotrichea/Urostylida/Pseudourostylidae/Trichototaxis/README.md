@@ -1,5 +1,4 @@
-Trichototaxis Stokes, 1891 GENUS
-=======
+# Trichototaxis Stokes, 1891 GENUS
 
 #### Status
 ACCEPTED

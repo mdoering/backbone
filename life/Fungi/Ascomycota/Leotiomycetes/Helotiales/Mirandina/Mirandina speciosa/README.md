@@ -1,5 +1,4 @@
-Mirandina speciosa R.F. Castañeda, Guarro & Cano SPECIES
-=======
+# Mirandina speciosa R.F. Castañeda, Guarro & Cano SPECIES
 
 #### Status
 ACCEPTED

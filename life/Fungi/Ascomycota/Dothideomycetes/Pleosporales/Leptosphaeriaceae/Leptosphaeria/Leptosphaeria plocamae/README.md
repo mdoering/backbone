@@ -1,5 +1,4 @@
-Leptosphaeria plocamae Petr. SPECIES
-=======
+# Leptosphaeria plocamae Petr. SPECIES
 
 #### Status
 ACCEPTED

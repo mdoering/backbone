@@ -1,5 +1,4 @@
-Rhizophydium planktonicum Canter, 1948 SPECIES
-=======
+# Rhizophydium planktonicum Canter, 1948 SPECIES
 
 #### Status
 ACCEPTED

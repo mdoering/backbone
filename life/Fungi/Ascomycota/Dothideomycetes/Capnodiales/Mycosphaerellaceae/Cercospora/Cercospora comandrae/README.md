@@ -1,5 +1,4 @@
-Cercospora comandrae Ellis & Dearn. SPECIES
-=======
+# Cercospora comandrae Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

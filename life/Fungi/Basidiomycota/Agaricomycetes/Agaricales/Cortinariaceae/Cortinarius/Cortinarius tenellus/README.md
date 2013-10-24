@@ -1,5 +1,4 @@
-Cortinarius tenellus M.M. Moser SPECIES
-=======
+# Cortinarius tenellus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

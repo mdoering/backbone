@@ -1,5 +1,4 @@
-Otidea reisneri Velen. SPECIES
-=======
+# Otidea reisneri Velen. SPECIES
 
 #### Status
 ACCEPTED

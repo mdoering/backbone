@@ -1,5 +1,4 @@
-Pleuronema smalli Dragesco, 1968 SPECIES
-=======
+# Pleuronema smalli Dragesco, 1968 SPECIES
 
 #### Status
 ACCEPTED

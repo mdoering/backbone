@@ -1,5 +1,4 @@
-Asaia bogorensis Yamada et al., 2000 SPECIES
-=======
+# Asaia bogorensis Yamada et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

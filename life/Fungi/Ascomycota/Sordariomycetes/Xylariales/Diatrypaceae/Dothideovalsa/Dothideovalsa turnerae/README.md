@@ -1,5 +1,4 @@
-Dothideovalsa turnerae (Tassi) Shear SPECIES
-=======
+# Dothideovalsa turnerae (Tassi) Shear SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarophyllus lactarioides (Henn.) E. Horak SPECIES
-=======
+# Camarophyllus lactarioides (Henn.) E. Horak SPECIES
 
 #### Status
 ACCEPTED

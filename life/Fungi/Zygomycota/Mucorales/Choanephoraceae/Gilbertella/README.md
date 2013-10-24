@@ -1,5 +1,4 @@
-Gilbertella Hesseltine, 1960 GENUS
-=======
+# Gilbertella Hesseltine, 1960 GENUS
 
 #### Status
 ACCEPTED

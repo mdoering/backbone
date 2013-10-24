@@ -1,5 +1,4 @@
-Lachnocladium galaxaurioides Henn. SPECIES
-=======
+# Lachnocladium galaxaurioides Henn. SPECIES
 
 #### Status
 ACCEPTED

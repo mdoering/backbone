@@ -1,5 +1,4 @@
-Cenangella piceae (Pers.) Sacc. SPECIES
-=======
+# Cenangella piceae (Pers.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

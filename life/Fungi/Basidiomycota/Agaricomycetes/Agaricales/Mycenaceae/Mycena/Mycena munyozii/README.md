@@ -1,5 +1,4 @@
-Mycena munyozii Singer, 1969 SPECIES
-=======
+# Mycena munyozii Singer, 1969 SPECIES
 
 #### Status
 ACCEPTED

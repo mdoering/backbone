@@ -1,14 +1,13 @@
-Humaria nigrescens Rehm, 1894 SPECIES
-=======
+# Galactinia nigrescens (Rehm) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rabenh. Krypt. -Fl. (Leipzig), Edn 2 1(3): 947 (1894)
+Hist. Class. Discom. Eur. (Paris) 47 (1907)
 
 #### Original name
 Humaria nigrescens Rehm, 1894

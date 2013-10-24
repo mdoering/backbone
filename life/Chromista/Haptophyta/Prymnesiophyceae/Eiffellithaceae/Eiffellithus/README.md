@@ -1,5 +1,4 @@
-Eiffellithus P. Reinhardt, 1965 GENUS
-=======
+# Eiffellithus P. Reinhardt, 1965 GENUS
 
 #### Status
 ACCEPTED

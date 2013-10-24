@@ -1,17 +1,16 @@
-Aecidium ophiocaulonis Henn. SPECIES
-=======
+# Aecidium ophiocauli Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Mus. Congo Belge, Bot. , Bot. V 2(3): 94 (1907)
 
 #### Original name
-Aecidium ophiocaulonis Henn.
+Aecidium ophiocauli Henn.
 
 ### Remarks
 null

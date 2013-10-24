@@ -1,5 +1,4 @@
-Asterinella phoradendri Henn. SPECIES
-=======
+# Asterinella phoradendri Henn. SPECIES
 
 #### Status
 ACCEPTED

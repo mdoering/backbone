@@ -1,5 +1,4 @@
-Coccolithus tenuiforatus (M. Clocchiatti & L. Jerkovic) S.W. Wise SPECIES
-=======
+# Coccolithus tenuiforatus (M. Clocchiatti & L. Jerkovic) S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

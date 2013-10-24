@@ -1,5 +1,4 @@
-Gyalectidium areolatum L. I. Ferraro & Lücking SPECIES
-=======
+# Gyalectidium areolatum L. I. Ferraro & Lücking SPECIES
 
 #### Status
 ACCEPTED

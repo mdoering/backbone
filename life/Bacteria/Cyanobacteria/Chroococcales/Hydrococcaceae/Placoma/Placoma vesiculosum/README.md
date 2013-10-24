@@ -1,5 +1,4 @@
-Placoma vesiculosum P.K.A. Schousboe ex Bornet & Thuret SPECIES
-=======
+# Placoma vesiculosum P.K.A. Schousboe ex Bornet & Thuret SPECIES
 
 #### Status
 ACCEPTED

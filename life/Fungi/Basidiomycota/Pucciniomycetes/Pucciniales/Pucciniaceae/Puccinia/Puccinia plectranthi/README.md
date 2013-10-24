@@ -1,5 +1,4 @@
-Puccinia plectranthi Thüm. SPECIES
-=======
+# Puccinia plectranthi Thüm. SPECIES
 
 #### Status
 ACCEPTED

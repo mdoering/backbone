@@ -1,5 +1,4 @@
-Tricholoma collybiaeformis Velen. SPECIES
-=======
+# Tricholoma collybiaeformis Velen. SPECIES
 
 #### Status
 ACCEPTED

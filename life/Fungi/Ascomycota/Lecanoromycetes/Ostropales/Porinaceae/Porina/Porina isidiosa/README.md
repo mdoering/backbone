@@ -1,5 +1,4 @@
-Porina isidiosa (Räsänen) M. Satô SPECIES
-=======
+# Porina isidiosa (Räsänen) M. Satô SPECIES
 
 #### Status
 ACCEPTED

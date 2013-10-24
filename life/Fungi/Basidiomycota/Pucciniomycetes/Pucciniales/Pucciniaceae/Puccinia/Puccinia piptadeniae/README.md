@@ -1,5 +1,4 @@
-Puccinia piptadeniae Henn. SPECIES
-=======
+# Puccinia piptadeniae Henn. SPECIES
 
 #### Status
 ACCEPTED

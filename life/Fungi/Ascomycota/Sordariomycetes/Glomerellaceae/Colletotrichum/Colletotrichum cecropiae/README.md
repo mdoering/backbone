@@ -1,5 +1,4 @@
-Colletotrichum cecropiae Viégas SPECIES
-=======
+# Colletotrichum cecropiae Viégas SPECIES
 
 #### Status
 ACCEPTED

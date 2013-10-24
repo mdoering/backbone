@@ -1,5 +1,4 @@
-Oxytoxum gladiolus Stein SPECIES
-=======
+# Oxytoxum gladiolus Stein SPECIES
 
 #### Status
 ACCEPTED

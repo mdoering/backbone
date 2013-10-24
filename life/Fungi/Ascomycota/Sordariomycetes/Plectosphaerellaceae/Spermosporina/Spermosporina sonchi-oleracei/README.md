@@ -1,5 +1,4 @@
-Spermosporina sonchi-oleracei (Fautrey) U. Braun SPECIES
-=======
+# Spermosporina sonchi-oleracei (Fautrey) U. Braun SPECIES
 
 #### Status
 ACCEPTED

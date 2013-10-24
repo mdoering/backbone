@@ -1,5 +1,4 @@
-Vararia sphaericospora Gilb., 1965 SPECIES
-=======
+# Vararia sphaericospora Gilb., 1965 SPECIES
 
 #### Status
 ACCEPTED

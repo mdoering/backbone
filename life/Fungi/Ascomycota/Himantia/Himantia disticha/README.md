@@ -1,5 +1,4 @@
-Himantia disticha Letell. SPECIES
-=======
+# Himantia disticha Letell. SPECIES
 
 #### Status
 ACCEPTED

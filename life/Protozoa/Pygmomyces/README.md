@@ -1,5 +1,4 @@
-Pygmomyces G. Arnaud GENUS
-=======
+# Pygmomyces G. Arnaud GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psalliota (Fr.) P. Kumm., 1871 GENUS
-=======
+# Psalliota (Fr.) P. Kumm., 1871 GENUS
 
 #### Status
 ACCEPTED

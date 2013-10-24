@@ -1,5 +1,4 @@
-Catharinia cylindrospora Feltgen SPECIES
-=======
+# Catharinia cylindrospora Feltgen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trypethelium papulosum (Nyl.) U. Makhija & Patw. SPECIES
-=======
+# Trypethelium papulosum (Nyl.) U. Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

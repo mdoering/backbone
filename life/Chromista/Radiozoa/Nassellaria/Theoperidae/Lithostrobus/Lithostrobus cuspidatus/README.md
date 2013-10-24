@@ -1,5 +1,4 @@
-Lithostrobus cuspidatus Haeckel, 1887 SPECIES
-=======
+# Lithostrobus cuspidatus Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

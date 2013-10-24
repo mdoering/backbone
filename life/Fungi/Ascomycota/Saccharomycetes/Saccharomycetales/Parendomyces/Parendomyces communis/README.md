@@ -1,5 +1,4 @@
-Parendomyces communis (Castell.) C.W. Dodge SPECIES
-=======
+# Parendomyces communis (Castell.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

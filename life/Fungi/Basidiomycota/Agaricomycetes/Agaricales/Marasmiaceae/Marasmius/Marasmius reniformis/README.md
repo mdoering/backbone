@@ -1,5 +1,4 @@
-Marasmius reniformis Henn. SPECIES
-=======
+# Marasmius reniformis Henn. SPECIES
 
 #### Status
 ACCEPTED

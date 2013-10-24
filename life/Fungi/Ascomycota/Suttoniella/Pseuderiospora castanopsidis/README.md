@@ -1,5 +1,4 @@
-Pseuderiospora castanopsidis Keissl. SPECIES
-=======
+# Pseuderiospora castanopsidis Keissl. SPECIES
 
 #### Status
 ACCEPTED

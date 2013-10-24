@@ -1,5 +1,4 @@
-Marasmius yangambiensis Singer SPECIES
-=======
+# Marasmius yangambiensis Singer SPECIES
 
 #### Status
 ACCEPTED

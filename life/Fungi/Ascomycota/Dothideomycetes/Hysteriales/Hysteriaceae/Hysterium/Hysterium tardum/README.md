@@ -1,5 +1,4 @@
-Hysterium tardum Berk. SPECIES
-=======
+# Hysterium tardum Berk. SPECIES
 
 #### Status
 ACCEPTED

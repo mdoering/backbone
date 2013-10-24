@@ -1,5 +1,4 @@
-Strattonia minor N. Lundq., 1972 SPECIES
-=======
+# Strattonia minor N. Lundq., 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Methanospirillaceae FAMILY
-=======
+# Methanospirillaceae FAMILY
 
 #### Status
 ACCEPTED

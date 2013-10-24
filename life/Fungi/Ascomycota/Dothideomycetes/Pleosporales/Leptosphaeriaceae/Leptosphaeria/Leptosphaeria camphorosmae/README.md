@@ -1,5 +1,4 @@
-Leptosphaeria camphorosmae Lobik SPECIES
-=======
+# Leptosphaeria camphorosmae Lobik SPECIES
 
 #### Status
 ACCEPTED

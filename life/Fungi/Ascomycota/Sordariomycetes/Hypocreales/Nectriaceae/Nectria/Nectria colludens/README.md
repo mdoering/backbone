@@ -1,5 +1,4 @@
-Nectria colludens Rehm SPECIES
-=======
+# Nectria colludens Rehm SPECIES
 
 #### Status
 ACCEPTED

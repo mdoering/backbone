@@ -1,5 +1,4 @@
-Uredo bidentis Henn. SPECIES
-=======
+# Uredo bidentis Henn. SPECIES
 
 #### Status
 ACCEPTED

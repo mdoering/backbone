@@ -1,5 +1,4 @@
-Cortinarius myxacioides M.M. Moser SPECIES
-=======
+# Cortinarius myxacioides M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

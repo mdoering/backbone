@@ -1,5 +1,4 @@
-Aecidium maublancii Syd. & P. Syd. SPECIES
-=======
+# Aecidium maublancii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

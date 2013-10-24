@@ -1,5 +1,4 @@
-Physalospora trabutiana Henn. SPECIES
-=======
+# Physalospora trabutiana Henn. SPECIES
 
 #### Status
 ACCEPTED

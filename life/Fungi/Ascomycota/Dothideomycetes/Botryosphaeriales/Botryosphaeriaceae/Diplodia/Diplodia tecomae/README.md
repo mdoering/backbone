@@ -1,5 +1,4 @@
-Diplodia tecomae var. tecomae VARIETY
-=======
+# Diplodia tecomae Pass. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 16: 119 (1877)
 
 #### Original name
-Diplodia tecomae var. tecomae
+Diplodia tecomae Pass.
 
 ### Remarks
 null

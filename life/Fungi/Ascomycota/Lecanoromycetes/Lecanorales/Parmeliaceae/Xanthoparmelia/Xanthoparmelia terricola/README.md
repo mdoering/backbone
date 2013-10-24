@@ -1,5 +1,4 @@
-Xanthoparmelia terricola Hale, T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia terricola Hale, T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

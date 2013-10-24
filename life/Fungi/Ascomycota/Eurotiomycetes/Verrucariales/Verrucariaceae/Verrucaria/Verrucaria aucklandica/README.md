@@ -1,17 +1,16 @@
-Verrucaria tessellatuloidea P. M. McCarthy SPECIES
-=======
+# Verrucaria aucklandica Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Muelleria 7(3): 330 (1991)
+Denkschr. Akad. Wiss. , Wein, Mathematische-naturwissenschaftliche Klasse 104: 250 (1941)
 
 #### Original name
-Verrucaria tessellatuloidea P. M. McCarthy
+Verrucaria aucklandica Zahlbr.
 
 ### Remarks
 null

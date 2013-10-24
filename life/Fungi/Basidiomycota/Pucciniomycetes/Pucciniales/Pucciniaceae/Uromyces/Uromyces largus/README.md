@@ -1,5 +1,4 @@
-Uromyces largus Arthur & Cummins SPECIES
-=======
+# Uromyces largus Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

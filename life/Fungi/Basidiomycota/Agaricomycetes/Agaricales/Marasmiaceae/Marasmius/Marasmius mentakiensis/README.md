@@ -1,5 +1,4 @@
-Marasmius mentakiensis Corner SPECIES
-=======
+# Marasmius mentakiensis Corner SPECIES
 
 #### Status
 ACCEPTED

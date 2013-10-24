@@ -1,8 +1,7 @@
-Lecanora zwackhiana Kremp. SPECIES
-=======
+# Rinodina zwackhiana (Kremp.) Körb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Lecanora zwackhiana Kremp.
 
 ### Remarks
 null

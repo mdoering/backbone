@@ -1,5 +1,4 @@
-Scrippsiella saladense Balech, 1963 SPECIES
-=======
+# Scrippsiella saladense Balech, 1963 SPECIES
 
 #### Status
 ACCEPTED

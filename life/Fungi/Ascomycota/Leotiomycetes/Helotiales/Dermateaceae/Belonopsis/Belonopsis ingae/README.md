@@ -1,5 +1,4 @@
-Belonopsis ingae Seaver SPECIES
-=======
+# Belonopsis ingae Seaver SPECIES
 
 #### Status
 ACCEPTED

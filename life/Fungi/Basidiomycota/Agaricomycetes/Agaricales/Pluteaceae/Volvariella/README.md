@@ -1,17 +1,16 @@
-Volva Adanson, 1763 GENUS
-=======
+# Volvariella Spegazzini, 1899 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fam. Pl. (1763)
+Anal. Mus. nac. Hist. nat. B. Aires 6(3): 119 (1899)
 
 #### Original name
-Volva Adanson, 1763
+Volvariella Spegazzini, 1899
 
 ### Remarks
 null

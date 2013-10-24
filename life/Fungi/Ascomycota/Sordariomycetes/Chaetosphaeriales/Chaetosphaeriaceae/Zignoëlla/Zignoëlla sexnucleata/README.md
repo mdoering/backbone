@@ -1,5 +1,4 @@
-Zignoëlla sexnucleata Starbäck SPECIES
-=======
+# Zignoëlla sexnucleata Starbäck SPECIES
 
 #### Status
 ACCEPTED

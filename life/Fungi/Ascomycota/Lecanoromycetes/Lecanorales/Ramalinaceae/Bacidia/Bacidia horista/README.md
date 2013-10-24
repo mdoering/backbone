@@ -1,5 +1,4 @@
-Bacidia horista (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia horista (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

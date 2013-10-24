@@ -1,5 +1,4 @@
-Enterographa tropica Sparrius SPECIES
-=======
+# Enterographa tropica Sparrius SPECIES
 
 #### Status
 ACCEPTED

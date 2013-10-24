@@ -1,5 +1,4 @@
-Tokophrya stammeri Strouhal, 1939 SPECIES
-=======
+# Tokophrya stammeri Strouhal, 1939 SPECIES
 
 #### Status
 ACCEPTED

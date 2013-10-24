@@ -1,5 +1,4 @@
-Nigredo ornatipes (Arthur) Arthur SPECIES
-=======
+# Nigredo ornatipes (Arthur) Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galactinia cornui Boud. SPECIES
-=======
+# Galactinia cornui Boud. SPECIES
 
 #### Status
 ACCEPTED

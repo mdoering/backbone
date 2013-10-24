@@ -1,5 +1,4 @@
-Octospora insolitata K.B. Khare SPECIES
-=======
+# Octospora insolitata K.B. Khare SPECIES
 
 #### Status
 ACCEPTED

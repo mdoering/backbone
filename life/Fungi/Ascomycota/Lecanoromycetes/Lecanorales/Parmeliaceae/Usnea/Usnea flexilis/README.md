@@ -1,5 +1,4 @@
-Usnea flexilis Stirt. SPECIES
-=======
+# Usnea flexilis Stirt. SPECIES
 
 #### Status
 ACCEPTED

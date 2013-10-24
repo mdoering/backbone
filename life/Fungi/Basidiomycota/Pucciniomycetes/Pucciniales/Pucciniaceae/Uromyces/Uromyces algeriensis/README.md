@@ -1,5 +1,4 @@
-Uromyces algeriensis P. Syd. & Syd. SPECIES
-=======
+# Uromyces algeriensis P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

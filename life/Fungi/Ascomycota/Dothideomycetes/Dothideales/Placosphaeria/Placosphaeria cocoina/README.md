@@ -1,5 +1,4 @@
-Placosphaeria cocoina Caball. SPECIES
-=======
+# Placosphaeria cocoina Caball. SPECIES
 
 #### Status
 ACCEPTED

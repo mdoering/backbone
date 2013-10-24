@@ -1,5 +1,4 @@
-Ascocorticium effusum Rodway SPECIES
-=======
+# Ascocorticium effusum Rodway SPECIES
 
 #### Status
 ACCEPTED

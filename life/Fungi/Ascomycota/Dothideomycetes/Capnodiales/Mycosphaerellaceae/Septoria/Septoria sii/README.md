@@ -1,17 +1,16 @@
-Septoria sii var. caulicola Sacc. VARIETY
-=======
+# Septoria sii Roberge ex Desm., 1853 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 3 20: 92 (1853)
 
 #### Original name
-Septoria sii var. caulicola Sacc.
+Septoria sii Roberge ex Desm., 1853
 
 ### Remarks
 null

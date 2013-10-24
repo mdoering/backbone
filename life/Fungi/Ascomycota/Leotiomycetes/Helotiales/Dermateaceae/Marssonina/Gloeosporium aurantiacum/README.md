@@ -1,5 +1,4 @@
-Gloeosporium aurantiacum (Link) Sacc. SPECIES
-=======
+# Gloeosporium aurantiacum (Link) Sacc. SPECIES
 
 #### Status
 ACCEPTED

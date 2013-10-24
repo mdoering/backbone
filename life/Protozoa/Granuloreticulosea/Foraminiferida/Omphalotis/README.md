@@ -1,5 +1,4 @@
-Omphalotis Shlykova, 1969 GENUS
-=======
+# Omphalotis Shlykova, 1969 GENUS
 
 #### Status
 ACCEPTED

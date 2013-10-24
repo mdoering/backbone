@@ -1,5 +1,4 @@
-Aecidium seguelae Vienn.-Bourg. SPECIES
-=======
+# Aecidium seguelae Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

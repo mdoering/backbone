@@ -1,5 +1,4 @@
-Cochlodinium catenatum Okamura SPECIES
-=======
+# Cochlodinium catenatum Okamura SPECIES
 
 #### Status
 ACCEPTED

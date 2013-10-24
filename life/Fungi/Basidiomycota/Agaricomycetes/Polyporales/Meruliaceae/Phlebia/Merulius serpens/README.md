@@ -1,5 +1,4 @@
-Merulius serpens var. serpens VARIETY
-=======
+# Merulius serpens Ravenel SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Fung. Carol. Exs. (1855)
 
 #### Original name
-Merulius serpens var. serpens
+Merulius serpens Ravenel
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Halodaphnea M.W. Dick GENUS
-=======
+# Halodaphnea M.W. Dick GENUS
 
 #### Status
 ACCEPTED

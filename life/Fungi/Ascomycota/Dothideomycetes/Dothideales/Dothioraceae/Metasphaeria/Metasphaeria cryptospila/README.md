@@ -1,5 +1,4 @@
-Metasphaeria cryptospila (Berk.) Sacc. SPECIES
-=======
+# Metasphaeria cryptospila (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

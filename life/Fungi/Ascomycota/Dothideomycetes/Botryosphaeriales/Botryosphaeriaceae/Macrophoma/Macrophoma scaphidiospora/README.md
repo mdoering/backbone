@@ -1,5 +1,4 @@
-Macrophoma scaphidiospora Sousa da Câmara SPECIES
-=======
+# Macrophoma scaphidiospora Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

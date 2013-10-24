@@ -1,5 +1,4 @@
-Arcuospathidium multinucleatum Foissner, 1999 SPECIES
-=======
+# Arcuospathidium multinucleatum Foissner, 1999 SPECIES
 
 #### Status
 ACCEPTED

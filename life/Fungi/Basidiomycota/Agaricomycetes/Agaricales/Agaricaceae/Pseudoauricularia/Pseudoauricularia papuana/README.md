@@ -1,5 +1,4 @@
-Pseudoauricularia papuana Kobayasi, 1982 SPECIES
-=======
+# Pseudoauricularia papuana Kobayasi, 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichoderma racemosum McAlpine, 1902 SPECIES
-=======
+# Trichoderma racemosum McAlpine, 1902 SPECIES
 
 #### Status
 ACCEPTED

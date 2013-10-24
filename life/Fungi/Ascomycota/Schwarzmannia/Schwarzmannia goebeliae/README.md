@@ -1,5 +1,4 @@
-Schwarzmannia goebeliae Pisareva, 1968 SPECIES
-=======
+# Schwarzmannia goebeliae Pisareva, 1968 SPECIES
 
 #### Status
 ACCEPTED

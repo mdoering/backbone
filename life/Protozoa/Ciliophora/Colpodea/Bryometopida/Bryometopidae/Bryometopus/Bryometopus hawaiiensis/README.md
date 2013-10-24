@@ -1,5 +1,4 @@
-Bryometopus hawaiiensis Foissner, 1994 SPECIES
-=======
+# Bryometopus hawaiiensis Foissner, 1994 SPECIES
 
 #### Status
 ACCEPTED

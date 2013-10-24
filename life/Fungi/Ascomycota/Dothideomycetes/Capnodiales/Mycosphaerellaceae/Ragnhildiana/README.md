@@ -1,5 +1,4 @@
-Ragnhildiana GENUS
-=======
+# Ragnhildiana GENUS
 
 #### Status
 ACCEPTED

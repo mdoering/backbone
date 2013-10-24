@@ -1,5 +1,4 @@
-Lachnella coprosmae G. Cunn., 1963 SPECIES
-=======
+# Lachnella coprosmae G. Cunn., 1963 SPECIES
 
 #### Status
 ACCEPTED

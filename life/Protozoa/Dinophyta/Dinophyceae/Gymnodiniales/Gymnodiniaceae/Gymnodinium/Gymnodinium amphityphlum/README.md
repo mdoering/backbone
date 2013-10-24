@@ -1,5 +1,4 @@
-Gymnodinium amphityphlum J. Larsen SPECIES
-=======
+# Gymnodinium amphityphlum J. Larsen SPECIES
 
 #### Status
 ACCEPTED

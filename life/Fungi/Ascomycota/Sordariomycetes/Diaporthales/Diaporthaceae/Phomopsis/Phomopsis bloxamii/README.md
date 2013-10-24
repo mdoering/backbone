@@ -1,5 +1,4 @@
-Phomopsis bloxamii Grove SPECIES
-=======
+# Phomopsis bloxamii Grove SPECIES
 
 #### Status
 ACCEPTED

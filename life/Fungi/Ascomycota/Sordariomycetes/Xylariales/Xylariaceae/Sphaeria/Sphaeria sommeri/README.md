@@ -1,5 +1,4 @@
-Sphaeria sommeri Eichelb. SPECIES
-=======
+# Sphaeria sommeri Eichelb. SPECIES
 
 #### Status
 ACCEPTED

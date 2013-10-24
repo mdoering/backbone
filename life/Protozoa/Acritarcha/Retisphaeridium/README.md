@@ -1,5 +1,4 @@
-Retisphaeridium Staplin, 1965 GENUS
-=======
+# Retisphaeridium Staplin, 1965 GENUS
 
 #### Status
 ACCEPTED

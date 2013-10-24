@@ -1,5 +1,4 @@
-Chaetocypha gibbosa (Lév.) Kuntze SPECIES
-=======
+# Chaetocypha gibbosa (Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

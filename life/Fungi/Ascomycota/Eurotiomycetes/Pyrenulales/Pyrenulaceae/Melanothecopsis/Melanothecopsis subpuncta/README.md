@@ -1,8 +1,7 @@
-Melanotheca subpuncta Nyl. SPECIES
-=======
+# Melanothecopsis subpuncta (Nyl.) C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

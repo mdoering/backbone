@@ -1,17 +1,16 @@
-Ramularia cardui var. cardui VARIETY
-=======
+# Ramularia cardui P. Karst., 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Symbolae mycologicae 21: 109 (1887)
 
 #### Original name
-Ramularia cardui var. cardui
+Ramularia cardui P. Karst., 1887
 
 ### Remarks
 null

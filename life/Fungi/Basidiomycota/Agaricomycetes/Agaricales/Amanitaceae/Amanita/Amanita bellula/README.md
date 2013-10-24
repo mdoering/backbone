@@ -1,5 +1,4 @@
-Amanita bellula (Britzelm.) Sacc. SPECIES
-=======
+# Amanita bellula (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

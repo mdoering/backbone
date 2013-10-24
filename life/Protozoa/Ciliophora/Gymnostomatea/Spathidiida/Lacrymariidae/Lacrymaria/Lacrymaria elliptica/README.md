@@ -1,5 +1,4 @@
-Lacrymaria elliptica Bürger, 1908 SPECIES
-=======
+# Lacrymaria elliptica Bürger, 1908 SPECIES
 
 #### Status
 ACCEPTED

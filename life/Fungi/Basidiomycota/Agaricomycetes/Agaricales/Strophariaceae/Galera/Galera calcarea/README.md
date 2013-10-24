@@ -1,5 +1,4 @@
-Galera calcarea Velen. SPECIES
-=======
+# Galera calcarea Velen. SPECIES
 
 #### Status
 ACCEPTED

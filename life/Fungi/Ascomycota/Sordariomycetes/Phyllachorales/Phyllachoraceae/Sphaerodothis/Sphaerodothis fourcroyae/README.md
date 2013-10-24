@@ -1,5 +1,4 @@
-Sphaerodothis fourcroyae Chardón, 1934 SPECIES
-=======
+# Sphaerodothis fourcroyae Chardón, 1934 SPECIES
 
 #### Status
 ACCEPTED

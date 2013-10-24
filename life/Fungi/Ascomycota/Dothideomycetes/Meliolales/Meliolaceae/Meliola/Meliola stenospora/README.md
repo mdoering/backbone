@@ -1,5 +1,4 @@
-Meliola stenospora G. Winter SPECIES
-=======
+# Meliola stenospora G. Winter SPECIES
 
 #### Status
 ACCEPTED

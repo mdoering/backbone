@@ -1,5 +1,4 @@
-Tuscaretta globosa Borgert SPECIES
-=======
+# Tuscaretta globosa Borgert SPECIES
 
 #### Status
 ACCEPTED

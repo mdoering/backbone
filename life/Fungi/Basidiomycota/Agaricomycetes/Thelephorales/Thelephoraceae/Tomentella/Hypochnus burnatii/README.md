@@ -1,17 +1,16 @@
-Hypochnus burnati Lendn. SPECIES
-=======
+# Hypochnus burnatii Lendn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. bot. Genève, 2 sér. 6: 106 (1914)
 
 #### Original name
-Hypochnus burnati Lendn.
+Hypochnus burnatii Lendn.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Thyridaria sebillei Sacc. & Flageolet SPECIES
-=======
+# Thyridaria sebillei Sacc. & Flageolet SPECIES
 
 #### Status
 ACCEPTED

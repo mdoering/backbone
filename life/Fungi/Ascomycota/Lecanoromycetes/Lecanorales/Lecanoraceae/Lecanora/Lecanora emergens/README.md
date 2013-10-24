@@ -1,5 +1,4 @@
-Lecanora emergens Müll. Arg. SPECIES
-=======
+# Lecanora emergens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

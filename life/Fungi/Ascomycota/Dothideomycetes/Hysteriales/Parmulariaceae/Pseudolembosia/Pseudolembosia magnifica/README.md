@@ -1,17 +1,16 @@
-Balladyna magnifica (Syd.) Hansf., 1941 SPECIES
-=======
+# Pseudolembosia magnifica Syd., 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 36: 303 (1938)
 
 #### Original name
-null
+Pseudolembosia magnifica Syd., 1938
 
 ### Remarks
 null

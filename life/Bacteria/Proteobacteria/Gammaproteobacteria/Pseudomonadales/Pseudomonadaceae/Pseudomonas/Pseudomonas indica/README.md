@@ -1,5 +1,4 @@
-Pseudomonas indica Pandey et al., 2002 SPECIES
-=======
+# Pseudomonas indica Pandey et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

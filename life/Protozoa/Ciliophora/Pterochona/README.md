@@ -1,5 +1,4 @@
-Pterochona Jankowski, 1973 GENUS
-=======
+# Pterochona Jankowski, 1973 GENUS
 
 #### Status
 ACCEPTED

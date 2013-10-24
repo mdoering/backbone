@@ -1,5 +1,4 @@
-Ciliophorella qualeae Peres SPECIES
-=======
+# Ciliophorella qualeae Peres SPECIES
 
 #### Status
 ACCEPTED

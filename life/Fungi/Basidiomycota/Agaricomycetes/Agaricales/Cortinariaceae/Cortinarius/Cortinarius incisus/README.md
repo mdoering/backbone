@@ -1,14 +1,13 @@
-Agaricus gentilis var. incisus (Pers.) Fr., 1821 VARIETY
-=======
+# Cortinarius incisus (Pers.) Fr., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 1: 213 (1821)
+Epicr. syst. mycol. (Upsaliae) 301 (1838)
 
 #### Original name
 Agaricus incisus Pers., 1801

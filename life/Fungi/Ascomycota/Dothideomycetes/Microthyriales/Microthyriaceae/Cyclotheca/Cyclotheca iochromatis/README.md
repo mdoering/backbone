@@ -1,5 +1,4 @@
-Cyclotheca iochromatis (Rehm) Arx SPECIES
-=======
+# Cyclotheca iochromatis (Rehm) Arx SPECIES
 
 #### Status
 ACCEPTED

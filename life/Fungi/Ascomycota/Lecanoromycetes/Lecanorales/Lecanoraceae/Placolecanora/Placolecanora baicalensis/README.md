@@ -1,5 +1,4 @@
-Placolecanora baicalensis (Zahlbr.) Kopach. SPECIES
-=======
+# Placolecanora baicalensis (Zahlbr.) Kopach. SPECIES
 
 #### Status
 ACCEPTED

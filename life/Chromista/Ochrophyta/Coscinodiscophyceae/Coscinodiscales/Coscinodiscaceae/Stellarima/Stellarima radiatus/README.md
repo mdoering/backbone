@@ -1,5 +1,4 @@
-Stellarima radiatus (Ehrenberg) SPECIES
-=======
+# Stellarima radiatus (Ehrenberg) SPECIES
 
 #### Status
 ACCEPTED

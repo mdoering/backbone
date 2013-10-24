@@ -1,5 +1,4 @@
-Puccinia tassadiae P. Syd. & Syd. SPECIES
-=======
+# Puccinia tassadiae P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

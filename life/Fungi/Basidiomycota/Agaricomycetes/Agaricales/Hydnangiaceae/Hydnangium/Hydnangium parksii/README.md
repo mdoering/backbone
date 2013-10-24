@@ -1,5 +1,4 @@
-Hydnangium parksii Zeller & C.W. Dodge SPECIES
-=======
+# Hydnangium parksii Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

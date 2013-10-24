@@ -1,5 +1,4 @@
-Lichenochora coppinsii Etayo & Nav.-Ros., 2008 SPECIES
-=======
+# Lichenochora coppinsii Etayo & Nav.-Ros., 2008 SPECIES
 
 #### Status
 ACCEPTED

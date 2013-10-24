@@ -1,14 +1,13 @@
-Margarinomyces bubakii Laxa, 1930 SPECIES
-=======
+# Phialophora bubakii (Laxa) Schol-Schwarz, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Zentbl. Bakt. ParasitKde, Abt. II 81: 392 (1930)
+Persoonia 6(1): 66 (1970)
 
 #### Original name
 Margarinomyces bubakii Laxa, 1930

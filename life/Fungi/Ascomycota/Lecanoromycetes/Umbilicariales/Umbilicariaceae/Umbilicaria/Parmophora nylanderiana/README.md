@@ -1,5 +1,4 @@
-Parmophora nylanderiana (Zahlbr.) M. Choisy SPECIES
-=======
+# Parmophora nylanderiana (Zahlbr.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

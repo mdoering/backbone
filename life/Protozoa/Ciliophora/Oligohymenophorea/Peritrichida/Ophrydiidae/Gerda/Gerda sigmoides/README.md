@@ -1,5 +1,4 @@
-Gerda sigmoides SPECIES
-=======
+# Gerda sigmoides SPECIES
 
 #### Status
 ACCEPTED

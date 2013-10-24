@@ -1,17 +1,16 @@
-Daedalea abietina var. abietina VARIETY
-=======
+# Gloeophyllum abietinum (Bull.) P. Karst., 1882 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bidr. Känn. Finl. Nat. Folk 37: 80 (1882)
 
 #### Original name
-null
+Agaricus abietinus Bull., 1789
 
 ### Remarks
 null

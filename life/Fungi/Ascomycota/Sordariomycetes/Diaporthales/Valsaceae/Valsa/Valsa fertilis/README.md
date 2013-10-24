@@ -1,5 +1,4 @@
-Valsa fertilis Nitschke SPECIES
-=======
+# Valsa fertilis Nitschke SPECIES
 
 #### Status
 ACCEPTED

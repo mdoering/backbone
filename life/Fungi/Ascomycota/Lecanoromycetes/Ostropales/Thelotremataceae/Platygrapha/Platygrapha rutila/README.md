@@ -1,5 +1,4 @@
-Platygrapha rutila Stirt. SPECIES
-=======
+# Platygrapha rutila Stirt. SPECIES
 
 #### Status
 ACCEPTED

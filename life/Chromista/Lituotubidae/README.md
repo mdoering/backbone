@@ -1,5 +1,4 @@
-Lituotubidae FAMILY
-=======
+# Lituotubidae FAMILY
 
 #### Status
 ACCEPTED

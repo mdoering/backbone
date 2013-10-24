@@ -1,5 +1,4 @@
-Graphis immersoides Lücking SPECIES
-=======
+# Graphis immersoides Lücking SPECIES
 
 #### Status
 ACCEPTED

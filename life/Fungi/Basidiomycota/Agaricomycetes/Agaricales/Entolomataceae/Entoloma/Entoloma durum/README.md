@@ -1,5 +1,4 @@
-Entoloma durum Largent SPECIES
-=======
+# Entoloma durum Largent SPECIES
 
 #### Status
 ACCEPTED

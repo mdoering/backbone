@@ -1,5 +1,4 @@
-Microdiplodia quercicola Petr. SPECIES
-=======
+# Microdiplodia quercicola Petr. SPECIES
 
 #### Status
 ACCEPTED

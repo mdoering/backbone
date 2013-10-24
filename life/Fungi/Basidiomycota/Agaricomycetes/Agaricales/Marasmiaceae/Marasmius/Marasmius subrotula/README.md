@@ -1,5 +1,4 @@
-Marasmius subrotula Beeli SPECIES
-=======
+# Marasmius subrotula Beeli SPECIES
 
 #### Status
 ACCEPTED

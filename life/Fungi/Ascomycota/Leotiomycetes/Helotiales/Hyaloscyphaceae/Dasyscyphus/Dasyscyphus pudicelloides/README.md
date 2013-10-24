@@ -1,5 +1,4 @@
-Dasyscyphus pudicelloides Raitv. SPECIES
-=======
+# Dasyscyphus pudicelloides Raitv. SPECIES
 
 #### Status
 ACCEPTED

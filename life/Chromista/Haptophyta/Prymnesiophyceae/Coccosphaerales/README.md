@@ -1,5 +1,4 @@
-Coccosphaerales Haeckel, 1894 ORDER
-=======
+# Coccosphaerales Haeckel, 1894 ORDER
 
 #### Status
 ACCEPTED

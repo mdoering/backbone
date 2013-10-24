@@ -1,5 +1,4 @@
-Balladynopsis philippinensis Syd., 1918 SPECIES
-=======
+# Balladynopsis philippinensis Syd., 1918 SPECIES
 
 #### Status
 ACCEPTED

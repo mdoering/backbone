@@ -1,5 +1,4 @@
-Pycnopeltis conspicua Bat. SPECIES
-=======
+# Pycnopeltis conspicua Bat. SPECIES
 
 #### Status
 ACCEPTED

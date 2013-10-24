@@ -1,17 +1,16 @@
-Cercospora nasturtii var. nasturtii VARIETY
-=======
+# Cercospora nasturtii Pass., 1877 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Hedwigia 16(6): 124 (1877)
 
 #### Original name
-Cercospora nasturtii var. nasturtii
+Cercospora nasturtii Pass., 1877
 
 ### Remarks
 null

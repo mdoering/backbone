@@ -1,5 +1,4 @@
-Labyrinthomyxa Duboscq GENUS
-=======
+# Labyrinthomyxa Duboscq GENUS
 
 #### Status
 ACCEPTED

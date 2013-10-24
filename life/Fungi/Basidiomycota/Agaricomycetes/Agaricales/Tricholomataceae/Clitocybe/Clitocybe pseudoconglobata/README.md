@@ -1,5 +1,4 @@
-Clitocybe pseudoconglobata Rea SPECIES
-=======
+# Clitocybe pseudoconglobata Rea SPECIES
 
 #### Status
 ACCEPTED

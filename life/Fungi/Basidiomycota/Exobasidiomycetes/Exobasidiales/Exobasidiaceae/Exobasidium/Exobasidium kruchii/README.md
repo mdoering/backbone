@@ -1,5 +1,4 @@
-Exobasidium kruchii Vuill. SPECIES
-=======
+# Exobasidium kruchii Vuill. SPECIES
 
 #### Status
 ACCEPTED

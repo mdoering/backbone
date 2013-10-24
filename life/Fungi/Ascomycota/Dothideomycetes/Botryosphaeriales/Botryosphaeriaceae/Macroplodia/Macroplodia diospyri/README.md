@@ -1,5 +1,4 @@
-Macroplodia diospyri (Berk. & Broome) Kuntze SPECIES
-=======
+# Macroplodia diospyri (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

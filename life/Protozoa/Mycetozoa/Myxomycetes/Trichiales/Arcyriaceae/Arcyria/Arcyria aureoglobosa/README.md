@@ -1,5 +1,4 @@
-Arcyria aureoglobosa Y. Yamam., 1990 SPECIES
-=======
+# Arcyria aureoglobosa Y. Yamam., 1990 SPECIES
 
 #### Status
 ACCEPTED

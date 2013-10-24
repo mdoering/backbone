@@ -1,5 +1,4 @@
-Flammula graveolens Peck SPECIES
-=======
+# Flammula graveolens Peck SPECIES
 
 #### Status
 ACCEPTED

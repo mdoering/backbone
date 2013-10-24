@@ -1,5 +1,4 @@
-Phacus alatus var. latviensis Skvortsov, 1928 VARIETY
-=======
+# Phacus alatus Klebs, 1886 SPECIES
 
 #### Status
 ACCEPTED

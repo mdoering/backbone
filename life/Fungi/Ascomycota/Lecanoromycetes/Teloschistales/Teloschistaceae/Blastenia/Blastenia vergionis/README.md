@@ -1,5 +1,4 @@
-Blastenia vergionis Dechatres & Werner SPECIES
-=======
+# Blastenia vergionis Dechatres & Werner SPECIES
 
 #### Status
 ACCEPTED

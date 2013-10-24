@@ -1,5 +1,4 @@
-Dothiora hederae Froid. SPECIES
-=======
+# Dothiora hederae Froid. SPECIES
 
 #### Status
 ACCEPTED

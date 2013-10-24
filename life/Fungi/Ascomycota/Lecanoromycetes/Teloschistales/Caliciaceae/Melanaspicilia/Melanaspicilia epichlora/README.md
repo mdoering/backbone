@@ -1,5 +1,4 @@
-Melanaspicilia epichlora Vain. SPECIES
-=======
+# Melanaspicilia epichlora Vain. SPECIES
 
 #### Status
 ACCEPTED

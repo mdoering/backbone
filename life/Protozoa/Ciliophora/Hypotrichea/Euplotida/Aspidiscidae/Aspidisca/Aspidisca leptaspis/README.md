@@ -1,8 +1,7 @@
-Aspidisca tridentata Dragesco, 1963 SPECIES
-=======
+# Aspidisca leptaspis Fresenius, 1865 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

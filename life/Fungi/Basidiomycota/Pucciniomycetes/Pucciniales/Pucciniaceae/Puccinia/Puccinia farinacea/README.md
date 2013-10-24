@@ -1,5 +1,4 @@
-Puccinia farinacea var. farinacea VARIETY
-=======
+# Puccinia farinacea Long SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Torrey bot. Club 29: 115 (1902)
 
 #### Original name
-Puccinia farinacea var. farinacea
+Puccinia farinacea Long
 
 ### Remarks
 null

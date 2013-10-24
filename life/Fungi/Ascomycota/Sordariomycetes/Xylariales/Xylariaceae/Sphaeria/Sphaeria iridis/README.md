@@ -1,5 +1,4 @@
-Sphaeria iridis Schwein. SPECIES
-=======
+# Sphaeria iridis Schwein. SPECIES
 
 #### Status
 ACCEPTED

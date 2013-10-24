@@ -1,5 +1,4 @@
-Agaricus turbidulus (Berk. ex Sacc.) Cooke SPECIES
-=======
+# Agaricus turbidulus (Berk. ex Sacc.) Cooke SPECIES
 
 #### Status
 ACCEPTED

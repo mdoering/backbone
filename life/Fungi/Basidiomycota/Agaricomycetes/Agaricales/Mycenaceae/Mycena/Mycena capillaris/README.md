@@ -1,14 +1,13 @@
-Pseudomycena capillaris (Schumach.) Cejp, 1930 SPECIES
-=======
+# Mycena capillaris (Schumach.) P. Kumm., 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Publ. Fac. Sci. Univ. Charles 104: 141 (1930)
+Führ. Pilzk. (Zwickau) 108 (1871)
 
 #### Original name
 Agaricus capillaris Schumach., 1803

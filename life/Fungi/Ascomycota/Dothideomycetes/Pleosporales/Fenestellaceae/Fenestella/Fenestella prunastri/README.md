@@ -1,5 +1,4 @@
-Fenestella prunastri Feltgen SPECIES
-=======
+# Fenestella prunastri Feltgen SPECIES
 
 #### Status
 ACCEPTED

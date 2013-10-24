@@ -1,5 +1,4 @@
-Paraphysomonadaceae FAMILY
-=======
+# Paraphysomonadaceae FAMILY
 
 #### Status
 ACCEPTED

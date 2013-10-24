@@ -1,5 +1,4 @@
-Blastenia subarenaria Samp. SPECIES
-=======
+# Blastenia subarenaria Samp. SPECIES
 
 #### Status
 ACCEPTED

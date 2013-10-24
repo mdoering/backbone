@@ -1,5 +1,4 @@
-Isomita T.Cavalier-Smith GENUS
-=======
+# Isomita T.Cavalier-Smith GENUS
 
 #### Status
 ACCEPTED

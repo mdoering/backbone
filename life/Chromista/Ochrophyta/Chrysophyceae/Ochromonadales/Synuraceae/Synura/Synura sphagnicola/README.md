@@ -1,5 +1,4 @@
-Synura sphagnicola (Korshikov) Korshikov SPECIES
-=======
+# Synura sphagnicola (Korshikov) Korshikov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pear blister SPECIES
-=======
+# Pear blister SPECIES
 
 #### Status
 ACCEPTED

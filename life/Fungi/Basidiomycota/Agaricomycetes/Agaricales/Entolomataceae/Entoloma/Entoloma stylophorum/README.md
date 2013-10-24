@@ -1,5 +1,4 @@
-Entoloma stylophorum (Berk. & Broome) Sacc. SPECIES
-=======
+# Entoloma stylophorum (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

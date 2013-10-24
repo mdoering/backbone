@@ -1,17 +1,16 @@
-Phoma patouillardi Sacc. SPECIES
-=======
+# Phoma patouillardii Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 10: 136 (1892)
 
 #### Original name
-Phoma patouillardi Sacc.
+Phoma patouillardii Sacc.
 
 ### Remarks
 null

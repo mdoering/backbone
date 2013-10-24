@@ -1,5 +1,4 @@
-Amanita monticulosa Berk. & M.A. Curtis SPECIES
-=======
+# Amanita monticulosa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

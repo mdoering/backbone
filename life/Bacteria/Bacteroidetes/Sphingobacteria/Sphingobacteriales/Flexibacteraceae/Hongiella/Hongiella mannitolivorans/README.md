@@ -1,5 +1,4 @@
-Hongiella mannitolivorans Yi & Chun, 2004 SPECIES
-=======
+# Hongiella mannitolivorans Yi & Chun, 2004 SPECIES
 
 #### Status
 ACCEPTED

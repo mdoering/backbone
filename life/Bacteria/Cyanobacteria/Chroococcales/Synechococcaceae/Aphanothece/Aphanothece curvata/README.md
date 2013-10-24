@@ -1,5 +1,4 @@
-Aphanothece curvata Lagerheim SPECIES
-=======
+# Aphanothece curvata Lagerheim SPECIES
 
 #### Status
 ACCEPTED

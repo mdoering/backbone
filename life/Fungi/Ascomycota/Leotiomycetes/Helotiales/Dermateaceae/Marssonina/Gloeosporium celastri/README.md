@@ -1,5 +1,4 @@
-Gloeosporium celastri Negru SPECIES
-=======
+# Gloeosporium celastri Negru SPECIES
 
 #### Status
 ACCEPTED

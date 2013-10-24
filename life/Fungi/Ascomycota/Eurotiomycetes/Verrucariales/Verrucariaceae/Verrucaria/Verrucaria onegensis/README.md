@@ -1,5 +1,4 @@
-Verrucaria onegensis Vain. SPECIES
-=======
+# Verrucaria onegensis Vain. SPECIES
 
 #### Status
 ACCEPTED

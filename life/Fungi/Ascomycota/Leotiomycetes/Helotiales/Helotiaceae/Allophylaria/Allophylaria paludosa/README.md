@@ -1,5 +1,4 @@
-Allophylaria paludosa (Velen.) Svrcek SPECIES
-=======
+# Allophylaria paludosa (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

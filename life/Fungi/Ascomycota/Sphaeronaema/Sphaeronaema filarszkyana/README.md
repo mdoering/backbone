@@ -1,5 +1,4 @@
-Sphaeronaema filarszkyana Moesz SPECIES
-=======
+# Sphaeronaema filarszkyana Moesz SPECIES
 
 #### Status
 ACCEPTED

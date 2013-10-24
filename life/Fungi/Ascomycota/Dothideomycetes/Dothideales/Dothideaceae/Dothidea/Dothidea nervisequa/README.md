@@ -1,5 +1,4 @@
-Dothidea nervisequa (DC.) Fr. SPECIES
-=======
+# Dothidea nervisequa (DC.) Fr. SPECIES
 
 #### Status
 ACCEPTED

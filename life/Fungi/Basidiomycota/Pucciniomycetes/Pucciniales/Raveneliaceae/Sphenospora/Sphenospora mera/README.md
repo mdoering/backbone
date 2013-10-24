@@ -1,5 +1,4 @@
-Sphenospora mera Cummins SPECIES
-=======
+# Sphenospora mera Cummins SPECIES
 
 #### Status
 ACCEPTED

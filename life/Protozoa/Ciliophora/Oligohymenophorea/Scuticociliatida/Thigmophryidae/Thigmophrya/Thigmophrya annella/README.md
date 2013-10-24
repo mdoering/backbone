@@ -1,5 +1,4 @@
-Thigmophrya annella Fenchel, 1965 SPECIES
-=======
+# Thigmophrya annella Fenchel, 1965 SPECIES
 
 #### Status
 ACCEPTED

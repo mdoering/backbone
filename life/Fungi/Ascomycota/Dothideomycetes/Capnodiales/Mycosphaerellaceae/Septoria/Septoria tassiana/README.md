@@ -1,5 +1,4 @@
-Septoria tassiana Syd. SPECIES
-=======
+# Septoria tassiana Syd. SPECIES
 
 #### Status
 ACCEPTED

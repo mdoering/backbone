@@ -1,5 +1,4 @@
-Agaricus discopus Lév. SPECIES
-=======
+# Agaricus discopus Lév. SPECIES
 
 #### Status
 ACCEPTED

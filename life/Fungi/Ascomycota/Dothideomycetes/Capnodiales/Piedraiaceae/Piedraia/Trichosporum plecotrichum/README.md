@@ -1,5 +1,4 @@
-Trichosporum plecotrichum Sacc. SPECIES
-=======
+# Trichosporum plecotrichum Sacc. SPECIES
 
 #### Status
 ACCEPTED

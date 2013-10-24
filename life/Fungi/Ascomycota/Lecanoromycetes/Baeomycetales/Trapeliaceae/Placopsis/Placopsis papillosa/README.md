@@ -1,5 +1,4 @@
-Placopsis papillosa Vain. SPECIES
-=======
+# Placopsis papillosa Vain. SPECIES
 
 #### Status
 ACCEPTED

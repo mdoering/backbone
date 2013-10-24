@@ -1,14 +1,13 @@
-Pestalotia cornu-cervae (Brenckle) Guba, 1961 SPECIES
-=======
+# Labridella cornu-cervae Brenckle, 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monograph of Monochaetia and Pestalotia 251 (1961)
+Fungi Dakotenses no. 663 (1929)
 
 #### Original name
 Labridella cornu-cervae Brenckle, 1929

@@ -1,5 +1,4 @@
-Acarosporina hyalina P.R. Johnst. SPECIES
-=======
+# Acarosporina hyalina P.R. Johnst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Microcetus Orpin & Mathiesen, 1986 GENUS
-=======
+# Microcetella Aescht, 2001 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Applied envir. Microbiol. 52 (3): 527.
+Denisia 1: 100.
 
 #### Original name
-null
+Microcetus Orpin & Mathiesen, 1986
 
 ### Remarks
 null

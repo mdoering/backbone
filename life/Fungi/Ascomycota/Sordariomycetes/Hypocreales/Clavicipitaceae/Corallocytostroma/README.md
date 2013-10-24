@@ -1,5 +1,4 @@
-Corallocytostroma Y.N. Yu & Z.Y. Zhang GENUS
-=======
+# Corallocytostroma Y.N. Yu & Z.Y. Zhang GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discella anomala Cooke SPECIES
-=======
+# Discella anomala Cooke SPECIES
 
 #### Status
 ACCEPTED

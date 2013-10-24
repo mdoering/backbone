@@ -1,5 +1,4 @@
-Scrippsiella minima Gao & Dodge SPECIES
-=======
+# Scrippsiella minima Gao & Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discina parma J. Breitenb. & Maas Geest. SPECIES
-=======
+# Discina parma J. Breitenb. & Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

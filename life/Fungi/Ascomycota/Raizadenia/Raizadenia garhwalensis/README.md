@@ -1,5 +1,4 @@
-Raizadenia garhwalensis S.L. Srivast., 1981 SPECIES
-=======
+# Raizadenia garhwalensis S.L. Srivast., 1981 SPECIES
 
 #### Status
 ACCEPTED

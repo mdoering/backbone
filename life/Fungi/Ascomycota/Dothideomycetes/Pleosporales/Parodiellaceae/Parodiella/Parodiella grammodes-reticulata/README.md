@@ -1,5 +1,4 @@
-Parodiella grammodes-reticulata Ellis & Everh. SPECIES
-=======
+# Parodiella grammodes-reticulata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

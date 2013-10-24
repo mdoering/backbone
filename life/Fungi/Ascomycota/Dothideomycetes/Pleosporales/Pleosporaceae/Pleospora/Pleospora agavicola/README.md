@@ -1,5 +1,4 @@
-Pleospora agavicola Sivan. SPECIES
-=======
+# Pleospora agavicola Sivan. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uncinula koelreuteriae I. Miyake SPECIES
-=======
+# Uncinula koelreuteriae I. Miyake SPECIES
 
 #### Status
 ACCEPTED

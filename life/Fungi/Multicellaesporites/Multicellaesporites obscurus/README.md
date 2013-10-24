@@ -1,5 +1,4 @@
-Multicellaesporites obscurus P. Ke & Z.Y. Shi SPECIES
-=======
+# Multicellaesporites obscurus P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropeltidium ditosum Bat. & I.H. Lima SPECIES
-=======
+# Micropeltidium ditosum Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

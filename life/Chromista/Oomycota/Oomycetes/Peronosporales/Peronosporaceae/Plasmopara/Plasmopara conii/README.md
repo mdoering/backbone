@@ -1,5 +1,4 @@
-Plasmopara conii (Casp.) Trotter SPECIES
-=======
+# Plasmopara conii (Casp.) Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius subflavifolius Murrill SPECIES
-=======
+# Cortinarius subflavifolius Murrill SPECIES
 
 #### Status
 ACCEPTED

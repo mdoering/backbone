@@ -1,5 +1,4 @@
-Rhaphidophora terebinthi Fabre SPECIES
-=======
+# Rhaphidophora terebinthi Fabre SPECIES
 
 #### Status
 ACCEPTED

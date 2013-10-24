@@ -1,5 +1,4 @@
-Stemphylium fuscum Curr. SPECIES
-=======
+# Stemphylium fuscum Curr. SPECIES
 
 #### Status
 ACCEPTED

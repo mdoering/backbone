@@ -1,5 +1,4 @@
-Aspicilia microlepis Körb. SPECIES
-=======
+# Aspicilia microlepis Körb. SPECIES
 
 #### Status
 ACCEPTED

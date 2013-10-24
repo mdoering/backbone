@@ -1,5 +1,4 @@
-Stereocaulon cereolus (Ach.) anon. SPECIES
-=======
+# Stereocaulon cereolus (Ach.) anon. SPECIES
 
 #### Status
 ACCEPTED

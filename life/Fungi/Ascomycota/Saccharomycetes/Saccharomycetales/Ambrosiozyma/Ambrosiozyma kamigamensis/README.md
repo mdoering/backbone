@@ -1,5 +1,4 @@
-Ambrosiozyma kamigamensis Endoh, M. Suzuki & Benno, 2008 SPECIES
-=======
+# Ambrosiozyma kamigamensis Endoh, M. Suzuki & Benno, 2008 SPECIES
 
 #### Status
 ACCEPTED

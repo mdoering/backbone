@@ -1,5 +1,4 @@
-Trematosphaerella eriobotryae (I. Miyake) F.L. Tai SPECIES
-=======
+# Trematosphaerella eriobotryae (I. Miyake) F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

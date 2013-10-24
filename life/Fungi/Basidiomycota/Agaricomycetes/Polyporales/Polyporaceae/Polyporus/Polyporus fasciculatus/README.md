@@ -1,5 +1,4 @@
-Polyporus fasciculatus Lév. SPECIES
-=======
+# Polyporus fasciculatus Lév. SPECIES
 
 #### Status
 ACCEPTED

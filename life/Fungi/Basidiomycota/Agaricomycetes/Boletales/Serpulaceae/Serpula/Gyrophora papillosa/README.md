@@ -1,5 +1,4 @@
-Gyrophora papillosa (Nyl.) Nyl. SPECIES
-=======
+# Gyrophora papillosa (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

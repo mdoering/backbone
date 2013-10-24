@@ -1,5 +1,4 @@
-Porina cinnamomea (Mont.) Zahlbr. SPECIES
-=======
+# Porina cinnamomea (Mont.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

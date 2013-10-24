@@ -1,5 +1,4 @@
-Mycoleptodiscus taiwanensis Matsush. SPECIES
-=======
+# Mycoleptodiscus taiwanensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Podospora coprophila (Fr.) Niessl, 1883 SPECIES
-=======
+# Cercophora coprophila (Fr.) N. Lundq., 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 22: 156 (1883)
+Symb. bot. upsal. 20(no. 1): 95 (1972)
 
 #### Original name
 Sphaeria coprophila Fr., 1823

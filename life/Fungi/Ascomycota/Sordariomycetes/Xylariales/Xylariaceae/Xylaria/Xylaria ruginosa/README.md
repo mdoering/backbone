@@ -1,5 +1,4 @@
-Xylaria ruginosa Mont. SPECIES
-=======
+# Xylaria ruginosa Mont. SPECIES
 
 #### Status
 ACCEPTED

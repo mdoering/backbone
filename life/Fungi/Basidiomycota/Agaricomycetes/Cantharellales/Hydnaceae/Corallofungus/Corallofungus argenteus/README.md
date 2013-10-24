@@ -1,5 +1,4 @@
-Corallofungus argenteus Vaill. SPECIES
-=======
+# Corallofungus argenteus Vaill. SPECIES
 
 #### Status
 ACCEPTED

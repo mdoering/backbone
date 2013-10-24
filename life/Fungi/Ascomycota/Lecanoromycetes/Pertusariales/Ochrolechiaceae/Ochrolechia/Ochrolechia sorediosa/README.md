@@ -1,5 +1,4 @@
-Ochrolechia sorediosa G.E. Howard SPECIES
-=======
+# Ochrolechia sorediosa G.E. Howard SPECIES
 
 #### Status
 ACCEPTED

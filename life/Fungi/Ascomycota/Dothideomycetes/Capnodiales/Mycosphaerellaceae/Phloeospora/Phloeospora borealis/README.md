@@ -1,5 +1,4 @@
-Phloeospora borealis Lind & Vleugel SPECIES
-=======
+# Phloeospora borealis Lind & Vleugel SPECIES
 
 #### Status
 ACCEPTED

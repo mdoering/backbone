@@ -1,5 +1,4 @@
-Inocybe mascardi Raithelh. SPECIES
-=======
+# Inocybe mascardi Raithelh. SPECIES
 
 #### Status
 ACCEPTED

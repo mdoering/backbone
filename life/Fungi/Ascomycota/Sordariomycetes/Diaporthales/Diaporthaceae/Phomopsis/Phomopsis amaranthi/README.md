@@ -1,5 +1,4 @@
-Phomopsis amaranthi Ubrizsy & Vörös SPECIES
-=======
+# Phomopsis amaranthi Ubrizsy & Vörös SPECIES
 
 #### Status
 ACCEPTED

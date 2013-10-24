@@ -1,5 +1,4 @@
-Pestalotiopsis gravesii (Traverso) Tak. Kobay. SPECIES
-=======
+# Pestalotiopsis gravesii (Traverso) Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

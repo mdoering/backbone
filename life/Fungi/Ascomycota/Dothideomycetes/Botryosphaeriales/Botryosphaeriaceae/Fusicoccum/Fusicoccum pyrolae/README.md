@@ -1,5 +1,4 @@
-Fusicoccum pyrolae P. Karst. SPECIES
-=======
+# Fusicoccum pyrolae P. Karst. SPECIES
 
 #### Status
 ACCEPTED

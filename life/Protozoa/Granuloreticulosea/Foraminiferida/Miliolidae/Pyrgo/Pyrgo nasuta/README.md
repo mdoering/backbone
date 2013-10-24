@@ -1,5 +1,4 @@
-Pyrgo nasuta SPECIES
-=======
+# Pyrgo nasuta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Physarum melleum f. luteum Y. Yamam. FORM
-=======
+# Physarum melleum (Berk. & Broome) Massee, 1892 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-The Myxomycete Biota of Japan (Tokyo) 454 (1998)
+Monograph of the Myxogastres (London) 278 (1892)
 
 #### Original name
-Physarum melleum f. luteum Y. Yamam.
+Didymium melleum Berk. & Broome, 1873
 
 ### Remarks
 null

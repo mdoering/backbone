@@ -1,5 +1,4 @@
-Apiospora muroiana I. Hino & Katum. SPECIES
-=======
+# Apiospora muroiana I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

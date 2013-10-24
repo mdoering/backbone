@@ -1,5 +1,4 @@
-Stictis stigma Cooke & Ellis SPECIES
-=======
+# Stictis stigma Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

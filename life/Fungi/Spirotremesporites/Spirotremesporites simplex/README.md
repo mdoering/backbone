@@ -1,5 +1,4 @@
-Spirotremesporites simplex Dueñas SPECIES
-=======
+# Spirotremesporites simplex Dueñas SPECIES
 
 #### Status
 ACCEPTED

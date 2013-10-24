@@ -1,8 +1,7 @@
-Eimeria wenyoni Dobell, 1919 SPECIES
-=======
+# Goussia clupearum (Thélohan, 1894) Labbé, 1896 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

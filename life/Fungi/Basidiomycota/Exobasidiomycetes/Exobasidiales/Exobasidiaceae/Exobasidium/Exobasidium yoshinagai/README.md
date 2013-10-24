@@ -1,5 +1,4 @@
-Exobasidium yoshinagai Henn., 1902 SPECIES
-=======
+# Exobasidium yoshinagai Henn., 1902 SPECIES
 
 #### Status
 ACCEPTED

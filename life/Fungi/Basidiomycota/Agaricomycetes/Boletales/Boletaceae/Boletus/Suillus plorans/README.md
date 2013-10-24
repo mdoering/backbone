@@ -1,5 +1,4 @@
-Suillus plorans (Rolland) Kuntze, 1898 SPECIES
-=======
+# Suillus plorans (Rolland) Kuntze, 1898 SPECIES
 
 #### Status
 DOUBTFUL

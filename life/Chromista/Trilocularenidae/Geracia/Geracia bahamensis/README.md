@@ -1,5 +1,4 @@
-Geracia bahamensis Lewis, 2009 SPECIES
-=======
+# Geracia bahamensis Lewis, 2009 SPECIES
 
 #### Status
 ACCEPTED

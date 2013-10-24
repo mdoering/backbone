@@ -1,5 +1,4 @@
-Archaeodictyomitra cellulata SPECIES
-=======
+# Archaeodictyomitra cellulata SPECIES
 
 #### Status
 ACCEPTED

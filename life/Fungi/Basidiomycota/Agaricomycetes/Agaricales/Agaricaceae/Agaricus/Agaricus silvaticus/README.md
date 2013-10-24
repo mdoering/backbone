@@ -1,17 +1,16 @@
-Psalliota silvatica var. silvatica VARIETY
-=======
+# Agaricus silvaticus Schaeff., 1833 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Führ. Pilzk. (Zwickau) 73 (1871)
+null
 
 #### Original name
-Psalliota silvatica var. silvatica
+Agaricus silvaticus Schaeff., 1833
 
 ### Remarks
 null

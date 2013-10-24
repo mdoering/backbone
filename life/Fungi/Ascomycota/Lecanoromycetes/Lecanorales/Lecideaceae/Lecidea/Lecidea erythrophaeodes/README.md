@@ -1,5 +1,4 @@
-Lecidea erythrophaeodes Lettau SPECIES
-=======
+# Lecidea erythrophaeodes Lettau SPECIES
 
 #### Status
 ACCEPTED

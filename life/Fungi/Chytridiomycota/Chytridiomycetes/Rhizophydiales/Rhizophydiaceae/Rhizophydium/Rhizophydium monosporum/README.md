@@ -1,5 +1,4 @@
-Rhizophydium monosporum Maire SPECIES
-=======
+# Rhizophydium monosporum Maire SPECIES
 
 #### Status
 ACCEPTED

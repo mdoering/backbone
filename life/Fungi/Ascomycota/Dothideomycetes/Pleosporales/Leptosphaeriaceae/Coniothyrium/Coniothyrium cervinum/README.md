@@ -1,5 +1,4 @@
-Coniothyrium cervinum McAlpine SPECIES
-=======
+# Coniothyrium cervinum McAlpine SPECIES
 
 #### Status
 ACCEPTED

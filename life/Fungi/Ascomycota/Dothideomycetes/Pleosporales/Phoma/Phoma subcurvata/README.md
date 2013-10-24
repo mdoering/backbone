@@ -1,5 +1,4 @@
-Phoma subcurvata Bubák & Picb. SPECIES
-=======
+# Phoma subcurvata Bubák & Picb. SPECIES
 
 #### Status
 ACCEPTED

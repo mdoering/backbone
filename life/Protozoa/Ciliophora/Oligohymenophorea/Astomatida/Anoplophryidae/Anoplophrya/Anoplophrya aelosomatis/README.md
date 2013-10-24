@@ -1,5 +1,4 @@
-Anoplophrya aelosomatis SPECIES
-=======
+# Anoplophrya aelosomatis SPECIES
 
 #### Status
 ACCEPTED

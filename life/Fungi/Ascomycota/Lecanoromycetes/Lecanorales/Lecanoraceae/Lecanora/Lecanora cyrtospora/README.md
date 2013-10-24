@@ -1,5 +1,4 @@
-Lecanora cyrtospora C. Knight SPECIES
-=======
+# Lecanora cyrtospora C. Knight SPECIES
 
 #### Status
 ACCEPTED

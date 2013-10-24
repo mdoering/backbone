@@ -1,5 +1,4 @@
-Galactinia pseudosuccosa Le Gal SPECIES
-=======
+# Galactinia pseudosuccosa Le Gal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lecidea pilati var. pilati VARIETY
-=======
+# Adelolecia pilati (Hepp) Hertel & Hafellner SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Lecidea pilati var. pilati
+null
 
 ### Remarks
 null

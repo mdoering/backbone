@@ -1,5 +1,4 @@
-Diatrypella cassiae Tilak SPECIES
-=======
+# Diatrypella cassiae Tilak SPECIES
 
 #### Status
 ACCEPTED

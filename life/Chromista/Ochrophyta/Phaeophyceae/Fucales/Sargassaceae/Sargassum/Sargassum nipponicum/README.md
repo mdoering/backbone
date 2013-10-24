@@ -1,5 +1,4 @@
-Sargassum nipponicum Yendo SPECIES
-=======
+# Sargassum nipponicum Yendo SPECIES
 
 #### Status
 ACCEPTED

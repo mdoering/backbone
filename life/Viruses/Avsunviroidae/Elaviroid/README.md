@@ -1,5 +1,4 @@
-Elaviroid: GENUS
-=======
+# Elaviroid: GENUS
 
 #### Status
 ACCEPTED

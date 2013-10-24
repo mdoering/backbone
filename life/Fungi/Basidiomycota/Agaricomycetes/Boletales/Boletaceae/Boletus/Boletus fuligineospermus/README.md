@@ -1,5 +1,4 @@
-Boletus fuligineospermus Britzelm. SPECIES
-=======
+# Boletus fuligineospermus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

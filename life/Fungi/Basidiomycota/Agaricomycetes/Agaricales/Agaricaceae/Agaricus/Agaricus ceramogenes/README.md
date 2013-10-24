@@ -1,5 +1,4 @@
-Agaricus ceramogenes Berk. & Broome SPECIES
-=======
+# Agaricus ceramogenes Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

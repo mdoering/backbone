@@ -1,17 +1,16 @@
-Heptameria conferta (Niessl ex Sacc.) Cooke, 1889 SPECIES
-=======
+# Leptosphaeria conferta Niessl ex Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 2: 20 (1883)
 
 #### Original name
-null
+Leptosphaeria conferta Niessl ex Sacc., 1883
 
 ### Remarks
 null

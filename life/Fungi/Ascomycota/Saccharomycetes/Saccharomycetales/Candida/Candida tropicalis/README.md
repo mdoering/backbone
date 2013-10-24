@@ -1,17 +1,16 @@
-Candida arborea SPECIES
-=======
+# Candida tropicalis (Castell.) Berkhout, 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+De Schimmelgesl. Monilia, Oidium, Oospora en Torula, Disset. Ultrecht 44 (1923)
 
 #### Original name
-null
+Oidium tropicale Castell., 1910
 
 ### Remarks
 null

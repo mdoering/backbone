@@ -1,5 +1,4 @@
-Mazaganellaceae Bown, 1987 FAMILY
-=======
+# Mazaganellaceae Bown, 1987 FAMILY
 
 #### Status
 ACCEPTED

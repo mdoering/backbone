@@ -1,5 +1,4 @@
-Rhabdolithus pinguis Deflandre in Deflandre & Fert, 1954 SPECIES
-=======
+# Rhabdolithus pinguis Deflandre in Deflandre & Fert, 1954 SPECIES
 
 #### Status
 ACCEPTED

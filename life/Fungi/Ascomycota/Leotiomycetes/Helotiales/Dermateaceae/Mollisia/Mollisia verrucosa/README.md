@@ -1,5 +1,4 @@
-Mollisia verrucosa Rodway SPECIES
-=======
+# Mollisia verrucosa Rodway SPECIES
 
 #### Status
 ACCEPTED

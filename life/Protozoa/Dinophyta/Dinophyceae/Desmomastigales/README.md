@@ -1,5 +1,4 @@
-Desmomastigales ORDER
-=======
+# Desmomastigales ORDER
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collema neglectum Degel. SPECIES
-=======
+# Collema neglectum Degel. SPECIES
 
 #### Status
 ACCEPTED

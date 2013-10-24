@@ -1,5 +1,4 @@
-Lichinella robusta Henssen SPECIES
-=======
+# Lichinella robusta Henssen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena incana Maas Geest. & E. Horak SPECIES
-=======
+# Mycena incana Maas Geest. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

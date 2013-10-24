@@ -1,5 +1,4 @@
-Stagonospora delicatula (Cooke & Ellis) Sacc. SPECIES
-=======
+# Stagonospora delicatula (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

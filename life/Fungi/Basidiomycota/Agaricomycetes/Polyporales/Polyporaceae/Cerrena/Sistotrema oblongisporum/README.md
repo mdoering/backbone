@@ -1,5 +1,4 @@
-Sistotrema oblongisporum M.P. Christ. & Hauerslev, 1960 SPECIES
-=======
+# Sistotrema oblongisporum M.P. Christ. & Hauerslev, 1960 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Stropholoma GENUS
-=======
+# Stropholoma GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acusmonas Skvortzov GENUS
-=======
+# Acusmonas Skvortzov GENUS
 
 #### Status
 ACCEPTED

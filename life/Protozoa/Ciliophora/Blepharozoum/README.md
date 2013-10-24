@@ -1,5 +1,4 @@
-Blepharozoum Gassovsky, 1919 GENUS
-=======
+# Blepharozoum Gassovsky, 1919 GENUS
 
 #### Status
 ACCEPTED

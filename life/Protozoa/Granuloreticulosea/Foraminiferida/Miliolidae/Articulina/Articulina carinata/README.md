@@ -1,5 +1,4 @@
-Articulina carinata Wiesner, 1923 SPECIES
-=======
+# Articulina carinata Wiesner, 1923 SPECIES
 
 #### Status
 ACCEPTED

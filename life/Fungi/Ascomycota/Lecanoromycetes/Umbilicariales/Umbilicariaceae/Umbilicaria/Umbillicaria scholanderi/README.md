@@ -1,5 +1,4 @@
-Umbillicaria scholanderi SPECIES
-=======
+# Umbillicaria scholanderi SPECIES
 
 #### Status
 DOUBTFUL

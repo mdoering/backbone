@@ -1,5 +1,4 @@
-Cortinarius coccineus Reumaux SPECIES
-=======
+# Cortinarius coccineus Reumaux SPECIES
 
 #### Status
 ACCEPTED

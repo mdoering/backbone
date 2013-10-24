@@ -1,5 +1,4 @@
-Zoothamnium pictum (Ehrenberg, 1838) Fromentel, 1876 SPECIES
-=======
+# Zoothamnium pictum (Ehrenberg, 1838) Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

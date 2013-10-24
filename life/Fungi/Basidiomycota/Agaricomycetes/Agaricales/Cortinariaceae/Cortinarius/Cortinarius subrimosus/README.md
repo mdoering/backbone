@@ -1,5 +1,4 @@
-Cortinarius subrimosus A.H. Sm. & Hesler SPECIES
-=======
+# Cortinarius subrimosus A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

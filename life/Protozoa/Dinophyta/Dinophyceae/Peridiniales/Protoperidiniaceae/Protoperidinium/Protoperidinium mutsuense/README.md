@@ -1,8 +1,7 @@
-Protoperidinium mutsuensis Abé SPECIES
-=======
+# Protoperidinium mutsuense (Abé, 1936) Balech, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

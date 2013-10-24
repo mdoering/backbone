@@ -1,5 +1,4 @@
-Gonyaulax paucula Kofoid & Michener, 1911 SPECIES
-=======
+# Gonyaulax paucula Kofoid & Michener, 1911 SPECIES
 
 #### Status
 ACCEPTED

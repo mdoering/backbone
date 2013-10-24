@@ -1,5 +1,4 @@
-Leptosphaeria ternata Hazsl. SPECIES
-=======
+# Leptosphaeria ternata Hazsl. SPECIES
 
 #### Status
 ACCEPTED

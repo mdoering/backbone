@@ -1,8 +1,7 @@
-Angulogerina gracilis Vella, 1957 SPECIES
-=======
+# Trifarina gracilis (Vella, 1957) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Tremellogaster E. Fisch. GENUS
-=======
+# Tremellogaster E. Fisch. GENUS
 
 #### Status
 ACCEPTED

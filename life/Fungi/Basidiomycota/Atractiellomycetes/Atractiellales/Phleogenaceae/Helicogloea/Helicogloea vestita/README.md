@@ -1,14 +1,13 @@
-Achroomyces vestitus (Bourdot & Galzin) Wojewoda, 1977 SPECIES
-=======
+# Helicogloea vestita (Bourdot & Galzin) P. Roberts, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora Polska, Grzyby (Mycota) 8: 251 (1977)
+Windahlia 22: 19 (1997)
 
 #### Original name
 Platygloea vestita Bourdot & Galzin, 1924

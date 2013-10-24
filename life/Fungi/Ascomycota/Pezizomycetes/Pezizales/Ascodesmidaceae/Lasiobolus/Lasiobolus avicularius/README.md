@@ -1,5 +1,4 @@
-Lasiobolus avicularius (P. Karst.) P. Karst. SPECIES
-=======
+# Lasiobolus avicularius (P. Karst.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

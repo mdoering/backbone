@@ -1,5 +1,4 @@
-Septochora GENUS
-=======
+# Septochora GENUS
 
 #### Status
 ACCEPTED

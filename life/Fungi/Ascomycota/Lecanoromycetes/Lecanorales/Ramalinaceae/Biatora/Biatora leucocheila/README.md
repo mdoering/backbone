@@ -1,5 +1,4 @@
-Biatora leucocheila (Tuck.) Tuck. SPECIES
-=======
+# Biatora leucocheila (Tuck.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

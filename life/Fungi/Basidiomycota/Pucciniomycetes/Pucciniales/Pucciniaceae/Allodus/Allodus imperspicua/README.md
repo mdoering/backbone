@@ -1,5 +1,4 @@
-Allodus imperspicua (Syd.) Orton SPECIES
-=======
+# Allodus imperspicua (Syd.) Orton SPECIES
 
 #### Status
 ACCEPTED

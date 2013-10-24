@@ -1,5 +1,4 @@
-Polyedryxium belgicum Stockmans & Willière, 1960 SPECIES
-=======
+# Polyedryxium belgicum Stockmans & Willière, 1960 SPECIES
 
 #### Status
 ACCEPTED

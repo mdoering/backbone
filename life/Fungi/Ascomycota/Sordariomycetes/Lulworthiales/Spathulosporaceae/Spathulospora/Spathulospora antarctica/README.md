@@ -1,5 +1,4 @@
-Spathulospora antarctica Kohlm., 1973 SPECIES
-=======
+# Spathulospora antarctica Kohlm., 1973 SPECIES
 
 #### Status
 ACCEPTED

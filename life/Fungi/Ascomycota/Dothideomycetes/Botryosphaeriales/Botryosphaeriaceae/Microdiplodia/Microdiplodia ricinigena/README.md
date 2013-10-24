@@ -1,5 +1,4 @@
-Microdiplodia ricinigena Bubák & Gonz. Frag. SPECIES
-=======
+# Microdiplodia ricinigena Bubák & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

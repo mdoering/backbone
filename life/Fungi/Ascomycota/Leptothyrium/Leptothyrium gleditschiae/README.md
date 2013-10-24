@@ -1,5 +1,4 @@
-Leptothyrium gleditschiae S. Ahmad SPECIES
-=======
+# Leptothyrium gleditschiae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

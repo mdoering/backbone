@@ -1,5 +1,4 @@
-Ochrolechia oregonensis H. Magn. SPECIES
-=======
+# Ochrolechia oregonensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

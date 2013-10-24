@@ -1,5 +1,4 @@
-Phacidium andromedae Fr. SPECIES
-=======
+# Phacidium andromedae Fr. SPECIES
 
 #### Status
 ACCEPTED

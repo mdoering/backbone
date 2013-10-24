@@ -1,5 +1,4 @@
-Endophragmiella franconica Brackel & Markovsk. SPECIES
-=======
+# Endophragmiella franconica Brackel & Markovsk. SPECIES
 
 #### Status
 ACCEPTED

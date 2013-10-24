@@ -1,5 +1,4 @@
-Metopus mirabilis Kahl, 1927 SPECIES
-=======
+# Metopus mirabilis Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

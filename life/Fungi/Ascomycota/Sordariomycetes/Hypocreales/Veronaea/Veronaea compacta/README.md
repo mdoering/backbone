@@ -1,5 +1,4 @@
-Veronaea compacta Papendorf, 1976 SPECIES
-=======
+# Veronaea compacta Papendorf, 1976 SPECIES
 
 #### Status
 ACCEPTED

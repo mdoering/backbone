@@ -1,5 +1,4 @@
-Puccinia alpina R.G. Bagn. SPECIES
-=======
+# Puccinia alpina R.G. Bagn. SPECIES
 
 #### Status
 ACCEPTED

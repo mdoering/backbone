@@ -1,5 +1,4 @@
-Uredo culmorum Schumach. SPECIES
-=======
+# Uredo culmorum Schumach. SPECIES
 
 #### Status
 ACCEPTED

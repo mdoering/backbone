@@ -1,8 +1,7 @@
-Litonotus pleurosigma Stokes, 1884 SPECIES
-=======
+# Amphileptus pleurosigma (Stokes, 1884) Foissner, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

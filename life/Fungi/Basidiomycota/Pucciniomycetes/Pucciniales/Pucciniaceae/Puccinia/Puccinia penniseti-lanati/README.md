@@ -1,5 +1,4 @@
-Puccinia penniseti-lanati S. Ahmad SPECIES
-=======
+# Puccinia penniseti-lanati S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaenothecopsis elevata (Vain.) Tibell SPECIES
-=======
+# Chaenothecopsis elevata (Vain.) Tibell SPECIES
 
 #### Status
 ACCEPTED

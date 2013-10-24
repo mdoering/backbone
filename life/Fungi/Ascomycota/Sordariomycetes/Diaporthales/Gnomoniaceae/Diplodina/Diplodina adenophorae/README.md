@@ -1,5 +1,4 @@
-Diplodina adenophorae Gucevic SPECIES
-=======
+# Diplodina adenophorae Gucevic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphacelotheca superflua (Syd. & P. Syd.) Zundel SPECIES
-=======
+# Sphacelotheca superflua (Syd. & P. Syd.) Zundel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teratomyces atropurpureus Maire SPECIES
-=======
+# Teratomyces atropurpureus Maire SPECIES
 
 #### Status
 ACCEPTED

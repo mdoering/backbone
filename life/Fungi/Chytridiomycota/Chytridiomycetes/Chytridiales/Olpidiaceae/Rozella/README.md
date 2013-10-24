@@ -1,17 +1,16 @@
-Rozia Cornu GENUS
-=======
+# Rozella Cornu GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 5 15: 148 (1872)
 
 #### Original name
-Rozia Cornu
+Rozella Cornu
 
 ### Remarks
 null

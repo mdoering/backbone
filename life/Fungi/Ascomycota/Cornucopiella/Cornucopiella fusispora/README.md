@@ -1,14 +1,13 @@
-Clavularia fusispora P. Karst., 1882 SPECIES
-=======
+# Cornucopiella fusispora (P. Karst.) Seifert, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Meddn Soc. Fauna Flora fenn. 9: 67 (1882)
+Trans. Br. mycol. Soc. 85(1): 125 (1985)
 
 #### Original name
 Clavularia fusispora P. Karst., 1882

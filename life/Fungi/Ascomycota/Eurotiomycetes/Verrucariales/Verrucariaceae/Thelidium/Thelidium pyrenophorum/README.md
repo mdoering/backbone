@@ -1,5 +1,4 @@
-Thelidium pyrenophorum var. pyrenophorum VARIETY
-=======
+# Thelidium pyrenophorum (Ach.) Mudd SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Man. Brit. Lich. 294 (1861)
 
 #### Original name
-Thelidium pyrenophorum var. pyrenophorum
+Verrucaria pyrenophora
 
 ### Remarks
 null

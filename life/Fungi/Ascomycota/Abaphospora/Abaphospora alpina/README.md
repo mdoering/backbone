@@ -1,5 +1,4 @@
-Abaphospora alpina (Ellis & Everh.) Kirschst. SPECIES
-=======
+# Abaphospora alpina (Ellis & Everh.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

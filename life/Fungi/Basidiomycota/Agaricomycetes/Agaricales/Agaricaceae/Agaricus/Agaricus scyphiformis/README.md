@@ -1,5 +1,4 @@
-Agaricus scyphiformis Fr. SPECIES
-=======
+# Agaricus scyphiformis Fr. SPECIES
 
 #### Status
 ACCEPTED

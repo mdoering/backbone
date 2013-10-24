@@ -1,5 +1,4 @@
-Schiffnerula costaricensis Hansf. SPECIES
-=======
+# Schiffnerula costaricensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

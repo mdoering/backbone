@@ -1,14 +1,13 @@
-Sphaerodothis scleriae (Rehm) F. Stevens, 1927 SPECIES
-=======
+# Phyllachora scleriae Rehm, 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Illinois Biol. Monogr. (Urbana) 11(2): 194 (1927)
+Hedwigia 39: 232 (1900)
 
 #### Original name
 Phyllachora scleriae Rehm, 1900

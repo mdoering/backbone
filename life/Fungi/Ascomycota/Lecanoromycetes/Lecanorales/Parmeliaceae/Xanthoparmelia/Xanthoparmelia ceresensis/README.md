@@ -1,5 +1,4 @@
-Xanthoparmelia ceresensis Hale SPECIES
-=======
+# Xanthoparmelia ceresensis Hale SPECIES
 
 #### Status
 ACCEPTED

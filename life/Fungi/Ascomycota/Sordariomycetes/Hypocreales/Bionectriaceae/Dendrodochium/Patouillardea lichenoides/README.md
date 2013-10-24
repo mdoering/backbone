@@ -1,5 +1,4 @@
-Patouillardea lichenoides Roum. SPECIES
-=======
+# Patouillardea lichenoides Roum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia suavevolens (Harm.) Zahlbr. SPECIES
-=======
+# Bacidia suavevolens (Harm.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

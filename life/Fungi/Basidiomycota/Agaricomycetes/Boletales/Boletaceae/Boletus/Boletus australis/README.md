@@ -1,5 +1,4 @@
-Boletus australis Cooke & Massee SPECIES
-=======
+# Boletus australis Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

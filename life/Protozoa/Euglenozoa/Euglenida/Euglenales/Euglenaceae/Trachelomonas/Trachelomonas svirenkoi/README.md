@@ -1,5 +1,4 @@
-Trachelomonas svirenkoi var. punctata Skvortzov VARIETY
-=======
+# Trachelomonas svirenkoi Skvortzov SPECIES
 
 #### Status
 ACCEPTED

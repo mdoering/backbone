@@ -1,5 +1,4 @@
-Pestalotiopsis elasticola (Henn.) J. Xiang Zhang & T. Xu SPECIES
-=======
+# Pestalotiopsis elasticola (Henn.) J. Xiang Zhang & T. Xu SPECIES
 
 #### Status
 ACCEPTED

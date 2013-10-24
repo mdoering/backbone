@@ -1,5 +1,4 @@
-Synchytrium trichosanthidis Mhatre & Mundk. SPECIES
-=======
+# Synchytrium trichosanthidis Mhatre & Mundk. SPECIES
 
 #### Status
 ACCEPTED

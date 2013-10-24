@@ -1,5 +1,4 @@
-Orastrum campanensis (Cepek, 1970) Wind & Wise in Wise & Wind, 1977 SPECIES
-=======
+# Orastrum campanensis (Cepek, 1970) Wind & Wise in Wise & Wind, 1977 SPECIES
 
 #### Status
 ACCEPTED

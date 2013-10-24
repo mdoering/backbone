@@ -1,5 +1,4 @@
-Cercoseptoria lecheae Dearn. SPECIES
-=======
+# Cercoseptoria lecheae Dearn. SPECIES
 
 #### Status
 ACCEPTED

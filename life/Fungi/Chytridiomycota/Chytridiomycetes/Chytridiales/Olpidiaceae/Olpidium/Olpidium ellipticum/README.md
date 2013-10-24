@@ -1,5 +1,4 @@
-Olpidium ellipticum (P.A. Dang.) Sacc. & Traverso SPECIES
-=======
+# Olpidium ellipticum (P.A. Dang.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Octavianina brunnea A.H. Sm. SPECIES
-=======
+# Octaviania brunnea R. Hesse SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 54(6): 629 (1963)
 
 #### Original name
-Octavianina brunnea A.H. Sm.
+Octaviania brunnea R. Hesse
 
 ### Remarks
 null

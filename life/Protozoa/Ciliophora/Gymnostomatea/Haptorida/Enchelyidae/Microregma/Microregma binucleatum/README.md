@@ -1,5 +1,4 @@
-Microregma binucleatum Lepsi, 1926 SPECIES
-=======
+# Microregma binucleatum Lepsi, 1926 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anoplophrya almae Puytorac, 1971 SPECIES
-=======
+# Anoplophrya almae Puytorac, 1971 SPECIES
 
 #### Status
 ACCEPTED

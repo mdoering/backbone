@@ -1,5 +1,4 @@
-Helminthosporium iberidis Pollacci SPECIES
-=======
+# Helminthosporium iberidis Pollacci SPECIES
 
 #### Status
 ACCEPTED

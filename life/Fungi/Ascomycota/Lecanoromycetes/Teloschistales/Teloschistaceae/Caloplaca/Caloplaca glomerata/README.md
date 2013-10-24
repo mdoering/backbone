@@ -1,5 +1,4 @@
-Caloplaca glomerata Arup SPECIES
-=======
+# Caloplaca glomerata Arup SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mallomonas alphaphora Preisig SPECIES
-=======
+# Mallomonas alphaphora Preisig SPECIES
 
 #### Status
 ACCEPTED

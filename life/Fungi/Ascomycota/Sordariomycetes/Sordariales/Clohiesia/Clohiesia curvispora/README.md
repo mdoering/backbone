@@ -1,5 +1,4 @@
-Clohiesia curvispora L. Cai & K.D. Hyde SPECIES
-=======
+# Clohiesia curvispora L. Cai & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces vestergreni P. Syd. & Syd., 1909 SPECIES
-=======
+# Uromyces vestergreni P. Syd. & Syd., 1909 SPECIES
 
 #### Status
 ACCEPTED

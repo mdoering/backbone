@@ -1,5 +1,4 @@
-Bifidobacterium psychraerophilum Simpson et al., 2004 SPECIES
-=======
+# Bifidobacterium psychraerophilum Simpson et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

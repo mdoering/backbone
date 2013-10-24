@@ -1,5 +1,4 @@
-Corticium hinnuleum Bres. SPECIES
-=======
+# Corticium hinnuleum Bres. SPECIES
 
 #### Status
 ACCEPTED

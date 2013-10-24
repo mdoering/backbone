@@ -1,5 +1,4 @@
-Sphaeria gnomonia Tode SPECIES
-=======
+# Sphaeria gnomonia Tode SPECIES
 
 #### Status
 ACCEPTED

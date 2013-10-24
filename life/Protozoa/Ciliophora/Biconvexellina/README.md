@@ -1,5 +1,4 @@
-Biconvexellina Konenkova, 1999 GENUS
-=======
+# Biconvexellina Konenkova, 1999 GENUS
 
 #### Status
 ACCEPTED

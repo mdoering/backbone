@@ -1,5 +1,4 @@
-Scotoderma Jülich GENUS
-=======
+# Scotoderma Jülich GENUS
 
 #### Status
 ACCEPTED

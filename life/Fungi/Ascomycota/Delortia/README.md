@@ -1,5 +1,4 @@
-Delortia Pat. & Gaillard GENUS
-=======
+# Delortia Pat. & Gaillard GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetostroma graminellum Speg. SPECIES
-=======
+# Chaetostroma graminellum Speg. SPECIES
 
 #### Status
 ACCEPTED

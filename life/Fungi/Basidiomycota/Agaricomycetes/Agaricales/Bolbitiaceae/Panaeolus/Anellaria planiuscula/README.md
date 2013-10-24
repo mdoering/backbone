@@ -1,5 +1,4 @@
-Anellaria planiuscula Sawada SPECIES
-=======
+# Anellaria planiuscula Sawada SPECIES
 
 #### Status
 ACCEPTED

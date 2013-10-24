@@ -1,5 +1,4 @@
-Diplodina vincae Politis SPECIES
-=======
+# Diplodina vincae Politis SPECIES
 
 #### Status
 ACCEPTED

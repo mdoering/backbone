@@ -1,5 +1,4 @@
-Nitrobacter vulgaris Bock et al., 2001 SPECIES
-=======
+# Nitrobacter vulgaris Bock et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ellobiopsis Caullery GENUS
-=======
+# Ellobiopsis Caullery GENUS
 
 #### Status
 ACCEPTED

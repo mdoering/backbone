@@ -1,5 +1,4 @@
-Stanjehughesia hamatiella W.P. Wu SPECIES
-=======
+# Stanjehughesia hamatiella W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

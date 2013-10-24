@@ -1,5 +1,4 @@
-Pocillaria ravenelii (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Pocillaria ravenelii (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

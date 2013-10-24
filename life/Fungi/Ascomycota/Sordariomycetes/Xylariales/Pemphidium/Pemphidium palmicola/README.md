@@ -1,5 +1,4 @@
-Pemphidium palmicola K.D. Hyde SPECIES
-=======
+# Pemphidium palmicola K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

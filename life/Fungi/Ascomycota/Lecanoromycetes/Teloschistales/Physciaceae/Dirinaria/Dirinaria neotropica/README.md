@@ -1,5 +1,4 @@
-Dirinaria neotropica Kalb SPECIES
-=======
+# Dirinaria neotropica Kalb SPECIES
 
 #### Status
 ACCEPTED

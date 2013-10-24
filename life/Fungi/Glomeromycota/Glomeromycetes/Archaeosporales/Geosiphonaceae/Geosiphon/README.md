@@ -1,5 +1,4 @@
-Geosiphon F. Wettst. GENUS
-=======
+# Geosiphon F. Wettst. GENUS
 
 #### Status
 ACCEPTED

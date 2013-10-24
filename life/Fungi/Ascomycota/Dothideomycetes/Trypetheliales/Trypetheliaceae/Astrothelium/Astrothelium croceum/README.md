@@ -1,5 +1,4 @@
-Astrothelium croceum Malme SPECIES
-=======
+# Astrothelium croceum Malme SPECIES
 
 #### Status
 ACCEPTED

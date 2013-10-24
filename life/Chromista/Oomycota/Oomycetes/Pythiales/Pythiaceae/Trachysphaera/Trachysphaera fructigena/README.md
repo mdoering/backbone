@@ -1,5 +1,4 @@
-Trachysphaera fructigena Tabor & Bunting, 1923 SPECIES
-=======
+# Trachysphaera fructigena Tabor & Bunting, 1923 SPECIES
 
 #### Status
 ACCEPTED

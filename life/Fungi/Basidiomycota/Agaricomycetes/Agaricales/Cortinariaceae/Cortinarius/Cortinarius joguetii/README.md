@@ -1,5 +1,4 @@
-Cortinarius joguetii Melot SPECIES
-=======
+# Cortinarius joguetii Melot SPECIES
 
 #### Status
 ACCEPTED

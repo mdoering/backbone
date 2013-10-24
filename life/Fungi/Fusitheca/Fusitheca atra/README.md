@@ -1,5 +1,4 @@
-Fusitheca atra Bonord. SPECIES
-=======
+# Fusitheca atra Bonord. SPECIES
 
 #### Status
 ACCEPTED

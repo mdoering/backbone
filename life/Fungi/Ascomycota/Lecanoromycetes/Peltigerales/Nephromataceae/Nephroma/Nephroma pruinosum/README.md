@@ -1,5 +1,4 @@
-Nephroma pruinosum (Mont.) Zahlbr. SPECIES
-=======
+# Nephroma pruinosum (Mont.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

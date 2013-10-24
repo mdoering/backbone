@@ -1,5 +1,4 @@
-Angulolithina arca Bukry, 1973 SPECIES
-=======
+# Angulolithina arca Bukry, 1973 SPECIES
 
 #### Status
 ACCEPTED

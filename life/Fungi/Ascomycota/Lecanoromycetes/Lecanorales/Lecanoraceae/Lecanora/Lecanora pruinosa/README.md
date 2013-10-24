@@ -1,14 +1,13 @@
-Squamaria pruinosa (Chaub.) Duby SPECIES
-=======
+# Lecanora pruinosa Chaub. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Gall. (Paris), Edn 2 2: 660 (1830)
+Fl. Agenaise 495 (1821)
 
 #### Original name
 Lecanora pruinosa Chaub.

@@ -1,5 +1,4 @@
-Lobatiquinella Vachard, 1994 GENUS
-=======
+# Lobatiquinella Vachard, 1994 GENUS
 
 #### Status
 ACCEPTED

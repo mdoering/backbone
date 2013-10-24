@@ -1,5 +1,4 @@
-Strigula wilsonii (Riddle) R.C. Harris SPECIES
-=======
+# Strigula wilsonii (Riddle) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

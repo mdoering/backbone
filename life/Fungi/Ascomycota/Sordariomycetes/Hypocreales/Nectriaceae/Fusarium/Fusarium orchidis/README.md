@@ -1,5 +1,4 @@
-Fusarium orchidis Petch SPECIES
-=======
+# Fusarium orchidis Petch SPECIES
 
 #### Status
 ACCEPTED

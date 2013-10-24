@@ -1,5 +1,4 @@
-Filisphaeridium asagaiense (Takahashi, 1964) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium asagaiense (Takahashi, 1964) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

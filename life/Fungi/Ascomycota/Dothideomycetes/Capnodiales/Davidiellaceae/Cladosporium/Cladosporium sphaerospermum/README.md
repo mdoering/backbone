@@ -1,5 +1,4 @@
-Cladosporium sphaerospermum Penz., 1882 SPECIES
-=======
+# Cladosporium sphaerospermum Penz., 1882 SPECIES
 
 #### Status
 ACCEPTED

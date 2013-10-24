@@ -1,5 +1,4 @@
-Pegoxystris Sugiyama, 1992 GENUS
-=======
+# Pegoxystris Sugiyama, 1992 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria heliopsidis Schwein. SPECIES
-=======
+# Sphaeria heliopsidis Schwein. SPECIES
 
 #### Status
 ACCEPTED

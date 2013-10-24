@@ -1,5 +1,4 @@
-Meionomyces mychoceri Thaxt., 1931 SPECIES
-=======
+# Meionomyces mychoceri Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

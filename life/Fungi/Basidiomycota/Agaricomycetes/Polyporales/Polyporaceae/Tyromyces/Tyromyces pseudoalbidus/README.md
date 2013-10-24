@@ -1,5 +1,4 @@
-Tyromyces pseudoalbidus Bondartseva SPECIES
-=======
+# Tyromyces pseudoalbidus Bondartseva SPECIES
 
 #### Status
 ACCEPTED

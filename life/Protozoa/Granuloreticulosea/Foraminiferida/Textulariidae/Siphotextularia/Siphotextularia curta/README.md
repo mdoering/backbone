@@ -1,5 +1,4 @@
-Siphotextularia curta (Cushman, 1922) SPECIES
-=======
+# Siphotextularia curta (Cushman, 1922) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanactis flaviseda (Nyl.) Tehler SPECIES
-=======
+# Lecanactis flaviseda (Nyl.) Tehler SPECIES
 
 #### Status
 ACCEPTED

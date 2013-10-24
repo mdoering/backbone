@@ -1,5 +1,4 @@
-Rugasphaera Jiabo, 1978 GENUS
-=======
+# Rugasphaera Jiabo, 1978 GENUS
 
 #### Status
 ACCEPTED

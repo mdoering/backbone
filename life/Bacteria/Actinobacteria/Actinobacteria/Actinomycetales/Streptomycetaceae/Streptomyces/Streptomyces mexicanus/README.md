@@ -1,5 +1,4 @@
-Streptomyces mexicanus Petrosyan et al., 2003 SPECIES
-=======
+# Streptomyces mexicanus Petrosyan et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

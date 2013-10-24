@@ -1,5 +1,4 @@
-Poria macrospora Rodway & Cleland SPECIES
-=======
+# Poria macrospora Rodway & Cleland SPECIES
 
 #### Status
 ACCEPTED

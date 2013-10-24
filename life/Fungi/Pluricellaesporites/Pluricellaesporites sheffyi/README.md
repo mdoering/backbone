@@ -1,5 +1,4 @@
-Pluricellaesporites sheffyi Mart.-Hern. & Tom.-Ort. SPECIES
-=======
+# Pluricellaesporites sheffyi Mart.-Hern. & Tom.-Ort. SPECIES
 
 #### Status
 ACCEPTED

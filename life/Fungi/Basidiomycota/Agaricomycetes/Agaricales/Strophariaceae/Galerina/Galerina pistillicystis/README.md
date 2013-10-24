@@ -1,5 +1,4 @@
-Galerina pistillicystis (G.F. Atk.) A.H. Sm. & Singer SPECIES
-=======
+# Galerina pistillicystis (G.F. Atk.) A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

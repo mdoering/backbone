@@ -1,5 +1,4 @@
-Triceratium semicirculare Brightwell SPECIES
-=======
+# Triceratium semicirculare Brightwell SPECIES
 
 #### Status
 ACCEPTED

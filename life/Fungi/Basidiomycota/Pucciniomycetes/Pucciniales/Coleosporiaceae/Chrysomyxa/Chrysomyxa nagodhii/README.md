@@ -1,5 +1,4 @@
-Chrysomyxa nagodhii P.E. Crane, 2001 SPECIES
-=======
+# Chrysomyxa nagodhii P.E. Crane, 2001 SPECIES
 
 #### Status
 ACCEPTED

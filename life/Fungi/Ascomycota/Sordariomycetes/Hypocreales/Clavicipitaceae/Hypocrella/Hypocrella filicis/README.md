@@ -1,5 +1,4 @@
-Hypocrella filicis Rehm SPECIES
-=======
+# Hypocrella filicis Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia conquisita Cummins SPECIES
-=======
+# Puccinia conquisita Cummins SPECIES
 
 #### Status
 ACCEPTED

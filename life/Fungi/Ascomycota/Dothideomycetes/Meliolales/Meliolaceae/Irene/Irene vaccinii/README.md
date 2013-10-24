@@ -1,5 +1,4 @@
-Irene vaccinii Hansf. SPECIES
-=======
+# Irene vaccinii Hansf. SPECIES
 
 #### Status
 ACCEPTED

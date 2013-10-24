@@ -1,5 +1,4 @@
-Angelina E.M. Fries, 1849 GENUS
-=======
+# Angelina E.M. Fries, 1849 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanidium subvelatulum (Vain.) C.W. Dodge SPECIES
-=======
+# Lecanidium subvelatulum (Vain.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

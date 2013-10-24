@@ -1,5 +1,4 @@
-Monoicomyces ocaleae Speg. SPECIES
-=======
+# Monoicomyces ocaleae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sagrinella lobata (Brady, 1881) SPECIES
-=======
+# Sagrinella lobata (Brady, 1881) SPECIES
 
 #### Status
 ACCEPTED

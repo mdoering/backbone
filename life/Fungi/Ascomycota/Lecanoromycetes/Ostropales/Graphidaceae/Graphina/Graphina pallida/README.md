@@ -1,5 +1,4 @@
-Graphina pallida (Fée) Müll. Arg. SPECIES
-=======
+# Graphina pallida (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

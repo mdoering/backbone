@@ -1,5 +1,4 @@
-Massarina taphrina (Fr.) O.E. Erikss. SPECIES
-=======
+# Massarina taphrina (Fr.) O.E. Erikss. SPECIES
 
 #### Status
 ACCEPTED

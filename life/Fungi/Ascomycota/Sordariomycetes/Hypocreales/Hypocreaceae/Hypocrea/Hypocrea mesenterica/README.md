@@ -1,5 +1,4 @@
-Hypocrea mesenterica Bres. & Pat. SPECIES
-=======
+# Hypocrea mesenterica Bres. & Pat. SPECIES
 
 #### Status
 ACCEPTED

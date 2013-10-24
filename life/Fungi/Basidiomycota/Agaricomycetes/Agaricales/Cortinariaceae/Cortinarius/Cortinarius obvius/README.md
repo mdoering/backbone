@@ -1,5 +1,4 @@
-Cortinarius obvius E. Horak SPECIES
-=======
+# Cortinarius obvius E. Horak SPECIES
 
 #### Status
 ACCEPTED

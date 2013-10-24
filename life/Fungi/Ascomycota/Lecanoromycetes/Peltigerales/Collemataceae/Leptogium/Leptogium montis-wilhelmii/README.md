@@ -1,5 +1,4 @@
-Leptogium montis-wilhelmii Diederich & Sipman SPECIES
-=======
+# Leptogium montis-wilhelmii Diederich & Sipman SPECIES
 
 #### Status
 ACCEPTED

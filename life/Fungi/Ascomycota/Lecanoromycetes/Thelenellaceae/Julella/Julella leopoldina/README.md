@@ -1,5 +1,4 @@
-Julella leopoldina Rehm SPECIES
-=======
+# Julella leopoldina Rehm SPECIES
 
 #### Status
 ACCEPTED

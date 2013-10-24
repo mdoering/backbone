@@ -1,5 +1,4 @@
-Amazonia cinnamomi Hosag. SPECIES
-=======
+# Amazonia cinnamomi Hosag. SPECIES
 
 #### Status
 ACCEPTED

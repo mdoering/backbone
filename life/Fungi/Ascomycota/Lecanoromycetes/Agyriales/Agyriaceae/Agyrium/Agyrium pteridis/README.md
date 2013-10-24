@@ -1,5 +1,4 @@
-Agyrium pteridis P. Karst. SPECIES
-=======
+# Agyrium pteridis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

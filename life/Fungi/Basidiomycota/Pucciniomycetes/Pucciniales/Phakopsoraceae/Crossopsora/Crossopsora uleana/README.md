@@ -1,5 +1,4 @@
-Crossopsora uleana (Syd. & P. Syd.) R.S. Peterson SPECIES
-=======
+# Crossopsora uleana (Syd. & P. Syd.) R.S. Peterson SPECIES
 
 #### Status
 ACCEPTED

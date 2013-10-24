@@ -1,5 +1,4 @@
-Russula subvelata Singer SPECIES
-=======
+# Russula subvelata Singer SPECIES
 
 #### Status
 ACCEPTED

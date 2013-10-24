@@ -1,5 +1,4 @@
-Sporidesmium exasperatum Ellis & Barthol. SPECIES
-=======
+# Sporidesmium exasperatum Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

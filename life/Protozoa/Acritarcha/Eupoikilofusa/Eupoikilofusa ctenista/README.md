@@ -1,5 +1,4 @@
-Eupoikilofusa ctenista Loeblich & Tappan, 1978 SPECIES
-=======
+# Eupoikilofusa ctenista Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

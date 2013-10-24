@@ -1,5 +1,4 @@
-Phaeographina heterocarpa (Nyl.) Zahlbr. SPECIES
-=======
+# Phaeographina heterocarpa (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

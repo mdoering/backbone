@@ -1,5 +1,4 @@
-Pleospora crassiasca Séchet SPECIES
-=======
+# Pleospora crassiasca Séchet SPECIES
 
 #### Status
 ACCEPTED

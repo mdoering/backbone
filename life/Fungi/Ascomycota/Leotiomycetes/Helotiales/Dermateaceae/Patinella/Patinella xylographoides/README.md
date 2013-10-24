@@ -1,5 +1,4 @@
-Patinella xylographoides Rehm SPECIES
-=======
+# Patinella xylographoides Rehm SPECIES
 
 #### Status
 ACCEPTED

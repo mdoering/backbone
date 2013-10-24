@@ -1,5 +1,4 @@
-Pseudoanguillospora S.H. Iqbal GENUS
-=======
+# Pseudoanguillospora S.H. Iqbal GENUS
 
 #### Status
 ACCEPTED

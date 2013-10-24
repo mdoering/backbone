@@ -1,5 +1,4 @@
-Asterophora mirabilis (T.W. May) Redhead & Seifert, 2001 SPECIES
-=======
+# Asterophora mirabilis (T.W. May) Redhead & Seifert, 2001 SPECIES
 
 #### Status
 ACCEPTED

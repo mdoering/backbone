@@ -1,5 +1,4 @@
-Pterula palmicola Corner, 1952 SPECIES
-=======
+# Pterula palmicola Corner, 1952 SPECIES
 
 #### Status
 ACCEPTED

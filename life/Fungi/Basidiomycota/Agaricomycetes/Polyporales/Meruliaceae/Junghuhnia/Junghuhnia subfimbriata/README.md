@@ -1,14 +1,13 @@
-Poria eupora var. subfimbriata Romell, 1926 VARIETY
-=======
+# Junghuhnia subfimbriata (Romell) Ginns, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Svensk bot. Tidskr. 20: 16 (1926)
+Mycotaxon 21: 327 (1984)
 
 #### Original name
 Poria eupora var. subfimbriata Romell, 1926

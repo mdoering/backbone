@@ -1,5 +1,4 @@
-Torula celtis Biv. SPECIES
-=======
+# Torula celtis Biv. SPECIES
 
 #### Status
 ACCEPTED

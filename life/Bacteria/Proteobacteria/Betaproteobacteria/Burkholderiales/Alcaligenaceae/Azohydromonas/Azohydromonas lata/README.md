@@ -1,8 +1,7 @@
-Alcaligenes latus Palleroni and Palleroni, 1978 (Approved Lists, 1980) SPECIES
-=======
+# Azohydromonas lata (Palleroni & Palleroni, 1978) Xie & Yokota, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

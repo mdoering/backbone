@@ -1,5 +1,4 @@
-Hormathonema violaceonigrum Ercegovic SPECIES
-=======
+# Hormathonema violaceonigrum Ercegovic SPECIES
 
 #### Status
 ACCEPTED

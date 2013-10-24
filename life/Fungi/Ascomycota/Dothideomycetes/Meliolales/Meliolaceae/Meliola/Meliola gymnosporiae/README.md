@@ -1,5 +1,4 @@
-Meliola gymnosporiae Petr. & Syd. SPECIES
-=======
+# Meliola gymnosporiae Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Peziza depressa var. applanata (Hedw.) Pers. VARIETY
-=======
+# Peziza depressa Pers., 1796 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. fung. (Göttingen) 2: 640 (1801)
+Observ. mycol. (Lipsiae) 1: 40 (1796)
 
 #### Original name
-Octospora applanata Hedw.
+Peziza depressa Pers., 1796
 
 ### Remarks
 null

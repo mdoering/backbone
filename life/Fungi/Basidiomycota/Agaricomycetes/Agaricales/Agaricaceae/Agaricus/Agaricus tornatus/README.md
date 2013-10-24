@@ -1,5 +1,4 @@
-Agaricus tornatus Fr. SPECIES
-=======
+# Agaricus tornatus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina pannonica Petr. SPECIES
-=======
+# Diplodina pannonica Petr. SPECIES
 
 #### Status
 ACCEPTED

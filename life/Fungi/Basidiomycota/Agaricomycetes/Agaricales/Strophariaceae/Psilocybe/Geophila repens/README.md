@@ -1,5 +1,4 @@
-Geophila repens (L.) I.M. Johnst. {?} SPECIES
-=======
+# Geophila repens (L.) I.M. Johnst. {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Bacillus reuszeri Shida et al., 1995 SPECIES
-=======
+# Brevibacillus reuszeri (Shida et al., 1995) Shida et al., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

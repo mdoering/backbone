@@ -1,5 +1,4 @@
-Desulfobacca Oude Elferink et al., 1999 GENUS
-=======
+# Desulfobacca Oude Elferink et al., 1999 GENUS
 
 #### Status
 ACCEPTED

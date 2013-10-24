@@ -1,5 +1,4 @@
-Arundinella GENUS
-=======
+# Arundinella GENUS
 
 #### Status
 ACCEPTED

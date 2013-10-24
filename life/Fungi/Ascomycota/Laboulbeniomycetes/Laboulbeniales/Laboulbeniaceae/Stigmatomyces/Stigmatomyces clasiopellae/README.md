@@ -1,5 +1,4 @@
-Stigmatomyces clasiopellae M.B. Hughes, A. Weir & W. Rossi SPECIES
-=======
+# Stigmatomyces clasiopellae M.B. Hughes, A. Weir & W. Rossi SPECIES
 
 #### Status
 ACCEPTED

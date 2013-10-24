@@ -1,5 +1,4 @@
-Pholiota sienna (Kauffman) A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota sienna (Kauffman) A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cylindrocladiopsis lagerstraemiae J.M. Yen SPECIES
-=======
+# Cylindrocladiopsis lagerstroemiae J.M. Yen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 8(1): 236 (1979)
 
 #### Original name
-Cylindrocladiopsis lagerstraemiae J.M. Yen
+Cylindrocladiopsis lagerstroemiae J.M. Yen
 
 ### Remarks
 null

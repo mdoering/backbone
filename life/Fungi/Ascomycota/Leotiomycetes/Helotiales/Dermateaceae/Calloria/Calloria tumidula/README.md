@@ -1,5 +1,4 @@
-Calloria tumidula Rick SPECIES
-=======
+# Calloria tumidula Rick SPECIES
 
 #### Status
 ACCEPTED

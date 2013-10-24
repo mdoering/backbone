@@ -1,5 +1,4 @@
-Polyporus indigenus I.J. Araujo & M.A. de Sousa, 1981 SPECIES
-=======
+# Polyporus indigenus I.J. Araujo & M.A. de Sousa, 1981 SPECIES
 
 #### Status
 ACCEPTED

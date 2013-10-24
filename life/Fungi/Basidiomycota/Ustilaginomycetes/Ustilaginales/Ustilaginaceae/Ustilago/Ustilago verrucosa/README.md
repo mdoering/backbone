@@ -1,5 +1,4 @@
-Ustilago verrucosa Vestergr. SPECIES
-=======
+# Ustilago verrucosa Vestergr. SPECIES
 
 #### Status
 ACCEPTED

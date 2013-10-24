@@ -1,5 +1,4 @@
-Lophosphaeridium bottnicum Hagenfeldt, 1989 SPECIES
-=======
+# Lophosphaeridium bottnicum Hagenfeldt, 1989 SPECIES
 
 #### Status
 ACCEPTED

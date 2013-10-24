@@ -1,5 +1,4 @@
-Dictyochaeta aliformis Kuthub. & Nawawi SPECIES
-=======
+# Dictyochaeta aliformis Kuthub. & Nawawi SPECIES
 
 #### Status
 ACCEPTED

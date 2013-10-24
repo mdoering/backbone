@@ -1,17 +1,16 @@
-Catillaria schumannii var. schumannii Stein VARIETY
-=======
+# Micarea melaenida (Nyl.) Coppins SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Br. Mus. nat. Hist. , Bot. 11(2): 154 (1983)
 
 #### Original name
-Catillaria schumannii var. schumannii Stein
+Lecidea melaenida Nyl.
 
 ### Remarks
 null

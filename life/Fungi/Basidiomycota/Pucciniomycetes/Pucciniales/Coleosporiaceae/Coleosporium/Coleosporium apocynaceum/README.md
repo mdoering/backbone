@@ -1,5 +1,4 @@
-Coleosporium apocynaceum Cooke SPECIES
-=======
+# Coleosporium apocynaceum Cooke SPECIES
 
 #### Status
 ACCEPTED

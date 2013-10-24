@@ -1,5 +1,4 @@
-Pedobacter himalayensis Shivaji et al., 2005 SPECIES
-=======
+# Pedobacter himalayensis Shivaji et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peltasterella Bat. & H. Maia GENUS
-=======
+# Peltasterella Bat. & H. Maia GENUS
 
 #### Status
 ACCEPTED

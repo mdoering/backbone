@@ -1,5 +1,4 @@
-Puccinia burmanica Syd., P. Syd. & E.J. Butler SPECIES
-=======
+# Puccinia burmanica Syd., P. Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

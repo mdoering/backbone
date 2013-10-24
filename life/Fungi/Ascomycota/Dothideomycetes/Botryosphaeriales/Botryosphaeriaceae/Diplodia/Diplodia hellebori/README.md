@@ -1,5 +1,4 @@
-Diplodia hellebori Brunaud SPECIES
-=======
+# Diplodia hellebori Brunaud SPECIES
 
 #### Status
 ACCEPTED

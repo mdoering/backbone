@@ -1,17 +1,16 @@
-Oidiopsis taurica f. sp FORM
-=======
+# Leveillula taurica (Lév.) G. Arnaud, 1921 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kavaka 14(1-2): 62 (1987)
+Annls Épiphyt. 7: 92 (1921)
 
 #### Original name
-Oidiopsis taurica f. sp
+Erysiphe taurica Lév., 1851
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Puccinia mayoriana Gäum. SPECIES
-=======
+# Puccinia mayoriana Gäum. SPECIES
 
 #### Status
 ACCEPTED

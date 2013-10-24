@@ -1,5 +1,4 @@
-Lecanora chinensis Zahlbr. SPECIES
-=======
+# Lecanora chinensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmiellus papillifer Singer SPECIES
-=======
+# Marasmiellus papillifer Singer SPECIES
 
 #### Status
 ACCEPTED

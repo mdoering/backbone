@@ -1,5 +1,4 @@
-Buedingiisphaeridium glebosum Mullins, 2004 SPECIES
-=======
+# Buedingiisphaeridium glebosum Mullins, 2004 SPECIES
 
 #### Status
 ACCEPTED

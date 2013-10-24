@@ -1,5 +1,4 @@
-Erysibe baccata Wallr. SPECIES
-=======
+# Erysibe baccata Wallr. SPECIES
 
 #### Status
 ACCEPTED

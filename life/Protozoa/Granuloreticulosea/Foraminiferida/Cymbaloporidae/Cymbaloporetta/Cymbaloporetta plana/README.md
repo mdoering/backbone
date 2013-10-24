@@ -1,8 +1,7 @@
-Tretomphalus planus Cushman, 1924 SPECIES
-=======
+# Cymbaloporetta plana (Cushman, 1924) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

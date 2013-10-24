@@ -1,5 +1,4 @@
-Lachnum linderae J.G. Han, Raitv. & H.D. Shin SPECIES
-=======
+# Lachnum linderae J.G. Han, Raitv. & H.D. Shin SPECIES
 
 #### Status
 ACCEPTED

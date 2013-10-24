@@ -1,17 +1,16 @@
-Leptoxyphium graminium Mukerji & M. Khanna SPECIES
-=======
+# Leptoxyphium gramineum Mukerji & M. Khanna SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Mukerji, Gupta, Khanna & Rajeevalochana, Biblthca Mycol. 91: 294 (1983)
 
 #### Original name
-Leptoxyphium graminium Mukerji & M. Khanna
+Leptoxyphium gramineum Mukerji & M. Khanna
 
 ### Remarks
 null

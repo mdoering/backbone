@@ -1,5 +1,4 @@
-Rinodina saulensis Aptroot SPECIES
-=======
+# Rinodina saulensis Aptroot SPECIES
 
 #### Status
 ACCEPTED

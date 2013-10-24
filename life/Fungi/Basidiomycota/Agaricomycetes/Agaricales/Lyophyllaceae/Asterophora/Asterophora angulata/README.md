@@ -1,5 +1,4 @@
-Asterophora angulata (Catt.) Lind SPECIES
-=======
+# Asterophora angulata (Catt.) Lind SPECIES
 
 #### Status
 ACCEPTED

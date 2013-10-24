@@ -1,14 +1,13 @@
-Phlyctidium globosum (A. Braun) Sorokin, 1956 SPECIES
-=======
+# Rhizophydium globosum (A. Braun) Rabenh., 1868 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Acta R. Soc. Scient. upsal. , Ser. 4 16(3): 367 (1956)
+Flora Europaea Algarium 3: 280 (1868)
 
 #### Original name
 Chytridium globosum A. Braun, 1855

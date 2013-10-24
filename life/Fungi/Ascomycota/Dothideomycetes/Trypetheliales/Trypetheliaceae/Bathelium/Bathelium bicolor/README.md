@@ -1,5 +1,4 @@
-Bathelium bicolor (Taylor) C.W. Dodge SPECIES
-=======
+# Bathelium bicolor (Taylor) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

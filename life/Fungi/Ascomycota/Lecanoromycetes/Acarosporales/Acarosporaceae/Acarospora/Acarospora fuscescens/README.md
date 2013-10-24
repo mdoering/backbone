@@ -1,5 +1,4 @@
-Acarospora fuscescens H. Magn. SPECIES
-=======
+# Acarospora fuscescens H. Magn. SPECIES
 
 #### Status
 ACCEPTED

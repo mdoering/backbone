@@ -1,5 +1,4 @@
-Sarcostroma cadicola (B. Sutton) Nag Raj SPECIES
-=======
+# Sarcostroma cadicola (B. Sutton) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

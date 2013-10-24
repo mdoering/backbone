@@ -1,5 +1,4 @@
-Agaricus lignophilus Raithelh. SPECIES
-=======
+# Agaricus lignophilus Raithelh. SPECIES
 
 #### Status
 ACCEPTED

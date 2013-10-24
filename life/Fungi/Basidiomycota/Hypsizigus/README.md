@@ -1,5 +1,4 @@
-Hypsizigus GENUS
-=======
+# Hypsizigus GENUS
 
 #### Status
 ACCEPTED

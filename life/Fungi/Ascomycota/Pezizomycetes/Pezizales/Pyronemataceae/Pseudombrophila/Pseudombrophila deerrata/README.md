@@ -1,14 +1,13 @@
-Peziza deerrata P. Karst., 1869 SPECIES
-=======
+# Pseudombrophila deerrata (P. Karst.) Seaver, 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Not. Sällsk. Fauna et Fl. Fenn. Förh. 10: 119 (1869)
+North American Cup-fungi (New York), (Operculates) 141 (1928)
 
 #### Original name
 Peziza deerrata P. Karst., 1869

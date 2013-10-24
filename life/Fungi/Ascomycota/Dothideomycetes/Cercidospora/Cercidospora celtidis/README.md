@@ -1,5 +1,4 @@
-Cercidospora celtidis (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Cercidospora celtidis (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

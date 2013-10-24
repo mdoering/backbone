@@ -1,5 +1,4 @@
-Ustilago lituana R.G. Shivas, Vánky & Cunningt. SPECIES
-=======
+# Ustilago lituana R.G. Shivas, Vánky & Cunningt. SPECIES
 
 #### Status
 ACCEPTED

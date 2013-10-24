@@ -1,5 +1,4 @@
-Gabarnaudia fimicola Samson & W. Gams, 1974 SPECIES
-=======
+# Gabarnaudia fimicola Samson & W. Gams, 1974 SPECIES
 
 #### Status
 ACCEPTED

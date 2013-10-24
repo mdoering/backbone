@@ -1,8 +1,7 @@
-Hypocomides zyrphaeae Chatton & Lwoff, 1926 SPECIES
-=======
+# Anisocomides zyrphaeae (Chatton & Lwoff, 1926) Chatton & Lwoff, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

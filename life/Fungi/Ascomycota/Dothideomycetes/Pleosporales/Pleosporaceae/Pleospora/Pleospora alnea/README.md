@@ -1,5 +1,4 @@
-Pleospora alnea Kauffman SPECIES
-=======
+# Pleospora alnea Kauffman SPECIES
 
 #### Status
 ACCEPTED

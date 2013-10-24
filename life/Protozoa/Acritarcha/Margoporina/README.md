@@ -1,5 +1,4 @@
-Margoporina S.N. Naumova, 1968 GENUS
-=======
+# Margoporina S.N. Naumova, 1968 GENUS
 
 #### Status
 ACCEPTED

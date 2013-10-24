@@ -1,5 +1,4 @@
-Haplaria ellisii Cooke SPECIES
-=======
+# Haplaria ellisii Cooke SPECIES
 
 #### Status
 ACCEPTED

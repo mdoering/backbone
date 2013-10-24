@@ -1,17 +1,16 @@
-Toninia coeruleonigricans f. coeruleonigricans FORM
-=======
+# Toninia sedifolia (Scop.) Timdal SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Op. bot. 110: 93 (1991)
 
 #### Original name
-null
+Lichen sedifolius Scop.
 
 ### Remarks
 null

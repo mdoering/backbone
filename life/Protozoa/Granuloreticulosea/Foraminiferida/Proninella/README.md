@@ -1,5 +1,4 @@
-Proninella Reitlinger in Menner & Reitlinger, 1971 GENUS
-=======
+# Proninella Reitlinger in Menner & Reitlinger, 1971 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora babylonicae Sawada SPECIES
-=======
+# Cercospora babylonicae Sawada SPECIES
 
 #### Status
 ACCEPTED

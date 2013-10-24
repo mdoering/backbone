@@ -1,5 +1,4 @@
-Pseudoramularia ruwenzoriensis Matsush., 1983 SPECIES
-=======
+# Pseudoramularia ruwenzoriensis Matsush., 1983 SPECIES
 
 #### Status
 ACCEPTED

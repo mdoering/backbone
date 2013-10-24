@@ -1,5 +1,4 @@
-Kuhneria catenulata P.A. Dang. SPECIES
-=======
+# Kuhneria catenulata P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

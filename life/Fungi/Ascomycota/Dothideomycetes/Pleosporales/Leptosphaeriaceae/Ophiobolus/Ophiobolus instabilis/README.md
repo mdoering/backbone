@@ -1,5 +1,4 @@
-Ophiobolus instabilis Ellis & Everh. SPECIES
-=======
+# Ophiobolus instabilis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

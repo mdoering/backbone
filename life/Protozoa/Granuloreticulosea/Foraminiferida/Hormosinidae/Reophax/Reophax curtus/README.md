@@ -1,5 +1,4 @@
-Reophax curtus Cushman, 1920 SPECIES
-=======
+# Reophax curtus Cushman, 1920 SPECIES
 
 #### Status
 ACCEPTED

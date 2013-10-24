@@ -1,5 +1,4 @@
-Dimerosporium psilostomatis (Thüm.) Sacc. SPECIES
-=======
+# Dimerosporium psilostomatis (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

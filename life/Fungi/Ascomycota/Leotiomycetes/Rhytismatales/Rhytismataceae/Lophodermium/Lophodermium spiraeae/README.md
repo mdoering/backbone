@@ -1,5 +1,4 @@
-Lophodermium spiraeae Hazsl. SPECIES
-=======
+# Lophodermium spiraeae Hazsl. SPECIES
 
 #### Status
 ACCEPTED

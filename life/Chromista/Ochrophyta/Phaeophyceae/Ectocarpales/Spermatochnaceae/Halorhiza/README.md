@@ -1,5 +1,4 @@
-Halorhiza F.T. Kützing, 1843 GENUS
-=======
+# Halorhiza F.T. Kützing, 1843 GENUS
 
 #### Status
 ACCEPTED

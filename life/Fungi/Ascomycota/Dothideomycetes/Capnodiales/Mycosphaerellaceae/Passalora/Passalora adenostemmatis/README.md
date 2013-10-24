@@ -1,5 +1,4 @@
-Passalora adenostemmatis (R.K. Verma & Kamal) U. Braun & Crous SPECIES
-=======
+# Passalora adenostemmatis (R.K. Verma & Kamal) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

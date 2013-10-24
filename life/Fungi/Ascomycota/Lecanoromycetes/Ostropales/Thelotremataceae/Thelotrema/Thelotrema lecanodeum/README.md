@@ -1,5 +1,4 @@
-Thelotrema lecanodeum Nyl. SPECIES
-=======
+# Thelotrema lecanodeum Nyl. SPECIES
 
 #### Status
 ACCEPTED

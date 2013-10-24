@@ -1,5 +1,4 @@
-Radiocystis aphanothecoidea F. Hindák SPECIES
-=======
+# Radiocystis aphanothecoidea F. Hindák SPECIES
 
 #### Status
 ACCEPTED

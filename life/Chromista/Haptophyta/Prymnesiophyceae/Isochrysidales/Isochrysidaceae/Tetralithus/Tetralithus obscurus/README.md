@@ -1,5 +1,4 @@
-Tetralithus obscurus Deflandre SPECIES
-=======
+# Tetralithus obscurus Deflandre SPECIES
 
 #### Status
 ACCEPTED

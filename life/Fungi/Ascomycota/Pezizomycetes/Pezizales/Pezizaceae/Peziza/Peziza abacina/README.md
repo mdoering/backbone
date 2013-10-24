@@ -1,5 +1,4 @@
-Peziza abacina Fr. SPECIES
-=======
+# Peziza abacina Fr. SPECIES
 
 #### Status
 ACCEPTED

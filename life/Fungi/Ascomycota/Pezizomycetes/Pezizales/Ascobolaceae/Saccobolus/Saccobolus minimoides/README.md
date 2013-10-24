@@ -1,5 +1,4 @@
-Saccobolus minimoides Prokhorov SPECIES
-=======
+# Saccobolus minimoides Prokhorov SPECIES
 
 #### Status
 ACCEPTED

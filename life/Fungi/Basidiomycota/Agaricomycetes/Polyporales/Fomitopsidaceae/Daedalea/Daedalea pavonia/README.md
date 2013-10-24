@@ -1,5 +1,4 @@
-Daedalea pavonia Berk. SPECIES
-=======
+# Daedalea pavonia Berk. SPECIES
 
 #### Status
 ACCEPTED

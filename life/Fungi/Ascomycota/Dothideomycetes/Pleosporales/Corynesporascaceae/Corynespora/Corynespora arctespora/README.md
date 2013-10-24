@@ -1,5 +1,4 @@
-Corynespora arctespora (Cooke & Ellis) Carris SPECIES
-=======
+# Corynespora arctespora (Cooke & Ellis) Carris SPECIES
 
 #### Status
 ACCEPTED

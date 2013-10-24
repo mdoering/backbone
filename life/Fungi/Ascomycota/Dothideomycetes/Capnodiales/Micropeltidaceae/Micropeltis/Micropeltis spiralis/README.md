@@ -1,5 +1,4 @@
-Micropeltis spiralis Hansf. SPECIES
-=======
+# Micropeltis spiralis Hansf. SPECIES
 
 #### Status
 ACCEPTED

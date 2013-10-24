@@ -1,5 +1,4 @@
-Arthopyrenia octomerella Müll. Arg. SPECIES
-=======
+# Arthopyrenia octomerella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

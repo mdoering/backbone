@@ -1,5 +1,4 @@
-Myxosporium aberrans Sacc. SPECIES
-=======
+# Myxosporium aberrans Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterostomella lismorensis Syd. SPECIES
-=======
+# Asterostomella lismorensis Syd. SPECIES
 
 #### Status
 ACCEPTED

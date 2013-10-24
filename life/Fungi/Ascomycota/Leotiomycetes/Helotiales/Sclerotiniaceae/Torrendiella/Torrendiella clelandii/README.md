@@ -1,14 +1,13 @@
-Lachnella clelandii Hansf., 1954 SPECIES
-=======
+# Torrendiella clelandii (Hansf.) Spooner, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Linn. Soc. N. S. W. 79: 126 (1954)
+Biblthca Mycol. 116: 327 (1987)
 
 #### Original name
 Lachnella clelandii Hansf., 1954

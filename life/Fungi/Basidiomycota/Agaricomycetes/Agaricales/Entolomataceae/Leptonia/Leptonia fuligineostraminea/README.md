@@ -1,5 +1,4 @@
-Leptonia fuligineostraminea Rick SPECIES
-=======
+# Leptonia fuligineostraminea Rick SPECIES
 
 #### Status
 ACCEPTED

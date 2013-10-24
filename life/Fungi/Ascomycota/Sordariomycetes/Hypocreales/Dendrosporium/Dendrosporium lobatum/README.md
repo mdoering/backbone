@@ -1,5 +1,4 @@
-Dendrosporium lobatum Plakidas & Edgerton ex J.L. Crane, 1972 SPECIES
-=======
+# Dendrosporium lobatum Plakidas & Edgerton ex J.L. Crane, 1972 SPECIES
 
 #### Status
 ACCEPTED

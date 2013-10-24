@@ -1,5 +1,4 @@
-Karstenella vernalis Harmaja, 1969 SPECIES
-=======
+# Karstenella vernalis Harmaja, 1969 SPECIES
 
 #### Status
 ACCEPTED

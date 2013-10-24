@@ -1,14 +1,13 @@
-Chorostella (Sacc.) Clem. & Shear GENUS
-=======
+# Cryptodiaporthe Petrak, 1921 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Gen. fung. (Minneapolis), Edn 2 68, 264 (1931)
+null
 
 #### Original name
 null

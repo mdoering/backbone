@@ -1,17 +1,16 @@
-Helminthascus arachnophthora Tranzschel SPECIES
-=======
+# Helminthascus arachnophthorus Tranzschel, 1898 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trudy imp. S-peterb. Obshch. Estest. 28: (1898)
 
 #### Original name
-Helminthascus arachnophthora Tranzschel
+Helminthascus arachnophthorus Tranzschel, 1898
 
 ### Remarks
 null

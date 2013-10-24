@@ -1,5 +1,4 @@
-Emblemia GENUS
-=======
+# Emblemia GENUS
 
 #### Status
 ACCEPTED

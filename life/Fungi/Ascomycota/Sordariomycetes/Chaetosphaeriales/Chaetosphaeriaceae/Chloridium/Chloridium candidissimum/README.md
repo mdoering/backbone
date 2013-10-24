@@ -1,5 +1,4 @@
-Chloridium candidissimum Schwein. SPECIES
-=======
+# Chloridium candidissimum Schwein. SPECIES
 
 #### Status
 ACCEPTED

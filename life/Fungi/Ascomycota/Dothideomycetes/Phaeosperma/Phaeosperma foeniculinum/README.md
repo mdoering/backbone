@@ -1,5 +1,4 @@
-Phaeosperma foeniculinum Speg. SPECIES
-=======
+# Phaeosperma foeniculinum Speg. SPECIES
 
 #### Status
 ACCEPTED

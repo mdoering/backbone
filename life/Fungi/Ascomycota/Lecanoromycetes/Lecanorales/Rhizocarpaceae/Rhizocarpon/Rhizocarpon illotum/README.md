@@ -1,5 +1,4 @@
-Rhizocarpon illotum (Sandst.) Lettau SPECIES
-=======
+# Rhizocarpon illotum (Sandst.) Lettau SPECIES
 
 #### Status
 ACCEPTED

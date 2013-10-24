@@ -1,5 +1,4 @@
-Stigmina ellisiana B. Sutton SPECIES
-=======
+# Stigmina ellisiana B. Sutton SPECIES
 
 #### Status
 ACCEPTED

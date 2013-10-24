@@ -1,5 +1,4 @@
-Striglia rubicunda (Klotzsch) Kuntze SPECIES
-=======
+# Striglia rubicunda (Klotzsch) Kuntze SPECIES
 
 #### Status
 ACCEPTED

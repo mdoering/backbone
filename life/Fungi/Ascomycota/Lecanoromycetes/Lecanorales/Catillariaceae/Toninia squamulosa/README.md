@@ -1,5 +1,4 @@
-Toninia squamulosa Deakin SPECIES
-=======
+# Toninia squamulosa Deakin SPECIES
 
 #### Status
 ACCEPTED

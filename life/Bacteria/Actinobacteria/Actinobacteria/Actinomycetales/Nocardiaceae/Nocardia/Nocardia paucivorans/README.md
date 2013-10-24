@@ -1,5 +1,4 @@
-Nocardia paucivorans Yassin et al., 2000 SPECIES
-=======
+# Nocardia paucivorans Yassin et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

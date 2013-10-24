@@ -1,17 +1,16 @@
-Rhodotorula grinsbergsii C. Ramírez & A.E. González SPECIES
-=======
+# Rhodotorula grinbergsii C. Ramírez & A.E. González SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopathologia 88(1): 51 (1984)
 
 #### Original name
-Rhodotorula grinsbergsii C. Ramírez & A.E. González
+Rhodotorula grinbergsii C. Ramírez & A.E. González
 
 ### Remarks
 null

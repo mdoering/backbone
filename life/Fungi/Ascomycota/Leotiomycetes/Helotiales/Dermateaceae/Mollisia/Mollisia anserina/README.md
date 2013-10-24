@@ -1,5 +1,4 @@
-Mollisia anserina Velen. SPECIES
-=======
+# Mollisia anserina Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zygosaccharomyces B.T.P. Barker, 1901 GENUS
-=======
+# Zygosaccharomyces B.T.P. Barker, 1901 GENUS
 
 #### Status
 ACCEPTED

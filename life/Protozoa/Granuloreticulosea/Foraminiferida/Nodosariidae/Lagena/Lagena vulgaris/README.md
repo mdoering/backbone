@@ -1,5 +1,4 @@
-Lagena vulgaris SPECIES
-=======
+# Lagena vulgaris SPECIES
 
 #### Status
 ACCEPTED

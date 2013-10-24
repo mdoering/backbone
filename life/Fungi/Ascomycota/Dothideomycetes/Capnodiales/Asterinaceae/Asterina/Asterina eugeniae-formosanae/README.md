@@ -1,5 +1,4 @@
-Asterina eugeniae-formosanae W. Yamam. SPECIES
-=======
+# Asterina eugeniae-formosanae W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

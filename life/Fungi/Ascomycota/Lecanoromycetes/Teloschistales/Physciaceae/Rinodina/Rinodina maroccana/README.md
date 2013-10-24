@@ -1,5 +1,4 @@
-Rinodina maroccana H. Magn. SPECIES
-=======
+# Rinodina maroccana H. Magn. SPECIES
 
 #### Status
 ACCEPTED

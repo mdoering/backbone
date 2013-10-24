@@ -1,5 +1,4 @@
-Pandora athaliae (Z.Z. Li & M.Z. Fan) Z.Z. Li, M.Z. Fan & B. Huang, 1998 SPECIES
-=======
+# Pandora athaliae (Z.Z. Li & M.Z. Fan) Z.Z. Li, M.Z. Fan & B. Huang, 1998 SPECIES
 
 #### Status
 ACCEPTED

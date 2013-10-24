@@ -1,5 +1,4 @@
-Calothrix vivipara Harvey SPECIES
-=======
+# Calothrix vivipara Harvey SPECIES
 
 #### Status
 ACCEPTED

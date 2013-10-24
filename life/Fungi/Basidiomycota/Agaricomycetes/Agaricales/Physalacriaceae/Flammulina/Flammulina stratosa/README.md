@@ -1,5 +1,4 @@
-Flammulina stratosa Redhead, R.H. Petersen & Methven, 1999 SPECIES
-=======
+# Flammulina stratosa Redhead, R.H. Petersen & Methven, 1999 SPECIES
 
 #### Status
 ACCEPTED

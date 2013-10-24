@@ -1,5 +1,4 @@
-Mariusia andegavensis D. Pons & Boureau SPECIES
-=======
+# Mariusia andegavensis D. Pons & Boureau SPECIES
 
 #### Status
 ACCEPTED

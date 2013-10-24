@@ -1,5 +1,4 @@
-Colletotrichum pilcomayense Speg. SPECIES
-=======
+# Colletotrichum pilcomayense Speg. SPECIES
 
 #### Status
 ACCEPTED

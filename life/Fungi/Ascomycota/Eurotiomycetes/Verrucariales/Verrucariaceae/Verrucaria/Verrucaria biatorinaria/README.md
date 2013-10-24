@@ -1,5 +1,4 @@
-Verrucaria biatorinaria Zehetl. SPECIES
-=======
+# Verrucaria biatorinaria Zehetl. SPECIES
 
 #### Status
 ACCEPTED

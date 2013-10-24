@@ -1,5 +1,4 @@
-Colletotrichum cordiae Allesch. SPECIES
-=======
+# Colletotrichum cordiae Allesch. SPECIES
 
 #### Status
 ACCEPTED

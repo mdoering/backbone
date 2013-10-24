@@ -1,5 +1,4 @@
-Leptomitus valerianae Kütz. SPECIES
-=======
+# Leptomitus valerianae Kütz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exobasidium bisporum Sawada ex Ezuka, 1991 SPECIES
-=======
+# Exobasidium bisporum Sawada ex Ezuka, 1991 SPECIES
 
 #### Status
 ACCEPTED

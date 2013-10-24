@@ -1,5 +1,4 @@
-Pidoplitchkoviella terricola Kiril., 1975 SPECIES
-=======
+# Pidoplitchkoviella terricola Kiril., 1975 SPECIES
 
 #### Status
 ACCEPTED

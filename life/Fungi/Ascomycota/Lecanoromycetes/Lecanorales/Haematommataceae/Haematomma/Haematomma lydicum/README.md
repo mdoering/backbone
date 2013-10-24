@@ -1,5 +1,4 @@
-Haematomma lydicum J. Steiner SPECIES
-=======
+# Haematomma lydicum J. Steiner SPECIES
 
 #### Status
 ACCEPTED

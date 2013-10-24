@@ -1,5 +1,4 @@
-Lecanora maheui (B. de Lesd.) I.M. Lamb SPECIES
-=======
+# Lecanora maheui (B. de Lesd.) I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

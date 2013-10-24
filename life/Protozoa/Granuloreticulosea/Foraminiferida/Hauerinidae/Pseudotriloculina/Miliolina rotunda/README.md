@@ -1,5 +1,4 @@
-Miliolina rotunda SPECIES
-=======
+# Miliolina rotunda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dryophila humicola Quél. SPECIES
-=======
+# Dryophila humicola Quél. SPECIES
 
 #### Status
 ACCEPTED

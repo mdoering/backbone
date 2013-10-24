@@ -1,5 +1,4 @@
-Tricholoma altaicum Singer SPECIES
-=======
+# Tricholoma altaicum Singer SPECIES
 
 #### Status
 ACCEPTED

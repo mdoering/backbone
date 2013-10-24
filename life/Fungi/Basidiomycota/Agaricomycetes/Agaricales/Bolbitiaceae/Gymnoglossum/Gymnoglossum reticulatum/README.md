@@ -1,5 +1,4 @@
-Gymnoglossum reticulatum J.W. Cribb SPECIES
-=======
+# Gymnoglossum reticulatum J.W. Cribb SPECIES
 
 #### Status
 ACCEPTED

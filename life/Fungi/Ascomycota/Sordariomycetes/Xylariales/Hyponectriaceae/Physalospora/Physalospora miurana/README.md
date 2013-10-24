@@ -1,5 +1,4 @@
-Physalospora miurana I. Hino & Katum. SPECIES
-=======
+# Physalospora miurana I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

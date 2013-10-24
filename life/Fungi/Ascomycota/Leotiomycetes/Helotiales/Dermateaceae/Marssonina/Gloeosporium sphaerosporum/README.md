@@ -1,5 +1,4 @@
-Gloeosporium sphaerosporum Hara SPECIES
-=======
+# Gloeosporium sphaerosporum Hara SPECIES
 
 #### Status
 ACCEPTED

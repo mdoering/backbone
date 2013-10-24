@@ -1,5 +1,4 @@
-Rhizopogon brunsii Grubisha & Trappe, 2005 SPECIES
-=======
+# Rhizopogon brunsii Grubisha & Trappe, 2005 SPECIES
 
 #### Status
 ACCEPTED

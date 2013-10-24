@@ -1,5 +1,4 @@
-Intranstylum rhabdostyla Eismond, 1895 SPECIES
-=======
+# Intranstylum rhabdostyla Eismond, 1895 SPECIES
 
 #### Status
 ACCEPTED

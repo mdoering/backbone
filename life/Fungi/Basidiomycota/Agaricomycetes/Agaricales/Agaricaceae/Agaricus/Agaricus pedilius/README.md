@@ -1,5 +1,4 @@
-Agaricus pedilius Berk. & Broome SPECIES
-=======
+# Agaricus pedilius Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

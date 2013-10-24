@@ -1,5 +1,4 @@
-Acetobacter xylinus subsp. xylinus SUBSPECIES
-=======
+# Acetobacter xylinus SPECIES
 
 #### Status
 ACCEPTED

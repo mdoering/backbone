@@ -1,5 +1,4 @@
-Hormopeltis GENUS
-=======
+# Hormopeltis GENUS
 
 #### Status
 ACCEPTED

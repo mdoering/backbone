@@ -1,5 +1,4 @@
-Sporidesmium deightonii M.B. Ellis SPECIES
-=======
+# Sporidesmium deightonii M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

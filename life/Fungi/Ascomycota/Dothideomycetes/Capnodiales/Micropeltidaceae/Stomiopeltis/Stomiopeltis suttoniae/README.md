@@ -1,5 +1,4 @@
-Stomiopeltis suttoniae (J.M. Mend.) Luttr. SPECIES
-=======
+# Stomiopeltis suttoniae (J.M. Mend.) Luttr. SPECIES
 
 #### Status
 ACCEPTED

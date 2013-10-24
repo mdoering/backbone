@@ -1,5 +1,4 @@
-Wolbachia persica Suitor and Weiss, 1961 (Approved Lists, 1980) SPECIES
-=======
+# Wolbachia persica Suitor and Weiss, 1961 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

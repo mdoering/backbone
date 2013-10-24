@@ -1,5 +1,4 @@
-Nivatogastrium lignicola E. Horak, 1971 SPECIES
-=======
+# Nivatogastrium lignicola E. Horak, 1971 SPECIES
 
 #### Status
 ACCEPTED

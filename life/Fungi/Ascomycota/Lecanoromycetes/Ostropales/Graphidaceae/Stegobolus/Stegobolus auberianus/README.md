@@ -1,14 +1,13 @@
-Ocellularia auberiana (Mont.) Hale SPECIES
-=======
+# Stegobolus auberianus (Mont.) Frisch & Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 11(1): 136 (1980)
+Biblthca Lichenol. 92: 433 (2006)
 
 #### Original name
 Thelotrema auberianum Mont.

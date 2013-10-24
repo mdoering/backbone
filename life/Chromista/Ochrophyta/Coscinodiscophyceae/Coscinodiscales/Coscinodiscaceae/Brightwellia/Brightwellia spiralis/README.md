@@ -1,5 +1,4 @@
-Brightwellia spiralis SPECIES
-=======
+# Brightwellia spiralis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcogyne eucarpoides Vain. SPECIES
-=======
+# Sarcogyne eucarpoides Vain. SPECIES
 
 #### Status
 ACCEPTED

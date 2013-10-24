@@ -1,5 +1,4 @@
-Humaria lloydiana Bres. & Pat. SPECIES
-=======
+# Humaria lloydiana Bres. & Pat. SPECIES
 
 #### Status
 ACCEPTED

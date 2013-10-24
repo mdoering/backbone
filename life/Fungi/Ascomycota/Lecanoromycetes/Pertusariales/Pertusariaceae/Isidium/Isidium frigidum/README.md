@@ -1,5 +1,4 @@
-Isidium frigidum (Sw.) Ach. SPECIES
-=======
+# Isidium frigidum (Sw.) Ach. SPECIES
 
 #### Status
 ACCEPTED

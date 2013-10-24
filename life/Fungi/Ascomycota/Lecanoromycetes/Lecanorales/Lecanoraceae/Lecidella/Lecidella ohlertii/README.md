@@ -1,5 +1,4 @@
-Lecidella ohlertii Körb. SPECIES
-=======
+# Lecidella ohlertii Körb. SPECIES
 
 #### Status
 ACCEPTED

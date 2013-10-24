@@ -1,5 +1,4 @@
-Clavaria caespitosa Wulfen SPECIES
-=======
+# Clavaria caespitosa Wulfen SPECIES
 
 #### Status
 ACCEPTED

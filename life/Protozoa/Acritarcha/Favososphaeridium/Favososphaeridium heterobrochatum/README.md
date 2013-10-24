@@ -1,5 +1,4 @@
-Favososphaeridium heterobrochatum Sheshegova, 1984 SPECIES
-=======
+# Favososphaeridium heterobrochatum Sheshegova, 1984 SPECIES
 
 #### Status
 ACCEPTED

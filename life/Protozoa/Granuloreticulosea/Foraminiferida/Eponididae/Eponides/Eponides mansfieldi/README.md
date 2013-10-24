@@ -1,5 +1,4 @@
-Eponides mansfieldi Cushman, 1930 SPECIES
-=======
+# Eponides mansfieldi Cushman, 1930 SPECIES
 
 #### Status
 ACCEPTED

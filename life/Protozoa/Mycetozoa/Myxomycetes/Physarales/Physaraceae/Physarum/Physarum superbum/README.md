@@ -1,17 +1,16 @@
-Physarum aureum var. chrysopus Berk. & M.A. Curtis VARIETY
-=======
+# Physarum superbum Hagelst., 1940 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 5: 146 (1846)
+Mycologia 32: 385 (1940)
 
 #### Original name
-Physarum aureum var. chrysopus Berk. & M.A. Curtis
+Physarum aureum Brândza, 1929
 
 ### Remarks
 null

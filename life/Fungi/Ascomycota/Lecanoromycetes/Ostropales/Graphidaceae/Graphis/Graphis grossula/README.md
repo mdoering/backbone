@@ -1,5 +1,4 @@
-Graphis grossula Müll. Arg. SPECIES
-=======
+# Graphis grossula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

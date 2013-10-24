@@ -1,5 +1,4 @@
-Psilocybe mutabilis P. Karst. SPECIES
-=======
+# Psilocybe mutabilis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neisseria zoodegmatis Vandamme et al., 2006 SPECIES
-=======
+# Neisseria zoodegmatis Vandamme et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

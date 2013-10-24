@@ -1,5 +1,4 @@
-Bondiella Piroz. GENUS
-=======
+# Bondiella Piroz. GENUS
 
 #### Status
 ACCEPTED

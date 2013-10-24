@@ -1,5 +1,4 @@
-Morenoina palmicola J. Fröhl., K.D. Hyde & Joanne E. Taylor SPECIES
-=======
+# Morenoina palmicola J. Fröhl., K.D. Hyde & Joanne E. Taylor SPECIES
 
 #### Status
 ACCEPTED

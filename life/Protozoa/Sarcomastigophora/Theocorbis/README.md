@@ -1,5 +1,4 @@
-Theocorbis Haeckel, 1887 GENUS
-=======
+# Theocorbis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

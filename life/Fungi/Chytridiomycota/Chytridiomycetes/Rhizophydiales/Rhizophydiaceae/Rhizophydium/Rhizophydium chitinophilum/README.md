@@ -1,5 +1,4 @@
-Rhizophydium chitinophilum Antik., 1947 SPECIES
-=======
+# Rhizophydium chitinophilum Antik., 1947 SPECIES
 
 #### Status
 ACCEPTED

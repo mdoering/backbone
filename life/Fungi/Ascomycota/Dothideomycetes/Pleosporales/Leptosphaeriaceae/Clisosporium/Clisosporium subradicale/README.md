@@ -1,5 +1,4 @@
-Clisosporium subradicale (P. Karst.) Kuntze SPECIES
-=======
+# Clisosporium subradicale (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Venturia liriodendri Hanlin SPECIES
-=======
+# Venturia liriodendri Hanlin SPECIES
 
 #### Status
 ACCEPTED

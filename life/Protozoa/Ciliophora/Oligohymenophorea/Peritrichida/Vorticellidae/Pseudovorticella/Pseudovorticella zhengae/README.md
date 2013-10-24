@@ -1,5 +1,4 @@
-Pseudovorticella zhengae Ji, Song & Clamp, 2006 SPECIES
-=======
+# Pseudovorticella zhengae Ji, Song & Clamp, 2006 SPECIES
 
 #### Status
 ACCEPTED

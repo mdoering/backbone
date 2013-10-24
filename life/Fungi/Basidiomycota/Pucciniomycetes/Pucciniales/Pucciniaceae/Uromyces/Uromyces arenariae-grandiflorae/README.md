@@ -1,5 +1,4 @@
-Uromyces arenariae-grandiflorae Mayor SPECIES
-=======
+# Uromyces arenariae-grandiflorae Mayor SPECIES
 
 #### Status
 ACCEPTED

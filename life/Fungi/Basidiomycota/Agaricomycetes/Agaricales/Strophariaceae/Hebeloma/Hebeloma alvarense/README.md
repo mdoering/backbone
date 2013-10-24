@@ -1,17 +1,16 @@
-Hebeloma alvarense var. alvarense VARIETY
-=======
+# Hebeloma alvarense Vesterh. & Vauras SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Karstenia 44(1-2): 57 (2004)
 
 #### Original name
-null
+Hebeloma alvarense Vesterh. & Vauras
 
 ### Remarks
 null

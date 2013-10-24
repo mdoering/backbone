@@ -1,5 +1,4 @@
-Pleurogala uyedae (Singer) Redhead & Norvell SPECIES
-=======
+# Pleurogala uyedae (Singer) Redhead & Norvell SPECIES
 
 #### Status
 ACCEPTED

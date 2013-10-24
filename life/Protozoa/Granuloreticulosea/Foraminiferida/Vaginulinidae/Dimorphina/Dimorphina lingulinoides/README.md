@@ -1,5 +1,4 @@
-Dimorphina lingulinoides Millett, 1903 SPECIES
-=======
+# Dimorphina lingulinoides Millett, 1903 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo scirpi-maritimi Doidge SPECIES
-=======
+# Uredo scirpi-maritimi Doidge SPECIES
 
 #### Status
 ACCEPTED

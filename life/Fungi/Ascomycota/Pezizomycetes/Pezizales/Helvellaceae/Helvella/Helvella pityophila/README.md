@@ -1,5 +1,4 @@
-Helvella pityophila Boud. SPECIES
-=======
+# Helvella pityophila Boud. SPECIES
 
 #### Status
 ACCEPTED

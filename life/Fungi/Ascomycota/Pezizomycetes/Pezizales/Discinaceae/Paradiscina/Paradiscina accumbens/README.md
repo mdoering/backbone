@@ -1,5 +1,4 @@
-Paradiscina accumbens (Rahm) Benedix SPECIES
-=======
+# Paradiscina accumbens (Rahm) Benedix SPECIES
 
 #### Status
 ACCEPTED

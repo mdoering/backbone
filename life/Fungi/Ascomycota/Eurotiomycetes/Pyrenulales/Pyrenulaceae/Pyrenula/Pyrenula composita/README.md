@@ -1,5 +1,4 @@
-Pyrenula composita Ach. SPECIES
-=======
+# Pyrenula composita Ach. SPECIES
 
 #### Status
 ACCEPTED

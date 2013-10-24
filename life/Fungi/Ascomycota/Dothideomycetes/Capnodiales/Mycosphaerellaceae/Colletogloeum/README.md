@@ -1,5 +1,4 @@
-Colletogloeum Petr. GENUS
-=======
+# Colletogloeum Petr. GENUS
 
 #### Status
 ACCEPTED

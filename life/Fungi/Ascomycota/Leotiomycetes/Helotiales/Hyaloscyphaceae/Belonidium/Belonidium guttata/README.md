@@ -1,5 +1,4 @@
-Belonidium guttata Rick SPECIES
-=======
+# Belonidium guttata Rick SPECIES
 
 #### Status
 ACCEPTED

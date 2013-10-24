@@ -1,8 +1,7 @@
-Pyrenocollema tasmanicum P. M. McCarthy & Kantvilas SPECIES
-=======
+# Collemopsidium tasmanicum (P. M. McCarthy & Kantvilas) P. M. McCarthy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

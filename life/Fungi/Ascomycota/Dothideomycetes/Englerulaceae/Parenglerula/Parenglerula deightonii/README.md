@@ -1,5 +1,4 @@
-Parenglerula deightonii (Hansf.) Arx SPECIES
-=======
+# Parenglerula deightonii (Hansf.) Arx SPECIES
 
 #### Status
 ACCEPTED

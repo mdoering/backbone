@@ -1,5 +1,4 @@
-Pleurotus similis Peck SPECIES
-=======
+# Pleurotus similis Peck SPECIES
 
 #### Status
 ACCEPTED

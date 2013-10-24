@@ -1,5 +1,4 @@
-Nectriella maydis Delacr. SPECIES
-=======
+# Nectriella maydis Delacr. SPECIES
 
 #### Status
 ACCEPTED

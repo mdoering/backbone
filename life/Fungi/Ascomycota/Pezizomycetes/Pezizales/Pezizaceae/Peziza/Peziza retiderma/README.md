@@ -1,14 +1,13 @@
-Aleurina retiderma (Cooke) Sacc. & P. Syd., 1902 SPECIES
-=======
+# Peziza retiderma Cooke, 1877 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 16: 739 (1902)
+Mycographia seu Icones Fungorum (London), Vol. <b>1</b>. Discomycetes 1: 176 (1877)
 
 #### Original name
 Peziza retiderma Cooke, 1877

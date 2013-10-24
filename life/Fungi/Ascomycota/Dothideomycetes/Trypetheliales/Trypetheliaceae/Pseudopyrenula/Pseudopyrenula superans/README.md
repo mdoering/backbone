@@ -1,5 +1,4 @@
-Pseudopyrenula superans Müll. Arg. SPECIES
-=======
+# Pseudopyrenula superans Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

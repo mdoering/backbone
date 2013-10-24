@@ -1,5 +1,4 @@
-Hygrophorus bellus Massee SPECIES
-=======
+# Hygrophorus bellus Massee SPECIES
 
 #### Status
 ACCEPTED

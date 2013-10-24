@@ -1,5 +1,4 @@
-Thalassicola GENUS
-=======
+# Thalassicola GENUS
 
 #### Status
 ACCEPTED

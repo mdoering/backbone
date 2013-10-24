@@ -1,5 +1,4 @@
-Cancris congolensis Margerel & Kouyoumotzakis, 1978 SPECIES
-=======
+# Cancris congolensis Margerel & Kouyoumotzakis, 1978 SPECIES
 
 #### Status
 ACCEPTED

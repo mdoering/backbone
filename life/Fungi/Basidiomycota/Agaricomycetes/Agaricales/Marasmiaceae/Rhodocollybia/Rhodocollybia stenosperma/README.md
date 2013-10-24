@@ -1,5 +1,4 @@
-Rhodocollybia stenosperma Romagn. & Cocquand SPECIES
-=======
+# Rhodocollybia stenosperma Romagn. & Cocquand SPECIES
 
 #### Status
 ACCEPTED

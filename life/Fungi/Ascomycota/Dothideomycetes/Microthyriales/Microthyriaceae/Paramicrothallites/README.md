@@ -1,5 +1,4 @@
-Paramicrothallites K.P. Jain & R.C. Gupta GENUS
-=======
+# Paramicrothallites K.P. Jain & R.C. Gupta GENUS
 
 #### Status
 ACCEPTED

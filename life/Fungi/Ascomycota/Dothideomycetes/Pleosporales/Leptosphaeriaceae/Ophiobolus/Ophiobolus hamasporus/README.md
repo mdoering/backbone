@@ -1,5 +1,4 @@
-Ophiobolus hamasporus Ellis & Everh. SPECIES
-=======
+# Ophiobolus hamasporus Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

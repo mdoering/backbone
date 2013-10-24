@@ -1,5 +1,4 @@
-Naevia adonis Fuckel SPECIES
-=======
+# Naevia adonis Fuckel SPECIES
 
 #### Status
 ACCEPTED

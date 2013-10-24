@@ -1,5 +1,4 @@
-Gaudryinella pseudoserrata Cushman SPECIES
-=======
+# Gaudryinella pseudoserrata Cushman SPECIES
 
 #### Status
 ACCEPTED

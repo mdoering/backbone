@@ -1,5 +1,4 @@
-Cercosporina sancti-marini Sacc. SPECIES
-=======
+# Cercosporina sancti-marini Sacc. SPECIES
 
 #### Status
 ACCEPTED

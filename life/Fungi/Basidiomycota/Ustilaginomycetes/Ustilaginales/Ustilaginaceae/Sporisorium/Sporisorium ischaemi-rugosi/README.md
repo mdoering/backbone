@@ -1,5 +1,4 @@
-Sporisorium ischaemi-rugosi (Mishra) Vánky SPECIES
-=======
+# Sporisorium ischaemi-rugosi (Mishra) Vánky SPECIES
 
 #### Status
 ACCEPTED

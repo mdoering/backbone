@@ -1,5 +1,4 @@
-Rhizotexis Theiss. & Syd. GENUS
-=======
+# Rhizotexis Theiss. & Syd. GENUS
 
 #### Status
 ACCEPTED

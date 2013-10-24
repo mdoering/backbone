@@ -1,5 +1,4 @@
-Torula incarcerata Cooke SPECIES
-=======
+# Torula incarcerata Cooke SPECIES
 
 #### Status
 ACCEPTED

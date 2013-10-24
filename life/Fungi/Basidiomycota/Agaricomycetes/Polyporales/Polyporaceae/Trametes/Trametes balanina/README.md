@@ -1,5 +1,4 @@
-Trametes balanina Fr. SPECIES
-=======
+# Trametes balanina Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Quisquilites buckhornensis Wilson & Urban, 1963 SPECIES
-=======
+# Quisquilites buckhornensis Wilson & Urban, 1963 SPECIES
 
 #### Status
 ACCEPTED

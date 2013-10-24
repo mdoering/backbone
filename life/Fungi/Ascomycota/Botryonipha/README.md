@@ -1,5 +1,4 @@
-Botryonipha Preuss GENUS
-=======
+# Botryonipha Preuss GENUS
 
 #### Status
 ACCEPTED

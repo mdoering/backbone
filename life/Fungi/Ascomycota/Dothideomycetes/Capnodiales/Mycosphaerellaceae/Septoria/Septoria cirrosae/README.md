@@ -1,5 +1,4 @@
-Septoria cirrosae R. Maire SPECIES
-=======
+# Septoria cirrosae R. Maire SPECIES
 
 #### Status
 ACCEPTED

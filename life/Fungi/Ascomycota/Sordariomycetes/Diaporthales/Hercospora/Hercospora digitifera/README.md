@@ -1,5 +1,4 @@
-Hercospora digitifera (Mouton) E. Müll. SPECIES
-=======
+# Hercospora digitifera (Mouton) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

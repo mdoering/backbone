@@ -1,5 +1,4 @@
-Puccinia doronici Niessl SPECIES
-=======
+# Puccinia doronici Niessl SPECIES
 
 #### Status
 ACCEPTED

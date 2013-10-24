@@ -1,5 +1,4 @@
-Peziza darjeelensis Cooke SPECIES
-=======
+# Peziza darjeelensis Cooke SPECIES
 
 #### Status
 ACCEPTED

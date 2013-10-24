@@ -1,5 +1,4 @@
-Textularia foeda Reuss SPECIES
-=======
+# Textularia foeda Reuss SPECIES
 
 #### Status
 ACCEPTED

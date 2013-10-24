@@ -1,5 +1,4 @@
-Kreuzstella Empson-Morin, 1981 GENUS
-=======
+# Kreuzstella Empson-Morin, 1981 GENUS
 
 #### Status
 ACCEPTED

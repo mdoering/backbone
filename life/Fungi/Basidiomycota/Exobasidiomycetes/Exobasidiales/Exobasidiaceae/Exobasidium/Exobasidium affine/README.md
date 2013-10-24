@@ -1,5 +1,4 @@
-Exobasidium affine Racib. SPECIES
-=======
+# Exobasidium affine Racib. SPECIES
 
 #### Status
 ACCEPTED

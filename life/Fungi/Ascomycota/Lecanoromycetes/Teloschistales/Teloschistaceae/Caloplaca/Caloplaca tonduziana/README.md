@@ -1,5 +1,4 @@
-Caloplaca tonduziana (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Caloplaca tonduziana (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

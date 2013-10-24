@@ -1,5 +1,4 @@
-Chrysoreinhardia giraudii (Derbès & Solier) C. Billard SPECIES
-=======
+# Chrysoreinhardia giraudii (Derbès & Solier) C. Billard SPECIES
 
 #### Status
 ACCEPTED

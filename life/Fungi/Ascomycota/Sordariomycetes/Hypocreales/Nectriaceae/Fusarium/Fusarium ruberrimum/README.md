@@ -1,5 +1,4 @@
-Fusarium ruberrimum Delacr. SPECIES
-=======
+# Fusarium ruberrimum Delacr. SPECIES
 
 #### Status
 ACCEPTED

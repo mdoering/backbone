@@ -1,5 +1,4 @@
-Hydnum papyraceum Wulfen, 1786 SPECIES
-=======
+# Hydnum papyraceum Wulfen, 1786 SPECIES
 
 #### Status
 ACCEPTED

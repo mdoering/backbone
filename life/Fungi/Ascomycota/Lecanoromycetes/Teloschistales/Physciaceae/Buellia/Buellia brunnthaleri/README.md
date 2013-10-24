@@ -1,5 +1,4 @@
-Buellia brunnthaleri Zahlbr. SPECIES
-=======
+# Buellia brunnthaleri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

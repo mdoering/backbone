@@ -1,5 +1,4 @@
-Reophax irregularis Parker, 1954 SPECIES
-=======
+# Reophax irregularis Parker, 1954 SPECIES
 
 #### Status
 ACCEPTED

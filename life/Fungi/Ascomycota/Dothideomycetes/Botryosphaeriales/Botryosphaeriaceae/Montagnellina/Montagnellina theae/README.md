@@ -1,5 +1,4 @@
-Montagnellina theae Sawada SPECIES
-=======
+# Montagnellina theae Sawada SPECIES
 
 #### Status
 ACCEPTED

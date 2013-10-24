@@ -1,5 +1,4 @@
-Cylindrospermum ecballiisporum Komárek SPECIES
-=======
+# Cylindrospermum ecballiisporum Komárek SPECIES
 
 #### Status
 ACCEPTED

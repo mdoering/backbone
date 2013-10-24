@@ -1,5 +1,4 @@
-Johansonia brasiliensis Arx, 1960 SPECIES
-=======
+# Johansonia brasiliensis Arx, 1960 SPECIES
 
 #### Status
 ACCEPTED

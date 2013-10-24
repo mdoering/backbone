@@ -1,5 +1,4 @@
-Camarosporium moravicum Petr. SPECIES
-=======
+# Camarosporium moravicum Petr. SPECIES
 
 #### Status
 ACCEPTED

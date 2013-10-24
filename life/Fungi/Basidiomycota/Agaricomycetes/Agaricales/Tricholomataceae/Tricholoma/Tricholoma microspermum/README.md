@@ -1,5 +1,4 @@
-Tricholoma microspermum (Murrill) Murrill SPECIES
-=======
+# Tricholoma microspermum (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

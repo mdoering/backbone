@@ -1,5 +1,4 @@
-Hendersonula macrosperma Cavara SPECIES
-=======
+# Hendersonula macrosperma Cavara SPECIES
 
 #### Status
 ACCEPTED

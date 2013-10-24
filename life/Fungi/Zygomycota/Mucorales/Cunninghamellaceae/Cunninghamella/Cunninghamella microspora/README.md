@@ -1,5 +1,4 @@
-Cunninghamella microspora (Rivolta) Matr. SPECIES
-=======
+# Cunninghamella microspora (Rivolta) Matr. SPECIES
 
 #### Status
 ACCEPTED

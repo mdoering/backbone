@@ -1,5 +1,4 @@
-Metasphaeria massarina Sacc. SPECIES
-=======
+# Metasphaeria massarina Sacc. SPECIES
 
 #### Status
 ACCEPTED

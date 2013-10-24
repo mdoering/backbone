@@ -1,5 +1,4 @@
-Mycomicrothelia striguloides Sérus. & Aptroot SPECIES
-=======
+# Mycomicrothelia striguloides Sérus. & Aptroot SPECIES
 
 #### Status
 ACCEPTED

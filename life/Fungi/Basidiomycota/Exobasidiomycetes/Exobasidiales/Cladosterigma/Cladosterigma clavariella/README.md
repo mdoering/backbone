@@ -1,5 +1,4 @@
-Cladosterigma clavariella (Speg.) Höhn. SPECIES
-=======
+# Cladosterigma clavariella (Speg.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

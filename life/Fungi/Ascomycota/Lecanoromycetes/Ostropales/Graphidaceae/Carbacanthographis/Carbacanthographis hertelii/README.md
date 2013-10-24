@@ -1,5 +1,4 @@
-Carbacanthographis hertelii Kalb & Staiger SPECIES
-=======
+# Carbacanthographis hertelii Kalb & Staiger SPECIES
 
 #### Status
 ACCEPTED

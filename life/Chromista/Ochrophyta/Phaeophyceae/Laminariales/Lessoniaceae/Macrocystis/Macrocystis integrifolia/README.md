@@ -1,5 +1,4 @@
-Macrocystis integrifolia Bory de Saint-Vincent SPECIES
-=======
+# Macrocystis integrifolia Bory de Saint-Vincent SPECIES
 
 #### Status
 ACCEPTED

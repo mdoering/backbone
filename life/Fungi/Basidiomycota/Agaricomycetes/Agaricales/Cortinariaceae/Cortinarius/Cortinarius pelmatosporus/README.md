@@ -1,5 +1,4 @@
-Cortinarius pelmatosporus C. Martín SPECIES
-=======
+# Cortinarius pelmatosporus C. Martín SPECIES
 
 #### Status
 ACCEPTED

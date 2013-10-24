@@ -1,5 +1,4 @@
-Clypeochorella punicae Frolov SPECIES
-=======
+# Clypeochorella punicae Frolov SPECIES
 
 #### Status
 ACCEPTED

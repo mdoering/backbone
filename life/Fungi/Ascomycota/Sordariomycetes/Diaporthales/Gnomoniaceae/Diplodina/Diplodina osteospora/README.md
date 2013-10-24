@@ -1,5 +1,4 @@
-Diplodina osteospora Tassi SPECIES
-=======
+# Diplodina osteospora Tassi SPECIES
 
 #### Status
 ACCEPTED

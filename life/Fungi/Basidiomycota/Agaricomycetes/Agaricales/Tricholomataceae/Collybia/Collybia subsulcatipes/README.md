@@ -1,5 +1,4 @@
-Collybia subsulcatipes A.H. Sm. SPECIES
-=======
+# Collybia subsulcatipes A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

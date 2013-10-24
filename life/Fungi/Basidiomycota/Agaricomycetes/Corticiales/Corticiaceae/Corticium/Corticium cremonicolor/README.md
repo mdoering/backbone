@@ -1,5 +1,4 @@
-Corticium cremonicolor Britzelm. SPECIES
-=======
+# Corticium cremonicolor Britzelm. SPECIES
 
 #### Status
 ACCEPTED

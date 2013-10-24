@@ -1,5 +1,4 @@
-Psathyrella subcinerascens A.H. Sm. SPECIES
-=======
+# Psathyrella subcinerascens A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

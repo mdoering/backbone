@@ -1,5 +1,4 @@
-Scenidium deschampsii (Har.) Kuntze SPECIES
-=======
+# Scenidium deschampsii (Har.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

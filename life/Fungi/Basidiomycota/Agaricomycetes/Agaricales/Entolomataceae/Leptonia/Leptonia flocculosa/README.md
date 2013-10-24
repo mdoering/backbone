@@ -1,5 +1,4 @@
-Leptonia flocculosa Bres. SPECIES
-=======
+# Leptonia flocculosa Bres. SPECIES
 
 #### Status
 ACCEPTED

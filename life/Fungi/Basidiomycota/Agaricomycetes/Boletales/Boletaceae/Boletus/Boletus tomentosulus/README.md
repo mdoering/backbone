@@ -1,5 +1,4 @@
-Boletus tomentosulus A.H. Sm. & Thiers SPECIES
-=======
+# Boletus tomentosulus A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

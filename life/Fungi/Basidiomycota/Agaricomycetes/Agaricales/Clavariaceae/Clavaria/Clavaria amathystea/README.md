@@ -1,5 +1,4 @@
-Clavaria amathystea Pers. SPECIES
-=======
+# Clavaria amathystea Pers. SPECIES
 
 #### Status
 ACCEPTED

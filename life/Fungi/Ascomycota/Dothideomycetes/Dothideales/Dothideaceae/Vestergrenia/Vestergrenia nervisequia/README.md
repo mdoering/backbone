@@ -1,5 +1,4 @@
-Vestergrenia nervisequia Rehm, 1901 SPECIES
-=======
+# Vestergrenia nervisequia Rehm, 1901 SPECIES
 
 #### Status
 ACCEPTED

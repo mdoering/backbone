@@ -1,5 +1,4 @@
-Neococcomyces Y.R. Lin, C.T. Xiang & Z.Z. Li GENUS
-=======
+# Neococcomyces Y.R. Lin, C.T. Xiang & Z.Z. Li GENUS
 
 #### Status
 ACCEPTED

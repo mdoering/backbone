@@ -1,5 +1,4 @@
-Ruakituria magdaliformis (Schwager, 1866) SPECIES
-=======
+# Ruakituria magdaliformis (Schwager, 1866) SPECIES
 
 #### Status
 ACCEPTED

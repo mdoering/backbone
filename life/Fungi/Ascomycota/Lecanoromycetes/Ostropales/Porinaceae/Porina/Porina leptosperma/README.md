@@ -1,14 +1,13 @@
-Phylloporina leptosperma (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Porina leptosperma Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichenes Epiphylli Novi 21 (1890)
+Flora, Jena 66: 333 (1883)
 
 #### Original name
 Porina leptosperma Müll. Arg.

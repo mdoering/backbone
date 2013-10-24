@@ -1,5 +1,4 @@
-Phyllosticta crista-galli Elisei SPECIES
-=======
+# Phyllosticta crista-galli Elisei SPECIES
 
 #### Status
 ACCEPTED

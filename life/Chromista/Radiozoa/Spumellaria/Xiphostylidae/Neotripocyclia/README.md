@@ -1,5 +1,4 @@
-Neotripocyclia Pessagno & Yang in Pessagno, Six & Yang, 1989 GENUS
-=======
+# Neotripocyclia Pessagno & Yang in Pessagno, Six & Yang, 1989 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cenomyce sylvatica var. sylvatica VARIETY
-=======
+# Cenomyce sylvatica SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cenomyce sylvatica var. sylvatica
+Cenomyce sylvatica
 
 ### Remarks
 null

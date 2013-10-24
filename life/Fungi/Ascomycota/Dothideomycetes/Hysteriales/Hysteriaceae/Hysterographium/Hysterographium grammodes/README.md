@@ -1,17 +1,16 @@
-Hysterographium grammodes f. grammodes FORM
-=======
+# Hysterographium grammodes (De Not.) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syll. fung. (Abellini) 2: 782 (1883)
 
 #### Original name
-Hysterographium grammodes f. grammodes
+Sphaeria grammodes Kunze, 1828
 
 ### Remarks
 null

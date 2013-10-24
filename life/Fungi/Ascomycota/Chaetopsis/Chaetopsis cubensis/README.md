@@ -1,5 +1,4 @@
-Chaetopsis cubensis R.F. Castañeda SPECIES
-=======
+# Chaetopsis cubensis R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola angusta var. angusta VARIETY
-=======
+# Meliola angusta F. Stevens & Tehon SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycologia 18(1): 6 (1926)
 
 #### Original name
-Meliola angusta var. angusta
+Meliola angusta F. Stevens & Tehon
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Buellia murina (Stizenb.) C.W. Dodge SPECIES
-=======
+# Buellia murina (Stizenb.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

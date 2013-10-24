@@ -1,5 +1,4 @@
-Collybia atramentosa (Kalchbr.) Sacc. SPECIES
-=======
+# Collybia atramentosa (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

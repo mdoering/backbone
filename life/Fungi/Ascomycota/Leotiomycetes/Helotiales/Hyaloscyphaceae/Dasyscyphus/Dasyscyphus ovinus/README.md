@@ -1,17 +1,16 @@
-Dasyscypha ovinus Rodway SPECIES
-=======
+# Dasyscyphus ovinus Rodway SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Pap. Proc. R. Soc. Tasm. (1921)
 
 #### Original name
-Dasyscypha ovinus Rodway
+Dasyscyphus ovinus Rodway
 
 ### Remarks
 null

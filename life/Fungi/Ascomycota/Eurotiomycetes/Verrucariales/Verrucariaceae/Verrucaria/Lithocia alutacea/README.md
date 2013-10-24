@@ -1,5 +1,4 @@
-Lithocia alutacea (Wallr.) Arnold SPECIES
-=======
+# Lithocia alutacea (Wallr.) Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola reinkingii Syd. SPECIES
-=======
+# Meliola reinkingii Syd. SPECIES
 
 #### Status
 ACCEPTED

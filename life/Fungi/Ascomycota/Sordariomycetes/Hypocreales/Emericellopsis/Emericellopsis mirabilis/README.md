@@ -1,14 +1,13 @@
-Peyronellula mirabilis Malan, 1952 SPECIES
-=======
+# Emericellopsis mirabilis (Malan) Stolk, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycopathologia 6: 173 (1952)
+Trans. Br. mycol. Soc. 38: 421 (1955)
 
 #### Original name
 Peyronellula mirabilis Malan, 1952

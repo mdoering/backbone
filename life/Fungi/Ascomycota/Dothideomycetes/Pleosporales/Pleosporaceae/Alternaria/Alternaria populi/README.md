@@ -1,5 +1,4 @@
-Alternaria populi TR.Y. Zhang SPECIES
-=======
+# Alternaria populi TR.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

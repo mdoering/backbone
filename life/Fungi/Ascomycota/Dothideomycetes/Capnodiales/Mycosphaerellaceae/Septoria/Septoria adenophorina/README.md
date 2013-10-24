@@ -1,5 +1,4 @@
-Septoria adenophorina Andrian. SPECIES
-=======
+# Septoria adenophorina Andrian. SPECIES
 
 #### Status
 ACCEPTED

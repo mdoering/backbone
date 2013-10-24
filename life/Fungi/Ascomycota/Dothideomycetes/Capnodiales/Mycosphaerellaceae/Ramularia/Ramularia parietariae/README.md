@@ -1,17 +1,16 @@
-Ramularia parietariae var. minor Bubák VARIETY
-=======
+# Ramularia parietariae Pass., 1876 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungi europ. exsicc. no. 2066 (1876)
 
 #### Original name
-Ramularia parietariae var. minor Bubák
+Ramularia parietariae Pass., 1876
 
 ### Remarks
 null

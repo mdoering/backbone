@@ -1,5 +1,4 @@
-Spongiporus GENUS
-=======
+# Spongiporus GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podospora pistillata Mirza & Cain SPECIES
-=======
+# Podospora pistillata Mirza & Cain SPECIES
 
 #### Status
 ACCEPTED

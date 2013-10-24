@@ -1,5 +1,4 @@
-Dictyothyrium paulliniae Bat. & I.H. Lima SPECIES
-=======
+# Dictyothyrium paulliniae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

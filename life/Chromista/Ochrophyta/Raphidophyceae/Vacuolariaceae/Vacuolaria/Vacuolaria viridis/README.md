@@ -1,5 +1,4 @@
-Vacuolaria viridis (P.A.Dangeard) Pascher, 1913 SPECIES
-=======
+# Vacuolaria viridis (P.A.Dangeard) Pascher, 1913 SPECIES
 
 #### Status
 ACCEPTED

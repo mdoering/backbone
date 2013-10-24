@@ -1,5 +1,4 @@
-Urocystis stipae McAlpine SPECIES
-=======
+# Urocystis stipae McAlpine SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sponguridae Haeckel, 1862 FAMILY
-=======
+# Sponguridae Haeckel, 1862 FAMILY
 
 #### Status
 ACCEPTED

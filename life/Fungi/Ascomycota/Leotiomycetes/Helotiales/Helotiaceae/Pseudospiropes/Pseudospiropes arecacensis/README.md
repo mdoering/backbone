@@ -1,5 +1,4 @@
-Pseudospiropes arecacensis J. Fröhl., K.D. Hyde & D.I. Guest, 1997 SPECIES
-=======
+# Pseudospiropes arecacensis J. Fröhl., K.D. Hyde & D.I. Guest, 1997 SPECIES
 
 #### Status
 ACCEPTED

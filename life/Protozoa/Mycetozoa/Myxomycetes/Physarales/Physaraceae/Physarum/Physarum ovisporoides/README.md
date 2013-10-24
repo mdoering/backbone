@@ -1,5 +1,4 @@
-Physarum ovisporoides Y. Yamam. & Shuanglin Chen, 2002 SPECIES
-=======
+# Physarum ovisporoides Y. Yamam. & Shuanglin Chen, 2002 SPECIES
 
 #### Status
 ACCEPTED

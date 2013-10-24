@@ -1,14 +1,13 @@
-Hypoderma petiolicola (Fuckel) Kuntze, 1898 SPECIES
-=======
+# Lophodermium petiolicola Fuckel, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 487 (1898)
+Jb. nassau. Ver. Naturk. 23-24: 255 (1870)
 
 #### Original name
 Lophodermium petiolicola Fuckel, 1870

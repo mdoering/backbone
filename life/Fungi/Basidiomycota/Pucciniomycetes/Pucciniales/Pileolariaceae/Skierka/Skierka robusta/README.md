@@ -1,5 +1,4 @@
-Skierka robusta Doidge, 1926 SPECIES
-=======
+# Skierka robusta Doidge, 1926 SPECIES
 
 #### Status
 ACCEPTED

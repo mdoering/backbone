@@ -1,5 +1,4 @@
-Saccharomyces arboricolus F.Y. Bai & S.A. Wang SPECIES
-=======
+# Saccharomyces arboricolus F.Y. Bai & S.A. Wang SPECIES
 
 #### Status
 ACCEPTED

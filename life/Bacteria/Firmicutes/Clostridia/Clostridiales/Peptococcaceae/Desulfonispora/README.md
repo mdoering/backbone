@@ -1,5 +1,4 @@
-Desulfonispora Denter, Stackebrandt & Cook, 1999 GENUS
-=======
+# Desulfonispora Denter, Stackebrandt & Cook, 1999 GENUS
 
 #### Status
 ACCEPTED

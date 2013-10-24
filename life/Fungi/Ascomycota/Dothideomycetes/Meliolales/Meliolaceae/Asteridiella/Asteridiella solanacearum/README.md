@@ -1,5 +1,4 @@
-Asteridiella solanacearum Hansf. SPECIES
-=======
+# Asteridiella solanacearum Hansf. SPECIES
 
 #### Status
 ACCEPTED

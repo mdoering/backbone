@@ -1,5 +1,4 @@
-Graphis componens Nyl. SPECIES
-=======
+# Graphis componens Nyl. SPECIES
 
 #### Status
 ACCEPTED

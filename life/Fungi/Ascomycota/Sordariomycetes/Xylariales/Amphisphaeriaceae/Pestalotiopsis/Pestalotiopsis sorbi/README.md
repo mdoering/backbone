@@ -1,5 +1,4 @@
-Pestalotiopsis sorbi (Pat.) X.A. Sun & Q.X. Ge SPECIES
-=======
+# Pestalotiopsis sorbi (Pat.) X.A. Sun & Q.X. Ge SPECIES
 
 #### Status
 ACCEPTED

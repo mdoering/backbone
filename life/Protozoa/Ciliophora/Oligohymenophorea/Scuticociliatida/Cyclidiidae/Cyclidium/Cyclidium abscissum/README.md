@@ -1,5 +1,4 @@
-Cyclidium abscissum SPECIES
-=======
+# Cyclidium abscissum SPECIES
 
 #### Status
 ACCEPTED

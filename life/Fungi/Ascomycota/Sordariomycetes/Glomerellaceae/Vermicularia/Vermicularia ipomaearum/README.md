@@ -1,5 +1,4 @@
-Vermicularia ipomaearum Schwein. SPECIES
-=======
+# Vermicularia ipomaearum Schwein. SPECIES
 
 #### Status
 ACCEPTED

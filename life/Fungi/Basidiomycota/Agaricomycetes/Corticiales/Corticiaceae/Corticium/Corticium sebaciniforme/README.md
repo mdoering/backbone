@@ -1,17 +1,16 @@
-Corticium sebacinaeforme Bourdot & Galzin SPECIES
-=======
+# Corticium sebaciniforme Bourdot & Galzin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hyménomyc. de France (Sceaux) 224 (1928)
 
 #### Original name
-Corticium sebacinaeforme Bourdot & Galzin
+Corticium sebaciniforme Bourdot & Galzin
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phomopsis polyalthiae Shreem. SPECIES
-=======
+# Phomopsis polyalthiae Shreem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ischnoderma novo-guineensis Imazeki SPECIES
-=======
+# Ischnoderma novo-guineensis Imazeki SPECIES
 
 #### Status
 ACCEPTED

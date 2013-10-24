@@ -1,5 +1,4 @@
-Calodon ridleyi (Massee) Sacc. & Trotter SPECIES
-=======
+# Calodon ridleyi (Massee) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

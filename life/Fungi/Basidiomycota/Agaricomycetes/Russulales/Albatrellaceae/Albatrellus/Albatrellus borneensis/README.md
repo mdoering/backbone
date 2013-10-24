@@ -1,5 +1,4 @@
-Albatrellus borneensis Corner, 1989 SPECIES
-=======
+# Albatrellus borneensis Corner, 1989 SPECIES
 
 #### Status
 ACCEPTED

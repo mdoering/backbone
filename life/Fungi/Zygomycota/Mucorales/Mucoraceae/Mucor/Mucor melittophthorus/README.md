@@ -1,5 +1,4 @@
-Mucor melittophthorus H. Hoffm. SPECIES
-=======
+# Mucor melittophthorus H. Hoffm. SPECIES
 
 #### Status
 ACCEPTED

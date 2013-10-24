@@ -1,5 +1,4 @@
-Arachnomycetales Gibas, Sigler & Currah ORDER
-=======
+# Arachnomycetales Gibas, Sigler & Currah ORDER
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Parmelia tinctina var. tinctina VARIETY
-=======
+# Xanthoparmelia tinctina (Maheu & A. Gillet) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. bot. Fr. 72: 860 (1925)
+Phytologia 28: 489 (1974)
 
 #### Original name
-Parmelia tinctina var. tinctina
+Parmelia tinctina Maheu & A. Gillet
 
 ### Remarks
 null

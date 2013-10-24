@@ -1,17 +1,16 @@
-Lecidea psammophila (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Paraporpidia glauca (Taylor) Rambold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 3: 889 (1925)
+Biblthca Lichenol. 34: 246 (1989)
 
 #### Original name
-null
+Lecidea glauca Taylor
 
 ### Remarks
 null

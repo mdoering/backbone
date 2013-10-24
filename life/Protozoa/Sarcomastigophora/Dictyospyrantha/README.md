@@ -1,5 +1,4 @@
-Dictyospyrantha Haeckel, 1887 GENUS
-=======
+# Dictyospyrantha Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

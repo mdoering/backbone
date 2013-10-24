@@ -1,5 +1,4 @@
-Anomalina ammonoides SPECIES
-=======
+# Anomalina ammonoides SPECIES
 
 #### Status
 ACCEPTED

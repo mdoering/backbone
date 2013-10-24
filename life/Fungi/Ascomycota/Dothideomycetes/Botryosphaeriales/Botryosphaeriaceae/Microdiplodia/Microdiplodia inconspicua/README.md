@@ -1,5 +1,4 @@
-Microdiplodia inconspicua (Cooke) Allesch. SPECIES
-=======
+# Microdiplodia inconspicua (Cooke) Allesch. SPECIES
 
 #### Status
 ACCEPTED

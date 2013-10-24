@@ -1,8 +1,7 @@
-Sphaeria asplenifolia Schwein. SPECIES
-=======
+# Sphaeria aspleniifolia Schwein. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaeria asplenifolia Schwein.
+Sphaeria aspleniifolia Schwein.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Podospora inaequalis (Cain) Cain, 1962 SPECIES
-=======
+# Podospora inaequalis (Cain) Cain, 1962 SPECIES
 
 #### Status
 ACCEPTED

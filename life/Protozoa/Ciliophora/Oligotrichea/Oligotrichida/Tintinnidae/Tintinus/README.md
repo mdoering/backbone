@@ -1,5 +1,4 @@
-Tintinus GENUS
-=======
+# Tintinus GENUS
 
 #### Status
 ACCEPTED

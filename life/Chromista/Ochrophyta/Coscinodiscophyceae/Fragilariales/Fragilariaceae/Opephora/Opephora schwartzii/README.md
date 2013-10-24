@@ -1,8 +1,7 @@
-Fragilaria schwartzii Grunow SPECIES
-=======
+# Opephora schwartzii (Grunow) Petit ex Pelletan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

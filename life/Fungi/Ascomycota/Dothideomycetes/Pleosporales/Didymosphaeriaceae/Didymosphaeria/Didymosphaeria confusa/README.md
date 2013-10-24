@@ -1,5 +1,4 @@
-Didymosphaeria confusa (Garov.) Rehm SPECIES
-=======
+# Didymosphaeria confusa (Garov.) Rehm SPECIES
 
 #### Status
 ACCEPTED

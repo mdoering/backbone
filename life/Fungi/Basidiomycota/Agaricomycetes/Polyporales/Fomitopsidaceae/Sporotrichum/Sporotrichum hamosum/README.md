@@ -1,5 +1,4 @@
-Sporotrichum hamosum Rabenh. SPECIES
-=======
+# Sporotrichum hamosum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

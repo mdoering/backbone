@@ -1,5 +1,4 @@
-Melanostroma salicinum Bres. SPECIES
-=======
+# Melanostroma salicinum Bres. SPECIES
 
 #### Status
 ACCEPTED

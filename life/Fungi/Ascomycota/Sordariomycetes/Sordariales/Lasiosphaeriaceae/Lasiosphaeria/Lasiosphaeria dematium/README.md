@@ -1,5 +1,4 @@
-Lasiosphaeria dematium (Hazsl.) Sacc. & P. Syd. SPECIES
-=======
+# Lasiosphaeria dematium (Hazsl.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

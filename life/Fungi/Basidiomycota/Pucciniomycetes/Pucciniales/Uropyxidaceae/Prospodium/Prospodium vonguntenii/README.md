@@ -1,5 +1,4 @@
-Prospodium vonguntenii (Mayor) Dietel SPECIES
-=======
+# Prospodium vonguntenii (Mayor) Dietel SPECIES
 
 #### Status
 ACCEPTED

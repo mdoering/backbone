@@ -1,17 +1,16 @@
-Trichohleria Sacc. GENUS
-=======
+# Trichosphaerella E. Bommer, M. Rousseau & Saccardo, 1891 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Annls mycol. 6(6): 559 (1908)
+null
 
 #### Original name
-Trichohleria Sacc.
+null
 
 ### Remarks
 null

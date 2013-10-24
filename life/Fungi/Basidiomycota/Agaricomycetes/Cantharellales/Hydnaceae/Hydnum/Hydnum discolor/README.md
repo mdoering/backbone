@@ -1,5 +1,4 @@
-Hydnum discolor Fr. SPECIES
-=======
+# Hydnum discolor Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis xanthii Vörös, 1959 SPECIES
-=======
+# Phomopsis xanthii Vörös, 1959 SPECIES
 
 #### Status
 ACCEPTED

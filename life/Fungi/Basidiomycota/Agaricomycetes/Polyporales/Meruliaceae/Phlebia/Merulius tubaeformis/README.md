@@ -1,5 +1,4 @@
-Merulius tubaeformis With. SPECIES
-=======
+# Merulius tubaeformis With. SPECIES
 
 #### Status
 ACCEPTED

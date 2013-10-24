@@ -1,5 +1,4 @@
-Plochmopeltis ellisii Arx, 1959 SPECIES
-=======
+# Plochmopeltis ellisii Arx, 1959 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Roussoella minutella (Penz. & Sacc.) Aptroot SPECIES
-=======
+# Roussoella minutella (Penz. & Sacc.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

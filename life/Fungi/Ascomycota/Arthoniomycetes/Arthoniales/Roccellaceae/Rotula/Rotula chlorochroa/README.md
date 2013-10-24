@@ -1,5 +1,4 @@
-Rotula chlorochroa Kremp. SPECIES
-=======
+# Rotula chlorochroa Kremp. SPECIES
 
 #### Status
 ACCEPTED

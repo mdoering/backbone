@@ -1,5 +1,4 @@
-Lipotropha Keilin, 1923 GENUS
-=======
+# Lipotropha Keilin, 1923 GENUS
 
 #### Status
 ACCEPTED

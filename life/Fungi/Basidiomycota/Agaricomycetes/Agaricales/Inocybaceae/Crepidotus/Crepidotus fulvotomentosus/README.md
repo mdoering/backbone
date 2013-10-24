@@ -1,5 +1,4 @@
-Crepidotus fulvotomentosus Peck SPECIES
-=======
+# Crepidotus fulvotomentosus Peck SPECIES
 
 #### Status
 ACCEPTED

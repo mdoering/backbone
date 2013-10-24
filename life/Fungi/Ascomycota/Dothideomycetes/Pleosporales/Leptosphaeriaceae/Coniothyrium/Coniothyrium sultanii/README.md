@@ -1,5 +1,4 @@
-Coniothyrium sultanii Abbas, B. Sutton & Ghaffar SPECIES
-=======
+# Coniothyrium sultanii Abbas, B. Sutton & Ghaffar SPECIES
 
 #### Status
 ACCEPTED

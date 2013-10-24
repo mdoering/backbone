@@ -1,5 +1,4 @@
-Biddulphia pentacrinus (Ehrenberg) Boyer SPECIES
-=======
+# Biddulphia pentacrinus (Ehrenberg) Boyer SPECIES
 
 #### Status
 ACCEPTED

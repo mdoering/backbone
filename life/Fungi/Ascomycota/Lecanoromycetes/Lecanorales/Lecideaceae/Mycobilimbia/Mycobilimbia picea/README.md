@@ -1,5 +1,4 @@
-Mycobilimbia picea Velen. SPECIES
-=======
+# Mycobilimbia picea Velen. SPECIES
 
 #### Status
 ACCEPTED

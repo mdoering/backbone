@@ -1,5 +1,4 @@
-Septoria alliariae Lobik SPECIES
-=======
+# Septoria alliariae Lobik SPECIES
 
 #### Status
 ACCEPTED

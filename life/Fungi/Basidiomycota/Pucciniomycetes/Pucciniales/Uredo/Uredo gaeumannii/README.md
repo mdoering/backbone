@@ -1,5 +1,4 @@
-Uredo gaeumannii Arthur & Cummins SPECIES
-=======
+# Uredo gaeumannii Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

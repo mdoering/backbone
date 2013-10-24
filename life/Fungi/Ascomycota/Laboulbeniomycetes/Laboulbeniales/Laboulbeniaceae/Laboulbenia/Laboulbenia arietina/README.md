@@ -1,5 +1,4 @@
-Laboulbenia arietina Thaxt. SPECIES
-=======
+# Laboulbenia arietina Thaxt. SPECIES
 
 #### Status
 ACCEPTED

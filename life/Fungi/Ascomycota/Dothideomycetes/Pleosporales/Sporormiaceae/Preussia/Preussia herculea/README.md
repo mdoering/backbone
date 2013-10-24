@@ -1,5 +1,4 @@
-Preussia herculea (Ellis & Everh.) Abdullah & Guarro SPECIES
-=======
+# Preussia herculea (Ellis & Everh.) Abdullah & Guarro SPECIES
 
 #### Status
 ACCEPTED

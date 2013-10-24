@@ -1,5 +1,4 @@
-Smittium coloradense M.C. Williams & Lichtw., 1988 SPECIES
-=======
+# Smittium coloradense M.C. Williams & Lichtw., 1988 SPECIES
 
 #### Status
 ACCEPTED

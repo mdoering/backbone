@@ -1,5 +1,4 @@
-Roccellodea Darb. GENUS
-=======
+# Roccellodea Darb. GENUS
 
 #### Status
 ACCEPTED

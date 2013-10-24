@@ -1,5 +1,4 @@
-Xylosphaera schwackei (Henn.) Dennis SPECIES
-=======
+# Xylosphaera schwackei (Henn.) Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marssonia salicis-purpureae Jaap SPECIES
-=======
+# Marssonia salicis-purpureae Jaap SPECIES
 
 #### Status
 ACCEPTED

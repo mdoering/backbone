@@ -1,5 +1,4 @@
-Lophiotrema aequivocum (Ellis & Everh.) Berl. SPECIES
-=======
+# Lophiotrema aequivocum (Ellis & Everh.) Berl. SPECIES
 
 #### Status
 ACCEPTED

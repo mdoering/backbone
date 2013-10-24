@@ -1,5 +1,4 @@
-Ectocarpus natans Zanardini SPECIES
-=======
+# Ectocarpus natans Zanardini SPECIES
 
 #### Status
 ACCEPTED

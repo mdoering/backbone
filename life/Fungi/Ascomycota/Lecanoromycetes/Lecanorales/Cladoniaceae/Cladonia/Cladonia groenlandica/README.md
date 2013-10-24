@@ -1,5 +1,4 @@
-Cladonia groenlandica (Å.E. Dahl) Trass SPECIES
-=======
+# Cladonia groenlandica (Å.E. Dahl) Trass SPECIES
 
 #### Status
 ACCEPTED

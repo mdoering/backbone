@@ -1,5 +1,4 @@
-Endothiella havanensis Roane SPECIES
-=======
+# Endothiella havanensis Roane SPECIES
 
 #### Status
 ACCEPTED

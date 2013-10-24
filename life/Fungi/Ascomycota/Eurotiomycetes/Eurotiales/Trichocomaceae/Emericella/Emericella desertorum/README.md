@@ -1,5 +1,4 @@
-Emericella desertorum Samson & Mouch., 1974 SPECIES
-=======
+# Emericella desertorum Samson & Mouch., 1974 SPECIES
 
 #### Status
 ACCEPTED

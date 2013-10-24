@@ -1,5 +1,4 @@
-Monilia sputicola Galippe SPECIES
-=======
+# Monilia sputicola Galippe SPECIES
 
 #### Status
 ACCEPTED

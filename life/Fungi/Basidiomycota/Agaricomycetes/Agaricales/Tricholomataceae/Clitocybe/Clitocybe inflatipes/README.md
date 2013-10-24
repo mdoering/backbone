@@ -1,5 +1,4 @@
-Clitocybe inflatipes M.M. Moser SPECIES
-=======
+# Clitocybe inflatipes M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

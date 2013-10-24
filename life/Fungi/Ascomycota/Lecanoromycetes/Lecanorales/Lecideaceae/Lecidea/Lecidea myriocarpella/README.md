@@ -1,5 +1,4 @@
-Lecidea myriocarpella (G. Merr.) Zahlbr. SPECIES
-=======
+# Lecidea myriocarpella (G. Merr.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

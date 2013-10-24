@@ -1,5 +1,4 @@
-Cytospora sororia Bres. SPECIES
-=======
+# Cytospora sororia Bres. SPECIES
 
 #### Status
 ACCEPTED

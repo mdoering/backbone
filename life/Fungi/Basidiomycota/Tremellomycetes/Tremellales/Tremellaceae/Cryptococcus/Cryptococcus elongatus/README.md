@@ -1,5 +1,4 @@
-Cryptococcus elongatus (Mattlet) Nann. SPECIES
-=======
+# Cryptococcus elongatus (Mattlet) Nann. SPECIES
 
 #### Status
 ACCEPTED

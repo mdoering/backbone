@@ -1,5 +1,4 @@
-Arthothelium americanum (Vain.) Zahlbr. SPECIES
-=======
+# Arthothelium americanum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

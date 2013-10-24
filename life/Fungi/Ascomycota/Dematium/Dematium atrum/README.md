@@ -1,5 +1,4 @@
-Dematium atrum (Link) Pers. SPECIES
-=======
+# Dematium atrum (Link) Pers. SPECIES
 
 #### Status
 ACCEPTED

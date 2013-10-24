@@ -1,5 +1,4 @@
-Sphaerocarpus ficoides Bull. SPECIES
-=======
+# Sphaerocarpus ficoides Bull. SPECIES
 
 #### Status
 ACCEPTED

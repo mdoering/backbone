@@ -1,5 +1,4 @@
-Mycosphaerella fici-ovatae Hansf. SPECIES
-=======
+# Mycosphaerella fici-ovatae Hansf. SPECIES
 
 #### Status
 ACCEPTED

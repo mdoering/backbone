@@ -1,5 +1,4 @@
-Lecidea maritima (A. Massal.) Nyl. SPECIES
-=======
+# Lecidea maritima (A. Massal.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

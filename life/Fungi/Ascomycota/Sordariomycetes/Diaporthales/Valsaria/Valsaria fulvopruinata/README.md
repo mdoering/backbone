@@ -1,17 +1,16 @@
-Diaporthe exasperans var. exasperans VARIETY
-=======
+# Valsaria fulvopruinata (Berk.) Sacc., 1882 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 1: 747 (1882)
 
 #### Original name
-Diaporthe exasperans var. exasperans
+Sphaeria fulvopruinata Berk., 1845
 
 ### Remarks
 null

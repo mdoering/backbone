@@ -1,5 +1,4 @@
-Clathrus trilobotus Cobb SPECIES
-=======
+# Clathrus trilobotus Cobb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe angulatosquamulosa Stangl SPECIES
-=======
+# Inocybe angulatosquamulosa Stangl SPECIES
 
 #### Status
 ACCEPTED

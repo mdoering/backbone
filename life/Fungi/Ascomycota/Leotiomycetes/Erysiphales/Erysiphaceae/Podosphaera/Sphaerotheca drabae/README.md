@@ -1,5 +1,4 @@
-Sphaerotheca drabae Juel SPECIES
-=======
+# Sphaerotheca drabae Juel SPECIES
 
 #### Status
 ACCEPTED

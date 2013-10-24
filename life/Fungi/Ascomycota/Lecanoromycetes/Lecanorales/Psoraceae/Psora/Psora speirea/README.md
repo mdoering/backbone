@@ -1,5 +1,4 @@
-Psora speirea (Taylor) C.W. Dodge SPECIES
-=======
+# Psora speirea (Taylor) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

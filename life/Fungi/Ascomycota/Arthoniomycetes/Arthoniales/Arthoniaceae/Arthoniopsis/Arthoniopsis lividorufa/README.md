@@ -1,5 +1,4 @@
-Arthoniopsis lividorufa (Vain.) Zahlbr. SPECIES
-=======
+# Arthoniopsis lividorufa (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

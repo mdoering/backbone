@@ -1,5 +1,4 @@
-Xanthoparmelia cravenii Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia cravenii Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

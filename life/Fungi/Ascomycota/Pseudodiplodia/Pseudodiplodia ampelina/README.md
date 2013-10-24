@@ -1,5 +1,4 @@
-Pseudodiplodia ampelina (Sacc.) Petr. SPECIES
-=======
+# Pseudodiplodia ampelina (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiroplasma chinense Guo et al., 1990 SPECIES
-=======
+# Spiroplasma chinense Guo et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

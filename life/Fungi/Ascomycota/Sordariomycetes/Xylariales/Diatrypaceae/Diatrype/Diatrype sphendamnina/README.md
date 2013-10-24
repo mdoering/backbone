@@ -1,5 +1,4 @@
-Diatrype sphendamnina Berk. & M.A. Curtis SPECIES
-=======
+# Diatrype sphendamnina Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

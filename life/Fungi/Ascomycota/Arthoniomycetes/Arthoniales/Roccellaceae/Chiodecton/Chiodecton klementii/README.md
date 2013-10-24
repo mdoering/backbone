@@ -1,5 +1,4 @@
-Chiodecton klementii Follmann SPECIES
-=======
+# Chiodecton klementii Follmann SPECIES
 
 #### Status
 ACCEPTED

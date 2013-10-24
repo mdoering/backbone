@@ -1,5 +1,4 @@
-Lepiota glischra Morgan SPECIES
-=======
+# Lepiota glischra Morgan SPECIES
 
 #### Status
 ACCEPTED

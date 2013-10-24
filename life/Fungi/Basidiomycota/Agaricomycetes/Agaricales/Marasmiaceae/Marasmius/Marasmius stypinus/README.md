@@ -1,5 +1,4 @@
-Marasmius stypinus Berk. & Broome SPECIES
-=======
+# Marasmius stypinus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

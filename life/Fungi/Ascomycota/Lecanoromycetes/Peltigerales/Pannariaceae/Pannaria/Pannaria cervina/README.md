@@ -1,5 +1,4 @@
-Pannaria cervina Kremp. SPECIES
-=======
+# Pannaria cervina Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Corynespora aterrima (Berk. & M.A. Curtis ex Cooke) M.B. Ellis, 1960 SPECIES
-=======
+# Solicorynespora aterrima (Berk. & M.A. Curtis) R.F. Castañeda & W.B. Kendr., 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 76: 19 (1960)
+Univ. Waterloo Biol. Ser. 33: 42 (1990)
 
 #### Original name
 Mystrosporium aterrimum Berk. & M.A. Curtis ex Cooke, 1877

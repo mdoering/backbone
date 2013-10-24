@@ -1,5 +1,4 @@
-Sporisorium polytocae-barbatae (Mundk.) Vánky SPECIES
-=======
+# Sporisorium polytocae-barbatae (Mundk.) Vánky SPECIES
 
 #### Status
 ACCEPTED

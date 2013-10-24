@@ -1,5 +1,4 @@
-Microthyriella uleana Syd. SPECIES
-=======
+# Microthyriella uleana Syd. SPECIES
 
 #### Status
 ACCEPTED

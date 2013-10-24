@@ -1,17 +1,16 @@
-Lecanora melanaspis f. melanaspis FORM
-=======
+# Lobothallia melanaspis (Ach.) Hafellner SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. univ. (1810)
+null
 
 #### Original name
-Lecanora melanaspis f. melanaspis
+null
 
 ### Remarks
 null

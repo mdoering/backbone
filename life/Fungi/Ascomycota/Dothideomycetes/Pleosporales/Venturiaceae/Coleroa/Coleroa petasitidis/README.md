@@ -1,5 +1,4 @@
-Coleroa petasitidis (Fuckel) M.L. Farr SPECIES
-=======
+# Coleroa petasitidis (Fuckel) M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parafavella obtusangula (Ostenfeld, 1899) SPECIES
-=======
+# Parafavella obtusangula (Ostenfeld, 1899) SPECIES
 
 #### Status
 ACCEPTED

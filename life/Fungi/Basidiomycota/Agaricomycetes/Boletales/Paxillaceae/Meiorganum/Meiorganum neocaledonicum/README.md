@@ -1,17 +1,16 @@
-Meiorganum neo-caledonicum R. Heim SPECIES
-=======
+# Meiorganum neocaledonicum R. Heim, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revue Mycol. , Paris 31: 157 (1966)
 
 #### Original name
-Meiorganum neo-caledonicum R. Heim
+Meiorganum neocaledonicum R. Heim, 1966
 
 ### Remarks
 null

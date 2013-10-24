@@ -1,5 +1,4 @@
-Perisporium macrocarpum Sacc. SPECIES
-=======
+# Perisporium macrocarpum Sacc. SPECIES
 
 #### Status
 ACCEPTED

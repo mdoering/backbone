@@ -1,5 +1,4 @@
-Helotium limnogonum Petr. SPECIES
-=======
+# Helotium limnogonum Petr. SPECIES
 
 #### Status
 ACCEPTED

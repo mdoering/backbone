@@ -1,5 +1,4 @@
-Verrucaria hyalospora Nyl. SPECIES
-=======
+# Verrucaria hyalospora Nyl. SPECIES
 
 #### Status
 ACCEPTED

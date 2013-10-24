@@ -1,5 +1,4 @@
-Copiellintra Nazarov & Ormiston, 1985 GENUS
-=======
+# Copiellintra Nazarov & Ormiston, 1985 GENUS
 
 #### Status
 ACCEPTED

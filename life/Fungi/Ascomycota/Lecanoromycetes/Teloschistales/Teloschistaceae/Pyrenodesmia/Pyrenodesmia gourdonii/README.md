@@ -1,5 +1,4 @@
-Pyrenodesmia gourdonii SPECIES
-=======
+# Pyrenodesmia gourdonii SPECIES
 
 #### Status
 ACCEPTED

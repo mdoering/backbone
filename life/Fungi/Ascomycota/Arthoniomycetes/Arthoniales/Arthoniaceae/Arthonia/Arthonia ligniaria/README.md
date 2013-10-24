@@ -1,5 +1,4 @@
-Arthonia ligniaria Hellb. SPECIES
-=======
+# Arthonia ligniaria Hellb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia schneiderii J. Schröt. SPECIES
-=======
+# Puccinia schneiderii J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

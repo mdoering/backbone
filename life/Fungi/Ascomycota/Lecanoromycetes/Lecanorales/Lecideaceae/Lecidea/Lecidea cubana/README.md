@@ -1,5 +1,4 @@
-Lecidea cubana Nyl. SPECIES
-=======
+# Lecidea cubana Nyl. SPECIES
 
 #### Status
 ACCEPTED

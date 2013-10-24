@@ -1,5 +1,4 @@
-Frondicularia lorifera Chapman, 1913 SPECIES
-=======
+# Frondicularia lorifera Chapman, 1913 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parentocirrus Voss, 1997 GENUS
-=======
+# Parentocirrus Voss, 1997 GENUS
 
 #### Status
 ACCEPTED

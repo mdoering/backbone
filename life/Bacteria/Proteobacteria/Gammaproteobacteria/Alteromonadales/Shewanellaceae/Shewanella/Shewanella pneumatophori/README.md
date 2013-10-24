@@ -1,5 +1,4 @@
-Shewanella pneumatophori Hirota et al., 2005 SPECIES
-=======
+# Shewanella pneumatophori Hirota et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

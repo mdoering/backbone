@@ -1,5 +1,4 @@
-Rhyncheta cyclopum SPECIES
-=======
+# Rhyncheta cyclopum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia pseudopegraphina Matzer SPECIES
-=======
+# Arthonia pseudopegraphina Matzer SPECIES
 
 #### Status
 ACCEPTED

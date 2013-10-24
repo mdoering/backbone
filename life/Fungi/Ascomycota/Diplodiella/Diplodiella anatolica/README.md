@@ -1,5 +1,4 @@
-Diplodiella anatolica Petr. SPECIES
-=======
+# Diplodiella anatolica Petr. SPECIES
 
 #### Status
 ACCEPTED

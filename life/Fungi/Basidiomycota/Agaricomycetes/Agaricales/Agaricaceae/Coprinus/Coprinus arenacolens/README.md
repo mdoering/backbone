@@ -1,5 +1,4 @@
-Coprinus arenacolens Cleland SPECIES
-=======
+# Coprinus arenacolens Cleland SPECIES
 
 #### Status
 ACCEPTED

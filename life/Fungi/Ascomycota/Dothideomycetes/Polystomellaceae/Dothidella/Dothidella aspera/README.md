@@ -1,5 +1,4 @@
-Dothidella aspera (Ellis & Everh.) M.E. Barr, 1989 SPECIES
-=======
+# Dothidella aspera (Ellis & Everh.) M.E. Barr, 1989 SPECIES
 
 #### Status
 ACCEPTED

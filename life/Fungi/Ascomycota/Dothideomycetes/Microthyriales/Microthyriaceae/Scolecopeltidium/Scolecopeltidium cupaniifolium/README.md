@@ -1,5 +1,4 @@
-Scolecopeltidium cupaniifolium Bat. & Peres SPECIES
-=======
+# Scolecopeltidium cupaniifolium Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

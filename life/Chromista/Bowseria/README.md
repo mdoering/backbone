@@ -1,5 +1,4 @@
-Bowseria Sinniger, Lecroq, Majewski & Pawlowski, 2008 GENUS
-=======
+# Bowseria Sinniger, Lecroq, Majewski & Pawlowski, 2008 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula cruentata (Müll. Arg.) R.C. Harris, 1987 SPECIES
-=======
+# Pyrenula cruentata (Müll. Arg.) R.C. Harris, 1987 SPECIES
 
 #### Status
 DOUBTFUL

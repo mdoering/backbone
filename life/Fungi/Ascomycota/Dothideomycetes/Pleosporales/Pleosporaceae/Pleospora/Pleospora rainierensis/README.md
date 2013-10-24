@@ -1,17 +1,16 @@
-Pleospora rainieriensis Wehm., 1951 SPECIES
-=======
+# Pleospora rainierensis Wehm., 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 43: 586 (1951)
 
 #### Original name
-Pleospora rainieriensis Wehm., 1951
+Pleospora rainierensis Wehm., 1951
 
 ### Remarks
 null

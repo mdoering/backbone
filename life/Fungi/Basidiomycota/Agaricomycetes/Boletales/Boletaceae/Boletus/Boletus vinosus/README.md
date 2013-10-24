@@ -1,5 +1,4 @@
-Boletus vinosus Lebedeva SPECIES
-=======
+# Boletus vinosus Lebedeva SPECIES
 
 #### Status
 ACCEPTED

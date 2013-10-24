@@ -1,5 +1,4 @@
-Pseudocornuspira Reitlinger, 1993 GENUS
-=======
+# Pseudocornuspira Reitlinger, 1993 GENUS
 
 #### Status
 ACCEPTED

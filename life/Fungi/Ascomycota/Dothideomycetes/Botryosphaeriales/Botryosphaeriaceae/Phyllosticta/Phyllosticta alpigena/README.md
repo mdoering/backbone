@@ -1,5 +1,4 @@
-Phyllosticta alpigena Sacc. SPECIES
-=======
+# Phyllosticta alpigena Sacc. SPECIES
 
 #### Status
 ACCEPTED

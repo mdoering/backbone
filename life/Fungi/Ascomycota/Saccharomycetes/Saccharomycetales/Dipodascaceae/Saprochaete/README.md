@@ -1,5 +1,4 @@
-Saprochaete Coker & Shanor ex D.T.S. Wagner & Dawes, 1970 GENUS
-=======
+# Saprochaete Coker & Shanor ex D.T.S. Wagner & Dawes, 1970 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Humaria furfurella (Starbäck) Sacc. & Traverso SPECIES
-=======
+# Humaria furfurella (Starbäck) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Termitomyces tylerianus Otieno SPECIES
-=======
+# Termitomyces tylerianus Otieno SPECIES
 
 #### Status
 ACCEPTED

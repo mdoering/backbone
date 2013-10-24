@@ -1,5 +1,4 @@
-Septobasidium areolatum Couch SPECIES
-=======
+# Septobasidium areolatum Couch SPECIES
 
 #### Status
 ACCEPTED

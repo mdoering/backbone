@@ -1,5 +1,4 @@
-Cladophialophora australiensis Crous & A.D. Hocking SPECIES
-=======
+# Cladophialophora australiensis Crous & A.D. Hocking SPECIES
 
 #### Status
 ACCEPTED

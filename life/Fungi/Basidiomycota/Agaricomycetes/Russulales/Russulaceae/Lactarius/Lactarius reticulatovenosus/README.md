@@ -1,5 +1,4 @@
-Lactarius reticulatovenosus Verbeken & E. Horak SPECIES
-=======
+# Lactarius reticulatovenosus Verbeken & E. Horak SPECIES
 
 #### Status
 ACCEPTED

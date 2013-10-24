@@ -1,5 +1,4 @@
-Excipula recurva W.R. Gerard SPECIES
-=======
+# Excipula recurva W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

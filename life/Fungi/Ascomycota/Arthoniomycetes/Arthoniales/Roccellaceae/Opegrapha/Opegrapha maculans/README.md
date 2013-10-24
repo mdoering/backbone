@@ -1,5 +1,4 @@
-Opegrapha maculans (Arnold) Hafellner SPECIES
-=======
+# Opegrapha maculans (Arnold) Hafellner SPECIES
 
 #### Status
 ACCEPTED

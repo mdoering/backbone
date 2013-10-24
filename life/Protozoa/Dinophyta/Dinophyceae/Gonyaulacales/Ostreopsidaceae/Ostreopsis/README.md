@@ -1,5 +1,4 @@
-Ostreopsis Schmidt, 1901 GENUS
-=======
+# Ostreopsis Schmidt, 1901 GENUS
 
 #### Status
 ACCEPTED

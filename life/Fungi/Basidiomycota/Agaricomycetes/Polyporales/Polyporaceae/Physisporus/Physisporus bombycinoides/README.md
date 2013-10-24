@@ -1,5 +1,4 @@
-Physisporus bombycinoides (P. Karst.) P. Karst. SPECIES
-=======
+# Physisporus bombycinoides (P. Karst.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

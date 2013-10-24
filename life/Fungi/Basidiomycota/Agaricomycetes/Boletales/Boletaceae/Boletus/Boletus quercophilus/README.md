@@ -1,5 +1,4 @@
-Boletus quercophilus Halling & G.M. Muell. SPECIES
-=======
+# Boletus quercophilus Halling & G.M. Muell. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cothurnia compressula Kahl, 1933 SPECIES
-=======
+# Cothurnia compressula Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

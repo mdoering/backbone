@@ -1,5 +1,4 @@
-Rhabdospira E.G. Pringsheim, 1963 GENUS
-=======
+# Rhabdospira E.G. Pringsheim, 1963 GENUS
 
 #### Status
 ACCEPTED

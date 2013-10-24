@@ -1,5 +1,4 @@
-Pyrenula adacta var. adacta Fée VARIETY
-=======
+# Pyrenula adacta Fée SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Essai Crypt. Exot. (Paris) 1: 74 (1825)
 
 #### Original name
-Pyrenula adacta var. adacta Fée
+Pyrenula adacta Fée
 
 ### Remarks
 null

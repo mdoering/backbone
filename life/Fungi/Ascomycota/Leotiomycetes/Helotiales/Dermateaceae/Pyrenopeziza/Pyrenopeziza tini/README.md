@@ -1,14 +1,13 @@
-Phacidium tini Duby, 1830 SPECIES
-=======
+# Pyrenopeziza tini (Duby) Nannf., 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Gall. (Paris), Edn 2 2: 722 (1830)
+Nova Acta R. Soc. Scient. upsal. , Ser. 2 8(no. 2): 162 (1932)
 
 #### Original name
 Phacidium tini Duby, 1830

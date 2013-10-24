@@ -1,5 +1,4 @@
-Macrophoma spegazzinii Sacc. & Trotter SPECIES
-=======
+# Macrophoma spegazzinii Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

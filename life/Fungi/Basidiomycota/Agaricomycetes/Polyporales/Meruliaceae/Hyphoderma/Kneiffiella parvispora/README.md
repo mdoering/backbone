@@ -1,5 +1,4 @@
-Kneiffiella parvispora Rick SPECIES
-=======
+# Kneiffiella parvispora Rick SPECIES
 
 #### Status
 ACCEPTED

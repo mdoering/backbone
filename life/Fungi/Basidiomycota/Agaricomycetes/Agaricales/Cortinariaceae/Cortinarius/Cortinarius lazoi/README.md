@@ -1,5 +1,4 @@
-Cortinarius lazoi M.M. Moser SPECIES
-=======
+# Cortinarius lazoi M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

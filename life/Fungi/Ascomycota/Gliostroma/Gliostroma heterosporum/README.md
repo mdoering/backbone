@@ -1,5 +1,4 @@
-Gliostroma heterosporum Preuss SPECIES
-=======
+# Gliostroma heterosporum Preuss SPECIES
 
 #### Status
 ACCEPTED

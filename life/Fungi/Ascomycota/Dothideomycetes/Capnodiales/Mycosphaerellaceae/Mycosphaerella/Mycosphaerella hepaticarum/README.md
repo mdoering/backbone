@@ -1,5 +1,4 @@
-Mycosphaerella hepaticarum (Pat.) Petr. SPECIES
-=======
+# Mycosphaerella hepaticarum (Pat.) Petr. SPECIES
 
 #### Status
 ACCEPTED

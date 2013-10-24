@@ -1,5 +1,4 @@
-Vorticella minuta SPECIES
-=======
+# Vorticella minuta SPECIES
 
 #### Status
 ACCEPTED

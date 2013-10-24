@@ -1,5 +1,4 @@
-Pseudocercospora olacis A.K. Srivast. SPECIES
-=======
+# Pseudocercospora olacis A.K. Srivast. SPECIES
 
 #### Status
 ACCEPTED

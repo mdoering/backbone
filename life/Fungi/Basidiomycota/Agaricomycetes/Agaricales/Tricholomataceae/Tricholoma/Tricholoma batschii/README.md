@@ -1,17 +1,16 @@
-Tricholoma batschii var. batschii VARIETY
-=======
+# Tricholoma batschii Gulden, 1999 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Persoonia 17(2): 315 (1999)
 
 #### Original name
-Tricholoma batschii var. batschii
+Tricholoma batschii Gulden, 1999
 
 ### Remarks
 null

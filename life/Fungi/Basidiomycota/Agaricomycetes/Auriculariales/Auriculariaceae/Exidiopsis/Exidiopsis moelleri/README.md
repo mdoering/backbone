@@ -1,5 +1,4 @@
-Exidiopsis moelleri Rick SPECIES
-=======
+# Exidiopsis moelleri Rick SPECIES
 
 #### Status
 ACCEPTED

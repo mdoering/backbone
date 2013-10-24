@@ -1,5 +1,4 @@
-Diplodia aristolochiae Bres. & Krieg. SPECIES
-=======
+# Diplodia aristolochiae Bres. & Krieg. SPECIES
 
 #### Status
 ACCEPTED

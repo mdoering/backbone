@@ -1,17 +1,16 @@
-Tricholoma pardinum f. pardinum FORM
-=======
+# Tricholoma pardinum Quél. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Mém. Soc. Émul. Montbéliard, Sér. 2 5: 339 (1873)
 
 #### Original name
-null
+Tricholoma pardinum Quél.
 
 ### Remarks
 null

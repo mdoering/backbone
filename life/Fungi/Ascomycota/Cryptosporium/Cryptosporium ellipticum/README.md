@@ -1,5 +1,4 @@
-Cryptosporium ellipticum Syd. {?} SPECIES
-=======
+# Cryptosporium ellipticum Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

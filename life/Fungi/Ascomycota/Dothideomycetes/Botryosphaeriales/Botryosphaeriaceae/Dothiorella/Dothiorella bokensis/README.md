@@ -1,5 +1,4 @@
-Dothiorella bokensis (Henn.) Arx SPECIES
-=======
+# Dothiorella bokensis (Henn.) Arx SPECIES
 
 #### Status
 ACCEPTED

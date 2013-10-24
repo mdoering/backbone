@@ -1,5 +1,4 @@
-Bovistella reticulata Sosin SPECIES
-=======
+# Bovistella reticulata Sosin SPECIES
 
 #### Status
 ACCEPTED

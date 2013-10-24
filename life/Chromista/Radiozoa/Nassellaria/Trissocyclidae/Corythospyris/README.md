@@ -1,5 +1,4 @@
-Corythospyris Haeckel, 1881 GENUS
-=======
+# Corythospyris Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

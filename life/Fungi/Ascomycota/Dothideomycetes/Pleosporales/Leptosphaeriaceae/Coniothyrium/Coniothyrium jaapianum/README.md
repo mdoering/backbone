@@ -1,5 +1,4 @@
-Coniothyrium jaapianum Petr. & Syd. SPECIES
-=======
+# Coniothyrium jaapianum Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

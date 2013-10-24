@@ -1,5 +1,4 @@
-Sinodidymella hesperia M.E. Barr SPECIES
-=======
+# Sinodidymella hesperia M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Proterospongia skujae SPECIES
-=======
+# Proterospongia skujae SPECIES
 
 #### Status
 ACCEPTED

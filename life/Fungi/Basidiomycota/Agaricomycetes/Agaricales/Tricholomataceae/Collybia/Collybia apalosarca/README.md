@@ -1,5 +1,4 @@
-Collybia apalosarca var. apalosarca VARIETY
-=======
+# Collybia apalosarca Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Collybia apalosarca var. apalosarca
+Collybia apalosarca Berk. & Broome
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Verrucaria cerina Eschw. SPECIES
-=======
+# Verrucaria cerina Eschw. SPECIES
 
 #### Status
 ACCEPTED

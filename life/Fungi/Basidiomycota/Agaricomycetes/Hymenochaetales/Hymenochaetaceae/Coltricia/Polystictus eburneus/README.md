@@ -1,5 +1,4 @@
-Polystictus eburneus Lloyd SPECIES
-=======
+# Polystictus eburneus Lloyd SPECIES
 
 #### Status
 ACCEPTED

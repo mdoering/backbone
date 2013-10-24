@@ -1,5 +1,4 @@
-Sphaceloma curcumae Thirum. SPECIES
-=======
+# Sphaceloma curcumae Thirum. SPECIES
 
 #### Status
 ACCEPTED

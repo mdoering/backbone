@@ -1,5 +1,4 @@
-Rhachomyces anophthalmi Thaxt. SPECIES
-=======
+# Rhachomyces anophthalmi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

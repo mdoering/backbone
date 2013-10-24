@@ -1,5 +1,4 @@
-Triloculina subplanciana Cushman, 1954 SPECIES
-=======
+# Triloculina subplanciana Cushman, 1954 SPECIES
 
 #### Status
 ACCEPTED

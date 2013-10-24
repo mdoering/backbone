@@ -1,5 +1,4 @@
-Omphalia discorosea Pilát SPECIES
-=======
+# Omphalia discorosea Pilát SPECIES
 
 #### Status
 ACCEPTED

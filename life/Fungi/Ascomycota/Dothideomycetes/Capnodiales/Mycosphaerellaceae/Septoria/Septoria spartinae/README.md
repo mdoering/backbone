@@ -1,5 +1,4 @@
-Septoria spartinae (Trel.) R. Sprague SPECIES
-=======
+# Septoria spartinae (Trel.) R. Sprague SPECIES
 
 #### Status
 ACCEPTED

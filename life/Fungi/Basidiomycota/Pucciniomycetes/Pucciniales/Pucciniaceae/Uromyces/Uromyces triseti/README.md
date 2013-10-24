@@ -1,5 +1,4 @@
-Uromyces triseti Katajev SPECIES
-=======
+# Uromyces triseti Katajev SPECIES
 
 #### Status
 ACCEPTED

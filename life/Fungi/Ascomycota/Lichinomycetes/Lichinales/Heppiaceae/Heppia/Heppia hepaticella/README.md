@@ -1,5 +1,4 @@
-Heppia hepaticella Müll. Arg. SPECIES
-=======
+# Heppia hepaticella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

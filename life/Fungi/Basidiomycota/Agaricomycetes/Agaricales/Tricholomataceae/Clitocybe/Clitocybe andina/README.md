@@ -1,5 +1,4 @@
-Clitocybe andina Dennis SPECIES
-=======
+# Clitocybe andina Dennis SPECIES
 
 #### Status
 ACCEPTED

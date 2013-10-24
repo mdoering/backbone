@@ -1,5 +1,4 @@
-Humaria scatigena (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Humaria scatigena (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia schimperi Müll. Arg. SPECIES
-=======
+# Parmelia schimperi Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

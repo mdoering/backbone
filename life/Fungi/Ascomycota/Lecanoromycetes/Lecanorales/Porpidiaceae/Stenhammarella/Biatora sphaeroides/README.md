@@ -1,8 +1,7 @@
-Biatora pilularis (Körb.) Hepp, 1860 SPECIES
-=======
+# Biatora sphaeroides (Dicks.) Körb., 1853 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

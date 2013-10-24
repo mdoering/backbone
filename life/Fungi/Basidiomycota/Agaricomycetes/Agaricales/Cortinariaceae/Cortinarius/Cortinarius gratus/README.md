@@ -1,17 +1,16 @@
-Cortinarius gratus f. gratus FORM
-=======
+# Cortinarius gratus Reumaux SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+in Bidaud, Moënne-Loccoz, Reumaux, Carteret & Eyssartier, Atlas des Cortinaires (Meyzieu) 17(2): 1237 (2008)
 
 #### Original name
-null
+Cortinarius gratus Reumaux
 
 ### Remarks
 null

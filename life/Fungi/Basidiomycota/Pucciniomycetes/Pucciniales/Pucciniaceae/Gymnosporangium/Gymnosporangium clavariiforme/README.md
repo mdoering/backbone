@@ -1,17 +1,16 @@
-Roestelia lacerata f. lacerata FORM
-=======
+# Gymnosporangium clavariiforme (Wulfen) DC., 1805 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nouv. Fl. Environs Paris 113 (1821)
+in Lamarck & de Candolle, Fl. franç. (Paris), Edn 3 2: 217 (1805)
 
 #### Original name
-Roestelia lacerata f. lacerata
+Gymnosporangium clavariiforme (Wulfen) DC., 1805
 
 ### Remarks
 null

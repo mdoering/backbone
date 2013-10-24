@@ -1,5 +1,4 @@
-Diatrype saccardoi Syd. SPECIES
-=======
+# Diatrype saccardoi Syd. SPECIES
 
 #### Status
 ACCEPTED

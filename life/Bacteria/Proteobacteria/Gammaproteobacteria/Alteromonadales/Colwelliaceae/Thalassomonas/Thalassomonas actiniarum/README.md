@@ -1,5 +1,4 @@
-Thalassomonas actiniarum Hosoya, Adachi & Kasai, 2009 SPECIES
-=======
+# Thalassomonas actiniarum Hosoya, Adachi & Kasai, 2009 SPECIES
 
 #### Status
 ACCEPTED

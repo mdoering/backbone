@@ -1,8 +1,7 @@
-Phomatospora oyedeae Chardón SPECIES
-=======
+# Phomatospora oyedaeae Chardón SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phomatospora oyedeae Chardón
+Phomatospora oyedaeae Chardón
 
 ### Remarks
 null

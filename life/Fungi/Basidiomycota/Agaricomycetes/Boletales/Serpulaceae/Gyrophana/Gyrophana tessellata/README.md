@@ -1,5 +1,4 @@
-Gyrophana tessellata (Bres.) Pat. SPECIES
-=======
+# Gyrophana tessellata (Bres.) Pat. SPECIES
 
 #### Status
 ACCEPTED

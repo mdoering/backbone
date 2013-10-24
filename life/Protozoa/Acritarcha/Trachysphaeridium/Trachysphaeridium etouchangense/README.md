@@ -1,5 +1,4 @@
-Trachysphaeridium etouchangense Wang, Zhou & Chen, 1980 SPECIES
-=======
+# Trachysphaeridium etouchangense Wang, Zhou & Chen, 1980 SPECIES
 
 #### Status
 ACCEPTED

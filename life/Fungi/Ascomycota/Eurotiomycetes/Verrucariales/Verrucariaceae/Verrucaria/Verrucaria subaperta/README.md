@@ -1,5 +1,4 @@
-Verrucaria subaperta Spreng. SPECIES
-=======
+# Verrucaria subaperta Spreng. SPECIES
 
 #### Status
 ACCEPTED

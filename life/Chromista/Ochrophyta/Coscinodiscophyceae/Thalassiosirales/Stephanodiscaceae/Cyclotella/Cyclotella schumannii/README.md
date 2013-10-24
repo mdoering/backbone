@@ -1,5 +1,4 @@
-Cyclotella schumannii (Grunow) Håk. SPECIES
-=======
+# Cyclotella schumannii (Grunow) Håk. SPECIES
 
 #### Status
 ACCEPTED

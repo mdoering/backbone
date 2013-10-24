@@ -1,5 +1,4 @@
-Myxotrichum coprogenum Sacc. SPECIES
-=======
+# Myxotrichum coprogenum Sacc. SPECIES
 
 #### Status
 ACCEPTED

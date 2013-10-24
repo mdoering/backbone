@@ -1,5 +1,4 @@
-Dicaeoma synedrellae (Lagerh.) Kuntze SPECIES
-=======
+# Dicaeoma synedrellae (Lagerh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

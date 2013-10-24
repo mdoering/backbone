@@ -1,5 +1,4 @@
-Dicaeoma crassum (Barclay) Kuntze SPECIES
-=======
+# Dicaeoma crassum (Barclay) Kuntze SPECIES
 
 #### Status
 ACCEPTED

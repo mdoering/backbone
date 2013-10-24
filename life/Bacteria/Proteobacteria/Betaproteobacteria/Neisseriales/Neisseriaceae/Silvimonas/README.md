@@ -1,5 +1,4 @@
-Silvimonas Yang et al., 2005 GENUS
-=======
+# Silvimonas Yang et al., 2005 GENUS
 
 #### Status
 ACCEPTED

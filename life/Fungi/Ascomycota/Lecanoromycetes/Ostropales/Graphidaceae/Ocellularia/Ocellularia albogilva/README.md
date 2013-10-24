@@ -1,14 +1,13 @@
-Ascidium albogilvum Kremp. SPECIES
-=======
+# Ocellularia albogilva (Kremp.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Nuovo Giorn. Bot. Ital. 7: 21 (1875)
+Cat. Lich. Univers. 2: 582 (1923)
 
 #### Original name
 Ascidium albogilvum Kremp.

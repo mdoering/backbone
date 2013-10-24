@@ -1,5 +1,4 @@
-Erythrobacter aquimaris Yoon et al., 2004 SPECIES
-=======
+# Erythrobacter aquimaris Yoon et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

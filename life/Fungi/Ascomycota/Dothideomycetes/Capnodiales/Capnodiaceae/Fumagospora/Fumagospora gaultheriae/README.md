@@ -1,5 +1,4 @@
-Fumagospora gaultheriae Bat., A.F. Vital & Cif. SPECIES
-=======
+# Fumagospora gaultheriae Bat., A.F. Vital & Cif. SPECIES
 
 #### Status
 ACCEPTED

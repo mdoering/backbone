@@ -1,5 +1,4 @@
-Calosphaeria cornicola Ellis & Everh. SPECIES
-=======
+# Calosphaeria cornicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilbum karstenii Sacc. SPECIES
-=======
+# Stilbum karstenii Sacc. SPECIES
 
 #### Status
 ACCEPTED

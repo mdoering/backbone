@@ -1,5 +1,4 @@
-Peroneutypa macrorostrata Saccas SPECIES
-=======
+# Peroneutypa macrorostrata Saccas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Starbaeckiella GENUS
-=======
+# Starbaeckiella GENUS
 
 #### Status
 ACCEPTED

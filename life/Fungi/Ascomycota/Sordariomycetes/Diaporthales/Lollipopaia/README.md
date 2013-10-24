@@ -1,5 +1,4 @@
-Lollipopaia Inderbitzin GENUS
-=======
+# Lollipopaia Inderbitzin GENUS
 
 #### Status
 ACCEPTED

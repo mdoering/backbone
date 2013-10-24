@@ -1,5 +1,4 @@
-Lachnea tenuispora (Cooke & Massee) SPECIES
-=======
+# Lachnea tenuispora (Cooke & Massee) SPECIES
 
 #### Status
 ACCEPTED

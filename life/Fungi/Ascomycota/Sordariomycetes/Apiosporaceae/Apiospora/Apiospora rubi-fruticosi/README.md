@@ -1,5 +1,4 @@
-Apiospora rubi-fruticosi f. rubi-fruticosi FORM
-=======
+# Apiospora rubi-fruticosi Severini SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Apiospora rubi-fruticosi f. rubi-fruticosi
+Apiospora rubi-fruticosi Severini
 
 ### Remarks
 null

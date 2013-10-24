@@ -1,5 +1,4 @@
-Dactylina chinensis Follmann SPECIES
-=======
+# Dactylina chinensis Follmann SPECIES
 
 #### Status
 ACCEPTED

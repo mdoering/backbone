@@ -1,5 +1,4 @@
-Hydrococcus F.T. Kützing, 1833 GENUS
-=======
+# Hydrococcus F.T. Kützing, 1833 GENUS
 
 #### Status
 ACCEPTED

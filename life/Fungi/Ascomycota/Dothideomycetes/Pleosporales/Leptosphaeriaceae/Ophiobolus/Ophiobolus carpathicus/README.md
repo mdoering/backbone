@@ -1,5 +1,4 @@
-Ophiobolus carpathicus Hazsl. SPECIES
-=======
+# Ophiobolus carpathicus Hazsl. SPECIES
 
 #### Status
 ACCEPTED

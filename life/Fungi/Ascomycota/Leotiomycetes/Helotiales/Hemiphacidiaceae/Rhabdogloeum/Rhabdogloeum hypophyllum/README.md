@@ -1,5 +1,4 @@
-Rhabdogloeum hypophyllum D.E. Ellis & L.S. Gill SPECIES
-=======
+# Rhabdogloeum hypophyllum D.E. Ellis & L.S. Gill SPECIES
 
 #### Status
 ACCEPTED

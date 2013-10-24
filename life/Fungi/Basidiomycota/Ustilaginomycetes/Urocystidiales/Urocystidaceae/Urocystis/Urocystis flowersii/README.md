@@ -1,5 +1,4 @@
-Urocystis flowersii Garrett SPECIES
-=======
+# Urocystis flowersii Garrett SPECIES
 
 #### Status
 ACCEPTED

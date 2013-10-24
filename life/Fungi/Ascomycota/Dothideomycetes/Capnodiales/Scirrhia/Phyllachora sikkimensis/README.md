@@ -1,5 +1,4 @@
-Phyllachora sikkimensis T.S. Ramakr. & K. Ramakr., 1950 SPECIES
-=======
+# Phyllachora sikkimensis T.S. Ramakr. & K. Ramakr., 1950 SPECIES
 
 #### Status
 DOUBTFUL

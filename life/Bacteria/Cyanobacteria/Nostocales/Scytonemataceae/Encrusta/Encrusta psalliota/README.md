@@ -1,5 +1,4 @@
-Encrusta psalliota SPECIES
-=======
+# Encrusta psalliota SPECIES
 
 #### Status
 ACCEPTED

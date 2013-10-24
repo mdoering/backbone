@@ -1,5 +1,4 @@
-Verrucaria halophila (Nyl.) Nyl. SPECIES
-=======
+# Verrucaria halophila (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

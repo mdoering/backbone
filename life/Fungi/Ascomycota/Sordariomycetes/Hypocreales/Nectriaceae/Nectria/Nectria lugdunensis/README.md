@@ -1,17 +1,16 @@
-Heliscus aquaticus Ingold, 1942 SPECIES
-=======
+# Nectria lugdunensis J. Webster, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 25: 360 (1942)
+Trans. Br. mycol. Soc. 42: 325 (1959)
 
 #### Original name
-Heliscus aquaticus Ingold, 1942
+Nectria lugdunensis J. Webster, 1959
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Edythea H.S. Jacks. GENUS
-=======
+# Edythea H.S. Jacks. GENUS
 
 #### Status
 ACCEPTED

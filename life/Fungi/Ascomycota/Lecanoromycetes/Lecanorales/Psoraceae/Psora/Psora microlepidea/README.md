@@ -1,5 +1,4 @@
-Psora microlepidea Müll. Arg. SPECIES
-=======
+# Psora microlepidea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

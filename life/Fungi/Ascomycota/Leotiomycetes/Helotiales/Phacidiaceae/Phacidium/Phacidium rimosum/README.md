@@ -1,5 +1,4 @@
-Phacidium rimosum R. Ludw. SPECIES
-=======
+# Phacidium rimosum R. Ludw. SPECIES
 
 #### Status
 ACCEPTED

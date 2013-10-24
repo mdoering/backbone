@@ -1,5 +1,4 @@
-Caloplaca festivella (Nyl.) Kieff. SPECIES
-=======
+# Caloplaca festivella (Nyl.) Kieff. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uncinula combreticola Doidge SPECIES
-=======
+# Uncinula combreticola Doidge SPECIES
 
 #### Status
 ACCEPTED

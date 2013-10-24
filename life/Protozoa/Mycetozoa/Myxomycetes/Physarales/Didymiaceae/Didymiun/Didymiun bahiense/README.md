@@ -1,5 +1,4 @@
-Didymiun bahiense Gottsb. SPECIES
-=======
+# Didymiun bahiense Gottsb. SPECIES
 
 #### Status
 ACCEPTED

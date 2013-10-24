@@ -1,17 +1,16 @@
-Amauroderma lloydii Pat. & Har., 1912 SPECIES
-=======
+# Humphreya lloydii (Pat. & Har.) Steyaert, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 28: 281 (1912)
+Persoonia 7(1): 99 (1972)
 
 #### Original name
-Amauroderma lloydii Pat. & Har., 1912
+Ganoderma lloydii Pat. & Har., 1912
 
 ### Remarks
 null

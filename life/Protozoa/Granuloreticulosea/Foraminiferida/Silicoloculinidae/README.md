@@ -1,5 +1,4 @@
-Silicoloculinidae FAMILY
-=======
+# Silicoloculinidae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synedra longissima W. Smith SPECIES
-=======
+# Synedra longissima W. Smith SPECIES
 
 #### Status
 ACCEPTED

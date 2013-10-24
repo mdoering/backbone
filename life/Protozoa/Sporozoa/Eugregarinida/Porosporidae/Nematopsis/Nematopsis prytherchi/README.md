@@ -1,5 +1,4 @@
-Nematopsis prytherchi Sprague, 1949 SPECIES
-=======
+# Nematopsis prytherchi Sprague, 1949 SPECIES
 
 #### Status
 ACCEPTED

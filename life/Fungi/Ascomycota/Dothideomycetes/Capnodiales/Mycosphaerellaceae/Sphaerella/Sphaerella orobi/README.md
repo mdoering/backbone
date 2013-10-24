@@ -1,5 +1,4 @@
-Sphaerella orobi Hazsl. SPECIES
-=======
+# Sphaerella orobi Hazsl. SPECIES
 
 #### Status
 ACCEPTED

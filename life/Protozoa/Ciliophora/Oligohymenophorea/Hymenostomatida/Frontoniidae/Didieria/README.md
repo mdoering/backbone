@@ -1,5 +1,4 @@
-Didieria Small & Lynn, 1985 GENUS
-=======
+# Didieria Small & Lynn, 1985 GENUS
 
 #### Status
 ACCEPTED

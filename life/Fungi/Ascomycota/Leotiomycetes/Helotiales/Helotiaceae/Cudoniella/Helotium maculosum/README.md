@@ -1,5 +1,4 @@
-Helotium maculosum Ellis & G. Martin SPECIES
-=======
+# Helotium maculosum Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

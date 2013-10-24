@@ -1,5 +1,4 @@
-Thalassicollarium Haeckel, 1887 GENUS
-=======
+# Thalassicollarium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

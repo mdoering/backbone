@@ -1,5 +1,4 @@
-Cortinarius perpallens Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius perpallens Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

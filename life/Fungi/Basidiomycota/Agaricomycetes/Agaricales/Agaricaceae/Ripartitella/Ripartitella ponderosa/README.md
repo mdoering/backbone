@@ -1,14 +1,13 @@
-Cystoderma ponderosum A.H. Sm. & Singer, 1945 SPECIES
-=======
+# Ripartitella ponderosa (A.H. Sm. & Singer) Franco-Mol., 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pap. Mich. Acad. Sci. 30: 92-94 (1945)
+Mycologia 85(4): 675 (1993)
 
 #### Original name
 Cystoderma ponderosum A.H. Sm. & Singer, 1945

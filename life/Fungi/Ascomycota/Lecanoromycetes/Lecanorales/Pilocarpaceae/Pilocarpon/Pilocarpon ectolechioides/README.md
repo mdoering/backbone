@@ -1,5 +1,4 @@
-Pilocarpon ectolechioides Vain. SPECIES
-=======
+# Pilocarpon ectolechioides Vain. SPECIES
 
 #### Status
 ACCEPTED

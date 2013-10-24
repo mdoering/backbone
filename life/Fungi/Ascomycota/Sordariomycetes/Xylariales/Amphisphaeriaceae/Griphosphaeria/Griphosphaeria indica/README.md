@@ -1,5 +1,4 @@
-Griphosphaeria indica R.C. Rajak & A.K. Pandey SPECIES
-=======
+# Griphosphaeria indica R.C. Rajak & A.K. Pandey SPECIES
 
 #### Status
 ACCEPTED

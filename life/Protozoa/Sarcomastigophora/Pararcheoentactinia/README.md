@@ -1,5 +1,4 @@
-Pararcheoentactinia Wom & Iams, 2002 GENUS
-=======
+# Pararcheoentactinia Wom & Iams, 2002 GENUS
 
 #### Status
 ACCEPTED

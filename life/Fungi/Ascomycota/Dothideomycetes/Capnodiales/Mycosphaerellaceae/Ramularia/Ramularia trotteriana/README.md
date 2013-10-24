@@ -1,5 +1,4 @@
-Ramularia trotteriana Sacc. SPECIES
-=======
+# Ramularia trotteriana Sacc. SPECIES
 
 #### Status
 ACCEPTED

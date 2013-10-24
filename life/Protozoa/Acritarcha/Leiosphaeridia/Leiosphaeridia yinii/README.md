@@ -1,5 +1,4 @@
-Leiosphaeridia yinii Fensome et al., 1990 SPECIES
-=======
+# Leiosphaeridia yinii Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discula variabilis (Ellis) Sacc. SPECIES
-=======
+# Discula variabilis (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

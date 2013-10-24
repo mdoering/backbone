@@ -1,5 +1,4 @@
-Septoria crepidicola U. Braun SPECIES
-=======
+# Septoria crepidicola U. Braun SPECIES
 
 #### Status
 ACCEPTED

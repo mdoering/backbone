@@ -1,5 +1,4 @@
-Scindalma nubilum (Fr.) Kuntze SPECIES
-=======
+# Scindalma nubilum (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

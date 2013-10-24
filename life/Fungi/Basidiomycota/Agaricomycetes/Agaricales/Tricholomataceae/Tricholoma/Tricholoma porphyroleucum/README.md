@@ -1,5 +1,4 @@
-Tricholoma porphyroleucum (Bull.) Cooke SPECIES
-=======
+# Tricholoma porphyroleucum (Bull.) Cooke SPECIES
 
 #### Status
 ACCEPTED

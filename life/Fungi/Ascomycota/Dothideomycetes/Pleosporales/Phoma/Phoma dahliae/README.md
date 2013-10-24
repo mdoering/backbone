@@ -1,5 +1,4 @@
-Phoma dahliae Berk. SPECIES
-=======
+# Phoma dahliae Berk. SPECIES
 
 #### Status
 ACCEPTED

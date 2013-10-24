@@ -1,5 +1,4 @@
-Cordyceps flavobrunnescens Henn. SPECIES
-=======
+# Cordyceps flavobrunnescens Henn. SPECIES
 
 #### Status
 ACCEPTED

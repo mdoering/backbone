@@ -1,5 +1,4 @@
-Myriotrema norsticticum (Hale) Hale SPECIES
-=======
+# Myriotrema norsticticum (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

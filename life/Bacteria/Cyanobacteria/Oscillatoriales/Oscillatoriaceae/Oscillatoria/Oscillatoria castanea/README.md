@@ -1,5 +1,4 @@
-Oscillatoria castanea L. Hoffmann & V. Demoulin SPECIES
-=======
+# Oscillatoria castanea L. Hoffmann & V. Demoulin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium cardui Syd. & P. Syd. SPECIES
-=======
+# Aecidium cardui Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

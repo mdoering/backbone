@@ -1,5 +1,4 @@
-Mycolangloisia nitida (Doidge) Hansf. SPECIES
-=======
+# Mycolangloisia nitida (Doidge) Hansf. SPECIES
 
 #### Status
 ACCEPTED

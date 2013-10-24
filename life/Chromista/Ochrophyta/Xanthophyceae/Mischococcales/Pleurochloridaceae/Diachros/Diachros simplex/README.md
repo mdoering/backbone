@@ -1,5 +1,4 @@
-Diachros simplex Pascher SPECIES
-=======
+# Diachros simplex Pascher SPECIES
 
 #### Status
 ACCEPTED

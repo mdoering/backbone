@@ -1,14 +1,13 @@
-Boletus ananas M.A. Curtis, 1848 SPECIES
-=======
+# Boletellus ananas (M.A. Curtis) Murrill, 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. Journ. Art. Scienc. 6: 351 (1848)
+Mycologia 1(1): 10 (1909)
 
 #### Original name
 Boletus ananas M.A. Curtis, 1848

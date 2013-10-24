@@ -1,5 +1,4 @@
-Epidermophyton planum Kesteven SPECIES
-=======
+# Epidermophyton planum Kesteven SPECIES
 
 #### Status
 ACCEPTED

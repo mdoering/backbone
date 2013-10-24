@@ -1,5 +1,4 @@
-Afrothrix darbyshirei Foissner, 1999 SPECIES
-=======
+# Afrothrix darbyshirei Foissner, 1999 SPECIES
 
 #### Status
 ACCEPTED

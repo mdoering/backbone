@@ -1,5 +1,4 @@
-Mallomonadaceae Diesing, 1866 FAMILY
-=======
+# Mallomonadaceae Diesing, 1866 FAMILY
 
 #### Status
 ACCEPTED

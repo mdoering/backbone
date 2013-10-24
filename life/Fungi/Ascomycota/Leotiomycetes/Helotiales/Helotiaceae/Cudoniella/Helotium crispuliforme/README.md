@@ -1,5 +1,4 @@
-Helotium crispuliforme (Singer) Redhead SPECIES
-=======
+# Helotium crispuliforme (Singer) Redhead SPECIES
 
 #### Status
 ACCEPTED

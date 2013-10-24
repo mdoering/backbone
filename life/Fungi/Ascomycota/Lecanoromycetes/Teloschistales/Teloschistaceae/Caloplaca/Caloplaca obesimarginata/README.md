@@ -1,5 +1,4 @@
-Caloplaca obesimarginata Søchting SPECIES
-=======
+# Caloplaca obesimarginata Søchting SPECIES
 
 #### Status
 ACCEPTED

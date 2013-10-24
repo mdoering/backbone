@@ -1,5 +1,4 @@
-Phellinus leiomitus Corner SPECIES
-=======
+# Phellinus leiomitus Corner SPECIES
 
 #### Status
 ACCEPTED

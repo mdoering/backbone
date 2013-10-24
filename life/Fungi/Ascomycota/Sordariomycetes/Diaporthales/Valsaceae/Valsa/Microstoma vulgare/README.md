@@ -1,5 +1,4 @@
-Microstoma vulgare Auersw. SPECIES
-=======
+# Microstoma vulgare Auersw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizopogon udus A.H. Sm. SPECIES
-=======
+# Rhizopogon udus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

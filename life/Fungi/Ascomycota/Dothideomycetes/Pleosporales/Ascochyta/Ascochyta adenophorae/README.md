@@ -1,5 +1,4 @@
-Ascochyta adenophorae Melnik SPECIES
-=======
+# Ascochyta adenophorae Melnik SPECIES
 
 #### Status
 ACCEPTED

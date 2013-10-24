@@ -1,5 +1,4 @@
-Usnea expansa Motyka SPECIES
-=======
+# Usnea expansa Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltisphaeridium ehrenbergii SPECIES
-=======
+# Baltisphaeridium ehrenbergii SPECIES
 
 #### Status
 ACCEPTED

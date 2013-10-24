@@ -1,5 +1,4 @@
-Lepiota rhyparophora (Berk. & Broome) Sacc. SPECIES
-=======
+# Lepiota rhyparophora (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

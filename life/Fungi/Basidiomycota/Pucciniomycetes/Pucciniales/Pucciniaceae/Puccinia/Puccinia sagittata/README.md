@@ -1,5 +1,4 @@
-Puccinia sagittata Long SPECIES
-=======
+# Puccinia sagittata Long SPECIES
 
 #### Status
 ACCEPTED

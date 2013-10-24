@@ -1,5 +1,4 @@
-Cortinarius pseudoclaricolor E. Horak & M.M. Moser SPECIES
-=======
+# Cortinarius pseudoclaricolor E. Horak & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

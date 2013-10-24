@@ -1,5 +1,4 @@
-Pertusaria elliptica var. elliptica VARIETY
-=======
+# Pertusaria elliptica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Bull. Herb. Boissier 3: 635 (1895)
 
 #### Original name
-Pertusaria elliptica var. elliptica
+Pertusaria elliptica Müll. Arg.
 
 ### Remarks
 null

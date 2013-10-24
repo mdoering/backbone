@@ -1,5 +1,4 @@
-Lagynia GENUS
-=======
+# Lagynia GENUS
 
 #### Status
 ACCEPTED

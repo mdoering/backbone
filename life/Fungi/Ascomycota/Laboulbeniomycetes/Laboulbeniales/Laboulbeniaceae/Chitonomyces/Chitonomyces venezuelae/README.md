@@ -1,5 +1,4 @@
-Chitonomyces venezuelae Thaxt. SPECIES
-=======
+# Chitonomyces venezuelae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

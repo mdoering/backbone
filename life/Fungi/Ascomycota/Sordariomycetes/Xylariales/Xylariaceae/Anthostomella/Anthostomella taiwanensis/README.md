@@ -1,5 +1,4 @@
-Anthostomella taiwanensis W.H. Hsieh, Chi Y. Chen & Sivan., 1995 SPECIES
-=======
+# Anthostomella taiwanensis W.H. Hsieh, Chi Y. Chen & Sivan., 1995 SPECIES
 
 #### Status
 ACCEPTED

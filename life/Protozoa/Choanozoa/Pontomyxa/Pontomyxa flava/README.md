@@ -1,5 +1,4 @@
-Pontomyxa flava Topsent SPECIES
-=======
+# Pontomyxa flava Topsent SPECIES
 
 #### Status
 ACCEPTED

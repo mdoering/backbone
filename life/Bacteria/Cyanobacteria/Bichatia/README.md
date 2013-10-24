@@ -1,5 +1,4 @@
-Bichatia GENUS
-=======
+# Bichatia GENUS
 
 #### Status
 ACCEPTED

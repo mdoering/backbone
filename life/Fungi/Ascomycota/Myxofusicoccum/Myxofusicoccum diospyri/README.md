@@ -1,5 +1,4 @@
-Myxofusicoccum diospyri Woron. SPECIES
-=======
+# Myxofusicoccum diospyri Woron. SPECIES
 
 #### Status
 ACCEPTED

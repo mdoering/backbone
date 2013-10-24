@@ -1,5 +1,4 @@
-Passalora nepalensis Adhikari & V. Manandhar SPECIES
-=======
+# Passalora nepalensis Adhikari & V. Manandhar SPECIES
 
 #### Status
 ACCEPTED

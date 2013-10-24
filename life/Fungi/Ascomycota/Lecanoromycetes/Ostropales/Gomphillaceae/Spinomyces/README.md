@@ -1,5 +1,4 @@
-Spinomyces Bat. & Peres GENUS
-=======
+# Spinomyces Bat. & Peres GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Balnearium lithotrophicum Takai et al., 2003 SPECIES
-=======
+# Balnearium lithotrophicum Takai et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

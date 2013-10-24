@@ -1,5 +1,4 @@
-Archaias compressus SPECIES
-=======
+# Archaias compressus SPECIES
 
 #### Status
 ACCEPTED

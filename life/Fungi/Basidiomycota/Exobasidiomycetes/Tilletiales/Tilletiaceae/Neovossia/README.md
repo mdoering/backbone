@@ -1,5 +1,4 @@
-Neovossia Körn. GENUS
-=======
+# Neovossia Körn. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ostreopsis heptagona D.R. Norris, J.W. Bomber & E. Balech SPECIES
-=======
+# Ostreopsis heptagona D.R. Norris, J.W. Bomber & E. Balech SPECIES
 
 #### Status
 ACCEPTED

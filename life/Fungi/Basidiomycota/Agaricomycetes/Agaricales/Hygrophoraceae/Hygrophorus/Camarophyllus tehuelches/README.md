@@ -1,8 +1,7 @@
-Camarophyllus teheulches (Speg.) Singer SPECIES
-=======
+# Camarophyllus tehuelches (Speg.) Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

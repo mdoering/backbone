@@ -1,5 +1,4 @@
-Peziza triquetra Pers. SPECIES
-=======
+# Peziza triquetra Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nummulites nanggoelani Verbeek SPECIES
-=======
+# Nummulites nanggoelani Verbeek SPECIES
 
 #### Status
 ACCEPTED

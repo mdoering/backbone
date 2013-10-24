@@ -1,5 +1,4 @@
-Lachnellula eucalypti Spooner SPECIES
-=======
+# Lachnellula eucalypti Spooner SPECIES
 
 #### Status
 ACCEPTED

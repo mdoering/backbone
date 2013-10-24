@@ -1,5 +1,4 @@
-Haplocaulus pleomeri SPECIES
-=======
+# Haplocaulus pleomeri SPECIES
 
 #### Status
 ACCEPTED

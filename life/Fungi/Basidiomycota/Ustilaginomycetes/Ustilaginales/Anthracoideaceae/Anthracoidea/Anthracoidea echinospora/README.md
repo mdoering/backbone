@@ -1,14 +1,13 @@
-Cintractia echinospora Lehtola, 1940 SPECIES
-=======
+# Anthracoidea echinospora (Lehtola) Kukkonen, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Suom. Maataloust. Seur. Julk 42(1): 44 (1940)
+Ann. bot. Soc. Zool. -Bot. fenn. Vanamo 34: 72 (1963)
 
 #### Original name
 Cintractia echinospora Lehtola, 1940

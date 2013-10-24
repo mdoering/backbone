@@ -1,5 +1,4 @@
-Radiocyclopeus GENUS
-=======
+# Radiocyclopeus GENUS
 
 #### Status
 ACCEPTED

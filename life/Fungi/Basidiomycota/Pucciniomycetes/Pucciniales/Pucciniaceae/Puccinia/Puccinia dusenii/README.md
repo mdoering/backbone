@@ -1,5 +1,4 @@
-Puccinia dusenii J.C. Lindq. SPECIES
-=======
+# Puccinia dusenii J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

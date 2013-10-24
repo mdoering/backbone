@@ -1,5 +1,4 @@
-Buellia hyperbolica Bagl. SPECIES
-=======
+# Buellia hyperbolica Bagl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epicoccum rhodotypi Henn. SPECIES
-=======
+# Epicoccum rhodotypi Henn. SPECIES
 
 #### Status
 ACCEPTED

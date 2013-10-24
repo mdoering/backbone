@@ -1,5 +1,4 @@
-Radulomyces poni Gilb. & Hemmes, 2001 SPECIES
-=======
+# Radulomyces poni Gilb. & Hemmes, 2001 SPECIES
 
 #### Status
 ACCEPTED

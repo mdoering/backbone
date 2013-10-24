@@ -1,5 +1,4 @@
-Septotinia populiperda Waterman & E.K. Cash ex B. Sutton SPECIES
-=======
+# Septotinia populiperda Waterman & E.K. Cash ex B. Sutton SPECIES
 
 #### Status
 ACCEPTED

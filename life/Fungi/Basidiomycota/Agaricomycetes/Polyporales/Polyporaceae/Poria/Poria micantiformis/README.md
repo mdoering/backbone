@@ -1,5 +1,4 @@
-Poria micantiformis (Pilát) J. Lowe SPECIES
-=======
+# Poria micantiformis (Pilát) J. Lowe SPECIES
 
 #### Status
 ACCEPTED

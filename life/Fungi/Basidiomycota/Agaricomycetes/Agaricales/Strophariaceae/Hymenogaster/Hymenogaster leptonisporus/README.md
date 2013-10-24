@@ -1,5 +1,4 @@
-Hymenogaster leptonisporus Richon SPECIES
-=======
+# Hymenogaster leptonisporus Richon SPECIES
 
 #### Status
 ACCEPTED

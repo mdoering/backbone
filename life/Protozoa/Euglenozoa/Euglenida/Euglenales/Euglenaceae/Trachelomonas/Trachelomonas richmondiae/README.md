@@ -1,8 +1,7 @@
-Trachelomonas conica var. richmondiae Playfair VARIETY
-=======
+# Trachelomonas richmondiae (Playfair) Deflandre SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Peziza cericea O.F. Müll. SPECIES
-=======
+# Peziza cericea O.F. Müll. SPECIES
 
 #### Status
 ACCEPTED

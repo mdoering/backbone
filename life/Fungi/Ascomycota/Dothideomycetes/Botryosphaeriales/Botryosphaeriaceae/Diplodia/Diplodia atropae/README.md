@@ -1,5 +1,4 @@
-Diplodia atropae Siemaszko SPECIES
-=======
+# Diplodia atropae Siemaszko SPECIES
 
 #### Status
 ACCEPTED

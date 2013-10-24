@@ -1,14 +1,13 @@
-Trichocladium minimum de Hoog & Grinb., 1975 SPECIES
-=======
+# Leohumicola minima (de Hoog & Grinb.) Seifert & Hambl., 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 64(2): 341 (1975)
+in Hambleton, Nickerson & Seifert, Stud. Mycol. 53: 48 (2005)
 
 #### Original name
 Trichocladium minimum de Hoog & Grinb., 1975

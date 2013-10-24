@@ -1,5 +1,4 @@
-Sicuophrya mabokensis Albaret, 1970 SPECIES
-=======
+# Sicuophrya mabokensis Albaret, 1970 SPECIES
 
 #### Status
 ACCEPTED

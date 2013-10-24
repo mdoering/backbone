@@ -1,5 +1,4 @@
-Saccharomyces granulatus Vuill. & Legrain SPECIES
-=======
+# Saccharomyces granulatus Vuill. & Legrain SPECIES
 
 #### Status
 ACCEPTED

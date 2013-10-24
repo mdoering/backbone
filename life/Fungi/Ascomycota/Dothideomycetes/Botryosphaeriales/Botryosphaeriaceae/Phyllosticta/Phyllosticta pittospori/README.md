@@ -1,5 +1,4 @@
-Phyllosticta pittospori Brunaud SPECIES
-=======
+# Phyllosticta pittospori Brunaud SPECIES
 
 #### Status
 ACCEPTED

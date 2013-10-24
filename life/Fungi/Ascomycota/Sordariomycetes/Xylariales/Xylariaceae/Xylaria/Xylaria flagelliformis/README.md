@@ -1,5 +1,4 @@
-Xylaria flagelliformis Curr. SPECIES
-=======
+# Xylaria flagelliformis Curr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyochroa H.Górka, 1965 GENUS
-=======
+# Dictyochroa H.Górka, 1965 GENUS
 
 #### Status
 ACCEPTED

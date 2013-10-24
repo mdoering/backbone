@@ -1,5 +1,4 @@
-Thelephora truncata (Corda) Sacc. & Traverso SPECIES
-=======
+# Thelephora truncata (Corda) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

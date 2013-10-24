@@ -1,14 +1,13 @@
-Psilachnum cotoneastris (Velen.) Svrcek SPECIES
-=======
+# Psilachnum cotoneastri (Velen.) Svrcek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ceská Mykol. 45(4): 139 (1992)
 
 #### Original name
 Lachnum cotoneastri Velen.

@@ -1,5 +1,4 @@
-Natronococcus Tindall, Ross & Grant, 1984 GENUS
-=======
+# Natronococcus Tindall, Ross & Grant, 1984 GENUS
 
 #### Status
 ACCEPTED

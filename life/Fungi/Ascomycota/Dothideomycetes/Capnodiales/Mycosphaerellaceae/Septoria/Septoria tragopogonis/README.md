@@ -1,5 +1,4 @@
-Septoria tragopogonis Annal. SPECIES
-=======
+# Septoria tragopogonis Annal. SPECIES
 
 #### Status
 ACCEPTED

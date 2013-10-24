@@ -1,5 +1,4 @@
-Aecidium cylindricum Ellis & Everh. SPECIES
-=======
+# Aecidium cylindricum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachelostyla mereschkowski SPECIES
-=======
+# Trachelostyla mereschkowski SPECIES
 
 #### Status
 ACCEPTED

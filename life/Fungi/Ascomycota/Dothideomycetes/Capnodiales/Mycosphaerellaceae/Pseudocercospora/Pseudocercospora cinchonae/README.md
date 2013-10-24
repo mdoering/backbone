@@ -1,5 +1,4 @@
-Pseudocercospora cinchonae (Ellis & Everh.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora cinchonae (Ellis & Everh.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

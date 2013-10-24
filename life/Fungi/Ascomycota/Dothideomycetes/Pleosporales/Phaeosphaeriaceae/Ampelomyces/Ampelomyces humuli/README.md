@@ -1,5 +1,4 @@
-Ampelomyces humuli (Fautrey) Rudakov SPECIES
-=======
+# Ampelomyces humuli (Fautrey) Rudakov SPECIES
 
 #### Status
 ACCEPTED

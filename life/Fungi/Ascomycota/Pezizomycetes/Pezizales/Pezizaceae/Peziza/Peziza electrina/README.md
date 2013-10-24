@@ -1,5 +1,4 @@
-Peziza electrina W. Phillips & Plowr. SPECIES
-=======
+# Peziza electrina W. Phillips & Plowr. SPECIES
 
 #### Status
 ACCEPTED

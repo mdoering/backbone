@@ -1,5 +1,4 @@
-Curvularia cylindrica M. Zhang & T.Y. Zhang SPECIES
-=======
+# Curvularia cylindrica M. Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius xanthopus M.M. Moser SPECIES
-=======
+# Cortinarius xanthopus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

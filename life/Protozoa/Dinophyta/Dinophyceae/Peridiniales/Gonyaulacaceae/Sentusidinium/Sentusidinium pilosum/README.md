@@ -1,5 +1,4 @@
-Sentusidinium pilosum (Ehrenberg) W.A.S. Sarjeant & L.E. Stover SPECIES
-=======
+# Sentusidinium pilosum (Ehrenberg) W.A.S. Sarjeant & L.E. Stover SPECIES
 
 #### Status
 ACCEPTED

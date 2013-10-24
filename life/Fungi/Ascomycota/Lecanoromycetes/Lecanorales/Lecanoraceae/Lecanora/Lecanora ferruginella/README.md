@@ -1,5 +1,4 @@
-Lecanora ferruginella Nyl. SPECIES
-=======
+# Lecanora ferruginella Nyl. SPECIES
 
 #### Status
 ACCEPTED

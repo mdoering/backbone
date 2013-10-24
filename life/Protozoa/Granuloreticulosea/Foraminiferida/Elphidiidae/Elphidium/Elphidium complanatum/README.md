@@ -1,5 +1,4 @@
-Elphidium complanatum (d'Orbigny, 1839) SPECIES
-=======
+# Elphidium complanatum (d'Orbigny, 1839) SPECIES
 
 #### Status
 ACCEPTED

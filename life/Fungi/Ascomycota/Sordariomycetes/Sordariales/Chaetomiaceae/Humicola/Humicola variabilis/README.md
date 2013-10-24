@@ -1,5 +1,4 @@
-Humicola variabilis De Bert. SPECIES
-=======
+# Humicola variabilis De Bert. SPECIES
 
 #### Status
 ACCEPTED

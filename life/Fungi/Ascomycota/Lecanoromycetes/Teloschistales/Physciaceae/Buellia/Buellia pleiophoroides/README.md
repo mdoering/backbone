@@ -1,5 +1,4 @@
-Buellia pleiophoroides (Nyl.) Vain. SPECIES
-=======
+# Buellia pleiophoroides (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

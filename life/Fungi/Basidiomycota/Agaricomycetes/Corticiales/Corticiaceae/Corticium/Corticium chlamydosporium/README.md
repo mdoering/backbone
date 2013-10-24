@@ -1,5 +1,4 @@
-Corticium chlamydosporium Burt SPECIES
-=======
+# Corticium chlamydosporium Burt SPECIES
 
 #### Status
 ACCEPTED

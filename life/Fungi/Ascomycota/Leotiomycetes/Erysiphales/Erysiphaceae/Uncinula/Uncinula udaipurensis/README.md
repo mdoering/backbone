@@ -1,5 +1,4 @@
-Uncinula udaipurensis var. udaipurensis VARIETY
-=======
+# Uncinula udaipurensis M.K. Bhatn. & K.L. Kothari SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Curr. Sci. 35(16): 417 (1966)
 
 #### Original name
-Uncinula udaipurensis var. udaipurensis
+Uncinula udaipurensis M.K. Bhatn. & K.L. Kothari
 
 ### Remarks
 null

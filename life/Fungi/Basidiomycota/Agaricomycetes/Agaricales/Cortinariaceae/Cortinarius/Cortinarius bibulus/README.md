@@ -1,17 +1,16 @@
-Cortinarius lilacinopusillus P.D. Orton, 1980 SPECIES
-=======
+# Cortinarius bibulus Quél., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Notes R. bot. Gdn Edinb. 38(2): 318 (1980)
+Compt. Rend. Assoc. Franç. Avancem. Sci. 9: 666 (1881)
 
 #### Original name
-Cortinarius lilacinopusillus P.D. Orton, 1980
+Cortinarius bibulus Quél., 1881
 
 ### Remarks
 null

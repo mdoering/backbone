@@ -1,5 +1,4 @@
-Glomus versiforme (P. Karst.) S.M. Berch SPECIES
-=======
+# Glomus versiforme (P. Karst.) S.M. Berch SPECIES
 
 #### Status
 ACCEPTED

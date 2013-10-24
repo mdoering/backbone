@@ -1,5 +1,4 @@
-Diatrype favacea Fr. SPECIES
-=======
+# Diatrype favacea Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrosporium aceris-obtusati Bubák SPECIES
-=======
+# Cylindrosporium aceris-obtusati Bubák SPECIES
 
 #### Status
 ACCEPTED

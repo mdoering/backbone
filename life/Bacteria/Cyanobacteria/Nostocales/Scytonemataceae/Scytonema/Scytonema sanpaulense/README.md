@@ -1,5 +1,4 @@
-Scytonema sanpaulense C. L. Sant'Anna SPECIES
-=======
+# Scytonema sanpaulense C. L. Sant'Anna SPECIES
 
 #### Status
 ACCEPTED

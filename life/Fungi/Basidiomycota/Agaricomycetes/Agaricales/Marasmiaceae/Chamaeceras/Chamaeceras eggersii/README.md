@@ -1,14 +1,13 @@
-Chamaeceras eggersi (Pat.) Kuntze SPECIES
-=======
+# Chamaeceras eggersii (Pat.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 456 (1898)
 
 #### Original name
 Crinipellis eggersii Pat.

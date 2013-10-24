@@ -1,5 +1,4 @@
-Pyrenophora abscondita P. Karst. SPECIES
-=======
+# Pyrenophora abscondita P. Karst. SPECIES
 
 #### Status
 ACCEPTED

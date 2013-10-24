@@ -1,5 +1,4 @@
-Ustilago gunnerae G.P. Clinton SPECIES
-=======
+# Ustilago gunnerae G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

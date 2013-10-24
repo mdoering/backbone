@@ -1,5 +1,4 @@
-Boletus luteoporus Bouchinot SPECIES
-=======
+# Boletus luteoporus Bouchinot SPECIES
 
 #### Status
 ACCEPTED

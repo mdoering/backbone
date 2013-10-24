@@ -1,5 +1,4 @@
-Vorticella aquadulcis-komplex SPECIES
-=======
+# Vorticella aquadulcis-komplex SPECIES
 
 #### Status
 ACCEPTED

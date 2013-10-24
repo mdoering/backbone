@@ -1,5 +1,4 @@
-Agaricus fuscipes Schumach. SPECIES
-=======
+# Agaricus fuscipes Schumach. SPECIES
 
 #### Status
 ACCEPTED

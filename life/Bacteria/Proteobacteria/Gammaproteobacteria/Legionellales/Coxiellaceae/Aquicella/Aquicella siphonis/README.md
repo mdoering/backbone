@@ -1,5 +1,4 @@
-Aquicella siphonis Santos et al., 2004 SPECIES
-=======
+# Aquicella siphonis Santos et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

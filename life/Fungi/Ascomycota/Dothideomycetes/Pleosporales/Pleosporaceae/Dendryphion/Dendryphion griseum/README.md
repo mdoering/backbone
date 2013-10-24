@@ -1,14 +1,13 @@
-Cladosporium griseum (Berk. & Broome) S. Hughes, 1953 SPECIES
-=======
+# Dendryphion griseum Berk. & Broome, 1851 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 31: 587 (1953)
+Ann. Mag. nat. Hist. , Ser. 2 7: no. 540 (1851)
 
 #### Original name
 Dendryphion griseum Berk. & Broome, 1851

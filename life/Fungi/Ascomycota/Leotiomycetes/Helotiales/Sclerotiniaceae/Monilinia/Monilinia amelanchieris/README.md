@@ -1,5 +1,4 @@
-Monilinia amelanchieris (J.M. Reade) Honey SPECIES
-=======
+# Monilinia amelanchieris (J.M. Reade) Honey SPECIES
 
 #### Status
 ACCEPTED

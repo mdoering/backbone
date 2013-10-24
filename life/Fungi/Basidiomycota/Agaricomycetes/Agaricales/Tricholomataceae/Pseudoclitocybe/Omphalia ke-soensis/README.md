@@ -1,5 +1,4 @@
-Omphalia ke-soensis Pat. SPECIES
-=======
+# Omphalia ke-soensis Pat. SPECIES
 
 #### Status
 ACCEPTED

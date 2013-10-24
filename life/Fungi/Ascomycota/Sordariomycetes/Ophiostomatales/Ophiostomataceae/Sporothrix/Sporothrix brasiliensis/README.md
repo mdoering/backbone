@@ -1,5 +1,4 @@
-Sporothrix brasiliensis Marimon, Gené, Cano & Guarro, 2007 SPECIES
-=======
+# Sporothrix brasiliensis Marimon, Gené, Cano & Guarro, 2007 SPECIES
 
 #### Status
 ACCEPTED

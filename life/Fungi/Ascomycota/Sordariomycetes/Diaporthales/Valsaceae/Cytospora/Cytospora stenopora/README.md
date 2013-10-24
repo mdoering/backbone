@@ -1,5 +1,4 @@
-Cytospora stenopora Sacc. SPECIES
-=======
+# Cytospora stenopora Sacc. SPECIES
 
 #### Status
 ACCEPTED

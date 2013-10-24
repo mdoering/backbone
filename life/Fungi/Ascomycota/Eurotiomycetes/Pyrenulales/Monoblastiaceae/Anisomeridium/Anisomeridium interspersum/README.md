@@ -1,5 +1,4 @@
-Anisomeridium interspersum (Nyl.) Makhija, Adaw. & Patw. SPECIES
-=======
+# Anisomeridium interspersum (Nyl.) Makhija, Adaw. & Patw. SPECIES
 
 #### Status
 ACCEPTED

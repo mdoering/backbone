@@ -1,14 +1,13 @@
-Seimatosporium robillardoides (Tassi) Arx, 1981 SPECIES
-=======
+# Bartalinia robillardoides Tassi, 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. Fungi Sporul. Cult. (Vaduz), Edn 3 224 (1981)
+Bulletin Labor. Orto Bot. de R. Univ. Siena, N. S. 3: 4 (1900)
 
 #### Original name
 Bartalinia robillardoides Tassi, 1900

@@ -1,5 +1,4 @@
-Phomopsis schoenocauli Syd. SPECIES
-=======
+# Phomopsis schoenocauli Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo cyathulae Mayor SPECIES
-=======
+# Uredo cyathulae Mayor SPECIES
 
 #### Status
 ACCEPTED

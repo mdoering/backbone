@@ -1,5 +1,4 @@
-Cryptococcus xanthogenicus Freire SPECIES
-=======
+# Cryptococcus xanthogenicus Freire SPECIES
 
 #### Status
 ACCEPTED

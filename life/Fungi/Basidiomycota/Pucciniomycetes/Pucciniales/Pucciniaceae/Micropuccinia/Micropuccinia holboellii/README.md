@@ -1,5 +1,4 @@
-Micropuccinia holboellii (Hornem.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia holboellii (Hornem.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

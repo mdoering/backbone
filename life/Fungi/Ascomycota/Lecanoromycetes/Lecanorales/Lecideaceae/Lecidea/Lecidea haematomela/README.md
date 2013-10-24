@@ -1,5 +1,4 @@
-Lecidea haematomela SPECIES
-=======
+# Lecidea haematomela SPECIES
 
 #### Status
 ACCEPTED

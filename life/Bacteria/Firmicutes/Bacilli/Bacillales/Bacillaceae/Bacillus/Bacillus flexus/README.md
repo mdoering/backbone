@@ -1,5 +1,4 @@
-Bacillus flexus (ex Batchelor, 1919) Priest et al., 1989 SPECIES
-=======
+# Bacillus flexus (ex Batchelor, 1919) Priest et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

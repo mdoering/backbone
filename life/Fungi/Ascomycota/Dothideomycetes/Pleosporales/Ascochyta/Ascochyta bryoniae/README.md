@@ -1,5 +1,4 @@
-Ascochyta bryoniae Kabát & Bubák, 1904 SPECIES
-=======
+# Ascochyta bryoniae Kabát & Bubák, 1904 SPECIES
 
 #### Status
 ACCEPTED

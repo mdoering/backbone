@@ -1,5 +1,4 @@
-Rhizopogoniella remyi (Zeller & C.W. Dodge) Soehner SPECIES
-=======
+# Rhizopogoniella remyi (Zeller & C.W. Dodge) Soehner SPECIES
 
 #### Status
 ACCEPTED

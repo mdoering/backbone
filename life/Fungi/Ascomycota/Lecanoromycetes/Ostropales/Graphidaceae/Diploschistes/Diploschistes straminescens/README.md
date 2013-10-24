@@ -1,5 +1,4 @@
-Diploschistes straminescens Zahlbr. SPECIES
-=======
+# Diploschistes straminescens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

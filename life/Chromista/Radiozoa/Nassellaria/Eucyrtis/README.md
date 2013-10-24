@@ -1,5 +1,4 @@
-Eucyrtis Haeckel, 1881 GENUS
-=======
+# Eucyrtis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

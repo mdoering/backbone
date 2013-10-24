@@ -1,5 +1,4 @@
-Beloniella marcyensis Kanouse SPECIES
-=======
+# Beloniella marcyensis Kanouse SPECIES
 
 #### Status
 ACCEPTED

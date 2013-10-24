@@ -1,5 +1,4 @@
-Hormiactis Preuss, 1851 GENUS
-=======
+# Hormiactis Preuss, 1851 GENUS
 
 #### Status
 ACCEPTED

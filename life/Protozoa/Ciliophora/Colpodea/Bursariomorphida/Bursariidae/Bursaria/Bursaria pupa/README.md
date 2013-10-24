@@ -1,5 +1,4 @@
-Bursaria pupa Ehrenberg, 1831 SPECIES
-=======
+# Bursaria pupa Ehrenberg, 1831 SPECIES
 
 #### Status
 ACCEPTED

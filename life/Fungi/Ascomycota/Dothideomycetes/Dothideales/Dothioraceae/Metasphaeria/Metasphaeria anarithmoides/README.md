@@ -1,5 +1,4 @@
-Metasphaeria anarithmoides (Sacc. & Speg.) Sacc. SPECIES
-=======
+# Metasphaeria anarithmoides (Sacc. & Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

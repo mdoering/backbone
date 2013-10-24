@@ -1,5 +1,4 @@
-Lunospora avenae Frandsen SPECIES
-=======
+# Lunospora avenae Frandsen SPECIES
 
 #### Status
 ACCEPTED

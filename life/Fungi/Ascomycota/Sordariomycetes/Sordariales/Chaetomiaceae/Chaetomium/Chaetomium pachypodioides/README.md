@@ -1,5 +1,4 @@
-Chaetomium pachypodioides L.M. Ames, 1945 SPECIES
-=======
+# Chaetomium pachypodioides L.M. Ames, 1945 SPECIES
 
 #### Status
 ACCEPTED

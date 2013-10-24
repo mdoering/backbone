@@ -1,5 +1,4 @@
-Entoloma alabamense (Murrill) Hesler SPECIES
-=======
+# Entoloma alabamense (Murrill) Hesler SPECIES
 
 #### Status
 ACCEPTED

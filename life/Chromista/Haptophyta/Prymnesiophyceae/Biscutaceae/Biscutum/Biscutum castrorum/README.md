@@ -1,5 +1,4 @@
-Biscutum castrorum Black in Black & Barnes, 1959 SPECIES
-=======
+# Biscutum castrorum Black in Black & Barnes, 1959 SPECIES
 
 #### Status
 ACCEPTED

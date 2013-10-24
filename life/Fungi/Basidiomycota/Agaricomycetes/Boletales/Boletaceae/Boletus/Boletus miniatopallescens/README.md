@@ -1,8 +1,7 @@
-Boletus miniato-pallescens A.H. Sm. & Thiers SPECIES
-=======
+# Boletus miniatopallescens A.H. Sm. & Thiers SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Boletus miniato-pallescens A.H. Sm. & Thiers
+Boletus miniatopallescens A.H. Sm. & Thiers
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Monotosporella setosa var. setosa VARIETY
-=======
+# Monotosporella setosa (Berk. & M.A. Curtis) S. Hughes, 1958 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Can. J. Bot. 36: 787 (1958)
 
 #### Original name
-Monotosporella setosa var. setosa
+Monotospora setosa Berk. & M.A. Curtis, 1875
 
 ### Remarks
 null

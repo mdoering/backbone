@@ -1,5 +1,4 @@
-Melampsora lini-cathartici Kuprev. SPECIES
-=======
+# Melampsora lini-cathartici Kuprev. SPECIES
 
 #### Status
 ACCEPTED

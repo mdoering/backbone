@@ -1,5 +1,4 @@
-Puccinia rubiivora Magnus SPECIES
-=======
+# Puccinia rubiivora Magnus SPECIES
 
 #### Status
 ACCEPTED

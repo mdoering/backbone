@@ -1,17 +1,16 @@
-Rhizocarpon phaeolepis Vain. SPECIES
-=======
+# Rhizocarpon subgeminatum Eitner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Jber. schles. Ges. vaterl. Kultur 88: 42 (1911)
 
 #### Original name
-null
+Rhizocarpon subgeminatum Eitner
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Deferribacter thermophilus Greene et al., 1997 SPECIES
-=======
+# Deferribacter thermophilus Greene et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

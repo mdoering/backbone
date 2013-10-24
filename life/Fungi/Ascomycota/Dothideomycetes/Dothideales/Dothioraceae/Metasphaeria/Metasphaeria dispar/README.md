@@ -1,5 +1,4 @@
-Metasphaeria dispar Penz. & Sacc. SPECIES
-=======
+# Metasphaeria dispar Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

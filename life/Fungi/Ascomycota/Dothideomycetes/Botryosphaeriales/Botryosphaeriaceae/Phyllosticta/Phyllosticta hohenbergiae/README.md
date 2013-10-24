@@ -1,5 +1,4 @@
-Phyllosticta hohenbergiae (Tassi) Allesch. SPECIES
-=======
+# Phyllosticta hohenbergiae (Tassi) Allesch. SPECIES
 
 #### Status
 ACCEPTED

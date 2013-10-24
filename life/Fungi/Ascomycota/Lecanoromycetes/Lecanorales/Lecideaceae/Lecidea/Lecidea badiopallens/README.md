@@ -1,5 +1,4 @@
-Lecidea badiopallens Nyl. SPECIES
-=======
+# Lecidea badiopallens Nyl. SPECIES
 
 #### Status
 ACCEPTED

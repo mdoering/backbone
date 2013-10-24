@@ -1,5 +1,4 @@
-Dictyophallus GENUS
-=======
+# Dictyophallus GENUS
 
 #### Status
 ACCEPTED

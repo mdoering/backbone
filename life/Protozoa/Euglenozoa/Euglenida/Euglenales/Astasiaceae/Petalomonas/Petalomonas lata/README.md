@@ -1,5 +1,4 @@
-Petalomonas lata Christen SPECIES
-=======
+# Petalomonas lata Christen SPECIES
 
 #### Status
 ACCEPTED

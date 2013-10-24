@@ -1,5 +1,4 @@
-Limacinula ficicola (Henn.) Höhn. SPECIES
-=======
+# Limacinula ficicola (Henn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

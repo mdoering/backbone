@@ -1,5 +1,4 @@
-Cribropeltis Tehon GENUS
-=======
+# Cribropeltis Tehon GENUS
 
 #### Status
 ACCEPTED

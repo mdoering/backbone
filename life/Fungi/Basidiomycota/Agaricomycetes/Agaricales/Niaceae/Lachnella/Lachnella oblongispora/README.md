@@ -1,5 +1,4 @@
-Lachnella oblongispora (G.G. Hahn & Ayers) Seaver SPECIES
-=======
+# Lachnella oblongispora (G.G. Hahn & Ayers) Seaver SPECIES
 
 #### Status
 ACCEPTED

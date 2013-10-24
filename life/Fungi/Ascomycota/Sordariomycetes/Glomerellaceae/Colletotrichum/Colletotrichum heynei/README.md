@@ -1,5 +1,4 @@
-Colletotrichum heynei P.C. Gupta SPECIES
-=======
+# Colletotrichum heynei P.C. Gupta SPECIES
 
 #### Status
 ACCEPTED

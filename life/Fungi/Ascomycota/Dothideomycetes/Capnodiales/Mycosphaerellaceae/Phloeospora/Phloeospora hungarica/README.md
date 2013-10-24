@@ -1,5 +1,4 @@
-Phloeospora hungarica Bubák SPECIES
-=======
+# Phloeospora hungarica Bubák SPECIES
 
 #### Status
 ACCEPTED

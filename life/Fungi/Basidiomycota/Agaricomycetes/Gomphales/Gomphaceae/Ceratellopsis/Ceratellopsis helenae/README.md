@@ -1,5 +1,4 @@
-Ceratellopsis helenae (Pat.) Corner SPECIES
-=======
+# Ceratellopsis helenae (Pat.) Corner SPECIES
 
 #### Status
 ACCEPTED

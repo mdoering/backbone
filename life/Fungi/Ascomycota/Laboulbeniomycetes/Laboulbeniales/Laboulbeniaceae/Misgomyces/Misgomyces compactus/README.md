@@ -1,5 +1,4 @@
-Misgomyces compactus Thaxt. SPECIES
-=======
+# Misgomyces compactus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

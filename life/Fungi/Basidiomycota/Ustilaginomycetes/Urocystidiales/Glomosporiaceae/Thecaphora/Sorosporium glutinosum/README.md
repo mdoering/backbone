@@ -1,5 +1,4 @@
-Sorosporium glutinosum Zundel SPECIES
-=======
+# Sorosporium glutinosum Zundel SPECIES
 
 #### Status
 ACCEPTED

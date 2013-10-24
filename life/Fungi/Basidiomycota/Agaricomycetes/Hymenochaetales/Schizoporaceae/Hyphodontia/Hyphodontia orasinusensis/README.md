@@ -1,17 +1,16 @@
-Kneiffiella crassa (Rick) Hjortstam & Ryvarden, 2002 SPECIES
-=======
+# Hyphodontia orasinusensis Gilb. & M. Blackw., 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. Fung. (Oslo) 15: 14 (2002)
+Mycotaxon 33: 382 (1988)
 
 #### Original name
-Odontia crassa Rick, 1932
+Hyphodontia orasinusensis Gilb. & M. Blackw., 1988
 
 ### Remarks
 null

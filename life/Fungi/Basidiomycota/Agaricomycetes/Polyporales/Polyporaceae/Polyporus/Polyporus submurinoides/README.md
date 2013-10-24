@@ -1,5 +1,4 @@
-Polyporus submurinoides Rick SPECIES
-=======
+# Polyporus submurinoides Rick SPECIES
 
 #### Status
 ACCEPTED

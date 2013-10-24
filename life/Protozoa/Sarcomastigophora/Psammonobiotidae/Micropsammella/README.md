@@ -1,5 +1,4 @@
-Micropsammella Golemansky, 1970 GENUS
-=======
+# Micropsammella Golemansky, 1970 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kockovaella imperatae Nakase, I. Banno & Y. Yamada, 1991 SPECIES
-=======
+# Kockovaella imperatae Nakase, I. Banno & Y. Yamada, 1991 SPECIES
 
 #### Status
 ACCEPTED

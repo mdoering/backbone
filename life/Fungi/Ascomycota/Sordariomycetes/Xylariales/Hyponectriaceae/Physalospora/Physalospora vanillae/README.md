@@ -1,5 +1,4 @@
-Physalospora vanillae Zimm. SPECIES
-=======
+# Physalospora vanillae Zimm. SPECIES
 
 #### Status
 ACCEPTED

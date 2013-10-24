@@ -1,5 +1,4 @@
-Leucoagaricus platensis (Speg.) Raithelh. SPECIES
-=======
+# Leucoagaricus platensis (Speg.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

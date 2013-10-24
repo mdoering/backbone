@@ -1,5 +1,4 @@
-Salpingoeca amphoridium James-Clark, 1867 SPECIES
-=======
+# Salpingoeca amphoridium James-Clark, 1867 SPECIES
 
 #### Status
 ACCEPTED

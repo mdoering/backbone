@@ -1,5 +1,4 @@
-Agaricus annulospecialis Bohus, Vasas & Locsmándi SPECIES
-=======
+# Agaricus annulospecialis Bohus, Vasas & Locsmándi SPECIES
 
 #### Status
 ACCEPTED

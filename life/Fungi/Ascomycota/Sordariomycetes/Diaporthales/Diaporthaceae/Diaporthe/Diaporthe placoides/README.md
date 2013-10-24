@@ -1,5 +1,4 @@
-Diaporthe placoides Ellis & Everh. SPECIES
-=======
+# Diaporthe placoides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

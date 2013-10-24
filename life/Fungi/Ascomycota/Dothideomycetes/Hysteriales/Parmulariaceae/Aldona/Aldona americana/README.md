@@ -1,5 +1,4 @@
-Aldona americana Petr. & Cif., 1932 SPECIES
-=======
+# Aldona americana Petr. & Cif., 1932 SPECIES
 
 #### Status
 ACCEPTED

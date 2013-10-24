@@ -1,5 +1,4 @@
-Thyrea plicatissima (Nyl.) Zahlbr. SPECIES
-=======
+# Thyrea plicatissima (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

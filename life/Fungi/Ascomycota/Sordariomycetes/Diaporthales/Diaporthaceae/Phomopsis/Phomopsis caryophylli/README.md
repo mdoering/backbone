@@ -1,5 +1,4 @@
-Phomopsis caryophylli Grove, 1917 SPECIES
-=======
+# Phomopsis caryophylli Grove, 1917 SPECIES
 
 #### Status
 ACCEPTED

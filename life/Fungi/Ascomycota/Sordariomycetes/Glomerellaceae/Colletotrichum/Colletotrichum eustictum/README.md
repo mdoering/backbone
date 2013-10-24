@@ -1,5 +1,4 @@
-Colletotrichum eustictum (Sacc.) Petr. & Syd. SPECIES
-=======
+# Colletotrichum eustictum (Sacc.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium aviculariae Kunze SPECIES
-=======
+# Aecidium aviculariae Kunze SPECIES
 
 #### Status
 ACCEPTED

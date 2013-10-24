@@ -1,5 +1,4 @@
-Sphaerographium hystricinum (Ellis) Sacc. SPECIES
-=======
+# Sphaerographium hystricinum (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

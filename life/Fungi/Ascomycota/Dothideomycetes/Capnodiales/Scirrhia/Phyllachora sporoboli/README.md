@@ -1,8 +1,7 @@
-Phyllachora morganae Doidge, 1942 SPECIES
-=======
+# Phyllachora sporoboli Pat., 1903 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Geotrichella macrospora Subrahm. SPECIES
-=======
+# Geotrichella macrospora Subrahm. SPECIES
 
 #### Status
 ACCEPTED

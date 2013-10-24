@@ -1,5 +1,4 @@
-Usnea transvalensis Vain. SPECIES
-=======
+# Usnea transvalensis Vain. SPECIES
 
 #### Status
 ACCEPTED

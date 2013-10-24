@@ -1,5 +1,4 @@
-Rhizopycnis D.F. Farr GENUS
-=======
+# Rhizopycnis D.F. Farr GENUS
 
 #### Status
 ACCEPTED

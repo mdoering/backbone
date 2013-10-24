@@ -1,5 +1,4 @@
-Davisiella elymina (Davis) Petr., 1924 SPECIES
-=======
+# Davisiella elymina (Davis) Petr., 1924 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyphella albissima Pat. & Doass. SPECIES
-=======
+# Cyphella albissima Pat. & Doass. SPECIES
 
 #### Status
 ACCEPTED

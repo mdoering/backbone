@@ -1,5 +1,4 @@
-Ceratostomella majuscula Schulzer & Sacc. SPECIES
-=======
+# Ceratostomella majuscula Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

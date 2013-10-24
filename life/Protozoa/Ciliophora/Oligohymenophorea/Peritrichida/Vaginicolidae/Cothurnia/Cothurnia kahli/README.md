@@ -1,5 +1,4 @@
-Cothurnia kahli SPECIES
-=======
+# Cothurnia kahli SPECIES
 
 #### Status
 ACCEPTED

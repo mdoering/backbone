@@ -1,5 +1,4 @@
-Aphanocladium meliolae (Hansf.) W. Gams SPECIES
-=======
+# Aphanocladium meliolae (Hansf.) W. Gams SPECIES
 
 #### Status
 ACCEPTED

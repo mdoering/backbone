@@ -1,5 +1,4 @@
-Graphis virginella Nyl. SPECIES
-=======
+# Graphis virginella Nyl. SPECIES
 
 #### Status
 ACCEPTED

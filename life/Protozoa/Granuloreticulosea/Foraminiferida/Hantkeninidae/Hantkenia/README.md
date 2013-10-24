@@ -1,5 +1,4 @@
-Hantkenia Cushman, 1924 GENUS
-=======
+# Hantkenia Cushman, 1924 GENUS
 
 #### Status
 ACCEPTED

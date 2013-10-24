@@ -1,5 +1,4 @@
-Menispora novogradensis Shabunin SPECIES
-=======
+# Menispora novogradensis Shabunin SPECIES
 
 #### Status
 ACCEPTED

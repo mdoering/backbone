@@ -1,5 +1,4 @@
-Boletus neoregius Halling & G.M. Muell. SPECIES
-=======
+# Boletus neoregius Halling & G.M. Muell. SPECIES
 
 #### Status
 ACCEPTED

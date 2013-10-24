@@ -1,5 +1,4 @@
-Asteridiella abnormis (Theiss.) Hansf. SPECIES
-=======
+# Asteridiella abnormis (Theiss.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

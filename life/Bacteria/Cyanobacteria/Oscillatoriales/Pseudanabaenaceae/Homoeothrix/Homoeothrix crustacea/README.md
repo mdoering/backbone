@@ -1,5 +1,4 @@
-Homoeothrix crustacea Woronichin SPECIES
-=======
+# Homoeothrix crustacea Woronichin SPECIES
 
 #### Status
 ACCEPTED

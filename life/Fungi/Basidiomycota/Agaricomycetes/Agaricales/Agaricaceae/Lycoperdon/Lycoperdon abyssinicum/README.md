@@ -1,5 +1,4 @@
-Lycoperdon abyssinicum (Mont.) Dring SPECIES
-=======
+# Lycoperdon abyssinicum (Mont.) Dring SPECIES
 
 #### Status
 ACCEPTED

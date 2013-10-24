@@ -1,5 +1,4 @@
-Leptothyrium cocoës-romanzoffianae Caball. SPECIES
-=======
+# Leptothyrium cocoës-romanzoffianae Caball. SPECIES
 
 #### Status
 ACCEPTED

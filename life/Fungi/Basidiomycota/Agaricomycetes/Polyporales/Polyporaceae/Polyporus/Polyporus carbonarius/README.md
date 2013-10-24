@@ -1,5 +1,4 @@
-Polyporus carbonarius Fr. SPECIES
-=======
+# Polyporus carbonarius Fr. SPECIES
 
 #### Status
 ACCEPTED

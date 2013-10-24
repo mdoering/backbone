@@ -1,5 +1,4 @@
-Helminthosporium kyllingae Hansf. SPECIES
-=======
+# Helminthosporium kyllingae Hansf. SPECIES
 
 #### Status
 ACCEPTED

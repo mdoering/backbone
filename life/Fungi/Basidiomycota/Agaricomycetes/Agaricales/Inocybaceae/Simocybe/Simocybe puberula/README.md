@@ -1,5 +1,4 @@
-Simocybe puberula (Peck) Singer SPECIES
-=======
+# Simocybe puberula (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

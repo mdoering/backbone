@@ -1,5 +1,4 @@
-Naucoria subcucumis Henn. SPECIES
-=======
+# Naucoria subcucumis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Pseudomonas ruhlandii (Packer & Vishniac, 1955) Davis in Davis et al., 1969 SPECIES
-=======
+# Achromobacter ruhlandii (Packer & Vishniac, 1955) Yabuuchi et al., 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

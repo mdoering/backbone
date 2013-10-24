@@ -1,5 +1,4 @@
-Phyllosticta trigoniae Henn. SPECIES
-=======
+# Phyllosticta trigoniae Henn. SPECIES
 
 #### Status
 ACCEPTED

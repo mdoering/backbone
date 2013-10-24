@@ -1,5 +1,4 @@
-Alterammina alternans (Earland, 1934) SPECIES
-=======
+# Alterammina alternans (Earland, 1934) SPECIES
 
 #### Status
 ACCEPTED

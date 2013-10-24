@@ -1,5 +1,4 @@
-Pluteus goossensiae Beeli SPECIES
-=======
+# Pluteus goossensiae Beeli SPECIES
 
 #### Status
 ACCEPTED

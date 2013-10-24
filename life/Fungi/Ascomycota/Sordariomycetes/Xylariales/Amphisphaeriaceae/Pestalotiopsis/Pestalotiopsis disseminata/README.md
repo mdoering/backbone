@@ -1,14 +1,13 @@
-Pestalotia disseminata Thüm., 1879 SPECIES
-=======
+# Pestalotiopsis disseminata (Thüm.) Steyaert, 1949 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Contrib. Flor. Mycol. Lusitan. no. 578 (1880)
+Bull. Jard. bot. État Brux. 19: 319 (1949)
 
 #### Original name
 Pestalotia disseminata Thüm., 1879

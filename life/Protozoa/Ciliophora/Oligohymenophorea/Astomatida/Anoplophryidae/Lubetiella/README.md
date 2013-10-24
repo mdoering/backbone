@@ -1,5 +1,4 @@
-Lubetiella Puytorac, 1959 GENUS
-=======
+# Lubetiella Puytorac, 1959 GENUS
 
 #### Status
 ACCEPTED

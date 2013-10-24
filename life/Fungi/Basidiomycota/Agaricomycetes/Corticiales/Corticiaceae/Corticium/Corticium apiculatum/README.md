@@ -1,5 +1,4 @@
-Corticium apiculatum Bres. SPECIES
-=======
+# Corticium apiculatum Bres. SPECIES
 
 #### Status
 ACCEPTED

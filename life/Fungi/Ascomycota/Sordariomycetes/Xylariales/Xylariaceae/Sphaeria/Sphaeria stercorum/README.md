@@ -1,5 +1,4 @@
-Sphaeria stercorum Schwein. SPECIES
-=======
+# Sphaeria stercorum Schwein. SPECIES
 
 #### Status
 ACCEPTED

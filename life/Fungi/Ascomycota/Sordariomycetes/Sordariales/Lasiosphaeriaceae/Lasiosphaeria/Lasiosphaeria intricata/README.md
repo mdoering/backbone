@@ -1,5 +1,4 @@
-Lasiosphaeria intricata (Peck) Sacc. SPECIES
-=======
+# Lasiosphaeria intricata (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

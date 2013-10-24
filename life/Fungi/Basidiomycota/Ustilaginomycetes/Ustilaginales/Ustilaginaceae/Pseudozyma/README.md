@@ -1,5 +1,4 @@
-Pseudozyma Bandoni, 1985 GENUS
-=======
+# Pseudozyma Bandoni, 1985 GENUS
 
 #### Status
 ACCEPTED

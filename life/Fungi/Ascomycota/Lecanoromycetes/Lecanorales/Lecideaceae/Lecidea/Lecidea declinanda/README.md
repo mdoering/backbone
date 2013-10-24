@@ -1,5 +1,4 @@
-Lecidea declinanda Nyl. SPECIES
-=======
+# Lecidea declinanda Nyl. SPECIES
 
 #### Status
 ACCEPTED

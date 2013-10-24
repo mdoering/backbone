@@ -1,5 +1,4 @@
-Hygrophorus subpratensis Murrill SPECIES
-=======
+# Hygrophorus subpratensis Murrill SPECIES
 
 #### Status
 ACCEPTED

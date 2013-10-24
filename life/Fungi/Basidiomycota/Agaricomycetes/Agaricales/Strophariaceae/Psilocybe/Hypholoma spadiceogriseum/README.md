@@ -1,5 +1,4 @@
-Hypholoma spadiceogriseum Schaeff. SPECIES
-=======
+# Hypholoma spadiceogriseum Schaeff. SPECIES
 
 #### Status
 ACCEPTED

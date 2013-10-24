@@ -1,5 +1,4 @@
-Placus dogiel Burkovsky, 1970 SPECIES
-=======
+# Placus dogiel Burkovsky, 1970 SPECIES
 
 #### Status
 ACCEPTED

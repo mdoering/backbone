@@ -1,5 +1,4 @@
-Epithele citrispora Boidin, Lanq. & Gilles, 1983 SPECIES
-=======
+# Epithele citrispora Boidin, Lanq. & Gilles, 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microporus gregorii (A.L. Sm.) Kuntze SPECIES
-=======
+# Microporus gregorii (A.L. Sm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

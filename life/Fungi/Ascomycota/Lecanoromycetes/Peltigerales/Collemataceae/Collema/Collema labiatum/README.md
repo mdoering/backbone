@@ -1,5 +1,4 @@
-Collema labiatum Mart. SPECIES
-=======
+# Collema labiatum Mart. SPECIES
 
 #### Status
 ACCEPTED

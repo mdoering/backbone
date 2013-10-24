@@ -1,5 +1,4 @@
-Discophrya cyathos Swarczewsky, 1928 SPECIES
-=======
+# Discophrya cyathos Swarczewsky, 1928 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnotrya confusa Spooner, 1992 SPECIES
-=======
+# Hydnotrya confusa Spooner, 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triposolenia ramiciformis Kofoid, 1906 SPECIES
-=======
+# Triposolenia ramiciformis Kofoid, 1906 SPECIES
 
 #### Status
 ACCEPTED

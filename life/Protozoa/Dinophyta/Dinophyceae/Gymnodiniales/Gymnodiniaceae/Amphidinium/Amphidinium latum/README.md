@@ -1,5 +1,4 @@
-Amphidinium latum Lebour SPECIES
-=======
+# Amphidinium latum Lebour SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cenangium laminare Fr. SPECIES
-=======
+# Cenangium laminare Fr. SPECIES
 
 #### Status
 ACCEPTED

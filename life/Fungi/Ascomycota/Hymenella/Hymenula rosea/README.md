@@ -1,5 +1,4 @@
-Hymenula rosea Lambotte & Fautrey SPECIES
-=======
+# Hymenula rosea Lambotte & Fautrey SPECIES
 
 #### Status
 ACCEPTED

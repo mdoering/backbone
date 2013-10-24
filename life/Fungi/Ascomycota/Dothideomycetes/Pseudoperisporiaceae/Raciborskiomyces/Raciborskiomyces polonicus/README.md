@@ -1,5 +1,4 @@
-Raciborskiomyces polonicus Siemaszko SPECIES
-=======
+# Raciborskiomyces polonicus Siemaszko SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllohendersonia acericola (Sacc.) Tassi SPECIES
-=======
+# Phyllohendersonia acericola (Sacc.) Tassi SPECIES
 
 #### Status
 ACCEPTED

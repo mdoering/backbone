@@ -1,5 +1,4 @@
-Myxosporium mespili P. Karst. & Har. SPECIES
-=======
+# Myxosporium mespili P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypotrachyna lichesterinica Louwhoff & Elix SPECIES
-=======
+# Hypotrachyna lichesterinica Louwhoff & Elix SPECIES
 
 #### Status
 ACCEPTED

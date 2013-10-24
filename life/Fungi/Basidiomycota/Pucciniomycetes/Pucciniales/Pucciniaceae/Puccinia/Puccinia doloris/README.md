@@ -1,5 +1,4 @@
-Puccinia doloris Speg. SPECIES
-=======
+# Puccinia doloris Speg. SPECIES
 
 #### Status
 ACCEPTED

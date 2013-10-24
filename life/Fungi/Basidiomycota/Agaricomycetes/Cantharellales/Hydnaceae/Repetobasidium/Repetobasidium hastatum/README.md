@@ -1,5 +1,4 @@
-Repetobasidium hastatum Hjortstam & Ryvarden, 1980 SPECIES
-=======
+# Repetobasidium hastatum Hjortstam & Ryvarden, 1980 SPECIES
 
 #### Status
 ACCEPTED

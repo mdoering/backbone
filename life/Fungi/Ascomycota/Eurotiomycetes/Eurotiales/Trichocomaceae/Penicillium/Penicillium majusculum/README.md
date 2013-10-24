@@ -1,5 +1,4 @@
-Penicillium majusculum Westling, 1911 SPECIES
-=======
+# Penicillium majusculum Westling, 1911 SPECIES
 
 #### Status
 ACCEPTED

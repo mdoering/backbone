@@ -1,5 +1,4 @@
-Phyllachora pachinensis Sawada, 1943 SPECIES
-=======
+# Phyllachora pachinensis Sawada, 1943 SPECIES
 
 #### Status
 ACCEPTED

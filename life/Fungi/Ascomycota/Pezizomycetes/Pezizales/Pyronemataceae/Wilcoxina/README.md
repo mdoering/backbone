@@ -1,5 +1,4 @@
-Wilcoxina Chin S. Yang & Korf, 1985 GENUS
-=======
+# Wilcoxina Chin S. Yang & Korf, 1985 GENUS
 
 #### Status
 ACCEPTED

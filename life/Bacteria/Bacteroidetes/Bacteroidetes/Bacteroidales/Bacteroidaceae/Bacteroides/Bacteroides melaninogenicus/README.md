@@ -1,5 +1,4 @@
-Bacteroides melaninogenicus (Oliver & Wherry, 1921) Roy & Kelly, 1939 SPECIES
-=======
+# Bacteroides melaninogenicus (Oliver & Wherry, 1921) Roy & Kelly, 1939 SPECIES
 
 #### Status
 ACCEPTED

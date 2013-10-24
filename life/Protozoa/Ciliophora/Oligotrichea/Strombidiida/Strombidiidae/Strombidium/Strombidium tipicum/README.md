@@ -1,5 +1,4 @@
-Strombidium tipicum SPECIES
-=======
+# Strombidium tipicum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stictis oculiformis Sacc. SPECIES
-=======
+# Stictis oculiformis Sacc. SPECIES
 
 #### Status
 ACCEPTED

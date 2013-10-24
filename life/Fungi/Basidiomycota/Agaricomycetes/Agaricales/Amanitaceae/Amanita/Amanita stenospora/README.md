@@ -1,5 +1,4 @@
-Amanita stenospora Contu SPECIES
-=======
+# Amanita stenospora Contu SPECIES
 
 #### Status
 ACCEPTED

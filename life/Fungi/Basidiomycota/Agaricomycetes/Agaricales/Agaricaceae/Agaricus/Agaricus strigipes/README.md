@@ -1,5 +1,4 @@
-Agaricus strigipes Cooke & Massee SPECIES
-=======
+# Agaricus strigipes Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

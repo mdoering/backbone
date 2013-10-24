@@ -1,5 +1,4 @@
-Dictyoneurum Ruprecht, 1852 GENUS
-=======
+# Dictyoneurum Ruprecht, 1852 GENUS
 
 #### Status
 ACCEPTED

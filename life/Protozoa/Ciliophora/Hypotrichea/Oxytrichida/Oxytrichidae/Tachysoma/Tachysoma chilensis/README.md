@@ -1,8 +1,7 @@
-Oxytricha chilensis Bürger, 1905 SPECIES
-=======
+# Tachysoma chilensis (Bürger, 1905) Berger, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Lactarius cyathuliformis Bon, 1978 SPECIES
-=======
+# Lactarius cyathuliformis Bon, 1978 SPECIES
 
 #### Status
 ACCEPTED

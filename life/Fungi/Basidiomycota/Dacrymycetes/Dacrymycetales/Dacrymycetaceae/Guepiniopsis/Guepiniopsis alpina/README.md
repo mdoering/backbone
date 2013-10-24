@@ -1,14 +1,13 @@
-Heterotextus alpinus (Tracy & Earle) G.W. Martin, 1932 SPECIES
-=======
+# Guepiniopsis alpina (Tracy & Earle) Brasf., 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 24: 217 (1932)
+Am. Midl. Nat. 20: 225 (1938)
 
 #### Original name
 null

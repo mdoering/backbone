@@ -1,5 +1,4 @@
-Semidelitschia Cain & Luck-Allen GENUS
-=======
+# Semidelitschia Cain & Luck-Allen GENUS
 
 #### Status
 ACCEPTED

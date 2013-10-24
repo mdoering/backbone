@@ -1,5 +1,4 @@
-Inocybe nematoloma Joss. SPECIES
-=======
+# Inocybe nematoloma Joss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psammosphaera fusca SPECIES
-=======
+# Psammosphaera fusca SPECIES
 
 #### Status
 ACCEPTED

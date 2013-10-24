@@ -1,5 +1,4 @@
-Exoascus alpinus (Johanson) Sacc. SPECIES
-=======
+# Exoascus alpinus (Johanson) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Histriculus erethisticus (Stokes, 1887) ? SPECIES
-=======
+# Histriculus erethisticus (Stokes, 1887) ? SPECIES
 
 #### Status
 ACCEPTED

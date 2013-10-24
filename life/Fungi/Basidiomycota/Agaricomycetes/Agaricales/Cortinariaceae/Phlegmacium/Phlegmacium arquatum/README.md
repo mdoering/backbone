@@ -1,5 +1,4 @@
-Phlegmacium arquatum anon. SPECIES
-=======
+# Phlegmacium arquatum anon. SPECIES
 
 #### Status
 ACCEPTED

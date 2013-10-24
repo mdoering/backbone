@@ -1,5 +1,4 @@
-Stellechinatum helosum Turner, 1984 SPECIES
-=======
+# Stellechinatum helosum Turner, 1984 SPECIES
 
 #### Status
 ACCEPTED

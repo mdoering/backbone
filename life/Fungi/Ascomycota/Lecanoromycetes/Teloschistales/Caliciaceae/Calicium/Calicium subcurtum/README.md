@@ -1,5 +1,4 @@
-Calicium subcurtum var. subcurtum VARIETY
-=======
+# Calicium subcurtum Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Calicium subcurtum var. subcurtum
+Calicium subcurtum Vain.
 
 ### Remarks
 null

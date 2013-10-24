@@ -1,5 +1,4 @@
-Diophrys bifaria SPECIES
-=======
+# Diophrys bifaria SPECIES
 
 #### Status
 ACCEPTED

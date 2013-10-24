@@ -1,5 +1,4 @@
-Pyrenopeziza gentianae-asclepiadeae Nannf. SPECIES
-=======
+# Pyrenopeziza gentianae-asclepiadeae Nannf. SPECIES
 
 #### Status
 ACCEPTED

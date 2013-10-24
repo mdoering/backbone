@@ -1,5 +1,4 @@
-Phyllosticta sycophila Thüm. SPECIES
-=======
+# Phyllosticta sycophila Thüm. SPECIES
 
 #### Status
 ACCEPTED

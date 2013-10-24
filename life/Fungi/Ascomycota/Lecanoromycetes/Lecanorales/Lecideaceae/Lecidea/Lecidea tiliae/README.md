@@ -1,5 +1,4 @@
-Lecidea tiliae Vain. SPECIES
-=======
+# Lecidea tiliae Vain. SPECIES
 
 #### Status
 ACCEPTED

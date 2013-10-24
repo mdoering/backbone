@@ -1,5 +1,4 @@
-Lyngbya stagnina Kützing SPECIES
-=======
+# Lyngbya stagnina Kützing SPECIES
 
 #### Status
 ACCEPTED

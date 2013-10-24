@@ -1,5 +1,4 @@
-Cyclostephanos omarensis (I.A. Kuptsova) G.K. Khursevich & L.P. Loginova SPECIES
-=======
+# Cyclostephanos omarensis (I.A. Kuptsova) G.K. Khursevich & L.P. Loginova SPECIES
 
 #### Status
 ACCEPTED

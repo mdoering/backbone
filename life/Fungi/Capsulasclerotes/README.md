@@ -1,5 +1,4 @@
-Capsulasclerotes Malan GENUS
-=======
+# Capsulasclerotes Malan GENUS
 
 #### Status
 ACCEPTED

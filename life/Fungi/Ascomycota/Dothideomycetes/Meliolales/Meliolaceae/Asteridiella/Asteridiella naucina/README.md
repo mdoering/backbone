@@ -1,5 +1,4 @@
-Asteridiella naucina (Syd.) Hansf. SPECIES
-=======
+# Asteridiella naucina (Syd.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

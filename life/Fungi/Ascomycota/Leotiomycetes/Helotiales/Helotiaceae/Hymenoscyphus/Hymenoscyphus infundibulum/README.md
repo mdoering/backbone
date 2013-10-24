@@ -1,5 +1,4 @@
-Hymenoscyphus infundibulum (Batsch) Kuntze SPECIES
-=======
+# Hymenoscyphus infundibulum (Batsch) Kuntze SPECIES
 
 #### Status
 ACCEPTED

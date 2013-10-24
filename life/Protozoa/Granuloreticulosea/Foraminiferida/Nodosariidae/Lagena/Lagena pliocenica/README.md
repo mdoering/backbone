@@ -1,5 +1,4 @@
-Lagena pliocenica SPECIES
-=======
+# Lagena pliocenica SPECIES
 
 #### Status
 ACCEPTED

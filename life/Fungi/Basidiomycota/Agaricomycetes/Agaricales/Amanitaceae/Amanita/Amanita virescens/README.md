@@ -1,5 +1,4 @@
-Amanita virescens Beeli SPECIES
-=======
+# Amanita virescens Beeli SPECIES
 
 #### Status
 ACCEPTED

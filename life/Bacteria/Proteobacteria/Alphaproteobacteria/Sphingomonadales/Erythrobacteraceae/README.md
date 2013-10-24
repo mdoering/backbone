@@ -1,5 +1,4 @@
-Erythrobacteraceae FAMILY
-=======
+# Erythrobacteraceae FAMILY
 
 #### Status
 ACCEPTED

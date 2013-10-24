@@ -1,5 +1,4 @@
-Dentalina decepta SPECIES
-=======
+# Dentalina decepta SPECIES
 
 #### Status
 ACCEPTED

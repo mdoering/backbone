@@ -1,5 +1,4 @@
-Rhytisma riccioides Letell. SPECIES
-=======
+# Rhytisma riccioides Letell. SPECIES
 
 #### Status
 ACCEPTED

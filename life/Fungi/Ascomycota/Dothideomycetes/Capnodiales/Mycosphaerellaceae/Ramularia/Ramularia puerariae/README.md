@@ -1,5 +1,4 @@
-Ramularia puerariae Sawada SPECIES
-=======
+# Ramularia puerariae Sawada SPECIES
 
 #### Status
 ACCEPTED

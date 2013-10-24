@@ -1,5 +1,4 @@
-Uredo rhombica Speg. SPECIES
-=======
+# Uredo rhombica Speg. SPECIES
 
 #### Status
 ACCEPTED

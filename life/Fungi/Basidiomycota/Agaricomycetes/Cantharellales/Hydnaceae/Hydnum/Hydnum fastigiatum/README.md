@@ -1,5 +1,4 @@
-Hydnum fastigiatum Rick SPECIES
-=======
+# Hydnum fastigiatum Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sterigmatocystis castanea F. Patt. SPECIES
-=======
+# Sterigmatocystis castanea F. Patt. SPECIES
 
 #### Status
 ACCEPTED

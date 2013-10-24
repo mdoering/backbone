@@ -1,5 +1,4 @@
-Psathyrella salictaria A.H. Sm. SPECIES
-=======
+# Psathyrella salictaria A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bicosoeca tenuis Kent SPECIES
-=======
+# Bicosoeca tenuis Kent SPECIES
 
 #### Status
 ACCEPTED

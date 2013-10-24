@@ -1,5 +1,4 @@
-Phoma albanica Petr. SPECIES
-=======
+# Phoma albanica Petr. SPECIES
 
 #### Status
 ACCEPTED

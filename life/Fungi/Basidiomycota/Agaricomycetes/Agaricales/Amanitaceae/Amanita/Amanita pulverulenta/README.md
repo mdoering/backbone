@@ -1,5 +1,4 @@
-Amanita pulverulenta Beeli SPECIES
-=======
+# Amanita pulverulenta Beeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea degeliana Hertel SPECIES
-=======
+# Lecidea degeliana Hertel SPECIES
 
 #### Status
 ACCEPTED

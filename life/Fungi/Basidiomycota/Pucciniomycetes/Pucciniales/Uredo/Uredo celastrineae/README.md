@@ -1,5 +1,4 @@
-Uredo celastrineae Cooke & Massee SPECIES
-=======
+# Uredo celastrineae Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

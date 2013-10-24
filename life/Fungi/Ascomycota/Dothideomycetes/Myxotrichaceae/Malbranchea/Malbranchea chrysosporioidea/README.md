@@ -1,17 +1,16 @@
-Malbranchea chrysosporoidea Sigler & J.W. Carmich. SPECIES
-=======
+# Malbranchea chrysosporioidea Sigler & J.W. Carmich., 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 4(2): 427 (1976)
 
 #### Original name
-Malbranchea chrysosporoidea Sigler & J.W. Carmich.
+Malbranchea chrysosporioidea Sigler & J.W. Carmich., 1976
 
 ### Remarks
 null

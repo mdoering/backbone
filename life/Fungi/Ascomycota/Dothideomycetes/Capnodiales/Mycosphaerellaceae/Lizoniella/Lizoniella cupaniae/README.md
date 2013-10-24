@@ -1,5 +1,4 @@
-Lizoniella cupaniae (Rehm) Sacc. & Trotter SPECIES
-=======
+# Lizoniella cupaniae (Rehm) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

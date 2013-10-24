@@ -1,5 +1,4 @@
-Arthothelium melanopsis (Stirt.) Zahlbr. SPECIES
-=======
+# Arthothelium melanopsis (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eponides babsae Brenner, 1962 SPECIES
-=======
+# Eponides babsae Brenner, 1962 SPECIES
 
 #### Status
 ACCEPTED

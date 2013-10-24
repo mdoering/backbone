@@ -1,5 +1,4 @@
-Hebeloma exalbidium (Britzelm.) Sacc. SPECIES
-=======
+# Hebeloma exalbidium (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

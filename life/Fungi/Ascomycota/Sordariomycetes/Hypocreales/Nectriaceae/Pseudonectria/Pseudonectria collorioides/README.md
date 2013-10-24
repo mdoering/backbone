@@ -1,5 +1,4 @@
-Pseudonectria collorioides (Rehm) Höhn. SPECIES
-=======
+# Pseudonectria collorioides (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

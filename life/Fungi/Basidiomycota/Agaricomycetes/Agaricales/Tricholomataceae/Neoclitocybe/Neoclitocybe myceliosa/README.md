@@ -1,5 +1,4 @@
-Neoclitocybe myceliosa Singer SPECIES
-=======
+# Neoclitocybe myceliosa Singer SPECIES
 
 #### Status
 ACCEPTED

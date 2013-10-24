@@ -1,5 +1,4 @@
-Phyllachora pustulata G. Winter SPECIES
-=======
+# Phyllachora pustulata G. Winter SPECIES
 
 #### Status
 DOUBTFUL

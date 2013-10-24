@@ -1,5 +1,4 @@
-Protocreopsis albofimbriata (Sacc. & Penz.) Yoshim. Doi SPECIES
-=======
+# Protocreopsis albofimbriata (Sacc. & Penz.) Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

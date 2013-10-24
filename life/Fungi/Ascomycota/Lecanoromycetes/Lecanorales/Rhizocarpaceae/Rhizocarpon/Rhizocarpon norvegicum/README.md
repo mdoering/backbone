@@ -1,5 +1,4 @@
-Rhizocarpon norvegicum Räsänen SPECIES
-=======
+# Rhizocarpon norvegicum Räsänen SPECIES
 
 #### Status
 ACCEPTED

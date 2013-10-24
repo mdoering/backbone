@@ -1,5 +1,4 @@
-Ciboria squamorum SPECIES
-=======
+# Ciboria squamorum SPECIES
 
 #### Status
 ACCEPTED

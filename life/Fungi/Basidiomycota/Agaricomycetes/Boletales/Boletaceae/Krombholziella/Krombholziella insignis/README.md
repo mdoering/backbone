@@ -1,5 +1,4 @@
-Krombholziella insignis (A.H. Sm., Thiers & Watling) utara SPECIES
-=======
+# Krombholziella insignis (A.H. Sm., Thiers & Watling) utara SPECIES
 
 #### Status
 ACCEPTED

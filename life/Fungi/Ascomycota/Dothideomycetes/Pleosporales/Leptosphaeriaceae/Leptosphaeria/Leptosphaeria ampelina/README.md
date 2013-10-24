@@ -1,5 +1,4 @@
-Leptosphaeria ampelina Curzi & Barbaini SPECIES
-=======
+# Leptosphaeria ampelina Curzi & Barbaini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella foeniculina Speg. SPECIES
-=======
+# Sphaerella foeniculina Speg. SPECIES
 
 #### Status
 ACCEPTED

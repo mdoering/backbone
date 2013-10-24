@@ -1,5 +1,4 @@
-Lecidea cembricola Nyl. SPECIES
-=======
+# Lecidea cembricola Nyl. SPECIES
 
 #### Status
 ACCEPTED

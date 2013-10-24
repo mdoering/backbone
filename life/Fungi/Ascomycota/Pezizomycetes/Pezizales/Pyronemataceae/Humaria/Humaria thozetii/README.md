@@ -1,5 +1,4 @@
-Humaria thozetii (Berk.) Sacc. SPECIES
-=======
+# Humaria thozetii (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

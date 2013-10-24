@@ -1,17 +1,16 @@
-Cantharellus foridula Heinem. SPECIES
-=======
+# Cantharellus floridulus Heinem., 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bulletin du Jardin Botanique de l'État, Bruxelles 28: 419 (1958)
 
 #### Original name
-Cantharellus foridula Heinem.
+Cantharellus floridulus Heinem., 1958
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Chlamydosphaeridia A.Eisenack GENUS
-=======
+# Chlamydosphaeridia A.Eisenack GENUS
 
 #### Status
 ACCEPTED

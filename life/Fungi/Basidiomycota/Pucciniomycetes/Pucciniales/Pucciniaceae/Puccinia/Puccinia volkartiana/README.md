@@ -1,5 +1,4 @@
-Puccinia volkartiana E. Fisch. SPECIES
-=======
+# Puccinia volkartiana E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

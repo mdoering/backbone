@@ -1,14 +1,13 @@
-Clavaria constans Coker, 1939 SPECIES
-=======
+# Multiclavula constans (Coker) R.H. Petersen, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Elisha Mitchell scient. Soc. 55: 383 (1939)
+Am. Midl. Nat. 77: 209 (1967)
 
 #### Original name
 Clavaria constans Coker, 1939

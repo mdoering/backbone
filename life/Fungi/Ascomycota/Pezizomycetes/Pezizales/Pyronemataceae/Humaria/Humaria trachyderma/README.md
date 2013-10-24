@@ -1,5 +1,4 @@
-Humaria trachyderma Ellis & Everh. SPECIES
-=======
+# Humaria trachyderma Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

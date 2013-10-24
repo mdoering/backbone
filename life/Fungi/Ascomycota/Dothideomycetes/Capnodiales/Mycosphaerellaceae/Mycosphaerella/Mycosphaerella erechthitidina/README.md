@@ -1,5 +1,4 @@
-Mycosphaerella erechthitidina Petr. & Cif. SPECIES
-=======
+# Mycosphaerella erechthitidina Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

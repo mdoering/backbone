@@ -1,5 +1,4 @@
-Ocellularia cinerascens Abbayes SPECIES
-=======
+# Ocellularia cinerascens Abbayes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Seiridium ceratosporum (De Not.) Nag Raj SPECIES
-=======
+# Seiridium ceratosporum (De Not.) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

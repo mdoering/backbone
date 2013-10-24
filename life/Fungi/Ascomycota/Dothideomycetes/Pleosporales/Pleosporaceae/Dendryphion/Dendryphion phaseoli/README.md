@@ -1,5 +1,4 @@
-Dendryphion phaseoli Bres. SPECIES
-=======
+# Dendryphion phaseoli Bres. SPECIES
 
 #### Status
 ACCEPTED

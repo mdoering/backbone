@@ -1,5 +1,4 @@
-Limacella megalopoda (Bres.) Maire SPECIES
-=======
+# Limacella megalopoda (Bres.) Maire SPECIES
 
 #### Status
 ACCEPTED

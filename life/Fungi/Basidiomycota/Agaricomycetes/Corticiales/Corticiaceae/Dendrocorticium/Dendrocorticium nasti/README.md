@@ -1,5 +1,4 @@
-Dendrocorticium nasti Boidin & Gilles SPECIES
-=======
+# Dendrocorticium nasti Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

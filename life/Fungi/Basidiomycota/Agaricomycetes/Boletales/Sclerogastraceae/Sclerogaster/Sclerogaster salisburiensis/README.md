@@ -1,5 +1,4 @@
-Sclerogaster salisburiensis Verwoerd SPECIES
-=======
+# Sclerogaster salisburiensis Verwoerd SPECIES
 
 #### Status
 ACCEPTED

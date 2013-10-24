@@ -1,5 +1,4 @@
-Pestalotia compacta Berk. & M.A. Curtis SPECIES
-=======
+# Pestalotia compacta Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

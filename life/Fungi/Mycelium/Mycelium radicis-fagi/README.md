@@ -1,5 +1,4 @@
-Mycelium radicis-fagi Bedrchan {?} SPECIES
-=======
+# Mycelium radicis-fagi Bedrchan {?} SPECIES
 
 #### Status
 ACCEPTED

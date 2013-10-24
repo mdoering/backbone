@@ -1,5 +1,4 @@
-Cercospora melanochaeta Ellis & Everh. SPECIES
-=======
+# Cercospora melanochaeta Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma allescheriana Henn. SPECIES
-=======
+# Phoma allescheriana Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptotrochila dehnii (Rabenh.) Jørst. SPECIES
-=======
+# Leptotrochila dehnii (Rabenh.) Jørst. SPECIES
 
 #### Status
 ACCEPTED

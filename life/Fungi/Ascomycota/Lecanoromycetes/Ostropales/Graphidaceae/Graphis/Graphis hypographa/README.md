@@ -1,5 +1,4 @@
-Graphis hypographa Nyl. SPECIES
-=======
+# Graphis hypographa Nyl. SPECIES
 
 #### Status
 ACCEPTED

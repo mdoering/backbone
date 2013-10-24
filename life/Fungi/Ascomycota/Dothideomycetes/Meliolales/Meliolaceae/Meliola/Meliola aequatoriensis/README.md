@@ -1,5 +1,4 @@
-Meliola aequatoriensis Petr., 1948 SPECIES
-=======
+# Meliola aequatoriensis Petr., 1948 SPECIES
 
 #### Status
 ACCEPTED

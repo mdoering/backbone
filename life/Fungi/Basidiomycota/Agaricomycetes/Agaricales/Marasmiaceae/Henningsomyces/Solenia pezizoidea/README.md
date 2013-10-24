@@ -1,5 +1,4 @@
-Solenia pezizoidea Rick SPECIES
-=======
+# Solenia pezizoidea Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago pappiana Bacc. SPECIES
-=======
+# Ustilago pappiana Bacc. SPECIES
 
 #### Status
 ACCEPTED

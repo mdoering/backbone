@@ -1,5 +1,4 @@
-Coltricia subpicta (Lloyd) Imazeki & Kobayasi SPECIES
-=======
+# Coltricia subpicta (Lloyd) Imazeki & Kobayasi SPECIES
 
 #### Status
 ACCEPTED

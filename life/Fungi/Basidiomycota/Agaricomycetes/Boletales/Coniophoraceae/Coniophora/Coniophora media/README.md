@@ -1,5 +1,4 @@
-Coniophora media Bourdot & Galzin SPECIES
-=======
+# Coniophora media Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

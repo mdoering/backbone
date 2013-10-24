@@ -1,5 +1,4 @@
-Peroneutypa coffeae Saccas SPECIES
-=======
+# Peroneutypa coffeae Saccas SPECIES
 
 #### Status
 ACCEPTED

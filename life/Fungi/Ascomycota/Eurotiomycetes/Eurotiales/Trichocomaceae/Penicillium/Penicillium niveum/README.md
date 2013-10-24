@@ -1,5 +1,4 @@
-Penicillium niveum Bainier SPECIES
-=======
+# Penicillium niveum Bainier SPECIES
 
 #### Status
 ACCEPTED

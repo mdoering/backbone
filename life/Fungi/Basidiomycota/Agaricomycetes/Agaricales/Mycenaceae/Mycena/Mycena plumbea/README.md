@@ -1,5 +1,4 @@
-Mycena plumbea var. plumbea VARIETY
-=======
+# Mycena plumbea (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mycena plumbea var. plumbea
+Mycena plumbea (Fr.) Sacc.
 
 ### Remarks
 null

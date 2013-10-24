@@ -1,5 +1,4 @@
-Galerina glebarum (Berk.) Singer SPECIES
-=======
+# Galerina glebarum (Berk.) Singer SPECIES
 
 #### Status
 ACCEPTED

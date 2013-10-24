@@ -1,8 +1,7 @@
-Rhynchophoma lampsanae Gucevic SPECIES
-=======
+# Rhynchophoma lapsanae Gucevic SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhynchophoma lampsanae Gucevic
+Rhynchophoma lapsanae Gucevic
 
 ### Remarks
 null

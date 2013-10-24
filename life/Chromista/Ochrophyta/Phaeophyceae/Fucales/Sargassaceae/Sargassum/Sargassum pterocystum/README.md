@@ -1,5 +1,4 @@
-Sargassum pterocystum Zanardini, 1858 SPECIES
-=======
+# Sargassum pterocystum Zanardini, 1858 SPECIES
 
 #### Status
 ACCEPTED

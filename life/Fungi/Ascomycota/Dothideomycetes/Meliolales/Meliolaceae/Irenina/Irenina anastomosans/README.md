@@ -1,5 +1,4 @@
-Irenina anastomosans var. anastomosans VARIETY
-=======
+# Irenina anastomosans (G. Winter) F. Stevens SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 25: 456 (1927)
 
 #### Original name
-Irenina anastomosans var. anastomosans
+Meliola anastomosans G. Winter
 
 ### Remarks
 null

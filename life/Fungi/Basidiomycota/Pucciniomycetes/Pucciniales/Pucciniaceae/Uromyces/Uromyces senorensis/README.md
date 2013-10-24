@@ -1,5 +1,4 @@
-Uromyces senorensis J.F. Hennen & Cummins SPECIES
-=======
+# Uromyces senorensis J.F. Hennen & Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula praetenuis Murrill SPECIES
-=======
+# Russula praetenuis Murrill SPECIES
 
 #### Status
 ACCEPTED

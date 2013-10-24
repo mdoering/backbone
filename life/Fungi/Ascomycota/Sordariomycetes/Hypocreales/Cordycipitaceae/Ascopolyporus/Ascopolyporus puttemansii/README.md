@@ -1,5 +1,4 @@
-Ascopolyporus puttemansii Henn. SPECIES
-=======
+# Ascopolyporus puttemansii Henn. SPECIES
 
 #### Status
 ACCEPTED

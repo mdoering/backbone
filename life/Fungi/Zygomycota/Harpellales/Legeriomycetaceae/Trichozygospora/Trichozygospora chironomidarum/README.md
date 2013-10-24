@@ -1,5 +1,4 @@
-Trichozygospora chironomidarum Lichtw., 1972 SPECIES
-=======
+# Trichozygospora chironomidarum Lichtw., 1972 SPECIES
 
 #### Status
 ACCEPTED

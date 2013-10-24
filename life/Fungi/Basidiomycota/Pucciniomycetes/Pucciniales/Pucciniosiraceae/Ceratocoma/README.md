@@ -1,5 +1,4 @@
-Ceratocoma Buriticá & J.F. Hennen GENUS
-=======
+# Ceratocoma Buriticá & J.F. Hennen GENUS
 
 #### Status
 ACCEPTED

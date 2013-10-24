@@ -1,5 +1,4 @@
-Phallogaster globosus Lloyd SPECIES
-=======
+# Phallogaster globosus Lloyd SPECIES
 
 #### Status
 ACCEPTED

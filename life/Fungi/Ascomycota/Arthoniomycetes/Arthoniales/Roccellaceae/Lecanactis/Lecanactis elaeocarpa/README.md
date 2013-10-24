@@ -1,5 +1,4 @@
-Lecanactis elaeocarpa (Nyl.) Tehler SPECIES
-=======
+# Lecanactis elaeocarpa (Nyl.) Tehler SPECIES
 
 #### Status
 ACCEPTED

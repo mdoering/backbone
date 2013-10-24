@@ -1,5 +1,4 @@
-Sinoboletus wangii M. Zang, Zhu L. Yang & Y. Zhang bis SPECIES
-=======
+# Sinoboletus wangii M. Zang, Zhu L. Yang & Y. Zhang bis SPECIES
 
 #### Status
 ACCEPTED

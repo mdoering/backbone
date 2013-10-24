@@ -1,5 +1,4 @@
-Lentinus citrinus Walleyn & Rammeloo SPECIES
-=======
+# Lentinus citrinus Walleyn & Rammeloo SPECIES
 
 #### Status
 ACCEPTED

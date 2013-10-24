@@ -1,5 +1,4 @@
-Anthracoidea pilosae Vánky SPECIES
-=======
+# Anthracoidea pilosae Vánky SPECIES
 
 #### Status
 ACCEPTED

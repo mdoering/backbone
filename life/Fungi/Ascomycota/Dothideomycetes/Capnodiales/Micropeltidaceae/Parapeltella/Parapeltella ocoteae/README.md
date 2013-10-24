@@ -1,5 +1,4 @@
-Parapeltella ocoteae Bat. & Cavalc. SPECIES
-=======
+# Parapeltella ocoteae Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

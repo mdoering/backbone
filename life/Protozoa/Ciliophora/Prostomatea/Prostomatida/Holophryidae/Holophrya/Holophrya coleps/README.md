@@ -1,5 +1,4 @@
-Holophrya coleps Ehrenberg, 1831 SPECIES
-=======
+# Holophrya coleps Ehrenberg, 1831 SPECIES
 
 #### Status
 ACCEPTED

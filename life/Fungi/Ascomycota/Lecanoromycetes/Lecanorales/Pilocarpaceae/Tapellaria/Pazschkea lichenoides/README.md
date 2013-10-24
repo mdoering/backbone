@@ -1,5 +1,4 @@
-Pazschkea lichenoides Rehm SPECIES
-=======
+# Pazschkea lichenoides Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena radiata (Dennis) Singer ex Maas Geest. SPECIES
-=======
+# Mycena radiata (Dennis) Singer ex Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

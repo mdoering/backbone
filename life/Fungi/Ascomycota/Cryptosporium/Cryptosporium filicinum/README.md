@@ -1,5 +1,4 @@
-Cryptosporium filicinum Berk. & M.A. Curtis SPECIES
-=======
+# Cryptosporium filicinum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetoceros pseudosimilis Cleve SPECIES
-=======
+# Chaetoceros pseudosimilis Cleve SPECIES
 
 #### Status
 ACCEPTED

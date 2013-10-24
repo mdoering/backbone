@@ -1,5 +1,4 @@
-Meliola sandorici Rehm SPECIES
-=======
+# Meliola sandorici Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichia conglobata M.L. Farr, 1974 SPECIES
-=======
+# Trichia conglobata M.L. Farr, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exosporium hartigianum (Sacc.) Höhn. SPECIES
-=======
+# Exosporium hartigianum (Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

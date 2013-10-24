@@ -1,5 +1,4 @@
-Buglossoporus brunneiflavus Corner, 1984 SPECIES
-=======
+# Buglossoporus brunneiflavus Corner, 1984 SPECIES
 
 #### Status
 ACCEPTED

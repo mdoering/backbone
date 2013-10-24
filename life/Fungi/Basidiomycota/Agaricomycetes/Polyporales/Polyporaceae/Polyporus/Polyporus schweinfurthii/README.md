@@ -1,5 +1,4 @@
-Polyporus schweinfurthii Henn. SPECIES
-=======
+# Polyporus schweinfurthii Henn. SPECIES
 
 #### Status
 ACCEPTED

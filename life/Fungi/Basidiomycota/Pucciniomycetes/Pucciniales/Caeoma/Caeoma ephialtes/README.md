@@ -1,5 +1,4 @@
-Caeoma ephialtes Schltdl. SPECIES
-=======
+# Caeoma ephialtes Schltdl. SPECIES
 
 #### Status
 ACCEPTED

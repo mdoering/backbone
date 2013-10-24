@@ -1,5 +1,4 @@
-Favotrichophyton camerounense (M. Ota & Gaillard) C.W. Dodge SPECIES
-=======
+# Favotrichophyton camerounense (M. Ota & Gaillard) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hiatula melanoloma Singer SPECIES
-=======
+# Hiatula melanoloma Singer SPECIES
 
 #### Status
 ACCEPTED

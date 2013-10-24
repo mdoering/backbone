@@ -1,5 +1,4 @@
-Cryptosporiopsis hoheriae (J.D. Atk.) Gadgil & M.A. Dick SPECIES
-=======
+# Cryptosporiopsis hoheriae (J.D. Atk.) Gadgil & M.A. Dick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora carrii Barthol. SPECIES
-=======
+# Cercospora carrii Barthol. SPECIES
 
 #### Status
 ACCEPTED

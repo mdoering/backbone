@@ -1,5 +1,4 @@
-Mostlerium Cheng, 1986 GENUS
-=======
+# Mostlerium Cheng, 1986 GENUS
 
 #### Status
 ACCEPTED

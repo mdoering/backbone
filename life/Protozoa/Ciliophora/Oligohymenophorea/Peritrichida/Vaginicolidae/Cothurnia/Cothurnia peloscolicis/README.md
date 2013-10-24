@@ -1,5 +1,4 @@
-Cothurnia peloscolicis Precht, 1935 SPECIES
-=======
+# Cothurnia peloscolicis Precht, 1935 SPECIES
 
 #### Status
 ACCEPTED

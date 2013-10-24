@@ -1,5 +1,4 @@
-Pluteus nanellus Murrill SPECIES
-=======
+# Pluteus nanellus Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stenella crotalariicola R. Chaudhary, C. Gupta & Kamal SPECIES
-=======
+# Stenella crotalariicola R. Chaudhary, C. Gupta & Kamal SPECIES
 
 #### Status
 ACCEPTED

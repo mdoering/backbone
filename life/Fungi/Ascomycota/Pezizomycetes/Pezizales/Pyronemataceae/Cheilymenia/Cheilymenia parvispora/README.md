@@ -1,5 +1,4 @@
-Cheilymenia parvispora J. Moravec SPECIES
-=======
+# Cheilymenia parvispora J. Moravec SPECIES
 
 #### Status
 ACCEPTED

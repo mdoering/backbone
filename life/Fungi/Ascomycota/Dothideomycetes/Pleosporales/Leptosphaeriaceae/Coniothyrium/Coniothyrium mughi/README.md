@@ -1,5 +1,4 @@
-Coniothyrium mughi Oudem. SPECIES
-=======
+# Coniothyrium mughi Oudem. SPECIES
 
 #### Status
 ACCEPTED

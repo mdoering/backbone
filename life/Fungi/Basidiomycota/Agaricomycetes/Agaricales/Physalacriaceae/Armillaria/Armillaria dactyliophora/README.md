@@ -1,5 +1,4 @@
-Armillaria dactyliophora (Lév.) Beeli SPECIES
-=======
+# Armillaria dactyliophora (Lév.) Beeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phycoascus tremellosus Möller SPECIES
-=======
+# Phycoascus tremellosus Möller SPECIES
 
 #### Status
 ACCEPTED

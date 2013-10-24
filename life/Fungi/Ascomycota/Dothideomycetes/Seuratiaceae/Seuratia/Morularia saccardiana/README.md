@@ -1,5 +1,4 @@
-Morularia saccardiana subsp. saccardiana SUBSPECIES
-=======
+# Morularia saccardiana Nann. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Atti R. Accad. Fisiocrit. Siena, Sér. 9 17: 180 (1925)
 
 #### Original name
-Morularia saccardiana subsp. saccardiana
+Morularia saccardiana Nann.
 
 ### Remarks
 null

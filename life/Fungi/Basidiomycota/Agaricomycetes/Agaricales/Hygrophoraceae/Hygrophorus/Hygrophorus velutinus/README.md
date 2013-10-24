@@ -1,5 +1,4 @@
-Hygrophorus velutinus I.G. Borshch. SPECIES
-=======
+# Hygrophorus velutinus I.G. Borshch. SPECIES
 
 #### Status
 ACCEPTED

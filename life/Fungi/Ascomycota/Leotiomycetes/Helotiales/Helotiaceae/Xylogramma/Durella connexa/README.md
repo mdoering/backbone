@@ -1,5 +1,4 @@
-Durella connexa Rehm SPECIES
-=======
+# Durella connexa Rehm SPECIES
 
 #### Status
 ACCEPTED

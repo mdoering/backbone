@@ -1,5 +1,4 @@
-Cyclagelosphaera jiangii SPECIES
-=======
+# Cyclagelosphaera jiangii SPECIES
 
 #### Status
 ACCEPTED

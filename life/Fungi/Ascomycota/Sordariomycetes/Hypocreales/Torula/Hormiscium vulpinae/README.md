@@ -1,5 +1,4 @@
-Hormiscium vulpinae J. Lindau SPECIES
-=======
+# Hormiscium vulpinae J. Lindau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neotyphodium aotearoae C.D. Moon, C.O. Miles & Schardl, 2002 SPECIES
-=======
+# Neotyphodium aotearoae C.D. Moon, C.O. Miles & Schardl, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypholoma rickenii Romagn. SPECIES
-=======
+# Hypholoma rickenii Romagn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cercospora averrhoi Welles SPECIES
-=======
+# Cercospora averrhoae Petch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. R. bot. Gdns Peradeniya 6: 249 (1917)
 
 #### Original name
-Cercospora averrhoi Welles
+Cercospora averrhoae Petch
 
 ### Remarks
 null

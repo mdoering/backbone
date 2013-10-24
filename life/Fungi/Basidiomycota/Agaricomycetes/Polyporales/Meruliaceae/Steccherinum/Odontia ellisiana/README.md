@@ -1,5 +1,4 @@
-Odontia ellisiana (Thüm.) Rick SPECIES
-=======
+# Odontia ellisiana (Thüm.) Rick SPECIES
 
 #### Status
 ACCEPTED

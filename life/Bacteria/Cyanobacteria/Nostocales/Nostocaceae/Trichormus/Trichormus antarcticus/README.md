@@ -1,5 +1,4 @@
-Trichormus antarcticus (Fritsch) J. Komárek & K. Anagnostidis SPECIES
-=======
+# Trichormus antarcticus (Fritsch) J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius ochrophyllus Fr. SPECIES
-=======
+# Cortinarius ochrophyllus Fr. SPECIES
 
 #### Status
 ACCEPTED

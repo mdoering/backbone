@@ -1,5 +1,4 @@
-Sporormia pulchra E.C. Hansen, 1877 SPECIES
-=======
+# Sporormia pulchra E.C. Hansen, 1877 SPECIES
 
 #### Status
 ACCEPTED

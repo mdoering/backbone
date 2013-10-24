@@ -1,5 +1,4 @@
-Sarcoscypha kecskemetiensis Hollós SPECIES
-=======
+# Sarcoscypha kecskemetiensis Hollós SPECIES
 
 #### Status
 ACCEPTED

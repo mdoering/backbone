@@ -1,5 +1,4 @@
-Chloropedia plana Pascher SPECIES
-=======
+# Chloropedia plana Pascher SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Menegazzia sipeana Gyeln. SPECIES
-=======
+# Menegazzia sipeana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

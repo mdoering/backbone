@@ -1,17 +1,16 @@
-Lachnella myositidis Velen. SPECIES
-=======
+# Lachnella myosotidis Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 242 (1934)
 
 #### Original name
-Lachnella myositidis Velen.
+Lachnella myosotidis Velen.
 
 ### Remarks
 null

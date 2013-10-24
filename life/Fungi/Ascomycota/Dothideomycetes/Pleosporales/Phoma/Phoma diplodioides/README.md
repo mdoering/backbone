@@ -1,5 +1,4 @@
-Phoma diplodioides Sacc. SPECIES
-=======
+# Phoma diplodioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

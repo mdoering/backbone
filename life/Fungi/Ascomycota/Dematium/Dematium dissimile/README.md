@@ -1,5 +1,4 @@
-Dematium dissimile (Preuss) Sacc. SPECIES
-=======
+# Dematium dissimile (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

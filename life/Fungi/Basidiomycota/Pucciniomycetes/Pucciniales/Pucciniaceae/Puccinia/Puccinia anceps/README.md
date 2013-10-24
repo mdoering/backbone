@@ -1,5 +1,4 @@
-Puccinia anceps Speg. SPECIES
-=======
+# Puccinia anceps Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Massalongia imperatae Rehm SPECIES
-=======
+# Massalongia imperatae Rehm SPECIES
 
 #### Status
 ACCEPTED

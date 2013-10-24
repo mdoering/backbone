@@ -1,5 +1,4 @@
-Agaricus sebaceus Pers. SPECIES
-=======
+# Agaricus sebaceus Pers. SPECIES
 
 #### Status
 ACCEPTED

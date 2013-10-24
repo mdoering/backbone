@@ -1,17 +1,16 @@
-Cortinarius fusisporus f. fusisporus FORM
-=======
+# Cortinarius fusisporus Kühner, 1955 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. mens. Soc. linn. Lyon 24: 39 (1955)
 
 #### Original name
-Cortinarius fusisporus f. fusisporus
+Cortinarius fusisporus Kühner, 1955
 
 ### Remarks
 null

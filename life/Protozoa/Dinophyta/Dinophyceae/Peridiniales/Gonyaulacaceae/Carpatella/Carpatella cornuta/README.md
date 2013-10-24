@@ -1,5 +1,4 @@
-Carpatella cornuta Grigorovitch, 1969 SPECIES
-=======
+# Carpatella cornuta Grigorovitch, 1969 SPECIES
 
 #### Status
 ACCEPTED

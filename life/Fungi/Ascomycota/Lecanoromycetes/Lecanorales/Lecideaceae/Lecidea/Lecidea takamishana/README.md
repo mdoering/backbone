@@ -1,5 +1,4 @@
-Lecidea takamishana SPECIES
-=======
+# Lecidea takamishana SPECIES
 
 #### Status
 ACCEPTED

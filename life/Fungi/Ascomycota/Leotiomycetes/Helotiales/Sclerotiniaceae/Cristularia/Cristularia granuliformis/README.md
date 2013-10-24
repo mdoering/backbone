@@ -1,5 +1,4 @@
-Cristularia granuliformis (Sacc.) Costantin SPECIES
-=======
+# Cristularia granuliformis (Sacc.) Costantin SPECIES
 
 #### Status
 ACCEPTED

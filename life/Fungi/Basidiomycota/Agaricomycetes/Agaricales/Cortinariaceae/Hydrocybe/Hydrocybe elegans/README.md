@@ -1,5 +1,4 @@
-Hydrocybe elegans Hruby SPECIES
-=======
+# Hydrocybe elegans Hruby SPECIES
 
 #### Status
 ACCEPTED

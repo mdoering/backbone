@@ -1,5 +1,4 @@
-Mycosphaerella sicyicola (Ellis & Everh.) Tomilin SPECIES
-=======
+# Mycosphaerella sicyicola (Ellis & Everh.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena semipilosa Singer SPECIES
-=======
+# Mycena semipilosa Singer SPECIES
 
 #### Status
 ACCEPTED

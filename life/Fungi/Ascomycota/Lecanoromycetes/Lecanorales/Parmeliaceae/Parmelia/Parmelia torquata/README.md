@@ -1,5 +1,4 @@
-Parmelia torquata Fr. SPECIES
-=======
+# Parmelia torquata Fr. SPECIES
 
 #### Status
 ACCEPTED

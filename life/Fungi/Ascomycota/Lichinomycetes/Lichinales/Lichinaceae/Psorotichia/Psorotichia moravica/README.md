@@ -1,5 +1,4 @@
-Psorotichia moravica Zahlbr. SPECIES
-=======
+# Psorotichia moravica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caldilineales ORDER
-=======
+# Caldilineales ORDER
 
 #### Status
 ACCEPTED

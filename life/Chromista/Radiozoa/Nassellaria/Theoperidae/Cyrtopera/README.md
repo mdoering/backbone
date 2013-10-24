@@ -1,5 +1,4 @@
-Cyrtopera Haeckel, 1881 GENUS
-=======
+# Cyrtopera Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

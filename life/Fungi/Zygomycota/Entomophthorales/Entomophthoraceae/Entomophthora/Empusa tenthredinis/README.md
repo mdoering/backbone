@@ -1,5 +1,4 @@
-Empusa tenthredinis (Fresen.) SPECIES
-=======
+# Empusa tenthredinis (Fresen.) SPECIES
 
 #### Status
 ACCEPTED

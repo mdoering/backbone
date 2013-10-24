@@ -1,5 +1,4 @@
-Lophidium gregarium (Fuckel) Sacc. SPECIES
-=======
+# Lophidium gregarium (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

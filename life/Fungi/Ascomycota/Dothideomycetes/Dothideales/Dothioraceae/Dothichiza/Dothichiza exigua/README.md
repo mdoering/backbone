@@ -1,5 +1,4 @@
-Dothichiza exigua Sacc. SPECIES
-=======
+# Dothichiza exigua Sacc. SPECIES
 
 #### Status
 ACCEPTED

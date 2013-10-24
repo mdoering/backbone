@@ -1,5 +1,4 @@
-Colpoma azaleae (Schwein.) Cooke SPECIES
-=======
+# Colpoma azaleae (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

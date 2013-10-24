@@ -1,5 +1,4 @@
-Physarella Peck GENUS
-=======
+# Physarella Peck GENUS
 
 #### Status
 ACCEPTED

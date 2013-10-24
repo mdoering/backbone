@@ -1,5 +1,4 @@
-Perisporium truncatum F. Stevens SPECIES
-=======
+# Perisporium truncatum F. Stevens SPECIES
 
 #### Status
 ACCEPTED

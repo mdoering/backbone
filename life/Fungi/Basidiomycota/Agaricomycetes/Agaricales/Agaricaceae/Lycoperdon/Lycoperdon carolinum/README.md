@@ -1,5 +1,4 @@
-Lycoperdon carolinum Batsch SPECIES
-=======
+# Lycoperdon carolinum Batsch SPECIES
 
 #### Status
 ACCEPTED

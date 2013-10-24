@@ -1,5 +1,4 @@
-Mucor mousanensis Baijal & B.S. Mehrotra, 1966 SPECIES
-=======
+# Mucor mousanensis Baijal & B.S. Mehrotra, 1966 SPECIES
 
 #### Status
 ACCEPTED

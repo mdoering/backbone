@@ -1,5 +1,4 @@
-Reutlingia W.S. Drugg, 1978 GENUS
-=======
+# Reutlingia W.S. Drugg, 1978 GENUS
 
 #### Status
 ACCEPTED

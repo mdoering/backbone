@@ -1,5 +1,4 @@
-Marasmius mutabilis Berk. & Broome SPECIES
-=======
+# Marasmius mutabilis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

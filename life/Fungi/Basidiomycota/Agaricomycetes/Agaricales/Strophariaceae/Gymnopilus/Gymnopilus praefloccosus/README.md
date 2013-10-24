@@ -1,5 +1,4 @@
-Gymnopilus praefloccosus Murrill SPECIES
-=======
+# Gymnopilus praefloccosus Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lacrimasporonites R.T. Clarke GENUS
-=======
+# Lacrimasporonites R.T. Clarke GENUS
 
 #### Status
 ACCEPTED

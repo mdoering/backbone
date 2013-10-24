@@ -1,5 +1,4 @@
-Exobasidium pentasporium Shirai SPECIES
-=======
+# Exobasidium pentasporium Shirai SPECIES
 
 #### Status
 ACCEPTED

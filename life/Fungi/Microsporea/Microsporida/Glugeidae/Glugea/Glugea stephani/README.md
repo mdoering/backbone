@@ -1,5 +1,4 @@
-Glugea stephani (Hagenmüller, 1899) Woodcock, 1904 SPECIES
-=======
+# Glugea stephani (Hagenmüller, 1899) Woodcock, 1904 SPECIES
 
 #### Status
 ACCEPTED

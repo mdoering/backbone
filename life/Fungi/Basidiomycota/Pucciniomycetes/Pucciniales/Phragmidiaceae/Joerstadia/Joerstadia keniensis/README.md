@@ -1,5 +1,4 @@
-Joerstadia keniensis Gjaerum & Cummins, 1982 SPECIES
-=======
+# Joerstadia keniensis Gjaerum & Cummins, 1982 SPECIES
 
 #### Status
 ACCEPTED

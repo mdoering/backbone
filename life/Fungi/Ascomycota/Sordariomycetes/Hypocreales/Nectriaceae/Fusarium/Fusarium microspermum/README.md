@@ -1,5 +1,4 @@
-Fusarium microspermum Berk. & M.A. Curtis SPECIES
-=======
+# Fusarium microspermum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

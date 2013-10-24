@@ -1,5 +1,4 @@
-Oscillatoria lud SPECIES
-=======
+# Oscillatoria lud SPECIES
 
 #### Status
 ACCEPTED

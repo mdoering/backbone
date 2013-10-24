@@ -1,17 +1,16 @@
-Tromera A. Massalongo ex Körber, 1865 GENUS
-=======
+# Sarea E.M. Fries, 1825 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. orb. veg. (Lundae) 1: 86 (1825)
 
 #### Original name
-null
+Sarea E.M. Fries, 1825
 
 ### Remarks
 null

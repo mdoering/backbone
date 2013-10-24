@@ -1,5 +1,4 @@
-Scindalma marginatum (Fr.) Kuntze SPECIES
-=======
+# Scindalma marginatum (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discoasteraceae Tan, 1927 FAMILY
-=======
+# Discoasteraceae Tan, 1927 FAMILY
 
 #### Status
 ACCEPTED

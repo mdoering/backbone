@@ -1,5 +1,4 @@
-Meliola galipeae Syd. SPECIES
-=======
+# Meliola galipeae Syd. SPECIES
 
 #### Status
 ACCEPTED

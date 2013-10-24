@@ -1,5 +1,4 @@
-Leptosphaeria arrhenatheri var. arrhenatheri VARIETY
-=======
+# Leptosphaeria arrhenatheri House SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptosphaeria arrhenatheri var. arrhenatheri
+Leptosphaeria arrhenatheri House
 
 ### Remarks
 null

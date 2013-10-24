@@ -1,5 +1,4 @@
-Syncystidae FAMILY
-=======
+# Syncystidae FAMILY
 
 #### Status
 ACCEPTED

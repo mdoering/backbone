@@ -1,5 +1,4 @@
-Cornicularia cinchonarum Fée SPECIES
-=======
+# Cornicularia cinchonarum Fée SPECIES
 
 #### Status
 ACCEPTED

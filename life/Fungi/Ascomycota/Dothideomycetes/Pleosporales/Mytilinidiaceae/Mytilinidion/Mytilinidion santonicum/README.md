@@ -1,8 +1,7 @@
-Mytilidion santonicum Brunaud SPECIES
-=======
+# Mytilinidion santonicum Brunaud SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mytilidion santonicum Brunaud
+Mytilinidion santonicum Brunaud
 
 ### Remarks
 null

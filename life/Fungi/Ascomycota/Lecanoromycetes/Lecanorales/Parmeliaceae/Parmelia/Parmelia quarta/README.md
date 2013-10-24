@@ -1,5 +1,4 @@
-Parmelia quarta Darb. SPECIES
-=======
+# Parmelia quarta Darb. SPECIES
 
 #### Status
 ACCEPTED

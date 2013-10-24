@@ -1,5 +1,4 @@
-Pisolithus abditus Kanch., Sihan., Hogetsu & Watling, 2003 SPECIES
-=======
+# Pisolithus abditus Kanch., Sihan., Hogetsu & Watling, 2003 SPECIES
 
 #### Status
 ACCEPTED

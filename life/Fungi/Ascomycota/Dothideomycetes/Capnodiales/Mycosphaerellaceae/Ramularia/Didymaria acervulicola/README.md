@@ -1,5 +1,4 @@
-Didymaria acervulicola Bat. & Nascim. SPECIES
-=======
+# Didymaria acervulicola Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED

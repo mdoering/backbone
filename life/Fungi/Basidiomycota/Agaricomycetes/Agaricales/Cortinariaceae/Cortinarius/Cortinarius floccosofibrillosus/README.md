@@ -1,5 +1,4 @@
-Cortinarius floccosofibrillosus Britzelm. SPECIES
-=======
+# Cortinarius floccosofibrillosus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

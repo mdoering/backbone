@@ -1,5 +1,4 @@
-Acaulospora tuberculata Janos & Trappe, 1982 SPECIES
-=======
+# Acaulospora tuberculata Janos & Trappe, 1982 SPECIES
 
 #### Status
 ACCEPTED

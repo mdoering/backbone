@@ -1,5 +1,4 @@
-Mycena chrysanthemiformis Har. Takah. SPECIES
-=======
+# Mycena chrysanthemiformis Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

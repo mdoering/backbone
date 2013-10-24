@@ -1,5 +1,4 @@
-Asterostomella alchorneae Petr. SPECIES
-=======
+# Asterostomella alchorneae Petr. SPECIES
 
 #### Status
 ACCEPTED

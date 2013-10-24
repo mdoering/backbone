@@ -1,5 +1,4 @@
-Tephromela skottsbergii (Darb.) Fryday SPECIES
-=======
+# Tephromela skottsbergii (Darb.) Fryday SPECIES
 
 #### Status
 ACCEPTED

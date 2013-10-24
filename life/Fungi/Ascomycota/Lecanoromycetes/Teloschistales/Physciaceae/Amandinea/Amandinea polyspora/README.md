@@ -1,5 +1,4 @@
-Amandinea polyspora (Willey) E. Lay & P.F. May SPECIES
-=======
+# Amandinea polyspora (Willey) E. Lay & P.F. May SPECIES
 
 #### Status
 ACCEPTED

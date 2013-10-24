@@ -1,14 +1,13 @@
-Acremonium musicola (Speg.) W. Gams, 1971 SPECIES
-=======
+# Gliomastix musicola (Speg.) C.H. Dickinson, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cephalosporium-artige Schimmelpilze (Stuttgart) 90 (1971)
+Mycol. Pap. 115: 8 (1968)
 
 #### Original name
 Coniosporium musicola Speg., 1910

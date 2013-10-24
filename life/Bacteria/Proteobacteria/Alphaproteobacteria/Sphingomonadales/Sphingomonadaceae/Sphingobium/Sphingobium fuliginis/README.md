@@ -1,5 +1,4 @@
-Sphingobium fuliginis Prakash & Lal, 2006 SPECIES
-=======
+# Sphingobium fuliginis Prakash & Lal, 2006 SPECIES
 
 #### Status
 ACCEPTED

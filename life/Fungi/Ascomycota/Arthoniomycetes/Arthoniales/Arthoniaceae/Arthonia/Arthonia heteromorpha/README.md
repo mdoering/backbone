@@ -1,5 +1,4 @@
-Arthonia heteromorpha Müll. Arg. SPECIES
-=======
+# Arthonia heteromorpha Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

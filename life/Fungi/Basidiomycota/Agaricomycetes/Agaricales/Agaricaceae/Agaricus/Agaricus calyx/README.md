@@ -1,5 +1,4 @@
-Agaricus calyx Speg. SPECIES
-=======
+# Agaricus calyx Speg. SPECIES
 
 #### Status
 ACCEPTED

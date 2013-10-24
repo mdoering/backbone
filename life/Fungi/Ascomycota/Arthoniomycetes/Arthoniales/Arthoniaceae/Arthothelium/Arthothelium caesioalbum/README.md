@@ -1,5 +1,4 @@
-Arthothelium caesioalbum Müll. Arg. SPECIES
-=======
+# Arthothelium caesioalbum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia subpellucida Berk. & M.A. Curtis SPECIES
-=======
+# Omphalia subpellucida Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Peziza macropus var. macropus VARIETY
-=======
+# Helvella macropus (Pers.) P. Karst., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bidr. Känn. Finl. Nat. Folk 19: 37 (1871)
 
 #### Original name
-null
+Peziza macropus Pers., 1796
 
 ### Remarks
 null

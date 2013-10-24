@@ -1,5 +1,4 @@
-Cephalosporium subsessile Sacc. SPECIES
-=======
+# Cephalosporium subsessile Sacc. SPECIES
 
 #### Status
 ACCEPTED

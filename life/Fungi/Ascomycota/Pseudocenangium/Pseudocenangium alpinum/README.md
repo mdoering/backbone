@@ -1,5 +1,4 @@
-Pseudocenangium alpinum Petr. SPECIES
-=======
+# Pseudocenangium alpinum Petr. SPECIES
 
 #### Status
 ACCEPTED

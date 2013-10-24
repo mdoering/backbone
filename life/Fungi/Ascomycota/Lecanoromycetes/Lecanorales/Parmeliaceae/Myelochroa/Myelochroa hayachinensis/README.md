@@ -1,17 +1,16 @@
-Parmelia hayachinensis Kurok. SPECIES
-=======
+# Myelochroa hayachinensis (Kurok.) Elix & Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 29: 240 (1987)
 
 #### Original name
-null
+Parmelia hayachinensis Kurok.
 
 ### Remarks
 null

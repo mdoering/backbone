@@ -1,5 +1,4 @@
-Fundenia Vuxanovici, 1962 GENUS
-=======
+# Fundenia Vuxanovici, 1962 GENUS
 
 #### Status
 ACCEPTED

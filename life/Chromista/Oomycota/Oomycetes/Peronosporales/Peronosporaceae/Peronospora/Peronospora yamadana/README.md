@@ -1,5 +1,4 @@
-Peronospora yamadana Togashi SPECIES
-=======
+# Peronospora yamadana Togashi SPECIES
 
 #### Status
 ACCEPTED

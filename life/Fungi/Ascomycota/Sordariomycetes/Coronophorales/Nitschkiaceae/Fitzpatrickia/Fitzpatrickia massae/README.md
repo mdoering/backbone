@@ -1,5 +1,4 @@
-Fitzpatrickia massae Cif. SPECIES
-=======
+# Fitzpatrickia massae Cif. SPECIES
 
 #### Status
 ACCEPTED

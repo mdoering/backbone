@@ -1,5 +1,4 @@
-Lycoperdon flavotinctum Bowerman SPECIES
-=======
+# Lycoperdon flavotinctum Bowerman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anzia endoflavida Yoshim. SPECIES
-=======
+# Anzia endoflavida Yoshim. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peltopsis affinis (Penz. & Sacc.) Bat. SPECIES
-=======
+# Peltopsis affinis (Penz. & Sacc.) Bat. SPECIES
 
 #### Status
 ACCEPTED

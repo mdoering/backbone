@@ -1,5 +1,4 @@
-Megastomella Faulkner, Klasz & Rérat, 1963 GENUS
-=======
+# Megastomella Faulkner, Klasz & Rérat, 1963 GENUS
 
 #### Status
 ACCEPTED

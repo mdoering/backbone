@@ -1,5 +1,4 @@
-Pyrenulales Fink ex D. Hawksw. & O.E. Erikss. ORDER
-=======
+# Pyrenulales Fink ex D. Hawksw. & O.E. Erikss. ORDER
 
 #### Status
 ACCEPTED

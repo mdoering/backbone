@@ -1,5 +1,4 @@
-Cercospora melochiicola Syd. SPECIES
-=======
+# Cercospora melochiicola Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lobophora papenfussii (W.R. Taylor) Farghaly SPECIES
-=======
+# Lobophora papenfussii (W.R. Taylor) Farghaly SPECIES
 
 #### Status
 ACCEPTED

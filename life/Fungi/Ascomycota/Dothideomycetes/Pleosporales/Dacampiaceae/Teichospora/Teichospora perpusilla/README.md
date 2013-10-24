@@ -1,5 +1,4 @@
-Teichospora perpusilla Speg. SPECIES
-=======
+# Teichospora perpusilla Speg. SPECIES
 
 #### Status
 ACCEPTED

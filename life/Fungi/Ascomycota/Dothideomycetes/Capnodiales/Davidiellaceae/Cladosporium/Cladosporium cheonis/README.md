@@ -1,5 +1,4 @@
-Cladosporium cheonis (Chupp & Linder) U. Braun SPECIES
-=======
+# Cladosporium cheonis (Chupp & Linder) U. Braun SPECIES
 
 #### Status
 ACCEPTED

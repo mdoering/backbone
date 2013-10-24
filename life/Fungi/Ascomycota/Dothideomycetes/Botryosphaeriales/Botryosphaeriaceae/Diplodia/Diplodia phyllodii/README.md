@@ -1,5 +1,4 @@
-Diplodia phyllodii Cooke & Harkn. SPECIES
-=======
+# Diplodia phyllodii Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

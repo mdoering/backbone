@@ -1,5 +1,4 @@
-Asterostomella lunaniae Cif. SPECIES
-=======
+# Asterostomella lunaniae Cif. SPECIES
 
 #### Status
 ACCEPTED

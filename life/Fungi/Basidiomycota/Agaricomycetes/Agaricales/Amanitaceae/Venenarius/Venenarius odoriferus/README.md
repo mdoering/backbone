@@ -1,5 +1,4 @@
-Venenarius odoriferus Murrill SPECIES
-=======
+# Venenarius odoriferus Murrill SPECIES
 
 #### Status
 ACCEPTED

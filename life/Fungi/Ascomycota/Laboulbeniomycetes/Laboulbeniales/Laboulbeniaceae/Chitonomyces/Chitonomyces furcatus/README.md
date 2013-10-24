@@ -1,5 +1,4 @@
-Chitonomyces furcatus Thaxt. SPECIES
-=======
+# Chitonomyces furcatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypogymnia subvittata (J.D. Zhao) J.C. Wei SPECIES
-=======
+# Hypogymnia subvittata (J.D. Zhao) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

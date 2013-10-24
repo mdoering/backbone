@@ -1,5 +1,4 @@
-Aecidium smilacis-chinae Sawada SPECIES
-=======
+# Aecidium smilacis-chinae Sawada SPECIES
 
 #### Status
 ACCEPTED

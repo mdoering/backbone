@@ -1,5 +1,4 @@
-Cladonia borealis S. Stenroos SPECIES
-=======
+# Cladonia borealis S. Stenroos SPECIES
 
 #### Status
 ACCEPTED

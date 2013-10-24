@@ -1,5 +1,4 @@
-Lachnobacterium bovis Whitford et al., 2001 SPECIES
-=======
+# Lachnobacterium bovis Whitford et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

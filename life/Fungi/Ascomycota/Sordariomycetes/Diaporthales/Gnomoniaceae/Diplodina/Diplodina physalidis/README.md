@@ -1,5 +1,4 @@
-Diplodina physalidis Hollós SPECIES
-=======
+# Diplodina physalidis Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Umbilicaria angulata var. angulata Tuck. VARIETY
-=======
+# Umbilicaria angulata Tuck. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Umbilicaria angulata var. angulata Tuck.
+Umbilicaria angulata Tuck.
 
 ### Remarks
 null

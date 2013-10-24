@@ -1,5 +1,4 @@
-Orbilia diaphana (Sowerby) Sacc. SPECIES
-=======
+# Orbilia diaphana (Sowerby) Sacc. SPECIES
 
 #### Status
 ACCEPTED

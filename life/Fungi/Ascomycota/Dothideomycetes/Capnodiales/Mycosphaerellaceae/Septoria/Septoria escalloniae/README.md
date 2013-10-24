@@ -1,5 +1,4 @@
-Septoria escalloniae A. Agostini SPECIES
-=======
+# Septoria escalloniae A. Agostini SPECIES
 
 #### Status
 ACCEPTED

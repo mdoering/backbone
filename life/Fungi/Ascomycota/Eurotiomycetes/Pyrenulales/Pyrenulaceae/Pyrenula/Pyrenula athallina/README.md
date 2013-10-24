@@ -1,5 +1,4 @@
-Pyrenula athallina H. Magn. SPECIES
-=======
+# Pyrenula athallina H. Magn. SPECIES
 
 #### Status
 ACCEPTED

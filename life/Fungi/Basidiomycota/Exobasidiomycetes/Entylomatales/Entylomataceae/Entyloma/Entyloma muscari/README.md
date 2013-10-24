@@ -1,5 +1,4 @@
-Entyloma muscari Pass. ex J. Schröt. SPECIES
-=======
+# Entyloma muscari Pass. ex J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

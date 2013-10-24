@@ -1,5 +1,4 @@
-Psilocybe umbrospora Velen. SPECIES
-=======
+# Psilocybe umbrospora Velen. SPECIES
 
 #### Status
 ACCEPTED

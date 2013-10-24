@@ -1,5 +1,4 @@
-Calloria circinella Pat. SPECIES
-=======
+# Calloria circinella Pat. SPECIES
 
 #### Status
 ACCEPTED

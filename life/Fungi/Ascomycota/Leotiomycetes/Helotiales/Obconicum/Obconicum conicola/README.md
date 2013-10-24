@@ -1,5 +1,4 @@
-Obconicum conicola Velen. SPECIES
-=======
+# Obconicum conicola Velen. SPECIES
 
 #### Status
 ACCEPTED

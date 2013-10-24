@@ -1,5 +1,4 @@
-Marasmius robertsonii Singer SPECIES
-=======
+# Marasmius robertsonii Singer SPECIES
 
 #### Status
 ACCEPTED

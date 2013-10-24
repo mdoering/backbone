@@ -1,17 +1,16 @@
-Psora horiza f. rhododendri Rehm ex Hepp FORM
-=======
+# Rinodina orculata Poelt & M. Steiner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mitt. bot. StSamml. , Münch. 8: 191 (1970)
 
 #### Original name
-null
+Rinodina orculata Poelt & M. Steiner
 
 ### Remarks
 null

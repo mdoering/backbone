@@ -1,5 +1,4 @@
-Arthonia caesioalba (Müll. Arg.) Stizenb. SPECIES
-=======
+# Arthonia caesioalba (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

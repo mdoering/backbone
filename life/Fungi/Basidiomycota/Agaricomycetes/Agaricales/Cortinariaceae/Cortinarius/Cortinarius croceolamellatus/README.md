@@ -1,5 +1,4 @@
-Cortinarius croceolamellatus N. Arnold & Schmid-Heckel SPECIES
-=======
+# Cortinarius croceolamellatus N. Arnold & Schmid-Heckel SPECIES
 
 #### Status
 ACCEPTED

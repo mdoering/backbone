@@ -1,5 +1,4 @@
-Phaeophycopsis amazonensis Bat. & Peres SPECIES
-=======
+# Phaeophycopsis amazonensis Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

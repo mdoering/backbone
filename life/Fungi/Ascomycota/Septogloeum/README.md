@@ -1,5 +1,4 @@
-Septogloeum Saccardo, 1880 GENUS
-=======
+# Septogloeum Saccardo, 1880 GENUS
 
 #### Status
 ACCEPTED

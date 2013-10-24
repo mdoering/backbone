@@ -1,5 +1,4 @@
-Cyphella leonina Speg. SPECIES
-=======
+# Cyphella leonina Speg. SPECIES
 
 #### Status
 ACCEPTED

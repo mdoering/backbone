@@ -1,5 +1,4 @@
-Microstroma americanorum Pammel & H.H. Hume SPECIES
-=======
+# Microstroma americanorum Pammel & H.H. Hume SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tandonia dargentiana M.D. Mehrotra, 1991 SPECIES
-=======
+# Tandonia dargentiana M.D. Mehrotra, 1991 SPECIES
 
 #### Status
 ACCEPTED

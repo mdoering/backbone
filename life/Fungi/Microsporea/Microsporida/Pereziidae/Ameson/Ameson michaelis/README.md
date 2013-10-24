@@ -1,5 +1,4 @@
-Ameson michaelis (Sprague) Sprague SPECIES
-=======
+# Ameson michaelis (Sprague) Sprague SPECIES
 
 #### Status
 ACCEPTED

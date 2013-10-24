@@ -1,5 +1,4 @@
-Melanoleuca ferruginescens Murrill SPECIES
-=======
+# Melanoleuca ferruginescens Murrill SPECIES
 
 #### Status
 ACCEPTED

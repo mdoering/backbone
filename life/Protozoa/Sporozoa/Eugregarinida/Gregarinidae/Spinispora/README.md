@@ -1,5 +1,4 @@
-Spinispora Baudoin, 1967 GENUS
-=======
+# Spinispora Baudoin, 1967 GENUS
 
 #### Status
 ACCEPTED

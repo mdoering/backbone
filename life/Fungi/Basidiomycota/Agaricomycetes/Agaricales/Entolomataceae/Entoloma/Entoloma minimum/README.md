@@ -1,5 +1,4 @@
-Entoloma minimum (Velen.) Noordel. SPECIES
-=======
+# Entoloma minimum (Velen.) Noordel. SPECIES
 
 #### Status
 ACCEPTED

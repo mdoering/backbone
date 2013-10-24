@@ -1,5 +1,4 @@
-Jafneadelphus olivaceofuscus Svrcek & J. Moravec SPECIES
-=======
+# Jafneadelphus olivaceofuscus Svrcek & J. Moravec SPECIES
 
 #### Status
 ACCEPTED

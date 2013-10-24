@@ -1,5 +1,4 @@
-Botryostroma eupatorii (F. Stevens) E. Müll. & Arx SPECIES
-=======
+# Botryostroma eupatorii (F. Stevens) E. Müll. & Arx SPECIES
 
 #### Status
 ACCEPTED

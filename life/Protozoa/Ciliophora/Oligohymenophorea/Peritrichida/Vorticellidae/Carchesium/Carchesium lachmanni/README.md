@@ -1,5 +1,4 @@
-Carchesium lachmanni Kent, 1881 SPECIES
-=======
+# Carchesium lachmanni Kent, 1881 SPECIES
 
 #### Status
 ACCEPTED

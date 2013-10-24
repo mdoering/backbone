@@ -1,5 +1,4 @@
-Pyrenula approximata Vain. SPECIES
-=======
+# Pyrenula approximata Vain. SPECIES
 
 #### Status
 ACCEPTED

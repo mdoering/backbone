@@ -1,8 +1,7 @@
-Lecidea carioni Grognot SPECIES
-=======
+# Lecidea carionii Grognot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea carioni Grognot
+Lecidea carionii Grognot
 
 ### Remarks
 null

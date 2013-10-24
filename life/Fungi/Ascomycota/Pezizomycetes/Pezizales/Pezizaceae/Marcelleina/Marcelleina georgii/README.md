@@ -1,5 +1,4 @@
-Marcelleina georgii (Svrcek) J. Moravec SPECIES
-=======
+# Marcelleina georgii (Svrcek) J. Moravec SPECIES
 
 #### Status
 ACCEPTED

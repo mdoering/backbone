@@ -1,5 +1,4 @@
-Chthonoblastus salinus Kützing SPECIES
-=======
+# Chthonoblastus salinus Kützing SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Membranatheca GENUS
-=======
+# Membranatheca GENUS
 
 #### Status
 ACCEPTED

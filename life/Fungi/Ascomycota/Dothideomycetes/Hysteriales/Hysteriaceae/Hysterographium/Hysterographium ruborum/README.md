@@ -1,5 +1,4 @@
-Hysterographium ruborum Cooke SPECIES
-=======
+# Hysterographium ruborum Cooke SPECIES
 
 #### Status
 ACCEPTED

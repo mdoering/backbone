@@ -1,5 +1,4 @@
-Amanita pianei Migl. & Lavorato SPECIES
-=======
+# Amanita pianei Migl. & Lavorato SPECIES
 
 #### Status
 ACCEPTED

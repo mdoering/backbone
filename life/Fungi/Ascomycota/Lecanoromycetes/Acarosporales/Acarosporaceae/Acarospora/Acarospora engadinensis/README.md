@@ -1,5 +1,4 @@
-Acarospora engadinensis H. Magn. SPECIES
-=======
+# Acarospora engadinensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

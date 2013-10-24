@@ -1,5 +1,4 @@
-Lopadostoma turgisporum Lar.N. Vassiljeva SPECIES
-=======
+# Lopadostoma turgisporum Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

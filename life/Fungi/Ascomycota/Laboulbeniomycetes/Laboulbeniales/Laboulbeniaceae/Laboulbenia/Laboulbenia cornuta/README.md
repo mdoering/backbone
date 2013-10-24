@@ -1,5 +1,4 @@
-Laboulbenia cornuta Thaxt. SPECIES
-=======
+# Laboulbenia cornuta Thaxt. SPECIES
 
 #### Status
 ACCEPTED

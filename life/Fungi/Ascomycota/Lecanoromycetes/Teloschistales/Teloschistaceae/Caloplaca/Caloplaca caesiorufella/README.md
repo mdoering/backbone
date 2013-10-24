@@ -1,14 +1,13 @@
-Lecanora caesiorufella Nyl. SPECIES
-=======
+# Caloplaca caesiorufella (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 68: 442 (1885)
+Cat. Lich. Univers. 7: 83 (1930)
 
 #### Original name
 Lecanora caesiorufella Nyl.

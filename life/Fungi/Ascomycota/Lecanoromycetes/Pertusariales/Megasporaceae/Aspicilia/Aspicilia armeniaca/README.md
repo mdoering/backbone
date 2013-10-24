@@ -1,5 +1,4 @@
-Aspicilia armeniaca (Werner) S.Y. Kondr. SPECIES
-=======
+# Aspicilia armeniaca (Werner) S.Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

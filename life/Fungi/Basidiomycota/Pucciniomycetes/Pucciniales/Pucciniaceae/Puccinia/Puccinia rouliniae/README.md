@@ -1,5 +1,4 @@
-Puccinia rouliniae Speg. SPECIES
-=======
+# Puccinia rouliniae Speg. SPECIES
 
 #### Status
 ACCEPTED

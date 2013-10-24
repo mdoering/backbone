@@ -1,14 +1,13 @@
-Bigenulina d'Orbigny, 1826 GENUS
-=======
+# Bigenerina d'Orbigny, 1826 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Tabl. méth. Céph. [sep. from Ann. Sci. Nat. , 7 (27), Mar. 1826, with additional matter], 149.
+Ann. Sci. Nat. , 7, 261.
 
 #### Original name
 null

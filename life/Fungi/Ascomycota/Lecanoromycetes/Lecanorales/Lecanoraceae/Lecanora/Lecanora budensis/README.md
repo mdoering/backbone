@@ -1,5 +1,4 @@
-Lecanora budensis SPECIES
-=======
+# Lecanora budensis SPECIES
 
 #### Status
 ACCEPTED

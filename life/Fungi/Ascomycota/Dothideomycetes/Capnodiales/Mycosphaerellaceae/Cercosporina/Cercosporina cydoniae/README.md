@@ -1,5 +1,4 @@
-Cercosporina cydoniae (Rangel) Sacc. SPECIES
-=======
+# Cercosporina cydoniae (Rangel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

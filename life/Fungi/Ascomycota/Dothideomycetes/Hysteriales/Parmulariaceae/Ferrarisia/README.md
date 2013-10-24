@@ -1,17 +1,16 @@
-Microthyriolum Speg. GENUS
-=======
+# Ferrarisia Sacc. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boletín de la Academia Nacional de Ciencias de Córdoba 23(3-4): 498 (1917)
+Atti Inst. Veneto Sci. lett. , ed Arti, Sér. 3 10: 61 (1919)
 
 #### Original name
-Microthyriolum Speg.
+Ferrarisia Sacc.
 
 ### Remarks
 null

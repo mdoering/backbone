@@ -1,5 +1,4 @@
-Sorosporium dianthorum Cif. SPECIES
-=======
+# Sorosporium dianthorum Cif. SPECIES
 
 #### Status
 ACCEPTED

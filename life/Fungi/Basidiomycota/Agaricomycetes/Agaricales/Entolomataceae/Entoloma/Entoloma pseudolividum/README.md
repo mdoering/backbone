@@ -1,5 +1,4 @@
-Entoloma pseudolividum Largent SPECIES
-=======
+# Entoloma pseudolividum Largent SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lloydella lactea Rick SPECIES
-=======
+# Lloydella lactea Rick SPECIES
 
 #### Status
 ACCEPTED

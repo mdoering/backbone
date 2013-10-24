@@ -1,5 +1,4 @@
-Mycosphaerella fruticum Starbäck SPECIES
-=======
+# Mycosphaerella fruticum Starbäck SPECIES
 
 #### Status
 ACCEPTED

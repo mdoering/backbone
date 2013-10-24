@@ -1,5 +1,4 @@
-Sympodiella acicola W.B. Kendr., 1958 SPECIES
-=======
+# Sympodiella acicola W.B. Kendr., 1958 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nonomuraea GENUS
-=======
+# Nonomuraea GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nummularia succentralia Torrend SPECIES
-=======
+# Nummularia succentralia Torrend SPECIES
 
 #### Status
 ACCEPTED

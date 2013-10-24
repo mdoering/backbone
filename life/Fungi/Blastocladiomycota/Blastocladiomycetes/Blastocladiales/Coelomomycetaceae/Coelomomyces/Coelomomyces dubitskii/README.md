@@ -1,5 +1,4 @@
-Coelomomyces dubitskii Couch & Bland SPECIES
-=======
+# Coelomomyces dubitskii Couch & Bland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizothyrella eylesiana Van der Byl SPECIES
-=======
+# Schizothyrella eylesiana Van der Byl SPECIES
 
 #### Status
 ACCEPTED

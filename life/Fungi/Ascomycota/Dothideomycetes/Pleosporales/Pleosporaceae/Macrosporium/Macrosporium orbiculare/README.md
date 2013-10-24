@@ -1,5 +1,4 @@
-Macrosporium orbiculare (Cooke & Ellis) Pound & Clem. SPECIES
-=======
+# Macrosporium orbiculare (Cooke & Ellis) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercophora crustosa (Massee) P. Chaudhary, J. Fourn. & A.N. Mill. SPECIES
-=======
+# Cercophora crustosa (Massee) P. Chaudhary, J. Fourn. & A.N. Mill. SPECIES
 
 #### Status
 ACCEPTED

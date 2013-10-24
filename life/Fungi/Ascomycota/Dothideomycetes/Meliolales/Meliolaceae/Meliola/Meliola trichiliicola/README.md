@@ -1,5 +1,4 @@
-Meliola trichiliicola Speg. SPECIES
-=======
+# Meliola trichiliicola Speg. SPECIES
 
 #### Status
 ACCEPTED

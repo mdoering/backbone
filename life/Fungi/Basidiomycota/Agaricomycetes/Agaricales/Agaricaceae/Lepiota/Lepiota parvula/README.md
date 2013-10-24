@@ -1,5 +1,4 @@
-Lepiota parvula Velen. SPECIES
-=======
+# Lepiota parvula Velen. SPECIES
 
 #### Status
 ACCEPTED

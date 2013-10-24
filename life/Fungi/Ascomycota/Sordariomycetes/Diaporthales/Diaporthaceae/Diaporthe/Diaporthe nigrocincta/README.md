@@ -1,5 +1,4 @@
-Diaporthe nigrocincta Pass. SPECIES
-=======
+# Diaporthe nigrocincta Pass. SPECIES
 
 #### Status
 ACCEPTED

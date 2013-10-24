@@ -1,5 +1,4 @@
-Belonidium badium (Rehm) Svrcek SPECIES
-=======
+# Belonidium badium (Rehm) Svrcek SPECIES
 
 #### Status
 ACCEPTED

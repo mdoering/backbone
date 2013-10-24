@@ -1,5 +1,4 @@
-Petalomonas irregularis Skuja SPECIES
-=======
+# Petalomonas irregularis Skuja SPECIES
 
 #### Status
 ACCEPTED

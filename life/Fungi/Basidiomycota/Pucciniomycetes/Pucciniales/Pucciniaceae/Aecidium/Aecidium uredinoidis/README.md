@@ -1,5 +1,4 @@
-Aecidium uredinoidis Henn. SPECIES
-=======
+# Aecidium uredinoidis Henn. SPECIES
 
 #### Status
 ACCEPTED

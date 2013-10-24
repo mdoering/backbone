@@ -1,5 +1,4 @@
-Diatrype capensis Kalchbr. & Cooke SPECIES
-=======
+# Diatrype capensis Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pannaria hypomelaena Bornet SPECIES
-=======
+# Pannaria hypomelaena Bornet SPECIES
 
 #### Status
 ACCEPTED

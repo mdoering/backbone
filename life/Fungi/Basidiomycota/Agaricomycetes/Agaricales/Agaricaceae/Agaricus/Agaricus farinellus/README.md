@@ -1,5 +1,4 @@
-Agaricus farinellus Feltgen SPECIES
-=======
+# Agaricus farinellus Feltgen SPECIES
 
 #### Status
 ACCEPTED

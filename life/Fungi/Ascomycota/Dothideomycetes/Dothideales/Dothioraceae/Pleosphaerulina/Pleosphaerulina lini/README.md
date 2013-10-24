@@ -1,5 +1,4 @@
-Pleosphaerulina lini Lebedeva SPECIES
-=======
+# Pleosphaerulina lini Lebedeva SPECIES
 
 #### Status
 ACCEPTED

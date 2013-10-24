@@ -1,5 +1,4 @@
-Corynascus Arx, 1973 GENUS
-=======
+# Corynascus Arx, 1973 GENUS
 
 #### Status
 ACCEPTED

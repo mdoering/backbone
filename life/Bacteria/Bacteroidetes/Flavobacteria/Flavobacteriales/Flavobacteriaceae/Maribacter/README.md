@@ -1,5 +1,4 @@
-Maribacter Nedashkovskaya, Kim, Han, Lysenko, Rohde, Rhee, Frolova, Falsen, Mikhailov & Bae, 2004 GENUS
-=======
+# Maribacter Nedashkovskaya, Kim, Han, Lysenko, Rohde, Rhee, Frolova, Falsen, Mikhailov & Bae, 2004 GENUS
 
 #### Status
 ACCEPTED

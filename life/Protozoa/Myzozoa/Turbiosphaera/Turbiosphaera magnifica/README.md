@@ -1,5 +1,4 @@
-Turbiosphaera magnifica Eaton, 1976 SPECIES
-=======
+# Turbiosphaera magnifica Eaton, 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gemmatimonas aurantiaca Zhang et al., 2003 SPECIES
-=======
+# Gemmatimonas aurantiaca Zhang et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

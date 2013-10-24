@@ -1,5 +1,4 @@
-Bovista purpurea Lloyd SPECIES
-=======
+# Bovista purpurea Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza ventosa (P. Karst.) SPECIES
-=======
+# Peziza ventosa (P. Karst.) SPECIES
 
 #### Status
 ACCEPTED

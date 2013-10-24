@@ -1,5 +1,4 @@
-Hebeloma candidipes Bruchet, 1970 SPECIES
-=======
+# Hebeloma candidipes Bruchet, 1970 SPECIES
 
 #### Status
 ACCEPTED

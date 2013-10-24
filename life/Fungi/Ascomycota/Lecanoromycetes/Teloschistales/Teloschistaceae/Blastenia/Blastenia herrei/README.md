@@ -1,5 +1,4 @@
-Blastenia herrei Hasse SPECIES
-=======
+# Blastenia herrei Hasse SPECIES
 
 #### Status
 ACCEPTED

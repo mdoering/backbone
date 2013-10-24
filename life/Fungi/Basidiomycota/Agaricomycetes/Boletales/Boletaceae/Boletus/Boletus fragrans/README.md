@@ -1,5 +1,4 @@
-Boletus fragrans Vittad., 1835 SPECIES
-=======
+# Boletus fragrans Vittad., 1835 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Panus kinabaluensis Corner SPECIES
-=======
+# Panus kinabaluensis Corner SPECIES
 
 #### Status
 ACCEPTED

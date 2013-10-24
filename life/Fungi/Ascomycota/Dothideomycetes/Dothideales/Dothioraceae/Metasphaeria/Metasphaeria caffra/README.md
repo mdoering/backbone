@@ -1,5 +1,4 @@
-Metasphaeria caffra (Thüm.) Berl. SPECIES
-=======
+# Metasphaeria caffra (Thüm.) Berl. SPECIES
 
 #### Status
 ACCEPTED

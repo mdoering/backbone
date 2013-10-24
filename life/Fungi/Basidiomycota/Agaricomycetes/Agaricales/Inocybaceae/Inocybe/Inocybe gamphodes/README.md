@@ -1,5 +1,4 @@
-Inocybe gamphodes (Kalchbr.) Sacc. SPECIES
-=======
+# Inocybe gamphodes (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

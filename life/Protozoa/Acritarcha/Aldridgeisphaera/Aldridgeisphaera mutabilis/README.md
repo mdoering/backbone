@@ -1,5 +1,4 @@
-Aldridgeisphaera mutabilis (Sannemann, 1955) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Aldridgeisphaera mutabilis (Sannemann, 1955) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

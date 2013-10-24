@@ -1,5 +1,4 @@
-Entophysalis sinensis Chu SPECIES
-=======
+# Entophysalis sinensis Chu SPECIES
 
 #### Status
 ACCEPTED

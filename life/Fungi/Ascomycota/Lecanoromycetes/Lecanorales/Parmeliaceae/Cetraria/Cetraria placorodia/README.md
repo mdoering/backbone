@@ -1,5 +1,4 @@
-Cetraria placorodia (Ach.) Tuck. SPECIES
-=======
+# Cetraria placorodia (Ach.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

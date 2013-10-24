@@ -1,5 +1,4 @@
-Heterosphaeria phacidioides Fr. SPECIES
-=======
+# Heterosphaeria phacidioides Fr. SPECIES
 
 #### Status
 ACCEPTED

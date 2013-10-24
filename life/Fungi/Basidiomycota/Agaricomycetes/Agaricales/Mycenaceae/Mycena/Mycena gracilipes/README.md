@@ -1,5 +1,4 @@
-Mycena gracilipes Murrill SPECIES
-=======
+# Mycena gracilipes Murrill SPECIES
 
 #### Status
 ACCEPTED

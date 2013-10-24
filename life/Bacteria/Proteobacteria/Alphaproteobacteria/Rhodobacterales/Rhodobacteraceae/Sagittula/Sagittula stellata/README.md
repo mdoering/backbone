@@ -1,5 +1,4 @@
-Sagittula stellata González et al., 1997 SPECIES
-=======
+# Sagittula stellata González et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

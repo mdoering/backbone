@@ -1,14 +1,13 @@
-Lepidodermopsis martinii T.N. Lakh., 1978 SPECIES
-=======
+# Didymium martinii (T.N. Lakh.) H. Neubert, Nowotny & K. Baumann, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Norw. Jl Bot. 25(3): 196 (1978)
+Die Myxomyceten (Gomaringen), Deutschlands und des Angrenzenden Alpenraumes Unter Besonderer Berücksichtigung Österreichs. <b>3</b>. <i>Stemonitales</i> 2: 139 (1995)
 
 #### Original name
 Lepidodermopsis martinii T.N. Lakh., 1978

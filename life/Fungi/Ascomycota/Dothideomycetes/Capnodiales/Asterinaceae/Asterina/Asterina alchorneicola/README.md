@@ -1,5 +1,4 @@
-Asterina alchorneicola Hansf., 1954 SPECIES
-=======
+# Asterina alchorneicola Hansf., 1954 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aegerita pallida Pers. SPECIES
-=======
+# Aegerita pallida Pers. SPECIES
 
 #### Status
 ACCEPTED

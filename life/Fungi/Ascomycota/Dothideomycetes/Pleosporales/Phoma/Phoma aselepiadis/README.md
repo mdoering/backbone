@@ -1,5 +1,4 @@
-Phoma aselepiadis Sawada SPECIES
-=======
+# Phoma aselepiadis Sawada SPECIES
 
 #### Status
 ACCEPTED

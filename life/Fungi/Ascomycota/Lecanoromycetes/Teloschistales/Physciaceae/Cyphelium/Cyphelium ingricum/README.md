@@ -1,5 +1,4 @@
-Cyphelium ingricum Naumov SPECIES
-=======
+# Cyphelium ingricum Naumov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flammula eccentrica Peck SPECIES
-=======
+# Flammula eccentrica Peck SPECIES
 
 #### Status
 ACCEPTED

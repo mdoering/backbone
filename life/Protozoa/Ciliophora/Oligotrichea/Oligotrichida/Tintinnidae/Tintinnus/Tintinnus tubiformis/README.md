@@ -1,5 +1,4 @@
-Tintinnus tubiformis Kofoid & Campbell, 1929 SPECIES
-=======
+# Tintinnus tubiformis Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

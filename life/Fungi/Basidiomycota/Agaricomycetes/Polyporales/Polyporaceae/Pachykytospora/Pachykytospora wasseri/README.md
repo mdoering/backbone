@@ -1,5 +1,4 @@
-Pachykytospora wasseri Zmitr., Malysheva & Spirin SPECIES
-=======
+# Pachykytospora wasseri Zmitr., Malysheva & Spirin SPECIES
 
 #### Status
 ACCEPTED

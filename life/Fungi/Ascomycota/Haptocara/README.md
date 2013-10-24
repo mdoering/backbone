@@ -1,5 +1,4 @@
-Haptocara Drechsler GENUS
-=======
+# Haptocara Drechsler GENUS
 
 #### Status
 ACCEPTED

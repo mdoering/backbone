@@ -1,5 +1,4 @@
-Helvella vacini Velen. SPECIES
-=======
+# Helvella vacini Velen. SPECIES
 
 #### Status
 ACCEPTED

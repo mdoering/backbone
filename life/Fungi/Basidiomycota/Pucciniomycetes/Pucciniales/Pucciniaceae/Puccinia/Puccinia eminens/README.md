@@ -1,5 +1,4 @@
-Puccinia eminens F. Kern SPECIES
-=======
+# Puccinia eminens F. Kern SPECIES
 
 #### Status
 ACCEPTED

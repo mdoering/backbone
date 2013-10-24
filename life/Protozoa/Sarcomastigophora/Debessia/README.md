@@ -1,5 +1,4 @@
-Debessia Haman, 1988 GENUS
-=======
+# Debessia Haman, 1988 GENUS
 
 #### Status
 ACCEPTED

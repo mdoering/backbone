@@ -1,5 +1,4 @@
-Microthyrium malenconianum Maire SPECIES
-=======
+# Microthyrium malenconianum Maire SPECIES
 
 #### Status
 ACCEPTED

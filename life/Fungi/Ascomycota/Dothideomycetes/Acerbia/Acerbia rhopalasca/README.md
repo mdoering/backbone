@@ -1,5 +1,4 @@
-Acerbia rhopalasca Feltgen SPECIES
-=======
+# Acerbia rhopalasca Feltgen SPECIES
 
 #### Status
 ACCEPTED

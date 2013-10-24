@@ -1,5 +1,4 @@
-Ceuthospora astragalina Gonz. Frag. SPECIES
-=======
+# Ceuthospora astragalina Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

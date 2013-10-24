@@ -1,5 +1,4 @@
-Rhabdospora coffeicola Delacr. SPECIES
-=======
+# Rhabdospora coffeicola Delacr. SPECIES
 
 #### Status
 ACCEPTED

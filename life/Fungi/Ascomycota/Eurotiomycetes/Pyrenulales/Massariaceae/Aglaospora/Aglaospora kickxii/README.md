@@ -1,5 +1,4 @@
-Aglaospora kickxii (Westend.) Kuntze SPECIES
-=======
+# Aglaospora kickxii (Westend.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

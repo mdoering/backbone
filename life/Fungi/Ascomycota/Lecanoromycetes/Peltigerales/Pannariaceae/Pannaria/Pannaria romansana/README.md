@@ -1,5 +1,4 @@
-Pannaria romansana Hue SPECIES
-=======
+# Pannaria romansana Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peronospora plantaginis Underw. SPECIES
-=======
+# Peronospora plantaginis Underw. SPECIES
 
 #### Status
 ACCEPTED

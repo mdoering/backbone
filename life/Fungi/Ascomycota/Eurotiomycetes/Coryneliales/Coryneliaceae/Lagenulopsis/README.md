@@ -1,5 +1,4 @@
-Lagenulopsis Fitzp. GENUS
-=======
+# Lagenulopsis Fitzp. GENUS
 
 #### Status
 ACCEPTED

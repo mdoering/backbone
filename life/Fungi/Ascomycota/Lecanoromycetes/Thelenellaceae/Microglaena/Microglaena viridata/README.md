@@ -1,5 +1,4 @@
-Microglaena viridata (Nyl.) Zahlbr. SPECIES
-=======
+# Microglaena viridata (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

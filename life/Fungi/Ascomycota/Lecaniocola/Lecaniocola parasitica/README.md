@@ -1,5 +1,4 @@
-Lecaniocola parasitica (Linder) Brain SPECIES
-=======
+# Lecaniocola parasitica (Linder) Brain SPECIES
 
 #### Status
 ACCEPTED

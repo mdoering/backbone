@@ -1,5 +1,4 @@
-Lenzites lutescens Syd. SPECIES
-=======
+# Lenzites lutescens Syd. SPECIES
 
 #### Status
 ACCEPTED

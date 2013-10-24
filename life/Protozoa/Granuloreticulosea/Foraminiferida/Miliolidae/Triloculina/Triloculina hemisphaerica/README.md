@@ -1,5 +1,4 @@
-Triloculina hemisphaerica Terquem, 1876 SPECIES
-=======
+# Triloculina hemisphaerica Terquem, 1876 SPECIES
 
 #### Status
 ACCEPTED

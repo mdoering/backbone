@@ -1,5 +1,4 @@
-Corticium vesiculosum Burt SPECIES
-=======
+# Corticium vesiculosum Burt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paramecium biaurelia SPECIES
-=======
+# Paramecium biaurelia SPECIES
 
 #### Status
 ACCEPTED

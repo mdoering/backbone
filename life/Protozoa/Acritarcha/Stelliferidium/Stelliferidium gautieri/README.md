@@ -1,5 +1,4 @@
-Stelliferidium gautieri (F. Martin) P. Pittau SPECIES
-=======
+# Stelliferidium gautieri (F. Martin) P. Pittau SPECIES
 
 #### Status
 ACCEPTED

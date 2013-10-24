@@ -1,5 +1,4 @@
-Euplotaspis Chatton & Séguéla, 1936 GENUS
-=======
+# Euplotaspis Chatton & Séguéla, 1936 GENUS
 
 #### Status
 ACCEPTED

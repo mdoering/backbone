@@ -1,5 +1,4 @@
-Cortinarius hinnuleolus Romagn. SPECIES
-=======
+# Cortinarius hinnuleolus Romagn. SPECIES
 
 #### Status
 ACCEPTED

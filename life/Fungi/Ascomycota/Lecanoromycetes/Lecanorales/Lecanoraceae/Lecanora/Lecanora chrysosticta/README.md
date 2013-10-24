@@ -1,5 +1,4 @@
-Lecanora chrysosticta Hook. f. & Taylor SPECIES
-=======
+# Lecanora chrysosticta Hook. f. & Taylor SPECIES
 
 #### Status
 ACCEPTED

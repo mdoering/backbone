@@ -1,5 +1,4 @@
-Endopyrenium altimontanum (N.S. Golubk.) Oxner SPECIES
-=======
+# Endopyrenium altimontanum (N.S. Golubk.) Oxner SPECIES
 
 #### Status
 ACCEPTED

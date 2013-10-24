@@ -1,5 +1,4 @@
-Clypeosphaeria stevensii Syd., 1925 SPECIES
-=======
+# Clypeosphaeria stevensii Syd., 1925 SPECIES
 
 #### Status
 ACCEPTED

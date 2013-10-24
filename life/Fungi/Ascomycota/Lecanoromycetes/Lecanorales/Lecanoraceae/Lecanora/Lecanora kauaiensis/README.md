@@ -1,5 +1,4 @@
-Lecanora kauaiensis H. Magn. SPECIES
-=======
+# Lecanora kauaiensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria hydrophylli Ellis & Dearn. SPECIES
-=======
+# Septoria hydrophylli Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

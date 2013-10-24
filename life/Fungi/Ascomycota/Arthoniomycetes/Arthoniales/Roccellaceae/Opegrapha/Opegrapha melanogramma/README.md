@@ -1,5 +1,4 @@
-Opegrapha melanogramma Kremp. SPECIES
-=======
+# Opegrapha melanogramma Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crustomyces Jülich, 1978 GENUS
-=======
+# Crustomyces Jülich, 1978 GENUS
 
 #### Status
 ACCEPTED

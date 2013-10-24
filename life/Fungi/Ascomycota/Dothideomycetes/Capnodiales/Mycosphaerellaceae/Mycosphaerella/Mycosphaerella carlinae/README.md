@@ -1,5 +1,4 @@
-Mycosphaerella carlinae (G. Winter) Feltgen SPECIES
-=======
+# Mycosphaerella carlinae (G. Winter) Feltgen SPECIES
 
 #### Status
 ACCEPTED

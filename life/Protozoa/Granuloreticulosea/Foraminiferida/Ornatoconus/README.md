@@ -1,5 +1,4 @@
-Ornatoconus di Bari, 1998 GENUS
-=======
+# Ornatoconus di Bari, 1998 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physciopsis minor (Fée) B.J. Moore SPECIES
-=======
+# Physciopsis minor (Fée) B.J. Moore SPECIES
 
 #### Status
 ACCEPTED

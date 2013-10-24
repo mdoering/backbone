@@ -1,5 +1,4 @@
-Phaeostroma endophyticum S. Lund SPECIES
-=======
+# Phaeostroma endophyticum S. Lund SPECIES
 
 #### Status
 ACCEPTED

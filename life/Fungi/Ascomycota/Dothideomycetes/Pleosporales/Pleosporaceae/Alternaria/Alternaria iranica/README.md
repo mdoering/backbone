@@ -1,5 +1,4 @@
-Alternaria iranica E.G. Simmons & Y. Ghosta SPECIES
-=======
+# Alternaria iranica E.G. Simmons & Y. Ghosta SPECIES
 
 #### Status
 ACCEPTED

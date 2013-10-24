@@ -1,5 +1,4 @@
-Scleroderma pseudostipitatum Petch SPECIES
-=======
+# Scleroderma pseudostipitatum Petch SPECIES
 
 #### Status
 ACCEPTED

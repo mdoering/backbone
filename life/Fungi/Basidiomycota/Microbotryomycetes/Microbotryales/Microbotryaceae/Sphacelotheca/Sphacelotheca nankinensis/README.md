@@ -1,5 +1,4 @@
-Sphacelotheca nankinensis Zundel SPECIES
-=======
+# Sphacelotheca nankinensis Zundel SPECIES
 
 #### Status
 ACCEPTED

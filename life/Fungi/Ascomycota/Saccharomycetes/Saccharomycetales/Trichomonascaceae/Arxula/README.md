@@ -1,5 +1,4 @@
-Arxula Van der Walt, M.T. Smith & Y. Yamada, 1989 GENUS
-=======
+# Arxula Van der Walt, M.T. Smith & Y. Yamada, 1989 GENUS
 
 #### Status
 ACCEPTED

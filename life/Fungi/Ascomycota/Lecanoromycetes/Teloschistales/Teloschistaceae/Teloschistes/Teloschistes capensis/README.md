@@ -1,11 +1,10 @@
-Teloschistes capensis var. capensis VARIETY
-=======
+# Teloschistes capensis (L. f.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

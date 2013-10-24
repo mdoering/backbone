@@ -1,5 +1,4 @@
-Phomopsis hydrangeae M.T. Lucas & Sousa da Câmara, 1952 SPECIES
-=======
+# Phomopsis hydrangeae M.T. Lucas & Sousa da Câmara, 1952 SPECIES
 
 #### Status
 ACCEPTED

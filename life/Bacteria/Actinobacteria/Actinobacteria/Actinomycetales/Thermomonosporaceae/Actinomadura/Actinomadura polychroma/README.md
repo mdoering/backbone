@@ -1,5 +1,4 @@
-Actinomadura polychroma Galatenko et al., 1987 SPECIES
-=======
+# Actinomadura polychroma Galatenko et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

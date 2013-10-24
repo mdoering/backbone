@@ -1,17 +1,16 @@
-Hypoxylon torrendi Bres. SPECIES
-=======
+# Hypoxylon torrendii Bres. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 18(1/3): 55 (1920)
 
 #### Original name
-Hypoxylon torrendi Bres.
+Hypoxylon torrendii Bres.
 
 ### Remarks
 null

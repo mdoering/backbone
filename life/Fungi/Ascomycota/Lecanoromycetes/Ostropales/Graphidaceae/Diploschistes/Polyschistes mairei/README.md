@@ -1,5 +1,4 @@
-Polyschistes mairei Werner SPECIES
-=======
+# Polyschistes mairei Werner SPECIES
 
 #### Status
 ACCEPTED

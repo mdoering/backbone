@@ -1,5 +1,4 @@
-Cercospora vochysiae Bat. & Peres SPECIES
-=======
+# Cercospora vochysiae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

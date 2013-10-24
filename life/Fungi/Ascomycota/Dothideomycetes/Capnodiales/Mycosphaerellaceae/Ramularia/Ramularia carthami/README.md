@@ -1,5 +1,4 @@
-Ramularia carthami Zaprom., 1926 SPECIES
-=======
+# Ramularia carthami Zaprom., 1926 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Diaporthe gilliesiana Speg. SPECIES
-=======
+# Diaporthe gillesiana Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revta Fac. Agron. Vet. Univ. nac. La Plata 6(1): 63 (1910)
 
 #### Original name
-Diaporthe gilliesiana Speg.
+Diaporthe gillesiana Speg.
 
 ### Remarks
 null

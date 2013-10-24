@@ -1,5 +1,4 @@
-Leptographium neomexicanum M.J. Wingf., T.C. Harr. & Crous SPECIES
-=======
+# Leptographium neomexicanum M.J. Wingf., T.C. Harr. & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora detrita (Hoffm.) Ach. SPECIES
-=======
+# Lecanora detrita (Hoffm.) Ach. SPECIES
 
 #### Status
 ACCEPTED

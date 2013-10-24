@@ -1,5 +1,4 @@
-Dichostereum kenyense Boidin & Lanq., 1981 SPECIES
-=======
+# Dichostereum kenyense Boidin & Lanq., 1981 SPECIES
 
 #### Status
 ACCEPTED

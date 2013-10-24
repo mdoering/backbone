@@ -1,5 +1,4 @@
-Discomycetella aquatica Sanwal SPECIES
-=======
+# Discomycetella aquatica Sanwal SPECIES
 
 #### Status
 ACCEPTED

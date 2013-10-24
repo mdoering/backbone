@@ -1,5 +1,4 @@
-Phyllosticta urticina Garb. SPECIES
-=======
+# Phyllosticta urticina Garb. SPECIES
 
 #### Status
 ACCEPTED

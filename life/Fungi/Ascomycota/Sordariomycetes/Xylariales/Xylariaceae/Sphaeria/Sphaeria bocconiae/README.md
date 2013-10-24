@@ -1,5 +1,4 @@
-Sphaeria bocconiae Cooke & Ellis SPECIES
-=======
+# Sphaeria bocconiae Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

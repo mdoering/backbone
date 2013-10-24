@@ -1,5 +1,4 @@
-Polysaccum crassipes var. crassipes VARIETY
-=======
+# Polysaccum crassipes DC. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Polysaccum crassipes var. crassipes
+Polysaccum crassipes DC.
 
 ### Remarks
 null

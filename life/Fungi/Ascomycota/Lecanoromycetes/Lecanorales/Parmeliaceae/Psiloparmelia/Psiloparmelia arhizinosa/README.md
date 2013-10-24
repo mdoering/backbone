@@ -1,5 +1,4 @@
-Psiloparmelia arhizinosa Hale SPECIES
-=======
+# Psiloparmelia arhizinosa Hale SPECIES
 
 #### Status
 ACCEPTED

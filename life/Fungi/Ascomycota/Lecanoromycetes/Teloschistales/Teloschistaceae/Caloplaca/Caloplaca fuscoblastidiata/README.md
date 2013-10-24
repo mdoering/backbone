@@ -1,5 +1,4 @@
-Caloplaca fuscoblastidiata Van den Boom & Etayo SPECIES
-=======
+# Caloplaca fuscoblastidiata Van den Boom & Etayo SPECIES
 
 #### Status
 ACCEPTED

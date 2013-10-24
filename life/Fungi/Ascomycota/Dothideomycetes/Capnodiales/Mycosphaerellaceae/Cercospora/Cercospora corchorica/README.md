@@ -1,5 +1,4 @@
-Cercospora corchorica Petr. & Cif. SPECIES
-=======
+# Cercospora corchorica Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

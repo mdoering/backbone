@@ -1,5 +1,4 @@
-Clavulina pilosa Corner SPECIES
-=======
+# Clavulina pilosa Corner SPECIES
 
 #### Status
 ACCEPTED

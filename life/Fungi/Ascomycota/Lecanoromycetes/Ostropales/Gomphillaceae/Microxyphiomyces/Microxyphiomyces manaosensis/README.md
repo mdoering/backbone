@@ -1,5 +1,4 @@
-Microxyphiomyces manaosensis Bat., Valle & Peres SPECIES
-=======
+# Microxyphiomyces manaosensis Bat., Valle & Peres SPECIES
 
 #### Status
 ACCEPTED

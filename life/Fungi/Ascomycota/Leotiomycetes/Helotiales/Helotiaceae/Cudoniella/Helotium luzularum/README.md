@@ -1,5 +1,4 @@
-Helotium luzularum Velen. SPECIES
-=======
+# Helotium luzularum Velen. SPECIES
 
 #### Status
 ACCEPTED

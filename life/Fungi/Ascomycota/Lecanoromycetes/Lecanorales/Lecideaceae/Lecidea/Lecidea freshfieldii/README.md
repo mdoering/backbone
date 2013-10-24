@@ -1,5 +1,4 @@
-Lecidea freshfieldii Vain. SPECIES
-=======
+# Lecidea freshfieldii Vain. SPECIES
 
 #### Status
 ACCEPTED

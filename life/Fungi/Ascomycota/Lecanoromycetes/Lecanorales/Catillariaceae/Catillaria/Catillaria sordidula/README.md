@@ -1,5 +1,4 @@
-Catillaria sordidula (Nyl.) Zahlbr. SPECIES
-=======
+# Catillaria sordidula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

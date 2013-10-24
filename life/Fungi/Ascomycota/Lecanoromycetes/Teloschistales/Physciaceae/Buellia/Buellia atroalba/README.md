@@ -1,5 +1,4 @@
-Buellia atroalba var. atroalba VARIETY
-=======
+# Buellia atroalba (Ach.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

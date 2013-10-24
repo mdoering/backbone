@@ -1,5 +1,4 @@
-Penicillium fuscoflavum S. Abe SPECIES
-=======
+# Penicillium fuscoflavum S. Abe SPECIES
 
 #### Status
 ACCEPTED

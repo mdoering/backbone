@@ -1,5 +1,4 @@
-Arthrospira Sitzenberger Ex Gomont, 1893 GENUS
-=======
+# Arthrospira Sitzenberger Ex Gomont, 1893 GENUS
 
 #### Status
 ACCEPTED

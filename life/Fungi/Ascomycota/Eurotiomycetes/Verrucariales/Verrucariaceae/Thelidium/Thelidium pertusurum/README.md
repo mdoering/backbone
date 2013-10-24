@@ -1,5 +1,4 @@
-Thelidium pertusurum (Nyl.) Zahlbr. SPECIES
-=======
+# Thelidium pertusurum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

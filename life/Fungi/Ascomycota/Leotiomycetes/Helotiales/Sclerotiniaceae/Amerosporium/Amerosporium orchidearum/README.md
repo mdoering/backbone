@@ -1,5 +1,4 @@
-Amerosporium orchidearum Speg. SPECIES
-=======
+# Amerosporium orchidearum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strickeria dendrostellerae Kravtzev SPECIES
-=======
+# Strickeria dendrostellerae Kravtzev SPECIES
 
 #### Status
 ACCEPTED

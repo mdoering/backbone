@@ -1,5 +1,4 @@
-Bartonella doshiae Birtles et al., 1995 SPECIES
-=======
+# Bartonella doshiae Birtles et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

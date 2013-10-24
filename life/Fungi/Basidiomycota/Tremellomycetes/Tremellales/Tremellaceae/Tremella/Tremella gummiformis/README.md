@@ -1,5 +1,4 @@
-Tremella gummiformis Speg. SPECIES
-=======
+# Tremella gummiformis Speg. SPECIES
 
 #### Status
 ACCEPTED

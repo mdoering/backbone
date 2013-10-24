@@ -1,5 +1,4 @@
-Puccinia grayiae Arthur SPECIES
-=======
+# Puccinia grayiae Arthur SPECIES
 
 #### Status
 ACCEPTED

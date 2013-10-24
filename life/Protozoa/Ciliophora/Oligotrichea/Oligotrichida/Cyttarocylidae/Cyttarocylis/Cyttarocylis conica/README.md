@@ -1,5 +1,4 @@
-Cyttarocylis conica Brandt, 1906 SPECIES
-=======
+# Cyttarocylis conica Brandt, 1906 SPECIES
 
 #### Status
 ACCEPTED

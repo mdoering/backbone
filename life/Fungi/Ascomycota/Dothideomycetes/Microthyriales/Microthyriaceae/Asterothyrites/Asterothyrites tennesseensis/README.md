@@ -1,5 +1,4 @@
-Asterothyrites tennesseensis Cookson SPECIES
-=======
+# Asterothyrites tennesseensis Cookson SPECIES
 
 #### Status
 ACCEPTED

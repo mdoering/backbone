@@ -1,5 +1,4 @@
-Rosalina bahamaensis SPECIES
-=======
+# Rosalina bahamaensis SPECIES
 
 #### Status
 ACCEPTED

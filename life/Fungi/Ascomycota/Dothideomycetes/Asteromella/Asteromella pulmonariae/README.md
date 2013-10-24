@@ -1,5 +1,4 @@
-Asteromella pulmonariae Moesz ex Bat. & Peres SPECIES
-=======
+# Asteromella pulmonariae Moesz ex Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

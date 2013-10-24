@@ -1,5 +1,4 @@
-Radulum stratosum A.L. Sm. SPECIES
-=======
+# Radulum stratosum A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

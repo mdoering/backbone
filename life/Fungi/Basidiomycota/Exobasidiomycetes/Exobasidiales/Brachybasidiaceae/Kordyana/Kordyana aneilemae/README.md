@@ -1,5 +1,4 @@
-Kordyana aneilemae Sawada SPECIES
-=======
+# Kordyana aneilemae Sawada SPECIES
 
 #### Status
 ACCEPTED

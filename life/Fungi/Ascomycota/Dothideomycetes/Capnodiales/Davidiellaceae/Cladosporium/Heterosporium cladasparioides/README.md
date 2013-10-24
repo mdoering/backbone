@@ -1,5 +1,4 @@
-Heterosporium cladasparioides Ellis & Everh. SPECIES
-=======
+# Heterosporium cladasparioides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

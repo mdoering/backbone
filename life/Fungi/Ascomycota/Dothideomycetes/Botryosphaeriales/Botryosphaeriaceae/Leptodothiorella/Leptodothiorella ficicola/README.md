@@ -1,5 +1,4 @@
-Leptodothiorella ficicola Kamal, P. Kumar & D.N. Shukla SPECIES
-=======
+# Leptodothiorella ficicola Kamal, P. Kumar & D.N. Shukla SPECIES
 
 #### Status
 ACCEPTED

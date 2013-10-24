@@ -1,5 +1,4 @@
-Ceratostomella conica (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Ceratostomella conica (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

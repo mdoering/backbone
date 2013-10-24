@@ -1,5 +1,4 @@
-Glaucotesta latiramosa Vavrdová, 1982 SPECIES
-=======
+# Glaucotesta latiramosa Vavrdová, 1982 SPECIES
 
 #### Status
 ACCEPTED

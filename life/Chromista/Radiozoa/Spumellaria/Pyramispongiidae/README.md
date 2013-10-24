@@ -1,5 +1,4 @@
-Pyramispongiidae Kozur & Mostler, 1978 FAMILY
-=======
+# Pyramispongiidae Kozur & Mostler, 1978 FAMILY
 
 #### Status
 ACCEPTED

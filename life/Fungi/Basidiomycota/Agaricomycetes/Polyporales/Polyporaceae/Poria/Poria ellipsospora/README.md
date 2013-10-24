@@ -1,5 +1,4 @@
-Poria ellipsospora (Ryvarden & Gilb.) Ginns SPECIES
-=======
+# Poria ellipsospora (Ryvarden & Gilb.) Ginns SPECIES
 
 #### Status
 ACCEPTED

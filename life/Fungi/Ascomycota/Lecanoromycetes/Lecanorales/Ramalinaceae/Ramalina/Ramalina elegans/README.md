@@ -1,5 +1,4 @@
-Ramalina elegans (Bagl. & Carestia) Sitzung. SPECIES
-=======
+# Ramalina elegans (Bagl. & Carestia) Sitzung. SPECIES
 
 #### Status
 ACCEPTED

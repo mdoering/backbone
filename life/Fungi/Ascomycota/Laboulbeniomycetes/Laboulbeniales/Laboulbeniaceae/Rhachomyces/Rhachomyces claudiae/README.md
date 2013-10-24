@@ -1,5 +1,4 @@
-Rhachomyces claudiae Balazuc SPECIES
-=======
+# Rhachomyces claudiae Balazuc SPECIES
 
 #### Status
 ACCEPTED

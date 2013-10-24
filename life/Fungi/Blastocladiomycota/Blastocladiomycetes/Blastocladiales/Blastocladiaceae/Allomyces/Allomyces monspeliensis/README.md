@@ -1,5 +1,4 @@
-Allomyces monspeliensis G. Arnaud SPECIES
-=======
+# Allomyces monspeliensis G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

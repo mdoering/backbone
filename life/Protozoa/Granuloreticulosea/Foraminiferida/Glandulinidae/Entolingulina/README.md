@@ -1,5 +1,4 @@
-Entolingulina Loeblich & Tappan, 1961 GENUS
-=======
+# Entolingulina Loeblich & Tappan, 1961 GENUS
 
 #### Status
 ACCEPTED

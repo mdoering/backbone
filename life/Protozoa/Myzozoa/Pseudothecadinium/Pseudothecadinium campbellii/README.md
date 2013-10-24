@@ -1,5 +1,4 @@
-Pseudothecadinium campbellii Hoppenrath & Selina, 2006 SPECIES
-=======
+# Pseudothecadinium campbellii Hoppenrath & Selina, 2006 SPECIES
 
 #### Status
 ACCEPTED

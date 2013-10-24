@@ -1,5 +1,4 @@
-Buellia lecanoricola Renob. SPECIES
-=======
+# Buellia lecanoricola Renob. SPECIES
 
 #### Status
 ACCEPTED

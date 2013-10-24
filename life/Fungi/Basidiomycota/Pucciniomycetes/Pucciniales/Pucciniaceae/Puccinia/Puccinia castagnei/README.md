@@ -1,5 +1,4 @@
-Puccinia castagnei J. Schröt. SPECIES
-=======
+# Puccinia castagnei J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

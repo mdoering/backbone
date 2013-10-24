@@ -1,5 +1,4 @@
-Lecidea chantriana Müll. Arg. SPECIES
-=======
+# Lecidea chantriana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

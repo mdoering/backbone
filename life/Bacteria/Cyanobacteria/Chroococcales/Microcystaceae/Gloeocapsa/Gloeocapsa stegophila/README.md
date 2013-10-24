@@ -1,5 +1,4 @@
-Gloeocapsa stegophila (Itzigsohn) Rabenhorst SPECIES
-=======
+# Gloeocapsa stegophila (Itzigsohn) Rabenhorst SPECIES
 
 #### Status
 ACCEPTED

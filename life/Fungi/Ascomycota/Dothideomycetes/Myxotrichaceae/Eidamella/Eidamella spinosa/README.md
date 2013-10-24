@@ -1,5 +1,4 @@
-Eidamella spinosa Matr. & Dassonv. SPECIES
-=======
+# Eidamella spinosa Matr. & Dassonv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Luedemannella Ara & Kudo, 2007 GENUS
-=======
+# Luedemannella Ara & Kudo, 2007 GENUS
 
 #### Status
 ACCEPTED

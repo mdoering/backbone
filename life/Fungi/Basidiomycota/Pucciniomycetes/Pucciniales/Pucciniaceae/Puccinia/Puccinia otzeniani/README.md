@@ -1,5 +1,4 @@
-Puccinia otzeniani Mennicken, W. Maier, Crous & Oberw. SPECIES
-=======
+# Puccinia otzeniani Mennicken, W. Maier, Crous & Oberw. SPECIES
 
 #### Status
 ACCEPTED

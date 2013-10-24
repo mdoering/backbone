@@ -1,5 +1,4 @@
-Cortinarius parafulmineus Rob. Henry SPECIES
-=======
+# Cortinarius parafulmineus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

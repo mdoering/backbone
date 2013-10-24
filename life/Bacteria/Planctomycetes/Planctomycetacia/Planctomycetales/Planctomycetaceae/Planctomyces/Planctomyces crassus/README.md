@@ -1,5 +1,4 @@
-Planctomyces crassus Hortob. SPECIES
-=======
+# Planctomyces crassus Hortob. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ticogloea G. Weber, Spaaij & W. Gams GENUS
-=======
+# Ticogloea G. Weber, Spaaij & W. Gams GENUS
 
 #### Status
 ACCEPTED

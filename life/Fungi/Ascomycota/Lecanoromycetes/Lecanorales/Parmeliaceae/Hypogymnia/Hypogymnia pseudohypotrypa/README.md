@@ -1,5 +1,4 @@
-Hypogymnia pseudohypotrypa (Asahina) J.C. Wei SPECIES
-=======
+# Hypogymnia pseudohypotrypa (Asahina) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia xantholepis Mont. & Bosch SPECIES
-=======
+# Parmelia xantholepis Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candida ogatae G. Péter, Tornai-Leh. & Dlauchy SPECIES
-=======
+# Candida ogatae G. Péter, Tornai-Leh. & Dlauchy SPECIES
 
 #### Status
 ACCEPTED

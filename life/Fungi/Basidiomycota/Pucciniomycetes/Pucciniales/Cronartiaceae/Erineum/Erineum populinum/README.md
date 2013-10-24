@@ -1,5 +1,4 @@
-Erineum populinum Schumach. SPECIES
-=======
+# Erineum populinum Schumach. SPECIES
 
 #### Status
 ACCEPTED

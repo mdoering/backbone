@@ -1,5 +1,4 @@
-Pluteus atrofuscens Hongo SPECIES
-=======
+# Pluteus atrofuscens Hongo SPECIES
 
 #### Status
 ACCEPTED

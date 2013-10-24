@@ -1,5 +1,4 @@
-Cantharomyces platensis Thaxt. SPECIES
-=======
+# Cantharomyces platensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

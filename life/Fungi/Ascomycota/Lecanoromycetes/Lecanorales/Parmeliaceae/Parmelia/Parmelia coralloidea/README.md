@@ -1,5 +1,4 @@
-Parmelia coralloidea SPECIES
-=======
+# Parmelia coralloidea SPECIES
 
 #### Status
 ACCEPTED

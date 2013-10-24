@@ -1,5 +1,4 @@
-Sporidesmium angustiobpyriforme Matsush. SPECIES
-=======
+# Sporidesmium angustiobpyriforme Matsush. SPECIES
 
 #### Status
 ACCEPTED

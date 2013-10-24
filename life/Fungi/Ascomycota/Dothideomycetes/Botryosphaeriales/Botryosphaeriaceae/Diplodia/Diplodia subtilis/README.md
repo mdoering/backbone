@@ -1,5 +1,4 @@
-Diplodia subtilis Bonord. SPECIES
-=======
+# Diplodia subtilis Bonord. SPECIES
 
 #### Status
 ACCEPTED

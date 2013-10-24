@@ -1,5 +1,4 @@
-Vanderwaltozyma Kurtzman GENUS
-=======
+# Vanderwaltozyma Kurtzman GENUS
 
 #### Status
 ACCEPTED

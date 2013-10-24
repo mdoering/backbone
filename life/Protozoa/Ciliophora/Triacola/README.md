@@ -1,5 +1,4 @@
-Triacola Weitschat & Guhl, 1994 GENUS
-=======
+# Triacola Weitschat & Guhl, 1994 GENUS
 
 #### Status
 ACCEPTED

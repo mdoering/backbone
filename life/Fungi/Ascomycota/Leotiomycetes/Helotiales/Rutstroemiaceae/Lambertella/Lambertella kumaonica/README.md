@@ -1,5 +1,4 @@
-Lambertella kumaonica V.P. Tewari & Ram N. Singh SPECIES
-=======
+# Lambertella kumaonica V.P. Tewari & Ram N. Singh SPECIES
 
 #### Status
 ACCEPTED

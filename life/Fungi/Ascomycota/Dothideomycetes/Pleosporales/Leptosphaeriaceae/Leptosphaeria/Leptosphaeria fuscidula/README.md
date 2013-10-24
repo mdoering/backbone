@@ -1,5 +1,4 @@
-Leptosphaeria fuscidula f. fuscidula FORM
-=======
+# Leptosphaeria fuscidula Pass. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptosphaeria fuscidula f. fuscidula
+Leptosphaeria fuscidula Pass.
 
 ### Remarks
 null

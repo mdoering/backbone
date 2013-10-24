@@ -1,5 +1,4 @@
-Cercospora aciculina Chupp SPECIES
-=======
+# Cercospora aciculina Chupp SPECIES
 
 #### Status
 ACCEPTED

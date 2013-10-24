@@ -1,5 +1,4 @@
-Mycena mariae G. Stev., 1964 SPECIES
-=======
+# Mycena mariae G. Stev., 1964 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tristephanium Haeckel, 1887 GENUS
-=======
+# Tristephanium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

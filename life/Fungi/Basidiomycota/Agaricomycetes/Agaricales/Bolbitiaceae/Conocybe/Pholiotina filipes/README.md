@@ -1,5 +1,4 @@
-Pholiotina filipes (G.F. Atk.) Singer SPECIES
-=======
+# Pholiotina filipes (G.F. Atk.) Singer SPECIES
 
 #### Status
 ACCEPTED

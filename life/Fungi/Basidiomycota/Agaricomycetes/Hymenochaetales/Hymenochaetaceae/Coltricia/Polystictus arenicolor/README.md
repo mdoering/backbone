@@ -1,5 +1,4 @@
-Polystictus arenicolor (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Polystictus arenicolor (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acanthonitschkea coloradensis E.K. Cash & R.W. Davidson SPECIES
-=======
+# Acanthonitschkea coloradensis E.K. Cash & R.W. Davidson SPECIES
 
 #### Status
 ACCEPTED

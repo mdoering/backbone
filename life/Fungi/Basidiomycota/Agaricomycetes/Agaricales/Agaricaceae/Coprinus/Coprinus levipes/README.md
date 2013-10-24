@@ -1,5 +1,4 @@
-Coprinus levipes Speg. SPECIES
-=======
+# Coprinus levipes Speg. SPECIES
 
 #### Status
 ACCEPTED

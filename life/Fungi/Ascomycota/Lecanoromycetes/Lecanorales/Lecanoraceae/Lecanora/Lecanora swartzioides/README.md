@@ -1,5 +1,4 @@
-Lecanora swartzioides (Nyl.) Motyka SPECIES
-=======
+# Lecanora swartzioides (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

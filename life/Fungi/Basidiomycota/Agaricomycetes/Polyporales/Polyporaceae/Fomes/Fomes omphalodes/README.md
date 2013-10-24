@@ -1,5 +1,4 @@
-Fomes omphalodes (Berk.) Sacc. SPECIES
-=======
+# Fomes omphalodes (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

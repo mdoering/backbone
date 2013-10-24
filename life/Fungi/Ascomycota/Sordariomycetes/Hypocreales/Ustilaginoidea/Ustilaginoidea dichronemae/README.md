@@ -1,5 +1,4 @@
-Ustilaginoidea dichronemae Henn. SPECIES
-=======
+# Ustilaginoidea dichronemae Henn. SPECIES
 
 #### Status
 ACCEPTED

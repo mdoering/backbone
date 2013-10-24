@@ -1,8 +1,7 @@
-Helminthosporium yamadai Y. Nisik. SPECIES
-=======
+# Helminthosporium yamadae Y. Nisik. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Helminthosporium yamadai Y. Nisik.
+Helminthosporium yamadae Y. Nisik.
 
 ### Remarks
 null

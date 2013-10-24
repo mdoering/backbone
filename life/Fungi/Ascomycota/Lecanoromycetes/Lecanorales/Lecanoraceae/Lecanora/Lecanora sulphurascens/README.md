@@ -1,5 +1,4 @@
-Lecanora sulphurascens Nyl. SPECIES
-=======
+# Lecanora sulphurascens Nyl. SPECIES
 
 #### Status
 ACCEPTED

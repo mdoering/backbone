@@ -1,5 +1,4 @@
-Clitopilus carnosa-tenax (Britzelm.) Sacc. SPECIES
-=======
+# Clitopilus carnosa-tenax (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

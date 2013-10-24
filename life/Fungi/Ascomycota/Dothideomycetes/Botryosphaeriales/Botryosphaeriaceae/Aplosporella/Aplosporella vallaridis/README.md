@@ -1,5 +1,4 @@
-Aplosporella vallaridis S. Ahmad SPECIES
-=======
+# Aplosporella vallaridis S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

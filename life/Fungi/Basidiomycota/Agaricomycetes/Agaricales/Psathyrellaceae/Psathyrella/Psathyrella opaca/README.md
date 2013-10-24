@@ -1,5 +1,4 @@
-Psathyrella opaca (Romagn.) M.M. Moser ex Kits van Wav. SPECIES
-=======
+# Psathyrella opaca (Romagn.) M.M. Moser ex Kits van Wav. SPECIES
 
 #### Status
 ACCEPTED

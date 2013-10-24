@@ -1,17 +1,16 @@
-Cytospora dubyi subsp. dubyi Sacc. SUBSPECIES
-=======
+# Cytospora dubyi Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syll. fung. (Abellini) 3: 270 (1884)
 
 #### Original name
-Cytospora dubyi subsp. dubyi Sacc.
+Cytospora dubyi Sacc., 1884
 
 ### Remarks
 null

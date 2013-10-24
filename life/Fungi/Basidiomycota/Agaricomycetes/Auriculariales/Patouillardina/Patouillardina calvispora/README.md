@@ -1,5 +1,4 @@
-Patouillardina calvispora anon. SPECIES
-=======
+# Patouillardina calvispora anon. SPECIES
 
 #### Status
 ACCEPTED

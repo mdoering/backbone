@@ -1,5 +1,4 @@
-Fusisporium pandani Corda SPECIES
-=======
+# Fusisporium pandani Corda SPECIES
 
 #### Status
 ACCEPTED

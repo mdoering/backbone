@@ -1,5 +1,4 @@
-Nematosporangium GENUS
-=======
+# Nematosporangium GENUS
 
 #### Status
 ACCEPTED

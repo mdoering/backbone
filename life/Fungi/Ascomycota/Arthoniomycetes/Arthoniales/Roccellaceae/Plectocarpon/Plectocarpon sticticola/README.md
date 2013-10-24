@@ -1,5 +1,4 @@
-Plectocarpon sticticola Ertz, Wedin & Diederich SPECIES
-=======
+# Plectocarpon sticticola Ertz, Wedin & Diederich SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramaria lutea (Vent.) Schild SPECIES
-=======
+# Ramaria lutea (Vent.) Schild SPECIES
 
 #### Status
 ACCEPTED

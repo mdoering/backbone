@@ -1,5 +1,4 @@
-Sphaerotheca sanguisorbae (DC.) S. Blumer SPECIES
-=======
+# Sphaerotheca sanguisorbae (DC.) S. Blumer SPECIES
 
 #### Status
 ACCEPTED

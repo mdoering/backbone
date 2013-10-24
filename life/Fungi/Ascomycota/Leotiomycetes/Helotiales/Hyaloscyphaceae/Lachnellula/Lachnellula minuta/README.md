@@ -1,5 +1,4 @@
-Lachnellula minuta Dharne SPECIES
-=======
+# Lachnellula minuta Dharne SPECIES
 
 #### Status
 ACCEPTED

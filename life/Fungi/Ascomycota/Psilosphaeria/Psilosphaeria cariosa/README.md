@@ -1,5 +1,4 @@
-Psilosphaeria cariosa (Cooke & Ellis) Cooke SPECIES
-=======
+# Psilosphaeria cariosa (Cooke & Ellis) Cooke SPECIES
 
 #### Status
 ACCEPTED

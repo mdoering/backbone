@@ -1,5 +1,4 @@
-Xenasmatella sanguinescens Svrcek SPECIES
-=======
+# Xenasmatella sanguinescens Svrcek SPECIES
 
 #### Status
 ACCEPTED

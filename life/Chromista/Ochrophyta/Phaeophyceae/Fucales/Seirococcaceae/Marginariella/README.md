@@ -1,5 +1,4 @@
-Marginariella Tandy, 1936 GENUS
-=======
+# Marginariella Tandy, 1936 GENUS
 
 #### Status
 ACCEPTED

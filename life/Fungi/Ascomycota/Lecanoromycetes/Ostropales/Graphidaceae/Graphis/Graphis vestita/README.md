@@ -1,5 +1,4 @@
-Graphis vestita Fée SPECIES
-=======
+# Graphis vestita Fée SPECIES
 
 #### Status
 ACCEPTED

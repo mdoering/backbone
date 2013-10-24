@@ -1,5 +1,4 @@
-Cryptosporella niesslii (J. Kunze) Sacc. SPECIES
-=======
+# Cryptosporella niesslii (J. Kunze) Sacc. SPECIES
 
 #### Status
 ACCEPTED

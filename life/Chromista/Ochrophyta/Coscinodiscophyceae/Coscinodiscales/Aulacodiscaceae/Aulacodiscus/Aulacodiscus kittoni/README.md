@@ -1,5 +1,4 @@
-Aulacodiscus kittoni SPECIES
-=======
+# Aulacodiscus kittoni SPECIES
 
 #### Status
 ACCEPTED

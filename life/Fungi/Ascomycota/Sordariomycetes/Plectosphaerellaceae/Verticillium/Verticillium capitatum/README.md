@@ -1,5 +1,4 @@
-Verticillium capitatum var. capitatum VARIETY
-=======
+# Verticillium capitatum Ehrenb. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Sylv. mycol. berol. (Berlin) 25 (1818)
 
 #### Original name
-Verticillium capitatum var. capitatum
+Verticillium capitatum Ehrenb.
 
 ### Remarks
 null

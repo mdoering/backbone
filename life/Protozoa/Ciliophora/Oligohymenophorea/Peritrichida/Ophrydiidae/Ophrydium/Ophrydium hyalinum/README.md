@@ -1,5 +1,4 @@
-Ophrydium hyalinum Wrzesniowski, 1877 SPECIES
-=======
+# Ophrydium hyalinum Wrzesniowski, 1877 SPECIES
 
 #### Status
 ACCEPTED

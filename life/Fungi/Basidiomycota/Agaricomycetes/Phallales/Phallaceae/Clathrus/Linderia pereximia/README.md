@@ -1,5 +1,4 @@
-Linderia pereximia (L.D. Gómez) L.D. Gómez SPECIES
-=======
+# Linderia pereximia (L.D. Gómez) L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

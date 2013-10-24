@@ -1,5 +1,4 @@
-Bacidia quintula (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia quintula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

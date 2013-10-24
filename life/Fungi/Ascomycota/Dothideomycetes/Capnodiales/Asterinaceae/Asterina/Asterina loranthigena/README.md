@@ -1,5 +1,4 @@
-Asterina loranthigena Hosag., D.K. Agarwal, H. Biju & Archana, 2006 SPECIES
-=======
+# Asterina loranthigena Hosag., D.K. Agarwal, H. Biju & Archana, 2006 SPECIES
 
 #### Status
 ACCEPTED

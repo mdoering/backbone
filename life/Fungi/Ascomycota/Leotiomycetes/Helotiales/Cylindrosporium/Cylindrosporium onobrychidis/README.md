@@ -1,14 +1,13 @@
-Rhabdospora onobrychidis P. Syd. SPECIES
-=======
+# Cylindrosporium onobrychidis (P. Syd.) Died., 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia, Beibl. 36(6): 163 (1897)
+Annls mycol. 10(5): 486 (1912)
 
 #### Original name
 Rhabdospora onobrychidis P. Syd.

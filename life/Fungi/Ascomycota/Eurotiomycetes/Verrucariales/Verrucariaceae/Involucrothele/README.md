@@ -1,5 +1,4 @@
-Involucrothele GENUS
-=======
+# Involucrothele GENUS
 
 #### Status
 ACCEPTED

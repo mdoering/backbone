@@ -1,5 +1,4 @@
-Gonyaulax ovata Matzenauer, 1933 SPECIES
-=======
+# Gonyaulax ovata Matzenauer, 1933 SPECIES
 
 #### Status
 ACCEPTED

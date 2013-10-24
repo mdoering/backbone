@@ -1,17 +1,16 @@
-Macrodiplis Clem. & Shear GENUS
-=======
+# Macrodiplodiopsis Petr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. fung. (Minneapolis), Edn 2 366 (1931)
+Annls mycol. 20(5/6): 343 (1922)
 
 #### Original name
-Macrodiplis Clem. & Shear
+Macrodiplodiopsis Petr.
 
 ### Remarks
 null

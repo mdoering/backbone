@@ -1,5 +1,4 @@
-Tulostoma cineraceum Long SPECIES
-=======
+# Tulostoma cineraceum Long SPECIES
 
 #### Status
 ACCEPTED

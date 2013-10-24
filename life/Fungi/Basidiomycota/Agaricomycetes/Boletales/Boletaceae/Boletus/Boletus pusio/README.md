@@ -1,5 +1,4 @@
-Boletus pusio J. Howse SPECIES
-=======
+# Boletus pusio J. Howse SPECIES
 
 #### Status
 ACCEPTED

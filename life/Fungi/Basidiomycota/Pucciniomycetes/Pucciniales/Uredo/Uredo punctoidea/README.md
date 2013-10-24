@@ -1,5 +1,4 @@
-Uredo punctoidea Cooke SPECIES
-=======
+# Uredo punctoidea Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coelotholus Haeckel, 1887 GENUS
-=======
+# Coelotholus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

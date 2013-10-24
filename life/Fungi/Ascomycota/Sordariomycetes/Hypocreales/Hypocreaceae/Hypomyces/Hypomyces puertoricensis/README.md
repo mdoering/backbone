@@ -1,5 +1,4 @@
-Hypomyces puertoricensis Samuels, K. Põldmaa & Lodge, 1997 SPECIES
-=======
+# Hypomyces puertoricensis Samuels, K. Põldmaa & Lodge, 1997 SPECIES
 
 #### Status
 ACCEPTED

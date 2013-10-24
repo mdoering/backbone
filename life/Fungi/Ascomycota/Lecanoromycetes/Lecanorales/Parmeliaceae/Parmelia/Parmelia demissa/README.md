@@ -1,5 +1,4 @@
-Parmelia demissa Körb. SPECIES
-=======
+# Parmelia demissa Körb. SPECIES
 
 #### Status
 ACCEPTED

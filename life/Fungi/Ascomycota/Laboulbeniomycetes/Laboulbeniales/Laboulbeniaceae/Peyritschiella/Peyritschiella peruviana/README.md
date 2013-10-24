@@ -1,5 +1,4 @@
-Peyritschiella peruviana (Thaxt.) I.I. Tav. SPECIES
-=======
+# Peyritschiella peruviana (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

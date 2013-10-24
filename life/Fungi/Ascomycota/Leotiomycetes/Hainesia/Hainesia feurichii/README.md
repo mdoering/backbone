@@ -1,5 +1,4 @@
-Hainesia feurichii Bubák SPECIES
-=======
+# Hainesia feurichii Bubák SPECIES
 
 #### Status
 ACCEPTED

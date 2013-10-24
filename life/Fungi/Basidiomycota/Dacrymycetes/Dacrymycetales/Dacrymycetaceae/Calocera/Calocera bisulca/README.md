@@ -1,5 +1,4 @@
-Calocera bisulca Lloyd SPECIES
-=======
+# Calocera bisulca Lloyd SPECIES
 
 #### Status
 ACCEPTED

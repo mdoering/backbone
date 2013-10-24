@@ -1,5 +1,4 @@
-Coleosporium heterothecae Hedgc. & N.R. Hunt SPECIES
-=======
+# Coleosporium heterothecae Hedgc. & N.R. Hunt SPECIES
 
 #### Status
 ACCEPTED

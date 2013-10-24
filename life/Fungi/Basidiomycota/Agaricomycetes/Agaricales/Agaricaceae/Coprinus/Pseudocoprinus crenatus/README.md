@@ -1,5 +1,4 @@
-Pseudocoprinus crenatus (Lasch) M.M. Moser SPECIES
-=======
+# Pseudocoprinus crenatus (Lasch) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

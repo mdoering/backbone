@@ -1,5 +1,4 @@
-Entoloma subcorvinum Hesler SPECIES
-=======
+# Entoloma subcorvinum Hesler SPECIES
 
 #### Status
 ACCEPTED

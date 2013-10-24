@@ -1,5 +1,4 @@
-Coniosporium maydis Ellis & Barthol. SPECIES
-=======
+# Coniosporium maydis Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Reedella Hasson, 1985 GENUS
-=======
+# Reedella Hasson, 1985 GENUS
 
 #### Status
 ACCEPTED

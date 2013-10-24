@@ -1,5 +1,4 @@
-Cylindrocolla fugax Sacc. SPECIES
-=======
+# Cylindrocolla fugax Sacc. SPECIES
 
 #### Status
 ACCEPTED

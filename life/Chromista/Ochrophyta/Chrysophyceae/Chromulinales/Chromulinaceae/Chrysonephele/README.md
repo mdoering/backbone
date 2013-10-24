@@ -1,5 +1,4 @@
-Chrysonephele L.D.Pipes, P.A.Tyler & G.F.Leedale, 1989 GENUS
-=======
+# Chrysonephele L.D.Pipes, P.A.Tyler & G.F.Leedale, 1989 GENUS
 
 #### Status
 ACCEPTED

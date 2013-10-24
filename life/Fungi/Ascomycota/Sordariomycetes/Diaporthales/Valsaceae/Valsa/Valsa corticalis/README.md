@@ -1,5 +1,4 @@
-Valsa corticalis Scop. SPECIES
-=======
+# Valsa corticalis Scop. SPECIES
 
 #### Status
 ACCEPTED

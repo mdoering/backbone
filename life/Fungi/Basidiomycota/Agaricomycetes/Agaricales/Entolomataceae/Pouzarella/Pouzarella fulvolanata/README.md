@@ -1,5 +1,4 @@
-Pouzarella fulvolanata (Berk. & Broome) Mazzer SPECIES
-=======
+# Pouzarella fulvolanata (Berk. & Broome) Mazzer SPECIES
 
 #### Status
 ACCEPTED

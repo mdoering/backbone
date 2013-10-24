@@ -1,5 +1,4 @@
-Thermomonas haemolytica Busse et al., 2002 SPECIES
-=======
+# Thermomonas haemolytica Busse et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

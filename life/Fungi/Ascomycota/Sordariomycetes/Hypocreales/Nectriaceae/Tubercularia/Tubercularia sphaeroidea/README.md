@@ -1,5 +1,4 @@
-Tubercularia sphaeroidea Cooke & Harkn. SPECIES
-=======
+# Tubercularia sphaeroidea Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

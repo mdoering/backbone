@@ -1,5 +1,4 @@
-Sordaria arachnoidea (Niessl) Sacc. & P. Syd. SPECIES
-=======
+# Sordaria arachnoidea (Niessl) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

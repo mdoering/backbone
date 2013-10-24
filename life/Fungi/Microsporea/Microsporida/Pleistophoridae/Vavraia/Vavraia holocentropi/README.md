@@ -1,5 +1,4 @@
-Vavraia holocentropi J.I.R. Larsson SPECIES
-=======
+# Vavraia holocentropi J.I.R. Larsson SPECIES
 
 #### Status
 ACCEPTED

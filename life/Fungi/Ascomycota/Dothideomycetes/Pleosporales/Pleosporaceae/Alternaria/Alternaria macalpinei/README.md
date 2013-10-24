@@ -1,5 +1,4 @@
-Alternaria macalpinei E.G. Simmons SPECIES
-=======
+# Alternaria macalpinei E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

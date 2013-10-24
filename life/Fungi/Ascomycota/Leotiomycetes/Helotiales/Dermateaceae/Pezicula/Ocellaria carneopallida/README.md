@@ -1,5 +1,4 @@
-Ocellaria carneopallida (P. Karst.) Sacc. SPECIES
-=======
+# Ocellaria carneopallida (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

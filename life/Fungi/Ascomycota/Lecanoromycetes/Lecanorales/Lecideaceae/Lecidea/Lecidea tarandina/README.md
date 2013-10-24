@@ -1,5 +1,4 @@
-Lecidea tarandina Nyl. SPECIES
-=======
+# Lecidea tarandina Nyl. SPECIES
 
 #### Status
 ACCEPTED

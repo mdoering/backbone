@@ -1,5 +1,4 @@
-Alternaria obclavoidea E.G. Simmons SPECIES
-=======
+# Alternaria obclavoidea E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

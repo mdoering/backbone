@@ -1,5 +1,4 @@
-Herpotrichia purpurea Ellis & Everh. SPECIES
-=======
+# Herpotrichia purpurea Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

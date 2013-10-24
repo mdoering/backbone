@@ -1,5 +1,4 @@
-Coniothyrium patouillardii Tassi SPECIES
-=======
+# Coniothyrium patouillardii Tassi SPECIES
 
 #### Status
 ACCEPTED

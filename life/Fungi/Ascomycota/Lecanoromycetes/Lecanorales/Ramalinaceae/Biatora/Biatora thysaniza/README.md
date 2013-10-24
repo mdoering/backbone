@@ -1,5 +1,4 @@
-Biatora thysaniza (Nyl.) Hellb. SPECIES
-=======
+# Biatora thysaniza (Nyl.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

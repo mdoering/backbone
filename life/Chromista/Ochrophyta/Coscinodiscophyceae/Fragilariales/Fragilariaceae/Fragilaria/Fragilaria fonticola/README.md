@@ -1,5 +1,4 @@
-Fragilaria fonticola Hustedt SPECIES
-=======
+# Fragilaria fonticola Hustedt SPECIES
 
 #### Status
 ACCEPTED

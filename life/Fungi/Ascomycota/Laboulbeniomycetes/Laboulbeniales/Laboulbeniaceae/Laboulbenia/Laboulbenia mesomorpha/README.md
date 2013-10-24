@@ -1,5 +1,4 @@
-Laboulbenia mesomorpha Speg. SPECIES
-=======
+# Laboulbenia mesomorpha Speg. SPECIES
 
 #### Status
 ACCEPTED

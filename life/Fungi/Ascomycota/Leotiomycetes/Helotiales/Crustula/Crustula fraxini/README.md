@@ -1,5 +1,4 @@
-Crustula fraxini Velen. SPECIES
-=======
+# Crustula fraxini Velen. SPECIES
 
 #### Status
 ACCEPTED

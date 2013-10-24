@@ -1,5 +1,4 @@
-Tuberculina andina Speg. SPECIES
-=======
+# Tuberculina andina Speg. SPECIES
 
 #### Status
 ACCEPTED

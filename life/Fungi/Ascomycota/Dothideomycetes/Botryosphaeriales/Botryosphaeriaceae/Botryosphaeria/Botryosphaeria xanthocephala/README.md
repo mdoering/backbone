@@ -1,17 +1,16 @@
-Botryosphaeria xanthocephala var. juglandis Theiss. VARIETY
-=======
+# Botryosphaeria xanthocephala (Syd., P. Syd. & E.J. Butler) Theiss., 1916 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 14(5): 327 (1916)
+Annls mycol. 14(5): 326 (1916)
 
 #### Original name
-Botryosphaeria xanthocephala var. juglandis Theiss.
+Physalospora xanthocephala Syd., P. Syd. & E.J. Butler, 1911
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Hydropus trichoderma var. labauensis Hauskn. & Krisai VARIETY
-=======
+# Hydropus trichoderma (Joss.) Singer, 1962 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Hausknecht, Krisai-Greilhuber & Klofac, Öst. Z. Pilzk. 6: 208 (1997)
+Agaric. mod. Tax. (Weinheim), Edn 2 389 (1962)
 
 #### Original name
-Hydropus trichoderma var. labauensis Hauskn. & Krisai
+null
 
 ### Remarks
 null

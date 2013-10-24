@@ -1,5 +1,4 @@
-Clitocybe polylepidicola Singer SPECIES
-=======
+# Clitocybe polylepidicola Singer SPECIES
 
 #### Status
 ACCEPTED

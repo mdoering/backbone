@@ -1,5 +1,4 @@
-Pseudoanguillospora gracilis R.C. Sinclair & Morgan-Jones, 1979 SPECIES
-=======
+# Pseudoanguillospora gracilis R.C. Sinclair & Morgan-Jones, 1979 SPECIES
 
 #### Status
 ACCEPTED

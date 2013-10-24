@@ -1,5 +1,4 @@
-Lewinella agarilytica Lee, 2007 SPECIES
-=======
+# Lewinella agarilytica Lee, 2007 SPECIES
 
 #### Status
 ACCEPTED

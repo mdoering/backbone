@@ -1,5 +1,4 @@
-Astrammina Rhumbler, 1931 GENUS
-=======
+# Astrammina Rhumbler, 1931 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chalara emodensis Nag Raj & W.B. Kendr. SPECIES
-=======
+# Chalara emodensis Nag Raj & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

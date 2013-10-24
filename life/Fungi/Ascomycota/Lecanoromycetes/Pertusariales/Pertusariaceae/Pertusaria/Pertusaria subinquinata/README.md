@@ -1,5 +1,4 @@
-Pertusaria subinquinata J. Steiner SPECIES
-=======
+# Pertusaria subinquinata J. Steiner SPECIES
 
 #### Status
 ACCEPTED

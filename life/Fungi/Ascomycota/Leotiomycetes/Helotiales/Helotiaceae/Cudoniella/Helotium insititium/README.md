@@ -1,5 +1,4 @@
-Helotium insititium P. Karst. SPECIES
-=======
+# Helotium insititium P. Karst. SPECIES
 
 #### Status
 ACCEPTED

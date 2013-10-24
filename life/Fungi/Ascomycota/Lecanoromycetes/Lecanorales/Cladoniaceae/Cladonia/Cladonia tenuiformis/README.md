@@ -1,5 +1,4 @@
-Cladonia tenuiformis Ahti SPECIES
-=======
+# Cladonia tenuiformis Ahti SPECIES
 
 #### Status
 ACCEPTED

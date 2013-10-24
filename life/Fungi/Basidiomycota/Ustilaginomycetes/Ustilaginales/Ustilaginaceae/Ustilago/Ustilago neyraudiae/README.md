@@ -1,5 +1,4 @@
-Ustilago neyraudiae Mundk. SPECIES
-=======
+# Ustilago neyraudiae Mundk. SPECIES
 
 #### Status
 ACCEPTED

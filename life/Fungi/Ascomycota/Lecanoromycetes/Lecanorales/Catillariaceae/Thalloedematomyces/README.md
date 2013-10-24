@@ -1,5 +1,4 @@
-Thalloedematomyces GENUS
-=======
+# Thalloedematomyces GENUS
 
 #### Status
 ACCEPTED

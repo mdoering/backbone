@@ -1,5 +1,4 @@
-Arthrobotrys ferox Onofri & S. Tosi SPECIES
-=======
+# Arthrobotrys ferox Onofri & S. Tosi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia compacta Cooke & W.R. Gerard SPECIES
-=======
+# Diplodia compacta Cooke & W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

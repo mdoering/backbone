@@ -1,5 +1,4 @@
-Parastigmatea taraktogenodis Hansf. SPECIES
-=======
+# Parastigmatea taraktogenodis Hansf. SPECIES
 
 #### Status
 ACCEPTED

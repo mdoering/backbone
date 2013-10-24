@@ -1,5 +1,4 @@
-Pleurochloris pyrenoidosa Pascher SPECIES
-=======
+# Pleurochloris pyrenoidosa Pascher SPECIES
 
 #### Status
 ACCEPTED

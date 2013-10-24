@@ -1,5 +1,4 @@
-Euphyllostictina Petrak & Sydow, 1927 GENUS
-=======
+# Euphyllostictina Petrak & Sydow, 1927 GENUS
 
 #### Status
 ACCEPTED

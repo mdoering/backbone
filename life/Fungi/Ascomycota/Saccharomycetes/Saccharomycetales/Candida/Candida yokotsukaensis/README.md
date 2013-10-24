@@ -1,5 +1,4 @@
-Candida yokotsukaensis Yokots. & Goto SPECIES
-=======
+# Candida yokotsukaensis Yokots. & Goto SPECIES
 
 #### Status
 ACCEPTED

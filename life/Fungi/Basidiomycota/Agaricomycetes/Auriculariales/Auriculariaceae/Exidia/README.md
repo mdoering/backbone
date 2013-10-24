@@ -1,17 +1,16 @@
-Spicularia Chevall. GENUS
-=======
+# Exidia E.M. Fries, 1822 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Fl. gén. env. Paris (Paris) 1: 94 (1826)
+null
 
 #### Original name
-Spicularia Chevall.
+null
 
 ### Remarks
 null

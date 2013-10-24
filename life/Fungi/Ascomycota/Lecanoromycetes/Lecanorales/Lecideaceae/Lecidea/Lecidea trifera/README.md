@@ -1,5 +1,4 @@
-Lecidea trifera Vain. SPECIES
-=======
+# Lecidea trifera Vain. SPECIES
 
 #### Status
 ACCEPTED

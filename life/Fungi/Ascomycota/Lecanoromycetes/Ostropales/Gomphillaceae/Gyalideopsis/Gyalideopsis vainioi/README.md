@@ -1,5 +1,4 @@
-Gyalideopsis vainioi Kalb & Vezda SPECIES
-=======
+# Gyalideopsis vainioi Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

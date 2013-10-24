@@ -1,5 +1,4 @@
-Armillariella camerunensis (Henn.) Singer SPECIES
-=======
+# Armillariella camerunensis (Henn.) Singer SPECIES
 
 #### Status
 ACCEPTED

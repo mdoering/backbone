@@ -1,5 +1,4 @@
-Dicellispora Sawada GENUS
-=======
+# Dicellispora Sawada GENUS
 
 #### Status
 ACCEPTED

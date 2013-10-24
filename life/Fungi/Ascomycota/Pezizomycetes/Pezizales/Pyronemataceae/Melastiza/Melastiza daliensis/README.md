@@ -1,5 +1,4 @@
-Melastiza daliensis W.Y. Zhuang SPECIES
-=======
+# Melastiza daliensis W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

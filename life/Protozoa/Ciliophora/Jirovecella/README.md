@@ -1,5 +1,4 @@
-Jirovecella Lom, 1957 GENUS
-=======
+# Jirovecella Lom, 1957 GENUS
 
 #### Status
 ACCEPTED

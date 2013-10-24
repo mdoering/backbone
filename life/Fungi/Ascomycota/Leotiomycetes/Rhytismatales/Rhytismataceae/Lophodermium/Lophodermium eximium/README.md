@@ -1,14 +1,13 @@
-Hypoderma eximium (Ces.) Kuntze, 1898 SPECIES
-=======
+# Lophodermium eximium Ces., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 487 (1898)
+in Rabenhorst, Hedwigia 21: 7 (1882)
 
 #### Original name
 Lophodermium eximium Ces., 1882

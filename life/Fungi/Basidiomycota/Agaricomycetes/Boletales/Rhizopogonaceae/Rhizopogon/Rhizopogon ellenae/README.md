@@ -1,5 +1,4 @@
-Rhizopogon ellenae A.H. Sm., 1966 SPECIES
-=======
+# Rhizopogon ellenae A.H. Sm., 1966 SPECIES
 
 #### Status
 ACCEPTED

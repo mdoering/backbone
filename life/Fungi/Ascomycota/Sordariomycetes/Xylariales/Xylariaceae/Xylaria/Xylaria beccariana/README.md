@@ -1,5 +1,4 @@
-Xylaria beccariana Pass. SPECIES
-=======
+# Xylaria beccariana Pass. SPECIES
 
 #### Status
 ACCEPTED

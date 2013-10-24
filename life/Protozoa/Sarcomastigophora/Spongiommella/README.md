@@ -1,5 +1,4 @@
-Spongiommella Haeckel, 1887 GENUS
-=======
+# Spongiommella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

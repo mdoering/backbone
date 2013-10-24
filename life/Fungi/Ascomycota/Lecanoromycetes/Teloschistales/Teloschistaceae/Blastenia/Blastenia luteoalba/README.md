@@ -1,5 +1,4 @@
-Blastenia luteoalba (A. Massal.) Müll. Arg. SPECIES
-=======
+# Blastenia luteoalba (A. Massal.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria subcaulescens Rebent. SPECIES
-=======
+# Clavaria subcaulescens Rebent. SPECIES
 
 #### Status
 ACCEPTED

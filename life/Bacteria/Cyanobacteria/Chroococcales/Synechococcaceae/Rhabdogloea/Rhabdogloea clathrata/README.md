@@ -1,5 +1,4 @@
-Rhabdogloea clathrata (W. West & G. S. West) J. Komárek SPECIES
-=======
+# Rhabdogloea clathrata (W. West & G. S. West) J. Komárek SPECIES
 
 #### Status
 ACCEPTED

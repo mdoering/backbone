@@ -1,5 +1,4 @@
-Sphaerella mucosa Starbäck SPECIES
-=======
+# Sphaerella mucosa Starbäck SPECIES
 
 #### Status
 ACCEPTED

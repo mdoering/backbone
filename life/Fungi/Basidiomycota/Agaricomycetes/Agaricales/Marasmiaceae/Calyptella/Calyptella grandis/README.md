@@ -1,5 +1,4 @@
-Calyptella grandis (Pat.) W.B. Cooke SPECIES
-=======
+# Calyptella grandis (Pat.) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

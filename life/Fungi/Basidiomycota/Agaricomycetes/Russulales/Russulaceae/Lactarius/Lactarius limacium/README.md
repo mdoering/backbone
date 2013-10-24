@@ -1,5 +1,4 @@
-Lactarius limacium Velen. SPECIES
-=======
+# Lactarius limacium Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Petalomonas sinuata Stein SPECIES
-=======
+# Petalomonas sinuata Stein SPECIES
 
 #### Status
 ACCEPTED

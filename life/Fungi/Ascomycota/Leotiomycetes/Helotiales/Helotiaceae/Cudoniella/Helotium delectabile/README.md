@@ -1,5 +1,4 @@
-Helotium delectabile Massee & Morgan SPECIES
-=======
+# Helotium delectabile Massee & Morgan SPECIES
 
 #### Status
 ACCEPTED

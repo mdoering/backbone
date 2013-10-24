@@ -1,5 +1,4 @@
-Rhodopaxillus nigrescens Romagn. SPECIES
-=======
+# Rhodopaxillus nigrescens Romagn. SPECIES
 
 #### Status
 ACCEPTED

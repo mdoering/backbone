@@ -1,5 +1,4 @@
-Persooniella fumosa (Holw.) Syd. SPECIES
-=======
+# Persooniella fumosa (Holw.) Syd. SPECIES
 
 #### Status
 ACCEPTED

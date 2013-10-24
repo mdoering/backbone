@@ -1,5 +1,4 @@
-Mycosphaerella filipendulae-denudatae Kamilov, 1973 SPECIES
-=======
+# Mycosphaerella filipendulae-denudatae Kamilov, 1973 SPECIES
 
 #### Status
 ACCEPTED

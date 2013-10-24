@@ -1,8 +1,7 @@
-Fuligo gyrosa (Rostaf.) E. Jahn, 1902 SPECIES
-=======
+# Physarum gyrosum Rostaf., 1874 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

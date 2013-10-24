@@ -1,5 +1,4 @@
-Dicranidion incarnatum (G.W. Martin) Peek & Solheim SPECIES
-=======
+# Dicranidion incarnatum (G.W. Martin) Peek & Solheim SPECIES
 
 #### Status
 ACCEPTED

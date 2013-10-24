@@ -1,5 +1,4 @@
-Cladonia piedmontensis G. Merr. SPECIES
-=======
+# Cladonia piedmontensis G. Merr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amblyosporium bicollum Costantin SPECIES
-=======
+# Amblyosporium bicollum Costantin SPECIES
 
 #### Status
 ACCEPTED

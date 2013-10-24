@@ -1,5 +1,4 @@
-Coccostaurus Haeckel, 1881 GENUS
-=======
+# Coccostaurus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

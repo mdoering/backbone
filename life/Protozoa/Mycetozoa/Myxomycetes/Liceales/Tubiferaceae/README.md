@@ -1,17 +1,16 @@
-Tubiferidae Poche, 1913 FAMILY
-=======
+# Tubiferaceae T. Macbr. FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Amer. Slime-Moulds (New York), Edn 2 203 (1899)
 
 #### Original name
-null
+Tubiferaceae T. Macbr.
 
 ### Remarks
 null

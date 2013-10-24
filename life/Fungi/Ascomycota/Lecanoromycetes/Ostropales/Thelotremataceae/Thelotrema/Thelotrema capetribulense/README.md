@@ -1,5 +1,4 @@
-Thelotrema capetribulense Mangold SPECIES
-=======
+# Thelotrema capetribulense Mangold SPECIES
 
 #### Status
 ACCEPTED

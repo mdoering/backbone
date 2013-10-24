@@ -1,5 +1,4 @@
-Phragmopyxis noelii J.W. Baxter, 1964 SPECIES
-=======
+# Phragmopyxis noelii J.W. Baxter, 1964 SPECIES
 
 #### Status
 ACCEPTED

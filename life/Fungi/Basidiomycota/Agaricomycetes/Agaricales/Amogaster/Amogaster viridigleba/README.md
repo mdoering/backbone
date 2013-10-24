@@ -1,5 +1,4 @@
-Amogaster viridigleba Castellano SPECIES
-=======
+# Amogaster viridigleba Castellano SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholomopsis resinosa A.H. Sm. SPECIES
-=======
+# Tricholomopsis resinosa A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

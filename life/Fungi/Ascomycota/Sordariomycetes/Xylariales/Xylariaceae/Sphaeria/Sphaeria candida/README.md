@@ -1,5 +1,4 @@
-Sphaeria candida Schwein. SPECIES
-=======
+# Sphaeria candida Schwein. SPECIES
 
 #### Status
 ACCEPTED

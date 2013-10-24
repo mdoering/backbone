@@ -1,5 +1,4 @@
-Pleuroskelidion Patterson, 1987 GENUS
-=======
+# Pleuroskelidion Patterson, 1987 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta dictyophora (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Sticta dictyophora (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

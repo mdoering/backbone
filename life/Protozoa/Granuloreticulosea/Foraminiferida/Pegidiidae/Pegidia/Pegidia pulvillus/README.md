@@ -1,5 +1,4 @@
-Pegidia pulvillus Heron-Allen & Earland, 1928 SPECIES
-=======
+# Pegidia pulvillus Heron-Allen & Earland, 1928 SPECIES
 
 #### Status
 ACCEPTED

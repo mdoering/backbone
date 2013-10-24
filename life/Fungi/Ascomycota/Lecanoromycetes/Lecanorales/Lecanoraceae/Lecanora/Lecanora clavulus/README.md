@@ -1,5 +1,4 @@
-Lecanora clavulus Stizenb. SPECIES
-=======
+# Lecanora clavulus Stizenb. SPECIES
 
 #### Status
 ACCEPTED

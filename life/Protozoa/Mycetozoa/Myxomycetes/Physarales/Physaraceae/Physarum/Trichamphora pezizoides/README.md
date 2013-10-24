@@ -1,5 +1,4 @@
-Trichamphora pezizoides Berk. SPECIES
-=======
+# Trichamphora pezizoides Berk. SPECIES
 
 #### Status
 ACCEPTED

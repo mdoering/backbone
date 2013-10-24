@@ -1,5 +1,4 @@
-Blastenia colensoi Müll. Arg. SPECIES
-=======
+# Blastenia colensoi Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

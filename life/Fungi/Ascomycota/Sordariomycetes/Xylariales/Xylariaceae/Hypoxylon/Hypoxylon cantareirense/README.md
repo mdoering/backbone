@@ -1,5 +1,4 @@
-Hypoxylon cantareirense Henn. SPECIES
-=======
+# Hypoxylon cantareirense Henn. SPECIES
 
 #### Status
 ACCEPTED

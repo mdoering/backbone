@@ -1,17 +1,16 @@
-Tilletia togwatii Guillem. SPECIES
-=======
+# Tilletia togwateei Guillem. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 80(3): 284 (1988)
 
 #### Original name
-Tilletia togwatii Guillem.
+Tilletia togwateei Guillem.
 
 ### Remarks
 null

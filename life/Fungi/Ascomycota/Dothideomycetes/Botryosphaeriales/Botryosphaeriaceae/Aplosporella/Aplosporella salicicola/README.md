@@ -1,5 +1,4 @@
-Aplosporella salicicola (Pass.) Petr. & Syd. SPECIES
-=======
+# Aplosporella salicicola (Pass.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

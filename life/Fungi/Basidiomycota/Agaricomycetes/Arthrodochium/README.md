@@ -1,5 +1,4 @@
-Arthrodochium R.F. Castañeda & W.B. Kendr. GENUS
-=======
+# Arthrodochium R.F. Castañeda & W.B. Kendr. GENUS
 
 #### Status
 ACCEPTED

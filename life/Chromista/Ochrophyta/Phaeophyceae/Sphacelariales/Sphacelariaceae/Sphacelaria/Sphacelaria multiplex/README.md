@@ -1,5 +1,4 @@
-Sphacelaria multiplex Womersley SPECIES
-=======
+# Sphacelaria multiplex Womersley SPECIES
 
 #### Status
 ACCEPTED

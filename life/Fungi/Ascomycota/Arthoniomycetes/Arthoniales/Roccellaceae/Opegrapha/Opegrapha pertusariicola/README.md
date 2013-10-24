@@ -1,5 +1,4 @@
-Opegrapha pertusariicola Coppins & P. James SPECIES
-=======
+# Opegrapha pertusariicola Coppins & P. James SPECIES
 
 #### Status
 ACCEPTED

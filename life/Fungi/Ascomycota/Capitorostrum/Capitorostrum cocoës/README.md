@@ -1,5 +1,4 @@
-Capitorostrum cocoës K.D. Hyde & Philemon, 1991 SPECIES
-=======
+# Capitorostrum cocoës K.D. Hyde & Philemon, 1991 SPECIES
 
 #### Status
 ACCEPTED

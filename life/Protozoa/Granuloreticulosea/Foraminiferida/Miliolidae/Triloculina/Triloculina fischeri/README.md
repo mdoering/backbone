@@ -1,5 +1,4 @@
-Triloculina fischeri Schlumberger, 1883 SPECIES
-=======
+# Triloculina fischeri Schlumberger, 1883 SPECIES
 
 #### Status
 ACCEPTED

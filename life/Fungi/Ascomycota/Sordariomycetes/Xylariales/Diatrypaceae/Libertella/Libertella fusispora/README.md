@@ -1,5 +1,4 @@
-Libertella fusispora anon. SPECIES
-=======
+# Libertella fusispora anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus lignicola Bird {?} & Grund SPECIES
-=======
+# Hygrophorus lignicola Bird {?} & Grund SPECIES
 
 #### Status
 ACCEPTED

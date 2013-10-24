@@ -1,5 +1,4 @@
-Mycosphaerella proteae (Syd. & P. Syd.) Arx SPECIES
-=======
+# Mycosphaerella proteae (Syd. & P. Syd.) Arx SPECIES
 
 #### Status
 ACCEPTED

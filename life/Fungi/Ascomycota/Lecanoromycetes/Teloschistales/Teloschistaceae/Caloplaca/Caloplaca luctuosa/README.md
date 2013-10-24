@@ -1,5 +1,4 @@
-Caloplaca luctuosa (Anzi) Jatta SPECIES
-=======
+# Caloplaca luctuosa (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia senecionis-scandentis Lindr. SPECIES
-=======
+# Puccinia senecionis-scandentis Lindr. SPECIES
 
 #### Status
 ACCEPTED

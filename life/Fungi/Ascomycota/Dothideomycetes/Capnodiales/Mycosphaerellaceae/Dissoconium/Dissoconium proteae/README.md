@@ -1,5 +1,4 @@
-Dissoconium proteae Crous SPECIES
-=======
+# Dissoconium proteae Crous SPECIES
 
 #### Status
 ACCEPTED

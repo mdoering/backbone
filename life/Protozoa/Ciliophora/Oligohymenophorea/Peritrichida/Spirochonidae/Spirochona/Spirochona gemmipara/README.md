@@ -1,5 +1,4 @@
-Spirochona gemmipara Stein, 1852 SPECIES
-=======
+# Spirochona gemmipara Stein, 1852 SPECIES
 
 #### Status
 ACCEPTED

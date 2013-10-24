@@ -1,14 +1,13 @@
-Cercospora ramischiae Melnik, 1965 SPECIES
-=======
+# Pseudocercospora ramischiae (Melnik) U. Braun & Melnik, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nov. sist. Niz. Rast. , 1965 151 (1965)
+Trudy Botanicheskogo Instituta im. V. L. Komarova 20: 87 (1997)
 
 #### Original name
 Cercospora ramischiae Melnik, 1965

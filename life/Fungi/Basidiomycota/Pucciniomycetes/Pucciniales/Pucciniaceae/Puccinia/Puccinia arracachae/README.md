@@ -1,5 +1,4 @@
-Puccinia arracachae Lagerh. & Lindr. SPECIES
-=======
+# Puccinia arracachae Lagerh. & Lindr. SPECIES
 
 #### Status
 ACCEPTED

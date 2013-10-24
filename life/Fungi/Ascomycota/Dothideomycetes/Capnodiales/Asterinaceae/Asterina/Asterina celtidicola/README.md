@@ -1,5 +1,4 @@
-Asterina celtidicola Henn. SPECIES
-=======
+# Asterina celtidicola Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma helveticum (J. Schröt.) Kuntze SPECIES
-=======
+# Dicaeoma helveticum (J. Schröt.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

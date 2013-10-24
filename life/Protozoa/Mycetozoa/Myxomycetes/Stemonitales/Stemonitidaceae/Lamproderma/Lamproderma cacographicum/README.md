@@ -1,5 +1,4 @@
-Lamproderma cacographicum Bozonnet, Mar.Mey. & Poulain, 1997 SPECIES
-=======
+# Lamproderma cacographicum Bozonnet, Mar.Mey. & Poulain, 1997 SPECIES
 
 #### Status
 ACCEPTED

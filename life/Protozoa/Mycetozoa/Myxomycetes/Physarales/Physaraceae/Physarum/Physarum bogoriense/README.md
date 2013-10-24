@@ -1,17 +1,16 @@
-Physarum bogoriense var. matsumotoi Y. Yamam. VARIETY
-=======
+# Physarum bogoriense Racib., 1898 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. natn. Sci. Mus. , Tokyo, B 26(3): 116 (2000)
+Hedwigia 37: 52 (1898)
 
 #### Original name
-Physarum bogoriense var. matsumotoi Y. Yamam.
+Physarum bogoriense Racib., 1898
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Collema papulosum Ach. SPECIES
-=======
+# Collema papulosum Ach. SPECIES
 
 #### Status
 ACCEPTED

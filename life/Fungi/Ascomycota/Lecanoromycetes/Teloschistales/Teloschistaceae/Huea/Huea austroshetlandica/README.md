@@ -1,5 +1,4 @@
-Huea austroshetlandica (Zahlbr.) C.W. Dodge SPECIES
-=======
+# Huea austroshetlandica (Zahlbr.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

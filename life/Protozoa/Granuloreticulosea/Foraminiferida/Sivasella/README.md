@@ -1,5 +1,4 @@
-Sivasella Sirel & Gunduz, 1978 GENUS
-=======
+# Sivasella Sirel & Gunduz, 1978 GENUS
 
 #### Status
 ACCEPTED

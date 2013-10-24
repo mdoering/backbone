@@ -1,5 +1,4 @@
-Staurospira Haeckel, 1887 GENUS
-=======
+# Staurospira Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

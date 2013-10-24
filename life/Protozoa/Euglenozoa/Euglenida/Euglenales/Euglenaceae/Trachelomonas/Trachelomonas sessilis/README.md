@@ -1,5 +1,4 @@
-Trachelomonas sessilis var. minima Playfair VARIETY
-=======
+# Trachelomonas sessilis Playfair SPECIES
 
 #### Status
 ACCEPTED

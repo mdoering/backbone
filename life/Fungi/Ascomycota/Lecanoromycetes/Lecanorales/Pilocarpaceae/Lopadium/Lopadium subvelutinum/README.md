@@ -1,5 +1,4 @@
-Lopadium subvelutinum (Vain.) Zahlbr. SPECIES
-=======
+# Lopadium subvelutinum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

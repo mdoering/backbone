@@ -1,5 +1,4 @@
-Ophiobolus microstomus Speg. SPECIES
-=======
+# Ophiobolus microstomus Speg. SPECIES
 
 #### Status
 ACCEPTED

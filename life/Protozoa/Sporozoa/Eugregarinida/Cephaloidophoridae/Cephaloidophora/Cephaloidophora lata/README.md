@@ -1,5 +1,4 @@
-Cephaloidophora lata Hoshide, 1958 SPECIES
-=======
+# Cephaloidophora lata Hoshide, 1958 SPECIES
 
 #### Status
 ACCEPTED

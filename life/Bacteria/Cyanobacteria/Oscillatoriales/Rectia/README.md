@@ -1,5 +1,4 @@
-Rectia T.V. Jankauskas, 1989 GENUS
-=======
+# Rectia T.V. Jankauskas, 1989 GENUS
 
 #### Status
 ACCEPTED

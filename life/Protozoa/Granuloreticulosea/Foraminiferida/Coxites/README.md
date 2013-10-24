@@ -1,5 +1,4 @@
-Coxites Smout, 1956 GENUS
-=======
+# Coxites Smout, 1956 GENUS
 
 #### Status
 ACCEPTED

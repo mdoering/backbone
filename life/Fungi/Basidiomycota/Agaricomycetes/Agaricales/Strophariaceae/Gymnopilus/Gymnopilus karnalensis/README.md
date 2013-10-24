@@ -1,5 +1,4 @@
-Gymnopilus karnalensis S.M. Kulk. SPECIES
-=======
+# Gymnopilus karnalensis S.M. Kulk. SPECIES
 
 #### Status
 ACCEPTED

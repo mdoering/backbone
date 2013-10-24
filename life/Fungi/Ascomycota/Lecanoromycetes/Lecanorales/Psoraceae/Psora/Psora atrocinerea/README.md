@@ -1,5 +1,4 @@
-Psora atrocinerea Hepp SPECIES
-=======
+# Psora atrocinerea Hepp SPECIES
 
 #### Status
 ACCEPTED

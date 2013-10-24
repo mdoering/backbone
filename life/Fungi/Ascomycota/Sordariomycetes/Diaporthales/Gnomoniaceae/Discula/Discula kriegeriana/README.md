@@ -1,5 +1,4 @@
-Discula kriegeriana (Bres.) Arx, 1957 SPECIES
-=======
+# Discula kriegeriana (Bres.) Arx, 1957 SPECIES
 
 #### Status
 ACCEPTED

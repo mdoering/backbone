@@ -1,5 +1,4 @@
-Teichospora aberrans Rehm SPECIES
-=======
+# Teichospora aberrans Rehm SPECIES
 
 #### Status
 ACCEPTED

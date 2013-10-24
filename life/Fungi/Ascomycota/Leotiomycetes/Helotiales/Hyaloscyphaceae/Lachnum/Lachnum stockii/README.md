@@ -1,5 +1,4 @@
-Lachnum stockii (Cooke & W. Phillips) SPECIES
-=======
+# Lachnum stockii (Cooke & W. Phillips) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Collema substipitatum var. substipitatum VARIETY
-=======
+# Collema substipitatum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Collema substipitatum var. substipitatum
+Collema substipitatum Zahlbr.
 
 ### Remarks
 null

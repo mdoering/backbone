@@ -1,5 +1,4 @@
-Uredo dolichospora Kalchbr. SPECIES
-=======
+# Uredo dolichospora Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina ditricha Kalchbr. & Cooke SPECIES
-=======
+# Asterina ditricha Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

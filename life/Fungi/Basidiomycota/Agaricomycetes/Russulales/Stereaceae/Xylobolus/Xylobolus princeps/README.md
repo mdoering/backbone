@@ -1,14 +1,13 @@
-Thelephora princeps Jungh., 1838 SPECIES
-=======
+# Xylobolus princeps (Jungh.) Boidin, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Praemissa in floram cryptogamicam Javae insulae (Batavia) 1: 38 (1838)
+Revue Mycol. , Paris 23: 341 (1958)
 
 #### Original name
 Thelephora princeps Jungh., 1838

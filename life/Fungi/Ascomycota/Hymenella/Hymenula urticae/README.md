@@ -1,5 +1,4 @@
-Hymenula urticae Har. & Briard SPECIES
-=======
+# Hymenula urticae Har. & Briard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Periconiella harunganae (Hansf.) de Hoog SPECIES
-=======
+# Periconiella harunganae (Hansf.) de Hoog SPECIES
 
 #### Status
 ACCEPTED

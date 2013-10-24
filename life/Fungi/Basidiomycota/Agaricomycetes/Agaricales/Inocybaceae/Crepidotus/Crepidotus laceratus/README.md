@@ -1,5 +1,4 @@
-Crepidotus laceratus Pat. SPECIES
-=======
+# Crepidotus laceratus Pat. SPECIES
 
 #### Status
 ACCEPTED

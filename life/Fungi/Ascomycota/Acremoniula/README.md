@@ -1,5 +1,4 @@
-Acremoniula G. Arnaud ex Ciferri, 1962 GENUS
-=======
+# Acremoniula G. Arnaud ex Ciferri, 1962 GENUS
 
 #### Status
 ACCEPTED

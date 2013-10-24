@@ -1,5 +1,4 @@
-Cordyceps hawkesii Gray SPECIES
-=======
+# Cordyceps hawkesii Gray SPECIES
 
 #### Status
 ACCEPTED

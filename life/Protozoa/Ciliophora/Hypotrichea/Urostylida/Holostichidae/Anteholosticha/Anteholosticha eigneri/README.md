@@ -1,5 +1,4 @@
-Anteholosticha eigneri Shao et al., 2009 SPECIES
-=======
+# Anteholosticha eigneri Shao et al., 2009 SPECIES
 
 #### Status
 ACCEPTED

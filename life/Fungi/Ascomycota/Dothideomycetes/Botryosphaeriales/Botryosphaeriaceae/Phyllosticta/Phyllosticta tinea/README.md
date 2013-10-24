@@ -1,5 +1,4 @@
-Phyllosticta tinea Sacc. SPECIES
-=======
+# Phyllosticta tinea Sacc. SPECIES
 
 #### Status
 ACCEPTED

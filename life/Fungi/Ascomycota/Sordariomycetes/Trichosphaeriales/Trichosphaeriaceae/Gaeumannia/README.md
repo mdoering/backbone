@@ -1,5 +1,4 @@
-Gaeumannia GENUS
-=======
+# Gaeumannia GENUS
 
 #### Status
 ACCEPTED

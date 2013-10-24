@@ -1,5 +1,4 @@
-Phoma stigma Cooke & Harkn. SPECIES
-=======
+# Phoma stigma Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

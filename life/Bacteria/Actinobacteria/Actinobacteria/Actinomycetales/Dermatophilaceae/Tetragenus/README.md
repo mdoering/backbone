@@ -1,5 +1,4 @@
-Tetragenus GENUS
-=======
+# Tetragenus GENUS
 
 #### Status
 ACCEPTED

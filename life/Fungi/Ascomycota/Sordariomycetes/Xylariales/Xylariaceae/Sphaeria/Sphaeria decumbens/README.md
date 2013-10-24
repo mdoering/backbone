@@ -1,5 +1,4 @@
-Sphaeria decumbens J.C. Schmidt ex Fr. SPECIES
-=======
+# Sphaeria decumbens J.C. Schmidt ex Fr. SPECIES
 
 #### Status
 ACCEPTED

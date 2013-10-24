@@ -1,5 +1,4 @@
-Pithomyces cinnamomeus Hol.-Jech. SPECIES
-=======
+# Pithomyces cinnamomeus Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

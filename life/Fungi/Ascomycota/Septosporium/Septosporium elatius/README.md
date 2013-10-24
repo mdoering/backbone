@@ -1,5 +1,4 @@
-Septosporium elatius Grove SPECIES
-=======
+# Septosporium elatius Grove SPECIES
 
 #### Status
 ACCEPTED

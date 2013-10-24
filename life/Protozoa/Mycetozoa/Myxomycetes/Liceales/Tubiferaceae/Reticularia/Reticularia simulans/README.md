@@ -1,5 +1,4 @@
-Reticularia simulans (Rostaf.) D.W. Mitch., 2004 SPECIES
-=======
+# Reticularia simulans (Rostaf.) D.W. Mitch., 2004 SPECIES
 
 #### Status
 ACCEPTED

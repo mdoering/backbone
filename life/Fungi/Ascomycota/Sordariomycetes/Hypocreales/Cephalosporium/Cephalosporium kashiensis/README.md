@@ -1,5 +1,4 @@
-Cephalosporium kashiensis R.Y. Roy & G.N. Singh SPECIES
-=======
+# Cephalosporium kashiensis R.Y. Roy & G.N. Singh SPECIES
 
 #### Status
 ACCEPTED

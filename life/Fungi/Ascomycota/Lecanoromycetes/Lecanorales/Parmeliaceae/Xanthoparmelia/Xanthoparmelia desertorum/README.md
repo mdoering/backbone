@@ -1,5 +1,4 @@
-Xanthoparmelia desertorum (Elenkin) Hale SPECIES
-=======
+# Xanthoparmelia desertorum (Elenkin) Hale SPECIES
 
 #### Status
 ACCEPTED

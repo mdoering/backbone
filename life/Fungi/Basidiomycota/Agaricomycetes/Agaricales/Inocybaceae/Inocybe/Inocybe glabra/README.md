@@ -1,17 +1,16 @@
-Inocybe glaber Kauffman SPECIES
-=======
+# Inocybe glabra Kauffman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Publications Mich. geol. biol. Surv. , Biol. Ser. 5 26: 468 (1918)
 
 #### Original name
-Inocybe glaber Kauffman
+Inocybe glabra Kauffman
 
 ### Remarks
 null

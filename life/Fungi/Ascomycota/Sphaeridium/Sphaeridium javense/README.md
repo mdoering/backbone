@@ -1,5 +1,4 @@
-Sphaeridium javense Höhn. SPECIES
-=======
+# Sphaeridium javense Höhn. SPECIES
 
 #### Status
 ACCEPTED

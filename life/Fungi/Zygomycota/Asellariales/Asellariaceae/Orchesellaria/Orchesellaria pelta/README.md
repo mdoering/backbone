@@ -1,5 +1,4 @@
-Orchesellaria pelta Lichtw., 1984 SPECIES
-=======
+# Orchesellaria pelta Lichtw., 1984 SPECIES
 
 #### Status
 ACCEPTED

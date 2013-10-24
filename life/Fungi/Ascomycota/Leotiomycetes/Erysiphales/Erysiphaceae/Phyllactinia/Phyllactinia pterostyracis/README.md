@@ -1,5 +1,4 @@
-Phyllactinia pterostyracis Y.N. Yu & S.J. Han SPECIES
-=======
+# Phyllactinia pterostyracis Y.N. Yu & S.J. Han SPECIES
 
 #### Status
 ACCEPTED

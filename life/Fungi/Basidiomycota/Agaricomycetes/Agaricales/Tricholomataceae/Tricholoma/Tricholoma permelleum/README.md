@@ -1,5 +1,4 @@
-Tricholoma permelleum Corner SPECIES
-=======
+# Tricholoma permelleum Corner SPECIES
 
 #### Status
 ACCEPTED

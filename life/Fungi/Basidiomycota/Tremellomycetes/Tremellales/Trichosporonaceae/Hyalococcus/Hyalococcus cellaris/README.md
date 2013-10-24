@@ -1,5 +1,4 @@
-Hyalococcus cellaris Hansgirg {?} SPECIES
-=======
+# Hyalococcus cellaris Hansgirg {?} SPECIES
 
 #### Status
 ACCEPTED

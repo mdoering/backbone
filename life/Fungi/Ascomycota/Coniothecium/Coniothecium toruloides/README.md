@@ -1,5 +1,4 @@
-Coniothecium toruloides Corda SPECIES
-=======
+# Coniothecium toruloides Corda SPECIES
 
 #### Status
 ACCEPTED

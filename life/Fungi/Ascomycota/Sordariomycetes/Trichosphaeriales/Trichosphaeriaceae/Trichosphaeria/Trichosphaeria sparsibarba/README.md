@@ -1,5 +1,4 @@
-Trichosphaeria sparsibarba Petch SPECIES
-=======
+# Trichosphaeria sparsibarba Petch SPECIES
 
 #### Status
 ACCEPTED

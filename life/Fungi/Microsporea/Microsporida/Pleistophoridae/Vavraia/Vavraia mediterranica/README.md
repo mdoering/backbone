@@ -1,5 +1,4 @@
-Vavraia mediterranica SPECIES
-=======
+# Vavraia mediterranica SPECIES
 
 #### Status
 ACCEPTED

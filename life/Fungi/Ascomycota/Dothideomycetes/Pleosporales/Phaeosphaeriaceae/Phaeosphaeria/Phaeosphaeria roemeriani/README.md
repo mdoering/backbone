@@ -1,5 +1,4 @@
-Phaeosphaeria roemeriani Kohlm., Volkm.-Kohlm. & O.E. Erikss., 1998 SPECIES
-=======
+# Phaeosphaeria roemeriani Kohlm., Volkm.-Kohlm. & O.E. Erikss., 1998 SPECIES
 
 #### Status
 ACCEPTED

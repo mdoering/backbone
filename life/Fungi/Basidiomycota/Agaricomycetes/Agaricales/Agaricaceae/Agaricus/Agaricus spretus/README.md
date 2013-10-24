@@ -1,5 +1,4 @@
-Agaricus spretus Peck SPECIES
-=======
+# Agaricus spretus Peck SPECIES
 
 #### Status
 ACCEPTED

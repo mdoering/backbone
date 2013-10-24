@@ -1,5 +1,4 @@
-Biatorella globulispora (Nyl.) Zahlbr. SPECIES
-=======
+# Biatorella globulispora (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

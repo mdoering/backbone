@@ -1,5 +1,4 @@
-Catastoma pedicellatum Morgan SPECIES
-=======
+# Catastoma pedicellatum Morgan SPECIES
 
 #### Status
 ACCEPTED

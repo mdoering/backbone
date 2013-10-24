@@ -1,5 +1,4 @@
-Septoria cortusae Solkina SPECIES
-=======
+# Septoria cortusae Solkina SPECIES
 
 #### Status
 ACCEPTED

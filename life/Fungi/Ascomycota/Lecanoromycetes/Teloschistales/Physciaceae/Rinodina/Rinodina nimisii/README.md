@@ -1,5 +1,4 @@
-Rinodina nimisii Giralt & H. Mayrhofer SPECIES
-=======
+# Rinodina nimisii Giralt & H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dactylaria rigidiphora (Matsush.) de Hoog SPECIES
-=======
+# Dactylaria rigidiphora (Matsush.) de Hoog SPECIES
 
 #### Status
 ACCEPTED

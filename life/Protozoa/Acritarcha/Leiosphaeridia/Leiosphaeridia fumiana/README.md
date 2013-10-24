@@ -1,5 +1,4 @@
-Leiosphaeridia fumiana Vanguestaine, 1974 SPECIES
-=======
+# Leiosphaeridia fumiana Vanguestaine, 1974 SPECIES
 
 #### Status
 ACCEPTED

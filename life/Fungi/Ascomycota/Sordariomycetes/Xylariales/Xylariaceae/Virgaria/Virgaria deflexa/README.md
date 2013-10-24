@@ -1,5 +1,4 @@
-Virgaria deflexa (Preuss) Sacc. SPECIES
-=======
+# Virgaria deflexa (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

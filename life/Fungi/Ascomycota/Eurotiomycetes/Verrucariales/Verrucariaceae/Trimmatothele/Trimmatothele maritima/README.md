@@ -1,14 +1,13 @@
-Lesdainea maritima Harm. SPECIES
-=======
+# Trimmatothele maritima (Harm.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Recherch. Lich. Dunkerque (1910)
+null
 
 #### Original name
 Lesdainea maritima Harm.

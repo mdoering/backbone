@@ -1,5 +1,4 @@
-Berkleasmium leonense M.B. Ellis, 1976 SPECIES
-=======
+# Berkleasmium leonense M.B. Ellis, 1976 SPECIES
 
 #### Status
 ACCEPTED

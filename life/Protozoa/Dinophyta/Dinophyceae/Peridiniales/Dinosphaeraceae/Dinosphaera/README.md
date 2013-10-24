@@ -1,5 +1,4 @@
-Dinosphaera Kofoid & Michener, 1912 GENUS
-=======
+# Dinosphaera Kofoid & Michener, 1912 GENUS
 
 #### Status
 ACCEPTED

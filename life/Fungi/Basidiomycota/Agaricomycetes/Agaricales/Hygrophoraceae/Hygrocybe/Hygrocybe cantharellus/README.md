@@ -1,17 +1,16 @@
-Hygrophorus cantharellus var. cantharellus VARIETY
-=======
+# Hygrocybe cantharellus (Schwein.) Murrill, 1911 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 329 (1838)
+Mycologia 3(4): 196 (1911)
 
 #### Original name
-Hygrophorus cantharellus var. cantharellus
+Agaricus cantharellus Schwein., 1822
 
 ### Remarks
 null

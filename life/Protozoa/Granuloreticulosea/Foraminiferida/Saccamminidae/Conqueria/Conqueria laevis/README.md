@@ -1,5 +1,4 @@
-Conqueria laevis Gooday & Pawlowski, 2004 SPECIES
-=======
+# Conqueria laevis Gooday & Pawlowski, 2004 SPECIES
 
 #### Status
 ACCEPTED

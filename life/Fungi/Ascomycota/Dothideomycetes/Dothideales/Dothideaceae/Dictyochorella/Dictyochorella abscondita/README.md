@@ -1,5 +1,4 @@
-Dictyochorella abscondita Theiss. & Syd. SPECIES
-=======
+# Dictyochorella abscondita Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma vignae Henn. SPECIES
-=======
+# Phoma vignae Henn. SPECIES
 
 #### Status
 ACCEPTED

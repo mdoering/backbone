@@ -1,5 +1,4 @@
-Astero campaceltis Npv SPECIES
-=======
+# Astero campaceltis Npv SPECIES
 
 #### Status
 ACCEPTED

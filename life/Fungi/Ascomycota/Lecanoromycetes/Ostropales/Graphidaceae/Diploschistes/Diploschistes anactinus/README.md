@@ -1,5 +1,4 @@
-Diploschistes anactinus (Nyl.) Zahlbr. SPECIES
-=======
+# Diploschistes anactinus (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

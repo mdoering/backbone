@@ -1,5 +1,4 @@
-Globulina regina (Brady, Parker & Jones) SPECIES
-=======
+# Globulina regina (Brady, Parker & Jones) SPECIES
 
 #### Status
 ACCEPTED

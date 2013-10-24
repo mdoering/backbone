@@ -1,5 +1,4 @@
-Pleuropus leptonia (Peck) Murrill SPECIES
-=======
+# Pleuropus leptonia (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

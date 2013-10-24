@@ -1,5 +1,4 @@
-Boletus caribaeus (Singer) Singer SPECIES
-=======
+# Boletus caribaeus (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

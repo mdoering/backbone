@@ -1,5 +1,4 @@
-Physalospora carpogena G.F. Atk. SPECIES
-=======
+# Physalospora carpogena G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

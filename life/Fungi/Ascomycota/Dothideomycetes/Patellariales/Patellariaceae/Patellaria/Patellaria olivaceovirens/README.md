@@ -1,5 +1,4 @@
-Patellaria olivaceovirens (Schwein.) Fr. SPECIES
-=======
+# Patellaria olivaceovirens (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

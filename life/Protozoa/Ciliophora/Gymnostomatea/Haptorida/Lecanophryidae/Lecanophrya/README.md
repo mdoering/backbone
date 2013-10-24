@@ -1,5 +1,4 @@
-Lecanophrya Jankowski, 1994 GENUS
-=======
+# Lecanophrya Jankowski, 1994 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoidium testaceum (Speg.) M.B. Ellis SPECIES
-=======
+# Septoidium testaceum (Speg.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

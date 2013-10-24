@@ -1,5 +1,4 @@
-Hemitrichia mellea Nann.-Bremek. & Loer., 1981 SPECIES
-=======
+# Hemitrichia mellea Nann.-Bremek. & Loer., 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius amanitopsidoides Rob. Henry SPECIES
-=======
+# Cortinarius amanitopsidoides Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

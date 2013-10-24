@@ -1,5 +1,4 @@
-Hymenula herbarum subsp. herbarum SUBSPECIES
-=======
+# Hymenula herbarum Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hymenula herbarum subsp. herbarum
+Hymenula herbarum Sacc. & Roum.
 
 ### Remarks
 null

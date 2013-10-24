@@ -1,5 +1,4 @@
-Ceriomyces rufoalbus (Bres. & Pat.) Sacc. SPECIES
-=======
+# Ceriomyces rufoalbus (Bres. & Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

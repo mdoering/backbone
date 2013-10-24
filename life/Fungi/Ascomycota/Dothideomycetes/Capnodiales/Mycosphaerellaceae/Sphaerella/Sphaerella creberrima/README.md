@@ -1,5 +1,4 @@
-Sphaerella creberrima Penz. & Sacc. SPECIES
-=======
+# Sphaerella creberrima Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

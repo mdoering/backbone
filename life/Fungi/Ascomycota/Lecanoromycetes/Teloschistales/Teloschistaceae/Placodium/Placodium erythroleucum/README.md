@@ -1,5 +1,4 @@
-Placodium erythroleucum (Nyl.) Vain. SPECIES
-=======
+# Placodium erythroleucum (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

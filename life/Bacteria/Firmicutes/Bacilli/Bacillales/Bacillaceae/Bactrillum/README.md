@@ -1,5 +1,4 @@
-Bactrillum GENUS
-=======
+# Bactrillum GENUS
 
 #### Status
 ACCEPTED

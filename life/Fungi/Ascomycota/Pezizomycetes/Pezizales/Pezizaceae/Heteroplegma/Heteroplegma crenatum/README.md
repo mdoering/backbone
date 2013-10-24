@@ -1,5 +1,4 @@
-Heteroplegma crenatum Clem. SPECIES
-=======
+# Heteroplegma crenatum Clem. SPECIES
 
 #### Status
 ACCEPTED

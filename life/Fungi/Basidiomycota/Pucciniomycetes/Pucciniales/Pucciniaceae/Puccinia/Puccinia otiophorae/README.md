@@ -1,5 +1,4 @@
-Puccinia otiophorae P. Syd. & Syd. SPECIES
-=======
+# Puccinia otiophorae P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

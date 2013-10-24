@@ -1,14 +1,13 @@
-Ascomycetella floridanus Ellis & Martin SPECIES
-=======
+# Ascosorus floridanus (Ellis & G. Martin) Henn. & Ruhland, 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Jb. (1900)
 
 #### Original name
 null

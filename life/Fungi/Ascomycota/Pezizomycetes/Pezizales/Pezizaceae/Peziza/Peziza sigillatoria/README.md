@@ -1,5 +1,4 @@
-Peziza sigillatoria Batsch SPECIES
-=======
+# Peziza sigillatoria Batsch SPECIES
 
 #### Status
 ACCEPTED

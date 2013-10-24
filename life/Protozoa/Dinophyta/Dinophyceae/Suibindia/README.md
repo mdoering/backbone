@@ -1,5 +1,4 @@
-Suibindia J.-X. Yu, 1982 GENUS
-=======
+# Suibindia J.-X. Yu, 1982 GENUS
 
 #### Status
 ACCEPTED

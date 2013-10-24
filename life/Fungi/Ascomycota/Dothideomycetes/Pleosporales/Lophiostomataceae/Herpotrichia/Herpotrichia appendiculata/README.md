@@ -1,5 +1,4 @@
-Herpotrichia appendiculata Kirschst. ex Jaap SPECIES
-=======
+# Herpotrichia appendiculata Kirschst. ex Jaap SPECIES
 
 #### Status
 ACCEPTED

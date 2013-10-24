@@ -1,5 +1,4 @@
-Tylopilus queenslandianus Wolfe & Bougher SPECIES
-=======
+# Tylopilus queenslandianus Wolfe & Bougher SPECIES
 
 #### Status
 ACCEPTED

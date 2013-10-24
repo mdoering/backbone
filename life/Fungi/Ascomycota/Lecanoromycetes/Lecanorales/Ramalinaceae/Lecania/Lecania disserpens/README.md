@@ -1,5 +1,4 @@
-Lecania disserpens Zahlbr. SPECIES
-=======
+# Lecania disserpens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthropsis truncata Sigler, M.T. Dunn & J.W. Carmich., 1982 SPECIES
-=======
+# Arthropsis truncata Sigler, M.T. Dunn & J.W. Carmich., 1982 SPECIES
 
 #### Status
 ACCEPTED

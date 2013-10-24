@@ -1,5 +1,4 @@
-Misgomyces stilici Thaxt. SPECIES
-=======
+# Misgomyces stilici Thaxt. SPECIES
 
 #### Status
 ACCEPTED

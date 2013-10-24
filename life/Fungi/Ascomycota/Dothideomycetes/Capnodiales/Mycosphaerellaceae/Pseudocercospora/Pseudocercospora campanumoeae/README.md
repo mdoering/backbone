@@ -1,5 +1,4 @@
-Pseudocercospora campanumoeae Sawada ex Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora campanumoeae Sawada ex Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

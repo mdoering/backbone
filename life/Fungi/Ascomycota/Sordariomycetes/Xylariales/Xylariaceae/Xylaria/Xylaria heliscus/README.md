@@ -1,5 +1,4 @@
-Xylaria heliscus (Mont.) J.D. Rogers & Y.M. Ju SPECIES
-=======
+# Xylaria heliscus (Mont.) J.D. Rogers & Y.M. Ju SPECIES
 
 #### Status
 ACCEPTED

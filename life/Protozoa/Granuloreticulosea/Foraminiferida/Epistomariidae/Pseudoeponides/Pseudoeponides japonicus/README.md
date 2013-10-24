@@ -1,5 +1,4 @@
-Pseudoeponides japonicus Uchio, 1950 SPECIES
-=======
+# Pseudoeponides japonicus Uchio, 1950 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bolbitius affinis Massee SPECIES
-=======
+# Bolbitius affinis Massee SPECIES
 
 #### Status
 ACCEPTED

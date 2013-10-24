@@ -1,17 +1,16 @@
-Aecidium bulbefaciens Neger SPECIES
-=======
+# Aecidium bulbifaciens Neger SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Jb. 22: 356 (1895)
 
 #### Original name
-Aecidium bulbefaciens Neger
+Aecidium bulbifaciens Neger
 
 ### Remarks
 null

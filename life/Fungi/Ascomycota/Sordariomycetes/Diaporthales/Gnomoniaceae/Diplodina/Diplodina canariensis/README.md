@@ -1,5 +1,4 @@
-Diplodina canariensis Petr. SPECIES
-=======
+# Diplodina canariensis Petr. SPECIES
 
 #### Status
 ACCEPTED

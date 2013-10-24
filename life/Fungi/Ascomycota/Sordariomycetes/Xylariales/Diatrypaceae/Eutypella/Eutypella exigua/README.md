@@ -1,5 +1,4 @@
-Eutypella exigua Ellis & Everh. SPECIES
-=======
+# Eutypella exigua Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

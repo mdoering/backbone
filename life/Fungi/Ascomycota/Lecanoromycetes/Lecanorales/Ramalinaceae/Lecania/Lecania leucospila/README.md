@@ -1,5 +1,4 @@
-Lecania leucospila Flagey SPECIES
-=======
+# Lecania leucospila Flagey SPECIES
 
 #### Status
 ACCEPTED

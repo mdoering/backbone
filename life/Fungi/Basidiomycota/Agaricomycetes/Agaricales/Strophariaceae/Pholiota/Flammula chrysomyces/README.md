@@ -1,5 +1,4 @@
-Flammula chrysomyces Berk. SPECIES
-=======
+# Flammula chrysomyces Berk. SPECIES
 
 #### Status
 ACCEPTED

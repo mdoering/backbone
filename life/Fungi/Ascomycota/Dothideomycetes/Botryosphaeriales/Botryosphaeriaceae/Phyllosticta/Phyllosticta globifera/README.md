@@ -1,5 +1,4 @@
-Phyllosticta globifera Ellis & Everh. SPECIES
-=======
+# Phyllosticta globifera Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

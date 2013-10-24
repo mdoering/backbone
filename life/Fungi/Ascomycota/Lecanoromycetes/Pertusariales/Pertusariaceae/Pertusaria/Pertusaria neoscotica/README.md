@@ -1,5 +1,4 @@
-Pertusaria neoscotica I.M. Lamb SPECIES
-=======
+# Pertusaria neoscotica I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

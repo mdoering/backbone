@@ -1,5 +1,4 @@
-Microcallis megalospora Petr. & Cif. SPECIES
-=======
+# Microcallis megalospora Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

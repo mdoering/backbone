@@ -1,5 +1,4 @@
-Tegulalithus septentrionalis SPECIES
-=======
+# Tegulalithus septentrionalis SPECIES
 
 #### Status
 ACCEPTED

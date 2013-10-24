@@ -1,5 +1,4 @@
-Lithocia areolata (Nyl.) Flagey SPECIES
-=======
+# Lithocia areolata (Nyl.) Flagey SPECIES
 
 #### Status
 ACCEPTED

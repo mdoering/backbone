@@ -1,5 +1,4 @@
-Sporisorium polytocae (Mundk.) Vánky SPECIES
-=======
+# Sporisorium polytocae (Mundk.) Vánky SPECIES
 
 #### Status
 ACCEPTED

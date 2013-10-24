@@ -1,14 +1,13 @@
-Peziza concrescens Schwein., 1822 SPECIES
-=======
+# Sebacina concrescens (Schwein.) P. Roberts, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Schr. naturf. Ges. Leipzig 1: 118 (1822)
+Sydowia 55(2): 349 (2003)
 
 #### Original name
 Peziza concrescens Schwein., 1822

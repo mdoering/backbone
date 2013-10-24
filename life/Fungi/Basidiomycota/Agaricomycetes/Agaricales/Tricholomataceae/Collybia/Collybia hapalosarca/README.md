@@ -1,5 +1,4 @@
-Collybia hapalosarca Berk. & Broome SPECIES
-=======
+# Collybia hapalosarca Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

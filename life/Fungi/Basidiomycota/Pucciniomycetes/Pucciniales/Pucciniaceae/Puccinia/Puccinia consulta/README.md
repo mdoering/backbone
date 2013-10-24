@@ -1,5 +1,4 @@
-Puccinia consulta H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia consulta H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Entoloma pleopodium f. pleopodium FORM
-=======
+# Entoloma pleopodium (Bull.) Noordel., 1985 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 12(4): 459 (1985)
 
 #### Original name
-null
+Agaricus pleopodius Bull. ex DC., 1805
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Giraffachitina Locq. GENUS
-=======
+# Giraffachitina Locq. GENUS
 
 #### Status
 ACCEPTED

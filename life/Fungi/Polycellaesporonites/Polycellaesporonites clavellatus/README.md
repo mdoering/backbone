@@ -1,5 +1,4 @@
-Polycellaesporonites clavellatus (Z.C. Song & G.X. Li) Kalgutkar & Janson. SPECIES
-=======
+# Polycellaesporonites clavellatus (Z.C. Song & G.X. Li) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

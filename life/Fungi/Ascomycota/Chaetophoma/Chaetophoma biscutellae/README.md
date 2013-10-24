@@ -1,5 +1,4 @@
-Chaetophoma biscutellae C. Massal. SPECIES
-=======
+# Chaetophoma biscutellae C. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordana versicolor D.J. Soares & R.W. Barreto SPECIES
-=======
+# Cordana versicolor D.J. Soares & R.W. Barreto SPECIES
 
 #### Status
 ACCEPTED

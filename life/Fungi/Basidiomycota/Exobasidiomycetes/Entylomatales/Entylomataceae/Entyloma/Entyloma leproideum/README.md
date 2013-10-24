@@ -1,17 +1,16 @@
-Entyloma leproides Trab. SPECIES
-=======
+# Entyloma leproideum Trab. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+C. r. hebd. Séanc. Acad. Sci. , Paris 118: 1288 (1894)
 
 #### Original name
-Entyloma leproides Trab.
+Entyloma leproideum Trab.
 
 ### Remarks
 null

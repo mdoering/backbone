@@ -1,5 +1,4 @@
-Entyloma oenanthes Maire SPECIES
-=======
+# Entyloma oenanthes Maire SPECIES
 
 #### Status
 ACCEPTED

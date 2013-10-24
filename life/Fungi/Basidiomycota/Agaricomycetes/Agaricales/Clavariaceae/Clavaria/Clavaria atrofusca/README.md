@@ -1,5 +1,4 @@
-Clavaria atrofusca Velen. SPECIES
-=======
+# Clavaria atrofusca Velen. SPECIES
 
 #### Status
 ACCEPTED

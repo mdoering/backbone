@@ -1,5 +1,4 @@
-Entoloma subpusillum (Pilát) Romagn. SPECIES
-=======
+# Entoloma subpusillum (Pilát) Romagn. SPECIES
 
 #### Status
 ACCEPTED

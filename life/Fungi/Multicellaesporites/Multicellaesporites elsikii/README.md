@@ -1,5 +1,4 @@
-Multicellaesporites elsikii (Ramanujam & Srisailam) P. Kumar SPECIES
-=======
+# Multicellaesporites elsikii (Ramanujam & Srisailam) P. Kumar SPECIES
 
 #### Status
 ACCEPTED

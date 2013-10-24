@@ -1,5 +1,4 @@
-Xerotus papyraceus Berk. SPECIES
-=======
+# Xerotus papyraceus Berk. SPECIES
 
 #### Status
 ACCEPTED

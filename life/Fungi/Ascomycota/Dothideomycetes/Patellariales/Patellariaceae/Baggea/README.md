@@ -1,5 +1,4 @@
-Baggea Auersw. GENUS
-=======
+# Baggea Auersw. GENUS
 
 #### Status
 ACCEPTED

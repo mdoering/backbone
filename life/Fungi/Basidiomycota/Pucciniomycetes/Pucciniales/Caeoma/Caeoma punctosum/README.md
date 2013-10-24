@@ -1,5 +1,4 @@
-Caeoma punctosum Link SPECIES
-=======
+# Caeoma punctosum Link SPECIES
 
 #### Status
 ACCEPTED

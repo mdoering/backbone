@@ -1,5 +1,4 @@
-Meliola strychnacearum Hosag. & T.K. Abraham SPECIES
-=======
+# Meliola strychnacearum Hosag. & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

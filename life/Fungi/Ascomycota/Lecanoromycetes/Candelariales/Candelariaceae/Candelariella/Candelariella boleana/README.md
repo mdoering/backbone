@@ -1,5 +1,4 @@
-Candelariella boleana Etayo, Palice & T. Sprib. SPECIES
-=======
+# Candelariella boleana Etayo, Palice & T. Sprib. SPECIES
 
 #### Status
 ACCEPTED

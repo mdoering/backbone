@@ -1,5 +1,4 @@
-Agaricus subrufescentoides Murrill SPECIES
-=======
+# Agaricus subrufescentoides Murrill SPECIES
 
 #### Status
 ACCEPTED

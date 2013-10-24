@@ -1,5 +1,4 @@
-Ascophanus aurantiacus Pidopl. SPECIES
-=======
+# Ascophanus aurantiacus Pidopl. SPECIES
 
 #### Status
 ACCEPTED

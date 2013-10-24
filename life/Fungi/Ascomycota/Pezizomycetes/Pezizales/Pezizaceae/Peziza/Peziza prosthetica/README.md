@@ -1,5 +1,4 @@
-Peziza prosthetica Dissing & Sivertsen, 1983 SPECIES
-=======
+# Peziza prosthetica Dissing & Sivertsen, 1983 SPECIES
 
 #### Status
 ACCEPTED

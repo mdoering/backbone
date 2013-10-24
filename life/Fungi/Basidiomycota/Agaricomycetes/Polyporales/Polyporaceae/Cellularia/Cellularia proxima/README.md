@@ -1,5 +1,4 @@
-Cellularia proxima (Berk.) Kuntze SPECIES
-=======
+# Cellularia proxima (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

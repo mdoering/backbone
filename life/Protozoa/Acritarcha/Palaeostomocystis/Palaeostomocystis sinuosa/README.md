@@ -1,5 +1,4 @@
-Palaeostomocystis sinuosa Cookson & Eisenack SPECIES
-=======
+# Palaeostomocystis sinuosa Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

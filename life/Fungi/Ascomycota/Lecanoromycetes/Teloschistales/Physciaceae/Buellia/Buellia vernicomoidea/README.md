@@ -1,5 +1,4 @@
-Buellia vernicomoidea (Fink) Zahlbr. SPECIES
-=======
+# Buellia vernicomoidea (Fink) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

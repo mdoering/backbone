@@ -1,5 +1,4 @@
-Lecanora syriaca J. Steiner SPECIES
-=======
+# Lecanora syriaca J. Steiner SPECIES
 
 #### Status
 ACCEPTED

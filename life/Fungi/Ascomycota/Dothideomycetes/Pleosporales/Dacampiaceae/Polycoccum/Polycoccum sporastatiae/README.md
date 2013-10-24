@@ -1,5 +1,4 @@
-Polycoccum sporastatiae Arnold SPECIES
-=======
+# Polycoccum sporastatiae Arnold SPECIES
 
 #### Status
 ACCEPTED

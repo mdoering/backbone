@@ -1,5 +1,4 @@
-Uncinula bifurcata Homma SPECIES
-=======
+# Uncinula bifurcata Homma SPECIES
 
 #### Status
 ACCEPTED

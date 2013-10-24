@@ -1,5 +1,4 @@
-Botryobasidium ampullatum Gilb. & Hemmes, 1997 SPECIES
-=======
+# Botryobasidium ampullatum Gilb. & Hemmes, 1997 SPECIES
 
 #### Status
 ACCEPTED

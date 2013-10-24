@@ -1,5 +1,4 @@
-Cantharellus cerinoalbus Eyssart. & Walleyn SPECIES
-=======
+# Cantharellus cerinoalbus Eyssart. & Walleyn SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Reticulammina maini Tendal & Lewis, 1978 SPECIES
-=======
+# Reticulammina maini Tendal & Lewis, 1978 SPECIES
 
 #### Status
 ACCEPTED

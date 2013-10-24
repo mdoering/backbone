@@ -1,5 +1,4 @@
-Panellus reticulatovenosus G.Y. Zheng & Z.S. Bi SPECIES
-=======
+# Panellus reticulatovenosus G.Y. Zheng & Z.S. Bi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus inbulbosus Schulzer SPECIES
-=======
+# Agaricus inbulbosus Schulzer SPECIES
 
 #### Status
 ACCEPTED

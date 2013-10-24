@@ -1,5 +1,4 @@
-Parmelia cinnamomea Eschw. SPECIES
-=======
+# Parmelia cinnamomea Eschw. SPECIES
 
 #### Status
 ACCEPTED

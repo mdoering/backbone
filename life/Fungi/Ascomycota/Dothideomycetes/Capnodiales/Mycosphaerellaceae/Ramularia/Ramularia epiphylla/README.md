@@ -1,5 +1,4 @@
-Ramularia epiphylla Ellis SPECIES
-=======
+# Ramularia epiphylla Ellis SPECIES
 
 #### Status
 ACCEPTED

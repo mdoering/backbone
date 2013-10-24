@@ -1,5 +1,4 @@
-Rhabdosphaera truncata Bramlette & Sullivan, 1961 SPECIES
-=======
+# Rhabdosphaera truncata Bramlette & Sullivan, 1961 SPECIES
 
 #### Status
 ACCEPTED

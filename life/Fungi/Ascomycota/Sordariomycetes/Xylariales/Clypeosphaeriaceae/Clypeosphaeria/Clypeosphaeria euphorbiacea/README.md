@@ -1,5 +1,4 @@
-Clypeosphaeria euphorbiacea Pass. & Beltr. SPECIES
-=======
+# Clypeosphaeria euphorbiacea Pass. & Beltr. SPECIES
 
 #### Status
 ACCEPTED

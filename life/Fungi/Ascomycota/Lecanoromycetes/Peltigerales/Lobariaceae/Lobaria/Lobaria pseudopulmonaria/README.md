@@ -1,5 +1,4 @@
-Lobaria pseudopulmonaria Gyeln. SPECIES
-=======
+# Lobaria pseudopulmonaria Gyeln. SPECIES
 
 #### Status
 ACCEPTED

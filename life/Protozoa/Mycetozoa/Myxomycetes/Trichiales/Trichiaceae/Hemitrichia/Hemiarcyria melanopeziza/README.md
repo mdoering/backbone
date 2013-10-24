@@ -1,5 +1,4 @@
-Hemiarcyria melanopeziza (Speg.) Berl. SPECIES
-=======
+# Hemiarcyria melanopeziza (Speg.) Berl. SPECIES
 
 #### Status
 ACCEPTED

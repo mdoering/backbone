@@ -1,5 +1,4 @@
-Cephalosporium tumefaciens G. Winter SPECIES
-=======
+# Cephalosporium tumefaciens G. Winter SPECIES
 
 #### Status
 ACCEPTED

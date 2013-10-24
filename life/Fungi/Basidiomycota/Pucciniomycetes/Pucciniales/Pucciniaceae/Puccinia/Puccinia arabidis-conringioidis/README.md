@@ -1,5 +1,4 @@
-Puccinia arabidis-conringioidis Maire SPECIES
-=======
+# Puccinia arabidis-conringioidis Maire SPECIES
 
 #### Status
 ACCEPTED

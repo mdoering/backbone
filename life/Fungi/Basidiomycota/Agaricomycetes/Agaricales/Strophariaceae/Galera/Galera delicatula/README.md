@@ -1,5 +1,4 @@
-Galera delicatula Massee SPECIES
-=======
+# Galera delicatula Massee SPECIES
 
 #### Status
 ACCEPTED

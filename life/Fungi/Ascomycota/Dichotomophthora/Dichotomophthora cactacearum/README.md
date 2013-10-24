@@ -1,5 +1,4 @@
-Dichotomophthora cactacearum Da Ponte & F.O. Freire, 1972 SPECIES
-=======
+# Dichotomophthora cactacearum Da Ponte & F.O. Freire, 1972 SPECIES
 
 #### Status
 ACCEPTED

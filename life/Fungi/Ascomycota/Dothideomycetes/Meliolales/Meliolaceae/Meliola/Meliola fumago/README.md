@@ -1,5 +1,4 @@
-Meliola fumago Niessl SPECIES
-=======
+# Meliola fumago Niessl SPECIES
 
 #### Status
 ACCEPTED

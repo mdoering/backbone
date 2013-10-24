@@ -1,8 +1,7 @@
-Angulogerina vitrea Saidova, 1975 SPECIES
-=======
+# Trifarina vitrea (Saidova, 1975) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Marginopora kudakajimensis Gudmundsson, 1994 SPECIES
-=======
+# Marginopora kudakajimensis Gudmundsson, 1994 SPECIES
 
 #### Status
 ACCEPTED

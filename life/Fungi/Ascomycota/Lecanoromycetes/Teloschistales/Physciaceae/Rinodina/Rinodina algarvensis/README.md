@@ -1,5 +1,4 @@
-Rinodina algarvensis Giralt, Barbero & van den Boom SPECIES
-=======
+# Rinodina algarvensis Giralt, Barbero & van den Boom SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Capnodium heteromeles Cooke & Harkn. SPECIES
-=======
+# Capnodium heteromeles Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

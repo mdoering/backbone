@@ -1,5 +1,4 @@
-Erysiphe holosericea (Wallr.) Link SPECIES
-=======
+# Erysiphe holosericea (Wallr.) Link SPECIES
 
 #### Status
 ACCEPTED

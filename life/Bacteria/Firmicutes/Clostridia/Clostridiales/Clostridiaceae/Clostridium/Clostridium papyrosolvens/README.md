@@ -1,5 +1,4 @@
-Clostridium papyrosolvens Madden et al., 1982 SPECIES
-=======
+# Clostridium papyrosolvens Madden et al., 1982 SPECIES
 
 #### Status
 ACCEPTED

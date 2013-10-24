@@ -1,5 +1,4 @@
-Mortierella microspora E. Wolf SPECIES
-=======
+# Mortierella microspora E. Wolf SPECIES
 
 #### Status
 ACCEPTED

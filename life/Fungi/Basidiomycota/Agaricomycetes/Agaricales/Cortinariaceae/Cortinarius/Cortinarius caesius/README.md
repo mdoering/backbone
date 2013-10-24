@@ -1,5 +1,4 @@
-Cortinarius caesius Clem. SPECIES
-=======
+# Cortinarius caesius Clem. SPECIES
 
 #### Status
 ACCEPTED

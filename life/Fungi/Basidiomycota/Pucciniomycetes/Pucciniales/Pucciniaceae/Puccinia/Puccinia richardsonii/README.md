@@ -1,5 +1,4 @@
-Puccinia richardsonii P. Syd. & Syd. SPECIES
-=======
+# Puccinia richardsonii P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

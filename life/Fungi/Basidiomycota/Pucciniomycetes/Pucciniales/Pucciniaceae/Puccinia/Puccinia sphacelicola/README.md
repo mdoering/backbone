@@ -1,5 +1,4 @@
-Puccinia sphacelicola H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia sphacelicola H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

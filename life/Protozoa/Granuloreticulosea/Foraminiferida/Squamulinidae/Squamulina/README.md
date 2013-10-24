@@ -1,5 +1,4 @@
-Squamulina Schultze, 1854 GENUS
-=======
+# Squamulina Schultze, 1854 GENUS
 
 #### Status
 ACCEPTED

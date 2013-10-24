@@ -1,5 +1,4 @@
-Hygrophorus fumosellus A.H. Sm. & Hesler SPECIES
-=======
+# Hygrophorus fumosellus A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

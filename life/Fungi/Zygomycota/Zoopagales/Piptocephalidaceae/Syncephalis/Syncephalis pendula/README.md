@@ -1,5 +1,4 @@
-Syncephalis pendula Tiegh., 1878 SPECIES
-=======
+# Syncephalis pendula Tiegh., 1878 SPECIES
 
 #### Status
 ACCEPTED

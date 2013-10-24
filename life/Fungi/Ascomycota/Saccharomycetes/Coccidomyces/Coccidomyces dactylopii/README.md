@@ -1,5 +1,4 @@
-Coccidomyces dactylopii Buchner SPECIES
-=======
+# Coccidomyces dactylopii Buchner SPECIES
 
 #### Status
 ACCEPTED

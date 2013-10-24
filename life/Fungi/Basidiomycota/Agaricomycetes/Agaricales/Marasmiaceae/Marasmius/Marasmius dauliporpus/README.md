@@ -1,5 +1,4 @@
-Marasmius dauliporpus Singer SPECIES
-=======
+# Marasmius dauliporpus Singer SPECIES
 
 #### Status
 ACCEPTED

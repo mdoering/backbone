@@ -1,5 +1,4 @@
-Laestadia minuscula (Lév.) Sacc. SPECIES
-=======
+# Laestadia minuscula (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

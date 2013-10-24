@@ -1,5 +1,4 @@
-Epichloë brachyelytri Schardl & Leuchtm. SPECIES
-=======
+# Epichloë brachyelytri Schardl & Leuchtm. SPECIES
 
 #### Status
 ACCEPTED

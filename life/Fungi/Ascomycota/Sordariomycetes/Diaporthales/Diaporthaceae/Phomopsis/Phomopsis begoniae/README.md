@@ -1,5 +1,4 @@
-Phomopsis begoniae Gutner SPECIES
-=======
+# Phomopsis begoniae Gutner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lambertella tewarii Dumont SPECIES
-=======
+# Lambertella tewarii Dumont SPECIES
 
 #### Status
 ACCEPTED

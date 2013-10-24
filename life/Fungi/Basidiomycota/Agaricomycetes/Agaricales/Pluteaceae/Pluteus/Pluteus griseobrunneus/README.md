@@ -1,5 +1,4 @@
-Pluteus griseobrunneus Murrill SPECIES
-=======
+# Pluteus griseobrunneus Murrill SPECIES
 
 #### Status
 ACCEPTED

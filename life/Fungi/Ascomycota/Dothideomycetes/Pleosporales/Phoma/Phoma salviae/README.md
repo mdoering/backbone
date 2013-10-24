@@ -1,5 +1,4 @@
-Phoma salviae Brunaud SPECIES
-=======
+# Phoma salviae Brunaud SPECIES
 
 #### Status
 ACCEPTED

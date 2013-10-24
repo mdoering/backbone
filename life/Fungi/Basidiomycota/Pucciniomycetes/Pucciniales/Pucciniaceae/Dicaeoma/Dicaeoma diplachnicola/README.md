@@ -1,5 +1,4 @@
-Dicaeoma diplachnicola (Dietel) Syd. SPECIES
-=======
+# Dicaeoma diplachnicola (Dietel) Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypholoma perplexum (Peck) Sacc. SPECIES
-=======
+# Hypholoma perplexum (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

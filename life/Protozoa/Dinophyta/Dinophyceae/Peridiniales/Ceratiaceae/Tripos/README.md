@@ -1,5 +1,4 @@
-Tripos Bory de Saint-Vincent, 1823 GENUS
-=======
+# Tripos Bory de Saint-Vincent, 1823 GENUS
 
 #### Status
 ACCEPTED

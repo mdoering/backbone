@@ -1,5 +1,4 @@
-Claudopus inaequabilis Sacc. SPECIES
-=======
+# Claudopus inaequabilis Sacc. SPECIES
 
 #### Status
 ACCEPTED

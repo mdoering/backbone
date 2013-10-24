@@ -1,5 +1,4 @@
-Phlyctis polyphragmia (Nyl.) Nyl. SPECIES
-=======
+# Phlyctis polyphragmia (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

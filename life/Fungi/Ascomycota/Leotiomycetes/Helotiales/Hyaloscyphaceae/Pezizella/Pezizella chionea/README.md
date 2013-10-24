@@ -1,5 +1,4 @@
-Pezizella chionea (Fr.) Dennis, 1956 SPECIES
-=======
+# Pezizella chionea (Fr.) Dennis, 1956 SPECIES
 
 #### Status
 ACCEPTED

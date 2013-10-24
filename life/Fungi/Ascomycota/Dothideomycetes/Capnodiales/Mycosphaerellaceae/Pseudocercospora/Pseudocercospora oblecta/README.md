@@ -1,5 +1,4 @@
-Pseudocercospora oblecta (Syd.) Crous & U. Braun SPECIES
-=======
+# Pseudocercospora oblecta (Syd.) Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratocystis neglecta M. van Wyk, Jol. Roux & Rodas SPECIES
-=======
+# Ceratocystis neglecta M. van Wyk, Jol. Roux & Rodas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycoperdon circumscissum Batsch SPECIES
-=======
+# Lycoperdon circumscissum Batsch SPECIES
 
 #### Status
 ACCEPTED

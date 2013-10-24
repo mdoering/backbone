@@ -1,5 +1,4 @@
-Pachythyrium G. Arnaud ex Spooner & P.M. Kirk GENUS
-=======
+# Pachythyrium G. Arnaud ex Spooner & P.M. Kirk GENUS
 
 #### Status
 ACCEPTED

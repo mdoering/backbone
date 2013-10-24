@@ -1,5 +1,4 @@
-Ophiobolus calathus Massee SPECIES
-=======
+# Ophiobolus calathus Massee SPECIES
 
 #### Status
 ACCEPTED

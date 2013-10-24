@@ -1,5 +1,4 @@
-Didymosphaeria coumarounae Gonz. Frag. & Cif. SPECIES
-=======
+# Didymosphaeria coumarounae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

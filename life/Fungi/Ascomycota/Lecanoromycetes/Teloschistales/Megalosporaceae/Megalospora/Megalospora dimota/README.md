@@ -1,5 +1,4 @@
-Megalospora dimota Malme SPECIES
-=======
+# Megalospora dimota Malme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita ochroterrea Gentilli ex Bas SPECIES
-=======
+# Amanita ochroterrea Gentilli ex Bas SPECIES
 
 #### Status
 ACCEPTED

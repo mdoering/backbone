@@ -1,5 +1,4 @@
-Phialonema Stein, 1878 GENUS
-=======
+# Phialonema Stein, 1878 GENUS
 
 #### Status
 ACCEPTED

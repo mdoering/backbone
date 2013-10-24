@@ -1,5 +1,4 @@
-Hemileia smalliana Gjaerum, 2000 SPECIES
-=======
+# Hemileia smalliana Gjaerum, 2000 SPECIES
 
 #### Status
 ACCEPTED

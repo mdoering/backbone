@@ -1,5 +1,4 @@
-Hydrocoleum meneghinianum Kützing SPECIES
-=======
+# Hydrocoleum meneghinianum Kützing SPECIES
 
 #### Status
 ACCEPTED

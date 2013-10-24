@@ -1,5 +1,4 @@
-Lichen crypheus Ach. SPECIES
-=======
+# Lichen crypheus Ach. SPECIES
 
 #### Status
 ACCEPTED

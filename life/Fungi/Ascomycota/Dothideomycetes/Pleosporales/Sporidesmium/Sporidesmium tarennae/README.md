@@ -1,5 +1,4 @@
-Sporidesmium tarennae Cheng K. Shi & X.G. Zhang SPECIES
-=======
+# Sporidesmium tarennae Cheng K. Shi & X.G. Zhang SPECIES
 
 #### Status
 ACCEPTED

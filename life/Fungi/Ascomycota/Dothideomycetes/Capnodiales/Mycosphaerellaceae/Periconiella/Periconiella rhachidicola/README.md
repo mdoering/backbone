@@ -1,5 +1,4 @@
-Periconiella rhachidicola U. Braun SPECIES
-=======
+# Periconiella rhachidicola U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Agaricus bursaeformis Berk. SPECIES
-=======
+# Conchomyces bursiformis (Berk.) E. Horak, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 34: 110 (1981)
 
 #### Original name
-Agaricus bursaeformis Berk.
+Agaricus bursiformis Berk., 1859
 
 ### Remarks
 null

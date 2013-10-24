@@ -1,5 +1,4 @@
-Prosthemium canba Kaz. Tanaka, Y. Harada & M.E. Barr SPECIES
-=======
+# Prosthemium canba Kaz. Tanaka, Y. Harada & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

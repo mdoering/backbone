@@ -1,5 +1,4 @@
-Cladosporium astroideum Ces. SPECIES
-=======
+# Cladosporium astroideum Ces. SPECIES
 
 #### Status
 ACCEPTED

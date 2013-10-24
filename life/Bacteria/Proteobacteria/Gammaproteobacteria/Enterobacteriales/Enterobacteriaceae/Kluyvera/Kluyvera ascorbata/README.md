@@ -1,5 +1,4 @@
-Kluyvera ascorbata Farmer et al., 1981 SPECIES
-=======
+# Kluyvera ascorbata Farmer et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

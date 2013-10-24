@@ -1,5 +1,4 @@
-Rhizophydium aureum K. Konno SPECIES
-=======
+# Rhizophydium aureum K. Konno SPECIES
 
 #### Status
 ACCEPTED

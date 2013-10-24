@@ -1,5 +1,4 @@
-Verrucaria norrlandica (H. Magn.) R. Sant. SPECIES
-=======
+# Verrucaria norrlandica (H. Magn.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

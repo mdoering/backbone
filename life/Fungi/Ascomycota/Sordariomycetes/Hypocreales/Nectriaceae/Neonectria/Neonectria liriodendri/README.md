@@ -1,5 +1,4 @@
-Neonectria liriodendri Halleen, Rego & Crous SPECIES
-=======
+# Neonectria liriodendri Halleen, Rego & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphoroblastia biharica Servít SPECIES
-=======
+# Amphoroblastia biharica Servít SPECIES
 
 #### Status
 ACCEPTED

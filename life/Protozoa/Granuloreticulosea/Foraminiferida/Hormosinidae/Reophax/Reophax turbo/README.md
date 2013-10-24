@@ -1,5 +1,4 @@
-Reophax turbo Goes, 1896 SPECIES
-=======
+# Reophax turbo Goes, 1896 SPECIES
 
 #### Status
 ACCEPTED

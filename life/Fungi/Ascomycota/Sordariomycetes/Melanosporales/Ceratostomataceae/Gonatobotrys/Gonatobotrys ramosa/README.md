@@ -1,5 +1,4 @@
-Gonatobotrys ramosa Riess SPECIES
-=======
+# Gonatobotrys ramosa Riess SPECIES
 
 #### Status
 ACCEPTED

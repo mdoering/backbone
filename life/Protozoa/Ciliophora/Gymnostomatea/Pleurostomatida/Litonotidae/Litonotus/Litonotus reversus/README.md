@@ -1,5 +1,4 @@
-Litonotus reversus (Kahl, 1926) Augustin, Foissner & Adam, 1987 SPECIES
-=======
+# Litonotus reversus (Kahl, 1926) Augustin, Foissner & Adam, 1987 SPECIES
 
 #### Status
 ACCEPTED

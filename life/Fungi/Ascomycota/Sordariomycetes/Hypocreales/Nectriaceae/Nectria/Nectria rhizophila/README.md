@@ -1,5 +1,4 @@
-Nectria rhizophila Delacr. SPECIES
-=======
+# Nectria rhizophila Delacr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coriolopsis fuscella (Lév.) SPECIES
-=======
+# Coriolopsis fuscella (Lév.) SPECIES
 
 #### Status
 ACCEPTED

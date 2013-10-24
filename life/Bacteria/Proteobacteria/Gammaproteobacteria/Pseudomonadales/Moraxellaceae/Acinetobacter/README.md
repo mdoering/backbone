@@ -1,5 +1,4 @@
-Acinetobacter Brisou & Prevot, 1954 GENUS
-=======
+# Acinetobacter Brisou & Prevot, 1954 GENUS
 
 #### Status
 ACCEPTED

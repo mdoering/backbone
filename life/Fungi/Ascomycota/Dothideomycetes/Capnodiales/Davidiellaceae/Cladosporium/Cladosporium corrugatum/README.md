@@ -1,5 +1,4 @@
-Cladosporium corrugatum McAlpine SPECIES
-=======
+# Cladosporium corrugatum McAlpine SPECIES
 
 #### Status
 ACCEPTED

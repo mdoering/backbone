@@ -1,5 +1,4 @@
-Rhabdospora longior P. Karst. SPECIES
-=======
+# Rhabdospora longior P. Karst. SPECIES
 
 #### Status
 ACCEPTED

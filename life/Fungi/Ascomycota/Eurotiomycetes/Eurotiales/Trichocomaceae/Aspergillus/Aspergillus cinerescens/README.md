@@ -1,5 +1,4 @@
-Aspergillus cinerescens Bainier & Sartory SPECIES
-=======
+# Aspergillus cinerescens Bainier & Sartory SPECIES
 
 #### Status
 ACCEPTED

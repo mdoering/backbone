@@ -1,5 +1,4 @@
-Clostridium indolis McClung and McCoy, 1957 (Approved Lists, 1980) SPECIES
-=======
+# Clostridium indolis McClung and McCoy, 1957 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

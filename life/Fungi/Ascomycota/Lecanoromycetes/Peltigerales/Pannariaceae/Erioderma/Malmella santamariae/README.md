@@ -1,5 +1,4 @@
-Malmella santamariae C.W. Dodge SPECIES
-=======
+# Malmella santamariae C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

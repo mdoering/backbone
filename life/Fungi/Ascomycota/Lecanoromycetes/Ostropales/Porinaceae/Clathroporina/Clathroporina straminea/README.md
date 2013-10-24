@@ -1,5 +1,4 @@
-Clathroporina straminea (Malme) Zahlbr. SPECIES
-=======
+# Clathroporina straminea (Malme) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

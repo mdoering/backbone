@@ -1,5 +1,4 @@
-Methylobacterium aquaticum Gallego et al., 2005 SPECIES
-=======
+# Methylobacterium aquaticum Gallego et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

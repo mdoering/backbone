@@ -1,17 +1,16 @@
-Caeomurus betae Kuntze SPECIES
-=======
+# Coeomurus betae Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3(2): 449 (1898)
 
 #### Original name
-Caeomurus betae Kuntze
+Coeomurus betae Kuntze
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Reophax reconditus Wiesner, 1931 SPECIES
-=======
+# Reophax reconditus Wiesner, 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora pithoragarhensis U. Braun & Crous SPECIES
-=======
+# Passalora pithoragarhensis U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

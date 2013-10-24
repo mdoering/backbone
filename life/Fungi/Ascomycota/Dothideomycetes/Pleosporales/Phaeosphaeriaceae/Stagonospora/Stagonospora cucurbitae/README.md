@@ -1,5 +1,4 @@
-Stagonospora cucurbitae Sawada SPECIES
-=======
+# Stagonospora cucurbitae Sawada SPECIES
 
 #### Status
 ACCEPTED

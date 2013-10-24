@@ -1,5 +1,4 @@
-Spongaster berminghami Campbell & Clark SPECIES
-=======
+# Spongaster berminghami Campbell & Clark SPECIES
 
 #### Status
 ACCEPTED

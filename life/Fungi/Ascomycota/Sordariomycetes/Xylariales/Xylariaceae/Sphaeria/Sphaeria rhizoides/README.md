@@ -1,5 +1,4 @@
-Sphaeria rhizoides Wallr. SPECIES
-=======
+# Sphaeria rhizoides Wallr. SPECIES
 
 #### Status
 ACCEPTED

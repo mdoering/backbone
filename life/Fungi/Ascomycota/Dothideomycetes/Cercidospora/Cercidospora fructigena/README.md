@@ -1,5 +1,4 @@
-Cercidospora fructigena (Ellis & Everh.) Kuntze SPECIES
-=======
+# Cercidospora fructigena (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

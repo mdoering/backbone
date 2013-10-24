@@ -1,5 +1,4 @@
-Sclerotium rhachidophilum Ces. SPECIES
-=======
+# Sclerotium rhachidophilum Ces. SPECIES
 
 #### Status
 ACCEPTED

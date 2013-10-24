@@ -1,5 +1,4 @@
-Bacteriastrum parallelum D. Sarno, A. Zingone & D. Marino SPECIES
-=======
+# Bacteriastrum parallelum D. Sarno, A. Zingone & D. Marino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pistillaria euphorbiae Fuckel, 1870 SPECIES
-=======
+# Typhula euphorbiae (Fuckel) Fr., 1874 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 31 (1870)
+Hymenomyc. eur. (Upsaliae) 684 (1874)
 
 #### Original name
 Pistillaria euphorbiae Fuckel, 1870

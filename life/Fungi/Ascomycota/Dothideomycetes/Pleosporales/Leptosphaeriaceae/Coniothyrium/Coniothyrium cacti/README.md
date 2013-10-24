@@ -1,17 +1,16 @@
-Coniothyrium cactii Shreem. SPECIES
-=======
+# Coniothyrium cacti Shreem. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. natn. Acad. Sci. India, Sect. B, Biol. Sci. 47(1): 68 (1977)
 
 #### Original name
-Coniothyrium cactii Shreem.
+Coniothyrium cacti Shreem.
 
 ### Remarks
 null

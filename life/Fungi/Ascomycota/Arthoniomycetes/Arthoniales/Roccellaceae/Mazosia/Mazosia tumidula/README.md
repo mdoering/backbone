@@ -1,5 +1,4 @@
-Mazosia tumidula (Stirt.) Müll. Arg. SPECIES
-=======
+# Mazosia tumidula (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

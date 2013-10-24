@@ -1,5 +1,4 @@
-Ochroporus ossatus M. Fisch. SPECIES
-=======
+# Ochroporus ossatus M. Fisch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acroconidiellina chloridis M.B. Ellis, 1971 SPECIES
-=======
+# Acroconidiellina chloridis M.B. Ellis, 1971 SPECIES
 
 #### Status
 ACCEPTED

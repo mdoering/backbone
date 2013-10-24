@@ -1,5 +1,4 @@
-Leptogium chloromeloides Nyl. SPECIES
-=======
+# Leptogium chloromeloides Nyl. SPECIES
 
 #### Status
 ACCEPTED

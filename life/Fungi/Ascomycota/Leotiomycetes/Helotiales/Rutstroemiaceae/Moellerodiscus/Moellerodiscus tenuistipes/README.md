@@ -1,14 +1,13 @@
-Ciboriopsis tenuistipes (J. Schröt.) J.T. Palmer, 1969 SPECIES
-=======
+# Moellerodiscus tenuistipes (J. Schröt.) Dumont, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Mycologica, Warszawa 5: 251 (1969)
+Mycologia 68(2): 260 (1976)
 
 #### Original name
 Ciboria tenuistipes J. Schröt., 1893

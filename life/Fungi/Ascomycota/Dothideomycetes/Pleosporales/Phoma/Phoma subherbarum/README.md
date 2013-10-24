@@ -1,5 +1,4 @@
-Phoma subherbarum Gruyter, Noordel. & Boerema, 1993 SPECIES
-=======
+# Phoma subherbarum Gruyter, Noordel. & Boerema, 1993 SPECIES
 
 #### Status
 ACCEPTED

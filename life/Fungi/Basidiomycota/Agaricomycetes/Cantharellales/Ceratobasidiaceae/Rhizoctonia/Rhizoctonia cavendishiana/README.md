@@ -1,5 +1,4 @@
-Rhizoctonia cavendishiana Burgeff SPECIES
-=======
+# Rhizoctonia cavendishiana Burgeff SPECIES
 
 #### Status
 ACCEPTED

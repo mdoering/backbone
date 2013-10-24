@@ -1,5 +1,4 @@
-Thaptospora B. Sutton & Pascoe GENUS
-=======
+# Thaptospora B. Sutton & Pascoe GENUS
 
 #### Status
 ACCEPTED

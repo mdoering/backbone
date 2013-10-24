@@ -1,17 +1,16 @@
-Dictyochaeta gamundii Aramb. & Cabello SPECIES
-=======
+# Dictyochaeta gamundiae Aramb. & Cabello SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Arambarri, Cabello & Mengascini, Mycotaxon 29: 29 (1987)
 
 #### Original name
-Dictyochaeta gamundii Aramb. & Cabello
+Dictyochaeta gamundiae Aramb. & Cabello
 
 ### Remarks
 null

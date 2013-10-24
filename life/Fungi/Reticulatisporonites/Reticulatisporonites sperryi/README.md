@@ -1,5 +1,4 @@
-Reticulatisporonites sperryi Elsik SPECIES
-=======
+# Reticulatisporonites sperryi Elsik SPECIES
 
 #### Status
 ACCEPTED

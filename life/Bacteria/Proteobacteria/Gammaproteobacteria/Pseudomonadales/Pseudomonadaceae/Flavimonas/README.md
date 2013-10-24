@@ -1,5 +1,4 @@
-Flavimonas Holmes et al., 1987 GENUS
-=======
+# Flavimonas Holmes et al., 1987 GENUS
 
 #### Status
 ACCEPTED

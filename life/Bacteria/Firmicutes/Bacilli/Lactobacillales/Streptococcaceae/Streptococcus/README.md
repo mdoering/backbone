@@ -1,5 +1,4 @@
-Streptococcus GENUS
-=======
+# Streptococcus GENUS
 
 #### Status
 ACCEPTED

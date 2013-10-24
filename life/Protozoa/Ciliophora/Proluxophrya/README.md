@@ -1,5 +1,4 @@
-Proluxophrya Yankovskii, 1978 GENUS
-=======
+# Proluxophrya Yankovskii, 1978 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pilosace eximia (Peck) Sacc. SPECIES
-=======
+# Pilosace eximia (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

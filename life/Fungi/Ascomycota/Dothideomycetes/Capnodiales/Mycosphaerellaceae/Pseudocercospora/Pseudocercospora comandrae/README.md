@@ -1,5 +1,4 @@
-Pseudocercospora comandrae (Ellis & Dearn.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora comandrae (Ellis & Dearn.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

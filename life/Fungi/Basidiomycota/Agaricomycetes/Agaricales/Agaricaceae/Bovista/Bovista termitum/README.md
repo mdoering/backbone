@@ -1,5 +1,4 @@
-Bovista termitum R. Heim SPECIES
-=======
+# Bovista termitum R. Heim SPECIES
 
 #### Status
 ACCEPTED

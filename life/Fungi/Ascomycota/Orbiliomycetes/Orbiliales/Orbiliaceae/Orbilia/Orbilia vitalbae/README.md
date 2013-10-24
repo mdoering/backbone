@@ -1,5 +1,4 @@
-Orbilia vitalbae Rehm SPECIES
-=======
+# Orbilia vitalbae Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pestalotia funerea var. funerea Desm., 1843 VARIETY
-=======
+# Pestalotiopsis funereoides Steyaert, 1949 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 2 19: 33 (1843)
+Bull. Jard. bot. État Brux. 19(3): 345 (1949)
 
 #### Original name
-Pestalotia funerea var. funerea Desm., 1843
+Pestalotiopsis funereoides Steyaert, 1949
 
 ### Remarks
 null

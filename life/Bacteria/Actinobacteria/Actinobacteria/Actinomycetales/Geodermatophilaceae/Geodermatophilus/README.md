@@ -1,5 +1,4 @@
-Geodermatophilus Luedemann, 1968 GENUS
-=======
+# Geodermatophilus Luedemann, 1968 GENUS
 
 #### Status
 ACCEPTED

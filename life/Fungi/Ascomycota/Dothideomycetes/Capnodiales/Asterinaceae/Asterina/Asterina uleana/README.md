@@ -1,5 +1,4 @@
-Asterina uleana Pazschke SPECIES
-=======
+# Asterina uleana Pazschke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Skeletonema grethae Zingone & Sarno, 2005 SPECIES
-=======
+# Skeletonema grethae Zingone & Sarno, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cephalosporium zonatum Sawada, 1919 SPECIES
-=======
+# Acremonium zonatum (Sawada) W. Gams, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Special Bulletin Agricultural Experiment Station Formosa 19: 603 (1919)
+Cephalosporium-artige Schimmelpilze (Stuttgart) 119 (1971)
 
 #### Original name
 Cephalosporium zonatum Sawada, 1919

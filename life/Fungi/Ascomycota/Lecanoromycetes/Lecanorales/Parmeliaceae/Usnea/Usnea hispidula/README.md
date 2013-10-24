@@ -1,5 +1,4 @@
-Usnea hispidula (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Usnea hispidula (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

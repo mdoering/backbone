@@ -1,5 +1,4 @@
-Salpingocapsa Ruest, 1885 GENUS
-=======
+# Salpingocapsa Ruest, 1885 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus erinensis Dennis SPECIES
-=======
+# Hygrophorus erinensis Dennis SPECIES
 
 #### Status
 ACCEPTED

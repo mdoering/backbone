@@ -1,5 +1,4 @@
-Cladosporium cattleyae Verpl. SPECIES
-=======
+# Cladosporium cattleyae Verpl. SPECIES
 
 #### Status
 ACCEPTED

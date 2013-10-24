@@ -1,5 +1,4 @@
-Colletotrichum rhois-verniciferae Elisei SPECIES
-=======
+# Colletotrichum rhois-verniciferae Elisei SPECIES
 
 #### Status
 ACCEPTED

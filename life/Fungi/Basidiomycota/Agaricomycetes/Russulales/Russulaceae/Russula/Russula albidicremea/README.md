@@ -1,5 +1,4 @@
-Russula albidicremea Murrill SPECIES
-=======
+# Russula albidicremea Murrill SPECIES
 
 #### Status
 ACCEPTED

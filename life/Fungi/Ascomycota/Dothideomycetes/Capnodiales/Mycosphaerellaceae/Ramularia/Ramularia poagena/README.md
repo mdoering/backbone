@@ -1,5 +1,4 @@
-Ramularia poagena U. Braun SPECIES
-=======
+# Ramularia poagena U. Braun SPECIES
 
 #### Status
 ACCEPTED

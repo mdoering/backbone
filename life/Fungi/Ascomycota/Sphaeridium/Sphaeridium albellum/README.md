@@ -1,5 +1,4 @@
-Sphaeridium albellum Sacc. & Marchal SPECIES
-=======
+# Sphaeridium albellum Sacc. & Marchal SPECIES
 
 #### Status
 ACCEPTED

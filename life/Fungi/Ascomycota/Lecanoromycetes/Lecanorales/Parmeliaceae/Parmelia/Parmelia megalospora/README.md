@@ -1,5 +1,4 @@
-Parmelia megalospora Räsänen SPECIES
-=======
+# Parmelia megalospora Räsänen SPECIES
 
 #### Status
 ACCEPTED

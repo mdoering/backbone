@@ -1,5 +1,4 @@
-Resupinatus chilensis Singer SPECIES
-=======
+# Resupinatus chilensis Singer SPECIES
 
 #### Status
 ACCEPTED

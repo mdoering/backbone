@@ -1,5 +1,4 @@
-Nitratifractor salsuginis Nakagawa et al., 2005 SPECIES
-=======
+# Nitratifractor salsuginis Nakagawa et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

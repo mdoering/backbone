@@ -1,5 +1,4 @@
-Gloniella antarctica Speg. SPECIES
-=======
+# Gloniella antarctica Speg. SPECIES
 
 #### Status
 ACCEPTED

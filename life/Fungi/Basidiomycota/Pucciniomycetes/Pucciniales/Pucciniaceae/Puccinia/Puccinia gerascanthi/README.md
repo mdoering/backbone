@@ -1,5 +1,4 @@
-Puccinia gerascanthi Z. Urb. SPECIES
-=======
+# Puccinia gerascanthi Z. Urb. SPECIES
 
 #### Status
 ACCEPTED

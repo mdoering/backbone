@@ -1,5 +1,4 @@
-Didymium mexicanum G. Moreno, Lizárraga & Illana, 1996 SPECIES
-=======
+# Didymium mexicanum G. Moreno, Lizárraga & Illana, 1996 SPECIES
 
 #### Status
 ACCEPTED

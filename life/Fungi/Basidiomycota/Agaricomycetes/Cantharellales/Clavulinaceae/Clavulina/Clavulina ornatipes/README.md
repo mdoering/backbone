@@ -1,14 +1,13 @@
-Clavaria ornatipes Peck, 1908 SPECIES
-=======
+# Clavulina ornatipes (Peck) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. N. Y. St. Mus. 122: 18 (1908)
+Ann. Bot. Mem. 1: 333 (1950)
 
 #### Original name
 Clavaria ornatipes Peck, 1908

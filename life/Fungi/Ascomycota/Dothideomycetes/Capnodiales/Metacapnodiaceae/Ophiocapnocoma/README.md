@@ -1,5 +1,4 @@
-Ophiocapnocoma GENUS
-=======
+# Ophiocapnocoma GENUS
 
 #### Status
 ACCEPTED

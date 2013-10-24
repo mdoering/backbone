@@ -1,5 +1,4 @@
-Diatrype catervaria Berk. & M.A. Curtis SPECIES
-=======
+# Diatrype catervaria Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

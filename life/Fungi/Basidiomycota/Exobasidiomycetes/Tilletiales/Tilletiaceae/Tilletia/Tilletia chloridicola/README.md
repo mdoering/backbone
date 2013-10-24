@@ -1,5 +1,4 @@
-Tilletia chloridicola Cif. SPECIES
-=======
+# Tilletia chloridicola Cif. SPECIES
 
 #### Status
 ACCEPTED

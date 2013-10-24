@@ -1,5 +1,4 @@
-Entoloma lepidissimum var. lepidissimum (Svrcek) Noordel. VARIETY
-=======
+# Entoloma lepidissimum (Svrcek) Noordel. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Persoonia 11(4): 460 (1982)
 
 #### Original name
-Entoloma lepidissimum var. lepidissimum (Svrcek) Noordel.
+Leptonia lepidissima Svrcek
 
 ### Remarks
 null

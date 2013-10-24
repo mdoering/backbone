@@ -1,5 +1,4 @@
-Cercospora puccinioides Speg. SPECIES
-=======
+# Cercospora puccinioides Speg. SPECIES
 
 #### Status
 ACCEPTED

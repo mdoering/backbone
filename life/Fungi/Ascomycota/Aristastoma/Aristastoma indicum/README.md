@@ -1,5 +1,4 @@
-Aristastoma indicum N.D. Sharma SPECIES
-=======
+# Aristastoma indicum N.D. Sharma SPECIES
 
 #### Status
 ACCEPTED

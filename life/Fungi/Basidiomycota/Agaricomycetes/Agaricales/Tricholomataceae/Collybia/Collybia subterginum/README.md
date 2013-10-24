@@ -1,17 +1,16 @@
-Collybia subtergina Halling SPECIES
-=======
+# Collybia subterginum Halling SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Mem. 8: 90 (1983)
 
 #### Original name
-Collybia subtergina Halling
+Collybia subterginum Halling
 
 ### Remarks
 null

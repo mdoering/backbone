@@ -1,5 +1,4 @@
-Russula subvelutina Peck SPECIES
-=======
+# Russula subvelutina Peck SPECIES
 
 #### Status
 ACCEPTED

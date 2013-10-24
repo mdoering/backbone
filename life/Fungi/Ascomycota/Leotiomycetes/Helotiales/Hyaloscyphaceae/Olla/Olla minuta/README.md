@@ -1,5 +1,4 @@
-Olla minuta Velen. SPECIES
-=======
+# Olla minuta Velen. SPECIES
 
 #### Status
 ACCEPTED

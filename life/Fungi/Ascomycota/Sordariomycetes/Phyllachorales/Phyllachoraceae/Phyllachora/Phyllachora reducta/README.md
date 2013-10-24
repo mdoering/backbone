@@ -1,5 +1,4 @@
-Phyllachora reducta Höhn., 1932 SPECIES
-=======
+# Phyllachora reducta Höhn., 1932 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina celastri Ellis & Kellerm. SPECIES
-=======
+# Asterina celastri Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

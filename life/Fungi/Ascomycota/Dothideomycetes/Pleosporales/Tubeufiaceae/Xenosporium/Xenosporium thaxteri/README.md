@@ -1,14 +1,13 @@
-Xenosporella thaxteri Linder, 1929 SPECIES
-=======
+# Xenosporium thaxteri (Linder) Piroz., 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 16: 320 (1929)
+in Deighton & Pirozynski, Mycol. Pap. 105: 30 (1966)
 
 #### Original name
 Xenosporella thaxteri Linder, 1929

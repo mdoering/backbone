@@ -1,5 +1,4 @@
-Agaricus diaphanus Weinm. SPECIES
-=======
+# Agaricus diaphanus Weinm. SPECIES
 
 #### Status
 ACCEPTED

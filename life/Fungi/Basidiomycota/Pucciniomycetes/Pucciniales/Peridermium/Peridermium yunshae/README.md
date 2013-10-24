@@ -1,5 +1,4 @@
-Peridermium yunshae Y.Z. Wang & L. Guo, 1980 SPECIES
-=======
+# Peridermium yunshae Y.Z. Wang & L. Guo, 1980 SPECIES
 
 #### Status
 ACCEPTED

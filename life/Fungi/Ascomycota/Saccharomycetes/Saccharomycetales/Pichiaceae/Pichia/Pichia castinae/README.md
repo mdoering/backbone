@@ -1,5 +1,4 @@
-Pichia castinae Santa María & C. García SPECIES
-=======
+# Pichia castinae Santa María & C. García SPECIES
 
 #### Status
 ACCEPTED

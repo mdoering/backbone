@@ -1,5 +1,4 @@
-Asterotremella Prillinger, Lopandic & Sugita GENUS
-=======
+# Asterotremella Prillinger, Lopandic & Sugita GENUS
 
 #### Status
 ACCEPTED

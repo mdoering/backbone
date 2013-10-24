@@ -1,5 +1,4 @@
-Lasiosphaeria elinorae Linder SPECIES
-=======
+# Lasiosphaeria elinorae Linder SPECIES
 
 #### Status
 ACCEPTED

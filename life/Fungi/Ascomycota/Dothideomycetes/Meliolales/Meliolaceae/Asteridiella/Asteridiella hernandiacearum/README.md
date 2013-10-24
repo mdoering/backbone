@@ -1,5 +1,4 @@
-Asteridiella hernandiacearum (Cif.) Hansf. SPECIES
-=======
+# Asteridiella hernandiacearum (Cif.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

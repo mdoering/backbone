@@ -1,5 +1,4 @@
-Sphaeronemella GENUS
-=======
+# Sphaeronemella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Syndiniaceae Chatton, 1920 FAMILY
-=======
+# Syndiniaceae Chatton, 1920 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltisphaeridium leptispinosum Lu Mengning & Wang Ruoshan, 1980 SPECIES
-=======
+# Baltisphaeridium leptispinosum Lu Mengning & Wang Ruoshan, 1980 SPECIES
 
 #### Status
 ACCEPTED

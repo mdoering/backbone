@@ -1,5 +1,4 @@
-Leptosphaeria mucosa Mouton SPECIES
-=======
+# Leptosphaeria mucosa Mouton SPECIES
 
 #### Status
 ACCEPTED

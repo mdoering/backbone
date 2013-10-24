@@ -1,5 +1,4 @@
-Xanthoria santiagoensis (Räsänen) C.W. Dodge SPECIES
-=======
+# Xanthoria santiagoensis (Räsänen) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

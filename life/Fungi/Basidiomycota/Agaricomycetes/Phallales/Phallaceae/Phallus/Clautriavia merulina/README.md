@@ -1,5 +1,4 @@
-Clautriavia merulina (Berk.) J.M. Mend. SPECIES
-=======
+# Clautriavia merulina (Berk.) J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula pyrenuloides (Mont.) R.C. Harris, 1989 SPECIES
-=======
+# Pyrenula pyrenuloides (Mont.) R.C. Harris, 1989 SPECIES
 
 #### Status
 DOUBTFUL

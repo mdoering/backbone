@@ -1,5 +1,4 @@
-Lentinellus angustifolius Romell SPECIES
-=======
+# Lentinellus angustifolius Romell SPECIES
 
 #### Status
 ACCEPTED

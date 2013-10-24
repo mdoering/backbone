@@ -1,8 +1,7 @@
-Diplopsalopsis sphaerica (Mangin) Balech, 1962 SPECIES
-=======
+# Diplopsalopsis globula Abé, 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

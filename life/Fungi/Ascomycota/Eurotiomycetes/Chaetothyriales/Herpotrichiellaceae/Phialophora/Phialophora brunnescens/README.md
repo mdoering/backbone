@@ -1,5 +1,4 @@
-Phialophora brunnescens (R.W. Davidson) Conant SPECIES
-=======
+# Phialophora brunnescens (R.W. Davidson) Conant SPECIES
 
 #### Status
 ACCEPTED

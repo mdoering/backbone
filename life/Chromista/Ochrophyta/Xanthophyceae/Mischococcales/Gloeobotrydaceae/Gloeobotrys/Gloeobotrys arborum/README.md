@@ -1,5 +1,4 @@
-Gloeobotrys arborum Geitler SPECIES
-=======
+# Gloeobotrys arborum Geitler SPECIES
 
 #### Status
 ACCEPTED

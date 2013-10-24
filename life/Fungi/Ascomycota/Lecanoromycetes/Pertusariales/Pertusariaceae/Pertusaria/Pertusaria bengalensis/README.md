@@ -1,5 +1,4 @@
-Pertusaria bengalensis Vain. SPECIES
-=======
+# Pertusaria bengalensis Vain. SPECIES
 
 #### Status
 ACCEPTED

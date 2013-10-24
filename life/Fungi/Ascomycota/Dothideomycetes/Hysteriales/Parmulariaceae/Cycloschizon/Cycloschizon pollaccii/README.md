@@ -1,17 +1,16 @@
-Dielsiella pollacci (Elisei) Ciccar. & E. Castell. SPECIES
-=======
+# Cycloschizon pollaccii Elisei, 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Sporormia pollaccii Elisei, 1939
+Cycloschizon pollaccii Elisei, 1939
 
 ### Remarks
 null

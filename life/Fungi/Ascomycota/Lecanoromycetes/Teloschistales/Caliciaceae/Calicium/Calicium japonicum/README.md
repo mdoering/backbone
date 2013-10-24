@@ -1,5 +1,4 @@
-Calicium japonicum Asahina SPECIES
-=======
+# Calicium japonicum Asahina SPECIES
 
 #### Status
 ACCEPTED

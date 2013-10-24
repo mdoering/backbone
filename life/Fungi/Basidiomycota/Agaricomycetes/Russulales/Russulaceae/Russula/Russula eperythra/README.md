@@ -1,5 +1,4 @@
-Russula eperythra Singer, Alfaro & L.D. Gómez SPECIES
-=======
+# Russula eperythra Singer, Alfaro & L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

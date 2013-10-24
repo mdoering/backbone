@@ -1,5 +1,4 @@
-Holophrya vesiculosa Kahl, 1926 SPECIES
-=======
+# Holophrya vesiculosa Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

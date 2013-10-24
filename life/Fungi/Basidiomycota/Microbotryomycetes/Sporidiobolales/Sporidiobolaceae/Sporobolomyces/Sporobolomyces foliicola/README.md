@@ -1,5 +1,4 @@
-Sporobolomyces foliicola R.G. Shivas & Rodr. Mir. SPECIES
-=======
+# Sporobolomyces foliicola R.G. Shivas & Rodr. Mir. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Isariopsis clavispora (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Isariopsis clavispora (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

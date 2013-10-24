@@ -1,5 +1,4 @@
-Tetradimorpha Hsiung, 1927 GENUS
-=======
+# Tetradimorpha Hsiung, 1927 GENUS
 
 #### Status
 ACCEPTED

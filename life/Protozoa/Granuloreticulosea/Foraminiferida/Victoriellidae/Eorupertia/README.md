@@ -1,17 +1,16 @@
-Uhligina Yabe & Hanzawa, 1922 GENUS
-=======
+# Eorupertia Yabe & Hanzawa, 1925 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Jap. J. Geol. Geogr. , 1 (2), 71.
+Sci. Rep. Tôhoku Imp. Univ. , (2) Geol. , 7, no. 3, 77 (5) (note).
 
 #### Original name
-null
+Uhligina Yabe & Hanzawa, 1922
 
 ### Remarks
 null

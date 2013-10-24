@@ -1,5 +1,4 @@
-Collema lobatum Hoffm. SPECIES
-=======
+# Collema lobatum Hoffm. SPECIES
 
 #### Status
 ACCEPTED

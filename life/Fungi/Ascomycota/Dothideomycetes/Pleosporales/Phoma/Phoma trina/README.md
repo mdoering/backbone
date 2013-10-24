@@ -1,5 +1,4 @@
-Phoma trina Pass. SPECIES
-=======
+# Phoma trina Pass. SPECIES
 
 #### Status
 ACCEPTED

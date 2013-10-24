@@ -1,5 +1,4 @@
-Asteroma sambuci Allesch. SPECIES
-=======
+# Asteroma sambuci Allesch. SPECIES
 
 #### Status
 ACCEPTED

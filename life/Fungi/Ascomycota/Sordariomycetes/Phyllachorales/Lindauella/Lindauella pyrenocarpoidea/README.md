@@ -1,5 +1,4 @@
-Lindauella pyrenocarpoidea Rehm, 1900 SPECIES
-=======
+# Lindauella pyrenocarpoidea Rehm, 1900 SPECIES
 
 #### Status
 ACCEPTED

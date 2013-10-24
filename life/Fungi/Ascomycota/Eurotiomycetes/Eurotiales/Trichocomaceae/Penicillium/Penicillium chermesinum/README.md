@@ -1,17 +1,16 @@
-Penicillium indicum D.K. Sandhu & R.S. Sandhu, 1963 SPECIES
-=======
+# Penicillium chermesinum Biourge, 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 41: 1273 (1963)
+La Cellule 33(1): 284-288 (1923)
 
 #### Original name
-Penicillium indicum D.K. Sandhu & R.S. Sandhu, 1963
+Penicillium chermesinum Biourge, 1923
 
 ### Remarks
 null

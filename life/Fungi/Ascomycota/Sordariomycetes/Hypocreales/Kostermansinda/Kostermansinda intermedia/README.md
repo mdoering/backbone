@@ -1,5 +1,4 @@
-Kostermansinda intermedia Catania SPECIES
-=======
+# Kostermansinda intermedia Catania SPECIES
 
 #### Status
 ACCEPTED

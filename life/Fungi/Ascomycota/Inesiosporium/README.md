@@ -1,5 +1,4 @@
-Inesiosporium R.F. Castañeda & W. Gams GENUS
-=======
+# Inesiosporium R.F. Castañeda & W. Gams GENUS
 
 #### Status
 ACCEPTED

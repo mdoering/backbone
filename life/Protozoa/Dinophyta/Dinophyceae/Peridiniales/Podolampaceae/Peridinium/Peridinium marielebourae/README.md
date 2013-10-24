@@ -1,5 +1,4 @@
-Peridinium marielebourae SPECIES
-=======
+# Peridinium marielebourae SPECIES
 
 #### Status
 ACCEPTED

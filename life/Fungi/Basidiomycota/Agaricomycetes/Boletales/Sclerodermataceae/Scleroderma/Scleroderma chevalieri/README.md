@@ -1,5 +1,4 @@
-Scleroderma chevalieri Guzmán, 1967 SPECIES
-=======
+# Scleroderma chevalieri Guzmán, 1967 SPECIES
 
 #### Status
 ACCEPTED

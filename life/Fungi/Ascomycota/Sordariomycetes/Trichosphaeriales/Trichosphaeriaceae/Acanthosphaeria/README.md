@@ -1,5 +1,4 @@
-Acanthosphaeria Kirschst. GENUS
-=======
+# Acanthosphaeria Kirschst. GENUS
 
 #### Status
 ACCEPTED

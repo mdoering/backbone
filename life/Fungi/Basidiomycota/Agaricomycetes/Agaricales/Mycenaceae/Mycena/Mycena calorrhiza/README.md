@@ -1,5 +1,4 @@
-Mycena calorrhiza Bres. SPECIES
-=======
+# Mycena calorrhiza Bres. SPECIES
 
 #### Status
 ACCEPTED

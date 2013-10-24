@@ -1,5 +1,4 @@
-Aecidium martianoffianum Thüm. SPECIES
-=======
+# Aecidium martianoffianum Thüm. SPECIES
 
 #### Status
 ACCEPTED

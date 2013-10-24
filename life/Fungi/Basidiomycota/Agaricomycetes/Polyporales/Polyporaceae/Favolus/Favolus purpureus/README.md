@@ -1,5 +1,4 @@
-Favolus purpureus Beeli SPECIES
-=======
+# Favolus purpureus Beeli SPECIES
 
 #### Status
 ACCEPTED

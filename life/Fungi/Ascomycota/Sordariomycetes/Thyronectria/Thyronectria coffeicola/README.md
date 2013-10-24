@@ -1,5 +1,4 @@
-Thyronectria coffeicola (Zimm.) Seeler SPECIES
-=======
+# Thyronectria coffeicola (Zimm.) Seeler SPECIES
 
 #### Status
 ACCEPTED

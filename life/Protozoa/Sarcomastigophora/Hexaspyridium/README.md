@@ -1,5 +1,4 @@
-Hexaspyridium Haeckel, 1887 GENUS
-=======
+# Hexaspyridium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

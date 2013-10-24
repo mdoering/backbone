@@ -1,5 +1,4 @@
-Pseudocercosporella malvae Deighton SPECIES
-=======
+# Pseudocercosporella malvae Deighton SPECIES
 
 #### Status
 ACCEPTED

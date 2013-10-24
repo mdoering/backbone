@@ -1,5 +1,4 @@
-Cylindrocarpon roseum A. Funk SPECIES
-=======
+# Cylindrocarpon roseum A. Funk SPECIES
 
 #### Status
 ACCEPTED

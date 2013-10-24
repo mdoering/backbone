@@ -1,5 +1,4 @@
-Rhytismites geinitzii (Ettingsh.) Mesch. SPECIES
-=======
+# Rhytismites geinitzii (Ettingsh.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tyromyces gilvellus (Pilát) Komarova SPECIES
-=======
+# Tyromyces gilvellus (Pilát) Komarova SPECIES
 
 #### Status
 ACCEPTED

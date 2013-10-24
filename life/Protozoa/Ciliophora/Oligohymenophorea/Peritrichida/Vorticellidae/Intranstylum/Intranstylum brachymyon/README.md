@@ -1,5 +1,4 @@
-Intranstylum brachymyon Precht, 1935 SPECIES
-=======
+# Intranstylum brachymyon Precht, 1935 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thielavia bispora Lodha SPECIES
-=======
+# Thielavia bispora Lodha SPECIES
 
 #### Status
 ACCEPTED

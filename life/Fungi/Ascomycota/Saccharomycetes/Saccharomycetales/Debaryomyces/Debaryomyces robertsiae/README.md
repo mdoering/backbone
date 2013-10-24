@@ -1,14 +1,13 @@
-Debaryomyces robertsii (Van der Walt) Kurtzman & Robnett SPECIES
-=======
+# Debaryomyces robertsiae (Van der Walt) Kurtzman & Robnett, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Antonie van Leeuwenhoek 66(4): 341 (1994)
 
 #### Original name
 Pichia robertsiae Van der Walt, 1959

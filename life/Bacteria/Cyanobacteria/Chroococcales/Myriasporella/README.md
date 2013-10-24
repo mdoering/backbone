@@ -1,5 +1,4 @@
-Myriasporella D.Z. Oehler, 1978 GENUS
-=======
+# Myriasporella D.Z. Oehler, 1978 GENUS
 
 #### Status
 ACCEPTED

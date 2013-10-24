@@ -1,5 +1,4 @@
-Aphanopsis lutigena J. Lahm SPECIES
-=======
+# Aphanopsis lutigena J. Lahm SPECIES
 
 #### Status
 ACCEPTED

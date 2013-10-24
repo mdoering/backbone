@@ -1,5 +1,4 @@
-Lembosia ilicis-latifoliae Katum. SPECIES
-=======
+# Lembosia ilicis-latifoliae Katum. SPECIES
 
 #### Status
 ACCEPTED

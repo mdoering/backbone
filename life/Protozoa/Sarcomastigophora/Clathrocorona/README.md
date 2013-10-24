@@ -1,5 +1,4 @@
-Clathrocorona Haeckel, 1881 GENUS
-=======
+# Clathrocorona Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

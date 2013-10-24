@@ -1,5 +1,4 @@
-Cladonia brebissonii var. brebissonii VARIETY
-=======
+# Cladonia brebissonii (Delise) Parrique SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia brebissonii var. brebissonii
+null
 
 ### Remarks
 null

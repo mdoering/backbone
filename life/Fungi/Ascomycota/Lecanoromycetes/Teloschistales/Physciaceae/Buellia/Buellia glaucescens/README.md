@@ -1,5 +1,4 @@
-Buellia glaucescens Malme SPECIES
-=======
+# Buellia glaucescens Malme SPECIES
 
 #### Status
 ACCEPTED

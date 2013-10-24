@@ -1,5 +1,4 @@
-Helvella verpoides Fr. SPECIES
-=======
+# Helvella verpoides Fr. SPECIES
 
 #### Status
 ACCEPTED

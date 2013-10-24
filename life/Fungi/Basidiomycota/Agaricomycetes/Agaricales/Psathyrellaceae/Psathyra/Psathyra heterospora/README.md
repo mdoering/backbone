@@ -1,5 +1,4 @@
-Psathyra heterospora Velen. SPECIES
-=======
+# Psathyra heterospora Velen. SPECIES
 
 #### Status
 ACCEPTED

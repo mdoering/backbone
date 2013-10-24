@@ -1,14 +1,13 @@
-Mycorhynchus microspora D. Hawksw. & J. Webster SPECIES
-=======
+# Pyxidiophora microspora (D. Hawksw. & J. Webster) N. Lundq., 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Notiser 133(2): 141 (1980)
 
 #### Original name
 Mycorhynchus microspora D. Hawksw. & J. Webster

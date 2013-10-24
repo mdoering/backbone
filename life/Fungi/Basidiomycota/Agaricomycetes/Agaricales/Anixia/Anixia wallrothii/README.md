@@ -1,5 +1,4 @@
-Anixia wallrothii Fuckel SPECIES
-=======
+# Anixia wallrothii Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lembosia poasensis Syd. SPECIES
-=======
+# Lembosia poasensis Syd. SPECIES
 
 #### Status
 ACCEPTED

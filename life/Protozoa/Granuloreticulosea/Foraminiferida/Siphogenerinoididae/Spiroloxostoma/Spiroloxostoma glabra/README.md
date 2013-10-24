@@ -1,8 +1,7 @@
-Uvigerina auberiana var. glabra Millett, 1903 VARIETY
-=======
+# Spiroloxostoma glabra (Millett, 1903) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

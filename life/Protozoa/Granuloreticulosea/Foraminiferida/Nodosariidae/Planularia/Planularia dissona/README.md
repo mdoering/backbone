@@ -1,5 +1,4 @@
-Planularia dissona (Plummer) SPECIES
-=======
+# Planularia dissona (Plummer) SPECIES
 
 #### Status
 ACCEPTED

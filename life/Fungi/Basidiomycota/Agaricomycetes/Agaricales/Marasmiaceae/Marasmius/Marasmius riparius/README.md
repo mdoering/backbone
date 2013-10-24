@@ -1,5 +1,4 @@
-Marasmius riparius Singer SPECIES
-=======
+# Marasmius riparius Singer SPECIES
 
 #### Status
 ACCEPTED

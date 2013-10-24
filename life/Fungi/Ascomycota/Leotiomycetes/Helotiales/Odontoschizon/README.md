@@ -1,5 +1,4 @@
-Odontoschizon GENUS
-=======
+# Odontoschizon GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia agoseridis Parmelee & Savile SPECIES
-=======
+# Puccinia agoseridis Parmelee & Savile SPECIES
 
 #### Status
 ACCEPTED

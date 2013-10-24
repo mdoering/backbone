@@ -1,5 +1,4 @@
-Oidiopsis haplophylli (H. Magn.) Rulamort SPECIES
-=======
+# Oidiopsis haplophylli (H. Magn.) Rulamort SPECIES
 
 #### Status
 ACCEPTED

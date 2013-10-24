@@ -1,5 +1,4 @@
-Chrysosporium siglerae Cano & Guarro, 1994 SPECIES
-=======
+# Chrysosporium siglerae Cano & Guarro, 1994 SPECIES
 
 #### Status
 ACCEPTED

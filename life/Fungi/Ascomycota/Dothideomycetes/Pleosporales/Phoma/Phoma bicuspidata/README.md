@@ -1,5 +1,4 @@
-Phoma bicuspidata Berk. SPECIES
-=======
+# Phoma bicuspidata Berk. SPECIES
 
 #### Status
 ACCEPTED

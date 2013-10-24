@@ -1,5 +1,4 @@
-Leccinum tlemcenense (Maire) Redeuilh SPECIES
-=======
+# Leccinum tlemcenense (Maire) Redeuilh SPECIES
 
 #### Status
 ACCEPTED

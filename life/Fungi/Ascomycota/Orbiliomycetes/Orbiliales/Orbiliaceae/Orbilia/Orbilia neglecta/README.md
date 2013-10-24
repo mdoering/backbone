@@ -1,5 +1,4 @@
-Orbilia neglecta Penz. & Sacc. SPECIES
-=======
+# Orbilia neglecta Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

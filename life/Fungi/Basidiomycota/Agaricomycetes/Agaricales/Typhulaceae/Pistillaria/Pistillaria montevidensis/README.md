@@ -1,5 +1,4 @@
-Pistillaria montevidensis Speg. SPECIES
-=======
+# Pistillaria montevidensis Speg. SPECIES
 
 #### Status
 ACCEPTED

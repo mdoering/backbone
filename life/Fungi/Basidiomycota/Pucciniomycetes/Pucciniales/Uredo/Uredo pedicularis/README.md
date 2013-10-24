@@ -1,5 +1,4 @@
-Uredo pedicularis A. Dietr. SPECIES
-=======
+# Uredo pedicularis A. Dietr. SPECIES
 
 #### Status
 ACCEPTED

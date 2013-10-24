@@ -1,5 +1,4 @@
-Lasiosphaeria dichroospora Ellis & Everh. SPECIES
-=======
+# Lasiosphaeria dichroospora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

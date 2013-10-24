@@ -1,5 +1,4 @@
-Pyrenula atrolaminata R. C. Harris SPECIES
-=======
+# Pyrenula atrolaminata R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

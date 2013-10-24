@@ -1,5 +1,4 @@
-Favososphaeridium bothnicum Timofeev, 1966 SPECIES
-=======
+# Favososphaeridium bothnicum Timofeev, 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geoporella suevica (Soehner) Soehner SPECIES
-=======
+# Geoporella suevica (Soehner) Soehner SPECIES
 
 #### Status
 ACCEPTED

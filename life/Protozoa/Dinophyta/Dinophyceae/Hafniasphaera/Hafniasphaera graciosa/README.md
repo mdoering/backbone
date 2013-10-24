@@ -1,5 +1,4 @@
-Hafniasphaera graciosa J. M. Hansen SPECIES
-=======
+# Hafniasphaera graciosa J. M. Hansen SPECIES
 
 #### Status
 ACCEPTED

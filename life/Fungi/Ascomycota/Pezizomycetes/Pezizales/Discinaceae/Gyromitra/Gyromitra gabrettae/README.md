@@ -1,5 +1,4 @@
-Gyromitra gabrettae Kavina SPECIES
-=======
+# Gyromitra gabrettae Kavina SPECIES
 
 #### Status
 ACCEPTED

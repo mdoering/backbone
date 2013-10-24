@@ -1,5 +1,4 @@
-Pseudoparmelia baltimorensis (Gyeln. & Fóriss) Hale SPECIES
-=======
+# Pseudoparmelia baltimorensis (Gyeln. & Fóriss) Hale SPECIES
 
 #### Status
 ACCEPTED

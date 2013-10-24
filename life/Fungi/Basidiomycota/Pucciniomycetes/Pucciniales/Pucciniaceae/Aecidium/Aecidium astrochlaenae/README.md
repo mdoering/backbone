@@ -1,5 +1,4 @@
-Aecidium astrochlaenae Wakef. & Hansf. SPECIES
-=======
+# Aecidium astrochlaenae Wakef. & Hansf. SPECIES
 
 #### Status
 ACCEPTED

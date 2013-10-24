@@ -1,5 +1,4 @@
-Rostrella cynopis Fabre SPECIES
-=======
+# Rostrella cynopis Fabre SPECIES
 
 #### Status
 ACCEPTED

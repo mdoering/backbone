@@ -1,17 +1,16 @@
-Agaricus eburneus f. eburneus FORM
-=======
+# Hygrophorus eburneus (Bull.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 321 (1838)
 
 #### Original name
-null
+Agaricus eburneus Bull., 1783
 
 ### Remarks
 null

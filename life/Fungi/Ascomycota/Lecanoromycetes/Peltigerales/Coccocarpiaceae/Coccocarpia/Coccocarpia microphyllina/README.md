@@ -1,5 +1,4 @@
-Coccocarpia microphyllina Lücking & Aptroot SPECIES
-=======
+# Coccocarpia microphyllina Lücking & Aptroot SPECIES
 
 #### Status
 ACCEPTED

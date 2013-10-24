@@ -1,5 +1,4 @@
-Nectria eucalypti Cooke & Harkn. SPECIES
-=======
+# Nectria eucalypti Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

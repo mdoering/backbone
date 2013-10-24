@@ -1,5 +1,4 @@
-Multicellaesporites cerrejonensis Doub. & D. Pons SPECIES
-=======
+# Multicellaesporites cerrejonensis Doub. & D. Pons SPECIES
 
 #### Status
 ACCEPTED

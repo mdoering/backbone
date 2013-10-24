@@ -1,5 +1,4 @@
-Mycena griseoradiata Singer SPECIES
-=======
+# Mycena griseoradiata Singer SPECIES
 
 #### Status
 ACCEPTED

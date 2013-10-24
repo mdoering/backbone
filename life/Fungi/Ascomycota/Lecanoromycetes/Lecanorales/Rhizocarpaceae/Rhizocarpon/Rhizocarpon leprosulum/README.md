@@ -1,5 +1,4 @@
-Rhizocarpon leprosulum SPECIES
-=======
+# Rhizocarpon leprosulum SPECIES
 
 #### Status
 ACCEPTED

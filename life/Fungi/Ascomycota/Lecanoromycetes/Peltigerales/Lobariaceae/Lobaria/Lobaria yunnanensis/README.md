@@ -1,5 +1,4 @@
-Lobaria yunnanensis Yoshim. SPECIES
-=======
+# Lobaria yunnanensis Yoshim. SPECIES
 
 #### Status
 ACCEPTED

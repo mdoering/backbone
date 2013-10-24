@@ -1,5 +1,4 @@
-Exoascus splendens (Palm) Jacz. SPECIES
-=======
+# Exoascus splendens (Palm) Jacz. SPECIES
 
 #### Status
 ACCEPTED

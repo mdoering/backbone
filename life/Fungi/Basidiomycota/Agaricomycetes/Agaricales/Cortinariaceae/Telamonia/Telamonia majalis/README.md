@@ -1,17 +1,16 @@
-Telamonia maialis Velen. SPECIES
-=======
+# Telamonia majalis Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ceské Houby 3: 447 (1921)
 
 #### Original name
-Telamonia maialis Velen.
+Telamonia majalis Velen.
 
 ### Remarks
 null

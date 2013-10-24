@@ -1,14 +1,13 @@
-Parmelina versiformis (Kremp.) Hale SPECIES
-=======
+# Parmelinella versiformis (Kremp.) Marcelli SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytologia 28(5): 483 (1974)
+null
 
 #### Original name
 Parmelia versiformis Kremp.

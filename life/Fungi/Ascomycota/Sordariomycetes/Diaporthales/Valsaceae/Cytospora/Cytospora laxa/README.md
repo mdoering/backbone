@@ -1,5 +1,4 @@
-Cytospora laxa Berk. & M.A. Curtis SPECIES
-=======
+# Cytospora laxa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

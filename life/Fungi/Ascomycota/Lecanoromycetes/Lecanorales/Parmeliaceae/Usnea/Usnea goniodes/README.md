@@ -1,5 +1,4 @@
-Usnea goniodes var. goniodes VARIETY
-=======
+# Usnea goniodes Stirt. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Norw. Jl Bot. 25(3): 238 (1978)
 
 #### Original name
-Usnea goniodes var. goniodes
+Usnea goniodes Stirt.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Valsa albovelata Berk. & M.A. Curtis, 1876 SPECIES
-=======
+# Cryptodiaporthe aculeans (Schwein.) Wehm., 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+University of Michigan Studies, Science Series 9: 212 (1933)
 
 #### Original name
-Valsa albovelata Berk. & M.A. Curtis, 1876
+Sphaeria aculeans Schwein., 1832
 
 ### Remarks
 null

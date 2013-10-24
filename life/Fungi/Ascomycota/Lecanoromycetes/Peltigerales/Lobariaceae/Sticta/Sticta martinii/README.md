@@ -1,5 +1,4 @@
-Sticta martinii D. J. Galloway SPECIES
-=======
+# Sticta martinii D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

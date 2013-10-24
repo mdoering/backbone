@@ -1,5 +1,4 @@
-Flabellitha V.A. Krassilov & A.L. Jurina, 2002 GENUS
-=======
+# Flabellitha V.A. Krassilov & A.L. Jurina, 2002 GENUS
 
 #### Status
 ACCEPTED

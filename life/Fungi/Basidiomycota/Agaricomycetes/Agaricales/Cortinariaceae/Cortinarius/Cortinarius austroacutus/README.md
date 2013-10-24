@@ -1,5 +1,4 @@
-Cortinarius austroacutus M.M. Moser SPECIES
-=======
+# Cortinarius austroacutus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

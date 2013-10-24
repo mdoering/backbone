@@ -1,5 +1,4 @@
-Coprinus floccosofarinaceus Britzelm. SPECIES
-=======
+# Coprinus floccosofarinaceus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratospermopsis Bat. GENUS
-=======
+# Ceratospermopsis Bat. GENUS
 
 #### Status
 ACCEPTED

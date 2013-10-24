@@ -1,5 +1,4 @@
-Galiella sinensis J.Z. Cao SPECIES
-=======
+# Galiella sinensis J.Z. Cao SPECIES
 
 #### Status
 ACCEPTED

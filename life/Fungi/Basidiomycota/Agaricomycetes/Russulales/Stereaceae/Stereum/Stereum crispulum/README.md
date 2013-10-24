@@ -1,5 +1,4 @@
-Stereum crispulum Lloyd SPECIES
-=======
+# Stereum crispulum Lloyd SPECIES
 
 #### Status
 ACCEPTED

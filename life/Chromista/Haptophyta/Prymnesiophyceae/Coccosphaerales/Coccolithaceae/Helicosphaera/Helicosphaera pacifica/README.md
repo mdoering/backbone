@@ -1,5 +1,4 @@
-Helicosphaera pacifica Muller & Bronnimann, 1974 SPECIES
-=======
+# Helicosphaera pacifica Muller & Bronnimann, 1974 SPECIES
 
 #### Status
 ACCEPTED

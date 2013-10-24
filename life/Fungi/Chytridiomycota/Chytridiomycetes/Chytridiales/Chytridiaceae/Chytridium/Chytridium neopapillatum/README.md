@@ -1,5 +1,4 @@
-Chytridium neopapillatum Kobayasi & K. Konno SPECIES
-=======
+# Chytridium neopapillatum Kobayasi & K. Konno SPECIES
 
 #### Status
 ACCEPTED

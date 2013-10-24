@@ -1,14 +1,13 @@
-Microstoma insititia (Berk. & M.A. Curtis) Boedijn SPECIES
-=======
+# Microstoma insititium (Berk. & M.A. Curtis) Boedijn SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 5(3-6): 212 (1951)
 
 #### Original name
 Peziza insititia Berk. & M.A. Curtis

@@ -1,5 +1,4 @@
-Patellaria rubina (Vill.) Spreng. SPECIES
-=======
+# Patellaria rubina (Vill.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

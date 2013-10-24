@@ -1,5 +1,4 @@
-Phaeochora indaya Viégas, 1944 SPECIES
-=======
+# Phaeochora indaya Viégas, 1944 SPECIES
 
 #### Status
 ACCEPTED

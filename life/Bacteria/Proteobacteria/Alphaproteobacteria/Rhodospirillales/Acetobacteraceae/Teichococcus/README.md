@@ -1,5 +1,4 @@
-Teichococcus Kämpfer et al., 2003 GENUS
-=======
+# Teichococcus Kämpfer et al., 2003 GENUS
 
 #### Status
 ACCEPTED

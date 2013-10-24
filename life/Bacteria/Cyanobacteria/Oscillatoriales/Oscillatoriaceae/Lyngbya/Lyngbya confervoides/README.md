@@ -1,5 +1,4 @@
-Lyngbya confervoides C. Agardh SPECIES
-=======
+# Lyngbya confervoides C. Agardh SPECIES
 
 #### Status
 ACCEPTED

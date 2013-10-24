@@ -1,5 +1,4 @@
-Opercularia philydri SPECIES
-=======
+# Opercularia philydri SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pharcidia lichenicola anon. SPECIES
-=======
+# Pharcidia lichenicola anon. SPECIES
 
 #### Status
 ACCEPTED

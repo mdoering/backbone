@@ -1,5 +1,4 @@
-Thecaphora iresines (J.A. Elliott) H.S. Jacks. SPECIES
-=======
+# Thecaphora iresines (J.A. Elliott) H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

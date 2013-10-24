@@ -1,5 +1,4 @@
-Lembosia miconiicola G. Arnaud SPECIES
-=======
+# Lembosia miconiicola G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

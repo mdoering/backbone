@@ -1,5 +1,4 @@
-Bacidia proliferans C.W. Dodge SPECIES
-=======
+# Bacidia proliferans C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

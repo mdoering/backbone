@@ -1,5 +1,4 @@
-Pseudocercospora lagerstroemiigena Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora lagerstroemiigena Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

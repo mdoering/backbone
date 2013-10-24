@@ -1,5 +1,4 @@
-Halegrapha intergrapha Hale ex Lücking SPECIES
-=======
+# Halegrapha intergrapha Hale ex Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius subturibulosus Kizlik & Trescol SPECIES
-=======
+# Cortinarius subturibulosus Kizlik & Trescol SPECIES
 
 #### Status
 ACCEPTED

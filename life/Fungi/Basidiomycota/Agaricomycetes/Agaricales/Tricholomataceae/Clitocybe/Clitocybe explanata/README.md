@@ -1,5 +1,4 @@
-Clitocybe explanata Velen. SPECIES
-=======
+# Clitocybe explanata Velen. SPECIES
 
 #### Status
 ACCEPTED

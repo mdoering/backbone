@@ -1,5 +1,4 @@
-Valsa trichospora Cooke & Peck SPECIES
-=======
+# Valsa trichospora Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

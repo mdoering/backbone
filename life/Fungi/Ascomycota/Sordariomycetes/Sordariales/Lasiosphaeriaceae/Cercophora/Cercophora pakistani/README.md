@@ -1,5 +1,4 @@
-Cercophora pakistani (J.H. Mirza) Arx SPECIES
-=======
+# Cercophora pakistani (J.H. Mirza) Arx SPECIES
 
 #### Status
 ACCEPTED

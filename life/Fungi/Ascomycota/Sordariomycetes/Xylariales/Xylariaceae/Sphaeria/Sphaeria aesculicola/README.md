@@ -1,5 +1,4 @@
-Sphaeria aesculicola Fr. SPECIES
-=======
+# Sphaeria aesculicola Fr. SPECIES
 
 #### Status
 ACCEPTED

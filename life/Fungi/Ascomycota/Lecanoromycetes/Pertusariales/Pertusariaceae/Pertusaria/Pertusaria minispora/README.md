@@ -1,5 +1,4 @@
-Pertusaria minispora A. W. Archer & Elix SPECIES
-=======
+# Pertusaria minispora A. W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

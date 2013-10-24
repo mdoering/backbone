@@ -1,5 +1,4 @@
-Pertusaria microstictoides Räsänen SPECIES
-=======
+# Pertusaria microstictoides Räsänen SPECIES
 
 #### Status
 ACCEPTED

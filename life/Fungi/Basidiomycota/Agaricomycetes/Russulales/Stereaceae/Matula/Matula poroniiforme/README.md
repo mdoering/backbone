@@ -1,17 +1,16 @@
-Artocreas poroniaeforme Berk. & Broome SPECIES
-=======
+# Matula poroniiforme (Berk. & Broome) Massee, 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Roy. Microscop. Soc. 4: 173 (1888)
 
 #### Original name
-Artocreas poroniaeforme Berk. & Broome
+Artocreas poroniiforme Berk. & Broome, 1875
 
 ### Remarks
 null

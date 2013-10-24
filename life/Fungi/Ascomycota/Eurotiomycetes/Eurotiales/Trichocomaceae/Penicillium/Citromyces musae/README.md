@@ -1,5 +1,4 @@
-Citromyces musae Bainier & Sartory SPECIES
-=======
+# Citromyces musae Bainier & Sartory SPECIES
 
 #### Status
 ACCEPTED

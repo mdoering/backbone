@@ -1,5 +1,4 @@
-Macrolepiota brasiliensis (Rick) Raithelh. SPECIES
-=======
+# Macrolepiota brasiliensis (Rick) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

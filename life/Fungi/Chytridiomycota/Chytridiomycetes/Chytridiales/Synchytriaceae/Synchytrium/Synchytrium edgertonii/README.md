@@ -1,5 +1,4 @@
-Synchytrium edgertonii M.T. Cook SPECIES
-=======
+# Synchytrium edgertonii M.T. Cook SPECIES
 
 #### Status
 ACCEPTED

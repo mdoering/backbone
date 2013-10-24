@@ -1,5 +1,4 @@
-Amphibacillus fermentum Zhilina et al., 2002 SPECIES
-=======
+# Amphibacillus fermentum Zhilina et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

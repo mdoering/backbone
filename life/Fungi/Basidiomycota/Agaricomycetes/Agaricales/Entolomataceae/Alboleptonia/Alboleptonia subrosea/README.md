@@ -1,5 +1,4 @@
-Alboleptonia subrosea T.J. Baroni & Lodge SPECIES
-=======
+# Alboleptonia subrosea T.J. Baroni & Lodge SPECIES
 
 #### Status
 ACCEPTED

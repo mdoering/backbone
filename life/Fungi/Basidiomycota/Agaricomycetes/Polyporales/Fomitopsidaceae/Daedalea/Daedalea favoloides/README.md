@@ -1,5 +1,4 @@
-Daedalea favoloides Murrill SPECIES
-=======
+# Daedalea favoloides Murrill SPECIES
 
 #### Status
 ACCEPTED

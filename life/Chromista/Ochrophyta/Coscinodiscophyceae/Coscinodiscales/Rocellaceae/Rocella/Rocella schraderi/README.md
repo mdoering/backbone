@@ -1,5 +1,4 @@
-Rocella schraderi D. Bukry SPECIES
-=======
+# Rocella schraderi D. Bukry SPECIES
 
 #### Status
 ACCEPTED

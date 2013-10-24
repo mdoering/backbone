@@ -1,5 +1,4 @@
-Gangliophragma subramanianii Udaiyan SPECIES
-=======
+# Gangliophragma subramanianii Udaiyan SPECIES
 
 #### Status
 ACCEPTED

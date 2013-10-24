@@ -1,5 +1,4 @@
-Aspergillus oosporus (Link) Wallr. SPECIES
-=======
+# Aspergillus oosporus (Link) Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neottiella regalis (Velen.) Svrcek SPECIES
-=======
+# Neottiella regalis (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

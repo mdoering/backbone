@@ -1,5 +1,4 @@
-Urocystis ceratocephali Zambett. ex Vánky, 1988 SPECIES
-=======
+# Urocystis ceratocephali Zambett. ex Vánky, 1988 SPECIES
 
 #### Status
 ACCEPTED

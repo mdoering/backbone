@@ -1,5 +1,4 @@
-Hymenogaster monosporus E.L. Stewart & Trappe SPECIES
-=======
+# Hymenogaster monosporus E.L. Stewart & Trappe SPECIES
 
 #### Status
 ACCEPTED

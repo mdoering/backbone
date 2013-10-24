@@ -1,5 +1,4 @@
-Lactarius roseoviolascens (Lasch) Romell SPECIES
-=======
+# Lactarius roseoviolascens (Lasch) Romell SPECIES
 
 #### Status
 ACCEPTED

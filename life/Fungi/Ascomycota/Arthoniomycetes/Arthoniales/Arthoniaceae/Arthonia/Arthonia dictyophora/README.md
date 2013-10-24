@@ -1,5 +1,4 @@
-Arthonia dictyophora (Müll. Arg.) Stizenb. SPECIES
-=======
+# Arthonia dictyophora (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella imleriana Volders SPECIES
-=======
+# Psathyrella imleriana Volders SPECIES
 
 #### Status
 ACCEPTED

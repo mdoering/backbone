@@ -1,14 +1,13 @@
-Humaria luteola Velen., 1934 SPECIES
-=======
+# Boubovia luteola (Velen.) Svrcek, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Discom. Bohem. (Prague) 327 (1934)
+Ceská Mykol. 31(2): 71 (1977)
 
 #### Original name
 Humaria luteola Velen., 1934

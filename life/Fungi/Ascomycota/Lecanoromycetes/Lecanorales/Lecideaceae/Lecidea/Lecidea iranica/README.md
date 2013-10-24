@@ -1,5 +1,4 @@
-Lecidea iranica Szatala SPECIES
-=======
+# Lecidea iranica Szatala SPECIES
 
 #### Status
 ACCEPTED

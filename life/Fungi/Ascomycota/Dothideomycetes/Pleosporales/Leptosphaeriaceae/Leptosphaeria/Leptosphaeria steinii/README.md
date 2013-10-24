@@ -1,5 +1,4 @@
-Leptosphaeria steinii (Körb.) G. Winter SPECIES
-=======
+# Leptosphaeria steinii (Körb.) G. Winter SPECIES
 
 #### Status
 ACCEPTED

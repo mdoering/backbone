@@ -1,5 +1,4 @@
-Hendersonia asteris Beraux {?} SPECIES
-=======
+# Hendersonia asteris Beraux {?} SPECIES
 
 #### Status
 ACCEPTED

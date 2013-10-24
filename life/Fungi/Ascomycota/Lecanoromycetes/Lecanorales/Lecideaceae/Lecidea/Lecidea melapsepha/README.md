@@ -1,5 +1,4 @@
-Lecidea melapsepha Nyl. SPECIES
-=======
+# Lecidea melapsepha Nyl. SPECIES
 
 #### Status
 ACCEPTED

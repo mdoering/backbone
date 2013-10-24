@@ -1,5 +1,4 @@
-Miyoshiella triseptata (Shoemaker & G.P. White) Réblová SPECIES
-=======
+# Miyoshiella triseptata (Shoemaker & G.P. White) Réblová SPECIES
 
 #### Status
 ACCEPTED

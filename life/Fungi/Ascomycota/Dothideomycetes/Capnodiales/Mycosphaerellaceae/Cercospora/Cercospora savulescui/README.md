@@ -1,5 +1,4 @@
-Cercospora savulescui Sandu SPECIES
-=======
+# Cercospora savulescui Sandu SPECIES
 
 #### Status
 ACCEPTED

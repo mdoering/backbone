@@ -1,5 +1,4 @@
-Platygrapha flavidoatra Kremp. SPECIES
-=======
+# Platygrapha flavidoatra Kremp. SPECIES
 
 #### Status
 ACCEPTED

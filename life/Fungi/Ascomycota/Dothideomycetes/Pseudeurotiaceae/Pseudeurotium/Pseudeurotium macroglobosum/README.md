@@ -1,5 +1,4 @@
-Pseudeurotium macroglobosum Matsush. SPECIES
-=======
+# Pseudeurotium macroglobosum Matsush. SPECIES
 
 #### Status
 ACCEPTED

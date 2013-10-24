@@ -1,5 +1,4 @@
-Burgoa Goid. GENUS
-=======
+# Burgoa Goid. GENUS
 
 #### Status
 ACCEPTED

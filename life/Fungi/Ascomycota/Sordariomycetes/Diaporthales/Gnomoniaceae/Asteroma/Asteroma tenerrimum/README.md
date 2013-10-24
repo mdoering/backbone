@@ -1,5 +1,4 @@
-Asteroma tenerrimum var. tenerrimum VARIETY
-=======
+# Asteroma tenerrimum Grognot SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Asteroma tenerrimum var. tenerrimum
+Asteroma tenerrimum Grognot
 
 ### Remarks
 null

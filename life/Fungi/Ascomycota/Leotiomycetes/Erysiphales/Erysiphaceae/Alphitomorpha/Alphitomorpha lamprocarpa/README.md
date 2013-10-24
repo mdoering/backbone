@@ -1,5 +1,4 @@
-Alphitomorpha lamprocarpa ß balsaminae Wallr. SPECIES
-=======
+# Alphitomorpha lamprocarpa ß balsaminae Wallr. SPECIES
 
 #### Status
 ACCEPTED

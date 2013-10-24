@@ -1,5 +1,4 @@
-Laminaria rodriguezii Bornet SPECIES
-=======
+# Laminaria rodriguezii Bornet SPECIES
 
 #### Status
 ACCEPTED

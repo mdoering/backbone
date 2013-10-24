@@ -1,5 +1,4 @@
-Cortinarius lebre Garrido SPECIES
-=======
+# Cortinarius lebre Garrido SPECIES
 
 #### Status
 ACCEPTED

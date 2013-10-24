@@ -1,5 +1,4 @@
-Collybia expallens Peck SPECIES
-=======
+# Collybia expallens Peck SPECIES
 
 #### Status
 ACCEPTED

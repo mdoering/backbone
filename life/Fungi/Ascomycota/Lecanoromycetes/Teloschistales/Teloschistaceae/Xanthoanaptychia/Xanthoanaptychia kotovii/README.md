@@ -1,5 +1,4 @@
-Xanthoanaptychia kotovii S. Y. Kondr. & Kudratov SPECIES
-=======
+# Xanthoanaptychia kotovii S. Y. Kondr. & Kudratov SPECIES
 
 #### Status
 ACCEPTED

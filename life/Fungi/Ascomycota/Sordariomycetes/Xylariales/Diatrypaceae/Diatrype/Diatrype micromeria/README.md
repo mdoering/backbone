@@ -1,5 +1,4 @@
-Diatrype micromeria Mont. SPECIES
-=======
+# Diatrype micromeria Mont. SPECIES
 
 #### Status
 ACCEPTED

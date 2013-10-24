@@ -1,5 +1,4 @@
-Pseudoparmelia martinicana (Nyl.) Hale SPECIES
-=======
+# Pseudoparmelia martinicana (Nyl.) Hale SPECIES
 
 #### Status
 ACCEPTED

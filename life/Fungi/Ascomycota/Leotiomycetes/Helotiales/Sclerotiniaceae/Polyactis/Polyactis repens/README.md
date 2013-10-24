@@ -1,5 +1,4 @@
-Polyactis repens Bonord. SPECIES
-=======
+# Polyactis repens Bonord. SPECIES
 
 #### Status
 ACCEPTED

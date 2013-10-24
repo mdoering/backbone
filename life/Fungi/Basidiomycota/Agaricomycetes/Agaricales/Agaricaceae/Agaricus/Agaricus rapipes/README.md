@@ -1,5 +1,4 @@
-Agaricus rapipes Krombh. SPECIES
-=======
+# Agaricus rapipes Krombh. SPECIES
 
 #### Status
 ACCEPTED

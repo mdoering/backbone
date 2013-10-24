@@ -1,5 +1,4 @@
-Porina follmanniana U. Becker & Lücking SPECIES
-=======
+# Porina follmanniana U. Becker & Lücking SPECIES
 
 #### Status
 ACCEPTED

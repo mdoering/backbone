@@ -1,5 +1,4 @@
-Blastocystis ranarum Ivanic SPECIES
-=======
+# Blastocystis ranarum Ivanic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endophragmiella africana P.M. Kirk, 1982 SPECIES
-=======
+# Endophragmiella africana P.M. Kirk, 1982 SPECIES
 
 #### Status
 ACCEPTED

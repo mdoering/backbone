@@ -1,5 +1,4 @@
-Phieco32-like viruses GENUS
-=======
+# Phieco32-like viruses GENUS
 
 #### Status
 ACCEPTED

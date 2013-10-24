@@ -1,5 +1,4 @@
-Mycena albidolilacea Kühner & Maire SPECIES
-=======
+# Mycena albidolilacea Kühner & Maire SPECIES
 
 #### Status
 ACCEPTED

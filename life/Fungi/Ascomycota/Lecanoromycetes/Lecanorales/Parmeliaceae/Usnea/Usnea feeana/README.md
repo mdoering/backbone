@@ -1,5 +1,4 @@
-Usnea feeana Motyka SPECIES
-=======
+# Usnea feeana Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acremonium alcalophilum G. Okada, 1993 SPECIES
-=======
+# Acremonium alcalophilum G. Okada, 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichtheimia Vuill. GENUS
-=======
+# Lichtheimia Vuill. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporidesmium caespitulosum (Ellis & Everh.) M.B. Ellis SPECIES
-=======
+# Sporidesmium caespitulosum (Ellis & Everh.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

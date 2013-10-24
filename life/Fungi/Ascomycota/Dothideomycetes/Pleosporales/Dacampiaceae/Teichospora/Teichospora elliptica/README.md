@@ -1,5 +1,4 @@
-Teichospora elliptica Peck SPECIES
-=======
+# Teichospora elliptica Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta calabrica Sacc. & Trotter SPECIES
-=======
+# Phyllosticta calabrica Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

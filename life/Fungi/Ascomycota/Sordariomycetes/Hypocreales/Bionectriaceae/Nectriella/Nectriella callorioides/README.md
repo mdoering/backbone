@@ -1,5 +1,4 @@
-Nectriella callorioides Rehm SPECIES
-=======
+# Nectriella callorioides Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peniophora lutea Rick SPECIES
-=======
+# Peniophora lutea Rick SPECIES
 
 #### Status
 ACCEPTED

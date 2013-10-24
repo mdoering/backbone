@@ -1,17 +1,16 @@
-Heptameria spartiniae (Ellis & Everh.) Cooke, 1889 SPECIES
-=======
+# Phaeosphaeria spartinae (Ellis & Everh.) Shoemaker & C.E. Babc., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 67(5): 1573 (1989)
 
 #### Original name
-null
+Leptosphaeria spartinae Ellis & Everh., 1885
 
 ### Remarks
 null

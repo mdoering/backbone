@@ -1,5 +1,4 @@
-Thaxterogaster tylostomatoides Singer SPECIES
-=======
+# Thaxterogaster tylostomatoides Singer SPECIES
 
 #### Status
 ACCEPTED

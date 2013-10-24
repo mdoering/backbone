@@ -1,5 +1,4 @@
-Cercospora iponemensis Henn. SPECIES
-=======
+# Cercospora iponemensis Henn. SPECIES
 
 #### Status
 ACCEPTED

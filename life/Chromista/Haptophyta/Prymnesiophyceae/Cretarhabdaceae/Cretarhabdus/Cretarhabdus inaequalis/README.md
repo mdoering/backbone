@@ -1,5 +1,4 @@
-Cretarhabdus inaequalis SPECIES
-=======
+# Cretarhabdus inaequalis SPECIES
 
 #### Status
 ACCEPTED

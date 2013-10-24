@@ -1,5 +1,4 @@
-Leucopaxillus monticola (Singer & A.H. Sm.) Bon SPECIES
-=======
+# Leucopaxillus monticola (Singer & A.H. Sm.) Bon SPECIES
 
 #### Status
 ACCEPTED

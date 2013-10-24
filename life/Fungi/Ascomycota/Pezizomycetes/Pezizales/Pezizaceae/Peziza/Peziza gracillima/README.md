@@ -1,5 +1,4 @@
-Peziza gracillima Weinm. SPECIES
-=======
+# Peziza gracillima Weinm. SPECIES
 
 #### Status
 ACCEPTED

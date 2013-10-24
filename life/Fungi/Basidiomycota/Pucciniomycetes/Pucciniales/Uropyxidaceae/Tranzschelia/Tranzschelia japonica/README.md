@@ -1,5 +1,4 @@
-Tranzschelia japonica Tranzschel & M.A. Litv. SPECIES
-=======
+# Tranzschelia japonica Tranzschel & M.A. Litv. SPECIES
 
 #### Status
 ACCEPTED

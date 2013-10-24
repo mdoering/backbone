@@ -1,14 +1,13 @@
-Entoloma versatilis (Gillet) M.M. Moser SPECIES
-=======
+# Entoloma versatile (Gillet) M.M. Moser, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Gams, Kleine Kryptogamenflora (Stuttgart), Bd <b>II</b> b/2, ed. 4 2b/2: 209 (1978)
 
 #### Original name
 Nolanea versatilis Gillet, 1876

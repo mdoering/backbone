@@ -1,5 +1,4 @@
-Blastospora betulae S. Kaneko & Hirats. f. SPECIES
-=======
+# Blastospora betulae S. Kaneko & Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pterula arbuscula Bres. SPECIES
-=======
+# Pterula arbuscula Bres. SPECIES
 
 #### Status
 ACCEPTED

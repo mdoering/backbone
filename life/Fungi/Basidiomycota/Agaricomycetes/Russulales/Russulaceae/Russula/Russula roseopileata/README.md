@@ -1,5 +1,4 @@
-Russula roseopileata McNabb, 1973 SPECIES
-=======
+# Russula roseopileata McNabb, 1973 SPECIES
 
 #### Status
 ACCEPTED

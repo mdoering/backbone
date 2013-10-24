@@ -1,5 +1,4 @@
-Cephalosporium majus Penz. SPECIES
-=======
+# Cephalosporium majus Penz. SPECIES
 
 #### Status
 ACCEPTED

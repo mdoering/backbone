@@ -1,5 +1,4 @@
-Phoma deutziae Allesch. SPECIES
-=======
+# Phoma deutziae Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe intricata var. intricata VARIETY
-=======
+# Inocybe intricata Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Inocybe intricata var. intricata
+Inocybe intricata Peck
 
 ### Remarks
 null

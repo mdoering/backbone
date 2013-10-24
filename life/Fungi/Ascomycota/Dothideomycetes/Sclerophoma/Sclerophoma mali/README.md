@@ -1,5 +1,4 @@
-Sclerophoma mali Syd. & P. Syd. SPECIES
-=======
+# Sclerophoma mali Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

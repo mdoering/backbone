@@ -1,5 +1,4 @@
-Puccinia digitata Ellis & Harkn. SPECIES
-=======
+# Puccinia digitata Ellis & Harkn. SPECIES
 
 #### Status
 ACCEPTED

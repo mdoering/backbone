@@ -1,5 +1,4 @@
-Fissurina leuconephela Nyl. SPECIES
-=======
+# Fissurina leuconephela Nyl. SPECIES
 
 #### Status
 ACCEPTED

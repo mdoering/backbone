@@ -1,5 +1,4 @@
-Rickenella demissella (M. Lange) Clémençon SPECIES
-=======
+# Rickenella demissella (M. Lange) Clémençon SPECIES
 
 #### Status
 ACCEPTED

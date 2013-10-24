@@ -1,14 +1,13 @@
-Cookella parasitica (Henn.) Henn., 1900 SPECIES
-=======
+# Uleomyces parasiticus Henn., 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 34: (1895)
 
 #### Original name
 Uleomyces parasiticus Henn., 1895

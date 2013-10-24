@@ -1,5 +1,4 @@
-Leptosphaeria francoae (Speg.) Sacc. & Trotter SPECIES
-=======
+# Leptosphaeria francoae (Speg.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

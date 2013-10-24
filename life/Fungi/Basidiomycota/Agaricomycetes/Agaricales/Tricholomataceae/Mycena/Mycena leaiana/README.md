@@ -1,5 +1,4 @@
-Mycena leaiana (Berk.) Sacc. SPECIES
-=======
+# Mycena leaiana (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

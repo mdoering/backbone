@@ -1,5 +1,4 @@
-Phoma minutissima Cooke SPECIES
-=======
+# Phoma minutissima Cooke SPECIES
 
 #### Status
 ACCEPTED

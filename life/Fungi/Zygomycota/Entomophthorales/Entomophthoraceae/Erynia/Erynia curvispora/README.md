@@ -1,14 +1,13 @@
-Entomophthora curvispora Nowak., 1877 SPECIES
-=======
+# Erynia curvispora (Nowak.) Remaud. & Hennebert, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Zeitschr. 217 (1877)
+Mycotaxon 11(1): 302 (1980)
 
 #### Original name
 Entomophthora curvispora Nowak., 1877

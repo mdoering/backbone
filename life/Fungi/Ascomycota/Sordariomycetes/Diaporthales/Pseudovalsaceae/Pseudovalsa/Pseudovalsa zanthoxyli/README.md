@@ -1,8 +1,7 @@
-Pseudovalsa xanthoxyli (Peck) Sacc. SPECIES
-=======
+# Pseudovalsa zanthoxyli (Peck) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Macrophoma salicis Défago & Barthol. SPECIES
-=======
+# Macrophoma salicis Défago & Barthol. SPECIES
 
 #### Status
 ACCEPTED

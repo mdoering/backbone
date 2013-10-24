@@ -1,5 +1,4 @@
-Pseudostilbella Munt.-Cvetk. & Gómez-Bolea GENUS
-=======
+# Pseudostilbella Munt.-Cvetk. & Gómez-Bolea GENUS
 
 #### Status
 ACCEPTED

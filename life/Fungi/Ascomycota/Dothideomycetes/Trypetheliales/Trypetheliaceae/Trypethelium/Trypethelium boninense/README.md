@@ -1,5 +1,4 @@
-Trypethelium boninense Kurok. SPECIES
-=======
+# Trypethelium boninense Kurok. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium cardiospermophilum Speg. SPECIES
-=======
+# Aecidium cardiospermophilum Speg. SPECIES
 
 #### Status
 ACCEPTED

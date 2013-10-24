@@ -1,5 +1,4 @@
-Coniosporium verticillii Corda SPECIES
-=======
+# Coniosporium verticillii Corda SPECIES
 
 #### Status
 ACCEPTED

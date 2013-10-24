@@ -1,5 +1,4 @@
-Peridermium ephedrae Speg. SPECIES
-=======
+# Peridermium ephedrae Speg. SPECIES
 
 #### Status
 ACCEPTED

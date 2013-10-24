@@ -1,5 +1,4 @@
-Exidiopsis paniculata K. Wells & Bandoni SPECIES
-=======
+# Exidiopsis paniculata K. Wells & Bandoni SPECIES
 
 #### Status
 ACCEPTED

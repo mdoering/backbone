@@ -1,5 +1,4 @@
-Trichopeziza fuscohyalina Rehm SPECIES
-=======
+# Trichopeziza fuscohyalina Rehm SPECIES
 
 #### Status
 ACCEPTED

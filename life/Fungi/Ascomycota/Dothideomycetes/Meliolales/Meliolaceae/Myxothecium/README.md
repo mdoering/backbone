@@ -1,5 +1,4 @@
-Myxothecium GENUS
-=======
+# Myxothecium GENUS
 
 #### Status
 ACCEPTED

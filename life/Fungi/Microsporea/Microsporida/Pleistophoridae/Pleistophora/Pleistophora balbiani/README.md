@@ -1,5 +1,4 @@
-Pleistophora balbiani SPECIES
-=======
+# Pleistophora balbiani SPECIES
 
 #### Status
 ACCEPTED

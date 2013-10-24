@@ -1,5 +1,4 @@
-Tricharia albostrigosa R. Sant., 1952 SPECIES
-=======
+# Tricharia albostrigosa R. Sant., 1952 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Asteromella claytoniae Murashk. SPECIES
-=======
+# Asteromella claytoniae Murashk. SPECIES
 
 #### Status
 ACCEPTED

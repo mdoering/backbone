@@ -1,5 +1,4 @@
-Puccinia alyxiae Cooke & Massee SPECIES
-=======
+# Puccinia alyxiae Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

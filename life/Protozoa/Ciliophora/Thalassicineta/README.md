@@ -1,5 +1,4 @@
-Thalassicineta GENUS
-=======
+# Thalassicineta GENUS
 
 #### Status
 ACCEPTED

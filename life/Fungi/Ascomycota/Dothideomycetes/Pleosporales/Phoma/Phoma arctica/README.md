@@ -1,5 +1,4 @@
-Phoma arctica P. Karst. SPECIES
-=======
+# Phoma arctica P. Karst. SPECIES
 
 #### Status
 ACCEPTED

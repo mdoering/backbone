@@ -1,5 +1,4 @@
-Lagenidium coenocyticum S.N. Dasgupta & R. John SPECIES
-=======
+# Lagenidium coenocyticum S.N. Dasgupta & R. John SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hanusia J.A. Deane, D.R.A. Hill, S.J. Brett & G.I. McFadden, 1998 GENUS
-=======
+# Hanusia J.A. Deane, D.R.A. Hill, S.J. Brett & G.I. McFadden, 1998 GENUS
 
 #### Status
 ACCEPTED

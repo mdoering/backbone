@@ -1,5 +1,4 @@
-Podospora cervina (Cain) Cain SPECIES
-=======
+# Podospora cervina (Cain) Cain SPECIES
 
 #### Status
 ACCEPTED

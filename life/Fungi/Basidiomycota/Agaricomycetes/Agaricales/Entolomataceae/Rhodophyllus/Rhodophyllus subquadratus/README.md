@@ -1,5 +1,4 @@
-Rhodophyllus subquadratus (Hesler) Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus subquadratus (Hesler) Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

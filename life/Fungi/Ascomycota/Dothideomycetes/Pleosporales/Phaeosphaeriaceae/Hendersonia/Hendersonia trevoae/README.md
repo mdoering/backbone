@@ -1,5 +1,4 @@
-Hendersonia trevoae Speg. SPECIES
-=======
+# Hendersonia trevoae Speg. SPECIES
 
 #### Status
 ACCEPTED

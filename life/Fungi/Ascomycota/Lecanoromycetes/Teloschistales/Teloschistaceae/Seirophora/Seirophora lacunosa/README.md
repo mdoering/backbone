@@ -1,5 +1,4 @@
-Seirophora lacunosa (Rupr.) Frödén SPECIES
-=======
+# Seirophora lacunosa (Rupr.) Frödén SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma tumefactum (Britzelm.) Sacc. & P. Syd. SPECIES
-=======
+# Tricholoma tumefactum (Britzelm.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

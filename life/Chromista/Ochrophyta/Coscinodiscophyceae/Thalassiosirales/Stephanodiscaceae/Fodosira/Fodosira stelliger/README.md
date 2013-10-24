@@ -1,5 +1,4 @@
-Fodosira stelliger Mann SPECIES
-=======
+# Fodosira stelliger Mann SPECIES
 
 #### Status
 ACCEPTED

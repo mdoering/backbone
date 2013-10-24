@@ -1,5 +1,4 @@
-Polyporus salitrosus Lloyd SPECIES
-=======
+# Polyporus salitrosus Lloyd SPECIES
 
 #### Status
 ACCEPTED

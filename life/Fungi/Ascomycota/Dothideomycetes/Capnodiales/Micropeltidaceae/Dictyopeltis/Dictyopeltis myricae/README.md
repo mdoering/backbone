@@ -1,5 +1,4 @@
-Dictyopeltis myricae Hansf. SPECIES
-=======
+# Dictyopeltis myricae Hansf. SPECIES
 
 #### Status
 ACCEPTED

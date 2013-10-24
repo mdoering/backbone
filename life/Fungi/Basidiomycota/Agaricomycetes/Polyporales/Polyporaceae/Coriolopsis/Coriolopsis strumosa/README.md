@@ -1,17 +1,16 @@
-Polystictus aratus var. aratus VARIETY
-=======
+# Coriolopsis strumosa (Fr.) Ryvarden, 1976 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kew Bull. 31: 95 (1976)
 
 #### Original name
-Polystictus aratus var. aratus
+Polyporus strumosus Fr., 1838
 
 ### Remarks
 null

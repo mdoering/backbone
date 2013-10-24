@@ -1,5 +1,4 @@
-Sporotrichum gratum Schwein. SPECIES
-=======
+# Sporotrichum gratum Schwein. SPECIES
 
 #### Status
 ACCEPTED

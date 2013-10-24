@@ -1,5 +1,4 @@
-Leprocybe GENUS
-=======
+# Leprocybe GENUS
 
 #### Status
 ACCEPTED

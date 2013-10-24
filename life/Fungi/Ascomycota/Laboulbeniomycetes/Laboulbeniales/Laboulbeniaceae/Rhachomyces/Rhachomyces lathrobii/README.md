@@ -1,5 +1,4 @@
-Rhachomyces lathrobii Thaxt. SPECIES
-=======
+# Rhachomyces lathrobii Thaxt. SPECIES
 
 #### Status
 ACCEPTED

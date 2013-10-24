@@ -1,5 +1,4 @@
-Nectaromyces Schoelhorn, 1920 GENUS
-=======
+# Nectaromyces Schoelhorn, 1920 GENUS
 
 #### Status
 ACCEPTED

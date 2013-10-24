@@ -1,5 +1,4 @@
-Diacheopsis rigidifila S.L. Stephenson & Nann.-Bremek., 1990 SPECIES
-=======
+# Diacheopsis rigidifila S.L. Stephenson & Nann.-Bremek., 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phloeospora hiratsukae Togashi SPECIES
-=======
+# Phloeospora hiratsukae Togashi SPECIES
 
 #### Status
 ACCEPTED

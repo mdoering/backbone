@@ -1,5 +1,4 @@
-Methylothermus Tsubota et al., 2005 GENUS
-=======
+# Methylothermus Tsubota et al., 2005 GENUS
 
 #### Status
 ACCEPTED

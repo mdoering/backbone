@@ -1,5 +1,4 @@
-Hypochnicium cystidiatum Boidin & Gilles, 1971 SPECIES
-=======
+# Hypochnicium cystidiatum Boidin & Gilles, 1971 SPECIES
 
 #### Status
 ACCEPTED

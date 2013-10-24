@@ -1,5 +1,4 @@
-Sarcinella castanopsidis Hosag., J. Thomas & P.J. Robin SPECIES
-=======
+# Sarcinella castanopsidis Hosag., J. Thomas & P.J. Robin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chrysosporium gourii P.C. Jain, Deshmukh & S.C. Agarwal SPECIES
-=======
+# Chrysosporium gourii P.C. Jain, Deshmukh & S.C. Agarwal SPECIES
 
 #### Status
 ACCEPTED

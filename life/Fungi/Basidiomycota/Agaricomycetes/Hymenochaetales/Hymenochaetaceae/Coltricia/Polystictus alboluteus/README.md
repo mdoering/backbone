@@ -1,5 +1,4 @@
-Polystictus alboluteus Rostr. SPECIES
-=======
+# Polystictus alboluteus Rostr. SPECIES
 
 #### Status
 ACCEPTED

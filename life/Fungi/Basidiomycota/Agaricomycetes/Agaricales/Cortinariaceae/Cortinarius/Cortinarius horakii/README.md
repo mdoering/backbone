@@ -1,5 +1,4 @@
-Cortinarius horakii E. Valenz. & Esteve-Rav. SPECIES
-=======
+# Cortinarius horakii E. Valenz. & Esteve-Rav. SPECIES
 
 #### Status
 ACCEPTED

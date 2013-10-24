@@ -1,5 +1,4 @@
-Nephromopsis hengduanensis X.Q. Gao & L.H. Chen SPECIES
-=======
+# Nephromopsis hengduanensis X.Q. Gao & L.H. Chen SPECIES
 
 #### Status
 ACCEPTED

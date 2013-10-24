@@ -1,5 +1,4 @@
-Mycena eucryphiarum Singer SPECIES
-=======
+# Mycena eucryphiarum Singer SPECIES
 
 #### Status
 ACCEPTED

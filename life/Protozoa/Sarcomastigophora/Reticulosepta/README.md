@@ -1,5 +1,4 @@
-Reticulosepta Magginetti, Stevens & Stone, 1988 GENUS
-=======
+# Reticulosepta Magginetti, Stevens & Stone, 1988 GENUS
 
 #### Status
 ACCEPTED

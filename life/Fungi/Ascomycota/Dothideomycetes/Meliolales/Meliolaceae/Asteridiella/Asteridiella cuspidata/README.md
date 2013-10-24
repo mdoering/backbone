@@ -1,5 +1,4 @@
-Asteridiella cuspidata (Cif.) Hansf. SPECIES
-=======
+# Asteridiella cuspidata (Cif.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

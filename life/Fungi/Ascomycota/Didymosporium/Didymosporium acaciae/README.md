@@ -1,5 +1,4 @@
-Didymosporium acaciae Tassi SPECIES
-=======
+# Didymosporium acaciae Tassi SPECIES
 
 #### Status
 ACCEPTED

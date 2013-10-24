@@ -1,5 +1,4 @@
-Asterina pentaphylacis B. Song SPECIES
-=======
+# Asterina pentaphylacis B. Song SPECIES
 
 #### Status
 ACCEPTED

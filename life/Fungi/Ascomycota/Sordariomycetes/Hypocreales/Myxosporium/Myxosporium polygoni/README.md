@@ -1,5 +1,4 @@
-Myxosporium polygoni Grove SPECIES
-=======
+# Myxosporium polygoni Grove SPECIES
 
 #### Status
 ACCEPTED

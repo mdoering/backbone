@@ -1,5 +1,4 @@
-Microcoleus limbatus (Harvey) Bornet SPECIES
-=======
+# Microcoleus limbatus (Harvey) Bornet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocyphellaria horridula var. horridula VARIETY
-=======
+# Pseudocyphellaria horridula Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pseudocyphellaria horridula var. horridula
+Pseudocyphellaria horridula Zahlbr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Albugo wasabiae Hara SPECIES
-=======
+# Albugo wasabiae Hara SPECIES
 
 #### Status
 ACCEPTED

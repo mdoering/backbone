@@ -1,5 +1,4 @@
-Rosasporina Bene GENUS
-=======
+# Rosasporina Bene GENUS
 
 #### Status
 ACCEPTED

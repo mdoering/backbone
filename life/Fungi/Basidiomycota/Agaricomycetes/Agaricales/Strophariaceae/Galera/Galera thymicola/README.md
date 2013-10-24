@@ -1,5 +1,4 @@
-Galera thymicola Velen. SPECIES
-=======
+# Galera thymicola Velen. SPECIES
 
 #### Status
 ACCEPTED

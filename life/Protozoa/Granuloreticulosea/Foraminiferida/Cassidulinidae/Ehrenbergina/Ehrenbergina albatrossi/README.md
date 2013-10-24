@@ -1,5 +1,4 @@
-Ehrenbergina albatrossi Cushman, 1933 SPECIES
-=======
+# Ehrenbergina albatrossi Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

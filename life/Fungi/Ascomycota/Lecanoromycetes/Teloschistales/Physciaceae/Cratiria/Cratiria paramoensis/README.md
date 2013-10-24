@@ -1,5 +1,4 @@
-Cratiria paramoensis Marbach SPECIES
-=======
+# Cratiria paramoensis Marbach SPECIES
 
 #### Status
 ACCEPTED

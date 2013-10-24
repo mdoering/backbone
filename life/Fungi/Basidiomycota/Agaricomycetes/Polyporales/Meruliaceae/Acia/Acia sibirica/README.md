@@ -1,5 +1,4 @@
-Acia sibirica Pilát SPECIES
-=======
+# Acia sibirica Pilát SPECIES
 
 #### Status
 ACCEPTED

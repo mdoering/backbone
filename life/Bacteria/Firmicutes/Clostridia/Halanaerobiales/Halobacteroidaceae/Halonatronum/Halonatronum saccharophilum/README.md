@@ -1,5 +1,4 @@
-Halonatronum saccharophilum Zhilina et al., 2001 SPECIES
-=======
+# Halonatronum saccharophilum Zhilina et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

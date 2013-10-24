@@ -1,5 +1,4 @@
-Xerula renati (Clémençon) Contu SPECIES
-=======
+# Xerula renati (Clémençon) Contu SPECIES
 
 #### Status
 ACCEPTED

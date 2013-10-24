@@ -1,5 +1,4 @@
-Prodenia androgea GV SPECIES
-=======
+# Prodenia androgea GV SPECIES
 
 #### Status
 ACCEPTED

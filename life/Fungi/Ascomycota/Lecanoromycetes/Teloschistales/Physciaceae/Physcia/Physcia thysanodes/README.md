@@ -1,5 +1,4 @@
-Physcia thysanodes SPECIES
-=======
+# Physcia thysanodes SPECIES
 
 #### Status
 ACCEPTED

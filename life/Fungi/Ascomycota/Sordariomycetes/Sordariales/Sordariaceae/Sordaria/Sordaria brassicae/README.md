@@ -1,5 +1,4 @@
-Sordaria brassicae Klotzsch SPECIES
-=======
+# Sordaria brassicae Klotzsch SPECIES
 
 #### Status
 ACCEPTED

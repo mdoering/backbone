@@ -1,5 +1,4 @@
-Prillieuxia modesta Rick SPECIES
-=======
+# Prillieuxia modesta Rick SPECIES
 
 #### Status
 ACCEPTED

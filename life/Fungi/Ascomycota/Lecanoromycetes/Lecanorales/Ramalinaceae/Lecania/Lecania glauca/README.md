@@ -1,5 +1,4 @@
-Lecania glauca Øvstedal & Søchting SPECIES
-=======
+# Lecania glauca Øvstedal & Søchting SPECIES
 
 #### Status
 ACCEPTED

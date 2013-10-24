@@ -1,5 +1,4 @@
-Gloeosporium angulatum (Cooke) Sacc. SPECIES
-=======
+# Gloeosporium angulatum (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

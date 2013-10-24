@@ -1,5 +1,4 @@
-Hendersonulina punctoidea (P. Karst.) Tassi SPECIES
-=======
+# Hendersonulina punctoidea (P. Karst.) Tassi SPECIES
 
 #### Status
 ACCEPTED

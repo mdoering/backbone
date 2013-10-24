@@ -1,5 +1,4 @@
-Sphaerella sisyrinchiicola Speg. SPECIES
-=======
+# Sphaerella sisyrinchiicola Speg. SPECIES
 
 #### Status
 ACCEPTED

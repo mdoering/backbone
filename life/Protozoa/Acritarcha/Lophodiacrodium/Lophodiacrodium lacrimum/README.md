@@ -1,5 +1,4 @@
-Lophodiacrodium lacrimum Vavrdová, 1986 SPECIES
-=======
+# Lophodiacrodium lacrimum Vavrdová, 1986 SPECIES
 
 #### Status
 ACCEPTED

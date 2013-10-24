@@ -1,5 +1,4 @@
-Arthrobotrys pseudoclavata (Z.Q. Miao & Xing Z. Liu) J. Chen, L.L. Xu, B. Liu & Xing Z. Liu SPECIES
-=======
+# Arthrobotrys pseudoclavata (Z.Q. Miao & Xing Z. Liu) J. Chen, L.L. Xu, B. Liu & Xing Z. Liu SPECIES
 
 #### Status
 ACCEPTED

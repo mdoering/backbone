@@ -1,17 +1,16 @@
-Lecidea paupercula f. paupercula FORM
-=======
+# Lecidea paupercula Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. Scand. (Uppsala) 1: 432 (1874)
 
 #### Original name
-Lecidea paupercula f. paupercula
+Lecidea paupercula Th. Fr.
 
 ### Remarks
 null

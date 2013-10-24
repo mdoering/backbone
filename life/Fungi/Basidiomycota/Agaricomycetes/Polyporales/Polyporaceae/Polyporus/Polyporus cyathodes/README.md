@@ -1,5 +1,4 @@
-Polyporus cyathodes Pers. SPECIES
-=======
+# Polyporus cyathodes Pers. SPECIES
 
 #### Status
 ACCEPTED

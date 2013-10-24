@@ -1,5 +1,4 @@
-Lithocia tectorum A. Massal. SPECIES
-=======
+# Lithocia tectorum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

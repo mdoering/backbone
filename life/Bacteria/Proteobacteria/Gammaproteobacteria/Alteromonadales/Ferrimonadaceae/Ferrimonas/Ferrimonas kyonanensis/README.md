@@ -1,5 +1,4 @@
-Ferrimonas kyonanensis Nakagawa, Iino, Suzuki & Harayama, 2006 SPECIES
-=======
+# Ferrimonas kyonanensis Nakagawa, Iino, Suzuki & Harayama, 2006 SPECIES
 
 #### Status
 ACCEPTED

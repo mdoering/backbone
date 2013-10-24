@@ -1,5 +1,4 @@
-Nubeculinita ramosa Loeblich & Tappan, 1994 SPECIES
-=======
+# Nubeculinita ramosa Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

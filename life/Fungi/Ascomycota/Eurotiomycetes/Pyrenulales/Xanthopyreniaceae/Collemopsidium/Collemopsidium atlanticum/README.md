@@ -1,5 +1,4 @@
-Collemopsidium atlanticum Vain. SPECIES
-=======
+# Collemopsidium atlanticum Vain. SPECIES
 
 #### Status
 ACCEPTED

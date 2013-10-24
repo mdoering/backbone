@@ -1,5 +1,4 @@
-Amphitrichum microsporum (Ellis & Everh.) Kuntze SPECIES
-=======
+# Amphitrichum microsporum (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

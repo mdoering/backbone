@@ -1,8 +1,7 @@
-Stentor solitarius Oken, 1815 SPECIES
-=======
+# Stentor muelleri Ehrenberg, 1832 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

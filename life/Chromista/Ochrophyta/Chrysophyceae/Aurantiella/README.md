@@ -1,5 +1,4 @@
-Aurantiella R. Chodat, 1925 GENUS
-=======
+# Aurantiella R. Chodat, 1925 GENUS
 
 #### Status
 ACCEPTED

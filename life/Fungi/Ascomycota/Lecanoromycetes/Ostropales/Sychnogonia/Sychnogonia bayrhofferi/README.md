@@ -1,5 +1,4 @@
-Sychnogonia bayrhofferi Körb. SPECIES
-=======
+# Sychnogonia bayrhofferi Körb. SPECIES
 
 #### Status
 ACCEPTED

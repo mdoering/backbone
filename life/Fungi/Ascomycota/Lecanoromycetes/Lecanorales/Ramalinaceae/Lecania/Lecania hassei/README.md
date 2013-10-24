@@ -1,5 +1,4 @@
-Lecania hassei (Zahlbr.) W. Noble SPECIES
-=======
+# Lecania hassei (Zahlbr.) W. Noble SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrolepiota campestris Lebedeva ex Samgina SPECIES
-=======
+# Macrolepiota campestris Lebedeva ex Samgina SPECIES
 
 #### Status
 ACCEPTED

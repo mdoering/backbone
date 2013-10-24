@@ -1,5 +1,4 @@
-Haplophragmiidae Eimer & Fickert, 1899 FAMILY
-=======
+# Haplophragmiidae Eimer & Fickert, 1899 FAMILY
 
 #### Status
 ACCEPTED

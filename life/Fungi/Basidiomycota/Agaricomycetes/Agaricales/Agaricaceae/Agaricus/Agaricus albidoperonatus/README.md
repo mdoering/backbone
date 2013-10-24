@@ -1,5 +1,4 @@
-Agaricus albidoperonatus Heinem. SPECIES
-=======
+# Agaricus albidoperonatus Heinem. SPECIES
 
 #### Status
 ACCEPTED

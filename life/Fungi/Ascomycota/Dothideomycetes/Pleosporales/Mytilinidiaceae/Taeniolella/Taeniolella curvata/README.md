@@ -1,5 +1,4 @@
-Taeniolella curvata (Peck) S. Hughes SPECIES
-=======
+# Taeniolella curvata (Peck) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

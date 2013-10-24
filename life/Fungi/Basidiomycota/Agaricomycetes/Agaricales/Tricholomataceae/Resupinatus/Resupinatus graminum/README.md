@@ -1,14 +1,13 @@
-Asterotus graminum Singer, 1969 SPECIES
-=======
+# Resupinatus graminum (Singer) Singer, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Nova Hedwigia 29: 57 (1969)
+Beih. Sydowia 7: 30 (1973)
 
 #### Original name
 Asterotus graminum Singer, 1969

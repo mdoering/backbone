@@ -1,5 +1,4 @@
-Asterina phoradendri Henn. SPECIES
-=======
+# Asterina phoradendri Henn. SPECIES
 
 #### Status
 ACCEPTED

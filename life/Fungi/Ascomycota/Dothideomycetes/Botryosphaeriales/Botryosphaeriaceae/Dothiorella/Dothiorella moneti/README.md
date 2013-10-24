@@ -1,5 +1,4 @@
-Dothiorella moneti K. Taylor, Barber, G.E. Hardy & T.I. Burgess SPECIES
-=======
+# Dothiorella moneti K. Taylor, Barber, G.E. Hardy & T.I. Burgess SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius sarkae-ferocis Svrcek SPECIES
-=======
+# Cortinarius sarkae-ferocis Svrcek SPECIES
 
 #### Status
 ACCEPTED

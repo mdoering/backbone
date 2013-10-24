@@ -1,5 +1,4 @@
-Inocybe tahquamenonensis D.E. Stuntz SPECIES
-=======
+# Inocybe tahquamenonensis D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

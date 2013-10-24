@@ -1,5 +1,4 @@
-Peccaniomyces GENUS
-=======
+# Peccaniomyces GENUS
 
 #### Status
 ACCEPTED

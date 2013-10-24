@@ -1,5 +1,4 @@
-Pseudocercospora decumariae (Tracy & Earle) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora decumariae (Tracy & Earle) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

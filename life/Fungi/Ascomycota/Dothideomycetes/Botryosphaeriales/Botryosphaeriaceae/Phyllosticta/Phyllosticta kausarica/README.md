@@ -1,5 +1,4 @@
-Phyllosticta kausarica I.U. Khan SPECIES
-=======
+# Phyllosticta kausarica I.U. Khan SPECIES
 
 #### Status
 ACCEPTED

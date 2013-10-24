@@ -1,5 +1,4 @@
-Eucantharomyces asiaticus K. Sugiy. SPECIES
-=======
+# Eucantharomyces asiaticus K. Sugiy. SPECIES
 
 #### Status
 ACCEPTED

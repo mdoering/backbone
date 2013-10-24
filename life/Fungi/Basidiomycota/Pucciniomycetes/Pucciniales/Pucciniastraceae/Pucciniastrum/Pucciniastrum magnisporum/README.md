@@ -1,5 +1,4 @@
-Pucciniastrum magnisporum G.F. Laundon SPECIES
-=======
+# Pucciniastrum magnisporum G.F. Laundon SPECIES
 
 #### Status
 ACCEPTED

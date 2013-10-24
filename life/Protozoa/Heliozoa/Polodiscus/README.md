@@ -1,5 +1,4 @@
-Polodiscus GENUS
-=======
+# Polodiscus GENUS
 
 #### Status
 ACCEPTED

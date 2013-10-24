@@ -1,5 +1,4 @@
-Endocarpon americanum Pers. SPECIES
-=======
+# Endocarpon americanum Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogium stellans (Tuck.) C.W. Dodge SPECIES
-=======
+# Leptogium stellans (Tuck.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

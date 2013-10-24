@@ -1,5 +1,4 @@
-Agaricus paedidus Fr. SPECIES
-=======
+# Agaricus paedidus Fr. SPECIES
 
 #### Status
 ACCEPTED

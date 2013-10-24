@@ -1,5 +1,4 @@
-Panus carpathicus Fr. SPECIES
-=======
+# Panus carpathicus Fr. SPECIES
 
 #### Status
 ACCEPTED

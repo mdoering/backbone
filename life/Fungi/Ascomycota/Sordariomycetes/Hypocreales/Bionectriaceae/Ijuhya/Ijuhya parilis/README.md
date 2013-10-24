@@ -1,5 +1,4 @@
-Ijuhya parilis (Syd.) Rossman & Samuels SPECIES
-=======
+# Ijuhya parilis (Syd.) Rossman & Samuels SPECIES
 
 #### Status
 ACCEPTED

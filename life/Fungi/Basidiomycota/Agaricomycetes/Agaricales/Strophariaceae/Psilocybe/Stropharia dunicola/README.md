@@ -1,5 +1,4 @@
-Stropharia dunicola Speg. SPECIES
-=======
+# Stropharia dunicola Speg. SPECIES
 
 #### Status
 ACCEPTED

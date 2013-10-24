@@ -1,8 +1,7 @@
-Phalachroma kofoidi SPECIES
-=======
+# Dinophysis kofoidi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

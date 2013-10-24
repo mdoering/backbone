@@ -1,5 +1,4 @@
-Laminaria platymeris Bachelot de la Pylaie SPECIES
-=======
+# Laminaria platymeris Bachelot de la Pylaie SPECIES
 
 #### Status
 ACCEPTED

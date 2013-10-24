@@ -1,5 +1,4 @@
-Acineta truncata Collin, 1909 SPECIES
-=======
+# Acineta truncata Collin, 1909 SPECIES
 
 #### Status
 ACCEPTED

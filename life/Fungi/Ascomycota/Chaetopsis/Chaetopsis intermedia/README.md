@@ -1,5 +1,4 @@
-Chaetopsis intermedia R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Chaetopsis intermedia R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrina GENUS
-=======
+# Cylindrina GENUS
 
 #### Status
 ACCEPTED

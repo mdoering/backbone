@@ -1,5 +1,4 @@
-Kuetzingiella maculans SPECIES
-=======
+# Kuetzingiella maculans SPECIES
 
 #### Status
 ACCEPTED

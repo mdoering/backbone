@@ -1,5 +1,4 @@
-Oospora cinnabarina (Mart.) Sacc. & Voglino SPECIES
-=======
+# Oospora cinnabarina (Mart.) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium cacaliae Dietel SPECIES
-=======
+# Aecidium cacaliae Dietel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scaphidiomyces baeoceridii Thaxt., 1931 SPECIES
-=======
+# Scaphidiomyces baeoceridii Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

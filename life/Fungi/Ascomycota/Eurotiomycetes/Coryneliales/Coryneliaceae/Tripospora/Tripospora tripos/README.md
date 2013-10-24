@@ -1,5 +1,4 @@
-Tripospora tripos (Cooke) Lindau SPECIES
-=======
+# Tripospora tripos (Cooke) Lindau SPECIES
 
 #### Status
 ACCEPTED

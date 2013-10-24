@@ -1,17 +1,16 @@
-Ustilago jacksonii var. jacksonii Zundel & Dunlap VARIETY
-=======
+# Tranzscheliella jacksonii (Zundel & Dunlap) Vánky, 2003 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 85: 3 (2003)
 
 #### Original name
-Ustilago jacksonii var. jacksonii Zundel & Dunlap
+Ustilago jacksonii Zundel & Dunlap, 1939
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Bovista vittadinii Massee SPECIES
-=======
+# Bovista vittadinii Massee SPECIES
 
 #### Status
 ACCEPTED

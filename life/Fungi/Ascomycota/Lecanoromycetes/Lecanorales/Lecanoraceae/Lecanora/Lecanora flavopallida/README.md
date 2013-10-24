@@ -1,17 +1,16 @@
-Lecanora lineolata Müll. Arg. SPECIES
-=======
+# Lecanora flavopallida Stirt. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Herb. Boissier 1: 38 (1893)
+J. Linn. Soc. , Bot. 14: 463 (1875)
 
 #### Original name
-Lecanora lineolata Müll. Arg.
+Lecanora flavopallida Stirt.
 
 ### Remarks
 null

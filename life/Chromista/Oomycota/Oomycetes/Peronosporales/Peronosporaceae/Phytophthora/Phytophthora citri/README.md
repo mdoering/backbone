@@ -1,5 +1,4 @@
-Phytophthora citri anon. SPECIES
-=======
+# Phytophthora citri anon. SPECIES
 
 #### Status
 ACCEPTED

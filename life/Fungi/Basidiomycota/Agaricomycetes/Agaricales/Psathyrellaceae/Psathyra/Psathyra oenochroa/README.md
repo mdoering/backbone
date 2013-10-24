@@ -1,5 +1,4 @@
-Psathyra oenochroa (Mont.) Sacc. SPECIES
-=======
+# Psathyra oenochroa (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

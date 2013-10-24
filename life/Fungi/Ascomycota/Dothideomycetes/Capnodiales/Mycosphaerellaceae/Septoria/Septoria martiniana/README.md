@@ -1,5 +1,4 @@
-Septoria martiniana Sacc., 1892 SPECIES
-=======
+# Septoria martiniana Sacc., 1892 SPECIES
 
 #### Status
 ACCEPTED

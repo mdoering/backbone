@@ -1,5 +1,4 @@
-Spinellus arvernensis L. Ling SPECIES
-=======
+# Spinellus arvernensis L. Ling SPECIES
 
 #### Status
 ACCEPTED

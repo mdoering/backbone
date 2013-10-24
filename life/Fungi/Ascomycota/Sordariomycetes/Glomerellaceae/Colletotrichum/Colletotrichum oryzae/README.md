@@ -1,5 +1,4 @@
-Colletotrichum oryzae (Hara) Hara SPECIES
-=======
+# Colletotrichum oryzae (Hara) Hara SPECIES
 
 #### Status
 ACCEPTED

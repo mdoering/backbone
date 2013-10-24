@@ -1,5 +1,4 @@
-Porina aluniticola P.M. McCarthy SPECIES
-=======
+# Porina aluniticola P.M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

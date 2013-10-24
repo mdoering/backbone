@@ -1,5 +1,4 @@
-Phialina lutea (Raschle) Raitv. SPECIES
-=======
+# Phialina lutea (Raschle) Raitv. SPECIES
 
 #### Status
 ACCEPTED

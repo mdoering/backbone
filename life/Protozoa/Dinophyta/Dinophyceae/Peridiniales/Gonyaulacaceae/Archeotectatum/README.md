@@ -1,5 +1,4 @@
-Archeotectatum D. Habib, 1972 GENUS
-=======
+# Archeotectatum D. Habib, 1972 GENUS
 
 #### Status
 ACCEPTED

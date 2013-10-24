@@ -1,5 +1,4 @@
-Lacunosphaeridium spinosum Uutela & Tynni, 1991 SPECIES
-=======
+# Lacunosphaeridium spinosum Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

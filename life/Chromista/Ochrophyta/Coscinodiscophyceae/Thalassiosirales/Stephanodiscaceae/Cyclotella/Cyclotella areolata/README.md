@@ -1,5 +1,4 @@
-Cyclotella areolata Hustedt SPECIES
-=======
+# Cyclotella areolata Hustedt SPECIES
 
 #### Status
 ACCEPTED

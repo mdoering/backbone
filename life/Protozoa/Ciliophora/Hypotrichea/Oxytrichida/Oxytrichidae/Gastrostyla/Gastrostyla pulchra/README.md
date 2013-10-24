@@ -1,5 +1,4 @@
-Gastrostyla pulchra (Perejaslawzewa, 1885) Kahl, 1932 SPECIES
-=======
+# Gastrostyla pulchra (Perejaslawzewa, 1885) Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

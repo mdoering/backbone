@@ -1,5 +1,4 @@
-Pleurotus leiophyllus (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Pleurotus leiophyllus (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

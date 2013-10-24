@@ -1,5 +1,4 @@
-Elaphomyces plumbens R. Hesse SPECIES
-=======
+# Elaphomyces plumbens R. Hesse SPECIES
 
 #### Status
 ACCEPTED

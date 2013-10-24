@@ -1,5 +1,4 @@
-Anaerovibrio burkinabensis Ouattara et al., 1992 SPECIES
-=======
+# Anaerovibrio burkinabensis Ouattara et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

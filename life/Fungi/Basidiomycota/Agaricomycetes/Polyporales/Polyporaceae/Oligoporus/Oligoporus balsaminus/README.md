@@ -1,5 +1,4 @@
-Oligoporus balsaminus (Niemelä & Y.C. Dai) Niemelä SPECIES
-=======
+# Oligoporus balsaminus (Niemelä & Y.C. Dai) Niemelä SPECIES
 
 #### Status
 ACCEPTED

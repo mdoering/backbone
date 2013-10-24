@@ -1,5 +1,4 @@
-Pseudocercospora neobalsaminae C.D. Sharma, Gadp., A.N. Rai & K.M. Vyas SPECIES
-=======
+# Pseudocercospora neobalsaminae C.D. Sharma, Gadp., A.N. Rai & K.M. Vyas SPECIES
 
 #### Status
 ACCEPTED

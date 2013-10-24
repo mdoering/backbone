@@ -1,5 +1,4 @@
-Peridinium triqueta SPECIES
-=======
+# Peridinium triqueta SPECIES
 
 #### Status
 ACCEPTED

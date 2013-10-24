@@ -1,5 +1,4 @@
-Tokophrya parva SPECIES
-=======
+# Tokophrya parva SPECIES
 
 #### Status
 ACCEPTED

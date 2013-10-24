@@ -1,5 +1,4 @@
-Doassansia affinis Ellis & Dearn. SPECIES
-=======
+# Doassansia affinis Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

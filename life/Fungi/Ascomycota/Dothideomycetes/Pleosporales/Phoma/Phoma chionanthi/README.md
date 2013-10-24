@@ -1,5 +1,4 @@
-Phoma chionanthi Brunaud SPECIES
-=======
+# Phoma chionanthi Brunaud SPECIES
 
 #### Status
 ACCEPTED

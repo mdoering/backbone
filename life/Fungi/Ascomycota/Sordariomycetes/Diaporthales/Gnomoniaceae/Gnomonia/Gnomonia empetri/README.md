@@ -1,5 +1,4 @@
-Gnomonia empetri Lind SPECIES
-=======
+# Gnomonia empetri Lind SPECIES
 
 #### Status
 ACCEPTED

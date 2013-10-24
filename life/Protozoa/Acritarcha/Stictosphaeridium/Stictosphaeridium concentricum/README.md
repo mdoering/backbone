@@ -1,5 +1,4 @@
-Stictosphaeridium concentricum Timofeev, 1973 SPECIES
-=======
+# Stictosphaeridium concentricum Timofeev, 1973 SPECIES
 
 #### Status
 ACCEPTED

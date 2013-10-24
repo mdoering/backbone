@@ -1,5 +1,4 @@
-Huea lactescens (Leight.) C.W. Dodge SPECIES
-=======
+# Huea lactescens (Leight.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

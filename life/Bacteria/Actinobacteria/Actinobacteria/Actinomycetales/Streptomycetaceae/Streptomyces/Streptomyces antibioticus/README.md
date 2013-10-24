@@ -1,5 +1,4 @@
-Streptomyces antibioticus (Waksman and Woodruff, 1941) Waksman and Henrici, 1948 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces antibioticus (Waksman and Woodruff, 1941) Waksman and Henrici, 1948 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

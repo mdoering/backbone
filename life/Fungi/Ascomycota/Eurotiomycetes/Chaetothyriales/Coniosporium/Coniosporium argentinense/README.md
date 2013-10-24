@@ -1,5 +1,4 @@
-Coniosporium argentinense Speg. SPECIES
-=======
+# Coniosporium argentinense Speg. SPECIES
 
 #### Status
 ACCEPTED

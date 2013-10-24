@@ -1,5 +1,4 @@
-Lecudina platynereidis Schrével, 1969 SPECIES
-=======
+# Lecudina platynereidis Schrével, 1969 SPECIES
 
 #### Status
 ACCEPTED

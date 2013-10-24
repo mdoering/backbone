@@ -1,5 +1,4 @@
-Acrostalagmus geniculatus Preuss SPECIES
-=======
+# Acrostalagmus geniculatus Preuss SPECIES
 
 #### Status
 ACCEPTED

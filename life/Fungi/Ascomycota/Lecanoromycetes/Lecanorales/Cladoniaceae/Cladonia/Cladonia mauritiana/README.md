@@ -1,5 +1,4 @@
-Cladonia mauritiana Ahti & J.C. David SPECIES
-=======
+# Cladonia mauritiana Ahti & J.C. David SPECIES
 
 #### Status
 ACCEPTED

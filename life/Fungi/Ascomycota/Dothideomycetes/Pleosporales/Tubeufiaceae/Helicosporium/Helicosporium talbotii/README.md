@@ -1,5 +1,4 @@
-Helicosporium talbotii Goos SPECIES
-=======
+# Helicosporium talbotii Goos SPECIES
 
 #### Status
 ACCEPTED

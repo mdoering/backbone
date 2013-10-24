@@ -1,5 +1,4 @@
-Phaeographina exserta (Nyl.) Müll. Arg. SPECIES
-=======
+# Phaeographina exserta (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

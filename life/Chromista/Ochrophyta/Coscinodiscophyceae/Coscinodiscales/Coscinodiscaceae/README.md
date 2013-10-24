@@ -1,5 +1,4 @@
-Coscinodiscaceae Kütz. FAMILY
-=======
+# Coscinodiscaceae Kütz. FAMILY
 
 #### Status
 ACCEPTED

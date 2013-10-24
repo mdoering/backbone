@@ -1,5 +1,4 @@
-Persicirhabdus sediminis Yoon, Matsuo, Adachi, Nozawa, Matsuda, Kasai & Yokota, 2008 SPECIES
-=======
+# Persicirhabdus sediminis Yoon, Matsuo, Adachi, Nozawa, Matsuda, Kasai & Yokota, 2008 SPECIES
 
 #### Status
 ACCEPTED

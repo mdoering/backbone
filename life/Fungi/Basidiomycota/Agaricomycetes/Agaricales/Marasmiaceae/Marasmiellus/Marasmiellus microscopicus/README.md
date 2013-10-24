@@ -1,5 +1,4 @@
-Marasmiellus microscopicus (Speg.) Singer SPECIES
-=======
+# Marasmiellus microscopicus (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

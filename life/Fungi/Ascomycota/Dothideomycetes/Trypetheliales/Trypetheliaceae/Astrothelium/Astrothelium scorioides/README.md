@@ -1,5 +1,4 @@
-Astrothelium scorioides Nyl. SPECIES
-=======
+# Astrothelium scorioides Nyl. SPECIES
 
 #### Status
 ACCEPTED

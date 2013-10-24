@@ -1,5 +1,4 @@
-Ramalina pichii Sambo SPECIES
-=======
+# Ramalina pichii Sambo SPECIES
 
 #### Status
 ACCEPTED

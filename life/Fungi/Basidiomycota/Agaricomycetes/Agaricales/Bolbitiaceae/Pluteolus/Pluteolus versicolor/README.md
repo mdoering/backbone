@@ -1,5 +1,4 @@
-Pluteolus versicolor (Peck) Murrill SPECIES
-=======
+# Pluteolus versicolor (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

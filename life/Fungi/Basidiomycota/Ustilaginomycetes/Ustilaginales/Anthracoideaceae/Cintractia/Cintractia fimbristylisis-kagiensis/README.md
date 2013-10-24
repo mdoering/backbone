@@ -1,5 +1,4 @@
-Cintractia fimbristylisis-kagiensis Sawada SPECIES
-=======
+# Cintractia fimbristylisis-kagiensis Sawada SPECIES
 
 #### Status
 ACCEPTED

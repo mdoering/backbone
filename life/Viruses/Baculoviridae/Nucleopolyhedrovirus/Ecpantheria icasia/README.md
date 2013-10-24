@@ -1,5 +1,4 @@
-Ecpantheria icasia Npv SPECIES
-=======
+# Ecpantheria icasia Npv SPECIES
 
 #### Status
 ACCEPTED

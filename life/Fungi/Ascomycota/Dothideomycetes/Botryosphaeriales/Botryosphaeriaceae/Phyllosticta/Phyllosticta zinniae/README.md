@@ -1,5 +1,4 @@
-Phyllosticta zinniae Brunaud SPECIES
-=======
+# Phyllosticta zinniae Brunaud SPECIES
 
 #### Status
 ACCEPTED

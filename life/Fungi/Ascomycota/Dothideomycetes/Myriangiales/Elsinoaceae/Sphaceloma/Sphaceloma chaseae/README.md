@@ -1,5 +1,4 @@
-Sphaceloma chaseae Zundel SPECIES
-=======
+# Sphaceloma chaseae Zundel SPECIES
 
 #### Status
 ACCEPTED

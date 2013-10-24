@@ -1,5 +1,4 @@
-Echinoplaca triseptata Lücking SPECIES
-=======
+# Echinoplaca triseptata Lücking SPECIES
 
 #### Status
 ACCEPTED

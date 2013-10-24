@@ -1,5 +1,4 @@
-Diplodia equiseti I.E. Brezhnev SPECIES
-=======
+# Diplodia equiseti I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

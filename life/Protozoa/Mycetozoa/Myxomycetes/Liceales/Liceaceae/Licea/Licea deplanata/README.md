@@ -1,17 +1,16 @@
-Licea applanata Kowalski, 1970 SPECIES
-=======
+# Licea deplanata Kowalski, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 62(5): 1058 (1970)
+Madroño 21: 455 (1972)
 
 #### Original name
-Licea applanata Kowalski, 1970
+Licea deplanata Kowalski, 1972
 
 ### Remarks
 null

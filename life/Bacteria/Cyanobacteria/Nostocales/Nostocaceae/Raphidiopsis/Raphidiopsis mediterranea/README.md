@@ -1,5 +1,4 @@
-Raphidiopsis mediterranea SPECIES
-=======
+# Raphidiopsis mediterranea SPECIES
 
 #### Status
 ACCEPTED

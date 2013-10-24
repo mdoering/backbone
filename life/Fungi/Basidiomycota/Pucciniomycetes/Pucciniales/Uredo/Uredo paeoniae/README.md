@@ -1,5 +1,4 @@
-Uredo paeoniae Castagne SPECIES
-=======
+# Uredo paeoniae Castagne SPECIES
 
 #### Status
 ACCEPTED

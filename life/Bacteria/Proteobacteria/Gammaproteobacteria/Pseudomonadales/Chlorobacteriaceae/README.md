@@ -1,5 +1,4 @@
-Chlorobacteriaceae FAMILY
-=======
+# Chlorobacteriaceae FAMILY
 
 #### Status
 ACCEPTED

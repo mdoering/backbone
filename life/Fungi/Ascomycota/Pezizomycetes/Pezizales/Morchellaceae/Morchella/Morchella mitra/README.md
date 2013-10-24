@@ -1,5 +1,4 @@
-Morchella mitra Lenz SPECIES
-=======
+# Morchella mitra Lenz SPECIES
 
 #### Status
 ACCEPTED

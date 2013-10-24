@@ -1,5 +1,4 @@
-Coniophora lateritia Speg. SPECIES
-=======
+# Coniophora lateritia Speg. SPECIES
 
 #### Status
 ACCEPTED

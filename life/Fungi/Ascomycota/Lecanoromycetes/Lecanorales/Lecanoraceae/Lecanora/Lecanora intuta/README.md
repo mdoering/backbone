@@ -1,5 +1,4 @@
-Lecanora intuta SPECIES
-=======
+# Lecanora intuta SPECIES
 
 #### Status
 ACCEPTED

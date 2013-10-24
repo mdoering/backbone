@@ -1,5 +1,4 @@
-Spongohagiastrum Tan Zhiyuan & Tchang, 1976 GENUS
-=======
+# Spongohagiastrum Tan Zhiyuan & Tchang, 1976 GENUS
 
 #### Status
 ACCEPTED

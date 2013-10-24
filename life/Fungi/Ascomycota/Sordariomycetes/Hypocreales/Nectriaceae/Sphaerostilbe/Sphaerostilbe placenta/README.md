@@ -1,5 +1,4 @@
-Sphaerostilbe placenta Theiss. SPECIES
-=======
+# Sphaerostilbe placenta Theiss. SPECIES
 
 #### Status
 ACCEPTED

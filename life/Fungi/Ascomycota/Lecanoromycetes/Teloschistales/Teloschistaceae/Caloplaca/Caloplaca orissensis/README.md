@@ -1,5 +1,4 @@
-Caloplaca orissensis (Räsänen) D.D. Awasthi SPECIES
-=======
+# Caloplaca orissensis (Räsänen) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

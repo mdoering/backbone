@@ -1,5 +1,4 @@
-Peziza radians Saut. SPECIES
-=======
+# Peziza radians Saut. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmina combreti J. Kranz SPECIES
-=======
+# Stigmina combreti J. Kranz SPECIES
 
 #### Status
 ACCEPTED

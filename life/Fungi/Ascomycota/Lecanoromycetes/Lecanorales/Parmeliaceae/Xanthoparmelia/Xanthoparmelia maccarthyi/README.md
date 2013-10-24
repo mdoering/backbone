@@ -1,5 +1,4 @@
-Xanthoparmelia maccarthyi Elix SPECIES
-=======
+# Xanthoparmelia maccarthyi Elix SPECIES
 
 #### Status
 ACCEPTED

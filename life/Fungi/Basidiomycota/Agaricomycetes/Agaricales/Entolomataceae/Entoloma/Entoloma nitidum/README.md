@@ -1,14 +1,13 @@
-Rhodophyllus nitidus (Quél.) Quél., 1886 SPECIES
-=======
+# Entoloma nitidum Quél., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Enchir. fung. (Paris) 58 (1886)
+Compt. Rend. Assoc. Franç. Avancem. Sci. 11: 391 (1883)
 
 #### Original name
 Entoloma nitidum Quél., 1883

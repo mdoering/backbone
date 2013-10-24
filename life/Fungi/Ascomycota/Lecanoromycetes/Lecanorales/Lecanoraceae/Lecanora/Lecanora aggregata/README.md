@@ -1,5 +1,4 @@
-Lecanora aggregata Mereschk. SPECIES
-=======
+# Lecanora aggregata Mereschk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius oleiger Singer SPECIES
-=======
+# Marasmius oleiger Singer SPECIES
 
 #### Status
 ACCEPTED

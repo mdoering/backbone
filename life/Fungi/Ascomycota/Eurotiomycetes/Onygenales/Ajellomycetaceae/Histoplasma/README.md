@@ -1,17 +1,16 @@
-Blastomyces Costantin & Rolland GENUS
-=======
+# Histoplasma Darling, 1906 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bull. Soc. mycol. Fr. 4: 153 (1888)
+J. Amer. Med. Assoc. 46: 1285.
 
 #### Original name
-Blastomyces Costantin & Rolland
+null
 
 ### Remarks
 null

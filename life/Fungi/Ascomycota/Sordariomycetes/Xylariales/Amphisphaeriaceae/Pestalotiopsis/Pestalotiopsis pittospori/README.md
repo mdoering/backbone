@@ -1,5 +1,4 @@
-Pestalotiopsis pittospori Court SPECIES
-=======
+# Pestalotiopsis pittospori Court SPECIES
 
 #### Status
 ACCEPTED

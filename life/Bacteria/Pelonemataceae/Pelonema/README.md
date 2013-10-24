@@ -1,5 +1,4 @@
-Pelonema R.Lauterborn GENUS
-=======
+# Pelonema R.Lauterborn GENUS
 
 #### Status
 ACCEPTED

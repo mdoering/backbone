@@ -1,5 +1,4 @@
-Ixocomus cembrae Singer SPECIES
-=======
+# Ixocomus cembrae Singer SPECIES
 
 #### Status
 ACCEPTED

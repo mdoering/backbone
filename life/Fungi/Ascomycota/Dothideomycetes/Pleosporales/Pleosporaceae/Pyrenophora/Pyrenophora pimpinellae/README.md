@@ -1,5 +1,4 @@
-Pyrenophora pimpinellae Gucevic SPECIES
-=======
+# Pyrenophora pimpinellae Gucevic SPECIES
 
 #### Status
 ACCEPTED

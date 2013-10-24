@@ -1,5 +1,4 @@
-Cetraria obtusata (Schaer.) van den Boom & Sipman SPECIES
-=======
+# Cetraria obtusata (Schaer.) van den Boom & Sipman SPECIES
 
 #### Status
 ACCEPTED

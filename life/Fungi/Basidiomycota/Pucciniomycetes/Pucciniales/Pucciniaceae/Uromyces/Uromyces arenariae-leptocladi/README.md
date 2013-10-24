@@ -1,8 +1,7 @@
-Uromyces arenariae-leptoclados Vienn.-Bourg. SPECIES
-=======
+# Uromyces arenariae-leptocladi Vienn.-Bourg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Uromyces arenariae-leptoclados Vienn.-Bourg.
+Uromyces arenariae-leptocladi Vienn.-Bourg.
 
 ### Remarks
 null

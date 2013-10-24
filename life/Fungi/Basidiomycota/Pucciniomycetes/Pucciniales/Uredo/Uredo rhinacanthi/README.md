@@ -1,5 +1,4 @@
-Uredo rhinacanthi T.S. Ramakr. & Sundaram SPECIES
-=======
+# Uredo rhinacanthi T.S. Ramakr. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

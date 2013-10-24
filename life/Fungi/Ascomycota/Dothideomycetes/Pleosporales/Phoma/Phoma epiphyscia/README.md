@@ -1,5 +1,4 @@
-Phoma epiphyscia Vouaux SPECIES
-=======
+# Phoma epiphyscia Vouaux SPECIES
 
 #### Status
 ACCEPTED

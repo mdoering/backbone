@@ -1,5 +1,4 @@
-Caloplaca pruinosa (Körb.) Zahlbr. SPECIES
-=======
+# Caloplaca pruinosa (Körb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

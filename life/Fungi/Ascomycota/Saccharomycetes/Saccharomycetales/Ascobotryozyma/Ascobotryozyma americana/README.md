@@ -1,5 +1,4 @@
-Ascobotryozyma americana J. Kerrigan, M.T. Sm. & J.D. Rogers, 2001 SPECIES
-=======
+# Ascobotryozyma americana J. Kerrigan, M.T. Sm. & J.D. Rogers, 2001 SPECIES
 
 #### Status
 ACCEPTED

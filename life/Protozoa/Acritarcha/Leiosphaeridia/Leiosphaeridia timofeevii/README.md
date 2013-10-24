@@ -1,5 +1,4 @@
-Leiosphaeridia timofeevii (Maithy, 1975) Fensome et al., 1990 SPECIES
-=======
+# Leiosphaeridia timofeevii (Maithy, 1975) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

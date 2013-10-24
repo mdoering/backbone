@@ -1,17 +1,16 @@
-Hypoderma hispanicum J. Torres, 1965 SPECIES
-=======
+# Elytroderma torres-juanii Diam. & Minter, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boln Inst. for. Invest. Exp. 36: 67 (1965)
+Trans. Br. mycol. Soc. 72(1): 169 (1979)
 
 #### Original name
-Hypoderma hispanicum J. Torres, 1965
+Elytroderma torres-juanii Diam. & Minter, 1979
 
 ### Remarks
 null

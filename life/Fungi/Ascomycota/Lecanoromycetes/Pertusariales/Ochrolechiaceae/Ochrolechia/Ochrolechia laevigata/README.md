@@ -1,5 +1,4 @@
-Ochrolechia laevigata (Räsänen) Verseghy SPECIES
-=======
+# Ochrolechia laevigata (Räsänen) Verseghy SPECIES
 
 #### Status
 ACCEPTED

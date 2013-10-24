@@ -1,5 +1,4 @@
-Gomphidius rhadoxanthus Schwein. SPECIES
-=======
+# Gomphidius rhadoxanthus Schwein. SPECIES
 
 #### Status
 ACCEPTED

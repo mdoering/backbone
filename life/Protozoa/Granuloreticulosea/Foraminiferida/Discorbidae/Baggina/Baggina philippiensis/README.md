@@ -1,5 +1,4 @@
-Baggina philippiensis SPECIES
-=======
+# Baggina philippiensis SPECIES
 
 #### Status
 ACCEPTED

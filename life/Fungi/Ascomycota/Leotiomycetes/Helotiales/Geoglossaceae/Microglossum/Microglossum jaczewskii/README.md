@@ -1,5 +1,4 @@
-Microglossum jaczewskii Naumov SPECIES
-=======
+# Microglossum jaczewskii Naumov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rutstroemia tuberosa P. Karst. SPECIES
-=======
+# Rutstroemia tuberosa P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lopadium vulgare Müll. Arg. SPECIES
-=======
+# Lopadium vulgare Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

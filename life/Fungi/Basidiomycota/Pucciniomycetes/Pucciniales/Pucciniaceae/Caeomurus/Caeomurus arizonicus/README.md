@@ -1,5 +1,4 @@
-Caeomurus arizonicus (L.D. Galloway & Tracy) Kuntze SPECIES
-=======
+# Caeomurus arizonicus (L.D. Galloway & Tracy) Kuntze SPECIES
 
 #### Status
 ACCEPTED

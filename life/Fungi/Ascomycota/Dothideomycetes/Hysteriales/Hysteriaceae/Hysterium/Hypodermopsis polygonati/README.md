@@ -1,5 +1,4 @@
-Hypodermopsis polygonati (Schwein.) Kuntze SPECIES
-=======
+# Hypodermopsis polygonati (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

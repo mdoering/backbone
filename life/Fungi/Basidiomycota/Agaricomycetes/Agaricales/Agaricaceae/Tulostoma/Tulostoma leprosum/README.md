@@ -1,5 +1,4 @@
-Tulostoma leprosum (Kalchbr.) Sacc., 1888 SPECIES
-=======
+# Tulostoma leprosum (Kalchbr.) Sacc., 1888 SPECIES
 
 #### Status
 ACCEPTED

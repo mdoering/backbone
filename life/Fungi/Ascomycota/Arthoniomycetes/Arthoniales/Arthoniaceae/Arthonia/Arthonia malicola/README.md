@@ -1,5 +1,4 @@
-Arthonia malicola B. de Lesd. SPECIES
-=======
+# Arthonia malicola B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

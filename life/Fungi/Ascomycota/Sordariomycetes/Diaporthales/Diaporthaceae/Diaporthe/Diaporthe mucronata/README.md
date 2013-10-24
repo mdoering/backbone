@@ -1,5 +1,4 @@
-Diaporthe mucronata (Peck) Sacc. SPECIES
-=======
+# Diaporthe mucronata (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

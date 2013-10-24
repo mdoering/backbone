@@ -1,5 +1,4 @@
-Epicoccum asterinum Pat. SPECIES
-=======
+# Epicoccum asterinum Pat. SPECIES
 
 #### Status
 ACCEPTED

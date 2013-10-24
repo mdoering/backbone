@@ -1,5 +1,4 @@
-Inocybe leptoderma Takah. Kobay. & Nukada SPECIES
-=======
+# Inocybe leptoderma Takah. Kobay. & Nukada SPECIES
 
 #### Status
 ACCEPTED

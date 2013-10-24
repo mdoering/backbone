@@ -1,5 +1,4 @@
-Diafolliculina thomseni (Hadzi, 1951) Ringuelet, 1953 SPECIES
-=======
+# Diafolliculina thomseni (Hadzi, 1951) Ringuelet, 1953 SPECIES
 
 #### Status
 ACCEPTED

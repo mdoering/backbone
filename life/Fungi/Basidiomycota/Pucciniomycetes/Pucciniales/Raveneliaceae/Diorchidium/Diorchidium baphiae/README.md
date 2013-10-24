@@ -1,5 +1,4 @@
-Diorchidium baphiae Ritschel, Berndt & Oberw. SPECIES
-=======
+# Diorchidium baphiae Ritschel, Berndt & Oberw. SPECIES
 
 #### Status
 ACCEPTED

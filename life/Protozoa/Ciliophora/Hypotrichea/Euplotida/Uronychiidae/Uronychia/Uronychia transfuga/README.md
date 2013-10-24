@@ -1,5 +1,4 @@
-Uronychia transfuga (Müller, 1776) Stein, 1859 SPECIES
-=======
+# Uronychia transfuga (Müller, 1776) Stein, 1859 SPECIES
 
 #### Status
 ACCEPTED

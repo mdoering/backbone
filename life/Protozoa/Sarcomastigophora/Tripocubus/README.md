@@ -1,5 +1,4 @@
-Tripocubus Haeckel, 1887 GENUS
-=======
+# Tripocubus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

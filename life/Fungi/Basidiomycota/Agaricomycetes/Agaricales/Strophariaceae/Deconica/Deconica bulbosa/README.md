@@ -1,5 +1,4 @@
-Deconica bulbosa Peck SPECIES
-=======
+# Deconica bulbosa Peck SPECIES
 
 #### Status
 ACCEPTED

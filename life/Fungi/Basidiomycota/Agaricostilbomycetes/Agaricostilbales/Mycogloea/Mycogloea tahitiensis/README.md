@@ -1,5 +1,4 @@
-Mycogloea tahitiensis L.S. Olive, 1958 SPECIES
-=======
+# Mycogloea tahitiensis L.S. Olive, 1958 SPECIES
 
 #### Status
 ACCEPTED

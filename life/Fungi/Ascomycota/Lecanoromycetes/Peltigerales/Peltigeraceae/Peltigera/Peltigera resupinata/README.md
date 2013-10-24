@@ -1,5 +1,4 @@
-Peltigera resupinata Schaer. SPECIES
-=======
+# Peltigera resupinata Schaer. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidites subcornutus (Göpp.) Mesch. SPECIES
-=======
+# Aecidites subcornutus (Göpp.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

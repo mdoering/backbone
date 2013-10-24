@@ -1,5 +1,4 @@
-Dacryobolus phalloides Manjón, Hjortstam & G. Moreno, 1984 SPECIES
-=======
+# Dacryobolus phalloides Manjón, Hjortstam & G. Moreno, 1984 SPECIES
 
 #### Status
 ACCEPTED

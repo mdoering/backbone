@@ -1,5 +1,4 @@
-Ascochyta symphoricarpophila Fairm. SPECIES
-=======
+# Ascochyta symphoricarpophila Fairm. SPECIES
 
 #### Status
 ACCEPTED

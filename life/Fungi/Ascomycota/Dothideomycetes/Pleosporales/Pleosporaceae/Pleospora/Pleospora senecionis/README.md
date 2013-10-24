@@ -1,5 +1,4 @@
-Pleospora senecionis Fuckel SPECIES
-=======
+# Pleospora senecionis Fuckel SPECIES
 
 #### Status
 ACCEPTED

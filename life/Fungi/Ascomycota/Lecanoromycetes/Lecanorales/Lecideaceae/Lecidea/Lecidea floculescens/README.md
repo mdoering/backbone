@@ -1,5 +1,4 @@
-Lecidea floculescens (Eckfeldt) Zahlbr. SPECIES
-=======
+# Lecidea floculescens (Eckfeldt) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Genicularia bogoriensis Rifai, 1968 SPECIES
-=======
+# Geniculifera bogoriensis (Rifai) Rifai, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Reinwardtia 7(4): 367 (1968)
+Mycotaxon 2(2): 216 (1975)
 
 #### Original name
 Genicularia bogoriensis Rifai, 1968

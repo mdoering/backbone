@@ -1,5 +1,4 @@
-Clavaria subsigmoidea Sacc. & P. Syd. SPECIES
-=======
+# Clavaria subsigmoidea Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bullaria arthuriana Arthur & Mains SPECIES
-=======
+# Bullaria arthuriana Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

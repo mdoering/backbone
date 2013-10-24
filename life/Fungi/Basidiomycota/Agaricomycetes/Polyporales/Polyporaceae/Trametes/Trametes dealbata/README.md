@@ -1,5 +1,4 @@
-Trametes dealbata Kalchbr. ex G. Cunn. SPECIES
-=======
+# Trametes dealbata Kalchbr. ex G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

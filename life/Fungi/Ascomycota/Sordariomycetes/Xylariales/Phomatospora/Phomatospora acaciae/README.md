@@ -1,5 +1,4 @@
-Phomatospora acaciae Sousa da Câmara SPECIES
-=======
+# Phomatospora acaciae Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

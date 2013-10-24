@@ -1,5 +1,4 @@
-Marssonina junonis Annal. SPECIES
-=======
+# Marssonina junonis Annal. SPECIES
 
 #### Status
 ACCEPTED

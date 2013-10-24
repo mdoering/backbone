@@ -1,5 +1,4 @@
-Chiphragmalithus calathus Bramlette & Sullivan, 1961 SPECIES
-=======
+# Chiphragmalithus calathus Bramlette & Sullivan, 1961 SPECIES
 
 #### Status
 ACCEPTED

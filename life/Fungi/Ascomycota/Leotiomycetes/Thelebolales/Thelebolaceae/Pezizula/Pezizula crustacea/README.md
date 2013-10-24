@@ -1,5 +1,4 @@
-Pezizula crustacea P. Karst. SPECIES
-=======
+# Pezizula crustacea P. Karst. SPECIES
 
 #### Status
 ACCEPTED

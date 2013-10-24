@@ -1,5 +1,4 @@
-Lecidea protecta H. Magn. SPECIES
-=======
+# Lecidea protecta H. Magn. SPECIES
 
 #### Status
 ACCEPTED

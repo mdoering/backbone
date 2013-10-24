@@ -1,5 +1,4 @@
-Rymariopsis J.Witkowski & D.M.Harwood, 2011 GENUS
-=======
+# Rymariopsis J.Witkowski & D.M.Harwood, 2011 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trametes paxillosa Corner SPECIES
-=======
+# Trametes paxillosa Corner SPECIES
 
 #### Status
 ACCEPTED

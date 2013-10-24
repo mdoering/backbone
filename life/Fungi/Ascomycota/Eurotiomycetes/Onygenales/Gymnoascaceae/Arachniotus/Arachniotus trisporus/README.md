@@ -1,5 +1,4 @@
-Arachniotus trisporus Hotson SPECIES
-=======
+# Arachniotus trisporus Hotson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia delimitata (H. Magn.) R. Sant. SPECIES
-=======
+# Aspicilia delimitata (H. Magn.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

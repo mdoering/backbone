@@ -1,5 +1,4 @@
-Collybia efflorescens Berk. & M.A. Curtis SPECIES
-=======
+# Collybia efflorescens Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

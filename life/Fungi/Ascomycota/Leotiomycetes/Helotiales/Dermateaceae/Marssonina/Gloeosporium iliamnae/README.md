@@ -1,5 +1,4 @@
-Gloeosporium iliamnae W.B. Cooke & C.G. Shaw SPECIES
-=======
+# Gloeosporium iliamnae W.B. Cooke & C.G. Shaw SPECIES
 
 #### Status
 ACCEPTED

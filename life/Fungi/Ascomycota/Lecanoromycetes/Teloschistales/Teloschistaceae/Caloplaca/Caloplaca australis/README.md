@@ -1,5 +1,4 @@
-Caloplaca australis (Arnold) Zahlbr. SPECIES
-=======
+# Caloplaca australis (Arnold) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

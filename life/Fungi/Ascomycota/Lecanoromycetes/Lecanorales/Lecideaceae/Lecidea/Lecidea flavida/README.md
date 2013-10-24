@@ -1,5 +1,4 @@
-Lecidea flavida Hepp SPECIES
-=======
+# Lecidea flavida Hepp SPECIES
 
 #### Status
 ACCEPTED

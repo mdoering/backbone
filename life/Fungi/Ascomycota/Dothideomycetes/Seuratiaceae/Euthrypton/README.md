@@ -1,5 +1,4 @@
-Euthrypton GENUS
-=======
+# Euthrypton GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Abropelta fusarioides B. Sutton, 1986 SPECIES
-=======
+# Abropelta fusarioides B. Sutton, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Systremma amorphae (Rabenh.) Theiss. & Syd. SPECIES
-=======
+# Systremma amorphae (Rabenh.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

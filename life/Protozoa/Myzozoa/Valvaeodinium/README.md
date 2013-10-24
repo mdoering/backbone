@@ -1,14 +1,13 @@
-Comparodinium S.J. Morbey, 1975 GENUS
-=======
+# Valvaeodinium Morgenroth GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-null
+Neues Jb. Geol. Palaont. Abh. 136: 350.
 
 #### Original name
 null

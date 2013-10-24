@@ -1,17 +1,16 @@
-Tricholoma mons-fraseri Corner SPECIES
-=======
+# Tricholoma montis-fraseri Corner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia, Beih. 109: 100 (1994)
 
 #### Original name
-Tricholoma mons-fraseri Corner
+Tricholoma montis-fraseri Corner
 
 ### Remarks
 null

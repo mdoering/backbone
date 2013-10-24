@@ -1,5 +1,4 @@
-Psiloparmelia peruviensis (Hale) Feuerer SPECIES
-=======
+# Psiloparmelia peruviensis (Hale) Feuerer SPECIES
 
 #### Status
 ACCEPTED

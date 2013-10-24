@@ -1,5 +1,4 @@
-Pareodinia evittii (Pocock, 1972) Wiggins, 1975 SPECIES
-=======
+# Pareodinia evittii (Pocock, 1972) Wiggins, 1975 SPECIES
 
 #### Status
 ACCEPTED

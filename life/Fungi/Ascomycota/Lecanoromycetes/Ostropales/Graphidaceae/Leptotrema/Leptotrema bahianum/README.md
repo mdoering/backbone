@@ -1,5 +1,4 @@
-Leptotrema bahianum var. bahianum VARIETY
-=======
+# Leptotrema bahianum (Ach.) Mull. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Mém. Soc. Phys. Hist. nat. Genève 29(8): 12 (1887)
+null
 
 #### Original name
-Leptotrema bahianum var. bahianum
+null
 
 ### Remarks
 null

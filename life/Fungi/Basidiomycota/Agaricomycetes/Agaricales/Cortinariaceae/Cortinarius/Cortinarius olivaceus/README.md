@@ -1,5 +1,4 @@
-Cortinarius olivaceus Peck, 1872 SPECIES
-=======
+# Cortinarius olivaceus Peck, 1872 SPECIES
 
 #### Status
 ACCEPTED

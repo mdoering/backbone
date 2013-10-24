@@ -1,5 +1,4 @@
-Trichosperma GENUS
-=======
+# Trichosperma GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthina cinnabarina Berk. & Broome SPECIES
-=======
+# Anthina cinnabarina Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

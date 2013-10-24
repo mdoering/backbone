@@ -1,5 +1,4 @@
-Sporidesmium penzigii M.B. Ellis SPECIES
-=======
+# Sporidesmium penzigii M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

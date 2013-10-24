@@ -1,17 +1,16 @@
-Diachea caespitosa (Sturgis) Lister & G. Lister, 1907 SPECIES
-=======
+# Paradiachea caespitosa (Sturgis) Hertel ex H. Neubert, Nowotny & K. Baumann, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Die Myxomyceten (Gomaringen), Deutschlands und des Angrenzenden Alpenraumes Unter Besonderer Berücksichtigung Österreichs. <b>3</b>. <i>Stemonitales</i> 3: 249 (2000)
 
 #### Original name
-null
+Comatricha caespitosa Sturgis, 1893
 
 ### Remarks
 null

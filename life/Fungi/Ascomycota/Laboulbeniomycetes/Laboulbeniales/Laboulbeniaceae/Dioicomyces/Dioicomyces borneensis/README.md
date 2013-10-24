@@ -1,5 +1,4 @@
-Dioicomyces borneensis T. Majewski & K. Sugiy. SPECIES
-=======
+# Dioicomyces borneensis T. Majewski & K. Sugiy. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarosporium xanthoceratis Gucevic SPECIES
-=======
+# Camarosporium xanthoceratis Gucevic SPECIES
 
 #### Status
 ACCEPTED

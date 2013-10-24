@@ -1,5 +1,4 @@
-Lyncosphaera GENUS
-=======
+# Lyncosphaera GENUS
 
 #### Status
 ACCEPTED

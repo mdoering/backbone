@@ -1,5 +1,4 @@
-Melanopsamma lettauiana Vouaux SPECIES
-=======
+# Melanopsamma lettauiana Vouaux SPECIES
 
 #### Status
 ACCEPTED

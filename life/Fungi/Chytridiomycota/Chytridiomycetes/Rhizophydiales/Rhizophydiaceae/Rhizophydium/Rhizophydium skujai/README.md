@@ -1,5 +1,4 @@
-Rhizophydium skujai Karling SPECIES
-=======
+# Rhizophydium skujai Karling SPECIES
 
 #### Status
 ACCEPTED

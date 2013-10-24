@@ -1,5 +1,4 @@
-Hyalinea pacifica Saidova, 1975 SPECIES
-=======
+# Hyalinea pacifica Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

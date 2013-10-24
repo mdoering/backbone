@@ -1,5 +1,4 @@
-Cortinarius subviolaceoalbus Rob. Henry SPECIES
-=======
+# Cortinarius subviolaceoalbus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

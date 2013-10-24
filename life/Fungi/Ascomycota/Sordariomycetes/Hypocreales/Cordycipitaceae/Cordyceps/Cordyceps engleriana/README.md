@@ -1,5 +1,4 @@
-Cordyceps engleriana Henn. SPECIES
-=======
+# Cordyceps engleriana Henn. SPECIES
 
 #### Status
 ACCEPTED

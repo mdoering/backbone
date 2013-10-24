@@ -1,5 +1,4 @@
-Descomyces angustisporus A.A. Francis & Bougher, 2004 SPECIES
-=======
+# Descomyces angustisporus A.A. Francis & Bougher, 2004 SPECIES
 
 #### Status
 ACCEPTED

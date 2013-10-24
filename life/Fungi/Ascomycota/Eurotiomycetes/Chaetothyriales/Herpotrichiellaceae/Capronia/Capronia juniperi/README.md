@@ -1,5 +1,4 @@
-Capronia juniperi Richon SPECIES
-=======
+# Capronia juniperi Richon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tilletia Tul. & C. Tul. GENUS
-=======
+# Tilletia Tul. & C. Tul. GENUS
 
 #### Status
 ACCEPTED

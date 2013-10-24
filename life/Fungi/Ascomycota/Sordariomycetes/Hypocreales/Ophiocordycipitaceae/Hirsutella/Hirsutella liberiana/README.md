@@ -1,5 +1,4 @@
-Hirsutella liberiana Mains SPECIES
-=======
+# Hirsutella liberiana Mains SPECIES
 
 #### Status
 ACCEPTED

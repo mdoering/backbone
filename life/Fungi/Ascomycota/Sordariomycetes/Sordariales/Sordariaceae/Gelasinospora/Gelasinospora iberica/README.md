@@ -1,5 +1,4 @@
-Gelasinospora iberica Guarro SPECIES
-=======
+# Gelasinospora iberica Guarro SPECIES
 
 #### Status
 ACCEPTED

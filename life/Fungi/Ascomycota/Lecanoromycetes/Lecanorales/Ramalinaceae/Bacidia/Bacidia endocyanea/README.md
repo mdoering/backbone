@@ -1,5 +1,4 @@
-Bacidia endocyanea (Tuck. ex Willey) Zahlbr. SPECIES
-=======
+# Bacidia endocyanea (Tuck. ex Willey) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

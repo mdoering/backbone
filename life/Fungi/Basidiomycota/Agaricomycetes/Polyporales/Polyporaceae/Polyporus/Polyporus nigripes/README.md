@@ -1,5 +1,4 @@
-Polyporus nigripes Wallr. SPECIES
-=======
+# Polyporus nigripes Wallr. SPECIES
 
 #### Status
 ACCEPTED

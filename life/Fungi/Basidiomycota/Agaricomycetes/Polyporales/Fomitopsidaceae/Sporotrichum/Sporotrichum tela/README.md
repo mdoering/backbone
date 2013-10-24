@@ -1,5 +1,4 @@
-Sporotrichum tela (Pers.) Link SPECIES
-=======
+# Sporotrichum tela (Pers.) Link SPECIES
 
 #### Status
 ACCEPTED

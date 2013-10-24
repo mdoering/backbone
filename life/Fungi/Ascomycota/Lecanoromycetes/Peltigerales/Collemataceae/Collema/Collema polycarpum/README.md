@@ -1,5 +1,4 @@
-Collema polycarpum (Schaer.) Kremp. SPECIES
-=======
+# Collema polycarpum (Schaer.) Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pannaria fulvescens var. fulvescens VARIETY
-=======
+# Pannaria fulvescens (Mont.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mém. Soc. natn. Sci. nat. math. Cherbourg 5: 109 (1857)
 
 #### Original name
-Pannaria fulvescens var. fulvescens
+Parmelia fulvescens Mont.
 
 ### Remarks
 null

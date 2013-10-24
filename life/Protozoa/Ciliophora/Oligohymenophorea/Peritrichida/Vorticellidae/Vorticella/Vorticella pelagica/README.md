@@ -1,5 +1,4 @@
-Vorticella pelagica SPECIES
-=======
+# Vorticella pelagica SPECIES
 
 #### Status
 ACCEPTED

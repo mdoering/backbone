@@ -1,5 +1,4 @@
-Rhabdosphaera scabrosa Deflandre in Deflandre & Fert, 1954 SPECIES
-=======
+# Rhabdosphaera scabrosa Deflandre in Deflandre & Fert, 1954 SPECIES
 
 #### Status
 ACCEPTED

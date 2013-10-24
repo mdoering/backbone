@@ -1,5 +1,4 @@
-Thermovirga Dahle & Birkeland, 2006 GENUS
-=======
+# Thermovirga Dahle & Birkeland, 2006 GENUS
 
 #### Status
 ACCEPTED

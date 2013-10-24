@@ -1,5 +1,4 @@
-Leptosphaeria dobrogica Savul. & Sandu SPECIES
-=======
+# Leptosphaeria dobrogica Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geopetalum densifolium Murrill SPECIES
-=======
+# Geopetalum densifolium Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boubovia vermiphila Brumm. & R. Kristiansen, 1999 SPECIES
-=======
+# Boubovia vermiphila Brumm. & R. Kristiansen, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodophyllus glutiniceps Hongo SPECIES
-=======
+# Rhodophyllus glutiniceps Hongo SPECIES
 
 #### Status
 ACCEPTED

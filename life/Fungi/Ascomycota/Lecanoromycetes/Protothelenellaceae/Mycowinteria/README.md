@@ -1,5 +1,4 @@
-Mycowinteria Sherwood GENUS
-=======
+# Mycowinteria Sherwood GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flammula praefloccosa (Murrill) Murrill SPECIES
-=======
+# Flammula praefloccosa (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

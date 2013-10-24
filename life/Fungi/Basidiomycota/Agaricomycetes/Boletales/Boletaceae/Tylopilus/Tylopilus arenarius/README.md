@@ -1,5 +1,4 @@
-Tylopilus arenarius Singer SPECIES
-=======
+# Tylopilus arenarius Singer SPECIES
 
 #### Status
 ACCEPTED

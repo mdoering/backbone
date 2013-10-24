@@ -1,5 +1,4 @@
-Lecanora tenuata (Nyl.) Nyl. SPECIES
-=======
+# Lecanora tenuata (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

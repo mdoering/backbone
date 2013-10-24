@@ -1,5 +1,4 @@
-Tuber asa-foetida Lesp. SPECIES
-=======
+# Tuber asa-foetida Lesp. SPECIES
 
 #### Status
 ACCEPTED

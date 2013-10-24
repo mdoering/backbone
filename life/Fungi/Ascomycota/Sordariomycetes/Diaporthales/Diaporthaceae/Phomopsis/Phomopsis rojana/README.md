@@ -1,5 +1,4 @@
-Phomopsis rojana Gaja SPECIES
-=======
+# Phomopsis rojana Gaja SPECIES
 
 #### Status
 ACCEPTED

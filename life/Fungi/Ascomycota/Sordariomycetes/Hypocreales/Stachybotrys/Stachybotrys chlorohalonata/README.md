@@ -1,5 +1,4 @@
-Stachybotrys chlorohalonata B. Andersen & Thrane SPECIES
-=======
+# Stachybotrys chlorohalonata B. Andersen & Thrane SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trametes citrina Bres. SPECIES
-=======
+# Trametes citrina Bres. SPECIES
 
 #### Status
 ACCEPTED

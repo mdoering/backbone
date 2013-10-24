@@ -1,5 +1,4 @@
-Rinodina punctosorediata Aptroot & Sparrius SPECIES
-=======
+# Rinodina punctosorediata Aptroot & Sparrius SPECIES
 
 #### Status
 ACCEPTED

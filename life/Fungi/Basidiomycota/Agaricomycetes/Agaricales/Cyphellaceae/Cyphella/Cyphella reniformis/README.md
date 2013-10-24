@@ -1,5 +1,4 @@
-Cyphella reniformis Pat. SPECIES
-=======
+# Cyphella reniformis Pat. SPECIES
 
 #### Status
 ACCEPTED

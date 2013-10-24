@@ -1,5 +1,4 @@
-Pleurotricha grandis Stein, 1859 SPECIES
-=======
+# Pleurotricha grandis Stein, 1859 SPECIES
 
 #### Status
 ACCEPTED

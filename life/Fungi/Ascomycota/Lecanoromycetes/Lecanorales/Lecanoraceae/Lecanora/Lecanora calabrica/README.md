@@ -1,5 +1,4 @@
-Lecanora calabrica M. Brand & van den Boom SPECIES
-=======
+# Lecanora calabrica M. Brand & van den Boom SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synchytrium viride W.G. Schneid. SPECIES
-=======
+# Synchytrium viride W.G. Schneid. SPECIES
 
 #### Status
 ACCEPTED

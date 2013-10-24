@@ -1,5 +1,4 @@
-Calyptrolithophora Heimdal, 1980 GENUS
-=======
+# Calyptrolithophora Heimdal, 1980 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sydowiellina philodendri Bat. & I.H. Lima SPECIES
-=======
+# Sydowiellina philodendri Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

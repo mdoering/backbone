@@ -1,5 +1,4 @@
-Spirochaeta ranarum SPECIES
-=======
+# Spirochaeta ranarum SPECIES
 
 #### Status
 ACCEPTED

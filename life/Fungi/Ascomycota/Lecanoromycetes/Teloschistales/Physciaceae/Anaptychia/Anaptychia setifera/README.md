@@ -1,5 +1,4 @@
-Anaptychia setifera (Mereschk.) Räsänen SPECIES
-=======
+# Anaptychia setifera (Mereschk.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

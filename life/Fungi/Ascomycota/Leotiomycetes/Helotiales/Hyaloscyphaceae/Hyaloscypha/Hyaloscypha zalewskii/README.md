@@ -1,5 +1,4 @@
-Hyaloscypha zalewskii Descals & J. Webster, 1977 SPECIES
-=======
+# Hyaloscypha zalewskii Descals & J. Webster, 1977 SPECIES
 
 #### Status
 ACCEPTED

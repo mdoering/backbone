@@ -1,5 +1,4 @@
-Leptocapnodium brasiliense (Puttemans) Bat. & Cif. SPECIES
-=======
+# Leptocapnodium brasiliense (Puttemans) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

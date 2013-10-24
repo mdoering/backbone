@@ -1,5 +1,4 @@
-Amanita pallidofumosa A.E. Wood SPECIES
-=======
+# Amanita pallidofumosa A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

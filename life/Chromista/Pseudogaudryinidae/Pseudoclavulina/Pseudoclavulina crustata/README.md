@@ -1,5 +1,4 @@
-Pseudoclavulina crustata Cushman, 1936 SPECIES
-=======
+# Pseudoclavulina crustata Cushman, 1936 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenochaete aspera Berk. & M.A. Curtis SPECIES
-=======
+# Hymenochaete aspera Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

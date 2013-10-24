@@ -1,5 +1,4 @@
-Terana saccharina (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Terana saccharina (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora uplandica H. Magn. SPECIES
-=======
+# Lecanora uplandica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

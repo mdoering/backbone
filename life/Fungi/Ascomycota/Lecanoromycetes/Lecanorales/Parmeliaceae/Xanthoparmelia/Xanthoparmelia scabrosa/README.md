@@ -1,17 +1,16 @@
-Parmelia conspersa var. hypoclystoides Müll. Arg. VARIETY
-=======
+# Xanthoparmelia scabrosa (Taylor) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 66: 47 (1883)
+Phytologia 28: 488 (1974)
 
 #### Original name
-Parmelia conspersa var. hypoclystoides Müll. Arg.
+Parmelia scabrosa Taylor
 
 ### Remarks
 null

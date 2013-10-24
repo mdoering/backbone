@@ -1,5 +1,4 @@
-Candida asparagi F.Y. Bai & H.Z. Lu SPECIES
-=======
+# Candida asparagi F.Y. Bai & H.Z. Lu SPECIES
 
 #### Status
 ACCEPTED

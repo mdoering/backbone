@@ -1,5 +1,4 @@
-Syringogyra J.F. Weisse, 1844 GENUS
-=======
+# Syringogyra J.F. Weisse, 1844 GENUS
 
 #### Status
 ACCEPTED

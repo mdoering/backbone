@@ -1,5 +1,4 @@
-Prillieuxia flavidula Rick SPECIES
-=======
+# Prillieuxia flavidula Rick SPECIES
 
 #### Status
 ACCEPTED

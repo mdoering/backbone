@@ -1,5 +1,4 @@
-Pyrenula rizaiensis SPECIES
-=======
+# Pyrenula rizaiensis SPECIES
 
 #### Status
 ACCEPTED

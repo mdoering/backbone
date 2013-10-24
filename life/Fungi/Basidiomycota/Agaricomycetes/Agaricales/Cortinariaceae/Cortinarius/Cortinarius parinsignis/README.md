@@ -1,5 +1,4 @@
-Cortinarius parinsignis Moënne-Locc. & Carteret SPECIES
-=======
+# Cortinarius parinsignis Moënne-Locc. & Carteret SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hypholoma sublateritium var. sublateritium VARIETY
-=======
+# Hypholoma lateritium (Schaeff.) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Soc. Émul. Montbéliard, Sér. 2 5: 113 (1873)
+Führ. Pilzk. (Zwickau) 72 (1871)
 
 #### Original name
-Hypholoma sublateritium var. sublateritium
+Agaricus lateritius Fr., 1821
 
 ### Remarks
 null

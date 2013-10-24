@@ -1,17 +1,16 @@
-Tricholoma nauseosum f. nauseosum (A. Blytt) Kytöv. FORM
-=======
+# Tricholoma nauseosum (A. Blytt) Kytöv., 1989 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Karstenia 28(2): 69 (1989)
 
 #### Original name
-Tricholoma nauseosum f. nauseosum (A. Blytt) Kytöv.
+Armillaria nauseosa A. Blytt, 1905
 
 ### Remarks
 null

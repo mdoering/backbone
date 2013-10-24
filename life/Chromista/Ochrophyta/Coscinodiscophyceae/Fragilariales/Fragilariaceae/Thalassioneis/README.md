@@ -1,5 +1,4 @@
-Thalassioneis Round, 1990 GENUS
-=======
+# Thalassioneis Round, 1990 GENUS
 
 #### Status
 ACCEPTED

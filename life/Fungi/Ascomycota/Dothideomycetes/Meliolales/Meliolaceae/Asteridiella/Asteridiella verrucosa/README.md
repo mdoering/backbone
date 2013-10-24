@@ -1,5 +1,4 @@
-Asteridiella verrucosa (Pat.) Hansf. SPECIES
-=======
+# Asteridiella verrucosa (Pat.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Centrospora filiformis (Greath.) R.H. Petersen, 1963 SPECIES
-=======
+# Anguillospora filiformis Greath., 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 54(5): 584 (1963)
+Jl S. Afr. Bot. 27: 202 (1961)
 
 #### Original name
 Anguillospora filiformis Greath., 1961

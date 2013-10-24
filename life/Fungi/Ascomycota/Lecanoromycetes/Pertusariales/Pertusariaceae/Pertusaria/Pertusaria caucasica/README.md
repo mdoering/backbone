@@ -1,5 +1,4 @@
-Pertusaria caucasica Erichsen SPECIES
-=======
+# Pertusaria caucasica Erichsen SPECIES
 
 #### Status
 ACCEPTED

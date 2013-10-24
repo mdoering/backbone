@@ -1,5 +1,4 @@
-Mycosphaerella wladiwostokensis Petr. SPECIES
-=======
+# Mycosphaerella wladiwostokensis Petr. SPECIES
 
 #### Status
 ACCEPTED

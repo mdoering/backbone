@@ -1,5 +1,4 @@
-Lecania algarbiensis Cout. SPECIES
-=======
+# Lecania algarbiensis Cout. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Itajahya glutinolens (Möller) SPECIES
-=======
+# Itajahya glutinolens (Möller) SPECIES
 
 #### Status
 ACCEPTED

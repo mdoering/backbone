@@ -1,14 +1,13 @@
-Callopisma ferrugineum f. ammiospila (Ach.) Räsänen FORM
-=======
+# Caloplaca ammiospila (Wahlenb.) H. Olivier SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. Soc. nat. hist. Nat. Math. Cherbourg 37: 136 (1909)
 
 #### Original name
 Lecidea cinereofusca var. ammiospila Ach.

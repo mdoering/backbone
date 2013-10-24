@@ -1,5 +1,4 @@
-Hydnum purpureum Willd. SPECIES
-=======
+# Hydnum purpureum Willd. SPECIES
 
 #### Status
 ACCEPTED

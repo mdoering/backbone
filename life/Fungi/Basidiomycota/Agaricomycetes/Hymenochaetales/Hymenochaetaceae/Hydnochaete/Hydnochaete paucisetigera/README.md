@@ -1,5 +1,4 @@
-Hydnochaete paucisetigera Parmasto & Sheng H. Wu, 2005 SPECIES
-=======
+# Hydnochaete paucisetigera Parmasto & Sheng H. Wu, 2005 SPECIES
 
 #### Status
 ACCEPTED

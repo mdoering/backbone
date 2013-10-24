@@ -1,5 +1,4 @@
-Cylindrocolla tenuis P. Karst. SPECIES
-=======
+# Cylindrocolla tenuis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

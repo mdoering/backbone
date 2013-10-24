@@ -1,5 +1,4 @@
-Puccinia eutela Syd. SPECIES
-=======
+# Puccinia eutela Syd. SPECIES
 
 #### Status
 ACCEPTED

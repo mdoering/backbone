@@ -1,5 +1,4 @@
-Acaulospora Gerd. & Trappe GENUS
-=======
+# Acaulospora Gerd. & Trappe GENUS
 
 #### Status
 ACCEPTED

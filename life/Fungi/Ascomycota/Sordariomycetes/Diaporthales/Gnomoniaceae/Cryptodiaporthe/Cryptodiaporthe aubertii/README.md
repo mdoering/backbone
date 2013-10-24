@@ -1,17 +1,16 @@
-Diaporthe wibbei var. wibbei VARIETY
-=======
+# Cryptodiaporthe aubertii (Westend.) Wehm., 1933 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pyrenomycetes Germanici (1867)
+Monograph of the Genus Diaporthe Nitschke & its Segregates 202 (1933)
 
 #### Original name
-Diaporthe wibbei var. wibbei
+Sphaeria aubertii Westend., 1859
 
 ### Remarks
 null

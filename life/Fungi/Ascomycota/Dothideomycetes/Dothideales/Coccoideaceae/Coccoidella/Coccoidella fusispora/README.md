@@ -1,5 +1,4 @@
-Coccoidella fusispora Petr. & Cif. SPECIES
-=======
+# Coccoidella fusispora Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

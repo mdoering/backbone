@@ -1,5 +1,4 @@
-Linochora rhododendri S. Ahmad, 1971 SPECIES
-=======
+# Linochora rhododendri S. Ahmad, 1971 SPECIES
 
 #### Status
 ACCEPTED

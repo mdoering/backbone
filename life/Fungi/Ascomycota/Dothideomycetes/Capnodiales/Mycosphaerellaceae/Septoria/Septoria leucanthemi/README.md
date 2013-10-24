@@ -1,14 +1,13 @@
-Rhabdospora leucanthemi (Sacc. & Speg.) Petr., 1958 SPECIES
-=======
+# Septoria leucanthemi Sacc. & Speg., 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 11: 351 (1958)
+Michelia 1(no. 2): 191 (1878)
 
 #### Original name
 Septoria leucanthemi Sacc. & Speg., 1878

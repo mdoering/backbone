@@ -1,5 +1,4 @@
-Everniastrum sinense J.B. Chen & J.C. Wei SPECIES
-=======
+# Everniastrum sinense J.B. Chen & J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

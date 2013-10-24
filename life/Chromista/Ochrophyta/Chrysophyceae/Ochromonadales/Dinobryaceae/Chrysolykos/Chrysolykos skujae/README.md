@@ -1,5 +1,4 @@
-Chrysolykos skujae (Nauwerck) Bourrelly SPECIES
-=======
+# Chrysolykos skujae (Nauwerck) Bourrelly SPECIES
 
 #### Status
 ACCEPTED

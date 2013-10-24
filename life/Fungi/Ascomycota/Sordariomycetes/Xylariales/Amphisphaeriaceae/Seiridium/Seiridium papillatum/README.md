@@ -1,5 +1,4 @@
-Seiridium papillatum Z.Q. Yuan, 1997 SPECIES
-=======
+# Seiridium papillatum Z.Q. Yuan, 1997 SPECIES
 
 #### Status
 ACCEPTED

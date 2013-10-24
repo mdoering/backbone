@@ -1,5 +1,4 @@
-Malbranchea kambayashii Kambay. SPECIES
-=======
+# Malbranchea kambayashii Kambay. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula inopina Shaffer SPECIES
-=======
+# Russula inopina Shaffer SPECIES
 
 #### Status
 ACCEPTED

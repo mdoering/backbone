@@ -1,17 +1,16 @@
-Didymella capparidis A. Pande & V.G. Rao SPECIES
-=======
+# Didymella capparis A. Pande & V.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 34(2): 503 (1989)
 
 #### Original name
-Didymella capparidis A. Pande & V.G. Rao
+Didymella capparis A. Pande & V.G. Rao
 
 ### Remarks
 null

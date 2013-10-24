@@ -1,17 +1,16 @@
-Pseudophyllachora tonduzi Speg. SPECIES
-=======
+# Pseudophyllachora tonduzii Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Boletín de la Academia Nacional de Ciencias de Córdoba 23: (1919)
 
 #### Original name
-Pseudophyllachora tonduzi Speg.
+Pseudophyllachora tonduzii Speg.
 
 ### Remarks
 null

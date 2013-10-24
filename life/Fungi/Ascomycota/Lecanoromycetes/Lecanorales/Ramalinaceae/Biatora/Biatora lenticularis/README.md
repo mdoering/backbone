@@ -1,5 +1,4 @@
-Biatora lenticularis SPECIES
-=======
+# Biatora lenticularis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corynebacterium pilosum Yanagawa and Honda, 1978 (Approved Lists, 1980) SPECIES
-=======
+# Corynebacterium pilosum Yanagawa and Honda, 1978 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

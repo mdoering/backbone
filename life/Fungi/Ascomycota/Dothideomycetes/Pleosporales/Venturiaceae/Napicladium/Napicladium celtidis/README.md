@@ -1,5 +1,4 @@
-Napicladium celtidis Cavara SPECIES
-=======
+# Napicladium celtidis Cavara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhombobolivinella Hayward, 1990 GENUS
-=======
+# Rhombobolivinella Hayward, 1990 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporotrichum quercuum Shear SPECIES
-=======
+# Sporotrichum quercuum Shear SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimeromyces rigidus Thaxt. SPECIES
-=======
+# Dimeromyces rigidus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

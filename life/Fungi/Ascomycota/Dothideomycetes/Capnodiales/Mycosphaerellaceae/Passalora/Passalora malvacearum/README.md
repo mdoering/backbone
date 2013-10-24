@@ -1,5 +1,4 @@
-Passalora malvacearum (B. Rai & Kamal) U. Braun & Crous SPECIES
-=======
+# Passalora malvacearum (B. Rai & Kamal) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

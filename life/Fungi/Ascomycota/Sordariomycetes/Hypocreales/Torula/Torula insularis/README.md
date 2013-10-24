@@ -1,5 +1,4 @@
-Torula insularis Thüm. SPECIES
-=======
+# Torula insularis Thüm. SPECIES
 
 #### Status
 ACCEPTED

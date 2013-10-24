@@ -1,5 +1,4 @@
-Macowanites magnus Parks SPECIES
-=======
+# Macowanites magnus Parks SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthrinium sporophleum Kunze, 1823 SPECIES
-=======
+# Arthrinium sporophleum Kunze, 1823 SPECIES
 
 #### Status
 ACCEPTED

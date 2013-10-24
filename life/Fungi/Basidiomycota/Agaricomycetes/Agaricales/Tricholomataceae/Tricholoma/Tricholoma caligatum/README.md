@@ -1,17 +1,16 @@
-Armillaria caligata f. caligata FORM
-=======
+# Tricholoma caligatum (Viv.) Ricken, 1914 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomycètes (Alençon) 79 (1874)
+Die Blätterpilze 331 (1914)
 
 #### Original name
-Armillaria caligata f. caligata
+Agaricus caligatus Viv., 1834
 
 ### Remarks
 null

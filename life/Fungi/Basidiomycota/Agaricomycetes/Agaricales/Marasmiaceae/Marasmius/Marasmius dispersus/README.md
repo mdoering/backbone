@@ -1,5 +1,4 @@
-Marasmius dispersus Corner SPECIES
-=======
+# Marasmius dispersus Corner SPECIES
 
 #### Status
 ACCEPTED

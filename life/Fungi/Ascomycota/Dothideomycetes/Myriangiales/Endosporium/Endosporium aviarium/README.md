@@ -1,5 +1,4 @@
-Endosporium aviarium Tsuneda, 2008 SPECIES
-=======
+# Endosporium aviarium Tsuneda, 2008 SPECIES
 
 #### Status
 ACCEPTED

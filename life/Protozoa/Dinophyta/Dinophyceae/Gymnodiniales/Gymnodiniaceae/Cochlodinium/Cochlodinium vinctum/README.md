@@ -1,5 +1,4 @@
-Cochlodinium vinctum Kofoid & Swezy SPECIES
-=======
+# Cochlodinium vinctum Kofoid & Swezy SPECIES
 
 #### Status
 ACCEPTED

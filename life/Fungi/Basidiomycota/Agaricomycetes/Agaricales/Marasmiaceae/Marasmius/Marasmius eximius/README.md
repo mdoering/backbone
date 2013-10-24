@@ -1,5 +1,4 @@
-Marasmius eximius Berk. & Broome SPECIES
-=======
+# Marasmius eximius Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

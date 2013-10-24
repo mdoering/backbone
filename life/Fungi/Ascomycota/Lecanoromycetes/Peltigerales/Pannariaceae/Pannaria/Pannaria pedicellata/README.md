@@ -1,5 +1,4 @@
-Pannaria pedicellata Hue SPECIES
-=======
+# Pannaria pedicellata Hue SPECIES
 
 #### Status
 ACCEPTED

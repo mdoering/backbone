@@ -1,8 +1,7 @@
-Meliola equadorensis F. Stevens SPECIES
-=======
+# Meliola ecuadorensis F. Stevens SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Meliola equadorensis F. Stevens
+Meliola ecuadorensis F. Stevens
 
 ### Remarks
 null

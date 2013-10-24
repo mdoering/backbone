@@ -1,5 +1,4 @@
-Dichothrix fusca F.E. Fritsch SPECIES
-=======
+# Dichothrix fusca F.E. Fritsch SPECIES
 
 #### Status
 ACCEPTED

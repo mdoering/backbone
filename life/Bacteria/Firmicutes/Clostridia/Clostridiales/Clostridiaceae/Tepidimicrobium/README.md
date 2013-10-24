@@ -1,5 +1,4 @@
-Tepidimicrobium Slobodkin, Tourova, Kostrikina, Lysenko, German, Bonch-Osmolovskaya & Birkeland, 2006 GENUS
-=======
+# Tepidimicrobium Slobodkin, Tourova, Kostrikina, Lysenko, German, Bonch-Osmolovskaya & Birkeland, 2006 GENUS
 
 #### Status
 ACCEPTED

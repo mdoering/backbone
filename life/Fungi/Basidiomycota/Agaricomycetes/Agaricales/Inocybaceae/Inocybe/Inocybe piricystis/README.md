@@ -1,5 +1,4 @@
-Inocybe piricystis J. Favre SPECIES
-=======
+# Inocybe piricystis J. Favre SPECIES
 
 #### Status
 ACCEPTED

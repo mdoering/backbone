@@ -1,5 +1,4 @@
-Mortierella rhizogena Dasz. SPECIES
-=======
+# Mortierella rhizogena Dasz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Muiaria repens Thaxt. SPECIES
-=======
+# Muiaria repens Thaxt. SPECIES
 
 #### Status
 ACCEPTED

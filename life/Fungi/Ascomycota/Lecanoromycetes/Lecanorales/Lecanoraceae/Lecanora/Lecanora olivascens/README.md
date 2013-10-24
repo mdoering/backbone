@@ -1,5 +1,4 @@
-Lecanora olivascens Nyl. SPECIES
-=======
+# Lecanora olivascens Nyl. SPECIES
 
 #### Status
 ACCEPTED

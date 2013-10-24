@@ -1,5 +1,4 @@
-Phomopsis colae Bond.-Mont. SPECIES
-=======
+# Phomopsis colae Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

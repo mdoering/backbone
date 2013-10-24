@@ -1,5 +1,4 @@
-Sporisorium monachnes Vánky & C. Vánky SPECIES
-=======
+# Sporisorium monachnes Vánky & C. Vánky SPECIES
 
 #### Status
 ACCEPTED

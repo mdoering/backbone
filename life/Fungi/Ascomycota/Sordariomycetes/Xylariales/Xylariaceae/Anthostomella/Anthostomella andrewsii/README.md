@@ -1,5 +1,4 @@
-Anthostomella andrewsii Petr. SPECIES
-=======
+# Anthostomella andrewsii Petr. SPECIES
 
 #### Status
 ACCEPTED

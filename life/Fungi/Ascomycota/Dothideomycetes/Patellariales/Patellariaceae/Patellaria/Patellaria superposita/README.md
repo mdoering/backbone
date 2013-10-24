@@ -1,5 +1,4 @@
-Patellaria superposita Müll. Arg. SPECIES
-=======
+# Patellaria superposita Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

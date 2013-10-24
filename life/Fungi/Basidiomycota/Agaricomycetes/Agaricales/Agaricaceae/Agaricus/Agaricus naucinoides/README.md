@@ -1,5 +1,4 @@
-Agaricus naucinoides Peck SPECIES
-=======
+# Agaricus naucinoides Peck SPECIES
 
 #### Status
 ACCEPTED

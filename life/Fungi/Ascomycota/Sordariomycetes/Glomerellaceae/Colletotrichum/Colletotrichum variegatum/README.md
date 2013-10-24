@@ -1,5 +1,4 @@
-Colletotrichum variegatum U.P. Singh & H.P. Upadhyay SPECIES
-=======
+# Colletotrichum variegatum U.P. Singh & H.P. Upadhyay SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigonema opalescens Gardner SPECIES
-=======
+# Stigonema opalescens Gardner SPECIES
 
 #### Status
 ACCEPTED

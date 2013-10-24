@@ -1,5 +1,4 @@
-Lentinus tubarius Pat. SPECIES
-=======
+# Lentinus tubarius Pat. SPECIES
 
 #### Status
 ACCEPTED

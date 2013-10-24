@@ -1,5 +1,4 @@
-Lepiotasporites T.C. Huang GENUS
-=======
+# Lepiotasporites T.C. Huang GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Heterothecium perpallidum var. monosporum Müll. Arg. VARIETY
-=======
+# Calopadia perpallida (Nyl.) Vezda SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichenes Epiphylli Novi 13 (1890)
+Folia geobot. phytotax. 21(2): 215 (1986)
 
 #### Original name
-Heterothecium perpallidum var. monosporum Müll. Arg.
+Lecidea perpallida Nyl.
 
 ### Remarks
 null

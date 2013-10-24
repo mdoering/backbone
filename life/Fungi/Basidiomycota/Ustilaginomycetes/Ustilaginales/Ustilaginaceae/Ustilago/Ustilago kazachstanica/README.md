@@ -1,5 +1,4 @@
-Ustilago kazachstanica Gutner SPECIES
-=======
+# Ustilago kazachstanica Gutner SPECIES
 
 #### Status
 ACCEPTED

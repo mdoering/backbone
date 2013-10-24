@@ -1,5 +1,4 @@
-Phaeoaphelaria australiensis Corner, 1953 SPECIES
-=======
+# Phaeoaphelaria australiensis Corner, 1953 SPECIES
 
 #### Status
 ACCEPTED

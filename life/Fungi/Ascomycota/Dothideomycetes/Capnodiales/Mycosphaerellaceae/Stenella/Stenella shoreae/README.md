@@ -1,5 +1,4 @@
-Stenella shoreae M.K. Khan & Kamal SPECIES
-=======
+# Stenella shoreae M.K. Khan & Kamal SPECIES
 
 #### Status
 ACCEPTED

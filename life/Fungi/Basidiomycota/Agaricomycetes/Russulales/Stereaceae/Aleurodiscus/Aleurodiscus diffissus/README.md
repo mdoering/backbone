@@ -1,14 +1,13 @@
-Peniophora diffissa Sacc., 1891 SPECIES
-=======
+# Aleurodiscus diffissus (Sacc.) Burt, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. R. Bot. Belg. 28: 79 (1891)
+Ann. Mo. bot. Gdn 18: 485 (1931)
 
 #### Original name
 Peniophora diffissa Sacc., 1891

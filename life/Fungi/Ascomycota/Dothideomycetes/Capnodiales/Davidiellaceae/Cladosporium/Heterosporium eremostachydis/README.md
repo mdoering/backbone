@@ -1,5 +1,4 @@
-Heterosporium eremostachydis Golovin SPECIES
-=======
+# Heterosporium eremostachydis Golovin SPECIES
 
 #### Status
 ACCEPTED

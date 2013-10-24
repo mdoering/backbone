@@ -1,5 +1,4 @@
-Cercospora meliosmae Y.L. Guo & Li Xu SPECIES
-=======
+# Cercospora meliosmae Y.L. Guo & Li Xu SPECIES
 
 #### Status
 ACCEPTED

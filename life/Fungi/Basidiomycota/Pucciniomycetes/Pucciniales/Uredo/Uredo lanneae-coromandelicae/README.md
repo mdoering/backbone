@@ -1,5 +1,4 @@
-Uredo lanneae-coromandelicae P.B. Chavan & Bakare SPECIES
-=======
+# Uredo lanneae-coromandelicae P.B. Chavan & Bakare SPECIES
 
 #### Status
 ACCEPTED

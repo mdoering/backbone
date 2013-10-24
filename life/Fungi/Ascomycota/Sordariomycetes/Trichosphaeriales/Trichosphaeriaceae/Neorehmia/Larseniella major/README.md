@@ -1,5 +1,4 @@
-Larseniella major Munk SPECIES
-=======
+# Larseniella major Munk SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scopulariopsis ivorensis H. Bouchet SPECIES
-=======
+# Scopulariopsis ivorensis H. Bouchet SPECIES
 
 #### Status
 ACCEPTED

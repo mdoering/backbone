@@ -1,5 +1,4 @@
-Aecidium pleurospermi Balf.-Browne SPECIES
-=======
+# Aecidium pleurospermi Balf.-Browne SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria verbenicola Sacc. SPECIES
-=======
+# Septoria verbenicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

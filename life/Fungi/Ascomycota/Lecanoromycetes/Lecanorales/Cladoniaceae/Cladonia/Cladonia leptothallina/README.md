@@ -1,5 +1,4 @@
-Cladonia leptothallina G. Merr. SPECIES
-=======
+# Cladonia leptothallina G. Merr. SPECIES
 
 #### Status
 ACCEPTED

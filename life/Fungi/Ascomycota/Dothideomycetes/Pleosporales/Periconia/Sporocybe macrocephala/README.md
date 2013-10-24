@@ -1,5 +1,4 @@
-Sporocybe macrocephala (Corda) Sacc. SPECIES
-=======
+# Sporocybe macrocephala (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

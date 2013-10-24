@@ -1,5 +1,4 @@
-Claudopus reptans (Britzelm.) Sacc. SPECIES
-=======
+# Claudopus reptans (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

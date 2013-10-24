@@ -1,5 +1,4 @@
-Galerina dominici Singer SPECIES
-=======
+# Galerina dominici Singer SPECIES
 
 #### Status
 ACCEPTED

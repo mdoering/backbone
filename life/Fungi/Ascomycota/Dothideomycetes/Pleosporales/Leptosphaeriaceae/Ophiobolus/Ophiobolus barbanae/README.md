@@ -1,5 +1,4 @@
-Ophiobolus barbanae (Wallr.) Rehm SPECIES
-=======
+# Ophiobolus barbanae (Wallr.) Rehm SPECIES
 
 #### Status
 ACCEPTED

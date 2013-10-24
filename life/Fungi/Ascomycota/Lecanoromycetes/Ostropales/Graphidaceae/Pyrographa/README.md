@@ -1,5 +1,4 @@
-Pyrographa GENUS
-=======
+# Pyrographa GENUS
 
 #### Status
 ACCEPTED

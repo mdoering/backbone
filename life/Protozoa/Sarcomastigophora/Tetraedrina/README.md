@@ -1,5 +1,4 @@
-Tetraedrina Haeckel, 1881 GENUS
-=======
+# Tetraedrina Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

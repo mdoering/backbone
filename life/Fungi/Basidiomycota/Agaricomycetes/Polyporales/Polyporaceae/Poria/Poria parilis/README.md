@@ -1,5 +1,4 @@
-Poria parilis Fr. SPECIES
-=======
+# Poria parilis Fr. SPECIES
 
 #### Status
 ACCEPTED

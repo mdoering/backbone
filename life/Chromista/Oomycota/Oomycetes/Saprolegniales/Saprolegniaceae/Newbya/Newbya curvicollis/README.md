@@ -1,14 +1,13 @@
-Achlya curvicollis Beroqui, 1969 SPECIES
-=======
+# Newbya curvicollis (Beroqui) Mark A. Spencer, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Spencer, Vick & Dick, Mycol. Res. 106(5): 559 (2002)
 
 #### Original name
 Achlya curvicollis Beroqui, 1969

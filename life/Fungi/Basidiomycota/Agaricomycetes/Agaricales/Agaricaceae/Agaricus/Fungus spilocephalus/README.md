@@ -1,5 +1,4 @@
-Fungus spilocephalus (Berk. & Broome) Kuntze SPECIES
-=======
+# Fungus spilocephalus (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcopodium ammonis (Corda) Linder SPECIES
-=======
+# Sarcopodium ammonis (Corda) Linder SPECIES
 
 #### Status
 ACCEPTED

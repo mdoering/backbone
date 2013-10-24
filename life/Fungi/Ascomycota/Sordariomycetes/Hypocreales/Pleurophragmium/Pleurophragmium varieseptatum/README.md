@@ -1,5 +1,4 @@
-Pleurophragmium varieseptatum Matsush. SPECIES
-=======
+# Pleurophragmium varieseptatum Matsush. SPECIES
 
 #### Status
 ACCEPTED

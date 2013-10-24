@@ -1,5 +1,4 @@
-Oospora nigrificans W. Krüger SPECIES
-=======
+# Oospora nigrificans W. Krüger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella baccharidis Pat. SPECIES
-=======
+# Sphaerella baccharidis Pat. SPECIES
 
 #### Status
 ACCEPTED

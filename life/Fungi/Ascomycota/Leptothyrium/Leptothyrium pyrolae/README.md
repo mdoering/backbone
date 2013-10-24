@@ -1,8 +1,7 @@
-Leptothyrium pirolae P. Karst. SPECIES
-=======
+# Leptothyrium pyrolae P. Karst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptothyrium pirolae P. Karst.
+Leptothyrium pyrolae P. Karst.
 
 ### Remarks
 null

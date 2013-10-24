@@ -1,5 +1,4 @@
-Bottaria rosea Vain. SPECIES
-=======
+# Bottaria rosea Vain. SPECIES
 
 #### Status
 ACCEPTED

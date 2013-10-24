@@ -1,5 +1,4 @@
-Stictina lechleri Müll. Arg. SPECIES
-=======
+# Stictina lechleri Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

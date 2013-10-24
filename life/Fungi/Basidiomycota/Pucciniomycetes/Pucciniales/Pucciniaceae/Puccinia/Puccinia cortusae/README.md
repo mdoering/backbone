@@ -1,5 +1,4 @@
-Puccinia cortusae Tranzschel SPECIES
-=======
+# Puccinia cortusae Tranzschel SPECIES
 
 #### Status
 ACCEPTED

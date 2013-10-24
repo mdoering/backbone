@@ -1,5 +1,4 @@
-Seynesia licaniae Rehm SPECIES
-=======
+# Seynesia licaniae Rehm SPECIES
 
 #### Status
 ACCEPTED

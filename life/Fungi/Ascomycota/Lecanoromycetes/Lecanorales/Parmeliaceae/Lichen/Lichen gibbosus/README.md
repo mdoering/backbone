@@ -1,5 +1,4 @@
-Lichen gibbosus Dicks. SPECIES
-=======
+# Lichen gibbosus Dicks. SPECIES
 
 #### Status
 ACCEPTED

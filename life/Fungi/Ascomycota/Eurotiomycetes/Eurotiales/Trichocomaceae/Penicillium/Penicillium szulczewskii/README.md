@@ -1,5 +1,4 @@
-Penicillium szulczewskii K.M. Zalessky SPECIES
-=======
+# Penicillium szulczewskii K.M. Zalessky SPECIES
 
 #### Status
 ACCEPTED

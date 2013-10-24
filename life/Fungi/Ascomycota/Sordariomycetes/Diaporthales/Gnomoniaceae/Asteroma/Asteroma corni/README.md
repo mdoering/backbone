@@ -1,5 +1,4 @@
-Asteroma corni Desm., 1843 SPECIES
-=======
+# Asteroma corni Desm., 1843 SPECIES
 
 #### Status
 ACCEPTED

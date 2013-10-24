@@ -1,5 +1,4 @@
-Hainesia maxillariae Speg. SPECIES
-=======
+# Hainesia maxillariae Speg. SPECIES
 
 #### Status
 ACCEPTED

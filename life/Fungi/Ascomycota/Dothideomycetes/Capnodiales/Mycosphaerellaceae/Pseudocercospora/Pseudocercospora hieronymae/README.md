@@ -1,5 +1,4 @@
-Pseudocercospora hieronymae (Chupp) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora hieronymae (Chupp) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

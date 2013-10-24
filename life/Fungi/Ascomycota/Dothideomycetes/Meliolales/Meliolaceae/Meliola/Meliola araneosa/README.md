@@ -1,5 +1,4 @@
-Meliola araneosa Syd. SPECIES
-=======
+# Meliola araneosa Syd. SPECIES
 
 #### Status
 ACCEPTED

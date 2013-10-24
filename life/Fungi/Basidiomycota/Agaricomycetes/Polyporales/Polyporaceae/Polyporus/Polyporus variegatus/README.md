@@ -1,5 +1,4 @@
-Polyporus variegatus (Sowerby) Fr. SPECIES
-=======
+# Polyporus variegatus (Sowerby) Fr. SPECIES
 
 #### Status
 ACCEPTED

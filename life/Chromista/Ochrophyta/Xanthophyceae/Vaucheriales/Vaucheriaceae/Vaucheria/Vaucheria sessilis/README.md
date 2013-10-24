@@ -1,5 +1,4 @@
-Vaucheria sessilis (Vaucher) De Candolle SPECIES
-=======
+# Vaucheria sessilis (Vaucher) De Candolle SPECIES
 
 #### Status
 ACCEPTED

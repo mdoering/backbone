@@ -1,5 +1,4 @@
-Peronospora patriniae Kalymb. SPECIES
-=======
+# Peronospora patriniae Kalymb. SPECIES
 
 #### Status
 ACCEPTED

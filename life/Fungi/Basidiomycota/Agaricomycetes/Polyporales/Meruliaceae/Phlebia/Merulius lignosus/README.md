@@ -1,5 +1,4 @@
-Merulius lignosus Berk. SPECIES
-=======
+# Merulius lignosus Berk. SPECIES
 
 #### Status
 ACCEPTED

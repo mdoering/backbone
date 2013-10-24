@@ -1,5 +1,4 @@
-Cyanisticta carpoloma subsp. carpoloma SUBSPECIES
-=======
+# Cyanisticta carpoloma SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cyanisticta carpoloma subsp. carpoloma
+null
 
 ### Remarks
 null

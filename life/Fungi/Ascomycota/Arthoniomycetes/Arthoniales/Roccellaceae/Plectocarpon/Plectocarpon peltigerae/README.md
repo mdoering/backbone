@@ -1,5 +1,4 @@
-Plectocarpon peltigerae Zhurb., Ertz, Diederich & Miadl. SPECIES
-=======
+# Plectocarpon peltigerae Zhurb., Ertz, Diederich & Miadl. SPECIES
 
 #### Status
 ACCEPTED

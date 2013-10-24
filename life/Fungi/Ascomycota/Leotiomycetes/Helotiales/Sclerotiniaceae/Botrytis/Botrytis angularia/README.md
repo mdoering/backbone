@@ -1,5 +1,4 @@
-Botrytis angularia A.L. Sm. SPECIES
-=======
+# Botrytis angularia A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

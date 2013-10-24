@@ -1,5 +1,4 @@
-Thalassiosira kanayae Y. Tanimura SPECIES
-=======
+# Thalassiosira kanayae Y. Tanimura SPECIES
 
 #### Status
 ACCEPTED

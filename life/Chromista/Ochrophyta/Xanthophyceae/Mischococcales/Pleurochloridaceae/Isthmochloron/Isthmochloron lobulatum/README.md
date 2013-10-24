@@ -1,8 +1,7 @@
-Polyedrium lobulatum C. Nägeli SPECIES
-=======
+# Isthmochloron lobulatum (C. Nägeli) H. Skuja SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

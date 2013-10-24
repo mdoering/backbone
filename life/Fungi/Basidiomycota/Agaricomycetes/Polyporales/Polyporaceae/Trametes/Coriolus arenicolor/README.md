@@ -1,5 +1,4 @@
-Coriolus arenicolor (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Coriolus arenicolor (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amylotrogus vittiformis Roze SPECIES
-=======
+# Amylotrogus vittiformis Roze SPECIES
 
 #### Status
 ACCEPTED

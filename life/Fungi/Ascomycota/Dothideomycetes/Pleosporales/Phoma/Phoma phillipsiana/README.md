@@ -1,5 +1,4 @@
-Phoma phillipsiana Sacc. & Roum. SPECIES
-=======
+# Phoma phillipsiana Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

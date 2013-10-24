@@ -1,5 +1,4 @@
-Cortinarius lanceocystis Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius lanceocystis Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lactarius blennius f. albidopallens J.E. Lange ex Bon, 1985 FORM
-=======
+# Lactarius fluens Boud., 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 16(no. 61): 20 (1985)
+Bull. Soc. mycol. Fr. 15: 49 (1899)
 
 #### Original name
-Lactarius blennius f. albidopallens J.E. Lange ex Bon, 1985
+Lactarius fluens Boud., 1899
 
 ### Remarks
 null

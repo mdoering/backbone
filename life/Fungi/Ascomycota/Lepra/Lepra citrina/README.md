@@ -1,5 +1,4 @@
-Lepra citrina Schaer. SPECIES
-=======
+# Lepra citrina Schaer. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vararia sinapicolor Boidin & Gilles SPECIES
-=======
+# Vararia sinapicolor Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

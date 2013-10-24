@@ -1,5 +1,4 @@
-Amerodiscosiella renispora M.L. Farr, 1961 SPECIES
-=======
+# Amerodiscosiella renispora M.L. Farr, 1961 SPECIES
 
 #### Status
 ACCEPTED

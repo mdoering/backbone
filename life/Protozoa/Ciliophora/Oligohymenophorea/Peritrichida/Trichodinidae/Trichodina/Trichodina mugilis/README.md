@@ -1,5 +1,4 @@
-Trichodina mugilis Fantham, 1930 SPECIES
-=======
+# Trichodina mugilis Fantham, 1930 SPECIES
 
 #### Status
 ACCEPTED

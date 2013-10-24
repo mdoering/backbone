@@ -1,14 +1,13 @@
-Rimelia succinreticulata Eliasaro & Adler SPECIES
-=======
+# Parmotrema succinreticulatum (Eliasaro & Adler) O. Blanco, A. Crespo, Divakar, Elix & Lumbsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 63: 50 (1997)
+Mycologia 97(1): 158 (2005)
 
 #### Original name
 Rimelia succinreticulata Eliasaro & Adler

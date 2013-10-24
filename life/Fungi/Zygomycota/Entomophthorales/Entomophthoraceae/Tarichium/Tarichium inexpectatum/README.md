@@ -1,5 +1,4 @@
-Tarichium inexpectatum Jacz. SPECIES
-=======
+# Tarichium inexpectatum Jacz. SPECIES
 
 #### Status
 ACCEPTED

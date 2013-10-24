@@ -1,5 +1,4 @@
-Corynesporopsis uniseptata P.M. Kirk, 1981 SPECIES
-=======
+# Corynesporopsis uniseptata P.M. Kirk, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epistylis nitocrae Precht, 1935 SPECIES
-=======
+# Epistylis nitocrae Precht, 1935 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hormathonema epilithicum Ercegovic SPECIES
-=======
+# Hormathonema epilithicum Ercegovic SPECIES
 
 #### Status
 ACCEPTED

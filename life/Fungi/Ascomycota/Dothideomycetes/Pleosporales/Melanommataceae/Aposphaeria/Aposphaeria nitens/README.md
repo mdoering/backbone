@@ -1,5 +1,4 @@
-Aposphaeria nitens Cooke & Massee SPECIES
-=======
+# Aposphaeria nitens Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

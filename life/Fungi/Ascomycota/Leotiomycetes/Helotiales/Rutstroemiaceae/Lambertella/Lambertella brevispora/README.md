@@ -1,5 +1,4 @@
-Lambertella brevispora M.P. Sharma SPECIES
-=======
+# Lambertella brevispora M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

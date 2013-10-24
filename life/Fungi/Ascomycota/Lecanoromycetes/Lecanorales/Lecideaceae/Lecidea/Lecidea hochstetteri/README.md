@@ -1,5 +1,4 @@
-Lecidea hochstetteri f. hochstetteri FORM
-=======
+# Lecidea hochstetteri SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea hochstetteri f. hochstetteri
+null
 
 ### Remarks
 null

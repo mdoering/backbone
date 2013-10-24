@@ -1,5 +1,4 @@
-Codonella orthoceras (Haeckel) Joergensen, 1924 SPECIES
-=======
+# Codonella orthoceras (Haeckel) Joergensen, 1924 SPECIES
 
 #### Status
 ACCEPTED

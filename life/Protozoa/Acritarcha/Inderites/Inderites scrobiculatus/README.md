@@ -1,5 +1,4 @@
-Inderites scrobiculatus Dyupina, 1970 SPECIES
-=======
+# Inderites scrobiculatus Dyupina, 1970 SPECIES
 
 #### Status
 ACCEPTED

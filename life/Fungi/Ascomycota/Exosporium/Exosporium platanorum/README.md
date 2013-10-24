@@ -1,5 +1,4 @@
-Exosporium platanorum Tharp SPECIES
-=======
+# Exosporium platanorum Tharp SPECIES
 
 #### Status
 ACCEPTED

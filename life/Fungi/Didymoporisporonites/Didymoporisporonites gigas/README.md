@@ -1,5 +1,4 @@
-Didymoporisporonites gigas Kalgutkar & Janson. SPECIES
-=======
+# Didymoporisporonites gigas Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

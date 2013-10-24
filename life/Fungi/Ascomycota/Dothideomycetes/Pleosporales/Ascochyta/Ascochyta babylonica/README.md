@@ -1,5 +1,4 @@
-Ascochyta babylonica H.C. Greene SPECIES
-=======
+# Ascochyta babylonica H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

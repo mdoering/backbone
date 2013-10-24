@@ -1,5 +1,4 @@
-Arthopyrenia ambulatrix (Nyl.) Zahlbr. SPECIES
-=======
+# Arthopyrenia ambulatrix (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teloschistes ferrugineus (Huds.) Norman SPECIES
-=======
+# Teloschistes ferrugineus (Huds.) Norman SPECIES
 
 #### Status
 ACCEPTED

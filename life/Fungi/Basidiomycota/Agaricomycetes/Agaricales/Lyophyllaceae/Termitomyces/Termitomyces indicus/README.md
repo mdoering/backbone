@@ -1,5 +1,4 @@
-Termitomyces indicus Natarajan SPECIES
-=======
+# Termitomyces indicus Natarajan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brachiosphaera jamaicensis (J.L. Crane & Dumont) Nawawi, 1976 SPECIES
-=======
+# Brachiosphaera jamaicensis (J.L. Crane & Dumont) Nawawi, 1976 SPECIES
 
 #### Status
 ACCEPTED

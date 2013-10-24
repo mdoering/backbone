@@ -1,5 +1,4 @@
-Phyllosticta siphonis Kabát & Bubák SPECIES
-=======
+# Phyllosticta siphonis Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

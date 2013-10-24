@@ -1,5 +1,4 @@
-Dimerosporiella GENUS
-=======
+# Dimerosporiella GENUS
 
 #### Status
 ACCEPTED

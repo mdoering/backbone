@@ -1,17 +1,16 @@
-Dendropleella Munk GENUS
-=======
+# Stagonospora (Sacc.) Sacc. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Dansk bot. Ark. 15(no. 2): 125 (1953)
+Syll. fung. (Abellini) 3: 445 (1884)
 
 #### Original name
-Dendropleella Munk
+null
 
 ### Remarks
 null

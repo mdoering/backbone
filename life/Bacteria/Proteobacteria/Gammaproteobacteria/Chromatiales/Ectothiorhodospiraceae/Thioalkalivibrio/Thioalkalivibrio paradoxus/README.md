@@ -1,5 +1,4 @@
-Thioalkalivibrio paradoxus Sorokin et al., 2002 SPECIES
-=======
+# Thioalkalivibrio paradoxus Sorokin et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

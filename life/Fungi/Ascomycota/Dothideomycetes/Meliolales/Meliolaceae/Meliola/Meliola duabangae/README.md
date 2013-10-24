@@ -1,5 +1,4 @@
-Meliola duabangae Y.X. Hu SPECIES
-=======
+# Meliola duabangae Y.X. Hu SPECIES
 
 #### Status
 ACCEPTED

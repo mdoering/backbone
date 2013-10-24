@@ -1,5 +1,4 @@
-Balantidium caprae Abraham, 1961 SPECIES
-=======
+# Balantidium caprae Abraham, 1961 SPECIES
 
 #### Status
 ACCEPTED

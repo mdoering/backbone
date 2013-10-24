@@ -1,5 +1,4 @@
-Ceuthospora populi Dearn. & Overh. SPECIES
-=======
+# Ceuthospora populi Dearn. & Overh. SPECIES
 
 #### Status
 ACCEPTED

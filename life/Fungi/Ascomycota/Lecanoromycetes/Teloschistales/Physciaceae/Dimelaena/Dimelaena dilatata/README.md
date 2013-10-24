@@ -1,5 +1,4 @@
-Dimelaena dilatata SPECIES
-=======
+# Dimelaena dilatata SPECIES
 
 #### Status
 ACCEPTED

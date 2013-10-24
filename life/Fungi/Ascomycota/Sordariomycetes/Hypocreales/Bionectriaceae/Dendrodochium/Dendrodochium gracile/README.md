@@ -1,5 +1,4 @@
-Dendrodochium gracile Dasz. SPECIES
-=======
+# Dendrodochium gracile Dasz. SPECIES
 
 #### Status
 ACCEPTED

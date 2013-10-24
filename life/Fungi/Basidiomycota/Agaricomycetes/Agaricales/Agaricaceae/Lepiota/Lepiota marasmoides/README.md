@@ -1,5 +1,4 @@
-Lepiota marasmoides Speg. SPECIES
-=======
+# Lepiota marasmoides Speg. SPECIES
 
 #### Status
 ACCEPTED

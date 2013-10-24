@@ -1,5 +1,4 @@
-Diphaeis GENUS
-=======
+# Diphaeis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gerulajacta daphnea Preuss SPECIES
-=======
+# Gerulajacta daphnea Preuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora papillariae Willey SPECIES
-=======
+# Biatora papillariae Willey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Paradiacheopsis Hertel, 1954 GENUS
-=======
+# Macbrideola H.C. Gilbert GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Univ. Iowa Stud. nat. Hist. 16: 155 (1934)
 
 #### Original name
-null
+Macbrideola H.C. Gilbert
 
 ### Remarks
 null

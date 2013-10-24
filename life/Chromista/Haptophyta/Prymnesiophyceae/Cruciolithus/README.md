@@ -1,5 +1,4 @@
-Cruciolithus Stradner & Edwards, 1968 GENUS
-=======
+# Cruciolithus Stradner & Edwards, 1968 GENUS
 
 #### Status
 ACCEPTED

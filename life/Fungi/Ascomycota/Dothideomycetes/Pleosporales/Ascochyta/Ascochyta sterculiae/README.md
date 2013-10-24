@@ -1,5 +1,4 @@
-Ascochyta sterculiae Tassi SPECIES
-=======
+# Ascochyta sterculiae Tassi SPECIES
 
 #### Status
 ACCEPTED

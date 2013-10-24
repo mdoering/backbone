@@ -1,5 +1,4 @@
-Uromyces salmeae Arthur & Holw. SPECIES
-=======
+# Uromyces salmeae Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

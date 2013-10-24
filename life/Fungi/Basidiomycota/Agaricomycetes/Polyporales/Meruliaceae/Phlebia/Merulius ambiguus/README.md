@@ -1,5 +1,4 @@
-Merulius ambiguus Berk. SPECIES
-=======
+# Merulius ambiguus Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Folliculina gigantea Dons, 1914 SPECIES
-=======
+# Lagotia gigantea (Dons, 1913) Hadzi, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

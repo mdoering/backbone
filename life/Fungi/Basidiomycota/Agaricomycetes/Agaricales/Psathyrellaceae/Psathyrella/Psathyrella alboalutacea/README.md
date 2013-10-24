@@ -1,5 +1,4 @@
-Psathyrella alboalutacea A.H. Sm. SPECIES
-=======
+# Psathyrella alboalutacea A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

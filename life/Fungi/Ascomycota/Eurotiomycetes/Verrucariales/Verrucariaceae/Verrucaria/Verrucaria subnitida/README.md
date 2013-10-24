@@ -1,5 +1,4 @@
-Verrucaria subnitida Nyl. SPECIES
-=======
+# Verrucaria subnitida Nyl. SPECIES
 
 #### Status
 ACCEPTED

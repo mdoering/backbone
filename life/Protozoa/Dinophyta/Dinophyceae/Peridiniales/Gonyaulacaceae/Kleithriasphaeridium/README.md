@@ -1,14 +1,13 @@
-Diversispina D.G. Benson, 1976 GENUS
-=======
+# Kleithriasphaeridium R.J.Davey, 1974 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Tulane Stud. Geol. Paleont. 12: 184.
+null
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Arthothelium nobile Zahlbr. SPECIES
-=======
+# Arthothelium nobile Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

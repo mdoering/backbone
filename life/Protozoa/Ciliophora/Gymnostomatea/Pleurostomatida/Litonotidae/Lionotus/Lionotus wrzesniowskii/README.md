@@ -1,5 +1,4 @@
-Lionotus wrzesniowskii SPECIES
-=======
+# Lionotus wrzesniowskii SPECIES
 
 #### Status
 ACCEPTED

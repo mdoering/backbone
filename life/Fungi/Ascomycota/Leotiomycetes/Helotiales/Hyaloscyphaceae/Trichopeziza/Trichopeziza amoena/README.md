@@ -1,5 +1,4 @@
-Trichopeziza amoena (Boud.) Sacc. SPECIES
-=======
+# Trichopeziza amoena (Boud.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

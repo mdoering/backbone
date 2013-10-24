@@ -1,5 +1,4 @@
-Deleya Baumann et al., 1983 GENUS
-=======
+# Deleya Baumann et al., 1983 GENUS
 
 #### Status
 ACCEPTED

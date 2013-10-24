@@ -1,5 +1,4 @@
-Conocybe daamsii Hauskn. SPECIES
-=======
+# Conocybe daamsii Hauskn. SPECIES
 
 #### Status
 ACCEPTED

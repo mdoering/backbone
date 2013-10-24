@@ -1,5 +1,4 @@
-Bacidia invertens (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia invertens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

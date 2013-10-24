@@ -1,5 +1,4 @@
-Diplolaeviopsis ranula Giralt & D. Hawksw., 1991 SPECIES
-=======
+# Diplolaeviopsis ranula Giralt & D. Hawksw., 1991 SPECIES
 
 #### Status
 ACCEPTED

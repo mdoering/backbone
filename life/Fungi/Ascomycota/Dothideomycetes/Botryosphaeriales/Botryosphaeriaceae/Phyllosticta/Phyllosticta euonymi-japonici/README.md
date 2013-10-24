@@ -1,5 +1,4 @@
-Phyllosticta euonymi-japonici L.L. Liu & G.Z. Lu SPECIES
-=======
+# Phyllosticta euonymi-japonici L.L. Liu & G.Z. Lu SPECIES
 
 #### Status
 ACCEPTED

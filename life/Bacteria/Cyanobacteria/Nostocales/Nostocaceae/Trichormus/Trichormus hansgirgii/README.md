@@ -1,5 +1,4 @@
-Trichormus hansgirgii (Schmidle) J. Komárek & K. Anagnostidis SPECIES
-=======
+# Trichormus hansgirgii (Schmidle) J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus weberi Singer SPECIES
-=======
+# Boletus weberi Singer SPECIES
 
 #### Status
 ACCEPTED

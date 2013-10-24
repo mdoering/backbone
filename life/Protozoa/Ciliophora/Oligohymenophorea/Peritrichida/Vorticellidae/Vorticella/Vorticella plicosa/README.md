@@ -1,5 +1,4 @@
-Vorticella plicosa Dumas, 1930 SPECIES
-=======
+# Vorticella plicosa Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

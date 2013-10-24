@@ -1,5 +1,4 @@
-Spondylocladium atro-olivaceum Neves {?} SPECIES
-=======
+# Spondylocladium atro-olivaceum Neves {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthracobia tristis Bomm. et al. SPECIES
-=======
+# Anthracobia tristis Bomm. et al. SPECIES
 
 #### Status
 ACCEPTED

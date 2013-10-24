@@ -1,5 +1,4 @@
-Golovinomyces riedlianus (Speer) V.P. Heluta SPECIES
-=======
+# Golovinomyces riedlianus (Speer) V.P. Heluta SPECIES
 
 #### Status
 ACCEPTED

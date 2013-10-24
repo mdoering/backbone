@@ -1,5 +1,4 @@
-Leptothyrium calystegiae Mekht. SPECIES
-=======
+# Leptothyrium calystegiae Mekht. SPECIES
 
 #### Status
 ACCEPTED

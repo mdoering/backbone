@@ -1,14 +1,13 @@
-Hyalotricha trichodea (W. Phillips & Plowr.) Dennis, 1949 SPECIES
-=======
+# Hyalopeziza trichodea (W. Phillips & Plowr.) Raitv., 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 32: 76 (1949)
+Acad. Nauk Estonskoi S. S. R. , Inst. Zool. Bot. , Tartu 34 (1970)
 
 #### Original name
 null

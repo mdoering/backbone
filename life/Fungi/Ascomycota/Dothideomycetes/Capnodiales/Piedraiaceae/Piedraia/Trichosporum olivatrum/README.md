@@ -1,5 +1,4 @@
-Trichosporum olivatrum Sacc. SPECIES
-=======
+# Trichosporum olivatrum Sacc. SPECIES
 
 #### Status
 ACCEPTED

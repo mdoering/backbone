@@ -1,5 +1,4 @@
-Thermococcus zilligii Ronimus et al., 1999 SPECIES
-=======
+# Thermococcus zilligii Ronimus et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neopeckia caesalpiniae Doidge SPECIES
-=======
+# Neopeckia caesalpiniae Doidge SPECIES
 
 #### Status
 ACCEPTED

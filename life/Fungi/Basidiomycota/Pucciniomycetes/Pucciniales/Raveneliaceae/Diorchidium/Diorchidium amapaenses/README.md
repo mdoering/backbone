@@ -1,17 +1,16 @@
-Diorchidium amapaensis J.F. Hennen & Sotão SPECIES
-=======
+# Diorchidium amapaenses J.F. Hennen & Sotão SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Hennen, Sotão & Winkler Hennen, Mycologia 90(6): 1083 (1998)
 
 #### Original name
-Diorchidium amapaensis J.F. Hennen & Sotão
+Diorchidium amapaenses J.F. Hennen & Sotão
 
 ### Remarks
 null

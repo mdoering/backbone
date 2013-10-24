@@ -1,5 +1,4 @@
-Stropharia variicolor Desjardin & Hemmes SPECIES
-=======
+# Stropharia variicolor Desjardin & Hemmes SPECIES
 
 #### Status
 ACCEPTED

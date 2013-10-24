@@ -1,5 +1,4 @@
-Hygrophorus graveolens A.H. Sm. & Hesler SPECIES
-=======
+# Hygrophorus graveolens A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

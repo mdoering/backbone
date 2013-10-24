@@ -1,5 +1,4 @@
-Peniophora crassitunicata Boidin, Lanq. & Gilles, 1991 SPECIES
-=======
+# Peniophora crassitunicata Boidin, Lanq. & Gilles, 1991 SPECIES
 
 #### Status
 ACCEPTED

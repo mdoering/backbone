@@ -1,5 +1,4 @@
-Mycena subvulgaris Cleland SPECIES
-=======
+# Mycena subvulgaris Cleland SPECIES
 
 #### Status
 ACCEPTED

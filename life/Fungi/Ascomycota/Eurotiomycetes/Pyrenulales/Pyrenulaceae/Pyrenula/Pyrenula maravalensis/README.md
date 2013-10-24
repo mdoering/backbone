@@ -1,5 +1,4 @@
-Pyrenula maravalensis Vain. SPECIES
-=======
+# Pyrenula maravalensis Vain. SPECIES
 
 #### Status
 ACCEPTED

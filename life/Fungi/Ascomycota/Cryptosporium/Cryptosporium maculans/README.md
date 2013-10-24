@@ -1,5 +1,4 @@
-Cryptosporium maculans Corda SPECIES
-=======
+# Cryptosporium maculans Corda SPECIES
 
 #### Status
 ACCEPTED

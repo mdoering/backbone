@@ -1,5 +1,4 @@
-Rhizomorphites sigillariae (Lesq.) Mesch. SPECIES
-=======
+# Rhizomorphites sigillariae (Lesq.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

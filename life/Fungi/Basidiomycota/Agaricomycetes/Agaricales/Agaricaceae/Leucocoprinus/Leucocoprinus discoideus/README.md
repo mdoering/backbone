@@ -1,14 +1,13 @@
-Lepiota discoidea Beeli, 1927 SPECIES
-=======
+# Leucocoprinus discoideus (Beeli) Heinem., 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Jard. Bot. Nat. Belg. 47(1-2): 84 (1977)
 
 #### Original name
 Lepiota discoidea Beeli, 1927

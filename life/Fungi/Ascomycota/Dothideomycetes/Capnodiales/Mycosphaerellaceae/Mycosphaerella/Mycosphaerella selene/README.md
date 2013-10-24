@@ -1,5 +1,4 @@
-Mycosphaerella selene Sacc. SPECIES
-=======
+# Mycosphaerella selene Sacc. SPECIES
 
 #### Status
 ACCEPTED

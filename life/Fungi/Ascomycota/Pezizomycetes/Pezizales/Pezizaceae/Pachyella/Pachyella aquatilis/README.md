@@ -1,5 +1,4 @@
-Pachyella aquatilis (Berthet & Donadini) Donadini SPECIES
-=======
+# Pachyella aquatilis (Berthet & Donadini) Donadini SPECIES
 
 #### Status
 ACCEPTED

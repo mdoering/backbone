@@ -1,17 +1,16 @@
-Tuber gardnerii Gilkey SPECIES
-=======
+# Tuber gardneri Gilkey SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+University of Calif. Publ. Bot. 6(11): 317 (1916)
 
 #### Original name
-Tuber gardnerii Gilkey
+Tuber gardneri Gilkey
 
 ### Remarks
 null

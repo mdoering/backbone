@@ -1,14 +1,13 @@
-Dicaeoma cancellatum (Roum. & Sacc.) Kuntze, 1898 SPECIES
-=======
+# Puccinia cancellata (Durieu & Mont.) Sacc. & Roum., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 468 (1898)
+Revue mycol. , Toulouse 3: 26 (1881)
 
 #### Original name
 Uredo cancellata Durieu & Mont., 1846

@@ -1,5 +1,4 @@
-Lactobacillus manihotivorans Morlon-Guyot et al., 1998 SPECIES
-=======
+# Lactobacillus manihotivorans Morlon-Guyot et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

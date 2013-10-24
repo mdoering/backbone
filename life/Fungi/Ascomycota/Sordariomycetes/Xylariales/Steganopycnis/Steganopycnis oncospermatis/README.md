@@ -1,5 +1,4 @@
-Steganopycnis oncospermatis Syd. & P. Syd. SPECIES
-=======
+# Steganopycnis oncospermatis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

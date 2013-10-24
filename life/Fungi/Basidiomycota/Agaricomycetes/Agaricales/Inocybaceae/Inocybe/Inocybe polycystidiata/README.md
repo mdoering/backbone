@@ -1,5 +1,4 @@
-Inocybe polycystidiata Kobayasi SPECIES
-=======
+# Inocybe polycystidiata Kobayasi SPECIES
 
 #### Status
 ACCEPTED

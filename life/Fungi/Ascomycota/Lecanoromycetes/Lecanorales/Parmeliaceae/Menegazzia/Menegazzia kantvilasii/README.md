@@ -1,5 +1,4 @@
-Menegazzia kantvilasii P. James SPECIES
-=======
+# Menegazzia kantvilasii P. James SPECIES
 
 #### Status
 ACCEPTED

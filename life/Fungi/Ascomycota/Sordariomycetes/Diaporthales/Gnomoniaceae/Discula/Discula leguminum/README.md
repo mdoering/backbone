@@ -1,5 +1,4 @@
-Discula leguminum (Cooke) Sacc. SPECIES
-=======
+# Discula leguminum (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

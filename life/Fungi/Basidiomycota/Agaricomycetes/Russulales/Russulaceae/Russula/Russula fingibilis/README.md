@@ -1,5 +1,4 @@
-Russula fingibilis Britzelm. SPECIES
-=======
+# Russula fingibilis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

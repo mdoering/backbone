@@ -1,5 +1,4 @@
-Cordyceps citrea Penz. & Sacc. SPECIES
-=======
+# Cordyceps citrea Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

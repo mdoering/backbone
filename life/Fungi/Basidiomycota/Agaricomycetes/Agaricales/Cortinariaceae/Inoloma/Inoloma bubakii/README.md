@@ -1,17 +1,16 @@
-Inoloma bubaci Velen. SPECIES
-=======
+# Inoloma bubakii Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ceské Houby 3: 432 (1921)
 
 #### Original name
-Inoloma bubaci Velen.
+Inoloma bubakii Velen.
 
 ### Remarks
 null

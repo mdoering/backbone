@@ -1,5 +1,4 @@
-Podocapsa palmata Tiegh., 1887 SPECIES
-=======
+# Podocapsa palmata Tiegh., 1887 SPECIES
 
 #### Status
 ACCEPTED

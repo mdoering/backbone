@@ -1,17 +1,16 @@
-Krombholzia scabra f. scabra FORM
-=======
+# Leccinum scabrum (Bull.) Gray, 1821 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nat. Arr. Brit. Pl. (London) 1: 646 (1821)
 
 #### Original name
-Krombholzia scabra f. scabra
+Boletus scaber Bull., 1783
 
 ### Remarks
 null

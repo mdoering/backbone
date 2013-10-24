@@ -1,5 +1,4 @@
-Guepinia elegans Berk. & M.A. Curtis SPECIES
-=======
+# Guepinia elegans Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mortierella minutissima var. dubia Linnem., 1941 VARIETY
-=======
+# Mortierella minutissima Tiegh., 1878 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mucor. -Gatt. Mortierella Coem. 39 (1941)
+null
 
 #### Original name
-Mortierella minutissima var. dubia Linnem., 1941
+null
 
 ### Remarks
 null

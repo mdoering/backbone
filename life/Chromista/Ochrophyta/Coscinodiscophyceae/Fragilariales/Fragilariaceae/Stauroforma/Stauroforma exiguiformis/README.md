@@ -1,5 +1,4 @@
-Stauroforma exiguiformis (Lange-Bertalot) Flower SPECIES
-=======
+# Stauroforma exiguiformis (Lange-Bertalot) Flower SPECIES
 
 #### Status
 ACCEPTED

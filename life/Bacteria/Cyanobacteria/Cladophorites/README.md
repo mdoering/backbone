@@ -1,5 +1,4 @@
-Cladophorites GENUS
-=======
+# Cladophorites GENUS
 
 #### Status
 ACCEPTED

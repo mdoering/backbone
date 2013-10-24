@@ -1,5 +1,4 @@
-Ustilago tragi Mundk. SPECIES
-=======
+# Ustilago tragi Mundk. SPECIES
 
 #### Status
 ACCEPTED

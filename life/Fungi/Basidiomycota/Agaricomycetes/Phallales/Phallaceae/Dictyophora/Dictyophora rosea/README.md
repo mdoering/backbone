@@ -1,5 +1,4 @@
-Dictyophora rosea (Ces.) E. Fisch. SPECIES
-=======
+# Dictyophora rosea (Ces.) E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia strobilina Curr. SPECIES
-=======
+# Hendersonia strobilina Curr. SPECIES
 
 #### Status
 ACCEPTED

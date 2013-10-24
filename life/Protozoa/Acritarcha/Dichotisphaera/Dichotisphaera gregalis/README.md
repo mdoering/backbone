@@ -1,5 +1,4 @@
-Dichotisphaera gregalis (Hagenfeldt, 1989) Vanguestaine, 1991 SPECIES
-=======
+# Dichotisphaera gregalis (Hagenfeldt, 1989) Vanguestaine, 1991 SPECIES
 
 #### Status
 ACCEPTED

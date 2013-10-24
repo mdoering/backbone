@@ -1,5 +1,4 @@
-Diatrype frangulae (Pers.) SPECIES
-=======
+# Diatrype frangulae (Pers.) SPECIES
 
 #### Status
 ACCEPTED

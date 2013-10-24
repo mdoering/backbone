@@ -1,5 +1,4 @@
-Tympanidium Haeckel, 1887 GENUS
-=======
+# Tympanidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Robillarda trichetrae V.G. Rao SPECIES
-=======
+# Robillarda trichetrae V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

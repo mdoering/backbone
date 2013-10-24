@@ -1,5 +1,4 @@
-Allomonas Kalina et al., 1984 GENUS
-=======
+# Allomonas Kalina et al., 1984 GENUS
 
 #### Status
 ACCEPTED

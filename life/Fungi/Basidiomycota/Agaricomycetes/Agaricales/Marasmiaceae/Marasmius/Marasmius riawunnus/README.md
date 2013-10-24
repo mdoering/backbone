@@ -1,5 +1,4 @@
-Marasmius riawunnus Grgur. SPECIES
-=======
+# Marasmius riawunnus Grgur. SPECIES
 
 #### Status
 ACCEPTED

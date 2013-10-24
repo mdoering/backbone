@@ -1,5 +1,4 @@
-Phyllosticta tokutaroi Speg. SPECIES
-=======
+# Phyllosticta tokutaroi Speg. SPECIES
 
 #### Status
 ACCEPTED

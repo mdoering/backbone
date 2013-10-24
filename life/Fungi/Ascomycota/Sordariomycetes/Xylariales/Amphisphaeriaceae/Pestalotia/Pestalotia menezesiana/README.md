@@ -1,5 +1,4 @@
-Pestalotia menezesiana Bres. & Torrend SPECIES
-=======
+# Pestalotia menezesiana Bres. & Torrend SPECIES
 
 #### Status
 ACCEPTED

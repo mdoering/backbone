@@ -1,5 +1,4 @@
-Lecaniocola proteae Brain SPECIES
-=======
+# Lecaniocola proteae Brain SPECIES
 
 #### Status
 ACCEPTED

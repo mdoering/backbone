@@ -1,5 +1,4 @@
-Lichen dissectus Sw. SPECIES
-=======
+# Lichen dissectus Sw. SPECIES
 
 #### Status
 ACCEPTED

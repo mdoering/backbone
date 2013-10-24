@@ -1,5 +1,4 @@
-Pertusaria roccattii Jatta SPECIES
-=======
+# Pertusaria roccattii Jatta SPECIES
 
 #### Status
 ACCEPTED

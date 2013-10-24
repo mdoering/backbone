@@ -1,5 +1,4 @@
-Stilbum ventricosum Schumach. SPECIES
-=======
+# Stilbum ventricosum Schumach. SPECIES
 
 #### Status
 ACCEPTED

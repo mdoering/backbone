@@ -1,5 +1,4 @@
-Teichospora emilii Fabre SPECIES
-=======
+# Teichospora emilii Fabre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia holleana Mont. & Bosch SPECIES
-=======
+# Parmelia holleana Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

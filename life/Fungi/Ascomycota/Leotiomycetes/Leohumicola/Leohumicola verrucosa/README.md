@@ -1,5 +1,4 @@
-Leohumicola verrucosa N.L. Nick., Hambl. & Seifert, 2005 SPECIES
-=======
+# Leohumicola verrucosa N.L. Nick., Hambl. & Seifert, 2005 SPECIES
 
 #### Status
 ACCEPTED

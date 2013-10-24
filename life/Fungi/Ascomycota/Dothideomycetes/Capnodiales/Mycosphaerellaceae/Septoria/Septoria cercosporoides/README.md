@@ -1,5 +1,4 @@
-Septoria cercosporoides Trail SPECIES
-=======
+# Septoria cercosporoides Trail SPECIES
 
 #### Status
 ACCEPTED

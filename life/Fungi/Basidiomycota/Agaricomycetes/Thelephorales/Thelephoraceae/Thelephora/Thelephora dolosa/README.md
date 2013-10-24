@@ -1,5 +1,4 @@
-Thelephora dolosa Lév. SPECIES
-=======
+# Thelephora dolosa Lév. SPECIES
 
 #### Status
 ACCEPTED

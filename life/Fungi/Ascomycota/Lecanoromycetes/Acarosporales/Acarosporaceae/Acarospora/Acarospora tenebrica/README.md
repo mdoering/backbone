@@ -1,5 +1,4 @@
-Acarospora tenebrica H. Magn. SPECIES
-=======
+# Acarospora tenebrica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

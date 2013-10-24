@@ -1,5 +1,4 @@
-Uromyces sii-latifolii P. Karst. SPECIES
-=======
+# Uromyces sii-latifolii P. Karst. SPECIES
 
 #### Status
 ACCEPTED

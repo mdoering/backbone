@@ -1,17 +1,16 @@
-Guignardia endophyllicola Okane, Nakagiri & Tad. Ito, 2001 SPECIES
-=======
+# Guignardia mangiferae A.J. Roy, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Indian Phytopath. 20(4): 348 (1968)
 
 #### Original name
-null
+Guignardia mangiferae A.J. Roy, 1968
 
 ### Remarks
 null

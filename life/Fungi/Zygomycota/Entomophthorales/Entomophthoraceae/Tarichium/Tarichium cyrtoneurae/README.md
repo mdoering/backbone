@@ -1,5 +1,4 @@
-Tarichium cyrtoneurae (Giard) Balazy SPECIES
-=======
+# Tarichium cyrtoneurae (Giard) Balazy SPECIES
 
 #### Status
 ACCEPTED

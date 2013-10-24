@@ -1,5 +1,4 @@
-Entoloma griseoincarnatum Hesler SPECIES
-=======
+# Entoloma griseoincarnatum Hesler SPECIES
 
 #### Status
 ACCEPTED

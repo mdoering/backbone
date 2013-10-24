@@ -1,14 +1,13 @@
-Acanthostoma excelsum (Cooke) Theiss., 1912 SPECIES
-=======
+# Dimerosporium excelsum Cooke, 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. bot. Zbl. , Abt. 2 29: 69 (1912)
+Grevillea 15(no. 73): 17 (1886)
 
 #### Original name
 Dimerosporium excelsum Cooke, 1886

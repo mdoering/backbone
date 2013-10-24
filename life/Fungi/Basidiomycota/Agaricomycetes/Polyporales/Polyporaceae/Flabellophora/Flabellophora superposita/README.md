@@ -1,14 +1,13 @@
-Polyporus superpositus Berk., 1872 SPECIES
-=======
+# Flabellophora superposita (Berk.) G. Cunn., 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 13: 161 (1872)
+Bull. N. Z. Dept. Sci. Industr. Res. , Pl. Dis. Div. 164: 88 (1965)
 
 #### Original name
 Polyporus superpositus Berk., 1872

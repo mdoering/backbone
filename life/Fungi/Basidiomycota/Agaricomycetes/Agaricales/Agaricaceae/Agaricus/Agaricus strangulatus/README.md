@@ -1,5 +1,4 @@
-Agaricus strangulatus Fr. SPECIES
-=======
+# Agaricus strangulatus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria decaisneana (Crié) Sacc. SPECIES
-=======
+# Leptosphaeria decaisneana (Crié) Sacc. SPECIES
 
 #### Status
 ACCEPTED

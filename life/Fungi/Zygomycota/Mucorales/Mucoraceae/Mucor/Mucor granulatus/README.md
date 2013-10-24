@@ -1,5 +1,4 @@
-Mucor granulatus Schaeff. SPECIES
-=======
+# Mucor granulatus Schaeff. SPECIES
 
 #### Status
 ACCEPTED

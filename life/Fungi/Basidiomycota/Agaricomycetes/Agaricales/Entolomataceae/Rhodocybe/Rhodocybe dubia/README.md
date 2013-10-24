@@ -1,5 +1,4 @@
-Rhodocybe dubia J. Favre SPECIES
-=======
+# Rhodocybe dubia J. Favre SPECIES
 
 #### Status
 ACCEPTED

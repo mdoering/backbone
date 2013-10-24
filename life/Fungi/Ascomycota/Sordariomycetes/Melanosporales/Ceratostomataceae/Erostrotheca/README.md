@@ -1,5 +1,4 @@
-Erostrotheca GENUS
-=======
+# Erostrotheca GENUS
 
 #### Status
 ACCEPTED

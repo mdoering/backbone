@@ -1,5 +1,4 @@
-Chroococcidiopsis fissurarum (Ercegovic) Komárek & Anagnostidis SPECIES
-=======
+# Chroococcidiopsis fissurarum (Ercegovic) Komárek & Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

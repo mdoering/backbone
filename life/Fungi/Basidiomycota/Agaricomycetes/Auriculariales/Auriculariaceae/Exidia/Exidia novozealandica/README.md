@@ -1,17 +1,16 @@
-Exidia novo-zealandica Lloyd SPECIES
-=======
+# Exidia novozealandica Lloyd, 1925 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Writ. 7: 1356 (1925)
 
 #### Original name
-Exidia novo-zealandica Lloyd
+Exidia novozealandica Lloyd, 1925
 
 ### Remarks
 null

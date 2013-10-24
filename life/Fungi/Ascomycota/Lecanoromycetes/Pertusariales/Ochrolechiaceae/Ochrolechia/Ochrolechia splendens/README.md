@@ -1,5 +1,4 @@
-Ochrolechia splendens Lumbsch & Messuti SPECIES
-=======
+# Ochrolechia splendens Lumbsch & Messuti SPECIES
 
 #### Status
 ACCEPTED

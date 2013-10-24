@@ -1,5 +1,4 @@
-Rosellinia imposita Schwein. SPECIES
-=======
+# Rosellinia imposita Schwein. SPECIES
 
 #### Status
 ACCEPTED

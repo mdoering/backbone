@@ -1,5 +1,4 @@
-Scolecopeltidium imbe Bat. & I.H. Lima SPECIES
-=======
+# Scolecopeltidium imbe Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

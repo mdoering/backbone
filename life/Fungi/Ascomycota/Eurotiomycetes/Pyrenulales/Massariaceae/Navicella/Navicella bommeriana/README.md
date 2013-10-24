@@ -1,5 +1,4 @@
-Navicella bommeriana (Roum. & Sacc.) Kuntze SPECIES
-=======
+# Navicella bommeriana (Roum. & Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

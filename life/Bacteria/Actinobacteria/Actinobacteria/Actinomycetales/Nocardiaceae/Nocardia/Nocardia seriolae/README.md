@@ -1,5 +1,4 @@
-Nocardia seriolae Kudo et al., 1988 SPECIES
-=======
+# Nocardia seriolae Kudo et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

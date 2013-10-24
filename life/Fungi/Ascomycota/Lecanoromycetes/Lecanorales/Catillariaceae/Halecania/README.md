@@ -1,5 +1,4 @@
-Halecania M. Mayrhofer GENUS
-=======
+# Halecania M. Mayrhofer GENUS
 
 #### Status
 ACCEPTED

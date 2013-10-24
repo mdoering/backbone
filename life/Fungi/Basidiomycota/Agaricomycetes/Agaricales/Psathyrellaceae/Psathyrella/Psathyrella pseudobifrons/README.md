@@ -1,5 +1,4 @@
-Psathyrella pseudobifrons Romagn. SPECIES
-=======
+# Psathyrella pseudobifrons Romagn. SPECIES
 
 #### Status
 ACCEPTED

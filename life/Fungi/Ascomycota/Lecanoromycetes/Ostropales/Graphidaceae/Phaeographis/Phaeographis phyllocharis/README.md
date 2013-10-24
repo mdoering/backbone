@@ -1,5 +1,4 @@
-Phaeographis phyllocharis (Vain.) Zahlbr. SPECIES
-=======
+# Phaeographis phyllocharis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria pachyderma f. pachyderma FORM
-=======
+# Verrucaria pachyderma Arnold SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Verh. zool. -bot. Ges. Wein 30: 146 (1880)
 
 #### Original name
-Verrucaria pachyderma f. pachyderma
+Verrucaria pachyderma Arnold
 
 ### Remarks
 null

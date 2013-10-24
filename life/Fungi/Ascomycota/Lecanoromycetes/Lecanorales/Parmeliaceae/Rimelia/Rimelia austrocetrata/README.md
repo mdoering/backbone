@@ -1,5 +1,4 @@
-Rimelia austrocetrata (Elix & J. Johnst.) Hale & A. Fletcher SPECIES
-=======
+# Rimelia austrocetrata (Elix & J. Johnst.) Hale & A. Fletcher SPECIES
 
 #### Status
 ACCEPTED

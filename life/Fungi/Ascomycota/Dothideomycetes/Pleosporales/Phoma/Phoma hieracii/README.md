@@ -1,5 +1,4 @@
-Phoma hieracii Rostr. SPECIES
-=======
+# Phoma hieracii Rostr. SPECIES
 
 #### Status
 ACCEPTED

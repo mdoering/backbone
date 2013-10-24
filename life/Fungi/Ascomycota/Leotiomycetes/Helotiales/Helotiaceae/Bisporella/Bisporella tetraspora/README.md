@@ -1,5 +1,4 @@
-Bisporella tetraspora (Feltgen) S.E. Carp. SPECIES
-=======
+# Bisporella tetraspora (Feltgen) S.E. Carp. SPECIES
 
 #### Status
 ACCEPTED

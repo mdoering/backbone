@@ -1,5 +1,4 @@
-Physcia nodosa F. Wilson SPECIES
-=======
+# Physcia nodosa F. Wilson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placus marina (Kahl, 1927) Foissner, Berger & Kohmann, 1994 SPECIES
-=======
+# Placus marina (Kahl, 1927) Foissner, Berger & Kohmann, 1994 SPECIES
 
 #### Status
 ACCEPTED

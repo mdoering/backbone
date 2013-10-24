@@ -1,5 +1,4 @@
-Peridiscophrya japonica Nozawa, 1938 SPECIES
-=======
+# Peridiscophrya japonica Nozawa, 1938 SPECIES
 
 #### Status
 ACCEPTED

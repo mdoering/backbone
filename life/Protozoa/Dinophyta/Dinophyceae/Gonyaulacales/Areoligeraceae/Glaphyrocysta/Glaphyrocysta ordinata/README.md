@@ -1,5 +1,4 @@
-Glaphyrocysta ordinata (Williams & Downie, 1966) Stover & Evitt, 1978 SPECIES
-=======
+# Glaphyrocysta ordinata (Williams & Downie, 1966) Stover & Evitt, 1978 SPECIES
 
 #### Status
 ACCEPTED

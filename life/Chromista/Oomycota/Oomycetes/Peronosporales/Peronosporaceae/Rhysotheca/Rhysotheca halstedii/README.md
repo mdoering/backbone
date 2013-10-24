@@ -1,5 +1,4 @@
-Rhysotheca halstedii G.W. Wilson SPECIES
-=======
+# Rhysotheca halstedii G.W. Wilson SPECIES
 
 #### Status
 ACCEPTED

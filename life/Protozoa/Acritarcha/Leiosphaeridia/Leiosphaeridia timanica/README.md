@@ -1,5 +1,4 @@
-Leiosphaeridia timanica (Timofeev, 1969) Fensome et al., 1990 SPECIES
-=======
+# Leiosphaeridia timanica (Timofeev, 1969) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Xenasmatella tenuicula (Litsch.) Å. Strid, 1975 SPECIES
-=======
+# Trechispora tenuicula (Litsch.) K.H. Larss., 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Wahlenbergia 1: 83 (1975)
+The genus Trechispora (Corticiaceae, Basidiomycetes) 3: 21 (1992)
 
 #### Original name
 null

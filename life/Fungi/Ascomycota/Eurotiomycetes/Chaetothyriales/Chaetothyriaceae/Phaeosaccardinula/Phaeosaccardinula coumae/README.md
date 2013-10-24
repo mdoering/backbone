@@ -1,5 +1,4 @@
-Phaeosaccardinula coumae Bat. & A.F. Vital SPECIES
-=======
+# Phaeosaccardinula coumae Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

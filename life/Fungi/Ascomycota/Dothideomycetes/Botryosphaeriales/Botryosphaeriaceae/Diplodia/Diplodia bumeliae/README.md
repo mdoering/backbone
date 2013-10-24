@@ -1,5 +1,4 @@
-Diplodia bumeliae Tassi SPECIES
-=======
+# Diplodia bumeliae Tassi SPECIES
 
 #### Status
 ACCEPTED

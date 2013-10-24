@@ -1,5 +1,4 @@
-Acarospora rosulata (Th. Fr.) H. Magn. SPECIES
-=======
+# Acarospora rosulata (Th. Fr.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

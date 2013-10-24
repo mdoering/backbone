@@ -1,5 +1,4 @@
-Bulimina subangularis Brady SPECIES
-=======
+# Bulimina subangularis Brady SPECIES
 
 #### Status
 ACCEPTED

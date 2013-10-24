@@ -1,5 +1,4 @@
-Streptomyces celluloflavus Nishimura et al., 1953 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces celluloflavus Nishimura et al., 1953 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

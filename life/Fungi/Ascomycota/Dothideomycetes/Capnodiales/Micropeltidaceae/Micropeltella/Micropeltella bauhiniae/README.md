@@ -1,5 +1,4 @@
-Micropeltella bauhiniae Bat. SPECIES
-=======
+# Micropeltella bauhiniae Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caeoma buniatum Link SPECIES
-=======
+# Caeoma buniatum Link SPECIES
 
 #### Status
 ACCEPTED

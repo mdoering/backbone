@@ -1,5 +1,4 @@
-Xylodon cubensis (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Xylodon cubensis (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Diaporthe arctii var. arctii VARIETY
-=======
+# Diaporthe arctii (Lasch) Nitschke, 1870 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Pyrenomycetes Germanici 2: 268 (1870)
 
 #### Original name
-Diaporthe arctii var. arctii
+Sphaeria arctii Lasch, 1846
 
 ### Remarks
 null

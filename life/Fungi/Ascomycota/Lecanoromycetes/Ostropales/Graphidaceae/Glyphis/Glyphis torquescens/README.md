@@ -1,5 +1,4 @@
-Glyphis torquescens Nyl. SPECIES
-=======
+# Glyphis torquescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

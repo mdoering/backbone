@@ -1,5 +1,4 @@
-Gibbera mori Fuckel SPECIES
-=======
+# Gibbera mori Fuckel SPECIES
 
 #### Status
 ACCEPTED

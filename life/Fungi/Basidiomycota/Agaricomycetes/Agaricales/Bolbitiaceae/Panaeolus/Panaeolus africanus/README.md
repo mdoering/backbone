@@ -1,5 +1,4 @@
-Panaeolus africanus Ola'h SPECIES
-=======
+# Panaeolus africanus Ola'h SPECIES
 
 #### Status
 ACCEPTED

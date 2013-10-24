@@ -1,17 +1,16 @@
-Camarosporium acacigenum S. Ahmad SPECIES
-=======
+# Camarosporium acaciigenum S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biologia, Lahore 13: 25 (1967)
 
 #### Original name
-Camarosporium acacigenum S. Ahmad
+Camarosporium acaciigenum S. Ahmad
 
 ### Remarks
 null

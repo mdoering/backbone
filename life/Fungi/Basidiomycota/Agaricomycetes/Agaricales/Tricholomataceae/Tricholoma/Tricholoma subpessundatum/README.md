@@ -1,5 +1,4 @@
-Tricholoma subpessundatum Murrill SPECIES
-=======
+# Tricholoma subpessundatum Murrill SPECIES
 
 #### Status
 ACCEPTED

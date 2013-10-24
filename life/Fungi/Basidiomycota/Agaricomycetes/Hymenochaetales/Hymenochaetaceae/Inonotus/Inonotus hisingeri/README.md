@@ -1,5 +1,4 @@
-Inonotus hisingeri (P. Karst.) P. Karst. SPECIES
-=======
+# Inonotus hisingeri (P. Karst.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

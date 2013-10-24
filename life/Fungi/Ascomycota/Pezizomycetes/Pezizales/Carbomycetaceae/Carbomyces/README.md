@@ -1,5 +1,4 @@
-Carbomyces Gilkey GENUS
-=======
+# Carbomyces Gilkey GENUS
 
 #### Status
 ACCEPTED

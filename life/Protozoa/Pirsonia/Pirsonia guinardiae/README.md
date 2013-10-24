@@ -1,5 +1,4 @@
-Pirsonia guinardiae Schnepf, Drebes & Elbrächter, 1990 SPECIES
-=======
+# Pirsonia guinardiae Schnepf, Drebes & Elbrächter, 1990 SPECIES
 
 #### Status
 ACCEPTED

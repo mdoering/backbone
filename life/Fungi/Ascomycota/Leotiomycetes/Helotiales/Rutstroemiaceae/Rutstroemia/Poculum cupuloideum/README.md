@@ -1,17 +1,16 @@
-Poculum cupuloid Ram N. Singh & V.P. Tewari SPECIES
-=======
+# Poculum cupuloideum Ram N. Singh & V.P. Tewari SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 67(5): 1072 (1975)
 
 #### Original name
-Poculum cupuloid Ram N. Singh & V.P. Tewari
+Poculum cupuloideum Ram N. Singh & V.P. Tewari
 
 ### Remarks
 null

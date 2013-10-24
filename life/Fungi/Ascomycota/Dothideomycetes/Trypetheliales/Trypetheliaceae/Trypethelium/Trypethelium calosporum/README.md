@@ -1,5 +1,4 @@
-Trypethelium calosporum (Müll. Arg.) R.C. Harris SPECIES
-=======
+# Trypethelium calosporum (Müll. Arg.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

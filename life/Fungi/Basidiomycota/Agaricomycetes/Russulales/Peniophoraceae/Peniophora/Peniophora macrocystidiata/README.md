@@ -1,5 +1,4 @@
-Peniophora macrocystidiata Hallenb., 1978 SPECIES
-=======
+# Peniophora macrocystidiata Hallenb., 1978 SPECIES
 
 #### Status
 ACCEPTED

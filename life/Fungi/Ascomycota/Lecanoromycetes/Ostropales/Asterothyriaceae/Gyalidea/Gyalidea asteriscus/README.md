@@ -1,17 +1,16 @@
-Solorinella asteriscus subsp. asteriscus SUBSPECIES
-=======
+# Gyalidea asteriscus (Anzi) Aptroot & Lücking SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Catal. Lich. Sondr. (1860)
+Biblthca Lichenol. 86: 67 (2003)
 
 #### Original name
-Solorinella asteriscus subsp. asteriscus
+Solorinella asteriscus Anzi
 
 ### Remarks
 null

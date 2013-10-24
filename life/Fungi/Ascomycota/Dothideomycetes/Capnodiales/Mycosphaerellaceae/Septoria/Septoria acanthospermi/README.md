@@ -1,5 +1,4 @@
-Septoria acanthospermi Sukapure & Thirum. SPECIES
-=======
+# Septoria acanthospermi Sukapure & Thirum. SPECIES
 
 #### Status
 ACCEPTED

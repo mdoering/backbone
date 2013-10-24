@@ -1,5 +1,4 @@
-Bolbitius ferrugineus Arnolds SPECIES
-=======
+# Bolbitius ferrugineus Arnolds SPECIES
 
 #### Status
 ACCEPTED

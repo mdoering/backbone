@@ -1,5 +1,4 @@
-Ramalina kazakhorum Oxner SPECIES
-=======
+# Ramalina kazakhorum Oxner SPECIES
 
 #### Status
 ACCEPTED

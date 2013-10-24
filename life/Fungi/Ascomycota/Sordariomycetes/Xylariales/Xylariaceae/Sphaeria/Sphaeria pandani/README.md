@@ -1,5 +1,4 @@
-Sphaeria pandani Rabenh. SPECIES
-=======
+# Sphaeria pandani Rabenh. SPECIES
 
 #### Status
 ACCEPTED

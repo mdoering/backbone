@@ -1,17 +1,16 @@
-Lactaria caeruleitincta Murrill SPECIES
-=======
+# Lactarius caeruleitinctus Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Elisha Mitchell scient. Soc. 55: 368 (1939)
 
 #### Original name
-Lactaria caeruleitincta Murrill
+Lactarius caeruleitinctus Murrill
 
 ### Remarks
 null

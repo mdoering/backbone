@@ -1,5 +1,4 @@
-Trichototaxis aeruginosa (Foissner, 1980) Buitkamp, 1977 SPECIES
-=======
+# Trichototaxis aeruginosa (Foissner, 1980) Buitkamp, 1977 SPECIES
 
 #### Status
 ACCEPTED

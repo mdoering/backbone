@@ -1,5 +1,4 @@
-Anabaena hansgirgii Schmidle SPECIES
-=======
+# Anabaena hansgirgii Schmidle SPECIES
 
 #### Status
 ACCEPTED

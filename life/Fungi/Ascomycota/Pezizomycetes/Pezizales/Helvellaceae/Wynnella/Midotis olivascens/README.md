@@ -1,5 +1,4 @@
-Midotis olivascens (E.J. Durand) Seaver SPECIES
-=======
+# Midotis olivascens (E.J. Durand) Seaver SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exosporium stylobatum Curzi & Barbaini, 1927 SPECIES
-=======
+# Exosporium stylobatum Curzi & Barbaini, 1927 SPECIES
 
 #### Status
 ACCEPTED

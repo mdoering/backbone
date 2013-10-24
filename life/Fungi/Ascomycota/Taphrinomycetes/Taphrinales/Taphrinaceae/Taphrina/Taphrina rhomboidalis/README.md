@@ -1,5 +1,4 @@
-Taphrina rhomboidalis Syd., P. Syd. & E.J. Butler, 1911 SPECIES
-=======
+# Taphrina rhomboidalis Syd., P. Syd. & E.J. Butler, 1911 SPECIES
 
 #### Status
 ACCEPTED

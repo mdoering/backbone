@@ -1,5 +1,4 @@
-Asterina lobeliicola Hosag. & T.K. Abraham SPECIES
-=======
+# Asterina lobeliicola Hosag. & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

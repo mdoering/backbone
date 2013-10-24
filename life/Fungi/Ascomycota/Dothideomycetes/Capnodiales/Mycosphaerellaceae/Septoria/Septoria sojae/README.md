@@ -1,5 +1,4 @@
-Septoria sojae Syd. & E.J. Butler SPECIES
-=======
+# Septoria sojae Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

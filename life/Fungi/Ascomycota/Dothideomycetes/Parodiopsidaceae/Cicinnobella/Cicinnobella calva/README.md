@@ -1,5 +1,4 @@
-Cicinnobella calva G. Arnaud SPECIES
-=======
+# Cicinnobella calva G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

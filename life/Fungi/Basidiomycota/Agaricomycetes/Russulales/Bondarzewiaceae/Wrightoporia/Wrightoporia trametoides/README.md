@@ -1,14 +1,13 @@
-Stecchericium trametoides Corner, 1989 SPECIES
-=======
+# Wrightoporia trametoides (Corner) Stalpers, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Nova Hedwigia 96: 125 (1989)
+Stud. Mycol. 40: 37 (1996)
 
 #### Original name
 Stecchericium trametoides Corner, 1989

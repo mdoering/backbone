@@ -1,5 +1,4 @@
-Streptomyces griseochromogenes Fukunaga, 1955 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces griseochromogenes Fukunaga, 1955 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

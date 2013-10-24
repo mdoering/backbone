@@ -1,5 +1,4 @@
-Mycosphaerella minimipuncta (Cooke) J.N. Kapoor & H.S. Gill SPECIES
-=======
+# Mycosphaerella minimipuncta (Cooke) J.N. Kapoor & H.S. Gill SPECIES
 
 #### Status
 ACCEPTED

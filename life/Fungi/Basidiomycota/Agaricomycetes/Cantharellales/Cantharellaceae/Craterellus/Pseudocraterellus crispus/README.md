@@ -1,5 +1,4 @@
-Pseudocraterellus crispus (Sowerby) Courtec. SPECIES
-=======
+# Pseudocraterellus crispus (Sowerby) Courtec. SPECIES
 
 #### Status
 ACCEPTED

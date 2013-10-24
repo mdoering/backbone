@@ -1,5 +1,4 @@
-Armillaria yungensis (Singer) Herink SPECIES
-=======
+# Armillaria yungensis (Singer) Herink SPECIES
 
 #### Status
 ACCEPTED

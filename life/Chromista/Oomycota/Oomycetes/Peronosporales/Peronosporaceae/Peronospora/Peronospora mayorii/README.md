@@ -1,5 +1,4 @@
-Peronospora mayorii Gäum. SPECIES
-=======
+# Peronospora mayorii Gäum. SPECIES
 
 #### Status
 ACCEPTED

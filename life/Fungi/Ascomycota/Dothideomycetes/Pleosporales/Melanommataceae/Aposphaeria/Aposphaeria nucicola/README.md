@@ -1,5 +1,4 @@
-Aposphaeria nucicola Ellis & Everh. SPECIES
-=======
+# Aposphaeria nucicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

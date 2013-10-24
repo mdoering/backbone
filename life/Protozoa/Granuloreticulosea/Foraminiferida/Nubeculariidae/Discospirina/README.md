@@ -1,5 +1,4 @@
-Discospirina Munier-Chalmas, 1902 GENUS
-=======
+# Discospirina Munier-Chalmas, 1902 GENUS
 
 #### Status
 ACCEPTED

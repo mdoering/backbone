@@ -1,5 +1,4 @@
-Pseudomonas veronii Elomari et al., 1996 SPECIES
-=======
+# Pseudomonas veronii Elomari et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

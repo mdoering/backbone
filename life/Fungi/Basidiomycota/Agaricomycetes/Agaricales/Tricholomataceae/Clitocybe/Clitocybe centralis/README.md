@@ -1,5 +1,4 @@
-Clitocybe centralis Peck SPECIES
-=======
+# Clitocybe centralis Peck SPECIES
 
 #### Status
 ACCEPTED

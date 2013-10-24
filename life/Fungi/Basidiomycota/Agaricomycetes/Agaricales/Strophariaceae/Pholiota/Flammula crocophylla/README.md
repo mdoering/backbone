@@ -1,5 +1,4 @@
-Flammula crocophylla (Cooke & Massee) Sacc. SPECIES
-=======
+# Flammula crocophylla (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

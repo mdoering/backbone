@@ -1,5 +1,4 @@
-Pseudocercospora holmskioldiae C. Nakash. & Meeboon SPECIES
-=======
+# Pseudocercospora holmskioldiae C. Nakash. & Meeboon SPECIES
 
 #### Status
 ACCEPTED

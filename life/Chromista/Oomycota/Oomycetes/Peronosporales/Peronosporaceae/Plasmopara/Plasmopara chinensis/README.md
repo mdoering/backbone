@@ -1,5 +1,4 @@
-Plasmopara chinensis Gorlenko SPECIES
-=======
+# Plasmopara chinensis Gorlenko SPECIES
 
 #### Status
 ACCEPTED

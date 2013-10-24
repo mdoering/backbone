@@ -1,5 +1,4 @@
-Nectria manilensis Henn. SPECIES
-=======
+# Nectria manilensis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Deflandrea micracantha Cookson & Eisenack SPECIES
-=======
+# Deflandrea micracantha Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

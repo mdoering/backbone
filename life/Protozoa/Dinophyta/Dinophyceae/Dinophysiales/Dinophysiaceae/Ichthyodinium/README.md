@@ -1,5 +1,4 @@
-Ichthyodinium Hollande & J.Cachon, 1952 GENUS
-=======
+# Ichthyodinium Hollande & J.Cachon, 1952 GENUS
 
 #### Status
 ACCEPTED

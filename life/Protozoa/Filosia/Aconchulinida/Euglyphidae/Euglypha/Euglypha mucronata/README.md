@@ -1,5 +1,4 @@
-Euglypha mucronata Dai SPECIES
-=======
+# Euglypha mucronata Dai SPECIES
 
 #### Status
 ACCEPTED

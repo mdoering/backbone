@@ -1,5 +1,4 @@
-Polyporus lacrymans Saut. SPECIES
-=======
+# Polyporus lacrymans Saut. SPECIES
 
 #### Status
 ACCEPTED

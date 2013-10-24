@@ -1,5 +1,4 @@
-Nectria moschata Glück SPECIES
-=======
+# Nectria moschata Glück SPECIES
 
 #### Status
 ACCEPTED

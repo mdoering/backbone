@@ -1,5 +1,4 @@
-Xerotus cinnamomeus Ramsb. SPECIES
-=======
+# Xerotus cinnamomeus Ramsb. SPECIES
 
 #### Status
 ACCEPTED

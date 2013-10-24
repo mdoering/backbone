@@ -1,5 +1,4 @@
-Cercospora castellanii Matta & Belliard SPECIES
-=======
+# Cercospora castellanii Matta & Belliard SPECIES
 
 #### Status
 ACCEPTED

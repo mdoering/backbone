@@ -1,14 +1,13 @@
-Heppia omphaliza Nyl. SPECIES
-=======
+# Peltula omphaliza (Nyl.) Wetmore SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Mo. bot. Gdn 57: 179 (1971)
 
 #### Original name
 Heppia omphaliza Nyl.

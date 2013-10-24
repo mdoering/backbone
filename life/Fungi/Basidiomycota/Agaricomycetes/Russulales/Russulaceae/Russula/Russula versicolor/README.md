@@ -1,17 +1,16 @@
-Russula versicolor var. intensior (Cooke) Romagn. VARIETY
-=======
+# Russula versicolor Jul. Schäff., 1931 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Kühner & Romagnesi, Fl. Analyt. Champ. Supér. (Paris) 457 (1953)
+Z. Pilzk. 10: 105 (1931)
 
 #### Original name
-Russula puellaris var. intensior Cooke
+Russula versicolor Jul. Schäff., 1931
 
 ### Remarks
 null

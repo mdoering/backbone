@@ -1,5 +1,4 @@
-Anthostomella schmidtii (Auersw.) P.M.D. Martin SPECIES
-=======
+# Anthostomella schmidtii (Auersw.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalolechia crenulata (Wahlenb.) Th. Fr. SPECIES
-=======
+# Gyalolechia crenulata (Wahlenb.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

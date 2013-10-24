@@ -1,5 +1,4 @@
-Radulochaete ceracea Rick, 1940 SPECIES
-=======
+# Radulochaete ceracea Rick, 1940 SPECIES
 
 #### Status
 ACCEPTED

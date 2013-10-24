@@ -1,17 +1,16 @@
-Peziza araneosa var. araneosa VARIETY
-=======
+# Peziza araneosa Peck SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Herb. Fr. 6: tab. 280 (1786)
 
 #### Original name
-null
+Peziza araneosa Peck
 
 ### Remarks
 null

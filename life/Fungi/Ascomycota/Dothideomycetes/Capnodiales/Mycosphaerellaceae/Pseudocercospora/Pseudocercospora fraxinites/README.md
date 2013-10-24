@@ -1,5 +1,4 @@
-Pseudocercospora fraxinites (Ellis & Everh.) Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora fraxinites (Ellis & Everh.) Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

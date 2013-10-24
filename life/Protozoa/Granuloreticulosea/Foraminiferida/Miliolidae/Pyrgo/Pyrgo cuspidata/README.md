@@ -1,5 +1,4 @@
-Pyrgo cuspidata SPECIES
-=======
+# Pyrgo cuspidata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lyophyllum interfurcatum E. Ludw. SPECIES
-=======
+# Lyophyllum interfurcatum E. Ludw. SPECIES
 
 #### Status
 ACCEPTED

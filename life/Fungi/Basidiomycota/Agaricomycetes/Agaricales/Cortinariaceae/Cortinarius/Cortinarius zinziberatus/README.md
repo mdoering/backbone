@@ -1,5 +1,4 @@
-Cortinarius zinziberatus f. flavoannulatus M.M. Moser FORM
-=======
+# Cortinarius zinziberatus (Scop.) Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Z. Pilzk. 37: 65 (1969)
+null
 
 #### Original name
-Cortinarius zinziberatus f. flavoannulatus M.M. Moser
+Agaricus zinziberatus Scop.
 
 ### Remarks
 null

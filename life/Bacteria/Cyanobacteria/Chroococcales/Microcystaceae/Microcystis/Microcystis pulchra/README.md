@@ -1,5 +1,4 @@
-Microcystis pulchra (Kuetzing) J. Stein SPECIES
-=======
+# Microcystis pulchra (Kuetzing) J. Stein SPECIES
 
 #### Status
 ACCEPTED

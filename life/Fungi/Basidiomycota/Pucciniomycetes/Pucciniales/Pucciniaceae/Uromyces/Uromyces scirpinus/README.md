@@ -1,5 +1,4 @@
-Uromyces scirpinus Syd. SPECIES
-=======
+# Uromyces scirpinus Syd. SPECIES
 
 #### Status
 ACCEPTED

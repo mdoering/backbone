@@ -1,5 +1,4 @@
-Novella Grozdilova & Lebedeva, 1950 GENUS
-=======
+# Novella Grozdilova & Lebedeva, 1950 GENUS
 
 #### Status
 ACCEPTED

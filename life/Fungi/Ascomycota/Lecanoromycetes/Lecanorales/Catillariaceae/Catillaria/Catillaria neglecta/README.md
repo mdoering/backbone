@@ -1,5 +1,4 @@
-Catillaria neglecta Körb. SPECIES
-=======
+# Catillaria neglecta Körb. SPECIES
 
 #### Status
 ACCEPTED

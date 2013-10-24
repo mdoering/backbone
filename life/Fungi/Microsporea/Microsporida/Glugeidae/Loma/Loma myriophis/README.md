@@ -1,5 +1,4 @@
-Loma myriophis SPECIES
-=======
+# Loma myriophis SPECIES
 
 #### Status
 ACCEPTED

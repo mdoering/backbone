@@ -1,5 +1,4 @@
-Pseudocercospora rhoicissi (Syd. & P. Syd.) Deighton SPECIES
-=======
+# Pseudocercospora rhoicissi (Syd. & P. Syd.) Deighton SPECIES
 
 #### Status
 ACCEPTED

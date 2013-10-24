@@ -1,5 +1,4 @@
-Clonostachys capitata Schroers SPECIES
-=======
+# Clonostachys capitata Schroers SPECIES
 
 #### Status
 ACCEPTED

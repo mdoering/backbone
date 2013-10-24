@@ -1,5 +1,4 @@
-Blastofusarioides fusca Matsush., 1996 SPECIES
-=======
+# Blastofusarioides fusca Matsush., 1996 SPECIES
 
 #### Status
 ACCEPTED

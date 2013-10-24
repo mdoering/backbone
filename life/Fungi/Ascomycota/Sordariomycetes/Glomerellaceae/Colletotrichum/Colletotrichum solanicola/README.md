@@ -1,5 +1,4 @@
-Colletotrichum solanicola O'Gara SPECIES
-=======
+# Colletotrichum solanicola O'Gara SPECIES
 
 #### Status
 ACCEPTED

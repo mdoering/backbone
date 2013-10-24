@@ -1,5 +1,4 @@
-Graphis mirabilis Lücking, Sipman, Umaña & Chaves SPECIES
-=======
+# Graphis mirabilis Lücking, Sipman, Umaña & Chaves SPECIES
 
 #### Status
 ACCEPTED

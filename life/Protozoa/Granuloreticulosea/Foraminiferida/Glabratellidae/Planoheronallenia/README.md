@@ -1,5 +1,4 @@
-Planoheronallenia McCulloch, 1977 GENUS
-=======
+# Planoheronallenia McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platismatia erosa W. L. Culb. & C. F. Culb. SPECIES
-=======
+# Platismatia erosa W. L. Culb. & C. F. Culb. SPECIES
 
 #### Status
 ACCEPTED

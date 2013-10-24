@@ -1,5 +1,4 @@
-Leptosphaeria mandshurica Miura SPECIES
-=======
+# Leptosphaeria mandshurica Miura SPECIES
 
 #### Status
 ACCEPTED

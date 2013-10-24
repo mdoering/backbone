@@ -1,5 +1,4 @@
-Gastroammina Dunn, 1942 GENUS
-=======
+# Gastroammina Dunn, 1942 GENUS
 
 #### Status
 ACCEPTED

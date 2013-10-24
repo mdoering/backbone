@@ -1,5 +1,4 @@
-Russula kansaiensis Hongo SPECIES
-=======
+# Russula kansaiensis Hongo SPECIES
 
 #### Status
 ACCEPTED

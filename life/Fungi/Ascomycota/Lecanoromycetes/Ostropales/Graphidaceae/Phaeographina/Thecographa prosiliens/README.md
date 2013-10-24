@@ -1,5 +1,4 @@
-Thecographa prosiliens (Mont. & Bosch) A. Massal. SPECIES
-=======
+# Thecographa prosiliens (Mont. & Bosch) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

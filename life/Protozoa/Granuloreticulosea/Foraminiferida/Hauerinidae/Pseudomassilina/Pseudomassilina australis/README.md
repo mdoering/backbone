@@ -1,8 +1,7 @@
-Massilina australis Cushman, 1932 SPECIES
-=======
+# Pseudomassilina australis (Cushman, 1932) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

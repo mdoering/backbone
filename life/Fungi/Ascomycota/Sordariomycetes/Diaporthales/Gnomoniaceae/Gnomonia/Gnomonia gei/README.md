@@ -1,5 +1,4 @@
-Gnomonia gei Pat. & Doass., 1886 SPECIES
-=======
+# Gnomonia gei Pat. & Doass., 1886 SPECIES
 
 #### Status
 ACCEPTED

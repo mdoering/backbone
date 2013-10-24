@@ -1,5 +1,4 @@
-Diplodina osmanthi Traverso SPECIES
-=======
+# Diplodina osmanthi Traverso SPECIES
 
 #### Status
 ACCEPTED

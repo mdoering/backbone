@@ -1,5 +1,4 @@
-Carpathoglobotruncana Ion, 1982 GENUS
-=======
+# Carpathoglobotruncana Ion, 1982 GENUS
 
 #### Status
 ACCEPTED

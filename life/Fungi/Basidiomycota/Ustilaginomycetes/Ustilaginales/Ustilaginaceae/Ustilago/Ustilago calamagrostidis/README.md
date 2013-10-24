@@ -1,5 +1,4 @@
-Ustilago calamagrostidis (Fuckel) G.P. Clinton SPECIES
-=======
+# Ustilago calamagrostidis (Fuckel) G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

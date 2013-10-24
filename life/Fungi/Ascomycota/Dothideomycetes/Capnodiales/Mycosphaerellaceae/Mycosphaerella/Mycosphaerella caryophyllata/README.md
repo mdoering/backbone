@@ -1,5 +1,4 @@
-Mycosphaerella caryophyllata Boriquet & R. Heim SPECIES
-=======
+# Mycosphaerella caryophyllata Boriquet & R. Heim SPECIES
 
 #### Status
 ACCEPTED

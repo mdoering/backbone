@@ -1,5 +1,4 @@
-Septoria canadensis Ellis & Davis SPECIES
-=======
+# Septoria canadensis Ellis & Davis SPECIES
 
 #### Status
 ACCEPTED

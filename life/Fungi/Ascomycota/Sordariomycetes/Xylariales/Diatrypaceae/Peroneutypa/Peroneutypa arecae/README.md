@@ -1,5 +1,4 @@
-Peroneutypa arecae (Syd. & P. Syd.) Carmarán & A.I. Romero SPECIES
-=======
+# Peroneutypa arecae (Syd. & P. Syd.) Carmarán & A.I. Romero SPECIES
 
 #### Status
 ACCEPTED

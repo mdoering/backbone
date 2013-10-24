@@ -1,5 +1,4 @@
-Cordyceps ainictos Möller SPECIES
-=======
+# Cordyceps ainictos Möller SPECIES
 
 #### Status
 ACCEPTED

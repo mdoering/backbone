@@ -1,5 +1,4 @@
-Hexagonia pseudoprinceps Murrill SPECIES
-=======
+# Hexagonia pseudoprinceps Murrill SPECIES
 
 #### Status
 ACCEPTED

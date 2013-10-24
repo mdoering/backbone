@@ -1,5 +1,4 @@
-Ectocarpus rudis Zanardini SPECIES
-=======
+# Ectocarpus rudis Zanardini SPECIES
 
 #### Status
 ACCEPTED

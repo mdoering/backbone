@@ -1,5 +1,4 @@
-Copranophilus spinuliformis Speg. SPECIES
-=======
+# Copranophilus spinuliformis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Histioneis cleaveri Rampi, 1952 SPECIES
-=======
+# Histioneis cleaveri Rampi, 1952 SPECIES
 
 #### Status
 ACCEPTED

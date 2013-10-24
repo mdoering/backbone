@@ -1,5 +1,4 @@
-Acanthostigma conocarpi Tracy & Earle SPECIES
-=======
+# Acanthostigma conocarpi Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

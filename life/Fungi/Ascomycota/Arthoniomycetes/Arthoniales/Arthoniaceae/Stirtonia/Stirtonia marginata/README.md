@@ -1,5 +1,4 @@
-Stirtonia marginata Groenh. SPECIES
-=======
+# Stirtonia marginata Groenh. SPECIES
 
 #### Status
 ACCEPTED

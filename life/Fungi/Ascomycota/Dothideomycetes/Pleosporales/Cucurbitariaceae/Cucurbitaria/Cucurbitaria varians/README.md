@@ -1,5 +1,4 @@
-Cucurbitaria varians Hazsl. SPECIES
-=======
+# Cucurbitaria varians Hazsl. SPECIES
 
 #### Status
 ACCEPTED

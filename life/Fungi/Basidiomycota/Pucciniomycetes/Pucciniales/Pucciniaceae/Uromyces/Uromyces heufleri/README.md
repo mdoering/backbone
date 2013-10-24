@@ -1,5 +1,4 @@
-Uromyces heufleri Fuckel SPECIES
-=======
+# Uromyces heufleri Fuckel SPECIES
 
 #### Status
 ACCEPTED

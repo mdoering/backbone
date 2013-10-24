@@ -1,14 +1,13 @@
-Agaricus fenzlii Schulzer, 1866 SPECIES
-=======
+# Pluteus fenzlii (Schulzer) Corriol & P.-A. Moreau, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Schulzer, Kanitz & Knapp, Verh. zool. -bot. Ges. Wien 16(Abh. ): 49 (1866)
+Persoonia 19(2): 248 (2007)
 
 #### Original name
 Agaricus fenzlii Schulzer, 1866

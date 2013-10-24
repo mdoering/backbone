@@ -1,5 +1,4 @@
-Tuberculispora Deighton & Piroz. GENUS
-=======
+# Tuberculispora Deighton & Piroz. GENUS
 
 #### Status
 ACCEPTED

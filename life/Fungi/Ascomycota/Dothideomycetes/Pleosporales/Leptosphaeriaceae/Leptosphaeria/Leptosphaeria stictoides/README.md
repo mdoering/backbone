@@ -1,5 +1,4 @@
-Leptosphaeria stictoides (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Leptosphaeria stictoides (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

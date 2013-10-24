@@ -1,5 +1,4 @@
-Lophodermium euryae Y.R. Lin & Y.F. He, 2005 SPECIES
-=======
+# Lophodermium euryae Y.R. Lin & Y.F. He, 2005 SPECIES
 
 #### Status
 ACCEPTED

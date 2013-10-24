@@ -1,5 +1,4 @@
-Baltisphaeridium densum Li Zaiping, 1982 SPECIES
-=======
+# Baltisphaeridium densum Li Zaiping, 1982 SPECIES
 
 #### Status
 ACCEPTED

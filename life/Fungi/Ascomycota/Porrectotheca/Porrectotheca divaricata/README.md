@@ -1,5 +1,4 @@
-Porrectotheca divaricata Matsush., 1996 SPECIES
-=======
+# Porrectotheca divaricata Matsush., 1996 SPECIES
 
 #### Status
 ACCEPTED

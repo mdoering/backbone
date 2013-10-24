@@ -1,5 +1,4 @@
-Ceratomyces pyrenaeus Santam. SPECIES
-=======
+# Ceratomyces pyrenaeus Santam. SPECIES
 
 #### Status
 ACCEPTED

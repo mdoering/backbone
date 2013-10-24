@@ -1,5 +1,4 @@
-Neofuscelia adpicta (Zahlbr.) Essl. SPECIES
-=======
+# Neofuscelia adpicta (Zahlbr.) Essl. SPECIES
 
 #### Status
 ACCEPTED

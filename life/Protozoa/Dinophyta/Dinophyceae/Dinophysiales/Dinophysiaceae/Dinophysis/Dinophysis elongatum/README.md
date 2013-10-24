@@ -1,5 +1,4 @@
-Dinophysis elongatum SPECIES
-=======
+# Dinophysis elongatum SPECIES
 
 #### Status
 ACCEPTED

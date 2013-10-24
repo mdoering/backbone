@@ -1,5 +1,4 @@
-Phyllosticta iliciseda Sacc. SPECIES
-=======
+# Phyllosticta iliciseda Sacc. SPECIES
 
 #### Status
 ACCEPTED

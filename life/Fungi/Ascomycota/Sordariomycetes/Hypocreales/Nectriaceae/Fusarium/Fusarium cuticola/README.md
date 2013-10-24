@@ -1,5 +1,4 @@
-Fusarium cuticola (R. Blanch.) Guég. SPECIES
-=======
+# Fusarium cuticola (R. Blanch.) Guég. SPECIES
 
 #### Status
 ACCEPTED

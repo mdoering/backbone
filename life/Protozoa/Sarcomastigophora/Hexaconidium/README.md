@@ -1,5 +1,4 @@
-Hexaconidium Haeckel, 1887 GENUS
-=======
+# Hexaconidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

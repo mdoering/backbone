@@ -1,5 +1,4 @@
-Tricholoma urens P. Kumm. SPECIES
-=======
+# Tricholoma urens P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

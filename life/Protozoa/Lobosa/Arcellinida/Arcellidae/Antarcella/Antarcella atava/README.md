@@ -1,5 +1,4 @@
-Antarcella atava Collin, 1914 SPECIES
-=======
+# Antarcella atava Collin, 1914 SPECIES
 
 #### Status
 ACCEPTED

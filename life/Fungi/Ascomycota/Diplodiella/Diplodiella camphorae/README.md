@@ -1,5 +1,4 @@
-Diplodiella camphorae D. Sacc. SPECIES
-=======
+# Diplodiella camphorae D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

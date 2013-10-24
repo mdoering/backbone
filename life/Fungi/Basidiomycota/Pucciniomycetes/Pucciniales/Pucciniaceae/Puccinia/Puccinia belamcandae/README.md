@@ -1,17 +1,16 @@
-Puccinia belamacandae Dietel SPECIES
-=======
+# Puccinia belamcandae Dietel, 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 5(1): 71 (1907)
 
 #### Original name
-Puccinia belamacandae Dietel
+Puccinia belamcandae Dietel, 1907
 
 ### Remarks
 null

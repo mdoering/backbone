@@ -1,8 +1,7 @@
-Candelariella marci B. de Lesd. SPECIES
-=======
+# Candelariella marcii B. de Lesd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Candelariella marci B. de Lesd.
+Candelariella marcii B. de Lesd.
 
 ### Remarks
 null

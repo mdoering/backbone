@@ -1,8 +1,7 @@
-Hendersonia sarmentica Sacc., 1877 SPECIES
-=======
+# Camarosporium sarmenticum (Sacc.) Sacc., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

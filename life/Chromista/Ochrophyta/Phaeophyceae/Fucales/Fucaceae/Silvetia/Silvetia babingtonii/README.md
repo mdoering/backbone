@@ -1,11 +1,10 @@
-Pelvetia wrightii f. babingtonii Yendo, 1907 FORM
-=======
+# Silvetia babingtonii (Harvey) E.A. Serrão, T.O. Cho, S.M. Boo & Brawley SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

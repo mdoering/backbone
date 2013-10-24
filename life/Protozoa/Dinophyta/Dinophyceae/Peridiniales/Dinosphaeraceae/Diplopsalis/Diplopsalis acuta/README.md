@@ -1,8 +1,7 @@
-Entzia acuta (Apstein) Lebour SPECIES
-=======
+# Diplopsalis acuta (Apstein) Entz SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

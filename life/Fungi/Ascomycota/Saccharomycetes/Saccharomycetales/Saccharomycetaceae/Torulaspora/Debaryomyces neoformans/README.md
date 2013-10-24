@@ -1,5 +1,4 @@
-Debaryomyces neoformans SPECIES
-=======
+# Debaryomyces neoformans SPECIES
 
 #### Status
 DOUBTFUL

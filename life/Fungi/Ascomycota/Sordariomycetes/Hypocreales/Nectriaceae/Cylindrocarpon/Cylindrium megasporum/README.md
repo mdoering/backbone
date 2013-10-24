@@ -1,5 +1,4 @@
-Cylindrium megasporum Manka & Gierczak SPECIES
-=======
+# Cylindrium megasporum Manka & Gierczak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Physcia hirsuta var. echinella Poelt VARIETY
-=======
+# Phaeophyscia hirsuta (Mereschk.) Essl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 7(2): 302 (1978)
 
 #### Original name
-Physcia hirsuta var. echinella Poelt
+Physcia hirsuta Mereschk.
 
 ### Remarks
 null

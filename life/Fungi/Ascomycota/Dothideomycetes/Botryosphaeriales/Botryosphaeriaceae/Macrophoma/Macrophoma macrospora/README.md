@@ -1,5 +1,4 @@
-Macrophoma macrospora f. macrospora FORM
-=======
+# Macrophoma macrospora (McAlpine) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 18: 269 (1906)
 
 #### Original name
-Macrophoma macrospora f. macrospora
+Phyllosticta macrospora Ellis & Everh.
 
 ### Remarks
 null

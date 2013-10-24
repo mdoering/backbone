@@ -1,5 +1,4 @@
-Herpyzonema lorentzii Weber-van Bosse SPECIES
-=======
+# Herpyzonema lorentzii Weber-van Bosse SPECIES
 
 #### Status
 ACCEPTED

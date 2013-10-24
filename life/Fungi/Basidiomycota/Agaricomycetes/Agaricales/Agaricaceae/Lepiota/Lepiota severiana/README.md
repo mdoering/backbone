@@ -1,5 +1,4 @@
-Lepiota severiana Tiberi SPECIES
-=======
+# Lepiota severiana Tiberi SPECIES
 
 #### Status
 ACCEPTED

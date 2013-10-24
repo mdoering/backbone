@@ -1,5 +1,4 @@
-Heterococcus mastigophorus Pitschmann SPECIES
-=======
+# Heterococcus mastigophorus Pitschmann SPECIES
 
 #### Status
 ACCEPTED

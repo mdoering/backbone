@@ -1,5 +1,4 @@
-Helotiella major Ellis & Everh. SPECIES
-=======
+# Helotiella major Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

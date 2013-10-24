@@ -1,8 +1,7 @@
-Comatricha elegans microcarpa Meyl., 1935 INFRASPECIFIC_NAME
-=======
+# Clastoderma microcarpum (Meyl.) Kowalski, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

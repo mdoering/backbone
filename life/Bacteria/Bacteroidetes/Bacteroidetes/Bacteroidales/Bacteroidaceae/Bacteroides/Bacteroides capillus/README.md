@@ -1,5 +1,4 @@
-Bacteroides capillus Kornman & Holt, 1982 SPECIES
-=======
+# Bacteroides capillus Kornman & Holt, 1982 SPECIES
 
 #### Status
 ACCEPTED

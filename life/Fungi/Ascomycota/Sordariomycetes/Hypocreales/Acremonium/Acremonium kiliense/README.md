@@ -1,17 +1,16 @@
-Cephalosporium candidum var. arachnoides Sukapure & Thirum. VARIETY
-=======
+# Acremonium kiliense Grütz, 1925 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 93: 309 (1966)
+Derm. Woch. 80: 774 (1925)
 
 #### Original name
-Cephalosporium candidum var. arachnoides Sukapure & Thirum.
+Acremonium kiliense Grütz, 1925
 
 ### Remarks
 null

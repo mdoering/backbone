@@ -1,5 +1,4 @@
-Lophodiscella asparagi Tehon SPECIES
-=======
+# Lophodiscella asparagi Tehon SPECIES
 
 #### Status
 ACCEPTED

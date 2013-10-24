@@ -1,5 +1,4 @@
-Lepiota hedrychii Velen. SPECIES
-=======
+# Lepiota hedrychii Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Williamsia marianensis Pathom-aree et al., 2006 SPECIES
-=======
+# Williamsia marianensis Pathom-aree et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenochaeta tandonii G.P. Agarwal & Hasija SPECIES
-=======
+# Pyrenochaeta tandonii G.P. Agarwal & Hasija SPECIES
 
 #### Status
 ACCEPTED

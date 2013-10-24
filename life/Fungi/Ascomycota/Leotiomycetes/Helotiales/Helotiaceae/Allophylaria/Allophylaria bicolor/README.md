@@ -1,5 +1,4 @@
-Allophylaria bicolor (Starbäck) Nannf. SPECIES
-=======
+# Allophylaria bicolor (Starbäck) Nannf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spirochona elegantula Swarczewsky, 1928 SPECIES
-=======
+# Spirochona elegantula Swarczewsky, 1928 SPECIES
 
 #### Status
 ACCEPTED

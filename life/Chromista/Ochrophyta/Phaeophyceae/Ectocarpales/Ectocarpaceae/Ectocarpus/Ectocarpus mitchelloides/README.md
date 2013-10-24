@@ -1,5 +1,4 @@
-Ectocarpus mitchelloides Noda SPECIES
-=======
+# Ectocarpus mitchelloides Noda SPECIES
 
 #### Status
 ACCEPTED

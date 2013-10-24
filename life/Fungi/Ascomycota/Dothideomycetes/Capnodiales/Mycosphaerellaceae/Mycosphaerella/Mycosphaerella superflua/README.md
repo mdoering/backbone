@@ -1,17 +1,16 @@
-Sphaerella superflua f. superflua FORM
-=======
+# Mycosphaerella superflua (Fuckel) Petr., 1940 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 38(2/4): 235 (1940)
 
 #### Original name
-Sphaerella superflua f. superflua
+Sphaerella superflua Fuckel, 1870
 
 ### Remarks
 null

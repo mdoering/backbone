@@ -1,17 +1,16 @@
-Lecidea naegelii var. naegelii VARIETY
-=======
+# Lecania naegelii (Hepp) Diederich & van den Boom SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Boom, Brand, Diederich, Aptroot & Sérusiaux, Bull. Soc. Nat. luxemb. 95: 154 (1994)
 
 #### Original name
-Lecidea naegelii var. naegelii
+Biatora naegelii Hepp
 
 ### Remarks
 null

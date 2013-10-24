@@ -1,5 +1,4 @@
-Trachysphaeridium rigidulum (Timofeev, 1966) Fensome et al., 1990 SPECIES
-=======
+# Trachysphaeridium rigidulum (Timofeev, 1966) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

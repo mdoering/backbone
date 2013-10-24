@@ -1,5 +1,4 @@
-Caloplaca crassa (Malme) Zahlbr. SPECIES
-=======
+# Caloplaca crassa (Malme) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staurophallus Mont. GENUS
-=======
+# Staurophallus Mont. GENUS
 
 #### Status
 ACCEPTED

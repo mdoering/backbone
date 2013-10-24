@@ -1,5 +1,4 @@
-Calicium minimum Bagl. SPECIES
-=======
+# Calicium minimum Bagl. SPECIES
 
 #### Status
 ACCEPTED

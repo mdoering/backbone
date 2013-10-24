@@ -1,5 +1,4 @@
-Agglutinella arenarium (Nakamura) SPECIES
-=======
+# Agglutinella arenarium (Nakamura) SPECIES
 
 #### Status
 ACCEPTED

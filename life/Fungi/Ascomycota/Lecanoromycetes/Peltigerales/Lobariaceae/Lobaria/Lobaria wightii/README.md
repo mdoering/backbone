@@ -1,5 +1,4 @@
-Lobaria wightii C.W. Dodge SPECIES
-=======
+# Lobaria wightii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

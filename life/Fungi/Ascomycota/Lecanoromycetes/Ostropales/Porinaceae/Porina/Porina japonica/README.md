@@ -1,5 +1,4 @@
-Porina japonica (Räsänen) M. Satô SPECIES
-=======
+# Porina japonica (Räsänen) M. Satô SPECIES
 
 #### Status
 ACCEPTED

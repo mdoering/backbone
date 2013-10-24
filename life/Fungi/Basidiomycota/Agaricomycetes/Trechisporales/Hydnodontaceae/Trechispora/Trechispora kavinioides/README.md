@@ -1,5 +1,4 @@
-Trechispora kavinioides B. de Vries, 1987 SPECIES
-=======
+# Trechispora kavinioides B. de Vries, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sorocarpus uraeformis SPECIES
-=======
+# Sorocarpus uraeformis SPECIES
 
 #### Status
 ACCEPTED

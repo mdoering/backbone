@@ -1,5 +1,4 @@
-Rhizopogon truncatus Linder, 1924 SPECIES
-=======
+# Rhizopogon truncatus Linder, 1924 SPECIES
 
 #### Status
 ACCEPTED

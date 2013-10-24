@@ -1,5 +1,4 @@
-Sporotrichum hellebori Oudem. SPECIES
-=======
+# Sporotrichum hellebori Oudem. SPECIES
 
 #### Status
 ACCEPTED

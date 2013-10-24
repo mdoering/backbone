@@ -1,5 +1,4 @@
-Cheiromyces wrightii Mengasc., Cabello & Aramb. SPECIES
-=======
+# Cheiromyces wrightii Mengasc., Cabello & Aramb. SPECIES
 
 #### Status
 ACCEPTED

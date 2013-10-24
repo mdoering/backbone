@@ -1,5 +1,4 @@
-Polyporus nauseosus (Pat.) Sacc. & D. Sacc. SPECIES
-=======
+# Polyporus nauseosus (Pat.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

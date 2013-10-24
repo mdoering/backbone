@@ -1,5 +1,4 @@
-Lecanora vitrea (Anzi) Jatta SPECIES
-=======
+# Lecanora vitrea (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

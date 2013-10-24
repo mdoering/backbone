@@ -1,5 +1,4 @@
-Phacus ankylonoton Pochmann SPECIES
-=======
+# Phacus ankylonoton Pochmann SPECIES
 
 #### Status
 ACCEPTED

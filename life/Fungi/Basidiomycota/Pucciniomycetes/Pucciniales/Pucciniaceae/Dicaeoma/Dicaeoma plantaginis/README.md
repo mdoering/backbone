@@ -1,5 +1,4 @@
-Dicaeoma plantaginis (Westend.) Kuntze SPECIES
-=======
+# Dicaeoma plantaginis (Westend.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

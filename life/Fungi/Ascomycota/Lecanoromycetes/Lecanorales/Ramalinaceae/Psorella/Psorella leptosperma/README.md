@@ -1,5 +1,4 @@
-Psorella leptosperma (Müll. Arg.) SPECIES
-=======
+# Psorella leptosperma (Müll. Arg.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrium phragmitis Died. SPECIES
-=======
+# Leptothyrium phragmitis Died. SPECIES
 
 #### Status
 ACCEPTED

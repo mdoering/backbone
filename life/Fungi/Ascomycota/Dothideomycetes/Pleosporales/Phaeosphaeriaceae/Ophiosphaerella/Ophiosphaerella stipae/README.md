@@ -1,5 +1,4 @@
-Ophiosphaerella stipae (Hansf.) J. Walker SPECIES
-=======
+# Ophiosphaerella stipae (Hansf.) J. Walker SPECIES
 
 #### Status
 ACCEPTED

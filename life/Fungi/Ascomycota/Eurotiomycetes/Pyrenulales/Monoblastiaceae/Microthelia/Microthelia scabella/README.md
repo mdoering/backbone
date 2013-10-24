@@ -1,5 +1,4 @@
-Microthelia scabella (Quél.) Kuntze SPECIES
-=======
+# Microthelia scabella (Quél.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

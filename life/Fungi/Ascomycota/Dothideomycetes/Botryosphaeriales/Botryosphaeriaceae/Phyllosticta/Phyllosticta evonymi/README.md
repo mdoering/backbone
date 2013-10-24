@@ -1,5 +1,4 @@
-Phyllosticta evonymi Sacc. SPECIES
-=======
+# Phyllosticta evonymi Sacc. SPECIES
 
 #### Status
 ACCEPTED

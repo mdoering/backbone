@@ -1,5 +1,4 @@
-Conocybe dennisii Hauskn. SPECIES
-=======
+# Conocybe dennisii Hauskn. SPECIES
 
 #### Status
 ACCEPTED

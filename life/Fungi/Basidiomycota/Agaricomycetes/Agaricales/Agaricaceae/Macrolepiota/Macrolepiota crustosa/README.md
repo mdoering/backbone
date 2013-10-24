@@ -1,5 +1,4 @@
-Macrolepiota crustosa L.P. Shao & C.T. Xiang SPECIES
-=======
+# Macrolepiota crustosa L.P. Shao & C.T. Xiang SPECIES
 
 #### Status
 ACCEPTED

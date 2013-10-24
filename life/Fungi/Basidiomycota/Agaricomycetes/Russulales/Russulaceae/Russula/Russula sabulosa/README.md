@@ -1,5 +1,4 @@
-Russula sabulosa Heim & Blum ex Bon SPECIES
-=======
+# Russula sabulosa Heim & Blum ex Bon SPECIES
 
 #### Status
 ACCEPTED

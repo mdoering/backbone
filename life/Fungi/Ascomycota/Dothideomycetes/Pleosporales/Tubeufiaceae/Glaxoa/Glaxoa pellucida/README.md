@@ -1,5 +1,4 @@
-Glaxoa pellucida P.F. Cannon, 1997 SPECIES
-=======
+# Glaxoa pellucida P.F. Cannon, 1997 SPECIES
 
 #### Status
 ACCEPTED

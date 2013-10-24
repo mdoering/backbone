@@ -1,5 +1,4 @@
-Astrothelium septicollare (Eschw.) Leight. SPECIES
-=======
+# Astrothelium septicollare (Eschw.) Leight. SPECIES
 
 #### Status
 ACCEPTED

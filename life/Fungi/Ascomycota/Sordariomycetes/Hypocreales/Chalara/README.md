@@ -1,17 +1,16 @@
-Excioconidium Plunkett GENUS
-=======
+# Chalara (Corda) Rabenhorst, 1844 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bulletin of the Bernice P. Bishop Museum, Honolulu, Hawaii 19: 156 (1925)
+null
 
 #### Original name
-Excioconidium Plunkett
+null
 
 ### Remarks
 null

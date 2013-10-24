@@ -1,5 +1,4 @@
-Spiroplectinella kerimbaensis (Said, 1949) SPECIES
-=======
+# Spiroplectinella kerimbaensis (Said, 1949) SPECIES
 
 #### Status
 ACCEPTED

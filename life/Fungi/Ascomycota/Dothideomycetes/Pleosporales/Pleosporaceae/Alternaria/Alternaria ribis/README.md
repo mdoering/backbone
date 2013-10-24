@@ -1,5 +1,4 @@
-Alternaria ribis Bubák & Ranoj. SPECIES
-=======
+# Alternaria ribis Bubák & Ranoj. SPECIES
 
 #### Status
 ACCEPTED

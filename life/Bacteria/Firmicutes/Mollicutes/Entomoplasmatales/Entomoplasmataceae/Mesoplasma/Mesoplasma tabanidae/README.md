@@ -1,5 +1,4 @@
-Mesoplasma tabanidae Tully et al., 1994 SPECIES
-=======
+# Mesoplasma tabanidae Tully et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

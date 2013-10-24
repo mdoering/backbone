@@ -1,5 +1,4 @@
-Orbicula variolariae (Massee) Sacc. SPECIES
-=======
+# Orbicula variolariae (Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

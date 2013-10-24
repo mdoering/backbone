@@ -1,5 +1,4 @@
-Camarosporium cruciseptatum Matsush. SPECIES
-=======
+# Camarosporium cruciseptatum Matsush. SPECIES
 
 #### Status
 ACCEPTED

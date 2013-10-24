@@ -1,5 +1,4 @@
-Russula parahelios D. Antonini & M. Antonini SPECIES
-=======
+# Russula parahelios D. Antonini & M. Antonini SPECIES
 
 #### Status
 ACCEPTED

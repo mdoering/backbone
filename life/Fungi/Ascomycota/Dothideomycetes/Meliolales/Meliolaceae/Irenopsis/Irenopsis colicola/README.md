@@ -1,5 +1,4 @@
-Irenopsis colicola Hansf. & Deighton SPECIES
-=======
+# Irenopsis colicola Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

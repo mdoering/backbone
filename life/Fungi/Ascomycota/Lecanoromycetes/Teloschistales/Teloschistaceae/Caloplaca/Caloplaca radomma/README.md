@@ -1,5 +1,4 @@
-Caloplaca radomma (Nyl. ex C. Knight) Zahlbr. SPECIES
-=======
+# Caloplaca radomma (Nyl. ex C. Knight) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

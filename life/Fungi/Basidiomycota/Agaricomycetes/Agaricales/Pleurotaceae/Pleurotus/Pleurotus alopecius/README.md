@@ -1,5 +1,4 @@
-Pleurotus alopecius (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Pleurotus alopecius (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

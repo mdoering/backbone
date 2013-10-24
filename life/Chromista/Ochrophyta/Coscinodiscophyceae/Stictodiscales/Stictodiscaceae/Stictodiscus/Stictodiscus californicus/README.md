@@ -1,11 +1,10 @@
-Stictodiscus californicus subsp. californicus SUBSPECIES
-=======
+# Stictodiscus californicus Greville, 1861 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+World Register of Marine Species
 
 #### Published in
 null

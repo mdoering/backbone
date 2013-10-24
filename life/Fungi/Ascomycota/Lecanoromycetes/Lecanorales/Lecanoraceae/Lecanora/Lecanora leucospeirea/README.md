@@ -1,5 +1,4 @@
-Lecanora leucospeirea Nyl. SPECIES
-=======
+# Lecanora leucospeirea Nyl. SPECIES
 
 #### Status
 ACCEPTED

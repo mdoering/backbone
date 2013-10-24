@@ -1,5 +1,4 @@
-Hypocrea flava Henn. SPECIES
-=======
+# Hypocrea flava Henn. SPECIES
 
 #### Status
 ACCEPTED

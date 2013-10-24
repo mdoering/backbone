@@ -1,5 +1,4 @@
-Psathyrella pseudocandolleana A.H. Sm. SPECIES
-=======
+# Psathyrella pseudocandolleana A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

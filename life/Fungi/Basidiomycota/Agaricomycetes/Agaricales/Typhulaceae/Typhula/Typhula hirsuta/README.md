@@ -1,5 +1,4 @@
-Typhula hirsuta Lib. SPECIES
-=======
+# Typhula hirsuta Lib. SPECIES
 
 #### Status
 ACCEPTED

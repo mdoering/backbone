@@ -1,5 +1,4 @@
-Clitocybe sublutea A.H. Sm. SPECIES
-=======
+# Clitocybe sublutea A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

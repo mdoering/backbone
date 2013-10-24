@@ -1,5 +1,4 @@
-Xylaria coccophora Mont. SPECIES
-=======
+# Xylaria coccophora Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycobacterium peregrinum (ex Bojalil et al., 1962) Kusunoki & Ezaki, 1992 SPECIES
-=======
+# Mycobacterium peregrinum (ex Bojalil et al., 1962) Kusunoki & Ezaki, 1992 SPECIES
 
 #### Status
 ACCEPTED

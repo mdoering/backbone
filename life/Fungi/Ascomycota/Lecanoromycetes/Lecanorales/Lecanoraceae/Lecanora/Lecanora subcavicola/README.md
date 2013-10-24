@@ -1,5 +1,4 @@
-Lecanora subcavicola B. D. Ryan SPECIES
-=======
+# Lecanora subcavicola B. D. Ryan SPECIES
 
 #### Status
 ACCEPTED

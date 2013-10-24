@@ -1,5 +1,4 @@
-Quinqueloculina agglutinans d'Orbigny SPECIES
-=======
+# Quinqueloculina agglutinans d'Orbigny SPECIES
 
 #### Status
 ACCEPTED

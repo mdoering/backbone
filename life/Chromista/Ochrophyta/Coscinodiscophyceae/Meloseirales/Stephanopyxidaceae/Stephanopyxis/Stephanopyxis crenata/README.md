@@ -1,5 +1,4 @@
-Stephanopyxis crenata Sheshukova-Poretskaya SPECIES
-=======
+# Stephanopyxis crenata Sheshukova-Poretskaya SPECIES
 
 #### Status
 ACCEPTED

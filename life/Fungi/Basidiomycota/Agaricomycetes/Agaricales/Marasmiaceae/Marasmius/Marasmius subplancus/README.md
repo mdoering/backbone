@@ -1,5 +1,4 @@
-Marasmius subplancus Henn. SPECIES
-=======
+# Marasmius subplancus Henn. SPECIES
 
 #### Status
 ACCEPTED

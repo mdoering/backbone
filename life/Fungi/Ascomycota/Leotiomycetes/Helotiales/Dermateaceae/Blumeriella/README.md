@@ -1,5 +1,4 @@
-Blumeriella Arx GENUS
-=======
+# Blumeriella Arx GENUS
 
 #### Status
 ACCEPTED

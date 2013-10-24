@@ -1,5 +1,4 @@
-Campanella witteana Singer SPECIES
-=======
+# Campanella witteana Singer SPECIES
 
 #### Status
 ACCEPTED

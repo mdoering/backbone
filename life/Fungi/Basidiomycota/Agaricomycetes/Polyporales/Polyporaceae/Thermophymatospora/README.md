@@ -1,5 +1,4 @@
-Thermophymatospora Udagawa, Awao & Abdullah GENUS
-=======
+# Thermophymatospora Udagawa, Awao & Abdullah GENUS
 
 #### Status
 ACCEPTED

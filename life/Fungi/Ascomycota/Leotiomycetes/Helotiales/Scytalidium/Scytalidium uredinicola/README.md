@@ -1,5 +1,4 @@
-Scytalidium uredinicola Kuhlman, J.W. Carmich. & T. Mill., 1977 SPECIES
-=======
+# Scytalidium uredinicola Kuhlman, J.W. Carmich. & T. Mill., 1977 SPECIES
 
 #### Status
 ACCEPTED

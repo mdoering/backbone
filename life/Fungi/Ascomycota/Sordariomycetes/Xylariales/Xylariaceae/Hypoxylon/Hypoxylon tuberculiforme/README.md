@@ -1,5 +1,4 @@
-Hypoxylon tuberculiforme I. Hino & Katum. SPECIES
-=======
+# Hypoxylon tuberculiforme I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

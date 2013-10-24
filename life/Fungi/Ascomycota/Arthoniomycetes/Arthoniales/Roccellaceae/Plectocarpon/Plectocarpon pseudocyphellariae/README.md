@@ -1,5 +1,4 @@
-Plectocarpon pseudocyphellariae Diederich SPECIES
-=======
+# Plectocarpon pseudocyphellariae Diederich SPECIES
 
 #### Status
 ACCEPTED

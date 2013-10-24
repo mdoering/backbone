@@ -1,5 +1,4 @@
-Corticium byssinum var. byssinum VARIETY
-=======
+# Corticium byssinum P. Karst. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-J. Linn. Soc. , Bot. 27: 133 (1890)
+Hedwigia 35: 174 (1896)
 
 #### Original name
-Corticium byssinum var. byssinum
+Corticium byssinum P. Karst.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Crinipellis peckii (Murrill) Singer SPECIES
-=======
+# Crinipellis peckii (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

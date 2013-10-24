@@ -1,5 +1,4 @@
-Trogia umbonata Rick SPECIES
-=======
+# Trogia umbonata Rick SPECIES
 
 #### Status
 ACCEPTED

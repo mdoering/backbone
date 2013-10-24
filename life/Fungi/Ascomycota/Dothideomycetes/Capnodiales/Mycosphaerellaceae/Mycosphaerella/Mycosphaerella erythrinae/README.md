@@ -1,5 +1,4 @@
-Mycosphaerella erythrinae Koord. SPECIES
-=======
+# Mycosphaerella erythrinae Koord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium lauterbachii Henn. SPECIES
-=======
+# Aecidium lauterbachii Henn. SPECIES
 
 #### Status
 ACCEPTED

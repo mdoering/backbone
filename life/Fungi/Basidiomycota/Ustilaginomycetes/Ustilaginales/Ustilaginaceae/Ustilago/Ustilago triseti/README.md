@@ -1,5 +1,4 @@
-Ustilago triseti Liro SPECIES
-=======
+# Ustilago triseti Liro SPECIES
 
 #### Status
 ACCEPTED

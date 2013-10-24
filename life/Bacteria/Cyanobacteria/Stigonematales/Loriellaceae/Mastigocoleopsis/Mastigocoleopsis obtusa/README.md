@@ -1,5 +1,4 @@
-Mastigocoleopsis obtusa (N. Carter) Geitler SPECIES
-=======
+# Mastigocoleopsis obtusa (N. Carter) Geitler SPECIES
 
 #### Status
 ACCEPTED

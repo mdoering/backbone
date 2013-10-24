@@ -1,5 +1,4 @@
-Polystictus cristula Klotzsch SPECIES
-=======
+# Polystictus cristula Klotzsch SPECIES
 
 #### Status
 ACCEPTED

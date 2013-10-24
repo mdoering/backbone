@@ -1,5 +1,4 @@
-Nectriella erythroclypea J. Fröhl., Lowen & K.D. Hyde SPECIES
-=======
+# Nectriella erythroclypea J. Fröhl., Lowen & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

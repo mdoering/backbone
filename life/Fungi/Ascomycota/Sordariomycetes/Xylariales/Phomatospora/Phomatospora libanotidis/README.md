@@ -1,5 +1,4 @@
-Phomatospora libanotidis Fautrey & Lambotte SPECIES
-=======
+# Phomatospora libanotidis Fautrey & Lambotte SPECIES
 
 #### Status
 ACCEPTED

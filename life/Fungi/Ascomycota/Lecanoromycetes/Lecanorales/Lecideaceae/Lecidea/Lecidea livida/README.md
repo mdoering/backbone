@@ -1,5 +1,4 @@
-Lecidea livida (Mont.) Nyl. SPECIES
-=======
+# Lecidea livida (Mont.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

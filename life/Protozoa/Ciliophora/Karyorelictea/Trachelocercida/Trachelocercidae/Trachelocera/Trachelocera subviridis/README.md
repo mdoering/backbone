@@ -1,5 +1,4 @@
-Trachelocera subviridis SPECIES
-=======
+# Trachelocera subviridis SPECIES
 
 #### Status
 ACCEPTED

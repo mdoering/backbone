@@ -1,5 +1,4 @@
-Pleospora rubtzovii Gucevic SPECIES
-=======
+# Pleospora rubtzovii Gucevic SPECIES
 
 #### Status
 ACCEPTED

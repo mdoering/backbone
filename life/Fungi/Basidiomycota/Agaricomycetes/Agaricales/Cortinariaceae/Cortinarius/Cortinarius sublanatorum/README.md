@@ -1,5 +1,4 @@
-Cortinarius sublanatorum Rob. Henry SPECIES
-=======
+# Cortinarius sublanatorum Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cristigera minor Penard, 1922 SPECIES
-=======
+# Cristigera minor Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

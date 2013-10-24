@@ -1,5 +1,4 @@
-Cortinarius maculatus Johns. {?} SPECIES
-=======
+# Cortinarius maculatus Johns. {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus amyloideus Thiers SPECIES
-=======
+# Boletus amyloideus Thiers SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatorella funckii (Flot.) Zahlbr. SPECIES
-=======
+# Biatorella funckii (Flot.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pucciniastrum alaskanum Mains SPECIES
-=======
+# Pucciniastrum alaskanum Mains SPECIES
 
 #### Status
 ACCEPTED

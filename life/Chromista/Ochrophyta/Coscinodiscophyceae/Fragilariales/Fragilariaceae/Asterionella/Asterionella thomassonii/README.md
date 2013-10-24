@@ -1,5 +1,4 @@
-Asterionella thomassonii A. Nauwerck SPECIES
-=======
+# Asterionella thomassonii A. Nauwerck SPECIES
 
 #### Status
 ACCEPTED

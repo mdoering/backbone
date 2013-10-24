@@ -1,5 +1,4 @@
-Acarosporina berberidis Sherwood SPECIES
-=======
+# Acarosporina berberidis Sherwood SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmiellus alneus Singer SPECIES
-=======
+# Marasmiellus alneus Singer SPECIES
 
 #### Status
 ACCEPTED

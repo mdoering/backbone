@@ -1,5 +1,4 @@
-Xylaria nigripes (Klotzsch) Sacc. SPECIES
-=======
+# Xylaria nigripes (Klotzsch) Sacc. SPECIES
 
 #### Status
 ACCEPTED

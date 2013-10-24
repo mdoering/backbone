@@ -1,5 +1,4 @@
-Gyalideopsis aequatoriana Kalb & Vezda SPECIES
-=======
+# Gyalideopsis aequatoriana Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oudemansiella submucida var. submucida VARIETY
-=======
+# Oudemansiella submucida Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Gdns' Bull. , Singapore 46(1): 70 (1994)
 
 #### Original name
-Oudemansiella submucida var. submucida
+Oudemansiella submucida Corner
 
 ### Remarks
 null

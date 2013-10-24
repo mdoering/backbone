@@ -1,5 +1,4 @@
-Boletus gregarius Vahl SPECIES
-=======
+# Boletus gregarius Vahl SPECIES
 
 #### Status
 ACCEPTED

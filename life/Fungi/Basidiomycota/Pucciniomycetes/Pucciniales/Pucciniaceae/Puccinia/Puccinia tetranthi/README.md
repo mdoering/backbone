@@ -1,5 +1,4 @@
-Puccinia tetranthi Syd. {?} SPECIES
-=======
+# Puccinia tetranthi Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

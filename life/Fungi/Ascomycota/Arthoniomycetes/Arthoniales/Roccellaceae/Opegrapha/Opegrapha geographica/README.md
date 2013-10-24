@@ -1,5 +1,4 @@
-Opegrapha geographica Chevall. SPECIES
-=======
+# Opegrapha geographica Chevall. SPECIES
 
 #### Status
 ACCEPTED

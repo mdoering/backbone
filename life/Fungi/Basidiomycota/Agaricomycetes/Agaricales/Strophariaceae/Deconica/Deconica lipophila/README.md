@@ -1,5 +1,4 @@
-Deconica lipophila Oudem. SPECIES
-=======
+# Deconica lipophila Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphirhiza epizootica Skuja SPECIES
-=======
+# Amphirhiza epizootica Skuja SPECIES
 
 #### Status
 ACCEPTED

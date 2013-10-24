@@ -1,5 +1,4 @@
-Paradoxiella Skinner & Wilde, 1955 GENUS
-=======
+# Paradoxiella Skinner & Wilde, 1955 GENUS
 
 #### Status
 ACCEPTED

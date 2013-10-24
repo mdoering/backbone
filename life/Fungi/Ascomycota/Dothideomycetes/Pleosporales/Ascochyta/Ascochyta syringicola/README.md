@@ -1,17 +1,16 @@
-Ascochyta syringaecola Hollós SPECIES
-=======
+# Ascochyta syringicola Bubák & Kabát SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 42: 360 (1908)
 
 #### Original name
-Ascochyta syringaecola Hollós
+Ascochyta syringicola Bubák & Kabát
 
 ### Remarks
 null

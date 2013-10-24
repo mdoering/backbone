@@ -1,5 +1,4 @@
-Gymnodinium amplinucleum P.H.Campbell, 1973 SPECIES
-=======
+# Gymnodinium amplinucleum P.H.Campbell, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dichotomophthoropsis M.B. Ellis GENUS
-=======
+# Dichotomophthoropsis M.B. Ellis GENUS
 
 #### Status
 ACCEPTED

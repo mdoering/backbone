@@ -1,5 +1,4 @@
-Stropharia australis Murrill SPECIES
-=======
+# Stropharia australis Murrill SPECIES
 
 #### Status
 ACCEPTED

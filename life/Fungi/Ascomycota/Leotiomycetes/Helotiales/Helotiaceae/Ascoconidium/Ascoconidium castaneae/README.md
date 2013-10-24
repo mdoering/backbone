@@ -1,5 +1,4 @@
-Ascoconidium castaneae Seaver, 1942 SPECIES
-=======
+# Ascoconidium castaneae Seaver, 1942 SPECIES
 
 #### Status
 ACCEPTED

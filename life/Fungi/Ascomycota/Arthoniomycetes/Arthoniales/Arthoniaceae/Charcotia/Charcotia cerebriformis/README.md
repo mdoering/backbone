@@ -1,5 +1,4 @@
-Charcotia cerebriformis (C.W. Dodge & G.E. Baker) C.W. Dodge SPECIES
-=======
+# Charcotia cerebriformis (C.W. Dodge & G.E. Baker) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

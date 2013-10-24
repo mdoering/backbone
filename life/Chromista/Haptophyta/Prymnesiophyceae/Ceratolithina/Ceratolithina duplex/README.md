@@ -1,5 +1,4 @@
-Ceratolithina duplex SPECIES
-=======
+# Ceratolithina duplex SPECIES
 
 #### Status
 ACCEPTED

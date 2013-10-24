@@ -1,5 +1,4 @@
-Rhizophydium manoense Sparrow SPECIES
-=======
+# Rhizophydium manoense Sparrow SPECIES
 
 #### Status
 ACCEPTED

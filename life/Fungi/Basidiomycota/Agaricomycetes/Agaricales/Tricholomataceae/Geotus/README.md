@@ -1,5 +1,4 @@
-Geotus Rafinesque, 1815 GENUS
-=======
+# Geotus Rafinesque, 1815 GENUS
 
 #### Status
 ACCEPTED

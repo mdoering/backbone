@@ -1,5 +1,4 @@
-Lophiotrema recedens Schulzer & Sacc. SPECIES
-=======
+# Lophiotrema recedens Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

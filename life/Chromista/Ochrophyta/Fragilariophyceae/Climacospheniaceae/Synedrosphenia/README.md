@@ -1,5 +1,4 @@
-Synedrosphenia (H.Peragallo) Azpeitia Moros, 1911 GENUS
-=======
+# Synedrosphenia (H.Peragallo) Azpeitia Moros, 1911 GENUS
 
 #### Status
 ACCEPTED

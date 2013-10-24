@@ -1,5 +1,4 @@
-Coenogonium saepincola Aptroot, Sipman & Lücking SPECIES
-=======
+# Coenogonium saepincola Aptroot, Sipman & Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia microspora Thüm. SPECIES
-=======
+# Ramularia microspora Thüm. SPECIES
 
 #### Status
 ACCEPTED

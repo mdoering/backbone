@@ -1,14 +1,13 @@
-Buellia lobariella (Nyl.) Arnold SPECIES
-=======
+# Dactylospora lobariella (Nyl.) Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia, Beih. 62: 118 (1979)
 
 #### Original name
 Lecidea lobariella Nyl.

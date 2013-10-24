@@ -1,5 +1,4 @@
-Mycoplasma equirhinis Allam and Lemcke, 1975 (Approved Lists, 1980) SPECIES
-=======
+# Mycoplasma equirhinis Allam and Lemcke, 1975 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

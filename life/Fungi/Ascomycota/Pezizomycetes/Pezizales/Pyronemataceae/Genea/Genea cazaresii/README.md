@@ -1,5 +1,4 @@
-Genea cazaresii M.E. Sm. & Trappe SPECIES
-=======
+# Genea cazaresii M.E. Sm. & Trappe SPECIES
 
 #### Status
 ACCEPTED

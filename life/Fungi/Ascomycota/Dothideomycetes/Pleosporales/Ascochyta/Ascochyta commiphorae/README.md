@@ -1,5 +1,4 @@
-Ascochyta commiphorae T.S. Ramakr. & Sundaram SPECIES
-=======
+# Ascochyta commiphorae T.S. Ramakr. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

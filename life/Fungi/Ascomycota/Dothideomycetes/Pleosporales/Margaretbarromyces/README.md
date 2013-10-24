@@ -1,5 +1,4 @@
-Margaretbarromyces Mindell, Currah, Stockey & G. Beard GENUS
-=======
+# Margaretbarromyces Mindell, Currah, Stockey & G. Beard GENUS
 
 #### Status
 ACCEPTED

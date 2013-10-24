@@ -1,5 +1,4 @@
-Septoria mitellae Ellis & Everh. SPECIES
-=======
+# Septoria mitellae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synechococcus eximius J. J. Copeland SPECIES
-=======
+# Synechococcus eximius J. J. Copeland SPECIES
 
 #### Status
 ACCEPTED

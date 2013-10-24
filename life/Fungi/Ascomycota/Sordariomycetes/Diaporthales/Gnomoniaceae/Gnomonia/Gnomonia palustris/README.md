@@ -1,5 +1,4 @@
-Gnomonia palustris M. Monod SPECIES
-=======
+# Gnomonia palustris M. Monod SPECIES
 
 #### Status
 ACCEPTED

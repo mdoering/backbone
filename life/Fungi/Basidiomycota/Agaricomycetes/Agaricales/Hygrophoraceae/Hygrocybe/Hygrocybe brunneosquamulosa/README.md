@@ -1,5 +1,4 @@
-Hygrocybe brunneosquamulosa Leelav., Manim. & Arnolds SPECIES
-=======
+# Hygrocybe brunneosquamulosa Leelav., Manim. & Arnolds SPECIES
 
 #### Status
 ACCEPTED

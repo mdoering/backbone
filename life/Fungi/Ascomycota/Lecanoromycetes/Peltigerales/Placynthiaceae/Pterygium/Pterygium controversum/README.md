@@ -1,5 +1,4 @@
-Pterygium controversum SPECIES
-=======
+# Pterygium controversum SPECIES
 
 #### Status
 ACCEPTED

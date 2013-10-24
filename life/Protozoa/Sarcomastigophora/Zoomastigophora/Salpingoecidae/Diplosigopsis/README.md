@@ -1,5 +1,4 @@
-Diplosigopsis Francé, 1897 GENUS
-=======
+# Diplosigopsis Francé, 1897 GENUS
 
 #### Status
 ACCEPTED

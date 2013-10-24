@@ -1,5 +1,4 @@
-Mycena tapeina Maas Geest. & de Meijer SPECIES
-=======
+# Mycena tapeina Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis palmyrensis Zahlbr. SPECIES
-=======
+# Graphis palmyrensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

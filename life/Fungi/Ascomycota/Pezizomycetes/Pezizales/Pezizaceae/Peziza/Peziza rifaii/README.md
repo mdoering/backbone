@@ -1,5 +1,4 @@
-Peziza rifaii J. Moravec & Spooner, 1988 SPECIES
-=======
+# Peziza rifaii J. Moravec & Spooner, 1988 SPECIES
 
 #### Status
 ACCEPTED

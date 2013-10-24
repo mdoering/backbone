@@ -1,5 +1,4 @@
-Pluricellaesporites mirus P. Ke & Z.Y. Shi SPECIES
-=======
+# Pluricellaesporites mirus P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

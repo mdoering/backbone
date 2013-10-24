@@ -1,5 +1,4 @@
-Acetobacterium bakii Kotsyurbenko et al., 1997 SPECIES
-=======
+# Acetobacterium bakii Kotsyurbenko et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

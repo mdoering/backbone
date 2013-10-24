@@ -1,5 +1,4 @@
-Corynebacterium ulcerans (ex Gilbert & Stewart, 1927) Riegel et al., 1995 SPECIES
-=======
+# Corynebacterium ulcerans (ex Gilbert & Stewart, 1927) Riegel et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma mesospermum E. Horak SPECIES
-=======
+# Entoloma mesospermum E. Horak SPECIES
 
 #### Status
 ACCEPTED

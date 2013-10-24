@@ -1,5 +1,4 @@
-Cheleutochroa beechenbankensis Richards & Mullins, 2003 SPECIES
-=======
+# Cheleutochroa beechenbankensis Richards & Mullins, 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterosphaeria fendlericola Tracy & Earle SPECIES
-=======
+# Heterosphaeria fendlericola Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

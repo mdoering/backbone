@@ -1,5 +1,4 @@
-Lichenothelia calcarea Henssen SPECIES
-=======
+# Lichenothelia calcarea Henssen SPECIES
 
 #### Status
 ACCEPTED

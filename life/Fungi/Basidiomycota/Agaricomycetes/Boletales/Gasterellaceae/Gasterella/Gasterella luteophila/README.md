@@ -1,17 +1,16 @@
-Gasterella lutophila Zeller & L.B. Walker SPECIES
-=======
+# Gasterella luteophila Zeller & L.B. Walker, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 27: 578 (1935)
 
 #### Original name
-Gasterella lutophila Zeller & L.B. Walker
+Gasterella luteophila Zeller & L.B. Walker, 1935
 
 ### Remarks
 null

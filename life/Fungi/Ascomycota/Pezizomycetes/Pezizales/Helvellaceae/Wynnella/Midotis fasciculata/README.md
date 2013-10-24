@@ -1,5 +1,4 @@
-Midotis fasciculata (Möller) Cif. SPECIES
-=======
+# Midotis fasciculata (Möller) Cif. SPECIES
 
 #### Status
 ACCEPTED

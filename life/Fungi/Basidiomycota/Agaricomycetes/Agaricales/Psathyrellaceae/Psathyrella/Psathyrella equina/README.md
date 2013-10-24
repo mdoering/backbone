@@ -1,5 +1,4 @@
-Psathyrella equina A.H. Sm. SPECIES
-=======
+# Psathyrella equina A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

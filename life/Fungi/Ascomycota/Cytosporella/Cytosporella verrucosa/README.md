@@ -1,5 +1,4 @@
-Cytosporella verrucosa Petr. SPECIES
-=======
+# Cytosporella verrucosa Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xerocomus pascuus (Pers.) E.-J. Gilbert SPECIES
-=======
+# Xerocomus pascuus (Pers.) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

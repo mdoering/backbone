@@ -1,5 +1,4 @@
-Uromyces vesiculosus G. Winter SPECIES
-=======
+# Uromyces vesiculosus G. Winter SPECIES
 
 #### Status
 ACCEPTED

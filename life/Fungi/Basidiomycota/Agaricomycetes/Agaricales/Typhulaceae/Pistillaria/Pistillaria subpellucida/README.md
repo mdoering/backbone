@@ -1,5 +1,4 @@
-Pistillaria subpellucida Berk. & M.A. Curtis SPECIES
-=======
+# Pistillaria subpellucida Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

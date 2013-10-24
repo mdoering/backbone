@@ -1,11 +1,10 @@
-Pelvetia fastigiata limitata Setchell VARIETY
-=======
+# Pelvetiopsis limitata (Setchell) N.L. Gardner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Macrophoma euonymicola Petr. SPECIES
-=======
+# Macrophoma euonymicola Petr. SPECIES
 
 #### Status
 ACCEPTED

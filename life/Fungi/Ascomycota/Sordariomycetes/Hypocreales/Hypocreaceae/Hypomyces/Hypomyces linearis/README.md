@@ -1,5 +1,4 @@
-Hypomyces linearis Rehm SPECIES
-=======
+# Hypomyces linearis Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Wiesneriomyces conjunctosporus Kuthub. & Nawawi SPECIES
-=======
+# Wiesneriomyces conjunctosporus Kuthub. & Nawawi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cannartiscus Haeckel, 1887 GENUS
-=======
+# Cannartiscus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora boswelliae Harsch, V. Nath, C.K. Tiwari & Rehill SPECIES
-=======
+# Cercospora boswelliae Harsch, V. Nath, C.K. Tiwari & Rehill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus aesculi Schumach. SPECIES
-=======
+# Agaricus aesculi Schumach. SPECIES
 
 #### Status
 ACCEPTED

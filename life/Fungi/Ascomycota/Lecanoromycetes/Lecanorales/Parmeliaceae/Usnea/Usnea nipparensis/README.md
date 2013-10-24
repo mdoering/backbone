@@ -1,5 +1,4 @@
-Usnea nipparensis f. nipparensis FORM
-=======
+# Usnea nipparensis Asahina SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea nipparensis f. nipparensis
+Usnea nipparensis Asahina
 
 ### Remarks
 null

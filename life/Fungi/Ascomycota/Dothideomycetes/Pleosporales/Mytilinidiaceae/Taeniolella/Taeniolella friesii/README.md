@@ -1,5 +1,4 @@
-Taeniolella friesii (Hepp) Hafellner SPECIES
-=======
+# Taeniolella friesii (Hepp) Hafellner SPECIES
 
 #### Status
 ACCEPTED

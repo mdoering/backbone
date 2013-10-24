@@ -1,5 +1,4 @@
-Lenticulinella Samyshkina, 1983 GENUS
-=======
+# Lenticulinella Samyshkina, 1983 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Archaeodictyomitra Pessagno, 1976 GENUS
-=======
+# Archaeodictyomitra Pessagno, 1976 GENUS
 
 #### Status
 ACCEPTED

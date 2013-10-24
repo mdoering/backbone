@@ -1,5 +1,4 @@
-Cortinarius turgidipes Rob. Henry ex Bidaud & Carteret SPECIES
-=======
+# Cortinarius turgidipes Rob. Henry ex Bidaud & Carteret SPECIES
 
 #### Status
 ACCEPTED

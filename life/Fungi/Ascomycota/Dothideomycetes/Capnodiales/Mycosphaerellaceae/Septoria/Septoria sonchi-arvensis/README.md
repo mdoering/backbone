@@ -1,5 +1,4 @@
-Septoria sonchi-arvensis Dearn. & Bisby SPECIES
-=======
+# Septoria sonchi-arvensis Dearn. & Bisby SPECIES
 
 #### Status
 ACCEPTED

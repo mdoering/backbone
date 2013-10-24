@@ -1,5 +1,4 @@
-Erwinia GENUS
-=======
+# Erwinia GENUS
 
 #### Status
 ACCEPTED

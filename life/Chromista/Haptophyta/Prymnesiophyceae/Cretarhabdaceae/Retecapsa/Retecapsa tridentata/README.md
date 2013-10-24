@@ -1,5 +1,4 @@
-Retecapsa tridentata F.H. Wind & S.W. Wise SPECIES
-=======
+# Retecapsa tridentata F.H. Wind & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

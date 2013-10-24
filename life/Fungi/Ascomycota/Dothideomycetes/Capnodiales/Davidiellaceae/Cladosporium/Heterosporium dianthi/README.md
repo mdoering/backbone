@@ -1,5 +1,4 @@
-Heterosporium dianthi Sawada SPECIES
-=======
+# Heterosporium dianthi Sawada SPECIES
 
 #### Status
 ACCEPTED

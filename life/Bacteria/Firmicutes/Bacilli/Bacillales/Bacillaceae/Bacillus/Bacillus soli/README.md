@@ -1,5 +1,4 @@
-Bacillus soli Heyrman et al., 2004 SPECIES
-=======
+# Bacillus soli Heyrman et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria johorensis Morgan-Jones & Lim SPECIES
-=======
+# Xylaria johorensis Morgan-Jones & Lim SPECIES
 
 #### Status
 ACCEPTED

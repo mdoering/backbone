@@ -1,5 +1,4 @@
-Ocellularia dispyrosis Homchant. & Coppins SPECIES
-=======
+# Ocellularia dispyrosis Homchant. & Coppins SPECIES
 
 #### Status
 ACCEPTED

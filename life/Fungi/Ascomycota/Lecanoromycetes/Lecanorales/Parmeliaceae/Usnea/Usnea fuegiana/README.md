@@ -1,5 +1,4 @@
-Usnea fuegiana Motyka SPECIES
-=======
+# Usnea fuegiana Motyka SPECIES
 
 #### Status
 ACCEPTED

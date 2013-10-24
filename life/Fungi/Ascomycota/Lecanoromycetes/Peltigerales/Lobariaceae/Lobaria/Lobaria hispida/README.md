@@ -1,5 +1,4 @@
-Lobaria hispida SPECIES
-=======
+# Lobaria hispida SPECIES
 
 #### Status
 ACCEPTED

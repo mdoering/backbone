@@ -1,5 +1,4 @@
-Spermatodium triseptatum (Nyl.) Trevis. SPECIES
-=======
+# Spermatodium triseptatum (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

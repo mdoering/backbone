@@ -1,5 +1,4 @@
-Pseudocercospora dovyalidis (Chupp & Doidge) Deighton SPECIES
-=======
+# Pseudocercospora dovyalidis (Chupp & Doidge) Deighton SPECIES
 
 #### Status
 ACCEPTED

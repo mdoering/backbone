@@ -1,5 +1,4 @@
-Palaeomycites GENUS
-=======
+# Palaeomycites GENUS
 
 #### Status
 ACCEPTED

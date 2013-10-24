@@ -1,5 +1,4 @@
-Thelomma californicum (Tuck.) Tibell SPECIES
-=======
+# Thelomma californicum (Tuck.) Tibell SPECIES
 
 #### Status
 ACCEPTED

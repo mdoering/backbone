@@ -1,5 +1,4 @@
-Sclerotium vestitum Nees ex Weinm. SPECIES
-=======
+# Sclerotium vestitum Nees ex Weinm. SPECIES
 
 #### Status
 ACCEPTED

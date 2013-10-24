@@ -1,5 +1,4 @@
-Boninogaster Kobayasi GENUS
-=======
+# Boninogaster Kobayasi GENUS
 
 #### Status
 ACCEPTED

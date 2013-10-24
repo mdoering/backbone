@@ -1,5 +1,4 @@
-Septoria erianthi Chona, Munjal & J.N. Kapoor SPECIES
-=======
+# Septoria erianthi Chona, Munjal & J.N. Kapoor SPECIES
 
 #### Status
 ACCEPTED

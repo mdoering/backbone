@@ -1,17 +1,16 @@
-Scleroglossum Hara GENUS
-=======
+# Scleromitrula S. Imai GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Pests Dis. 778 (1948)
+J. Fac. agric. , Hokkaido Univ. 55: 176 (1941)
 
 #### Original name
-Scleroglossum Hara
+Scleromitrula S. Imai
 
 ### Remarks
 null

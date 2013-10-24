@@ -1,5 +1,4 @@
-Oscillatoria subsalsa C.A.Agardh <i>ex</i> Gomont, 1892, <i>species inquir.</i> SPECIES
-=======
+# Oscillatoria subsalsa C.A.Agardh <i>ex</i> Gomont, 1892, <i>species inquir.</i> SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius elegans (Cleland) Grgur. SPECIES
-=======
+# Marasmius elegans (Cleland) Grgur. SPECIES
 
 #### Status
 ACCEPTED

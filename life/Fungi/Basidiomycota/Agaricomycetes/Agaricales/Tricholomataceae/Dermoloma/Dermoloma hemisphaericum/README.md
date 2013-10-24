@@ -1,14 +1,13 @@
-Tricholoma hemisphaericum G. Stev., 1964 SPECIES
-=======
+# Dermoloma hemisphaericum (G. Stev.) E. Horak, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 19(1): 14 (1964)
+N. Z. Jl Bot. 9(3): 429 (1971)
 
 #### Original name
 Tricholoma hemisphaericum G. Stev., 1964

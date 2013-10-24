@@ -1,5 +1,4 @@
-Heterococcus tiroliensis Pitschmann SPECIES
-=======
+# Heterococcus tiroliensis Pitschmann SPECIES
 
 #### Status
 ACCEPTED

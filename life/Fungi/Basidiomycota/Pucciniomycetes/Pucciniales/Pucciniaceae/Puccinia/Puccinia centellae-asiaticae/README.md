@@ -1,5 +1,4 @@
-Puccinia centellae-asiaticae Y.C. Wang & J.Y. Zhuang SPECIES
-=======
+# Puccinia centellae-asiaticae Y.C. Wang & J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

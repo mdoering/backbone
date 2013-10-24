@@ -1,5 +1,4 @@
-Kneallhazia Sokolova & Fuxa GENUS
-=======
+# Kneallhazia Sokolova & Fuxa GENUS
 
 #### Status
 ACCEPTED

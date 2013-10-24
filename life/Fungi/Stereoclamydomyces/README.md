@@ -1,5 +1,4 @@
-Stereoclamydomyces Ciferri & Tomaselli, 1953 GENUS
-=======
+# Stereoclamydomyces Ciferri & Tomaselli, 1953 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scedosporium Saccardo ex Castellani & Chalm, 1919 GENUS
-=======
+# Scedosporium Saccardo ex Castellani & Chalm, 1919 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeotrema disciforme (Leight.) Hale SPECIES
-=======
+# Phaeotrema disciforme (Leight.) Hale SPECIES
 
 #### Status
 ACCEPTED

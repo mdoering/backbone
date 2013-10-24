@@ -1,8 +1,7 @@
-Sarcinella manilensis (Sacc.) J. Kranz, 1968 SPECIES
-=======
+# Sarcinella malinensis (Sacc.) J. Kranz, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

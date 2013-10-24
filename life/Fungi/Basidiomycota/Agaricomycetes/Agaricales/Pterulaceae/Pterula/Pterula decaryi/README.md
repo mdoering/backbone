@@ -1,5 +1,4 @@
-Pterula decaryi Pat. SPECIES
-=======
+# Pterula decaryi Pat. SPECIES
 
 #### Status
 ACCEPTED

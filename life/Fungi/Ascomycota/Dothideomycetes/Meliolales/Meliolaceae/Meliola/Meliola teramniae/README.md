@@ -1,5 +1,4 @@
-Meliola teramniae H.S. Yates SPECIES
-=======
+# Meliola teramniae H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

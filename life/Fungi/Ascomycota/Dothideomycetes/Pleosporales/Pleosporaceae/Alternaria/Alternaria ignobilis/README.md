@@ -1,5 +1,4 @@
-Alternaria ignobilis (P. Karst.) E.G. Simmons SPECIES
-=======
+# Alternaria ignobilis (P. Karst.) E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

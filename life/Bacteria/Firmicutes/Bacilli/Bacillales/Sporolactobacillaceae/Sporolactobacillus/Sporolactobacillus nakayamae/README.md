@@ -1,5 +1,4 @@
-Sporolactobacillus nakayamae subsp. nakayamae SUBSPECIES
-=======
+# Sporolactobacillus nakayamae Yanagida et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

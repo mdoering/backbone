@@ -1,5 +1,4 @@
-Urocystis herteriana (Cif.) Berbee SPECIES
-=======
+# Urocystis herteriana (Cif.) Berbee SPECIES
 
 #### Status
 ACCEPTED

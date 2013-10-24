@@ -1,5 +1,4 @@
-Horologinella obliqua Cookson & Eisenack, 1962 SPECIES
-=======
+# Horologinella obliqua Cookson & Eisenack, 1962 SPECIES
 
 #### Status
 ACCEPTED

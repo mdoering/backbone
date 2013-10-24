@@ -1,5 +1,4 @@
-Parvifavus Takemura, 1986 GENUS
-=======
+# Parvifavus Takemura, 1986 GENUS
 
 #### Status
 ACCEPTED

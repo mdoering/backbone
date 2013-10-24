@@ -1,5 +1,4 @@
-Torula klein Weiss SPECIES
-=======
+# Torula klein Weiss SPECIES
 
 #### Status
 ACCEPTED

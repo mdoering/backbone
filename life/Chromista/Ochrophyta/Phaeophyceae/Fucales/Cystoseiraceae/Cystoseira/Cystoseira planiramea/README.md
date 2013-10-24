@@ -1,5 +1,4 @@
-Cystoseira planiramea Schiffner SPECIES
-=======
+# Cystoseira planiramea Schiffner SPECIES
 
 #### Status
 ACCEPTED

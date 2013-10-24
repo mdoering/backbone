@@ -1,5 +1,4 @@
-Rhodobacterales ORDER
-=======
+# Rhodobacterales ORDER
 
 #### Status
 ACCEPTED

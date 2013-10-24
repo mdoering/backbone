@@ -1,5 +1,4 @@
-Cladonia anitae W.L. Culb. & C.F. Culb. SPECIES
-=======
+# Cladonia anitae W.L. Culb. & C.F. Culb. SPECIES
 
 #### Status
 ACCEPTED

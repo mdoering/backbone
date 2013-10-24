@@ -1,5 +1,4 @@
-Sargassum pyriforme C. Agardh SPECIES
-=======
+# Sargassum pyriforme C. Agardh SPECIES
 
 #### Status
 ACCEPTED

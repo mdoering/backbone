@@ -1,5 +1,4 @@
-Psoroma subhispidulum Nyl. SPECIES
-=======
+# Psoroma subhispidulum Nyl. SPECIES
 
 #### Status
 ACCEPTED

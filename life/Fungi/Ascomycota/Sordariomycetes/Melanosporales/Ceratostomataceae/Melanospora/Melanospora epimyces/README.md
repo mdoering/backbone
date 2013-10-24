@@ -1,5 +1,4 @@
-Melanospora epimyces (Höhn.) Doguet SPECIES
-=======
+# Melanospora epimyces (Höhn.) Doguet SPECIES
 
 #### Status
 ACCEPTED

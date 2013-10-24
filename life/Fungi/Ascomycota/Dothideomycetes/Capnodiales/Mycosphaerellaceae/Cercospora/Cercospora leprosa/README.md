@@ -1,5 +1,4 @@
-Cercospora leprosa Speg. SPECIES
-=======
+# Cercospora leprosa Speg. SPECIES
 
 #### Status
 ACCEPTED

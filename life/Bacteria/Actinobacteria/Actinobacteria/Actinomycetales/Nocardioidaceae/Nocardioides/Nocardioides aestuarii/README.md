@@ -1,5 +1,4 @@
-Nocardioides aestuarii Yi & Chun, 2004 SPECIES
-=======
+# Nocardioides aestuarii Yi & Chun, 2004 SPECIES
 
 #### Status
 ACCEPTED

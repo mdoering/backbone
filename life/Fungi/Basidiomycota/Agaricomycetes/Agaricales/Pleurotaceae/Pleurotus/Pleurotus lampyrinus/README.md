@@ -1,5 +1,4 @@
-Pleurotus lampyrinus Pat. SPECIES
-=======
+# Pleurotus lampyrinus Pat. SPECIES
 
 #### Status
 ACCEPTED

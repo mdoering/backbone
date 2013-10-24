@@ -1,5 +1,4 @@
-Phoma scorzonerae Hollós SPECIES
-=======
+# Phoma scorzonerae Hollós SPECIES
 
 #### Status
 ACCEPTED

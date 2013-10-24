@@ -1,5 +1,4 @@
-Aspicilia monilifera (H. Magn.) Motyka SPECIES
-=======
+# Aspicilia monilifera (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

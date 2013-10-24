@@ -1,5 +1,4 @@
-Abditodentrix Patterson, 1985 GENUS
-=======
+# Abditodentrix Patterson, 1985 GENUS
 
 #### Status
 ACCEPTED

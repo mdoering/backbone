@@ -1,5 +1,4 @@
-Ascochyta spondiacearum A.L. Sm. SPECIES
-=======
+# Ascochyta spondiacearum A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

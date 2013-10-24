@@ -1,5 +1,4 @@
-Leptosphaeria subconica (Cooke & Peck) Sacc. SPECIES
-=======
+# Leptosphaeria subconica (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

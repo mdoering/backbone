@@ -1,5 +1,4 @@
-Lecidea gongyloides Sommerf. SPECIES
-=======
+# Lecidea gongyloides Sommerf. SPECIES
 
 #### Status
 ACCEPTED

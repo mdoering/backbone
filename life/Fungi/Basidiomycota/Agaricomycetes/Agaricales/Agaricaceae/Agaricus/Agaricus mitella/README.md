@@ -1,5 +1,4 @@
-Agaricus mitella Batsch SPECIES
-=======
+# Agaricus mitella Batsch SPECIES
 
 #### Status
 ACCEPTED

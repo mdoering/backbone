@@ -1,5 +1,4 @@
-Clitocybe mollis Velen. SPECIES
-=======
+# Clitocybe mollis Velen. SPECIES
 
 #### Status
 ACCEPTED

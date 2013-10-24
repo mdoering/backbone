@@ -1,5 +1,4 @@
-Peltigera amplissima Hoffm. SPECIES
-=======
+# Peltigera amplissima Hoffm. SPECIES
 
 #### Status
 ACCEPTED

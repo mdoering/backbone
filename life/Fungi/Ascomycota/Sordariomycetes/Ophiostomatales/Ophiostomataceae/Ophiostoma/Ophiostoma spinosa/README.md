@@ -1,5 +1,4 @@
-Ophiostoma spinosa P.F. Cannon SPECIES
-=======
+# Ophiostoma spinosa P.F. Cannon SPECIES
 
 #### Status
 ACCEPTED

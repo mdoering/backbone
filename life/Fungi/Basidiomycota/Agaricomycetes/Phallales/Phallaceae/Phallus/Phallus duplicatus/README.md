@@ -1,5 +1,4 @@
-Phallus duplicatus Bosc SPECIES
-=======
+# Phallus duplicatus Bosc SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria venosula Speg. SPECIES
-=======
+# Xylaria venosula Speg. SPECIES
 
 #### Status
 ACCEPTED

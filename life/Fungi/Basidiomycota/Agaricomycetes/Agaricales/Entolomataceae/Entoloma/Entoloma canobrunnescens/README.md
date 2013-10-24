@@ -1,5 +1,4 @@
-Entoloma canobrunnescens E. Horak SPECIES
-=======
+# Entoloma canobrunnescens E. Horak SPECIES
 
 #### Status
 ACCEPTED

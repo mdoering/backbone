@@ -1,5 +1,4 @@
-Gloeosporium yoshinoi Sacc. SPECIES
-=======
+# Gloeosporium yoshinoi Sacc. SPECIES
 
 #### Status
 ACCEPTED

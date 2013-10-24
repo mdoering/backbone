@@ -1,5 +1,4 @@
-Sporendocladia G. Arnaud GENUS
-=======
+# Sporendocladia G. Arnaud GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremellochaete japonica (Lloyd) Raitv. SPECIES
-=======
+# Tremellochaete japonica (Lloyd) Raitv. SPECIES
 
 #### Status
 ACCEPTED

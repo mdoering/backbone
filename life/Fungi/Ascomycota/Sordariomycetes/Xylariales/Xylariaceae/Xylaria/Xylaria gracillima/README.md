@@ -1,5 +1,4 @@
-Xylaria gracillima var. gracillima VARIETY
-=======
+# Xylaria gracillima (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

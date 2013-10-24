@@ -1,5 +1,4 @@
-Thalassiosira maculata G.A. Fryxell & J.R. Johansen, 1985 SPECIES
-=======
+# Thalassiosira maculata G.A. Fryxell & J.R. Johansen, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodophyllus pardinus Romagn. SPECIES
-=======
+# Rhodophyllus pardinus Romagn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Turkmenella Bugrova, 1985 GENUS
-=======
+# Turkmenella Bugrova, 1985 GENUS
 
 #### Status
 ACCEPTED

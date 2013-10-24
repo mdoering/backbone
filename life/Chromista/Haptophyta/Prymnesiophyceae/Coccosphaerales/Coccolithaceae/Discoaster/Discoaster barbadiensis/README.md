@@ -1,5 +1,4 @@
-Discoaster barbadiensis Tan, 1927 SPECIES
-=======
+# Discoaster barbadiensis Tan, 1927 SPECIES
 
 #### Status
 ACCEPTED

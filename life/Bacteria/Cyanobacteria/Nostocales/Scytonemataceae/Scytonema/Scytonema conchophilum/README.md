@@ -1,5 +1,4 @@
-Scytonema conchophilum Humphrey SPECIES
-=======
+# Scytonema conchophilum Humphrey SPECIES
 
 #### Status
 ACCEPTED

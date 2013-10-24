@@ -1,5 +1,4 @@
-Sclerophoma confusa Petr. SPECIES
-=======
+# Sclerophoma confusa Petr. SPECIES
 
 #### Status
 ACCEPTED

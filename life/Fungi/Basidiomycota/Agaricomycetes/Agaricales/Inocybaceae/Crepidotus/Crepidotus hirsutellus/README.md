@@ -1,5 +1,4 @@
-Crepidotus hirsutellus E. Horak SPECIES
-=======
+# Crepidotus hirsutellus E. Horak SPECIES
 
 #### Status
 ACCEPTED

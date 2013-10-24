@@ -1,5 +1,4 @@
-Endochytrium ramosum Sparrow, 1933 SPECIES
-=======
+# Endochytrium ramosum Sparrow, 1933 SPECIES
 
 #### Status
 ACCEPTED

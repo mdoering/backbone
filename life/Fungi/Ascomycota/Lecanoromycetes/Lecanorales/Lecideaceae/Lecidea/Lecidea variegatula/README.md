@@ -1,17 +1,16 @@
-Lecidea lipseri Klem. SPECIES
-=======
+# Lecidea variegatula Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 48: 6 (1865)
 
 #### Original name
-null
+Lecidea variegatula Nyl.
 
 ### Remarks
 null

@@ -1,8 +1,7 @@
-Pyrofomes tricolor var. tricolor (Murrill) Corner, 1989 VARIETY
-=======
+# Pyrofomes tricolor (Murrill) Corner, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Beih. Nova Hedwigia 96: 111 (1989)
 
 #### Original name
-Pyrofomes tricolor var. tricolor (Murrill) Corner, 1989
+Pyropolyporus tricolor Murrill, 1908
 
 ### Remarks
 null

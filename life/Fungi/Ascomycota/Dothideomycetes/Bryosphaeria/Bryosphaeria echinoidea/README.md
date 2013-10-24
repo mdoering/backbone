@@ -1,5 +1,4 @@
-Bryosphaeria echinoidea Döbbeler, 1978 SPECIES
-=======
+# Bryosphaeria echinoidea Döbbeler, 1978 SPECIES
 
 #### Status
 ACCEPTED

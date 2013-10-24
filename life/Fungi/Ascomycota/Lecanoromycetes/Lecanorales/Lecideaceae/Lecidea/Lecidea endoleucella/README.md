@@ -1,5 +1,4 @@
-Lecidea endoleucella Stizenb. SPECIES
-=======
+# Lecidea endoleucella Stizenb. SPECIES
 
 #### Status
 ACCEPTED

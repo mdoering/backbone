@@ -1,5 +1,4 @@
-Textularia nitens Earland, 1933 SPECIES
-=======
+# Textularia nitens Earland, 1933 SPECIES
 
 #### Status
 ACCEPTED

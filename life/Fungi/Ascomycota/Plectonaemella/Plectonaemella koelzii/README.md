@@ -1,5 +1,4 @@
-Plectonaemella koelzii Wehm. SPECIES
-=======
+# Plectonaemella koelzii Wehm. SPECIES
 
 #### Status
 ACCEPTED

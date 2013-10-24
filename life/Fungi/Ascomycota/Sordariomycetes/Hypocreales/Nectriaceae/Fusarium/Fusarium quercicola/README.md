@@ -1,5 +1,4 @@
-Fusarium quercicola Oudem. SPECIES
-=======
+# Fusarium quercicola Oudem. SPECIES
 
 #### Status
 ACCEPTED

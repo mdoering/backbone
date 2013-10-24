@@ -1,5 +1,4 @@
-Sphaerella corylina P. Karst. SPECIES
-=======
+# Sphaerella corylina P. Karst. SPECIES
 
 #### Status
 ACCEPTED

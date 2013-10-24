@@ -1,5 +1,4 @@
-Cercospora spilosticta Syd. SPECIES
-=======
+# Cercospora spilosticta Syd. SPECIES
 
 #### Status
 ACCEPTED

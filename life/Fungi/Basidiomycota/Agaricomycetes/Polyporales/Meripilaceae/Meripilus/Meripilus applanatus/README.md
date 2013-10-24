@@ -1,5 +1,4 @@
-Meripilus applanatus Corner, 1984 SPECIES
-=======
+# Meripilus applanatus Corner, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus rufocandidus Schaeff. SPECIES
-=======
+# Agaricus rufocandidus Schaeff. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Coleosporium xanthoxyli Dietel & P. Syd. SPECIES
-=======
+# Coleosporium zanthoxyli Dietel & P. Syd., 1898 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 37: 217 (1898)
 
 #### Original name
-Coleosporium xanthoxyli Dietel & P. Syd.
+Coleosporium zanthoxyli Dietel & P. Syd., 1898
 
 ### Remarks
 null

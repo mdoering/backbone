@@ -1,5 +1,4 @@
-Rinodina australis (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Rinodina australis (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

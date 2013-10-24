@@ -1,5 +1,4 @@
-Calycellina hygrophila Gamundí SPECIES
-=======
+# Calycellina hygrophila Gamundí SPECIES
 
 #### Status
 ACCEPTED

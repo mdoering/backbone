@@ -1,5 +1,4 @@
-Buellia illaetabilis I.M. Lamb SPECIES
-=======
+# Buellia illaetabilis I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

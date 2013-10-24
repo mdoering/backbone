@@ -1,5 +1,4 @@
-Triassobipedis Kozur, 1986 GENUS
-=======
+# Triassobipedis Kozur, 1986 GENUS
 
 #### Status
 ACCEPTED

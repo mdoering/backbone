@@ -1,5 +1,4 @@
-Asteroma solidaginis Cooke SPECIES
-=======
+# Asteroma solidaginis Cooke SPECIES
 
 #### Status
 ACCEPTED

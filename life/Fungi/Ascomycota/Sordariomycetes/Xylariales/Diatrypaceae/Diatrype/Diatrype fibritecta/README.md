@@ -1,5 +1,4 @@
-Diatrype fibritecta Cooke & Ellis SPECIES
-=======
+# Diatrype fibritecta Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

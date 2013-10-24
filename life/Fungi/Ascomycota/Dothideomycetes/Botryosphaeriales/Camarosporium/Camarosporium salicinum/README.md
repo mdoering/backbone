@@ -1,17 +1,16 @@
-Dichomera salicina (Vize) Sacc., 1884 SPECIES
-=======
+# Camarosporium salicinum (Vize) Grove, 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 3: 471 (1884)
+British Stem- and Leaf-Fungi (Coelomycetes) (Cambridge) 2: 103 (1937)
 
 #### Original name
-Hendersonia salicina Vize, 1876
+Camarosporium salicinum (Vize) Grove, 1937
 
 ### Remarks
 null

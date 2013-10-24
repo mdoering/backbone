@@ -1,5 +1,4 @@
-Mycobacterium asiaticum Weiszfeiler et al., 1971 (Approved Lists, 1980) SPECIES
-=======
+# Mycobacterium asiaticum Weiszfeiler et al., 1971 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

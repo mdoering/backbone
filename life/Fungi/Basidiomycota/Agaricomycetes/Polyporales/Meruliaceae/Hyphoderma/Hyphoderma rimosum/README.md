@@ -1,5 +1,4 @@
-Hyphoderma rimosum Burds. & Nakasone, 1983 SPECIES
-=======
+# Hyphoderma rimosum Burds. & Nakasone, 1983 SPECIES
 
 #### Status
 ACCEPTED

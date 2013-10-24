@@ -1,5 +1,4 @@
-Chromulina wislouchiana (Wislouch) Bourrelly SPECIES
-=======
+# Chromulina wislouchiana (Wislouch) Bourrelly SPECIES
 
 #### Status
 ACCEPTED

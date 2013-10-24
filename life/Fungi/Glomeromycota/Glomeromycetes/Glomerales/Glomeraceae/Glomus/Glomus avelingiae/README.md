@@ -1,5 +1,4 @@
-Glomus avelingiae R.C. Sinclair, 2000 SPECIES
-=======
+# Glomus avelingiae R.C. Sinclair, 2000 SPECIES
 
 #### Status
 ACCEPTED

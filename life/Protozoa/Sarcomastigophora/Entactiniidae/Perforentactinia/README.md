@@ -1,5 +1,4 @@
-Perforentactinia Jones & Noble, 2006 GENUS
-=======
+# Perforentactinia Jones & Noble, 2006 GENUS
 
 #### Status
 ACCEPTED

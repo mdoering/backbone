@@ -1,5 +1,4 @@
-Hymenoscyphus fibrillosus Graddon, 1990 SPECIES
-=======
+# Hymenoscyphus fibrillosus Graddon, 1990 SPECIES
 
 #### Status
 ACCEPTED

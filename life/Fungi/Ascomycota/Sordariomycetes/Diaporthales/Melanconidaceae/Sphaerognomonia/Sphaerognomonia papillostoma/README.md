@@ -1,5 +1,4 @@
-Sphaerognomonia papillostoma (Dearn. & House) M.E. Barr SPECIES
-=======
+# Sphaerognomonia papillostoma (Dearn. & House) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nolanea minutostriata Largent SPECIES
-=======
+# Nolanea minutostriata Largent SPECIES
 
 #### Status
 ACCEPTED

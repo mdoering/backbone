@@ -1,5 +1,4 @@
-Rectiperistomatus Amaro & Sena, 1968 GENUS
-=======
+# Rectiperistomatus Amaro & Sena, 1968 GENUS
 
 #### Status
 ACCEPTED

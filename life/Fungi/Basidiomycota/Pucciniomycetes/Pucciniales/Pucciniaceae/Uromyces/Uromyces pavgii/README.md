@@ -1,5 +1,4 @@
-Uromyces pavgii R.N. Goswami & Ngachan SPECIES
-=======
+# Uromyces pavgii R.N. Goswami & Ngachan SPECIES
 
 #### Status
 ACCEPTED

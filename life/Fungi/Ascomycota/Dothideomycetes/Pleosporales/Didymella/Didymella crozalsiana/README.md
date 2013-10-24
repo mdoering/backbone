@@ -1,5 +1,4 @@
-Didymella crozalsiana (H. Olivier) Vouaux SPECIES
-=======
+# Didymella crozalsiana (H. Olivier) Vouaux SPECIES
 
 #### Status
 ACCEPTED

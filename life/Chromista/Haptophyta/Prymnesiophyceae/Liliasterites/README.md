@@ -1,5 +1,4 @@
-Liliasterites Stradner & Steinmetz, 1984 GENUS
-=======
+# Liliasterites Stradner & Steinmetz, 1984 GENUS
 
 #### Status
 ACCEPTED

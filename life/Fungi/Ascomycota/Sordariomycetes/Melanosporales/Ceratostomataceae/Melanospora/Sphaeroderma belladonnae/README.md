@@ -1,5 +1,4 @@
-Sphaeroderma belladonnae Tassi SPECIES
-=======
+# Sphaeroderma belladonnae Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flabellammina saratogaensis Cushman, 1931 SPECIES
-=======
+# Flabellammina saratogaensis Cushman, 1931 SPECIES
 
 #### Status
 ACCEPTED

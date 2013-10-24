@@ -1,5 +1,4 @@
-Mycosphaerella fagraeae J.M. Yen SPECIES
-=======
+# Mycosphaerella fagraeae J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

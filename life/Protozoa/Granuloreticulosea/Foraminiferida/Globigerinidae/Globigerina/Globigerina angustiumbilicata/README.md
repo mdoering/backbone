@@ -1,5 +1,4 @@
-Globigerina angustiumbilicata Bolli SPECIES
-=======
+# Globigerina angustiumbilicata Bolli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Karenia umbella de Salas, Bolch & Hallegraeff, 2003 SPECIES
-=======
+# Karenia umbella de Salas, Bolch & Hallegraeff, 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lagynus simplex Kahl, 1926 SPECIES
-=======
+# Lagynus simplex Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

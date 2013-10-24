@@ -1,5 +1,4 @@
-Clypeothecium alotropidis R. Rao SPECIES
-=======
+# Clypeothecium alotropidis R. Rao SPECIES
 
 #### Status
 ACCEPTED

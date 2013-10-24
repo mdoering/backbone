@@ -1,5 +1,4 @@
-Pyrenopeziza mollisioides (Sacc. & Briard) Petr. SPECIES
-=======
+# Pyrenopeziza mollisioides (Sacc. & Briard) Petr. SPECIES
 
 #### Status
 ACCEPTED

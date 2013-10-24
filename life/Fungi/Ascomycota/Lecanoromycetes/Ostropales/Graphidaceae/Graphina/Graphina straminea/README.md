@@ -1,5 +1,4 @@
-Graphina straminea (Nyl.) Zahlbr. SPECIES
-=======
+# Graphina straminea (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

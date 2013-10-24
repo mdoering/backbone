@@ -1,17 +1,16 @@
-Torulopsis navarrensis Moriyon & C. Ramírez, 1978 SPECIES
-=======
+# Candida melibiosica H.R. Buckley & Uden, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycopath. Mycol. appl. 36: 264 (1968)
 
 #### Original name
-null
+Candida melibiosica H.R. Buckley & Uden, 1968
 
 ### Remarks
 null

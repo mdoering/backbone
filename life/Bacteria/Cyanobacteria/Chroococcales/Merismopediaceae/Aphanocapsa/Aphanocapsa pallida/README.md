@@ -1,5 +1,4 @@
-Aphanocapsa pallida Rabenhurst SPECIES
-=======
+# Aphanocapsa pallida Rabenhurst SPECIES
 
 #### Status
 ACCEPTED

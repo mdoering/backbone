@@ -1,5 +1,4 @@
-Asteroma vleugelianum (Bubák) B. Sutton SPECIES
-=======
+# Asteroma vleugelianum (Bubák) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

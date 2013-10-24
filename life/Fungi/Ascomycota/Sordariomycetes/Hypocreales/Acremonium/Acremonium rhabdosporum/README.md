@@ -1,5 +1,4 @@
-Acremonium rhabdosporum W. Gams, 1971 SPECIES
-=======
+# Acremonium rhabdosporum W. Gams, 1971 SPECIES
 
 #### Status
 ACCEPTED

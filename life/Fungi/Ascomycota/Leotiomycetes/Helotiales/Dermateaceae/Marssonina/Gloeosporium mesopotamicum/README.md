@@ -1,5 +1,4 @@
-Gloeosporium mesopotamicum Bubák SPECIES
-=======
+# Gloeosporium mesopotamicum Bubák SPECIES
 
 #### Status
 ACCEPTED

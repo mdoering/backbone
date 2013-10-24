@@ -1,5 +1,4 @@
-Pleurotrema filispora Patw., Makhija & D. Rane SPECIES
-=======
+# Pleurotrema filispora Patw., Makhija & D. Rane SPECIES
 
 #### Status
 ACCEPTED

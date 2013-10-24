@@ -1,5 +1,4 @@
-Paulia wrightii (Tuck.) Tretiach & Henssen SPECIES
-=======
+# Paulia wrightii (Tuck.) Tretiach & Henssen SPECIES
 
 #### Status
 ACCEPTED

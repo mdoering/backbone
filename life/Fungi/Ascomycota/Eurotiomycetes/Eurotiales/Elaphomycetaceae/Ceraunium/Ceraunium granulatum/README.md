@@ -1,5 +1,4 @@
-Ceraunium granulatum Wallr. SPECIES
-=======
+# Ceraunium granulatum Wallr. SPECIES
 
 #### Status
 ACCEPTED

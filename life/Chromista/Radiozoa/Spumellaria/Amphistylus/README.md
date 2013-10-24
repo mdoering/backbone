@@ -1,5 +1,4 @@
-Amphistylus Haeckel, 1881 GENUS
-=======
+# Amphistylus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

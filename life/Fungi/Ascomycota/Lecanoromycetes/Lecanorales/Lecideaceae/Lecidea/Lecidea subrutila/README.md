@@ -1,5 +1,4 @@
-Lecidea subrutila (Stirt.) Zahlbr. SPECIES
-=======
+# Lecidea subrutila (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

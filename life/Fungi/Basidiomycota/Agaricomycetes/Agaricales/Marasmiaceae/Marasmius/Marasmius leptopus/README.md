@@ -1,5 +1,4 @@
-Marasmius leptopus Peck SPECIES
-=======
+# Marasmius leptopus Peck SPECIES
 
 #### Status
 ACCEPTED

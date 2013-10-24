@@ -1,5 +1,4 @@
-Armillaria omnituens (Berk.) Sacc. SPECIES
-=======
+# Armillaria omnituens (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

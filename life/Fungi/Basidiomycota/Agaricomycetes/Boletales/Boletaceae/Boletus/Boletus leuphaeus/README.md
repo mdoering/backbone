@@ -1,5 +1,4 @@
-Boletus leuphaeus J. Blum SPECIES
-=======
+# Boletus leuphaeus J. Blum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Balantidium cynocephale Burowa, 1938 SPECIES
-=======
+# Balantidium cynocephale Burowa, 1938 SPECIES
 
 #### Status
 ACCEPTED

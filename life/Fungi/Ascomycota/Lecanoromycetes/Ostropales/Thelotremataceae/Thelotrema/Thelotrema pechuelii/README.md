@@ -1,5 +1,4 @@
-Thelotrema pechuelii Müll. Arg. SPECIES
-=======
+# Thelotrema pechuelii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

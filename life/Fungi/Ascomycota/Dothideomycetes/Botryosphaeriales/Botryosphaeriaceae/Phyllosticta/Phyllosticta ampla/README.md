@@ -1,5 +1,4 @@
-Phyllosticta ampla Brunaud SPECIES
-=======
+# Phyllosticta ampla Brunaud SPECIES
 
 #### Status
 ACCEPTED

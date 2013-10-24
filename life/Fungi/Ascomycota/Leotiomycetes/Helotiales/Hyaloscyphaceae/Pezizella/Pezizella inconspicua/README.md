@@ -1,5 +1,4 @@
-Pezizella inconspicua Rehm SPECIES
-=======
+# Pezizella inconspicua Rehm SPECIES
 
 #### Status
 ACCEPTED

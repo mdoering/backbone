@@ -1,5 +1,4 @@
-Russula violacea var. violacea VARIETY
-=======
+# Russula violacea Quél., 1882 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Compt. Rend. Assoc. Franç. Avancem. Sci. 11: 11 (1882)
 
 #### Original name
-null
+Russula violacea Quél., 1882
 
 ### Remarks
 null

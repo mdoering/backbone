@@ -1,5 +1,4 @@
-Enterococcus devriesei Svec et al., 2005 SPECIES
-=======
+# Enterococcus devriesei Svec et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

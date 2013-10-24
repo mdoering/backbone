@@ -1,5 +1,4 @@
-Taifanglania curticatenata (Z.Q. Liang & Y.F. Han) Z.Q. Liang, Y.F. Han & H.L. Chu SPECIES
-=======
+# Taifanglania curticatenata (Z.Q. Liang & Y.F. Han) Z.Q. Liang, Y.F. Han & H.L. Chu SPECIES
 
 #### Status
 ACCEPTED

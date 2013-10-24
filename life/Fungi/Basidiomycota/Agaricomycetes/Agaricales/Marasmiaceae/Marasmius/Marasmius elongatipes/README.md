@@ -1,5 +1,4 @@
-Marasmius elongatipes Peck SPECIES
-=======
+# Marasmius elongatipes Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypodermella rhamni K. Ramakr., 1955 SPECIES
-=======
+# Hypodermella rhamni K. Ramakr., 1955 SPECIES
 
 #### Status
 ACCEPTED

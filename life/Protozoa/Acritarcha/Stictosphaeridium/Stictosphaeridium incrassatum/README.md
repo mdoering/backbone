@@ -1,5 +1,4 @@
-Stictosphaeridium incrassatum Piskun, 1976 SPECIES
-=======
+# Stictosphaeridium incrassatum Piskun, 1976 SPECIES
 
 #### Status
 ACCEPTED

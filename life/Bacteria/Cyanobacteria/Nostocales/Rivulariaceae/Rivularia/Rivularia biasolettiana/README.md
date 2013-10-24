@@ -1,5 +1,4 @@
-Rivularia biasolettiana (Meneghini) Bornet & Flahault SPECIES
-=======
+# Rivularia biasolettiana (Meneghini) Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

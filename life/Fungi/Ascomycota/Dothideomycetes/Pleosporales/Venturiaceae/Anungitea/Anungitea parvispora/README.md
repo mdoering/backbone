@@ -1,5 +1,4 @@
-Anungitea parvispora R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Anungitea parvispora R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

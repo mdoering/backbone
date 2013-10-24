@@ -1,5 +1,4 @@
-Puccinia codyi Savile SPECIES
-=======
+# Puccinia codyi Savile SPECIES
 
 #### Status
 ACCEPTED

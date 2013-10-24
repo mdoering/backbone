@@ -1,5 +1,4 @@
-Irenopsis melothriae R.E.D. Baker & W.T. Dale SPECIES
-=======
+# Irenopsis melothriae R.E.D. Baker & W.T. Dale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scotogramma trifolii Npv SPECIES
-=======
+# Scotogramma trifolii Npv SPECIES
 
 #### Status
 ACCEPTED

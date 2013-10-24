@@ -1,5 +1,4 @@
-Trullula nitidula f. nitidula FORM
-=======
+# Trullula nitidula (Penz.) Allesch. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 3: 72 (1884)
 
 #### Original name
-Trullula nitidula f. nitidula
+Hormococcus nitidulus Sacc.
 
 ### Remarks
 null

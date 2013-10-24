@@ -1,5 +1,4 @@
-Stereum leucophaeum Lév. SPECIES
-=======
+# Stereum leucophaeum Lév. SPECIES
 
 #### Status
 ACCEPTED

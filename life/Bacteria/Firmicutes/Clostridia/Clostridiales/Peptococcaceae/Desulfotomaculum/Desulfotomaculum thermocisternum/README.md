@@ -1,5 +1,4 @@
-Desulfotomaculum thermocisternum Nilsen et al., 1996 SPECIES
-=======
+# Desulfotomaculum thermocisternum Nilsen et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

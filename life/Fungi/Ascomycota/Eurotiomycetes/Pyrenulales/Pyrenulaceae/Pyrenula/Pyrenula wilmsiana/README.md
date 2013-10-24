@@ -1,5 +1,4 @@
-Pyrenula wilmsiana Müll. Arg. SPECIES
-=======
+# Pyrenula wilmsiana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

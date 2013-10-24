@@ -1,5 +1,4 @@
-Calvatia olba Grgur. SPECIES
-=======
+# Calvatia olba Grgur. SPECIES
 
 #### Status
 ACCEPTED

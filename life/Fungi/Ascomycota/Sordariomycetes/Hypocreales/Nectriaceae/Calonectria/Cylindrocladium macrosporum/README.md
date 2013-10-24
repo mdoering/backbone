@@ -1,17 +1,16 @@
-Cylindrocladium macrosporum var. hederae G. Arnaud VARIETY
-=======
+# Cylindrocladium macrosporum Sherb., 1928 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 68: 205 (1952)
+Phytopathology 18: 222 (1928)
 
 #### Original name
-Cylindrocladium macrosporum var. hederae G. Arnaud
+Cylindrocladium macrosporum Sherb., 1928
 
 ### Remarks
 null

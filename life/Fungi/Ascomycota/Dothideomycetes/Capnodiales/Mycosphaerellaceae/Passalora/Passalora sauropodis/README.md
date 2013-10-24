@@ -1,14 +1,13 @@
-Passalora sauropi (P.K. Chi & S.Q. Chen) Y.L. Guo SPECIES
-=======
+# Passalora sauropodis (P.K. Chi & S.Q. Chen) Y.L. Guo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fungal Science, Taipei 17(1, 2): 28 (2002)
 
 #### Original name
 Cercosporidium sauropodis P.K. Chi & S.Q. Chen

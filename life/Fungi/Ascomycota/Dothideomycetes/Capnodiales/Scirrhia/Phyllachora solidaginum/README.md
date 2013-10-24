@@ -1,5 +1,4 @@
-Phyllachora solidaginum (Schwein.) Sacc., 1883 SPECIES
-=======
+# Phyllachora solidaginum (Schwein.) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Chaetosphaeria anglica P.J. Fisher & Petrini, 1983 SPECIES
-=======
+# Chaetosphaeria anglica P.J. Fisher & Petrini, 1983 SPECIES
 
 #### Status
 ACCEPTED

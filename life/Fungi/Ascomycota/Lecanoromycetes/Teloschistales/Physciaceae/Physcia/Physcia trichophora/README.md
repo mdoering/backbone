@@ -1,5 +1,4 @@
-Physcia trichophora Hue SPECIES
-=======
+# Physcia trichophora Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Terana similis (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Terana similis (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

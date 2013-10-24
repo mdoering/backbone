@@ -1,5 +1,4 @@
-Endophragmia ovoidea Matsush. SPECIES
-=======
+# Endophragmia ovoidea Matsush. SPECIES
 
 #### Status
 ACCEPTED

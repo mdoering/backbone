@@ -1,5 +1,4 @@
-Spragueola americana Massee SPECIES
-=======
+# Spragueola americana Massee SPECIES
 
 #### Status
 ACCEPTED

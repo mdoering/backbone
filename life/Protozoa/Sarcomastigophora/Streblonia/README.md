@@ -1,5 +1,4 @@
-Streblonia Haeckel, 1887 GENUS
-=======
+# Streblonia Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

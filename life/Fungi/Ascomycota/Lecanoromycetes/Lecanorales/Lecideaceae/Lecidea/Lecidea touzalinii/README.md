@@ -1,5 +1,4 @@
-Lecidea touzalinii Harm. SPECIES
-=======
+# Lecidea touzalinii Harm. SPECIES
 
 #### Status
 ACCEPTED

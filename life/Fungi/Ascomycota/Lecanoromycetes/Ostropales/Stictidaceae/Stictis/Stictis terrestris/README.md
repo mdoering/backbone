@@ -1,5 +1,4 @@
-Stictis terrestris Gray SPECIES
-=======
+# Stictis terrestris Gray SPECIES
 
 #### Status
 ACCEPTED

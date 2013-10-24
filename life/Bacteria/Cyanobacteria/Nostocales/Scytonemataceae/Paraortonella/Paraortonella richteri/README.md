@@ -1,5 +1,4 @@
-Paraortonella richteri O. Dragastan SPECIES
-=======
+# Paraortonella richteri O. Dragastan SPECIES
 
 #### Status
 ACCEPTED

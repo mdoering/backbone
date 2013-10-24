@@ -1,5 +1,4 @@
-Trypethelium virens Tuck. SPECIES
-=======
+# Trypethelium virens Tuck. SPECIES
 
 #### Status
 ACCEPTED

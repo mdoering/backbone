@@ -1,5 +1,4 @@
-Polyporus pruinatus Berk. SPECIES
-=======
+# Polyporus pruinatus Berk. SPECIES
 
 #### Status
 ACCEPTED

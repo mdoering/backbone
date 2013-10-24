@@ -1,5 +1,4 @@
-Microtetraspora fastidiosa (Soina et al., 1975) Kroppenstedt et al., 1991 SPECIES
-=======
+# Microtetraspora fastidiosa (Soina et al., 1975) Kroppenstedt et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

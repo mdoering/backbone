@@ -1,5 +1,4 @@
-Uromyces sclerochloae Tranzschel SPECIES
-=======
+# Uromyces sclerochloae Tranzschel SPECIES
 
 #### Status
 ACCEPTED

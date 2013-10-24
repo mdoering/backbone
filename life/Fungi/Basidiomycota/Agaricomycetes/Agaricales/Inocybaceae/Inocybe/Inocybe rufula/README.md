@@ -1,5 +1,4 @@
-Inocybe rufula Malençon SPECIES
-=======
+# Inocybe rufula Malençon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycenastrum beccarii Pass. SPECIES
-=======
+# Mycenastrum beccarii Pass. SPECIES
 
 #### Status
 ACCEPTED

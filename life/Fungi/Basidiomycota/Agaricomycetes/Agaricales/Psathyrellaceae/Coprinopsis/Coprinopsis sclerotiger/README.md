@@ -1,5 +1,4 @@
-Coprinopsis sclerotiger (Watling) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis sclerotiger (Watling) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

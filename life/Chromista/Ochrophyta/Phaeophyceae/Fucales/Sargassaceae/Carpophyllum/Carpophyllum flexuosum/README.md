@@ -1,8 +1,7 @@
-Fucus flexuosus Esper SPECIES
-=======
+# Carpophyllum flexuosum (Esper) Greville SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

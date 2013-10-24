@@ -1,5 +1,4 @@
-Thyronectria lonicerae Seeler SPECIES
-=======
+# Thyronectria lonicerae Seeler SPECIES
 
 #### Status
 ACCEPTED

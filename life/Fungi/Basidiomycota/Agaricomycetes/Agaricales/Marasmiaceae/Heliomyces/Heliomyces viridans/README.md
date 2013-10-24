@@ -1,5 +1,4 @@
-Heliomyces viridans Rick SPECIES
-=======
+# Heliomyces viridans Rick SPECIES
 
 #### Status
 ACCEPTED

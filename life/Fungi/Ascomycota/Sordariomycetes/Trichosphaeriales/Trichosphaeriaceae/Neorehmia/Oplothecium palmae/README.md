@@ -1,5 +1,4 @@
-Oplothecium palmae F. Stevens SPECIES
-=======
+# Oplothecium palmae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

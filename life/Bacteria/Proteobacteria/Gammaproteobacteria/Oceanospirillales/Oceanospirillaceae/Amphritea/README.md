@@ -1,5 +1,4 @@
-Amphritea Gartner, Wiese & Imhoff, 2008 GENUS
-=======
+# Amphritea Gartner, Wiese & Imhoff, 2008 GENUS
 
 #### Status
 ACCEPTED

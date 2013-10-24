@@ -1,17 +1,16 @@
-Polyschema queenslandica Matsush. SPECIES
-=======
+# Polyschema queenslandicum Matsush. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Matsush. Mycol. Mem. 35 (1989)
 
 #### Original name
-Polyschema queenslandica Matsush.
+Polyschema queenslandicum Matsush.
 
 ### Remarks
 null

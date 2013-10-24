@@ -1,5 +1,4 @@
-Endogone oregonensis Gerd. & Trappe SPECIES
-=======
+# Endogone oregonensis Gerd. & Trappe SPECIES
 
 #### Status
 ACCEPTED

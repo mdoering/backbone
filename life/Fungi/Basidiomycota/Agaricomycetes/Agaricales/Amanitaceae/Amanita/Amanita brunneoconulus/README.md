@@ -1,5 +1,4 @@
-Amanita brunneoconulus Bas & Gröger SPECIES
-=======
+# Amanita brunneoconulus Bas & Gröger SPECIES
 
 #### Status
 ACCEPTED

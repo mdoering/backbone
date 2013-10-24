@@ -1,5 +1,4 @@
-Rinodina helenae Sbarbaro SPECIES
-=======
+# Rinodina helenae Sbarbaro SPECIES
 
 #### Status
 ACCEPTED

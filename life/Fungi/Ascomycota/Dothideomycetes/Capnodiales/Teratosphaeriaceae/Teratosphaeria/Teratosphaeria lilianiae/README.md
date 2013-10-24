@@ -1,5 +1,4 @@
-Teratosphaeria lilianiae (J. Walker, B. Sutton & Pascoe) Crous & Andjic, 2009 SPECIES
-=======
+# Teratosphaeria lilianiae (J. Walker, B. Sutton & Pascoe) Crous & Andjic, 2009 SPECIES
 
 #### Status
 ACCEPTED

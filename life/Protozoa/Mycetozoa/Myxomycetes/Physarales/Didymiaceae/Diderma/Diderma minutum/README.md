@@ -1,5 +1,4 @@
-Diderma minutum Fr. SPECIES
-=======
+# Diderma minutum Fr. SPECIES
 
 #### Status
 ACCEPTED

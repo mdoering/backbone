@@ -1,5 +1,4 @@
-Teichospora suaedae Speg. SPECIES
-=======
+# Teichospora suaedae Speg. SPECIES
 
 #### Status
 ACCEPTED

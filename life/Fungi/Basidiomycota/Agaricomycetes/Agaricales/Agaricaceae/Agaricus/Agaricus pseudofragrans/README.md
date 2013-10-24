@@ -1,5 +1,4 @@
-Agaricus pseudofragrans Secr. SPECIES
-=======
+# Agaricus pseudofragrans Secr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Belonidium guttula Rick SPECIES
-=======
+# Belonidium guttula Rick SPECIES
 
 #### Status
 ACCEPTED

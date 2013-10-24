@@ -1,14 +1,13 @@
-Corethromyces cristatus (Thaxt.) Thaxt., 1912 SPECIES
-=======
+# Rhadinomyces cristatus Thaxt., 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. Amer. Acad. Arts & Sci. 28: 180 (1893)
 
 #### Original name
 Rhadinomyces cristatus Thaxt., 1893

@@ -1,5 +1,4 @@
-Quinqueloculina bradyana SPECIES
-=======
+# Quinqueloculina bradyana SPECIES
 
 #### Status
 ACCEPTED

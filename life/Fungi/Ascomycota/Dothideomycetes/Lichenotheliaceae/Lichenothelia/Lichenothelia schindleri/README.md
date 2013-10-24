@@ -1,5 +1,4 @@
-Lichenothelia schindleri Henssen SPECIES
-=======
+# Lichenothelia schindleri Henssen SPECIES
 
 #### Status
 ACCEPTED

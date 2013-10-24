@@ -1,5 +1,4 @@
-Staurosira elliptica (Schumann) D.M.Williams & Round SPECIES
-=======
+# Staurosira elliptica (Schumann) D.M.Williams & Round SPECIES
 
 #### Status
 ACCEPTED

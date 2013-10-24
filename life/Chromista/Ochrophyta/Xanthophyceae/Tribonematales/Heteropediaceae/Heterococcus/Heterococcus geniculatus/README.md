@@ -1,5 +1,4 @@
-Heterococcus geniculatus Pitschmann SPECIES
-=======
+# Heterococcus geniculatus Pitschmann SPECIES
 
 #### Status
 ACCEPTED

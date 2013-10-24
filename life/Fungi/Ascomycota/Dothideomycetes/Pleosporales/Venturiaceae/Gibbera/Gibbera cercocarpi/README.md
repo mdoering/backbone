@@ -1,5 +1,4 @@
-Gibbera cercocarpi (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Gibbera cercocarpi (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

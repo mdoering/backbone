@@ -1,5 +1,4 @@
-Stypinella orthobasidion Möller SPECIES
-=======
+# Stypinella orthobasidion Möller SPECIES
 
 #### Status
 ACCEPTED

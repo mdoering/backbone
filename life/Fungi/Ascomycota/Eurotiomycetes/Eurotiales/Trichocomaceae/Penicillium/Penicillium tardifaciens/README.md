@@ -1,5 +1,4 @@
-Penicillium tardifaciens Udagawa SPECIES
-=======
+# Penicillium tardifaciens Udagawa SPECIES
 
 #### Status
 ACCEPTED

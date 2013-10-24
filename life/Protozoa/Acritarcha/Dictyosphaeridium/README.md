@@ -1,5 +1,4 @@
-Dictyosphaeridium B.V. Timofeev, 1969 GENUS
-=======
+# Dictyosphaeridium B.V. Timofeev, 1969 GENUS
 
 #### Status
 ACCEPTED

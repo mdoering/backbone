@@ -1,5 +1,4 @@
-Botryosphaeria pittospori (J.V. Almeida & Sousa da Câmara) Dennis SPECIES
-=======
+# Botryosphaeria pittospori (J.V. Almeida & Sousa da Câmara) Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Panus cladophora Berk. SPECIES
-=======
+# Panus cladophora Berk. SPECIES
 
 #### Status
 ACCEPTED

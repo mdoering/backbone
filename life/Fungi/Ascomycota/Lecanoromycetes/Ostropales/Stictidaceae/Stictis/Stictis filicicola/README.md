@@ -1,5 +1,4 @@
-Stictis filicicola Seaver & Waterston SPECIES
-=======
+# Stictis filicicola Seaver & Waterston SPECIES
 
 #### Status
 ACCEPTED

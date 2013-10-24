@@ -1,5 +1,4 @@
-Micrhystridium clavellense Courtinat, 1983 SPECIES
-=======
+# Micrhystridium clavellense Courtinat, 1983 SPECIES
 
 #### Status
 ACCEPTED

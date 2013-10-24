@@ -1,5 +1,4 @@
-Capsulospora frondicola K.D. Hyde, 1996 SPECIES
-=======
+# Capsulospora frondicola K.D. Hyde, 1996 SPECIES
 
 #### Status
 ACCEPTED

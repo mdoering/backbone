@@ -1,5 +1,4 @@
-Spiromastix polyporum ined. SPECIES
-=======
+# Spiromastix polyporum ined. SPECIES
 
 #### Status
 ACCEPTED

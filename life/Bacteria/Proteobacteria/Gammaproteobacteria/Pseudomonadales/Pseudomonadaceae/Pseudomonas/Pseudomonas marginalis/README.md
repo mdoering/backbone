@@ -1,11 +1,10 @@
-Bacterium marginale Brown, 1918 SPECIES
-=======
+# Pseudomonas marginalis (Brown, 1918) Stevens, 1925 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

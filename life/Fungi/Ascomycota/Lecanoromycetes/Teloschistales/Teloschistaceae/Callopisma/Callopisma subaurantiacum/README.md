@@ -1,5 +1,4 @@
-Callopisma subaurantiacum (Fée) Malme SPECIES
-=======
+# Callopisma subaurantiacum (Fée) Malme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia kochiana Gäum. SPECIES
-=======
+# Puccinia kochiana Gäum. SPECIES
 
 #### Status
 ACCEPTED

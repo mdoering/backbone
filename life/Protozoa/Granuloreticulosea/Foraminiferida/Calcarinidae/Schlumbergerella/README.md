@@ -1,5 +1,4 @@
-Schlumbergerella Hanzawa, 1952 GENUS
-=======
+# Schlumbergerella Hanzawa, 1952 GENUS
 
 #### Status
 ACCEPTED

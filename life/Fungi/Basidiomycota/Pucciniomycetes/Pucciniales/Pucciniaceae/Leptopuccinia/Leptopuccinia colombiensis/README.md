@@ -1,5 +1,4 @@
-Leptopuccinia colombiensis (Ellis & Everh.) Syd. SPECIES
-=======
+# Leptopuccinia colombiensis (Ellis & Everh.) Syd. SPECIES
 
 #### Status
 ACCEPTED

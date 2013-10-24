@@ -1,5 +1,4 @@
-Agaricus chrysotrichus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus chrysotrichus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

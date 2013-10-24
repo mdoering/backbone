@@ -1,5 +1,4 @@
-Eutreptia Perty, 1852 GENUS
-=======
+# Eutreptia Perty, 1852 GENUS
 
 #### Status
 ACCEPTED

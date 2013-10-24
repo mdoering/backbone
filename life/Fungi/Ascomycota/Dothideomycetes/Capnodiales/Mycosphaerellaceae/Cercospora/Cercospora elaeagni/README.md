@@ -1,5 +1,4 @@
-Cercospora elaeagni Heald & F.A. Wolf SPECIES
-=======
+# Cercospora elaeagni Heald & F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

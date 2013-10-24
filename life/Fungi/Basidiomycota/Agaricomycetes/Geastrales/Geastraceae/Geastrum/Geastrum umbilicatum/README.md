@@ -1,5 +1,4 @@
-Geastrum umbilicatum Fr., 1829 SPECIES
-=======
+# Geastrum umbilicatum Fr., 1829 SPECIES
 
 #### Status
 ACCEPTED

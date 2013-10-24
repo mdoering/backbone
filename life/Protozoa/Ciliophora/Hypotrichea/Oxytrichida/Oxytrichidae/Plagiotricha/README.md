@@ -1,5 +1,4 @@
-Plagiotricha Kent, 1882 GENUS
-=======
+# Plagiotricha Kent, 1882 GENUS
 
 #### Status
 ACCEPTED

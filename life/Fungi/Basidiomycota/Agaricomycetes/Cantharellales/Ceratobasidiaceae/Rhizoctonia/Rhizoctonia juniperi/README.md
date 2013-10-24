@@ -1,5 +1,4 @@
-Rhizoctonia juniperi Lihnell SPECIES
-=======
+# Rhizoctonia juniperi Lihnell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Philocopra discospora Plowr., 1899 SPECIES
-=======
+# Philocopra discospora Plowr., 1899 SPECIES
 
 #### Status
 ACCEPTED

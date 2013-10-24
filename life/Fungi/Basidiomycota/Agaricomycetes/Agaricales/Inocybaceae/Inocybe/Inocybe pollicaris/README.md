@@ -1,5 +1,4 @@
-Inocybe pollicaris P. Karst. SPECIES
-=======
+# Inocybe pollicaris P. Karst. SPECIES
 
 #### Status
 ACCEPTED

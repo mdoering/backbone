@@ -1,17 +1,16 @@
-Rinodina exigua var. inundata Blomb. ex Th. Fr. VARIETY
-=======
+# Rinodina fimbriata Körb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Parerga lichenol. (Breslau) 76 (1859)
 
 #### Original name
-null
+Rinodina fimbriata Körb.
 
 ### Remarks
 null

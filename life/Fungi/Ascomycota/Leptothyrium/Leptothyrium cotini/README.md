@@ -1,5 +1,4 @@
-Leptothyrium cotini Oudem. SPECIES
-=======
+# Leptothyrium cotini Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botrytis simplici var. simplici VARIETY
-=======
+# Botrytis simplici SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Botrytis simplici var. simplici
+Botrytis simplici
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Stictina lutescens (Taylor) Nyl. SPECIES
-=======
+# Stictina lutescens (Taylor) Nyl. SPECIES
 
 #### Status
 ACCEPTED

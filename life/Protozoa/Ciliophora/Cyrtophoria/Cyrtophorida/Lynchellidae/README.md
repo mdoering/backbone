@@ -1,5 +1,4 @@
-Lynchellidae Jankowksi, 1968 FAMILY
-=======
+# Lynchellidae Jankowksi, 1968 FAMILY
 
 #### Status
 ACCEPTED

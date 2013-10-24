@@ -1,14 +1,13 @@
-Protomycopsis purpureo-tingens (Massee) Ramsb. SPECIES
-=======
+# Protomycopsis purpureotingens (Massee) Ramsb., 1916 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 5: 323 (1917)
 
 #### Original name
 Protomyces purpureotingens Massee, 1891

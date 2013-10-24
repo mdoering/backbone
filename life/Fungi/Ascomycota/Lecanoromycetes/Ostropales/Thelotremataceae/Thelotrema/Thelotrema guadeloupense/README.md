@@ -1,17 +1,16 @@
-Thelotrema guadeloupensis Hale SPECIES
-=======
+# Thelotrema guadeloupense Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Phytologia 26: 416 (1973)
 
 #### Original name
-Thelotrema guadeloupensis Hale
+Thelotrema guadeloupense Hale
 
 ### Remarks
 null

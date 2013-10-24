@@ -1,5 +1,4 @@
-Catillaria fuscorubra B. de Lesd. SPECIES
-=======
+# Catillaria fuscorubra B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

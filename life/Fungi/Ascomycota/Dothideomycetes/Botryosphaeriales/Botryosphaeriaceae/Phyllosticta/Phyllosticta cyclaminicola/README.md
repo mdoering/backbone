@@ -1,5 +1,4 @@
-Phyllosticta cyclaminicola Trel. SPECIES
-=======
+# Phyllosticta cyclaminicola Trel. SPECIES
 
 #### Status
 ACCEPTED

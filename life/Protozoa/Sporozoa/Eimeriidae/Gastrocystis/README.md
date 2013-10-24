@@ -1,5 +1,4 @@
-Gastrocystis Chatton, 1910 GENUS
-=======
+# Gastrocystis Chatton, 1910 GENUS
 
 #### Status
 ACCEPTED

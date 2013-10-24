@@ -1,17 +1,16 @@
-Nematoloma subfusisporum F.H. Møller SPECIES
-=======
+# Naematoloma subfusisporum F.H. Møller SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fungi of the Faeröes, Part I: Basidiomyceten 191 (1945)
 
 #### Original name
-Nematoloma subfusisporum F.H. Møller
+Naematoloma subfusisporum F.H. Møller
 
 ### Remarks
 null

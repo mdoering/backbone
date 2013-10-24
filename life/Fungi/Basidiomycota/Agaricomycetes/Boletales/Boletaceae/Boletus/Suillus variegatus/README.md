@@ -1,5 +1,4 @@
-Suillus variegatus (Sw.) Kuntze, 1898 SPECIES
-=======
+# Suillus variegatus (Sw.) Kuntze, 1898 SPECIES
 
 #### Status
 DOUBTFUL

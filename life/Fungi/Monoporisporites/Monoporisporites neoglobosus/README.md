@@ -1,5 +1,4 @@
-Monoporisporites neoglobosus Kalgutkar & Janson. SPECIES
-=======
+# Monoporisporites neoglobosus Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

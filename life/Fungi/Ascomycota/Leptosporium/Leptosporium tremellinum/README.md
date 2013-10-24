@@ -1,5 +1,4 @@
-Leptosporium tremellinum Bonord. SPECIES
-=======
+# Leptosporium tremellinum Bonord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanospora inaequalis N. Lundq. SPECIES
-=======
+# Melanospora inaequalis N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

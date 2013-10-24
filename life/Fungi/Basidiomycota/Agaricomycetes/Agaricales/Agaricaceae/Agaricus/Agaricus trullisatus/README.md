@@ -1,5 +1,4 @@
-Agaricus trullisatus Ellis SPECIES
-=======
+# Agaricus trullisatus Ellis SPECIES
 
 #### Status
 ACCEPTED

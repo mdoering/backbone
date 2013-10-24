@@ -1,17 +1,16 @@
-Parmelia mesmerizans Brusse SPECIES
-=======
+# Xanthoparmelia mesmerizans (Brusse) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 63: 341 (1997)
 
 #### Original name
-null
+Parmelia mesmerizans Brusse
 
 ### Remarks
 null

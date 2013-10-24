@@ -1,5 +1,4 @@
-Stropharia stuhlmannii Henn. SPECIES
-=======
+# Stropharia stuhlmannii Henn. SPECIES
 
 #### Status
 ACCEPTED

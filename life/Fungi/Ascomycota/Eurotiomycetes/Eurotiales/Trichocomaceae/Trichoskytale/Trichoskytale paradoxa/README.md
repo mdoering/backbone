@@ -1,5 +1,4 @@
-Trichoskytale paradoxa Berk. SPECIES
-=======
+# Trichoskytale paradoxa Berk. SPECIES
 
 #### Status
 ACCEPTED

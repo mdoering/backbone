@@ -1,14 +1,13 @@
-Doassansia morotiana Zundel, 1953 SPECIES
-=======
+# Heterodoassansia morotiana (Zundel) Vánky, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ustilaginales of the World 229 (1953)
+Mycotaxon 48: 28 (1993)
 
 #### Original name
 Doassansia morotiana Zundel, 1953

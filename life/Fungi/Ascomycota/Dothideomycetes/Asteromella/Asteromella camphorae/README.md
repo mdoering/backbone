@@ -1,5 +1,4 @@
-Asteromella camphorae (Gucevic) Aa & Vanev SPECIES
-=======
+# Asteromella camphorae (Gucevic) Aa & Vanev SPECIES
 
 #### Status
 ACCEPTED

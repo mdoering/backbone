@@ -1,5 +1,4 @@
-Thelephora versiformis Fr. SPECIES
-=======
+# Thelephora versiformis Fr. SPECIES
 
 #### Status
 ACCEPTED

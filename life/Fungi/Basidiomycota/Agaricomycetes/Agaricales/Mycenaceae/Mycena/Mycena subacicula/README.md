@@ -1,5 +1,4 @@
-Mycena subacicula Henn. SPECIES
-=======
+# Mycena subacicula Henn. SPECIES
 
 #### Status
 ACCEPTED

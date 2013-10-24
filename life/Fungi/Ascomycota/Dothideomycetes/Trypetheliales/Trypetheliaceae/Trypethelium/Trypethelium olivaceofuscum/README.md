@@ -1,5 +1,4 @@
-Trypethelium olivaceofuscum Zenker SPECIES
-=======
+# Trypethelium olivaceofuscum Zenker SPECIES
 
 #### Status
 ACCEPTED

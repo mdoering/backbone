@@ -1,5 +1,4 @@
-Agaricus helveolus Bull. SPECIES
-=======
+# Agaricus helveolus Bull. SPECIES
 
 #### Status
 ACCEPTED

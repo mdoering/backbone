@@ -1,5 +1,4 @@
-Phanerochaete oreophila Gilb. & Hemmes SPECIES
-=======
+# Phanerochaete oreophila Gilb. & Hemmes SPECIES
 
 #### Status
 ACCEPTED

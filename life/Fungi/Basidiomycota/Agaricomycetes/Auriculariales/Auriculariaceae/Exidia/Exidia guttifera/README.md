@@ -1,5 +1,4 @@
-Exidia guttifera Wallr. SPECIES
-=======
+# Exidia guttifera Wallr. SPECIES
 
 #### Status
 ACCEPTED

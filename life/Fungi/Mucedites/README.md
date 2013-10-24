@@ -1,5 +1,4 @@
-Mucedites C.E. Bertrand & Renault GENUS
-=======
+# Mucedites C.E. Bertrand & Renault GENUS
 
 #### Status
 ACCEPTED

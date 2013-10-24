@@ -1,5 +1,4 @@
-Rozella irregularis (E.J. Butler) Sparrow SPECIES
-=======
+# Rozella irregularis (E.J. Butler) Sparrow SPECIES
 
 #### Status
 ACCEPTED

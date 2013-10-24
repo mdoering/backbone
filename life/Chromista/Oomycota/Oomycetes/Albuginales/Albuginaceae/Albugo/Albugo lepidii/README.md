@@ -1,5 +1,4 @@
-Albugo lepidii A.N.S. Rao SPECIES
-=======
+# Albugo lepidii A.N.S. Rao SPECIES
 
 #### Status
 ACCEPTED

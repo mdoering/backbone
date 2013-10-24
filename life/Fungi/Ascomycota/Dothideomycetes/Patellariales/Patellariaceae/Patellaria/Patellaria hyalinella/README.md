@@ -1,5 +1,4 @@
-Patellaria hyalinella Müll. Arg. SPECIES
-=======
+# Patellaria hyalinella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

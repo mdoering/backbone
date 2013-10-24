@@ -1,5 +1,4 @@
-Asteridiella strophanthi (Doidge) Hansf. SPECIES
-=======
+# Asteridiella strophanthi (Doidge) Hansf. SPECIES
 
 #### Status
 ACCEPTED

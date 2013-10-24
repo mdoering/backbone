@@ -1,5 +1,4 @@
-Secotium minutulum J. Drumm., 1983 SPECIES
-=======
+# Secotium minutulum J. Drumm., 1983 SPECIES
 
 #### Status
 ACCEPTED

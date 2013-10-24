@@ -1,5 +1,4 @@
-Cyathia lentifera (L.) V.S. White SPECIES
-=======
+# Cyathia lentifera (L.) V.S. White SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypochnus subtilis J. Schröt. SPECIES
-=======
+# Hypochnus subtilis J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

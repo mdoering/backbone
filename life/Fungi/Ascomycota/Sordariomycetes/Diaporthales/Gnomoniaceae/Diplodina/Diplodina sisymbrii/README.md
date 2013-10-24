@@ -1,5 +1,4 @@
-Diplodina sisymbrii Petr. SPECIES
-=======
+# Diplodina sisymbrii Petr. SPECIES
 
 #### Status
 ACCEPTED

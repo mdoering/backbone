@@ -1,5 +1,4 @@
-Craterium retisporum G. Moreno, D.W. Mitch. & S.L. Stephenson, 2009 SPECIES
-=======
+# Craterium retisporum G. Moreno, D.W. Mitch. & S.L. Stephenson, 2009 SPECIES
 
 #### Status
 ACCEPTED

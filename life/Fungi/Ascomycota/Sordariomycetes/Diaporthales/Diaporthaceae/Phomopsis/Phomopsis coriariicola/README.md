@@ -1,5 +1,4 @@
-Phomopsis coriariicola Speg. SPECIES
-=======
+# Phomopsis coriariicola Speg. SPECIES
 
 #### Status
 ACCEPTED

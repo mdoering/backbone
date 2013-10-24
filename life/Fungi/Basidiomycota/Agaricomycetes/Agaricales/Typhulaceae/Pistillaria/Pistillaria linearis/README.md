@@ -1,5 +1,4 @@
-Pistillaria linearis Corner SPECIES
-=======
+# Pistillaria linearis Corner SPECIES
 
 #### Status
 ACCEPTED

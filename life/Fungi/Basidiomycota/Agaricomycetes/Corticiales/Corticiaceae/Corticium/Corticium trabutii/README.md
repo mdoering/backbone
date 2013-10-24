@@ -1,17 +1,16 @@
-Corticium trabuti Pat. SPECIES
-=======
+# Corticium trabutii Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+C. r. Congr. Soc. Savantes Paris Dép. , Sec. Sci. 246 (1909)
 
 #### Original name
-Corticium trabuti Pat.
+Corticium trabutii Pat.
 
 ### Remarks
 null

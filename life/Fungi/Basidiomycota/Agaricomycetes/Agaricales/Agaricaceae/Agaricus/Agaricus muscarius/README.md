@@ -1,17 +1,16 @@
-Agaricus muscarius var. muscarius VARIETY
-=======
+# Agaricus muscarius SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Sp. pl. 2: 1172 (1753)
+null
 
 #### Original name
-Agaricus muscarius var. muscarius
+null
 
 ### Remarks
 null

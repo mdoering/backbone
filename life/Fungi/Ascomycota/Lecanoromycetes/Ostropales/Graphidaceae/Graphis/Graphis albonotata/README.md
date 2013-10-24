@@ -1,5 +1,4 @@
-Graphis albonotata Nyl. SPECIES
-=======
+# Graphis albonotata Nyl. SPECIES
 
 #### Status
 ACCEPTED

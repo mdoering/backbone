@@ -1,5 +1,4 @@
-Taphrina atkinsonii W.W. Ray SPECIES
-=======
+# Taphrina atkinsonii W.W. Ray SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physcia sinuosa Moberg SPECIES
-=======
+# Physcia sinuosa Moberg SPECIES
 
 #### Status
 ACCEPTED

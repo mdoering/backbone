@@ -1,5 +1,4 @@
-Actidiographium Lar.N. Vassiljeva GENUS
-=======
+# Actidiographium Lar.N. Vassiljeva GENUS
 
 #### Status
 ACCEPTED

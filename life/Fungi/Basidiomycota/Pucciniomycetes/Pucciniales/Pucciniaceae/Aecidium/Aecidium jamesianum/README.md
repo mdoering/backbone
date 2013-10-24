@@ -1,5 +1,4 @@
-Aecidium jamesianum Peck SPECIES
-=======
+# Aecidium jamesianum Peck SPECIES
 
 #### Status
 ACCEPTED

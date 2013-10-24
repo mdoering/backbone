@@ -1,5 +1,4 @@
-Borrelia brasiliensis Davis, 1952 (Approved Lists, 1980) SPECIES
-=======
+# Borrelia brasiliensis Davis, 1952 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

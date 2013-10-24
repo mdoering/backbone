@@ -1,5 +1,4 @@
-Phoma sapinea Pass. SPECIES
-=======
+# Phoma sapinea Pass. SPECIES
 
 #### Status
 ACCEPTED

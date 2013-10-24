@@ -1,5 +1,4 @@
-Sethodiscus macrococcus Haeckel, 1887 SPECIES
-=======
+# Sethodiscus macrococcus Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

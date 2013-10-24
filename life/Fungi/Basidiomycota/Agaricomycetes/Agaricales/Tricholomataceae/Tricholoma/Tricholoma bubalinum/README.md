@@ -1,5 +1,4 @@
-Tricholoma bubalinum (G. Stev.) E. Horak, 1971 SPECIES
-=======
+# Tricholoma bubalinum (G. Stev.) E. Horak, 1971 SPECIES
 
 #### Status
 ACCEPTED

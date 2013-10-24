@@ -1,5 +1,4 @@
-Naematoloma puiggarii (Speg.) Singer SPECIES
-=======
+# Naematoloma puiggarii (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

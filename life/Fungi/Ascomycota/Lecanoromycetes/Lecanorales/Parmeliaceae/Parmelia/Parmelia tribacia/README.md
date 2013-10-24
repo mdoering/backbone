@@ -1,5 +1,4 @@
-Parmelia tribacia SPECIES
-=======
+# Parmelia tribacia SPECIES
 
 #### Status
 ACCEPTED

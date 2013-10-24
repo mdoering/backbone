@@ -1,5 +1,4 @@
-Pedobacter caeni Vanparys et al., 2005 SPECIES
-=======
+# Pedobacter caeni Vanparys et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora clavispora Wehm. SPECIES
-=======
+# Pleospora clavispora Wehm. SPECIES
 
 #### Status
 ACCEPTED

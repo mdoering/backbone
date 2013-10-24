@@ -1,5 +1,4 @@
-Vaginicola galericulata Dumas, 1929 SPECIES
-=======
+# Vaginicola galericulata Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

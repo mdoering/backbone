@@ -1,5 +1,4 @@
-Uredo tuberculosa Schumach. SPECIES
-=======
+# Uredo tuberculosa Schumach. SPECIES
 
 #### Status
 ACCEPTED

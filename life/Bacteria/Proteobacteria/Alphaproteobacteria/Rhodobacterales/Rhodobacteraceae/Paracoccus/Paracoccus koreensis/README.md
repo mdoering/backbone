@@ -1,5 +1,4 @@
-Paracoccus koreensis La et al., 2005 SPECIES
-=======
+# Paracoccus koreensis La et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

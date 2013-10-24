@@ -1,5 +1,4 @@
-Torula flagellum Riess SPECIES
-=======
+# Torula flagellum Riess SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium elaeagni-umbellatae Dietel SPECIES
-=======
+# Aecidium elaeagni-umbellatae Dietel SPECIES
 
 #### Status
 ACCEPTED

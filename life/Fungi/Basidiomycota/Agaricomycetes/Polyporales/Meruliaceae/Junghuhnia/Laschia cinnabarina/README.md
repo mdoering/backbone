@@ -1,5 +1,4 @@
-Laschia cinnabarina Berk. & M.A. Curtis SPECIES
-=======
+# Laschia cinnabarina Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

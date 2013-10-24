@@ -1,5 +1,4 @@
-Puccinia trichopterygicola Gjaerum SPECIES
-=======
+# Puccinia trichopterygicola Gjaerum SPECIES
 
 #### Status
 ACCEPTED

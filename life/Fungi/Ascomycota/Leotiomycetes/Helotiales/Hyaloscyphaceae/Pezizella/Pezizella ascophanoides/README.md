@@ -1,5 +1,4 @@
-Pezizella ascophanoides (Marchal & É.J. Marchal) SPECIES
-=======
+# Pezizella ascophanoides (Marchal & É.J. Marchal) SPECIES
 
 #### Status
 ACCEPTED

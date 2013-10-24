@@ -1,17 +1,16 @@
-Pertusaria subviridis f. subviridis FORM
-=======
+# Ochrolechia subviridis (Høeg) Erichsen SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Meddn Göteb. Bot. Trädgord 5: 3 (1930)
 
 #### Original name
-Pertusaria subviridis f. subviridis
+Pertusaria subviridis Høeg
 
 ### Remarks
 null

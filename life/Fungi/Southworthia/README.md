@@ -1,5 +1,4 @@
-Southworthia Ellis & Galloway GENUS
-=======
+# Southworthia Ellis & Galloway GENUS
 
 #### Status
 ACCEPTED

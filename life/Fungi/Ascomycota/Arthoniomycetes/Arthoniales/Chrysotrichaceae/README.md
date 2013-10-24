@@ -1,5 +1,4 @@
-Chrysotrichaceae Zahlbr., 1905 FAMILY
-=======
+# Chrysotrichaceae Zahlbr., 1905 FAMILY
 
 #### Status
 ACCEPTED

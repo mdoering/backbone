@@ -1,5 +1,4 @@
-Phyllosticta trappenii Oudem. SPECIES
-=======
+# Phyllosticta trappenii Oudem. SPECIES
 
 #### Status
 ACCEPTED

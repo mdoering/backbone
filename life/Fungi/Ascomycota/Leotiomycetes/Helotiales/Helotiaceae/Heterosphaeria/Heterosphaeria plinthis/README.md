@@ -1,5 +1,4 @@
-Heterosphaeria plinthis Fr. SPECIES
-=======
+# Heterosphaeria plinthis Fr. SPECIES
 
 #### Status
 ACCEPTED

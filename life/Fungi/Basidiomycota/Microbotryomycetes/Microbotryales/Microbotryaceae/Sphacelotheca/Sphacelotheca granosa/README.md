@@ -1,5 +1,4 @@
-Sphacelotheca granosa Liro SPECIES
-=======
+# Sphacelotheca granosa Liro SPECIES
 
 #### Status
 ACCEPTED

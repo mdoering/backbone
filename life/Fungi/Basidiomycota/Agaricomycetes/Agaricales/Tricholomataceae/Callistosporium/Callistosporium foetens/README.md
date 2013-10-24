@@ -1,5 +1,4 @@
-Callistosporium foetens E. Ludw. SPECIES
-=======
+# Callistosporium foetens E. Ludw. SPECIES
 
 #### Status
 ACCEPTED

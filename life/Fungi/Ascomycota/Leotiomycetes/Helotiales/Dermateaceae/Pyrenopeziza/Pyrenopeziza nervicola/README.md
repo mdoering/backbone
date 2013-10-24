@@ -1,14 +1,13 @@
-Peziza nervicola Desm. SPECIES
-=======
+# Pyrenopeziza nervicola (Desm.) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hist. Class. Discom. Eur. (Paris) 133 (1907)
 
 #### Original name
 Peziza nervicola Desm.

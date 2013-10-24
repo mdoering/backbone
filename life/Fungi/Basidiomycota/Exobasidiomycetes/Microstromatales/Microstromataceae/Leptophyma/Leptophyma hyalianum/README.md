@@ -1,5 +1,4 @@
-Leptophyma hyalianum (C. Moreau & M. Moreau) A.B. Pawar & M.S. Patil SPECIES
-=======
+# Leptophyma hyalianum (C. Moreau & M. Moreau) A.B. Pawar & M.S. Patil SPECIES
 
 #### Status
 ACCEPTED

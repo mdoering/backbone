@@ -1,5 +1,4 @@
-Agaricus asperatus Berk. SPECIES
-=======
+# Agaricus asperatus Berk. SPECIES
 
 #### Status
 ACCEPTED

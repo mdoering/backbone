@@ -1,5 +1,4 @@
-Pseudocercospora thailandica Crous, Himaman & M.J. Wingf. SPECIES
-=======
+# Pseudocercospora thailandica Crous, Himaman & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

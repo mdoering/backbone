@@ -1,5 +1,4 @@
-Laboulbenia borealis Speg. SPECIES
-=======
+# Laboulbenia borealis Speg. SPECIES
 
 #### Status
 ACCEPTED

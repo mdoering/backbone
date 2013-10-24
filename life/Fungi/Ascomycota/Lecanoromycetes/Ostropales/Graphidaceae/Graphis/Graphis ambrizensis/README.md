@@ -1,5 +1,4 @@
-Graphis ambrizensis Vain. SPECIES
-=======
+# Graphis ambrizensis Vain. SPECIES
 
 #### Status
 ACCEPTED

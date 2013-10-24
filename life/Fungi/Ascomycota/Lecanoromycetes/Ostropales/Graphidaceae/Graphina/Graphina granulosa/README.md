@@ -1,5 +1,4 @@
-Graphina granulosa Müll. Arg. SPECIES
-=======
+# Graphina granulosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galerula subcrispa Murrill SPECIES
-=======
+# Galerula subcrispa Murrill SPECIES
 
 #### Status
 ACCEPTED

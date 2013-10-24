@@ -1,5 +1,4 @@
-Aecidium lycianthis Cummins SPECIES
-=======
+# Aecidium lycianthis Cummins SPECIES
 
 #### Status
 ACCEPTED

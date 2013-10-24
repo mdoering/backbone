@@ -1,17 +1,16 @@
-Vagnia cirriformia D. Hawksw. & Miadl. SPECIES
-=======
+# Vagnia cirriformis D. Hawksw. & Miadl., 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 29(1): 46 (1997)
 
 #### Original name
-Vagnia cirriformia D. Hawksw. & Miadl.
+Vagnia cirriformis D. Hawksw. & Miadl., 1997
 
 ### Remarks
 null

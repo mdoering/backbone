@@ -1,5 +1,4 @@
-Dothidella calystegiae (Cooke & Harkn.) Theiss. & Syd. SPECIES
-=======
+# Dothidella calystegiae (Cooke & Harkn.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

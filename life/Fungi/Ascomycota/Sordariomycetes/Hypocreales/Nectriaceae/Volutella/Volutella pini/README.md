@@ -1,5 +1,4 @@
-Volutella pini F. Lamb. & Fautrey SPECIES
-=======
+# Volutella pini F. Lamb. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

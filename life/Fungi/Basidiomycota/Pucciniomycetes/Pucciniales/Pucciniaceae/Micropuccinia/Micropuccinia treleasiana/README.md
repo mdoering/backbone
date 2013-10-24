@@ -1,5 +1,4 @@
-Micropuccinia treleasiana (Pazschke) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia treleasiana (Pazschke) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella euphorbiae Niessl ex J. Schröt., 1894 SPECIES
-=======
+# Mycosphaerella euphorbiae Niessl ex J. Schröt., 1894 SPECIES
 
 #### Status
 ACCEPTED

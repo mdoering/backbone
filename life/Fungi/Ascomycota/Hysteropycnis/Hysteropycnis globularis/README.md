@@ -1,5 +1,4 @@
-Hysteropycnis globularis Hilitzer, 1929 SPECIES
-=======
+# Hysteropycnis globularis Hilitzer, 1929 SPECIES
 
 #### Status
 ACCEPTED

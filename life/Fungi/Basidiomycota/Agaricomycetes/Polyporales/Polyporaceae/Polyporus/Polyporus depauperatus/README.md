@@ -1,5 +1,4 @@
-Polyporus depauperatus Pat. SPECIES
-=======
+# Polyporus depauperatus Pat. SPECIES
 
 #### Status
 ACCEPTED

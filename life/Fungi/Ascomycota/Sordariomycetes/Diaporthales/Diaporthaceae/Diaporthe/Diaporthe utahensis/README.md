@@ -1,5 +1,4 @@
-Diaporthe utahensis (Sacc.) Petr. SPECIES
-=======
+# Diaporthe utahensis (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

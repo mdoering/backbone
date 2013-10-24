@@ -1,5 +1,4 @@
-Rickia dichotoma Thaxt. SPECIES
-=======
+# Rickia dichotoma Thaxt. SPECIES
 
 #### Status
 ACCEPTED

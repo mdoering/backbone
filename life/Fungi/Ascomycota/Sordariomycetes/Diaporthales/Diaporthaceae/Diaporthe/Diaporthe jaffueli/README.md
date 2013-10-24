@@ -1,5 +1,4 @@
-Diaporthe jaffueli Speg. SPECIES
-=======
+# Diaporthe jaffueli Speg. SPECIES
 
 #### Status
 ACCEPTED

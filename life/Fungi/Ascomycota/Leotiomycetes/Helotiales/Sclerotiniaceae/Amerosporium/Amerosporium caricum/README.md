@@ -1,5 +1,4 @@
-Amerosporium caricum (Lib.) Sacc. SPECIES
-=======
+# Amerosporium caricum (Lib.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

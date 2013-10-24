@@ -1,5 +1,4 @@
-Clitocybe multiformis (Peck) Sacc. & Traverso SPECIES
-=======
+# Clitocybe multiformis (Peck) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

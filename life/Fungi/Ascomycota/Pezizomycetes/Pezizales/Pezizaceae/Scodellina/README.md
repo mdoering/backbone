@@ -1,5 +1,4 @@
-Scodellina GENUS
-=======
+# Scodellina GENUS
 
 #### Status
 ACCEPTED

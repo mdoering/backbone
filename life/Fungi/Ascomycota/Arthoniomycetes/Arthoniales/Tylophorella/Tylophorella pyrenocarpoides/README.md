@@ -1,5 +1,4 @@
-Tylophorella pyrenocarpoides (Müll. Arg.) Egea SPECIES
-=======
+# Tylophorella pyrenocarpoides (Müll. Arg.) Egea SPECIES
 
 #### Status
 ACCEPTED

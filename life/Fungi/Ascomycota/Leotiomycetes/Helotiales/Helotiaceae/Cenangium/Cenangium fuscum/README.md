@@ -1,5 +1,4 @@
-Cenangium fuscum Bres. SPECIES
-=======
+# Cenangium fuscum Bres. SPECIES
 
 #### Status
 ACCEPTED

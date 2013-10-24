@@ -1,5 +1,4 @@
-Pertusaria globospora A.W. Archer SPECIES
-=======
+# Pertusaria globospora A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

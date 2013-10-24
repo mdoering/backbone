@@ -1,5 +1,4 @@
-Ellisembia ellipsoidea W.P. Wu SPECIES
-=======
+# Ellisembia ellipsoidea W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protospira A.G. Vologdin in A.G. Vologdin & A.I. Strygin, 1969 GENUS
-=======
+# Protospira A.G. Vologdin in A.G. Vologdin & A.I. Strygin, 1969 GENUS
 
 #### Status
 ACCEPTED

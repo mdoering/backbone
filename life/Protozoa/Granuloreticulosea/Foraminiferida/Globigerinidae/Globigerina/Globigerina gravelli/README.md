@@ -1,5 +1,4 @@
-Globigerina gravelli SPECIES
-=======
+# Globigerina gravelli SPECIES
 
 #### Status
 ACCEPTED

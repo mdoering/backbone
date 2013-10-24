@@ -1,5 +1,4 @@
-Catharinia australiana Tassi SPECIES
-=======
+# Catharinia australiana Tassi SPECIES
 
 #### Status
 ACCEPTED

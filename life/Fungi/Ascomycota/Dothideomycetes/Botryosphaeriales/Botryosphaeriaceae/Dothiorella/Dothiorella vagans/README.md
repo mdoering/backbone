@@ -1,5 +1,4 @@
-Dothiorella vagans Speg. SPECIES
-=======
+# Dothiorella vagans Speg. SPECIES
 
 #### Status
 ACCEPTED

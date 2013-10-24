@@ -1,5 +1,4 @@
-Marasmius strictipes (Peck) Singer SPECIES
-=======
+# Marasmius strictipes (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

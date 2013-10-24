@@ -1,5 +1,4 @@
-Biatora beckhausii (Körb.) Tuck. SPECIES
-=======
+# Biatora beckhausii (Körb.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

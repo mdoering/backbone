@@ -1,5 +1,4 @@
-Diplodina mycenastri Hollós SPECIES
-=======
+# Diplodina mycenastri Hollós SPECIES
 
 #### Status
 ACCEPTED

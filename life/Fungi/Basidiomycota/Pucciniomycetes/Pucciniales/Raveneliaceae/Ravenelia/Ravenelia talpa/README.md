@@ -1,5 +1,4 @@
-Ravenelia talpa (Long) Arthur SPECIES
-=======
+# Ravenelia talpa (Long) Arthur SPECIES
 
 #### Status
 ACCEPTED

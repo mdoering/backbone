@@ -1,5 +1,4 @@
-Panaeolus fimicoloides A. Pearson SPECIES
-=======
+# Panaeolus fimicoloides A. Pearson SPECIES
 
 #### Status
 ACCEPTED

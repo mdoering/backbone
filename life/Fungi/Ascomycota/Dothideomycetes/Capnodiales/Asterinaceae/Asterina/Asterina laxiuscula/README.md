@@ -1,14 +1,13 @@
-Parasterina laxiuscula (Syd. & P. Syd.) Bat. & H. Maia SPECIES
-=======
+# Asterina laxiuscula Syd. & P. Syd., 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 15(3/4): 244 (1917)
 
 #### Original name
 Asterina laxiuscula Syd. & P. Syd., 1917

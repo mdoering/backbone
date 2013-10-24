@@ -1,5 +1,4 @@
-Colletotrichum vassiljevskyi Negru SPECIES
-=======
+# Colletotrichum vassiljevskyi Negru SPECIES
 
 #### Status
 ACCEPTED

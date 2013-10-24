@@ -1,5 +1,4 @@
-Inocybe quercina Hongo SPECIES
-=======
+# Inocybe quercina Hongo SPECIES
 
 #### Status
 ACCEPTED

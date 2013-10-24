@@ -1,17 +1,16 @@
-Drechslera hawaiiense Bugnic. ex Subram. & B.L. Jain SPECIES
-=======
+# Cochliobolus hawaiiensis Alcorn, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 70(1): 64 (1978)
 
 #### Original name
-Helminthosporium hawaiiense Bugnic., 1955
+Cochliobolus hawaiiensis Alcorn, 1978
 
 ### Remarks
 null

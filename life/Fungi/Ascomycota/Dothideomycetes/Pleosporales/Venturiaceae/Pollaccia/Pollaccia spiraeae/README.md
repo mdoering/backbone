@@ -1,5 +1,4 @@
-Pollaccia spiraeae (Karak.) Ondrej SPECIES
-=======
+# Pollaccia spiraeae (Karak.) Ondrej SPECIES
 
 #### Status
 ACCEPTED

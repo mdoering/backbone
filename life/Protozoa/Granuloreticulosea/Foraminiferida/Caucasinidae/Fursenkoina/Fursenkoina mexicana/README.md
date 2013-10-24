@@ -1,5 +1,4 @@
-Fursenkoina mexicana SPECIES
-=======
+# Fursenkoina mexicana SPECIES
 
 #### Status
 ACCEPTED

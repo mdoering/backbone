@@ -1,5 +1,4 @@
-Pseudocercospora eriodendri (Racib.) U. Braun SPECIES
-=======
+# Pseudocercospora eriodendri (Racib.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botrydina formosana SPECIES
-=======
+# Botrydina formosana SPECIES
 
 #### Status
 ACCEPTED

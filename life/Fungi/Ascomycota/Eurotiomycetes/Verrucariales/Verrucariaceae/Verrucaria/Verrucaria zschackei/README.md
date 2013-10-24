@@ -1,5 +1,4 @@
-Verrucaria zschackei Riedl SPECIES
-=======
+# Verrucaria zschackei Riedl SPECIES
 
 #### Status
 ACCEPTED

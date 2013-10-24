@@ -1,5 +1,4 @@
-Aecidium equiseti DC. SPECIES
-=======
+# Aecidium equiseti DC. SPECIES
 
 #### Status
 ACCEPTED

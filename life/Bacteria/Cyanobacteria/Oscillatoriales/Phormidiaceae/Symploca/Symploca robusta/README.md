@@ -1,5 +1,4 @@
-Symploca robusta Schwabe SPECIES
-=======
+# Symploca robusta Schwabe SPECIES
 
 #### Status
 ACCEPTED

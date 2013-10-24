@@ -1,5 +1,4 @@
-Helicobacter canis Stanley et al., 1994 SPECIES
-=======
+# Helicobacter canis Stanley et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gonatophragmium epilobii U. Braun & C.F. Hill, 2008 SPECIES
-=======
+# Gonatophragmium epilobii U. Braun & C.F. Hill, 2008 SPECIES
 
 #### Status
 ACCEPTED

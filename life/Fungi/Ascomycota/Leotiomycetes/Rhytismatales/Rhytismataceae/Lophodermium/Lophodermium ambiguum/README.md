@@ -1,17 +1,16 @@
-Lophodermium ambigua Speg. SPECIES
-=======
+# Lophodermium ambiguum Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Boletín de la Academia Nacional de Ciencias de Córdoba 27(4): 380 (1924)
 
 #### Original name
-Lophodermium ambigua Speg.
+Lophodermium ambiguum Speg.
 
 ### Remarks
 null

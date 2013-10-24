@@ -1,5 +1,4 @@
-Meliola palaquiicola Hansf. SPECIES
-=======
+# Meliola palaquiicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

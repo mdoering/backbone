@@ -1,5 +1,4 @@
-Parapeltella subapplanata (Speg.) Bat. SPECIES
-=======
+# Parapeltella subapplanata (Speg.) Bat. SPECIES
 
 #### Status
 ACCEPTED

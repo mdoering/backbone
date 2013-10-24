@@ -1,5 +1,4 @@
-Nolanea mammillata Murrill SPECIES
-=======
+# Nolanea mammillata Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizocarpon variegatum J. Steiner SPECIES
-=======
+# Rhizocarpon variegatum J. Steiner SPECIES
 
 #### Status
 ACCEPTED

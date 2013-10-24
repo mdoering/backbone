@@ -1,5 +1,4 @@
-Chromulina pleiades Parke SPECIES
-=======
+# Chromulina pleiades Parke SPECIES
 
 #### Status
 ACCEPTED

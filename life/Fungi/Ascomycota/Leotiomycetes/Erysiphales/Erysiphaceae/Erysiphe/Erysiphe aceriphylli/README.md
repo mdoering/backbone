@@ -1,5 +1,4 @@
-Erysiphe aceriphylli Golovin & Bunkina SPECIES
-=======
+# Erysiphe aceriphylli Golovin & Bunkina SPECIES
 
 #### Status
 ACCEPTED

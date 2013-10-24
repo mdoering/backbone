@@ -1,5 +1,4 @@
-Strickeria sarhaddensis (Petr.) Koshk. SPECIES
-=======
+# Strickeria sarhaddensis (Petr.) Koshk. SPECIES
 
 #### Status
 ACCEPTED

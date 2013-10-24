@@ -1,5 +1,4 @@
-Passalora liriopes (F.L. Tai) Y.L. Guo SPECIES
-=======
+# Passalora liriopes (F.L. Tai) Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

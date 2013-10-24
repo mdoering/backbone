@@ -1,5 +1,4 @@
-Trichophaea pseudogregaria Rick, 1907 SPECIES
-=======
+# Trichophaea pseudogregaria Rick, 1907 SPECIES
 
 #### Status
 ACCEPTED

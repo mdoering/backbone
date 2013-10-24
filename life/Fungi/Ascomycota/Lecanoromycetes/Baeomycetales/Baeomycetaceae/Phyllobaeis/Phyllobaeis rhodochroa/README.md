@@ -1,14 +1,13 @@
-Baeomyces rhodochrous Kremp. SPECIES
-=======
+# Phyllobaeis rhodochroa (Kremp.) Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 59: 58 (1876)
+Herzogia 9(3-4): 610 (1993)
 
 #### Original name
 Baeomyces rhodochrous Kremp.

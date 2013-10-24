@@ -1,14 +1,13 @@
-Polyporus baudonii Pat., 1914 SPECIES
-=======
+# Laetiporus baudonii (Pat.) Ryvarden, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 30(3): 337 (1914)
+Syn. Fung. (Oslo) 5: 215 (1991)
 
 #### Original name
 Polyporus baudonii Pat., 1914

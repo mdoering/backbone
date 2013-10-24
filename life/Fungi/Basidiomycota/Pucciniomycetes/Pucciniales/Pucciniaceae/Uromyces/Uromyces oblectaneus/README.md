@@ -1,5 +1,4 @@
-Uromyces oblectaneus H.S. Jacks. & Holw. SPECIES
-=======
+# Uromyces oblectaneus H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

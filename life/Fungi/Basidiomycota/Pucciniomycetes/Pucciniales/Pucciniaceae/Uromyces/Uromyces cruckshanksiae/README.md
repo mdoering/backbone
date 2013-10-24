@@ -1,5 +1,4 @@
-Uromyces cruckshanksiae Cummins & Bonar SPECIES
-=======
+# Uromyces cruckshanksiae Cummins & Bonar SPECIES
 
 #### Status
 ACCEPTED

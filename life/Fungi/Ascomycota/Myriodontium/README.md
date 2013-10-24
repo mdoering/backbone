@@ -1,5 +1,4 @@
-Myriodontium Samson & Polonelli, 1978 GENUS
-=======
+# Myriodontium Samson & Polonelli, 1978 GENUS
 
 #### Status
 ACCEPTED

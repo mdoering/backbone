@@ -1,5 +1,4 @@
-Chalciporus pseudorubinus (Thirring) Pilát & Dermek SPECIES
-=======
+# Chalciporus pseudorubinus (Thirring) Pilát & Dermek SPECIES
 
 #### Status
 ACCEPTED

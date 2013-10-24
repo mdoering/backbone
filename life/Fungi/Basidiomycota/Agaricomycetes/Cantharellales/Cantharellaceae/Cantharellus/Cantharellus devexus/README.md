@@ -1,5 +1,4 @@
-Cantharellus devexus (Fr.) Sacc. SPECIES
-=======
+# Cantharellus devexus (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

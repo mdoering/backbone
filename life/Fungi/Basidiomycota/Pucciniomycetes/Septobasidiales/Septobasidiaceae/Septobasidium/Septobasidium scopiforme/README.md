@@ -1,5 +1,4 @@
-Septobasidium scopiforme Pat. SPECIES
-=======
+# Septobasidium scopiforme Pat. SPECIES
 
 #### Status
 ACCEPTED

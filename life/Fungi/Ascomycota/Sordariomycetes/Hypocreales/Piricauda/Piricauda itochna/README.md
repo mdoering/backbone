@@ -1,5 +1,4 @@
-Piricauda itochna R.T. Moore SPECIES
-=======
+# Piricauda itochna R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

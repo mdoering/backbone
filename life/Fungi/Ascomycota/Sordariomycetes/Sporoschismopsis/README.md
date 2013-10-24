@@ -1,5 +1,4 @@
-Sporoschismopsis Hol.-Jech. & Hennebert GENUS
-=======
+# Sporoschismopsis Hol.-Jech. & Hennebert GENUS
 
 #### Status
 ACCEPTED

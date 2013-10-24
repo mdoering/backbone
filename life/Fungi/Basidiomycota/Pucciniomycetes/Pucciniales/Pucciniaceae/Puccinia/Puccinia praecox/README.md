@@ -1,5 +1,4 @@
-Puccinia praecox Bubák SPECIES
-=======
+# Puccinia praecox Bubák SPECIES
 
 #### Status
 ACCEPTED

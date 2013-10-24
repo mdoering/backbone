@@ -1,5 +1,4 @@
-Nectria fusarioides Berk. SPECIES
-=======
+# Nectria fusarioides Berk. SPECIES
 
 #### Status
 ACCEPTED

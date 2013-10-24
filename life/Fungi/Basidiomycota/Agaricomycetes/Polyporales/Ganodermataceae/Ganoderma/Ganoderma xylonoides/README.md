@@ -1,5 +1,4 @@
-Ganoderma xylonoides Steyaert SPECIES
-=======
+# Ganoderma xylonoides Steyaert SPECIES
 
 #### Status
 ACCEPTED

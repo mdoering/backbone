@@ -1,5 +1,4 @@
-Dictyochora paspali F. Stevens SPECIES
-=======
+# Dictyochora paspali F. Stevens SPECIES
 
 #### Status
 ACCEPTED

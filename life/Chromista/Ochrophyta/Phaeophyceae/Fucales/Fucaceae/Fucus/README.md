@@ -1,5 +1,4 @@
-Fucus L. GENUS
-=======
+# Fucus L. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus arcuatifolius Britzelm. SPECIES
-=======
+# Agaricus arcuatifolius Britzelm. SPECIES
 
 #### Status
 ACCEPTED

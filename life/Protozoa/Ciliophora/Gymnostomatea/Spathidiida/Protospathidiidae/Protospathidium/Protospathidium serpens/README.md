@@ -1,5 +1,4 @@
-Protospathidium serpens (Kahl, 1930) Foissner, 1981 SPECIES
-=======
+# Protospathidium serpens (Kahl, 1930) Foissner, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Comasphaeridium profusum (Wicander, 1974) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Comasphaeridium profusum (Wicander, 1974) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

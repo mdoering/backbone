@@ -1,5 +1,4 @@
-Edhazardia aedis (R. Kudo) J.J. Becnel, V.Sprague & T. Fukuda SPECIES
-=======
+# Edhazardia aedis (R. Kudo) J.J. Becnel, V.Sprague & T. Fukuda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella earliana G. Winter SPECIES
-=======
+# Sphaerella earliana G. Winter SPECIES
 
 #### Status
 ACCEPTED

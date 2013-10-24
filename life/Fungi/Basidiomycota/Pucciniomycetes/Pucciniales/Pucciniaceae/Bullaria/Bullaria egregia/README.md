@@ -1,5 +1,4 @@
-Bullaria egregia (Arthur) Arthur & Mains SPECIES
-=======
+# Bullaria egregia (Arthur) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

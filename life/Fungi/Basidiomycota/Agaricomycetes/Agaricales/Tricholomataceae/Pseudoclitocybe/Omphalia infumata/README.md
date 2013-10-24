@@ -1,5 +1,4 @@
-Omphalia infumata (Berk. & Broome) Sacc. SPECIES
-=======
+# Omphalia infumata (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tuckermanopsis oakesiana (Tuck.) Hale SPECIES
-=======
+# Tuckermanopsis oakesiana (Tuck.) Hale SPECIES
 
 #### Status
 ACCEPTED

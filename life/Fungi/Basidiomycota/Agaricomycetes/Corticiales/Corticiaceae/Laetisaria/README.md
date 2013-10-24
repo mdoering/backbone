@@ -1,5 +1,4 @@
-Laetisaria Burdsall, 1979 GENUS
-=======
+# Laetisaria Burdsall, 1979 GENUS
 
 #### Status
 ACCEPTED

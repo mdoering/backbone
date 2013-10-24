@@ -1,5 +1,4 @@
-Leucocoprinus elaeidis (Beeli) Heinem. SPECIES
-=======
+# Leucocoprinus elaeidis (Beeli) Heinem. SPECIES
 
 #### Status
 ACCEPTED

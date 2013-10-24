@@ -1,5 +1,4 @@
-Porina dissipans (Nyl.) Imshaug SPECIES
-=======
+# Porina dissipans (Nyl.) Imshaug SPECIES
 
 #### Status
 ACCEPTED

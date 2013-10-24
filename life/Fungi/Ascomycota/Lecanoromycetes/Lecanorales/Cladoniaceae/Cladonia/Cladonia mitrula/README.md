@@ -1,5 +1,4 @@
-Cladonia mitrula Tuck. SPECIES
-=======
+# Cladonia mitrula Tuck. SPECIES
 
 #### Status
 ACCEPTED

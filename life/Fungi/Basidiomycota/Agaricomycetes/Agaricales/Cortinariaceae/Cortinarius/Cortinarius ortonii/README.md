@@ -1,5 +1,4 @@
-Cortinarius ortonii Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius ortonii Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urceolaria microlepis (Körb.) Motyka SPECIES
-=======
+# Urceolaria microlepis (Körb.) Motyka SPECIES
 
 #### Status
 ACCEPTED

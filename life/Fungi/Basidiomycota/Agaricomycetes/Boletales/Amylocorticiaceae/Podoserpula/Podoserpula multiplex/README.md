@@ -1,5 +1,4 @@
-Podoserpula multiplex var. multiplex (Cooke & Massee) VARIETY
-=======
+# Podoserpula multiplex (Cooke & Massee) SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Podoserpula multiplex var. multiplex (Cooke & Massee)
+Craterellus multiplex Cooke & Massee, 1889
 
 ### Remarks
 null

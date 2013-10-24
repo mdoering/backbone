@@ -1,5 +1,4 @@
-Sirobasidium rubrofuscum (Berk.) P. Roberts SPECIES
-=======
+# Sirobasidium rubrofuscum (Berk.) P. Roberts SPECIES
 
 #### Status
 ACCEPTED

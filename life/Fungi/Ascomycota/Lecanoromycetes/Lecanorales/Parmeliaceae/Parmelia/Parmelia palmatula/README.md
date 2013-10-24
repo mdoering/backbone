@@ -1,5 +1,4 @@
-Parmelia palmatula SPECIES
-=======
+# Parmelia palmatula SPECIES
 
 #### Status
 ACCEPTED

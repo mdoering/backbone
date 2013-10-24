@@ -1,5 +1,4 @@
-Proliferobasidium J.L. Cunn. GENUS
-=======
+# Proliferobasidium J.L. Cunn. GENUS
 
 #### Status
 ACCEPTED

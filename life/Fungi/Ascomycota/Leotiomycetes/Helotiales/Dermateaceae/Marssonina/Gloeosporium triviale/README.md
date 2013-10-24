@@ -1,5 +1,4 @@
-Gloeosporium triviale Speg. SPECIES
-=======
+# Gloeosporium triviale Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarosporium punctiforme Cooke & Massee SPECIES
-=======
+# Camarosporium punctiforme Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

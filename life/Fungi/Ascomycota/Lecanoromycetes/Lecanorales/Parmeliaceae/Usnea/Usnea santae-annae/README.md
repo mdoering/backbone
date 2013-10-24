@@ -1,5 +1,4 @@
-Usnea santae-annae Motyka SPECIES
-=======
+# Usnea santae-annae Motyka SPECIES
 
 #### Status
 ACCEPTED

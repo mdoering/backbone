@@ -1,5 +1,4 @@
-Aphanobasidium aurobisporum Boidin & Gilles, 1989 SPECIES
-=======
+# Aphanobasidium aurobisporum Boidin & Gilles, 1989 SPECIES
 
 #### Status
 ACCEPTED

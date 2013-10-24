@@ -1,5 +1,4 @@
-Asterina bosmanae Doidge SPECIES
-=======
+# Asterina bosmanae Doidge SPECIES
 
 #### Status
 ACCEPTED

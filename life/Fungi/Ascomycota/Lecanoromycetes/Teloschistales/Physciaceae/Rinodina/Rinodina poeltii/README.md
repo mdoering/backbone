@@ -1,5 +1,4 @@
-Rinodina poeltii H. Mayrhofer SPECIES
-=======
+# Rinodina poeltii H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

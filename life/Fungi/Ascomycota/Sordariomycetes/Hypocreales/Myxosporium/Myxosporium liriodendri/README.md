@@ -1,5 +1,4 @@
-Myxosporium liriodendri Dearn. & House SPECIES
-=======
+# Myxosporium liriodendri Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

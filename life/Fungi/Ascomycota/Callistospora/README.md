@@ -1,5 +1,4 @@
-Callistospora Petr. GENUS
-=======
+# Callistospora Petr. GENUS
 
 #### Status
 ACCEPTED

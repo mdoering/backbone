@@ -1,14 +1,13 @@
-Odontia indica (Sacc. & P. Syd.) Rick, 1933 SPECIES
-=======
+# Cystidiodontia artocreas (Berk. & M.A. Curtis ex Cooke) Hjortstam, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Egatea 18: 127 (1933)
+Mycotaxon 17: 571 (1983)
 
 #### Original name
 Hydnum artocreas Berk., 1892

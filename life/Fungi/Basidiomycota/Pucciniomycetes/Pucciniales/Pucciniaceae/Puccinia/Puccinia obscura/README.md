@@ -1,17 +1,16 @@
-Puccinia obscura f. sp FORM
-=======
+# Puccinia obscura J. Schröt., 1877 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nuovo Giorn. Bot. Ital. 9: 256 (1877)
 
 #### Original name
-Puccinia obscura f. sp
+Puccinia obscura J. Schröt., 1877
 
 ### Remarks
 null

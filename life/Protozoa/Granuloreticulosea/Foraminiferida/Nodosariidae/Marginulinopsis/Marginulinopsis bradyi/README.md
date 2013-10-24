@@ -1,5 +1,4 @@
-Marginulinopsis bradyi (Goes) SPECIES
-=======
+# Marginulinopsis bradyi (Goes) SPECIES
 
 #### Status
 ACCEPTED

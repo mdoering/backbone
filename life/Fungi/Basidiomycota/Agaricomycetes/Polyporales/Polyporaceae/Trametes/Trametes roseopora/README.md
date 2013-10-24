@@ -1,5 +1,4 @@
-Trametes roseopora Lloyd SPECIES
-=======
+# Trametes roseopora Lloyd SPECIES
 
 #### Status
 ACCEPTED

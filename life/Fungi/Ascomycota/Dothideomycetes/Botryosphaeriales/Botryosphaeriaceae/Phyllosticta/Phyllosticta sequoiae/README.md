@@ -1,5 +1,4 @@
-Phyllosticta sequoiae Zhilina SPECIES
-=======
+# Phyllosticta sequoiae Zhilina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus emodensis Berk. SPECIES
-=======
+# Boletus emodensis Berk. SPECIES
 
 #### Status
 ACCEPTED

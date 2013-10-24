@@ -1,5 +1,4 @@
-Buellia dialytoides Vain. SPECIES
-=======
+# Buellia dialytoides Vain. SPECIES
 
 #### Status
 ACCEPTED

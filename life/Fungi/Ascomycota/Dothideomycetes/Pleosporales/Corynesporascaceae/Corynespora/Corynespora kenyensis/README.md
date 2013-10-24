@@ -1,5 +1,4 @@
-Corynespora kenyensis Siboe, P.M. Kirk & P.F. Cannon SPECIES
-=======
+# Corynespora kenyensis Siboe, P.M. Kirk & P.F. Cannon SPECIES
 
 #### Status
 ACCEPTED

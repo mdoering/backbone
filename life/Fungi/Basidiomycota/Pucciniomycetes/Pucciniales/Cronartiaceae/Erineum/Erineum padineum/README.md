@@ -1,5 +1,4 @@
-Erineum padineum Fr. SPECIES
-=======
+# Erineum padineum Fr. SPECIES
 
 #### Status
 ACCEPTED

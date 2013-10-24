@@ -1,5 +1,4 @@
-Subsilicea fragilarioides H.A. von Stosch & B.E.F. Reimann SPECIES
-=======
+# Subsilicea fragilarioides H.A. von Stosch & B.E.F. Reimann SPECIES
 
 #### Status
 ACCEPTED

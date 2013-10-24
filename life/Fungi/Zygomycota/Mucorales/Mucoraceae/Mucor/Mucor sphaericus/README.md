@@ -1,5 +1,4 @@
-Mucor sphaericus Gled. SPECIES
-=======
+# Mucor sphaericus Gled. SPECIES
 
 #### Status
 ACCEPTED

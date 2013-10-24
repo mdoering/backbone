@@ -1,5 +1,4 @@
-Penicillium nordicum Dragoni & Cantoni ex C. Ramírez SPECIES
-=======
+# Penicillium nordicum Dragoni & Cantoni ex C. Ramírez SPECIES
 
 #### Status
 ACCEPTED

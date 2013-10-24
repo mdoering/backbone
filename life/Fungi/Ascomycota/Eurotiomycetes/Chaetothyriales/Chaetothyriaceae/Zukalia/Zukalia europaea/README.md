@@ -1,5 +1,4 @@
-Zukalia europaea Höhn. SPECIES
-=======
+# Zukalia europaea Höhn. SPECIES
 
 #### Status
 ACCEPTED

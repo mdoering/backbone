@@ -1,5 +1,4 @@
-Pseudocarchesium rhyacophilae SPECIES
-=======
+# Pseudocarchesium rhyacophilae SPECIES
 
 #### Status
 ACCEPTED

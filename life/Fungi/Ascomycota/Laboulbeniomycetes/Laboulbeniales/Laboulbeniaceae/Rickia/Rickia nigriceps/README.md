@@ -1,5 +1,4 @@
-Rickia nigriceps Thaxt. SPECIES
-=======
+# Rickia nigriceps Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thrombium jonaspidis Stein SPECIES
-=======
+# Thrombium jonaspidis Stein SPECIES
 
 #### Status
 ACCEPTED

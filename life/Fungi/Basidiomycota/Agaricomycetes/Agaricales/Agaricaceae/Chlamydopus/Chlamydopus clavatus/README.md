@@ -1,14 +1,13 @@
-Tulostoma clavatum (Speg.) Sacc. & P. Syd., 1902 SPECIES
-=======
+# Chlamydopus clavatus Speg., 1898 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 16: 234 (1902)
+Anal. Mus. nac. Hist. nat. B. Aires 6(3): 189 (1889)
 
 #### Original name
 Chlamydopus clavatus Speg., 1898

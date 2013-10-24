@@ -1,5 +1,4 @@
-Liosphaera antarctica Nakaseko, 1959 SPECIES
-=======
+# Liosphaera antarctica Nakaseko, 1959 SPECIES
 
 #### Status
 ACCEPTED

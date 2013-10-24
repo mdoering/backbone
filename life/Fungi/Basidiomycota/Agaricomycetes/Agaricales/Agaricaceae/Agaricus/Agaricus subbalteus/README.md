@@ -1,5 +1,4 @@
-Agaricus subbalteus Berk. & Broome SPECIES
-=======
+# Agaricus subbalteus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

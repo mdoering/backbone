@@ -1,5 +1,4 @@
-Puccinia dyssodiae Cummins SPECIES
-=======
+# Puccinia dyssodiae Cummins SPECIES
 
 #### Status
 ACCEPTED

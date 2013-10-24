@@ -1,5 +1,4 @@
-Parmelia geckonalis Brusse SPECIES
-=======
+# Parmelia geckonalis Brusse SPECIES
 
 #### Status
 ACCEPTED

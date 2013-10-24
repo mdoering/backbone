@@ -1,5 +1,4 @@
-Trogia aurantiphylla Corner SPECIES
-=======
+# Trogia aurantiphylla Corner SPECIES
 
 #### Status
 ACCEPTED

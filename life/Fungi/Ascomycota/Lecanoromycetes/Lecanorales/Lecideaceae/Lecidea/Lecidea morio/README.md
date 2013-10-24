@@ -1,5 +1,4 @@
-Lecidea morio (Duby) Fr. SPECIES
-=======
+# Lecidea morio (Duby) Fr. SPECIES
 
 #### Status
 ACCEPTED

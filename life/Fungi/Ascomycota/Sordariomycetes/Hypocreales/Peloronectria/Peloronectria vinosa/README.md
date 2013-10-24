@@ -1,5 +1,4 @@
-Peloronectria vinosa Möller, 1901 SPECIES
-=======
+# Peloronectria vinosa Möller, 1901 SPECIES
 
 #### Status
 ACCEPTED

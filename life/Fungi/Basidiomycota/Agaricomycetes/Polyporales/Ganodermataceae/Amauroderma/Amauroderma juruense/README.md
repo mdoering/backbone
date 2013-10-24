@@ -1,5 +1,4 @@
-Amauroderma juruense (Henn.) Torrend SPECIES
-=======
+# Amauroderma juruense (Henn.) Torrend SPECIES
 
 #### Status
 ACCEPTED

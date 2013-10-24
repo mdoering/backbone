@@ -1,5 +1,4 @@
-Sepultaria longii Seaver SPECIES
-=======
+# Sepultaria longii Seaver SPECIES
 
 #### Status
 ACCEPTED

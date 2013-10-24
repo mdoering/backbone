@@ -1,5 +1,4 @@
-Septobasidium papyraceum Couch SPECIES
-=======
+# Septobasidium papyraceum Couch SPECIES
 
 #### Status
 ACCEPTED

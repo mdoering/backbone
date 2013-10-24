@@ -1,5 +1,4 @@
-Pseudocercospora saniculae-europaeae (E. Müll. & Arx) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora saniculae-europaeae (E. Müll. & Arx) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

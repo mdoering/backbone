@@ -1,5 +1,4 @@
-Mitrula rufa (Schwein.) Sacc. SPECIES
-=======
+# Mitrula rufa (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

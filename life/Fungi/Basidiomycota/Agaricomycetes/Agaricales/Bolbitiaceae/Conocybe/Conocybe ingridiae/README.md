@@ -1,5 +1,4 @@
-Conocybe ingridiae Hauskn. SPECIES
-=======
+# Conocybe ingridiae Hauskn. SPECIES
 
 #### Status
 ACCEPTED

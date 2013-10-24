@@ -1,5 +1,4 @@
-Septobasidium cinnamomeum Burt SPECIES
-=======
+# Septobasidium cinnamomeum Burt SPECIES
 
 #### Status
 ACCEPTED

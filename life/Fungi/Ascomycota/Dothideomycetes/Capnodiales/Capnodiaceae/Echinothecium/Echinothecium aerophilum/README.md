@@ -1,5 +1,4 @@
-Echinothecium aerophilum Alstrup & M.S. Cole SPECIES
-=======
+# Echinothecium aerophilum Alstrup & M.S. Cole SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phomatospora crepiniana (Sacc. & Marchal) Theiss., 1917 SPECIES
-=======
+# Physalospora empetri Rostr., 1901 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 14(6): 418 (1917)
+Botany of the Faroes 1: 310 (1901)
 
 #### Original name
-Physalospora crepiniana (Sacc. & Marchal) Mussat, 1900
+Physalospora empetri Rostr., 1901
 
 ### Remarks
 null

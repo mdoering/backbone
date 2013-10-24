@@ -1,5 +1,4 @@
-Boletus coniferarum Lebedeva SPECIES
-=======
+# Boletus coniferarum Lebedeva SPECIES
 
 #### Status
 ACCEPTED

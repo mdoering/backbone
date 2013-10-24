@@ -1,5 +1,4 @@
-Dictyothyriella harmsiana (Henn.) F. Stevens & Manter SPECIES
-=======
+# Dictyothyriella harmsiana (Henn.) F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Golovinia stenobrocha (Drechsler) Mekht. SPECIES
-=======
+# Golovinia stenobrocha (Drechsler) Mekht. SPECIES
 
 #### Status
 ACCEPTED

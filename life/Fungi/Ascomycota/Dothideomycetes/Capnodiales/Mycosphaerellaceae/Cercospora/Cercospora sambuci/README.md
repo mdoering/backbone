@@ -1,5 +1,4 @@
-Cercospora sambuci Y.L. Guo & Y. Jiang SPECIES
-=======
+# Cercospora sambuci Y.L. Guo & Y. Jiang SPECIES
 
 #### Status
 ACCEPTED

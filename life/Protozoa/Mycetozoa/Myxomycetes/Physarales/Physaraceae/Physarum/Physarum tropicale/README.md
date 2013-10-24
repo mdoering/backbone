@@ -1,5 +1,4 @@
-Physarum tropicale T. Macbr., 1899 SPECIES
-=======
+# Physarum tropicale T. Macbr., 1899 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peridictyocysta I.C. Cookson & A. Eisenack, 1974 GENUS
-=======
+# Peridictyocysta I.C. Cookson & A. Eisenack, 1974 GENUS
 
 #### Status
 ACCEPTED

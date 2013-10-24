@@ -1,5 +1,4 @@
-Hypodermium stellarium Link SPECIES
-=======
+# Hypodermium stellarium Link SPECIES
 
 #### Status
 ACCEPTED

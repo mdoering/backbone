@@ -1,5 +1,4 @@
-Daturellina Radoicic, 1959 GENUS
-=======
+# Daturellina Radoicic, 1959 GENUS
 
 #### Status
 ACCEPTED

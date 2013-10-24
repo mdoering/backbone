@@ -1,14 +1,13 @@
-Hypoxylon bunodes (Berk. & Broome) P.M.D. Martin, 1967 SPECIES
-=======
+# Rosellinia bunodes (Berk. & Broome) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jl S. Afr. Bot. 33: 327 (1967)
+Syll. fung. (Abellini) 1: 254 (1882)
 
 #### Original name
 Sphaeria bunodes Berk. & Broome, 1875

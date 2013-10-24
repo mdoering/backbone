@@ -1,5 +1,4 @@
-Patellaria berberidis Velen. SPECIES
-=======
+# Patellaria berberidis Velen. SPECIES
 
 #### Status
 ACCEPTED

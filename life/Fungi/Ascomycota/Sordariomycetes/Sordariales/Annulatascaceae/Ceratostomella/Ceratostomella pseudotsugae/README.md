@@ -1,5 +1,4 @@
-Ceratostomella pseudotsugae Rumbold SPECIES
-=======
+# Ceratostomella pseudotsugae Rumbold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycovellosiella rhoidis Y.L. Guo & Y. Jiang SPECIES
-=======
+# Mycovellosiella rhoidis Y.L. Guo & Y. Jiang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces bulbines Thüm. SPECIES
-=======
+# Uromyces bulbines Thüm. SPECIES
 
 #### Status
 ACCEPTED

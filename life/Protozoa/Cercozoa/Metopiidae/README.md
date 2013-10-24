@@ -1,5 +1,4 @@
-Metopiidae Cavalier-Smith, 2003 FAMILY
-=======
+# Metopiidae Cavalier-Smith, 2003 FAMILY
 
 #### Status
 ACCEPTED

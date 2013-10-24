@@ -1,5 +1,4 @@
-Refractohilum galligenum D. Hawksw., 1977 SPECIES
-=======
+# Refractohilum galligenum D. Hawksw., 1977 SPECIES
 
 #### Status
 ACCEPTED

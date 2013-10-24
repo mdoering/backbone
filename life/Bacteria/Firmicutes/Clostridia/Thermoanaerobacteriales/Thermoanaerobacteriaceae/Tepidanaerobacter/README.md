@@ -1,5 +1,4 @@
-Tepidanaerobacter Sekiguchi et al., 2006 GENUS
-=======
+# Tepidanaerobacter Sekiguchi et al., 2006 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mayorella gemmifera Schaeffer, 1926 SPECIES
-=======
+# Mayorella gemmifera Schaeffer, 1926 SPECIES
 
 #### Status
 ACCEPTED

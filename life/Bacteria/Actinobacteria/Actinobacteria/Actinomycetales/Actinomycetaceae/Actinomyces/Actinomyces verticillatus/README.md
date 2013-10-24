@@ -1,5 +1,4 @@
-Actinomyces verticillatus subsp. verticillatus SUBSPECIES
-=======
+# Actinomyces verticillatus anon. ined. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Actinomyces verticillatus subsp. verticillatus
+Actinomyces verticillatus anon. ined.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Caeoma schlechtendalii Klotzsch SPECIES
-=======
+# Caeoma schlechtendalii Klotzsch SPECIES
 
 #### Status
 ACCEPTED

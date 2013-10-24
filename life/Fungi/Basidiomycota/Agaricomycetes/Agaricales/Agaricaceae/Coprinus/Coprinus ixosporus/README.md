@@ -1,5 +1,4 @@
-Coprinus ixosporus Locq. SPECIES
-=======
+# Coprinus ixosporus Locq. SPECIES
 
 #### Status
 ACCEPTED

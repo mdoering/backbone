@@ -1,5 +1,4 @@
-Fusarium inseptatum Schwein. SPECIES
-=======
+# Fusarium inseptatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

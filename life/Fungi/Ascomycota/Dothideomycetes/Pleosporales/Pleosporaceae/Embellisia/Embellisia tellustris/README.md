@@ -1,5 +1,4 @@
-Embellisia tellustris E.G. Simmons, 1983 SPECIES
-=======
+# Embellisia tellustris E.G. Simmons, 1983 SPECIES
 
 #### Status
 ACCEPTED

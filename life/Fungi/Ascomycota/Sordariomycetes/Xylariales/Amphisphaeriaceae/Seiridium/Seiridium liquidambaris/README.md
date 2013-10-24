@@ -1,5 +1,4 @@
-Seiridium liquidambaris Berk. & M.A. Curtis SPECIES
-=======
+# Seiridium liquidambaris Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

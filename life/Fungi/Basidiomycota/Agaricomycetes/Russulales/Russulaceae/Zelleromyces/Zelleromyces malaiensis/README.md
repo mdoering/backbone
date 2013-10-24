@@ -1,14 +1,13 @@
-Zelleromyces maliensis (Corner & Hawker) A.H. Sm. SPECIES
-=======
+# Zelleromyces malaiensis (Corner & Hawker) A.H. Sm., 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 54(6): 636 (1963)
 
 #### Original name
 Arcangeliella malaiensis Corner & Hawker, 1953

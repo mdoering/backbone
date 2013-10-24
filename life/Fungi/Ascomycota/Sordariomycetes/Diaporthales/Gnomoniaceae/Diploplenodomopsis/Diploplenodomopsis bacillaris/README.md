@@ -1,5 +1,4 @@
-Diploplenodomopsis bacillaris (Sacc.) Petr. & Syd. SPECIES
-=======
+# Diploplenodomopsis bacillaris (Sacc.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

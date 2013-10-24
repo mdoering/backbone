@@ -1,5 +1,4 @@
-Ramalina floccosa Delile SPECIES
-=======
+# Ramalina floccosa Delile SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endogone tjibodensis Boedijn SPECIES
-=======
+# Endogone tjibodensis Boedijn SPECIES
 
 #### Status
 ACCEPTED

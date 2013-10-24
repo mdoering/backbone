@@ -1,5 +1,4 @@
-Petersenia pollogaster (Petersen) Sparrow, 1943 SPECIES
-=======
+# Petersenia pollogaster (Petersen) Sparrow, 1943 SPECIES
 
 #### Status
 ACCEPTED

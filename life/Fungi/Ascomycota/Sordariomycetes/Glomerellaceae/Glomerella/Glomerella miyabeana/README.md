@@ -1,5 +1,4 @@
-Glomerella miyabeana (Fukushi) Arx, 1957 SPECIES
-=======
+# Glomerella miyabeana (Fukushi) Arx, 1957 SPECIES
 
 #### Status
 ACCEPTED

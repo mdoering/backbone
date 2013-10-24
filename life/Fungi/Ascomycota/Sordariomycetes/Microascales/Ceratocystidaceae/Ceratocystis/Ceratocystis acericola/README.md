@@ -1,5 +1,4 @@
-Ceratocystis acericola H.D. Griffin SPECIES
-=======
+# Ceratocystis acericola H.D. Griffin SPECIES
 
 #### Status
 ACCEPTED

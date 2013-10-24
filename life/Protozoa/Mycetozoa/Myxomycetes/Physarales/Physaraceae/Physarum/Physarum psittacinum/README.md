@@ -1,17 +1,16 @@
-Physarum psittacinum var. fulvum Lister & G. Lister VARIETY
-=======
+# Physarum psittacinum Ditmar, 1817 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. 44: 228 (1906)
+in Sturm, Deutschl. Fl. , 3 Abt. (Pilze Deutschl. ) 1(4): 125 (1817)
 
 #### Original name
-Physarum psittacinum var. fulvum Lister & G. Lister
+Physarum psittacinum Ditmar, 1817
 
 ### Remarks
 null

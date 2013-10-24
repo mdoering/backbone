@@ -1,5 +1,4 @@
-Saccharomyces acidi-lactici Grotenf. SPECIES
-=======
+# Saccharomyces acidi-lactici Grotenf. SPECIES
 
 #### Status
 ACCEPTED

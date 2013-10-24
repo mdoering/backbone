@@ -1,14 +1,13 @@
-Descolea flavo-annulata (Lj.N. Vassiljeva) E. Horak SPECIES
-=======
+# Descolea flavoannulata (Lj.N. Vassiljeva) E. Horak SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Persoonia 6(2): 246 (1971)
 
 #### Original name
 Rozites flavoannulata Lj.N. Vassiljeva

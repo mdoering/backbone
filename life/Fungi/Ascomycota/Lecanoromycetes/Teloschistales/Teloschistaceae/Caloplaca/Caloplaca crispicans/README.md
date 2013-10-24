@@ -1,5 +1,4 @@
-Caloplaca crispicans (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca crispicans (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

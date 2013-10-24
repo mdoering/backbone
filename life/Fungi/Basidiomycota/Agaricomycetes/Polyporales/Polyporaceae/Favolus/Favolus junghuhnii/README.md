@@ -1,5 +1,4 @@
-Favolus junghuhnii Lév. SPECIES
-=======
+# Favolus junghuhnii Lév. SPECIES
 
 #### Status
 ACCEPTED

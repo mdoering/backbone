@@ -1,5 +1,4 @@
-Lophiosphaera forojuliensis Berl. SPECIES
-=======
+# Lophiosphaera forojuliensis Berl. SPECIES
 
 #### Status
 ACCEPTED

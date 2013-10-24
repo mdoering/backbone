@@ -1,5 +1,4 @@
-Teratonema corniculariiforme (Henn.) Syd. & P. Syd. SPECIES
-=======
+# Teratonema corniculariiforme (Henn.) Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

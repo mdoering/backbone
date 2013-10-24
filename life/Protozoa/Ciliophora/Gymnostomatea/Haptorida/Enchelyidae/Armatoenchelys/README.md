@@ -1,5 +1,4 @@
-Armatoenchelys GENUS
-=======
+# Armatoenchelys GENUS
 
 #### Status
 ACCEPTED

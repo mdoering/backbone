@@ -1,5 +1,4 @@
-Euphoriomyces bilateralis Thaxt., 1931 SPECIES
-=======
+# Euphoriomyces bilateralis Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

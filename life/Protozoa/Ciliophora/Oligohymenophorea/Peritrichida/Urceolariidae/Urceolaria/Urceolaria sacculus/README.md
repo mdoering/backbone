@@ -1,5 +1,4 @@
-Urceolaria sacculus (Müller, 1786) Bory SPECIES
-=======
+# Urceolaria sacculus (Müller, 1786) Bory SPECIES
 
 #### Status
 ACCEPTED

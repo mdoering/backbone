@@ -1,5 +1,4 @@
-Turaensis Pronina, 1970 GENUS
-=======
+# Turaensis Pronina, 1970 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plectinella Marie, 1956 GENUS
-=======
+# Plectinella Marie, 1956 GENUS
 
 #### Status
 ACCEPTED

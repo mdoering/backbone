@@ -1,5 +1,4 @@
-Sphaeria entaxia Cooke & Ellis SPECIES
-=======
+# Sphaeria entaxia Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

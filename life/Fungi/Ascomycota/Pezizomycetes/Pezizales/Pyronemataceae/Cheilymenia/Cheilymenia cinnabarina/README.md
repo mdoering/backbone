@@ -1,14 +1,13 @@
-Peziza cinnabarina Schwein., 1832 SPECIES
-=======
+# Cheilymenia cinnabarina (Schwein.) Rea, 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. Fung. Amer. bor. 173 (1832)
+null
 
 #### Original name
 Peziza cinnabarina Schwein., 1832

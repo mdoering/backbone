@@ -1,5 +1,4 @@
-Clavibacter michiganensis subsp. michiganensis SUBSPECIES
-=======
+# Clavibacter michiganensis SPECIES
 
 #### Status
 ACCEPTED

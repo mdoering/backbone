@@ -1,5 +1,4 @@
-Euceramia Bat. & Cif. GENUS
-=======
+# Euceramia Bat. & Cif. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ostracoderma pulvinatum Fr., 1825 SPECIES
-=======
+# Ostracoderma pulvinatum Fr., 1825 SPECIES
 
 #### Status
 ACCEPTED

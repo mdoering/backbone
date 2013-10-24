@@ -1,5 +1,4 @@
-Cercospora muntingiae Petr. & Cif. SPECIES
-=======
+# Cercospora muntingiae Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

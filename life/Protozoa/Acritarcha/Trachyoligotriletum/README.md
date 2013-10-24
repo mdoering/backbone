@@ -1,5 +1,4 @@
-Trachyoligotriletum GENUS
-=======
+# Trachyoligotriletum GENUS
 
 #### Status
 ACCEPTED

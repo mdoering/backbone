@@ -1,5 +1,4 @@
-Lactarius xanthydrorheus Singer SPECIES
-=======
+# Lactarius xanthydrorheus Singer SPECIES
 
 #### Status
 ACCEPTED

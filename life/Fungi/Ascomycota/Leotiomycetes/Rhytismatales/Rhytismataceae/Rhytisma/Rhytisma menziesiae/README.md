@@ -1,5 +1,4 @@
-Rhytisma menziesiae Koval SPECIES
-=======
+# Rhytisma menziesiae Koval SPECIES
 
 #### Status
 ACCEPTED

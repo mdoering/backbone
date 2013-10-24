@@ -1,17 +1,16 @@
-Tubulicrinis cincta G. Cunn. SPECIES
-=======
+# Tubulicrinis cinctus G. Cunn., 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. N. Z. Dept. Sci. Industr. Res. , Pl. Dis. Div. 145: 142 (1963)
 
 #### Original name
-Tubulicrinis cincta G. Cunn.
+Tubulicrinis cinctus G. Cunn., 1963
 
 ### Remarks
 null

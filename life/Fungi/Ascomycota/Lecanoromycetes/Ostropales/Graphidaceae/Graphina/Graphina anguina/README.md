@@ -1,17 +1,16 @@
-Graphina anguina var. anguina (Mont.) Müll. Arg. VARIETY
-=======
+# Graphina anguina (Mont.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 65: 385 (1882)
 
 #### Original name
-Graphina anguina var. anguina (Mont.) Müll. Arg.
+Ustalia anguina
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Diplopsalis borealis Paulsen SPECIES
-=======
+# Diplopsalis borealis Paulsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cancellidium applanatum Tubaki, 1975 SPECIES
-=======
+# Cancellidium applanatum Tubaki, 1975 SPECIES
 
 #### Status
 ACCEPTED

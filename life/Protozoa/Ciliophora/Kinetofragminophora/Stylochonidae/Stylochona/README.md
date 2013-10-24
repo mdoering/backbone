@@ -1,5 +1,4 @@
-Stylochona Kent, 1881 GENUS
-=======
+# Stylochona Kent, 1881 GENUS
 
 #### Status
 ACCEPTED

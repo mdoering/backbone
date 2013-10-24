@@ -1,5 +1,4 @@
-Mycosphaerella hondae (I. Miyake) Tomilin SPECIES
-=======
+# Mycosphaerella hondae (I. Miyake) Tomilin SPECIES
 
 #### Status
 ACCEPTED

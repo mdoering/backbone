@@ -1,5 +1,4 @@
-Pachyella globispora K. Maruy. & Hosoya SPECIES
-=======
+# Pachyella globispora K. Maruy. & Hosoya SPECIES
 
 #### Status
 ACCEPTED

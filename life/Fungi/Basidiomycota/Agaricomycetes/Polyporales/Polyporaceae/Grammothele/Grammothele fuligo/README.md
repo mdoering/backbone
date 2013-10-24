@@ -1,17 +1,16 @@
-Poria fuligo var. fuligo VARIETY
-=======
+# Grammothele fuligo (Berk. & Broome) Ryvarden, 1979 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 6: 307 (1888)
+Trans. Br. mycol. Soc. 73(1): 15 (1979)
 
 #### Original name
-Poria fuligo var. fuligo
+Polyporus fuligo Berk. & Broome, 1875
 
 ### Remarks
 null

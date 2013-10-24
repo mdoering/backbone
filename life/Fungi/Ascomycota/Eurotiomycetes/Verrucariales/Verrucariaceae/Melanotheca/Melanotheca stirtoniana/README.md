@@ -1,5 +1,4 @@
-Melanotheca stirtoniana Müll. Arg. SPECIES
-=======
+# Melanotheca stirtoniana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

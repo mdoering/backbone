@@ -1,5 +1,4 @@
-Lagenosolenia laciniosa Loeblich & Tappan, 1994 SPECIES
-=======
+# Lagenosolenia laciniosa Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pannaria mariana f. mariana FORM
-=======
+# Parmeliella mariana (Fr.) P. M. Jørg. & D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 70: 321 (1887)
+Flora of Australia (Melbourne) 54: 316 (1992)
 
 #### Original name
-Pannaria mariana f. mariana
+Parmelia mariana Fr.
 
 ### Remarks
 null

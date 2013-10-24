@@ -1,5 +1,4 @@
-Polyporus saccardoi Cooke & Quél. SPECIES
-=======
+# Polyporus saccardoi Cooke & Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta buxina Sacc. SPECIES
-=======
+# Ascochyta buxina Sacc. SPECIES
 
 #### Status
 ACCEPTED

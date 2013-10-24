@@ -1,5 +1,4 @@
-Arcobacter Vandamme, Falsen, Rossau, Hoste, Segers, Tytgat & De Ley, 1991 GENUS
-=======
+# Arcobacter Vandamme, Falsen, Rossau, Hoste, Segers, Tytgat & De Ley, 1991 GENUS
 
 #### Status
 ACCEPTED

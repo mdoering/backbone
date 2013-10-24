@@ -1,5 +1,4 @@
-Guignardia phytolaccae J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Guignardia phytolaccae J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

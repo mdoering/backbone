@@ -1,5 +1,4 @@
-Caloplaca sachalinensis M. Satô SPECIES
-=======
+# Caloplaca sachalinensis M. Satô SPECIES
 
 #### Status
 ACCEPTED

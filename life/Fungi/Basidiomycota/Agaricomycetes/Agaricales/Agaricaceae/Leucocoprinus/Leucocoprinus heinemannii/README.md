@@ -1,5 +1,4 @@
-Leucocoprinus heinemannii var. melanotrichoides P. Mohr VARIETY
-=======
+# Leucocoprinus heinemannii Migl. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-in Mohr & Ludwig, Feddes Repert. 115(1-2): 33 (2004)
+Micol. Ital. 16(2): 9 (1987)
 
 #### Original name
-Leucocoprinus heinemannii var. melanotrichoides P. Mohr
+Leucocoprinus heinemannii Migl.
 
 ### Remarks
 null

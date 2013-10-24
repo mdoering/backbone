@@ -1,5 +1,4 @@
-Hypoderma tillandsiae P.R. Johnst., 1993 SPECIES
-=======
+# Hypoderma tillandsiae P.R. Johnst., 1993 SPECIES
 
 #### Status
 ACCEPTED

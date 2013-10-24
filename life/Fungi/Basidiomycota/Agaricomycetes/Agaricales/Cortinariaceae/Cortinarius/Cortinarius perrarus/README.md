@@ -1,5 +1,4 @@
-Cortinarius perrarus Britzelm. SPECIES
-=======
+# Cortinarius perrarus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

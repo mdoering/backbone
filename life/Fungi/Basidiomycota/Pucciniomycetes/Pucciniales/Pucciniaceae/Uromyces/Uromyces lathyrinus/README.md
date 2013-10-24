@@ -1,5 +1,4 @@
-Uromyces lathyrinus Speg. SPECIES
-=======
+# Uromyces lathyrinus Speg. SPECIES
 
 #### Status
 ACCEPTED

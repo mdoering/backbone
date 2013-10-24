@@ -1,5 +1,4 @@
-Hypoxylon comosum Mont. SPECIES
-=======
+# Hypoxylon comosum Mont. SPECIES
 
 #### Status
 ACCEPTED

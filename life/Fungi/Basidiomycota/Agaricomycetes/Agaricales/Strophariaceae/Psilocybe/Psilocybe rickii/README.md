@@ -1,5 +1,4 @@
-Psilocybe rickii Guzmán & Cortez SPECIES
-=======
+# Psilocybe rickii Guzmán & Cortez SPECIES
 
 #### Status
 ACCEPTED

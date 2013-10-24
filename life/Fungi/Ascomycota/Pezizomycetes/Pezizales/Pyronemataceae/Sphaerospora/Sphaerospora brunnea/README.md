@@ -1,5 +1,4 @@
-Sphaerospora brunnea f. brunnea FORM
-=======
+# Sphaerospora brunnea (Alb. & Schwein.) SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaerospora brunnea f. brunnea
+Peziza brunnea Alb. & Schwein., 1805
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Trachelomonas allorgei Deflandre SPECIES
-=======
+# Trachelomonas allorgei Deflandre SPECIES
 
 #### Status
 ACCEPTED

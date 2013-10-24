@@ -1,5 +1,4 @@
-Laboulbenia manubriolata Thaxt. SPECIES
-=======
+# Laboulbenia manubriolata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

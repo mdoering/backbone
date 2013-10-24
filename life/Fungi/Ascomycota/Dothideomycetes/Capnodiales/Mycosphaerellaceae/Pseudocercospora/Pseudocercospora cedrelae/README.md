@@ -1,5 +1,4 @@
-Pseudocercospora cedrelae (S. Chowdhury) T.K. De SPECIES
-=======
+# Pseudocercospora cedrelae (S. Chowdhury) T.K. De SPECIES
 
 #### Status
 ACCEPTED

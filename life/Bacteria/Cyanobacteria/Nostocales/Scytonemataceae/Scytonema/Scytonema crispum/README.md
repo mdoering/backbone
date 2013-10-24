@@ -1,8 +1,7 @@
-Lyngbya cincinnata Kützing SPECIES
-=======
+# Scytonema crispum (C. Agardh) Bornet SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

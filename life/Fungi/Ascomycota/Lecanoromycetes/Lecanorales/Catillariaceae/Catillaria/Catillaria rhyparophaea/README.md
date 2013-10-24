@@ -1,5 +1,4 @@
-Catillaria rhyparophaea (Nyl.) Zahlbr. SPECIES
-=======
+# Catillaria rhyparophaea (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

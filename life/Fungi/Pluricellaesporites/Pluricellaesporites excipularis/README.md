@@ -1,5 +1,4 @@
-Pluricellaesporites excipularis Kalgutkar & Sigler SPECIES
-=======
+# Pluricellaesporites excipularis Kalgutkar & Sigler SPECIES
 
 #### Status
 ACCEPTED

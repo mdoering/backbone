@@ -1,5 +1,4 @@
-Pucciniastrum corchoropsidis Dietel SPECIES
-=======
+# Pucciniastrum corchoropsidis Dietel SPECIES
 
 #### Status
 ACCEPTED

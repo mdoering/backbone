@@ -1,5 +1,4 @@
-Leptosphaeria aliena Syd. SPECIES
-=======
+# Leptosphaeria aliena Syd. SPECIES
 
 #### Status
 ACCEPTED

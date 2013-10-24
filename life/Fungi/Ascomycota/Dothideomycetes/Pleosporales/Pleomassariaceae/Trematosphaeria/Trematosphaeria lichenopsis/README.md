@@ -1,5 +1,4 @@
-Trematosphaeria lichenopsis (A. Massal.) Sacc. SPECIES
-=======
+# Trematosphaeria lichenopsis (A. Massal.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

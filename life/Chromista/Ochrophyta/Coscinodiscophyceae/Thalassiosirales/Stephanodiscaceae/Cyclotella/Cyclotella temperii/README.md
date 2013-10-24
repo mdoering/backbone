@@ -1,5 +1,4 @@
-Cyclotella temperii SPECIES
-=======
+# Cyclotella temperii SPECIES
 
 #### Status
 ACCEPTED

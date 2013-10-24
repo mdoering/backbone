@@ -1,5 +1,4 @@
-Marasmius gracillimus Henn. SPECIES
-=======
+# Marasmius gracillimus Henn. SPECIES
 
 #### Status
 ACCEPTED

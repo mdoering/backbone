@@ -1,5 +1,4 @@
-Brunneospora GENUS
-=======
+# Brunneospora GENUS
 
 #### Status
 ACCEPTED

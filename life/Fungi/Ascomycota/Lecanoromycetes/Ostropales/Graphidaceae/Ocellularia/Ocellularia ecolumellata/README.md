@@ -1,5 +1,4 @@
-Ocellularia ecolumellata Mangold SPECIES
-=======
+# Ocellularia ecolumellata Mangold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protoperidinium karstenii V. Srinivasan SPECIES
-=======
+# Protoperidinium karstenii V. Srinivasan SPECIES
 
 #### Status
 ACCEPTED

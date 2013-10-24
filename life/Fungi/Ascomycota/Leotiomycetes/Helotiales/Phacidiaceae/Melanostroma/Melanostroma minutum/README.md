@@ -1,5 +1,4 @@
-Melanostroma minutum Corda SPECIES
-=======
+# Melanostroma minutum Corda SPECIES
 
 #### Status
 ACCEPTED

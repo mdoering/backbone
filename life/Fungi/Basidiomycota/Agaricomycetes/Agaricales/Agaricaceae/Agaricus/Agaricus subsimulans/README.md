@@ -1,5 +1,4 @@
-Agaricus subsimulans P. Karst. SPECIES
-=======
+# Agaricus subsimulans P. Karst. SPECIES
 
 #### Status
 ACCEPTED

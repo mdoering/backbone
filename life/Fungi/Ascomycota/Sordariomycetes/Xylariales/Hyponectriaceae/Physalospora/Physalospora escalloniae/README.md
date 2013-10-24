@@ -1,5 +1,4 @@
-Physalospora escalloniae Henn. SPECIES
-=======
+# Physalospora escalloniae Henn. SPECIES
 
 #### Status
 ACCEPTED

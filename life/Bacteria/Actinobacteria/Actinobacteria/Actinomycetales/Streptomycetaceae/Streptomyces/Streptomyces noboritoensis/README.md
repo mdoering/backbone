@@ -1,5 +1,4 @@
-Streptomyces noboritoensis Isono et al., 1957 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces noboritoensis Isono et al., 1957 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

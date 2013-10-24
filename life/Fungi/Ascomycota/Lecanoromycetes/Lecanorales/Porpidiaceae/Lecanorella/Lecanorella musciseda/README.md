@@ -1,5 +1,4 @@
-Lecanorella musciseda Motyka SPECIES
-=======
+# Lecanorella musciseda Motyka SPECIES
 
 #### Status
 ACCEPTED

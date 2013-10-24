@@ -1,5 +1,4 @@
-Lactarius angustus R. Heim & Gooss.-Font. SPECIES
-=======
+# Lactarius angustus R. Heim & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Venturia euchaeta Penz. & Sacc. SPECIES
-=======
+# Venturia euchaeta Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

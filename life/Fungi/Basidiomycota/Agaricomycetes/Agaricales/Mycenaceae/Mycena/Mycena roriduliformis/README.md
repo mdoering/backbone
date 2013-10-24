@@ -1,5 +1,4 @@
-Mycena roriduliformis (Murrill) Dennis SPECIES
-=======
+# Mycena roriduliformis (Murrill) Dennis SPECIES
 
 #### Status
 ACCEPTED

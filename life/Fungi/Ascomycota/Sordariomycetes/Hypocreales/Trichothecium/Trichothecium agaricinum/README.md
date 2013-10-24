@@ -1,5 +1,4 @@
-Trichothecium agaricinum Bonord. SPECIES
-=======
+# Trichothecium agaricinum Bonord. SPECIES
 
 #### Status
 ACCEPTED

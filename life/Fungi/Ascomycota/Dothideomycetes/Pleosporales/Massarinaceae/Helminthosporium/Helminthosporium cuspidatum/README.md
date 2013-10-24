@@ -1,17 +1,16 @@
-Helmisporium cuspidatum Sacc. SPECIES
-=======
+# Helminthosporium cuspidatum Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atti Soc. Veneto-Trent. Sci. Nat. , Padova 23: 91 (1917)
 
 #### Original name
-Helmisporium cuspidatum Sacc.
+Helminthosporium cuspidatum Sacc.
 
 ### Remarks
 null

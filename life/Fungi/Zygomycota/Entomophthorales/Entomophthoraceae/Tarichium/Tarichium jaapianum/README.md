@@ -1,5 +1,4 @@
-Tarichium jaapianum (Bubák) Balazy SPECIES
-=======
+# Tarichium jaapianum (Bubák) Balazy SPECIES
 
 #### Status
 ACCEPTED

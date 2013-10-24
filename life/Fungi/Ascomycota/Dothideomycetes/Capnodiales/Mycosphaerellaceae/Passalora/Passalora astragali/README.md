@@ -1,5 +1,4 @@
-Passalora astragali var. astragali VARIETY
-=======
+# Passalora astragali (Ellis & Holw.) U. Braun SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Cryptog. bot. 3(2-3): 238 (1993)
 
 #### Original name
-Passalora astragali var. astragali
+Ramularia astragali Ellis & Holw.
 
 ### Remarks
 null

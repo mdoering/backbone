@@ -1,5 +1,4 @@
-Phyllachora derridicola Petr., 1947 SPECIES
-=======
+# Phyllachora derridicola Petr., 1947 SPECIES
 
 #### Status
 DOUBTFUL

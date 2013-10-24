@@ -1,5 +1,4 @@
-Parmentaria pluricarpa Ajay Singh SPECIES
-=======
+# Parmentaria pluricarpa Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

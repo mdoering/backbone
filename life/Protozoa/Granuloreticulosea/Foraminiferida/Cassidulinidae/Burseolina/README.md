@@ -1,14 +1,13 @@
-Cushmanulla Saidova, 1975 GENUS
-=======
+# Burseolina Seguenza, 1880 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Atti Accad. Lincei, Rend. , (3) 6, 138.
 
 #### Original name
 null

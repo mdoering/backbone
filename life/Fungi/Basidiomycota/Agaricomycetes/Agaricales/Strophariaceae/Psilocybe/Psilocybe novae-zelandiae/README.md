@@ -1,5 +1,4 @@
-Psilocybe novae-zelandiae Guzmán & E. Horak, 1979 SPECIES
-=======
+# Psilocybe novae-zelandiae Guzmán & E. Horak, 1979 SPECIES
 
 #### Status
 ACCEPTED

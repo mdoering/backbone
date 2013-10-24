@@ -1,5 +1,4 @@
-Ramalina bogotensis Nyl. SPECIES
-=======
+# Ramalina bogotensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

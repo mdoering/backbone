@@ -1,5 +1,4 @@
-Praedermocarpites Ou-yang, Yin & Li, 1974 GENUS
-=======
+# Praedermocarpites Ou-yang, Yin & Li, 1974 GENUS
 
 #### Status
 ACCEPTED

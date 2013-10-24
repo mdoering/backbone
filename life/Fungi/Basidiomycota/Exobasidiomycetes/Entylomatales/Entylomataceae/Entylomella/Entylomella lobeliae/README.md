@@ -1,5 +1,4 @@
-Entylomella lobeliae Cif. SPECIES
-=======
+# Entylomella lobeliae Cif. SPECIES
 
 #### Status
 ACCEPTED

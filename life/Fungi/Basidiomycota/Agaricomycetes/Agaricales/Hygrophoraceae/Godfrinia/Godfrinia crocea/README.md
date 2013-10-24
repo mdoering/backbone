@@ -1,5 +1,4 @@
-Godfrinia crocea (Bull.) Herink SPECIES
-=======
+# Godfrinia crocea (Bull.) Herink SPECIES
 
 #### Status
 ACCEPTED

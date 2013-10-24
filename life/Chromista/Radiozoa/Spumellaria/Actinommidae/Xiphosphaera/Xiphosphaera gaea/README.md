@@ -1,5 +1,4 @@
-Xiphosphaera gaea Haeckel, 1887 SPECIES
-=======
+# Xiphosphaera gaea Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

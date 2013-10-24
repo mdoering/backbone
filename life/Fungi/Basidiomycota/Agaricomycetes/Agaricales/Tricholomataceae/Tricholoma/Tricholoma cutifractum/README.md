@@ -1,5 +1,4 @@
-Tricholoma cutifractum Corner SPECIES
-=======
+# Tricholoma cutifractum Corner SPECIES
 
 #### Status
 ACCEPTED

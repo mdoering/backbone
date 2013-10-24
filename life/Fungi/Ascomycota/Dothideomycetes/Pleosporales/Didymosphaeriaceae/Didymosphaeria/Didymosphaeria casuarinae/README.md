@@ -1,5 +1,4 @@
-Didymosphaeria casuarinae Wehm. & S. Ahmad SPECIES
-=======
+# Didymosphaeria casuarinae Wehm. & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

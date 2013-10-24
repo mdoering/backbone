@@ -1,5 +1,4 @@
-Lecanora helygeoides Vain. SPECIES
-=======
+# Lecanora helygeoides Vain. SPECIES
 
 #### Status
 ACCEPTED

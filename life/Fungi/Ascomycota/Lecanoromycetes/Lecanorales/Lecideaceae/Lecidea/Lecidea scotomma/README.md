@@ -1,5 +1,4 @@
-Lecidea scotomma Nyl. SPECIES
-=======
+# Lecidea scotomma Nyl. SPECIES
 
 #### Status
 ACCEPTED

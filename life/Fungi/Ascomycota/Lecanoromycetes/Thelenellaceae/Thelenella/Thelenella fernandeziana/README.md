@@ -1,5 +1,4 @@
-Thelenella fernandeziana (Zahlbr.) H. Mayrhofer SPECIES
-=======
+# Thelenella fernandeziana (Zahlbr.) H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

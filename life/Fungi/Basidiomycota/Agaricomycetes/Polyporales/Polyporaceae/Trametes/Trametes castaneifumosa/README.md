@@ -1,5 +1,4 @@
-Trametes castaneifumosa Corner SPECIES
-=======
+# Trametes castaneifumosa Corner SPECIES
 
 #### Status
 ACCEPTED

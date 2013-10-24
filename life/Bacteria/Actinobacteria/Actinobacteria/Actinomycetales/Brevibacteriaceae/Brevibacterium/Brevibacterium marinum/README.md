@@ -1,5 +1,4 @@
-Brevibacterium marinum Lee, 2008 SPECIES
-=======
+# Brevibacterium marinum Lee, 2008 SPECIES
 
 #### Status
 ACCEPTED

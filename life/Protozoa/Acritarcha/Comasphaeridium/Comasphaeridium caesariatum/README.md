@@ -1,5 +1,4 @@
-Comasphaeridium caesariatum Wood & Clendening, 1982 SPECIES
-=======
+# Comasphaeridium caesariatum Wood & Clendening, 1982 SPECIES
 
 #### Status
 ACCEPTED

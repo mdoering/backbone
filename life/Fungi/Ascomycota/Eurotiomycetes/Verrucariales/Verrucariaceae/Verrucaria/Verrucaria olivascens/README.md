@@ -1,5 +1,4 @@
-Verrucaria olivascens Servít SPECIES
-=======
+# Verrucaria olivascens Servít SPECIES
 
 #### Status
 ACCEPTED

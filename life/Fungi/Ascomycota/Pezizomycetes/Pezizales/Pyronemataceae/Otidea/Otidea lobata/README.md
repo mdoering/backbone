@@ -1,5 +1,4 @@
-Otidea lobata Rodway SPECIES
-=======
+# Otidea lobata Rodway SPECIES
 
 #### Status
 ACCEPTED

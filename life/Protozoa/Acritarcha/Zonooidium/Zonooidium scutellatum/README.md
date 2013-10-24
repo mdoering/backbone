@@ -1,5 +1,4 @@
-Zonooidium scutellatum Timofeev, 1957 SPECIES
-=======
+# Zonooidium scutellatum Timofeev, 1957 SPECIES
 
 #### Status
 ACCEPTED

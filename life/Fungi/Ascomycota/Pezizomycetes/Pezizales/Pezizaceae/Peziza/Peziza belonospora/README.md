@@ -1,5 +1,4 @@
-Peziza belonospora P. Karst. SPECIES
-=======
+# Peziza belonospora P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella lindiana Munk SPECIES
-=======
+# Mycosphaerella lindiana Munk SPECIES
 
 #### Status
 ACCEPTED

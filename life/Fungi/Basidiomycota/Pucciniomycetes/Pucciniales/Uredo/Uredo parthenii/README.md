@@ -1,5 +1,4 @@
-Uredo parthenii Speg. SPECIES
-=======
+# Uredo parthenii Speg. SPECIES
 
 #### Status
 ACCEPTED

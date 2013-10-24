@@ -1,5 +1,4 @@
-Trochila jaffueli Speg. SPECIES
-=======
+# Trochila jaffueli Speg. SPECIES
 
 #### Status
 ACCEPTED

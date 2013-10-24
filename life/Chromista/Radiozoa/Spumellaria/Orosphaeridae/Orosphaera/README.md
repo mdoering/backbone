@@ -1,5 +1,4 @@
-Orosphaera Haeckel, 1887 GENUS
-=======
+# Orosphaera Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

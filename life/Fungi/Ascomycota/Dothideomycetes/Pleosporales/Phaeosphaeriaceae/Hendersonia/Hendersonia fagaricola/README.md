@@ -1,5 +1,4 @@
-Hendersonia fagaricola Speg. SPECIES
-=======
+# Hendersonia fagaricola Speg. SPECIES
 
 #### Status
 ACCEPTED

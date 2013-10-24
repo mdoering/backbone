@@ -1,5 +1,4 @@
-Massilia timonae La Scola et al., 2000 SPECIES
-=======
+# Massilia timonae La Scola et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

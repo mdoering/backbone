@@ -1,5 +1,4 @@
-Stagonospora nitida (Ellis & Everh.) Sacc. SPECIES
-=======
+# Stagonospora nitida (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coelosomididae FAMILY
-=======
+# Coelosomididae FAMILY
 
 #### Status
 ACCEPTED

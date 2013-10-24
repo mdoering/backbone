@@ -1,5 +1,4 @@
-Tholosina protea Heron-Allen & Earland, 1932 SPECIES
-=======
+# Tholosina protea Heron-Allen & Earland, 1932 SPECIES
 
 #### Status
 ACCEPTED

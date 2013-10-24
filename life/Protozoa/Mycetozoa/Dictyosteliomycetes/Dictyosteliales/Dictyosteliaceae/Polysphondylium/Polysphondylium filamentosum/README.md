@@ -1,5 +1,4 @@
-Polysphondylium filamentosum. Traub, M. Hohl & Cavender, 1981 SPECIES
-=======
+# Polysphondylium filamentosum. Traub, M. Hohl & Cavender, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phragmothyrium confusum Bat. SPECIES
-=======
+# Phragmothyrium confusum Bat. SPECIES
 
 #### Status
 ACCEPTED

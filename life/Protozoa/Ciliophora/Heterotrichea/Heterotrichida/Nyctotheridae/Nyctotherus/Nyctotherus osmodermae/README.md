@@ -1,5 +1,4 @@
-Nyctotherus osmodermae Zeliff, 1933 SPECIES
-=======
+# Nyctotherus osmodermae Zeliff, 1933 SPECIES
 
 #### Status
 ACCEPTED

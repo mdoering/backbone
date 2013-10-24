@@ -1,5 +1,4 @@
-Lobaria saxatilis (L.) Hoffm. SPECIES
-=======
+# Lobaria saxatilis (L.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

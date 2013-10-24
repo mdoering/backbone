@@ -1,5 +1,4 @@
-Sarcodon quietus Maas Geest., 1967 SPECIES
-=======
+# Sarcodon quietus Maas Geest., 1967 SPECIES
 
 #### Status
 ACCEPTED

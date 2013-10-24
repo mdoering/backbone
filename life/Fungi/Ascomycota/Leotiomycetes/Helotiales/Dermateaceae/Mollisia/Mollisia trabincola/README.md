@@ -1,5 +1,4 @@
-Mollisia trabincola Rehm SPECIES
-=======
+# Mollisia trabincola Rehm SPECIES
 
 #### Status
 ACCEPTED

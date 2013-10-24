@@ -1,5 +1,4 @@
-Lophiostoma requienii Fabre SPECIES
-=======
+# Lophiostoma requienii Fabre SPECIES
 
 #### Status
 ACCEPTED

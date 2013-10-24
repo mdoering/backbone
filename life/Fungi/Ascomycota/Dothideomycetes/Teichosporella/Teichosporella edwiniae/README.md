@@ -1,5 +1,4 @@
-Teichosporella edwiniae (Clem.) Sacc. & D. Sacc. SPECIES
-=======
+# Teichosporella edwiniae (Clem.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella pseudoplatani Zerova SPECIES
-=======
+# Mycosphaerella pseudoplatani Zerova SPECIES
 
 #### Status
 ACCEPTED

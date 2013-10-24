@@ -1,5 +1,4 @@
-Pleospora heteocharidis P. Karst. SPECIES
-=======
+# Pleospora heteocharidis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

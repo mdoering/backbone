@@ -1,5 +1,4 @@
-Achomosphaera recurvata K.P. Jain, S.C.D. Sah & R.Y. Singh SPECIES
-=======
+# Achomosphaera recurvata K.P. Jain, S.C.D. Sah & R.Y. Singh SPECIES
 
 #### Status
 ACCEPTED

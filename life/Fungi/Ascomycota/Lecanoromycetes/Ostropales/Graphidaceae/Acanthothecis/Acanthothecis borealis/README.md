@@ -1,5 +1,4 @@
-Acanthothecis borealis A. W. Archer & Elix SPECIES
-=======
+# Acanthothecis borealis A. W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

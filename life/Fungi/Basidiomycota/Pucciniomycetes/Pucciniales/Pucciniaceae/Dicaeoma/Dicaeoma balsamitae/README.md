@@ -1,5 +1,4 @@
-Dicaeoma balsamitae (F. Strauss.) Kuntze SPECIES
-=======
+# Dicaeoma balsamitae (F. Strauss.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

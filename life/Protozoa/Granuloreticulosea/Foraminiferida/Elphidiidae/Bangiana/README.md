@@ -1,5 +1,4 @@
-Bangiana Drobne, Ogorelec & Riccamboni, 2007 GENUS
-=======
+# Bangiana Drobne, Ogorelec & Riccamboni, 2007 GENUS
 
 #### Status
 ACCEPTED

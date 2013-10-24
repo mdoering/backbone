@@ -1,5 +1,4 @@
-Thelidium persicinum f. persicinum (Hepp) Servít FORM
-=======
+# Thelidium persicinum (Hepp) Servít SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Thelidium persicinum f. persicinum (Hepp) Servít
+Verrucaria persicina Hepp
 
 ### Remarks
 null

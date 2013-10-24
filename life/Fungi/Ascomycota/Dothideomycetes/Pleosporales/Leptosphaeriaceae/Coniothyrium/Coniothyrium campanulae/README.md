@@ -1,5 +1,4 @@
-Coniothyrium campanulae Hollós SPECIES
-=======
+# Coniothyrium campanulae Hollós SPECIES
 
 #### Status
 ACCEPTED

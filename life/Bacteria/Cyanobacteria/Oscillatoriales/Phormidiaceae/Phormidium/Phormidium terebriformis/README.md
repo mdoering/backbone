@@ -1,5 +1,4 @@
-Phormidium terebriformis (C. Agardh ex Gomont) Anagnostidis & Komárek SPECIES
-=======
+# Phormidium terebriformis (C. Agardh ex Gomont) Anagnostidis & Komárek SPECIES
 
 #### Status
 ACCEPTED

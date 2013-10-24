@@ -1,5 +1,4 @@
-Pteromaktron Whisler GENUS
-=======
+# Pteromaktron Whisler GENUS
 
 #### Status
 ACCEPTED

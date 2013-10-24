@@ -1,5 +1,4 @@
-Biddulphia cylindrata E.J.F. Wood, L.H. Crosby & V. Cassie, 1959 SPECIES
-=======
+# Biddulphia cylindrata E.J.F. Wood, L.H. Crosby & V. Cassie, 1959 SPECIES
 
 #### Status
 ACCEPTED

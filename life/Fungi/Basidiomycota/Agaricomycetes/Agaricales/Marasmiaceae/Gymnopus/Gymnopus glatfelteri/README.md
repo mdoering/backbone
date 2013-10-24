@@ -1,5 +1,4 @@
-Gymnopus glatfelteri Murrill SPECIES
-=======
+# Gymnopus glatfelteri Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora tovariae U. Braun & Crous SPECIES
-=======
+# Pseudocercospora tovariae U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

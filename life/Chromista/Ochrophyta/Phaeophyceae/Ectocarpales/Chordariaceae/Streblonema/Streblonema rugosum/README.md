@@ -1,5 +1,4 @@
-Streblonema rugosum Setchell & N.L. Gardner SPECIES
-=======
+# Streblonema rugosum Setchell & N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

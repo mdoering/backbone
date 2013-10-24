@@ -1,5 +1,4 @@
-Cladonia leucophaea f. leucophaea FORM
-=======
+# Cladonia leucophaea SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia leucophaea f. leucophaea
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Stylonectriella umbelliferarum (Höhn.) Höhn. SPECIES
-=======
+# Stylonectriella umbelliferarum (Höhn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

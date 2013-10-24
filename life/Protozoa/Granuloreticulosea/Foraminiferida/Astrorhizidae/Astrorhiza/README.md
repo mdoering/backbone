@@ -1,14 +1,13 @@
-Arenistella Fischer, 1875 GENUS
-=======
+# Astrorhiza Sandahl GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ofvers. VetensAkad. Förh. Stockholm, 14, 301.
 
 #### Original name
 null

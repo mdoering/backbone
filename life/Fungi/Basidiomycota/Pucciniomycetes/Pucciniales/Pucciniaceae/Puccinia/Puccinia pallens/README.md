@@ -1,5 +1,4 @@
-Puccinia pallens Syd. {?} SPECIES
-=======
+# Puccinia pallens Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

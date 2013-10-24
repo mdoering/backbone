@@ -1,5 +1,4 @@
-Amphisphaeria seriata M.E. Barr & A.W. Ramaley SPECIES
-=======
+# Amphisphaeria seriata M.E. Barr & A.W. Ramaley SPECIES
 
 #### Status
 ACCEPTED

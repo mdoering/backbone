@@ -1,5 +1,4 @@
-Pseudodifflugia gracilis Schlumb. SPECIES
-=======
+# Pseudodifflugia gracilis Schlumb. SPECIES
 
 #### Status
 ACCEPTED

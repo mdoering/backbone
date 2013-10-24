@@ -1,8 +1,7 @@
-Sargassum vulgare var. flavifolium (Kützing) Grunow VARIETY
-=======
+# Sargassum flavifolium Kützing SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

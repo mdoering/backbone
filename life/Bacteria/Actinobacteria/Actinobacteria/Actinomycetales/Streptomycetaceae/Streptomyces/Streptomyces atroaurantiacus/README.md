@@ -1,5 +1,4 @@
-Streptomyces atroaurantiacus Nakagaito et al., 1993 SPECIES
-=======
+# Streptomyces atroaurantiacus Nakagaito et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

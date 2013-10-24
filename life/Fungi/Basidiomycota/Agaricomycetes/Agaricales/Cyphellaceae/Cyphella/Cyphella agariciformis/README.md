@@ -1,5 +1,4 @@
-Cyphella agariciformis Pilát SPECIES
-=======
+# Cyphella agariciformis Pilát SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Karschia populina (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Karschia populina (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

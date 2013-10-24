@@ -1,5 +1,4 @@
-Aspicilia isabellina De Not. SPECIES
-=======
+# Aspicilia isabellina De Not. SPECIES
 
 #### Status
 ACCEPTED

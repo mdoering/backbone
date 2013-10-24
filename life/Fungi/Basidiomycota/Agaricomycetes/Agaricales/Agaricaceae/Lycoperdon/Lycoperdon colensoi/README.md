@@ -1,5 +1,4 @@
-Lycoperdon colensoi Cooke & Massee SPECIES
-=======
+# Lycoperdon colensoi Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

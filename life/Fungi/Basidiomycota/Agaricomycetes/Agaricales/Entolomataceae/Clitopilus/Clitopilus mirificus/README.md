@@ -1,5 +1,4 @@
-Clitopilus mirificus (Britzelm.) Sacc. SPECIES
-=======
+# Clitopilus mirificus (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

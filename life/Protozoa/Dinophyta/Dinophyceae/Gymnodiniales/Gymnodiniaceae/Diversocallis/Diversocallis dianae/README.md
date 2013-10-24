@@ -1,5 +1,4 @@
-Diversocallis dianae O. Dragastan & I. Bucur SPECIES
-=======
+# Diversocallis dianae O. Dragastan & I. Bucur SPECIES
 
 #### Status
 ACCEPTED

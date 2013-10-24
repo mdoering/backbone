@@ -1,17 +1,16 @@
-Panaeolus fimicola var. olivaceus (F.H. Møller) VARIETY
-=======
+# Panaeolus fimicola (Pers.) Gillet, 1878 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hyménomycètes (Alençon) 621 (1878)
 
 #### Original name
-null
+Agaricus fimicola Pers., 1801
 
 ### Remarks
 null

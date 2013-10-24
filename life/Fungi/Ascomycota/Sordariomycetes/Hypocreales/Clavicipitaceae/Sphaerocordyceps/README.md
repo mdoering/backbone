@@ -1,5 +1,4 @@
-Sphaerocordyceps Kobayasi GENUS
-=======
+# Sphaerocordyceps Kobayasi GENUS
 
 #### Status
 ACCEPTED

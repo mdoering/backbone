@@ -1,5 +1,4 @@
-Baeomyces paschalis (L.) Wahlenb. SPECIES
-=======
+# Baeomyces paschalis (L.) Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phragmidium rubi-odorati Dietel SPECIES
-=======
+# Phragmidium rubi-odorati Dietel SPECIES
 
 #### Status
 ACCEPTED

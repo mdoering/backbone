@@ -1,5 +1,4 @@
-Graphina plurispora (Redinger) M. Wirth & Hale SPECIES
-=======
+# Graphina plurispora (Redinger) M. Wirth & Hale SPECIES
 
 #### Status
 ACCEPTED

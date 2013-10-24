@@ -1,5 +1,4 @@
-Micropsalliota roseipes Heinem. SPECIES
-=======
+# Micropsalliota roseipes Heinem. SPECIES
 
 #### Status
 ACCEPTED

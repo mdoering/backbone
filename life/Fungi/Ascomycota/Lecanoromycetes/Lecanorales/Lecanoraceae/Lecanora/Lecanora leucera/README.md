@@ -1,5 +1,4 @@
-Lecanora leucera (Hue) Zahlbr. SPECIES
-=======
+# Lecanora leucera (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

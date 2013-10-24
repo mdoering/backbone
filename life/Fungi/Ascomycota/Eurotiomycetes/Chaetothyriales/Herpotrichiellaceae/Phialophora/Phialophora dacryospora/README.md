@@ -1,5 +1,4 @@
-Phialophora dacryospora W. Gams SPECIES
-=======
+# Phialophora dacryospora W. Gams SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiocordyceps mrciensis (Aung, J.C. Kang, Z.Q. Liang, Soytong & K.D. Hyde) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps mrciensis (Aung, J.C. Kang, Z.Q. Liang, Soytong & K.D. Hyde) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED

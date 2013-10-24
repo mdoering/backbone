@@ -1,5 +1,4 @@
-Solenia andropogonis W.B. Cooke SPECIES
-=======
+# Solenia andropogonis W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

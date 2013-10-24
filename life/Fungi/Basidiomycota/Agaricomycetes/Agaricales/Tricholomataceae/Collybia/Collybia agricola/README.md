@@ -1,5 +1,4 @@
-Collybia agricola Murrill SPECIES
-=======
+# Collybia agricola Murrill SPECIES
 
 #### Status
 ACCEPTED

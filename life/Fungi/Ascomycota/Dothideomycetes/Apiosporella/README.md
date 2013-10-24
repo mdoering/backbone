@@ -1,5 +1,4 @@
-Apiosporella GENUS
-=======
+# Apiosporella GENUS
 
 #### Status
 ACCEPTED

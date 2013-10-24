@@ -1,5 +1,4 @@
-Aecidium strobilanthinum Mitter SPECIES
-=======
+# Aecidium strobilanthinum Mitter SPECIES
 
 #### Status
 ACCEPTED

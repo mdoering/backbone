@@ -1,5 +1,4 @@
-Anoplophrya gigantea SPECIES
-=======
+# Anoplophrya gigantea SPECIES
 
 #### Status
 ACCEPTED

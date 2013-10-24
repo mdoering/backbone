@@ -1,5 +1,4 @@
-Aposphaeria charticola Sacc. SPECIES
-=======
+# Aposphaeria charticola Sacc. SPECIES
 
 #### Status
 ACCEPTED

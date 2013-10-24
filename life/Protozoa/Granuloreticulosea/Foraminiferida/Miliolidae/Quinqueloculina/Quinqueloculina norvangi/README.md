@@ -1,5 +1,4 @@
-Quinqueloculina norvangi SPECIES
-=======
+# Quinqueloculina norvangi SPECIES
 
 #### Status
 ACCEPTED

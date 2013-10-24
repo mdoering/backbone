@@ -1,5 +1,4 @@
-Coniosporium capnodioides Sacc. SPECIES
-=======
+# Coniosporium capnodioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

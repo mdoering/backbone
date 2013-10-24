@@ -1,5 +1,4 @@
-Duradens lignicola Samuels & Rogerson, 1990 SPECIES
-=======
+# Duradens lignicola Samuels & Rogerson, 1990 SPECIES
 
 #### Status
 ACCEPTED

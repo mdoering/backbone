@@ -1,5 +1,4 @@
-Arkhangelskiellaceae Bukry, 1969 FAMILY
-=======
+# Arkhangelskiellaceae Bukry, 1969 FAMILY
 
 #### Status
 ACCEPTED

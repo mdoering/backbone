@@ -1,5 +1,4 @@
-Patellaria inflata (Ach.) Trevis. SPECIES
-=======
+# Patellaria inflata (Ach.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

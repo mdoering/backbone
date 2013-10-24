@@ -1,5 +1,4 @@
-Heterococcus caespitosus Vischer SPECIES
-=======
+# Heterococcus caespitosus Vischer SPECIES
 
 #### Status
 ACCEPTED

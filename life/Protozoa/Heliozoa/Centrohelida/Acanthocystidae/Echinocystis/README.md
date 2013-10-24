@@ -1,17 +1,16 @@
-Raineriophrys Mikrjukov, 2001 GENUS
-=======
+# Echinocystis Mikrjukov, 1997 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+IRMNG Homonym List
 
 #### Published in
-Ophelia 54 (1), February: 65.
+Zool Zh 76 (4), Aprel': 393.
 
 #### Original name
-Raineria Mikrjukov, 1999
+null
 
 ### Remarks
 null

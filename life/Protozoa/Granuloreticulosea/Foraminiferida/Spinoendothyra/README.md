@@ -1,5 +1,4 @@
-Spinoendothyra Lipina, 1963 GENUS
-=======
+# Spinoendothyra Lipina, 1963 GENUS
 
 #### Status
 ACCEPTED

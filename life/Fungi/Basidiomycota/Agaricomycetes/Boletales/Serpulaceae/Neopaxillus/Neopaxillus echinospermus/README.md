@@ -1,14 +1,13 @@
-Naucoria echinosperma Speg., 1889 SPECIES
-=======
+# Neopaxillus echinospermus (Speg.) Singer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boletín de la Soc. Ciencias de Córdoba 11(4): 424 (1889)
+Lilloa 22: 633 (1951)
 
 #### Original name
 Naucoria echinosperma Speg., 1889

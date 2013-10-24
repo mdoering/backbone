@@ -1,5 +1,4 @@
-Ectocarpus tasshaensis Noda SPECIES
-=======
+# Ectocarpus tasshaensis Noda SPECIES
 
 #### Status
 ACCEPTED

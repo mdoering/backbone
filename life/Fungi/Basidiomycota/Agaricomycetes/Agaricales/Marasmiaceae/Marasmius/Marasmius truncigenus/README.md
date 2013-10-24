@@ -1,5 +1,4 @@
-Marasmius truncigenus (Raithelh.) Raithelh. SPECIES
-=======
+# Marasmius truncigenus (Raithelh.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acanspthominuscula Pykhova, 1966 GENUS
-=======
+# Acanspthominuscula Pykhova, 1966 GENUS
 
 #### Status
 ACCEPTED

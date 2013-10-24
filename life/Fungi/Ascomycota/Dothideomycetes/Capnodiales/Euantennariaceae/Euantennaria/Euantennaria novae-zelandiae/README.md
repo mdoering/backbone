@@ -1,5 +1,4 @@
-Euantennaria novae-zelandiae S. Hughes, 1974 SPECIES
-=======
+# Euantennaria novae-zelandiae S. Hughes, 1974 SPECIES
 
 #### Status
 ACCEPTED

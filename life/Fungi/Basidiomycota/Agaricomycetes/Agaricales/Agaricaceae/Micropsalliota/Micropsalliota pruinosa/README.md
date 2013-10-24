@@ -1,5 +1,4 @@
-Micropsalliota pruinosa Heinem. SPECIES
-=======
+# Micropsalliota pruinosa Heinem. SPECIES
 
 #### Status
 ACCEPTED

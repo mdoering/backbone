@@ -1,5 +1,4 @@
-Diplotomma petraeum (Wulfen) Jatta SPECIES
-=======
+# Diplotomma petraeum (Wulfen) Jatta SPECIES
 
 #### Status
 ACCEPTED

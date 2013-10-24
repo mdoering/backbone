@@ -1,5 +1,4 @@
-Phyllosticta putrefaciens Shear SPECIES
-=======
+# Phyllosticta putrefaciens Shear SPECIES
 
 #### Status
 ACCEPTED

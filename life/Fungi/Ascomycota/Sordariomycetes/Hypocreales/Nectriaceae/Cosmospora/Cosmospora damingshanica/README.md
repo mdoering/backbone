@@ -1,5 +1,4 @@
-Cosmospora damingshanica W.Y. Zhuang & X.M. Zhang SPECIES
-=======
+# Cosmospora damingshanica W.Y. Zhuang & X.M. Zhang SPECIES
 
 #### Status
 ACCEPTED

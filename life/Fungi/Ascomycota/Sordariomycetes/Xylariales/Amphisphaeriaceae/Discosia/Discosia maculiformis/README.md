@@ -1,5 +1,4 @@
-Discosia maculiformis Syd. SPECIES
-=======
+# Discosia maculiformis Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Auliscus radiatus SPECIES
-=======
+# Auliscus radiatus SPECIES
 
 #### Status
 ACCEPTED

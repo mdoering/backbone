@@ -1,5 +1,4 @@
-Agrocybe tucumana (Singer) Watling SPECIES
-=======
+# Agrocybe tucumana (Singer) Watling SPECIES
 
 #### Status
 ACCEPTED

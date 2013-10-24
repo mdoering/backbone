@@ -1,5 +1,4 @@
-Stropharia acanthocystis Cortez & R.M. Silveira SPECIES
-=======
+# Stropharia acanthocystis Cortez & R.M. Silveira SPECIES
 
 #### Status
 ACCEPTED

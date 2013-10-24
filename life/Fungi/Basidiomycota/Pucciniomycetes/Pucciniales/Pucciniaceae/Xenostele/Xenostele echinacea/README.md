@@ -1,14 +1,13 @@
-Aecidium echinaceum Berk., 1854 SPECIES
-=======
+# Xenostele echinacea (Berk.) Syd. & P. Syd., 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hooker's J. Bot. 6: 231 (1854)
+Annls mycol. 18(4/6): 179 (1921)
 
 #### Original name
 Aecidium echinaceum Berk., 1854

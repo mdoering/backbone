@@ -1,5 +1,4 @@
-Puccinia vernoniae-mollis Mayor SPECIES
-=======
+# Puccinia vernoniae-mollis Mayor SPECIES
 
 #### Status
 ACCEPTED

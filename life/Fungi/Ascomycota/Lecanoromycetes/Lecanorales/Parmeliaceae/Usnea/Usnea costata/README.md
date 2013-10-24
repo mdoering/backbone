@@ -1,5 +1,4 @@
-Usnea costata Motyka SPECIES
-=======
+# Usnea costata Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Evernia stellata Meyen & Flot. SPECIES
-=======
+# Evernia stellata Meyen & Flot. SPECIES
 
 #### Status
 ACCEPTED

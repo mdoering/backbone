@@ -1,5 +1,4 @@
-Hygrophorus avellaneifolius Hesler & A.H. Sm. SPECIES
-=======
+# Hygrophorus avellaneifolius Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

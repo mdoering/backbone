@@ -1,5 +1,4 @@
-Dinemasporium ligongense W.P. Wu, J.X. Duan & Xin Z. Liu SPECIES
-=======
+# Dinemasporium ligongense W.P. Wu, J.X. Duan & Xin Z. Liu SPECIES
 
 #### Status
 ACCEPTED

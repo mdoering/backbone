@@ -1,17 +1,16 @@
-Amanita orientogemmata Zhu L. Yang & Yoshim. Doi SPECIES
-=======
+# Amanita orientigemmata Zhu L. Yang & Yoshim. Doi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. natn. Sci. Mus. , Tokyo, B 25(3): 107 (1999)
 
 #### Original name
-Amanita orientogemmata Zhu L. Yang & Yoshim. Doi
+Amanita orientigemmata Zhu L. Yang & Yoshim. Doi
 
 ### Remarks
 null

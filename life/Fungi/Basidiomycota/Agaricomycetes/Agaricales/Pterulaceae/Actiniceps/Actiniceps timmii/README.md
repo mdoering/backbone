@@ -1,5 +1,4 @@
-Actiniceps timmii Eichelb. SPECIES
-=======
+# Actiniceps timmii Eichelb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypogymnia tumidula L.H. Pike SPECIES
-=======
+# Hypogymnia tumidula L.H. Pike SPECIES
 
 #### Status
 ACCEPTED

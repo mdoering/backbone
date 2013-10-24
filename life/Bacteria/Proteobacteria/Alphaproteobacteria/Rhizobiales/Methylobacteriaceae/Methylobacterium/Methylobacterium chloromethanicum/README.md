@@ -1,5 +1,4 @@
-Methylobacterium chloromethanicum McDonald et al., 2001 SPECIES
-=======
+# Methylobacterium chloromethanicum McDonald et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

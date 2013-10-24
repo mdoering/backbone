@@ -1,5 +1,4 @@
-Rhizosphaerina variabilis B. Sutton, 1986 SPECIES
-=======
+# Rhizosphaerina variabilis B. Sutton, 1986 SPECIES
 
 #### Status
 ACCEPTED

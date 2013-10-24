@@ -1,17 +1,16 @@
-Lecanora barkmaneana Aptroot & Herk SPECIES
-=======
+# Lecanora barkmaniana Aptroot & Herk SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 31(1): 3 (1999)
 
 #### Original name
-Lecanora barkmaneana Aptroot & Herk
+Lecanora barkmaniana Aptroot & Herk
 
 ### Remarks
 null

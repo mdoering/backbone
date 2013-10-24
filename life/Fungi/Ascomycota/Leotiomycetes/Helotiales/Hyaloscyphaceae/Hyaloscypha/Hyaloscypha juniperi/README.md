@@ -1,5 +1,4 @@
-Hyaloscypha juniperi E. Müll. SPECIES
-=======
+# Hyaloscypha juniperi E. Müll. SPECIES
 
 #### Status
 ACCEPTED

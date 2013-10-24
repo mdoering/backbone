@@ -1,5 +1,4 @@
-Phyllosticta botrychii var. botrychii VARIETY
-=======
+# Phyllosticta botrychii (Jacz.) Jaap SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllosticta botrychii var. botrychii
+Phoma botrychii Jacz.
 
 ### Remarks
 null

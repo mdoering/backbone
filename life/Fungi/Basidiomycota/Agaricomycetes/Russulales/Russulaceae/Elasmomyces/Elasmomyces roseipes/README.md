@@ -1,5 +1,4 @@
-Elasmomyces roseipes Singer & A.H. Sm. SPECIES
-=======
+# Elasmomyces roseipes Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

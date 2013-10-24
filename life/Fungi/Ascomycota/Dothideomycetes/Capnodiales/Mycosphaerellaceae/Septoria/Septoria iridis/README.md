@@ -1,5 +1,4 @@
-Septoria iridis C. Massal. SPECIES
-=======
+# Septoria iridis C. Massal. SPECIES
 
 #### Status
 ACCEPTED

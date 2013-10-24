@@ -1,5 +1,4 @@
-Triceratium trisulcum Bailey, 1861 SPECIES
-=======
+# Triceratium trisulcum Bailey, 1861 SPECIES
 
 #### Status
 ACCEPTED

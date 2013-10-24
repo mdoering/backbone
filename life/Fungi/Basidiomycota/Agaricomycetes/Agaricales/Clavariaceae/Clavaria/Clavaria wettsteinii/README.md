@@ -1,5 +1,4 @@
-Clavaria wettsteinii Singer SPECIES
-=======
+# Clavaria wettsteinii Singer SPECIES
 
 #### Status
 ACCEPTED

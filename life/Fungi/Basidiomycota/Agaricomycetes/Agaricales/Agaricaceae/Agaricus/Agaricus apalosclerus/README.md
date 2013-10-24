@@ -1,5 +1,4 @@
-Agaricus apalosclerus Berk. SPECIES
-=======
+# Agaricus apalosclerus Berk. SPECIES
 
 #### Status
 ACCEPTED

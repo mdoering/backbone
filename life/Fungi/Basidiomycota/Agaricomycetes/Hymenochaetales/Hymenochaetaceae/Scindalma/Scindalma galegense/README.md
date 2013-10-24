@@ -1,5 +1,4 @@
-Scindalma galegense (Mont.) Kuntze SPECIES
-=======
+# Scindalma galegense (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scleromitrula brassicae (Hammarl.) S. Imai SPECIES
-=======
+# Scleromitrula brassicae (Hammarl.) S. Imai SPECIES
 
 #### Status
 ACCEPTED

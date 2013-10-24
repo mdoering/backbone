@@ -1,5 +1,4 @@
-Thedgonia pavoniae (Deighton) U. Braun SPECIES
-=======
+# Thedgonia pavoniae (Deighton) U. Braun SPECIES
 
 #### Status
 ACCEPTED

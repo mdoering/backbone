@@ -1,5 +1,4 @@
-Pleurotus hirneola Speg. SPECIES
-=======
+# Pleurotus hirneola Speg. SPECIES
 
 #### Status
 ACCEPTED

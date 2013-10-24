@@ -1,5 +1,4 @@
-Amphileptus acutus SPECIES
-=======
+# Amphileptus acutus SPECIES
 
 #### Status
 ACCEPTED

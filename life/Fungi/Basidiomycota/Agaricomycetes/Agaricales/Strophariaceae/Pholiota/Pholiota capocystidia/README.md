@@ -1,5 +1,4 @@
-Pholiota capocystidia J. Bao Wang SPECIES
-=======
+# Pholiota capocystidia J. Bao Wang SPECIES
 
 #### Status
 ACCEPTED

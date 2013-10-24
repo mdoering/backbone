@@ -1,5 +1,4 @@
-Stypella mirabilis P. Roberts, 1998 SPECIES
-=======
+# Stypella mirabilis P. Roberts, 1998 SPECIES
 
 #### Status
 ACCEPTED

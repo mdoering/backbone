@@ -1,5 +1,4 @@
-Psathyrella longistriata var. longistriata VARIETY
-=======
+# Psathyrella longistriata (Murrill) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Psathyrella longistriata var. longistriata
+Stropharia longistriata Murrill
 
 ### Remarks
 null

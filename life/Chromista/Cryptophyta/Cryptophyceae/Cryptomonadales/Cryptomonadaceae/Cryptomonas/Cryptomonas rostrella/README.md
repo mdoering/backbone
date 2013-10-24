@@ -1,5 +1,4 @@
-Cryptomonas rostrella Lucas SPECIES
-=======
+# Cryptomonas rostrella Lucas SPECIES
 
 #### Status
 ACCEPTED

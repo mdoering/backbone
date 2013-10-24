@@ -1,5 +1,4 @@
-Pleosphaerulina violae Nagorny SPECIES
-=======
+# Pleosphaerulina violae Nagorny SPECIES
 
 #### Status
 ACCEPTED

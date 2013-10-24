@@ -1,5 +1,4 @@
-Aecidium stellariae Kirchn. SPECIES
-=======
+# Aecidium stellariae Kirchn. SPECIES
 
 #### Status
 ACCEPTED

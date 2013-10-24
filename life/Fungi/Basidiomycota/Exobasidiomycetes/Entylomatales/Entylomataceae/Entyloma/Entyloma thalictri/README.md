@@ -1,5 +1,4 @@
-Entyloma thalictri J. Schröt., 1887 SPECIES
-=======
+# Entyloma thalictri J. Schröt., 1887 SPECIES
 
 #### Status
 ACCEPTED

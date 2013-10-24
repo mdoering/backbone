@@ -1,5 +1,4 @@
-Agaricus anthidepas Berk. & Broome SPECIES
-=======
+# Agaricus anthidepas Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrosporium helminthosporioides (Corda) Sacc. & Traverso SPECIES
-=======
+# Macrosporium helminthosporioides (Corda) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

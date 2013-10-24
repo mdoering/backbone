@@ -1,5 +1,4 @@
-Indodinium A.Kumar, 1986 GENUS
-=======
+# Indodinium A.Kumar, 1986 GENUS
 
 #### Status
 ACCEPTED

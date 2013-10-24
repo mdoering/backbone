@@ -1,5 +1,4 @@
-Usnea abissinica Motyka SPECIES
-=======
+# Usnea abissinica Motyka SPECIES
 
 #### Status
 ACCEPTED

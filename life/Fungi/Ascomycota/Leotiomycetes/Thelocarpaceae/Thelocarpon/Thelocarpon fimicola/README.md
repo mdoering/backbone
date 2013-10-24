@@ -1,5 +1,4 @@
-Thelocarpon fimicola Fink SPECIES
-=======
+# Thelocarpon fimicola Fink SPECIES
 
 #### Status
 ACCEPTED

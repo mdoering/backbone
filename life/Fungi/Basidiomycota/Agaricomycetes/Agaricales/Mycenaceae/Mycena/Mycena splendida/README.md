@@ -1,5 +1,4 @@
-Mycena splendida Métrod SPECIES
-=======
+# Mycena splendida Métrod SPECIES
 
 #### Status
 ACCEPTED

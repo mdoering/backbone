@@ -1,5 +1,4 @@
-Trichobasis wyethiae Peck SPECIES
-=======
+# Trichobasis wyethiae Peck SPECIES
 
 #### Status
 ACCEPTED

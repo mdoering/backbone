@@ -1,5 +1,4 @@
-Mortierella wuyishanensis F.J. Chen, 1992 SPECIES
-=======
+# Mortierella wuyishanensis F.J. Chen, 1992 SPECIES
 
 #### Status
 ACCEPTED

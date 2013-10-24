@@ -1,5 +1,4 @@
-Choiromyces venosus (Fr.) Th. Fr. SPECIES
-=======
+# Choiromyces venosus (Fr.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

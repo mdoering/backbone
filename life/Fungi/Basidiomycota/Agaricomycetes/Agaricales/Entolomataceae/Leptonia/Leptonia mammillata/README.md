@@ -1,5 +1,4 @@
-Leptonia mammillata Velen. SPECIES
-=======
+# Leptonia mammillata Velen. SPECIES
 
 #### Status
 ACCEPTED

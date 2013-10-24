@@ -1,5 +1,4 @@
-Microdiplodia papillosa (Ellis & Everh.) Tassi SPECIES
-=======
+# Microdiplodia papillosa (Ellis & Everh.) Tassi SPECIES
 
 #### Status
 ACCEPTED

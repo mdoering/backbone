@@ -1,5 +1,4 @@
-Cortinarius gramineus Rob. Henry SPECIES
-=======
+# Cortinarius gramineus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

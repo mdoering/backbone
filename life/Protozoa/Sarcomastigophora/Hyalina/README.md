@@ -1,5 +1,4 @@
-Hyalina Jung, 1942 GENUS
-=======
+# Hyalina Jung, 1942 GENUS
 
 #### Status
 ACCEPTED

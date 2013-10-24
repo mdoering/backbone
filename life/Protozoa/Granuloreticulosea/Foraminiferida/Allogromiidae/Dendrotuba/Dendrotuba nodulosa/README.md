@@ -1,5 +1,4 @@
-Dendrotuba nodulosa Rhumbler, 1894 SPECIES
-=======
+# Dendrotuba nodulosa Rhumbler, 1894 SPECIES
 
 #### Status
 ACCEPTED

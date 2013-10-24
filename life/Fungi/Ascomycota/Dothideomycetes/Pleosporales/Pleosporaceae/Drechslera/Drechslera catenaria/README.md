@@ -1,14 +1,13 @@
-Drechslera catenarium (Drechsler) S. Ito SPECIES
-=======
+# Drechslera catenaria (Drechsler) S. Ito, 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proceedings of the Imper. Acad. Tokyo 6(nr. 8): 355 (1930)
 
 #### Original name
 Helminthosporium catenarium Drechsler, 1923

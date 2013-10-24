@@ -1,17 +1,16 @@
-Thelephora odorifera Peck, 1891 SPECIES
-=======
+# Thelephora albidobrunnea Schwein., 1832 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. 44: 132 (1891)
+Trans. Am. phil. Soc. , New Series 4(2): 166 (1832)
 
 #### Original name
-Thelephora odorifera Peck, 1891
+Thelephora albidobrunnea Schwein., 1832
 
 ### Remarks
 null

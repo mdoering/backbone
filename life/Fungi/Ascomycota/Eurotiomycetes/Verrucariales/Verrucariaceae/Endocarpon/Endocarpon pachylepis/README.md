@@ -1,5 +1,4 @@
-Endocarpon pachylepis Anzi SPECIES
-=======
+# Endocarpon pachylepis Anzi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triloculinoides Shchedrina, 1964 GENUS
-=======
+# Triloculinoides Shchedrina, 1964 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polygonium sedecimspinosum (Staplin, 1961) Stancliffe & Sarjeant, 1996 SPECIES
-=======
+# Polygonium sedecimspinosum (Staplin, 1961) Stancliffe & Sarjeant, 1996 SPECIES
 
 #### Status
 ACCEPTED

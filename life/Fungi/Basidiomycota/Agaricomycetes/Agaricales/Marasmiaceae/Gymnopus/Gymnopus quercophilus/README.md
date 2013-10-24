@@ -1,5 +1,4 @@
-Gymnopus quercophilus (Pouzar) Antonín & Noordel., 2008 SPECIES
-=======
+# Gymnopus quercophilus (Pouzar) Antonín & Noordel., 2008 SPECIES
 
 #### Status
 ACCEPTED

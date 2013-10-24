@@ -1,5 +1,4 @@
-Chaetophoma Cooke GENUS
-=======
+# Chaetophoma Cooke GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta crotalariae Speg. SPECIES
-=======
+# Phyllosticta crotalariae Speg. SPECIES
 
 #### Status
 ACCEPTED

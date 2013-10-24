@@ -1,5 +1,4 @@
-Synechocystis spirogyrae Skvorcov SPECIES
-=======
+# Synechocystis spirogyrae Skvorcov SPECIES
 
 #### Status
 ACCEPTED

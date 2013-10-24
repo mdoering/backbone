@@ -1,5 +1,4 @@
-Leptosphaeria hottai Hara SPECIES
-=======
+# Leptosphaeria hottai Hara SPECIES
 
 #### Status
 ACCEPTED

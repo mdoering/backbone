@@ -1,5 +1,4 @@
-Biddulphia tenera N. I. Strelnikova SPECIES
-=======
+# Biddulphia tenera N. I. Strelnikova SPECIES
 
 #### Status
 ACCEPTED

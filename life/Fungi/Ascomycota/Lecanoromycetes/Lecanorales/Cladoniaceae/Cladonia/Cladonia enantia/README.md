@@ -1,17 +1,16 @@
-Cladonia cariosa var. diffissa F. Wilson VARIETY
-=======
+# Cladonia enantia Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Victorian Nat. 6: 67 (1889)
+in Zwackh-Holzhausen, Rev. Cladonia 1 (1888)
 
 #### Original name
-Cladonia cariosa var. diffissa F. Wilson
+Cladonia enantia Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aulacanthidae Haeckel, 1887 FAMILY
-=======
+# Aulacanthidae Haeckel, 1887 FAMILY
 
 #### Status
 ACCEPTED

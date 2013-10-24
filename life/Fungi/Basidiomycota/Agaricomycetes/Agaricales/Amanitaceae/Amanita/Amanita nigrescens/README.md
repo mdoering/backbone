@@ -1,5 +1,4 @@
-Amanita nigrescens G. Stev., 1962 SPECIES
-=======
+# Amanita nigrescens G. Stev., 1962 SPECIES
 
 #### Status
 ACCEPTED

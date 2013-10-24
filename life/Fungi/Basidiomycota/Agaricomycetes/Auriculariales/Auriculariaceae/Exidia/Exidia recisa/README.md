@@ -1,5 +1,4 @@
-Exidia recisa (Ditmar) Fr., 1822 SPECIES
-=======
+# Exidia recisa (Ditmar) Fr., 1822 SPECIES
 
 #### Status
 ACCEPTED

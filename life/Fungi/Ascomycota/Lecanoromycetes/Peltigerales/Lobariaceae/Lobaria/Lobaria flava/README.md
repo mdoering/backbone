@@ -1,5 +1,4 @@
-Lobaria flava var. flava VARIETY
-=======
+# Lobaria flava (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

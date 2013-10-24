@@ -1,17 +1,16 @@
-Cribbiaceae FAMILY
-=======
+# Cortinariaceae R. Heim ex Pouzar FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ceská Mykol. 37: 174 (1983)
 
 #### Original name
-null
+Cortinariaceae R. Heim ex Pouzar
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Dimeromyces kamerunensis Thaxt. SPECIES
-=======
+# Dimeromyces kamerunensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

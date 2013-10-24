@@ -1,5 +1,4 @@
-Coniothyrium junci Ellis & Everh. SPECIES
-=======
+# Coniothyrium junci Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

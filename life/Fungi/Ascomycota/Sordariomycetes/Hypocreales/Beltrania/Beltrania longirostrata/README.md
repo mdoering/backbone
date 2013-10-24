@@ -1,5 +1,4 @@
-Beltrania longirostrata Kuthub. SPECIES
-=======
+# Beltrania longirostrata Kuthub. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Zignoëlla buttneri Rehm SPECIES
-=======
+# Zignoëlla buettneri Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Zignoëlla buttneri Rehm
+Zignoëlla buettneri Rehm
 
 ### Remarks
 null

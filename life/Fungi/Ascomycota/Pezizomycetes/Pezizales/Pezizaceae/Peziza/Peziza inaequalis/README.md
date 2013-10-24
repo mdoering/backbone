@@ -1,5 +1,4 @@
-Peziza inaequalis Berk. & M.A. Curtis SPECIES
-=======
+# Peziza inaequalis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

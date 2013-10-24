@@ -1,5 +1,4 @@
-Helvella venosa Fr. SPECIES
-=======
+# Helvella venosa Fr. SPECIES
 
 #### Status
 ACCEPTED

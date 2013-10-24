@@ -1,5 +1,4 @@
-Oscillatoria proteus Skuja SPECIES
-=======
+# Oscillatoria proteus Skuja SPECIES
 
 #### Status
 ACCEPTED

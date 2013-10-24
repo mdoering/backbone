@@ -1,5 +1,4 @@
-Cheilymenia polaripustulata J. Moravec SPECIES
-=======
+# Cheilymenia polaripustulata J. Moravec SPECIES
 
 #### Status
 ACCEPTED

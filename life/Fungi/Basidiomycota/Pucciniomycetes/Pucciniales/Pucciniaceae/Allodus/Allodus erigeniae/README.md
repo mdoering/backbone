@@ -1,5 +1,4 @@
-Allodus erigeniae Doidge SPECIES
-=======
+# Allodus erigeniae Doidge SPECIES
 
 #### Status
 ACCEPTED

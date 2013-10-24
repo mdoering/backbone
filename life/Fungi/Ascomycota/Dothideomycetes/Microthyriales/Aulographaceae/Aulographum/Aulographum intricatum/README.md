@@ -1,5 +1,4 @@
-Aulographum intricatum Berk. & Broome SPECIES
-=======
+# Aulographum intricatum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ellisiella Sacc. GENUS
-=======
+# Colletotrichum Corda GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 2(no. 6): 26, 147 (1881)
+in Sturm, Deutschl. Fl. , 3 Abt. (Pilze Deutschl. ) 3(12): 41, tab. 21 (1831)
 
 #### Original name
-Ellisiella Sacc.
+Colletotrichum Corda
 
 ### Remarks
 null

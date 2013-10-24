@@ -1,5 +1,4 @@
-Lepraria hueana (B. de Lesd.) SPECIES
-=======
+# Lepraria hueana (B. de Lesd.) SPECIES
 
 #### Status
 ACCEPTED

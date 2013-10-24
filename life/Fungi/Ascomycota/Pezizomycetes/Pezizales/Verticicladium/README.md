@@ -1,5 +1,4 @@
-Verticicladium Preuss, 1851 GENUS
-=======
+# Verticicladium Preuss, 1851 GENUS
 
 #### Status
 ACCEPTED

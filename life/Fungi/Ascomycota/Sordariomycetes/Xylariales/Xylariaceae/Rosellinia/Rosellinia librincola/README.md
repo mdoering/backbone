@@ -1,5 +1,4 @@
-Rosellinia librincola P. Karst. SPECIES
-=======
+# Rosellinia librincola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

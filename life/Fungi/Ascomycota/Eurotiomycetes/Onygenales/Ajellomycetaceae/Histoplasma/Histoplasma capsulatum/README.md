@@ -1,8 +1,7 @@
-Torulopsis capsulata (Darling) Castell. & Jacono, 1933 SPECIES
-=======
+# Histoplasma capsulatum Darling, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Histoplasma capsulatum Darling, 1906
+null
 
 ### Remarks
 null

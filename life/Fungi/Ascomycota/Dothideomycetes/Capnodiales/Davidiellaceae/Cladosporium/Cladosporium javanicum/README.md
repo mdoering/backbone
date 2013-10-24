@@ -1,5 +1,4 @@
-Cladosporium javanicum Wakker SPECIES
-=======
+# Cladosporium javanicum Wakker SPECIES
 
 #### Status
 ACCEPTED

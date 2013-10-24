@@ -1,5 +1,4 @@
-Clitocybe stolonifera Velen. SPECIES
-=======
+# Clitocybe stolonifera Velen. SPECIES
 
 #### Status
 ACCEPTED

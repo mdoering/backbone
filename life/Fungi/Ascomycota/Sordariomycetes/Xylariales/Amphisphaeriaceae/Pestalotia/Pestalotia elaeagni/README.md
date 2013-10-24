@@ -1,5 +1,4 @@
-Pestalotia elaeagni J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Pestalotia elaeagni J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

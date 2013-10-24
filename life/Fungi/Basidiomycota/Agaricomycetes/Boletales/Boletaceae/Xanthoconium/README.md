@@ -1,5 +1,4 @@
-Xanthoconium Singer GENUS
-=======
+# Xanthoconium Singer GENUS
 
 #### Status
 ACCEPTED

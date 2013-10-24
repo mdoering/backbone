@@ -1,5 +1,4 @@
-Lecanora sulfurescens Fée SPECIES
-=======
+# Lecanora sulfurescens Fée SPECIES
 
 #### Status
 ACCEPTED

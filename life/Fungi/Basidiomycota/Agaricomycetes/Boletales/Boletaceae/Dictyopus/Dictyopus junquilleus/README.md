@@ -1,5 +1,4 @@
-Dictyopus junquilleus Quél. SPECIES
-=======
+# Dictyopus junquilleus Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Johansonia guazumae Henn., 1904 SPECIES
-=======
+# Johansonia guazumae Henn., 1904 SPECIES
 
 #### Status
 ACCEPTED

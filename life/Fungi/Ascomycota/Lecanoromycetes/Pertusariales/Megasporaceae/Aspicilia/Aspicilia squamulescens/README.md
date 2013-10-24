@@ -1,5 +1,4 @@
-Aspicilia squamulescens Motyka SPECIES
-=======
+# Aspicilia squamulescens Motyka SPECIES
 
 #### Status
 ACCEPTED

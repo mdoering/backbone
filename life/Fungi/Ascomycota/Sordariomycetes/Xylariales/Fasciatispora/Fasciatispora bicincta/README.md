@@ -1,5 +1,4 @@
-Fasciatispora bicincta (Syd. & P. Syd.) K.D. Hyde SPECIES
-=======
+# Fasciatispora bicincta (Syd. & P. Syd.) K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

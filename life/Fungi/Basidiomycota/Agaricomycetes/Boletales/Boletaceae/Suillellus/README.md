@@ -1,5 +1,4 @@
-Suillellus GENUS
-=======
+# Suillellus GENUS
 
 #### Status
 ACCEPTED

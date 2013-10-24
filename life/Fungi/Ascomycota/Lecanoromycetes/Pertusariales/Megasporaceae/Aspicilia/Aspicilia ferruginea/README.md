@@ -1,5 +1,4 @@
-Aspicilia ferruginea (J. Steiner) Szatala SPECIES
-=======
+# Aspicilia ferruginea (J. Steiner) Szatala SPECIES
 
 #### Status
 ACCEPTED

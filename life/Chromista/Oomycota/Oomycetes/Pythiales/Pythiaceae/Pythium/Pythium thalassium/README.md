@@ -1,5 +1,4 @@
-Pythium thalassium D. Atkins SPECIES
-=======
+# Pythium thalassium D. Atkins SPECIES
 
 #### Status
 ACCEPTED

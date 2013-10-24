@@ -1,5 +1,4 @@
-Caloplaca littorea Tav. SPECIES
-=======
+# Caloplaca littorea Tav. SPECIES
 
 #### Status
 ACCEPTED

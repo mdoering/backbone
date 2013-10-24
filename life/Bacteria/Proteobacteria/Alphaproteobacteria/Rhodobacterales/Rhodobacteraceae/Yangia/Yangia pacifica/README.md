@@ -1,5 +1,4 @@
-Yangia pacifica Dai et al., 2006 SPECIES
-=======
+# Yangia pacifica Dai et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

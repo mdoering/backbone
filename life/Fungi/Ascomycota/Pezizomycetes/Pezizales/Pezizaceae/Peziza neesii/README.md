@@ -1,5 +1,4 @@
-Peziza neesii Saut. SPECIES
-=======
+# Peziza neesii Saut. SPECIES
 
 #### Status
 ACCEPTED

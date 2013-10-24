@@ -1,5 +1,4 @@
-Pluteus alveolatus var. excentricus Peck VARIETY
-=======
+# Pluteus alveolatus Cragin SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pluteus alveolatus var. excentricus Peck
+Pluteus alveolatus Cragin
 
 ### Remarks
 null

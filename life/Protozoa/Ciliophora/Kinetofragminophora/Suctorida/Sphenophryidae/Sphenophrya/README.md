@@ -1,5 +1,4 @@
-Sphenophrya Chatton & Lwoff, 1921 GENUS
-=======
+# Sphenophrya Chatton & Lwoff, 1921 GENUS
 
 #### Status
 ACCEPTED

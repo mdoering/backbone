@@ -1,5 +1,4 @@
-Psilocybe cystidiosa Peck SPECIES
-=======
+# Psilocybe cystidiosa Peck SPECIES
 
 #### Status
 ACCEPTED

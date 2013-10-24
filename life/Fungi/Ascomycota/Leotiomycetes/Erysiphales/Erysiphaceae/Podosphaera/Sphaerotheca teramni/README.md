@@ -1,17 +1,16 @@
-Sphaerotheca teramnii Bagyan. & Srinivasulu SPECIES
-=======
+# Sphaerotheca teramni Bagyan. & Srinivasulu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Frontiers in Microbial Biotechnology and Plant Pathology (Jodhpur), (Prof. S. M. Reddy Commemoration Volume) 240 (2002)
 
 #### Original name
-Sphaerotheca teramnii Bagyan. & Srinivasulu
+Sphaerotheca teramni Bagyan. & Srinivasulu
 
 ### Remarks
 null

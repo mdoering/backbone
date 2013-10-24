@@ -1,5 +1,4 @@
-Ovulariopsis ellipsospora G.J.M. Gorter SPECIES
-=======
+# Ovulariopsis ellipsospora G.J.M. Gorter SPECIES
 
 #### Status
 ACCEPTED

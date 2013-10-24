@@ -1,5 +1,4 @@
-Coreomyces incurvatus Speg. SPECIES
-=======
+# Coreomyces incurvatus Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Laboulbenia ardoini Balazuc SPECIES
-=======
+# Laboulbenia ardoinii Balazuc SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Laboulbenia ardoini Balazuc
+Laboulbenia ardoinii Balazuc
 
 ### Remarks
 null

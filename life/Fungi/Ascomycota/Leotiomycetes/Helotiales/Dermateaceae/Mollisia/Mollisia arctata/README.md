@@ -1,5 +1,4 @@
-Mollisia arctata P. Karst. SPECIES
-=======
+# Mollisia arctata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

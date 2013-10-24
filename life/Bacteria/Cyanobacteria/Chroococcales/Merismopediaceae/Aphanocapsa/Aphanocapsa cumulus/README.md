@@ -1,5 +1,4 @@
-Aphanocapsa cumulus Komárek & Cronberg SPECIES
-=======
+# Aphanocapsa cumulus Komárek & Cronberg SPECIES
 
 #### Status
 ACCEPTED

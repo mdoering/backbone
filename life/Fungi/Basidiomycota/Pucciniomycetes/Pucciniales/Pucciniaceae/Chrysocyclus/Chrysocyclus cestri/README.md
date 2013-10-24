@@ -1,14 +1,13 @@
-Chrysopsora cestri (Dietel & Henn.) Arthur, 1924 SPECIES
-=======
+# Chrysocyclus cestri (Dietel & Henn.) Syd., 1925 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 51: 53 (1924)
+Annls mycol. 23(3/6): 322 (1925)
 
 #### Original name
 Puccinia cestri Dietel & Henn., 1902

@@ -1,5 +1,4 @@
-Pseudocercospora maianthemi R. Kirschner SPECIES
-=======
+# Pseudocercospora maianthemi R. Kirschner SPECIES
 
 #### Status
 ACCEPTED

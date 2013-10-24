@@ -1,5 +1,4 @@
-Collybia pusilla Lebedeva SPECIES
-=======
+# Collybia pusilla Lebedeva SPECIES
 
 #### Status
 ACCEPTED

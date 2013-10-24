@@ -1,5 +1,4 @@
-Cortinarius poirieri Reumaux SPECIES
-=======
+# Cortinarius poirieri Reumaux SPECIES
 
 #### Status
 ACCEPTED

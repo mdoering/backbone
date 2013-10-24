@@ -1,5 +1,4 @@
-Collybia iridescens (Berk.) Manjula SPECIES
-=======
+# Collybia iridescens (Berk.) Manjula SPECIES
 
 #### Status
 ACCEPTED

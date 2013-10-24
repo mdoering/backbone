@@ -1,5 +1,4 @@
-Ammodiscus planus Höglund, 1947 SPECIES
-=======
+# Ammodiscus planus Höglund, 1947 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polycauliona fruticulosa (Darb.) Hue SPECIES
-=======
+# Polycauliona fruticulosa (Darb.) Hue SPECIES
 
 #### Status
 ACCEPTED

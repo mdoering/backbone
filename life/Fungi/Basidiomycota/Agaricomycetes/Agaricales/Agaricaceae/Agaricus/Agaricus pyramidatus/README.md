@@ -1,5 +1,4 @@
-Agaricus pyramidatus Schaeff. SPECIES
-=======
+# Agaricus pyramidatus Schaeff. SPECIES
 
 #### Status
 ACCEPTED

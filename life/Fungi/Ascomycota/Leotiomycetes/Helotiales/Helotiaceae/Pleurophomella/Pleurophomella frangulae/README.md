@@ -1,5 +1,4 @@
-Pleurophomella frangulae Petr. SPECIES
-=======
+# Pleurophomella frangulae Petr. SPECIES
 
 #### Status
 ACCEPTED

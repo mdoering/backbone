@@ -1,5 +1,4 @@
-Graphis imparilis Kremp. SPECIES
-=======
+# Graphis imparilis Kremp. SPECIES
 
 #### Status
 ACCEPTED

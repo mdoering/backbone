@@ -1,5 +1,4 @@
-Diversisporaceae Schwarzott, C. Walker & A. Schüssler FAMILY
-=======
+# Diversisporaceae Schwarzott, C. Walker & A. Schüssler FAMILY
 
 #### Status
 ACCEPTED

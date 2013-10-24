@@ -1,5 +1,4 @@
-Hypocrea gigantea Petch SPECIES
-=======
+# Hypocrea gigantea Petch SPECIES
 
 #### Status
 ACCEPTED

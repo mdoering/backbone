@@ -1,5 +1,4 @@
-Lecanora helvola Werner SPECIES
-=======
+# Lecanora helvola Werner SPECIES
 
 #### Status
 ACCEPTED

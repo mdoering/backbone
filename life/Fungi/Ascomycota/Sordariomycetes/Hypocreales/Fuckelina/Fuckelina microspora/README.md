@@ -1,5 +1,4 @@
-Fuckelina microspora Sacc. SPECIES
-=======
+# Fuckelina microspora Sacc. SPECIES
 
 #### Status
 ACCEPTED

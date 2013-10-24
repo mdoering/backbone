@@ -1,5 +1,4 @@
-Trachysphaeridium wangjiawanense Wang Fuxing & Zhai Yongyun, 1982 SPECIES
-=======
+# Trachysphaeridium wangjiawanense Wang Fuxing & Zhai Yongyun, 1982 SPECIES
 
 #### Status
 ACCEPTED

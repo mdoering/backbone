@@ -1,5 +1,4 @@
-Puccinia heliocarpi P. Syd. & Syd. SPECIES
-=======
+# Puccinia heliocarpi P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

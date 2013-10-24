@@ -1,5 +1,4 @@
-Heterochaete microspora Burt SPECIES
-=======
+# Heterochaete microspora Burt SPECIES
 
 #### Status
 ACCEPTED

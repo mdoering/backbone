@@ -1,5 +1,4 @@
-Sphacelotheca tonkinensis (Henn.) Zundel SPECIES
-=======
+# Sphacelotheca tonkinensis (Henn.) Zundel SPECIES
 
 #### Status
 ACCEPTED

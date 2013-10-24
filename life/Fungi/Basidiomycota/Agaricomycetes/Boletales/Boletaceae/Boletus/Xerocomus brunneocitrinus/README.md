@@ -1,5 +1,4 @@
-Xerocomus brunneocitrinus (A.H. Sm. & Thiers) H. Engel & Klofac SPECIES
-=======
+# Xerocomus brunneocitrinus (A.H. Sm. & Thiers) H. Engel & Klofac SPECIES
 
 #### Status
 ACCEPTED

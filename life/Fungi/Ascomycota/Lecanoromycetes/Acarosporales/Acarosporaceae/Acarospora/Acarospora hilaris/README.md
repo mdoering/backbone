@@ -1,11 +1,10 @@
-Acarospora hilaris f. hilaris FORM
-=======
+# Acarospora hilaris (Dufour) Hue SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

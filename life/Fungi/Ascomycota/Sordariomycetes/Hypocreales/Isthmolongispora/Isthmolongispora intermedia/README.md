@@ -1,5 +1,4 @@
-Isthmolongispora intermedia Matsush., 1971 SPECIES
-=======
+# Isthmolongispora intermedia Matsush., 1971 SPECIES
 
 #### Status
 ACCEPTED

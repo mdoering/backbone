@@ -1,5 +1,4 @@
-Cercospora pulchra Syd. SPECIES
-=======
+# Cercospora pulchra Syd. SPECIES
 
 #### Status
 ACCEPTED

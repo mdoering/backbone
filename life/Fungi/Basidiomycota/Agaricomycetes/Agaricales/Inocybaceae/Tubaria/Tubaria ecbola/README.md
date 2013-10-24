@@ -1,5 +1,4 @@
-Tubaria ecbola (Fr.) SPECIES
-=======
+# Tubaria ecbola (Fr.) SPECIES
 
 #### Status
 ACCEPTED

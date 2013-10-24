@@ -1,5 +1,4 @@
-Sepultaria gigantea Clem. SPECIES
-=======
+# Sepultaria gigantea Clem. SPECIES
 
 #### Status
 ACCEPTED

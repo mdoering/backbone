@@ -1,5 +1,4 @@
-Actinomyces marionolimnosus Zobell & Upham, 1944 SPECIES
-=======
+# Actinomyces marionolimnosus Zobell & Upham, 1944 SPECIES
 
 #### Status
 ACCEPTED

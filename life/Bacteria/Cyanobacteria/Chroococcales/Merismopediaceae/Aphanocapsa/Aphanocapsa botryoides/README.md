@@ -1,5 +1,4 @@
-Aphanocapsa botryoides Copeland SPECIES
-=======
+# Aphanocapsa botryoides Copeland SPECIES
 
 #### Status
 ACCEPTED

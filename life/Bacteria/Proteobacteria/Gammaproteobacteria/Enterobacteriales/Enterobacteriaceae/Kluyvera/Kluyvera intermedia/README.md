@@ -1,5 +1,4 @@
-Kluyvera intermedia (Izard et al., 1980) Pavan et al., 2005 SPECIES
-=======
+# Kluyvera intermedia (Izard et al., 1980) Pavan et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

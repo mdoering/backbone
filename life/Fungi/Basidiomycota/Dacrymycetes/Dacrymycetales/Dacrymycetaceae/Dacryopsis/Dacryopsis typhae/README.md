@@ -1,5 +1,4 @@
-Dacryopsis typhae Höhn. SPECIES
-=======
+# Dacryopsis typhae Höhn. SPECIES
 
 #### Status
 ACCEPTED

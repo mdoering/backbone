@@ -1,5 +1,4 @@
-Patellaria similis W.R. Gerard SPECIES
-=======
+# Patellaria similis W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

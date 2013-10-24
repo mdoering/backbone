@@ -1,5 +1,4 @@
-Septoria gracillima (Cooke) Sacc. SPECIES
-=======
+# Septoria gracillima (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

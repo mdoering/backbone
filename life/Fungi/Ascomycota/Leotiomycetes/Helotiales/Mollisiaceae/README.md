@@ -1,5 +1,4 @@
-Mollisiaceae Rehm FAMILY
-=======
+# Mollisiaceae Rehm FAMILY
 
 #### Status
 ACCEPTED

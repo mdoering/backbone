@@ -1,5 +1,4 @@
-Euloxostomum McCulloch, 1977 GENUS
-=======
+# Euloxostomum McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mollisia coprophila Speg. SPECIES
-=======
+# Mollisia coprophila Speg. SPECIES
 
 #### Status
 ACCEPTED

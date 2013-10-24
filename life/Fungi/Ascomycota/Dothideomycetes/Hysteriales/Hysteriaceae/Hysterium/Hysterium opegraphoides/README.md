@@ -1,5 +1,4 @@
-Hysterium opegraphoides (Göpp.) Heer SPECIES
-=======
+# Hysterium opegraphoides (Göpp.) Heer SPECIES
 
 #### Status
 ACCEPTED

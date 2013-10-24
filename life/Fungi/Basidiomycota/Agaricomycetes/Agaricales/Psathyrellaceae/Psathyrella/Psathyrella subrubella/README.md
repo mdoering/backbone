@@ -1,5 +1,4 @@
-Psathyrella subrubella A.H. Sm. SPECIES
-=======
+# Psathyrella subrubella A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

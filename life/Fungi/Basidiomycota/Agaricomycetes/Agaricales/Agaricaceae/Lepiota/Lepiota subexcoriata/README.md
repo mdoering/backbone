@@ -1,5 +1,4 @@
-Lepiota subexcoriata Bagl. SPECIES
-=======
+# Lepiota subexcoriata Bagl. SPECIES
 
 #### Status
 ACCEPTED

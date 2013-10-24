@@ -1,5 +1,4 @@
-Lobaria dictyota (Stirt.) D.D. Awasthi SPECIES
-=======
+# Lobaria dictyota (Stirt.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

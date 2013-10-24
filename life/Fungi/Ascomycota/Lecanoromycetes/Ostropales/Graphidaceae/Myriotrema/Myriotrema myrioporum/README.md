@@ -1,5 +1,4 @@
-Myriotrema myrioporum (Tuck.) Hale SPECIES
-=======
+# Myriotrema myrioporum (Tuck.) Hale SPECIES
 
 #### Status
 ACCEPTED

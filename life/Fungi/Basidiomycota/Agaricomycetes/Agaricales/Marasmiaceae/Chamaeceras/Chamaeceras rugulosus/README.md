@@ -1,5 +1,4 @@
-Chamaeceras rugulosus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras rugulosus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

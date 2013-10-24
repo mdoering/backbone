@@ -1,5 +1,4 @@
-Cercidospora olearum (Fabre) Kuntze SPECIES
-=======
+# Cercidospora olearum (Fabre) Kuntze SPECIES
 
 #### Status
 ACCEPTED

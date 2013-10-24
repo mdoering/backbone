@@ -1,5 +1,4 @@
-Rugasphaera maxima Song Zhichen et al., 1985 SPECIES
-=======
+# Rugasphaera maxima Song Zhichen et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

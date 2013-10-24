@@ -1,14 +1,13 @@
-Peniophora cacaina Bourdot & Galzin, 1913 SPECIES
-=======
+# Phanerochaete cacaina (Bourdot & Galzin) Burds. & Gilb., 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 28(4): 397 (1913)
+Mycologia 66(5): 781 (1974)
 
 #### Original name
 Peniophora cacaina Bourdot & Galzin, 1913

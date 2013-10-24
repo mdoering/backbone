@@ -1,17 +1,16 @@
-Uredo spegazzinii De Toni, 1888 SPECIES
-=======
+# Uredo commelinae Speg., 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Grevillea 11(no. 57): 24 (1882)
 
 #### Original name
-null
+Uredo commelinae Speg., 1880
 
 ### Remarks
 null

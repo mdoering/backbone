@@ -1,5 +1,4 @@
-Uncinula mori I. Miyake SPECIES
-=======
+# Uncinula mori I. Miyake SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coccoidella quercifolia S.K. Bose & E. Müll. SPECIES
-=======
+# Coccoidella quercifolia S.K. Bose & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

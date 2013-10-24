@@ -1,5 +1,4 @@
-Simocybe magna Singer SPECIES
-=======
+# Simocybe magna Singer SPECIES
 
 #### Status
 ACCEPTED

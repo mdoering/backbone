@@ -1,5 +1,4 @@
-Lecidea saltensis H. Magn. SPECIES
-=======
+# Lecidea saltensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

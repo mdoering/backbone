@@ -1,5 +1,4 @@
-Eballistraceae R. Bauer, Begerow, A. Nagler & Oberw. FAMILY
-=======
+# Eballistraceae R. Bauer, Begerow, A. Nagler & Oberw. FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen discolor Ach. SPECIES
-=======
+# Lichen discolor Ach. SPECIES
 
 #### Status
 ACCEPTED

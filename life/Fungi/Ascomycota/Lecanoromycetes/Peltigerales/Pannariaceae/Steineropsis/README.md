@@ -1,5 +1,4 @@
-Steineropsis GENUS
-=======
+# Steineropsis GENUS
 
 #### Status
 ACCEPTED

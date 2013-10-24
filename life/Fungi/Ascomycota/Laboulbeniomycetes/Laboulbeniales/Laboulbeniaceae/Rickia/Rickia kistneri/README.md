@@ -1,5 +1,4 @@
-Rickia kistneri W. Rossi SPECIES
-=======
+# Rickia kistneri W. Rossi SPECIES
 
 #### Status
 ACCEPTED

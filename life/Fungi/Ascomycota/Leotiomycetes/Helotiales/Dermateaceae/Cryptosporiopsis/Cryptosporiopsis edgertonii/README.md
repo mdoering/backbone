@@ -1,14 +1,13 @@
-Myxosporium longisporum Edgerton, 1908 SPECIES
-=======
+# Cryptosporiopsis edgertonii Gadgil & M.A. Dick, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 6(1): 53 (1908)
+N. Z. Jl For. Sci. 31(2): 197 (2001)
 
 #### Original name
 Myxosporium longisporum Edgerton, 1908

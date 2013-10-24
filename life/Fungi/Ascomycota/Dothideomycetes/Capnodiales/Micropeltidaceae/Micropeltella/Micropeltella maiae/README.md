@@ -1,5 +1,4 @@
-Micropeltella maiae Bat. & Cavalc. SPECIES
-=======
+# Micropeltella maiae Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

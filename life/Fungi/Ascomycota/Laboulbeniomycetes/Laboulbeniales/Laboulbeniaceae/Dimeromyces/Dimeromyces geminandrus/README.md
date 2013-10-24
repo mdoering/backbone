@@ -1,5 +1,4 @@
-Dimeromyces geminandrus Thaxt. SPECIES
-=======
+# Dimeromyces geminandrus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

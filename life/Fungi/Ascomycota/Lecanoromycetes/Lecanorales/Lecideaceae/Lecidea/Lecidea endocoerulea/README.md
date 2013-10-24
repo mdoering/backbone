@@ -1,5 +1,4 @@
-Lecidea endocoerulea (Riddle) Zahlbr. SPECIES
-=======
+# Lecidea endocoerulea (Riddle) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

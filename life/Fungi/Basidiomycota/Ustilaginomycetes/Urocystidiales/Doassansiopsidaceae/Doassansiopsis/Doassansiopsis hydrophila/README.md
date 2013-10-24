@@ -1,17 +1,16 @@
-Savulescuella aquatilis (Peck) Cif., 1959 SPECIES
-=======
+# Doassansiopsis hydrophila (A. Dietr.) Lavrov, 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lejeunia Mém. 179 (1959)
+in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Teil. <b>I</b> 1**: 15, 21 (1897)
 
 #### Original name
-null
+Sphaeria hydrophila P. Karst., 1873
 
 ### Remarks
 null

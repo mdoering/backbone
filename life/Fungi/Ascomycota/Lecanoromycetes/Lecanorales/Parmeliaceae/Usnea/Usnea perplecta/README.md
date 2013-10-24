@@ -1,5 +1,4 @@
-Usnea perplecta SPECIES
-=======
+# Usnea perplecta SPECIES
 
 #### Status
 ACCEPTED

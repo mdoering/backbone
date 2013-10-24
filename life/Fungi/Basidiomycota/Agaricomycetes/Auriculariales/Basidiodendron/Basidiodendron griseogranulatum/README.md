@@ -1,5 +1,4 @@
-Basidiodendron griseogranulatum Rick SPECIES
-=======
+# Basidiodendron griseogranulatum Rick SPECIES
 
 #### Status
 ACCEPTED

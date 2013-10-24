@@ -1,5 +1,4 @@
-Puccinia helvetica J. Schröt. SPECIES
-=======
+# Puccinia helvetica J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

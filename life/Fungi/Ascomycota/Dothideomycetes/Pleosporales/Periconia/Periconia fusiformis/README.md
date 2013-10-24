@@ -1,5 +1,4 @@
-Periconia fusiformis Munt.-Cvetk., Hoyo & Gómez-Bolea SPECIES
-=======
+# Periconia fusiformis Munt.-Cvetk., Hoyo & Gómez-Bolea SPECIES
 
 #### Status
 ACCEPTED

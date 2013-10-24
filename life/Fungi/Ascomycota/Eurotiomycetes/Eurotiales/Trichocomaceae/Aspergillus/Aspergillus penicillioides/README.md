@@ -1,17 +1,16 @@
-Aspergillus penicilloideum Speg. SPECIES
-=======
+# Aspergillus penicillioides Speg., 1896 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revta Fac. Agron. Vet. Univ. nac. La Plata 245 (1896)
 
 #### Original name
-Aspergillus penicilloideum Speg.
+Aspergillus penicillioides Speg., 1896
 
 ### Remarks
 null

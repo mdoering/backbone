@@ -1,5 +1,4 @@
-Striatorbina reticulata Sellier de Civrieux, 1991 SPECIES
-=======
+# Striatorbina reticulata Sellier de Civrieux, 1991 SPECIES
 
 #### Status
 ACCEPTED

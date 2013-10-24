@@ -1,5 +1,4 @@
-Hysterangium calcareum R. Hesse SPECIES
-=======
+# Hysterangium calcareum R. Hesse SPECIES
 
 #### Status
 ACCEPTED

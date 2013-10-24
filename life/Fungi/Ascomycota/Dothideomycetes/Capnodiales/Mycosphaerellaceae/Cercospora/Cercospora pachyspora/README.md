@@ -1,5 +1,4 @@
-Cercospora pachyspora Ellis & Everh. SPECIES
-=======
+# Cercospora pachyspora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bolivinopsis Yakovlev, 1891 GENUS
-=======
+# Bolivinopsis Yakovlev, 1891 GENUS
 
 #### Status
 ACCEPTED

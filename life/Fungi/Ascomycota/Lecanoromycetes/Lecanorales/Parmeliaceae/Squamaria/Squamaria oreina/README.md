@@ -1,5 +1,4 @@
-Squamaria oreina SPECIES
-=======
+# Squamaria oreina SPECIES
 
 #### Status
 ACCEPTED

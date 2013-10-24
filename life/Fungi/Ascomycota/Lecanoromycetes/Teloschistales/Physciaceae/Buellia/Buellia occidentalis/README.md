@@ -1,5 +1,4 @@
-Buellia occidentalis Lynge SPECIES
-=======
+# Buellia occidentalis Lynge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pythium coloratum Vaartaja, 1965 SPECIES
-=======
+# Pythium coloratum Vaartaja, 1965 SPECIES
 
 #### Status
 ACCEPTED

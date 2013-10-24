@@ -1,5 +1,4 @@
-Cylindrocarpon musae C. Booth & R.H. Stover, 1974 SPECIES
-=======
+# Cylindrocarpon musae C. Booth & R.H. Stover, 1974 SPECIES
 
 #### Status
 ACCEPTED

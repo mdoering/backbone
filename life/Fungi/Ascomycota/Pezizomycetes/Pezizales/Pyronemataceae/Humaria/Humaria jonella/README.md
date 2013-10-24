@@ -1,5 +1,4 @@
-Humaria jonella (Quél.) Sacc. SPECIES
-=======
+# Humaria jonella (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

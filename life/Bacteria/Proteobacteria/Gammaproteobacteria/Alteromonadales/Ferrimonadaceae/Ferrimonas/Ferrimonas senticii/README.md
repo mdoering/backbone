@@ -1,5 +1,4 @@
-Ferrimonas senticii Campbell, Harada & Li, 2007 SPECIES
-=======
+# Ferrimonas senticii Campbell, Harada & Li, 2007 SPECIES
 
 #### Status
 ACCEPTED

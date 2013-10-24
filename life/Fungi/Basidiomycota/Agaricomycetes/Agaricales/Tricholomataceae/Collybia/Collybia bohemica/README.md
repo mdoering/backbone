@@ -1,5 +1,4 @@
-Collybia bohemica Velen. SPECIES
-=======
+# Collybia bohemica Velen. SPECIES
 
 #### Status
 ACCEPTED

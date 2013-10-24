@@ -1,5 +1,4 @@
-Antennularia aeruginosa (G. Winter) Theiss. SPECIES
-=======
+# Antennularia aeruginosa (G. Winter) Theiss. SPECIES
 
 #### Status
 ACCEPTED

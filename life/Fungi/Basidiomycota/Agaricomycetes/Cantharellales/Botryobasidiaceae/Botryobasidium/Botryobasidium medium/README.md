@@ -1,5 +1,4 @@
-Botryobasidium medium J. Erikss., 1958 SPECIES
-=======
+# Botryobasidium medium J. Erikss., 1958 SPECIES
 
 #### Status
 ACCEPTED

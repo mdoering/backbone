@@ -1,5 +1,4 @@
-Marssonina populicola Miura SPECIES
-=======
+# Marssonina populicola Miura SPECIES
 
 #### Status
 ACCEPTED

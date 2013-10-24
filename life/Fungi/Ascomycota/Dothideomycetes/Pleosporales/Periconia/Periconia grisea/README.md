@@ -1,5 +1,4 @@
-Periconia grisea Corda SPECIES
-=======
+# Periconia grisea Corda SPECIES
 
 #### Status
 ACCEPTED

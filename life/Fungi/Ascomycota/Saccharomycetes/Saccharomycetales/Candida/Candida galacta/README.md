@@ -1,14 +1,13 @@
-Torulopsis apis var. galacta Golubev & Babeva, 1977 VARIETY
-=======
+# Candida galacta (Golubev & Babeva) F.L. Lee, C.F. Lee, S. Okada, W.H. Hsu, Uchimura, Komag. & Kozaki, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Int. J. Syst. Bacteriol. 43(1): 184 (1993)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Bovistoides simplex Lloyd SPECIES
-=======
+# Bovistoides simplex Lloyd SPECIES
 
 #### Status
 ACCEPTED

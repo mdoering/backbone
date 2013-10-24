@@ -1,5 +1,4 @@
-Staphylococcus simiae Pantucek et al., 2005 SPECIES
-=======
+# Staphylococcus simiae Pantucek et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

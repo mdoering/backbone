@@ -1,5 +1,4 @@
-Caeomurus polymorphus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Caeomurus polymorphus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

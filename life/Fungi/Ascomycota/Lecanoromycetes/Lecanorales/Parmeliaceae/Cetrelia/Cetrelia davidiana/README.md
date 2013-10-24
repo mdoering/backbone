@@ -1,5 +1,4 @@
-Cetrelia davidiana W. L. Culb. & C. F. Culb. SPECIES
-=======
+# Cetrelia davidiana W. L. Culb. & C. F. Culb. SPECIES
 
 #### Status
 ACCEPTED

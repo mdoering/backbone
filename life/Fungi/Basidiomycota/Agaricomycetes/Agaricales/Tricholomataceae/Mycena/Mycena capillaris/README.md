@@ -1,5 +1,4 @@
-Mycena capillaris (Schumach. Fr.) P. Kumm. SPECIES
-=======
+# Mycena capillaris (Schumach. Fr.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

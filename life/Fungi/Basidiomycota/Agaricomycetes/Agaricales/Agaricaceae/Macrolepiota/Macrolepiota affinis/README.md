@@ -1,5 +1,4 @@
-Macrolepiota affinis (Velen.) Bon SPECIES
-=======
+# Macrolepiota affinis (Velen.) Bon SPECIES
 
 #### Status
 ACCEPTED

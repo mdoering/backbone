@@ -1,5 +1,4 @@
-Leptosphaeria recutita (Fuckel) E. Müll., 1950 SPECIES
-=======
+# Leptosphaeria recutita (Fuckel) E. Müll., 1950 SPECIES
 
 #### Status
 ACCEPTED

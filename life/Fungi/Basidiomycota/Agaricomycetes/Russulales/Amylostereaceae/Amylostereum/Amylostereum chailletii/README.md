@@ -1,17 +1,16 @@
-Xerocarpus ambiguus P. Karst., 1881 SPECIES
-=======
+# Amylostereum chailletii (Pers.) Boidin, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Soc. Fauna Flora fenn. 2(1): 38 (1881)
+Revue Mycol. , Paris 23: 345 (1958)
 
 #### Original name
-Xerocarpus ambiguus P. Karst., 1881
+Thelephora chailletii Pers., 1822
 
 ### Remarks
 null

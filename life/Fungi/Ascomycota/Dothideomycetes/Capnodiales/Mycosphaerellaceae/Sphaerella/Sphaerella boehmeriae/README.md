@@ -1,5 +1,4 @@
-Sphaerella boehmeriae Rabenh. SPECIES
-=======
+# Sphaerella boehmeriae Rabenh. SPECIES
 
 #### Status
 ACCEPTED

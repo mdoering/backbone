@@ -1,5 +1,4 @@
-Dermatocarpon fuscatulum (Nyl.) Zahlbr. SPECIES
-=======
+# Dermatocarpon fuscatulum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

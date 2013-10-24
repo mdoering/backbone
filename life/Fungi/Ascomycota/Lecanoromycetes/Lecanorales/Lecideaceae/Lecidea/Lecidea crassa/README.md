@@ -1,5 +1,4 @@
-Lecidea crassa (Nees) Stizenb. SPECIES
-=======
+# Lecidea crassa (Nees) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

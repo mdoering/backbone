@@ -1,5 +1,4 @@
-Phyllosticta bolleana Sacc., 1884 SPECIES
-=======
+# Phyllosticta bolleana Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED

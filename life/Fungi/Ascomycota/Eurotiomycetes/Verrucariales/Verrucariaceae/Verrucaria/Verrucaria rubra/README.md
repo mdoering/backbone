@@ -1,5 +1,4 @@
-Verrucaria rubra Sommerf. SPECIES
-=======
+# Verrucaria rubra Sommerf. SPECIES
 
 #### Status
 ACCEPTED

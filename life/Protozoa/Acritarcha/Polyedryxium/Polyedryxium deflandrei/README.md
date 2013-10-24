@@ -1,5 +1,4 @@
-Polyedryxium deflandrei Deunff, 1954 ex Deunff, 1961 SPECIES
-=======
+# Polyedryxium deflandrei Deunff, 1954 ex Deunff, 1961 SPECIES
 
 #### Status
 ACCEPTED

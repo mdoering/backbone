@@ -1,17 +1,16 @@
-Uredo antherarum var. antherarum VARIETY
-=======
+# Microbotryum violaceum (Pers.) G. Deml & Oberw., 1982 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytopath. Z. 104(4): 353 (1982)
 
 #### Original name
-null
+Uredo violacea Pers., 1797
 
 ### Remarks
 null

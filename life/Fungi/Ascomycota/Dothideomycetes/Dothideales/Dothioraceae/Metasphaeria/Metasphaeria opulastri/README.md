@@ -1,5 +1,4 @@
-Metasphaeria opulastri Clem. SPECIES
-=======
+# Metasphaeria opulastri Clem. SPECIES
 
 #### Status
 ACCEPTED

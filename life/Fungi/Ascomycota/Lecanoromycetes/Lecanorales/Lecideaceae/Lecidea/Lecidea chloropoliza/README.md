@@ -1,5 +1,4 @@
-Lecidea chloropoliza (Nyl.) Nyl. SPECIES
-=======
+# Lecidea chloropoliza (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

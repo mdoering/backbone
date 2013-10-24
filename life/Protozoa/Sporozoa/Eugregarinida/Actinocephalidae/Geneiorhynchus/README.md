@@ -1,14 +1,13 @@
-Geniorhynchus Labbé, 1899 GENUS
-=======
+# Geneiorhynchus Schneider, 1875 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Tierreich, 5, 25.
+Arch. Zool. expér. gén. , Paris, 4, 594.
 
 #### Original name
 null

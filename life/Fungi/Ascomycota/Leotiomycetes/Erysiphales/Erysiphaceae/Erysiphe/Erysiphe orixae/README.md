@@ -1,5 +1,4 @@
-Erysiphe orixae (U. Braun & Tanada) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe orixae (U. Braun & Tanada) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Gymnodinium hiroshimaense Hada, 1968 SPECIES
-=======
+# Gymnodinium heterostriatum Kofoid & Swezy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

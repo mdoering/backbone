@@ -1,5 +1,4 @@
-Colletotrichum platani Sousa da Câmara SPECIES
-=======
+# Colletotrichum platani Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

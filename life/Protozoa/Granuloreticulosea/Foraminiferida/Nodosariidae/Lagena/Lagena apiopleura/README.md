@@ -1,5 +1,4 @@
-Lagena apiopleura SPECIES
-=======
+# Lagena apiopleura SPECIES
 
 #### Status
 ACCEPTED

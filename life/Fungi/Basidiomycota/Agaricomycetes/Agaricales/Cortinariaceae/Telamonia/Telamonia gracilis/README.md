@@ -1,5 +1,4 @@
-Telamonia gracilis var. gracilis VARIETY
-=======
+# Telamonia gracilis Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Telamonia gracilis var. gracilis
+Telamonia gracilis Peck
 
 ### Remarks
 null

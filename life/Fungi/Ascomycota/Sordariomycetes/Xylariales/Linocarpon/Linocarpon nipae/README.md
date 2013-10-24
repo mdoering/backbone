@@ -1,5 +1,4 @@
-Linocarpon nipae (Henn.) K.D. Hyde, 1989 SPECIES
-=======
+# Linocarpon nipae (Henn.) K.D. Hyde, 1989 SPECIES
 
 #### Status
 ACCEPTED

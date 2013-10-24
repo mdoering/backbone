@@ -1,5 +1,4 @@
-Leptosphaeria pinnarum Pass. SPECIES
-=======
+# Leptosphaeria pinnarum Pass. SPECIES
 
 #### Status
 ACCEPTED

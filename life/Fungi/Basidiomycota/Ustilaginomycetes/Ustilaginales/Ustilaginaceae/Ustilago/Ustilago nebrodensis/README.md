@@ -1,5 +1,4 @@
-Ustilago nebrodensis Gonz. Frag. SPECIES
-=======
+# Ustilago nebrodensis Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

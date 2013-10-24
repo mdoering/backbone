@@ -1,5 +1,4 @@
-Phyllosticta melaleuca Ellis & Everh. SPECIES
-=======
+# Phyllosticta melaleuca Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

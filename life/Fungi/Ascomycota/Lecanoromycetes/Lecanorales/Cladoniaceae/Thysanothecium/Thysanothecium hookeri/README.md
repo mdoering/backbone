@@ -1,17 +1,16 @@
-Thysanothecium hookeri subsp. hookeri SUBSPECIES
-=======
+# Thysanothecium hookeri Mont. & Berk. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hooker's J. Bot. Kew Gard. Misc. 5: 257 (1846)
 
 #### Original name
-null
+Thysanothecium hookeri Mont. & Berk.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Diplodothiorella GENUS
-=======
+# Diplodothiorella GENUS
 
 #### Status
 ACCEPTED

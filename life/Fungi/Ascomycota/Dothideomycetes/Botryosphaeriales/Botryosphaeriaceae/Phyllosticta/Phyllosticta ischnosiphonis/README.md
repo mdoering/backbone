@@ -1,5 +1,4 @@
-Phyllosticta ischnosiphonis Henn. SPECIES
-=======
+# Phyllosticta ischnosiphonis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rabdiophrys reticulata (Thomsen) Roijackers & Siemensma, 1988 SPECIES
-=======
+# Rabdiophrys reticulata (Thomsen) Roijackers & Siemensma, 1988 SPECIES
 
 #### Status
 ACCEPTED

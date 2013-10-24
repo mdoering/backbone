@@ -1,5 +1,4 @@
-Aporomyces szaboi Bánhegyi, 1944 SPECIES
-=======
+# Aporomyces szaboi Bánhegyi, 1944 SPECIES
 
 #### Status
 ACCEPTED

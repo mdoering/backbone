@@ -1,14 +1,13 @@
-Trichosphaeria rostrupii Berl. & Voglino, 1886 SPECIES
-=======
+# Acanthosphaeria rostrupii (Berl. & Voglino) Kirschst., 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 37: 91 (1939)
 
 #### Original name
 Trichosphaeria rostrupii Berl. & Voglino, 1886

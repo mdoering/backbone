@@ -1,5 +1,4 @@
-Pasteurella multocida subsp. multocida SUBSPECIES
-=======
+# Pasteurella multocida (Lehmann & Neumann, 1899) Rosenbusch & Merchant, 1939 SPECIES
 
 #### Status
 ACCEPTED

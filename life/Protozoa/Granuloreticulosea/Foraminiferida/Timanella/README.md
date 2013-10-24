@@ -1,5 +1,4 @@
-Timanella Reitlinger, 1981 GENUS
-=======
+# Timanella Reitlinger, 1981 GENUS
 
 #### Status
 ACCEPTED

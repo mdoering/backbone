@@ -1,5 +1,4 @@
-Gyalideopsis albopruinosa Lücking SPECIES
-=======
+# Gyalideopsis albopruinosa Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhytisma confluens (Schwein.) Fr. SPECIES
-=======
+# Rhytisma confluens (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scindalma cesatii Kuntze SPECIES
-=======
+# Scindalma cesatii Kuntze SPECIES
 
 #### Status
 ACCEPTED

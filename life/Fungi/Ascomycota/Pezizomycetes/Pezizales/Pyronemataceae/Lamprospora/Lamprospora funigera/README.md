@@ -1,5 +1,4 @@
-Lamprospora funigera McLennan & Cookson SPECIES
-=======
+# Lamprospora funigera McLennan & Cookson SPECIES
 
 #### Status
 ACCEPTED

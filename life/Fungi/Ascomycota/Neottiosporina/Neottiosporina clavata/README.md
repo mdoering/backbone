@@ -1,5 +1,4 @@
-Neottiosporina clavata B. Sutton, 1980 SPECIES
-=======
+# Neottiosporina clavata B. Sutton, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula dispersa (Wallr.) Schaer. SPECIES
-=======
+# Pyrenula dispersa (Wallr.) Schaer. SPECIES
 
 #### Status
 ACCEPTED

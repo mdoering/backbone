@@ -1,5 +1,4 @@
-Pestalotiopsis pestalozzioides (Dearn. & Fairm.) Nag Raj SPECIES
-=======
+# Pestalotiopsis pestalozzioides (Dearn. & Fairm.) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

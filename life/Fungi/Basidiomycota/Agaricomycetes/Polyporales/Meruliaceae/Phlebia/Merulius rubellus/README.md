@@ -1,5 +1,4 @@
-Merulius rubellus Peck SPECIES
-=======
+# Merulius rubellus Peck SPECIES
 
 #### Status
 ACCEPTED

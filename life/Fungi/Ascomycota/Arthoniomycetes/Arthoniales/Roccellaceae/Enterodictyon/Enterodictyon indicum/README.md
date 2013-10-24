@@ -1,5 +1,4 @@
-Enterodictyon indicum Müll. Arg. SPECIES
-=======
+# Enterodictyon indicum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

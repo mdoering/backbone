@@ -1,5 +1,4 @@
-Hypoxylon subiculatum (Schwein.) Berk. SPECIES
-=======
+# Hypoxylon subiculatum (Schwein.) Berk. SPECIES
 
 #### Status
 ACCEPTED

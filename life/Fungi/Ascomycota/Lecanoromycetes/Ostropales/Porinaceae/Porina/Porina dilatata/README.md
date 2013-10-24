@@ -1,5 +1,4 @@
-Porina dilatata Vain. SPECIES
-=======
+# Porina dilatata Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Kylindria triseptata (Matsush.) DiCosmo, S.M. Berch & W.B. Kendr., 1983 SPECIES
-=======
+# Cylindrotrichum triseptatum Matsush., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 75(6): 971 (1983)
+Icon. microfung. Matsush. lect. (Kobe) 48 (1975)
 
 #### Original name
 Cylindrotrichum triseptatum Matsush., 1975

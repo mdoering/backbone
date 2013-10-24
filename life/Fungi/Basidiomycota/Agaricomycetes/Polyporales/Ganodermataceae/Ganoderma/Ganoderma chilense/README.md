@@ -1,14 +1,13 @@
-Polyporus chilensis Fr., 1851 SPECIES
-=======
+# Ganoderma chilense (Fr.) Pat., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Acta R. Soc. Scient. upsal. , Ser. 3 1: 63 (1851)
+Bull. Soc. mycol. Fr. 5(2,3): 74 (1889)
 
 #### Original name
 Polyporus chilensis Fr., 1851

@@ -1,5 +1,4 @@
-Ovoidinium implanum R. J. Davey SPECIES
-=======
+# Ovoidinium implanum R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

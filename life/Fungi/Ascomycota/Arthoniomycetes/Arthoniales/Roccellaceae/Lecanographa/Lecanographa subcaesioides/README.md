@@ -1,5 +1,4 @@
-Lecanographa subcaesioides Egea & Torrente SPECIES
-=======
+# Lecanographa subcaesioides Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

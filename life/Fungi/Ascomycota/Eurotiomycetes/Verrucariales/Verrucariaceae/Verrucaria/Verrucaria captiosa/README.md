@@ -1,5 +1,4 @@
-Verrucaria captiosa Kremp. SPECIES
-=======
+# Verrucaria captiosa Kremp. SPECIES
 
 #### Status
 ACCEPTED

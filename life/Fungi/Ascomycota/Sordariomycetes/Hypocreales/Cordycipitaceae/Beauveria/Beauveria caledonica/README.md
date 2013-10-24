@@ -1,5 +1,4 @@
-Beauveria caledonica Bissett & Widden, 1988 SPECIES
-=======
+# Beauveria caledonica Bissett & Widden, 1988 SPECIES
 
 #### Status
 ACCEPTED

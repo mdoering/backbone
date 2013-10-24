@@ -1,5 +1,4 @@
-Helminthosporium bambusae Cooke SPECIES
-=======
+# Helminthosporium bambusae Cooke SPECIES
 
 #### Status
 ACCEPTED

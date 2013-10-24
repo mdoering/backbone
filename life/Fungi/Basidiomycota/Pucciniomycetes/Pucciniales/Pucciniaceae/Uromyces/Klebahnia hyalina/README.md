@@ -1,5 +1,4 @@
-Klebahnia hyalina (Peck) Arthur SPECIES
-=======
+# Klebahnia hyalina (Peck) Arthur SPECIES
 
 #### Status
 ACCEPTED

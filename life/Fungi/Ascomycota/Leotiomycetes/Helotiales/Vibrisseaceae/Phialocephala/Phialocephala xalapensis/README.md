@@ -1,5 +1,4 @@
-Phialocephala xalapensis Persiani & Maggi, 1984 SPECIES
-=======
+# Phialocephala xalapensis Persiani & Maggi, 1984 SPECIES
 
 #### Status
 ACCEPTED

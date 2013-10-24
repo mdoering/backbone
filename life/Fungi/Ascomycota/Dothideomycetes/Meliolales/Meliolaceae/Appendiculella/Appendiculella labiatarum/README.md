@@ -1,5 +1,4 @@
-Appendiculella labiatarum Hansf. SPECIES
-=======
+# Appendiculella labiatarum Hansf. SPECIES
 
 #### Status
 ACCEPTED

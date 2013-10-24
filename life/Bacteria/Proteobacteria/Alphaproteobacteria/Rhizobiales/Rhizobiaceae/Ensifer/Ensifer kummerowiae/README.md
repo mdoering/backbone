@@ -1,8 +1,7 @@
-Sinorhizobium kummerowiae Wei et al., 2002 SPECIES
-=======
+# Ensifer kummerowiae (Wei et al., 2002) Young, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

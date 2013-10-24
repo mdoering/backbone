@@ -1,5 +1,4 @@
-Achroomyces carolinianus (Coker) Wojewoda SPECIES
-=======
+# Achroomyces carolinianus (Coker) Wojewoda SPECIES
 
 #### Status
 ACCEPTED

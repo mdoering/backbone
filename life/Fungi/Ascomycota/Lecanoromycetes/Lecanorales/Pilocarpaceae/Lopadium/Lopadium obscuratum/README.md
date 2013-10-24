@@ -1,5 +1,4 @@
-Lopadium obscuratum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Lopadium obscuratum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

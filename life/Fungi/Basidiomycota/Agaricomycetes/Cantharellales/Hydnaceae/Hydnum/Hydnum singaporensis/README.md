@@ -1,5 +1,4 @@
-Hydnum singaporensis Lloyd SPECIES
-=======
+# Hydnum singaporensis Lloyd SPECIES
 
 #### Status
 ACCEPTED

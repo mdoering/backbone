@@ -1,5 +1,4 @@
-Spiniferites porosus (Manum & Cookson, 1964) Harland, 1973 SPECIES
-=======
+# Spiniferites porosus (Manum & Cookson, 1964) Harland, 1973 SPECIES
 
 #### Status
 ACCEPTED

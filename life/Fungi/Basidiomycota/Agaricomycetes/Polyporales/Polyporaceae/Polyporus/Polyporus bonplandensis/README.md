@@ -1,5 +1,4 @@
-Polyporus bonplandensis Lév. SPECIES
-=======
+# Polyporus bonplandensis Lév. SPECIES
 
 #### Status
 ACCEPTED

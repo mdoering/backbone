@@ -1,5 +1,4 @@
-Steccherinum conchiforme (Sacc.) Hjortstam SPECIES
-=======
+# Steccherinum conchiforme (Sacc.) Hjortstam SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea psammoica Nyl. SPECIES
-=======
+# Lecidea psammoica Nyl. SPECIES
 
 #### Status
 ACCEPTED

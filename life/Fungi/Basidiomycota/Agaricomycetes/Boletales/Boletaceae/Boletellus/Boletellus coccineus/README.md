@@ -1,5 +1,4 @@
-Boletellus coccineus var. coccineus VARIETY
-=======
+# Boletellus coccineus (Sacc.) Singer SPECIES
 
 #### Status
 ACCEPTED

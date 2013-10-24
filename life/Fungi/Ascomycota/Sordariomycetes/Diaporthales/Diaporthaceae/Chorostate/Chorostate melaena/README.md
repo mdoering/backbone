@@ -1,5 +1,4 @@
-Chorostate melaena Rehm SPECIES
-=======
+# Chorostate melaena Rehm SPECIES
 
 #### Status
 ACCEPTED

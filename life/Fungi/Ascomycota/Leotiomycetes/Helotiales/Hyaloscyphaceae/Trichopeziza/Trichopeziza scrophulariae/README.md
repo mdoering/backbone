@@ -1,5 +1,4 @@
-Trichopeziza scrophulariae (Lasch) Sacc. SPECIES
-=======
+# Trichopeziza scrophulariae (Lasch) Sacc. SPECIES
 
 #### Status
 ACCEPTED

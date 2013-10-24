@@ -1,5 +1,4 @@
-Cantharellus hygrophanus C. Laest. SPECIES
-=======
+# Cantharellus hygrophanus C. Laest. SPECIES
 
 #### Status
 ACCEPTED

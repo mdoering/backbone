@@ -1,5 +1,4 @@
-Psora compaginata Müll. Arg. SPECIES
-=======
+# Psora compaginata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius oenochelis (H. Lindstr.) Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius oenochelis (H. Lindstr.) Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ectostroma ludiae (DC.) Fr. SPECIES
-=======
+# Ectostroma ludiae (DC.) Fr. SPECIES
 
 #### Status
 ACCEPTED

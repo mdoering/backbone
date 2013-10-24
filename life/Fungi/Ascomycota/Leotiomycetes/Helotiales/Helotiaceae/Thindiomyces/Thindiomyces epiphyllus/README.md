@@ -1,5 +1,4 @@
-Thindiomyces epiphyllus Arendh. & R. Sharma, 1983 SPECIES
-=======
+# Thindiomyces epiphyllus Arendh. & R. Sharma, 1983 SPECIES
 
 #### Status
 ACCEPTED

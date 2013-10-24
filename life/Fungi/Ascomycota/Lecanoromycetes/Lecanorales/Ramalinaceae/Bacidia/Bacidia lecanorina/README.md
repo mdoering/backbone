@@ -1,5 +1,4 @@
-Bacidia lecanorina (Zahlbr.) R. Sant. SPECIES
-=======
+# Bacidia lecanorina (Zahlbr.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

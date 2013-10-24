@@ -1,8 +1,7 @@
-Protoperidinium limbatum Stokes SPECIES
-=======
+# Peridinium limbatum (A. Stokes) Lemmermann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

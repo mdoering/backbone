@@ -1,5 +1,4 @@
-Dyadosporites grandiporus (H.P. Singh, R.K. Saxena & M.R. Rao) Kalgutkar & Janson. SPECIES
-=======
+# Dyadosporites grandiporus (H.P. Singh, R.K. Saxena & M.R. Rao) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

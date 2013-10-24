@@ -1,5 +1,4 @@
-Melanospora pinitorqua Rostr. SPECIES
-=======
+# Melanospora pinitorqua Rostr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenochaeta rivini Allesch. SPECIES
-=======
+# Pyrenochaeta rivini Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria flabellaris Batsch SPECIES
-=======
+# Clavaria flabellaris Batsch SPECIES
 
 #### Status
 ACCEPTED

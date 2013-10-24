@@ -1,5 +1,4 @@
-Placodium dispersoareolatum (Schaer.) SPECIES
-=======
+# Placodium dispersoareolatum (Schaer.) SPECIES
 
 #### Status
 ACCEPTED

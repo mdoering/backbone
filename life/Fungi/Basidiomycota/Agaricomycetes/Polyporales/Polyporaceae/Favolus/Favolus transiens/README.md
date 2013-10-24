@@ -1,5 +1,4 @@
-Favolus transiens Ces. SPECIES
-=======
+# Favolus transiens Ces. SPECIES
 
 #### Status
 ACCEPTED

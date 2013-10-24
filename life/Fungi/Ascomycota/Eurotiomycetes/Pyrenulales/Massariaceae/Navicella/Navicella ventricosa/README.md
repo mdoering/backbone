@@ -1,5 +1,4 @@
-Navicella ventricosa (Pers.) Kuntze SPECIES
-=======
+# Navicella ventricosa (Pers.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trametes depauperata Corner SPECIES
-=======
+# Trametes depauperata Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium flocciferum Corda, 1828 SPECIES
-=======
+# Fusarium flocciferum Corda, 1828 SPECIES
 
 #### Status
 ACCEPTED

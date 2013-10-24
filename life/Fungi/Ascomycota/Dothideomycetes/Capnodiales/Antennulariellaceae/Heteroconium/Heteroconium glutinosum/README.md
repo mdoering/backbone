@@ -1,5 +1,4 @@
-Heteroconium glutinosum (Cooke & Harkn.) S. Hughes & J.L. Crane SPECIES
-=======
+# Heteroconium glutinosum (Cooke & Harkn.) S. Hughes & J.L. Crane SPECIES
 
 #### Status
 ACCEPTED

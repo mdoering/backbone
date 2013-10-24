@@ -1,5 +1,4 @@
-Pezizellaster GENUS
-=======
+# Pezizellaster GENUS
 
 #### Status
 ACCEPTED

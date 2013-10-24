@@ -1,5 +1,4 @@
-Graphis lutea (Chevall.) Aptroot SPECIES
-=======
+# Graphis lutea (Chevall.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

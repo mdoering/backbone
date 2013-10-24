@@ -1,5 +1,4 @@
-Usnea condensata var. condensata VARIETY
-=======
+# Usnea condensata Motyka SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Räsänen, Revta Univ. (Santiago) 21: 138 (1936)
 
 #### Original name
-Usnea condensata var. condensata
+Usnea condensata Motyka
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Verrucaria epixylon Zschacke SPECIES
-=======
+# Verrucaria epixylon Zschacke SPECIES
 
 #### Status
 ACCEPTED

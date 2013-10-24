@@ -1,5 +1,4 @@
-Amanita cothurnata G.F. Atk. SPECIES
-=======
+# Amanita cothurnata G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

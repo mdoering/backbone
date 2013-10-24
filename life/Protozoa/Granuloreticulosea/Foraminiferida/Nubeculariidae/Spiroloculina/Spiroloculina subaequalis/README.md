@@ -1,5 +1,4 @@
-Spiroloculina subaequalis Parr SPECIES
-=======
+# Spiroloculina subaequalis Parr SPECIES
 
 #### Status
 ACCEPTED

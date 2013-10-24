@@ -1,17 +1,16 @@
-Aleuria pseudobadia (Cooke) Gillet, 1879 SPECIES
-=======
+# Otidea bufonia (Pers.) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hist. Class. Discom. Eur. (Paris) 52 (1907)
 
 #### Original name
-null
+Peziza bufonia Pers., 1822
 
 ### Remarks
 null

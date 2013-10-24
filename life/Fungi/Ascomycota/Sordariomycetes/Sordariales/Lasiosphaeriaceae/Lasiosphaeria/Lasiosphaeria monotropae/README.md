@@ -1,5 +1,4 @@
-Lasiosphaeria monotropae Mark.-Let. SPECIES
-=======
+# Lasiosphaeria monotropae Mark.-Let. SPECIES
 
 #### Status
 ACCEPTED

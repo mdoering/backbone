@@ -1,5 +1,4 @@
-Asterostomula patula Petr., 1950 SPECIES
-=======
+# Asterostomula patula Petr., 1950 SPECIES
 
 #### Status
 ACCEPTED

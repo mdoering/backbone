@@ -1,5 +1,4 @@
-Lichenoconium christiansenii M.S. Cole & D. Hawksw. SPECIES
-=======
+# Lichenoconium christiansenii M.S. Cole & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

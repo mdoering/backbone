@@ -1,5 +1,4 @@
-Lentinus rubescens Velen. SPECIES
-=======
+# Lentinus rubescens Velen. SPECIES
 
 #### Status
 ACCEPTED

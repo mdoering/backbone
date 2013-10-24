@@ -1,5 +1,4 @@
-Tephromela cypria (Körb.) Hafellner SPECIES
-=======
+# Tephromela cypria (Körb.) Hafellner SPECIES
 
 #### Status
 ACCEPTED

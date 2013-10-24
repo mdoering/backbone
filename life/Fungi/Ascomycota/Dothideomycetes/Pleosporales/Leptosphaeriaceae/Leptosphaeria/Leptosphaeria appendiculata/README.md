@@ -1,5 +1,4 @@
-Leptosphaeria appendiculata Pirotta SPECIES
-=======
+# Leptosphaeria appendiculata Pirotta SPECIES
 
 #### Status
 ACCEPTED

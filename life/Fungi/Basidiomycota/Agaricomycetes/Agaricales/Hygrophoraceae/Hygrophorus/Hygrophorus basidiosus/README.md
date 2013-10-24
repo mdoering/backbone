@@ -1,5 +1,4 @@
-Hygrophorus basidiosus Peck SPECIES
-=======
+# Hygrophorus basidiosus Peck SPECIES
 
 #### Status
 ACCEPTED

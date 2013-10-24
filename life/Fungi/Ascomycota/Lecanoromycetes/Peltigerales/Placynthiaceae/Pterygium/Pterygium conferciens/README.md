@@ -1,5 +1,4 @@
-Pterygium conferciens Nyl. SPECIES
-=======
+# Pterygium conferciens Nyl. SPECIES
 
 #### Status
 ACCEPTED

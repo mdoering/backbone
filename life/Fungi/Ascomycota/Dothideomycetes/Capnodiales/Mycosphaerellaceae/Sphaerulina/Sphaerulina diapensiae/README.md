@@ -1,5 +1,4 @@
-Sphaerulina diapensiae Rostr. SPECIES
-=======
+# Sphaerulina diapensiae Rostr. SPECIES
 
 #### Status
 ACCEPTED

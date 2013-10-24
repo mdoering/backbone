@@ -1,5 +1,4 @@
-Puccinia complicata (Arthur & Orton) Hotson SPECIES
-=======
+# Puccinia complicata (Arthur & Orton) Hotson SPECIES
 
 #### Status
 ACCEPTED

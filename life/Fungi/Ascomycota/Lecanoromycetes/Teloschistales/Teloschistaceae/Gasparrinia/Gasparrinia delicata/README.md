@@ -1,5 +1,4 @@
-Gasparrinia delicata (Jatta) C.W. Dodge SPECIES
-=======
+# Gasparrinia delicata (Jatta) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

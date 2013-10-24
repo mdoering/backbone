@@ -1,5 +1,4 @@
-Loricophrya sivertseni (Allgén, 1951) Matthes, 1956 SPECIES
-=======
+# Loricophrya sivertseni (Allgén, 1951) Matthes, 1956 SPECIES
 
 #### Status
 ACCEPTED

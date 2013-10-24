@@ -1,5 +1,4 @@
-Phyllosticta guareae Speg. SPECIES
-=======
+# Phyllosticta guareae Speg. SPECIES
 
 #### Status
 ACCEPTED

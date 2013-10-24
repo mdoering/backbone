@@ -1,5 +1,4 @@
-Lecanora subgranulata Nyl. SPECIES
-=======
+# Lecanora subgranulata Nyl. SPECIES
 
 #### Status
 ACCEPTED

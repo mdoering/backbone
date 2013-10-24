@@ -1,5 +1,4 @@
-Xyloma repandum Alb. & Schwein. SPECIES
-=======
+# Xyloma repandum Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

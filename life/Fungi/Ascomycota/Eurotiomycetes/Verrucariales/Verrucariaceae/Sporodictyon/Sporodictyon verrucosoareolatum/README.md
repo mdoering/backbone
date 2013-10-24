@@ -1,5 +1,4 @@
-Sporodictyon verrucosoareolatum (Schaer.) Stizenb. SPECIES
-=======
+# Sporodictyon verrucosoareolatum (Schaer.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

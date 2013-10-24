@@ -1,5 +1,4 @@
-Parmotrema deflectens (Kurok.) Streimann SPECIES
-=======
+# Parmotrema deflectens (Kurok.) Streimann SPECIES
 
 #### Status
 ACCEPTED

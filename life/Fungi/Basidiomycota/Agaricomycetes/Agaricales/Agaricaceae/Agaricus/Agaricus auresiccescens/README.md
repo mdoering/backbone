@@ -1,5 +1,4 @@
-Agaricus auresiccescens A.E. Freeman SPECIES
-=======
+# Agaricus auresiccescens A.E. Freeman SPECIES
 
 #### Status
 ACCEPTED

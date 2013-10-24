@@ -1,17 +1,16 @@
-Eriothyrium coccicolum Petch SPECIES
-=======
+# Eriothyrium coccicola Petch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 10: 200 (1925)
 
 #### Original name
-Eriothyrium coccicolum Petch
+Eriothyrium coccicola Petch
 
 ### Remarks
 null

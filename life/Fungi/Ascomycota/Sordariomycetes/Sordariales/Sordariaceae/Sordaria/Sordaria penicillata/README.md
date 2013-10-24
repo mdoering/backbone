@@ -1,5 +1,4 @@
-Sordaria penicillata Ellis & Everh. SPECIES
-=======
+# Sordaria penicillata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

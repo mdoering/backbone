@@ -1,5 +1,4 @@
-Richonia Boud. GENUS
-=======
+# Richonia Boud. GENUS
 
 #### Status
 ACCEPTED

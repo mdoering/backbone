@@ -1,14 +1,13 @@
-Selenomastix Woodcock & Lapage, 1913-, 1914 GENUS
-=======
+# Selenomonas von Prowazek, 1913 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Quart. J. Micr. Sci. , 59, 432.
+Zbl. Bkt. , (I Orig. ) 70, 36.
 
 #### Original name
 null

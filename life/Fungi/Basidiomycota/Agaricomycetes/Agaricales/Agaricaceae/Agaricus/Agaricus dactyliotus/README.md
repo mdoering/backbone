@@ -1,5 +1,4 @@
-Agaricus dactyliotus Mont. SPECIES
-=======
+# Agaricus dactyliotus Mont. SPECIES
 
 #### Status
 ACCEPTED

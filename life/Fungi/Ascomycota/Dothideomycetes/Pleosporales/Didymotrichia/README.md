@@ -1,5 +1,4 @@
-Didymotrichia GENUS
-=======
+# Didymotrichia GENUS
 
 #### Status
 ACCEPTED

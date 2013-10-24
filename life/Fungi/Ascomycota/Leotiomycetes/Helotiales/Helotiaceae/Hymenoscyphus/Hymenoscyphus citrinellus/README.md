@@ -1,5 +1,4 @@
-Hymenoscyphus citrinellus (Schwein.) Kuntze SPECIES
-=======
+# Hymenoscyphus citrinellus (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

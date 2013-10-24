@@ -1,5 +1,4 @@
-Cytospora exasperans Ellis & Everh. SPECIES
-=======
+# Cytospora exasperans Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

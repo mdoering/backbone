@@ -1,5 +1,4 @@
-Phakopsora nyasalandica (Cummins) A.R. Wood SPECIES
-=======
+# Phakopsora nyasalandica (Cummins) A.R. Wood SPECIES
 
 #### Status
 ACCEPTED

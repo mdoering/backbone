@@ -1,5 +1,4 @@
-Calenia solorinoides Lücking SPECIES
-=======
+# Calenia solorinoides Lücking SPECIES
 
 #### Status
 ACCEPTED

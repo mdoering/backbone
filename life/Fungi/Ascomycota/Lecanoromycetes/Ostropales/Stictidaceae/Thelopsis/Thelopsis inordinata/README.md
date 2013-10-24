@@ -1,5 +1,4 @@
-Thelopsis inordinata Nyl. SPECIES
-=======
+# Thelopsis inordinata Nyl. SPECIES
 
 #### Status
 ACCEPTED

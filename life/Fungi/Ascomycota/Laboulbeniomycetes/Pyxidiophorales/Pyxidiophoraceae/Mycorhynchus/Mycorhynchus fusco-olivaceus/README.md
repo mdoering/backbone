@@ -1,5 +1,4 @@
-Mycorhynchus fusco-olivaceus G.R.W. Arnold SPECIES
-=======
+# Mycorhynchus fusco-olivaceus G.R.W. Arnold SPECIES
 
 #### Status
 ACCEPTED

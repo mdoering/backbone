@@ -1,5 +1,4 @@
-Cytosporella fructorum Ellis & É.J. Marchal SPECIES
-=======
+# Cytosporella fructorum Ellis & É.J. Marchal SPECIES
 
 #### Status
 ACCEPTED

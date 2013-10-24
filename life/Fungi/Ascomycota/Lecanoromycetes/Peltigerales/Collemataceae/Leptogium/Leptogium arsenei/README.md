@@ -1,5 +1,4 @@
-Leptogium arsenei Sierk SPECIES
-=======
+# Leptogium arsenei Sierk SPECIES
 
 #### Status
 ACCEPTED

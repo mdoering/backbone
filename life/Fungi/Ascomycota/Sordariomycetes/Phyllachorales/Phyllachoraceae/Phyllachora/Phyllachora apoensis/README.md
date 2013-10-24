@@ -1,14 +1,13 @@
-Catacauma apoense (Syd. & P. Syd.) Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora apoensis Syd. & P. Syd., 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 13(3/4): 379 (1915)
+Leafl. of Philipp. Bot. 4: 1157 (1911)
 
 #### Original name
 Phyllachora apoensis Syd. & P. Syd., 1911

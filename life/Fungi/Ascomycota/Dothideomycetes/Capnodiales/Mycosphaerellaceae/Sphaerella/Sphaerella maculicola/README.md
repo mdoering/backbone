@@ -1,5 +1,4 @@
-Sphaerella maculicola G. Winter SPECIES
-=======
+# Sphaerella maculicola G. Winter SPECIES
 
 #### Status
 ACCEPTED

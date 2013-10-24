@@ -1,5 +1,4 @@
-Parmelaria D.D. Awasthi GENUS
-=======
+# Parmelaria D.D. Awasthi GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Collema shiroumanum var. shiroumanum Räsänen VARIETY
-=======
+# Collema shiroumanum Räsänen SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Collema shiroumanum var. shiroumanum Räsänen
+Collema shiroumanum Räsänen
 
 ### Remarks
 null

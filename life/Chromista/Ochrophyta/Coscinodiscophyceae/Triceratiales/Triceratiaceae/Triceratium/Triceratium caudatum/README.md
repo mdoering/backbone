@@ -1,5 +1,4 @@
-Triceratium caudatum Witt SPECIES
-=======
+# Triceratium caudatum Witt SPECIES
 
 #### Status
 ACCEPTED

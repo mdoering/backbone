@@ -1,5 +1,4 @@
-Fellhanera tropica Elix SPECIES
-=======
+# Fellhanera tropica Elix SPECIES
 
 #### Status
 ACCEPTED

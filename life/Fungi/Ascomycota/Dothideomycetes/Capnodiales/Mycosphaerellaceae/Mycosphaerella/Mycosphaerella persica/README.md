@@ -1,5 +1,4 @@
-Mycosphaerella persica Syd. SPECIES
-=======
+# Mycosphaerella persica Syd. SPECIES
 
 #### Status
 ACCEPTED

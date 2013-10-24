@@ -1,5 +1,4 @@
-Agaricus subacticus anon. SPECIES
-=======
+# Agaricus subacticus anon. SPECIES
 
 #### Status
 ACCEPTED

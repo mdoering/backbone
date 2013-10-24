@@ -1,5 +1,4 @@
-Agaricus sullivantii Mont. SPECIES
-=======
+# Agaricus sullivantii Mont. SPECIES
 
 #### Status
 ACCEPTED

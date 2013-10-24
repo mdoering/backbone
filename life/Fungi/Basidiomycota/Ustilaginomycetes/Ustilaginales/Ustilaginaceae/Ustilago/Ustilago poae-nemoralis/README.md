@@ -1,5 +1,4 @@
-Ustilago poae-nemoralis Vienn.-Bourg. SPECIES
-=======
+# Ustilago poae-nemoralis Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

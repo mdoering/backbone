@@ -1,5 +1,4 @@
-Ustilago overeemii Cif. SPECIES
-=======
+# Ustilago overeemii Cif. SPECIES
 
 #### Status
 ACCEPTED

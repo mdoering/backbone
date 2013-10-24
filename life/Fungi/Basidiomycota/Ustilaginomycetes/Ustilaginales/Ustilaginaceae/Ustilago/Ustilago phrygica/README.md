@@ -1,5 +1,4 @@
-Ustilago phrygica Magnus SPECIES
-=======
+# Ustilago phrygica Magnus SPECIES
 
 #### Status
 ACCEPTED

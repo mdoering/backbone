@@ -1,5 +1,4 @@
-Acrothrix pacifica Okamura & Yamada SPECIES
-=======
+# Acrothrix pacifica Okamura & Yamada SPECIES
 
 #### Status
 ACCEPTED

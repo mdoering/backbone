@@ -1,5 +1,4 @@
-Botryodiplodia alni (Cooke & Ellis) H. Ruppr. SPECIES
-=======
+# Botryodiplodia alni (Cooke & Ellis) H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

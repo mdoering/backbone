@@ -1,5 +1,4 @@
-Strombomonas tellii Y. Zalocar de Domitrovic SPECIES
-=======
+# Strombomonas tellii Y. Zalocar de Domitrovic SPECIES
 
 #### Status
 ACCEPTED

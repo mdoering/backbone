@@ -1,5 +1,4 @@
-Cheiromycina ananas Aptroot & Schiefelb. SPECIES
-=======
+# Cheiromycina ananas Aptroot & Schiefelb. SPECIES
 
 #### Status
 ACCEPTED

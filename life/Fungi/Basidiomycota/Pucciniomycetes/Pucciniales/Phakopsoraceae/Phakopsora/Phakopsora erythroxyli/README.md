@@ -1,5 +1,4 @@
-Phakopsora erythroxyli (Cummins) F. Kern SPECIES
-=======
+# Phakopsora erythroxyli (Cummins) F. Kern SPECIES
 
 #### Status
 ACCEPTED

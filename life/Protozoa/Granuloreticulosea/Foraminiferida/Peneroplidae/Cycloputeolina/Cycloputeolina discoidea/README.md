@@ -1,8 +1,7 @@
-Laevipeneroplis discoideus (Flint, 1899) SPECIES
-=======
+# Cycloputeolina discoidea (Flint, 1899) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

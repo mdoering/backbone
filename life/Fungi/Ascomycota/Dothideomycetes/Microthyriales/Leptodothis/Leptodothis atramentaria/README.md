@@ -1,5 +1,4 @@
-Leptodothis atramentaria (Berk. & M.A. Curtis) Theiss. & Syd. SPECIES
-=======
+# Leptodothis atramentaria (Berk. & M.A. Curtis) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

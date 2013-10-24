@@ -1,5 +1,4 @@
-Bordea spinigera R.K. Benj. SPECIES
-=======
+# Bordea spinigera R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

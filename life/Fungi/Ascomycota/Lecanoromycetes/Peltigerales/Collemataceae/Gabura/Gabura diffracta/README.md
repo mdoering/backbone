@@ -1,5 +1,4 @@
-Gabura diffracta (Nyl.) Kuntze SPECIES
-=======
+# Gabura diffracta (Nyl.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

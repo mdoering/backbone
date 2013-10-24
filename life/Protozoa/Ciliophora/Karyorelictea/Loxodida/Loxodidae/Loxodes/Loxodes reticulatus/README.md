@@ -1,5 +1,4 @@
-Loxodes reticulatus Dujardin, 1841 SPECIES
-=======
+# Loxodes reticulatus Dujardin, 1841 SPECIES
 
 #### Status
 ACCEPTED

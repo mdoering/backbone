@@ -1,5 +1,4 @@
-Peziza armeriae Lasch SPECIES
-=======
+# Peziza armeriae Lasch SPECIES
 
 #### Status
 ACCEPTED

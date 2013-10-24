@@ -1,5 +1,4 @@
-Bagnisiella shoreae R.C. Rajak, A.K. Pandey & G.P. Agarwal SPECIES
-=======
+# Bagnisiella shoreae R.C. Rajak, A.K. Pandey & G.P. Agarwal SPECIES
 
 #### Status
 ACCEPTED

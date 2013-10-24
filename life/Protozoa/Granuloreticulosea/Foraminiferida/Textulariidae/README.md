@@ -1,5 +1,4 @@
-Textulariidae Ehrenberg, 1838 FAMILY
-=======
+# Textulariidae Ehrenberg, 1838 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus pallidus Kamyschko, 1963 SPECIES
-=======
+# Aspergillus pallidus Kamyschko, 1963 SPECIES
 
 #### Status
 ACCEPTED

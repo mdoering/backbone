@@ -1,5 +1,4 @@
-Meliola hamata Syd. & P. Syd. SPECIES
-=======
+# Meliola hamata Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

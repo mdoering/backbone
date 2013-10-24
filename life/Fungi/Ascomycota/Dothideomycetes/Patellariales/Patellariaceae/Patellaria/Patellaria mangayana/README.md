@@ -1,5 +1,4 @@
-Patellaria mangayana SPECIES
-=======
+# Patellaria mangayana SPECIES
 
 #### Status
 ACCEPTED

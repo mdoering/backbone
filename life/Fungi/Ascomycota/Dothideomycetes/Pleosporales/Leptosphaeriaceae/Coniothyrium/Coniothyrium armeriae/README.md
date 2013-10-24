@@ -1,5 +1,4 @@
-Coniothyrium armeriae Petr. & Syd. SPECIES
-=======
+# Coniothyrium armeriae Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Sphaerotheca helianthemi L. Junell, 1966 SPECIES
-=======
+# Podosphaera helianthemi (L. Junell) U. Braun & S. Takam., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Svensk bot. Tidskr. 60: 378 (1966)
+Schlechtendalia 4: 29 (2000)
 
 #### Original name
 Sphaerotheca helianthemi L. Junell, 1966

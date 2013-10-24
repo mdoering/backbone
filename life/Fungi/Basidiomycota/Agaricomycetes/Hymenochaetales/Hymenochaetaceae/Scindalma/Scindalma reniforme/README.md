@@ -1,5 +1,4 @@
-Scindalma reniforme (Morgan) Kuntze SPECIES
-=======
+# Scindalma reniforme (Morgan) Kuntze SPECIES
 
 #### Status
 ACCEPTED

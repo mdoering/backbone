@@ -1,17 +1,16 @@
-Rhizocarpon viridiatrum var. viridiatrum (Wulfen) Körb. VARIETY
-=======
+# Rhizocarpon viridiatrum (Wulfen) Körb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syst. lich. germ. (Breslau) 262 (1855)
 
 #### Original name
-Rhizocarpon viridiatrum var. viridiatrum (Wulfen) Körb.
+Lichen viridiater Wulfen
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Amphisphaeria lusitanica (Niessl) You Z. Wang, Aptroot & K.D. Hyde SPECIES
-=======
+# Amphisphaeria lusitanica (Niessl) You Z. Wang, Aptroot & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

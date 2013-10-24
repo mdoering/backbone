@@ -1,5 +1,4 @@
-Pyxidium asymmetricum (Biczok, 1956) Aescht & Foissner, 1992 SPECIES
-=======
+# Pyxidium asymmetricum (Biczok, 1956) Aescht & Foissner, 1992 SPECIES
 
 #### Status
 ACCEPTED

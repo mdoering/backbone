@@ -1,5 +1,4 @@
-Nassophorea Small & Lynn, 1981 CLASS
-=======
+# Nassophorea Small & Lynn, 1981 CLASS
 
 #### Status
 ACCEPTED

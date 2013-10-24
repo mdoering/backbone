@@ -1,5 +1,4 @@
-Pseudonocardia kongjuensis Lee et al., 2001 SPECIES
-=======
+# Pseudonocardia kongjuensis Lee et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

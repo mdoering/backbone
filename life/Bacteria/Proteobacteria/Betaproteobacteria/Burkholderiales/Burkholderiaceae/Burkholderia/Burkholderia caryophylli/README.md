@@ -1,8 +1,7 @@
-Pseudomonas caryophylli (Burkholder, 1942) Starr and Burkholder, 1942 (Approved Lists, 1980) SPECIES
-=======
+# Burkholderia caryophylli (Burkholder, 1942) Yabuuchi et al., 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

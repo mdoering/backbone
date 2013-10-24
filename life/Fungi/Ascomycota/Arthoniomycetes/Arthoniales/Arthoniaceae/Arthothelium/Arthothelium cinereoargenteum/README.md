@@ -1,14 +1,13 @@
-Arthonia cinereoargentea C. Knight SPECIES
-=======
+# Arthothelium cinereoargenteum (C. Knight) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Shirley, Proc. R. Soc. Qd. 6: 212 (1889)
+Cat. Lich. Univers. 2: 123 (1922)
 
 #### Original name
 Arthonia cinereoargentea C. Knight

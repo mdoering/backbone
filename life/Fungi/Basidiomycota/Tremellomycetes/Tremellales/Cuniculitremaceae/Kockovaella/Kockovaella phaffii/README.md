@@ -1,5 +1,4 @@
-Kockovaella phaffii Cañ.-Gib., M. Takash., Sugita & Nakase, 1998 SPECIES
-=======
+# Kockovaella phaffii Cañ.-Gib., M. Takash., Sugita & Nakase, 1998 SPECIES
 
 #### Status
 ACCEPTED

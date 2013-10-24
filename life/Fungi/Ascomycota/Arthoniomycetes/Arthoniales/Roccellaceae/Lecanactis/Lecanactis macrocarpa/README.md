@@ -1,5 +1,4 @@
-Lecanactis macrocarpa Zahlbr. SPECIES
-=======
+# Lecanactis macrocarpa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

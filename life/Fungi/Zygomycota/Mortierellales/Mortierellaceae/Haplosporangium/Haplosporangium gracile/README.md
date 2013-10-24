@@ -1,5 +1,4 @@
-Haplosporangium gracile Nicot SPECIES
-=======
+# Haplosporangium gracile Nicot SPECIES
 
 #### Status
 ACCEPTED

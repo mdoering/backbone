@@ -1,5 +1,4 @@
-Marasmiellus eburneus (Theiss.) Singer SPECIES
-=======
+# Marasmiellus eburneus (Theiss.) Singer SPECIES
 
 #### Status
 ACCEPTED

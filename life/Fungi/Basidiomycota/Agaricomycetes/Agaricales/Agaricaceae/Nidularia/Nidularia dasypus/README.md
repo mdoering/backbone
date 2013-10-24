@@ -1,5 +1,4 @@
-Nidularia dasypus Fr. SPECIES
-=======
+# Nidularia dasypus Fr. SPECIES
 
 #### Status
 ACCEPTED

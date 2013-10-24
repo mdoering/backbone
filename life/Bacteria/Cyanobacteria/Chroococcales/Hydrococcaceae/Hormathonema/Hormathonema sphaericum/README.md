@@ -1,5 +1,4 @@
-Hormathonema sphaericum Ercegovic SPECIES
-=======
+# Hormathonema sphaericum Ercegovic SPECIES
 
 #### Status
 ACCEPTED

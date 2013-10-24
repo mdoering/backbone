@@ -1,5 +1,4 @@
-Leucocoprinus proletarius (Rick) Raithelh. SPECIES
-=======
+# Leucocoprinus proletarius (Rick) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spumula clemensiae Arthur & Cummins, 1937 SPECIES
-=======
+# Spumula clemensiae Arthur & Cummins, 1937 SPECIES
 
 #### Status
 ACCEPTED

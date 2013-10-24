@@ -1,5 +1,4 @@
-Puccinia tosta Arthur SPECIES
-=======
+# Puccinia tosta Arthur SPECIES
 
 #### Status
 ACCEPTED

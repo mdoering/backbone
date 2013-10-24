@@ -1,5 +1,4 @@
-Peltula cylindrica Wetmore SPECIES
-=======
+# Peltula cylindrica Wetmore SPECIES
 
 #### Status
 ACCEPTED

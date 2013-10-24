@@ -1,5 +1,4 @@
-Agaricus nardosmius Ellis SPECIES
-=======
+# Agaricus nardosmius Ellis SPECIES
 
 #### Status
 ACCEPTED

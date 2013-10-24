@@ -1,17 +1,16 @@
-Schizoxylum Pers. GENUS
-=======
+# Schizoxylon Persoon, 1810 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+IRMNG Homonym List
 
 #### Published in
-J. Phys. Chim. Hist. nat. Arts 94: 55 (1822)
+Ann. Wetter. Gesellsch. Ges. Naturk. 2: 11 (1811)
 
 #### Original name
-Schizoxylum Pers.
+Schizoxylon Persoon, 1810
 
 ### Remarks
 null

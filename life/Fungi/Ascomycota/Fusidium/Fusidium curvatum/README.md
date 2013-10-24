@@ -1,5 +1,4 @@
-Fusidium curvatum Preuss SPECIES
-=======
+# Fusidium curvatum Preuss SPECIES
 
 #### Status
 ACCEPTED

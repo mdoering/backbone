@@ -1,5 +1,4 @@
-Monomarginatus quaternarius F.H. Wind & S.W. Wise SPECIES
-=======
+# Monomarginatus quaternarius F.H. Wind & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

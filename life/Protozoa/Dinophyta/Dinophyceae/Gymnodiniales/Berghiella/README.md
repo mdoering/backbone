@@ -1,5 +1,4 @@
-Berghiella Kofoid & Michener, 1911 GENUS
-=======
+# Berghiella Kofoid & Michener, 1911 GENUS
 
 #### Status
 ACCEPTED

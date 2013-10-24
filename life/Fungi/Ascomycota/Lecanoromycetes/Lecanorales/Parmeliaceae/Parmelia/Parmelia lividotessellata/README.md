@@ -1,5 +1,4 @@
-Parmelia lividotessellata Hue SPECIES
-=======
+# Parmelia lividotessellata Hue SPECIES
 
 #### Status
 ACCEPTED

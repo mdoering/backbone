@@ -1,5 +1,4 @@
-Calycina mycetophylla (Peck) Kuntze SPECIES
-=======
+# Calycina mycetophylla (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pleospora phaeospora var. phaeospora (Duby) Ces. & De Not. VARIETY
-=======
+# Pleospora phaeospora (Duby) Ces. & De Not., 1863 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Comm. Soc. crittog. Ital. 1: 218 (1863)
 
 #### Original name
-Pleospora phaeospora var. phaeospora (Duby) Ces. & De Not.
+Sphaeria phaeospora Duby
 
 ### Remarks
 null

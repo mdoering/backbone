@@ -1,5 +1,4 @@
-Pilosace commiscibilis (Berk.) Kuntze SPECIES
-=======
+# Pilosace commiscibilis (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascobolus rufopallidus P. Karst. SPECIES
-=======
+# Ascobolus rufopallidus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlebia merulioides Lloyd SPECIES
-=======
+# Phlebia merulioides Lloyd SPECIES
 
 #### Status
 ACCEPTED

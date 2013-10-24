@@ -1,14 +1,13 @@
-Acanthocystis microspermus (Speg.) Singer SPECIES
-=======
+# Acanthocystis microsperma (Speg.) Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 40: 148 (1943)
 
 #### Original name
 Pleurotus microspermus Speg.

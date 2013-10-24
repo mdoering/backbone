@@ -1,5 +1,4 @@
-Pertusaria stenostoma Vain. SPECIES
-=======
+# Pertusaria stenostoma Vain. SPECIES
 
 #### Status
 ACCEPTED

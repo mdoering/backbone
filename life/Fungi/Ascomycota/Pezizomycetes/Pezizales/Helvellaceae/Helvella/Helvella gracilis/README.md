@@ -1,5 +1,4 @@
-Helvella gracilis Peck SPECIES
-=======
+# Helvella gracilis Peck SPECIES
 
 #### Status
 ACCEPTED

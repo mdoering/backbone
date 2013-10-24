@@ -1,5 +1,4 @@
-Diaporthe corymbosa (Cooke & Ellis) Sacc. SPECIES
-=======
+# Diaporthe corymbosa (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

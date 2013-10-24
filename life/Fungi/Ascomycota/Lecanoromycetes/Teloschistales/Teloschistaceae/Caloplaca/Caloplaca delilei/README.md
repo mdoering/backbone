@@ -1,5 +1,4 @@
-Caloplaca delilei J. Steiner SPECIES
-=======
+# Caloplaca delilei J. Steiner SPECIES
 
 #### Status
 ACCEPTED

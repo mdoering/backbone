@@ -1,5 +1,4 @@
-Zoothamnium ramosissimum Sommer, 1951 SPECIES
-=======
+# Zoothamnium ramosissimum Sommer, 1951 SPECIES
 
 #### Status
 ACCEPTED

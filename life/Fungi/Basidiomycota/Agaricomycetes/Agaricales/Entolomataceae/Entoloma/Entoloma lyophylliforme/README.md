@@ -1,5 +1,4 @@
-Entoloma lyophylliforme (Singer) E. Horak SPECIES
-=======
+# Entoloma lyophylliforme (Singer) E. Horak SPECIES
 
 #### Status
 ACCEPTED

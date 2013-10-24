@@ -1,17 +1,16 @@
-Agaricus crocatus var. crocatus VARIETY
-=======
+# Mycena crocata (Schrad.) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Führ. Pilzk. (Zwickau) 108 (1871)
 
 #### Original name
-null
+Agaricus crocatus Schrad., 1794
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecanora subreagens H. Magn. SPECIES
-=======
+# Lecanora subreagens H. Magn. SPECIES
 
 #### Status
 ACCEPTED

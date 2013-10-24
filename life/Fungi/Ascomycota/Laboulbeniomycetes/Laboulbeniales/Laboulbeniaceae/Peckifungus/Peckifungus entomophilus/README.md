@@ -1,5 +1,4 @@
-Peckifungus entomophilus (Peck) Kuntze SPECIES
-=======
+# Peckifungus entomophilus (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

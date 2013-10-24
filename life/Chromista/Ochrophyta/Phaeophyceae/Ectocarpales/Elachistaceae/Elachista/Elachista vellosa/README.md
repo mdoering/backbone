@@ -1,5 +1,4 @@
-Elachista vellosa Takamatsu SPECIES
-=======
+# Elachista vellosa Takamatsu SPECIES
 
 #### Status
 ACCEPTED

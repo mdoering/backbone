@@ -1,5 +1,4 @@
-Sporidesmium lambottei Roum. SPECIES
-=======
+# Sporidesmium lambottei Roum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramalina tenuis Fr. & Tuck. SPECIES
-=======
+# Ramalina tenuis Fr. & Tuck. SPECIES
 
 #### Status
 ACCEPTED

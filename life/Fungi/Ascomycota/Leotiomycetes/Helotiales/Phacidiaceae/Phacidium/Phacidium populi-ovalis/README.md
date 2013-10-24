@@ -1,8 +1,7 @@
-Phacidium populi-ovale A. Braun SPECIES
-=======
+# Phacidium populi-ovalis A. Braun SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phacidium populi-ovale A. Braun
+Phacidium populi-ovalis A. Braun
 
 ### Remarks
 null

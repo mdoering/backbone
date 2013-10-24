@@ -1,5 +1,4 @@
-Catillaria subglomerella (Nyl.) Lettau SPECIES
-=======
+# Catillaria subglomerella (Nyl.) Lettau SPECIES
 
 #### Status
 ACCEPTED

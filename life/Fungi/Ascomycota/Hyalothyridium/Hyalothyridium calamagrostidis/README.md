@@ -1,5 +1,4 @@
-Hyalothyridium calamagrostidis H.C. Greene SPECIES
-=======
+# Hyalothyridium calamagrostidis H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

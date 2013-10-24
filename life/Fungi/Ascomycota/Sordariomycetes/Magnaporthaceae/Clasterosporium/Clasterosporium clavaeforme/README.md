@@ -1,5 +1,4 @@
-Clasterosporium clavaeforme var. clavaeforme VARIETY
-=======
+# Clasterosporium clavaeforme (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Michelia 2(no. 7): 289 (1881)
 
 #### Original name
-Clasterosporium clavaeforme var. clavaeforme
+Sporidesmium clavaeforme Preuss
 
 ### Remarks
 null

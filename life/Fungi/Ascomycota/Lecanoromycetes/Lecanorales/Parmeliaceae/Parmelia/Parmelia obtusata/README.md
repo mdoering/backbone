@@ -1,5 +1,4 @@
-Parmelia obtusata (Vahl) Spreng. SPECIES
-=======
+# Parmelia obtusata (Vahl) Spreng. SPECIES
 
 #### Status
 ACCEPTED

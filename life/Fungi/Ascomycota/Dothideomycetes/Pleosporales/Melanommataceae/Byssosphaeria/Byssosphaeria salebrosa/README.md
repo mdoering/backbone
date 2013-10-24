@@ -1,5 +1,4 @@
-Byssosphaeria salebrosa (Cooke & Peck) M.E. Barr SPECIES
-=======
+# Byssosphaeria salebrosa (Cooke & Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

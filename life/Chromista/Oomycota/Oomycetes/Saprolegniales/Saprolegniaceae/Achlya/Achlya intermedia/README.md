@@ -1,5 +1,4 @@
-Achlya intermedia F.M. Bailey SPECIES
-=======
+# Achlya intermedia F.M. Bailey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius juxtadibaphus Rob. Henry SPECIES
-=======
+# Cortinarius juxtadibaphus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

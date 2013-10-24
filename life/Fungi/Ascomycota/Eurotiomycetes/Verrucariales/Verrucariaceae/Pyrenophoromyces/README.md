@@ -1,5 +1,4 @@
-Pyrenophoromyces GENUS
-=======
+# Pyrenophoromyces GENUS
 
 #### Status
 ACCEPTED

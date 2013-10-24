@@ -1,5 +1,4 @@
-Diderma friesianum (Rostaf.) Kuntze SPECIES
-=======
+# Diderma friesianum (Rostaf.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

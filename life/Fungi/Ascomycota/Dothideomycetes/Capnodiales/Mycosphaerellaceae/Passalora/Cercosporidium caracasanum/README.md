@@ -1,5 +1,4 @@
-Cercosporidium caracasanum (Syd.) Deighton SPECIES
-=======
+# Cercosporidium caracasanum (Syd.) Deighton SPECIES
 
 #### Status
 ACCEPTED

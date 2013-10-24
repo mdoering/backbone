@@ -1,5 +1,4 @@
-Didymosphaeria kuttlingeriae C.W. Dodge SPECIES
-=======
+# Didymosphaeria kuttlingeriae C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

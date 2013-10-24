@@ -1,5 +1,4 @@
-Fragilariforma hungarica var. tumida (Cleve-Euler) P. B. Hamilton VARIETY
-=======
+# Fragilariforma hungarica (Pantocsek) P. B. Hamilton SPECIES
 
 #### Status
 ACCEPTED

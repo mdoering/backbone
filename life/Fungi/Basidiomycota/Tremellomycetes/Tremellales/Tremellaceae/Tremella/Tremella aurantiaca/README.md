@@ -1,5 +1,4 @@
-Tremella aurantiaca Grove SPECIES
-=======
+# Tremella aurantiaca Grove SPECIES
 
 #### Status
 ACCEPTED

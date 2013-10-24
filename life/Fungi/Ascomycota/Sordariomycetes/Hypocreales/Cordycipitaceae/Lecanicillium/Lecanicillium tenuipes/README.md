@@ -1,14 +1,13 @@
-Verticillium tenuipes (Petch) W. Gams, 1971 SPECIES
-=======
+# Lecanicillium tenuipes (Petch) Zare & W. Gams, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cephalosporium-artige Schimmelpilze (Stuttgart) 176 (1971)
+Nova Hedwigia 73(1-2): 29 (2001)
 
 #### Original name
 Acremonium tenuipes Petch, 1937

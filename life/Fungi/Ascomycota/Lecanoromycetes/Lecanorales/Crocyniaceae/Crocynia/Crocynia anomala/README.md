@@ -1,5 +1,4 @@
-Crocynia anomala B. de Lesd. SPECIES
-=======
+# Crocynia anomala B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

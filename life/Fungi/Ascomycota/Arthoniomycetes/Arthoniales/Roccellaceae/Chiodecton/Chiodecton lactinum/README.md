@@ -1,5 +1,4 @@
-Chiodecton lactinum Zahlbr. SPECIES
-=======
+# Chiodecton lactinum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

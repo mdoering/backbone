@@ -1,5 +1,4 @@
-Pterrovericatus Al-Ameri, 1984 GENUS
-=======
+# Pterrovericatus Al-Ameri, 1984 GENUS
 
 #### Status
 ACCEPTED

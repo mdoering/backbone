@@ -1,5 +1,4 @@
-Duocameratus J.A. Lees, 2007 GENUS
-=======
+# Duocameratus J.A. Lees, 2007 GENUS
 
 #### Status
 ACCEPTED

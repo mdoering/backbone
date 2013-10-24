@@ -1,5 +1,4 @@
-Galera simulans Earle SPECIES
-=======
+# Galera simulans Earle SPECIES
 
 #### Status
 ACCEPTED

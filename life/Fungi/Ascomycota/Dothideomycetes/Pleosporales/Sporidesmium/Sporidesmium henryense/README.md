@@ -1,5 +1,4 @@
-Sporidesmium henryense Dilcher SPECIES
-=======
+# Sporidesmium henryense Dilcher SPECIES
 
 #### Status
 ACCEPTED

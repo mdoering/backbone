@@ -1,5 +1,4 @@
-Scoriomyces andersonii Ellis & Galloway SPECIES
-=======
+# Scoriomyces andersonii Ellis & Galloway SPECIES
 
 #### Status
 ACCEPTED

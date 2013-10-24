@@ -1,5 +1,4 @@
-Pontilithus obliquicancellatus Gartner, 1968 SPECIES
-=======
+# Pontilithus obliquicancellatus Gartner, 1968 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Pseudocercospora flemingiae-macrophyllae U. Braun & Crous SPECIES
-=======
+# Pseudocercospora flemingiae-macrophyllae U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Squamarina natalensis (Räsänen) C.W. Dodge SPECIES
-=======
+# Squamarina natalensis (Räsänen) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

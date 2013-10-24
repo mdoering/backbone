@@ -1,17 +1,16 @@
-Spegazzinites indious Ramanujam & Srisailam SPECIES
-=======
+# Spegazzinites indicus Ramanujam & Srisailam SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Botanique, Nagpur 9(1-4): 120 + pl. 1, fig. 1 (1980)
 
 #### Original name
-Spegazzinites indious Ramanujam & Srisailam
+Spegazzinites indicus Ramanujam & Srisailam
 
 ### Remarks
 null

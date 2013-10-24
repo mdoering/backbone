@@ -1,5 +1,4 @@
-Cochliomyces Speg. GENUS
-=======
+# Cochliomyces Speg. GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lichenodiplisiella makarevichae S.Y. Kondr. & Kudratov SPECIES
-=======
+# Lichenodiplisiella makarevichiae S.Y. Kondr. & Kudratov, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Kondratyuk, Kudratov & Bielczyk, Polish Botanical Journal 47(1): 2 (2002)
 
 #### Original name
-Lichenodiplisiella makarevichae S.Y. Kondr. & Kudratov
+Lichenodiplisiella makarevichiae S.Y. Kondr. & Kudratov, 2002
 
 ### Remarks
 null

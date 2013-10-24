@@ -1,5 +1,4 @@
-Farinaria pomacea Sowerby SPECIES
-=======
+# Farinaria pomacea Sowerby SPECIES
 
 #### Status
 ACCEPTED

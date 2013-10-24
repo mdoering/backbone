@@ -1,5 +1,4 @@
-Parmelia subrevoluta Harm. SPECIES
-=======
+# Parmelia subrevoluta Harm. SPECIES
 
 #### Status
 ACCEPTED

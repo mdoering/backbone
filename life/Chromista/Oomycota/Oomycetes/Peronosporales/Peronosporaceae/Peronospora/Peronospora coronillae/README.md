@@ -1,5 +1,4 @@
-Peronospora coronillae Gäum. SPECIES
-=======
+# Peronospora coronillae Gäum. SPECIES
 
 #### Status
 ACCEPTED

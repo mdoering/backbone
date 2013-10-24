@@ -1,5 +1,4 @@
-Irenina irregularis (F. Stevens) F. Stevens SPECIES
-=======
+# Irenina irregularis (F. Stevens) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

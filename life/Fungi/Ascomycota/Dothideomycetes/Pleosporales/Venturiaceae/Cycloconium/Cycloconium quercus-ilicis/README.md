@@ -1,14 +1,13 @@
-Cycloconium querci-ilicis (Peglion) Arnaud SPECIES
-=======
+# Cycloconium quercus-ilicis (Peglion) Arnaud SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 10 7: 687 (1925)
 
 #### Original name
 Cycloconium oleagineum var. quercus-ilicis Peglion

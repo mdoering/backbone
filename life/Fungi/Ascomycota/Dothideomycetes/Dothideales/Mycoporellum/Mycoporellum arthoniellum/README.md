@@ -1,5 +1,4 @@
-Mycoporellum arthoniellum (Nyl.) Müll. Arg. SPECIES
-=======
+# Mycoporellum arthoniellum (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

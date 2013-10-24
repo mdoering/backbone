@@ -1,14 +1,13 @@
-Uropyxis fraxini (Kom.) Magnus, 1899 SPECIES
-=======
+# Macruropyxis fraxini (Kom.) Azbukina, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Komarovskie Chteniya, 1972 19: 21 (1972)
 
 #### Original name
 Puccinia fraxini Kom., 1899

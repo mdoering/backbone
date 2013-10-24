@@ -1,5 +1,4 @@
-Calyptella flava Singer, 1978 SPECIES
-=======
+# Calyptella flava Singer, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fragilaria gessneri Hustedt SPECIES
-=======
+# Fragilaria gessneri Hustedt SPECIES
 
 #### Status
 ACCEPTED

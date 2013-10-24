@@ -1,5 +1,4 @@
-Clavaria lanceolata S. Imai SPECIES
-=======
+# Clavaria lanceolata S. Imai SPECIES
 
 #### Status
 ACCEPTED

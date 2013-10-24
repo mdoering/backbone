@@ -1,5 +1,4 @@
-Leptosphaeria chrysanthemi Clem. SPECIES
-=======
+# Leptosphaeria chrysanthemi Clem. SPECIES
 
 #### Status
 ACCEPTED

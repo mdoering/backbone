@@ -1,5 +1,4 @@
-Pertusaria damiensis A.W. Archer, Elix & Streimann SPECIES
-=======
+# Pertusaria damiensis A.W. Archer, Elix & Streimann SPECIES
 
 #### Status
 ACCEPTED

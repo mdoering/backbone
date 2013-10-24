@@ -1,5 +1,4 @@
-Euryachora libanotis (Fuckel) Höhn. SPECIES
-=======
+# Euryachora libanotis (Fuckel) Höhn. SPECIES
 
 #### Status
 ACCEPTED

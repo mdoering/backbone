@@ -1,5 +1,4 @@
-Puccinia valerianicola J.C. Lindq. SPECIES
-=======
+# Puccinia valerianicola J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola callicarpicola W. Yamam. SPECIES
-=======
+# Meliola callicarpicola W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

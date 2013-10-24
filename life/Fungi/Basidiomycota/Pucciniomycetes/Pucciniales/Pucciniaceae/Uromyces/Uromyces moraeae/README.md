@@ -1,5 +1,4 @@
-Uromyces moraeae Petr. & Syd. SPECIES
-=======
+# Uromyces moraeae Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

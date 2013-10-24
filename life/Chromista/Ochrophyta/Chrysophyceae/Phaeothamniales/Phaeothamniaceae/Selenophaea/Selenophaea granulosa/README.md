@@ -1,5 +1,4 @@
-Selenophaea granulosa Chodat SPECIES
-=======
+# Selenophaea granulosa Chodat SPECIES
 
 #### Status
 ACCEPTED

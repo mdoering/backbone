@@ -1,5 +1,4 @@
-Puccinia adenocalymnatis SPECIES
-=======
+# Puccinia adenocalymnatis SPECIES
 
 #### Status
 ACCEPTED

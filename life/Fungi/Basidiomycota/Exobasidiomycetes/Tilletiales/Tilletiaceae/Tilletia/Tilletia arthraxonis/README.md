@@ -1,17 +1,16 @@
-Tilletia arthraxonae A.R. Patil, T.M. Patil & M.S. Patil SPECIES
-=======
+# Tilletia arthraxonis A.R. Patil, T.M. Patil & M.S. Patil SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Patil, Indian Phytopath. 59(1): 80 (2006)
 
 #### Original name
-Tilletia arthraxonae A.R. Patil, T.M. Patil & M.S. Patil
+Tilletia arthraxonis A.R. Patil, T.M. Patil & M.S. Patil
 
 ### Remarks
 null

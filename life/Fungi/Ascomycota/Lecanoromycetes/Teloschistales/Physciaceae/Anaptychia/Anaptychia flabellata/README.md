@@ -1,5 +1,4 @@
-Anaptychia flabellata SPECIES
-=======
+# Anaptychia flabellata SPECIES
 
 #### Status
 ACCEPTED

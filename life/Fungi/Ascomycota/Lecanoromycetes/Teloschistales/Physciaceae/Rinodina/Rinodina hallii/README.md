@@ -1,5 +1,4 @@
-Rinodina hallii Tuck. SPECIES
-=======
+# Rinodina hallii Tuck. SPECIES
 
 #### Status
 ACCEPTED

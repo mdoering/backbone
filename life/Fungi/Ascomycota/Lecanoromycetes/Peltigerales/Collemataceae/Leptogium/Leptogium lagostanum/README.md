@@ -1,5 +1,4 @@
-Leptogium lagostanum Zahlbr. SPECIES
-=======
+# Leptogium lagostanum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

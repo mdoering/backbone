@@ -1,5 +1,4 @@
-Tricholoma purpureofuliginosum Gillet SPECIES
-=======
+# Tricholoma purpureofuliginosum Gillet SPECIES
 
 #### Status
 ACCEPTED

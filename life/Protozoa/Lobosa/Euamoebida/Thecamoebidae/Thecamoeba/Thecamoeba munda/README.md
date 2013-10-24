@@ -1,5 +1,4 @@
-Thecamoeba munda Schaeffer, 1926 SPECIES
-=======
+# Thecamoeba munda Schaeffer, 1926 SPECIES
 
 #### Status
 ACCEPTED

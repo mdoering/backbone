@@ -1,5 +1,4 @@
-Lecidea eliminata (Arnold) Arnold SPECIES
-=======
+# Lecidea eliminata (Arnold) Arnold SPECIES
 
 #### Status
 ACCEPTED

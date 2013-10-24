@@ -1,5 +1,4 @@
-Ascochyta labiatarum var. labiatarum VARIETY
-=======
+# Ascochyta labiatarum Bres. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ascochyta labiatarum var. labiatarum
+Ascochyta labiatarum Bres.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pertusaria melanostoma Kremp. SPECIES
-=======
+# Pertusaria melanostoma Kremp. SPECIES
 
 #### Status
 ACCEPTED

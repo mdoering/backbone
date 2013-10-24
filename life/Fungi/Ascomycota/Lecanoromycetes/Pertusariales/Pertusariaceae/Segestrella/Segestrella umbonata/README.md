@@ -1,5 +1,4 @@
-Segestrella umbonata (Schaer.) Körb. SPECIES
-=======
+# Segestrella umbonata (Schaer.) Körb. SPECIES
 
 #### Status
 ACCEPTED

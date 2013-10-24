@@ -1,5 +1,4 @@
-Russula werneri Maire SPECIES
-=======
+# Russula werneri Maire SPECIES
 
 #### Status
 ACCEPTED

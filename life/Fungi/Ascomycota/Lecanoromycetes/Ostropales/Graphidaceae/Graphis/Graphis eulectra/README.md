@@ -1,5 +1,4 @@
-Graphis eulectra Tuck. SPECIES
-=======
+# Graphis eulectra Tuck. SPECIES
 
 #### Status
 ACCEPTED

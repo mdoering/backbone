@@ -1,5 +1,4 @@
-Stictosphaeridium implexum Timofeev, 1966 SPECIES
-=======
+# Stictosphaeridium implexum Timofeev, 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kermincola physokermina ulc SPECIES
-=======
+# Kermincola physokermina ulc SPECIES
 
 #### Status
 ACCEPTED

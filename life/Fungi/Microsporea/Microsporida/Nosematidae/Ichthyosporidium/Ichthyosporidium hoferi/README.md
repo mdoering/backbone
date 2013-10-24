@@ -1,5 +1,4 @@
-Ichthyosporidium hoferi Plehn & Mulsow SPECIES
-=======
+# Ichthyosporidium hoferi Plehn & Mulsow SPECIES
 
 #### Status
 ACCEPTED

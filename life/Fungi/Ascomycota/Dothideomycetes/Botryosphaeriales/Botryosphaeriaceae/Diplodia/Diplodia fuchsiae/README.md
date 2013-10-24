@@ -1,5 +1,4 @@
-Diplodia fuchsiae Cooke & Harkn. SPECIES
-=======
+# Diplodia fuchsiae Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

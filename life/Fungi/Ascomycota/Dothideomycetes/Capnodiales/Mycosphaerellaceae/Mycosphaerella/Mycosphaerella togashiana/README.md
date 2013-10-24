@@ -1,5 +1,4 @@
-Mycosphaerella togashiana S. Ito & Tak. Kobay., 1953 SPECIES
-=======
+# Mycosphaerella togashiana S. Ito & Tak. Kobay., 1953 SPECIES
 
 #### Status
 ACCEPTED

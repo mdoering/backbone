@@ -1,5 +1,4 @@
-Arthrocladium caudatum Papendorf, 1969 SPECIES
-=======
+# Arthrocladium caudatum Papendorf, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Xerotinus Rchb. GENUS
-=======
+# Xerotus Fr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Consp. Regni Veget. (Leipzig) 14 (1828)
+Elench. fung. (Greifswald) 1: 48 (1828)
 
 #### Original name
-Xerotinus Rchb.
+Xerotus Fr.
 
 ### Remarks
 null

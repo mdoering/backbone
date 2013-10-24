@@ -1,14 +1,13 @@
-Biatora luteoatra (Nyl.) Räsänen SPECIES
-=======
+# Lecidea luteoatra Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 56: 299 (1873)
 
 #### Original name
 Lecidea luteoatra Nyl.

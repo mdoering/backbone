@@ -1,5 +1,4 @@
-Zifondium Pessagno, 1977 GENUS
-=======
+# Zifondium Pessagno, 1977 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Siphotextularia foliosa Zheng, 1988 SPECIES
-=======
+# Siphotextularia foliosa Zheng, 1988 SPECIES
 
 #### Status
 ACCEPTED

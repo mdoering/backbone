@@ -1,5 +1,4 @@
-Pertusaria polita Müll. Arg. SPECIES
-=======
+# Pertusaria polita Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

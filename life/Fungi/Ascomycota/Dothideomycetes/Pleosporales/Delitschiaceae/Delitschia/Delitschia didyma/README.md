@@ -1,17 +1,16 @@
-Delitschia auerswaldi Fuckel SPECIES
-=======
+# Delitschia didyma Auersw., 1866 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 5: 49 (1866)
 
 #### Original name
-null
+Delitschia didyma Auersw., 1866
 
 ### Remarks
 null

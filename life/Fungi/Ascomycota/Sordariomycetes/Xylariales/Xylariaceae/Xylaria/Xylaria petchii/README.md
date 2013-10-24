@@ -1,5 +1,4 @@
-Xylaria petchii Lloyd SPECIES
-=======
+# Xylaria petchii Lloyd SPECIES
 
 #### Status
 ACCEPTED

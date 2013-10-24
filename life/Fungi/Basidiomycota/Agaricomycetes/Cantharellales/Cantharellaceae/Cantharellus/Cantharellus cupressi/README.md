@@ -1,5 +1,4 @@
-Cantharellus cupressi (Schwein.) Schwein. SPECIES
-=======
+# Cantharellus cupressi (Schwein.) Schwein. SPECIES
 
 #### Status
 ACCEPTED

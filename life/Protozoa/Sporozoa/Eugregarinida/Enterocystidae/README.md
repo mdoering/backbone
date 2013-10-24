@@ -1,5 +1,4 @@
-Enterocystidae FAMILY
-=======
+# Enterocystidae FAMILY
 
 #### Status
 ACCEPTED

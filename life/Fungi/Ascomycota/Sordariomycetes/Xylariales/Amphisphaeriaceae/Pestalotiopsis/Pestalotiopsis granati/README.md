@@ -1,5 +1,4 @@
-Pestalotiopsis granati (Hüseyin) Nag Raj & Melnik SPECIES
-=======
+# Pestalotiopsis granati (Hüseyin) Nag Raj & Melnik SPECIES
 
 #### Status
 ACCEPTED

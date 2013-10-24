@@ -1,5 +1,4 @@
-Evernia oxygona Müll. Arg. SPECIES
-=======
+# Evernia oxygona Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

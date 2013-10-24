@@ -1,5 +1,4 @@
-Enterococcus villorum Vancanneyt et al., 2001 SPECIES
-=======
+# Enterococcus villorum Vancanneyt et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

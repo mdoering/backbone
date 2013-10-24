@@ -1,5 +1,4 @@
-Synechococcus capitatus A. E. Bailey-Watts & J. Komárek SPECIES
-=======
+# Synechococcus capitatus A. E. Bailey-Watts & J. Komárek SPECIES
 
 #### Status
 ACCEPTED

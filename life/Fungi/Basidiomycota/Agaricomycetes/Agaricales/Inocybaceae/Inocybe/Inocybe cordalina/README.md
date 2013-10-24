@@ -1,5 +1,4 @@
-Inocybe cordalina var. cordalina Quél. VARIETY
-=======
+# Inocybe cordalina Quél. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Inocybe cordalina var. cordalina Quél.
+Inocybe cordalina Quél.
 
 ### Remarks
 null

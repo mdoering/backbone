@@ -1,5 +1,4 @@
-Histioneis gubernans Schütt, 1895 SPECIES
-=======
+# Histioneis gubernans Schütt, 1895 SPECIES
 
 #### Status
 ACCEPTED

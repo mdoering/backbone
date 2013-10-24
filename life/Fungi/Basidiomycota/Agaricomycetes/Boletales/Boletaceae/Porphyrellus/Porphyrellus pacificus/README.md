@@ -1,5 +1,4 @@
-Porphyrellus pacificus (Wolfe) Singer, J. García & L.D. Gómez SPECIES
-=======
+# Porphyrellus pacificus (Wolfe) Singer, J. García & L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

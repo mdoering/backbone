@@ -1,5 +1,4 @@
-Plectonema yellowstonense Prát SPECIES
-=======
+# Plectonema yellowstonense Prát SPECIES
 
 #### Status
 ACCEPTED

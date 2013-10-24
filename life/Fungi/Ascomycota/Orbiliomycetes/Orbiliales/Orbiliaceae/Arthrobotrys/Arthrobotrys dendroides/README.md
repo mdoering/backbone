@@ -1,5 +1,4 @@
-Arthrobotrys dendroides Kuthub., Muid & J. Webster, 1985 SPECIES
-=======
+# Arthrobotrys dendroides Kuthub., Muid & J. Webster, 1985 SPECIES
 
 #### Status
 ACCEPTED

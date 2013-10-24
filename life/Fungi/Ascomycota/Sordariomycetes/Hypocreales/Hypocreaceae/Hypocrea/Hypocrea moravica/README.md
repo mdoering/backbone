@@ -1,5 +1,4 @@
-Hypocrea moravica Petr. SPECIES
-=======
+# Hypocrea moravica Petr. SPECIES
 
 #### Status
 ACCEPTED

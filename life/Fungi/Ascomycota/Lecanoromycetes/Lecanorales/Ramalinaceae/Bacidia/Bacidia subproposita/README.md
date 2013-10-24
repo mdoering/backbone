@@ -1,14 +1,13 @@
-Lecidea subproposita (Müll. Arg.) Shirley SPECIES
-=======
+# Bacidia subproposita (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Proc. R. Soc. Qd. 6: 178 (1889)
+Cat. Lich. Univers. 4: 244 (1926)
 
 #### Original name
 null

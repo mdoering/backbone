@@ -1,14 +1,13 @@
-Triposporina quadridens Drechsler, 1962 SPECIES
-=======
+# Dwayaangam quadridens (Drechsler) Subram., 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 15: 19 (1962)
+Kavaka 5: 96 (1978)
 
 #### Original name
 Triposporina quadridens Drechsler, 1962

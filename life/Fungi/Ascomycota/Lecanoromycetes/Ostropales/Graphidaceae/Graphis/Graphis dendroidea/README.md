@@ -1,5 +1,4 @@
-Graphis dendroidea Leight. SPECIES
-=======
+# Graphis dendroidea Leight. SPECIES
 
 #### Status
 ACCEPTED

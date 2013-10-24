@@ -1,5 +1,4 @@
-Archaeocatastomum Zanon GENUS
-=======
+# Archaeocatastomum Zanon GENUS
 
 #### Status
 ACCEPTED

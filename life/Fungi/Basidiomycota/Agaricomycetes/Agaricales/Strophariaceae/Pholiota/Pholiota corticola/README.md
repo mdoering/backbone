@@ -1,5 +1,4 @@
-Pholiota corticola (Murrill) A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota corticola (Murrill) A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

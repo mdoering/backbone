@@ -1,5 +1,4 @@
-Rhizosporium ficariae (Wallr.) Rabenh. SPECIES
-=======
+# Rhizosporium ficariae (Wallr.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

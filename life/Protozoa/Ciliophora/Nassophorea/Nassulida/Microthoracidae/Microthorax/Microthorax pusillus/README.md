@@ -1,5 +1,4 @@
-Microthorax pusillus Engelmann, 1862 SPECIES
-=======
+# Microthorax pusillus Engelmann, 1862 SPECIES
 
 #### Status
 ACCEPTED

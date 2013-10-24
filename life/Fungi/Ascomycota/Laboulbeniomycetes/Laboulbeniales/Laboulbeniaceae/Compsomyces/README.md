@@ -1,17 +1,16 @@
-Moschomyces Thaxt. GENUS
-=======
+# Compsomyces Thaxt. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Amer. Acad. Arts & Sci. 29: 97 (1894)
+Proc. Amer. Acad. Arts & Sci. 29: 96 (1894)
 
 #### Original name
-Moschomyces Thaxt.
+Compsomyces Thaxt.
 
 ### Remarks
 null

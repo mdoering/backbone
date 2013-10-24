@@ -1,5 +1,4 @@
-Uredo salviae-chinensis Hirats. f. SPECIES
-=======
+# Uredo salviae-chinensis Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

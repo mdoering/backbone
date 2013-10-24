@@ -1,5 +1,4 @@
-Ancylistes berdanii Sparrow, 1955 SPECIES
-=======
+# Ancylistes berdanii Sparrow, 1955 SPECIES
 
 #### Status
 ACCEPTED

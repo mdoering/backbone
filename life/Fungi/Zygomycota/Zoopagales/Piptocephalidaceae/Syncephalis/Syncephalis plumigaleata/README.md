@@ -1,5 +1,4 @@
-Syncephalis plumigaleata Embree, 1965 SPECIES
-=======
+# Syncephalis plumigaleata Embree, 1965 SPECIES
 
 #### Status
 ACCEPTED

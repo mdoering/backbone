@@ -1,5 +1,4 @@
-Azymocandida corniculata (Kuraishi) E.K. Novák & Zsolt SPECIES
-=======
+# Azymocandida corniculata (Kuraishi) E.K. Novák & Zsolt SPECIES
 
 #### Status
 ACCEPTED

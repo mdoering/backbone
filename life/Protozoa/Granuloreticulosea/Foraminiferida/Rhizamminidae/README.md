@@ -1,5 +1,4 @@
-Rhizamminidae FAMILY
-=======
+# Rhizamminidae FAMILY
 
 #### Status
 ACCEPTED

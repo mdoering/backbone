@@ -1,5 +1,4 @@
-Phyllosticta cephalariae G. Winter SPECIES
-=======
+# Phyllosticta cephalariae G. Winter SPECIES
 
 #### Status
 ACCEPTED

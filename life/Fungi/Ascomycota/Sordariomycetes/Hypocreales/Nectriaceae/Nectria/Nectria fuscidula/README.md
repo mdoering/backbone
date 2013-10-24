@@ -1,5 +1,4 @@
-Nectria fuscidula Rehm SPECIES
-=======
+# Nectria fuscidula Rehm SPECIES
 
 #### Status
 ACCEPTED

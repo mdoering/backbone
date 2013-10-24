@@ -1,5 +1,4 @@
-Englerula ingae Bat. & H. Maia SPECIES
-=======
+# Englerula ingae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

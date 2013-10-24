@@ -1,5 +1,4 @@
-Peziza cervinula Cooke SPECIES
-=======
+# Peziza cervinula Cooke SPECIES
 
 #### Status
 ACCEPTED

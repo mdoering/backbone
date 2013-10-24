@@ -1,5 +1,4 @@
-Hypocrea enteromorpha (Lév.) Sacc. SPECIES
-=======
+# Hypocrea enteromorpha (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

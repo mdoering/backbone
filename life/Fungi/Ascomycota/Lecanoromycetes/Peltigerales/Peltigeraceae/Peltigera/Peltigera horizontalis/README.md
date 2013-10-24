@@ -1,17 +1,16 @@
-Peltigera horizontalis var. horizontalis VARIETY
-=======
+# Peltigera horizontalis (Huds.) Baumg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Fl. Lips. 562 (1790)
 
 #### Original name
-Peltigera horizontalis var. horizontalis
+Lichen horizontalis
 
 ### Remarks
 null

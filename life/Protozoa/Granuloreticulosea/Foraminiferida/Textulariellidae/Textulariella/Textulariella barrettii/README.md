@@ -1,8 +1,7 @@
-Textularia barrettii Jones & Parker, 1876 SPECIES
-=======
+# Textulariella barrettii (Jones & Parker, 1876) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

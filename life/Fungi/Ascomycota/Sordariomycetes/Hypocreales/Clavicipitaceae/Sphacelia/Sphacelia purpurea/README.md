@@ -1,5 +1,4 @@
-Sphacelia purpurea anon. SPECIES
-=======
+# Sphacelia purpurea anon. SPECIES
 
 #### Status
 ACCEPTED

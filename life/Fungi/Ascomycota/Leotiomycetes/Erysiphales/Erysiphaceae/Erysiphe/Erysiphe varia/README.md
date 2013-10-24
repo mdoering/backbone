@@ -1,5 +1,4 @@
-Erysiphe varia Fr. SPECIES
-=======
+# Erysiphe varia Fr. SPECIES
 
 #### Status
 ACCEPTED

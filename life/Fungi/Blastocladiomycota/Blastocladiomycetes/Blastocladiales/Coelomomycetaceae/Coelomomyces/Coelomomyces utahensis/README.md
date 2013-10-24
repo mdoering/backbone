@@ -1,5 +1,4 @@
-Coelomomyces utahensis Romney, Couch & L.T. Nielsen SPECIES
-=======
+# Coelomomyces utahensis Romney, Couch & L.T. Nielsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Herpotrichiella porothelia (Berk. & M.A. Curtis) M.E. Barr SPECIES
-=======
+# Herpotrichiella porothelia (Berk. & M.A. Curtis) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

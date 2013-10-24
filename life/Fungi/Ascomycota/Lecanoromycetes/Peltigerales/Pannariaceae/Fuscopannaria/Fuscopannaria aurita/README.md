@@ -1,5 +1,4 @@
-Fuscopannaria aurita P. M. Jørg. SPECIES
-=======
+# Fuscopannaria aurita P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

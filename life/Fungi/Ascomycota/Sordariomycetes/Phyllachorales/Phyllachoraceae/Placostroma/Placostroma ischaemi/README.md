@@ -1,5 +1,4 @@
-Placostroma ischaemi Sawada, 1944 SPECIES
-=======
+# Placostroma ischaemi Sawada, 1944 SPECIES
 
 #### Status
 ACCEPTED

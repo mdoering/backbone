@@ -1,5 +1,4 @@
-Puccinia brevispora Racib. SPECIES
-=======
+# Puccinia brevispora Racib. SPECIES
 
 #### Status
 ACCEPTED

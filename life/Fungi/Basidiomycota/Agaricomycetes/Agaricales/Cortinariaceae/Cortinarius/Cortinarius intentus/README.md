@@ -1,5 +1,4 @@
-Cortinarius intentus Fr. SPECIES
-=======
+# Cortinarius intentus Fr. SPECIES
 
 #### Status
 ACCEPTED

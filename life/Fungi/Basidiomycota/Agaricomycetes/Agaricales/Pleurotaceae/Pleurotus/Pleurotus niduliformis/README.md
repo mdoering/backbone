@@ -1,5 +1,4 @@
-Pleurotus niduliformis Murrill SPECIES
-=======
+# Pleurotus niduliformis Murrill SPECIES
 
 #### Status
 ACCEPTED

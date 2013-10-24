@@ -1,5 +1,4 @@
-Lambdasporium lushanense J.L. Chen, W.S. Lin & Tzean SPECIES
-=======
+# Lambdasporium lushanense J.L. Chen, W.S. Lin & Tzean SPECIES
 
 #### Status
 ACCEPTED

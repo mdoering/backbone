@@ -1,14 +1,13 @@
-Tricholoma spectabile Peerally & Sutra, 1973 SPECIES
-=======
+# Macrocybe spectabilis (Peerally & Sutra) Pegler & Lodge, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue agric. Sucr. Ile Maurice 51(3): 142 (1973)
+in Pegler, Lodge & Nakasone, Mycologia 90(3): 499 (1998)
 
 #### Original name
 Tricholoma spectabile Peerally & Sutra, 1973

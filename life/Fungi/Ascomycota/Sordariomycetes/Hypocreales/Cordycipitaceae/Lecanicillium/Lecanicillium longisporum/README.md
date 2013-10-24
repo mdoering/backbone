@@ -1,14 +1,13 @@
-Cephalosporium longisporum Petch, 1925 SPECIES
-=======
+# Lecanicillium longisporum (Petch) Zare & W. Gams, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 10: 171 (1925)
+Nova Hedwigia 73(1-2): 16 (2001)
 
 #### Original name
 Cephalosporium longisporum Petch, 1925

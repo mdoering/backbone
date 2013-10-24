@@ -1,5 +1,4 @@
-Tulasnella valentini Van de Put, 1997 SPECIES
-=======
+# Tulasnella valentini Van de Put, 1997 SPECIES
 
 #### Status
 ACCEPTED

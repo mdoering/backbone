@@ -1,5 +1,4 @@
-Calocera vermicularis Lloyd SPECIES
-=======
+# Calocera vermicularis Lloyd SPECIES
 
 #### Status
 ACCEPTED

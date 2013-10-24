@@ -1,5 +1,4 @@
-Phlyctema simulans (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Phlyctema simulans (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Striadiporites reticulatus C.P. Varma & Rawat SPECIES
-=======
+# Striadiporites reticulatus C.P. Varma & Rawat SPECIES
 
 #### Status
 ACCEPTED

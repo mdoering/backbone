@@ -1,5 +1,4 @@
-Polyblastia leightonii Trevis. SPECIES
-=======
+# Polyblastia leightonii Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Rhizobium fredii Scholla & Elkan, 1984 SPECIES
-=======
+# Ensifer fredii (Scholla & Elkan, 1984) Young, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

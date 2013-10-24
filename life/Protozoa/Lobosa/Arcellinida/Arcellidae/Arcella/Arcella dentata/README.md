@@ -1,5 +1,4 @@
-Arcella dentata Ehr. SPECIES
-=======
+# Arcella dentata Ehr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Wiseorhabdus D.Bukry, 1981 GENUS
-=======
+# Wiseorhabdus D.Bukry, 1981 GENUS
 
 #### Status
 ACCEPTED

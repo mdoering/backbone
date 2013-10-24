@@ -1,14 +1,13 @@
-Phyllachorella sesseae (Syd.) Petr., 1991 SPECIES
-=======
+# Phyllachora sesseae Syd., 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 37(4/5): 365 (1939)
 
 #### Original name
 Phyllachora sesseae Syd., 1939

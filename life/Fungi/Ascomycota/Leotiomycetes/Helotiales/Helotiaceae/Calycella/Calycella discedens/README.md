@@ -1,5 +1,4 @@
-Calycella discedens (P. Karst.) Dennis SPECIES
-=======
+# Calycella discedens (P. Karst.) Dennis SPECIES
 
 #### Status
 ACCEPTED

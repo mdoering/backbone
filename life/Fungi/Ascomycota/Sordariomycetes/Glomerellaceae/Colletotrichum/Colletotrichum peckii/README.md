@@ -1,5 +1,4 @@
-Colletotrichum peckii (Sacc.) Davis SPECIES
-=======
+# Colletotrichum peckii (Sacc.) Davis SPECIES
 
 #### Status
 ACCEPTED

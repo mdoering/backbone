@@ -1,5 +1,4 @@
-Ascochyta buxicola Hollós SPECIES
-=======
+# Ascochyta buxicola Hollós SPECIES
 
 #### Status
 ACCEPTED

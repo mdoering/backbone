@@ -1,14 +1,13 @@
-Saccamina Sars, 1869 GENUS
-=======
+# Saccammina Sars, 1869 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Mag. Nat. Hist. , (4) 7, 183.
 
 #### Original name
 null

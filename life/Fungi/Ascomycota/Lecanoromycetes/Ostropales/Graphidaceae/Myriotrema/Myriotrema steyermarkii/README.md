@@ -1,5 +1,4 @@
-Myriotrema steyermarkii (Hale) Hale SPECIES
-=======
+# Myriotrema steyermarkii (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

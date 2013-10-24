@@ -1,5 +1,4 @@
-Menegazzia fertilis P. James SPECIES
-=======
+# Menegazzia fertilis P. James SPECIES
 
 #### Status
 ACCEPTED

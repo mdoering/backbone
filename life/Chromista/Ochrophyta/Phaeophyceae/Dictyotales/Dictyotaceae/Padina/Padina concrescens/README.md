@@ -1,5 +1,4 @@
-Padina concrescens Thivy SPECIES
-=======
+# Padina concrescens Thivy SPECIES
 
 #### Status
 ACCEPTED

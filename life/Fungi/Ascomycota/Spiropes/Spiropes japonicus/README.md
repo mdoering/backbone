@@ -1,5 +1,4 @@
-Spiropes japonicus (Henn.) M.B. Ellis SPECIES
-=======
+# Spiropes japonicus (Henn.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

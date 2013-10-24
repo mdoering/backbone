@@ -1,5 +1,4 @@
-Spongioides Lázaro Ibiza GENUS
-=======
+# Spongioides Lázaro Ibiza GENUS
 
 #### Status
 ACCEPTED

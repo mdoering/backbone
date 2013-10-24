@@ -1,5 +1,4 @@
-Entomophthora leyteensis L.T. Villac. & S. Keller ex S. Keller, 2004 SPECIES
-=======
+# Entomophthora leyteensis L.T. Villac. & S. Keller ex S. Keller, 2004 SPECIES
 
 #### Status
 ACCEPTED

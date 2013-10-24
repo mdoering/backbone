@@ -1,5 +1,4 @@
-Aecidium pseudobalsameum Dietel & Holw. SPECIES
-=======
+# Aecidium pseudobalsameum Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Octospora moravecii K.B. Khare SPECIES
-=======
+# Octospora moravecii K.B. Khare SPECIES
 
 #### Status
 ACCEPTED

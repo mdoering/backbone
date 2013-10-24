@@ -1,5 +1,4 @@
-Cytospora anceps Sacc. SPECIES
-=======
+# Cytospora anceps Sacc. SPECIES
 
 #### Status
 ACCEPTED

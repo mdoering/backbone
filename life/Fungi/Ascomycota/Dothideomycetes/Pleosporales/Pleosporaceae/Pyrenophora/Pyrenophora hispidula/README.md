@@ -1,5 +1,4 @@
-Pyrenophora hispidula (Niessl) Sacc. SPECIES
-=======
+# Pyrenophora hispidula (Niessl) Sacc. SPECIES
 
 #### Status
 ACCEPTED

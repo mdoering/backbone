@@ -1,5 +1,4 @@
-Belonioscypha alpina Stadelmann SPECIES
-=======
+# Belonioscypha alpina Stadelmann SPECIES
 
 #### Status
 ACCEPTED

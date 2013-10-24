@@ -1,5 +1,4 @@
-Myxodictyon subcoeruleum Zahlbr. SPECIES
-=======
+# Myxodictyon subcoeruleum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

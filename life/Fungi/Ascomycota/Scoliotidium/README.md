@@ -1,5 +1,4 @@
-Scoliotidium Bat. & Cavalc. GENUS
-=======
+# Scoliotidium Bat. & Cavalc. GENUS
 
 #### Status
 ACCEPTED

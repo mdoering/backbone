@@ -1,5 +1,4 @@
-Septoria amygdali Woron. SPECIES
-=======
+# Septoria amygdali Woron. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Merulius odorus (Wettst.) Kuntze SPECIES
-=======
+# Merulius odorus (Wettst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

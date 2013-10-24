@@ -1,5 +1,4 @@
-Lecanora perrugosa SPECIES
-=======
+# Lecanora perrugosa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis pitcairniae Bond.-Mont. SPECIES
-=======
+# Phomopsis pitcairniae Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

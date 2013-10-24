@@ -1,5 +1,4 @@
-Opegrapha devia (C. Knight & Mitt.) Nyl. SPECIES
-=======
+# Opegrapha devia (C. Knight & Mitt.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus subsepticus Murrill SPECIES
-=======
+# Pleurotus subsepticus Murrill SPECIES
 
 #### Status
 ACCEPTED

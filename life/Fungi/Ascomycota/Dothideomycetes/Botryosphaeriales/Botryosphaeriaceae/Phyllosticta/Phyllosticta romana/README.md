@@ -1,5 +1,4 @@
-Phyllosticta romana D. Sacc. SPECIES
-=======
+# Phyllosticta romana D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Helotium distinguenda P. Karst. SPECIES
-=======
+# Lachnum distinguendum Rick SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 19: 156 (1870)
+null
 
 #### Original name
-Helotium distinguenda P. Karst.
+Lachnum distinguendum Rick
 
 ### Remarks
 null

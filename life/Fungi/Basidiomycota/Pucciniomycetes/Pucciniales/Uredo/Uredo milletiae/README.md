@@ -1,5 +1,4 @@
-Uredo milletiae Sawada SPECIES
-=======
+# Uredo milletiae Sawada SPECIES
 
 #### Status
 ACCEPTED

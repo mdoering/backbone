@@ -1,5 +1,4 @@
-Scrippsiella lachrymosa Lewis, 1991 SPECIES
-=======
+# Scrippsiella lachrymosa Lewis, 1991 SPECIES
 
 #### Status
 ACCEPTED

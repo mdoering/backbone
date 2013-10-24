@@ -1,5 +1,4 @@
-Pycnothelia taurica (Wulfen) Dufour SPECIES
-=======
+# Pycnothelia taurica (Wulfen) Dufour SPECIES
 
 #### Status
 ACCEPTED

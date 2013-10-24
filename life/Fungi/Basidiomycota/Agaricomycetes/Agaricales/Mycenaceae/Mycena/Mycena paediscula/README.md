@@ -1,5 +1,4 @@
-Mycena paediscula Berk. & Broome SPECIES
-=======
+# Mycena paediscula Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

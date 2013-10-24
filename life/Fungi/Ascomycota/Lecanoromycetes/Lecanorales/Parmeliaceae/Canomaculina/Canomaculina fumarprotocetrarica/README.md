@@ -1,5 +1,4 @@
-Canomaculina fumarprotocetrarica (Marcelli & Hale) Elix SPECIES
-=======
+# Canomaculina fumarprotocetrarica (Marcelli & Hale) Elix SPECIES
 
 #### Status
 ACCEPTED

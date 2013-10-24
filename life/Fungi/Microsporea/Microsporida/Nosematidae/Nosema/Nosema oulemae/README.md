@@ -1,5 +1,4 @@
-Nosema oulemae SPECIES
-=======
+# Nosema oulemae SPECIES
 
 #### Status
 ACCEPTED

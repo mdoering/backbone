@@ -1,5 +1,4 @@
-Ciboria calopus (Fr.) Sacc. SPECIES
-=======
+# Ciboria calopus (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

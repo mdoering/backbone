@@ -1,5 +1,4 @@
-Ramalina montana Barkh. SPECIES
-=======
+# Ramalina montana Barkh. SPECIES
 
 #### Status
 ACCEPTED

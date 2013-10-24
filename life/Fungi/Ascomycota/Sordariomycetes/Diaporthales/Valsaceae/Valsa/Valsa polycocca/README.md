@@ -1,5 +1,4 @@
-Valsa polycocca Nitschke SPECIES
-=======
+# Valsa polycocca Nitschke SPECIES
 
 #### Status
 ACCEPTED

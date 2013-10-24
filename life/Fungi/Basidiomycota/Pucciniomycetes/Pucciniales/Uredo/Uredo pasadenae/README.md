@@ -1,5 +1,4 @@
-Uredo pasadenae Syd. & P. Syd. SPECIES
-=======
+# Uredo pasadenae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

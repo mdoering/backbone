@@ -1,5 +1,4 @@
-Punctelia nebulata Elix & J. Johnst. SPECIES
-=======
+# Punctelia nebulata Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

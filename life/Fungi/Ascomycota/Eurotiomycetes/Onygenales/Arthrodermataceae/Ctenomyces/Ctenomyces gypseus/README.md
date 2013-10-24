@@ -1,5 +1,4 @@
-Ctenomyces gypseus (MacCarthy) Nann. SPECIES
-=======
+# Ctenomyces gypseus (MacCarthy) Nann. SPECIES
 
 #### Status
 ACCEPTED

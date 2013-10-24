@@ -1,5 +1,4 @@
-Cyclotella pseudocomensis W. Scheffler SPECIES
-=======
+# Cyclotella pseudocomensis W. Scheffler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Priscofolliculina GENUS
-=======
+# Priscofolliculina GENUS
 
 #### Status
 ACCEPTED

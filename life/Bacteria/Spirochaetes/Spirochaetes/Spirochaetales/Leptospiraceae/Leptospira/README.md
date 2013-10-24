@@ -1,5 +1,4 @@
-Leptospira GENUS
-=======
+# Leptospira GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiobolus pastinaceus Fabre SPECIES
-=======
+# Ophiobolus pastinaceus Fabre SPECIES
 
 #### Status
 ACCEPTED

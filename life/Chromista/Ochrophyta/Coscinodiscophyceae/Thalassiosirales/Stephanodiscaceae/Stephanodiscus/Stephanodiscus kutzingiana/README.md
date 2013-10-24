@@ -1,5 +1,4 @@
-Stephanodiscus kutzingiana, nom. nud. SPECIES
-=======
+# Stephanodiscus kutzingiana, nom. nud. SPECIES
 
 #### Status
 ACCEPTED

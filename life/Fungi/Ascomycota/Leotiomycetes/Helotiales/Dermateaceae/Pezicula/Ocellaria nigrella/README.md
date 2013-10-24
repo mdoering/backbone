@@ -1,5 +1,4 @@
-Ocellaria nigrella (Sommerf.) Rehm SPECIES
-=======
+# Ocellaria nigrella (Sommerf.) Rehm SPECIES
 
 #### Status
 ACCEPTED

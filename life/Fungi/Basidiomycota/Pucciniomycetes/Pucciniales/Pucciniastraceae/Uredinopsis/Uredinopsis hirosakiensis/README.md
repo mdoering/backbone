@@ -1,5 +1,4 @@
-Uredinopsis hirosakiensis Kamei & Hirats. SPECIES
-=======
+# Uredinopsis hirosakiensis Kamei & Hirats. SPECIES
 
 #### Status
 ACCEPTED

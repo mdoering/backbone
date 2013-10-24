@@ -1,5 +1,4 @@
-Polyporus cephalotes var. cephalotes VARIETY
-=======
+# Polyporus cephalotes Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycol. eur. (Erlanga) 2: 118 (1825)
 
 #### Original name
-Polyporus cephalotes var. cephalotes
+Polyporus cephalotes Pers.
 
 ### Remarks
 null

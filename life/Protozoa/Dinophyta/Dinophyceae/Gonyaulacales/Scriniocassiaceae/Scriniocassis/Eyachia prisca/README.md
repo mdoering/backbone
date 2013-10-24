@@ -1,5 +1,4 @@
-Eyachia prisca Gocht, 1979 SPECIES
-=======
+# Eyachia prisca Gocht, 1979 SPECIES
 
 #### Status
 DOUBTFUL

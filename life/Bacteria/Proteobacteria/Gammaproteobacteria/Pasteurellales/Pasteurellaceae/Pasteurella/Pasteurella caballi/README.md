@@ -1,5 +1,4 @@
-Pasteurella caballi Schlater et al., 1990 SPECIES
-=======
+# Pasteurella caballi Schlater et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

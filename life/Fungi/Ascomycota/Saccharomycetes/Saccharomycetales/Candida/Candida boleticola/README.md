@@ -1,5 +1,4 @@
-Candida boleticola Nakase, 1971 SPECIES
-=======
+# Candida boleticola Nakase, 1971 SPECIES
 
 #### Status
 ACCEPTED

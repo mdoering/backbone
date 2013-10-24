@@ -1,5 +1,4 @@
-Dermocybe cinnamomeofulva (Rob. Henry) Cetto SPECIES
-=======
+# Dermocybe cinnamomeofulva (Rob. Henry) Cetto SPECIES
 
 #### Status
 ACCEPTED

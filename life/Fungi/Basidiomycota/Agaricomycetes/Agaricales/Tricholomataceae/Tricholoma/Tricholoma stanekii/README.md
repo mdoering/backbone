@@ -1,5 +1,4 @@
-Tricholoma stanekii Pilát SPECIES
-=======
+# Tricholoma stanekii Pilát SPECIES
 
 #### Status
 ACCEPTED

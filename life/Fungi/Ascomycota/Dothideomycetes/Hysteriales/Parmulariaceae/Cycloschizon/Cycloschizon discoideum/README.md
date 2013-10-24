@@ -1,5 +1,4 @@
-Cycloschizon discoideum (Rehm) Arx, 1962 SPECIES
-=======
+# Cycloschizon discoideum (Rehm) Arx, 1962 SPECIES
 
 #### Status
 ACCEPTED

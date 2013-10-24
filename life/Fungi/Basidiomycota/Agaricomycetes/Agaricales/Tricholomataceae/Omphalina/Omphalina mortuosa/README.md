@@ -1,5 +1,4 @@
-Omphalina mortuosa (Fr.) Raithelh. SPECIES
-=======
+# Omphalina mortuosa (Fr.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

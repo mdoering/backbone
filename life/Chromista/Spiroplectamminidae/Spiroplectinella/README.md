@@ -1,5 +1,4 @@
-Spiroplectinella Kisel'man, 1972 GENUS
-=======
+# Spiroplectinella Kisel'man, 1972 GENUS
 
 #### Status
 ACCEPTED

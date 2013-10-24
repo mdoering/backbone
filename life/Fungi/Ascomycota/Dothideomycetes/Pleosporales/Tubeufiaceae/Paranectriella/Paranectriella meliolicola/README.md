@@ -1,14 +1,13 @@
-Poeltia meliolicola (F. Stevens) Petr., 1972 SPECIES
-=======
+# Paranectriella meliolicola (F. Stevens) Piroz., 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 25(1-6): 177 (1972)
+Kew Bull. 31(3): 598 (1977)
 
 #### Original name
 Paranectria meliolicola F. Stevens, 1918

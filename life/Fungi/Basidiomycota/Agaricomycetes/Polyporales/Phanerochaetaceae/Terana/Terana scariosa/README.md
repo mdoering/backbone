@@ -1,5 +1,4 @@
-Terana scariosa (Berk. & Broome) Kuntze SPECIES
-=======
+# Terana scariosa (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

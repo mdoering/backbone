@@ -1,5 +1,4 @@
-Catonella Moore & Moore, 1994 GENUS
-=======
+# Catonella Moore & Moore, 1994 GENUS
 
 #### Status
 ACCEPTED

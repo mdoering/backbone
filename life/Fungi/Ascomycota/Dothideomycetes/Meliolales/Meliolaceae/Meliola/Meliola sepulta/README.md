@@ -1,5 +1,4 @@
-Meliola sepulta Pat. SPECIES
-=======
+# Meliola sepulta Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Appendiculella echinata (Gaillard) Hansf. SPECIES
-=======
+# Appendiculella echinata (Gaillard) Hansf. SPECIES
 
 #### Status
 ACCEPTED

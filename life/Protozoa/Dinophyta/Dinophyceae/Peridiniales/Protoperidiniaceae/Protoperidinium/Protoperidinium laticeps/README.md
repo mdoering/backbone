@@ -1,5 +1,4 @@
-Protoperidinium laticeps (Grontved & Seidenfaden) Balech SPECIES
-=======
+# Protoperidinium laticeps (Grontved & Seidenfaden) Balech SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria penniseti Hansf. SPECIES
-=======
+# Leptosphaeria penniseti Hansf. SPECIES
 
 #### Status
 ACCEPTED

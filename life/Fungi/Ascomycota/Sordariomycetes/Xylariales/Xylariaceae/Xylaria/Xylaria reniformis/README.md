@@ -1,5 +1,4 @@
-Xylaria reniformis Starbäck SPECIES
-=======
+# Xylaria reniformis Starbäck SPECIES
 
 #### Status
 ACCEPTED

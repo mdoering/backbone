@@ -1,5 +1,4 @@
-Pleosphaeria lichenothricis Henssen SPECIES
-=======
+# Pleosphaeria lichenothricis Henssen SPECIES
 
 #### Status
 ACCEPTED

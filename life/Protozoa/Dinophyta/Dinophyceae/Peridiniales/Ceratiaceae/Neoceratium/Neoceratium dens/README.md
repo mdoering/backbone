@@ -1,5 +1,4 @@
-Neoceratium dens (Ostenfeld & Schmidt) F.Gomez, D.Moreira & P.Lopez-Garcia, 2009 SPECIES
-=======
+# Neoceratium dens (Ostenfeld & Schmidt) F.Gomez, D.Moreira & P.Lopez-Garcia, 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia altitudinum B. de Lesd. SPECIES
-=======
+# Buellia altitudinum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

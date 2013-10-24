@@ -1,5 +1,4 @@
-Laschia infundibuliformis Berk. SPECIES
-=======
+# Laschia infundibuliformis Berk. SPECIES
 
 #### Status
 ACCEPTED

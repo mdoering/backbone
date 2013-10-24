@@ -1,17 +1,16 @@
-Leptosphaeria fuscella var. fuscella VARIETY
-=======
+# Leptosphaeria fuscella (Berk. & Broome) Ces. & De Not., 1863 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Comm. Soc. crittog. Ital. 1(4): 236 (1863)
 
 #### Original name
-Leptosphaeria fuscella var. fuscella
+Sphaeria fuscella Berk. & Broome, 1852
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Appendiculella echinus (Henn.) Höhn. SPECIES
-=======
+# Appendiculella echinus (Henn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

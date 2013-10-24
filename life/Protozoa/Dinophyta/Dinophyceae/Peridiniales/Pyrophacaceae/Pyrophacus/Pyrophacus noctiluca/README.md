@@ -1,5 +1,4 @@
-Pyrophacus noctiluca SPECIES
-=======
+# Pyrophacus noctiluca SPECIES
 
 #### Status
 ACCEPTED

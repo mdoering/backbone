@@ -1,5 +1,4 @@
-Omphalia sphaerospora Berk. SPECIES
-=======
+# Omphalia sphaerospora Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenastrum chilense Mont. SPECIES
-=======
+# Pyrenastrum chilense Mont. SPECIES
 
 #### Status
 ACCEPTED

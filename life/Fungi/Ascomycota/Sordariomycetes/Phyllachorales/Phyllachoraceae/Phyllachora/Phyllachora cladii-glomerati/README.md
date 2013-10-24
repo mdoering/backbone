@@ -1,5 +1,4 @@
-Phyllachora cladii-glomerati Hansf., 1958 SPECIES
-=======
+# Phyllachora cladii-glomerati Hansf., 1958 SPECIES
 
 #### Status
 ACCEPTED

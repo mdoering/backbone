@@ -1,8 +1,7 @@
-Arthrographis langeroni G. Cochet SPECIES
-=======
+# Arthrographis langeronii G. Cochet SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Arthrographis langeroni G. Cochet
+Arthrographis langeronii G. Cochet
 
 ### Remarks
 null

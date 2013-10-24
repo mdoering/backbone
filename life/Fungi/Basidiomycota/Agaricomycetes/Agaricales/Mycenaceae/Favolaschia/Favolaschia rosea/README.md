@@ -1,5 +1,4 @@
-Favolaschia rosea Henn. SPECIES
-=======
+# Favolaschia rosea Henn. SPECIES
 
 #### Status
 ACCEPTED

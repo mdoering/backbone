@@ -1,5 +1,4 @@
-Arthothelium xylographoides Müll. Arg. SPECIES
-=======
+# Arthothelium xylographoides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Saprophilus mobilis Kahl, 1926 SPECIES
-=======
+# Sathrophilus mobilis (Kahl, 1926) ? SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

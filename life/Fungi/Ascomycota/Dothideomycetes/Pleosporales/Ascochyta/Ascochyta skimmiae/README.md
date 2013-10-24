@@ -1,5 +1,4 @@
-Ascochyta skimmiae S. Ahmad SPECIES
-=======
+# Ascochyta skimmiae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

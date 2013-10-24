@@ -1,5 +1,4 @@
-Phyllachora gentilis Speg., 1891 SPECIES
-=======
+# Phyllachora gentilis Speg., 1891 SPECIES
 
 #### Status
 DOUBTFUL

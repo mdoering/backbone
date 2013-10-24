@@ -1,14 +1,13 @@
-Ascochytella capparidis (Castagne) Petr. SPECIES
-=======
+# Ascochytella capparis (Castagne) Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 7(1-4): 30 (1953)
 
 #### Original name
 Perisporium capparis Castagne

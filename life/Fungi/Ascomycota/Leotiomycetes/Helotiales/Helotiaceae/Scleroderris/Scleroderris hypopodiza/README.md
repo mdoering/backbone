@@ -1,5 +1,4 @@
-Scleroderris hypopodiza (Nyl.) Sacc. SPECIES
-=======
+# Scleroderris hypopodiza (Nyl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

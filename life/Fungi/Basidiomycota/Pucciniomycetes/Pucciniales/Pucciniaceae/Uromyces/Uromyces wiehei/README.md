@@ -1,5 +1,4 @@
-Uromyces wiehei Cummins SPECIES
-=======
+# Uromyces wiehei Cummins SPECIES
 
 #### Status
 ACCEPTED

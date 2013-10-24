@@ -1,5 +1,4 @@
-Caeoma lysimachiatum Link SPECIES
-=======
+# Caeoma lysimachiatum Link SPECIES
 
 #### Status
 ACCEPTED

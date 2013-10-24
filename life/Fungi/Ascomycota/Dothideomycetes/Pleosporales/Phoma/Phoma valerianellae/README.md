@@ -1,17 +1,16 @@
-Stagonosporopsis valerianellae (Gindrat, Semecnik & Bolay) Aveskamp, Gruyter & Verkley, 2010 SPECIES
-=======
+# Phoma valerianellae Boerema & C.B. De Jong, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytopath. Z. 61: 362-371 (1968)
 
 #### Original name
-null
+Phoma valerianellae Boerema & C.B. De Jong, 1968
 
 ### Remarks
 null

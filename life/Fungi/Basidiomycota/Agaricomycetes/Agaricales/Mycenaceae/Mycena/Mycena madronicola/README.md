@@ -1,5 +1,4 @@
-Mycena madronicola A.H. Sm. SPECIES
-=======
+# Mycena madronicola A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

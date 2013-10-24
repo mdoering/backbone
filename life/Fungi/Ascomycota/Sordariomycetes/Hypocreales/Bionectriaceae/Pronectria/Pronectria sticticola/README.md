@@ -1,5 +1,4 @@
-Pronectria sticticola Etayo SPECIES
-=======
+# Pronectria sticticola Etayo SPECIES
 
 #### Status
 ACCEPTED

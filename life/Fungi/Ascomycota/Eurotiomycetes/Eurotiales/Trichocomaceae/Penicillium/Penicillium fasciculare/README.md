@@ -1,5 +1,4 @@
-Penicillium fasciculare Berk. & Broome SPECIES
-=======
+# Penicillium fasciculare Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

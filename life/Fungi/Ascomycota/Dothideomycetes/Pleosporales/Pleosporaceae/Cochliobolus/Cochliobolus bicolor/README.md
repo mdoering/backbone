@@ -1,17 +1,16 @@
-Drechslera bhawani O. Prakash & A.P. Misra SPECIES
-=======
+# Cochliobolus bicolor A.R. Paul & Parbery, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 49: 386 (1966)
 
 #### Original name
-Drechslera bhawani O. Prakash & A.P. Misra
+Cochliobolus bicolor A.R. Paul & Parbery, 1966
 
 ### Remarks
 null

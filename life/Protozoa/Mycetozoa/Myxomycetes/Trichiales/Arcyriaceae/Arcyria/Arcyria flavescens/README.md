@@ -1,5 +1,4 @@
-Arcyria flavescens Y. Yamam., 1992 SPECIES
-=======
+# Arcyria flavescens Y. Yamam., 1992 SPECIES
 
 #### Status
 ACCEPTED

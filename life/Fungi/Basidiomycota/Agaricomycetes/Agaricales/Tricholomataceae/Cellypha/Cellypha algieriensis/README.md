@@ -1,5 +1,4 @@
-Cellypha algieriensis W.B. Cooke SPECIES
-=======
+# Cellypha algieriensis W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

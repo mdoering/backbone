@@ -1,5 +1,4 @@
-Phoma allescheri Sacc. & P. Syd. SPECIES
-=======
+# Phoma allescheri Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

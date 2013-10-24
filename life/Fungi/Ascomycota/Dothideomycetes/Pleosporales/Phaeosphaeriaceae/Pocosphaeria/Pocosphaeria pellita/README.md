@@ -1,5 +1,4 @@
-Pocosphaeria pellita Sacc. SPECIES
-=======
+# Pocosphaeria pellita Sacc. SPECIES
 
 #### Status
 ACCEPTED

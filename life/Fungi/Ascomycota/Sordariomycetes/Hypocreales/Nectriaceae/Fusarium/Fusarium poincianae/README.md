@@ -1,5 +1,4 @@
-Fusarium poincianae Pass. SPECIES
-=======
+# Fusarium poincianae Pass. SPECIES
 
 #### Status
 ACCEPTED

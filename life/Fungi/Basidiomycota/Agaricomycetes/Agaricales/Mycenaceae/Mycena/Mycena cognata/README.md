@@ -1,5 +1,4 @@
-Mycena cognata Bagl. SPECIES
-=======
+# Mycena cognata Bagl. SPECIES
 
 #### Status
 ACCEPTED

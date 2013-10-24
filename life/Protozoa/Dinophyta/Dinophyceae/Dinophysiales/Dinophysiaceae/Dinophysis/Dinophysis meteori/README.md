@@ -1,5 +1,4 @@
-Dinophysis meteori Böhm, 1933 SPECIES
-=======
+# Dinophysis meteori Böhm, 1933 SPECIES
 
 #### Status
 ACCEPTED

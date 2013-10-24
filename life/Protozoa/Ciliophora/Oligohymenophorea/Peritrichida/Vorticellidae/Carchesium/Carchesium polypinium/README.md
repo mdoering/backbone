@@ -1,5 +1,4 @@
-Carchesium polypinium Linne SPECIES
-=======
+# Carchesium polypinium Linne SPECIES
 
 #### Status
 ACCEPTED

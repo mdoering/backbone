@@ -1,5 +1,4 @@
-Uromyces ranunculi-distichophylli Semadeni SPECIES
-=======
+# Uromyces ranunculi-distichophylli Semadeni SPECIES
 
 #### Status
 ACCEPTED

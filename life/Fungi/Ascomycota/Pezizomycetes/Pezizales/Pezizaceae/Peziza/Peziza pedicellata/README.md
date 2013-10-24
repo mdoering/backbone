@@ -1,5 +1,4 @@
-Peziza pedicellata Sowerby SPECIES
-=======
+# Peziza pedicellata Sowerby SPECIES
 
 #### Status
 ACCEPTED

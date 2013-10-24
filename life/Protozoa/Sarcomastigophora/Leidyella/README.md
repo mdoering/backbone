@@ -1,5 +1,4 @@
-Leidyella Haman, 1988 GENUS
-=======
+# Leidyella Haman, 1988 GENUS
 
 #### Status
 ACCEPTED

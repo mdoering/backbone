@@ -1,5 +1,4 @@
-Leptosphaeria insulana Sacc. SPECIES
-=======
+# Leptosphaeria insulana Sacc. SPECIES
 
 #### Status
 ACCEPTED

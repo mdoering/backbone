@@ -1,5 +1,4 @@
-Lophionema implexum Ellis & Everh. SPECIES
-=======
+# Lophionema implexum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

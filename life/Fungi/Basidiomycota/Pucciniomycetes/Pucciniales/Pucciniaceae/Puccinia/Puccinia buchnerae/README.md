@@ -1,5 +1,4 @@
-Puccinia buchnerae Cummins SPECIES
-=======
+# Puccinia buchnerae Cummins SPECIES
 
 #### Status
 ACCEPTED

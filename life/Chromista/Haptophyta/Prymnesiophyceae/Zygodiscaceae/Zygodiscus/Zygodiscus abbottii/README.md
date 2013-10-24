@@ -1,5 +1,4 @@
-Zygodiscus abbottii J.G. Hattner & S.W. Wise SPECIES
-=======
+# Zygodiscus abbottii J.G. Hattner & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

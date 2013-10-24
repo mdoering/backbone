@@ -1,5 +1,4 @@
-Canteriomyces Sparrow GENUS
-=======
+# Canteriomyces Sparrow GENUS
 
 #### Status
 ACCEPTED

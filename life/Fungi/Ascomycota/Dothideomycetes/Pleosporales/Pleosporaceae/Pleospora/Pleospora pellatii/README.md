@@ -1,5 +1,4 @@
-Pleospora pellatii (Ranoj.) Petr. SPECIES
-=======
+# Pleospora pellatii (Ranoj.) Petr. SPECIES
 
 #### Status
 ACCEPTED

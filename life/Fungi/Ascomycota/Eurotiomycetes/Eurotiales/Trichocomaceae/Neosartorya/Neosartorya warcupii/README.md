@@ -1,5 +1,4 @@
-Neosartorya warcupii Peterson, Varga & Samson SPECIES
-=======
+# Neosartorya warcupii Peterson, Varga & Samson SPECIES
 
 #### Status
 ACCEPTED

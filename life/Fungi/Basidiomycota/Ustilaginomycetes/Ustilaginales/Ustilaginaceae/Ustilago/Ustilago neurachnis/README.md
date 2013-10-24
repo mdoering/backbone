@@ -1,5 +1,4 @@
-Ustilago neurachnis Vánky SPECIES
-=======
+# Ustilago neurachnis Vánky SPECIES
 
 #### Status
 ACCEPTED

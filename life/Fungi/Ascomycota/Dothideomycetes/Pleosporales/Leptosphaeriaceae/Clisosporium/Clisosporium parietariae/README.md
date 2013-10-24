@@ -1,5 +1,4 @@
-Clisosporium parietariae (Sacc. & Speg.) Kuntze SPECIES
-=======
+# Clisosporium parietariae (Sacc. & Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

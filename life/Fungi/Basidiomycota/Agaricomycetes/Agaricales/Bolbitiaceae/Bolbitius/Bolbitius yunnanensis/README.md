@@ -1,5 +1,4 @@
-Bolbitius yunnanensis W.F. Chiu SPECIES
-=======
+# Bolbitius yunnanensis W.F. Chiu SPECIES
 
 #### Status
 ACCEPTED

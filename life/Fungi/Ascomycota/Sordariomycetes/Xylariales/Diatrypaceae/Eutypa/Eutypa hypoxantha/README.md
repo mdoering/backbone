@@ -1,5 +1,4 @@
-Eutypa hypoxantha (Lév.) Starbäck SPECIES
-=======
+# Eutypa hypoxantha (Lév.) Starbäck SPECIES
 
 #### Status
 ACCEPTED

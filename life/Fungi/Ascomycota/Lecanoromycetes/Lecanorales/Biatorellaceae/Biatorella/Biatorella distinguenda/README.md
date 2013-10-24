@@ -1,5 +1,4 @@
-Biatorella distinguenda (Th. Fr.) Zahlbr. SPECIES
-=======
+# Biatorella distinguenda (Th. Fr.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

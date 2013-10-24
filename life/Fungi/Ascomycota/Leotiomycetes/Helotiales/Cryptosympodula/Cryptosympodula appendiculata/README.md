@@ -1,5 +1,4 @@
-Cryptosympodula appendiculata Verkley, 1999 SPECIES
-=======
+# Cryptosympodula appendiculata Verkley, 1999 SPECIES
 
 #### Status
 ACCEPTED

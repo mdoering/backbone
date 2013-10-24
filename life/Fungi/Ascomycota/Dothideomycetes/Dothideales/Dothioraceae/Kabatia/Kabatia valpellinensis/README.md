@@ -1,5 +1,4 @@
-Kabatia valpellinensis (Traverso) J.C. Krug SPECIES
-=======
+# Kabatia valpellinensis (Traverso) J.C. Krug SPECIES
 
 #### Status
 ACCEPTED

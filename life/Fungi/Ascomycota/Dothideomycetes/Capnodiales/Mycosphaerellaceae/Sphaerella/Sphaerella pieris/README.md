@@ -1,5 +1,4 @@
-Sphaerella pieris Sacc. SPECIES
-=======
+# Sphaerella pieris Sacc. SPECIES
 
 #### Status
 ACCEPTED

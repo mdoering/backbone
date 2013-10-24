@@ -1,5 +1,4 @@
-Pleistophora crangoni G.M. Breed & R.E. Olson SPECIES
-=======
+# Pleistophora crangoni G.M. Breed & R.E. Olson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Preussia africana Arenal, Platas & Peláez, 2005 SPECIES
-=======
+# Preussia africana Arenal, Platas & Peláez, 2005 SPECIES
 
 #### Status
 ACCEPTED

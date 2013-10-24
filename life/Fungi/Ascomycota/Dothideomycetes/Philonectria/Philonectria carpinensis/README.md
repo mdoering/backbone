@@ -1,5 +1,4 @@
-Philonectria carpinensis Bat. & H. Maia SPECIES
-=======
+# Philonectria carpinensis Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

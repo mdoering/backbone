@@ -1,5 +1,4 @@
-Clisosporium vaccinicola (Starb.) Kuntze SPECIES
-=======
+# Clisosporium vaccinicola (Starb.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

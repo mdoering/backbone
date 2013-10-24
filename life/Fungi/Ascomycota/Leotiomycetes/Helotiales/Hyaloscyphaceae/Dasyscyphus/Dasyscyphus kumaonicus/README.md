@@ -1,5 +1,4 @@
-Dasyscyphus kumaonicus M.P. Sharma SPECIES
-=======
+# Dasyscyphus kumaonicus M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

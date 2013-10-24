@@ -1,5 +1,4 @@
-Erysiphe occulta Wallr. SPECIES
-=======
+# Erysiphe occulta Wallr. SPECIES
 
 #### Status
 ACCEPTED

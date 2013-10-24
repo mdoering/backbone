@@ -1,5 +1,4 @@
-Cortinarius henryanus Bon SPECIES
-=======
+# Cortinarius henryanus Bon SPECIES
 
 #### Status
 ACCEPTED

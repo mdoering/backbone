@@ -1,5 +1,4 @@
-Eutypella halseyana (Schwein.) Berl. & Voglino SPECIES
-=======
+# Eutypella halseyana (Schwein.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

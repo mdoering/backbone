@@ -1,5 +1,4 @@
-Cytospora magnoliae Sandu, 1962 SPECIES
-=======
+# Cytospora magnoliae Sandu, 1962 SPECIES
 
 #### Status
 ACCEPTED

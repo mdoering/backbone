@@ -1,5 +1,4 @@
-Rosellinia tremellicola Cooke & Massee SPECIES
-=======
+# Rosellinia tremellicola Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

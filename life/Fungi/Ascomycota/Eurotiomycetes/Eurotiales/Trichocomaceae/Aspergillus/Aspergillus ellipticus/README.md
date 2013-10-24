@@ -1,5 +1,4 @@
-Aspergillus ellipticus Raper & Fennell, 1965 SPECIES
-=======
+# Aspergillus ellipticus Raper & Fennell, 1965 SPECIES
 
 #### Status
 ACCEPTED

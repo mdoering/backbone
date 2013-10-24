@@ -1,5 +1,4 @@
-Carpenterella Tehon & H.A. Harris, 1941 GENUS
-=======
+# Carpenterella Tehon & H.A. Harris, 1941 GENUS
 
 #### Status
 ACCEPTED

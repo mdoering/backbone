@@ -1,5 +1,4 @@
-Coleosporium minutum Hedgc. & N.R. Hunt SPECIES
-=======
+# Coleosporium minutum Hedgc. & N.R. Hunt SPECIES
 
 #### Status
 ACCEPTED

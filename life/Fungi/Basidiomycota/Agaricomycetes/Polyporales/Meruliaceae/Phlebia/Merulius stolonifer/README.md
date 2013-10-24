@@ -1,5 +1,4 @@
-Merulius stolonifer (Berk. & Broome) Kuntze SPECIES
-=======
+# Merulius stolonifer (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

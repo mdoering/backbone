@@ -1,5 +1,4 @@
-Coriolus subcaperatus (Lloyd) G. Cunn. SPECIES
-=======
+# Coriolus subcaperatus (Lloyd) G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

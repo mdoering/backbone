@@ -1,17 +1,16 @@
-Botrypes Preuss GENUS
-=======
+# Ciliciopodium Corda, 1831 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Linnaea 25: 740 (1852)
+null
 
 #### Original name
-Botrypes Preuss
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Gaarderella granulifera Black, 1973 SPECIES
-=======
+# Gaarderella granulifera Black, 1973 SPECIES
 
 #### Status
 ACCEPTED

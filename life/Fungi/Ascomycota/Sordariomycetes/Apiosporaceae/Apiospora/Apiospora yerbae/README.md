@@ -1,5 +1,4 @@
-Apiospora yerbae Speg. SPECIES
-=======
+# Apiospora yerbae Speg. SPECIES
 
 #### Status
 ACCEPTED

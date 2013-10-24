@@ -1,5 +1,4 @@
-Coprinus nemoralis Bender, 1993 SPECIES
-=======
+# Coprinus nemoralis Bender, 1993 SPECIES
 
 #### Status
 ACCEPTED

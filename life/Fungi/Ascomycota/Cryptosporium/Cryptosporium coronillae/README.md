@@ -1,5 +1,4 @@
-Cryptosporium coronillae Hollós SPECIES
-=======
+# Cryptosporium coronillae Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysiphe rhododendri J.N. Kapoor SPECIES
-=======
+# Erysiphe rhododendri J.N. Kapoor SPECIES
 
 #### Status
 ACCEPTED

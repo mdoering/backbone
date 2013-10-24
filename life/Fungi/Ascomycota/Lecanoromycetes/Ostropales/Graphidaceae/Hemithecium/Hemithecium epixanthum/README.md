@@ -1,5 +1,4 @@
-Hemithecium epixanthum (Mont. & Bosch) Chitale & Makhija SPECIES
-=======
+# Hemithecium epixanthum (Mont. & Bosch) Chitale & Makhija SPECIES
 
 #### Status
 ACCEPTED

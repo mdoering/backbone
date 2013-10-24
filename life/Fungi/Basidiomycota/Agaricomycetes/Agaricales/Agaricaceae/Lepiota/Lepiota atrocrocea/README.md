@@ -1,5 +1,4 @@
-Lepiota atrocrocea W.G. Sm. SPECIES
-=======
+# Lepiota atrocrocea W.G. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula disparilus Burl. SPECIES
-=======
+# Russula disparilus Burl. SPECIES
 
 #### Status
 ACCEPTED

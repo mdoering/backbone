@@ -1,5 +1,4 @@
-Aspicilia rivulicola (H. Magn.) Räsänen SPECIES
-=======
+# Aspicilia rivulicola (H. Magn.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

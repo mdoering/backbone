@@ -1,5 +1,4 @@
-Micarea hylocomii Poelt & Döbbeler SPECIES
-=======
+# Micarea hylocomii Poelt & Döbbeler SPECIES
 
 #### Status
 ACCEPTED

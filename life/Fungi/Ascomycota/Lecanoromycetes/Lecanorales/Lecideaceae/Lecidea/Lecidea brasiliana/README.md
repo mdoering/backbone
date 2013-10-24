@@ -1,5 +1,4 @@
-Lecidea brasiliana (Vain.) Vain. SPECIES
-=======
+# Lecidea brasiliana (Vain.) Vain. SPECIES
 
 #### Status
 ACCEPTED

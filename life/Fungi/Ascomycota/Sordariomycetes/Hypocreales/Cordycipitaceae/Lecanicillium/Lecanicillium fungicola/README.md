@@ -1,5 +1,4 @@
-Lecanicillium fungicola var. fungicola VARIETY
-=======
+# Lecanicillium fungicola SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Res. 112(7): 818 (2008)
+null
 
 #### Original name
-Acrostalagmus fungicola Preuss, 1851
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaerella balsamorrhizae (Earle) Sacc. & Trotter SPECIES
-=======
+# Sphaerella balsamorrhizae (Earle) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

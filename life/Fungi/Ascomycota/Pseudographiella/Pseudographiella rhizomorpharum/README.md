@@ -1,5 +1,4 @@
-Pseudographiella rhizomorpharum (Ces.) Illman, Rogerson & G.P. White, 1985 SPECIES
-=======
+# Pseudographiella rhizomorpharum (Ces.) Illman, Rogerson & G.P. White, 1985 SPECIES
 
 #### Status
 ACCEPTED

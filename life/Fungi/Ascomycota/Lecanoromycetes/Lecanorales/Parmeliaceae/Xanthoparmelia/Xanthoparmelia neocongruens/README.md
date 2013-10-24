@@ -1,5 +1,4 @@
-Xanthoparmelia neocongruens Hale SPECIES
-=======
+# Xanthoparmelia neocongruens Hale SPECIES
 
 #### Status
 ACCEPTED

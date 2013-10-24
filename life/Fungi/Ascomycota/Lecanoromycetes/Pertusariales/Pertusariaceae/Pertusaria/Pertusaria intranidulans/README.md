@@ -1,5 +1,4 @@
-Pertusaria intranidulans Stirt. SPECIES
-=======
+# Pertusaria intranidulans Stirt. SPECIES
 
 #### Status
 ACCEPTED

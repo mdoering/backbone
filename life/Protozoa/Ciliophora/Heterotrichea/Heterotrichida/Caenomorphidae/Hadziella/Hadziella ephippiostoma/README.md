@@ -1,5 +1,4 @@
-Hadziella ephippiostoma Kuscer SPECIES
-=======
+# Hadziella ephippiostoma Kuscer SPECIES
 
 #### Status
 ACCEPTED

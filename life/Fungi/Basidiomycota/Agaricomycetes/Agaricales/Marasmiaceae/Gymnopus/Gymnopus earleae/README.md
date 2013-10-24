@@ -1,5 +1,4 @@
-Gymnopus earleae Murrill SPECIES
-=======
+# Gymnopus earleae Murrill SPECIES
 
 #### Status
 ACCEPTED

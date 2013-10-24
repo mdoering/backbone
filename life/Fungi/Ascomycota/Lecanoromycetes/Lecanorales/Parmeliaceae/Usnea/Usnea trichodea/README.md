@@ -1,5 +1,4 @@
-Usnea trichodea subsp. trichodea SUBSPECIES
-=======
+# Usnea trichodea Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Method. Lich. 312 (1803)
 
 #### Original name
-Usnea trichodea subsp. trichodea
+Usnea trichodea Ach.
 
 ### Remarks
 null

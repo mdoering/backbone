@@ -1,5 +1,4 @@
-Dimerosporium osyridis G. Winter SPECIES
-=======
+# Dimerosporium osyridis G. Winter SPECIES
 
 #### Status
 ACCEPTED

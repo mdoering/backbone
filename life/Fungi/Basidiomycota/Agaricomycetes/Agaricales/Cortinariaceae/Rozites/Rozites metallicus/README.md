@@ -1,5 +1,4 @@
-Rozites metallicus Bougher, Fuhrer & E. Horak SPECIES
-=======
+# Rozites metallicus Bougher, Fuhrer & E. Horak SPECIES
 
 #### Status
 ACCEPTED

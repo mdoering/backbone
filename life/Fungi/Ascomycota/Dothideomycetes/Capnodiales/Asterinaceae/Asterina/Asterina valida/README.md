@@ -1,5 +1,4 @@
-Asterina valida (Speg.) Sacc. & Trotter SPECIES
-=======
+# Asterina valida (Speg.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptonia reai Maire SPECIES
-=======
+# Leptonia reai Maire SPECIES
 
 #### Status
 ACCEPTED

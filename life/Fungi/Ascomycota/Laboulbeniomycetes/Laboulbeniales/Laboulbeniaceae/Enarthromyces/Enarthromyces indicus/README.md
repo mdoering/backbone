@@ -1,5 +1,4 @@
-Enarthromyces indicus Thaxt., 1896 SPECIES
-=======
+# Enarthromyces indicus Thaxt., 1896 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia subgracilis Sandst. SPECIES
-=======
+# Cladonia subgracilis Sandst. SPECIES
 
 #### Status
 ACCEPTED

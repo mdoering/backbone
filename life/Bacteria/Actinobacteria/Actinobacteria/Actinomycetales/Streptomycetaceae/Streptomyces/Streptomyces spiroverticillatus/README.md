@@ -1,5 +1,4 @@
-Streptomyces spiroverticillatus Shinobu, 1958 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces spiroverticillatus Shinobu, 1958 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streblonema codiatile R.W.Ricker SPECIES
-=======
+# Streblonema codiatile R.W.Ricker SPECIES
 
 #### Status
 ACCEPTED

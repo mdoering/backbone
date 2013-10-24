@@ -1,5 +1,4 @@
-Conocybe subalpina (Singer) Singer & Hauskn. SPECIES
-=======
+# Conocybe subalpina (Singer) Singer & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

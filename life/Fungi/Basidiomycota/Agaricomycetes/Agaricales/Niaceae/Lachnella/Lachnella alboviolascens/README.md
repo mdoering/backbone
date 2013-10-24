@@ -1,17 +1,16 @@
-Peziza fallax Pers., 1822 SPECIES
-=======
+# Lachnella alboviolascens (Alb. & Schwein.) Fr., 1849 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. eur. (Erlanga) 1: 266 (1822)
+Summa veg. Scand. (Stockholm), Section Post. 365 (1849)
 
 #### Original name
-Peziza fallax Pers., 1822
+Peziza alboviolascens Alb. & Schwein., 1805
 
 ### Remarks
 null

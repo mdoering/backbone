@@ -1,5 +1,4 @@
-Carpodinium obliquicostatum Cookson & Hughes, 1964 SPECIES
-=======
+# Carpodinium obliquicostatum Cookson & Hughes, 1964 SPECIES
 
 #### Status
 ACCEPTED

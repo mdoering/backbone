@@ -1,17 +1,16 @@
-Hydnum concrescens subsp. concrescens SUBSPECIES
-=======
+# Hydnellum concrescens (Pers.) Banker, 1906 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mem. Torrey bot. Club 12: 157 (1906)
 
 #### Original name
-null
+Hydnum concrescens Pers., 1796
 
 ### Remarks
 null

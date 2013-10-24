@@ -1,5 +1,4 @@
-Hydrogenophilus thermoluteolus Hayashi et al., 1999 SPECIES
-=======
+# Hydrogenophilus thermoluteolus Hayashi et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

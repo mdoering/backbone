@@ -1,5 +1,4 @@
-Fuscidea maccarthyi Kantvilas SPECIES
-=======
+# Fuscidea maccarthyi Kantvilas SPECIES
 
 #### Status
 ACCEPTED

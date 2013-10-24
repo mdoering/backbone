@@ -1,5 +1,4 @@
-Uromyces oenotherae Burrill SPECIES
-=======
+# Uromyces oenotherae Burrill SPECIES
 
 #### Status
 ACCEPTED

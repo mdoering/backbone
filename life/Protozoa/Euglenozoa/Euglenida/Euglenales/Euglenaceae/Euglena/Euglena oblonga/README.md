@@ -1,5 +1,4 @@
-Euglena oblonga F. Schmitz SPECIES
-=======
+# Euglena oblonga F. Schmitz SPECIES
 
 #### Status
 ACCEPTED

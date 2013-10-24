@@ -1,5 +1,4 @@
-Ptychopeltis GENUS
-=======
+# Ptychopeltis GENUS
 
 #### Status
 ACCEPTED

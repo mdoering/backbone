@@ -1,5 +1,4 @@
-Penicillium flavidorsum Biourge SPECIES
-=======
+# Penicillium flavidorsum Biourge SPECIES
 
 #### Status
 ACCEPTED

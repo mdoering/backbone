@@ -1,5 +1,4 @@
-Sporotrichum coccineum Wallr. SPECIES
-=======
+# Sporotrichum coccineum Wallr. SPECIES
 
 #### Status
 ACCEPTED

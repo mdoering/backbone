@@ -1,5 +1,4 @@
-Nigredo substriata (Syd. & P. Syd.) Arthur SPECIES
-=======
+# Nigredo substriata (Syd. & P. Syd.) Arthur SPECIES
 
 #### Status
 ACCEPTED

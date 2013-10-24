@@ -1,5 +1,4 @@
-Oxytricha pseudosimilis Hemberger, 1985 SPECIES
-=======
+# Oxytricha pseudosimilis Hemberger, 1985 SPECIES
 
 #### Status
 ACCEPTED

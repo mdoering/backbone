@@ -1,5 +1,4 @@
-Actinomyces halotrichis Zobell & Upham, 1944 SPECIES
-=======
+# Actinomyces halotrichis Zobell & Upham, 1944 SPECIES
 
 #### Status
 ACCEPTED

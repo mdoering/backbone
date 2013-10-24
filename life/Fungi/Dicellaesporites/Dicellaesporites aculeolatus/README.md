@@ -1,5 +1,4 @@
-Dicellaesporites aculeolatus Sheffy & Dilcher SPECIES
-=======
+# Dicellaesporites aculeolatus Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

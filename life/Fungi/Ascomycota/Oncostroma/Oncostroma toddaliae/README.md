@@ -1,5 +1,4 @@
-Oncostroma toddaliae Bat. & Marasas, 1966 SPECIES
-=======
+# Oncostroma toddaliae Bat. & Marasas, 1966 SPECIES
 
 #### Status
 ACCEPTED

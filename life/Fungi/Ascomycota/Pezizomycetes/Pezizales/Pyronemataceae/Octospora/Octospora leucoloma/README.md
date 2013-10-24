@@ -1,17 +1,16 @@
-Peziza leucoloma leucoloma (Hedw.) Fr., 1822 INFRASPECIFIC_NAME
-=======
+# Octospora leucoloma Hedw., 1789 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nat. Arr. Brit. Pl. (London) 1: 667 (1789)
 
 #### Original name
-null
+Octospora leucoloma Hedw., 1789
 
 ### Remarks
 null

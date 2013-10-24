@@ -1,5 +1,4 @@
-Pithyella Boud. GENUS
-=======
+# Pithyella Boud. GENUS
 
 #### Status
 ACCEPTED

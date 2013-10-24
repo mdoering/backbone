@@ -1,5 +1,4 @@
-Hemibeltrania Pirozynski, 1963 GENUS
-=======
+# Hemibeltrania Pirozynski, 1963 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vorticella pulchra Kahl, 1933 SPECIES
-=======
+# Vorticella pulchra Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

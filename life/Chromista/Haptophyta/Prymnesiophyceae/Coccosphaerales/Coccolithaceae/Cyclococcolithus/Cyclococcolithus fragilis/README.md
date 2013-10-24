@@ -1,5 +1,4 @@
-Cyclococcolithus fragilis (Lohmann) Deflandre SPECIES
-=======
+# Cyclococcolithus fragilis (Lohmann) Deflandre SPECIES
 
 #### Status
 ACCEPTED

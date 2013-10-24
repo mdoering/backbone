@@ -1,5 +1,4 @@
-Agaricus lenticula Kalchbr. SPECIES
-=======
+# Agaricus lenticula Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

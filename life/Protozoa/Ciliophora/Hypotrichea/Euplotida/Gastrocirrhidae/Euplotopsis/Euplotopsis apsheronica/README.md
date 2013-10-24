@@ -1,8 +1,7 @@
-Euplotes apsheronica Agamaliev, 1966 SPECIES
-=======
+# Euplotopsis apsheronica (Agamaliev, 1966) Borror & Hill, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

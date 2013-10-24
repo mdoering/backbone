@@ -1,5 +1,4 @@
-Hebeloma tumidulum (Britzelm.) Sacc. SPECIES
-=======
+# Hebeloma tumidulum (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

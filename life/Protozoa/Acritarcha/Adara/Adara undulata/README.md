@@ -1,5 +1,4 @@
-Adara undulata Moczydlowska, 1998 SPECIES
-=======
+# Adara undulata Moczydlowska, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Russula fragilis f. fragilis FORM
-=======
+# Russula betularum Hora, 1960 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 43: 456 (1960)
 
 #### Original name
-null
+Russula betularum Hora, 1960
 
 ### Remarks
 null

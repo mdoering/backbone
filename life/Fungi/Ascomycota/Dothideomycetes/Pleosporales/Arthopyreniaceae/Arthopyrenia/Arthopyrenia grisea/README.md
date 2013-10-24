@@ -1,14 +1,13 @@
-Mycarthopyrenia juglandis (A. Massal.) Keissl. SPECIES
-=======
+# Arthopyrenia grisea (Schleich. ex Schaer.) Körb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. lich. germ. (Breslau) 369 (1855)
 
 #### Original name
 null

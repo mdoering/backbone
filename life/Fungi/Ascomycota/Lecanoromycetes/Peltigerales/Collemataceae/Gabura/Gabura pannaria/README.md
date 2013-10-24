@@ -1,5 +1,4 @@
-Gabura pannaria (Nyl.) Kuntze SPECIES
-=======
+# Gabura pannaria (Nyl.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

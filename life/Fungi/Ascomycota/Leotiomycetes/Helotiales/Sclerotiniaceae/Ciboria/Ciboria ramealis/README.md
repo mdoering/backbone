@@ -1,5 +1,4 @@
-Ciboria ramealis Vacek SPECIES
-=======
+# Ciboria ramealis Vacek SPECIES
 
 #### Status
 ACCEPTED

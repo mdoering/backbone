@@ -1,5 +1,4 @@
-Mycarthothelium GENUS
-=======
+# Mycarthothelium GENUS
 
 #### Status
 ACCEPTED

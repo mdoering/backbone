@@ -1,5 +1,4 @@
-Larkinella insperata Vancanneyt et al., 2006 SPECIES
-=======
+# Larkinella insperata Vancanneyt et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

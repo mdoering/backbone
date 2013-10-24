@@ -1,5 +1,4 @@
-Crepidotus lepton (Berk.) Sacc. SPECIES
-=======
+# Crepidotus lepton (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

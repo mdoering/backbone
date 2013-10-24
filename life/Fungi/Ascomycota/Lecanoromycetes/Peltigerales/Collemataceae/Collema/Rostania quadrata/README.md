@@ -1,5 +1,4 @@
-Rostania quadrata (J. Lahm ex Körb.) Trevis. SPECIES
-=======
+# Rostania quadrata (J. Lahm ex Körb.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

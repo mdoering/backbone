@@ -1,5 +1,4 @@
-Parafavella lachmanni Daday, 1887 SPECIES
-=======
+# Parafavella lachmanni Daday, 1887 SPECIES
 
 #### Status
 ACCEPTED

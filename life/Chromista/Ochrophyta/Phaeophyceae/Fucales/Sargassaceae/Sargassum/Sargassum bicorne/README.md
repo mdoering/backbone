@@ -1,5 +1,4 @@
-Sargassum bicorne J. Agardh SPECIES
-=======
+# Sargassum bicorne J. Agardh SPECIES
 
 #### Status
 ACCEPTED

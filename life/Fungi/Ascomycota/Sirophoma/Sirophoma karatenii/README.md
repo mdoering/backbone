@@ -1,5 +1,4 @@
-Sirophoma karatenii SPECIES
-=======
+# Sirophoma karatenii SPECIES
 
 #### Status
 ACCEPTED

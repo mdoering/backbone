@@ -1,5 +1,4 @@
-Ceratosporella caliculata Lustrati SPECIES
-=======
+# Ceratosporella caliculata Lustrati SPECIES
 
 #### Status
 ACCEPTED

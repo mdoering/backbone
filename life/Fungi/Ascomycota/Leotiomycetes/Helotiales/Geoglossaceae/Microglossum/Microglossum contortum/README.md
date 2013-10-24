@@ -1,5 +1,4 @@
-Microglossum contortum Peck SPECIES
-=======
+# Microglossum contortum Peck SPECIES
 
 #### Status
 ACCEPTED

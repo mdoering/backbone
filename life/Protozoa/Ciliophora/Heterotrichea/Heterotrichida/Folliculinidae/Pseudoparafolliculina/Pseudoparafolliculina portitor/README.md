@@ -1,5 +1,4 @@
-Pseudoparafolliculina portitor Andrews & Nelson, 1942 SPECIES
-=======
+# Pseudoparafolliculina portitor Andrews & Nelson, 1942 SPECIES
 
 #### Status
 ACCEPTED

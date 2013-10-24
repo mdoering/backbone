@@ -1,5 +1,4 @@
-Leptosphaeria restionis Hansf. SPECIES
-=======
+# Leptosphaeria restionis Hansf. SPECIES
 
 #### Status
 ACCEPTED

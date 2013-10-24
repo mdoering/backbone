@@ -1,5 +1,4 @@
-Xylaria ophiopoda Sacc. SPECIES
-=======
+# Xylaria ophiopoda Sacc. SPECIES
 
 #### Status
 ACCEPTED

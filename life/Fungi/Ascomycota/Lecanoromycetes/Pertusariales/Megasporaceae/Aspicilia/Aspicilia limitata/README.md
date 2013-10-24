@@ -1,5 +1,4 @@
-Aspicilia limitata (H. Magn.) J.W. Thomson SPECIES
-=======
+# Aspicilia limitata (H. Magn.) J.W. Thomson SPECIES
 
 #### Status
 ACCEPTED

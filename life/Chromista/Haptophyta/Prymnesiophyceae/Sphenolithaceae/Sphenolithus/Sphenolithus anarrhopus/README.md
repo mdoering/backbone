@@ -1,5 +1,4 @@
-Sphenolithus anarrhopus Bukry & Bramlette, 1969 SPECIES
-=======
+# Sphenolithus anarrhopus Bukry & Bramlette, 1969 SPECIES
 
 #### Status
 ACCEPTED

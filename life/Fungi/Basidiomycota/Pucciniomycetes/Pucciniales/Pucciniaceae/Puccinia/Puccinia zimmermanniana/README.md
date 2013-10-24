@@ -1,17 +1,16 @@
-Puccinia zimmermaniana Henn. SPECIES
-=======
+# Puccinia zimmermanniana Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Engler's Bot. Jahrb. 40 (1903)
 
 #### Original name
-Puccinia zimmermaniana Henn.
+Puccinia zimmermanniana Henn.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hyalopeziza winteriana (Rehm) Raitv. SPECIES
-=======
+# Hyalopeziza winteriana (Rehm) Raitv. SPECIES
 
 #### Status
 ACCEPTED

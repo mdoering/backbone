@@ -1,5 +1,4 @@
-Mucor griseosporus Povah SPECIES
-=======
+# Mucor griseosporus Povah SPECIES
 
 #### Status
 ACCEPTED

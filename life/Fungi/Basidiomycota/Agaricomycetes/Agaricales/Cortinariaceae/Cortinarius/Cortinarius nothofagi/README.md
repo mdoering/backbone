@@ -1,5 +1,4 @@
-Cortinarius nothofagi (E. Horak) E. Horak SPECIES
-=======
+# Cortinarius nothofagi (E. Horak) E. Horak SPECIES
 
 #### Status
 ACCEPTED

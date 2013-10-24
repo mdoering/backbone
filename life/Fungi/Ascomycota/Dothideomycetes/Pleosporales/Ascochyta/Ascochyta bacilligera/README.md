@@ -1,5 +1,4 @@
-Ascochyta bacilligera G. Winter SPECIES
-=======
+# Ascochyta bacilligera G. Winter SPECIES
 
 #### Status
 ACCEPTED

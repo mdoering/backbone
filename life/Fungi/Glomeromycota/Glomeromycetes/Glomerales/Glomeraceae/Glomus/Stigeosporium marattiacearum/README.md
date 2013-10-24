@@ -1,5 +1,4 @@
-Stigeosporium marattiacearum C. West SPECIES
-=======
+# Stigeosporium marattiacearum C. West SPECIES
 
 #### Status
 ACCEPTED

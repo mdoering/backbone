@@ -1,5 +1,4 @@
-Lecanora chlorina (Flot.) Lamy SPECIES
-=======
+# Lecanora chlorina (Flot.) Lamy SPECIES
 
 #### Status
 ACCEPTED

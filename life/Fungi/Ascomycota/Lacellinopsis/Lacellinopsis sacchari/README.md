@@ -1,5 +1,4 @@
-Lacellinopsis sacchari Subram., 1953 SPECIES
-=======
+# Lacellinopsis sacchari Subram., 1953 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta tesselata Øvstedal SPECIES
-=======
+# Sticta tesselata Øvstedal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Wettsteinina waltraudae Scheuer SPECIES
-=======
+# Wettsteinina waltraudiae Scheuer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Mycol. 123: 190 (1988)
 
 #### Original name
-Wettsteinina waltraudae Scheuer
+Wettsteinina waltraudiae Scheuer
 
 ### Remarks
 null

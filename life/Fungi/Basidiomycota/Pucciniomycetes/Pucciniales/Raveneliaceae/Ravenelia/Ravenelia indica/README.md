@@ -1,5 +1,4 @@
-Ravenelia indica var. indica VARIETY
-=======
+# Ravenelia indica Berk. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Gard. Chron. , London 132 (1853)
 
 #### Original name
-Ravenelia indica var. indica
+Ravenelia indica Berk.
 
 ### Remarks
 null

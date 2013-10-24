@@ -1,5 +1,4 @@
-Collema sichuanense H.J. Liu & J.C. Wei SPECIES
-=======
+# Collema sichuanense H.J. Liu & J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

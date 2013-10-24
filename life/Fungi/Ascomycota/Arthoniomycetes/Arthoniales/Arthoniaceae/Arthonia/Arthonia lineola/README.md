@@ -1,5 +1,4 @@
-Arthonia lineola Chevall. SPECIES
-=======
+# Arthonia lineola Chevall. SPECIES
 
 #### Status
 ACCEPTED

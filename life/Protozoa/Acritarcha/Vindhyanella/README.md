@@ -1,5 +1,4 @@
-Vindhyanella Sahni, 1936 GENUS
-=======
+# Vindhyanella Sahni, 1936 GENUS
 
 #### Status
 ACCEPTED

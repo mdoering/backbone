@@ -1,5 +1,4 @@
-Gautieria monticola Harkn., 1884 SPECIES
-=======
+# Gautieria monticola Harkn., 1884 SPECIES
 
 #### Status
 ACCEPTED

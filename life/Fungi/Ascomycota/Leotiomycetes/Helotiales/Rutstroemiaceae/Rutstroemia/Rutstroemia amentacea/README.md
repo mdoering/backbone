@@ -1,5 +1,4 @@
-Rutstroemia amentacea P. Karst. SPECIES
-=======
+# Rutstroemia amentacea P. Karst. SPECIES
 
 #### Status
 ACCEPTED

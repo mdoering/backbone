@@ -1,17 +1,16 @@
-Echinosporella Contu GENUS
-=======
+# Calocybe Kühner ex Donk, 1962 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bolm Soc. broteriana, sér. 2 65: 80 (1992)
+null
 
 #### Original name
-Echinosporella Contu
+null
 
 ### Remarks
 null

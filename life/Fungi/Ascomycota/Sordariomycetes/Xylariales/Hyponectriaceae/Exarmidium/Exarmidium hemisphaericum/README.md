@@ -1,14 +1,13 @@
-Stictis hemisphaerica Fr., 1822 SPECIES
-=======
+# Exarmidium hemisphaericum (Fr.) Aptroot, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 2(1): 196 (1822)
+Nova Hedwigia 66(1-2): 138 (1998)
 
 #### Original name
 Stictis hemisphaerica Fr., 1822

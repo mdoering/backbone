@@ -1,5 +1,4 @@
-Helvella gelatinosa Bull. SPECIES
-=======
+# Helvella gelatinosa Bull. SPECIES
 
 #### Status
 ACCEPTED

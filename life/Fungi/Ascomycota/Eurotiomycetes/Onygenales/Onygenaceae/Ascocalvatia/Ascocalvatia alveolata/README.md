@@ -1,5 +1,4 @@
-Ascocalvatia alveolata Malloch & Cain, 1971 SPECIES
-=======
+# Ascocalvatia alveolata Malloch & Cain, 1971 SPECIES
 
 #### Status
 ACCEPTED

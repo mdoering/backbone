@@ -1,5 +1,4 @@
-Lecidea epiploica Norman SPECIES
-=======
+# Lecidea epiploica Norman SPECIES
 
 #### Status
 ACCEPTED

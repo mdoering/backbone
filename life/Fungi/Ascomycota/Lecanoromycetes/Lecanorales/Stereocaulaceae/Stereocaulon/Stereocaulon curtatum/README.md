@@ -1,5 +1,4 @@
-Stereocaulon curtatum Nyl. SPECIES
-=======
+# Stereocaulon curtatum Nyl. SPECIES
 
 #### Status
 ACCEPTED

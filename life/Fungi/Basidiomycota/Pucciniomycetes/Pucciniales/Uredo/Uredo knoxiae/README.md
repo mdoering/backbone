@@ -1,5 +1,4 @@
-Uredo knoxiae Henn. SPECIES
-=======
+# Uredo knoxiae Henn. SPECIES
 
 #### Status
 ACCEPTED

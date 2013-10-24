@@ -1,5 +1,4 @@
-Sphaceloma erigens (Maire) Arx SPECIES
-=======
+# Sphaceloma erigens (Maire) Arx SPECIES
 
 #### Status
 ACCEPTED

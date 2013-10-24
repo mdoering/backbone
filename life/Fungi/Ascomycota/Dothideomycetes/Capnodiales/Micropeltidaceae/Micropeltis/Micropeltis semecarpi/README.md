@@ -1,5 +1,4 @@
-Micropeltis semecarpi Syd. SPECIES
-=======
+# Micropeltis semecarpi Syd. SPECIES
 
 #### Status
 ACCEPTED

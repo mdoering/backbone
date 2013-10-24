@@ -1,5 +1,4 @@
-Cercospora hydrangeana Tharp SPECIES
-=======
+# Cercospora hydrangeana Tharp SPECIES
 
 #### Status
 ACCEPTED

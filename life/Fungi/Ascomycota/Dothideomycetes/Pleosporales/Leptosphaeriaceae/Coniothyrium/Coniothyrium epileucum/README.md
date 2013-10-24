@@ -1,5 +1,4 @@
-Coniothyrium epileucum (Berk.) Kuntze SPECIES
-=======
+# Coniothyrium epileucum (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

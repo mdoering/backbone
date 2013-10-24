@@ -1,5 +1,4 @@
-Bacteria KINGDOM
-=======
+# Bacteria KINGDOM
 
 #### Status
 ACCEPTED

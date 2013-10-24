@@ -1,5 +1,4 @@
-Iranites Rahaghi, 1976 GENUS
-=======
+# Iranites Rahaghi, 1976 GENUS
 
 #### Status
 ACCEPTED

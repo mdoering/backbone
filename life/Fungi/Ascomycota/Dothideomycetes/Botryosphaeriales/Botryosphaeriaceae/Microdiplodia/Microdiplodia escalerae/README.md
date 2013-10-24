@@ -1,5 +1,4 @@
-Microdiplodia escalerae Gonz. Frag. SPECIES
-=======
+# Microdiplodia escalerae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

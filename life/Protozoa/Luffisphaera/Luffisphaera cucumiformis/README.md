@@ -1,5 +1,4 @@
-Luffisphaera cucumiformis Belcher & Swale, 1975 SPECIES
-=======
+# Luffisphaera cucumiformis Belcher & Swale, 1975 SPECIES
 
 #### Status
 ACCEPTED

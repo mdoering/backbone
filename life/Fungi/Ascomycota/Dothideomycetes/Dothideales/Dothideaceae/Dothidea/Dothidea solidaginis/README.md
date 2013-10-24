@@ -1,5 +1,4 @@
-Dothidea solidaginis var. solidaginis Schwein. VARIETY
-=======
+# Dothidea solidaginis Schwein. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Fries, Elench. fung. (Greifswald) 2: 125 (1828)
 
 #### Original name
-Dothidea solidaginis var. solidaginis Schwein.
+Dothidea solidaginis Schwein.
 
 ### Remarks
 null

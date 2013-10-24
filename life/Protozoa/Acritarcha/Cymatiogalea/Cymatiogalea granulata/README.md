@@ -1,5 +1,4 @@
-Cymatiogalea granulata Vavrdová, 1966 SPECIES
-=======
+# Cymatiogalea granulata Vavrdová, 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cercosporidium angelicae (Ellis & Everh.) Deighton, 1967 SPECIES
-=======
+# Passalora angelicae (Ellis & Everh.) U. Braun, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 112: 42 (1967)
+Nova Hedwigia 55(1-2): 214 (1992)
 
 #### Original name
 Fusicladium angelicae Ellis & Everh., 1891

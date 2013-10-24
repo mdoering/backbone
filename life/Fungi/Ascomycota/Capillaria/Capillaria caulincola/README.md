@@ -1,5 +1,4 @@
-Capillaria caulincola (Pers.) Link SPECIES
-=======
+# Capillaria caulincola (Pers.) Link SPECIES
 
 #### Status
 ACCEPTED

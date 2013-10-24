@@ -1,5 +1,4 @@
-Phyllosticta microcosi Ts. Kobay. & E.D. Guzmán SPECIES
-=======
+# Phyllosticta microcosi Ts. Kobay. & E.D. Guzmán SPECIES
 
 #### Status
 ACCEPTED

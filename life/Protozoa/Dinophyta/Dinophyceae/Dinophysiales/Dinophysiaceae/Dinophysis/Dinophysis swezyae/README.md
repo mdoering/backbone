@@ -1,5 +1,4 @@
-Dinophysis swezyae Kofoid & Skogsberg, 1928 SPECIES
-=======
+# Dinophysis swezyae Kofoid & Skogsberg, 1928 SPECIES
 
 #### Status
 ACCEPTED

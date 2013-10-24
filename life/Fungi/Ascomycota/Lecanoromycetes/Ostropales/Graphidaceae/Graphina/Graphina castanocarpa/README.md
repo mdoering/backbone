@@ -1,5 +1,4 @@
-Graphina castanocarpa A.W. Archer SPECIES
-=======
+# Graphina castanocarpa A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

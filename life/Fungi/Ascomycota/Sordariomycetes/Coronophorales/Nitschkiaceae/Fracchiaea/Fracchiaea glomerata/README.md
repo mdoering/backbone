@@ -1,5 +1,4 @@
-Fracchiaea glomerata Pat. SPECIES
-=======
+# Fracchiaea glomerata Pat. SPECIES
 
 #### Status
 ACCEPTED

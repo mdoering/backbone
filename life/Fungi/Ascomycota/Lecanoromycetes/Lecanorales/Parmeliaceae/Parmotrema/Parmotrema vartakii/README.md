@@ -1,5 +1,4 @@
-Parmotrema vartakii Hale SPECIES
-=======
+# Parmotrema vartakii Hale SPECIES
 
 #### Status
 ACCEPTED

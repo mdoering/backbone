@@ -1,5 +1,4 @@
-Clonostachys pseudochroleuca Schroers SPECIES
-=======
+# Clonostachys pseudochroleuca Schroers SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceracea subsulphurea Rick SPECIES
-=======
+# Ceracea subsulphurea Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elachista antarctica Skottsberg SPECIES
-=======
+# Elachista antarctica Skottsberg SPECIES
 
 #### Status
 ACCEPTED

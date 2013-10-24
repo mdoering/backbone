@@ -1,5 +1,4 @@
-Himantia pulchella Pers. SPECIES
-=======
+# Himantia pulchella Pers. SPECIES
 
 #### Status
 ACCEPTED

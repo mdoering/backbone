@@ -1,5 +1,4 @@
-Cytosporella liquidambaris Henn. SPECIES
-=======
+# Cytosporella liquidambaris Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdostromellina ruborum Höhn. SPECIES
-=======
+# Rhabdostromellina ruborum Höhn. SPECIES
 
 #### Status
 ACCEPTED

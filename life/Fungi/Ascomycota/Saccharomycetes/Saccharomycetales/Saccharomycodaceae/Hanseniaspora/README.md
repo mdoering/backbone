@@ -1,17 +1,16 @@
-Vanderwaltia E.K. Novák & Zsolt GENUS
-=======
+# Hanseniaspora Zikes GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta bot. hung. 7: 98 (1961)
+Zentbl. Bakt. ParasitKde, Abt. II 30: 148 (1911)
 
 #### Original name
-Vanderwaltia E.K. Novák & Zsolt
+Hanseniaspora Zikes
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Uredo martianoffiana Thüm. SPECIES
-=======
+# Uredo martianoffiana Thüm. SPECIES
 
 #### Status
 ACCEPTED

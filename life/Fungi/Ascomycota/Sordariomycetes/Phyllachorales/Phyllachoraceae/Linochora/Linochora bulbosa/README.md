@@ -1,5 +1,4 @@
-Linochora bulbosa Parbery SPECIES
-=======
+# Linochora bulbosa Parbery SPECIES
 
 #### Status
 ACCEPTED

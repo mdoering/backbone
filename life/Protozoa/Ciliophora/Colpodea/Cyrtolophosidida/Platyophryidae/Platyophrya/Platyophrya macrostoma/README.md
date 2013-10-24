@@ -1,5 +1,4 @@
-Platyophrya macrostoma Foissner, 1980 SPECIES
-=======
+# Platyophrya macrostoma Foissner, 1980 SPECIES
 
 #### Status
 ACCEPTED

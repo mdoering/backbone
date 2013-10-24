@@ -1,5 +1,4 @@
-Asterocapsa atrata Liang SPECIES
-=======
+# Asterocapsa atrata Liang SPECIES
 
 #### Status
 ACCEPTED

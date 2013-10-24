@@ -1,5 +1,4 @@
-Diplodina malvae f. malvae FORM
-=======
+# Diplodina malvae Tognini SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Diplodina malvae f. malvae
+Diplodina malvae Tognini
 
 ### Remarks
 null

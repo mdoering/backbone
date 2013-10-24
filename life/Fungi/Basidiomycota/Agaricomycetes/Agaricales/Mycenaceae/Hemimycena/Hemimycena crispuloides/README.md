@@ -1,5 +1,4 @@
-Hemimycena crispuloides Antonín & Noordel. SPECIES
-=======
+# Hemimycena crispuloides Antonín & Noordel. SPECIES
 
 #### Status
 ACCEPTED

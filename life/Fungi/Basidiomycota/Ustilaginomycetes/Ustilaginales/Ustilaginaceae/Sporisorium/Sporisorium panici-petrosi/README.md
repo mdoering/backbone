@@ -1,5 +1,4 @@
-Sporisorium panici-petrosi (Syd. & P. Syd.) M. Piepenbr. SPECIES
-=======
+# Sporisorium panici-petrosi (Syd. & P. Syd.) M. Piepenbr. SPECIES
 
 #### Status
 ACCEPTED

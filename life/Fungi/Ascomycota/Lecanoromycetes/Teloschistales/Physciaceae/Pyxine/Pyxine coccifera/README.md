@@ -1,14 +1,13 @@
-Parmelia coccifera Fée SPECIES
-=======
+# Pyxine coccifera (Fée) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. Soc. natn. Sci. nat. math. Cherbourg 5: 108 (1857)
 
 #### Original name
 Parmelia coccifera Fée

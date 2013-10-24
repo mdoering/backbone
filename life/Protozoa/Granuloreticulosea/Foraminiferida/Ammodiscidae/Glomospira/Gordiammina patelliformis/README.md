@@ -1,5 +1,4 @@
-Gordiammina patelliformis Kiaer, 1900 SPECIES
-=======
+# Gordiammina patelliformis Kiaer, 1900 SPECIES
 
 #### Status
 DOUBTFUL

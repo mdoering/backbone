@@ -1,5 +1,4 @@
-Mycophycias Kohlm. & Volkm.-Kohlm. GENUS
-=======
+# Mycophycias Kohlm. & Volkm.-Kohlm. GENUS
 
 #### Status
 ACCEPTED

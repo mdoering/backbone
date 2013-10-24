@@ -1,5 +1,4 @@
-Peziza megalosperma (Le Gal) Eckblad SPECIES
-=======
+# Peziza megalosperma (Le Gal) Eckblad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Aggregata duboscqi Moroff, 1908 SPECIES
-=======
+# Aggregata coelomica Léger, 1901 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

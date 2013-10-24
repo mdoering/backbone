@@ -1,5 +1,4 @@
-Naucoria heliocaes (Berk. & Broome) Sacc. SPECIES
-=======
+# Naucoria heliocaes (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

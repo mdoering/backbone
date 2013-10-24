@@ -1,5 +1,4 @@
-Cortinarius pseudarmeniacus Rob. Henry SPECIES
-=======
+# Cortinarius pseudarmeniacus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

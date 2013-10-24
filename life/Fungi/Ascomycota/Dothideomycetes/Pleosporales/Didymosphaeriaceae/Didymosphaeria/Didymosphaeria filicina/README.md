@@ -1,5 +1,4 @@
-Didymosphaeria filicina G. Winter SPECIES
-=======
+# Didymosphaeria filicina G. Winter SPECIES
 
 #### Status
 ACCEPTED

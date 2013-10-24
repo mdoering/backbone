@@ -1,5 +1,4 @@
-Rhizopogon ventricisporus A.H. Sm. SPECIES
-=======
+# Rhizopogon ventricisporus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia preussii Sacc. SPECIES
-=======
+# Diplodia preussii Sacc. SPECIES
 
 #### Status
 ACCEPTED

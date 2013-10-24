@@ -1,5 +1,4 @@
-Stichopera Haeckel, 1881 GENUS
-=======
+# Stichopera Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhynchosphaeria riparia Petr. SPECIES
-=======
+# Rhynchosphaeria riparia Petr. SPECIES
 
 #### Status
 ACCEPTED

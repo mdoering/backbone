@@ -1,5 +1,4 @@
-Blastenia livida (Hepp) Lettau SPECIES
-=======
+# Blastenia livida (Hepp) Lettau SPECIES
 
 #### Status
 ACCEPTED

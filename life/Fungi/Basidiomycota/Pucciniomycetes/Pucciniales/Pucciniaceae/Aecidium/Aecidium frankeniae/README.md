@@ -1,5 +1,4 @@
-Aecidium frankeniae Link SPECIES
-=======
+# Aecidium frankeniae Link SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudonocardia chloroethenivorans Lee et al., 2004 SPECIES
-=======
+# Pseudonocardia chloroethenivorans Lee et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

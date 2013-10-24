@@ -1,5 +1,4 @@
-Clitocybe flavissima A.H. Sm. SPECIES
-=======
+# Clitocybe flavissima A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

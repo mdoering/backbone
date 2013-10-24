@@ -1,14 +1,13 @@
-Polyporus pilotae Schwein., 1832 SPECIES
-=======
+# Aurantiporus pilotae (Schwein.) Murrill, 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Am. phil. Soc. , New Series 4(2): 156 (1832)
+Bull. Torrey bot. Club 32(9): 487 (1905)
 
 #### Original name
 Polyporus pilotae Schwein., 1832

@@ -1,5 +1,4 @@
-Schroeteriaster doidgeae Syd. & P. Syd. SPECIES
-=======
+# Schroeteriaster doidgeae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

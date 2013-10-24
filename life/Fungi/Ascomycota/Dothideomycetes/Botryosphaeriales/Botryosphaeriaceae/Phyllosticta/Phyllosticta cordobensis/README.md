@@ -1,5 +1,4 @@
-Phyllosticta cordobensis Speg. SPECIES
-=======
+# Phyllosticta cordobensis Speg. SPECIES
 
 #### Status
 ACCEPTED

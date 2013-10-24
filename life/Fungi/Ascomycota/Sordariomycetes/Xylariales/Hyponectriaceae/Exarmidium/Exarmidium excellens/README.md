@@ -1,5 +1,4 @@
-Exarmidium excellens (Rehm ex Sacc.) Aptroot SPECIES
-=======
+# Exarmidium excellens (Rehm ex Sacc.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

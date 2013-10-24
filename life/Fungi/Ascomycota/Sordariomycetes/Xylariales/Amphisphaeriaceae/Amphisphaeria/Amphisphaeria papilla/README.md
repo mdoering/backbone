@@ -1,5 +1,4 @@
-Amphisphaeria papilla (Schwein.) Ellis SPECIES
-=======
+# Amphisphaeria papilla (Schwein.) Ellis SPECIES
 
 #### Status
 ACCEPTED

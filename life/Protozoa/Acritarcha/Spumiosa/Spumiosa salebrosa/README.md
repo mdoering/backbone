@@ -1,5 +1,4 @@
-Spumiosa salebrosa Chepikova, 1971 SPECIES
-=======
+# Spumiosa salebrosa Chepikova, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Symploca laeteviridis Gomont SPECIES
-=======
+# Symploca laeteviridis Gomont SPECIES
 
 #### Status
 ACCEPTED

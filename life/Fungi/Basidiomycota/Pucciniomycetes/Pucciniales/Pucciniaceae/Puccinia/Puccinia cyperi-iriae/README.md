@@ -1,5 +1,4 @@
-Puccinia cyperi-iriae Sawada SPECIES
-=======
+# Puccinia cyperi-iriae Sawada SPECIES
 
 #### Status
 ACCEPTED

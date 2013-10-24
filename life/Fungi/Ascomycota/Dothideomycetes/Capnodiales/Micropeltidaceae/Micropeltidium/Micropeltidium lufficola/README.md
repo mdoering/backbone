@@ -1,5 +1,4 @@
-Micropeltidium lufficola (Bat.) Bat. SPECIES
-=======
+# Micropeltidium lufficola (Bat.) Bat. SPECIES
 
 #### Status
 ACCEPTED

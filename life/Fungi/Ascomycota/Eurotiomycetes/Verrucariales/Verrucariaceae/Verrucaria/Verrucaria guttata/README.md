@@ -1,5 +1,4 @@
-Verrucaria guttata Hoffm. SPECIES
-=======
+# Verrucaria guttata Hoffm. SPECIES
 
 #### Status
 ACCEPTED

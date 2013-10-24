@@ -1,5 +1,4 @@
-Flammula lenticeps Singer SPECIES
-=======
+# Flammula lenticeps Singer SPECIES
 
 #### Status
 ACCEPTED

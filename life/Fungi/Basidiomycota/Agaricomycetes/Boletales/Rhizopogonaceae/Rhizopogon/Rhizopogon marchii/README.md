@@ -1,5 +1,4 @@
-Rhizopogon marchii (Bres.) Zeller & C.W. Dodge SPECIES
-=======
+# Rhizopogon marchii (Bres.) Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dactylaria hyalotunicata K.M. Tsui, Goh & K.D. Hyde SPECIES
-=======
+# Dactylaria hyalotunicata K.M. Tsui, Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

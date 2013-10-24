@@ -1,5 +1,4 @@
-Botryosphaeria jasmini Chenant. SPECIES
-=======
+# Botryosphaeria jasmini Chenant. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe virgata G.F. Atk. SPECIES
-=======
+# Inocybe virgata G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

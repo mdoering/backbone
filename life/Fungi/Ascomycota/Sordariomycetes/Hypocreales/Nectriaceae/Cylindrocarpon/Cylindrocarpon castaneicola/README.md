@@ -1,5 +1,4 @@
-Cylindrocarpon castaneicola Tak. Kobay. & Hirooka SPECIES
-=======
+# Cylindrocarpon castaneicola Tak. Kobay. & Hirooka SPECIES
 
 #### Status
 ACCEPTED

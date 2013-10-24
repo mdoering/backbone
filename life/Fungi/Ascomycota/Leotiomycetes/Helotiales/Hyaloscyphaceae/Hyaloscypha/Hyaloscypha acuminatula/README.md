@@ -1,5 +1,4 @@
-Hyaloscypha acuminatula Svrcek SPECIES
-=======
+# Hyaloscypha acuminatula Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma anthephorae (Syd. & P. Syd.) Arthur SPECIES
-=======
+# Dicaeoma anthephorae (Syd. & P. Syd.) Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota bakeri Dennis SPECIES
-=======
+# Lepiota bakeri Dennis SPECIES
 
 #### Status
 ACCEPTED

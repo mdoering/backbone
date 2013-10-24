@@ -1,5 +1,4 @@
-Alectoria pellucida Motyka SPECIES
-=======
+# Alectoria pellucida Motyka SPECIES
 
 #### Status
 ACCEPTED

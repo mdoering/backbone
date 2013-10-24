@@ -1,5 +1,4 @@
-Amerodothis uncariae Racib. SPECIES
-=======
+# Amerodothis uncariae Racib. SPECIES
 
 #### Status
 ACCEPTED

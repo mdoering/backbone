@@ -1,5 +1,4 @@
-Dictydium GENUS
-=======
+# Dictydium GENUS
 
 #### Status
 ACCEPTED

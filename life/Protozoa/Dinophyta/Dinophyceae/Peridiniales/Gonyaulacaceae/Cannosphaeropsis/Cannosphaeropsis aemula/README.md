@@ -1,5 +1,4 @@
-Cannosphaeropsis aemula SPECIES
-=======
+# Cannosphaeropsis aemula SPECIES
 
 #### Status
 ACCEPTED

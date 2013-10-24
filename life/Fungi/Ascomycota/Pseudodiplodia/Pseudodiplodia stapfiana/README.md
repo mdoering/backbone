@@ -1,5 +1,4 @@
-Pseudodiplodia stapfiana (Petr.) Petr. SPECIES
-=======
+# Pseudodiplodia stapfiana (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

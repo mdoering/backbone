@@ -1,5 +1,4 @@
-Muyocopron stigmatostalycis Henn. SPECIES
-=======
+# Muyocopron stigmatostalycis Henn. SPECIES
 
 #### Status
 ACCEPTED

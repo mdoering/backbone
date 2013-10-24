@@ -1,5 +1,4 @@
-Sclerotium liliacearum Westend. SPECIES
-=======
+# Sclerotium liliacearum Westend. SPECIES
 
 #### Status
 ACCEPTED

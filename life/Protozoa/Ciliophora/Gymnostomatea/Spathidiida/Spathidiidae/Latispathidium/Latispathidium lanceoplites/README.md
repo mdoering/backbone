@@ -1,8 +1,7 @@
-Spathidium lanceoplites Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Latispathidium lanceoplites (Foissner, Agatha & Berger, 2002) Foissner et al., 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

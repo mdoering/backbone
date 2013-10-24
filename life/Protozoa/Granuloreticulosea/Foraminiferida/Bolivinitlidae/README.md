@@ -1,5 +1,4 @@
-Bolivinitlidae FAMILY
-=======
+# Bolivinitlidae FAMILY
 
 #### Status
 ACCEPTED

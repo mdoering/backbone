@@ -1,5 +1,4 @@
-Vulcanibacillus modesticaldus L'Haridon et al., 2006 SPECIES
-=======
+# Vulcanibacillus modesticaldus L'Haridon et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizoxylon spiraeae Sherwood SPECIES
-=======
+# Schizoxylon spiraeae Sherwood SPECIES
 
 #### Status
 ACCEPTED

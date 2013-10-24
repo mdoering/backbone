@@ -1,14 +1,13 @@
-Neurospora santi-florii (Cailleux) Dania García, Stchigel & Guarro, 2004 SPECIES
-=======
+# Gelasinospora santi-florii Cailleux, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in García, Stchigel, Cano, Guarro & Hawksworth, Mycol. Res. 108(10): 1133 (2004)
+Bull. trimest. Soc. mycol. Fr. 87(4): 621 (1972)
 
 #### Original name
 Gelasinospora santi-florii Cailleux, 1972

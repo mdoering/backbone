@@ -1,5 +1,4 @@
-Uromyces bulbinus Thüm., 1877 SPECIES
-=======
+# Uromyces bulbinus Thüm., 1877 SPECIES
 
 #### Status
 ACCEPTED

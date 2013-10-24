@@ -1,5 +1,4 @@
-Caloplaca hueana B. de Lesd. SPECIES
-=======
+# Caloplaca hueana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

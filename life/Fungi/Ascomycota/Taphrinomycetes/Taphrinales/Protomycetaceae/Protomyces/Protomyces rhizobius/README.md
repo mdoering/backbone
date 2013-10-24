@@ -1,5 +1,4 @@
-Protomyces rhizobius Trail SPECIES
-=======
+# Protomyces rhizobius Trail SPECIES
 
 #### Status
 ACCEPTED

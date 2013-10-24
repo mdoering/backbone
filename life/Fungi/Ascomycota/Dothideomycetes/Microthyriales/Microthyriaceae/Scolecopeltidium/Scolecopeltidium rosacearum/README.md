@@ -1,5 +1,4 @@
-Scolecopeltidium rosacearum Bat. & Cavalc. SPECIES
-=======
+# Scolecopeltidium rosacearum Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

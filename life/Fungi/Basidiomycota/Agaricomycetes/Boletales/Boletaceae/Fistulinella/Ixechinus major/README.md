@@ -1,17 +1,16 @@
-Ixechinus majus R. Heim SPECIES
-=======
+# Ixechinus major R. Heim SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue Mycol. , Paris 4: 7 (1939)
 
 #### Original name
-Ixechinus majus R. Heim
+Ixechinus major R. Heim
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Periconiella benkertii U. Braun SPECIES
-=======
+# Periconiella benkertii U. Braun SPECIES
 
 #### Status
 ACCEPTED

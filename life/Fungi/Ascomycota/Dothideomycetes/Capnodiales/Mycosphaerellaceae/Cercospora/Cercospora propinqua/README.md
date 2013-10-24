@@ -1,5 +1,4 @@
-Cercospora propinqua C. Massal. SPECIES
-=======
+# Cercospora propinqua C. Massal. SPECIES
 
 #### Status
 ACCEPTED

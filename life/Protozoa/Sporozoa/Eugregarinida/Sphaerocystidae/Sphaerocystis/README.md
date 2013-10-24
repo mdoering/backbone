@@ -1,5 +1,4 @@
-Sphaerocystis Léger, 1892 GENUS
-=======
+# Sphaerocystis Léger, 1892 GENUS
 
 #### Status
 ACCEPTED

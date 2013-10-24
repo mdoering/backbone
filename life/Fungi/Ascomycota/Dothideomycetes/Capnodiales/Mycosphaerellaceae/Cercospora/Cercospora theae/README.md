@@ -1,5 +1,4 @@
-Cercospora theae Breda de Haan SPECIES
-=======
+# Cercospora theae Breda de Haan SPECIES
 
 #### Status
 ACCEPTED

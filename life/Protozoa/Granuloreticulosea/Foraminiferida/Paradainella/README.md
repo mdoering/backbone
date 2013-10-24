@@ -1,5 +1,4 @@
-Paradainella Brazhnikova, 1971 GENUS
-=======
+# Paradainella Brazhnikova, 1971 GENUS
 
 #### Status
 ACCEPTED

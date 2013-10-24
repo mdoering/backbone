@@ -1,5 +1,4 @@
-Laboulbenia rucujenna Balazuc SPECIES
-=======
+# Laboulbenia rucujenna Balazuc SPECIES
 
 #### Status
 ACCEPTED

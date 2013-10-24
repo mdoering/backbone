@@ -1,17 +1,16 @@
-Scutellinia nigrohirtula var. nigrohirtula VARIETY
-=======
+# Scutellinia nigrohirtula (Svrcek) Le Gal, 1964 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 123 (1964)
 
 #### Original name
-Scutellinia nigrohirtula var. nigrohirtula
+Lachnea setosa var. nigrohirtula Svrcek, 1948
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hysteropeziza pusilla B. Hein & Scheuer SPECIES
-=======
+# Hysteropeziza pusilla B. Hein & Scheuer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Delgadella Dragastan, 1970 GENUS
-=======
+# Delgadella Dragastan, 1970 GENUS
 
 #### Status
 ACCEPTED

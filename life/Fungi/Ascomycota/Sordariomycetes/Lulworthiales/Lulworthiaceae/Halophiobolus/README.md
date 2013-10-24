@@ -1,5 +1,4 @@
-Halophiobolus Linder, 1944 GENUS
-=======
+# Halophiobolus Linder, 1944 GENUS
 
 #### Status
 ACCEPTED

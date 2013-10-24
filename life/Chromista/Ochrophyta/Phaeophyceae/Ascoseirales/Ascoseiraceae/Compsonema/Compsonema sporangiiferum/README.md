@@ -1,5 +1,4 @@
-Compsonema sporangiiferum Setchell & N.L. Gardner SPECIES
-=======
+# Compsonema sporangiiferum Setchell & N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

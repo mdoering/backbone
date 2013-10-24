@@ -1,5 +1,4 @@
-Cylindrosporium solitarium Heald & F.A. Wolf SPECIES
-=======
+# Cylindrosporium solitarium Heald & F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

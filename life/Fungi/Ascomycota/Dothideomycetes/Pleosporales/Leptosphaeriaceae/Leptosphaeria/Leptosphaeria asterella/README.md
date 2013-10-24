@@ -1,5 +1,4 @@
-Leptosphaeria asterella Hara SPECIES
-=======
+# Leptosphaeria asterella Hara SPECIES
 
 #### Status
 ACCEPTED

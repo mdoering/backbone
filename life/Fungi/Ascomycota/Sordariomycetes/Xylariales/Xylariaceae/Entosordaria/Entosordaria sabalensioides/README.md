@@ -1,5 +1,4 @@
-Entosordaria sabalensioides (Ellis & G. Martin) Höhn. SPECIES
-=======
+# Entosordaria sabalensioides (Ellis & G. Martin) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thalassiosira incerta Makarova SPECIES
-=======
+# Thalassiosira incerta Makarova SPECIES
 
 #### Status
 ACCEPTED

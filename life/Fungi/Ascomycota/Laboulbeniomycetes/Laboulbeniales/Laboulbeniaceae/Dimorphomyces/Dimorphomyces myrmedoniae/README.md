@@ -1,5 +1,4 @@
-Dimorphomyces myrmedoniae Thaxt. SPECIES
-=======
+# Dimorphomyces myrmedoniae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

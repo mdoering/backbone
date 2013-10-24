@@ -1,5 +1,4 @@
-Physalospora gelsemiata (Cooke) Sacc. SPECIES
-=======
+# Physalospora gelsemiata (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

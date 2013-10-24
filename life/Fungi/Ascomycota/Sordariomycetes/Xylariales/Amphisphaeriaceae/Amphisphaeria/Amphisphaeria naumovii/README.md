@@ -1,5 +1,4 @@
-Amphisphaeria naumovii Gucevic SPECIES
-=======
+# Amphisphaeria naumovii Gucevic SPECIES
 
 #### Status
 ACCEPTED

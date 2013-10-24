@@ -1,5 +1,4 @@
-Acarospora hysgina (Wahlenb.) H. Magn. SPECIES
-=======
+# Acarospora hysgina (Wahlenb.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypholoma elatum Massee SPECIES
-=======
+# Hypholoma elatum Massee SPECIES
 
 #### Status
 ACCEPTED

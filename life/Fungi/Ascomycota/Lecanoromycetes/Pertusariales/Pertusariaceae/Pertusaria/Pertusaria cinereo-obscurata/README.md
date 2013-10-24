@@ -1,5 +1,4 @@
-Pertusaria cinereo-obscurata Vain. SPECIES
-=======
+# Pertusaria cinereo-obscurata Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula fulvo-ochrascens Buyck SPECIES
-=======
+# Russula fulvo-ochrascens Buyck SPECIES
 
 #### Status
 ACCEPTED

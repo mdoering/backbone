@@ -1,5 +1,4 @@
-Gyrodinium grenlandicum Braarud, 1935 SPECIES
-=======
+# Gyrodinium grenlandicum Braarud, 1935 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Doratomyces phillipsii (Berk. & Leight.) F.J. Morton & G. Sm., 1963 SPECIES
-=======
+# Leightoniomyces phillipsii (Berk. & Leight.) D. Hawksw. & B. Sutton, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 86: 82 (1963)
+in Hawksworth, J. Linn. Soc. , Bot. 75(2): 204 (1977)
 
 #### Original name
 Periconia phillipsii Berk. & Leight., 1875

@@ -1,5 +1,4 @@
-Acrospermum conicum Fr. SPECIES
-=======
+# Acrospermum conicum Fr. SPECIES
 
 #### Status
 ACCEPTED

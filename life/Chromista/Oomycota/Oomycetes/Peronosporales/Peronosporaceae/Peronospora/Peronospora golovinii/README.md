@@ -1,5 +1,4 @@
-Peronospora golovinii Kalymb. SPECIES
-=======
+# Peronospora golovinii Kalymb. SPECIES
 
 #### Status
 ACCEPTED

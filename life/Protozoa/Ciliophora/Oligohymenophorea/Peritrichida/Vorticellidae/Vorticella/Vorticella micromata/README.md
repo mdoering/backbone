@@ -1,5 +1,4 @@
-Vorticella micromata SPECIES
-=======
+# Vorticella micromata SPECIES
 
 #### Status
 ACCEPTED

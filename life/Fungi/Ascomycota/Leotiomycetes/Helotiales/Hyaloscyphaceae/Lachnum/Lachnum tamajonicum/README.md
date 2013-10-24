@@ -1,5 +1,4 @@
-Lachnum tamajonicum Raitv. & R. Galán SPECIES
-=======
+# Lachnum tamajonicum Raitv. & R. Galán SPECIES
 
 #### Status
 ACCEPTED

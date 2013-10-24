@@ -1,5 +1,4 @@
-Humaria carneoviolacea Velen. SPECIES
-=======
+# Humaria carneoviolacea Velen. SPECIES
 
 #### Status
 ACCEPTED

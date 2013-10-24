@@ -1,5 +1,4 @@
-Lojkania utahensis (Petr.) M.E. Barr SPECIES
-=======
+# Lojkania utahensis (Petr.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

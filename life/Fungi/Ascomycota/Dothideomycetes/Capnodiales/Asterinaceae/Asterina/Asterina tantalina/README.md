@@ -1,5 +1,4 @@
-Asterina tantalina Petr. SPECIES
-=======
+# Asterina tantalina Petr. SPECIES
 
 #### Status
 ACCEPTED

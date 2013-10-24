@@ -1,5 +1,4 @@
-Tripocalpis Haeckel, 1881 GENUS
-=======
+# Tripocalpis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

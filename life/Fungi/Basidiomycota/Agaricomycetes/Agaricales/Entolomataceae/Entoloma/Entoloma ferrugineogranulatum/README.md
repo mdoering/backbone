@@ -1,5 +1,4 @@
-Entoloma ferrugineogranulatum (Singer) E. Horak SPECIES
-=======
+# Entoloma ferrugineogranulatum (Singer) E. Horak SPECIES
 
 #### Status
 ACCEPTED

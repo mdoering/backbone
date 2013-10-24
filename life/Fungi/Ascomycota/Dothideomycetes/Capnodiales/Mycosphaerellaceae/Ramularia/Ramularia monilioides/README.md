@@ -1,5 +1,4 @@
-Ramularia monilioides (Ellis & G. Martin) Ellis & Everh. SPECIES
-=======
+# Ramularia monilioides (Ellis & G. Martin) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

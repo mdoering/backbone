@@ -1,14 +1,13 @@
-Peziza incrustata Ellis SPECIES
-=======
+# Hyphodiscus incrustatus (Ellis) Raitv., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. Nat. 192 (1883)
+Scripta Mycol. , Tartu 20: 74 (2004)
 
 #### Original name
 Peziza incrustata Ellis

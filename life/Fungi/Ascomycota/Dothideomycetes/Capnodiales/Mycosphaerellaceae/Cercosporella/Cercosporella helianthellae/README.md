@@ -1,5 +1,4 @@
-Cercosporella helianthellae Ellis & Everh. SPECIES
-=======
+# Cercosporella helianthellae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

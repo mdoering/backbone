@@ -1,5 +1,4 @@
-Striglia splendens (Lév.) Kuntze SPECIES
-=======
+# Striglia splendens (Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

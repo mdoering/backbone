@@ -1,5 +1,4 @@
-Ornatisporites pannosus M.G. Parsons & G. Norris SPECIES
-=======
+# Ornatisporites pannosus M.G. Parsons & G. Norris SPECIES
 
 #### Status
 ACCEPTED

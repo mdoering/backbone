@@ -1,5 +1,4 @@
-Aspicilia fruticulosa var. fruticulosa VARIETY
-=======
+# Aspicilia fruticulosa (Eversm.) Flagey SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aspicilia fruticulosa var. fruticulosa
+Lecanora fruticulosa Eversm.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pleurostromella corylina (P. Karst.) Petr. SPECIES
-=======
+# Pleurostromella corylina (P. Karst.) Petr. SPECIES
 
 #### Status
 ACCEPTED

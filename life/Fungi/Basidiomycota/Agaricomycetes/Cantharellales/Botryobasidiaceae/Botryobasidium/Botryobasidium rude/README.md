@@ -1,5 +1,4 @@
-Botryobasidium rude Rick SPECIES
-=======
+# Botryobasidium rude Rick SPECIES
 
 #### Status
 ACCEPTED

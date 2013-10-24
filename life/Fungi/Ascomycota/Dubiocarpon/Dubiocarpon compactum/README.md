@@ -1,5 +1,4 @@
-Dubiocarpon compactum (Will.) S.A. Hutch. SPECIES
-=======
+# Dubiocarpon compactum (Will.) S.A. Hutch. SPECIES
 
 #### Status
 ACCEPTED

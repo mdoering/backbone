@@ -1,5 +1,4 @@
-Agaricus improspicuus Britzelm. SPECIES
-=======
+# Agaricus improspicuus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

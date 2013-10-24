@@ -1,5 +1,4 @@
-Prismatospora Ellis, 1915 GENUS
-=======
+# Prismatospora Ellis, 1915 GENUS
 
 #### Status
 ACCEPTED

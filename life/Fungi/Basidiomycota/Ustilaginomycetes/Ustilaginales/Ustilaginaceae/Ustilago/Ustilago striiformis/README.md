@@ -1,17 +1,16 @@
-Tilletia striiformis f. striiformis FORM
-=======
+# Ustilago striiformis (Westend.) Niessl, 1876 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Malpighia 1: 8 (1875)
+Hedwigia 15: 1 (1876)
 
 #### Original name
-Tilletia striiformis f. striiformis
+Ustilago striiformis (Westend.) Niessl, 1876
 
 ### Remarks
 null

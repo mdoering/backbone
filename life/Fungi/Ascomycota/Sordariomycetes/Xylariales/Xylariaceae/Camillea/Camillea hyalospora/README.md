@@ -1,5 +1,4 @@
-Camillea hyalospora (Pat.) J.D. Rogers, Laessøe & Lodge SPECIES
-=======
+# Camillea hyalospora (Pat.) J.D. Rogers, Laessøe & Lodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus lupinus Fr. SPECIES
-=======
+# Agaricus lupinus Fr. SPECIES
 
 #### Status
 ACCEPTED

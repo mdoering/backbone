@@ -1,5 +1,4 @@
-Ammobaculites cylindricus Cushman, 1910 SPECIES
-=======
+# Ammobaculites cylindricus Cushman, 1910 SPECIES
 
 #### Status
 ACCEPTED

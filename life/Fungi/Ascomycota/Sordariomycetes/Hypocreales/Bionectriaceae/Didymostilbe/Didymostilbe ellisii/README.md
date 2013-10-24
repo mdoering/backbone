@@ -1,5 +1,4 @@
-Didymostilbe ellisii A.S. Saxena & Mukerji SPECIES
-=======
+# Didymostilbe ellisii A.S. Saxena & Mukerji SPECIES
 
 #### Status
 ACCEPTED

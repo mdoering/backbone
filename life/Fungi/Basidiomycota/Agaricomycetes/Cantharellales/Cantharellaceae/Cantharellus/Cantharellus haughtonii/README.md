@@ -1,5 +1,4 @@
-Cantharellus haughtonii W. Phillips SPECIES
-=======
+# Cantharellus haughtonii W. Phillips SPECIES
 
 #### Status
 ACCEPTED

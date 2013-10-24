@@ -1,5 +1,4 @@
-Septoria westralensis McAlpine SPECIES
-=======
+# Septoria westralensis McAlpine SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staurosphaeria rhamni Westend. SPECIES
-=======
+# Staurosphaeria rhamni Westend. SPECIES
 
 #### Status
 ACCEPTED

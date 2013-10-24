@@ -1,5 +1,4 @@
-Diaporthe boehmeriae Speg. SPECIES
-=======
+# Diaporthe boehmeriae Speg. SPECIES
 
 #### Status
 ACCEPTED

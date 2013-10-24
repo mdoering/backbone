@@ -1,5 +1,4 @@
-Nyctotherus regalis Gisler, 1967 SPECIES
-=======
+# Nyctotherus regalis Gisler, 1967 SPECIES
 
 #### Status
 ACCEPTED

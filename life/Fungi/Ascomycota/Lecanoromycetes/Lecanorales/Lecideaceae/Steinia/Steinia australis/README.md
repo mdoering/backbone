@@ -1,5 +1,4 @@
-Steinia australis Kantvilas & P. M. McCarthy SPECIES
-=======
+# Steinia australis Kantvilas & P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

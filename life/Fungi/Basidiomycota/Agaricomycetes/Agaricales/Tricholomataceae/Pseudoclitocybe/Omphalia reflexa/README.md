@@ -1,5 +1,4 @@
-Omphalia reflexa Bres. SPECIES
-=======
+# Omphalia reflexa Bres. SPECIES
 
 #### Status
 ACCEPTED

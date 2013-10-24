@@ -1,5 +1,4 @@
-Porpidia pachythallina Fryday SPECIES
-=======
+# Porpidia pachythallina Fryday SPECIES
 
 #### Status
 ACCEPTED

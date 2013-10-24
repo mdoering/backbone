@@ -1,5 +1,4 @@
-Microthorax tridentatus Penard, 1922 SPECIES
-=======
+# Microthorax tridentatus Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

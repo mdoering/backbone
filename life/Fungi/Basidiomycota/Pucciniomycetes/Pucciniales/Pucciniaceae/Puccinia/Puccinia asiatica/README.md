@@ -1,5 +1,4 @@
-Puccinia asiatica var. asiatica VARIETY
-=======
+# Puccinia asiatica (Kom.) P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia asiatica var. asiatica
+null
 
 ### Remarks
 null

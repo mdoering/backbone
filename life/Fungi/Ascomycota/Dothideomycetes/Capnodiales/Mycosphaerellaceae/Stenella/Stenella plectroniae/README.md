@@ -1,5 +1,4 @@
-Stenella plectroniae Ponnappa SPECIES
-=======
+# Stenella plectroniae Ponnappa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdamoeba marina Dunkerly, 1921 SPECIES
-=======
+# Rhabdamoeba marina Dunkerly, 1921 SPECIES
 
 #### Status
 ACCEPTED

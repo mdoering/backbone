@@ -1,5 +1,4 @@
-Dothiorella salviae Sousa da Câmara SPECIES
-=======
+# Dothiorella salviae Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

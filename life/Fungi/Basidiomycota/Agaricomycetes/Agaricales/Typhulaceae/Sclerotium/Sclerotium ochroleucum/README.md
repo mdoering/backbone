@@ -1,5 +1,4 @@
-Sclerotium ochroleucum Durieu & Mont. SPECIES
-=======
+# Sclerotium ochroleucum Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

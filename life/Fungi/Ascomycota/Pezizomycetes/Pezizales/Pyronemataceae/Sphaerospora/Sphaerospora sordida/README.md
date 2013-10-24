@@ -1,5 +1,4 @@
-Sphaerospora sordida Velen. SPECIES
-=======
+# Sphaerospora sordida Velen. SPECIES
 
 #### Status
 ACCEPTED

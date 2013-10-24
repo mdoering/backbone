@@ -1,5 +1,4 @@
-Myrmaecium Nitschke ex Fuckel, 1870 GENUS
-=======
+# Myrmaecium Nitschke ex Fuckel, 1870 GENUS
 
 #### Status
 ACCEPTED

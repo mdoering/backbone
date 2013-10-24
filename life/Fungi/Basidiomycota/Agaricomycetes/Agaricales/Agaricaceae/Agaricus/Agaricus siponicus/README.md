@@ -1,5 +1,4 @@
-Agaricus siponicus Secr. SPECIES
-=======
+# Agaricus siponicus Secr. SPECIES
 
 #### Status
 ACCEPTED

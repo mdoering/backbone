@@ -1,5 +1,4 @@
-Pleoscutula hypotrachynae Etayo SPECIES
-=======
+# Pleoscutula hypotrachynae Etayo SPECIES
 
 #### Status
 ACCEPTED

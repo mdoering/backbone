@@ -1,5 +1,4 @@
-Coprinus neotropicus Redhead & Pegler SPECIES
-=======
+# Coprinus neotropicus Redhead & Pegler SPECIES
 
 #### Status
 ACCEPTED

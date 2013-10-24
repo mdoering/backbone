@@ -1,5 +1,4 @@
-Erysiphe ellisii (U. Braun) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe ellisii (U. Braun) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psorotheciopsis gyalideoides (Vezda) Henssen & Lücking SPECIES
-=======
+# Psorotheciopsis gyalideoides (Vezda) Henssen & Lücking SPECIES
 
 #### Status
 ACCEPTED

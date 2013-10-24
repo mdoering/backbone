@@ -1,5 +1,4 @@
-Mesnilella fastigata SPECIES
-=======
+# Mesnilella fastigata SPECIES
 
 #### Status
 ACCEPTED

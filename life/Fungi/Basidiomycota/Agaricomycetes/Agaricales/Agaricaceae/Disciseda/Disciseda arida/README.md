@@ -1,5 +1,4 @@
-Disciseda arida Velen. SPECIES
-=======
+# Disciseda arida Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporranicysta Srivastava & Binda, 1984 GENUS
-=======
+# Sporranicysta Srivastava & Binda, 1984 GENUS
 
 #### Status
 ACCEPTED

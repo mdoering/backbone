@@ -1,5 +1,4 @@
-Eimeria nucleocola Lom & Dyková, 1981 SPECIES
-=======
+# Eimeria nucleocola Lom & Dyková, 1981 SPECIES
 
 #### Status
 ACCEPTED

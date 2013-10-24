@@ -1,5 +1,4 @@
-Cristellariopsis Rzahak, 1895 GENUS
-=======
+# Cristellariopsis Rzahak, 1895 GENUS
 
 #### Status
 ACCEPTED

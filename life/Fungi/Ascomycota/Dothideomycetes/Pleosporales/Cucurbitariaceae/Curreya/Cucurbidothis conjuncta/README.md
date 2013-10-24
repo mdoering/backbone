@@ -1,5 +1,4 @@
-Cucurbidothis conjuncta Petr. SPECIES
-=======
+# Cucurbidothis conjuncta Petr. SPECIES
 
 #### Status
 ACCEPTED

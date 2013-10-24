@@ -1,5 +1,4 @@
-Nodeana Skvortzov, 1968 GENUS
-=======
+# Nodeana Skvortzov, 1968 GENUS
 
 #### Status
 ACCEPTED

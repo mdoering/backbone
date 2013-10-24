@@ -1,5 +1,4 @@
-Macrophoma lanceolata (Cooke & Ellis) Berl. & Voglino SPECIES
-=======
+# Macrophoma lanceolata (Cooke & Ellis) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

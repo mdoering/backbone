@@ -1,5 +1,4 @@
-Hendersonia davisii Ellis & Everh. SPECIES
-=======
+# Hendersonia davisii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

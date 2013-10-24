@@ -1,5 +1,4 @@
-Didymium synsporon T.E. Brooks & H.W. Keller, 1973 SPECIES
-=======
+# Didymium synsporon T.E. Brooks & H.W. Keller, 1973 SPECIES
 
 #### Status
 ACCEPTED

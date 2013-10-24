@@ -1,5 +1,4 @@
-Hygrophorus albipes Peck SPECIES
-=======
+# Hygrophorus albipes Peck SPECIES
 
 #### Status
 ACCEPTED

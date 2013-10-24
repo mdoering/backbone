@@ -1,5 +1,4 @@
-Mycosphaerella guadarramica (Gonz. Frag.) M. Morelet SPECIES
-=======
+# Mycosphaerella guadarramica (Gonz. Frag.) M. Morelet SPECIES
 
 #### Status
 ACCEPTED

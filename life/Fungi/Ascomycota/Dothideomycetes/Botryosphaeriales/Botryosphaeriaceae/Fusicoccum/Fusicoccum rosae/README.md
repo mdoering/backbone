@@ -1,5 +1,4 @@
-Fusicoccum rosae Edward et al. {?} SPECIES
-=======
+# Fusicoccum rosae Edward et al. {?} SPECIES
 
 #### Status
 ACCEPTED

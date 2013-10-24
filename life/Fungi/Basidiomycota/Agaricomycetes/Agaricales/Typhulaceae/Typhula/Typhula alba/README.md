@@ -1,5 +1,4 @@
-Typhula alba S. Imai SPECIES
-=======
+# Typhula alba S. Imai SPECIES
 
 #### Status
 ACCEPTED

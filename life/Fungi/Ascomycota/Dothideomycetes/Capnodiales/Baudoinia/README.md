@@ -1,5 +1,4 @@
-Baudoinia J.A. Scott & Unter. GENUS
-=======
+# Baudoinia J.A. Scott & Unter. GENUS
 
 #### Status
 ACCEPTED

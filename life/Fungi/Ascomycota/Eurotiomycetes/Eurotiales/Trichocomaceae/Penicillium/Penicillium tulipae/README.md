@@ -1,5 +1,4 @@
-Penicillium tulipae Overy & Frisvad SPECIES
-=======
+# Penicillium tulipae Overy & Frisvad SPECIES
 
 #### Status
 ACCEPTED

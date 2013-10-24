@@ -1,5 +1,4 @@
-Pseudocercospora pahudiae (Syd. & P. Syd.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora pahudiae (Syd. & P. Syd.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

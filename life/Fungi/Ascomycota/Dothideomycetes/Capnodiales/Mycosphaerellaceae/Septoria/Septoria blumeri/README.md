@@ -1,5 +1,4 @@
-Septoria blumeri Petr. SPECIES
-=======
+# Septoria blumeri Petr. SPECIES
 
 #### Status
 ACCEPTED

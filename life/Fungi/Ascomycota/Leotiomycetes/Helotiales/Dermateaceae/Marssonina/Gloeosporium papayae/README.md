@@ -1,5 +1,4 @@
-Gloeosporium papayae Henn. SPECIES
-=======
+# Gloeosporium papayae Henn. SPECIES
 
 #### Status
 ACCEPTED

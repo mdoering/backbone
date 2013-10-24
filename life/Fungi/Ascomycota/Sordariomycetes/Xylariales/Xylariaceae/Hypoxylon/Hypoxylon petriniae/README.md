@@ -1,5 +1,4 @@
-Hypoxylon petriniae M. Stadler & J. Fourn., 2004 SPECIES
-=======
+# Hypoxylon petriniae M. Stadler & J. Fourn., 2004 SPECIES
 
 #### Status
 ACCEPTED

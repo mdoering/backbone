@@ -1,5 +1,4 @@
-Microcystis bengalensis Banerjii SPECIES
-=======
+# Microcystis bengalensis Banerjii SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exobasidium euryae Syd. & P. Syd. SPECIES
-=======
+# Exobasidium euryae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Parmelia adpressa var. adpressa VARIETY
-=======
+# Xanthoparmelia succedans Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 59: 72 (1876)
+in Elix, Johnston & Armstrong, Bull. Br. Mus. nat. Hist. , Bot. 15(3): 333 (1986)
 
 #### Original name
-Parmelia adpressa var. adpressa
+Parmelia adpressa Kremp.
 
 ### Remarks
 null

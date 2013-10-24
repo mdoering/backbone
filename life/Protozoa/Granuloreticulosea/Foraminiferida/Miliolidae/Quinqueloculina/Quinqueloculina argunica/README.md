@@ -1,5 +1,4 @@
-Quinqueloculina argunica (Gerke) SPECIES
-=======
+# Quinqueloculina argunica (Gerke) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium racemosum (Pers.) Pers. SPECIES
-=======
+# Penicillium racemosum (Pers.) Pers. SPECIES
 
 #### Status
 ACCEPTED

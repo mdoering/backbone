@@ -1,5 +1,4 @@
-Cetraria libertina Stuckenb. SPECIES
-=======
+# Cetraria libertina Stuckenb. SPECIES
 
 #### Status
 ACCEPTED

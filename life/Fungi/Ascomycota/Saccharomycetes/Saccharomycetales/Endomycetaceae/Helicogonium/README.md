@@ -1,17 +1,16 @@
-Myriogonium Cain GENUS
-=======
+# Helicogonium W.L. White GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 40(2): 158 (1948)
+Canadian Journal of Research, Section C 20: 390 (1942)
 
 #### Original name
-Myriogonium Cain
+Helicogonium W.L. White
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Scenidium friesianum (Speg.) Kuntze, 1898 SPECIES
-=======
+# Trametes villosa (Sw.) Kreisel, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monografias, Ciencias, Univ. Habana, Ser. 4 16: 83 (1971)
 
 #### Original name
-null
+Boletus villosus Sw., 1806
 
 ### Remarks
 null

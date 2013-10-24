@@ -1,5 +1,4 @@
-Foetidaria GENUS
-=======
+# Foetidaria GENUS
 
 #### Status
 ACCEPTED

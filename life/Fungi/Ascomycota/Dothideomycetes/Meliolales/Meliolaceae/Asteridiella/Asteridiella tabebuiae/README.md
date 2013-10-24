@@ -1,5 +1,4 @@
-Asteridiella tabebuiae (Bat. & J. Silva) Hansf. SPECIES
-=======
+# Asteridiella tabebuiae (Bat. & J. Silva) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptostromella bromeliae (Pat.) Sacc. SPECIES
-=======
+# Leptostromella bromeliae (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

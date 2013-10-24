@@ -1,14 +1,13 @@
-Agaricus dorotheae Berk., 1872 SPECIES
-=======
+# Collybia dorotheae (Berk.) Sacc., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 1(no. 6): 88 (1872)
+Syll. fung. (Abellini) 5: 219 (1887)
 
 #### Original name
 Agaricus dorotheae Berk., 1872

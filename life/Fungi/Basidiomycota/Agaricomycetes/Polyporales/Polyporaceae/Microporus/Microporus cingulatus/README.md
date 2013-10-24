@@ -1,5 +1,4 @@
-Microporus cingulatus (Fr.) Kuntze SPECIES
-=======
+# Microporus cingulatus (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

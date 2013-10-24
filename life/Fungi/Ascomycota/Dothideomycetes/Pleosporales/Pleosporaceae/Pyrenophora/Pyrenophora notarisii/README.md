@@ -1,5 +1,4 @@
-Pyrenophora notarisii Sacc. SPECIES
-=======
+# Pyrenophora notarisii Sacc. SPECIES
 
 #### Status
 ACCEPTED

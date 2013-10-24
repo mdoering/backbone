@@ -1,5 +1,4 @@
-Phyllosticta thymi Vasyag. SPECIES
-=======
+# Phyllosticta thymi Vasyag. SPECIES
 
 #### Status
 ACCEPTED

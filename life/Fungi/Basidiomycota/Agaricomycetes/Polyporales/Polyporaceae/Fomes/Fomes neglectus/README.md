@@ -1,5 +1,4 @@
-Fomes neglectus (Pat.) Sacc. SPECIES
-=======
+# Fomes neglectus (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

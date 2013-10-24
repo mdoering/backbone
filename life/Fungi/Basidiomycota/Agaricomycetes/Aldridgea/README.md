@@ -1,5 +1,4 @@
-Aldridgea Massee GENUS
-=======
+# Aldridgea Massee GENUS
 
 #### Status
 ACCEPTED

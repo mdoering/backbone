@@ -1,14 +1,13 @@
-Cercospora escalloniae Marchion., 1946 SPECIES
-=======
+# Pseudocercospora escalloniae (Marchion.) U. Braun & C.F. Hill, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. Amer. Acad. Arts, ser. 2 21: 4 (1946)
+Australas. Mycol. 27(2): 48 (2008)
 
 #### Original name
 Cercospora escalloniae Marchion., 1946

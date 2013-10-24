@@ -1,5 +1,4 @@
-Collybia triplicata Berk. SPECIES
-=======
+# Collybia triplicata Berk. SPECIES
 
 #### Status
 ACCEPTED

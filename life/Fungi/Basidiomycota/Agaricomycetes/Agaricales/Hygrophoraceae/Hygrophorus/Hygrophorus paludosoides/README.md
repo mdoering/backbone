@@ -1,5 +1,4 @@
-Hygrophorus paludosoides Hesler & A.H. Sm. SPECIES
-=======
+# Hygrophorus paludosoides Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlyctema plantaginis F. Lamb. & Fautrey SPECIES
-=======
+# Phlyctema plantaginis F. Lamb. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

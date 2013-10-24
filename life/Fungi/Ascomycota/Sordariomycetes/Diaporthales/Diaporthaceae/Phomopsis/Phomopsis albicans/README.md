@@ -1,5 +1,4 @@
-Phomopsis albicans Roberge ex Desm., 1911 SPECIES
-=======
+# Phomopsis albicans Roberge ex Desm., 1911 SPECIES
 
 #### Status
 ACCEPTED

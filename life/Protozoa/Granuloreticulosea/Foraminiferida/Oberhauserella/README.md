@@ -1,5 +1,4 @@
-Oberhauserella Fuchs, 1968 GENUS
-=======
+# Oberhauserella Fuchs, 1968 GENUS
 
 #### Status
 ACCEPTED

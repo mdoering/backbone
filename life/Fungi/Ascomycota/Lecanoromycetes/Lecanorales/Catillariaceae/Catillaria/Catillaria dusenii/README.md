@@ -1,5 +1,4 @@
-Catillaria dusenii Zahlbr. SPECIES
-=======
+# Catillaria dusenii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

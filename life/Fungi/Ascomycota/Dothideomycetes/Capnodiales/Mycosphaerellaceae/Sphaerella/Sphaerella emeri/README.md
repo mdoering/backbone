@@ -1,5 +1,4 @@
-Sphaerella emeri Ces. SPECIES
-=======
+# Sphaerella emeri Ces. SPECIES
 
 #### Status
 ACCEPTED

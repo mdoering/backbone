@@ -1,5 +1,4 @@
-Scuticociliatida ORDER
-=======
+# Scuticociliatida ORDER
 
 #### Status
 ACCEPTED

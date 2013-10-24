@@ -1,5 +1,4 @@
-Uredo valdiviana Dietel & Neger SPECIES
-=======
+# Uredo valdiviana Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

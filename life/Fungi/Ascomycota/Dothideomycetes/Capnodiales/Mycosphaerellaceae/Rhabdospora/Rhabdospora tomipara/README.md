@@ -1,5 +1,4 @@
-Rhabdospora tomipara (Pass.) Sacc. SPECIES
-=======
+# Rhabdospora tomipara (Pass.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

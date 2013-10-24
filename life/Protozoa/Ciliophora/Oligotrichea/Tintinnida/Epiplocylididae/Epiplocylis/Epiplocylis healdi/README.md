@@ -1,5 +1,4 @@
-Epiplocylis healdi Kofoid & Campbell, 1929 SPECIES
-=======
+# Epiplocylis healdi Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

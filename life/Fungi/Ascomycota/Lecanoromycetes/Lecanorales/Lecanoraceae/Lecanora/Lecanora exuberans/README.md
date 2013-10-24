@@ -1,5 +1,4 @@
-Lecanora exuberans H. Magn. SPECIES
-=======
+# Lecanora exuberans H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmiellus goossensiae (Beeli) Pegler SPECIES
-=======
+# Marasmiellus goossensiae (Beeli) Pegler SPECIES
 
 #### Status
 ACCEPTED

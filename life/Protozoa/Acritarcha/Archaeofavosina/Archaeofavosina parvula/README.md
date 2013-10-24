@@ -1,5 +1,4 @@
-Archaeofavosina parvula Naumova, 1968 SPECIES
-=======
+# Archaeofavosina parvula Naumova, 1968 SPECIES
 
 #### Status
 ACCEPTED

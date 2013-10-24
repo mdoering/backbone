@@ -1,5 +1,4 @@
-Xylosphaeria coffeicola (Speg.) Petr. SPECIES
-=======
+# Xylosphaeria coffeicola (Speg.) Petr. SPECIES
 
 #### Status
 ACCEPTED

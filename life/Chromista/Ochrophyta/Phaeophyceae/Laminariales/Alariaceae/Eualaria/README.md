@@ -1,5 +1,4 @@
-Eualaria Areschoug, 1884 GENUS
-=======
+# Eualaria Areschoug, 1884 GENUS
 
 #### Status
 ACCEPTED

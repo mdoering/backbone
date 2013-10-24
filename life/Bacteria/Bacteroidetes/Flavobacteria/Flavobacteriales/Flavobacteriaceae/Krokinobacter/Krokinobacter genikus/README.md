@@ -1,5 +1,4 @@
-Krokinobacter genikus Khan et al., 2006 SPECIES
-=======
+# Krokinobacter genikus Khan et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

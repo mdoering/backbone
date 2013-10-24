@@ -1,5 +1,4 @@
-Meliola crotonis-malabarici Hosag. SPECIES
-=======
+# Meliola crotonis-malabarici Hosag. SPECIES
 
 #### Status
 ACCEPTED

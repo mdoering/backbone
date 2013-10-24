@@ -1,5 +1,4 @@
-Leptoporus pallidocervinus (Schwein.) Pat. SPECIES
-=======
+# Leptoporus pallidocervinus (Schwein.) Pat. SPECIES
 
 #### Status
 ACCEPTED

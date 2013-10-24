@@ -1,5 +1,4 @@
-Hexagonia casuarinae Pat. SPECIES
-=======
+# Hexagonia casuarinae Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collema forissii Szatala SPECIES
-=======
+# Collema forissii Szatala SPECIES
 
 #### Status
 ACCEPTED

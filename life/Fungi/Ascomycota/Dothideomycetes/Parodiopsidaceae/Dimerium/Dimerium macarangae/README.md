@@ -1,5 +1,4 @@
-Dimerium macarangae (Henn.) Sacc. & D. Sacc. SPECIES
-=======
+# Dimerium macarangae (Henn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

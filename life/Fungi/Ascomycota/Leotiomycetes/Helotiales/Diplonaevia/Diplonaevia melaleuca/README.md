@@ -1,5 +1,4 @@
-Diplonaevia melaleuca Ellis & Everh. SPECIES
-=======
+# Diplonaevia melaleuca Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

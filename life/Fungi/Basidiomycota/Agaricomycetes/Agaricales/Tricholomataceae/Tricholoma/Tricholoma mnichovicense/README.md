@@ -1,5 +1,4 @@
-Tricholoma mnichovicense Velen. SPECIES
-=======
+# Tricholoma mnichovicense Velen. SPECIES
 
 #### Status
 ACCEPTED

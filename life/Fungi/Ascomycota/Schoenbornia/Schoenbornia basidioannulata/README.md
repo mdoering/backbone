@@ -1,5 +1,4 @@
-Schoenbornia basidioannulata Bubák SPECIES
-=======
+# Schoenbornia basidioannulata Bubák SPECIES
 
 #### Status
 ACCEPTED

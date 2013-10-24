@@ -1,5 +1,4 @@
-Phaeochoropsis K.D. Hyde & P.F. Cannon GENUS
-=======
+# Phaeochoropsis K.D. Hyde & P.F. Cannon GENUS
 
 #### Status
 ACCEPTED

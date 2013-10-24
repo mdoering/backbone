@@ -1,5 +1,4 @@
-Teichospora capnodioides G. Arnaud SPECIES
-=======
+# Teichospora capnodioides G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

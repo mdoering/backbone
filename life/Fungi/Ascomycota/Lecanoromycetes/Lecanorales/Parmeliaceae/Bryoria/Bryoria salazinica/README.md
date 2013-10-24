@@ -1,5 +1,4 @@
-Bryoria salazinica Brodo & D. Hawksw. SPECIES
-=======
+# Bryoria salazinica Brodo & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

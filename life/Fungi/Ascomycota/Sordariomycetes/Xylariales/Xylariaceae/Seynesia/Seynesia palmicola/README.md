@@ -1,5 +1,4 @@
-Seynesia palmicola Bat., Cavalc. & J.O. Silva SPECIES
-=======
+# Seynesia palmicola Bat., Cavalc. & J.O. Silva SPECIES
 
 #### Status
 ACCEPTED

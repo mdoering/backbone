@@ -1,8 +1,7 @@
-Reophax tubulatum (Rhumbler, 1931) SPECIES
-=======
+# Lagenammina tabulata Rhumbler, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

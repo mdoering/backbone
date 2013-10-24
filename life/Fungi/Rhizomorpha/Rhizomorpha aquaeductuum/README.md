@@ -1,5 +1,4 @@
-Rhizomorpha aquaeductuum Thüm. SPECIES
-=======
+# Rhizomorpha aquaeductuum Thüm. SPECIES
 
 #### Status
 ACCEPTED

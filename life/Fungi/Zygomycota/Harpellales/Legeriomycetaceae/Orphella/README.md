@@ -1,5 +1,4 @@
-Orphella L. Léger & M. Gauthier GENUS
-=======
+# Orphella L. Léger & M. Gauthier GENUS
 
 #### Status
 ACCEPTED

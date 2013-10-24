@@ -1,5 +1,4 @@
-Cenangium strobilinum Sacc. SPECIES
-=======
+# Cenangium strobilinum Sacc. SPECIES
 
 #### Status
 ACCEPTED

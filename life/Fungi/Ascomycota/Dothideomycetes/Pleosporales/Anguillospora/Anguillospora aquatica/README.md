@@ -1,5 +1,4 @@
-Anguillospora aquatica (Sv. Nilsson) SPECIES
-=======
+# Anguillospora aquatica (Sv. Nilsson) SPECIES
 
 #### Status
 ACCEPTED

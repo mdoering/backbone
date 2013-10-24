@@ -1,5 +1,4 @@
-Pestalotiopsis briosiana (Montem.) J.G. Wei & T. Xu SPECIES
-=======
+# Pestalotiopsis briosiana (Montem.) J.G. Wei & T. Xu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptosporangium bovinum Bat., S.K. Shome & J.A. Lima SPECIES
-=======
+# Streptosporangium bovinum Bat., S.K. Shome & J.A. Lima SPECIES
 
 #### Status
 ACCEPTED

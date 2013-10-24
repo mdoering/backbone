@@ -1,5 +1,4 @@
-Polytrichiella polyspora (M.E. Barr) M.E. Barr SPECIES
-=======
+# Polytrichiella polyspora (M.E. Barr) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

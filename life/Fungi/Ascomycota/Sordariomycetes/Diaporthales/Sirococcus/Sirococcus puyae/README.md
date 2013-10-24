@@ -1,5 +1,4 @@
-Sirococcus puyae Speg. SPECIES
-=======
+# Sirococcus puyae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora bacidioides Printzen & Tønsberg SPECIES
-=======
+# Biatora bacidioides Printzen & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

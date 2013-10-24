@@ -1,14 +1,13 @@
-Ovularia abscondita Fautrey & Lambotte, 1896 SPECIES
-=======
+# Ramularia abscondita (Fautrey & Lambotte) U. Braun, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue mycol. , Toulouse 18: 144 (1896)
+Int. J. Mycol. Lichenol. 3(2-3): 280 (1988)
 
 #### Original name
 Ovularia abscondita Fautrey & Lambotte, 1896

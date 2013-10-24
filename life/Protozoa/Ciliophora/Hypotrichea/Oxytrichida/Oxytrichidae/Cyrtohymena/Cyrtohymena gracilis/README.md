@@ -1,8 +1,7 @@
-Oxytricha gracilis Kahl, 1932 SPECIES
-=======
+# Cyrtohymena gracilis (Kahl, 1932) Foissner, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

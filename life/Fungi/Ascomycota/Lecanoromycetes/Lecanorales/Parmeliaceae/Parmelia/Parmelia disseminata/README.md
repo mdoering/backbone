@@ -1,5 +1,4 @@
-Parmelia disseminata (Hue) C.W. Dodge SPECIES
-=======
+# Parmelia disseminata (Hue) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Psathyrella squamosa var. squamosa VARIETY
-=======
+# Psathyrella artemisiae (Pers.) Konrad & Maubl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. N. Y. bot. Gdn 24: 220 (1972)
+null
 
 #### Original name
-Psathyrella squamosa var. squamosa
+null
 
 ### Remarks
 null

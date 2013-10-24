@@ -1,8 +1,7 @@
-Bacillus chitinolyticus Kuroshima et al., 1996 SPECIES
-=======
+# Paenibacillus chitinolyticus (Kuroshima et al., 1996) Lee et al., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

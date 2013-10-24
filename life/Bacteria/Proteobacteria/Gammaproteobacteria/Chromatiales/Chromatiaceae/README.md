@@ -1,5 +1,4 @@
-Chromatiaceae FAMILY
-=======
+# Chromatiaceae FAMILY
 
 #### Status
 ACCEPTED

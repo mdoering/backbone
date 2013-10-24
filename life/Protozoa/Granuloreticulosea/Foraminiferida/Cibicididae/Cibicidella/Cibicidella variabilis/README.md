@@ -1,8 +1,7 @@
-Truncatulina variabilis d'Orbigny, 1839 SPECIES
-=======
+# Cibicidella variabilis (d'Orbigny, 1839) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

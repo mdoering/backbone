@@ -1,5 +1,4 @@
-Tubercularia flavescens Rebent. SPECIES
-=======
+# Tubercularia flavescens Rebent. SPECIES
 
 #### Status
 ACCEPTED

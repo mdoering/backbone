@@ -1,5 +1,4 @@
-Torula photographa Biourge SPECIES
-=======
+# Torula photographa Biourge SPECIES
 
 #### Status
 ACCEPTED

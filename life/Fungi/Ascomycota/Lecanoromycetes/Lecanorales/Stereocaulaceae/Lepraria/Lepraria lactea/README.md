@@ -1,5 +1,4 @@
-Lepraria lactea (Sibth.) Hue SPECIES
-=======
+# Lepraria lactea (Sibth.) Hue SPECIES
 
 #### Status
 ACCEPTED

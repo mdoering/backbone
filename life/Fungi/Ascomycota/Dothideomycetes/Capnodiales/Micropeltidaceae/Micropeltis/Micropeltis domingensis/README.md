@@ -1,5 +1,4 @@
-Micropeltis domingensis Cif. SPECIES
-=======
+# Micropeltis domingensis Cif. SPECIES
 
 #### Status
 ACCEPTED

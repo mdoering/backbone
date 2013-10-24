@@ -1,5 +1,4 @@
-Irene zeyheri Doidge SPECIES
-=======
+# Irene zeyheri Doidge SPECIES
 
 #### Status
 ACCEPTED

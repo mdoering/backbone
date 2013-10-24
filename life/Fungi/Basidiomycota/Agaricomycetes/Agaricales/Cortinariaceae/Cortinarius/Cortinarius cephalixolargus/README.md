@@ -1,5 +1,4 @@
-Cortinarius cephalixolargus Rob. Henry SPECIES
-=======
+# Cortinarius cephalixolargus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

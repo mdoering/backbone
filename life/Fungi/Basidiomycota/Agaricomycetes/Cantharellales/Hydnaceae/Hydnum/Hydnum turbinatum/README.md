@@ -1,5 +1,4 @@
-Hydnum turbinatum F. Brig. SPECIES
-=======
+# Hydnum turbinatum F. Brig. SPECIES
 
 #### Status
 ACCEPTED

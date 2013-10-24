@@ -1,5 +1,4 @@
-Pseudocercospora rapaneae (Syd.) U. Braun SPECIES
-=======
+# Pseudocercospora rapaneae (Syd.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

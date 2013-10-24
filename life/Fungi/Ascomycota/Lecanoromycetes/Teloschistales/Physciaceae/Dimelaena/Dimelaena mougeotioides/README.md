@@ -1,5 +1,4 @@
-Dimelaena mougeotioides SPECIES
-=======
+# Dimelaena mougeotioides SPECIES
 
 #### Status
 ACCEPTED

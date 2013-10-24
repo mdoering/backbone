@@ -1,5 +1,4 @@
-Sargassum vizcainense E.Y.Dawson, 1954 SPECIES
-=======
+# Sargassum vizcainense E.Y.Dawson, 1954 SPECIES
 
 #### Status
 ACCEPTED

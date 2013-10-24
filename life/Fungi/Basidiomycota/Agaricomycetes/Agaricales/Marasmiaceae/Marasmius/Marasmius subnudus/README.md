@@ -1,5 +1,4 @@
-Marasmius subnudus Ellis ex Peck SPECIES
-=======
+# Marasmius subnudus Ellis ex Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus bertolonii Inzenga SPECIES
-=======
+# Agaricus bertolonii Inzenga SPECIES
 
 #### Status
 ACCEPTED

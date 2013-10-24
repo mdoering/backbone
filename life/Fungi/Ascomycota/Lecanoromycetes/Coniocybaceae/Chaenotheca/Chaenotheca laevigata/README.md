@@ -1,5 +1,4 @@
-Chaenotheca laevigata Nádv. SPECIES
-=======
+# Chaenotheca laevigata Nádv. SPECIES
 
 #### Status
 ACCEPTED

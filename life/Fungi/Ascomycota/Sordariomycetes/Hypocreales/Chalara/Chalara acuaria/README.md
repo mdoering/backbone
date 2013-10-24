@@ -1,5 +1,4 @@
-Chalara acuaria Cooke & Ellis, 1878 SPECIES
-=======
+# Chalara acuaria Cooke & Ellis, 1878 SPECIES
 
 #### Status
 ACCEPTED

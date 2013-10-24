@@ -1,5 +1,4 @@
-Tomentella granosa (Berk. & M.A. Curtis) Bourdot & Galzin SPECIES
-=======
+# Tomentella granosa (Berk. & M.A. Curtis) Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

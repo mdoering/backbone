@@ -1,5 +1,4 @@
-Micrhystridium gregarium Sarjeant, 1973 SPECIES
-=======
+# Micrhystridium gregarium Sarjeant, 1973 SPECIES
 
 #### Status
 ACCEPTED

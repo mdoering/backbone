@@ -1,5 +1,4 @@
-Calycella punctiformis (Grev.) SPECIES
-=======
+# Calycella punctiformis (Grev.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sullivania titus (Gartner) O. Varol SPECIES
-=======
+# Sullivania titus (Gartner) O. Varol SPECIES
 
 #### Status
 ACCEPTED

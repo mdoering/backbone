@@ -1,5 +1,4 @@
-Acanthothecis aurantiaca (Müll. Arg.) Staiger & Kalb SPECIES
-=======
+# Acanthothecis aurantiaca (Müll. Arg.) Staiger & Kalb SPECIES
 
 #### Status
 ACCEPTED

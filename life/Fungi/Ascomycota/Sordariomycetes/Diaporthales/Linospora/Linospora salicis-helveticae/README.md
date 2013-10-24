@@ -1,5 +1,4 @@
-Linospora salicis-helveticae M. Monod SPECIES
-=======
+# Linospora salicis-helveticae M. Monod SPECIES
 
 #### Status
 ACCEPTED

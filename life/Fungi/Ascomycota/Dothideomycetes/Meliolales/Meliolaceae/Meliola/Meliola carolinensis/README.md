@@ -1,5 +1,4 @@
-Meliola carolinensis A.H. Sm. & Hesler SPECIES
-=======
+# Meliola carolinensis A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

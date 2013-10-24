@@ -1,5 +1,4 @@
-Graphis emersa Müll. Arg. SPECIES
-=======
+# Graphis emersa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

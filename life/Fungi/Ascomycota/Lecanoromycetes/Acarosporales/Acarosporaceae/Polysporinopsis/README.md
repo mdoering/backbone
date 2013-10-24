@@ -1,5 +1,4 @@
-Polysporinopsis Vezda GENUS
-=======
+# Polysporinopsis Vezda GENUS
 
 #### Status
 ACCEPTED

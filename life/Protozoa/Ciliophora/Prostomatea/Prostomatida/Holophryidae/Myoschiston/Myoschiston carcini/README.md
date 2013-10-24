@@ -1,5 +1,4 @@
-Myoschiston carcini Precht, 1935 SPECIES
-=======
+# Myoschiston carcini Precht, 1935 SPECIES
 
 #### Status
 ACCEPTED

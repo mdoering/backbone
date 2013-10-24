@@ -1,5 +1,4 @@
-Urocystis skirgielloae Piatek, 2006 SPECIES
-=======
+# Urocystis skirgielloae Piatek, 2006 SPECIES
 
 #### Status
 ACCEPTED

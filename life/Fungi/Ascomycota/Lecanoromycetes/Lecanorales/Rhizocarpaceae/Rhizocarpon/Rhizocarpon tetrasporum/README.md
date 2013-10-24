@@ -1,5 +1,4 @@
-Rhizocarpon tetrasporum Runemark SPECIES
-=======
+# Rhizocarpon tetrasporum Runemark SPECIES
 
 #### Status
 ACCEPTED

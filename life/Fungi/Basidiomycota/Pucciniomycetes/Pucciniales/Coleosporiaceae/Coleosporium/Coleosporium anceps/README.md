@@ -1,5 +1,4 @@
-Coleosporium anceps Dietel & Holw. SPECIES
-=======
+# Coleosporium anceps Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

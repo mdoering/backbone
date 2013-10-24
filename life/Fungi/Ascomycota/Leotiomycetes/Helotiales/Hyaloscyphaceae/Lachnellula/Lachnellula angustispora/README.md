@@ -1,5 +1,4 @@
-Lachnellula angustispora Raitv. SPECIES
-=======
+# Lachnellula angustispora Raitv. SPECIES
 
 #### Status
 ACCEPTED

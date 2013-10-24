@@ -1,5 +1,4 @@
-Perisporium acerinum Wallr. SPECIES
-=======
+# Perisporium acerinum Wallr. SPECIES
 
 #### Status
 ACCEPTED

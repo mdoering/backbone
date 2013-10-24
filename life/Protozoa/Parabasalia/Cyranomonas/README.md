@@ -1,5 +1,4 @@
-Cyranomonas Lee, 2002 GENUS
-=======
+# Cyranomonas Lee, 2002 GENUS
 
 #### Status
 ACCEPTED

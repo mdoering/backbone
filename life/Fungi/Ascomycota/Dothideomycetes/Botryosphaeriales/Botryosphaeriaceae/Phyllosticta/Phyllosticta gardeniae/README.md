@@ -1,5 +1,4 @@
-Phyllosticta gardeniae Tassi SPECIES
-=======
+# Phyllosticta gardeniae Tassi SPECIES
 
 #### Status
 ACCEPTED

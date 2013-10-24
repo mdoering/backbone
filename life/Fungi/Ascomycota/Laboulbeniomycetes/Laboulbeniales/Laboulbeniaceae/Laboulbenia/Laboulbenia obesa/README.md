@@ -1,5 +1,4 @@
-Laboulbenia obesa Thaxt. SPECIES
-=======
+# Laboulbenia obesa Thaxt. SPECIES
 
 #### Status
 ACCEPTED

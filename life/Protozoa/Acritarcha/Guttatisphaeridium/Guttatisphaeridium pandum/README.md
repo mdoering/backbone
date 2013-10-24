@@ -1,5 +1,4 @@
-Guttatisphaeridium pandum SPECIES
-=======
+# Guttatisphaeridium pandum SPECIES
 
 #### Status
 ACCEPTED

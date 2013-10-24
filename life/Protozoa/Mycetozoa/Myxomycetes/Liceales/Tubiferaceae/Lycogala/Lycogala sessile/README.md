@@ -1,5 +1,4 @@
-Lycogala sessile Retzd. {?} SPECIES
-=======
+# Lycogala sessile Retzd. {?} SPECIES
 
 #### Status
 ACCEPTED

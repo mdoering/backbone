@@ -1,5 +1,4 @@
-Uredo xanthostemonis J. Walker SPECIES
-=======
+# Uredo xanthostemonis J. Walker SPECIES
 
 #### Status
 ACCEPTED

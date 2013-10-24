@@ -1,5 +1,4 @@
-Cordyceps moelleri Henn. SPECIES
-=======
+# Cordyceps moelleri Henn. SPECIES
 
 #### Status
 ACCEPTED

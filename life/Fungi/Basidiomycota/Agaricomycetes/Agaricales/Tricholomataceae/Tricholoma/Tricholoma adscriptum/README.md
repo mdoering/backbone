@@ -1,5 +1,4 @@
-Tricholoma adscriptum (Britzelm.) Sacc. SPECIES
-=======
+# Tricholoma adscriptum (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha aterrima Fée SPECIES
-=======
+# Opegrapha aterrima Fée SPECIES
 
 #### Status
 ACCEPTED

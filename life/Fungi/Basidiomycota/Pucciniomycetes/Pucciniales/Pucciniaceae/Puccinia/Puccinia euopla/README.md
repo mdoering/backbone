@@ -1,5 +1,4 @@
-Puccinia euopla Syd. SPECIES
-=======
+# Puccinia euopla Syd. SPECIES
 
 #### Status
 ACCEPTED

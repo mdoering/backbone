@@ -1,5 +1,4 @@
-Sphacelotheca rottboelliae (Syd., P. Syd. & E.J. Butler) Mundk. SPECIES
-=======
+# Sphacelotheca rottboelliae (Syd., P. Syd. & E.J. Butler) Mundk. SPECIES
 
 #### Status
 ACCEPTED

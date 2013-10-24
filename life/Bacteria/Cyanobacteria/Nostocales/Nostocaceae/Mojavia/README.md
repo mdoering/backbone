@@ -1,5 +1,4 @@
-Mojavia Reháková & Johansen, 2007 GENUS
-=======
+# Mojavia Reháková & Johansen, 2007 GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Hincksia recurvata (Cardinal) Athanasiadis SPECIES
-=======
+# Hincksia granulosa (J.E. Smith) P.C. Silva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

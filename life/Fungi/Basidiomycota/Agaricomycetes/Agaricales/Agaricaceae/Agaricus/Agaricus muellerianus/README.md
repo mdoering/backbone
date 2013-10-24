@@ -1,5 +1,4 @@
-Agaricus muellerianus Berk. ex Cooke SPECIES
-=======
+# Agaricus muellerianus Berk. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

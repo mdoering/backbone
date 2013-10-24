@@ -1,5 +1,4 @@
-Zythia maxima Fautrey SPECIES
-=======
+# Zythia maxima Fautrey SPECIES
 
 #### Status
 ACCEPTED

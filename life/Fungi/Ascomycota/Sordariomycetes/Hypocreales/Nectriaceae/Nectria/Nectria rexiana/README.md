@@ -1,5 +1,4 @@
-Nectria rexiana Ellis SPECIES
-=======
+# Nectria rexiana Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium pulchellum (Speg.) Kuntze SPECIES
-=======
+# Coniothyrium pulchellum (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

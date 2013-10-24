@@ -1,5 +1,4 @@
-Boletus pseudofechtneri Cetto SPECIES
-=======
+# Boletus pseudofechtneri Cetto SPECIES
 
 #### Status
 ACCEPTED

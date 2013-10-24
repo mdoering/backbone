@@ -1,5 +1,4 @@
-Rosalina obtusa SPECIES
-=======
+# Rosalina obtusa SPECIES
 
 #### Status
 ACCEPTED

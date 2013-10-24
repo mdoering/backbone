@@ -1,5 +1,4 @@
-Psilocybe subborealis Guzmán & A.H. Sm. SPECIES
-=======
+# Psilocybe subborealis Guzmán & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

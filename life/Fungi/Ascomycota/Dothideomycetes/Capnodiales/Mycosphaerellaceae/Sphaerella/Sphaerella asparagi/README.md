@@ -1,5 +1,4 @@
-Sphaerella asparagi Bres. SPECIES
-=======
+# Sphaerella asparagi Bres. SPECIES
 
 #### Status
 ACCEPTED

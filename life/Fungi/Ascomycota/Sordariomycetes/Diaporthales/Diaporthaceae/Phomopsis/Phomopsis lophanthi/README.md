@@ -1,5 +1,4 @@
-Phomopsis lophanthi Sousa da Câmara SPECIES
-=======
+# Phomopsis lophanthi Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

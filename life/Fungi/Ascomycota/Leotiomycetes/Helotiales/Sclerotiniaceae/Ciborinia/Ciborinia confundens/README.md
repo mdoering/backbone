@@ -1,5 +1,4 @@
-Ciborinia confundens (Whetzel) Whetzel SPECIES
-=======
+# Ciborinia confundens (Whetzel) Whetzel SPECIES
 
 #### Status
 ACCEPTED

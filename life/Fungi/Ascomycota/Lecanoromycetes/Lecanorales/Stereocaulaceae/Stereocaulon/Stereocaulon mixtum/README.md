@@ -1,5 +1,4 @@
-Stereocaulon mixtum var. mixtum VARIETY
-=======
+# Stereocaulon mixtum SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 4 11: 210 (1859)
+null
 
 #### Original name
-Stereocaulon mixtum var. mixtum
+null
 
 ### Remarks
 null

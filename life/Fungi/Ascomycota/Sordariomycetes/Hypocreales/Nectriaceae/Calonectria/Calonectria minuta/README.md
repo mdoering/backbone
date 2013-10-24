@@ -1,5 +1,4 @@
-Calonectria minuta R. Sant. SPECIES
-=======
+# Calonectria minuta R. Sant. SPECIES
 
 #### Status
 ACCEPTED

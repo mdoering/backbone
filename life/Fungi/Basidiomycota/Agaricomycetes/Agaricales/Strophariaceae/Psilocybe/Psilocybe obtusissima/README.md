@@ -1,5 +1,4 @@
-Psilocybe obtusissima Kauffman & A.H. Sm. SPECIES
-=======
+# Psilocybe obtusissima Kauffman & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

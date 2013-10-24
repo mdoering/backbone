@@ -1,5 +1,4 @@
-Peritromidae Stein, 1867 FAMILY
-=======
+# Peritromidae Stein, 1867 FAMILY
 
 #### Status
 ACCEPTED

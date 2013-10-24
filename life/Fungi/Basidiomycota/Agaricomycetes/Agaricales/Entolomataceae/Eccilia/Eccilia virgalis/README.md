@@ -1,5 +1,4 @@
-Eccilia virgalis Pegler SPECIES
-=======
+# Eccilia virgalis Pegler SPECIES
 
 #### Status
 ACCEPTED

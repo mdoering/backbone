@@ -1,5 +1,4 @@
-Tryblidiella tetraspora Massee SPECIES
-=======
+# Tryblidiella tetraspora Massee SPECIES
 
 #### Status
 ACCEPTED

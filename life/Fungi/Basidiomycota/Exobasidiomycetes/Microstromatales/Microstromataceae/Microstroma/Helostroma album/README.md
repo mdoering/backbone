@@ -1,5 +1,4 @@
-Helostroma album Pat. SPECIES
-=======
+# Helostroma album Pat. SPECIES
 
 #### Status
 ACCEPTED

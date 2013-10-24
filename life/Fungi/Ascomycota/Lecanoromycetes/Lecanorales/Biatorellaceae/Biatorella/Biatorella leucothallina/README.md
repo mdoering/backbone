@@ -1,5 +1,4 @@
-Biatorella leucothallina J. Steiner SPECIES
-=======
+# Biatorella leucothallina J. Steiner SPECIES
 
 #### Status
 ACCEPTED

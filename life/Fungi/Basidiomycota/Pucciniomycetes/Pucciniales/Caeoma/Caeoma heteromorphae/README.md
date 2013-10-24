@@ -1,5 +1,4 @@
-Caeoma heteromorphae Doidge SPECIES
-=======
+# Caeoma heteromorphae Doidge SPECIES
 
 #### Status
 ACCEPTED

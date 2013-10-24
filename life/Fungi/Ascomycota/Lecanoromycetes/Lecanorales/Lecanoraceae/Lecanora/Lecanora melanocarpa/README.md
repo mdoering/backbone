@@ -1,5 +1,4 @@
-Lecanora melanocarpa Stizenb. SPECIES
-=======
+# Lecanora melanocarpa Stizenb. SPECIES
 
 #### Status
 ACCEPTED

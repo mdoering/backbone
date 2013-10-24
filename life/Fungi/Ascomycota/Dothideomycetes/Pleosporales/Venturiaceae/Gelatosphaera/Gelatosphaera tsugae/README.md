@@ -1,5 +1,4 @@
-Gelatosphaera tsugae Bat. & H. Maia SPECIES
-=======
+# Gelatosphaera tsugae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Lepocinclis marssonii var. lata Roll VARIETY
-=======
+# Lepocinclis lata (Roll) Popowa SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

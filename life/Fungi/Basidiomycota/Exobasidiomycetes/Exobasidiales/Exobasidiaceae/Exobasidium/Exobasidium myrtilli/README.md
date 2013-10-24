@@ -1,17 +1,16 @@
-Exobasidium vaccinii-myrtilli (Fuckel) Juel, 1912 SPECIES
-=======
+# Exobasidium myrtilli Siegm., 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Svensk bot. Tidskr. 6: 364 (1912)
+null
 
 #### Original name
-Fusidium vaccinii f. vaccinii-myrtilli Fuckel, 1863
+Exobasidium myrtilli Siegm., 1879
 
 ### Remarks
 null

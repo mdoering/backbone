@@ -1,5 +1,4 @@
-Russula ingwa Grgur. SPECIES
-=======
+# Russula ingwa Grgur. SPECIES
 
 #### Status
 ACCEPTED

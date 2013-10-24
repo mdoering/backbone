@@ -1,5 +1,4 @@
-Aecidium metaplexis Y.C. Wang & B. Li SPECIES
-=======
+# Aecidium metaplexis Y.C. Wang & B. Li SPECIES
 
 #### Status
 ACCEPTED

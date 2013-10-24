@@ -1,5 +1,4 @@
-Lecidea laseroni C.W. Dodge SPECIES
-=======
+# Lecidea laseroni C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

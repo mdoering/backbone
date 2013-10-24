@@ -1,5 +1,4 @@
-Leptosphaeria dryadis Rostr., 1903 SPECIES
-=======
+# Leptosphaeria dryadis Rostr., 1903 SPECIES
 
 #### Status
 ACCEPTED

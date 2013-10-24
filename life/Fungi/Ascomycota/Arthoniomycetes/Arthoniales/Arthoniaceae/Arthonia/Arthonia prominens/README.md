@@ -1,5 +1,4 @@
-Arthonia prominens Follmann SPECIES
-=======
+# Arthonia prominens Follmann SPECIES
 
 #### Status
 ACCEPTED

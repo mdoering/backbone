@@ -1,5 +1,4 @@
-Phaeothrombis melaspermiza Clemente SPECIES
-=======
+# Phaeothrombis melaspermiza Clemente SPECIES
 
 #### Status
 ACCEPTED

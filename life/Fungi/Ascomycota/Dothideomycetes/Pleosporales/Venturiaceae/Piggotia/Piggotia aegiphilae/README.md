@@ -1,5 +1,4 @@
-Piggotia aegiphilae Bat. SPECIES
-=======
+# Piggotia aegiphilae Bat. SPECIES
 
 #### Status
 ACCEPTED

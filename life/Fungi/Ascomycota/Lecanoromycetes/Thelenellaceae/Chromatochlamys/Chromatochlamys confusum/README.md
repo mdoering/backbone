@@ -1,5 +1,4 @@
-Chromatochlamys confusum Fryday SPECIES
-=======
+# Chromatochlamys confusum Fryday SPECIES
 
 #### Status
 ACCEPTED

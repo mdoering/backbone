@@ -1,5 +1,4 @@
-Graphis obtecta f. obtecta FORM
-=======
+# Graphis obtecta Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Graphis obtecta f. obtecta
+Graphis obtecta Nyl.
 
 ### Remarks
 null

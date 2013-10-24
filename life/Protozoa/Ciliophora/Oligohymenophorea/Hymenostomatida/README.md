@@ -1,5 +1,4 @@
-Hymenostomatida ORDER
-=======
+# Hymenostomatida ORDER
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilbospora poonensis Varghese & V.G. Rao SPECIES
-=======
+# Stilbospora poonensis Varghese & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

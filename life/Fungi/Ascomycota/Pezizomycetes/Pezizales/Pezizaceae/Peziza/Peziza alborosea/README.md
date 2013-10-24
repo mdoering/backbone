@@ -1,5 +1,4 @@
-Peziza alborosea Donadini SPECIES
-=======
+# Peziza alborosea Donadini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrium maculiforme Fautrey SPECIES
-=======
+# Leptothyrium maculiforme Fautrey SPECIES
 
 #### Status
 ACCEPTED

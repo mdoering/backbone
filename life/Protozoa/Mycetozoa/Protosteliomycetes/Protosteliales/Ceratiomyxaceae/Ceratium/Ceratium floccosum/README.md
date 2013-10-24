@@ -1,5 +1,4 @@
-Ceratium floccosum Wallr. SPECIES
-=======
+# Ceratium floccosum Wallr. SPECIES
 
 #### Status
 ACCEPTED

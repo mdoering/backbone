@@ -1,5 +1,4 @@
-Tricholoma sericeum Berk. SPECIES
-=======
+# Tricholoma sericeum Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Leptosphaeria saginata Syd., 1939 SPECIES
-=======
+# Mixtura saginata (Syd.) O.E. Erikss. & J.Z. Yue, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 37(4/5): 377 (1939)
+Mycotaxon 38: 203 (1990)
 
 #### Original name
 Leptosphaeria saginata Syd., 1939

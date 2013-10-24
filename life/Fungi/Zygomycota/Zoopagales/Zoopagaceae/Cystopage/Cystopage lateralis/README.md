@@ -1,5 +1,4 @@
-Cystopage lateralis Drechsler, 1941 SPECIES
-=======
+# Cystopage lateralis Drechsler, 1941 SPECIES
 
 #### Status
 ACCEPTED

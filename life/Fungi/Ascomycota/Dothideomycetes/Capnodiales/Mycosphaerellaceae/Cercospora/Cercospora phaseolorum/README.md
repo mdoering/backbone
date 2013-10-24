@@ -1,5 +1,4 @@
-Cercospora phaseolorum Cooke SPECIES
-=======
+# Cercospora phaseolorum Cooke SPECIES
 
 #### Status
 ACCEPTED

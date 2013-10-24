@@ -1,5 +1,4 @@
-Nolanea galeriformis Velen. SPECIES
-=======
+# Nolanea galeriformis Velen. SPECIES
 
 #### Status
 ACCEPTED

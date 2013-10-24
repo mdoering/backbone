@@ -1,5 +1,4 @@
-Glonium frangulae Velen. SPECIES
-=======
+# Glonium frangulae Velen. SPECIES
 
 #### Status
 ACCEPTED

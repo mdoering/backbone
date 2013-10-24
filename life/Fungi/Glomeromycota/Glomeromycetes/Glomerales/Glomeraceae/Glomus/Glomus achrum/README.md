@@ -1,5 +1,4 @@
-Glomus achrum Blaszk., D. Redecker, Koegel, Schützek, Oehl & Kovács SPECIES
-=======
+# Glomus achrum Blaszk., D. Redecker, Koegel, Schützek, Oehl & Kovács SPECIES
 
 #### Status
 ACCEPTED

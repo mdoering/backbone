@@ -1,5 +1,4 @@
-Tulostoma mussooriense Henn. SPECIES
-=======
+# Tulostoma mussooriense Henn. SPECIES
 
 #### Status
 ACCEPTED

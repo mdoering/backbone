@@ -1,5 +1,4 @@
-Chytridium zoophthorum P.A. Dang. SPECIES
-=======
+# Chytridium zoophthorum P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

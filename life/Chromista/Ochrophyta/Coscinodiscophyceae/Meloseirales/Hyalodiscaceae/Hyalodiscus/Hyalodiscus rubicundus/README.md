@@ -1,5 +1,4 @@
-Hyalodiscus rubicundus SPECIES
-=======
+# Hyalodiscus rubicundus SPECIES
 
 #### Status
 ACCEPTED

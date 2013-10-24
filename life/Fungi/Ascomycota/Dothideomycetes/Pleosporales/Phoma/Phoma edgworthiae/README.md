@@ -1,5 +1,4 @@
-Phoma edgworthiae Sacc. SPECIES
-=======
+# Phoma edgworthiae Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Otthia artemisiae Byzova SPECIES
-=======
+# Otthia artemisiae Byzova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophrydium insolitum SPECIES
-=======
+# Ophrydium insolitum SPECIES
 
 #### Status
 ACCEPTED

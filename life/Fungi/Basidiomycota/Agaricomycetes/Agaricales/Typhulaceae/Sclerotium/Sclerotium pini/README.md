@@ -1,5 +1,4 @@
-Sclerotium pini Fuckel SPECIES
-=======
+# Sclerotium pini Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllobathelium nigrum R. Sant. & Tibell, 1988 SPECIES
-=======
+# Phyllobathelium nigrum R. Sant. & Tibell, 1988 SPECIES
 
 #### Status
 ACCEPTED

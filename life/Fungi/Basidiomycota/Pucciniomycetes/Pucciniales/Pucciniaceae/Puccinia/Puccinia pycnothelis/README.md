@@ -1,5 +1,4 @@
-Puccinia pycnothelis Syd. SPECIES
-=======
+# Puccinia pycnothelis Syd. SPECIES
 
 #### Status
 ACCEPTED

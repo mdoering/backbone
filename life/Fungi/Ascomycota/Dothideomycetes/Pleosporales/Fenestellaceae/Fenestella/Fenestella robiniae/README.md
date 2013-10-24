@@ -1,5 +1,4 @@
-Fenestella robiniae (G.H. Otth) Sacc. SPECIES
-=======
+# Fenestella robiniae (G.H. Otth) Sacc. SPECIES
 
 #### Status
 ACCEPTED

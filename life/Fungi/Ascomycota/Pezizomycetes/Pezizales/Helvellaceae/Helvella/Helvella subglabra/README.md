@@ -1,5 +1,4 @@
-Helvella subglabra N.S. Weber SPECIES
-=======
+# Helvella subglabra N.S. Weber SPECIES
 
 #### Status
 ACCEPTED

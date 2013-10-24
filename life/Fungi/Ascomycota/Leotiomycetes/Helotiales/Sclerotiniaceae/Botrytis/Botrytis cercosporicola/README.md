@@ -1,5 +1,4 @@
-Botrytis cercosporicola Hara SPECIES
-=======
+# Botrytis cercosporicola Hara SPECIES
 
 #### Status
 ACCEPTED

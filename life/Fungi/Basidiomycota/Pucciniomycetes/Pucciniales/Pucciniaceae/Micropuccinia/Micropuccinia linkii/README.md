@@ -1,5 +1,4 @@
-Micropuccinia linkii (Klotzsch) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia linkii (Klotzsch) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

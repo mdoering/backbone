@@ -1,5 +1,4 @@
-Cortinarius andreae H. Lindstr. SPECIES
-=======
+# Cortinarius andreae H. Lindstr. SPECIES
 
 #### Status
 ACCEPTED

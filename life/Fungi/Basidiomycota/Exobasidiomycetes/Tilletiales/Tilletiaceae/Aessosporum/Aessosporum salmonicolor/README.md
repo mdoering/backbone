@@ -1,5 +1,4 @@
-Aessosporum salmonicolor SPECIES
-=======
+# Aessosporum salmonicolor SPECIES
 
 #### Status
 ACCEPTED

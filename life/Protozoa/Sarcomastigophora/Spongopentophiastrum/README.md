@@ -1,5 +1,4 @@
-Spongopentophiastrum Tan Zhiyuan & Tchang, 1976 GENUS
-=======
+# Spongopentophiastrum Tan Zhiyuan & Tchang, 1976 GENUS
 
 #### Status
 ACCEPTED

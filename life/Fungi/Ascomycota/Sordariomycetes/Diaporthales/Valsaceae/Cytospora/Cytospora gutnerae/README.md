@@ -1,5 +1,4 @@
-Cytospora gutnerae Gvrit. SPECIES
-=======
+# Cytospora gutnerae Gvrit. SPECIES
 
 #### Status
 ACCEPTED

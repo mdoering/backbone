@@ -1,5 +1,4 @@
-Urceolaria oederi (Ach.) Schaer. SPECIES
-=======
+# Urceolaria oederi (Ach.) Schaer. SPECIES
 
 #### Status
 ACCEPTED

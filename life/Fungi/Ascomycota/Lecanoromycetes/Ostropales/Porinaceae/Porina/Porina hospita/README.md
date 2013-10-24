@@ -1,5 +1,4 @@
-Porina hospita Harm. SPECIES
-=======
+# Porina hospita Harm. SPECIES
 
 #### Status
 ACCEPTED

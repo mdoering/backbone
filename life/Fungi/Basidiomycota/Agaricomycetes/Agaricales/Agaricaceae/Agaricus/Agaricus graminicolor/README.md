@@ -1,5 +1,4 @@
-Agaricus graminicolor Secr. SPECIES
-=======
+# Agaricus graminicolor Secr. SPECIES
 
 #### Status
 ACCEPTED

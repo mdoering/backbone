@@ -1,17 +1,16 @@
-Lecidea gelatinosa subsp. gelatinosa SUBSPECIES
-=======
+# Trapeliopsis gelatinosa (Flörke) Coppins & P. James SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 16(3): 258 (1984)
 
 #### Original name
-Lecidea gelatinosa subsp. gelatinosa
+Lecidea gelatinosa Flörke
 
 ### Remarks
 null

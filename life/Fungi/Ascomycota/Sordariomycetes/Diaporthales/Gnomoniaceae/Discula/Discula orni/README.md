@@ -1,5 +1,4 @@
-Discula orni (Sacc.) Arx SPECIES
-=======
+# Discula orni (Sacc.) Arx SPECIES
 
 #### Status
 ACCEPTED

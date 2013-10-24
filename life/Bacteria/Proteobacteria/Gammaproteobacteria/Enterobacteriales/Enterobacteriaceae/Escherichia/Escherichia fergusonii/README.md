@@ -1,5 +1,4 @@
-Escherichia fergusonii Farmer et al., 1985 SPECIES
-=======
+# Escherichia fergusonii Farmer et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

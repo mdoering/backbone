@@ -1,5 +1,4 @@
-Ascobolus striatopunctatus Boud. SPECIES
-=======
+# Ascobolus striatopunctatus Boud. SPECIES
 
 #### Status
 ACCEPTED

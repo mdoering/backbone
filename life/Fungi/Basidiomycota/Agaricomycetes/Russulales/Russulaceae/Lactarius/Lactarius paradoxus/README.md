@@ -1,17 +1,16 @@
-Lactaria paradoxa Beardslee & Burl. SPECIES
-=======
+# Lactarius paradoxus Beardslee & Burl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 32: 584 (1940)
 
 #### Original name
-Lactaria paradoxa Beardslee & Burl.
+Lactarius paradoxus Beardslee & Burl.
 
 ### Remarks
 null

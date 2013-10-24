@@ -1,5 +1,4 @@
-Phyllachora rimulosa Speg., 1919 SPECIES
-=======
+# Phyllachora rimulosa Speg., 1919 SPECIES
 
 #### Status
 DOUBTFUL

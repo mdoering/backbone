@@ -1,5 +1,4 @@
-Lopadium mastocheilum (Vain.) SPECIES
-=======
+# Lopadium mastocheilum (Vain.) SPECIES
 
 #### Status
 ACCEPTED

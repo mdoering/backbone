@@ -1,5 +1,4 @@
-Lecidea fuscula SPECIES
-=======
+# Lecidea fuscula SPECIES
 
 #### Status
 ACCEPTED

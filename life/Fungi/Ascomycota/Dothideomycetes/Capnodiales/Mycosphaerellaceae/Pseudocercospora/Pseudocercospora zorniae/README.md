@@ -1,5 +1,4 @@
-Pseudocercospora zorniae (J.M. Yen & Gilles) Deighton SPECIES
-=======
+# Pseudocercospora zorniae (J.M. Yen & Gilles) Deighton SPECIES
 
 #### Status
 ACCEPTED

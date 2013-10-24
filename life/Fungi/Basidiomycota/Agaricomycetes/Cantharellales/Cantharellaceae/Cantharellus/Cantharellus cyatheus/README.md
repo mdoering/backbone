@@ -1,5 +1,4 @@
-Cantharellus cyatheus Velen. SPECIES
-=======
+# Cantharellus cyatheus Velen. SPECIES
 
 #### Status
 ACCEPTED

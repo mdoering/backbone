@@ -1,5 +1,4 @@
-Pyrenula rugulosa Müll. Arg. SPECIES
-=======
+# Pyrenula rugulosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

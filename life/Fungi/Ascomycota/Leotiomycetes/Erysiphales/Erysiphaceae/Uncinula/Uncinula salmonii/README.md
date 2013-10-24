@@ -1,17 +1,16 @@
-Uncinula salmoni Syd. & P. Syd. SPECIES
-=======
+# Uncinula salmonii Syd. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 11: 114 (1913)
 
 #### Original name
-Uncinula salmoni Syd. & P. Syd.
+Uncinula salmonii Syd. & P. Syd.
 
 ### Remarks
 null

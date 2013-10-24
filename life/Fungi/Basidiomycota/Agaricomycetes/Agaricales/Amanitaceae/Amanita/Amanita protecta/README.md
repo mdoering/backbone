@@ -1,5 +1,4 @@
-Amanita protecta Tulloss & G. Wright SPECIES
-=======
+# Amanita protecta Tulloss & G. Wright SPECIES
 
 #### Status
 ACCEPTED

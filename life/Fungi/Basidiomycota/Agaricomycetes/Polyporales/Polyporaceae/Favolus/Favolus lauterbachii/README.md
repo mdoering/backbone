@@ -1,5 +1,4 @@
-Favolus lauterbachii Henn. SPECIES
-=======
+# Favolus lauterbachii Henn. SPECIES
 
 #### Status
 ACCEPTED

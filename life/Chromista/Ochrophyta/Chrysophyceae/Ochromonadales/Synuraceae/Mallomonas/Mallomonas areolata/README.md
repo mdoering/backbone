@@ -1,5 +1,4 @@
-Mallomonas areolata Nygaard SPECIES
-=======
+# Mallomonas areolata Nygaard SPECIES
 
 #### Status
 ACCEPTED

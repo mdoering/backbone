@@ -1,5 +1,4 @@
-Cycloposphaeridium auriculatum Uutela & Tynni, 1991 emend. Playford, Ribecai & Tongiorgi, 1995 SPECIES
-=======
+# Cycloposphaeridium auriculatum Uutela & Tynni, 1991 emend. Playford, Ribecai & Tongiorgi, 1995 SPECIES
 
 #### Status
 ACCEPTED

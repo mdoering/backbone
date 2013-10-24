@@ -1,5 +1,4 @@
-Janetia capnophila S. Hughes, 1983 SPECIES
-=======
+# Janetia capnophila S. Hughes, 1983 SPECIES
 
 #### Status
 ACCEPTED

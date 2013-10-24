@@ -1,5 +1,4 @@
-Calocera ochroleuca Lév. SPECIES
-=======
+# Calocera ochroleuca Lév. SPECIES
 
 #### Status
 ACCEPTED

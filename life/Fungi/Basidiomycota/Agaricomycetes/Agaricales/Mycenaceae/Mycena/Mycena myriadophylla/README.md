@@ -1,5 +1,4 @@
-Mycena myriadophylla (Peck) Kühner SPECIES
-=======
+# Mycena myriadophylla (Peck) Kühner SPECIES
 
 #### Status
 ACCEPTED

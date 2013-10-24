@@ -1,5 +1,4 @@
-Aecidium hualtatinum Speg. SPECIES
-=======
+# Aecidium hualtatinum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brachonella fastigata SPECIES
-=======
+# Brachonella fastigata SPECIES
 
 #### Status
 ACCEPTED

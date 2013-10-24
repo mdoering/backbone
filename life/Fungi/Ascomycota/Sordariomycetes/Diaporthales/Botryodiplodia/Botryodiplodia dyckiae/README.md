@@ -1,5 +1,4 @@
-Botryodiplodia dyckiae (Speg.) Petr. & Syd. SPECIES
-=======
+# Botryodiplodia dyckiae (Speg.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

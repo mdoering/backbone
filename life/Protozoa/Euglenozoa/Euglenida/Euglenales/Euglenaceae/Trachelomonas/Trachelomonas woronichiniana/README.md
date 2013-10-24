@@ -1,5 +1,4 @@
-Trachelomonas woronichiniana Popova SPECIES
-=======
+# Trachelomonas woronichiniana Popova SPECIES
 
 #### Status
 ACCEPTED

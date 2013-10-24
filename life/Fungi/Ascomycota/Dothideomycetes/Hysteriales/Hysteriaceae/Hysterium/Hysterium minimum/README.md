@@ -1,5 +1,4 @@
-Hysterium minimum Sacc. SPECIES
-=======
+# Hysterium minimum Sacc. SPECIES
 
 #### Status
 ACCEPTED

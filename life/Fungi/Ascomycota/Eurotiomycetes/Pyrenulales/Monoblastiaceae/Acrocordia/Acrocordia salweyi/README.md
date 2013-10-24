@@ -1,14 +1,13 @@
-Leiophloea salweyi (Leight. ex Nyl.) Trevis. SPECIES
-=======
+# Acrocordia salweyi (Leight. ex Nyl.) A.L. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Conspectus Verruc. 10 (1860)
+Monogr. Brit. Lich. 2: 315 (1911)
 
 #### Original name
 Verrucaria salweyi Leight. ex Nyl.

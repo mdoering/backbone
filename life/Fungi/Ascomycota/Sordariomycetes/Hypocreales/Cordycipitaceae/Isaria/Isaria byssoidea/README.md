@@ -1,5 +1,4 @@
-Isaria byssoidea Pers. SPECIES
-=======
+# Isaria byssoidea Pers. SPECIES
 
 #### Status
 ACCEPTED

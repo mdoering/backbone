@@ -1,5 +1,4 @@
-Gloeosporium macrophomoides Sacc. SPECIES
-=======
+# Gloeosporium macrophomoides Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrea microsplendens Yoshim. Doi SPECIES
-=======
+# Hypocrea microsplendens Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

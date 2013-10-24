@@ -1,5 +1,4 @@
-Hebelomatis eburneum (Malençon) Locq. SPECIES
-=======
+# Hebelomatis eburneum (Malençon) Locq. SPECIES
 
 #### Status
 ACCEPTED

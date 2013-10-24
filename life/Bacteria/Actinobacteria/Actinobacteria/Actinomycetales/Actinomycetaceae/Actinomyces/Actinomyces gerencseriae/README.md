@@ -1,5 +1,4 @@
-Actinomyces gerencseriae Johnson et al., 1990 SPECIES
-=======
+# Actinomyces gerencseriae Johnson et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pulveroboletus shoreae Singer & B. Singh {?} SPECIES
-=======
+# Pulveroboletus shoreae Singer & B. Singh {?} SPECIES
 
 #### Status
 ACCEPTED

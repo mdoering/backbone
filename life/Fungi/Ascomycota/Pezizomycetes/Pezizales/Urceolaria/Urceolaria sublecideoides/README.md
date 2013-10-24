@@ -1,5 +1,4 @@
-Urceolaria sublecideoides Motyka SPECIES
-=======
+# Urceolaria sublecideoides Motyka SPECIES
 
 #### Status
 ACCEPTED

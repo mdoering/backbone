@@ -1,5 +1,4 @@
-Chrysocelis Lagerh. & Dietel GENUS
-=======
+# Chrysocelis Lagerh. & Dietel GENUS
 
 #### Status
 ACCEPTED

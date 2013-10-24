@@ -1,5 +1,4 @@
-Lecidea petraeiza Nyl. SPECIES
-=======
+# Lecidea petraeiza Nyl. SPECIES
 
 #### Status
 ACCEPTED

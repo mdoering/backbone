@@ -1,5 +1,4 @@
-Uromyces effusus (Peck) De Toni SPECIES
-=======
+# Uromyces effusus (Peck) De Toni SPECIES
 
 #### Status
 ACCEPTED

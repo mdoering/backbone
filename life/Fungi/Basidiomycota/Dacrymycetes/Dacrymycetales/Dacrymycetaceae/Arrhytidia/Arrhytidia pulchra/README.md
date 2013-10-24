@@ -1,5 +1,4 @@
-Arrhytidia pulchra Lowy SPECIES
-=======
+# Arrhytidia pulchra Lowy SPECIES
 
 #### Status
 ACCEPTED

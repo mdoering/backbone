@@ -1,5 +1,4 @@
-Ramularia atropae Allesch., 1892 SPECIES
-=======
+# Ramularia atropae Allesch., 1892 SPECIES
 
 #### Status
 ACCEPTED

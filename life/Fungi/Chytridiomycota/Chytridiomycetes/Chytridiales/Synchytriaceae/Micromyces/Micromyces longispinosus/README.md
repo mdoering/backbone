@@ -1,5 +1,4 @@
-Micromyces longispinosus Couch SPECIES
-=======
+# Micromyces longispinosus Couch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis subamylacea Zahlbr. SPECIES
-=======
+# Graphis subamylacea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria latebrosa (Ellis) Sacc. SPECIES
-=======
+# Leptosphaeria latebrosa (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

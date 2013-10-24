@@ -1,5 +1,4 @@
-Sphaeronaema oleae f. oleae FORM
-=======
+# Sphaeronaema oleae (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaeronaema oleae f. oleae
+Diplodia oleae Peglion, 1894
 
 ### Remarks
 null

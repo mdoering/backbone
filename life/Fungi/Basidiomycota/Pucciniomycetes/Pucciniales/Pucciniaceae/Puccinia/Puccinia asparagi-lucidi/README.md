@@ -1,5 +1,4 @@
-Puccinia asparagi-lucidi Dietel SPECIES
-=======
+# Puccinia asparagi-lucidi Dietel SPECIES
 
 #### Status
 ACCEPTED

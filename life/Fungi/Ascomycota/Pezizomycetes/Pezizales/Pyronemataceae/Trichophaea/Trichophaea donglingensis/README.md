@@ -1,5 +1,4 @@
-Trichophaea donglingensis Zheng Wang SPECIES
-=======
+# Trichophaea donglingensis Zheng Wang SPECIES
 
 #### Status
 ACCEPTED

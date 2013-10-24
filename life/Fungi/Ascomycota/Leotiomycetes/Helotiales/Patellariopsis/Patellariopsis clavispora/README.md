@@ -1,17 +1,16 @@
-Patellaria crataegi W. Phillips SPECIES
-=======
+# Patellariopsis clavispora (Berk. & Broome) Dennis, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 17(no. 82): 46 (1888)
+Kew Bull. 19(1): 114 (1964)
 
 #### Original name
-Patellaria crataegi W. Phillips
+Patellaria clavispora (Peck) Sacc., 1889
 
 ### Remarks
 null

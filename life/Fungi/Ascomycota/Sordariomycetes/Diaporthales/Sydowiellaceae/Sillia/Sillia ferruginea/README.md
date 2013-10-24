@@ -1,17 +1,16 @@
-Sphaeria ferruginea var. ferruginea VARIETY
-=======
+# Sillia ferruginea (Pers.) P. Karst., 1873 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycoth. fenn. (Helsinki) 2: 159 (1873)
 
 #### Original name
-null
+Sphaeria ferruginea Pers., 1796
 
 ### Remarks
 null

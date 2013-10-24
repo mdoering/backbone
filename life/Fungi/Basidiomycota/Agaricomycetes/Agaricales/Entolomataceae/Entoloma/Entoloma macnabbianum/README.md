@@ -1,5 +1,4 @@
-Entoloma macnabbianum E. Horak, 1980 SPECIES
-=======
+# Entoloma macnabbianum E. Horak, 1980 SPECIES
 
 #### Status
 ACCEPTED

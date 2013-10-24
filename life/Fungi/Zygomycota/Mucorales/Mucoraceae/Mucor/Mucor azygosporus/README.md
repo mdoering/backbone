@@ -1,17 +1,16 @@
-Mucor azygospora R.K. Benj. SPECIES
-=======
+# Mucor azygosporus R.K. Benj., 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Aliso 5(1): 240 (1963)
 
 #### Original name
-Mucor azygospora R.K. Benj.
+Mucor azygosporus R.K. Benj., 1963
 
 ### Remarks
 null

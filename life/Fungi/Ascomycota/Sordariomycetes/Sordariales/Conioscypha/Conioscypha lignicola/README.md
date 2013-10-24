@@ -1,5 +1,4 @@
-Conioscypha lignicola Höhn., 1904 SPECIES
-=======
+# Conioscypha lignicola Höhn., 1904 SPECIES
 
 #### Status
 ACCEPTED

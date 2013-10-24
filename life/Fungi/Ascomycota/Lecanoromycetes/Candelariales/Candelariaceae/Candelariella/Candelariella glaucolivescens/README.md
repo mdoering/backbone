@@ -1,5 +1,4 @@
-Candelariella glaucolivescens (Nyl.) Zahlbr. SPECIES
-=======
+# Candelariella glaucolivescens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

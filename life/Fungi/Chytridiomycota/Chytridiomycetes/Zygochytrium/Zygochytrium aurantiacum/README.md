@@ -1,5 +1,4 @@
-Zygochytrium aurantiacum Sorokin, 1874 SPECIES
-=======
+# Zygochytrium aurantiacum Sorokin, 1874 SPECIES
 
 #### Status
 ACCEPTED

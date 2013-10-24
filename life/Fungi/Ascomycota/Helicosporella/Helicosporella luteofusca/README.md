@@ -1,5 +1,4 @@
-Helicosporella luteofusca G. Arnaud SPECIES
-=======
+# Helicosporella luteofusca G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

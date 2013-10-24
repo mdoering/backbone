@@ -1,5 +1,4 @@
-Eumonoicomyces papuanus Thaxt. SPECIES
-=======
+# Eumonoicomyces papuanus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

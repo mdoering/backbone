@@ -1,14 +1,13 @@
-Sebacina sordide-alba (Rick) Rick SPECIES
-=======
+# Sebacina sordidoalba (Rick) Rick SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Rambo (Ed. ), Iheringia, Sér. Bot. 2: 37 (1958)
 
 #### Original name
 Aleurodiscus sordidoalbus Rick

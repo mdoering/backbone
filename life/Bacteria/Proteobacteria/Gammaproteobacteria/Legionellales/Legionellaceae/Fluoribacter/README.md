@@ -1,5 +1,4 @@
-Fluoribacter Garrity et al., 1980 GENUS
-=======
+# Fluoribacter Garrity et al., 1980 GENUS
 
 #### Status
 ACCEPTED

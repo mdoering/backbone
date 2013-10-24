@@ -1,5 +1,4 @@
-Pezicula laricicola Fuckel SPECIES
-=======
+# Pezicula laricicola Fuckel SPECIES
 
 #### Status
 ACCEPTED

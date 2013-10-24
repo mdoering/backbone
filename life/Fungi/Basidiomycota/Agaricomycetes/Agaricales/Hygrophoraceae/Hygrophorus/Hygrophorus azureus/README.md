@@ -1,5 +1,4 @@
-Hygrophorus azureus Berk. SPECIES
-=======
+# Hygrophorus azureus Berk. SPECIES
 
 #### Status
 ACCEPTED

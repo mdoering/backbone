@@ -1,5 +1,4 @@
-Nectriella carnea Fuckel SPECIES
-=======
+# Nectriella carnea Fuckel SPECIES
 
 #### Status
 ACCEPTED

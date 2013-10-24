@@ -1,5 +1,4 @@
-Dactylospora parasitica (Flörke ex Spreng.) Zopf SPECIES
-=======
+# Dactylospora parasitica (Flörke ex Spreng.) Zopf SPECIES
 
 #### Status
 ACCEPTED

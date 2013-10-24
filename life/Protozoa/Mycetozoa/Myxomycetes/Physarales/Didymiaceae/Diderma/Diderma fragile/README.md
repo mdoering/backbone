@@ -1,5 +1,4 @@
-Diderma fragile Aramb., 1973 SPECIES
-=======
+# Diderma fragile Aramb., 1973 SPECIES
 
 #### Status
 ACCEPTED

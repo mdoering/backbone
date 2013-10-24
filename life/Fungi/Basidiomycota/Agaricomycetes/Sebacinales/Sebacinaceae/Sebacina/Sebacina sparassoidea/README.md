@@ -1,5 +1,4 @@
-Sebacina sparassoidea (Lloyd) P. Roberts, 2003 SPECIES
-=======
+# Sebacina sparassoidea (Lloyd) P. Roberts, 2003 SPECIES
 
 #### Status
 ACCEPTED

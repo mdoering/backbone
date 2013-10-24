@@ -1,5 +1,4 @@
-Xanthoparmelia conjuncta Hale SPECIES
-=======
+# Xanthoparmelia conjuncta Hale SPECIES
 
 #### Status
 ACCEPTED

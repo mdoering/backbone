@@ -1,5 +1,4 @@
-Poroconiochaeta tetraspora Dania García, Stchigel & Guarro, 2003 SPECIES
-=======
+# Poroconiochaeta tetraspora Dania García, Stchigel & Guarro, 2003 SPECIES
 
 #### Status
 ACCEPTED

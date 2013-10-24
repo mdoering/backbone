@@ -1,5 +1,4 @@
-Lanzia australis Spooner SPECIES
-=======
+# Lanzia australis Spooner SPECIES
 
 #### Status
 ACCEPTED

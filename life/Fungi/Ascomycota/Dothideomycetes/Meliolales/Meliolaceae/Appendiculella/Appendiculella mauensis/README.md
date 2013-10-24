@@ -1,5 +1,4 @@
-Appendiculella mauensis Mibey SPECIES
-=======
+# Appendiculella mauensis Mibey SPECIES
 
 #### Status
 ACCEPTED

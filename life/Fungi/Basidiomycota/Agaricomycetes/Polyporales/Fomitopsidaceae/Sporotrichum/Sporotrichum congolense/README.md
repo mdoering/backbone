@@ -1,5 +1,4 @@
-Sporotrichum congolense (Baerts) C.W. Dodge SPECIES
-=======
+# Sporotrichum congolense (Baerts) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

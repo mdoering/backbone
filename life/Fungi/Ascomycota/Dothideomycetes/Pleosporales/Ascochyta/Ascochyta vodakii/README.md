@@ -1,5 +1,4 @@
-Ascochyta vodakii Bubák SPECIES
-=======
+# Ascochyta vodakii Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyphella pezizoides Zopf SPECIES
-=======
+# Cyphella pezizoides Zopf SPECIES
 
 #### Status
 ACCEPTED

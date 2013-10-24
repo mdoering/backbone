@@ -1,5 +1,4 @@
-Stropharia subbadia Murrill SPECIES
-=======
+# Stropharia subbadia Murrill SPECIES
 
 #### Status
 ACCEPTED

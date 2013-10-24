@@ -1,5 +1,4 @@
-Antrosphaera magnifica C.-Q. He, 1984 SPECIES
-=======
+# Antrosphaera magnifica C.-Q. He, 1984 SPECIES
 
 #### Status
 ACCEPTED

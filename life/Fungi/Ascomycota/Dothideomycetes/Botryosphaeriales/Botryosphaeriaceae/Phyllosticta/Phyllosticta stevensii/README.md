@@ -1,5 +1,4 @@
-Phyllosticta stevensii E. Young SPECIES
-=======
+# Phyllosticta stevensii E. Young SPECIES
 
 #### Status
 ACCEPTED

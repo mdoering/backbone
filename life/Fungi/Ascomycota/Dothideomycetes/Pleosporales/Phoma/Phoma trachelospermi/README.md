@@ -1,5 +1,4 @@
-Phoma trachelospermi Tassi SPECIES
-=======
+# Phoma trachelospermi Tassi SPECIES
 
 #### Status
 ACCEPTED

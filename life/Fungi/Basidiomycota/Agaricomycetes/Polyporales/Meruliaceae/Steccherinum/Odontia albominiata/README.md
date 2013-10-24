@@ -1,5 +1,4 @@
-Odontia albominiata Berk. & M.A. Curtis SPECIES
-=======
+# Odontia albominiata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

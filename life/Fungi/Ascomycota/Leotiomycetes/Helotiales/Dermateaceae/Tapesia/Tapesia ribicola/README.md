@@ -1,5 +1,4 @@
-Tapesia ribicola E.K. Cash SPECIES
-=======
+# Tapesia ribicola E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

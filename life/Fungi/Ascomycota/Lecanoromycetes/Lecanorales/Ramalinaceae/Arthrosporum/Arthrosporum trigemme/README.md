@@ -1,5 +1,4 @@
-Arthrosporum trigemme (Stizenb.) Rehm SPECIES
-=======
+# Arthrosporum trigemme (Stizenb.) Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Natronobacterium Tindall et al., 1984 GENUS
-=======
+# Natronobacterium Tindall et al., 1984 GENUS
 
 #### Status
 ACCEPTED

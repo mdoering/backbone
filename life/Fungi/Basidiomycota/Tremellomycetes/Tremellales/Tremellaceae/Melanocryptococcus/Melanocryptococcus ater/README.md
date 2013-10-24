@@ -1,5 +1,4 @@
-Melanocryptococcus ater (Castell.) Dalla Torre & Cif. SPECIES
-=======
+# Melanocryptococcus ater (Castell.) Dalla Torre & Cif. SPECIES
 
 #### Status
 ACCEPTED

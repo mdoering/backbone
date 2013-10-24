@@ -1,5 +1,4 @@
-Chalara aconiti Bres. SPECIES
-=======
+# Chalara aconiti Bres. SPECIES
 
 #### Status
 ACCEPTED

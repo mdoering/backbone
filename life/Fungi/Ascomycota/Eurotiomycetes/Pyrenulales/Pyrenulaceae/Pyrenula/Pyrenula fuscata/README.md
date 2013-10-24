@@ -1,5 +1,4 @@
-Pyrenula fuscata Pers. SPECIES
-=======
+# Pyrenula fuscata Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Morenoella transversalis (Syd.) Theiss. SPECIES
-=======
+# Morenoella transversalis (Syd.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

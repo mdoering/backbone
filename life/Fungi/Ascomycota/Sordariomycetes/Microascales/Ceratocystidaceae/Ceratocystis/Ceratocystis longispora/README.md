@@ -1,5 +1,4 @@
-Ceratocystis longispora Olchow. & J. Reid SPECIES
-=======
+# Ceratocystis longispora Olchow. & J. Reid SPECIES
 
 #### Status
 ACCEPTED

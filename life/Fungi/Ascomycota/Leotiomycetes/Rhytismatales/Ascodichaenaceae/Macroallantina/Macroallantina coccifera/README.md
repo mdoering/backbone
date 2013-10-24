@@ -1,5 +1,4 @@
-Macroallantina coccifera Speer, 1987 SPECIES
-=======
+# Macroallantina coccifera Speer, 1987 SPECIES
 
 #### Status
 ACCEPTED

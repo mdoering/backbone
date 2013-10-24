@@ -1,5 +1,4 @@
-Phaeolus tabulaeformis (Berk.) Pat. SPECIES
-=======
+# Phaeolus tabulaeformis (Berk.) Pat. SPECIES
 
 #### Status
 ACCEPTED

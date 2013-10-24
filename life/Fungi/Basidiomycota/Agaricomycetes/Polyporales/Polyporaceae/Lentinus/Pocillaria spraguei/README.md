@@ -1,5 +1,4 @@
-Pocillaria spraguei Kuntze SPECIES
-=======
+# Pocillaria spraguei Kuntze SPECIES
 
 #### Status
 ACCEPTED

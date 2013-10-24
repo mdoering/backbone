@@ -1,5 +1,4 @@
-Macrosporium opuntiicola Cif. & Gonz. Frag. SPECIES
-=======
+# Macrosporium opuntiicola Cif. & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

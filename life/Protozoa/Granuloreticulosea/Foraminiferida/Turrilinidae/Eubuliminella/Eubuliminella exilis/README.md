@@ -1,8 +1,7 @@
-Buliminella elegans var. exilis (Brady, 1884) VARIETY
-=======
+# Eubuliminella exilis (Brady, 1884) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

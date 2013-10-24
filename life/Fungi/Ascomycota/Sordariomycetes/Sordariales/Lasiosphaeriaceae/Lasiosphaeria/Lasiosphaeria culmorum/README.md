@@ -1,5 +1,4 @@
-Lasiosphaeria culmorum I. Miyake & Hara SPECIES
-=======
+# Lasiosphaeria culmorum I. Miyake & Hara SPECIES
 
 #### Status
 ACCEPTED

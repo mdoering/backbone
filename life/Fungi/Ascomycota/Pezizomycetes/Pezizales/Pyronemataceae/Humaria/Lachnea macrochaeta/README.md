@@ -1,5 +1,4 @@
-Lachnea macrochaeta Fr. SPECIES
-=======
+# Lachnea macrochaeta Fr. SPECIES
 
 #### Status
 ACCEPTED

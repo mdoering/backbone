@@ -1,5 +1,4 @@
-Leveillea caelata Fr. SPECIES
-=======
+# Leveillea caelata Fr. SPECIES
 
 #### Status
 ACCEPTED

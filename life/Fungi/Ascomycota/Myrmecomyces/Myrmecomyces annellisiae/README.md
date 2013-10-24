@@ -1,17 +1,16 @@
-Myrmecomyces annellisae Jouvenaz & Kimbr. SPECIES
-=======
+# Myrmecomyces annellisiae Jouvenaz & Kimbr., 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Res. 95(12): 1400 (1991)
 
 #### Original name
-Myrmecomyces annellisae Jouvenaz & Kimbr.
+Myrmecomyces annellisiae Jouvenaz & Kimbr., 1991
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Harziella effusa Höhn. SPECIES
-=======
+# Harziella effusa Höhn. SPECIES
 
 #### Status
 ACCEPTED

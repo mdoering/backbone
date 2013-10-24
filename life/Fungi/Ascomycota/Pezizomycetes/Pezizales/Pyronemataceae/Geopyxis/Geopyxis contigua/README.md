@@ -1,5 +1,4 @@
-Geopyxis contigua Fr. SPECIES
-=======
+# Geopyxis contigua Fr. SPECIES
 
 #### Status
 ACCEPTED

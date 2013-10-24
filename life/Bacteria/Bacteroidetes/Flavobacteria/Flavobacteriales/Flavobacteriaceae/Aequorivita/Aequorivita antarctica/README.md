@@ -1,5 +1,4 @@
-Aequorivita antarctica Bowman & Nichols, 2002 SPECIES
-=======
+# Aequorivita antarctica Bowman & Nichols, 2002 SPECIES
 
 #### Status
 ACCEPTED

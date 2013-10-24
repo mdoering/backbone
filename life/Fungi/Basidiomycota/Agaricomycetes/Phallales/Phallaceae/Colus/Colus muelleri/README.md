@@ -1,5 +1,4 @@
-Colus muelleri E. Fisch. SPECIES
-=======
+# Colus muelleri E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

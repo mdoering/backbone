@@ -1,5 +1,4 @@
-Rhizophydium distinctum H.E. Petersen SPECIES
-=======
+# Rhizophydium distinctum H.E. Petersen SPECIES
 
 #### Status
 ACCEPTED

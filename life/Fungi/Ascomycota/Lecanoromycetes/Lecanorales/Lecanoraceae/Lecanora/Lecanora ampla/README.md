@@ -1,5 +1,4 @@
-Lecanora ampla Motyka SPECIES
-=======
+# Lecanora ampla Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyrophila saponaceum anon. SPECIES
-=======
+# Gyrophila saponaceum anon. SPECIES
 
 #### Status
 ACCEPTED

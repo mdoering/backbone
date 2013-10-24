@@ -1,5 +1,4 @@
-Takanoa I.V. Makarova, 1994 GENUS
-=======
+# Takanoa I.V. Makarova, 1994 GENUS
 
 #### Status
 ACCEPTED

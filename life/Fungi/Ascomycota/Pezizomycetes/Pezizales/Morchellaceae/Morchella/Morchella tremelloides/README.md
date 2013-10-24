@@ -1,5 +1,4 @@
-Morchella tremelloides (Vent.) DC. SPECIES
-=======
+# Morchella tremelloides (Vent.) DC. SPECIES
 
 #### Status
 ACCEPTED

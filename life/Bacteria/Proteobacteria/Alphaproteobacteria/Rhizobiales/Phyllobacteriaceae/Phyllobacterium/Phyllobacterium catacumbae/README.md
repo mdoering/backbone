@@ -1,5 +1,4 @@
-Phyllobacterium catacumbae Jurado et al., 2005 SPECIES
-=======
+# Phyllobacterium catacumbae Jurado et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

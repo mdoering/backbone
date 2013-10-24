@@ -1,5 +1,4 @@
-Asterina emciciana Hosag., P.J. Robin & Archana, 2009 SPECIES
-=======
+# Asterina emciciana Hosag., P.J. Robin & Archana, 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporella ptarmicae (Lindau) U. Braun SPECIES
-=======
+# Cercosporella ptarmicae (Lindau) U. Braun SPECIES
 
 #### Status
 ACCEPTED

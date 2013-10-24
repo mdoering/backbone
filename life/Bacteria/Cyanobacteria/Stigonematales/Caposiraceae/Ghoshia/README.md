@@ -1,5 +1,4 @@
-Ghoshia J.Mandal & P.K.Maithy, 1984 GENUS
-=======
+# Ghoshia J.Mandal & P.K.Maithy, 1984 GENUS
 
 #### Status
 ACCEPTED

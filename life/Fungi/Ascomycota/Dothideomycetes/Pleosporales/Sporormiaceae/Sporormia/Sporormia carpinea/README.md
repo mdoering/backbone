@@ -1,5 +1,4 @@
-Sporormia carpinea Fautrey SPECIES
-=======
+# Sporormia carpinea Fautrey SPECIES
 
 #### Status
 ACCEPTED

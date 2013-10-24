@@ -1,5 +1,4 @@
-Pseudographium squarrosum (Riess) Jacz. SPECIES
-=======
+# Pseudographium squarrosum (Riess) Jacz. SPECIES
 
 #### Status
 ACCEPTED

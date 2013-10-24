@@ -1,17 +1,16 @@
-Pronectria tibellae Zhurb. SPECIES
-=======
+# Pronectria tibellii Zhurb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Zhurbenko & Alstrup, Symb. bot. upsal. 34(1): 484 (2004)
 
 #### Original name
-Pronectria tibellae Zhurb.
+Pronectria tibellii Zhurb.
 
 ### Remarks
 null

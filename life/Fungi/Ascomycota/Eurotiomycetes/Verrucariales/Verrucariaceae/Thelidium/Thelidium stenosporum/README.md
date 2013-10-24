@@ -1,5 +1,4 @@
-Thelidium stenosporum Servít SPECIES
-=======
+# Thelidium stenosporum Servít SPECIES
 
 #### Status
 ACCEPTED

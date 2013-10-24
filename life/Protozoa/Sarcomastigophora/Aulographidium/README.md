@@ -1,5 +1,4 @@
-Aulographidium Haeckel, 1887 GENUS
-=======
+# Aulographidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

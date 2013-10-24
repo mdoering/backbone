@@ -1,5 +1,4 @@
-Gymnopilus tonkinensis (Pat.) Singer SPECIES
-=======
+# Gymnopilus tonkinensis (Pat.) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola castanopsina W. Yamam. SPECIES
-=======
+# Meliola castanopsina W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichodina elizabethae Lom & Laird, 1969 SPECIES
-=======
+# Trichodina elizabethae Lom & Laird, 1969 SPECIES
 
 #### Status
 ACCEPTED

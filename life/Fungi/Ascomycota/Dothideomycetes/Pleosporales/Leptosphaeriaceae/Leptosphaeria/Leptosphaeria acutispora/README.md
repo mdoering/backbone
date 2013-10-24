@@ -1,5 +1,4 @@
-Leptosphaeria acutispora Tóth SPECIES
-=======
+# Leptosphaeria acutispora Tóth SPECIES
 
 #### Status
 ACCEPTED

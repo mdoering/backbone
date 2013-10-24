@@ -1,5 +1,4 @@
-Diatrypella natalensis Doidge SPECIES
-=======
+# Diatrypella natalensis Doidge SPECIES
 
 #### Status
 ACCEPTED

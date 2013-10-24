@@ -1,5 +1,4 @@
-Cercospora knoxiae Govindu & Thirum. SPECIES
-=======
+# Cercospora knoxiae Govindu & Thirum. SPECIES
 
 #### Status
 ACCEPTED

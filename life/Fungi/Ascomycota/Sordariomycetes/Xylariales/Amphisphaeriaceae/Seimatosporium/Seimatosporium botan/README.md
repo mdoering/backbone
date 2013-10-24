@@ -1,5 +1,4 @@
-Seimatosporium botan Sat. Hatak. & Y. Harada SPECIES
-=======
+# Seimatosporium botan Sat. Hatak. & Y. Harada SPECIES
 
 #### Status
 ACCEPTED

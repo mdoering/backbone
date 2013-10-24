@@ -1,5 +1,4 @@
-Coronopapilla avellina Kohlm. & Volkm.-Kohlm., 1990 SPECIES
-=======
+# Coronopapilla avellina Kohlm. & Volkm.-Kohlm., 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycelorrhizodes GENUS
-=======
+# Mycelorrhizodes GENUS
 
 #### Status
 ACCEPTED

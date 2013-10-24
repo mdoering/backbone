@@ -1,5 +1,4 @@
-Peziza bicucullata (Boud.) Sacc. SPECIES
-=======
+# Peziza bicucullata (Boud.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporobolomyces yunnanensis F.Y. Bai, M. Takash., Hamam. & Nakase SPECIES
-=======
+# Sporobolomyces yunnanensis F.Y. Bai, M. Takash., Hamam. & Nakase SPECIES
 
 #### Status
 ACCEPTED

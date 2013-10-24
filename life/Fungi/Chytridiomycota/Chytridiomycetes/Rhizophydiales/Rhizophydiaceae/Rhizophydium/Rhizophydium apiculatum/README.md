@@ -1,5 +1,4 @@
-Rhizophydium apiculatum Karling SPECIES
-=======
+# Rhizophydium apiculatum Karling SPECIES
 
 #### Status
 ACCEPTED

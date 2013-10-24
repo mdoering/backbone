@@ -1,5 +1,4 @@
-Desulfovibrio oceani Finster & Kjeldsen, 2010 SPECIES
-=======
+# Desulfovibrio oceani Finster & Kjeldsen, 2010 SPECIES
 
 #### Status
 ACCEPTED

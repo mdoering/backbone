@@ -1,5 +1,4 @@
-Aeromonas simiae Harf-Monteil et al., 2004 SPECIES
-=======
+# Aeromonas simiae Harf-Monteil et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

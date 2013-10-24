@@ -1,8 +1,7 @@
-Anophrys salmacida Mugard, 1949 SPECIES
-=======
+# Paranophrys salmacida (Mugard, 1949) Song & Wilbert, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

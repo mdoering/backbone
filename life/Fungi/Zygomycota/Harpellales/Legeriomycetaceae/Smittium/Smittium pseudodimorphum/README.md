@@ -1,5 +1,4 @@
-Smittium pseudodimorphum L.G. Valle & Santam., 2004 SPECIES
-=======
+# Smittium pseudodimorphum L.G. Valle & Santam., 2004 SPECIES
 
 #### Status
 ACCEPTED

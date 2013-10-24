@@ -1,5 +1,4 @@
-Epistominella pulchra (Cushman, 1933) SPECIES
-=======
+# Epistominella pulchra (Cushman, 1933) SPECIES
 
 #### Status
 ACCEPTED

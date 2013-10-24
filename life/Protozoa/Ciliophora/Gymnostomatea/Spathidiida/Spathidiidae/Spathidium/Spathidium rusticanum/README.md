@@ -1,5 +1,4 @@
-Spathidium rusticanum Foissner, 1981 SPECIES
-=======
+# Spathidium rusticanum Foissner, 1981 SPECIES
 
 #### Status
 ACCEPTED

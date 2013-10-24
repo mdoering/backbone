@@ -1,5 +1,4 @@
-Trypethelium karnatakense R.C. Harris SPECIES
-=======
+# Trypethelium karnatakense R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

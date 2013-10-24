@@ -1,5 +1,4 @@
-Hericiaceae FAMILY
-=======
+# Hericiaceae FAMILY
 
 #### Status
 ACCEPTED

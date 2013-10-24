@@ -1,5 +1,4 @@
-Agaricus minuteverrucosus Schulzer SPECIES
-=======
+# Agaricus minuteverrucosus Schulzer SPECIES
 
 #### Status
 ACCEPTED

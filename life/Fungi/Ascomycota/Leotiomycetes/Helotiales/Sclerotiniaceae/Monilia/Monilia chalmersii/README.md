@@ -1,14 +1,13 @@
-Monilia chalmersi (Castell.) Castell. & Chalm. SPECIES
-=======
+# Monilia chalmersii (Castell.) Castell. & Chalm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Manual of tropical medicine (London), Edn 2 826 (1913)
 
 #### Original name
 Endomyces chalmersii Castell.

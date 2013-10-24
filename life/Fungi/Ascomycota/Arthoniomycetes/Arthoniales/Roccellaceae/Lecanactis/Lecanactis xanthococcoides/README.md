@@ -1,5 +1,4 @@
-Lecanactis xanthococcoides Vain. SPECIES
-=======
+# Lecanactis xanthococcoides Vain. SPECIES
 
 #### Status
 ACCEPTED

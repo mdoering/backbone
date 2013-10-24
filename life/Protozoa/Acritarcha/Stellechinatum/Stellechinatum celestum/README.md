@@ -1,5 +1,4 @@
-Stellechinatum celestum (Martin, 1969) Turner, 1984 SPECIES
-=======
+# Stellechinatum celestum (Martin, 1969) Turner, 1984 SPECIES
 
 #### Status
 ACCEPTED

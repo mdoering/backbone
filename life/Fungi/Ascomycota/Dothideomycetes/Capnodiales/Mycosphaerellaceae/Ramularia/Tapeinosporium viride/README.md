@@ -1,5 +1,4 @@
-Tapeinosporium viride Bonord. SPECIES
-=======
+# Tapeinosporium viride Bonord. SPECIES
 
 #### Status
 ACCEPTED

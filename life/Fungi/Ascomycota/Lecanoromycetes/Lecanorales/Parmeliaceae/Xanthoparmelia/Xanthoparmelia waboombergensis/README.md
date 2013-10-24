@@ -1,5 +1,4 @@
-Xanthoparmelia waboombergensis (Essl.) O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
-=======
+# Xanthoparmelia waboombergensis (Essl.) O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

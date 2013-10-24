@@ -1,5 +1,4 @@
-Sphaceloma sclerachnes Wakef. SPECIES
-=======
+# Sphaceloma sclerachnes Wakef. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium martianoffianum Thüm. SPECIES
-=======
+# Gloeosporium martianoffianum Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leccinum violaceotinctum Ortiz & T.J. Baroni SPECIES
-=======
+# Leccinum violaceotinctum Ortiz & T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

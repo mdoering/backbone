@@ -1,5 +1,4 @@
-Sphaerella alni-viridis De Not. SPECIES
-=======
+# Sphaerella alni-viridis De Not. SPECIES
 
 #### Status
 ACCEPTED

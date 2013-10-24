@@ -1,5 +1,4 @@
-Calonectria pellucida Rostr. SPECIES
-=======
+# Calonectria pellucida Rostr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hastatella aesculacantha Jarocki & Jacubowska, 1927 SPECIES
-=======
+# Hastatella aesculacantha Jarocki & Jacubowska, 1927 SPECIES
 
 #### Status
 ACCEPTED

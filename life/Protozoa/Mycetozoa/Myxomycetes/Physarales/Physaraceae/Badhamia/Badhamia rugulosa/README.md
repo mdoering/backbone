@@ -1,5 +1,4 @@
-Badhamia rugulosa T.E. Brooks & H.W. Keller, 1976 SPECIES
-=======
+# Badhamia rugulosa T.E. Brooks & H.W. Keller, 1976 SPECIES
 
 #### Status
 ACCEPTED

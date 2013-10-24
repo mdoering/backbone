@@ -1,5 +1,4 @@
-Laboulbenia gaesum Balazuc SPECIES
-=======
+# Laboulbenia gaesum Balazuc SPECIES
 
 #### Status
 ACCEPTED

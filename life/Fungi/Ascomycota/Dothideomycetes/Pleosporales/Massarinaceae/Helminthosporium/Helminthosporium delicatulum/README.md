@@ -1,14 +1,13 @@
-Macrosporium delicatulum (Berk.) Cooke, 1888 SPECIES
-=======
+# Helminthosporium delicatulum Berk., 1850 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 16(no. 80): 112 (1888)
+Ann. Mag. nat. Hist. , Ser. 2 5: no. 233 (1850)
 
 #### Original name
 Helminthosporium delicatulum Berk., 1850

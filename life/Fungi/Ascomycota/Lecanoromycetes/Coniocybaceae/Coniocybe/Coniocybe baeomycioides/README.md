@@ -1,5 +1,4 @@
-Coniocybe baeomycioides C. Massal. SPECIES
-=======
+# Coniocybe baeomycioides C. Massal. SPECIES
 
 #### Status
 ACCEPTED

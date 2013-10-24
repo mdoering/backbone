@@ -1,14 +1,13 @@
-Opegrapha diplasiospora Nyl. SPECIES
-=======
+# Melaspilea diplasiospora (Nyl.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Acta Soc. Sci. fenn. 7: 476 (1863)
+Mém. Soc. Phys. Hist. nat. Genève 29(no. 8): 22 (1887)
 
 #### Original name
 Opegrapha diplasiospora Nyl.

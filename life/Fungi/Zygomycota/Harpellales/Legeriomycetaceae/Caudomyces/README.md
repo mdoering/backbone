@@ -1,5 +1,4 @@
-Caudomyces Lichtw., Kobayasi & Indoh GENUS
-=======
+# Caudomyces Lichtw., Kobayasi & Indoh GENUS
 
 #### Status
 ACCEPTED

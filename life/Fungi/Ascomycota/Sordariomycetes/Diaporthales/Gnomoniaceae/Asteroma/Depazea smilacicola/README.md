@@ -1,5 +1,4 @@
-Depazea smilacicola Rabenh. SPECIES
-=======
+# Depazea smilacicola Rabenh. SPECIES
 
 #### Status
 ACCEPTED

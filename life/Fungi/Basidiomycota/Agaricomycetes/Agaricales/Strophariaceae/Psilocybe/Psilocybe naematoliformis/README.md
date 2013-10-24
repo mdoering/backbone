@@ -1,5 +1,4 @@
-Psilocybe naematoliformis Guzmán SPECIES
-=======
+# Psilocybe naematoliformis Guzmán SPECIES
 
 #### Status
 ACCEPTED

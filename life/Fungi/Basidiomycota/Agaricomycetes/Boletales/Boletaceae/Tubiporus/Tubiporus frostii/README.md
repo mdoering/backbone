@@ -1,5 +1,4 @@
-Tubiporus frostii (J.L. Russell) Imai {?} SPECIES
-=======
+# Tubiporus frostii (J.L. Russell) Imai {?} SPECIES
 
 #### Status
 ACCEPTED

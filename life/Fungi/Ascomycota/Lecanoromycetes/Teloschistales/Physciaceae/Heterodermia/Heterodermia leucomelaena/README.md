@@ -1,17 +1,16 @@
-Heterodermia leucomela var. leucomela VARIETY
-=======
+# Heterodermia leucomelaena (L.) Poelt SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 9: 31 (1965)
 
 #### Original name
-null
+Lichen leucomelas L.
 
 ### Remarks
 null

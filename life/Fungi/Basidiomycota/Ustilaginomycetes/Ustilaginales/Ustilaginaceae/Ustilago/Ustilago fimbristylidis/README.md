@@ -1,8 +1,7 @@
-Ustilago fimbristylis Thüm. SPECIES
-=======
+# Ustilago fimbristylidis Thüm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ustilago fimbristylis Thüm.
+Ustilago fimbristylidis Thüm.
 
 ### Remarks
 null

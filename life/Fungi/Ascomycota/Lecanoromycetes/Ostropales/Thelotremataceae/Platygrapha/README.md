@@ -1,5 +1,4 @@
-Platygrapha GENUS
-=======
+# Platygrapha GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Stigmatella brunnea (Krzemieniewska & Krzemieniewski) McCurdy & Khouw, 1969 SPECIES
-=======
+# Stigmatella erecta (Schröter, 1886) McCurdy, 1971 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

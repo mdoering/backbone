@@ -1,5 +1,4 @@
-Russula esperidis Sarnari SPECIES
-=======
+# Russula esperidis Sarnari SPECIES
 
 #### Status
 ACCEPTED

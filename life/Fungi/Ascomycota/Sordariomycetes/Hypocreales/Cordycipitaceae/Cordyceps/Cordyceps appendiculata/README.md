@@ -1,5 +1,4 @@
-Cordyceps appendiculata Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps appendiculata Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

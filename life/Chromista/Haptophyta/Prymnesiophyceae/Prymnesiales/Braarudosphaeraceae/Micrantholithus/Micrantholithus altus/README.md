@@ -1,5 +1,4 @@
-Micrantholithus altus Bybell & Gartner, 1972 SPECIES
-=======
+# Micrantholithus altus Bybell & Gartner, 1972 SPECIES
 
 #### Status
 ACCEPTED

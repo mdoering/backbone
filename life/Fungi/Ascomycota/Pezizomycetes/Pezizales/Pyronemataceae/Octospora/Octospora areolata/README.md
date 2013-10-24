@@ -1,5 +1,4 @@
-Octospora areolata (Seaver) Yei Z. Wang SPECIES
-=======
+# Octospora areolata (Seaver) Yei Z. Wang SPECIES
 
 #### Status
 ACCEPTED

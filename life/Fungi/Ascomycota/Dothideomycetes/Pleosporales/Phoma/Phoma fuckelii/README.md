@@ -1,5 +1,4 @@
-Phoma fuckelii Sacc. SPECIES
-=======
+# Phoma fuckelii Sacc. SPECIES
 
 #### Status
 ACCEPTED

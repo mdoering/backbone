@@ -1,5 +1,4 @@
-Bryoria Brodo & D. Hawksw. GENUS
-=======
+# Bryoria Brodo & D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

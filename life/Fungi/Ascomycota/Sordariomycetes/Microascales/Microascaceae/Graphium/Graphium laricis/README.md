@@ -1,5 +1,4 @@
-Graphium laricis K. Jacobs, Kirisits & M.J. Wingf. SPECIES
-=======
+# Graphium laricis K. Jacobs, Kirisits & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

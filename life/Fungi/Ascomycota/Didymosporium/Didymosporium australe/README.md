@@ -1,5 +1,4 @@
-Didymosporium australe Sacc. & Trotter SPECIES
-=======
+# Didymosporium australe Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

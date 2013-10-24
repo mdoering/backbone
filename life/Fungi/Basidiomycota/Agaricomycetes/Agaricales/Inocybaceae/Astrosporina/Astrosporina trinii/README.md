@@ -1,5 +1,4 @@
-Astrosporina trinii (Weinm.) Rea SPECIES
-=======
+# Astrosporina trinii (Weinm.) Rea SPECIES
 
 #### Status
 ACCEPTED

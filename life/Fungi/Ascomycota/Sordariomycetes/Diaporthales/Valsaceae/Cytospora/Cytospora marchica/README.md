@@ -1,5 +1,4 @@
-Cytospora marchica Syd. & P. Syd. SPECIES
-=======
+# Cytospora marchica Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium carpinicola Ellis & Dearn. SPECIES
-=======
+# Gloeosporium carpinicola Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

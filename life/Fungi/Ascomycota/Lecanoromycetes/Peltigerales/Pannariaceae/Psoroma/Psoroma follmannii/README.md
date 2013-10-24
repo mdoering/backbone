@@ -1,5 +1,4 @@
-Psoroma follmannii C.W. Dodge SPECIES
-=======
+# Psoroma follmannii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

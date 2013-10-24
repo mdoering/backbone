@@ -1,5 +1,4 @@
-Hygrophorus proximus L. Krieg. SPECIES
-=======
+# Hygrophorus proximus L. Krieg. SPECIES
 
 #### Status
 ACCEPTED

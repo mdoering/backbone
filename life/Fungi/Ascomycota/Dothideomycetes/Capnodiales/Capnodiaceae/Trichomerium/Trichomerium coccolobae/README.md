@@ -1,5 +1,4 @@
-Trichomerium coccolobae Bat. & Cif. SPECIES
-=======
+# Trichomerium coccolobae Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Collema cladodes Tuck. SPECIES
-=======
+# Lempholemma cladodes (Tuck.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. lich. (Amherst) 89 (1872)
+Cat. Lich. Univers. 3: 23 (1924)
 
 #### Original name
 Collema cladodes Tuck.

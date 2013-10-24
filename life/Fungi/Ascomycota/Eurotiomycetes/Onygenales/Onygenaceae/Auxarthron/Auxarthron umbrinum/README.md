@@ -1,17 +1,16 @@
-Gymnoascus umbrinus var. umbrinus Boud. VARIETY
-=======
+# Auxarthron umbrinum (Boud.) G.F. Orr & Plunkett, 1963 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 8: 43 (1892)
+in Orr, Kuehn & Plunkett, Can. J. Bot. 41: 1449 (1963)
 
 #### Original name
-Gymnoascus umbrinus var. umbrinus Boud.
+Gymnoascus umbrinus Boud., 1892
 
 ### Remarks
 null

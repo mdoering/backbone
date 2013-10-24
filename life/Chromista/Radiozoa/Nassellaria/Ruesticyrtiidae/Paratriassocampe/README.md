@@ -1,5 +1,4 @@
-Paratriassocampe Kozur & Mostler, 1994 GENUS
-=======
+# Paratriassocampe Kozur & Mostler, 1994 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea rivularis (Flot.) Hepp SPECIES
-=======
+# Lecidea rivularis (Flot.) Hepp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyrtophorana Strand, 1929 GENUS
-=======
+# Cyrtophorana Strand, 1929 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Haplosporella allamandae V.G. Rao & B.R.D. Yadav SPECIES
-=======
+# Aplosporella allamandae V.G. Rao & B.R.D. Yadav SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cryptog. bot. 2(2-3): 189 (1991)
 
 #### Original name
-Haplosporella allamandae V.G. Rao & B.R.D. Yadav
+Aplosporella allamandae V.G. Rao & B.R.D. Yadav
 
 ### Remarks
 null

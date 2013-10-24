@@ -1,5 +1,4 @@
-Xylographa caulincola Fuckel SPECIES
-=======
+# Xylographa caulincola Fuckel SPECIES
 
 #### Status
 ACCEPTED

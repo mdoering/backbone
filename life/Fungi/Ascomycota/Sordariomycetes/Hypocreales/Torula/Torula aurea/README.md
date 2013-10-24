@@ -1,5 +1,4 @@
-Torula aurea Saito SPECIES
-=======
+# Torula aurea Saito SPECIES
 
 #### Status
 ACCEPTED

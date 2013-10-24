@@ -1,5 +1,4 @@
-Septoria nachitschevanica Teterevn. SPECIES
-=======
+# Septoria nachitschevanica Teterevn. SPECIES
 
 #### Status
 ACCEPTED

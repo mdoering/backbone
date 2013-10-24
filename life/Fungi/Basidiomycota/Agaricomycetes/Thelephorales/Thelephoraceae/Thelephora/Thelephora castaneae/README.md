@@ -1,17 +1,16 @@
-Thelephora castanea Schleich. SPECIES
-=======
+# Thelephora castaneae Schleich. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. eur. (Erlanga) 1: 132 (1822)
 
 #### Original name
-Thelephora castanea Schleich.
+Thelephora castaneae Schleich.
 
 ### Remarks
 null

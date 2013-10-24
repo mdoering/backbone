@@ -1,5 +1,4 @@
-Baltisphaeridium arcuatum Górka, 1969 SPECIES
-=======
+# Baltisphaeridium arcuatum Górka, 1969 SPECIES
 
 #### Status
 ACCEPTED

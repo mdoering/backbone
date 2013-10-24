@@ -1,5 +1,4 @@
-Rhizomorpha palmata Pers. SPECIES
-=======
+# Rhizomorpha palmata Pers. SPECIES
 
 #### Status
 ACCEPTED

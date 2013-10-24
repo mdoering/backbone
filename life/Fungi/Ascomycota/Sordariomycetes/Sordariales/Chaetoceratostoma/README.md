@@ -1,5 +1,4 @@
-Chaetoceratostoma GENUS
-=======
+# Chaetoceratostoma GENUS
 
 #### Status
 ACCEPTED

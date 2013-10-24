@@ -1,5 +1,4 @@
-Anophryoides haemophila SPECIES
-=======
+# Anophryoides haemophila SPECIES
 
 #### Status
 ACCEPTED

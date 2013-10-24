@@ -1,5 +1,4 @@
-Chroomonas collegionis R. Butcher ex D.R.A. Hill SPECIES
-=======
+# Chroomonas collegionis R. Butcher ex D.R.A. Hill SPECIES
 
 #### Status
 ACCEPTED

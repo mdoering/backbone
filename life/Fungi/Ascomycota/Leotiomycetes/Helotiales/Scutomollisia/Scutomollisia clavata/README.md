@@ -1,5 +1,4 @@
-Scutomollisia clavata B. Hein & Scheuer, 1986 SPECIES
-=======
+# Scutomollisia clavata B. Hein & Scheuer, 1986 SPECIES
 
 #### Status
 ACCEPTED

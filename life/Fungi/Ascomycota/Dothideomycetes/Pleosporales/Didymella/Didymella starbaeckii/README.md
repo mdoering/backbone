@@ -1,5 +1,4 @@
-Didymella starbaeckii Syd. {?} SPECIES
-=======
+# Didymella starbaeckii Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

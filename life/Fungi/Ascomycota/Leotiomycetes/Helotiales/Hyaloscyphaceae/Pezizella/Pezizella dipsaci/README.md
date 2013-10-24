@@ -1,5 +1,4 @@
-Pezizella dipsaci Velen. SPECIES
-=======
+# Pezizella dipsaci Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella graminum (Sacc. & Scalia) Lavrov SPECIES
-=======
+# Mycosphaerella graminum (Sacc. & Scalia) Lavrov SPECIES
 
 #### Status
 ACCEPTED

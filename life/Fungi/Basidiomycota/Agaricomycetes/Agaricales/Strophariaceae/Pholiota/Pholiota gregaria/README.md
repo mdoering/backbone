@@ -1,5 +1,4 @@
-Pholiota gregaria (Wettst.) Sacc. SPECIES
-=======
+# Pholiota gregaria (Wettst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

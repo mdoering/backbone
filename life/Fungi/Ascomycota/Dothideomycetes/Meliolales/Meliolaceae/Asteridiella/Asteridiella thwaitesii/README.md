@@ -1,5 +1,4 @@
-Asteridiella thwaitesii (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella thwaitesii (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

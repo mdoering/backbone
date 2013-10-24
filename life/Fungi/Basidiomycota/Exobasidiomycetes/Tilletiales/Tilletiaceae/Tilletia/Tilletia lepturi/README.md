@@ -1,5 +1,4 @@
-Tilletia lepturi Sigr. ex Vánky, 1991 SPECIES
-=======
+# Tilletia lepturi Sigr. ex Vánky, 1991 SPECIES
 
 #### Status
 ACCEPTED

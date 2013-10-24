@@ -1,5 +1,4 @@
-Crossopsora aganosmae Syd. SPECIES
-=======
+# Crossopsora aganosmae Syd. SPECIES
 
 #### Status
 ACCEPTED

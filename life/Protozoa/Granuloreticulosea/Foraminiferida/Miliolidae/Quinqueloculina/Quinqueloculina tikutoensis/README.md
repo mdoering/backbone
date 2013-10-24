@@ -1,5 +1,4 @@
-Quinqueloculina tikutoensis Nakamua SPECIES
-=======
+# Quinqueloculina tikutoensis Nakamua SPECIES
 
 #### Status
 ACCEPTED

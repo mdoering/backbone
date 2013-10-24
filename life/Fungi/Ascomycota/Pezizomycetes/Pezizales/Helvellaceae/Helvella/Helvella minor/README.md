@@ -1,5 +1,4 @@
-Helvella minor (Velen.) Rauschert SPECIES
-=======
+# Helvella minor (Velen.) Rauschert SPECIES
 
 #### Status
 ACCEPTED

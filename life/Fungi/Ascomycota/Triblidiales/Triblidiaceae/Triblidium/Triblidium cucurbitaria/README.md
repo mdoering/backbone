@@ -1,8 +1,7 @@
-Tryblidium cucurbitaria Rehm SPECIES
-=======
+# Triblidium cucurbitaria Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tryblidium cucurbitaria Rehm
+Triblidium cucurbitaria Rehm
 
 ### Remarks
 null

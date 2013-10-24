@@ -1,14 +1,13 @@
-Doassansia kamatii (S.B. Thakur) Vánky, 1981 SPECIES
-=======
+# Burrillia kamatii S.B. Thakur, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 34: 170 (1981)
+Curr. Sci. 44(13): 482 (1975)
 
 #### Original name
 Burrillia kamatii S.B. Thakur, 1975

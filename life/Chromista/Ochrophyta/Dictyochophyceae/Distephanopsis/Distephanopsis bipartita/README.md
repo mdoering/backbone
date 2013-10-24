@@ -1,5 +1,4 @@
-Distephanopsis bipartita (Ehrenberg) T. V. Desikachary & P. Prema SPECIES
-=======
+# Distephanopsis bipartita (Ehrenberg) T. V. Desikachary & P. Prema SPECIES
 
 #### Status
 ACCEPTED

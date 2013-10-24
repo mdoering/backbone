@@ -1,17 +1,16 @@
-Melanoleuca arcuata var. arcuata VARIETY
-=======
+# Melanoleuca arcuata (Bull.) Singer, 1935 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Contr. Inst. bot. Univ. Montreal 7: 128 (1935)
 
 #### Original name
-Melanoleuca arcuata var. arcuata
+Agaricus arcuatus Bull., 1790
 
 ### Remarks
 null

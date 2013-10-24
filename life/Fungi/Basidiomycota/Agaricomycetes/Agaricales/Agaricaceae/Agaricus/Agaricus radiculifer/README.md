@@ -1,17 +1,16 @@
-Agaricus radiculiferus Schulzer SPECIES
-=======
+# Agaricus radiculifer Schulzer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Verh. zool. -bot. Ges. Wein 30: 494 (1881)
 
 #### Original name
-Agaricus radiculiferus Schulzer
+Agaricus radiculifer Schulzer
 
 ### Remarks
 null

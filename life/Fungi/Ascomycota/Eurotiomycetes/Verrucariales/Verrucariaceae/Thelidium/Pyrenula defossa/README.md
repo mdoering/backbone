@@ -1,5 +1,4 @@
-Pyrenula defossa Müll. Arg., 1882 SPECIES
-=======
+# Pyrenula defossa Müll. Arg., 1882 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Rhodophyllus chlorospilus Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus chlorospilus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

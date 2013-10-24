@@ -1,5 +1,4 @@
-Stereocaulon sorediiphyllum M.R. Huang & J.C. Wei SPECIES
-=======
+# Stereocaulon sorediiphyllum M.R. Huang & J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

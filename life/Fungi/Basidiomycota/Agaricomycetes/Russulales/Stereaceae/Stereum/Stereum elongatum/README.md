@@ -1,5 +1,4 @@
-Stereum elongatum Lloyd SPECIES
-=======
+# Stereum elongatum Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora cryptotaeniae Dearn. SPECIES
-=======
+# Cercospora cryptotaeniae Dearn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dactylococcopsis montana W. West & G.S. West SPECIES
-=======
+# Dactylococcopsis montana W. West & G.S. West SPECIES
 
 #### Status
 ACCEPTED

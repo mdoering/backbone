@@ -1,5 +1,4 @@
-Tarichium pusillum Balazy & J. Wisn. SPECIES
-=======
+# Tarichium pusillum Balazy & J. Wisn. SPECIES
 
 #### Status
 ACCEPTED

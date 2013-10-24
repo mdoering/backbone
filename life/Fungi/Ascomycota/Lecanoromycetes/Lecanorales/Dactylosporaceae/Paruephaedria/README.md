@@ -1,5 +1,4 @@
-Paruephaedria GENUS
-=======
+# Paruephaedria GENUS
 
 #### Status
 ACCEPTED

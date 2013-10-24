@@ -1,5 +1,4 @@
-Latifolliculina incolorea Hadzi, 1951 SPECIES
-=======
+# Latifolliculina incolorea Hadzi, 1951 SPECIES
 
 #### Status
 ACCEPTED

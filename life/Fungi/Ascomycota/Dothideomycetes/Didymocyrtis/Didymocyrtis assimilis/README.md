@@ -1,5 +1,4 @@
-Didymocyrtis assimilis Vain. SPECIES
-=======
+# Didymocyrtis assimilis Vain. SPECIES
 
 #### Status
 ACCEPTED

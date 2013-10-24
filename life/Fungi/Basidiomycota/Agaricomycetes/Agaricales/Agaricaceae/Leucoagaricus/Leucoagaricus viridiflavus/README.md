@@ -1,5 +1,4 @@
-Leucoagaricus viridiflavus (Petch) T.K.A. Kumar & Manim. SPECIES
-=======
+# Leucoagaricus viridiflavus (Petch) T.K.A. Kumar & Manim. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xerocomus sylvestris (Petch) Pegler SPECIES
-=======
+# Xerocomus sylvestris (Petch) Pegler SPECIES
 
 #### Status
 ACCEPTED

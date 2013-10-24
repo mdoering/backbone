@@ -1,14 +1,13 @@
-Collemopsis arnoldiana (Hepp) Cromb. SPECIES
-=======
+# Lemmopsis arnoldiana (Hepp) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Teil. <b>I</b> 1*: 171 (1906)
 
 #### Original name
 Physma arnoldianum Hepp

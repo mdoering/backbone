@@ -1,5 +1,4 @@
-Glenodiniopsis uliginosa (A.J. Schilling) Woloszynska SPECIES
-=======
+# Glenodiniopsis uliginosa (A.J. Schilling) Woloszynska SPECIES
 
 #### Status
 ACCEPTED

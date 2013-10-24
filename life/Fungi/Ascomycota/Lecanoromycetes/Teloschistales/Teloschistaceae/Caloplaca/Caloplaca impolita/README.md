@@ -1,5 +1,4 @@
-Caloplaca impolita Arup SPECIES
-=======
+# Caloplaca impolita Arup SPECIES
 
 #### Status
 ACCEPTED

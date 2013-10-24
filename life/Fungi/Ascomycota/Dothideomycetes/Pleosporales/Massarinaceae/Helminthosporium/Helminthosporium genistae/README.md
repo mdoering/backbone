@@ -1,17 +1,16 @@
-Helmisporium genistae Fr. SPECIES
-=======
+# Helminthosporium genistae Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syst. mycol. (Lundae) 3(2): 360 (1832)
 
 #### Original name
-Helmisporium genistae Fr.
+Helminthosporium genistae Fr.
 
 ### Remarks
 null

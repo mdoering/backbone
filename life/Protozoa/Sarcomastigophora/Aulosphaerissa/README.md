@@ -1,5 +1,4 @@
-Aulosphaerissa Haeckel, 1887 GENUS
-=======
+# Aulosphaerissa Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

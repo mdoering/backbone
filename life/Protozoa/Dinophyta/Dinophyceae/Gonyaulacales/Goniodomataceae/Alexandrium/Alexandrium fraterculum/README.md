@@ -1,5 +1,4 @@
-Alexandrium fraterculum (E. Balech) E. Balech SPECIES
-=======
+# Alexandrium fraterculum (E. Balech) E. Balech SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trametes pribramensis Pilát SPECIES
-=======
+# Trametes pribramensis Pilát SPECIES
 
 #### Status
 ACCEPTED

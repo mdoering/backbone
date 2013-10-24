@@ -1,5 +1,4 @@
-Myosporidium merluccius E. Baquero, M. Rubio, I.N.S. Moura, N.J. Pieniazek & R. Jordana SPECIES
-=======
+# Myosporidium merluccius E. Baquero, M. Rubio, I.N.S. Moura, N.J. Pieniazek & R. Jordana SPECIES
 
 #### Status
 ACCEPTED

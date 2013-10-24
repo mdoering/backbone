@@ -1,5 +1,4 @@
-Gibellula araneicola Sawada SPECIES
-=======
+# Gibellula araneicola Sawada SPECIES
 
 #### Status
 ACCEPTED

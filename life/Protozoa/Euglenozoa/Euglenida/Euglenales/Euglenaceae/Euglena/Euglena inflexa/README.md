@@ -1,5 +1,4 @@
-Euglena inflexa I. Kisselev SPECIES
-=======
+# Euglena inflexa I. Kisselev SPECIES
 
 #### Status
 ACCEPTED

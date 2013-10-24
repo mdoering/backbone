@@ -1,14 +1,13 @@
-Erynia castrans (A. Batko & Weiser) Remaud. & S. Keller, 1980 SPECIES
-=======
+# Strongwellsea castrans A. Batko & Weiser, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 11(1): 333 (1980)
+J. Invert. Path. 7: 463 (1965)
 
 #### Original name
 Strongwellsea castrans A. Batko & Weiser, 1965

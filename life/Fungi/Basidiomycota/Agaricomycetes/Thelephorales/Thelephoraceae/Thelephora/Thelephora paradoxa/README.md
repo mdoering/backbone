@@ -1,5 +1,4 @@
-Thelephora paradoxa Lév. SPECIES
-=======
+# Thelephora paradoxa Lév. SPECIES
 
 #### Status
 ACCEPTED

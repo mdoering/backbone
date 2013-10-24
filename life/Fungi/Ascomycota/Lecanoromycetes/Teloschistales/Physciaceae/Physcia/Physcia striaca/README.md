@@ -1,5 +1,4 @@
-Physcia striaca Poelt SPECIES
-=======
+# Physcia striaca Poelt SPECIES
 
 #### Status
 ACCEPTED

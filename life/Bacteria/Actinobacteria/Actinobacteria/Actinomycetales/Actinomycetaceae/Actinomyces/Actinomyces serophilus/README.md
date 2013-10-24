@@ -1,5 +1,4 @@
-Actinomyces serophilus Sartory & A. Bailly SPECIES
-=======
+# Actinomyces serophilus Sartory & A. Bailly SPECIES
 
 #### Status
 ACCEPTED

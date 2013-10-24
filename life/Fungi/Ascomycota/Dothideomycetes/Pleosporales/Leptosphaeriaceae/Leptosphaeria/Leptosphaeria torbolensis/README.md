@@ -1,5 +1,4 @@
-Leptosphaeria torbolensis Kirschst. SPECIES
-=======
+# Leptosphaeria torbolensis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphileptus ensiformis SPECIES
-=======
+# Amphileptus ensiformis SPECIES
 
 #### Status
 ACCEPTED

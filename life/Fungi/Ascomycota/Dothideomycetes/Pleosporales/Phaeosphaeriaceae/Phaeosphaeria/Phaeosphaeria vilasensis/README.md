@@ -1,5 +1,4 @@
-Phaeosphaeria vilasensis Fallah, Shearer & Leuchtm. SPECIES
-=======
+# Phaeosphaeria vilasensis Fallah, Shearer & Leuchtm. SPECIES
 
 #### Status
 ACCEPTED

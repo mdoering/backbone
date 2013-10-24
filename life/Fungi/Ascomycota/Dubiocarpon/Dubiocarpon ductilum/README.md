@@ -1,5 +1,4 @@
-Dubiocarpon ductilum Stubblef., T.N. Taylor, C.E. Mill. & G.T. Cole SPECIES
-=======
+# Dubiocarpon ductilum Stubblef., T.N. Taylor, C.E. Mill. & G.T. Cole SPECIES
 
 #### Status
 ACCEPTED

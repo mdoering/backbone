@@ -1,5 +1,4 @@
-Cyttarocylis inflexa SPECIES
-=======
+# Cyttarocylis inflexa SPECIES
 
 #### Status
 ACCEPTED

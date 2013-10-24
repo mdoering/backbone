@@ -1,5 +1,4 @@
-Reduviasporonites curvatus (Ambwani) Kalgutkar & Janson. SPECIES
-=======
+# Reduviasporonites curvatus (Ambwani) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

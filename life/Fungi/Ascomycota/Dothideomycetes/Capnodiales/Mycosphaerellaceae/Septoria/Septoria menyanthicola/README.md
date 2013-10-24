@@ -1,5 +1,4 @@
-Septoria menyanthicola Priest SPECIES
-=======
+# Septoria menyanthicola Priest SPECIES
 
 #### Status
 ACCEPTED

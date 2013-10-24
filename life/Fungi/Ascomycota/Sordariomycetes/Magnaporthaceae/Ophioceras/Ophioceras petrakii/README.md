@@ -1,5 +1,4 @@
-Ophioceras petrakii Tilak, S.B. Kale & S.V.S. Kale SPECIES
-=======
+# Ophioceras petrakii Tilak, S.B. Kale & S.V.S. Kale SPECIES
 
 #### Status
 ACCEPTED

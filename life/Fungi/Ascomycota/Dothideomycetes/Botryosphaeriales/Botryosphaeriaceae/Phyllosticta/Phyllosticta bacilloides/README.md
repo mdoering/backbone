@@ -1,5 +1,4 @@
-Phyllosticta bacilloides Dominik SPECIES
-=======
+# Phyllosticta bacilloides Dominik SPECIES
 
 #### Status
 ACCEPTED

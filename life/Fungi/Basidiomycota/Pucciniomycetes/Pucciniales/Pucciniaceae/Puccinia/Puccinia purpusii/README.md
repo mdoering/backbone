@@ -1,5 +1,4 @@
-Puccinia purpusii Henn. SPECIES
-=======
+# Puccinia purpusii Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella acervata var. acervata VARIETY
-=======
+# Asteridiella acervata (Ellis & Everh.) Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Sydowia 10: 46 (1957)
 
 #### Original name
-Asteridiella acervata var. acervata
+Meliola acervata Ellis & Everh.
 
 ### Remarks
 null

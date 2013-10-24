@@ -1,5 +1,4 @@
-Phlegmacium rhaebopus M.M. Moser SPECIES
-=======
+# Phlegmacium rhaebopus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

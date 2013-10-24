@@ -1,5 +1,4 @@
-Pyrenula cerina Eschw., 1824 SPECIES
-=======
+# Pyrenula cerina Eschw., 1824 SPECIES
 
 #### Status
 DOUBTFUL

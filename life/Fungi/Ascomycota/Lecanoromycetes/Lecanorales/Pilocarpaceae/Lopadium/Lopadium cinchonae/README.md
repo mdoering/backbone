@@ -1,5 +1,4 @@
-Lopadium cinchonae (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Lopadium cinchonae (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

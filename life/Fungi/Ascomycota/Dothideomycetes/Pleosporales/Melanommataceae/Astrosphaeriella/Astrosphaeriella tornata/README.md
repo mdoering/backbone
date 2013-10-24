@@ -1,17 +1,16 @@
-Trematosphaeria tornata (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Astrosphaeriella tornata (Berk. & M.A. Curtis) D. Hawksw. & Boise, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 38: 119 (1986)
 
 #### Original name
-null
+Sphaeria tornata Berk. & M.A. Curtis
 
 ### Remarks
 null

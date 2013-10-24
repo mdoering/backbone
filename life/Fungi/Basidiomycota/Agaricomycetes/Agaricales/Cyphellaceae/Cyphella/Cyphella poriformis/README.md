@@ -1,5 +1,4 @@
-Cyphella poriformis Henn. SPECIES
-=======
+# Cyphella poriformis Henn. SPECIES
 
 #### Status
 ACCEPTED

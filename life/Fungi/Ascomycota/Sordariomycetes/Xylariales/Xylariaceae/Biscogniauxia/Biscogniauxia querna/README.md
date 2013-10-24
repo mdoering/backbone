@@ -1,5 +1,4 @@
-Biscogniauxia querna Pouzar, 1986 SPECIES
-=======
+# Biscogniauxia querna Pouzar, 1986 SPECIES
 
 #### Status
 ACCEPTED

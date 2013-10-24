@@ -1,5 +1,4 @@
-Phyllachora crotonicola Pat., 1893 SPECIES
-=======
+# Phyllachora crotonicola Pat., 1893 SPECIES
 
 #### Status
 ACCEPTED

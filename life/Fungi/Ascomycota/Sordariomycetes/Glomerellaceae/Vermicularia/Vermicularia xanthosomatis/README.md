@@ -1,5 +1,4 @@
-Vermicularia xanthosomatis Sacc. SPECIES
-=======
+# Vermicularia xanthosomatis Sacc. SPECIES
 
 #### Status
 ACCEPTED

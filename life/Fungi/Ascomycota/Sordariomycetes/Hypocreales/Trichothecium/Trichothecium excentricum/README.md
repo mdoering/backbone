@@ -1,5 +1,4 @@
-Trichothecium excentricum Matsush. SPECIES
-=======
+# Trichothecium excentricum Matsush. SPECIES
 
 #### Status
 ACCEPTED

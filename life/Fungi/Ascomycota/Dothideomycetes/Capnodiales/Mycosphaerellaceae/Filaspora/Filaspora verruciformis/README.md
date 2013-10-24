@@ -1,5 +1,4 @@
-Filaspora verruciformis (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Filaspora verruciformis (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

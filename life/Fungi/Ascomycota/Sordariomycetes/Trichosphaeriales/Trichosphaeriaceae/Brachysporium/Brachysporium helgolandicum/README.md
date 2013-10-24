@@ -1,5 +1,4 @@
-Brachysporium helgolandicum Schaumann, 1973 SPECIES
-=======
+# Brachysporium helgolandicum Schaumann, 1973 SPECIES
 
 #### Status
 ACCEPTED

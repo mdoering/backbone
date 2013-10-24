@@ -1,14 +1,13 @@
-Polyrhizium leptophyae (Giard) Giard SPECIES
-=======
+# Polyrhizium leptophyei (Giard) Giard SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Contr. biol. Lab. Sci. Soc. China Bot. 20: 217 (1889)
 
 #### Original name
 Metarhizium leptophyei Giard

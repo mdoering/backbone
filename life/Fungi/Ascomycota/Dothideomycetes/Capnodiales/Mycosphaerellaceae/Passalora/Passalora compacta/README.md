@@ -1,5 +1,4 @@
-Passalora compacta (Berk. & M.A. Curtis) Poonam Srivast. SPECIES
-=======
+# Passalora compacta (Berk. & M.A. Curtis) Poonam Srivast. SPECIES
 
 #### Status
 ACCEPTED

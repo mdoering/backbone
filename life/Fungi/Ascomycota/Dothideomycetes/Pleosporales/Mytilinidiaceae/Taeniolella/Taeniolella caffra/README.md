@@ -1,17 +1,16 @@
-Taeniolella caffera Matsush. SPECIES
-=======
+# Taeniolella caffra Matsush. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Matsush. Mycol. Mem. 9: 27 (1996)
 
 #### Original name
-Taeniolella caffera Matsush.
+Taeniolella caffra Matsush.
 
 ### Remarks
 null

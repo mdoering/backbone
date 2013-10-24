@@ -1,17 +1,16 @@
-Steganosporium phragmitis Kurbans. SPECIES
-=======
+# Stegonsporium phragmitis Kurbans. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nov. sist. Niz. Rast. 17: 45 (1980)
 
 #### Original name
-Steganosporium phragmitis Kurbans.
+Stegonsporium phragmitis Kurbans.
 
 ### Remarks
 null

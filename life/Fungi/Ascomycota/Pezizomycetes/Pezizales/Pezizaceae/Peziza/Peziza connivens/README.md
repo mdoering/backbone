@@ -1,5 +1,4 @@
-Peziza connivens Mart. SPECIES
-=======
+# Peziza connivens Mart. SPECIES
 
 #### Status
 ACCEPTED

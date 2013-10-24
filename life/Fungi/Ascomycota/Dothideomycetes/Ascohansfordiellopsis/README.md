@@ -1,5 +1,4 @@
-Ascohansfordiellopsis GENUS
-=======
+# Ascohansfordiellopsis GENUS
 
 #### Status
 ACCEPTED

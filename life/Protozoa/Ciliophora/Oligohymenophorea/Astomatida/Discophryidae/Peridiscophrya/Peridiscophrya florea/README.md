@@ -1,8 +1,7 @@
-Discophrya florea (Kormos J. & Kormos K., 1958) Matthes, 1988 SPECIES
-=======
+# Peridiscophrya florea (Kormos J. & Kormos K., 1958) Dovgal, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

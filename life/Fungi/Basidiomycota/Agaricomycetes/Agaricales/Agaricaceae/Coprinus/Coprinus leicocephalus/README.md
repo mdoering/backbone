@@ -1,5 +1,4 @@
-Coprinus leicocephalus P.D. Orton, 1969 SPECIES
-=======
+# Coprinus leicocephalus P.D. Orton, 1969 SPECIES
 
 #### Status
 ACCEPTED

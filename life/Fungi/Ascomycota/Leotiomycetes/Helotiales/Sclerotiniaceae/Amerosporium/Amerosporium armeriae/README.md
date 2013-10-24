@@ -1,5 +1,4 @@
-Amerosporium armeriae Henn. SPECIES
-=======
+# Amerosporium armeriae Henn. SPECIES
 
 #### Status
 ACCEPTED

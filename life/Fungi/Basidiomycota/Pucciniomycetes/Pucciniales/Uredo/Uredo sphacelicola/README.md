@@ -1,5 +1,4 @@
-Uredo sphacelicola Dietel & Holw. SPECIES
-=======
+# Uredo sphacelicola Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

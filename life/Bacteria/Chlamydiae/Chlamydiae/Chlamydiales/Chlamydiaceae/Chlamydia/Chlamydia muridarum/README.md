@@ -1,5 +1,4 @@
-Chlamydia muridarum Everett et al., 1999 SPECIES
-=======
+# Chlamydia muridarum Everett et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

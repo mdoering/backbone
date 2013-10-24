@@ -1,5 +1,4 @@
-Hebeloma aminophilum R.N. Hilton & O.K. Mill., 1987 SPECIES
-=======
+# Hebeloma aminophilum R.N. Hilton & O.K. Mill., 1987 SPECIES
 
 #### Status
 ACCEPTED

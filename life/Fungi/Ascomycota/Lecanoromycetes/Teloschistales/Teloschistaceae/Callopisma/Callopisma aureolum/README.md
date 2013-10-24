@@ -1,5 +1,4 @@
-Callopisma aureolum SPECIES
-=======
+# Callopisma aureolum SPECIES
 
 #### Status
 ACCEPTED

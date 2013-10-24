@@ -1,14 +1,13 @@
-Phyllosticta burserae Gonz. Frag. & Cif., 1927 SPECIES
-=======
+# Asteromella burserae (Gonz. Frag. & Cif.) Syd., 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rep. Dominic. Est. Agron. Haina, Ser. B, Bot. Bull. 8: 35 (1927)
+Annls mycol. 28(1/2): 175 (1930)
 
 #### Original name
 Phyllosticta burserae Gonz. Frag. & Cif., 1927

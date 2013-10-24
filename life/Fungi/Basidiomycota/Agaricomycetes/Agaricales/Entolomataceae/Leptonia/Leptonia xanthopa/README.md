@@ -1,5 +1,4 @@
-Leptonia xanthopa Velen. SPECIES
-=======
+# Leptonia xanthopa Velen. SPECIES
 
 #### Status
 ACCEPTED

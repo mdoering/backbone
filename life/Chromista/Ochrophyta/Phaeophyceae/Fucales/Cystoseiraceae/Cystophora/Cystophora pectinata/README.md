@@ -1,5 +1,4 @@
-Cystophora pectinata (Greville & C. Agardh ex Sonder) J. Agardh SPECIES
-=======
+# Cystophora pectinata (Greville & C. Agardh ex Sonder) J. Agardh SPECIES
 
 #### Status
 ACCEPTED

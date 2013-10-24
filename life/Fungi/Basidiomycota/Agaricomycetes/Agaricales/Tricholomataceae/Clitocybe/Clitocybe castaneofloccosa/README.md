@@ -1,5 +1,4 @@
-Clitocybe castaneofloccosa S. Ito & S. Imai SPECIES
-=======
+# Clitocybe castaneofloccosa S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

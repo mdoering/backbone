@@ -1,5 +1,4 @@
-Paxina platypodia (Boud.) Seaver SPECIES
-=======
+# Paxina platypodia (Boud.) Seaver SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotium yuccae Roum. SPECIES
-=======
+# Sclerotium yuccae Roum. SPECIES
 
 #### Status
 ACCEPTED

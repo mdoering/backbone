@@ -1,5 +1,4 @@
-Cercospora tragopogonis Ellis & Everh. SPECIES
-=======
+# Cercospora tragopogonis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

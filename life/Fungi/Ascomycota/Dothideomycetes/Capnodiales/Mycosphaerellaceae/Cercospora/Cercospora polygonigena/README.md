@@ -1,5 +1,4 @@
-Cercospora polygonigena J.M. Yen SPECIES
-=======
+# Cercospora polygonigena J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

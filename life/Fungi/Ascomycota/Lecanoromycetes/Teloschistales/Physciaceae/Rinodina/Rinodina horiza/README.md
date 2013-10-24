@@ -1,5 +1,4 @@
-Rinodina horiza var. horiza VARIETY
-=======
+# Rinodina horiza Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rinodina horiza var. horiza
+Rinodina horiza Müll. Arg.
 
 ### Remarks
 null

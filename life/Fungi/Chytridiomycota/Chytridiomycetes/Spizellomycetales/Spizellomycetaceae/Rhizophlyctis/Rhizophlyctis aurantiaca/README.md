@@ -1,5 +1,4 @@
-Rhizophlyctis aurantiaca Dogma SPECIES
-=======
+# Rhizophlyctis aurantiaca Dogma SPECIES
 
 #### Status
 ACCEPTED

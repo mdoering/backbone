@@ -1,5 +1,4 @@
-Trachelolophos gigas Foissner & Dragesco, 1996 SPECIES
-=======
+# Trachelolophos gigas Foissner & Dragesco, 1996 SPECIES
 
 #### Status
 ACCEPTED

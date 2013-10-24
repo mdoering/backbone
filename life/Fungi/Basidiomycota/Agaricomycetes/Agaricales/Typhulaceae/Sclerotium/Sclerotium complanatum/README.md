@@ -1,5 +1,4 @@
-Sclerotium complanatum Tode, 1790 SPECIES
-=======
+# Sclerotium complanatum Tode, 1790 SPECIES
 
 #### Status
 ACCEPTED

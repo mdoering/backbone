@@ -1,5 +1,4 @@
-Polyporellus putidus (Fr.) P. Karst. SPECIES
-=======
+# Polyporellus putidus (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

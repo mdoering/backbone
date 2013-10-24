@@ -1,5 +1,4 @@
-Marasmius coracipes Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius coracipes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

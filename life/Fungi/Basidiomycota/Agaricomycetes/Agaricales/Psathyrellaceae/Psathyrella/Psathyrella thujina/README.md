@@ -1,5 +1,4 @@
-Psathyrella thujina A.H. Sm. SPECIES
-=======
+# Psathyrella thujina A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

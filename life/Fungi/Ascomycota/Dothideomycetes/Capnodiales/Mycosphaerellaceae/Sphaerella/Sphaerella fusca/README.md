@@ -1,5 +1,4 @@
-Sphaerella fusca Pass. SPECIES
-=======
+# Sphaerella fusca Pass. SPECIES
 
 #### Status
 ACCEPTED

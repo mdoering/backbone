@@ -1,5 +1,4 @@
-Polyporus pyrrhocreas Cooke SPECIES
-=======
+# Polyporus pyrrhocreas Cooke SPECIES
 
 #### Status
 ACCEPTED

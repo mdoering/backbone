@@ -1,5 +1,4 @@
-Stradnerlithus escovillensis (Rood & Barnard, 1972) Medd, 1979 SPECIES
-=======
+# Stradnerlithus escovillensis (Rood & Barnard, 1972) Medd, 1979 SPECIES
 
 #### Status
 ACCEPTED

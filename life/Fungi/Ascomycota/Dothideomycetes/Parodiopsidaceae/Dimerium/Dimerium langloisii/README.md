@@ -1,5 +1,4 @@
-Dimerium langloisii (Ellis & G. Martin) Sacc. & P. Syd. SPECIES
-=======
+# Dimerium langloisii (Ellis & G. Martin) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

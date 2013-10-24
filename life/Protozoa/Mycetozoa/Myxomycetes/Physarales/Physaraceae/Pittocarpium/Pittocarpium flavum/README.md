@@ -1,5 +1,4 @@
-Pittocarpium flavum Link SPECIES
-=======
+# Pittocarpium flavum Link SPECIES
 
 #### Status
 ACCEPTED

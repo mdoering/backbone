@@ -1,5 +1,4 @@
-Sphaceloma viticis Bitanc. & Jenkins SPECIES
-=======
+# Sphaceloma viticis Bitanc. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

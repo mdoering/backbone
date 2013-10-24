@@ -1,5 +1,4 @@
-Cytospora decorticans Sacc., 1884 SPECIES
-=======
+# Cytospora decorticans Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED

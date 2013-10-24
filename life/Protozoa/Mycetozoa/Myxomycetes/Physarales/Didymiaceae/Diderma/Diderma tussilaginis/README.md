@@ -1,5 +1,4 @@
-Diderma tussilaginis (Berk. & Broome) Kuntze SPECIES
-=======
+# Diderma tussilaginis (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

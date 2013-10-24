@@ -1,5 +1,4 @@
-Aspidisca tetracirrata subsp. tetracirrata SUBSPECIES
-=======
+# Aspidisca tetracirrata SPECIES
 
 #### Status
 ACCEPTED

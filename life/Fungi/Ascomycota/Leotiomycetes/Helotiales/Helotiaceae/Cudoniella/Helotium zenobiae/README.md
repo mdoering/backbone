@@ -1,5 +1,4 @@
-Helotium zenobiae Velen. SPECIES
-=======
+# Helotium zenobiae Velen. SPECIES
 
 #### Status
 ACCEPTED

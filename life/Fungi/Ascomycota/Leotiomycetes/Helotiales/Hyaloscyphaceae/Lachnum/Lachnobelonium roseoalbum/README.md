@@ -1,5 +1,4 @@
-Lachnobelonium roseoalbum (Rehm) Höhn. SPECIES
-=======
+# Lachnobelonium roseoalbum (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

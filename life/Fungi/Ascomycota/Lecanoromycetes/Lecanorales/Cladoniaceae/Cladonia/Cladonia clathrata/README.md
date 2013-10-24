@@ -1,5 +1,4 @@
-Cladonia clathrata Ahti & L. Xavier SPECIES
-=======
+# Cladonia clathrata Ahti & L. Xavier SPECIES
 
 #### Status
 ACCEPTED

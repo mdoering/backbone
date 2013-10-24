@@ -1,5 +1,4 @@
-Psilopezia rhizinoidis Rehm SPECIES
-=======
+# Psilopezia rhizinoidis Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crepidotus mollinoi Speg. SPECIES
-=======
+# Crepidotus mollinoi Speg. SPECIES
 
 #### Status
 ACCEPTED

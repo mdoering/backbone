@@ -1,5 +1,4 @@
-Enchelydium clepsiniforme SPECIES
-=======
+# Enchelydium clepsiniforme SPECIES
 
 #### Status
 ACCEPTED

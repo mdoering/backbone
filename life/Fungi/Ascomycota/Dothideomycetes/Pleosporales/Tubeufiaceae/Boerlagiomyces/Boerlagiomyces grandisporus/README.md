@@ -1,5 +1,4 @@
-Boerlagiomyces grandisporus S.J. Stanley & K.D. Hyde SPECIES
-=======
+# Boerlagiomyces grandisporus S.J. Stanley & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria pilulifera (Pers.) Nyl. SPECIES
-=======
+# Pertusaria pilulifera (Pers.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

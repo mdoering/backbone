@@ -1,5 +1,4 @@
-Leptopuccinia semota (H.S. Jacks. & Holw.) Syd. SPECIES
-=======
+# Leptopuccinia semota (H.S. Jacks. & Holw.) Syd. SPECIES
 
 #### Status
 ACCEPTED

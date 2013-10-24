@@ -1,5 +1,4 @@
-Aecidium columbiense Ellis & Everh. SPECIES
-=======
+# Aecidium columbiense Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

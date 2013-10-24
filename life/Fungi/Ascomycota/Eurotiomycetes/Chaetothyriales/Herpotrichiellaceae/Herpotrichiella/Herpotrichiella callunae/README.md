@@ -1,5 +1,4 @@
-Herpotrichiella callunae Richit. SPECIES
-=======
+# Herpotrichiella callunae Richit. SPECIES
 
 #### Status
 ACCEPTED

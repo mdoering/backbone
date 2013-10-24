@@ -1,5 +1,4 @@
-Agaricus psilopus Berk. & Broome SPECIES
-=======
+# Agaricus psilopus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

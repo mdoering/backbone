@@ -1,5 +1,4 @@
-Mycterothrix galeata SPECIES
-=======
+# Mycterothrix galeata SPECIES
 
 #### Status
 ACCEPTED

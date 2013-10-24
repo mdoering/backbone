@@ -1,5 +1,4 @@
-Capillaria malvacearum Schwein. SPECIES
-=======
+# Capillaria malvacearum Schwein. SPECIES
 
 #### Status
 ACCEPTED

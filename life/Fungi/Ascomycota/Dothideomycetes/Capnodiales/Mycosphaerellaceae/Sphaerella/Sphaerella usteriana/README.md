@@ -1,5 +1,4 @@
-Sphaerella usteriana Speg. SPECIES
-=======
+# Sphaerella usteriana Speg. SPECIES
 
 #### Status
 ACCEPTED

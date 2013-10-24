@@ -1,5 +1,4 @@
-Galactinia hypoleuca Boud. & Torrend SPECIES
-=======
+# Galactinia hypoleuca Boud. & Torrend SPECIES
 
 #### Status
 ACCEPTED

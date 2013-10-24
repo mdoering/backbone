@@ -1,17 +1,16 @@
-Phyllachora ravennae Nattrass, 1937 SPECIES
-=======
+# Phyllachora dimeriae Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-A First List of Cyprus Fungi 7 (1937)
+Annls mycol. 13(5/6): 447 (1915)
 
 #### Original name
-Phyllachora ravennae Nattrass, 1937
+Phyllachora dimeriae Theiss. & Syd., 1915
 
 ### Remarks
 null

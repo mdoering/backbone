@@ -1,5 +1,4 @@
-Bacidia leucophyllina (Nyl.) Fink SPECIES
-=======
+# Bacidia leucophyllina (Nyl.) Fink SPECIES
 
 #### Status
 ACCEPTED

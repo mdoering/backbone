@@ -1,5 +1,4 @@
-Thecaphora melampodii Durán SPECIES
-=======
+# Thecaphora melampodii Durán SPECIES
 
 #### Status
 ACCEPTED

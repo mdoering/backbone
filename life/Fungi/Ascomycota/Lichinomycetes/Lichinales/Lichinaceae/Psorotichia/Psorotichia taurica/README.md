@@ -1,8 +1,7 @@
-Collemopsis taurica Nyl. SPECIES
-=======
+# Psorotichia taurica (Nyl.) Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

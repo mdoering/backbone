@@ -1,5 +1,4 @@
-Caloplaca tetramera (Müll. Arg.) Imshaug ex Hafellner & Poelt SPECIES
-=======
+# Caloplaca tetramera (Müll. Arg.) Imshaug ex Hafellner & Poelt SPECIES
 
 #### Status
 ACCEPTED

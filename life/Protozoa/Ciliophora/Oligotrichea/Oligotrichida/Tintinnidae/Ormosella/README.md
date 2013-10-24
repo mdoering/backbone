@@ -1,5 +1,4 @@
-Ormosella Kofoid & Campbell, 1929 GENUS
-=======
+# Ormosella Kofoid & Campbell, 1929 GENUS
 
 #### Status
 ACCEPTED

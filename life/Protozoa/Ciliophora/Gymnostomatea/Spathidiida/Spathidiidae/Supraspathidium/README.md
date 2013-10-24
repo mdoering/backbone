@@ -1,5 +1,4 @@
-Supraspathidium Foissner & Didier, 1982 GENUS
-=======
+# Supraspathidium Foissner & Didier, 1982 GENUS
 
 #### Status
 ACCEPTED

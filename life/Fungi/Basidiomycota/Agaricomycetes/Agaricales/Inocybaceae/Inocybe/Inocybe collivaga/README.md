@@ -1,5 +1,4 @@
-Inocybe collivaga Velen. SPECIES
-=======
+# Inocybe collivaga Velen. SPECIES
 
 #### Status
 ACCEPTED

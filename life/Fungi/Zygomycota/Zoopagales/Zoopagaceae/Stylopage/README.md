@@ -1,5 +1,4 @@
-Stylopage Drechsler GENUS
-=======
+# Stylopage Drechsler GENUS
 
 #### Status
 ACCEPTED

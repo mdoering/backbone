@@ -1,5 +1,4 @@
-Peziza grisea Batsch SPECIES
-=======
+# Peziza grisea Batsch SPECIES
 
 #### Status
 ACCEPTED

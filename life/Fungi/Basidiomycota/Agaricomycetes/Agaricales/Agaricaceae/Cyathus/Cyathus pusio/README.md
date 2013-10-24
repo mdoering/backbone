@@ -1,5 +1,4 @@
-Cyathus pusio Berk. SPECIES
-=======
+# Cyathus pusio Berk. SPECIES
 
 #### Status
 ACCEPTED

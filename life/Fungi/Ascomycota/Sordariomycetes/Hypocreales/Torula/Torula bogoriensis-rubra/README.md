@@ -1,5 +1,4 @@
-Torula bogoriensis-rubra De Kruyff SPECIES
-=======
+# Torula bogoriensis-rubra De Kruyff SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Humaria diversispora Speg. SPECIES
-=======
+# Humaria diversispora Speg. SPECIES
 
 #### Status
 ACCEPTED

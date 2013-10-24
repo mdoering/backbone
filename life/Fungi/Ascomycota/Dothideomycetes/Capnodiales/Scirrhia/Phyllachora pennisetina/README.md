@@ -1,8 +1,7 @@
-Phyllachora penniseti-japonici Sawada, 1944 SPECIES
-=======
+# Phyllachora pennisetina Syd., 1922 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

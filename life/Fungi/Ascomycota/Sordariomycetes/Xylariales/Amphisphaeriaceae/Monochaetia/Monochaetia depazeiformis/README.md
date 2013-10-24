@@ -1,8 +1,7 @@
-Monochaetia depazeaeformis (Auersw.) Sacc. SPECIES
-=======
+# Monochaetia depazeiformis (Auersw.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

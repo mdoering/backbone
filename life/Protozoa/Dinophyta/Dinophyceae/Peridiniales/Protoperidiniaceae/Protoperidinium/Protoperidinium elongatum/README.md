@@ -1,5 +1,4 @@
-Protoperidinium elongatum (Meunier, 1910) Balech, 1974 SPECIES
-=======
+# Protoperidinium elongatum (Meunier, 1910) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

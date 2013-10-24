@@ -1,5 +1,4 @@
-Agaricus michelianus Fr. SPECIES
-=======
+# Agaricus michelianus Fr. SPECIES
 
 #### Status
 ACCEPTED

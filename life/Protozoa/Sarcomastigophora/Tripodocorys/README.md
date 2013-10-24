@@ -1,5 +1,4 @@
-Tripodocorys Haeckel, 1881 GENUS
-=======
+# Tripodocorys Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

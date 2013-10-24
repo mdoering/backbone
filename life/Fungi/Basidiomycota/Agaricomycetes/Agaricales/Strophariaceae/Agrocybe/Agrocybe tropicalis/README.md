@@ -1,5 +1,4 @@
-Agrocybe tropicalis (Speg.) Guzmán SPECIES
-=======
+# Agrocybe tropicalis (Speg.) Guzmán SPECIES
 
 #### Status
 ACCEPTED

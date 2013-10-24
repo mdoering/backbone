@@ -1,5 +1,4 @@
-Meridianelia maccarthyana Kantvilas & Lumbsch SPECIES
-=======
+# Meridianelia maccarthyana Kantvilas & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

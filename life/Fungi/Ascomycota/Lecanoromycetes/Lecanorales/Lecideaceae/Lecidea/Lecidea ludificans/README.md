@@ -1,5 +1,4 @@
-Lecidea ludificans H. Magn. SPECIES
-=======
+# Lecidea ludificans H. Magn. SPECIES
 
 #### Status
 ACCEPTED

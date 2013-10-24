@@ -1,5 +1,4 @@
-Stichotricha asensius SPECIES
-=======
+# Stichotricha asensius SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria frusticola (Berk.) Sacc. SPECIES
-=======
+# Naucoria frusticola (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

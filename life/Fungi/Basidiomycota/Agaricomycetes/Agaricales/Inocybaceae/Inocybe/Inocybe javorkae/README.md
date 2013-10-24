@@ -1,5 +1,4 @@
-Inocybe javorkae Babos & Stangl SPECIES
-=======
+# Inocybe javorkae Babos & Stangl SPECIES
 
 #### Status
 ACCEPTED

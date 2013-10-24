@@ -1,5 +1,4 @@
-Oscillatoria exilis Skuja SPECIES
-=======
+# Oscillatoria exilis Skuja SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma rufovinascens Eyssart., Buyck & Courtec. SPECIES
-=======
+# Entoloma rufovinascens Eyssart., Buyck & Courtec. SPECIES
 
 #### Status
 ACCEPTED

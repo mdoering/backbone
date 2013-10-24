@@ -1,5 +1,4 @@
-Thelephora versicolor Sw. SPECIES
-=======
+# Thelephora versicolor Sw. SPECIES
 
 #### Status
 ACCEPTED

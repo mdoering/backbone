@@ -1,5 +1,4 @@
-Gloeodiniopsis lamellosa Schopf, 1968 emend. Knoll & Golubíc, 1979 SPECIES
-=======
+# Gloeodiniopsis lamellosa Schopf, 1968 emend. Knoll & Golubíc, 1979 SPECIES
 
 #### Status
 ACCEPTED

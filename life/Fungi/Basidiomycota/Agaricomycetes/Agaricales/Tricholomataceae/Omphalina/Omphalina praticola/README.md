@@ -1,5 +1,4 @@
-Omphalina praticola Kuyper, Arnolds & P.-J. Keizer SPECIES
-=======
+# Omphalina praticola Kuyper, Arnolds & P.-J. Keizer SPECIES
 
 #### Status
 ACCEPTED

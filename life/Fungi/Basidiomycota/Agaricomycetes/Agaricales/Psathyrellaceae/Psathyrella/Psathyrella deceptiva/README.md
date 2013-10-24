@@ -1,5 +1,4 @@
-Psathyrella deceptiva A.H. Sm. SPECIES
-=======
+# Psathyrella deceptiva A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

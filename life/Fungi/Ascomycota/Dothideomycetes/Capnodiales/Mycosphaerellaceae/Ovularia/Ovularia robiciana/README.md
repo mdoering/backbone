@@ -1,5 +1,4 @@
-Ovularia robiciana W. Voss SPECIES
-=======
+# Ovularia robiciana W. Voss SPECIES
 
 #### Status
 ACCEPTED

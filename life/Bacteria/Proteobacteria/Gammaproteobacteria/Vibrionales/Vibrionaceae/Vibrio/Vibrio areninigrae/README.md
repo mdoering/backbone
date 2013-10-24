@@ -1,5 +1,4 @@
-Vibrio areninigrae Chang, Roh, Kim, Nam, Jeon, Oh & Bae, 2008 SPECIES
-=======
+# Vibrio areninigrae Chang, Roh, Kim, Nam, Jeon, Oh & Bae, 2008 SPECIES
 
 #### Status
 ACCEPTED

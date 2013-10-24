@@ -1,5 +1,4 @@
-Licea retiformis Nawawi, 1973 SPECIES
-=======
+# Licea retiformis Nawawi, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora arnoldii (Hue) Lettau SPECIES
-=======
+# Lecanora arnoldii (Hue) Lettau SPECIES
 
 #### Status
 ACCEPTED

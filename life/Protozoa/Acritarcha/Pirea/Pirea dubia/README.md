@@ -1,5 +1,4 @@
-Pirea dubia Vavrdová, 1972 SPECIES
-=======
+# Pirea dubia Vavrdová, 1972 SPECIES
 
 #### Status
 ACCEPTED

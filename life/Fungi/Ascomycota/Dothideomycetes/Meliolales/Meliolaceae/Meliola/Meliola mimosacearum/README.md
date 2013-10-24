@@ -1,5 +1,4 @@
-Meliola mimosacearum Hansf. SPECIES
-=======
+# Meliola mimosacearum Hansf. SPECIES
 
 #### Status
 ACCEPTED

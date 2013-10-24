@@ -1,5 +1,4 @@
-Vairimorpha cheracis SPECIES
-=======
+# Vairimorpha cheracis SPECIES
 
 #### Status
 ACCEPTED

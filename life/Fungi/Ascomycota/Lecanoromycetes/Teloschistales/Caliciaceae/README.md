@@ -1,17 +1,16 @@
-Buellia biloculata var. immersa Körb. VARIETY
-=======
+# Caliciaceae Chevall. FAMILY
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+IRMNG Homonym List
 
 #### Published in
-null
+Fl. gén. env. Paris (Paris) 1: 314 (1826)
 
 #### Original name
-Buellia biloculata var. immersa Körb.
+Caliciaceae Chevall.
 
 ### Remarks
 null

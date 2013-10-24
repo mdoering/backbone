@@ -1,5 +1,4 @@
-Diaporthe briardiana Sacc. SPECIES
-=======
+# Diaporthe briardiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia helicopis (Wahlenb. ex Ach.) SPECIES
-=======
+# Parmelia helicopis (Wahlenb. ex Ach.) SPECIES
 
 #### Status
 ACCEPTED

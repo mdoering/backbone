@@ -1,5 +1,4 @@
-Ustilago urochloana Zundel SPECIES
-=======
+# Ustilago urochloana Zundel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrgidiomyces bengalensis Cif. & Tomas. SPECIES
-=======
+# Pyrgidiomyces bengalensis Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

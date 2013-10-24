@@ -1,5 +1,4 @@
-Dictyocha soljanii L. Jerkovic SPECIES
-=======
+# Dictyocha soljanii L. Jerkovic SPECIES
 
 #### Status
 ACCEPTED

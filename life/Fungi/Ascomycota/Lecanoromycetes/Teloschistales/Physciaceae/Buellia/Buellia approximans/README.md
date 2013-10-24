@@ -1,5 +1,4 @@
-Buellia approximans (Leight.) Zahlbr. SPECIES
-=======
+# Buellia approximans (Leight.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

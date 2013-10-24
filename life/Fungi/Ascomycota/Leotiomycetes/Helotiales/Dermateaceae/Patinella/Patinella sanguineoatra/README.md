@@ -1,5 +1,4 @@
-Patinella sanguineoatra (Rehm) Sacc. SPECIES
-=======
+# Patinella sanguineoatra (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

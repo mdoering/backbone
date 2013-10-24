@@ -1,5 +1,4 @@
-Macrophoma sphaeropsispora (Ellis & Everh.) Tassi SPECIES
-=======
+# Macrophoma sphaeropsispora (Ellis & Everh.) Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Morchella abietina Leuba SPECIES
-=======
+# Morchella abietina Leuba SPECIES
 
 #### Status
 ACCEPTED

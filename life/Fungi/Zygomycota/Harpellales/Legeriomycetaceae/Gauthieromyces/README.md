@@ -1,5 +1,4 @@
-Gauthieromyces Lichtw. GENUS
-=======
+# Gauthieromyces Lichtw. GENUS
 
 #### Status
 ACCEPTED

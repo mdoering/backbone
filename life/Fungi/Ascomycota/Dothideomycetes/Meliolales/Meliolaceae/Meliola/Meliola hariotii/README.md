@@ -1,5 +1,4 @@
-Meliola hariotii Speg. SPECIES
-=======
+# Meliola hariotii Speg. SPECIES
 
 #### Status
 ACCEPTED

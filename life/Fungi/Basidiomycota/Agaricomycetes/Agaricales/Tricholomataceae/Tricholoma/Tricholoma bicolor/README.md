@@ -1,5 +1,4 @@
-Tricholoma bicolor Murrill SPECIES
-=======
+# Tricholoma bicolor Murrill SPECIES
 
 #### Status
 ACCEPTED

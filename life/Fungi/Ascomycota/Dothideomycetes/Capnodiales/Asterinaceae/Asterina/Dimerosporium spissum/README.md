@@ -1,5 +1,4 @@
-Dimerosporium spissum (Syd.) G. Arnaud SPECIES
-=======
+# Dimerosporium spissum (Syd.) G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

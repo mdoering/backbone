@@ -1,5 +1,4 @@
-Sphaeropezia salicina Naumov SPECIES
-=======
+# Sphaeropezia salicina Naumov SPECIES
 
 #### Status
 ACCEPTED

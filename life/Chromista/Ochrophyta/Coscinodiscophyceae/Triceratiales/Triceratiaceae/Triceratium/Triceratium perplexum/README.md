@@ -1,5 +1,4 @@
-Triceratium perplexum J.A. Long, D.P. Fuge & J. Smith SPECIES
-=======
+# Triceratium perplexum J.A. Long, D.P. Fuge & J. Smith SPECIES
 
 #### Status
 ACCEPTED

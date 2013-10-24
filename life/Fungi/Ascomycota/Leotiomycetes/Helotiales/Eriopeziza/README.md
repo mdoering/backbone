@@ -1,5 +1,4 @@
-Eriopeziza (P.A. Saccardo) Rehm, 1892 GENUS
-=======
+# Eriopeziza (P.A. Saccardo) Rehm, 1892 GENUS
 
 #### Status
 ACCEPTED

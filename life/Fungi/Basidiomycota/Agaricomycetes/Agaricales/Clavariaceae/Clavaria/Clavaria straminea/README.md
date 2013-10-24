@@ -1,5 +1,4 @@
-Clavaria straminea Cotton, 1911 SPECIES
-=======
+# Clavaria straminea Cotton, 1911 SPECIES
 
 #### Status
 ACCEPTED

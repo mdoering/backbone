@@ -1,5 +1,4 @@
-Stigmidium clauzadei Cl. Roux & Nav.-Ros., 1994 SPECIES
-=======
+# Stigmidium clauzadei Cl. Roux & Nav.-Ros., 1994 SPECIES
 
 #### Status
 ACCEPTED

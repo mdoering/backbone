@@ -1,5 +1,4 @@
-Oxytricha pusilla Kahl, 1932 SPECIES
-=======
+# Oxytricha pusilla Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

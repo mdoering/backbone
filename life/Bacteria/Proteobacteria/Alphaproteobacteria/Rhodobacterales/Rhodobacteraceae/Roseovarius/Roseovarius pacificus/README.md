@@ -1,5 +1,4 @@
-Roseovarius pacificus Wang, Tan & Shao, 2009 SPECIES
-=======
+# Roseovarius pacificus Wang, Tan & Shao, 2009 SPECIES
 
 #### Status
 ACCEPTED

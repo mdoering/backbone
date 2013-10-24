@@ -1,17 +1,16 @@
-Palaeoagaracites antiquus Poinar & R. Buckley SPECIES
-=======
+# Palaeoagaricites antiquus Poinar & R. Buckley SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Res. 111(4): 504 + figs 1, 2A (2007)
 
 #### Original name
-Palaeoagaracites antiquus Poinar & R. Buckley
+Palaeoagaricites antiquus Poinar & R. Buckley
 
 ### Remarks
 null

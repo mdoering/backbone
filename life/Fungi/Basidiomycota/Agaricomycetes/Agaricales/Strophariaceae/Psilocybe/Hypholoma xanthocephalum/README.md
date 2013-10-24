@@ -1,14 +1,13 @@
-Psilocybe xanthocephala (P.D. Orton) Noordel., 1995 SPECIES
-=======
+# Hypholoma xanthocephalum P.D. Orton, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 16(1): 129 (1995)
+Notes R. bot. Gdn Edinb. 41(3): 586 (1984)
 
 #### Original name
 Hypholoma xanthocephalum P.D. Orton, 1984

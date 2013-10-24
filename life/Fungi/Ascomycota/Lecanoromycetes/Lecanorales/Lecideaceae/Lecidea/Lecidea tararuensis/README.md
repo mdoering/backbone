@@ -1,5 +1,4 @@
-Lecidea tararuensis Zahlbr. SPECIES
-=======
+# Lecidea tararuensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

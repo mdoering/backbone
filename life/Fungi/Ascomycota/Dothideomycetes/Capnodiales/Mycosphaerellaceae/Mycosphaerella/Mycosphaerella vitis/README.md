@@ -1,5 +1,4 @@
-Mycosphaerella vitis Koshk. SPECIES
-=======
+# Mycosphaerella vitis Koshk. SPECIES
 
 #### Status
 ACCEPTED

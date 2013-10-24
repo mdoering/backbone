@@ -1,5 +1,4 @@
-Rhabdospora euphorbiae Brunaud SPECIES
-=======
+# Rhabdospora euphorbiae Brunaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella loranthi Syd. SPECIES
-=======
+# Mycosphaerella loranthi Syd. SPECIES
 
 #### Status
 ACCEPTED

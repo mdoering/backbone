@@ -1,5 +1,4 @@
-Cercospora stigmaphyllonis R.E.D. Baker & W.T. Dale SPECIES
-=======
+# Cercospora stigmaphyllonis R.E.D. Baker & W.T. Dale SPECIES
 
 #### Status
 ACCEPTED

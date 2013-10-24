@@ -1,5 +1,4 @@
-Asterinella fagarae Sawada & W. Yamam. SPECIES
-=======
+# Asterinella fagarae Sawada & W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

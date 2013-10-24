@@ -1,5 +1,4 @@
-Lecidella subkochiana (Leight.) J. Lahm SPECIES
-=======
+# Lecidella subkochiana (Leight.) J. Lahm SPECIES
 
 #### Status
 ACCEPTED

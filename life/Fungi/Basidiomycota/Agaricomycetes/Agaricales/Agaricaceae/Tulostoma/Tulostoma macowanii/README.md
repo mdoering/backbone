@@ -1,8 +1,7 @@
-Tulostoma macowani Bres. SPECIES
-=======
+# Tulostoma macowanii Bres. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tulostoma macowani Bres.
+Tulostoma macowanii Bres.
 
 ### Remarks
 null

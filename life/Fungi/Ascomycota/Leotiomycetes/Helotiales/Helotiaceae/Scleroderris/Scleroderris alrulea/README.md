@@ -1,5 +1,4 @@
-Scleroderris alrulea Pat. SPECIES
-=======
+# Scleroderris alrulea Pat. SPECIES
 
 #### Status
 ACCEPTED

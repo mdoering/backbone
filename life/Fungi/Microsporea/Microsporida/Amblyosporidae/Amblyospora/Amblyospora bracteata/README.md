@@ -1,5 +1,4 @@
-Amblyospora bracteata (Strickland) J.J. Garcia {?} SPECIES
-=======
+# Amblyospora bracteata (Strickland) J.J. Garcia {?} SPECIES
 
 #### Status
 ACCEPTED

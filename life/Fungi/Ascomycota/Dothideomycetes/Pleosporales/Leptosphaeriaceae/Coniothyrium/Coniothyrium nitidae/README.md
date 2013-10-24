@@ -1,5 +1,4 @@
-Coniothyrium nitidae Crous & Denman SPECIES
-=======
+# Coniothyrium nitidae Crous & Denman SPECIES
 
 #### Status
 ACCEPTED

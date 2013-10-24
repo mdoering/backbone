@@ -1,5 +1,4 @@
-Tremella deliquescens Bull. SPECIES
-=======
+# Tremella deliquescens Bull. SPECIES
 
 #### Status
 ACCEPTED

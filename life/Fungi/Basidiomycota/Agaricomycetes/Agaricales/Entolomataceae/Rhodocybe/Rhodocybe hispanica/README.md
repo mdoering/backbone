@@ -1,5 +1,4 @@
-Rhodocybe hispanica Esteve-Rav. & G. Moreno SPECIES
-=======
+# Rhodocybe hispanica Esteve-Rav. & G. Moreno SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Psora scalaris var. scalaris VARIETY
-=======
+# Psora scalaris SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Psora scalaris var. scalaris
+null
 
 ### Remarks
 null

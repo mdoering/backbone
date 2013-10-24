@@ -1,5 +1,4 @@
-Lecanora rubricosa Ach. SPECIES
-=======
+# Lecanora rubricosa Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acrothecium anixiae Höhn. SPECIES
-=======
+# Acrothecium anixiae Höhn. SPECIES
 
 #### Status
 ACCEPTED

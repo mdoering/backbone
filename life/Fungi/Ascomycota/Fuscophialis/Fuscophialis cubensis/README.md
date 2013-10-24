@@ -1,5 +1,4 @@
-Fuscophialis cubensis Mercado & J. Mena SPECIES
-=======
+# Fuscophialis cubensis Mercado & J. Mena SPECIES
 
 #### Status
 ACCEPTED

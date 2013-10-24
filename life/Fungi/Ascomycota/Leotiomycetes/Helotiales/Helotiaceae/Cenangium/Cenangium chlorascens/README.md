@@ -1,5 +1,4 @@
-Cenangium chlorascens (Schwein.) Sacc. SPECIES
-=======
+# Cenangium chlorascens (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

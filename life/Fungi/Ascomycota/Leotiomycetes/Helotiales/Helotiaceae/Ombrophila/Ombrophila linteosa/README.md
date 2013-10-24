@@ -1,5 +1,4 @@
-Ombrophila linteosa Velen. SPECIES
-=======
+# Ombrophila linteosa Velen. SPECIES
 
 #### Status
 ACCEPTED

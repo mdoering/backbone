@@ -1,8 +1,7 @@
-Alteromonas aurantia Gauthier and Breittmayer, 1979 (Approved Lists, 1980) SPECIES
-=======
+# Pseudoalteromonas aurantia (Gauthier & Breittmayer, 1979) Gauthier et al., 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

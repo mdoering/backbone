@@ -1,5 +1,4 @@
-Mucomassaria Petr. & Cif. GENUS
-=======
+# Mucomassaria Petr. & Cif. GENUS
 
 #### Status
 ACCEPTED

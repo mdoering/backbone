@@ -1,5 +1,4 @@
-Caucasina GENUS
-=======
+# Caucasina GENUS
 
 #### Status
 ACCEPTED

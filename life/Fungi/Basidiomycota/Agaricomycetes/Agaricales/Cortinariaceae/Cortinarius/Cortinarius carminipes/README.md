@@ -1,5 +1,4 @@
-Cortinarius carminipes Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius carminipes Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

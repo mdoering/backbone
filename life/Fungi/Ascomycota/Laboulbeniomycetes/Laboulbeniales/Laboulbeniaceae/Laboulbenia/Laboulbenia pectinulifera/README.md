@@ -1,5 +1,4 @@
-Laboulbenia pectinulifera Thaxt. SPECIES
-=======
+# Laboulbenia pectinulifera Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophozonodiacrodium Timofeev, 1959 GENUS
-=======
+# Lophozonodiacrodium Timofeev, 1959 GENUS
 
 #### Status
 ACCEPTED

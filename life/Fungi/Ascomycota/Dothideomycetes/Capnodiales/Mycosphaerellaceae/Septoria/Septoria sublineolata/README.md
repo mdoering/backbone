@@ -1,5 +1,4 @@
-Septoria sublineolata Thüm. SPECIES
-=======
+# Septoria sublineolata Thüm. SPECIES
 
 #### Status
 ACCEPTED

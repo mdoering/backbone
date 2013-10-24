@@ -1,5 +1,4 @@
-Umbilicaria tramnitziana (Körb.) Stizenb. SPECIES
-=======
+# Umbilicaria tramnitziana (Körb.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

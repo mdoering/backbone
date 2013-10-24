@@ -1,5 +1,4 @@
-Melanconium arundinaceum Ellis & Everh. SPECIES
-=======
+# Melanconium arundinaceum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

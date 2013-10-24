@@ -1,5 +1,4 @@
-Dothiorella davisii (Ellis & Everh.) Arx SPECIES
-=======
+# Dothiorella davisii (Ellis & Everh.) Arx SPECIES
 
 #### Status
 ACCEPTED

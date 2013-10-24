@@ -1,5 +1,4 @@
-Ramalina motykana Bystrek SPECIES
-=======
+# Ramalina motykana Bystrek SPECIES
 
 #### Status
 ACCEPTED

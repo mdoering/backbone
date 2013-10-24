@@ -1,5 +1,4 @@
-Uredo destruens Duby SPECIES
-=======
+# Uredo destruens Duby SPECIES
 
 #### Status
 ACCEPTED

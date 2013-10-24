@@ -1,5 +1,4 @@
-Arthonia graphoides C.W. Dodge SPECIES
-=======
+# Arthonia graphoides C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

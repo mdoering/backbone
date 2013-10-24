@@ -1,5 +1,4 @@
-Adomia avicenniae S. Schatz, 1985 SPECIES
-=======
+# Adomia avicenniae S. Schatz, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichopeziza pellucens (Ces.) Sacc. SPECIES
-=======
+# Trichopeziza pellucens (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

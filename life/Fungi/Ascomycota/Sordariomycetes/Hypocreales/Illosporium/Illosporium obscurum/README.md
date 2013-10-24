@@ -1,5 +1,4 @@
-Illosporium obscurum Cooke & Massee SPECIES
-=======
+# Illosporium obscurum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

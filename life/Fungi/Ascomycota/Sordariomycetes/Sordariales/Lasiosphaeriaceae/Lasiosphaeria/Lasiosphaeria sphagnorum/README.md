@@ -1,5 +1,4 @@
-Lasiosphaeria sphagnorum (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Lasiosphaeria sphagnorum (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

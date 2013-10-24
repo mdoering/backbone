@@ -1,5 +1,4 @@
-Nephroma flavorhizinatum Q. Tian & H. Y. Wang SPECIES
-=======
+# Nephroma flavorhizinatum Q. Tian & H. Y. Wang SPECIES
 
 #### Status
 ACCEPTED

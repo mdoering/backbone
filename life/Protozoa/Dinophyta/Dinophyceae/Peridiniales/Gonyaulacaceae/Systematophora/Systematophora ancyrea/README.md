@@ -1,5 +1,4 @@
-Systematophora ancyrea Cookson & Eisenack, 1965 SPECIES
-=======
+# Systematophora ancyrea Cookson & Eisenack, 1965 SPECIES
 
 #### Status
 ACCEPTED

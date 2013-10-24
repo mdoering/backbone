@@ -1,5 +1,4 @@
-Synedra ostenfeldii (Kreig.) A.Cleve SPECIES
-=======
+# Synedra ostenfeldii (Kreig.) A.Cleve SPECIES
 
 #### Status
 ACCEPTED

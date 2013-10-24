@@ -1,5 +1,4 @@
-Duquepsammia earlandi (Barker, 1960) SPECIES
-=======
+# Duquepsammia earlandi (Barker, 1960) SPECIES
 
 #### Status
 ACCEPTED

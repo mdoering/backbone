@@ -1,5 +1,4 @@
-Pseudothuricola Kahl, 1935 GENUS
-=======
+# Pseudothuricola Kahl, 1935 GENUS
 
 #### Status
 ACCEPTED

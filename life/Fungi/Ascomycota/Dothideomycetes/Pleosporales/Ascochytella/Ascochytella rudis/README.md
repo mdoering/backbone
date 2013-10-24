@@ -1,5 +1,4 @@
-Ascochytella rudis (Bubák) Petr. & Syd. SPECIES
-=======
+# Ascochytella rudis (Bubák) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

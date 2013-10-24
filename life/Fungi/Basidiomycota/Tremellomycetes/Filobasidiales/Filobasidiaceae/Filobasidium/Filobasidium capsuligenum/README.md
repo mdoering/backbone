@@ -1,17 +1,16 @@
-Azymoprocandida japonica (Diddens & Lodder) E.K. Novák & Zsolt, 1961 SPECIES
-=======
+# Filobasidium capsuligenum (Fell, Statzell, I.L. Hunter & Phaff) Rodr. Mir., 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta bot. hung. 7: 132 (1961)
+Antonie van Leeuwenhoek 38(1): 96 (1972)
 
 #### Original name
-Candida japonica Diddens & Lodder, 1942
+Leucosporidium capsuligenum Fell, Statzell, I.L. Hunter & Phaff, 1969
 
 ### Remarks
 null

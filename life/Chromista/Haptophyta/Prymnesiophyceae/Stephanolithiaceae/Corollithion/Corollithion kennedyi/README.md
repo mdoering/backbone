@@ -1,5 +1,4 @@
-Corollithion kennedyi Crux, 1981 SPECIES
-=======
+# Corollithion kennedyi Crux, 1981 SPECIES
 
 #### Status
 ACCEPTED

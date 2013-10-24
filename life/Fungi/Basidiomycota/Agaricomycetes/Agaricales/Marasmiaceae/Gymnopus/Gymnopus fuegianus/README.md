@@ -1,5 +1,4 @@
-Gymnopus fuegianus (Singer) Halling & J.L. Mata SPECIES
-=======
+# Gymnopus fuegianus (Singer) Halling & J.L. Mata SPECIES
 
 #### Status
 ACCEPTED

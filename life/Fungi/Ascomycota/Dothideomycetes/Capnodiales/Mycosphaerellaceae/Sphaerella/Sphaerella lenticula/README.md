@@ -1,5 +1,4 @@
-Sphaerella lenticula Cooke SPECIES
-=======
+# Sphaerella lenticula Cooke SPECIES
 
 #### Status
 ACCEPTED

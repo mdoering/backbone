@@ -1,5 +1,4 @@
-Hymenochaete conspurcata Berk. & M.A. Curtis SPECIES
-=======
+# Hymenochaete conspurcata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

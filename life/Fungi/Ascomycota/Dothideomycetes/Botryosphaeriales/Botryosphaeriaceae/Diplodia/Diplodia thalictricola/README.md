@@ -1,5 +1,4 @@
-Diplodia thalictricola Dietel & P. Syd. SPECIES
-=======
+# Diplodia thalictricola Dietel & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

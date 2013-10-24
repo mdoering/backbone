@@ -1,5 +1,4 @@
-Diacheopsis Meylan, 1930 GENUS
-=======
+# Diacheopsis Meylan, 1930 GENUS
 
 #### Status
 ACCEPTED

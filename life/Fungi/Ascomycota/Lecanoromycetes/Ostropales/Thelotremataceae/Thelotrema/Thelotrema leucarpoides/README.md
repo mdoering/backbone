@@ -1,14 +1,13 @@
-Leptotrema leucarpoides (Nyl.) Zahlbr. SPECIES
-=======
+# Thelotrema leucarpoides Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 2: 636 (1923)
+Acta Soc. Sci. fenn. 7: 454 (1863)
 
 #### Original name
 Thelotrema leucarpoides Nyl.

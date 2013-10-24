@@ -1,5 +1,4 @@
-Dyadosporonites bhardwaji (C.P. Varma & Rawat) Elsik SPECIES
-=======
+# Dyadosporonites bhardwaji (C.P. Varma & Rawat) Elsik SPECIES
 
 #### Status
 ACCEPTED

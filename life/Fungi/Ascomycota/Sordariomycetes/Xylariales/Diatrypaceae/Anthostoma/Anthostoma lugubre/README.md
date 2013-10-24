@@ -1,5 +1,4 @@
-Anthostoma lugubre Niessl SPECIES
-=======
+# Anthostoma lugubre Niessl SPECIES
 
 #### Status
 ACCEPTED

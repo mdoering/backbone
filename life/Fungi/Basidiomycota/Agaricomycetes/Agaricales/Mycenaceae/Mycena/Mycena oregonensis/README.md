@@ -1,5 +1,4 @@
-Mycena oregonensis A.H. Sm. SPECIES
-=======
+# Mycena oregonensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

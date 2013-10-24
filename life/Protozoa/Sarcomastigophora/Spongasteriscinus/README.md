@@ -1,5 +1,4 @@
-Spongasteriscinus Haeckel, 1887 GENUS
-=======
+# Spongasteriscinus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

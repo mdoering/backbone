@@ -1,5 +1,4 @@
-Mycenella radicata (Thiers) Maas Geest. SPECIES
-=======
+# Mycenella radicata (Thiers) Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

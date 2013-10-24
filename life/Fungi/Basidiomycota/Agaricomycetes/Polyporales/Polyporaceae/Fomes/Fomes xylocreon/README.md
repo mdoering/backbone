@@ -1,5 +1,4 @@
-Fomes xylocreon (Speg.) Speg. SPECIES
-=======
+# Fomes xylocreon (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

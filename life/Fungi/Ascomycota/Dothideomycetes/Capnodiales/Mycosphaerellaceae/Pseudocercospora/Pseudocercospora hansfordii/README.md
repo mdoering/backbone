@@ -1,5 +1,4 @@
-Pseudocercospora hansfordii (Chupp) Deighton SPECIES
-=======
+# Pseudocercospora hansfordii (Chupp) Deighton SPECIES
 
 #### Status
 ACCEPTED

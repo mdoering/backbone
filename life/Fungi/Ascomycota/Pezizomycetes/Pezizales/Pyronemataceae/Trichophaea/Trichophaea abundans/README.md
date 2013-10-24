@@ -1,14 +1,13 @@
-Patella abundans (P. Karst.) Seaver, 1928 SPECIES
-=======
+# Trichophaea abundans (P. Karst.) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-North American Cup-fungi (New York), (Operculates) 177 (1928)
+Hist. Class. Discom. Eur. (Paris) 61 (1907)
 
 #### Original name
 Lachnea abundans P. Karst., 1869

@@ -1,5 +1,4 @@
-Boletus niveus f. niveus FORM
-=======
+# Boletus niveus Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Observ. mycol. (Havniae) 1: 111 (1815)
 
 #### Original name
-Boletus niveus f. niveus
+Boletus niveus Fr.
 
 ### Remarks
 null

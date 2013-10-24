@@ -1,5 +1,4 @@
-Biatora livida Mont. SPECIES
-=======
+# Biatora livida Mont. SPECIES
 
 #### Status
 ACCEPTED

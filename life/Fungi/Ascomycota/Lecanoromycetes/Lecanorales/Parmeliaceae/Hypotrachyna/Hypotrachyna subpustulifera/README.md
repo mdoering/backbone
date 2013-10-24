@@ -1,5 +1,4 @@
-Hypotrachyna subpustulifera Elix SPECIES
-=======
+# Hypotrachyna subpustulifera Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ciferria coccothrinacis Gonz. Frag., 1925 SPECIES
-=======
+# Ciferria coccothrinacis Gonz. Frag., 1925 SPECIES
 
 #### Status
 ACCEPTED

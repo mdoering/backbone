@@ -1,5 +1,4 @@
-Fungus argineus (Berk. & Broome) Kuntze SPECIES
-=======
+# Fungus argineus (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

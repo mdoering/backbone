@@ -1,5 +1,4 @@
-Corollasphaeridium aliquolumum Zang Wen-long in Gravestock et al., 2001 SPECIES
-=======
+# Corollasphaeridium aliquolumum Zang Wen-long in Gravestock et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

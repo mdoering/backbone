@@ -1,5 +1,4 @@
-Zignoëlla campi-silii var. campi-silii VARIETY
-=======
+# Zignoëlla campi-silii Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Michelia 1(no. 3): 346 (1883)
 
 #### Original name
-Zignoëlla campi-silii var. campi-silii
+Zignoëlla campi-silii Sacc.
 
 ### Remarks
 null

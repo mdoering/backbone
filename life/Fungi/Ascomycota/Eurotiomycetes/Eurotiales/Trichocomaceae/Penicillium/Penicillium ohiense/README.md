@@ -1,5 +1,4 @@
-Penicillium ohiense L.H. Huang & J.A. Schmitt SPECIES
-=======
+# Penicillium ohiense L.H. Huang & J.A. Schmitt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laciniocladium Petri GENUS
-=======
+# Laciniocladium Petri GENUS
 
 #### Status
 ACCEPTED

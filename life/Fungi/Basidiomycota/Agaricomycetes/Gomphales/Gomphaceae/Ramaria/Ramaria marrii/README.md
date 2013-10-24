@@ -1,5 +1,4 @@
-Ramaria marrii Scates, 1988 SPECIES
-=======
+# Ramaria marrii Scates, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peccania arabica (Müll. Arg.) Henssen SPECIES
-=======
+# Peccania arabica (Müll. Arg.) Henssen SPECIES
 
 #### Status
 ACCEPTED

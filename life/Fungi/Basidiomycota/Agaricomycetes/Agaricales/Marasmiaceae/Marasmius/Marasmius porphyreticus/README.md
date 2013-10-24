@@ -1,5 +1,4 @@
-Marasmius porphyreticus Petch SPECIES
-=======
+# Marasmius porphyreticus Petch SPECIES
 
 #### Status
 ACCEPTED

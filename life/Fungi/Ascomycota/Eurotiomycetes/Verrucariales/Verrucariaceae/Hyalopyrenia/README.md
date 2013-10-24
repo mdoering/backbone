@@ -1,5 +1,4 @@
-Hyalopyrenia H. Harada GENUS
-=======
+# Hyalopyrenia H. Harada GENUS
 
 #### Status
 ACCEPTED

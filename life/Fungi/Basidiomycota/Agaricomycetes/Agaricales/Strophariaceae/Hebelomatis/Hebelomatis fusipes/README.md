@@ -1,5 +1,4 @@
-Hebelomatis fusipes (Bres.) Locq. SPECIES
-=======
+# Hebelomatis fusipes (Bres.) Locq. SPECIES
 
 #### Status
 ACCEPTED

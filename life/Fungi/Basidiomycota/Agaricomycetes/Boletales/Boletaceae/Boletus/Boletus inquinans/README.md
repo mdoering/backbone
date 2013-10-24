@@ -1,5 +1,4 @@
-Boletus inquinans Schrad. SPECIES
-=======
+# Boletus inquinans Schrad. SPECIES
 
 #### Status
 ACCEPTED

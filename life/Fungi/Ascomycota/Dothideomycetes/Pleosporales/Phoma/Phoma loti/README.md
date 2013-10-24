@@ -1,5 +1,4 @@
-Phoma loti Cooke SPECIES
-=======
+# Phoma loti Cooke SPECIES
 
 #### Status
 ACCEPTED

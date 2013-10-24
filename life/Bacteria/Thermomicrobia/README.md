@@ -1,5 +1,4 @@
-Thermomicrobia PHYLUM
-=======
+# Thermomicrobia PHYLUM
 
 #### Status
 ACCEPTED

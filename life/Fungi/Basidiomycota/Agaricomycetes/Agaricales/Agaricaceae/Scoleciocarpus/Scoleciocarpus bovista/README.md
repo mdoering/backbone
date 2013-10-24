@@ -1,5 +1,4 @@
-Scoleciocarpus bovista Mont. SPECIES
-=======
+# Scoleciocarpus bovista Mont. SPECIES
 
 #### Status
 ACCEPTED

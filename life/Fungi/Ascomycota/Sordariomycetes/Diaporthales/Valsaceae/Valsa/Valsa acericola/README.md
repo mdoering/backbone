@@ -1,5 +1,4 @@
-Valsa acericola G.H. Otth SPECIES
-=======
+# Valsa acericola G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

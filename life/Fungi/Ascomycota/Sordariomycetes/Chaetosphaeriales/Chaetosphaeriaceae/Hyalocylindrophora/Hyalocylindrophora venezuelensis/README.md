@@ -1,5 +1,4 @@
-Hyalocylindrophora venezuelensis J.L. Crane & Dumont SPECIES
-=======
+# Hyalocylindrophora venezuelensis J.L. Crane & Dumont SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyalopsora deodikarii Sathe SPECIES
-=======
+# Hyalopsora deodikarii Sathe SPECIES
 
 #### Status
 ACCEPTED

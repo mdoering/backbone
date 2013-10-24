@@ -1,5 +1,4 @@
-Collybia cylindrospora Kauffman SPECIES
-=======
+# Collybia cylindrospora Kauffman SPECIES
 
 #### Status
 ACCEPTED

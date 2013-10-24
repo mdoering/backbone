@@ -1,5 +1,4 @@
-Tricholoma vinaceogriseum P.D. Orton, 1987 SPECIES
-=======
+# Tricholoma vinaceogriseum P.D. Orton, 1987 SPECIES
 
 #### Status
 ACCEPTED

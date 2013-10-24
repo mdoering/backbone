@@ -1,5 +1,4 @@
-Septoria tageticola Changsri & G.F. Weber SPECIES
-=======
+# Septoria tageticola Changsri & G.F. Weber SPECIES
 
 #### Status
 ACCEPTED

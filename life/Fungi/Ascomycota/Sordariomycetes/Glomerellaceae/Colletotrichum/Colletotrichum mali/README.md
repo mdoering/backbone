@@ -1,5 +1,4 @@
-Colletotrichum mali Woron. SPECIES
-=======
+# Colletotrichum mali Woron. SPECIES
 
 #### Status
 ACCEPTED

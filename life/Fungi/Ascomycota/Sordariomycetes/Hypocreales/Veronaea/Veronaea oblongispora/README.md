@@ -1,5 +1,4 @@
-Veronaea oblongispora Morgan-Jones SPECIES
-=======
+# Veronaea oblongispora Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

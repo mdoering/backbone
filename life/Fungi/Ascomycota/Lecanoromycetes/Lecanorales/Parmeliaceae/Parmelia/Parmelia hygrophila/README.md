@@ -1,5 +1,4 @@
-Parmelia hygrophila Goward & Ahti SPECIES
-=======
+# Parmelia hygrophila Goward & Ahti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora ogawae Katsuki & Ts. Kobay. SPECIES
-=======
+# Cercospora ogawae Katsuki & Ts. Kobay. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lecanactis follmannii C.W. Dodge SPECIES
-=======
+# Cresponea follmannii (C.W. Dodge) Egea & Torrente SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Nova Hedwigia 12: 327 (1967)
+Mycotaxon 48: 317 (1993)
 
 #### Original name
 Lecanactis follmannii C.W. Dodge

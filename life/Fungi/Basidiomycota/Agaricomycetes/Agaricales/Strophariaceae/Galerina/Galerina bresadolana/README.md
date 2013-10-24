@@ -1,17 +1,16 @@
-Galerina bresadoliana Bon SPECIES
-=======
+# Galerina bresadolana Bon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Bon & Van Haluwyn, Docums Mycol. 13(no. 50): 32 (1983)
 
 #### Original name
-Galerina bresadoliana Bon
+Galerina cerina A.H. Sm. & Singer, 1955
 
 ### Remarks
 null

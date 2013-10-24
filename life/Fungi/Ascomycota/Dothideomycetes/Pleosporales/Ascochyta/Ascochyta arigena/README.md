@@ -1,5 +1,4 @@
-Ascochyta arigena Bubák SPECIES
-=======
+# Ascochyta arigena Bubák SPECIES
 
 #### Status
 ACCEPTED

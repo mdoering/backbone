@@ -1,5 +1,4 @@
-Phakopsora crotonicola (Henn.) F. Kern, Thurst. & Whetzel SPECIES
-=======
+# Phakopsora crotonicola (Henn.) F. Kern, Thurst. & Whetzel SPECIES
 
 #### Status
 ACCEPTED

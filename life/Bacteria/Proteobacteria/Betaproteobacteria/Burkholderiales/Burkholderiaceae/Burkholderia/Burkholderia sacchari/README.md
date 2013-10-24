@@ -1,5 +1,4 @@
-Burkholderia sacchari Brämer et al., 2001 SPECIES
-=======
+# Burkholderia sacchari Brämer et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

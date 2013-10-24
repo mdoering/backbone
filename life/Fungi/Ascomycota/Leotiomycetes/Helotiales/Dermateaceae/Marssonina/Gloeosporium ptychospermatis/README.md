@@ -1,5 +1,4 @@
-Gloeosporium ptychospermatis Henn. SPECIES
-=======
+# Gloeosporium ptychospermatis Henn. SPECIES
 
 #### Status
 ACCEPTED

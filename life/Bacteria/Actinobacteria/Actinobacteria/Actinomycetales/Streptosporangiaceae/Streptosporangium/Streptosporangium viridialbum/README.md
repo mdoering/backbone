@@ -1,5 +1,4 @@
-Streptosporangium viridialbum Nonomura and Ohara, 1960 (Approved Lists, 1980) SPECIES
-=======
+# Streptosporangium viridialbum Nonomura and Ohara, 1960 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

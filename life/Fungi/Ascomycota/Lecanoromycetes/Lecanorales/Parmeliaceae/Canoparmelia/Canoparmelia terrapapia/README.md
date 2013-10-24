@@ -1,5 +1,4 @@
-Canoparmelia terrapapia Elix SPECIES
-=======
+# Canoparmelia terrapapia Elix SPECIES
 
 #### Status
 ACCEPTED

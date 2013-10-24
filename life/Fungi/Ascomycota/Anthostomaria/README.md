@@ -1,5 +1,4 @@
-Anthostomaria (Sacc.) Theiss. & Syd. GENUS
-=======
+# Anthostomaria (Sacc.) Theiss. & Syd. GENUS
 
 #### Status
 ACCEPTED

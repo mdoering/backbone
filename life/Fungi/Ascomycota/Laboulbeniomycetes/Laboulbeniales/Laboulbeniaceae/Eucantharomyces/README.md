@@ -1,5 +1,4 @@
-Eucantharomyces Thaxt. GENUS
-=======
+# Eucantharomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dawsomyces Döbbeler GENUS
-=======
+# Dawsomyces Döbbeler GENUS
 
 #### Status
 ACCEPTED

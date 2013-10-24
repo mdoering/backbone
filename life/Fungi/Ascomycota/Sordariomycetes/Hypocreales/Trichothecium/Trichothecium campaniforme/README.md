@@ -1,5 +1,4 @@
-Trichothecium campaniforme Matsush., 1980 SPECIES
-=======
+# Trichothecium campaniforme Matsush., 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubercularia fici Edgerton SPECIES
-=======
+# Tubercularia fici Edgerton SPECIES
 
 #### Status
 ACCEPTED

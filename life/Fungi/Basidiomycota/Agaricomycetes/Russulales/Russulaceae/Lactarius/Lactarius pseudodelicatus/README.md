@@ -1,5 +1,4 @@
-Lactarius pseudodelicatus A.H. Sm. SPECIES
-=======
+# Lactarius pseudodelicatus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

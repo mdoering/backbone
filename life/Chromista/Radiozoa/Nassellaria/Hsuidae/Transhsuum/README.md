@@ -1,5 +1,4 @@
-Transhsuum Takemura, 1986 GENUS
-=======
+# Transhsuum Takemura, 1986 GENUS
 
 #### Status
 ACCEPTED

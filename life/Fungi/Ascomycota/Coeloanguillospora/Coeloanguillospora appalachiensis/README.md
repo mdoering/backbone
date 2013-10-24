@@ -1,5 +1,4 @@
-Coeloanguillospora appalachiensis Dyko & B. Sutton SPECIES
-=======
+# Coeloanguillospora appalachiensis Dyko & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

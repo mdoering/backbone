@@ -1,5 +1,4 @@
-Diplodia lycopersici anon. SPECIES
-=======
+# Diplodia lycopersici anon. SPECIES
 
 #### Status
 ACCEPTED

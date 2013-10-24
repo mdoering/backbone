@@ -1,5 +1,4 @@
-Polyporus pocula (Schwein.) Berk. & M.A. Curtis SPECIES
-=======
+# Polyporus pocula (Schwein.) Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

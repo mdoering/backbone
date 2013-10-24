@@ -1,5 +1,4 @@
-Cortinarius stilazureus Rob. Henry SPECIES
-=======
+# Cortinarius stilazureus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

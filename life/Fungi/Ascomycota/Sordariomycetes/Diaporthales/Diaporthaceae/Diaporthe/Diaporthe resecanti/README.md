@@ -1,5 +1,4 @@
-Diaporthe resecanti Nitschke SPECIES
-=======
+# Diaporthe resecanti Nitschke SPECIES
 
 #### Status
 ACCEPTED

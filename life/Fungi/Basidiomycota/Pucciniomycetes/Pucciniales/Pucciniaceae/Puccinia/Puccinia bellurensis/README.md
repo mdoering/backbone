@@ -1,5 +1,4 @@
-Puccinia bellurensis Thirum. SPECIES
-=======
+# Puccinia bellurensis Thirum. SPECIES
 
 #### Status
 ACCEPTED

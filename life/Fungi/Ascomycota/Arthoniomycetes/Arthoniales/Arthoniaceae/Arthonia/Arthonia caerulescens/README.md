@@ -1,5 +1,4 @@
-Arthonia caerulescens (Almq.) R. Sant. SPECIES
-=======
+# Arthonia caerulescens (Almq.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

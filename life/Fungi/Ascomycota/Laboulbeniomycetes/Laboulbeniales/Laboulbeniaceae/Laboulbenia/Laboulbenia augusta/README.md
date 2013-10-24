@@ -1,5 +1,4 @@
-Laboulbenia augusta Speg. SPECIES
-=======
+# Laboulbenia augusta Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea sterocaulorum Anzi SPECIES
-=======
+# Lecidea sterocaulorum Anzi SPECIES
 
 #### Status
 ACCEPTED

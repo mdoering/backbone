@@ -1,5 +1,4 @@
-Sphaerobryon fimbriatum F.J.R. Taylor SPECIES
-=======
+# Sphaerobryon fimbriatum F.J.R. Taylor SPECIES
 
 #### Status
 ACCEPTED

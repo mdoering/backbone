@@ -1,5 +1,4 @@
-Nyssopsora citriobati Syd., 1938 SPECIES
-=======
+# Nyssopsora citriobati Syd., 1938 SPECIES
 
 #### Status
 ACCEPTED

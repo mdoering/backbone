@@ -1,5 +1,4 @@
-Otthia corylina P. Karst. SPECIES
-=======
+# Otthia corylina P. Karst. SPECIES
 
 #### Status
 ACCEPTED

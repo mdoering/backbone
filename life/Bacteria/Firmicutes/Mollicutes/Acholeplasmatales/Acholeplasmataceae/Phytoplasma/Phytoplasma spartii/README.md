@@ -1,5 +1,4 @@
-Phytoplasma spartii Marcone et al., 2004. SPECIES
-=======
+# Phytoplasma spartii Marcone et al., 2004. SPECIES
 
 #### Status
 ACCEPTED

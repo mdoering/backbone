@@ -1,5 +1,4 @@
-Alternaria hawaiiensis E.G. Simmons, 1993 SPECIES
-=======
+# Alternaria hawaiiensis E.G. Simmons, 1993 SPECIES
 
 #### Status
 ACCEPTED

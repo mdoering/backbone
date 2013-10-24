@@ -1,5 +1,4 @@
-Didymosporium guyonianum Mont. & Durieu SPECIES
-=======
+# Didymosporium guyonianum Mont. & Durieu SPECIES
 
 #### Status
 ACCEPTED

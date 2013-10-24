@@ -1,17 +1,16 @@
-Entyloma nymphaeae var. nymphaeae (D.D. Cunn.) Setch. VARIETY
-=======
+# Rhamphospora nymphaeae D.D. Cunn., 1888 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Gaz. 19: 189 (1894)
+Scientific Mem. by Med. Officers of Army of India 3: 32 (1888)
 
 #### Original name
-Entyloma nymphaeae var. nymphaeae (D.D. Cunn.) Setch.
+Rhamphospora nymphaeae D.D. Cunn., 1888
 
 ### Remarks
 null

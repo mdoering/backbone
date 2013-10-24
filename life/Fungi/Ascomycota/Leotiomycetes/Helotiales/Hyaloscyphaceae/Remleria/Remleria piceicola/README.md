@@ -1,5 +1,4 @@
-Remleria piceicola Raitv., 2004 SPECIES
-=======
+# Remleria piceicola Raitv., 2004 SPECIES
 
 #### Status
 ACCEPTED

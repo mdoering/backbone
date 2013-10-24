@@ -1,5 +1,4 @@
-Acrotheca gei Fuckel SPECIES
-=======
+# Acrotheca gei Fuckel SPECIES
 
 #### Status
 ACCEPTED

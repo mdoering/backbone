@@ -1,5 +1,4 @@
-Diplodia lecythea Schwein. SPECIES
-=======
+# Diplodia lecythea Schwein. SPECIES
 
 #### Status
 ACCEPTED

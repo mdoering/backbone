@@ -1,5 +1,4 @@
-Biatora polytropa var. polytropa VARIETY
-=======
+# Biatora polytropa SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Biatora polytropa var. polytropa
+null
 
 ### Remarks
 null

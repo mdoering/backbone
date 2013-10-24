@@ -1,5 +1,4 @@
-Cytospora candida Speg. SPECIES
-=======
+# Cytospora candida Speg. SPECIES
 
 #### Status
 ACCEPTED

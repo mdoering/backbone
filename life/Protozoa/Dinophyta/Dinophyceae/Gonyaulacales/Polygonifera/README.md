@@ -1,5 +1,4 @@
-Polygonifera D.Habib, 1972 GENUS
-=======
+# Polygonifera D.Habib, 1972 GENUS
 
 #### Status
 ACCEPTED

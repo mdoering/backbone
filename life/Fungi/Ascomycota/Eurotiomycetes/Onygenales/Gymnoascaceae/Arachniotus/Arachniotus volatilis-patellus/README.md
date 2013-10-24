@@ -1,5 +1,4 @@
-Arachniotus volatilis-patellus G.F. Orr & Kuehn, 1972 SPECIES
-=======
+# Arachniotus volatilis-patellus G.F. Orr & Kuehn, 1972 SPECIES
 
 #### Status
 ACCEPTED

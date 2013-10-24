@@ -1,5 +1,4 @@
-Lyngbya brasiliensis P. A. C. Senna & L. V. Ferreira SPECIES
-=======
+# Lyngbya brasiliensis P. A. C. Senna & L. V. Ferreira SPECIES
 
 #### Status
 ACCEPTED

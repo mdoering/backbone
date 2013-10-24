@@ -1,5 +1,4 @@
-Aranidium pycnacanthum Jankauskas, 1975 SPECIES
-=======
+# Aranidium pycnacanthum Jankauskas, 1975 SPECIES
 
 #### Status
 ACCEPTED

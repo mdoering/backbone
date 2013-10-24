@@ -1,5 +1,4 @@
-Gloeosporium dearnessianum Sacc. SPECIES
-=======
+# Gloeosporium dearnessianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

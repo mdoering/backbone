@@ -1,5 +1,4 @@
-Biddulphia plana A. Schmidt SPECIES
-=======
+# Biddulphia plana A. Schmidt SPECIES
 
 #### Status
 ACCEPTED

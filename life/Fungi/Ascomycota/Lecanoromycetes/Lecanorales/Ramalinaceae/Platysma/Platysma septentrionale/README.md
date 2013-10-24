@@ -1,5 +1,4 @@
-Platysma septentrionale (Tuck.) Nyl. SPECIES
-=======
+# Platysma septentrionale (Tuck.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

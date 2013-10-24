@@ -1,5 +1,4 @@
-Asterina cylindrophora Syd. & P. Syd. SPECIES
-=======
+# Asterina cylindrophora Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

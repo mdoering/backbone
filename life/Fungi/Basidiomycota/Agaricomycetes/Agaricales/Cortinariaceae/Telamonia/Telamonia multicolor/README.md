@@ -1,5 +1,4 @@
-Telamonia multicolor (M.M. Moser) Hlavácek SPECIES
-=======
+# Telamonia multicolor (M.M. Moser) Hlavácek SPECIES
 
 #### Status
 ACCEPTED

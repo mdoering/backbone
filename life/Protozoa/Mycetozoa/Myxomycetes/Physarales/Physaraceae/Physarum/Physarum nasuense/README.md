@@ -1,5 +1,4 @@
-Physarum nasuense Emoto, 1931 SPECIES
-=======
+# Physarum nasuense Emoto, 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Foliotortus Piller & Senowbari-Daryan, 1980 GENUS
-=======
+# Foliotortus Piller & Senowbari-Daryan, 1980 GENUS
 
 #### Status
 ACCEPTED

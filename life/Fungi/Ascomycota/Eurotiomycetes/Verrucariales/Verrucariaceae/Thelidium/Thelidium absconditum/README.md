@@ -1,5 +1,4 @@
-Thelidium absconditum f. absconditum FORM
-=======
+# Thelidium absconditum (Hepp) Rabenh. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Thelidium absconditum f. absconditum
+Sagedia nigella var. abscondita Hepp
 
 ### Remarks
 null

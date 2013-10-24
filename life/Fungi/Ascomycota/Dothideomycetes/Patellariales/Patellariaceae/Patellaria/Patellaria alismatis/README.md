@@ -1,5 +1,4 @@
-Patellaria alismatis (Pers.) Fr. SPECIES
-=======
+# Patellaria alismatis (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

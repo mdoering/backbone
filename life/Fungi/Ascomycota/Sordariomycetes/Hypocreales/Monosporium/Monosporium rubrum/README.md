@@ -1,5 +1,4 @@
-Monosporium rubrum Sartory, R. Sartory & J. Mey. SPECIES
-=======
+# Monosporium rubrum Sartory, R. Sartory & J. Mey. SPECIES
 
 #### Status
 ACCEPTED

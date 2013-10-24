@@ -1,14 +1,13 @@
-Hendersonia heraclei Sacc. SPECIES
-=======
+# Sclerostagonospora heraclei (Sacc.) Höhn., 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia, Beibl. 59: 252 (1917)
 
 #### Original name
 Hendersonia heraclei Sacc.

@@ -1,5 +1,4 @@
-Mycoplasma alvi Gourlay et al., 1977 (Approved Lists, 1980) SPECIES
-=======
+# Mycoplasma alvi Gourlay et al., 1977 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

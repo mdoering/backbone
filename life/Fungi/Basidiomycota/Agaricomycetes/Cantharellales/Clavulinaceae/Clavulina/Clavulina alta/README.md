@@ -1,5 +1,4 @@
-Clavulina alta Corner SPECIES
-=======
+# Clavulina alta Corner SPECIES
 
 #### Status
 ACCEPTED

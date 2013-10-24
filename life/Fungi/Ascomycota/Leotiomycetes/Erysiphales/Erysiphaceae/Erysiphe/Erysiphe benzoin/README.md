@@ -1,14 +1,13 @@
-Erysiphe benzoinis (F.L. Tai) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe benzoin (F.L. Tai) U. Braun & S. Takam. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Schlechtendalia 4: 5 (2000)
 
 #### Original name
 Microsphaera benzoin F.L. Tai

@@ -1,5 +1,4 @@
-Fusamen calceum Sacc. SPECIES
-=======
+# Fusamen calceum Sacc. SPECIES
 
 #### Status
 ACCEPTED

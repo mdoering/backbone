@@ -1,5 +1,4 @@
-Boletellus intermedius A.H. Sm. & Thiers SPECIES
-=======
+# Boletellus intermedius A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

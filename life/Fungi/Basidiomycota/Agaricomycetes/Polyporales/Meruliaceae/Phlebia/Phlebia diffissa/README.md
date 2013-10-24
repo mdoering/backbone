@@ -1,5 +1,4 @@
-Phlebia diffissa J. Erikss. & Hjortstam, 1981 SPECIES
-=======
+# Phlebia diffissa J. Erikss. & Hjortstam, 1981 SPECIES
 
 #### Status
 ACCEPTED

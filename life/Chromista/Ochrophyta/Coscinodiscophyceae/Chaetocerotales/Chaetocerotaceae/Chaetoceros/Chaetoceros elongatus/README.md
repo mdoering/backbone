@@ -1,5 +1,4 @@
-Chaetoceros elongatus Honigmann, 1909 SPECIES
-=======
+# Chaetoceros elongatus Honigmann, 1909 SPECIES
 
 #### Status
 ACCEPTED

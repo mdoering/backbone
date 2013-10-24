@@ -1,5 +1,4 @@
-Cortinarius rapaceoides Bidaud, G. Riousset & Riousset SPECIES
-=======
+# Cortinarius rapaceoides Bidaud, G. Riousset & Riousset SPECIES
 
 #### Status
 ACCEPTED

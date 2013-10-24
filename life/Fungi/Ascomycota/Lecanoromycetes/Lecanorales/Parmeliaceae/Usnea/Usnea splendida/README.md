@@ -1,5 +1,4 @@
-Usnea splendida Motyka SPECIES
-=======
+# Usnea splendida Motyka SPECIES
 
 #### Status
 ACCEPTED

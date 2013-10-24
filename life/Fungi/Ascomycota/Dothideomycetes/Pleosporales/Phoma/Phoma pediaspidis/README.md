@@ -1,5 +1,4 @@
-Phoma pediaspidis var. pediaspidis VARIETY
-=======
+# Phoma pediaspidis Trotter SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma pediaspidis var. pediaspidis
+Phoma pediaspidis Trotter
 
 ### Remarks
 null

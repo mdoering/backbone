@@ -1,5 +1,4 @@
-Austrosmittium lenticum Siri, 2010 SPECIES
-=======
+# Austrosmittium lenticum Siri, 2010 SPECIES
 
 #### Status
 ACCEPTED

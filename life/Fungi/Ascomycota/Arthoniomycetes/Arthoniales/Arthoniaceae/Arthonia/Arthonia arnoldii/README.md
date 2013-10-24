@@ -1,5 +1,4 @@
-Arthonia arnoldii Zahlbr. SPECIES
-=======
+# Arthonia arnoldii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

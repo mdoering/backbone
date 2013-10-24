@@ -1,5 +1,4 @@
-Amyloporiella A. David & Tortic, 1984 GENUS
-=======
+# Amyloporiella A. David & Tortic, 1984 GENUS
 
 #### Status
 ACCEPTED

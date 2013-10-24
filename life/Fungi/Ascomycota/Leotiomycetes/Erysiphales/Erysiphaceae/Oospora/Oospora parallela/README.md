@@ -1,5 +1,4 @@
-Oospora parallela (Preuss) Sacc. & Voglino SPECIES
-=======
+# Oospora parallela (Preuss) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

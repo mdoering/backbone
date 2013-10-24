@@ -1,5 +1,4 @@
-Embellisia leptinellae E.G. Simmons & C.F. Hill, 1990 SPECIES
-=======
+# Embellisia leptinellae E.G. Simmons & C.F. Hill, 1990 SPECIES
 
 #### Status
 ACCEPTED

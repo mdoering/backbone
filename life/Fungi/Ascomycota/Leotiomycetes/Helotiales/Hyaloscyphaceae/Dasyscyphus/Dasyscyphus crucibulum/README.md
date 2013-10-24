@@ -1,8 +1,7 @@
-Dasyscypha crucibulum (Fr.) Sacc. SPECIES
-=======
+# Dasyscyphus crucibulum (Fr.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

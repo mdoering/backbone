@@ -1,5 +1,4 @@
-Asteridiella clidemiae (F. Stevens) Hansf. SPECIES
-=======
+# Asteridiella clidemiae (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED

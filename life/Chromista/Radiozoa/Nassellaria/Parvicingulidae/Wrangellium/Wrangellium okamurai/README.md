@@ -1,5 +1,4 @@
-Wrangellium okamurai SPECIES
-=======
+# Wrangellium okamurai SPECIES
 
 #### Status
 ACCEPTED

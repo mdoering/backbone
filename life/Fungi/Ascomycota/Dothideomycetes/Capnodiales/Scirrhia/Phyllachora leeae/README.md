@@ -1,5 +1,4 @@
-Phyllachora leeae Koord., 1907 SPECIES
-=======
+# Phyllachora leeae Koord., 1907 SPECIES
 
 #### Status
 DOUBTFUL

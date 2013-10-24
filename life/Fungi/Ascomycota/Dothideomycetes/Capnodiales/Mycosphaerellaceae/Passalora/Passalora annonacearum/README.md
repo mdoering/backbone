@@ -1,17 +1,16 @@
-Passalora anonacearum A.N. Rai & Kamal SPECIES
-=======
+# Passalora annonacearum A.N. Rai & Kamal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kavaka 14(1-2): 33 (1987)
 
 #### Original name
-Passalora anonacearum A.N. Rai & Kamal
+Passalora annonacearum A.N. Rai & Kamal
 
 ### Remarks
 null

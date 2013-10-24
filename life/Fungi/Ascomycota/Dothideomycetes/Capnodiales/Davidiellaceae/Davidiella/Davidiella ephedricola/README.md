@@ -1,5 +1,4 @@
-Davidiella ephedricola (Butin) Aptroot, 2006 SPECIES
-=======
+# Davidiella ephedricola (Butin) Aptroot, 2006 SPECIES
 
 #### Status
 ACCEPTED

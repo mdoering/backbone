@@ -1,5 +1,4 @@
-Mycomicrothelia nonensis (Stirt.) D. Hawksw. SPECIES
-=======
+# Mycomicrothelia nonensis (Stirt.) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

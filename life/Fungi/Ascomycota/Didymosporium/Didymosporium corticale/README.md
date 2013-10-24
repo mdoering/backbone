@@ -1,5 +1,4 @@
-Didymosporium corticale Schwein. SPECIES
-=======
+# Didymosporium corticale Schwein. SPECIES
 
 #### Status
 ACCEPTED

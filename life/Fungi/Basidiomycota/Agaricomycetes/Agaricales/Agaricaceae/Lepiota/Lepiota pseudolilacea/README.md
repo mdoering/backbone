@@ -1,17 +1,16 @@
-Lepiota pseudohelveola var. sabulosa Bon VARIETY
-=======
+# Lepiota pseudolilacea Huijsman, 1947 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 17(no. 67): 8 (1987)
+Bull. mens. Soc. linn. Lyon 16: 183 (1947)
 
 #### Original name
-Lepiota pseudohelveola var. sabulosa Bon
+Lepiota pseudolilacea Huijsman, 1947
 
 ### Remarks
 null

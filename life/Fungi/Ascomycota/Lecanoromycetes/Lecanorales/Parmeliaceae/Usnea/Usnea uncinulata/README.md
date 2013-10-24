@@ -1,5 +1,4 @@
-Usnea uncinulata Motyka SPECIES
-=======
+# Usnea uncinulata Motyka SPECIES
 
 #### Status
 ACCEPTED

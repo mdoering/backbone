@@ -1,5 +1,4 @@
-Exesisporites neogenicus Elsik SPECIES
-=======
+# Exesisporites neogenicus Elsik SPECIES
 
 #### Status
 ACCEPTED

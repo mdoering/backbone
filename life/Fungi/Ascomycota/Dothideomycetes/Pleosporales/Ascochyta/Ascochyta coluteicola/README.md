@@ -1,8 +1,7 @@
-Ascochyta coluteaecola Hollós SPECIES
-=======
+# Ascochyta coluteicola Gonz. Frag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ascochyta coluteaecola Hollós
+Ascochyta coluteicola Gonz. Frag.
 
 ### Remarks
 null

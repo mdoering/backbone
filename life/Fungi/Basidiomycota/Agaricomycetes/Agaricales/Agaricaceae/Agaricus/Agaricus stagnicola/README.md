@@ -1,5 +1,4 @@
-Agaricus stagnicola Britzelm. SPECIES
-=======
+# Agaricus stagnicola Britzelm. SPECIES
 
 #### Status
 ACCEPTED

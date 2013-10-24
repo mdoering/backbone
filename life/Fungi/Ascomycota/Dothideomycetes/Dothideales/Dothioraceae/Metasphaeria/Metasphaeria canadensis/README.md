@@ -1,5 +1,4 @@
-Metasphaeria canadensis (De Not.) Sacc. SPECIES
-=======
+# Metasphaeria canadensis (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

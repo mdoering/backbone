@@ -1,5 +1,4 @@
-Sistotrema laxum Pers. SPECIES
-=======
+# Sistotrema laxum Pers. SPECIES
 
 #### Status
 ACCEPTED

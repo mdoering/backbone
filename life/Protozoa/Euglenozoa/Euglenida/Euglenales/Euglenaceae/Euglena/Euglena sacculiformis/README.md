@@ -1,5 +1,4 @@
-Euglena sacculiformis Schiller SPECIES
-=======
+# Euglena sacculiformis Schiller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia ioannis-simae (Gyeln.) Hale SPECIES
-=======
+# Xanthoparmelia ioannis-simae (Gyeln.) Hale SPECIES
 
 #### Status
 ACCEPTED

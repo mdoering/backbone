@@ -1,5 +1,4 @@
-Flageoletia tenuis (Sacc.) Höhn. SPECIES
-=======
+# Flageoletia tenuis (Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

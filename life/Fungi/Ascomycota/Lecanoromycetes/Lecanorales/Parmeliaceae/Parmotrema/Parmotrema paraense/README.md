@@ -1,5 +1,4 @@
-Parmotrema paraense Hale SPECIES
-=======
+# Parmotrema paraense Hale SPECIES
 
 #### Status
 ACCEPTED

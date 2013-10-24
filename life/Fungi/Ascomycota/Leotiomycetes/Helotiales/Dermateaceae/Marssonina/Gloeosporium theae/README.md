@@ -1,5 +1,4 @@
-Gloeosporium theae Zimm. SPECIES
-=======
+# Gloeosporium theae Zimm. SPECIES
 
 #### Status
 ACCEPTED

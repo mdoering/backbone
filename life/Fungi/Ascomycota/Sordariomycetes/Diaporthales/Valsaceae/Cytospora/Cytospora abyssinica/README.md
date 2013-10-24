@@ -1,5 +1,4 @@
-Cytospora abyssinica G.C. Adams, Jol. Roux & Gezahgne SPECIES
-=======
+# Cytospora abyssinica G.C. Adams, Jol. Roux & Gezahgne SPECIES
 
 #### Status
 ACCEPTED

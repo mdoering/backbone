@@ -1,17 +1,16 @@
-Cetrariastrum angolense W. L. Culb. & C. F. Culb. SPECIES
-=======
+# Everniastrum angolense (W. L. Culb. & C. F. Culb.) Sipman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 26: 239 (1986)
 
 #### Original name
-null
+Cetrariastrum angolense W. L. Culb. & C. F. Culb.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sporidiobolus veronae Balloni, Florenz. & Mater., 1974 SPECIES
-=======
+# Sporidiobolus veronae Balloni, Florenz. & Mater., 1974 SPECIES
 
 #### Status
 ACCEPTED

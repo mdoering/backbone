@@ -1,5 +1,4 @@
-Sphaerella cinxia Sacc. SPECIES
-=======
+# Sphaerella cinxia Sacc. SPECIES
 
 #### Status
 ACCEPTED

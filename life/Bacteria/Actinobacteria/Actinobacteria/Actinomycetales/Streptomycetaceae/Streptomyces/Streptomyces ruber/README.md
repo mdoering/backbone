@@ -1,8 +1,7 @@
-Chainia rubra Thirumalachar, 1955 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces ruber (Thirumalachar, 1955) Goodfellow et al., 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

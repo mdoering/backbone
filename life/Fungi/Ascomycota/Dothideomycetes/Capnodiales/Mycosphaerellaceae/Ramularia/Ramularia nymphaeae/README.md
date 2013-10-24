@@ -1,5 +1,4 @@
-Ramularia nymphaeae Bres. SPECIES
-=======
+# Ramularia nymphaeae Bres. SPECIES
 
 #### Status
 ACCEPTED

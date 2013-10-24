@@ -1,5 +1,4 @@
-Scutellinia rotundisperma Donadini SPECIES
-=======
+# Scutellinia rotundisperma Donadini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium rhodospermum Delacr. SPECIES
-=======
+# Gloeosporium rhodospermum Delacr. SPECIES
 
 #### Status
 ACCEPTED

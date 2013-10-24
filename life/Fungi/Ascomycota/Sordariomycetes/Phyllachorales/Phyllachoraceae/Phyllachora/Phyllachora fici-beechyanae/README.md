@@ -1,5 +1,4 @@
-Phyllachora fici-beechyanae Sawada, 1942 SPECIES
-=======
+# Phyllachora fici-beechyanae Sawada, 1942 SPECIES
 
 #### Status
 ACCEPTED

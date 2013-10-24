@@ -1,5 +1,4 @@
-Camarophyllus umbrinus var. umbrinus VARIETY
-=======
+# Camarophyllus umbrinus (Dennis) Singer ex Pegler SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Kew Bull. , Addit. Ser. 9: 49 (1983)
 
 #### Original name
-Camarophyllus umbrinus var. umbrinus
+Hygrophorus umbrinus Dennis
 
 ### Remarks
 null

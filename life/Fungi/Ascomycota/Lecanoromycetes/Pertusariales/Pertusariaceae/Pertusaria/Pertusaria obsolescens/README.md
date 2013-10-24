@@ -1,5 +1,4 @@
-Pertusaria obsolescens Nyl. SPECIES
-=======
+# Pertusaria obsolescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

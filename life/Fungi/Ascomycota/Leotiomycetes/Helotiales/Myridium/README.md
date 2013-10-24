@@ -1,5 +1,4 @@
-Myridium GENUS
-=======
+# Myridium GENUS
 
 #### Status
 ACCEPTED

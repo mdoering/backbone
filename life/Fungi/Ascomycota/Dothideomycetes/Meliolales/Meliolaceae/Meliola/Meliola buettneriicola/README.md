@@ -1,5 +1,4 @@
-Meliola buettneriicola (Deighton) Cif. SPECIES
-=======
+# Meliola buettneriicola (Deighton) Cif. SPECIES
 
 #### Status
 ACCEPTED

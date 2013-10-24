@@ -1,5 +1,4 @@
-Dinemasporium rhodophaeum Speg. SPECIES
-=======
+# Dinemasporium rhodophaeum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius gymnocarpoides Verbeken SPECIES
-=======
+# Lactarius gymnocarpoides Verbeken SPECIES
 
 #### Status
 ACCEPTED

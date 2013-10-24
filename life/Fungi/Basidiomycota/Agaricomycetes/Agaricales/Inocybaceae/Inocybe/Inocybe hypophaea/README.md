@@ -1,5 +1,4 @@
-Inocybe hypophaea Furrer-Ziogas SPECIES
-=======
+# Inocybe hypophaea Furrer-Ziogas SPECIES
 
 #### Status
 ACCEPTED

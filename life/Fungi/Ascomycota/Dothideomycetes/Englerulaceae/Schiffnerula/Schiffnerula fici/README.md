@@ -1,5 +1,4 @@
-Schiffnerula fici V.P. Sahni SPECIES
-=======
+# Schiffnerula fici V.P. Sahni SPECIES
 
 #### Status
 ACCEPTED

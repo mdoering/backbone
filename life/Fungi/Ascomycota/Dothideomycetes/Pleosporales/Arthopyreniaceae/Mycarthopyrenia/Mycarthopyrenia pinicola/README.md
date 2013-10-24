@@ -1,5 +1,4 @@
-Mycarthopyrenia pinicola SPECIES
-=======
+# Mycarthopyrenia pinicola SPECIES
 
 #### Status
 ACCEPTED

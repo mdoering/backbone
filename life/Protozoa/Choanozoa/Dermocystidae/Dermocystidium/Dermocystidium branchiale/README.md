@@ -1,17 +1,16 @@
-Dermocystidium branchialis L. Léger SPECIES
-=======
+# Dermocystidium branchiale L. Léger SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+C. r. hebd. Séanc. Agric. France 158: 808 (1914)
 
 #### Original name
-Dermocystidium branchialis L. Léger
+Dermocystidium branchiale L. Léger
 
 ### Remarks
 null

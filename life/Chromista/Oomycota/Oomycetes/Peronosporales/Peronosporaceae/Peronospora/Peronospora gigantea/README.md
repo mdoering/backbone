@@ -1,5 +1,4 @@
-Peronospora gigantea Gäum. SPECIES
-=======
+# Peronospora gigantea Gäum. SPECIES
 
 #### Status
 ACCEPTED

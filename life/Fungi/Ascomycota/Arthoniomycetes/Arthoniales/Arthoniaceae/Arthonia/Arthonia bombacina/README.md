@@ -1,5 +1,4 @@
-Arthonia bombacina Ach. SPECIES
-=======
+# Arthonia bombacina Ach. SPECIES
 
 #### Status
 ACCEPTED

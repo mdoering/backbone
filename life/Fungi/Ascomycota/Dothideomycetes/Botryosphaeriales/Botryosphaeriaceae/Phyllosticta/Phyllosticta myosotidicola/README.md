@@ -1,5 +1,4 @@
-Phyllosticta myosotidicola Nelen SPECIES
-=======
+# Phyllosticta myosotidicola Nelen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnum saturatum Berk. & M.A. Curtis SPECIES
-=======
+# Hydnum saturatum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

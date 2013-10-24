@@ -1,5 +1,4 @@
-Caloplacopsis balansae B. de Lesd. SPECIES
-=======
+# Caloplacopsis balansae B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

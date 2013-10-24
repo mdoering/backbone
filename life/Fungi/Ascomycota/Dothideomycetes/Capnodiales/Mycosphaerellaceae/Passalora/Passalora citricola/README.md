@@ -1,5 +1,4 @@
-Passalora citricola Crous & U. Braun SPECIES
-=======
+# Passalora citricola Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

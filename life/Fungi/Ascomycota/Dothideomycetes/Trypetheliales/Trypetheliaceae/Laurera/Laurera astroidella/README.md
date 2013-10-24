@@ -1,5 +1,4 @@
-Laurera astroidella (Vain.) Zahlbr. SPECIES
-=======
+# Laurera astroidella (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta dracaenicola Chowdhry, D. Gupta & Padhi SPECIES
-=======
+# Phyllosticta dracaenicola Chowdhry, D. Gupta & Padhi SPECIES
 
 #### Status
 ACCEPTED

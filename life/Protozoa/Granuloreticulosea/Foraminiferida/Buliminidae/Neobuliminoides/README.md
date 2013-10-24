@@ -1,5 +1,4 @@
-Neobuliminoides McCulloch, 1977 GENUS
-=======
+# Neobuliminoides McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

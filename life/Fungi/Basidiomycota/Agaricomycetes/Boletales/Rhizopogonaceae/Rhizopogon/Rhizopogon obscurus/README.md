@@ -1,5 +1,4 @@
-Rhizopogon obscurus A.H. Sm. SPECIES
-=======
+# Rhizopogon obscurus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

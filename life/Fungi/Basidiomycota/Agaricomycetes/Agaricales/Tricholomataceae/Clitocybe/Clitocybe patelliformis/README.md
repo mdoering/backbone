@@ -1,5 +1,4 @@
-Clitocybe patelliformis H.E. Bigelow SPECIES
-=======
+# Clitocybe patelliformis H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

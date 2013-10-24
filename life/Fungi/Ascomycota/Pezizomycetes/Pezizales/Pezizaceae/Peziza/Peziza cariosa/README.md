@@ -1,5 +1,4 @@
-Peziza cariosa Peck SPECIES
-=======
+# Peziza cariosa Peck SPECIES
 
 #### Status
 ACCEPTED

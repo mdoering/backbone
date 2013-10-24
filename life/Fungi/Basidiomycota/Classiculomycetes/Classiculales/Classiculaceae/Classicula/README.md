@@ -1,5 +1,4 @@
-Classicula R. Bauer, Begerow, Oberw. & Marvanová GENUS
-=======
+# Classicula R. Bauer, Begerow, Oberw. & Marvanová GENUS
 
 #### Status
 ACCEPTED

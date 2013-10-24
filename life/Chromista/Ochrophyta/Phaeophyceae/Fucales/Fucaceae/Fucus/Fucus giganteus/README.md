@@ -1,5 +1,4 @@
-Fucus giganteus Gaudichaud SPECIES
-=======
+# Fucus giganteus Gaudichaud SPECIES
 
 #### Status
 ACCEPTED

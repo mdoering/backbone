@@ -1,5 +1,4 @@
-Puccinia coelopleuri Arthur SPECIES
-=======
+# Puccinia coelopleuri Arthur SPECIES
 
 #### Status
 ACCEPTED

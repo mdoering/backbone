@@ -1,5 +1,4 @@
-Pythiomorpha GENUS
-=======
+# Pythiomorpha GENUS
 
 #### Status
 ACCEPTED

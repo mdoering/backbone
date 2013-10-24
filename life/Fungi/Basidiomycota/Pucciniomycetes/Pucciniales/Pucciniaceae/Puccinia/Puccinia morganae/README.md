@@ -1,5 +1,4 @@
-Puccinia morganae Doidge SPECIES
-=======
+# Puccinia morganae Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entyloma chloridis Thirum. & Pavgi SPECIES
-=======
+# Entyloma chloridis Thirum. & Pavgi SPECIES
 
 #### Status
 ACCEPTED

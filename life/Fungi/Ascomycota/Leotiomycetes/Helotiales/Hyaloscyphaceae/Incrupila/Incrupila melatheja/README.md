@@ -1,14 +1,13 @@
-Dasyscyphus melatheja (Fr.) J.R. Dixon, 1974 SPECIES
-=======
+# Incrupila melatheja (Fr.) Dennis, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 1(2): 97 (1974)
+British Ascomycetes, Rev. Edn 176 (1978)
 
 #### Original name
 null

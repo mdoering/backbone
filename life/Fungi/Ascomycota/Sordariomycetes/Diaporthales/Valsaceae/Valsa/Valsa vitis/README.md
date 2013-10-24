@@ -1,5 +1,4 @@
-Valsa vitis Nitschke SPECIES
-=======
+# Valsa vitis Nitschke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptothrix caprae Silb. SPECIES
-=======
+# Streptothrix caprae Silb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geogemma Kashefi, Holmes & Lovley, 2006 GENUS
-=======
+# Geogemma Kashefi, Holmes & Lovley, 2006 GENUS
 
 #### Status
 ACCEPTED

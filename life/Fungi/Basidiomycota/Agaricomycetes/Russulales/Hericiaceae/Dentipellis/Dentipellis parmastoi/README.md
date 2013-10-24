@@ -1,14 +1,13 @@
-Amylodontia parmastoi Nikol., 1967 SPECIES
-=======
+# Dentipellis parmastoi (Nikol.) Stalpers, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nov. sist. Niz. Rast. , 1967 238 (1967)
+Stud. Mycol. 40: 37 (1996)
 
 #### Original name
 Amylodontia parmastoi Nikol., 1967

@@ -1,5 +1,4 @@
-Pseudonitschkia parmotrematis Coppins & S.Y. Kondr. SPECIES
-=======
+# Pseudonitschkia parmotrematis Coppins & S.Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

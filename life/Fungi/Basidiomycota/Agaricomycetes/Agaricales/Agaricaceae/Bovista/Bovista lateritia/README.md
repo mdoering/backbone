@@ -1,5 +1,4 @@
-Bovista lateritia Berk. SPECIES
-=======
+# Bovista lateritia Berk. SPECIES
 
 #### Status
 ACCEPTED

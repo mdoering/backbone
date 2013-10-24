@@ -1,5 +1,4 @@
-Pseudocyphellaria maculata D.J. Galloway SPECIES
-=======
+# Pseudocyphellaria maculata D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

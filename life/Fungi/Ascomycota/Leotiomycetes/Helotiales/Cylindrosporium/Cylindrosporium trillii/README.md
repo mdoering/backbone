@@ -1,5 +1,4 @@
-Cylindrosporium trillii (Ellis & Everh.) Arx SPECIES
-=======
+# Cylindrosporium trillii (Ellis & Everh.) Arx SPECIES
 
 #### Status
 ACCEPTED

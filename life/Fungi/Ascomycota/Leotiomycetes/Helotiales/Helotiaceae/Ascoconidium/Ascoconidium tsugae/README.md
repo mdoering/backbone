@@ -1,5 +1,4 @@
-Ascoconidium tsugae A. Funk, 1966 SPECIES
-=======
+# Ascoconidium tsugae A. Funk, 1966 SPECIES
 
 #### Status
 ACCEPTED

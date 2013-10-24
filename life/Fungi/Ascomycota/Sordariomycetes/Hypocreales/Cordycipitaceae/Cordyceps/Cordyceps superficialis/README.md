@@ -1,5 +1,4 @@
-Cordyceps superficialis f. superficialis FORM
-=======
+# Cordyceps superficialis (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cordyceps superficialis f. superficialis
+Torrubia superficialis Peck
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Helotium singeri Dennis SPECIES
-=======
+# Helotium singeri Dennis SPECIES
 
 #### Status
 ACCEPTED

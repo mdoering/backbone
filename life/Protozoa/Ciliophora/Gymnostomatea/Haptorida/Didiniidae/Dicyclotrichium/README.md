@@ -1,5 +1,4 @@
-Dicyclotrichium Xu, Song & Hu, 2005 GENUS
-=======
+# Dicyclotrichium Xu, Song & Hu, 2005 GENUS
 
 #### Status
 ACCEPTED

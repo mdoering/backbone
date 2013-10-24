@@ -1,5 +1,4 @@
-Cylindroxyphium virginianum Bat. & Cif., 1963 SPECIES
-=======
+# Cylindroxyphium virginianum Bat. & Cif., 1963 SPECIES
 
 #### Status
 ACCEPTED

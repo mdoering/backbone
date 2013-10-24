@@ -1,5 +1,4 @@
-Thelephora tubaraoënsis Henn. SPECIES
-=======
+# Thelephora tubaraoënsis Henn. SPECIES
 
 #### Status
 ACCEPTED

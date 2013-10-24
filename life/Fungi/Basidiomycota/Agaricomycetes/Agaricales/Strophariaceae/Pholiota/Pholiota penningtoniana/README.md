@@ -1,5 +1,4 @@
-Pholiota penningtoniana A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota penningtoniana A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

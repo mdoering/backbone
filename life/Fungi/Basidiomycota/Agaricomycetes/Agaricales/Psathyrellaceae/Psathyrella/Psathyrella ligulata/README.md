@@ -1,5 +1,4 @@
-Psathyrella ligulata A.H. Sm. SPECIES
-=======
+# Psathyrella ligulata A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

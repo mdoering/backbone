@@ -1,5 +1,4 @@
-Cytospora diatrypoides Truszk. SPECIES
-=======
+# Cytospora diatrypoides Truszk. SPECIES
 
 #### Status
 ACCEPTED

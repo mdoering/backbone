@@ -1,5 +1,4 @@
-Alveovalvulina Brönnimann, 1951 GENUS
-=======
+# Alveovalvulina Brönnimann, 1951 GENUS
 
 #### Status
 ACCEPTED

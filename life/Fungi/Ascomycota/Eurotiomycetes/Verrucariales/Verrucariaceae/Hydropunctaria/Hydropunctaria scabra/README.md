@@ -1,5 +1,4 @@
-Hydropunctaria scabra (Vezda) Keller, Gueidan & Thüs SPECIES
-=======
+# Hydropunctaria scabra (Vezda) Keller, Gueidan & Thüs SPECIES
 
 #### Status
 ACCEPTED

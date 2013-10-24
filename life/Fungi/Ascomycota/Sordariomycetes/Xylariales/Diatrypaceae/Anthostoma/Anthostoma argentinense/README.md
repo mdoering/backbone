@@ -1,5 +1,4 @@
-Anthostoma argentinense Speg. SPECIES
-=======
+# Anthostoma argentinense Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsaria gregalis (Schwein.) Sacc. SPECIES
-=======
+# Valsaria gregalis (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

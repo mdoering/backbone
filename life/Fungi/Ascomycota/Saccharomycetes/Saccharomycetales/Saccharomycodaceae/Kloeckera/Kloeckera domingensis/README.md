@@ -1,5 +1,4 @@
-Kloeckera domingensis Cif. SPECIES
-=======
+# Kloeckera domingensis Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Debarya J. Rostafinski, 1877 GENUS
-=======
+# Debarya J. Rostafinski, 1877 GENUS
 
 #### Status
 ACCEPTED

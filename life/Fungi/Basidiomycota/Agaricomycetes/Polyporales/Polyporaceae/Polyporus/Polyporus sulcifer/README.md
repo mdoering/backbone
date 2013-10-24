@@ -1,5 +1,4 @@
-Polyporus sulcifer Berk. & Cooke SPECIES
-=======
+# Polyporus sulcifer Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

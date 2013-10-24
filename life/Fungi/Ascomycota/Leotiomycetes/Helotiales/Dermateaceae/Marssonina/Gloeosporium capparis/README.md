@@ -1,17 +1,16 @@
-Gloeosporium capparidis Sawada SPECIES
-=======
+# Gloeosporium capparis Sawada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Report of the Department of Indutry, Government Research Institute, Formosa 87: 63 (1944)
 
 #### Original name
-Gloeosporium capparidis Sawada
+Gloeosporium capparis Sawada
 
 ### Remarks
 null

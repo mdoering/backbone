@@ -1,5 +1,4 @@
-Puccinia johreniae-alpinae Dietel SPECIES
-=======
+# Puccinia johreniae-alpinae Dietel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca kobeana (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca kobeana (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

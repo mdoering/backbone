@@ -1,5 +1,4 @@
-Ovipleistophora mirandellae (Vaney & Conte) M. Pekkarinen, J. Lom & F. Nilsen SPECIES
-=======
+# Ovipleistophora mirandellae (Vaney & Conte) M. Pekkarinen, J. Lom & F. Nilsen SPECIES
 
 #### Status
 ACCEPTED

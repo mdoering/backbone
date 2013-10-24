@@ -1,5 +1,4 @@
-Cladosporium artocarpi Gonz. Frag. & Cif. SPECIES
-=======
+# Cladosporium artocarpi Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

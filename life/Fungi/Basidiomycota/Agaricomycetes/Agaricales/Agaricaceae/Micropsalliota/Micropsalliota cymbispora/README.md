@@ -1,5 +1,4 @@
-Micropsalliota cymbispora Heinem. & Little Flower SPECIES
-=======
+# Micropsalliota cymbispora Heinem. & Little Flower SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporidesmium durantae Pat. SPECIES
-=======
+# Sporidesmium durantae Pat. SPECIES
 
 #### Status
 ACCEPTED

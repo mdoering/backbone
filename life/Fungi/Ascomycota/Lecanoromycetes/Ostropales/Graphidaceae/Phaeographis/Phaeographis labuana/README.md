@@ -1,5 +1,4 @@
-Phaeographis labuana (Nyl.) Redinger SPECIES
-=======
+# Phaeographis labuana (Nyl.) Redinger SPECIES
 
 #### Status
 ACCEPTED

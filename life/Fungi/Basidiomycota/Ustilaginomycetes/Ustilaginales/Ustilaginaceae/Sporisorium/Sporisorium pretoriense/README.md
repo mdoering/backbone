@@ -1,5 +1,4 @@
-Sporisorium pretoriense anon. ined. SPECIES
-=======
+# Sporisorium pretoriense anon. ined. SPECIES
 
 #### Status
 ACCEPTED

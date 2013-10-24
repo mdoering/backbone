@@ -1,5 +1,4 @@
-Agrocybe lazoi Singer SPECIES
-=======
+# Agrocybe lazoi Singer SPECIES
 
 #### Status
 ACCEPTED

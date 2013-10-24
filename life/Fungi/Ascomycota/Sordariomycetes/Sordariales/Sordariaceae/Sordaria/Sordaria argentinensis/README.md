@@ -1,5 +1,4 @@
-Sordaria argentinensis Speg. SPECIES
-=======
+# Sordaria argentinensis Speg. SPECIES
 
 #### Status
 ACCEPTED

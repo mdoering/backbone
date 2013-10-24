@@ -1,14 +1,13 @@
-Agaricus tithymalinus Scop., 1772 SPECIES
-=======
+# Lactarius tithymalinus (Scop.) Fr., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. carniol. (Wien), Edn 2 2: 452 (1772)
+Epicr. syst. mycol. (Upsaliae) 347 (1838)
 
 #### Original name
 Agaricus tithymalinus Scop., 1772

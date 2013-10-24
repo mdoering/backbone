@@ -1,5 +1,4 @@
-Leptotrema sandwicense Zahlbr. SPECIES
-=======
+# Leptotrema sandwicense Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

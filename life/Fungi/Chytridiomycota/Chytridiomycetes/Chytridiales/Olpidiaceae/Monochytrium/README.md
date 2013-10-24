@@ -1,5 +1,4 @@
-Monochytrium GENUS
-=======
+# Monochytrium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces ferganensis Tranzschel & Erem. SPECIES
-=======
+# Uromyces ferganensis Tranzschel & Erem. SPECIES
 
 #### Status
 ACCEPTED

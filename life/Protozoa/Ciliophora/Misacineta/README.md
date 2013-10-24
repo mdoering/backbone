@@ -1,5 +1,4 @@
-Misacineta Yankovskii, 1978 GENUS
-=======
+# Misacineta Yankovskii, 1978 GENUS
 
 #### Status
 ACCEPTED

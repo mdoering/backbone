@@ -1,5 +1,4 @@
-Fusarium secalis Jacz. SPECIES
-=======
+# Fusarium secalis Jacz. SPECIES
 
 #### Status
 ACCEPTED

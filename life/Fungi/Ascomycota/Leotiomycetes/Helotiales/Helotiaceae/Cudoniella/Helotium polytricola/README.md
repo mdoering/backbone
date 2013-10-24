@@ -1,5 +1,4 @@
-Helotium polytricola P. Crouan & H. Crouan SPECIES
-=======
+# Helotium polytricola P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

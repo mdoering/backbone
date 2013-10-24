@@ -1,5 +1,4 @@
-Sarcostroma berberidis (Lind) Nag Raj SPECIES
-=======
+# Sarcostroma berberidis (Lind) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

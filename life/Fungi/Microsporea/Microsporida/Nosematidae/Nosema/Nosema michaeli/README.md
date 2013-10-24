@@ -1,5 +1,4 @@
-Nosema michaeli Sprague SPECIES
-=======
+# Nosema michaeli Sprague SPECIES
 
 #### Status
 ACCEPTED

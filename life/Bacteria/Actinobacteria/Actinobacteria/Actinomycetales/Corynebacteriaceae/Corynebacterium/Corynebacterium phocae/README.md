@@ -1,5 +1,4 @@
-Corynebacterium phocae Pascual et al., 1998 SPECIES
-=======
+# Corynebacterium phocae Pascual et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

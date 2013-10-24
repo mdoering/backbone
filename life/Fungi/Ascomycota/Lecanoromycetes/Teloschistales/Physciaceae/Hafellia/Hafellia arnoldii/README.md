@@ -1,5 +1,4 @@
-Hafellia arnoldii (Servít) Hafellner & Türk SPECIES
-=======
+# Hafellia arnoldii (Servít) Hafellner & Türk SPECIES
 
 #### Status
 ACCEPTED

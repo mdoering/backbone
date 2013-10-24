@@ -1,5 +1,4 @@
-Pannaria planiuscula P. M. Jørg. SPECIES
-=======
+# Pannaria planiuscula P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

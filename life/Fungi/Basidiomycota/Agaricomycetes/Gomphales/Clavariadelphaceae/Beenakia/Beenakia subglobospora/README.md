@@ -1,5 +1,4 @@
-Beenakia subglobospora Núñez & Ryvarden, 1994 SPECIES
-=======
+# Beenakia subglobospora Núñez & Ryvarden, 1994 SPECIES
 
 #### Status
 ACCEPTED

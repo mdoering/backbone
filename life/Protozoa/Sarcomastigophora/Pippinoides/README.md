@@ -1,5 +1,4 @@
-Pippinoides McCulloch, 1977 GENUS
-=======
+# Pippinoides McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

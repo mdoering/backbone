@@ -1,5 +1,4 @@
-Fusarium socium Sacc. SPECIES
-=======
+# Fusarium socium Sacc. SPECIES
 
 #### Status
 ACCEPTED

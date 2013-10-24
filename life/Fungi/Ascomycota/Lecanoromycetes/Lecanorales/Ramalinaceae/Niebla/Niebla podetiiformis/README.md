@@ -1,17 +1,16 @@
-Niebla podetiaforma Spjut SPECIES
-=======
+# Niebla podetiiformis Spjut SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sida, Bot. Misc. 14: 124 (1996)
 
 #### Original name
-Niebla podetiaforma Spjut
+Niebla podetiiformis Spjut
 
 ### Remarks
 null

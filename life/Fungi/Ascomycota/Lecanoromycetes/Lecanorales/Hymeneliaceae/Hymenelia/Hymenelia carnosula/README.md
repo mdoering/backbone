@@ -1,14 +1,13 @@
-Hymenelia carnulosa (Arnold) Lutzoni SPECIES
-=======
+# Hymenelia carnosula (Arnold) Lutzoni SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Lutzoni & Brodo, Syst. Bot. 20(3): 250 (1995)
 
 #### Original name
 Aspicilia carnosula Arnold

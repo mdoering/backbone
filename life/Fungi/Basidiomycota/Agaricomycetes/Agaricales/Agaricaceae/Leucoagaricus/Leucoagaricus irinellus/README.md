@@ -1,5 +1,4 @@
-Leucoagaricus irinellus Chalange, 1999 SPECIES
-=======
+# Leucoagaricus irinellus Chalange, 1999 SPECIES
 
 #### Status
 ACCEPTED

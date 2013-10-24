@@ -1,5 +1,4 @@
-Bacidia socotrana (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia socotrana (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

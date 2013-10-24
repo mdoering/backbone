@@ -1,5 +1,4 @@
-Puccinia plectranthella Arthur & Cummins SPECIES
-=======
+# Puccinia plectranthella Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

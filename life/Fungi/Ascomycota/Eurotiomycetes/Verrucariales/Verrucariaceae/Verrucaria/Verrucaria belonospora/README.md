@@ -1,5 +1,4 @@
-Verrucaria belonospora Nyl. SPECIES
-=======
+# Verrucaria belonospora Nyl. SPECIES
 
 #### Status
 ACCEPTED

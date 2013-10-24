@@ -1,5 +1,4 @@
-Gnomonia prunicola (Höhn.) M. Monod SPECIES
-=======
+# Gnomonia prunicola (Höhn.) M. Monod SPECIES
 
 #### Status
 ACCEPTED

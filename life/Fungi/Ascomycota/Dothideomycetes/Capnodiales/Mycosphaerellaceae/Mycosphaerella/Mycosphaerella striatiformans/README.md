@@ -1,5 +1,4 @@
-Mycosphaerella striatiformans Cobb SPECIES
-=======
+# Mycosphaerella striatiformans Cobb SPECIES
 
 #### Status
 ACCEPTED

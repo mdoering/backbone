@@ -1,5 +1,4 @@
-Diorygma poiteaui (Fée) Kalb, Staiger & Elix SPECIES
-=======
+# Diorygma poiteaui (Fée) Kalb, Staiger & Elix SPECIES
 
 #### Status
 ACCEPTED

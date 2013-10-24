@@ -1,5 +1,4 @@
-Lecidea hypopodioides Nyl. SPECIES
-=======
+# Lecidea hypopodioides Nyl. SPECIES
 
 #### Status
 ACCEPTED

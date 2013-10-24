@@ -1,5 +1,4 @@
-Belonium viride Velen. SPECIES
-=======
+# Belonium viride Velen. SPECIES
 
 #### Status
 ACCEPTED

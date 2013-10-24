@@ -1,5 +1,4 @@
-Helminthosporium reyesii Died. SPECIES
-=======
+# Helminthosporium reyesii Died. SPECIES
 
 #### Status
 ACCEPTED

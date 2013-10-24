@@ -1,5 +1,4 @@
-Phlebomorpha rufa Pers. SPECIES
-=======
+# Phlebomorpha rufa Pers. SPECIES
 
 #### Status
 ACCEPTED

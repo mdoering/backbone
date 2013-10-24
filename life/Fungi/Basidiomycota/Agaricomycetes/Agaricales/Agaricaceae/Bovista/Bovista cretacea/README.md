@@ -1,5 +1,4 @@
-Bovista cretacea T.C.E. Fr. SPECIES
-=======
+# Bovista cretacea T.C.E. Fr. SPECIES
 
 #### Status
 ACCEPTED

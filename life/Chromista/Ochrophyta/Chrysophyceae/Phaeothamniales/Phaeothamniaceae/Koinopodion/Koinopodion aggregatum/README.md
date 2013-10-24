@@ -1,5 +1,4 @@
-Koinopodion aggregatum Pascher SPECIES
-=======
+# Koinopodion aggregatum Pascher SPECIES
 
 #### Status
 ACCEPTED

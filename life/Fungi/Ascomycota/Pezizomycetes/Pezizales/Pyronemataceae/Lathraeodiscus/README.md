@@ -1,5 +1,4 @@
-Lathraeodiscus Dissing & Sivertsen GENUS
-=======
+# Lathraeodiscus Dissing & Sivertsen GENUS
 
 #### Status
 ACCEPTED

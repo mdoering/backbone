@@ -1,5 +1,4 @@
-Lentinus campinensis Teixeira SPECIES
-=======
+# Lentinus campinensis Teixeira SPECIES
 
 #### Status
 ACCEPTED

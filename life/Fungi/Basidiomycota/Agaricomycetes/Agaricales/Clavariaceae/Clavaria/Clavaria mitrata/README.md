@@ -1,5 +1,4 @@
-Clavaria mitrata var. mitrata Holmsk. VARIETY
-=======
+# Clavaria mitrata Dicks. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Beata Ruris Otia FUNGIS DANICIS 1: 21 (1790)
+Fasc. pl. crypt. brit. (London) 4: 27 (1801)
 
 #### Original name
-Clavaria mitrata var. mitrata Holmsk.
+Clavaria mitrata Dicks.
 
 ### Remarks
 null

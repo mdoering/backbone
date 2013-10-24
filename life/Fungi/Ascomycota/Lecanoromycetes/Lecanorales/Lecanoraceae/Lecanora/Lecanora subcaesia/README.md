@@ -1,5 +1,4 @@
-Lecanora subcaesia H. Magn. SPECIES
-=======
+# Lecanora subcaesia H. Magn. SPECIES
 
 #### Status
 ACCEPTED

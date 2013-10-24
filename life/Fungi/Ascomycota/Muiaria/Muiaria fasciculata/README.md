@@ -1,5 +1,4 @@
-Muiaria fasciculata Thaxt. SPECIES
-=======
+# Muiaria fasciculata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

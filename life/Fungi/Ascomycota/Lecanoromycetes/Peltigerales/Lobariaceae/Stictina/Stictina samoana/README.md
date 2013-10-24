@@ -1,5 +1,4 @@
-Stictina samoana Müll. Arg. SPECIES
-=======
+# Stictina samoana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

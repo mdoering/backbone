@@ -1,5 +1,4 @@
-Melastictis Reinsch, 1890 GENUS
-=======
+# Melastictis Reinsch, 1890 GENUS
 
 #### Status
 ACCEPTED

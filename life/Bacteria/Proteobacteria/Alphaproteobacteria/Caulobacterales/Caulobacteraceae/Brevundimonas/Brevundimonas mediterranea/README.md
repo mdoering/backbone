@@ -1,5 +1,4 @@
-Brevundimonas mediterranea Fritz et al., 2005 SPECIES
-=======
+# Brevundimonas mediterranea Fritz et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

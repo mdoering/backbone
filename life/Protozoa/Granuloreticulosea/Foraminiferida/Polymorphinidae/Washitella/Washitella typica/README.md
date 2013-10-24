@@ -1,5 +1,4 @@
-Washitella typica Tappan, 1943 SPECIES
-=======
+# Washitella typica Tappan, 1943 SPECIES
 
 #### Status
 ACCEPTED

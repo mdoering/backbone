@@ -1,14 +1,13 @@
-Pleurocolla compressa (Ellis & Everh.) Diehl, 1933 SPECIES
-=======
+# Leucogloea compressa (Ellis & Everh.) R. Kirschner, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Wash. Acad. Sci. 23: 61 (1933)
+Frontiers in Basidiomycote Mycology 177 (2004)
 
 #### Original name
 Dendrodochium compressum Ellis & Everh., 1897

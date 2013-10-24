@@ -1,17 +1,16 @@
-Kneiffia E.M. Fries, 1836 GENUS
-=======
+# Hypoderma De Notaris, 1847 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+G. bot. ital. 2(1,2): 13 (1847)
 
 #### Original name
-null
+Hypoderma De Notaris, 1847
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecidea orientalis (J. Steiner) C.W. Dodge SPECIES
-=======
+# Lecidea orientalis (J. Steiner) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

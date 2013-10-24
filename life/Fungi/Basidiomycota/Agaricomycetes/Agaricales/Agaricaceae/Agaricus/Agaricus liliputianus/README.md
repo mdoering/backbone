@@ -1,5 +1,4 @@
-Agaricus liliputianus Mont. SPECIES
-=======
+# Agaricus liliputianus Mont. SPECIES
 
 #### Status
 ACCEPTED

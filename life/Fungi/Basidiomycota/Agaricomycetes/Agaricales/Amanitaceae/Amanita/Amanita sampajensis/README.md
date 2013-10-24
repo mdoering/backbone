@@ -1,5 +1,4 @@
-Amanita sampajensis Sathe & S.M. Kulk. SPECIES
-=======
+# Amanita sampajensis Sathe & S.M. Kulk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Nectriella furfurella (Berk. & Broome) Sacc., 1883 SPECIES
-=======
+# Pseudonectria furfurella (Berk. & Broome) Petch, 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 452 (1883)
+Trans. Br. mycol. Soc. 21: 249 (1938)
 
 #### Original name
 Nectria furfurella Berk. & Broome, 1871

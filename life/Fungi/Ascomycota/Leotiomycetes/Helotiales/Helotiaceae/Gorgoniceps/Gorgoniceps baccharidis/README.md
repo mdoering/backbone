@@ -1,5 +1,4 @@
-Gorgoniceps baccharidis Rehm SPECIES
-=======
+# Gorgoniceps baccharidis Rehm SPECIES
 
 #### Status
 ACCEPTED

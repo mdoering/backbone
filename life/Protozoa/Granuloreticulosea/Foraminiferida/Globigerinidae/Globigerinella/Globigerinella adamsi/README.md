@@ -1,8 +1,7 @@
-Hastigerina adamsi Banner & Blow, 1859 SPECIES
-=======
+# Globigerinella adamsi (Banner & Blow, 1959) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

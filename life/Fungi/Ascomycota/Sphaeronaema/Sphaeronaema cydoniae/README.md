@@ -1,5 +1,4 @@
-Sphaeronaema cydoniae A.C. Santos & Sousa da Câmara SPECIES
-=======
+# Sphaeronaema cydoniae A.C. Santos & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

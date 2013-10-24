@@ -1,5 +1,4 @@
-Caryophanon latum Peshkoff, 1939 (Approved Lists, 1980) SPECIES
-=======
+# Caryophanon latum Peshkoff, 1939 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

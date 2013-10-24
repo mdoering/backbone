@@ -1,5 +1,4 @@
-Cladotrichum fuscum Preuss SPECIES
-=======
+# Cladotrichum fuscum Preuss SPECIES
 
 #### Status
 ACCEPTED

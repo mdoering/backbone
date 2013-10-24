@@ -1,5 +1,4 @@
-Phlyctochytrium mangrovei Ulken SPECIES
-=======
+# Phlyctochytrium mangrovei Ulken SPECIES
 
 #### Status
 ACCEPTED

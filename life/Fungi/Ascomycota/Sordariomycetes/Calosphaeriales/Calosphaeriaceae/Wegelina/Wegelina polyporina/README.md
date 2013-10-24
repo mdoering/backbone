@@ -1,5 +1,4 @@
-Wegelina polyporina M.E. Barr, 1998 SPECIES
-=======
+# Wegelina polyporina M.E. Barr, 1998 SPECIES
 
 #### Status
 ACCEPTED

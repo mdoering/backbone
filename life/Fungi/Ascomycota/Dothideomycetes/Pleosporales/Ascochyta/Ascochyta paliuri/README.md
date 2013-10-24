@@ -1,5 +1,4 @@
-Ascochyta paliuri Sacc. SPECIES
-=======
+# Ascochyta paliuri Sacc. SPECIES
 
 #### Status
 ACCEPTED

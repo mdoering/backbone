@@ -1,5 +1,4 @@
-Pocillaria perelegans Kuntze SPECIES
-=======
+# Pocillaria perelegans Kuntze SPECIES
 
 #### Status
 ACCEPTED

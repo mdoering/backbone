@@ -1,5 +1,4 @@
-Cornicularia lanata (Neck.) Ach. SPECIES
-=======
+# Cornicularia lanata (Neck.) Ach. SPECIES
 
 #### Status
 ACCEPTED

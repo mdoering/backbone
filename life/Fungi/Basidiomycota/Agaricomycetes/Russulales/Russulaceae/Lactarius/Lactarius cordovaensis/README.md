@@ -1,5 +1,4 @@
-Lactarius cordovaensis Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius cordovaensis Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

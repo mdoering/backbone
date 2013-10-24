@@ -1,5 +1,4 @@
-Aspidella gemmifera (E.-J. Gilbert) E.-J. Gilbert SPECIES
-=======
+# Aspidella gemmifera (E.-J. Gilbert) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

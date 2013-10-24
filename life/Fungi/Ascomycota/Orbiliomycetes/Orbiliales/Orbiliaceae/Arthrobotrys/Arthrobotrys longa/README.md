@@ -1,5 +1,4 @@
-Arthrobotrys longa Mekht. SPECIES
-=======
+# Arthrobotrys longa Mekht. SPECIES
 
 #### Status
 ACCEPTED

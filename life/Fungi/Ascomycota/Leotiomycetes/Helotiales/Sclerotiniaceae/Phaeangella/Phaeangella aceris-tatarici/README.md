@@ -1,5 +1,4 @@
-Phaeangella aceris-tatarici (Hazsl.) Sacc. & D. Sacc. SPECIES
-=======
+# Phaeangella aceris-tatarici (Hazsl.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

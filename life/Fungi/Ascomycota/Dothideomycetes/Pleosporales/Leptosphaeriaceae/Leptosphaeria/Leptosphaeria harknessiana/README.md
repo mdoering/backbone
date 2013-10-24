@@ -1,5 +1,4 @@
-Leptosphaeria harknessiana Ellis & Everh. SPECIES
-=======
+# Leptosphaeria harknessiana Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

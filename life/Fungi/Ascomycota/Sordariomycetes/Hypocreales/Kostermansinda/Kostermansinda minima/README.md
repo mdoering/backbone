@@ -1,5 +1,4 @@
-Kostermansinda minima Cabello & Aramb. SPECIES
-=======
+# Kostermansinda minima Cabello & Aramb. SPECIES
 
 #### Status
 ACCEPTED

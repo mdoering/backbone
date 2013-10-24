@@ -1,5 +1,4 @@
-Ramaria arcosuensis Schild, Brotzu & A. Gennari, 1998 SPECIES
-=======
+# Ramaria arcosuensis Schild, Brotzu & A. Gennari, 1998 SPECIES
 
 #### Status
 ACCEPTED

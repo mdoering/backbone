@@ -1,5 +1,4 @@
-Petrakia deviata Petr. SPECIES
-=======
+# Petrakia deviata Petr. SPECIES
 
 #### Status
 ACCEPTED

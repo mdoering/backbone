@@ -1,5 +1,4 @@
-Thermococci CLASS
-=======
+# Thermococci CLASS
 
 #### Status
 ACCEPTED

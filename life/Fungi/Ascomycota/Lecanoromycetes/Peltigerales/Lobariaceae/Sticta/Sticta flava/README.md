@@ -1,5 +1,4 @@
-Sticta flava Müll. Arg. SPECIES
-=======
+# Sticta flava Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

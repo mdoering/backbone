@@ -1,5 +1,4 @@
-Endothia japonica Kobay. {?} & Kaz. Itô SPECIES
-=======
+# Endothia japonica Kobay. {?} & Kaz. Itô SPECIES
 
 #### Status
 ACCEPTED

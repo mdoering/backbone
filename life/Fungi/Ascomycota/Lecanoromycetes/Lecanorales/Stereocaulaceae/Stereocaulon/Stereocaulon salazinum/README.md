@@ -1,5 +1,4 @@
-Stereocaulon salazinum (Bory) Fée SPECIES
-=======
+# Stereocaulon salazinum (Bory) Fée SPECIES
 
 #### Status
 ACCEPTED

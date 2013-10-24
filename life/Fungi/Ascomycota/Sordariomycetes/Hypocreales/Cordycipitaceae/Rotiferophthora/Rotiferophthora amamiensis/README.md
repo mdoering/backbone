@@ -1,5 +1,4 @@
-Rotiferophthora amamiensis Glockling SPECIES
-=======
+# Rotiferophthora amamiensis Glockling SPECIES
 
 #### Status
 ACCEPTED

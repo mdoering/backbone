@@ -1,5 +1,4 @@
-Guignardia araucariae Sousa da Câmara SPECIES
-=======
+# Guignardia araucariae Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stypolarcus Haeckel, 1887 GENUS
-=======
+# Stypolarcus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

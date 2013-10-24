@@ -1,5 +1,4 @@
-Nematosporangium subtile (Wahrlich) Jacz. SPECIES
-=======
+# Nematosporangium subtile (Wahrlich) Jacz. SPECIES
 
 #### Status
 ACCEPTED

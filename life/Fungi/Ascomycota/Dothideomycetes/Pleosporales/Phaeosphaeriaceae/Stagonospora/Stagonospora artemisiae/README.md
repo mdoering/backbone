@@ -1,5 +1,4 @@
-Stagonospora artemisiae Rostr. SPECIES
-=======
+# Stagonospora artemisiae Rostr. SPECIES
 
 #### Status
 ACCEPTED

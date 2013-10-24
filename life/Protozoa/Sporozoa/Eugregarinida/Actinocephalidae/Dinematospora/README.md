@@ -1,5 +1,4 @@
-Dinematospora Tuzet & Ormières, 1954 GENUS
-=======
+# Dinematospora Tuzet & Ormières, 1954 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus petasalus Gonn. & Rabenh. SPECIES
-=======
+# Agaricus petasalus Gonn. & Rabenh. SPECIES
 
 #### Status
 ACCEPTED

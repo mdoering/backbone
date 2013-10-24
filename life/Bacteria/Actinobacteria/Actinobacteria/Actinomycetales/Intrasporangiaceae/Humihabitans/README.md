@@ -1,5 +1,4 @@
-Humihabitans Kageyama et al., 2007 GENUS
-=======
+# Humihabitans Kageyama et al., 2007 GENUS
 
 #### Status
 ACCEPTED

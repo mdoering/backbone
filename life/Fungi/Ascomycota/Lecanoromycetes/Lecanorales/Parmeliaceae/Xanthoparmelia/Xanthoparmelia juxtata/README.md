@@ -1,14 +1,13 @@
-Paraparmelia juxtata Elix SPECIES
-=======
+# Xanthoparmelia juxtata (Elix) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Lichenol. 80: 103 (2001)
+Mycotaxon 87: 399 (2003)
 
 #### Original name
 Paraparmelia juxtata Elix

@@ -1,5 +1,4 @@
-Opegrapha brachycarpa Müll. Arg. SPECIES
-=======
+# Opegrapha brachycarpa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

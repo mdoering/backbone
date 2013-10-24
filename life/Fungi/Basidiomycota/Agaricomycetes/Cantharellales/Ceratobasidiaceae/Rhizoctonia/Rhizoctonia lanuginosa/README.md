@@ -1,5 +1,4 @@
-Rhizoctonia lanuginosa G.E. Bernard, 1909 SPECIES
-=======
+# Rhizoctonia lanuginosa G.E. Bernard, 1909 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeomarasmius pityrodes Gröger SPECIES
-=======
+# Phaeomarasmius pityrodes Gröger SPECIES
 
 #### Status
 ACCEPTED

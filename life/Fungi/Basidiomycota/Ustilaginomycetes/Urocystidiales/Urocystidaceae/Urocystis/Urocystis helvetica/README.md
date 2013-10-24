@@ -1,5 +1,4 @@
-Urocystis helvetica (Cif.) H. Scholz & I. Scholz SPECIES
-=======
+# Urocystis helvetica (Cif.) H. Scholz & I. Scholz SPECIES
 
 #### Status
 ACCEPTED

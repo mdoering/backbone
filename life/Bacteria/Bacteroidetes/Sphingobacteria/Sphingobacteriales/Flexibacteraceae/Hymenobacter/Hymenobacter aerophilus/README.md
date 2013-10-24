@@ -1,5 +1,4 @@
-Hymenobacter aerophilus Buczolits et al., 2002 SPECIES
-=======
+# Hymenobacter aerophilus Buczolits et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

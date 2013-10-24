@@ -1,5 +1,4 @@
-Pyrococcus horikoshii González et al., 1999 SPECIES
-=======
+# Pyrococcus horikoshii González et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

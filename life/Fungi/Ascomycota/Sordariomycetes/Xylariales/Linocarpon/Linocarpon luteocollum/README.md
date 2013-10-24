@@ -1,5 +1,4 @@
-Linocarpon luteocollum Joanne E. Taylor, K.D. Hyde & E.B.G. Jones SPECIES
-=======
+# Linocarpon luteocollum Joanne E. Taylor, K.D. Hyde & E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

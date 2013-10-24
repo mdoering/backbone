@@ -1,5 +1,4 @@
-Stachybotrys reniformis Tubaki SPECIES
-=======
+# Stachybotrys reniformis Tubaki SPECIES
 
 #### Status
 ACCEPTED

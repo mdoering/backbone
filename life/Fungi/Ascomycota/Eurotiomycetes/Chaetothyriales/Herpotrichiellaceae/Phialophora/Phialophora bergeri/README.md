@@ -1,5 +1,4 @@
-Phialophora bergeri (Langeron) Cif. SPECIES
-=======
+# Phialophora bergeri (Langeron) Cif. SPECIES
 
 #### Status
 ACCEPTED

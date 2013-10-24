@@ -1,5 +1,4 @@
-Eschatogonia montagnei Trevis. SPECIES
-=======
+# Eschatogonia montagnei Trevis. SPECIES
 
 #### Status
 ACCEPTED

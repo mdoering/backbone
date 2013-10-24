@@ -1,5 +1,4 @@
-Gloeosporium marginale Speg. SPECIES
-=======
+# Gloeosporium marginale Speg. SPECIES
 
 #### Status
 ACCEPTED

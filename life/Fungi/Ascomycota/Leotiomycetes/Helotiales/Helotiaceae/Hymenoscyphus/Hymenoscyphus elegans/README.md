@@ -1,5 +1,4 @@
-Hymenoscyphus elegans (Saut.) Kuntze SPECIES
-=======
+# Hymenoscyphus elegans (Saut.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

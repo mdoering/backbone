@@ -1,5 +1,4 @@
-Hygrophorus bresadolae Quél. SPECIES
-=======
+# Hygrophorus bresadolae Quél. SPECIES
 
 #### Status
 ACCEPTED

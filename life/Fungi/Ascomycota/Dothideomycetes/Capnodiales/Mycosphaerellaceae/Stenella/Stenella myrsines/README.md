@@ -1,5 +1,4 @@
-Stenella myrsines R. Kirschner SPECIES
-=======
+# Stenella myrsines R. Kirschner SPECIES
 
 #### Status
 ACCEPTED

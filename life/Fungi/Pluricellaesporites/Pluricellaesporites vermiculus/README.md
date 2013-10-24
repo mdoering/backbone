@@ -1,5 +1,4 @@
-Pluricellaesporites vermiculus V.S. Ediger SPECIES
-=======
+# Pluricellaesporites vermiculus V.S. Ediger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Asterionella japonica Cleve SPECIES
-=======
+# Asterionellopsis glacialis (F. Castracane) F.E. Round SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

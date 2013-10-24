@@ -1,5 +1,4 @@
-Puttemansia miakei (I. Hino & Katum.) O.E. Erikss. & J.Z. Yue SPECIES
-=======
+# Puttemansia miakei (I. Hino & Katum.) O.E. Erikss. & J.Z. Yue SPECIES
 
 #### Status
 ACCEPTED

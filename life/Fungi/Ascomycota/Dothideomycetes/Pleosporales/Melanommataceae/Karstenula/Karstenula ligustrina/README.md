@@ -1,5 +1,4 @@
-Karstenula ligustrina Petr. SPECIES
-=======
+# Karstenula ligustrina Petr. SPECIES
 
 #### Status
 ACCEPTED

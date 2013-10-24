@@ -1,5 +1,4 @@
-Glomerilla subtilis Norman SPECIES
-=======
+# Glomerilla subtilis Norman SPECIES
 
 #### Status
 ACCEPTED

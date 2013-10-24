@@ -1,5 +1,4 @@
-Irenina aracearum F. Stevens SPECIES
-=======
+# Irenina aracearum F. Stevens SPECIES
 
 #### Status
 ACCEPTED

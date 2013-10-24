@@ -1,17 +1,16 @@
-Parmelia perfunctata Brusse SPECIES
-=======
+# Xanthoparmelia natalensis Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 29: 259 (1987)
 
 #### Original name
-null
+Xanthoparmelia natalensis Hale
 
 ### Remarks
 null

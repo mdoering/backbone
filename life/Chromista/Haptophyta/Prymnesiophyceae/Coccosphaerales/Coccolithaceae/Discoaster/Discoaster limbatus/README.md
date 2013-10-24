@@ -1,5 +1,4 @@
-Discoaster limbatus Bramlette & Sullivan, 1961 SPECIES
-=======
+# Discoaster limbatus Bramlette & Sullivan, 1961 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia laxifolia Hillmann SPECIES
-=======
+# Parmelia laxifolia Hillmann SPECIES
 
 #### Status
 ACCEPTED

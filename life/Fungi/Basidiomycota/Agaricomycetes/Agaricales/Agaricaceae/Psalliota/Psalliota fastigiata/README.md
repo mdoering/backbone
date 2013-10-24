@@ -1,5 +1,4 @@
-Psalliota fastigiata Bres. SPECIES
-=======
+# Psalliota fastigiata Bres. SPECIES
 
 #### Status
 ACCEPTED

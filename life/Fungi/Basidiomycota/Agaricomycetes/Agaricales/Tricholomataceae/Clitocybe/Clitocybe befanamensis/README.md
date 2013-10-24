@@ -1,5 +1,4 @@
-Clitocybe befanamensis Dufour & H. Poiss. SPECIES
-=======
+# Clitocybe befanamensis Dufour & H. Poiss. SPECIES
 
 #### Status
 ACCEPTED

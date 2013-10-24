@@ -1,5 +1,4 @@
-Polyporus lowei Burds. & Lombard SPECIES
-=======
+# Polyporus lowei Burds. & Lombard SPECIES
 
 #### Status
 ACCEPTED

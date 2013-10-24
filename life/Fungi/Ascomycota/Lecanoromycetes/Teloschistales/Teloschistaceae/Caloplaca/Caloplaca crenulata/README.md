@@ -1,5 +1,4 @@
-Caloplaca crenulata (Wahlenb.) Th. Fr. SPECIES
-=======
+# Caloplaca crenulata (Wahlenb.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Symbiomonas scintillans L. Guillou & M. J. Chrétiennot-Dinet SPECIES
-=======
+# Symbiomonas scintillans L. Guillou & M. J. Chrétiennot-Dinet SPECIES
 
 #### Status
 ACCEPTED

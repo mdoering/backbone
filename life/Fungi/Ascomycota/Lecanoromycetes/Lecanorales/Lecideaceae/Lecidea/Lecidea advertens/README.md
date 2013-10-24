@@ -1,5 +1,4 @@
-Lecidea advertens Nyl. SPECIES
-=======
+# Lecidea advertens Nyl. SPECIES
 
 #### Status
 ACCEPTED

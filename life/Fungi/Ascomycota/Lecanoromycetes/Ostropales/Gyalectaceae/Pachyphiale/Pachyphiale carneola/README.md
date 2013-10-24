@@ -1,14 +1,13 @@
-Patellaria carneola (Ach.) Spreng. SPECIES
-=======
+# Pachyphiale carneola (Ach.) Arnold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 54: 50 (1871)
 
 #### Original name
 Lecidea carneola Ach.

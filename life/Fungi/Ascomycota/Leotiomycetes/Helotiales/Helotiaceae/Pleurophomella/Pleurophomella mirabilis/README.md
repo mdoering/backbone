@@ -1,5 +1,4 @@
-Pleurophomella mirabilis Syd. SPECIES
-=======
+# Pleurophomella mirabilis Syd. SPECIES
 
 #### Status
 ACCEPTED

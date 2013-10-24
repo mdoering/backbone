@@ -1,5 +1,4 @@
-Dicaeoma stromaticum (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Dicaeoma stromaticum (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

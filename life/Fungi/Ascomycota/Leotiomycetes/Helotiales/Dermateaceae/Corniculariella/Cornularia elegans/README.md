@@ -1,5 +1,4 @@
-Cornularia elegans Curzi SPECIES
-=======
+# Cornularia elegans Curzi SPECIES
 
 #### Status
 ACCEPTED

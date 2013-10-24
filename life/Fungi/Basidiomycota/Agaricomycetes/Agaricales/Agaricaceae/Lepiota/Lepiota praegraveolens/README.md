@@ -1,5 +1,4 @@
-Lepiota praegraveolens Murrill SPECIES
-=======
+# Lepiota praegraveolens Murrill SPECIES
 
 #### Status
 ACCEPTED

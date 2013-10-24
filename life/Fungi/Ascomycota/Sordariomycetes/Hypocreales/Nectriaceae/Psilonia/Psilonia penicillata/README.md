@@ -1,5 +1,4 @@
-Psilonia penicillata Berk. & Broome SPECIES
-=======
+# Psilonia penicillata Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

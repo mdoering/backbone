@@ -1,5 +1,4 @@
-Sphaerella gibelliana Pass. SPECIES
-=======
+# Sphaerella gibelliana Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vanakripa ellipsoidea K.M. Tsui, Goh & K.D. Hyde SPECIES
-=======
+# Vanakripa ellipsoidea K.M. Tsui, Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

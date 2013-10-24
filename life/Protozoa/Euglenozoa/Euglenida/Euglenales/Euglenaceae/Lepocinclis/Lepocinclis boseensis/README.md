@@ -1,5 +1,4 @@
-Lepocinclis boseensis S.L. Xie, L.C. Qiu & Y.J. Ling SPECIES
-=======
+# Lepocinclis boseensis S.L. Xie, L.C. Qiu & Y.J. Ling SPECIES
 
 #### Status
 ACCEPTED

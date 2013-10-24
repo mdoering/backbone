@@ -1,5 +1,4 @@
-Opegrapha peltigerae R. Sant. SPECIES
-=======
+# Opegrapha peltigerae R. Sant. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina scribillans (Nyl.) Zahlbr. SPECIES
-=======
+# Graphina scribillans (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

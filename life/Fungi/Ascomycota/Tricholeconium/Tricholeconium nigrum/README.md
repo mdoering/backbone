@@ -1,5 +1,4 @@
-Tricholeconium nigrum Preuss SPECIES
-=======
+# Tricholeconium nigrum Preuss SPECIES
 
 #### Status
 ACCEPTED

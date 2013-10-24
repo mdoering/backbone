@@ -1,5 +1,4 @@
-Kitasatospora cineracea Tajima et al., 2001 SPECIES
-=======
+# Kitasatospora cineracea Tajima et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

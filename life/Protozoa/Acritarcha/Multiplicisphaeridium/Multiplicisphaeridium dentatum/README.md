@@ -1,5 +1,4 @@
-Multiplicisphaeridium dentatum N. Umnova, 1975 SPECIES
-=======
+# Multiplicisphaeridium dentatum N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

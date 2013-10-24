@@ -1,5 +1,4 @@
-Leucoscypha subimmersa K.S. Thind & S.C. Kaushal SPECIES
-=======
+# Leucoscypha subimmersa K.S. Thind & S.C. Kaushal SPECIES
 
 #### Status
 ACCEPTED

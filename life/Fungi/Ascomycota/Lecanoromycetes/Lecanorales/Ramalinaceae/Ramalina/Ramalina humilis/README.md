@@ -1,5 +1,4 @@
-Ramalina humilis (Ach.) Röhl. SPECIES
-=======
+# Ramalina humilis (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

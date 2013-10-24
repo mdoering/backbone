@@ -1,5 +1,4 @@
-Clitocybe nivalis Velen. SPECIES
-=======
+# Clitocybe nivalis Velen. SPECIES
 
 #### Status
 ACCEPTED

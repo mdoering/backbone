@@ -1,5 +1,4 @@
-Patagospyris Haeckel, 1881 GENUS
-=======
+# Patagospyris Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

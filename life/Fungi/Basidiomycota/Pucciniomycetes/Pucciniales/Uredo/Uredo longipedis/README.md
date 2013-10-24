@@ -1,5 +1,4 @@
-Uredo longipedis Henn. SPECIES
-=======
+# Uredo longipedis Henn. SPECIES
 
 #### Status
 ACCEPTED

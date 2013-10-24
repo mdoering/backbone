@@ -1,5 +1,4 @@
-Peridinium pacificum Kofoid & Michener SPECIES
-=======
+# Peridinium pacificum Kofoid & Michener SPECIES
 
 #### Status
 ACCEPTED

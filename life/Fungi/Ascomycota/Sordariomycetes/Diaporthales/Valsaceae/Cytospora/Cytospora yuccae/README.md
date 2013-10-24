@@ -1,5 +1,4 @@
-Cytospora yuccae Politis SPECIES
-=======
+# Cytospora yuccae Politis SPECIES
 
 #### Status
 ACCEPTED

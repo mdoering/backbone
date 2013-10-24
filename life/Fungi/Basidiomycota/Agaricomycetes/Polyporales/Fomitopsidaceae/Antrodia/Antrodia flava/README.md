@@ -1,5 +1,4 @@
-Antrodia flava (P. Karst.) Teixeira SPECIES
-=======
+# Antrodia flava (P. Karst.) Teixeira SPECIES
 
 #### Status
 ACCEPTED

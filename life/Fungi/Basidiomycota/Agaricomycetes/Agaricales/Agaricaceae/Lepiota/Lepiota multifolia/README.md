@@ -1,5 +1,4 @@
-Lepiota multifolia Berk. SPECIES
-=======
+# Lepiota multifolia Berk. SPECIES
 
 #### Status
 ACCEPTED

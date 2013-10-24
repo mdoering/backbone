@@ -1,5 +1,4 @@
-Lecanora minutissima A. Massal. SPECIES
-=======
+# Lecanora minutissima A. Massal. SPECIES
 
 #### Status
 ACCEPTED

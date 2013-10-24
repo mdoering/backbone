@@ -1,5 +1,4 @@
-Diplodiella lata (Cooke & Harkn.) Zambett. SPECIES
-=======
+# Diplodiella lata (Cooke & Harkn.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

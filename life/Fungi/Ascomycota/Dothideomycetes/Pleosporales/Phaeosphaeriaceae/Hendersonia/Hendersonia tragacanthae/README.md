@@ -1,5 +1,4 @@
-Hendersonia tragacanthae Delacr. SPECIES
-=======
+# Hendersonia tragacanthae Delacr. SPECIES
 
 #### Status
 ACCEPTED

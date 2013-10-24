@@ -1,5 +1,4 @@
-Graphis altelii Ach. SPECIES
-=======
+# Graphis altelii Ach. SPECIES
 
 #### Status
 ACCEPTED

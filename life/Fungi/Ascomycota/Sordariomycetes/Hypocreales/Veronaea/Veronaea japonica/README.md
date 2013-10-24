@@ -1,5 +1,4 @@
-Veronaea japonica Arzanlou, W. Gams & Crous SPECIES
-=======
+# Veronaea japonica Arzanlou, W. Gams & Crous SPECIES
 
 #### Status
 ACCEPTED

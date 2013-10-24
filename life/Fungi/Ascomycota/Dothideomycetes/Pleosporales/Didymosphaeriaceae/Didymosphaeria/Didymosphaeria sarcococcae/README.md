@@ -1,5 +1,4 @@
-Didymosphaeria sarcococcae Scheinpflug SPECIES
-=======
+# Didymosphaeria sarcococcae Scheinpflug SPECIES
 
 #### Status
 ACCEPTED

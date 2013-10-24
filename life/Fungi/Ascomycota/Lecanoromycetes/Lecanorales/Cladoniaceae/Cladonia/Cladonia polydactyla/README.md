@@ -1,17 +1,16 @@
-Cladonia polydactyla var. polydactyla VARIETY
-=======
+# Cladonia polydactyla (Flörke) Spreng. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syst. veg. , Edn 16 4(1 Lichenes): 274 (1827)
 
 #### Original name
-Cladonia polydactyla var. polydactyla
+Cenomyce polydactyla Flörke
 
 ### Remarks
 null

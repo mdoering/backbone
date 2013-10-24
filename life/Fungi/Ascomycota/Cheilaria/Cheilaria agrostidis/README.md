@@ -1,17 +1,16 @@
-Septogloeum graminis E. Bommer, M. Rousseau & Sacc., 1891 SPECIES
-=======
+# Cheilaria agrostidis Lib., 1837 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Bommer & Rousseau, Bull. Soc. R. Bot. Belg. 29: 294 (1891)
+Annls Sci. Nat. , Bot. , sér. 2 7: 125 (1837)
 
 #### Original name
-Septogloeum graminis E. Bommer, M. Rousseau & Sacc., 1891
+Cheilaria agrostidis Lib., 1837
 
 ### Remarks
 null

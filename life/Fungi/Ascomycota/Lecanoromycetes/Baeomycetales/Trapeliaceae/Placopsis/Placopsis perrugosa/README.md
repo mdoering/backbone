@@ -1,5 +1,4 @@
-Placopsis perrugosa (Nyl.) Nyl. SPECIES
-=======
+# Placopsis perrugosa (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physma pulvinatum Hue SPECIES
-=======
+# Physma pulvinatum Hue SPECIES
 
 #### Status
 ACCEPTED

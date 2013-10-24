@@ -1,5 +1,4 @@
-Hypocrea phyllostachydis P. Chaverri & Cand. SPECIES
-=======
+# Hypocrea phyllostachydis P. Chaverri & Cand. SPECIES
 
 #### Status
 ACCEPTED

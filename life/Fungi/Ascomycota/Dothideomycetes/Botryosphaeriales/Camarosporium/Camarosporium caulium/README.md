@@ -1,5 +1,4 @@
-Camarosporium caulium Brunaud SPECIES
-=======
+# Camarosporium caulium Brunaud SPECIES
 
 #### Status
 ACCEPTED

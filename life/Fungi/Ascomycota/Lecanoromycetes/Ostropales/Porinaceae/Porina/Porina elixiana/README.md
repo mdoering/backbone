@@ -1,5 +1,4 @@
-Porina elixiana P. M. McCarthy & Lücking SPECIES
-=======
+# Porina elixiana P. M. McCarthy & Lücking SPECIES
 
 #### Status
 ACCEPTED

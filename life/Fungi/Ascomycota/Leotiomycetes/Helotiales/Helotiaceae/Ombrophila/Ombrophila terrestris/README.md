@@ -1,5 +1,4 @@
-Ombrophila terrestris Velen. SPECIES
-=======
+# Ombrophila terrestris Velen. SPECIES
 
 #### Status
 ACCEPTED

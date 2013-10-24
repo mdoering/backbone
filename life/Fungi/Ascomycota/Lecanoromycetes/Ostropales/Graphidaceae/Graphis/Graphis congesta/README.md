@@ -1,5 +1,4 @@
-Graphis congesta Fée SPECIES
-=======
+# Graphis congesta Fée SPECIES
 
 #### Status
 ACCEPTED

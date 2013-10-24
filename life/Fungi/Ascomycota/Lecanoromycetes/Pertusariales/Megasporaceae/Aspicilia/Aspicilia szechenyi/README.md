@@ -1,8 +1,7 @@
-Aspicilia szechenyii Vain. SPECIES
-=======
+# Aspicilia szechenyi Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aspicilia szechenyii Vain.
+Aspicilia szechenyi Vain.
 
 ### Remarks
 null

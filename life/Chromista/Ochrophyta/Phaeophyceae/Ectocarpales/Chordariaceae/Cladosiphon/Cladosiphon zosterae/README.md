@@ -1,8 +1,7 @@
-Cladosiphon occidentalis Kylin SPECIES
-=======
+# Cladosiphon zosterae (J. Agardh) Kylin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

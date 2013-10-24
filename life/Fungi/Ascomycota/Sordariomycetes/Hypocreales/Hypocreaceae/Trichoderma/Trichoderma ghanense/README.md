@@ -1,5 +1,4 @@
-Trichoderma ghanense Yoshim. Doi, Y. Abe & Sugiy., 1987 SPECIES
-=======
+# Trichoderma ghanense Yoshim. Doi, Y. Abe & Sugiy., 1987 SPECIES
 
 #### Status
 ACCEPTED

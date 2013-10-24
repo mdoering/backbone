@@ -1,5 +1,4 @@
-Chaetomastia sambuci (Earle) M.E. Barr SPECIES
-=======
+# Chaetomastia sambuci (Earle) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

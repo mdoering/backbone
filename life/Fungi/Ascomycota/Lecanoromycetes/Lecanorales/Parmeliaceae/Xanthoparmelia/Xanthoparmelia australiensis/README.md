@@ -1,17 +1,16 @@
-Parmelia australiensis var. isidiophora F. Wilson VARIETY
-=======
+# Xanthoparmelia australiensis (Cromb.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Victorian Nat. 6: 60 (1889)
+Phytologia 28: 486 (1974)
 
 #### Original name
-Parmelia australiensis var. isidiophora F. Wilson
+Parmelia australiensis Cromb.
 
 ### Remarks
 null

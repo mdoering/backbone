@@ -1,5 +1,4 @@
-Gymnesina Colom, 1959 GENUS
-=======
+# Gymnesina Colom, 1959 GENUS
 
 #### Status
 ACCEPTED

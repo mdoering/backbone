@@ -1,5 +1,4 @@
-Fuscopannaria leprosa P. M. Jørg. & Tønsberg SPECIES
-=======
+# Fuscopannaria leprosa P. M. Jørg. & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

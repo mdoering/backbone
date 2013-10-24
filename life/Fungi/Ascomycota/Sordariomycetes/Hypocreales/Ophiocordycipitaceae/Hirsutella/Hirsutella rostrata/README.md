@@ -1,5 +1,4 @@
-Hirsutella rostrata Balazy & J. Wisn. SPECIES
-=======
+# Hirsutella rostrata Balazy & J. Wisn. SPECIES
 
 #### Status
 ACCEPTED

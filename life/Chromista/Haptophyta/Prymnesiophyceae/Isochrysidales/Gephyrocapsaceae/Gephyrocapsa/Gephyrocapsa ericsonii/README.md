@@ -1,5 +1,4 @@
-Gephyrocapsa ericsonii McIntyre & Bé SPECIES
-=======
+# Gephyrocapsa ericsonii McIntyre & Bé SPECIES
 
 #### Status
 ACCEPTED

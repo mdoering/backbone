@@ -1,5 +1,4 @@
-Uromyces leonotidis Bagyan., Gjaerum & M. Raju, 2003 SPECIES
-=======
+# Uromyces leonotidis Bagyan., Gjaerum & M. Raju, 2003 SPECIES
 
 #### Status
 ACCEPTED

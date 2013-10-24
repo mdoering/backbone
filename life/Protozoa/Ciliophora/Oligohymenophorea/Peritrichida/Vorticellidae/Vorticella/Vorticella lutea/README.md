@@ -1,5 +1,4 @@
-Vorticella lutea Stiller, 1932 SPECIES
-=======
+# Vorticella lutea Stiller, 1932 SPECIES
 
 #### Status
 ACCEPTED

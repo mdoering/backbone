@@ -1,14 +1,13 @@
-Beloniella galii-veri (P. Karst.) Rehm, 1892 SPECIES
-=======
+# Pyrenopeziza galii-veri (P. Karst.) Sacc., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 8: 356 (1889)
 
 #### Original name
 Mollisia galii-veri P. Karst.

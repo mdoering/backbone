@@ -1,5 +1,4 @@
-Fusarium callosporum Pat. SPECIES
-=======
+# Fusarium callosporum Pat. SPECIES
 
 #### Status
 ACCEPTED

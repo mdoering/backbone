@@ -1,5 +1,4 @@
-Calosphaeria rosarum P. Crouan & H. Crouan SPECIES
-=======
+# Calosphaeria rosarum P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

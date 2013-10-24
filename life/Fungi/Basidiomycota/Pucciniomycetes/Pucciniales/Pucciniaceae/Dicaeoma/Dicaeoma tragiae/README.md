@@ -1,5 +1,4 @@
-Dicaeoma tragiae (Cooke) Kuntze SPECIES
-=======
+# Dicaeoma tragiae (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium baccharidis Dietel SPECIES
-=======
+# Aecidium baccharidis Dietel SPECIES
 
 #### Status
 ACCEPTED

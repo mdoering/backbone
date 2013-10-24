@@ -1,5 +1,4 @@
-Methanobacterium bryantii Balch & Wolfe, 1981 SPECIES
-=======
+# Methanobacterium bryantii Balch & Wolfe, 1981 SPECIES
 
 #### Status
 ACCEPTED

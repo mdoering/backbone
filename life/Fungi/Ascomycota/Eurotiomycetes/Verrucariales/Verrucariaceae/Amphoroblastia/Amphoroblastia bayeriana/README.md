@@ -1,5 +1,4 @@
-Amphoroblastia bayeriana (Servít) Servít SPECIES
-=======
+# Amphoroblastia bayeriana (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

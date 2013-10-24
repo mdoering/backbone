@@ -1,8 +1,7 @@
-Trichosterigma arachnophila Petch SPECIES
-=======
+# Trichosterigma arachnophilum Petch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Trichosterigma arachnophila Petch
+Trichosterigma arachnophilum Petch
 
 ### Remarks
 null

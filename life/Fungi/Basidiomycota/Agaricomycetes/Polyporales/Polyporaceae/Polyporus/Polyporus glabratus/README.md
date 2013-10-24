@@ -1,5 +1,4 @@
-Polyporus glabratus Kalchbr. SPECIES
-=======
+# Polyporus glabratus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

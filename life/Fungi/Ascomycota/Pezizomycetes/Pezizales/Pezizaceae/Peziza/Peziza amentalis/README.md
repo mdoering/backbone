@@ -1,5 +1,4 @@
-Peziza amentalis Schumach. SPECIES
-=======
+# Peziza amentalis Schumach. SPECIES
 
 #### Status
 ACCEPTED

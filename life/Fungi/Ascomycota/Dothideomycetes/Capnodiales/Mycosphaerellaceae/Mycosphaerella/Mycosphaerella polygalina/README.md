@@ -1,5 +1,4 @@
-Mycosphaerella polygalina Petr. SPECIES
-=======
+# Mycosphaerella polygalina Petr. SPECIES
 
 #### Status
 ACCEPTED

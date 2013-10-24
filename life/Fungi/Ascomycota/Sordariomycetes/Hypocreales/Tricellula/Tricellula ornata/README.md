@@ -1,5 +1,4 @@
-Tricellula ornata Marvanová SPECIES
-=======
+# Tricellula ornata Marvanová SPECIES
 
 #### Status
 ACCEPTED

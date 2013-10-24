@@ -1,5 +1,4 @@
-Aquabacterium citratiphilum Kalmbach et al., 1999 SPECIES
-=======
+# Aquabacterium citratiphilum Kalmbach et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

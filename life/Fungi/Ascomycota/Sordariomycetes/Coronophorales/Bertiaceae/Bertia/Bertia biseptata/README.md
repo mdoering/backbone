@@ -1,5 +1,4 @@
-Bertia biseptata Sivan. & W.H. Hsieh SPECIES
-=======
+# Bertia biseptata Sivan. & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

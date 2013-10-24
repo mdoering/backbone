@@ -1,5 +1,4 @@
-Homothecium intermedium Henssen SPECIES
-=======
+# Homothecium intermedium Henssen SPECIES
 
 #### Status
 ACCEPTED

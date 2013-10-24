@@ -1,8 +1,7 @@
-Molleriella sirih Zimm. SPECIES
-=======
+# Moelleriella sirih Zimm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Molleriella sirih Zimm.
+Moelleriella sirih Zimm.
 
 ### Remarks
 null

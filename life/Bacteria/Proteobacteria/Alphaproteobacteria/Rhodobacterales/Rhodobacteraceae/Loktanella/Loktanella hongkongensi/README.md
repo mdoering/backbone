@@ -1,5 +1,4 @@
-Loktanella hongkongensi Lau, Tsoi, Li, Plakhotnikova, Wu, Wong & Quan, 2004 SPECIES
-=======
+# Loktanella hongkongensi Lau, Tsoi, Li, Plakhotnikova, Wu, Wong & Quan, 2004 SPECIES
 
 #### Status
 ACCEPTED

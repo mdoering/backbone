@@ -1,5 +1,4 @@
-Thalassomyces racemosus (Coutière) Bergan SPECIES
-=======
+# Thalassomyces racemosus (Coutière) Bergan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conocybe tucumana (Singer) Watling SPECIES
-=======
+# Conocybe tucumana (Singer) Watling SPECIES
 
 #### Status
 ACCEPTED

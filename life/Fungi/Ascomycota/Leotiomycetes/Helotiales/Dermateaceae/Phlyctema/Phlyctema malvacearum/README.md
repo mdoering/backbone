@@ -1,17 +1,16 @@
-Phlyctaena malvacearum Höhn. SPECIES
-=======
+# Phlyctema malvacearum Höhn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mitt. bot. Inst. tech. Hochsch. Wien 1(2): 46 (1924)
 
 #### Original name
-Phlyctaena malvacearum Höhn.
+Phlyctema malvacearum Höhn.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecanora usneicola Etayo SPECIES
-=======
+# Lecanora usneicola Etayo SPECIES
 
 #### Status
 ACCEPTED

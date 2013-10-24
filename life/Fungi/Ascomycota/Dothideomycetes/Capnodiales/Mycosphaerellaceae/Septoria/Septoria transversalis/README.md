@@ -1,5 +1,4 @@
-Septoria transversalis Sacc. SPECIES
-=======
+# Septoria transversalis Sacc. SPECIES
 
 #### Status
 ACCEPTED

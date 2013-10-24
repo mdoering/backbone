@@ -1,5 +1,4 @@
-Caloplaca infestans H. Magn. SPECIES
-=======
+# Caloplaca infestans H. Magn. SPECIES
 
 #### Status
 ACCEPTED

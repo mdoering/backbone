@@ -1,5 +1,4 @@
-Petalonema involvens var. elongatum (Bourrelly) A. Couté, G. Tell & Y. Thérézien VARIETY
-=======
+# Petalonema involvens (A. Braun) Migula SPECIES
 
 #### Status
 ACCEPTED

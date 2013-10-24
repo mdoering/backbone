@@ -1,5 +1,4 @@
-Omphalia alachuana (Murrill) Murrill SPECIES
-=======
+# Omphalia alachuana (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

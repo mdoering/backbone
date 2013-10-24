@@ -1,5 +1,4 @@
-Phlyctochytrium papillatum Sparrow SPECIES
-=======
+# Phlyctochytrium papillatum Sparrow SPECIES
 
 #### Status
 ACCEPTED

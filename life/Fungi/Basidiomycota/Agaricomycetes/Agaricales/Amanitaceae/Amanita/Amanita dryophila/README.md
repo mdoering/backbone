@@ -1,5 +1,4 @@
-Amanita dryophila Consiglio & Contu SPECIES
-=======
+# Amanita dryophila Consiglio & Contu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteroma atramentarium Berk. SPECIES
-=======
+# Asteroma atramentarium Berk. SPECIES
 
 #### Status
 ACCEPTED

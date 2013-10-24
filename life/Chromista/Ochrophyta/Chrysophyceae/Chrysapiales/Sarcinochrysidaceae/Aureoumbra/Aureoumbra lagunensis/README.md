@@ -1,5 +1,4 @@
-Aureoumbra lagunensis D.A. Stockwell, DeYoe, Hargraves & P.W. Johnson SPECIES
-=======
+# Aureoumbra lagunensis D.A. Stockwell, DeYoe, Hargraves & P.W. Johnson SPECIES
 
 #### Status
 ACCEPTED

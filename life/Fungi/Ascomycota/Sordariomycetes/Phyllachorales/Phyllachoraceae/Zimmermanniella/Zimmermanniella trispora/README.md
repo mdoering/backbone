@@ -1,5 +1,4 @@
-Zimmermanniella trispora Henn., 1902 SPECIES
-=======
+# Zimmermanniella trispora Henn., 1902 SPECIES
 
 #### Status
 ACCEPTED

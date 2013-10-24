@@ -1,5 +1,4 @@
-Spirinella Arvy & Delage, 1966 GENUS
-=======
+# Spirinella Arvy & Delage, 1966 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acetabularia GENUS
-=======
+# Acetabularia GENUS
 
 #### Status
 ACCEPTED

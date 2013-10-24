@@ -1,5 +1,4 @@
-Merulius contortus (Fr.) Höhn. SPECIES
-=======
+# Merulius contortus (Fr.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

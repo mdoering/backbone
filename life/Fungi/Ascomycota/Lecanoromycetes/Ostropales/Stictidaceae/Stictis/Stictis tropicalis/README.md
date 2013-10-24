@@ -1,5 +1,4 @@
-Stictis tropicalis Speg. SPECIES
-=======
+# Stictis tropicalis Speg. SPECIES
 
 #### Status
 ACCEPTED

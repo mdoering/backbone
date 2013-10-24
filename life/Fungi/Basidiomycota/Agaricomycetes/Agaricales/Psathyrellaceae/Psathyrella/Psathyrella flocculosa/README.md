@@ -1,5 +1,4 @@
-Psathyrella flocculosa (Earle) A.H. Sm. SPECIES
-=======
+# Psathyrella flocculosa (Earle) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

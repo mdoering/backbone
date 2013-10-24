@@ -1,5 +1,4 @@
-Nectria macrosperma Speg. SPECIES
-=======
+# Nectria macrosperma Speg. SPECIES
 
 #### Status
 ACCEPTED

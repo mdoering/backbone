@@ -1,5 +1,4 @@
-Calvatia pachydermica (Speg.) Kreisel SPECIES
-=======
+# Calvatia pachydermica (Speg.) Kreisel SPECIES
 
 #### Status
 ACCEPTED

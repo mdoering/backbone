@@ -1,5 +1,4 @@
-Cercospora desmodiicola G.F. Atk. SPECIES
-=======
+# Cercospora desmodiicola G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

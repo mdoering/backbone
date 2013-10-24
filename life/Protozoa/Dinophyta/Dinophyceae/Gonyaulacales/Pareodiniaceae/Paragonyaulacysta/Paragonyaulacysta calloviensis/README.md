@@ -1,5 +1,4 @@
-Paragonyaulacysta calloviensis Johnson & Hills, 1973 SPECIES
-=======
+# Paragonyaulacysta calloviensis Johnson & Hills, 1973 SPECIES
 
 #### Status
 ACCEPTED

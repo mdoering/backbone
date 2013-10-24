@@ -1,5 +1,4 @@
-Herpothallon granulosum Jagadeesh & G. P. Sinha SPECIES
-=======
+# Herpothallon granulosum Jagadeesh & G. P. Sinha SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phytophthora polygoni Sawada SPECIES
-=======
+# Phytophthora polygoni Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudophoma GENUS
-=======
+# Pseudophoma GENUS
 
 #### Status
 ACCEPTED

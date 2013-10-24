@@ -1,17 +1,16 @@
-Pleospora ambigua var. ambigua VARIETY
-=======
+# Pleospora ambigua (Berl. & Bres.) Wehm., 1951 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mycologia 43(1): 42 (1951)
 
 #### Original name
-Pleospora ambigua var. ambigua
+Pyrenophora ambigua Berl. & Bres.
 
 ### Remarks
 null

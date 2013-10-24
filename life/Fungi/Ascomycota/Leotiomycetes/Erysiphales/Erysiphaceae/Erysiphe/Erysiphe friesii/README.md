@@ -1,17 +1,16 @@
-Microsphaera friesii var. friesii VARIETY
-=======
+# Erysiphe friesii (Lév.) U. Braun & S. Takam., 2000 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 15: 381 (1851)
+Schlechtendalia 4: 8 (2000)
 
 #### Original name
-Microsphaera friesii var. friesii
+Microsphaera friesii Lév., 1851
 
 ### Remarks
 null

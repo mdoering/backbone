@@ -1,5 +1,4 @@
-Verrucaria subcorallina Hasse SPECIES
-=======
+# Verrucaria subcorallina Hasse SPECIES
 
 #### Status
 ACCEPTED

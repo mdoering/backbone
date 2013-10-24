@@ -1,5 +1,4 @@
-Uredo pseudocannae Cummins, 1941 SPECIES
-=======
+# Uredo pseudocannae Cummins, 1941 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudomonas doudoroffii Baumann et al., 1972 SPECIES
-=======
+# Pseudomonas doudoroffii Baumann et al., 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sebacina gloeophora Oberw. SPECIES
-=======
+# Sebacina gloeophora Oberw. SPECIES
 
 #### Status
 ACCEPTED

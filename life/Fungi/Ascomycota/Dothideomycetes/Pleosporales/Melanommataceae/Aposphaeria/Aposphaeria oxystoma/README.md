@@ -1,5 +1,4 @@
-Aposphaeria oxystoma Sacc. & Roum. SPECIES
-=======
+# Aposphaeria oxystoma Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeocollybia radicata (Murrill) Singer SPECIES
-=======
+# Phaeocollybia radicata (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pseudocyphellaria crocata f. esorediosa (Müll. Arg.) H. Magn. FORM
-=======
+# Pseudocyphellaria neglecta (Müll. Arg.) H. Magn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Acta horti gotoburg. 14: 30 (1940)
 
 #### Original name
-Stictina crocata f. esorediosa Müll. Arg.
+Stictina neglecta Müll. Arg.
 
 ### Remarks
 null

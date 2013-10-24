@@ -1,5 +1,4 @@
-Latericonis G.V. Rao, K.A. Reddy & de Hoog GENUS
-=======
+# Latericonis G.V. Rao, K.A. Reddy & de Hoog GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stylobates turkestanicus (P. Karst.) Sacc. SPECIES
-=======
+# Stylobates turkestanicus (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

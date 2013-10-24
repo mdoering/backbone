@@ -1,5 +1,4 @@
-Asterina triloba Earle SPECIES
-=======
+# Asterina triloba Earle SPECIES
 
 #### Status
 ACCEPTED

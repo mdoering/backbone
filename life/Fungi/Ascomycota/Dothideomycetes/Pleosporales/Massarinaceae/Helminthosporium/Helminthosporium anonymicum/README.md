@@ -1,5 +1,4 @@
-Helminthosporium anonymicum Jacz. SPECIES
-=======
+# Helminthosporium anonymicum Jacz. SPECIES
 
 #### Status
 ACCEPTED

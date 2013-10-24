@@ -1,5 +1,4 @@
-Pyriculariopsis pleuroconidiophora Davydkina & Melnik SPECIES
-=======
+# Pyriculariopsis pleuroconidiophora Davydkina & Melnik SPECIES
 
 #### Status
 ACCEPTED

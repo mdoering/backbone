@@ -1,5 +1,4 @@
-Ceriporiopsis aurantitingens (Corner) T. Hatt. SPECIES
-=======
+# Ceriporiopsis aurantitingens (Corner) T. Hatt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora caesiorugosa B. de Lesd. SPECIES
-=======
+# Lecanora caesiorugosa B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

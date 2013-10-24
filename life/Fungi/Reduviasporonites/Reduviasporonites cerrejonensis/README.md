@@ -1,5 +1,4 @@
-Reduviasporonites cerrejonensis (Doub. & D. Pons) Kalgutkar & Janson. SPECIES
-=======
+# Reduviasporonites cerrejonensis (Doub. & D. Pons) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

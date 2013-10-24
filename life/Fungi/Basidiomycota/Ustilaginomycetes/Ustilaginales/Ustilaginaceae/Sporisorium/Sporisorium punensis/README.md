@@ -1,5 +1,4 @@
-Sporisorium punensis A.R. Patil, T.M. Patil & M.S. Patil SPECIES
-=======
+# Sporisorium punensis A.R. Patil, T.M. Patil & M.S. Patil SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scyphidia ovata Kellicott, 1884 SPECIES
-=======
+# Scyphidia ovata Kellicott, 1884 SPECIES
 
 #### Status
 ACCEPTED

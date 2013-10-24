@@ -1,5 +1,4 @@
-Rhizochrysis scherffelii Pascher SPECIES
-=======
+# Rhizochrysis scherffelii Pascher SPECIES
 
 #### Status
 ACCEPTED

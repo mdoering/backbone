@@ -1,5 +1,4 @@
-Psathyrella ctenodes Berk. & Broome SPECIES
-=======
+# Psathyrella ctenodes Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

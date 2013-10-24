@@ -1,5 +1,4 @@
-Hydnum obscurum Sacc. SPECIES
-=======
+# Hydnum obscurum Sacc. SPECIES
 
 #### Status
 ACCEPTED

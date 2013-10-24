@@ -1,5 +1,4 @@
-Coscinodiscus planiusculus Rattray SPECIES
-=======
+# Coscinodiscus planiusculus Rattray SPECIES
 
 #### Status
 ACCEPTED

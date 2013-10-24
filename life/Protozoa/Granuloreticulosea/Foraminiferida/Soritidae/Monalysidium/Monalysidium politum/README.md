@@ -1,5 +1,4 @@
-Monalysidium politum SPECIES
-=======
+# Monalysidium politum SPECIES
 
 #### Status
 ACCEPTED

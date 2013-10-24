@@ -1,5 +1,4 @@
-Odontotrema furfuraceum Lorton SPECIES
-=======
+# Odontotrema furfuraceum Lorton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Agaricus microspila Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus microspilus Berk. & M.A. Curtis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Agaricus microspila Berk. & M.A. Curtis
+Agaricus microspilus Berk. & M.A. Curtis
 
 ### Remarks
 null

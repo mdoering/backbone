@@ -1,5 +1,4 @@
-Lycoperdon chalybeum Batsch SPECIES
-=======
+# Lycoperdon chalybeum Batsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coleaspis Haeckel, 1881 GENUS
-=======
+# Coleaspis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

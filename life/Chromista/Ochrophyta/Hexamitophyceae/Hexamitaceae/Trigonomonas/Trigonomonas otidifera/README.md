@@ -1,5 +1,4 @@
-Trigonomonas otidifera Skuja SPECIES
-=======
+# Trigonomonas otidifera Skuja SPECIES
 
 #### Status
 ACCEPTED

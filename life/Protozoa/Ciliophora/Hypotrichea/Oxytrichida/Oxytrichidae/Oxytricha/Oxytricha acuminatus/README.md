@@ -1,5 +1,4 @@
-Oxytricha acuminatus Maskell, 1886 SPECIES
-=======
+# Oxytricha acuminatus Maskell, 1886 SPECIES
 
 #### Status
 ACCEPTED

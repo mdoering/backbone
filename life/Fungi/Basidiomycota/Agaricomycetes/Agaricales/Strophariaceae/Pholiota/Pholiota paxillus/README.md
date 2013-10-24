@@ -1,5 +1,4 @@
-Pholiota paxillus (Fr.) Gillet SPECIES
-=======
+# Pholiota paxillus (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

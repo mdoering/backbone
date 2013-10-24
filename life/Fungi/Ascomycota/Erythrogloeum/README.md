@@ -1,5 +1,4 @@
-Erythrogloeum Petr. GENUS
-=======
+# Erythrogloeum Petr. GENUS
 
 #### Status
 ACCEPTED

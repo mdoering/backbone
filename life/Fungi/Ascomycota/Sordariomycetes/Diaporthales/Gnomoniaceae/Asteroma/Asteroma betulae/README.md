@@ -1,5 +1,4 @@
-Asteroma betulae Roberge ex Desm., 1843 SPECIES
-=======
+# Asteroma betulae Roberge ex Desm., 1843 SPECIES
 
 #### Status
 ACCEPTED

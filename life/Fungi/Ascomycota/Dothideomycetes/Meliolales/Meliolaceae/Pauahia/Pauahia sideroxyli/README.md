@@ -1,5 +1,4 @@
-Pauahia sideroxyli F. Stevens, 1925 SPECIES
-=======
+# Pauahia sideroxyli F. Stevens, 1925 SPECIES
 
 #### Status
 ACCEPTED

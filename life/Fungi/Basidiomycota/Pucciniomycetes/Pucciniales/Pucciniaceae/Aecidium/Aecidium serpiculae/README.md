@@ -1,5 +1,4 @@
-Aecidium serpiculae Petch SPECIES
-=======
+# Aecidium serpiculae Petch SPECIES
 
 #### Status
 ACCEPTED

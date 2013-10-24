@@ -1,5 +1,4 @@
-Sarcodon praestans Maas Geest., 1974 SPECIES
-=======
+# Sarcodon praestans Maas Geest., 1974 SPECIES
 
 #### Status
 ACCEPTED

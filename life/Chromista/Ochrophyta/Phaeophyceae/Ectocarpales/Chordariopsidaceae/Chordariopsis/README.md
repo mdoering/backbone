@@ -1,5 +1,4 @@
-Chordariopsis Kylin, 1940 GENUS
-=======
+# Chordariopsis Kylin, 1940 GENUS
 
 #### Status
 ACCEPTED

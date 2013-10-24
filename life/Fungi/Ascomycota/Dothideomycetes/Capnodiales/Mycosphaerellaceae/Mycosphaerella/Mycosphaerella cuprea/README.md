@@ -1,5 +1,4 @@
-Mycosphaerella cuprea (Sacc.) Siemaszko SPECIES
-=======
+# Mycosphaerella cuprea (Sacc.) Siemaszko SPECIES
 
 #### Status
 ACCEPTED

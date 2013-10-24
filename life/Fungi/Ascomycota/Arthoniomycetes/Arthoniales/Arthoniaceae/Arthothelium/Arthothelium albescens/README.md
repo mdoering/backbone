@@ -1,5 +1,4 @@
-Arthothelium albescens Patw. & Makhija SPECIES
-=======
+# Arthothelium albescens Patw. & Makhija SPECIES
 
 #### Status
 ACCEPTED

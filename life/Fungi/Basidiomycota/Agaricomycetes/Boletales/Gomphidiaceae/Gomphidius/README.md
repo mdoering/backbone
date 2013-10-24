@@ -1,14 +1,13 @@
-Gomphus (Fr.) Weinm. GENUS
-=======
+# Gomphidius E.M. Fries, 1836 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Syll. Pl. Nov. 2: 99 (1826)
+null
 
 #### Original name
 null

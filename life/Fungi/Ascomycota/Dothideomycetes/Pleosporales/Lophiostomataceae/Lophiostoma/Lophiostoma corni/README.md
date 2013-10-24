@@ -1,5 +1,4 @@
-Lophiostoma corni Pass. SPECIES
-=======
+# Lophiostoma corni Pass. SPECIES
 
 #### Status
 ACCEPTED

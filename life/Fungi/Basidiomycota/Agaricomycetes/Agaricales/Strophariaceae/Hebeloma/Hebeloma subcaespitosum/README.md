@@ -1,5 +1,4 @@
-Hebeloma subcaespitosum Bon SPECIES
-=======
+# Hebeloma subcaespitosum Bon SPECIES
 
 #### Status
 ACCEPTED

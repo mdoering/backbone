@@ -1,17 +1,16 @@
-Hypocrea rhizophilus S.D. Patil & M.S. Patil SPECIES
-=======
+# Hypocrea rhizophila S.D. Patil & M.S. Patil SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 36(4): 641 (1983)
 
 #### Original name
-Hypocrea rhizophilus S.D. Patil & M.S. Patil
+Hypocrea rhizophila S.D. Patil & M.S. Patil
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Rhizomorpha fibrillosa Pers. SPECIES
-=======
+# Rhizomorpha fibrillosa Pers. SPECIES
 
 #### Status
 ACCEPTED

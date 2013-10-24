@@ -1,5 +1,4 @@
-Macroplodia aesculi (Fautrey & Roum.) Kuntze SPECIES
-=======
+# Macroplodia aesculi (Fautrey & Roum.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphenolithus heteromorphus SPECIES
-=======
+# Sphenolithus heteromorphus SPECIES
 
 #### Status
 ACCEPTED

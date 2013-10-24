@@ -1,5 +1,4 @@
-Boletus poikilochromus Pöder, Cetto & Zuccher. SPECIES
-=======
+# Boletus poikilochromus Pöder, Cetto & Zuccher. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cribrospora tulostomoides Pacioni & P. Fantini, 2000 SPECIES
-=======
+# Cribrospora tulostomoides Pacioni & P. Fantini, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea anteposita Nyl. SPECIES
-=======
+# Lecidea anteposita Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodotorula lini Wieringa {?} SPECIES
-=======
+# Rhodotorula lini Wieringa {?} SPECIES
 
 #### Status
 ACCEPTED

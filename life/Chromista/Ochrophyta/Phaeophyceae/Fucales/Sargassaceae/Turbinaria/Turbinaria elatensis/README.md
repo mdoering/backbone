@@ -1,5 +1,4 @@
-Turbinaria elatensis W.R. Taylor SPECIES
-=======
+# Turbinaria elatensis W.R. Taylor SPECIES
 
 #### Status
 ACCEPTED

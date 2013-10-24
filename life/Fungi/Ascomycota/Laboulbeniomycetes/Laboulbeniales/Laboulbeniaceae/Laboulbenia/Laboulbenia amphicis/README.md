@@ -1,5 +1,4 @@
-Laboulbenia amphicis K. Sugiy. & T. Majewski SPECIES
-=======
+# Laboulbenia amphicis K. Sugiy. & T. Majewski SPECIES
 
 #### Status
 ACCEPTED

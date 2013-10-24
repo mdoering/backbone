@@ -1,5 +1,4 @@
-Inocybe sordida Rick SPECIES
-=======
+# Inocybe sordida Rick SPECIES
 
 #### Status
 ACCEPTED

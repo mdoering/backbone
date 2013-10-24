@@ -1,5 +1,4 @@
-Phyllosticta datiscae P. Syd. SPECIES
-=======
+# Phyllosticta datiscae P. Syd. SPECIES
 
 #### Status
 ACCEPTED

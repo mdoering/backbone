@@ -1,5 +1,4 @@
-Lecanora inflata (Ach.) Jatta SPECIES
-=======
+# Lecanora inflata (Ach.) Jatta SPECIES
 
 #### Status
 ACCEPTED

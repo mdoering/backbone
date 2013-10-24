@@ -1,5 +1,4 @@
-Pseudocercospora mirandensis (Chupp) R.F. Castañeda & U. Braun SPECIES
-=======
+# Pseudocercospora mirandensis (Chupp) R.F. Castañeda & U. Braun SPECIES
 
 #### Status
 ACCEPTED

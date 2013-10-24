@@ -1,5 +1,4 @@
-Sistotrema suballantosporum Hallenb., 1980 SPECIES
-=======
+# Sistotrema suballantosporum Hallenb., 1980 SPECIES
 
 #### Status
 ACCEPTED

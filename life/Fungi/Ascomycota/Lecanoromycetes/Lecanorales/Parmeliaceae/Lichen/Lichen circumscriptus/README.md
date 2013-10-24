@@ -1,5 +1,4 @@
-Lichen circumscriptus Wulfen SPECIES
-=======
+# Lichen circumscriptus Wulfen SPECIES
 
 #### Status
 ACCEPTED

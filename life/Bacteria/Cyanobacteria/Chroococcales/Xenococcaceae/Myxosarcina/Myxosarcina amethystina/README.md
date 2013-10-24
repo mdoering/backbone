@@ -1,5 +1,4 @@
-Myxosarcina amethystina Copeland SPECIES
-=======
+# Myxosarcina amethystina Copeland SPECIES
 
 #### Status
 ACCEPTED

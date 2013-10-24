@@ -1,5 +1,4 @@
-Camarosporium cruciatum (Fuckel) Sacc. SPECIES
-=======
+# Camarosporium cruciatum (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

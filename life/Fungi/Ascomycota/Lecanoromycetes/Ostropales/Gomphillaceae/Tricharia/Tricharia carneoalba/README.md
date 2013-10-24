@@ -1,5 +1,4 @@
-Tricharia carneoalba Lücking & Kalb SPECIES
-=======
+# Tricharia carneoalba Lücking & Kalb SPECIES
 
 #### Status
 ACCEPTED

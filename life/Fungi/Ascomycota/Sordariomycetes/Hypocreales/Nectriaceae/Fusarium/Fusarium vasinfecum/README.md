@@ -1,5 +1,4 @@
-Fusarium vasinfecum Atkinson SPECIES
-=======
+# Fusarium vasinfecum Atkinson SPECIES
 
 #### Status
 ACCEPTED

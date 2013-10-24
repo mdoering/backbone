@@ -1,5 +1,4 @@
-Cepedietta virginiensis SPECIES
-=======
+# Cepedietta virginiensis SPECIES
 
 #### Status
 ACCEPTED

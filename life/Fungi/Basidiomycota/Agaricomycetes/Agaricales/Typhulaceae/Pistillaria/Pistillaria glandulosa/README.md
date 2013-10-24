@@ -1,5 +1,4 @@
-Pistillaria glandulosa (Preuss) Corner SPECIES
-=======
+# Pistillaria glandulosa (Preuss) Corner SPECIES
 
 #### Status
 ACCEPTED

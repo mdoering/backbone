@@ -1,5 +1,4 @@
-Metasphaeria stagnicola Kirschst. SPECIES
-=======
+# Metasphaeria stagnicola Kirschst. SPECIES
 
 #### Status
 ACCEPTED

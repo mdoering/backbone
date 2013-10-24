@@ -1,5 +1,4 @@
-Praeobsoletes Remizova, 1993 GENUS
-=======
+# Praeobsoletes Remizova, 1993 GENUS
 
 #### Status
 ACCEPTED

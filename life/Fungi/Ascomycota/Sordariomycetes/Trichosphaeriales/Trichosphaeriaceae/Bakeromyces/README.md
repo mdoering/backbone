@@ -1,5 +1,4 @@
-Bakeromyces GENUS
-=======
+# Bakeromyces GENUS
 
 #### Status
 ACCEPTED

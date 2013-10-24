@@ -1,5 +1,4 @@
-Sphaeria eriophora Cooke SPECIES
-=======
+# Sphaeria eriophora Cooke SPECIES
 
 #### Status
 ACCEPTED

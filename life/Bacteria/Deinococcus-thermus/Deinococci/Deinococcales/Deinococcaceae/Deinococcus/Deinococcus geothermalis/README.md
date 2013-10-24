@@ -1,5 +1,4 @@
-Deinococcus geothermalis Ferreira et al., 1997 SPECIES
-=======
+# Deinococcus geothermalis Ferreira et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

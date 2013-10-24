@@ -1,5 +1,4 @@
-Ricasolia wrightii (Tuck.) Nyl. SPECIES
-=======
+# Ricasolia wrightii (Tuck.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

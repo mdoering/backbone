@@ -1,5 +1,4 @@
-Olpidium synchytrii Karling SPECIES
-=======
+# Olpidium synchytrii Karling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyrodinium impendans Larsen SPECIES
-=======
+# Gyrodinium impendans Larsen SPECIES
 
 #### Status
 ACCEPTED

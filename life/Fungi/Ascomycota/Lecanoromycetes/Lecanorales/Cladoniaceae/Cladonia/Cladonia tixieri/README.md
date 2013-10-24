@@ -1,5 +1,4 @@
-Cladonia tixieri Abbayes SPECIES
-=======
+# Cladonia tixieri Abbayes SPECIES
 
 #### Status
 ACCEPTED

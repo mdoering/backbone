@@ -1,5 +1,4 @@
-Urceolaria ceracea (Arnold) Motyka SPECIES
-=======
+# Urceolaria ceracea (Arnold) Motyka SPECIES
 
 #### Status
 ACCEPTED

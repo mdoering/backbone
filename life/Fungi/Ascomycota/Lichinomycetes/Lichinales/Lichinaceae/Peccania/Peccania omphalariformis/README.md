@@ -1,5 +1,4 @@
-Peccania omphalariformis Couderc SPECIES
-=======
+# Peccania omphalariformis Couderc SPECIES
 
 #### Status
 ACCEPTED

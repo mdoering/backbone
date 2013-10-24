@@ -1,14 +1,13 @@
-Heterosporium syringae Oudem., 1898 SPECIES
-=======
+# Cladosporium syringae (Oudem.) Montem., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 37: 183 (1898)
+null
 
 #### Original name
 Heterosporium syringae Oudem., 1898

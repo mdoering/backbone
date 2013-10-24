@@ -1,17 +1,16 @@
-Parmelia latissima var. corniculata Kremp. VARIETY
-=======
+# Parmotrema zollingeri (Hepp) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 28: 339 (1974)
 
 #### Original name
-Parmelia latissima var. corniculata Kremp.
+Parmelia zollingeri Hepp
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cortinarius cypriacus Fr. SPECIES
-=======
+# Cortinarius cypriacus Fr. SPECIES
 
 #### Status
 ACCEPTED

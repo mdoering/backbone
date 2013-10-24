@@ -1,5 +1,4 @@
-Isariopsis ceratella Pat. SPECIES
-=======
+# Isariopsis ceratella Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus aegerita Fr. SPECIES
-=======
+# Polyporus aegerita Fr. SPECIES
 
 #### Status
 ACCEPTED

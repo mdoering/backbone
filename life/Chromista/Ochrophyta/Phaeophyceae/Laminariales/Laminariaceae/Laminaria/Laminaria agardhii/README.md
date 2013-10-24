@@ -1,5 +1,4 @@
-Laminaria agardhii f. vittata Setchell FORM
-=======
+# Laminaria agardhii Kjellman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodium obliteratum f. obliteratum FORM
-=======
+# Placodium obliteratum (Pers.) Räsänen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Placodium obliteratum f. obliteratum
+Lichen obliteratus Pers.
 
 ### Remarks
 null

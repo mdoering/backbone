@@ -1,5 +1,4 @@
-Psalliota subedulis (Heinem.) R. Heim & Cailleux SPECIES
-=======
+# Psalliota subedulis (Heinem.) R. Heim & Cailleux SPECIES
 
 #### Status
 ACCEPTED

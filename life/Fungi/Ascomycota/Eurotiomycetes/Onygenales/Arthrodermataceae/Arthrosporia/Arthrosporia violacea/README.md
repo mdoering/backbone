@@ -1,5 +1,4 @@
-Arthrosporia violacea (E. Bodin) Grigoraki SPECIES
-=======
+# Arthrosporia violacea (E. Bodin) Grigoraki SPECIES
 
 #### Status
 ACCEPTED

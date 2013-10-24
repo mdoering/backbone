@@ -1,5 +1,4 @@
-Inocybe henryi Reumaux SPECIES
-=======
+# Inocybe henryi Reumaux SPECIES
 
 #### Status
 ACCEPTED

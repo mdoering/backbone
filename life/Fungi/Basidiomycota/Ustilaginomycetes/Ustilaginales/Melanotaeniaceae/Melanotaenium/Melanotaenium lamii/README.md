@@ -1,5 +1,4 @@
-Melanotaenium lamii Syd. & P. Syd., 1921 SPECIES
-=======
+# Melanotaenium lamii Syd. & P. Syd., 1921 SPECIES
 
 #### Status
 ACCEPTED

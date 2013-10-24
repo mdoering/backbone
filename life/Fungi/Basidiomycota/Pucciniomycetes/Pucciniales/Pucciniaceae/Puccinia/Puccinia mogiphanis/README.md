@@ -1,5 +1,4 @@
-Puccinia mogiphanis Arthur, 1918 SPECIES
-=======
+# Puccinia mogiphanis Arthur, 1918 SPECIES
 
 #### Status
 ACCEPTED

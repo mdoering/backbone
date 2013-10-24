@@ -1,5 +1,4 @@
-Pseudocercospora annonae U. Braun & Crous SPECIES
-=======
+# Pseudocercospora annonae U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiorella phomiformis (Sacc.) Petr. & Syd. SPECIES
-=======
+# Dothiorella phomiformis (Sacc.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

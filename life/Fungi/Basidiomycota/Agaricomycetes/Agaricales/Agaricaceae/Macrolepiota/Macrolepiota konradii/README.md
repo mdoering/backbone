@@ -1,17 +1,16 @@
-Lepiota gracilenta var. gracilenta VARIETY
-=======
+# Macrolepiota konradii (Huijsman ex P.D. Orton) M.M. Moser, 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Soc. Émul. Montbéliard, Sér. 2 5: 71 (1872)
+in Gams, Kleine Kryptogamenflora (Stuttgart), Edn 3 2b/2: 185 (1967)
 
 #### Original name
-Lepiota gracilenta var. gracilenta
+Lepiota konradii Huijsman ex P.D. Orton, 1960
 
 ### Remarks
 null

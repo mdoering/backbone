@@ -1,5 +1,4 @@
-Cryocaligula Minter GENUS
-=======
+# Cryocaligula Minter GENUS
 
 #### Status
 ACCEPTED

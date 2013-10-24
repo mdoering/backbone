@@ -1,5 +1,4 @@
-Grilletia sphaerospermi Renault & C.E. Bertrand SPECIES
-=======
+# Grilletia sphaerospermi Renault & C.E. Bertrand SPECIES
 
 #### Status
 ACCEPTED

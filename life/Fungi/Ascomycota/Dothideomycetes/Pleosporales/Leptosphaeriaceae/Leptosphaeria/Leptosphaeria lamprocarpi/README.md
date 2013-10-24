@@ -1,5 +1,4 @@
-Leptosphaeria lamprocarpi (Pass.) Sacc. SPECIES
-=======
+# Leptosphaeria lamprocarpi (Pass.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

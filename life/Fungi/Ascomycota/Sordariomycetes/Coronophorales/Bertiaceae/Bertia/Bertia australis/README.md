@@ -1,5 +1,4 @@
-Bertia australis Speg. SPECIES
-=======
+# Bertia australis Speg. SPECIES
 
 #### Status
 ACCEPTED

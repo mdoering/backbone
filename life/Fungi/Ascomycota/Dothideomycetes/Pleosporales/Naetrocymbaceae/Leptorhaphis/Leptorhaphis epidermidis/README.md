@@ -1,17 +1,16 @@
-Arthopyrenia epidermidis f. epidermidis FORM
-=======
+# Leptorhaphis epidermidis (Ach.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Acta R. Soc. Scient. upsal. , Ser. 3 3: 373 (1860)
 
 #### Original name
-Arthopyrenia epidermidis f. epidermidis
+Lichen epidermidis Ach.
 
 ### Remarks
 null

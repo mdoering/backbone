@@ -1,5 +1,4 @@
-Dithelopsis GENUS
-=======
+# Dithelopsis GENUS
 
 #### Status
 ACCEPTED

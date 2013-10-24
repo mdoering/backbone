@@ -1,8 +1,7 @@
-Trichophyton pervesi Catanei SPECIES
-=======
+# Trichophyton pervesii Catanei SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Trichophyton pervesi Catanei
+Trichophyton pervesii Catanei
 
 ### Remarks
 null

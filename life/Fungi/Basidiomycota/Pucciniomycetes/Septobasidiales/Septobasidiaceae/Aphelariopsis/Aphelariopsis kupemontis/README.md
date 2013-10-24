@@ -1,17 +1,16 @@
-Septobasidium kupemontis (P. Roberts) P. Roberts, 2008 SPECIES
-=======
+# Aphelariopsis kupemontis P. Roberts, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 17(3): 491 (2000)
 
 #### Original name
-null
+Aphelariopsis kupemontis P. Roberts, 2000
 
 ### Remarks
 null

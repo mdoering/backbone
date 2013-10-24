@@ -1,5 +1,4 @@
-Polystictus ikenoi Henn. SPECIES
-=======
+# Polystictus ikenoi Henn. SPECIES
 
 #### Status
 ACCEPTED

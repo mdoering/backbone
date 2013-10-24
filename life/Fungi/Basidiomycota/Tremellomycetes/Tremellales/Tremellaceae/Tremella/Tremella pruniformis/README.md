@@ -1,5 +1,4 @@
-Tremella pruniformis (Weigel) J.F. Gmel. SPECIES
-=======
+# Tremella pruniformis (Weigel) J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

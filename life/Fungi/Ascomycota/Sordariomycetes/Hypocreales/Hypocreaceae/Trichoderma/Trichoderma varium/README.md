@@ -1,5 +1,4 @@
-Trichoderma varium Ehrenb. SPECIES
-=======
+# Trichoderma varium Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

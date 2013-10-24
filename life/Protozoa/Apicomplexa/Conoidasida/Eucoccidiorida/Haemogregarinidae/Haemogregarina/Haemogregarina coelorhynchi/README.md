@@ -1,5 +1,4 @@
-Haemogregarina coelorhynchi Laird, 1952 SPECIES
-=======
+# Haemogregarina coelorhynchi Laird, 1952 SPECIES
 
 #### Status
 ACCEPTED

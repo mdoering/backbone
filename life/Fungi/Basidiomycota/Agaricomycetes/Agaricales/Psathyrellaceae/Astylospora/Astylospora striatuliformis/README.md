@@ -1,5 +1,4 @@
-Astylospora striatuliformis Murrill SPECIES
-=======
+# Astylospora striatuliformis Murrill SPECIES
 
 #### Status
 ACCEPTED

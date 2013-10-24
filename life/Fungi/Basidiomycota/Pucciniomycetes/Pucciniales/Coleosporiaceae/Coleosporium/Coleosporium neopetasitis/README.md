@@ -1,5 +1,4 @@
-Coleosporium neopetasitis Saho SPECIES
-=======
+# Coleosporium neopetasitis Saho SPECIES
 
 #### Status
 ACCEPTED

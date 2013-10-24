@@ -1,5 +1,4 @@
-Psorotichia diaphorotheca Harm. SPECIES
-=======
+# Psorotichia diaphorotheca Harm. SPECIES
 
 #### Status
 ACCEPTED

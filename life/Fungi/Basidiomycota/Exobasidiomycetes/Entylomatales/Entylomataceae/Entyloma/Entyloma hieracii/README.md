@@ -1,17 +1,16 @@
-Entyloma calendulae f. hieracii J. Schröt., 1876 FORM
-=======
+# Entyloma hieracii Syd. & P. Syd., 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Cohn, Beitr. Biol. Pfl. 2: 439 (1876)
+Annls mycol. 16: 244 (1919)
 
 #### Original name
-Entyloma calendulae f. hieracii J. Schröt., 1876
+Entyloma hieracii Syd. & P. Syd., 1919
 
 ### Remarks
 null

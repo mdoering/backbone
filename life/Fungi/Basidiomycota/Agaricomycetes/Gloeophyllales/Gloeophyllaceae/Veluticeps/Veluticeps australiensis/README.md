@@ -1,5 +1,4 @@
-Veluticeps australiensis Nakasone, 2004 SPECIES
-=======
+# Veluticeps australiensis Nakasone, 2004 SPECIES
 
 #### Status
 ACCEPTED

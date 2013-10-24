@@ -1,5 +1,4 @@
-Endophragmiella lauri P.M. Kirk & C.M. Kirk, 1982 SPECIES
-=======
+# Endophragmiella lauri P.M. Kirk & C.M. Kirk, 1982 SPECIES
 
 #### Status
 ACCEPTED

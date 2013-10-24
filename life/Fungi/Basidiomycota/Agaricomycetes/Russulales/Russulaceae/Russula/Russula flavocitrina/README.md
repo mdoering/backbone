@@ -1,5 +1,4 @@
-Russula flavocitrina J. Blum ex Bon SPECIES
-=======
+# Russula flavocitrina J. Blum ex Bon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geobacillus tepidamans Schäffer et al., 2004 SPECIES
-=======
+# Geobacillus tepidamans Schäffer et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

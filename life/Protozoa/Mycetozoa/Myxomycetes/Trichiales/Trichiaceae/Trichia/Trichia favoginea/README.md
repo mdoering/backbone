@@ -1,17 +1,16 @@
-Trichia favoginea var. favoginea (Batsch) Pers. VARIETY
-=======
+# Trichia favoginea (Batsch) Pers., 1794 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Neues Mag. Bot. 1: 90 (1794)
 
 #### Original name
-Trichia favoginea var. favoginea (Batsch) Pers.
+Lycoperdon favogineum Batsch
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Graphis prunicola Vain. SPECIES
-=======
+# Graphis prunicola Vain. SPECIES
 
 #### Status
 ACCEPTED

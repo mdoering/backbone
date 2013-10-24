@@ -1,5 +1,4 @@
-Calocera clavata McNabb SPECIES
-=======
+# Calocera clavata McNabb SPECIES
 
 #### Status
 ACCEPTED

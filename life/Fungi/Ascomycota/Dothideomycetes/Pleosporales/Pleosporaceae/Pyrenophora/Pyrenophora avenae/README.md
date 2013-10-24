@@ -1,5 +1,4 @@
-Pyrenophora avenae S. Ito & Kurib., 1930 SPECIES
-=======
+# Pyrenophora avenae S. Ito & Kurib., 1930 SPECIES
 
 #### Status
 ACCEPTED

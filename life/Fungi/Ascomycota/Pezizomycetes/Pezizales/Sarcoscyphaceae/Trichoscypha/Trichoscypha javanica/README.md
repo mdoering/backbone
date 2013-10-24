@@ -1,5 +1,4 @@
-Trichoscypha javanica (Nees & Lév.) Sacc. SPECIES
-=======
+# Trichoscypha javanica (Nees & Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

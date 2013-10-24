@@ -1,17 +1,16 @@
-Coelomomyces stegomyiae var. chapmani Laird, Nolan & J.C. Lien VARIETY
-=======
+# Coelomomyces stegomyiae Keilin, 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Parasitology 13: (1921)
 
 #### Original name
-Coelomomyces stegomyiae var. chapmani Laird, Nolan & J.C. Lien
+Coelomomyces stegomyiae Keilin, 1921
 
 ### Remarks
 null

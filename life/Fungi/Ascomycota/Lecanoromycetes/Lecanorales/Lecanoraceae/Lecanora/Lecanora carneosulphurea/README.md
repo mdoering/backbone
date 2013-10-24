@@ -1,5 +1,4 @@
-Lecanora carneosulphurea Vain. SPECIES
-=======
+# Lecanora carneosulphurea Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teleutospora solidaginis (Arthur & Holw.) Arthur & Bisby SPECIES
-=======
+# Teleutospora solidaginis (Arthur & Holw.) Arthur & Bisby SPECIES
 
 #### Status
 ACCEPTED

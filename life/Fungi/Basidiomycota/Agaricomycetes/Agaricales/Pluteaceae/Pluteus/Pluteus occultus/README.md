@@ -1,5 +1,4 @@
-Pluteus occultus (Britzelm.) Sacc. & Traverso SPECIES
-=======
+# Pluteus occultus (Britzelm.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

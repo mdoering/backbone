@@ -1,5 +1,4 @@
-Crocynia minuta B. de Lesd. SPECIES
-=======
+# Crocynia minuta B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galerina ampullaceocystis P.D. Orton, 1960 SPECIES
-=======
+# Galerina ampullaceocystis P.D. Orton, 1960 SPECIES
 
 #### Status
 ACCEPTED

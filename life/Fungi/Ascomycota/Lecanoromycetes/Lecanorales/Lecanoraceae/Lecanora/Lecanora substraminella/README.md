@@ -1,5 +1,4 @@
-Lecanora substraminella B. de Lesd. SPECIES
-=======
+# Lecanora substraminella B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

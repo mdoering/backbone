@@ -1,5 +1,4 @@
-Entyloma peregrinum Speg. SPECIES
-=======
+# Entyloma peregrinum Speg. SPECIES
 
 #### Status
 ACCEPTED

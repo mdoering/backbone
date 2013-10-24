@@ -1,5 +1,4 @@
-Thylakomonas W. Schewiakoff, 1892 GENUS
-=======
+# Thylakomonas W. Schewiakoff, 1892 GENUS
 
 #### Status
 ACCEPTED

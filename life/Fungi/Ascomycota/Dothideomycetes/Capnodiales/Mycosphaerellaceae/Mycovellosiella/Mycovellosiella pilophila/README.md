@@ -1,5 +1,4 @@
-Mycovellosiella pilophila (Jacz. ex Vassiljevsky & Karak.) U. Braun SPECIES
-=======
+# Mycovellosiella pilophila (Jacz. ex Vassiljevsky & Karak.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

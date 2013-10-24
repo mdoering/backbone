@@ -1,5 +1,4 @@
-Leptosphaeria praeandina (Speg.) L. Holm SPECIES
-=======
+# Leptosphaeria praeandina (Speg.) L. Holm SPECIES
 
 #### Status
 ACCEPTED

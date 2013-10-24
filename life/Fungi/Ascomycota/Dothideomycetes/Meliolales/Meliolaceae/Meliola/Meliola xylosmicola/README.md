@@ -1,5 +1,4 @@
-Meliola xylosmicola Hansf. SPECIES
-=======
+# Meliola xylosmicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

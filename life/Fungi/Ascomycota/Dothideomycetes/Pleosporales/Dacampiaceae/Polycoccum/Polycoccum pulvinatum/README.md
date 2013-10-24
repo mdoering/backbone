@@ -1,17 +1,16 @@
-Polycoccum galligenum Vezda SPECIES
-=======
+# Polycoccum pulvinatum (Eitner) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Ceská Mykol. 23: 107 (1969)
+Lich. Norway Sweden 175 (1993)
 
 #### Original name
-Polycoccum galligenum Vezda
+Tichothecium pulvinatum Eitner
 
 ### Remarks
 null

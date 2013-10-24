@@ -1,5 +1,4 @@
-Dothiorella dracaenae D. Gupta, Chowdhry & Padhi SPECIES
-=======
+# Dothiorella dracaenae D. Gupta, Chowdhry & Padhi SPECIES
 
 #### Status
 ACCEPTED

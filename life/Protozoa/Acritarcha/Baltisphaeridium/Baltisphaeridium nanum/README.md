@@ -1,5 +1,4 @@
-Baltisphaeridium nanum Cookson, 1965 SPECIES
-=======
+# Baltisphaeridium nanum Cookson, 1965 SPECIES
 
 #### Status
 ACCEPTED

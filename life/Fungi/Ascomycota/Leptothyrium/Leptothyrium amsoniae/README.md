@@ -1,5 +1,4 @@
-Leptothyrium amsoniae Kabát & Bubák SPECIES
-=======
+# Leptothyrium amsoniae Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

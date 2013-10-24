@@ -1,5 +1,4 @@
-Pseudocercospora guaranitica (Speg.) U. Braun SPECIES
-=======
+# Pseudocercospora guaranitica (Speg.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

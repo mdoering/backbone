@@ -1,14 +1,13 @@
-Kuehneola arthuri (Syd. & P. Syd.) H.S. Jacks. SPECIES
-=======
+# Kuehneola arthurii (Syd. & P. Syd.) H.S. Jacks. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 23: 106 (1931)
 
 #### Original name
 Uromyces arthurii Syd. & P. Syd.

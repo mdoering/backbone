@@ -1,5 +1,4 @@
-Pyrenula herrei Fink ex J. Hedrick SPECIES
-=======
+# Pyrenula herrei Fink ex J. Hedrick SPECIES
 
 #### Status
 ACCEPTED

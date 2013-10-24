@@ -1,5 +1,4 @@
-Hysteropatella oregana Sherwood & M.E. Barr SPECIES
-=======
+# Hysteropatella oregana Sherwood & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

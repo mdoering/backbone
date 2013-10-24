@@ -1,5 +1,4 @@
-Hydrocybe decumbens (Pers.) M.M. Moser SPECIES
-=======
+# Hydrocybe decumbens (Pers.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

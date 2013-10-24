@@ -1,5 +1,4 @@
-Dictyocha katharinae T. V. Desikachary & P. Prema SPECIES
-=======
+# Dictyocha katharinae T. V. Desikachary & P. Prema SPECIES
 
 #### Status
 ACCEPTED

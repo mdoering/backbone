@@ -1,5 +1,4 @@
-Macrophoma fitzpatriciana Fairm. SPECIES
-=======
+# Macrophoma fitzpatriciana Fairm. SPECIES
 
 #### Status
 ACCEPTED

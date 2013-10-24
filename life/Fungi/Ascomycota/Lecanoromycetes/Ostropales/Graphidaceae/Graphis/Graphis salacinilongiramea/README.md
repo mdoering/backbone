@@ -1,5 +1,4 @@
-Graphis salacinilongiramea Adaw. & Makhija SPECIES
-=======
+# Graphis salacinilongiramea Adaw. & Makhija SPECIES
 
 #### Status
 ACCEPTED

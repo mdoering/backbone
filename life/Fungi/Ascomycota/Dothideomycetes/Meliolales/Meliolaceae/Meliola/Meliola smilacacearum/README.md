@@ -1,5 +1,4 @@
-Meliola smilacacearum Hosag. SPECIES
-=======
+# Meliola smilacacearum Hosag. SPECIES
 
 #### Status
 ACCEPTED

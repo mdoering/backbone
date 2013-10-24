@@ -1,14 +1,13 @@
-Calocybe buxeum (Maire) Raithelh. SPECIES
-=======
+# Calocybe buxea (Maire) Raithelh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Metrodiana 8(1): 10 (1979)
 
 #### Original name
 Tricholoma buxeum Maire

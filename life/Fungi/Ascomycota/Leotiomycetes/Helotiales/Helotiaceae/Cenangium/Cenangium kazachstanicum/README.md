@@ -1,5 +1,4 @@
-Cenangium kazachstanicum Schwarzman SPECIES
-=======
+# Cenangium kazachstanicum Schwarzman SPECIES
 
 #### Status
 ACCEPTED

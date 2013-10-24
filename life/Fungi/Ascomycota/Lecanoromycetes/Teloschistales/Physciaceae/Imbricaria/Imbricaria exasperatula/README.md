@@ -1,5 +1,4 @@
-Imbricaria exasperatula (Nyl.) Arnold SPECIES
-=======
+# Imbricaria exasperatula (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia embergeriae McKenzie & P.R. Johnst., 2004 SPECIES
-=======
+# Puccinia embergeriae McKenzie & P.R. Johnst., 2004 SPECIES
 
 #### Status
 ACCEPTED

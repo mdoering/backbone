@@ -1,5 +1,4 @@
-Eleutheromycella Höhn. GENUS
-=======
+# Eleutheromycella Höhn. GENUS
 
 #### Status
 ACCEPTED

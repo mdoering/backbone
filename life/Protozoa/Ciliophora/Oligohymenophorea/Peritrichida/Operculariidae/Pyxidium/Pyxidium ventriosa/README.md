@@ -1,5 +1,4 @@
-Pyxidium ventriosa Nenninger, 1948 SPECIES
-=======
+# Pyxidium ventriosa Nenninger, 1948 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladochaete furcata (Cooke & Massee) Sacc. SPECIES
-=======
+# Cladochaete furcata (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

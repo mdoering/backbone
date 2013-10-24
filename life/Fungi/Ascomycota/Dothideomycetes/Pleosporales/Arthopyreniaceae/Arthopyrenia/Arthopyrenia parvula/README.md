@@ -1,5 +1,4 @@
-Arthopyrenia parvula Zahlbr. SPECIES
-=======
+# Arthopyrenia parvula Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

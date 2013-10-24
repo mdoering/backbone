@@ -1,5 +1,4 @@
-Anteholosticha plurinucleata Gellert, 1956 SPECIES
-=======
+# Anteholosticha plurinucleata Gellert, 1956 SPECIES
 
 #### Status
 ACCEPTED

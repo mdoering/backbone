@@ -1,5 +1,4 @@
-Pseudodifflugia delamarei Coûteaux & Golemansky, 1984 SPECIES
-=======
+# Pseudodifflugia delamarei Coûteaux & Golemansky, 1984 SPECIES
 
 #### Status
 ACCEPTED

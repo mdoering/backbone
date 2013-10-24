@@ -1,5 +1,4 @@
-Metopus pellitus (Kahl, 1932) Carey, 1994 SPECIES
-=======
+# Metopus pellitus (Kahl, 1932) Carey, 1994 SPECIES
 
 #### Status
 ACCEPTED

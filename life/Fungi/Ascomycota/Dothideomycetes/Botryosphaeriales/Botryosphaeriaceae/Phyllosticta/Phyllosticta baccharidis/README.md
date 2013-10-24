@@ -1,5 +1,4 @@
-Phyllosticta baccharidis Dearn. & House SPECIES
-=======
+# Phyllosticta baccharidis Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parodiellinopsis GENUS
-=======
+# Parodiellinopsis GENUS
 
 #### Status
 ACCEPTED

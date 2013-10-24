@@ -1,14 +1,13 @@
-Porina virescens f. virescens FORM
-=======
+# Porina virescens (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 66: 331 (1883)
 
 #### Original name
 null

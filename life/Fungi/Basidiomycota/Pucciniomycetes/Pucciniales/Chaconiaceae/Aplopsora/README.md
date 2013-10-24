@@ -1,17 +1,16 @@
-Aplospora Mains, 1921 GENUS
-=======
+# Aplopsora Mains GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Am. J. Bot. 8: 442 (1921)
 
 #### Original name
-null
+Aplopsora Mains
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Meliola stixis B. Song & T.H. Li SPECIES
-=======
+# Meliola stixis B. Song & T.H. Li SPECIES
 
 #### Status
 ACCEPTED

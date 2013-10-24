@@ -1,5 +1,4 @@
-Fellomyces chinensis Prillinger, G. Kraep. & Lopandic SPECIES
-=======
+# Fellomyces chinensis Prillinger, G. Kraep. & Lopandic SPECIES
 
 #### Status
 ACCEPTED

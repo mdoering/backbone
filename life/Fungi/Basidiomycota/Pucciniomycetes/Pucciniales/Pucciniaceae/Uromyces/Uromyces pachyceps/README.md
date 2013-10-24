@@ -1,5 +1,4 @@
-Uromyces pachyceps Lagerh. SPECIES
-=======
+# Uromyces pachyceps Lagerh. SPECIES
 
 #### Status
 ACCEPTED

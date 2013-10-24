@@ -1,5 +1,4 @@
-Anabainella Gaillon GENUS
-=======
+# Anabainella Gaillon GENUS
 
 #### Status
 ACCEPTED

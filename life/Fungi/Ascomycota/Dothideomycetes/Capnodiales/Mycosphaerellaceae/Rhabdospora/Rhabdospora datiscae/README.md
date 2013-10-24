@@ -1,5 +1,4 @@
-Rhabdospora datiscae Earle SPECIES
-=======
+# Rhabdospora datiscae Earle SPECIES
 
 #### Status
 ACCEPTED

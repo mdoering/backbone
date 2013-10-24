@@ -1,5 +1,4 @@
-Caeoma lonicerae Schltdl. SPECIES
-=======
+# Caeoma lonicerae Schltdl. SPECIES
 
 #### Status
 ACCEPTED

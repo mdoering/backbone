@@ -1,5 +1,4 @@
-Planomalinidae FAMILY
-=======
+# Planomalinidae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma coenanthicola Thüm. SPECIES
-=======
+# Phoma coenanthicola Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina prosopidis (Ellis & Everh.) Farl. SPECIES
-=======
+# Asterina prosopidis (Ellis & Everh.) Farl. SPECIES
 
 #### Status
 ACCEPTED

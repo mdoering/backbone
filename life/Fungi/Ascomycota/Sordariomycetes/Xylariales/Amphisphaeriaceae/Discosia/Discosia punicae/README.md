@@ -1,5 +1,4 @@
-Discosia punicae Shreem. & M. Reddy SPECIES
-=======
+# Discosia punicae Shreem. & M. Reddy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Palatinella Lauterborn, 1906 GENUS
-=======
+# Palatinella Lauterborn, 1906 GENUS
 
 #### Status
 ACCEPTED

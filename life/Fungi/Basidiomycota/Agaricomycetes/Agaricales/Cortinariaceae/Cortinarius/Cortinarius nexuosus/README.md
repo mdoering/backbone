@@ -1,5 +1,4 @@
-Cortinarius nexuosus Britzelm. SPECIES
-=======
+# Cortinarius nexuosus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

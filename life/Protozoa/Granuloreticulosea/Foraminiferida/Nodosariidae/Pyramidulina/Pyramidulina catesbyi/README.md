@@ -1,8 +1,7 @@
-Lagenonodosaria catesbyi (d'Orbigny, 1839) SPECIES
-=======
+# Pyramidulina catesbyi (d'Orbigny, 1839) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

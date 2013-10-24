@@ -1,5 +1,4 @@
-Tricholeconium GENUS
-=======
+# Tricholeconium GENUS
 
 #### Status
 ACCEPTED

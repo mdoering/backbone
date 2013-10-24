@@ -1,14 +1,13 @@
-Letendraea luteola Ellis & Everh., 1895 SPECIES
-=======
+# Jobellisia luteola (Ellis & Everh.) M.E. Barr, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Acad. nat. Sci. Philad. 47: 415 (1895)
+Mycotaxon 46: 61 (1993)
 
 #### Original name
 Letendraea luteola Ellis & Everh., 1895

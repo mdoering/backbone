@@ -1,5 +1,4 @@
-Mycocentrospora veratri (Peck) U. Braun SPECIES
-=======
+# Mycocentrospora veratri (Peck) U. Braun SPECIES
 
 #### Status
 ACCEPTED

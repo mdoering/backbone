@@ -1,5 +1,4 @@
-Phaeographina callospora Zahlbr. SPECIES
-=======
+# Phaeographina callospora Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

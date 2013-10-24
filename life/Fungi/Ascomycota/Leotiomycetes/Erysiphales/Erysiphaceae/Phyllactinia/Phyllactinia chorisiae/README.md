@@ -1,5 +1,4 @@
-Phyllactinia chorisiae Viégas SPECIES
-=======
+# Phyllactinia chorisiae Viégas SPECIES
 
 #### Status
 ACCEPTED

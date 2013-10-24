@@ -1,5 +1,4 @@
-Cryptococcus ovoidea H.W. Anderson SPECIES
-=======
+# Cryptococcus ovoidea H.W. Anderson SPECIES
 
 #### Status
 ACCEPTED

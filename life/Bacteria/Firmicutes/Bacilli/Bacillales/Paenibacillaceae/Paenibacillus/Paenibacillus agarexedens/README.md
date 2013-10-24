@@ -1,11 +1,10 @@
-Bacillus agar-exedens Wieringa, 1941 SPECIES
-=======
+# Paenibacillus agarexedens (ex Wieringa, 1941) Uetanabaro et al., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

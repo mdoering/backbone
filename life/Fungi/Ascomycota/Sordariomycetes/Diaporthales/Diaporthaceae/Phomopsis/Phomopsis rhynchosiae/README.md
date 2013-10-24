@@ -1,5 +1,4 @@
-Phomopsis rhynchosiae Novoss. SPECIES
-=======
+# Phomopsis rhynchosiae Novoss. SPECIES
 
 #### Status
 ACCEPTED

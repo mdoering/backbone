@@ -1,5 +1,4 @@
-Sphaeria hippomarathri Opiz SPECIES
-=======
+# Sphaeria hippomarathri Opiz SPECIES
 
 #### Status
 ACCEPTED

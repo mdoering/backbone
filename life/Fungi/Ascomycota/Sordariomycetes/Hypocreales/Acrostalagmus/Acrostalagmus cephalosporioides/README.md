@@ -1,5 +1,4 @@
-Acrostalagmus cephalosporioides f. cephalosporioides FORM
-=======
+# Acrostalagmus cephalosporioides Peyronel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Acrostalagmus cephalosporioides f. cephalosporioides
+Acrostalagmus cephalosporioides Peyronel
 
 ### Remarks
 null

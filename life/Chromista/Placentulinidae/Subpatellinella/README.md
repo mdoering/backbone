@@ -1,5 +1,4 @@
-Subpatellinella McCulloch, 1977 GENUS
-=======
+# Subpatellinella McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

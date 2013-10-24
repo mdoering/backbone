@@ -1,5 +1,4 @@
-Pluteus escharites (Berk. & Broome) Sacc. SPECIES
-=======
+# Pluteus escharites (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

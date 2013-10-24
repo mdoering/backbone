@@ -1,5 +1,4 @@
-Pipettaria Haeckel, 1887 GENUS
-=======
+# Pipettaria Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

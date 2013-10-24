@@ -1,5 +1,4 @@
-Stromatopogon Zahlbr. GENUS
-=======
+# Stromatopogon Zahlbr. GENUS
 
 #### Status
 ACCEPTED

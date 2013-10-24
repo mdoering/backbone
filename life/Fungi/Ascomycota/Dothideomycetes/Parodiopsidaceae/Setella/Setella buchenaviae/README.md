@@ -1,5 +1,4 @@
-Setella buchenaviae Bat. & I.H. Lima SPECIES
-=======
+# Setella buchenaviae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

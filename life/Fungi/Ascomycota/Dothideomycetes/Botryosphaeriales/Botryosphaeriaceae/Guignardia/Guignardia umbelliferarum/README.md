@@ -1,5 +1,4 @@
-Guignardia umbelliferarum (Rabenh.) Petr. SPECIES
-=======
+# Guignardia umbelliferarum (Rabenh.) Petr. SPECIES
 
 #### Status
 ACCEPTED

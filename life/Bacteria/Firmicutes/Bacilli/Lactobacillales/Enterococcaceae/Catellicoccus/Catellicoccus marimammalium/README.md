@@ -1,5 +1,4 @@
-Catellicoccus marimammalium Lawson et al., 2006 SPECIES
-=======
+# Catellicoccus marimammalium Lawson et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

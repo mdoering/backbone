@@ -1,5 +1,4 @@
-Quinqueloculina fusca SPECIES
-=======
+# Quinqueloculina fusca SPECIES
 
 #### Status
 ACCEPTED

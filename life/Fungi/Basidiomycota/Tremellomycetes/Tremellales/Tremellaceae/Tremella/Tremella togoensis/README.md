@@ -1,17 +1,16 @@
-Tremella togoënsis Henn. SPECIES
-=======
+# Tremella togoensis Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Jb. 17: 20 (1893)
 
 #### Original name
-Tremella togoënsis Henn.
+Tremella togoensis Henn.
 
 ### Remarks
 null

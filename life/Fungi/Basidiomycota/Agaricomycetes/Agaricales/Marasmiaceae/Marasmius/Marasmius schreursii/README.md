@@ -1,5 +1,4 @@
-Marasmius schreursii Antonín SPECIES
-=======
+# Marasmius schreursii Antonín SPECIES
 
 #### Status
 ACCEPTED

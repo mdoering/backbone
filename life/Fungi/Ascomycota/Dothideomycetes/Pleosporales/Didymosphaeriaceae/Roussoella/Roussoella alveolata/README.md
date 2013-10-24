@@ -1,5 +1,4 @@
-Roussoella alveolata Y.M. Ju, J.D. Rogers & Huhndorf SPECIES
-=======
+# Roussoella alveolata Y.M. Ju, J.D. Rogers & Huhndorf SPECIES
 
 #### Status
 ACCEPTED

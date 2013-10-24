@@ -1,5 +1,4 @@
-Hydnum tenuissimum Fr. SPECIES
-=======
+# Hydnum tenuissimum Fr. SPECIES
 
 #### Status
 ACCEPTED

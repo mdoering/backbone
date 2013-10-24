@@ -1,5 +1,4 @@
-Heliosphaeridium Moczydlowska, 1991 GENUS
-=======
+# Heliosphaeridium Moczydlowska, 1991 GENUS
 
 #### Status
 ACCEPTED

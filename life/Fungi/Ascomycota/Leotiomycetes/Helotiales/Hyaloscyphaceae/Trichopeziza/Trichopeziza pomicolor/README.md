@@ -1,5 +1,4 @@
-Trichopeziza pomicolor (Berk. & Ravenel) Sacc. SPECIES
-=======
+# Trichopeziza pomicolor (Berk. & Ravenel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

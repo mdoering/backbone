@@ -1,5 +1,4 @@
-Gabarnaudia tholispora Samson & W. Gams, 1974 SPECIES
-=======
+# Gabarnaudia tholispora Samson & W. Gams, 1974 SPECIES
 
 #### Status
 ACCEPTED

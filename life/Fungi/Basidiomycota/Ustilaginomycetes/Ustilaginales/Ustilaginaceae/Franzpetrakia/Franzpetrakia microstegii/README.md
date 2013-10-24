@@ -1,17 +1,16 @@
-Franzpetrakia microstegiae Thirum. & Pavgi SPECIES
-=======
+# Franzpetrakia microstegii Thirum. & Pavgi, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beih. Sydowia 1: 2 (1957)
 
 #### Original name
-Franzpetrakia microstegiae Thirum. & Pavgi
+Franzpetrakia microstegii Thirum. & Pavgi, 1957
 
 ### Remarks
 null

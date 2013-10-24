@@ -1,5 +1,4 @@
-Phoma lenticularis Cavara SPECIES
-=======
+# Phoma lenticularis Cavara SPECIES
 
 #### Status
 ACCEPTED

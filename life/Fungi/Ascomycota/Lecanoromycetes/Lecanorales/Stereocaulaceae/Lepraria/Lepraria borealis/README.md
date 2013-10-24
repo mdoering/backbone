@@ -1,5 +1,4 @@
-Lepraria borealis Lohtander & Tønsberg SPECIES
-=======
+# Lepraria borealis Lohtander & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

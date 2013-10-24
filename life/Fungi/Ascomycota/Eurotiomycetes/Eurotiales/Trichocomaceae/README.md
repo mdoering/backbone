@@ -1,5 +1,4 @@
-Trichocomaceae E. Fisch. FAMILY
-=======
+# Trichocomaceae E. Fisch. FAMILY
 
 #### Status
 ACCEPTED

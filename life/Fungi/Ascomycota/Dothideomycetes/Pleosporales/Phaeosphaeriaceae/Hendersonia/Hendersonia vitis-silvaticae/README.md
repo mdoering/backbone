@@ -1,5 +1,4 @@
-Hendersonia vitis-silvaticae (Castagne) Catt. SPECIES
-=======
+# Hendersonia vitis-silvaticae (Castagne) Catt. SPECIES
 
 #### Status
 ACCEPTED

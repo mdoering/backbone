@@ -1,5 +1,4 @@
-Sphaeria socia Nees SPECIES
-=======
+# Sphaeria socia Nees SPECIES
 
 #### Status
 ACCEPTED

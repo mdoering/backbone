@@ -1,5 +1,4 @@
-Phyllosticta trochodendricola C.C. Chen SPECIES
-=======
+# Phyllosticta trochodendricola C.C. Chen SPECIES
 
 #### Status
 ACCEPTED

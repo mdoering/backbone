@@ -1,5 +1,4 @@
-Camarosporium dichomeroides Brunaud SPECIES
-=======
+# Camarosporium dichomeroides Brunaud SPECIES
 
 #### Status
 ACCEPTED

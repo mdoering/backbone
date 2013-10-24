@@ -1,5 +1,4 @@
-Microcera rectispora Cooke & Massee SPECIES
-=======
+# Microcera rectispora Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

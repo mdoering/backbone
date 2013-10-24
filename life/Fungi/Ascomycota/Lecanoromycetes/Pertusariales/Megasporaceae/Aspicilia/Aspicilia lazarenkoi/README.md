@@ -1,5 +1,4 @@
-Aspicilia lazarenkoi f. pulcherrima Oxner FORM
-=======
+# Aspicilia lazarenkoi Oxner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aspicilia lazarenkoi f. pulcherrima Oxner
+Aspicilia lazarenkoi Oxner
 
 ### Remarks
 null

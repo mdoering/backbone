@@ -1,5 +1,4 @@
-Cercospora cassiae-siameae Chidd. SPECIES
-=======
+# Cercospora cassiae-siameae Chidd. SPECIES
 
 #### Status
 ACCEPTED

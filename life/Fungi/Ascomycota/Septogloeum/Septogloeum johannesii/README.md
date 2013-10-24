@@ -1,5 +1,4 @@
-Septogloeum johannesii Vörös SPECIES
-=======
+# Septogloeum johannesii Vörös SPECIES
 
 #### Status
 ACCEPTED

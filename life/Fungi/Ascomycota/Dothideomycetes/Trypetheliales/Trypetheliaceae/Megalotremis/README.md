@@ -1,5 +1,4 @@
-Megalotremis Aptroot GENUS
-=======
+# Megalotremis Aptroot GENUS
 
 #### Status
 ACCEPTED

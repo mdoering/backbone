@@ -1,14 +1,13 @@
-Hyphonectria (Sacc.) Petch GENUS
-=======
+# Hydropisphaera Dumortier, 1822 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-J. Bot. , London 75: 220 (1937)
+null
 
 #### Original name
 null

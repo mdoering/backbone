@@ -1,5 +1,4 @@
-Steirochaete septorioides Sacc. SPECIES
-=======
+# Steirochaete septorioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

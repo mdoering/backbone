@@ -1,8 +1,7 @@
-Ochrolechia hawaiensis (Räsänen) Verseghy SPECIES
-=======
+# Ochrolechia hawaiiensis (Räsänen) Verseghy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

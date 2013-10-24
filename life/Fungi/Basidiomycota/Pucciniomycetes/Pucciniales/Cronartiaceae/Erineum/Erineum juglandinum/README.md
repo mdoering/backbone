@@ -1,5 +1,4 @@
-Erineum juglandinum Pers. SPECIES
-=======
+# Erineum juglandinum Pers. SPECIES
 
 #### Status
 ACCEPTED

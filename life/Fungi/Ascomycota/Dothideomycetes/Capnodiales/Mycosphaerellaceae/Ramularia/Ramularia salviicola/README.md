@@ -1,5 +1,4 @@
-Ramularia salviicola Tharp SPECIES
-=======
+# Ramularia salviicola Tharp SPECIES
 
 #### Status
 ACCEPTED

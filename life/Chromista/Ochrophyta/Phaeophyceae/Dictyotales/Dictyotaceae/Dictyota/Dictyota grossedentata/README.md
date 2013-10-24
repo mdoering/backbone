@@ -1,5 +1,4 @@
-Dictyota grossedentata De Clerck & Coppejans SPECIES
-=======
+# Dictyota grossedentata De Clerck & Coppejans SPECIES
 
 #### Status
 ACCEPTED

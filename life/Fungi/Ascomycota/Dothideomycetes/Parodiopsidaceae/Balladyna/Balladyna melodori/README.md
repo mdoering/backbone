@@ -1,5 +1,4 @@
-Balladyna melodori Syd. & P. Syd. SPECIES
-=======
+# Balladyna melodori Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

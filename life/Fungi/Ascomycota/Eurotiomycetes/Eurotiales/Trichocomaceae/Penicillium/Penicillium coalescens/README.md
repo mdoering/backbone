@@ -1,5 +1,4 @@
-Penicillium coalescens Quintan., 1984 SPECIES
-=======
+# Penicillium coalescens Quintan., 1984 SPECIES
 
 #### Status
 ACCEPTED

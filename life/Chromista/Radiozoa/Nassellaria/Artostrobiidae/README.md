@@ -1,5 +1,4 @@
-Artostrobiidae Riedel, 1967 FAMILY
-=======
+# Artostrobiidae Riedel, 1967 FAMILY
 
 #### Status
 ACCEPTED

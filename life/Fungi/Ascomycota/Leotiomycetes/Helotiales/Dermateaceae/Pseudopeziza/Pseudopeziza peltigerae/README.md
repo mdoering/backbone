@@ -1,5 +1,4 @@
-Pseudopeziza peltigerae Fuckel SPECIES
-=======
+# Pseudopeziza peltigerae Fuckel SPECIES
 
 #### Status
 ACCEPTED

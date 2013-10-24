@@ -1,5 +1,4 @@
-Protostegia pleromatum Speg. SPECIES
-=======
+# Protostegia pleromatum Speg. SPECIES
 
 #### Status
 ACCEPTED

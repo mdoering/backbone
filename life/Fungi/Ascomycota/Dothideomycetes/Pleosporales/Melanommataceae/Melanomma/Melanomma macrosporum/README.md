@@ -1,5 +1,4 @@
-Melanomma macrosporum Sacc. SPECIES
-=======
+# Melanomma macrosporum Sacc. SPECIES
 
 #### Status
 ACCEPTED

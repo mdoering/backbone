@@ -1,5 +1,4 @@
-Calycimonas physaloides SPECIES
-=======
+# Calycimonas physaloides SPECIES
 
 #### Status
 ACCEPTED

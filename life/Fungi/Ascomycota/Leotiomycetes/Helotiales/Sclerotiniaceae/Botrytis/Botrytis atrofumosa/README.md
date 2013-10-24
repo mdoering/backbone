@@ -1,5 +1,4 @@
-Botrytis atrofumosa Cooke & Ellis SPECIES
-=======
+# Botrytis atrofumosa Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

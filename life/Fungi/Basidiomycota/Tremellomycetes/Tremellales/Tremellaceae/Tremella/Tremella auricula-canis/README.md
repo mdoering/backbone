@@ -1,5 +1,4 @@
-Tremella auricula-canis G. Mey. SPECIES
-=======
+# Tremella auricula-canis G. Mey. SPECIES
 
 #### Status
 ACCEPTED

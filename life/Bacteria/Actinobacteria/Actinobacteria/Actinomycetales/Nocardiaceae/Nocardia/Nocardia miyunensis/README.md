@@ -1,5 +1,4 @@
-Nocardia miyunensis Cui et al., 2005 SPECIES
-=======
+# Nocardia miyunensis Cui et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

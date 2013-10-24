@@ -1,5 +1,4 @@
-Phaeocystis giraudii (Derbès & Solier) De Toni, 1895 SPECIES
-=======
+# Phaeocystis giraudii (Derbès & Solier) De Toni, 1895 SPECIES
 
 #### Status
 ACCEPTED

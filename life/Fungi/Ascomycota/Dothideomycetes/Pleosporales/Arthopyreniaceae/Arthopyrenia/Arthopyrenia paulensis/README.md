@@ -1,5 +1,4 @@
-Arthopyrenia paulensis Zahlbr. SPECIES
-=======
+# Arthopyrenia paulensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

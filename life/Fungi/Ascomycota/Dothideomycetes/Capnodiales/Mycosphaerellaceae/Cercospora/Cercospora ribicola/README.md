@@ -1,5 +1,4 @@
-Cercospora ribicola Ellis & Everh. SPECIES
-=======
+# Cercospora ribicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

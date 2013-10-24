@@ -1,5 +1,4 @@
-Lophiostoma balnei-ursi (Rehm) Aptroot & K.D. Hyde SPECIES
-=======
+# Lophiostoma balnei-ursi (Rehm) Aptroot & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

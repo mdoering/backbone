@@ -1,5 +1,4 @@
-Usnea radiata Stirt. SPECIES
-=======
+# Usnea radiata Stirt. SPECIES
 
 #### Status
 ACCEPTED

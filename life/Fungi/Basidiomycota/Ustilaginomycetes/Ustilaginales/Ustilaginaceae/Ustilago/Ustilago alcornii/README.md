@@ -1,5 +1,4 @@
-Ustilago alcornii Vánky, 2000 SPECIES
-=======
+# Ustilago alcornii Vánky, 2000 SPECIES
 
 #### Status
 ACCEPTED

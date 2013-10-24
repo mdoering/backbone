@@ -1,5 +1,4 @@
-Agglomerata J.I.R. Larsson & Yan GENUS
-=======
+# Agglomerata J.I.R. Larsson & Yan GENUS
 
 #### Status
 ACCEPTED

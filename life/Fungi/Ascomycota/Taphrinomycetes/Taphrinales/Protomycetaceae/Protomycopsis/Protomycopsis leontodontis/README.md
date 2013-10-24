@@ -1,5 +1,4 @@
-Protomycopsis leontodontis Büren SPECIES
-=======
+# Protomycopsis leontodontis Büren SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytospora abietina Sacc. SPECIES
-=======
+# Cytospora abietina Sacc. SPECIES
 
 #### Status
 ACCEPTED

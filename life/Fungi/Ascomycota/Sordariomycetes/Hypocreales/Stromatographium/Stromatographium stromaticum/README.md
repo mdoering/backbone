@@ -1,5 +1,4 @@
-Stromatographium stromaticum (Berk.) Höhn., 1907 SPECIES
-=======
+# Stromatographium stromaticum (Berk.) Höhn., 1907 SPECIES
 
 #### Status
 ACCEPTED

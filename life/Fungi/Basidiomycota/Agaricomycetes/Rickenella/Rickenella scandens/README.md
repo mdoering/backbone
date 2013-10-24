@@ -1,5 +1,4 @@
-Rickenella scandens (Singer) Raithelh. SPECIES
-=======
+# Rickenella scandens (Singer) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

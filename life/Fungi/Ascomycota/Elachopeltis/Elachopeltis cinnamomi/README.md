@@ -1,5 +1,4 @@
-Elachopeltis cinnamomi Bat. & A.F. Vital SPECIES
-=======
+# Elachopeltis cinnamomi Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

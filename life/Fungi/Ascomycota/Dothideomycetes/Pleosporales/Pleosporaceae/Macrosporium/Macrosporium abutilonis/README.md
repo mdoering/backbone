@@ -1,5 +1,4 @@
-Macrosporium abutilonis Pass. SPECIES
-=======
+# Macrosporium abutilonis Pass. SPECIES
 
 #### Status
 ACCEPTED

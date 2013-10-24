@@ -1,5 +1,4 @@
-Sistotrema orbiculare Fr. SPECIES
-=======
+# Sistotrema orbiculare Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita griseocastanea Coccia & Migl. SPECIES
-=======
+# Amanita griseocastanea Coccia & Migl. SPECIES
 
 #### Status
 ACCEPTED

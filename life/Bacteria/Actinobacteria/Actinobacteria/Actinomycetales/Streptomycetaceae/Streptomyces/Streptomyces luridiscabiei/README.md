@@ -1,5 +1,4 @@
-Streptomyces luridiscabiei Park et al., 2003 SPECIES
-=======
+# Streptomyces luridiscabiei Park et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

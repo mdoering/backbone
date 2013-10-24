@@ -1,5 +1,4 @@
-Stagonospora anemones Golovin SPECIES
-=======
+# Stagonospora anemones Golovin SPECIES
 
 #### Status
 ACCEPTED

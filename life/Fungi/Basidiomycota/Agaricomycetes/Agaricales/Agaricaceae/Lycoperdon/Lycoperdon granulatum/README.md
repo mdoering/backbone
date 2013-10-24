@@ -1,5 +1,4 @@
-Lycoperdon granulatum Wallr. SPECIES
-=======
+# Lycoperdon granulatum Wallr. SPECIES
 
 #### Status
 ACCEPTED

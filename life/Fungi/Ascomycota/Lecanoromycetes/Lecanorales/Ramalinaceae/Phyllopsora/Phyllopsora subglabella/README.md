@@ -1,5 +1,4 @@
-Phyllopsora subglabella (Malme) Gotth. Schneid. SPECIES
-=======
+# Phyllopsora subglabella (Malme) Gotth. Schneid. SPECIES
 
 #### Status
 ACCEPTED

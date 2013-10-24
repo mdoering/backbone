@@ -1,5 +1,4 @@
-Tricholoma praemagnum (Murrill) Sacc. & Trotter SPECIES
-=======
+# Tricholoma praemagnum (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

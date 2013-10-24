@@ -1,5 +1,4 @@
-Pezizella aconiti Rehm SPECIES
-=======
+# Pezizella aconiti Rehm SPECIES
 
 #### Status
 ACCEPTED

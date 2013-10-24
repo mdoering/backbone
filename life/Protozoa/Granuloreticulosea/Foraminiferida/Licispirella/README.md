@@ -1,5 +1,4 @@
-Licispirella Blau & Grun, 1997 GENUS
-=======
+# Licispirella Blau & Grun, 1997 GENUS
 
 #### Status
 ACCEPTED

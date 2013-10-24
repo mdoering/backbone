@@ -1,5 +1,4 @@
-Quinqueloculina aguayoi SPECIES
-=======
+# Quinqueloculina aguayoi SPECIES
 
 #### Status
 ACCEPTED

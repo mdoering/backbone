@@ -1,5 +1,4 @@
-Galerina subpapillata Singer SPECIES
-=======
+# Galerina subpapillata Singer SPECIES
 
 #### Status
 ACCEPTED

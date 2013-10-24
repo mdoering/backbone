@@ -1,5 +1,4 @@
-Amoenoscopa Hara & Takahashi, 1987 GENUS
-=======
+# Amoenoscopa Hara & Takahashi, 1987 GENUS
 
 #### Status
 ACCEPTED

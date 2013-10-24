@@ -1,5 +1,4 @@
-Gypsoplaca macrophyllum (Zahlbr.) Timdal SPECIES
-=======
+# Gypsoplaca macrophyllum (Zahlbr.) Timdal SPECIES
 
 #### Status
 ACCEPTED

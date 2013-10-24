@@ -1,5 +1,4 @@
-Amanita esculenta Hongo SPECIES
-=======
+# Amanita esculenta Hongo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rosalina ornatissima SPECIES
-=======
+# Rosalina ornatissima SPECIES
 
 #### Status
 ACCEPTED

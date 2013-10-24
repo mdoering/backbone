@@ -1,5 +1,4 @@
-Clathrospora simmonsii Wehm. SPECIES
-=======
+# Clathrospora simmonsii Wehm. SPECIES
 
 #### Status
 ACCEPTED

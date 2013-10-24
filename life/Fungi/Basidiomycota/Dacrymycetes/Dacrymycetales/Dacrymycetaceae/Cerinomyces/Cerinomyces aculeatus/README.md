@@ -1,5 +1,4 @@
-Cerinomyces aculeatus N. Maek., 1987 SPECIES
-=======
+# Cerinomyces aculeatus N. Maek., 1987 SPECIES
 
 #### Status
 ACCEPTED

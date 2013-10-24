@@ -1,5 +1,4 @@
-Puccinia stakmanii Presley SPECIES
-=======
+# Puccinia stakmanii Presley SPECIES
 
 #### Status
 ACCEPTED

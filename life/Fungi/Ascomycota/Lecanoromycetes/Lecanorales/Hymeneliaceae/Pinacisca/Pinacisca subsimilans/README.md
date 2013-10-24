@@ -1,5 +1,4 @@
-Pinacisca subsimilans Motyka SPECIES
-=======
+# Pinacisca subsimilans Motyka SPECIES
 
 #### Status
 ACCEPTED

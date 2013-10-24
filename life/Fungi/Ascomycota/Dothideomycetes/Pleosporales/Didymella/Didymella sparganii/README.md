@@ -1,5 +1,4 @@
-Didymella sparganii Oudem. SPECIES
-=======
+# Didymella sparganii Oudem. SPECIES
 
 #### Status
 ACCEPTED

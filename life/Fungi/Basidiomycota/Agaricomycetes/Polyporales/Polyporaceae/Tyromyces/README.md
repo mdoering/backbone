@@ -1,17 +1,16 @@
-Persooniana Britzelm. GENUS
-=======
+# Tyromyces P. Karsten, 1881 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bot. Zbl. 71(3): 88 (1897)
+null
 
 #### Original name
-Persooniana Britzelm.
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Graphis nuda Staiger SPECIES
-=======
+# Graphis nuda Staiger SPECIES
 
 #### Status
 ACCEPTED

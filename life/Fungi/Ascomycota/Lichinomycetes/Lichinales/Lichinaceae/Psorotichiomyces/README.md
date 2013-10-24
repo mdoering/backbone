@@ -1,5 +1,4 @@
-Psorotichiomyces GENUS
-=======
+# Psorotichiomyces GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenopeziza angelicae (Dearn.) Nannf. SPECIES
-=======
+# Pyrenopeziza angelicae (Dearn.) Nannf. SPECIES
 
 #### Status
 ACCEPTED

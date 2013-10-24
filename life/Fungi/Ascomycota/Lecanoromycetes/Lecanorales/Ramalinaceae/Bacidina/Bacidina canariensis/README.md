@@ -1,5 +1,4 @@
-Bacidina canariensis Lumbsch & Vezda SPECIES
-=======
+# Bacidina canariensis Lumbsch & Vezda SPECIES
 
 #### Status
 ACCEPTED

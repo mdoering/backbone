@@ -1,5 +1,4 @@
-Blastenia coralligera (Hue) Darb. SPECIES
-=======
+# Blastenia coralligera (Hue) Darb. SPECIES
 
 #### Status
 ACCEPTED

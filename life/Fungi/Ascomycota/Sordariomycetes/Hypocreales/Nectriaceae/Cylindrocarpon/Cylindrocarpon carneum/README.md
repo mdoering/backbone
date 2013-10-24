@@ -1,5 +1,4 @@
-Cylindrocarpon carneum C. Booth & H.C. Evans, 1984 SPECIES
-=======
+# Cylindrocarpon carneum C. Booth & H.C. Evans, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corticium improvisum H.S. Jacks. SPECIES
-=======
+# Corticium improvisum H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

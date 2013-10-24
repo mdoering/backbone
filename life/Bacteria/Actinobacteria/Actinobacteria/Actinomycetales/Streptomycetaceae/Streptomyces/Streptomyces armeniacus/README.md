@@ -1,8 +1,7 @@
-Actinoplanes armeniacus Kalakoutskii and Kusnetsov, 1964 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces armeniacus (Kalakoutskii & Kusnetsov, 1964) Wellington & Williams, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

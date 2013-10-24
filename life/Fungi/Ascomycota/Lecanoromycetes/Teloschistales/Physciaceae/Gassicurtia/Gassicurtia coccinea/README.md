@@ -1,14 +1,13 @@
-Buellia coccinea (Fée) Aptroot SPECIES
-=======
+# Gassicurtia coccinea Fée SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora of the Guianas (Koenigstein), Series E: Fungi and Lichens. Fascicle 1. Pyxinaceae 11 (1987)
+Essai Crypt. Exot. (Paris) 1: 100 (1825)
 
 #### Original name
 Gassicurtia coccinea Fée

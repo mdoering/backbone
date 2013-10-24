@@ -1,5 +1,4 @@
-Blasticomyces denigratus T. Majewski & K. Sugiy. SPECIES
-=======
+# Blasticomyces denigratus T. Majewski & K. Sugiy. SPECIES
 
 #### Status
 ACCEPTED

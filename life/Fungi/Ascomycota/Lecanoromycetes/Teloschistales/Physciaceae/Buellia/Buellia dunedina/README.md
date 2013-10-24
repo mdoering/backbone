@@ -1,5 +1,4 @@
-Buellia dunedina Zahlbr. SPECIES
-=======
+# Buellia dunedina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

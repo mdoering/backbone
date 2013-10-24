@@ -1,5 +1,4 @@
-Aspicilia cinereoglauca B. de Lesd. SPECIES
-=======
+# Aspicilia cinereoglauca B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

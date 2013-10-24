@@ -1,11 +1,10 @@
-Grahamia talpae Tartakowsky, 1910 SPECIES
-=======
+# Bartonella talpae (Ristic & Kreier, 1984) Birtles et al., 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

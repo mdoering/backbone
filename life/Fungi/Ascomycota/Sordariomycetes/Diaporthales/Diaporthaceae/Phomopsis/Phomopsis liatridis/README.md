@@ -1,5 +1,4 @@
-Phomopsis liatridis H.C. Greene SPECIES
-=======
+# Phomopsis liatridis H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

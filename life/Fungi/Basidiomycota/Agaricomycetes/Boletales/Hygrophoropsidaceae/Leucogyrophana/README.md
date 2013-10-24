@@ -1,5 +1,4 @@
-Leucogyrophana Pouzar, 1958 GENUS
-=======
+# Leucogyrophana Pouzar, 1958 GENUS
 
 #### Status
 ACCEPTED

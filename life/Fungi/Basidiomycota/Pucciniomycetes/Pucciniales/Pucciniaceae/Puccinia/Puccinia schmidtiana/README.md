@@ -1,5 +1,4 @@
-Puccinia schmidtiana Dietel SPECIES
-=======
+# Puccinia schmidtiana Dietel SPECIES
 
 #### Status
 ACCEPTED

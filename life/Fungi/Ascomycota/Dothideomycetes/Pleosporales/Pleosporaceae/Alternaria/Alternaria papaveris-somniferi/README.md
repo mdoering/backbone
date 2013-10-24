@@ -1,5 +1,4 @@
-Alternaria papaveris-somniferi Sawada SPECIES
-=======
+# Alternaria papaveris-somniferi Sawada SPECIES
 
 #### Status
 ACCEPTED

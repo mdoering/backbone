@@ -1,14 +1,13 @@
-Lepiota lilacea f. hymenoderma (D.A. Reid) Migl., 2000 FORM
-=======
+# Lepiota hymenoderma D.A. Reid, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Parliamo di Funghi (Camaiore) 70: 4 (2000)
+Fungorum Rariorum Icones Coloratae 1: 24 (1966)
 
 #### Original name
 Lepiota hymenoderma D.A. Reid, 1966

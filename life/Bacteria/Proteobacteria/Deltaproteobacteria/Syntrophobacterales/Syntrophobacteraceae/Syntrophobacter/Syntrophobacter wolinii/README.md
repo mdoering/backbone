@@ -1,5 +1,4 @@
-Syntrophobacter wolinii Boone & Bryant, 1984 SPECIES
-=======
+# Syntrophobacter wolinii Boone & Bryant, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudobeltrania angamosensis Matsush. SPECIES
-=======
+# Pseudobeltrania angamosensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

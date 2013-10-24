@@ -1,5 +1,4 @@
-Malthomyces K.D. Hyde & P.F. Cannon GENUS
-=======
+# Malthomyces K.D. Hyde & P.F. Cannon GENUS
 
 #### Status
 ACCEPTED

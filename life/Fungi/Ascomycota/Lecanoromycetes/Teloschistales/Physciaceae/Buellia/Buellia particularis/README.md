@@ -1,5 +1,4 @@
-Buellia particularis SPECIES
-=======
+# Buellia particularis SPECIES
 
 #### Status
 ACCEPTED

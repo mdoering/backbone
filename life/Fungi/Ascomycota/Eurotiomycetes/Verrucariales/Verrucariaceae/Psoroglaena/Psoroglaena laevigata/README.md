@@ -1,5 +1,4 @@
-Psoroglaena laevigata Lücking SPECIES
-=======
+# Psoroglaena laevigata Lücking SPECIES
 
 #### Status
 ACCEPTED

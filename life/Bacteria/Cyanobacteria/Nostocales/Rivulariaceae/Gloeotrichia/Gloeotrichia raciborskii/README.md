@@ -1,5 +1,4 @@
-Gloeotrichia raciborskii Woloszynska SPECIES
-=======
+# Gloeotrichia raciborskii Woloszynska SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Conchophthirus discophorus Mermod, 1914 SPECIES
-=======
+# Discoftirius discophorus (Mermod, 1914) Jankowski, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

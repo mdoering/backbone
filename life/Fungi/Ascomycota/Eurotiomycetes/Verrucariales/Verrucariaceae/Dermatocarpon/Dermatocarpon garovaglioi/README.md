@@ -1,5 +1,4 @@
-Dermatocarpon garovaglioi var. garovaglioi VARIETY
-=======
+# Dermatocarpon garovaglioi (Mont.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Memor. Lichenogr. 141 (1853)
 
 #### Original name
 Verrucaria garovaglioi Mont.

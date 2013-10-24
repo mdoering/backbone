@@ -1,5 +1,4 @@
-Neaguammina Kaminski, Holbourn & Geroch, 1997 GENUS
-=======
+# Neaguammina Kaminski, Holbourn & Geroch, 1997 GENUS
 
 #### Status
 ACCEPTED

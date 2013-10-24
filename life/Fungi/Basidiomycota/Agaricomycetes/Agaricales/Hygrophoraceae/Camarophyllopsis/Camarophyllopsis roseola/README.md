@@ -1,14 +1,13 @@
-Omphalina roseola G. Stev., 1964 SPECIES
-=======
+# Camarophyllopsis roseola (G. Stev.) Boertm., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 19(1): 12 (1964)
+Biblthca Mycol. 192: 76 (2002)
 
 #### Original name
 Omphalina roseola G. Stev., 1964

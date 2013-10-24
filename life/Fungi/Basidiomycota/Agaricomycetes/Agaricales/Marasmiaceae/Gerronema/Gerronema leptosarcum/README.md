@@ -1,5 +1,4 @@
-Gerronema leptosarcum Singer SPECIES
-=======
+# Gerronema leptosarcum Singer SPECIES
 
 #### Status
 ACCEPTED

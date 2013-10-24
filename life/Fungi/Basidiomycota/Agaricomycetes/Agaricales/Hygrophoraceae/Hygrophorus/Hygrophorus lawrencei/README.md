@@ -1,5 +1,4 @@
-Hygrophorus lawrencei Hesler & A.H. Sm. SPECIES
-=======
+# Hygrophorus lawrencei Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

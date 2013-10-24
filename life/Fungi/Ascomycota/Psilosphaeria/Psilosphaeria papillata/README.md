@@ -1,5 +1,4 @@
-Psilosphaeria papillata (Fuckel) Cooke SPECIES
-=======
+# Psilosphaeria papillata (Fuckel) Cooke SPECIES
 
 #### Status
 ACCEPTED

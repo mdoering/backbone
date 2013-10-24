@@ -1,5 +1,4 @@
-Drosophila scotospora Romagn. SPECIES
-=======
+# Drosophila scotospora Romagn. SPECIES
 
 #### Status
 ACCEPTED

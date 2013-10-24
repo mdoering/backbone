@@ -1,5 +1,4 @@
-Trisyringium capellinii SPECIES
-=======
+# Trisyringium capellinii SPECIES
 
 #### Status
 ACCEPTED

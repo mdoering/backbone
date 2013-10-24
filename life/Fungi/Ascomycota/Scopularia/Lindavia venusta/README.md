@@ -1,5 +1,4 @@
-Lindavia venusta (Preuss) Nieuwl. SPECIES
-=======
+# Lindavia venusta (Preuss) Nieuwl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kineosporia Pagani & Parenti GENUS
-=======
+# Kineosporia Pagani & Parenti GENUS
 
 #### Status
 ACCEPTED

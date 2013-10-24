@@ -1,5 +1,4 @@
-Buellia crozalsiana B. de Lesd. SPECIES
-=======
+# Buellia crozalsiana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

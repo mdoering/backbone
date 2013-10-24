@@ -1,17 +1,16 @@
-Phyllosticta chaenomelesicola L. Yu & J.K. Bai SPECIES
-=======
+# Phyllosticta chaenomelicola L. Yu & J.K. Bai SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta Mycol. Sin. 14(3): 192 (1995)
 
 #### Original name
-Phyllosticta chaenomelesicola L. Yu & J.K. Bai
+Phyllosticta chaenomelicola L. Yu & J.K. Bai
 
 ### Remarks
 null

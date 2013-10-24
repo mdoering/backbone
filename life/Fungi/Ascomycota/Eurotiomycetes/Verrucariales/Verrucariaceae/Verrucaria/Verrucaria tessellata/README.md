@@ -1,17 +1,16 @@
-Verrucaria tesselata (C.W. Dodge) Øvstedal SPECIES
-=======
+# Verrucaria tessellata Hoffm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+S. Afr. J. Bot. 67(4): 570 (2001)
 
 #### Original name
-Phyllopyrenia tessellata C.W. Dodge
+Verrucaria tessellata Hoffm.
 
 ### Remarks
 null

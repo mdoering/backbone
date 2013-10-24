@@ -1,5 +1,4 @@
-Hysterostomina doidgeae Bat. & A.F. Vital SPECIES
-=======
+# Hysterostomina doidgeae Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

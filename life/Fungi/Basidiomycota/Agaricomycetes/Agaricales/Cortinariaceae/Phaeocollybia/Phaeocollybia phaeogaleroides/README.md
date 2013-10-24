@@ -1,5 +1,4 @@
-Phaeocollybia phaeogaleroides Norvell SPECIES
-=======
+# Phaeocollybia phaeogaleroides Norvell SPECIES
 
 #### Status
 ACCEPTED

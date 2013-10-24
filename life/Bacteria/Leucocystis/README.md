@@ -1,5 +1,4 @@
-Leucocystis GENUS
-=======
+# Leucocystis GENUS
 
 #### Status
 ACCEPTED

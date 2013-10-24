@@ -1,5 +1,4 @@
-Ocellularia albescens (Vain.) Zahlbr. SPECIES
-=======
+# Ocellularia albescens (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta usteri Speg. SPECIES
-=======
+# Phyllosticta usteri Speg. SPECIES
 
 #### Status
 ACCEPTED

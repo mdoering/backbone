@@ -1,5 +1,4 @@
-Gnomoniella caulicola Bäumler SPECIES
-=======
+# Gnomoniella caulicola Bäumler SPECIES
 
 #### Status
 ACCEPTED

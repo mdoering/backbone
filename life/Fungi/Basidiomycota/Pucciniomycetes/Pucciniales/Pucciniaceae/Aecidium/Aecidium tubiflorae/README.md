@@ -1,5 +1,4 @@
-Aecidium tubiflorae Henn. SPECIES
-=======
+# Aecidium tubiflorae Henn. SPECIES
 
 #### Status
 ACCEPTED

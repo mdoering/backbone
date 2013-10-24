@@ -1,5 +1,4 @@
-Verticicladium pulvereum (Peck & G.P. Clinton) Sacc. SPECIES
-=======
+# Verticicladium pulvereum (Peck & G.P. Clinton) Sacc. SPECIES
 
 #### Status
 ACCEPTED

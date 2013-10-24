@@ -1,8 +1,7 @@
-Boletus lakei Murrill, 1912 SPECIES
-=======
+# Suillus lakei (Murrill) A.H. Sm. & Thiers, 1964 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

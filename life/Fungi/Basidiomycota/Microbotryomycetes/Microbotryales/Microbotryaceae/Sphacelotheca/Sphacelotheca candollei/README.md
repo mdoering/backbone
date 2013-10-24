@@ -1,5 +1,4 @@
-Sphacelotheca candollei Cif. SPECIES
-=======
+# Sphacelotheca candollei Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps adpropinquans (Ces.) Sacc. SPECIES
-=======
+# Cordyceps adpropinquans (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

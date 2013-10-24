@@ -1,5 +1,4 @@
-Valsa platani (Schwein.) Cooke, 1879 SPECIES
-=======
+# Valsa platani (Schwein.) Cooke, 1879 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Intrapredatorus W.J. Chen, T.L. Kuo, S.T. Wu GENUS
-=======
+# Intrapredatorus W.J. Chen, T.L. Kuo, S.T. Wu GENUS
 
 #### Status
 ACCEPTED

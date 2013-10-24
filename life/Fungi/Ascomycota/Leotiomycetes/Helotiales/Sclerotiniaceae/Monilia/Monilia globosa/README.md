@@ -1,5 +1,4 @@
-Monilia globosa Schwein. SPECIES
-=======
+# Monilia globosa Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Styptosphaera Haeckel, 1887 GENUS
-=======
+# Styptosphaera Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

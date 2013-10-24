@@ -1,5 +1,4 @@
-Rhodotorula suganii (Okun.) Lodder SPECIES
-=======
+# Rhodotorula suganii (Okun.) Lodder SPECIES
 
 #### Status
 ACCEPTED

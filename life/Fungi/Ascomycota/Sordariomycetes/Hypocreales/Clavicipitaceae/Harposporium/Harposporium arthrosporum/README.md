@@ -1,5 +1,4 @@
-Harposporium arthrosporum G.L. Barron, 1979 SPECIES
-=======
+# Harposporium arthrosporum G.L. Barron, 1979 SPECIES
 
 #### Status
 ACCEPTED

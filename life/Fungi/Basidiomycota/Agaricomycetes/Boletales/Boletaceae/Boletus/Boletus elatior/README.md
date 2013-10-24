@@ -1,5 +1,4 @@
-Boletus elatior Fr. SPECIES
-=======
+# Boletus elatior Fr. SPECIES
 
 #### Status
 ACCEPTED

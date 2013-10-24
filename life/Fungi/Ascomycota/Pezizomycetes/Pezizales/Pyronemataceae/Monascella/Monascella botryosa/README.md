@@ -1,5 +1,4 @@
-Monascella botryosa Guarro & Arx, 1986 SPECIES
-=======
+# Monascella botryosa Guarro & Arx, 1986 SPECIES
 
 #### Status
 ACCEPTED

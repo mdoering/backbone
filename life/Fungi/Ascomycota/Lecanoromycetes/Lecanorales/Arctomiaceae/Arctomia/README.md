@@ -1,5 +1,4 @@
-Arctomia Th. Fr. GENUS
-=======
+# Arctomia Th. Fr. GENUS
 
 #### Status
 ACCEPTED

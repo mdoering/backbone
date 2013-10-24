@@ -1,5 +1,4 @@
-Triptera A.I. Proshkina-Lavrenko, 1945 GENUS
-=======
+# Triptera A.I. Proshkina-Lavrenko, 1945 GENUS
 
 #### Status
 ACCEPTED

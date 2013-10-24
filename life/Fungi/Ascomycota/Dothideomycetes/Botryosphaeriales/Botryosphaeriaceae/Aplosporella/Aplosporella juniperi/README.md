@@ -1,5 +1,4 @@
-Aplosporella juniperi (Peck) Petr. SPECIES
-=======
+# Aplosporella juniperi (Peck) Petr. SPECIES
 
 #### Status
 ACCEPTED

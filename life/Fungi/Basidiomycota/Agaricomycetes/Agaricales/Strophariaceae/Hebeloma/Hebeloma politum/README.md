@@ -1,5 +1,4 @@
-Hebeloma politum Hesler SPECIES
-=======
+# Hebeloma politum Hesler SPECIES
 
 #### Status
 ACCEPTED

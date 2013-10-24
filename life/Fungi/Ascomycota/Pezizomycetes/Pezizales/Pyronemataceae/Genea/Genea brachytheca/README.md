@@ -1,5 +1,4 @@
-Genea brachytheca Gilkey SPECIES
-=======
+# Genea brachytheca Gilkey SPECIES
 
 #### Status
 ACCEPTED

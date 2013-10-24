@@ -1,5 +1,4 @@
-Peziza plicata Pers. SPECIES
-=======
+# Peziza plicata Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphisolenia curvata Kofoid, 1907 SPECIES
-=======
+# Amphisolenia curvata Kofoid, 1907 SPECIES
 
 #### Status
 ACCEPTED

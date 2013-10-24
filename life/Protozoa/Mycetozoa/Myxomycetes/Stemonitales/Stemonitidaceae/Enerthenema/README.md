@@ -1,17 +1,16 @@
-Ancyrophorus Raunk. GENUS
-=======
+# Enerthenema Bowman, 1830 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bot. Tidsskr. 17: 92 (1888)
+Trans. Linn. Soc. London, 16, 152.
 
 #### Original name
-Ancyrophorus Raunk.
+null
 
 ### Remarks
 null

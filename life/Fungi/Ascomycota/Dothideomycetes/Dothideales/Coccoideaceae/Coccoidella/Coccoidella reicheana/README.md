@@ -1,5 +1,4 @@
-Coccoidella reicheana (Henn.) Theiss. & Syd. SPECIES
-=======
+# Coccoidella reicheana (Henn.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

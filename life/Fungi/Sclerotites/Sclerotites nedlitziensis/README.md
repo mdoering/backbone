@@ -1,5 +1,4 @@
-Sclerotites nedlitziensis Kirschst. SPECIES
-=======
+# Sclerotites nedlitziensis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

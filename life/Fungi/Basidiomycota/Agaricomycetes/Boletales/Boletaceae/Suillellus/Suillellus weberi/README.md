@@ -1,5 +1,4 @@
-Suillellus weberi (Singer) Murrill SPECIES
-=======
+# Suillellus weberi (Singer) Murrill SPECIES
 
 #### Status
 ACCEPTED

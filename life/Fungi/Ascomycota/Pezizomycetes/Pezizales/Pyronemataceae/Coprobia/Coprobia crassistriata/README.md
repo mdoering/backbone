@@ -1,5 +1,4 @@
-Coprobia crassistriata J. Moravec SPECIES
-=======
+# Coprobia crassistriata J. Moravec SPECIES
 
 #### Status
 ACCEPTED

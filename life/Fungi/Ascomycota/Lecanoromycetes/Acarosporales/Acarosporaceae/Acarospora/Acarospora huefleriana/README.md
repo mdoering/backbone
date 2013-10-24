@@ -1,5 +1,4 @@
-Acarospora huefleriana Körb. SPECIES
-=======
+# Acarospora huefleriana Körb. SPECIES
 
 #### Status
 ACCEPTED

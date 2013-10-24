@@ -1,5 +1,4 @@
-Diplodia ravenelii Cooke SPECIES
-=======
+# Diplodia ravenelii Cooke SPECIES
 
 #### Status
 ACCEPTED

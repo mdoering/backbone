@@ -1,17 +1,16 @@
-Odontia longospora H. Furuk. SPECIES
-=======
+# Hyphoderma transiens (Bres.) Parmasto, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Consp. System. Corticiac. (Tartu) 114 (1968)
 
 #### Original name
-Odontia longospora H. Furuk.
+Odontia transiens Bres., 1913
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Alternaria tangelonis E.G. Simmons SPECIES
-=======
+# Alternaria tangelonis E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vorticella funaris SPECIES
-=======
+# Vorticella funaris SPECIES
 
 #### Status
 ACCEPTED

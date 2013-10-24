@@ -1,5 +1,4 @@
-Odontia krakatavi Boedijn SPECIES
-=======
+# Odontia krakatavi Boedijn SPECIES
 
 #### Status
 ACCEPTED

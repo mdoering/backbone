@@ -1,5 +1,4 @@
-Meliola lithocarpicola (W. Yamam.) Cif. SPECIES
-=======
+# Meliola lithocarpicola (W. Yamam.) Cif. SPECIES
 
 #### Status
 ACCEPTED

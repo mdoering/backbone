@@ -1,5 +1,4 @@
-Mycena olivaceoflava M. Villarreal, Heykoop & Maas Geest. SPECIES
-=======
+# Mycena olivaceoflava M. Villarreal, Heykoop & Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

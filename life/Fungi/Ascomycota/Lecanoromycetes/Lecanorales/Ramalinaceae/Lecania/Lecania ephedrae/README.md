@@ -1,5 +1,4 @@
-Lecania ephedrae Elenk. SPECIES
-=======
+# Lecania ephedrae Elenk. SPECIES
 
 #### Status
 ACCEPTED

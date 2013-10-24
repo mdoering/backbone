@@ -1,5 +1,4 @@
-Cryptothecia anamalaiensis Patw. & Makhija SPECIES
-=======
+# Cryptothecia anamalaiensis Patw. & Makhija SPECIES
 
 #### Status
 ACCEPTED

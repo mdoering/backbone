@@ -1,5 +1,4 @@
-Bovistella humidicola Bowerman SPECIES
-=======
+# Bovistella humidicola Bowerman SPECIES
 
 #### Status
 ACCEPTED

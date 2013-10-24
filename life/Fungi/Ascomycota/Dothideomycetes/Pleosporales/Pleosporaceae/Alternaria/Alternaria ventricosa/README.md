@@ -1,5 +1,4 @@
-Alternaria ventricosa R.G. Roberts SPECIES
-=======
+# Alternaria ventricosa R.G. Roberts SPECIES
 
 #### Status
 ACCEPTED

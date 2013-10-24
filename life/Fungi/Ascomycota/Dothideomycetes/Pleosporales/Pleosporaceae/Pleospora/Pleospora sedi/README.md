@@ -1,5 +1,4 @@
-Pleospora sedi (Roum. & Briard) Berl. & Voglino SPECIES
-=======
+# Pleospora sedi (Roum. & Briard) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

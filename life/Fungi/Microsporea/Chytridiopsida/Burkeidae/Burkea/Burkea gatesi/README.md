@@ -1,5 +1,4 @@
-Burkea gatesi (de Puytorac & Tourret) Sprague SPECIES
-=======
+# Burkea gatesi (de Puytorac & Tourret) Sprague SPECIES
 
 #### Status
 ACCEPTED

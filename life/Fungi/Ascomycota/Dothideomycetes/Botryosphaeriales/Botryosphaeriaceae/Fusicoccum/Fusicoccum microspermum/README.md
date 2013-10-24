@@ -1,5 +1,4 @@
-Fusicoccum microspermum f. microspermum FORM
-=======
+# Fusicoccum microspermum Har. & P. Karst. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Revue mycol. , Toulouse 12: 80 (1890)
 
 #### Original name
-Fusicoccum microspermum f. microspermum
+Fusicoccum microspermum Har. & P. Karst.
 
 ### Remarks
 null

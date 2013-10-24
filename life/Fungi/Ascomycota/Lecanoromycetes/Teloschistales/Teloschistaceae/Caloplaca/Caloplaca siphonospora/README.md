@@ -1,5 +1,4 @@
-Caloplaca siphonospora Olech & Søchting SPECIES
-=======
+# Caloplaca siphonospora Olech & Søchting SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Tympanis pitya subsp. pitya SUBSPECIES
-=======
+# Tympanis pitya (P. Karst.) P. Karst., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycoth. fenn. (Helsinki) 1: 228 (1871)
+Syll. fung. (Abellini) 8: 583 (1889)
 
 #### Original name
-Tympanis pitya subsp. pitya
+Dothidea pitya Fr.
 
 ### Remarks
 null

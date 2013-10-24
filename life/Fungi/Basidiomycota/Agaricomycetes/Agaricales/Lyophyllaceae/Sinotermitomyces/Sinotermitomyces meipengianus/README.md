@@ -1,5 +1,4 @@
-Sinotermitomyces meipengianus M. Zang & D.Z. Zhang SPECIES
-=======
+# Sinotermitomyces meipengianus M. Zang & D.Z. Zhang SPECIES
 
 #### Status
 ACCEPTED

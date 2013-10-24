@@ -1,5 +1,4 @@
-Pyramidospora stellata R.C. Sinclair & Morgan-Jones SPECIES
-=======
+# Pyramidospora stellata R.C. Sinclair & Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

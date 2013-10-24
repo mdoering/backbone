@@ -1,5 +1,4 @@
-Polystictus submembranaceus Saut. SPECIES
-=======
+# Polystictus submembranaceus Saut. SPECIES
 
 #### Status
 ACCEPTED

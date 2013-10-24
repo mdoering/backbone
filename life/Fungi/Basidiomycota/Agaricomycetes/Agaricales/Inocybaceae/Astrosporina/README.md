@@ -1,5 +1,4 @@
-Astrosporina S. Imai, 1938 GENUS
-=======
+# Astrosporina S. Imai, 1938 GENUS
 
 #### Status
 ACCEPTED

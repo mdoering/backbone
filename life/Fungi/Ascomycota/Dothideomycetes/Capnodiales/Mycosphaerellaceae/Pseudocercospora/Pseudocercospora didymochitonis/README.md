@@ -1,14 +1,13 @@
-Pseudocercospora didymochetonis (Wakef.) Y.L. Guo SPECIES
-=======
+# Pseudocercospora didymochitonis (Wakef.) Y.L. Guo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 72: 351 (1999)
 
 #### Original name
 Cercospora didymochitonis Wakef.

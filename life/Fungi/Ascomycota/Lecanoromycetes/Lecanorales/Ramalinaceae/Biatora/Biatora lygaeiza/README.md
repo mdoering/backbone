@@ -1,5 +1,4 @@
-Biatora lygaeiza (Vain.) Dombr. SPECIES
-=======
+# Biatora lygaeiza (Vain.) Dombr. SPECIES
 
 #### Status
 ACCEPTED

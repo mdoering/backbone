@@ -1,5 +1,4 @@
-Asterina lindigii Pat. SPECIES
-=======
+# Asterina lindigii Pat. SPECIES
 
 #### Status
 ACCEPTED

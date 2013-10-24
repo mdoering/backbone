@@ -1,5 +1,4 @@
-Septoria calamovilfae Petr. SPECIES
-=======
+# Septoria calamovilfae Petr. SPECIES
 
 #### Status
 ACCEPTED

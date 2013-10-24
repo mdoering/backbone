@@ -1,5 +1,4 @@
-Meliola queenslandica (E. Fisch.) Hansf. SPECIES
-=======
+# Meliola queenslandica (E. Fisch.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

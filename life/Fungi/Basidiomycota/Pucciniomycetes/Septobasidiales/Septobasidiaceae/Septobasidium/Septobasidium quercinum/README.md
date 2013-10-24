@@ -1,5 +1,4 @@
-Septobasidium quercinum (Bagl.) Sacc. SPECIES
-=======
+# Septobasidium quercinum (Bagl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

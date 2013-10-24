@@ -1,5 +1,4 @@
-Sporopodium olivaceum (Müll. Arg.) SPECIES
-=======
+# Sporopodium olivaceum (Müll. Arg.) SPECIES
 
 #### Status
 ACCEPTED

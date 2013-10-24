@@ -1,5 +1,4 @@
-Trametes frustrata Corner SPECIES
-=======
+# Trametes frustrata Corner SPECIES
 
 #### Status
 ACCEPTED

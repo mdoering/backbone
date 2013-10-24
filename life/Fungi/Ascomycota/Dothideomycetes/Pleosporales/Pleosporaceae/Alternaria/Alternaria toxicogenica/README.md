@@ -1,5 +1,4 @@
-Alternaria toxicogenica E.G. Simmons SPECIES
-=======
+# Alternaria toxicogenica E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

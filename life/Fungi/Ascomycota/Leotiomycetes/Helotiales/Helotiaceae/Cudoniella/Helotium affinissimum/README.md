@@ -1,5 +1,4 @@
-Helotium affinissimum Peck SPECIES
-=======
+# Helotium affinissimum Peck SPECIES
 
 #### Status
 ACCEPTED

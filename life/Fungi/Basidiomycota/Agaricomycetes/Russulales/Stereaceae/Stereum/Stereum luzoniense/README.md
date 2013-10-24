@@ -1,5 +1,4 @@
-Stereum luzoniense Ricker SPECIES
-=======
+# Stereum luzoniense Ricker SPECIES
 
 #### Status
 ACCEPTED

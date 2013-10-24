@@ -1,5 +1,4 @@
-Aderkomyces subplanus (Kalb & Vezda) Lücking, Sérus. & Vezda SPECIES
-=======
+# Aderkomyces subplanus (Kalb & Vezda) Lücking, Sérus. & Vezda SPECIES
 
 #### Status
 ACCEPTED

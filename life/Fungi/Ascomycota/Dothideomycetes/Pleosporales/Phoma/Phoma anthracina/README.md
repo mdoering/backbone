@@ -1,5 +1,4 @@
-Phoma anthracina Speg. SPECIES
-=======
+# Phoma anthracina Speg. SPECIES
 
 #### Status
 ACCEPTED

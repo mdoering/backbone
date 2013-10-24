@@ -1,5 +1,4 @@
-Hebeloma proletaria Velen. SPECIES
-=======
+# Hebeloma proletaria Velen. SPECIES
 
 #### Status
 ACCEPTED

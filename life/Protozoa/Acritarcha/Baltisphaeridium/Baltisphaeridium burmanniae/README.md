@@ -1,5 +1,4 @@
-Baltisphaeridium burmanniae Fensome et al., 1990 SPECIES
-=======
+# Baltisphaeridium burmanniae Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

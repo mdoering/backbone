@@ -1,5 +1,4 @@
-Lagenidium entosphaericum S.N. Dasgupta & R. John SPECIES
-=======
+# Lagenidium entosphaericum S.N. Dasgupta & R. John SPECIES
 
 #### Status
 ACCEPTED

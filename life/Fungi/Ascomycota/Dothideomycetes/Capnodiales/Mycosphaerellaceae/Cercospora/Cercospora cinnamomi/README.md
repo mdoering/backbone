@@ -1,5 +1,4 @@
-Cercospora cinnamomi Sawada & Katsuki SPECIES
-=======
+# Cercospora cinnamomi Sawada & Katsuki SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium geranii Savul. & Negru SPECIES
-=======
+# Gloeosporium geranii Savul. & Negru SPECIES
 
 #### Status
 ACCEPTED

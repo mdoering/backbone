@@ -1,5 +1,4 @@
-Pyriomyces Bat. & H. Maia GENUS
-=======
+# Pyriomyces Bat. & H. Maia GENUS
 
 #### Status
 ACCEPTED

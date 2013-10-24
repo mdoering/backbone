@@ -1,5 +1,4 @@
-Amphisphaeria notabilis Rehm SPECIES
-=======
+# Amphisphaeria notabilis Rehm SPECIES
 
 #### Status
 ACCEPTED

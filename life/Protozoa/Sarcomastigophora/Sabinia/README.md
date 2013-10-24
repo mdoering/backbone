@@ -1,5 +1,4 @@
-Sabinia McCulloch, 1977 GENUS
-=======
+# Sabinia McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

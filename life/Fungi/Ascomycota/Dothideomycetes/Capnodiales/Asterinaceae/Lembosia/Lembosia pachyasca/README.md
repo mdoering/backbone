@@ -1,5 +1,4 @@
-Lembosia pachyasca Bres. SPECIES
-=======
+# Lembosia pachyasca Bres. SPECIES
 
 #### Status
 ACCEPTED

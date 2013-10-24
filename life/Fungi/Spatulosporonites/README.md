@@ -1,5 +1,4 @@
-Spatulosporonites Z.C. Song GENUS
-=======
+# Spatulosporonites Z.C. Song GENUS
 
 #### Status
 ACCEPTED

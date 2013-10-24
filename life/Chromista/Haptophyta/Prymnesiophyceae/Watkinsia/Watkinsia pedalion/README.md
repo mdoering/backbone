@@ -1,5 +1,4 @@
-Watkinsia pedalion SPECIES
-=======
+# Watkinsia pedalion SPECIES
 
 #### Status
 ACCEPTED

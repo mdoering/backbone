@@ -1,5 +1,4 @@
-Johannesbaptistia pellucida (Dickie) W.R. Taylor & Drouet SPECIES
-=======
+# Johannesbaptistia pellucida (Dickie) W.R. Taylor & Drouet SPECIES
 
 #### Status
 ACCEPTED

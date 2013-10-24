@@ -1,5 +1,4 @@
-Tricholoma suevicum (Britzelm.) Lapl. SPECIES
-=======
+# Tricholoma suevicum (Britzelm.) Lapl. SPECIES
 
 #### Status
 ACCEPTED

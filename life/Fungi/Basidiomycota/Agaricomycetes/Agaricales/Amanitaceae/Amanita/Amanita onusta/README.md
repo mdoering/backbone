@@ -1,5 +1,4 @@
-Amanita onusta (Howe) Sacc. SPECIES
-=======
+# Amanita onusta (Howe) Sacc. SPECIES
 
 #### Status
 ACCEPTED

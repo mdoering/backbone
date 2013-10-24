@@ -1,5 +1,4 @@
-Neosporidesmium Mercado & J. Mena GENUS
-=======
+# Neosporidesmium Mercado & J. Mena GENUS
 
 #### Status
 ACCEPTED

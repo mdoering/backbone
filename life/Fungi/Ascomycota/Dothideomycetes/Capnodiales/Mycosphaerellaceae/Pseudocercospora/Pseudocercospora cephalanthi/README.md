@@ -1,5 +1,4 @@
-Pseudocercospora cephalanthi Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora cephalanthi Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

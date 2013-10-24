@@ -1,5 +1,4 @@
-Didymium ossicola Pat. SPECIES
-=======
+# Didymium ossicola Pat. SPECIES
 
 #### Status
 ACCEPTED

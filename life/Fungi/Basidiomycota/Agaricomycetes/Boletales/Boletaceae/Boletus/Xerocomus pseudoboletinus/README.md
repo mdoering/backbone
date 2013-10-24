@@ -1,5 +1,4 @@
-Xerocomus pseudoboletinus var. pseudoboletinus VARIETY
-=======
+# Xerocomus pseudoboletinus (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Farlowia 2: 290 (1946)
 
 #### Original name
-Xerocomus pseudoboletinus var. pseudoboletinus
+Ceriomyces pseudoboletinus Murrill
 
 ### Remarks
 null

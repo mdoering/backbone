@@ -1,5 +1,4 @@
-Uredo longaensis Henn. SPECIES
-=======
+# Uredo longaensis Henn. SPECIES
 
 #### Status
 ACCEPTED

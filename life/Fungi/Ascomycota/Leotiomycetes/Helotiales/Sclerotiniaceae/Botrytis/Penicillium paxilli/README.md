@@ -1,5 +1,4 @@
-Penicillium paxilli Bainier, 1907 SPECIES
-=======
+# Penicillium paxilli Bainier, 1907 SPECIES
 
 #### Status
 DOUBTFUL

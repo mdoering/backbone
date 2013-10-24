@@ -1,17 +1,16 @@
-Ameghiniella australis subsp. australis Speg. SUBSPECIES
-=======
+# Ameghiniella australis Speg., 1888 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Boletín de la Academia Nacional de Ciencias de Córdoba 11(2): 271 (1888)
 
 #### Original name
-Ameghiniella australis subsp. australis Speg.
+Ameghiniella australis Speg., 1888
 
 ### Remarks
 null

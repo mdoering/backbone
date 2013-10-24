@@ -1,5 +1,4 @@
-Leucopaxillus mirabilis var. mirabilis VARIETY
-=======
+# Leucopaxillus mirabilis (Bres.) Konrad & Maubl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leucopaxillus mirabilis var. mirabilis
+Tricholoma mirabile Bres.
 
 ### Remarks
 null

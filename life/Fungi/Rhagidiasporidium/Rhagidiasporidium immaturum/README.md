@@ -1,5 +1,4 @@
-Rhagidiasporidium immaturum Thor SPECIES
-=======
+# Rhagidiasporidium immaturum Thor SPECIES
 
 #### Status
 ACCEPTED

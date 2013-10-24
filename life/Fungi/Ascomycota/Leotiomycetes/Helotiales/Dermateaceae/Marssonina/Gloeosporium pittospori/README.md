@@ -1,5 +1,4 @@
-Gloeosporium pittospori Gonz. Frag. & Cif. SPECIES
-=======
+# Gloeosporium pittospori Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

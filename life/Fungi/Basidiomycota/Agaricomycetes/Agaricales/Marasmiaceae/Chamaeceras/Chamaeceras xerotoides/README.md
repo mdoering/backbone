@@ -1,14 +1,13 @@
-Chamaeceras xerotodes (H. Post) Kuntze SPECIES
-=======
+# Chamaeceras xerotoides (H. Post) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 457 (1898)
 
 #### Original name
 Marasmius xerotoides H. Post

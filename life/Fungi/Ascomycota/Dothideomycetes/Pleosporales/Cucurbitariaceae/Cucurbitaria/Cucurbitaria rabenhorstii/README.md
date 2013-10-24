@@ -1,14 +1,13 @@
-Teichospora rabenhorstii (Auersw.) Sacc. SPECIES
-=======
+# Cucurbitaria rabenhorstii Auersw., 1865 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 4: 155 (1865)
 
 #### Original name
 Cucurbitaria rabenhorstii Auersw., 1865

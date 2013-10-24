@@ -1,5 +1,4 @@
-Calostoma ravenelii var. ravenelii VARIETY
-=======
+# Calostoma ravenelii (Berk.) Massee SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ann. Bot. , Lond. 2: 25 (1888)
 
 #### Original name
-Calostoma ravenelii var. ravenelii
+Mitremyces ravenelii Berk.
 
 ### Remarks
 null

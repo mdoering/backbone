@@ -1,5 +1,4 @@
-Biatora chrysanthoides Printzen & Tønsberg SPECIES
-=======
+# Biatora chrysanthoides Printzen & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

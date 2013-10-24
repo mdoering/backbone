@@ -1,5 +1,4 @@
-Catenophora Luttr. GENUS
-=======
+# Catenophora Luttr. GENUS
 
 #### Status
 ACCEPTED

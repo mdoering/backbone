@@ -1,5 +1,4 @@
-Acarospora lagascae (Ach.) Th. Fr. SPECIES
-=======
+# Acarospora lagascae (Ach.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

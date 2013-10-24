@@ -1,5 +1,4 @@
-Tontonia simplicidens subsp. simplicidens SUBSPECIES
-=======
+# Tontonia simplicidens Lynn & Gilron, 1993 SPECIES
 
 #### Status
 ACCEPTED

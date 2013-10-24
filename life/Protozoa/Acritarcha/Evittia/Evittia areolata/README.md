@@ -1,5 +1,4 @@
-Evittia areolata Le Hérissé, 2002 SPECIES
-=======
+# Evittia areolata Le Hérissé, 2002 SPECIES
 
 #### Status
 ACCEPTED

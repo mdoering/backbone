@@ -1,5 +1,4 @@
-Erysiphe neglecta (U. Braun) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe neglecta (U. Braun) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

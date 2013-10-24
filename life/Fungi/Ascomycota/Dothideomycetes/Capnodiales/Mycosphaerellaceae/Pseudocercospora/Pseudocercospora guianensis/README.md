@@ -1,5 +1,4 @@
-Pseudocercospora guianensis (F. Stevens & Solheim) Deighton SPECIES
-=======
+# Pseudocercospora guianensis (F. Stevens & Solheim) Deighton SPECIES
 
 #### Status
 ACCEPTED

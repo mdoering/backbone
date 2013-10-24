@@ -1,5 +1,4 @@
-Actinophrys vesiculata Pen. SPECIES
-=======
+# Actinophrys vesiculata Pen. SPECIES
 
 #### Status
 ACCEPTED

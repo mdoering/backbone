@@ -1,5 +1,4 @@
-Peteinosphaeridium strigosum Vavrdová, 1986 SPECIES
-=======
+# Peteinosphaeridium strigosum Vavrdová, 1986 SPECIES
 
 #### Status
 ACCEPTED

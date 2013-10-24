@@ -1,14 +1,13 @@
-Pezicula perennans (Kienholz) Dugan, R.G. Roberts & G.G. Grove, 1993 SPECIES
-=======
+# Neofabraea perennans Kienholz, 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 85(4): 571 (1993)
+Journal of Agricultural Research 59: 662 (1939)
 
 #### Original name
 Neofabraea perennans Kienholz, 1939

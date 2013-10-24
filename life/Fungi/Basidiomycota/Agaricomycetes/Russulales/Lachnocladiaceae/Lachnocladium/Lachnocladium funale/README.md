@@ -1,5 +1,4 @@
-Lachnocladium funale (Lév.) Sacc. SPECIES
-=======
+# Lachnocladium funale (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

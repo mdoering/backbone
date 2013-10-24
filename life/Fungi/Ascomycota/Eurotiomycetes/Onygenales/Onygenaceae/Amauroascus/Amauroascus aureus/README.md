@@ -1,14 +1,13 @@
-Arachniotus aureus (Eidam) J. Schröt., 1893 SPECIES
-=======
+# Amauroascus aureus (Eidam) Arx, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Cohn, Kryptogamenflora Achles. 3(2): 210 (1893)
+Persoonia 6(3): 375 (1971)
 
 #### Original name
 Gymnoascus aureus Eidam, 1893

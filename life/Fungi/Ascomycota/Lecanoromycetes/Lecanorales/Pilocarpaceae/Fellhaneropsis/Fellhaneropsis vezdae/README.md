@@ -1,5 +1,4 @@
-Fellhaneropsis vezdae (Coppins & P. James) Sérus. & Coppins SPECIES
-=======
+# Fellhaneropsis vezdae (Coppins & P. James) Sérus. & Coppins SPECIES
 
 #### Status
 ACCEPTED

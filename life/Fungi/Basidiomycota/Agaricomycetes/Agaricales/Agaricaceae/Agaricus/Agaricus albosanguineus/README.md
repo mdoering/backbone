@@ -1,5 +1,4 @@
-Agaricus albosanguineus Hotson & Stuntz SPECIES
-=======
+# Agaricus albosanguineus Hotson & Stuntz SPECIES
 
 #### Status
 ACCEPTED

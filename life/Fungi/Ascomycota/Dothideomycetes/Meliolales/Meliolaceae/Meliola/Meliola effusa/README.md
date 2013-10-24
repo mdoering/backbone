@@ -1,5 +1,4 @@
-Meliola effusa Gaillard SPECIES
-=======
+# Meliola effusa Gaillard SPECIES
 
 #### Status
 ACCEPTED

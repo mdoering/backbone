@@ -1,5 +1,4 @@
-Aplosporella hydrangeae Sousa da Câmara SPECIES
-=======
+# Aplosporella hydrangeae Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

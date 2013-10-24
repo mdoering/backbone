@@ -1,5 +1,4 @@
-Blastenia aubertii (B. de Lesd.) C.W. Dodge SPECIES
-=======
+# Blastenia aubertii (B. de Lesd.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

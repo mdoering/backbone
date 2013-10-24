@@ -1,5 +1,4 @@
-Cystopus pulverulentus Berk. & M.A. Curtis SPECIES
-=======
+# Cystopus pulverulentus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

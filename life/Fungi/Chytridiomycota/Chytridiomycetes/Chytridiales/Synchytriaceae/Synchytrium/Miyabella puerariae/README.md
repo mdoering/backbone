@@ -1,5 +1,4 @@
-Miyabella puerariae (Henn.) S. Ito & Homma SPECIES
-=======
+# Miyabella puerariae (Henn.) S. Ito & Homma SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrium macrothecium Fuckel SPECIES
-=======
+# Leptothyrium macrothecium Fuckel SPECIES
 
 #### Status
 ACCEPTED

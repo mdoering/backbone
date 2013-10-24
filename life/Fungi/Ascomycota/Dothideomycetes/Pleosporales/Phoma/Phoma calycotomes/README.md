@@ -1,5 +1,4 @@
-Phoma calycotomes Rolland SPECIES
-=======
+# Phoma calycotomes Rolland SPECIES
 
 #### Status
 ACCEPTED

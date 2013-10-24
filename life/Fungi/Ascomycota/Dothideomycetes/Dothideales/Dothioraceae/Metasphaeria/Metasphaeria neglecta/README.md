@@ -1,5 +1,4 @@
-Metasphaeria neglecta (Niessl) Sacc. SPECIES
-=======
+# Metasphaeria neglecta (Niessl) Sacc. SPECIES
 
 #### Status
 ACCEPTED

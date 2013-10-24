@@ -1,5 +1,4 @@
-Selenidium rayi Levine, 1971 SPECIES
-=======
+# Selenidium rayi Levine, 1971 SPECIES
 
 #### Status
 ACCEPTED

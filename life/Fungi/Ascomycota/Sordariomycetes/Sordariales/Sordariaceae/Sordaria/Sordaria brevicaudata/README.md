@@ -1,5 +1,4 @@
-Sordaria brevicaudata Speg. SPECIES
-=======
+# Sordaria brevicaudata Speg. SPECIES
 
 #### Status
 ACCEPTED

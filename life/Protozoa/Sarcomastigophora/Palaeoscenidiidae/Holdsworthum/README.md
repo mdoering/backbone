@@ -1,5 +1,4 @@
-Holdsworthum Furutani, 1990 GENUS
-=======
+# Holdsworthum Furutani, 1990 GENUS
 
 #### Status
 ACCEPTED

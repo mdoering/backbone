@@ -1,5 +1,4 @@
-Aecidium liabi Mayor SPECIES
-=======
+# Aecidium liabi Mayor SPECIES
 
 #### Status
 ACCEPTED

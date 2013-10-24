@@ -1,5 +1,4 @@
-Gerkeina Grozdilova & Lebedeva in Sosipatrova, 1969 GENUS
-=======
+# Gerkeina Grozdilova & Lebedeva in Sosipatrova, 1969 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caligodinium amiculum W. S. Drugg SPECIES
-=======
+# Caligodinium amiculum W. S. Drugg SPECIES
 
 #### Status
 ACCEPTED

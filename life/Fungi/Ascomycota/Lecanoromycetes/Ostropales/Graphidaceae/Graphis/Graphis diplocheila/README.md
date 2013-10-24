@@ -1,5 +1,4 @@
-Graphis diplocheila Vain. SPECIES
-=======
+# Graphis diplocheila Vain. SPECIES
 
 #### Status
 ACCEPTED

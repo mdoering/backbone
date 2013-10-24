@@ -1,5 +1,4 @@
-Monilinia emarginata Honey SPECIES
-=======
+# Monilinia emarginata Honey SPECIES
 
 #### Status
 ACCEPTED

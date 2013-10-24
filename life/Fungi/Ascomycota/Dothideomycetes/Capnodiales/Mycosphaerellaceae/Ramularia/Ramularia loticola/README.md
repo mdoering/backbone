@@ -1,5 +1,4 @@
-Ramularia loticola C. Massal. SPECIES
-=======
+# Ramularia loticola C. Massal. SPECIES
 
 #### Status
 ACCEPTED

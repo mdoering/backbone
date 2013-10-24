@@ -1,5 +1,4 @@
-Phoma polygoni-sieboldii Henn. SPECIES
-=======
+# Phoma polygoni-sieboldii Henn. SPECIES
 
 #### Status
 ACCEPTED

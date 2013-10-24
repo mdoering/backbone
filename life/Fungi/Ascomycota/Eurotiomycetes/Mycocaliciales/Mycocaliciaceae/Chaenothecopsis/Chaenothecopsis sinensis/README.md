@@ -1,5 +1,4 @@
-Chaenothecopsis sinensis Titov SPECIES
-=======
+# Chaenothecopsis sinensis Titov SPECIES
 
 #### Status
 ACCEPTED

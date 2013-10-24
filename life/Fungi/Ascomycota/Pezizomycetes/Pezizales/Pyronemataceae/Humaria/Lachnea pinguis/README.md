@@ -1,5 +1,4 @@
-Lachnea pinguis (Bull.) Sacc. SPECIES
-=======
+# Lachnea pinguis (Bull.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

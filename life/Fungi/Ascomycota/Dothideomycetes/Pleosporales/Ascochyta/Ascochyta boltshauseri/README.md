@@ -1,17 +1,16 @@
-Phoma funkiae-albomarginatae Punith., 1988 SPECIES
-=======
+# Ascochyta boltshauseri Sacc., 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 159: 189 (1988)
+Z. PflKrankh. 1: 136 (1891)
 
 #### Original name
-Ascochyta hortensis (Sacc. & Malbr.) Jørst., 1945
+Ascochyta boltshauseri Sacc., 1891
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phoma caesalpiniae Gucevic SPECIES
-=======
+# Phoma caesalpiniae Gucevic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crocynia superba Hue SPECIES
-=======
+# Crocynia superba Hue SPECIES
 
 #### Status
 ACCEPTED

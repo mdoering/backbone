@@ -1,8 +1,7 @@
-Ascochyta hanseni Ellis & Everh. SPECIES
-=======
+# Ascochyta hansenii Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ascochyta hanseni Ellis & Everh.
+Ascochyta hansenii Ellis & Everh.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cercospora donnell-smithii (Speg.) Chupp SPECIES
-=======
+# Cercospora donnell-smithii (Speg.) Chupp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polygonium parvum (Timofeev, 1959 ex Martin, 1972) Stancliffe & Sarjeant, 1996 SPECIES
-=======
+# Polygonium parvum (Timofeev, 1959 ex Martin, 1972) Stancliffe & Sarjeant, 1996 SPECIES
 
 #### Status
 ACCEPTED

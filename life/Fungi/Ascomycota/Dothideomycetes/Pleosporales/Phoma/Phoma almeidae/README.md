@@ -1,5 +1,4 @@
-Phoma almeidae Sacc. & Traverso SPECIES
-=======
+# Phoma almeidae Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

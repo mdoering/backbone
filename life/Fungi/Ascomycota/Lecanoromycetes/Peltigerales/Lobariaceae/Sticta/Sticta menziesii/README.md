@@ -1,5 +1,4 @@
-Sticta menziesii Hook. f. & Taylor SPECIES
-=======
+# Sticta menziesii Hook. f. & Taylor SPECIES
 
 #### Status
 ACCEPTED

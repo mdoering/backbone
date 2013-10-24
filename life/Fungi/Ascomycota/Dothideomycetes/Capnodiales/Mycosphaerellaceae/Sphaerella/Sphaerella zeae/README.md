@@ -1,5 +1,4 @@
-Sphaerella zeae Sacc. SPECIES
-=======
+# Sphaerella zeae Sacc. SPECIES
 
 #### Status
 ACCEPTED

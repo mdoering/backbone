@@ -1,5 +1,4 @@
-Galera subcrispa (Murrill) Murrill SPECIES
-=======
+# Galera subcrispa (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

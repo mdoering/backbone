@@ -1,5 +1,4 @@
-Mucor polymorphosporus Pipek SPECIES
-=======
+# Mucor polymorphosporus Pipek SPECIES
 
 #### Status
 ACCEPTED

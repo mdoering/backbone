@@ -1,5 +1,4 @@
-Myrothecium commune Pidopl. & Kiril. SPECIES
-=======
+# Myrothecium commune Pidopl. & Kiril. SPECIES
 
 #### Status
 ACCEPTED

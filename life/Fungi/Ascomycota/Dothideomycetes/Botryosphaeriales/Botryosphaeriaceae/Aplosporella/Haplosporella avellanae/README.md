@@ -1,5 +1,4 @@
-Haplosporella avellanae Oudem. SPECIES
-=======
+# Haplosporella avellanae Oudem. SPECIES
 
 #### Status
 DOUBTFUL

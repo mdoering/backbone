@@ -1,5 +1,4 @@
-Oospora faviformis (E. Bodin) Sacc. & Traverso SPECIES
-=======
+# Oospora faviformis (E. Bodin) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

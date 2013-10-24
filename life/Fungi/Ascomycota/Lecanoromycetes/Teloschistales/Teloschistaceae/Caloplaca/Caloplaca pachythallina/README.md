@@ -1,5 +1,4 @@
-Caloplaca pachythallina Poelt & Hinter. SPECIES
-=======
+# Caloplaca pachythallina Poelt & Hinter. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus insuetus A.H. Sm. & Thiers SPECIES
-=======
+# Boletus insuetus A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

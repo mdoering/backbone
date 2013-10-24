@@ -1,5 +1,4 @@
-Leucoagaricus marginatus (Burl.) Boisselet SPECIES
-=======
+# Leucoagaricus marginatus (Burl.) Boisselet SPECIES
 
 #### Status
 ACCEPTED

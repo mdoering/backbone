@@ -1,8 +1,7 @@
-Chordaria flagelliformis f. ramusculifera Kjellman FORM
-=======
+# Chordaria flagelliformis (O.F. Müller) C. Agardh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

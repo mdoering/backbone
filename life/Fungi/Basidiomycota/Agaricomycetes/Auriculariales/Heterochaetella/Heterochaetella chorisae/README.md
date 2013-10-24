@@ -1,5 +1,4 @@
-Heterochaetella chorisae Viégas SPECIES
-=======
+# Heterochaetella chorisae Viégas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus bogoriensis (Henn. & E. Nyman) Pilát SPECIES
-=======
+# Pleurotus bogoriensis (Henn. & E. Nyman) Pilát SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria concinna Ellis & Everh. SPECIES
-=======
+# Leptosphaeria concinna Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

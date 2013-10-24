@@ -1,5 +1,4 @@
-Hymenula rhoina (Ellis & Sacc.) Bubák & Kabát SPECIES
-=======
+# Hymenula rhoina (Ellis & Sacc.) Bubák & Kabát SPECIES
 
 #### Status
 ACCEPTED

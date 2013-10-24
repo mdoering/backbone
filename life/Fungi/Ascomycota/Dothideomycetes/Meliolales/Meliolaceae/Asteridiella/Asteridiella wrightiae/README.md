@@ -1,5 +1,4 @@
-Asteridiella wrightiae Jana, S.N. Ghosh & A.K. Das SPECIES
-=======
+# Asteridiella wrightiae Jana, S.N. Ghosh & A.K. Das SPECIES
 
 #### Status
 ACCEPTED

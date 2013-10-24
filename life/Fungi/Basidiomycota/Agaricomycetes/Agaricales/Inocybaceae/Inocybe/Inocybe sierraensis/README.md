@@ -1,5 +1,4 @@
-Inocybe sierraensis Kropp & Matheny SPECIES
-=======
+# Inocybe sierraensis Kropp & Matheny SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea vulpina (L.) Hoffm. SPECIES
-=======
+# Usnea vulpina (L.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Desulfobacterium autotrophicum Brysch et al., 1988 SPECIES
-=======
+# Desulfobacterium autotrophicum Brysch et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

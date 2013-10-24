@@ -1,5 +1,4 @@
-Collybia eugeniae Ballero & Contu SPECIES
-=======
+# Collybia eugeniae Ballero & Contu SPECIES
 
 #### Status
 ACCEPTED

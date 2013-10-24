@@ -1,5 +1,4 @@
-Sphaerozonoceras Haeckel, 1887 GENUS
-=======
+# Sphaerozonoceras Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

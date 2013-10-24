@@ -1,5 +1,4 @@
-Platygrapha sulphurescens Nyl. SPECIES
-=======
+# Platygrapha sulphurescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

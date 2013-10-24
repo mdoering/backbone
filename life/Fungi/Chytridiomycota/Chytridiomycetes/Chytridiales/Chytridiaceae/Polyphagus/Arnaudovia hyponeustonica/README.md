@@ -1,5 +1,4 @@
-Arnaudovia hyponeustonica Valkanov SPECIES
-=======
+# Arnaudovia hyponeustonica Valkanov SPECIES
 
 #### Status
 ACCEPTED

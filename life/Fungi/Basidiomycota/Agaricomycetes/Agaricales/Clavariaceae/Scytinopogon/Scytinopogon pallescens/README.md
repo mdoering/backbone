@@ -1,17 +1,16 @@
-Ramaria durbana (Van der Byl) Corner, 1950 SPECIES
-=======
+# Scytinopogon pallescens (Bres.) Singer, 1945 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 575 (1950)
+Lloydia 8: 139 (1945)
 
 #### Original name
-Clavaria durbana Van der Byl, 1932
+Pterula pallescens Bres., 1899
 
 ### Remarks
 null

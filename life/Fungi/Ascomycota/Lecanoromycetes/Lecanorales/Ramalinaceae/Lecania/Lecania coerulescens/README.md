@@ -1,17 +1,16 @@
-Lecania coerulescens var. coerulescens Mudd VARIETY
-=======
+# Lecania coerulescens Mudd SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Man. Brit. Lich. (1861)
 
 #### Original name
-Lecania coerulescens var. coerulescens Mudd
+Lecania coerulescens Mudd
 
 ### Remarks
 null

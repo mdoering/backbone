@@ -1,17 +1,16 @@
-Circinumbella Tiegh. & G. Le Monn. GENUS
-=======
+# Circinella Van Tieghem & G. Le Monnier, 1873 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 5 17: 298 (1873)
 
 #### Original name
-Circinumbella Tiegh. & G. Le Monn.
+Circinella Van Tieghem & G. Le Monnier, 1873
 
 ### Remarks
 null

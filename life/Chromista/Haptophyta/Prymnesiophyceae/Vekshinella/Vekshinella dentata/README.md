@@ -1,5 +1,4 @@
-Vekshinella dentata (D. Bukry) J.G. Hattner & S.W. Wise SPECIES
-=======
+# Vekshinella dentata (D. Bukry) J.G. Hattner & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

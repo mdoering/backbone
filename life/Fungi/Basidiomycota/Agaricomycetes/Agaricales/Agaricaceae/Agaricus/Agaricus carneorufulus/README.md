@@ -1,5 +1,4 @@
-Agaricus carneorufulus Berk. SPECIES
-=======
+# Agaricus carneorufulus Berk. SPECIES
 
 #### Status
 ACCEPTED

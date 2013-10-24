@@ -1,5 +1,4 @@
-Gnomonia coriacea Cooke & Massee SPECIES
-=======
+# Gnomonia coriacea Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe appendiculata M.K.M. Wong & K.D. Hyde SPECIES
-=======
+# Diaporthe appendiculata M.K.M. Wong & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

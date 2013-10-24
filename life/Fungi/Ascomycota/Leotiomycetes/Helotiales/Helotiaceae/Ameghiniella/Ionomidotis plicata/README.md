@@ -1,5 +1,4 @@
-Ionomidotis plicata (W. Phillips & Harkn.) E.J. Durand SPECIES
-=======
+# Ionomidotis plicata (W. Phillips & Harkn.) E.J. Durand SPECIES
 
 #### Status
 ACCEPTED

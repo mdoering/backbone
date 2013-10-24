@@ -1,5 +1,4 @@
-Tolyposporium reticulatum Speg. SPECIES
-=======
+# Tolyposporium reticulatum Speg. SPECIES
 
 #### Status
 ACCEPTED

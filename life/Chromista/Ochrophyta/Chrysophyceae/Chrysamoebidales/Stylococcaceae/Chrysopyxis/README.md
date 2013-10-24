@@ -1,5 +1,4 @@
-Chrysopyxis Stein, 1878 GENUS
-=======
+# Chrysopyxis Stein, 1878 GENUS
 
 #### Status
 ACCEPTED

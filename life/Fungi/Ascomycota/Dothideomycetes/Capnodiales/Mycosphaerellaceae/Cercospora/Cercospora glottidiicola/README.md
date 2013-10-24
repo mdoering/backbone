@@ -1,17 +1,16 @@
-Cercospora glothidiicola Tracy & Earle SPECIES
-=======
+# Cercospora glottidiicola Tracy & Earle SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 206 (1896)
 
 #### Original name
-Cercospora glothidiicola Tracy & Earle
+Cercospora glottidiicola Tracy & Earle
 
 ### Remarks
 null

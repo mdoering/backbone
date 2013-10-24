@@ -1,5 +1,4 @@
-Sporocybe rhois (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Sporocybe rhois (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

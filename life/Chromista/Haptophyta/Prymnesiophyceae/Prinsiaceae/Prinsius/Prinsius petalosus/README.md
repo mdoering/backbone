@@ -1,8 +1,7 @@
-Toweius petalosus Ellis & Lohmann, 1973 SPECIES
-=======
+# Prinsius petalosus (Ellis & Lohmann, 1973) Romein, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

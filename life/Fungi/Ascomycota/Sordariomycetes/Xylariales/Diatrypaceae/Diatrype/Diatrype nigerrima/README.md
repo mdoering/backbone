@@ -1,5 +1,4 @@
-Diatrype nigerrima Ellis & Everh. SPECIES
-=======
+# Diatrype nigerrima Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

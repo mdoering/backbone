@@ -1,5 +1,4 @@
-Hohenbuehelia patagonica Singer SPECIES
-=======
+# Hohenbuehelia patagonica Singer SPECIES
 
 #### Status
 ACCEPTED

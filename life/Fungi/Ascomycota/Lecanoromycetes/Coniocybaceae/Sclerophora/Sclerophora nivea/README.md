@@ -1,17 +1,16 @@
-Coniocybe pallida var. pallida (Pers.) Fr. VARIETY
-=======
+# Sclerophora nivea (Hoffm.) Tibell SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Coniocybe pallida var. pallida (Pers.) Fr.
+null
 
 ### Remarks
 null

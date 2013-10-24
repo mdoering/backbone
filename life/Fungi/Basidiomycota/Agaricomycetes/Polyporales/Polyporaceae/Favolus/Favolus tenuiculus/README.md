@@ -1,17 +1,16 @@
-Polyporus brasiliensis var. brasiliensis VARIETY
-=======
+# Favolus tenuiculus P. Beauv., 1806 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. Oware 1(8): 74 [tab. 43, fig. 2] (1806)
 
 #### Original name
-Polyporus brasiliensis var. brasiliensis
+Favolus tenuiculus P. Beauv., 1806
 
 ### Remarks
 null

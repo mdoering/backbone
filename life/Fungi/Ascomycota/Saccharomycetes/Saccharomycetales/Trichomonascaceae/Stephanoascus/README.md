@@ -1,5 +1,4 @@
-Stephanoascus M.T. Smith, Van der Walt & Johannsen, 1976 GENUS
-=======
+# Stephanoascus M.T. Smith, Van der Walt & Johannsen, 1976 GENUS
 
 #### Status
 ACCEPTED

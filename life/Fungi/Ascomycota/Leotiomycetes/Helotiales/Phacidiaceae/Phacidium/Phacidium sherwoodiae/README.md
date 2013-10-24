@@ -1,5 +1,4 @@
-Phacidium sherwoodiae DiCosmo, Nag Raj & W.B. Kendr. SPECIES
-=======
+# Phacidium sherwoodiae DiCosmo, Nag Raj & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

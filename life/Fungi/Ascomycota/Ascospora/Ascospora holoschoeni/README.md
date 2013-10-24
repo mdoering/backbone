@@ -1,5 +1,4 @@
-Ascospora holoschoeni Mont. SPECIES
-=======
+# Ascospora holoschoeni Mont. SPECIES
 
 #### Status
 ACCEPTED

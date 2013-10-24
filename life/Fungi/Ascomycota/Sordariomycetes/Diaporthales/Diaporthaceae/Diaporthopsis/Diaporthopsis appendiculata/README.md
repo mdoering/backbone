@@ -1,5 +1,4 @@
-Diaporthopsis appendiculata Wehm. SPECIES
-=======
+# Diaporthopsis appendiculata Wehm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Melanomma hirtulum (P. Karst.) Sacc. SPECIES
-=======
+# Chaetomastia hirtula (P. Karst.) Berl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Icon. fung. (Abellini) 1(1): 38 (1891)
 
 #### Original name
 Sphaeria hirtula P. Karst.

@@ -1,5 +1,4 @@
-Asterella pustulata (Ellis) Sacc. SPECIES
-=======
+# Asterella pustulata (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

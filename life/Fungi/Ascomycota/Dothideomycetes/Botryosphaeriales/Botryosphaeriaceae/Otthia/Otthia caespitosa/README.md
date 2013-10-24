@@ -1,5 +1,4 @@
-Otthia caespitosa (Niessl) E. Müll. SPECIES
-=======
+# Otthia caespitosa (Niessl) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

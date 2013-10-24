@@ -1,5 +1,4 @@
-Pseudohaureina GENUS
-=======
+# Pseudohaureina GENUS
 
 #### Status
 ACCEPTED

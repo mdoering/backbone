@@ -1,5 +1,4 @@
-Otosphaera auriculata Haeckel, 1887 SPECIES
-=======
+# Otosphaera auriculata Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

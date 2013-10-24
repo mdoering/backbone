@@ -1,5 +1,4 @@
-Uredo mayoriana (Dietel) Hirats. f. SPECIES
-=======
+# Uredo mayoriana (Dietel) Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

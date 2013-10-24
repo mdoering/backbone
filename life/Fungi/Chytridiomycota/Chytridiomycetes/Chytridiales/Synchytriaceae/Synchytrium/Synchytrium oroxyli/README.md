@@ -1,5 +1,4 @@
-Synchytrium oroxyli Lingappa SPECIES
-=======
+# Synchytrium oroxyli Lingappa SPECIES
 
 #### Status
 ACCEPTED

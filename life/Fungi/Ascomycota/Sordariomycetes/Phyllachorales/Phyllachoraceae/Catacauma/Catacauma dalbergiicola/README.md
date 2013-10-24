@@ -1,5 +1,4 @@
-Catacauma dalbergiicola SPECIES
-=======
+# Catacauma dalbergiicola SPECIES
 
 #### Status
 ACCEPTED

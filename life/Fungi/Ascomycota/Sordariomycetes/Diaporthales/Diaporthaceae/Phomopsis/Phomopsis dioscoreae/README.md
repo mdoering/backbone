@@ -1,5 +1,4 @@
-Phomopsis dioscoreae Sacc., 1913 SPECIES
-=======
+# Phomopsis dioscoreae Sacc., 1913 SPECIES
 
 #### Status
 ACCEPTED

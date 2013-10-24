@@ -1,5 +1,4 @@
-Oidium magnisporum Linder SPECIES
-=======
+# Oidium magnisporum Linder SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endocolium australiense (Syd.) Bat. & Nascim. SPECIES
-=======
+# Endocolium australiense (Syd.) Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca craggyensis S. Y. Kondr., Elix & Kärnefelt SPECIES
-=======
+# Caloplaca craggyensis S. Y. Kondr., Elix & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

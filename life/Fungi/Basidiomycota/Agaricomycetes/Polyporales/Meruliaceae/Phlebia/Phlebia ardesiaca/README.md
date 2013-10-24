@@ -1,5 +1,4 @@
-Phlebia ardesiaca Parmasto, 1967 SPECIES
-=======
+# Phlebia ardesiaca Parmasto, 1967 SPECIES
 
 #### Status
 ACCEPTED

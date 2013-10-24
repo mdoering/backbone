@@ -1,5 +1,4 @@
-Calonectria gyalectoidea Rehm SPECIES
-=======
+# Calonectria gyalectoidea Rehm SPECIES
 
 #### Status
 ACCEPTED

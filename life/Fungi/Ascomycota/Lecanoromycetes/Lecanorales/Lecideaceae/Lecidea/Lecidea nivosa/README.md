@@ -1,5 +1,4 @@
-Lecidea nivosa Müll. Arg. SPECIES
-=======
+# Lecidea nivosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Clavulinopsis aurantiocinnabarina f. amoena (Zoll. & Moritzi) R.H. Petersen, 1968 FORM
-=======
+# Clavulinopsis amoena (Zoll. & Moritzi) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Mem. 2: 25 (1968)
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 352 (1950)
 
 #### Original name
 Clavaria amoena Zoll. & Moritzi, 1844

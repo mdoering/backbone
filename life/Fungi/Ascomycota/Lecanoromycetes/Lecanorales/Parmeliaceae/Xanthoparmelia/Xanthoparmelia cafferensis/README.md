@@ -1,14 +1,13 @@
-Parmelia cafferensis Essl. SPECIES
-=======
+# Xanthoparmelia cafferensis (Essl.) O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Hattori bot. Lab. 42: 104 (1977)
+Taxon 53(4): 967 (2004)
 
 #### Original name
 Parmelia cafferensis Essl.

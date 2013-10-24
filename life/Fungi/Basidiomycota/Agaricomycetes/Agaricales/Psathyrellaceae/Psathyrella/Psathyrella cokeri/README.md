@@ -1,5 +1,4 @@
-Psathyrella cokeri (Murrill) A.H. Sm. SPECIES
-=======
+# Psathyrella cokeri (Murrill) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

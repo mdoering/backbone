@@ -1,5 +1,4 @@
-Diplodia seriata De Not. SPECIES
-=======
+# Diplodia seriata De Not. SPECIES
 
 #### Status
 ACCEPTED

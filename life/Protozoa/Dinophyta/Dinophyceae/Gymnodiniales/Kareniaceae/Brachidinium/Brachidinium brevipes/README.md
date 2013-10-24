@@ -1,8 +1,7 @@
-Brachydinium brevipes Sournia, 1972 SPECIES
-=======
+# Brachidinium brevipes Sournia, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

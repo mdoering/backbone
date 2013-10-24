@@ -1,5 +1,4 @@
-Lycoperdon dominicensis Massee SPECIES
-=======
+# Lycoperdon dominicensis Massee SPECIES
 
 #### Status
 ACCEPTED

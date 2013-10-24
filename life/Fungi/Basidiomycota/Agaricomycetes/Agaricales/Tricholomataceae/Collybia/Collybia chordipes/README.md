@@ -1,5 +1,4 @@
-Collybia chordipes Rick SPECIES
-=======
+# Collybia chordipes Rick SPECIES
 
 #### Status
 ACCEPTED

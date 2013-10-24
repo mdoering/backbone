@@ -1,5 +1,4 @@
-Acremonium velutinum Fuckel SPECIES
-=======
+# Acremonium velutinum Fuckel SPECIES
 
 #### Status
 ACCEPTED

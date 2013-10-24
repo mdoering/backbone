@@ -1,5 +1,4 @@
-Gloeosporium commonsii Sacc. & P. Syd. SPECIES
-=======
+# Gloeosporium commonsii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

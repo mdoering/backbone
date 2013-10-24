@@ -1,5 +1,4 @@
-Cercospora mellis (Cooke) Deighton SPECIES
-=======
+# Cercospora mellis (Cooke) Deighton SPECIES
 
 #### Status
 ACCEPTED

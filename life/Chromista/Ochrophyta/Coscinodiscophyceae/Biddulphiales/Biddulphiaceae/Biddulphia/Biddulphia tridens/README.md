@@ -1,5 +1,4 @@
-Biddulphia tridens (Ehrenberg) Ehrenberg, 1840 SPECIES
-=======
+# Biddulphia tridens (Ehrenberg) Ehrenberg, 1840 SPECIES
 
 #### Status
 ACCEPTED

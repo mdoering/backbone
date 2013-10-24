@@ -1,5 +1,4 @@
-Hypoxylon medullare (Wallr.) P.M.D. Martin SPECIES
-=======
+# Hypoxylon medullare (Wallr.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetosphaeria tubulicollaris Réblová & Seifert SPECIES
-=======
+# Chaetosphaeria tubulicollaris Réblová & Seifert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kineosphaera limosa Liu et al., 2002 SPECIES
-=======
+# Kineosphaera limosa Liu et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

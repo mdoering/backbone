@@ -1,5 +1,4 @@
-Meliola yaquensis Petr. & Cif. SPECIES
-=======
+# Meliola yaquensis Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

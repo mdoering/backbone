@@ -1,5 +1,4 @@
-Ooidium corollatum Ouyang Shu et al., 1974 SPECIES
-=======
+# Ooidium corollatum Ouyang Shu et al., 1974 SPECIES
 
 #### Status
 ACCEPTED

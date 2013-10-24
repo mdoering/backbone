@@ -1,5 +1,4 @@
-Zygodiscus herlynii Sullivan, 1964 SPECIES
-=======
+# Zygodiscus herlynii Sullivan, 1964 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellea subsqualida (Rehm) Höhn. SPECIES
-=======
+# Patellea subsqualida (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

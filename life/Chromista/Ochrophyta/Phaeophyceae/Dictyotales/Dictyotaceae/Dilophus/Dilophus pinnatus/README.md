@@ -1,5 +1,4 @@
-Dilophus pinnatus E. Y. Dawson SPECIES
-=======
+# Dilophus pinnatus E. Y. Dawson SPECIES
 
 #### Status
 ACCEPTED

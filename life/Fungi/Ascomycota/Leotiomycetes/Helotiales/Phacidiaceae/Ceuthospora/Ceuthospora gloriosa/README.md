@@ -1,5 +1,4 @@
-Ceuthospora gloriosa Malan SPECIES
-=======
+# Ceuthospora gloriosa Malan SPECIES
 
 #### Status
 ACCEPTED

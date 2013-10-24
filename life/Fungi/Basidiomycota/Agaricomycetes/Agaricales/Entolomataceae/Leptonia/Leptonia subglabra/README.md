@@ -1,5 +1,4 @@
-Leptonia subglabra (Romagn.) Pegler SPECIES
-=======
+# Leptonia subglabra (Romagn.) Pegler SPECIES
 
 #### Status
 ACCEPTED

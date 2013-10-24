@@ -1,5 +1,4 @@
-Sinobacteraceae FAMILY
-=======
+# Sinobacteraceae FAMILY
 
 #### Status
 ACCEPTED

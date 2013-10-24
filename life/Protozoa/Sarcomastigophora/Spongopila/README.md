@@ -1,5 +1,4 @@
-Spongopila Haeckel, 1881 GENUS
-=======
+# Spongopila Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

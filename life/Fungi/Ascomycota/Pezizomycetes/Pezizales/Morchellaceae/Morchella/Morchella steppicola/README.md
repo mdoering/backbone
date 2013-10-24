@@ -1,5 +1,4 @@
-Morchella steppicola Zerova SPECIES
-=======
+# Morchella steppicola Zerova SPECIES
 
 #### Status
 ACCEPTED

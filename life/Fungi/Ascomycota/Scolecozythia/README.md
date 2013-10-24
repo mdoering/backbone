@@ -1,5 +1,4 @@
-Scolecozythia Curzi GENUS
-=======
+# Scolecozythia Curzi GENUS
 
 #### Status
 ACCEPTED

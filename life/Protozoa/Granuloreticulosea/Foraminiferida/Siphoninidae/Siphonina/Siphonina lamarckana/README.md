@@ -1,5 +1,4 @@
-Siphonina lamarckana Cushman, 1927 SPECIES
-=======
+# Siphonina lamarckana Cushman, 1927 SPECIES
 
 #### Status
 ACCEPTED

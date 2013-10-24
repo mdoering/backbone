@@ -1,5 +1,4 @@
-Calosphaeria hylodes (Ellis & Everh.) Berl. & Voglino SPECIES
-=======
+# Calosphaeria hylodes (Ellis & Everh.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Splanchnonema monospermum (Peck) M.E. Barr SPECIES
-=======
+# Splanchnonema monospermum (Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

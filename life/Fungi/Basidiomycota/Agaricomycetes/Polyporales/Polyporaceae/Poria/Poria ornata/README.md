@@ -1,5 +1,4 @@
-Poria ornata (Peck) Sacc. SPECIES
-=======
+# Poria ornata (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

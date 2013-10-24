@@ -1,17 +1,16 @@
-Meliola clerodendricola var. clerodendricola VARIETY
-=======
+# Meliola clerodendricola Henn., 1898 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Hedwigia 37: 288 (1898)
 
 #### Original name
-Meliola clerodendricola var. clerodendricola
+Meliola clerodendricola Henn., 1898
 
 ### Remarks
 null

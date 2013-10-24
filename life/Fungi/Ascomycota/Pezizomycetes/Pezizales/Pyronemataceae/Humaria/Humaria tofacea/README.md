@@ -1,5 +1,4 @@
-Humaria tofacea Clem. SPECIES
-=======
+# Humaria tofacea Clem. SPECIES
 
 #### Status
 ACCEPTED

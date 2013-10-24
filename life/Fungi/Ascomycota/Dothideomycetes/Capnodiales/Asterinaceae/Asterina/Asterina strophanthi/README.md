@@ -1,5 +1,4 @@
-Asterina strophanthi Henn. SPECIES
-=======
+# Asterina strophanthi Henn. SPECIES
 
 #### Status
 ACCEPTED

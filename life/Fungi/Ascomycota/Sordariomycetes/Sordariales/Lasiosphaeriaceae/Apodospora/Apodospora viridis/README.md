@@ -1,5 +1,4 @@
-Apodospora viridis Cain & J.H. Mirza SPECIES
-=======
+# Apodospora viridis Cain & J.H. Mirza SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lopadostoma taeniosporum (Sacc.) Traverso SPECIES
-=======
+# Lopadostoma taeniosporum (Sacc.) Traverso SPECIES
 
 #### Status
 ACCEPTED

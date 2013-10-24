@@ -1,5 +1,4 @@
-Peronospora pennsylvanica Gäum. SPECIES
-=======
+# Peronospora pennsylvanica Gäum. SPECIES
 
 #### Status
 ACCEPTED

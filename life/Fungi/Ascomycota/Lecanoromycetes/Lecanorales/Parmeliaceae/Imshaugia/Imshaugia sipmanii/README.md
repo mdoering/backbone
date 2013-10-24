@@ -1,5 +1,4 @@
-Imshaugia sipmanii Elix SPECIES
-=======
+# Imshaugia sipmanii Elix SPECIES
 
 #### Status
 ACCEPTED

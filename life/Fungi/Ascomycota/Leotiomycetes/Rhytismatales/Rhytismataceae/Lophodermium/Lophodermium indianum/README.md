@@ -1,5 +1,4 @@
-Lophodermium indianum Suj. Singh & Minter, 1981 SPECIES
-=======
+# Lophodermium indianum Suj. Singh & Minter, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum hibisci Pollacci SPECIES
-=======
+# Colletotrichum hibisci Pollacci SPECIES
 
 #### Status
 ACCEPTED

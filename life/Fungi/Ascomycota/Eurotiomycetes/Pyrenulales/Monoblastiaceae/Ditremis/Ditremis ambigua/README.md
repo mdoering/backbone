@@ -1,5 +1,4 @@
-Ditremis ambigua (Zahlbr.) R.C. Harris SPECIES
-=======
+# Ditremis ambigua (Zahlbr.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

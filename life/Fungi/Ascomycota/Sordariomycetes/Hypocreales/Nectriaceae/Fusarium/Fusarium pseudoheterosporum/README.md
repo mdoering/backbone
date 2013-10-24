@@ -1,5 +1,4 @@
-Fusarium pseudoheterosporum Jacz. SPECIES
-=======
+# Fusarium pseudoheterosporum Jacz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parafrontonia GENUS
-=======
+# Parafrontonia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parodiella rigida Ellis & Everh. SPECIES
-=======
+# Parodiella rigida Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

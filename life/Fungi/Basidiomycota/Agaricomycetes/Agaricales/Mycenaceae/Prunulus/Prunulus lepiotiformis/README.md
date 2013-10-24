@@ -1,5 +1,4 @@
-Prunulus lepiotiformis Murrill SPECIES
-=======
+# Prunulus lepiotiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

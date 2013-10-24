@@ -1,5 +1,4 @@
-Sorosporium kinshasaensis (Beeli) Zundel SPECIES
-=======
+# Sorosporium kinshasaensis (Beeli) Zundel SPECIES
 
 #### Status
 ACCEPTED

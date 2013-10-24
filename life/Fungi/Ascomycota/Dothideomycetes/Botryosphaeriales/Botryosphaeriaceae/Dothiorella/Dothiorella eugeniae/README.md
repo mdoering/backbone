@@ -1,5 +1,4 @@
-Dothiorella eugeniae (Tul. & C. Tul.) Sacc. SPECIES
-=======
+# Dothiorella eugeniae (Tul. & C. Tul.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

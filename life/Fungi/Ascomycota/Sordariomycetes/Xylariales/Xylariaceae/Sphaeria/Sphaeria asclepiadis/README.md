@@ -1,5 +1,4 @@
-Sphaeria asclepiadis Schwein. SPECIES
-=======
+# Sphaeria asclepiadis Schwein. SPECIES
 
 #### Status
 ACCEPTED

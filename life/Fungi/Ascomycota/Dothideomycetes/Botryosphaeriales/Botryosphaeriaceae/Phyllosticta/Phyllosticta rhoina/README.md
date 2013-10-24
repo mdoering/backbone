@@ -1,17 +1,16 @@
-Phyllosticta rhuina Kalchbr. & Cooke SPECIES
-=======
+# Phyllosticta rhoina Kalchbr. & Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 9(no. 49): 20 (1880)
 
 #### Original name
-Phyllosticta rhuina Kalchbr. & Cooke
+Phyllosticta rhoina Kalchbr. & Cooke
 
 ### Remarks
 null

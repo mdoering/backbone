@@ -1,8 +1,7 @@
-Dentalina comatula (Cushman, 1923) SPECIES
-=======
+# Pyramidulina comatula (Cushman, 1923) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

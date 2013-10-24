@@ -1,5 +1,4 @@
-Poria stenospora Overh. SPECIES
-=======
+# Poria stenospora Overh. SPECIES
 
 #### Status
 ACCEPTED

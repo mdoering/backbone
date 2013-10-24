@@ -1,5 +1,4 @@
-Trochila perseae Speg. SPECIES
-=======
+# Trochila perseae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Nolanea cocles var. cocles VARIETY
-=======
+# Entoloma cocles (Fr.) Noordel., 1981 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomycètes (Alençon) 422 (1876)
+Persoonia 11(2): 149 (1981)
 
 #### Original name
-Nolanea cocles var. cocles
+Agaricus cocles Fr., 1838
 
 ### Remarks
 null

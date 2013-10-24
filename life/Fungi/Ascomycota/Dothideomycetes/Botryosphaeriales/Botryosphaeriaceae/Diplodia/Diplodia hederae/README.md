@@ -1,5 +1,4 @@
-Diplodia hederae Fuckel, 1870 SPECIES
-=======
+# Diplodia hederae Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Irenina cyclobalanopsicola W. Yamam. SPECIES
-=======
+# Irenina cyclobalanopsidicola W. Yamam. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Irenina cyclobalanopsicola W. Yamam.
+Irenina cyclobalanopsidicola W. Yamam.
 
 ### Remarks
 null

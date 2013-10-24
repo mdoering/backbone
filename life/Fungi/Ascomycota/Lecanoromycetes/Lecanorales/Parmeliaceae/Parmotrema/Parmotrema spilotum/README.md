@@ -1,5 +1,4 @@
-Parmotrema spilotum (Hale) Hale SPECIES
-=======
+# Parmotrema spilotum (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

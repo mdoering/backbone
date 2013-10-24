@@ -1,5 +1,4 @@
-Xylosphaeria quimelensis (Speg.) Petr. SPECIES
-=======
+# Xylosphaeria quimelensis (Speg.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta cephaelidis Bond.-Mont. SPECIES
-=======
+# Phyllosticta cephaelidis Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

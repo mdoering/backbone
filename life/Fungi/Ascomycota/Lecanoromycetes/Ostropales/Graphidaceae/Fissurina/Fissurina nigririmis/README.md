@@ -1,11 +1,10 @@
-Fissurina nigririmis var. nigririmis VARIETY
-=======
+# Fissurina nigririmis (Nyl.) A. W. Archer SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

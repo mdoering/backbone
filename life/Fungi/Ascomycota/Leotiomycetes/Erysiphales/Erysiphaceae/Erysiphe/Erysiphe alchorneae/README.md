@@ -1,5 +1,4 @@
-Erysiphe alchorneae var. alchorneae VARIETY
-=======
+# Erysiphe alchorneae (R.Y. Zheng & G.Q. Chen) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Schlechtendalia 4: 16 (2000)
 
 #### Original name
-Erysiphe alchorneae var. alchorneae
+Uncinula alchorneae R.Y. Zheng & G.Q. Chen
 
 ### Remarks
 null

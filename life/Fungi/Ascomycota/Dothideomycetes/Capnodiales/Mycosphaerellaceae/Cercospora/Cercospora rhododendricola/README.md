@@ -1,5 +1,4 @@
-Cercospora rhododendricola J.M. Yen SPECIES
-=======
+# Cercospora rhododendricola J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

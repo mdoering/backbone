@@ -1,5 +1,4 @@
-Russula fragilissima R. Heim SPECIES
-=======
+# Russula fragilissima R. Heim SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella khayae Sivan. & R.G. Shivas SPECIES
-=======
+# Mycosphaerella khayae Sivan. & R.G. Shivas SPECIES
 
 #### Status
 ACCEPTED

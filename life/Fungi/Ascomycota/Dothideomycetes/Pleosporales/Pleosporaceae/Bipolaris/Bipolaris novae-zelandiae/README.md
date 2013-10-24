@@ -1,5 +1,4 @@
-Bipolaris novae-zelandiae Sivan., 1985 SPECIES
-=======
+# Bipolaris novae-zelandiae Sivan., 1985 SPECIES
 
 #### Status
 ACCEPTED

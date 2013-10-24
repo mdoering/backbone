@@ -1,5 +1,4 @@
-Mycosphaerella pulsatillae var. pulsatillae VARIETY
-=======
+# Mycosphaerella pulsatillae (Lasch) Johanson SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mycosphaerella pulsatillae var. pulsatillae
+null
 
 ### Remarks
 null

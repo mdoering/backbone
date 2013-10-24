@@ -1,5 +1,4 @@
-Irpicochaete Rick GENUS
-=======
+# Irpicochaete Rick GENUS
 
 #### Status
 ACCEPTED

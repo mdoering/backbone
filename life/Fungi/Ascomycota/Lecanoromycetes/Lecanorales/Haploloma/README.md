@@ -1,5 +1,4 @@
-Haploloma Trevis. GENUS
-=======
+# Haploloma Trevis. GENUS
 
 #### Status
 ACCEPTED

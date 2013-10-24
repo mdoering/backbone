@@ -1,5 +1,4 @@
-Abyssotherma pacifica Brönnimann, Van Dover & Whittaker, 1989 SPECIES
-=======
+# Abyssotherma pacifica Brönnimann, Van Dover & Whittaker, 1989 SPECIES
 
 #### Status
 ACCEPTED

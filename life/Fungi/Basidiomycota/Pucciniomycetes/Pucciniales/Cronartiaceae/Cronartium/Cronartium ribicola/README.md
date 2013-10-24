@@ -1,17 +1,16 @@
-Cronartium ribicola f. sp FORM
-=======
+# Cronartium ribicola J.C. Fisch., 1872 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Forest Pest and Disease 12 (1991)
+Hedwigia 11: 182 (1872)
 
 #### Original name
-Cronartium ribicola f. sp
+Cronartium ribicola J.C. Fisch., 1872
 
 ### Remarks
 null

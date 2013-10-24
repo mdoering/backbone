@@ -1,5 +1,4 @@
-Hymenoscyphus tenellus (Batsch) Gray SPECIES
-=======
+# Hymenoscyphus tenellus (Batsch) Gray SPECIES
 
 #### Status
 ACCEPTED

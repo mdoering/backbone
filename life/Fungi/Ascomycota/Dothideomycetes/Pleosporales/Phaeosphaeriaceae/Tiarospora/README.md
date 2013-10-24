@@ -1,5 +1,4 @@
-Tiarospora Sacc. & Marchal GENUS
-=======
+# Tiarospora Sacc. & Marchal GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protoperidinium taeningii (Rampi, 1950) Balech, 1974 SPECIES
-=======
+# Protoperidinium taeningii (Rampi, 1950) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

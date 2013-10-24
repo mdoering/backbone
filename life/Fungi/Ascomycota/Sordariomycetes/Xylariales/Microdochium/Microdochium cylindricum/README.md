@@ -1,5 +1,4 @@
-Microdochium cylindricum B. Sutton & Hodges SPECIES
-=======
+# Microdochium cylindricum B. Sutton & Hodges SPECIES
 
 #### Status
 ACCEPTED

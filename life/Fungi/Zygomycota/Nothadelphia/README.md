@@ -1,5 +1,4 @@
-Nothadelphia Degawa & W. Gams GENUS
-=======
+# Nothadelphia Degawa & W. Gams GENUS
 
 #### Status
 ACCEPTED

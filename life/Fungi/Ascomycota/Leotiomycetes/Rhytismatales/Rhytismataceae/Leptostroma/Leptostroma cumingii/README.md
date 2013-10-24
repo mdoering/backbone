@@ -1,5 +1,4 @@
-Leptostroma cumingii Speg. SPECIES
-=======
+# Leptostroma cumingii Speg. SPECIES
 
 #### Status
 ACCEPTED

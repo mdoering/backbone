@@ -1,5 +1,4 @@
-Coryneum effusum Peck SPECIES
-=======
+# Coryneum effusum Peck SPECIES
 
 #### Status
 ACCEPTED

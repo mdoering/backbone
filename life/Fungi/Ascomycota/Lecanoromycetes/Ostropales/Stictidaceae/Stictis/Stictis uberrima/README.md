@@ -1,5 +1,4 @@
-Stictis uberrima Castagne SPECIES
-=======
+# Stictis uberrima Castagne SPECIES
 
 #### Status
 ACCEPTED

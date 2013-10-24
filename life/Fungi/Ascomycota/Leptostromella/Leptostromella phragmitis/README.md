@@ -1,5 +1,4 @@
-Leptostromella phragmitis Brunaud SPECIES
-=======
+# Leptostromella phragmitis Brunaud SPECIES
 
 #### Status
 ACCEPTED

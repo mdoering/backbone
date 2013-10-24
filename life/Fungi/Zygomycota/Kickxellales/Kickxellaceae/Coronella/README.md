@@ -1,5 +1,4 @@
-Coronella GENUS
-=======
+# Coronella GENUS
 
 #### Status
 ACCEPTED

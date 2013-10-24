@@ -1,5 +1,4 @@
-Dicaeoma plagiopus (Mont.) Kuntze SPECIES
-=======
+# Dicaeoma plagiopus (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

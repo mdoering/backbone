@@ -1,5 +1,4 @@
-Cortinarius melleopallentium Rob. Henry SPECIES
-=======
+# Cortinarius melleopallentium Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

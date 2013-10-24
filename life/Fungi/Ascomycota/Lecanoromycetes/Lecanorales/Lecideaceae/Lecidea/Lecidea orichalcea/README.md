@@ -1,5 +1,4 @@
-Lecidea orichalcea (Stizenb.) Hue SPECIES
-=======
+# Lecidea orichalcea (Stizenb.) Hue SPECIES
 
 #### Status
 ACCEPTED

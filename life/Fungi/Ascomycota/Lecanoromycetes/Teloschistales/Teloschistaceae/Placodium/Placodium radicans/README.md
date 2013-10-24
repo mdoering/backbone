@@ -1,5 +1,4 @@
-Placodium radicans (Nyl.) Müll. Arg. SPECIES
-=======
+# Placodium radicans (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

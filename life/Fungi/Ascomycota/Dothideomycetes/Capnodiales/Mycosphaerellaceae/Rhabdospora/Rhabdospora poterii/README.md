@@ -1,5 +1,4 @@
-Rhabdospora poterii Pass. SPECIES
-=======
+# Rhabdospora poterii Pass. SPECIES
 
 #### Status
 ACCEPTED

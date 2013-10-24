@@ -1,5 +1,4 @@
-Stichochaeta exilis Dumas, 1930 SPECIES
-=======
+# Stichochaeta exilis Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

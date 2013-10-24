@@ -1,5 +1,4 @@
-Aphanomyces exoparasiticus Coker & Couch SPECIES
-=======
+# Aphanomyces exoparasiticus Coker & Couch SPECIES
 
 #### Status
 ACCEPTED

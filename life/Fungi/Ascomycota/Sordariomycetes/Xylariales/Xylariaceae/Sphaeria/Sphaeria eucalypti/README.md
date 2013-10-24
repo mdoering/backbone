@@ -1,5 +1,4 @@
-Sphaeria eucalypti Cooke & Voglino SPECIES
-=======
+# Sphaeria eucalypti Cooke & Voglino SPECIES
 
 #### Status
 ACCEPTED

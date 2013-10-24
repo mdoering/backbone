@@ -1,5 +1,4 @@
-Cirsosia transversalis (Syd.) Deighton SPECIES
-=======
+# Cirsosia transversalis (Syd.) Deighton SPECIES
 
 #### Status
 ACCEPTED

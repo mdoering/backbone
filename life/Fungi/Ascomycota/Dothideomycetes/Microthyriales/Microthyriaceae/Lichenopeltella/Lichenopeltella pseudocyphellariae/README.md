@@ -1,5 +1,4 @@
-Lichenopeltella pseudocyphellariae Diederich SPECIES
-=======
+# Lichenopeltella pseudocyphellariae Diederich SPECIES
 
 #### Status
 ACCEPTED

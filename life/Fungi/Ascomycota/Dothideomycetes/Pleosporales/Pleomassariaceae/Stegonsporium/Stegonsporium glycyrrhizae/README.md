@@ -1,5 +1,4 @@
-Stegonsporium glycyrrhizae Kazenas SPECIES
-=======
+# Stegonsporium glycyrrhizae Kazenas SPECIES
 
 #### Status
 ACCEPTED

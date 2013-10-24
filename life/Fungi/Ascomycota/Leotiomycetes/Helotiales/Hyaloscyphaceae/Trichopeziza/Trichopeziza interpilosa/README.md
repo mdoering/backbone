@@ -1,5 +1,4 @@
-Trichopeziza interpilosa Fairm. SPECIES
-=======
+# Trichopeziza interpilosa Fairm. SPECIES
 
 #### Status
 ACCEPTED

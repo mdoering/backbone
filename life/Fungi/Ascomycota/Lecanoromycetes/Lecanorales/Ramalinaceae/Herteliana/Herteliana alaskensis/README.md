@@ -1,5 +1,4 @@
-Herteliana alaskensis (Nyl.) S. Ekman SPECIES
-=======
+# Herteliana alaskensis (Nyl.) S. Ekman SPECIES
 
 #### Status
 ACCEPTED

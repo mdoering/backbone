@@ -1,5 +1,4 @@
-Neumannites Rahaghi, 1976 GENUS
-=======
+# Neumannites Rahaghi, 1976 GENUS
 
 #### Status
 ACCEPTED

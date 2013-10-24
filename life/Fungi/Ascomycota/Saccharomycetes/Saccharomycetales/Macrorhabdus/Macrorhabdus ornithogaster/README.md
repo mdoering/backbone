@@ -1,5 +1,4 @@
-Macrorhabdus ornithogaster Tomasz., Logan, K.F. Snowden, Kurtzman & Phalen, 2003 SPECIES
-=======
+# Macrorhabdus ornithogaster Tomasz., Logan, K.F. Snowden, Kurtzman & Phalen, 2003 SPECIES
 
 #### Status
 ACCEPTED

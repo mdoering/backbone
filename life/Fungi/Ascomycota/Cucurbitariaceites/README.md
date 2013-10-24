@@ -1,5 +1,4 @@
-Cucurbitariaceites R.K. Kar, R.Y. Singh & Sah GENUS
-=======
+# Cucurbitariaceites R.K. Kar, R.Y. Singh & Sah GENUS
 
 #### Status
 ACCEPTED

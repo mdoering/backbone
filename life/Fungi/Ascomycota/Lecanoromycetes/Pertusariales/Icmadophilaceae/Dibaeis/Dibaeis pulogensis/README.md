@@ -1,5 +1,4 @@
-Dibaeis pulogensis (Vain.) Kalb & Gierl SPECIES
-=======
+# Dibaeis pulogensis (Vain.) Kalb & Gierl SPECIES
 
 #### Status
 ACCEPTED

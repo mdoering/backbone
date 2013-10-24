@@ -1,5 +1,4 @@
-Hyalopeziza racemosa Raitv. & Huhtinen SPECIES
-=======
+# Hyalopeziza racemosa Raitv. & Huhtinen SPECIES
 
 #### Status
 ACCEPTED

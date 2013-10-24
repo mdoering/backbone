@@ -1,5 +1,4 @@
-Cerebella yoshinagae Bubák & Syd. SPECIES
-=======
+# Cerebella yoshinagae Bubák & Syd. SPECIES
 
 #### Status
 ACCEPTED

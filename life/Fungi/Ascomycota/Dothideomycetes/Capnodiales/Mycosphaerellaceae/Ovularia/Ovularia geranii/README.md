@@ -1,5 +1,4 @@
-Ovularia geranii Siemaszko SPECIES
-=======
+# Ovularia geranii Siemaszko SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia agariciformis (Wulfen) Arnold SPECIES
-=======
+# Cladonia agariciformis (Wulfen) Arnold SPECIES
 
 #### Status
 ACCEPTED

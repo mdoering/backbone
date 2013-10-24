@@ -1,5 +1,4 @@
-Cercospora phellodendri P.K. Chi & C.K. Pai SPECIES
-=======
+# Cercospora phellodendri P.K. Chi & C.K. Pai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Favolus fuegianus Speg. SPECIES
-=======
+# Favolus fuegianus Speg. SPECIES
 
 #### Status
 ACCEPTED

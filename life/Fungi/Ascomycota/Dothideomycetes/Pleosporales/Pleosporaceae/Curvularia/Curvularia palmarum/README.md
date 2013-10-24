@@ -1,5 +1,4 @@
-Curvularia palmarum Subram., 1953 SPECIES
-=======
+# Curvularia palmarum Subram., 1953 SPECIES
 
 #### Status
 ACCEPTED

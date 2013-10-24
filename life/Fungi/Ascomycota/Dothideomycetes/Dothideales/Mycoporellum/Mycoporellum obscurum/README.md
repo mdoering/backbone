@@ -1,14 +1,13 @@
-Mycoporum obscurum (Pers.) Almq., 1880 SPECIES
-=======
+# Mycoporellum obscurum (Pers.) A.L. Sm., 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monogr. Brit. Lich. 2: 350 (1911)
 
 #### Original name
 Opegrapha obscura Pers.

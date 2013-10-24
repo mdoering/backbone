@@ -1,5 +1,4 @@
-Gibbera juruensis Henn. SPECIES
-=======
+# Gibbera juruensis Henn. SPECIES
 
 #### Status
 ACCEPTED

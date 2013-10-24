@@ -1,5 +1,4 @@
-Halobacteroides halobius Oren et al., 1984 SPECIES
-=======
+# Halobacteroides halobius Oren et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

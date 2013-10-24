@@ -1,5 +1,4 @@
-Athelidium Oberwinkler, 1966 GENUS
-=======
+# Athelidium Oberwinkler, 1966 GENUS
 
 #### Status
 ACCEPTED

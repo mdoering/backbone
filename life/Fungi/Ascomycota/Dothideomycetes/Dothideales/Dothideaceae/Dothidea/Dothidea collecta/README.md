@@ -1,5 +1,4 @@
-Dothidea collecta (Schwein.) Ellis & Everh. SPECIES
-=======
+# Dothidea collecta (Schwein.) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

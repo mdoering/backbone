@@ -1,5 +1,4 @@
-Asterorbis Vaughan & Cole, 1932 GENUS
-=======
+# Asterorbis Vaughan & Cole, 1932 GENUS
 
 #### Status
 ACCEPTED

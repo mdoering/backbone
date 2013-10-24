@@ -1,5 +1,4 @@
-Stilbum rehmianum (Rabenh.) Sacc. SPECIES
-=======
+# Stilbum rehmianum (Rabenh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

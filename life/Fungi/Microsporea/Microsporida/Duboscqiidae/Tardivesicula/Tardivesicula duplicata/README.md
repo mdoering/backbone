@@ -1,5 +1,4 @@
-Tardivesicula duplicata J.I.R. Larsson & E.K.C. Bylén SPECIES
-=======
+# Tardivesicula duplicata J.I.R. Larsson & E.K.C. Bylén SPECIES
 
 #### Status
 ACCEPTED

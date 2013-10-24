@@ -1,5 +1,4 @@
-Hyphodiscus otanii Hosoya, 2002 SPECIES
-=======
+# Hyphodiscus otanii Hosoya, 2002 SPECIES
 
 #### Status
 ACCEPTED

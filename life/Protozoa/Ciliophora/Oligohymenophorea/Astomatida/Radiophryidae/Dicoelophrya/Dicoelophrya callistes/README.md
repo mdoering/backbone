@@ -1,5 +1,4 @@
-Dicoelophrya callistes Puytorac & Dragesco, 1969 SPECIES
-=======
+# Dicoelophrya callistes Puytorac & Dragesco, 1969 SPECIES
 
 #### Status
 ACCEPTED

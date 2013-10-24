@@ -1,5 +1,4 @@
-Ramulispora sorghicola E. Harris, 1960 SPECIES
-=======
+# Ramulispora sorghicola E. Harris, 1960 SPECIES
 
 #### Status
 ACCEPTED

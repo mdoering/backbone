@@ -1,5 +1,4 @@
-Lentinus nicotiana Berk. SPECIES
-=======
+# Lentinus nicotiana Berk. SPECIES
 
 #### Status
 ACCEPTED

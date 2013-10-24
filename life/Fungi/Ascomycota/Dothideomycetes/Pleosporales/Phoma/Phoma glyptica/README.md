@@ -1,5 +1,4 @@
-Phoma glyptica Cooke & Massee SPECIES
-=======
+# Phoma glyptica Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

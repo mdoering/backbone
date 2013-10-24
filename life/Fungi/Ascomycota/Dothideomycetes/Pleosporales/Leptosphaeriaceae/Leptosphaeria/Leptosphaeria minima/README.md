@@ -1,5 +1,4 @@
-Leptosphaeria minima (Duby) Sacc. SPECIES
-=======
+# Leptosphaeria minima (Duby) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropuccinia lobeliae (W.R. Gerard) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia lobeliae (W.R. Gerard) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

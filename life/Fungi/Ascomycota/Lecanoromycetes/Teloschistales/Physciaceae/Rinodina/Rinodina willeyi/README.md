@@ -1,8 +1,7 @@
-Rinodina willeyii Sheard & Giralt SPECIES
-=======
+# Rinodina willeyi Sheard & Giralt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rinodina willeyii Sheard & Giralt
+Rinodina willeyi Sheard & Giralt
 
 ### Remarks
 null

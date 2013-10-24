@@ -1,5 +1,4 @@
-Enterographa multilocularis (Müll. Arg.) Sparrius SPECIES
-=======
+# Enterographa multilocularis (Müll. Arg.) Sparrius SPECIES
 
 #### Status
 ACCEPTED

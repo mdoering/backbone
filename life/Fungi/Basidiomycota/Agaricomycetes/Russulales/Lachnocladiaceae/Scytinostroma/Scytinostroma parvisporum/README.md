@@ -1,5 +1,4 @@
-Scytinostroma parvisporum Boidin & Lanq., 1987 SPECIES
-=======
+# Scytinostroma parvisporum Boidin & Lanq., 1987 SPECIES
 
 #### Status
 ACCEPTED

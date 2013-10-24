@@ -1,8 +1,7 @@
-Sargassopsis peronii (C. Agardh) Trevisan SPECIES
-=======
+# Sargassum peronii C. Agardh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

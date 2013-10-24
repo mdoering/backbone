@@ -1,5 +1,4 @@
-Acrodictys brevicornuta M.B. Ellis SPECIES
-=======
+# Acrodictys brevicornuta M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

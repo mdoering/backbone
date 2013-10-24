@@ -1,5 +1,4 @@
-Entophlyctis filamentosa S.N. Dasgupta SPECIES
-=======
+# Entophlyctis filamentosa S.N. Dasgupta SPECIES
 
 #### Status
 ACCEPTED

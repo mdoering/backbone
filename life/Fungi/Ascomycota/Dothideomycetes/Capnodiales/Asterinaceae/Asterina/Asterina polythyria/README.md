@@ -1,5 +1,4 @@
-Asterina polythyria Doidge SPECIES
-=======
+# Asterina polythyria Doidge SPECIES
 
 #### Status
 ACCEPTED

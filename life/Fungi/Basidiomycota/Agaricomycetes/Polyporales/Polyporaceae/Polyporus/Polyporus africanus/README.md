@@ -1,5 +1,4 @@
-Polyporus africanus Lloyd SPECIES
-=======
+# Polyporus africanus Lloyd SPECIES
 
 #### Status
 ACCEPTED

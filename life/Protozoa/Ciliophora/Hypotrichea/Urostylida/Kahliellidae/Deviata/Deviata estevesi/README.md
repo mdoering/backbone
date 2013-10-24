@@ -1,5 +1,4 @@
-Deviata estevesi Paiva da & Silva-Neto da, 2005 SPECIES
-=======
+# Deviata estevesi Paiva da & Silva-Neto da, 2005 SPECIES
 
 #### Status
 ACCEPTED

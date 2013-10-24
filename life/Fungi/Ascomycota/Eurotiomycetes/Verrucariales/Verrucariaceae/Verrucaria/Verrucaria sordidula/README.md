@@ -1,5 +1,4 @@
-Verrucaria sordidula SPECIES
-=======
+# Verrucaria sordidula SPECIES
 
 #### Status
 ACCEPTED

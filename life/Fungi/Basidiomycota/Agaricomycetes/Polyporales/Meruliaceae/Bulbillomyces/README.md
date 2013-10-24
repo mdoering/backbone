@@ -1,5 +1,4 @@
-Bulbillomyces Jülich, 1974 GENUS
-=======
+# Bulbillomyces Jülich, 1974 GENUS
 
 #### Status
 ACCEPTED

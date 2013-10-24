@@ -1,5 +1,4 @@
-Oothecium consimile Syd., 1930 SPECIES
-=======
+# Oothecium consimile Syd., 1930 SPECIES
 
 #### Status
 ACCEPTED

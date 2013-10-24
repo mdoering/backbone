@@ -1,5 +1,4 @@
-Helvella tremelloides Hazsl. SPECIES
-=======
+# Helvella tremelloides Hazsl. SPECIES
 
 #### Status
 ACCEPTED

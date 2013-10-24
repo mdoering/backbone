@@ -1,14 +1,13 @@
-Aurantiochytrium limacinum (D. Honda & Yokochi) R. Yokoy. & D. Honda, 2007 SPECIES
-=======
+# Schizochytrium limacinum D. Honda & Yokochi, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycoscience 48(4): 203 (2007)
+in Honda, Yokochi, Nakahara, Erata & Higashihara, Mycol. Res. 102(4): 441 (1998)
 
 #### Original name
 Schizochytrium limacinum D. Honda & Yokochi, 1998

@@ -1,5 +1,4 @@
-Metasphaeria lonicerae Fautrey SPECIES
-=======
+# Metasphaeria lonicerae Fautrey SPECIES
 
 #### Status
 ACCEPTED

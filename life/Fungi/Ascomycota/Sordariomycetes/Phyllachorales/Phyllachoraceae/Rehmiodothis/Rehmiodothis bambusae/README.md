@@ -1,5 +1,4 @@
-Rehmiodothis bambusae R.K. Verma & Soni, 2008 SPECIES
-=======
+# Rehmiodothis bambusae R.K. Verma & Soni, 2008 SPECIES
 
 #### Status
 ACCEPTED

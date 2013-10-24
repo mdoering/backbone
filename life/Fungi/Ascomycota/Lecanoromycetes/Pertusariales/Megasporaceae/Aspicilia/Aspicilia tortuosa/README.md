@@ -1,5 +1,4 @@
-Aspicilia tortuosa (H. Magn.) N.S. Golubk. SPECIES
-=======
+# Aspicilia tortuosa (H. Magn.) N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

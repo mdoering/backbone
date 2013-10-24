@@ -1,17 +1,16 @@
-Parmelia bohemica f. bohemica FORM
-=======
+# Parmelia submontana Nádv. ex Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Smithson. Contr. bot. 66: 44 (1987)
 
 #### Original name
-Parmelia bohemica f. bohemica
+Parmelia contorta Duby
 
 ### Remarks
 null

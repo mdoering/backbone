@@ -1,5 +1,4 @@
-Sphaeria clandestina Fr. SPECIES
-=======
+# Sphaeria clandestina Fr. SPECIES
 
 #### Status
 ACCEPTED

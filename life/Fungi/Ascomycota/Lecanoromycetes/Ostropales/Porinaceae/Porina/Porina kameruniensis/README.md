@@ -1,5 +1,4 @@
-Porina kameruniensis F. Schill. SPECIES
-=======
+# Porina kameruniensis F. Schill. SPECIES
 
 #### Status
 ACCEPTED

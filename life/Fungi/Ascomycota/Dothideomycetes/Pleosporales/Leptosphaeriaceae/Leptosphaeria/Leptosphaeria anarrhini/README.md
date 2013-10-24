@@ -1,5 +1,4 @@
-Leptosphaeria anarrhini Gonz. Frag. SPECIES
-=======
+# Leptosphaeria anarrhini Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

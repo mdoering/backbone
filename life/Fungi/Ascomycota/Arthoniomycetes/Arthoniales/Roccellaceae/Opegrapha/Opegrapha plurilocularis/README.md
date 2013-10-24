@@ -1,5 +1,4 @@
-Opegrapha plurilocularis SPECIES
-=======
+# Opegrapha plurilocularis SPECIES
 
 #### Status
 ACCEPTED

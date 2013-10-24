@@ -1,5 +1,4 @@
-Bolbitius versicolor (Peck) Watling SPECIES
-=======
+# Bolbitius versicolor (Peck) Watling SPECIES
 
 #### Status
 ACCEPTED

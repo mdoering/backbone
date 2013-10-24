@@ -1,5 +1,4 @@
-Inocybe alpigenes (E. Horak) Bon SPECIES
-=======
+# Inocybe alpigenes (E. Horak) Bon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe idahoensis H.E. Bigelow SPECIES
-=======
+# Clitocybe idahoensis H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus cepa Thore SPECIES
-=======
+# Boletus cepa Thore SPECIES
 
 #### Status
 ACCEPTED

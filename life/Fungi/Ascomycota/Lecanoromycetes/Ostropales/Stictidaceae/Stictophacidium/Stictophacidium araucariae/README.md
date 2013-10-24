@@ -1,5 +1,4 @@
-Stictophacidium araucariae Henn. SPECIES
-=======
+# Stictophacidium araucariae Henn. SPECIES
 
 #### Status
 ACCEPTED

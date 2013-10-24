@@ -1,5 +1,4 @@
-Peronospora uralensis Jacz. SPECIES
-=======
+# Peronospora uralensis Jacz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monoporisporites perpsilatus Kalgutkar & Janson. SPECIES
-=======
+# Monoporisporites perpsilatus Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

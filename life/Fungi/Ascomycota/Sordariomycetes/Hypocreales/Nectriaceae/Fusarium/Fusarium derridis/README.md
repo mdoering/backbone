@@ -1,5 +1,4 @@
-Fusarium derridis Henn. SPECIES
-=======
+# Fusarium derridis Henn. SPECIES
 
 #### Status
 ACCEPTED

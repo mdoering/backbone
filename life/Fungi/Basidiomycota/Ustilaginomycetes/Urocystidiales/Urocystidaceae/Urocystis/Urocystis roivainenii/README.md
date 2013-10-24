@@ -1,14 +1,13 @@
-Urocystis roivaianenii (Liro) Zundel SPECIES
-=======
+# Urocystis roivainenii (Liro) Zundel, 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ustilaginales of the World 332 (1953)
 
 #### Original name
 Tuburcinia roivainenii Liro, 1939

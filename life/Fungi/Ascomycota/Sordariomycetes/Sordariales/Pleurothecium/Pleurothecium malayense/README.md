@@ -1,17 +1,16 @@
-Pleurothecium malayaense K. Matsush. & Matsush. SPECIES
-=======
+# Pleurothecium malayense K. Matsush. & Matsush., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Matsush. Mycol. Mem. 9: 36 (1996)
 
 #### Original name
-Pleurothecium malayaense K. Matsush. & Matsush.
+Pleurothecium malayense K. Matsush. & Matsush., 1996
 
 ### Remarks
 null

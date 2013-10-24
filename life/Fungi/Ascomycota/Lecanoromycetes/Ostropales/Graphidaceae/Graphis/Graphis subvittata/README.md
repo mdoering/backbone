@@ -1,5 +1,4 @@
-Graphis subvittata Adaw. & Makhija SPECIES
-=======
+# Graphis subvittata Adaw. & Makhija SPECIES
 
 #### Status
 ACCEPTED

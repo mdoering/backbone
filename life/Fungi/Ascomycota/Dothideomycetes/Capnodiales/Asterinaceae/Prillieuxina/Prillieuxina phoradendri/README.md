@@ -1,5 +1,4 @@
-Prillieuxina phoradendri (R.W. Ryan) R.W. Ryan SPECIES
-=======
+# Prillieuxina phoradendri (R.W. Ryan) R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

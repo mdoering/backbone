@@ -1,5 +1,4 @@
-Cladonia decipiens Abbayes SPECIES
-=======
+# Cladonia decipiens Abbayes SPECIES
 
 #### Status
 ACCEPTED

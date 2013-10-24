@@ -1,5 +1,4 @@
-Opegrapha zanei A. Massal. SPECIES
-=======
+# Opegrapha zanei A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhytisma constellatum Berk. & Broome SPECIES
-=======
+# Rhytisma constellatum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

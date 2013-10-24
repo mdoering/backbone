@@ -1,5 +1,4 @@
-Cytidia cornea Lloyd SPECIES
-=======
+# Cytidia cornea Lloyd SPECIES
 
 #### Status
 ACCEPTED

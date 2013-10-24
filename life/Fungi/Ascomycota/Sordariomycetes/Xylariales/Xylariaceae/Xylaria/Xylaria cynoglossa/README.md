@@ -1,5 +1,4 @@
-Xylaria cynoglossa Cooke SPECIES
-=======
+# Xylaria cynoglossa Cooke SPECIES
 
 #### Status
 ACCEPTED

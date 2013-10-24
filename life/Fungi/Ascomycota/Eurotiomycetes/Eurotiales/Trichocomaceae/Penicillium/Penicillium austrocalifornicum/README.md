@@ -1,5 +1,4 @@
-Penicillium austrocalifornicum Yaguchi & Udagawa SPECIES
-=======
+# Penicillium austrocalifornicum Yaguchi & Udagawa SPECIES
 
 #### Status
 ACCEPTED

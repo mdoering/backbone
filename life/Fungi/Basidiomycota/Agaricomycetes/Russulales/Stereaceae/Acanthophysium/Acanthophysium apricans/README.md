@@ -1,14 +1,13 @@
-Aleurodiscus apricans Bourdot, 1910 SPECIES
-=======
+# Acanthophysium apricans (Bourdot) G. Cunn., 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rev. Sci. du Bourb. 27(1): 5 (1910)
+Bull. N. Z. Dept. Sci. Industr. Res. , Pl. Dis. Div. 145: 155 (1963)
 
 #### Original name
 Aleurodiscus apricans Bourdot, 1910

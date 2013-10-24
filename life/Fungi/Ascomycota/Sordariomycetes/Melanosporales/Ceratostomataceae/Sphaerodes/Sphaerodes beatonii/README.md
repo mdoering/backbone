@@ -1,5 +1,4 @@
-Sphaerodes beatonii (D. Hawksw.) P.F. Cannon & D. Hawksw. SPECIES
-=======
+# Sphaerodes beatonii (D. Hawksw.) P.F. Cannon & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

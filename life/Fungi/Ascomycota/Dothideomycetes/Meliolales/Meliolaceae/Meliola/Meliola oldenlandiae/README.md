@@ -1,5 +1,4 @@
-Meliola oldenlandiae var. oldenlandiae VARIETY
-=======
+# Meliola oldenlandiae Hansf. & F. Stevens SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 J. Linn. Soc. , Bot. 51: 279 (1937)
 
 #### Original name
-Meliola oldenlandiae var. oldenlandiae
+Meliola oldenlandiae Hansf. & F. Stevens
 
 ### Remarks
 null

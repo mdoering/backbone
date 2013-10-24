@@ -1,5 +1,4 @@
-Sticta coriacea f. coriacea FORM
-=======
+# Sticta coriacea Hook. f. & Taylor SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 London J. Bot. 3: 648 (1844)
 
 #### Original name
-Sticta coriacea f. coriacea
+Sticta coriacea Hook. f. & Taylor
 
 ### Remarks
 null

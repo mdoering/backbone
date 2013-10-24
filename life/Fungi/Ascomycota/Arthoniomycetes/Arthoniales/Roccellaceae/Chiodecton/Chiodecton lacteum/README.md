@@ -1,5 +1,4 @@
-Chiodecton lacteum Fée SPECIES
-=======
+# Chiodecton lacteum Fée SPECIES
 
 #### Status
 ACCEPTED

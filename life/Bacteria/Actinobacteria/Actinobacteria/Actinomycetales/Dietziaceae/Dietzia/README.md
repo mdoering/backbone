@@ -1,5 +1,4 @@
-Dietzia Rainey et al., 1995 GENUS
-=======
+# Dietzia Rainey et al., 1995 GENUS
 
 #### Status
 ACCEPTED

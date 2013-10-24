@@ -1,5 +1,4 @@
-Schizoxylon bambusinum Speg. SPECIES
-=======
+# Schizoxylon bambusinum Speg. SPECIES
 
 #### Status
 ACCEPTED

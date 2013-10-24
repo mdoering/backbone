@@ -1,5 +1,4 @@
-Chilodonella paramecium SPECIES
-=======
+# Chilodonella paramecium SPECIES
 
 #### Status
 ACCEPTED

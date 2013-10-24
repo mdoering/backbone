@@ -1,5 +1,4 @@
-Bovistella rosea Lloyd SPECIES
-=======
+# Bovistella rosea Lloyd SPECIES
 
 #### Status
 ACCEPTED

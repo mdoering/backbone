@@ -1,5 +1,4 @@
-Polyporus citrinellus Berk. & M.A. Curtis SPECIES
-=======
+# Polyporus citrinellus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

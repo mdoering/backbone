@@ -1,17 +1,16 @@
-Terfezia boudieri var. boudieri VARIETY
-=======
+# Terfezia boudieri Chatin, 1892 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 La Truffe 72 (1892)
 
 #### Original name
-Terfezia boudieri var. boudieri
+Terfezia boudieri Chatin, 1892
 
 ### Remarks
 null

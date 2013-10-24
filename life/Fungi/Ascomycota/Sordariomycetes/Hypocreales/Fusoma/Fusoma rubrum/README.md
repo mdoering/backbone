@@ -1,5 +1,4 @@
-Fusoma rubrum J. Lindau SPECIES
-=======
+# Fusoma rubrum J. Lindau SPECIES
 
 #### Status
 ACCEPTED

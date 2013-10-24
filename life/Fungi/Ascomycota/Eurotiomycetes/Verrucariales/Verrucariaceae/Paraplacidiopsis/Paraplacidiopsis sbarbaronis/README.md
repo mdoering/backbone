@@ -1,5 +1,4 @@
-Paraplacidiopsis sbarbaronis Servazzi SPECIES
-=======
+# Paraplacidiopsis sbarbaronis Servazzi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella subpalustris A.H. Sm. SPECIES
-=======
+# Psathyrella subpalustris A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

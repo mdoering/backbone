@@ -1,5 +1,4 @@
-Pannaria rubiginea var. rubiginea VARIETY
-=======
+# Pannaria rubiginea (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pannaria rubiginea var. rubiginea
+Arthonia rubiginella Nyl.
 
 ### Remarks
 null

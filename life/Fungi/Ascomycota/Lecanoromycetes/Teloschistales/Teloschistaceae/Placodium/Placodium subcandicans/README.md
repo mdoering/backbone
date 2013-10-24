@@ -1,5 +1,4 @@
-Placodium subcandicans Müll. Arg. SPECIES
-=======
+# Placodium subcandicans Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

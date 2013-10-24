@@ -1,5 +1,4 @@
-Pentapharsodinium Indelicato & Loeblich, Iii, 1986 GENUS
-=======
+# Pentapharsodinium Indelicato & Loeblich, Iii, 1986 GENUS
 
 #### Status
 ACCEPTED

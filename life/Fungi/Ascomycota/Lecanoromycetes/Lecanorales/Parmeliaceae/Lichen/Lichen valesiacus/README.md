@@ -1,5 +1,4 @@
-Lichen valesiacus Schleich. SPECIES
-=======
+# Lichen valesiacus Schleich. SPECIES
 
 #### Status
 ACCEPTED

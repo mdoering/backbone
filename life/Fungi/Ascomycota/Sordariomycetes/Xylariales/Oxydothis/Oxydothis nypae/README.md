@@ -1,5 +1,4 @@
-Oxydothis nypae K.D. Hyde & Nakagiri, 1989 SPECIES
-=======
+# Oxydothis nypae K.D. Hyde & Nakagiri, 1989 SPECIES
 
 #### Status
 ACCEPTED

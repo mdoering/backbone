@@ -1,5 +1,4 @@
-Coprinus subacaulis Ade SPECIES
-=======
+# Coprinus subacaulis Ade SPECIES
 
 #### Status
 ACCEPTED

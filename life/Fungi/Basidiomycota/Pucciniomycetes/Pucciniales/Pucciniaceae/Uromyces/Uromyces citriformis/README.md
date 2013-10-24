@@ -1,5 +1,4 @@
-Uromyces citriformis Bab. SPECIES
-=======
+# Uromyces citriformis Bab. SPECIES
 
 #### Status
 ACCEPTED

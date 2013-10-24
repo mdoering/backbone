@@ -1,5 +1,4 @@
-Lateropeltis bambusarum Speg. SPECIES
-=======
+# Lateropeltis bambusarum Speg. SPECIES
 
 #### Status
 ACCEPTED

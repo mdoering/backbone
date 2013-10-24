@@ -1,5 +1,4 @@
-Polyblastia opuntiicola SPECIES
-=======
+# Polyblastia opuntiicola SPECIES
 
 #### Status
 ACCEPTED

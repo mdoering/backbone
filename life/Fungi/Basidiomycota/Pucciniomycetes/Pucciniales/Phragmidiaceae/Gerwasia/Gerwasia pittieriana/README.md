@@ -1,17 +1,16 @@
-Mainsia pitteriana (Henn.) H.S. Jacks. SPECIES
-=======
+# Gerwasia pittieriana (Henn.) León-Gall. & Cummins, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Uredinales (Royas) de Mexico (Culiacán) 2: 376 (1981)
 
 #### Original name
-Uromyces pitterianus Henn.
+Uromyces pittierianus Henn., 1902
 
 ### Remarks
 null

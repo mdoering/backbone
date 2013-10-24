@@ -1,5 +1,4 @@
-Graphis njalensis C.W. Dodge SPECIES
-=======
+# Graphis njalensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

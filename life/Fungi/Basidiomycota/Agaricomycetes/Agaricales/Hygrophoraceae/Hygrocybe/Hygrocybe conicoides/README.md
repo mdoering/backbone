@@ -1,14 +1,13 @@
-Hygrophorus conicus var. conicoides (P.D. Orton) Arnolds, 1974 VARIETY
-=======
+# Hygrocybe conicoides (P.D. Orton) P.D. Orton & Watling, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 8(1): 103 (1974)
+Notes R. bot. Gdn Edinb. 29(1): 131 (1969)
 
 #### Original name
 Hygrophorus conicoides P.D. Orton, 1960

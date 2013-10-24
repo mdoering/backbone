@@ -1,5 +1,4 @@
-Synhymenia mirabilis (Alekperov, 1984) Jankowski, 1992 SPECIES
-=======
+# Synhymenia mirabilis (Alekperov, 1984) Jankowski, 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanactis acicularis C.W. Dodge SPECIES
-=======
+# Lecanactis acicularis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

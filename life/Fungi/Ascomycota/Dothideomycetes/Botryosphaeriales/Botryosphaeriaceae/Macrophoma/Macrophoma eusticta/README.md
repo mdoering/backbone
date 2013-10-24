@@ -1,5 +1,4 @@
-Macrophoma eusticta Sacc. SPECIES
-=======
+# Macrophoma eusticta Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Depazites palaeoalni (Ettingsh.) Mesch. SPECIES
-=======
+# Depazites palaeoalni (Ettingsh.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

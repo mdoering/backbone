@@ -1,5 +1,4 @@
-Glomus perpusillum Blaszk. & Kovács SPECIES
-=======
+# Glomus perpusillum Blaszk. & Kovács SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chloridium giganteum J. Lindau SPECIES
-=======
+# Chloridium giganteum J. Lindau SPECIES
 
 #### Status
 ACCEPTED

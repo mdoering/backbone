@@ -1,5 +1,4 @@
-Cryptandromyces laboulbenioides (Thaxt.) I.I. Tav. SPECIES
-=======
+# Cryptandromyces laboulbenioides (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

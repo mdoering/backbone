@@ -1,5 +1,4 @@
-Wolinella Tanner et al., 1981 GENUS
-=======
+# Wolinella Tanner et al., 1981 GENUS
 
 #### Status
 ACCEPTED

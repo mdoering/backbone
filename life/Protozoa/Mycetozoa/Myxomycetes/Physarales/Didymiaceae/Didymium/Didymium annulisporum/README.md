@@ -1,5 +1,4 @@
-Didymium annulisporum H.W. Keller & Schokn., 1989 SPECIES
-=======
+# Didymium annulisporum H.W. Keller & Schokn., 1989 SPECIES
 
 #### Status
 ACCEPTED

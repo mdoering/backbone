@@ -1,5 +1,4 @@
-Sericeomyces sardous Zecchin & Migl. SPECIES
-=======
+# Sericeomyces sardous Zecchin & Migl. SPECIES
 
 #### Status
 ACCEPTED

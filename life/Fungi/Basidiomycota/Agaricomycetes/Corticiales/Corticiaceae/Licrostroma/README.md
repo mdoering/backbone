@@ -1,5 +1,4 @@
-Licrostroma P.A. Lemke GENUS
-=======
+# Licrostroma P.A. Lemke GENUS
 
 #### Status
 ACCEPTED

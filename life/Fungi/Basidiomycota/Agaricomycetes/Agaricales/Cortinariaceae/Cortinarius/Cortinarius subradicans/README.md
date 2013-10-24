@@ -1,5 +1,4 @@
-Cortinarius subradicans Carteret & Reumaux SPECIES
-=======
+# Cortinarius subradicans Carteret & Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Villosacapsula fakira (Martin, 1969) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Villosacapsula fakira (Martin, 1969) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

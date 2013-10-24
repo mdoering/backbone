@@ -1,5 +1,4 @@
-Patella irregularis (Clem.) Seaver SPECIES
-=======
+# Patella irregularis (Clem.) Seaver SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria lepidioides (Vain.) Lettau SPECIES
-=======
+# Verrucaria lepidioides (Vain.) Lettau SPECIES
 
 #### Status
 ACCEPTED

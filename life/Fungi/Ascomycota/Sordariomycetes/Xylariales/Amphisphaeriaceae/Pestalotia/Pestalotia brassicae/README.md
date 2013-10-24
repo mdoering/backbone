@@ -1,5 +1,4 @@
-Pestalotia brassicae Guba, 1961 SPECIES
-=======
+# Pestalotia brassicae Guba, 1961 SPECIES
 
 #### Status
 ACCEPTED

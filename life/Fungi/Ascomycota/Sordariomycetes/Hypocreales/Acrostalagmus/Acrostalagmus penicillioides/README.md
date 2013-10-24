@@ -1,5 +1,4 @@
-Acrostalagmus penicillioides Bandm. SPECIES
-=======
+# Acrostalagmus penicillioides Bandm. SPECIES
 
 #### Status
 ACCEPTED

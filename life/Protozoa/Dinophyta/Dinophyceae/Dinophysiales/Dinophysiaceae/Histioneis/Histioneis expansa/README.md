@@ -1,5 +1,4 @@
-Histioneis expansa Rampi SPECIES
-=======
+# Histioneis expansa Rampi SPECIES
 
 #### Status
 ACCEPTED

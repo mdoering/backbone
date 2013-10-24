@@ -1,5 +1,4 @@
-Phyllosticta stanhopeae Allesch. SPECIES
-=======
+# Phyllosticta stanhopeae Allesch. SPECIES
 
 #### Status
 ACCEPTED

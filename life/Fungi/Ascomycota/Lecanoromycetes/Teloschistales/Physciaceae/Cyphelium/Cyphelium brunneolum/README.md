@@ -1,5 +1,4 @@
-Cyphelium brunneolum Ach. SPECIES
-=======
+# Cyphelium brunneolum Ach. SPECIES
 
 #### Status
 ACCEPTED

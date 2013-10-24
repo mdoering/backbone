@@ -1,5 +1,4 @@
-Kanmeraia Ozawa, 1967 GENUS
-=======
+# Kanmeraia Ozawa, 1967 GENUS
 
 #### Status
 ACCEPTED

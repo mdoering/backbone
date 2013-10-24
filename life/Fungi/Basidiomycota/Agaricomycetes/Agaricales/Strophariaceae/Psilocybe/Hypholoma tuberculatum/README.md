@@ -1,5 +1,4 @@
-Hypholoma tuberculatum Pat. SPECIES
-=======
+# Hypholoma tuberculatum Pat. SPECIES
 
 #### Status
 ACCEPTED

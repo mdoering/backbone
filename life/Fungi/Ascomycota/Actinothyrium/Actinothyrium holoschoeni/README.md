@@ -1,5 +1,4 @@
-Actinothyrium holoschoeni Pass. SPECIES
-=======
+# Actinothyrium holoschoeni Pass. SPECIES
 
 #### Status
 ACCEPTED

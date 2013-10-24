@@ -1,5 +1,4 @@
-Clitocybe attracta (Britzelm.) Sacc. SPECIES
-=======
+# Clitocybe attracta (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

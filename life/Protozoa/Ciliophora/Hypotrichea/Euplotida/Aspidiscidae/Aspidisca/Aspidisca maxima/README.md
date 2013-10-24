@@ -1,5 +1,4 @@
-Aspidisca maxima SPECIES
-=======
+# Aspidisca maxima SPECIES
 
 #### Status
 ACCEPTED

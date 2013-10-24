@@ -1,5 +1,4 @@
-Lecidea faxinensis Müll. Arg. SPECIES
-=======
+# Lecidea faxinensis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

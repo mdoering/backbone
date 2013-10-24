@@ -1,5 +1,4 @@
-Rhizophydium rostellatum (de Wild.) Fischer SPECIES
-=======
+# Rhizophydium rostellatum (de Wild.) Fischer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spathulariopsis Maas Geest. GENUS
-=======
+# Spathulariopsis Maas Geest. GENUS
 
 #### Status
 ACCEPTED

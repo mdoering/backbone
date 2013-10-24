@@ -1,5 +1,4 @@
-Pertusaria citrinescens Coppins & P. James SPECIES
-=======
+# Pertusaria citrinescens Coppins & P. James SPECIES
 
 #### Status
 ACCEPTED

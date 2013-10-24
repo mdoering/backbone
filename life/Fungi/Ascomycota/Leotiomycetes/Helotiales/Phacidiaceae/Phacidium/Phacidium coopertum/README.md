@@ -1,5 +1,4 @@
-Phacidium coopertum (Desm.) Höhn. SPECIES
-=======
+# Phacidium coopertum (Desm.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dirina hiorami B. de Lesd. SPECIES
-=======
+# Dirina hiorami B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

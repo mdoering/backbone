@@ -1,5 +1,4 @@
-Gymnoascus reesi Baran. SPECIES
-=======
+# Gymnoascus reesi Baran. SPECIES
 
 #### Status
 ACCEPTED

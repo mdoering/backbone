@@ -1,5 +1,4 @@
-Tetramicra R.A. Matthews & A.B.F. Matthews, 1980 GENUS
-=======
+# Tetramicra R.A. Matthews & A.B.F. Matthews, 1980 GENUS
 
 #### Status
 ACCEPTED

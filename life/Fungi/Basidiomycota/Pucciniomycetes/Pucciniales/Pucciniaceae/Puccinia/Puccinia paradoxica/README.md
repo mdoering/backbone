@@ -1,5 +1,4 @@
-Puccinia paradoxica Ricker SPECIES
-=======
+# Puccinia paradoxica Ricker SPECIES
 
 #### Status
 ACCEPTED

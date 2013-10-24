@@ -1,14 +1,13 @@
-Marasmius cyatheae Singer, 1936 SPECIES
-=======
+# Mycenella cyatheae (Singer) Singer, 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. bot. Zbl. 56: 157 (1936)
+Bot. Mater. Otd. Sporov. Rast. Bot. Inst. Komarova Akad. Nauk S. S. S. R. (1938)
 
 #### Original name
 Marasmius cyatheae Singer, 1936

@@ -1,5 +1,4 @@
-Amblyophis Ehrenberg, 1832 GENUS
-=======
+# Amblyophis Ehrenberg, 1832 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalideopsis verruculosa Vezda & Hafellner SPECIES
-=======
+# Gyalideopsis verruculosa Vezda & Hafellner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aposphaeria montbretiae Siemaszko SPECIES
-=======
+# Aposphaeria montbretiae Siemaszko SPECIES
 
 #### Status
 ACCEPTED

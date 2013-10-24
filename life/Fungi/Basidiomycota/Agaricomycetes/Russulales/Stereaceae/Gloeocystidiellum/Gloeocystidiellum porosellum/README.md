@@ -1,5 +1,4 @@
-Gloeocystidiellum porosellum Hjortstam, 1984 SPECIES
-=======
+# Gloeocystidiellum porosellum Hjortstam, 1984 SPECIES
 
 #### Status
 ACCEPTED

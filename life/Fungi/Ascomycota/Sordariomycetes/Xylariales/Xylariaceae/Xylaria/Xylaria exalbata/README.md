@@ -1,5 +1,4 @@
-Xylaria exalbata Berk. & Broome SPECIES
-=======
+# Xylaria exalbata Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

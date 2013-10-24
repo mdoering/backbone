@@ -1,5 +1,4 @@
-Cercospora pahudiae Syd. SPECIES
-=======
+# Cercospora pahudiae Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria mauritana Rieuf SPECIES
-=======
+# Metasphaeria mauritana Rieuf SPECIES
 
 #### Status
 ACCEPTED

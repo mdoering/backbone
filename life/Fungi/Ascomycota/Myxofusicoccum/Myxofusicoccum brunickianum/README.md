@@ -1,5 +1,4 @@
-Myxofusicoccum brunickianum Petr. SPECIES
-=======
+# Myxofusicoccum brunickianum Petr. SPECIES
 
 #### Status
 ACCEPTED

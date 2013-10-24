@@ -1,5 +1,4 @@
-Hyperrhiza sarcomelas Rabenh. SPECIES
-=======
+# Hyperrhiza sarcomelas Rabenh. SPECIES
 
 #### Status
 ACCEPTED

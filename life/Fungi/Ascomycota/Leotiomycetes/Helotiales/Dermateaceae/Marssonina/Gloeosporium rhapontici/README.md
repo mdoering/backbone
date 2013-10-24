@@ -1,5 +1,4 @@
-Gloeosporium rhapontici Nelen SPECIES
-=======
+# Gloeosporium rhapontici Nelen SPECIES
 
 #### Status
 ACCEPTED

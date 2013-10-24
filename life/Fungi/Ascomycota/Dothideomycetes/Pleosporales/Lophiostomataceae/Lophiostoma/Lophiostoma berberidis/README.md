@@ -1,5 +1,4 @@
-Lophiostoma berberidis Nitschke SPECIES
-=======
+# Lophiostoma berberidis Nitschke SPECIES
 
 #### Status
 ACCEPTED

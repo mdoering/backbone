@@ -1,5 +1,4 @@
-Ampliotrema lepadinoides (Leight.) Kalb SPECIES
-=======
+# Ampliotrema lepadinoides (Leight.) Kalb SPECIES
 
 #### Status
 ACCEPTED

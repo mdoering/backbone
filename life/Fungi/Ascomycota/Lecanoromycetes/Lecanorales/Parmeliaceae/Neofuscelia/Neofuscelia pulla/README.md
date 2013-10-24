@@ -1,11 +1,10 @@
-Neofuscelia pulla var. pulla VARIETY
-=======
+# Neofuscelia pulla (Ach.) Essl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null

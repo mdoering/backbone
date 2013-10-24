@@ -1,5 +1,4 @@
-Micropuccinia recedens (P. Syd. & Syd.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia recedens (P. Syd. & Syd.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

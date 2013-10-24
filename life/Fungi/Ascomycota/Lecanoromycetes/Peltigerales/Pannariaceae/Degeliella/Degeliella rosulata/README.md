@@ -1,14 +1,13 @@
-Degelia rosulata P. M. Jørg. & D. J. Galloway SPECIES
-=======
+# Degeliella rosulata (P. M. Jørg. & D. J. Galloway) P. M. Jørg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora of Australia (Canberra), Vol. <b>54</b>. Lichens  Introduction, Lecanorales 1 314 (1992)
+Biblthca Lichenol. 88: 236 (2004)
 
 #### Original name
 Degelia rosulata P. M. Jørg. & D. J. Galloway

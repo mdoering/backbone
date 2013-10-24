@@ -1,5 +1,4 @@
-Rhizopogon hysterangioides A.H. Sm. SPECIES
-=======
+# Rhizopogon hysterangioides A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

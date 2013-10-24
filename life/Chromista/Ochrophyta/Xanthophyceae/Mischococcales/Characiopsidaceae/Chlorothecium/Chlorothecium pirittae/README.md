@@ -1,5 +1,4 @@
-Chlorothecium pirittae Borzi SPECIES
-=======
+# Chlorothecium pirittae Borzi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia alcalinolens Peck SPECIES
-=======
+# Collybia alcalinolens Peck SPECIES
 
 #### Status
 ACCEPTED

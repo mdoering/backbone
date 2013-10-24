@@ -1,5 +1,4 @@
-Peyronellaea stipae Lacoste ex Lacoste SPECIES
-=======
+# Peyronellaea stipae Lacoste ex Lacoste SPECIES
 
 #### Status
 ACCEPTED

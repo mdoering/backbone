@@ -1,5 +1,4 @@
-Atopobium Collins & Wallbanks, 1993 GENUS
-=======
+# Atopobium Collins & Wallbanks, 1993 GENUS
 
 #### Status
 ACCEPTED

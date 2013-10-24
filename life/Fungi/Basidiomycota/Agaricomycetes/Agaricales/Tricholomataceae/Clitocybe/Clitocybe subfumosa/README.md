@@ -1,5 +1,4 @@
-Clitocybe subfumosa H.E. Bigelow SPECIES
-=======
+# Clitocybe subfumosa H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

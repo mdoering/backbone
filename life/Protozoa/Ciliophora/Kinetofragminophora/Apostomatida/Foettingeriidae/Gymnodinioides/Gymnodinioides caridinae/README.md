@@ -1,5 +1,4 @@
-Gymnodinioides caridinae (Miyashita, 1933) Chatton & Lwoff, 1935 SPECIES
-=======
+# Gymnodinioides caridinae (Miyashita, 1933) Chatton & Lwoff, 1935 SPECIES
 
 #### Status
 ACCEPTED

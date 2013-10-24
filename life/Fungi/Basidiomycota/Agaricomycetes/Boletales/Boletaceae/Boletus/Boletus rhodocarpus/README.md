@@ -1,5 +1,4 @@
-Boletus rhodocarpus Uehara & Har. Takah. SPECIES
-=======
+# Boletus rhodocarpus Uehara & Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

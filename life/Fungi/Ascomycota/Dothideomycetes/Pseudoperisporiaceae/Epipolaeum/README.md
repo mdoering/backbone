@@ -1,5 +1,4 @@
-Epipolaeum GENUS
-=======
+# Epipolaeum GENUS
 
 #### Status
 ACCEPTED

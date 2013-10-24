@@ -1,5 +1,4 @@
-Septoria dearnessii Ellis & Everh., 1889 SPECIES
-=======
+# Septoria dearnessii Ellis & Everh., 1889 SPECIES
 
 #### Status
 ACCEPTED

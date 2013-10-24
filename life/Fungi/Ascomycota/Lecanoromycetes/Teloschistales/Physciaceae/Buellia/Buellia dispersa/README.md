@@ -1,8 +1,7 @@
-Buellia italica var. tumida A. Massal. VARIETY
-=======
+# Buellia dispersa A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Buellia dispersa A. Massal.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Umbellasphaeridium wicanderi Ricahrds & Mullins, 2003 SPECIES
-=======
+# Umbellasphaeridium wicanderi Ricahrds & Mullins, 2003 SPECIES
 
 #### Status
 ACCEPTED

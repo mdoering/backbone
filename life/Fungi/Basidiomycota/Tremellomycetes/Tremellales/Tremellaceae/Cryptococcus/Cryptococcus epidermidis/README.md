@@ -1,5 +1,4 @@
-Cryptococcus epidermidis Castell. & Chalm. SPECIES
-=======
+# Cryptococcus epidermidis Castell. & Chalm. SPECIES
 
 #### Status
 ACCEPTED

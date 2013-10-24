@@ -1,5 +1,4 @@
-Pseudocercospora clavicarpa (Ellis & Everh.) U. Braun SPECIES
-=======
+# Pseudocercospora clavicarpa (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

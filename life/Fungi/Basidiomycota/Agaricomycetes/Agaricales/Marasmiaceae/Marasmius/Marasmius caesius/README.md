@@ -1,5 +1,4 @@
-Marasmius caesius Murrill SPECIES
-=======
+# Marasmius caesius Murrill SPECIES
 
 #### Status
 ACCEPTED

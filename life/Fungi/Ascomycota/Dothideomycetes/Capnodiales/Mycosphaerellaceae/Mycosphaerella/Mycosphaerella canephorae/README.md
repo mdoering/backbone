@@ -1,5 +1,4 @@
-Mycosphaerella canephorae Saccas SPECIES
-=======
+# Mycosphaerella canephorae Saccas SPECIES
 
 #### Status
 ACCEPTED

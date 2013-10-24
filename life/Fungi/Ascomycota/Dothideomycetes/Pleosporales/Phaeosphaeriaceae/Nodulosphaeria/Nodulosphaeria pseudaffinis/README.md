@@ -1,5 +1,4 @@
-Nodulosphaeria pseudaffinis (Petr.) L. Holm SPECIES
-=======
+# Nodulosphaeria pseudaffinis (Petr.) L. Holm SPECIES
 
 #### Status
 ACCEPTED

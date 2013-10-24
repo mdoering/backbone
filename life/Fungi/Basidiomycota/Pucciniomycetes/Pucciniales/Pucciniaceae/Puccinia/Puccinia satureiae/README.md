@@ -1,5 +1,4 @@
-Puccinia satureiae Cummins SPECIES
-=======
+# Puccinia satureiae Cummins SPECIES
 
 #### Status
 ACCEPTED

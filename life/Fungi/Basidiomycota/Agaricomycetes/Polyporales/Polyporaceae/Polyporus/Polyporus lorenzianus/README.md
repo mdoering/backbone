@@ -1,5 +1,4 @@
-Polyporus lorenzianus Kalchbr. SPECIES
-=======
+# Polyporus lorenzianus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota atrosquamulosa Hongo SPECIES
-=======
+# Lepiota atrosquamulosa Hongo SPECIES
 
 #### Status
 ACCEPTED

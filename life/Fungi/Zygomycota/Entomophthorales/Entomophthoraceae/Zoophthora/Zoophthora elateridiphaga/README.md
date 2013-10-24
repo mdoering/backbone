@@ -1,14 +1,13 @@
-Entomophthora elateridiphaga Turian, 1978 SPECIES
-=======
+# Zoophthora elateridiphaga (Turian) Ben Ze'ev & R.G. Kenneth, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mitt. schweiz. ent. Ges. 51(4): 398 (1978)
+Entomophaga 25(2): 181 (1980)
 
 #### Original name
 Entomophthora elateridiphaga Turian, 1978

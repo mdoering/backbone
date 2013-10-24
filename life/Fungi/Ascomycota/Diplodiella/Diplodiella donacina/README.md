@@ -1,5 +1,4 @@
-Diplodiella donacina Sacc. & D. Sacc. SPECIES
-=======
+# Diplodiella donacina Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyanoaggregatum Werner, Sant'Anna & Azevedo, 2008 GENUS
-=======
+# Cyanoaggregatum Werner, Sant'Anna & Azevedo, 2008 GENUS
 
 #### Status
 ACCEPTED

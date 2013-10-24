@@ -1,5 +1,4 @@
-Fissurina fujisanensis (Kashiw. & M. Nakan.) M. Nakan. & Kashiw. SPECIES
-=======
+# Fissurina fujisanensis (Kashiw. & M. Nakan.) M. Nakan. & Kashiw. SPECIES
 
 #### Status
 ACCEPTED

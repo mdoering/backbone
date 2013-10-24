@@ -1,17 +1,16 @@
-Candida methanophilum Mimura, M. Wada, T. Nakano, Hayak. & Iguchi SPECIES
-=======
+# Candida methanophila Mimura, M. Wada, T. Nakano, Hayak. & Iguchi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Ferment. Technol. , Osaka 56(5): 446 (1978)
 
 #### Original name
-Candida methanophilum Mimura, M. Wada, T. Nakano, Hayak. & Iguchi
+Candida methanophila Mimura, M. Wada, T. Nakano, Hayak. & Iguchi
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Chiphragmalithus barbatus Perch-Nielsen, 1967 SPECIES
-=======
+# Chiphragmalithus barbatus Perch-Nielsen, 1967 SPECIES
 
 #### Status
 ACCEPTED

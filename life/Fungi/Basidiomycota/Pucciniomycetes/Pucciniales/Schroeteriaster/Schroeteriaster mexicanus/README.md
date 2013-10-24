@@ -1,5 +1,4 @@
-Schroeteriaster mexicanus (Arthur) P. Syd. & Syd. SPECIES
-=======
+# Schroeteriaster mexicanus (Arthur) P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

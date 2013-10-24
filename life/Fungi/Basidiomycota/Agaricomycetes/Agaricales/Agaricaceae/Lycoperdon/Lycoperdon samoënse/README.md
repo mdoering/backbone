@@ -1,5 +1,4 @@
-Lycoperdon samoënse Bres. & Pat. SPECIES
-=======
+# Lycoperdon samoënse Bres. & Pat. SPECIES
 
 #### Status
 ACCEPTED

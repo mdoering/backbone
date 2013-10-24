@@ -1,14 +1,13 @@
-Multicellites quattorodecimcellus (Mart.-Hern. & Tom.-Ort.) Kalgutkar & Janson. SPECIES
-=======
+# Multicellites quattuoridecimcella (Mart.-Hern. & Tom.-Ort.) Kalgutkar & Janson. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+AASP Contributions Series (Dallas) 39: 193 (2000)
 
 #### Original name
 Multicellaesporites quattuoridecimcella Mart.-Hern. & Tom.-Ort.

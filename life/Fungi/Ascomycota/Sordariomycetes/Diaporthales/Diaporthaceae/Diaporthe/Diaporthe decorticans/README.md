@@ -1,17 +1,16 @@
-Diaporthe padi var. patria (Speg.) Wehm., 1933 VARIETY
-=======
+# Diaporthe decorticans (Lib.) Sacc. & Roum., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Reliq. Libert 2: no. 88 (1881)
 
 #### Original name
-null
+Diaporthe patria Speg., 1881
 
 ### Remarks
 null

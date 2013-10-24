@@ -1,5 +1,4 @@
-Pleurophomopsis salicina Petr. SPECIES
-=======
+# Pleurophomopsis salicina Petr. SPECIES
 
 #### Status
 ACCEPTED

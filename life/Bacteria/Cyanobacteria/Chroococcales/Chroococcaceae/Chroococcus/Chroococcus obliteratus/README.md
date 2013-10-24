@@ -1,5 +1,4 @@
-Chroococcus obliteratus Richter SPECIES
-=======
+# Chroococcus obliteratus Richter SPECIES
 
 #### Status
 ACCEPTED

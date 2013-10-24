@@ -1,5 +1,4 @@
-Pachnocybe rosea Berk. & M.A. Curtis SPECIES
-=======
+# Pachnocybe rosea Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium euonymi Briosi & Cavara SPECIES
-=======
+# Gloeosporium euonymi Briosi & Cavara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rattulus Lamarck, 1816 GENUS
-=======
+# Rattulus Lamarck, 1816 GENUS
 
 #### Status
 ACCEPTED

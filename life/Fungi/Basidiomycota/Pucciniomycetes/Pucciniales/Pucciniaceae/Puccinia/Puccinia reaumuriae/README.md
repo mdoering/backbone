@@ -1,5 +1,4 @@
-Puccinia reaumuriae Magnus SPECIES
-=======
+# Puccinia reaumuriae Magnus SPECIES
 
 #### Status
 ACCEPTED

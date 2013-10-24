@@ -1,5 +1,4 @@
-Pseudocercospora lueheae U. Braun SPECIES
-=======
+# Pseudocercospora lueheae U. Braun SPECIES
 
 #### Status
 ACCEPTED

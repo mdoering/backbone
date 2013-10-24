@@ -1,5 +1,4 @@
-Physosporella symploci (Racib.) Höhn. SPECIES
-=======
+# Physosporella symploci (Racib.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

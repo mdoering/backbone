@@ -1,5 +1,4 @@
-Inocybe grammopodia Malençon SPECIES
-=======
+# Inocybe grammopodia Malençon SPECIES
 
 #### Status
 ACCEPTED

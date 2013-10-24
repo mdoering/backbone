@@ -1,5 +1,4 @@
-Flavocetrariella leucostigma (Lév.) D.D. Awasthi SPECIES
-=======
+# Flavocetrariella leucostigma (Lév.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

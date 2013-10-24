@@ -1,5 +1,4 @@
-Pseudocercospora mamaonis (Viégas & Chupp) Tak. Kobay. & Tokash. SPECIES
-=======
+# Pseudocercospora mamaonis (Viégas & Chupp) Tak. Kobay. & Tokash. SPECIES
 
 #### Status
 ACCEPTED

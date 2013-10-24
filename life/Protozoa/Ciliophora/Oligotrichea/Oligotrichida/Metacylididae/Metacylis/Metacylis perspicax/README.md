@@ -1,5 +1,4 @@
-Metacylis perspicax (Hada, 1938) SPECIES
-=======
+# Metacylis perspicax (Hada, 1938) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenoscyphus mycophilus (Fr.) Kuntze SPECIES
-=======
+# Hymenoscyphus mycophilus (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

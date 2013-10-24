@@ -1,5 +1,4 @@
-Xyloma actaeae Schwein. SPECIES
-=======
+# Xyloma actaeae Schwein. SPECIES
 
 #### Status
 ACCEPTED

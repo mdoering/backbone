@@ -1,17 +1,16 @@
-Sarcodon radicatus Banker, 1913 SPECIES
-=======
+# Sarcodon underwoodii Banker, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 5(1): 13 (1913)
+Mem. Torrey bot. Club 12: 147 (1906)
 
 #### Original name
-Sarcodon fuligineoviolaceus (Kalchbr.) Pat., 1900
+Sarcodon underwoodii Banker, 1906
 
 ### Remarks
 null

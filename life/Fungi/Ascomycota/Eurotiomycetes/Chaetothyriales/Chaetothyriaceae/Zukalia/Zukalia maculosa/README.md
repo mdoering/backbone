@@ -1,5 +1,4 @@
-Zukalia maculosa (Speg.) Sacc. SPECIES
-=======
+# Zukalia maculosa (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

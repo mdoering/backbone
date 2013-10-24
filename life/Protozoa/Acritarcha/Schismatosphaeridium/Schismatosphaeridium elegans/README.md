@@ -1,5 +1,4 @@
-Schismatosphaeridium elegans Cramer & Díez, 1976 SPECIES
-=======
+# Schismatosphaeridium elegans Cramer & Díez, 1976 SPECIES
 
 #### Status
 ACCEPTED

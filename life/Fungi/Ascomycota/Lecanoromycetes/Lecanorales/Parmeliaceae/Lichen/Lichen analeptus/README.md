@@ -1,5 +1,4 @@
-Lichen analeptus Sm. SPECIES
-=======
+# Lichen analeptus Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Squamaria deceptoria (Nyl.) M. Choisy & Werner SPECIES
-=======
+# Squamaria deceptoria (Nyl.) M. Choisy & Werner SPECIES
 
 #### Status
 ACCEPTED

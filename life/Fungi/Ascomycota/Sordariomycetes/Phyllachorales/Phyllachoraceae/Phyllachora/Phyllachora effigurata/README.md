@@ -1,17 +1,16 @@
-Phyllachora dendroidea Henn., 1908 SPECIES
-=======
+# Phyllachora effigurata Syd. & P. Syd., 1903 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 48: 106 (1908)
+Annls mycol. 1(1/2): 178 (1903)
 
 #### Original name
-Phyllachora dendroidea Henn., 1908
+Phyllachora dendritica Cooke, 1885
 
 ### Remarks
 null

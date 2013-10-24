@@ -1,5 +1,4 @@
-Sticta rutilans (Stirt.) Zahlbr. SPECIES
-=======
+# Sticta rutilans (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

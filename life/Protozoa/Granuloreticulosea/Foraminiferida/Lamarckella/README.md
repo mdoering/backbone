@@ -1,5 +1,4 @@
-Lamarckella Kaptarinko-Chernousova, 1956 GENUS
-=======
+# Lamarckella Kaptarinko-Chernousova, 1956 GENUS
 
 #### Status
 ACCEPTED

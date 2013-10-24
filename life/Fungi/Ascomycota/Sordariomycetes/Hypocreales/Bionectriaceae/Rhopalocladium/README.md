@@ -1,5 +1,4 @@
-Rhopalocladium Schroers, Samuels & W. Gams GENUS
-=======
+# Rhopalocladium Schroers, Samuels & W. Gams GENUS
 
 #### Status
 ACCEPTED

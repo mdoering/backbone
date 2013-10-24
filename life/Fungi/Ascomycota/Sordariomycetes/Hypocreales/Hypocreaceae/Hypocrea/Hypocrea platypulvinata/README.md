@@ -1,5 +1,4 @@
-Hypocrea platypulvinata Yoshim. Doi SPECIES
-=======
+# Hypocrea platypulvinata Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

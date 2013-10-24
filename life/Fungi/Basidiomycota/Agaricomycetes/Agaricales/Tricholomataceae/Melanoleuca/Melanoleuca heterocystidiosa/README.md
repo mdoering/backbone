@@ -1,17 +1,16 @@
-Melanoleuca heterocystidiosa f. heterocystidiosa FORM
-=======
+# Melanoleuca heterocystidiosa (Bon & Beller) Bon SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Docums Mycol. 14(no. 53): 6 (1984)
 
 #### Original name
-null
+Melanoleuca subpulverulenta var. heterocystidiosa Beller & Bon
 
 ### Remarks
 null

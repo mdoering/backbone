@@ -1,5 +1,4 @@
-Ovularia peltigerae Keissl. SPECIES
-=======
+# Ovularia peltigerae Keissl. SPECIES
 
 #### Status
 ACCEPTED

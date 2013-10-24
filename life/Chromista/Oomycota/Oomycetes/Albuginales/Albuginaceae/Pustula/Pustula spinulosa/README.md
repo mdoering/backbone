@@ -1,14 +1,13 @@
-Cystopus spinulosus de Bary, 1862 SPECIES
-=======
+# Pustula spinulosa (de Bary) Thines, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Rabenhorst, Fungi europ. exsicc. no. 479 (1862)
+Mycotaxon 92: 455 (2005)
 
 #### Original name
 Cystopus spinulosus de Bary, 1862

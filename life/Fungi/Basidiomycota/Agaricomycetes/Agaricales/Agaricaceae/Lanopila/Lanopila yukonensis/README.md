@@ -1,5 +1,4 @@
-Lanopila yukonensis Lloyd SPECIES
-=======
+# Lanopila yukonensis Lloyd SPECIES
 
 #### Status
 ACCEPTED

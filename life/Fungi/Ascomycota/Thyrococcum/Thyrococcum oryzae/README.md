@@ -1,5 +1,4 @@
-Thyrococcum oryzae Hara SPECIES
-=======
+# Thyrococcum oryzae Hara SPECIES
 
 #### Status
 ACCEPTED

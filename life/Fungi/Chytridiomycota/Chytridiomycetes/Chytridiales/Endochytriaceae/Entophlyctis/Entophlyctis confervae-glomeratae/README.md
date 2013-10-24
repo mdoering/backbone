@@ -1,17 +1,16 @@
-Chytridium rhizinum Schenk, 1858 SPECIES
-=======
+# Entophlyctis confervae-glomeratae (Cienk.) Sparrow, 1943 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Aquatic Phycomycetes exclusive of the Saprolegniaceae and Pythium 258 (1943)
 
 #### Original name
-null
+Rhizidium confervae-glomeratae Cienk., 1857
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Septoria arenariae Rostr. SPECIES
-=======
+# Septoria arenariae Rostr. SPECIES
 
 #### Status
 ACCEPTED

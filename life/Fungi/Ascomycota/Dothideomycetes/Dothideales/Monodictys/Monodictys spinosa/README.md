@@ -1,5 +1,4 @@
-Monodictys spinosa Mercado, Heredia & J. Mena SPECIES
-=======
+# Monodictys spinosa Mercado, Heredia & J. Mena SPECIES
 
 #### Status
 ACCEPTED

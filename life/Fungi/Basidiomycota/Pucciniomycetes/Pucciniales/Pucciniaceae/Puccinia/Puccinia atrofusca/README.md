@@ -1,5 +1,4 @@
-Puccinia atrofusca (Dudley & C.H. Thomps.) Holw. SPECIES
-=======
+# Puccinia atrofusca (Dudley & C.H. Thomps.) Holw. SPECIES
 
 #### Status
 ACCEPTED

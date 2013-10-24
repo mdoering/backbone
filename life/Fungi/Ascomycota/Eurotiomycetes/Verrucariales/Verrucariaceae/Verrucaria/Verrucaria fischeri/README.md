@@ -1,5 +1,4 @@
-Verrucaria fischeri Müll. Arg. SPECIES
-=======
+# Verrucaria fischeri Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

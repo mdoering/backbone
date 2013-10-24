@@ -1,5 +1,4 @@
-Claustrosporidiidae FAMILY
-=======
+# Claustrosporidiidae FAMILY
 
 #### Status
 ACCEPTED

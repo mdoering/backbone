@@ -1,5 +1,4 @@
-Agaricus cocolla Scop. SPECIES
-=======
+# Agaricus cocolla Scop. SPECIES
 
 #### Status
 ACCEPTED

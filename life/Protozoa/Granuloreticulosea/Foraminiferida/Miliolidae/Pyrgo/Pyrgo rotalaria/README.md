@@ -1,5 +1,4 @@
-Pyrgo rotalaria SPECIES
-=======
+# Pyrgo rotalaria SPECIES
 
 #### Status
 ACCEPTED

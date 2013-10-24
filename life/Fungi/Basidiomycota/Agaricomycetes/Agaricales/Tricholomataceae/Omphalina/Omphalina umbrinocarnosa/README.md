@@ -1,5 +1,4 @@
-Omphalina umbrinocarnosa Raithelh. SPECIES
-=======
+# Omphalina umbrinocarnosa Raithelh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strigula submuriformis (R.C. Harris) R.C. Harris SPECIES
-=======
+# Strigula submuriformis (R.C. Harris) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

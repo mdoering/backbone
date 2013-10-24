@@ -1,5 +1,4 @@
-Lecidea rosea Schaer. SPECIES
-=======
+# Lecidea rosea Schaer. SPECIES
 
 #### Status
 ACCEPTED

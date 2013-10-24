@@ -1,5 +1,4 @@
-Leotia aurantipes (S. Imai) F.L. Tai SPECIES
-=======
+# Leotia aurantipes (S. Imai) F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

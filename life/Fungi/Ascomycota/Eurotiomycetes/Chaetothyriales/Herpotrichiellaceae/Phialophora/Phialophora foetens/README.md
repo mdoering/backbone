@@ -1,5 +1,4 @@
-Phialophora foetens W. Gams & Domsch, 1970 SPECIES
-=======
+# Phialophora foetens W. Gams & Domsch, 1970 SPECIES
 
 #### Status
 ACCEPTED

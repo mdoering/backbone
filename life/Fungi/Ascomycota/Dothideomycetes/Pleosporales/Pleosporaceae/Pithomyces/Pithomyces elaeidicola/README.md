@@ -1,5 +1,4 @@
-Pithomyces elaeidicola M.B. Ellis SPECIES
-=======
+# Pithomyces elaeidicola M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

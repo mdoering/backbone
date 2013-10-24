@@ -1,5 +1,4 @@
-Baeomyces fuscorufescens Vain. SPECIES
-=======
+# Baeomyces fuscorufescens Vain. SPECIES
 
 #### Status
 ACCEPTED

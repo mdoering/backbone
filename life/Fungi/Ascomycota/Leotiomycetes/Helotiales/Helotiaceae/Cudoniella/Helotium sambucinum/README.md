@@ -1,5 +1,4 @@
-Helotium sambucinum P. Crouan & H. Crouan SPECIES
-=======
+# Helotium sambucinum P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sapromyces dubius Fritsch SPECIES
-=======
+# Sapromyces dubius Fritsch SPECIES
 
 #### Status
 ACCEPTED

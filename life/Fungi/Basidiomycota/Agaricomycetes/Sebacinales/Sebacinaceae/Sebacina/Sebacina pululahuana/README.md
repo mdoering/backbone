@@ -1,5 +1,4 @@
-Sebacina pululahuana (Pat.) D.P. Rogers SPECIES
-=======
+# Sebacina pululahuana (Pat.) D.P. Rogers SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bolivinita Cushman, 1927 GENUS
-=======
+# Bolivinita Cushman, 1927 GENUS
 
 #### Status
 ACCEPTED

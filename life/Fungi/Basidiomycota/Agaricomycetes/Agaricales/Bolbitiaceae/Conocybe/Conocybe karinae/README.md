@@ -1,5 +1,4 @@
-Conocybe karinae Gubitz & Hauskn. SPECIES
-=======
+# Conocybe karinae Gubitz & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

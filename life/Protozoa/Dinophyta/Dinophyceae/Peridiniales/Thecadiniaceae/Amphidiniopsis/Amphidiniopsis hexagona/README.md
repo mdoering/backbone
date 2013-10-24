@@ -1,5 +1,4 @@
-Amphidiniopsis hexagona S. Yoshimatsu, S. Toriumi, & J.D. Dodge SPECIES
-=======
+# Amphidiniopsis hexagona S. Yoshimatsu, S. Toriumi, & J.D. Dodge SPECIES
 
 #### Status
 ACCEPTED

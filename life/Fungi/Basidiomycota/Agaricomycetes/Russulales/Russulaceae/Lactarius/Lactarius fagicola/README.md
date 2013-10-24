@@ -1,5 +1,4 @@
-Lactarius fagicola A.H. Sm. & Hesler SPECIES
-=======
+# Lactarius fagicola A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

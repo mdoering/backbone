@@ -1,5 +1,4 @@
-Lycoperdon stellare (Peck) Lloyd SPECIES
-=======
+# Lycoperdon stellare (Peck) Lloyd SPECIES
 
 #### Status
 ACCEPTED

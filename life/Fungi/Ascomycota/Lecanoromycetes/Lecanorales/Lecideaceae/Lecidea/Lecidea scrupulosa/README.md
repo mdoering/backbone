@@ -1,5 +1,4 @@
-Lecidea scrupulosa (Eckfeldt) H. Magn. SPECIES
-=======
+# Lecidea scrupulosa (Eckfeldt) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

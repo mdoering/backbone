@@ -1,5 +1,4 @@
-Trapelina cotaria (Ach.) Motyka SPECIES
-=======
+# Trapelina cotaria (Ach.) Motyka SPECIES
 
 #### Status
 ACCEPTED

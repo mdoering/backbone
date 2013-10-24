@@ -1,5 +1,4 @@
-Lysobacter concretionis Bae et al., 2005 SPECIES
-=======
+# Lysobacter concretionis Bae et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

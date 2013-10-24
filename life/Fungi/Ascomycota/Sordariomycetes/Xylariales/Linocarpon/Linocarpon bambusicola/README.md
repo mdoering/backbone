@@ -1,5 +1,4 @@
-Linocarpon bambusicola L. Cai & K.D. Hyde, 2004 SPECIES
-=======
+# Linocarpon bambusicola L. Cai & K.D. Hyde, 2004 SPECIES
 
 #### Status
 ACCEPTED

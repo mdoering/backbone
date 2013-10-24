@@ -1,5 +1,4 @@
-Boletus lychnipes Halling & G.M. Muell. SPECIES
-=======
+# Boletus lychnipes Halling & G.M. Muell. SPECIES
 
 #### Status
 ACCEPTED

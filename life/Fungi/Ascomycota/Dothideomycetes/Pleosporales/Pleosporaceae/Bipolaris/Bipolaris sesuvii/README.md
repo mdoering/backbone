@@ -1,5 +1,4 @@
-Bipolaris sesuvii J.Z. Zhang SPECIES
-=======
+# Bipolaris sesuvii J.Z. Zhang SPECIES
 
 #### Status
 ACCEPTED

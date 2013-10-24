@@ -1,5 +1,4 @@
-Lecanora incurvodentata (Mereschk.) Motyka SPECIES
-=======
+# Lecanora incurvodentata (Mereschk.) Motyka SPECIES
 
 #### Status
 ACCEPTED

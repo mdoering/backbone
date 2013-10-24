@@ -1,5 +1,4 @@
-Crepidotus tahquamenonensis Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus tahquamenonensis Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

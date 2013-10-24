@@ -1,5 +1,4 @@
-Sphaeronaema veratrinum Sacc. SPECIES
-=======
+# Sphaeronaema veratrinum Sacc. SPECIES
 
 #### Status
 ACCEPTED

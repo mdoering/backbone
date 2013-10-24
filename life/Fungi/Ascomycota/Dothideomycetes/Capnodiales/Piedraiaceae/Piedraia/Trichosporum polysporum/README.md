@@ -1,5 +1,4 @@
-Trichosporum polysporum (Corda) Sacc. SPECIES
-=======
+# Trichosporum polysporum (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

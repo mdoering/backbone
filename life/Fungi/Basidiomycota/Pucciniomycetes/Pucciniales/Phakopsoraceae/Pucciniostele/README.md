@@ -1,17 +1,16 @@
-Klastopsora Dietel GENUS
-=======
+# Pucciniostele Tranzschel & Kom. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 2(1): 26 (1904)
+Trudy imp. S-peterb. Obshch. Estest. 30: 138 (1899)
 
 #### Original name
-Klastopsora Dietel
+Pucciniostele Tranzschel & Kom.
 
 ### Remarks
 null

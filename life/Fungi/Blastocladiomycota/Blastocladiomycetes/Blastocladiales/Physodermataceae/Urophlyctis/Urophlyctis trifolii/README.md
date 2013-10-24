@@ -1,5 +1,4 @@
-Urophlyctis trifolii (Pass.) Magnus SPECIES
-=======
+# Urophlyctis trifolii (Pass.) Magnus SPECIES
 
 #### Status
 ACCEPTED

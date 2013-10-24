@@ -1,5 +1,4 @@
-Lepiota inoculata (Fr.) Sacc. SPECIES
-=======
+# Lepiota inoculata (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

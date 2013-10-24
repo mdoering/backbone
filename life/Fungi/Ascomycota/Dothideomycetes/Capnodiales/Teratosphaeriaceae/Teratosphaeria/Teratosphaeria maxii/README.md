@@ -1,5 +1,4 @@
-Teratosphaeria maxii (Crous) Crous & U. Braun, 2007 SPECIES
-=======
+# Teratosphaeria maxii (Crous) Crous & U. Braun, 2007 SPECIES
 
 #### Status
 ACCEPTED

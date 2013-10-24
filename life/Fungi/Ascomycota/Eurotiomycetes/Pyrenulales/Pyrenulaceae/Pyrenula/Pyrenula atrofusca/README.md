@@ -1,5 +1,4 @@
-Pyrenula atrofusca Müll. Arg. SPECIES
-=======
+# Pyrenula atrofusca Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

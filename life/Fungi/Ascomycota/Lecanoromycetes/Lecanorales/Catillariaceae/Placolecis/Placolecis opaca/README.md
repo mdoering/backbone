@@ -1,14 +1,13 @@
-Biatora opaca (Dufour) Jatta SPECIES
-=======
+# Placolecis opaca (Dufour) Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 79: 317 (1984)
 
 #### Original name
 Lecidea opaca Dufour

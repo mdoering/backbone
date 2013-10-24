@@ -1,14 +1,13 @@
-Torula bantiana Sacc., 1912 SPECIES
-=======
+# Cladophialophora bantiana (Sacc.) de Hoog, Kwon-Chung & McGinnis, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 10(3): 320 (1912)
+in de Hoog, Guého, Masclaux, Gerrits van den Ende, Kwon-Chung & ?, J. Med. Vet. Mycol. 33(5): 343 (1995)
 
 #### Original name
 Torula bantiana Sacc., 1912

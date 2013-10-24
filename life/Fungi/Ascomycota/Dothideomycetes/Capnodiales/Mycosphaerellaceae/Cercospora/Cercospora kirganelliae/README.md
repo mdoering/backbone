@@ -1,5 +1,4 @@
-Cercospora kirganelliae Thirum. & Govindu SPECIES
-=======
+# Cercospora kirganelliae Thirum. & Govindu SPECIES
 
 #### Status
 ACCEPTED

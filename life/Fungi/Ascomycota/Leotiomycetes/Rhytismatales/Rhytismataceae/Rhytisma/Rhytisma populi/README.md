@@ -1,5 +1,4 @@
-Rhytisma populi Heer SPECIES
-=======
+# Rhytisma populi Heer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius brunneocoeralescens Rob. Henry SPECIES
-=======
+# Cortinarius brunneocoeralescens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

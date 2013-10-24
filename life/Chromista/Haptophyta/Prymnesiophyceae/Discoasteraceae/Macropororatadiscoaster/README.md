@@ -1,5 +1,4 @@
-Macropororatadiscoaster Hou Kui, Tian Xinyou, Chen Yancheng, Xuan Zhiqiang, Liu Xiuqing & Bo Junsheng, 1983 GENUS
-=======
+# Macropororatadiscoaster Hou Kui, Tian Xinyou, Chen Yancheng, Xuan Zhiqiang, Liu Xiuqing & Bo Junsheng, 1983 GENUS
 
 #### Status
 ACCEPTED

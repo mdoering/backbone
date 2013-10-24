@@ -1,5 +1,4 @@
-Caloplaca dispersa B. de Lesd. SPECIES
-=======
+# Caloplaca dispersa B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

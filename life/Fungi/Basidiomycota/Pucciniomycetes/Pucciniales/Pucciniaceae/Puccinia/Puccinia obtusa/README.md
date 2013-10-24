@@ -1,5 +1,4 @@
-Puccinia obtusa J. Schröt. SPECIES
-=======
+# Puccinia obtusa J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

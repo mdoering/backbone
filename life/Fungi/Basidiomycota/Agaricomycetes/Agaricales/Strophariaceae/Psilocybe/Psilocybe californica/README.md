@@ -1,5 +1,4 @@
-Psilocybe californica Earle SPECIES
-=======
+# Psilocybe californica Earle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botrytis elegans Corda SPECIES
-=======
+# Botrytis elegans Corda SPECIES
 
 #### Status
 ACCEPTED

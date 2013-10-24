@@ -1,17 +1,16 @@
-Endoxyla capparidis R. Rao SPECIES
-=======
+# Endoxyla capparis R. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 25(1-6): 54 (1972)
 
 #### Original name
-Endoxyla capparidis R. Rao
+Endoxyla capparis R. Rao
 
 ### Remarks
 null

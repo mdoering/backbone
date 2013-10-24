@@ -1,5 +1,4 @@
-Septoria potentillae-centrigranae Sawada SPECIES
-=======
+# Septoria potentillae-centrigranae Sawada SPECIES
 
 #### Status
 ACCEPTED

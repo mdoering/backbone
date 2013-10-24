@@ -1,5 +1,4 @@
-Pleospora minuartiae Gucevic SPECIES
-=======
+# Pleospora minuartiae Gucevic SPECIES
 
 #### Status
 ACCEPTED

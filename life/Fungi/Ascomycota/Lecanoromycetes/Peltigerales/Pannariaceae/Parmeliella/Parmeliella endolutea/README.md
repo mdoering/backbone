@@ -1,5 +1,4 @@
-Parmeliella endolutea P.M. Jørg. SPECIES
-=======
+# Parmeliella endolutea P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

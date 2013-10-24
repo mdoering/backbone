@@ -1,5 +1,4 @@
-Pagidospora Drechsler GENUS
-=======
+# Pagidospora Drechsler GENUS
 
 #### Status
 ACCEPTED

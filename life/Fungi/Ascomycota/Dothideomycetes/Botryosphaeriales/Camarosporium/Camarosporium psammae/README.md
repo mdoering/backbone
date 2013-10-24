@@ -1,5 +1,4 @@
-Camarosporium psammae Nann. SPECIES
-=======
+# Camarosporium psammae Nann. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protoperidinium angustum (P. Dangeard, 1932) Balech, 1974 SPECIES
-=======
+# Protoperidinium angustum (P. Dangeard, 1932) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

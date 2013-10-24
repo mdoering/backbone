@@ -1,17 +1,16 @@
-Peronospora aestivalis f. medicaginis-falcatae (Thüm.) Savul. & Rayss FORM
-=======
+# Peronospora aestivalis Syd., 1923 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 28(3-4): 312 (1930)
+in GSum. , Beitr. Monogr. die Gattung Peronospora Corda 5(4): 200 (1923)
 
 #### Original name
-Uromyces medicaginis-falcatae G. Winter
+Peronospora aestivalis Syd., 1923
 
 ### Remarks
 null

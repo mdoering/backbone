@@ -1,5 +1,4 @@
-Physcia carassensis Vain. SPECIES
-=======
+# Physcia carassensis Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caribeanella polystoma SPECIES
-=======
+# Caribeanella polystoma SPECIES
 
 #### Status
 ACCEPTED

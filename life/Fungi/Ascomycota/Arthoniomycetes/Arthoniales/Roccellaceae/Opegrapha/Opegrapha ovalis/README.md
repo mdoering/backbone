@@ -1,5 +1,4 @@
-Opegrapha ovalis Chevall. SPECIES
-=======
+# Opegrapha ovalis Chevall. SPECIES
 
 #### Status
 ACCEPTED

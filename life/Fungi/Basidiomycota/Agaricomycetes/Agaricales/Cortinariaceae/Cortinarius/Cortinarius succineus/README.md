@@ -1,5 +1,4 @@
-Cortinarius succineus M.M. Moser SPECIES
-=======
+# Cortinarius succineus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

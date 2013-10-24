@@ -1,5 +1,4 @@
-Tubercularia acinorum Cavara SPECIES
-=======
+# Tubercularia acinorum Cavara SPECIES
 
 #### Status
 ACCEPTED

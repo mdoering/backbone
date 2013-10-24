@@ -1,5 +1,4 @@
-Eremotheca coffeana Bat. & I.H. Lima SPECIES
-=======
+# Eremotheca coffeana Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

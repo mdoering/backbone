@@ -1,5 +1,4 @@
-Pseudocercospora bignoniacearum B.K. Gupta & Kamal SPECIES
-=======
+# Pseudocercospora bignoniacearum B.K. Gupta & Kamal SPECIES
 
 #### Status
 ACCEPTED

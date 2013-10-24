@@ -1,5 +1,4 @@
-Hydnomerulius Jarosch & Besl, 2001 GENUS
-=======
+# Hydnomerulius Jarosch & Besl, 2001 GENUS
 
 #### Status
 ACCEPTED

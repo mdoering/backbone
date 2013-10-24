@@ -1,5 +1,4 @@
-Lecanora trachyticola Zahlbr. SPECIES
-=======
+# Lecanora trachyticola Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hormiscium aurantiacum J. Lindau SPECIES
-=======
+# Hormiscium aurantiacum J. Lindau SPECIES
 
 #### Status
 ACCEPTED

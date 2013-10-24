@@ -1,5 +1,4 @@
-Pyrgo ringens (Lamarck, 1804) SPECIES
-=======
+# Pyrgo ringens (Lamarck, 1804) SPECIES
 
 #### Status
 ACCEPTED

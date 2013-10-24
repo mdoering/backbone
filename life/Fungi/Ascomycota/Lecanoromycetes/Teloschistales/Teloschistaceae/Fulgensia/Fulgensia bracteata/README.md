@@ -1,17 +1,16 @@
-Fulgensia bracteata subsp. bracteata SUBSPECIES
-=======
+# Fulgensia bracteata (Hoffm.) Räsänen SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 8: 585 (1931)
+null
 
 #### Original name
-Psora bracteata Hoffm.
+null
 
 ### Remarks
 null

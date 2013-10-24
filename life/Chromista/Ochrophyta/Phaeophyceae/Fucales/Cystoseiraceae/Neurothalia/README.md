@@ -1,5 +1,4 @@
-Neurothalia Sonder GENUS
-=======
+# Neurothalia Sonder GENUS
 
 #### Status
 ACCEPTED

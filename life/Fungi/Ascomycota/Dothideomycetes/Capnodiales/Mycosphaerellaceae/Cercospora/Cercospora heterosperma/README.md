@@ -1,5 +1,4 @@
-Cercospora heterosperma Bres. SPECIES
-=======
+# Cercospora heterosperma Bres. SPECIES
 
 #### Status
 ACCEPTED

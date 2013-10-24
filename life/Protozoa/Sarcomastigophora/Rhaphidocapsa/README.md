@@ -1,5 +1,4 @@
-Rhaphidocapsa Haeckel, 1887 GENUS
-=======
+# Rhaphidocapsa Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

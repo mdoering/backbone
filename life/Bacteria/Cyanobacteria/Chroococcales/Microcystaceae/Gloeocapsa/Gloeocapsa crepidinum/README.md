@@ -1,5 +1,4 @@
-Gloeocapsa crepidinum Thuret SPECIES
-=======
+# Gloeocapsa crepidinum Thuret SPECIES
 
 #### Status
 ACCEPTED

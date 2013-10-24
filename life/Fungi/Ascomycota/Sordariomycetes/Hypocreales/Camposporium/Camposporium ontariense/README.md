@@ -1,5 +1,4 @@
-Camposporium ontariense Matsush., 1983 SPECIES
-=======
+# Camposporium ontariense Matsush., 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sparassiella Schwarzman GENUS
-=======
+# Sparassiella Schwarzman GENUS
 
 #### Status
 ACCEPTED

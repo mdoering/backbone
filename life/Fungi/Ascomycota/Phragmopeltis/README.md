@@ -1,17 +1,16 @@
-Methysterostomella Speg. GENUS
-=======
+# Phragmopeltis Henn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Mus. nac. B. Aires, Ser. 3 13: 396 (1910)
+Hedwigia 43: 392 (1904)
 
 #### Original name
-Methysterostomella Speg.
+Phragmopeltis Henn.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Verrucaria firmula Nyl. SPECIES
-=======
+# Verrucaria firmula Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeophleospora capensis Joanne E. Taylor & Crous SPECIES
-=======
+# Phaeophleospora capensis Joanne E. Taylor & Crous SPECIES
 
 #### Status
 ACCEPTED

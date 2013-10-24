@@ -1,14 +1,13 @@
-Gymnoascus siglerae Arx, 1981 SPECIES
-=======
+# Uncinocarpus reesii Sigler & G.F. Orr, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. Fungi Sporul. Cult. (Vaduz), Edn 3 132 (1981)
+in Sigler & Carmichael, Mycotaxon 4(2): 462 (1976)
 
 #### Original name
 Uncinocarpus reesii Sigler & G.F. Orr, 1976

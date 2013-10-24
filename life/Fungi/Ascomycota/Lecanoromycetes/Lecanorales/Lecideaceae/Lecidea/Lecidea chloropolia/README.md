@@ -1,5 +1,4 @@
-Lecidea chloropolia Fr. SPECIES
-=======
+# Lecidea chloropolia Fr. SPECIES
 
 #### Status
 ACCEPTED

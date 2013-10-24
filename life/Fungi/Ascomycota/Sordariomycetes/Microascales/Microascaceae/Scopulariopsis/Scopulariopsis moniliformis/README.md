@@ -1,17 +1,16 @@
-Scopulariopsis moniliforme C. Moreau SPECIES
-=======
+# Scopulariopsis moniliformis C. Moreau SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 85: 131 (1969)
 
 #### Original name
-Scopulariopsis moniliforme C. Moreau
+Scopulariopsis moniliformis C. Moreau
 
 ### Remarks
 null

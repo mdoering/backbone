@@ -1,5 +1,4 @@
-Menegazzia faminensis Elix SPECIES
-=======
+# Menegazzia faminensis Elix SPECIES
 
 #### Status
 ACCEPTED

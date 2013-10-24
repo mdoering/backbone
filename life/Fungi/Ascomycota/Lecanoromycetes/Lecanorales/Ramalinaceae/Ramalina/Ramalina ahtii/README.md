@@ -1,5 +1,4 @@
-Ramalina ahtii Kashiw. & T. H. Nash SPECIES
-=======
+# Ramalina ahtii Kashiw. & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

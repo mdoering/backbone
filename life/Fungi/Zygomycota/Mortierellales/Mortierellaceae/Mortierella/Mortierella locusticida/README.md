@@ -1,5 +1,4 @@
-Mortierella locusticida (Lindau) Wehmer SPECIES
-=======
+# Mortierella locusticida (Lindau) Wehmer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea fertilis (Körb.) Nyl. SPECIES
-=======
+# Lecidea fertilis (Körb.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

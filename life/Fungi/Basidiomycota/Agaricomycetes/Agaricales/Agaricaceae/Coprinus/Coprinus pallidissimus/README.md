@@ -1,5 +1,4 @@
-Coprinus pallidissimus Romagn. SPECIES
-=======
+# Coprinus pallidissimus Romagn. SPECIES
 
 #### Status
 ACCEPTED

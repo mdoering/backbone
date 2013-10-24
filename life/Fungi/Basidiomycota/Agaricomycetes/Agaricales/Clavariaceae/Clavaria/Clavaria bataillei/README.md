@@ -1,5 +1,4 @@
-Clavaria bataillei (Maire) Sacc. & Trotter SPECIES
-=======
+# Clavaria bataillei (Maire) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

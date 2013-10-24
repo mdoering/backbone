@@ -1,5 +1,4 @@
-Entosordaria rehmii (Thüm.) Höhn. SPECIES
-=======
+# Entosordaria rehmii (Thüm.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Histrio quadrinucleatus Sick, 1933 SPECIES
-=======
+# Sterkiella quadrinucleatus (Sick, 1933) Berger, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

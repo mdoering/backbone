@@ -1,5 +1,4 @@
-Nucellosphaeridium zonatum P.K. Maithy SPECIES
-=======
+# Nucellosphaeridium zonatum P.K. Maithy SPECIES
 
 #### Status
 ACCEPTED

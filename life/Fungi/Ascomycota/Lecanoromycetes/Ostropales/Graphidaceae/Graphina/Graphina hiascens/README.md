@@ -1,14 +1,13 @@
-Graphis hiascens (Fée) A.W. Archer SPECIES
-=======
+# Graphina hiascens (Fée) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Telopea 11(1): 73 (2005)
+Mém. Soc. Phys. et Hist. Nat. 29(8): 42 (1887)
 
 #### Original name
 Opegrapha hiascens Fée

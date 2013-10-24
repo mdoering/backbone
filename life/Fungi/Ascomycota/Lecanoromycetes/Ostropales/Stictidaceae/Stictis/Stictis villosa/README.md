@@ -1,5 +1,4 @@
-Stictis villosa Fr. SPECIES
-=======
+# Stictis villosa Fr. SPECIES
 
 #### Status
 ACCEPTED

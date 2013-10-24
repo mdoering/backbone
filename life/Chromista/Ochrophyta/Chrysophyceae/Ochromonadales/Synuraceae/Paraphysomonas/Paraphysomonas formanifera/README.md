@@ -1,5 +1,4 @@
-Paraphysomonas formanifera Lucas SPECIES
-=======
+# Paraphysomonas formanifera Lucas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epipyxis condensata (Mack) Hilliard & Asmund SPECIES
-=======
+# Epipyxis condensata (Mack) Hilliard & Asmund SPECIES
 
 #### Status
 ACCEPTED

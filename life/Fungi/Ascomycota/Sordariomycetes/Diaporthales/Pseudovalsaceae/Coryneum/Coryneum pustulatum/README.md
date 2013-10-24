@@ -1,5 +1,4 @@
-Coryneum pustulatum Peck SPECIES
-=======
+# Coryneum pustulatum Peck SPECIES
 
 #### Status
 ACCEPTED

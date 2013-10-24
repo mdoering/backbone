@@ -1,17 +1,16 @@
-Dryodon cirrhatus (Pers.) Quél., 1886 SPECIES
-=======
+# Hericium cirrhatum (Pers.) Nikol., 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Acta Inst. Bot. Acad. Sci. USSR Plant. Crypt. , Fasc. II 6: 343 (1950)
 
 #### Original name
-null
+Hydnum cirrhatum Pers., 1794
 
 ### Remarks
 null

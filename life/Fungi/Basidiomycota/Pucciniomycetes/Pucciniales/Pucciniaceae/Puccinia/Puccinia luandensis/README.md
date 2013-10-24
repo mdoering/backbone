@@ -1,5 +1,4 @@
-Puccinia luandensis P. Syd. & Syd. SPECIES
-=======
+# Puccinia luandensis P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

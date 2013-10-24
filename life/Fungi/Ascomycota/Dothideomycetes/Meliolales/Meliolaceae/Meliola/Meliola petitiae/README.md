@@ -1,5 +1,4 @@
-Meliola petitiae Hansf. SPECIES
-=======
+# Meliola petitiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

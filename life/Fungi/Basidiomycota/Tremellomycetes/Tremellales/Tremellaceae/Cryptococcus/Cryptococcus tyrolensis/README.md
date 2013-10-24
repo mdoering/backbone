@@ -1,5 +1,4 @@
-Cryptococcus tyrolensis Vishniac & Baharaeen SPECIES
-=======
+# Cryptococcus tyrolensis Vishniac & Baharaeen SPECIES
 
 #### Status
 ACCEPTED

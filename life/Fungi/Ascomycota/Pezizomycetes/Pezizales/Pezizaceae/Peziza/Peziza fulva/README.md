@@ -1,5 +1,4 @@
-Peziza fulva Schumach. SPECIES
-=======
+# Peziza fulva Schumach. SPECIES
 
 #### Status
 ACCEPTED

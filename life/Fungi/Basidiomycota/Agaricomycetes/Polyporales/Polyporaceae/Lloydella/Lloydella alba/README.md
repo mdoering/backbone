@@ -1,5 +1,4 @@
-Lloydella alba var. alba Rick VARIETY
-=======
+# Lloydella alba Rick SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Brotéria, sér. Ci. Nat. 9: 84 (1940)
 
 #### Original name
-Lloydella alba var. alba Rick
+Lloydella alba Rick
 
 ### Remarks
 null

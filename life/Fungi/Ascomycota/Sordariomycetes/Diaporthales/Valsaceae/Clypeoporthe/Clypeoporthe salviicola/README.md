@@ -1,5 +1,4 @@
-Clypeoporthe salviicola (Cooke & Ellis) Tasl. SPECIES
-=======
+# Clypeoporthe salviicola (Cooke & Ellis) Tasl. SPECIES
 
 #### Status
 ACCEPTED

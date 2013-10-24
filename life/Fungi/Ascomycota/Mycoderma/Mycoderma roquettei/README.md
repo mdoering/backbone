@@ -1,8 +1,7 @@
-Mycoderma roquetti (Fonseca) Vuill. SPECIES
-=======
+# Mycoderma roquettei (Fonseca) Vuill. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

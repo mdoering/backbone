@@ -1,5 +1,4 @@
-Puccinia fraseri var. fraseri VARIETY
-=======
+# Puccinia fraseri Arthur SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Torrey bot. Club 42: 591 (1915)
 
 #### Original name
-Puccinia fraseri var. fraseri
+Puccinia fraseri Arthur
 
 ### Remarks
 null

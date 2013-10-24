@@ -1,5 +1,4 @@
-Eutypella ruborum Syd. & P. Syd. SPECIES
-=======
+# Eutypella ruborum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

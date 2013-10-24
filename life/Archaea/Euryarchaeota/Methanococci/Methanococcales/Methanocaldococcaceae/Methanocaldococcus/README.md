@@ -1,5 +1,4 @@
-Methanocaldococcus Whitman, 2002 GENUS
-=======
+# Methanocaldococcus Whitman, 2002 GENUS
 
 #### Status
 ACCEPTED

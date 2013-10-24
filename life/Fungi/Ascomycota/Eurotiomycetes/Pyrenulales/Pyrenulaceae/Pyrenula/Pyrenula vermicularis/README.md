@@ -1,5 +1,4 @@
-Pyrenula vermicularis (Kashiw. & Kurok.) H. Harada SPECIES
-=======
+# Pyrenula vermicularis (Kashiw. & Kurok.) H. Harada SPECIES
 
 #### Status
 ACCEPTED

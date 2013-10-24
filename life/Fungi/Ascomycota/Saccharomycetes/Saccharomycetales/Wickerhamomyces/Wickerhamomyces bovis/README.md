@@ -1,5 +1,4 @@
-Wickerhamomyces bovis (Uden & Carmo Souza) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
-=======
+# Wickerhamomyces bovis (Uden & Carmo Souza) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Catillaria subnitida Hellb. SPECIES
-=======
+# Toninia subnitida (Hellb.) Hafellner & Türk SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stapfia 76: 159 (2001)
 
 #### Original name
-null
+Catillaria subnitida Hellb.
 
 ### Remarks
 null

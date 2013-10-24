@@ -1,5 +1,4 @@
-Dicaeoma mirabilissima Kuntze SPECIES
-=======
+# Dicaeoma mirabilissima Kuntze SPECIES
 
 #### Status
 ACCEPTED

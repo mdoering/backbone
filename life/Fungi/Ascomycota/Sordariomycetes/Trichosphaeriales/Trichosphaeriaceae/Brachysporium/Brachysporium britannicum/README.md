@@ -1,5 +1,4 @@
-Brachysporium britannicum S. Hughes, 1951 SPECIES
-=======
+# Brachysporium britannicum S. Hughes, 1951 SPECIES
 
 #### Status
 ACCEPTED

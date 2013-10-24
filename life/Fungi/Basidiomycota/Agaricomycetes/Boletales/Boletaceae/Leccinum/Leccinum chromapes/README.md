@@ -1,5 +1,4 @@
-Leccinum chromapes (Frost) Singer SPECIES
-=======
+# Leccinum chromapes (Frost) Singer SPECIES
 
 #### Status
 ACCEPTED

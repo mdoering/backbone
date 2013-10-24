@@ -1,5 +1,4 @@
-Russula albolutescens McNabb, 1973 SPECIES
-=======
+# Russula albolutescens McNabb, 1973 SPECIES
 
 #### Status
 ACCEPTED

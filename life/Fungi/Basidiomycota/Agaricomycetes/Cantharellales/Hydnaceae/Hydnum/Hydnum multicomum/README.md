@@ -1,5 +1,4 @@
-Hydnum multicomum Paulet SPECIES
-=======
+# Hydnum multicomum Paulet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bicricium lethale Sorokin SPECIES
-=======
+# Bicricium lethale Sorokin SPECIES
 
 #### Status
 ACCEPTED

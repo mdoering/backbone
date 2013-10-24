@@ -1,5 +1,4 @@
-Scopulariopsis gracilis Samson, 1972 SPECIES
-=======
+# Scopulariopsis gracilis Samson, 1972 SPECIES
 
 #### Status
 ACCEPTED

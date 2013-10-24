@@ -1,5 +1,4 @@
-Rhodotorula rubella F.C. Harrison SPECIES
-=======
+# Rhodotorula rubella F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

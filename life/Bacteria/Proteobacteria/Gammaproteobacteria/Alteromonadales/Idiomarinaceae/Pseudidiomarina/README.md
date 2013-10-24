@@ -1,5 +1,4 @@
-Pseudidiomarina Jean et al., 2006 GENUS
-=======
+# Pseudidiomarina Jean et al., 2006 GENUS
 
 #### Status
 ACCEPTED

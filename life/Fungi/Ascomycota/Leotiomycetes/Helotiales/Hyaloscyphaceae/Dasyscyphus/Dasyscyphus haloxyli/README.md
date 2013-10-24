@@ -1,5 +1,4 @@
-Dasyscyphus haloxyli Kravtzev SPECIES
-=======
+# Dasyscyphus haloxyli Kravtzev SPECIES
 
 #### Status
 ACCEPTED

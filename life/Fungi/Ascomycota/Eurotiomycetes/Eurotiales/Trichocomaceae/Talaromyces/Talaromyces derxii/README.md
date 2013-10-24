@@ -1,5 +1,4 @@
-Talaromyces derxii Takada & Udagawa, 1988 SPECIES
-=======
+# Talaromyces derxii Takada & Udagawa, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phellinus ampelinus Bondartsev & Singer SPECIES
-=======
+# Phellinus ampelinus Bondartsev & Singer SPECIES
 
 #### Status
 ACCEPTED

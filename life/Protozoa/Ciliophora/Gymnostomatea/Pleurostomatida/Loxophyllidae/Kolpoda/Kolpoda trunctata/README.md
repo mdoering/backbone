@@ -1,5 +1,4 @@
-Kolpoda trunctata Bory, 1824 SPECIES
-=======
+# Kolpoda trunctata Bory, 1824 SPECIES
 
 #### Status
 ACCEPTED

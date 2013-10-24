@@ -1,5 +1,4 @@
-Pyrenula caryae R. C. Harris SPECIES
-=======
+# Pyrenula caryae R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

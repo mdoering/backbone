@@ -1,5 +1,4 @@
-Diaporthe lentaginis (Rehm) J. Reid & C. Booth SPECIES
-=======
+# Diaporthe lentaginis (Rehm) J. Reid & C. Booth SPECIES
 
 #### Status
 ACCEPTED

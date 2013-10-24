@@ -1,5 +1,4 @@
-Ditremis immersa Makhija & Patw. SPECIES
-=======
+# Ditremis immersa Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

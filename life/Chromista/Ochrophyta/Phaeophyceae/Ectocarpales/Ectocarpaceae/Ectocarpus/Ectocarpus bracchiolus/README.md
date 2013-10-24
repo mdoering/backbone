@@ -1,5 +1,4 @@
-Ectocarpus bracchiolus Lindauer SPECIES
-=======
+# Ectocarpus bracchiolus Lindauer SPECIES
 
 #### Status
 ACCEPTED

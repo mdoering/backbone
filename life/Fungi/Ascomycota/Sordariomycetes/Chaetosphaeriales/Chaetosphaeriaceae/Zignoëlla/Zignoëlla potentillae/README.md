@@ -1,5 +1,4 @@
-Zignoëlla potentillae Tracy & Earle SPECIES
-=======
+# Zignoëlla potentillae Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

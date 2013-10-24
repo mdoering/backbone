@@ -1,5 +1,4 @@
-Sporotrichum darutaeanum Roum. SPECIES
-=======
+# Sporotrichum darutaeanum Roum. SPECIES
 
 #### Status
 ACCEPTED

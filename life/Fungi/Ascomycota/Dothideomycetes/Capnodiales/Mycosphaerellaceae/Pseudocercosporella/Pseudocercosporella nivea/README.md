@@ -1,5 +1,4 @@
-Pseudocercosporella nivea (Ellis & Barthol.) Deighton SPECIES
-=======
+# Pseudocercosporella nivea (Ellis & Barthol.) Deighton SPECIES
 
 #### Status
 ACCEPTED

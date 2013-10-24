@@ -1,5 +1,4 @@
-Uromyces aristidae Ellis & Everh. SPECIES
-=======
+# Uromyces aristidae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

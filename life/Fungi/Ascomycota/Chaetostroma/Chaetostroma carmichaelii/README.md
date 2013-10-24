@@ -1,5 +1,4 @@
-Chaetostroma carmichaelii Corda SPECIES
-=======
+# Chaetostroma carmichaelii Corda SPECIES
 
 #### Status
 ACCEPTED

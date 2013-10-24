@@ -1,5 +1,4 @@
-Tulostoma albiceps Long & S. Ahmad SPECIES
-=======
+# Tulostoma albiceps Long & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

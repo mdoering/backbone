@@ -1,5 +1,4 @@
-Dyadosporonites stenosus Z.C. Song & G.X. Li SPECIES
-=======
+# Dyadosporonites stenosus Z.C. Song & G.X. Li SPECIES
 
 #### Status
 ACCEPTED

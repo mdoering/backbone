@@ -1,5 +1,4 @@
-Diaporthe polygonicola Speg. SPECIES
-=======
+# Diaporthe polygonicola Speg. SPECIES
 
 #### Status
 ACCEPTED

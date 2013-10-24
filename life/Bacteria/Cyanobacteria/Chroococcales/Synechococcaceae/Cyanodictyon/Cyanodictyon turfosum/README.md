@@ -1,5 +1,4 @@
-Cyanodictyon turfosum Lederer SPECIES
-=======
+# Cyanodictyon turfosum Lederer SPECIES
 
 #### Status
 ACCEPTED

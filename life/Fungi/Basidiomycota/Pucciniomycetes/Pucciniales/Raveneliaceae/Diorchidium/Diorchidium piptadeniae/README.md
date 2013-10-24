@@ -1,5 +1,4 @@
-Diorchidium piptadeniae Dietel SPECIES
-=======
+# Diorchidium piptadeniae Dietel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora poeciloderma Darb. SPECIES
-=======
+# Biatora poeciloderma Darb. SPECIES
 
 #### Status
 ACCEPTED

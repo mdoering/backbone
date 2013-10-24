@@ -1,5 +1,4 @@
-Dactylaria laxa R.F. Castañeda SPECIES
-=======
+# Dactylaria laxa R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza saliciphila Svrcek SPECIES
-=======
+# Peziza saliciphila Svrcek SPECIES
 
 #### Status
 ACCEPTED

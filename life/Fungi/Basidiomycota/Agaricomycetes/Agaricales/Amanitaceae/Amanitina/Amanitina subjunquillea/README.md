@@ -1,5 +1,4 @@
-Amanitina subjunquillea (S. Imai) E.-J. Gilbert SPECIES
-=======
+# Amanitina subjunquillea (S. Imai) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

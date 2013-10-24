@@ -1,5 +1,4 @@
-Peziza phlyctispora Lepr. & Mont. SPECIES
-=======
+# Peziza phlyctispora Lepr. & Mont. SPECIES
 
 #### Status
 ACCEPTED

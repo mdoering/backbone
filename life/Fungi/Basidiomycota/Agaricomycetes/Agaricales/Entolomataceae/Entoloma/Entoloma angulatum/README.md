@@ -1,5 +1,4 @@
-Entoloma angulatum (Cleland) Grgur. SPECIES
-=======
+# Entoloma angulatum (Cleland) Grgur. SPECIES
 
 #### Status
 ACCEPTED

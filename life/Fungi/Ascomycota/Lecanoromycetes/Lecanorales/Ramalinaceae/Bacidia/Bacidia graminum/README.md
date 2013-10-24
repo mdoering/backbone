@@ -1,5 +1,4 @@
-Bacidia graminum (Vain.) Zahlbr. SPECIES
-=======
+# Bacidia graminum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

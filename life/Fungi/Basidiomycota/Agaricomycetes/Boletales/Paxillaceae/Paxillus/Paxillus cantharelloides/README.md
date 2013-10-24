@@ -1,5 +1,4 @@
-Paxillus cantharelloides Henn. SPECIES
-=======
+# Paxillus cantharelloides Henn. SPECIES
 
 #### Status
 ACCEPTED

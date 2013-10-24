@@ -1,5 +1,4 @@
-Diplodia sorbi Sacc. SPECIES
-=======
+# Diplodia sorbi Sacc. SPECIES
 
 #### Status
 ACCEPTED

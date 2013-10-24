@@ -1,5 +1,4 @@
-Lactocollybia gracillima Pegler, 1977 SPECIES
-=======
+# Lactocollybia gracillima Pegler, 1977 SPECIES
 
 #### Status
 ACCEPTED

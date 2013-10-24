@@ -1,5 +1,4 @@
-Calicipedinium P. Dumitrica, 1973 GENUS
-=======
+# Calicipedinium P. Dumitrica, 1973 GENUS
 
 #### Status
 ACCEPTED

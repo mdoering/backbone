@@ -1,5 +1,4 @@
-Asterina aulica Syd. SPECIES
-=======
+# Asterina aulica Syd. SPECIES
 
 #### Status
 ACCEPTED

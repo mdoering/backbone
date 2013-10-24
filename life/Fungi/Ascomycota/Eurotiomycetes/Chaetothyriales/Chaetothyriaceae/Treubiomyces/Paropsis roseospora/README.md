@@ -1,5 +1,4 @@
-Paropsis roseospora (Höhn.) Speg. SPECIES
-=======
+# Paropsis roseospora (Höhn.) Speg. SPECIES
 
 #### Status
 ACCEPTED

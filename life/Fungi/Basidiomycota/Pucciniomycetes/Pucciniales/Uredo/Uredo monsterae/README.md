@@ -1,5 +1,4 @@
-Uredo monsterae Syd. & P. Syd. SPECIES
-=======
+# Uredo monsterae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

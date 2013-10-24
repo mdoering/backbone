@@ -1,5 +1,4 @@
-Phaeographis kinabalensis Sipman SPECIES
-=======
+# Phaeographis kinabalensis Sipman SPECIES
 
 #### Status
 ACCEPTED

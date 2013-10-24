@@ -1,5 +1,4 @@
-Trachelomonas caffra J. A. Rino SPECIES
-=======
+# Trachelomonas caffra J. A. Rino SPECIES
 
 #### Status
 ACCEPTED

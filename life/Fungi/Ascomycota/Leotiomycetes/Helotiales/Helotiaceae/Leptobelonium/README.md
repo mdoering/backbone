@@ -1,5 +1,4 @@
-Leptobelonium GENUS
-=======
+# Leptobelonium GENUS
 
 #### Status
 ACCEPTED

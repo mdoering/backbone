@@ -1,5 +1,4 @@
-Agaricus muscoides Wulfen SPECIES
-=======
+# Agaricus muscoides Wulfen SPECIES
 
 #### Status
 ACCEPTED

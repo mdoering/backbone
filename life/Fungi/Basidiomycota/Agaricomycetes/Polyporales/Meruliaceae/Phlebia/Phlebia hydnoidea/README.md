@@ -1,17 +1,16 @@
-Odontia lateritia Berk. & M.A. Curtis, 1873 SPECIES
-=======
+# Phlebia hydnoidea Schwein., 1832 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 1(no. 10): 147 (1873)
+Trans. Am. phil. Soc. , Ser. 2 4(2): 165 (1832)
 
 #### Original name
-Odontia lateritia Berk. & M.A. Curtis, 1873
+Phlebia hydnoidea Schwein., 1832
 
 ### Remarks
 null

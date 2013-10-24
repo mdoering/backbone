@@ -1,5 +1,4 @@
-Vermicularia vanillae Delacr. SPECIES
-=======
+# Vermicularia vanillae Delacr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea rubicola f. abieticola Nyl. FORM
-=======
+# Lecidea rubicola P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Die Lichenen Heidelbergs 47 (1883)
+in Nylander, Flora, Jena 52: 294 (1869)
 
 #### Original name
-Lecidea rubicola f. abieticola Nyl.
+Lecidea rubicola P. Crouan & H. Crouan
 
 ### Remarks
 null

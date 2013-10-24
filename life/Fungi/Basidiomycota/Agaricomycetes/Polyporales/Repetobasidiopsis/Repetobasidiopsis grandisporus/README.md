@@ -1,17 +1,16 @@
-Repetobasidiopsis grandispora Dhingra & Avneet P. Singh SPECIES
-=======
+# Repetobasidiopsis grandisporus Dhingra & Avn.P. Singh, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 105: 422 (2008)
 
 #### Original name
-Repetobasidiopsis grandispora Dhingra & Avneet P. Singh
+Repetobasidiopsis grandisporus Dhingra & Avn.P. Singh, 2008
 
 ### Remarks
 null

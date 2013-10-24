@@ -1,5 +1,4 @@
-Fusicladium fautreyi Deighton SPECIES
-=======
+# Fusicladium fautreyi Deighton SPECIES
 
 #### Status
 ACCEPTED

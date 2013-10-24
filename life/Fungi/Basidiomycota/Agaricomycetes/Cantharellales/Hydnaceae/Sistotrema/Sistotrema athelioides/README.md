@@ -1,5 +1,4 @@
-Sistotrema athelioides Hallenb., 1984 SPECIES
-=======
+# Sistotrema athelioides Hallenb., 1984 SPECIES
 
 #### Status
 ACCEPTED

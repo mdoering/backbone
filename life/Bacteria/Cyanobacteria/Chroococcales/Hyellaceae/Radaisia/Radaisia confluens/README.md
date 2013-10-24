@@ -1,5 +1,4 @@
-Radaisia confluens Gardner SPECIES
-=======
+# Radaisia confluens Gardner SPECIES
 
 #### Status
 ACCEPTED

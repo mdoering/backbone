@@ -1,5 +1,4 @@
-Arthopyrenia coppinsii Ravera SPECIES
-=======
+# Arthopyrenia coppinsii Ravera SPECIES
 
 #### Status
 ACCEPTED

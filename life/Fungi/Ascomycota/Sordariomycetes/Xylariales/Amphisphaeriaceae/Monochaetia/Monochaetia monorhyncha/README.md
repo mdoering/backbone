@@ -1,5 +1,4 @@
-Monochaetia monorhyncha (Speg.) Sacc. SPECIES
-=======
+# Monochaetia monorhyncha (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

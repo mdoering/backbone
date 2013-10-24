@@ -1,5 +1,4 @@
-Pleurocapsa usteriana Schmidle SPECIES
-=======
+# Pleurocapsa usteriana Schmidle SPECIES
 
 #### Status
 ACCEPTED

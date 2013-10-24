@@ -1,5 +1,4 @@
-Colletotrichum lussoniense Sacc. SPECIES
-=======
+# Colletotrichum lussoniense Sacc. SPECIES
 
 #### Status
 ACCEPTED

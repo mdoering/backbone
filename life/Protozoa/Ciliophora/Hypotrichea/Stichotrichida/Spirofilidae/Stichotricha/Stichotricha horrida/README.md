@@ -1,5 +1,4 @@
-Stichotricha horrida Moebius, 1888 SPECIES
-=======
+# Stichotricha horrida Moebius, 1888 SPECIES
 
 #### Status
 ACCEPTED

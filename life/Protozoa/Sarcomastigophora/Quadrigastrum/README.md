@@ -1,5 +1,4 @@
-Quadrigastrum O'Dogherty, 1994 GENUS
-=======
+# Quadrigastrum O'Dogherty, 1994 GENUS
 
 #### Status
 ACCEPTED

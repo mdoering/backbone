@@ -1,5 +1,4 @@
-Helminthosporium bondarzewii Pidopl. SPECIES
-=======
+# Helminthosporium bondarzewii Pidopl. SPECIES
 
 #### Status
 ACCEPTED

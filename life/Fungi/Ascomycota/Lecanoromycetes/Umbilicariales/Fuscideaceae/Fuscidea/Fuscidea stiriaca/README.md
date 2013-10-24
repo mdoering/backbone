@@ -1,5 +1,4 @@
-Fuscidea stiriaca (A. Massal.) Hafellner SPECIES
-=======
+# Fuscidea stiriaca (A. Massal.) Hafellner SPECIES
 
 #### Status
 ACCEPTED

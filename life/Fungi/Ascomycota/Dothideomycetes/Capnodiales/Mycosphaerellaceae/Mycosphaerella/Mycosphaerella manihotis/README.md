@@ -1,17 +1,16 @@
-Mycosphaerella manihotis f. sp FORM
-=======
+# Mycosphaerella manihotis Syd. & P. Syd., 1901 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Encyclop. Mycol. 28: 34 (1956)
+Bull. Herb. Boissier 1: 78 (1901)
 
 #### Original name
-Mycosphaerella manihotis f. sp
+Mycosphaerella manihotis Syd. & P. Syd., 1901
 
 ### Remarks
 null

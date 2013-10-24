@@ -1,5 +1,4 @@
-Peridermium parksianum Faull SPECIES
-=======
+# Peridermium parksianum Faull SPECIES
 
 #### Status
 ACCEPTED

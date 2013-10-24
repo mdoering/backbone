@@ -1,5 +1,4 @@
-Cercosporidium tephrosiae (S.A. Khan & M. Kamal) Deighton SPECIES
-=======
+# Cercosporidium tephrosiae (S.A. Khan & M. Kamal) Deighton SPECIES
 
 #### Status
 ACCEPTED

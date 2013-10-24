@@ -1,5 +1,4 @@
-Psora placodina (Nyl.) C.W. Dodge SPECIES
-=======
+# Psora placodina (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

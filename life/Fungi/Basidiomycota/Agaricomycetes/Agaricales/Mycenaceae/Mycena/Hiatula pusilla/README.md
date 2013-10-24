@@ -1,5 +1,4 @@
-Hiatula pusilla Berk. SPECIES
-=======
+# Hiatula pusilla Berk. SPECIES
 
 #### Status
 ACCEPTED

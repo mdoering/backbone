@@ -1,5 +1,4 @@
-Dicyma biophila (Cif.) Arx SPECIES
-=======
+# Dicyma biophila (Cif.) Arx SPECIES
 
 #### Status
 ACCEPTED

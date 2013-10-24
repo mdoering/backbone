@@ -1,5 +1,4 @@
-Mollisia sensitiva (Hazsl.) Sacc. SPECIES
-=======
+# Mollisia sensitiva (Hazsl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

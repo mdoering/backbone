@@ -1,5 +1,4 @@
-Leangium physaroides Link SPECIES
-=======
+# Leangium physaroides Link SPECIES
 
 #### Status
 ACCEPTED

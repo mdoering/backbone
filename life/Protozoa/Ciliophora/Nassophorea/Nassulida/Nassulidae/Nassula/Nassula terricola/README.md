@@ -1,5 +1,4 @@
-Nassula terricola Foissner, 1989 SPECIES
-=======
+# Nassula terricola Foissner, 1989 SPECIES
 
 #### Status
 ACCEPTED

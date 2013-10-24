@@ -1,5 +1,4 @@
-Lecanora phaeoplaca Stirt. SPECIES
-=======
+# Lecanora phaeoplaca Stirt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Comatricha irregularis var. altaica Lavrov VARIETY
-=======
+# Stemonaria irregularis (Rex) Nann.-Bremek., R. Sharma & Y. Yamam., 1984 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Nannenga-Bremekamp, Nederlandse Myxomyceten (Amsterdam), 2 Suppl. 505 (1983)
 
 #### Original name
-Comatricha irregularis var. altaica Lavrov
+Comatricha irregularis Rex, 1891
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Alternaria loliicola M. Zhang SPECIES
-=======
+# Alternaria loliicola M. Zhang SPECIES
 
 #### Status
 ACCEPTED

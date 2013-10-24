@@ -1,5 +1,4 @@
-Lecidea eburnea SPECIES
-=======
+# Lecidea eburnea SPECIES
 
 #### Status
 ACCEPTED

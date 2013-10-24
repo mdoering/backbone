@@ -1,5 +1,4 @@
-Inonotus marginatus Ryvarden, 2002 SPECIES
-=======
+# Inonotus marginatus Ryvarden, 2002 SPECIES
 
 #### Status
 ACCEPTED

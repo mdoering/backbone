@@ -1,5 +1,4 @@
-Sirothecium fragile Morgan SPECIES
-=======
+# Sirothecium fragile Morgan SPECIES
 
 #### Status
 ACCEPTED

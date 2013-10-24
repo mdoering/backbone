@@ -1,5 +1,4 @@
-Stereocaulon stalagmitiferum P.A. Duvign. SPECIES
-=======
+# Stereocaulon stalagmitiferum P.A. Duvign. SPECIES
 
 #### Status
 ACCEPTED

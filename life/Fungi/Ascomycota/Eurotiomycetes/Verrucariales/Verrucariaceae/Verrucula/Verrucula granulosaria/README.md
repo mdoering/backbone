@@ -1,17 +1,16 @@
-Verrucaria granulosaria Clauzade & Zehetl. SPECIES
-=======
+# Verrucula granulosaria (Clauzade & Zehetl.) Nav.-Ros. & Cl. Roux SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 29(3-4): 725 (1978)
+null
 
 #### Original name
-Verrucaria granulosaria Clauzade & Zehetl.
+null
 
 ### Remarks
 null

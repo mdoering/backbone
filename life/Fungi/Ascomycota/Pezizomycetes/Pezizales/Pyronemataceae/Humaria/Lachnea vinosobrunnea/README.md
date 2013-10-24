@@ -1,5 +1,4 @@
-Lachnea vinosobrunnea (Berk. & Broome) Sacc. SPECIES
-=======
+# Lachnea vinosobrunnea (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

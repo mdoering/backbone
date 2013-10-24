@@ -1,5 +1,4 @@
-Leveillula rosacearum Golovin SPECIES
-=======
+# Leveillula rosacearum Golovin SPECIES
 
 #### Status
 ACCEPTED

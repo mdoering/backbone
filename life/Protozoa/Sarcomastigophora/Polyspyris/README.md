@@ -1,5 +1,4 @@
-Polyspyris Haeckel, 1881 GENUS
-=======
+# Polyspyris Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius fagineus Morgan SPECIES
-=======
+# Marasmius fagineus Morgan SPECIES
 
 #### Status
 ACCEPTED

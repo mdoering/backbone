@@ -1,5 +1,4 @@
-Coniosporium radicicola McAlpine SPECIES
-=======
+# Coniosporium radicicola McAlpine SPECIES
 
 #### Status
 ACCEPTED

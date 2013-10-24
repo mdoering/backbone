@@ -1,5 +1,4 @@
-Agaricus equinus Alb. & Schwein. SPECIES
-=======
+# Agaricus equinus Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

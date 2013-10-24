@@ -1,5 +1,4 @@
-Cortinarius ochraceocinctus M.M. Moser SPECIES
-=======
+# Cortinarius ochraceocinctus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

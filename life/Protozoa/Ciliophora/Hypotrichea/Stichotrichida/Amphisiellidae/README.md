@@ -1,5 +1,4 @@
-Amphisiellidae Jankowksi, 1979 FAMILY
-=======
+# Amphisiellidae Jankowksi, 1979 FAMILY
 
 #### Status
 ACCEPTED

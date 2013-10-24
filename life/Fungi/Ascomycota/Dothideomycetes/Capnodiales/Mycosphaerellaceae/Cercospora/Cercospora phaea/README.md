@@ -1,5 +1,4 @@
-Cercospora phaea Syd. SPECIES
-=======
+# Cercospora phaea Syd. SPECIES
 
 #### Status
 ACCEPTED

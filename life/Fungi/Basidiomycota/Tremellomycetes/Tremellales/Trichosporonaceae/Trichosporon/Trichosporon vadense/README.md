@@ -1,5 +1,4 @@
-Trichosporon vadense Middelhoven, Scorzetti & Fell SPECIES
-=======
+# Trichosporon vadense Middelhoven, Scorzetti & Fell SPECIES
 
 #### Status
 ACCEPTED

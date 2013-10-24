@@ -1,5 +1,4 @@
-Lecidea moseleyi Cromb. SPECIES
-=======
+# Lecidea moseleyi Cromb. SPECIES
 
 #### Status
 ACCEPTED

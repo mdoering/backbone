@@ -1,5 +1,4 @@
-Neoclitocybe portentosa Singer SPECIES
-=======
+# Neoclitocybe portentosa Singer SPECIES
 
 #### Status
 ACCEPTED

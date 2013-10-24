@@ -1,5 +1,4 @@
-Sulfolobaceae Stetter, 1989 FAMILY
-=======
+# Sulfolobaceae Stetter, 1989 FAMILY
 
 #### Status
 ACCEPTED

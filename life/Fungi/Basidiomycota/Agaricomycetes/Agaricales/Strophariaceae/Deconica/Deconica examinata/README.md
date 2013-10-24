@@ -1,5 +1,4 @@
-Deconica examinata (Britzelm.) Sacc. SPECIES
-=======
+# Deconica examinata (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

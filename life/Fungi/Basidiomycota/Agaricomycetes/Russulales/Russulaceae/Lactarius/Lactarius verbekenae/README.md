@@ -1,5 +1,4 @@
-Lactarius verbekenae K. Das, J.R. Sharma & Montoya SPECIES
-=======
+# Lactarius verbekenae K. Das, J.R. Sharma & Montoya SPECIES
 
 #### Status
 ACCEPTED

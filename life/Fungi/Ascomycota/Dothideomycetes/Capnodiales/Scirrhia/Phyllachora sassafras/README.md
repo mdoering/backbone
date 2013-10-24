@@ -1,5 +1,4 @@
-Phyllachora sassafras (Schwein.) Sacc., 1883 SPECIES
-=======
+# Phyllachora sassafras (Schwein.) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

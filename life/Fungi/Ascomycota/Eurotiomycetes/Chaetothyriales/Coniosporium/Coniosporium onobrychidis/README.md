@@ -1,5 +1,4 @@
-Coniosporium onobrychidis Magnus SPECIES
-=======
+# Coniosporium onobrychidis Magnus SPECIES
 
 #### Status
 ACCEPTED

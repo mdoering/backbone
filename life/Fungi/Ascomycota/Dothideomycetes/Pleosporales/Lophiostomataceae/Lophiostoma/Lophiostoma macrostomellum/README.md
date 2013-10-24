@@ -1,5 +1,4 @@
-Lophiostoma macrostomellum (Ces.) Sacc. SPECIES
-=======
+# Lophiostoma macrostomellum (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

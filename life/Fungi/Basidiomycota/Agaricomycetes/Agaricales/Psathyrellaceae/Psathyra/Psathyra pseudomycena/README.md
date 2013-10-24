@@ -1,5 +1,4 @@
-Psathyra pseudomycena Velen. SPECIES
-=======
+# Psathyra pseudomycena Velen. SPECIES
 
 #### Status
 ACCEPTED

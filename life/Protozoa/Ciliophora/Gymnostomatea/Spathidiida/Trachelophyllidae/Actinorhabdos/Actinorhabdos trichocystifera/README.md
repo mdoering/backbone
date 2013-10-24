@@ -1,8 +1,7 @@
-Actinorhabdos trichocystiferra Foissner, 1984 SPECIES
-=======
+# Actinorhabdos trichocystifera Foissner, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

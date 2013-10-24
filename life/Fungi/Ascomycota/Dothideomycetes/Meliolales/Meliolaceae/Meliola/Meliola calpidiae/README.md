@@ -1,5 +1,4 @@
-Meliola calpidiae B. Huguenin SPECIES
-=======
+# Meliola calpidiae B. Huguenin SPECIES
 
 #### Status
 ACCEPTED

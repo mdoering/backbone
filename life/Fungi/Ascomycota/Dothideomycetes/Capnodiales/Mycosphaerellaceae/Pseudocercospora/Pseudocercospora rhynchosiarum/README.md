@@ -1,5 +1,4 @@
-Pseudocercospora rhynchosiarum (Petr. & Cif.) U. Braun SPECIES
-=======
+# Pseudocercospora rhynchosiarum (Petr. & Cif.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

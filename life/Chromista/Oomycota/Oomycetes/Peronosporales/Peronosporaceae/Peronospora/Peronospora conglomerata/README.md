@@ -1,5 +1,4 @@
-Peronospora conglomerata Fuckel, 1863 SPECIES
-=======
+# Peronospora conglomerata Fuckel, 1863 SPECIES
 
 #### Status
 ACCEPTED

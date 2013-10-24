@@ -1,5 +1,4 @@
-Scleroderma capensis Lloyd SPECIES
-=======
+# Scleroderma capensis Lloyd SPECIES
 
 #### Status
 ACCEPTED

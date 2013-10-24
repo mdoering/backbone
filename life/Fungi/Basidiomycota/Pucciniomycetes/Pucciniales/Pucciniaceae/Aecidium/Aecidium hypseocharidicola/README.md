@@ -1,5 +1,4 @@
-Aecidium hypseocharidicola Berndt SPECIES
-=======
+# Aecidium hypseocharidicola Berndt SPECIES
 
 #### Status
 ACCEPTED

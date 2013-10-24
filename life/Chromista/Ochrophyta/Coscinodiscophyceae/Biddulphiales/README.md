@@ -1,5 +1,4 @@
-Biddulphiales Krieger ORDER
-=======
+# Biddulphiales Krieger ORDER
 
 #### Status
 ACCEPTED

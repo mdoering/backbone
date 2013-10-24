@@ -1,5 +1,4 @@
-Lecidea variatula Nyl. SPECIES
-=======
+# Lecidea variatula Nyl. SPECIES
 
 #### Status
 ACCEPTED

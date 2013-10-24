@@ -1,5 +1,4 @@
-Poria ceracea Scop. SPECIES
-=======
+# Poria ceracea Scop. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Solenopsora sordida (C.W. Dodge) D.J. Galloway SPECIES
-=======
+# Solenopsora sordida (C.W. Dodge) D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

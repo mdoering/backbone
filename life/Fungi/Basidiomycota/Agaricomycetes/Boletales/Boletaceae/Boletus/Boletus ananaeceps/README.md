@@ -1,5 +1,4 @@
-Boletus ananaeceps Berk. SPECIES
-=======
+# Boletus ananaeceps Berk. SPECIES
 
 #### Status
 ACCEPTED

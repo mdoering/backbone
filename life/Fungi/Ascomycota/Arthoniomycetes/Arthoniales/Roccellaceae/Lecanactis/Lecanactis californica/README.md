@@ -1,5 +1,4 @@
-Lecanactis californica Tuck. SPECIES
-=======
+# Lecanactis californica Tuck. SPECIES
 
 #### Status
 ACCEPTED

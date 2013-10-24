@@ -1,5 +1,4 @@
-Hygrocybe lewelliniae (Kalchbr.) A.M. Young SPECIES
-=======
+# Hygrocybe lewelliniae (Kalchbr.) A.M. Young SPECIES
 
 #### Status
 ACCEPTED

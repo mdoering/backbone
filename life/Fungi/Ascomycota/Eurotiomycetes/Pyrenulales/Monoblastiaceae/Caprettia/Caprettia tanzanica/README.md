@@ -1,5 +1,4 @@
-Caprettia tanzanica (Vezda) Lücking & Sérus. SPECIES
-=======
+# Caprettia tanzanica (Vezda) Lücking & Sérus. SPECIES
 
 #### Status
 ACCEPTED

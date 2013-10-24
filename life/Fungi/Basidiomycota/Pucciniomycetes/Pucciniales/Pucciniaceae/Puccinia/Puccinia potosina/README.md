@@ -1,5 +1,4 @@
-Puccinia potosina Cummins, M.P. Britton & J.W. Baxter SPECIES
-=======
+# Puccinia potosina Cummins, M.P. Britton & J.W. Baxter SPECIES
 
 #### Status
 ACCEPTED

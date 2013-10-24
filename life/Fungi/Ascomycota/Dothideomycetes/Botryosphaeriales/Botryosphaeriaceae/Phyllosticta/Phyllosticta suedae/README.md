@@ -1,5 +1,4 @@
-Phyllosticta suedae Lobik SPECIES
-=======
+# Phyllosticta suedae Lobik SPECIES
 
 #### Status
 ACCEPTED

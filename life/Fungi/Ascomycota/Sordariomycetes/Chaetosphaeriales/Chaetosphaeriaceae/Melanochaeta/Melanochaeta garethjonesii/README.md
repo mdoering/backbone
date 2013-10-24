@@ -1,5 +1,4 @@
-Melanochaeta garethjonesii Sivichai & Hywel-Jones SPECIES
-=======
+# Melanochaeta garethjonesii Sivichai & Hywel-Jones SPECIES
 
 #### Status
 ACCEPTED

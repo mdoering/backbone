@@ -1,5 +1,4 @@
-Hydrocybe minutula (Peck) Murrill SPECIES
-=======
+# Hydrocybe minutula (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

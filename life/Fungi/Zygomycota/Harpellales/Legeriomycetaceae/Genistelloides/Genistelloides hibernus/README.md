@@ -1,5 +1,4 @@
-Genistelloides hibernus S.W. Peterson, Lichtw. & B.W. Horn, 1981 SPECIES
-=======
+# Genistelloides hibernus S.W. Peterson, Lichtw. & B.W. Horn, 1981 SPECIES
 
 #### Status
 ACCEPTED

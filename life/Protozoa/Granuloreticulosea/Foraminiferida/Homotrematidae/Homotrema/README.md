@@ -1,5 +1,4 @@
-Homotrema Hickson, 1911 GENUS
-=======
+# Homotrema Hickson, 1911 GENUS
 
 #### Status
 ACCEPTED

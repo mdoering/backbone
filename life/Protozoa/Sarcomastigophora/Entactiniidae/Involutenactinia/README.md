@@ -1,5 +1,4 @@
-Involutenactinia Jones & Noble, 2006 GENUS
-=======
+# Involutenactinia Jones & Noble, 2006 GENUS
 
 #### Status
 ACCEPTED

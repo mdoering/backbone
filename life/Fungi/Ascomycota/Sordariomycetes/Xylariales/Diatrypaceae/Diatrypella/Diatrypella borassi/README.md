@@ -1,5 +1,4 @@
-Diatrypella borassi Chona & Munjal SPECIES
-=======
+# Diatrypella borassi Chona & Munjal SPECIES
 
 #### Status
 ACCEPTED

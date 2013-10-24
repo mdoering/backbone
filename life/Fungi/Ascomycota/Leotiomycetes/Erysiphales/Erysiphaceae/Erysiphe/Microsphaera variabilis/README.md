@@ -1,5 +1,4 @@
-Microsphaera variabilis Y.N. Yu SPECIES
-=======
+# Microsphaera variabilis Y.N. Yu SPECIES
 
 #### Status
 ACCEPTED

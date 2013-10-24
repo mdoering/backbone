@@ -1,14 +1,13 @@
-Odontia setulosa (Berk. & M.A. Curtis) Rick, 1933 SPECIES
-=======
+# Hyphodontia setulosa (Berk. & M.A. Curtis) Maas. Geest., 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Egatea 18: 127 (1933)
+Persoonia 7(4): 567 (1974)
 
 #### Original name
 Hydnum setulosum Berk. & M.A. Curtis, 1873

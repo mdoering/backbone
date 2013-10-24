@@ -1,5 +1,4 @@
-Agaricus alboargillascens (A. Pearson) Bon SPECIES
-=======
+# Agaricus alboargillascens (A. Pearson) Bon SPECIES
 
 #### Status
 ACCEPTED

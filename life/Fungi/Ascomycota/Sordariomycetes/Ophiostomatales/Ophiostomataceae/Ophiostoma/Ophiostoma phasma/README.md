@@ -1,5 +1,4 @@
-Ophiostoma phasma Roets, Z.W. Beer & M.J. Wingf. SPECIES
-=======
+# Ophiostoma phasma Roets, Z.W. Beer & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

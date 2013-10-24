@@ -1,5 +1,4 @@
-Sphaeria pleurostoma Kunze ex Fr. SPECIES
-=======
+# Sphaeria pleurostoma Kunze ex Fr. SPECIES
 
 #### Status
 ACCEPTED

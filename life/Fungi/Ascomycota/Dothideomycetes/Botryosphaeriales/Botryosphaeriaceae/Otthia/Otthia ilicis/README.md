@@ -1,5 +1,4 @@
-Otthia ilicis Fabre SPECIES
-=======
+# Otthia ilicis Fabre SPECIES
 
 #### Status
 ACCEPTED

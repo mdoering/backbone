@@ -1,5 +1,4 @@
-Schizonella subtrifida Ellis & Everh., 1890 SPECIES
-=======
+# Schizonella subtrifida Ellis & Everh., 1890 SPECIES
 
 #### Status
 ACCEPTED

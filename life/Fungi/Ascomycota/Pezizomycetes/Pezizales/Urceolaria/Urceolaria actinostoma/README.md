@@ -1,5 +1,4 @@
-Urceolaria actinostoma SPECIES
-=======
+# Urceolaria actinostoma SPECIES
 
 #### Status
 ACCEPTED

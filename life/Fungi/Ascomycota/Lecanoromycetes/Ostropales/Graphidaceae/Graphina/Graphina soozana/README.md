@@ -1,5 +1,4 @@
-Graphina soozana Zahlbr. SPECIES
-=======
+# Graphina soozana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

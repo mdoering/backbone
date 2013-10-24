@@ -1,5 +1,4 @@
-Cercidospora rehmiana (Bäumler) Kuntze SPECIES
-=======
+# Cercidospora rehmiana (Bäumler) Kuntze SPECIES
 
 #### Status
 ACCEPTED

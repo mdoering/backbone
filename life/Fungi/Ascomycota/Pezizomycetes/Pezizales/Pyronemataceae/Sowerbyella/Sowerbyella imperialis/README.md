@@ -1,17 +1,16 @@
-Peziza imperialis Peck, 1878 SPECIES
-=======
+# Sowerbyella imperialis (Peck) Korf, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 21(4): 206 (1971)
 
 #### Original name
-null
+Peziza imperialis Beck
 
 ### Remarks
 null

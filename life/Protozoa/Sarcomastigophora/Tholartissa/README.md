@@ -1,5 +1,4 @@
-Tholartissa Haeckel, 1887 GENUS
-=======
+# Tholartissa Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

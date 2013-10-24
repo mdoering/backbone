@@ -1,5 +1,4 @@
-Colletotrichum clusiae Petr. SPECIES
-=======
+# Colletotrichum clusiae Petr. SPECIES
 
 #### Status
 ACCEPTED

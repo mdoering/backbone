@@ -1,5 +1,4 @@
-Pringsheimia luttrellii Tilak & R. Rao SPECIES
-=======
+# Pringsheimia luttrellii Tilak & R. Rao SPECIES
 
 #### Status
 ACCEPTED

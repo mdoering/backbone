@@ -1,5 +1,4 @@
-Mirodysteria aplanata Kahl, 1933 SPECIES
-=======
+# Mirodysteria aplanata Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urotricha platystoma Stokes, 1886 SPECIES
-=======
+# Urotricha platystoma Stokes, 1886 SPECIES
 
 #### Status
 ACCEPTED

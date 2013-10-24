@@ -1,5 +1,4 @@
-Lactarius clelandii Grgur. SPECIES
-=======
+# Lactarius clelandii Grgur. SPECIES
 
 #### Status
 ACCEPTED

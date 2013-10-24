@@ -1,5 +1,4 @@
-Stereum desolationis Speg. SPECIES
-=======
+# Stereum desolationis Speg. SPECIES
 
 #### Status
 ACCEPTED

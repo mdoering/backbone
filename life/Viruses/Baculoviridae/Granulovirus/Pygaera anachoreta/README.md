@@ -1,5 +1,4 @@
-Pygaera anachoreta GV SPECIES
-=======
+# Pygaera anachoreta GV SPECIES
 
 #### Status
 ACCEPTED

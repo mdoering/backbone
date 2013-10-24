@@ -1,5 +1,4 @@
-Uredo zygophylli Henn. SPECIES
-=======
+# Uredo zygophylli Henn. SPECIES
 
 #### Status
 ACCEPTED

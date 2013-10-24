@@ -1,5 +1,4 @@
-Favolaschia cyatheae P.R. Johnst., 2006 SPECIES
-=======
+# Favolaschia cyatheae P.R. Johnst., 2006 SPECIES
 
 #### Status
 ACCEPTED

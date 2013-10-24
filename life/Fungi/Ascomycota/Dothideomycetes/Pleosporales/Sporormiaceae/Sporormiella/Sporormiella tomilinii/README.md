@@ -1,5 +1,4 @@
-Sporormiella tomilinii O.V. Korol., 2000 SPECIES
-=======
+# Sporormiella tomilinii O.V. Korol., 2000 SPECIES
 
 #### Status
 ACCEPTED

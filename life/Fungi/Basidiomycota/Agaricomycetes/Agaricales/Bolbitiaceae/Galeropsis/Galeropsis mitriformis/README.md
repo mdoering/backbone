@@ -1,5 +1,4 @@
-Galeropsis mitriformis (Berk.) R. Heim, 1950 SPECIES
-=======
+# Galeropsis mitriformis (Berk.) R. Heim, 1950 SPECIES
 
 #### Status
 ACCEPTED

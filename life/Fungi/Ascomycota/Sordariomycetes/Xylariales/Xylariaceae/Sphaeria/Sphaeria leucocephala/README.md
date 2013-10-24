@@ -1,5 +1,4 @@
-Sphaeria leucocephala Ehrh. SPECIES
-=======
+# Sphaeria leucocephala Ehrh. SPECIES
 
 #### Status
 ACCEPTED

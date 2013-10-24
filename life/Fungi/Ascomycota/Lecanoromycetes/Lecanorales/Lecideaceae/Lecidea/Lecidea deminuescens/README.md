@@ -1,5 +1,4 @@
-Lecidea deminuescens Nyl. SPECIES
-=======
+# Lecidea deminuescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ammatoideaceae FAMILY
-=======
+# Ammatoideaceae FAMILY
 
 #### Status
 ACCEPTED

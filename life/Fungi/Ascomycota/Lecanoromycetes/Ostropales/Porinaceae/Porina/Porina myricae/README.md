@@ -1,5 +1,4 @@
-Porina myricae (Nyl.) Blomb. & Forssell SPECIES
-=======
+# Porina myricae (Nyl.) Blomb. & Forssell SPECIES
 
 #### Status
 ACCEPTED

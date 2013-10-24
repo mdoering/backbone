@@ -1,5 +1,4 @@
-Lecanographa imitans Werner & Follmann SPECIES
-=======
+# Lecanographa imitans Werner & Follmann SPECIES
 
 #### Status
 ACCEPTED

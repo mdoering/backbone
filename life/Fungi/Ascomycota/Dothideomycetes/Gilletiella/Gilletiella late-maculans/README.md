@@ -1,5 +1,4 @@
-Gilletiella late-maculans Rehm SPECIES
-=======
+# Gilletiella late-maculans Rehm SPECIES
 
 #### Status
 ACCEPTED

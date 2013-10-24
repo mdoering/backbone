@@ -1,5 +1,4 @@
-Didymella celtidis (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Didymella celtidis (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

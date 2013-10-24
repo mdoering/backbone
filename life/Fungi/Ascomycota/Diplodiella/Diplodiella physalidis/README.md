@@ -1,5 +1,4 @@
-Diplodiella physalidis Henn. SPECIES
-=======
+# Diplodiella physalidis Henn. SPECIES
 
 #### Status
 ACCEPTED

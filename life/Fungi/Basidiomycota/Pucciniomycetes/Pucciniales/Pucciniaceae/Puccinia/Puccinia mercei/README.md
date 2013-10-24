@@ -1,5 +1,4 @@
-Puccinia mercei Durrieu SPECIES
-=======
+# Puccinia mercei Durrieu SPECIES
 
 #### Status
 ACCEPTED

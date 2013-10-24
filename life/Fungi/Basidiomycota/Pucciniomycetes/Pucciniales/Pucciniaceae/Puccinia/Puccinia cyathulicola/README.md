@@ -1,5 +1,4 @@
-Puccinia cyathulicola var. cyathulicola VARIETY
-=======
+# Puccinia cyathulicola Cummins SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Torrey bot. Club 79: 218 (1952)
 
 #### Original name
-Puccinia cyathulicola var. cyathulicola
+Puccinia cyathulicola Cummins
 
 ### Remarks
 null

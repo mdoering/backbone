@@ -1,5 +1,4 @@
-Actinobaculum schaalii Lawson et al., 1997 SPECIES
-=======
+# Actinobaculum schaalii Lawson et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

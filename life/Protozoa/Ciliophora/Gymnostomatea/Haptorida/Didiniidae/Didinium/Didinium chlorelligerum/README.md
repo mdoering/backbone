@@ -1,5 +1,4 @@
-Didinium chlorelligerum Kahl, 1935 SPECIES
-=======
+# Didinium chlorelligerum Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

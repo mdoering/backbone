@@ -1,5 +1,4 @@
-Septoria psephelli D.N. Babajan & Simonyan SPECIES
-=======
+# Septoria psephelli D.N. Babajan & Simonyan SPECIES
 
 #### Status
 ACCEPTED

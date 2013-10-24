@@ -1,5 +1,4 @@
-Micromyces echinocystis Linder SPECIES
-=======
+# Micromyces echinocystis Linder SPECIES
 
 #### Status
 ACCEPTED

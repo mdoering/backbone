@@ -1,5 +1,4 @@
-Tintinnopsis urnula Meunier, 1910 SPECIES
-=======
+# Tintinnopsis urnula Meunier, 1910 SPECIES
 
 #### Status
 ACCEPTED

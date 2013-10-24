@@ -1,17 +1,16 @@
-Agaricus bellulus Peck, 1873 SPECIES
-=======
+# Gymnopilus bellulus (Peck) Murrill, 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Buffalo Soc. nat. Sci. 1: 51 (1873)
+N. Amer. Fl. (New York), Ser. 2 10: 200 (1917)
 
 #### Original name
-Agaricus bellulus Peck, 1873
+Naucoria bellula (Peck) Sacc., 1887
 
 ### Remarks
 null

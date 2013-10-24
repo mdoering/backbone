@@ -1,5 +1,4 @@
-Nolanea substaurospora Murrill SPECIES
-=======
+# Nolanea substaurospora Murrill SPECIES
 
 #### Status
 ACCEPTED

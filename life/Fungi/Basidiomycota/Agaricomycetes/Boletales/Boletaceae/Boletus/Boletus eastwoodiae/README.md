@@ -1,5 +1,4 @@
-Boletus eastwoodiae (Murrill) Sacc. & Trotter SPECIES
-=======
+# Boletus eastwoodiae (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

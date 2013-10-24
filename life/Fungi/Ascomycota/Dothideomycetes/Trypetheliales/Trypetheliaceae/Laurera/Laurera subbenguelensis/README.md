@@ -1,5 +1,4 @@
-Laurera subbenguelensis Upreti & Ajay Singh SPECIES
-=======
+# Laurera subbenguelensis Upreti & Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

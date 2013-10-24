@@ -1,14 +1,13 @@
-Phaeoramularia trilobi (Chupp) X.J. Liu & Y.L. Guo SPECIES
-=======
+# Phaeoramularia triloba (Chupp) X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta phytopath. sin. 12(4): 14 (1982)
 
 #### Original name
 Cercospora triloba Chupp

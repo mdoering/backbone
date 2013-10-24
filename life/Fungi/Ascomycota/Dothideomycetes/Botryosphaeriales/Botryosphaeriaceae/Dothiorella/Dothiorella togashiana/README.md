@@ -1,5 +1,4 @@
-Dothiorella togashiana Petr. SPECIES
-=======
+# Dothiorella togashiana Petr. SPECIES
 
 #### Status
 ACCEPTED

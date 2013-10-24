@@ -1,5 +1,4 @@
-Phaeographis apex (Fée) Redinger SPECIES
-=======
+# Phaeographis apex (Fée) Redinger SPECIES
 
 #### Status
 ACCEPTED

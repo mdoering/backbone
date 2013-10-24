@@ -1,5 +1,4 @@
-Allarthonia dispuncta (Nyl.) Szatala SPECIES
-=======
+# Allarthonia dispuncta (Nyl.) Szatala SPECIES
 
 #### Status
 ACCEPTED

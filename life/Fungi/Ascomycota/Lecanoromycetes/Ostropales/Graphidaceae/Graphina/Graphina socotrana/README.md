@@ -1,8 +1,7 @@
-Graphina socotrina (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Graphina socotrana (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

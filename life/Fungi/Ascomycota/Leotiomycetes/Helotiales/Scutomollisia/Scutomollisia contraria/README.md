@@ -1,5 +1,4 @@
-Scutomollisia contraria Graddon, 1984 SPECIES
-=======
+# Scutomollisia contraria Graddon, 1984 SPECIES
 
 #### Status
 ACCEPTED

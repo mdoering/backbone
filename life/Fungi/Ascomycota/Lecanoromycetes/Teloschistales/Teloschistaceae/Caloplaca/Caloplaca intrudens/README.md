@@ -1,5 +1,4 @@
-Caloplaca intrudens H. Magn. SPECIES
-=======
+# Caloplaca intrudens H. Magn. SPECIES
 
 #### Status
 ACCEPTED

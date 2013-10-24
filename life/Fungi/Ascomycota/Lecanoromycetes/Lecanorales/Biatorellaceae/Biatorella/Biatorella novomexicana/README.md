@@ -1,5 +1,4 @@
-Biatorella novomexicana (H. Magn.) Zahlbr. SPECIES
-=======
+# Biatorella novomexicana (H. Magn.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

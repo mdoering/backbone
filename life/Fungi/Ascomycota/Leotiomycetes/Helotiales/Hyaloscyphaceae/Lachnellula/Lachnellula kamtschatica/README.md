@@ -1,5 +1,4 @@
-Lachnellula kamtschatica Raitv. SPECIES
-=======
+# Lachnellula kamtschatica Raitv. SPECIES
 
 #### Status
 ACCEPTED

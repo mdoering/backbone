@@ -1,5 +1,4 @@
-Tubercularia hysterina Corda SPECIES
-=======
+# Tubercularia hysterina Corda SPECIES
 
 #### Status
 ACCEPTED

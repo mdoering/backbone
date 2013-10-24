@@ -1,14 +1,13 @@
-Setoscypha spiraeaicola (Raitv.) Raitv. SPECIES
-=======
+# Setoscypha spiraeicola (Raitv.) Raitv. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nizshie Rasteniya, Griby i Mokhoobraznye Sovetskogo Dal'nego Vostoka (Leningrad), Griby. Vol. <b>2</b>. Askomitsety. Erizifal'nye, Klavitsipital'nye, Gelotsial'nye 330 (1991)
 
 #### Original name
 Phialoscypha spiraeicola Raitv.

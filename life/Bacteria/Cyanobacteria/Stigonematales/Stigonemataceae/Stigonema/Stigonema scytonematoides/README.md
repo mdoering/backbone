@@ -1,5 +1,4 @@
-Stigonema scytonematoides Gardner SPECIES
-=======
+# Stigonema scytonematoides Gardner SPECIES
 
 #### Status
 ACCEPTED

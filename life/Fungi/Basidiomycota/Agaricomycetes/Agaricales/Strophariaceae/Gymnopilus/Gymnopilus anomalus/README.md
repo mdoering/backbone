@@ -1,5 +1,4 @@
-Gymnopilus anomalus B.J. Rees SPECIES
-=======
+# Gymnopilus anomalus B.J. Rees SPECIES
 
 #### Status
 ACCEPTED

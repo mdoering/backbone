@@ -1,5 +1,4 @@
-Vivianella GENUS
-=======
+# Vivianella GENUS
 
 #### Status
 ACCEPTED

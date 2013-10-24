@@ -1,5 +1,4 @@
-Ramularia hypochoeridis H. Magn. SPECIES
-=======
+# Ramularia hypochoeridis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

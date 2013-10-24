@@ -1,5 +1,4 @@
-Idriella campnospermae Matsush. SPECIES
-=======
+# Idriella campnospermae Matsush. SPECIES
 
 #### Status
 ACCEPTED

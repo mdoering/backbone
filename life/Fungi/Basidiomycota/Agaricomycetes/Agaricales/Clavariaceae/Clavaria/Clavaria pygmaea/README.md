@@ -1,5 +1,4 @@
-Clavaria pygmaea Rick SPECIES
-=======
+# Clavaria pygmaea Rick SPECIES
 
 #### Status
 ACCEPTED

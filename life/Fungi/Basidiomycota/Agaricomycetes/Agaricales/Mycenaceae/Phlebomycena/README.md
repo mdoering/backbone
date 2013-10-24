@@ -1,5 +1,4 @@
-Phlebomycena GENUS
-=======
+# Phlebomycena GENUS
 
 #### Status
 ACCEPTED

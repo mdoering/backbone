@@ -1,5 +1,4 @@
-Meschedea Won, 1983 GENUS
-=======
+# Meschedea Won, 1983 GENUS
 
 #### Status
 ACCEPTED

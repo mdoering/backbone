@@ -1,5 +1,4 @@
-Aquaticola longicolla K.M. Tsui, Hodgkiss & K.D. Hyde SPECIES
-=======
+# Aquaticola longicolla K.M. Tsui, Hodgkiss & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

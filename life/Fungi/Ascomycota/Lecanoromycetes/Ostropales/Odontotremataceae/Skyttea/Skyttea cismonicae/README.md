@@ -1,5 +1,4 @@
-Skyttea cismonicae Hafellner SPECIES
-=======
+# Skyttea cismonicae Hafellner SPECIES
 
 #### Status
 ACCEPTED

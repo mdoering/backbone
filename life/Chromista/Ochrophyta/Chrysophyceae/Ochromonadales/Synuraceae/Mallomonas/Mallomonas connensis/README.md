@@ -1,5 +1,4 @@
-Mallomonas connensis P. A. Siver & L. J. Marsicano SPECIES
-=======
+# Mallomonas connensis P. A. Siver & L. J. Marsicano SPECIES
 
 #### Status
 ACCEPTED

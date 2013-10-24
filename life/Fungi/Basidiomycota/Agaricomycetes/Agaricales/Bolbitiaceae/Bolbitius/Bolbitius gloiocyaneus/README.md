@@ -1,5 +1,4 @@
-Bolbitius gloiocyaneus G.F. Atk. SPECIES
-=======
+# Bolbitius gloiocyaneus G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stylodinium littorale T. Horiguchi & Chihara, 1983 SPECIES
-=======
+# Stylodinium littorale T. Horiguchi & Chihara, 1983 SPECIES
 
 #### Status
 ACCEPTED

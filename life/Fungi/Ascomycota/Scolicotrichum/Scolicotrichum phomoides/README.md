@@ -1,5 +1,4 @@
-Scolicotrichum phomoides Cooke & Massee SPECIES
-=======
+# Scolicotrichum phomoides Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

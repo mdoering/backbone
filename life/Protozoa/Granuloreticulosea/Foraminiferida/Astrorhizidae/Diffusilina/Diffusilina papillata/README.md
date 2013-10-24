@@ -1,5 +1,4 @@
-Diffusilina papillata Heron-Allen & Earland, 1929 SPECIES
-=======
+# Diffusilina papillata Heron-Allen & Earland, 1929 SPECIES
 
 #### Status
 ACCEPTED

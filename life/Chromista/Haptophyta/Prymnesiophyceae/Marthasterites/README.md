@@ -1,5 +1,4 @@
-Marthasterites G. Deflandre, 1959 GENUS
-=======
+# Marthasterites G. Deflandre, 1959 GENUS
 
 #### Status
 ACCEPTED

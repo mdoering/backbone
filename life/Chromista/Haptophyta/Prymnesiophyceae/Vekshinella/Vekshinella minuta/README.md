@@ -1,5 +1,4 @@
-Vekshinella minuta J.G. Hattner & S.W. Wise SPECIES
-=======
+# Vekshinella minuta J.G. Hattner & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

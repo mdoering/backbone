@@ -1,5 +1,4 @@
-Pseudocyphellaria leucosticta (Lamb. {?} ) D.J. Galloway SPECIES
-=======
+# Pseudocyphellaria leucosticta (Lamb. {?} ) D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kumbhamaya jalapriya Sreekala & Bhat SPECIES
-=======
+# Kumbhamaya jalapriya Sreekala & Bhat SPECIES
 
 #### Status
 ACCEPTED

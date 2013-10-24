@@ -1,5 +1,4 @@
-Belonium sterei Velen. SPECIES
-=======
+# Belonium sterei Velen. SPECIES
 
 #### Status
 ACCEPTED

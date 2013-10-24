@@ -1,5 +1,4 @@
-Balantidiopsis serpentis SPECIES
-=======
+# Balantidiopsis serpentis SPECIES
 
 #### Status
 ACCEPTED

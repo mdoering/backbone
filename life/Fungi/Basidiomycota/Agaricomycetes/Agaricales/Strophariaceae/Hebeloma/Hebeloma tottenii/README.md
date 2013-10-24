@@ -1,5 +1,4 @@
-Hebeloma tottenii Murrill SPECIES
-=======
+# Hebeloma tottenii Murrill SPECIES
 
 #### Status
 ACCEPTED

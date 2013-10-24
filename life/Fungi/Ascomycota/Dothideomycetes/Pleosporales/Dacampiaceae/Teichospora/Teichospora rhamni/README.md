@@ -1,5 +1,4 @@
-Teichospora rhamni Fabre SPECIES
-=======
+# Teichospora rhamni Fabre SPECIES
 
 #### Status
 ACCEPTED

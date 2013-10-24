@@ -1,5 +1,4 @@
-Nemecomyces GENUS
-=======
+# Nemecomyces GENUS
 
 #### Status
 ACCEPTED

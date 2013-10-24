@@ -1,5 +1,4 @@
-Phomopsis smilacis J.F. Lue & P.K. Chi SPECIES
-=======
+# Phomopsis smilacis J.F. Lue & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

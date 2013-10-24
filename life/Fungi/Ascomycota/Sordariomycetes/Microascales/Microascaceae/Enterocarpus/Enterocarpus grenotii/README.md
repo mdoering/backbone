@@ -1,5 +1,4 @@
-Enterocarpus grenotii Locq.-Lin., 1977 SPECIES
-=======
+# Enterocarpus grenotii Locq.-Lin., 1977 SPECIES
 
 #### Status
 ACCEPTED

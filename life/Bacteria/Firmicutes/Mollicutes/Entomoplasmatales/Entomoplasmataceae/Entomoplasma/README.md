@@ -1,5 +1,4 @@
-Entomoplasma Tully, Bove, Laigret & Whitcomb, 1993 GENUS
-=======
+# Entomoplasma Tully, Bove, Laigret & Whitcomb, 1993 GENUS
 
 #### Status
 ACCEPTED

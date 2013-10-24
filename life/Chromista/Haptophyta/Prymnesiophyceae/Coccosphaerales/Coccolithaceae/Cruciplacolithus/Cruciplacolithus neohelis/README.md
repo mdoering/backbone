@@ -1,8 +1,7 @@
-Coccolithus neohelis McIntyre & Be SPECIES
-=======
+# Cruciplacolithus neohelis (McIntyre & Be) Reinhardt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

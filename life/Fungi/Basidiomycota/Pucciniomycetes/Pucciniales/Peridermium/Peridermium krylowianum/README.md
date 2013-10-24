@@ -1,5 +1,4 @@
-Peridermium krylowianum Lavrov SPECIES
-=======
+# Peridermium krylowianum Lavrov SPECIES
 
 #### Status
 ACCEPTED

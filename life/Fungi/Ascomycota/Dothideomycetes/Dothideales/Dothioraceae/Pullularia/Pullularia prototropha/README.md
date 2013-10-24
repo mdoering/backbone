@@ -1,14 +1,13 @@
-Exophiala prototropha (Bulanov & Malama) Haase, Yurlova & de Hoog, 1999 SPECIES
-=======
+# Pullularia prototropha Bulanov & Malama, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stud. Mycol. 43: 93 (1999)
+Vestsi Akademiia Navuk Belarusi, Seryia Biialahichnykh Navuk 4: 117 (1965)
 
 #### Original name
 Pullularia prototropha Bulanov & Malama, 1965

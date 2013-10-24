@@ -1,17 +1,16 @@
-Clypeolella triumfettaecola M.S. Patil & S.D. Patil SPECIES
-=======
+# Clypeolella triumfetticola M.S. Patil & S.D. Patil SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Journal of Mycology and Plant Pathology 15(2): 134 (1986)
 
 #### Original name
-Clypeolella triumfettaecola M.S. Patil & S.D. Patil
+Clypeolella triumfetticola M.S. Patil & S.D. Patil
 
 ### Remarks
 null

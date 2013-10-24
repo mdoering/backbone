@@ -1,5 +1,4 @@
-Lamprocyclia Haeckel, 1887 GENUS
-=======
+# Lamprocyclia Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

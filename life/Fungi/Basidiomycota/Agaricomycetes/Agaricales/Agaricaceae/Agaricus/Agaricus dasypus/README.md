@@ -1,5 +1,4 @@
-Agaricus dasypus Pers. SPECIES
-=======
+# Agaricus dasypus Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neuropogon ciliata var. ciliata Kremp. VARIETY
-=======
+# Neuropogon ciliata Kremp. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Neuropogon ciliata var. ciliata Kremp.
+Neuropogon ciliata Kremp.
 
 ### Remarks
 null

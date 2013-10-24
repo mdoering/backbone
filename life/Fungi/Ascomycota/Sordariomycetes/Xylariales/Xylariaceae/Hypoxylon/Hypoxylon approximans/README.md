@@ -1,5 +1,4 @@
-Hypoxylon approximans Ces. SPECIES
-=======
+# Hypoxylon approximans Ces. SPECIES
 
 #### Status
 ACCEPTED

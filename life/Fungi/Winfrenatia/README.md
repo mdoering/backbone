@@ -1,5 +1,4 @@
-Winfrenatia T.N. Taylor, Hass & Kerp GENUS
-=======
+# Winfrenatia T.N. Taylor, Hass & Kerp GENUS
 
 #### Status
 ACCEPTED

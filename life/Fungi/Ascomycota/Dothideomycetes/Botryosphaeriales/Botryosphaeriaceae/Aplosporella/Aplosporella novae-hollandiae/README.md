@@ -1,5 +1,4 @@
-Aplosporella novae-hollandiae (Speg.) Speg. SPECIES
-=======
+# Aplosporella novae-hollandiae (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

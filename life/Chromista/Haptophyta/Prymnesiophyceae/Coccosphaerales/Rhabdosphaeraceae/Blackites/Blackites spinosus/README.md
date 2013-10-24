@@ -1,8 +1,7 @@
-Blackites amplus Roth & Hay in Hay et al., 1967 SPECIES
-=======
+# Blackites spinosus (Deflandre & Fert, 1954) Hay & Towe, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

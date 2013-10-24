@@ -1,5 +1,4 @@
-Microthelia metzleri J. Lahm SPECIES
-=======
+# Microthelia metzleri J. Lahm SPECIES
 
 #### Status
 ACCEPTED

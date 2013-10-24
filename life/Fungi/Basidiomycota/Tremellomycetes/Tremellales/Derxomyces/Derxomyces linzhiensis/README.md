@@ -1,5 +1,4 @@
-Derxomyces linzhiensis F.Y. Bai & Q.M. Wang SPECIES
-=======
+# Derxomyces linzhiensis F.Y. Bai & Q.M. Wang SPECIES
 
 #### Status
 ACCEPTED

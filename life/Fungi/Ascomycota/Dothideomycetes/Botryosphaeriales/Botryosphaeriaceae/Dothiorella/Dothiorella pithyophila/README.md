@@ -1,5 +1,4 @@
-Dothiorella pithyophila Bres. & Sacc. SPECIES
-=======
+# Dothiorella pithyophila Bres. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

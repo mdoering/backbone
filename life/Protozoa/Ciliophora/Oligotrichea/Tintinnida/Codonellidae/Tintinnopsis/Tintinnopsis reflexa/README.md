@@ -1,5 +1,4 @@
-Tintinnopsis reflexa Kofoid, 1905 SPECIES
-=======
+# Tintinnopsis reflexa Kofoid, 1905 SPECIES
 
 #### Status
 ACCEPTED

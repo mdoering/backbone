@@ -1,5 +1,4 @@
-Diplodia cytisi Auersw. SPECIES
-=======
+# Diplodia cytisi Auersw. SPECIES
 
 #### Status
 ACCEPTED

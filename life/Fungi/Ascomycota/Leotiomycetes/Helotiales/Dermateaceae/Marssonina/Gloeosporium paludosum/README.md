@@ -1,5 +1,4 @@
-Gloeosporium paludosum Ellis & Galloway SPECIES
-=======
+# Gloeosporium paludosum Ellis & Galloway SPECIES
 
 #### Status
 ACCEPTED

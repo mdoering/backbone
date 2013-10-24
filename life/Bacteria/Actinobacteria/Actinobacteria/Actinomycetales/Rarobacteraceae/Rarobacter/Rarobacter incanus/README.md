@@ -1,5 +1,4 @@
-Rarobacter incanus Yamamoto et al., 1994 SPECIES
-=======
+# Rarobacter incanus Yamamoto et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

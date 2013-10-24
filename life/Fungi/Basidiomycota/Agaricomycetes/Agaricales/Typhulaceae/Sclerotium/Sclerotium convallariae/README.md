@@ -1,5 +1,4 @@
-Sclerotium convallariae Lib. SPECIES
-=======
+# Sclerotium convallariae Lib. SPECIES
 
 #### Status
 ACCEPTED

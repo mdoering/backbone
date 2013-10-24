@@ -1,5 +1,4 @@
-Scolecopeltidium batistae R. Garnier & O.M. Fonseca SPECIES
-=======
+# Scolecopeltidium batistae R. Garnier & O.M. Fonseca SPECIES
 
 #### Status
 ACCEPTED

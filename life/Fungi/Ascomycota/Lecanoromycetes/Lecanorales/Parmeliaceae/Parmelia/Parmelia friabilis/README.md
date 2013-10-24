@@ -1,5 +1,4 @@
-Parmelia friabilis (Vill.) Schaer. SPECIES
-=======
+# Parmelia friabilis (Vill.) Schaer. SPECIES
 
 #### Status
 ACCEPTED

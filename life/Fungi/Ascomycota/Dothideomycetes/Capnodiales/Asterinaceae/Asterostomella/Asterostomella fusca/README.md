@@ -1,5 +1,4 @@
-Asterostomella fusca Bat. SPECIES
-=======
+# Asterostomella fusca Bat. SPECIES
 
 #### Status
 ACCEPTED

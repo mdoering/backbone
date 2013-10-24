@@ -1,5 +1,4 @@
-Psilocybe cavipes House SPECIES
-=======
+# Psilocybe cavipes House SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora magnifica Peck SPECIES
-=======
+# Pleospora magnifica Peck SPECIES
 
 #### Status
 ACCEPTED

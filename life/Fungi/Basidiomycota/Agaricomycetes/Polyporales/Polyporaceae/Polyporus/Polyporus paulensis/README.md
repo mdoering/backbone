@@ -1,5 +1,4 @@
-Polyporus paulensis (Henn.) Lloyd SPECIES
-=======
+# Polyporus paulensis (Henn.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

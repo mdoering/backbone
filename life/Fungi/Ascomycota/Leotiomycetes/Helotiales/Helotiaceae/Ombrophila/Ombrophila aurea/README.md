@@ -1,5 +1,4 @@
-Ombrophila aurea Ellis SPECIES
-=======
+# Ombrophila aurea Ellis SPECIES
 
 #### Status
 ACCEPTED

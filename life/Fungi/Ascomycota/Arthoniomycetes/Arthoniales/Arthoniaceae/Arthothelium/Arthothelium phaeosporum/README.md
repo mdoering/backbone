@@ -1,5 +1,4 @@
-Arthothelium phaeosporum Zahlbr. SPECIES
-=======
+# Arthothelium phaeosporum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

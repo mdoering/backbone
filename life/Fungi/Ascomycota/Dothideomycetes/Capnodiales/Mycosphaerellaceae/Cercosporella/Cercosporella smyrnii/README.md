@@ -1,5 +1,4 @@
-Cercosporella smyrnii Maire SPECIES
-=======
+# Cercosporella smyrnii Maire SPECIES
 
 #### Status
 ACCEPTED

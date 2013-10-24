@@ -1,5 +1,4 @@
-Pezizella dakotensis Rehm SPECIES
-=======
+# Pezizella dakotensis Rehm SPECIES
 
 #### Status
 ACCEPTED

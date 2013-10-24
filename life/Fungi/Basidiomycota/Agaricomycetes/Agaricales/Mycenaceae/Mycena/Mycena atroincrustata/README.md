@@ -1,5 +1,4 @@
-Mycena atroincrustata Singer, 1969 SPECIES
-=======
+# Mycena atroincrustata Singer, 1969 SPECIES
 
 #### Status
 ACCEPTED

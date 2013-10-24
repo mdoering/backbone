@@ -1,5 +1,4 @@
-Kitotrilocula Torres, 2000 GENUS
-=======
+# Kitotrilocula Torres, 2000 GENUS
 
 #### Status
 ACCEPTED

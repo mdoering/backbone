@@ -1,5 +1,4 @@
-Nassula tumida subsp. tumida SUBSPECIES
-=======
+# Nassula tumida Maskell, 1887 SPECIES
 
 #### Status
 ACCEPTED

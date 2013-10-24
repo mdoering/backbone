@@ -1,5 +1,4 @@
-Collosphaeridae Müller, 1858 FAMILY
-=======
+# Collosphaeridae Müller, 1858 FAMILY
 
 #### Status
 ACCEPTED

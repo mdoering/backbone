@@ -1,5 +1,4 @@
-Lophodermium exaridum (Cooke & Peck) Sacc. SPECIES
-=======
+# Lophodermium exaridum (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

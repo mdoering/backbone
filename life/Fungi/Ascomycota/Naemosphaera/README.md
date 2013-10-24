@@ -1,5 +1,4 @@
-Naemosphaera P. Karsten, 1888 GENUS
-=======
+# Naemosphaera P. Karsten, 1888 GENUS
 
 #### Status
 ACCEPTED

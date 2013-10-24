@@ -1,5 +1,4 @@
-Dimorphomyces platensis Speg. SPECIES
-=======
+# Dimorphomyces platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucor terrestris Link SPECIES
-=======
+# Mucor terrestris Link SPECIES
 
 #### Status
 ACCEPTED

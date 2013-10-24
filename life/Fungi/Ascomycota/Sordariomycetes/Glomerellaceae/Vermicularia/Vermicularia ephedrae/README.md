@@ -1,5 +1,4 @@
-Vermicularia ephedrae Durieu & Mont. SPECIES
-=======
+# Vermicularia ephedrae Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

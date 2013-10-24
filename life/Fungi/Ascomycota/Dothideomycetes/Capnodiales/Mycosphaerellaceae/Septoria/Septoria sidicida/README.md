@@ -1,5 +1,4 @@
-Septoria sidicida Speg. SPECIES
-=======
+# Septoria sidicida Speg. SPECIES
 
 #### Status
 ACCEPTED

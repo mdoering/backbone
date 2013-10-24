@@ -1,5 +1,4 @@
-Parenglerula argentinensis (Petr.) Arx & E. Müll. SPECIES
-=======
+# Parenglerula argentinensis (Petr.) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

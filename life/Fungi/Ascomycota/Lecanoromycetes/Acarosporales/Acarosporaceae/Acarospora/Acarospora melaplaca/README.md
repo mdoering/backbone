@@ -1,5 +1,4 @@
-Acarospora melaplaca (Nyl.) Arnold SPECIES
-=======
+# Acarospora melaplaca (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

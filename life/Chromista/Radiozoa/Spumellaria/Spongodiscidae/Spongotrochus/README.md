@@ -1,5 +1,4 @@
-Spongotrochus Haeckel, 1860 GENUS
-=======
+# Spongotrochus Haeckel, 1860 GENUS
 
 #### Status
 ACCEPTED

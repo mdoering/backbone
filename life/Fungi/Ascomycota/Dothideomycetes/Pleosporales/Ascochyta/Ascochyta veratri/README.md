@@ -1,5 +1,4 @@
-Ascochyta veratri Cavara SPECIES
-=======
+# Ascochyta veratri Cavara SPECIES
 
 #### Status
 ACCEPTED

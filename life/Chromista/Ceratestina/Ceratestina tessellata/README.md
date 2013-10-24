@@ -1,5 +1,4 @@
-Ceratestina tessellata Carter, 1880 SPECIES
-=======
+# Ceratestina tessellata Carter, 1880 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria pallidorosea S.G.M. Fawc. SPECIES
-=======
+# Clavaria pallidorosea S.G.M. Fawc. SPECIES
 
 #### Status
 ACCEPTED

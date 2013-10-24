@@ -1,5 +1,4 @@
-Hemimycena amazonica Singer SPECIES
-=======
+# Hemimycena amazonica Singer SPECIES
 
 #### Status
 ACCEPTED

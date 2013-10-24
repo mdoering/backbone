@@ -1,5 +1,4 @@
-Caloplaca lecidellae Poelt & Hinter. SPECIES
-=======
+# Caloplaca lecidellae Poelt & Hinter. SPECIES
 
 #### Status
 ACCEPTED

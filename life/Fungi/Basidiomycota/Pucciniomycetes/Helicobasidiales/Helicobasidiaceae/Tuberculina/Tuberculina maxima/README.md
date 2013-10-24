@@ -1,5 +1,4 @@
-Tuberculina maxima Rostr., 1890 SPECIES
-=======
+# Tuberculina maxima Rostr., 1890 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sargassum scabridum J.D. Hooker & Harvey SPECIES
-=======
+# Sargassum scabridum J.D. Hooker & Harvey SPECIES
 
 #### Status
 ACCEPTED

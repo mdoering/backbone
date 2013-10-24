@@ -1,5 +1,4 @@
-Trimitus Alexeieff GENUS
-=======
+# Trimitus Alexeieff GENUS
 
 #### Status
 ACCEPTED

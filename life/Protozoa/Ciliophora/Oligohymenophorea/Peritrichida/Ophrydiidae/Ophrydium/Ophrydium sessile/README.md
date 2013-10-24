@@ -1,5 +1,4 @@
-Ophrydium sessile Kent, 1882 SPECIES
-=======
+# Ophrydium sessile Kent, 1882 SPECIES
 
 #### Status
 ACCEPTED

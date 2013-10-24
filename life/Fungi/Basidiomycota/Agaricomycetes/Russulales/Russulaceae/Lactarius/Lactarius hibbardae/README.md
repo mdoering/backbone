@@ -1,5 +1,4 @@
-Lactarius hibbardae var. hibbardae VARIETY
-=======
+# Lactarius hibbardae Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 J. Mycol. 14: 2 (1908)
 
 #### Original name
-Lactarius hibbardae var. hibbardae
+Lactarius hibbardae Peck
 
 ### Remarks
 null

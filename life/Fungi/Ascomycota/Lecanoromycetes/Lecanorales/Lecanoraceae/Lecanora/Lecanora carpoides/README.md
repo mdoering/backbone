@@ -1,5 +1,4 @@
-Lecanora carpoides Timdal SPECIES
-=======
+# Lecanora carpoides Timdal SPECIES
 
 #### Status
 ACCEPTED

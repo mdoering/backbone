@@ -1,5 +1,4 @@
-Dextrinosporium desertorum (Kravtzev) Bondartseva SPECIES
-=======
+# Dextrinosporium desertorum (Kravtzev) Bondartseva SPECIES
 
 #### Status
 ACCEPTED

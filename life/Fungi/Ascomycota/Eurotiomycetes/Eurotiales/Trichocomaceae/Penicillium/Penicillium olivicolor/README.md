@@ -1,5 +1,4 @@
-Penicillium olivicolor Pitt, 1980 SPECIES
-=======
+# Penicillium olivicolor Pitt, 1980 SPECIES
 
 #### Status
 ACCEPTED

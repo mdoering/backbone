@@ -1,5 +1,4 @@
-Kephyrion sitta Pascher SPECIES
-=======
+# Kephyrion sitta Pascher SPECIES
 
 #### Status
 ACCEPTED

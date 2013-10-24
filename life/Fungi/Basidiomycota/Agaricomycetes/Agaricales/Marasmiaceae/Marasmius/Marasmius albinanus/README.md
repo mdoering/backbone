@@ -1,5 +1,4 @@
-Marasmius albinanus Corner SPECIES
-=======
+# Marasmius albinanus Corner SPECIES
 
 #### Status
 ACCEPTED

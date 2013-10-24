@@ -1,17 +1,16 @@
-Pseudogyalecta Vezda GENUS
-=======
+# Badimia Vezda GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Folia geobot. phytotax. 10: 408 (1975)
+Folia geobot. phytotax. 21(2): 206 (1986)
 
 #### Original name
-Pseudogyalecta Vezda
+Badimia Vezda
 
 ### Remarks
 null

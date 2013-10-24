@@ -1,17 +1,16 @@
-Lactarius pubescens var. betulae (A.H. Sm.) Hesler & A.H. Sm. VARIETY
-=======
+# Lactarius pubescens (Fr.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-North American Species of Lactarius (Ann Arbor) 282 (1979)
+Epicr. syst. mycol. (Upsaliae) 335 (1838)
 
 #### Original name
-Lactarius betulae A.H. Sm.
+Agaricus pubescens Fr., 1815
 
 ### Remarks
 null

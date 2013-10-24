@@ -1,17 +1,16 @@
-Cytospora corylopsis Henn. SPECIES
-=======
+# Cytospora corylopsidis Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Notizblatt des Königl. bot. Gartens u. Museum zu Berlin 2: 382 (1899)
 
 #### Original name
-Cytospora corylopsis Henn.
+Cytospora corylopsidis Henn.
 
 ### Remarks
 null

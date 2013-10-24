@@ -1,17 +1,16 @@
-Pseudogenea vallumbrosae Bucholtz SPECIES
-=======
+# Pseudogenea vallisumbrosae Bucholtz SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 40: (1901)
 
 #### Original name
-Pseudogenea vallumbrosae Bucholtz
+Pseudogenea vallisumbrosae Bucholtz
 
 ### Remarks
 null

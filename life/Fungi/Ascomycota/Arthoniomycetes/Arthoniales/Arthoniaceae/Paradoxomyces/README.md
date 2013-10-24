@@ -1,5 +1,4 @@
-Paradoxomyces Matzer GENUS
-=======
+# Paradoxomyces Matzer GENUS
 
 #### Status
 ACCEPTED

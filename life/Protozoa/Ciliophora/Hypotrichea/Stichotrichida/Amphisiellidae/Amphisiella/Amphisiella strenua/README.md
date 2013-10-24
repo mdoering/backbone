@@ -1,5 +1,4 @@
-Amphisiella strenua SPECIES
-=======
+# Amphisiella strenua SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tunicatispora K.D. Hyde GENUS
-=======
+# Tunicatispora K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

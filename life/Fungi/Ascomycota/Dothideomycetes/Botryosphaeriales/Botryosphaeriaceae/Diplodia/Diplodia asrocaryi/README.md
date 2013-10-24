@@ -1,5 +1,4 @@
-Diplodia asrocaryi Henn. SPECIES
-=======
+# Diplodia asrocaryi Henn. SPECIES
 
 #### Status
 ACCEPTED

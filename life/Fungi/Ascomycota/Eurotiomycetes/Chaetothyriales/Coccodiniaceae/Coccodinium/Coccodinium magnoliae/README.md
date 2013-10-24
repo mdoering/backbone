@@ -1,5 +1,4 @@
-Coccodinium magnoliae Sawada SPECIES
-=======
+# Coccodinium magnoliae Sawada SPECIES
 
 #### Status
 ACCEPTED

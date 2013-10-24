@@ -1,5 +1,4 @@
-Isobaculum Collins et al., 2002 GENUS
-=======
+# Isobaculum Collins et al., 2002 GENUS
 
 #### Status
 ACCEPTED

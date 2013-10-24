@@ -1,5 +1,4 @@
-Diplodina cytisi Hollós SPECIES
-=======
+# Diplodina cytisi Hollós SPECIES
 
 #### Status
 ACCEPTED

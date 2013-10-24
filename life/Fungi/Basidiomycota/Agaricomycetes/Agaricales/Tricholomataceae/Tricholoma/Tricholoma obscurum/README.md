@@ -1,5 +1,4 @@
-Tricholoma obscurum Velen. SPECIES
-=======
+# Tricholoma obscurum Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma biformis Ellis & Barthol. SPECIES
-=======
+# Phoma biformis Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

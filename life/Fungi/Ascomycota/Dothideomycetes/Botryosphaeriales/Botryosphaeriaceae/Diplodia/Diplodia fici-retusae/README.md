@@ -1,5 +1,4 @@
-Diplodia fici-retusae Sawada SPECIES
-=======
+# Diplodia fici-retusae Sawada SPECIES
 
 #### Status
 ACCEPTED

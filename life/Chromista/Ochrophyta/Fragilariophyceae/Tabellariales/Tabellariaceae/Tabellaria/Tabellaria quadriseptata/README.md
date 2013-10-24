@@ -1,5 +1,4 @@
-Tabellaria quadriseptata Knudson SPECIES
-=======
+# Tabellaria quadriseptata Knudson SPECIES
 
 #### Status
 ACCEPTED

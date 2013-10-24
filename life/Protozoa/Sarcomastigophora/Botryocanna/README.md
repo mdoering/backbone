@@ -1,5 +1,4 @@
-Botryocanna Haeckel, 1881 GENUS
-=======
+# Botryocanna Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

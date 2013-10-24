@@ -1,5 +1,4 @@
-Uredo polliae Cummins SPECIES
-=======
+# Uredo polliae Cummins SPECIES
 
 #### Status
 ACCEPTED

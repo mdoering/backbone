@@ -1,5 +1,4 @@
-Mycosphaerella circumvaga (Desm.) Vestergr. SPECIES
-=======
+# Mycosphaerella circumvaga (Desm.) Vestergr. SPECIES
 
 #### Status
 ACCEPTED

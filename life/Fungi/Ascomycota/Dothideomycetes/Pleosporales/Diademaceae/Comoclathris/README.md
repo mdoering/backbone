@@ -1,5 +1,4 @@
-Comoclathris Clem. GENUS
-=======
+# Comoclathris Clem. GENUS
 
 #### Status
 ACCEPTED

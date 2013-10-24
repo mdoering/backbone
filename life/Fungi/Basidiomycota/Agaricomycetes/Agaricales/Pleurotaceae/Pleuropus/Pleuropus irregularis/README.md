@@ -1,5 +1,4 @@
-Pleuropus irregularis (Peck) Murrill SPECIES
-=======
+# Pleuropus irregularis (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

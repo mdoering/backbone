@@ -1,5 +1,4 @@
-Gyrophora microphylloides (Laurer) Zahlbr. SPECIES
-=======
+# Gyrophora microphylloides (Laurer) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

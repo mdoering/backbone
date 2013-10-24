@@ -1,5 +1,4 @@
-Cucurbitaria vandae (Wahrlich) Kuntze SPECIES
-=======
+# Cucurbitaria vandae (Wahrlich) Kuntze SPECIES
 
 #### Status
 ACCEPTED

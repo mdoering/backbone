@@ -1,5 +1,4 @@
-Gymnopus densifolius Murrill SPECIES
-=======
+# Gymnopus densifolius Murrill SPECIES
 
 #### Status
 ACCEPTED

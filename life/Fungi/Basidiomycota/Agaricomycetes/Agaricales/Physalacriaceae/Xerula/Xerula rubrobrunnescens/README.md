@@ -1,5 +1,4 @@
-Xerula rubrobrunnescens Redhead, Ginns & Shoemaker SPECIES
-=======
+# Xerula rubrobrunnescens Redhead, Ginns & Shoemaker SPECIES
 
 #### Status
 ACCEPTED

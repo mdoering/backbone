@@ -1,5 +1,4 @@
-Lecidea subspadicea (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecidea subspadicea (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

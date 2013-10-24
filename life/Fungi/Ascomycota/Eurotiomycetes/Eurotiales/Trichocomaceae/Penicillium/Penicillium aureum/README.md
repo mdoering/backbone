@@ -1,5 +1,4 @@
-Penicillium aureum Corda SPECIES
-=======
+# Penicillium aureum Corda SPECIES
 
 #### Status
 ACCEPTED

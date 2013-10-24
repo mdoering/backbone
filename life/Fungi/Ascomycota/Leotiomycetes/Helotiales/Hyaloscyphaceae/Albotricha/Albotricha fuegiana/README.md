@@ -1,5 +1,4 @@
-Albotricha fuegiana (Speg.) Gamundí SPECIES
-=======
+# Albotricha fuegiana (Speg.) Gamundí SPECIES
 
 #### Status
 ACCEPTED

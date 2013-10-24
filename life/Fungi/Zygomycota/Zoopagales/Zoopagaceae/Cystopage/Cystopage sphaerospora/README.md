@@ -1,5 +1,4 @@
-Cystopage sphaerospora Drechsler, 1955 SPECIES
-=======
+# Cystopage sphaerospora Drechsler, 1955 SPECIES
 
 #### Status
 ACCEPTED

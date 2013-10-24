@@ -1,5 +1,4 @@
-Lecidea ocellulata (Schaer.) Th. Fr. SPECIES
-=======
+# Lecidea ocellulata (Schaer.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

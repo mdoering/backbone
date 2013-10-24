@@ -1,5 +1,4 @@
-Nectriella philippina Rehm SPECIES
-=======
+# Nectriella philippina Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius piniolens Epinat & Kizlik SPECIES
-=======
+# Lactarius piniolens Epinat & Kizlik SPECIES
 
 #### Status
 ACCEPTED

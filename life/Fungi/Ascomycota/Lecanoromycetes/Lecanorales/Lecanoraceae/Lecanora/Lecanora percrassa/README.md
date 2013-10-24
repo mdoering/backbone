@@ -1,5 +1,4 @@
-Lecanora percrassa Motyka SPECIES
-=======
+# Lecanora percrassa Motyka SPECIES
 
 #### Status
 ACCEPTED

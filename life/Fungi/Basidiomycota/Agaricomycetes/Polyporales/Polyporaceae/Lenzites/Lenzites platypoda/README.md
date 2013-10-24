@@ -1,5 +1,4 @@
-Lenzites platypoda Lév. SPECIES
-=======
+# Lenzites platypoda Lév. SPECIES
 
 #### Status
 ACCEPTED

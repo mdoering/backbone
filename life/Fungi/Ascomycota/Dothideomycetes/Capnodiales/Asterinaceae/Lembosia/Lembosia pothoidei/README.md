@@ -1,5 +1,4 @@
-Lembosia pothoidei Rehm SPECIES
-=======
+# Lembosia pothoidei Rehm SPECIES
 
 #### Status
 ACCEPTED

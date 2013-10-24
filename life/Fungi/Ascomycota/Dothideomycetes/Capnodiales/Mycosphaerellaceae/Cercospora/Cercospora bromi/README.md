@@ -1,5 +1,4 @@
-Cercospora bromi R. Sprague SPECIES
-=======
+# Cercospora bromi R. Sprague SPECIES
 
 #### Status
 ACCEPTED

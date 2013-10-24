@@ -1,5 +1,4 @@
-Rhachomyces arbuscula Thaxt. SPECIES
-=======
+# Rhachomyces arbuscula Thaxt. SPECIES
 
 #### Status
 ACCEPTED

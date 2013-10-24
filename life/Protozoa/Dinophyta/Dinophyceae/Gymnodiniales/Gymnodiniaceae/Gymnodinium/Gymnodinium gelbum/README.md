@@ -1,5 +1,4 @@
-Gymnodinium gelbum Kofoid, 1931 SPECIES
-=======
+# Gymnodinium gelbum Kofoid, 1931 SPECIES
 
 #### Status
 ACCEPTED

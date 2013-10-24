@@ -1,5 +1,4 @@
-Cercospora tephrosiae G.F. Atk. SPECIES
-=======
+# Cercospora tephrosiae G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

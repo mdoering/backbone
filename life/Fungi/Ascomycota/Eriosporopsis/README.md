@@ -1,5 +1,4 @@
-Eriosporopsis Petr. GENUS
-=======
+# Eriosporopsis Petr. GENUS
 
 #### Status
 ACCEPTED

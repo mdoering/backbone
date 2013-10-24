@@ -1,5 +1,4 @@
-Nummulitoides Abrard, 1955 GENUS
-=======
+# Nummulitoides Abrard, 1955 GENUS
 
 #### Status
 ACCEPTED

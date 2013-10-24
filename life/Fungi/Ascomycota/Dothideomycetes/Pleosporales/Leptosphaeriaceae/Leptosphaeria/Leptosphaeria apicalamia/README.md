@@ -1,5 +1,4 @@
-Leptosphaeria apicalamia var. apicalamia VARIETY
-=======
+# Leptosphaeria apicalamia Ces. & De Not. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptosphaeria apicalamia var. apicalamia
+Leptosphaeria apicalamia Ces. & De Not.
 
 ### Remarks
 null

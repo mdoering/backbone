@@ -1,5 +1,4 @@
-Strombomonas vermontii f. commune Popova FORM
-=======
+# Strombomonas vermontii (Deflandre) Deflandre SPECIES
 
 #### Status
 ACCEPTED

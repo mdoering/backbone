@@ -1,5 +1,4 @@
-Dothiorella banksiae Hansf. SPECIES
-=======
+# Dothiorella banksiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alatosessilispora K. Ando & Tubaki GENUS
-=======
+# Alatosessilispora K. Ando & Tubaki GENUS
 
 #### Status
 ACCEPTED

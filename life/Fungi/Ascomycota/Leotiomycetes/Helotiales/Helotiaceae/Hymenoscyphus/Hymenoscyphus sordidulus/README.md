@@ -1,5 +1,4 @@
-Hymenoscyphus sordidulus (Speg.) Kuntze SPECIES
-=======
+# Hymenoscyphus sordidulus (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

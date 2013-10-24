@@ -1,5 +1,4 @@
-Lopadium thaxteri SPECIES
-=======
+# Lopadium thaxteri SPECIES
 
 #### Status
 ACCEPTED

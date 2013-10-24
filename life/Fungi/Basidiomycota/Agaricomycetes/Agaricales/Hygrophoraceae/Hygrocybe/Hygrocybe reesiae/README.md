@@ -1,5 +1,4 @@
-Hygrocybe reesiae A.M. Young SPECIES
-=======
+# Hygrocybe reesiae A.M. Young SPECIES
 
 #### Status
 ACCEPTED

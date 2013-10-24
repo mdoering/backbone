@@ -1,5 +1,4 @@
-Boletus jodoforminus E.H.L. Krause SPECIES
-=======
+# Boletus jodoforminus E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

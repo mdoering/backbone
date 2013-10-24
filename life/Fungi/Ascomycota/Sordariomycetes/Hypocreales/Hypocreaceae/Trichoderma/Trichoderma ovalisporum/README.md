@@ -1,5 +1,4 @@
-Trichoderma ovalisporum Samuels & Schroers, 2004 SPECIES
-=======
+# Trichoderma ovalisporum Samuels & Schroers, 2004 SPECIES
 
 #### Status
 ACCEPTED

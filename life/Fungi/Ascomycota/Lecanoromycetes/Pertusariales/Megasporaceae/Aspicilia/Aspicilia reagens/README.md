@@ -1,5 +1,4 @@
-Aspicilia reagens (Zahlbr.) Motyka SPECIES
-=======
+# Aspicilia reagens (Zahlbr.) Motyka SPECIES
 
 #### Status
 ACCEPTED

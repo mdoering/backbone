@@ -1,5 +1,4 @@
-Phoma hippuridis Staritz SPECIES
-=======
+# Phoma hippuridis Staritz SPECIES
 
 #### Status
 ACCEPTED

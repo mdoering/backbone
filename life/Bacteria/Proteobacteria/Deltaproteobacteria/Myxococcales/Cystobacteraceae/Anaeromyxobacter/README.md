@@ -1,5 +1,4 @@
-Anaeromyxobacter Sanford et al., 2002 GENUS
-=======
+# Anaeromyxobacter Sanford et al., 2002 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus roseistipitatus Bogart SPECIES
-=======
+# Coprinus roseistipitatus Bogart SPECIES
 
 #### Status
 ACCEPTED

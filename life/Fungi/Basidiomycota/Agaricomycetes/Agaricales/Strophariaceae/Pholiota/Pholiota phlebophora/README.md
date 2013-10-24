@@ -1,5 +1,4 @@
-Pholiota phlebophora Pat. SPECIES
-=======
+# Pholiota phlebophora Pat. SPECIES
 
 #### Status
 ACCEPTED

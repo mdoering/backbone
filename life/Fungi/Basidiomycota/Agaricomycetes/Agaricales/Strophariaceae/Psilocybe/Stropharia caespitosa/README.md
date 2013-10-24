@@ -1,5 +1,4 @@
-Stropharia caespitosa Murrill SPECIES
-=======
+# Stropharia caespitosa Murrill SPECIES
 
 #### Status
 ACCEPTED

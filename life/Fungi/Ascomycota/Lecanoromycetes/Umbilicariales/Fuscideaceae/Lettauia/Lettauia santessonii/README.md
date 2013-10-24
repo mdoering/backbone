@@ -1,5 +1,4 @@
-Lettauia santessonii Ihlen & Tønsberg SPECIES
-=======
+# Lettauia santessonii Ihlen & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placosphaeria scopariae Brunaud SPECIES
-=======
+# Placosphaeria scopariae Brunaud SPECIES
 
 #### Status
 ACCEPTED

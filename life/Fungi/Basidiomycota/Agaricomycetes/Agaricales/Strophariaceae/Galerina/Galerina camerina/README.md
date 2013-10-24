@@ -1,14 +1,13 @@
-Galera camerina (Fr.) Ricken, 1915 SPECIES
-=======
+# Galerina camerina (Fr.) Kühner, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Die Blätterpilze 1: 228 (1915)
+Encyclop. Mycol. 7: 212 (1955)
 
 #### Original name
 Agaricus camerinus Fr., 1838

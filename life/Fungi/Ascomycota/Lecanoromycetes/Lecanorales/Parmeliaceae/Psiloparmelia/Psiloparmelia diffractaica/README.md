@@ -1,5 +1,4 @@
-Psiloparmelia diffractaica Elix & T.H. Nash SPECIES
-=======
+# Psiloparmelia diffractaica Elix & T.H. Nash SPECIES
 
 #### Status
 ACCEPTED

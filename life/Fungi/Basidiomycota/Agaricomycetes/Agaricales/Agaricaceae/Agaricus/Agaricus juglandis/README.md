@@ -1,5 +1,4 @@
-Agaricus juglandis Britzelm. SPECIES
-=======
+# Agaricus juglandis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

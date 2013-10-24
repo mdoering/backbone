@@ -1,5 +1,4 @@
-Bombyliospora amplificans var. amplificans VARIETY
-=======
+# Bombyliospora amplificans (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 7: 49 (1930)
 
 #### Original name
 Lecidea amplificans Nyl.

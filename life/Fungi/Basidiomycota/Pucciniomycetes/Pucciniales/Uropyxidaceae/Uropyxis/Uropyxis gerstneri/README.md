@@ -1,5 +1,4 @@
-Uropyxis gerstneri Doidge SPECIES
-=======
+# Uropyxis gerstneri Doidge SPECIES
 
 #### Status
 ACCEPTED

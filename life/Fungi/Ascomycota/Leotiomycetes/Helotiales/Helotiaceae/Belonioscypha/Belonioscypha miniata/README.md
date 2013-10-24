@@ -1,5 +1,4 @@
-Belonioscypha miniata Kanouse SPECIES
-=======
+# Belonioscypha miniata Kanouse SPECIES
 
 #### Status
 ACCEPTED

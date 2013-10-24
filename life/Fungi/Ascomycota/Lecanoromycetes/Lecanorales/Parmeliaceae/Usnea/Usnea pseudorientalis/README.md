@@ -1,5 +1,4 @@
-Usnea pseudorientalis Asahina SPECIES
-=======
+# Usnea pseudorientalis Asahina SPECIES
 
 #### Status
 ACCEPTED

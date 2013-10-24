@@ -1,5 +1,4 @@
-Mycosphaerella scopulorum (Sacc. & Cavara) Petr. SPECIES
-=======
+# Mycosphaerella scopulorum (Sacc. & Cavara) Petr. SPECIES
 
 #### Status
 ACCEPTED

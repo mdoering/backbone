@@ -1,5 +1,4 @@
-Spermatodium montinii (Beltr.) Trevis. SPECIES
-=======
+# Spermatodium montinii (Beltr.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

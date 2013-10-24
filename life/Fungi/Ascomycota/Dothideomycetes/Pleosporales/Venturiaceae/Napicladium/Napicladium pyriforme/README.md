@@ -1,5 +1,4 @@
-Napicladium pyriforme Speg. SPECIES
-=======
+# Napicladium pyriforme Speg. SPECIES
 
 #### Status
 ACCEPTED

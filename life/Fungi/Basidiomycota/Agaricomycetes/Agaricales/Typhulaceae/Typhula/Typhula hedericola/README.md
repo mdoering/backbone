@@ -1,14 +1,13 @@
-Pistillaria hedericola Ces., 1885 SPECIES
-=======
+# Typhula hedericola (Ces.) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Ztg. 77 (1885)
+Ann. Bot. Mem. 1: 673 (1950)
 
 #### Original name
 Pistillaria hedericola Ces., 1885

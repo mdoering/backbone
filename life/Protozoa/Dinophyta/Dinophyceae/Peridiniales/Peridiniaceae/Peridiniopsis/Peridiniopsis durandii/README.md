@@ -1,5 +1,4 @@
-Peridiniopsis durandii S. Rodriguez, A. Couté, L. Tenhage & G. Mascarell SPECIES
-=======
+# Peridiniopsis durandii S. Rodriguez, A. Couté, L. Tenhage & G. Mascarell SPECIES
 
 #### Status
 ACCEPTED

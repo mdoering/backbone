@@ -1,5 +1,4 @@
-Astrosporina alienospora Corner & E. Horak SPECIES
-=======
+# Astrosporina alienospora Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

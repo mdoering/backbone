@@ -1,5 +1,4 @@
-Pertusaria akagiensis Vain. SPECIES
-=======
+# Pertusaria akagiensis Vain. SPECIES
 
 #### Status
 ACCEPTED

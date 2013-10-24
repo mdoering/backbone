@@ -1,5 +1,4 @@
-Polyblastia circularis Th. Fr. & Blomb. SPECIES
-=======
+# Polyblastia circularis Th. Fr. & Blomb. SPECIES
 
 #### Status
 ACCEPTED

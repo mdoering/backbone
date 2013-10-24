@@ -1,5 +1,4 @@
-Salpingella laminata Kofoid & Campbell, 1939 SPECIES
-=======
+# Salpingella laminata Kofoid & Campbell, 1939 SPECIES
 
 #### Status
 ACCEPTED

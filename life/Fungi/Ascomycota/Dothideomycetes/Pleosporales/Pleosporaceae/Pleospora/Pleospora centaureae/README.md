@@ -1,5 +1,4 @@
-Pleospora centaureae Politis SPECIES
-=======
+# Pleospora centaureae Politis SPECIES
 
 #### Status
 ACCEPTED

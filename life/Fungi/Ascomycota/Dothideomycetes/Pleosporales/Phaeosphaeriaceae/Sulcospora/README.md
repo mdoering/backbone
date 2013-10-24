@@ -1,5 +1,4 @@
-Sulcospora Shoemaker & C.E. Babcock, 1989 GENUS
-=======
+# Sulcospora Shoemaker & C.E. Babcock, 1989 GENUS
 
 #### Status
 ACCEPTED

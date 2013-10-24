@@ -1,5 +1,4 @@
-Mycovellosiella sacchari Sarbajna SPECIES
-=======
+# Mycovellosiella sacchari Sarbajna SPECIES
 
 #### Status
 ACCEPTED

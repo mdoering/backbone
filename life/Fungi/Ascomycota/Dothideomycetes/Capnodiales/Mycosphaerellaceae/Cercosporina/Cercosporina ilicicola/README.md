@@ -1,5 +1,4 @@
-Cercosporina ilicicola (Maubl.) Sacc. SPECIES
-=======
+# Cercosporina ilicicola (Maubl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

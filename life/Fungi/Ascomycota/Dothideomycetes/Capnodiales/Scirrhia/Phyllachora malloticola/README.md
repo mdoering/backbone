@@ -1,5 +1,4 @@
-Phyllachora malloticola Seshadri, 1969 SPECIES
-=======
+# Phyllachora malloticola Seshadri, 1969 SPECIES
 
 #### Status
 DOUBTFUL

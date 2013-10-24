@@ -1,5 +1,4 @@
-Mycovellosiella trifidae (Chupp) Deighton SPECIES
-=======
+# Mycovellosiella trifidae (Chupp) Deighton SPECIES
 
 #### Status
 ACCEPTED

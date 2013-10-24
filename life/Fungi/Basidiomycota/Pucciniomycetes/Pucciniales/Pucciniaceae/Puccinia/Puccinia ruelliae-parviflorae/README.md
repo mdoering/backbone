@@ -1,17 +1,16 @@
-Puccinia ruellia-parviflora G.F. Laundon SPECIES
-=======
+# Puccinia ruelliae-parviflorae G.F. Laundon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Pap. 89: 59 (1963)
 
 #### Original name
-Puccinia ruellia-parviflora G.F. Laundon
+Puccinia ruelliae-parviflorae G.F. Laundon
 
 ### Remarks
 null

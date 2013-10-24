@@ -1,5 +1,4 @@
-Cercospora gomphrenae Sawada SPECIES
-=======
+# Cercospora gomphrenae Sawada SPECIES
 
 #### Status
 ACCEPTED

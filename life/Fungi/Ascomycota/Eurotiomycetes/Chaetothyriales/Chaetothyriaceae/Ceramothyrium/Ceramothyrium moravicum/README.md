@@ -1,5 +1,4 @@
-Ceramothyrium moravicum Petr. SPECIES
-=======
+# Ceramothyrium moravicum Petr. SPECIES
 
 #### Status
 ACCEPTED

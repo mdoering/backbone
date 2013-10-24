@@ -1,5 +1,4 @@
-Antrodia submalicola A. David & Dequatre, 1985 SPECIES
-=======
+# Antrodia submalicola A. David & Dequatre, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria prominens Müll. Arg. SPECIES
-=======
+# Verrucaria prominens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

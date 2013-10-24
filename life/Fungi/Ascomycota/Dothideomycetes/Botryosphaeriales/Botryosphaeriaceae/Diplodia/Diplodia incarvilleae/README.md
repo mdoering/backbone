@@ -1,5 +1,4 @@
-Diplodia incarvilleae Thüm. SPECIES
-=======
+# Diplodia incarvilleae Thüm. SPECIES
 
 #### Status
 ACCEPTED

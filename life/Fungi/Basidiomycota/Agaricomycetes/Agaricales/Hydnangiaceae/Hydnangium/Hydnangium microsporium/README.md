@@ -1,5 +1,4 @@
-Hydnangium microsporium Rodway SPECIES
-=======
+# Hydnangium microsporium Rodway SPECIES
 
 #### Status
 ACCEPTED

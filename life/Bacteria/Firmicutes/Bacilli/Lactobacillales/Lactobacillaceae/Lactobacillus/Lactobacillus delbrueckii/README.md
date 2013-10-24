@@ -1,5 +1,4 @@
-Lactobacillus delbrueckii subsp. delbrueckii SUBSPECIES
-=======
+# Lactobacillus delbrueckii (Leichmann, 1896) Beijerinck, 1901 SPECIES
 
 #### Status
 ACCEPTED

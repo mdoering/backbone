@@ -1,5 +1,4 @@
-Actinotexis Arx GENUS
-=======
+# Actinotexis Arx GENUS
 
 #### Status
 ACCEPTED

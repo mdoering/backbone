@@ -1,5 +1,4 @@
-Linocarpon spathulatum Dulym., P.F. Cannon & Peerally SPECIES
-=======
+# Linocarpon spathulatum Dulym., P.F. Cannon & Peerally SPECIES
 
 #### Status
 ACCEPTED

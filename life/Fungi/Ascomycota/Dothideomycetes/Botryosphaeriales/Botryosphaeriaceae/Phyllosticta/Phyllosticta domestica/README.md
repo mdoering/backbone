@@ -1,5 +1,4 @@
-Phyllosticta domestica Voglino SPECIES
-=======
+# Phyllosticta domestica Voglino SPECIES
 
 #### Status
 ACCEPTED

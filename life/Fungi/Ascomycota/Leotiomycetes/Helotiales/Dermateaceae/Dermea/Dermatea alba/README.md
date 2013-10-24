@@ -1,5 +1,4 @@
-Dermatea alba Velen. SPECIES
-=======
+# Dermatea alba Velen. SPECIES
 
 #### Status
 ACCEPTED

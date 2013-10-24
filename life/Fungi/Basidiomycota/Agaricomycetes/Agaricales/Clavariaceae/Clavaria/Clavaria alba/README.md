@@ -1,5 +1,4 @@
-Clavaria alba Pers. SPECIES
-=======
+# Clavaria alba Pers. SPECIES
 
 #### Status
 ACCEPTED

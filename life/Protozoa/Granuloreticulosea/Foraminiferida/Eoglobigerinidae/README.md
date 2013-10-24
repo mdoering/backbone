@@ -1,5 +1,4 @@
-Eoglobigerinidae Blow, 1979 FAMILY
-=======
+# Eoglobigerinidae Blow, 1979 FAMILY
 
 #### Status
 ACCEPTED

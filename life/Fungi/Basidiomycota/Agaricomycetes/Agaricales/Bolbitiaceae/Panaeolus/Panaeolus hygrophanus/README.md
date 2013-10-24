@@ -1,5 +1,4 @@
-Panaeolus hygrophanus Velen. SPECIES
-=======
+# Panaeolus hygrophanus Velen. SPECIES
 
 #### Status
 ACCEPTED

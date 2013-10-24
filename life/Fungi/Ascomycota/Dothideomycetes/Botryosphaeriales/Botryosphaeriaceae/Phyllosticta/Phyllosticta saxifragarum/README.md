@@ -1,5 +1,4 @@
-Phyllosticta saxifragarum Allesch. SPECIES
-=======
+# Phyllosticta saxifragarum Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora vulnerata Hue SPECIES
-=======
+# Lecanora vulnerata Hue SPECIES
 
 #### Status
 ACCEPTED

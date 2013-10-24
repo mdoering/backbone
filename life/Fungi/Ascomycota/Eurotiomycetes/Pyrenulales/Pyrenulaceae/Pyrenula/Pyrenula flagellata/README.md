@@ -1,5 +1,4 @@
-Pyrenula flagellata H. Harada SPECIES
-=======
+# Pyrenula flagellata H. Harada SPECIES
 
 #### Status
 ACCEPTED

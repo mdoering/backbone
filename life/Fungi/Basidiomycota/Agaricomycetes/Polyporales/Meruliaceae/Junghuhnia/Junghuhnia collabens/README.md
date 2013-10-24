@@ -1,17 +1,16 @@
-Polyporus blytii Fr., 1874 SPECIES
-=======
+# Junghuhnia collabens (Fr.) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hymenomyc. eur. (Upsaliae) 571 (1874)
+Persoonia 7(1): 18 (1972)
 
 #### Original name
-Polyporus blytii Fr., 1874
+Polyporus collabens Fr., 1874
 
 ### Remarks
 null

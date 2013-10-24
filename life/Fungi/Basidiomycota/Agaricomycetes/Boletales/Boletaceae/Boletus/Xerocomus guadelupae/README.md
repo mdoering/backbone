@@ -1,5 +1,4 @@
-Xerocomus guadelupae (Singer & Fiard) Pegler SPECIES
-=======
+# Xerocomus guadelupae (Singer & Fiard) Pegler SPECIES
 
 #### Status
 ACCEPTED

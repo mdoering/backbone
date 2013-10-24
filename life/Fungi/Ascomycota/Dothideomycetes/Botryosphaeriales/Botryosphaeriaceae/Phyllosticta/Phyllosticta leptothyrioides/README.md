@@ -1,5 +1,4 @@
-Phyllosticta leptothyrioides (P. Karst.) Allesch. SPECIES
-=======
+# Phyllosticta leptothyrioides (P. Karst.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

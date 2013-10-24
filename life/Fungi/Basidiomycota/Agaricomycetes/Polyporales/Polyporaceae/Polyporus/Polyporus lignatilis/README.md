@@ -1,5 +1,4 @@
-Polyporus lignatilis Britzelm. SPECIES
-=======
+# Polyporus lignatilis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

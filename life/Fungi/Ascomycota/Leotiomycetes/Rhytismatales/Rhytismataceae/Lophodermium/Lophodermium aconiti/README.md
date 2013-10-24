@@ -1,5 +1,4 @@
-Lophodermium aconiti Losa SPECIES
-=======
+# Lophodermium aconiti Losa SPECIES
 
 #### Status
 ACCEPTED

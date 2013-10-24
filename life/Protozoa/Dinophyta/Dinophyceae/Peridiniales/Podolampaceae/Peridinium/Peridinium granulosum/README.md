@@ -1,8 +1,7 @@
-Peridinium tabulatum var. ovatum Playfair VARIETY
-=======
+# Peridinium granulosum Playfair SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

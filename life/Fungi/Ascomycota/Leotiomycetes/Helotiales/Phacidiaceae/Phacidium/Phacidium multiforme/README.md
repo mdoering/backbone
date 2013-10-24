@@ -1,5 +1,4 @@
-Phacidium multiforme R. Ludw. SPECIES
-=======
+# Phacidium multiforme R. Ludw. SPECIES
 
 #### Status
 ACCEPTED

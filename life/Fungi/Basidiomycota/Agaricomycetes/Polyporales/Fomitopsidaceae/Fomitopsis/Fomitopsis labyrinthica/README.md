@@ -1,5 +1,4 @@
-Fomitopsis labyrinthica Bernicchia & Ryvarden SPECIES
-=======
+# Fomitopsis labyrinthica Bernicchia & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

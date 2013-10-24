@@ -1,5 +1,4 @@
-Zygochytrium Sorokin GENUS
-=======
+# Zygochytrium Sorokin GENUS
 
 #### Status
 ACCEPTED

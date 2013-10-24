@@ -1,5 +1,4 @@
-Urceolaria notata (Ach.) Röhling SPECIES
-=======
+# Urceolaria notata (Ach.) Röhling SPECIES
 
 #### Status
 ACCEPTED

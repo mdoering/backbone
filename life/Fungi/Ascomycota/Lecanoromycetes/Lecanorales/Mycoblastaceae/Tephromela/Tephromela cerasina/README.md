@@ -1,5 +1,4 @@
-Tephromela cerasina (Müll. Arg.) Rambold & Triebel SPECIES
-=======
+# Tephromela cerasina (Müll. Arg.) Rambold & Triebel SPECIES
 
 #### Status
 ACCEPTED

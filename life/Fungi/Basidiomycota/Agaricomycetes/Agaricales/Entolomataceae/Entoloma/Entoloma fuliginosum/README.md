@@ -1,5 +1,4 @@
-Entoloma fuliginosum Murrill SPECIES
-=======
+# Entoloma fuliginosum Murrill SPECIES
 
 #### Status
 ACCEPTED

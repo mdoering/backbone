@@ -1,17 +1,16 @@
-Haplotrichum ellipsosporum (Hol.-Jech.) Hol.-Jech., 1976 SPECIES
-=======
+# Botryobasidium ellipsosporum Hol.-Jech., 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 30(1): 4 (1976)
+Ceská Mykol. 23(4): 211 (1969)
 
 #### Original name
-Oidium ellipsosporum Hol.-Jech., 1969
+Botryobasidium ellipsosporum Hol.-Jech., 1969
 
 ### Remarks
 null

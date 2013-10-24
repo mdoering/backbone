@@ -1,5 +1,4 @@
-Sphaeria capitellata Klotzsch SPECIES
-=======
+# Sphaeria capitellata Klotzsch SPECIES
 
 #### Status
 ACCEPTED

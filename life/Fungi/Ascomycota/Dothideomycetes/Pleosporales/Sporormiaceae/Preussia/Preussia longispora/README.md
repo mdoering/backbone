@@ -1,5 +1,4 @@
-Preussia longispora (Cain) Valldos. & Guarro SPECIES
-=======
+# Preussia longispora (Cain) Valldos. & Guarro SPECIES
 
 #### Status
 ACCEPTED

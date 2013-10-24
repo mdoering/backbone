@@ -1,5 +1,4 @@
-Sannemannisphaera Kozur, 1986 GENUS
-=======
+# Sannemannisphaera Kozur, 1986 GENUS
 
 #### Status
 ACCEPTED

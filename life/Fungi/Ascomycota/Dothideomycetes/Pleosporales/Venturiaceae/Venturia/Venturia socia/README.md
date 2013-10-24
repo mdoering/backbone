@@ -1,5 +1,4 @@
-Venturia socia Sacc. & Berl. SPECIES
-=======
+# Venturia socia Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

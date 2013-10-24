@@ -1,5 +1,4 @@
-Phyllosticta medeolae Dearn. & House SPECIES
-=======
+# Phyllosticta medeolae Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

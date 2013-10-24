@@ -1,5 +1,4 @@
-Polyporus pachyus Rostk. SPECIES
-=======
+# Polyporus pachyus Rostk. SPECIES
 
 #### Status
 ACCEPTED

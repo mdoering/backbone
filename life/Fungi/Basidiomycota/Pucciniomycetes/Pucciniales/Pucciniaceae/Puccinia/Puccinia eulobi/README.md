@@ -1,5 +1,4 @@
-Puccinia eulobi Dietel & Holw. SPECIES
-=======
+# Puccinia eulobi Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

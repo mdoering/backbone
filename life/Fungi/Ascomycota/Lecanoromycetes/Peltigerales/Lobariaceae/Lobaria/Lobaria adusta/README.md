@@ -1,5 +1,4 @@
-Lobaria adusta P. Gaertn., G. Mey. & Scherb. SPECIES
-=======
+# Lobaria adusta P. Gaertn., G. Mey. & Scherb. SPECIES
 
 #### Status
 ACCEPTED

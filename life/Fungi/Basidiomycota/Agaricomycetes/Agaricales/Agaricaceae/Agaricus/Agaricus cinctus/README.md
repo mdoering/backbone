@@ -1,5 +1,4 @@
-Agaricus cinctus Batsch SPECIES
-=======
+# Agaricus cinctus Batsch SPECIES
 
 #### Status
 ACCEPTED

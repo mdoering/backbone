@@ -1,5 +1,4 @@
-Halobiforma lacisalsi Xu et al., 2005 SPECIES
-=======
+# Halobiforma lacisalsi Xu et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

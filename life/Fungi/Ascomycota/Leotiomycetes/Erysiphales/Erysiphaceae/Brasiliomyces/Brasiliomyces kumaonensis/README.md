@@ -1,5 +1,4 @@
-Brasiliomyces kumaonensis N. Ahmad, A.K. Sarbhoy & Kamal, 1998 SPECIES
-=======
+# Brasiliomyces kumaonensis N. Ahmad, A.K. Sarbhoy & Kamal, 1998 SPECIES
 
 #### Status
 ACCEPTED

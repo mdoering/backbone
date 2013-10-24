@@ -1,5 +1,4 @@
-Asterina parsonsiae Hosag., 2006 SPECIES
-=======
+# Asterina parsonsiae Hosag., 2006 SPECIES
 
 #### Status
 ACCEPTED

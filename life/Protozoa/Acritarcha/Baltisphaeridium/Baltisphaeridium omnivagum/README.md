@@ -1,5 +1,4 @@
-Baltisphaeridium omnivagum Playford & Wicander, 1988 SPECIES
-=======
+# Baltisphaeridium omnivagum Playford & Wicander, 1988 SPECIES
 
 #### Status
 ACCEPTED

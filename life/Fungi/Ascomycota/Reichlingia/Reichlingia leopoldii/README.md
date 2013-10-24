@@ -1,5 +1,4 @@
-Reichlingia leopoldii Diederich & Scheid., 1996 SPECIES
-=======
+# Reichlingia leopoldii Diederich & Scheid., 1996 SPECIES
 
 #### Status
 ACCEPTED

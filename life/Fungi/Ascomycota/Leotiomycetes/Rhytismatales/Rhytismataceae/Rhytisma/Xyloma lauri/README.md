@@ -1,5 +1,4 @@
-Xyloma lauri Schwein. SPECIES
-=======
+# Xyloma lauri Schwein. SPECIES
 
 #### Status
 ACCEPTED

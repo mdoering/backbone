@@ -1,5 +1,4 @@
-Diaporthe sechalinensis Sacc. SPECIES
-=======
+# Diaporthe sechalinensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

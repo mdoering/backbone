@@ -1,5 +1,4 @@
-Nocardiopsis tropica Evtushenko et al., 2000 SPECIES
-=======
+# Nocardiopsis tropica Evtushenko et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

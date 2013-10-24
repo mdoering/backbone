@@ -1,5 +1,4 @@
-Polyedryxium kraeuselianum Schaarschmidt, 1963 SPECIES
-=======
+# Polyedryxium kraeuselianum Schaarschmidt, 1963 SPECIES
 
 #### Status
 ACCEPTED

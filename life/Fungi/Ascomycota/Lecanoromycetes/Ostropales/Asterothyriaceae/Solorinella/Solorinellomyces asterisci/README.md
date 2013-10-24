@@ -1,5 +1,4 @@
-Solorinellomyces asterisci Cif. & Tomas. SPECIES
-=======
+# Solorinellomyces asterisci Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

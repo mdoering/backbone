@@ -1,5 +1,4 @@
-Candida sloofii Van Uden and Do Carmo-sousa SPECIES
-=======
+# Candida sloofii Van Uden and Do Carmo-sousa SPECIES
 
 #### Status
 ACCEPTED

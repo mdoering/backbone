@@ -1,5 +1,4 @@
-Didymella euphoriae Naito SPECIES
-=======
+# Didymella euphoriae Naito SPECIES
 
 #### Status
 ACCEPTED

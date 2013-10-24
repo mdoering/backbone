@@ -1,5 +1,4 @@
-Daedalea levis Hook. SPECIES
-=======
+# Daedalea levis Hook. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalidea saxicola (Groenh.) Hafellner & Vezda SPECIES
-=======
+# Gyalidea saxicola (Groenh.) Hafellner & Vezda SPECIES
 
 #### Status
 ACCEPTED

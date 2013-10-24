@@ -1,5 +1,4 @@
-Arthopyrenia indusiata Müll. Arg. SPECIES
-=======
+# Arthopyrenia indusiata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

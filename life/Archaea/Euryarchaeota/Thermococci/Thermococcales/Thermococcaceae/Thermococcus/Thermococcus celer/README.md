@@ -1,5 +1,4 @@
-Thermococcus celer Zillig, 1983 SPECIES
-=======
+# Thermococcus celer Zillig, 1983 SPECIES
 
 #### Status
 ACCEPTED

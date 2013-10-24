@@ -1,5 +1,4 @@
-Zignoëlla faginea Feltgen SPECIES
-=======
+# Zignoëlla faginea Feltgen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Beltrania circinata Bhat & W.B. Kendr. SPECIES
-=======
+# Beltrania circinata Bhat & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

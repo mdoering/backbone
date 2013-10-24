@@ -1,5 +1,4 @@
-Soranthera Postels & Ruprecht, 1840 GENUS
-=======
+# Soranthera Postels & Ruprecht, 1840 GENUS
 
 #### Status
 ACCEPTED

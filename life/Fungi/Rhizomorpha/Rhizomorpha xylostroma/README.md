@@ -1,5 +1,4 @@
-Rhizomorpha xylostroma Fr. SPECIES
-=======
+# Rhizomorpha xylostroma Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia diplolophii Durrieu SPECIES
-=======
+# Puccinia diplolophii Durrieu SPECIES
 
 #### Status
 ACCEPTED

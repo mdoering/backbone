@@ -1,5 +1,4 @@
-Plectosphaera selaginellae M.L. Farr, 1968 SPECIES
-=======
+# Plectosphaera selaginellae M.L. Farr, 1968 SPECIES
 
 #### Status
 ACCEPTED

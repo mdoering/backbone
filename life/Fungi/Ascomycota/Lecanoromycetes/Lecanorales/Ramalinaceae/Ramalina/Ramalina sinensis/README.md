@@ -1,17 +1,16 @@
-Ramalina sinensis var. elegantula Jatta VARIETY
-=======
+# Ramalina sinensis Jatta SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nuovo Giorn. Bot. Ital. 9: 262 (1902)
 
 #### Original name
-null
+Ramalina sinensis Jatta
 
 ### Remarks
 null

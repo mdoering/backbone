@@ -1,5 +1,4 @@
-Entoloma subcostatum G.F. Atk. SPECIES
-=======
+# Entoloma subcostatum G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

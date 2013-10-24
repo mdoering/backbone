@@ -1,5 +1,4 @@
-Eucantharomyces rugatus Santam. SPECIES
-=======
+# Eucantharomyces rugatus Santam. SPECIES
 
 #### Status
 ACCEPTED

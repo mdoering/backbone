@@ -1,5 +1,4 @@
-Sphaeria corticium Schwein. SPECIES
-=======
+# Sphaeria corticium Schwein. SPECIES
 
 #### Status
 ACCEPTED

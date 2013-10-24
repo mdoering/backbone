@@ -1,5 +1,4 @@
-Geotrichopsis Tzean & Estey GENUS
-=======
+# Geotrichopsis Tzean & Estey GENUS
 
 #### Status
 ACCEPTED

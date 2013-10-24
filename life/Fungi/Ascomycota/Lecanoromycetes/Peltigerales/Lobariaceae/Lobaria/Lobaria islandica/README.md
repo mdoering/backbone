@@ -1,5 +1,4 @@
-Lobaria islandica (L.) Hoffm. SPECIES
-=======
+# Lobaria islandica (L.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

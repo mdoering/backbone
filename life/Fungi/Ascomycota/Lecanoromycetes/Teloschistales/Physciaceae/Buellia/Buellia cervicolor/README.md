@@ -1,5 +1,4 @@
-Buellia cervicolor (Nyl.) Zahlbr. SPECIES
-=======
+# Buellia cervicolor (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

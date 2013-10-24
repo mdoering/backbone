@@ -1,5 +1,4 @@
-Mycetocola Tsukamoto et al., 2001 GENUS
-=======
+# Mycetocola Tsukamoto et al., 2001 GENUS
 
 #### Status
 ACCEPTED

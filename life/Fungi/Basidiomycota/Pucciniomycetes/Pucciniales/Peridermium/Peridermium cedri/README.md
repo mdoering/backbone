@@ -1,5 +1,4 @@
-Peridermium cedri Barclay SPECIES
-=======
+# Peridermium cedri Barclay SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oligosphaeridium pulcherrimum (Deflandre & Cookson, 1955) Davey & Williams, 1966 SPECIES
-=======
+# Oligosphaeridium pulcherrimum (Deflandre & Cookson, 1955) Davey & Williams, 1966 SPECIES
 
 #### Status
 ACCEPTED

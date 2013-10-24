@@ -1,5 +1,4 @@
-Leptoniella edulis (Peck) Murrill SPECIES
-=======
+# Leptoniella edulis (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

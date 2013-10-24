@@ -1,5 +1,4 @@
-Sphaerodes quandrangularis Dania García, Stchigel & Guarro SPECIES
-=======
+# Sphaerodes quandrangularis Dania García, Stchigel & Guarro SPECIES
 
 #### Status
 ACCEPTED

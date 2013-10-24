@@ -1,5 +1,4 @@
-Penicillium schmidtii Svilv. SPECIES
-=======
+# Penicillium schmidtii Svilv. SPECIES
 
 #### Status
 ACCEPTED

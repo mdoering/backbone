@@ -1,5 +1,4 @@
-Dactylaria aspirensis R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Dactylaria aspirensis R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

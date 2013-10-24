@@ -1,5 +1,4 @@
-Myzocytium lineare Cornu SPECIES
-=======
+# Myzocytium lineare Cornu SPECIES
 
 #### Status
 ACCEPTED

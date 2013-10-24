@@ -1,5 +1,4 @@
-Entophysalis zonata Gardner SPECIES
-=======
+# Entophysalis zonata Gardner SPECIES
 
 #### Status
 ACCEPTED

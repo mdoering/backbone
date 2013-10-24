@@ -1,5 +1,4 @@
-Chilodon titowi SPECIES
-=======
+# Chilodon titowi SPECIES
 
 #### Status
 ACCEPTED

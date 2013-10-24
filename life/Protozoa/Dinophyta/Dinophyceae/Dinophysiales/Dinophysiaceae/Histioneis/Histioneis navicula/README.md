@@ -1,5 +1,4 @@
-Histioneis navicula Kofoid, 1907 SPECIES
-=======
+# Histioneis navicula Kofoid, 1907 SPECIES
 
 #### Status
 ACCEPTED

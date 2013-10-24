@@ -1,5 +1,4 @@
-Diplodina dahliae Hollós SPECIES
-=======
+# Diplodina dahliae Hollós SPECIES
 
 #### Status
 ACCEPTED

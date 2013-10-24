@@ -1,5 +1,4 @@
-Gloeosporidiella semecarpi R.K. Verma SPECIES
-=======
+# Gloeosporidiella semecarpi R.K. Verma SPECIES
 
 #### Status
 ACCEPTED

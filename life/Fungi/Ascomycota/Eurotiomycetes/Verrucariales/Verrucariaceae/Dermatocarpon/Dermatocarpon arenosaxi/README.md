@@ -1,5 +1,4 @@
-Dermatocarpon arenosaxi Amtoft SPECIES
-=======
+# Dermatocarpon arenosaxi Amtoft SPECIES
 
 #### Status
 ACCEPTED

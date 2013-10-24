@@ -1,5 +1,4 @@
-Polyporus chocolatus Bose, 1923 SPECIES
-=======
+# Polyporus chocolatus Bose, 1923 SPECIES
 
 #### Status
 ACCEPTED

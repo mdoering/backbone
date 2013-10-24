@@ -1,5 +1,4 @@
-Tomentellina cinerascens var. cinerascens VARIETY
-=======
+# Tomentellina cinerascens anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tomentellina cinerascens var. cinerascens
+Tomentellina cinerascens anon.
 
 ### Remarks
 null

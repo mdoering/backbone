@@ -1,5 +1,4 @@
-Botryosphaeria sorosia (Lév.) Sacc. SPECIES
-=======
+# Botryosphaeria sorosia (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

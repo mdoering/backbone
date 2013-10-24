@@ -1,5 +1,4 @@
-Collybia umbrina Clem. SPECIES
-=======
+# Collybia umbrina Clem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amycolatopsis jejuensis Lee, 2006 SPECIES
-=======
+# Amycolatopsis jejuensis Lee, 2006 SPECIES
 
 #### Status
 ACCEPTED

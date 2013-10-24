@@ -1,5 +1,4 @@
-Hypotrachyna andensis Hale SPECIES
-=======
+# Hypotrachyna andensis Hale SPECIES
 
 #### Status
 ACCEPTED

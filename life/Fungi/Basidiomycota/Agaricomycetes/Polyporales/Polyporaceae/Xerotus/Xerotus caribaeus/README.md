@@ -1,5 +1,4 @@
-Xerotus caribaeus Fr. SPECIES
-=======
+# Xerotus caribaeus Fr. SPECIES
 
 #### Status
 ACCEPTED

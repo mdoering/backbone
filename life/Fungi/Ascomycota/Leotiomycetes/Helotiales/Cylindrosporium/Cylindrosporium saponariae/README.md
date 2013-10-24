@@ -1,5 +1,4 @@
-Cylindrosporium saponariae Roum. SPECIES
-=======
+# Cylindrosporium saponariae Roum. SPECIES
 
 #### Status
 ACCEPTED

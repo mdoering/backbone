@@ -1,5 +1,4 @@
-Pannularia nigrocinerea (Nyl.) Nyl. SPECIES
-=======
+# Pannularia nigrocinerea (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

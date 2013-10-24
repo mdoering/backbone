@@ -1,5 +1,4 @@
-Porphyrosiphon notarissi Kuetzing Ex Gomont SPECIES
-=======
+# Porphyrosiphon notarissi Kuetzing Ex Gomont SPECIES
 
 #### Status
 ACCEPTED

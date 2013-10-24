@@ -1,5 +1,4 @@
-Aulacodiscus kryshtofovichii A. P. Jousé SPECIES
-=======
+# Aulacodiscus kryshtofovichii A. P. Jousé SPECIES
 
 #### Status
 ACCEPTED

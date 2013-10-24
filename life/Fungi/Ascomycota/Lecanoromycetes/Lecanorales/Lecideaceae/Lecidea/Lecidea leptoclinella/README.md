@@ -1,5 +1,4 @@
-Lecidea leptoclinella Nyl. SPECIES
-=======
+# Lecidea leptoclinella Nyl. SPECIES
 
 #### Status
 ACCEPTED

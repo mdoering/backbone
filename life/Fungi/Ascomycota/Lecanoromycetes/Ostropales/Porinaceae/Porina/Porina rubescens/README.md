@@ -1,5 +1,4 @@
-Porina rubescens (Lücking) Hafellner & Kalb SPECIES
-=======
+# Porina rubescens (Lücking) Hafellner & Kalb SPECIES
 
 #### Status
 ACCEPTED

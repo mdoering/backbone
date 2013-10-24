@@ -1,17 +1,16 @@
-Scherffelia Sparrow GENUS
-=======
+# Scherffeliomyces Sparrow GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 18: 216 (1933)
+Mycologia 26: 377 (1934)
 
 #### Original name
-Scherffelia Sparrow
+Scherffeliomyces Sparrow
 
 ### Remarks
 null

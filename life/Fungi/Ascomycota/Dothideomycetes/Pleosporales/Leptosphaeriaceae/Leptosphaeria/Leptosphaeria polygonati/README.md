@@ -1,5 +1,4 @@
-Leptosphaeria polygonati E. Müll. & Tomaevic SPECIES
-=======
+# Leptosphaeria polygonati E. Müll. & Tomaevic SPECIES
 
 #### Status
 ACCEPTED

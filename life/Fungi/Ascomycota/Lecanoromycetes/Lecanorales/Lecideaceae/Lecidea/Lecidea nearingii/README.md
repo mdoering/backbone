@@ -1,5 +1,4 @@
-Lecidea nearingii H. Magn. SPECIES
-=======
+# Lecidea nearingii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

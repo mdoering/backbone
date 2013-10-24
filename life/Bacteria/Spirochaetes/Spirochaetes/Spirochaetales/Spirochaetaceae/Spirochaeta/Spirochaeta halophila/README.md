@@ -1,5 +1,4 @@
-Spirochaeta halophila Greenberg and Canale-Parola, 1977 (Approved Lists, 1980) SPECIES
-=======
+# Spirochaeta halophila Greenberg and Canale-Parola, 1977 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

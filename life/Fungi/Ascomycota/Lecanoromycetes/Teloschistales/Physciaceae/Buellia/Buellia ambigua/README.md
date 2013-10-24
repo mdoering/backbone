@@ -1,5 +1,4 @@
-Buellia ambigua (Ach.) Malme SPECIES
-=======
+# Buellia ambigua (Ach.) Malme SPECIES
 
 #### Status
 ACCEPTED

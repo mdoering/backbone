@@ -1,5 +1,4 @@
-Prunulus tenuiculus Murrill SPECIES
-=======
+# Prunulus tenuiculus Murrill SPECIES
 
 #### Status
 ACCEPTED

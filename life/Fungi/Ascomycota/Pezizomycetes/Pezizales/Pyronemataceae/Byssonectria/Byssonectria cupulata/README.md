@@ -1,5 +1,4 @@
-Byssonectria cupulata Theiss. SPECIES
-=======
+# Byssonectria cupulata Theiss. SPECIES
 
 #### Status
 ACCEPTED

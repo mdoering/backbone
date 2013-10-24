@@ -1,5 +1,4 @@
-Didymella rhypontella (Nyl.) Szatala SPECIES
-=======
+# Didymella rhypontella (Nyl.) Szatala SPECIES
 
 #### Status
 ACCEPTED

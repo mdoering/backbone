@@ -1,5 +1,4 @@
-Dacrymyces pedunculatus Berk. & M.A. Curtis SPECIES
-=======
+# Dacrymyces pedunculatus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

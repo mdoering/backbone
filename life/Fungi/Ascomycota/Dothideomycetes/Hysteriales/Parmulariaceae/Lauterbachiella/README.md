@@ -1,5 +1,4 @@
-Lauterbachiella GENUS
-=======
+# Lauterbachiella GENUS
 
 #### Status
 ACCEPTED

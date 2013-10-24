@@ -1,5 +1,4 @@
-Oxytoxum subulatum Kofoid SPECIES
-=======
+# Oxytoxum subulatum Kofoid SPECIES
 
 #### Status
 ACCEPTED

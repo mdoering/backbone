@@ -1,8 +1,7 @@
-Sphaeria vaccinicola Lib. SPECIES
-=======
+# Sphaeria vacciniicola Lib. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaeria vaccinicola Lib.
+Sphaeria vacciniicola Lib.
 
 ### Remarks
 null

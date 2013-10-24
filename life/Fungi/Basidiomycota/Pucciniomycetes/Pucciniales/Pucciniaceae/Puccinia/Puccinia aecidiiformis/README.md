@@ -1,5 +1,4 @@
-Puccinia aecidiiformis Thüm. SPECIES
-=======
+# Puccinia aecidiiformis Thüm. SPECIES
 
 #### Status
 ACCEPTED

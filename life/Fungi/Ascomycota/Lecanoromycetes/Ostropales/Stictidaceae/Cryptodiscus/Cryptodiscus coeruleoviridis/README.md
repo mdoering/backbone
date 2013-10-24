@@ -1,5 +1,4 @@
-Cryptodiscus coeruleoviridis Rehm SPECIES
-=======
+# Cryptodiscus coeruleoviridis Rehm SPECIES
 
 #### Status
 ACCEPTED

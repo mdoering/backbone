@@ -1,5 +1,4 @@
-Digitatispora Doguet GENUS
-=======
+# Digitatispora Doguet GENUS
 
 #### Status
 ACCEPTED

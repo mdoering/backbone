@@ -1,5 +1,4 @@
-Phaeocollybia corneri E. Horak SPECIES
-=======
+# Phaeocollybia corneri E. Horak SPECIES
 
 #### Status
 ACCEPTED

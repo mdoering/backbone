@@ -1,5 +1,4 @@
-Melanospora lunulata Pidopl. SPECIES
-=======
+# Melanospora lunulata Pidopl. SPECIES
 
 #### Status
 ACCEPTED

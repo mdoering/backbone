@@ -1,5 +1,4 @@
-Metopus latus Kahl, 1927 SPECIES
-=======
+# Metopus latus Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

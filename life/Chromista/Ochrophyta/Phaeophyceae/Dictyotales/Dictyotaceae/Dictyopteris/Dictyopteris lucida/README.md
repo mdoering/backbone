@@ -1,5 +1,4 @@
-Dictyopteris lucida M.A.Ribera Siguan, A.Gómez Garreta, I.Pérez Ruzafa, M.C.Barceló Martí & J.Rull Lluch, 2005 SPECIES
-=======
+# Dictyopteris lucida M.A.Ribera Siguan, A.Gómez Garreta, I.Pérez Ruzafa, M.C.Barceló Martí & J.Rull Lluch, 2005 SPECIES
 
 #### Status
 ACCEPTED

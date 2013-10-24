@@ -1,5 +1,4 @@
-Leiosphaeridia ghoshii (Lele, 1979) Fensome et al., 1990 SPECIES
-=======
+# Leiosphaeridia ghoshii (Lele, 1979) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

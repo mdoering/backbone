@@ -1,5 +1,4 @@
-Macrospironympha Cleveland, Hall, Sanders & Collier, 1934 GENUS
-=======
+# Macrospironympha Cleveland, Hall, Sanders & Collier, 1934 GENUS
 
 #### Status
 ACCEPTED

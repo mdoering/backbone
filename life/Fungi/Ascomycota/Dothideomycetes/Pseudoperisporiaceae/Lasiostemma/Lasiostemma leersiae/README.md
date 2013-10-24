@@ -1,5 +1,4 @@
-Lasiostemma leersiae Punith. SPECIES
-=======
+# Lasiostemma leersiae Punith. SPECIES
 
 #### Status
 ACCEPTED

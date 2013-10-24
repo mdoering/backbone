@@ -1,5 +1,4 @@
-Boletus glutinosipes Snell & Hesler SPECIES
-=======
+# Boletus glutinosipes Snell & Hesler SPECIES
 
 #### Status
 ACCEPTED

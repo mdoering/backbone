@@ -1,5 +1,4 @@
-Laboulbenia paraguayensis Speg. SPECIES
-=======
+# Laboulbenia paraguayensis Speg. SPECIES
 
 #### Status
 ACCEPTED

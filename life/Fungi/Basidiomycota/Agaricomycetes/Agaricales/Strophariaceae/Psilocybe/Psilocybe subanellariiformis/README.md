@@ -1,5 +1,4 @@
-Psilocybe subanellariiformis Guzmán SPECIES
-=======
+# Psilocybe subanellariiformis Guzmán SPECIES
 
 #### Status
 ACCEPTED

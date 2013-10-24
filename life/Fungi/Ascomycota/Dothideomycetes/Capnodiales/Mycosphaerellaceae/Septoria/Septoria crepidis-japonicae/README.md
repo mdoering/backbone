@@ -1,5 +1,4 @@
-Septoria crepidis-japonicae Sawada SPECIES
-=======
+# Septoria crepidis-japonicae Sawada SPECIES
 
 #### Status
 ACCEPTED

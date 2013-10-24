@@ -1,5 +1,4 @@
-Phoma longipes Berk. & M.A. Curtis SPECIES
-=======
+# Phoma longipes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora impatientis (Schwein.) Sacc., 1883 SPECIES
-=======
+# Phyllachora impatientis (Schwein.) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

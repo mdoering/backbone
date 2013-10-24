@@ -1,5 +1,4 @@
-Anisarcon Jankowski, 1981 GENUS
-=======
+# Anisarcon Jankowski, 1981 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladopycnidium sinense H. Magn. SPECIES
-=======
+# Cladopycnidium sinense H. Magn. SPECIES
 
 #### Status
 ACCEPTED

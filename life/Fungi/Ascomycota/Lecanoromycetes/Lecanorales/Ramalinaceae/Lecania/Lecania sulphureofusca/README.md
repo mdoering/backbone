@@ -1,5 +1,4 @@
-Lecania sulphureofusca var. sulphureofusca VARIETY
-=======
+# Lecania sulphureofusca (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecania sulphureofusca var. sulphureofusca
+Lecanora sulphureofusca Fée
 
 ### Remarks
 null

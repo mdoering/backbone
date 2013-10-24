@@ -1,5 +1,4 @@
-Lyramula Hanna, 1928 GENUS
-=======
+# Lyramula Hanna, 1928 GENUS
 
 #### Status
 ACCEPTED

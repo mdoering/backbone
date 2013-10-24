@@ -1,5 +1,4 @@
-Cladonia cucullata S. Hammer SPECIES
-=======
+# Cladonia cucullata S. Hammer SPECIES
 
 #### Status
 ACCEPTED

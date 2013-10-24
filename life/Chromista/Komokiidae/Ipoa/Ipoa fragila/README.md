@@ -1,5 +1,4 @@
-Ipoa fragila Tendal & Hessler, 1977 SPECIES
-=======
+# Ipoa fragila Tendal & Hessler, 1977 SPECIES
 
 #### Status
 ACCEPTED

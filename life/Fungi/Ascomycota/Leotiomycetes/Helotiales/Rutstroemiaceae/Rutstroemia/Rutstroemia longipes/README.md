@@ -1,5 +1,4 @@
-Rutstroemia longipes (Cooke & Peck) W.L. White SPECIES
-=======
+# Rutstroemia longipes (Cooke & Peck) W.L. White SPECIES
 
 #### Status
 ACCEPTED

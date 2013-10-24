@@ -1,5 +1,4 @@
-Coprinus bonatii Quél. SPECIES
-=======
+# Coprinus bonatii Quél. SPECIES
 
 #### Status
 ACCEPTED

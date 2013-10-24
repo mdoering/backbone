@@ -1,17 +1,16 @@
-Mycena picta var. picta VARIETY
-=======
+# Xeromphalina picta (Fr.) A.H. Sm., 1953 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Karstenia 19: 52 (1979)
+Pap. Mich. Acad. Sci. 38: 76 (1953)
 
 #### Original name
-Mycena picta var. picta
+Agaricus pictus Fr., 1815
 
 ### Remarks
 null

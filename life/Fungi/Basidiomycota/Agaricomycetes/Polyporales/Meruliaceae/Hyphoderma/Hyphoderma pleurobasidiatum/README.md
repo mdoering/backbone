@@ -1,5 +1,4 @@
-Hyphoderma pleurobasidiatum SPECIES
-=======
+# Hyphoderma pleurobasidiatum SPECIES
 
 #### Status
 ACCEPTED

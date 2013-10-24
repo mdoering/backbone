@@ -1,5 +1,4 @@
-Asteridiella vismiae Hansf. SPECIES
-=======
+# Asteridiella vismiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

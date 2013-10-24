@@ -1,5 +1,4 @@
-Onygena lycoperdon Schwein. SPECIES
-=======
+# Onygena lycoperdon Schwein. SPECIES
 
 #### Status
 ACCEPTED

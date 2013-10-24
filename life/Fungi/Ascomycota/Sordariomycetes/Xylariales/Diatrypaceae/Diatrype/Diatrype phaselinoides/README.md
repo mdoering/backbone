@@ -1,5 +1,4 @@
-Diatrype phaselinoides Rappaz SPECIES
-=======
+# Diatrype phaselinoides Rappaz SPECIES
 
 #### Status
 ACCEPTED

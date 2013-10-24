@@ -1,17 +1,16 @@
-Mydonosporium Corda GENUS
-=======
+# Cladosporium Link GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Sturm, Deutschl. Fl. , 3 Abt. (Pilze Deutschl. ) 3(13): 95 (1833)
+Magazin Ges. naturf. Freunde, Berlin 7: 37 (1816)
 
 #### Original name
-Mydonosporium Corda
+Cladosporium Link
 
 ### Remarks
 null

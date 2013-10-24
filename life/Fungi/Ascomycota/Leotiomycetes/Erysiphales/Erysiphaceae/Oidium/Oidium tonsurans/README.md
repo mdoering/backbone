@@ -1,5 +1,4 @@
-Oidium tonsurans Zopf SPECIES
-=======
+# Oidium tonsurans Zopf SPECIES
 
 #### Status
 ACCEPTED

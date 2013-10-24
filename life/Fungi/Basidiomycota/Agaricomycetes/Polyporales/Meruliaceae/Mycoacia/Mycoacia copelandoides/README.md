@@ -1,5 +1,4 @@
-Mycoacia copelandoides Lin, 1976 SPECIES
-=======
+# Mycoacia copelandoides Lin, 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium phaeolomum (Lév.) Sacc. & Trotter SPECIES
-=======
+# Helotium phaeolomum (Lév.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptotrichia trevisanii Tee et al., 2002 SPECIES
-=======
+# Leptotrichia trevisanii Tee et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

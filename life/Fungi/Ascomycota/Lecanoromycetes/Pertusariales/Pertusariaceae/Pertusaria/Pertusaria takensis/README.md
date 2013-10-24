@@ -1,5 +1,4 @@
-Pertusaria takensis Jariangpr. & A.W. Archer SPECIES
-=======
+# Pertusaria takensis Jariangpr. & A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

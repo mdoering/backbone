@@ -1,5 +1,4 @@
-Agaricus simulans Batsch SPECIES
-=======
+# Agaricus simulans Batsch SPECIES
 
 #### Status
 ACCEPTED

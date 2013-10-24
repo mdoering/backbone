@@ -1,5 +1,4 @@
-Lacrymaria farcta SPECIES
-=======
+# Lacrymaria farcta SPECIES
 
 #### Status
 ACCEPTED

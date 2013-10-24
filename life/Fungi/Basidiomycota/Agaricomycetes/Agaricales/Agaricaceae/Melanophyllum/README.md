@@ -1,17 +1,16 @@
-Glaucospora Rea GENUS
-=======
+# Melanophyllum Velenovský, 1921 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brit. basidiomyc. (Cambridge) 62 (1922)
+Ceské Houby 3: 569 (1921)
 
 #### Original name
-Glaucospora Rea
+Melanophyllum Velenovský, 1921
 
 ### Remarks
 null

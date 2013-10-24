@@ -1,17 +1,16 @@
-Physcia speciosa var. angustiloba Müll. Arg. VARIETY
-=======
+# Heterodermia angustiloba (Müll. Arg.) D.D. Awasthi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 66: 78 (1883)
+Geophytology 3: 113 (1973)
 
 #### Original name
-Physcia speciosa var. angustiloba Müll. Arg.
+Anaptychia speciosa var. angustiloba (Müll. Arg.) Zahlbr.
 
 ### Remarks
 null

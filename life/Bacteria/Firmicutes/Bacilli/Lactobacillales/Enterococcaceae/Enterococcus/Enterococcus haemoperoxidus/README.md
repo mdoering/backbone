@@ -1,5 +1,4 @@
-Enterococcus haemoperoxidus Svec et al., 2001 SPECIES
-=======
+# Enterococcus haemoperoxidus Svec et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

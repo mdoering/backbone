@@ -1,5 +1,4 @@
-Cortinarius tricolor Reumaux SPECIES
-=======
+# Cortinarius tricolor Reumaux SPECIES
 
 #### Status
 ACCEPTED

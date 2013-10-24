@@ -1,5 +1,4 @@
-Laestadia alaskana (M. Reed) Sacc. & D. Sacc., 1905 SPECIES
-=======
+# Laestadia alaskana (M. Reed) Sacc. & D. Sacc., 1905 SPECIES
 
 #### Status
 ACCEPTED

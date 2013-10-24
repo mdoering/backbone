@@ -1,5 +1,4 @@
-Agaricus rufatus Berk. SPECIES
-=======
+# Agaricus rufatus Berk. SPECIES
 
 #### Status
 ACCEPTED

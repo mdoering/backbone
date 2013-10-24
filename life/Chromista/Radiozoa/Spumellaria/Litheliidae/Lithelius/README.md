@@ -1,5 +1,4 @@
-Lithelius Haeckel, 1862 GENUS
-=======
+# Lithelius Haeckel, 1862 GENUS
 
 #### Status
 ACCEPTED

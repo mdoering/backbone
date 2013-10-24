@@ -1,5 +1,4 @@
-Coelothigma de Puytorac, 1968 GENUS
-=======
+# Coelothigma de Puytorac, 1968 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia yerbae Speg. SPECIES
-=======
+# Diplodia yerbae Speg. SPECIES
 
 #### Status
 ACCEPTED

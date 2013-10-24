@@ -1,5 +1,4 @@
-Marasmius munyozii Singer SPECIES
-=======
+# Marasmius munyozii Singer SPECIES
 
 #### Status
 ACCEPTED

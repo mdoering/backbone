@@ -1,5 +1,4 @@
-Pterula janseniana (Holterm.) Corner SPECIES
-=======
+# Pterula janseniana (Holterm.) Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa haustellata Fr. SPECIES
-=======
+# Valsa haustellata Fr. SPECIES
 
 #### Status
 ACCEPTED

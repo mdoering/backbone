@@ -1,5 +1,4 @@
-Ocellularia confluentula Zahlbr. SPECIES
-=======
+# Ocellularia confluentula Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

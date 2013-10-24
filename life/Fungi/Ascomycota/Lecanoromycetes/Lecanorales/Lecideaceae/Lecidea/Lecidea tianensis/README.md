@@ -1,5 +1,4 @@
-Lecidea tianensis Vain. SPECIES
-=======
+# Lecidea tianensis Vain. SPECIES
 
 #### Status
 ACCEPTED

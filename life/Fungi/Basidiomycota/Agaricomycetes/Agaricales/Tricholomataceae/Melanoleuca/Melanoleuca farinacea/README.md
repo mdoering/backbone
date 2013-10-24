@@ -1,5 +1,4 @@
-Melanoleuca farinacea Murrill SPECIES
-=======
+# Melanoleuca farinacea Murrill SPECIES
 
 #### Status
 ACCEPTED

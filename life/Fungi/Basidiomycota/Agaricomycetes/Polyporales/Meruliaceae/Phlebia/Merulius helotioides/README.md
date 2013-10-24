@@ -1,14 +1,13 @@
-Merulius helotiodes (Schwein.) Kuntze SPECIES
-=======
+# Merulius helotioides (Schwein.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 2: 862 (1891)
 
 #### Original name
 Cantharellus helotioides Schwein.

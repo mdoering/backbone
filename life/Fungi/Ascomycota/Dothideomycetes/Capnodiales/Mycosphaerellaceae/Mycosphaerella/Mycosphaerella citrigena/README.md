@@ -1,5 +1,4 @@
-Mycosphaerella citrigena Crous & U. Braun, 2003 SPECIES
-=======
+# Mycosphaerella citrigena Crous & U. Braun, 2003 SPECIES
 
 #### Status
 ACCEPTED

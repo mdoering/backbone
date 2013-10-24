@@ -1,14 +1,13 @@
-Pseudomycena bulbosa Cejp, 1930 SPECIES
-=======
+# Mycena bulbosa (Cejp) Kühner, 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Publ. Fac. Sci. Univ. Charles 104: 149 (1930)
+Encyclop. Mycol. 10: 176 (1938)
 
 #### Original name
 Pseudomycena bulbosa Cejp, 1930

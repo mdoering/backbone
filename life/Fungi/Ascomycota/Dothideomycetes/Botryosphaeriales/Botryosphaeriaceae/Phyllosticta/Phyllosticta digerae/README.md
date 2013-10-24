@@ -1,5 +1,4 @@
-Phyllosticta digerae L.S. Chauhan SPECIES
-=======
+# Phyllosticta digerae L.S. Chauhan SPECIES
 
 #### Status
 ACCEPTED

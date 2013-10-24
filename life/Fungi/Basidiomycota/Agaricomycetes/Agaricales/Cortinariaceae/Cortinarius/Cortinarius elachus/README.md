@@ -1,5 +1,4 @@
-Cortinarius elachus M.M. Moser SPECIES
-=======
+# Cortinarius elachus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

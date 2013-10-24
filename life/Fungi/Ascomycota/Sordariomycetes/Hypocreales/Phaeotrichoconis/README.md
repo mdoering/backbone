@@ -1,5 +1,4 @@
-Phaeotrichoconis Subram. GENUS
-=======
+# Phaeotrichoconis Subram. GENUS
 
 #### Status
 ACCEPTED

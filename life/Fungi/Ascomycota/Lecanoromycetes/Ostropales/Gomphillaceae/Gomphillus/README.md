@@ -1,5 +1,4 @@
-Gomphillus Nyl. GENUS
-=======
+# Gomphillus Nyl. GENUS
 
 #### Status
 ACCEPTED

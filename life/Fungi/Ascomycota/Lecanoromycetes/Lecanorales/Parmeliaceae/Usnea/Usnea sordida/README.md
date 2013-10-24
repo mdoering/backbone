@@ -1,5 +1,4 @@
-Usnea sordida Motyka SPECIES
-=======
+# Usnea sordida Motyka SPECIES
 
 #### Status
 ACCEPTED

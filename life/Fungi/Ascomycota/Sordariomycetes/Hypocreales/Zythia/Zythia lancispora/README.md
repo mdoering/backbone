@@ -1,5 +1,4 @@
-Zythia lancispora Speg. SPECIES
-=======
+# Zythia lancispora Speg. SPECIES
 
 #### Status
 ACCEPTED

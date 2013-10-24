@@ -1,5 +1,4 @@
-Gigasporaceae J.B. Morton & Benny FAMILY
-=======
+# Gigasporaceae J.B. Morton & Benny FAMILY
 
 #### Status
 ACCEPTED

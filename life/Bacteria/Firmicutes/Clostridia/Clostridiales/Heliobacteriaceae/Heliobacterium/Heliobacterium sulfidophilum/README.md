@@ -1,5 +1,4 @@
-Heliobacterium sulfidophilum Bryantseva et al., 2001 SPECIES
-=======
+# Heliobacterium sulfidophilum Bryantseva et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

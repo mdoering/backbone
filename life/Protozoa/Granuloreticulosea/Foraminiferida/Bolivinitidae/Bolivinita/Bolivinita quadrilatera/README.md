@@ -1,8 +1,7 @@
-Textularia quadrilatera Schwager, 1866 SPECIES
-=======
+# Bolivinita quadrilatera (Schwager, 1866) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

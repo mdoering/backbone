@@ -1,5 +1,4 @@
-Tenacibaculum crassostreae Lee, Baik, Park, Kim, Lee, Kahng, Jeon & Jung, 2009 SPECIES
-=======
+# Tenacibaculum crassostreae Lee, Baik, Park, Kim, Lee, Kahng, Jeon & Jung, 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma ulvinenii Kalamees SPECIES
-=======
+# Tricholoma ulvinenii Kalamees SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces intrusus Lév. SPECIES
-=======
+# Uromyces intrusus Lév. SPECIES
 
 #### Status
 ACCEPTED

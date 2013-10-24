@@ -1,5 +1,4 @@
-Phyllosticta ericae Allesch. SPECIES
-=======
+# Phyllosticta ericae Allesch. SPECIES
 
 #### Status
 ACCEPTED

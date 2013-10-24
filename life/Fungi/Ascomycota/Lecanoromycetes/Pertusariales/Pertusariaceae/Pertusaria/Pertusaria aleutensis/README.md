@@ -1,5 +1,4 @@
-Pertusaria aleutensis Erichsen SPECIES
-=======
+# Pertusaria aleutensis Erichsen SPECIES
 
 #### Status
 ACCEPTED

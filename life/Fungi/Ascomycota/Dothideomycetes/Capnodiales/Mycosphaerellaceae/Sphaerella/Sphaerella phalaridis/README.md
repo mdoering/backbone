@@ -1,5 +1,4 @@
-Sphaerella phalaridis Gonz. Frag. SPECIES
-=======
+# Sphaerella phalaridis Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

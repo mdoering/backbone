@@ -1,5 +1,4 @@
-Venturia kalmiae Peck SPECIES
-=======
+# Venturia kalmiae Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia heroica Cummins SPECIES
-=======
+# Puccinia heroica Cummins SPECIES
 
 #### Status
 ACCEPTED

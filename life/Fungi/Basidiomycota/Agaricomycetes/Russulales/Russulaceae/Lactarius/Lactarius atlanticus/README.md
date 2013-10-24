@@ -1,17 +1,16 @@
-Lactarius atlanticus f. strigipes Bon FORM
-=======
+# Lactarius atlanticus Bon, 1975 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 7(no. 25): 57 (1976)
+Docums Mycol. 5(no. 17): 23 (1975)
 
 #### Original name
-Lactarius atlanticus f. strigipes Bon
+Lactarius atlanticus Bon, 1975
 
 ### Remarks
 null

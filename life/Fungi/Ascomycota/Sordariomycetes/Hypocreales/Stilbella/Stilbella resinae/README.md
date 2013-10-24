@@ -1,5 +1,4 @@
-Stilbella resinae (Bres. & Sacc.) Lindau SPECIES
-=======
+# Stilbella resinae (Bres. & Sacc.) Lindau SPECIES
 
 #### Status
 ACCEPTED

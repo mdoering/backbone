@@ -1,17 +1,16 @@
-Bagnisiella glycosmidiae P.G. Sathe & K.M. Mogarkar SPECIES
-=======
+# Bagnisiella glycosmidis P.G. Sathe & K.M. Mogarkar SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Maharashtra Vidnyan Mandir, Patrika 14(2): 76 (1979)
 
 #### Original name
-Bagnisiella glycosmidiae P.G. Sathe & K.M. Mogarkar
+Bagnisiella glycosmidis P.G. Sathe & K.M. Mogarkar
 
 ### Remarks
 null

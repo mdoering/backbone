@@ -1,5 +1,4 @@
-Schizographa attenuata (Durieu & Mont.) Nyl. SPECIES
-=======
+# Schizographa attenuata (Durieu & Mont.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

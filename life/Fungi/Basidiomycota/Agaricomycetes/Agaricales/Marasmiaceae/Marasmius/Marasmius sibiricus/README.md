@@ -1,5 +1,4 @@
-Marasmius sibiricus Singer SPECIES
-=======
+# Marasmius sibiricus Singer SPECIES
 
 #### Status
 ACCEPTED

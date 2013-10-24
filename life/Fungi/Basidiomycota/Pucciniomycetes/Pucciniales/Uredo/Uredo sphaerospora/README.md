@@ -1,5 +1,4 @@
-Uredo sphaerospora Berk. & M.A. Curtis SPECIES
-=======
+# Uredo sphaerospora Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

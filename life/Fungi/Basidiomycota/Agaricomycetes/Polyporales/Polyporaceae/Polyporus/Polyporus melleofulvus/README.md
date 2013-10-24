@@ -1,14 +1,13 @@
-Polyporus mello-fulvus (Romell) Sacc. & P. Syd. SPECIES
-=======
+# Polyporus melleofulvus (Romell) Sacc. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 16: 149 (1902)
 
 #### Original name
 Chaetoporus melleofulvus Romell

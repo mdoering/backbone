@@ -1,5 +1,4 @@
-Polyblastia alba Müll. Arg. SPECIES
-=======
+# Polyblastia alba Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

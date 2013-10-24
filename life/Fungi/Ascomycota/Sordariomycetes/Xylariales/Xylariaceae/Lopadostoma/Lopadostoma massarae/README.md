@@ -1,5 +1,4 @@
-Lopadostoma massarae (De Not.) Traverso SPECIES
-=======
+# Lopadostoma massarae (De Not.) Traverso SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placopsilina confusa SPECIES
-=======
+# Placopsilina confusa SPECIES
 
 #### Status
 ACCEPTED

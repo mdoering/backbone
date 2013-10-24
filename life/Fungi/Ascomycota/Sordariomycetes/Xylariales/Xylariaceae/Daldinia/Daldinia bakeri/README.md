@@ -1,17 +1,16 @@
-Daldinia bakerii Lloyd SPECIES
-=======
+# Daldinia bakeri Lloyd, 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Child, Mycol. Writ. 5: 25 (1919)
 
 #### Original name
-Daldinia bakerii Lloyd
+Daldinia bakeri Lloyd, 1919
 
 ### Remarks
 null

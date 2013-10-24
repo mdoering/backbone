@@ -1,5 +1,4 @@
-Stemonitis globosa Schumach. SPECIES
-=======
+# Stemonitis globosa Schumach. SPECIES
 
 #### Status
 ACCEPTED

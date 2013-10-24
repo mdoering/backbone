@@ -1,5 +1,4 @@
-Schiffnerula leemingii (Ellis & Everh.) S. Hughes SPECIES
-=======
+# Schiffnerula leemingii (Ellis & Everh.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

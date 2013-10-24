@@ -1,5 +1,4 @@
-Krombholziella subleucophaea (E.A. Dick & Snell) utara SPECIES
-=======
+# Krombholziella subleucophaea (E.A. Dick & Snell) utara SPECIES
 
 #### Status
 ACCEPTED

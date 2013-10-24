@@ -1,5 +1,4 @@
-Pyrenula straminescens Zahlbr. SPECIES
-=======
+# Pyrenula straminescens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nucellosphaeridium deminatum Timofeev, 1969 SPECIES
-=======
+# Nucellosphaeridium deminatum Timofeev, 1969 SPECIES
 
 #### Status
 ACCEPTED

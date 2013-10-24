@@ -1,5 +1,4 @@
-Leucocoprinus madecassensis R. Heim SPECIES
-=======
+# Leucocoprinus madecassensis R. Heim SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mollisia rhinanthi P. Karst. SPECIES
-=======
+# Mollisia rhinanthi P. Karst. SPECIES
 
 #### Status
 ACCEPTED

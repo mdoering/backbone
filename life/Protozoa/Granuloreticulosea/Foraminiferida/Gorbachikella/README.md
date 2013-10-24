@@ -1,5 +1,4 @@
-Gorbachikella Banner & Desai, 1988 GENUS
-=======
+# Gorbachikella Banner & Desai, 1988 GENUS
 
 #### Status
 ACCEPTED

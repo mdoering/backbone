@@ -1,5 +1,4 @@
-Candelariella fuegiensis C.W. Dodge SPECIES
-=======
+# Candelariella fuegiensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

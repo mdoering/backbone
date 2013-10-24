@@ -1,5 +1,4 @@
-Hohenbuehelia tenuissima (Schwein.) Singer SPECIES
-=======
+# Hohenbuehelia tenuissima (Schwein.) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flammulaster delicatuloides (Kühner) Watling SPECIES
-=======
+# Flammulaster delicatuloides (Kühner) Watling SPECIES
 
 #### Status
 ACCEPTED

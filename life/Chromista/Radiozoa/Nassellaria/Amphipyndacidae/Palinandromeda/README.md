@@ -1,5 +1,4 @@
-Palinandromeda Pessagno, Blome & Hull in Pessagno, Jr, Blome, Hull & Six, 1993 GENUS
-=======
+# Palinandromeda Pessagno, Blome & Hull in Pessagno, Jr, Blome, Hull & Six, 1993 GENUS
 
 #### Status
 ACCEPTED

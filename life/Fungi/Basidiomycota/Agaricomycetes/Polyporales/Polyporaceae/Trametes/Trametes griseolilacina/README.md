@@ -1,5 +1,4 @@
-Trametes griseolilacina Van der Byl SPECIES
-=======
+# Trametes griseolilacina Van der Byl SPECIES
 
 #### Status
 ACCEPTED

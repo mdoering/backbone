@@ -1,5 +1,4 @@
-Gloeodes Colby, 1920 GENUS
-=======
+# Gloeodes Colby, 1920 GENUS
 
 #### Status
 ACCEPTED

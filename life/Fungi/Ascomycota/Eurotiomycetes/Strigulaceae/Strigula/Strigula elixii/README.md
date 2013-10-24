@@ -1,5 +1,4 @@
-Strigula elixii P. M. McCarthy SPECIES
-=======
+# Strigula elixii P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta alopecuri Polozova SPECIES
-=======
+# Ascochyta alopecuri Polozova SPECIES
 
 #### Status
 ACCEPTED

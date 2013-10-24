@@ -1,5 +1,4 @@
-Papenfussiella Kylin, 1940 GENUS
-=======
+# Papenfussiella Kylin, 1940 GENUS
 
 #### Status
 ACCEPTED

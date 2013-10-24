@@ -1,5 +1,4 @@
-Pollaccia americana Ondrej SPECIES
-=======
+# Pollaccia americana Ondrej SPECIES
 
 #### Status
 ACCEPTED

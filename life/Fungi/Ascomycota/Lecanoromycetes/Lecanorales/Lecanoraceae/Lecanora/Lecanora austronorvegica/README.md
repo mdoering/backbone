@@ -1,5 +1,4 @@
-Lecanora austronorvegica H. Magn. SPECIES
-=======
+# Lecanora austronorvegica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

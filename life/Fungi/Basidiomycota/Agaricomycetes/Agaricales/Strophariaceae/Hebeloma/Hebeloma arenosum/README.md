@@ -1,17 +1,16 @@
-Hebeloma arenosa Burds., Macfall & M.A. Albers SPECIES
-=======
+# Hebeloma arenosum Burds., Macfall & M.A. Albers, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 78(5): 861 (1986)
 
 #### Original name
-Hebeloma arenosa Burds., Macfall & M.A. Albers
+Hebeloma arenosum Burds., Macfall & M.A. Albers, 1986
 
 ### Remarks
 null

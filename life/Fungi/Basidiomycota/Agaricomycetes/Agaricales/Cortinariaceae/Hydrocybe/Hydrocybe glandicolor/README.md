@@ -1,5 +1,4 @@
-Hydrocybe glandicolor (Fr.) M.M. Moser SPECIES
-=======
+# Hydrocybe glandicolor (Fr.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

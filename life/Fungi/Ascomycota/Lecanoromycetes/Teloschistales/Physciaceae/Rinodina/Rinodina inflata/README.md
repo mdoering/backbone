@@ -1,5 +1,4 @@
-Rinodina inflata Kalb SPECIES
-=======
+# Rinodina inflata Kalb SPECIES
 
 #### Status
 ACCEPTED

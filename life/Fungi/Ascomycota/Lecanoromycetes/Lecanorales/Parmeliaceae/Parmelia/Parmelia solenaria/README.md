@@ -1,5 +1,4 @@
-Parmelia solenaria Ach. SPECIES
-=======
+# Parmelia solenaria Ach. SPECIES
 
 #### Status
 ACCEPTED

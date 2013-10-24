@@ -1,5 +1,4 @@
-Graphis garoana Nagarkar & Patw. SPECIES
-=======
+# Graphis garoana Nagarkar & Patw. SPECIES
 
 #### Status
 ACCEPTED

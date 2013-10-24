@@ -1,5 +1,4 @@
-Xyloma punctum Chevall. SPECIES
-=======
+# Xyloma punctum Chevall. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phorcys betulae Niessl SPECIES
-=======
+# Phorcys betulae Niessl SPECIES
 
 #### Status
 ACCEPTED

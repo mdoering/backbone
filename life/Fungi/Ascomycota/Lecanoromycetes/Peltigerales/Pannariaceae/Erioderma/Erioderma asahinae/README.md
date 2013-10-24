@@ -1,5 +1,4 @@
-Erioderma asahinae Zahlbr. SPECIES
-=======
+# Erioderma asahinae Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

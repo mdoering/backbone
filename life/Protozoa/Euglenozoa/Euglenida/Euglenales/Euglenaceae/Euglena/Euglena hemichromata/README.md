@@ -1,5 +1,4 @@
-Euglena hemichromata Skuja SPECIES
-=======
+# Euglena hemichromata Skuja SPECIES
 
 #### Status
 ACCEPTED

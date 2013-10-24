@@ -1,5 +1,4 @@
-Tarichium fumosonigrum Balazy & J. Wisn. SPECIES
-=======
+# Tarichium fumosonigrum Balazy & J. Wisn. SPECIES
 
 #### Status
 ACCEPTED

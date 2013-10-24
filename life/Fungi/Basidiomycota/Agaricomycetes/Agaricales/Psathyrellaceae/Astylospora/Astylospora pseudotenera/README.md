@@ -1,5 +1,4 @@
-Astylospora pseudotenera (Fr.) Murrill SPECIES
-=======
+# Astylospora pseudotenera (Fr.) Murrill SPECIES
 
 #### Status
 ACCEPTED

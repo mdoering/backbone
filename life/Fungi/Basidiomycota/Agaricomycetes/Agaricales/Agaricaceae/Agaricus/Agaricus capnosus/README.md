@@ -1,5 +1,4 @@
-Agaricus capnosus Letell. SPECIES
-=======
+# Agaricus capnosus Letell. SPECIES
 
 #### Status
 ACCEPTED

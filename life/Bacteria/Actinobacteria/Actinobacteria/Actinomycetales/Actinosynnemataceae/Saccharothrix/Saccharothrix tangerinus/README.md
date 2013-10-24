@@ -1,5 +1,4 @@
-Saccharothrix tangerinus Kinoshita et al., 2000 SPECIES
-=======
+# Saccharothrix tangerinus Kinoshita et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

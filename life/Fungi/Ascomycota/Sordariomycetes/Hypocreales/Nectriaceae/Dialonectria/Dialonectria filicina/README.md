@@ -1,5 +1,4 @@
-Dialonectria filicina (Cooke & Harkn.) Cooke SPECIES
-=======
+# Dialonectria filicina (Cooke & Harkn.) Cooke SPECIES
 
 #### Status
 ACCEPTED

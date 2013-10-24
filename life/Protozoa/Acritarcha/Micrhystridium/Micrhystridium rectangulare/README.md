@@ -1,5 +1,4 @@
-Micrhystridium rectangulare Stockmans & Willière, 1962 SPECIES
-=======
+# Micrhystridium rectangulare Stockmans & Willière, 1962 SPECIES
 
 #### Status
 ACCEPTED

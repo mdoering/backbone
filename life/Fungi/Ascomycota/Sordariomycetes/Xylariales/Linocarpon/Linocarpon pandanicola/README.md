@@ -1,5 +1,4 @@
-Linocarpon pandanicola K.D. Hyde SPECIES
-=======
+# Linocarpon pandanicola K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

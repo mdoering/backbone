@@ -1,5 +1,4 @@
-Stereum shraderi Thüm. ex G. Cunn. SPECIES
-=======
+# Stereum shraderi Thüm. ex G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

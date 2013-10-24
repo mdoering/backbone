@@ -1,5 +1,4 @@
-Septoria pepli D.E. Shaw, 1951 SPECIES
-=======
+# Septoria pepli D.E. Shaw, 1951 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora anisochilicola G.P. Agarwal SPECIES
-=======
+# Cercospora anisochilicola G.P. Agarwal SPECIES
 
 #### Status
 ACCEPTED

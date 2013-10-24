@@ -1,5 +1,4 @@
-Graphium pseudormiticum M. Mouton & M.J. Wingf. SPECIES
-=======
+# Graphium pseudormiticum M. Mouton & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

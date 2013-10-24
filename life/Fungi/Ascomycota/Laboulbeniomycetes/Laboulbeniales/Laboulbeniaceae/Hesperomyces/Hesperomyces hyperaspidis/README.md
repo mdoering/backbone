@@ -1,5 +1,4 @@
-Hesperomyces hyperaspidis Thaxt. SPECIES
-=======
+# Hesperomyces hyperaspidis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

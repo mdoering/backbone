@@ -1,5 +1,4 @@
-Sphaerella californica Cooke & Harkn. SPECIES
-=======
+# Sphaerella californica Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

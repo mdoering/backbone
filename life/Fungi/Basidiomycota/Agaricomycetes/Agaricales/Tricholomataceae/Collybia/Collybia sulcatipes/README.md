@@ -1,5 +1,4 @@
-Collybia sulcatipes (Murrill) Pegler SPECIES
-=======
+# Collybia sulcatipes (Murrill) Pegler SPECIES
 
 #### Status
 ACCEPTED

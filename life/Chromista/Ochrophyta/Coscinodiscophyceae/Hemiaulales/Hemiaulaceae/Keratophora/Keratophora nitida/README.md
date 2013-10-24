@@ -1,5 +1,4 @@
-Keratophora nitida J. Pantocsek SPECIES
-=======
+# Keratophora nitida J. Pantocsek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia spectabilis G.H. Otth SPECIES
-=======
+# Puccinia spectabilis G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

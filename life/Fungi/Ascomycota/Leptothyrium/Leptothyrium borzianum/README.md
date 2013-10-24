@@ -1,5 +1,4 @@
-Leptothyrium borzianum Tassi SPECIES
-=======
+# Leptothyrium borzianum Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lachnum hyalopus var. hyalopus VARIETY
-=======
+# Lachnum hyalopus (Cooke & Massee) Spooner, 1987 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Mycol. 116: 491 (1987)
 
 #### Original name
-null
+Erinella hyalopoda Cooke & Massee, 1890
 
 ### Remarks
 null

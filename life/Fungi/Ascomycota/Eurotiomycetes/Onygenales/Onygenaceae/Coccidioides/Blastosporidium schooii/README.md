@@ -1,5 +1,4 @@
-Blastosporidium schooii M. Hartmann SPECIES
-=======
+# Blastosporidium schooii M. Hartmann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Characiopsis naegelii (A.Braun) Lemmermann SPECIES
-=======
+# Characiopsis naegelii (A.Braun) Lemmermann SPECIES
 
 #### Status
 ACCEPTED

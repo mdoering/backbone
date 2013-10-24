@@ -1,14 +1,13 @@
-Xenasma gaspesicum Liberta, 1967 SPECIES
-=======
+# Phlebiella gaspesica (Liberta) K.H. Larss. & Hjortstam, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 58(6): 932 (1967)
+in Hjortstam & Larsson, Mycotaxon 29: 317 (1987)
 
 #### Original name
 Xenasma gaspesicum Liberta, 1967

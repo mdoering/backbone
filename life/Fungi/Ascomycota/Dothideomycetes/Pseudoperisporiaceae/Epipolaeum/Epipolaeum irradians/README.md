@@ -1,14 +1,13 @@
-Asterina irradians Pat. SPECIES
-=======
+# Epipolaeum irradians (Pat.) Theiss. & P. Syd., 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. (1918)
 
 #### Original name
 Asterina irradians Pat.

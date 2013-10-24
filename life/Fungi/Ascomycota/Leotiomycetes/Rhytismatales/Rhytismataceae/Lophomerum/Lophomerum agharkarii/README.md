@@ -1,5 +1,4 @@
-Lophomerum agharkarii (Tilak) Darker SPECIES
-=======
+# Lophomerum agharkarii (Tilak) Darker SPECIES
 
 #### Status
 ACCEPTED

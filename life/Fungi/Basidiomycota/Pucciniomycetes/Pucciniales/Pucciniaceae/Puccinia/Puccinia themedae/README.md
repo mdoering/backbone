@@ -1,5 +1,4 @@
-Puccinia themedae Hirats. f. SPECIES
-=======
+# Puccinia themedae Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

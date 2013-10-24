@@ -1,5 +1,4 @@
-Heterodermia cyathiformis (Kurok.) Trass SPECIES
-=======
+# Heterodermia cyathiformis (Kurok.) Trass SPECIES
 
 #### Status
 ACCEPTED

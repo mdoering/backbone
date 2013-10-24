@@ -1,5 +1,4 @@
-Bovistella flaccida Lloyd SPECIES
-=======
+# Bovistella flaccida Lloyd SPECIES
 
 #### Status
 ACCEPTED

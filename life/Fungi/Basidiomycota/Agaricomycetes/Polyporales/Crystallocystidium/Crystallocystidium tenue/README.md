@@ -1,5 +1,4 @@
-Crystallocystidium tenue Rick SPECIES
-=======
+# Crystallocystidium tenue Rick SPECIES
 
 #### Status
 ACCEPTED

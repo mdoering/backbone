@@ -1,5 +1,4 @@
-Agaricus melilotus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus melilotus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

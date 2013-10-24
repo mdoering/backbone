@@ -1,5 +1,4 @@
-Opegrapha punctulata Dufour SPECIES
-=======
+# Opegrapha punctulata Dufour SPECIES
 
 #### Status
 ACCEPTED

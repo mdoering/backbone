@@ -1,5 +1,4 @@
-Schizothyrium aceris-laurini Pat. SPECIES
-=======
+# Schizothyrium aceris-laurini Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella radiata Henn. SPECIES
-=======
+# Asteridiella radiata Henn. SPECIES
 
 #### Status
 ACCEPTED

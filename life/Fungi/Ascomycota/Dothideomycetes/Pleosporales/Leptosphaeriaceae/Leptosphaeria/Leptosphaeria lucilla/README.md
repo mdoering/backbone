@@ -1,5 +1,4 @@
-Leptosphaeria lucilla Sacc. SPECIES
-=======
+# Leptosphaeria lucilla Sacc. SPECIES
 
 #### Status
 ACCEPTED

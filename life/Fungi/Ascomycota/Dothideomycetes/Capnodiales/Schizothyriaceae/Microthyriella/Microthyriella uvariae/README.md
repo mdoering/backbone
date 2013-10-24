@@ -1,5 +1,4 @@
-Microthyriella uvariae (Henn.) Theiss. SPECIES
-=======
+# Microthyriella uvariae (Henn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

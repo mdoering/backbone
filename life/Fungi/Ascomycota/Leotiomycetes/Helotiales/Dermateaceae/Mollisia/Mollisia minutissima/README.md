@@ -1,5 +1,4 @@
-Mollisia minutissima P. Karst., 1887 SPECIES
-=======
+# Mollisia minutissima P. Karst., 1887 SPECIES
 
 #### Status
 ACCEPTED

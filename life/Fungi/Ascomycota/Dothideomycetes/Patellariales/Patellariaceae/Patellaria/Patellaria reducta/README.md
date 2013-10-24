@@ -1,5 +1,4 @@
-Patellaria reducta P. Karst. SPECIES
-=======
+# Patellaria reducta P. Karst. SPECIES
 
 #### Status
 ACCEPTED

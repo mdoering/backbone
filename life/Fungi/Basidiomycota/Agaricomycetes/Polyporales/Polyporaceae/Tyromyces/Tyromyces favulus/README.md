@@ -1,5 +1,4 @@
-Tyromyces favulus Corner SPECIES
-=======
+# Tyromyces favulus Corner SPECIES
 
 #### Status
 ACCEPTED

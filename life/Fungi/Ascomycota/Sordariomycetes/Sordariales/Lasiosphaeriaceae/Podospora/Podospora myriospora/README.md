@@ -1,5 +1,4 @@
-Podospora myriospora (P. Crouan & H. Crouan) Niessl, 1883 SPECIES
-=======
+# Podospora myriospora (P. Crouan & H. Crouan) Niessl, 1883 SPECIES
 
 #### Status
 ACCEPTED

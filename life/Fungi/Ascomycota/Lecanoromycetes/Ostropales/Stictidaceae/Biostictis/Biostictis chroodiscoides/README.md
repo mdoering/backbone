@@ -1,5 +1,4 @@
-Biostictis chroodiscoides Sherwood SPECIES
-=======
+# Biostictis chroodiscoides Sherwood SPECIES
 
 #### Status
 ACCEPTED

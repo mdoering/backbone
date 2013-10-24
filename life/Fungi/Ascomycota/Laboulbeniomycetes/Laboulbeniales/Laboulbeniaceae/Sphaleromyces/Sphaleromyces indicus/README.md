@@ -1,5 +1,4 @@
-Sphaleromyces indicus Thaxt. SPECIES
-=======
+# Sphaleromyces indicus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

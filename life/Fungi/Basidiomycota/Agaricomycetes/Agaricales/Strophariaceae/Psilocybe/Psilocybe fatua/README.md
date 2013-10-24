@@ -1,5 +1,4 @@
-Psilocybe fatua SPECIES
-=======
+# Psilocybe fatua SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boveria teredini Nelson, 1923 SPECIES
-=======
+# Boveria teredini Nelson, 1923 SPECIES
 
 #### Status
 ACCEPTED

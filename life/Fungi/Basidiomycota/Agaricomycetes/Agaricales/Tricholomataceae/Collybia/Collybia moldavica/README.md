@@ -1,5 +1,4 @@
-Collybia moldavica Velen. SPECIES
-=======
+# Collybia moldavica Velen. SPECIES
 
 #### Status
 ACCEPTED

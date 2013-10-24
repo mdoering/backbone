@@ -1,17 +1,16 @@
-Pythiomorpha gonapodyoides H.E. Petersen SPECIES
-=======
+# Phytophthora gonapodyides (H.E. Petersen) Buisman, 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Root rots caused by Phycomycetes 7 (1927)
 
 #### Original name
-Pythiomorpha gonapodyoides H.E. Petersen
+Pythiomorpha gonapodyides H.E. Petersen, 1909
 
 ### Remarks
 null

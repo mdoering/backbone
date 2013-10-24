@@ -1,5 +1,4 @@
-Puccinia quillensis Dietel & Neger SPECIES
-=======
+# Puccinia quillensis Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

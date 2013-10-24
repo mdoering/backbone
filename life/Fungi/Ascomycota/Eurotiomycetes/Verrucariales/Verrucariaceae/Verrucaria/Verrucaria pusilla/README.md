@@ -1,5 +1,4 @@
-Verrucaria pusilla Ach. SPECIES
-=======
+# Verrucaria pusilla Ach. SPECIES
 
 #### Status
 ACCEPTED

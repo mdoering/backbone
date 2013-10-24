@@ -1,5 +1,4 @@
-Cladonia herrei Fink ex J. Hedrick SPECIES
-=======
+# Cladonia herrei Fink ex J. Hedrick SPECIES
 
 #### Status
 ACCEPTED

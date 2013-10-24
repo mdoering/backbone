@@ -1,5 +1,4 @@
-Mycosphaerangium Verkley GENUS
-=======
+# Mycosphaerangium Verkley GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brevibacterium lutescens Wauters et al., 2003 SPECIES
-=======
+# Brevibacterium lutescens Wauters et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

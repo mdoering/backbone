@@ -1,5 +1,4 @@
-Marasmius picipes Murrill SPECIES
-=======
+# Marasmius picipes Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Encephalographa A. Massal. GENUS
-=======
+# Encephalographa A. Massal. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trematosphaeria jasmini Chona, Munjal & J.N. Kapoor SPECIES
-=======
+# Trematosphaeria jasmini Chona, Munjal & J.N. Kapoor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria aneirina Sommerf. SPECIES
-=======
+# Sphaeria aneirina Sommerf. SPECIES
 
 #### Status
 ACCEPTED

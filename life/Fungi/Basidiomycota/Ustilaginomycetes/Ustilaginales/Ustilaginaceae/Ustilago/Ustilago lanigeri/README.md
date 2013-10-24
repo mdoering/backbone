@@ -1,5 +1,4 @@
-Ustilago lanigeri Magnus SPECIES
-=======
+# Ustilago lanigeri Magnus SPECIES
 
 #### Status
 ACCEPTED

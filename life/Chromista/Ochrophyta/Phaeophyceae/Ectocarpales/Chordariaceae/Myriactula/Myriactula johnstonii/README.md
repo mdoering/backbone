@@ -1,5 +1,4 @@
-Myriactula johnstonii (Setchell & N.L.Gardner) Feldmann, 1945 SPECIES
-=======
+# Myriactula johnstonii (Setchell & N.L.Gardner) Feldmann, 1945 SPECIES
 
 #### Status
 ACCEPTED

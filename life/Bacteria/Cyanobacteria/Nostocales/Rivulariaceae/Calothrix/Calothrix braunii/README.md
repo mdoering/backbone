@@ -1,5 +1,4 @@
-Calothrix braunii Bornet & Flahault SPECIES
-=======
+# Calothrix braunii Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

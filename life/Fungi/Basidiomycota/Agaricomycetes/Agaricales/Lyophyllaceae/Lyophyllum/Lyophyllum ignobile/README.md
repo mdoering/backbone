@@ -1,5 +1,4 @@
-Lyophyllum ignobile (P. Karst.) Clémençon SPECIES
-=======
+# Lyophyllum ignobile (P. Karst.) Clémençon SPECIES
 
 #### Status
 ACCEPTED

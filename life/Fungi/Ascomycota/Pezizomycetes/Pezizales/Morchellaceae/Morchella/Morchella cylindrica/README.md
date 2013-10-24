@@ -1,5 +1,4 @@
-Morchella cylindrica Velen. SPECIES
-=======
+# Morchella cylindrica Velen. SPECIES
 
 #### Status
 ACCEPTED

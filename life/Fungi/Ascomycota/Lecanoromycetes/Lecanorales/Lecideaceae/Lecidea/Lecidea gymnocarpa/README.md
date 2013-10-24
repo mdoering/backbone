@@ -1,5 +1,4 @@
-Lecidea gymnocarpa Fink SPECIES
-=======
+# Lecidea gymnocarpa Fink SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus scalaris Fr. SPECIES
-=======
+# Agaricus scalaris Fr. SPECIES
 
 #### Status
 ACCEPTED

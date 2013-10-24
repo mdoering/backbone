@@ -1,17 +1,16 @@
-Trichosporum camptospora Gutner SPECIES
-=======
+# Trichosporum camptosporum Gutner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trudy Bot. Inst. Akad. Nauk SSSR, ser. 2, Sporov. Rast. 1: 312 (1933)
 
 #### Original name
-Trichosporum camptospora Gutner
+Trichosporum camptosporum Gutner
 
 ### Remarks
 null

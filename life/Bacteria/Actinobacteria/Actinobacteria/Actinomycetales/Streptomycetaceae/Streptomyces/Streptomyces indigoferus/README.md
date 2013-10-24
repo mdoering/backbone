@@ -1,5 +1,4 @@
-Streptomyces indigoferus Shinobu and Kawato, 1960 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces indigoferus Shinobu and Kawato, 1960 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

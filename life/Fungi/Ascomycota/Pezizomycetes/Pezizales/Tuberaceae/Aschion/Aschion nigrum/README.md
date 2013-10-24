@@ -1,5 +1,4 @@
-Aschion nigrum ? areolatum Wallr. SPECIES
-=======
+# Aschion nigrum ? areolatum Wallr. SPECIES
 
 #### Status
 ACCEPTED

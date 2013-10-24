@@ -1,5 +1,4 @@
-Limacinula samoënsis Höhn. SPECIES
-=======
+# Limacinula samoënsis Höhn. SPECIES
 
 #### Status
 ACCEPTED

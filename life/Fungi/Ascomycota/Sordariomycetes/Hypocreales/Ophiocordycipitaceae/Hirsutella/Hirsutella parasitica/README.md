@@ -1,5 +1,4 @@
-Hirsutella parasitica (Henn.) Samson & H.C. Evans SPECIES
-=======
+# Hirsutella parasitica (Henn.) Samson & H.C. Evans SPECIES
 
 #### Status
 ACCEPTED

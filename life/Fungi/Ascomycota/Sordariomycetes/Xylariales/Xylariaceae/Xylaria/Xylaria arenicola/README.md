@@ -1,5 +1,4 @@
-Xylaria arenicola var. arenicola VARIETY
-=======
+# Xylaria arenicola Welw. & Curr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Xylaria arenicola var. arenicola
+Xylaria arenicola Welw. & Curr.
 
 ### Remarks
 null

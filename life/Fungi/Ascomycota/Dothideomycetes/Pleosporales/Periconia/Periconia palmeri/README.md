@@ -1,5 +1,4 @@
-Periconia palmeri Earle SPECIES
-=======
+# Periconia palmeri Earle SPECIES
 
 #### Status
 ACCEPTED

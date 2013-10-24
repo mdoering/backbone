@@ -1,5 +1,4 @@
-Idriella bambusae Morgan-Jones SPECIES
-=======
+# Idriella bambusae Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ectocarpus acuto-ramulis Noda SPECIES
-=======
+# Ectocarpus acuto-ramulis Noda SPECIES
 
 #### Status
 ACCEPTED

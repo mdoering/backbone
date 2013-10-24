@@ -1,5 +1,4 @@
-Compsonema intercalare Noda SPECIES
-=======
+# Compsonema intercalare Noda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryocrea sclerotioides (Höhn.) Petr. SPECIES
-=======
+# Botryocrea sclerotioides (Höhn.) Petr. SPECIES
 
 #### Status
 ACCEPTED

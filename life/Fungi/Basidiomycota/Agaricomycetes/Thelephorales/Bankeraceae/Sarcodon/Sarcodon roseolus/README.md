@@ -1,5 +1,4 @@
-Sarcodon roseolus Banker SPECIES
-=======
+# Sarcodon roseolus Banker SPECIES
 
 #### Status
 ACCEPTED

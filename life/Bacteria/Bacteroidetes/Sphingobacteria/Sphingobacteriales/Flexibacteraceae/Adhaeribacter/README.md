@@ -1,5 +1,4 @@
-Adhaeribacter Rickard, Stead, O'May, Lindsay, Banner, Handley & Gilbert GENUS
-=======
+# Adhaeribacter Rickard, Stead, O'May, Lindsay, Banner, Handley & Gilbert GENUS
 
 #### Status
 ACCEPTED

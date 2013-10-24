@@ -1,5 +1,4 @@
-Haplozoon dogielii Shumway SPECIES
-=======
+# Haplozoon dogielii Shumway SPECIES
 
 #### Status
 ACCEPTED

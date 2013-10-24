@@ -1,5 +1,4 @@
-Elphidium rotatum Howchin & Parr, 1938 SPECIES
-=======
+# Elphidium rotatum Howchin & Parr, 1938 SPECIES
 
 #### Status
 ACCEPTED

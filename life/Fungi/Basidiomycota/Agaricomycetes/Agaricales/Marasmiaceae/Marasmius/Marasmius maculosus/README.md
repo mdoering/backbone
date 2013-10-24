@@ -1,5 +1,4 @@
-Marasmius maculosus Har. Takah. SPECIES
-=======
+# Marasmius maculosus Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

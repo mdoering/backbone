@@ -1,5 +1,4 @@
-Septoria arigena (Bubák) Punith. SPECIES
-=======
+# Septoria arigena (Bubák) Punith. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nostoc verrucosum (Vaucher) Bornet & Flahault SPECIES
-=======
+# Nostoc verrucosum (Vaucher) Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

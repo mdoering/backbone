@@ -1,5 +1,4 @@
-Balantidium polyvacuolum Lee, 1963 SPECIES
-=======
+# Balantidium polyvacuolum Lee, 1963 SPECIES
 
 #### Status
 ACCEPTED

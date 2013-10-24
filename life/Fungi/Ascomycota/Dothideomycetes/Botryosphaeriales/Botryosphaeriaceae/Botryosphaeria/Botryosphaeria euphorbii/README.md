@@ -1,5 +1,4 @@
-Botryosphaeria euphorbii Sacc. SPECIES
-=======
+# Botryosphaeria euphorbii Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudosigmoilina Zheng, 1979 GENUS
-=======
+# Pseudosigmoilina Zheng, 1979 GENUS
 
 #### Status
 ACCEPTED

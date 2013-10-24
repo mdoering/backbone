@@ -1,5 +1,4 @@
-Aspicilia arctica (Lynge) Oxner SPECIES
-=======
+# Aspicilia arctica (Lynge) Oxner SPECIES
 
 #### Status
 ACCEPTED

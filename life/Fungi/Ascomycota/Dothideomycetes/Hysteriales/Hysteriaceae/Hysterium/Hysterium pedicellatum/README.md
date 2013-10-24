@@ -1,5 +1,4 @@
-Hysterium pedicellatum Schumach. SPECIES
-=======
+# Hysterium pedicellatum Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Onygena piligena var. ovina Schumach. VARIETY
-=======
+# Onygena piligena Fr., 1829 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. mycol. (Lundae) 3(1): 208 (1829)
 
 #### Original name
-Onygena piligena var. ovina Schumach.
+Onygena piligena Fr., 1829
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Meliolina megalospora Speg. SPECIES
-=======
+# Meliolina megalospora Speg. SPECIES
 
 #### Status
 ACCEPTED

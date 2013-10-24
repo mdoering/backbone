@@ -1,5 +1,4 @@
-Dysteriida Deroux, 1970 ORDER
-=======
+# Dysteriida Deroux, 1970 ORDER
 
 #### Status
 ACCEPTED

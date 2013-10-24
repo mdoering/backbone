@@ -1,5 +1,4 @@
-Septoria increscens Peck SPECIES
-=======
+# Septoria increscens Peck SPECIES
 
 #### Status
 ACCEPTED

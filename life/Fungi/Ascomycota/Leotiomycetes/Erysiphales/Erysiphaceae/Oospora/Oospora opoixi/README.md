@@ -1,5 +1,4 @@
-Oospora opoixi Delacr. SPECIES
-=======
+# Oospora opoixi Delacr. SPECIES
 
 #### Status
 ACCEPTED

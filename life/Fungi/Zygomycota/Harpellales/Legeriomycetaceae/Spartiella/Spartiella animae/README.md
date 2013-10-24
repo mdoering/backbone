@@ -1,5 +1,4 @@
-Spartiella animae Lichtw., 1998 SPECIES
-=======
+# Spartiella animae Lichtw., 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphiola borassi Syd., P. Syd. & E.J. Butler SPECIES
-=======
+# Graphiola borassi Syd., P. Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

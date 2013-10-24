@@ -1,5 +1,4 @@
-Diplodia mamma Fuckel SPECIES
-=======
+# Diplodia mamma Fuckel SPECIES
 
 #### Status
 ACCEPTED

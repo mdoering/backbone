@@ -1,5 +1,4 @@
-Dicellomyces calami Berndt & N.D. Sharma, 1998 SPECIES
-=======
+# Dicellomyces calami Berndt & N.D. Sharma, 1998 SPECIES
 
 #### Status
 ACCEPTED

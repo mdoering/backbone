@@ -1,5 +1,4 @@
-Uromyces azukicola Hirata SPECIES
-=======
+# Uromyces azukicola Hirata SPECIES
 
 #### Status
 ACCEPTED

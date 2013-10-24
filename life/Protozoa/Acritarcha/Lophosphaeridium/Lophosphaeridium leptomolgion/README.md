@@ -1,5 +1,4 @@
-Lophosphaeridium leptomolgion Loeblich & Tappan, 1978 SPECIES
-=======
+# Lophosphaeridium leptomolgion Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

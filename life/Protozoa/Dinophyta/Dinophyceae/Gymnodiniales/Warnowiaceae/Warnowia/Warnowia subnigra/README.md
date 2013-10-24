@@ -1,5 +1,4 @@
-Warnowia subnigra (Kofoid & Swezy) Schiller, 1933 SPECIES
-=======
+# Warnowia subnigra (Kofoid & Swezy) Schiller, 1933 SPECIES
 
 #### Status
 ACCEPTED

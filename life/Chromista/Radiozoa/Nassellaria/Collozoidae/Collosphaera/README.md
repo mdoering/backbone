@@ -1,5 +1,4 @@
-Collosphaera Müller, 1859 GENUS
-=======
+# Collosphaera Müller, 1859 GENUS
 
 #### Status
 ACCEPTED

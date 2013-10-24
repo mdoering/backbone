@@ -1,5 +1,4 @@
-Tschichatschevia Vologdin GENUS
-=======
+# Tschichatschevia Vologdin GENUS
 
 #### Status
 ACCEPTED

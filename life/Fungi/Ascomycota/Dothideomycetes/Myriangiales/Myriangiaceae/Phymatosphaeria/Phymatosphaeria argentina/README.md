@@ -1,5 +1,4 @@
-Phymatosphaeria argentina Speg. SPECIES
-=======
+# Phymatosphaeria argentina Speg. SPECIES
 
 #### Status
 ACCEPTED

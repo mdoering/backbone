@@ -1,8 +1,7 @@
-Lindnera petersonii (Wick.) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
-=======
+# Cyberlindnera petersonii (Wick.) Minter, 2009 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Hansenula petersonii Wick., 1964
 
 ### Remarks
 null

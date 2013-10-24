@@ -1,5 +1,4 @@
-Coelosphaeria beccariana Berl. & Peglion SPECIES
-=======
+# Coelosphaeria beccariana Berl. & Peglion SPECIES
 
 #### Status
 ACCEPTED

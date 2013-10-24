@@ -1,5 +1,4 @@
-Cytodiplospora silvatica Sacc. SPECIES
-=======
+# Cytodiplospora silvatica Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus violaceomaculatus Pat., 1907 SPECIES
-=======
+# Polyporus violaceomaculatus Pat., 1907 SPECIES
 
 #### Status
 ACCEPTED

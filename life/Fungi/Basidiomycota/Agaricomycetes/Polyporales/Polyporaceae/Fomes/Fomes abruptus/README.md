@@ -1,5 +1,4 @@
-Fomes abruptus Lloyd SPECIES
-=======
+# Fomes abruptus Lloyd SPECIES
 
 #### Status
 ACCEPTED

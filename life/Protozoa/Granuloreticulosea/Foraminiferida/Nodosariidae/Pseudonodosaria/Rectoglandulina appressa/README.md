@@ -1,5 +1,4 @@
-Rectoglandulina appressa Loeblich & Tappan, 1955 SPECIES
-=======
+# Rectoglandulina appressa Loeblich & Tappan, 1955 SPECIES
 
 #### Status
 DOUBTFUL

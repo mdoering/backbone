@@ -1,5 +1,4 @@
-Hymenagaricus caespitosus D.A. Reid & Eicker SPECIES
-=======
+# Hymenagaricus caespitosus D.A. Reid & Eicker SPECIES
 
 #### Status
 ACCEPTED

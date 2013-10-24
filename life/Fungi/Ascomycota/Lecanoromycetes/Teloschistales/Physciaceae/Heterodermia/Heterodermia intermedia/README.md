@@ -1,5 +1,4 @@
-Heterodermia intermedia Trass SPECIES
-=======
+# Heterodermia intermedia Trass SPECIES
 
 #### Status
 ACCEPTED

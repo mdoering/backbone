@@ -1,5 +1,4 @@
-Tremotylium occultum Stirt. SPECIES
-=======
+# Tremotylium occultum Stirt. SPECIES
 
 #### Status
 ACCEPTED

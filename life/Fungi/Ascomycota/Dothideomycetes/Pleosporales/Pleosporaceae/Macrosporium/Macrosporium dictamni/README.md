@@ -1,5 +1,4 @@
-Macrosporium dictamni J. Lindau SPECIES
-=======
+# Macrosporium dictamni J. Lindau SPECIES
 
 #### Status
 ACCEPTED

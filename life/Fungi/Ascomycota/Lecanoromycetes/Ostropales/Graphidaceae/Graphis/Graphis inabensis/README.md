@@ -1,5 +1,4 @@
-Graphis inabensis Vain. SPECIES
-=======
+# Graphis inabensis Vain. SPECIES
 
 #### Status
 ACCEPTED

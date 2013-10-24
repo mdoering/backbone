@@ -1,5 +1,4 @@
-Dictyosphaera Xing Yusheng & Liu Kuizhih, 1973 GENUS
-=======
+# Dictyosphaera Xing Yusheng & Liu Kuizhih, 1973 GENUS
 
 #### Status
 ACCEPTED

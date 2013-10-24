@@ -1,5 +1,4 @@
-Perisporiopsis wrightii (Berk. & M.A. Curtis) F. Stevens SPECIES
-=======
+# Perisporiopsis wrightii (Berk. & M.A. Curtis) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

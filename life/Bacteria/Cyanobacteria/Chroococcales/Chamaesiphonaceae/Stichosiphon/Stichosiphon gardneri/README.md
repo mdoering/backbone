@@ -1,5 +1,4 @@
-Stichosiphon gardneri Komárek SPECIES
-=======
+# Stichosiphon gardneri Komárek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymosphaeria cephalariae A.L. Guyot SPECIES
-=======
+# Didymosphaeria cephalariae A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

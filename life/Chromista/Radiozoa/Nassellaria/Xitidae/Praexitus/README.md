@@ -1,5 +1,4 @@
-Praexitus Dumitrica in Dumitrica, Immenhauser & Dumitrica-Jud, 1997 GENUS
-=======
+# Praexitus Dumitrica in Dumitrica, Immenhauser & Dumitrica-Jud, 1997 GENUS
 
 #### Status
 ACCEPTED

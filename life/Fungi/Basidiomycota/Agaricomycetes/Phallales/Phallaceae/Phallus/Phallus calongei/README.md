@@ -1,5 +1,4 @@
-Phallus calongei G. Moreno & Khalid SPECIES
-=======
+# Phallus calongei G. Moreno & Khalid SPECIES
 
 #### Status
 ACCEPTED

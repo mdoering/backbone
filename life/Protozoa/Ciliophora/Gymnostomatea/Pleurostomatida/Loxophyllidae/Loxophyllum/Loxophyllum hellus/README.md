@@ -1,5 +1,4 @@
-Loxophyllum hellus Stokes, 1884 SPECIES
-=======
+# Loxophyllum hellus Stokes, 1884 SPECIES
 
 #### Status
 ACCEPTED

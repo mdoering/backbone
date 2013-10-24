@@ -1,5 +1,4 @@
-Lecanora symmictiformis Räsänen SPECIES
-=======
+# Lecanora symmictiformis Räsänen SPECIES
 
 #### Status
 ACCEPTED

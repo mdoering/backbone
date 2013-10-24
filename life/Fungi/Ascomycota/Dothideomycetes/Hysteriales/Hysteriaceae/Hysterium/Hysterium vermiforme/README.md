@@ -1,5 +1,4 @@
-Hysterium vermiforme Massee SPECIES
-=======
+# Hysterium vermiforme Massee SPECIES
 
 #### Status
 ACCEPTED

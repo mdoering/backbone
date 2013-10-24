@@ -1,14 +1,13 @@
-Fabospora phaffii Van der Walt, 1963 SPECIES
-=======
+# Tetrapisispora phaffii (Van der Walt) Ueda-Nishim. & Mikata, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Antonie van Leeuwenhoek 29: 320 (1963)
+Int. J. Syst. Bacteriol. 49(4): 1920 (1999)
 
 #### Original name
 Fabospora phaffii Van der Walt, 1963

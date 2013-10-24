@@ -1,5 +1,4 @@
-Pacillina Cleve, 1899 GENUS
-=======
+# Pacillina Cleve, 1899 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea cascadensis H. Magn. SPECIES
-=======
+# Lecidea cascadensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

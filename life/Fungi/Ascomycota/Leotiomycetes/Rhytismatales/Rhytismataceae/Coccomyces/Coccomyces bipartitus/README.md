@@ -1,5 +1,4 @@
-Coccomyces bipartitus (Kauffman) Sherwood, 1980 SPECIES
-=======
+# Coccomyces bipartitus (Kauffman) Sherwood, 1980 SPECIES
 
 #### Status
 ACCEPTED

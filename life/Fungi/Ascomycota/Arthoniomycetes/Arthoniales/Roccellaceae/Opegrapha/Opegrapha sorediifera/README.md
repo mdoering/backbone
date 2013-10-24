@@ -1,5 +1,4 @@
-Opegrapha sorediifera P. James SPECIES
-=======
+# Opegrapha sorediifera P. James SPECIES
 
 #### Status
 ACCEPTED

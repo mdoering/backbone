@@ -1,5 +1,4 @@
-Dicaeoma verrucosum Nees SPECIES
-=======
+# Dicaeoma verrucosum Nees SPECIES
 
 #### Status
 ACCEPTED

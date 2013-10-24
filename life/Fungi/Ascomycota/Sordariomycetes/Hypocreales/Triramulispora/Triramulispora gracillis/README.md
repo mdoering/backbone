@@ -1,5 +1,4 @@
-Triramulispora gracillis T. Matsushima SPECIES
-=======
+# Triramulispora gracillis T. Matsushima SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lacrymaria granulifera Foissner, 1997 SPECIES
-=======
+# Lacrymaria granulifera Foissner, 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cenangella syringae Feltgen SPECIES
-=======
+# Cenangella syringae Feltgen SPECIES
 
 #### Status
 ACCEPTED

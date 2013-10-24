@@ -1,5 +1,4 @@
-Tubercularia filicis Lasch SPECIES
-=======
+# Tubercularia filicis Lasch SPECIES
 
 #### Status
 ACCEPTED

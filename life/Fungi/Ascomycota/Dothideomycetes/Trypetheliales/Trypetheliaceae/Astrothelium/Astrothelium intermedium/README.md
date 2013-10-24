@@ -1,5 +1,4 @@
-Astrothelium intermedium Aptroot & Lücking SPECIES
-=======
+# Astrothelium intermedium Aptroot & Lücking SPECIES
 
 #### Status
 ACCEPTED

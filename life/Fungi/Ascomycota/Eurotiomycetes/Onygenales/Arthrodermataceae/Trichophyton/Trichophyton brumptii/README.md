@@ -1,5 +1,4 @@
-Trichophyton brumptii (Langeron & Baeza) Asani & Faghih SPECIES
-=======
+# Trichophyton brumptii (Langeron & Baeza) Asani & Faghih SPECIES
 
 #### Status
 ACCEPTED

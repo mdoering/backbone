@@ -1,5 +1,4 @@
-Stainforthiidae FAMILY
-=======
+# Stainforthiidae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Coxiella popilliae Dutky & Gooden, 1952 SPECIES
-=======
+# Rickettsiella popilliae (Dutky and Gooden, 1952) Philip, 1956 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

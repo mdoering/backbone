@@ -1,5 +1,4 @@
-Cladonia melaleuca Nuno SPECIES
-=======
+# Cladonia melaleuca Nuno SPECIES
 
 #### Status
 ACCEPTED

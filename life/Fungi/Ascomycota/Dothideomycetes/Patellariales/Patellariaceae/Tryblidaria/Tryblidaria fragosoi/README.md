@@ -1,5 +1,4 @@
-Tryblidaria fragosoi (Samp.) Keissl. SPECIES
-=======
+# Tryblidaria fragosoi (Samp.) Keissl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candida dajiaensis C.F. Lee & C.H. Liu SPECIES
-=======
+# Candida dajiaensis C.F. Lee & C.H. Liu SPECIES
 
 #### Status
 ACCEPTED

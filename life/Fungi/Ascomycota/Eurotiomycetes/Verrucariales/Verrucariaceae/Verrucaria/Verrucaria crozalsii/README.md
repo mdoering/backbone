@@ -1,5 +1,4 @@
-Verrucaria crozalsii SPECIES
-=======
+# Verrucaria crozalsii SPECIES
 
 #### Status
 ACCEPTED

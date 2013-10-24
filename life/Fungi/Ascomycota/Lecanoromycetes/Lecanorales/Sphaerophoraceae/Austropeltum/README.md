@@ -1,5 +1,4 @@
-Austropeltum Henssen, Döring & Kantvilas GENUS
-=======
+# Austropeltum Henssen, Döring & Kantvilas GENUS
 
 #### Status
 ACCEPTED

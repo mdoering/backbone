@@ -1,5 +1,4 @@
-Sagiolechia leucoplacoides Vain. SPECIES
-=======
+# Sagiolechia leucoplacoides Vain. SPECIES
 
 #### Status
 ACCEPTED

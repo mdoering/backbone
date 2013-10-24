@@ -1,5 +1,4 @@
-Physarum brevipes Schumach. SPECIES
-=======
+# Physarum brevipes Schumach. SPECIES
 
 #### Status
 ACCEPTED

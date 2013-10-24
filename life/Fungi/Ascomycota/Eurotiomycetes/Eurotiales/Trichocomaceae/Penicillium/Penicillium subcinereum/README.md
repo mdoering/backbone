@@ -1,5 +1,4 @@
-Penicillium subcinereum Westling SPECIES
-=======
+# Penicillium subcinereum Westling SPECIES
 
 #### Status
 ACCEPTED

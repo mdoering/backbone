@@ -1,5 +1,4 @@
-Lambottiella golovinii Marzina & Marcich SPECIES
-=======
+# Lambottiella golovinii Marzina & Marcich SPECIES
 
 #### Status
 ACCEPTED

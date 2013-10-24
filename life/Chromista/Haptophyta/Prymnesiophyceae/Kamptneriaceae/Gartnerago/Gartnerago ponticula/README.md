@@ -1,5 +1,4 @@
-Gartnerago ponticula SPECIES
-=======
+# Gartnerago ponticula SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia henriquesiana Traverso & Spessa SPECIES
-=======
+# Diplodia henriquesiana Traverso & Spessa SPECIES
 
 #### Status
 ACCEPTED

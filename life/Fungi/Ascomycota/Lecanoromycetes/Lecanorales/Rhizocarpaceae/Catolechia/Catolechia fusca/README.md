@@ -1,5 +1,4 @@
-Catolechia fusca SPECIES
-=======
+# Catolechia fusca SPECIES
 
 #### Status
 ACCEPTED

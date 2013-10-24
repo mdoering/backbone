@@ -1,5 +1,4 @@
-Boletus pseudostrobilomyces W.F. Chiu SPECIES
-=======
+# Boletus pseudostrobilomyces W.F. Chiu SPECIES
 
 #### Status
 ACCEPTED

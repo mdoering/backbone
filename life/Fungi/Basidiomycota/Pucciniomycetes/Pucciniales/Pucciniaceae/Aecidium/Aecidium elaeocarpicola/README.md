@@ -1,5 +1,4 @@
-Aecidium elaeocarpicola Cummins SPECIES
-=======
+# Aecidium elaeocarpicola Cummins SPECIES
 
 #### Status
 ACCEPTED

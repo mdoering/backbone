@@ -1,5 +1,4 @@
-Entoloma leviculum Corner & E. Horak SPECIES
-=======
+# Entoloma leviculum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

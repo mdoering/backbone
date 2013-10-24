@@ -1,5 +1,4 @@
-Odontia plumbea Rick SPECIES
-=======
+# Odontia plumbea Rick SPECIES
 
 #### Status
 ACCEPTED

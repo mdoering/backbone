@@ -1,5 +1,4 @@
-Alectoria osteina Nyl. SPECIES
-=======
+# Alectoria osteina Nyl. SPECIES
 
 #### Status
 ACCEPTED

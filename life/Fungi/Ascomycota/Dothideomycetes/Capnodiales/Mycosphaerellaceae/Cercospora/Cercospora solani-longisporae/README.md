@@ -1,17 +1,16 @@
-Cercospora solani-longispora J.M. Yen SPECIES
-=======
+# Cercospora solani-longisporae J.M. Yen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 93(1): 158 (1977)
 
 #### Original name
-Cercospora solani-longispora J.M. Yen
+Cercospora solani-longisporae J.M. Yen
 
 ### Remarks
 null

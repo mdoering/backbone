@@ -1,5 +1,4 @@
-Calothyrium caricifoliicola I. Hino & Katum. SPECIES
-=======
+# Calothyrium caricifoliicola I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

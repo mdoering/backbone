@@ -1,5 +1,4 @@
-Russula nepalensis Adhikari SPECIES
-=======
+# Russula nepalensis Adhikari SPECIES
 
 #### Status
 ACCEPTED

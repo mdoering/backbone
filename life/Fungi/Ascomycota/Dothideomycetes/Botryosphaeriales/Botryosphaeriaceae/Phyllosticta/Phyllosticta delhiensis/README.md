@@ -1,5 +1,4 @@
-Phyllosticta delhiensis Chona & Munjal SPECIES
-=======
+# Phyllosticta delhiensis Chona & Munjal SPECIES
 
 #### Status
 ACCEPTED

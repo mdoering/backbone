@@ -1,5 +1,4 @@
-Xanthoparmelia diacida Hale SPECIES
-=======
+# Xanthoparmelia diacida Hale SPECIES
 
 #### Status
 ACCEPTED

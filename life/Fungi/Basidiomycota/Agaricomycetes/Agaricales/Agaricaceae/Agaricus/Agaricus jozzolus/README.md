@@ -1,17 +1,16 @@
-Agaricus iozzolus Scop. SPECIES
-=======
+# Agaricus jozzolus Scop. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fl. carniol. (Wien), Edn 2 2: 431, no. 1489 (1772)
 
 #### Original name
-Agaricus iozzolus Scop.
+Agaricus jozzolus Scop.
 
 ### Remarks
 null

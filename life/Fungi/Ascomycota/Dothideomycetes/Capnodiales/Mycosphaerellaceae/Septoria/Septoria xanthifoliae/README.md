@@ -1,5 +1,4 @@
-Septoria xanthifoliae Ellis & Kellerm. SPECIES
-=======
+# Septoria xanthifoliae Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

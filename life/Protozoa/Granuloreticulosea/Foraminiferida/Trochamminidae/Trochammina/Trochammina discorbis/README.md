@@ -1,5 +1,4 @@
-Trochammina discorbis SPECIES
-=======
+# Trochammina discorbis SPECIES
 
 #### Status
 ACCEPTED

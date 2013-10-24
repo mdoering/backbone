@@ -1,5 +1,4 @@
-Laboulbenia parriaudii Balazuc SPECIES
-=======
+# Laboulbenia parriaudii Balazuc SPECIES
 
 #### Status
 ACCEPTED

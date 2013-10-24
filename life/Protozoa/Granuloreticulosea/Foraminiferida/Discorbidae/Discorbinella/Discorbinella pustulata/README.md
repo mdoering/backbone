@@ -1,5 +1,4 @@
-Discorbinella pustulata SPECIES
-=======
+# Discorbinella pustulata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersoniopsis von Höhnel, 1918 GENUS
-=======
+# Hendersoniopsis von Höhnel, 1918 GENUS
 
 #### Status
 ACCEPTED

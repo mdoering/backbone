@@ -1,5 +1,4 @@
-Lophiostoma vitigenum Kaz. Tanaka & Y. Harada, 2003 SPECIES
-=======
+# Lophiostoma vitigenum Kaz. Tanaka & Y. Harada, 2003 SPECIES
 
 #### Status
 ACCEPTED

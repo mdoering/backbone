@@ -1,5 +1,4 @@
-Lecanora concinnata Hue SPECIES
-=======
+# Lecanora concinnata Hue SPECIES
 
 #### Status
 ACCEPTED

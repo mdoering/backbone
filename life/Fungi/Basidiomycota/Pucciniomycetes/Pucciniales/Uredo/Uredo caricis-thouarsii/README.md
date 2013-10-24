@@ -1,5 +1,4 @@
-Uredo caricis-thouarsii Jørst. SPECIES
-=======
+# Uredo caricis-thouarsii Jørst. SPECIES
 
 #### Status
 ACCEPTED

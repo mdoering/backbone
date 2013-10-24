@@ -1,5 +1,4 @@
-Historbitoides Bronnimann, 1956 GENUS
-=======
+# Historbitoides Bronnimann, 1956 GENUS
 
 #### Status
 ACCEPTED

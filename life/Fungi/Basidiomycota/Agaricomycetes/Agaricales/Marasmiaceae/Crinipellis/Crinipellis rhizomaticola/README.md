@@ -1,5 +1,4 @@
-Crinipellis rhizomaticola Antonín, R. Ryoo & H.D. Shin SPECIES
-=======
+# Crinipellis rhizomaticola Antonín, R. Ryoo & H.D. Shin SPECIES
 
 #### Status
 ACCEPTED

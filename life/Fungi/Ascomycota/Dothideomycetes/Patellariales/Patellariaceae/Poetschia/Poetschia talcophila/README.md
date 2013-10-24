@@ -1,5 +1,4 @@
-Poetschia talcophila Körb. SPECIES
-=======
+# Poetschia talcophila Körb. SPECIES
 
 #### Status
 ACCEPTED

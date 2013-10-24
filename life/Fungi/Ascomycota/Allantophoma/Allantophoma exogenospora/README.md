@@ -1,5 +1,4 @@
-Allantophoma exogenospora Kleb. SPECIES
-=======
+# Allantophoma exogenospora Kleb. SPECIES
 
 #### Status
 ACCEPTED

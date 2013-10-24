@@ -1,5 +1,4 @@
-Helicobacter rodentium Shen et al., 1997 SPECIES
-=======
+# Helicobacter rodentium Shen et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

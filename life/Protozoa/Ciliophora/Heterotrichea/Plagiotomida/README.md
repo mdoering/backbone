@@ -1,5 +1,4 @@
-Plagiotomida ORDER
-=======
+# Plagiotomida ORDER
 
 #### Status
 ACCEPTED

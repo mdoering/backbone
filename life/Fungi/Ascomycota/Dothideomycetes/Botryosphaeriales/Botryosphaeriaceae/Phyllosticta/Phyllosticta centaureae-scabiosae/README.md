@@ -1,5 +1,4 @@
-Phyllosticta centaureae-scabiosae Petr. SPECIES
-=======
+# Phyllosticta centaureae-scabiosae Petr. SPECIES
 
 #### Status
 ACCEPTED

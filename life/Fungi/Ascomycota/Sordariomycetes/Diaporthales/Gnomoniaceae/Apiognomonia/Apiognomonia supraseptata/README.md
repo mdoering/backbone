@@ -1,5 +1,4 @@
-Apiognomonia supraseptata S. Kaneko & Ts. Kobay., 1984 SPECIES
-=======
+# Apiognomonia supraseptata S. Kaneko & Ts. Kobay., 1984 SPECIES
 
 #### Status
 ACCEPTED

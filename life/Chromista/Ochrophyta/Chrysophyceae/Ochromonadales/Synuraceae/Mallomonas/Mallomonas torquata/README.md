@@ -1,5 +1,4 @@
-Mallomonas torquata f. simplex K.H. Nicholls FORM
-=======
+# Mallomonas torquata SPECIES
 
 #### Status
 ACCEPTED

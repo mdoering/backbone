@@ -1,5 +1,4 @@
-Chlorogloea lithogenes J. Komárek & G. Montejano SPECIES
-=======
+# Chlorogloea lithogenes J. Komárek & G. Montejano SPECIES
 
 #### Status
 ACCEPTED

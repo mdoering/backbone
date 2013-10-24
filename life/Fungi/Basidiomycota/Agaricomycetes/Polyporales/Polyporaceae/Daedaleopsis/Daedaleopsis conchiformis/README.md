@@ -1,5 +1,4 @@
-Daedaleopsis conchiformis Imazeki SPECIES
-=======
+# Daedaleopsis conchiformis Imazeki SPECIES
 
 #### Status
 ACCEPTED

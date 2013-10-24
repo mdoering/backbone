@@ -1,5 +1,4 @@
-Uromyces cepulae Frost SPECIES
-=======
+# Uromyces cepulae Frost SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma metrosideri H. Mori SPECIES
-=======
+# Phoma metrosideri H. Mori SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lyngbya subtillissima SPECIES
-=======
+# Lyngbya subtillissima SPECIES
 
 #### Status
 ACCEPTED

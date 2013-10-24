@@ -1,5 +1,4 @@
-Strombidinopsis jeokjo Jeong, Kim, Song, Lee & Lee, 2004 SPECIES
-=======
+# Strombidinopsis jeokjo Jeong, Kim, Song, Lee & Lee, 2004 SPECIES
 
 #### Status
 ACCEPTED

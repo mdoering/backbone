@@ -1,5 +1,4 @@
-Gnomoniopsis nicotianae Kirschst. SPECIES
-=======
+# Gnomoniopsis nicotianae Kirschst. SPECIES
 
 #### Status
 ACCEPTED

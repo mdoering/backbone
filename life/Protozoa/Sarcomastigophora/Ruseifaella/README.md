@@ -1,5 +1,4 @@
-Ruseifaella Hamam, 1978 GENUS
-=======
+# Ruseifaella Hamam, 1978 GENUS
 
 #### Status
 ACCEPTED

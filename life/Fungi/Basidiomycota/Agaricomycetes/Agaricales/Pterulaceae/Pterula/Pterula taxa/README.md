@@ -1,5 +1,4 @@
-Pterula taxa Pat. SPECIES
-=======
+# Pterula taxa Pat. SPECIES
 
 #### Status
 ACCEPTED

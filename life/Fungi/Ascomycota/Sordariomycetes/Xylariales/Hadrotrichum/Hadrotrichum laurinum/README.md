@@ -1,5 +1,4 @@
-Hadrotrichum laurinum Speg. SPECIES
-=======
+# Hadrotrichum laurinum Speg. SPECIES
 
 #### Status
 ACCEPTED

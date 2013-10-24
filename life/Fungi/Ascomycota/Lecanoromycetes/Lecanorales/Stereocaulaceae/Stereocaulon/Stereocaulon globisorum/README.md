@@ -1,5 +1,4 @@
-Stereocaulon globisorum Sipman SPECIES
-=======
+# Stereocaulon globisorum Sipman SPECIES
 
 #### Status
 ACCEPTED

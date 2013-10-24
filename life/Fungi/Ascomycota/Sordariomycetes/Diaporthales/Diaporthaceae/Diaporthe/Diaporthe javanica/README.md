@@ -1,5 +1,4 @@
-Diaporthe javanica Penz. & Sacc. SPECIES
-=======
+# Diaporthe javanica Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

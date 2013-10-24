@@ -1,17 +1,16 @@
-Lichen usnea L. SPECIES
-=======
+# Ramalina australiensis Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. linn. Normandie, sér. 2 4: 120 (1870)
 
 #### Original name
-Lichen usnea L.
+Ramalina australiensis Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Japonogaster oohashianus Kobayasi, 1989 SPECIES
-=======
+# Japonogaster oohashianus Kobayasi, 1989 SPECIES
 
 #### Status
 ACCEPTED

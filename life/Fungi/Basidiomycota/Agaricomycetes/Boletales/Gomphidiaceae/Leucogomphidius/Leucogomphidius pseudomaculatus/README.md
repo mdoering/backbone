@@ -1,5 +1,4 @@
-Leucogomphidius pseudomaculatus (O.K. Mill.) Kotl. & Pouzar SPECIES
-=======
+# Leucogomphidius pseudomaculatus (O.K. Mill.) Kotl. & Pouzar SPECIES
 
 #### Status
 ACCEPTED

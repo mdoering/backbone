@@ -1,5 +1,4 @@
-Clitocybe foetida Velen. SPECIES
-=======
+# Clitocybe foetida Velen. SPECIES
 
 #### Status
 ACCEPTED

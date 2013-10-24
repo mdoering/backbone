@@ -1,5 +1,4 @@
-Thalassiosira mahoodii J. A. Barron SPECIES
-=======
+# Thalassiosira mahoodii J. A. Barron SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rigidoporus trametoides Corner, 1987 SPECIES
-=======
+# Rigidoporus trametoides Corner, 1987 SPECIES
 
 #### Status
 ACCEPTED

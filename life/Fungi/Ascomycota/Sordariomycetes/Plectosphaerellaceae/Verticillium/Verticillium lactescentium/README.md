@@ -1,5 +1,4 @@
-Verticillium lactescentium Sacc. SPECIES
-=======
+# Verticillium lactescentium Sacc. SPECIES
 
 #### Status
 ACCEPTED

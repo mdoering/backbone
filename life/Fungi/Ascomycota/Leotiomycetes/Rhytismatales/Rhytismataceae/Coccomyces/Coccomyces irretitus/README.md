@@ -1,5 +1,4 @@
-Coccomyces irretitus Sherwood, 1980 SPECIES
-=======
+# Coccomyces irretitus Sherwood, 1980 SPECIES
 
 #### Status
 ACCEPTED

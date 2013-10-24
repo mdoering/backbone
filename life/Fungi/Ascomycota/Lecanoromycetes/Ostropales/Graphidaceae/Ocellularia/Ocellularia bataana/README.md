@@ -1,14 +1,13 @@
-Thelotrema bataanum Vain. SPECIES
-=======
+# Ocellularia bataana (Vain.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Ann. Acad. Sci. fenn. , Ser. A 15(6): 188 (1921)
+Cat. Lich. Univers. 2: 583 (1923)
 
 #### Original name
 Thelotrema bataanum Vain.

@@ -1,5 +1,4 @@
-Agromyces lapidis Jurado et al., 2005 SPECIES
-=======
+# Agromyces lapidis Jurado et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

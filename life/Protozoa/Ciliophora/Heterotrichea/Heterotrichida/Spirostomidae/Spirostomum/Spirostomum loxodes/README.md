@@ -1,5 +1,4 @@
-Spirostomum loxodes Stokes, 1885 SPECIES
-=======
+# Spirostomum loxodes Stokes, 1885 SPECIES
 
 #### Status
 ACCEPTED

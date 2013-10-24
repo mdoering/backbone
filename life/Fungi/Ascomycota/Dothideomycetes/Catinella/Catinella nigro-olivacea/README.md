@@ -1,5 +1,4 @@
-Catinella nigro-olivacea (Schwein.) E.J. Durand SPECIES
-=======
+# Catinella nigro-olivacea (Schwein.) E.J. Durand SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus idiolepis Locq. SPECIES
-=======
+# Coprinus idiolepis Locq. SPECIES
 
 #### Status
 ACCEPTED

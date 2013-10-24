@@ -1,5 +1,4 @@
-Psathyrella pseudotrepida A.H. Sm. SPECIES
-=======
+# Psathyrella pseudotrepida A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Wettsteinina kashmirensis Shoemaker & C.E. Babc. SPECIES
-=======
+# Wettsteinina kashmirensis Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

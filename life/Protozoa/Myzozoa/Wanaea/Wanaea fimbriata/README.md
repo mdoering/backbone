@@ -1,5 +1,4 @@
-Wanaea fimbriata Sarjeant, 1961 SPECIES
-=======
+# Wanaea fimbriata Sarjeant, 1961 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Salopidium aldridgei Richards & Mullins, 2003 SPECIES
-=======
+# Salopidium aldridgei Richards & Mullins, 2003 SPECIES
 
 #### Status
 ACCEPTED

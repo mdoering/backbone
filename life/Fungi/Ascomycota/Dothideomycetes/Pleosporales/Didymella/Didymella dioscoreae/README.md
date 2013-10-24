@@ -1,5 +1,4 @@
-Didymella dioscoreae (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Didymella dioscoreae (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

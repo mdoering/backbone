@@ -1,5 +1,4 @@
-Inocybe immigrans Malloch SPECIES
-=======
+# Inocybe immigrans Malloch SPECIES
 
 #### Status
 ACCEPTED

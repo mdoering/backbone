@@ -1,5 +1,4 @@
-Opercularia pseudoberberina SPECIES
-=======
+# Opercularia pseudoberberina SPECIES
 
 #### Status
 ACCEPTED

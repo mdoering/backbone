@@ -1,5 +1,4 @@
-Parmelia subfraudans Zahlbr. SPECIES
-=======
+# Parmelia subfraudans Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

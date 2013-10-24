@@ -1,5 +1,4 @@
-Pseudocyphellaria haywardiorum D. J. Galloway SPECIES
-=======
+# Pseudocyphellaria haywardiorum D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

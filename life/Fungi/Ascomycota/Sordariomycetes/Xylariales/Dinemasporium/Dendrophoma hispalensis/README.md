@@ -1,5 +1,4 @@
-Dendrophoma hispalensis Gonz. Frag. SPECIES
-=======
+# Dendrophoma hispalensis Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

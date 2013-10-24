@@ -1,5 +1,4 @@
-Septoria jussiaeacea Moesz SPECIES
-=======
+# Septoria jussiaeacea Moesz SPECIES
 
 #### Status
 ACCEPTED

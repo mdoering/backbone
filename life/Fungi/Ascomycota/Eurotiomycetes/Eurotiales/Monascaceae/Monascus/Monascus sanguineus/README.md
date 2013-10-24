@@ -1,5 +1,4 @@
-Monascus sanguineus P.F. Cannon, Abdullah & B.A. Abbas SPECIES
-=======
+# Monascus sanguineus P.F. Cannon, Abdullah & B.A. Abbas SPECIES
 
 #### Status
 ACCEPTED

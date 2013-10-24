@@ -1,5 +1,4 @@
-Grantarhabdus bukryi SPECIES
-=======
+# Grantarhabdus bukryi SPECIES
 
 #### Status
 ACCEPTED

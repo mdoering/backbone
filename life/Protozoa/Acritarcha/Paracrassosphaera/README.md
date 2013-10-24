@@ -1,5 +1,4 @@
-Paracrassosphaera V.A. Rudavskaja in Z. Kh. Fajzulina & A.A. Trestshetenova, 1979 GENUS
-=======
+# Paracrassosphaera V.A. Rudavskaja in Z. Kh. Fajzulina & A.A. Trestshetenova, 1979 GENUS
 
 #### Status
 ACCEPTED

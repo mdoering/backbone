@@ -1,5 +1,4 @@
-Cercospora calpurniae Petch SPECIES
-=======
+# Cercospora calpurniae Petch SPECIES
 
 #### Status
 ACCEPTED

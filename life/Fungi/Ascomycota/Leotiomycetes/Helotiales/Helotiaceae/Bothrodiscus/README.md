@@ -1,5 +1,4 @@
-Bothrodiscus Shear GENUS
-=======
+# Bothrodiscus Shear GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora rosigena Tharp SPECIES
-=======
+# Cercospora rosigena Tharp SPECIES
 
 #### Status
 ACCEPTED

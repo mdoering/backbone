@@ -1,5 +1,4 @@
-Mucronoporus cichoriaceus (Berk.) Ellis & Everh. SPECIES
-=======
+# Mucronoporus cichoriaceus (Berk.) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

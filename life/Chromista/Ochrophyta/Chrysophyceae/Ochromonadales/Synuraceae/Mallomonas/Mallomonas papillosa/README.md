@@ -1,5 +1,4 @@
-Mallomonas papillosa var. monilifera Harris VARIETY
-=======
+# Mallomonas papillosa K. Harris & W.H. Bradley SPECIES
 
 #### Status
 ACCEPTED

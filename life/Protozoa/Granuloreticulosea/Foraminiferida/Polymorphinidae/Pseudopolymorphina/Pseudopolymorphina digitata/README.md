@@ -1,8 +1,7 @@
-Polymorphina digitata d’Orbigny, 1843 SPECIES
-=======
+# Pseudopolymorphina digitata (d'Orbigny in Guerin-Meneville, 1843) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

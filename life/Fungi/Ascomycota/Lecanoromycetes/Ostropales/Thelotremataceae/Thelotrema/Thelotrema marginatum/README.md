@@ -1,5 +1,4 @@
-Thelotrema marginatum Eschw. SPECIES
-=======
+# Thelotrema marginatum Eschw. SPECIES
 
 #### Status
 ACCEPTED

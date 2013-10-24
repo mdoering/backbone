@@ -1,5 +1,4 @@
-Lecanora subnivea Müll. Arg. SPECIES
-=======
+# Lecanora subnivea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora sissoo Syd. SPECIES
-=======
+# Cercospora sissoo Syd. SPECIES
 
 #### Status
 ACCEPTED

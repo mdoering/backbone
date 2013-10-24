@@ -1,5 +1,4 @@
-Meliola cyrtochaeta Syd. SPECIES
-=======
+# Meliola cyrtochaeta Syd. SPECIES
 
 #### Status
 ACCEPTED

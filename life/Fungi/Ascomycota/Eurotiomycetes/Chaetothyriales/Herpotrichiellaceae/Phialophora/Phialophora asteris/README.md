@@ -1,17 +1,16 @@
-Phialophora asteris f. sp FORM
-=======
+# Phialophora asteris (Dowson) Burge & I. Isaac, 1974 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 92(3): 356 (1976)
+Trans. Br. mycol. Soc. 62(2): 375 (1974)
 
 #### Original name
-Phialophora asteris f. sp
+Cephalosporium asteris Dowson, 1923
 
 ### Remarks
 null

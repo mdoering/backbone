@@ -1,5 +1,4 @@
-Phoma acaenae Henn. SPECIES
-=======
+# Phoma acaenae Henn. SPECIES
 
 #### Status
 ACCEPTED

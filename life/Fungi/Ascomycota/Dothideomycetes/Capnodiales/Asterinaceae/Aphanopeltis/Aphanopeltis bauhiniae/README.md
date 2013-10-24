@@ -1,5 +1,4 @@
-Aphanopeltis bauhiniae Bat. SPECIES
-=======
+# Aphanopeltis bauhiniae Bat. SPECIES
 
 #### Status
 ACCEPTED

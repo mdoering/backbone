@@ -1,5 +1,4 @@
-Laboulbenia psilina Thaxt. SPECIES
-=======
+# Laboulbenia psilina Thaxt. SPECIES
 
 #### Status
 ACCEPTED

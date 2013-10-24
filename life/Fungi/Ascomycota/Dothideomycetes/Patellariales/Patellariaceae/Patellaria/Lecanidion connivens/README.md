@@ -1,5 +1,4 @@
-Lecanidion connivens Fuckel SPECIES
-=======
+# Lecanidion connivens Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Reophax rudis Brady, 1881 SPECIES
-=======
+# Reophax rudis Brady, 1881 SPECIES
 
 #### Status
 ACCEPTED

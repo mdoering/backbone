@@ -1,14 +1,13 @@
-Clavariopsis prolifera Pat., 1920 SPECIES
-=======
+# Holtermannia prolifera (Pat.) Kobayasi, 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 36: 62 (1920)
+Sci. Rep. Tokyo Bunrika Daig. , Sect. B 3: 80 (1937)
 
 #### Original name
 Clavariopsis prolifera Pat., 1920

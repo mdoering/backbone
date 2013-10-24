@@ -1,5 +1,4 @@
-Bacidia nigrofusca (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia nigrofusca (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

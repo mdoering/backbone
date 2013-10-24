@@ -1,5 +1,4 @@
-Microthyrium corynellum Tassi SPECIES
-=======
+# Microthyrium corynellum Tassi SPECIES
 
 #### Status
 ACCEPTED

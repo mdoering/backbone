@@ -1,5 +1,4 @@
-Archecyrtum Tikhomirova, 1987 GENUS
-=======
+# Archecyrtum Tikhomirova, 1987 GENUS
 
 #### Status
 ACCEPTED

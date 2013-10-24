@@ -1,17 +1,16 @@
-Polyporus picipes f. picipes FORM
-=======
+# Polyporus melanopus (Pers.) Fr., 1821 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 440 (1838)
+Syst. mycol. (Lundae) 1: 347 (1821)
 
 #### Original name
-Polyporus picipes f. picipes
+Boletus infundibuliformis Pers., 1794
 
 ### Remarks
 null

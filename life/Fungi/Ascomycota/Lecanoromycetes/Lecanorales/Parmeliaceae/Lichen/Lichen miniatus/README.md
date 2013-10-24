@@ -1,5 +1,4 @@
-Lichen miniatus Hoffm. SPECIES
-=======
+# Lichen miniatus Hoffm. SPECIES
 
 #### Status
 ACCEPTED

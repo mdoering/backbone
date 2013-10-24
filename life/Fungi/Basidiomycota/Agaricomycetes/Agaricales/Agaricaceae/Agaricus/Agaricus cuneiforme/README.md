@@ -1,5 +1,4 @@
-Agaricus cuneiforme Britzelm. SPECIES
-=======
+# Agaricus cuneiforme Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coryneopsis lirella (Cooke) Grove SPECIES
-=======
+# Coryneopsis lirella (Cooke) Grove SPECIES
 
 #### Status
 ACCEPTED

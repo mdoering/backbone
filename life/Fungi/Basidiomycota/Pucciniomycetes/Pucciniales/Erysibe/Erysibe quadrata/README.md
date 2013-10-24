@@ -1,5 +1,4 @@
-Erysibe quadrata Wallr. SPECIES
-=======
+# Erysibe quadrata Wallr. SPECIES
 
 #### Status
 ACCEPTED

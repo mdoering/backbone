@@ -1,5 +1,4 @@
-Phaeographina leucographa (Nyl.) Müll. Arg. SPECIES
-=======
+# Phaeographina leucographa (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

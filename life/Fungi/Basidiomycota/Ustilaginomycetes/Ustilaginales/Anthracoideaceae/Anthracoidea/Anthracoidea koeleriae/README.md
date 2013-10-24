@@ -1,5 +1,4 @@
-Anthracoidea koeleriae (Mundk.) Vánky SPECIES
-=======
+# Anthracoidea koeleriae (Mundk.) Vánky SPECIES
 
 #### Status
 ACCEPTED

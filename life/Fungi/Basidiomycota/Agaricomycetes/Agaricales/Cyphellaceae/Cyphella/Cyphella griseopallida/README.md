@@ -1,5 +1,4 @@
-Cyphella griseopallida var. griseopallida VARIETY
-=======
+# Cyphella griseopallida Weinm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Gallicum 522 (1836)
 
 #### Original name
-Cyphella griseopallida var. griseopallida
+Cyphella griseopallida Weinm.
 
 ### Remarks
 null

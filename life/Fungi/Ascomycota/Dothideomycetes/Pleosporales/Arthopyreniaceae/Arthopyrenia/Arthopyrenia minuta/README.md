@@ -1,5 +1,4 @@
-Arthopyrenia minuta Müll. Arg. SPECIES
-=======
+# Arthopyrenia minuta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

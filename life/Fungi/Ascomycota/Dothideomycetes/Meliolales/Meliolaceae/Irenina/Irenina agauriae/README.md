@@ -1,5 +1,4 @@
-Irenina agauriae Hansf. SPECIES
-=======
+# Irenina agauriae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coxliella laciniosa (Brandt, 1906) Brandt, 1907 SPECIES
-=======
+# Coxliella laciniosa (Brandt, 1906) Brandt, 1907 SPECIES
 
 #### Status
 ACCEPTED

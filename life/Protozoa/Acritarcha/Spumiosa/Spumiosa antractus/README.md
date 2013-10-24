@@ -1,5 +1,4 @@
-Spumiosa antractus Nikitina in Nikitina & Ogurzova, 1971 SPECIES
-=======
+# Spumiosa antractus Nikitina in Nikitina & Ogurzova, 1971 SPECIES
 
 #### Status
 ACCEPTED

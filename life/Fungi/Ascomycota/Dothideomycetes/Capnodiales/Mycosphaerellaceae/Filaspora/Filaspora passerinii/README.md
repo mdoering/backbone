@@ -1,5 +1,4 @@
-Filaspora passerinii (Sacc.) Kuntze SPECIES
-=======
+# Filaspora passerinii (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aptodinium haromense J.E. Thomas & B.M. Cox SPECIES
-=======
+# Aptodinium haromense J.E. Thomas & B.M. Cox SPECIES
 
 #### Status
 ACCEPTED

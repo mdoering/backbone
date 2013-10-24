@@ -1,5 +1,4 @@
-Opephora gemmata (Grunow) Hustedt SPECIES
-=======
+# Opephora gemmata (Grunow) Hustedt SPECIES
 
 #### Status
 ACCEPTED

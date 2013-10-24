@@ -1,5 +1,4 @@
-Marasmiellus musacearum Singer SPECIES
-=======
+# Marasmiellus musacearum Singer SPECIES
 
 #### Status
 ACCEPTED

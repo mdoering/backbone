@@ -1,5 +1,4 @@
-Trechispora subsphaerospora (Litsch.) Liberta, 1973 SPECIES
-=======
+# Trechispora subsphaerospora (Litsch.) Liberta, 1973 SPECIES
 
 #### Status
 ACCEPTED

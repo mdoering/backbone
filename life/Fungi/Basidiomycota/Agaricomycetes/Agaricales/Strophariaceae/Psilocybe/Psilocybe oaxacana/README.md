@@ -1,5 +1,4 @@
-Psilocybe oaxacana Guzmán, Escalona & J.Q. Jacobs SPECIES
-=======
+# Psilocybe oaxacana Guzmán, Escalona & J.Q. Jacobs SPECIES
 
 #### Status
 ACCEPTED

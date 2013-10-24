@@ -1,5 +1,4 @@
-Diplodia euterpes Syd. SPECIES
-=======
+# Diplodia euterpes Syd. SPECIES
 
 #### Status
 ACCEPTED

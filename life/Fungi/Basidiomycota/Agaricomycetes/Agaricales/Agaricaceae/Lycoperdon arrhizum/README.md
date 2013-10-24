@@ -1,5 +1,4 @@
-Lycoperdon arrhizum Batsch SPECIES
-=======
+# Lycoperdon arrhizum Batsch SPECIES
 
 #### Status
 ACCEPTED

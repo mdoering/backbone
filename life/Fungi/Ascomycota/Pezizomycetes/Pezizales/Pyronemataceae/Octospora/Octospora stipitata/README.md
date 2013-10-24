@@ -1,5 +1,4 @@
-Octospora stipitata (Reichard) Timm SPECIES
-=======
+# Octospora stipitata (Reichard) Timm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oropogon lorobic Essl. SPECIES
-=======
+# Oropogon lorobic Essl. SPECIES
 
 #### Status
 ACCEPTED

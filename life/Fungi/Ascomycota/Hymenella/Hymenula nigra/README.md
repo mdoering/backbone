@@ -1,5 +1,4 @@
-Hymenula nigra Fr. SPECIES
-=======
+# Hymenula nigra Fr. SPECIES
 
 #### Status
 ACCEPTED

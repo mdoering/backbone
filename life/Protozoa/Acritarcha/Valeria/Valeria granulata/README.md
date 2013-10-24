@@ -1,5 +1,4 @@
-Valeria granulata (Vidal in Vidal & Siedlecka, 1983) Fensome et al., 1990 SPECIES
-=======
+# Valeria granulata (Vidal in Vidal & Siedlecka, 1983) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

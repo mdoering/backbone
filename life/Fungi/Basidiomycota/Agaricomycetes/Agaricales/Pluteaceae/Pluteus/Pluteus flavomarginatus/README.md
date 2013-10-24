@@ -1,5 +1,4 @@
-Pluteus flavomarginatus Petch SPECIES
-=======
+# Pluteus flavomarginatus Petch SPECIES
 
 #### Status
 ACCEPTED

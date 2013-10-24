@@ -1,5 +1,4 @@
-Chaetomium hamatum Bat. & Pontual SPECIES
-=======
+# Chaetomium hamatum Bat. & Pontual SPECIES
 
 #### Status
 ACCEPTED

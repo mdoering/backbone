@@ -1,5 +1,4 @@
-Riessiella Jülich GENUS
-=======
+# Riessiella Jülich GENUS
 
 #### Status
 ACCEPTED

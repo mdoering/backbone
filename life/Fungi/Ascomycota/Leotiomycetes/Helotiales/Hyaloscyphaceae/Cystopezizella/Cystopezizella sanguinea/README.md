@@ -1,5 +1,4 @@
-Cystopezizella sanguinea (Velen.) Svrcek SPECIES
-=======
+# Cystopezizella sanguinea (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

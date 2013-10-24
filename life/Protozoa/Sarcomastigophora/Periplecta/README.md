@@ -1,5 +1,4 @@
-Periplecta Haeckel, 1881 GENUS
-=======
+# Periplecta Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

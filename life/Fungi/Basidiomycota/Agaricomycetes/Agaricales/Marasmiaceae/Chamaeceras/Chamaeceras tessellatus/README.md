@@ -1,5 +1,4 @@
-Chamaeceras tessellatus (Mont.) Kuntze SPECIES
-=======
+# Chamaeceras tessellatus (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

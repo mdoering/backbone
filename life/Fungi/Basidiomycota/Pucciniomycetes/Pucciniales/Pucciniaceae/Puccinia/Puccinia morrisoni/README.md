@@ -1,14 +1,13 @@
-Persooniella morrisoni (McAlpine) Syd., 1922 SPECIES
-=======
+# Puccinia morrisoni McAlpine, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 20(3): 118 (1922)
+Rusts of Australia 180 (1906)
 
 #### Original name
 Puccinia morrisoni McAlpine, 1906

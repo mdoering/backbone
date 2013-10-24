@@ -1,5 +1,4 @@
-Leciographa phylloporina (Müll. Arg.) Vouaux SPECIES
-=======
+# Leciographa phylloporina (Müll. Arg.) Vouaux SPECIES
 
 #### Status
 ACCEPTED

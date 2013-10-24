@@ -1,5 +1,4 @@
-Agaricus camura Fr. SPECIES
-=======
+# Agaricus camura Fr. SPECIES
 
 #### Status
 ACCEPTED

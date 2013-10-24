@@ -1,17 +1,16 @@
-Xanthochrous radiatus subsp. polymorphus (Rostk.) Bourdot & Galzin SUBSPECIES
-=======
+# Inonotus nodulosus (Fr.) P. Karst., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 41: 200 (1925)
+Bidr. Känn. Finl. Nat. Folk 37: 73 (1882)
 
 #### Original name
-Polyporus polymorphus Rostk., 1838
+Polyporus nodulosus Fr., 1838
 
 ### Remarks
 null

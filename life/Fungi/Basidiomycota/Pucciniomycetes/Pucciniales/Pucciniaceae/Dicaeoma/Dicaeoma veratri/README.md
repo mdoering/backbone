@@ -1,5 +1,4 @@
-Dicaeoma veratri (Niessl) Kuntze SPECIES
-=======
+# Dicaeoma veratri (Niessl) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella myricae Sawada SPECIES
-=======
+# Mycosphaerella myricae Sawada SPECIES
 
 #### Status
 ACCEPTED

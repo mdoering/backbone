@@ -1,5 +1,4 @@
-Eriopezia peculiaris Velen. SPECIES
-=======
+# Eriopezia peculiaris Velen. SPECIES
 
 #### Status
 ACCEPTED

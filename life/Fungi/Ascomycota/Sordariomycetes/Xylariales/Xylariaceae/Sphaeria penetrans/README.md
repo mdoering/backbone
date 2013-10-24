@@ -1,5 +1,4 @@
-Sphaeria penetrans var. penetrans VARIETY
-=======
+# Sphaeria penetrans Tode SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaeria penetrans var. penetrans
+Sphaeria penetrans Tode
 
 ### Remarks
 null

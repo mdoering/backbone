@@ -1,5 +1,4 @@
-Biatora sessitana (Bagl. & Carestia) Jatta SPECIES
-=======
+# Biatora sessitana (Bagl. & Carestia) Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chrysomyxa urediniformis Müll. Hal. SPECIES
-=======
+# Chrysomyxa urediniformis Müll. Hal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Grubyella luxurians (Brault & A. Vig.) Brumpt SPECIES
-=======
+# Grubyella luxurians (Brault & A. Vig.) Brumpt SPECIES
 
 #### Status
 ACCEPTED

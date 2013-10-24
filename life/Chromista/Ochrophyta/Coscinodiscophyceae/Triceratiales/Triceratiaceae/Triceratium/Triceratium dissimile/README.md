@@ -1,5 +1,4 @@
-Triceratium dissimile Grunow ex A. Schmidt SPECIES
-=======
+# Triceratium dissimile Grunow ex A. Schmidt SPECIES
 
 #### Status
 ACCEPTED

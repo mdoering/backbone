@@ -1,5 +1,4 @@
-Torula caricina Ellis & Dearn. SPECIES
-=======
+# Torula caricina Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

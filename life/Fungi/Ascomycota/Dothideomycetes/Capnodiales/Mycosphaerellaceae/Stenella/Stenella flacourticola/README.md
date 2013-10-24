@@ -1,5 +1,4 @@
-Stenella flacourticola R.K. Verma, N. Sharma & Soni SPECIES
-=======
+# Stenella flacourticola R.K. Verma, N. Sharma & Soni SPECIES
 
 #### Status
 ACCEPTED

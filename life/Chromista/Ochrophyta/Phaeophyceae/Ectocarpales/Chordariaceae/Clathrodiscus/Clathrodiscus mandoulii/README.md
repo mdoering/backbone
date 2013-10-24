@@ -1,5 +1,4 @@
-Clathrodiscus mandoulii (Sauvageau) G.Hamel, 1935 SPECIES
-=======
+# Clathrodiscus mandoulii (Sauvageau) G.Hamel, 1935 SPECIES
 
 #### Status
 ACCEPTED

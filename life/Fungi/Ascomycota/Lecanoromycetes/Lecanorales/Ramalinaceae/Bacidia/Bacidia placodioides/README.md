@@ -1,5 +1,4 @@
-Bacidia placodioides Coppins & Fryday SPECIES
-=======
+# Bacidia placodioides Coppins & Fryday SPECIES
 
 #### Status
 ACCEPTED

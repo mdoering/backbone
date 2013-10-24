@@ -1,5 +1,4 @@
-Agaricus dilutus Pers. SPECIES
-=======
+# Agaricus dilutus Pers. SPECIES
 
 #### Status
 ACCEPTED

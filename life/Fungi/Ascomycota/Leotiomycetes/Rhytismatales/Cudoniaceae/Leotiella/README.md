@@ -1,5 +1,4 @@
-Leotiella GENUS
-=======
+# Leotiella GENUS
 
 #### Status
 ACCEPTED

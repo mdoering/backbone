@@ -1,5 +1,4 @@
-Tricholoma umbrosum A.H. Sm. & M.B. Walters SPECIES
-=======
+# Tricholoma umbrosum A.H. Sm. & M.B. Walters SPECIES
 
 #### Status
 ACCEPTED

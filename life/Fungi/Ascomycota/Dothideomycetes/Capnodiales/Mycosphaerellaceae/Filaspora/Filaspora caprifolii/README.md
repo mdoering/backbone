@@ -1,5 +1,4 @@
-Filaspora caprifolii (Sacc.) Kuntze SPECIES
-=======
+# Filaspora caprifolii (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

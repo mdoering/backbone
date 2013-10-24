@@ -1,5 +1,4 @@
-Hypocrea cremea P. Chaverri & Samuels, 2003 SPECIES
-=======
+# Hypocrea cremea P. Chaverri & Samuels, 2003 SPECIES
 
 #### Status
 ACCEPTED

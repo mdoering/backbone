@@ -1,5 +1,4 @@
-Pleospora ligni Kirschst. SPECIES
-=======
+# Pleospora ligni Kirschst. SPECIES
 
 #### Status
 ACCEPTED

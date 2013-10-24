@@ -1,5 +1,4 @@
-Phyllosticta arachidis Khokhr. SPECIES
-=======
+# Phyllosticta arachidis Khokhr. SPECIES
 
 #### Status
 ACCEPTED

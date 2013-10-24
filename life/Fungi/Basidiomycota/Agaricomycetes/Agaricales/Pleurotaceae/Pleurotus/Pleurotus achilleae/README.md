@@ -1,5 +1,4 @@
-Pleurotus achilleae Velen. SPECIES
-=======
+# Pleurotus achilleae Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora atomariospora H. Magn. SPECIES
-=======
+# Acarospora atomariospora H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium vinnulum H.S. Jacks. & Holw. SPECIES
-=======
+# Aecidium vinnulum H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

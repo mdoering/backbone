@@ -1,5 +1,4 @@
-Badhamia rhytidosperma H.W. Keller & Schokn., 1989 SPECIES
-=======
+# Badhamia rhytidosperma H.W. Keller & Schokn., 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Aureohyphozyma astraeicola Hosoya & Y. Otani, 1995 SPECIES
-=======
+# Gelatinipulvinella astraeicola Hosoya & Y. Otani, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Mycologia 87(5): 690 (1995)
 
 #### Original name
-Aureohyphozyma astraeicola Hosoya & Y. Otani, 1995
+Gelatinipulvinella astraeicola Hosoya & Y. Otani, 1995
 
 ### Remarks
 null

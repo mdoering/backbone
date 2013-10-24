@@ -1,5 +1,4 @@
-Helotium xylitum (P. Karst.) P. Karst. SPECIES
-=======
+# Helotium xylitum (P. Karst.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

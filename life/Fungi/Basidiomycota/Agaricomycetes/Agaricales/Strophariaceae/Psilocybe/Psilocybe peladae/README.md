@@ -1,5 +1,4 @@
-Psilocybe peladae Singer SPECIES
-=======
+# Psilocybe peladae Singer SPECIES
 
 #### Status
 ACCEPTED

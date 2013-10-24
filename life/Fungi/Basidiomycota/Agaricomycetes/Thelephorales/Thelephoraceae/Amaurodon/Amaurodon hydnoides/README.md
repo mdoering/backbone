@@ -1,5 +1,4 @@
-Amaurodon hydnoides Kõljalg & Ryvarden, 1997 SPECIES
-=======
+# Amaurodon hydnoides Kõljalg & Ryvarden, 1997 SPECIES
 
 #### Status
 ACCEPTED

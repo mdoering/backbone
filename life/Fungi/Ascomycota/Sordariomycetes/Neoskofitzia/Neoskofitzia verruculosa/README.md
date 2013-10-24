@@ -1,5 +1,4 @@
-Neoskofitzia verruculosa Schulzer SPECIES
-=======
+# Neoskofitzia verruculosa Schulzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza lateritia Pers. SPECIES
-=======
+# Peziza lateritia Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubaria cupularis (Bull.) Fr. SPECIES
-=======
+# Tubaria cupularis (Bull.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microphoma sorbicola N.F. Buchw. SPECIES
-=======
+# Microphoma sorbicola N.F. Buchw. SPECIES
 
 #### Status
 ACCEPTED

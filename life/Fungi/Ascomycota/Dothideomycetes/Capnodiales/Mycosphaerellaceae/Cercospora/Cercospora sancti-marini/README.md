@@ -1,5 +1,4 @@
-Cercospora sancti-marini (Sacc.) Chupp SPECIES
-=======
+# Cercospora sancti-marini (Sacc.) Chupp SPECIES
 
 #### Status
 ACCEPTED

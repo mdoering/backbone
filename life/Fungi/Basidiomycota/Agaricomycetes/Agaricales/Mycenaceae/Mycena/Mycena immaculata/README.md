@@ -1,5 +1,4 @@
-Mycena immaculata Peck SPECIES
-=======
+# Mycena immaculata Peck SPECIES
 
 #### Status
 ACCEPTED

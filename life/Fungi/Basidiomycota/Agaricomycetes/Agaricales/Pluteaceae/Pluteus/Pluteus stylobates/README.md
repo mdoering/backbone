@@ -1,5 +1,4 @@
-Pluteus stylobates Velen. SPECIES
-=======
+# Pluteus stylobates Velen. SPECIES
 
 #### Status
 ACCEPTED

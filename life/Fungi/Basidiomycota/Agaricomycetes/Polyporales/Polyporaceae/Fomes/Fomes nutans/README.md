@@ -1,5 +1,4 @@
-Fomes nutans (Fr.) Sacc. SPECIES
-=======
+# Fomes nutans (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

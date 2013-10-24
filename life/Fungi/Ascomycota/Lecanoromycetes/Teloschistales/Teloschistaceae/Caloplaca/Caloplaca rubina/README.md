@@ -1,5 +1,4 @@
-Caloplaca rubina var. rubina VARIETY
-=======
+# Caloplaca rubina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Skottsberg, Nat. Hist. Juan Fernandez Easter Isl. , 2 (Bot. ) 3(11): 396 (1924)
 
 #### Original name
-Caloplaca rubina var. rubina
+Caloplaca rubina Zahlbr.
 
 ### Remarks
 null

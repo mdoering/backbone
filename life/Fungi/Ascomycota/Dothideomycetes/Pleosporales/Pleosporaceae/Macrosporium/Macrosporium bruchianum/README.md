@@ -1,5 +1,4 @@
-Macrosporium bruchianum Speg. SPECIES
-=======
+# Macrosporium bruchianum Speg. SPECIES
 
 #### Status
 ACCEPTED

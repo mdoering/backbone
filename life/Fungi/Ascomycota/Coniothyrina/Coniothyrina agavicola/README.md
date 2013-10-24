@@ -1,14 +1,13 @@
-Coniothyriella agavicola Speg., 1910 SPECIES
-=======
+# Coniothyrina agavicola (Speg.) Syd., 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Mus. nac. B. Aires, Ser. 3 13: 360 (1910)
+Annls mycol. 10: (1912)
 
 #### Original name
 Coniothyriella agavicola Speg., 1910

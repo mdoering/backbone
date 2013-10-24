@@ -1,5 +1,4 @@
-Fragilaria ulna var. goulardi (Bréb. ex Cleve & Grunow) Lange-Bertalot VARIETY
-=======
+# Fragilaria ulna (Nitzsch) Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

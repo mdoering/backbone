@@ -1,5 +1,4 @@
-Diaporthe therryana Sacc. & Penz. SPECIES
-=======
+# Diaporthe therryana Sacc. & Penz. SPECIES
 
 #### Status
 ACCEPTED

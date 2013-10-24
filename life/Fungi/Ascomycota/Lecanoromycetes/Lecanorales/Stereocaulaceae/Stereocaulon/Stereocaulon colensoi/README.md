@@ -1,5 +1,4 @@
-Stereocaulon colensoi var. colensoi VARIETY
-=======
+# Stereocaulon colensoi C. Bab. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Hooker, Fl. nov. -zel. 2: 295 (1855)
 
 #### Original name
-Stereocaulon colensoi var. colensoi
+Stereocaulon colensoi C. Bab.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Apiotypa philippinensis Petr., 1925 SPECIES
-=======
+# Apiotypa philippinensis Petr., 1925 SPECIES
 
 #### Status
 ACCEPTED

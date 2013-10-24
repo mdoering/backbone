@@ -1,5 +1,4 @@
-Arthothelium aphanocarpum (Nyl.) Zahlbr. SPECIES
-=======
+# Arthothelium aphanocarpum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

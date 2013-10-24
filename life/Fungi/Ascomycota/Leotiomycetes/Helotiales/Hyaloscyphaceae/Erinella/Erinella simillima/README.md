@@ -1,5 +1,4 @@
-Erinella simillima (Berk. & Broome) Sacc. SPECIES
-=======
+# Erinella simillima (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

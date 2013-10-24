@@ -1,5 +1,4 @@
-Sporidesmium hysterioideum Cooke & Ellis SPECIES
-=======
+# Sporidesmium hysterioideum Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

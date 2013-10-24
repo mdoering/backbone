@@ -1,14 +1,13 @@
-Poria subargentea Speg., 1891 SPECIES
-=======
+# Grammothele subargentea (Speg.) Rajchenb., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revista Argent. Hist. Nat. 1: 104 (1891)
+Mycotaxon 17: 280 (1983)
 
 #### Original name
 Poria subargentea Speg., 1891

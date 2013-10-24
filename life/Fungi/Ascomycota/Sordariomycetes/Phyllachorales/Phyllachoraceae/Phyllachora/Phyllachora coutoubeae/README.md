@@ -1,14 +1,13 @@
-Endodothella coutoubeae (Henn.) Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora coutoubeae (Henn.) Arx, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 13(5/6): 591 (1915)
+Acta bot. neerl. 7: 512 (1958)
 
 #### Original name
 Dothidella coutoubeae Henn., 1904

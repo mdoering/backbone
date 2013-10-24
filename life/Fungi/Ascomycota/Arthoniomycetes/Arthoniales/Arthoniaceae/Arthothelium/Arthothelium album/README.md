@@ -1,5 +1,4 @@
-Arthothelium album Zahlbr. SPECIES
-=======
+# Arthothelium album Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

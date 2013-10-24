@@ -1,5 +1,4 @@
-Mycosphaerella telopeae M.E. Palm & Crous, 1998 SPECIES
-=======
+# Mycosphaerella telopeae M.E. Palm & Crous, 1998 SPECIES
 
 #### Status
 ACCEPTED

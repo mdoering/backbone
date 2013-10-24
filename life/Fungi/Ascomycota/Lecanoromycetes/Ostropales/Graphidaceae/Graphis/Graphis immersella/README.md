@@ -1,5 +1,4 @@
-Graphis immersella Müll. Arg. SPECIES
-=======
+# Graphis immersella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

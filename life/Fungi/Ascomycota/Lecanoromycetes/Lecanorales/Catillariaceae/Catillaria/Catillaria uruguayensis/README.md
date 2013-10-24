@@ -1,5 +1,4 @@
-Catillaria uruguayensis Räsänen SPECIES
-=======
+# Catillaria uruguayensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

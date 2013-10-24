@@ -1,5 +1,4 @@
-Papilionovela Aptroot GENUS
-=======
+# Papilionovela Aptroot GENUS
 
 #### Status
 ACCEPTED

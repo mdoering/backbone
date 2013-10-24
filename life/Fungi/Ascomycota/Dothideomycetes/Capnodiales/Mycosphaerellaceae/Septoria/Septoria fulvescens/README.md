@@ -1,5 +1,4 @@
-Septoria fulvescens Sacc., 1878 SPECIES
-=======
+# Septoria fulvescens Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED

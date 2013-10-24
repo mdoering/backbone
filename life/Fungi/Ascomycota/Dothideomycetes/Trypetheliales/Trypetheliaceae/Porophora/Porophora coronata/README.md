@@ -1,5 +1,4 @@
-Porophora coronata (Ach.) Spreng. SPECIES
-=======
+# Porophora coronata (Ach.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

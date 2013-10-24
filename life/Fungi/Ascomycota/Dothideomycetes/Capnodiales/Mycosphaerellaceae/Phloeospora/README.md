@@ -1,17 +1,16 @@
-Phloeochora Höhn. GENUS
-=======
+# Phloeospora Wallroth, 1833 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ber. dt. bot. Ges. 35: 253 (1917)
+Fl. crypt. Germ. (Nürnberg) 2: 176 (1833)
 
 #### Original name
-Phloeochora Höhn.
+Phloeospora Wallroth, 1833
 
 ### Remarks
 null

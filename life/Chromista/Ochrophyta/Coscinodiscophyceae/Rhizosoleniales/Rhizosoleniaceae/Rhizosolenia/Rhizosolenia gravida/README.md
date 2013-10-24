@@ -1,5 +1,4 @@
-Rhizosolenia gravida A.M. Gombos & P.F. Ciesielski SPECIES
-=======
+# Rhizosolenia gravida A.M. Gombos & P.F. Ciesielski SPECIES
 
 #### Status
 ACCEPTED

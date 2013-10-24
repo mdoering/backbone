@@ -1,5 +1,4 @@
-Neophormidium P.K.Misra & P.K.Maithy, 1984 GENUS
-=======
+# Neophormidium P.K.Misra & P.K.Maithy, 1984 GENUS
 
 #### Status
 ACCEPTED

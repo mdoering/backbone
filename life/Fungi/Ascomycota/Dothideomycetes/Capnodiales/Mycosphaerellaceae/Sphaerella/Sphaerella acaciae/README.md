@@ -1,5 +1,4 @@
-Sphaerella acaciae Cooke & Harkn. SPECIES
-=======
+# Sphaerella acaciae Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

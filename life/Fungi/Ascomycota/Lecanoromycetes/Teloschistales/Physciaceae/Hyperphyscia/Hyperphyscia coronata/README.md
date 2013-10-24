@@ -1,5 +1,4 @@
-Hyperphyscia coronata Scutari SPECIES
-=======
+# Hyperphyscia coronata Scutari SPECIES
 
 #### Status
 ACCEPTED

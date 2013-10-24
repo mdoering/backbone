@@ -1,5 +1,4 @@
-Marasmius chamaecyparidis Hongo SPECIES
-=======
+# Marasmius chamaecyparidis Hongo SPECIES
 
 #### Status
 ACCEPTED

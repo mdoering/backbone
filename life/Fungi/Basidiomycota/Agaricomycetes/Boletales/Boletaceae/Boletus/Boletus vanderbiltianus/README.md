@@ -1,5 +1,4 @@
-Boletus vanderbiltianus Murrill SPECIES
-=======
+# Boletus vanderbiltianus Murrill SPECIES
 
 #### Status
 ACCEPTED

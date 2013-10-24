@@ -1,5 +1,4 @@
-Hyphoderma hjortstamii Sheng H. Wu, 1990 SPECIES
-=======
+# Hyphoderma hjortstamii Sheng H. Wu, 1990 SPECIES
 
 #### Status
 ACCEPTED

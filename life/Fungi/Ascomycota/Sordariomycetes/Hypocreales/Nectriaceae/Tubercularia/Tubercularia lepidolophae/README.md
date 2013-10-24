@@ -1,5 +1,4 @@
-Tubercularia lepidolophae Schwarzman SPECIES
-=======
+# Tubercularia lepidolophae Schwarzman SPECIES
 
 #### Status
 ACCEPTED

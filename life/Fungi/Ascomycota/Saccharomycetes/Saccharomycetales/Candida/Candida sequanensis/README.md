@@ -1,5 +1,4 @@
-Candida sequanensis Saëz & Rodr. Mir., 1984 SPECIES
-=======
+# Candida sequanensis Saëz & Rodr. Mir., 1984 SPECIES
 
 #### Status
 ACCEPTED

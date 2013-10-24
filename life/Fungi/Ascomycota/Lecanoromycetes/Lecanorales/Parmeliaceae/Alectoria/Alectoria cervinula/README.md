@@ -1,5 +1,4 @@
-Alectoria cervinula (Motyka ex Brodo & D. Hawksw.) Motyka SPECIES
-=======
+# Alectoria cervinula (Motyka ex Brodo & D. Hawksw.) Motyka SPECIES
 
 #### Status
 ACCEPTED

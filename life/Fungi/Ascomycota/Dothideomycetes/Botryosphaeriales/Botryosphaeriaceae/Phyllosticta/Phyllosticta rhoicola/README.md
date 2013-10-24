@@ -1,5 +1,4 @@
-Phyllosticta rhoicola Ellis & Everh. SPECIES
-=======
+# Phyllosticta rhoicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

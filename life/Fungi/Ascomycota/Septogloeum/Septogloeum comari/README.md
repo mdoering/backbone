@@ -1,5 +1,4 @@
-Septogloeum comari Bres. & Allesch. SPECIES
-=======
+# Septogloeum comari Bres. & Allesch. SPECIES
 
 #### Status
 ACCEPTED

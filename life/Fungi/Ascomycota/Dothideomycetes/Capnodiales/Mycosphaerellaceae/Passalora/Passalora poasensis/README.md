@@ -1,5 +1,4 @@
-Passalora poasensis (Syd.) U. Braun & Crous SPECIES
-=======
+# Passalora poasensis (Syd.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

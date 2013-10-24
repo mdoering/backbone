@@ -1,5 +1,4 @@
-Lecidella alba (Schleich.) Hertel SPECIES
-=======
+# Lecidella alba (Schleich.) Hertel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lactarius controversus var. lateripes (Desm.) Bataille VARIETY
-=======
+# Lactarius controversus (Pers.) Pers., 1796 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Monogr. Astérosporales 27 (1908)
+Observ. mycol. (Lipsiae) 1: 39 (1796)
 
 #### Original name
-Agaricus lateripes Desm.
+Agaricus controversus Pers., 1800
 
 ### Remarks
 null

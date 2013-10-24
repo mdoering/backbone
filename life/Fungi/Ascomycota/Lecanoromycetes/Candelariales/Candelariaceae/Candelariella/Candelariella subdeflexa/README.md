@@ -1,5 +1,4 @@
-Candelariella subdeflexa (Nyl.) Lettau SPECIES
-=======
+# Candelariella subdeflexa (Nyl.) Lettau SPECIES
 
 #### Status
 ACCEPTED

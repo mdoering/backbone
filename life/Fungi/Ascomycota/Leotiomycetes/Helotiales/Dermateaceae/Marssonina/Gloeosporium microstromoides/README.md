@@ -1,5 +1,4 @@
-Gloeosporium microstromoides Moesz SPECIES
-=======
+# Gloeosporium microstromoides Moesz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria rhuina Schwein. SPECIES
-=======
+# Sphaeria rhuina Schwein. SPECIES
 
 #### Status
 ACCEPTED

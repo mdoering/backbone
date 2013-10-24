@@ -1,5 +1,4 @@
-Diploplenodomopsis GENUS
-=======
+# Diploplenodomopsis GENUS
 
 #### Status
 ACCEPTED

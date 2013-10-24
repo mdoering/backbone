@@ -1,5 +1,4 @@
-Acitheca purpurea Thaxt. ex Currah, 1985 SPECIES
-=======
+# Acitheca purpurea Thaxt. ex Currah, 1985 SPECIES
 
 #### Status
 ACCEPTED

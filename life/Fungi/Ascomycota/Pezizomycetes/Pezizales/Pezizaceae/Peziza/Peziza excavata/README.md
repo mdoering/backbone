@@ -1,5 +1,4 @@
-Peziza excavata Saut. SPECIES
-=======
+# Peziza excavata Saut. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca subalpina Vondrák, Šoun & Palice SPECIES
-=======
+# Caloplaca subalpina Vondrák, Šoun & Palice SPECIES
 
 #### Status
 ACCEPTED

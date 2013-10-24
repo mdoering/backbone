@@ -1,5 +1,4 @@
-Fellhanera carnea (Vezda) Vezda SPECIES
-=======
+# Fellhanera carnea (Vezda) Vezda SPECIES
 
 #### Status
 ACCEPTED

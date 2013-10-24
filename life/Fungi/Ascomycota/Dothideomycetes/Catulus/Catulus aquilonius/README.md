@@ -1,5 +1,4 @@
-Catulus aquilonius Malloch & Rogerson, 1978 SPECIES
-=======
+# Catulus aquilonius Malloch & Rogerson, 1978 SPECIES
 
 #### Status
 ACCEPTED

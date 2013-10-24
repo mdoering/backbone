@@ -1,5 +1,4 @@
-Diplodina chelidonii Ade SPECIES
-=======
+# Diplodina chelidonii Ade SPECIES
 
 #### Status
 ACCEPTED

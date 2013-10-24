@@ -1,5 +1,4 @@
-Vaucheria orthocarpa Reinsch. SPECIES
-=======
+# Vaucheria orthocarpa Reinsch. SPECIES
 
 #### Status
 ACCEPTED

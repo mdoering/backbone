@@ -1,5 +1,4 @@
-Talaromyces lanuginosus Tsikl. SPECIES
-=======
+# Talaromyces lanuginosus Tsikl. SPECIES
 
 #### Status
 ACCEPTED

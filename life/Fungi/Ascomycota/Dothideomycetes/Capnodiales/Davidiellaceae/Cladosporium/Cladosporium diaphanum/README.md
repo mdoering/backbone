@@ -1,5 +1,4 @@
-Cladosporium diaphanum Thüm., 1880 SPECIES
-=======
+# Cladosporium diaphanum Thüm., 1880 SPECIES
 
 #### Status
 ACCEPTED

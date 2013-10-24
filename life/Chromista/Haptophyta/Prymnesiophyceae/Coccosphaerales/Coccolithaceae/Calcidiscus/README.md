@@ -1,14 +1,13 @@
-Cycloplacolithella Bilal ul Haq, 1968 GENUS
-=======
+# Calcidiscus Kamptner, 1950 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stockh. Contr. Geol. 18: 25.
+Mikroskopie, 7, 235.
 
 #### Original name
 null

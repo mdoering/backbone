@@ -1,5 +1,4 @@
-Kephyriopsis elegans Hilliard SPECIES
-=======
+# Kephyriopsis elegans Hilliard SPECIES
 
 #### Status
 ACCEPTED

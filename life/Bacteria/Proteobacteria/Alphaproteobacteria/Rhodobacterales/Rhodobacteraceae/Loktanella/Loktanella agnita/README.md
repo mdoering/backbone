@@ -1,5 +1,4 @@
-Loktanella agnita Ivanova et al., 2005 SPECIES
-=======
+# Loktanella agnita Ivanova et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

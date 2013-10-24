@@ -1,5 +1,4 @@
-Lentinus lasiophyllus Cooke & Massee SPECIES
-=======
+# Lentinus lasiophyllus Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

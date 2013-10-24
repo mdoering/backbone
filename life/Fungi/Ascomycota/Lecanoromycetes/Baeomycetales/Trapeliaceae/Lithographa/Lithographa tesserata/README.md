@@ -1,17 +1,16 @@
-Lithographa tesserata f. tesserata FORM
-=======
+# Lithographa tesserata (DC.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Act. Soc. linn. Bordeaux 21: 441 (1856)
 
 #### Original name
-Lithographa tesserata f. tesserata
+Opegrapha tesserata DC.
 
 ### Remarks
 null

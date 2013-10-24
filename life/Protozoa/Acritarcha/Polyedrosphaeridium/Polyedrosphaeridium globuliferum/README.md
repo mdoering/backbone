@@ -1,5 +1,4 @@
-Polyedrosphaeridium globuliferum Rudavskaya in Rudavskaya & Timofeev SPECIES
-=======
+# Polyedrosphaeridium globuliferum Rudavskaya in Rudavskaya & Timofeev SPECIES
 
 #### Status
 ACCEPTED

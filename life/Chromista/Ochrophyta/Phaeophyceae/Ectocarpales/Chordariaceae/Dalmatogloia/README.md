@@ -1,5 +1,4 @@
-Dalmatogloia Ercegovic, 1955 GENUS
-=======
+# Dalmatogloia Ercegovic, 1955 GENUS
 
 #### Status
 ACCEPTED

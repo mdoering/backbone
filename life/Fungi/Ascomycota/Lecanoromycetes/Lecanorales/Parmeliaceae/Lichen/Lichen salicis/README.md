@@ -1,5 +1,4 @@
-Lichen salicis Schrad. SPECIES
-=======
+# Lichen salicis Schrad. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kuehneromyces marginellus (Peck) Redhead SPECIES
-=======
+# Kuehneromyces marginellus (Peck) Redhead SPECIES
 
 #### Status
 ACCEPTED

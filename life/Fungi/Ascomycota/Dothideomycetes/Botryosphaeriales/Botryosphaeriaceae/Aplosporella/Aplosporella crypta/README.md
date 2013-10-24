@@ -1,5 +1,4 @@
-Aplosporella crypta Petch SPECIES
-=======
+# Aplosporella crypta Petch SPECIES
 
 #### Status
 ACCEPTED

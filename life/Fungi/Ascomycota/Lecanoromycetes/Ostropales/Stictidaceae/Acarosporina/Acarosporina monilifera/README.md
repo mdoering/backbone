@@ -1,14 +1,13 @@
-Schizoxylon moniliferum Ellis & Everh. SPECIES
-=======
+# Acarosporina monilifera (Ellis & Everh.) Sherwood SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 5(1): 34 (1977)
 
 #### Original name
 Schizoxylon moniliferum Ellis & Everh.

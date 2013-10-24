@@ -1,5 +1,4 @@
-Usnea masudana Asahina SPECIES
-=======
+# Usnea masudana Asahina SPECIES
 
 #### Status
 ACCEPTED

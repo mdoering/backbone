@@ -1,5 +1,4 @@
-Phacidiopycnis balsamicola A. Funk SPECIES
-=======
+# Phacidiopycnis balsamicola A. Funk SPECIES
 
 #### Status
 ACCEPTED

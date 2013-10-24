@@ -1,5 +1,4 @@
-Gluconobacter albidus (ex Kondo & Ameyama, 1958) Yukphan et al., 2005 SPECIES
-=======
+# Gluconobacter albidus (ex Kondo & Ameyama, 1958) Yukphan et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

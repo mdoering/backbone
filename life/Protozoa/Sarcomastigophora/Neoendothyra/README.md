@@ -1,5 +1,4 @@
-Neoendothyra Reitlinger, 1965 GENUS
-=======
+# Neoendothyra Reitlinger, 1965 GENUS
 
 #### Status
 ACCEPTED

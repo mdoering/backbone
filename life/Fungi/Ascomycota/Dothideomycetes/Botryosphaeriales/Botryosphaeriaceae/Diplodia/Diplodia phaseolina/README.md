@@ -1,5 +1,4 @@
-Diplodia phaseolina Sacc. SPECIES
-=======
+# Diplodia phaseolina Sacc. SPECIES
 
 #### Status
 ACCEPTED

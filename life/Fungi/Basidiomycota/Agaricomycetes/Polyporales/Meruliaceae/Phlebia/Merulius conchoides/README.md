@@ -1,5 +1,4 @@
-Merulius conchoides Lloyd SPECIES
-=======
+# Merulius conchoides Lloyd SPECIES
 
 #### Status
 ACCEPTED

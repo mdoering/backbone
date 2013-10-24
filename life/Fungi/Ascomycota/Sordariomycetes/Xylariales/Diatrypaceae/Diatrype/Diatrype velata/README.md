@@ -1,5 +1,4 @@
-Diatrype velata Rehm SPECIES
-=======
+# Diatrype velata Rehm SPECIES
 
 #### Status
 ACCEPTED

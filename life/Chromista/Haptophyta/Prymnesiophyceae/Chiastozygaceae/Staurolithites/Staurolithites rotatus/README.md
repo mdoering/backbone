@@ -1,5 +1,4 @@
-Staurolithites rotatus SPECIES
-=======
+# Staurolithites rotatus SPECIES
 
 #### Status
 ACCEPTED

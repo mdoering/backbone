@@ -1,5 +1,4 @@
-Laboulbenia torta Sugiy. SPECIES
-=======
+# Laboulbenia torta Sugiy. SPECIES
 
 #### Status
 ACCEPTED

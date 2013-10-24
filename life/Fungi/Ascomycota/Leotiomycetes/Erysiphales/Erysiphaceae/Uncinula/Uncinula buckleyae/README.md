@@ -1,5 +1,4 @@
-Uncinula buckleyae Y. Nomura & Tanda SPECIES
-=======
+# Uncinula buckleyae Y. Nomura & Tanda SPECIES
 
 #### Status
 ACCEPTED

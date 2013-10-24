@@ -1,5 +1,4 @@
-Niebla contorta Spjut SPECIES
-=======
+# Niebla contorta Spjut SPECIES
 
 #### Status
 ACCEPTED

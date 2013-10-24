@@ -1,5 +1,4 @@
-Rhizobium yanglingense Tan et al., 2001 SPECIES
-=======
+# Rhizobium yanglingense Tan et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

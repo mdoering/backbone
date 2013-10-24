@@ -1,5 +1,4 @@
-Buellia protothallina var. protothallina VARIETY
-=======
+# Buellia protothallina (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Résult. Voy. Belgica, Lich. 25 (1903)
 
 #### Original name
-Buellia protothallina var. protothallina
+Abrothallus protothallinus Anzi
 
 ### Remarks
 null

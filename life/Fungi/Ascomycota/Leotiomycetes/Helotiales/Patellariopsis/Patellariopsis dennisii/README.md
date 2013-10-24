@@ -1,14 +1,13 @@
-Scleroderris dennisii E. Müll. & Hütter, 1962 SPECIES
-=======
+# Patellariopsis dennisii (E. Müll. & Hütter) Schläpf.-Bernh., 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 27: 73 (1962)
+Sydowia 22(1-4): 15 (1969)
 
 #### Original name
 Scleroderris dennisii E. Müll. & Hütter, 1962

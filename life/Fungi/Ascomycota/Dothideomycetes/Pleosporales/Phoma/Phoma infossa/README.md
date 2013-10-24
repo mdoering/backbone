@@ -1,5 +1,4 @@
-Phoma infossa Ellis & Everh. SPECIES
-=======
+# Phoma infossa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

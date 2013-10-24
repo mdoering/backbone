@@ -1,5 +1,4 @@
-Mycosphaerella liukiuensis Sawada SPECIES
-=======
+# Mycosphaerella liukiuensis Sawada SPECIES
 
 #### Status
 ACCEPTED

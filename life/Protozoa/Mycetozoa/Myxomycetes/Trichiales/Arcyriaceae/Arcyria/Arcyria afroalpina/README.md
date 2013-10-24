@@ -1,17 +1,16 @@
-Arcyria afroalpina var. mexicana Lizárraga, G. Moreno & Illana VARIETY
-=======
+# Arcyria afroalpina Rammeloo, 1981 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Öst. Z. Pilzk. 14: 106 (2005)
+Bull. Jard. Bot. Nat. Belg. 51(1/2): 229 (1981)
 
 #### Original name
-Arcyria afroalpina var. mexicana Lizárraga, G. Moreno & Illana
+Arcyria afroalpina Rammeloo, 1981
 
 ### Remarks
 null

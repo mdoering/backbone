@@ -1,17 +1,16 @@
-Entomopatella Petr. GENUS
-=======
+# Chaetospermum Saccardo, 1892 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 25(3/4): 215 (1927)
+Syll. fung. (Abellini) 10: 706 (1892)
 
 #### Original name
-Entomopatella Petr.
+Chaetospermum Saccardo, 1892
 
 ### Remarks
 null

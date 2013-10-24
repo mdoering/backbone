@@ -1,5 +1,4 @@
-Lachnella tami anon. SPECIES
-=======
+# Lachnella tami anon. SPECIES
 
 #### Status
 ACCEPTED

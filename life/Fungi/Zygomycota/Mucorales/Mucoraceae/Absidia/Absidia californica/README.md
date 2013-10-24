@@ -1,5 +1,4 @@
-Absidia californica J.J. Ellis & Hesselt., 1965 SPECIES
-=======
+# Absidia californica J.J. Ellis & Hesselt., 1965 SPECIES
 
 #### Status
 ACCEPTED

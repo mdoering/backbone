@@ -1,5 +1,4 @@
-Mycomicrothelia alata Groenh. ex Aptroot SPECIES
-=======
+# Mycomicrothelia alata Groenh. ex Aptroot SPECIES
 
 #### Status
 ACCEPTED

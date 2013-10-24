@@ -1,5 +1,4 @@
-Hydrocybe immutabilis (Peck) Murrill SPECIES
-=======
+# Hydrocybe immutabilis (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

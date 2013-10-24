@@ -1,5 +1,4 @@
-Poria conwayana Pilát SPECIES
-=======
+# Poria conwayana Pilát SPECIES
 
 #### Status
 ACCEPTED

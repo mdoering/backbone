@@ -1,5 +1,4 @@
-Sphaerella botrychii Rostr. SPECIES
-=======
+# Sphaerella botrychii Rostr. SPECIES
 
 #### Status
 ACCEPTED

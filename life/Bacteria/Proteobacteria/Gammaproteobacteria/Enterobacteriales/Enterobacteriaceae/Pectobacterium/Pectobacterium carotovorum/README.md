@@ -1,5 +1,4 @@
-Pectobacterium carotovorum subsp. carotovorum SUBSPECIES
-=======
+# Pectobacterium carotovorum (Jones, 1901) Waldee, 1945 SPECIES
 
 #### Status
 ACCEPTED

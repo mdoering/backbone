@@ -1,5 +1,4 @@
-Asteromella astragalicola (C. Massal.) Petr. SPECIES
-=======
+# Asteromella astragalicola (C. Massal.) Petr. SPECIES
 
 #### Status
 ACCEPTED

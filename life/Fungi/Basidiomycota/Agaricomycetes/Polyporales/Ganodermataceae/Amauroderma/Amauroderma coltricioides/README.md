@@ -1,5 +1,4 @@
-Amauroderma coltricioides T.W. Henkel, Aime & Ryvarden, 2003 SPECIES
-=======
+# Amauroderma coltricioides T.W. Henkel, Aime & Ryvarden, 2003 SPECIES
 
 #### Status
 ACCEPTED

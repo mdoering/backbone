@@ -1,5 +1,4 @@
-Cerioporus GENUS
-=======
+# Cerioporus GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus hookeri Berk. SPECIES
-=======
+# Coprinus hookeri Berk. SPECIES
 
 #### Status
 ACCEPTED

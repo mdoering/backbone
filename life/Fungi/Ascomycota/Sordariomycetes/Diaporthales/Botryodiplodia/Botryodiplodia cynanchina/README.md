@@ -1,5 +1,4 @@
-Botryodiplodia cynanchina (Petr.) Petr. SPECIES
-=======
+# Botryodiplodia cynanchina (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peniophora montana Burt SPECIES
-=======
+# Peniophora montana Burt SPECIES
 
 #### Status
 ACCEPTED

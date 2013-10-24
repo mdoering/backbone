@@ -1,5 +1,4 @@
-Pterula nana Pat. SPECIES
-=======
+# Pterula nana Pat. SPECIES
 
 #### Status
 ACCEPTED

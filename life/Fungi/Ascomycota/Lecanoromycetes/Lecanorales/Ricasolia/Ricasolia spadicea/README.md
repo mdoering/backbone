@@ -1,5 +1,4 @@
-Ricasolia spadicea (Flot.) SPECIES
-=======
+# Ricasolia spadicea (Flot.) SPECIES
 
 #### Status
 ACCEPTED

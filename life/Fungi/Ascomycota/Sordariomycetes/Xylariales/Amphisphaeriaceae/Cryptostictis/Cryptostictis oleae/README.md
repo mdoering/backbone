@@ -1,5 +1,4 @@
-Cryptostictis oleae Rolland SPECIES
-=======
+# Cryptostictis oleae Rolland SPECIES
 
 #### Status
 ACCEPTED

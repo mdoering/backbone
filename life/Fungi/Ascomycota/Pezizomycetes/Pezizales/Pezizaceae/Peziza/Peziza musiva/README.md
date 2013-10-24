@@ -1,5 +1,4 @@
-Peziza musiva Fr. SPECIES
-=======
+# Peziza musiva Fr. SPECIES
 
 #### Status
 ACCEPTED

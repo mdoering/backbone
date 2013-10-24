@@ -1,5 +1,4 @@
-Stigmatopeltis GENUS
-=======
+# Stigmatopeltis GENUS
 
 #### Status
 ACCEPTED

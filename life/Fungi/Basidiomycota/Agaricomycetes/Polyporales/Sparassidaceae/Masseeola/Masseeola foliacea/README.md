@@ -1,5 +1,4 @@
-Masseeola foliacea (St.-Amans) Kuntze SPECIES
-=======
+# Masseeola foliacea (St.-Amans) Kuntze SPECIES
 
 #### Status
 ACCEPTED

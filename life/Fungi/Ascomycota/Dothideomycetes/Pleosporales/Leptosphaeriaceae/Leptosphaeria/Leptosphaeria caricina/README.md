@@ -1,5 +1,4 @@
-Leptosphaeria caricina J. Schröt. SPECIES
-=======
+# Leptosphaeria caricina J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

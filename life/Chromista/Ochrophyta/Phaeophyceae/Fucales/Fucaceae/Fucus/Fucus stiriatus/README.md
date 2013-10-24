@@ -1,5 +1,4 @@
-Fucus stiriatus Turner SPECIES
-=======
+# Fucus stiriatus Turner SPECIES
 
 #### Status
 ACCEPTED

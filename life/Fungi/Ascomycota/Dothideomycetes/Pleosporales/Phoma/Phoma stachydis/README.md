@@ -1,5 +1,4 @@
-Phoma stachydis Brunaud SPECIES
-=======
+# Phoma stachydis Brunaud SPECIES
 
 #### Status
 ACCEPTED

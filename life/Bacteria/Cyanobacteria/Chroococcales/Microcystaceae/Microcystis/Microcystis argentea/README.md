@@ -1,5 +1,4 @@
-Microcystis argentea Schiller SPECIES
-=======
+# Microcystis argentea Schiller SPECIES
 
 #### Status
 ACCEPTED

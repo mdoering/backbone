@@ -1,5 +1,4 @@
-Sticta diengensis Zahlbr. SPECIES
-=======
+# Sticta diengensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

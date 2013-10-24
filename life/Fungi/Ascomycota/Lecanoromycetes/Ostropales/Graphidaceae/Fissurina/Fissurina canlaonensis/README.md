@@ -1,5 +1,4 @@
-Fissurina canlaonensis (Vain.) Staiger SPECIES
-=======
+# Fissurina canlaonensis (Vain.) Staiger SPECIES
 
 #### Status
 ACCEPTED

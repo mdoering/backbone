@@ -1,5 +1,4 @@
-Trematosphaeria calligoni Nasyrov SPECIES
-=======
+# Trematosphaeria calligoni Nasyrov SPECIES
 
 #### Status
 ACCEPTED

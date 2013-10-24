@@ -1,5 +1,4 @@
-Cordyceps geniculata Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps geniculata Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

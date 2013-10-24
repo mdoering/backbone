@@ -1,5 +1,4 @@
-Lecidea poliotera (Nyl.) Hue SPECIES
-=======
+# Lecidea poliotera (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

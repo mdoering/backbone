@@ -1,5 +1,4 @@
-Bipolaris australis Alcorn, 1982 SPECIES
-=======
+# Bipolaris australis Alcorn, 1982 SPECIES
 
 #### Status
 ACCEPTED

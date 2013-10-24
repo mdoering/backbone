@@ -1,5 +1,4 @@
-Septoria iridina Sacc. SPECIES
-=======
+# Septoria iridina Sacc. SPECIES
 
 #### Status
 ACCEPTED

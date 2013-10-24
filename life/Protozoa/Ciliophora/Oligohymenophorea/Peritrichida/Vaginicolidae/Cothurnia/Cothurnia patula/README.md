@@ -1,5 +1,4 @@
-Cothurnia patula Fromentel, 1876 SPECIES
-=======
+# Cothurnia patula Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

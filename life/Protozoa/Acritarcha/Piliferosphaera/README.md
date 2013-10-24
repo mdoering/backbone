@@ -1,5 +1,4 @@
-Piliferosphaera A.R.Loeblich Jr., 1970 GENUS
-=======
+# Piliferosphaera A.R.Loeblich Jr., 1970 GENUS
 
 #### Status
 ACCEPTED

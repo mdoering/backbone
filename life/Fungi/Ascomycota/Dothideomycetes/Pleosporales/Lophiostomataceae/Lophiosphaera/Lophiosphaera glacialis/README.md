@@ -1,5 +1,4 @@
-Lophiosphaera glacialis (Rehm) Sacc. SPECIES
-=======
+# Lophiosphaera glacialis (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

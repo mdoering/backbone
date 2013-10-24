@@ -1,5 +1,4 @@
-Rhizocarpon patellarium (Stizenb.) Zahlbr. SPECIES
-=======
+# Rhizocarpon patellarium (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta koelreuteriae Hollós SPECIES
-=======
+# Ascochyta koelreuteriae Hollós SPECIES
 
 #### Status
 ACCEPTED

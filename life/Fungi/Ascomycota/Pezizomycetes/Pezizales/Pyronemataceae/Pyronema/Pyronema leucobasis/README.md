@@ -1,5 +1,4 @@
-Pyronema leucobasis (Peck) Sacc. SPECIES
-=======
+# Pyronema leucobasis (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Olpidiopsis sorokinei De Wild. SPECIES
-=======
+# Olpidiopsis sorokinei De Wild. SPECIES
 
 #### Status
 ACCEPTED

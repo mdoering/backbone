@@ -1,11 +1,10 @@
-Bacterium pestis Lehmann & Neumann, 1896 SPECIES
-=======
+# Yersinia pseudotuberculosis (Pfeiffer, 1889) Smith & Thal, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

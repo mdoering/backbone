@@ -1,5 +1,4 @@
-Bartonella koehlerae Droz et al., 2000 SPECIES
-=======
+# Bartonella koehlerae Droz et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

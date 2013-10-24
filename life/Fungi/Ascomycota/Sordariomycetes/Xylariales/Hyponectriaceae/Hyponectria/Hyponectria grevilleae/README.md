@@ -1,5 +1,4 @@
-Hyponectria grevilleae Z.Q. Yuan & M.E. Barr SPECIES
-=======
+# Hyponectria grevilleae Z.Q. Yuan & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

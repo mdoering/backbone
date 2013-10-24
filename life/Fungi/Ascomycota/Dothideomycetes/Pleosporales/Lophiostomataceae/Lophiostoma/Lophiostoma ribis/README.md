@@ -1,5 +1,4 @@
-Lophiostoma ribis (Tracy & Earle) L. Holm SPECIES
-=======
+# Lophiostoma ribis (Tracy & Earle) L. Holm SPECIES
 
 #### Status
 ACCEPTED

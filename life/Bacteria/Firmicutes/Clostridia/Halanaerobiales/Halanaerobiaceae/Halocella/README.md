@@ -1,5 +1,4 @@
-Halocella Simankova et al., 1994 GENUS
-=======
+# Halocella Simankova et al., 1994 GENUS
 
 #### Status
 ACCEPTED

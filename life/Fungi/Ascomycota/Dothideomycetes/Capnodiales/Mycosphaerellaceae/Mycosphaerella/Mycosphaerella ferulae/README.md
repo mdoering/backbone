@@ -1,5 +1,4 @@
-Mycosphaerella ferulae (Maffei) Koshk. SPECIES
-=======
+# Mycosphaerella ferulae (Maffei) Koshk. SPECIES
 
 #### Status
 ACCEPTED

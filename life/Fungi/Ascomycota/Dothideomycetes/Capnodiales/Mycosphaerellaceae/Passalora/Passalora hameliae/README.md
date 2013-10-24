@@ -1,5 +1,4 @@
-Passalora hameliae (Chupp) U. Braun & Crous SPECIES
-=======
+# Passalora hameliae (Chupp) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

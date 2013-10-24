@@ -1,5 +1,4 @@
-Loxostomum convallarium (Millett) SPECIES
-=======
+# Loxostomum convallarium (Millett) SPECIES
 
 #### Status
 ACCEPTED

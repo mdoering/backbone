@@ -1,5 +1,4 @@
-Marasmius harrisii Murrill SPECIES
-=======
+# Marasmius harrisii Murrill SPECIES
 
 #### Status
 ACCEPTED

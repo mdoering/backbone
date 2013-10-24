@@ -1,5 +1,4 @@
-Diatrype plagia Berk. & M.A. Curtis SPECIES
-=======
+# Diatrype plagia Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

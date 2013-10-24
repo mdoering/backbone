@@ -1,5 +1,4 @@
-Coniothecium austriacum Thüm. SPECIES
-=======
+# Coniothecium austriacum Thüm. SPECIES
 
 #### Status
 ACCEPTED

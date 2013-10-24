@@ -1,5 +1,4 @@
-Astrothelium Eschw. GENUS
-=======
+# Astrothelium Eschw. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia hilleriae F. Kern & Thurst. SPECIES
-=======
+# Puccinia hilleriae F. Kern & Thurst. SPECIES
 
 #### Status
 ACCEPTED

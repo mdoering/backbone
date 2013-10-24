@@ -1,5 +1,4 @@
-Leptothyrium aesculi Oudem. SPECIES
-=======
+# Leptothyrium aesculi Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizocarpon nabewariense Räsänen SPECIES
-=======
+# Rhizocarpon nabewariense Räsänen SPECIES
 
 #### Status
 ACCEPTED

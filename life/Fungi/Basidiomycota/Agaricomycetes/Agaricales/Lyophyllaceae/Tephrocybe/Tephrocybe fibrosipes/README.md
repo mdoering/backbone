@@ -1,5 +1,4 @@
-Tephrocybe fibrosipes Métrod ex Bon SPECIES
-=======
+# Tephrocybe fibrosipes Métrod ex Bon SPECIES
 
 #### Status
 ACCEPTED

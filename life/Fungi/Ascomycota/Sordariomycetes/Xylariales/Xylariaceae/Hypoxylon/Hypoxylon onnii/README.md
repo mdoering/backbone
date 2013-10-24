@@ -1,5 +1,4 @@
-Hypoxylon onnii P. Karst. SPECIES
-=======
+# Hypoxylon onnii P. Karst. SPECIES
 
 #### Status
 ACCEPTED

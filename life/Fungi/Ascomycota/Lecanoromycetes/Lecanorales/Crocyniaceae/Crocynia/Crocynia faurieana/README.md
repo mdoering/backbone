@@ -1,5 +1,4 @@
-Crocynia faurieana B. de Lesd. SPECIES
-=======
+# Crocynia faurieana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

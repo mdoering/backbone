@@ -1,5 +1,4 @@
-Lecidea scholanderi Lynge SPECIES
-=======
+# Lecidea scholanderi Lynge SPECIES
 
 #### Status
 ACCEPTED

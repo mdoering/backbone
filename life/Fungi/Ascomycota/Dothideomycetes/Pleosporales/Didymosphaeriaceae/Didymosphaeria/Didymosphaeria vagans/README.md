@@ -1,5 +1,4 @@
-Didymosphaeria vagans Ellis & Everh. SPECIES
-=======
+# Didymosphaeria vagans Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

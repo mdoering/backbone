@@ -1,5 +1,4 @@
-Microsphaera ovidiae Havryl. SPECIES
-=======
+# Microsphaera ovidiae Havryl. SPECIES
 
 #### Status
 ACCEPTED

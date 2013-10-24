@@ -1,5 +1,4 @@
-Buellia portoricensis H. Magn. SPECIES
-=======
+# Buellia portoricensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

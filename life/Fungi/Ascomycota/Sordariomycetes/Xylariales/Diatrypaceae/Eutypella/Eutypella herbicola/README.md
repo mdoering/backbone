@@ -1,5 +1,4 @@
-Eutypella herbicola Ellis & Everh. SPECIES
-=======
+# Eutypella herbicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

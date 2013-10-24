@@ -1,5 +1,4 @@
-Peziza olivatra Ellis & Holw. SPECIES
-=======
+# Peziza olivatra Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

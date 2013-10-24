@@ -1,14 +1,13 @@
-Geopetalum carbonarium (Alb. & Schwein.) Pat., 1887 SPECIES
-=======
+# Faerberia carbonaria (Alb. & Schwein.) Pouzar, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomyc. Eur. (Paris) 127 (1887)
+Ceská Mykol. 35(4): 187 (1981)
 
 #### Original name
 Merulius carbonarius Alb. & Schwein., 1805

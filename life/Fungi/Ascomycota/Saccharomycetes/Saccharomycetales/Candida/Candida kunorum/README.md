@@ -1,5 +1,4 @@
-Candida kunorum S.O. Suh & M. Blackw., 2004 SPECIES
-=======
+# Candida kunorum S.O. Suh & M. Blackw., 2004 SPECIES
 
 #### Status
 ACCEPTED

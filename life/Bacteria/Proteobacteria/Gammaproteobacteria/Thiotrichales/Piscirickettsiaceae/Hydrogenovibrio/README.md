@@ -1,5 +1,4 @@
-Hydrogenovibrio Nishihara et al., 1991 GENUS
-=======
+# Hydrogenovibrio Nishihara et al., 1991 GENUS
 
 #### Status
 ACCEPTED

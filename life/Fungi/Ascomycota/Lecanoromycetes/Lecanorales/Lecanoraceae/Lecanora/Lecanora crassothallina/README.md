@@ -1,5 +1,4 @@
-Lecanora crassothallina Motyka SPECIES
-=======
+# Lecanora crassothallina Motyka SPECIES
 
 #### Status
 ACCEPTED

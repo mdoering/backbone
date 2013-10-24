@@ -1,5 +1,4 @@
-Trogia ghesquierei Beeli SPECIES
-=======
+# Trogia ghesquierei Beeli SPECIES
 
 #### Status
 ACCEPTED

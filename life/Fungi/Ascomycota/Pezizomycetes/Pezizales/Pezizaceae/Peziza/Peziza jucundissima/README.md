@@ -1,5 +1,4 @@
-Peziza jucundissima Desm. SPECIES
-=======
+# Peziza jucundissima Desm. SPECIES
 
 #### Status
 ACCEPTED

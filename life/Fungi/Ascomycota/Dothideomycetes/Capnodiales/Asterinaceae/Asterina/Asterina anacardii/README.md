@@ -1,5 +1,4 @@
-Asterina anacardii (R.W. Ryan) Cif. SPECIES
-=======
+# Asterina anacardii (R.W. Ryan) Cif. SPECIES
 
 #### Status
 ACCEPTED

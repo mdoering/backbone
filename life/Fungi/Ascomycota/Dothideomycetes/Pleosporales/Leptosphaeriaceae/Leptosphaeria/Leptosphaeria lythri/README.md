@@ -1,5 +1,4 @@
-Leptosphaeria lythri Peck SPECIES
-=======
+# Leptosphaeria lythri Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Subsilicea H.A.von Stosch & B.E.F.Reimann, 1970 GENUS
-=======
+# Subsilicea H.A.von Stosch & B.E.F.Reimann, 1970 GENUS
 
 #### Status
 ACCEPTED

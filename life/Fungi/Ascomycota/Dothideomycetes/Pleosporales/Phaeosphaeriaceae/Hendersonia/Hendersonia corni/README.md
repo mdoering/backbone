@@ -1,5 +1,4 @@
-Hendersonia corni Fuckel SPECIES
-=======
+# Hendersonia corni Fuckel SPECIES
 
 #### Status
 ACCEPTED

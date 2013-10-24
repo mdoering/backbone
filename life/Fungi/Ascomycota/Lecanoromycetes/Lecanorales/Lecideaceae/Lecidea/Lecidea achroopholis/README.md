@@ -1,5 +1,4 @@
-Lecidea achroopholis Nyl. SPECIES
-=======
+# Lecidea achroopholis Nyl. SPECIES
 
 #### Status
 ACCEPTED

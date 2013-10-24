@@ -1,17 +1,16 @@
-Arthothelium violaceo-atrum Makhija & Patw. SPECIES
-=======
+# Arthothelium violaceoatrum Makhija & Patw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Hattori bot. Lab. 78: 220 (1995)
 
 #### Original name
-Arthothelium violaceo-atrum Makhija & Patw.
+Arthothelium violaceoatrum Makhija & Patw.
 
 ### Remarks
 null

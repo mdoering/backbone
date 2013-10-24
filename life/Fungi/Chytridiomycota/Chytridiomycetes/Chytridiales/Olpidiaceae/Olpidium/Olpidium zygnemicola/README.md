@@ -1,5 +1,4 @@
-Olpidium zygnemicola Magnus SPECIES
-=======
+# Olpidium zygnemicola Magnus SPECIES
 
 #### Status
 ACCEPTED

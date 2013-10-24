@@ -1,5 +1,4 @@
-Autoicomyces humilis (Thaxt.) Thaxt. SPECIES
-=======
+# Autoicomyces humilis (Thaxt.) Thaxt. SPECIES
 
 #### Status
 ACCEPTED

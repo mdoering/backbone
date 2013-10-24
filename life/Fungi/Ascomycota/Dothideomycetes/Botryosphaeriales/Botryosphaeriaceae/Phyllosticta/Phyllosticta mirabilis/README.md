@@ -1,5 +1,4 @@
-Phyllosticta mirabilis Bat. SPECIES
-=======
+# Phyllosticta mirabilis Bat. SPECIES
 
 #### Status
 ACCEPTED

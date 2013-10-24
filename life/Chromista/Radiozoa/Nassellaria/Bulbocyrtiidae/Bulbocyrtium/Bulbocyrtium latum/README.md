@@ -1,5 +1,4 @@
-Bulbocyrtium latum SPECIES
-=======
+# Bulbocyrtium latum SPECIES
 
 #### Status
 ACCEPTED

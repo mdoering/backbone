@@ -1,5 +1,4 @@
-Capitularia squamosissima Mart. SPECIES
-=======
+# Capitularia squamosissima Mart. SPECIES
 
 #### Status
 ACCEPTED

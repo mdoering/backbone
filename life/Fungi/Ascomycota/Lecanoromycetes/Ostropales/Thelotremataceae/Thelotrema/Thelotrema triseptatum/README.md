@@ -1,5 +1,4 @@
-Thelotrema triseptatum Mangold SPECIES
-=======
+# Thelotrema triseptatum Mangold SPECIES
 
 #### Status
 ACCEPTED

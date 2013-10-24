@@ -1,5 +1,4 @@
-Cortinarius chevassutii var. chevassutii VARIETY
-=======
+# Cortinarius chevassutii Rob. Henry SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Chevassut & Henry, Docums Mycol. 12(no. 47): 7 (1982)
 
 #### Original name
-Cortinarius chevassutii var. chevassutii
+Cortinarius chevassutii Rob. Henry
 
 ### Remarks
 null

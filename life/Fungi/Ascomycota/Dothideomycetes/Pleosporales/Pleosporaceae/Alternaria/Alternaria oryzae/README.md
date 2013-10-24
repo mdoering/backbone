@@ -1,5 +1,4 @@
-Alternaria oryzae Hara SPECIES
-=======
+# Alternaria oryzae Hara SPECIES
 
 #### Status
 ACCEPTED

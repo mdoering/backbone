@@ -1,5 +1,4 @@
-Psoroma allorhizum (Nyl.) Hue SPECIES
-=======
+# Psoroma allorhizum (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

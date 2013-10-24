@@ -1,5 +1,4 @@
-Psidimobipiospora elsikii Sal.-Cheb. & Locq. SPECIES
-=======
+# Psidimobipiospora elsikii Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chiodecton punctulatum Stirt. SPECIES
-=======
+# Chiodecton punctulatum Stirt. SPECIES
 
 #### Status
 ACCEPTED

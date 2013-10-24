@@ -1,5 +1,4 @@
-Buellia placodiomorphoides Imshaug SPECIES
-=======
+# Buellia placodiomorphoides Imshaug SPECIES
 
 #### Status
 ACCEPTED

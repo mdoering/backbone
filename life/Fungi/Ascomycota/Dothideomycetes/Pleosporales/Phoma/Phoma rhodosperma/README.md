@@ -1,5 +1,4 @@
-Phoma rhodosperma Preuss SPECIES
-=======
+# Phoma rhodosperma Preuss SPECIES
 
 #### Status
 ACCEPTED

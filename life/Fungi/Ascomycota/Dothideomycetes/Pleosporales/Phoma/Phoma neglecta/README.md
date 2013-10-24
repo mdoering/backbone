@@ -1,17 +1,16 @@
-Phoma neglecta f. neglecta FORM
-=======
+# Phoma neglecta Desm., 1853 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Phoma neglecta f. neglecta
+Phoma neglecta Desm., 1853
 
 ### Remarks
 null

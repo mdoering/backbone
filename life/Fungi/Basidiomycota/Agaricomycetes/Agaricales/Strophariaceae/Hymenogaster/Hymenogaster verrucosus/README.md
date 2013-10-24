@@ -1,5 +1,4 @@
-Hymenogaster verrucosus Bucholtz SPECIES
-=======
+# Hymenogaster verrucosus Bucholtz SPECIES
 
 #### Status
 ACCEPTED

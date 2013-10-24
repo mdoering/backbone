@@ -1,14 +1,13 @@
-Sinocysta He, 1984 GENUS
-=======
+# Laciniadinium McIntyre GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Acta Palaeont. Sin. 23 (6): 773.
+null
 
 #### Original name
 null

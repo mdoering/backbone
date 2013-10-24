@@ -1,5 +1,4 @@
-Arcellina Carter, 1856 GENUS
-=======
+# Arcellina Carter, 1856 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Rinodina teichophila f. teichophila FORM
-=======
+# Rinodina teichophila (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 46: 329 (1863)
 
 #### Original name
-Rinodina teichophila f. teichophila
+Lecanora teichophila Nyl.
 
 ### Remarks
 null

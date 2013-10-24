@@ -1,5 +1,4 @@
-Milesia canavaliae Y. Ono, Buriticá & J.F. Hennen SPECIES
-=======
+# Milesia canavaliae Y. Ono, Buriticá & J.F. Hennen SPECIES
 
 #### Status
 ACCEPTED

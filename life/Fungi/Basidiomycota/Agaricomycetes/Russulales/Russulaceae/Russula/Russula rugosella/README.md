@@ -1,5 +1,4 @@
-Russula rugosella Raithelh. SPECIES
-=======
+# Russula rugosella Raithelh. SPECIES
 
 #### Status
 ACCEPTED

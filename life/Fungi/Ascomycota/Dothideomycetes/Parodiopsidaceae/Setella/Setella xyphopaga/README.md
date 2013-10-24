@@ -1,5 +1,4 @@
-Setella xyphopaga Viégas SPECIES
-=======
+# Setella xyphopaga Viégas SPECIES
 
 #### Status
 ACCEPTED

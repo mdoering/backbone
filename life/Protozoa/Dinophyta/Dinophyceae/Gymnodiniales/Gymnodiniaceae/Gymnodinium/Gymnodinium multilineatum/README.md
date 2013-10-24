@@ -1,5 +1,4 @@
-Gymnodinium multilineatum Kofoid & Swezy, 1921 SPECIES
-=======
+# Gymnodinium multilineatum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

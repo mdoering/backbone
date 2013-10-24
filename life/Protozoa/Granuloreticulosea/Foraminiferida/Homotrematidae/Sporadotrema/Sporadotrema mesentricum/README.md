@@ -1,5 +1,4 @@
-Sporadotrema mesentricum (Carter, 1880) SPECIES
-=======
+# Sporadotrema mesentricum (Carter, 1880) SPECIES
 
 #### Status
 ACCEPTED

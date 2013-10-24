@@ -1,5 +1,4 @@
-Rhodoferax antarcticus Madigan et al., 2001 SPECIES
-=======
+# Rhodoferax antarcticus Madigan et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Blastocladia spicaformis S.N. Dasgupta & R. John SPECIES
-=======
+# Blastocladia spiciformis S.N. Dasgupta & R. John SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 41(4): 534 (1989)
 
 #### Original name
-Blastocladia spicaformis S.N. Dasgupta & R. John
+Blastocladia spiciformis S.N. Dasgupta & R. John
 
 ### Remarks
 null

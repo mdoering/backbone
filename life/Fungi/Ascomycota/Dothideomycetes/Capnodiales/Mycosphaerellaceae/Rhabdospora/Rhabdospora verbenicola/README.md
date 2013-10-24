@@ -1,5 +1,4 @@
-Rhabdospora verbenicola var. verbenicola VARIETY
-=======
+# Rhabdospora verbenicola (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. fung. (Abellini) 3: 590 (1884)
 
 #### Original name
-Rhabdospora verbenicola var. verbenicola
+Septoria verbenicola Sacc.
 
 ### Remarks
 null

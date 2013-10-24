@@ -1,5 +1,4 @@
-Arthopyrenia hyalospora (Nyl.) R.C. Harris SPECIES
-=======
+# Arthopyrenia hyalospora (Nyl.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

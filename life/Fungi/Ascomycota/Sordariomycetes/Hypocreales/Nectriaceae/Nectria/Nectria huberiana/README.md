@@ -1,5 +1,4 @@
-Nectria huberiana Henn. SPECIES
-=======
+# Nectria huberiana Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pichia methanothermo Minami & Yamamura SPECIES
-=======
+# Pichia methanothermo Minami & Yamamura SPECIES
 
 #### Status
 ACCEPTED

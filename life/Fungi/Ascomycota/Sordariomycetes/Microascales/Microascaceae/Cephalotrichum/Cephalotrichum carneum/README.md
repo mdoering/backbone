@@ -1,5 +1,4 @@
-Cephalotrichum carneum (Richon) Kuntze SPECIES
-=======
+# Cephalotrichum carneum (Richon) Kuntze SPECIES
 
 #### Status
 ACCEPTED

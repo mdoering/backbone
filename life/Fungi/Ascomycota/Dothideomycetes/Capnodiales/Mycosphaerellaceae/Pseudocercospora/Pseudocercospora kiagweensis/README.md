@@ -1,5 +1,4 @@
-Pseudocercospora kiagweensis Deighton SPECIES
-=======
+# Pseudocercospora kiagweensis Deighton SPECIES
 
 #### Status
 ACCEPTED

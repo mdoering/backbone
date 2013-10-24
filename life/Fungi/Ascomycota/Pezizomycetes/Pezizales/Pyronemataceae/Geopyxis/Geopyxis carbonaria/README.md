@@ -1,14 +1,13 @@
-Peziza carbonaria Alb. & Schwein., 1805 SPECIES
-=======
+# Geopyxis carbonaria (Alb. & Schwein.) Sacc., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Consp. fung. (Leipzig) 314 (1805)
+Syll. fung. (Abellini) 8: 71 (1889)
 
 #### Original name
 Peziza carbonaria Alb. & Schwein., 1805

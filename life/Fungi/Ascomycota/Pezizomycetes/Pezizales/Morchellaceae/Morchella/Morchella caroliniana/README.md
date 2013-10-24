@@ -1,5 +1,4 @@
-Morchella caroliniana Bosc SPECIES
-=======
+# Morchella caroliniana Bosc SPECIES
 
 #### Status
 ACCEPTED

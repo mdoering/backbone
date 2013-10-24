@@ -1,5 +1,4 @@
-Lycoperdon castaneiforme Balb. SPECIES
-=======
+# Lycoperdon castaneiforme Balb. SPECIES
 
 #### Status
 ACCEPTED

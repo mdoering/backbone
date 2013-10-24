@@ -1,5 +1,4 @@
-Stereum lilacinum Pers. SPECIES
-=======
+# Stereum lilacinum Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Perisporina melioliicola Doidge SPECIES
-=======
+# Perisporina melioliicola Doidge SPECIES
 
 #### Status
 ACCEPTED

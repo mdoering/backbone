@@ -1,5 +1,4 @@
-Clitocybe subcanescens H.E. Bigelow SPECIES
-=======
+# Clitocybe subcanescens H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

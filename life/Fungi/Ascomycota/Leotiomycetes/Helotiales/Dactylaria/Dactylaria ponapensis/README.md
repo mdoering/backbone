@@ -1,5 +1,4 @@
-Dactylaria ponapensis Matsush. SPECIES
-=======
+# Dactylaria ponapensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

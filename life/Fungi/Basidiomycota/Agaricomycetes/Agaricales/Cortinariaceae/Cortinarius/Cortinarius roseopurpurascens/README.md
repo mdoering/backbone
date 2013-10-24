@@ -1,5 +1,4 @@
-Cortinarius roseopurpurascens M.M. Moser & E. Horak SPECIES
-=======
+# Cortinarius roseopurpurascens M.M. Moser & E. Horak SPECIES
 
 #### Status
 ACCEPTED

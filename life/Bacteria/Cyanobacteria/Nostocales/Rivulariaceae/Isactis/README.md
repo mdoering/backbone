@@ -1,5 +1,4 @@
-Isactis Thuret ex Bornet & Flahault, 1886 GENUS
-=======
+# Isactis Thuret ex Bornet & Flahault, 1886 GENUS
 
 #### Status
 ACCEPTED

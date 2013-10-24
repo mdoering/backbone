@@ -1,5 +1,4 @@
-Erysiphe diervillae Miyabe ex U. Braun SPECIES
-=======
+# Erysiphe diervillae Miyabe ex U. Braun SPECIES
 
 #### Status
 ACCEPTED

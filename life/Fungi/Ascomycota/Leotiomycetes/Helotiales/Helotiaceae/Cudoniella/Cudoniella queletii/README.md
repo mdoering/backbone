@@ -1,14 +1,13 @@
-Cudonia queletii Fr. SPECIES
-=======
+# Cudoniella queletii (Fr.) Sacc., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 8: 41 (1889)
 
 #### Original name
 Cudonia queletii Fr.

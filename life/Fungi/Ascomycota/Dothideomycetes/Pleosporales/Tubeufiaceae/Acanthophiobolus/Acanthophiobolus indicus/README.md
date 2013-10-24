@@ -1,5 +1,4 @@
-Acanthophiobolus indicus Dharkar, Hande & Subhedar, 2006 SPECIES
-=======
+# Acanthophiobolus indicus Dharkar, Hande & Subhedar, 2006 SPECIES
 
 #### Status
 ACCEPTED

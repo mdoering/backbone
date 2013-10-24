@@ -1,5 +1,4 @@
-Mallomonopsis elliptica var. oviformis (Nygaard) Harris VARIETY
-=======
+# Mallomonopsis elliptica Matvienko SPECIES
 
 #### Status
 ACCEPTED

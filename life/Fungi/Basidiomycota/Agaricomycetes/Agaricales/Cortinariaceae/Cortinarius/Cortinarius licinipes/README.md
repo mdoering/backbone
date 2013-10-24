@@ -1,5 +1,4 @@
-Cortinarius licinipes var. licinipes VARIETY
-=======
+# Cortinarius licinipes Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Epicr. syst. mycol. (Upsaliae) 293 (1838)
 
 #### Original name
-Cortinarius licinipes var. licinipes
+Cortinarius licinipes Fr.
 
 ### Remarks
 null

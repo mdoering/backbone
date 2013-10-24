@@ -1,5 +1,4 @@
-Stereum rufofulvum (Mont.) Pat. & Lagerh. SPECIES
-=======
+# Stereum rufofulvum (Mont.) Pat. & Lagerh. SPECIES
 
 #### Status
 ACCEPTED

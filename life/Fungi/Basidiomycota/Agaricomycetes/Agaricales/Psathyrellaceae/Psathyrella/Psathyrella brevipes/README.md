@@ -1,5 +1,4 @@
-Psathyrella brevipes (Murrill) A.H. Sm. SPECIES
-=======
+# Psathyrella brevipes (Murrill) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

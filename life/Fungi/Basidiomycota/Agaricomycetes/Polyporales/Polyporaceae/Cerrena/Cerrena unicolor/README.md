@@ -1,17 +1,16 @@
-Agaricus cinereus var. cinereus VARIETY
-=======
+# Cerrena unicolor (Bull.) Murrill, 1903 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Mycol. 9(2): 91 (1903)
 
 #### Original name
-null
+Boletus unicolor Bull., 1785
 
 ### Remarks
 null

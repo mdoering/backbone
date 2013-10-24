@@ -1,5 +1,4 @@
-Biomyxidae FAMILY
-=======
+# Biomyxidae FAMILY
 
 #### Status
 ACCEPTED

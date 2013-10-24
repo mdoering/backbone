@@ -1,5 +1,4 @@
-Pseudopolystigmina Murashk. GENUS
-=======
+# Pseudopolystigmina Murashk. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Petaloferidium borracherosum SPECIES
-=======
+# Petaloferidium borracherosum SPECIES
 
 #### Status
 ACCEPTED

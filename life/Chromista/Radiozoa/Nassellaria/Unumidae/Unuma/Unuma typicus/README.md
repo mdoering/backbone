@@ -1,5 +1,4 @@
-Unuma typicus SPECIES
-=======
+# Unuma typicus SPECIES
 
 #### Status
 ACCEPTED

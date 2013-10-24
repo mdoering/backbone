@@ -1,5 +1,4 @@
-Zooshikella Yi, Chang, Oh, Bae & Chun, 2003 GENUS
-=======
+# Zooshikella Yi, Chang, Oh, Bae & Chun, 2003 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypomyces lithuanicus Heinr.-Norm., 1969 SPECIES
-=======
+# Hypomyces lithuanicus Heinr.-Norm., 1969 SPECIES
 
 #### Status
 ACCEPTED

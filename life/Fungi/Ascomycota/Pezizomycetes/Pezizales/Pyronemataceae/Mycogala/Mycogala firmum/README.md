@@ -1,5 +1,4 @@
-Mycogala firmum P. Karst. SPECIES
-=======
+# Mycogala firmum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

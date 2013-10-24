@@ -1,5 +1,4 @@
-Pertusaria injuneana A. W. Archer & Elix SPECIES
-=======
+# Pertusaria injuneana A. W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

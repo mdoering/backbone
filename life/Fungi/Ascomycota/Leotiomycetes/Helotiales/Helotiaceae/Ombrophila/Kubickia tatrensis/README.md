@@ -1,5 +1,4 @@
-Kubickia tatrensis Svrcek SPECIES
-=======
+# Kubickia tatrensis Svrcek SPECIES
 
 #### Status
 ACCEPTED

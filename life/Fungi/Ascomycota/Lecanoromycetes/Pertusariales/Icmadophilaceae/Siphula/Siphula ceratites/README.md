@@ -1,17 +1,16 @@
-Siphula ceratites var. ceratites VARIETY
-=======
+# Siphula ceratites (Wahlenb.) Fr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. eur. reform. (Lund) 406 (1831)
 
 #### Original name
-Siphula ceratites var. ceratites
+Baeomyces ceratites Wahlenb.
 
 ### Remarks
 null

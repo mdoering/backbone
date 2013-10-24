@@ -1,5 +1,4 @@
-Phloeospora curvispora (Ellis & Everh.) Petr. SPECIES
-=======
+# Phloeospora curvispora (Ellis & Everh.) Petr. SPECIES
 
 #### Status
 ACCEPTED

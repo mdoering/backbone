@@ -1,5 +1,4 @@
-Urocystis circaeasteri Vánky, 2004 SPECIES
-=======
+# Urocystis circaeasteri Vánky, 2004 SPECIES
 
 #### Status
 ACCEPTED

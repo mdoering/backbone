@@ -1,5 +1,4 @@
-Armillaria australis Murrill SPECIES
-=======
+# Armillaria australis Murrill SPECIES
 
 #### Status
 ACCEPTED

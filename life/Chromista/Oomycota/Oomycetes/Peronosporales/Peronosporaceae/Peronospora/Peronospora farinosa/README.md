@@ -1,17 +1,16 @@
-Peronospora farinosa f. sp FORM
-=======
+# Peronospora farinosa (Fr.) Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 50: 606 (1967)
+Summa veg. Scand. (Stockholm), Section Post. 493 (1849)
 
 #### Original name
-Peronospora farinosa f. sp
+Botrytis farinosa Fr., 1832
 
 ### Remarks
 null

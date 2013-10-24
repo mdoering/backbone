@@ -1,5 +1,4 @@
-Pasteuria ramosa Metchnikoff, 1888 (Approved Lists, 1980) SPECIES
-=======
+# Pasteuria ramosa Metchnikoff, 1888 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

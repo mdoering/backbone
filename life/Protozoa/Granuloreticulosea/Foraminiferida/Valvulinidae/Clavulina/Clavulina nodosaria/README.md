@@ -1,5 +1,4 @@
-Clavulina nodosaria SPECIES
-=======
+# Clavulina nodosaria SPECIES
 
 #### Status
 ACCEPTED

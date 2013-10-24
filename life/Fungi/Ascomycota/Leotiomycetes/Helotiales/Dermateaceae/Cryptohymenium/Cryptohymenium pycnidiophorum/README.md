@@ -1,5 +1,4 @@
-Cryptohymenium pycnidiophorum Samuels & L.M. Kohn, 1987 SPECIES
-=======
+# Cryptohymenium pycnidiophorum Samuels & L.M. Kohn, 1987 SPECIES
 
 #### Status
 ACCEPTED

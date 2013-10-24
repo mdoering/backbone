@@ -1,5 +1,4 @@
-Astylozoidae FAMILY
-=======
+# Astylozoidae FAMILY
 
 #### Status
 ACCEPTED

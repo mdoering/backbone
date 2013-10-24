@@ -1,5 +1,4 @@
-Hapsocysta peridictya (Eisenack & Cookson) R. J. Davey SPECIES
-=======
+# Hapsocysta peridictya (Eisenack & Cookson) R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

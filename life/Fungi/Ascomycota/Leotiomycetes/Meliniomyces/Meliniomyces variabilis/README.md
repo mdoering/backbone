@@ -1,5 +1,4 @@
-Meliniomyces variabilis Hambl. & Sigler, 2005 SPECIES
-=======
+# Meliniomyces variabilis Hambl. & Sigler, 2005 SPECIES
 
 #### Status
 ACCEPTED

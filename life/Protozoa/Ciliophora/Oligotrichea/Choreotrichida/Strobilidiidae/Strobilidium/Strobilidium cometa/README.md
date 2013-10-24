@@ -1,5 +1,4 @@
-Strobilidium cometa SPECIES
-=======
+# Strobilidium cometa SPECIES
 
 #### Status
 ACCEPTED

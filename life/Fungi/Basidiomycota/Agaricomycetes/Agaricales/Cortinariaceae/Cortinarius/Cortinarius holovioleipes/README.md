@@ -1,5 +1,4 @@
-Cortinarius holovioleipes Rob. Henry SPECIES
-=======
+# Cortinarius holovioleipes Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

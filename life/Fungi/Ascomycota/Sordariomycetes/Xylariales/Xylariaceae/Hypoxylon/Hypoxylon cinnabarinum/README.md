@@ -1,17 +1,16 @@
-Hypoxylon rubiginosum var. tropicum J.H. Mill., 1961 VARIETY
-=======
+# Hypoxylon cinnabarinum (Henn.) Y.M. Ju & J.D. Rogers, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. World spec. Hypoxylon 31 (1961)
+Mycol. Mem. 20: 99 (1996)
 
 #### Original name
-Hypoxylon rubiginosum var. tropicum J.H. Mill., 1961
+Nummularia cinnabarina Henn., 1897
 
 ### Remarks
 null

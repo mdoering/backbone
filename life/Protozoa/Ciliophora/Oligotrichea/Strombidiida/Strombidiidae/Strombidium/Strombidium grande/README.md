@@ -1,5 +1,4 @@
-Strombidium grande Levander, 1894 SPECIES
-=======
+# Strombidium grande Levander, 1894 SPECIES
 
 #### Status
 ACCEPTED

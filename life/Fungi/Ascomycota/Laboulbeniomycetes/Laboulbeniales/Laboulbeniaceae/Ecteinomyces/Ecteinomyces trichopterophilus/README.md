@@ -1,14 +1,13 @@
-Misgomyces trichopterophilus (Thaxt.) Thaxt., 1931 SPECIES
-=======
+# Ecteinomyces trichopterophilus Thaxt., 1903 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. Amer. Acad. Arts 16: 304 (1931)
+Proc. Amer. Acad. Arts & Sci. 38: 26 (1903)
 
 #### Original name
 Ecteinomyces trichopterophilus Thaxt., 1903

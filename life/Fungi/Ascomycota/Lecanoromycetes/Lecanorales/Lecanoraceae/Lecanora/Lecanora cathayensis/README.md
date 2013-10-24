@@ -1,5 +1,4 @@
-Lecanora cathayensis SPECIES
-=======
+# Lecanora cathayensis SPECIES
 
 #### Status
 ACCEPTED

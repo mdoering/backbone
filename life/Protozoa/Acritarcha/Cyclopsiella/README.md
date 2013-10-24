@@ -1,5 +1,4 @@
-Cyclopsiella Drugg & A.R. Loeblich Jr., 1967 GENUS
-=======
+# Cyclopsiella Drugg & A.R. Loeblich Jr., 1967 GENUS
 
 #### Status
 ACCEPTED

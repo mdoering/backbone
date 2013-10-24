@@ -1,5 +1,4 @@
-Pertusaria vulpina A. W. Archer SPECIES
-=======
+# Pertusaria vulpina A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

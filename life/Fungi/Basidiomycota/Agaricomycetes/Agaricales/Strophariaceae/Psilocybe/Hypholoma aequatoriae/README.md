@@ -1,5 +1,4 @@
-Hypholoma aequatoriae (Singer) Guzmán SPECIES
-=======
+# Hypholoma aequatoriae (Singer) Guzmán SPECIES
 
 #### Status
 ACCEPTED

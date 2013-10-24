@@ -1,5 +1,4 @@
-Dictyophora radicata Mont. SPECIES
-=======
+# Dictyophora radicata Mont. SPECIES
 
 #### Status
 ACCEPTED

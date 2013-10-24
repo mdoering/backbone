@@ -1,5 +1,4 @@
-Rhabdospora trichophila Sacc. SPECIES
-=======
+# Rhabdospora trichophila Sacc. SPECIES
 
 #### Status
 ACCEPTED

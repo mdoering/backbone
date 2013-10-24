@@ -1,5 +1,4 @@
-Conohypha Jülich GENUS
-=======
+# Conohypha Jülich GENUS
 
 #### Status
 ACCEPTED

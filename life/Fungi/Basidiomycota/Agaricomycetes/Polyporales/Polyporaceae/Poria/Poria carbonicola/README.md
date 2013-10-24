@@ -1,5 +1,4 @@
-Poria carbonicola P. Karst. SPECIES
-=======
+# Poria carbonicola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

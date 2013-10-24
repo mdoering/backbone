@@ -1,5 +1,4 @@
-Exosporium monanthotaxis Piroz. SPECIES
-=======
+# Exosporium monanthotaxis Piroz. SPECIES
 
 #### Status
 ACCEPTED

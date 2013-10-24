@@ -1,5 +1,4 @@
-Peyronellaea polymorpha (L. Planchon {?} ) Goid. SPECIES
-=======
+# Peyronellaea polymorpha (L. Planchon {?} ) Goid. SPECIES
 
 #### Status
 ACCEPTED

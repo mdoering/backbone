@@ -1,5 +1,4 @@
-Cortinarius incarnatofocalis Rob. Henry SPECIES
-=======
+# Cortinarius incarnatofocalis Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

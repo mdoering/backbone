@@ -1,5 +1,4 @@
-Leptolyngbya perforans (Geitler) Anagnostidis & Komárek, 1988 SPECIES
-=======
+# Leptolyngbya perforans (Geitler) Anagnostidis & Komárek, 1988 SPECIES
 
 #### Status
 ACCEPTED

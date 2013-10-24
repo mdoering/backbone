@@ -1,5 +1,4 @@
-Rhizoplaca Zopf GENUS
-=======
+# Rhizoplaca Zopf GENUS
 
 #### Status
 ACCEPTED

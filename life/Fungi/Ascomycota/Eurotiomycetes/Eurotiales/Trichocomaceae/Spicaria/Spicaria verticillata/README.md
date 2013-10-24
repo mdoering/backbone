@@ -1,5 +1,4 @@
-Spicaria verticillata (Corda) Harz SPECIES
-=======
+# Spicaria verticillata (Corda) Harz SPECIES
 
 #### Status
 ACCEPTED

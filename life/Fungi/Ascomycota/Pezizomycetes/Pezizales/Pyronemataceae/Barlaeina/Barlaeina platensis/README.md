@@ -1,5 +1,4 @@
-Barlaeina platensis Speg. SPECIES
-=======
+# Barlaeina platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

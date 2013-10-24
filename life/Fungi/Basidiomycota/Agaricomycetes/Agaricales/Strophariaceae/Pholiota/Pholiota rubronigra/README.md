@@ -1,5 +1,4 @@
-Pholiota rubronigra A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota rubronigra A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

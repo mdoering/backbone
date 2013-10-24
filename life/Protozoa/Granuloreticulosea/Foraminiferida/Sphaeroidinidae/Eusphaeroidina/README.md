@@ -1,5 +1,4 @@
-Eusphaeroidina Ujiie, 1990 GENUS
-=======
+# Eusphaeroidina Ujiie, 1990 GENUS
 
 #### Status
 ACCEPTED

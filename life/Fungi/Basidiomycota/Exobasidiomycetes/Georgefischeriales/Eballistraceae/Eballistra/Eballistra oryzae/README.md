@@ -1,14 +1,13 @@
-Entyloma oryzae Syd. & P. Syd., 1914 SPECIES
-=======
+# Eballistra oryzae (Syd. & P. Syd.) R. Bauer, Begerow, A. Nagler & Oberw., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 12(2): 197 (1914)
+Mycol. Res. 105(4): 423 (2001)
 
 #### Original name
 Entyloma oryzae Syd. & P. Syd., 1914

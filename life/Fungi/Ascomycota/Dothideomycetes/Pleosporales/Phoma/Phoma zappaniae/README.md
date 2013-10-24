@@ -1,5 +1,4 @@
-Phoma zappaniae Speg. SPECIES
-=======
+# Phoma zappaniae Speg. SPECIES
 
 #### Status
 ACCEPTED

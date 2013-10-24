@@ -1,5 +1,4 @@
-Diplodia ceanothe Ellis & Barthol. SPECIES
-=======
+# Diplodia ceanothe Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

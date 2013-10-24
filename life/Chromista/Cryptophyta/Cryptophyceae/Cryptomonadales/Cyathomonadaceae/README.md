@@ -1,5 +1,4 @@
-Cyathomonadaceae FAMILY
-=======
+# Cyathomonadaceae FAMILY
 
 #### Status
 ACCEPTED

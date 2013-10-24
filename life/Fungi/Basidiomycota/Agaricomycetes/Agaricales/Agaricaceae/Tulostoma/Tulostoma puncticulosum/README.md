@@ -1,5 +1,4 @@
-Tulostoma puncticulosum Long & S. Ahmad SPECIES
-=======
+# Tulostoma puncticulosum Long & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

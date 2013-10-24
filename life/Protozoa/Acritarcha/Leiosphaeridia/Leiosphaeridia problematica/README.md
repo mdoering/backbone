@@ -1,5 +1,4 @@
-Leiosphaeridia problematica (Venkatachala et al., 1974) Nautiyal, 1988 SPECIES
-=======
+# Leiosphaeridia problematica (Venkatachala et al., 1974) Nautiyal, 1988 SPECIES
 
 #### Status
 ACCEPTED

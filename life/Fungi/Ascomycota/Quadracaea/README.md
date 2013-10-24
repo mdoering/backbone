@@ -1,5 +1,4 @@
-Quadracaea Lunghini, Pinzari & Zucconi GENUS
-=======
+# Quadracaea Lunghini, Pinzari & Zucconi GENUS
 
 #### Status
 ACCEPTED

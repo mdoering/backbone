@@ -1,5 +1,4 @@
-Rhaphidophora sarmenti Pass. SPECIES
-=======
+# Rhaphidophora sarmenti Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius elaiotus M.M. Moser SPECIES
-=======
+# Cortinarius elaiotus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptothelium rhodotitthon R.C. Harris SPECIES
-=======
+# Cryptothelium rhodotitthon R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

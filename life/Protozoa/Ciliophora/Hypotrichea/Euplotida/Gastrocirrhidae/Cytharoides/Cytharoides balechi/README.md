@@ -1,5 +1,4 @@
-Cytharoides balechi Tuffrau, 1974 SPECIES
-=======
+# Cytharoides balechi Tuffrau, 1974 SPECIES
 
 #### Status
 ACCEPTED

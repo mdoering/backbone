@@ -1,5 +1,4 @@
-Septoria brunellae Ellis & Holw. SPECIES
-=======
+# Septoria brunellae Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

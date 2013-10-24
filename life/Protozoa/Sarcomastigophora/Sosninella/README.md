@@ -1,5 +1,4 @@
-Sosninella de Civrieux & Dessauvagie, 1965 GENUS
-=======
+# Sosninella de Civrieux & Dessauvagie, 1965 GENUS
 
 #### Status
 ACCEPTED

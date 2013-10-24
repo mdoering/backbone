@@ -1,5 +1,4 @@
-Phaulomyces corylophodis Thaxt., 1931 SPECIES
-=======
+# Phaulomyces corylophodis Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

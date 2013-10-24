@@ -1,5 +1,4 @@
-Cercospora byrsonimatis Maubl. SPECIES
-=======
+# Cercospora byrsonimatis Maubl. SPECIES
 
 #### Status
 ACCEPTED

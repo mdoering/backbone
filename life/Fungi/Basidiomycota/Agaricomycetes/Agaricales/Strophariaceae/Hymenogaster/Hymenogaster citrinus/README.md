@@ -1,17 +1,16 @@
-Hymenogaster citrinus var. pallens Soehner VARIETY
-=======
+# Hymenogaster citrinus Vittad., 1831 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monogr. Tuberac. (Milano) 23 (1831)
 
 #### Original name
-Hymenogaster citrinus var. pallens Soehner
+Hymenogaster citrinus Vittad., 1831
 
 ### Remarks
 null

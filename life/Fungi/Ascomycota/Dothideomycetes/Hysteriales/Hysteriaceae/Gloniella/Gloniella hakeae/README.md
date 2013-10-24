@@ -1,5 +1,4 @@
-Gloniella hakeae Penz. & Sacc. SPECIES
-=======
+# Gloniella hakeae Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

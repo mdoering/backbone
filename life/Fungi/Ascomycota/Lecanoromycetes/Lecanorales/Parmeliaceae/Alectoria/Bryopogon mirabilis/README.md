@@ -1,5 +1,4 @@
-Bryopogon mirabilis (Motyka) Bystrek SPECIES
-=======
+# Bryopogon mirabilis (Motyka) Bystrek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora thysanota (Tuck.) Tuck. SPECIES
-=======
+# Biatora thysanota (Tuck.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

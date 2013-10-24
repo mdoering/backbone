@@ -1,5 +1,4 @@
-Tanystomium Berger, 1964 GENUS
-=======
+# Tanystomium Berger, 1964 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanoleuca subisabellina Murrill SPECIES
-=======
+# Melanoleuca subisabellina Murrill SPECIES
 
 #### Status
 ACCEPTED

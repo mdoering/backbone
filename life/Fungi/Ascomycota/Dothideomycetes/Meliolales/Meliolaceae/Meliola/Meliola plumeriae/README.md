@@ -1,5 +1,4 @@
-Meliola plumeriae Srinivas. SPECIES
-=======
+# Meliola plumeriae Srinivas. SPECIES
 
 #### Status
 ACCEPTED

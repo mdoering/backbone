@@ -1,5 +1,4 @@
-Fistulariella tapperi (Krog & Swinscow) Bowler & Rundel SPECIES
-=======
+# Fistulariella tapperi (Krog & Swinscow) Bowler & Rundel SPECIES
 
 #### Status
 ACCEPTED

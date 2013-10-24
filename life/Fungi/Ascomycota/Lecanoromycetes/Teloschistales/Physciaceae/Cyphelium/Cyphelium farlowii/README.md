@@ -1,5 +1,4 @@
-Cyphelium farlowii Tuck. ex Herre SPECIES
-=======
+# Cyphelium farlowii Tuck. ex Herre SPECIES
 
 #### Status
 ACCEPTED

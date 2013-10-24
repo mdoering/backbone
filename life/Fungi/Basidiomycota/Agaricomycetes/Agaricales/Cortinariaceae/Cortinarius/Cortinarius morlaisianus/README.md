@@ -1,5 +1,4 @@
-Cortinarius morlaisianus Rob. Henry SPECIES
-=======
+# Cortinarius morlaisianus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

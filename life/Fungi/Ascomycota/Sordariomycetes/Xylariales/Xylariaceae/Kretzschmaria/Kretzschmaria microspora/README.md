@@ -1,5 +1,4 @@
-Kretzschmaria microspora Henn. SPECIES
-=======
+# Kretzschmaria microspora Henn. SPECIES
 
 #### Status
 ACCEPTED

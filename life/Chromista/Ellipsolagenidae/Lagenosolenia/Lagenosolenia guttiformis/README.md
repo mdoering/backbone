@@ -1,5 +1,4 @@
-Lagenosolenia guttiformis McCulloch, 1977 SPECIES
-=======
+# Lagenosolenia guttiformis McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

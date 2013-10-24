@@ -1,5 +1,4 @@
-Psammettidae Tendasl, 1972 FAMILY
-=======
+# Psammettidae Tendasl, 1972 FAMILY
 
 #### Status
 ACCEPTED

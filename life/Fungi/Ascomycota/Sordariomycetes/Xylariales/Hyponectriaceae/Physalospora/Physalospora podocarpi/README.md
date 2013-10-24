@@ -1,5 +1,4 @@
-Physalospora podocarpi Hara SPECIES
-=======
+# Physalospora podocarpi Hara SPECIES
 
 #### Status
 ACCEPTED

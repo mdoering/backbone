@@ -1,5 +1,4 @@
-Calicium clavellum (Ach.) DC. SPECIES
-=======
+# Calicium clavellum (Ach.) DC. SPECIES
 
 #### Status
 ACCEPTED

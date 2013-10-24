@@ -1,5 +1,4 @@
-Hormodendrum obesum (Höhn.) J. Lindau SPECIES
-=======
+# Hormodendrum obesum (Höhn.) J. Lindau SPECIES
 
 #### Status
 ACCEPTED

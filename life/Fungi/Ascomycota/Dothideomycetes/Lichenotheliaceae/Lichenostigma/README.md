@@ -1,5 +1,4 @@
-Lichenostigma Hafellner GENUS
-=======
+# Lichenostigma Hafellner GENUS
 
 #### Status
 ACCEPTED

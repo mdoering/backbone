@@ -1,5 +1,4 @@
-Belonidium minimum Ellis & Everh. SPECIES
-=======
+# Belonidium minimum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

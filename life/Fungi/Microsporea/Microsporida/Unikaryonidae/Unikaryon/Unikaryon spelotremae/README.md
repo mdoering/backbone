@@ -1,8 +1,7 @@
-Nosema spelotremae Guyénot, Naville & Ponse, 1925 SPECIES
-=======
+# Unikaryon spelotremae (Guyénot, Naville & Ponse, 1925) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Parmelia rugulosa (Müll. Arg.) Vain. SPECIES
-=======
+# Parmelia rugulosa (Müll. Arg.) Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phaeosphaeriopsis amblyspora A.W. Ramaley, 2003 SPECIES
-=======
+# Phaeosphaeriopsis amblyospora A.W. Ramaley, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Câmara, Ramaley, Castlebury & Palm, Mycol. Res. 107(5): 520 (2003)
 
 #### Original name
-Phaeosphaeriopsis amblyspora A.W. Ramaley, 2003
+Phaeosphaeriopsis amblyospora A.W. Ramaley, 2003
 
 ### Remarks
 null

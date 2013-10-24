@@ -1,5 +1,4 @@
-Oxytricha pubes (Müller, 1773) Fromentel, 1876 SPECIES
-=======
+# Oxytricha pubes (Müller, 1773) Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

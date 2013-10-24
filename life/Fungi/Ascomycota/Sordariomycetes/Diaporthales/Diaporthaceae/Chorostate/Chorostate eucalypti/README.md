@@ -1,5 +1,4 @@
-Chorostate eucalypti Harkn. SPECIES
-=======
+# Chorostate eucalypti Harkn. SPECIES
 
 #### Status
 ACCEPTED

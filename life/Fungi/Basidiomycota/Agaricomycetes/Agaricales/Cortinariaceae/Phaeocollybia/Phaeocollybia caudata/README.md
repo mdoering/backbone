@@ -1,5 +1,4 @@
-Phaeocollybia caudata E. Horak & Halling SPECIES
-=======
+# Phaeocollybia caudata E. Horak & Halling SPECIES
 
 #### Status
 ACCEPTED

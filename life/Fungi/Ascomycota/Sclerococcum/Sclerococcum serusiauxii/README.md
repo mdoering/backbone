@@ -1,5 +1,4 @@
-Sclerococcum serusiauxii Boqueras & Diederich SPECIES
-=======
+# Sclerococcum serusiauxii Boqueras & Diederich SPECIES
 
 #### Status
 ACCEPTED

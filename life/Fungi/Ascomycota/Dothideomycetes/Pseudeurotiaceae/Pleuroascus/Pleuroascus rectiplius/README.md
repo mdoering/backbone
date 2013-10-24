@@ -1,5 +1,4 @@
-Pleuroascus rectiplius Stchigel & Guarro SPECIES
-=======
+# Pleuroascus rectiplius Stchigel & Guarro SPECIES
 
 #### Status
 ACCEPTED

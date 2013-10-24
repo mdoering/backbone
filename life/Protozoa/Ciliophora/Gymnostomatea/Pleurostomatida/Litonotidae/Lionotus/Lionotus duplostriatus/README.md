@@ -1,5 +1,4 @@
-Lionotus duplostriatus Maupas, 1883 SPECIES
-=======
+# Lionotus duplostriatus Maupas, 1883 SPECIES
 
 #### Status
 ACCEPTED

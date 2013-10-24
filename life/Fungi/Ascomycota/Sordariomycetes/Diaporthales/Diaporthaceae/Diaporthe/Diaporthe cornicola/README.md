@@ -1,5 +1,4 @@
-Diaporthe cornicola var. cornicola VARIETY
-=======
+# Diaporthe cornicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Diaporthe cornicola var. cornicola
+Diaporthe cornicola Ellis & Everh.
 
 ### Remarks
 null

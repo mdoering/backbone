@@ -1,5 +1,4 @@
-Smittium arvernense R.A. Poiss., 1937 SPECIES
-=======
+# Smittium arvernense R.A. Poiss., 1937 SPECIES
 
 #### Status
 ACCEPTED

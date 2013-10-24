@@ -1,14 +1,13 @@
-Drechslera verticillata (O'Gara) Shoemaker, 1966 SPECIES
-=======
+# Podosporiella verticillata O'Gara, 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 44: 1451 (1966)
+Phytopathology 5: 323 (1915)
 
 #### Original name
 Podosporiella verticillata O'Gara, 1915

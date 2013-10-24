@@ -1,5 +1,4 @@
-Dimeromyces decumbens Thaxt. SPECIES
-=======
+# Dimeromyces decumbens Thaxt. SPECIES
 
 #### Status
 ACCEPTED

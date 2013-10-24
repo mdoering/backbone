@@ -1,5 +1,4 @@
-Fulvifomes everhartii Murrill SPECIES
-=======
+# Fulvifomes everhartii Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Conocybe hornana var. subcylindrospora Hauskn., Vauras, Kytöv. & Ohenoja VARIETY
-=======
+# Conocybe hornana Singer & Hauskn., 1989 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Karstenia 45(1): 29 (2005)
+Beitr. Kenntn. Pilze Mitteleur. 5: 87 (1989)
 
 #### Original name
-Conocybe hornana var. subcylindrospora Hauskn., Vauras, Kytöv. & Ohenoja
+Conocybe hornana Singer & Hauskn., 1989
 
 ### Remarks
 null

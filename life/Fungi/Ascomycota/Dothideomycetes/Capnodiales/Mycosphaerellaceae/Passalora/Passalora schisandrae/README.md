@@ -1,5 +1,4 @@
-Passalora schisandrae (Y.L. Guo) U. Braun & Crous SPECIES
-=======
+# Passalora schisandrae (Y.L. Guo) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

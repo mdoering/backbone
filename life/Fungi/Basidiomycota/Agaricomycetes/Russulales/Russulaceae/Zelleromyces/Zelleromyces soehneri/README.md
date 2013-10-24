@@ -1,17 +1,16 @@
-Hydnangium soehneri var. soehneri VARIETY
-=======
+# Zelleromyces soehneri (Zeller & C.W. Dodge) Trappe, T. Lebel & Castellano, 2002 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn (1935)
+Mycotaxon 81: 205 (2002)
 
 #### Original name
-Hydnangium soehneri var. soehneri
+Hydnangium soehneri Zeller & C.W. Dodge, 1935
 
 ### Remarks
 null

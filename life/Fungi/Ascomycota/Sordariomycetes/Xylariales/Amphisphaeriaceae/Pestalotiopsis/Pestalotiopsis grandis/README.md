@@ -1,17 +1,16 @@
-Pestalotiopsis grandi Dube & Bilgrami SPECIES
-=======
+# Pestalotiopsis grandis Dube & Bilgrami SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 19(3): 320 (1966)
 
 #### Original name
-Pestalotiopsis grandi Dube & Bilgrami
+Pestalotiopsis grandis Dube & Bilgrami
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Exosporium liquidambaris Tharp SPECIES
-=======
+# Exosporium liquidambaris Tharp SPECIES
 
 #### Status
 ACCEPTED

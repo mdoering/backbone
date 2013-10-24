@@ -1,5 +1,4 @@
-Queletia turcestanica anon. SPECIES
-=======
+# Queletia turcestanica anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella cercidis Pass. SPECIES
-=======
+# Sphaerella cercidis Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sorosporium schizocaulon var. schizocaulon VARIETY
-=======
+# Sorosporium schizocaulon Ces. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sorosporium schizocaulon var. schizocaulon
+Sorosporium schizocaulon Ces.
 
 ### Remarks
 null

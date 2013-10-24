@@ -1,5 +1,4 @@
-Pseudopatellinoides Krasheninnikov, 1958 GENUS
-=======
+# Pseudopatellinoides Krasheninnikov, 1958 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Snowella arachnoidea Komárek & Hindák SPECIES
-=======
+# Snowella arachnoidea Komárek & Hindák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phoma rubiginosa var. rubiginosa VARIETY
-=======
+# Phoma rubiginosa Brunaud, 1898 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Act. Soc. linn. Bordeaux, sér. A 10 [sep. ] (1898)
 
 #### Original name
-Phoma rubiginosa var. rubiginosa
+Phoma rubiginosa Brunaud, 1898
 
 ### Remarks
 null

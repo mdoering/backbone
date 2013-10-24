@@ -1,5 +1,4 @@
-Lecidea vagula Nyl. SPECIES
-=======
+# Lecidea vagula Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacidium smilacis Ettingsh. SPECIES
-=======
+# Phacidium smilacis Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

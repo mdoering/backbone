@@ -1,5 +1,4 @@
-Xanthoparmelia commonii Elix & T. H. Nash SPECIES
-=======
+# Xanthoparmelia commonii Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

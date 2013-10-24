@@ -1,5 +1,4 @@
-Aecidium pachycephalum Dietel SPECIES
-=======
+# Aecidium pachycephalum Dietel SPECIES
 
 #### Status
 ACCEPTED

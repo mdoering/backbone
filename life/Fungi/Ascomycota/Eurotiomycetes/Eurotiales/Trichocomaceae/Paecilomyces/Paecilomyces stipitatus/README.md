@@ -1,5 +1,4 @@
-Paecilomyces stipitatus Z.Q. Liang & Y.F. Han SPECIES
-=======
+# Paecilomyces stipitatus Z.Q. Liang & Y.F. Han SPECIES
 
 #### Status
 ACCEPTED

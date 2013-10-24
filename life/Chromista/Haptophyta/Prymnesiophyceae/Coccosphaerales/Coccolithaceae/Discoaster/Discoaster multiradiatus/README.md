@@ -1,5 +1,4 @@
-Discoaster multiradiatus Bramlette & Reidel, 1954 SPECIES
-=======
+# Discoaster multiradiatus Bramlette & Reidel, 1954 SPECIES
 
 #### Status
 ACCEPTED

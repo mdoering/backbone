@@ -1,5 +1,4 @@
-Bacidia subannexa (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia subannexa (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coscinaspis Haeckel, 1887 GENUS
-=======
+# Coscinaspis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

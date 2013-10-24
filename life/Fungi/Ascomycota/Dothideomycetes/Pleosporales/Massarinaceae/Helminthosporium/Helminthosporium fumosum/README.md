@@ -1,5 +1,4 @@
-Helminthosporium fumosum Ellis & G. Martin SPECIES
-=======
+# Helminthosporium fumosum Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

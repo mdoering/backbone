@@ -1,5 +1,4 @@
-Pseudomonilicaryon gracile subsp. gracile SUBSPECIES
-=======
+# Pseudomonilicaryon gracile Kahl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eostaffeloides GENUS
-=======
+# Eostaffeloides GENUS
 
 #### Status
 ACCEPTED

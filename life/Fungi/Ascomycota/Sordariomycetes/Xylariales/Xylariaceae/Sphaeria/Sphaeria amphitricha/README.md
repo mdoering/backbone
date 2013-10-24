@@ -1,5 +1,4 @@
-Sphaeria amphitricha var. amphitricha VARIETY
-=======
+# Sphaeria amphitricha Ehrenb. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Syst. mycol. (Lundae) 2(2): 513 (1823)
+Sylv. mycol. berol. (Berlin) 29 (1818)
 
 #### Original name
-Sphaeria amphitricha var. amphitricha
+Sphaeria amphitricha Ehrenb.
 
 ### Remarks
 null

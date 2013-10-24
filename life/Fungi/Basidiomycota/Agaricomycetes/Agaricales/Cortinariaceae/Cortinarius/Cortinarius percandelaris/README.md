@@ -1,5 +1,4 @@
-Cortinarius percandelaris Reumaux SPECIES
-=======
+# Cortinarius percandelaris Reumaux SPECIES
 
 #### Status
 ACCEPTED

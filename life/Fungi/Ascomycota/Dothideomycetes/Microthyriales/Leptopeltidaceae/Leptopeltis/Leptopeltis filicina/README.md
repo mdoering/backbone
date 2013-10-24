@@ -1,14 +1,13 @@
-Leptopeltina filicina (Lib.) Petr., 1947 SPECIES
-=======
+# Leptopeltis filicina (Lib.) Höhn., 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 1: 244 (1947)
+Ber. dt. bot. Ges. 35: 422 (1917)
 
 #### Original name
 Aulographum filicinum Lib., 1834

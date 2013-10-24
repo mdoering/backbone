@@ -1,5 +1,4 @@
-Anthracothecium punctiforme Müll. Arg. SPECIES
-=======
+# Anthracothecium punctiforme Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

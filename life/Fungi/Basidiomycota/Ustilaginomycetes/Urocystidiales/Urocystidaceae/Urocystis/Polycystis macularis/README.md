@@ -1,5 +1,4 @@
-Polycystis macularis Berk. & Broome SPECIES
-=======
+# Polycystis macularis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

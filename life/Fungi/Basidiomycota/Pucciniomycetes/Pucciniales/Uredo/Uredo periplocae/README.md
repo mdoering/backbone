@@ -1,5 +1,4 @@
-Uredo periplocae Henn. SPECIES
-=======
+# Uredo periplocae Henn. SPECIES
 
 #### Status
 ACCEPTED

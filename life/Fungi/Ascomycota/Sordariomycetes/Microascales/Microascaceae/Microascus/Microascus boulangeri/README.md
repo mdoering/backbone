@@ -1,5 +1,4 @@
-Microascus boulangeri (Curzi) Lodha SPECIES
-=======
+# Microascus boulangeri (Curzi) Lodha SPECIES
 
 #### Status
 ACCEPTED

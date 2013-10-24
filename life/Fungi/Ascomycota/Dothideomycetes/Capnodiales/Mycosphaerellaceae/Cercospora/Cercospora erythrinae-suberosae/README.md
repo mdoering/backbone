@@ -1,5 +1,4 @@
-Cercospora erythrinae-suberosae S.L. Jain, A.N. Rai & P. Mehta SPECIES
-=======
+# Cercospora erythrinae-suberosae S.L. Jain, A.N. Rai & P. Mehta SPECIES
 
 #### Status
 ACCEPTED

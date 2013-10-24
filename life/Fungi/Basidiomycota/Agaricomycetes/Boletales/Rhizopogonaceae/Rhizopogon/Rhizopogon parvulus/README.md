@@ -1,5 +1,4 @@
-Rhizopogon parvulus A.H. Sm. SPECIES
-=======
+# Rhizopogon parvulus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

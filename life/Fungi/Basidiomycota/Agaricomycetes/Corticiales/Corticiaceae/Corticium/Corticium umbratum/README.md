@@ -1,17 +1,16 @@
-Corticium umbratum var. umbratum VARIETY
-=======
+# Corticium umbratum SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Hyménomyc. de France (Sceaux) 220 (1928)
+null
 
 #### Original name
-Corticium umbratum var. umbratum
+null
 
 ### Remarks
 null

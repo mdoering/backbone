@@ -1,5 +1,4 @@
-Solentia Ercegovic, 1927 GENUS
-=======
+# Solentia Ercegovic, 1927 GENUS
 
 #### Status
 ACCEPTED

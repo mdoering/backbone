@@ -1,5 +1,4 @@
-Sporocybe nigriceps Peck SPECIES
-=======
+# Sporocybe nigriceps Peck SPECIES
 
 #### Status
 ACCEPTED

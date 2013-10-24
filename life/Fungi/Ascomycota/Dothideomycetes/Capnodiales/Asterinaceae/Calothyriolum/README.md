@@ -1,5 +1,4 @@
-Calothyriolum GENUS
-=======
+# Calothyriolum GENUS
 
 #### Status
 ACCEPTED

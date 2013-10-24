@@ -1,5 +1,4 @@
-Sipholagena benevestita (Büchner, 1940) SPECIES
-=======
+# Sipholagena benevestita (Büchner, 1940) SPECIES
 
 #### Status
 ACCEPTED

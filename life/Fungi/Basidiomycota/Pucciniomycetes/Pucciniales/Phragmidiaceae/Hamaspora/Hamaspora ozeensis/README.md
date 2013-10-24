@@ -1,5 +1,4 @@
-Hamaspora ozeensis Hirats. f., 1951 SPECIES
-=======
+# Hamaspora ozeensis Hirats. f., 1951 SPECIES
 
 #### Status
 ACCEPTED

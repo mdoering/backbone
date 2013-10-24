@@ -1,5 +1,4 @@
-Hirneola GENUS
-=======
+# Hirneola GENUS
 
 #### Status
 ACCEPTED

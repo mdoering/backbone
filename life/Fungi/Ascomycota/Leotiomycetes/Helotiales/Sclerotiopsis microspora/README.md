@@ -1,5 +1,4 @@
-Sclerotiopsis microspora Garud SPECIES
-=======
+# Sclerotiopsis microspora Garud SPECIES
 
 #### Status
 ACCEPTED

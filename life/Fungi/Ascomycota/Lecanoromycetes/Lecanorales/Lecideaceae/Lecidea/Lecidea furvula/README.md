@@ -1,5 +1,4 @@
-Lecidea furvula Nyl. SPECIES
-=======
+# Lecidea furvula Nyl. SPECIES
 
 #### Status
 ACCEPTED

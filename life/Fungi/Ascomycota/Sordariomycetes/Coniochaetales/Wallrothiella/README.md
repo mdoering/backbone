@@ -1,5 +1,4 @@
-Wallrothiella Sacc. GENUS
-=======
+# Wallrothiella Sacc. GENUS
 
 #### Status
 ACCEPTED

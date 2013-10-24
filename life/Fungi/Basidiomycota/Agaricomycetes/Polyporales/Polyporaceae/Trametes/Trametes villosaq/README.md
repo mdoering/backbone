@@ -1,5 +1,4 @@
-Trametes villosaq (Fr.) Kreisel. SPECIES
-=======
+# Trametes villosaq (Fr.) Kreisel. SPECIES
 
 #### Status
 ACCEPTED

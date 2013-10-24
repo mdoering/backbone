@@ -1,5 +1,4 @@
-Omphalia sericea Romagn. SPECIES
-=======
+# Omphalia sericea Romagn. SPECIES
 
 #### Status
 ACCEPTED

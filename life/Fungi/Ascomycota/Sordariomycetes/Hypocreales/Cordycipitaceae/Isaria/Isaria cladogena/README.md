@@ -1,5 +1,4 @@
-Isaria cladogena Sacc. SPECIES
-=======
+# Isaria cladogena Sacc. SPECIES
 
 #### Status
 ACCEPTED

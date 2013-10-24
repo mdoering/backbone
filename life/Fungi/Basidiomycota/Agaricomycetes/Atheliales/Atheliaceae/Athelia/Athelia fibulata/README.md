@@ -1,5 +1,4 @@
-Athelia fibulata M.P. Christ., 1960 SPECIES
-=======
+# Athelia fibulata M.P. Christ., 1960 SPECIES
 
 #### Status
 ACCEPTED

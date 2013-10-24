@@ -1,5 +1,4 @@
-Septoria scolymi Pass. SPECIES
-=======
+# Septoria scolymi Pass. SPECIES
 
 #### Status
 ACCEPTED

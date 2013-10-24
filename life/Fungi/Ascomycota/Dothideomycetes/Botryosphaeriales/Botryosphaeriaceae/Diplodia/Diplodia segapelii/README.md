@@ -1,5 +1,4 @@
-Diplodia segapelii Scalia SPECIES
-=======
+# Diplodia segapelii Scalia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria lusitanica Thüm., 1981 SPECIES
-=======
+# Leptosphaeria lusitanica Thüm., 1981 SPECIES
 
 #### Status
 ACCEPTED

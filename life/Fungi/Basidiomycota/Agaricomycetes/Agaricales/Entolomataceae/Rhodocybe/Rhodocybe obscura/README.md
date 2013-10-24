@@ -1,5 +1,4 @@
-Rhodocybe obscura (Pilát) M.M. Moser SPECIES
-=======
+# Rhodocybe obscura (Pilát) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

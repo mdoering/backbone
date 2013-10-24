@@ -1,14 +1,13 @@
-Cladosporium bisporum Matsush., 1975 SPECIES
-=======
+# Beejadwaya bispora (Matsush.) Subram., 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. microfung. Matsush. lect. (Kobe) 33 (1975)
+Kavaka 5: 97 (1978)
 
 #### Original name
 Cladosporium bisporum Matsush., 1975

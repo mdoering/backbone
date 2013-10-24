@@ -1,5 +1,4 @@
-Lethariicola figulina (Norman) Lumbsch & D. Hawksw. SPECIES
-=======
+# Lethariicola figulina (Norman) Lumbsch & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

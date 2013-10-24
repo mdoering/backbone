@@ -1,5 +1,4 @@
-Lembus striatus Cohn-Fabre, 1885 SPECIES
-=======
+# Lembus striatus Cohn-Fabre, 1885 SPECIES
 
 #### Status
 ACCEPTED

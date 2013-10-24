@@ -1,17 +1,16 @@
-Taeniospora descalsii Marvanová & Stalpers, 1987 SPECIES
-=======
+# Fibulomyces crucelliger Stalpers & Marvanová, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 89(4): 494 (1987)
+in Marvanová & Stalpers, Trans. Br. mycol. Soc. 89(4): 496 (1987)
 
 #### Original name
-Taeniospora descalsii Marvanová & Stalpers, 1987
+Fibulomyces crucelliger Stalpers & Marvanová, 1987
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Psychromonas ingrahamii Auman et al., 2006 SPECIES
-=======
+# Psychromonas ingrahamii Auman et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

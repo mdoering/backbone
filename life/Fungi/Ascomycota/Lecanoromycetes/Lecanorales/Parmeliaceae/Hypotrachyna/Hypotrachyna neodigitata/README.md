@@ -1,5 +1,4 @@
-Hypotrachyna neodigitata Kurok. & K. H. Moon SPECIES
-=======
+# Hypotrachyna neodigitata Kurok. & K. H. Moon SPECIES
 
 #### Status
 ACCEPTED

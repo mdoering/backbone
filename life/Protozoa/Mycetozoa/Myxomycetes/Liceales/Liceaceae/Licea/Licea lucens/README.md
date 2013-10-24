@@ -1,5 +1,4 @@
-Licea lucens Nann.-Bremek., 1981 SPECIES
-=======
+# Licea lucens Nann.-Bremek., 1981 SPECIES
 
 #### Status
 ACCEPTED

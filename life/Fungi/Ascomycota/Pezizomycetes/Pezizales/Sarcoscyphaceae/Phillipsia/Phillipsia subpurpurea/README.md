@@ -1,5 +1,4 @@
-Phillipsia subpurpurea Berk. & Broome SPECIES
-=======
+# Phillipsia subpurpurea Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

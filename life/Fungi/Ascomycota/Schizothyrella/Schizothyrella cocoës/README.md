@@ -1,5 +1,4 @@
-Schizothyrella cocoës Bat. & J.L. Bezerra SPECIES
-=======
+# Schizothyrella cocoës Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laurera phaeomelodes (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Laurera phaeomelodes (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

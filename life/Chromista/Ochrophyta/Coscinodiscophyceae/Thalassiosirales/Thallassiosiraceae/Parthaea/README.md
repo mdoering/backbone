@@ -1,5 +1,4 @@
-Parthaea S.Gowthaman, 1996 GENUS
-=======
+# Parthaea S.Gowthaman, 1996 GENUS
 
 #### Status
 ACCEPTED

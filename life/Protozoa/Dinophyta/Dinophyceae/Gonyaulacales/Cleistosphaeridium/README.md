@@ -1,5 +1,4 @@
-Cleistosphaeridium R.J.Davey et al., 1966 GENUS
-=======
+# Cleistosphaeridium R.J.Davey et al., 1966 GENUS
 
 #### Status
 ACCEPTED

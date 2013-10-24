@@ -1,5 +1,4 @@
-Aulacoseira skvortzowii M.B. Edlund, E.F. Stoermer & C.M. Taylor SPECIES
-=======
+# Aulacoseira skvortzowii M.B. Edlund, E.F. Stoermer & C.M. Taylor SPECIES
 
 #### Status
 ACCEPTED

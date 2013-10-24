@@ -1,5 +1,4 @@
-Awhea Vella, 1963 GENUS
-=======
+# Awhea Vella, 1963 GENUS
 
 #### Status
 ACCEPTED

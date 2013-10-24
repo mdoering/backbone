@@ -1,5 +1,4 @@
-Rosellinia sarothamni J. Schröt. SPECIES
-=======
+# Rosellinia sarothamni J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

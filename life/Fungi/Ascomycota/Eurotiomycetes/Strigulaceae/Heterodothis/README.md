@@ -1,5 +1,4 @@
-Heterodothis GENUS
-=======
+# Heterodothis GENUS
 
 #### Status
 ACCEPTED

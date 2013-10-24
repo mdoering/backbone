@@ -1,5 +1,4 @@
-Agaricus subluteus Vahl SPECIES
-=======
+# Agaricus subluteus Vahl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothidea muelleri Loeffler, 1957 SPECIES
-=======
+# Dothidea muelleri Loeffler, 1957 SPECIES
 
 #### Status
 ACCEPTED

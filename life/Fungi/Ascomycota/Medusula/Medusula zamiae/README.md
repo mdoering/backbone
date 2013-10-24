@@ -1,5 +1,4 @@
-Medusula zamiae Corda SPECIES
-=======
+# Medusula zamiae Corda SPECIES
 
 #### Status
 ACCEPTED

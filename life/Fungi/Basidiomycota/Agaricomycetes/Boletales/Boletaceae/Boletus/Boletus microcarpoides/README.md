@@ -1,5 +1,4 @@
-Boletus microcarpoides Corner SPECIES
-=======
+# Boletus microcarpoides Corner SPECIES
 
 #### Status
 ACCEPTED

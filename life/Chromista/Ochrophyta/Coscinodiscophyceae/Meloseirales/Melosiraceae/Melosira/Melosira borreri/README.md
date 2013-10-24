@@ -1,5 +1,4 @@
-Melosira borreri Greville SPECIES
-=======
+# Melosira borreri Greville SPECIES
 
 #### Status
 ACCEPTED

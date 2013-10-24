@@ -1,5 +1,4 @@
-Reophax friabilis Parr, 1932 SPECIES
-=======
+# Reophax friabilis Parr, 1932 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synalissa mattogrossensis (Malme) Henssen SPECIES
-=======
+# Synalissa mattogrossensis (Malme) Henssen SPECIES
 
 #### Status
 ACCEPTED

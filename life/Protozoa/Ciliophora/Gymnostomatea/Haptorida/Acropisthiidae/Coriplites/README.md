@@ -1,5 +1,4 @@
-Coriplites Foissner, 1988 GENUS
-=======
+# Coriplites Foissner, 1988 GENUS
 
 #### Status
 ACCEPTED

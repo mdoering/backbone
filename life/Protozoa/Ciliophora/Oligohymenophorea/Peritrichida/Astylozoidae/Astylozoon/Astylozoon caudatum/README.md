@@ -1,5 +1,4 @@
-Astylozoon caudatum Phillips, 1883 SPECIES
-=======
+# Astylozoon caudatum Phillips, 1883 SPECIES
 
 #### Status
 ACCEPTED

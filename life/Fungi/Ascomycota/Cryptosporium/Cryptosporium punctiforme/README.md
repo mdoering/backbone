@@ -1,5 +1,4 @@
-Cryptosporium punctiforme Cooke & Harkn. SPECIES
-=======
+# Cryptosporium punctiforme Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

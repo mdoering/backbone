@@ -1,5 +1,4 @@
-Steinhausia Sprague, Ormières & Manier GENUS
-=======
+# Steinhausia Sprague, Ormières & Manier GENUS
 
 #### Status
 ACCEPTED

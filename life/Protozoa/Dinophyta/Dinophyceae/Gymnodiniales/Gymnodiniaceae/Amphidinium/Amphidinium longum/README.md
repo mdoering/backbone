@@ -1,5 +1,4 @@
-Amphidinium longum Lohmann SPECIES
-=======
+# Amphidinium longum Lohmann SPECIES
 
 #### Status
 ACCEPTED

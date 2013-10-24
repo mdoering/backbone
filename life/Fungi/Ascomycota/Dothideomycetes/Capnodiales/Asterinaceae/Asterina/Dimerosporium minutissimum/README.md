@@ -1,5 +1,4 @@
-Dimerosporium minutissimum Höhn. SPECIES
-=======
+# Dimerosporium minutissimum Höhn. SPECIES
 
 #### Status
 ACCEPTED

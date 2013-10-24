@@ -1,5 +1,4 @@
-Sklerochlamys Pascher, 1937 GENUS
-=======
+# Sklerochlamys Pascher, 1937 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta coccineae Pandotra & Ganguly SPECIES
-=======
+# Phyllosticta coccineae Pandotra & Ganguly SPECIES
 
 #### Status
 ACCEPTED

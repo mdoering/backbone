@@ -1,5 +1,4 @@
-Citrus exocortis SPECIES
-=======
+# Citrus exocortis SPECIES
 
 #### Status
 ACCEPTED

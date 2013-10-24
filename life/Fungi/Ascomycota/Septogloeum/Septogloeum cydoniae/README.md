@@ -1,5 +1,4 @@
-Septogloeum cydoniae Maire SPECIES
-=======
+# Septogloeum cydoniae Maire SPECIES
 
 #### Status
 ACCEPTED

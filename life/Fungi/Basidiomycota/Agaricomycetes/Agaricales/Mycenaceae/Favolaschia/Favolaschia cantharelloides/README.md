@@ -1,5 +1,4 @@
-Favolaschia cantharelloides Pat. SPECIES
-=======
+# Favolaschia cantharelloides Pat. SPECIES
 
 #### Status
 ACCEPTED

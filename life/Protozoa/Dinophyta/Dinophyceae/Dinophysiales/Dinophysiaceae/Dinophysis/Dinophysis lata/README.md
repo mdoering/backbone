@@ -1,8 +1,7 @@
-Dinophysis sourniai Balech, 1978 SPECIES
-=======
+# Dinophysis lata (Gaarder, 1954) Balech, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

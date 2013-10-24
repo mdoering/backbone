@@ -1,5 +1,4 @@
-Neoballadyna GENUS
-=======
+# Neoballadyna GENUS
 
 #### Status
 ACCEPTED

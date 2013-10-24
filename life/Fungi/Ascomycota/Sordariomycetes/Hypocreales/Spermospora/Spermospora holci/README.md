@@ -1,5 +1,4 @@
-Spermospora holci (R. Sprague) MacGarvie & O'Rourke SPECIES
-=======
+# Spermospora holci (R. Sprague) MacGarvie & O'Rourke SPECIES
 
 #### Status
 ACCEPTED

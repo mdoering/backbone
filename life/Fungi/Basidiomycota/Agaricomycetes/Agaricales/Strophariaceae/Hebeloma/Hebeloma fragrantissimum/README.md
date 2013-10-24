@@ -1,5 +1,4 @@
-Hebeloma fragrantissimum Velen. SPECIES
-=======
+# Hebeloma fragrantissimum Velen. SPECIES
 
 #### Status
 ACCEPTED

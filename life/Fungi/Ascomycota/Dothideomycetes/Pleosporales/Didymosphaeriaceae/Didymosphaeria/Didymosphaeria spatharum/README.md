@@ -1,5 +1,4 @@
-Didymosphaeria spatharum G. Winter SPECIES
-=======
+# Didymosphaeria spatharum G. Winter SPECIES
 
 #### Status
 ACCEPTED

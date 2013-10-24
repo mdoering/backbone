@@ -1,5 +1,4 @@
-Lochomyces quadrangularis (Stirt.) Bat. SPECIES
-=======
+# Lochomyces quadrangularis (Stirt.) Bat. SPECIES
 
 #### Status
 ACCEPTED

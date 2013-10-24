@@ -1,5 +1,4 @@
-Cylindrosporium shepherdiae Sacc. SPECIES
-=======
+# Cylindrosporium shepherdiae Sacc. SPECIES
 
 #### Status
 ACCEPTED

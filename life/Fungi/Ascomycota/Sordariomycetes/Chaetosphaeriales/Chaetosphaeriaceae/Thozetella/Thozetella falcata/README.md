@@ -1,5 +1,4 @@
-Thozetella falcata B.C. Paulus, Gadek & K.D. Hyde SPECIES
-=======
+# Thozetella falcata B.C. Paulus, Gadek & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ryparobius asteriscus P. Karst. SPECIES
-=======
+# Ryparobius asteriscus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

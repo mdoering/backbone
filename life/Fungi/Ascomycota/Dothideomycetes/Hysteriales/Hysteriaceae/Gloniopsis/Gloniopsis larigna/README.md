@@ -1,5 +1,4 @@
-Gloniopsis larigna F. Lamb. & Fautrey SPECIES
-=======
+# Gloniopsis larigna F. Lamb. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

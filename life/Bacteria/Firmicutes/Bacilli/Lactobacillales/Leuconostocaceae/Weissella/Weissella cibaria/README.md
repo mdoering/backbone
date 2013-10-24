@@ -1,5 +1,4 @@
-Weissella cibaria Björkroth et al., 2002 SPECIES
-=======
+# Weissella cibaria Björkroth et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

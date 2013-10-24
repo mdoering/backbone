@@ -1,5 +1,4 @@
-Ramalina tinctoria (Hoffm.) Röhl. SPECIES
-=======
+# Ramalina tinctoria (Hoffm.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

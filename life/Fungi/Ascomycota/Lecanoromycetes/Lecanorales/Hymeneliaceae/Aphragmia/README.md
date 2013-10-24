@@ -1,5 +1,4 @@
-Aphragmia GENUS
-=======
+# Aphragmia GENUS
 
 #### Status
 ACCEPTED

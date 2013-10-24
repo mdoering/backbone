@@ -1,5 +1,4 @@
-Desmospyris Haeckel, 1881 GENUS
-=======
+# Desmospyris Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

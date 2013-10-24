@@ -1,5 +1,4 @@
-Rhachomyces reveilletii Balazuc SPECIES
-=======
+# Rhachomyces reveilletii Balazuc SPECIES
 
 #### Status
 ACCEPTED

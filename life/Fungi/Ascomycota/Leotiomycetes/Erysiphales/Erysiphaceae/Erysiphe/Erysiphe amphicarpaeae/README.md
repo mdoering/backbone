@@ -1,5 +1,4 @@
-Erysiphe amphicarpaeae R.Y. Zheng & G.Q. Chen SPECIES
-=======
+# Erysiphe amphicarpaeae R.Y. Zheng & G.Q. Chen SPECIES
 
 #### Status
 ACCEPTED

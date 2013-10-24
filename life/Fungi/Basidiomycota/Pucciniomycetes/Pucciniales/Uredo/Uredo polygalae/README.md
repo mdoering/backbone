@@ -1,5 +1,4 @@
-Uredo polygalae Kalchbr., 1882 SPECIES
-=======
+# Uredo polygalae Kalchbr., 1882 SPECIES
 
 #### Status
 ACCEPTED

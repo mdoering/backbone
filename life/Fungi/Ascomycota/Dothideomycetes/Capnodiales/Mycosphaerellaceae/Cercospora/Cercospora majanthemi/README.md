@@ -1,5 +1,4 @@
-Cercospora majanthemi var. majanthemi VARIETY
-=======
+# Cercospora majanthemi Fuckel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Fungi rhenani exsic. , suppl. 2: no. 1631 (1866)
 
 #### Original name
-Cercospora majanthemi var. majanthemi
+Cercospora majanthemi Fuckel
 
 ### Remarks
 null

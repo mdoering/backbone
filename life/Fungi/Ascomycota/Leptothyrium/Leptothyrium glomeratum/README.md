@@ -1,5 +1,4 @@
-Leptothyrium glomeratum Pat. SPECIES
-=======
+# Leptothyrium glomeratum Pat. SPECIES
 
 #### Status
 ACCEPTED

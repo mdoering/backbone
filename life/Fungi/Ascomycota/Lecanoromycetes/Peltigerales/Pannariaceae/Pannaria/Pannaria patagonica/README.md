@@ -1,5 +1,4 @@
-Pannaria patagonica (Malme) P.M. Jørg. SPECIES
-=======
+# Pannaria patagonica (Malme) P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium pteridis A.L. Sm., 1916 SPECIES
-=======
+# Coniothyrium pteridis A.L. Sm., 1916 SPECIES
 
 #### Status
 ACCEPTED

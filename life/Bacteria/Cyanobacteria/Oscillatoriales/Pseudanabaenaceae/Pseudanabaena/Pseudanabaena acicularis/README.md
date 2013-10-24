@@ -1,8 +1,7 @@
-Oscillatoria limnetica var. acicularis VARIETY
-=======
+# Pseudanabaena acicularis (Nygaard) Anagnostidis & Komárek, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

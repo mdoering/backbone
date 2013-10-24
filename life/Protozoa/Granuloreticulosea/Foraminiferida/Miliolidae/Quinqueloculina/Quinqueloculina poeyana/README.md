@@ -1,5 +1,4 @@
-Quinqueloculina poeyana SPECIES
-=======
+# Quinqueloculina poeyana SPECIES
 
 #### Status
 ACCEPTED

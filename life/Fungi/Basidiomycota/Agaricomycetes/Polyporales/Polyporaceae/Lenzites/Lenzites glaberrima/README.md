@@ -1,5 +1,4 @@
-Lenzites glaberrima Berk. & M.A. Curtis SPECIES
-=======
+# Lenzites glaberrima Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

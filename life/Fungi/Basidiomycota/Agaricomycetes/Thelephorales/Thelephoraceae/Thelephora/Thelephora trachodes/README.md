@@ -1,5 +1,4 @@
-Thelephora trachodes Berk. SPECIES
-=======
+# Thelephora trachodes Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lembosia lenticularis G. Winter SPECIES
-=======
+# Lembosia lenticularis G. Winter SPECIES
 
 #### Status
 ACCEPTED

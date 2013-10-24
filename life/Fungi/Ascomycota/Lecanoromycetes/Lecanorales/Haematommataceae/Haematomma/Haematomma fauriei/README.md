@@ -1,5 +1,4 @@
-Haematomma fauriei Zahlbr. SPECIES
-=======
+# Haematomma fauriei Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

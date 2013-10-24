@@ -1,5 +1,4 @@
-Thalloidima GENUS
-=======
+# Thalloidima GENUS
 
 #### Status
 ACCEPTED

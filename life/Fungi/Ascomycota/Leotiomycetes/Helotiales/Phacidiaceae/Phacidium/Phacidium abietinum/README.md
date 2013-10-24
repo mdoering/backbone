@@ -1,5 +1,4 @@
-Phacidium abietinum Kunze & J.C. Schmidt, 1817 SPECIES
-=======
+# Phacidium abietinum Kunze & J.C. Schmidt, 1817 SPECIES
 
 #### Status
 ACCEPTED

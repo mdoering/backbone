@@ -1,5 +1,4 @@
-Typhula villosa (Schumach.) Fr. SPECIES
-=======
+# Typhula villosa (Schumach.) Fr. SPECIES
 
 #### Status
 ACCEPTED

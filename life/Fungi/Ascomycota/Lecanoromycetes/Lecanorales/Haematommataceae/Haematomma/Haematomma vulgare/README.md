@@ -1,5 +1,4 @@
-Haematomma vulgare A. Massal. SPECIES
-=======
+# Haematomma vulgare A. Massal. SPECIES
 
 #### Status
 ACCEPTED

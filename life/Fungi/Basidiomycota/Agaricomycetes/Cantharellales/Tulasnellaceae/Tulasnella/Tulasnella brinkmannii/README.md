@@ -1,5 +1,4 @@
-Tulasnella brinkmannii Bres., 1920 SPECIES
-=======
+# Tulasnella brinkmannii Bres., 1920 SPECIES
 
 #### Status
 ACCEPTED

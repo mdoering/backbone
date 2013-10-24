@@ -1,5 +1,4 @@
-Acanthostomella gracilis (Brandt, 1896) ? SPECIES
-=======
+# Acanthostomella gracilis (Brandt, 1896) ? SPECIES
 
 #### Status
 ACCEPTED

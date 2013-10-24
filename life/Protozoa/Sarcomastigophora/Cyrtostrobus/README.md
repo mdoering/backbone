@@ -1,5 +1,4 @@
-Cyrtostrobus Haeckel, 1887 GENUS
-=======
+# Cyrtostrobus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

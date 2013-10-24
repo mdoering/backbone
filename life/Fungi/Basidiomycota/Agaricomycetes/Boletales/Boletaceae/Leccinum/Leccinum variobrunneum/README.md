@@ -1,5 +1,4 @@
-Leccinum variobrunneum E.A. Dick & Snell SPECIES
-=======
+# Leccinum variobrunneum E.A. Dick & Snell SPECIES
 
 #### Status
 ACCEPTED

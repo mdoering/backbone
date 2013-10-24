@@ -1,5 +1,4 @@
-Lecanora subarenaria Samp. SPECIES
-=======
+# Lecanora subarenaria Samp. SPECIES
 
 #### Status
 ACCEPTED

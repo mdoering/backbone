@@ -1,5 +1,4 @@
-Caeoma artemisiae Link SPECIES
-=======
+# Caeoma artemisiae Link SPECIES
 
 #### Status
 ACCEPTED

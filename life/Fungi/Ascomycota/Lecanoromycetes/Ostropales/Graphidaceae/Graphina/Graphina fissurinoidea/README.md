@@ -1,5 +1,4 @@
-Graphina fissurinoidea (Nyl.) Zahlbr. SPECIES
-=======
+# Graphina fissurinoidea (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

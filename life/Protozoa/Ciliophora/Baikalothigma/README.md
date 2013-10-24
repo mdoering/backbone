@@ -1,5 +1,4 @@
-Baikalothigma Yankovskij, 1982 GENUS
-=======
+# Baikalothigma Yankovskij, 1982 GENUS
 
 #### Status
 ACCEPTED

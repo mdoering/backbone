@@ -1,5 +1,4 @@
-Cordyceps pseudomilitaris Hywel-Jones & Sivichai SPECIES
-=======
+# Cordyceps pseudomilitaris Hywel-Jones & Sivichai SPECIES
 
 #### Status
 ACCEPTED

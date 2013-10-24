@@ -1,5 +1,4 @@
-Igorina GENUS
-=======
+# Igorina GENUS
 
 #### Status
 ACCEPTED

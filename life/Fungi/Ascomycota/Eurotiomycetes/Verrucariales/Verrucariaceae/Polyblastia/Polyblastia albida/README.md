@@ -1,17 +1,16 @@
-Amphoroblastia amota var. amota VARIETY
-=======
+# Polyblastia albida Arnold SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 41: 551 (1858)
 
 #### Original name
-Amphoroblastia amota var. amota
+Polyblastia albida Arnold
 
 ### Remarks
 null

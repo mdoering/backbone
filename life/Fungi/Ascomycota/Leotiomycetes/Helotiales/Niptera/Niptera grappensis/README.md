@@ -1,5 +1,4 @@
-Niptera grappensis Sacc. SPECIES
-=======
+# Niptera grappensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycovellosiella paulownicola Yen & Sun SPECIES
-=======
+# Mycovellosiella paulownicola Yen & Sun SPECIES
 
 #### Status
 ACCEPTED

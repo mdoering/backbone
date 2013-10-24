@@ -1,5 +1,4 @@
-Apiosoma triangularis SPECIES
-=======
+# Apiosoma triangularis SPECIES
 
 #### Status
 ACCEPTED

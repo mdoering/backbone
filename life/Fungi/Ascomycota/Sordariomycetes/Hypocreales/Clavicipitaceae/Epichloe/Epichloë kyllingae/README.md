@@ -1,17 +1,16 @@
-Epichloë kyllingiae Racib. SPECIES
-=======
+# Epichloë kyllingae Racib. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. int. Acad. Sci. Lett. Cracovie, Cl. sci. math. nat. Sér. B, sci. nat. 1: 902 (1906)
 
 #### Original name
-Epichloë kyllingiae Racib.
+Epichloë kyllingae Racib.
 
 ### Remarks
 null

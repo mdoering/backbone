@@ -1,5 +1,4 @@
-Phaeocollybia rufipes H.E. Bigelow SPECIES
-=======
+# Phaeocollybia rufipes H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

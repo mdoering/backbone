@@ -1,5 +1,4 @@
-Bovista pachydermica Speg. SPECIES
-=======
+# Bovista pachydermica Speg. SPECIES
 
 #### Status
 ACCEPTED

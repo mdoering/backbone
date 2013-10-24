@@ -1,5 +1,4 @@
-Opephora pinnata Ehrenberg SPECIES
-=======
+# Opephora pinnata Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

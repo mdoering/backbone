@@ -1,14 +1,13 @@
-Pontilithus S. Gartner, 1968 GENUS
-=======
+# Tranolithus L.E. Stover, 1966 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+Micropaleontology 12: 145.
 
 #### Original name
 null

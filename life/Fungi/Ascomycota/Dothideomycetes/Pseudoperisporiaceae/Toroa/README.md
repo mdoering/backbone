@@ -1,5 +1,4 @@
-Toroa Sydow, 1926 GENUS
-=======
+# Toroa Sydow, 1926 GENUS
 
 #### Status
 ACCEPTED

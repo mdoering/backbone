@@ -1,5 +1,4 @@
-Septoria boycei Dearn. SPECIES
-=======
+# Septoria boycei Dearn. SPECIES
 
 #### Status
 ACCEPTED

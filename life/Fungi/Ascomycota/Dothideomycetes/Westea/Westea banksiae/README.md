@@ -1,5 +1,4 @@
-Westea banksiae H.J. Swart, 1988 SPECIES
-=======
+# Westea banksiae H.J. Swart, 1988 SPECIES
 
 #### Status
 ACCEPTED

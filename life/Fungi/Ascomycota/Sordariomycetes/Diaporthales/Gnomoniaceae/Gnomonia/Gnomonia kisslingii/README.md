@@ -1,5 +1,4 @@
-Gnomonia kisslingii M. Monod SPECIES
-=======
+# Gnomonia kisslingii M. Monod SPECIES
 
 #### Status
 ACCEPTED

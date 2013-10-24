@@ -1,5 +1,4 @@
-Anatolinites dongyingensis (S.Z. Sung, L. Tsao, H.Y. Zhou, Z.T. Guan & K.D. Wang) Elsik, V.S. Ediger & Bati SPECIES
-=======
+# Anatolinites dongyingensis (S.Z. Sung, L. Tsao, H.Y. Zhou, Z.T. Guan & K.D. Wang) Elsik, V.S. Ediger & Bati SPECIES
 
 #### Status
 ACCEPTED

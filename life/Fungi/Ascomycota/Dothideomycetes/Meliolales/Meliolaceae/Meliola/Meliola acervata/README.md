@@ -1,5 +1,4 @@
-Meliola acervata Ellis & Everh. SPECIES
-=======
+# Meliola acervata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ovularia microsticta Sacc. SPECIES
-=======
+# Ovularia microsticta Sacc. SPECIES
 
 #### Status
 ACCEPTED

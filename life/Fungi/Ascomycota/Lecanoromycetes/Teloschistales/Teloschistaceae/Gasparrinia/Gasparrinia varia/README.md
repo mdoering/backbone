@@ -1,5 +1,4 @@
-Gasparrinia varia (Ehrh.) Tornab. SPECIES
-=======
+# Gasparrinia varia (Ehrh.) Tornab. SPECIES
 
 #### Status
 ACCEPTED

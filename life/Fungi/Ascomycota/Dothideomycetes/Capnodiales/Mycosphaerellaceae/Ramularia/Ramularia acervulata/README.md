@@ -1,5 +1,4 @@
-Ramularia acervulata Golovin SPECIES
-=======
+# Ramularia acervulata Golovin SPECIES
 
 #### Status
 ACCEPTED

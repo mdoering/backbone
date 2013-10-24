@@ -1,5 +1,4 @@
-Uredo sinensis Dietel SPECIES
-=======
+# Uredo sinensis Dietel SPECIES
 
 #### Status
 ACCEPTED

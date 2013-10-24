@@ -1,5 +1,4 @@
-Sarcographa impressopunctata (Vain.) Zahlbr. SPECIES
-=======
+# Sarcographa impressopunctata (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

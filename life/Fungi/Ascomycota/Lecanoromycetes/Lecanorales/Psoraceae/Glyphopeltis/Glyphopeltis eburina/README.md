@@ -1,5 +1,4 @@
-Glyphopeltis eburina Brusse SPECIES
-=======
+# Glyphopeltis eburina Brusse SPECIES
 
 #### Status
 ACCEPTED

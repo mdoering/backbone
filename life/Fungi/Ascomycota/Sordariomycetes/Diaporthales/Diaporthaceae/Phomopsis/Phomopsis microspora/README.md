@@ -1,5 +1,4 @@
-Phomopsis microspora Kleb., 1933 SPECIES
-=======
+# Phomopsis microspora Kleb., 1933 SPECIES
 
 #### Status
 ACCEPTED

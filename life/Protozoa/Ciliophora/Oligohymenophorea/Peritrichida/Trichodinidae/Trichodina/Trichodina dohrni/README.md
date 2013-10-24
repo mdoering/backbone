@@ -1,5 +1,4 @@
-Trichodina dohrni Reichenbach-Klinke, 1956 SPECIES
-=======
+# Trichodina dohrni Reichenbach-Klinke, 1956 SPECIES
 
 #### Status
 ACCEPTED

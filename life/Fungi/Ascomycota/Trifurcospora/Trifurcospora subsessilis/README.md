@@ -1,5 +1,4 @@
-Trifurcospora subsessilis K. Matsush. & Matsush. SPECIES
-=======
+# Trifurcospora subsessilis K. Matsush. & Matsush. SPECIES
 
 #### Status
 ACCEPTED

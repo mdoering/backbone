@@ -1,14 +1,13 @@
-Sclerotinia aestivalis Pollock, 1909 SPECIES
-=======
+# Ciboria aestivalis (Pollock) Whetzel, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 27: 302-322 (1935)
 
 #### Original name
 Sclerotinia aestivalis Pollock, 1909

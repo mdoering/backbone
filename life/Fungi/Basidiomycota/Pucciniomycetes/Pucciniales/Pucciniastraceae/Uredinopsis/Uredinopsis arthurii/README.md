@@ -1,5 +1,4 @@
-Uredinopsis arthurii Faull SPECIES
-=======
+# Uredinopsis arthurii Faull SPECIES
 
 #### Status
 ACCEPTED

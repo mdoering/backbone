@@ -1,5 +1,4 @@
-Clitocybe calcarea Velen. SPECIES
-=======
+# Clitocybe calcarea Velen. SPECIES
 
 #### Status
 ACCEPTED

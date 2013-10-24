@@ -1,8 +1,7 @@
-Caloplaca bryochrysion Poelt SPECIES
-=======
+# Caloplaca epiphyta Lynge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Caloplaca epiphyta Lynge
 
 ### Remarks
 null

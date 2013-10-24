@@ -1,5 +1,4 @@
-Coniothyrium dracenae F. Stevens & Weedon SPECIES
-=======
+# Coniothyrium dracenae F. Stevens & Weedon SPECIES
 
 #### Status
 ACCEPTED

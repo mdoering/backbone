@@ -1,5 +1,4 @@
-Phoma thalictricola Hollós SPECIES
-=======
+# Phoma thalictricola Hollós SPECIES
 
 #### Status
 ACCEPTED

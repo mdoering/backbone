@@ -1,5 +1,4 @@
-Kneiffiella decorticans (Gresl. & Rajchenb.) Hjortstam & Ryvarden SPECIES
-=======
+# Kneiffiella decorticans (Gresl. & Rajchenb.) Hjortstam & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

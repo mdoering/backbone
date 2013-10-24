@@ -1,5 +1,4 @@
-Virgulopsis Finlay, 1939 GENUS
-=======
+# Virgulopsis Finlay, 1939 GENUS
 
 #### Status
 ACCEPTED

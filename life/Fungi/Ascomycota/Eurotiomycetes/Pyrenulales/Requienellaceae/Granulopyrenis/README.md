@@ -1,5 +1,4 @@
-Granulopyrenis Aptroot GENUS
-=======
+# Granulopyrenis Aptroot GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pionnotes pseudonectria Speg. SPECIES
-=======
+# Pionnotes pseudonectria Speg. SPECIES
 
 #### Status
 ACCEPTED

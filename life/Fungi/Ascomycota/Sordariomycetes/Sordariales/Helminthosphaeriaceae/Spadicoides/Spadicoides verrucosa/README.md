@@ -1,5 +1,4 @@
-Spadicoides verrucosa V. Rao & de Hoog, 1986 SPECIES
-=======
+# Spadicoides verrucosa V. Rao & de Hoog, 1986 SPECIES
 
 #### Status
 ACCEPTED

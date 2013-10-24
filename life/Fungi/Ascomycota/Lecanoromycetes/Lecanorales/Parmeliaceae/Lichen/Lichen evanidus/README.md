@@ -1,5 +1,4 @@
-Lichen evanidus Vill. SPECIES
-=======
+# Lichen evanidus Vill. SPECIES
 
 #### Status
 ACCEPTED

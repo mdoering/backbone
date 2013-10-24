@@ -1,5 +1,4 @@
-Lignydium elegans (Schwein.) Kuntze SPECIES
-=======
+# Lignydium elegans (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

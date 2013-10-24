@@ -1,5 +1,4 @@
-Phyllachora quadrospora Tehon, 1919 SPECIES
-=======
+# Phyllachora quadrospora Tehon, 1919 SPECIES
 
 #### Status
 ACCEPTED

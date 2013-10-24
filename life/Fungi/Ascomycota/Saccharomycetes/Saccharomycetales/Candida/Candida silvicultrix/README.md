@@ -1,5 +1,4 @@
-Candida silvicultrix Van der Walt, D.B. Scott & Klift, 1972 SPECIES
-=======
+# Candida silvicultrix Van der Walt, D.B. Scott & Klift, 1972 SPECIES
 
 #### Status
 ACCEPTED

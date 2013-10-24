@@ -1,5 +1,4 @@
-Rhabdospora schizandrae Mitrosh. SPECIES
-=======
+# Rhabdospora schizandrae Mitrosh. SPECIES
 
 #### Status
 ACCEPTED

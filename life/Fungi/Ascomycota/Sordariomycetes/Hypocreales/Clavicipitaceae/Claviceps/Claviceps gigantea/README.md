@@ -1,5 +1,4 @@
-Claviceps gigantea S.F. Fuentes, Isla, Ullstrup & A.E. Rodr., 1964 SPECIES
-=======
+# Claviceps gigantea S.F. Fuentes, Isla, Ullstrup & A.E. Rodr., 1964 SPECIES
 
 #### Status
 ACCEPTED

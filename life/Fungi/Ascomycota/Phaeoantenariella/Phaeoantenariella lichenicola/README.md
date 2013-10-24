@@ -1,5 +1,4 @@
-Phaeoantenariella lichenicola Cavalc. SPECIES
-=======
+# Phaeoantenariella lichenicola Cavalc. SPECIES
 
 #### Status
 ACCEPTED

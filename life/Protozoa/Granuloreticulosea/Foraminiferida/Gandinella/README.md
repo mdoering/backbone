@@ -1,5 +1,4 @@
-Gandinella Ciarapica & Zaninetti, 1985 GENUS
-=======
+# Gandinella Ciarapica & Zaninetti, 1985 GENUS
 
 #### Status
 ACCEPTED

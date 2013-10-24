@@ -1,5 +1,4 @@
-Dictyoglomaceae FAMILY
-=======
+# Dictyoglomaceae FAMILY
 
 #### Status
 ACCEPTED

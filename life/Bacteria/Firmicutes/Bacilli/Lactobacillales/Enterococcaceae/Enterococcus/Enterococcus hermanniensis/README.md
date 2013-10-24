@@ -1,5 +1,4 @@
-Enterococcus hermanniensis Koort et al., 2004 SPECIES
-=======
+# Enterococcus hermanniensis Koort et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

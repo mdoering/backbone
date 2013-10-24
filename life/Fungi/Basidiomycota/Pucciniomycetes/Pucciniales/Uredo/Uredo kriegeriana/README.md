@@ -1,5 +1,4 @@
-Uredo kriegeriana Syd. & P. Syd. SPECIES
-=======
+# Uredo kriegeriana Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

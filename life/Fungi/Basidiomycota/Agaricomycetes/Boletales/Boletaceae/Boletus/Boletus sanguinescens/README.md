@@ -1,5 +1,4 @@
-Boletus sanguinescens Velen. SPECIES
-=======
+# Boletus sanguinescens Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Waynea stoechadiana (Abassi & Cl. Roux) Cl. Roux & P. Clerc SPECIES
-=======
+# Waynea stoechadiana (Abassi & Cl. Roux) Cl. Roux & P. Clerc SPECIES
 
 #### Status
 ACCEPTED

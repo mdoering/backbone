@@ -1,5 +1,4 @@
-Crocosphaera GENUS
-=======
+# Crocosphaera GENUS
 
 #### Status
 ACCEPTED

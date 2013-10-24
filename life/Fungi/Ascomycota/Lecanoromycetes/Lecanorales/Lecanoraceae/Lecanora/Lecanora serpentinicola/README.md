@@ -1,5 +1,4 @@
-Lecanora serpentinicola Suza SPECIES
-=======
+# Lecanora serpentinicola Suza SPECIES
 
 #### Status
 ACCEPTED

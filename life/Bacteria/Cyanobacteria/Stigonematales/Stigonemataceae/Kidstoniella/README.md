@@ -1,5 +1,4 @@
-Kidstoniella Croft & George, 1959 GENUS
-=======
+# Kidstoniella Croft & George, 1959 GENUS
 
 #### Status
 ACCEPTED

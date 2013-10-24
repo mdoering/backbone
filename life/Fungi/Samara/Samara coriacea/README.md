@@ -1,5 +1,4 @@
-Samara coriacea Sw. SPECIES
-=======
+# Samara coriacea Sw. SPECIES
 
 #### Status
 ACCEPTED

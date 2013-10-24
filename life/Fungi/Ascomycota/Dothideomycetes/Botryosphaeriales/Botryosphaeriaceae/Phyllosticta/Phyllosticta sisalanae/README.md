@@ -1,5 +1,4 @@
-Phyllosticta sisalanae Sawada SPECIES
-=======
+# Phyllosticta sisalanae Sawada SPECIES
 
 #### Status
 ACCEPTED

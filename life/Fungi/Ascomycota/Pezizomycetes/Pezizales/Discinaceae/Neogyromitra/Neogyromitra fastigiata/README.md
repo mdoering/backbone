@@ -1,5 +1,4 @@
-Neogyromitra fastigiata (Krombh.) McKnight SPECIES
-=======
+# Neogyromitra fastigiata (Krombh.) McKnight SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dyadosporites elsikii (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
-=======
+# Dyadosporites elsikii (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

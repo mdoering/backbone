@@ -1,5 +1,4 @@
-Tabellaria kuetzingiana Lange-Bertalot SPECIES
-=======
+# Tabellaria kuetzingiana Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

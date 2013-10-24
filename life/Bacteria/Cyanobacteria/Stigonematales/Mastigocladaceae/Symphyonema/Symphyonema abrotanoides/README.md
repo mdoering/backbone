@@ -1,5 +1,4 @@
-Symphyonema abrotanoides Sieber SPECIES
-=======
+# Symphyonema abrotanoides Sieber SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oolina hertwigiana (Brady) SPECIES
-=======
+# Oolina hertwigiana (Brady) SPECIES
 
 #### Status
 ACCEPTED

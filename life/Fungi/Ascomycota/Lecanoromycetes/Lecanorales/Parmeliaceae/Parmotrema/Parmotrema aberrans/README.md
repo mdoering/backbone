@@ -1,5 +1,4 @@
-Parmotrema aberrans (Vain.) L.S. Canêz & Marcelli SPECIES
-=======
+# Parmotrema aberrans (Vain.) L.S. Canêz & Marcelli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Saccharobacter fermentatus Yaping et al., 1990 SPECIES
-=======
+# Saccharobacter fermentatus Yaping et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

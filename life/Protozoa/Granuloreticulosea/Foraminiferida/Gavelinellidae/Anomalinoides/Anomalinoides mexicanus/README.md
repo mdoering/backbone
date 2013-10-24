@@ -1,5 +1,4 @@
-Anomalinoides mexicanus Parker, 1954 SPECIES
-=======
+# Anomalinoides mexicanus Parker, 1954 SPECIES
 
 #### Status
 ACCEPTED

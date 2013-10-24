@@ -1,5 +1,4 @@
-Polycosta Cameron & O'Donoghue, 2003 GENUS
-=======
+# Polycosta Cameron & O'Donoghue, 2003 GENUS
 
 #### Status
 ACCEPTED

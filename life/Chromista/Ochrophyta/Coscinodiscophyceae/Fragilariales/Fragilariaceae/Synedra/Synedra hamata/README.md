@@ -1,5 +1,4 @@
-Synedra hamata W. Smith SPECIES
-=======
+# Synedra hamata W. Smith SPECIES
 
 #### Status
 ACCEPTED

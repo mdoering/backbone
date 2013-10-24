@@ -1,5 +1,4 @@
-Myxosporium necans Peck, 1908 SPECIES
-=======
+# Myxosporium necans Peck, 1908 SPECIES
 
 #### Status
 ACCEPTED

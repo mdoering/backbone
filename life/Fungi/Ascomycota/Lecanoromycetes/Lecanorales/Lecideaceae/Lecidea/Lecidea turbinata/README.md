@@ -1,5 +1,4 @@
-Lecidea turbinata Tuck. SPECIES
-=======
+# Lecidea turbinata Tuck. SPECIES
 
 #### Status
 ACCEPTED

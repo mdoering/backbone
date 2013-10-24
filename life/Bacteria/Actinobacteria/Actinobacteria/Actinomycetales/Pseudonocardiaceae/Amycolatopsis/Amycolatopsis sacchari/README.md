@@ -1,5 +1,4 @@
-Amycolatopsis sacchari Goodfellow et al., 2001 SPECIES
-=======
+# Amycolatopsis sacchari Goodfellow et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

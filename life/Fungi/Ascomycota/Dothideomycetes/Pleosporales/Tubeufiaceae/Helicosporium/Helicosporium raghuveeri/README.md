@@ -1,17 +1,16 @@
-Helicosporium raghuveerii V.G. Rao & Varghese SPECIES
-=======
+# Helicosporium raghuveeri V.G. Rao & Varghese SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Int. J. Mycol. Lichenol. 3(2-3): 297 (1988)
 
 #### Original name
-Helicosporium raghuveerii V.G. Rao & Varghese
+Helicosporium raghuveeri V.G. Rao & Varghese
 
 ### Remarks
 null

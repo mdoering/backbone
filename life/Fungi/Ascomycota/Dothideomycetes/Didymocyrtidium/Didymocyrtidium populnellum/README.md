@@ -1,5 +1,4 @@
-Didymocyrtidium populnellum SPECIES
-=======
+# Didymocyrtidium populnellum SPECIES
 
 #### Status
 ACCEPTED

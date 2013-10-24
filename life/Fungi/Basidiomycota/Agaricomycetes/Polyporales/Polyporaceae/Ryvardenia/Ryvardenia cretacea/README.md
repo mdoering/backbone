@@ -1,14 +1,13 @@
-Polyporus cretaceus Lloyd, 1915 SPECIES
-=======
+# Ryvardenia cretacea (Lloyd) Rajchenb., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 4 (Syn. Apus) 302 (1915)
+Nordic Jl Bot. 14(4): 436 (1994)
 
 #### Original name
 Polyporus cretaceus Lloyd, 1915

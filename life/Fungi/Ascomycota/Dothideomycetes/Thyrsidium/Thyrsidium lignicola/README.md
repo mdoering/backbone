@@ -1,5 +1,4 @@
-Thyrsidium lignicola Höhn. SPECIES
-=======
+# Thyrsidium lignicola Höhn. SPECIES
 
 #### Status
 ACCEPTED

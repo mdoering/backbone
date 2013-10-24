@@ -1,5 +1,4 @@
-Phoma indigoferae Sacc. SPECIES
-=======
+# Phoma indigoferae Sacc. SPECIES
 
 #### Status
 ACCEPTED

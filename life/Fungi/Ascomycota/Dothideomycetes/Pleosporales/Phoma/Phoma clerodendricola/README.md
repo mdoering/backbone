@@ -1,5 +1,4 @@
-Phoma clerodendricola Henn. SPECIES
-=======
+# Phoma clerodendricola Henn. SPECIES
 
 #### Status
 ACCEPTED

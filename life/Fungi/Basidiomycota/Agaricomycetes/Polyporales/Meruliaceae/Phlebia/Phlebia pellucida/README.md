@@ -1,5 +1,4 @@
-Phlebia pellucida Hjortstam & Ryvarden, 1988 SPECIES
-=======
+# Phlebia pellucida Hjortstam & Ryvarden, 1988 SPECIES
 
 #### Status
 ACCEPTED

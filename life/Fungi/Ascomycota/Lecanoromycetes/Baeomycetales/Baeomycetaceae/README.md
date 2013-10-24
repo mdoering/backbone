@@ -1,5 +1,4 @@
-Baeomycetaceae Dumort. FAMILY
-=======
+# Baeomycetaceae Dumort. FAMILY
 
 #### Status
 ACCEPTED

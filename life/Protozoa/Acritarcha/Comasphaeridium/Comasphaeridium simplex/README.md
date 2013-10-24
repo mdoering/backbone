@@ -1,5 +1,4 @@
-Comasphaeridium simplex (Thusu, 1973) Eisenack et al., 1979 SPECIES
-=======
+# Comasphaeridium simplex (Thusu, 1973) Eisenack et al., 1979 SPECIES
 
 #### Status
 ACCEPTED

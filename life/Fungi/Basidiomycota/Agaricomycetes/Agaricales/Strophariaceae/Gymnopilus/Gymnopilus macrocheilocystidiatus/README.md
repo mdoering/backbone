@@ -1,5 +1,4 @@
-Gymnopilus macrocheilocystidiatus Guzm.-Dáv. & Guzmán SPECIES
-=======
+# Gymnopilus macrocheilocystidiatus Guzm.-Dáv. & Guzmán SPECIES
 
 #### Status
 ACCEPTED

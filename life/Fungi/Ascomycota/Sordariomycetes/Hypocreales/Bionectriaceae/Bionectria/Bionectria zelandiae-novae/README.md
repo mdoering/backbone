@@ -1,17 +1,16 @@
-Bionectria zelandiaenovae Schroers SPECIES
-=======
+# Bionectria zelandiae-novae Schroers, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 46: 97 (2001)
 
 #### Original name
-Bionectria zelandiaenovae Schroers
+Bionectria zelandiae-novae Schroers, 2001
 
 ### Remarks
 null

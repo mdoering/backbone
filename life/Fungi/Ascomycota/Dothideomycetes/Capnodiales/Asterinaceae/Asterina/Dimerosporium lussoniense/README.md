@@ -1,5 +1,4 @@
-Dimerosporium lussoniense Sacc. SPECIES
-=======
+# Dimerosporium lussoniense Sacc. SPECIES
 
 #### Status
 ACCEPTED

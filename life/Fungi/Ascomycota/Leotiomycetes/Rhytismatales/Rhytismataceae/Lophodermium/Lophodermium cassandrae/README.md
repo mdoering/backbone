@@ -1,5 +1,4 @@
-Lophodermium cassandrae (Peck) Ellis & Everh. SPECIES
-=======
+# Lophodermium cassandrae (Peck) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

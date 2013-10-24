@@ -1,5 +1,4 @@
-Polystictus fontanae Speg. SPECIES
-=======
+# Polystictus fontanae Speg. SPECIES
 
 #### Status
 ACCEPTED

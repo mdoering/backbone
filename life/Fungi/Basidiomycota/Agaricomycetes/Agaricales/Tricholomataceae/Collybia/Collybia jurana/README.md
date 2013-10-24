@@ -1,5 +1,4 @@
-Collybia jurana Quél. SPECIES
-=======
+# Collybia jurana Quél. SPECIES
 
 #### Status
 ACCEPTED

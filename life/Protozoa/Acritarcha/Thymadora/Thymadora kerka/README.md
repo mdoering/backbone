@@ -1,5 +1,4 @@
-Thymadora kerka Clendening & Wood, 1981 SPECIES
-=======
+# Thymadora kerka Clendening & Wood, 1981 SPECIES
 
 #### Status
 ACCEPTED

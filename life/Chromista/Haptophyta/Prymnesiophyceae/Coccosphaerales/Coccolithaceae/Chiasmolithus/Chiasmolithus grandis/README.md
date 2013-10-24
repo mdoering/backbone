@@ -1,5 +1,4 @@
-Chiasmolithus grandis (Bramlette & Riedel, 1954) Radomski, 1968 SPECIES
-=======
+# Chiasmolithus grandis (Bramlette & Riedel, 1954) Radomski, 1968 SPECIES
 
 #### Status
 ACCEPTED

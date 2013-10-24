@@ -1,5 +1,4 @@
-Cortinarius phaeosmus Rob. Henry SPECIES
-=======
+# Cortinarius phaeosmus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

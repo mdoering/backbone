@@ -1,5 +1,4 @@
-Tildenia Kossinskaja, 1926 GENUS
-=======
+# Tildenia Kossinskaja, 1926 GENUS
 
 #### Status
 ACCEPTED

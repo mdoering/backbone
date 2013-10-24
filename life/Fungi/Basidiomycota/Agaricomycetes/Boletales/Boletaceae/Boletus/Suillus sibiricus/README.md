@@ -1,8 +1,7 @@
-Boletus sibiricus (Singer) A.H. Sm., 1949 SPECIES
-=======
+# Suillus sibiricus (Singer) Singer, 1945 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

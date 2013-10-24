@@ -1,14 +1,13 @@
-Sphaeronaema coryli Peck, 1872 SPECIES
-=======
+# Cryptosporiopsis coryli (Peck) B. Sutton, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+The Coelomycetes (Kew) 510 (1980)
 
 #### Original name
 Sphaeronaema coryli Peck, 1872

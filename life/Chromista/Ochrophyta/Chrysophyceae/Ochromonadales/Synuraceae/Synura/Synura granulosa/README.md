@@ -1,5 +1,4 @@
-Synura granulosa var. pusilla Playfair VARIETY
-=======
+# Synura granulosa Playfair SPECIES
 
 #### Status
 ACCEPTED

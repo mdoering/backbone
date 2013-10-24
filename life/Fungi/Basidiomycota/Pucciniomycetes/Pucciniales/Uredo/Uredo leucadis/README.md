@@ -1,5 +1,4 @@
-Uredo leucadis Syd. & P. Syd. SPECIES
-=======
+# Uredo leucadis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gliophorus bichromus E. Horak SPECIES
-=======
+# Gliophorus bichromus E. Horak SPECIES
 
 #### Status
 ACCEPTED

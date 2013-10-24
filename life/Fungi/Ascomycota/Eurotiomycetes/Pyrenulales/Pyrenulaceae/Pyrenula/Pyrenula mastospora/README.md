@@ -1,5 +1,4 @@
-Pyrenula mastospora SPECIES
-=======
+# Pyrenula mastospora SPECIES
 
 #### Status
 ACCEPTED

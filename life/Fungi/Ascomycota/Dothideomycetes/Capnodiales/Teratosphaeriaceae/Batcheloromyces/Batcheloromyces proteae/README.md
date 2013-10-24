@@ -1,14 +1,13 @@
-Stigmina proteae (Marasas, P.S. van Wyk & Knox-Dav.) B. Sutton & Pascoe, 1989 SPECIES
-=======
+# Batcheloromyces proteae Marasas, P.S. van Wyk & Knox-Dav., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Res. 92(2): 214 (1989)
+Jl S. Afr. Bot. 41(1): 43 (1975)
 
 #### Original name
 Batcheloromyces proteae Marasas, P.S. van Wyk & Knox-Dav., 1975

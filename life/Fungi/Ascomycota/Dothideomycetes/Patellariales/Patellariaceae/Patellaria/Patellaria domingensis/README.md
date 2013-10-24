@@ -1,5 +1,4 @@
-Patellaria domingensis var. domingensis VARIETY
-=======
+# Patellaria domingensis Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Patellaria domingensis var. domingensis
+Patellaria domingensis Pers.
 
 ### Remarks
 null

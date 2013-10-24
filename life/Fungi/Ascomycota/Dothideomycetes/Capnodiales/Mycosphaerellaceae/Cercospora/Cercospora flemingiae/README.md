@@ -1,5 +1,4 @@
-Cercospora flemingiae S.M. Singh SPECIES
-=======
+# Cercospora flemingiae S.M. Singh SPECIES
 
 #### Status
 ACCEPTED

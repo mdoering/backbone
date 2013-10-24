@@ -1,5 +1,4 @@
-Androsaceus thollonis Pat. & Har. SPECIES
-=======
+# Androsaceus thollonis Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

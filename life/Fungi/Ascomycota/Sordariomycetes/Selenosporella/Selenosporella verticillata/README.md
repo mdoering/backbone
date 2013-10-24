@@ -1,5 +1,4 @@
-Selenosporella verticillata B. Sutton & Hodges, 1978 SPECIES
-=======
+# Selenosporella verticillata B. Sutton & Hodges, 1978 SPECIES
 
 #### Status
 ACCEPTED

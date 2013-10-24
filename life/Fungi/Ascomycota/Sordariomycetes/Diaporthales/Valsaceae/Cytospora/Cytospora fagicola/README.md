@@ -1,5 +1,4 @@
-Cytospora fagicola Sacc. ex Fuckel SPECIES
-=======
+# Cytospora fagicola Sacc. ex Fuckel SPECIES
 
 #### Status
 ACCEPTED

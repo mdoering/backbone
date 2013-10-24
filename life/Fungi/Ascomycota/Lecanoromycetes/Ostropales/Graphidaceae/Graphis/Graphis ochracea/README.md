@@ -1,5 +1,4 @@
-Graphis ochracea Hepp SPECIES
-=======
+# Graphis ochracea Hepp SPECIES
 
 #### Status
 ACCEPTED

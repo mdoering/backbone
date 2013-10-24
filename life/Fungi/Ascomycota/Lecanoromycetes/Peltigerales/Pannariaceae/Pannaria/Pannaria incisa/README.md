@@ -1,5 +1,4 @@
-Pannaria incisa Müll. Arg. SPECIES
-=======
+# Pannaria incisa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

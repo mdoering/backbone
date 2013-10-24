@@ -1,5 +1,4 @@
-Cercospora tiliae Peck SPECIES
-=======
+# Cercospora tiliae Peck SPECIES
 
 #### Status
 ACCEPTED

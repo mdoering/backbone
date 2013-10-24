@@ -1,5 +1,4 @@
-Thalassiphora maxima K. P. Jain & P. Millepied SPECIES
-=======
+# Thalassiphora maxima K. P. Jain & P. Millepied SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helvella pyxidata Schaeff. SPECIES
-=======
+# Helvella pyxidata Schaeff. SPECIES
 
 #### Status
 ACCEPTED

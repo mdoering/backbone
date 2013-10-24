@@ -1,5 +1,4 @@
-Irenopsis pteridicola (F. Stevens) Hansf. SPECIES
-=======
+# Irenopsis pteridicola (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED

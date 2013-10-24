@@ -1,5 +1,4 @@
-Penicillium jiangxiense H.Z. Kong & Z.Q. Liang SPECIES
-=======
+# Penicillium jiangxiense H.Z. Kong & Z.Q. Liang SPECIES
 
 #### Status
 ACCEPTED

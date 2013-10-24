@@ -1,5 +1,4 @@
-Pseudocercospora pometiae U. Braun & R.G. Shivas SPECIES
-=======
+# Pseudocercospora pometiae U. Braun & R.G. Shivas SPECIES
 
 #### Status
 ACCEPTED

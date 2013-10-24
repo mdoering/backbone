@@ -1,5 +1,4 @@
-Rhabdolekiskus parallelus F.H. Wind & P. Cepek SPECIES
-=======
+# Rhabdolekiskus parallelus F.H. Wind & P. Cepek SPECIES
 
 #### Status
 ACCEPTED

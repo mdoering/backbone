@@ -1,5 +1,4 @@
-Chromulina nordstedtii SPECIES
-=======
+# Chromulina nordstedtii SPECIES
 
 #### Status
 ACCEPTED

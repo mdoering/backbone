@@ -1,5 +1,4 @@
-Chaetomium boulangeri Lindf. SPECIES
-=======
+# Chaetomium boulangeri Lindf. SPECIES
 
 #### Status
 ACCEPTED

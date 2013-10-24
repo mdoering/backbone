@@ -1,5 +1,4 @@
-Nummulites carmenensis SPECIES
-=======
+# Nummulites carmenensis SPECIES
 
 #### Status
 ACCEPTED

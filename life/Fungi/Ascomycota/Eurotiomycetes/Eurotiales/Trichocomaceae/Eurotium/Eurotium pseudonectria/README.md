@@ -1,5 +1,4 @@
-Eurotium pseudonectria Speg. SPECIES
-=======
+# Eurotium pseudonectria Speg. SPECIES
 
 #### Status
 ACCEPTED

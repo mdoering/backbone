@@ -1,5 +1,4 @@
-Arthrosporia tropicalis (Castell. & Chalm.) Grigoraki SPECIES
-=======
+# Arthrosporia tropicalis (Castell. & Chalm.) Grigoraki SPECIES
 
 #### Status
 ACCEPTED

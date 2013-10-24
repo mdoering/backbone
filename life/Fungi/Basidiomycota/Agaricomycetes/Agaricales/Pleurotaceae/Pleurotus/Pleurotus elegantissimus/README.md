@@ -1,5 +1,4 @@
-Pleurotus elegantissimus Speg. SPECIES
-=======
+# Pleurotus elegantissimus Speg. SPECIES
 
 #### Status
 ACCEPTED

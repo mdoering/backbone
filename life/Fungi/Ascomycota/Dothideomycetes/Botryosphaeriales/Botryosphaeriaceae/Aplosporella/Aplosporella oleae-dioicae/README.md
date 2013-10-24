@@ -1,17 +1,16 @@
-Haplosporella oleae-dioicae Subhedar & V.G. Rao SPECIES
-=======
+# Aplosporella oleae-dioicae Subhedar & V.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of the University of Poona 52: 324 (1979)
 
 #### Original name
-Haplosporella oleae-dioicae Subhedar & V.G. Rao
+Aplosporella oleae-dioicae Subhedar & V.G. Rao
 
 ### Remarks
 null

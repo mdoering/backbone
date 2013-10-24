@@ -1,5 +1,4 @@
-Melasmia imitans Peck SPECIES
-=======
+# Melasmia imitans Peck SPECIES
 
 #### Status
 ACCEPTED

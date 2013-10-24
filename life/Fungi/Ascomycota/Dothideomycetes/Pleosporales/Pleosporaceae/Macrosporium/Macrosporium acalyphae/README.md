@@ -1,5 +1,4 @@
-Macrosporium acalyphae Nelen SPECIES
-=======
+# Macrosporium acalyphae Nelen SPECIES
 
 #### Status
 ACCEPTED

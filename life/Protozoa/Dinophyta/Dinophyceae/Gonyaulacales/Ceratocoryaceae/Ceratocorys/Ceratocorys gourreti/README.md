@@ -1,5 +1,4 @@
-Ceratocorys gourreti Paulsen SPECIES
-=======
+# Ceratocorys gourreti Paulsen SPECIES
 
 #### Status
 ACCEPTED

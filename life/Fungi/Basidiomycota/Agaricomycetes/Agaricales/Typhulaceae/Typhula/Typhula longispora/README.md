@@ -1,5 +1,4 @@
-Typhula longispora Corner, K.S. Thind & Dev, 1957 SPECIES
-=======
+# Typhula longispora Corner, K.S. Thind & Dev, 1957 SPECIES
 
 #### Status
 ACCEPTED

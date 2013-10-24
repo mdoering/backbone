@@ -1,5 +1,4 @@
-Platycarpa Couch GENUS
-=======
+# Platycarpa Couch GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymella goyazensis Sacc. & P. Syd. SPECIES
-=======
+# Didymella goyazensis Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

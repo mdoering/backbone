@@ -1,5 +1,4 @@
-Leptophyma lauracearum Bat., Peres & J.L. Bezerra SPECIES
-=======
+# Leptophyma lauracearum Bat., Peres & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

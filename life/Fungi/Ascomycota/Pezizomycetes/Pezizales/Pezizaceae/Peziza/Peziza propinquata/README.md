@@ -1,5 +1,4 @@
-Peziza propinquata P. Karst. SPECIES
-=======
+# Peziza propinquata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichobasis microspora Vize SPECIES
-=======
+# Trichobasis microspora Vize SPECIES
 
 #### Status
 ACCEPTED

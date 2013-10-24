@@ -1,5 +1,4 @@
-Thyridaria turrita (Cooke & Peck) M.E. Barr SPECIES
-=======
+# Thyridaria turrita (Cooke & Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

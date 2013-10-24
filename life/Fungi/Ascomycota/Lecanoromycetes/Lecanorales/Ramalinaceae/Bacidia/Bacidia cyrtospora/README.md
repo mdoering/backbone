@@ -1,5 +1,4 @@
-Bacidia cyrtospora Imshaug SPECIES
-=======
+# Bacidia cyrtospora Imshaug SPECIES
 
 #### Status
 ACCEPTED

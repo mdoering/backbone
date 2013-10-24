@@ -1,5 +1,4 @@
-Phyllosticta begoniicola F. Stevens & Baechler SPECIES
-=======
+# Phyllosticta begoniicola F. Stevens & Baechler SPECIES
 
 #### Status
 ACCEPTED

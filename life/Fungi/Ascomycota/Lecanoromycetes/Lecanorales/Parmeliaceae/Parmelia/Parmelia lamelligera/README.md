@@ -1,5 +1,4 @@
-Parmelia lamelligera Taylor SPECIES
-=======
+# Parmelia lamelligera Taylor SPECIES
 
 #### Status
 ACCEPTED

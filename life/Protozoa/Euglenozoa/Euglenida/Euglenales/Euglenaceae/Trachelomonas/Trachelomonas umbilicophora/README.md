@@ -1,5 +1,4 @@
-Trachelomonas umbilicophora var. deflandrei Conrad VARIETY
-=======
+# Trachelomonas umbilicophora Conrad SPECIES
 
 #### Status
 ACCEPTED

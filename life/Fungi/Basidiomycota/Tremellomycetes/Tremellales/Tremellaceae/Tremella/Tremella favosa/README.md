@@ -1,5 +1,4 @@
-Tremella favosa Link SPECIES
-=======
+# Tremella favosa Link SPECIES
 
 #### Status
 ACCEPTED

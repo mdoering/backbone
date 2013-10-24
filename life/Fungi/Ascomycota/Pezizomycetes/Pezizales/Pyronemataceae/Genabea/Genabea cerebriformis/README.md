@@ -1,5 +1,4 @@
-Genabea cerebriformis (Harkn.) Trappe SPECIES
-=======
+# Genabea cerebriformis (Harkn.) Trappe SPECIES
 
 #### Status
 ACCEPTED

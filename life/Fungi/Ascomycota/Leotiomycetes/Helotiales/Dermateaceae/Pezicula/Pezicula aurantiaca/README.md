@@ -1,5 +1,4 @@
-Pezicula aurantiaca Rehm, 1912 SPECIES
-=======
+# Pezicula aurantiaca Rehm, 1912 SPECIES
 
 #### Status
 ACCEPTED

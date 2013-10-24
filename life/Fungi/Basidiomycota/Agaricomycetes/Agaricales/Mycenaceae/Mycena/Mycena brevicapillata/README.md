@@ -1,5 +1,4 @@
-Mycena brevicapillata Har. Takah. SPECIES
-=======
+# Mycena brevicapillata Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

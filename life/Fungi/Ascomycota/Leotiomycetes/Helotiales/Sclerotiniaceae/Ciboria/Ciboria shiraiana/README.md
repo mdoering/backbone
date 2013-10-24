@@ -1,5 +1,4 @@
-Ciboria shiraiana (Henn.) Whetzel SPECIES
-=======
+# Ciboria shiraiana (Henn.) Whetzel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leiosphaeridia rosella Sheshegova, 1975 ex Sheshegova, 1984 SPECIES
-=======
+# Leiosphaeridia rosella Sheshegova, 1975 ex Sheshegova, 1984 SPECIES
 
 #### Status
 ACCEPTED

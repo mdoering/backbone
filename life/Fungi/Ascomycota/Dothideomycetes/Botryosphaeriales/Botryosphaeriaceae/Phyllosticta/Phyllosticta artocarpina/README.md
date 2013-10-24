@@ -1,14 +1,13 @@
-Phyllostictina artocarpina (Syd., P. Syd. & E.J. Butler) Syd., 1927 SPECIES
-=======
+# Phyllosticta artocarpina Syd., P. Syd. & E.J. Butler, 1916 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Petrak & Sydow, Feddes Repert. Spec. Nov. Regni Veg. , Beih. 42: 189 (1927)
+Annls mycol. 14(3/4): 180 (1916)
 
 #### Original name
 Phyllosticta artocarpina Syd., P. Syd. & E.J. Butler, 1916

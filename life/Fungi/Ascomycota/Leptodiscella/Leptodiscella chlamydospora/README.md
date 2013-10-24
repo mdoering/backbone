@@ -1,5 +1,4 @@
-Leptodiscella chlamydospora Udagawa & Toyaz. SPECIES
-=======
+# Leptodiscella chlamydospora Udagawa & Toyaz. SPECIES
 
 #### Status
 ACCEPTED

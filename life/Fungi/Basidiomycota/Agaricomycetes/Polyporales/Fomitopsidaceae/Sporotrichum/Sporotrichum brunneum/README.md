@@ -1,5 +1,4 @@
-Sporotrichum brunneum Schenk SPECIES
-=======
+# Sporotrichum brunneum Schenk SPECIES
 
 #### Status
 ACCEPTED

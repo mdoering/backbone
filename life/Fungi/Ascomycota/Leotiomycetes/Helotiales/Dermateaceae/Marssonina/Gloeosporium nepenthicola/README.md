@@ -1,5 +1,4 @@
-Gloeosporium nepenthicola Henn. & Died. SPECIES
-=======
+# Gloeosporium nepenthicola Henn. & Died. SPECIES
 
 #### Status
 ACCEPTED

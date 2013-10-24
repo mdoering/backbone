@@ -1,5 +1,4 @@
-Myxormia hypospila Cooke SPECIES
-=======
+# Myxormia hypospila Cooke SPECIES
 
 #### Status
 ACCEPTED

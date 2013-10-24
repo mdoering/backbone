@@ -1,5 +1,4 @@
-Telomyxa glugeiformis L. Léger & E. Hesse SPECIES
-=======
+# Telomyxa glugeiformis L. Léger & E. Hesse SPECIES
 
 #### Status
 ACCEPTED

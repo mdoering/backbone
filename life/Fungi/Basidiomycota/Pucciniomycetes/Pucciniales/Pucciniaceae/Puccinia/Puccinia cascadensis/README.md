@@ -1,5 +1,4 @@
-Puccinia cascadensis (Savile) Cummins SPECIES
-=======
+# Puccinia cascadensis (Savile) Cummins SPECIES
 
 #### Status
 ACCEPTED

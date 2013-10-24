@@ -1,5 +1,4 @@
-Sphaeronaema agaves P. Karst. SPECIES
-=======
+# Sphaeronaema agaves P. Karst. SPECIES
 
 #### Status
 ACCEPTED

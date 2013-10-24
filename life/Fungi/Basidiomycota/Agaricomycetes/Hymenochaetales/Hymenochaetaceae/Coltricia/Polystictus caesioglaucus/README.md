@@ -1,5 +1,4 @@
-Polystictus caesioglaucus (Cooke) Cooke SPECIES
-=======
+# Polystictus caesioglaucus (Cooke) Cooke SPECIES
 
 #### Status
 ACCEPTED

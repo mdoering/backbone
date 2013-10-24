@@ -1,5 +1,4 @@
-Oidiopsis echinopis Golovin SPECIES
-=======
+# Oidiopsis echinopis Golovin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Icmadophila aversa (Nyl.) Rambold & Hertel SPECIES
-=======
+# Icmadophila aversa (Nyl.) Rambold & Hertel SPECIES
 
 #### Status
 ACCEPTED

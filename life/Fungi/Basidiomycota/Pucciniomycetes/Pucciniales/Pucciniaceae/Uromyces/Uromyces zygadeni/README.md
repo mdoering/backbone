@@ -1,5 +1,4 @@
-Uromyces zygadeni Peck SPECIES
-=======
+# Uromyces zygadeni Peck SPECIES
 
 #### Status
 ACCEPTED

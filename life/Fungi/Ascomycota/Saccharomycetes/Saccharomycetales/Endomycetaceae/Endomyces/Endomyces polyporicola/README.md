@@ -1,5 +1,4 @@
-Endomyces polyporicola (T. Schumach. & Ryvarden) de Hoog, M.T. Sm. & E. Guého SPECIES
-=======
+# Endomyces polyporicola (T. Schumach. & Ryvarden) de Hoog, M.T. Sm. & E. Guého SPECIES
 
 #### Status
 ACCEPTED

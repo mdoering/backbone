@@ -1,5 +1,4 @@
-Rhytidiella Zalasky GENUS
-=======
+# Rhytidiella Zalasky GENUS
 
 #### Status
 ACCEPTED

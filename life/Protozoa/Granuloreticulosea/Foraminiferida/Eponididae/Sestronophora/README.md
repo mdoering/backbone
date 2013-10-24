@@ -1,5 +1,4 @@
-Sestronophora Loeblich & Tappan, 1957 GENUS
-=======
+# Sestronophora Loeblich & Tappan, 1957 GENUS
 
 #### Status
 ACCEPTED

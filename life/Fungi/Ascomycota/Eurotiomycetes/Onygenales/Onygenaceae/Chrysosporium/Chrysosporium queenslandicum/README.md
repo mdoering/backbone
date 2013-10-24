@@ -1,5 +1,4 @@
-Chrysosporium queenslandicum Apinis & R.G. Rees, 1977 SPECIES
-=======
+# Chrysosporium queenslandicum Apinis & R.G. Rees, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsina GENUS
-=======
+# Phomopsina GENUS
 
 #### Status
 ACCEPTED

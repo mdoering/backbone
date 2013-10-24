@@ -1,5 +1,4 @@
-Caloplaca hookeri (C.W. Dodge) Søchting, Øvstedal & Sancho SPECIES
-=======
+# Caloplaca hookeri (C.W. Dodge) Søchting, Øvstedal & Sancho SPECIES
 
 #### Status
 ACCEPTED

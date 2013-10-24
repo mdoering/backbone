@@ -1,17 +1,16 @@
-Mucor sciurinus var. humilis (Naumov) Pidopl. & Milko VARIETY
-=======
+# Mucor flavus Bainier, 1903 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atlas Mukor. Grib. (Kiev) 76 (1971)
+Bull. Soc. mycol. Fr. 19: 157 (1903)
 
 #### Original name
-Mucor humilis Naumov
+Mucor flavus Bainier, 1903
 
 ### Remarks
 null

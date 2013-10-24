@@ -1,5 +1,4 @@
-Brachysporium syagri Bat. SPECIES
-=======
+# Brachysporium syagri Bat. SPECIES
 
 #### Status
 ACCEPTED

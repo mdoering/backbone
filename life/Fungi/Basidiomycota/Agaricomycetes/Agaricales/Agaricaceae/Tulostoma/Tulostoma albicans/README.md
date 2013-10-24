@@ -1,5 +1,4 @@
-Tulostoma albicans var. albicans VARIETY
-=======
+# Tulostoma albicans V.S. White SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 28: 428 (1901)
 
 #### Original name
-Tulostoma albicans var. albicans
+Tulostoma albicans V.S. White
 
 ### Remarks
 null

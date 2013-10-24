@@ -1,5 +1,4 @@
-Gibberidea longitudinalis (Peck) Kuntze SPECIES
-=======
+# Gibberidea longitudinalis (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

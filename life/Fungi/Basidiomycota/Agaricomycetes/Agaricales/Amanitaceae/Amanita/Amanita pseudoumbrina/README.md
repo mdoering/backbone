@@ -1,5 +1,4 @@
-Amanita pseudoumbrina Secr. SPECIES
-=======
+# Amanita pseudoumbrina Secr. SPECIES
 
 #### Status
 ACCEPTED

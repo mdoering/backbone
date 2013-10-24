@@ -1,5 +1,4 @@
-Chaetapiospora minor M.E. Barr SPECIES
-=======
+# Chaetapiospora minor M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

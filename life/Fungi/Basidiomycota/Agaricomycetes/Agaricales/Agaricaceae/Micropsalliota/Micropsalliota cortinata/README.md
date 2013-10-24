@@ -1,5 +1,4 @@
-Micropsalliota cortinata (Heinem.) Heinem. SPECIES
-=======
+# Micropsalliota cortinata (Heinem.) Heinem. SPECIES
 
 #### Status
 ACCEPTED

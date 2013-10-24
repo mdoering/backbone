@@ -1,5 +1,4 @@
-Laestadia apiahyna Speg. SPECIES
-=======
+# Laestadia apiahyna Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniochaeta rhopalochaeta A.I. Romero & Carmarán SPECIES
-=======
+# Coniochaeta rhopalochaeta A.I. Romero & Carmarán SPECIES
 
 #### Status
 ACCEPTED

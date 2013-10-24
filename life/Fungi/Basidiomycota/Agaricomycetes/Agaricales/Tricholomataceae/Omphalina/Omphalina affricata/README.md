@@ -1,5 +1,4 @@
-Omphalina affricata (Fr.) Raithelh. SPECIES
-=======
+# Omphalina affricata (Fr.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

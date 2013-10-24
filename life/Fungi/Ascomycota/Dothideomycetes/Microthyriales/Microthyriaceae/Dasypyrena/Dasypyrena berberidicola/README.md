@@ -1,5 +1,4 @@
-Dasypyrena berberidicola Speg. SPECIES
-=======
+# Dasypyrena berberidicola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizovalvia Yan, 1985 GENUS
-=======
+# Schizovalvia Yan, 1985 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Holosticha violacea Kahl, 1928 SPECIES
-=======
+# Holosticha violacea Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entomophaga aphidis (Hoffm.) SPECIES
-=======
+# Entomophaga aphidis (Hoffm.) SPECIES
 
 #### Status
 ACCEPTED

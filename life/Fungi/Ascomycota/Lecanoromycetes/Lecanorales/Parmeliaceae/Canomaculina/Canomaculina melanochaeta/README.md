@@ -1,5 +1,4 @@
-Canomaculina melanochaeta (Kurok.) Elix SPECIES
-=======
+# Canomaculina melanochaeta (Kurok.) Elix SPECIES
 
 #### Status
 ACCEPTED

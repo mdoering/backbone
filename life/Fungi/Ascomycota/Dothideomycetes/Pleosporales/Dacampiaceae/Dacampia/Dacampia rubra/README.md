@@ -1,5 +1,4 @@
-Dacampia rubra Halici, Candan & Calat. SPECIES
-=======
+# Dacampia rubra Halici, Candan & Calat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhytismites carpini (Menzel {?} ) Mesch. SPECIES
-=======
+# Rhytismites carpini (Menzel {?} ) Mesch. SPECIES
 
 #### Status
 ACCEPTED

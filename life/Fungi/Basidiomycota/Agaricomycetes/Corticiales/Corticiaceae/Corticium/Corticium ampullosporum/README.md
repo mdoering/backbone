@@ -1,5 +1,4 @@
-Corticium ampullosporum G. Cunn. SPECIES
-=======
+# Corticium ampullosporum G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

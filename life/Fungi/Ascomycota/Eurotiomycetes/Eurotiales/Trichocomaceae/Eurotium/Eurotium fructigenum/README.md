@@ -1,5 +1,4 @@
-Eurotium fructigenum G. Martin SPECIES
-=======
+# Eurotium fructigenum G. Martin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium cirsii f. serratula Thüm. FORM
-=======
+# Aecidium cirsii DC. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aecidium cirsii f. serratula Thüm.
+Aecidium cirsii DC.
 
 ### Remarks
 null

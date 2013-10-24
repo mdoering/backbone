@@ -1,5 +1,4 @@
-Erythrobacter flavus Yoon et al., 2003 SPECIES
-=======
+# Erythrobacter flavus Yoon et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

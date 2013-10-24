@@ -1,5 +1,4 @@
-Lycoperdon cepaeforme Bull. SPECIES
-=======
+# Lycoperdon cepaeforme Bull. SPECIES
 
 #### Status
 ACCEPTED

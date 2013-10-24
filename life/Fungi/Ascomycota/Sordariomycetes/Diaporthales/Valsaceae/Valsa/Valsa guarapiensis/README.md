@@ -1,5 +1,4 @@
-Valsa guarapiensis Speg. SPECIES
-=======
+# Valsa guarapiensis Speg. SPECIES
 
 #### Status
 ACCEPTED

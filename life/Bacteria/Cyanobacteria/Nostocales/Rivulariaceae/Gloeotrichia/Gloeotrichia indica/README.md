@@ -1,5 +1,4 @@
-Gloeotrichia indica Schmidle SPECIES
-=======
+# Gloeotrichia indica Schmidle SPECIES
 
 #### Status
 ACCEPTED

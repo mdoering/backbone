@@ -1,5 +1,4 @@
-Lophiostoma elymi Dearn. SPECIES
-=======
+# Lophiostoma elymi Dearn. SPECIES
 
 #### Status
 ACCEPTED

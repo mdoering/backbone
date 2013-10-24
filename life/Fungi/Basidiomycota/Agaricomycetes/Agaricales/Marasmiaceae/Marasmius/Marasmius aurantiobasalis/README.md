@@ -1,17 +1,16 @@
-Marasmius aurantiobasalis var. hispidipes Desjardin & E. Horak VARIETY
-=======
+# Marasmius aurantiobasalis Desjardin & E. Horak, 1997 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Biblthca Mycol. 168: 58 (1997)
 
 #### Original name
-Marasmius aurantiobasalis var. hispidipes Desjardin & E. Horak
+Marasmius aurantiobasalis Desjardin & E. Horak, 1997
 
 ### Remarks
 null

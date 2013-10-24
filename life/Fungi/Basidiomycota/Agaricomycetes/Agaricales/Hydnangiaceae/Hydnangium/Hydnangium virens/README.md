@@ -1,5 +1,4 @@
-Hydnangium virens Klotzsch SPECIES
-=======
+# Hydnangium virens Klotzsch SPECIES
 
 #### Status
 ACCEPTED

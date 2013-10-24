@@ -1,5 +1,4 @@
-Shomea linacearum Bat., J.L. Bezerra & Cavalc. SPECIES
-=======
+# Shomea linacearum Bat., J.L. Bezerra & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

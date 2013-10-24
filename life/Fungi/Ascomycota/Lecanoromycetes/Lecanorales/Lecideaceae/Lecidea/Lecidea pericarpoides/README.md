@@ -1,5 +1,4 @@
-Lecidea pericarpoides Nyl. SPECIES
-=======
+# Lecidea pericarpoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

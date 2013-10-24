@@ -1,5 +1,4 @@
-Parafurgasonia terricola Foissner, 1999 SPECIES
-=======
+# Parafurgasonia terricola Foissner, 1999 SPECIES
 
 #### Status
 ACCEPTED

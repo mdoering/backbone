@@ -1,5 +1,4 @@
-Meridinium Vavrdova, 1989 GENUS
-=======
+# Meridinium Vavrdova, 1989 GENUS
 
 #### Status
 ACCEPTED

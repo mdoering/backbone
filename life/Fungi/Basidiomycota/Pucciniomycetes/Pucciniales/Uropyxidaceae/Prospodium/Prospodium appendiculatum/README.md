@@ -1,17 +1,16 @@
-Prospodium appendiculatum var. abortivum Cummins VARIETY
-=======
+# Prospodium appendiculatum (G. Winter) Arthur, 1907 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lloydia 3: 36 (1940)
+J. Mycol. 13: 31 (1907)
 
 #### Original name
-Prospodium appendiculatum var. abortivum Cummins
+Puccinia appendiculata G. Winter, 1884
 
 ### Remarks
 null

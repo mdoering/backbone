@@ -1,5 +1,4 @@
-Linotexis burmanica Thaung SPECIES
-=======
+# Linotexis burmanica Thaung SPECIES
 
 #### Status
 ACCEPTED

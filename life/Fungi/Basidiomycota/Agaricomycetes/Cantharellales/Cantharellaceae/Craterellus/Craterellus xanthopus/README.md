@@ -1,5 +1,4 @@
-Craterellus xanthopus (Pers.) SPECIES
-=======
+# Craterellus xanthopus (Pers.) SPECIES
 
 #### Status
 ACCEPTED

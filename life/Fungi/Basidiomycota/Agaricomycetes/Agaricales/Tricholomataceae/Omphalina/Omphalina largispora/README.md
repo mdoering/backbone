@@ -1,5 +1,4 @@
-Omphalina largispora E. Horak SPECIES
-=======
+# Omphalina largispora E. Horak SPECIES
 
 #### Status
 ACCEPTED

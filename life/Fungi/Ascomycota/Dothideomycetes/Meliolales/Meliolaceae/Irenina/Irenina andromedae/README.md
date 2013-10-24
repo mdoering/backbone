@@ -1,5 +1,4 @@
-Irenina andromedae (Pat.) F. Stevens SPECIES
-=======
+# Irenina andromedae (Pat.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

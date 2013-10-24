@@ -1,5 +1,4 @@
-Ganoderma meijiangense J.D. Zhao, 1988 SPECIES
-=======
+# Ganoderma meijiangense J.D. Zhao, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Endophragmia triseptata Shearer, J.L. Crane & M.A. Mill., 1976 SPECIES
-=======
+# Melanocephala triseptata (Shearer, J.L. Crane & M.A. Mill.) S. Hughes, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 68(1): 184 (1976)
+N. Z. Jl Bot. 17(2): 171 (1979)
 
 #### Original name
 Endophragmia triseptata Shearer, J.L. Crane & M.A. Mill., 1976

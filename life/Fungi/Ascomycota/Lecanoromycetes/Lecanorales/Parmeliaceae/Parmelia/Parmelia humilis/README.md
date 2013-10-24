@@ -1,5 +1,4 @@
-Parmelia humilis SPECIES
-=======
+# Parmelia humilis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta praetervisa Bubák SPECIES
-=======
+# Phyllosticta praetervisa Bubák SPECIES
 
 #### Status
 ACCEPTED

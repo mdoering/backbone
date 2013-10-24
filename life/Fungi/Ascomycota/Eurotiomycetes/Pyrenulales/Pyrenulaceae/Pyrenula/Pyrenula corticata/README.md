@@ -1,14 +1,13 @@
-Anthracothecium corticatum Müll. Arg. SPECIES
-=======
+# Pyrenula corticata (Müll. Arg.) R.C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Soc. R. Bot. Belg. 30(1): 96 (1891)
+Mem. N. Y. bot. Gdn 49: 89 (1989)
 
 #### Original name
 Anthracothecium corticatum Müll. Arg.

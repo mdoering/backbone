@@ -1,5 +1,4 @@
-Puccinia altissimorum Savile SPECIES
-=======
+# Puccinia altissimorum Savile SPECIES
 
 #### Status
 ACCEPTED

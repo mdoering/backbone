@@ -1,5 +1,4 @@
-Septogloeum hartigianum Sacc. SPECIES
-=======
+# Septogloeum hartigianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

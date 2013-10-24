@@ -1,5 +1,4 @@
-Halyphysema ramulosa Bowerbank, 1862 SPECIES
-=======
+# Halyphysema ramulosa Bowerbank, 1862 SPECIES
 
 #### Status
 ACCEPTED

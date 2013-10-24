@@ -1,5 +1,4 @@
-Phacus chloroplastes Prescott SPECIES
-=======
+# Phacus chloroplastes Prescott SPECIES
 
 #### Status
 ACCEPTED

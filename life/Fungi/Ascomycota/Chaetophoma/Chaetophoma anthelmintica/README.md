@@ -1,5 +1,4 @@
-Chaetophoma anthelmintica Cooke SPECIES
-=======
+# Chaetophoma anthelmintica Cooke SPECIES
 
 #### Status
 ACCEPTED

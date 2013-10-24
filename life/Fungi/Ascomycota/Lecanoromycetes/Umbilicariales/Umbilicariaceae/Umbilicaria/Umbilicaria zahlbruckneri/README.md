@@ -1,5 +1,4 @@
-Umbilicaria zahlbruckneri Frey SPECIES
-=======
+# Umbilicaria zahlbruckneri Frey SPECIES
 
 #### Status
 ACCEPTED

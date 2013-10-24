@@ -1,5 +1,4 @@
-Chamaeceras pyramidalis (Scop.) Kuntze SPECIES
-=======
+# Chamaeceras pyramidalis (Scop.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

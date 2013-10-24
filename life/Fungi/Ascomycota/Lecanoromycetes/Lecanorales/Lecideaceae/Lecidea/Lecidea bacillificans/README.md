@@ -1,5 +1,4 @@
-Lecidea bacillificans Nyl. SPECIES
-=======
+# Lecidea bacillificans Nyl. SPECIES
 
 #### Status
 ACCEPTED

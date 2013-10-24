@@ -1,5 +1,4 @@
-Cystofilobasidiaceae K. Wells & Bandoni FAMILY
-=======
+# Cystofilobasidiaceae K. Wells & Bandoni FAMILY
 
 #### Status
 ACCEPTED

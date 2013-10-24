@@ -1,17 +1,16 @@
-Byssocristella M.P. Christ. & J.E.B. Larsen GENUS
-=======
+# Tomentellopsis Hjortstam, 1970 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Friesia 9(3): 313 (1970)
+null
 
 #### Original name
-Byssocristella M.P. Christ. & J.E.B. Larsen
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Anabaena randhawae G. S. Venkataraman SPECIES
-=======
+# Anabaena randhawae G. S. Venkataraman SPECIES
 
 #### Status
 ACCEPTED

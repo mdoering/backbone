@@ -1,5 +1,4 @@
-Lichen esculentus Pall. SPECIES
-=======
+# Lichen esculentus Pall. SPECIES
 
 #### Status
 ACCEPTED

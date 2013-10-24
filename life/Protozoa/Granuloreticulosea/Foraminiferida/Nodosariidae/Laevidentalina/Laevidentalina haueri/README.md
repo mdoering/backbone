@@ -1,8 +1,7 @@
-Nodosaria neugeboreni Schwager, 1866 SPECIES
-=======
+# Laevidentalina haueri (Neugeboren, 1856) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

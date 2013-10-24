@@ -1,5 +1,4 @@
-Pleospora echinops Hazsl. SPECIES
-=======
+# Pleospora echinops Hazsl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Asterina memecylonicae R.W. Ryan SPECIES
-=======
+# Asterina memecyloniae R.W. Ryan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Memoirs of the Dept. Agric. India, Bot. Ser. 15(5): 104 (1928)
 
 #### Original name
-Asterina memecylonicae R.W. Ryan
+Asterina memecyloniae R.W. Ryan
 
 ### Remarks
 null

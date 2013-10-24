@@ -1,5 +1,4 @@
-Phyllosticta lupini Bonar SPECIES
-=======
+# Phyllosticta lupini Bonar SPECIES
 
 #### Status
 ACCEPTED

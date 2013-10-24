@@ -1,5 +1,4 @@
-Mycena cicognanii Robich SPECIES
-=======
+# Mycena cicognanii Robich SPECIES
 
 #### Status
 ACCEPTED

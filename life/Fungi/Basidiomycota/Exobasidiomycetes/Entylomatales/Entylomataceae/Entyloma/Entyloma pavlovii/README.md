@@ -1,5 +1,4 @@
-Entyloma pavlovii Schwarzman SPECIES
-=======
+# Entyloma pavlovii Schwarzman SPECIES
 
 #### Status
 ACCEPTED

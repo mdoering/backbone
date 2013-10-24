@@ -1,5 +1,4 @@
-Colletotrichum leguminum (Desm.) Pat. SPECIES
-=======
+# Colletotrichum leguminum (Desm.) Pat. SPECIES
 
 #### Status
 ACCEPTED

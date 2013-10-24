@@ -1,5 +1,4 @@
-Verrucaria tuberculiformis P. M. McCarthy & Kantvilas SPECIES
-=======
+# Verrucaria tuberculiformis P. M. McCarthy & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

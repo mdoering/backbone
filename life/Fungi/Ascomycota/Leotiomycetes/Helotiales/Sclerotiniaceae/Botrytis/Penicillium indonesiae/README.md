@@ -1,8 +1,7 @@
-Penicillium odoratum M. Chr. & Backus, 1962 SPECIES
-=======
+# Penicillium indonesiae Pitt, 1980 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

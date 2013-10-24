@@ -1,5 +1,4 @@
-Aremoricanium tosotrichion Loeblich & MacAdam, 1971 SPECIES
-=======
+# Aremoricanium tosotrichion Loeblich & MacAdam, 1971 SPECIES
 
 #### Status
 ACCEPTED

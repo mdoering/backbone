@@ -1,5 +1,4 @@
-Pholiota nguelensis Henn. SPECIES
-=======
+# Pholiota nguelensis Henn. SPECIES
 
 #### Status
 ACCEPTED

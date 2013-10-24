@@ -1,5 +1,4 @@
-Phoma porphyrogena Cooke SPECIES
-=======
+# Phoma porphyrogena Cooke SPECIES
 
 #### Status
 ACCEPTED

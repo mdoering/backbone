@@ -1,5 +1,4 @@
-Pertusaria cerebrinula Zahlbr. SPECIES
-=======
+# Pertusaria cerebrinula Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oscillatoria planctonica Wolosz. SPECIES
-=======
+# Oscillatoria planctonica Wolosz. SPECIES
 
 #### Status
 ACCEPTED

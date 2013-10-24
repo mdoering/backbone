@@ -1,17 +1,16 @@
-Pisomyxa racodioides Corda SPECIES
-=======
+# Pisomyxa rhacodioides Corda, 1837 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Icon. fung. (Prague) 1: 23 (1837)
 
 #### Original name
-Pisomyxa racodioides Corda
+Pisomyxa rhacodioides Corda, 1837
 
 ### Remarks
 null

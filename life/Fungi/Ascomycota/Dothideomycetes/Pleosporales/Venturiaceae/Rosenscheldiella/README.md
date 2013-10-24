@@ -1,17 +1,16 @@
-Scutelloidea Tim GENUS
-=======
+# Rosenscheldiella Theiss. & Syd. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jl S. Afr. Bot. 37: 158 (1971)
+Annls mycol. 13(5/6): 645 (1915)
 
 #### Original name
-Scutelloidea Tim
+Rosenscheldiella Theiss. & Syd.
 
 ### Remarks
 null

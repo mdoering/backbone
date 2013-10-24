@@ -1,17 +1,16 @@
-Calocladia mougeotii Lév., 1851 SPECIES
-=======
+# Arthrocladiella mougeotii (Lév.) Vassilkov, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 15: 158 (1851)
+Bot. Mater. Otd. Sporov. Rast. Bot. Inst. Komarova Akad. Nauk S. S. S. R. 16: 112 (1963)
 
 #### Original name
-Calocladia mougeotii Lév., 1851
+Microsphaera mougeotii Lév., 1851
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Trypethelium polychroum Müll. Arg. SPECIES
-=======
+# Trypethelium polychroum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

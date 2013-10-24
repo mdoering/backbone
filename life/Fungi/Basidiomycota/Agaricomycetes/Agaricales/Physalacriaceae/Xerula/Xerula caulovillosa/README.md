@@ -1,5 +1,4 @@
-Xerula caulovillosa R.H. Petersen SPECIES
-=======
+# Xerula caulovillosa R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

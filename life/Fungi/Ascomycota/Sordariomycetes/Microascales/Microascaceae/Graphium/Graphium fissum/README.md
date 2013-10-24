@@ -1,17 +1,16 @@
-Graphium fissum subsp. fissum SUBSPECIES
-=======
+# Graphium fissum Preuss, 1851 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 34: no. 113 (1851)
 
 #### Original name
-Graphium fissum subsp. fissum
+Graphium fissum Preuss, 1851
 
 ### Remarks
 null

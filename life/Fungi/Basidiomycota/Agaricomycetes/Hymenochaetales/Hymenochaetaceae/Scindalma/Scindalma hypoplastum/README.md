@@ -1,5 +1,4 @@
-Scindalma hypoplastum (Berk.) Kuntze SPECIES
-=======
+# Scindalma hypoplastum (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

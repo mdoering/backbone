@@ -1,5 +1,4 @@
-Psathyrella subligans (Britzelm.) Sacc. SPECIES
-=======
+# Psathyrella subligans (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

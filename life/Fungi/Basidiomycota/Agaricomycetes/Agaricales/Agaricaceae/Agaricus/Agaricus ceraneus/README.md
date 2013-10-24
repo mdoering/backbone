@@ -1,5 +1,4 @@
-Agaricus ceraneus J.F. Gmel. SPECIES
-=======
+# Agaricus ceraneus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

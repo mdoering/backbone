@@ -1,17 +1,16 @@
-Cercospora musae var. musae VARIETY
-=======
+# Mycosphaerella musicola R. Leach ex J.L. Mulder, 1976 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Mulder & Stover, Trans. Br. mycol. Soc. 67(1): 77 (1976)
 
 #### Original name
-Cercospora musae var. musae
+Mycosphaerella musicola R. Leach ex J.L. Mulder, 1976
 
 ### Remarks
 null

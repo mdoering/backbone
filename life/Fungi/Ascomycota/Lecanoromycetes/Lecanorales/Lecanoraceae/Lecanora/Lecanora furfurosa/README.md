@@ -1,5 +1,4 @@
-Lecanora furfurosa Tuck. SPECIES
-=======
+# Lecanora furfurosa Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Furcaspora eucalypti Crous & Verkley SPECIES
-=======
+# Furcaspora eucalypti Crous & Verkley SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora malvastri J.M. Mend. SPECIES
-=======
+# Cercospora malvastri J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

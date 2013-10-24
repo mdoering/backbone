@@ -1,5 +1,4 @@
-Sesia ambigua (Berk.) Kuntze SPECIES
-=======
+# Sesia ambigua (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

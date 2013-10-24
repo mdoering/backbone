@@ -1,5 +1,4 @@
-Letharia arboricola (Jatta) H.Olivier SPECIES
-=======
+# Letharia arboricola (Jatta) H.Olivier SPECIES
 
 #### Status
 ACCEPTED

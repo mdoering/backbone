@@ -1,5 +1,4 @@
-Arthonia angulata Fée SPECIES
-=======
+# Arthonia angulata Fée SPECIES
 
 #### Status
 ACCEPTED

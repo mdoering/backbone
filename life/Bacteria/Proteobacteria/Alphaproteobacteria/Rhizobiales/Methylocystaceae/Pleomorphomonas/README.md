@@ -1,5 +1,4 @@
-Pleomorphomonas Xie & Yokota, 2005 GENUS
-=======
+# Pleomorphomonas Xie & Yokota, 2005 GENUS
 
 #### Status
 ACCEPTED

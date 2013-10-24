@@ -1,5 +1,4 @@
-Russula cinereopurpurea Krombh. SPECIES
-=======
+# Russula cinereopurpurea Krombh. SPECIES
 
 #### Status
 ACCEPTED

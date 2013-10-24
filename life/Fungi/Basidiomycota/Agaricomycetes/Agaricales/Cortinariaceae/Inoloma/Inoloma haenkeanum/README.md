@@ -1,5 +1,4 @@
-Inoloma haenkeanum Velen. SPECIES
-=======
+# Inoloma haenkeanum Velen. SPECIES
 
 #### Status
 ACCEPTED

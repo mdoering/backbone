@@ -1,5 +1,4 @@
-Polyedryxium simplex Deunff, 1955 SPECIES
-=======
+# Polyedryxium simplex Deunff, 1955 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helicogloea contorta G.E. Baker SPECIES
-=======
+# Helicogloea contorta G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

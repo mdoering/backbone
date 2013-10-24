@@ -1,5 +1,4 @@
-Xylaria obtusissima (Berk.) Sacc. SPECIES
-=======
+# Xylaria obtusissima (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

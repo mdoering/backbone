@@ -1,5 +1,4 @@
-Sphaerella tiliae (Naumov) Sacc. SPECIES
-=======
+# Sphaerella tiliae (Naumov) Sacc. SPECIES
 
 #### Status
 ACCEPTED

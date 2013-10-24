@@ -1,5 +1,4 @@
-Cryptococcus krausii M. Ota SPECIES
-=======
+# Cryptococcus krausii M. Ota SPECIES
 
 #### Status
 ACCEPTED

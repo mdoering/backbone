@@ -1,5 +1,4 @@
-Septobasidium linderi Couch ex L.D. Gómez & Henk SPECIES
-=======
+# Septobasidium linderi Couch ex L.D. Gómez & Henk SPECIES
 
 #### Status
 ACCEPTED

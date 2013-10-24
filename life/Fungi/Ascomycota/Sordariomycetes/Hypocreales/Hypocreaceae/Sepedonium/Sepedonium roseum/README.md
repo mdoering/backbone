@@ -1,5 +1,4 @@
-Sepedonium roseum Fr., 1832 SPECIES
-=======
+# Sepedonium roseum Fr., 1832 SPECIES
 
 #### Status
 ACCEPTED

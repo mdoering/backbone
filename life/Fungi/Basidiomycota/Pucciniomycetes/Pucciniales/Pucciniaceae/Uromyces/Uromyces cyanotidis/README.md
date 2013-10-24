@@ -1,5 +1,4 @@
-Uromyces cyanotidis Cummins SPECIES
-=======
+# Uromyces cyanotidis Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnobolus comatus (G. Lister & Brândza) Lado SPECIES
-=======
+# Lachnobolus comatus (G. Lister & Brândza) Lado SPECIES
 
 #### Status
 ACCEPTED

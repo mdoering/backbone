@@ -1,5 +1,4 @@
-Mycomyces fungoides Wyss-Chod., 1928 SPECIES
-=======
+# Mycomyces fungoides Wyss-Chod., 1928 SPECIES
 
 #### Status
 ACCEPTED

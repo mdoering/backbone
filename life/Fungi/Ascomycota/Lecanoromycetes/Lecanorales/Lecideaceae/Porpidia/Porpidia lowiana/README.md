@@ -1,5 +1,4 @@
-Porpidia lowiana Gowan SPECIES
-=======
+# Porpidia lowiana Gowan SPECIES
 
 #### Status
 ACCEPTED

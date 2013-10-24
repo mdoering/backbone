@@ -1,5 +1,4 @@
-Anthostomella eumorpha (Sacc. & Paol.) Rehm SPECIES
-=======
+# Anthostomella eumorpha (Sacc. & Paol.) Rehm SPECIES
 
 #### Status
 ACCEPTED

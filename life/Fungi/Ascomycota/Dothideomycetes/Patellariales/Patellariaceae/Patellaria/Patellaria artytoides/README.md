@@ -1,5 +1,4 @@
-Patellaria artytoides (Nyl.) SPECIES
-=======
+# Patellaria artytoides (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

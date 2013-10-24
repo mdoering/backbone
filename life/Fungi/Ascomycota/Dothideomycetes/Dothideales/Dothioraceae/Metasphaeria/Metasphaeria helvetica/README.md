@@ -1,5 +1,4 @@
-Metasphaeria helvetica Sacc. & Berl. SPECIES
-=======
+# Metasphaeria helvetica Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

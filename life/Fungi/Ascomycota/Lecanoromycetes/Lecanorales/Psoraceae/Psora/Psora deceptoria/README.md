@@ -1,5 +1,4 @@
-Psora deceptoria (Nyl.) Flagey SPECIES
-=======
+# Psora deceptoria (Nyl.) Flagey SPECIES
 
 #### Status
 ACCEPTED

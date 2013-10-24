@@ -1,5 +1,4 @@
-Mycosphaerella balansae (Speg.) Tomilin SPECIES
-=======
+# Mycosphaerella balansae (Speg.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

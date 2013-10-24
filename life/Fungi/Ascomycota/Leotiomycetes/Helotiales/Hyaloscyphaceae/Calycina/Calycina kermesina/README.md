@@ -1,5 +1,4 @@
-Calycina kermesina (Fr.) Kuntze SPECIES
-=======
+# Calycina kermesina (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

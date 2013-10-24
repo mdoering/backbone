@@ -1,5 +1,4 @@
-Conocybe oculispora Locq. SPECIES
-=======
+# Conocybe oculispora Locq. SPECIES
 
 #### Status
 ACCEPTED

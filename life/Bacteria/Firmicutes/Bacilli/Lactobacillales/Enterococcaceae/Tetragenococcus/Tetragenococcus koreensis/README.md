@@ -1,5 +1,4 @@
-Tetragenococcus koreensis Lee et al., 2005 SPECIES
-=======
+# Tetragenococcus koreensis Lee et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

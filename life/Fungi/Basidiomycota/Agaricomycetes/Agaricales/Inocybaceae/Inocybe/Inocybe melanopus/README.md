@@ -1,5 +1,4 @@
-Inocybe melanopus D.E. Stuntz SPECIES
-=======
+# Inocybe melanopus D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

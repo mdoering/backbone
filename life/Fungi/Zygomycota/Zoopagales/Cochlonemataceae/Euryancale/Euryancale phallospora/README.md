@@ -1,5 +1,4 @@
-Euryancale phallospora Saikawa & Katsur., 1993 SPECIES
-=======
+# Euryancale phallospora Saikawa & Katsur., 1993 SPECIES
 
 #### Status
 ACCEPTED

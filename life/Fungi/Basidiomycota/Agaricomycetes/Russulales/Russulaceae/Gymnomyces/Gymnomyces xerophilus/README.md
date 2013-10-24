@@ -1,5 +1,4 @@
-Gymnomyces xerophilus M.E. Sm. & Trappe, 2006 SPECIES
-=======
+# Gymnomyces xerophilus M.E. Sm. & Trappe, 2006 SPECIES
 
 #### Status
 ACCEPTED

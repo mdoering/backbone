@@ -1,5 +1,4 @@
-Cercospora commelinae-salicifoliae A.K. Kar & M. Mandal SPECIES
-=======
+# Cercospora commelinae-salicifoliae A.K. Kar & M. Mandal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platygloea brunnea (G.W. Martin) G.W. Martin SPECIES
-=======
+# Platygloea brunnea (G.W. Martin) G.W. Martin SPECIES
 
 #### Status
 ACCEPTED

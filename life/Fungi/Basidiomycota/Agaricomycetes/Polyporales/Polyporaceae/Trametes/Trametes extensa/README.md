@@ -1,5 +1,4 @@
-Trametes extensa (Berk. ex Sacc.) Pat. SPECIES
-=======
+# Trametes extensa (Berk. ex Sacc.) Pat. SPECIES
 
 #### Status
 ACCEPTED

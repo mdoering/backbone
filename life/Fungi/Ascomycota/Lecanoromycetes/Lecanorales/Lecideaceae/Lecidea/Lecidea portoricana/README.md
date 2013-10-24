@@ -1,5 +1,4 @@
-Lecidea portoricana Zahlbr. SPECIES
-=======
+# Lecidea portoricana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

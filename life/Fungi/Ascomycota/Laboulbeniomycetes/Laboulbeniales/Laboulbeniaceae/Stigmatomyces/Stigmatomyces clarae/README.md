@@ -1,5 +1,4 @@
-Stigmatomyces clarae W. Rossi SPECIES
-=======
+# Stigmatomyces clarae W. Rossi SPECIES
 
 #### Status
 ACCEPTED

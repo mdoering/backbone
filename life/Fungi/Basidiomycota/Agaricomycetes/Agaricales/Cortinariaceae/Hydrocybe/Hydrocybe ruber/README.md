@@ -1,5 +1,4 @@
-Hydrocybe ruber (Peck) Murrill SPECIES
-=======
+# Hydrocybe ruber (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

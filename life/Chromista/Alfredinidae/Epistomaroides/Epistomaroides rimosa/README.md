@@ -1,8 +1,7 @@
-Discorbina rimosa Parker & Jones, 1862 SPECIES
-=======
+# Epistomaroides rimosa (Parker & Jones, 1862) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

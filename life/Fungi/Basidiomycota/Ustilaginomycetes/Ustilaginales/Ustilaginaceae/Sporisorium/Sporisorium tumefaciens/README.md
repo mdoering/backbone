@@ -1,17 +1,16 @@
-Sphacelotheca rhaphidis L. Ling, 1949 SPECIES
-=======
+# Sporisorium tumefaciens (McAlpine) Vánky, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 18(2): 328 (1983)
 
 #### Original name
-Sphacelotheca rhaphidis L. Ling, 1949
+Sorosporium tumefaciens McAlpine, 1910
 
 ### Remarks
 null

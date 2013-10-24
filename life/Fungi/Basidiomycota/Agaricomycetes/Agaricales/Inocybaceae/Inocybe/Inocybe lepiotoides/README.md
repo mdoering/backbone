@@ -1,5 +1,4 @@
-Inocybe lepiotoides Reumaux SPECIES
-=======
+# Inocybe lepiotoides Reumaux SPECIES
 
 #### Status
 ACCEPTED

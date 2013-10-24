@@ -1,5 +1,4 @@
-Rickettsia rhipicephali (ex Burgdorfer et al., 1978) Weiss & Moulder, 1988 SPECIES
-=======
+# Rickettsia rhipicephali (ex Burgdorfer et al., 1978) Weiss & Moulder, 1988 SPECIES
 
 #### Status
 ACCEPTED

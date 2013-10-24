@@ -1,5 +1,4 @@
-Rhizopus cuprea Rick SPECIES
-=======
+# Rhizopus cuprea Rick SPECIES
 
 #### Status
 ACCEPTED

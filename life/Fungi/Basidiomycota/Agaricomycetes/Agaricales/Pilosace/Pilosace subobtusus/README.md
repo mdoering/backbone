@@ -1,5 +1,4 @@
-Pilosace subobtusus (Britzelm.) Kuntze SPECIES
-=======
+# Pilosace subobtusus (Britzelm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

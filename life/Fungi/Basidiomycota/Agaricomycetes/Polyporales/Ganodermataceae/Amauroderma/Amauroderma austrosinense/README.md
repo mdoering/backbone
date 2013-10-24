@@ -1,5 +1,4 @@
-Amauroderma austrosinense J.D. Zhao & L.W. Hsu, 1984 SPECIES
-=======
+# Amauroderma austrosinense J.D. Zhao & L.W. Hsu, 1984 SPECIES
 
 #### Status
 ACCEPTED

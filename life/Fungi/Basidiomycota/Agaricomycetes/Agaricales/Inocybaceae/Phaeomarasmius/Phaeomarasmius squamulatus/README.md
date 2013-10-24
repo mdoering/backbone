@@ -1,5 +1,4 @@
-Phaeomarasmius squamulatus E. Horak SPECIES
-=======
+# Phaeomarasmius squamulatus E. Horak SPECIES
 
 #### Status
 ACCEPTED

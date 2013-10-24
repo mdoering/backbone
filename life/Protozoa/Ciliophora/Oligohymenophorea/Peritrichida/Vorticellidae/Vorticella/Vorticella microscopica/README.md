@@ -1,5 +1,4 @@
-Vorticella microscopica Fromentel, 1876 SPECIES
-=======
+# Vorticella microscopica Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

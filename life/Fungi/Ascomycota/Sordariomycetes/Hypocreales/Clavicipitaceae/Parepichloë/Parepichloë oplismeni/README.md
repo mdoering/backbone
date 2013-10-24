@@ -1,5 +1,4 @@
-Parepichloë oplismeni (Henn.) J.F. White & P.V. Reddy SPECIES
-=======
+# Parepichloë oplismeni (Henn.) J.F. White & P.V. Reddy SPECIES
 
 #### Status
 ACCEPTED

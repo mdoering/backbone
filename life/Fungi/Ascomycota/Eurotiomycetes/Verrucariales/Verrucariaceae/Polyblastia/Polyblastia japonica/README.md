@@ -1,5 +1,4 @@
-Polyblastia japonica Vain. & Yasuda SPECIES
-=======
+# Polyblastia japonica Vain. & Yasuda SPECIES
 
 #### Status
 ACCEPTED

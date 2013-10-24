@@ -1,5 +1,4 @@
-Stictis dispar Pers. SPECIES
-=======
+# Stictis dispar Pers. SPECIES
 
 #### Status
 ACCEPTED

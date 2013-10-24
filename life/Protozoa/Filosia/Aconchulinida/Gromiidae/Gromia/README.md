@@ -1,5 +1,4 @@
-Gromia Dujardin, 1835 GENUS
-=======
+# Gromia Dujardin, 1835 GENUS
 
 #### Status
 ACCEPTED

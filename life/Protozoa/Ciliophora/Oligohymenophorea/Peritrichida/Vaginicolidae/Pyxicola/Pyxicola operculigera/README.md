@@ -1,5 +1,4 @@
-Pyxicola operculigera Kent, 1882 SPECIES
-=======
+# Pyxicola operculigera Kent, 1882 SPECIES
 
 #### Status
 ACCEPTED

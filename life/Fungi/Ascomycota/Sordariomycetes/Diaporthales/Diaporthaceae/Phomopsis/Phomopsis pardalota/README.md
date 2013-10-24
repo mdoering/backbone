@@ -1,5 +1,4 @@
-Phomopsis pardalota Died. SPECIES
-=======
+# Phomopsis pardalota Died. SPECIES
 
 #### Status
 ACCEPTED

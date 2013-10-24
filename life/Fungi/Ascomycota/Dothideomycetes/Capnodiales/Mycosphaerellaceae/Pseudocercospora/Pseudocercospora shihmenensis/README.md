@@ -1,5 +1,4 @@
-Pseudocercospora shihmenensis (J.M. Yen) J.M. Yen SPECIES
-=======
+# Pseudocercospora shihmenensis (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

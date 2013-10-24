@@ -1,5 +1,4 @@
-Ramonia athallina Sherwood SPECIES
-=======
+# Ramonia athallina Sherwood SPECIES
 
 #### Status
 ACCEPTED

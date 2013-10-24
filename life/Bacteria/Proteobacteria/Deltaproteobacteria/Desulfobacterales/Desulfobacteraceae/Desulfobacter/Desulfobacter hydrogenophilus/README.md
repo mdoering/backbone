@@ -1,5 +1,4 @@
-Desulfobacter hydrogenophilus Widdel, 1988 SPECIES
-=======
+# Desulfobacter hydrogenophilus Widdel, 1988 SPECIES
 
 #### Status
 ACCEPTED

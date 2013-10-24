@@ -1,5 +1,4 @@
-Pleolpidium irregulare E.J. Butler SPECIES
-=======
+# Pleolpidium irregulare E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tympanis urceolus Wallr. SPECIES
-=======
+# Tympanis urceolus Wallr. SPECIES
 
 #### Status
 ACCEPTED

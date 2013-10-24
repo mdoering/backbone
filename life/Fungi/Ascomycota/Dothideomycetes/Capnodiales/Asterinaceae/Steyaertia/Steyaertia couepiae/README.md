@@ -1,5 +1,4 @@
-Steyaertia couepiae Bat. & H. Maia SPECIES
-=======
+# Steyaertia couepiae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

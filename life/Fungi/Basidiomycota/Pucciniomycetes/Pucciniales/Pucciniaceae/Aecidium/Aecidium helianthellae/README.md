@@ -1,5 +1,4 @@
-Aecidium helianthellae Arthur SPECIES
-=======
+# Aecidium helianthellae Arthur SPECIES
 
 #### Status
 ACCEPTED

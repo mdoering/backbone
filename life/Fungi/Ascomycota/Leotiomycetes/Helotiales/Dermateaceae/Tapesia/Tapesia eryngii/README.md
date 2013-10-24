@@ -1,5 +1,4 @@
-Tapesia eryngii Velen. SPECIES
-=======
+# Tapesia eryngii Velen. SPECIES
 
 #### Status
 ACCEPTED

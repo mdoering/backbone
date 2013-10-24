@@ -1,5 +1,4 @@
-Entoloma lanuginosipes Noordel., 1979 SPECIES
-=======
+# Entoloma lanuginosipes Noordel., 1979 SPECIES
 
 #### Status
 ACCEPTED

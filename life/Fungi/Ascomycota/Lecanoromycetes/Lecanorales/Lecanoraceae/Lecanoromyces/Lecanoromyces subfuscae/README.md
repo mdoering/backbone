@@ -1,5 +1,4 @@
-Lecanoromyces subfuscae E.A. Thomas ex Cif. & Tomas. SPECIES
-=======
+# Lecanoromyces subfuscae E.A. Thomas ex Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

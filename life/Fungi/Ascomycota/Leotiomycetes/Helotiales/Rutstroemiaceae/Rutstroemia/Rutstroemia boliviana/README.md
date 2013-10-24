@@ -1,5 +1,4 @@
-Rutstroemia boliviana E.K. Cash SPECIES
-=======
+# Rutstroemia boliviana E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

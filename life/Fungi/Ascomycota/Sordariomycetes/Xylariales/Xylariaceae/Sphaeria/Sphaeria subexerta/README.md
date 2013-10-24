@@ -1,5 +1,4 @@
-Sphaeria subexerta Cooke & Ellis SPECIES
-=======
+# Sphaeria subexerta Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

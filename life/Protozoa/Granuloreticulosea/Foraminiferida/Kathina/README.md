@@ -1,5 +1,4 @@
-Kathina Smout, 1954 GENUS
-=======
+# Kathina Smout, 1954 GENUS
 
 #### Status
 ACCEPTED

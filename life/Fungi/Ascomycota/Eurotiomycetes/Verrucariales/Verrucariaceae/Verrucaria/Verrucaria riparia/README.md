@@ -1,5 +1,4 @@
-Verrucaria riparia (Nyl.) Nyl. SPECIES
-=======
+# Verrucaria riparia (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

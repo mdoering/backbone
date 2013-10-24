@@ -1,5 +1,4 @@
-Litonotus alpestris Foissner, 1978 SPECIES
-=======
+# Litonotus alpestris Foissner, 1978 SPECIES
 
 #### Status
 ACCEPTED

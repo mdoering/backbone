@@ -1,5 +1,4 @@
-Geitlerinema numidicum (Gomont) Anagnostidis SPECIES
-=======
+# Geitlerinema numidicum (Gomont) Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

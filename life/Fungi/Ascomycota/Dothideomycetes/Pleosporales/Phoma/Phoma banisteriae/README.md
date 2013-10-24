@@ -1,5 +1,4 @@
-Phoma banisteriae Tassi SPECIES
-=======
+# Phoma banisteriae Tassi SPECIES
 
 #### Status
 ACCEPTED

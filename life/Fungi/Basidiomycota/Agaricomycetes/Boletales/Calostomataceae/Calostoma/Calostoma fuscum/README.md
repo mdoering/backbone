@@ -1,14 +1,13 @@
-Mitremyces fuscus Berk., 1839 SPECIES
-=======
+# Calostoma fuscum (Berk.) Massee, 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 1 3: 325 (1839)
+Ann. Bot. , Lond. 2: 43 (1888)
 
 #### Original name
 Mitremyces fuscus Berk., 1839

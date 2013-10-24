@@ -1,5 +1,4 @@
-Erysibe chrysoides Wallr. SPECIES
-=======
+# Erysibe chrysoides Wallr. SPECIES
 
 #### Status
 ACCEPTED

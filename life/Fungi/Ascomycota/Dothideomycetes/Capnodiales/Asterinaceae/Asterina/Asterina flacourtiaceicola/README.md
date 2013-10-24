@@ -1,5 +1,4 @@
-Asterina flacourtiaceicola B. Song, T.H. Li & Hosag. SPECIES
-=======
+# Asterina flacourtiaceicola B. Song, T.H. Li & Hosag. SPECIES
 
 #### Status
 ACCEPTED

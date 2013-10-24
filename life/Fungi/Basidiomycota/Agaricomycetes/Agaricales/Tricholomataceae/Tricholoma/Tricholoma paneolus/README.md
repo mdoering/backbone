@@ -1,5 +1,4 @@
-Tricholoma paneolus Fr. SPECIES
-=======
+# Tricholoma paneolus Fr. SPECIES
 
 #### Status
 ACCEPTED

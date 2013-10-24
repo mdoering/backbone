@@ -1,5 +1,4 @@
-Hydnum humidipes K.A. Harrison SPECIES
-=======
+# Hydnum humidipes K.A. Harrison SPECIES
 
 #### Status
 ACCEPTED

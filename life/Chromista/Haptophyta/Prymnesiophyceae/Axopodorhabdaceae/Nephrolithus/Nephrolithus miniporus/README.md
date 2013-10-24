@@ -1,5 +1,4 @@
-Nephrolithus miniporus P. Reinhardt & H. Górka SPECIES
-=======
+# Nephrolithus miniporus P. Reinhardt & H. Górka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Imbricaria lugubris (Pers.) Jatta SPECIES
-=======
+# Imbricaria lugubris (Pers.) Jatta SPECIES
 
 #### Status
 ACCEPTED

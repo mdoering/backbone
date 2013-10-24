@@ -1,5 +1,4 @@
-Gloeosporium violicola Syd. SPECIES
-=======
+# Gloeosporium violicola Syd. SPECIES
 
 #### Status
 ACCEPTED

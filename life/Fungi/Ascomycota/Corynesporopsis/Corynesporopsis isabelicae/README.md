@@ -1,5 +1,4 @@
-Corynesporopsis isabelicae Hol.-Jech., 1987 SPECIES
-=======
+# Corynesporopsis isabelicae Hol.-Jech., 1987 SPECIES
 
 #### Status
 ACCEPTED

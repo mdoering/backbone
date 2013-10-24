@@ -1,5 +1,4 @@
-Rhizosolenia ostenfeldii B.G.Sundström, 1986 SPECIES
-=======
+# Rhizosolenia ostenfeldii B.G.Sundström, 1986 SPECIES
 
 #### Status
 ACCEPTED

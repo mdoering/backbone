@@ -1,5 +1,4 @@
-Ocellularia scolecospora C.W. Dodge SPECIES
-=======
+# Ocellularia scolecospora C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

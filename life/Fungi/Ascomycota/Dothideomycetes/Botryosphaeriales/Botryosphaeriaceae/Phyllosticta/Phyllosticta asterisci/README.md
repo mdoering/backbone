@@ -1,5 +1,4 @@
-Phyllosticta asterisci Speg. SPECIES
-=======
+# Phyllosticta asterisci Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eleutheroschizonidae Chatton & Villeneuve, 1936 FAMILY
-=======
+# Eleutheroschizonidae Chatton & Villeneuve, 1936 FAMILY
 
 #### Status
 ACCEPTED

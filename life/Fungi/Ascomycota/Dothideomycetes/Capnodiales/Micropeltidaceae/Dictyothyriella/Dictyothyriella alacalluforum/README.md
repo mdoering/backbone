@@ -1,5 +1,4 @@
-Dictyothyriella alacalluforum Speg. SPECIES
-=======
+# Dictyothyriella alacalluforum Speg. SPECIES
 
 #### Status
 ACCEPTED

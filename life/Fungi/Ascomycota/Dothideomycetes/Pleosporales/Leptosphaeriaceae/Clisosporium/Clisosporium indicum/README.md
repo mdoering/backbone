@@ -1,5 +1,4 @@
-Clisosporium indicum (Cooke & Massee) Kuntze SPECIES
-=======
+# Clisosporium indicum (Cooke & Massee) Kuntze SPECIES
 
 #### Status
 ACCEPTED

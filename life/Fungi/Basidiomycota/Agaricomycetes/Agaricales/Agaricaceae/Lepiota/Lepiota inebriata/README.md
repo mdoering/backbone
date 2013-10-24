@@ -1,5 +1,4 @@
-Lepiota inebriata (Berk. & Broome) Sacc. SPECIES
-=======
+# Lepiota inebriata (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

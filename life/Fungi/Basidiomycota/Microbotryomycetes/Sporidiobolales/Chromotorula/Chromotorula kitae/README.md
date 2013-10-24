@@ -1,5 +1,4 @@
-Chromotorula kitae F.C. Harrison SPECIES
-=======
+# Chromotorula kitae F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

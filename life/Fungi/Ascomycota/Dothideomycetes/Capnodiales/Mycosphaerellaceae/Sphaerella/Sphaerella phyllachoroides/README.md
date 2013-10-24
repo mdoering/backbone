@@ -1,5 +1,4 @@
-Sphaerella phyllachoroides Sacc. SPECIES
-=======
+# Sphaerella phyllachoroides Sacc. SPECIES
 
 #### Status
 ACCEPTED

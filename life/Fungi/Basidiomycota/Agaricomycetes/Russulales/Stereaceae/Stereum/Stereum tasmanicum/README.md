@@ -1,5 +1,4 @@
-Stereum tasmanicum Sacc. & P. Syd. SPECIES
-=======
+# Stereum tasmanicum Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

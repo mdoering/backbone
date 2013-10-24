@@ -1,5 +1,4 @@
-Calosphaeria transversa (Sacc. & Fairm.) L. Mostert SPECIES
-=======
+# Calosphaeria transversa (Sacc. & Fairm.) L. Mostert SPECIES
 
 #### Status
 ACCEPTED

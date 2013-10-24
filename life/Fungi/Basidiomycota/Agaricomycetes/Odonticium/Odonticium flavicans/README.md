@@ -1,14 +1,13 @@
-Hydnum flavicans Bres., 1897 SPECIES
-=======
+# Odonticium flavicans (Bres.) Nakasone, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Acad. Agiato Rovereto 3(1): 95 (1897)
+Cryptog. Mycol. 29(3): 245 (2008)
 
 #### Original name
 Hydnum flavicans Bres., 1897

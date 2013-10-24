@@ -1,5 +1,4 @@
-Melanoleuca transmutans (Peck) Murrill SPECIES
-=======
+# Melanoleuca transmutans (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

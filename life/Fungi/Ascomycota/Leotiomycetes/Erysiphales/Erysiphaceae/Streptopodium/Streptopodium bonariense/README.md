@@ -1,14 +1,13 @@
-Streptopodium bonariensis (Speg.) R.Y. Zheng & G.Q. Chen SPECIES
-=======
+# Streptopodium bonariense (Speg.) R.Y. Zheng & G.Q. Chen, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Acta microbiol. sin. 18(3): 183 (1978)
 
 #### Original name
 Illosporium bonariense Speg., 1880

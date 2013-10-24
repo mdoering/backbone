@@ -1,5 +1,4 @@
-Enchelys vermiformis Foissner, 1987 SPECIES
-=======
+# Enchelys vermiformis Foissner, 1987 SPECIES
 
 #### Status
 ACCEPTED

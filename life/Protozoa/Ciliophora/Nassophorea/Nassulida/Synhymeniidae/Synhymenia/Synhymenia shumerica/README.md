@@ -1,5 +1,4 @@
-Synhymenia shumerica (Aliev, 1990) Jankowski, 1992 SPECIES
-=======
+# Synhymenia shumerica (Aliev, 1990) Jankowski, 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Taeniolella cladinicola Alstrup, 1993 SPECIES
-=======
+# Taeniolella cladinicola Alstrup, 1993 SPECIES
 
 #### Status
 ACCEPTED

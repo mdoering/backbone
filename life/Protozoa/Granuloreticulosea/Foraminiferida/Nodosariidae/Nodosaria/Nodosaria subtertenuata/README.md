@@ -1,5 +1,4 @@
-Nodosaria subtertenuata Schwager, 1866 SPECIES
-=======
+# Nodosaria subtertenuata Schwager, 1866 SPECIES
 
 #### Status
 ACCEPTED

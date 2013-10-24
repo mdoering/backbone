@@ -1,8 +1,7 @@
-Loxophylum armatum sensu Penard, 1922 SPECIES
-=======
+# Bryophyllum armatum (Claparède & Lachmann, 1859) ?, ? SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

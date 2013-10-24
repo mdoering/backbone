@@ -1,5 +1,4 @@
-Puccinia eriocyclae Khalid & S.H. Iqbal SPECIES
-=======
+# Puccinia eriocyclae Khalid & S.H. Iqbal SPECIES
 
 #### Status
 ACCEPTED

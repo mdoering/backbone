@@ -1,5 +1,4 @@
-Huea sedutrix (Stizenb.) C.W. Dodge SPECIES
-=======
+# Huea sedutrix (Stizenb.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

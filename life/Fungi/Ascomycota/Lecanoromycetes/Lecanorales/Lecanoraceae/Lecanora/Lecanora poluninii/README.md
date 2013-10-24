@@ -1,5 +1,4 @@
-Lecanora poluninii Lynge SPECIES
-=======
+# Lecanora poluninii Lynge SPECIES
 
 #### Status
 ACCEPTED

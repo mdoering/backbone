@@ -1,5 +1,4 @@
-Cercospora stenolobiicola (Speg.) Chupp SPECIES
-=======
+# Cercospora stenolobiicola (Speg.) Chupp SPECIES
 
 #### Status
 ACCEPTED

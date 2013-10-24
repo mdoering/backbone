@@ -1,5 +1,4 @@
-Buliminoides williamsonianus SPECIES
-=======
+# Buliminoides williamsonianus SPECIES
 
 #### Status
 ACCEPTED

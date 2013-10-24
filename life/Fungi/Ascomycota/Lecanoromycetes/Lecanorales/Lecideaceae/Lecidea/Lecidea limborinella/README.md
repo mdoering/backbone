@@ -1,5 +1,4 @@
-Lecidea limborinella Müll. Arg. SPECIES
-=======
+# Lecidea limborinella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

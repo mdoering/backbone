@@ -1,5 +1,4 @@
-Ustilago phalaridis (Speg.) Cif. SPECIES
-=======
+# Ustilago phalaridis (Speg.) Cif. SPECIES
 
 #### Status
 ACCEPTED

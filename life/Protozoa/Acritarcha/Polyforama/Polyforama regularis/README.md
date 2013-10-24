@@ -1,5 +1,4 @@
-Polyforama regularis Pykhova, 1969 SPECIES
-=======
+# Polyforama regularis Pykhova, 1969 SPECIES
 
 #### Status
 ACCEPTED

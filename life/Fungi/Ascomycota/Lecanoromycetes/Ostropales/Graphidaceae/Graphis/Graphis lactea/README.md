@@ -1,5 +1,4 @@
-Graphis lactea var. lactea VARIETY
-=======
+# Graphis lactea (Fée) Spreng. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syst. veg. , Edn 16 4(1 Lichenes): 254 (1827)
 
 #### Original name
-Graphis lactea var. lactea
+Fissurina lactea Fée
 
 ### Remarks
 null

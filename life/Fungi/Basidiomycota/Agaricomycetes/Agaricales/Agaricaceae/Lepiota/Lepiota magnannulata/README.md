@@ -1,5 +1,4 @@
-Lepiota magnannulata Kalchbr. SPECIES
-=======
+# Lepiota magnannulata Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

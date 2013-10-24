@@ -1,5 +1,4 @@
-Coscinodiscus fasciculatus O'Me SPECIES
-=======
+# Coscinodiscus fasciculatus O'Me SPECIES
 
 #### Status
 ACCEPTED

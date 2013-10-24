@@ -1,5 +1,4 @@
-Clitopilus nyssicola (Murrill) Murrill SPECIES
-=======
+# Clitopilus nyssicola (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

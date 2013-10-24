@@ -1,5 +1,4 @@
-Dimerosporium rickianum Sacc. & P. Syd. SPECIES
-=======
+# Dimerosporium rickianum Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

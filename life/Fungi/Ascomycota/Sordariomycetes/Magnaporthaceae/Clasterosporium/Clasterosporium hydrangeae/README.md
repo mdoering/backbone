@@ -1,5 +1,4 @@
-Clasterosporium hydrangeae (Thüm.) Sacc. SPECIES
-=======
+# Clasterosporium hydrangeae (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

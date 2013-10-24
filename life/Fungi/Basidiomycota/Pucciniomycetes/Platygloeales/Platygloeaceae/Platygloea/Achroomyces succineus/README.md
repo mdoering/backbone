@@ -1,5 +1,4 @@
-Achroomyces succineus (Pat.) Wojewoda SPECIES
-=======
+# Achroomyces succineus (Pat.) Wojewoda SPECIES
 
 #### Status
 ACCEPTED

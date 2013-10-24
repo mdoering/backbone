@@ -1,5 +1,4 @@
-Atractobolus lentaginis (Schwein.) Kuntze SPECIES
-=======
+# Atractobolus lentaginis (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

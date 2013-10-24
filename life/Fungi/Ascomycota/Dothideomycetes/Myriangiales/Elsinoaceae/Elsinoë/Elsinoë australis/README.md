@@ -1,17 +1,16 @@
-Sphaceloma fawcettii var. viscosum Jenkins, 1933 VARIETY
-=======
+# Elsinoë australis Bitanc. & Jenkins, 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 28: 491 (1936)
 
 #### Original name
-null
+Elsinoë australis Bitanc. & Jenkins, 1936
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Macrophoma lauri Jaap SPECIES
-=======
+# Macrophoma lauri Jaap SPECIES
 
 #### Status
 ACCEPTED

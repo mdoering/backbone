@@ -1,5 +1,4 @@
-Mycoporum antecellans SPECIES
-=======
+# Mycoporum antecellans SPECIES
 
 #### Status
 ACCEPTED

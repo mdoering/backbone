@@ -1,5 +1,4 @@
-Buliminellidae Hofker, 1951 FAMILY
-=======
+# Buliminellidae Hofker, 1951 FAMILY
 
 #### Status
 ACCEPTED

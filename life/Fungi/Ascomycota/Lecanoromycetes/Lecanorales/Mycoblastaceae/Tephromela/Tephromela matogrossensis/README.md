@@ -1,5 +1,4 @@
-Tephromela matogrossensis Kalb & Elix SPECIES
-=======
+# Tephromela matogrossensis Kalb & Elix SPECIES
 
 #### Status
 ACCEPTED

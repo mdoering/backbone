@@ -1,5 +1,4 @@
-Mycosphaerella rusci D. Gupta, Padhi & Chowdhry SPECIES
-=======
+# Mycosphaerella rusci D. Gupta, Padhi & Chowdhry SPECIES
 
 #### Status
 ACCEPTED

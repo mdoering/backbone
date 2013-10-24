@@ -1,5 +1,4 @@
-Macroplodia staphyleae (Brunaud) Kuntze SPECIES
-=======
+# Macroplodia staphyleae (Brunaud) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exosporium badhamii Auersw. SPECIES
-=======
+# Exosporium badhamii Auersw. SPECIES
 
 #### Status
 ACCEPTED

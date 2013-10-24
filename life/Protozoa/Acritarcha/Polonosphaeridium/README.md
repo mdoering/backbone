@@ -1,5 +1,4 @@
-Polonosphaeridium H.Górka, 1987 GENUS
-=======
+# Polonosphaeridium H.Górka, 1987 GENUS
 
 #### Status
 ACCEPTED

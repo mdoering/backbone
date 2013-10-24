@@ -1,5 +1,4 @@
-Rhopalomyces variabilis Harder & Sörgel SPECIES
-=======
+# Rhopalomyces variabilis Harder & Sörgel SPECIES
 
 #### Status
 ACCEPTED

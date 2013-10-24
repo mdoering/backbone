@@ -1,17 +1,16 @@
-Byssonectria byssicola (Berk. & Broome) Cooke, 1884 SPECIES
-=======
+# Bionectria byssicola (Berk. & Broome) Schroers & Samuels, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Z. Mykol. 63(2): 152 (1997)
 
 #### Original name
-null
+Nectria byssicola Berk. & Broome, 1875
 
 ### Remarks
 null

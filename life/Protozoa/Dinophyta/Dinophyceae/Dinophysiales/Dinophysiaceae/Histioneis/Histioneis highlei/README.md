@@ -1,5 +1,4 @@
-Histioneis highlei SPECIES
-=======
+# Histioneis highlei SPECIES
 
 #### Status
 ACCEPTED

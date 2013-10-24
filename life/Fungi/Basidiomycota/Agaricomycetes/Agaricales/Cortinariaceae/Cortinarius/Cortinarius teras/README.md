@@ -1,5 +1,4 @@
-Cortinarius teras Reumaux SPECIES
-=======
+# Cortinarius teras Reumaux SPECIES
 
 #### Status
 ACCEPTED

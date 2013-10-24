@@ -1,5 +1,4 @@
-Sphaerella atra (Lév.) Sacc. SPECIES
-=======
+# Sphaerella atra (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blastophoma douglasii Kleb. SPECIES
-=======
+# Blastophoma douglasii Kleb. SPECIES
 
 #### Status
 ACCEPTED

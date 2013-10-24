@@ -1,17 +1,16 @@
-Thelephora laciniata var. laciniata VARIETY
-=======
+# Thelephora terrestris Ehrh., 1787 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Pl. Crypt. Linn. Exsicc. no. 178 (1787)
 
 #### Original name
-null
+Thelephora terrestris Ehrh., 1787
 
 ### Remarks
 null

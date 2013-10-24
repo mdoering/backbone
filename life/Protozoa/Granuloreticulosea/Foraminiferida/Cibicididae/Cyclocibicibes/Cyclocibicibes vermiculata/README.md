@@ -1,11 +1,10 @@
-Truncatulina vermiculata d'Orbigny, 1839 SPECIES
-=======
+# Cyclocibicibes vermiculata (d'Orbigny, 1826) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
 null

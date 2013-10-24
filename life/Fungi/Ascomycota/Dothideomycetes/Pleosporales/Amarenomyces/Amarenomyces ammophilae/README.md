@@ -1,17 +1,16 @@
-Heptameria ammophilae (Lasch) Cooke, 1889 SPECIES
-=======
+# Amarenomyces ammophilae (Lasch) O.E. Erikss., 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Op. bot. 60: 124 (1981)
 
 #### Original name
-null
+Sphaeria ammophilae Lasch, 1850
 
 ### Remarks
 null

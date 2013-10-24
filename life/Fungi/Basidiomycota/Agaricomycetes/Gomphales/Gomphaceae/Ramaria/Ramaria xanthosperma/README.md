@@ -1,17 +1,16 @@
-Ramaria xanthosperma var. australiana R.H. Petersen & Watling VARIETY
-=======
+# Ramaria xanthosperma (Peck) Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Notes R. bot. Gdn Edinb. 46(1): 156 (1989)
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 632 (1950)
 
 #### Original name
-Ramaria xanthosperma var. australiana R.H. Petersen & Watling
+Clavaria xanthosperma Peck, 1905
 
 ### Remarks
 null

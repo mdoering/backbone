@@ -1,5 +1,4 @@
-Pleurotellus geobius J. Favre SPECIES
-=======
+# Pleurotellus geobius J. Favre SPECIES
 
 #### Status
 ACCEPTED

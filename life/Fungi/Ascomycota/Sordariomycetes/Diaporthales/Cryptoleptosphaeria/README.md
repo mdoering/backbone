@@ -1,5 +1,4 @@
-Cryptoleptosphaeria Petr. GENUS
-=======
+# Cryptoleptosphaeria Petr. GENUS
 
 #### Status
 ACCEPTED

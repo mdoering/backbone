@@ -1,5 +1,4 @@
-Tubercularia canadensis Ellis & Everh. SPECIES
-=======
+# Tubercularia canadensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

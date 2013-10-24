@@ -1,5 +1,4 @@
-Amphirosellinia Y.M. Ju, J.D. Rogers, H.M. Hsieh & Vasilyeva GENUS
-=======
+# Amphirosellinia Y.M. Ju, J.D. Rogers, H.M. Hsieh & Vasilyeva GENUS
 
 #### Status
 ACCEPTED

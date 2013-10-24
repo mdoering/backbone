@@ -1,5 +1,4 @@
-Metasphaeria stromaticola Maubl. SPECIES
-=======
+# Metasphaeria stromaticola Maubl. SPECIES
 
 #### Status
 ACCEPTED

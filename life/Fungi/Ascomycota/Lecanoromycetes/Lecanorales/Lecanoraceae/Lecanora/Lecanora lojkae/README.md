@@ -1,5 +1,4 @@
-Lecanora lojkae Vain. SPECIES
-=======
+# Lecanora lojkae Vain. SPECIES
 
 #### Status
 ACCEPTED

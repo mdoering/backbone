@@ -1,5 +1,4 @@
-Parmelia marginalis Lynge SPECIES
-=======
+# Parmelia marginalis Lynge SPECIES
 
 #### Status
 ACCEPTED

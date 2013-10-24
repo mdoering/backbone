@@ -1,5 +1,4 @@
-Macroplodia pallida (Peck) Kuntze SPECIES
-=======
+# Macroplodia pallida (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

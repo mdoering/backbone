@@ -1,5 +1,4 @@
-Dermatocarpon italicum (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Dermatocarpon italicum (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

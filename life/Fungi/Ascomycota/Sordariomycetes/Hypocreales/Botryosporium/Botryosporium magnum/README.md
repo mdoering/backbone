@@ -1,5 +1,4 @@
-Botryosporium magnum Subram. & Sudha SPECIES
-=======
+# Botryosporium magnum Subram. & Sudha SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Favolus twaitesii Berk. SPECIES
-=======
+# Favolus twaitesii Berk. SPECIES
 
 #### Status
 ACCEPTED

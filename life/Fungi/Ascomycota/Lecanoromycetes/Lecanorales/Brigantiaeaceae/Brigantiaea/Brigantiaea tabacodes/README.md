@@ -1,5 +1,4 @@
-Brigantiaea tabacodes (Zahlbr.) Hafellner SPECIES
-=======
+# Brigantiaea tabacodes (Zahlbr.) Hafellner SPECIES
 
 #### Status
 ACCEPTED

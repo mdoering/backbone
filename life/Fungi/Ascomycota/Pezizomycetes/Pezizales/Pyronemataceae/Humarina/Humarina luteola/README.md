@@ -1,5 +1,4 @@
-Humarina luteola (Torrend) E.K. Cash SPECIES
-=======
+# Humarina luteola (Torrend) E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

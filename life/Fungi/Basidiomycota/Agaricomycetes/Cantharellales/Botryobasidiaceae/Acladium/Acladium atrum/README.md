@@ -1,5 +1,4 @@
-Acladium atrum Bonord. SPECIES
-=======
+# Acladium atrum Bonord. SPECIES
 
 #### Status
 ACCEPTED

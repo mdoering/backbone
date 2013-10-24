@@ -1,5 +1,4 @@
-Lulesia lignicola B.E. Lechner & J.E. Wright, 2006 SPECIES
-=======
+# Lulesia lignicola B.E. Lechner & J.E. Wright, 2006 SPECIES
 
 #### Status
 ACCEPTED

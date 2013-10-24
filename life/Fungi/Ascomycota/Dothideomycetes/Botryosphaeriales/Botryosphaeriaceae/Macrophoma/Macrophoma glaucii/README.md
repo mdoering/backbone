@@ -1,5 +1,4 @@
-Macrophoma glaucii Gonz. Frag. SPECIES
-=======
+# Macrophoma glaucii Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

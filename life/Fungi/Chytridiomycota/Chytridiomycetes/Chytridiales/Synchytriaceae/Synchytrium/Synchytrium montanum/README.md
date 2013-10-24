@@ -1,5 +1,4 @@
-Synchytrium montanum Zopf SPECIES
-=======
+# Synchytrium montanum Zopf SPECIES
 
 #### Status
 ACCEPTED

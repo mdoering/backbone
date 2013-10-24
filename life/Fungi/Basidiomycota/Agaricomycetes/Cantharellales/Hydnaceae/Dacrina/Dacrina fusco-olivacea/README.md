@@ -1,5 +1,4 @@
-Dacrina fusco-olivacea Fr. SPECIES
-=======
+# Dacrina fusco-olivacea Fr. SPECIES
 
 #### Status
 ACCEPTED

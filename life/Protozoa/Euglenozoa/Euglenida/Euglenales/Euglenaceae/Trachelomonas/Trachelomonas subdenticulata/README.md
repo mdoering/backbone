@@ -1,8 +1,7 @@
-Trachelomonas australis var. subdenticulata Playfair VARIETY
-=======
+# Trachelomonas subdenticulata (Playfair) W. Conrad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

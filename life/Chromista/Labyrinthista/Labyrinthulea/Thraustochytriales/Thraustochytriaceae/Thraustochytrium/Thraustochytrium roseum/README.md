@@ -1,5 +1,4 @@
-Thraustochytrium roseum S. Goldst., 1963 SPECIES
-=======
+# Thraustochytrium roseum S. Goldst., 1963 SPECIES
 
 #### Status
 ACCEPTED

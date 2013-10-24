@@ -1,5 +1,4 @@
-Sphaeria veronensis A. Massal. SPECIES
-=======
+# Sphaeria veronensis A. Massal. SPECIES
 
 #### Status
 ACCEPTED

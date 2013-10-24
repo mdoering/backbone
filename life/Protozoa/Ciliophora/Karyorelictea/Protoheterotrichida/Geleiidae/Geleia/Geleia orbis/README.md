@@ -1,5 +1,4 @@
-Geleia orbis Faure-Fremiet, 1951 SPECIES
-=======
+# Geleia orbis Faure-Fremiet, 1951 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kataspinifera H. Andruleit & J.R. Young, 2010 GENUS
-=======
+# Kataspinifera H. Andruleit & J.R. Young, 2010 GENUS
 
 #### Status
 ACCEPTED

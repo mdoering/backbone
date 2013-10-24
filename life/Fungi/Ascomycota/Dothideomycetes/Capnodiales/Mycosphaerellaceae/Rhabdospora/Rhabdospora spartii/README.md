@@ -1,5 +1,4 @@
-Rhabdospora spartii Pass. & Brunaud SPECIES
-=======
+# Rhabdospora spartii Pass. & Brunaud SPECIES
 
 #### Status
 ACCEPTED

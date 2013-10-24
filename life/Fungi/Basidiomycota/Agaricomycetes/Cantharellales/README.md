@@ -1,5 +1,4 @@
-Cantharellales Gäum. ORDER
-=======
+# Cantharellales Gäum. ORDER
 
 #### Status
 ACCEPTED

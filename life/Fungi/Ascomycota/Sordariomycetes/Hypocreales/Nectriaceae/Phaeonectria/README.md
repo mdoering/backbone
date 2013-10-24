@@ -1,5 +1,4 @@
-Phaeonectria GENUS
-=======
+# Phaeonectria GENUS
 
 #### Status
 ACCEPTED

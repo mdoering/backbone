@@ -1,5 +1,4 @@
-Puccinia eylesii Doidge SPECIES
-=======
+# Puccinia eylesii Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Opegrapha fuscella f. fuscella FORM
-=======
+# Opegrapha vermicellifera (Kunze) J. R. Laundon SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 2: 139 (1963)
 
 #### Original name
-Opegrapha fuscella f. fuscella
+Pyrenotea vermicellifera Kunze
 
 ### Remarks
 null

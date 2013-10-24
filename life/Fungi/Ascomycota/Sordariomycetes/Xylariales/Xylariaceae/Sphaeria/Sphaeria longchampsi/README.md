@@ -1,5 +1,4 @@
-Sphaeria longchampsi Westend. SPECIES
-=======
+# Sphaeria longchampsi Westend. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Esoptrodinium soligenum (Skuja) P. Jjavornick SPECIES
-=======
+# Esoptrodinium soligenum (Skuja) P. Jjavornick SPECIES
 
 #### Status
 ACCEPTED

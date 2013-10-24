@@ -1,5 +1,4 @@
-Agaricus scorpioides Fr. SPECIES
-=======
+# Agaricus scorpioides Fr. SPECIES
 
 #### Status
 ACCEPTED

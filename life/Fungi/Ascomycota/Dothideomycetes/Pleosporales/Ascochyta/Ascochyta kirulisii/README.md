@@ -1,5 +1,4 @@
-Ascochyta kirulisii H. Ruppr. SPECIES
-=======
+# Ascochyta kirulisii H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

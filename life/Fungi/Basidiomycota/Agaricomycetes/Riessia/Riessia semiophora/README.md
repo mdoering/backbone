@@ -1,5 +1,4 @@
-Riessia semiophora Fresen., 1852 SPECIES
-=======
+# Riessia semiophora Fresen., 1852 SPECIES
 
 #### Status
 ACCEPTED

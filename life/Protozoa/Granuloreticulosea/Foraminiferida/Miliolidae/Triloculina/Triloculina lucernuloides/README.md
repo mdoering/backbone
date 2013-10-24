@@ -1,5 +1,4 @@
-Triloculina lucernuloides (Ujiie, 1990) SPECIES
-=======
+# Triloculina lucernuloides (Ujiie, 1990) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Xylographomyces Cif. & Tomas. GENUS
-=======
+# Xylographa (Fr.) Fr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 42, 68 (1953)
+Fl. Scan. 344 (1836)
 
 #### Original name
-Xylographomyces Cif. & Tomas.
+null
 
 ### Remarks
 null

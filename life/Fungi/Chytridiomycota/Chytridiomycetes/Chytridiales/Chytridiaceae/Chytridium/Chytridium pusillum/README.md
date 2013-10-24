@@ -1,5 +1,4 @@
-Chytridium pusillum Scherff. SPECIES
-=======
+# Chytridium pusillum Scherff. SPECIES
 
 #### Status
 ACCEPTED

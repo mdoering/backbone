@@ -1,17 +1,16 @@
-Nematogonum caribensis R.F. Castañeda SPECIES
-=======
+# Nematogonum caribense R.F. Castañeda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Deuteromycotina de Cuba (La Habana), Hyphomycetes 3: 25 (1985)
 
 #### Original name
-Nematogonum caribensis R.F. Castañeda
+Nematogonum caribense R.F. Castañeda
 
 ### Remarks
 null

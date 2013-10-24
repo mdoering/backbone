@@ -1,5 +1,4 @@
-Canningia compta R. J. Davey SPECIES
-=======
+# Canningia compta R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

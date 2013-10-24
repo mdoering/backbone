@@ -1,5 +1,4 @@
-Belonidium glaucofuligineum Penz. & Sacc. SPECIES
-=======
+# Belonidium glaucofuligineum Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

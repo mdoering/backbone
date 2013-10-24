@@ -1,5 +1,4 @@
-Collybia thymicola Velen. SPECIES
-=======
+# Collybia thymicola Velen. SPECIES
 
 #### Status
 ACCEPTED

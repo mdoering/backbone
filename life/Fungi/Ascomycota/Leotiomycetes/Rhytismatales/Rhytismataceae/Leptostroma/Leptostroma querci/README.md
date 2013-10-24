@@ -1,5 +1,4 @@
-Leptostroma querci Tehon SPECIES
-=======
+# Leptostroma querci Tehon SPECIES
 
 #### Status
 ACCEPTED

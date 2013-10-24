@@ -1,5 +1,4 @@
-Sclerothrix Metschnikoff, 1888 GENUS
-=======
+# Sclerothrix Metschnikoff, 1888 GENUS
 
 #### Status
 ACCEPTED

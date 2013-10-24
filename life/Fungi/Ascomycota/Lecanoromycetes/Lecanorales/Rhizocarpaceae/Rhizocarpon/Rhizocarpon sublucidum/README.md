@@ -1,5 +1,4 @@
-Rhizocarpon sublucidum var. sublucidum VARIETY
-=======
+# Rhizocarpon sublucidum Räsänen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhizocarpon sublucidum var. sublucidum
+Rhizocarpon sublucidum Räsänen
 
 ### Remarks
 null

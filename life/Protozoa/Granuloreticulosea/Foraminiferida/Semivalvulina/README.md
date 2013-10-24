@@ -1,5 +1,4 @@
-Semivalvulina GENUS
-=======
+# Semivalvulina GENUS
 
 #### Status
 ACCEPTED

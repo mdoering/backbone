@@ -1,5 +1,4 @@
-Gloniella stipularum Kirschst. SPECIES
-=======
+# Gloniella stipularum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

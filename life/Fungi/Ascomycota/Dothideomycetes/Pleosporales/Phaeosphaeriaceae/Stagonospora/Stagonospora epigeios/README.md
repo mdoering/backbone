@@ -1,5 +1,4 @@
-Stagonospora epigeios Petr. SPECIES
-=======
+# Stagonospora epigeios Petr. SPECIES
 
 #### Status
 ACCEPTED

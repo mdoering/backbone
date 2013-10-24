@@ -1,5 +1,4 @@
-Trichosporodochium Dorn.-Silva & Dianese GENUS
-=======
+# Trichosporodochium Dorn.-Silva & Dianese GENUS
 
 #### Status
 ACCEPTED

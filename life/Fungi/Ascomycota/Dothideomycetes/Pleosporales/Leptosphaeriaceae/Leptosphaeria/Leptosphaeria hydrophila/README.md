@@ -1,5 +1,4 @@
-Leptosphaeria hydrophila Sacc. SPECIES
-=======
+# Leptosphaeria hydrophila Sacc. SPECIES
 
 #### Status
 ACCEPTED

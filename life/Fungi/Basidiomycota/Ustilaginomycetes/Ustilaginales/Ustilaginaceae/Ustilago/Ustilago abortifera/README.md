@@ -1,5 +1,4 @@
-Ustilago abortifera Speg. SPECIES
-=======
+# Ustilago abortifera Speg. SPECIES
 
 #### Status
 ACCEPTED

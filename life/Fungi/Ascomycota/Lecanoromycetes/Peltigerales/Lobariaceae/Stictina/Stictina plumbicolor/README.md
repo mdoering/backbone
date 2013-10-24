@@ -1,5 +1,4 @@
-Stictina plumbicolor Zahlbr. SPECIES
-=======
+# Stictina plumbicolor Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

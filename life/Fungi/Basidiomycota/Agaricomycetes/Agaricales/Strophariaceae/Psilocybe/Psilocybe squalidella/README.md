@@ -1,5 +1,4 @@
-Psilocybe squalidella (Peck) Peck SPECIES
-=======
+# Psilocybe squalidella (Peck) Peck SPECIES
 
 #### Status
 ACCEPTED

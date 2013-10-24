@@ -1,5 +1,4 @@
-Polyforama sibirica Naumova in Pykhova, 1969 SPECIES
-=======
+# Polyforama sibirica Naumova in Pykhova, 1969 SPECIES
 
 #### Status
 ACCEPTED

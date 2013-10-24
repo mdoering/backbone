@@ -1,5 +1,4 @@
-Eucampia antarctica f. recta Mangin FORM
-=======
+# Eucampia antarctica (Castracane) Mangin SPECIES
 
 #### Status
 ACCEPTED

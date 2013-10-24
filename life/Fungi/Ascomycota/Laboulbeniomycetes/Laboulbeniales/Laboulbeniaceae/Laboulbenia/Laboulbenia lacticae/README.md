@@ -1,5 +1,4 @@
-Laboulbenia lacticae Thaxt. SPECIES
-=======
+# Laboulbenia lacticae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

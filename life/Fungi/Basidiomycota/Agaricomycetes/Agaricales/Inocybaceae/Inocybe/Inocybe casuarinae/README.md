@@ -1,5 +1,4 @@
-Inocybe casuarinae Corner & E. Horak SPECIES
-=======
+# Inocybe casuarinae Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena mamaku Segedin, 1991 SPECIES
-=======
+# Mycena mamaku Segedin, 1991 SPECIES
 
 #### Status
 ACCEPTED

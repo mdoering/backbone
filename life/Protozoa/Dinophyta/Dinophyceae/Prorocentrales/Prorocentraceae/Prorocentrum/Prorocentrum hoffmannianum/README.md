@@ -1,14 +1,13 @@
-Exuviaella hoffmanianum (M.A. Faust) McLachlan & Boalch, 1997 SPECIES
-=======
+# Prorocentrum hoffmannianum M.A. Faust SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Faust M. A. 1990. Morphological details of six benthic species of <i>Prorocentrum</i> (Pyrrophyta) from a mangrove island, Twin Cays, Belize, including two new species. J. Phycol. 26: 548-558.
 
 #### Original name
 null

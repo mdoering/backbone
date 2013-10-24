@@ -1,5 +1,4 @@
-Psychrobacter adeliensis Shivaji et al., 2005 SPECIES
-=======
+# Psychrobacter adeliensis Shivaji et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

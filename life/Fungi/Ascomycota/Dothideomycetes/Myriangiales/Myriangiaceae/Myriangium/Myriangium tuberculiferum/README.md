@@ -1,5 +1,4 @@
-Myriangium tuberculiferum Shirai & Hara SPECIES
-=======
+# Myriangium tuberculiferum Shirai & Hara SPECIES
 
 #### Status
 ACCEPTED

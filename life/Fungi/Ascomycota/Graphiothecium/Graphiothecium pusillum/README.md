@@ -1,5 +1,4 @@
-Graphiothecium pusillum (Fuckel) Sacc. SPECIES
-=======
+# Graphiothecium pusillum (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

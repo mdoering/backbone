@@ -1,5 +1,4 @@
-Lycoperdon caepae-facie Vaill. SPECIES
-=======
+# Lycoperdon caepae-facie Vaill. SPECIES
 
 #### Status
 ACCEPTED

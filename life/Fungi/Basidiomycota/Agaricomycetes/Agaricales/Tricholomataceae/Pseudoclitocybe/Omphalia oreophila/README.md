@@ -1,5 +1,4 @@
-Omphalia oreophila Speg. SPECIES
-=======
+# Omphalia oreophila Speg. SPECIES
 
 #### Status
 ACCEPTED

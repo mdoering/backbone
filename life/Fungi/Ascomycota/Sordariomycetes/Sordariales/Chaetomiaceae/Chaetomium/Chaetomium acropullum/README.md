@@ -1,5 +1,4 @@
-Chaetomium acropullum X.Wei Wang SPECIES
-=======
+# Chaetomium acropullum X.Wei Wang SPECIES
 
 #### Status
 ACCEPTED

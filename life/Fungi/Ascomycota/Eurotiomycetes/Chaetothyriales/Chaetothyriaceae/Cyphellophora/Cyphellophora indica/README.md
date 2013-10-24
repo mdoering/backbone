@@ -1,5 +1,4 @@
-Cyphellophora indica (M. Jacob & Bhat) Decock SPECIES
-=======
+# Cyphellophora indica (M. Jacob & Bhat) Decock SPECIES
 
 #### Status
 ACCEPTED

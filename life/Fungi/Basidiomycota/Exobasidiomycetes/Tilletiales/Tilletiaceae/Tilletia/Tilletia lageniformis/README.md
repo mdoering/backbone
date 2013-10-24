@@ -1,5 +1,4 @@
-Tilletia lageniformis Vánky, C. Vánky, R.G. Shivas & Athip., 2006 SPECIES
-=======
+# Tilletia lageniformis Vánky, C. Vánky, R.G. Shivas & Athip., 2006 SPECIES
 
 #### Status
 ACCEPTED

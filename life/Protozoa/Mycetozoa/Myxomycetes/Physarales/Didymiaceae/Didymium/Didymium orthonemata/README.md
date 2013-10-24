@@ -1,5 +1,4 @@
-Didymium orthonemata H.W. Keller & T.E. Brooks, 1973 SPECIES
-=======
+# Didymium orthonemata H.W. Keller & T.E. Brooks, 1973 SPECIES
 
 #### Status
 ACCEPTED

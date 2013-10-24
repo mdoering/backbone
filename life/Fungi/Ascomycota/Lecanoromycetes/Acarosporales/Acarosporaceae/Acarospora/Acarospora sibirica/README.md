@@ -1,5 +1,4 @@
-Acarospora sibirica H. Magn. SPECIES
-=======
+# Acarospora sibirica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

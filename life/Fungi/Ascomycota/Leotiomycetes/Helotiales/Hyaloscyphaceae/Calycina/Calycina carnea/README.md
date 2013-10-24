@@ -1,5 +1,4 @@
-Calycina carnea (Fuckel) Kuntze SPECIES
-=======
+# Calycina carnea (Fuckel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

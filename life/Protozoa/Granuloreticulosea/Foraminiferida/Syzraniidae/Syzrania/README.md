@@ -1,5 +1,4 @@
-Syzrania Reitlinger, 1950 GENUS
-=======
+# Syzrania Reitlinger, 1950 GENUS
 
 #### Status
 ACCEPTED

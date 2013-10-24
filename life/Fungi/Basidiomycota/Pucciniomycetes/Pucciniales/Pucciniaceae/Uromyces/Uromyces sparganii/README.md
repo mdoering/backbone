@@ -1,5 +1,4 @@
-Uromyces sparganii subsp. sparganii SUBSPECIES
-=======
+# Uromyces sparganii Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Peck, Ann. Rep. N. Y. St. Mus. nat. Hist. 26: 77 (1874)
 
 #### Original name
-Uromyces sparganii subsp. sparganii
+Uromyces sparganii Cooke & Peck
 
 ### Remarks
 null

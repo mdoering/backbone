@@ -1,5 +1,4 @@
-Myrmecridium schulzeri var. schulzeri VARIETY
-=======
+# Myrmecridium schulzeri SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Arzanlou, Groenewald, Gams, Braun, Shin & Crous, Stud. Mycol. 58: 84 (2007)
+null
 
 #### Original name
-Psilobotrys schulzeri Sacc., 1884
+null
 
 ### Remarks
 null

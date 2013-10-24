@@ -1,5 +1,4 @@
-Cephalosporium bonordenii Sacc. SPECIES
-=======
+# Cephalosporium bonordenii Sacc. SPECIES
 
 #### Status
 ACCEPTED

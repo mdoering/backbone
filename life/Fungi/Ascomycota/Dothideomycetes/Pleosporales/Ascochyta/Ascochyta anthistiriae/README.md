@@ -1,5 +1,4 @@
-Ascochyta anthistiriae McAlpine SPECIES
-=======
+# Ascochyta anthistiriae McAlpine SPECIES
 
 #### Status
 ACCEPTED

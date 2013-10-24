@@ -1,5 +1,4 @@
-Hendrickxia alcicornis P.A. Duvign. SPECIES
-=======
+# Hendrickxia alcicornis P.A. Duvign. SPECIES
 
 #### Status
 ACCEPTED

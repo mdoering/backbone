@@ -1,5 +1,4 @@
-Puccinia deyeuxiae F.L. Tai & C.C. Cheo SPECIES
-=======
+# Puccinia deyeuxiae F.L. Tai & C.C. Cheo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria glacialis Ferraris SPECIES
-=======
+# Septoria glacialis Ferraris SPECIES
 
 #### Status
 ACCEPTED

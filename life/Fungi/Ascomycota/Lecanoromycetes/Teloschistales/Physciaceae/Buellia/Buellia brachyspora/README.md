@@ -1,5 +1,4 @@
-Buellia brachyspora Müll. Arg. SPECIES
-=======
+# Buellia brachyspora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

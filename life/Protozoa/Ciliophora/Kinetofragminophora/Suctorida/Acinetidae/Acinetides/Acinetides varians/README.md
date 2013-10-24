@@ -1,5 +1,4 @@
-Acinetides varians Swarczewsky, 1928 SPECIES
-=======
+# Acinetides varians Swarczewsky, 1928 SPECIES
 
 #### Status
 ACCEPTED

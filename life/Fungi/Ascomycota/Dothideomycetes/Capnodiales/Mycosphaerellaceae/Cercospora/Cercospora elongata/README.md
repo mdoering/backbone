@@ -1,5 +1,4 @@
-Cercospora elongata Peck SPECIES
-=======
+# Cercospora elongata Peck SPECIES
 
 #### Status
 ACCEPTED

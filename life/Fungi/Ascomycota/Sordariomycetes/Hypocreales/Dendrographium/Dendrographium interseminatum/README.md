@@ -1,5 +1,4 @@
-Dendrographium interseminatum Subram. SPECIES
-=======
+# Dendrographium interseminatum Subram. SPECIES
 
 #### Status
 ACCEPTED

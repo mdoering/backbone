@@ -1,5 +1,4 @@
-Sorosporium leersiae Mishra SPECIES
-=======
+# Sorosporium leersiae Mishra SPECIES
 
 #### Status
 ACCEPTED

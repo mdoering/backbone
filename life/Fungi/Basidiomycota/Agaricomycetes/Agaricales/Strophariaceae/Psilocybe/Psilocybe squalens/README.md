@@ -1,5 +1,4 @@
-Psilocybe squalens (Fr.) P. Karst. SPECIES
-=======
+# Psilocybe squalens (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

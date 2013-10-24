@@ -1,5 +1,4 @@
-Parmelia rudis SPECIES
-=======
+# Parmelia rudis SPECIES
 
 #### Status
 ACCEPTED

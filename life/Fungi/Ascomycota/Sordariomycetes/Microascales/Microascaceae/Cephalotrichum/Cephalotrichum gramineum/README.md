@@ -1,5 +1,4 @@
-Cephalotrichum gramineum (P. Karst.) Kuntze SPECIES
-=======
+# Cephalotrichum gramineum (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

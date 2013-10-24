@@ -1,5 +1,4 @@
-Amanita fulvosquamulosa Beeli SPECIES
-=======
+# Amanita fulvosquamulosa Beeli SPECIES
 
 #### Status
 ACCEPTED

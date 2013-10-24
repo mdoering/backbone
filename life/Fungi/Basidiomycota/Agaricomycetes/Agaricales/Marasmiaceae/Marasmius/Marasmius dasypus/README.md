@@ -1,5 +1,4 @@
-Marasmius dasypus Speg. SPECIES
-=======
+# Marasmius dasypus Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diphymyces spelaei W. Rossi SPECIES
-=======
+# Diphymyces spelaei W. Rossi SPECIES
 
 #### Status
 ACCEPTED

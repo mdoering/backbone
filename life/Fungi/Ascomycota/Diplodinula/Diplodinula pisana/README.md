@@ -1,5 +1,4 @@
-Diplodinula pisana (Berl.) Tassi SPECIES
-=======
+# Diplodinula pisana (Berl.) Tassi SPECIES
 
 #### Status
 ACCEPTED

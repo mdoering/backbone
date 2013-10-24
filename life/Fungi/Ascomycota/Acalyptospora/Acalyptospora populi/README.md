@@ -1,5 +1,4 @@
-Acalyptospora populi Peck SPECIES
-=======
+# Acalyptospora populi Peck SPECIES
 
 #### Status
 ACCEPTED

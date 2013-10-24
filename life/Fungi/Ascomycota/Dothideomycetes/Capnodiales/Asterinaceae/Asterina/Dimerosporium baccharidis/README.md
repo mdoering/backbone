@@ -1,5 +1,4 @@
-Dimerosporium baccharidis (Berk. & Ravenel) Sacc. SPECIES
-=======
+# Dimerosporium baccharidis (Berk. & Ravenel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

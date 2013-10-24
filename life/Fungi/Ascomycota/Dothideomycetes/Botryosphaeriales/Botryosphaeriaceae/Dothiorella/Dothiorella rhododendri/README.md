@@ -1,5 +1,4 @@
-Dothiorella rhododendri A.C. Santos & Sousa da Câmara SPECIES
-=======
+# Dothiorella rhododendri A.C. Santos & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelotrema discolor Ach. SPECIES
-=======
+# Thelotrema discolor Ach. SPECIES
 
 #### Status
 ACCEPTED

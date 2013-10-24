@@ -1,5 +1,4 @@
-Usnea santessonii Räsänen SPECIES
-=======
+# Usnea santessonii Räsänen SPECIES
 
 #### Status
 ACCEPTED

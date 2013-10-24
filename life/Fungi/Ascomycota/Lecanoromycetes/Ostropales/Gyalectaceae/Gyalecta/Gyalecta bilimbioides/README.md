@@ -1,5 +1,4 @@
-Gyalecta bilimbioides Anzi SPECIES
-=======
+# Gyalecta bilimbioides Anzi SPECIES
 
 #### Status
 ACCEPTED

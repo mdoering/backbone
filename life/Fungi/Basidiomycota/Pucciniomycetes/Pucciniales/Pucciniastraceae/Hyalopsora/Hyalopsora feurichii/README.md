@@ -1,5 +1,4 @@
-Hyalopsora feurichii E. Fisch. SPECIES
-=======
+# Hyalopsora feurichii E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

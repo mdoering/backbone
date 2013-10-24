@@ -1,5 +1,4 @@
-Ilea clathrata var. uncinata (Lyngbye) De Notaris VARIETY
-=======
+# Ilea clathrata (Roth) Gaillon SPECIES
 
 #### Status
 ACCEPTED

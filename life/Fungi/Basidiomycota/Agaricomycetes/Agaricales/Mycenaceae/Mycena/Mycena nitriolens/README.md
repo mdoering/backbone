@@ -1,5 +1,4 @@
-Mycena nitriolens Valla SPECIES
-=======
+# Mycena nitriolens Valla SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Irpex calcareus (Cooke & Massee) Wakef., 1915 SPECIES
-=======
+# Pseudolagarobasidium calcareum (Cooke & Massee) Sheng H. Wu, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Misc. Inf. , Kew 367 (1915)
+Ann. bot. fenn. 142: 112 (1990)
 
 #### Original name
 Hydnum calcareum Cooke & Massee, 1892

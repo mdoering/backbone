@@ -1,5 +1,4 @@
-Bistarkum Yeh, 1987 GENUS
-=======
+# Bistarkum Yeh, 1987 GENUS
 
 #### Status
 ACCEPTED

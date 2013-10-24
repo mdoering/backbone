@@ -1,5 +1,4 @@
-Coscinodiscus subglobosus var. antarcticus Grunow VARIETY
-=======
+# Coscinodiscus subglobosus Cleve & Grunow SPECIES
 
 #### Status
 ACCEPTED

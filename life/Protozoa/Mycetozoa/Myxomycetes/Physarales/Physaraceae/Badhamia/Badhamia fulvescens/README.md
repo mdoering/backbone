@@ -1,5 +1,4 @@
-Badhamia fulvescens Cooke SPECIES
-=======
+# Badhamia fulvescens Cooke SPECIES
 
 #### Status
 ACCEPTED

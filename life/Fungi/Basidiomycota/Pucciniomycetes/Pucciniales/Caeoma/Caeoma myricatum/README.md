@@ -1,5 +1,4 @@
-Caeoma myricatum Schwein. SPECIES
-=======
+# Caeoma myricatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

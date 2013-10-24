@@ -1,5 +1,4 @@
-Boletus hainanensis T.H. Li & M. Zang SPECIES
-=======
+# Boletus hainanensis T.H. Li & M. Zang SPECIES
 
 #### Status
 ACCEPTED

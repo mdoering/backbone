@@ -1,5 +1,4 @@
-Puccinia hakkodensis Hirats. f. SPECIES
-=======
+# Puccinia hakkodensis Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

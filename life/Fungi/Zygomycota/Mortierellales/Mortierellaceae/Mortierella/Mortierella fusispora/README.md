@@ -1,5 +1,4 @@
-Mortierella fusispora Tiegh. SPECIES
-=======
+# Mortierella fusispora Tiegh. SPECIES
 
 #### Status
 ACCEPTED

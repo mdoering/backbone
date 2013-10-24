@@ -1,5 +1,4 @@
-Cortinarius jacobii Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius jacobii Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

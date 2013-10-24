@@ -1,14 +1,13 @@
-Passalora terrestre (K.J. Srivast. & P.C. Misra) Poonam Srivast. SPECIES
-=======
+# Passalora terrestris (K.J. Srivast. & P.C. Misra) Poonam Srivast. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of Living World 1(2): 118 (1994)
 
 #### Original name
 Cercosporidium terrestre K.J. Srivast. & P.C. Misra

@@ -1,5 +1,4 @@
-Hendersonia septemseptata Vestergr. SPECIES
-=======
+# Hendersonia septemseptata Vestergr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Propolidium atrofuscum Henn. SPECIES
-=======
+# Propolidium atrofuscum Henn. SPECIES
 
 #### Status
 ACCEPTED

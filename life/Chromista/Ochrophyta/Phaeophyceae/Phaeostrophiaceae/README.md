@@ -1,5 +1,4 @@
-Phaeostrophiaceae FAMILY
-=======
+# Phaeostrophiaceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heptameria obesa (Durieu & Mont.) Sacc. SPECIES
-=======
+# Heptameria obesa (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

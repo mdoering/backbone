@@ -1,5 +1,4 @@
-Tetraparma B.C.Booth, 1987 GENUS
-=======
+# Tetraparma B.C.Booth, 1987 GENUS
 
 #### Status
 ACCEPTED

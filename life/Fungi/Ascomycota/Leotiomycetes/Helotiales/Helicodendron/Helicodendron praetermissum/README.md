@@ -1,5 +1,4 @@
-Helicodendron praetermissum Voglmayr SPECIES
-=======
+# Helicodendron praetermissum Voglmayr SPECIES
 
 #### Status
 ACCEPTED

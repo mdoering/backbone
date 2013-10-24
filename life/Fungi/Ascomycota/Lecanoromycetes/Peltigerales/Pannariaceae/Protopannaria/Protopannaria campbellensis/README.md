@@ -1,5 +1,4 @@
-Protopannaria campbellensis Øvstedal & Fryday SPECIES
-=======
+# Protopannaria campbellensis Øvstedal & Fryday SPECIES
 
 #### Status
 ACCEPTED

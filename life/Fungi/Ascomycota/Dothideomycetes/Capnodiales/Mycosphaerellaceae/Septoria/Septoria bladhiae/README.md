@@ -1,5 +1,4 @@
-Septoria bladhiae Sawada SPECIES
-=======
+# Septoria bladhiae Sawada SPECIES
 
 #### Status
 ACCEPTED

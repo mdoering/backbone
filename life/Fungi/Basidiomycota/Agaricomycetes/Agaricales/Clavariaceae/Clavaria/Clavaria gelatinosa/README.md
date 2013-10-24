@@ -1,5 +1,4 @@
-Clavaria gelatinosa Coker SPECIES
-=======
+# Clavaria gelatinosa Coker SPECIES
 
 #### Status
 ACCEPTED

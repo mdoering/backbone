@@ -1,5 +1,4 @@
-Hirneola lesueurii Lév. SPECIES
-=======
+# Hirneola lesueurii Lév. SPECIES
 
 #### Status
 ACCEPTED

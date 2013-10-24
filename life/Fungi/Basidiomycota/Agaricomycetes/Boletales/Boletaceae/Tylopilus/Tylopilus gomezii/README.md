@@ -1,5 +1,4 @@
-Tylopilus gomezii Singer SPECIES
-=======
+# Tylopilus gomezii Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium occidentale Arthur SPECIES
-=======
+# Aecidium occidentale Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Semilecanora atrocupreola Motyka SPECIES
-=======
+# Semilecanora atrocupreola Motyka SPECIES
 
 #### Status
 ACCEPTED

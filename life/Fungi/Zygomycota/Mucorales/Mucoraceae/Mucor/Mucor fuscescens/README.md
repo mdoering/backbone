@@ -1,5 +1,4 @@
-Mucor fuscescens Yosh. Yamam. SPECIES
-=======
+# Mucor fuscescens Yosh. Yamam. SPECIES
 
 #### Status
 ACCEPTED

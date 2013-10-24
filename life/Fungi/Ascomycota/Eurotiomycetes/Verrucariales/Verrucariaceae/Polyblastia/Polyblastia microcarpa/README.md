@@ -1,8 +1,7 @@
-Polyblastia cupularis f. microcarpa Arnold FORM
-=======
+# Polyblastia microcarpa (Arnold) Lettau SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Polyblastia cupularis f. microcarpa Arnold
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sporidesmium suttonii S. Hughes SPECIES
-=======
+# Sporidesmium suttonii S. Hughes SPECIES
 
 #### Status
 ACCEPTED

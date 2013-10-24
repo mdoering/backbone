@@ -1,5 +1,4 @@
-Xanthoparmelia rubromedulla Hale SPECIES
-=======
+# Xanthoparmelia rubromedulla Hale SPECIES
 
 #### Status
 ACCEPTED

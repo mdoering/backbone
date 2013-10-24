@@ -1,5 +1,4 @@
-Podospora perplexans (Cain) Cain, 1962 SPECIES
-=======
+# Podospora perplexans (Cain) Cain, 1962 SPECIES
 
 #### Status
 ACCEPTED

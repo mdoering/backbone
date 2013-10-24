@@ -1,5 +1,4 @@
-Berkleasmium sutheppuiense Bussaban, Lumyong, P. Lumyong, McKenzie & K.D. Hyde SPECIES
-=======
+# Berkleasmium sutheppuiense Bussaban, Lumyong, P. Lumyong, McKenzie & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

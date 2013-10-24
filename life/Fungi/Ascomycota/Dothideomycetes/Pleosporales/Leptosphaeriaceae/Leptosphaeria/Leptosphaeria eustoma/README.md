@@ -1,17 +1,16 @@
-Leptosphaeria eustoma f. eustoma FORM
-=======
+# Leptosphaeria eustoma (Fr.) Sacc., 1879 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Ven. , Flora Italica no. 497 (1879)
+null
 
 #### Original name
-Leptosphaeria eustoma f. eustoma
+null
 
 ### Remarks
 null

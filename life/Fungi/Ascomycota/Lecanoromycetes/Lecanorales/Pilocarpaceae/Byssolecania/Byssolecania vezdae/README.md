@@ -1,5 +1,4 @@
-Byssolecania vezdae Kalb & Lücking SPECIES
-=======
+# Byssolecania vezdae Kalb & Lücking SPECIES
 
 #### Status
 ACCEPTED

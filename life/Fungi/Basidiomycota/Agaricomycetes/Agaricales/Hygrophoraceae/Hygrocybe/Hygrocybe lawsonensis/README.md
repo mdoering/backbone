@@ -1,5 +1,4 @@
-Hygrocybe lawsonensis A.M. Young SPECIES
-=======
+# Hygrocybe lawsonensis A.M. Young SPECIES
 
 #### Status
 ACCEPTED

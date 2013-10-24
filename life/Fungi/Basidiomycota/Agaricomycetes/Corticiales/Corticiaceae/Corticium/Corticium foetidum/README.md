@@ -1,5 +1,4 @@
-Corticium foetidum Berk. & Broome SPECIES
-=======
+# Corticium foetidum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

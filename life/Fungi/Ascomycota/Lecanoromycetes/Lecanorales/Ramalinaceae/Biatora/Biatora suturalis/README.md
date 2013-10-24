@@ -1,5 +1,4 @@
-Biatora suturalis Eckfeldt SPECIES
-=======
+# Biatora suturalis Eckfeldt SPECIES
 
 #### Status
 ACCEPTED

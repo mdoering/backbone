@@ -1,5 +1,4 @@
-Alkalibacter saccharofermentans Garnova et al., 2005 SPECIES
-=======
+# Alkalibacter saccharofermentans Garnova et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

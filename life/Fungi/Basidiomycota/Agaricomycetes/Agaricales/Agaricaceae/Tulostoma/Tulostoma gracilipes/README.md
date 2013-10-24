@@ -1,5 +1,4 @@
-Tulostoma gracilipes J.E. Wright SPECIES
-=======
+# Tulostoma gracilipes J.E. Wright SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporocarpon majus Kalgutkar & Janson. SPECIES
-=======
+# Sporocarpon majus Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

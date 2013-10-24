@@ -1,17 +1,16 @@
-Pezizella incerta Allesch., 1898 SPECIES
-=======
+# Hyaloscypha vitreola (P. Karst.) Boud., 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 1: 118 (1885)
 
 #### Original name
-Pezizella incerta Allesch., 1898
+null
 
 ### Remarks
 null

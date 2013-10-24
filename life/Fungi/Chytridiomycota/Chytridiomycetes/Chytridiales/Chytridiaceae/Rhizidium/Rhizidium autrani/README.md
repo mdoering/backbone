@@ -1,5 +1,4 @@
-Rhizidium autrani De Wild. SPECIES
-=======
+# Rhizidium autrani De Wild. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Johansonia consociata (Syd.) Arx, 1962 SPECIES
-=======
+# Johansonia consociata (Syd.) Arx, 1962 SPECIES
 
 #### Status
 ACCEPTED

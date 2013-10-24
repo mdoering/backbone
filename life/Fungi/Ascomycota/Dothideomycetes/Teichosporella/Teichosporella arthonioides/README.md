@@ -1,5 +1,4 @@
-Teichosporella arthonioides Sacc. SPECIES
-=======
+# Teichosporella arthonioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

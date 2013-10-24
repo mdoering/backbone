@@ -1,5 +1,4 @@
-Meliola cogniauxiae Hansf. SPECIES
-=======
+# Meliola cogniauxiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

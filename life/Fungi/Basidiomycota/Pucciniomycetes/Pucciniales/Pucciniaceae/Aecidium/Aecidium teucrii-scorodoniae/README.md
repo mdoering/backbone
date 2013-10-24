@@ -1,5 +1,4 @@
-Aecidium teucrii-scorodoniae Har. SPECIES
-=======
+# Aecidium teucrii-scorodoniae Har. SPECIES
 
 #### Status
 ACCEPTED

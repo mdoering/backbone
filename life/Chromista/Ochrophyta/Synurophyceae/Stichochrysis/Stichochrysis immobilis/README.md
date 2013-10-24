@@ -1,5 +1,4 @@
-Stichochrysis immobilis E.G. Pringsheim SPECIES
-=======
+# Stichochrysis immobilis E.G. Pringsheim SPECIES
 
 #### Status
 ACCEPTED

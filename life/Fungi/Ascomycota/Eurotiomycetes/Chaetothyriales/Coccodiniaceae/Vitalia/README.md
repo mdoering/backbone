@@ -1,5 +1,4 @@
-Vitalia GENUS
-=======
+# Vitalia GENUS
 
 #### Status
 ACCEPTED

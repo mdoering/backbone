@@ -1,5 +1,4 @@
-Malassezia macfadyeni Castell. SPECIES
-=======
+# Malassezia macfadyeni Castell. SPECIES
 
 #### Status
 ACCEPTED

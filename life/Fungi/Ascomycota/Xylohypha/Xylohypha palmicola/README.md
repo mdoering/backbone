@@ -1,5 +1,4 @@
-Xylohypha palmicola S. Hughes & Sugiy., 1972 SPECIES
-=======
+# Xylohypha palmicola S. Hughes & Sugiy., 1972 SPECIES
 
 #### Status
 ACCEPTED

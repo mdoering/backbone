@@ -1,5 +1,4 @@
-Asterothyrium chroodisciforme Lücking SPECIES
-=======
+# Asterothyrium chroodisciforme Lücking SPECIES
 
 #### Status
 ACCEPTED

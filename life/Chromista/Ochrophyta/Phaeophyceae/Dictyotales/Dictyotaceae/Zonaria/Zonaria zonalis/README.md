@@ -1,5 +1,4 @@
-Zonaria zonalis (Lamouroux) Howe SPECIES
-=======
+# Zonaria zonalis (Lamouroux) Howe SPECIES
 
 #### Status
 ACCEPTED

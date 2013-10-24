@@ -1,5 +1,4 @@
-Tricholoma lentum H. Post SPECIES
-=======
+# Tricholoma lentum H. Post SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus anepsius Mont. SPECIES
-=======
+# Agaricus anepsius Mont. SPECIES
 
 #### Status
 ACCEPTED

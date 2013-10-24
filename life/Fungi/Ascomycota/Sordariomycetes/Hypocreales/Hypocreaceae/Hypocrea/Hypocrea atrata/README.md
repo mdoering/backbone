@@ -1,5 +1,4 @@
-Hypocrea atrata P. Karst. SPECIES
-=======
+# Hypocrea atrata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

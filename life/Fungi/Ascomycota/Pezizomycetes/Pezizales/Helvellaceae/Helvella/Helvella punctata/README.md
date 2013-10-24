@@ -1,17 +1,16 @@
-Elvela punctata Schaeff. SPECIES
-=======
+# Helvella punctata Schaeff. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fung. Bavar. Palat. 4: (1774)
 
 #### Original name
-Elvela punctata Schaeff.
+Helvella punctata Schaeff.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Asteridium ordense (Downie, 1982) emend. Vidal & Peel, 1993 SPECIES
-=======
+# Asteridium ordense (Downie, 1982) emend. Vidal & Peel, 1993 SPECIES
 
 #### Status
 ACCEPTED

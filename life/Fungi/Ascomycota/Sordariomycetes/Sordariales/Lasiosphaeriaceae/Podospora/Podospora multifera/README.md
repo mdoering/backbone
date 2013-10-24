@@ -1,5 +1,4 @@
-Podospora multifera (Berk. & Ravenel) Niessl SPECIES
-=======
+# Podospora multifera (Berk. & Ravenel) Niessl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guignardia arengae Rehm SPECIES
-=======
+# Guignardia arengae Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria papaveris (Bres.) M.B. Ellis SPECIES
-=======
+# Alternaria papaveris (Bres.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

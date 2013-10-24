@@ -1,8 +1,7 @@
-Lecanora tongleti Hue SPECIES
-=======
+# Lecanora tongletii Hue SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora tongleti Hue
+Lecanora tongletii Hue
 
 ### Remarks
 null

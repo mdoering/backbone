@@ -1,14 +1,13 @@
-Coniothyrium pezizodes (Ellis & Everh.) Kuntze SPECIES
-=======
+# Coniothyrium pezizoides (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 459 (1898)
 
 #### Original name
 Coryneum pezizoides Ellis & Everh.

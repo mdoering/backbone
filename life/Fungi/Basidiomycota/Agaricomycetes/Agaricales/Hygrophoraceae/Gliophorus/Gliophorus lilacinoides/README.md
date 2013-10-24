@@ -1,14 +1,13 @@
-Hygrocybe lilacinoides (E. Horak) Boertm., 2002 SPECIES
-=======
+# Gliophorus lilacinoides E. Horak, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Mycol. 192: 43 (2002)
+Beih. Nova Hedwigia 43: 172 (1973)
 
 #### Original name
 Gliophorus lilacinoides E. Horak, 1973

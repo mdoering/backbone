@@ -1,5 +1,4 @@
-Ramicola olivacea Velen. SPECIES
-=======
+# Ramicola olivacea Velen. SPECIES
 
 #### Status
 ACCEPTED

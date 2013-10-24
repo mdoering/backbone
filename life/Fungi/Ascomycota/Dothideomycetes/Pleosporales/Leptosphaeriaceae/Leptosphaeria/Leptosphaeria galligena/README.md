@@ -1,5 +1,4 @@
-Leptosphaeria galligena Keissl. SPECIES
-=======
+# Leptosphaeria galligena Keissl. SPECIES
 
 #### Status
 ACCEPTED

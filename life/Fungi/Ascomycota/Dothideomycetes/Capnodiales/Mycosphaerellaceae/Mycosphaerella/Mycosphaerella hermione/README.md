@@ -1,5 +1,4 @@
-Mycosphaerella hermione (Sacc.) Lindau ex Ranoj. SPECIES
-=======
+# Mycosphaerella hermione (Sacc.) Lindau ex Ranoj. SPECIES
 
 #### Status
 ACCEPTED

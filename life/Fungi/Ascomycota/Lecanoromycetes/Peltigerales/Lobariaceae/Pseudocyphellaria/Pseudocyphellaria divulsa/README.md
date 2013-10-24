@@ -1,5 +1,4 @@
-Pseudocyphellaria divulsa (Taylor) Imshaug SPECIES
-=======
+# Pseudocyphellaria divulsa (Taylor) Imshaug SPECIES
 
 #### Status
 ACCEPTED

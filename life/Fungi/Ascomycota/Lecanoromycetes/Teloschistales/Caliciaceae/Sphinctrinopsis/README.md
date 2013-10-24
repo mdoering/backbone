@@ -1,5 +1,4 @@
-Sphinctrinopsis Woron. GENUS
-=======
+# Sphinctrinopsis Woron. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protoperidinium schilleri (Paulsen, 1930) Balech, 1974 SPECIES
-=======
+# Protoperidinium schilleri (Paulsen, 1930) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

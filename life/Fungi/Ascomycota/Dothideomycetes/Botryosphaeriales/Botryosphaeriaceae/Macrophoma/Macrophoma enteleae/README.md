@@ -1,5 +1,4 @@
-Macrophoma enteleae Tassi SPECIES
-=======
+# Macrophoma enteleae Tassi SPECIES
 
 #### Status
 ACCEPTED

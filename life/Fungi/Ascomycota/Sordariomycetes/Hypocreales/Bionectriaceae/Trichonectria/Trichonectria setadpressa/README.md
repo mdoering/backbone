@@ -1,5 +1,4 @@
-Trichonectria setadpressa Etayo SPECIES
-=======
+# Trichonectria setadpressa Etayo SPECIES
 
 #### Status
 ACCEPTED

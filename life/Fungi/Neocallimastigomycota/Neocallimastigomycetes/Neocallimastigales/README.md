@@ -1,5 +1,4 @@
-Neocallimastigales J.L. Li, I.B. Heath & L. Packer ORDER
-=======
+# Neocallimastigales J.L. Li, I.B. Heath & L. Packer ORDER
 
 #### Status
 ACCEPTED

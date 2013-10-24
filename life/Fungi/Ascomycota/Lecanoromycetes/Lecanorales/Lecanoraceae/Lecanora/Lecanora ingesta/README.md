@@ -1,5 +1,4 @@
-Lecanora ingesta Stirt. SPECIES
-=======
+# Lecanora ingesta Stirt. SPECIES
 
 #### Status
 ACCEPTED

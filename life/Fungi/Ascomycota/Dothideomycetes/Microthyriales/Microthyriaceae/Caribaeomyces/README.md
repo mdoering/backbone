@@ -1,5 +1,4 @@
-Caribaeomyces Cif. GENUS
-=======
+# Caribaeomyces Cif. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discorbis rosea SPECIES
-=======
+# Discorbis rosea SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Termitomyces entolomoides R. Heim SPECIES
-=======
+# Termitomyces entolomoides R. Heim SPECIES
 
 #### Status
 ACCEPTED

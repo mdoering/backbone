@@ -1,5 +1,4 @@
-Uredo arundinis-donacis F.L. Tai SPECIES
-=======
+# Uredo arundinis-donacis F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

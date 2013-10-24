@@ -1,14 +1,13 @@
-Chaetomium seminudum L.M. Ames, 1950 SPECIES
-=======
+# Farrowia seminuda (L.M. Ames) D. Hawksw., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 41(6): 642 (1950)
+Persoonia 8(2): 181 (1975)
 
 #### Original name
 Chaetomium seminudum L.M. Ames, 1950

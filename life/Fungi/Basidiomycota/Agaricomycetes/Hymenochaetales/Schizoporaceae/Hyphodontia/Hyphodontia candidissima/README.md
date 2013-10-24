@@ -1,14 +1,13 @@
-Kneiffiella candidissima (Berk. & M.A. Curtis) Underw., 1897 SPECIES
-=======
+# Hyphodontia candidissima (Berk. & M.A. Curtis) Langer, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 24(4): 206 (1897)
+Biblthca Mycol. 154: 74 (1994)
 
 #### Original name
 null

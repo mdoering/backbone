@@ -1,5 +1,4 @@
-Scyphosphaera Lohmann, 1902 GENUS
-=======
+# Scyphosphaera Lohmann, 1902 GENUS
 
 #### Status
 ACCEPTED

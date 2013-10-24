@@ -1,5 +1,4 @@
-Spiroplasma cantharicola Whitcomb et al., 1993 SPECIES
-=======
+# Spiroplasma cantharicola Whitcomb et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

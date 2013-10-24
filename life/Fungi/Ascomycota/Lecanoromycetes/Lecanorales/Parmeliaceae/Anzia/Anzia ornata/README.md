@@ -1,5 +1,4 @@
-Anzia ornata (Zahlbr.) Asahina SPECIES
-=======
+# Anzia ornata (Zahlbr.) Asahina SPECIES
 
 #### Status
 ACCEPTED

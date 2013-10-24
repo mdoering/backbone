@@ -1,8 +1,7 @@
-Niptera rollandi Boud. SPECIES
-=======
+# Niptera rollandii Boud. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Niptera rollandi Boud.
+Niptera rollandii Boud.
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Trabutia parvicapsa Cooke, 1891 SPECIES
-=======
+# Phyllachora parvicapsa (Cooke) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 20(no. 93): 5 (1891)
+Annls mycol. 13(5/6): 488 (1915)
 
 #### Original name
 Trabutia parvicapsa Cooke, 1891

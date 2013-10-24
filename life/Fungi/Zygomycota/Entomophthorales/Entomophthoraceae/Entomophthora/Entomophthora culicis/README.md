@@ -1,14 +1,13 @@
-Empusa culicis A. Braun, 1855 SPECIES
-=======
+# Entomophthora culicis (A. Braun) Fresen., 1858 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Algarum unicellularum genera nova (Lipsiae) 105 (1855)
+Abh. senckenb. naturforsch. Ges. 2(2): 206 (1858)
 
 #### Original name
 Empusa culicis A. Braun, 1855

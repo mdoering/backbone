@@ -1,5 +1,4 @@
-Micarea muhrii Coppins SPECIES
-=======
+# Micarea muhrii Coppins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthopyrenia rhododendri (Arnold) Dalla Torre & Sarnth. SPECIES
-=======
+# Arthopyrenia rhododendri (Arnold) Dalla Torre & Sarnth. SPECIES
 
 #### Status
 ACCEPTED

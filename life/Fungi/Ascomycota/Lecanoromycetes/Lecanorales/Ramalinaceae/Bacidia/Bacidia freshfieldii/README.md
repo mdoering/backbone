@@ -1,14 +1,13 @@
-Bacidia freshfieldi (Vain.) Zahlbr. SPECIES
-=======
+# Bacidia freshfieldii (Vain.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 4: 112 (1926)
 
 #### Original name
 Lecidea freshfieldii Vain.

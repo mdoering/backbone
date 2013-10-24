@@ -1,5 +1,4 @@
-Curvularia richardiae Alcorn, 1971 SPECIES
-=======
+# Curvularia richardiae Alcorn, 1971 SPECIES
 
 #### Status
 ACCEPTED

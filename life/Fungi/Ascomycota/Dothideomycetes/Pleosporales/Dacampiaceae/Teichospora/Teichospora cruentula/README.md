@@ -1,5 +1,4 @@
-Teichospora cruentula Sacc. SPECIES
-=======
+# Teichospora cruentula Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia lophiostomatoides Ellis & Barthol. SPECIES
-=======
+# Diplodia lophiostomatoides Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

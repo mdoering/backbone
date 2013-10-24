@@ -1,5 +1,4 @@
-Striatasclerotes cicatricosus Stach & Pickh. SPECIES
-=======
+# Striatasclerotes cicatricosus Stach & Pickh. SPECIES
 
 #### Status
 ACCEPTED

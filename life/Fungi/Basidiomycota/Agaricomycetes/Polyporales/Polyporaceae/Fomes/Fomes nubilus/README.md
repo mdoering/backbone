@@ -1,5 +1,4 @@
-Fomes nubilus var. nubilus (Fr.) Sacc. VARIETY
-=======
+# Fomes nubilus (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Fomes nubilus var. nubilus (Fr.) Sacc.
+Polyporus nubilus Fr.
 
 ### Remarks
 null

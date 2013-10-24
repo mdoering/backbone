@@ -1,5 +1,4 @@
-Collybia aurantiella Speg. SPECIES
-=======
+# Collybia aurantiella Speg. SPECIES
 
 #### Status
 ACCEPTED

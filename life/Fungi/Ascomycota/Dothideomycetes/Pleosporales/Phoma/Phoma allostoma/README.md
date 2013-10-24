@@ -1,14 +1,13 @@
-Sphaeropsis allostoma Lév., 1846 SPECIES
-=======
+# Phoma allostoma (Lév.) Sacc., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 5: 294 (1846)
+Syll. fung. (Abellini) 3: 74 (1884)
 
 #### Original name
 Sphaeropsis allostoma Lév., 1846

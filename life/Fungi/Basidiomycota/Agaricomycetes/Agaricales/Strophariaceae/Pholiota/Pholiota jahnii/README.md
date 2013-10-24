@@ -1,17 +1,16 @@
-Agaricus squarrosus var. muelleri Fr., 1821 VARIETY
-=======
+# Pholiota jahnii Tjall.-Beuk. & Bas, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 1: 243 (1821)
+in Kuyper & Tjallingii-Beukers, Persoonia 13(1): 77 (1986)
 
 #### Original name
-Agaricus squarrosus var. muelleri Fr., 1821
+Pholiota jahnii Tjall.-Beuk. & Bas, 1986
 
 ### Remarks
 null

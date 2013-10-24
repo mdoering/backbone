@@ -1,5 +1,4 @@
-Cortinarius dicolor Reumaux SPECIES
-=======
+# Cortinarius dicolor Reumaux SPECIES
 
 #### Status
 ACCEPTED

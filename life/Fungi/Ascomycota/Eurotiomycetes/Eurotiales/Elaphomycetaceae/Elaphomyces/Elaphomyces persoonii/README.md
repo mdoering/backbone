@@ -1,5 +1,4 @@
-Elaphomyces persoonii Vittad. SPECIES
-=======
+# Elaphomyces persoonii Vittad. SPECIES
 
 #### Status
 ACCEPTED

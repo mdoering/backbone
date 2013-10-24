@@ -1,5 +1,4 @@
-Trichoderma yunnanense Z.F. Yu & K.Q. Zhang SPECIES
-=======
+# Trichoderma yunnanense Z.F. Yu & K.Q. Zhang SPECIES
 
 #### Status
 ACCEPTED

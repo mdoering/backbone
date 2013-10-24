@@ -1,5 +1,4 @@
-Septoria bulgarica Bubák & Malkoff SPECIES
-=======
+# Septoria bulgarica Bubák & Malkoff SPECIES
 
 #### Status
 ACCEPTED

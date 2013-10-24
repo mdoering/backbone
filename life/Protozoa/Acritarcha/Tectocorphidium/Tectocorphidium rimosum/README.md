@@ -1,5 +1,4 @@
-Tectocorphidium rimosum Jiabo, 1978 SPECIES
-=======
+# Tectocorphidium rimosum Jiabo, 1978 SPECIES
 
 #### Status
 ACCEPTED

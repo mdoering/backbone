@@ -1,5 +1,4 @@
-Macrophoma dalbergiicola Teng SPECIES
-=======
+# Macrophoma dalbergiicola Teng SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heteramoeba Droop, 1962 GENUS
-=======
+# Heteramoeba Droop, 1962 GENUS
 
 #### Status
 ACCEPTED

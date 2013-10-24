@@ -1,14 +1,13 @@
-Heterobasidion perplexum (Ryvarden) Stalpers, 1996 SPECIES
-=======
+# Wrightoporia perplexa Ryvarden, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stud. Mycol. 40: 37 (1996)
+Op. bot. 100: 227 (1989)
 
 #### Original name
 Wrightoporia perplexa Ryvarden, 1989

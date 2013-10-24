@@ -1,5 +1,4 @@
-Diatrypella chiapanensis S. Chacón SPECIES
-=======
+# Diatrypella chiapanensis S. Chacón SPECIES
 
 #### Status
 ACCEPTED

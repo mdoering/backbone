@@ -1,5 +1,4 @@
-Ustilago ambiens P. Karst. SPECIES
-=======
+# Ustilago ambiens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

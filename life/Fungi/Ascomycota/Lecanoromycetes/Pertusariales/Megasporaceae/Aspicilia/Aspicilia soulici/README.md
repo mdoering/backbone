@@ -1,5 +1,4 @@
-Aspicilia soulici B. de Lesd. SPECIES
-=======
+# Aspicilia soulici B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

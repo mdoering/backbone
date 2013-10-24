@@ -1,5 +1,4 @@
-Mycogala insigne Pat. & Har. SPECIES
-=======
+# Mycogala insigne Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

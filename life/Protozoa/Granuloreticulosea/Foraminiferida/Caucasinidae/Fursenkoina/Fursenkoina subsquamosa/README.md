@@ -1,5 +1,4 @@
-Fursenkoina subsquamosa SPECIES
-=======
+# Fursenkoina subsquamosa SPECIES
 
 #### Status
 ACCEPTED

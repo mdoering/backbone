@@ -1,5 +1,4 @@
-Schizothrix purpurascens (Kuetzing) Gomont SPECIES
-=======
+# Schizothrix purpurascens (Kuetzing) Gomont SPECIES
 
 #### Status
 ACCEPTED

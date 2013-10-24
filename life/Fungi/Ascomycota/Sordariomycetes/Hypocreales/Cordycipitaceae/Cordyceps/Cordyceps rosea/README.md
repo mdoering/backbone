@@ -1,5 +1,4 @@
-Cordyceps rosea Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps rosea Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

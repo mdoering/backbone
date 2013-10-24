@@ -1,5 +1,4 @@
-Monostylosphaera Xu, 1992 GENUS
-=======
+# Monostylosphaera Xu, 1992 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta lisianthi Syd. SPECIES
-=======
+# Phyllosticta lisianthi Syd. SPECIES
 
 #### Status
 ACCEPTED

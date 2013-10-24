@@ -1,5 +1,4 @@
-Septoria gerbericola Sawada SPECIES
-=======
+# Septoria gerbericola Sawada SPECIES
 
 #### Status
 ACCEPTED

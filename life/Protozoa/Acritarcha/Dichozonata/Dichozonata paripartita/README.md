@@ -1,5 +1,4 @@
-Dichozonata paripartita Kiryanov, 1978 SPECIES
-=======
+# Dichozonata paripartita Kiryanov, 1978 SPECIES
 
 #### Status
 ACCEPTED

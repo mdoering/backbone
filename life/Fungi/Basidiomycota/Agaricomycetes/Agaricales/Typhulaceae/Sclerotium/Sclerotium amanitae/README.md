@@ -1,5 +1,4 @@
-Sclerotium amanitae Fingerh. SPECIES
-=======
+# Sclerotium amanitae Fingerh. SPECIES
 
 #### Status
 ACCEPTED

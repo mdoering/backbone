@@ -1,5 +1,4 @@
-Pannaria thraustolepis F. Wilson SPECIES
-=======
+# Pannaria thraustolepis F. Wilson SPECIES
 
 #### Status
 ACCEPTED

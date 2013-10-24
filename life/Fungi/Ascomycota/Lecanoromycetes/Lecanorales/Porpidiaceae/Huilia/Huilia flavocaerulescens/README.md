@@ -1,5 +1,4 @@
-Huilia flavocaerulescens var. flavocaerulescens VARIETY
-=======
+# Huilia flavocaerulescens SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Herzogia 3(2): 373 (1975)
+null
 
 #### Original name
-Huilia flavocaerulescens var. flavocaerulescens
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ceriomyces flavissimus Murrill SPECIES
-=======
+# Ceriomyces flavissimus Murrill SPECIES
 
 #### Status
 ACCEPTED

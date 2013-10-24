@@ -1,5 +1,4 @@
-Quinqueloculina crassa SPECIES
-=======
+# Quinqueloculina crassa SPECIES
 
 #### Status
 ACCEPTED

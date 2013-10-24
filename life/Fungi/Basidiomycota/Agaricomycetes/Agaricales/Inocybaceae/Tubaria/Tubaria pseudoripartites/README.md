@@ -1,5 +1,4 @@
-Tubaria pseudoripartites Singer SPECIES
-=======
+# Tubaria pseudoripartites Singer SPECIES
 
 #### Status
 ACCEPTED

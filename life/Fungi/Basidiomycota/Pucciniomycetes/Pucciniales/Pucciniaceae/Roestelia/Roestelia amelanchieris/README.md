@@ -1,5 +1,4 @@
-Roestelia amelanchieris Mérat SPECIES
-=======
+# Roestelia amelanchieris Mérat SPECIES
 
 #### Status
 ACCEPTED

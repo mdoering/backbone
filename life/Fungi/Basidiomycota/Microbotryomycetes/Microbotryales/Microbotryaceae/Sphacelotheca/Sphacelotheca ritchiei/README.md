@@ -1,5 +1,4 @@
-Sphacelotheca ritchiei Zundel SPECIES
-=======
+# Sphacelotheca ritchiei Zundel SPECIES
 
 #### Status
 ACCEPTED

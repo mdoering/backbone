@@ -1,5 +1,4 @@
-Myriotrema protoalbum Hale SPECIES
-=======
+# Myriotrema protoalbum Hale SPECIES
 
 #### Status
 ACCEPTED

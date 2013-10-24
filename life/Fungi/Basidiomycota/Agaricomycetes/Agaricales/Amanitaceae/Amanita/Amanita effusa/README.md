@@ -1,5 +1,4 @@
-Amanita effusa (Kalchbr.) D.A. Reid SPECIES
-=======
+# Amanita effusa (Kalchbr.) D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

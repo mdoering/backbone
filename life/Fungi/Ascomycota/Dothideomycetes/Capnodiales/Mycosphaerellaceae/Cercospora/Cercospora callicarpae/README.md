@@ -1,5 +1,4 @@
-Cercospora callicarpae Cooke SPECIES
-=======
+# Cercospora callicarpae Cooke SPECIES
 
 #### Status
 ACCEPTED

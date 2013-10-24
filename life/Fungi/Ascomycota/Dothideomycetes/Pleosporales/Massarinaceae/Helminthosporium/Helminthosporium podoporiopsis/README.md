@@ -1,5 +1,4 @@
-Helminthosporium podoporiopsis Pat. SPECIES
-=======
+# Helminthosporium podoporiopsis Pat. SPECIES
 
 #### Status
 ACCEPTED

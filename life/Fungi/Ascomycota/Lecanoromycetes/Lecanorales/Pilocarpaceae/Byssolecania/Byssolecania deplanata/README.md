@@ -1,5 +1,4 @@
-Byssolecania deplanata (Müll. Arg.) R. Sant. SPECIES
-=======
+# Byssolecania deplanata (Müll. Arg.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

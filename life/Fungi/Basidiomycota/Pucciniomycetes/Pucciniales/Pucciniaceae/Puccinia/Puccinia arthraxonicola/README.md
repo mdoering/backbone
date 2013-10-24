@@ -1,5 +1,4 @@
-Puccinia arthraxonicola Z.M. Cao & J.Y. Zhuang SPECIES
-=======
+# Puccinia arthraxonicola Z.M. Cao & J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum kaki Maffei SPECIES
-=======
+# Colletotrichum kaki Maffei SPECIES
 
 #### Status
 ACCEPTED

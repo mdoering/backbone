@@ -1,5 +1,4 @@
-Dactylaria haptospora Drechsler SPECIES
-=======
+# Dactylaria haptospora Drechsler SPECIES
 
 #### Status
 ACCEPTED

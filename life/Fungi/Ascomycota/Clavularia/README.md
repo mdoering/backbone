@@ -1,5 +1,4 @@
-Clavularia GENUS
-=======
+# Clavularia GENUS
 
 #### Status
 ACCEPTED

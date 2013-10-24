@@ -1,5 +1,4 @@
-Lecanidium andinum Speg. SPECIES
-=======
+# Lecanidium andinum Speg. SPECIES
 
 #### Status
 ACCEPTED

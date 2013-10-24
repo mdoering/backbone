@@ -1,5 +1,4 @@
-Peniophora lilacea Bourdot & Galzin, 1913 SPECIES
-=======
+# Peniophora lilacea Bourdot & Galzin, 1913 SPECIES
 
 #### Status
 ACCEPTED

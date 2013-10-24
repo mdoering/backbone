@@ -1,5 +1,4 @@
-Marasmius eggersii (Pat.) Sacc. SPECIES
-=======
+# Marasmius eggersii (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

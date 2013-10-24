@@ -1,14 +1,13 @@
-Catillaria jemtlandica Th. Fr. & Almq. SPECIES
-=======
+# Megalaria jemtlandica (Th. Fr. & Almq.) Fryday SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Lich. Scand. (Uppsala) 1: 550 (1874)
+Bryologist 107(2): 175 (2004)
 
 #### Original name
 Catillaria jemtlandica Th. Fr. & Almq.

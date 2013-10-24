@@ -1,5 +1,4 @@
-Skeletocutis perennis Ryvarden, 1986 SPECIES
-=======
+# Skeletocutis perennis Ryvarden, 1986 SPECIES
 
 #### Status
 ACCEPTED

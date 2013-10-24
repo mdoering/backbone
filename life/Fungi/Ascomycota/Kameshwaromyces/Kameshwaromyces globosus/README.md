@@ -1,5 +1,4 @@
-Kameshwaromyces globosus Kamal, R.K. Verma & Morgan-Jones, 1986 SPECIES
-=======
+# Kameshwaromyces globosus Kamal, R.K. Verma & Morgan-Jones, 1986 SPECIES
 
 #### Status
 ACCEPTED

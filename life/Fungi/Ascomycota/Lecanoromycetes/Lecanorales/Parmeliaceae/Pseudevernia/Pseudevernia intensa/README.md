@@ -1,5 +1,4 @@
-Pseudevernia intensa (Nyl.) Hale & W. L. Culb. SPECIES
-=======
+# Pseudevernia intensa (Nyl.) Hale & W. L. Culb. SPECIES
 
 #### Status
 ACCEPTED

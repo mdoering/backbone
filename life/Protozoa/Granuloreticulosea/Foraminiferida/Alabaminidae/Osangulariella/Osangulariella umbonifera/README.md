@@ -1,8 +1,7 @@
-Nuttallides umbonifera (Cushman, 1933) SPECIES
-=======
+# Osangulariella umbonifera (Cushman, 1933) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

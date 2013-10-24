@@ -1,5 +1,4 @@
-Asterolibertia anisopterae (Syd. & P. Syd.) Hansf. SPECIES
-=======
+# Asterolibertia anisopterae (Syd. & P. Syd.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

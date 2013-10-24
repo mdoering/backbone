@@ -1,5 +1,4 @@
-Cystoseira mediterranea var. valiantei Sauvageau VARIETY
-=======
+# Cystoseira mediterranea Sauvageau SPECIES
 
 #### Status
 ACCEPTED

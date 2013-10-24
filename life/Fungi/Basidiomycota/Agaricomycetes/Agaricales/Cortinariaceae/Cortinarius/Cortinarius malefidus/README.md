@@ -1,5 +1,4 @@
-Cortinarius malefidus Moënne-Locc. SPECIES
-=======
+# Cortinarius malefidus Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

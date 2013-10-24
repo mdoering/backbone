@@ -1,5 +1,4 @@
-Tylopilus obscurus Halling SPECIES
-=======
+# Tylopilus obscurus Halling SPECIES
 
 #### Status
 ACCEPTED

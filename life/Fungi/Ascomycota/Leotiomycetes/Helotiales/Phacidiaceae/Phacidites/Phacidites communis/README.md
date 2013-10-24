@@ -1,5 +1,4 @@
-Phacidites communis Feistm. SPECIES
-=======
+# Phacidites communis Feistm. SPECIES
 
 #### Status
 ACCEPTED

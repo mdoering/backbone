@@ -1,5 +1,4 @@
-Sclerographa quinqueseptata (Vain.) Zahlbr. SPECIES
-=======
+# Sclerographa quinqueseptata (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

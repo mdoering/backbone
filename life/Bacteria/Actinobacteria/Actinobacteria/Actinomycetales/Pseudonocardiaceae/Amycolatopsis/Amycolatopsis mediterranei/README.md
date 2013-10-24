@@ -1,11 +1,10 @@
-Streptomyces mediterranei Margalith & Beretta, 1960 SPECIES
-=======
+# Amycolatopsis mediterranei (Margalith & Beretta, 1960) Lechevalier et al., 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

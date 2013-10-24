@@ -1,5 +1,4 @@
-Peltigera fibrilloides (Gyeln.) Vitik. SPECIES
-=======
+# Peltigera fibrilloides (Gyeln.) Vitik. SPECIES
 
 #### Status
 ACCEPTED

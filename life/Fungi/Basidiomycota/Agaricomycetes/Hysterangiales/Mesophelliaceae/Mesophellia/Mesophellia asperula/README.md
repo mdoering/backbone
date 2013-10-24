@@ -1,5 +1,4 @@
-Mesophellia asperula R.N. Hilton SPECIES
-=======
+# Mesophellia asperula R.N. Hilton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiobolus helianthi Tilak SPECIES
-=======
+# Ophiobolus helianthi Tilak SPECIES
 
 #### Status
 ACCEPTED

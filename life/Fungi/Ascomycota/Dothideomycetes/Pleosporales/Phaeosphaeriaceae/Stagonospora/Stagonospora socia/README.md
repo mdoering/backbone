@@ -1,5 +1,4 @@
-Stagonospora socia Grove, 1912 SPECIES
-=======
+# Stagonospora socia Grove, 1912 SPECIES
 
 #### Status
 ACCEPTED

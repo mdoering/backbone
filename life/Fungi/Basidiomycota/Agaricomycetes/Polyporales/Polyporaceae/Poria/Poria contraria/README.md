@@ -1,5 +1,4 @@
-Poria contraria (Berk. & M.A. Curtis) Ginns SPECIES
-=======
+# Poria contraria (Berk. & M.A. Curtis) Ginns SPECIES
 
 #### Status
 ACCEPTED

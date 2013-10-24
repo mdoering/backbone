@@ -1,5 +1,4 @@
-Waynea californica Moberg SPECIES
-=======
+# Waynea californica Moberg SPECIES
 
 #### Status
 ACCEPTED

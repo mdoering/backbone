@@ -1,5 +1,4 @@
-Hydnum chlorinum Cooke SPECIES
-=======
+# Hydnum chlorinum Cooke SPECIES
 
 #### Status
 ACCEPTED

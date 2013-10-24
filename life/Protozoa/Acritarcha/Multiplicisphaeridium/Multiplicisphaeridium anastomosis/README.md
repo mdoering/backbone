@@ -1,5 +1,4 @@
-Multiplicisphaeridium anastomosis Wicander, 1974 SPECIES
-=======
+# Multiplicisphaeridium anastomosis Wicander, 1974 SPECIES
 
 #### Status
 ACCEPTED

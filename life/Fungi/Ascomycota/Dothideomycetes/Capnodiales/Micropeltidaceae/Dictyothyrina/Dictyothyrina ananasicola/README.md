@@ -1,5 +1,4 @@
-Dictyothyrina ananasicola J.N. Kapoor & Munjal SPECIES
-=======
+# Dictyothyrina ananasicola J.N. Kapoor & Munjal SPECIES
 
 #### Status
 ACCEPTED

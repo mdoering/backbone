@@ -1,5 +1,4 @@
-Leptonia miniata Pat. SPECIES
-=======
+# Leptonia miniata Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tetranguladinium minqiaoense Qian Zeshu, Chen Yongxiang & He Chengquan, 1986 ex Fensome et al., 1990 SPECIES
-=======
+# Tetranguladinium minqiaoense Qian Zeshu, Chen Yongxiang & He Chengquan, 1986 ex Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

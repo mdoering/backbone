@@ -1,5 +1,4 @@
-Schismatomma ceylanicum Tehler SPECIES
-=======
+# Schismatomma ceylanicum Tehler SPECIES
 
 #### Status
 ACCEPTED

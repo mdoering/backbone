@@ -1,5 +1,4 @@
-Phoma hedysarella Sacc. SPECIES
-=======
+# Phoma hedysarella Sacc. SPECIES
 
 #### Status
 ACCEPTED

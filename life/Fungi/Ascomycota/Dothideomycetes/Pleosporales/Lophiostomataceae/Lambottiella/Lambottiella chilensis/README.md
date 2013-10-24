@@ -1,5 +1,4 @@
-Lambottiella chilensis Speg. SPECIES
-=======
+# Lambottiella chilensis Speg. SPECIES
 
 #### Status
 ACCEPTED

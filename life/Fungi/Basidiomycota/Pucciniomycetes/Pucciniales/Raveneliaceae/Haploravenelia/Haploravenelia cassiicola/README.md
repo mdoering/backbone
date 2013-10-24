@@ -1,14 +1,13 @@
-Haploravenelia cassiaecola (G.F. Atk.) Syd. SPECIES
-=======
+# Haploravenelia cassiicola (G.F. Atk.) Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 19: 165 (1921)
 
 #### Original name
 Ravenelia cassiicola G.F. Atk.

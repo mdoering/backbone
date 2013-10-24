@@ -1,17 +1,16 @@
-Helicoma narsapurense P.Rag. Rao & D. Rao SPECIES
-=======
+# Helicoma narsapurensis P.Rag. Rao & D. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopathologia 22: 49 (1964)
 
 #### Original name
-Helicoma narsapurense P.Rag. Rao & D. Rao
+Helicoma narsapurensis P.Rag. Rao & D. Rao
 
 ### Remarks
 null

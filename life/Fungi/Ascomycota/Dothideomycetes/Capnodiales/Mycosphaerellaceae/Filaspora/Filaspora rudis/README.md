@@ -1,5 +1,4 @@
-Filaspora rudis Preuss SPECIES
-=======
+# Filaspora rudis Preuss SPECIES
 
 #### Status
 ACCEPTED

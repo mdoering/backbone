@@ -1,14 +1,13 @@
-Cyathicula fraxinophila (Svrcek) Baral, 1993 SPECIES
-=======
+# Crocicreas fraxinophilum (Svrcek) Triebel & Baral, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Z. Mykol. 59(1): 5 (1993)
+Sendtnera 3: 208 (1996)
 
 #### Original name
 Conchatium fraxinophilum Svrcek, 1986

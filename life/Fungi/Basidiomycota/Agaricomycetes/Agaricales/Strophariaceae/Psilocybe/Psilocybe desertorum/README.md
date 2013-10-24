@@ -1,5 +1,4 @@
-Psilocybe desertorum Velen. SPECIES
-=======
+# Psilocybe desertorum Velen. SPECIES
 
 #### Status
 ACCEPTED

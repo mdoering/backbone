@@ -1,5 +1,4 @@
-Chromohalobacter nigrandesensis Prado et al., 2006 SPECIES
-=======
+# Chromohalobacter nigrandesensis Prado et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

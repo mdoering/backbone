@@ -1,5 +1,4 @@
-Marasmius cyphelloides Henn. SPECIES
-=======
+# Marasmius cyphelloides Henn. SPECIES
 
 #### Status
 ACCEPTED

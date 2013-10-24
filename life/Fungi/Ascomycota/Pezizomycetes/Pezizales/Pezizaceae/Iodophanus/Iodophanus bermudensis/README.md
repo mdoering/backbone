@@ -1,5 +1,4 @@
-Iodophanus bermudensis (Pers.) Kimbr. & Korf SPECIES
-=======
+# Iodophanus bermudensis (Pers.) Kimbr. & Korf SPECIES
 
 #### Status
 ACCEPTED

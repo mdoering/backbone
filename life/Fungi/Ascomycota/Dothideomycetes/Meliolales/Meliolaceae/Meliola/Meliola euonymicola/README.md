@@ -1,5 +1,4 @@
-Meliola euonymicola Hosag. SPECIES
-=======
+# Meliola euonymicola Hosag. SPECIES
 
 #### Status
 ACCEPTED

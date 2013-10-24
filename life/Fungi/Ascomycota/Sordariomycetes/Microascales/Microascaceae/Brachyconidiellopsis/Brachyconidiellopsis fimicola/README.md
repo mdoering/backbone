@@ -1,5 +1,4 @@
-Brachyconidiellopsis fimicola Decock, R.F. Castañeda & Adhikari, 2004 SPECIES
-=======
+# Brachyconidiellopsis fimicola Decock, R.F. Castañeda & Adhikari, 2004 SPECIES
 
 #### Status
 ACCEPTED

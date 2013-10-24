@@ -1,5 +1,4 @@
-Odontotrema ochrolechiae Diederich, Holien & Zhurb. SPECIES
-=======
+# Odontotrema ochrolechiae Diederich, Holien & Zhurb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalospora euganea Sacc. SPECIES
-=======
+# Physalospora euganea Sacc. SPECIES
 
 #### Status
 ACCEPTED

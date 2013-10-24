@@ -1,5 +1,4 @@
-Dothiorella saponariae (Siemaszko) Petr. SPECIES
-=======
+# Dothiorella saponariae (Siemaszko) Petr. SPECIES
 
 #### Status
 ACCEPTED

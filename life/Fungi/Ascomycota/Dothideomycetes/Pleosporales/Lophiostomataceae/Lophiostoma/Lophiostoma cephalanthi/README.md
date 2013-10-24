@@ -1,5 +1,4 @@
-Lophiostoma cephalanthi Fairm. SPECIES
-=======
+# Lophiostoma cephalanthi Fairm. SPECIES
 
 #### Status
 ACCEPTED

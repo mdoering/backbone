@@ -1,5 +1,4 @@
-Lecidea dolera Nyl. SPECIES
-=======
+# Lecidea dolera Nyl. SPECIES
 
 #### Status
 ACCEPTED

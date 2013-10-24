@@ -1,5 +1,4 @@
-Englerula sydowii (Petr.) Arx SPECIES
-=======
+# Englerula sydowii (Petr.) Arx SPECIES
 
 #### Status
 ACCEPTED

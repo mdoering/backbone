@@ -1,5 +1,4 @@
-Eriomycopsis lasiosphaeriicola U. Braun & Melnik SPECIES
-=======
+# Eriomycopsis lasiosphaeriicola U. Braun & Melnik SPECIES
 
 #### Status
 ACCEPTED

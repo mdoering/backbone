@@ -1,5 +1,4 @@
-Aurantimonas Denner et al., 2003 GENUS
-=======
+# Aurantimonas Denner et al., 2003 GENUS
 
 #### Status
 ACCEPTED

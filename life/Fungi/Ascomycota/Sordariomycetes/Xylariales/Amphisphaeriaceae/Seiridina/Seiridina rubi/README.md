@@ -1,5 +1,4 @@
-Seiridina rubi Höhn. SPECIES
-=======
+# Seiridina rubi Höhn. SPECIES
 
 #### Status
 ACCEPTED

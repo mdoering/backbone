@@ -1,5 +1,4 @@
-Nummulitidae de Blainville, 1827 FAMILY
-=======
+# Nummulitidae de Blainville, 1827 FAMILY
 
 #### Status
 ACCEPTED

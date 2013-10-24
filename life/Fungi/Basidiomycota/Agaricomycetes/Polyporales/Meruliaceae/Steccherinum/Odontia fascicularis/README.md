@@ -1,5 +1,4 @@
-Odontia fascicularis Rick SPECIES
-=======
+# Odontia fascicularis Rick SPECIES
 
 #### Status
 ACCEPTED

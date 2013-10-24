@@ -1,5 +1,4 @@
-Astrothelium laevigatum Müll. Arg. SPECIES
-=======
+# Astrothelium laevigatum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myriocarpa GENUS
-=======
+# Myriocarpa GENUS
 
 #### Status
 ACCEPTED

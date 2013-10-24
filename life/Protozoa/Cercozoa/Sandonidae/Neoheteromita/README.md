@@ -1,5 +1,4 @@
-Neoheteromita Howe, Bass, Vickerman, Chao, Cavalier-Smith, 2009 GENUS
-=======
+# Neoheteromita Howe, Bass, Vickerman, Chao, Cavalier-Smith, 2009 GENUS
 
 #### Status
 ACCEPTED

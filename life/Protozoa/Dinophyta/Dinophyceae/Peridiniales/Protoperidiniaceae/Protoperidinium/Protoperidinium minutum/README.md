@@ -1,5 +1,4 @@
-Protoperidinium minutum (Kofoid) Loeblich Iii SPECIES
-=======
+# Protoperidinium minutum (Kofoid) Loeblich Iii SPECIES
 
 #### Status
 ACCEPTED

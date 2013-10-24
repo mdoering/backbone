@@ -1,5 +1,4 @@
-Cylindrocarpon decumbens Wollenw., 1928 SPECIES
-=======
+# Cylindrocarpon decumbens Wollenw., 1928 SPECIES
 
 #### Status
 ACCEPTED

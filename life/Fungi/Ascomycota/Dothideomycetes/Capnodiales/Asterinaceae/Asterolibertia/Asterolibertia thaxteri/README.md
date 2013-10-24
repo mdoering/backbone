@@ -1,5 +1,4 @@
-Asterolibertia thaxteri Hansf. SPECIES
-=======
+# Asterolibertia thaxteri Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma olorinatum E. Horak SPECIES
-=======
+# Entoloma olorinatum E. Horak SPECIES
 
 #### Status
 ACCEPTED

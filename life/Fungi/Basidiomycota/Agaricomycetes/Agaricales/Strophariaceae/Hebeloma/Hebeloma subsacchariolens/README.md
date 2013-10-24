@@ -1,5 +1,4 @@
-Hebeloma subsacchariolens A.H. Sm., V.S. Evenson & Mitchel SPECIES
-=======
+# Hebeloma subsacchariolens A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
 ACCEPTED

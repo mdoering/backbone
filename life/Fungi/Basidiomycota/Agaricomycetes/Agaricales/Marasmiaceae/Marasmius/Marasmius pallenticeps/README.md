@@ -1,5 +1,4 @@
-Marasmius pallenticeps Singer, 1976 SPECIES
-=======
+# Marasmius pallenticeps Singer, 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cleistocybe vernalis Ammirati, A.D. Parker & Matheny SPECIES
-=======
+# Cleistocybe vernalis Ammirati, A.D. Parker & Matheny SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezizella phymatodes (W. Phillips) Sacc. SPECIES
-=======
+# Pezizella phymatodes (W. Phillips) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hormothece geitleriana M.T.P. Azevedo & C.L. Sant'Anna SPECIES
-=======
+# Hormothece geitleriana M.T.P. Azevedo & C.L. Sant'Anna SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Centrospira Haeckel, 1881 GENUS
-=======
+# Centrospira Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

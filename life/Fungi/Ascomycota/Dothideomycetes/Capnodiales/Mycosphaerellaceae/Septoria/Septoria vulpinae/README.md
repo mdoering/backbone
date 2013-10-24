@@ -1,5 +1,4 @@
-Septoria vulpinae Sawada SPECIES
-=======
+# Septoria vulpinae Sawada SPECIES
 
 #### Status
 ACCEPTED

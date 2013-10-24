@@ -1,5 +1,4 @@
-Bacidia hellbergii Malme SPECIES
-=======
+# Bacidia hellbergii Malme SPECIES
 
 #### Status
 ACCEPTED

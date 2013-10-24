@@ -1,5 +1,4 @@
-Bacidia hiorami B. de Lesd. SPECIES
-=======
+# Bacidia hiorami B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

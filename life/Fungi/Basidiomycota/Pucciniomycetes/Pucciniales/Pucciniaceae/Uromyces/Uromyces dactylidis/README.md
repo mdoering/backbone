@@ -1,17 +1,16 @@
-Uromyces poae f. sp FORM
-=======
+# Uromyces dactylidis G.H. Otth, 1861 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mitt. naturf. Ges. Bern 85 (1861)
 
 #### Original name
-Uromyces poae f. sp
+Uromyces dactylidis G.H. Otth, 1861
 
 ### Remarks
 null

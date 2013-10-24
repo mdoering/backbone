@@ -1,5 +1,4 @@
-Marasmius subcaespitosus Raithelh. SPECIES
-=======
+# Marasmius subcaespitosus Raithelh. SPECIES
 
 #### Status
 ACCEPTED

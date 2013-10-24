@@ -1,5 +1,4 @@
-Agaricus garidellii (Paulet) Fr. SPECIES
-=======
+# Agaricus garidellii (Paulet) Fr. SPECIES
 
 #### Status
 ACCEPTED

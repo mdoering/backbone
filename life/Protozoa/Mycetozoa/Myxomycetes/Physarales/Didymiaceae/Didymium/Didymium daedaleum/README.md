@@ -1,5 +1,4 @@
-Didymium daedaleum Berk. & Broome SPECIES
-=======
+# Didymium daedaleum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

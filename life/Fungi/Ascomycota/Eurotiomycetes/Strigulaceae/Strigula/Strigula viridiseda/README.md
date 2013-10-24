@@ -1,14 +1,13 @@
-Leiophloea viridiseda (Nyl.) Trevis. SPECIES
-=======
+# Strigula viridiseda (Nyl.) R. C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Conspectus Verruc. 10 (1860)
+in Tucker & Harris, Bryologist 83(1): 18 (1980)
 
 #### Original name
 Verrucaria viridiseda Nyl.

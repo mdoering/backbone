@@ -1,5 +1,4 @@
-Clypeosphaeria theobromicola Speg. SPECIES
-=======
+# Clypeosphaeria theobromicola Speg. SPECIES
 
 #### Status
 ACCEPTED

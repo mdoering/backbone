@@ -1,5 +1,4 @@
-Chaetomium subcurvisporum Abdullah & Al-Bader SPECIES
-=======
+# Chaetomium subcurvisporum Abdullah & Al-Bader SPECIES
 
 #### Status
 ACCEPTED

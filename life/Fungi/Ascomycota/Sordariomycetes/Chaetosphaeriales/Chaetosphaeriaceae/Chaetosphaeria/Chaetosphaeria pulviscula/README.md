@@ -1,17 +1,16 @@
-Zignoella pulviscula (Curr.) Sacc., 1878 SPECIES
-=======
+# Chaetosphaeria pulviscula (Curr.) C. Booth, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 68: 10 (1957)
 
 #### Original name
-null
+Sphaeria pulviscula Curr., 1859
 
 ### Remarks
 null

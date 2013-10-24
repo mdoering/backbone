@@ -1,5 +1,4 @@
-Chuaria C.D. Walcott, 1899 GENUS
-=======
+# Chuaria C.D. Walcott, 1899 GENUS
 
 #### Status
 ACCEPTED

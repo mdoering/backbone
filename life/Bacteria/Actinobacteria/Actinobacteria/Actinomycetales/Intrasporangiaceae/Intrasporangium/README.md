@@ -1,5 +1,4 @@
-Intrasporangium Kalakout., Kirillova & Krassiln. GENUS
-=======
+# Intrasporangium Kalakout., Kirillova & Krassiln. GENUS
 
 #### Status
 ACCEPTED

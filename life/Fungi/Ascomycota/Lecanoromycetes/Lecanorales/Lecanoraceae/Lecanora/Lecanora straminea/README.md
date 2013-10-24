@@ -1,17 +1,16 @@
-Squamaria straminea (Wahlenb.) Nyl. SPECIES
-=======
+# Lecanora straminea Ach. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. univ. (1810)
 
 #### Original name
-Parmelia straminea Wahlenb.
+Lecanora straminea Ach.
 
 ### Remarks
 null

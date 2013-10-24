@@ -1,5 +1,4 @@
-Candida sorbosivorans S.A. James, C.J. Bond & I.N. Roberts SPECIES
-=======
+# Candida sorbosivorans S.A. James, C.J. Bond & I.N. Roberts SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spongaster Ehrenberg, 1860 GENUS
-=======
+# Spongaster Ehrenberg, 1860 GENUS
 
 #### Status
 ACCEPTED

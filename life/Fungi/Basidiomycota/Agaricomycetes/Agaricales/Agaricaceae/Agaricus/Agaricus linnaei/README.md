@@ -1,5 +1,4 @@
-Agaricus linnaei var. linnaei VARIETY
-=======
+# Agaricus linnaei Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Agaricus linnaei var. linnaei
+Agaricus linnaei Fr.
 
 ### Remarks
 null

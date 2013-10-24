@@ -1,5 +1,4 @@
-Aphanomyces brassicae S.L. Singh & Pavgi, 1977 SPECIES
-=======
+# Aphanomyces brassicae S.L. Singh & Pavgi, 1977 SPECIES
 
 #### Status
 ACCEPTED

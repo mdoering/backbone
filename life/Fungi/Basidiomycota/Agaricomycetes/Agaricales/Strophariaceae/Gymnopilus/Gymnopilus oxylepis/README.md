@@ -1,5 +1,4 @@
-Gymnopilus oxylepis (Berk. & Broome) Singer SPECIES
-=======
+# Gymnopilus oxylepis (Berk. & Broome) Singer SPECIES
 
 #### Status
 ACCEPTED

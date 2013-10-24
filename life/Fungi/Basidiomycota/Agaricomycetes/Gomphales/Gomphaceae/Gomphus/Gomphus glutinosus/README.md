@@ -1,5 +1,4 @@
-Gomphus glutinosus (Pat.) R.H. Petersen SPECIES
-=======
+# Gomphus glutinosus (Pat.) R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia cladinoides Zahlbr. SPECIES
-=======
+# Cladonia cladinoides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

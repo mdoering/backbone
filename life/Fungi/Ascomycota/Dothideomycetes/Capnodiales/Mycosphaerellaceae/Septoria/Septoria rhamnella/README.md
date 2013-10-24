@@ -1,5 +1,4 @@
-Septoria rhamnella Oudem. SPECIES
-=======
+# Septoria rhamnella Oudem. SPECIES
 
 #### Status
 ACCEPTED

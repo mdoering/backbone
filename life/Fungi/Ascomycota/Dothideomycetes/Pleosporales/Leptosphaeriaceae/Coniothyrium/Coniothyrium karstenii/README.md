@@ -1,5 +1,4 @@
-Coniothyrium karstenii (Sacc. & P. Syd.) Allesch. SPECIES
-=======
+# Coniothyrium karstenii (Sacc. & P. Syd.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

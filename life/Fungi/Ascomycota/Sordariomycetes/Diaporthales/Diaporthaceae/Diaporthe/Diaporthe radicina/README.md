@@ -1,5 +1,4 @@
-Diaporthe radicina Ellis & Everh. SPECIES
-=======
+# Diaporthe radicina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

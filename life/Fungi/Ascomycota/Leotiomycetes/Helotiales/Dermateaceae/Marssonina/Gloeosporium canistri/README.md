@@ -1,5 +1,4 @@
-Gloeosporium canistri Novoss. SPECIES
-=======
+# Gloeosporium canistri Novoss. SPECIES
 
 #### Status
 ACCEPTED

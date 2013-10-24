@@ -1,5 +1,4 @@
-Ophiocordyceps acicularis (Ravenel) Petch SPECIES
-=======
+# Ophiocordyceps acicularis (Ravenel) Petch SPECIES
 
 #### Status
 ACCEPTED

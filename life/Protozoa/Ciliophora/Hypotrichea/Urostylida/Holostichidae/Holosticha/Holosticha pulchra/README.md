@@ -1,5 +1,4 @@
-Holosticha pulchra Kahl, 1932 SPECIES
-=======
+# Holosticha pulchra Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

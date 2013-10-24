@@ -1,5 +1,4 @@
-Mycosphaerella shikaeana Hara SPECIES
-=======
+# Mycosphaerella shikaeana Hara SPECIES
 
 #### Status
 ACCEPTED

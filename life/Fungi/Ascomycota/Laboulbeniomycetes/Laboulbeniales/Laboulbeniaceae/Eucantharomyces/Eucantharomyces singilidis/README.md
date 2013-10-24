@@ -1,5 +1,4 @@
-Eucantharomyces singilidis Santam. SPECIES
-=======
+# Eucantharomyces singilidis Santam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prostelidiella Kofoid & Campbell, 1939 GENUS
-=======
+# Prostelidiella Kofoid & Campbell, 1939 GENUS
 
 #### Status
 ACCEPTED

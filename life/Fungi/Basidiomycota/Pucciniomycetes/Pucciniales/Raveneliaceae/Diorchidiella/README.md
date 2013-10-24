@@ -1,5 +1,4 @@
-Diorchidiella J.C. Lindq. GENUS
-=======
+# Diorchidiella J.C. Lindq. GENUS
 
 #### Status
 ACCEPTED

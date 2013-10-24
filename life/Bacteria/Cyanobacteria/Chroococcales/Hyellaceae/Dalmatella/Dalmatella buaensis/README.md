@@ -1,5 +1,4 @@
-Dalmatella buaensis Ercegovic SPECIES
-=======
+# Dalmatella buaensis Ercegovic SPECIES
 
 #### Status
 ACCEPTED

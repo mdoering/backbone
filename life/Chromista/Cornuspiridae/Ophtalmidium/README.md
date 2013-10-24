@@ -1,5 +1,4 @@
-Ophtalmidium GENUS
-=======
+# Ophtalmidium GENUS
 
 #### Status
 ACCEPTED

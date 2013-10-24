@@ -1,5 +1,4 @@
-Descalsia cruciata A. Roldán & Honrubia, 1989 SPECIES
-=======
+# Descalsia cruciata A. Roldán & Honrubia, 1989 SPECIES
 
 #### Status
 ACCEPTED

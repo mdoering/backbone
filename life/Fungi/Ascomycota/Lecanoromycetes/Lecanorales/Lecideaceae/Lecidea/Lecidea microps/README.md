@@ -1,5 +1,4 @@
-Lecidea microps Tuck. SPECIES
-=======
+# Lecidea microps Tuck. SPECIES
 
 #### Status
 ACCEPTED

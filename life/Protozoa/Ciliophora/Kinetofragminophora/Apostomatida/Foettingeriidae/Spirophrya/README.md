@@ -1,5 +1,4 @@
-Spirophrya Chatton & Lwoff, 1924 GENUS
-=======
+# Spirophrya Chatton & Lwoff, 1924 GENUS
 
 #### Status
 ACCEPTED

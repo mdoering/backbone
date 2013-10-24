@@ -1,5 +1,4 @@
-Xylomites granulifer Ettingsh. SPECIES
-=======
+# Xylomites granulifer Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

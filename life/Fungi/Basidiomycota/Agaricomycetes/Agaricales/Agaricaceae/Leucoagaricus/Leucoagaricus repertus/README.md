@@ -1,5 +1,4 @@
-Leucoagaricus repertus Raithelh. SPECIES
-=======
+# Leucoagaricus repertus Raithelh. SPECIES
 
 #### Status
 ACCEPTED

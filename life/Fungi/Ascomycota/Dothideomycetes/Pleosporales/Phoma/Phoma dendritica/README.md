@@ -1,5 +1,4 @@
-Phoma dendritica Thüm. SPECIES
-=======
+# Phoma dendritica Thüm. SPECIES
 
 #### Status
 ACCEPTED

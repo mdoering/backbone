@@ -1,5 +1,4 @@
-Aecidium cockerellii Arthur SPECIES
-=======
+# Aecidium cockerellii Arthur SPECIES
 
 #### Status
 ACCEPTED

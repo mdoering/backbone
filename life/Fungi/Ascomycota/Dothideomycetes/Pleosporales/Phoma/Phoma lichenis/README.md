@@ -1,5 +1,4 @@
-Phoma lichenis Pass., 1891 SPECIES
-=======
+# Phoma lichenis Pass., 1891 SPECIES
 
 #### Status
 ACCEPTED

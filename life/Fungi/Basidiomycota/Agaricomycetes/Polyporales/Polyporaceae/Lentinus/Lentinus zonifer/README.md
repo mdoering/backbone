@@ -1,5 +1,4 @@
-Lentinus zonifer Berk. & Broome SPECIES
-=======
+# Lentinus zonifer Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

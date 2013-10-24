@@ -1,5 +1,4 @@
-Collybia fagi Kalamees SPECIES
-=======
+# Collybia fagi Kalamees SPECIES
 
 #### Status
 ACCEPTED

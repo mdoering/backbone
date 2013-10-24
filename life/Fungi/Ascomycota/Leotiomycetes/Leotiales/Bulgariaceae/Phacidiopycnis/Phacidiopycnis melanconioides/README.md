@@ -1,5 +1,4 @@
-Phacidiopycnis melanconioides (Peck) Arx SPECIES
-=======
+# Phacidiopycnis melanconioides (Peck) Arx SPECIES
 
 #### Status
 ACCEPTED

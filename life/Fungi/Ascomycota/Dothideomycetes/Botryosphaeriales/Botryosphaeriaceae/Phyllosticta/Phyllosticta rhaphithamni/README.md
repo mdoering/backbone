@@ -1,5 +1,4 @@
-Phyllosticta rhaphithamni Speg. SPECIES
-=======
+# Phyllosticta rhaphithamni Speg. SPECIES
 
 #### Status
 ACCEPTED

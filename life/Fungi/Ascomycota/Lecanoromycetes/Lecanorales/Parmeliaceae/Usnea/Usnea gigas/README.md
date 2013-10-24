@@ -1,5 +1,4 @@
-Usnea gigas Motyka SPECIES
-=======
+# Usnea gigas Motyka SPECIES
 
 #### Status
 ACCEPTED

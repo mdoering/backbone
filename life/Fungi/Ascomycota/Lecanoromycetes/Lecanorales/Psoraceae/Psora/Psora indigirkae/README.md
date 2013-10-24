@@ -1,5 +1,4 @@
-Psora indigirkae Timdal & Zhurb. SPECIES
-=======
+# Psora indigirkae Timdal & Zhurb. SPECIES
 
 #### Status
 ACCEPTED

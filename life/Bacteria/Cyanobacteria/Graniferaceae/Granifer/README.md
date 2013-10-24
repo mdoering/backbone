@@ -1,5 +1,4 @@
-Granifer A.G. Vologdin, 1955 GENUS
-=======
+# Granifer A.G. Vologdin, 1955 GENUS
 
 #### Status
 ACCEPTED

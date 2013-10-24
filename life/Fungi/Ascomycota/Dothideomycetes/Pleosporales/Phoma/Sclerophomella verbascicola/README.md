@@ -1,5 +1,4 @@
-Sclerophomella verbascicola (Schwein.) Höhn. SPECIES
-=======
+# Sclerophomella verbascicola (Schwein.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

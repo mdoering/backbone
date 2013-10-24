@@ -1,5 +1,4 @@
-Nectria lactea Ellis & Morgan SPECIES
-=======
+# Nectria lactea Ellis & Morgan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascobolus gigasporus De Not. SPECIES
-=======
+# Ascobolus gigasporus De Not. SPECIES
 
 #### Status
 ACCEPTED

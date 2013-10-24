@@ -1,5 +1,4 @@
-Capillicysta fusca K. Matsuoka & J. P. Bujak SPECIES
-=======
+# Capillicysta fusca K. Matsuoka & J. P. Bujak SPECIES
 
 #### Status
 ACCEPTED

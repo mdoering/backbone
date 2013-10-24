@@ -1,5 +1,4 @@
-Sticta yasudae Vain. SPECIES
-=======
+# Sticta yasudae Vain. SPECIES
 
 #### Status
 ACCEPTED

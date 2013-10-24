@@ -1,5 +1,4 @@
-Omphalia saccharophila Speg. SPECIES
-=======
+# Omphalia saccharophila Speg. SPECIES
 
 #### Status
 ACCEPTED

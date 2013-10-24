@@ -1,5 +1,4 @@
-Nodosaria rugosa SPECIES
-=======
+# Nodosaria rugosa SPECIES
 
 #### Status
 ACCEPTED

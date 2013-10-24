@@ -1,5 +1,4 @@
-Myzocytium Schenk GENUS
-=======
+# Myzocytium Schenk GENUS
 
 #### Status
 ACCEPTED

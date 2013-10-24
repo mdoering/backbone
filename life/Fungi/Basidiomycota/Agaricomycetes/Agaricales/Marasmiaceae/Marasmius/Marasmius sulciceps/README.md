@@ -1,5 +1,4 @@
-Marasmius sulciceps Berk. SPECIES
-=======
+# Marasmius sulciceps Berk. SPECIES
 
 #### Status
 ACCEPTED

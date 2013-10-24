@@ -1,5 +1,4 @@
-Asterostomella dilleniicola M.L. Farr SPECIES
-=======
+# Asterostomella dilleniicola M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

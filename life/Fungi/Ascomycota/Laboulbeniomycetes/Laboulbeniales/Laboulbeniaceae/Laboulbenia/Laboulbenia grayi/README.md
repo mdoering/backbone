@@ -1,5 +1,4 @@
-Laboulbenia grayi Balazuc SPECIES
-=======
+# Laboulbenia grayi Balazuc SPECIES
 
 #### Status
 ACCEPTED

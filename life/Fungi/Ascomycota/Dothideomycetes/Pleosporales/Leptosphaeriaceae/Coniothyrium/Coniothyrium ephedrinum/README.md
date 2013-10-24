@@ -1,5 +1,4 @@
-Coniothyrium ephedrinum Grove SPECIES
-=======
+# Coniothyrium ephedrinum Grove SPECIES
 
 #### Status
 ACCEPTED

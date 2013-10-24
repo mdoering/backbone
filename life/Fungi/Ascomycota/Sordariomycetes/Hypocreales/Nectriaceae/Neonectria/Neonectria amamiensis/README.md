@@ -1,5 +1,4 @@
-Neonectria amamiensis Hirooka & Tak. Kobay. SPECIES
-=======
+# Neonectria amamiensis Hirooka & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

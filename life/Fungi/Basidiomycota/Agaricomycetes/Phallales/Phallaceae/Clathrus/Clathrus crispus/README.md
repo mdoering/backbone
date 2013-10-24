@@ -1,5 +1,4 @@
-Clathrus crispus var. crispus VARIETY
-=======
+# Clathrus crispus Turpin SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Clathrus crispus var. crispus
+Clathrus crispus Turpin
 
 ### Remarks
 null

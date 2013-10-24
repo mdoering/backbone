@@ -1,5 +1,4 @@
-Mallomonas corymbosa var. interrupta M.S. Vigna & J. Kristiansen VARIETY
-=======
+# Mallomonas corymbosa Asmund & Hilliard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceriomyces roxanae (Frost) Murrill SPECIES
-=======
+# Ceriomyces roxanae (Frost) Murrill SPECIES
 
 #### Status
 ACCEPTED

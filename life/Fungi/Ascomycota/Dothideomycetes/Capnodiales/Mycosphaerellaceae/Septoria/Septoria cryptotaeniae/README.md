@@ -1,5 +1,4 @@
-Septoria cryptotaeniae Ellis & Ravenel SPECIES
-=======
+# Septoria cryptotaeniae Ellis & Ravenel SPECIES
 
 #### Status
 ACCEPTED

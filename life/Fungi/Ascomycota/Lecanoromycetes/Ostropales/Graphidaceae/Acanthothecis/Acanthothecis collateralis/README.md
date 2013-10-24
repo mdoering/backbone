@@ -1,5 +1,4 @@
-Acanthothecis collateralis Makhija & Adaw. SPECIES
-=======
+# Acanthothecis collateralis Makhija & Adaw. SPECIES
 
 #### Status
 ACCEPTED

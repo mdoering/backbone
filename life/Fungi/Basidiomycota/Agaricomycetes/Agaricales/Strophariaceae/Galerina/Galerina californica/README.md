@@ -1,5 +1,4 @@
-Galerina californica A.H. Sm. & Singer SPECIES
-=======
+# Galerina californica A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

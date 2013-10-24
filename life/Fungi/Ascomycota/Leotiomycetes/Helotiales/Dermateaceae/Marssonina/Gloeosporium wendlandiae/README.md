@@ -1,5 +1,4 @@
-Gloeosporium wendlandiae Hasija SPECIES
-=======
+# Gloeosporium wendlandiae Hasija SPECIES
 
 #### Status
 ACCEPTED

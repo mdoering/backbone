@@ -1,5 +1,4 @@
-Pilocratera sulcipes (Berk.) Sacc. & Traverso SPECIES
-=======
+# Pilocratera sulcipes (Berk.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

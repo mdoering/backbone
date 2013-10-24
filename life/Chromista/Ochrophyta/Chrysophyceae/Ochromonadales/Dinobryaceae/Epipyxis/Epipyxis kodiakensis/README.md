@@ -1,5 +1,4 @@
-Epipyxis kodiakensis Hilliard & Asmund SPECIES
-=======
+# Epipyxis kodiakensis Hilliard & Asmund SPECIES
 
 #### Status
 ACCEPTED

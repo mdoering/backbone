@@ -1,5 +1,4 @@
-Galorrheus aurantiacus (Pers.) P. Kumm. SPECIES
-=======
+# Galorrheus aurantiacus (Pers.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

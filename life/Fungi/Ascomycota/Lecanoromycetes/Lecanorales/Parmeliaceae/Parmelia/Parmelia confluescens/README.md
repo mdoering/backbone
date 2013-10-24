@@ -1,5 +1,4 @@
-Parmelia confluescens Nyl. SPECIES
-=======
+# Parmelia confluescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Citrobacter freudi SPECIES
-=======
+# Citrobacter freudi SPECIES
 
 #### Status
 ACCEPTED

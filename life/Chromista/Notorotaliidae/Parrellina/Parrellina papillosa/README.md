@@ -1,8 +1,7 @@
-Elphidium papillosa Cushman, 1936 SPECIES
-=======
+# Parrellina papillosa (Cushman, 1936) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

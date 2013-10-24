@@ -1,17 +1,16 @@
-Sphaerella pelvetiae (G.K. Sutherl.) Sacc. SPECIES
-=======
+# Stigmidium ascophylli (Cotton) Aptroot, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 24(2): 849 (1928)
+null
 
 #### Original name
-Mycosphaerella pelvetiae G.K. Sutherl.
+null
 
 ### Remarks
 null

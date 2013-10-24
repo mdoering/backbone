@@ -1,5 +1,4 @@
-Chloridium atrum Corda SPECIES
-=======
+# Chloridium atrum Corda SPECIES
 
 #### Status
 ACCEPTED

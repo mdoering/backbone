@@ -1,5 +1,4 @@
-Phoma brunneola (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Phoma brunneola (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

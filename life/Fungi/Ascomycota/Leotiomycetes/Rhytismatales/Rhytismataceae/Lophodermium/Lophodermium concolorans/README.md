@@ -1,5 +1,4 @@
-Lophodermium concolorans P.R. Johnst. SPECIES
-=======
+# Lophodermium concolorans P.R. Johnst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irpex destruens Petch SPECIES
-=======
+# Irpex destruens Petch SPECIES
 
 #### Status
 ACCEPTED

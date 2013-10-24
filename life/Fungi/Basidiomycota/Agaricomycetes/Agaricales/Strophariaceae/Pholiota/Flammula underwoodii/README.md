@@ -1,5 +1,4 @@
-Flammula underwoodii Peck SPECIES
-=======
+# Flammula underwoodii Peck SPECIES
 
 #### Status
 ACCEPTED

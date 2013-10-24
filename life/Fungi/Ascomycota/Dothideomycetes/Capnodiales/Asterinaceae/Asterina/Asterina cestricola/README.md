@@ -1,5 +1,4 @@
-Asterina cestricola (R.W. Ryan) Hosag. & T.K. Abraham SPECIES
-=======
+# Asterina cestricola (R.W. Ryan) Hosag. & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

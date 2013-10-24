@@ -1,5 +1,4 @@
-Septoria sinarum Speg. SPECIES
-=======
+# Septoria sinarum Speg. SPECIES
 
 #### Status
 ACCEPTED

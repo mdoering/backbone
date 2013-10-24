@@ -1,5 +1,4 @@
-Macroplodia lappae (Ellis & Everh.) Kuntze SPECIES
-=======
+# Macroplodia lappae (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

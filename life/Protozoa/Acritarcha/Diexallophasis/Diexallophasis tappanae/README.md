@@ -1,5 +1,4 @@
-Diexallophasis tappanae (V. V. Kirjanov) R. Wicander SPECIES
-=======
+# Diexallophasis tappanae (V. V. Kirjanov) R. Wicander SPECIES
 
 #### Status
 ACCEPTED

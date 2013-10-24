@@ -1,5 +1,4 @@
-Tenua echinata G.U. Gitmez & W.A.S. Sarjeant SPECIES
-=======
+# Tenua echinata G.U. Gitmez & W.A.S. Sarjeant SPECIES
 
 #### Status
 ACCEPTED

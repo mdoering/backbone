@@ -1,5 +1,4 @@
-Pilocratera maxima Syd. SPECIES
-=======
+# Pilocratera maxima Syd. SPECIES
 
 #### Status
 ACCEPTED

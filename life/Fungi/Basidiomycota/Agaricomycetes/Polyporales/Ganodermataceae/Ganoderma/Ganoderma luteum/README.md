@@ -1,5 +1,4 @@
-Ganoderma luteum Steyaert SPECIES
-=======
+# Ganoderma luteum Steyaert SPECIES
 
 #### Status
 ACCEPTED

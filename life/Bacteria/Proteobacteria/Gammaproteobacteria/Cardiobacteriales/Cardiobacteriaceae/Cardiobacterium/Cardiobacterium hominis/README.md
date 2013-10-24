@@ -1,5 +1,4 @@
-Cardiobacterium hominis Slotnick and Dougherty, 1964 (Approved Lists, 1980) SPECIES
-=======
+# Cardiobacterium hominis Slotnick and Dougherty, 1964 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

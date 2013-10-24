@@ -1,5 +1,4 @@
-Marasmius caryophylleus (Schaeff.) J. Schröt. SPECIES
-=======
+# Marasmius caryophylleus (Schaeff.) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

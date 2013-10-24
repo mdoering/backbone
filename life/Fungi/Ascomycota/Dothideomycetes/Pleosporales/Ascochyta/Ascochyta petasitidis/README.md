@@ -1,5 +1,4 @@
-Ascochyta petasitidis Petr. SPECIES
-=======
+# Ascochyta petasitidis Petr. SPECIES
 
 #### Status
 ACCEPTED

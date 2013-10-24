@@ -1,5 +1,4 @@
-Macrosporium prunicola McAlpine SPECIES
-=======
+# Macrosporium prunicola McAlpine SPECIES
 
 #### Status
 ACCEPTED

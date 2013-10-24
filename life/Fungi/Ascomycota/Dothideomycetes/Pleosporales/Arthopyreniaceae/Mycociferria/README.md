@@ -1,5 +1,4 @@
-Mycociferria GENUS
-=======
+# Mycociferria GENUS
 
 #### Status
 ACCEPTED

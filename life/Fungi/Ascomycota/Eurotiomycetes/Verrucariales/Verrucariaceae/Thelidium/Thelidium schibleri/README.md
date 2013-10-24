@@ -1,5 +1,4 @@
-Thelidium schibleri Zschacke SPECIES
-=======
+# Thelidium schibleri Zschacke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia ligniaria Peck SPECIES
-=======
+# Collybia ligniaria Peck SPECIES
 
 #### Status
 ACCEPTED

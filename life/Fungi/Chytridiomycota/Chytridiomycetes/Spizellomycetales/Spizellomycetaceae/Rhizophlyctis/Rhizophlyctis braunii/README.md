@@ -1,5 +1,4 @@
-Rhizophlyctis braunii (Zopf) A. Fisch. SPECIES
-=======
+# Rhizophlyctis braunii (Zopf) A. Fisch. SPECIES
 
 #### Status
 ACCEPTED

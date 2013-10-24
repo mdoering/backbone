@@ -1,5 +1,4 @@
-Cladosporium linicola Pidopl. & Deniak SPECIES
-=======
+# Cladosporium linicola Pidopl. & Deniak SPECIES
 
 #### Status
 ACCEPTED

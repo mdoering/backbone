@@ -1,5 +1,4 @@
-Mycosphaerella sanguisorbae Lobik SPECIES
-=======
+# Mycosphaerella sanguisorbae Lobik SPECIES
 
 #### Status
 ACCEPTED

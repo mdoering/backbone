@@ -1,5 +1,4 @@
-Exoascus jaczewskii (Palm) Jacz. SPECIES
-=======
+# Exoascus jaczewskii (Palm) Jacz. SPECIES
 
 #### Status
 ACCEPTED

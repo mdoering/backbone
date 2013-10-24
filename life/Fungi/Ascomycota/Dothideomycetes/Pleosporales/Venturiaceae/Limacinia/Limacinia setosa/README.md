@@ -1,5 +1,4 @@
-Limacinia setosa (Zimm.) Sacc. & D. Sacc. SPECIES
-=======
+# Limacinia setosa (Zimm.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

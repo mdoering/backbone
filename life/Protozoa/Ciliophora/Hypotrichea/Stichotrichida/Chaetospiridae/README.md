@@ -1,5 +1,4 @@
-Chaetospiridae FAMILY
-=======
+# Chaetospiridae FAMILY
 
 #### Status
 ACCEPTED

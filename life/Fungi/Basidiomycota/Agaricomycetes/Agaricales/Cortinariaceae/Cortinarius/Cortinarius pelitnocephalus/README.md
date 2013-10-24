@@ -1,5 +1,4 @@
-Cortinarius pelitnocephalus Rob. Henry SPECIES
-=======
+# Cortinarius pelitnocephalus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

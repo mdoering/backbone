@@ -1,5 +1,4 @@
-Lecidea ochrodela Nyl. SPECIES
-=======
+# Lecidea ochrodela Nyl. SPECIES
 
 #### Status
 ACCEPTED

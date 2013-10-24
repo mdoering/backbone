@@ -1,5 +1,4 @@
-Leptoglossum lutescens var. mitruloides Rehm VARIETY
-=======
+# Leptoglossum lutescens (Pers.) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Beih. Sydowia 4: 132 (1961)
 
 #### Original name
-Leptoglossum lutescens var. mitruloides Rehm
+Thelephora lutescens Pers.
 
 ### Remarks
 null

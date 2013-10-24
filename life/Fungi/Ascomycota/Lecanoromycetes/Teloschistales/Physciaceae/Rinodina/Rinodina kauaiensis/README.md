@@ -1,5 +1,4 @@
-Rinodina kauaiensis H. Magn. SPECIES
-=======
+# Rinodina kauaiensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

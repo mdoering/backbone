@@ -1,5 +1,4 @@
-Spermatodium Fée ex Trevis. GENUS
-=======
+# Spermatodium Fée ex Trevis. GENUS
 
 #### Status
 ACCEPTED

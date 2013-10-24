@@ -1,5 +1,4 @@
-Acrostalagmus coccidicola Guég. SPECIES
-=======
+# Acrostalagmus coccidicola Guég. SPECIES
 
 #### Status
 ACCEPTED

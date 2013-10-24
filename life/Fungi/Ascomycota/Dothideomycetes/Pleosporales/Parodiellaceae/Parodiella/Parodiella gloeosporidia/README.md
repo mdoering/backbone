@@ -1,5 +1,4 @@
-Parodiella gloeosporidia Steyaert SPECIES
-=======
+# Parodiella gloeosporidia Steyaert SPECIES
 
 #### Status
 ACCEPTED

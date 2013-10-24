@@ -1,5 +1,4 @@
-Meliola burseracearum var. burseracearum VARIETY
-=======
+# Meliola burseracearum F. Stevens SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls mycol. 26(3/4): 199 (1928)
 
 #### Original name
-Meliola burseracearum var. burseracearum
+Meliola burseracearum F. Stevens
 
 ### Remarks
 null

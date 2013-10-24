@@ -1,14 +1,13 @@
-Caeomurus gentianae (Arthur) Kuntze, 1898 SPECIES
-=======
+# Uromyces gentianae Arthur, 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 450 (1898)
+Bot. Gaz. 16: 227 (1891)
 
 #### Original name
 Uromyces gentianae Arthur, 1891

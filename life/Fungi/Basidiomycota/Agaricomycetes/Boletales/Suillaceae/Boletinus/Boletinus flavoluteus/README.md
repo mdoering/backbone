@@ -1,5 +1,4 @@
-Boletinus flavoluteus Snell SPECIES
-=======
+# Boletinus flavoluteus Snell SPECIES
 
 #### Status
 ACCEPTED

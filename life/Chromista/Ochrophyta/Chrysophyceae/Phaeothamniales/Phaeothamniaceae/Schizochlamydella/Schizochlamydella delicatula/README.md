@@ -1,5 +1,4 @@
-Schizochlamydella delicatula (G.S. West) Korshikov SPECIES
-=======
+# Schizochlamydella delicatula (G.S. West) Korshikov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudopeziza campestris Rehm SPECIES
-=======
+# Pseudopeziza campestris Rehm SPECIES
 
 #### Status
 ACCEPTED

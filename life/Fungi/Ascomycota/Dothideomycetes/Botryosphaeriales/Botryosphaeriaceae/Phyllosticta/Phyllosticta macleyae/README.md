@@ -1,5 +1,4 @@
-Phyllosticta macleyae N. Naito SPECIES
-=======
+# Phyllosticta macleyae N. Naito SPECIES
 
 #### Status
 ACCEPTED

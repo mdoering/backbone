@@ -1,5 +1,4 @@
-Uromyces pentaschistidis Gjaerum, 1988 SPECIES
-=======
+# Uromyces pentaschistidis Gjaerum, 1988 SPECIES
 
 #### Status
 ACCEPTED

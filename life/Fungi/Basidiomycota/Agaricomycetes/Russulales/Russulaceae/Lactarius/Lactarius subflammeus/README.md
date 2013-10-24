@@ -1,5 +1,4 @@
-Lactarius subflammeus Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius subflammeus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

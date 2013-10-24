@@ -1,5 +1,4 @@
-Tremolecia micropsis (A. Massal.) Hertel SPECIES
-=======
+# Tremolecia micropsis (A. Massal.) Hertel SPECIES
 
 #### Status
 ACCEPTED

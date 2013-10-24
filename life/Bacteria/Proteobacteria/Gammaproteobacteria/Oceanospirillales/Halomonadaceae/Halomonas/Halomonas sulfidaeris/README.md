@@ -1,5 +1,4 @@
-Halomonas sulfidaeris Kaye et al., 2004 SPECIES
-=======
+# Halomonas sulfidaeris Kaye et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

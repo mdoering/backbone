@@ -1,5 +1,4 @@
-Endothia tetraspora Ts. Kobay. SPECIES
-=======
+# Endothia tetraspora Ts. Kobay. SPECIES
 
 #### Status
 ACCEPTED

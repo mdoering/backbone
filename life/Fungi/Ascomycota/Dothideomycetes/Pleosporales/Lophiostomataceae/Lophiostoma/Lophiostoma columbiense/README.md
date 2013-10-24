@@ -1,5 +1,4 @@
-Lophiostoma columbiense M.E. Barr SPECIES
-=======
+# Lophiostoma columbiense M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

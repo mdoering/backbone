@@ -1,5 +1,4 @@
-Russula subemetica Reumaux SPECIES
-=======
+# Russula subemetica Reumaux SPECIES
 
 #### Status
 ACCEPTED

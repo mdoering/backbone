@@ -1,5 +1,4 @@
-Pseudotryblidium Rehm GENUS
-=======
+# Pseudotryblidium Rehm GENUS
 
 #### Status
 ACCEPTED

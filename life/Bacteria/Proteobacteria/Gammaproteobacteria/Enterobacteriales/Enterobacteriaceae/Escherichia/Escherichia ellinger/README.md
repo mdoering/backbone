@@ -1,5 +1,4 @@
-Escherichia ellinger SPECIES
-=======
+# Escherichia ellinger SPECIES
 
 #### Status
 ACCEPTED

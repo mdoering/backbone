@@ -1,5 +1,4 @@
-Collybia subgoniospora Speg. SPECIES
-=======
+# Collybia subgoniospora Speg. SPECIES
 
 #### Status
 ACCEPTED

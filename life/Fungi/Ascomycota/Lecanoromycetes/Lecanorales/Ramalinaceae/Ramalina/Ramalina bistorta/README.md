@@ -1,5 +1,4 @@
-Ramalina bistorta Nyl. SPECIES
-=======
+# Ramalina bistorta Nyl. SPECIES
 
 #### Status
 ACCEPTED

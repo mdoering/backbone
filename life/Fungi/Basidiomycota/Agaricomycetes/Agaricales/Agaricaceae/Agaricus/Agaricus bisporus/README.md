@@ -1,17 +1,16 @@
-Agaricus campestris subsp. campestris SUBSPECIES
-=======
+# Agaricus bisporus (J.E. Lange) Imbach, 1946 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sp. pl. 2: 1173 (1753)
+Mitt. naturf. Ges. Luzern 15: 15 (1946)
 
 #### Original name
-Agaricus campestris subsp. campestris
+Psalliota hortensis f. bispora J.E. Lange
 
 ### Remarks
 null

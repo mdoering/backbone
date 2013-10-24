@@ -1,8 +1,7 @@
-Catenulopsora zizyphi T.S. Ramakr. & Subram. SPECIES
-=======
+# Catenulopsora ziziphi T.S. Ramakr. & Subram. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Catenulopsora zizyphi T.S. Ramakr. & Subram.
+Catenulopsora ziziphi T.S. Ramakr. & Subram.
 
 ### Remarks
 null

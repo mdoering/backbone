@@ -1,5 +1,4 @@
-Russula pantherina (Zvára) Moënne-Locc. & Reumaux SPECIES
-=======
+# Russula pantherina (Zvára) Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

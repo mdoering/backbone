@@ -1,5 +1,4 @@
-Microsphaera fraxini U. Braun SPECIES
-=======
+# Microsphaera fraxini U. Braun SPECIES
 
 #### Status
 ACCEPTED

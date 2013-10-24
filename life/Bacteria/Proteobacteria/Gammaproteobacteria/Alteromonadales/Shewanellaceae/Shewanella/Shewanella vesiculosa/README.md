@@ -1,5 +1,4 @@
-Shewanella vesiculosa Bozal, Montes, Minana-Galbis, Manresa & Mercade, 2009 SPECIES
-=======
+# Shewanella vesiculosa Bozal, Montes, Minana-Galbis, Manresa & Mercade, 2009 SPECIES
 
 #### Status
 ACCEPTED

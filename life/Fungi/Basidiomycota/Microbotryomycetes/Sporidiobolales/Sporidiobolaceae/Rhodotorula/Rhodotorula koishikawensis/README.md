@@ -1,5 +1,4 @@
-Rhodotorula koishikawensis (Okun.) Krassiln. SPECIES
-=======
+# Rhodotorula koishikawensis (Okun.) Krassiln. SPECIES
 
 #### Status
 ACCEPTED

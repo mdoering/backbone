@@ -1,5 +1,4 @@
-Stigme costaricana Syd. SPECIES
-=======
+# Stigme costaricana Syd. SPECIES
 
 #### Status
 ACCEPTED

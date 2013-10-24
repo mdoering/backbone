@@ -1,5 +1,4 @@
-Lecanora chalybaea (Fr.) Schaer. SPECIES
-=======
+# Lecanora chalybaea (Fr.) Schaer. SPECIES
 
 #### Status
 ACCEPTED

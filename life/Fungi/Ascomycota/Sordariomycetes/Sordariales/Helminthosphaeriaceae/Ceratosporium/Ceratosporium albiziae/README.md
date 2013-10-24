@@ -1,5 +1,4 @@
-Ceratosporium albiziae (Petch) SPECIES
-=======
+# Ceratosporium albiziae (Petch) SPECIES
 
 #### Status
 ACCEPTED

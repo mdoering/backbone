@@ -1,5 +1,4 @@
-Galerina acicola A.H. Sm. & Singer SPECIES
-=======
+# Galerina acicola A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

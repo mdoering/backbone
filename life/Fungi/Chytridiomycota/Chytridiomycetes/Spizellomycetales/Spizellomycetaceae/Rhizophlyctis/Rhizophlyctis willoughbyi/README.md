@@ -1,5 +1,4 @@
-Rhizophlyctis willoughbyi K. Konno SPECIES
-=======
+# Rhizophlyctis willoughbyi K. Konno SPECIES
 
 #### Status
 ACCEPTED

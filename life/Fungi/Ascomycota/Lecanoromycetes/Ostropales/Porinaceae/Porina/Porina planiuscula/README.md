@@ -1,5 +1,4 @@
-Porina planiuscula Vezda SPECIES
-=======
+# Porina planiuscula Vezda SPECIES
 
 #### Status
 ACCEPTED

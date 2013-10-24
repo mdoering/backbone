@@ -1,5 +1,4 @@
-Amanita contorta Lam. SPECIES
-=======
+# Amanita contorta Lam. SPECIES
 
 #### Status
 ACCEPTED

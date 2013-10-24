@@ -1,5 +1,4 @@
-Marasmius gilvus Pat. SPECIES
-=======
+# Marasmius gilvus Pat. SPECIES
 
 #### Status
 ACCEPTED

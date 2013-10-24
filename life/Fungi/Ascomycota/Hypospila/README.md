@@ -1,5 +1,4 @@
-Hypospila E.M. Fries, 1825 GENUS
-=======
+# Hypospila E.M. Fries, 1825 GENUS
 
 #### Status
 ACCEPTED

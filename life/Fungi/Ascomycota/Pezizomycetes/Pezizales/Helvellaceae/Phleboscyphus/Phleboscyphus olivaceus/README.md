@@ -1,5 +1,4 @@
-Phleboscyphus olivaceus Clem. SPECIES
-=======
+# Phleboscyphus olivaceus Clem. SPECIES
 
 #### Status
 ACCEPTED

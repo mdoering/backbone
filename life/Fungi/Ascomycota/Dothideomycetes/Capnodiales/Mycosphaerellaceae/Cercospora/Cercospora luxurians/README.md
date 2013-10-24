@@ -1,5 +1,4 @@
-Cercospora luxurians A.K. Kar & M. Mandal SPECIES
-=======
+# Cercospora luxurians A.K. Kar & M. Mandal SPECIES
 
 #### Status
 ACCEPTED

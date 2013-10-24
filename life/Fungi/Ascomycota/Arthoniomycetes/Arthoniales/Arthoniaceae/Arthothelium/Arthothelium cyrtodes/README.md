@@ -1,5 +1,4 @@
-Arthothelium cyrtodes (Nyl.) Zahlbr. SPECIES
-=======
+# Arthothelium cyrtodes (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

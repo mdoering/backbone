@@ -1,5 +1,4 @@
-Kurogiella Kawai, 1993 GENUS
-=======
+# Kurogiella Kawai, 1993 GENUS
 
 #### Status
 ACCEPTED

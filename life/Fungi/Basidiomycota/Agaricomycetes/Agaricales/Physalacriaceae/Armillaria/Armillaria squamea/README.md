@@ -1,5 +1,4 @@
-Armillaria squamea (Barla) Sacc. SPECIES
-=======
+# Armillaria squamea (Barla) Sacc. SPECIES
 
 #### Status
 ACCEPTED

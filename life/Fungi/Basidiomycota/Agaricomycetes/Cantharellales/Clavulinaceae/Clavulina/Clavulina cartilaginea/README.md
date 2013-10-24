@@ -1,5 +1,4 @@
-Clavulina cartilaginea (Berk. & M.A. Curtis) Corner, 1950 SPECIES
-=======
+# Clavulina cartilaginea (Berk. & M.A. Curtis) Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED

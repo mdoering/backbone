@@ -1,5 +1,4 @@
-Physalospora moliniae Kirschst. SPECIES
-=======
+# Physalospora moliniae Kirschst. SPECIES
 
 #### Status
 ACCEPTED

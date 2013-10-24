@@ -1,5 +1,4 @@
-Luteibacter Johansen et al., 2005 GENUS
-=======
+# Luteibacter Johansen et al., 2005 GENUS
 
 #### Status
 ACCEPTED

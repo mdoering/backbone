@@ -1,5 +1,4 @@
-Thelidium pertusulum (Nyl.) B. de Lesd. SPECIES
-=======
+# Thelidium pertusulum (Nyl.) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus umbellulus Mont. SPECIES
-=======
+# Agaricus umbellulus Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus convexus Schumach. SPECIES
-=======
+# Agaricus convexus Schumach. SPECIES
 
 #### Status
 ACCEPTED

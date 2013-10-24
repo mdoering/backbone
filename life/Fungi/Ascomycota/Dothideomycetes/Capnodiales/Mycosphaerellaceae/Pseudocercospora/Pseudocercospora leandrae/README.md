@@ -1,5 +1,4 @@
-Pseudocercospora leandrae (Syd.) U. Braun SPECIES
-=======
+# Pseudocercospora leandrae (Syd.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

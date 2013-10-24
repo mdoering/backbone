@@ -1,5 +1,4 @@
-Stradnerlithus primitus SPECIES
-=======
+# Stradnerlithus primitus SPECIES
 
 #### Status
 ACCEPTED

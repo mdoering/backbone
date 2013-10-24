@@ -1,5 +1,4 @@
-Fazorica GENUS
-=======
+# Fazorica GENUS
 
 #### Status
 ACCEPTED

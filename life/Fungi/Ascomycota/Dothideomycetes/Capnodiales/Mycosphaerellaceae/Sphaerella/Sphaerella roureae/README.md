@@ -1,5 +1,4 @@
-Sphaerella roureae (Syd.) Sacc. SPECIES
-=======
+# Sphaerella roureae (Syd.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

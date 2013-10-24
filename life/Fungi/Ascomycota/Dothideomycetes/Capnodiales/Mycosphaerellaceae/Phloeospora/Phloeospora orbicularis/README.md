@@ -1,5 +1,4 @@
-Phloeospora orbicularis (Cooke) Hansf. SPECIES
-=======
+# Phloeospora orbicularis (Cooke) Hansf. SPECIES
 
 #### Status
 ACCEPTED

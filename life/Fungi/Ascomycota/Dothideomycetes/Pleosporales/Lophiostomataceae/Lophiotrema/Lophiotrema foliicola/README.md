@@ -1,17 +1,16 @@
-Lophiotrema foliicolum Curzi SPECIES
-=======
+# Lophiotrema foliicola Curzi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atti Ist. bot. Univ. Lab. crittog. Pavia 3: 203 (1927)
 
 #### Original name
-Lophiotrema foliicolum Curzi
+Lophiotrema foliicola Curzi
 
 ### Remarks
 null

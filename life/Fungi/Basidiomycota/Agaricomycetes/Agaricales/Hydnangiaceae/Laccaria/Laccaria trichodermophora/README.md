@@ -1,5 +1,4 @@
-Laccaria trichodermophora G.M. Muell. SPECIES
-=======
+# Laccaria trichodermophora G.M. Muell. SPECIES
 
 #### Status
 ACCEPTED

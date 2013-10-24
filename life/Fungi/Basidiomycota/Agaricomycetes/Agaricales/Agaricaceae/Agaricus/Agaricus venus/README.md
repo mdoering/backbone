@@ -1,5 +1,4 @@
-Agaricus venus Murrill SPECIES
-=======
+# Agaricus venus Murrill SPECIES
 
 #### Status
 ACCEPTED

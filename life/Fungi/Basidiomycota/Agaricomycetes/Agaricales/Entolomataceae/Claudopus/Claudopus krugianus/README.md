@@ -1,17 +1,16 @@
-Claudopus krugiana Henn. SPECIES
-=======
+# Claudopus krugianus Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 36: 208 (1897)
 
 #### Original name
-Claudopus krugiana Henn.
+Claudopus krugianus Henn.
 
 ### Remarks
 null

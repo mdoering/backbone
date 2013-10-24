@@ -1,5 +1,4 @@
-Cycloclypeus annulatus Martin, 1880 SPECIES
-=======
+# Cycloclypeus annulatus Martin, 1880 SPECIES
 
 #### Status
 ACCEPTED

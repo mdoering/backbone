@@ -1,5 +1,4 @@
-Lecanora leoni B. de Lesd. SPECIES
-=======
+# Lecanora leoni B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

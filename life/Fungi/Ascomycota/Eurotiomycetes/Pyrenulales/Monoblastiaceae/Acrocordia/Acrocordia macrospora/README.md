@@ -1,5 +1,4 @@
-Acrocordia macrospora A. Massal. SPECIES
-=======
+# Acrocordia macrospora A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Shawiella grevilleae Hansf., 1957 SPECIES
-=======
+# Shawiella grevilleae Hansf., 1957 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clericia Frenguelli, 1925 GENUS
-=======
+# Clericia Frenguelli, 1925 GENUS
 
 #### Status
 ACCEPTED

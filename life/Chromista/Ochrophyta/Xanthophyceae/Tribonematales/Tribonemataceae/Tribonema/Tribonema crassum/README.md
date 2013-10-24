@@ -1,5 +1,4 @@
-Tribonema crassum Pascher SPECIES
-=======
+# Tribonema crassum Pascher SPECIES
 
 #### Status
 ACCEPTED

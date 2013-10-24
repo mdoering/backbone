@@ -1,5 +1,4 @@
-Lecidea atroalbicans f. atroalbicans FORM
-=======
+# Lecidea atroalbicans Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea atroalbicans f. atroalbicans
+Lecidea atroalbicans Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phloeospora angelicae Höhn. SPECIES
-=======
+# Phloeospora angelicae Höhn. SPECIES
 
 #### Status
 ACCEPTED

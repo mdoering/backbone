@@ -1,5 +1,4 @@
-Sporotrichum terricola Grove SPECIES
-=======
+# Sporotrichum terricola Grove SPECIES
 
 #### Status
 ACCEPTED

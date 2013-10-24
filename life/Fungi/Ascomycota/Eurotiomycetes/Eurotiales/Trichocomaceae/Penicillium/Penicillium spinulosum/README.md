@@ -1,17 +1,16 @@
-Penicillium trzebinskii var. trzebinskii VARIETY
-=======
+# Penicillium spinulosum Thom, 1910 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin Acad. Polonaise Sci. , Math. et Nat. , Sér. B 498 (1927)
+Bulletin of the U. S. Department of Agriculture, Bureau Animal Industry 118: 76 (1910)
 
 #### Original name
-Penicillium trzebinskii var. trzebinskii
+Penicillium spinulosum Thom, 1910
 
 ### Remarks
 null

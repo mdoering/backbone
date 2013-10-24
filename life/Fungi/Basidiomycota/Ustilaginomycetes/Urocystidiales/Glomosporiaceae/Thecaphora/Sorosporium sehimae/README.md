@@ -1,5 +1,4 @@
-Sorosporium sehimae M.S. Patil SPECIES
-=======
+# Sorosporium sehimae M.S. Patil SPECIES
 
 #### Status
 ACCEPTED

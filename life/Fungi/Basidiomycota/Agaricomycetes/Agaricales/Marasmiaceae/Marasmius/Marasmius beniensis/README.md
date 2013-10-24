@@ -1,5 +1,4 @@
-Marasmius beniensis Singer SPECIES
-=======
+# Marasmius beniensis Singer SPECIES
 
 #### Status
 ACCEPTED

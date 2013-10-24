@@ -1,5 +1,4 @@
-Sphaerodiscus Won, 1983 GENUS
-=======
+# Sphaerodiscus Won, 1983 GENUS
 
 #### Status
 ACCEPTED

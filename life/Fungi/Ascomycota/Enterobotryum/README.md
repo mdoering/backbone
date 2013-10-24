@@ -1,5 +1,4 @@
-Enterobotryum Preuss GENUS
-=======
+# Enterobotryum Preuss GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orbilia septispora Baral SPECIES
-=======
+# Orbilia septispora Baral SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma pullum Ovrebo SPECIES
-=======
+# Tricholoma pullum Ovrebo SPECIES
 
 #### Status
 ACCEPTED

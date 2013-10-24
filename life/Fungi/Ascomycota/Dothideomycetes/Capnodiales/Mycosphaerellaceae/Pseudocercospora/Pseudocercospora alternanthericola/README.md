@@ -1,5 +1,4 @@
-Pseudocercospora alternanthericola (Pavgi & U.P. Singh) Deighton SPECIES
-=======
+# Pseudocercospora alternanthericola (Pavgi & U.P. Singh) Deighton SPECIES
 
 #### Status
 ACCEPTED

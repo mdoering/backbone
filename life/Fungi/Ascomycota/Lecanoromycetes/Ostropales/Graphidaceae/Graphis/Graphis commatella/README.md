@@ -1,5 +1,4 @@
-Graphis commatella Nyl. SPECIES
-=======
+# Graphis commatella Nyl. SPECIES
 
 #### Status
 ACCEPTED

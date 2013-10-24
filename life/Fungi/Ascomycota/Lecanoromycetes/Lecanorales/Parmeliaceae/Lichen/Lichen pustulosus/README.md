@@ -1,5 +1,4 @@
-Lichen pustulosus Gilib. SPECIES
-=======
+# Lichen pustulosus Gilib. SPECIES
 
 #### Status
 ACCEPTED

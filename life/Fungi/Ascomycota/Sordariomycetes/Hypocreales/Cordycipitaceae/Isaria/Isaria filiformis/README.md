@@ -1,5 +1,4 @@
-Isaria filiformis var. filiformis Wallr. VARIETY
-=======
+# Isaria filiformis Wallr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Fl. crypt. Germ. (Nürnberg) 2: 307 (1833)
 
 #### Original name
-Isaria filiformis var. filiformis Wallr.
+Isaria filiformis Wallr.
 
 ### Remarks
 null

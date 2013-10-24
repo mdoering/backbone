@@ -1,5 +1,4 @@
-Dibaeis cretacea Elix & Kantvilas SPECIES
-=======
+# Dibaeis cretacea Elix & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma cornicola D. Sacc. SPECIES
-=======
+# Phoma cornicola D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

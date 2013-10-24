@@ -1,5 +1,4 @@
-Phaeographis lignatilis (Vain.) Zahlbr. SPECIES
-=======
+# Phaeographis lignatilis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

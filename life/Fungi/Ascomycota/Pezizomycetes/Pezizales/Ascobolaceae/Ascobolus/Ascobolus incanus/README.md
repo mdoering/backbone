@@ -1,5 +1,4 @@
-Ascobolus incanus W. Phillips SPECIES
-=======
+# Ascobolus incanus W. Phillips SPECIES
 
 #### Status
 ACCEPTED

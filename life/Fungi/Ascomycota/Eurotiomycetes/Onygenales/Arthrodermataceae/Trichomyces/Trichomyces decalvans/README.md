@@ -1,5 +1,4 @@
-Trichomyces decalvans (Malmsten) SPECIES
-=======
+# Trichomyces decalvans (Malmsten) SPECIES
 
 #### Status
 ACCEPTED

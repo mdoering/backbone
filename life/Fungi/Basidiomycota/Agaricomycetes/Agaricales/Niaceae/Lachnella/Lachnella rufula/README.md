@@ -1,5 +1,4 @@
-Lachnella rufula Quél. SPECIES
-=======
+# Lachnella rufula Quél. SPECIES
 
 #### Status
 ACCEPTED

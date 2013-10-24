@@ -1,5 +1,4 @@
-Zignoëlla sabalina Ellis & Everh. SPECIES
-=======
+# Zignoëlla sabalina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Endothiella sinuosa (Naumov) Sacc., 1931 SPECIES
-=======
+# Gyrostroma sinuosum Naumov, 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 30(3): 386 (1914)
 
 #### Original name
 Gyrostroma sinuosum Naumov, 1914

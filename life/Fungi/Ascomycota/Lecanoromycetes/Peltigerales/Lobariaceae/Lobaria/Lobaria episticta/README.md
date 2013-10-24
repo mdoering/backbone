@@ -1,5 +1,4 @@
-Lobaria episticta (Nyl.) Trevis. SPECIES
-=======
+# Lobaria episticta (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

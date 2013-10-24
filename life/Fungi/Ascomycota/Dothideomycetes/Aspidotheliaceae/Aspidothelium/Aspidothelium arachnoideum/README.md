@@ -1,5 +1,4 @@
-Aspidothelium arachnoideum Lücking SPECIES
-=======
+# Aspidothelium arachnoideum Lücking SPECIES
 
 #### Status
 ACCEPTED

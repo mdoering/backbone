@@ -1,5 +1,4 @@
-Microconcentrica S.N. Naumova, 1960 GENUS
-=======
+# Microconcentrica S.N. Naumova, 1960 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspidisca tuberosa Kahl, 1932 SPECIES
-=======
+# Aspidisca tuberosa Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

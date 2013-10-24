@@ -1,5 +1,4 @@
-Lecanora hedinii f. hedinii FORM
-=======
+# Lecanora hedinii H. Magn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora hedinii f. hedinii
+Lecanora hedinii H. Magn.
 
 ### Remarks
 null

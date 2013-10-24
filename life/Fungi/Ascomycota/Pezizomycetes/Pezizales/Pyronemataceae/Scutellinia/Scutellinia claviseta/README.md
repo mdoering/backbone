@@ -1,5 +1,4 @@
-Scutellinia claviseta Häffner SPECIES
-=======
+# Scutellinia claviseta Häffner SPECIES
 
 #### Status
 ACCEPTED

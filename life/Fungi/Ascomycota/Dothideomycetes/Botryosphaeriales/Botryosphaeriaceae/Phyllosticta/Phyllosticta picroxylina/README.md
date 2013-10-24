@@ -1,5 +1,4 @@
-Phyllosticta picroxylina Speg. SPECIES
-=======
+# Phyllosticta picroxylina Speg. SPECIES
 
 #### Status
 ACCEPTED

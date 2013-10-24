@@ -1,5 +1,4 @@
-Acineta gajewskajae SPECIES
-=======
+# Acineta gajewskajae SPECIES
 
 #### Status
 ACCEPTED

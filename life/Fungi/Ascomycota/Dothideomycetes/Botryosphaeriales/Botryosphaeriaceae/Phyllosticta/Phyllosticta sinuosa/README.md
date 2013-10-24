@@ -1,5 +1,4 @@
-Phyllosticta sinuosa Ellis & G. Martin SPECIES
-=======
+# Phyllosticta sinuosa Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

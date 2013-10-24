@@ -1,5 +1,4 @@
-Ramaria avellaneovertex R.H. Petersen, 1988 SPECIES
-=======
+# Ramaria avellaneovertex R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

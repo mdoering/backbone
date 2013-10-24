@@ -1,5 +1,4 @@
-Verrucaria gibba Nyl. SPECIES
-=======
+# Verrucaria gibba Nyl. SPECIES
 
 #### Status
 ACCEPTED

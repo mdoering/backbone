@@ -1,5 +1,4 @@
-Rickia mycetinae Sugiy. SPECIES
-=======
+# Rickia mycetinae Sugiy. SPECIES
 
 #### Status
 ACCEPTED

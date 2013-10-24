@@ -1,5 +1,4 @@
-Neonectria discophora var. discophora VARIETY
-=======
+# Neonectria discophora SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 79: 339 (2001)
+null
 
 #### Original name
-Neonectria discophora var. discophora
+null
 
 ### Remarks
 null

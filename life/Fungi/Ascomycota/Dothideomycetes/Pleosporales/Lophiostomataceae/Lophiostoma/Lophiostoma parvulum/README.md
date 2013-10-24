@@ -1,5 +1,4 @@
-Lophiostoma parvulum Nitschke SPECIES
-=======
+# Lophiostoma parvulum Nitschke SPECIES
 
 #### Status
 ACCEPTED

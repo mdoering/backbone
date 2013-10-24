@@ -1,5 +1,4 @@
-Urceolaria aenea Motyka SPECIES
-=======
+# Urceolaria aenea Motyka SPECIES
 
 #### Status
 ACCEPTED

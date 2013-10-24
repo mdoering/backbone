@@ -1,5 +1,4 @@
-Laboulbenia umbonata Thaxt. SPECIES
-=======
+# Laboulbenia umbonata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

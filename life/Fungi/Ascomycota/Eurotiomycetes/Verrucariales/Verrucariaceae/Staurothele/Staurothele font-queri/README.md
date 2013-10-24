@@ -1,5 +1,4 @@
-Staurothele font-queri Werner & M. Choisy SPECIES
-=======
+# Staurothele font-queri Werner & M. Choisy SPECIES
 
 #### Status
 ACCEPTED

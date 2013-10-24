@@ -1,5 +1,4 @@
-Lichen flavus Bellardi SPECIES
-=======
+# Lichen flavus Bellardi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyanisticta aurata SPECIES
-=======
+# Cyanisticta aurata SPECIES
 
 #### Status
 ACCEPTED

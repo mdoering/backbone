@@ -1,5 +1,4 @@
-Trichothyrites kiandrensis (Selkirk) Kalgutkar & Janson. SPECIES
-=======
+# Trichothyrites kiandrensis (Selkirk) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniophora albo-olivacea Rick SPECIES
-=======
+# Coniophora albo-olivacea Rick SPECIES
 
 #### Status
 ACCEPTED

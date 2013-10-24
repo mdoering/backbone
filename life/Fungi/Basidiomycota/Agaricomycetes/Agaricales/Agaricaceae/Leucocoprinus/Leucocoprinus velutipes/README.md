@@ -1,5 +1,4 @@
-Leucocoprinus velutipes Heinem. SPECIES
-=======
+# Leucocoprinus velutipes Heinem. SPECIES
 
 #### Status
 ACCEPTED

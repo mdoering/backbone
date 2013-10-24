@@ -1,5 +1,4 @@
-Aegerita lutescens Schwein. SPECIES
-=======
+# Aegerita lutescens Schwein. SPECIES
 
 #### Status
 ACCEPTED

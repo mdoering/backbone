@@ -1,5 +1,4 @@
-Stilbella hamamelidis (J.M. Hook) Overh. SPECIES
-=======
+# Stilbella hamamelidis (J.M. Hook) Overh. SPECIES
 
 #### Status
 ACCEPTED

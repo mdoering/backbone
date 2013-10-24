@@ -1,5 +1,4 @@
-Dicaeoma philibertiae (Ellis & Everh.) Kuntze SPECIES
-=======
+# Dicaeoma philibertiae (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

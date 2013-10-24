@@ -1,5 +1,4 @@
-Lecidea funerea Sommerf. SPECIES
-=======
+# Lecidea funerea Sommerf. SPECIES
 
 #### Status
 ACCEPTED

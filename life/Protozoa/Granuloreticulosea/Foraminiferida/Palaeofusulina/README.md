@@ -1,5 +1,4 @@
-Palaeofusulina Deprat, 1912 GENUS
-=======
+# Palaeofusulina Deprat, 1912 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza culmigena var. culmigena VARIETY
-=======
+# Peziza culmigena Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syst. mycol. (Lundae) 2(1): 127 (1822)
 
 #### Original name
-Peziza culmigena var. culmigena
+Peziza culmigena Fr.
 
 ### Remarks
 null

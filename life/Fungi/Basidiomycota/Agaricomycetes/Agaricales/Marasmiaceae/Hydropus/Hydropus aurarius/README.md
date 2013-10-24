@@ -1,5 +1,4 @@
-Hydropus aurarius Har. Takah. SPECIES
-=======
+# Hydropus aurarius Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

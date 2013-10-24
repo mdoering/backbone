@@ -1,17 +1,16 @@
-Rhodophyllus jubatus var. jubatus VARIETY
-=======
+# Entoloma jubatum (Fr.) P. Karst., 1879 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Rysslands, Finlands och den Skandinaviska Halföns. Hattsvampar 1: 263 (1879)
 
 #### Original name
-null
+Agaricus jubatus Fr., 1821
 
 ### Remarks
 null

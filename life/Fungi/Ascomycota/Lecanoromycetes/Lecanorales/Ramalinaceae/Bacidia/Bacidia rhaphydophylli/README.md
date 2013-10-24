@@ -1,5 +1,4 @@
-Bacidia rhaphydophylli (Rehm) Zahlbr. SPECIES
-=======
+# Bacidia rhaphydophylli (Rehm) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

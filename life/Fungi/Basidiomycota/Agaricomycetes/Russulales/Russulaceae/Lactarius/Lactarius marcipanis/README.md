@@ -1,5 +1,4 @@
-Lactarius marcipanis Velen. SPECIES
-=======
+# Lactarius marcipanis Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alcaligenes faecalis subsp. faecalis SUBSPECIES
-=======
+# Alcaligenes faecalis Castellani & Chalmers, 1919 SPECIES
 
 #### Status
 ACCEPTED

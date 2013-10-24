@@ -1,5 +1,4 @@
-Cryptococcus kartulisii Castell. SPECIES
-=======
+# Cryptococcus kartulisii Castell. SPECIES
 
 #### Status
 ACCEPTED

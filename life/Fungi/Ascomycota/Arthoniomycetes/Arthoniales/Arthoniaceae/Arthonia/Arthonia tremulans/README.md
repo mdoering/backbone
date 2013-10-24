@@ -1,5 +1,4 @@
-Arthonia tremulans Müll. Arg. SPECIES
-=======
+# Arthonia tremulans Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

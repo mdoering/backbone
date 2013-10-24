@@ -1,5 +1,4 @@
-Asterina astroniae H.S. Yates SPECIES
-=======
+# Asterina astroniae H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

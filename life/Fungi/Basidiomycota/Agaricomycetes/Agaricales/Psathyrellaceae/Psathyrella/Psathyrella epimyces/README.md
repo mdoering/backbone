@@ -1,5 +1,4 @@
-Psathyrella epimyces (Peck) A.H. Sm. SPECIES
-=======
+# Psathyrella epimyces (Peck) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

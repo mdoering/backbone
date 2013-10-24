@@ -1,5 +1,4 @@
-Otthia Nitschke ex Fuckel, 1870 GENUS
-=======
+# Otthia Nitschke ex Fuckel, 1870 GENUS
 
 #### Status
 ACCEPTED

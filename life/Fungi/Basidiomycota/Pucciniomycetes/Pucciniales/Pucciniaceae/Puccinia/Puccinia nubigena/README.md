@@ -1,5 +1,4 @@
-Puccinia nubigena Speg. SPECIES
-=======
+# Puccinia nubigena Speg. SPECIES
 
 #### Status
 ACCEPTED

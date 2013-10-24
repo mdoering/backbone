@@ -1,5 +1,4 @@
-Microsphaera vaccinii Peck SPECIES
-=======
+# Microsphaera vaccinii Peck SPECIES
 
 #### Status
 ACCEPTED

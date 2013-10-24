@@ -1,5 +1,4 @@
-Fromea laevigata (Drugg, 1967) Stover & Eviit, 1978 SPECIES
-=======
+# Fromea laevigata (Drugg, 1967) Stover & Eviit, 1978 SPECIES
 
 #### Status
 ACCEPTED

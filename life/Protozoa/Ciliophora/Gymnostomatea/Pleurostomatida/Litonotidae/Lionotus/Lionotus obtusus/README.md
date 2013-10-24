@@ -1,5 +1,4 @@
-Lionotus obtusus Maupas, 1888 SPECIES
-=======
+# Lionotus obtusus Maupas, 1888 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Holosticha mancoidea Hemberger, 1985 SPECIES
-=======
+# Holosticha mancoidea Hemberger, 1985 SPECIES
 
 #### Status
 ACCEPTED

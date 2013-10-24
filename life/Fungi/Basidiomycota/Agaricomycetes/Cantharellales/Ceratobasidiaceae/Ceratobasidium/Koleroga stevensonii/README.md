@@ -1,5 +1,4 @@
-Koleroga stevensonii (Burt) SPECIES
-=======
+# Koleroga stevensonii (Burt) SPECIES
 
 #### Status
 ACCEPTED

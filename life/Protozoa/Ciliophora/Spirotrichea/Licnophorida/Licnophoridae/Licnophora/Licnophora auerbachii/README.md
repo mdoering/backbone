@@ -1,5 +1,4 @@
-Licnophora auerbachii (Cohn, 1866) Claparède, 1867 SPECIES
-=======
+# Licnophora auerbachii (Cohn, 1866) Claparède, 1867 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia laurocanariensis Giralt, Etayo & van den Boom SPECIES
-=======
+# Buellia laurocanariensis Giralt, Etayo & van den Boom SPECIES
 
 #### Status
 ACCEPTED

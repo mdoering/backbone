@@ -1,5 +1,4 @@
-Amphisphaeria bon-korninei A.L. Guyot SPECIES
-=======
+# Amphisphaeria bon-korninei A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

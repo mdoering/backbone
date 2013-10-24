@@ -1,5 +1,4 @@
-Macrobasis platypus (Schwein.) Starbäck SPECIES
-=======
+# Macrobasis platypus (Schwein.) Starbäck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporothrix catenata de Hoog & Constant. SPECIES
-=======
+# Sporothrix catenata de Hoog & Constant. SPECIES
 
 #### Status
 ACCEPTED

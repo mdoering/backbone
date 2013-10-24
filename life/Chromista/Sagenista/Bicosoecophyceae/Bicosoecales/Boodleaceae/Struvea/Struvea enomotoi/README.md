@@ -1,11 +1,10 @@
-Struvea tenuis Zanardini SPECIES
-=======
+# Struvea enomotoi Chihara, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
 null

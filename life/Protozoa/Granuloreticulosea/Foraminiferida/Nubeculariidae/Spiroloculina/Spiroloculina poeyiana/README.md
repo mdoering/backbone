@@ -1,5 +1,4 @@
-Spiroloculina poeyiana SPECIES
-=======
+# Spiroloculina poeyiana SPECIES
 
 #### Status
 ACCEPTED

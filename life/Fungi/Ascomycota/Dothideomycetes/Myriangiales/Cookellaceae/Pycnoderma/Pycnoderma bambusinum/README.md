@@ -1,5 +1,4 @@
-Pycnoderma bambusinum Syd. & P. Syd., 1914 SPECIES
-=======
+# Pycnoderma bambusinum Syd. & P. Syd., 1914 SPECIES
 
 #### Status
 ACCEPTED

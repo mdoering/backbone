@@ -1,5 +1,4 @@
-Colletotrichum carveri Ellis & Everh. SPECIES
-=======
+# Colletotrichum carveri Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

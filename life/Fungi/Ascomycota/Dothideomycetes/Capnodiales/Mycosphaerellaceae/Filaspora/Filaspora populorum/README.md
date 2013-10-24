@@ -1,5 +1,4 @@
-Filaspora populorum (Sacc. & Schulzer) Kuntze SPECIES
-=======
+# Filaspora populorum (Sacc. & Schulzer) Kuntze SPECIES
 
 #### Status
 ACCEPTED

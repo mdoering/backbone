@@ -1,5 +1,4 @@
-Candida berthetii Boidin, Pignal, Mermiér & Arpin, 1963 SPECIES
-=======
+# Candida berthetii Boidin, Pignal, Mermiér & Arpin, 1963 SPECIES
 
 #### Status
 ACCEPTED

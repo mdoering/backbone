@@ -1,5 +1,4 @@
-Lactarius robertianus Bon SPECIES
-=======
+# Lactarius robertianus Bon SPECIES
 
 #### Status
 ACCEPTED

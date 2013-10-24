@@ -1,5 +1,4 @@
-Syracosphaera lamina Lecal-Schlauder, 1951 SPECIES
-=======
+# Syracosphaera lamina Lecal-Schlauder, 1951 SPECIES
 
 #### Status
 ACCEPTED

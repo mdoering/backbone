@@ -1,5 +1,4 @@
-Leucopaxillus pinicola J. Favre SPECIES
-=======
+# Leucopaxillus pinicola J. Favre SPECIES
 
 #### Status
 ACCEPTED

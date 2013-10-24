@@ -1,5 +1,4 @@
-Vibrio ichthyoenteri Ishimaru et al., 1996 SPECIES
-=======
+# Vibrio ichthyoenteri Ishimaru et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

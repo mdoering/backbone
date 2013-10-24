@@ -1,5 +1,4 @@
-Retocybe vitrea Velen. SPECIES
-=======
+# Retocybe vitrea Velen. SPECIES
 
 #### Status
 ACCEPTED

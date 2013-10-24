@@ -1,5 +1,4 @@
-Vararia pirispora Boidin, Gilles & Lanq., 1987 SPECIES
-=======
+# Vararia pirispora Boidin, Gilles & Lanq., 1987 SPECIES
 
 #### Status
 ACCEPTED

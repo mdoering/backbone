@@ -1,5 +1,4 @@
-Ehrenbergina semmesi Cushman, 1927 SPECIES
-=======
+# Ehrenbergina semmesi Cushman, 1927 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vaginata inaurata Secr. ex A.H. Sm. SPECIES
-=======
+# Vaginata inaurata Secr. ex A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

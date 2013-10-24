@@ -1,5 +1,4 @@
-Semilecanora caesiosulphurea (Vain.) Motyka SPECIES
-=======
+# Semilecanora caesiosulphurea (Vain.) Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corynespora laevistipitata (M.S. Cole & D. Hawksw.) Heuchert & U. Braun SPECIES
-=======
+# Corynespora laevistipitata (M.S. Cole & D. Hawksw.) Heuchert & U. Braun SPECIES
 
 #### Status
 ACCEPTED

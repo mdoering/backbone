@@ -1,5 +1,4 @@
-Clitocybula esculenta Nagas. & Redhead SPECIES
-=======
+# Clitocybula esculenta Nagas. & Redhead SPECIES
 
 #### Status
 ACCEPTED

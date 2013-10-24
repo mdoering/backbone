@@ -1,14 +1,13 @@
-Tricharia couepiae (Bat.) Lücking & Sérus. SPECIES
-=======
+# Aderkomyces couepiae Bat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Lücking, Sérusiaux, Maia & Pereira, Lichenologist 30(2): 133 (1998)
+Publicações. Instituto de Micologia da Universidade do Recife & Instituto Nacional de Pesquis 320: 18 (1961)
 
 #### Original name
 Aderkomyces couepiae Bat.

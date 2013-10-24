@@ -1,5 +1,4 @@
-Rinodina xylophila H. Magn. SPECIES
-=======
+# Rinodina xylophila H. Magn. SPECIES
 
 #### Status
 ACCEPTED

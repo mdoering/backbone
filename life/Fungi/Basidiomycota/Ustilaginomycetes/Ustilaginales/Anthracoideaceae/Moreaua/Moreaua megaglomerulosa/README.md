@@ -1,14 +1,13 @@
-Tolyposporium megaglomerulosum Vánky, 1997 SPECIES
-=======
+# Moreaua megaglomerulosa (Vánky) Vánky, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 65: 147 (1997)
+Mycotaxon 74(2): 353 (2000)
 
 #### Original name
 Tolyposporium megaglomerulosum Vánky, 1997

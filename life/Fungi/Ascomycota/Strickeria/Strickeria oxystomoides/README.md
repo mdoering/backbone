@@ -1,5 +1,4 @@
-Strickeria oxystomoides (Sacc.) Hüseyin SPECIES
-=======
+# Strickeria oxystomoides (Sacc.) Hüseyin SPECIES
 
 #### Status
 ACCEPTED

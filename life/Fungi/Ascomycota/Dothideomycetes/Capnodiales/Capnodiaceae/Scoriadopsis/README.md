@@ -1,5 +1,4 @@
-Scoriadopsis J.M. Mend. GENUS
-=======
+# Scoriadopsis J.M. Mend. GENUS
 
 #### Status
 ACCEPTED

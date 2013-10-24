@@ -1,5 +1,4 @@
-Agaricus proliferus Fr. SPECIES
-=======
+# Agaricus proliferus Fr. SPECIES
 
 #### Status
 ACCEPTED

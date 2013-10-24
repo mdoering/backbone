@@ -1,17 +1,16 @@
-Leucocarpia dictyospora (Orange) R. Sant. SPECIES
-=======
+# Psoroglaena dictyospora (Orange) H. Harada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenology 2(1): 9 (2003)
 
 #### Original name
-null
+Macentina dictyospora Orange
 
 ### Remarks
 null

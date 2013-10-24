@@ -1,5 +1,4 @@
-Ascobolus pezizoides Pers., 1797 SPECIES
-=======
+# Ascobolus pezizoides Pers., 1797 SPECIES
 
 #### Status
 ACCEPTED

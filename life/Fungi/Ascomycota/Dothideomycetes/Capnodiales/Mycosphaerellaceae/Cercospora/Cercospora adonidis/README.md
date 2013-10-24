@@ -1,5 +1,4 @@
-Cercospora adonidis T.M. Achundov SPECIES
-=======
+# Cercospora adonidis T.M. Achundov SPECIES
 
 #### Status
 ACCEPTED

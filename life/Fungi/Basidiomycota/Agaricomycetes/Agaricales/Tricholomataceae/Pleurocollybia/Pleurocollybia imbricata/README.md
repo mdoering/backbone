@@ -1,5 +1,4 @@
-Pleurocollybia imbricata T.J. Baroni, Lodge & Lindner SPECIES
-=======
+# Pleurocollybia imbricata T.J. Baroni, Lodge & Lindner SPECIES
 
 #### Status
 ACCEPTED

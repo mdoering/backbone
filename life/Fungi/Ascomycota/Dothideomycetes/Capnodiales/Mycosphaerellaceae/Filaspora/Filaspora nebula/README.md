@@ -1,5 +1,4 @@
-Filaspora nebula (Sacc.) Kuntze SPECIES
-=======
+# Filaspora nebula (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

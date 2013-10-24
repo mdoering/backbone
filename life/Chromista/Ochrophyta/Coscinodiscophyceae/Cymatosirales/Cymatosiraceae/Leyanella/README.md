@@ -1,5 +1,4 @@
-Leyanella G.R.Hasle, H.A.von Stosch & E.E.Syvertsen, 1983 GENUS
-=======
+# Leyanella G.R.Hasle, H.A.von Stosch & E.E.Syvertsen, 1983 GENUS
 
 #### Status
 ACCEPTED

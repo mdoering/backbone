@@ -1,5 +1,4 @@
-Echinoplaca areolata Lücking & W.R. Buck SPECIES
-=======
+# Echinoplaca areolata Lücking & W.R. Buck SPECIES
 
 #### Status
 ACCEPTED

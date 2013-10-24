@@ -1,5 +1,4 @@
-Pseudocercospora manilkarae Kamal, M.K. Khan & R.K. Verma SPECIES
-=======
+# Pseudocercospora manilkarae Kamal, M.K. Khan & R.K. Verma SPECIES
 
 #### Status
 ACCEPTED

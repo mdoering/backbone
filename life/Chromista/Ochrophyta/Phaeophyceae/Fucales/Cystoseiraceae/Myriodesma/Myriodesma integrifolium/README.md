@@ -1,5 +1,4 @@
-Myriodesma integrifolium var. serrulatum Sonder VARIETY
-=======
+# Myriodesma integrifolium Harvey SPECIES
 
 #### Status
 ACCEPTED

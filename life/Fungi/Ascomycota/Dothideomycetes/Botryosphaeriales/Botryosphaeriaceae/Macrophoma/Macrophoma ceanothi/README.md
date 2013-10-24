@@ -1,5 +1,4 @@
-Macrophoma ceanothi Dearn. & House SPECIES
-=======
+# Macrophoma ceanothi Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

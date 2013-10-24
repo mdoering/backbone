@@ -1,5 +1,4 @@
-Sarcographa asterella (Vain.) Zahlbr. SPECIES
-=======
+# Sarcographa asterella (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

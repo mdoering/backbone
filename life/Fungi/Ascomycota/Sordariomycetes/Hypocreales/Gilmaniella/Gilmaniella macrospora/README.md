@@ -1,5 +1,4 @@
-Gilmaniella macrospora Moustafa, 1975 SPECIES
-=======
+# Gilmaniella macrospora Moustafa, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia sporoboli-arabici Afshan, Berndt, Khalid & Niazi SPECIES
-=======
+# Puccinia sporoboli-arabici Afshan, Berndt, Khalid & Niazi SPECIES
 
 #### Status
 ACCEPTED

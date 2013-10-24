@@ -1,5 +1,4 @@
-Cestodella allopori Tuzet & Manier SPECIES
-=======
+# Cestodella allopori Tuzet & Manier SPECIES
 
 #### Status
 ACCEPTED

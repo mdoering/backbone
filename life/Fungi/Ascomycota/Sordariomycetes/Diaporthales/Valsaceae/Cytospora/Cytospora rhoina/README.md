@@ -1,5 +1,4 @@
-Cytospora rhoina Fr. SPECIES
-=======
+# Cytospora rhoina Fr. SPECIES
 
 #### Status
 ACCEPTED

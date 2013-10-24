@@ -1,5 +1,4 @@
-Pseudocyphellaria albocyphellata Müll. Arg. SPECIES
-=======
+# Pseudocyphellaria albocyphellata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

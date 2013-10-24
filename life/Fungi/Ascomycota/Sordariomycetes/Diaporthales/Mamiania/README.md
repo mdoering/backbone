@@ -1,17 +1,16 @@
-Kubinyia Schulzer GENUS
-=======
+# Mamiania Ces. & De Not. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. zool. -bot. Ges. Wein 16 (1866)
+Comm. Soc. crittog. Ital. 1(4): 210 (1863)
 
 #### Original name
-Kubinyia Schulzer
+Mamiania Ces. & De Not.
 
 ### Remarks
 null

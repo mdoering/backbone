@@ -1,14 +1,13 @@
-Patouillardina sersalisiae Hansf., 1944 SPECIES
-=======
+# Parasterinopsis sersalisiae (Hansf.) Bat., 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Linn. Soc. London 156: 117 (1944)
+Atas Inst. Micol. Univ. Recife 1: 327 (1960)
 
 #### Original name
 Patouillardina sersalisiae Hansf., 1944

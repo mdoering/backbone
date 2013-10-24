@@ -1,5 +1,4 @@
-Herponema tortugense (W.R. Taylor) W.R. Taylor SPECIES
-=======
+# Herponema tortugense (W.R. Taylor) W.R. Taylor SPECIES
 
 #### Status
 ACCEPTED

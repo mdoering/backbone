@@ -1,5 +1,4 @@
-Disoma M.D. Zalessky, 1915 GENUS
-=======
+# Disoma M.D. Zalessky, 1915 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phialea foliicola anon. SPECIES
-=======
+# Phialea foliicola anon. SPECIES
 
 #### Status
 ACCEPTED

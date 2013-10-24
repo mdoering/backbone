@@ -1,5 +1,4 @@
-Sphaerella shiraiana I. Miyake SPECIES
-=======
+# Sphaerella shiraiana I. Miyake SPECIES
 
 #### Status
 ACCEPTED

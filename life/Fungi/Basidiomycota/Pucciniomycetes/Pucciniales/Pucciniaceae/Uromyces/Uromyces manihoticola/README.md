@@ -1,5 +1,4 @@
-Uromyces manihoticola Henn. SPECIES
-=======
+# Uromyces manihoticola Henn. SPECIES
 
 #### Status
 ACCEPTED

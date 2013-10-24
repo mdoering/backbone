@@ -1,5 +1,4 @@
-Bacidia variabilis (Vain.) Zahlbr. SPECIES
-=======
+# Bacidia variabilis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

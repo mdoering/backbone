@@ -1,5 +1,4 @@
-Puccinia uniporula (F. Kern) Syd. SPECIES
-=======
+# Puccinia uniporula (F. Kern) Syd. SPECIES
 
 #### Status
 ACCEPTED

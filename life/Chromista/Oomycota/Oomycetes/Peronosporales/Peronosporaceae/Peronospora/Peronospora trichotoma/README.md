@@ -1,5 +1,4 @@
-Peronospora trichotoma Massee, 1887 SPECIES
-=======
+# Peronospora trichotoma Massee, 1887 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microsphaera favargeri Mayor SPECIES
-=======
+# Microsphaera favargeri Mayor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ectotrichophyton multicolor (O. Magalh. & J.A. Neves) C.W. Dodge SPECIES
-=======
+# Ectotrichophyton multicolor (O. Magalh. & J.A. Neves) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

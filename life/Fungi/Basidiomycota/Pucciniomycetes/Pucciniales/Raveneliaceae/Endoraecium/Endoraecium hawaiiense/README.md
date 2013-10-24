@@ -1,5 +1,4 @@
-Endoraecium hawaiiense Hodges & D.E. Gardner, 1984 SPECIES
-=======
+# Endoraecium hawaiiense Hodges & D.E. Gardner, 1984 SPECIES
 
 #### Status
 ACCEPTED

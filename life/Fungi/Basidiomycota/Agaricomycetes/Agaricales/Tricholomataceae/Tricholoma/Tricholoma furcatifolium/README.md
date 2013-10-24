@@ -1,5 +1,4 @@
-Tricholoma furcatifolium Corner SPECIES
-=======
+# Tricholoma furcatifolium Corner SPECIES
 
 #### Status
 ACCEPTED

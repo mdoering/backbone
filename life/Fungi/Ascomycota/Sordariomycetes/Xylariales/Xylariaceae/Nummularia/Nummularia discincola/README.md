@@ -1,5 +1,4 @@
-Nummularia discincola (Schwein.) Cooke SPECIES
-=======
+# Nummularia discincola (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

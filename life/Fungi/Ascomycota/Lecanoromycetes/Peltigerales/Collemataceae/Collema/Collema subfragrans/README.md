@@ -1,5 +1,4 @@
-Collema subfragrans Degel. SPECIES
-=======
+# Collema subfragrans Degel. SPECIES
 
 #### Status
 ACCEPTED

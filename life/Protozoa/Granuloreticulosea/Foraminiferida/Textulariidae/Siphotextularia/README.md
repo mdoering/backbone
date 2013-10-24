@@ -1,5 +1,4 @@
-Siphotextularia Finlay, 1939 GENUS
-=======
+# Siphotextularia Finlay, 1939 GENUS
 
 #### Status
 ACCEPTED

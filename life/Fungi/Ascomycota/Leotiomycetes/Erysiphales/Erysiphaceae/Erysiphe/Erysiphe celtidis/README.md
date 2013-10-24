@@ -1,5 +1,4 @@
-Erysiphe celtidis (Schwarzman & Kusnezowa) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe celtidis (Schwarzman & Kusnezowa) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

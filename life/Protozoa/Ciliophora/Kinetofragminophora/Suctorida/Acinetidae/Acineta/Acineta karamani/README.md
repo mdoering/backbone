@@ -1,5 +1,4 @@
-Acineta karamani SPECIES
-=======
+# Acineta karamani SPECIES
 
 #### Status
 ACCEPTED

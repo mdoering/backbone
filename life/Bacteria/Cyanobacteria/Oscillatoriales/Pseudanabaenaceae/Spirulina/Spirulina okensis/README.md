@@ -1,5 +1,4 @@
-Spirulina okensis (C. Meyer) Geitler SPECIES
-=======
+# Spirulina okensis (C. Meyer) Geitler SPECIES
 
 #### Status
 ACCEPTED

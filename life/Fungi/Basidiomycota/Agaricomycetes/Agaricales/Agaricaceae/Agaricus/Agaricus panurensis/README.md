@@ -1,5 +1,4 @@
-Agaricus panurensis Berk. SPECIES
-=======
+# Agaricus panurensis Berk. SPECIES
 
 #### Status
 ACCEPTED

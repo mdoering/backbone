@@ -1,5 +1,4 @@
-Amphidinium phthartum Skuja SPECIES
-=======
+# Amphidinium phthartum Skuja SPECIES
 
 #### Status
 ACCEPTED

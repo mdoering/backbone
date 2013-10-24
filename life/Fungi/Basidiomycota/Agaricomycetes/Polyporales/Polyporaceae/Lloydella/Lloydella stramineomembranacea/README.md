@@ -1,5 +1,4 @@
-Lloydella stramineomembranacea Rick SPECIES
-=======
+# Lloydella stramineomembranacea Rick SPECIES
 
 #### Status
 ACCEPTED

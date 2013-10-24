@@ -1,5 +1,4 @@
-Trochila andromedae (Fr.) P. Karst. SPECIES
-=======
+# Trochila andromedae (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

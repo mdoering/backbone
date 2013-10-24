@@ -1,5 +1,4 @@
-Maireina ilicis W.B. Cooke SPECIES
-=======
+# Maireina ilicis W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

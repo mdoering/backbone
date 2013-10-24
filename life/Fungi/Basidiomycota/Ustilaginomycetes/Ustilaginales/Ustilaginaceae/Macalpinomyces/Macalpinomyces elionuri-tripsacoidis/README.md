@@ -1,5 +1,4 @@
-Macalpinomyces elionuri-tripsacoidis Vánky, 2003 SPECIES
-=======
+# Macalpinomyces elionuri-tripsacoidis Vánky, 2003 SPECIES
 
 #### Status
 ACCEPTED

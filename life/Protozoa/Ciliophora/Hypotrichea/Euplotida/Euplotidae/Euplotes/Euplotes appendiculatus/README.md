@@ -1,8 +1,7 @@
-Euploea appendiculatus Ehrenberg, 1834 SPECIES
-=======
+# Euplotes appendiculatus Ehrenberg, 1834 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

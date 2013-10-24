@@ -1,5 +1,4 @@
-Didymosphaeria berberidis Domashova SPECIES
-=======
+# Didymosphaeria berberidis Domashova SPECIES
 
 #### Status
 ACCEPTED

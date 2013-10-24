@@ -1,5 +1,4 @@
-Ramularia digitalis-ambiguae Arx SPECIES
-=======
+# Ramularia digitalis-ambiguae Arx SPECIES
 
 #### Status
 ACCEPTED

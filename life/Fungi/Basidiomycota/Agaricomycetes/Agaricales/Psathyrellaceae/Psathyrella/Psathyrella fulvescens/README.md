@@ -1,5 +1,4 @@
-Psathyrella fulvescens var. fulvescens VARIETY
-=======
+# Psathyrella fulvescens (Romagn.) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. N. Y. bot. Gdn 24: 387 (1972)
+null
 
 #### Original name
-Drosophila fulvescens Romagn., 1952
+null
 
 ### Remarks
 null

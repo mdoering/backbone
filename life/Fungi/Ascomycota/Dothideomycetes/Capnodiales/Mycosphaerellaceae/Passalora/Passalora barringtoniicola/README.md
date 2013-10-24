@@ -1,5 +1,4 @@
-Passalora barringtoniicola (Y.L. Guo) U. Braun & Crous SPECIES
-=======
+# Passalora barringtoniicola (Y.L. Guo) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

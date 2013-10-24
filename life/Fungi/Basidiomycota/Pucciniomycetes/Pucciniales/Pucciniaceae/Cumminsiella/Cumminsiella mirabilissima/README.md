@@ -1,17 +1,16 @@
-Cumminsiella sanguinea (Peck) Arthur, 1933 SPECIES
-=======
+# Cumminsiella mirabilissima (Peck) Nannf., 1947 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 60: 475 (1933)
+in Lundell & Nannfeldt, Fungi Exsiccati Suecici no. 1507a (1947)
 
 #### Original name
-Uropyxis sanguinea Arthur, 1907
+Puccinia mirabilissima Peck, 1881
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Monilia actoni (Vuill.) Vuill. SPECIES
-=======
+# Monilia actoni (Vuill.) Vuill. SPECIES
 
 #### Status
 ACCEPTED

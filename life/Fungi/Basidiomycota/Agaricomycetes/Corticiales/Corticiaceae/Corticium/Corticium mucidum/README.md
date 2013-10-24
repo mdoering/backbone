@@ -1,5 +1,4 @@
-Corticium mucidum (J. Schröt.) Höhn. & Litsch. SPECIES
-=======
+# Corticium mucidum (J. Schröt.) Höhn. & Litsch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudovidalina GENUS
-=======
+# Pseudovidalina GENUS
 
 #### Status
 ACCEPTED

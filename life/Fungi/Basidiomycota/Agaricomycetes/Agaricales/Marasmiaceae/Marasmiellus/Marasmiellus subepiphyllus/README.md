@@ -1,5 +1,4 @@
-Marasmiellus subepiphyllus C.S. Bi & G.Y. Zheng SPECIES
-=======
+# Marasmiellus subepiphyllus C.S. Bi & G.Y. Zheng SPECIES
 
 #### Status
 ACCEPTED

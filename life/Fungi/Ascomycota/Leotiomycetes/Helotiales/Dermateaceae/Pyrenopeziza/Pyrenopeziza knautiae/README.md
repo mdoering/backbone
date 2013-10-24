@@ -1,5 +1,4 @@
-Pyrenopeziza knautiae Kirschst. & Ludw. {?} SPECIES
-=======
+# Pyrenopeziza knautiae Kirschst. & Ludw. {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia ampelina Thüm. SPECIES
-=======
+# Hendersonia ampelina Thüm. SPECIES
 
 #### Status
 ACCEPTED

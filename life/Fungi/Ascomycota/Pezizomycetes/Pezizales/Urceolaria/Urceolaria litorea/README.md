@@ -1,5 +1,4 @@
-Urceolaria litorea (H. Magn.) Motyka SPECIES
-=======
+# Urceolaria litorea (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

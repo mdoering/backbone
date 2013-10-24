@@ -1,5 +1,4 @@
-Bacidia acerinoides J. Steiner SPECIES
-=======
+# Bacidia acerinoides J. Steiner SPECIES
 
 #### Status
 ACCEPTED

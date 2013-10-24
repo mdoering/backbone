@@ -1,5 +1,4 @@
-Vaginicola sulcata Kahl, 1928 SPECIES
-=======
+# Vaginicola sulcata Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula praeformosa Murrill SPECIES
-=======
+# Russula praeformosa Murrill SPECIES
 
 #### Status
 ACCEPTED

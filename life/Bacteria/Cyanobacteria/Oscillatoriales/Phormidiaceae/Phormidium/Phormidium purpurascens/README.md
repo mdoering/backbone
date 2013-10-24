@@ -1,5 +1,4 @@
-Phormidium purpurascens var. elegans Drouet VARIETY
-=======
+# Phormidium purpurascens SPECIES
 
 #### Status
 ACCEPTED

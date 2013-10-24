@@ -1,5 +1,4 @@
-Puccinia araguata F. Kern SPECIES
-=======
+# Puccinia araguata F. Kern SPECIES
 
 #### Status
 ACCEPTED

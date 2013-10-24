@@ -1,5 +1,4 @@
-Amanitopsis anomologa (Berk. & Broome) Sacc. SPECIES
-=======
+# Amanitopsis anomologa (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

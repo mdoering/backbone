@@ -1,5 +1,4 @@
-Zoothamnium timidum Dumas, 1929 SPECIES
-=======
+# Zoothamnium timidum Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

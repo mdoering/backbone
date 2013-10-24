@@ -1,5 +1,4 @@
-Cortinarius francescae Reumaux SPECIES
-=======
+# Cortinarius francescae Reumaux SPECIES
 
 #### Status
 ACCEPTED

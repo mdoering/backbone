@@ -1,5 +1,4 @@
-Limacinula tahitensis (Pat.) Theiss. SPECIES
-=======
+# Limacinula tahitensis (Pat.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

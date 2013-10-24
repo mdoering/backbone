@@ -1,5 +1,4 @@
-Sticta maniliensis Vain. SPECIES
-=======
+# Sticta maniliensis Vain. SPECIES
 
 #### Status
 ACCEPTED

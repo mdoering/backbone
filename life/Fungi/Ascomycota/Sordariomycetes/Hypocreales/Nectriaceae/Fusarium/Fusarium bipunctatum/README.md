@@ -1,5 +1,4 @@
-Fusarium bipunctatum Preuss SPECIES
-=======
+# Fusarium bipunctatum Preuss SPECIES
 
 #### Status
 ACCEPTED

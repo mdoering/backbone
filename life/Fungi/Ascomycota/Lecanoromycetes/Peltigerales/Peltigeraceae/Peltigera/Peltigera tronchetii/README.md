@@ -1,5 +1,4 @@
-Peltigera tronchetii SPECIES
-=======
+# Peltigera tronchetii SPECIES
 
 #### Status
 ACCEPTED

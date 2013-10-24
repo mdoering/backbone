@@ -1,5 +1,4 @@
-Pragmopora viticola (Schwein.) J.W. Groves SPECIES
-=======
+# Pragmopora viticola (Schwein.) J.W. Groves SPECIES
 
 #### Status
 ACCEPTED

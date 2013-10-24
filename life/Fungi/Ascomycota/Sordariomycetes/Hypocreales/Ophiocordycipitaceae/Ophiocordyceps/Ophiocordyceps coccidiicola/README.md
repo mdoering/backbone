@@ -1,5 +1,4 @@
-Ophiocordyceps coccidiicola (Kobayasi) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps coccidiicola (Kobayasi) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED

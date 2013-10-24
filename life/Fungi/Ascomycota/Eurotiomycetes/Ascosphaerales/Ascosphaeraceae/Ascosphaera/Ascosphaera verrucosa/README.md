@@ -1,5 +1,4 @@
-Ascosphaera verrucosa Skou SPECIES
-=======
+# Ascosphaera verrucosa Skou SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elphidium kaneharai Ishiwada, 1958 SPECIES
-=======
+# Elphidium kaneharai Ishiwada, 1958 SPECIES
 
 #### Status
 ACCEPTED

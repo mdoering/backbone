@@ -1,5 +1,4 @@
-Mycoporum bitumineum (Hellb.) Blomb. & Forssell SPECIES
-=======
+# Mycoporum bitumineum (Hellb.) Blomb. & Forssell SPECIES
 
 #### Status
 ACCEPTED

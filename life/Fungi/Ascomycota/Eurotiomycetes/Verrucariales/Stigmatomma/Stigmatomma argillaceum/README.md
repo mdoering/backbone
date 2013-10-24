@@ -1,5 +1,4 @@
-Stigmatomma argillaceum Flagey SPECIES
-=======
+# Stigmatomma argillaceum Flagey SPECIES
 
 #### Status
 ACCEPTED

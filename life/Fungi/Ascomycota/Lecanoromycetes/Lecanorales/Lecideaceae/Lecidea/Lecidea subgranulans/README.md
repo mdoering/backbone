@@ -1,5 +1,4 @@
-Lecidea subgranulans Vain. SPECIES
-=======
+# Lecidea subgranulans Vain. SPECIES
 
 #### Status
 ACCEPTED

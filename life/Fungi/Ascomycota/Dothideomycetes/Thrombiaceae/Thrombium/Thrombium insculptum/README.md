@@ -1,5 +1,4 @@
-Thrombium insculptum Wallr. SPECIES
-=======
+# Thrombium insculptum Wallr. SPECIES
 
 #### Status
 ACCEPTED

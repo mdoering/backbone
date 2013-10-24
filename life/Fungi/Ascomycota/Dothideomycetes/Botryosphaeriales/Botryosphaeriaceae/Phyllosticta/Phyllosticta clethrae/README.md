@@ -1,5 +1,4 @@
-Phyllosticta clethrae P. Syd. SPECIES
-=======
+# Phyllosticta clethrae P. Syd. SPECIES
 
 #### Status
 ACCEPTED

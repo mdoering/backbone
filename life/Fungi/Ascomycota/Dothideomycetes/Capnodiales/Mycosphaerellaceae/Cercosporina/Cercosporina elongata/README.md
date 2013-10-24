@@ -1,5 +1,4 @@
-Cercosporina elongata (Peck) Speg. SPECIES
-=======
+# Cercosporina elongata (Peck) Speg. SPECIES
 
 #### Status
 ACCEPTED

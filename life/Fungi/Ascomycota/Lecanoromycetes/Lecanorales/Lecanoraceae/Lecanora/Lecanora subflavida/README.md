@@ -1,5 +1,4 @@
-Lecanora subflavida H. Magn. SPECIES
-=======
+# Lecanora subflavida H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium fructigenum Takeuchi SPECIES
-=======
+# Penicillium fructigenum Takeuchi SPECIES
 
 #### Status
 ACCEPTED

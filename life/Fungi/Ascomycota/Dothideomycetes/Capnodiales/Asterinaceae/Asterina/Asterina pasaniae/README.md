@@ -1,5 +1,4 @@
-Asterina pasaniae Henn. SPECIES
-=======
+# Asterina pasaniae Henn. SPECIES
 
 #### Status
 ACCEPTED

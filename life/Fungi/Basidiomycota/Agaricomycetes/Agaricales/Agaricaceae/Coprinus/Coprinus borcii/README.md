@@ -1,5 +1,4 @@
-Coprinus borcii Sobotka SPECIES
-=======
+# Coprinus borcii Sobotka SPECIES
 
 #### Status
 ACCEPTED

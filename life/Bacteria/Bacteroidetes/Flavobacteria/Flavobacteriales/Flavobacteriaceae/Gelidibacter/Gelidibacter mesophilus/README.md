@@ -1,5 +1,4 @@
-Gelidibacter mesophilus Macián et al., 2002 SPECIES
-=======
+# Gelidibacter mesophilus Macián et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leccinum thalassinum Pilát & Dermek SPECIES
-=======
+# Leccinum thalassinum Pilát & Dermek SPECIES
 
 #### Status
 ACCEPTED

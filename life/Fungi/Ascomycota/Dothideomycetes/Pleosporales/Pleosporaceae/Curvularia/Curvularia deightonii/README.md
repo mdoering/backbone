@@ -1,5 +1,4 @@
-Curvularia deightonii M.B. Ellis, 1966 SPECIES
-=======
+# Curvularia deightonii M.B. Ellis, 1966 SPECIES
 
 #### Status
 ACCEPTED

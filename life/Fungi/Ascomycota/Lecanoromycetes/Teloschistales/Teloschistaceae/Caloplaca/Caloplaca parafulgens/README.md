@@ -1,5 +1,4 @@
-Caloplaca parafulgens Werner SPECIES
-=======
+# Caloplaca parafulgens Werner SPECIES
 
 #### Status
 ACCEPTED

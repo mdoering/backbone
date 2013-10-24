@@ -1,17 +1,16 @@
-Stropharia albovelata (Murrill) Norvell & Redhead SPECIES
-=======
+# Stropharia albivelata (Murrill) Norvell & Redhead, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 76: 316 (2000)
 
 #### Original name
-Pholiota albovelata Murrill
+Pholiota albivelata Murrill, 1912
 
 ### Remarks
 null

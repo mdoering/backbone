@@ -1,5 +1,4 @@
-Palawaniella xylopiae Peres & J.L. Bezerra SPECIES
-=======
+# Palawaniella xylopiae Peres & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

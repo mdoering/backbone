@@ -1,5 +1,4 @@
-Peridermium ribicola Long SPECIES
-=======
+# Peridermium ribicola Long SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phomatospora therophila (Desm.) Sacc., 1882 SPECIES
-=======
+# Phyllachora therophila (Desm.) Arx & E. Müll., 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 1: 433 (1882)
+Beitr. Kryptfl. Schweiz 11(no. 1): 221 (1954)
 
 #### Original name
 Sphaeria therophila Desm., 1851

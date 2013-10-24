@@ -1,5 +1,4 @@
-Eichleriella chinensis Pilát SPECIES
-=======
+# Eichleriella chinensis Pilát SPECIES
 
 #### Status
 ACCEPTED

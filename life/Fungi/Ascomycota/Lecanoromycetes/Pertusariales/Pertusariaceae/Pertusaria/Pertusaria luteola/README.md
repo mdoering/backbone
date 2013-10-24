@@ -1,5 +1,4 @@
-Pertusaria luteola Boqueras SPECIES
-=======
+# Pertusaria luteola Boqueras SPECIES
 
 #### Status
 ACCEPTED

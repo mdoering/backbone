@@ -1,17 +1,16 @@
-Entyloma bicolor Zopf, 1878 SPECIES
-=======
+# Entyloma fuscum J. Schröt., 1877 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Rabenhorst, Hedwigia 17: 88 (1878)
+in Cohn, Beitr. Biol. Pfl. 2: 373 (1877)
 
 #### Original name
-Entyloma bicolor Zopf, 1878
+Entyloma fuscum J. Schröt., 1877
 
 ### Remarks
 null

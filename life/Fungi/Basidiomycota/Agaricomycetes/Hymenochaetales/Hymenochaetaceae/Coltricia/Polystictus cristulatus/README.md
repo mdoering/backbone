@@ -1,5 +1,4 @@
-Polystictus cristulatus (Speg.) Speg. SPECIES
-=======
+# Polystictus cristulatus (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

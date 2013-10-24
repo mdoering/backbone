@@ -1,5 +1,4 @@
-Hysterium thujopsidis Sawada SPECIES
-=======
+# Hysterium thujopsidis Sawada SPECIES
 
 #### Status
 ACCEPTED

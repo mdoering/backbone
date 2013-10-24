@@ -1,17 +1,16 @@
-Clavaria gollani Henn. SPECIES
-=======
+# Clavaria gollanii Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 39: 151 (1900)
 
 #### Original name
-Clavaria gollani Henn.
+Clavaria gollanii Henn.
 
 ### Remarks
 null

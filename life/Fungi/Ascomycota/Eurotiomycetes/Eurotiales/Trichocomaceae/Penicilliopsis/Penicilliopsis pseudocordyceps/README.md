@@ -1,5 +1,4 @@
-Penicilliopsis pseudocordyceps H.M. Hsieh & Y.M. Ju SPECIES
-=======
+# Penicilliopsis pseudocordyceps H.M. Hsieh & Y.M. Ju SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichodina kazubski SPECIES
-=======
+# Trichodina kazubski SPECIES
 
 #### Status
 ACCEPTED

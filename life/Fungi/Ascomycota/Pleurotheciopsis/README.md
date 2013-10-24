@@ -1,5 +1,4 @@
-Pleurotheciopsis B. Sutton, 1973 GENUS
-=======
+# Pleurotheciopsis B. Sutton, 1973 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micromyces minimus Linder SPECIES
-=======
+# Micromyces minimus Linder SPECIES
 
 #### Status
 ACCEPTED

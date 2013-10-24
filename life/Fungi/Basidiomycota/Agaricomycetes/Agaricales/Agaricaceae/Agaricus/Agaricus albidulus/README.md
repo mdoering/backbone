@@ -1,5 +1,4 @@
-Agaricus albidulus Britzelm. SPECIES
-=======
+# Agaricus albidulus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

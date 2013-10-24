@@ -1,5 +1,4 @@
-Thermococcus aggregans Canganella et al., 1998 SPECIES
-=======
+# Thermococcus aggregans Canganella et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

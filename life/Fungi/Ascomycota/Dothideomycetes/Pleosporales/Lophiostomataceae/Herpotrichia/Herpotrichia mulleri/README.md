@@ -1,5 +1,4 @@
-Herpotrichia mulleri Tilak & S.B. Kale SPECIES
-=======
+# Herpotrichia mulleri Tilak & S.B. Kale SPECIES
 
 #### Status
 ACCEPTED

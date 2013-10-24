@@ -1,5 +1,4 @@
-Hysterium thujarum Cooke & Peck SPECIES
-=======
+# Hysterium thujarum Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

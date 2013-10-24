@@ -1,5 +1,4 @@
-Stysanus candidus Corda SPECIES
-=======
+# Stysanus candidus Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus insulsus Fr. SPECIES
-=======
+# Agaricus insulsus Fr. SPECIES
 
 #### Status
 ACCEPTED

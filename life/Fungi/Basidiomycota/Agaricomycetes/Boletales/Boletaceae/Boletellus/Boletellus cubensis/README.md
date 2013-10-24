@@ -1,5 +1,4 @@
-Boletellus cubensis (Berk. & M.A. Curtis) Singer SPECIES
-=======
+# Boletellus cubensis (Berk. & M.A. Curtis) Singer SPECIES
 
 #### Status
 ACCEPTED

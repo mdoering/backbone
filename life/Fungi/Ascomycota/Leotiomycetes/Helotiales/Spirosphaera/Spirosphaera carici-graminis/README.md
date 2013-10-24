@@ -1,5 +1,4 @@
-Spirosphaera carici-graminis Voglmayr, 1997 SPECIES
-=======
+# Spirosphaera carici-graminis Voglmayr, 1997 SPECIES
 
 #### Status
 ACCEPTED

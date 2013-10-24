@@ -1,5 +1,4 @@
-Botryoderma gigaspora J.N. Kapoor & S.P. Lal SPECIES
-=======
+# Botryoderma gigaspora J.N. Kapoor & S.P. Lal SPECIES
 
 #### Status
 ACCEPTED

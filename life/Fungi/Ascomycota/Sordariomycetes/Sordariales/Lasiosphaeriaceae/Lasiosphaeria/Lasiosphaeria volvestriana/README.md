@@ -1,5 +1,4 @@
-Lasiosphaeria volvestriana Cand., J. Fourn. & Magni SPECIES
-=======
+# Lasiosphaeria volvestriana Cand., J. Fourn. & Magni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candida insectorum D.B. Scott, van der Walt & Klift, 1972 SPECIES
-=======
+# Candida insectorum D.B. Scott, van der Walt & Klift, 1972 SPECIES
 
 #### Status
 ACCEPTED

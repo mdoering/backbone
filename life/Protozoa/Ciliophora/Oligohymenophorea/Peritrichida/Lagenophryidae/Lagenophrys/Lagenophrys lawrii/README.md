@@ -1,5 +1,4 @@
-Lagenophrys lawrii Kane, 1965 SPECIES
-=======
+# Lagenophrys lawrii Kane, 1965 SPECIES
 
 #### Status
 ACCEPTED

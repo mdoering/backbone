@@ -1,5 +1,4 @@
-Lecidea fusconigrescens (Jatta) H. Olivier SPECIES
-=======
+# Lecidea fusconigrescens (Jatta) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

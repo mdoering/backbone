@@ -1,5 +1,4 @@
-Tricholoma rigidovelatum Raithelh. SPECIES
-=======
+# Tricholoma rigidovelatum Raithelh. SPECIES
 
 #### Status
 ACCEPTED

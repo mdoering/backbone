@@ -1,17 +1,16 @@
-Protohydnum lividum var. lividum Bres. VARIETY
-=======
+# Stypella subgelatinosa (P. Karst.) P. Roberts, 1998 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 1(1/2): 117 (1903)
+Mycotaxon 69: 232 (1998)
 
 #### Original name
-Protohydnum lividum var. lividum Bres.
+Hydnum subgelatinosum P. Karst., 1882
 
 ### Remarks
 null

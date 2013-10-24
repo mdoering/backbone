@@ -1,5 +1,4 @@
-Hyaloscypha minutella Boud. SPECIES
-=======
+# Hyaloscypha minutella Boud. SPECIES
 
 #### Status
 ACCEPTED

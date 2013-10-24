@@ -1,5 +1,4 @@
-Thecadinium mucosum Hoppenrath & Taylor SPECIES
-=======
+# Thecadinium mucosum Hoppenrath & Taylor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sordaria nigropapillata (Kirschst.) Sacc. SPECIES
-=======
+# Sordaria nigropapillata (Kirschst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

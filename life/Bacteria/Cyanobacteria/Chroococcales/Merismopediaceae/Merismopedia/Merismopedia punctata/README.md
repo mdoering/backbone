@@ -1,5 +1,4 @@
-Merismopedia punctata var. vacuolatum Playfair VARIETY
-=======
+# Merismopedia punctata Meyen SPECIES
 
 #### Status
 ACCEPTED

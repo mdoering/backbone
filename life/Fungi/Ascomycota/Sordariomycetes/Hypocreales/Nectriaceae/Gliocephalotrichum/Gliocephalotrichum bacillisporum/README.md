@@ -1,5 +1,4 @@
-Gliocephalotrichum bacillisporum Decock & Huret SPECIES
-=======
+# Gliocephalotrichum bacillisporum Decock & Huret SPECIES
 
 #### Status
 ACCEPTED

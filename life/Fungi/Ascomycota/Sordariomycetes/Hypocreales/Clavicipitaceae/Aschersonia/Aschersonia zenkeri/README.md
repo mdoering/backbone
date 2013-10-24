@@ -1,5 +1,4 @@
-Aschersonia zenkeri Henn. SPECIES
-=======
+# Aschersonia zenkeri Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia dracaenae Ponnappa SPECIES
-=======
+# Hendersonia dracaenae Ponnappa SPECIES
 
 #### Status
 ACCEPTED

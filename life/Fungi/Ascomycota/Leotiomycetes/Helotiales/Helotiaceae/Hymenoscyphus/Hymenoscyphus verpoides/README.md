@@ -1,14 +1,13 @@
-Hymenoscyphus verpodes (Saut.) Kuntze SPECIES
-=======
+# Hymenoscyphus verpoides (Saut.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 486 (1898)
 
 #### Original name
 Peziza verpoides Saut.

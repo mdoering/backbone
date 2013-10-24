@@ -1,5 +1,4 @@
-Zagortchevella Tikhomirova, 1989 GENUS
-=======
+# Zagortchevella Tikhomirova, 1989 GENUS
 
 #### Status
 ACCEPTED

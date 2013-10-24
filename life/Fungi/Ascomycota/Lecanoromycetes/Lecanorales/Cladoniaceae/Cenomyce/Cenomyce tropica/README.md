@@ -1,5 +1,4 @@
-Cenomyce tropica Delise ex Nyl. SPECIES
-=======
+# Cenomyce tropica Delise ex Nyl. SPECIES
 
 #### Status
 ACCEPTED

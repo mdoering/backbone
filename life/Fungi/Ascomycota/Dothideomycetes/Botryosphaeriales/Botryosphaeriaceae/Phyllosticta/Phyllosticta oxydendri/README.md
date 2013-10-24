@@ -1,5 +1,4 @@
-Phyllosticta oxydendri Ellis & Everh. SPECIES
-=======
+# Phyllosticta oxydendri Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora chorisiae (Tak. Kobay. & Onuki) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora chorisiae (Tak. Kobay. & Onuki) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo sumireicola var. sumireicola VARIETY
-=======
+# Uredo sumireicola Morim. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Uredo sumireicola var. sumireicola
+Uredo sumireicola Morim.
 
 ### Remarks
 null

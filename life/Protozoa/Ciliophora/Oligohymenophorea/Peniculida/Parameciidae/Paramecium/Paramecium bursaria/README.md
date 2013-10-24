@@ -1,8 +1,7 @@
-Paramaecium bursaria SPECIES
-=======
+# Paramecium bursaria (Ehrenberg, 1831) Focke, 1836 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

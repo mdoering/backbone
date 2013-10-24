@@ -1,5 +1,4 @@
-Mucor aspergilloides Zopf SPECIES
-=======
+# Mucor aspergilloides Zopf SPECIES
 
 #### Status
 ACCEPTED

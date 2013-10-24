@@ -1,5 +1,4 @@
-Tectatodinium D.Wall, 1967 GENUS
-=======
+# Tectatodinium D.Wall, 1967 GENUS
 
 #### Status
 ACCEPTED

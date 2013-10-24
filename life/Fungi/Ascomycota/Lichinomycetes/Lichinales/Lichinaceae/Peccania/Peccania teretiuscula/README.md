@@ -1,5 +1,4 @@
-Peccania teretiuscula (Flagey) Henssen SPECIES
-=======
+# Peccania teretiuscula (Flagey) Henssen SPECIES
 
 #### Status
 ACCEPTED

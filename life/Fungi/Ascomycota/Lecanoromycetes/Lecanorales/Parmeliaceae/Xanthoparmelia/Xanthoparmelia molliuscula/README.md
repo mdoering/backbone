@@ -1,17 +1,16 @@
-Parmelia molliuscula subsp. molliuscula SUBSPECIES
-=======
+# Xanthoparmelia molliuscula (Ach.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. univ. 492 (1810)
+Phytologia 28: 488 (1974)
 
 #### Original name
-Parmelia molliuscula subsp. molliuscula
+Parmelia molliuscula Ach.
 
 ### Remarks
 null

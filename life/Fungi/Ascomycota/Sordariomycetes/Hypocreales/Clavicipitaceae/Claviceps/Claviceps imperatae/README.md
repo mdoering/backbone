@@ -1,5 +1,4 @@
-Claviceps imperatae Tanda & Kawat. SPECIES
-=======
+# Claviceps imperatae Tanda & Kawat. SPECIES
 
 #### Status
 ACCEPTED

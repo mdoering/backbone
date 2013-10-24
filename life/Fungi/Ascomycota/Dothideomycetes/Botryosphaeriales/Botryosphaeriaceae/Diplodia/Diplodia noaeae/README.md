@@ -1,5 +1,4 @@
-Diplodia noaeae Kalymb. SPECIES
-=======
+# Diplodia noaeae Kalymb. SPECIES
 
 #### Status
 ACCEPTED

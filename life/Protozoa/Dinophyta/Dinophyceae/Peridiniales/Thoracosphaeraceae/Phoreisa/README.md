@@ -1,5 +1,4 @@
-Phoreisa Courtev., 1948 GENUS
-=======
+# Phoreisa Courtev., 1948 GENUS
 
 #### Status
 ACCEPTED

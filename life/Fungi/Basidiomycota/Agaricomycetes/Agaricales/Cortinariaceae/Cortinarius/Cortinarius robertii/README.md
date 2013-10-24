@@ -1,5 +1,4 @@
-Cortinarius robertii Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius robertii Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

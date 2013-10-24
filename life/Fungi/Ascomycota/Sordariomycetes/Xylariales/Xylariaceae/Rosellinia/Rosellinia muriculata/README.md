@@ -1,5 +1,4 @@
-Rosellinia muriculata Ellis & Everh. SPECIES
-=======
+# Rosellinia muriculata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

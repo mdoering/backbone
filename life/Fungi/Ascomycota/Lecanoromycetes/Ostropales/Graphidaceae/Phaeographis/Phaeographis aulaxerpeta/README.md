@@ -1,5 +1,4 @@
-Phaeographis aulaxerpeta (Leight.) Müll. Arg. SPECIES
-=======
+# Phaeographis aulaxerpeta (Leight.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Periconiella alemquerensis (Speg.) SPECIES
-=======
+# Periconiella alemquerensis (Speg.) SPECIES
 
 #### Status
 ACCEPTED

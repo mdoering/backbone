@@ -1,5 +1,4 @@
-Asteromella luzulina Syd. SPECIES
-=======
+# Asteromella luzulina Syd. SPECIES
 
 #### Status
 ACCEPTED

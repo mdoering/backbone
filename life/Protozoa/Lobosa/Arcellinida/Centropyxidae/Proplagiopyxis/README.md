@@ -1,5 +1,4 @@
-Proplagiopyxis Schönborn, 1964 GENUS
-=======
+# Proplagiopyxis Schönborn, 1964 GENUS
 
 #### Status
 ACCEPTED

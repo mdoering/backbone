@@ -1,5 +1,4 @@
-Tricholoma diemii Singer SPECIES
-=======
+# Tricholoma diemii Singer SPECIES
 
 #### Status
 ACCEPTED

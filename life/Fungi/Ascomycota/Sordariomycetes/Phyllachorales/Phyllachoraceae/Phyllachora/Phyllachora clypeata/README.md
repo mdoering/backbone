@@ -1,14 +1,13 @@
-Physalospora clypeata Theiss., 1914 SPECIES
-=======
+# Phyllachora clypeata (Theiss.) Theiss., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brotéria, sér. bot. 12: 27 (1914)
+Annls mycol. 13(5/6): 529 (1915)
 
 #### Original name
 Physalospora clypeata Theiss., 1914

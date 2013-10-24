@@ -1,5 +1,4 @@
-Melanoleuca paedida (Fr.) Kühner & Maire SPECIES
-=======
+# Melanoleuca paedida (Fr.) Kühner & Maire SPECIES
 
 #### Status
 ACCEPTED

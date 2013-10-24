@@ -1,14 +1,13 @@
-Rhytidhysterium fuscum (Ellis & Everh.) J.L. Bezerra & Kimbr. SPECIES
-=======
+# Rhytidhysteron fuscum (Ellis & Everh.) J.L. Bezerra & Kimbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Can. J. Bot. 56(24): 3021 (1979)
 
 #### Original name
 Triblidium rufulum var. fuscum Ellis & Everh.

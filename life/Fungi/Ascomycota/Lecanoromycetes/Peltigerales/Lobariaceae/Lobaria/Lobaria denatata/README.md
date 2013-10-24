@@ -1,5 +1,4 @@
-Lobaria denatata Hue SPECIES
-=======
+# Lobaria denatata Hue SPECIES
 
 #### Status
 ACCEPTED

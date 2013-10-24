@@ -1,17 +1,16 @@
-Coccotrema magellanica Messuti SPECIES
-=======
+# Coccotrema magellanicum Messuti SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 82: 432 (2002)
 
 #### Original name
-Coccotrema magellanica Messuti
+Coccotrema magellanicum Messuti
 
 ### Remarks
 null

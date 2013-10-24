@@ -1,5 +1,4 @@
-Leugeo Yang Qun & Yang, 1990 GENUS
-=======
+# Leugeo Yang Qun & Yang, 1990 GENUS
 
 #### Status
 ACCEPTED

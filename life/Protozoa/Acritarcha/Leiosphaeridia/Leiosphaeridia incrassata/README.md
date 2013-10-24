@@ -1,5 +1,4 @@
-Leiosphaeridia incrassata Sergeeva, 1979 SPECIES
-=======
+# Leiosphaeridia incrassata Sergeeva, 1979 SPECIES
 
 #### Status
 ACCEPTED

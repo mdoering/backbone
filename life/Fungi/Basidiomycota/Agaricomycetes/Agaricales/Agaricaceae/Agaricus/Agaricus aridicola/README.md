@@ -1,5 +1,4 @@
-Agaricus aridicola Geml, Geiser & Royse, 2004 SPECIES
-=======
+# Agaricus aridicola Geml, Geiser & Royse, 2004 SPECIES
 
 #### Status
 ACCEPTED

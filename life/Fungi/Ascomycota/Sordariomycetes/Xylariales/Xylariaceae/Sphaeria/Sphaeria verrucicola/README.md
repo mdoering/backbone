@@ -1,5 +1,4 @@
-Sphaeria verrucicola Wedd. SPECIES
-=======
+# Sphaeria verrucicola Wedd. SPECIES
 
 #### Status
 ACCEPTED

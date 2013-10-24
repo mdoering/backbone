@@ -1,5 +1,4 @@
-Calvatia rosacea Kreisel SPECIES
-=======
+# Calvatia rosacea Kreisel SPECIES
 
 #### Status
 ACCEPTED

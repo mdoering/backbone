@@ -1,8 +1,7 @@
-Agaricus broomeianus Berk. SPECIES
-=======
+# Agaricus broomeanus Berk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Agaricus broomeianus Berk.
+Agaricus broomeanus Berk.
 
 ### Remarks
 null

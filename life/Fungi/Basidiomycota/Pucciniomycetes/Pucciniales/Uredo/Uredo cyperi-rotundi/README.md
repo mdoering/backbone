@@ -1,5 +1,4 @@
-Uredo cyperi-rotundi S. Ito SPECIES
-=======
+# Uredo cyperi-rotundi S. Ito SPECIES
 
 #### Status
 ACCEPTED

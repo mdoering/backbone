@@ -1,5 +1,4 @@
-Sphaerella urticae Losa España {?} SPECIES
-=======
+# Sphaerella urticae Losa España {?} SPECIES
 
 #### Status
 ACCEPTED

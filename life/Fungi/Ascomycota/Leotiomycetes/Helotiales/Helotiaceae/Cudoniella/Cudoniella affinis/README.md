@@ -1,5 +1,4 @@
-Cudoniella affinis Velen. SPECIES
-=======
+# Cudoniella affinis Velen. SPECIES
 
 #### Status
 ACCEPTED

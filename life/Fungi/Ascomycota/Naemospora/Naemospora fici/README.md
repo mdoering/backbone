@@ -1,5 +1,4 @@
-Naemospora fici (Brond.) Sacc. SPECIES
-=======
+# Naemospora fici (Brond.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

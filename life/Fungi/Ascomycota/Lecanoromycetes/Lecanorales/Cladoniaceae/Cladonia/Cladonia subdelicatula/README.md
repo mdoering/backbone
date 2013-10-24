@@ -1,5 +1,4 @@
-Cladonia subdelicatula Vain. ex Asahina SPECIES
-=======
+# Cladonia subdelicatula Vain. ex Asahina SPECIES
 
 #### Status
 ACCEPTED

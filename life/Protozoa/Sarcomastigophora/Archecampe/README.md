@@ -1,5 +1,4 @@
-Archecampe Tikhomirova, 1987 GENUS
-=======
+# Archecampe Tikhomirova, 1987 GENUS
 
 #### Status
 ACCEPTED

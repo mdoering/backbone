@@ -1,5 +1,4 @@
-Chrysomyxa roanensis (Arthur) Arthur SPECIES
-=======
+# Chrysomyxa roanensis (Arthur) Arthur SPECIES
 
 #### Status
 ACCEPTED

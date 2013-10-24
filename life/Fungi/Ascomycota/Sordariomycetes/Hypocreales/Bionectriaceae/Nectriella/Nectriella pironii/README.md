@@ -1,5 +1,4 @@
-Nectriella pironii Alfieri & Samuels, 1980 SPECIES
-=======
+# Nectriella pironii Alfieri & Samuels, 1980 SPECIES
 
 #### Status
 ACCEPTED

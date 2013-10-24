@@ -1,5 +1,4 @@
-Stictis albomarginata S.H. Ou SPECIES
-=======
+# Stictis albomarginata S.H. Ou SPECIES
 
 #### Status
 ACCEPTED

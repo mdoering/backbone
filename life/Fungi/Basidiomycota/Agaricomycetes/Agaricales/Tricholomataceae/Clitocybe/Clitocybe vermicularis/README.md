@@ -1,17 +1,16 @@
-Clitocybe vermicularis f. vermicularis FORM
-=======
+# Clitocybe vermicularis (Fr.) Quél., 1872 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mém. Soc. Émul. Montbéliard, Sér. 2 5: 235 (1872)
 
 #### Original name
-Clitocybe vermicularis f. vermicularis
+Agaricus vermicularis Fr., 1838
 
 ### Remarks
 null

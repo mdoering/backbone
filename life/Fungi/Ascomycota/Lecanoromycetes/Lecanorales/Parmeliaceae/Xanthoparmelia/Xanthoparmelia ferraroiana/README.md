@@ -1,5 +1,4 @@
-Xanthoparmelia ferraroiana T. H. Nash, Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia ferraroiana T. H. Nash, Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

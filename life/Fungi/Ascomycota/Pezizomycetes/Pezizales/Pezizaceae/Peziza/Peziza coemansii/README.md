@@ -1,5 +1,4 @@
-Peziza coemansii J. Kickx f. SPECIES
-=======
+# Peziza coemansii J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED

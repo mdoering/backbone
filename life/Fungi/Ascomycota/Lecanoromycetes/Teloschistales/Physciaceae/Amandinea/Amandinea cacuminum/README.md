@@ -1,5 +1,4 @@
-Amandinea cacuminum (Th. Fr.) Sheard & H. Mayrhofer SPECIES
-=======
+# Amandinea cacuminum (Th. Fr.) Sheard & H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

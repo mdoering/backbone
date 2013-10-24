@@ -1,5 +1,4 @@
-Stilbum acicula (Berk.) Sacc. SPECIES
-=======
+# Stilbum acicula (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

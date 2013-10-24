@@ -1,5 +1,4 @@
-Rhodovulum visakhapatnamense Srinivas, Anil Kumar, Sasikala, Ramana & Imhoff, 2007 SPECIES
-=======
+# Rhodovulum visakhapatnamense Srinivas, Anil Kumar, Sasikala, Ramana & Imhoff, 2007 SPECIES
 
 #### Status
 ACCEPTED

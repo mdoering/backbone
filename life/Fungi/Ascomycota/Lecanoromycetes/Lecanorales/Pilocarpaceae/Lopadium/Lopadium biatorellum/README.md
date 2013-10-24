@@ -1,5 +1,4 @@
-Lopadium biatorellum G. Merr. SPECIES
-=======
+# Lopadium biatorellum G. Merr. SPECIES
 
 #### Status
 ACCEPTED

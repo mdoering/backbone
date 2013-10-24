@@ -1,5 +1,4 @@
-Humaria umbrina E.K. Cash SPECIES
-=======
+# Humaria umbrina E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exidia bullata Lloyd SPECIES
-=======
+# Exidia bullata Lloyd SPECIES
 
 #### Status
 ACCEPTED

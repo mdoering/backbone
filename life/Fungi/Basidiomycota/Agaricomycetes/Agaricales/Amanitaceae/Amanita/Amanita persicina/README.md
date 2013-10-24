@@ -1,5 +1,4 @@
-Amanita persicina R.N. Hilton & S. Clancy SPECIES
-=======
+# Amanita persicina R.N. Hilton & S. Clancy SPECIES
 
 #### Status
 ACCEPTED

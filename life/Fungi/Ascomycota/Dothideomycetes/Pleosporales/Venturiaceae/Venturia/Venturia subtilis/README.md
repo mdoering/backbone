@@ -1,5 +1,4 @@
-Venturia subtilis (Fuckel) Sacc. SPECIES
-=======
+# Venturia subtilis (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fucus arbuscula A. P. de Candolle SPECIES
-=======
+# Fucus arbuscula A. P. de Candolle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia tagetis-erectae V.G. Rao SPECIES
-=======
+# Diplodia tagetis-erectae V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

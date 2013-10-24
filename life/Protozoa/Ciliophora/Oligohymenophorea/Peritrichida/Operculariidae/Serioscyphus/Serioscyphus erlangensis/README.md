@@ -1,8 +1,7 @@
-Orbopercularia erlangensis Matthes & Guhl, 1972 SPECIES
-=======
+# Serioscyphus erlangensis (Matthes & Guhl, 1972) Jankowski, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

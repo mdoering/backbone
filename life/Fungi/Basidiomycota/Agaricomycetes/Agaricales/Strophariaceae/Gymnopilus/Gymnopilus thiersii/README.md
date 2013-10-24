@@ -1,5 +1,4 @@
-Gymnopilus thiersii M.T. Seidl SPECIES
-=======
+# Gymnopilus thiersii M.T. Seidl SPECIES
 
 #### Status
 ACCEPTED

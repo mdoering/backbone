@@ -1,5 +1,4 @@
-Hypophyllum tubaeforme Paulet SPECIES
-=======
+# Hypophyllum tubaeforme Paulet SPECIES
 
 #### Status
 ACCEPTED

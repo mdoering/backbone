@@ -1,5 +1,4 @@
-Aspicilia subglyphica (H. Magn.) Motyka SPECIES
-=======
+# Aspicilia subglyphica (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

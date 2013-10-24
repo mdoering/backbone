@@ -1,5 +1,4 @@
-Gonospora Schneider, 1875 GENUS
-=======
+# Gonospora Schneider, 1875 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inoloma pubescens Velen. SPECIES
-=======
+# Inoloma pubescens Velen. SPECIES
 
 #### Status
 ACCEPTED

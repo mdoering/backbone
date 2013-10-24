@@ -1,5 +1,4 @@
-Meliola pistaciae F. Stevens & Roldan SPECIES
-=======
+# Meliola pistaciae F. Stevens & Roldan SPECIES
 
 #### Status
 ACCEPTED

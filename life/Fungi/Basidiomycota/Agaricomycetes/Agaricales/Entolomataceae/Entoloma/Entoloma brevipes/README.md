@@ -1,5 +1,4 @@
-Entoloma brevipes Murrill SPECIES
-=======
+# Entoloma brevipes Murrill SPECIES
 
 #### Status
 ACCEPTED

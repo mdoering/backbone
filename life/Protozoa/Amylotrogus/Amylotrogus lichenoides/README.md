@@ -1,5 +1,4 @@
-Amylotrogus lichenoides Roze SPECIES
-=======
+# Amylotrogus lichenoides Roze SPECIES
 
 #### Status
 ACCEPTED

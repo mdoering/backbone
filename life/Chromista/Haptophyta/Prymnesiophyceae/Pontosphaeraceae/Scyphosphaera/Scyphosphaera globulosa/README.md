@@ -1,5 +1,4 @@
-Scyphosphaera globulosa Kamptner, 1955 SPECIES
-=======
+# Scyphosphaera globulosa Kamptner, 1955 SPECIES
 
 #### Status
 ACCEPTED

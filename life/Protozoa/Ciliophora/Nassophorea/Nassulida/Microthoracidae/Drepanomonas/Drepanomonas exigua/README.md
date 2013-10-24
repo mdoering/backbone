@@ -1,5 +1,4 @@
-Drepanomonas exigua subsp. bidentata Foissner, 1999 SUBSPECIES
-=======
+# Drepanomonas exigua Penard SPECIES
 
 #### Status
 ACCEPTED

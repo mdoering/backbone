@@ -1,14 +1,13 @@
-Homostegia graminis Höhn., 1907 SPECIES
-=======
+# Telimena graminis (Höhn.) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 116: 131 (1907)
+Annls mycol. 13(5/6): 599 (1915)
 
 #### Original name
 Homostegia graminis Höhn., 1907

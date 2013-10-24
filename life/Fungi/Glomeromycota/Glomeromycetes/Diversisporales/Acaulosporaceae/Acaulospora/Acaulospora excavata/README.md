@@ -1,5 +1,4 @@
-Acaulospora excavata Ingleby & C. Walker, 1994 SPECIES
-=======
+# Acaulospora excavata Ingleby & C. Walker, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea saxosa R.A. Anderson SPECIES
-=======
+# Lecidea saxosa R.A. Anderson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeocollybia longistipitata Halling & E. Horak SPECIES
-=======
+# Phaeocollybia longistipitata Halling & E. Horak SPECIES
 
 #### Status
 ACCEPTED

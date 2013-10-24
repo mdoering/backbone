@@ -1,5 +1,4 @@
-Neofuscelia taurica (Mereschk.) S.Y. Kondr. SPECIES
-=======
+# Neofuscelia taurica (Mereschk.) S.Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea subleprosa Motyka SPECIES
-=======
+# Usnea subleprosa Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea neocaledonica f. neocaledonica FORM
-=======
+# Usnea neocaledonica (Harm.) Motyka SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea neocaledonica f. neocaledonica
+null
 
 ### Remarks
 null

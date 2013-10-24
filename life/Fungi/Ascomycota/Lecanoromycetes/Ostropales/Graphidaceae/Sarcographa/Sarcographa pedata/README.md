@@ -1,5 +1,4 @@
-Sarcographa pedata (Fr.) Müll. Arg. SPECIES
-=======
+# Sarcographa pedata (Fr.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

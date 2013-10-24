@@ -1,5 +1,4 @@
-Leptonia rostrata Largent SPECIES
-=======
+# Leptonia rostrata Largent SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena crocea Maas Geest. SPECIES
-=======
+# Mycena crocea Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

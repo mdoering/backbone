@@ -1,5 +1,4 @@
-Phoma typhae Pass. SPECIES
-=======
+# Phoma typhae Pass. SPECIES
 
 #### Status
 ACCEPTED

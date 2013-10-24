@@ -1,5 +1,4 @@
-Puccinia tagananensis Magnus SPECIES
-=======
+# Puccinia tagananensis Magnus SPECIES
 
 #### Status
 ACCEPTED

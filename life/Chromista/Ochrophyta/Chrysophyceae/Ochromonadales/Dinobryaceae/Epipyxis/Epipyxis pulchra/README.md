@@ -1,5 +1,4 @@
-Epipyxis pulchra SPECIES
-=======
+# Epipyxis pulchra SPECIES
 
 #### Status
 ACCEPTED

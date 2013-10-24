@@ -1,5 +1,4 @@
-Velutaria Fuckel GENUS
-=======
+# Velutaria Fuckel GENUS
 
 #### Status
 ACCEPTED

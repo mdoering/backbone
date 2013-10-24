@@ -1,5 +1,4 @@
-Inocybe subtomentosa Peck SPECIES
-=======
+# Inocybe subtomentosa Peck SPECIES
 
 #### Status
 ACCEPTED

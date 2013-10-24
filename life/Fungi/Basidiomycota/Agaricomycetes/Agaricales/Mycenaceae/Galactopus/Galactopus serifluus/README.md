@@ -1,5 +1,4 @@
-Galactopus serifluus Murrill SPECIES
-=======
+# Galactopus serifluus Murrill SPECIES
 
 #### Status
 ACCEPTED

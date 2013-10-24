@@ -1,5 +1,4 @@
-Tricholoma subrufescens Ellis & Everh. SPECIES
-=======
+# Tricholoma subrufescens Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta pleopeltidis V.G. Rao SPECIES
-=======
+# Phyllosticta pleopeltidis V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

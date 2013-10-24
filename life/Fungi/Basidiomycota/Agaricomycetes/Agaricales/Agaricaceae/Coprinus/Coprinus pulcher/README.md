@@ -1,5 +1,4 @@
-Coprinus pulcher (Pers.) Gray SPECIES
-=======
+# Coprinus pulcher (Pers.) Gray SPECIES
 
 #### Status
 ACCEPTED

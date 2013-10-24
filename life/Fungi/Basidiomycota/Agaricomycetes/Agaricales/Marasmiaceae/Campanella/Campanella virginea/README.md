@@ -1,5 +1,4 @@
-Campanella virginea Rick SPECIES
-=======
+# Campanella virginea Rick SPECIES
 
 #### Status
 ACCEPTED

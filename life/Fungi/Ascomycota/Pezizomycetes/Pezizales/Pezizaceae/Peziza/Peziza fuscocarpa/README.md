@@ -1,5 +1,4 @@
-Peziza fuscocarpa Ellis & Holw. SPECIES
-=======
+# Peziza fuscocarpa Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

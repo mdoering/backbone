@@ -1,5 +1,4 @@
-Phlyctochytrium urceolare Sparrow SPECIES
-=======
+# Phlyctochytrium urceolare Sparrow SPECIES
 
 #### Status
 ACCEPTED

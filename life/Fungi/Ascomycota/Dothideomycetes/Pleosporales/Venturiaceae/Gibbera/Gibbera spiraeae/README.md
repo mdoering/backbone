@@ -1,5 +1,4 @@
-Gibbera spiraeae (Murashk.) Arx SPECIES
-=======
+# Gibbera spiraeae (Murashk.) Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrea nigrovirens P. Chaverri & Samuels SPECIES
-=======
+# Hypocrea nigrovirens P. Chaverri & Samuels SPECIES
 
 #### Status
 ACCEPTED

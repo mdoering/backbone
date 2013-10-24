@@ -1,5 +1,4 @@
-Ascochyta colorata Peck SPECIES
-=======
+# Ascochyta colorata Peck SPECIES
 
 #### Status
 ACCEPTED

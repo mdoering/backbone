@@ -1,5 +1,4 @@
-Cercidospora nebraskae (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Cercidospora nebraskae (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

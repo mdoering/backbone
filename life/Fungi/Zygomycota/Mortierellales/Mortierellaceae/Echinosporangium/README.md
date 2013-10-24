@@ -1,5 +1,4 @@
-Echinosporangium Malloch, 1967 GENUS
-=======
+# Echinosporangium Malloch, 1967 GENUS
 
 #### Status
 ACCEPTED

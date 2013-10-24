@@ -1,14 +1,13 @@
-Sistotrema coroniferum var. sernanderi (Litsch.) Krieglst., 1999 VARIETY
-=======
+# Sistotrema sernanderi (Litsch.) Donk, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beitr. Kenntn. Pilze Mitteleur. 12: 45 (1999)
+Fungus, Wageningen 26: 4 (1956)
 
 #### Original name
 Gloeocystidium sernanderi Litsch., 1931

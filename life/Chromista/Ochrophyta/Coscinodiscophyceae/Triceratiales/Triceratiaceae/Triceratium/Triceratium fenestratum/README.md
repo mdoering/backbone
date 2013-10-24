@@ -1,5 +1,4 @@
-Triceratium fenestratum Witt SPECIES
-=======
+# Triceratium fenestratum Witt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora tabernaemontanicola (J.M. Yen) J.M. Yen SPECIES
-=======
+# Pseudocercospora tabernaemontanicola (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zygodesmus hydnoideus Berk. & M.A. Curtis SPECIES
-=======
+# Zygodesmus hydnoideus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

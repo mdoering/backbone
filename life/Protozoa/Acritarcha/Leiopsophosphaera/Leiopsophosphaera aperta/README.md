@@ -1,5 +1,4 @@
-Leiopsophosphaera aperta Shepeleva, 1963 SPECIES
-=======
+# Leiopsophosphaera aperta Shepeleva, 1963 SPECIES
 
 #### Status
 ACCEPTED

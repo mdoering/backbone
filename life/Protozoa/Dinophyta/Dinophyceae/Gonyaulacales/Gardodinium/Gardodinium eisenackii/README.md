@@ -1,5 +1,4 @@
-Gardodinium eisenackii Alberti, 1961 SPECIES
-=======
+# Gardodinium eisenackii Alberti, 1961 SPECIES
 
 #### Status
 ACCEPTED

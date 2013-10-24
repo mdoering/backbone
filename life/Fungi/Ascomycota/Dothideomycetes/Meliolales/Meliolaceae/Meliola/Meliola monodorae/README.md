@@ -1,5 +1,4 @@
-Meliola monodorae Hansf. SPECIES
-=======
+# Meliola monodorae Hansf. SPECIES
 
 #### Status
 ACCEPTED

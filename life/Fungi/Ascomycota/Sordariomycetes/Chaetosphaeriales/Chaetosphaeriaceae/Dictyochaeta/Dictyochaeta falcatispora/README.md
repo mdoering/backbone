@@ -1,5 +1,4 @@
-Dictyochaeta falcatispora (M.S. Patil, U.S. Yadav & S.D. Patil) Whitton, McKenzie & K.D. Hyde SPECIES
-=======
+# Dictyochaeta falcatispora (M.S. Patil, U.S. Yadav & S.D. Patil) Whitton, McKenzie & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca rinodinae-albae Poelt & Nimis SPECIES
-=======
+# Caloplaca rinodinae-albae Poelt & Nimis SPECIES
 
 #### Status
 ACCEPTED

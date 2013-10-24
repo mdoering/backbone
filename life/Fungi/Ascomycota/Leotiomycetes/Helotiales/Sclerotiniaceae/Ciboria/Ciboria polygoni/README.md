@@ -1,5 +1,4 @@
-Ciboria polygoni (Rehm) N.F. Buchw. SPECIES
-=======
+# Ciboria polygoni (Rehm) N.F. Buchw. SPECIES
 
 #### Status
 ACCEPTED

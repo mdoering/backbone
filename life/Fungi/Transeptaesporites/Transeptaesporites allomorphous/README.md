@@ -1,5 +1,4 @@
-Transeptaesporites allomorphous (Sheffy & Dilcher) V.S. Ediger SPECIES
-=======
+# Transeptaesporites allomorphous (Sheffy & Dilcher) V.S. Ediger SPECIES
 
 #### Status
 ACCEPTED

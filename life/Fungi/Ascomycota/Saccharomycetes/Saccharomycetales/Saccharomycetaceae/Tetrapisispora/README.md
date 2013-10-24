@@ -1,5 +1,4 @@
-Tetrapisispora Ued.-Nishim. & Mikata GENUS
-=======
+# Tetrapisispora Ued.-Nishim. & Mikata GENUS
 
 #### Status
 ACCEPTED

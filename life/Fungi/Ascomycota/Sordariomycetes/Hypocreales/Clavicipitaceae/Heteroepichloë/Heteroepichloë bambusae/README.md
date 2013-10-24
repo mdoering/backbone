@@ -1,14 +1,13 @@
-Epichloë bambusae Penz. & Sacc., 1904 SPECIES
-=======
+# Heteroepichloë bambusae (Pat.) E. Tanaka, C. Tanaka, Gafur & Tsuda, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycoscience 43(2): 92 (2002)
 
 #### Original name
 Epichloë bambusae Penz. & Sacc., 1904

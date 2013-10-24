@@ -1,17 +1,16 @@
-Penicillium nalgiovensis Laxa SPECIES
-=======
+# Penicillium nalgiovense Laxa, 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Zentbl. Bakt. ParasitKde, Abt. II 86: 162 (1932)
 
 #### Original name
-Penicillium nalgiovensis Laxa
+Penicillium nalgiovense Laxa, 1932
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Epiphegia alni G.H. Otth, 1870 SPECIES
-=======
+# Massarina alni (G.H. Otth) Sacc., 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mitt. naturf. Ges. Bern, 1870 104 (1870)
+Syll. fung. (Abellini) 11: 332 (1895)
 
 #### Original name
 Epiphegia alni G.H. Otth, 1870

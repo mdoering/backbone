@@ -1,5 +1,4 @@
-Marasmius aculeatus Pat. SPECIES
-=======
+# Marasmius aculeatus Pat. SPECIES
 
 #### Status
 ACCEPTED

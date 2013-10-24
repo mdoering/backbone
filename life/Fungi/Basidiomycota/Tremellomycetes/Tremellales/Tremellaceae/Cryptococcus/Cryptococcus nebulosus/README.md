@@ -1,5 +1,4 @@
-Cryptococcus nebulosus Kütz. SPECIES
-=======
+# Cryptococcus nebulosus Kütz. SPECIES
 
 #### Status
 ACCEPTED

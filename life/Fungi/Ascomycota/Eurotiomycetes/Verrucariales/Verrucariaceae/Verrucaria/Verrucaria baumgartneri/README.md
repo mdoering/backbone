@@ -1,5 +1,4 @@
-Verrucaria baumgartneri Zahlbr. SPECIES
-=======
+# Verrucaria baumgartneri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

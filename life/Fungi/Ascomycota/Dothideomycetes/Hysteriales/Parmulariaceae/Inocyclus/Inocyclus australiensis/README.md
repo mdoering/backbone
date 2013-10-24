@@ -1,17 +1,16 @@
-Fraserula australiensis var. australiensis VARIETY
-=======
+# Inocyclus australiensis (Syd.) Arx, 1962 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 36: (1938)
+in Müller & Arx, Beitr. Kryptfl. Schweiz 11(no. 2): 37 (1962)
 
 #### Original name
-Fraserula australiensis var. australiensis
+Fraserula australiensis Syd., 1938
 
 ### Remarks
 null

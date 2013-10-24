@@ -1,5 +1,4 @@
-Ramalia byrsonimatis U. Braun & Mouch. SPECIES
-=======
+# Ramalia byrsonimatis U. Braun & Mouch. SPECIES
 
 #### Status
 ACCEPTED

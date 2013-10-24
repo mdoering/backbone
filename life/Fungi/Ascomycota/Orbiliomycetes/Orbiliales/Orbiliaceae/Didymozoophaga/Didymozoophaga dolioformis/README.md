@@ -1,5 +1,4 @@
-Didymozoophaga dolioformis Soprunov & Galiulina SPECIES
-=======
+# Didymozoophaga dolioformis Soprunov & Galiulina SPECIES
 
 #### Status
 ACCEPTED

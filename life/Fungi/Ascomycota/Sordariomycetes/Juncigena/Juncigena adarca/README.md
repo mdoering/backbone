@@ -1,5 +1,4 @@
-Juncigena adarca Kohlm., Volkm.-Kohlm. & O.E. Erikss., 1997 SPECIES
-=======
+# Juncigena adarca Kohlm., Volkm.-Kohlm. & O.E. Erikss., 1997 SPECIES
 
 #### Status
 ACCEPTED

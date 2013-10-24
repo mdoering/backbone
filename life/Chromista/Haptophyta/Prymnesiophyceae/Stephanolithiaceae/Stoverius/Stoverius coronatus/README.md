@@ -1,5 +1,4 @@
-Stoverius coronatus (Bukry, 1969) Perch-Nielsen, 1984 SPECIES
-=======
+# Stoverius coronatus (Bukry, 1969) Perch-Nielsen, 1984 SPECIES
 
 #### Status
 ACCEPTED

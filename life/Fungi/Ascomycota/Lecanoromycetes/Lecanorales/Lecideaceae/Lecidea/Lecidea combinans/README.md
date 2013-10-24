@@ -1,5 +1,4 @@
-Lecidea combinans Nyl. SPECIES
-=======
+# Lecidea combinans Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius witteanus Singer SPECIES
-=======
+# Marasmius witteanus Singer SPECIES
 
 #### Status
 ACCEPTED

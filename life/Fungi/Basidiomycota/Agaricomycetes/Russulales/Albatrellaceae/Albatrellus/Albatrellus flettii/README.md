@@ -1,17 +1,16 @@
-Albatrellopsis flettii (Morse ex Pouzar) Audet, 2010 SPECIES
-=======
+# Albatrellus flettii Morse ex Pouzar, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ceská Mykol. 26: 198 (1972)
 
 #### Original name
-null
+Albatrellus flettii Morse ex Pouzar, 1972
 
 ### Remarks
 null

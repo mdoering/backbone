@@ -1,5 +1,4 @@
-Triceratium heterostictum A. Schmidt, 1890 SPECIES
-=======
+# Triceratium heterostictum A. Schmidt, 1890 SPECIES
 
 #### Status
 ACCEPTED

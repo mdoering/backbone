@@ -1,5 +1,4 @@
-Phyllosticta fumariae Khokhr. SPECIES
-=======
+# Phyllosticta fumariae Khokhr. SPECIES
 
 #### Status
 ACCEPTED

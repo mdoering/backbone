@@ -1,17 +1,16 @@
-Ascochyta dipsaci f. diplodina H. Ruppr. FORM
-=======
+# Ascochyta dipsaci Bubák, 1909 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 22(1-6): 424 (1958)
+in Handel-Mazzetti, Annln naturh. Mus. Wien 23: 104 (1909)
 
 #### Original name
-Ascochyta dipsaci f. diplodina H. Ruppr.
+Ascochyta dipsaci Bubák, 1909
 
 ### Remarks
 null

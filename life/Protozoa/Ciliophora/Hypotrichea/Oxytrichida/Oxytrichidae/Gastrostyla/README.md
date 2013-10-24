@@ -1,5 +1,4 @@
-Gastrostyla (Kahl, 1932) Foissner, 1989 GENUS
-=======
+# Gastrostyla (Kahl, 1932) Foissner, 1989 GENUS
 
 #### Status
 ACCEPTED

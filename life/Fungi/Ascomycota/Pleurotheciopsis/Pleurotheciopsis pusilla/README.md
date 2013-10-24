@@ -1,5 +1,4 @@
-Pleurotheciopsis pusilla B. Sutton, 1973 SPECIES
-=======
+# Pleurotheciopsis pusilla B. Sutton, 1973 SPECIES
 
 #### Status
 ACCEPTED

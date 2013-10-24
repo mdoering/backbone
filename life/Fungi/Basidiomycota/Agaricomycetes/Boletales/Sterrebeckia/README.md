@@ -1,5 +1,4 @@
-Sterrebeckia Link, 1816 GENUS
-=======
+# Sterrebeckia Link, 1816 GENUS
 
 #### Status
 ACCEPTED

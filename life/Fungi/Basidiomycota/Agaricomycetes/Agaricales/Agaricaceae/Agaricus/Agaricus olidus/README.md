@@ -1,5 +1,4 @@
-Agaricus olidus Cooke & Massee SPECIES
-=======
+# Agaricus olidus Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

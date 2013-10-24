@@ -1,5 +1,4 @@
-Lecanora hypotethica Nyl. SPECIES
-=======
+# Lecanora hypotethica Nyl. SPECIES
 
 #### Status
 ACCEPTED

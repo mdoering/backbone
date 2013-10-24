@@ -1,5 +1,4 @@
-Blepharisma caudatus Dumas, 1937 SPECIES
-=======
+# Blepharisma caudatus Dumas, 1937 SPECIES
 
 #### Status
 ACCEPTED

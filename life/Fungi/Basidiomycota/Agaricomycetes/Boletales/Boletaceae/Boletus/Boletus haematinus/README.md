@@ -1,5 +1,4 @@
-Boletus haematinus Halling SPECIES
-=======
+# Boletus haematinus Halling SPECIES
 
 #### Status
 ACCEPTED

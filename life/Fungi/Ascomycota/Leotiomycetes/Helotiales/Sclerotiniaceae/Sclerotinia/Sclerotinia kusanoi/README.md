@@ -1,5 +1,4 @@
-Sclerotinia kusanoi Henn. ex Takah. SPECIES
-=======
+# Sclerotinia kusanoi Henn. ex Takah. SPECIES
 
 #### Status
 ACCEPTED

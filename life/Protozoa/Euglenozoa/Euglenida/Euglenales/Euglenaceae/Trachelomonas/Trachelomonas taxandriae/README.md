@@ -1,5 +1,4 @@
-Trachelomonas taxandriae Conrad SPECIES
-=======
+# Trachelomonas taxandriae Conrad SPECIES
 
 #### Status
 ACCEPTED

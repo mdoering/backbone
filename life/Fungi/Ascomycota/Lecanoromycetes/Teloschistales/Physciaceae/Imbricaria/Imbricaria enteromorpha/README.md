@@ -1,5 +1,4 @@
-Imbricaria enteromorpha (Ach.) Jatta SPECIES
-=======
+# Imbricaria enteromorpha (Ach.) Jatta SPECIES
 
 #### Status
 ACCEPTED

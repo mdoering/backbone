@@ -1,5 +1,4 @@
-Telamonia attenuata Velen. SPECIES
-=======
+# Telamonia attenuata Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria submisserima Nyl. SPECIES
-=======
+# Verrucaria submisserima Nyl. SPECIES
 
 #### Status
 ACCEPTED

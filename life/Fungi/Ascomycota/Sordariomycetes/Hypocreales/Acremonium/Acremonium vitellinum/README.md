@@ -1,5 +1,4 @@
-Acremonium vitellinum W. Gams, 1971 SPECIES
-=======
+# Acremonium vitellinum W. Gams, 1971 SPECIES
 
 #### Status
 ACCEPTED

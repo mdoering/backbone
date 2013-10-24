@@ -1,5 +1,4 @@
-Trichomerium atronitidum (V.A.M. Mill. & Bonar) Cif. & Bat. SPECIES
-=======
+# Trichomerium atronitidum (V.A.M. Mill. & Bonar) Cif. & Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora nigricans G.F. Atk. SPECIES
-=======
+# Pleospora nigricans G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

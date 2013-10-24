@@ -1,5 +1,4 @@
-Fusicoccum Corda, 1829 GENUS
-=======
+# Fusicoccum Corda, 1829 GENUS
 
 #### Status
 ACCEPTED

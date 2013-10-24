@@ -1,5 +1,4 @@
-Cortinarius coleopus var. coleopus VARIETY
-=======
+# Cortinarius coleopus M.M. Moser & E. Horak SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 52: 191 (1975)
 
 #### Original name
-Cortinarius coleopus var. coleopus
+Cortinarius coleopus M.M. Moser & E. Horak
 
 ### Remarks
 null

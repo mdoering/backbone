@@ -1,5 +1,4 @@
-Blepharisma ovalis Dumas, 1937 SPECIES
-=======
+# Blepharisma ovalis Dumas, 1937 SPECIES
 
 #### Status
 ACCEPTED

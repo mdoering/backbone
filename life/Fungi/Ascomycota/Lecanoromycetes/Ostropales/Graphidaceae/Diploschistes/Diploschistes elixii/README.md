@@ -1,5 +1,4 @@
-Diploschistes elixii Lumbsch & Mangold SPECIES
-=======
+# Diploschistes elixii Lumbsch & Mangold SPECIES
 
 #### Status
 ACCEPTED

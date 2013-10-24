@@ -1,5 +1,4 @@
-Macrochytrium Minden GENUS
-=======
+# Macrochytrium Minden GENUS
 
 #### Status
 ACCEPTED

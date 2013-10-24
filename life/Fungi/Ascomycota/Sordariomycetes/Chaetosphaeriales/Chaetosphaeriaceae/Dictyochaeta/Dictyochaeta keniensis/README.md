@@ -1,5 +1,4 @@
-Dictyochaeta keniensis P.M. Kirk SPECIES
-=======
+# Dictyochaeta keniensis P.M. Kirk SPECIES
 
 #### Status
 ACCEPTED

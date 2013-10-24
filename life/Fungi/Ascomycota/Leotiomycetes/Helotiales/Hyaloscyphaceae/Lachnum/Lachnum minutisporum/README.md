@@ -1,5 +1,4 @@
-Lachnum minutisporum Velen. SPECIES
-=======
+# Lachnum minutisporum Velen. SPECIES
 
 #### Status
 ACCEPTED

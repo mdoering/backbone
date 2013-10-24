@@ -1,14 +1,13 @@
-Hendersonia desmazieri Mont. SPECIES
-=======
+# Macrodiplodiopsis desmazieri (Mont.) Petr., 1922 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 20(5/6): 343 (1922)
 
 #### Original name
 Hendersonia desmazieri Mont.

@@ -1,5 +1,4 @@
-Pucciniola montana (Arthur) Arthur SPECIES
-=======
+# Pucciniola montana (Arthur) Arthur SPECIES
 
 #### Status
 ACCEPTED

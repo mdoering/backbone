@@ -1,5 +1,4 @@
-Peziza digitalis Schwein. SPECIES
-=======
+# Peziza digitalis Schwein. SPECIES
 
 #### Status
 ACCEPTED

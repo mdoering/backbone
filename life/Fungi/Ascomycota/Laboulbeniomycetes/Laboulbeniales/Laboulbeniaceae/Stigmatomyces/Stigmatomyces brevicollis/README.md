@@ -1,5 +1,4 @@
-Stigmatomyces brevicollis Thaxt. SPECIES
-=======
+# Stigmatomyces brevicollis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

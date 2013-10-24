@@ -1,5 +1,4 @@
-Cortinarius roseocalceolatus E. Horak & M.M. Moser SPECIES
-=======
+# Cortinarius roseocalceolatus E. Horak & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

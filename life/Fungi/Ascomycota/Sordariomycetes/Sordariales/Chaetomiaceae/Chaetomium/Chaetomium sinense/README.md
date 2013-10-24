@@ -1,5 +1,4 @@
-Chaetomium sinense K.T. Chen SPECIES
-=======
+# Chaetomium sinense K.T. Chen SPECIES
 
 #### Status
 ACCEPTED

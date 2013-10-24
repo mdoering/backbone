@@ -1,5 +1,4 @@
-Alveolina cucumnoides Chapman SPECIES
-=======
+# Alveolina cucumnoides Chapman SPECIES
 
 #### Status
 ACCEPTED

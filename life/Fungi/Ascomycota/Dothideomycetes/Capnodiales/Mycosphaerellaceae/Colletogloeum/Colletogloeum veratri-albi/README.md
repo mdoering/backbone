@@ -1,5 +1,4 @@
-Colletogloeum veratri-albi U. Braun & Scheuer SPECIES
-=======
+# Colletogloeum veratri-albi U. Braun & Scheuer SPECIES
 
 #### Status
 ACCEPTED

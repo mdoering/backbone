@@ -1,5 +1,4 @@
-Actinomyces turicensis Wüst et al., 1995 SPECIES
-=======
+# Actinomyces turicensis Wüst et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

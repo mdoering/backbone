@@ -1,5 +1,4 @@
-Chiodecton macquariense C.W. Dodge SPECIES
-=======
+# Chiodecton macquariense C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

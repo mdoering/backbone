@@ -1,14 +1,13 @@
-Lepraria virescens Sm. SPECIES
-=======
+# Caloplaca virescens (Sm.) Coppins SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Engl. Bot. 30: tab. 2149 (1810)
+in Hawksworth, James & Coppins, Lichenologist 12(1): 106 (1980)
 
 #### Original name
 Lepraria virescens Sm.

@@ -1,5 +1,4 @@
-Melanoleuca alachuana Murrill SPECIES
-=======
+# Melanoleuca alachuana Murrill SPECIES
 
 #### Status
 ACCEPTED

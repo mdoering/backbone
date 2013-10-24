@@ -1,5 +1,4 @@
-Mycena conicola G. Stev., 1964 SPECIES
-=======
+# Mycena conicola G. Stev., 1964 SPECIES
 
 #### Status
 ACCEPTED

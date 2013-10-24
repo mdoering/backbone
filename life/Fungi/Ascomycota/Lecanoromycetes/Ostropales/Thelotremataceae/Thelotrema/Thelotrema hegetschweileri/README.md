@@ -1,5 +1,4 @@
-Thelotrema hegetschweileri Nägeli SPECIES
-=======
+# Thelotrema hegetschweileri Nägeli SPECIES
 
 #### Status
 ACCEPTED

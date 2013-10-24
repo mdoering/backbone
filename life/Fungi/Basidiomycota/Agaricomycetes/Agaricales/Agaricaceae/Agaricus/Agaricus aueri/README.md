@@ -1,5 +1,4 @@
-Agaricus aueri Nees SPECIES
-=======
+# Agaricus aueri Nees SPECIES
 
 #### Status
 ACCEPTED

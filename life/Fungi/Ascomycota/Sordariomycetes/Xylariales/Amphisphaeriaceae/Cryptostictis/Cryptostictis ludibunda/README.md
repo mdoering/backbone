@@ -1,5 +1,4 @@
-Cryptostictis ludibunda Vestergr. SPECIES
-=======
+# Cryptostictis ludibunda Vestergr. SPECIES
 
 #### Status
 ACCEPTED

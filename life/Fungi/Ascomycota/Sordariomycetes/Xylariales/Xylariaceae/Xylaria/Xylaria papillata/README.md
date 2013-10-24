@@ -1,5 +1,4 @@
-Xylaria papillata Syd. SPECIES
-=======
+# Xylaria papillata Syd. SPECIES
 
 #### Status
 ACCEPTED

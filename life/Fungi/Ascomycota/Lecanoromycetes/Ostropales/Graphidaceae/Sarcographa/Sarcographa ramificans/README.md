@@ -1,14 +1,13 @@
-Graphis ramificans Kremp. SPECIES
-=======
+# Sarcographa ramificans (Kremp.) Staiger SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 59: 575 (1876)
+Biblthca Lichenol. 85: 412 (2002)
 
 #### Original name
 Graphis ramificans Kremp.

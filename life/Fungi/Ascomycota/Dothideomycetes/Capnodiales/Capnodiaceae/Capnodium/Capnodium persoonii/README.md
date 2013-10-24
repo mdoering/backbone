@@ -1,5 +1,4 @@
-Capnodium persoonii Berk. & Desm. SPECIES
-=======
+# Capnodium persoonii Berk. & Desm. SPECIES
 
 #### Status
 ACCEPTED

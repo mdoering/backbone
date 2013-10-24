@@ -1,5 +1,4 @@
-Peziza coryli DC. SPECIES
-=======
+# Peziza coryli DC. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium sublunatum var. sublunatum VARIETY
-=======
+# Fusarium sublunatum Reinking SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Zentbl. Bakt. ParasitKde, Abt. II 89: 510 (1934)
 
 #### Original name
-Fusarium sublunatum var. sublunatum
+Fusarium sublunatum Reinking
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Bilimbia polillensis var. polillensis VARIETY
-=======
+# Badimia polillensis (Vain.) Vezda SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Acad. Sci. fenn. , Ser. A 15: 82 (1921)
+Folia geobot. phytotax. 21(2): 215 (1986)
 
 #### Original name
-Bilimbia polillensis var. polillensis
+Bilimbia polillensis Vain.
 
 ### Remarks
 null

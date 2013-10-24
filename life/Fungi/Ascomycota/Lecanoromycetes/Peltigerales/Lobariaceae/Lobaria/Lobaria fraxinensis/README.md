@@ -1,5 +1,4 @@
-Lobaria fraxinensis (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Lobaria fraxinensis (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

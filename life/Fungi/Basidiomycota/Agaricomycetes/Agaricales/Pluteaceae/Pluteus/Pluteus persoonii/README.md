@@ -1,5 +1,4 @@
-Pluteus persoonii anon. SPECIES
-=======
+# Pluteus persoonii anon. SPECIES
 
 #### Status
 ACCEPTED

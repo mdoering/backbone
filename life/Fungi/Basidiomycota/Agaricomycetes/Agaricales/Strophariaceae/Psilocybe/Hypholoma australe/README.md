@@ -1,5 +1,4 @@
-Hypholoma australe O.K. Mill. SPECIES
-=======
+# Hypholoma australe O.K. Mill. SPECIES
 
 #### Status
 ACCEPTED

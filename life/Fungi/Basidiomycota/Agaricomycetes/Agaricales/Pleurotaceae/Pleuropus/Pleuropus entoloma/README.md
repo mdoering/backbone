@@ -1,5 +1,4 @@
-Pleuropus entoloma Murrill SPECIES
-=======
+# Pleuropus entoloma Murrill SPECIES
 
 #### Status
 ACCEPTED

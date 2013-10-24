@@ -1,5 +1,4 @@
-Cryptococcus saitoi Á. Fonseca, Scorzetti & Fell SPECIES
-=======
+# Cryptococcus saitoi Á. Fonseca, Scorzetti & Fell SPECIES
 
 #### Status
 ACCEPTED

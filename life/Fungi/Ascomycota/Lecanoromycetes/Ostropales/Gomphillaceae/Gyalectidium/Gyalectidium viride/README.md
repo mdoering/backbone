@@ -1,5 +1,4 @@
-Gyalectidium viride Lücking, W.R. Buck & Rivas Plata SPECIES
-=======
+# Gyalectidium viride Lücking, W.R. Buck & Rivas Plata SPECIES
 
 #### Status
 ACCEPTED

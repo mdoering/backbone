@@ -1,5 +1,4 @@
-Puccinia cruciferarum subsp. cruciferarum SUBSPECIES
-=======
+# Puccinia cruciferarum F. Rudolphi SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Linnaea 4: 391 (1829)
 
 #### Original name
-Puccinia cruciferarum subsp. cruciferarum
+Puccinia cruciferarum F. Rudolphi
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Psathyrella ellenae var. ellenae VARIETY
-=======
+# Psathyrella ellenae A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mem. N. Y. bot. Gdn 24: 74 (1972)
 
 #### Original name
-Psathyrella ellenae var. ellenae
+Psathyrella ellenae A.H. Sm.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aecidium trichoclines Henn. SPECIES
-=======
+# Aecidium trichoclines Henn. SPECIES
 
 #### Status
 ACCEPTED

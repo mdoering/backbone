@@ -1,5 +1,4 @@
-Parmotrema austrocetratum Elix & J. Johnst. SPECIES
-=======
+# Parmotrema austrocetratum Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

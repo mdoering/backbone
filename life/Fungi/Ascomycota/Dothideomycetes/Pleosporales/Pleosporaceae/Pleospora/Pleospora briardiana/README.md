@@ -1,5 +1,4 @@
-Pleospora briardiana f. briardiana FORM
-=======
+# Pleospora briardiana Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pleospora briardiana f. briardiana
+Pleospora briardiana Sacc.
 
 ### Remarks
 null

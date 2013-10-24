@@ -1,5 +1,4 @@
-Hebeloma igneum Rick SPECIES
-=======
+# Hebeloma igneum Rick SPECIES
 
 #### Status
 ACCEPTED

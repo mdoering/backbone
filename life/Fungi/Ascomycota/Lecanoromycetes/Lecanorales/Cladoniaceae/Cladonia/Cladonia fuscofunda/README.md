@@ -1,5 +1,4 @@
-Cladonia fuscofunda S. Hammer SPECIES
-=======
+# Cladonia fuscofunda S. Hammer SPECIES
 
 #### Status
 ACCEPTED

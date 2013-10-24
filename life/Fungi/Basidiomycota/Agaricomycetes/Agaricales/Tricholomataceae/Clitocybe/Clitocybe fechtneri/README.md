@@ -1,5 +1,4 @@
-Clitocybe fechtneri Velen. SPECIES
-=======
+# Clitocybe fechtneri Velen. SPECIES
 
 #### Status
 ACCEPTED

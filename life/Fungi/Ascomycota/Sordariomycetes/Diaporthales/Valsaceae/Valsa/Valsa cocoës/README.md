@@ -1,14 +1,13 @@
-Valsa cocoes (Syd. & P. Syd.) J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Valsa cocoës (Syd. & P. Syd.) J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fungal Diversity Res. Ser. (Hong Kong) 3: 293 (2000)
 
 #### Original name
 Peroneutypella cocoës Syd. & P. Syd.

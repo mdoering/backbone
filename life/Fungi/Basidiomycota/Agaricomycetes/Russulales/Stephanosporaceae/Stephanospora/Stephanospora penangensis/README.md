@@ -1,5 +1,4 @@
-Stephanospora penangensis Corner & Hawker, 1953 SPECIES
-=======
+# Stephanospora penangensis Corner & Hawker, 1953 SPECIES
 
 #### Status
 ACCEPTED

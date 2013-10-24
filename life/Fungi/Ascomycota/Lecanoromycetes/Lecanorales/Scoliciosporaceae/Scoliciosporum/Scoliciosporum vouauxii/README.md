@@ -1,5 +1,4 @@
-Scoliciosporum vouauxii (B. de Lesd.) Hafellner SPECIES
-=======
+# Scoliciosporum vouauxii (B. de Lesd.) Hafellner SPECIES
 
 #### Status
 ACCEPTED

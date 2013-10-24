@@ -1,5 +1,4 @@
-Didymium pruinosum Berk. & M.A. Curtis SPECIES
-=======
+# Didymium pruinosum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

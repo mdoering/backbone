@@ -1,5 +1,4 @@
-Didymocoryne Sacc. & Trotter GENUS
-=======
+# Didymocoryne Sacc. & Trotter GENUS
 
 #### Status
 ACCEPTED

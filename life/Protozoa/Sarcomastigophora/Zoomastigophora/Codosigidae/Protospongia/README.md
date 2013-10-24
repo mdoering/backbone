@@ -1,5 +1,4 @@
-Protospongia GENUS
-=======
+# Protospongia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia petropoliensis Zahlbr. SPECIES
-=======
+# Parmelia petropoliensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

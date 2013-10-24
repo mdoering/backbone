@@ -1,5 +1,4 @@
-Solenia pircuniae Speg. SPECIES
-=======
+# Solenia pircuniae Speg. SPECIES
 
 #### Status
 ACCEPTED

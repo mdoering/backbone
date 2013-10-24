@@ -1,14 +1,13 @@
-Ophionectria cerea (Berk. & M.A. Curtis) Ellis & Everh., 1892 SPECIES
-=======
+# Tubeufia cerea (Berk. & M.A. Curtis) Höhn., 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Pyren. (Newfield) 118 (1892)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 128: 562 (1919)
 
 #### Original name
 Sphaeria cerea Berk. & M.A. Curtis, 1876

@@ -1,5 +1,4 @@
-Feltgeniomyces physciae Etayo & Breuss SPECIES
-=======
+# Feltgeniomyces physciae Etayo & Breuss SPECIES
 
 #### Status
 ACCEPTED

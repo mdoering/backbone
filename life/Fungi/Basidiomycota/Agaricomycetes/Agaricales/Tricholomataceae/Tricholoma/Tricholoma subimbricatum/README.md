@@ -1,5 +1,4 @@
-Tricholoma subimbricatum Velen. SPECIES
-=======
+# Tricholoma subimbricatum Velen. SPECIES
 
 #### Status
 ACCEPTED

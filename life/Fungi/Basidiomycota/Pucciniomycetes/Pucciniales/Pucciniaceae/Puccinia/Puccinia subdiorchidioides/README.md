@@ -1,5 +1,4 @@
-Puccinia subdiorchidioides Henn. SPECIES
-=======
+# Puccinia subdiorchidioides Henn. SPECIES
 
 #### Status
 ACCEPTED

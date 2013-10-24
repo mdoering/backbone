@@ -1,5 +1,4 @@
-Saccharothrix algeriensis Zitouni et al., 2004 SPECIES
-=======
+# Saccharothrix algeriensis Zitouni et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

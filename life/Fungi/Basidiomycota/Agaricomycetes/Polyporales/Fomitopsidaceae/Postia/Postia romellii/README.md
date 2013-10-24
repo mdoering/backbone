@@ -1,5 +1,4 @@
-Postia romellii M. Pieri & B. Rivoire SPECIES
-=======
+# Postia romellii M. Pieri & B. Rivoire SPECIES
 
 #### Status
 ACCEPTED

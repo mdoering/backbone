@@ -1,5 +1,4 @@
-Biatorina pleiotera Nyl. SPECIES
-=======
+# Biatorina pleiotera Nyl. SPECIES
 
 #### Status
 ACCEPTED

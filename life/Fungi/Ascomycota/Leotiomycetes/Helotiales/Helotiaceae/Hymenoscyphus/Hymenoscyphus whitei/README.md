@@ -1,5 +1,4 @@
-Hymenoscyphus whitei Hengstm. SPECIES
-=======
+# Hymenoscyphus whitei Hengstm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyrtidula limbata Minks SPECIES
-=======
+# Cyrtidula limbata Minks SPECIES
 
 #### Status
 ACCEPTED

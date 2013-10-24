@@ -1,5 +1,4 @@
-Gerronema collybiomorphum Singer SPECIES
-=======
+# Gerronema collybiomorphum Singer SPECIES
 
 #### Status
 ACCEPTED

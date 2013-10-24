@@ -1,5 +1,4 @@
-Inocybe enthelella Peck SPECIES
-=======
+# Inocybe enthelella Peck SPECIES
 
 #### Status
 ACCEPTED

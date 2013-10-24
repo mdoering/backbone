@@ -1,5 +1,4 @@
-Plagiocarpa septemseptata R.C. Harris SPECIES
-=======
+# Plagiocarpa septemseptata R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

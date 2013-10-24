@@ -1,5 +1,4 @@
-Polyangium fuscum (J. Schröt.) Thaxt. SPECIES
-=======
+# Polyangium fuscum (J. Schröt.) Thaxt. SPECIES
 
 #### Status
 ACCEPTED

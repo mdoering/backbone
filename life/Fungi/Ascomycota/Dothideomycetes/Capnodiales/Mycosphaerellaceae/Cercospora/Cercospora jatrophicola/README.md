@@ -1,5 +1,4 @@
-Cercospora jatrophicola (Speg.) Chupp SPECIES
-=======
+# Cercospora jatrophicola (Speg.) Chupp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nimbomollisia stictoidea (Cooke & Ellis) Nannf. SPECIES
-=======
+# Nimbomollisia stictoidea (Cooke & Ellis) Nannf. SPECIES
 
 #### Status
 ACCEPTED

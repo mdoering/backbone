@@ -1,5 +1,4 @@
-Anthina fulva Fr. SPECIES
-=======
+# Anthina fulva Fr. SPECIES
 
 #### Status
 ACCEPTED

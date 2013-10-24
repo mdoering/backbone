@@ -1,5 +1,4 @@
-Nipterella duplex (Starbäck) Starbäck & Dennis, 1962 SPECIES
-=======
+# Nipterella duplex (Starbäck) Starbäck & Dennis, 1962 SPECIES
 
 #### Status
 ACCEPTED

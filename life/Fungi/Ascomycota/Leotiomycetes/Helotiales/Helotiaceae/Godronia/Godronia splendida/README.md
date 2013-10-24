@@ -1,5 +1,4 @@
-Godronia splendida Speg. SPECIES
-=======
+# Godronia splendida Speg. SPECIES
 
 #### Status
 ACCEPTED

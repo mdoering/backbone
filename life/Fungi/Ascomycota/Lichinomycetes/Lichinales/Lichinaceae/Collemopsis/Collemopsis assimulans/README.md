@@ -1,5 +1,4 @@
-Collemopsis assimulans Nyl. SPECIES
-=======
+# Collemopsis assimulans Nyl. SPECIES
 
 #### Status
 ACCEPTED

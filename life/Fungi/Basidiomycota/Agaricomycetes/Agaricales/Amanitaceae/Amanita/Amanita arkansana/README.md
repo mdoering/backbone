@@ -1,5 +1,4 @@
-Amanita arkansana H.R. Rosen SPECIES
-=======
+# Amanita arkansana H.R. Rosen SPECIES
 
 #### Status
 ACCEPTED

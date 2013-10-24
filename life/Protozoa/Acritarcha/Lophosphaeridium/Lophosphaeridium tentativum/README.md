@@ -1,5 +1,4 @@
-Lophosphaeridium tentativum Volkova, 1968 SPECIES
-=======
+# Lophosphaeridium tentativum Volkova, 1968 SPECIES
 
 #### Status
 ACCEPTED

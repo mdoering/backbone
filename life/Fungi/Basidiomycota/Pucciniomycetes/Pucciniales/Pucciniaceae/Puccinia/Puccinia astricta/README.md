@@ -1,5 +1,4 @@
-Puccinia astricta H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia astricta H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

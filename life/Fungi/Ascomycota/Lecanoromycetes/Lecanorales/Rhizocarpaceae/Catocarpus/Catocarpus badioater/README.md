@@ -1,5 +1,4 @@
-Catocarpus badioater var. badioater VARIETY
-=======
+# Catocarpus badioater SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Catocarpus badioater var. badioater
+null
 
 ### Remarks
 null

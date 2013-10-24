@@ -1,5 +1,4 @@
-Septonema acicola U. Braun & K. Schub. SPECIES
-=======
+# Septonema acicola U. Braun & K. Schub. SPECIES
 
 #### Status
 ACCEPTED

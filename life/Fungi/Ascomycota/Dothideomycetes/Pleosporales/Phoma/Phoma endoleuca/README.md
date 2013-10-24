@@ -1,5 +1,4 @@
-Phoma endoleuca subsp. endoleuca SUBSPECIES
-=======
+# Phoma endoleuca Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma endoleuca subsp. endoleuca
+Phoma endoleuca Sacc.
 
 ### Remarks
 null

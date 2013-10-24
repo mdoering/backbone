@@ -1,5 +1,4 @@
-Phakopsora argentinensis (Speg.) Arthur SPECIES
-=======
+# Phakopsora argentinensis (Speg.) Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eriosphaeria vulgaris Speg. SPECIES
-=======
+# Eriosphaeria vulgaris Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria cinnabarina Cooke & Massee SPECIES
-=======
+# Xylaria cinnabarina Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

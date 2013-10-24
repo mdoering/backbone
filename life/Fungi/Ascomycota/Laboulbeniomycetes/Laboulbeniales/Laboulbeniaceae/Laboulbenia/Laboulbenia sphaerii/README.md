@@ -1,5 +1,4 @@
-Laboulbenia sphaerii Santam. SPECIES
-=======
+# Laboulbenia sphaerii Santam. SPECIES
 
 #### Status
 ACCEPTED

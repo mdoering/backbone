@@ -1,17 +1,16 @@
-Capnodium fruticolum Pat. SPECIES
-=======
+# Capnodium fruticola Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Bot. Morot 3: 258 (1889)
 
 #### Original name
-Capnodium fruticolum Pat.
+Capnodium fruticola Pat.
 
 ### Remarks
 null

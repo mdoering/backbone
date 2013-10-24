@@ -1,5 +1,4 @@
-Endocalyx collantesis J. Mena & Mercado SPECIES
-=======
+# Endocalyx collantesis J. Mena & Mercado SPECIES
 
 #### Status
 ACCEPTED

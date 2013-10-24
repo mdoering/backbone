@@ -1,5 +1,4 @@
-Schizophyllum brasiliense W.B. Cooke SPECIES
-=======
+# Schizophyllum brasiliense W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

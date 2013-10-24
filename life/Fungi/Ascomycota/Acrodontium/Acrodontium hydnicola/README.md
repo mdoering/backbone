@@ -1,14 +1,13 @@
-Tritirachium hydnicola (Peck) S. Hughes, 1953 SPECIES
-=======
+# Acrodontium hydnicola (Peck) de Hoog, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 31(5): 604 (1953)
+Stud. Mycol. 1: 31 (1972)
 
 #### Original name
 Virgaria hydnicola Peck, 1889

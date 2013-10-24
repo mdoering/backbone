@@ -1,5 +1,4 @@
-Uredo triseti Erikss. SPECIES
-=======
+# Uredo triseti Erikss. SPECIES
 
 #### Status
 ACCEPTED

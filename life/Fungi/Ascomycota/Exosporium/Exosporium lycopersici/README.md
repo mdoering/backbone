@@ -1,5 +1,4 @@
-Exosporium lycopersici K.R. Khan & Sullia SPECIES
-=======
+# Exosporium lycopersici K.R. Khan & Sullia SPECIES
 
 #### Status
 ACCEPTED

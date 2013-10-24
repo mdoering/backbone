@@ -1,5 +1,4 @@
-Phlyctidium tubulatum S.N. Dasgupta SPECIES
-=======
+# Phlyctidium tubulatum S.N. Dasgupta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilbospora atra P. Karst. SPECIES
-=======
+# Stilbospora atra P. Karst. SPECIES
 
 #### Status
 ACCEPTED

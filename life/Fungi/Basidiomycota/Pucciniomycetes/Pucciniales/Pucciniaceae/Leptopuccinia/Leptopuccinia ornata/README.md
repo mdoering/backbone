@@ -1,5 +1,4 @@
-Leptopuccinia ornata (Arthur & Holw.) Syd. SPECIES
-=======
+# Leptopuccinia ornata (Arthur & Holw.) Syd. SPECIES
 
 #### Status
 ACCEPTED

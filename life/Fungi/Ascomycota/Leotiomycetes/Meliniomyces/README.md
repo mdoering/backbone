@@ -1,5 +1,4 @@
-Meliniomyces Hambl. & Sigler GENUS
-=======
+# Meliniomyces Hambl. & Sigler GENUS
 
 #### Status
 ACCEPTED

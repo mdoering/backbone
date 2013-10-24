@@ -1,5 +1,4 @@
-Trichurus spiralis Hasselbr., 1900 SPECIES
-=======
+# Trichurus spiralis Hasselbr., 1900 SPECIES
 
 #### Status
 ACCEPTED

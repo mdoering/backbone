@@ -1,5 +1,4 @@
-Puccinia gerardii Peck SPECIES
-=======
+# Puccinia gerardii Peck SPECIES
 
 #### Status
 ACCEPTED

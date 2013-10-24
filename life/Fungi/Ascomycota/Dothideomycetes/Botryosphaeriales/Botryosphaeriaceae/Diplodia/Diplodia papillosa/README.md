@@ -1,5 +1,4 @@
-Diplodia papillosa Ellis & Everh. SPECIES
-=======
+# Diplodia papillosa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

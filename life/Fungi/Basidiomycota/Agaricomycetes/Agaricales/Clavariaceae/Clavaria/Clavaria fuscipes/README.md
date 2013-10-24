@@ -1,5 +1,4 @@
-Clavaria fuscipes Pers. SPECIES
-=======
+# Clavaria fuscipes Pers. SPECIES
 
 #### Status
 ACCEPTED

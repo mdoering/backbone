@@ -1,5 +1,4 @@
-Pterula simplex Sacc. & Paol., 1888 SPECIES
-=======
+# Pterula simplex Sacc. & Paol., 1888 SPECIES
 
 #### Status
 ACCEPTED

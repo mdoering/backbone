@@ -1,5 +1,4 @@
-Truncatoscaphus A.P. Rood, W.W. Hay & T. Barnard, 1971 GENUS
-=======
+# Truncatoscaphus A.P. Rood, W.W. Hay & T. Barnard, 1971 GENUS
 
 #### Status
 ACCEPTED

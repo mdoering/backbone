@@ -1,5 +1,4 @@
-Philocopra griffithsii Sacc. & D. Sacc. SPECIES
-=======
+# Philocopra griffithsii Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

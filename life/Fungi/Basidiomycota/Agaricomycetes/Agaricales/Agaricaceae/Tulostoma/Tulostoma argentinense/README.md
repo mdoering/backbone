@@ -1,5 +1,4 @@
-Tulostoma argentinense Speg. SPECIES
-=======
+# Tulostoma argentinense Speg. SPECIES
 
 #### Status
 ACCEPTED

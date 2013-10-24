@@ -1,14 +1,13 @@
-Trichoconis echinophilum (C. Massal.) de Hoog & Oorschot SPECIES
-=======
+# Trichoconis echinophila (C. Massal.) de Hoog & Oorschot, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 26: 107 (1985)
 
 #### Original name
 Dactylaria echinophila C. Massal., 1900

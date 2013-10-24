@@ -1,5 +1,4 @@
-Taphrina boycei Mix SPECIES
-=======
+# Taphrina boycei Mix SPECIES
 
 #### Status
 ACCEPTED

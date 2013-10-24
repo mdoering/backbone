@@ -1,5 +1,4 @@
-Podospora castorinospora Cain, 1962 SPECIES
-=======
+# Podospora castorinospora Cain, 1962 SPECIES
 
 #### Status
 ACCEPTED

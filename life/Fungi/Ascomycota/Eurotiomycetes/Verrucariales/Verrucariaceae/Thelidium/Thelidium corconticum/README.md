@@ -1,5 +1,4 @@
-Thelidium corconticum Servít SPECIES
-=======
+# Thelidium corconticum Servít SPECIES
 
 #### Status
 ACCEPTED

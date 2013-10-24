@@ -1,5 +1,4 @@
-Lyophyllum schulmannii (Harmaja) Harmaja SPECIES
-=======
+# Lyophyllum schulmannii (Harmaja) Harmaja SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placosphaeria baldratiana Canonaco SPECIES
-=======
+# Placosphaeria baldratiana Canonaco SPECIES
 
 #### Status
 ACCEPTED

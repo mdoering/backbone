@@ -1,5 +1,4 @@
-Sonderia vestita Kahl, 1930 SPECIES
-=======
+# Sonderia vestita Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe lepiphylla Gillet SPECIES
-=======
+# Clitocybe lepiphylla Gillet SPECIES
 
 #### Status
 ACCEPTED

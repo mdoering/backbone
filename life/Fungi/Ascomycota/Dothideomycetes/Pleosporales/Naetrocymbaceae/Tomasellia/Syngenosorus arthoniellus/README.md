@@ -1,5 +1,4 @@
-Syngenosorus arthoniellus (Nyl.) Trevis. SPECIES
-=======
+# Syngenosorus arthoniellus (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

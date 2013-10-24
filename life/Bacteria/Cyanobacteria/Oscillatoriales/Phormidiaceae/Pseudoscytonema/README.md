@@ -1,5 +1,4 @@
-Pseudoscytonema Elenkin, 1949 GENUS
-=======
+# Pseudoscytonema Elenkin, 1949 GENUS
 
 #### Status
 ACCEPTED

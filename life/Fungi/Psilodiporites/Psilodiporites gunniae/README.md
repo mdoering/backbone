@@ -1,5 +1,4 @@
-Psilodiporites gunniae C.P. Varma & Rawat SPECIES
-=======
+# Psilodiporites gunniae C.P. Varma & Rawat SPECIES
 
 #### Status
 ACCEPTED

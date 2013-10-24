@@ -1,5 +1,4 @@
-Stigmina phragmidioides Speg. SPECIES
-=======
+# Stigmina phragmidioides Speg. SPECIES
 
 #### Status
 ACCEPTED

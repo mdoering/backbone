@@ -1,5 +1,4 @@
-Himantia spinulosa Fr. SPECIES
-=======
+# Himantia spinulosa Fr. SPECIES
 
 #### Status
 ACCEPTED

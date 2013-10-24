@@ -1,5 +1,4 @@
-Lyophyllum effocatellum (Mauri) Pacioni SPECIES
-=======
+# Lyophyllum effocatellum (Mauri) Pacioni SPECIES
 
 #### Status
 ACCEPTED

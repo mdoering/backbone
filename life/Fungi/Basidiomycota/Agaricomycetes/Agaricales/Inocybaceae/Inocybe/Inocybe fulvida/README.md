@@ -1,5 +1,4 @@
-Inocybe fulvida var. fulvida VARIETY
-=======
+# Inocybe fulvida Bres. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Iconogr. Mycol. 15: 720 (1930)
 
 #### Original name
-Inocybe fulvida var. fulvida
+Inocybe fulvida Bres.
 
 ### Remarks
 null

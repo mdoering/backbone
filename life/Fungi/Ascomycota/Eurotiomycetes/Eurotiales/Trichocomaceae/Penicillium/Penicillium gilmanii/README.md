@@ -1,5 +1,4 @@
-Penicillium gilmanii Thom SPECIES
-=======
+# Penicillium gilmanii Thom SPECIES
 
 #### Status
 ACCEPTED

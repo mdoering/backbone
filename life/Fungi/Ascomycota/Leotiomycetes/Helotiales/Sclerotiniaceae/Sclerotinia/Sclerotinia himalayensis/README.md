@@ -1,5 +1,4 @@
-Sclerotinia himalayensis M.P. Sharma & K.S. Thind SPECIES
-=======
+# Sclerotinia himalayensis M.P. Sharma & K.S. Thind SPECIES
 
 #### Status
 ACCEPTED

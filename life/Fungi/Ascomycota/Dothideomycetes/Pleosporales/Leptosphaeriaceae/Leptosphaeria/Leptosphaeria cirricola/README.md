@@ -1,5 +1,4 @@
-Leptosphaeria cirricola Pass. SPECIES
-=======
+# Leptosphaeria cirricola Pass. SPECIES
 
 #### Status
 ACCEPTED

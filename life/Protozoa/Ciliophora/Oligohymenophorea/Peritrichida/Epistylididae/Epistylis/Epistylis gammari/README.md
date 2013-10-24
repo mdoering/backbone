@@ -1,5 +1,4 @@
-Epistylis gammari subsp. gammari SUBSPECIES
-=======
+# Epistylis gammari Precht, 1935 SPECIES
 
 #### Status
 ACCEPTED

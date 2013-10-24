@@ -1,5 +1,4 @@
-Cellularia mollis (Heufl. ex Kalchbr.) Kuntze SPECIES
-=======
+# Cellularia mollis (Heufl. ex Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

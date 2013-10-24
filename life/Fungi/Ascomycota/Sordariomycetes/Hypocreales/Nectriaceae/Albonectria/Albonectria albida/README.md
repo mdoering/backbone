@@ -1,5 +1,4 @@
-Albonectria albida (Rossman) Guu & Y.M. Ju SPECIES
-=======
+# Albonectria albida (Rossman) Guu & Y.M. Ju SPECIES
 
 #### Status
 ACCEPTED

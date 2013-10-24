@@ -1,5 +1,4 @@
-Chaetophoma metasequoiae Gucevic SPECIES
-=======
+# Chaetophoma metasequoiae Gucevic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nodaria G. Shperk, 1869 GENUS
-=======
+# Nodaria G. Shperk, 1869 GENUS
 
 #### Status
 ACCEPTED

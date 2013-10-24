@@ -1,8 +1,7 @@
-Calyptotricha inhaesa (Kellicott, 1885) Bütschli, 1889 SPECIES
-=======
+# Calyptotricha pleuronemoides Phillips, 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

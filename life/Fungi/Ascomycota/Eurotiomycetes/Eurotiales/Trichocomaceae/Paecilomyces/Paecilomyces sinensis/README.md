@@ -1,5 +1,4 @@
-Paecilomyces sinensis Q.T. Chen, S.R. Xiao & Z.Y. Shi, 1984 SPECIES
-=======
+# Paecilomyces sinensis Q.T. Chen, S.R. Xiao & Z.Y. Shi, 1984 SPECIES
 
 #### Status
 ACCEPTED

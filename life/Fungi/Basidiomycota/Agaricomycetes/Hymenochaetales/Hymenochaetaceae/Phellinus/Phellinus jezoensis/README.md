@@ -1,5 +1,4 @@
-Phellinus jezoensis (Yamano) Parmasto, 1979 SPECIES
-=======
+# Phellinus jezoensis (Yamano) Parmasto, 1979 SPECIES
 
 #### Status
 ACCEPTED

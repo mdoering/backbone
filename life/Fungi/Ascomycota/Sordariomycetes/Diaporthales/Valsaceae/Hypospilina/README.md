@@ -1,5 +1,4 @@
-Hypospilina (Sacc.) Traverso GENUS
-=======
+# Hypospilina (Sacc.) Traverso GENUS
 
 #### Status
 ACCEPTED

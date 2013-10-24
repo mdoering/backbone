@@ -1,14 +1,13 @@
-Lecanora erythromma Nyl. SPECIES
-=======
+# Haematomma erythromma (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+K. svenska Vetensk-Akad. Handl. 57(6): 37 (1917)
 
 #### Original name
 null

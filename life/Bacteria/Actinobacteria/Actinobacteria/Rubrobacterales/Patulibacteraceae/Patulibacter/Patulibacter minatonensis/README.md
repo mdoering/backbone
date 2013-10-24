@@ -1,5 +1,4 @@
-Patulibacter minatonensis Takahashi et al., 2006 SPECIES
-=======
+# Patulibacter minatonensis Takahashi et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

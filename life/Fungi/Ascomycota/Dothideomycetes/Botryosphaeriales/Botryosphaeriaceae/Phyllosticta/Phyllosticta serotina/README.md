@@ -1,5 +1,4 @@
-Phyllosticta serotina Cooke SPECIES
-=======
+# Phyllosticta serotina Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Tromera olivacea (Fuckel) Sacc., 1889 SPECIES
-=======
+# Claussenomyces olivaceus (Fuckel) Sherwood, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 470 (1889)
+in Hawksworth & Sherwood, Can. J. Bot. 59(3): 367 (1981)
 
 #### Original name
 Retinocyclus olivaceus Fuckel, 1871

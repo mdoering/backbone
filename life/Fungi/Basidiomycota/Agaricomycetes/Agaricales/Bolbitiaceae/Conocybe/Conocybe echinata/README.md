@@ -1,14 +1,13 @@
-Galera echinata Velen., 1947 SPECIES
-=======
+# Conocybe echinata (Velen.) Singer, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Novitates Mycologicae Novissimae 69 (1947)
+Fieldiana, Bot. 21: 103 (1989)
 
 #### Original name
 Galera echinata Velen., 1947

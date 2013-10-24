@@ -1,5 +1,4 @@
-Lecidea leucobaea Nyl. SPECIES
-=======
+# Lecidea leucobaea Nyl. SPECIES
 
 #### Status
 ACCEPTED

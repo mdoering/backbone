@@ -1,5 +1,4 @@
-Pentaster L. Bybell & S. Gartner, 1972 GENUS
-=======
+# Pentaster L. Bybell & S. Gartner, 1972 GENUS
 
 #### Status
 ACCEPTED

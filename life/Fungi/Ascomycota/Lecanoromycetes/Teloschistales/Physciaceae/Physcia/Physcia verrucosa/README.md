@@ -1,5 +1,4 @@
-Physcia verrucosa Moberg SPECIES
-=======
+# Physcia verrucosa Moberg SPECIES
 
 #### Status
 ACCEPTED

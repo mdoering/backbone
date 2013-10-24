@@ -1,5 +1,4 @@
-Ichthyophonus Plehn & Mulsow GENUS
-=======
+# Ichthyophonus Plehn & Mulsow GENUS
 
 #### Status
 ACCEPTED

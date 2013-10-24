@@ -1,8 +1,7 @@
-Fomes konigsbergii Lloyd SPECIES
-=======
+# Fomes koningsbergii Lloyd SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Fomes konigsbergii Lloyd
+Fomes koningsbergii Lloyd
 
 ### Remarks
 null

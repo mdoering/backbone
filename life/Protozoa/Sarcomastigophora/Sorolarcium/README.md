@@ -1,5 +1,4 @@
-Sorolarcium Haeckel, 1887 GENUS
-=======
+# Sorolarcium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

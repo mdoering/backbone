@@ -1,5 +1,4 @@
-Plicaria mirabilis Rehm SPECIES
-=======
+# Plicaria mirabilis Rehm SPECIES
 
 #### Status
 ACCEPTED

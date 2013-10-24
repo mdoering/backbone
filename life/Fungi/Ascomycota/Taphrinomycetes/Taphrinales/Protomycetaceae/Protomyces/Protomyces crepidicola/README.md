@@ -1,5 +1,4 @@
-Protomyces crepidicola Büren SPECIES
-=======
+# Protomyces crepidicola Büren SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia bulgarica Bubák & Picb. SPECIES
-=======
+# Hendersonia bulgarica Bubák & Picb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodium helygeoides (Vain.) Räsänen SPECIES
-=======
+# Placodium helygeoides (Vain.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pseudoparmelia crystallicola Kalb & Hale SPECIES
-=======
+# Xanthoparmelia crystallicola (Kalb & Hale) T. H. Nash & Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Nash, Gries & Elix, Biblthca Lichenol. 56: 47 (1995)
 
 #### Original name
-null
+Pseudoparmelia crystallicola Kalb & Hale
 
 ### Remarks
 null

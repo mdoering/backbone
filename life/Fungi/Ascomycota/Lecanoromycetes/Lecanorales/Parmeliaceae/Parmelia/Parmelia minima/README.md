@@ -1,5 +1,4 @@
-Parmelia minima Lynge SPECIES
-=======
+# Parmelia minima Lynge SPECIES
 
 #### Status
 ACCEPTED

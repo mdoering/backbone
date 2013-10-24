@@ -1,5 +1,4 @@
-Pringsheimiella dioica Couch SPECIES
-=======
+# Pringsheimiella dioica Couch SPECIES
 
 #### Status
 ACCEPTED

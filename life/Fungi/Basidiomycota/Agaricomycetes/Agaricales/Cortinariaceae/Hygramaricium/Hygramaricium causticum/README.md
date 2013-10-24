@@ -1,5 +1,4 @@
-Hygramaricium causticum (Fr.) Locq. SPECIES
-=======
+# Hygramaricium causticum (Fr.) Locq. SPECIES
 
 #### Status
 ACCEPTED

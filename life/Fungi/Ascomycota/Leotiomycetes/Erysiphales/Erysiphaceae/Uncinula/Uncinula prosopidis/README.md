@@ -1,5 +1,4 @@
-Uncinula prosopidis Speg. SPECIES
-=======
+# Uncinula prosopidis Speg. SPECIES
 
 #### Status
 ACCEPTED

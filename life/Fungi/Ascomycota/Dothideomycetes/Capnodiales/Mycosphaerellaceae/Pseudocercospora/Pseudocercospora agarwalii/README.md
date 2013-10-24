@@ -1,5 +1,4 @@
-Pseudocercospora agarwalii (Chupp) U. Braun & Bagyan. SPECIES
-=======
+# Pseudocercospora agarwalii (Chupp) U. Braun & Bagyan. SPECIES
 
 #### Status
 ACCEPTED

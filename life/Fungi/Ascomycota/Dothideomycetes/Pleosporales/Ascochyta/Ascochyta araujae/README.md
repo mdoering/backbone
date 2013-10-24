@@ -1,5 +1,4 @@
-Ascochyta araujae Speg. SPECIES
-=======
+# Ascochyta araujae Speg. SPECIES
 
 #### Status
 ACCEPTED

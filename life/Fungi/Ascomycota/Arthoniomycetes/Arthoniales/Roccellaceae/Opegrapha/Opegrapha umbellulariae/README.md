@@ -1,5 +1,4 @@
-Opegrapha umbellulariae Zahlbr. SPECIES
-=======
+# Opegrapha umbellulariae Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteus insidiosus Vellinga & Schreurs, 1985 SPECIES
-=======
+# Pluteus insidiosus Vellinga & Schreurs, 1985 SPECIES
 
 #### Status
 ACCEPTED

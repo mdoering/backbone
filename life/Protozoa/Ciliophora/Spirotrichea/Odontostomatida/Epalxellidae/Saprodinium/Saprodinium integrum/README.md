@@ -1,5 +1,4 @@
-Saprodinium integrum subsp. integrum SUBSPECIES
-=======
+# Saprodinium integrum Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

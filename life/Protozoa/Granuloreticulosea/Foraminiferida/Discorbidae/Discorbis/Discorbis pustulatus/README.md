@@ -1,5 +1,4 @@
-Discorbis pustulatus (Earland & Heron-Allen) SPECIES
-=======
+# Discorbis pustulatus (Earland & Heron-Allen) SPECIES
 
 #### Status
 ACCEPTED

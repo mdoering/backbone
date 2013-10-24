@@ -1,5 +1,4 @@
-Phyllosticta adjuncta Bubák & Serebrian. SPECIES
-=======
+# Phyllosticta adjuncta Bubák & Serebrian. SPECIES
 
 #### Status
 ACCEPTED

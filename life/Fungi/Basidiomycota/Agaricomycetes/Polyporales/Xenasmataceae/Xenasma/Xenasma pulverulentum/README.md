@@ -1,14 +1,13 @@
-Peniophora pulverulenta (Litsch.) H.S. Jacks., 1950 SPECIES
-=======
+# Xenasma pulverulentum (Litsch.) Donk, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Canadian Journal of Research, Section C 28: 532 (1950)
+Fungus, Wageningen 27: 25 (1957)
 
 #### Original name
 Corticium pulverulentum Litsch., 1939

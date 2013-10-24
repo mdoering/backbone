@@ -1,5 +1,4 @@
-Dermea rhytidiformans A. Funk & Kuijt SPECIES
-=======
+# Dermea rhytidiformans A. Funk & Kuijt SPECIES
 
 #### Status
 ACCEPTED

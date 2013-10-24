@@ -1,5 +1,4 @@
-Urocystis monotropae (Fr.) A.A. Fisch. Waldh. SPECIES
-=======
+# Urocystis monotropae (Fr.) A.A. Fisch. Waldh. SPECIES
 
 #### Status
 ACCEPTED

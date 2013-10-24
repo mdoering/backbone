@@ -1,5 +1,4 @@
-Lophiostoma ericarum Fabre SPECIES
-=======
+# Lophiostoma ericarum Fabre SPECIES
 
 #### Status
 ACCEPTED

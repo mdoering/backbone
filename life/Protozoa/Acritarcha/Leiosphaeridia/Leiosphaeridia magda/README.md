@@ -1,5 +1,4 @@
-Leiosphaeridia magda Pyatiletov, 1978 SPECIES
-=======
+# Leiosphaeridia magda Pyatiletov, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sistotrema farinaceum Hallenb., 1984 SPECIES
-=======
+# Sistotrema farinaceum Hallenb., 1984 SPECIES
 
 #### Status
 ACCEPTED

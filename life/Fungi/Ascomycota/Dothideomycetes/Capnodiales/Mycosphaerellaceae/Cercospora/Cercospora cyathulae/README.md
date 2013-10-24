@@ -1,5 +1,4 @@
-Cercospora cyathulae Syd. SPECIES
-=======
+# Cercospora cyathulae Syd. SPECIES
 
 #### Status
 ACCEPTED

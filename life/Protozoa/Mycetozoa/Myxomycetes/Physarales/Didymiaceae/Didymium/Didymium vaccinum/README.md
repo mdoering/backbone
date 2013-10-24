@@ -1,14 +1,13 @@
-Diderma vaccinum Durieu & Mont., 1848 SPECIES
-=======
+# Didymium vaccinum (Durieu & Mont.) Buchet, 1920 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Durieu, Expl. Sci. Alg. , Bot. 1: 407 (1848)
+Bull. Soc. mycol. Fr. 36: 110 (1920)
 
 #### Original name
 Diderma vaccinum Durieu & Mont., 1848

@@ -1,5 +1,4 @@
-Gymnopus albipilatus (Peck) Murrill SPECIES
-=======
+# Gymnopus albipilatus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

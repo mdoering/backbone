@@ -1,5 +1,4 @@
-Microtetraspora angiospora (Zhukova et al., 1968) Kroppenstedt et al., 1991 SPECIES
-=======
+# Microtetraspora angiospora (Zhukova et al., 1968) Kroppenstedt et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

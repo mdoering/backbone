@@ -1,5 +1,4 @@
-Thelotrema zamboangense Vain. SPECIES
-=======
+# Thelotrema zamboangense Vain. SPECIES
 
 #### Status
 ACCEPTED

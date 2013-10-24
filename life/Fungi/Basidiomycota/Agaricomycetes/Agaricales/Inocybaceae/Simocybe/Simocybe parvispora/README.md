@@ -1,5 +1,4 @@
-Simocybe parvispora Bandala, Esteve-Rav. & Montoya SPECIES
-=======
+# Simocybe parvispora Bandala, Esteve-Rav. & Montoya SPECIES
 
 #### Status
 ACCEPTED

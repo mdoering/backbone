@@ -1,14 +1,13 @@
-Hysteropezizella hysterioides (Desm.) Nannf., 1932 SPECIES
-=======
+# Phragmonaevia hysterioides (Desm.) Rehm, 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Acta R. Soc. Scient. upsal. , Ser. 2 8(no. 2): 118 (1932)
+in Rabenhorst, Rabenh. Krypt. -Fl. (Leipzig) 1(3): 162 (1888)
 
 #### Original name
 Stictis hysterioides Desm., 1843

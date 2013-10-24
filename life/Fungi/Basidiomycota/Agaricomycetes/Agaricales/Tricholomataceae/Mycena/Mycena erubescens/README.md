@@ -1,8 +1,7 @@
-Mycena fellea J.E. Lange SPECIES
-=======
+# Mycena erubescens Höhn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Belgian Species List

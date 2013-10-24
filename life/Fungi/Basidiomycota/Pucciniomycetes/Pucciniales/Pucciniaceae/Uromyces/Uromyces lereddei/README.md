@@ -1,5 +1,4 @@
-Uromyces lereddei Dupias SPECIES
-=======
+# Uromyces lereddei Dupias SPECIES
 
 #### Status
 ACCEPTED

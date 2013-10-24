@@ -1,5 +1,4 @@
-Inocybe abnormispora Alessio SPECIES
-=======
+# Inocybe abnormispora Alessio SPECIES
 
 #### Status
 ACCEPTED

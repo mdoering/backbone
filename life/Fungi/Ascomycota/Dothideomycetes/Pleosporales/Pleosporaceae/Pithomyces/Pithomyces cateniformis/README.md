@@ -1,5 +1,4 @@
-Pithomyces cateniformis X.G. Zhang & T.Y. Zhang SPECIES
-=======
+# Pithomyces cateniformis X.G. Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

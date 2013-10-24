@@ -1,5 +1,4 @@
-Lecidea ernstiana Müll. Arg. SPECIES
-=======
+# Lecidea ernstiana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

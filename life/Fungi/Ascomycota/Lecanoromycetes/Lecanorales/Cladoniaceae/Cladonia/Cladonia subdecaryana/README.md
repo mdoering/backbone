@@ -1,5 +1,4 @@
-Cladonia subdecaryana Yoshim. SPECIES
-=======
+# Cladonia subdecaryana Yoshim. SPECIES
 
 #### Status
 ACCEPTED

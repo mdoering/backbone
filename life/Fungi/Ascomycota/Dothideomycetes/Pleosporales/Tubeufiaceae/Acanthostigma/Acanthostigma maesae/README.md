@@ -1,5 +1,4 @@
-Acanthostigma maesae Tilak & Srinivasulu SPECIES
-=======
+# Acanthostigma maesae Tilak & Srinivasulu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyphella fasciculata Berk. & M.A. Curtis SPECIES
-=======
+# Cyphella fasciculata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

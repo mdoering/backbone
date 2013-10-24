@@ -1,5 +1,4 @@
-Quinqueloculina byramensis Cushman SPECIES
-=======
+# Quinqueloculina byramensis Cushman SPECIES
 
 #### Status
 ACCEPTED

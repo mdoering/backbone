@@ -1,5 +1,4 @@
-Irenina rhododendri W. Yamam. SPECIES
-=======
+# Irenina rhododendri W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

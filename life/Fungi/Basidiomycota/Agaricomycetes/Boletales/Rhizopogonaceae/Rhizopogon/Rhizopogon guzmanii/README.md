@@ -1,5 +1,4 @@
-Rhizopogon guzmanii Trappe & Cázares SPECIES
-=======
+# Rhizopogon guzmanii Trappe & Cázares SPECIES
 
 #### Status
 ACCEPTED

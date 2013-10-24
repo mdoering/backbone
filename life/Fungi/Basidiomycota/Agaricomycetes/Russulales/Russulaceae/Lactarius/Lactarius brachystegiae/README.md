@@ -1,5 +1,4 @@
-Lactarius brachystegiae Verbeken SPECIES
-=======
+# Lactarius brachystegiae Verbeken SPECIES
 
 #### Status
 ACCEPTED

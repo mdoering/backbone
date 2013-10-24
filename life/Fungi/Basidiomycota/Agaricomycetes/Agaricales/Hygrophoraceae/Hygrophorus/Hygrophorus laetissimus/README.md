@@ -1,5 +1,4 @@
-Hygrophorus laetissimus A.H. Sm. & Hesler SPECIES
-=======
+# Hygrophorus laetissimus A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

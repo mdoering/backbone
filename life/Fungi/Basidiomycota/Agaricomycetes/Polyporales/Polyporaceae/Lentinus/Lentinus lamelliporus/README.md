@@ -1,5 +1,4 @@
-Lentinus lamelliporus Har. & Pat., 1902 SPECIES
-=======
+# Lentinus lamelliporus Har. & Pat., 1902 SPECIES
 
 #### Status
 ACCEPTED

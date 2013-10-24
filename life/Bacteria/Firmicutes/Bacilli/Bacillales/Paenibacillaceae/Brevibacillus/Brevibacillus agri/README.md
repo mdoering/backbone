@@ -1,8 +1,7 @@
-Bacillus agri (ex Laubach & Rice, 1916) Nakamura, 1993 SPECIES
-=======
+# Brevibacillus agri (Nakamura, 1993) Shida et al., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Multicellaesporites compactilis P. Ke & Z.Y. Shi SPECIES
-=======
+# Multicellaesporites compactilis P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

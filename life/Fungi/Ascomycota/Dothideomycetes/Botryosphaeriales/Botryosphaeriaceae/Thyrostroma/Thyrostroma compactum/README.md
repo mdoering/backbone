@@ -1,17 +1,16 @@
-Stegonsporium compactum var. compactum VARIETY
-=======
+# Thyrostroma compactum (Sacc.) Höhn., 1911 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 2(no. 8): 542 (1882)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 120: 472 (1911)
 
 #### Original name
-Stegonsporium compactum var. compactum
+Coryneum compactum Sacc., 1876
 
 ### Remarks
 null

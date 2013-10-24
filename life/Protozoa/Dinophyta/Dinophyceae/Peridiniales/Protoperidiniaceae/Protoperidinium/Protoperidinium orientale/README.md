@@ -1,5 +1,4 @@
-Protoperidinium orientale (Matzenauer, 1933) Balech, 1974 SPECIES
-=======
+# Protoperidinium orientale (Matzenauer, 1933) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

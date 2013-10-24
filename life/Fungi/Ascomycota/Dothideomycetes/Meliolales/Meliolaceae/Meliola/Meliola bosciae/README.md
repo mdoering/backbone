@@ -1,5 +1,4 @@
-Meliola bosciae Doidge SPECIES
-=======
+# Meliola bosciae Doidge SPECIES
 
 #### Status
 ACCEPTED

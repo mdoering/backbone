@@ -1,17 +1,16 @@
-Asteronaevia Petr. GENUS
-=======
+# Diplonaevia Sacc. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 27(5/6): 408 (1929)
+Syll. fung. (Abellini) 8: 666 (1889)
 
 #### Original name
-Asteronaevia Petr.
+Diplonaevia Sacc.
 
 ### Remarks
 null

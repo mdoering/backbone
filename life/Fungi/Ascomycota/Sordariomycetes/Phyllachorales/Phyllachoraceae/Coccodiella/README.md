@@ -1,17 +1,16 @@
-Phoenicostroma Syd. GENUS
-=======
+# Coccodiella Hara GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 23(3/6): 345 (1925)
+Bot. Mag. , Tokyo 25: 224 (1910)
 
 #### Original name
-Phoenicostroma Syd.
+Coccodiella Hara
 
 ### Remarks
 null

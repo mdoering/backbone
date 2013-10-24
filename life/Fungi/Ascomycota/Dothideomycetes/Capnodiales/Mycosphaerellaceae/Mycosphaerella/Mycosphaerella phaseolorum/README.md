@@ -1,14 +1,13 @@
-Sphaerella phaseolorum (Siemaszko) Sacc., 1928 SPECIES
-=======
+# Mycosphaerella phaseolorum Siemaszko, 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 24(2): 872 (1928)
+Mater. Mikol. Fitopat. Ross. 1(3): 25 (1915)
 
 #### Original name
 Mycosphaerella phaseolorum Siemaszko, 1915

@@ -1,5 +1,4 @@
-Cothurnia grandis sensu Mereschkowsky, 1878 SPECIES
-=======
+# Cothurnia grandis sensu Mereschkowsky, 1878 SPECIES
 
 #### Status
 ACCEPTED

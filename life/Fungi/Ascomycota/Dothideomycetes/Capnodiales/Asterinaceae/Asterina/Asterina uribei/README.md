@@ -1,5 +1,4 @@
-Asterina uribei Toro SPECIES
-=======
+# Asterina uribei Toro SPECIES
 
 #### Status
 ACCEPTED

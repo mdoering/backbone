@@ -1,5 +1,4 @@
-Alkaliflexus imshenetskii Zhilina et al., 2005 SPECIES
-=======
+# Alkaliflexus imshenetskii Zhilina et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

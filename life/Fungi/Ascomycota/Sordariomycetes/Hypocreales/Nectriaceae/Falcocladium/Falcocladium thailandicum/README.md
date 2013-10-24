@@ -1,5 +1,4 @@
-Falcocladium thailandicum Crous & Himaman SPECIES
-=======
+# Falcocladium thailandicum Crous & Himaman SPECIES
 
 #### Status
 ACCEPTED

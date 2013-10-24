@@ -1,14 +1,13 @@
-Hymenogaster viscidus (Massee & Rodway) Zeller & C.W. Dodge, 1934 SPECIES
-=======
+# Protoglossum viscidum (Massey & Rodway) T.W. May, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Muelleria 8(3): 288 (1995)
 
 #### Original name
 Hysterangium viscidum Massee & Rodway, 1898

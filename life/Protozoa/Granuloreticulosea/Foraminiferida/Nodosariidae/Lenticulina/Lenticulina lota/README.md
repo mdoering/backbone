@@ -1,5 +1,4 @@
-Lenticulina lota SPECIES
-=======
+# Lenticulina lota SPECIES
 
 #### Status
 ACCEPTED

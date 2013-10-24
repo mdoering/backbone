@@ -1,5 +1,4 @@
-Leiosphaeridia rugulata K. Takahashi SPECIES
-=======
+# Leiosphaeridia rugulata K. Takahashi SPECIES
 
 #### Status
 ACCEPTED

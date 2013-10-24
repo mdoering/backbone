@@ -1,5 +1,4 @@
-Mycena tetrasphaerophora Singer SPECIES
-=======
+# Mycena tetrasphaerophora Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus sulcatus McClatchie {?} SPECIES
-=======
+# Coprinus sulcatus McClatchie {?} SPECIES
 
 #### Status
 ACCEPTED

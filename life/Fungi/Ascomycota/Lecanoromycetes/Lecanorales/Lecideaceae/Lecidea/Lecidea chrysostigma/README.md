@@ -1,5 +1,4 @@
-Lecidea chrysostigma Vain. SPECIES
-=======
+# Lecidea chrysostigma Vain. SPECIES
 
 #### Status
 ACCEPTED

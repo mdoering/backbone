@@ -1,5 +1,4 @@
-Leptorhaphis laricis (J. Lahm) M.B. Aguirre SPECIES
-=======
+# Leptorhaphis laricis (J. Lahm) M.B. Aguirre SPECIES
 
 #### Status
 ACCEPTED

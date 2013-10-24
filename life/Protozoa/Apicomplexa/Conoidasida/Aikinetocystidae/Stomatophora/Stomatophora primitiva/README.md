@@ -1,5 +1,4 @@
-Stomatophora primitiva Bhatia & Setna, 1938 SPECIES
-=======
+# Stomatophora primitiva Bhatia & Setna, 1938 SPECIES
 
 #### Status
 ACCEPTED

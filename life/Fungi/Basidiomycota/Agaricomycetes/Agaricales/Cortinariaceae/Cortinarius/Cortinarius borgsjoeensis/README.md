@@ -1,17 +1,16 @@
-Cortinarius borgjoeensis Brandrud SPECIES
-=======
+# Cortinarius borgsjoeensis Brandrud SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Brandrud, Lindström, Marklund, Melot & Muskos, Cortinarius (Sweden), Flora Photographica vol. <b>2</b> [Swedish version by Brandrud] 33 (1992)
 
 #### Original name
-Cortinarius borgjoeensis Brandrud
+Cortinarius borgsjoeensis Brandrud
 
 ### Remarks
 null

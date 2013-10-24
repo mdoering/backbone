@@ -1,14 +1,13 @@
-Clitocybula dussenii (Bres.) Singer SPECIES
-=======
+# Clitocybula dusenii (Bres.) Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 8(1-6): 110 (1954)
 
 #### Original name
 Panus dusenii Bres.

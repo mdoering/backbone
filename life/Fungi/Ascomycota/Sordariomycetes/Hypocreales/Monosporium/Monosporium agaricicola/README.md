@@ -1,8 +1,7 @@
-Monosporium agaricicolum Sacc. SPECIES
-=======
+# Monosporium agaricicola Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Monosporium agaricicolum Sacc.
+Monosporium agaricicola Sacc.
 
 ### Remarks
 null

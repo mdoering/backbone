@@ -1,5 +1,4 @@
-Botryosporium prorumpens Schwein. SPECIES
-=======
+# Botryosporium prorumpens Schwein. SPECIES
 
 #### Status
 ACCEPTED

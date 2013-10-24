@@ -1,5 +1,4 @@
-Pholiota crassipedes A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota crassipedes A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

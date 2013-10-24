@@ -1,5 +1,4 @@
-Graphium caliciiforme Maire SPECIES
-=======
+# Graphium caliciiforme Maire SPECIES
 
 #### Status
 ACCEPTED

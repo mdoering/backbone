@@ -1,5 +1,4 @@
-Usnea valida Motyka SPECIES
-=======
+# Usnea valida Motyka SPECIES
 
 #### Status
 ACCEPTED

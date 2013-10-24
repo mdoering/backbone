@@ -1,5 +1,4 @@
-Phoma helichrysicola Hollós SPECIES
-=======
+# Phoma helichrysicola Hollós SPECIES
 
 #### Status
 ACCEPTED

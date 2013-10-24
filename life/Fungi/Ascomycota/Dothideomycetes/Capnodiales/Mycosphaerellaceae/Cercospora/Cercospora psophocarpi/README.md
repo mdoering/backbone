@@ -1,5 +1,4 @@
-Cercospora psophocarpi J.M. Yen SPECIES
-=======
+# Cercospora psophocarpi J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

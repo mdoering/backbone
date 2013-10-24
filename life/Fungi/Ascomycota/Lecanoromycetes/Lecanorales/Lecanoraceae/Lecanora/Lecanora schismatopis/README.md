@@ -1,5 +1,4 @@
-Lecanora schismatopis Nyl. SPECIES
-=======
+# Lecanora schismatopis Nyl. SPECIES
 
 #### Status
 ACCEPTED

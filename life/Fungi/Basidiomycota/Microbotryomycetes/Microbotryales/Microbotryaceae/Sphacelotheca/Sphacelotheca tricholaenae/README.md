@@ -1,5 +1,4 @@
-Sphacelotheca tricholaenae var. tricholaenae VARIETY
-=======
+# Sphacelotheca tricholaenae (Henn.) Mundk. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Indian J. agric. Sci. 14: 51 (1944)
 
 #### Original name
-Sphacelotheca tricholaenae var. tricholaenae
+Ustilago tricholaenae Henn.
 
 ### Remarks
 null

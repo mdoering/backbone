@@ -1,5 +1,4 @@
-Lactifluus dulcis Roussel SPECIES
-=======
+# Lactifluus dulcis Roussel SPECIES
 
 #### Status
 ACCEPTED

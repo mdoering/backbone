@@ -1,5 +1,4 @@
-Opegrapha negrosina Vain. SPECIES
-=======
+# Opegrapha negrosina Vain. SPECIES
 
 #### Status
 ACCEPTED

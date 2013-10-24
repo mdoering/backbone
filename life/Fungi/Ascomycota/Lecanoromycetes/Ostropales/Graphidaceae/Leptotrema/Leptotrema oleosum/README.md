@@ -1,5 +1,4 @@
-Leptotrema oleosum Zahlbr. SPECIES
-=======
+# Leptotrema oleosum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

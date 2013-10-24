@@ -1,5 +1,4 @@
-Codoniella campanulata Cookson & Eisenack SPECIES
-=======
+# Codoniella campanulata Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

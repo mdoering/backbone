@@ -1,5 +1,4 @@
-Phyllosticta bondarzevii Aksel SPECIES
-=======
+# Phyllosticta bondarzevii Aksel SPECIES
 
 #### Status
 ACCEPTED

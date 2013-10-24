@@ -1,5 +1,4 @@
-Hercospora stromatica Preuss SPECIES
-=======
+# Hercospora stromatica Preuss SPECIES
 
 #### Status
 ACCEPTED

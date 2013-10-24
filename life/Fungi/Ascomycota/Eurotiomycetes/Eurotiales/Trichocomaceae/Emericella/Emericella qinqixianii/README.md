@@ -1,5 +1,4 @@
-Emericella qinqixianii Y. Horie, Abliz & R.Y. Li SPECIES
-=======
+# Emericella qinqixianii Y. Horie, Abliz & R.Y. Li SPECIES
 
 #### Status
 ACCEPTED

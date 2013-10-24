@@ -1,5 +1,4 @@
-Parmathyrites indicus K.P. Jain & R.C. Gupta SPECIES
-=======
+# Parmathyrites indicus K.P. Jain & R.C. Gupta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendroseptoria oryzopsidis Punith. SPECIES
-=======
+# Dendroseptoria oryzopsidis Punith. SPECIES
 
 #### Status
 ACCEPTED

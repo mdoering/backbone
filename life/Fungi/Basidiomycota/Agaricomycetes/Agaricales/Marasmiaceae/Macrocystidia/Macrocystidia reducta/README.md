@@ -1,5 +1,4 @@
-Macrocystidia reducta E. Horak & Capellano, 1980 SPECIES
-=======
+# Macrocystidia reducta E. Horak & Capellano, 1980 SPECIES
 
 #### Status
 ACCEPTED

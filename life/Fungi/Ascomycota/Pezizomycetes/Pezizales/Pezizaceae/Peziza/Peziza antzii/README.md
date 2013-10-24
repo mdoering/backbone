@@ -1,5 +1,4 @@
-Peziza antzii Münter {?} SPECIES
-=======
+# Peziza antzii Münter {?} SPECIES
 
 #### Status
 ACCEPTED

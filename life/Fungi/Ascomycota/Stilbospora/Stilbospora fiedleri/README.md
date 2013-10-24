@@ -1,5 +1,4 @@
-Stilbospora fiedleri (Rabenh.) Höhn. SPECIES
-=======
+# Stilbospora fiedleri (Rabenh.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

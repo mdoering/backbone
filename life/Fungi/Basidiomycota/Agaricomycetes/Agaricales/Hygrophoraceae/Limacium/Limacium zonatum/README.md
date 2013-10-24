@@ -1,5 +1,4 @@
-Limacium zonatum Velen. SPECIES
-=======
+# Limacium zonatum Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peltigera vrangiana Gyeln. SPECIES
-=======
+# Peltigera vrangiana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

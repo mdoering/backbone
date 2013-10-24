@@ -1,5 +1,4 @@
-Bursellopsis pelagica Foissner, Berger & Schaumburg, 1999 SPECIES
-=======
+# Bursellopsis pelagica Foissner, Berger & Schaumburg, 1999 SPECIES
 
 #### Status
 ACCEPTED

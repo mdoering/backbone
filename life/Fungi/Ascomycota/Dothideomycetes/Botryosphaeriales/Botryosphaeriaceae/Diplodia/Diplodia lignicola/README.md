@@ -1,5 +1,4 @@
-Diplodia lignicola Peck SPECIES
-=======
+# Diplodia lignicola Peck SPECIES
 
 #### Status
 ACCEPTED

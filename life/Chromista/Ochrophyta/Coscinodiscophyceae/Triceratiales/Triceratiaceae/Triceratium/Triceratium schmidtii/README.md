@@ -1,5 +1,4 @@
-Triceratium schmidtii N. V. Anissimova SPECIES
-=======
+# Triceratium schmidtii N. V. Anissimova SPECIES
 
 #### Status
 ACCEPTED

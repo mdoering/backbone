@@ -1,5 +1,4 @@
-Acanthostigma occidentale (Ellis & Everh.) Sacc. SPECIES
-=======
+# Acanthostigma occidentale (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psalliota minuta Velen. SPECIES
-=======
+# Psalliota minuta Velen. SPECIES
 
 #### Status
 ACCEPTED

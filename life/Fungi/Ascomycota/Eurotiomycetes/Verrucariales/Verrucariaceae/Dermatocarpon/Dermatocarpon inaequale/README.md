@@ -1,5 +1,4 @@
-Dermatocarpon inaequale H. Magn. SPECIES
-=======
+# Dermatocarpon inaequale H. Magn. SPECIES
 
 #### Status
 ACCEPTED

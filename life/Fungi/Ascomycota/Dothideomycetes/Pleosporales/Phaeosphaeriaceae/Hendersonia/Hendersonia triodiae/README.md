@@ -1,5 +1,4 @@
-Hendersonia triodiae Hansf. SPECIES
-=======
+# Hendersonia triodiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catillaria nivea (P. Crouan & H. Crouan) Zahlbr. SPECIES
-=======
+# Catillaria nivea (P. Crouan & H. Crouan) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

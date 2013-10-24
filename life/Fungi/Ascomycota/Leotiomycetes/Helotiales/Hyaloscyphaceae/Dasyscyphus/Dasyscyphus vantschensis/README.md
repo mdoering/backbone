@@ -1,5 +1,4 @@
-Dasyscyphus vantschensis Raitv. SPECIES
-=======
+# Dasyscyphus vantschensis Raitv. SPECIES
 
 #### Status
 ACCEPTED

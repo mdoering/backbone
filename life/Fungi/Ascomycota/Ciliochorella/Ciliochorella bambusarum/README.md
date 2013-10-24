@@ -1,5 +1,4 @@
-Ciliochorella bambusarum Shanor SPECIES
-=======
+# Ciliochorella bambusarum Shanor SPECIES
 
 #### Status
 ACCEPTED

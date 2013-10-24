@@ -1,5 +1,4 @@
-Mycosphaerella syzygii Crous SPECIES
-=======
+# Mycosphaerella syzygii Crous SPECIES
 
 #### Status
 ACCEPTED

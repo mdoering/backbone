@@ -1,17 +1,16 @@
-Phlyctochytrium kniepii A. Gaertn., 1954 SPECIES
-=======
+# Spizellomyces kniepii A. Gaertn. ex D.J.S. Barr, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 62(6): 1187 (1984)
 
 #### Original name
-Phlyctochytrium kniepii A. Gaertn., 1954
+Spizellomyces kniepii A. Gaertn. ex D.J.S. Barr, 1984
 
 ### Remarks
 null

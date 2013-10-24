@@ -1,5 +1,4 @@
-Exochoderma E.R. Wicander, 1974 GENUS
-=======
+# Exochoderma E.R. Wicander, 1974 GENUS
 
 #### Status
 ACCEPTED

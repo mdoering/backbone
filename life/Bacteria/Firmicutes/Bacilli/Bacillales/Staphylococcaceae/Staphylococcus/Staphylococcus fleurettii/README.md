@@ -1,5 +1,4 @@
-Staphylococcus fleurettii Vernozy-Rozand et al., 2000 SPECIES
-=======
+# Staphylococcus fleurettii Vernozy-Rozand et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

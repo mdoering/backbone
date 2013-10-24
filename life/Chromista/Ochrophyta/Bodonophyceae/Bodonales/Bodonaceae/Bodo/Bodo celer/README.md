@@ -1,5 +1,4 @@
-Bodo celer Klebs SPECIES
-=======
+# Bodo celer Klebs SPECIES
 
 #### Status
 ACCEPTED

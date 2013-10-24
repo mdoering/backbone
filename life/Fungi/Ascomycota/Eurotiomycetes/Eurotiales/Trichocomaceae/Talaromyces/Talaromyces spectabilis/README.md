@@ -1,14 +1,13 @@
-Byssochlamys spectabilis (Udagawa & Shoji Suzuki) Houbraken & Samson, 2008 SPECIES
-=======
+# Talaromyces spectabilis Udagawa & Shoji Suzuki, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Appl. Environm. Microbiol. 74: 1618 (2008)
+Mycotaxon 50: 82 (1994)
 
 #### Original name
 Talaromyces spectabilis Udagawa & Shoji Suzuki, 1994

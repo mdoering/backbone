@@ -1,5 +1,4 @@
-Baltisphaeridium deunffii (Henry & Thadeu, 1971) Elaouad-Debbaj, 1978 SPECIES
-=======
+# Baltisphaeridium deunffii (Henry & Thadeu, 1971) Elaouad-Debbaj, 1978 SPECIES
 
 #### Status
 ACCEPTED

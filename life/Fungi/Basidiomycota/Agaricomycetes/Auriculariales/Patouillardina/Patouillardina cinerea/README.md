@@ -1,17 +1,16 @@
-Patouillardina cinerea var. cinerea Bres. ex Rick, 1958 VARIETY
-=======
+# Patouillardina cinerea Bres. ex Rick, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Brotéria, sér. bot. 5: 7 (1958)
 
 #### Original name
-Patouillardina cinerea var. cinerea Bres. ex Rick, 1958
+Patouillardina cinerea Bres. ex Rick, 1958
 
 ### Remarks
 null

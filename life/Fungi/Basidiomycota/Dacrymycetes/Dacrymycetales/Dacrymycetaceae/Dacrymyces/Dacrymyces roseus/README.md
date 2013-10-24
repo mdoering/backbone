@@ -1,5 +1,4 @@
-Dacrymyces roseus Fr. SPECIES
-=======
+# Dacrymyces roseus Fr. SPECIES
 
 #### Status
 ACCEPTED

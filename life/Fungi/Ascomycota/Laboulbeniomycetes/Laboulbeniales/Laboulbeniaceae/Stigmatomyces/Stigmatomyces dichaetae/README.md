@@ -1,5 +1,4 @@
-Stigmatomyces dichaetae Huldén SPECIES
-=======
+# Stigmatomyces dichaetae Huldén SPECIES
 
 #### Status
 ACCEPTED

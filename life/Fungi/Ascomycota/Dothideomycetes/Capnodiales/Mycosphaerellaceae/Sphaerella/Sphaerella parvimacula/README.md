@@ -1,5 +1,4 @@
-Sphaerella parvimacula Pass. SPECIES
-=======
+# Sphaerella parvimacula Pass. SPECIES
 
 #### Status
 ACCEPTED

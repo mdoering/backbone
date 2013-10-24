@@ -1,5 +1,4 @@
-Verrucaria praecellens var. praecellens VARIETY
-=======
+# Verrucaria praecellens (Arnold) Servít SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria praecellens var. praecellens
+Amphoridium praecellens Arnold
 
 ### Remarks
 null

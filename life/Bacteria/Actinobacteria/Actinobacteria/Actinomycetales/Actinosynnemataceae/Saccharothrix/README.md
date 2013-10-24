@@ -1,5 +1,4 @@
-Saccharothrix Labeda et al., 1984 GENUS
-=======
+# Saccharothrix Labeda et al., 1984 GENUS
 
 #### Status
 ACCEPTED

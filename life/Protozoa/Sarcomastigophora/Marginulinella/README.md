@@ -1,5 +1,4 @@
-Marginulinella Sosnina, 1967 GENUS
-=======
+# Marginulinella Sosnina, 1967 GENUS
 
 #### Status
 ACCEPTED

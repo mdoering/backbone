@@ -1,5 +1,4 @@
-Galerina mairei Boutev. & P.A. Moreau SPECIES
-=======
+# Galerina mairei Boutev. & P.A. Moreau SPECIES
 
 #### Status
 ACCEPTED

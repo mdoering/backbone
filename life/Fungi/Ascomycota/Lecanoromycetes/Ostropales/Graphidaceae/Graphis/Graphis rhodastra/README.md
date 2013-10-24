@@ -1,5 +1,4 @@
-Graphis rhodastra Redinger SPECIES
-=======
+# Graphis rhodastra Redinger SPECIES
 
 #### Status
 ACCEPTED

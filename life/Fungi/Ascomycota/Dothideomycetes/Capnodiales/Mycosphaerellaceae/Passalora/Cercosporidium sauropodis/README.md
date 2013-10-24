@@ -1,5 +1,4 @@
-Cercosporidium sauropodis P.K. Chi & S.Q. Chen SPECIES
-=======
+# Cercosporidium sauropodis P.K. Chi & S.Q. Chen SPECIES
 
 #### Status
 ACCEPTED

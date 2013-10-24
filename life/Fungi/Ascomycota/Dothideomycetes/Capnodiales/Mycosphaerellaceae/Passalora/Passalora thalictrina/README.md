@@ -1,5 +1,4 @@
-Passalora thalictrina (Karak.) U. Braun & Melnik SPECIES
-=======
+# Passalora thalictrina (Karak.) U. Braun & Melnik SPECIES
 
 #### Status
 ACCEPTED

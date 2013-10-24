@@ -1,5 +1,4 @@
-Lecidea rebelliosa Malme SPECIES
-=======
+# Lecidea rebelliosa Malme SPECIES
 
 #### Status
 ACCEPTED

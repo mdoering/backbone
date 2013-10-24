@@ -1,17 +1,16 @@
-Glonium clavisporum Seaver, 1925 SPECIES
-=======
+# Psiloglonium clavisporum (Seaver) E. Boehm, C.L. Schoch & Spatafora, 2009 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Res. 113(4): 469 (2009)
 
 #### Original name
-null
+Glonium clavisporum Seaver, 1925
 
 ### Remarks
 null

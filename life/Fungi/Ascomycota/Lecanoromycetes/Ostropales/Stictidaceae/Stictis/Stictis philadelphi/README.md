@@ -1,5 +1,4 @@
-Stictis philadelphi Schwein. SPECIES
-=======
+# Stictis philadelphi Schwein. SPECIES
 
 #### Status
 ACCEPTED

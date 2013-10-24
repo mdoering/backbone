@@ -1,5 +1,4 @@
-Discina adnata Berk. & M.A. Curtis SPECIES
-=======
+# Discina adnata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

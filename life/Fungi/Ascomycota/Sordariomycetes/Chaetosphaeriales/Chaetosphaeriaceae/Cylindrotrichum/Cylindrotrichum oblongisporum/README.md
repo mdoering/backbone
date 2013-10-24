@@ -1,5 +1,4 @@
-Cylindrotrichum oblongisporum Morgan-Jones SPECIES
-=======
+# Cylindrotrichum oblongisporum Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

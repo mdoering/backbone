@@ -1,5 +1,4 @@
-Psathyrella tilcariensis Singer SPECIES
-=======
+# Psathyrella tilcariensis Singer SPECIES
 
 #### Status
 ACCEPTED

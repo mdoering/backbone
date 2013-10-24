@@ -1,5 +1,4 @@
-Lembosia sapotacearum Mibey SPECIES
-=======
+# Lembosia sapotacearum Mibey SPECIES
 
 #### Status
 ACCEPTED

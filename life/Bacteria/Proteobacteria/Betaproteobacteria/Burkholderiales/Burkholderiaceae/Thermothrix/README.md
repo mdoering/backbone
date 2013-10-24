@@ -1,5 +1,4 @@
-Thermothrix Caldwell et al., 1981 GENUS
-=======
+# Thermothrix Caldwell et al., 1981 GENUS
 
 #### Status
 ACCEPTED

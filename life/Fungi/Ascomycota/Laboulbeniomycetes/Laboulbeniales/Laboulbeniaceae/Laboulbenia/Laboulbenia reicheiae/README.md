@@ -1,5 +1,4 @@
-Laboulbenia reicheiae Santam. SPECIES
-=======
+# Laboulbenia reicheiae Santam. SPECIES
 
 #### Status
 ACCEPTED

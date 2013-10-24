@@ -1,5 +1,4 @@
-Scyphosphaera campanula Deflandre, 1942 SPECIES
-=======
+# Scyphosphaera campanula Deflandre, 1942 SPECIES
 
 #### Status
 ACCEPTED

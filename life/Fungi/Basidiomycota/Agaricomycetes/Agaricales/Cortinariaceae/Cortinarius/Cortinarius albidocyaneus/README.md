@@ -1,5 +1,4 @@
-Cortinarius albidocyaneus Britzelm. SPECIES
-=======
+# Cortinarius albidocyaneus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

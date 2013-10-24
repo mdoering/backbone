@@ -1,17 +1,16 @@
-Hygrocybe dorothyi A.M. Young SPECIES
-=======
+# Hygrocybe dorothyae A.M. Young SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Young & Wood, Aust. Syst. Bot. 10(6): 965 (1997)
 
 #### Original name
-Hygrocybe dorothyi A.M. Young
+Hygrocybe dorothyae A.M. Young
 
 ### Remarks
 null

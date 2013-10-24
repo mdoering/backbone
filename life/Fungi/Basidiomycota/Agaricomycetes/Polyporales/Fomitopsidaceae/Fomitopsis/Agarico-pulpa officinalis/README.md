@@ -1,5 +1,4 @@
-Agarico-pulpa officinalis Paulet SPECIES
-=======
+# Agarico-pulpa officinalis Paulet SPECIES
 
 #### Status
 ACCEPTED

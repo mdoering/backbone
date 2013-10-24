@@ -1,5 +1,4 @@
-Pleurothecium Höhn. GENUS
-=======
+# Pleurothecium Höhn. GENUS
 
 #### Status
 ACCEPTED

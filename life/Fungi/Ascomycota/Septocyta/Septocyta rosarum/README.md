@@ -1,5 +1,4 @@
-Septocyta rosarum Purohit & G.C. Chawla SPECIES
-=======
+# Septocyta rosarum Purohit & G.C. Chawla SPECIES
 
 #### Status
 ACCEPTED

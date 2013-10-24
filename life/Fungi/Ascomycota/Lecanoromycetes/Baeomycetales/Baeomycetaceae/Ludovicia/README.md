@@ -1,5 +1,4 @@
-Ludovicia GENUS
-=======
+# Ludovicia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudodiplodia jahniana (Petr.) Petr. SPECIES
-=======
+# Pseudodiplodia jahniana (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

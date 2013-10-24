@@ -1,5 +1,4 @@
-Ectostroma triglochinis Oudem. SPECIES
-=======
+# Ectostroma triglochinis Oudem. SPECIES
 
 #### Status
 ACCEPTED

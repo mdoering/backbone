@@ -1,5 +1,4 @@
-Tyromyces cremeicarneus Corner SPECIES
-=======
+# Tyromyces cremeicarneus Corner SPECIES
 
 #### Status
 ACCEPTED

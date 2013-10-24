@@ -1,5 +1,4 @@
-Ramalina maderensis Motyka SPECIES
-=======
+# Ramalina maderensis Motyka SPECIES
 
 #### Status
 ACCEPTED

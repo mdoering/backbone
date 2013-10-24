@@ -1,5 +1,4 @@
-Lecanidium variolosum var. variolosum VARIETY
-=======
+# Lecanidium variolosum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanidium variolosum var. variolosum
+Lecanidium variolosum
 
 ### Remarks
 null

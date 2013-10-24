@@ -1,5 +1,4 @@
-Adornofusa A.R. Loeblich Jr. & H. Tappan, 1978 GENUS
-=======
+# Adornofusa A.R. Loeblich Jr. & H. Tappan, 1978 GENUS
 
 #### Status
 ACCEPTED

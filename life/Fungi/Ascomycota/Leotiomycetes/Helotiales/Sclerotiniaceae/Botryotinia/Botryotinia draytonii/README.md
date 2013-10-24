@@ -1,17 +1,16 @@
-Sclerotinia draytoni Buddin & Wakef. SPECIES
-=======
+# Botryotinia draytonii (Buddin & Wakef.) Seaver, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+North American Cup-fungi (New York), (Inoperculates) 62 (1951)
 
 #### Original name
-Sclerotinia draytoni Buddin & Wakef.
+Sclerotinia draytonii Buddin & Wakef., 1946
 
 ### Remarks
 null

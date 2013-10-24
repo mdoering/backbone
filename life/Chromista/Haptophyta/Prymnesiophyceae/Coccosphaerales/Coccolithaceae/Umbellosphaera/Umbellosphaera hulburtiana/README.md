@@ -1,5 +1,4 @@
-Umbellosphaera hulburtiana SPECIES
-=======
+# Umbellosphaera hulburtiana SPECIES
 
 #### Status
 ACCEPTED

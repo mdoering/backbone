@@ -1,5 +1,4 @@
-Flammula nashii Murrill SPECIES
-=======
+# Flammula nashii Murrill SPECIES
 
 #### Status
 ACCEPTED

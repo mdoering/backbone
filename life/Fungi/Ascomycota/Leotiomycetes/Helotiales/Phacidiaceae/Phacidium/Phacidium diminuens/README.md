@@ -1,5 +1,4 @@
-Phacidium diminuens var. diminuens VARIETY
-=======
+# Phacidium diminuens P. Karst. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phacidium diminuens var. diminuens
+Phacidium diminuens P. Karst.
 
 ### Remarks
 null

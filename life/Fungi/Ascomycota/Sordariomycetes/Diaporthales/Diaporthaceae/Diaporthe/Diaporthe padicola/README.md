@@ -1,5 +1,4 @@
-Diaporthe padicola Petr. SPECIES
-=======
+# Diaporthe padicola Petr. SPECIES
 
 #### Status
 ACCEPTED

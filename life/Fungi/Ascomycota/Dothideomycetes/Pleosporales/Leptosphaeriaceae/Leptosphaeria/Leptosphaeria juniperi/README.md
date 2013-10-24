@@ -1,5 +1,4 @@
-Leptosphaeria juniperi Fautrey SPECIES
-=======
+# Leptosphaeria juniperi Fautrey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia linosyridis-vernae Gäum. SPECIES
-=======
+# Puccinia linosyridis-vernae Gäum. SPECIES
 
 #### Status
 ACCEPTED

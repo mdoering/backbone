@@ -1,5 +1,4 @@
-Russula sericella Murrill SPECIES
-=======
+# Russula sericella Murrill SPECIES
 
 #### Status
 ACCEPTED

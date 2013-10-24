@@ -1,5 +1,4 @@
-Lecidea metabola SPECIES
-=======
+# Lecidea metabola SPECIES
 
 #### Status
 ACCEPTED

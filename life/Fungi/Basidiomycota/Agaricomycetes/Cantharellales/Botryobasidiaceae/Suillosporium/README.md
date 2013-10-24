@@ -1,5 +1,4 @@
-Suillosporium Pouzar GENUS
-=======
+# Suillosporium Pouzar GENUS
 
 #### Status
 ACCEPTED

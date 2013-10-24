@@ -1,5 +1,4 @@
-Cercospora osbeckiae Chona, Lall & Munjal SPECIES
-=======
+# Cercospora osbeckiae Chona, Lall & Munjal SPECIES
 
 #### Status
 ACCEPTED

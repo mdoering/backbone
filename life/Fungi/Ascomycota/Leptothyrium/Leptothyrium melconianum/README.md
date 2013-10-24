@@ -1,5 +1,4 @@
-Leptothyrium melconianum Unamuno SPECIES
-=======
+# Leptothyrium melconianum Unamuno SPECIES
 
 #### Status
 ACCEPTED

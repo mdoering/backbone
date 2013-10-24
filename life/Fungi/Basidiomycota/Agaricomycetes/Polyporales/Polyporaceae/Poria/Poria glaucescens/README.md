@@ -1,5 +1,4 @@
-Poria glaucescens Petch SPECIES
-=======
+# Poria glaucescens Petch SPECIES
 
 #### Status
 ACCEPTED

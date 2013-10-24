@@ -1,5 +1,4 @@
-Cryptococcus curvatus (Diddens & Lodder) Golubev, 1981 SPECIES
-=======
+# Cryptococcus curvatus (Diddens & Lodder) Golubev, 1981 SPECIES
 
 #### Status
 ACCEPTED

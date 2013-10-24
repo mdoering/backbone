@@ -1,8 +1,7 @@
-Phacus enigmaticus Drezepolski SPECIES
-=======
+# Phacus striatus (Drezepolski) Francé SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

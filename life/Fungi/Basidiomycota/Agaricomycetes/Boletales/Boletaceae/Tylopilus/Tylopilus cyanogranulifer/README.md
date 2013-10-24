@@ -1,5 +1,4 @@
-Tylopilus cyanogranulifer T.H. Li, Watling & N.M. Greg. SPECIES
-=======
+# Tylopilus cyanogranulifer T.H. Li, Watling & N.M. Greg. SPECIES
 
 #### Status
 ACCEPTED

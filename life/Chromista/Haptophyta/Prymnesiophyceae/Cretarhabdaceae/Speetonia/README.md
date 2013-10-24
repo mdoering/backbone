@@ -1,5 +1,4 @@
-Speetonia M. Black, 1971 GENUS
-=======
+# Speetonia M. Black, 1971 GENUS
 
 #### Status
 ACCEPTED

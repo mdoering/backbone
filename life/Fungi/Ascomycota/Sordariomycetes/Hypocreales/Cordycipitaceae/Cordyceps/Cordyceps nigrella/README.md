@@ -1,5 +1,4 @@
-Cordyceps nigrella Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps nigrella Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

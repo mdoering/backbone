@@ -1,5 +1,4 @@
-Hendersonia caricis-pendulae Unamuno SPECIES
-=======
+# Hendersonia caricis-pendulae Unamuno SPECIES
 
 #### Status
 ACCEPTED

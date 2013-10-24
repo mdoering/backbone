@@ -1,5 +1,4 @@
-Systremmopsis Petr. GENUS
-=======
+# Systremmopsis Petr. GENUS
 
 #### Status
 ACCEPTED

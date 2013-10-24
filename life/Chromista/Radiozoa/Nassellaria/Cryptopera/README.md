@@ -1,14 +1,13 @@
-Cryptopora GENUS
-=======
+# Cryptopera Haeckel, 1881 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+Jena. Z. , 15, 433.
 
 #### Original name
 null

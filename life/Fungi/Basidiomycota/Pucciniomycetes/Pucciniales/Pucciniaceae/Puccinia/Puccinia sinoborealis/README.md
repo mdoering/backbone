@@ -1,5 +1,4 @@
-Puccinia sinoborealis S.X. Wei & Y.C. Wang SPECIES
-=======
+# Puccinia sinoborealis S.X. Wei & Y.C. Wang SPECIES
 
 #### Status
 ACCEPTED

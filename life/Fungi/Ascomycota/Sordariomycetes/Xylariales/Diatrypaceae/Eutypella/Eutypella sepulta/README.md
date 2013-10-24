@@ -1,5 +1,4 @@
-Eutypella sepulta (Berk. & M.A. Curtis) Dearn. SPECIES
-=======
+# Eutypella sepulta (Berk. & M.A. Curtis) Dearn. SPECIES
 
 #### Status
 ACCEPTED

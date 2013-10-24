@@ -1,5 +1,4 @@
-Chalara constricta Nag Raj & W.B. Kendr., 1976 SPECIES
-=======
+# Chalara constricta Nag Raj & W.B. Kendr., 1976 SPECIES
 
 #### Status
 ACCEPTED

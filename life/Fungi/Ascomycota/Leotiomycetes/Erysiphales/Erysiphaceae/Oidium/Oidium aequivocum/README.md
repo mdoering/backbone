@@ -1,5 +1,4 @@
-Oidium aequivocum Berk. & Broome SPECIES
-=======
+# Oidium aequivocum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

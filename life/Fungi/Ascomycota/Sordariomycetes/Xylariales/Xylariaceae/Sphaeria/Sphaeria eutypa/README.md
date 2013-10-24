@@ -1,5 +1,4 @@
-Sphaeria eutypa var. eutypa Fr. VARIETY
-=======
+# Sphaeria eutypa ß eutypa Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaeria eutypa var. eutypa Fr.
+Sphaeria eutypa ß eutypa Fr.
 
 ### Remarks
 null

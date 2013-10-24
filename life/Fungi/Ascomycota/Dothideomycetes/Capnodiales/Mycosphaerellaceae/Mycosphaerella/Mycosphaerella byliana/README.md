@@ -1,5 +1,4 @@
-Mycosphaerella byliana Syd. SPECIES
-=======
+# Mycosphaerella byliana Syd. SPECIES
 
 #### Status
 ACCEPTED

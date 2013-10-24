@@ -1,5 +1,4 @@
-Pseudoclavulina juncea Cushman, 1936 SPECIES
-=======
+# Pseudoclavulina juncea Cushman, 1936 SPECIES
 
 #### Status
 ACCEPTED

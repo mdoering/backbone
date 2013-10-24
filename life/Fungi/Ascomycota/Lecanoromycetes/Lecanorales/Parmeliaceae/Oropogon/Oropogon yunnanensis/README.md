@@ -1,5 +1,4 @@
-Oropogon yunnanensis Essl. SPECIES
-=======
+# Oropogon yunnanensis Essl. SPECIES
 
 #### Status
 ACCEPTED

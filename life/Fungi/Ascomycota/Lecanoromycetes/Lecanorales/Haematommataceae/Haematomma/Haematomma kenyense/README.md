@@ -1,5 +1,4 @@
-Haematomma kenyense Kalb & Staiger SPECIES
-=======
+# Haematomma kenyense Kalb & Staiger SPECIES
 
 #### Status
 ACCEPTED

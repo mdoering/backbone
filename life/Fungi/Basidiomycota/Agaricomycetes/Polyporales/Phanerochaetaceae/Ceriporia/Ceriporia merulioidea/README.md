@@ -1,5 +1,4 @@
-Ceriporia merulioidea Ryvarden, 2010 SPECIES
-=======
+# Ceriporia merulioidea Ryvarden, 2010 SPECIES
 
 #### Status
 ACCEPTED

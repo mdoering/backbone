@@ -1,5 +1,4 @@
-Cercospora balaghatensis S.M. Singh SPECIES
-=======
+# Cercospora balaghatensis S.M. Singh SPECIES
 
 #### Status
 ACCEPTED

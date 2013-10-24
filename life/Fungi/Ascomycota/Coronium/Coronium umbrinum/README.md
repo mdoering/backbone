@@ -1,5 +1,4 @@
-Coronium umbrinum Bonord. SPECIES
-=======
+# Coronium umbrinum Bonord. SPECIES
 
 #### Status
 ACCEPTED

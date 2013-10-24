@@ -1,5 +1,4 @@
-Naucoria erebia Huijsman SPECIES
-=======
+# Naucoria erebia Huijsman SPECIES
 
 #### Status
 ACCEPTED

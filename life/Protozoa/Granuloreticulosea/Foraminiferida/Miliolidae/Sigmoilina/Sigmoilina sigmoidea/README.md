@@ -1,5 +1,4 @@
-Sigmoilina sigmoidea SPECIES
-=======
+# Sigmoilina sigmoidea SPECIES
 
 #### Status
 ACCEPTED

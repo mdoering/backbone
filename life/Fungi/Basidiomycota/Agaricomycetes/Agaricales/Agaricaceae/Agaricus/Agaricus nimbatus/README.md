@@ -1,5 +1,4 @@
-Agaricus nimbatus Batsch SPECIES
-=======
+# Agaricus nimbatus Batsch SPECIES
 
 #### Status
 ACCEPTED

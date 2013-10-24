@@ -1,5 +1,4 @@
-Metadiplodia thujae (Westend.) Zambett. SPECIES
-=======
+# Metadiplodia thujae (Westend.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

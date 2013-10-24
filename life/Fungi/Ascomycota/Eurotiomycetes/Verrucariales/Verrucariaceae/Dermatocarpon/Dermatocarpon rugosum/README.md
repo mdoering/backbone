@@ -1,5 +1,4 @@
-Dermatocarpon rugosum Werner & Dechatres SPECIES
-=======
+# Dermatocarpon rugosum Werner & Dechatres SPECIES
 
 #### Status
 ACCEPTED

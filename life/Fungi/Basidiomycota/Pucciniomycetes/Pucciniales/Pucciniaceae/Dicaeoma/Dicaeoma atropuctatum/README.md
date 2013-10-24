@@ -1,5 +1,4 @@
-Dicaeoma atropuctatum (Peck & Cooke) Kuntze SPECIES
-=======
+# Dicaeoma atropuctatum (Peck & Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

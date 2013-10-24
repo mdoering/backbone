@@ -1,5 +1,4 @@
-Xylaria barbata Starbäck SPECIES
-=======
+# Xylaria barbata Starbäck SPECIES
 
 #### Status
 ACCEPTED

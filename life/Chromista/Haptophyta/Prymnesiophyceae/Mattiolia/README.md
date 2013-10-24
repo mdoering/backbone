@@ -1,5 +1,4 @@
-Mattiolia P.R. Bown, 2005 GENUS
-=======
+# Mattiolia P.R. Bown, 2005 GENUS
 
 #### Status
 ACCEPTED

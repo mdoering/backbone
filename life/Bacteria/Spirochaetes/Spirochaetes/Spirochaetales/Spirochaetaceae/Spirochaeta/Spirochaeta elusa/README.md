@@ -1,5 +1,4 @@
-Spirochaeta elusa SPECIES
-=======
+# Spirochaeta elusa SPECIES
 
 #### Status
 ACCEPTED

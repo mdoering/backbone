@@ -1,5 +1,4 @@
-Lecidea nigrita Schaer. SPECIES
-=======
+# Lecidea nigrita Schaer. SPECIES
 
 #### Status
 ACCEPTED

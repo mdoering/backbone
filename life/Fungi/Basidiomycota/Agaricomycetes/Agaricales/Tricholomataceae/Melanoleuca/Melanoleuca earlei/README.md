@@ -1,5 +1,4 @@
-Melanoleuca earlei (Murrill) Singer SPECIES
-=======
+# Melanoleuca earlei (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

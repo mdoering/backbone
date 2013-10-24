@@ -1,5 +1,4 @@
-Stichocibicides Cushman & Bermúdez, 1936 GENUS
-=======
+# Stichocibicides Cushman & Bermúdez, 1936 GENUS
 
 #### Status
 ACCEPTED

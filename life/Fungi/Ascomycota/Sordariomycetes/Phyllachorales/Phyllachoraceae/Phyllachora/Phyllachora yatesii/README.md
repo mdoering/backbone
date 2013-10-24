@@ -1,17 +1,16 @@
-Trabutia chinense H.S. Yates SPECIES
-=======
+# Phyllachora yatesii E. Castell. & Cif., 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Prodr. Mycofl. Afr. orient. Ital. 23 (1937)
 
 #### Original name
-Trabutia chinense H.S. Yates
+Trabutia chinensis H.S. Yates, 1917
 
 ### Remarks
 null

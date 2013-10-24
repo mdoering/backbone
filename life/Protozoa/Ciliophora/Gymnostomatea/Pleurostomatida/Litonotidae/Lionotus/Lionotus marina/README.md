@@ -1,5 +1,4 @@
-Lionotus marina Kahl, 1931 SPECIES
-=======
+# Lionotus marina Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

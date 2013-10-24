@@ -1,5 +1,4 @@
-Peronospora cephalariae-laevigatae Savul. & Rayss SPECIES
-=======
+# Peronospora cephalariae-laevigatae Savul. & Rayss SPECIES
 
 #### Status
 ACCEPTED

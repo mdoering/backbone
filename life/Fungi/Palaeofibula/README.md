@@ -1,5 +1,4 @@
-Palaeofibula J.M. Osborn, T.N. Taylor & J.F. White GENUS
-=======
+# Palaeofibula J.M. Osborn, T.N. Taylor & J.F. White GENUS
 
 #### Status
 ACCEPTED

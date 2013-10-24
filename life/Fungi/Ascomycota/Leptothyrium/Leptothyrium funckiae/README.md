@@ -1,5 +1,4 @@
-Leptothyrium funckiae Oudem. SPECIES
-=======
+# Leptothyrium funckiae Oudem. SPECIES
 
 #### Status
 ACCEPTED

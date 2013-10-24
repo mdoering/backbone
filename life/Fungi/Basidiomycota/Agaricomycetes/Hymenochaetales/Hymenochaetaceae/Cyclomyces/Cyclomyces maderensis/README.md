@@ -1,5 +1,4 @@
-Cyclomyces maderensis Torrend SPECIES
-=======
+# Cyclomyces maderensis Torrend SPECIES
 
 #### Status
 ACCEPTED

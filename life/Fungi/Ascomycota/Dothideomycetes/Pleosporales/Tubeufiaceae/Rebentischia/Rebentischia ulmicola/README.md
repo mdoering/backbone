@@ -1,5 +1,4 @@
-Rebentischia ulmicola Fautrey & Lambotte SPECIES
-=======
+# Rebentischia ulmicola Fautrey & Lambotte SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza baeomycoides var. baeomycoides VARIETY
-=======
+# Peziza baeomycoides (Rehm) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peziza baeomycoides var. baeomycoides
+Plicaria baeomycoides Rehm
 
 ### Remarks
 null

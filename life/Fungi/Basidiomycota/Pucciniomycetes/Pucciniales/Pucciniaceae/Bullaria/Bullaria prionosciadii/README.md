@@ -1,5 +1,4 @@
-Bullaria prionosciadii (Lindr.) Arthur & Mains SPECIES
-=======
+# Bullaria prionosciadii (Lindr.) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

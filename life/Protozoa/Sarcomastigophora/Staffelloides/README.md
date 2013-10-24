@@ -1,5 +1,4 @@
-Staffelloides Liem, 1976 GENUS
-=======
+# Staffelloides Liem, 1976 GENUS
 
 #### Status
 ACCEPTED

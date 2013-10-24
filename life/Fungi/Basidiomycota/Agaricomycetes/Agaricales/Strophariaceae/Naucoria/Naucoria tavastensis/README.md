@@ -1,5 +1,4 @@
-Naucoria tavastensis P. Karst. SPECIES
-=======
+# Naucoria tavastensis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

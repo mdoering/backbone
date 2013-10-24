@@ -1,5 +1,4 @@
-Flammula earlei Murrill SPECIES
-=======
+# Flammula earlei Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora valsoidea Sacc. & Briard SPECIES
-=======
+# Stagonospora valsoidea Sacc. & Briard SPECIES
 
 #### Status
 ACCEPTED

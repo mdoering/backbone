@@ -1,5 +1,4 @@
-Ascochyta ilicis Grove SPECIES
-=======
+# Ascochyta ilicis Grove SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelotrema euphorbiae Frisch SPECIES
-=======
+# Thelotrema euphorbiae Frisch SPECIES
 
 #### Status
 ACCEPTED

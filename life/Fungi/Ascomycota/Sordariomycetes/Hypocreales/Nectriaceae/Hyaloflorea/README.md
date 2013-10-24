@@ -1,5 +1,4 @@
-Hyaloflorea GENUS
-=======
+# Hyaloflorea GENUS
 
 #### Status
 ACCEPTED

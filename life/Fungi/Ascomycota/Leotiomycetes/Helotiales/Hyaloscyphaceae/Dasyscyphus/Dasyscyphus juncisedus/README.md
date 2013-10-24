@@ -1,8 +1,7 @@
-Dasyscypha juncisedus (J. Schröt.) Sacc. SPECIES
-=======
+# Dasyscyphus juncisedus (J. Schröt.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

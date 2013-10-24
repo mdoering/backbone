@@ -1,5 +1,4 @@
-Coriolellus ornatus (Peck) Kotl. & Pouzar SPECIES
-=======
+# Coriolellus ornatus (Peck) Kotl. & Pouzar SPECIES
 
 #### Status
 ACCEPTED

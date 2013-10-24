@@ -1,5 +1,4 @@
-Parmelia eurycarpa J. Steiner & Zahlbr. SPECIES
-=======
+# Parmelia eurycarpa J. Steiner & Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tarichium phytonomi Jacz. SPECIES
-=======
+# Tarichium phytonomi Jacz. SPECIES
 
 #### Status
 ACCEPTED

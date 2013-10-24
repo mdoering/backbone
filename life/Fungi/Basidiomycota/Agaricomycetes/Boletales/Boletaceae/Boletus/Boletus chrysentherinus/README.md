@@ -1,5 +1,4 @@
-Boletus chrysentherinus Schumach. SPECIES
-=======
+# Boletus chrysentherinus Schumach. SPECIES
 
 #### Status
 ACCEPTED

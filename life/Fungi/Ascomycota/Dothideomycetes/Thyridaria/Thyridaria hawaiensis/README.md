@@ -1,5 +1,4 @@
-Thyridaria hawaiensis Lar.N. Vassiljeva & J.D. Rogers, 2010 SPECIES
-=======
+# Thyridaria hawaiensis Lar.N. Vassiljeva & J.D. Rogers, 2010 SPECIES
 
 #### Status
 ACCEPTED

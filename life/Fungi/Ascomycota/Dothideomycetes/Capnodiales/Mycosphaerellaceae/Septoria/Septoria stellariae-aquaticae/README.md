@@ -1,5 +1,4 @@
-Septoria stellariae-aquaticae Chevassut & Pellic. SPECIES
-=======
+# Septoria stellariae-aquaticae Chevassut & Pellic. SPECIES
 
 #### Status
 ACCEPTED

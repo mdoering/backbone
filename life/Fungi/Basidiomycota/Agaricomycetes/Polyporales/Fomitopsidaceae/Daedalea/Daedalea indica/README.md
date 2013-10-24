@@ -1,5 +1,4 @@
-Daedalea indica Jungh. SPECIES
-=======
+# Daedalea indica Jungh. SPECIES
 
 #### Status
 ACCEPTED

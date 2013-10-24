@@ -1,5 +1,4 @@
-Lepraria bergensis Tønsberg SPECIES
-=======
+# Lepraria bergensis Tønsberg SPECIES
 
 #### Status
 ACCEPTED

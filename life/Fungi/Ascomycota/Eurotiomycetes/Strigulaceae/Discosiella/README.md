@@ -1,5 +1,4 @@
-Discosiella GENUS
-=======
+# Discosiella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stachybotrys queenslandica Matsush. SPECIES
-=======
+# Stachybotrys queenslandica Matsush. SPECIES
 
 #### Status
 ACCEPTED

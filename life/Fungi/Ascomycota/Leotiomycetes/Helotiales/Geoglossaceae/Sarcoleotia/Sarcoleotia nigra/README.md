@@ -1,5 +1,4 @@
-Sarcoleotia nigra S. Ito & S. Imai, 1934 SPECIES
-=======
+# Sarcoleotia nigra S. Ito & S. Imai, 1934 SPECIES
 
 #### Status
 ACCEPTED

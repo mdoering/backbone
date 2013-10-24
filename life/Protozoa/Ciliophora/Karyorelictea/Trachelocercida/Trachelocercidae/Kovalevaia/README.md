@@ -1,5 +1,4 @@
-Kovalevaia Foissner, 1997 GENUS
-=======
+# Kovalevaia Foissner, 1997 GENUS
 
 #### Status
 ACCEPTED

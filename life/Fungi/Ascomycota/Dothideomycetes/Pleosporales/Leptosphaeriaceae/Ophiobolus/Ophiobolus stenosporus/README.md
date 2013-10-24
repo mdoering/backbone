@@ -1,5 +1,4 @@
-Ophiobolus stenosporus P. Karst. SPECIES
-=======
+# Ophiobolus stenosporus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

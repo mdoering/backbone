@@ -1,5 +1,4 @@
-Padina thivyae Doty & Newhouse, 1966 SPECIES
-=======
+# Padina thivyae Doty & Newhouse, 1966 SPECIES
 
 #### Status
 ACCEPTED

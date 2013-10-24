@@ -1,5 +1,4 @@
-Archaeodiscina Naumova GENUS
-=======
+# Archaeodiscina Naumova GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotium palliolatum (Ehrenb.) Fr. SPECIES
-=======
+# Sclerotium palliolatum (Ehrenb.) Fr. SPECIES
 
 #### Status
 ACCEPTED

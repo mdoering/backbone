@@ -1,17 +1,16 @@
-Neolinocarpon nonappendiculatus K.D. Hyde, Joanne E. Taylor & J. Fröhl. SPECIES
-=======
+# Neolinocarpon nonappendiculatum K.D. Hyde, Joanne E. Taylor & J. Fröhl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fungal Diversity 1: 128 (1998)
 
 #### Original name
-Neolinocarpon nonappendiculatus K.D. Hyde, Joanne E. Taylor & J. Fröhl.
+Neolinocarpon nonappendiculatum K.D. Hyde, Joanne E. Taylor & J. Fröhl.
 
 ### Remarks
 null

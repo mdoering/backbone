@@ -1,5 +1,4 @@
-Stictis corrugata Speg. SPECIES
-=======
+# Stictis corrugata Speg. SPECIES
 
 #### Status
 ACCEPTED

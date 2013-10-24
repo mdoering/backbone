@@ -1,5 +1,4 @@
-Pseudopyrenula jordanii C.W. Dodge SPECIES
-=======
+# Pseudopyrenula jordanii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

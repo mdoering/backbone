@@ -1,5 +1,4 @@
-Lecanora wetmorei Sliwa SPECIES
-=======
+# Lecanora wetmorei Sliwa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galerina rugosa A.E. Wood SPECIES
-=======
+# Galerina rugosa A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

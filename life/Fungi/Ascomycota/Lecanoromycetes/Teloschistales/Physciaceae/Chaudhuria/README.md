@@ -1,5 +1,4 @@
-Chaudhuria GENUS
-=======
+# Chaudhuria GENUS
 
 #### Status
 ACCEPTED

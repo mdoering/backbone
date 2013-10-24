@@ -1,5 +1,4 @@
-Biecheleriaceae FAMILY
-=======
+# Biecheleriaceae FAMILY
 
 #### Status
 ACCEPTED

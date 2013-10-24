@@ -1,17 +1,16 @@
-Pseudohelotium teucrii f. teucrii FORM
-=======
+# Mollisia teucrii (Fuckel) Rehm, 1891 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 294 (1889)
+null
 
 #### Original name
-Pseudohelotium teucrii f. teucrii
+Niptera teucrii Fuckel, 1871
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Orthodonella Bhatia, 1936 GENUS
-=======
+# Orthodonella Bhatia, 1936 GENUS
 
 #### Status
 ACCEPTED

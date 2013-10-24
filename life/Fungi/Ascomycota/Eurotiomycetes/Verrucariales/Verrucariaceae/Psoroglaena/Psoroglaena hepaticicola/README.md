@@ -1,14 +1,13 @@
-Psoroglaena hepaticola (Döbbeler & Vezda) H. Harada SPECIES
-=======
+# Psoroglaena hepaticicola (Döbbeler & Vezda) H. Harada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lichenology 2(1): 9 (2003)
 
 #### Original name
 Macentina hepaticicola Döbbeler & Vezda

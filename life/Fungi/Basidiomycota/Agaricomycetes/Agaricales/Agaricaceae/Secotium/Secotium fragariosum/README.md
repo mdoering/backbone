@@ -1,5 +1,4 @@
-Secotium fragariosum G. Cunn., 1952 SPECIES
-=======
+# Secotium fragariosum G. Cunn., 1952 SPECIES
 
 #### Status
 ACCEPTED

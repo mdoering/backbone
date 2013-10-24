@@ -1,11 +1,10 @@
-Microcystis elachista subsp. elachista SUBSPECIES
-=======
+# Microcystis elachista (W. West & G.S. West) Compère SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

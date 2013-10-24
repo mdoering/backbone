@@ -1,5 +1,4 @@
-Gyrodon miretipes Heinem. & Rammeloo SPECIES
-=======
+# Gyrodon miretipes Heinem. & Rammeloo SPECIES
 
 #### Status
 ACCEPTED

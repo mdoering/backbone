@@ -1,5 +1,4 @@
-Sporidesmium granulosum Durieu & Mont. SPECIES
-=======
+# Sporidesmium granulosum Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella amphilophis (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella amphilophis (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

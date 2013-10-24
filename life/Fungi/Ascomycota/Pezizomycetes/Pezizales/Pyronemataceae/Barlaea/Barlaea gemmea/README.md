@@ -1,5 +1,4 @@
-Barlaea gemmea (W. Phillips) Sacc. SPECIES
-=======
+# Barlaea gemmea (W. Phillips) Sacc. SPECIES
 
 #### Status
 ACCEPTED

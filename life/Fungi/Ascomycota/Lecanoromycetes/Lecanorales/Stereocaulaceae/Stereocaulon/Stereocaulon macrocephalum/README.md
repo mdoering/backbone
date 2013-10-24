@@ -1,5 +1,4 @@
-Stereocaulon macrocephalum Müll. Arg. SPECIES
-=======
+# Stereocaulon macrocephalum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

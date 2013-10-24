@@ -1,5 +1,4 @@
-Depazea carpinea (Schwein.) Fr. SPECIES
-=======
+# Depazea carpinea (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

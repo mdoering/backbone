@@ -1,5 +1,4 @@
-Thelephora leichkardtiana Lév. SPECIES
-=======
+# Thelephora leichkardtiana Lév. SPECIES
 
 #### Status
 ACCEPTED

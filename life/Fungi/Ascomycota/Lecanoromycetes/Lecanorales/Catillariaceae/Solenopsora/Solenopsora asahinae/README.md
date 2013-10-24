@@ -1,5 +1,4 @@
-Solenopsora asahinae Zahlbr. ex Asahina SPECIES
-=======
+# Solenopsora asahinae Zahlbr. ex Asahina SPECIES
 
 #### Status
 ACCEPTED

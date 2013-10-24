@@ -1,5 +1,4 @@
-Diceratigalea Takemura & Nakeseko, 1982 GENUS
-=======
+# Diceratigalea Takemura & Nakeseko, 1982 GENUS
 
 #### Status
 ACCEPTED

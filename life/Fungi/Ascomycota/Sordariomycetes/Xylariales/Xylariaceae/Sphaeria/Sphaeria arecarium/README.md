@@ -1,5 +1,4 @@
-Sphaeria arecarium Bory SPECIES
-=======
+# Sphaeria arecarium Bory SPECIES
 
 #### Status
 ACCEPTED

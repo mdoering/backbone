@@ -1,5 +1,4 @@
-Cryptodiaporthe macounii (Dearn.) Wehm. SPECIES
-=======
+# Cryptodiaporthe macounii (Dearn.) Wehm. SPECIES
 
 #### Status
 ACCEPTED

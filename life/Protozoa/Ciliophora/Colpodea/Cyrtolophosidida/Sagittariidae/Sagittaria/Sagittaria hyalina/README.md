@@ -1,5 +1,4 @@
-Sagittaria hyalina Foissner, Czapik & Wiackowski, 1981 SPECIES
-=======
+# Sagittaria hyalina Foissner, Czapik & Wiackowski, 1981 SPECIES
 
 #### Status
 ACCEPTED

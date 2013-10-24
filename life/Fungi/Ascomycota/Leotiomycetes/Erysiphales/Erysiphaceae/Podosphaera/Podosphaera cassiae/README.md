@@ -1,5 +1,4 @@
-Podosphaera cassiae (Pandotra & Ganguly) U. Braun & S. Takam. SPECIES
-=======
+# Podosphaera cassiae (Pandotra & Ganguly) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

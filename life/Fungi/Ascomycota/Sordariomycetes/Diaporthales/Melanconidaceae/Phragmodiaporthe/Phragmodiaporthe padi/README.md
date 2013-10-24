@@ -1,5 +1,4 @@
-Phragmodiaporthe padi Lar.N. Vassiljeva SPECIES
-=======
+# Phragmodiaporthe padi Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

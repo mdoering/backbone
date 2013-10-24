@@ -1,17 +1,16 @@
-Agaricus mniatopodius F. Muell. SPECIES
-=======
+# Agaricus miniatopodius F. Muell. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 4(no. 30): 72 (1875)
 
 #### Original name
-Agaricus mniatopodius F. Muell.
+Agaricus miniatopodius F. Muell.
 
 ### Remarks
 null

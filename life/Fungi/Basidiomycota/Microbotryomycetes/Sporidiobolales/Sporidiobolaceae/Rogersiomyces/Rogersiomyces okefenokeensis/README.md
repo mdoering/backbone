@@ -1,5 +1,4 @@
-Rogersiomyces okefenokeensis J.L. Crane & Schokn., 1978 SPECIES
-=======
+# Rogersiomyces okefenokeensis J.L. Crane & Schokn., 1978 SPECIES
 
 #### Status
 ACCEPTED

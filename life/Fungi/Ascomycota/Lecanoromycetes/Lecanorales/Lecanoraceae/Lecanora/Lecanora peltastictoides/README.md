@@ -1,5 +1,4 @@
-Lecanora peltastictoides Hasse SPECIES
-=======
+# Lecanora peltastictoides Hasse SPECIES
 
 #### Status
 ACCEPTED

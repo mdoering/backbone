@@ -1,14 +1,13 @@
-Trematostoma morthieri (Fuckel) Shear, 1942 SPECIES
-=======
+# Zignoëlla morthieri (Fuckel) Sacc., 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 34: 273 (1942)
+Michelia 1(no. 3): 347 (1878)
 
 #### Original name
 Trematosphaeria morthieri Fuckel, 1871

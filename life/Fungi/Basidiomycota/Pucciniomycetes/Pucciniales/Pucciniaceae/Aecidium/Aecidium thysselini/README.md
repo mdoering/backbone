@@ -1,5 +1,4 @@
-Aecidium thysselini Lindr. SPECIES
-=======
+# Aecidium thysselini Lindr. SPECIES
 
 #### Status
 ACCEPTED

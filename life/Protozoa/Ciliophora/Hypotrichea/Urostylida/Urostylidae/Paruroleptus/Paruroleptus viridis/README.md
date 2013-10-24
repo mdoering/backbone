@@ -1,5 +1,4 @@
-Paruroleptus viridis SPECIES
-=======
+# Paruroleptus viridis SPECIES
 
 #### Status
 ACCEPTED

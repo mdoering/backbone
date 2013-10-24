@@ -1,5 +1,4 @@
-Chondrogaster pachysporus Maire, 1924 SPECIES
-=======
+# Chondrogaster pachysporus Maire, 1924 SPECIES
 
 #### Status
 ACCEPTED

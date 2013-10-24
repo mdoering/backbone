@@ -1,5 +1,4 @@
-Gautieria inapire Palfner & E. Horak, 2001 SPECIES
-=======
+# Gautieria inapire Palfner & E. Horak, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Granatisporites melanii (Elsik) Elsik & Janson. SPECIES
-=======
+# Granatisporites melanii (Elsik) Elsik & Janson. SPECIES
 
 #### Status
 ACCEPTED

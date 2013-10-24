@@ -1,5 +1,4 @@
-Macroplodia juglandicola Dearn. & House SPECIES
-=======
+# Macroplodia juglandicola Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

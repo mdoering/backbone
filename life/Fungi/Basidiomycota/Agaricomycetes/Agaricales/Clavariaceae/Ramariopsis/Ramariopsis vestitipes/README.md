@@ -1,17 +1,16 @@
-Clavaria bicolor Peck, 1907 SPECIES
-=======
+# Ramariopsis vestitipes (Peck) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. N. Y. St. Mus. 116: 34 (1907)
+Ann. Bot. Mem. 1: 647 (1950)
 
 #### Original name
-Clavaria bicolor Peck, 1907
+Clavaria vestitipes Peck, 1907
 
 ### Remarks
 null

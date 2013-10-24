@@ -1,5 +1,4 @@
-Sporosarcina aquimarina Yoon et al., 2001 SPECIES
-=======
+# Sporosarcina aquimarina Yoon et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

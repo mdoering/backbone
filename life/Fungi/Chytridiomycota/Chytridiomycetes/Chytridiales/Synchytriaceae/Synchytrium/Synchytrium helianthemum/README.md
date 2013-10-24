@@ -1,5 +1,4 @@
-Synchytrium helianthemum Karling SPECIES
-=======
+# Synchytrium helianthemum Karling SPECIES
 
 #### Status
 ACCEPTED

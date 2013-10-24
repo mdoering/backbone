@@ -1,5 +1,4 @@
-Sphaeria orthogramma Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria orthogramma Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

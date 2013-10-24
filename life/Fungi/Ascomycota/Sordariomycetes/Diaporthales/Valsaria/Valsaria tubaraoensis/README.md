@@ -1,5 +1,4 @@
-Valsaria tubaraoensis (Henn.) Theiss. & Syd. SPECIES
-=======
+# Valsaria tubaraoensis (Henn.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

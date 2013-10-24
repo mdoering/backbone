@@ -1,5 +1,4 @@
-Rhizobium larrymoorei (Bouzar & Jones, 2001) Young, 2004 SPECIES
-=======
+# Rhizobium larrymoorei (Bouzar & Jones, 2001) Young, 2004 SPECIES
 
 #### Status
 ACCEPTED

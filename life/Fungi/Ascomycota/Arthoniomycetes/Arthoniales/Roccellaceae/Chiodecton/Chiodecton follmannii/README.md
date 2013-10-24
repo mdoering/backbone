@@ -1,5 +1,4 @@
-Chiodecton follmannii Riedl SPECIES
-=======
+# Chiodecton follmannii Riedl SPECIES
 
 #### Status
 ACCEPTED

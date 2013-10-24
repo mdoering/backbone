@@ -1,5 +1,4 @@
-Diploschistes subscruposus (Nyl.) Zahlbr. SPECIES
-=======
+# Diploschistes subscruposus (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

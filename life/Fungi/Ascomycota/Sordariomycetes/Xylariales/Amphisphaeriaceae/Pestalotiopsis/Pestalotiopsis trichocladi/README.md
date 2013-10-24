@@ -1,5 +1,4 @@
-Pestalotiopsis trichocladi (Laughton) Steyaert SPECIES
-=======
+# Pestalotiopsis trichocladi (Laughton) Steyaert SPECIES
 
 #### Status
 ACCEPTED

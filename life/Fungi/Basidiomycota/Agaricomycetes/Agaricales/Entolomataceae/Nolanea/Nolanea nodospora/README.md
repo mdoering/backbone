@@ -1,5 +1,4 @@
-Nolanea nodospora G.F. Atk. SPECIES
-=======
+# Nolanea nodospora G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

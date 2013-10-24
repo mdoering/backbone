@@ -1,5 +1,4 @@
-Ramaria coralloides var. coralloides VARIETY
-=======
+# Ramaria coralloides Holmsk. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ramaria coralloides var. coralloides
+Ramaria coralloides Holmsk.
 
 ### Remarks
 null

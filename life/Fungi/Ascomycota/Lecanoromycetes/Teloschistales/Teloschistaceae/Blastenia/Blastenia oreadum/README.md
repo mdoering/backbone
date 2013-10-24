@@ -1,5 +1,4 @@
-Blastenia oreadum (Stizenb.) Migula SPECIES
-=======
+# Blastenia oreadum (Stizenb.) Migula SPECIES
 
 #### Status
 ACCEPTED

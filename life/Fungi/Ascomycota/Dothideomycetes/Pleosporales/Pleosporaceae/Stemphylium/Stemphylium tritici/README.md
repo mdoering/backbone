@@ -1,5 +1,4 @@
-Stemphylium tritici K.B. Deshp. & K.S. Deshp. SPECIES
-=======
+# Stemphylium tritici K.B. Deshp. & K.S. Deshp. SPECIES
 
 #### Status
 ACCEPTED

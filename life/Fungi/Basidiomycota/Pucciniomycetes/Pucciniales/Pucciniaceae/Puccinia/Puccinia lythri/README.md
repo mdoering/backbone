@@ -1,5 +1,4 @@
-Puccinia lythri Syrgij SPECIES
-=======
+# Puccinia lythri Syrgij SPECIES
 
 #### Status
 ACCEPTED

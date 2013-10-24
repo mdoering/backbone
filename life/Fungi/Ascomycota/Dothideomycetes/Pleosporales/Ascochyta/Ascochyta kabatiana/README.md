@@ -1,8 +1,7 @@
-Ascochyta laburni Kabát & Bubák, 1912 SPECIES
-=======
+# Ascochyta kabatiana Trotter, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Ascochyta kabatiana Trotter, 1931
 
 ### Remarks
 null

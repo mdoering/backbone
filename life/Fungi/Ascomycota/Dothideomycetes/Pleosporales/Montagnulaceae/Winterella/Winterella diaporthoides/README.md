@@ -1,5 +1,4 @@
-Winterella diaporthoides (Sacc. & Paol.) Berl. SPECIES
-=======
+# Winterella diaporthoides (Sacc. & Paol.) Berl. SPECIES
 
 #### Status
 ACCEPTED

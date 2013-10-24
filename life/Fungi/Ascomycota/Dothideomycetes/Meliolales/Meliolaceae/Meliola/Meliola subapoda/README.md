@@ -1,5 +1,4 @@
-Meliola subapoda Syd. & P. Syd. SPECIES
-=======
+# Meliola subapoda Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

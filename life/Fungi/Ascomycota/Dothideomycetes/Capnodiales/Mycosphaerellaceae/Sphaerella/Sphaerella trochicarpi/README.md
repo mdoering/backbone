@@ -1,5 +1,4 @@
-Sphaerella trochicarpi (Rehm) Sacc. SPECIES
-=======
+# Sphaerella trochicarpi (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

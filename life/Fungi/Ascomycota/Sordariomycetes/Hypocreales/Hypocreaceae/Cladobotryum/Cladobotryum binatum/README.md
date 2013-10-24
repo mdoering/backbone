@@ -1,5 +1,4 @@
-Cladobotryum binatum Preuss SPECIES
-=======
+# Cladobotryum binatum Preuss SPECIES
 
 #### Status
 ACCEPTED

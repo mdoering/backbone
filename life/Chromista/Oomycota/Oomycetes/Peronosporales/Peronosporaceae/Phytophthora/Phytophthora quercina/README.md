@@ -1,5 +1,4 @@
-Phytophthora quercina T. Jung, 1999 SPECIES
-=======
+# Phytophthora quercina T. Jung, 1999 SPECIES
 
 #### Status
 ACCEPTED

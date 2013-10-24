@@ -1,5 +1,4 @@
-Peziza convexa Holmsk. SPECIES
-=======
+# Peziza convexa Holmsk. SPECIES
 
 #### Status
 ACCEPTED

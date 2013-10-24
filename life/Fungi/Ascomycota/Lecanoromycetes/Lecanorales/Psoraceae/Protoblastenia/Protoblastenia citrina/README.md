@@ -1,5 +1,4 @@
-Protoblastenia citrina C.W. Dodge SPECIES
-=======
+# Protoblastenia citrina C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

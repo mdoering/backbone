@@ -1,5 +1,4 @@
-Conocybe tetrasporoides Hauskn. SPECIES
-=======
+# Conocybe tetrasporoides Hauskn. SPECIES
 
 #### Status
 ACCEPTED

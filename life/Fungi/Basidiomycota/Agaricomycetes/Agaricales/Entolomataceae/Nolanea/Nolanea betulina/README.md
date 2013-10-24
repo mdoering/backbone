@@ -1,5 +1,4 @@
-Nolanea betulina Velen. SPECIES
-=======
+# Nolanea betulina Velen. SPECIES
 
 #### Status
 ACCEPTED

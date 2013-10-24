@@ -1,5 +1,4 @@
-Septoria spartranniae SPECIES
-=======
+# Septoria spartranniae SPECIES
 
 #### Status
 ACCEPTED

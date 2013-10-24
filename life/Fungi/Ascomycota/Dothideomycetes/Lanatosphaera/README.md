@@ -1,5 +1,4 @@
-Lanatosphaera Matzer GENUS
-=======
+# Lanatosphaera Matzer GENUS
 
 #### Status
 ACCEPTED

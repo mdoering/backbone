@@ -1,5 +1,4 @@
-Cylindrosporium spigeliae Dearn. & House SPECIES
-=======
+# Cylindrosporium spigeliae Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

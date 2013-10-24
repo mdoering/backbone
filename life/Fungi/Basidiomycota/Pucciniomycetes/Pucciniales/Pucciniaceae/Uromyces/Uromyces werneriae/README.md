@@ -1,5 +1,4 @@
-Uromyces werneriae Lagerh. SPECIES
-=======
+# Uromyces werneriae Lagerh. SPECIES
 
 #### Status
 ACCEPTED

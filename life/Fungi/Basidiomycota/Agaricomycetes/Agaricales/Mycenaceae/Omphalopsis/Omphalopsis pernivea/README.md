@@ -1,5 +1,4 @@
-Omphalopsis pernivea Murrill SPECIES
-=======
+# Omphalopsis pernivea Murrill SPECIES
 
 #### Status
 ACCEPTED

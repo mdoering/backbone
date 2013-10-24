@@ -1,5 +1,4 @@
-Clostridiisalibacter Liebgott et al., 2008 GENUS
-=======
+# Clostridiisalibacter Liebgott et al., 2008 GENUS
 
 #### Status
 ACCEPTED

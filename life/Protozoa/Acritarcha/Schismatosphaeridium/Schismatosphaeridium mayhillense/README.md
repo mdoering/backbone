@@ -1,5 +1,4 @@
-Schismatosphaeridium mayhillense Dorning, 1981 SPECIES
-=======
+# Schismatosphaeridium mayhillense Dorning, 1981 SPECIES
 
 #### Status
 ACCEPTED

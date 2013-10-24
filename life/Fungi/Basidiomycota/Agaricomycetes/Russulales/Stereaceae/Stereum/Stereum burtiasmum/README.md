@@ -1,5 +1,4 @@
-Stereum burtiasmum Lloyd SPECIES
-=======
+# Stereum burtiasmum Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta comoriana Séchet SPECIES
-=======
+# Phyllosticta comoriana Séchet SPECIES
 
 #### Status
 ACCEPTED

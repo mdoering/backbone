@@ -1,5 +1,4 @@
-Maronea siplei C.W. Dodge SPECIES
-=======
+# Maronea siplei C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

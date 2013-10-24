@@ -1,5 +1,4 @@
-Corynespora salasiae R.F. Castañeda, Guarro & Cano SPECIES
-=======
+# Corynespora salasiae R.F. Castañeda, Guarro & Cano SPECIES
 
 #### Status
 ACCEPTED

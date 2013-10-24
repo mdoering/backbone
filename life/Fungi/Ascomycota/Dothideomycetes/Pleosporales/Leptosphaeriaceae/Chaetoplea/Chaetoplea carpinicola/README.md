@@ -1,5 +1,4 @@
-Chaetoplea carpinicola (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Chaetoplea carpinicola (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

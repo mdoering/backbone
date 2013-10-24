@@ -1,5 +1,4 @@
-Lecanora mella SPECIES
-=======
+# Lecanora mella SPECIES
 
 #### Status
 ACCEPTED

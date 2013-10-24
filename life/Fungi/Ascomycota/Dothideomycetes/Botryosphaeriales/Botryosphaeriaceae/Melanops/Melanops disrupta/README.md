@@ -1,5 +1,4 @@
-Melanops disrupta anon. SPECIES
-=======
+# Melanops disrupta anon. SPECIES
 
 #### Status
 ACCEPTED

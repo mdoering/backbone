@@ -1,5 +1,4 @@
-Ornatasphaera R.K. Saxena, A. Chandra & M.G.A.P. Setty, 1982 GENUS
-=======
+# Ornatasphaera R.K. Saxena, A. Chandra & M.G.A.P. Setty, 1982 GENUS
 
 #### Status
 ACCEPTED

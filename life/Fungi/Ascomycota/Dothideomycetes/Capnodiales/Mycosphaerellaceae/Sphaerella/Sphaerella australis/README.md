@@ -1,5 +1,4 @@
-Sphaerella australis Speg. SPECIES
-=======
+# Sphaerella australis Speg. SPECIES
 
 #### Status
 ACCEPTED

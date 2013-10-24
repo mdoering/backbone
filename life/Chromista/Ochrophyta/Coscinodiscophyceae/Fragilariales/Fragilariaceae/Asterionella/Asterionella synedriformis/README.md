@@ -1,5 +1,4 @@
-Asterionella synedriformis Greville SPECIES
-=======
+# Asterionella synedriformis Greville SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laetisaria arvalis Burds., 1980 SPECIES
-=======
+# Laetisaria arvalis Burds., 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pichia tainania Lin {?} & Wu {?} SPECIES
-=======
+# Pichia tainanii Lin {?} & Wu {?} SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Rep. Taiwan Sug. Exp. Stn 56: 75 (1972)
 
 #### Original name
-Pichia tainania Lin {?} & Wu {?}
+Pichia tainanii Lin {?} & Wu {?}
 
 ### Remarks
 null

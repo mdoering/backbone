@@ -1,5 +1,4 @@
-Bernardosphaera Lecal-Schlauder, 1951 GENUS
-=======
+# Bernardosphaera Lecal-Schlauder, 1951 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Boletus torosus var. torosus VARIETY
-=======
+# Boletus torosus Fr. & Hök, 1835 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Boleti, Fungorum generis, illustratio 10 (1835)
 
 #### Original name
-Boletus torosus var. torosus
+Boletus torosus Fr. & Hök, 1835
 
 ### Remarks
 null

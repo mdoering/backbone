@@ -1,5 +1,4 @@
-Aecidium orobi-tuberosi Pers. SPECIES
-=======
+# Aecidium orobi-tuberosi Pers. SPECIES
 
 #### Status
 ACCEPTED

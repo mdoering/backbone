@@ -1,5 +1,4 @@
-Mycena chlorina Henn. SPECIES
-=======
+# Mycena chlorina Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiostoma radiaticola J.J. Kim, Seifert & G.H. Kim, 2005 SPECIES
-=======
+# Ophiostoma radiaticola J.J. Kim, Seifert & G.H. Kim, 2005 SPECIES
 
 #### Status
 ACCEPTED

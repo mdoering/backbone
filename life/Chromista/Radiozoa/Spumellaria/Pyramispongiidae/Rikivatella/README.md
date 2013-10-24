@@ -1,5 +1,4 @@
-Rikivatella GENUS
-=======
+# Rikivatella GENUS
 
 #### Status
 ACCEPTED

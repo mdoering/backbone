@@ -1,5 +1,4 @@
-Didymium karstensii Nann.-Bremek., 1964 SPECIES
-=======
+# Didymium karstensii Nann.-Bremek., 1964 SPECIES
 
 #### Status
 ACCEPTED

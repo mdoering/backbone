@@ -1,5 +1,4 @@
-Rhizina spongiosa Berk. & M.A. Curtis SPECIES
-=======
+# Rhizina spongiosa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

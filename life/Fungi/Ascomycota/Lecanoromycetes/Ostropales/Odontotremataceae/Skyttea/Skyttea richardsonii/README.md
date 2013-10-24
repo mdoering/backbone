@@ -1,5 +1,4 @@
-Skyttea richardsonii Iturr. & D. Hawksw. SPECIES
-=======
+# Skyttea richardsonii Iturr. & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

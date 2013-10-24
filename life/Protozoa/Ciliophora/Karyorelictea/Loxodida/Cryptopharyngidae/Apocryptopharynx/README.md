@@ -1,5 +1,4 @@
-Apocryptopharynx Foissner, 1996 GENUS
-=======
+# Apocryptopharynx Foissner, 1996 GENUS
 
 #### Status
 ACCEPTED

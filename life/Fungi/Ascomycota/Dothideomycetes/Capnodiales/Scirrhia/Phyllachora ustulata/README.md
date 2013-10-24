@@ -1,8 +1,7 @@
-Rhytisma ustulatum Cooke, 1876 SPECIES
-=======
+# Phyllachora ustulata (Cooke) Höhn., 1910 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

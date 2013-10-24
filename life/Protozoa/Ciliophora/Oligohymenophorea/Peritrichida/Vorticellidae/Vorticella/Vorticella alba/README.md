@@ -1,5 +1,4 @@
-Vorticella alba Fromentel, 1876 SPECIES
-=======
+# Vorticella alba Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

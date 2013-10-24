@@ -1,5 +1,4 @@
-Verrucaria corderoi Harm. SPECIES
-=======
+# Verrucaria corderoi Harm. SPECIES
 
 #### Status
 ACCEPTED

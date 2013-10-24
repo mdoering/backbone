@@ -1,5 +1,4 @@
-Petrona prolifera Scop. SPECIES
-=======
+# Petrona prolifera Scop. SPECIES
 
 #### Status
 ACCEPTED

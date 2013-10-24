@@ -1,5 +1,4 @@
-Agaricus setaceus J.F. Gmel. SPECIES
-=======
+# Agaricus setaceus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

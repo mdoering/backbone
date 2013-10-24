@@ -1,5 +1,4 @@
-Orthosphaeridium macroceros (Deunff, 1959) Fensome et al., 1990 SPECIES
-=======
+# Orthosphaeridium macroceros (Deunff, 1959) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

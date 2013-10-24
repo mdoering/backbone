@@ -1,14 +1,13 @@
-Ceratobasidium cornigerum var. pseudocornigerum (M.P. Christ.) Krieglst., 1999 VARIETY
-=======
+# Ceratobasidium pseudocornigerum M.P. Christ., 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beitr. Kenntn. Pilze Mitteleur. 12: 36 (1999)
+Dansk bot. Ark. 19(no. 2): 46 (1959)
 
 #### Original name
 Ceratobasidium pseudocornigerum M.P. Christ., 1959

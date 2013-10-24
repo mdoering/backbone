@@ -1,5 +1,4 @@
-Pluricellaesporites misrae A. Chandra, R.K. Saxena & Setty SPECIES
-=======
+# Pluricellaesporites misrae A. Chandra, R.K. Saxena & Setty SPECIES
 
 #### Status
 ACCEPTED

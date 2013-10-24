@@ -1,17 +1,16 @@
-Molleriella epidendri Rehm SPECIES
-=======
+# Moelleriella epidendri Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 40: 168 (1901)
 
 #### Original name
-Molleriella epidendri Rehm
+Moelleriella epidendri Rehm
 
 ### Remarks
 null

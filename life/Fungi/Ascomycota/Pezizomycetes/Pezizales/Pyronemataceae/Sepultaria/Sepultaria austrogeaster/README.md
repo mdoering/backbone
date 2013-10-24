@@ -1,5 +1,4 @@
-Sepultaria austrogeaster Rodway SPECIES
-=======
+# Sepultaria austrogeaster Rodway SPECIES
 
 #### Status
 ACCEPTED

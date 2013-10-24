@@ -1,5 +1,4 @@
-Bensingtonia intermedia (Nakase & M. Suzuki) Nakase & Boekhout SPECIES
-=======
+# Bensingtonia intermedia (Nakase & M. Suzuki) Nakase & Boekhout SPECIES
 
 #### Status
 ACCEPTED

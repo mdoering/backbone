@@ -1,5 +1,4 @@
-Hysterangium pavelekii K. Hosaka, Castellano & Trappe SPECIES
-=======
+# Hysterangium pavelekii K. Hosaka, Castellano & Trappe SPECIES
 
 #### Status
 ACCEPTED

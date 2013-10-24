@@ -1,5 +1,4 @@
-Cystidiodendron Rick GENUS
-=======
+# Cystidiodendron Rick GENUS
 
 #### Status
 ACCEPTED

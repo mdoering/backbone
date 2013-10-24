@@ -1,5 +1,4 @@
-Gymnopilus parvisporus B.J. Rees SPECIES
-=======
+# Gymnopilus parvisporus B.J. Rees SPECIES
 
 #### Status
 ACCEPTED

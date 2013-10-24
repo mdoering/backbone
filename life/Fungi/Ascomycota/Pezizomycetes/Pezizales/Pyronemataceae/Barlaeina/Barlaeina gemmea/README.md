@@ -1,5 +1,4 @@
-Barlaeina gemmea (W. Phillips) Sacc. & Traverso SPECIES
-=======
+# Barlaeina gemmea (W. Phillips) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

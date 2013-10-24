@@ -1,5 +1,4 @@
-Trametes sprucei Berk. SPECIES
-=======
+# Trametes sprucei Berk. SPECIES
 
 #### Status
 ACCEPTED

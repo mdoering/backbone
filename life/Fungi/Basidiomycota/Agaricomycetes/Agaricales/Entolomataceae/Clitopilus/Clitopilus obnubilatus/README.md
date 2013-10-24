@@ -1,5 +1,4 @@
-Clitopilus obnubilatus Herp. SPECIES
-=======
+# Clitopilus obnubilatus Herp. SPECIES
 
 #### Status
 ACCEPTED

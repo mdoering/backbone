@@ -1,5 +1,4 @@
-Stysanus yerbae Speg. SPECIES
-=======
+# Stysanus yerbae Speg. SPECIES
 
 #### Status
 ACCEPTED

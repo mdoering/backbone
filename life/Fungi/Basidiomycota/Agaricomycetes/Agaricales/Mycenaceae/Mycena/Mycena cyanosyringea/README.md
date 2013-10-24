@@ -1,5 +1,4 @@
-Mycena cyanosyringea Singer SPECIES
-=======
+# Mycena cyanosyringea Singer SPECIES
 
 #### Status
 ACCEPTED

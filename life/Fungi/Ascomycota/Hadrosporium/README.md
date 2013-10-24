@@ -1,5 +1,4 @@
-Hadrosporium Syd. GENUS
-=======
+# Hadrosporium Syd. GENUS
 
 #### Status
 ACCEPTED

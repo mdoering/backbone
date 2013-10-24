@@ -1,5 +1,4 @@
-Bukrylithus ambiguus Black, 1971 SPECIES
-=======
+# Bukrylithus ambiguus Black, 1971 SPECIES
 
 #### Status
 ACCEPTED

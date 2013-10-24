@@ -1,5 +1,4 @@
-Marasmiellus echinocephalus Singer SPECIES
-=======
+# Marasmiellus echinocephalus Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium multiseptatum Meng Zhang, T.Y. Zhang & W.P. Wu SPECIES
-=======
+# Helminthosporium multiseptatum Meng Zhang, T.Y. Zhang & W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

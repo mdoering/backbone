@@ -1,14 +1,13 @@
-Bacidia carneopallida (Müll. Arg.) Coppins SPECIES
-=======
+# Mycobilimbia carneoalbida (Müll. Arg.) S. Ekman & Printzen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Gilbert, Coppins & Fox, Lichenologist 20(3): 237 (1988)
+null
 
 #### Original name
 null

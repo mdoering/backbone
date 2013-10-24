@@ -1,5 +1,4 @@
-Verrucaria magnifica Nyl. SPECIES
-=======
+# Verrucaria magnifica Nyl. SPECIES
 
 #### Status
 ACCEPTED

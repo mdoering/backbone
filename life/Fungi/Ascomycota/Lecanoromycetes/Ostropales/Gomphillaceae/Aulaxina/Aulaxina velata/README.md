@@ -1,5 +1,4 @@
-Aulaxina velata Müll. Arg. SPECIES
-=======
+# Aulaxina velata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

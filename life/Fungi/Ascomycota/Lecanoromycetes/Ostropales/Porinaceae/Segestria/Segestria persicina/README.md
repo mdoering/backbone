@@ -1,5 +1,4 @@
-Segestria persicina Körb. SPECIES
-=======
+# Segestria persicina Körb. SPECIES
 
 #### Status
 ACCEPTED

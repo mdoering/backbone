@@ -1,5 +1,4 @@
-Diaporthopsis trinucleata (Niessl) Höhn. SPECIES
-=======
+# Diaporthopsis trinucleata (Niessl) Höhn. SPECIES
 
 #### Status
 ACCEPTED

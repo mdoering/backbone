@@ -1,5 +1,4 @@
-Cercosporina drabae (Bubák & Kabát) Sacc. SPECIES
-=======
+# Cercosporina drabae (Bubák & Kabát) Sacc. SPECIES
 
 #### Status
 ACCEPTED

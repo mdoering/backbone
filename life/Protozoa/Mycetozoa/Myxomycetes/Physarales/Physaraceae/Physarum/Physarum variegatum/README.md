@@ -1,5 +1,4 @@
-Physarum variegatum K.S. Thind & Dhillon, 1967 SPECIES
-=======
+# Physarum variegatum K.S. Thind & Dhillon, 1967 SPECIES
 
 #### Status
 ACCEPTED

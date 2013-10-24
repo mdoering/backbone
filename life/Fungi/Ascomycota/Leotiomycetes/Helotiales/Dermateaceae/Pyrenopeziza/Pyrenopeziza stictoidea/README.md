@@ -1,5 +1,4 @@
-Pyrenopeziza stictoidea Sacc. SPECIES
-=======
+# Pyrenopeziza stictoidea Sacc. SPECIES
 
 #### Status
 ACCEPTED

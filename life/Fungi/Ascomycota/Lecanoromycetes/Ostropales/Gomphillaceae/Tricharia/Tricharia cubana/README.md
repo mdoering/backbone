@@ -1,5 +1,4 @@
-Tricharia cubana Vezda SPECIES
-=======
+# Tricharia cubana Vezda SPECIES
 
 #### Status
 ACCEPTED

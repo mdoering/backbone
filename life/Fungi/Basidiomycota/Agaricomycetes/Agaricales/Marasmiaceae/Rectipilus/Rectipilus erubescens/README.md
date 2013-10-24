@@ -1,14 +1,13 @@
-Henningsomyces erubescens D.A. Reid, 1965 SPECIES
-=======
+# Rectipilus erubescens (D.A. Reid) Agerer, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kirkia 5: 29 (1965)
+Sydowia 27: 137 (1975)
 
 #### Original name
 Henningsomyces erubescens D.A. Reid, 1965

@@ -1,5 +1,4 @@
-Podoscypha poilanei Pat. SPECIES
-=======
+# Podoscypha poilanei Pat. SPECIES
 
 #### Status
 ACCEPTED

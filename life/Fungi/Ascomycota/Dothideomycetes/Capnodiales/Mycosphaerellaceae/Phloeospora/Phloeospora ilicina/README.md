@@ -1,5 +1,4 @@
-Phloeospora ilicina Sacc. SPECIES
-=======
+# Phloeospora ilicina Sacc. SPECIES
 
 #### Status
 ACCEPTED

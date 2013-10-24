@@ -1,5 +1,4 @@
-Coniothyrium rubi Peck SPECIES
-=======
+# Coniothyrium rubi Peck SPECIES
 
 #### Status
 ACCEPTED

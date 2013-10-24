@@ -1,5 +1,4 @@
-Puccinia rhaphidophorae Syd. SPECIES
-=======
+# Puccinia rhaphidophorae Syd. SPECIES
 
 #### Status
 ACCEPTED

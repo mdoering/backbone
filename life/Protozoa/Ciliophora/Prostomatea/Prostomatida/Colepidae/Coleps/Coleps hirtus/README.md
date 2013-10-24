@@ -1,5 +1,4 @@
-Coleps hirtus subsp. hirtus SUBSPECIES
-=======
+# Coleps hirtus (Müller, 1786) Nitzsch, 1827 SPECIES
 
 #### Status
 ACCEPTED

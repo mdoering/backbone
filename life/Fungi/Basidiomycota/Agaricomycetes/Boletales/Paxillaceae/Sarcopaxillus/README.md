@@ -1,5 +1,4 @@
-Sarcopaxillus Zmitr., V. Malysheva & E. Malysheva GENUS
-=======
+# Sarcopaxillus Zmitr., V. Malysheva & E. Malysheva GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camptomeris crataevae Subram. SPECIES
-=======
+# Camptomeris crataevae Subram. SPECIES
 
 #### Status
 ACCEPTED

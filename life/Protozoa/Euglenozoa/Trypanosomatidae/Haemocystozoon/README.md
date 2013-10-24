@@ -1,5 +1,4 @@
-Haemocystozoon Franchini, 1913 GENUS
-=======
+# Haemocystozoon Franchini, 1913 GENUS
 
 #### Status
 ACCEPTED

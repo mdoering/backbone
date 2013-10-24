@@ -1,5 +1,4 @@
-Marasmius caulicinalis (With.) Fr. SPECIES
-=======
+# Marasmius caulicinalis (With.) Fr. SPECIES
 
 #### Status
 ACCEPTED

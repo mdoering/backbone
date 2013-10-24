@@ -1,5 +1,4 @@
-Apiosporium maximum (Schwein.) Farl. SPECIES
-=======
+# Apiosporium maximum (Schwein.) Farl. SPECIES
 
 #### Status
 ACCEPTED

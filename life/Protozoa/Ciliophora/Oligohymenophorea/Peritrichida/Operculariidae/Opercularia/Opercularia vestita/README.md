@@ -1,5 +1,4 @@
-Opercularia vestita Stokes, 1887 SPECIES
-=======
+# Opercularia vestita Stokes, 1887 SPECIES
 
 #### Status
 ACCEPTED

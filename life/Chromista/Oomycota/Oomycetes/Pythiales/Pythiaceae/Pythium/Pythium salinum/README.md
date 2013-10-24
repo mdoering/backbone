@@ -1,5 +1,4 @@
-Pythium salinum Höhnk, 1953 SPECIES
-=======
+# Pythium salinum Höhnk, 1953 SPECIES
 
 #### Status
 ACCEPTED

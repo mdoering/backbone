@@ -1,5 +1,4 @@
-Gnomoniella bubakiformis Sacc. SPECIES
-=======
+# Gnomoniella bubakiformis Sacc. SPECIES
 
 #### Status
 ACCEPTED

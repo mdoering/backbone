@@ -1,5 +1,4 @@
-Arthothelium phlyctiforme (Nyl.) Arnold SPECIES
-=======
+# Arthothelium phlyctiforme (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

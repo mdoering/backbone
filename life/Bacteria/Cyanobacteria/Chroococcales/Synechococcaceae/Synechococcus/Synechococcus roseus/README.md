@@ -1,5 +1,4 @@
-Synechococcus roseus J. J. Copeland SPECIES
-=======
+# Synechococcus roseus J. J. Copeland SPECIES
 
 #### Status
 ACCEPTED

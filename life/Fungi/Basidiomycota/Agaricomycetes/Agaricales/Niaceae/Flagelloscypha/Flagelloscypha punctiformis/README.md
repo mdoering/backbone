@@ -1,17 +1,16 @@
-Cyphella punctiformis var. punctiformis VARIETY
-=======
+# Flagelloscypha punctiformis (Fr.) Agerer, 1975 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi Fenniae Exsiccati, Fasc. no. 714 (1868)
+Sydowia 27(1-6): 246 (1975)
 
 #### Original name
-Cyphella punctiformis var. punctiformis
+Peziza punctiformis Fr., 1822
 
 ### Remarks
 null

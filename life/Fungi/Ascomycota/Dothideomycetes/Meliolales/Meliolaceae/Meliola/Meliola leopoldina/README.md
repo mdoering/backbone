@@ -1,5 +1,4 @@
-Meliola leopoldina Theiss. SPECIES
-=======
+# Meliola leopoldina Theiss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula albimarginata Murrill SPECIES
-=======
+# Russula albimarginata Murrill SPECIES
 
 #### Status
 ACCEPTED

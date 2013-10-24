@@ -1,5 +1,4 @@
-Gyrostomum Fr. GENUS
-=======
+# Gyrostomum Fr. GENUS
 
 #### Status
 ACCEPTED

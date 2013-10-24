@@ -1,5 +1,4 @@
-Psilocybe mesospora Singer SPECIES
-=======
+# Psilocybe mesospora Singer SPECIES
 
 #### Status
 ACCEPTED

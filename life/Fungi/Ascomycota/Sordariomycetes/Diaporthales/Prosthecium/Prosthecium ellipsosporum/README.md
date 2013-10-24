@@ -1,5 +1,4 @@
-Prosthecium ellipsosporum Fresen., 1852 SPECIES
-=======
+# Prosthecium ellipsosporum Fresen., 1852 SPECIES
 
 #### Status
 ACCEPTED

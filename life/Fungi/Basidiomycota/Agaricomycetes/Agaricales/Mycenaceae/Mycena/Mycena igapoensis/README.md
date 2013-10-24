@@ -1,5 +1,4 @@
-Mycena igapoensis Singer SPECIES
-=======
+# Mycena igapoensis Singer SPECIES
 
 #### Status
 ACCEPTED

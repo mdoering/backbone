@@ -1,5 +1,4 @@
-Gloeosporium bicolor Davis SPECIES
-=======
+# Gloeosporium bicolor Davis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protoperidinium tristylum (Stein) Balech SPECIES
-=======
+# Protoperidinium tristylum (Stein) Balech SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeoseptoria peltigerae Punith. & Spooner SPECIES
-=======
+# Phaeoseptoria peltigerae Punith. & Spooner SPECIES
 
 #### Status
 ACCEPTED

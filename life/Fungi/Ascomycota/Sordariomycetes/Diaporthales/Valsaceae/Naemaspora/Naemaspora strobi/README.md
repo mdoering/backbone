@@ -1,5 +1,4 @@
-Naemaspora strobi Allesch. SPECIES
-=======
+# Naemaspora strobi Allesch. SPECIES
 
 #### Status
 ACCEPTED

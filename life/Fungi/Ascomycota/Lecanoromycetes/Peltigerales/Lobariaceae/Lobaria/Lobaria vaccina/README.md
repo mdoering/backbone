@@ -1,5 +1,4 @@
-Lobaria vaccina (Mont.) Trevis. SPECIES
-=======
+# Lobaria vaccina (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnangium aculeatosporum Soehner SPECIES
-=======
+# Hydnangium aculeatosporum Soehner SPECIES
 
 #### Status
 ACCEPTED

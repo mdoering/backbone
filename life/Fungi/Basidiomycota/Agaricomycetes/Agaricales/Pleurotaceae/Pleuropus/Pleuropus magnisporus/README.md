@@ -1,5 +1,4 @@
-Pleuropus magnisporus Murrill SPECIES
-=======
+# Pleuropus magnisporus Murrill SPECIES
 
 #### Status
 ACCEPTED

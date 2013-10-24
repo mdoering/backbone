@@ -1,5 +1,4 @@
-Peronospora celsiae Syd. & P. Syd. SPECIES
-=======
+# Peronospora celsiae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

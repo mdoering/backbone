@@ -1,5 +1,4 @@
-Meliola knysnae Doidge SPECIES
-=======
+# Meliola knysnae Doidge SPECIES
 
 #### Status
 ACCEPTED

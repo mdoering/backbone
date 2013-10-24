@@ -1,5 +1,4 @@
-Oidiodendron scytaloides W. Gams & B.E. Söderstr., 1983 SPECIES
-=======
+# Oidiodendron scytaloides W. Gams & B.E. Söderstr., 1983 SPECIES
 
 #### Status
 ACCEPTED

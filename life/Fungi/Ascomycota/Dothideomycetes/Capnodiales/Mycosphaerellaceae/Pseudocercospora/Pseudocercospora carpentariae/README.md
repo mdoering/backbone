@@ -1,5 +1,4 @@
-Pseudocercospora carpentariae Deighton SPECIES
-=======
+# Pseudocercospora carpentariae Deighton SPECIES
 
 #### Status
 ACCEPTED

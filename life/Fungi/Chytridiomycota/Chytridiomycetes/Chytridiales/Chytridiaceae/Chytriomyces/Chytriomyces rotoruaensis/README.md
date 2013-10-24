@@ -1,5 +1,4 @@
-Chytriomyces rotoruaensis Karling, 1970 SPECIES
-=======
+# Chytriomyces rotoruaensis Karling, 1970 SPECIES
 
 #### Status
 ACCEPTED

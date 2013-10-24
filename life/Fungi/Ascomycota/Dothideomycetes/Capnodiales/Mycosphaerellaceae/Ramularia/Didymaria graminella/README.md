@@ -1,5 +1,4 @@
-Didymaria graminella Höhn. SPECIES
-=======
+# Didymaria graminella Höhn. SPECIES
 
 #### Status
 ACCEPTED

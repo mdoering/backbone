@@ -1,5 +1,4 @@
-Helicobacter marmotae Fox et al., 2006 SPECIES
-=======
+# Helicobacter marmotae Fox et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

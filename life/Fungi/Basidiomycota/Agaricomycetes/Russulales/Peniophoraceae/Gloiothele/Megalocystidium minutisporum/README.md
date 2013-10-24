@@ -1,17 +1,16 @@
-Megalocystidium minutosporum Boidin, Lanq. & Gilles SPECIES
-=======
+# Megalocystidium minutisporum Boidin, Lanq. & Gilles SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 113(1): 71 (1997)
 
 #### Original name
-Megalocystidium minutosporum Boidin, Lanq. & Gilles
+Megalocystidium minutisporum Boidin, Lanq. & Gilles
 
 ### Remarks
 null

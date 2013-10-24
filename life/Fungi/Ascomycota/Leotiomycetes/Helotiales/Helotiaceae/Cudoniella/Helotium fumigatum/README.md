@@ -1,5 +1,4 @@
-Helotium fumigatum (Sacc. & Speg.) Sacc. SPECIES
-=======
+# Helotium fumigatum (Sacc. & Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uncinula nishidana Homma SPECIES
-=======
+# Uncinula nishidana Homma SPECIES
 
 #### Status
 ACCEPTED

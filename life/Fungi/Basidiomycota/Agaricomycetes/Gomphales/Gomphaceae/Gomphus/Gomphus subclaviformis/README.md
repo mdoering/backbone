@@ -1,5 +1,4 @@
-Gomphus subclaviformis (Berk.) Corner SPECIES
-=======
+# Gomphus subclaviformis (Berk.) Corner SPECIES
 
 #### Status
 ACCEPTED

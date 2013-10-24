@@ -1,5 +1,4 @@
-Gloeosporium medicaginis Ellis & Kellerm. SPECIES
-=======
+# Gloeosporium medicaginis Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

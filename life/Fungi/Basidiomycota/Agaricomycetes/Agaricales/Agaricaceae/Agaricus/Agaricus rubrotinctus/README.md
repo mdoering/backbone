@@ -1,5 +1,4 @@
-Agaricus rubrotinctus Peck SPECIES
-=======
+# Agaricus rubrotinctus Peck SPECIES
 
 #### Status
 ACCEPTED

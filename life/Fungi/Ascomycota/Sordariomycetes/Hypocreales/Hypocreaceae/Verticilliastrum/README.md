@@ -1,5 +1,4 @@
-Verticilliastrum GENUS
-=======
+# Verticilliastrum GENUS
 
 #### Status
 ACCEPTED

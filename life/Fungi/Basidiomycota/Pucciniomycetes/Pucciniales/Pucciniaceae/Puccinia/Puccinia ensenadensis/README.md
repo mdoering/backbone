@@ -1,5 +1,4 @@
-Puccinia ensenadensis Speg. SPECIES
-=======
+# Puccinia ensenadensis Speg. SPECIES
 
 #### Status
 ACCEPTED

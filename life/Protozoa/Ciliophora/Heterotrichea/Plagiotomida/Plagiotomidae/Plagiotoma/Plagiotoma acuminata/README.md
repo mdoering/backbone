@@ -1,5 +1,4 @@
-Plagiotoma acuminata Claparède & Lachmann, 1858 SPECIES
-=======
+# Plagiotoma acuminata Claparède & Lachmann, 1858 SPECIES
 
 #### Status
 ACCEPTED

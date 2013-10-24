@@ -1,5 +1,4 @@
-Staurothele polygonia B. de Lesd. SPECIES
-=======
+# Staurothele polygonia B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synedra amphirhynchus Ehrenberg SPECIES
-=======
+# Synedra amphirhynchus Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

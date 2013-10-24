@@ -1,5 +1,4 @@
-Graphis straminea Vain. SPECIES
-=======
+# Graphis straminea Vain. SPECIES
 
 #### Status
 ACCEPTED

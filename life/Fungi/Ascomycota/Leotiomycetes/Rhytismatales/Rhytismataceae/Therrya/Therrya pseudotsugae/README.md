@@ -1,5 +1,4 @@
-Therrya pseudotsugae A. Funk, 1980 SPECIES
-=======
+# Therrya pseudotsugae A. Funk, 1980 SPECIES
 
 #### Status
 ACCEPTED

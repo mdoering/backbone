@@ -1,5 +1,4 @@
-Phoma vaginarum Catt. SPECIES
-=======
+# Phoma vaginarum Catt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia jacarndicola Krog & Swinscow SPECIES
-=======
+# Parmelia jacarndicola Krog & Swinscow SPECIES
 
 #### Status
 ACCEPTED

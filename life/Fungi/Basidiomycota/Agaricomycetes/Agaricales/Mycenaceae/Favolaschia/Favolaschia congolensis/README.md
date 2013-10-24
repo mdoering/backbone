@@ -1,5 +1,4 @@
-Favolaschia congolensis (De Seynes) Pat. SPECIES
-=======
+# Favolaschia congolensis (De Seynes) Pat. SPECIES
 
 #### Status
 ACCEPTED

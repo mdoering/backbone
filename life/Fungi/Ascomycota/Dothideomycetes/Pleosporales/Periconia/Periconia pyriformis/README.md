@@ -1,17 +1,16 @@
-Periconia piriformis Bonord. SPECIES
-=======
+# Periconia pyriformis Bonord. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Handb. Allgem. mykol. (Stuttgart) 113 (1851)
 
 #### Original name
-Periconia piriformis Bonord.
+Periconia pyriformis Bonord.
 
 ### Remarks
 null

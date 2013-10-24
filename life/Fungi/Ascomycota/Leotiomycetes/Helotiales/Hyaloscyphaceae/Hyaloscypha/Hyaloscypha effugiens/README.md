@@ -1,5 +1,4 @@
-Hyaloscypha effugiens (Roberge ex Desm.) SPECIES
-=======
+# Hyaloscypha effugiens (Roberge ex Desm.) SPECIES
 
 #### Status
 ACCEPTED

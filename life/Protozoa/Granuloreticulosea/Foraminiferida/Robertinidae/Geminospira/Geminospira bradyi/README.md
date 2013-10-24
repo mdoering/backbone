@@ -1,5 +1,4 @@
-Geminospira bradyi Bermudez, 1952 SPECIES
-=======
+# Geminospira bradyi Bermudez, 1952 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Pelodictyon lauterbornii Geitler in Geitler & Pascher, 1925 SPECIES
-=======
+# Chlorobium clathratiforme (Szafer, 1911) Imhoff, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

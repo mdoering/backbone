@@ -1,5 +1,4 @@
-Graphina diplocheila (Vain.) Zahlbr. SPECIES
-=======
+# Graphina diplocheila (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

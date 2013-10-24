@@ -1,5 +1,4 @@
-Pseudocercospora moracearum R.K. Verma & Kamal SPECIES
-=======
+# Pseudocercospora moracearum R.K. Verma & Kamal SPECIES
 
 #### Status
 ACCEPTED

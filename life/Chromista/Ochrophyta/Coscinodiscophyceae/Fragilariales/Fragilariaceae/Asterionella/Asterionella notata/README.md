@@ -1,5 +1,4 @@
-Asterionella notata Grunow ex Van Heurck SPECIES
-=======
+# Asterionella notata Grunow ex Van Heurck SPECIES
 
 #### Status
 ACCEPTED

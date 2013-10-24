@@ -1,14 +1,13 @@
-Sphaeria echinophila Schwein., 1832 SPECIES
-=======
+# Guignardia echinophila (Schwein.) Traverso, 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Amer. Philos. Soc. 4(2): 223 (1832)
+null
 
 #### Original name
 Sphaeria echinophila Schwein., 1832

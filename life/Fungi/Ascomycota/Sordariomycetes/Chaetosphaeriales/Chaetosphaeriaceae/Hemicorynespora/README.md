@@ -1,5 +1,4 @@
-Hemicorynespora M.B. Ellis GENUS
-=======
+# Hemicorynespora M.B. Ellis GENUS
 
 #### Status
 ACCEPTED

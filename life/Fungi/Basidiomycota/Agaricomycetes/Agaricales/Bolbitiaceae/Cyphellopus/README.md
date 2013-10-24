@@ -1,5 +1,4 @@
-Cyphellopus Fayod GENUS
-=======
+# Cyphellopus Fayod GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatomyces geomyzae W. Rossi & Cesari SPECIES
-=======
+# Stigmatomyces geomyzae W. Rossi & Cesari SPECIES
 
 #### Status
 ACCEPTED

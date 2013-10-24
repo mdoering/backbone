@@ -1,5 +1,4 @@
-Ctedoctema ovalis Kahl, 1926 SPECIES
-=======
+# Ctedoctema ovalis Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

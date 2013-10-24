@@ -1,5 +1,4 @@
-Lecanora nequiens Nyl. SPECIES
-=======
+# Lecanora nequiens Nyl. SPECIES
 
 #### Status
 ACCEPTED

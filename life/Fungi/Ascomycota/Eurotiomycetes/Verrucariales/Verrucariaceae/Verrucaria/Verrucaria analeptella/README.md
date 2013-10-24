@@ -1,5 +1,4 @@
-Verrucaria analeptella Nyl. SPECIES
-=======
+# Verrucaria analeptella Nyl. SPECIES
 
 #### Status
 ACCEPTED

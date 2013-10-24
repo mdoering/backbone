@@ -1,5 +1,4 @@
-Tomentella menieri Pat. SPECIES
-=======
+# Tomentella menieri Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopilus nitens (Cooke & Massee) Dhanch. SPECIES
-=======
+# Gymnopilus nitens (Cooke & Massee) Dhanch. SPECIES
 
 #### Status
 ACCEPTED

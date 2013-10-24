@@ -1,5 +1,4 @@
-Ophioceras bambusae Höhn. SPECIES
-=======
+# Ophioceras bambusae Höhn. SPECIES
 
 #### Status
 ACCEPTED

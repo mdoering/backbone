@@ -1,17 +1,16 @@
-Umbilicaria laevis var. laevis VARIETY
-=======
+# Umbilicaria laevis (Schaer.) Frey SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Umbilicaria laevis var. laevis
+Gyrophora laevis Schaer.
 
 ### Remarks
 null

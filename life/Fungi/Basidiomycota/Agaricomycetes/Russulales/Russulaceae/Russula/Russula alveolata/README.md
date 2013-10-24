@@ -1,5 +1,4 @@
-Russula alveolata R. Heim SPECIES
-=======
+# Russula alveolata R. Heim SPECIES
 
 #### Status
 ACCEPTED

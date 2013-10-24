@@ -1,5 +1,4 @@
-Cercospora penzigii Mussat SPECIES
-=======
+# Cercospora penzigii Mussat SPECIES
 
 #### Status
 ACCEPTED

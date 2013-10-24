@@ -1,5 +1,4 @@
-Rhabdospora hesperidicola Petr. SPECIES
-=======
+# Rhabdospora hesperidicola Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Belonidium intermedium Rehm SPECIES
-=======
+# Belonidium intermedium Rehm SPECIES
 
 #### Status
 ACCEPTED

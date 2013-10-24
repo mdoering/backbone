@@ -1,5 +1,4 @@
-Cercospora chenopodicola Hansf. SPECIES
-=======
+# Cercospora chenopodicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

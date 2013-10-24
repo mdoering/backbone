@@ -1,5 +1,4 @@
-Laschia favosa (F. Brig.) Sacc. & Trotter SPECIES
-=======
+# Laschia favosa (F. Brig.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

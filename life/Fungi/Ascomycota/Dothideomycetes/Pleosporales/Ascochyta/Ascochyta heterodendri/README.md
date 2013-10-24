@@ -1,5 +1,4 @@
-Ascochyta heterodendri Hansf. SPECIES
-=======
+# Ascochyta heterodendri Hansf. SPECIES
 
 #### Status
 ACCEPTED

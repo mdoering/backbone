@@ -1,5 +1,4 @@
-Phacidium teucrii P. Crouan & H. Crouan SPECIES
-=======
+# Phacidium teucrii P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

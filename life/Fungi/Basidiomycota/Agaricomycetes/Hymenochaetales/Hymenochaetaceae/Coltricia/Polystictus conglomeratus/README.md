@@ -1,5 +1,4 @@
-Polystictus conglomeratus Lloyd SPECIES
-=======
+# Polystictus conglomeratus Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Mycena lineata sensu auct. SPECIES
-=======
+# Mycena arcangeliana Bres. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Belgian Species List
 
 #### Published in
 null

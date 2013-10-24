@@ -1,5 +1,4 @@
-Phlegmacium vitellinopes (Secr. ex Gillet) M.M. Moser SPECIES
-=======
+# Phlegmacium vitellinopes (Secr. ex Gillet) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

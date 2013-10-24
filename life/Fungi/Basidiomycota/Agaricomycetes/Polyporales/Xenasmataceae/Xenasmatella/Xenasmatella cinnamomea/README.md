@@ -1,14 +1,13 @@
-Phlebiella cinnamomea (Burds. & Nakasone) Hjortstam, 1995 SPECIES
-=======
+# Xenasmatella cinnamomea (Burds. & Nakasone) Stalpers, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 54: 190 (1995)
+Stud. Mycol. 40: 37 (1996)
 
 #### Original name
 Lazulinospora cinnamomea Burds. & Nakasone, 1981

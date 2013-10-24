@@ -1,5 +1,4 @@
-Stilbella pellucidum anon. SPECIES
-=======
+# Stilbella pellucidum anon. SPECIES
 
 #### Status
 ACCEPTED

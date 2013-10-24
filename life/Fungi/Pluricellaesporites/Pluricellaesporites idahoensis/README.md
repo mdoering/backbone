@@ -1,5 +1,4 @@
-Pluricellaesporites idahoensis Traverse & Ash SPECIES
-=======
+# Pluricellaesporites idahoensis Traverse & Ash SPECIES
 
 #### Status
 ACCEPTED

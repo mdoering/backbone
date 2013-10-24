@@ -1,8 +1,7 @@
-Cromyechinus borealis (Cleve, 1898) SPECIES
-=======
+# Actinomma boreale Cleve, 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

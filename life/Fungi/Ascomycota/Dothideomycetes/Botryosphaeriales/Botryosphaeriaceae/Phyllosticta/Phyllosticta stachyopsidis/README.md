@@ -1,5 +1,4 @@
-Phyllosticta stachyopsidis Kalymb. SPECIES
-=======
+# Phyllosticta stachyopsidis Kalymb. SPECIES
 
 #### Status
 ACCEPTED

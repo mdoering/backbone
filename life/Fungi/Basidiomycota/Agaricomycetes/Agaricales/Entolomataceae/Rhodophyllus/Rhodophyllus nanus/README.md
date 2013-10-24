@@ -1,5 +1,4 @@
-Rhodophyllus nanus Massee SPECIES
-=======
+# Rhodophyllus nanus Massee SPECIES
 
 #### Status
 ACCEPTED

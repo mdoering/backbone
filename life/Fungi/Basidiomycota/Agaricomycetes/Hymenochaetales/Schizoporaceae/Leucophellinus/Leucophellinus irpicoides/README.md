@@ -1,17 +1,16 @@
-Trametes heteromorpha var. irpicoides (Bondartsev ex Pilát) Pilát, 1940 VARIETY
-=======
+# Leucophellinus irpicoides (Bondartsev ex Pilát) Bondartsev & Singer, 1944 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 36(1): 68 (1944)
 
 #### Original name
-null
+Trametes irpicoides Bondartsev ex Pilát, 1937
 
 ### Remarks
 null

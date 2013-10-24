@@ -1,8 +1,7 @@
-Enchelyodon multinucleata Dragesco & Dragesco-Kernéis, 1979 SPECIES
-=======
+# Enchelys multinucleata (Dragesco & Dragesco-Kernéis, 1979) Berger, Foissner & Adam, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Corethromyces venezoelanus Thaxt. SPECIES
-=======
+# Corethromyces venezoelanus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

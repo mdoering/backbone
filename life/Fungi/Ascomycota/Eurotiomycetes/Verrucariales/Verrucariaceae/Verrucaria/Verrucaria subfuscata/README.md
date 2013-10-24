@@ -1,5 +1,4 @@
-Verrucaria subfuscata H. Magn. SPECIES
-=======
+# Verrucaria subfuscata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

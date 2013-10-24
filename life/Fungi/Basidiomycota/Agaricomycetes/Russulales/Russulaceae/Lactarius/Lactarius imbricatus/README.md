@@ -1,5 +1,4 @@
-Lactarius imbricatus M.X. Zhou & H.A. Wen SPECIES
-=======
+# Lactarius imbricatus M.X. Zhou & H.A. Wen SPECIES
 
 #### Status
 ACCEPTED

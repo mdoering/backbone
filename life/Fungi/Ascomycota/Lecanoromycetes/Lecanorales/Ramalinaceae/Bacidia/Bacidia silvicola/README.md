@@ -1,5 +1,4 @@
-Bacidia silvicola Malme SPECIES
-=======
+# Bacidia silvicola Malme SPECIES
 
 #### Status
 ACCEPTED

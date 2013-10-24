@@ -1,14 +1,13 @@
-Sporisorium tanglinensis (Tracy & Earle) L. Guo SPECIES
-=======
+# Sporisorium tanglinense (Tracy & Earle) L. Guo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycosystema 3: 85 (1990)
 
 #### Original name
 Ustilago tanglinensis Tracy & Earle

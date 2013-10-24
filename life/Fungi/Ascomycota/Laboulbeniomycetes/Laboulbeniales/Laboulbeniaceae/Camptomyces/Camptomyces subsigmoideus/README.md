@@ -1,5 +1,4 @@
-Camptomyces subsigmoideus Thaxt., 1926 SPECIES
-=======
+# Camptomyces subsigmoideus Thaxt., 1926 SPECIES
 
 #### Status
 ACCEPTED

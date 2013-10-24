@@ -1,5 +1,4 @@
-Parahyalotiopsis elegiae S.J. Lee & Crous SPECIES
-=======
+# Parahyalotiopsis elegiae S.J. Lee & Crous SPECIES
 
 #### Status
 ACCEPTED

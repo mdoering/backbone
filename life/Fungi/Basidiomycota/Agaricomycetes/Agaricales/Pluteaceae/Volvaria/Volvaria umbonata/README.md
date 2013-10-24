@@ -1,5 +1,4 @@
-Volvaria umbonata var. umbonata VARIETY
-=======
+# Volvaria umbonata Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Volvaria umbonata var. umbonata
+Volvaria umbonata Peck
 
 ### Remarks
 null

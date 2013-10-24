@@ -1,5 +1,4 @@
-Australiasca queenslandica Sivan. & Alcorn, 2002 SPECIES
-=======
+# Australiasca queenslandica Sivan. & Alcorn, 2002 SPECIES
 
 #### Status
 ACCEPTED

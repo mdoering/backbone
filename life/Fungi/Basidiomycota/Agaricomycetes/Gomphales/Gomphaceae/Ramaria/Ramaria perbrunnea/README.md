@@ -1,5 +1,4 @@
-Ramaria perbrunnea Corner & K.S. Thind, 1966 SPECIES
-=======
+# Ramaria perbrunnea Corner & K.S. Thind, 1966 SPECIES
 
 #### Status
 ACCEPTED

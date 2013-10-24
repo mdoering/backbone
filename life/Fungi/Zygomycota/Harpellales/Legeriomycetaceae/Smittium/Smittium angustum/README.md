@@ -1,5 +1,4 @@
-Smittium angustum M.C. Williams & Lichtw., 1992 SPECIES
-=======
+# Smittium angustum M.C. Williams & Lichtw., 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stomatococcus Bergan & Kocur, 1982 GENUS
-=======
+# Stomatococcus Bergan & Kocur, 1982 GENUS
 
 #### Status
 ACCEPTED

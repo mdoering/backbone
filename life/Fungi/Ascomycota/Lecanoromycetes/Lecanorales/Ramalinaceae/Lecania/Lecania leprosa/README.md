@@ -1,5 +1,4 @@
-Lecania leprosa Reese Naesb. & Vondrák SPECIES
-=======
+# Lecania leprosa Reese Naesb. & Vondrák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptothecia subnidulans Stirt. SPECIES
-=======
+# Cryptothecia subnidulans Stirt. SPECIES
 
 #### Status
 ACCEPTED

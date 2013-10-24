@@ -1,5 +1,4 @@
-Methylobacterium aminovorans Urakami et al., 1993 SPECIES
-=======
+# Methylobacterium aminovorans Urakami et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

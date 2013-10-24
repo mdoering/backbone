@@ -1,5 +1,4 @@
-Dicaeoma malvastri (Peck) Kuntze SPECIES
-=======
+# Dicaeoma malvastri (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

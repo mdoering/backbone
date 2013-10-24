@@ -1,5 +1,4 @@
-Puccinia gyirongensis J.Y. Zhuang SPECIES
-=======
+# Puccinia gyirongensis J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

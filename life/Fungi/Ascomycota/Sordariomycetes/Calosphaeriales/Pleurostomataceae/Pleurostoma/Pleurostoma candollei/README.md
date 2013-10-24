@@ -1,17 +1,16 @@
-Pleurostoma candollii Tul. & C. Tul. SPECIES
-=======
+# Pleurostoma candollei Tul. & C. Tul., 1863 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Select. fung. carpol. (Paris) 2: 247 (1863)
 
 #### Original name
-Pleurostoma candollii Tul. & C. Tul.
+Pleurostoma candollei Tul. & C. Tul., 1863
 
 ### Remarks
 null

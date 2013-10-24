@@ -1,5 +1,4 @@
-Saccharomyces nigra Maffucci & Sirleo SPECIES
-=======
+# Saccharomyces nigra Maffucci & Sirleo SPECIES
 
 #### Status
 ACCEPTED

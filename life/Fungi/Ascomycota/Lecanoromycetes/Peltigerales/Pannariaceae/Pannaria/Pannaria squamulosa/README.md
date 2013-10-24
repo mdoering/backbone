@@ -1,5 +1,4 @@
-Pannaria squamulosa P. M. Jørg. SPECIES
-=======
+# Pannaria squamulosa P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

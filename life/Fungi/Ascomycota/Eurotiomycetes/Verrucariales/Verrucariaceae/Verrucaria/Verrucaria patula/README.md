@@ -1,5 +1,4 @@
-Verrucaria patula Leight. SPECIES
-=======
+# Verrucaria patula Leight. SPECIES
 
 #### Status
 ACCEPTED

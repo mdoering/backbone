@@ -1,5 +1,4 @@
-Flintina clenchi SPECIES
-=======
+# Flintina clenchi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma viridis Ellis & Barthol. SPECIES
-=======
+# Phoma viridis Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

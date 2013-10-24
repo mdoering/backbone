@@ -1,5 +1,4 @@
-Psoroma papuana Aptroot & Diederich SPECIES
-=======
+# Psoroma papuana Aptroot & Diederich SPECIES
 
 #### Status
 ACCEPTED

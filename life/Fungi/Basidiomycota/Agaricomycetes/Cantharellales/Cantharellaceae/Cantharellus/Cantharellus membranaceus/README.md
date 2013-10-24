@@ -1,5 +1,4 @@
-Cantharellus membranaceus De Seynes SPECIES
-=======
+# Cantharellus membranaceus De Seynes SPECIES
 
 #### Status
 ACCEPTED

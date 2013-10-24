@@ -1,5 +1,4 @@
-Russula grundii Thiers SPECIES
-=======
+# Russula grundii Thiers SPECIES
 
 #### Status
 ACCEPTED

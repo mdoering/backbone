@@ -1,5 +1,4 @@
-Coniothyrium minutulum Peck SPECIES
-=======
+# Coniothyrium minutulum Peck SPECIES
 
 #### Status
 ACCEPTED

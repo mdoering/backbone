@@ -1,5 +1,4 @@
-Marasmius malesianus Corner SPECIES
-=======
+# Marasmius malesianus Corner SPECIES
 
 #### Status
 ACCEPTED

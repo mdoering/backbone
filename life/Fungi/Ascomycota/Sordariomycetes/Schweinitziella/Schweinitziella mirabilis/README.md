@@ -1,5 +1,4 @@
-Schweinitziella mirabilis (Petr. & Cif.) Petr. SPECIES
-=======
+# Schweinitziella mirabilis (Petr. & Cif.) Petr. SPECIES
 
 #### Status
 ACCEPTED

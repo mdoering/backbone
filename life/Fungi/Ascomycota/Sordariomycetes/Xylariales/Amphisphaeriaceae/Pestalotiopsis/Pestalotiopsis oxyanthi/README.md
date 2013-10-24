@@ -1,14 +1,13 @@
-Pestalotia oxyanthi Thüm., 1879 SPECIES
-=======
+# Pestalotiopsis oxyanthi (Thüm.) Steyaert, 1949 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Contrib. Flor. Mycol. Lusitan. no. 574 (1880)
+Bull. Jard. bot. État Brux. 14: 329 (1949)
 
 #### Original name
 Pestalotia oxyanthi Thüm., 1879

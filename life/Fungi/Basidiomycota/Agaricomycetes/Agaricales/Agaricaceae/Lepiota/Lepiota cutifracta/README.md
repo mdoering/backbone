@@ -1,5 +1,4 @@
-Lepiota cutifracta A. Pearson SPECIES
-=======
+# Lepiota cutifracta A. Pearson SPECIES
 
 #### Status
 ACCEPTED

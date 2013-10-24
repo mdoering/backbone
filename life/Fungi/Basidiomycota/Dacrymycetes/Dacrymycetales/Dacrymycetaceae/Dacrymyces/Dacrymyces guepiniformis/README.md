@@ -1,8 +1,7 @@
-Dacrymyces guepiniaeformis Pat. SPECIES
-=======
+# Dacrymyces guepiniformis Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dacrymyces guepiniaeformis Pat.
+Dacrymyces guepiniformis Pat.
 
 ### Remarks
 null

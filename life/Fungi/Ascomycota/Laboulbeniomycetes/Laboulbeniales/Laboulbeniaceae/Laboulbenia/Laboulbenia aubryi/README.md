@@ -1,5 +1,4 @@
-Laboulbenia aubryi Balazuc SPECIES
-=======
+# Laboulbenia aubryi Balazuc SPECIES
 
 #### Status
 ACCEPTED

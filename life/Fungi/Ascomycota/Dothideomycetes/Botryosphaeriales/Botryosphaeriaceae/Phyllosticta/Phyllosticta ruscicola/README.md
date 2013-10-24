@@ -1,17 +1,16 @@
-Phyllosticta ruscicola var. ruscicola VARIETY
-=======
+# Phyllosticta ruscicola Durieu & Mont., 1849 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora Algéricae 1: 611 (1849)
+Syll. fung. (Abellini) 2: 74 (1883)
 
 #### Original name
-Phyllosticta ruscicola var. ruscicola
+Phyllosticta ruscicola Durieu & Mont., 1849
 
 ### Remarks
 null

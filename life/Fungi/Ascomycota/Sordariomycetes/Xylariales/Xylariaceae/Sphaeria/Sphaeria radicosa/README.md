@@ -1,5 +1,4 @@
-Sphaeria radicosa (Bull.) St.-Amans SPECIES
-=======
+# Sphaeria radicosa (Bull.) St.-Amans SPECIES
 
 #### Status
 ACCEPTED

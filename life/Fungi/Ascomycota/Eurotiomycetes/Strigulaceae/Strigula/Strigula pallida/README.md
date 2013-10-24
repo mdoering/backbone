@@ -1,5 +1,4 @@
-Strigula pallida Kalchbr. SPECIES
-=======
+# Strigula pallida Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

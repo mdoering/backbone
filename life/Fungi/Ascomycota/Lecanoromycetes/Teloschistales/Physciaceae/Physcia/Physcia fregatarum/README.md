@@ -1,5 +1,4 @@
-Physcia fregatarum H. Magn. SPECIES
-=======
+# Physcia fregatarum H. Magn. SPECIES
 
 #### Status
 ACCEPTED

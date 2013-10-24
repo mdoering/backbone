@@ -1,17 +1,16 @@
-Ciliomyces Höhn. GENUS
-=======
+# Paranectria Saccardo, 1878 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 115: 673 (1906)
+null
 
 #### Original name
-Ciliomyces Höhn.
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Masseea Sacc. GENUS
-=======
+# Masseea Sacc. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aplosporella castaneae (Tognini) Petr. SPECIES
-=======
+# Aplosporella castaneae (Tognini) Petr. SPECIES
 
 #### Status
 ACCEPTED

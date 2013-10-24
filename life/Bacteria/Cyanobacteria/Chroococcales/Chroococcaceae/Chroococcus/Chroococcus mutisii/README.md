@@ -1,5 +1,4 @@
-Chroococcus mutisii P. González SPECIES
-=======
+# Chroococcus mutisii P. González SPECIES
 
 #### Status
 ACCEPTED

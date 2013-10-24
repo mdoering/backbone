@@ -1,5 +1,4 @@
-Crepidolithus granulatus SPECIES
-=======
+# Crepidolithus granulatus SPECIES
 
 #### Status
 ACCEPTED

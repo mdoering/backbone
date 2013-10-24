@@ -1,5 +1,4 @@
-Caloplaca microsporella Poelt & Hinter. SPECIES
-=======
+# Caloplaca microsporella Poelt & Hinter. SPECIES
 
 #### Status
 ACCEPTED

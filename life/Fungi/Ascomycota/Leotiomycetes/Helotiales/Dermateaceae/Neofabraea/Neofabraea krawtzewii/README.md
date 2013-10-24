@@ -1,14 +1,13 @@
-Pezicula krawtzewii Petr., 1934 SPECIES
-=======
+# Neofabraea krawtzewii (Petr.) Verkley, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 74: 47 (1934)
+Stud. Mycol. 44: 127 (1999)
 
 #### Original name
 Pezicula krawtzewii Petr., 1934

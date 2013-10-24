@@ -1,5 +1,4 @@
-Verticillium Nees GENUS
-=======
+# Verticillium Nees GENUS
 
 #### Status
 ACCEPTED

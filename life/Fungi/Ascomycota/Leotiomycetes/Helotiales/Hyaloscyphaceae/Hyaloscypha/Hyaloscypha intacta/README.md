@@ -1,5 +1,4 @@
-Hyaloscypha intacta Svrcek, 1986 SPECIES
-=======
+# Hyaloscypha intacta Svrcek, 1986 SPECIES
 
 #### Status
 ACCEPTED

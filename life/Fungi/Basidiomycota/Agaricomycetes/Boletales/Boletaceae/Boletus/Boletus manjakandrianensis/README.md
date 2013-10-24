@@ -1,5 +1,4 @@
-Boletus manjakandrianensis Bouriquet SPECIES
-=======
+# Boletus manjakandrianensis Bouriquet SPECIES
 
 #### Status
 ACCEPTED

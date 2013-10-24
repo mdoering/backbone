@@ -1,5 +1,4 @@
-Russula discopus R. Heim SPECIES
-=======
+# Russula discopus R. Heim SPECIES
 
 #### Status
 ACCEPTED

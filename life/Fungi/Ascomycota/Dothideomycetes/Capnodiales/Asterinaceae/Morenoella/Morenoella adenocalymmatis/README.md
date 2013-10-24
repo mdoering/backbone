@@ -1,5 +1,4 @@
-Morenoella adenocalymmatis Bat. & H. Maia SPECIES
-=======
+# Morenoella adenocalymmatis Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

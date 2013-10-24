@@ -1,5 +1,4 @@
-Phellinus resinaceus Kotl. & Pouzar, 1979 SPECIES
-=======
+# Phellinus resinaceus Kotl. & Pouzar, 1979 SPECIES
 
 #### Status
 ACCEPTED

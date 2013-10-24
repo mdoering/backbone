@@ -1,5 +1,4 @@
-Protospathidium namibicola Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Protospathidium namibicola Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

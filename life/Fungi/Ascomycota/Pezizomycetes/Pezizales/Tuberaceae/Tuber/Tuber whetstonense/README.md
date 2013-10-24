@@ -1,5 +1,4 @@
-Tuber whetstonense J.L. Frank, D. Southw. & Trappe SPECIES
-=======
+# Tuber whetstonense J.L. Frank, D. Southw. & Trappe SPECIES
 
 #### Status
 ACCEPTED

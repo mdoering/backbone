@@ -1,5 +1,4 @@
-Calocybe cyanella Singer ex Redhead & Singer SPECIES
-=======
+# Calocybe cyanella Singer ex Redhead & Singer SPECIES
 
 #### Status
 ACCEPTED

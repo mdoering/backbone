@@ -1,5 +1,4 @@
-Puteoscortum polyankistrum Wicander & Loeblich, 1977 SPECIES
-=======
+# Puteoscortum polyankistrum Wicander & Loeblich, 1977 SPECIES
 
 #### Status
 ACCEPTED

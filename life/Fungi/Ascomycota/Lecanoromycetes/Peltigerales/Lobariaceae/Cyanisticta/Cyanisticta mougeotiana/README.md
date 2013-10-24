@@ -1,5 +1,4 @@
-Cyanisticta mougeotiana (Delise) Räsänen SPECIES
-=======
+# Cyanisticta mougeotiana (Delise) Räsänen SPECIES
 
 #### Status
 ACCEPTED

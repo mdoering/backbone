@@ -1,5 +1,4 @@
-Ramboldia farinosa Kalb SPECIES
-=======
+# Ramboldia farinosa Kalb SPECIES
 
 #### Status
 ACCEPTED

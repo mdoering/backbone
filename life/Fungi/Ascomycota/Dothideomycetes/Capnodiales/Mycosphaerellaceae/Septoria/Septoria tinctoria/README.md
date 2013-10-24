@@ -1,5 +1,4 @@
-Septoria tinctoria Brunaud SPECIES
-=======
+# Septoria tinctoria Brunaud SPECIES
 
 #### Status
 ACCEPTED

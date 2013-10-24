@@ -1,5 +1,4 @@
-Amanita rubra Lam. SPECIES
-=======
+# Amanita rubra Lam. SPECIES
 
 #### Status
 ACCEPTED

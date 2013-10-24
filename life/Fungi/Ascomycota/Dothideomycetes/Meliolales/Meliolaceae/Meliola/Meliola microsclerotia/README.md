@@ -1,5 +1,4 @@
-Meliola microsclerotia anon. SPECIES
-=======
+# Meliola microsclerotia anon. SPECIES
 
 #### Status
 ACCEPTED

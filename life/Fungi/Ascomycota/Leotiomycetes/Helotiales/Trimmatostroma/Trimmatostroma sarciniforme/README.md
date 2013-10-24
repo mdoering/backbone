@@ -1,5 +1,4 @@
-Trimmatostroma sarciniforme Goh & Yipp SPECIES
-=======
+# Trimmatostroma sarciniforme Goh & Yipp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Semidelitschia agasmatica Cain & Luck-Allen, 1969 SPECIES
-=======
+# Semidelitschia agasmatica Cain & Luck-Allen, 1969 SPECIES
 
 #### Status
 ACCEPTED

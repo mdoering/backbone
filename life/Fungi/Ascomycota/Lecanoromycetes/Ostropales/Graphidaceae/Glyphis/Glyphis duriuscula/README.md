@@ -1,5 +1,4 @@
-Glyphis duriuscula Stirt. SPECIES
-=======
+# Glyphis duriuscula Stirt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium longum (Wallr.) Sacc. SPECIES
-=======
+# Fusarium longum (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

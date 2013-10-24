@@ -1,5 +1,4 @@
-Uromyces ustalis Tranzschel SPECIES
-=======
+# Uromyces ustalis Tranzschel SPECIES
 
 #### Status
 ACCEPTED

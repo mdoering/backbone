@@ -1,17 +1,16 @@
-Cladonia corallifera f. corallifera FORM
-=======
+# Cladonia corallifera (Kunze) Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Flora, Jena 57: 70 (1874)
 
 #### Original name
-Cladonia corallifera f. corallifera
+Cenomyce corallifera Kunze
 
 ### Remarks
 null

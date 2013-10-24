@@ -1,5 +1,4 @@
-Amanita nauseosa (Wakef.) D.A. Reid, 1966 SPECIES
-=======
+# Amanita nauseosa (Wakef.) D.A. Reid, 1966 SPECIES
 
 #### Status
 ACCEPTED

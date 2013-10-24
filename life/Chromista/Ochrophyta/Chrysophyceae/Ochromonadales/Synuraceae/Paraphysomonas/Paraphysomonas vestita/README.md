@@ -1,8 +1,7 @@
-Physomonas vestita A.C. Stokes SPECIES
-=======
+# Paraphysomonas vestita (A.C. Stokes) De Sadeleer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

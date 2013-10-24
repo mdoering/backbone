@@ -1,5 +1,4 @@
-Hyaloscypha himalayensis Arendh. & R. Sharma SPECIES
-=======
+# Hyaloscypha himalayensis Arendh. & R. Sharma SPECIES
 
 #### Status
 ACCEPTED

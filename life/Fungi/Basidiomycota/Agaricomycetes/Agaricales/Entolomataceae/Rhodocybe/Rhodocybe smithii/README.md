@@ -1,5 +1,4 @@
-Rhodocybe smithii Harmaja SPECIES
-=======
+# Rhodocybe smithii Harmaja SPECIES
 
 #### Status
 ACCEPTED

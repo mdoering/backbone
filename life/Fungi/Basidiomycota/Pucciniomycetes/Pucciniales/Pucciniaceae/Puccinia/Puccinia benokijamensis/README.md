@@ -1,5 +1,4 @@
-Puccinia benokijamensis Hirats. f. SPECIES
-=======
+# Puccinia benokijamensis Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

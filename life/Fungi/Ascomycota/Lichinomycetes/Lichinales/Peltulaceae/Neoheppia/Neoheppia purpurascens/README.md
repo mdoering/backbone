@@ -1,5 +1,4 @@
-Neoheppia purpurascens (Nyl.) Gyeln. SPECIES
-=======
+# Neoheppia purpurascens (Nyl.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichothecium albidoroseum (Roum.) Berl. & Voglino SPECIES
-=======
+# Trichothecium albidoroseum (Roum.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

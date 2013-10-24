@@ -1,5 +1,4 @@
-Nummularia obularia (Fr.) Sacc. SPECIES
-=======
+# Nummularia obularia (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

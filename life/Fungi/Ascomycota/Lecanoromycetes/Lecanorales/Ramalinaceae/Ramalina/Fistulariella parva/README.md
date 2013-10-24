@@ -1,5 +1,4 @@
-Fistulariella parva (Krog & Østh.) Bowler SPECIES
-=======
+# Fistulariella parva (Krog & Østh.) Bowler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria diluta C. Björk, G. Thor & T. Wheeler SPECIES
-=======
+# Pertusaria diluta C. Björk, G. Thor & T. Wheeler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Engizostoma canodiscum (Ellis & Everh.) Kuntze SPECIES
-=======
+# Engizostoma canodiscum (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sterigmatocystis chlorina Cooke & Massee SPECIES
-=======
+# Sterigmatocystis chlorina Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

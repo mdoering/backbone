@@ -1,5 +1,4 @@
-Planctonites Krutzsch, 1977 GENUS
-=======
+# Planctonites Krutzsch, 1977 GENUS
 
 #### Status
 ACCEPTED

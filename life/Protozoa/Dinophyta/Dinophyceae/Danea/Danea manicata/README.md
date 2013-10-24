@@ -1,5 +1,4 @@
-Danea manicata S. P. Damassa SPECIES
-=======
+# Danea manicata S. P. Damassa SPECIES
 
 #### Status
 ACCEPTED

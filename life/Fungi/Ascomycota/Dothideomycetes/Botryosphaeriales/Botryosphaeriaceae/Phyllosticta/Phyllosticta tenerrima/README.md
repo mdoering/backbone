@@ -1,5 +1,4 @@
-Phyllosticta tenerrima Ellis & Everh. SPECIES
-=======
+# Phyllosticta tenerrima Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

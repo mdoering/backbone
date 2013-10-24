@@ -1,5 +1,4 @@
-Peronospora dipsaci Tul., 1854 SPECIES
-=======
+# Peronospora dipsaci Tul., 1854 SPECIES
 
 #### Status
 ACCEPTED

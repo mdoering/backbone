@@ -1,5 +1,4 @@
-Spadicoides tropicalis R.F. Castañeda & G.R.W. Arnold SPECIES
-=======
+# Spadicoides tropicalis R.F. Castañeda & G.R.W. Arnold SPECIES
 
 #### Status
 ACCEPTED

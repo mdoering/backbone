@@ -1,17 +1,16 @@
-Septobasidium frustulosum (Berk. & M.A. Curtis) Pat., 1894 SPECIES
-=======
+# Septobasidium rhabarbarinum (Mont.) Bres., 1916 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 10(2): 79 (1894)
+Annls mycol. 14(3/4): 240 (1916)
 
 #### Original name
-Hymenochaete frustulosa Berk. & M.A. Curtis, 1868
+Daedalea rhabarbarina Mont., 1840
 
 ### Remarks
 null

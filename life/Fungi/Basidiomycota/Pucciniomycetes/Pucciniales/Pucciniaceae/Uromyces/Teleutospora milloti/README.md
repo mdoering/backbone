@@ -1,5 +1,4 @@
-Teleutospora milloti Renault SPECIES
-=======
+# Teleutospora milloti Renault SPECIES
 
 #### Status
 ACCEPTED

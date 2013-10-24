@@ -1,17 +1,16 @@
-Helminthosporium leersiae G.F. Atk., 1897 SPECIES
-=======
+# Bipolaris leersiae (G.F. Atk.) Shoemaker, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 37: 883 (1959)
 
 #### Original name
-null
+Helminthosporium leersii G.F. Atk.
 
 ### Remarks
 null

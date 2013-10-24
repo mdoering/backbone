@@ -1,11 +1,10 @@
-Bacteroides zoogleoformans (Weinberg et al., 1937) Cato et al., 1982 SPECIES
-=======
+# Prevotella zoogleoformans (Weinberg et al., 1937) Shah & Collins, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

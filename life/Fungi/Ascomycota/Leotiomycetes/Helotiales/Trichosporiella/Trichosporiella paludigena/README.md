@@ -1,14 +1,13 @@
-Candida paludigena Golubev & Blagod., 1981 SPECIES
-=======
+# Trichosporiella paludigena (Golubev & Blagod.) de Hoog, Rant.-Leht. & M.T. Sm., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Golubev, Blagodatzkaya, Suetin & Trotsenka, Int. J. Syst. Bacteriol. 31(1): 92 (1981)
+Antonie van Leeuwenhoek 51(1): 105 (1985)
 
 #### Original name
 Candida paludigena Golubev & Blagod., 1981

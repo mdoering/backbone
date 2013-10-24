@@ -1,5 +1,4 @@
-Scolicotrichum phyllostachydis Teng SPECIES
-=======
+# Scolicotrichum phyllostachydis Teng SPECIES
 
 #### Status
 ACCEPTED

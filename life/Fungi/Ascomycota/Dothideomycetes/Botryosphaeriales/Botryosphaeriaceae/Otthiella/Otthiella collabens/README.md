@@ -1,5 +1,4 @@
-Otthiella collabens Speg. SPECIES
-=======
+# Otthiella collabens Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea philippina var. philippina VARIETY
-=======
+# Usnea philippina Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea philippina var. philippina
+Usnea philippina Vain.
 
 ### Remarks
 null

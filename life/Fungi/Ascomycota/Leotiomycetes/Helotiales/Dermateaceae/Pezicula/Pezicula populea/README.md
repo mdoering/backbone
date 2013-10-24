@@ -1,5 +1,4 @@
-Pezicula populea Hazsl. SPECIES
-=======
+# Pezicula populea Hazsl. SPECIES
 
 #### Status
 ACCEPTED

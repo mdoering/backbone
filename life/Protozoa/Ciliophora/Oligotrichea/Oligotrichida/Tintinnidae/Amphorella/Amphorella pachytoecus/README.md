@@ -1,5 +1,4 @@
-Amphorella pachytoecus SPECIES
-=======
+# Amphorella pachytoecus SPECIES
 
 #### Status
 ACCEPTED

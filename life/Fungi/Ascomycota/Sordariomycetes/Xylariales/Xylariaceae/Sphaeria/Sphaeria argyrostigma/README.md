@@ -1,5 +1,4 @@
-Sphaeria argyrostigma Berk. SPECIES
-=======
+# Sphaeria argyrostigma Berk. SPECIES
 
 #### Status
 ACCEPTED

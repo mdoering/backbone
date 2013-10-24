@@ -1,5 +1,4 @@
-Sphacelaria brevicornis Setchell & N.L.Gardner, 1924 SPECIES
-=======
+# Sphacelaria brevicornis Setchell & N.L.Gardner, 1924 SPECIES
 
 #### Status
 ACCEPTED

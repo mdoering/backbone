@@ -1,5 +1,4 @@
-Arcangeliella magna (Parks) Zeller SPECIES
-=======
+# Arcangeliella magna (Parks) Zeller SPECIES
 
 #### Status
 ACCEPTED

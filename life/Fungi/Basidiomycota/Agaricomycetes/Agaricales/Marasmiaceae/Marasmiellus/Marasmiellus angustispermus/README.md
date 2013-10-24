@@ -1,5 +1,4 @@
-Marasmiellus angustispermus Singer SPECIES
-=======
+# Marasmiellus angustispermus Singer SPECIES
 
 #### Status
 ACCEPTED

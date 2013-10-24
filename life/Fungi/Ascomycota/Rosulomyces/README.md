@@ -1,5 +1,4 @@
-Rosulomyces S. Marchand & Cabral GENUS
-=======
+# Rosulomyces S. Marchand & Cabral GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporormiella splendens (Cain) S.I. Ahmed & Cain SPECIES
-=======
+# Sporormiella splendens (Cain) S.I. Ahmed & Cain SPECIES
 
 #### Status
 ACCEPTED

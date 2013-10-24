@@ -1,5 +1,4 @@
-Bolbitius phascoides Speg. SPECIES
-=======
+# Bolbitius phascoides Speg. SPECIES
 
 #### Status
 ACCEPTED

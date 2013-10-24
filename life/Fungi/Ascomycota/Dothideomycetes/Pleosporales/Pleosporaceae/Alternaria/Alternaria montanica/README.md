@@ -1,5 +1,4 @@
-Alternaria montanica E.G. Simmons & D.J. Robeson SPECIES
-=======
+# Alternaria montanica E.G. Simmons & D.J. Robeson SPECIES
 
 #### Status
 ACCEPTED

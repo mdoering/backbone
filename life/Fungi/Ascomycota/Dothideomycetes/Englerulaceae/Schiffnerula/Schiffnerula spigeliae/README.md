@@ -1,5 +1,4 @@
-Schiffnerula spigeliae Hansf. SPECIES
-=======
+# Schiffnerula spigeliae Hansf. SPECIES
 
 #### Status
 ACCEPTED

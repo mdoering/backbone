@@ -1,17 +1,16 @@
-Scirrhia pini var. pini VARIETY
-=======
+# Mycosphaerella pini Rostr. ex Munk, 1957 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 44(9): 1171 (1966)
+Dansk bot. Ark. 17(no. 1): 312 (1957)
 
 #### Original name
-Scirrhia pini var. pini
+Mycosphaerella pini Rostr. ex Munk, 1957
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Helicosporium neesii R.T. Moore SPECIES
-=======
+# Helicosporium neesii R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

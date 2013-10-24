@@ -1,5 +1,4 @@
-Cetrariastrum andense (Kärnefelt) Sipman SPECIES
-=======
+# Cetrariastrum andense (Kärnefelt) Sipman SPECIES
 
 #### Status
 ACCEPTED

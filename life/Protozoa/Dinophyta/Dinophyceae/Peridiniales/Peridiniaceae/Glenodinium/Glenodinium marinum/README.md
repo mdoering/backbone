@@ -1,5 +1,4 @@
-Glenodinium marinum J. Massart SPECIES
-=======
+# Glenodinium marinum J. Massart SPECIES
 
 #### Status
 ACCEPTED

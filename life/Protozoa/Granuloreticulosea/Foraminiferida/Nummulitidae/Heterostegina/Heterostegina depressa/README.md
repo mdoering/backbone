@@ -1,5 +1,4 @@
-Heterostegina depressa d'Orbigny, 1826 SPECIES
-=======
+# Heterostegina depressa d'Orbigny, 1826 SPECIES
 
 #### Status
 ACCEPTED

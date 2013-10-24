@@ -1,5 +1,4 @@
-Nummospora hexamera E. Müll. & Shoemaker, 1964 SPECIES
-=======
+# Nummospora hexamera E. Müll. & Shoemaker, 1964 SPECIES
 
 #### Status
 ACCEPTED

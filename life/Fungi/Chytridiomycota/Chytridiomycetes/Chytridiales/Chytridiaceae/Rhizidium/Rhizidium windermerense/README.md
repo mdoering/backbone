@@ -1,5 +1,4 @@
-Rhizidium windermerense Canter SPECIES
-=======
+# Rhizidium windermerense Canter SPECIES
 
 #### Status
 ACCEPTED

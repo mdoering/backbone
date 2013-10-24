@@ -1,5 +1,4 @@
-Xanthoparmelia subtasmanica Elix & T. H. Nash SPECIES
-=======
+# Xanthoparmelia subtasmanica Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peronospora tauscheriae Kalymb. SPECIES
-=======
+# Peronospora tauscheriae Kalymb. SPECIES
 
 #### Status
 ACCEPTED

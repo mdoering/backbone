@@ -1,5 +1,4 @@
-Androsaceus omphalinus Pat. & Demange SPECIES
-=======
+# Androsaceus omphalinus Pat. & Demange SPECIES
 
 #### Status
 ACCEPTED

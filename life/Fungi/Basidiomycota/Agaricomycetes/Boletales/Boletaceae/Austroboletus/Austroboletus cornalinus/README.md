@@ -1,5 +1,4 @@
-Austroboletus cornalinus (Perr.-Bertr. & R. Heim) E. Horak SPECIES
-=======
+# Austroboletus cornalinus (Perr.-Bertr. & R. Heim) E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pestalotia hartigii subsp. hartigii SUBSPECIES
-=======
+# Truncatella hartigii (Tubeuf) Steyaert, 1949 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Jard. bot. État Brux. 19: 298 (1949)
 
 #### Original name
-Pestalotia hartigii subsp. hartigii
+Pestalotia hartigii Tubeuf, 1888
 
 ### Remarks
 null

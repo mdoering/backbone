@@ -1,5 +1,4 @@
-Lecidea zabotica SPECIES
-=======
+# Lecidea zabotica SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeosphaeria sporoboli (Ellis & Galloway) Huhndorf SPECIES
-=======
+# Phaeosphaeria sporoboli (Ellis & Galloway) Huhndorf SPECIES
 
 #### Status
 ACCEPTED

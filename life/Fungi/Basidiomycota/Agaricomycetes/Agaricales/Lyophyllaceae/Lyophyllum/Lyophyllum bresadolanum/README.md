@@ -1,5 +1,4 @@
-Lyophyllum bresadolanum E. Ludw. SPECIES
-=======
+# Lyophyllum bresadolanum E. Ludw. SPECIES
 
 #### Status
 ACCEPTED

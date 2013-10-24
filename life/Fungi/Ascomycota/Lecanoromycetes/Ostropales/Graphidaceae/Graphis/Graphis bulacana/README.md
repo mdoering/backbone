@@ -1,5 +1,4 @@
-Graphis bulacana Vain. SPECIES
-=======
+# Graphis bulacana Vain. SPECIES
 
 #### Status
 ACCEPTED

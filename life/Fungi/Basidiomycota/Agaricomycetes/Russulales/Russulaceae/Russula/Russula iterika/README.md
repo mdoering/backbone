@@ -1,5 +1,4 @@
-Russula iterika Grgur. SPECIES
-=======
+# Russula iterika Grgur. SPECIES
 
 #### Status
 ACCEPTED

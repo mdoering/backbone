@@ -1,5 +1,4 @@
-Alteromonas tagae Chiu HH et al., 2007 SPECIES
-=======
+# Alteromonas tagae Chiu HH et al., 2007 SPECIES
 
 #### Status
 ACCEPTED

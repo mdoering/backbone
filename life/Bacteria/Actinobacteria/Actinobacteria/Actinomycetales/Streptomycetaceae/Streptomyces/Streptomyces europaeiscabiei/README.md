@@ -1,5 +1,4 @@
-Streptomyces europaeiscabiei Bouchek-Mechiche et al., 2000 SPECIES
-=======
+# Streptomyces europaeiscabiei Bouchek-Mechiche et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

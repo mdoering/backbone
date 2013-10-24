@@ -1,5 +1,4 @@
-Thyrsina GENUS
-=======
+# Thyrsina GENUS
 
 #### Status
 ACCEPTED

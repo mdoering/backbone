@@ -1,5 +1,4 @@
-Asteromella coryphae Petr. & Syd. SPECIES
-=======
+# Asteromella coryphae Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

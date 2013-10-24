@@ -1,5 +1,4 @@
-Coryneum opacum Speg., 1888 SPECIES
-=======
+# Coryneum opacum Speg., 1888 SPECIES
 
 #### Status
 ACCEPTED

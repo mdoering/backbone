@@ -1,5 +1,4 @@
-Eriosphaeria raripila Sacc. SPECIES
-=======
+# Eriosphaeria raripila Sacc. SPECIES
 
 #### Status
 ACCEPTED

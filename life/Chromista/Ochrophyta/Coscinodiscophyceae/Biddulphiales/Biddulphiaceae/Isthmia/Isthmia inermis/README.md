@@ -1,5 +1,4 @@
-Isthmia inermis Ehrenberg SPECIES
-=======
+# Isthmia inermis Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

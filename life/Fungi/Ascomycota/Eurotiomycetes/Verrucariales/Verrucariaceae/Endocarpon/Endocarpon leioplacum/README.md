@@ -1,5 +1,4 @@
-Endocarpon leioplacum Somerf. SPECIES
-=======
+# Endocarpon leioplacum Somerf. SPECIES
 
 #### Status
 ACCEPTED

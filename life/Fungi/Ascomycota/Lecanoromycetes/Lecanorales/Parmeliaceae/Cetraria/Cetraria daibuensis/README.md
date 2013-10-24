@@ -1,5 +1,4 @@
-Cetraria daibuensis Räsänen SPECIES
-=======
+# Cetraria daibuensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

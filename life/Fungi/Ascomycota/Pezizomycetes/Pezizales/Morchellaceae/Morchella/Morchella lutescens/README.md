@@ -1,5 +1,4 @@
-Morchella lutescens Leuba SPECIES
-=======
+# Morchella lutescens Leuba SPECIES
 
 #### Status
 ACCEPTED

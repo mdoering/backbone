@@ -1,5 +1,4 @@
-Polyporus hodgkinsoniae Kalchbr. SPECIES
-=======
+# Polyporus hodgkinsoniae Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

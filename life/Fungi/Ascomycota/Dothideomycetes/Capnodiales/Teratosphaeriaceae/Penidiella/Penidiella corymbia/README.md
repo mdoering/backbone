@@ -1,5 +1,4 @@
-Penidiella corymbia Cheew. & Crous, 2009 SPECIES
-=======
+# Penidiella corymbia Cheew. & Crous, 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium urophorum Durieu & Mont. SPECIES
-=======
+# Helminthosporium urophorum Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

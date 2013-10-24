@@ -1,5 +1,4 @@
-Phaeofabraea miconiae Rehm, 1909 SPECIES
-=======
+# Phaeofabraea miconiae Rehm, 1909 SPECIES
 
 #### Status
 ACCEPTED

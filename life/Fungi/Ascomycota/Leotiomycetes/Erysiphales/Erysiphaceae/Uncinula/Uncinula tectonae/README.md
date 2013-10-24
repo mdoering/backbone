@@ -1,5 +1,4 @@
-Uncinula tectonae E.S. Salmon SPECIES
-=======
+# Uncinula tectonae E.S. Salmon SPECIES
 
 #### Status
 ACCEPTED

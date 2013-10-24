@@ -1,5 +1,4 @@
-Rubrimonas cliftonensis Suzuki et al., 1999 SPECIES
-=======
+# Rubrimonas cliftonensis Suzuki et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

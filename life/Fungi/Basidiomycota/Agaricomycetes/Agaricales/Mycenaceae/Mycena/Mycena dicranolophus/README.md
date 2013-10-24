@@ -1,5 +1,4 @@
-Mycena dicranolophus Maas Geest. SPECIES
-=======
+# Mycena dicranolophus Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

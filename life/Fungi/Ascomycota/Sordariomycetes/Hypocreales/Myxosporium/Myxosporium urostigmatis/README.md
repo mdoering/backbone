@@ -1,5 +1,4 @@
-Myxosporium urostigmatis Oudem. SPECIES
-=======
+# Myxosporium urostigmatis Oudem. SPECIES
 
 #### Status
 ACCEPTED

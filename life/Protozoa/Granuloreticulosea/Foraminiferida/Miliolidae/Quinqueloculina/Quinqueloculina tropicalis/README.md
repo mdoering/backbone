@@ -1,5 +1,4 @@
-Quinqueloculina tropicalis SPECIES
-=======
+# Quinqueloculina tropicalis SPECIES
 
 #### Status
 ACCEPTED

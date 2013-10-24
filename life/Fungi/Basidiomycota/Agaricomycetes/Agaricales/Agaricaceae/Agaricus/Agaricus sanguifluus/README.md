@@ -1,5 +1,4 @@
-Agaricus sanguifluus (Paulet) SPECIES
-=======
+# Agaricus sanguifluus (Paulet) SPECIES
 
 #### Status
 ACCEPTED

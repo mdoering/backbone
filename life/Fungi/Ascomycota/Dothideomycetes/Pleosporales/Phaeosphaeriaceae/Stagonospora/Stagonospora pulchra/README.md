@@ -1,5 +1,4 @@
-Stagonospora pulchra Bubák & Krieg. SPECIES
-=======
+# Stagonospora pulchra Bubák & Krieg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eriothyrium dubiosum Speg., 1888 SPECIES
-=======
+# Eriothyrium dubiosum Speg., 1888 SPECIES
 
 #### Status
 ACCEPTED

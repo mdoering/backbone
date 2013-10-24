@@ -1,5 +1,4 @@
-Physalospora aspiciliae (Vain.) Zopf SPECIES
-=======
+# Physalospora aspiciliae (Vain.) Zopf SPECIES
 
 #### Status
 ACCEPTED

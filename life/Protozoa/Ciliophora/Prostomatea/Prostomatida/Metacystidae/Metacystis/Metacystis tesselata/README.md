@@ -1,5 +1,4 @@
-Metacystis tesselata Kahl, 1926 SPECIES
-=======
+# Metacystis tesselata Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

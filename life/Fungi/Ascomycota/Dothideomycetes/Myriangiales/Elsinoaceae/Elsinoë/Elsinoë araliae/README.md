@@ -1,5 +1,4 @@
-Elsinoë araliae S. Yamam. SPECIES
-=======
+# Elsinoë araliae S. Yamam. SPECIES
 
 #### Status
 ACCEPTED

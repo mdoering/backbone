@@ -1,5 +1,4 @@
-Asterothyrites ruedae Mart.-Hern. & Tom.-Ort. SPECIES
-=======
+# Asterothyrites ruedae Mart.-Hern. & Tom.-Ort. SPECIES
 
 #### Status
 ACCEPTED

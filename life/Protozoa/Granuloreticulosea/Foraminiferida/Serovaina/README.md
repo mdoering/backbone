@@ -1,5 +1,4 @@
-Serovaina Sliter, 1968 GENUS
-=======
+# Serovaina Sliter, 1968 GENUS
 
 #### Status
 ACCEPTED

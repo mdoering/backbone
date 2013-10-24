@@ -1,5 +1,4 @@
-Ophiognomonia procumbens (Fuckel) Berl. SPECIES
-=======
+# Ophiognomonia procumbens (Fuckel) Berl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophodermium cedrinum Maire SPECIES
-=======
+# Lophodermium cedrinum Maire SPECIES
 
 #### Status
 ACCEPTED

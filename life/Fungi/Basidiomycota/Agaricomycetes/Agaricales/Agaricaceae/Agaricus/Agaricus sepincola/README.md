@@ -1,5 +1,4 @@
-Agaricus sepincola Pers. SPECIES
-=======
+# Agaricus sepincola Pers. SPECIES
 
 #### Status
 ACCEPTED

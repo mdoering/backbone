@@ -1,5 +1,4 @@
-Sciniatosporium butyrospermi (Hansf.) Morgan-Jones SPECIES
-=======
+# Sciniatosporium butyrospermi (Hansf.) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

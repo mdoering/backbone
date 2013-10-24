@@ -1,5 +1,4 @@
-Russula pseudosuberetorum Dagron SPECIES
-=======
+# Russula pseudosuberetorum Dagron SPECIES
 
 #### Status
 ACCEPTED

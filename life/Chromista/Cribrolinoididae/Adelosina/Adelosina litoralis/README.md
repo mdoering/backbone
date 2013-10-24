@@ -1,5 +1,4 @@
-Adelosina litoralis Martinotti, 1921 SPECIES
-=======
+# Adelosina litoralis Martinotti, 1921 SPECIES
 
 #### Status
 ACCEPTED

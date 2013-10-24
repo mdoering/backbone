@@ -1,5 +1,4 @@
-Stigmatidium affine (Müll. Arg.) Stizenb. SPECIES
-=======
+# Stigmatidium affine (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

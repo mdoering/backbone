@@ -1,5 +1,4 @@
-Paracondylostoma clavistoma subsp. clavistoma SUBSPECIES
-=======
+# Paracondylostoma clavistoma Foissner & Kreutz, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus brunneolus Berk. SPECIES
-=======
+# Polyporus brunneolus Berk. SPECIES
 
 #### Status
 ACCEPTED

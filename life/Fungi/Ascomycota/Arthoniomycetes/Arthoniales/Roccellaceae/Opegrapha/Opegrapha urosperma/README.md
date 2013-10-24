@@ -1,5 +1,4 @@
-Opegrapha urosperma Fée SPECIES
-=======
+# Opegrapha urosperma Fée SPECIES
 
 #### Status
 ACCEPTED

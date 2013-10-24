@@ -1,5 +1,4 @@
-Uredo lupini Berk. & M.A. Curtis SPECIES
-=======
+# Uredo lupini Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius subconicus M.M. Moser SPECIES
-=======
+# Cortinarius subconicus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporisorium guangxiense L. Guo SPECIES
-=======
+# Sporisorium guangxiense L. Guo SPECIES
 
 #### Status
 ACCEPTED

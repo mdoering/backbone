@@ -1,5 +1,4 @@
-Naegelia penicillata (Nägeli) Rabenh. SPECIES
-=======
+# Naegelia penicillata (Nägeli) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

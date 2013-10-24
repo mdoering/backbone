@@ -1,5 +1,4 @@
-Psorothecium versicolor (Nyl.) Zahlbr. SPECIES
-=======
+# Psorothecium versicolor (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

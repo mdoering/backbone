@@ -1,5 +1,4 @@
-Anoplophrya branchiarum SPECIES
-=======
+# Anoplophrya branchiarum SPECIES
 
 #### Status
 ACCEPTED

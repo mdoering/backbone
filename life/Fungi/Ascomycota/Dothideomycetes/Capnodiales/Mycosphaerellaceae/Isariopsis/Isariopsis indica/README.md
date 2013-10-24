@@ -1,5 +1,4 @@
-Isariopsis indica var. indica VARIETY
-=======
+# Isariopsis indica K.R.G. Nair SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Curr. Sci. 33(1): 25 (1964)
 
 #### Original name
-Isariopsis indica var. indica
+Isariopsis indica K.R.G. Nair
 
 ### Remarks
 null

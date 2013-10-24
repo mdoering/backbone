@@ -1,5 +1,4 @@
-Cercospora echii G. Winter SPECIES
-=======
+# Cercospora echii G. Winter SPECIES
 
 #### Status
 ACCEPTED

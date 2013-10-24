@@ -1,5 +1,4 @@
-Liouamonas B.V. Skvortzov, 1960 GENUS
-=======
+# Liouamonas B.V. Skvortzov, 1960 GENUS
 
 #### Status
 ACCEPTED

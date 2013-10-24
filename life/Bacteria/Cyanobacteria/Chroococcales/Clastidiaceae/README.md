@@ -1,5 +1,4 @@
-Clastidiaceae FAMILY
-=======
+# Clastidiaceae FAMILY
 
 #### Status
 ACCEPTED

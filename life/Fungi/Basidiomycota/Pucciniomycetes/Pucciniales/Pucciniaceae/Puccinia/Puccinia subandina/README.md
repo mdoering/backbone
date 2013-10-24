@@ -1,5 +1,4 @@
-Puccinia subandina Speg. SPECIES
-=======
+# Puccinia subandina Speg. SPECIES
 
 #### Status
 ACCEPTED

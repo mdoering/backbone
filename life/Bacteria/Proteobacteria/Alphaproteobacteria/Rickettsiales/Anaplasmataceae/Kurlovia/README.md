@@ -1,5 +1,4 @@
-Kurlovia GENUS
-=======
+# Kurlovia GENUS
 
 #### Status
 ACCEPTED

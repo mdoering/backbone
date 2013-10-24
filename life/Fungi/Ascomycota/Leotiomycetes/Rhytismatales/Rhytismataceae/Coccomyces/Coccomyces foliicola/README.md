@@ -1,14 +1,13 @@
-Coccomyces boydii f. foliicola Dennis & Spooner, 1977 FORM
-=======
+# Coccomyces foliicola (Dennis & Spooner) Sherwood, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 32(1): 111 (1977)
+Occ. Pap. Farlow Herb. Crypt. Bot. 15: 55 (1980)
 
 #### Original name
 Coccomyces boydii f. foliicola Dennis & Spooner, 1977

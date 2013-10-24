@@ -1,5 +1,4 @@
-Cortinarius griseovioleipes Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius griseovioleipes Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conostroma quercicola Muthumary SPECIES
-=======
+# Conostroma quercicola Muthumary SPECIES
 
 #### Status
 ACCEPTED

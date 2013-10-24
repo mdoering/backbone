@@ -1,5 +1,4 @@
-Erinella avellaneomellea Starbäck SPECIES
-=======
+# Erinella avellaneomellea Starbäck SPECIES
 
 #### Status
 ACCEPTED

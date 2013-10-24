@@ -1,5 +1,4 @@
-Pterygiopsidomyces atrae Cif. & Tomas. SPECIES
-=======
+# Pterygiopsidomyces atrae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

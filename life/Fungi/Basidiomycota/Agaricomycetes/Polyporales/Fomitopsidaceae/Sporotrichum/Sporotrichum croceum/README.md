@@ -1,5 +1,4 @@
-Sporotrichum croceum Kunze SPECIES
-=======
+# Sporotrichum croceum Kunze SPECIES
 
 #### Status
 ACCEPTED

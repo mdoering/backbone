@@ -1,5 +1,4 @@
-Boletus formicarius Velen. SPECIES
-=======
+# Boletus formicarius Velen. SPECIES
 
 #### Status
 ACCEPTED

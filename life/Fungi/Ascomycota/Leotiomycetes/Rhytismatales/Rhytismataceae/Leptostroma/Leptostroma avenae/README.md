@@ -1,5 +1,4 @@
-Leptostroma avenae Brunaud SPECIES
-=======
+# Leptostroma avenae Brunaud SPECIES
 
 #### Status
 ACCEPTED

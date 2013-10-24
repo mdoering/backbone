@@ -1,5 +1,4 @@
-Pseudocercospora cluytiae (Kalchbr. & Cooke) Deighton SPECIES
-=======
+# Pseudocercospora cluytiae (Kalchbr. & Cooke) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria flavidocarnea Rehm SPECIES
-=======
+# Nectria flavidocarnea Rehm SPECIES
 
 #### Status
 ACCEPTED

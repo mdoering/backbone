@@ -1,5 +1,4 @@
-Podospora musae Maire SPECIES
-=======
+# Podospora musae Maire SPECIES
 
 #### Status
 ACCEPTED

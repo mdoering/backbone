@@ -1,5 +1,4 @@
-Sphacelotheca foveolati Maire SPECIES
-=======
+# Sphacelotheca foveolati Maire SPECIES
 
 #### Status
 ACCEPTED

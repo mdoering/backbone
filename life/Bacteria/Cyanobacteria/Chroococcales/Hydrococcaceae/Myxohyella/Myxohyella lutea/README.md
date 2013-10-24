@@ -1,8 +1,7 @@
-Chlorogloea lutea Setchell & Gardner SPECIES
-=======
+# Myxohyella lutea (Setchell & Gardner) Geitler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

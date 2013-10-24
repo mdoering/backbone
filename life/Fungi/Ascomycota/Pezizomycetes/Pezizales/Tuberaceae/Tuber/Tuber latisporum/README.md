@@ -1,5 +1,4 @@
-Tuber latisporum Juan Chen & P.G. Liu SPECIES
-=======
+# Tuber latisporum Juan Chen & P.G. Liu SPECIES
 
 #### Status
 ACCEPTED

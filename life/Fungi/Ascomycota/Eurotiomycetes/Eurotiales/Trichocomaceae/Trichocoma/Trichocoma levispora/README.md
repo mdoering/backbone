@@ -1,5 +1,4 @@
-Trichocoma levispora Massee SPECIES
-=======
+# Trichocoma levispora Massee SPECIES
 
 #### Status
 ACCEPTED

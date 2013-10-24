@@ -1,17 +1,16 @@
-Alphitomorpha evonymi Wallr. SPECIES
-=======
+# Alphitomorpha euonymi Wallr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Wetter. Gesellsch. Ges. Naturk. 4: 245 (1819)
 
 #### Original name
-Alphitomorpha evonymi Wallr.
+Alphitomorpha euonymi Wallr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phaeoacremonium pallidum Damm, L. Mostert & Crous SPECIES
-=======
+# Phaeoacremonium pallidum Damm, L. Mostert & Crous SPECIES
 
 #### Status
 ACCEPTED

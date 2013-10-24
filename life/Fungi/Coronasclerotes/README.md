@@ -1,5 +1,4 @@
-Coronasclerotes Stach & Pickh. GENUS
-=======
+# Coronasclerotes Stach & Pickh. GENUS
 
 #### Status
 ACCEPTED

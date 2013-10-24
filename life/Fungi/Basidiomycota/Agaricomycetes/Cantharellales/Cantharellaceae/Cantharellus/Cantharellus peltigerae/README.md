@@ -1,5 +1,4 @@
-Cantharellus peltigerae Velen. SPECIES
-=======
+# Cantharellus peltigerae Velen. SPECIES
 
 #### Status
 ACCEPTED

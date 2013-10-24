@@ -1,5 +1,4 @@
-Phyllostictina murnadensis Ponnappa SPECIES
-=======
+# Phyllostictina murnadensis Ponnappa SPECIES
 
 #### Status
 ACCEPTED

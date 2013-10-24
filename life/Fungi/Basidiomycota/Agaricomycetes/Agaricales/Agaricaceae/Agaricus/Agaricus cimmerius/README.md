@@ -1,5 +1,4 @@
-Agaricus cimmerius Fr. SPECIES
-=======
+# Agaricus cimmerius Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium cinerascens Biourge, 1923 SPECIES
-=======
+# Penicillium cinerascens Biourge, 1923 SPECIES
 
 #### Status
 ACCEPTED

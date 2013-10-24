@@ -1,5 +1,4 @@
-Protoperidinium roseum (Paulsen) Balech SPECIES
-=======
+# Protoperidinium roseum (Paulsen) Balech SPECIES
 
 #### Status
 ACCEPTED

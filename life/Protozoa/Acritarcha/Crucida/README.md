@@ -1,5 +1,4 @@
-Crucida Ottone, 1996 GENUS
-=======
+# Crucida Ottone, 1996 GENUS
 
 #### Status
 ACCEPTED

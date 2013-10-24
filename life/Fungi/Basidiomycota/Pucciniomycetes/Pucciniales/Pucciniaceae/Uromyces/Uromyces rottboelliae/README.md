@@ -1,5 +1,4 @@
-Uromyces rottboelliae Arthur SPECIES
-=======
+# Uromyces rottboelliae Arthur SPECIES
 
 #### Status
 ACCEPTED

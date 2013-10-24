@@ -1,5 +1,4 @@
-Lecidea similigena Nyl. SPECIES
-=======
+# Lecidea similigena Nyl. SPECIES
 
 #### Status
 ACCEPTED

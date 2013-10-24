@@ -1,5 +1,4 @@
-Arkonites Legault, 1973 GENUS
-=======
+# Arkonites Legault, 1973 GENUS
 
 #### Status
 ACCEPTED

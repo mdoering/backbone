@@ -1,5 +1,4 @@
-Septoria ananassicola Bat. SPECIES
-=======
+# Septoria ananassicola Bat. SPECIES
 
 #### Status
 ACCEPTED

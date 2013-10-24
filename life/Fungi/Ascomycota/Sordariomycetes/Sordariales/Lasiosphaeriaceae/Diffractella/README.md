@@ -1,5 +1,4 @@
-Diffractella Guarro, P.F. Cannon & Aa GENUS
-=======
+# Diffractella Guarro, P.F. Cannon & Aa GENUS
 
 #### Status
 ACCEPTED

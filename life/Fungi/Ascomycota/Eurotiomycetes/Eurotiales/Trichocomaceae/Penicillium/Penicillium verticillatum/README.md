@@ -1,5 +1,4 @@
-Penicillium verticillatum Corda SPECIES
-=======
+# Penicillium verticillatum Corda SPECIES
 
 #### Status
 ACCEPTED

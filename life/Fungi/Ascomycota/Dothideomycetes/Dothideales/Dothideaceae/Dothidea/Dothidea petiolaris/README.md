@@ -1,5 +1,4 @@
-Dothidea petiolaris Schwein., 1832 SPECIES
-=======
+# Dothidea petiolaris Schwein., 1832 SPECIES
 
 #### Status
 ACCEPTED

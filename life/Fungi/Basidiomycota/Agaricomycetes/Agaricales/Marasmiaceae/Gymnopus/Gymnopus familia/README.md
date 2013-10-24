@@ -1,5 +1,4 @@
-Gymnopus familia (Peck) Murrill SPECIES
-=======
+# Gymnopus familia (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

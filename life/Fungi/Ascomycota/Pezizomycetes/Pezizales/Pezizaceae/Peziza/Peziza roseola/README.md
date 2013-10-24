@@ -1,5 +1,4 @@
-Peziza roseola Fr. SPECIES
-=======
+# Peziza roseola Fr. SPECIES
 
 #### Status
 ACCEPTED

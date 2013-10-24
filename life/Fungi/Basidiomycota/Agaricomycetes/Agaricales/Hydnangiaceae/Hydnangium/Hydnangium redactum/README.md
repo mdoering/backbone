@@ -1,5 +1,4 @@
-Hydnangium redactum Dring SPECIES
-=======
+# Hydnangium redactum Dring SPECIES
 
 #### Status
 ACCEPTED

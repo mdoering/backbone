@@ -1,5 +1,4 @@
-Marasmius favoloides Henn. SPECIES
-=======
+# Marasmius favoloides Henn. SPECIES
 
 #### Status
 ACCEPTED

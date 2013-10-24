@@ -1,5 +1,4 @@
-Acanthocystis GENUS
-=======
+# Acanthocystis GENUS
 
 #### Status
 ACCEPTED

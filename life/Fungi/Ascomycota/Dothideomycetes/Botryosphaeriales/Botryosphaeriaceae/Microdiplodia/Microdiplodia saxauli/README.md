@@ -1,5 +1,4 @@
-Microdiplodia saxauli (Kravtzev) Frolov SPECIES
-=======
+# Microdiplodia saxauli (Kravtzev) Frolov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora microsporeta (Hue) Zahlbr. SPECIES
-=======
+# Lecanora microsporeta (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

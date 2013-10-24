@@ -1,5 +1,4 @@
-Chaetocypha crouanii (Pat. & Doass.) Kuntze SPECIES
-=======
+# Chaetocypha crouanii (Pat. & Doass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

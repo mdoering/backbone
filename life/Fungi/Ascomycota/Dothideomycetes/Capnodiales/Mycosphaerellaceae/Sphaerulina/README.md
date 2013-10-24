@@ -1,5 +1,4 @@
-Sphaerulina Saccardo, 1878 GENUS
-=======
+# Sphaerulina Saccardo, 1878 GENUS
 
 #### Status
 ACCEPTED

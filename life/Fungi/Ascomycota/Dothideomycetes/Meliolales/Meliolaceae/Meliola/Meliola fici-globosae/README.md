@@ -1,5 +1,4 @@
-Meliola fici-globosae Hansf. SPECIES
-=======
+# Meliola fici-globosae Hansf. SPECIES
 
 #### Status
 ACCEPTED

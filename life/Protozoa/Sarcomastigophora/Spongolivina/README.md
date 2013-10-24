@@ -1,5 +1,4 @@
-Spongolivina Haeckel, 1887 GENUS
-=======
+# Spongolivina Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

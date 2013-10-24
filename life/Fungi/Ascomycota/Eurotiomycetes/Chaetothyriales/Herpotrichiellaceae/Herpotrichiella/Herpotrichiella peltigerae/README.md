@@ -1,5 +1,4 @@
-Herpotrichiella peltigerae (Fuckel) D. Hawksw. SPECIES
-=======
+# Herpotrichiella peltigerae (Fuckel) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

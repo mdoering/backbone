@@ -1,5 +1,4 @@
-Bolivina doniezi SPECIES
-=======
+# Bolivina doniezi SPECIES
 
 #### Status
 ACCEPTED

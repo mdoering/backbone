@@ -1,5 +1,4 @@
-Pseudocercospora erythrogena (G.F. Atk.) U. Braun SPECIES
-=======
+# Pseudocercospora erythrogena (G.F. Atk.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetodiplodia robertiani Cruchet SPECIES
-=======
+# Chaetodiplodia robertiani Cruchet SPECIES
 
 #### Status
 ACCEPTED

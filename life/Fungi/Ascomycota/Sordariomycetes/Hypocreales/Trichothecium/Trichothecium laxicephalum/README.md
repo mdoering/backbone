@@ -1,5 +1,4 @@
-Trichothecium laxicephalum (Kamyschko) M.A. Litv. SPECIES
-=======
+# Trichothecium laxicephalum (Kamyschko) M.A. Litv. SPECIES
 
 #### Status
 ACCEPTED

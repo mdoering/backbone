@@ -1,5 +1,4 @@
-Hypocrella marginalis Henn. SPECIES
-=======
+# Hypocrella marginalis Henn. SPECIES
 
 #### Status
 ACCEPTED

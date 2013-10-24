@@ -1,5 +1,4 @@
-Rhabdospora fusarioides Naumov SPECIES
-=======
+# Rhabdospora fusarioides Naumov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora manitobiensis Dearn. & Bisby SPECIES
-=======
+# Cercospora manitobiensis Dearn. & Bisby SPECIES
 
 #### Status
 ACCEPTED

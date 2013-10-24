@@ -1,5 +1,4 @@
-Mycovellosiella imperatae (Syd. & P. Syd.) X.J. Liu & Y.L. Guo SPECIES
-=======
+# Mycovellosiella imperatae (Syd. & P. Syd.) X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichothyrina ugandensis (Hansf.) Arx SPECIES
-=======
+# Trichothyrina ugandensis (Hansf.) Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporites bipartitus Félix SPECIES
-=======
+# Cladosporites bipartitus Félix SPECIES
 
 #### Status
 ACCEPTED

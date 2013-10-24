@@ -1,5 +1,4 @@
-Cercospora mimuli Ellis & Everh. SPECIES
-=======
+# Cercospora mimuli Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

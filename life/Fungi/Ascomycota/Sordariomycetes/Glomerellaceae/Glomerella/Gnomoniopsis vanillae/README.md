@@ -1,5 +1,4 @@
-Gnomoniopsis vanillae Stoneman SPECIES
-=======
+# Gnomoniopsis vanillae Stoneman SPECIES
 
 #### Status
 ACCEPTED

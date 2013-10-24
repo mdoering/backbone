@@ -1,5 +1,4 @@
-Glomerella rufomaculans-vaccinii Shear, 1907 SPECIES
-=======
+# Glomerella rufomaculans-vaccinii Shear, 1907 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amarenomyces O.E. Erikss. GENUS
-=======
+# Amarenomyces O.E. Erikss. GENUS
 
 #### Status
 ACCEPTED

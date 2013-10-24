@@ -1,5 +1,4 @@
-Gorgonisphaeridium winslowiae Staplin, Jansonius & Pocock, 1965 SPECIES
-=======
+# Gorgonisphaeridium winslowiae Staplin, Jansonius & Pocock, 1965 SPECIES
 
 #### Status
 ACCEPTED

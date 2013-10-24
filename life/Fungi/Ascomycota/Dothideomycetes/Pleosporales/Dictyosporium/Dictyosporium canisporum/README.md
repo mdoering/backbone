@@ -1,5 +1,4 @@
-Dictyosporium canisporum L. Cai & K.D. Hyde SPECIES
-=======
+# Dictyosporium canisporum L. Cai & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeoramularia sudanensis Deighton SPECIES
-=======
+# Phaeoramularia sudanensis Deighton SPECIES
 
 #### Status
 ACCEPTED

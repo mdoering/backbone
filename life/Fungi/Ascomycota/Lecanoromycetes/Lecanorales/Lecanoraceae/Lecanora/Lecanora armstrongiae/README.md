@@ -1,5 +1,4 @@
-Lecanora armstrongiae (T.A. Jones {?} ) Stizenb. SPECIES
-=======
+# Lecanora armstrongiae (T.A. Jones {?} ) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

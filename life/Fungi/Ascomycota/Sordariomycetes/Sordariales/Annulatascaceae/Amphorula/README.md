@@ -1,5 +1,4 @@
-Amphorula GENUS
-=======
+# Amphorula GENUS
 
 #### Status
 ACCEPTED

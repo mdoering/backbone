@@ -1,17 +1,16 @@
-Podaxon algericum Pat. SPECIES
-=======
+# Podaxis algericum Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 20: 53 (1904)
 
 #### Original name
-Podaxon algericum Pat.
+Podaxis algericum Pat.
 
 ### Remarks
 null

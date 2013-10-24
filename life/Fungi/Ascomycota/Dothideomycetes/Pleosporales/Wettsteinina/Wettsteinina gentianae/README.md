@@ -1,5 +1,4 @@
-Wettsteinina gentianae (Wehm.) M.E. Barr SPECIES
-=======
+# Wettsteinina gentianae (Wehm.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

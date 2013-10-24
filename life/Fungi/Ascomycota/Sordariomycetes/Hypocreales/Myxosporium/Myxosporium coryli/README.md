@@ -1,5 +1,4 @@
-Myxosporium coryli Oudem. SPECIES
-=======
+# Myxosporium coryli Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irpex irpicinus (Berk. & Broome) D.A. Reid SPECIES
-=======
+# Irpex irpicinus (Berk. & Broome) D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

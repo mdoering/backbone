@@ -1,5 +1,4 @@
-Dictyosporites elsikii Kalgutkar SPECIES
-=======
+# Dictyosporites elsikii Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

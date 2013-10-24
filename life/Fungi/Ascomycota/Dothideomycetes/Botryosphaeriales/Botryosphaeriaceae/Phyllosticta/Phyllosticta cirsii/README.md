@@ -1,5 +1,4 @@
-Phyllosticta cirsii Desm., 1847 SPECIES
-=======
+# Phyllosticta cirsii Desm., 1847 SPECIES
 
 #### Status
 ACCEPTED

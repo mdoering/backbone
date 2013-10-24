@@ -1,5 +1,4 @@
-Capitorostrum Bat. GENUS
-=======
+# Capitorostrum Bat. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tetrathiobacter Ghosh, Bagchi, Mandal, Dam & Roy, 2005 GENUS
-=======
+# Tetrathiobacter Ghosh, Bagchi, Mandal, Dam & Roy, 2005 GENUS
 
 #### Status
 ACCEPTED

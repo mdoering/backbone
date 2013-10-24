@@ -1,5 +1,4 @@
-Lophodiacrodium aculeatum (Naumova, 1950) Downie & Sarjeant, 1965 SPECIES
-=======
+# Lophodiacrodium aculeatum (Naumova, 1950) Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

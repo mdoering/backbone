@@ -1,5 +1,4 @@
-Thrombium asserculorum Wallr. SPECIES
-=======
+# Thrombium asserculorum Wallr. SPECIES
 
 #### Status
 ACCEPTED

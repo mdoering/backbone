@@ -1,5 +1,4 @@
-Amphisphaeria fibricola Sacc. SPECIES
-=======
+# Amphisphaeria fibricola Sacc. SPECIES
 
 #### Status
 ACCEPTED

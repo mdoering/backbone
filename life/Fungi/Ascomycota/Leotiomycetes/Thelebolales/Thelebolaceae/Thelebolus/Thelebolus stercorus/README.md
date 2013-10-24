@@ -1,5 +1,4 @@
-Thelebolus stercorus Tode : Fr. SPECIES
-=======
+# Thelebolus stercorus Tode : Fr. SPECIES
 
 #### Status
 ACCEPTED

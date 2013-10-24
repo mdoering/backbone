@@ -1,5 +1,4 @@
-Uromyces maireanus P. Syd. & Syd. SPECIES
-=======
+# Uromyces maireanus P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

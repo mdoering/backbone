@@ -1,5 +1,4 @@
-Clavaria exstans Britzelm. SPECIES
-=======
+# Clavaria exstans Britzelm. SPECIES
 
 #### Status
 ACCEPTED

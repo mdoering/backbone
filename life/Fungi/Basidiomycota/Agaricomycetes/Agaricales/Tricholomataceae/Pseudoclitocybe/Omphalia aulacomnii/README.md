@@ -1,5 +1,4 @@
-Omphalia aulacomnii Jul. Schäff. SPECIES
-=======
+# Omphalia aulacomnii Jul. Schäff. SPECIES
 
 #### Status
 ACCEPTED

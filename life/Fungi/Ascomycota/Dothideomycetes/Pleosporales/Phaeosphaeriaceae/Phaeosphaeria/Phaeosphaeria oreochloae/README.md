@@ -1,5 +1,4 @@
-Phaeosphaeria oreochloae Leuchtm., 1984 SPECIES
-=======
+# Phaeosphaeria oreochloae Leuchtm., 1984 SPECIES
 
 #### Status
 ACCEPTED

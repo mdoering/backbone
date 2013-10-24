@@ -1,5 +1,4 @@
-Peniophora delectans Overh. SPECIES
-=======
+# Peniophora delectans Overh. SPECIES
 
 #### Status
 ACCEPTED

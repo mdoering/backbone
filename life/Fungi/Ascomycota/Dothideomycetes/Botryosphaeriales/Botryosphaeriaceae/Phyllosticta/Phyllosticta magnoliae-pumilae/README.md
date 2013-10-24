@@ -1,5 +1,4 @@
-Phyllosticta magnoliae-pumilae Sawada SPECIES
-=======
+# Phyllosticta magnoliae-pumilae Sawada SPECIES
 
 #### Status
 ACCEPTED

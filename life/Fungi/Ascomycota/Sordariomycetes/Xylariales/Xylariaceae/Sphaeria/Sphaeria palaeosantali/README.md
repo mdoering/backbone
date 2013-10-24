@@ -1,5 +1,4 @@
-Sphaeria palaeosantali Ettingsh. SPECIES
-=======
+# Sphaeria palaeosantali Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

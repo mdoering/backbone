@@ -1,5 +1,4 @@
-Macrophoma suberis Prill. & Delacr. SPECIES
-=======
+# Macrophoma suberis Prill. & Delacr. SPECIES
 
 #### Status
 ACCEPTED

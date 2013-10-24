@@ -1,5 +1,4 @@
-Sphaerella mikaniae (Rehm) Sacc. & P. Syd. SPECIES
-=======
+# Sphaerella mikaniae (Rehm) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Diderma cubense Berk. & M.A. Curtis, 1868 SPECIES
-=======
+# Diderma testaceum (Schrad.) Pers., 1801 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syn. meth. fung. (Göttingen) 1: 167 (1801)
 
 #### Original name
-null
+Didymium testaceum Schrad., 1797
 
 ### Remarks
 null

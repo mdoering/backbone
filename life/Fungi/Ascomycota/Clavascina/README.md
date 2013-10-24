@@ -1,5 +1,4 @@
-Clavascina Bene GENUS
-=======
+# Clavascina Bene GENUS
 
 #### Status
 ACCEPTED

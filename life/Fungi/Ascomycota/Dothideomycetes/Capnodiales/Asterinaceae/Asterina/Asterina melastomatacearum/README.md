@@ -1,5 +1,4 @@
-Asterina melastomatacearum var. melastomatacearum VARIETY
-=======
+# Asterina melastomatacearum (Henn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Öst. bot. Z. 63: 123 (1913)
 
 #### Original name
 Seynesia melastomataceae Henn.

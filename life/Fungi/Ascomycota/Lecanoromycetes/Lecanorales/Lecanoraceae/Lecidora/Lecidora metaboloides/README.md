@@ -1,5 +1,4 @@
-Lecidora metaboloides Motyka SPECIES
-=======
+# Lecidora metaboloides Motyka SPECIES
 
 #### Status
 ACCEPTED

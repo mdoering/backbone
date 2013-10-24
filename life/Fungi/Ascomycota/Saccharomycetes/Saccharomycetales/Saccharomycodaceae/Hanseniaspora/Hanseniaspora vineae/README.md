@@ -1,17 +1,16 @@
-Pseudosaccharomyces africanus Klöcker, 1912 SPECIES
-=======
+# Hanseniaspora vineae Van der Walt & Tscheuschner, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 40(2): 212 (1957)
 
 #### Original name
-null
+Hanseniaspora vineae Van der Walt & Tscheuschner, 1957
 
 ### Remarks
 null

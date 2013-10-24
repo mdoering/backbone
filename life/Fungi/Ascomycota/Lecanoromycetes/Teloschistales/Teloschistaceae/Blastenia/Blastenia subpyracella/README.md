@@ -1,5 +1,4 @@
-Blastenia subpyracella (Nyl.) Hasse SPECIES
-=======
+# Blastenia subpyracella (Nyl.) Hasse SPECIES
 
 #### Status
 ACCEPTED

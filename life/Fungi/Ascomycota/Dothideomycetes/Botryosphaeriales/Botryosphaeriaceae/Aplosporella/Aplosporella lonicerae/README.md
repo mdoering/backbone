@@ -1,5 +1,4 @@
-Aplosporella lonicerae S. Ahmad SPECIES
-=======
+# Aplosporella lonicerae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

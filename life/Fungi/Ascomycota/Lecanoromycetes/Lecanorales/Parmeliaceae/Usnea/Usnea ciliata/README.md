@@ -1,5 +1,4 @@
-Usnea ciliata var. ciliata (Nyl.) Du Rietz VARIETY
-=======
+# Usnea ciliata (Nyl.) Du Rietz SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Svensk bot. Tidskr. 20: 91 (1926)
 
 #### Original name
-Usnea ciliata var. ciliata (Nyl.) Du Rietz
+null
 
 ### Remarks
 null

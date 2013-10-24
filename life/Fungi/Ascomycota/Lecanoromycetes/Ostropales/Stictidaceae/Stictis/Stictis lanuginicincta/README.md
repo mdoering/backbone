@@ -1,5 +1,4 @@
-Stictis lanuginicincta Fairm. SPECIES
-=======
+# Stictis lanuginicincta Fairm. SPECIES
 
 #### Status
 ACCEPTED

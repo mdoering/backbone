@@ -1,5 +1,4 @@
-Helicobasidium corticioides Bandoni, 1956 SPECIES
-=======
+# Helicobasidium corticioides Bandoni, 1956 SPECIES
 
 #### Status
 ACCEPTED

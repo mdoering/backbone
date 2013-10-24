@@ -1,5 +1,4 @@
-Plectania mexicana (Ellis & Holw.) Paden SPECIES
-=======
+# Plectania mexicana (Ellis & Holw.) Paden SPECIES
 
 #### Status
 ACCEPTED

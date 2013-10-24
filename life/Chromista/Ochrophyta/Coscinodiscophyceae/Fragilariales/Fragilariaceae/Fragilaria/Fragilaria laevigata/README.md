@@ -1,5 +1,4 @@
-Fragilaria laevigata (Grunow) Lange-Bertalot SPECIES
-=======
+# Fragilaria laevigata (Grunow) Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

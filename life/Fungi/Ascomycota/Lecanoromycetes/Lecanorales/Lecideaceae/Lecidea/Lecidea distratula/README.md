@@ -1,5 +1,4 @@
-Lecidea distratula Zahlbr. SPECIES
-=======
+# Lecidea distratula Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

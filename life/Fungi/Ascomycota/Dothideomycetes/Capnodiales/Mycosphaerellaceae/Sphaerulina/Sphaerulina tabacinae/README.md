@@ -1,5 +1,4 @@
-Sphaerulina tabacinae Arnold SPECIES
-=======
+# Sphaerulina tabacinae Arnold SPECIES
 
 #### Status
 ACCEPTED

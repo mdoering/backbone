@@ -1,5 +1,4 @@
-Russula subalbida Bres. SPECIES
-=======
+# Russula subalbida Bres. SPECIES
 
 #### Status
 ACCEPTED

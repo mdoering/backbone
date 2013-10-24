@@ -1,5 +1,4 @@
-Ornatispora palmicola K.D. Hyde, Goh, Joanne E. Taylor & J. Fröhl., 1999 SPECIES
-=======
+# Ornatispora palmicola K.D. Hyde, Goh, Joanne E. Taylor & J. Fröhl., 1999 SPECIES
 
 #### Status
 ACCEPTED

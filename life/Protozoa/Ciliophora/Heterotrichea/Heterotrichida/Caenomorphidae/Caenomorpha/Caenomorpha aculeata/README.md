@@ -1,5 +1,4 @@
-Caenomorpha aculeata Wetzel, 1928 SPECIES
-=======
+# Caenomorpha aculeata Wetzel, 1928 SPECIES
 
 #### Status
 ACCEPTED

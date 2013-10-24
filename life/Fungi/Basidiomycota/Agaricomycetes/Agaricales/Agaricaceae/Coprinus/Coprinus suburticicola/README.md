@@ -1,5 +1,4 @@
-Coprinus suburticicola Pilát & Svrcek SPECIES
-=======
+# Coprinus suburticicola Pilát & Svrcek SPECIES
 
 #### Status
 ACCEPTED

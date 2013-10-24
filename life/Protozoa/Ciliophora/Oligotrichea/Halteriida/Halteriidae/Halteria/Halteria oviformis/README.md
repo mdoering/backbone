@@ -1,5 +1,4 @@
-Halteria oviformis SPECIES
-=======
+# Halteria oviformis SPECIES
 
 #### Status
 ACCEPTED

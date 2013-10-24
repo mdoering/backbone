@@ -1,5 +1,4 @@
-Cordyceps stiphrodes Syd. SPECIES
-=======
+# Cordyceps stiphrodes Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia subcoronata Henn. SPECIES
-=======
+# Puccinia subcoronata Henn. SPECIES
 
 #### Status
 ACCEPTED

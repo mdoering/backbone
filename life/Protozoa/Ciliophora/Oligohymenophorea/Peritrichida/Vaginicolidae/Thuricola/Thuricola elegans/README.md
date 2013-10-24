@@ -1,5 +1,4 @@
-Thuricola elegans Biernacka, 1963 SPECIES
-=======
+# Thuricola elegans Biernacka, 1963 SPECIES
 
 #### Status
 ACCEPTED

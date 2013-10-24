@@ -1,5 +1,4 @@
-Mycena cyanophos f. cyanophos FORM
-=======
+# Mycena cyanophos Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mycena cyanophos f. cyanophos
+Mycena cyanophos Berk. & M.A. Curtis
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phloeospora trichiliae M.D. Mehrotra & R.K. Verma SPECIES
-=======
+# Phloeospora trichiliae M.D. Mehrotra & R.K. Verma SPECIES
 
 #### Status
 ACCEPTED

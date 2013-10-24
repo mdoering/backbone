@@ -1,5 +1,4 @@
-Devoniglansus Wakamatsu, Sugiyama & Furutani, 1990 GENUS
-=======
+# Devoniglansus Wakamatsu, Sugiyama & Furutani, 1990 GENUS
 
 #### Status
 ACCEPTED

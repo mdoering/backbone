@@ -1,14 +1,13 @@
-Rhodophyllus fuscotomentosus (F.H. Møller) M.M. Moser, 1967 SPECIES
-=======
+# Entoloma fuscotomentosum F.H. Møller, 1945 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Gams, Kleine Kryptogamenflora (Stuttgart), Edn 3 2b/2: 154 (1967)
+Fungi Faeroes 1: 251 (1945)
 
 #### Original name
 Entoloma fuscotomentosum F.H. Møller, 1945

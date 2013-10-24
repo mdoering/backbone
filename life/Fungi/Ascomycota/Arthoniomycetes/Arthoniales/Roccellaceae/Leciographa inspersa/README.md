@@ -1,5 +1,4 @@
-Leciographa inspersa var. convexa (Fr.) Keissl. VARIETY
-=======
+# Leciographa inspersa (Tul.) Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Rabenh. Krypt. -Fl. (Leipzig) 1(3): 374 (1890)
 
 #### Original name
-Buellia convexa Th. Fr.
+Lecidea inspersa Tul.
 
 ### Remarks
 null

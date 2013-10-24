@@ -1,5 +1,4 @@
-Aurophora Rifai GENUS
-=======
+# Aurophora Rifai GENUS
 
 #### Status
 ACCEPTED

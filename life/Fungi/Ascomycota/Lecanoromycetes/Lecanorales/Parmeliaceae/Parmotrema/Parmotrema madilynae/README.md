@@ -1,5 +1,4 @@
-Parmotrema madilynae A. Fletcher SPECIES
-=======
+# Parmotrema madilynae A. Fletcher SPECIES
 
 #### Status
 ACCEPTED

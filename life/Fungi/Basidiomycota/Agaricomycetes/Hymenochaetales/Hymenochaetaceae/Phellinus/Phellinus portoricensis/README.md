@@ -1,5 +1,4 @@
-Phellinus portoricensis (Overh.) M. Fidalgo SPECIES
-=======
+# Phellinus portoricensis (Overh.) M. Fidalgo SPECIES
 
 #### Status
 ACCEPTED

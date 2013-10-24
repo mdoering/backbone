@@ -1,5 +1,4 @@
-Rhizophydium verrucosum Cejp SPECIES
-=======
+# Rhizophydium verrucosum Cejp SPECIES
 
 #### Status
 ACCEPTED

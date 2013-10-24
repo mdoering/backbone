@@ -1,5 +1,4 @@
-Thelenella geminipara (Malme) R.C. Harris SPECIES
-=======
+# Thelenella geminipara (Malme) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

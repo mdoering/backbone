@@ -1,5 +1,4 @@
-Phyllosticta heteropteridis Henn. SPECIES
-=======
+# Phyllosticta heteropteridis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Midotis occidentalis E.J. Durand SPECIES
-=======
+# Midotis occidentalis E.J. Durand SPECIES
 
 #### Status
 ACCEPTED

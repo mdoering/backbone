@@ -1,5 +1,4 @@
-Deconica tropicalis Speg. SPECIES
-=======
+# Deconica tropicalis Speg. SPECIES
 
 #### Status
 ACCEPTED

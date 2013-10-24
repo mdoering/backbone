@@ -1,5 +1,4 @@
-Fatkia marginalis Vavrdová, 1995 SPECIES
-=======
+# Fatkia marginalis Vavrdová, 1995 SPECIES
 
 #### Status
 ACCEPTED

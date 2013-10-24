@@ -1,5 +1,4 @@
-Entosordaria cornicola (Ellis & Everh.) Höhn. SPECIES
-=======
+# Entosordaria cornicola (Ellis & Everh.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

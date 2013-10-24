@@ -1,5 +1,4 @@
-Teichospora proustiae Speg. SPECIES
-=======
+# Teichospora proustiae Speg. SPECIES
 
 #### Status
 ACCEPTED

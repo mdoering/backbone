@@ -1,5 +1,4 @@
-Inocybe subvolvata Hongo SPECIES
-=======
+# Inocybe subvolvata Hongo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystomella aphanes Rehm SPECIES
-=======
+# Polystomella aphanes Rehm SPECIES
 
 #### Status
 ACCEPTED

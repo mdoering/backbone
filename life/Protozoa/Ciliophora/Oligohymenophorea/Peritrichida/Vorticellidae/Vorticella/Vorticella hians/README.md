@@ -1,5 +1,4 @@
-Vorticella hians Muller, 1773 SPECIES
-=======
+# Vorticella hians Muller, 1773 SPECIES
 
 #### Status
 ACCEPTED

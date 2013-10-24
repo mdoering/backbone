@@ -1,5 +1,4 @@
-Heterococcus vridis (Gern.) Pascher SPECIES
-=======
+# Heterococcus vridis (Gern.) Pascher SPECIES
 
 #### Status
 ACCEPTED

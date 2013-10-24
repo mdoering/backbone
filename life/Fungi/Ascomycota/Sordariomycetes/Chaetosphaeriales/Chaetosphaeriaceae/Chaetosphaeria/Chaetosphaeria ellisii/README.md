@@ -1,17 +1,16 @@
-Ophioceras longisporum (Ellis) Sacc., 1883 SPECIES
-=======
+# Chaetosphaeria ellisii (M.E. Barr) Huhndorf & F.A. Fernández, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungal Diversity 19: 27 (2005)
 
 #### Original name
-Sphaeria longispora Ellis, 1877
+Lasiosphaeria ellisii M.E. Barr, 1993
 
 ### Remarks
 null

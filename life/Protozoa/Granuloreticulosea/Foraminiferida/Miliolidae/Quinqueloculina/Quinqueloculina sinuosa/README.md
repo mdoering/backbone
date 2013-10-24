@@ -1,5 +1,4 @@
-Quinqueloculina sinuosa Terquem, 1876 SPECIES
-=======
+# Quinqueloculina sinuosa Terquem, 1876 SPECIES
 
 #### Status
 ACCEPTED

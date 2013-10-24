@@ -1,5 +1,4 @@
-Peziza triangulodentata Alb. & Schwein. SPECIES
-=======
+# Peziza triangulodentata Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

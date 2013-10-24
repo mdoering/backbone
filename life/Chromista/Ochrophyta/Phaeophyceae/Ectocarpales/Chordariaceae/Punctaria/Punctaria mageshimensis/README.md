@@ -1,5 +1,4 @@
-Punctaria mageshimensis Tanaka SPECIES
-=======
+# Punctaria mageshimensis Tanaka SPECIES
 
 #### Status
 ACCEPTED

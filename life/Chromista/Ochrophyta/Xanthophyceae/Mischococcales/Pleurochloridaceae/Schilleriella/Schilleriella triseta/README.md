@@ -1,5 +1,4 @@
-Schilleriella triseta SPECIES
-=======
+# Schilleriella triseta SPECIES
 
 #### Status
 ACCEPTED

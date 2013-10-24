@@ -1,5 +1,4 @@
-Alexandrium andersonii Balech SPECIES
-=======
+# Alexandrium andersonii Balech SPECIES
 
 #### Status
 ACCEPTED

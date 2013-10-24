@@ -1,5 +1,4 @@
-Leptodiscaceae F. J. R. Taylor, 1987 FAMILY
-=======
+# Leptodiscaceae F. J. R. Taylor, 1987 FAMILY
 
 #### Status
 ACCEPTED

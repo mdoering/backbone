@@ -1,5 +1,4 @@
-Peridermium boreale Arthur & F. Kern SPECIES
-=======
+# Peridermium boreale Arthur & F. Kern SPECIES
 
 #### Status
 ACCEPTED

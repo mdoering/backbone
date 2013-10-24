@@ -1,5 +1,4 @@
-Protoblastenia areolata H. Magn. SPECIES
-=======
+# Protoblastenia areolata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

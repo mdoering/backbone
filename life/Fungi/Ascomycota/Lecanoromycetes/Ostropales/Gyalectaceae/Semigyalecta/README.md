@@ -1,5 +1,4 @@
-Semigyalecta Vain. GENUS
-=======
+# Semigyalecta Vain. GENUS
 
 #### Status
 ACCEPTED

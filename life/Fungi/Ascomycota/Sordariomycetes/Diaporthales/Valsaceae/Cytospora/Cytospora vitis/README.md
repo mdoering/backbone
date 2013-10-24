@@ -1,17 +1,16 @@
-Cytospora vitis var. vitis Mont. VARIETY
-=======
+# Cytospora vitis Mont., 1856 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. gen. sp. crypt. (Paris) no. 923 (1856)
+Verh. zool. -bot. Ges. Wein 20: 647 (1870)
 
 #### Original name
-Cytospora vitis var. vitis Mont.
+Cytospora vitis Mont., 1856
 
 ### Remarks
 null

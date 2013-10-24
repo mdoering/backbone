@@ -1,5 +1,4 @@
-Actinotheca aphroditae Cookson & Eisenack, 1960 SPECIES
-=======
+# Actinotheca aphroditae Cookson & Eisenack, 1960 SPECIES
 
 #### Status
 ACCEPTED

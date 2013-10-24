@@ -1,5 +1,4 @@
-Diatrype oregonensis (Wehm.) Rappaz SPECIES
-=======
+# Diatrype oregonensis (Wehm.) Rappaz SPECIES
 
 #### Status
 ACCEPTED

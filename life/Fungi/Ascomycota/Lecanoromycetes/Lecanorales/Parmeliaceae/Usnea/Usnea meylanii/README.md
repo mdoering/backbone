@@ -1,5 +1,4 @@
-Usnea meylanii Motyka SPECIES
-=======
+# Usnea meylanii Motyka SPECIES
 
 #### Status
 ACCEPTED

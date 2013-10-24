@@ -1,5 +1,4 @@
-Bolivia Corbel, 1968 GENUS
-=======
+# Bolivia Corbel, 1968 GENUS
 
 #### Status
 ACCEPTED

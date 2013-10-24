@@ -1,5 +1,4 @@
-Actinoalloteichus hymeniacidonis Zhang, Zheng, Huang, Luo, Jin, Zhang, Liu & Huang, 2006 SPECIES
-=======
+# Actinoalloteichus hymeniacidonis Zhang, Zheng, Huang, Luo, Jin, Zhang, Liu & Huang, 2006 SPECIES
 
 #### Status
 ACCEPTED

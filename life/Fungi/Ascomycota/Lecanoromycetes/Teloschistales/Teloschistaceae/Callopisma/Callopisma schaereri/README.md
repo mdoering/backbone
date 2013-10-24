@@ -1,5 +1,4 @@
-Callopisma schaereri (Flörke) Arnold SPECIES
-=======
+# Callopisma schaereri (Flörke) Arnold SPECIES
 
 #### Status
 ACCEPTED

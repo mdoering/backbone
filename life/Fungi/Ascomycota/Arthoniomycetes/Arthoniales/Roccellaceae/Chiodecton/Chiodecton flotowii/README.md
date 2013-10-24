@@ -1,5 +1,4 @@
-Chiodecton flotowii (A. Massal.) Zahlbr. SPECIES
-=======
+# Chiodecton flotowii (A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

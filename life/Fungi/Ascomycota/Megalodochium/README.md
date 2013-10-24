@@ -1,5 +1,4 @@
-Megalodochium Deighton GENUS
-=======
+# Megalodochium Deighton GENUS
 
 #### Status
 ACCEPTED

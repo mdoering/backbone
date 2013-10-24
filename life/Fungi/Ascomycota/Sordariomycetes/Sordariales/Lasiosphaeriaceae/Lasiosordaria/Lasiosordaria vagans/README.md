@@ -1,5 +1,4 @@
-Lasiosordaria vagans Chenant. SPECIES
-=======
+# Lasiosordaria vagans Chenant. SPECIES
 
 #### Status
 ACCEPTED

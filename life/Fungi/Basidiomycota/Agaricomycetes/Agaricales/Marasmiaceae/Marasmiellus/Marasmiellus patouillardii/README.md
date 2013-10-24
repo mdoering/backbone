@@ -1,14 +1,13 @@
-Marasmiellus patouillardi (Sacc. & P. Syd.) Zhu L. Yang SPECIES
-=======
+# Marasmiellus patouillardii (Sacc. & P. Syd.) Zhu L. Yang SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 75: 469 (2000)
 
 #### Original name
 Marasmius patouillardii Sacc. & P. Syd.

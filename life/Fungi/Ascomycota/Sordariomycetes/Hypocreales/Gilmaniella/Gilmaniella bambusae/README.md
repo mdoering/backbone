@@ -1,5 +1,4 @@
-Gilmaniella bambusae Umali, Goh & K.D. Hyde, 1998 SPECIES
-=======
+# Gilmaniella bambusae Umali, Goh & K.D. Hyde, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paramecium scutellinum Dumas, 1929 SPECIES
-=======
+# Paramecium scutellinum Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schismatosphaeridium perforatum Staplin, Jansonius & Pocock, 1965 SPECIES
-=======
+# Schismatosphaeridium perforatum Staplin, Jansonius & Pocock, 1965 SPECIES
 
 #### Status
 ACCEPTED

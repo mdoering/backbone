@@ -1,5 +1,4 @@
-Acleistomyces GENUS
-=======
+# Acleistomyces GENUS
 
 #### Status
 ACCEPTED

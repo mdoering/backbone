@@ -1,5 +1,4 @@
-Asterostromella luteopora (Bondartsev) Bondartsev & Singer SPECIES
-=======
+# Asterostromella luteopora (Bondartsev) Bondartsev & Singer SPECIES
 
 #### Status
 ACCEPTED

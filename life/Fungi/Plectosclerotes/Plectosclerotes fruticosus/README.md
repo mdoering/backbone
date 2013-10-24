@@ -1,5 +1,4 @@
-Plectosclerotes fruticosus Stach & Pickh. SPECIES
-=======
+# Plectosclerotes fruticosus Stach & Pickh. SPECIES
 
 #### Status
 ACCEPTED

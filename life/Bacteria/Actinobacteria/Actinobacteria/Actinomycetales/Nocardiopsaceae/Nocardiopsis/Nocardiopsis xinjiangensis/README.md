@@ -1,5 +1,4 @@
-Nocardiopsis xinjiangensis Li et al., 2003 SPECIES
-=======
+# Nocardiopsis xinjiangensis Li et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

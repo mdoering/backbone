@@ -1,5 +1,4 @@
-Pezizella subaurantiaca Feltgen SPECIES
-=======
+# Pezizella subaurantiaca Feltgen SPECIES
 
 #### Status
 ACCEPTED

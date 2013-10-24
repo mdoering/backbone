@@ -1,17 +1,16 @@
-Hypoplasta hysteriaeforme Preuss SPECIES
-=======
+# Hypoplasta hysteriiformis Preuss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Linnaea 26: 712 (1855)
 
 #### Original name
-Hypoplasta hysteriaeforme Preuss
+Hypoplasta hysteriiformis Preuss
 
 ### Remarks
 null

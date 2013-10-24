@@ -1,5 +1,4 @@
-Tremella neglecta Tul. SPECIES
-=======
+# Tremella neglecta Tul. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paraphysothele algovica Servít SPECIES
-=======
+# Paraphysothele algovica Servít SPECIES
 
 #### Status
 ACCEPTED

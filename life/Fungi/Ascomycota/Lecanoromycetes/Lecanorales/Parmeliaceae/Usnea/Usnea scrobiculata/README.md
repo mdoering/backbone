@@ -1,5 +1,4 @@
-Usnea scrobiculata Motyka SPECIES
-=======
+# Usnea scrobiculata Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium scolopendrii Oudem. SPECIES
-=======
+# Aecidium scolopendrii Oudem. SPECIES
 
 #### Status
 ACCEPTED

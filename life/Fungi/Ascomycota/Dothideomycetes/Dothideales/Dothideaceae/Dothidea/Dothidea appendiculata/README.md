@@ -1,5 +1,4 @@
-Dothidea appendiculata Delacr. SPECIES
-=======
+# Dothidea appendiculata Delacr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Terfezia cadevalli Font Quer SPECIES
-=======
+# Terfezia cadevalli Font Quer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Le GENUS
-=======
+# Le GENUS
 
 #### Status
 ACCEPTED

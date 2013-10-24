@@ -1,5 +1,4 @@
-Acanthamoeba royreba Willaert, et Al., 1978 SPECIES
-=======
+# Acanthamoeba royreba Willaert, et Al., 1978 SPECIES
 
 #### Status
 ACCEPTED

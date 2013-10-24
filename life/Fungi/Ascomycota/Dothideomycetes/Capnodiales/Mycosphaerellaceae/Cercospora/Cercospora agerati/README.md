@@ -1,5 +1,4 @@
-Cercospora agerati F. Stevens SPECIES
-=======
+# Cercospora agerati F. Stevens SPECIES
 
 #### Status
 ACCEPTED

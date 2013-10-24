@@ -1,5 +1,4 @@
-Sphaeria auricoma Wallr. SPECIES
-=======
+# Sphaeria auricoma Wallr. SPECIES
 
 #### Status
 ACCEPTED

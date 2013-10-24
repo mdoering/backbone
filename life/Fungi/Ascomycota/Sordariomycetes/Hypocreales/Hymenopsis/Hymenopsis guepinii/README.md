@@ -1,8 +1,7 @@
-Hymenopsis guepini (Mont.) Sacc. SPECIES
-=======
+# Hymenopsis guepinii (Mont.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

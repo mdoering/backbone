@@ -1,5 +1,4 @@
-Botrytis sphaerulifera Preuss SPECIES
-=======
+# Botrytis sphaerulifera Preuss SPECIES
 
 #### Status
 ACCEPTED

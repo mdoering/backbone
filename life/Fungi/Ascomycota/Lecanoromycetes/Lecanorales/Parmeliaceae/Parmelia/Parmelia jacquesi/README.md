@@ -1,5 +1,4 @@
-Parmelia jacquesi f. jacquesi FORM
-=======
+# Parmelia jacquesi Werner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia jacquesi f. jacquesi
+Parmelia jacquesi Werner
 
 ### Remarks
 null

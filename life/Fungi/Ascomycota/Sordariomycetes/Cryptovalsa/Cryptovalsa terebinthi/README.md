@@ -1,5 +1,4 @@
-Cryptovalsa terebinthi (Ces.) Briard & Har. SPECIES
-=======
+# Cryptovalsa terebinthi (Ces.) Briard & Har. SPECIES
 
 #### Status
 ACCEPTED

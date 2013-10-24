@@ -1,5 +1,4 @@
-Trametes sepiicolor Corner SPECIES
-=======
+# Trametes sepiicolor Corner SPECIES
 
 #### Status
 ACCEPTED

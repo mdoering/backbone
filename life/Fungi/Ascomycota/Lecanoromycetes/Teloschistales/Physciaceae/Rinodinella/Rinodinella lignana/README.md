@@ -1,5 +1,4 @@
-Rinodinella lignana Sheard SPECIES
-=======
+# Rinodinella lignana Sheard SPECIES
 
 #### Status
 ACCEPTED

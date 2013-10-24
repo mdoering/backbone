@@ -1,5 +1,4 @@
-Bacillus megaterium de Bary, 1884 (Approved Lists, 1980) SPECIES
-=======
+# Bacillus megaterium de Bary, 1884 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

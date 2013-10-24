@@ -1,5 +1,4 @@
-Ascobolus piceus (Limm.) Cooke SPECIES
-=======
+# Ascobolus piceus (Limm.) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodoplanes elegans Hiraishi & Ueda, 1994 SPECIES
-=======
+# Rhodoplanes elegans Hiraishi & Ueda, 1994 SPECIES
 
 #### Status
 ACCEPTED

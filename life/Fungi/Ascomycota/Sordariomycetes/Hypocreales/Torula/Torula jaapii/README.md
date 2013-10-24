@@ -1,5 +1,4 @@
-Torula jaapii J. Lindau SPECIES
-=======
+# Torula jaapii J. Lindau SPECIES
 
 #### Status
 ACCEPTED

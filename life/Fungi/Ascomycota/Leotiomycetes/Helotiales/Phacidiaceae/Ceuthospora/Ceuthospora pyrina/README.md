@@ -1,5 +1,4 @@
-Ceuthospora pyrina var. pyrina VARIETY
-=======
+# Ceuthospora pyrina Höhn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ceuthospora pyrina var. pyrina
+Ceuthospora pyrina Höhn.
 
 ### Remarks
 null

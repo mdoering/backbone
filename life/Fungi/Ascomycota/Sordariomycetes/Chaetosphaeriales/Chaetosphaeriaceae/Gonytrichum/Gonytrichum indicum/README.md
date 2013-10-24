@@ -1,5 +1,4 @@
-Gonytrichum indicum Udaiyan SPECIES
-=======
+# Gonytrichum indicum Udaiyan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmotrema larense López-Fig. SPECIES
-=======
+# Parmotrema larense López-Fig. SPECIES
 
 #### Status
 ACCEPTED

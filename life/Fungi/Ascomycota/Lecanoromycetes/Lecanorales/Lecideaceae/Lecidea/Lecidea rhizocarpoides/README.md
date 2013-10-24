@@ -1,5 +1,4 @@
-Lecidea rhizocarpoides Malme SPECIES
-=======
+# Lecidea rhizocarpoides Malme SPECIES
 
 #### Status
 ACCEPTED

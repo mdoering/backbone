@@ -1,17 +1,16 @@
-Ramalina homalea var. homalea VARIETY
-=======
+# Niebla homalea (Ach.) Rundel & Bowler SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. univ. 598 (1810)
+Mycotaxon 6(3): 499 (1978)
 
 #### Original name
-Ramalina homalea var. homalea
+Ramalina homalea Ach.
 
 ### Remarks
 null

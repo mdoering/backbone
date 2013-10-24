@@ -1,5 +1,4 @@
-Lactarius novae-zelandiae McNabb, 1971 SPECIES
-=======
+# Lactarius novae-zelandiae McNabb, 1971 SPECIES
 
 #### Status
 ACCEPTED

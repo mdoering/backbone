@@ -1,5 +1,4 @@
-Leptopharynx Mermod, 1914 GENUS
-=======
+# Leptopharynx Mermod, 1914 GENUS
 
 #### Status
 ACCEPTED

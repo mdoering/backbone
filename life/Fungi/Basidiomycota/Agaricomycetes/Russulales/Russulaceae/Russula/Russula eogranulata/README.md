@@ -1,5 +1,4 @@
-Russula eogranulata Secr. ex Singer SPECIES
-=======
+# Russula eogranulata Secr. ex Singer SPECIES
 
 #### Status
 ACCEPTED

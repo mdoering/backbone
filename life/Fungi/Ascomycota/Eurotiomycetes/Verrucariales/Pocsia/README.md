@@ -1,5 +1,4 @@
-Pocsia Vezda, 1975 GENUS
-=======
+# Pocsia Vezda, 1975 GENUS
 
 #### Status
 ACCEPTED

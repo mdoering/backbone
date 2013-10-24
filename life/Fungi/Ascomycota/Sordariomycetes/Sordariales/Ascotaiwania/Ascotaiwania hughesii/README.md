@@ -1,17 +1,16 @@
-Helicoön farinosum Linder, 1929 SPECIES
-=======
+# Ascotaiwania hughesii Fallah, J.L. Crane & Shearer, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 16: 324 (1929)
+Can. J. Bot. 77(1): 89 (1999)
 
 #### Original name
-Helicoön farinosum Linder, 1929
+Ascotaiwania hughesii Fallah, J.L. Crane & Shearer, 1999
 
 ### Remarks
 null

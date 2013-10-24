@@ -1,5 +1,4 @@
-Cercospora obesa Ellis & Everh. SPECIES
-=======
+# Cercospora obesa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

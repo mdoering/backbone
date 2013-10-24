@@ -1,5 +1,4 @@
-Acarospora zeravshanica Kudratov SPECIES
-=======
+# Acarospora zeravshanica Kudratov SPECIES
 
 #### Status
 ACCEPTED

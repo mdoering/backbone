@@ -1,5 +1,4 @@
-Lentinus alopecinus Fr. SPECIES
-=======
+# Lentinus alopecinus Fr. SPECIES
 
 #### Status
 ACCEPTED

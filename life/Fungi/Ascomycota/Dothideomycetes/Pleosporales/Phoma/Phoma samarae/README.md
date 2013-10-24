@@ -1,5 +1,4 @@
-Phoma samarae (Fr.) Fuckel SPECIES
-=======
+# Phoma samarae (Fr.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

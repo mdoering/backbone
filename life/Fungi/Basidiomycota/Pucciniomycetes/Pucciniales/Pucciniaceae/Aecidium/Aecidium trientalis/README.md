@@ -1,5 +1,4 @@
-Aecidium trientalis Tranzschel SPECIES
-=======
+# Aecidium trientalis Tranzschel SPECIES
 
 #### Status
 ACCEPTED

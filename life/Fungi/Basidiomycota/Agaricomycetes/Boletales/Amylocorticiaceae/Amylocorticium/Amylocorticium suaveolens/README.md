@@ -1,5 +1,4 @@
-Amylocorticium suaveolens Parmasto, 1968 SPECIES
-=======
+# Amylocorticium suaveolens Parmasto, 1968 SPECIES
 
 #### Status
 ACCEPTED

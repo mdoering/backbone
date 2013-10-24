@@ -1,5 +1,4 @@
-Hapalosiphon baronii W. West & G.S. West SPECIES
-=======
+# Hapalosiphon baronii W. West & G.S. West SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tuberculina hyalospora Esfand., 1947 SPECIES
-=======
+# Tuberculina hyalospora Esfand., 1947 SPECIES
 
 #### Status
 ACCEPTED

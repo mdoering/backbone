@@ -1,5 +1,4 @@
-Callopisma subincolor Müll. Arg. SPECIES
-=======
+# Callopisma subincolor Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

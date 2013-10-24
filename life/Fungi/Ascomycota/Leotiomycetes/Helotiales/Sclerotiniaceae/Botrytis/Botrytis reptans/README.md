@@ -1,5 +1,4 @@
-Botrytis reptans Bonord. SPECIES
-=======
+# Botrytis reptans Bonord. SPECIES
 
 #### Status
 ACCEPTED

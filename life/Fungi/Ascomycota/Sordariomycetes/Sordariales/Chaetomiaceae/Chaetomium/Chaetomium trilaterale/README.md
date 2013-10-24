@@ -1,17 +1,16 @@
-Chaetomium trilaterale f. trilaterale Chivers FORM
-=======
+# Chaetomium trilaterale Chivers, 1912 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Proc. Amer. Acad. Arts & Sci. 48: 87 (1912)
 
 #### Original name
-Chaetomium trilaterale f. trilaterale Chivers
+Chaetomium trilaterale Chivers, 1912
 
 ### Remarks
 null

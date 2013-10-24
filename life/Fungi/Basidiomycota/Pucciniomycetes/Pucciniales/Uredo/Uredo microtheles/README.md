@@ -1,5 +1,4 @@
-Uredo microtheles Speg. SPECIES
-=======
+# Uredo microtheles Speg. SPECIES
 
 #### Status
 ACCEPTED

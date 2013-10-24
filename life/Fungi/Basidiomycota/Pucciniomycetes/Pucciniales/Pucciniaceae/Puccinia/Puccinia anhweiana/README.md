@@ -1,5 +1,4 @@
-Puccinia anhweiana Cummins SPECIES
-=======
+# Puccinia anhweiana Cummins SPECIES
 
 #### Status
 ACCEPTED

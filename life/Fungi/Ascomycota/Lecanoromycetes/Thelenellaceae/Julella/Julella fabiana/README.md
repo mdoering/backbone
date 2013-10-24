@@ -1,5 +1,4 @@
-Julella fabiana Marincowitz, M.J. Wingf. & Crous SPECIES
-=======
+# Julella fabiana Marincowitz, M.J. Wingf. & Crous SPECIES
 
 #### Status
 ACCEPTED

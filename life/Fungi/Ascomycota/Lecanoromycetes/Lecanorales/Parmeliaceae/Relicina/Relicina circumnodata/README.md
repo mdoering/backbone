@@ -1,14 +1,13 @@
-Parmelia circumnodata Nyl. SPECIES
-=======
+# Relicina circumnodata (Nyl.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 20: 51 (1883)
+Phytologia 28: 484 (1974)
 
 #### Original name
 Parmelia circumnodata Nyl.

@@ -1,5 +1,4 @@
-Foliopollenites elongatus Z.C. Song SPECIES
-=======
+# Foliopollenites elongatus Z.C. Song SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calycina fumigata (Sacc. & Speg.) Kuntze SPECIES
-=======
+# Calycina fumigata (Sacc. & Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

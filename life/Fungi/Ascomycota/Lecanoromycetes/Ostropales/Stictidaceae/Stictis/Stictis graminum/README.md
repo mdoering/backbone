@@ -1,5 +1,4 @@
-Stictis graminum Desm. SPECIES
-=======
+# Stictis graminum Desm. SPECIES
 
 #### Status
 ACCEPTED

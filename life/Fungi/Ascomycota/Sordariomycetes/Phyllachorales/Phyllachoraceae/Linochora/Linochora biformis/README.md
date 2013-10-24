@@ -1,5 +1,4 @@
-Linochora biformis (Sacc.) Petr. SPECIES
-=======
+# Linochora biformis (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

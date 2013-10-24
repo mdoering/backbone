@@ -1,5 +1,4 @@
-Baltisphaeridium downiei Sarjeant, 1960 SPECIES
-=======
+# Baltisphaeridium downiei Sarjeant, 1960 SPECIES
 
 #### Status
 ACCEPTED

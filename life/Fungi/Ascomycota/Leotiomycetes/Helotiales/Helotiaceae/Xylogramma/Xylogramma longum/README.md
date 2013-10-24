@@ -1,14 +1,13 @@
-Hysterium longum Pers., 1801 SPECIES
-=======
+# Xylogramma longum (Pers.) Rehm, 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Rabenh. Krypt. -Fl. (Leipzig) 1(3): 171 (1888)
 
 #### Original name
 Hysterium longum Pers., 1801

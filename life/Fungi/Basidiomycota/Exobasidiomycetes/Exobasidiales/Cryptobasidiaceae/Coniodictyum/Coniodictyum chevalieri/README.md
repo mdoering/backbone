@@ -1,5 +1,4 @@
-Coniodictyum chevalieri Har. & Pat., 1909 SPECIES
-=======
+# Coniodictyum chevalieri Har. & Pat., 1909 SPECIES
 
 #### Status
 ACCEPTED

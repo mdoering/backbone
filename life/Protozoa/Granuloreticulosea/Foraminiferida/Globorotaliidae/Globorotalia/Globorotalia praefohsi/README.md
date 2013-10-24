@@ -1,5 +1,4 @@
-Globorotalia praefohsi Blow & Banner SPECIES
-=======
+# Globorotalia praefohsi Blow & Banner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strickeria vetusta (Ellis) Cooke SPECIES
-=======
+# Strickeria vetusta (Ellis) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatorina subnigratula Eitner SPECIES
-=======
+# Biatorina subnigratula Eitner SPECIES
 
 #### Status
 ACCEPTED

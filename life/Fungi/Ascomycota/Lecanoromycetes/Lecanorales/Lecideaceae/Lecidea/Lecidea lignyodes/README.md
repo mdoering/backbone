@@ -1,5 +1,4 @@
-Lecidea lignyodes (Flagey) Zahlbr. SPECIES
-=======
+# Lecidea lignyodes (Flagey) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

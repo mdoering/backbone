@@ -1,5 +1,4 @@
-Urotricha matthesi subsp. matthesi SUBSPECIES
-=======
+# Urotricha matthesi Krainer SPECIES
 
 #### Status
 ACCEPTED

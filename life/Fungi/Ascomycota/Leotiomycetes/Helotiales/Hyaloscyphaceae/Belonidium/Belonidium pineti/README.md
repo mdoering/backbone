@@ -1,5 +1,4 @@
-Belonidium pineti Feltgen SPECIES
-=======
+# Belonidium pineti Feltgen SPECIES
 
 #### Status
 ACCEPTED

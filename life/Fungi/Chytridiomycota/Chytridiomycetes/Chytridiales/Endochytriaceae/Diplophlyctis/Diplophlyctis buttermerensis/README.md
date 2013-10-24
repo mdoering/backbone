@@ -1,14 +1,13 @@
-Nephrochytrium buttermerense Willoughby, 1962 SPECIES
-=======
+# Diplophlyctis buttermerensis (Willoughby) Dogma, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 3(4): 442 (1962)
+Arch. Mikrobiol. 66: 210 (1969)
 
 #### Original name
 Nephrochytrium buttermerense Willoughby, 1962

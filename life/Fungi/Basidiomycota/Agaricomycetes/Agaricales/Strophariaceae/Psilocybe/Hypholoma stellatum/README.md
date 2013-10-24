@@ -1,5 +1,4 @@
-Hypholoma stellatum Teng SPECIES
-=======
+# Hypholoma stellatum Teng SPECIES
 
 #### Status
 ACCEPTED

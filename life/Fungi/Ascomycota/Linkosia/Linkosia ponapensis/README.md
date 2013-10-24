@@ -1,5 +1,4 @@
-Linkosia ponapensis (Matsush.) R.F. Castañeda, Saikawa & Gené SPECIES
-=======
+# Linkosia ponapensis (Matsush.) R.F. Castañeda, Saikawa & Gené SPECIES
 
 #### Status
 ACCEPTED

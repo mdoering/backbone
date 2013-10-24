@@ -1,5 +1,4 @@
-Diploderma album Cooke & Massee SPECIES
-=======
+# Diploderma album Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

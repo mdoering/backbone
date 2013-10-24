@@ -1,5 +1,4 @@
-Capriniana Strand, 1928 GENUS
-=======
+# Capriniana Strand, 1928 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dingleya verrucosa Trappe, 1979 SPECIES
-=======
+# Dingleya verrucosa Trappe, 1979 SPECIES
 
 #### Status
 ACCEPTED

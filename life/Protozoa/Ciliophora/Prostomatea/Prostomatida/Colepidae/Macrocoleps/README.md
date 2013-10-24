@@ -1,5 +1,4 @@
-Macrocoleps Obolkina, 1995 GENUS
-=======
+# Macrocoleps Obolkina, 1995 GENUS
 
 #### Status
 ACCEPTED

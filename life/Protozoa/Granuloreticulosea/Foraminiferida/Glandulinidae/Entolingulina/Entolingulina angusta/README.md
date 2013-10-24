@@ -1,5 +1,4 @@
-Entolingulina angusta McCulloch, 1977 SPECIES
-=======
+# Entolingulina angusta McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

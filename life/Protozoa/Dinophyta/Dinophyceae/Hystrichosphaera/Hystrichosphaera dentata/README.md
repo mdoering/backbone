@@ -1,5 +1,4 @@
-Hystrichosphaera dentata H. Gocht SPECIES
-=======
+# Hystrichosphaera dentata H. Gocht SPECIES
 
 #### Status
 ACCEPTED

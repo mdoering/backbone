@@ -1,5 +1,4 @@
-Rhopalomyces strangulatus Thaxt. SPECIES
-=======
+# Rhopalomyces strangulatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

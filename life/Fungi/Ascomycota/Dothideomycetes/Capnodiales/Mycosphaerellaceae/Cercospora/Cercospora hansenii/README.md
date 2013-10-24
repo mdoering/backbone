@@ -1,5 +1,4 @@
-Cercospora hansenii Ellis & Everh. SPECIES
-=======
+# Cercospora hansenii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

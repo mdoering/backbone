@@ -1,5 +1,4 @@
-Pullulanibacillus Hatayama et al., 2006 GENUS
-=======
+# Pullulanibacillus Hatayama et al., 2006 GENUS
 
 #### Status
 ACCEPTED

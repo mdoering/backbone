@@ -1,5 +1,4 @@
-Septoria malvicola Ellis & G. Martin, 1887 SPECIES
-=======
+# Septoria malvicola Ellis & G. Martin, 1887 SPECIES
 
 #### Status
 ACCEPTED

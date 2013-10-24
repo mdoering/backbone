@@ -1,5 +1,4 @@
-Podospora cryptospora Rehm SPECIES
-=======
+# Podospora cryptospora Rehm SPECIES
 
 #### Status
 ACCEPTED

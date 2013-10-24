@@ -1,5 +1,4 @@
-Cryptonyctus Yankovski, 1978 GENUS
-=======
+# Cryptonyctus Yankovski, 1978 GENUS
 
 #### Status
 ACCEPTED

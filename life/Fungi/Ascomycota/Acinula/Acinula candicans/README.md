@@ -1,5 +1,4 @@
-Acinula candicans Fr., 1822 SPECIES
-=======
+# Acinula candicans Fr., 1822 SPECIES
 
 #### Status
 ACCEPTED

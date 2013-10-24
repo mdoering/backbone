@@ -1,5 +1,4 @@
-Scherffeliomycopsis Geitler GENUS
-=======
+# Scherffeliomycopsis Geitler GENUS
 
 #### Status
 ACCEPTED

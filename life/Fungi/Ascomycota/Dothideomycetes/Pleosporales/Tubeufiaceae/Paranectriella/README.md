@@ -1,5 +1,4 @@
-Paranectriella (Henn. ex Sacc. & D. Sacc.) Höhn. GENUS
-=======
+# Paranectriella (Henn. ex Sacc. & D. Sacc.) Höhn. GENUS
 
 #### Status
 ACCEPTED

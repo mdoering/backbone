@@ -1,5 +1,4 @@
-Sphaerella sagittariae Tassi SPECIES
-=======
+# Sphaerella sagittariae Tassi SPECIES
 
 #### Status
 ACCEPTED

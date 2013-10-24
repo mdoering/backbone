@@ -1,5 +1,4 @@
-Navaneethospora cheiromycoides V. Rao, 1994 SPECIES
-=======
+# Navaneethospora cheiromycoides V. Rao, 1994 SPECIES
 
 #### Status
 ACCEPTED

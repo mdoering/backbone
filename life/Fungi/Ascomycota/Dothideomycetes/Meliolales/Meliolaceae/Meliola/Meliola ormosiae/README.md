@@ -1,5 +1,4 @@
-Meliola ormosiae C.C. Chen SPECIES
-=======
+# Meliola ormosiae C.C. Chen SPECIES
 
 #### Status
 ACCEPTED

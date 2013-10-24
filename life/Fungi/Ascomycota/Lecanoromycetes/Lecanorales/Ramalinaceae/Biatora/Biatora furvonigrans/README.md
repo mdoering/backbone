@@ -1,5 +1,4 @@
-Biatora furvonigrans Tuck. SPECIES
-=======
+# Biatora furvonigrans Tuck. SPECIES
 
 #### Status
 ACCEPTED

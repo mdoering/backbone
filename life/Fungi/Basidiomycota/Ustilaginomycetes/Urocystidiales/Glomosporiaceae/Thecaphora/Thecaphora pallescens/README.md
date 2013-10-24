@@ -1,5 +1,4 @@
-Thecaphora pallescens Fingerh. SPECIES
-=======
+# Thecaphora pallescens Fingerh. SPECIES
 
 #### Status
 ACCEPTED

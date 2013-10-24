@@ -1,14 +1,13 @@
-Phragmocapnias smilacina J.M. Mend., 1925 SPECIES
-=======
+# Metacapnodium smilacinum (J.M. Mend.) S. Hughes, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Stevens, Bulletin of the Bernice P. Bishop Museum, Honolulu, Hawaii 19: 58 (1925)
+N. Z. Jl Bot. 19(2): 208 (1981)
 
 #### Original name
 Phragmocapnias smilacina J.M. Mend., 1925

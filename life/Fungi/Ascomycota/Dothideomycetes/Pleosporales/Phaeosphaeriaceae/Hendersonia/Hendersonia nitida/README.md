@@ -1,5 +1,4 @@
-Hendersonia nitida Ellis & Everh. SPECIES
-=======
+# Hendersonia nitida Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

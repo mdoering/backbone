@@ -1,5 +1,4 @@
-Uromyces peraffinis Dietel SPECIES
-=======
+# Uromyces peraffinis Dietel SPECIES
 
 #### Status
 ACCEPTED

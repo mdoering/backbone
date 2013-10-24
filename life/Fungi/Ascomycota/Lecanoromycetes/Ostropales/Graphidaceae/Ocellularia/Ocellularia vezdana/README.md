@@ -1,5 +1,4 @@
-Ocellularia vezdana Frisch SPECIES
-=======
+# Ocellularia vezdana Frisch SPECIES
 
 #### Status
 ACCEPTED

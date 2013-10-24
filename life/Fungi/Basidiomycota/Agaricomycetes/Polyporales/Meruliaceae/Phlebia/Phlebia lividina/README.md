@@ -1,14 +1,13 @@
-Phlebia fascicularia Nakasone & Burds., 1995 SPECIES
-=======
+# Phlebia lividina Hjortstam, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 54: 336 (1995)
+Mycotaxon 54: 190 (1995)
 
 #### Original name
 Hydnum fasciculare Berk. & M.A. Curtis, 1873

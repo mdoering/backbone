@@ -1,5 +1,4 @@
-Elaphococcus Haeckel, 1881 GENUS
-=======
+# Elaphococcus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

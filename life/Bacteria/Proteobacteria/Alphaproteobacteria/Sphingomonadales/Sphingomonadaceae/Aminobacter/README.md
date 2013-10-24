@@ -1,5 +1,4 @@
-Aminobacter Urakami, Araki, Oyanagi, Suzuki & Komagata, 1992 GENUS
-=======
+# Aminobacter Urakami, Araki, Oyanagi, Suzuki & Komagata, 1992 GENUS
 
 #### Status
 ACCEPTED

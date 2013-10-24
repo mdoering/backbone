@@ -1,5 +1,4 @@
-Penicillium flavocinereum Biourge SPECIES
-=======
+# Penicillium flavocinereum Biourge SPECIES
 
 #### Status
 ACCEPTED

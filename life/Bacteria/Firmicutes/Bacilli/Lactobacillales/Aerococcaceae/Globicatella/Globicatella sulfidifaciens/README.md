@@ -1,5 +1,4 @@
-Globicatella sulfidifaciens Vandamme et al., 2001 SPECIES
-=======
+# Globicatella sulfidifaciens Vandamme et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

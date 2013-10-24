@@ -1,5 +1,4 @@
-Psathyrella multicystidiata Kits van Wav. SPECIES
-=======
+# Psathyrella multicystidiata Kits van Wav. SPECIES
 
 #### Status
 ACCEPTED

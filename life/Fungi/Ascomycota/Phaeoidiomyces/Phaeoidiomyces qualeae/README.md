@@ -1,5 +1,4 @@
-Phaeoidiomyces qualeae Dorn.-Silva & Dianese, 2004 SPECIES
-=======
+# Phaeoidiomyces qualeae Dorn.-Silva & Dianese, 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endogloea taleola (Sacc.) Höhn. SPECIES
-=======
+# Endogloea taleola (Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ruthea involuta Klotzsch SPECIES
-=======
+# Ruthea involuta Klotzsch SPECIES
 
 #### Status
 ACCEPTED

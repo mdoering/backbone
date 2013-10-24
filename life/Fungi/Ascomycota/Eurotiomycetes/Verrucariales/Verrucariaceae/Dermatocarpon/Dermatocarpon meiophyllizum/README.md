@@ -1,17 +1,16 @@
-Dermatocarpon miniatum var. leptophyllum VARIETY
-=======
+# Dermatocarpon meiophyllizum Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Acta Soc. Fauna Flora fenn. 49(no. 2): 14 (1921)
 
 #### Original name
-Dermatocarpon miniatum var. leptophyllum
+Dermatocarpon meiophyllizum Vain.
 
 ### Remarks
 null

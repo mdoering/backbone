@@ -1,17 +1,16 @@
-Stereum hydrophorum var. hydrophorum Berk. VARIETY
-=======
+# Aquascypha hydrophora (Berk.) D.A. Reid, 1965 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 1 14: 327 (1844)
+Beih. Nova Hedwigia 18: 52 (1965)
 
 #### Original name
-Stereum hydrophorum var. hydrophorum Berk.
+Stereum hydrophorum Berk., 1844
 
 ### Remarks
 null

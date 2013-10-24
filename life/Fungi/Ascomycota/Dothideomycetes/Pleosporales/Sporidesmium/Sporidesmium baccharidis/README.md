@@ -1,5 +1,4 @@
-Sporidesmium baccharidis (Syd.) M.B. Ellis SPECIES
-=======
+# Sporidesmium baccharidis (Syd.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerognomonia elaeicola Bat. SPECIES
-=======
+# Sphaerognomonia elaeicola Bat. SPECIES
 
 #### Status
 ACCEPTED

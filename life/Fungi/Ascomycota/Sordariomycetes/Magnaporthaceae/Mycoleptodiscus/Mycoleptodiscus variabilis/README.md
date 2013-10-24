@@ -1,5 +1,4 @@
-Mycoleptodiscus variabilis Alcorn, 1994 SPECIES
-=======
+# Mycoleptodiscus variabilis Alcorn, 1994 SPECIES
 
 #### Status
 ACCEPTED

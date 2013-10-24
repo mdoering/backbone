@@ -1,14 +1,13 @@
-Ascophanus glaucellus Rehm, 1895 SPECIES
-=======
+# Coprotus glaucellus (Rehm) Kimbr., 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rabenh. Krypt. -Fl. (Leipzig) 1(3): 1086 (1895)
+Am. J. Bot. 54(1): 22 (1967)
 
 #### Original name
 Ascophanus glaucellus Rehm, 1895

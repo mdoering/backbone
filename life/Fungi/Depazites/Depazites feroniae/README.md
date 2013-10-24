@@ -1,5 +1,4 @@
-Depazites feroniae (Ettingsh.) Mesch. SPECIES
-=======
+# Depazites feroniae (Ettingsh.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

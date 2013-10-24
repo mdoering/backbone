@@ -1,5 +1,4 @@
-Clavaria luteola Pers. SPECIES
-=======
+# Clavaria luteola Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia paschalis Zahlbr. SPECIES
-=======
+# Buellia paschalis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

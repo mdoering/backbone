@@ -1,5 +1,4 @@
-Trametes mexicana Berk. & M.A. Curtis SPECIES
-=======
+# Trametes mexicana Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

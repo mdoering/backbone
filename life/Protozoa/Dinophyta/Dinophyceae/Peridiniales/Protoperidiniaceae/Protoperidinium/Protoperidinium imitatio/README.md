@@ -1,5 +1,4 @@
-Protoperidinium imitatio E. Balech SPECIES
-=======
+# Protoperidinium imitatio E. Balech SPECIES
 
 #### Status
 ACCEPTED

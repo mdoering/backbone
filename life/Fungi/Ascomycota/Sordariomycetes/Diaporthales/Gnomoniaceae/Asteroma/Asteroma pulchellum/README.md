@@ -1,5 +1,4 @@
-Asteroma pulchellum Sacc. SPECIES
-=======
+# Asteroma pulchellum Sacc. SPECIES
 
 #### Status
 ACCEPTED

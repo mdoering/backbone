@@ -1,5 +1,4 @@
-Catillaria irrorata Malme SPECIES
-=======
+# Catillaria irrorata Malme SPECIES
 
 #### Status
 ACCEPTED

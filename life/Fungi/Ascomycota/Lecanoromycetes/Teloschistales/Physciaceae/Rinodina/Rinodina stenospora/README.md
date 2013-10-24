@@ -1,5 +1,4 @@
-Rinodina stenospora H. Magn. SPECIES
-=======
+# Rinodina stenospora H. Magn. SPECIES
 
 #### Status
 ACCEPTED

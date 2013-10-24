@@ -1,5 +1,4 @@
-Lecidea dolichospora Nyl. SPECIES
-=======
+# Lecidea dolichospora Nyl. SPECIES
 
 #### Status
 ACCEPTED

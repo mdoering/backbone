@@ -1,5 +1,4 @@
-Actinokineospora enzanensis Otoguro et al., 2003 SPECIES
-=======
+# Actinokineospora enzanensis Otoguro et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

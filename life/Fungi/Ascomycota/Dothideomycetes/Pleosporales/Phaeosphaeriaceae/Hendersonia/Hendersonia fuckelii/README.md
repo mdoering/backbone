@@ -1,5 +1,4 @@
-Hendersonia fuckelii Sacc. SPECIES
-=======
+# Hendersonia fuckelii Sacc. SPECIES
 
 #### Status
 ACCEPTED

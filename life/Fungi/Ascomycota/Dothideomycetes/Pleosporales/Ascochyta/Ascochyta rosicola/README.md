@@ -1,5 +1,4 @@
-Ascochyta rosicola Sacc. SPECIES
-=======
+# Ascochyta rosicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

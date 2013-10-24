@@ -1,5 +1,4 @@
-Marasmius fulvovelutinus Beeli SPECIES
-=======
+# Marasmius fulvovelutinus Beeli SPECIES
 
 #### Status
 ACCEPTED

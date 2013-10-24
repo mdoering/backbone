@@ -1,17 +1,16 @@
-Parmelia soredians f. soredians FORM
-=======
+# Flavoparmelia soredians (Nyl.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. linn. Normandie, sér. 2 6: 259 (1872)
+Mycotaxon 25(2): 605 (1986)
 
 #### Original name
-Parmelia soredians f. soredians
+Parmelia soredians Nyl.
 
 ### Remarks
 null

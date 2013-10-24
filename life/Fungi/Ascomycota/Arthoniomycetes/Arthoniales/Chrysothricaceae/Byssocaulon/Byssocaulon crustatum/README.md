@@ -1,5 +1,4 @@
-Byssocaulon crustatum (Hue) Zahlbr. SPECIES
-=======
+# Byssocaulon crustatum (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

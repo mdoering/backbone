@@ -1,5 +1,4 @@
-Muchmoria portoricensis Sacc. SPECIES
-=======
+# Muchmoria portoricensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

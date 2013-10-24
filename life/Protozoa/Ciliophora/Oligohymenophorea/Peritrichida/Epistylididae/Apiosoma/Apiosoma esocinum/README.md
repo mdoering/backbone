@@ -1,5 +1,4 @@
-Apiosoma esocinum SPECIES
-=======
+# Apiosoma esocinum SPECIES
 
 #### Status
 ACCEPTED

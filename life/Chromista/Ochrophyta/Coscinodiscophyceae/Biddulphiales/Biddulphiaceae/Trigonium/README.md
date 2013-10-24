@@ -1,5 +1,4 @@
-Trigonium Cleve, 1867 GENUS
-=======
+# Trigonium Cleve, 1867 GENUS
 
 #### Status
 ACCEPTED

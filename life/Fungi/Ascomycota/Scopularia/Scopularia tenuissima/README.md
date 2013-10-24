@@ -1,5 +1,4 @@
-Scopularia tenuissima (Corda) Goid. SPECIES
-=======
+# Scopularia tenuissima (Corda) Goid. SPECIES
 
 #### Status
 ACCEPTED

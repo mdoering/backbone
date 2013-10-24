@@ -1,5 +1,4 @@
-Parmelia ferruginascens (Zopf ex Rosend.) Gyeln. SPECIES
-=======
+# Parmelia ferruginascens (Zopf ex Rosend.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

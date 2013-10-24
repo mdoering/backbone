@@ -1,5 +1,4 @@
-Hypocrea hypomycella Sacc. SPECIES
-=======
+# Hypocrea hypomycella Sacc. SPECIES
 
 #### Status
 ACCEPTED

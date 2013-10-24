@@ -1,5 +1,4 @@
-Vulcanisphaera J.Deunff, 1961 GENUS
-=======
+# Vulcanisphaera J.Deunff, 1961 GENUS
 
 #### Status
 ACCEPTED

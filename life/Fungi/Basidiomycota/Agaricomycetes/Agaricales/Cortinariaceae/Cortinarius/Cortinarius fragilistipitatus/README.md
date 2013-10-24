@@ -1,5 +1,4 @@
-Cortinarius fragilistipitatus Reumaux, 2005 SPECIES
-=======
+# Cortinarius fragilistipitatus Reumaux, 2005 SPECIES
 
 #### Status
 ACCEPTED

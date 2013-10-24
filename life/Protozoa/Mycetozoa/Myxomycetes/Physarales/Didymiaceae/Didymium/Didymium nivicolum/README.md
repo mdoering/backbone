@@ -1,8 +1,7 @@
-Didymium wilczekii pulverulenta Meyl., 1921 INFRASPECIFIC_NAME
-=======
+# Didymium nivicolum Meyl., 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

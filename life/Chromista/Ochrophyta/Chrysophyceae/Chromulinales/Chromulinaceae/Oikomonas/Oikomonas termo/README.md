@@ -1,5 +1,4 @@
-Oikomonas termo (Ehr.) SPECIES
-=======
+# Oikomonas termo (Ehr.) SPECIES
 
 #### Status
 ACCEPTED

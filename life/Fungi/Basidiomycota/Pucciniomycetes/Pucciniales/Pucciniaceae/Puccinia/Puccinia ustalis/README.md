@@ -1,14 +1,13 @@
-Dicaeoma ustale (Berk.) Kuntze, 1898 SPECIES
-=======
+# Puccinia ustalis Berk., 1854 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 471 (1898)
+Hooker's J. Bot. 6: 207 (1854)
 
 #### Original name
 Puccinia ustalis Berk., 1854

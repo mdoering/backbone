@@ -1,5 +1,4 @@
-Holophrya bimacronucleata Grandori & Grandori, 1934 SPECIES
-=======
+# Holophrya bimacronucleata Grandori & Grandori, 1934 SPECIES
 
 #### Status
 ACCEPTED

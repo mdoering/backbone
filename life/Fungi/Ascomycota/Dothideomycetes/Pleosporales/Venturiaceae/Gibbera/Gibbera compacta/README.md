@@ -1,5 +1,4 @@
-Gibbera compacta (Peck) Shear SPECIES
-=======
+# Gibbera compacta (Peck) Shear SPECIES
 
 #### Status
 ACCEPTED

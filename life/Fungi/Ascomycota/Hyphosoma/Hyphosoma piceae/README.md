@@ -1,5 +1,4 @@
-Hyphosoma piceae (Funck) S. Hughes SPECIES
-=======
+# Hyphosoma piceae (Funck) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

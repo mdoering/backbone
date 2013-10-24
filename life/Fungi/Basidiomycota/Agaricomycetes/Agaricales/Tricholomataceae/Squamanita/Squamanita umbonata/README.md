@@ -1,8 +1,7 @@
-Vaginata umbonata Sumst., 1914 SPECIES
-=======
+# Squamanita umbonata (Sumst.) Bas, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

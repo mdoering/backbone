@@ -1,5 +1,4 @@
-Ramalina foliosa SPECIES
-=======
+# Ramalina foliosa SPECIES
 
 #### Status
 ACCEPTED

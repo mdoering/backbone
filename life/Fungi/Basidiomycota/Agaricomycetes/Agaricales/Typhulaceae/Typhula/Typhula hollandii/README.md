@@ -1,5 +1,4 @@
-Typhula hollandii D.A. Reid, 1965 SPECIES
-=======
+# Typhula hollandii D.A. Reid, 1965 SPECIES
 
 #### Status
 ACCEPTED

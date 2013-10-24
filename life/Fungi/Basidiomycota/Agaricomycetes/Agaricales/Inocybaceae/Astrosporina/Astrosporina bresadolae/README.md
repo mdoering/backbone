@@ -1,5 +1,4 @@
-Astrosporina bresadolae (Massee) E. Horak SPECIES
-=======
+# Astrosporina bresadolae (Massee) E. Horak SPECIES
 
 #### Status
 ACCEPTED

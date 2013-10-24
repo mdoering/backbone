@@ -1,17 +1,16 @@
-Polyporus miquelii var. miquelii VARIETY
-=======
+# Pseudofavolus miquelii (Mont.) Pat., 1900 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 4: 357 (1845)
+Essai Tax. Hyménomyc. (Lons-le-Saunier) 81 (1900)
 
 #### Original name
-Polyporus miquelii var. miquelii
+Polyporus miquelii Mont., 1845
 
 ### Remarks
 null

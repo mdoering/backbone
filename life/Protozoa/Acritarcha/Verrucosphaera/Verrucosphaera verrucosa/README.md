@@ -1,5 +1,4 @@
-Verrucosphaera verrucosa Jiabo, 1978 SPECIES
-=======
+# Verrucosphaera verrucosa Jiabo, 1978 SPECIES
 
 #### Status
 ACCEPTED

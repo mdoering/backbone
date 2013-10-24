@@ -1,5 +1,4 @@
-Lachnellula pittospori subsp. pittospori SUBSPECIES
-=======
+# Lachnellula pittospori L.M. Kohn SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycotaxon 12(1): 278 (1980)
 
 #### Original name
-Lachnellula pittospori subsp. pittospori
+Lachnellula pittospori L.M. Kohn
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Corticium marianum (Nees) Fr. SPECIES
-=======
+# Corticium marianum (Nees) Fr. SPECIES
 
 #### Status
 ACCEPTED

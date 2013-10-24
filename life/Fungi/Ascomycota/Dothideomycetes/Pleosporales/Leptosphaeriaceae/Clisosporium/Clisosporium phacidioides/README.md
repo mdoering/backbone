@@ -1,14 +1,13 @@
-Clisosporium phacidiodes (Speg.) Kuntze SPECIES
-=======
+# Clisosporium phacidioides (Speg.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 458 (1898)
 
 #### Original name
 Coniothyrium phacidioides Speg.

@@ -1,5 +1,4 @@
-Metamelaena GENUS
-=======
+# Metamelaena GENUS
 
 #### Status
 ACCEPTED

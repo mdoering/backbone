@@ -1,5 +1,4 @@
-Polyporus dendriticus Fr. SPECIES
-=======
+# Polyporus dendriticus Fr. SPECIES
 
 #### Status
 ACCEPTED

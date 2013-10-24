@@ -1,5 +1,4 @@
-Trematosphaeria buellioides Rehm SPECIES
-=======
+# Trematosphaeria buellioides Rehm SPECIES
 
 #### Status
 ACCEPTED

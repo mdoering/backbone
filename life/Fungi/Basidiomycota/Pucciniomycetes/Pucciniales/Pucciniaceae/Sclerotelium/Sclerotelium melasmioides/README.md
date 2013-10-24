@@ -1,5 +1,4 @@
-Sclerotelium melasmioides (Tranzschel) Syd. SPECIES
-=======
+# Sclerotelium melasmioides (Tranzschel) Syd. SPECIES
 
 #### Status
 ACCEPTED

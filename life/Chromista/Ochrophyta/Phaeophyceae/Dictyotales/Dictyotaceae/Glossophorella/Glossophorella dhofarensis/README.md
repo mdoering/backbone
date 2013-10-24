@@ -1,5 +1,4 @@
-Glossophorella dhofarensis M. Nizamuddin & A. C. Campbell SPECIES
-=======
+# Glossophorella dhofarensis M. Nizamuddin & A. C. Campbell SPECIES
 
 #### Status
 ACCEPTED

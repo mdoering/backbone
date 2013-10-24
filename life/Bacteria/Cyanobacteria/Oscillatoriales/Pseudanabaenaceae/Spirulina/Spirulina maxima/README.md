@@ -1,5 +1,4 @@
-Spirulina maxima (Setchell & Gardner) Geitler SPECIES
-=======
+# Spirulina maxima (Setchell & Gardner) Geitler SPECIES
 
 #### Status
 ACCEPTED

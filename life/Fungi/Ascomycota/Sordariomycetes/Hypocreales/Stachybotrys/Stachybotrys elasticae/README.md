@@ -1,5 +1,4 @@
-Stachybotrys elasticae Koord. SPECIES
-=======
+# Stachybotrys elasticae Koord. SPECIES
 
 #### Status
 ACCEPTED

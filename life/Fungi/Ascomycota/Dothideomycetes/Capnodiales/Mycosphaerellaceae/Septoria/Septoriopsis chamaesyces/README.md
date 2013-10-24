@@ -1,17 +1,16 @@
-Septoriopsis chamaesyceae F. Stevens & Dalbey SPECIES
-=======
+# Septoriopsis chamaesyces F. Stevens & Dalbey SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 11(1): 4 (1919)
 
 #### Original name
-Septoriopsis chamaesyceae F. Stevens & Dalbey
+Septoriopsis chamaesyces F. Stevens & Dalbey
 
 ### Remarks
 null

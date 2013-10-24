@@ -1,5 +1,4 @@
-Phylloporus caballeroi Singer SPECIES
-=======
+# Phylloporus caballeroi Singer SPECIES
 
 #### Status
 ACCEPTED

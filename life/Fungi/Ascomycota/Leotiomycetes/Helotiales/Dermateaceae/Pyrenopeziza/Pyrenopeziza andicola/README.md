@@ -1,5 +1,4 @@
-Pyrenopeziza andicola Speg. SPECIES
-=======
+# Pyrenopeziza andicola Speg. SPECIES
 
 #### Status
 ACCEPTED

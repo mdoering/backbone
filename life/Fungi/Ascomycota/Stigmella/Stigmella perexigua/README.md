@@ -1,5 +1,4 @@
-Stigmella perexigua Sacc. SPECIES
-=======
+# Stigmella perexigua Sacc. SPECIES
 
 #### Status
 ACCEPTED

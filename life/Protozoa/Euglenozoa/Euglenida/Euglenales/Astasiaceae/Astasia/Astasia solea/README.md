@@ -1,5 +1,4 @@
-Astasia solea Pringsheim SPECIES
-=======
+# Astasia solea Pringsheim SPECIES
 
 #### Status
 ACCEPTED

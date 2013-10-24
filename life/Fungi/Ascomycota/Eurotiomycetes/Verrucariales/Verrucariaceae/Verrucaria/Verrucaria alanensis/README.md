@@ -1,5 +1,4 @@
-Verrucaria alanensis Servít SPECIES
-=======
+# Verrucaria alanensis Servít SPECIES
 
 #### Status
 ACCEPTED

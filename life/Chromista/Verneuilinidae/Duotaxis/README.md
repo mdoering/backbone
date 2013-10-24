@@ -1,5 +1,4 @@
-Duotaxis Kristan, 1957 GENUS
-=======
+# Duotaxis Kristan, 1957 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe lilacinoviridis A.M. Young SPECIES
-=======
+# Hygrocybe lilacinoviridis A.M. Young SPECIES
 
 #### Status
 ACCEPTED

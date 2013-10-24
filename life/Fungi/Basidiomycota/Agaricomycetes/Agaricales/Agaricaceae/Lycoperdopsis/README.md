@@ -1,5 +1,4 @@
-Lycoperdopsis Henn. GENUS
-=======
+# Lycoperdopsis Henn. GENUS
 
 #### Status
 ACCEPTED

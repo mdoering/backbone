@@ -1,5 +1,4 @@
-Hypolyssus fusisporus (Tul.) Kuntze SPECIES
-=======
+# Hypolyssus fusisporus (Tul.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

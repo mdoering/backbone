@@ -1,5 +1,4 @@
-Ceratolithus amplificus Bukry & Percival, 1971 SPECIES
-=======
+# Ceratolithus amplificus Bukry & Percival, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Enhygromyxa Iizuka et al., 2003 GENUS
-=======
+# Enhygromyxa Iizuka et al., 2003 GENUS
 
 #### Status
 ACCEPTED

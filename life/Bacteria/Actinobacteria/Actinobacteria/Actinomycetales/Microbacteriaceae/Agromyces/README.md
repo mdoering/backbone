@@ -1,5 +1,4 @@
-Agromyces GENUS
-=======
+# Agromyces GENUS
 
 #### Status
 ACCEPTED

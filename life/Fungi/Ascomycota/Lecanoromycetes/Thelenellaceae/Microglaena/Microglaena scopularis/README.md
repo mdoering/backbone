@@ -1,5 +1,4 @@
-Microglaena scopularis (Vain.) Zahlbr. SPECIES
-=======
+# Microglaena scopularis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

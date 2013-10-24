@@ -1,5 +1,4 @@
-Psilocybe aequatoriae Singer SPECIES
-=======
+# Psilocybe aequatoriae Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo cirsii Lasch SPECIES
-=======
+# Uredo cirsii Lasch SPECIES
 
 #### Status
 ACCEPTED

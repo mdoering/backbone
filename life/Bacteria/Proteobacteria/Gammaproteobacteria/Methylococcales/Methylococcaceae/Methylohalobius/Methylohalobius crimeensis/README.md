@@ -1,5 +1,4 @@
-Methylohalobius crimeensis Heyer et al., 2005 SPECIES
-=======
+# Methylohalobius crimeensis Heyer et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

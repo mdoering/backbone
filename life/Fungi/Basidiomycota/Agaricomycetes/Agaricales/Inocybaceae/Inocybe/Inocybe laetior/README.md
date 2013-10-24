@@ -1,5 +1,4 @@
-Inocybe laetior D.E. Stuntz SPECIES
-=======
+# Inocybe laetior D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

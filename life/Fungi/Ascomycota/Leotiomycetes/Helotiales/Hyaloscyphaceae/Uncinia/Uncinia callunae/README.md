@@ -1,5 +1,4 @@
-Uncinia callunae Velen. SPECIES
-=======
+# Uncinia callunae Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalina meridionalis Contu & La Rocca SPECIES
-=======
+# Omphalina meridionalis Contu & La Rocca SPECIES
 
 #### Status
 ACCEPTED

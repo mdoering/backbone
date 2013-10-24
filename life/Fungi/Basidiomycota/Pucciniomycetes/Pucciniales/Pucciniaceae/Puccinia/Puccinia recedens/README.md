@@ -1,5 +1,4 @@
-Puccinia recedens P. Syd. & Syd. SPECIES
-=======
+# Puccinia recedens P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

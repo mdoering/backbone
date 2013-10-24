@@ -1,5 +1,4 @@
-Blyttiomyces helicus Sparrow SPECIES
-=======
+# Blyttiomyces helicus Sparrow SPECIES
 
 #### Status
 ACCEPTED

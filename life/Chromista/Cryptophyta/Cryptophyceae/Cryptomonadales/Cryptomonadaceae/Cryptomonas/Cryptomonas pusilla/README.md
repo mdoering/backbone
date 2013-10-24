@@ -1,5 +1,4 @@
-Cryptomonas pusilla Bachman SPECIES
-=======
+# Cryptomonas pusilla Bachman SPECIES
 
 #### Status
 ACCEPTED

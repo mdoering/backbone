@@ -1,5 +1,4 @@
-Marasmius polycystis Singer SPECIES
-=======
+# Marasmius polycystis Singer SPECIES
 
 #### Status
 ACCEPTED

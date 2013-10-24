@@ -1,5 +1,4 @@
-Dimargaris oblongispora B.S. Mehrotra & Baijal, 1963 SPECIES
-=======
+# Dimargaris oblongispora B.S. Mehrotra & Baijal, 1963 SPECIES
 
 #### Status
 ACCEPTED

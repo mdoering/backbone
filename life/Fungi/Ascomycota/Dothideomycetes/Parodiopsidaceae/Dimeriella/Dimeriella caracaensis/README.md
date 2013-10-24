@@ -1,5 +1,4 @@
-Dimeriella caracaensis Maubl. SPECIES
-=======
+# Dimeriella caracaensis Maubl. SPECIES
 
 #### Status
 ACCEPTED

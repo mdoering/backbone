@@ -1,5 +1,4 @@
-Rhodophyllus clavipilus Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus clavipilus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

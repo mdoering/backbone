@@ -1,5 +1,4 @@
-Plectosphaera flagellariae I. Hino & Katum., 1965 SPECIES
-=======
+# Plectosphaera flagellariae I. Hino & Katum., 1965 SPECIES
 
 #### Status
 ACCEPTED
