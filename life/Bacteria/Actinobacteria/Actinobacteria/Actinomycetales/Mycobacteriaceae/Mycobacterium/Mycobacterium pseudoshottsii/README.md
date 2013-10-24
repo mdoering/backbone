@@ -1,5 +1,4 @@
-Mycobacterium pseudoshottsii Rhodes et al., 2005 SPECIES
-=======
+# Mycobacterium pseudoshottsii Rhodes et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

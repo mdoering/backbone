@@ -1,5 +1,4 @@
-Bulgaria striata Ellis & Everh. SPECIES
-=======
+# Bulgaria striata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

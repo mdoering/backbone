@@ -1,17 +1,16 @@
-Helmisporium attenuatum Peck & Cooke SPECIES
-=======
+# Helminthosporium attenuatum Peck & Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Saccardo, Syll. 4: 417 (1878)
 
 #### Original name
-Helmisporium attenuatum Peck & Cooke
+Helminthosporium attenuatum Peck & Cooke
 
 ### Remarks
 null

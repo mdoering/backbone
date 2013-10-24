@@ -1,5 +1,4 @@
-Biatora diapensiae (Th. Fr.) Hellb. SPECIES
-=======
+# Biatora diapensiae (Th. Fr.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

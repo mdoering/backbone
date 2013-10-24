@@ -1,5 +1,4 @@
-Excipula rubi Fr. SPECIES
-=======
+# Excipula rubi Fr. SPECIES
 
 #### Status
 ACCEPTED

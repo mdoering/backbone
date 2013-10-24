@@ -1,5 +1,4 @@
-Platysma agnatum Nyl. SPECIES
-=======
+# Platysma agnatum Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torpedospora radiata Meyers, 1957 SPECIES
-=======
+# Torpedospora radiata Meyers, 1957 SPECIES
 
 #### Status
 ACCEPTED

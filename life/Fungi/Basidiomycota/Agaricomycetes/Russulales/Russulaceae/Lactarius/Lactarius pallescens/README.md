@@ -1,5 +1,4 @@
-Lactarius pallescens var. pallescens VARIETY
-=======
+# Lactarius pallescens Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 North American Species of Lactarius (Ann Arbor) 323 (1979)
 
 #### Original name
-Lactarius pallescens var. pallescens
+Lactarius pallescens Hesler & A.H. Sm.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Parmotrema acutatum Kurok. SPECIES
-=======
+# Parmotrema acutatum Kurok. SPECIES
 
 #### Status
 ACCEPTED

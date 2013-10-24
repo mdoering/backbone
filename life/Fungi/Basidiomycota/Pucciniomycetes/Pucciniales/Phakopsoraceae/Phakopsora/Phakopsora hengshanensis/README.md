@@ -1,5 +1,4 @@
-Phakopsora hengshanensis F.L. Tai SPECIES
-=======
+# Phakopsora hengshanensis F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

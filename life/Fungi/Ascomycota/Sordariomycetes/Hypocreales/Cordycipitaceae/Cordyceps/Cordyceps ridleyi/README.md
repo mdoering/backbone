@@ -1,5 +1,4 @@
-Cordyceps ridleyi Massee SPECIES
-=======
+# Cordyceps ridleyi Massee SPECIES
 
 #### Status
 ACCEPTED

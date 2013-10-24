@@ -1,5 +1,4 @@
-Lecanora homaloplaca Nyl. SPECIES
-=======
+# Lecanora homaloplaca Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria perillae I. Miyake SPECIES
-=======
+# Septoria perillae I. Miyake SPECIES
 
 #### Status
 ACCEPTED

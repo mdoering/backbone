@@ -1,5 +1,4 @@
-Alysidium rubeoalbum (Preuss) Kuntze SPECIES
-=======
+# Alysidium rubeoalbum (Preuss) Kuntze SPECIES
 
 #### Status
 ACCEPTED

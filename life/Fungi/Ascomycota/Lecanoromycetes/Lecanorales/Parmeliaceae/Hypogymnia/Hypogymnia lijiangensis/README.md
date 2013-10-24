@@ -1,5 +1,4 @@
-Hypogymnia lijiangensis J.B. Chen SPECIES
-=======
+# Hypogymnia lijiangensis J.B. Chen SPECIES
 
 #### Status
 ACCEPTED

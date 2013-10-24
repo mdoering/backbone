@@ -1,5 +1,4 @@
-Xylaria badia Pat. SPECIES
-=======
+# Xylaria badia Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neoclitocybe lifotama Singer SPECIES
-=======
+# Neoclitocybe lifotama Singer SPECIES
 
 #### Status
 ACCEPTED

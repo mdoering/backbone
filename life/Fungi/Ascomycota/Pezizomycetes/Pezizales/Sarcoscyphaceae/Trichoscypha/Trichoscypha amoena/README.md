@@ -1,5 +1,4 @@
-Trichoscypha amoena (Lév.) Sacc. SPECIES
-=======
+# Trichoscypha amoena (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

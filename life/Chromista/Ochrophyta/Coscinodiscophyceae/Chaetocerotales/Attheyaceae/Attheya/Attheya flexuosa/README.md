@@ -1,5 +1,4 @@
-Attheya flexuosa var. enodulifer C. Gardner VARIETY
-=======
+# Attheya flexuosa C. Gardner SPECIES
 
 #### Status
 ACCEPTED

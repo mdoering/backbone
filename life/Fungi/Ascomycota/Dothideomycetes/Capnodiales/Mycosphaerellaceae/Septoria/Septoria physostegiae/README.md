@@ -1,5 +1,4 @@
-Septoria physostegiae Ellis & Everh. SPECIES
-=======
+# Septoria physostegiae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

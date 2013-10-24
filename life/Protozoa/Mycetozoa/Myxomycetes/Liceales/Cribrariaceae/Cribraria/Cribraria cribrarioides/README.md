@@ -1,14 +1,13 @@
-Lindbladia effusa var. cribrarioides Emoto VARIETY
-=======
+# Cribraria cribrarioides (Emoto) Hatano, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Jap. Bot. 12: 348 (1936)
+Acta med. Rio de Janeiro 10: 36 (1985)
 
 #### Original name
 Lindbladia effusa var. cribrarioides Emoto

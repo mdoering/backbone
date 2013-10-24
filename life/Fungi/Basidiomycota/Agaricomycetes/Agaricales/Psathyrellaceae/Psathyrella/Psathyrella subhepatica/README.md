@@ -1,5 +1,4 @@
-Psathyrella subhepatica A.H. Sm. SPECIES
-=======
+# Psathyrella subhepatica A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

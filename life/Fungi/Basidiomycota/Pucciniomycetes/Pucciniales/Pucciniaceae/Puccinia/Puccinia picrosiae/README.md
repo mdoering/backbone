@@ -1,5 +1,4 @@
-Puccinia picrosiae Syd. {?} SPECIES
-=======
+# Puccinia picrosiae Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

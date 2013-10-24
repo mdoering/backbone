@@ -1,5 +1,4 @@
-Cortinarius campbellae (Berk. & Broome ex Zeller & C.W. Dodge) Peintner & M.M. Moser SPECIES
-=======
+# Cortinarius campbellae (Berk. & Broome ex Zeller & C.W. Dodge) Peintner & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

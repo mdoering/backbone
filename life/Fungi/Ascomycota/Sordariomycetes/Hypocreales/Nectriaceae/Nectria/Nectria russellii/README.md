@@ -1,5 +1,4 @@
-Nectria russellii f. russellii FORM
-=======
+# Nectria russellii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Nectria russellii f. russellii
+Nectria russellii Berk. & M.A. Curtis
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Clathrocorys teuscheri Haeckel, 1887 SPECIES
-=======
+# Clathrocorys teuscheri Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

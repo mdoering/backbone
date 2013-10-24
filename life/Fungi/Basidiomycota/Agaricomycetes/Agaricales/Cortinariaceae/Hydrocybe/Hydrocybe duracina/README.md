@@ -1,5 +1,4 @@
-Hydrocybe duracina anon. SPECIES
-=======
+# Hydrocybe duracina anon. SPECIES
 
 #### Status
 ACCEPTED

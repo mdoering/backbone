@@ -1,5 +1,4 @@
-Agaricus urbus Fr. SPECIES
-=======
+# Agaricus urbus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erinella rhabdocarpa (Ellis) Sacc. SPECIES
-=======
+# Erinella rhabdocarpa (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

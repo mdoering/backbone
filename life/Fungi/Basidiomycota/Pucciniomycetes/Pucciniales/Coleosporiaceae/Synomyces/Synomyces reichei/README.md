@@ -1,5 +1,4 @@
-Synomyces reichei (Dietel) Arthur SPECIES
-=======
+# Synomyces reichei (Dietel) Arthur SPECIES
 
 #### Status
 ACCEPTED

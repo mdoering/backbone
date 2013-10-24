@@ -1,5 +1,4 @@
-Nigredo zygadeni (Peck) Arthur SPECIES
-=======
+# Nigredo zygadeni (Peck) Arthur SPECIES
 
 #### Status
 ACCEPTED

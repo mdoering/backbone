@@ -1,5 +1,4 @@
-Galerina intermedia anon. SPECIES
-=======
+# Galerina intermedia anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca insignis Søchting & Øvstedal SPECIES
-=======
+# Caloplaca insignis Søchting & Øvstedal SPECIES
 
 #### Status
 ACCEPTED

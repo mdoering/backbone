@@ -1,5 +1,4 @@
-Gervasia Borzì ex Forti in G.B. De Toni, 1907 GENUS
-=======
+# Gervasia Borzì ex Forti in G.B. De Toni, 1907 GENUS
 
 #### Status
 ACCEPTED

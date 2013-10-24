@@ -1,5 +1,4 @@
-Psora subdecipiens (Nyl.) Flagey SPECIES
-=======
+# Psora subdecipiens (Nyl.) Flagey SPECIES
 
 #### Status
 ACCEPTED

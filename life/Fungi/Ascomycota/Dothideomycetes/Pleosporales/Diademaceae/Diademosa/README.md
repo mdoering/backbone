@@ -1,5 +1,4 @@
-Diademosa Shoemaker & C.E. Babc. GENUS
-=======
+# Diademosa Shoemaker & C.E. Babc. GENUS
 
 #### Status
 ACCEPTED

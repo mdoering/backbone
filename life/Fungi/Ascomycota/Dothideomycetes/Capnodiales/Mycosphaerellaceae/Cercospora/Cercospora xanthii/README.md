@@ -1,5 +1,4 @@
-Cercospora xanthii Heald & F.A. Wolf SPECIES
-=======
+# Cercospora xanthii Heald & F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

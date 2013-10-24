@@ -1,5 +1,4 @@
-Ophiaster formosus Gran, 1912 SPECIES
-=======
+# Ophiaster formosus Gran, 1912 SPECIES
 
 #### Status
 ACCEPTED

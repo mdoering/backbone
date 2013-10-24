@@ -1,5 +1,4 @@
-Peziza rhabdocarpa Ellis SPECIES
-=======
+# Peziza rhabdocarpa Ellis SPECIES
 
 #### Status
 ACCEPTED

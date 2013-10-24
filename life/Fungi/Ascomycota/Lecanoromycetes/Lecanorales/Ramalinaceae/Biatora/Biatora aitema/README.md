@@ -1,5 +1,4 @@
-Biatora aitema A. Massal. SPECIES
-=======
+# Biatora aitema A. Massal. SPECIES
 
 #### Status
 ACCEPTED

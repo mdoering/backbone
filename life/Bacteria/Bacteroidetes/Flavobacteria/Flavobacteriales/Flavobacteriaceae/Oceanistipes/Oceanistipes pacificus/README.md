@@ -1,5 +1,4 @@
-Oceanistipes pacificus Yang & Cho, 2006 SPECIES
-=======
+# Oceanistipes pacificus Yang & Cho, 2006 SPECIES
 
 #### Status
 ACCEPTED

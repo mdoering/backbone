@@ -1,5 +1,4 @@
-Mycena truncosalicicola D.A. Reid, 1996 SPECIES
-=======
+# Mycena truncosalicicola D.A. Reid, 1996 SPECIES
 
 #### Status
 ACCEPTED

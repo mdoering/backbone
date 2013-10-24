@@ -1,5 +1,4 @@
-Physcia japonica SPECIES
-=======
+# Physcia japonica SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyanotheca Pascher GENUS
-=======
+# Cyanotheca Pascher GENUS
 
 #### Status
 ACCEPTED

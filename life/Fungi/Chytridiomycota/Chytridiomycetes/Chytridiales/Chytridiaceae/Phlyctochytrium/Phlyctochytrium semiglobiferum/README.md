@@ -1,5 +1,4 @@
-Phlyctochytrium semiglobiferum Uebelm., 1956 SPECIES
-=======
+# Phlyctochytrium semiglobiferum Uebelm., 1956 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyota implexa J.V. Lamouroux SPECIES
-=======
+# Dictyota implexa J.V. Lamouroux SPECIES
 
 #### Status
 ACCEPTED

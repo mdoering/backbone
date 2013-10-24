@@ -1,5 +1,4 @@
-Mollisia sclerophila Speg. SPECIES
-=======
+# Mollisia sclerophila Speg. SPECIES
 
 #### Status
 ACCEPTED

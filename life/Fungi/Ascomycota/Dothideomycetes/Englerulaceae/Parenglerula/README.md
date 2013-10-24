@@ -1,5 +1,4 @@
-Parenglerula Höhn. GENUS
-=======
+# Parenglerula Höhn. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rahnella aquatilis Izard et al., 1981 SPECIES
-=======
+# Rahnella aquatilis Izard et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strigula puncticulata Müll. Arg. SPECIES
-=======
+# Strigula puncticulata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

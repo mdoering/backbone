@@ -1,5 +1,4 @@
-Passalora bastardiae (Petr. & Cif.) U. Braun & Crous SPECIES
-=======
+# Passalora bastardiae (Petr. & Cif.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

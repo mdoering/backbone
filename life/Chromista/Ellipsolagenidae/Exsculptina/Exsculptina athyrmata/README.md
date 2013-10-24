@@ -1,5 +1,4 @@
-Exsculptina athyrmata Loeblich & Tappan, 1994 SPECIES
-=======
+# Exsculptina athyrmata Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

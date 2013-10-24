@@ -1,5 +1,4 @@
-Tricholoma fumescens (Peck) Sacc. SPECIES
-=======
+# Tricholoma fumescens (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

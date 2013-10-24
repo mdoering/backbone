@@ -1,5 +1,4 @@
-Valsa chlorodisca Cooke & Ellis SPECIES
-=======
+# Valsa chlorodisca Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

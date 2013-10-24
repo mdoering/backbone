@@ -1,5 +1,4 @@
-Peziza gei Pat. & Doass. SPECIES
-=======
+# Peziza gei Pat. & Doass. SPECIES
 
 #### Status
 ACCEPTED

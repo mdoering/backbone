@@ -1,5 +1,4 @@
-Julella garugae R. Rao & Modak SPECIES
-=======
+# Julella garugae R. Rao & Modak SPECIES
 
 #### Status
 ACCEPTED

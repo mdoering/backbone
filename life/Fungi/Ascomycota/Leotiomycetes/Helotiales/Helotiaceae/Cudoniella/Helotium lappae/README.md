@@ -1,5 +1,4 @@
-Helotium lappae Losa SPECIES
-=======
+# Helotium lappae Losa SPECIES
 
 #### Status
 ACCEPTED

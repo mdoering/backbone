@@ -1,5 +1,4 @@
-Aggregata maxima Théoridès & Desportes, 1975 SPECIES
-=======
+# Aggregata maxima Théoridès & Desportes, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceracea rickii Bres. SPECIES
-=======
+# Ceracea rickii Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius aegrotus E. Horak, 1990 SPECIES
-=======
+# Cortinarius aegrotus E. Horak, 1990 SPECIES
 
 #### Status
 ACCEPTED

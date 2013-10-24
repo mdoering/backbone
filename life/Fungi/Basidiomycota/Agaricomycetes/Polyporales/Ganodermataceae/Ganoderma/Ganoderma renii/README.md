@@ -1,5 +1,4 @@
-Ganoderma renii S.C. He SPECIES
-=======
+# Ganoderma renii S.C. He SPECIES
 
 #### Status
 ACCEPTED

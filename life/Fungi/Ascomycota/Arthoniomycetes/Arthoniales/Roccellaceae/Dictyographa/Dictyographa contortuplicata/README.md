@@ -1,5 +1,4 @@
-Dictyographa contortuplicata Müll. Arg. SPECIES
-=======
+# Dictyographa contortuplicata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

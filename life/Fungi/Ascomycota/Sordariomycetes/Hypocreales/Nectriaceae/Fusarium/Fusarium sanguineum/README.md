@@ -1,5 +1,4 @@
-Fusarium sanguineum Sherb. SPECIES
-=======
+# Fusarium sanguineum Sherb. SPECIES
 
 #### Status
 ACCEPTED

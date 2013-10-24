@@ -1,5 +1,4 @@
-Strobilomyces glabellus J.Z. Ying SPECIES
-=======
+# Strobilomyces glabellus J.Z. Ying SPECIES
 
 #### Status
 ACCEPTED

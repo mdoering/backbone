@@ -1,5 +1,4 @@
-Pyrenophora petiolorum (Fuckel) Sacc. SPECIES
-=======
+# Pyrenophora petiolorum (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

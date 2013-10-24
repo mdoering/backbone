@@ -1,5 +1,4 @@
-Uredo sempertecta Thüm. SPECIES
-=======
+# Uredo sempertecta Thüm. SPECIES
 
 #### Status
 ACCEPTED

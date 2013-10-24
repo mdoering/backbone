@@ -1,5 +1,4 @@
-Synandromyces platydemae Thaxt., 1931 SPECIES
-=======
+# Synandromyces platydemae Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

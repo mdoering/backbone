@@ -1,5 +1,4 @@
-Porina tigurina var. tigurina VARIETY
-=======
+# Porina tigurina (Stizenb.) Lettau SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 52: 105 (1912)
 
 #### Original name
-Porina tigurina var. tigurina
+Verrucaria tigurina Stizenb.
 
 ### Remarks
 null

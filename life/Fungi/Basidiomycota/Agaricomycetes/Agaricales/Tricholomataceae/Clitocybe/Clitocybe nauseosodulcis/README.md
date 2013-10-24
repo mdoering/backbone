@@ -1,5 +1,4 @@
-Clitocybe nauseosodulcis P. Karst. SPECIES
-=======
+# Clitocybe nauseosodulcis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

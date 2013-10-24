@@ -1,5 +1,4 @@
-Entyloma thirumalacharii Pavgi & R.A. Singh, 1967 SPECIES
-=======
+# Entyloma thirumalacharii Pavgi & R.A. Singh, 1967 SPECIES
 
 #### Status
 ACCEPTED

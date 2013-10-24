@@ -1,5 +1,4 @@
-Cortinarius capitellinus E. Horak SPECIES
-=======
+# Cortinarius capitellinus E. Horak SPECIES
 
 #### Status
 ACCEPTED

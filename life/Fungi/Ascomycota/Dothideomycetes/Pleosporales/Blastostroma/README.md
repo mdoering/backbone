@@ -1,5 +1,4 @@
-Blastostroma C.Z. Wei, Y. Harada & Katum. GENUS
-=======
+# Blastostroma C.Z. Wei, Y. Harada & Katum. GENUS
 
 #### Status
 ACCEPTED

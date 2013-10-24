@@ -1,5 +1,4 @@
-Collema ohioense (Fink) Zahlbr. SPECIES
-=======
+# Collema ohioense (Fink) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

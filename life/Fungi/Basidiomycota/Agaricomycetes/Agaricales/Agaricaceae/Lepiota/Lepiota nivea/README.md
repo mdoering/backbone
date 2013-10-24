@@ -1,5 +1,4 @@
-Lepiota nivea Velen. SPECIES
-=======
+# Lepiota nivea Velen. SPECIES
 
 #### Status
 ACCEPTED

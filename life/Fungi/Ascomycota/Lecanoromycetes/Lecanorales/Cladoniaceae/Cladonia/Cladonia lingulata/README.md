@@ -1,5 +1,4 @@
-Cladonia lingulata Ahti SPECIES
-=======
+# Cladonia lingulata Ahti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeodon GENUS
-=======
+# Phaeodon GENUS
 
 #### Status
 ACCEPTED

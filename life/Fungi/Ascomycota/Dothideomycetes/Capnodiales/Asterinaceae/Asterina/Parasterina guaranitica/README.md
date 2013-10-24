@@ -1,5 +1,4 @@
-Parasterina guaranitica (Speg.) Bat. & M.L. Farr SPECIES
-=======
+# Parasterina guaranitica (Speg.) Bat. & M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

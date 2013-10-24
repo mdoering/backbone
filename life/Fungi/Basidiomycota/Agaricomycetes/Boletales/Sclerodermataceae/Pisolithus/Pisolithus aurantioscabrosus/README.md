@@ -1,5 +1,4 @@
-Pisolithus aurantioscabrosus Watling, 1995 SPECIES
-=======
+# Pisolithus aurantioscabrosus Watling, 1995 SPECIES
 
 #### Status
 ACCEPTED

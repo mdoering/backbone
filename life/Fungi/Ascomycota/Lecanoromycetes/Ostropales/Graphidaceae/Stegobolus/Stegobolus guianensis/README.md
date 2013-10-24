@@ -1,5 +1,4 @@
-Stegobolus guianensis (Sipman) Frisch SPECIES
-=======
+# Stegobolus guianensis (Sipman) Frisch SPECIES
 
 #### Status
 ACCEPTED

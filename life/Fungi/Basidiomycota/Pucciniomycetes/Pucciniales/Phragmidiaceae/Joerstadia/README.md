@@ -1,5 +1,4 @@
-Joerstadia Gjaerum & Cummins GENUS
-=======
+# Joerstadia Gjaerum & Cummins GENUS
 
 #### Status
 ACCEPTED

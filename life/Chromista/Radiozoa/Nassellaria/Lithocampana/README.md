@@ -1,5 +1,4 @@
-Lithocampana Clark & Campbell, 1942 GENUS
-=======
+# Lithocampana Clark & Campbell, 1942 GENUS
 
 #### Status
 ACCEPTED

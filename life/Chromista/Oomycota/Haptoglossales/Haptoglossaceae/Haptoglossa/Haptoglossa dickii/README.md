@@ -1,5 +1,4 @@
-Haptoglossa dickii Glockling, 2000 SPECIES
-=======
+# Haptoglossa dickii Glockling, 2000 SPECIES
 
 #### Status
 ACCEPTED

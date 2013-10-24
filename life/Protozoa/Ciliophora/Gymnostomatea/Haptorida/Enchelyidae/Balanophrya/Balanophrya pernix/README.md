@@ -1,5 +1,4 @@
-Balanophrya pernix Gelei, 1954 SPECIES
-=======
+# Balanophrya pernix Gelei, 1954 SPECIES
 
 #### Status
 ACCEPTED

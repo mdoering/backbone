@@ -1,5 +1,4 @@
-Lecidea limprichtii Stein SPECIES
-=======
+# Lecidea limprichtii Stein SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helicoma taiwanensis Matsush. SPECIES
-=======
+# Helicoma taiwanensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

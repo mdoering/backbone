@@ -1,5 +1,4 @@
-Lecanora rhodomma (Nyl.) Hue SPECIES
-=======
+# Lecanora rhodomma (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

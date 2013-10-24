@@ -1,5 +1,4 @@
-Stirtonia verruculosa Groenh. SPECIES
-=======
+# Stirtonia verruculosa Groenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyrodinium heterogramma J. Larsen, 1996 SPECIES
-=======
+# Gyrodinium heterogramma J. Larsen, 1996 SPECIES
 
 #### Status
 ACCEPTED

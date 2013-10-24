@@ -1,5 +1,4 @@
-Porina mariae P.M. McCarthy, 1997 SPECIES
-=======
+# Porina mariae P.M. McCarthy, 1997 SPECIES
 
 #### Status
 DOUBTFUL

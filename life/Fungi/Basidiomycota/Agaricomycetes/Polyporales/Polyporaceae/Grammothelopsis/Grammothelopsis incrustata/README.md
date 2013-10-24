@@ -1,5 +1,4 @@
-Grammothelopsis incrustata A. David & Rajchenb., 1985 SPECIES
-=======
+# Grammothelopsis incrustata A. David & Rajchenb., 1985 SPECIES
 
 #### Status
 ACCEPTED

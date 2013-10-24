@@ -1,5 +1,4 @@
-Micromastia trigonospora Speg., 1909 SPECIES
-=======
+# Micromastia trigonospora Speg., 1909 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metalingulina McCulloch, 1977 GENUS
-=======
+# Metalingulina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

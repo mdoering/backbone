@@ -1,5 +1,4 @@
-Lecidea leptocarpa var. leptocarpa Nyl. ex C. Bab. & Mitt. VARIETY
-=======
+# Paraporpidia leptocarpa (C. Bab. & Mitt.) Rambold & Hertel SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-in Hooker, Flora Tasman. 2: 352 (1860)
+in Rambold, Biblthca Lichenol. 34: 250 (1989)
 
 #### Original name
-Lecidea leptocarpa var. leptocarpa Nyl. ex C. Bab. & Mitt.
+Lecidea leptocarpa Nyl. ex C. Bab. & Mitt.
 
 ### Remarks
 null

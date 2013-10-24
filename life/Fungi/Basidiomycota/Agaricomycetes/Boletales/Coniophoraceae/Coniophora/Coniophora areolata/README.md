@@ -1,5 +1,4 @@
-Coniophora areolata Fr. SPECIES
-=======
+# Coniophora areolata Fr. SPECIES
 
 #### Status
 ACCEPTED

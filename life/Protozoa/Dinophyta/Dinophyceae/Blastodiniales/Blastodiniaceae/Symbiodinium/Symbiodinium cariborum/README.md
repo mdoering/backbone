@@ -1,5 +1,4 @@
-Symbiodinium cariborum R. K. Trench SPECIES
-=======
+# Symbiodinium cariborum R. K. Trench SPECIES
 
 #### Status
 ACCEPTED

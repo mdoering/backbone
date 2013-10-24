@@ -1,5 +1,4 @@
-Inocybe cicatricata Ellis & Everh. SPECIES
-=======
+# Inocybe cicatricata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

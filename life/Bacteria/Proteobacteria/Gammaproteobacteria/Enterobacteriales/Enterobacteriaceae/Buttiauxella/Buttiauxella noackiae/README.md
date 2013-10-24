@@ -1,5 +1,4 @@
-Buttiauxella noackiae Müller et al., 1996 SPECIES
-=======
+# Buttiauxella noackiae Müller et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coryneum artemisiae Byzova SPECIES
-=======
+# Coryneum artemisiae Byzova SPECIES
 
 #### Status
 ACCEPTED

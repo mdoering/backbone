@@ -1,5 +1,4 @@
-Urosporidium spisuli Perkins, Zwerner & Dias, 1975 SPECIES
-=======
+# Urosporidium spisuli Perkins, Zwerner & Dias, 1975 SPECIES
 
 #### Status
 ACCEPTED

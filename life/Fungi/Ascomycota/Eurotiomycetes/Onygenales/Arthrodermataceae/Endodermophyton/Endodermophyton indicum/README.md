@@ -1,5 +1,4 @@
-Endodermophyton indicum Castell. SPECIES
-=======
+# Endodermophyton indicum Castell. SPECIES
 
 #### Status
 ACCEPTED

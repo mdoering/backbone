@@ -1,5 +1,4 @@
-Panus flabellulum Sacc. & Speg. SPECIES
-=======
+# Panus flabellulum Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

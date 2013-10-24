@@ -1,5 +1,4 @@
-Endospora bicoccus Gardner SPECIES
-=======
+# Endospora bicoccus Gardner SPECIES
 
 #### Status
 DOUBTFUL

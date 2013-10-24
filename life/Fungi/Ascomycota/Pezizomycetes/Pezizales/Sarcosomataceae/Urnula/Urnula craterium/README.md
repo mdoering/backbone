@@ -1,14 +1,13 @@
-Peziza craterium Schwein., 1822 SPECIES
-=======
+# Urnula craterium (Schwein.) Fr., 1851 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Schr. naturf. Ges. Leipzig 1: 117 (1822)
+Nova Acta R. Soc. Scient. upsal. , Ser. 3 1: 122 (1851)
 
 #### Original name
 Peziza craterium Schwein., 1822

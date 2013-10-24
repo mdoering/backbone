@@ -1,17 +1,16 @@
-Hydrocybe subminitula Murrill SPECIES
-=======
+# Hydrocybe subminutula Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 67: 233 (1940)
 
 #### Original name
-Hydrocybe subminitula Murrill
+Hydrocybe subminutula Murrill
 
 ### Remarks
 null

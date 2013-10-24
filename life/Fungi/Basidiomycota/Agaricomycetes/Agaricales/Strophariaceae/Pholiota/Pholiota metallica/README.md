@@ -1,5 +1,4 @@
-Pholiota metallica Donoso SPECIES
-=======
+# Pholiota metallica Donoso SPECIES
 
 #### Status
 ACCEPTED

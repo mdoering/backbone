@@ -1,5 +1,4 @@
-Teichospora salicis G. Arnaud SPECIES
-=======
+# Teichospora salicis G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

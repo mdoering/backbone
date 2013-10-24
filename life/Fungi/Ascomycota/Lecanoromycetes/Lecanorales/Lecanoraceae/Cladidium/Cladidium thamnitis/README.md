@@ -1,14 +1,13 @@
-Lecanora thamnitis Tuck. SPECIES
-=======
+# Cladidium thamnitis (Tuck.) Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 79: 296 (1984)
 
 #### Original name
 Lecanora thamnitis Tuck.

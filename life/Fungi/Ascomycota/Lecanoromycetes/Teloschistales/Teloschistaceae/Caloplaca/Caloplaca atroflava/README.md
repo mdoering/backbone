@@ -1,17 +1,16 @@
-Placodium turnerianum (Ach.) A.L. Sm. SPECIES
-=======
+# Caloplaca atroflava (Turner) Mong. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Brit. Lich. 1: 226 (1918)
+Bull. Acad. Intern. Géogr. Bot. 23: 192 (1914)
 
 #### Original name
-Lecidea turneriana Ach.
+Lecidea atroflava Turner
 
 ### Remarks
 null

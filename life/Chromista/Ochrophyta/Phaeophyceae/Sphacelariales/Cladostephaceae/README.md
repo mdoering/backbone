@@ -1,5 +1,4 @@
-Cladostephaceae FAMILY
-=======
+# Cladostephaceae FAMILY
 
 #### Status
 ACCEPTED

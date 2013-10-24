@@ -1,5 +1,4 @@
-Puccinia baldensis Gäum. SPECIES
-=======
+# Puccinia baldensis Gäum. SPECIES
 
 #### Status
 ACCEPTED

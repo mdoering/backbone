@@ -1,17 +1,16 @@
-Laboulbenia benjamini Balazuc SPECIES
-=======
+# Laboulbenia benjaminii Balazuc SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nouv. Rev. Entomol. , Nouv. sér. 1(1): 114 (1971)
 
 #### Original name
-Laboulbenia benjamini Balazuc
+Laboulbenia benjaminii Balazuc
 
 ### Remarks
 null

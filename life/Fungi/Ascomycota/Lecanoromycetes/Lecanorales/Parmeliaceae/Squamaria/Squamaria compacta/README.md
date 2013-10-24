@@ -1,5 +1,4 @@
-Squamaria compacta var. compacta VARIETY
-=======
+# Squamaria compacta (Körb.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Squamaria compacta var. compacta
+null
 
 ### Remarks
 null

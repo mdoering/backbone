@@ -1,5 +1,4 @@
-Trichothecium epiphyllum Müll. Arg. SPECIES
-=======
+# Trichothecium epiphyllum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

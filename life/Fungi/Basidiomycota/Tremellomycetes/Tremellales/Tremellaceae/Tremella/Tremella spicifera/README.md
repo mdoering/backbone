@@ -1,5 +1,4 @@
-Tremella spicifera Van Ryck., Van de Put & P. Roberts, 2002 SPECIES
-=======
+# Tremella spicifera Van Ryck., Van de Put & P. Roberts, 2002 SPECIES
 
 #### Status
 ACCEPTED

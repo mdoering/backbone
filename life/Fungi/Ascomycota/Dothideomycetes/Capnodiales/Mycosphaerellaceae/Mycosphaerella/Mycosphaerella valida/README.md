@@ -1,5 +1,4 @@
-Mycosphaerella valida Syd. SPECIES
-=======
+# Mycosphaerella valida Syd. SPECIES
 
 #### Status
 ACCEPTED

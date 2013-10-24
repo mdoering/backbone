@@ -1,5 +1,4 @@
-Hydropus occidentalis Singer SPECIES
-=======
+# Hydropus occidentalis Singer SPECIES
 
 #### Status
 ACCEPTED

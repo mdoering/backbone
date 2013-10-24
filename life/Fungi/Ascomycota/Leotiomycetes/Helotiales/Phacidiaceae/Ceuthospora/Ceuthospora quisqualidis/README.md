@@ -1,17 +1,16 @@
-Ceuthospora quisqualis Shreem. SPECIES
-=======
+# Ceuthospora quisqualidis Shreem. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sci. Cult. 36(10): 570 (1970)
 
 #### Original name
-Ceuthospora quisqualis Shreem.
+Ceuthospora quisqualidis Shreem.
 
 ### Remarks
 null

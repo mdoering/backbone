@@ -1,5 +1,4 @@
-Uromyces blainvilleae Berk. SPECIES
-=======
+# Uromyces blainvilleae Berk. SPECIES
 
 #### Status
 ACCEPTED

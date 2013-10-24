@@ -1,5 +1,4 @@
-Mycena lutea Bres. SPECIES
-=======
+# Mycena lutea Bres. SPECIES
 
 #### Status
 ACCEPTED

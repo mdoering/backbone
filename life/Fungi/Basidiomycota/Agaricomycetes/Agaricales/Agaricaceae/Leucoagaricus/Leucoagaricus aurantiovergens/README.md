@@ -1,5 +1,4 @@
-Leucoagaricus aurantiovergens A. Gennari & Migl. SPECIES
-=======
+# Leucoagaricus aurantiovergens A. Gennari & Migl. SPECIES
 
 #### Status
 ACCEPTED

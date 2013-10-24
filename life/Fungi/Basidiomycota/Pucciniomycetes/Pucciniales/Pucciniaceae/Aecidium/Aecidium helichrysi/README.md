@@ -1,5 +1,4 @@
-Aecidium helichrysi Doidge SPECIES
-=======
+# Aecidium helichrysi Doidge SPECIES
 
 #### Status
 ACCEPTED

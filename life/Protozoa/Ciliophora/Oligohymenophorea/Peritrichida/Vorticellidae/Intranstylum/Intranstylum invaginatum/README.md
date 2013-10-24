@@ -1,5 +1,4 @@
-Intranstylum invaginatum subsp. cyclopi SUBSPECIES
-=======
+# Intranstylum invaginatum Stokes, 1886 SPECIES
 
 #### Status
 ACCEPTED

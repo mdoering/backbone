@@ -1,5 +1,4 @@
-Cladonia pileolata SPECIES
-=======
+# Cladonia pileolata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma fici-populifoliae H. Mori SPECIES
-=======
+# Phoma fici-populifoliae H. Mori SPECIES
 
 #### Status
 ACCEPTED

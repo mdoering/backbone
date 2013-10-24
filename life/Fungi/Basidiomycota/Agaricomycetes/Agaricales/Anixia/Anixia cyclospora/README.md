@@ -1,5 +1,4 @@
-Anixia cyclospora (Cooke) Sacc. SPECIES
-=======
+# Anixia cyclospora (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

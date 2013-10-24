@@ -1,5 +1,4 @@
-Peronospora euphorbiae Fuckel, 1919 SPECIES
-=======
+# Peronospora euphorbiae Fuckel, 1919 SPECIES
 
 #### Status
 ACCEPTED

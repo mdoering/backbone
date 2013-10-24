@@ -1,5 +1,4 @@
-Macrophoma aconiti Berl. & Peglion SPECIES
-=======
+# Macrophoma aconiti Berl. & Peglion SPECIES
 
 #### Status
 ACCEPTED

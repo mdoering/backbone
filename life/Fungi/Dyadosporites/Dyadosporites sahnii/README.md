@@ -1,5 +1,4 @@
-Dyadosporites sahnii (C.P. Varma & Rawat) Kalgutkar & Janson. SPECIES
-=======
+# Dyadosporites sahnii (C.P. Varma & Rawat) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

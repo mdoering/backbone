@@ -1,5 +1,4 @@
-Hispidicarpomyces galaxauricola Nakagiri, 1993 SPECIES
-=======
+# Hispidicarpomyces galaxauricola Nakagiri, 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylosphaeria argentinensis (Speg.) Petr. SPECIES
-=======
+# Xylosphaeria argentinensis (Speg.) Petr. SPECIES
 
 #### Status
 ACCEPTED

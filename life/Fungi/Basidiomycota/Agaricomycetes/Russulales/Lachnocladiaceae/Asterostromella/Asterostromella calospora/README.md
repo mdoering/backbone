@@ -1,5 +1,4 @@
-Asterostromella calospora Rick SPECIES
-=======
+# Asterostromella calospora Rick SPECIES
 
 #### Status
 ACCEPTED

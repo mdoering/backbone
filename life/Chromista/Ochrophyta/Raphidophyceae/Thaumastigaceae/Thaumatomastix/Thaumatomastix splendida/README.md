@@ -1,5 +1,4 @@
-Thaumatomastix splendida H.A. Thomsen, Kosman & Ikävalko, 1995 SPECIES
-=======
+# Thaumatomastix splendida H.A. Thomsen, Kosman & Ikävalko, 1995 SPECIES
 
 #### Status
 ACCEPTED

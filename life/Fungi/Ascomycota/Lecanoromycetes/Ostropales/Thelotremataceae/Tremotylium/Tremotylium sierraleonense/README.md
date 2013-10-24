@@ -1,5 +1,4 @@
-Tremotylium sierraleonense C.W. Dodge SPECIES
-=======
+# Tremotylium sierraleonense C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

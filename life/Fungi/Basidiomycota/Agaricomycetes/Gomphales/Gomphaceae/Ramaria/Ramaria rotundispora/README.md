@@ -1,5 +1,4 @@
-Ramaria rotundispora R.H. Petersen, 1988 SPECIES
-=======
+# Ramaria rotundispora R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

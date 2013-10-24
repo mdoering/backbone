@@ -1,5 +1,4 @@
-Cochlodinium clarissimum Kofoid & Swezy, 1921 SPECIES
-=======
+# Cochlodinium clarissimum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

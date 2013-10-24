@@ -1,5 +1,4 @@
-Catillaria curvatula H. Magn. SPECIES
-=======
+# Catillaria curvatula H. Magn. SPECIES
 
 #### Status
 ACCEPTED

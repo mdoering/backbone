@@ -1,5 +1,4 @@
-Lecidea monocarpa SPECIES
-=======
+# Lecidea monocarpa SPECIES
 
 #### Status
 ACCEPTED

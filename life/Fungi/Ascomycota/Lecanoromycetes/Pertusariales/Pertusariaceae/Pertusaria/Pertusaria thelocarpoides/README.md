@@ -1,5 +1,4 @@
-Pertusaria thelocarpoides Nyl. SPECIES
-=======
+# Pertusaria thelocarpoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

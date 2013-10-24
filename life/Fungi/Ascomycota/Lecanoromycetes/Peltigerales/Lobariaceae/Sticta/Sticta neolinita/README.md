@@ -1,5 +1,4 @@
-Sticta neolinita Gyeln. SPECIES
-=======
+# Sticta neolinita Gyeln. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerangium pruni (Teng) Teng SPECIES
-=======
+# Sphaerangium pruni (Teng) Teng SPECIES
 
 #### Status
 ACCEPTED

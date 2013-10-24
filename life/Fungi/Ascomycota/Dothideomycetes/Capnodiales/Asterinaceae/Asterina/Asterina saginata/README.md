@@ -1,5 +1,4 @@
-Asterina saginata Syd. & P. Syd. SPECIES
-=======
+# Asterina saginata Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

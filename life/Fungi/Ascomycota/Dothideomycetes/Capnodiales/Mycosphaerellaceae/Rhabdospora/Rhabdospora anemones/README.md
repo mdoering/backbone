@@ -1,5 +1,4 @@
-Rhabdospora anemones Hollós SPECIES
-=======
+# Rhabdospora anemones Hollós SPECIES
 
 #### Status
 ACCEPTED

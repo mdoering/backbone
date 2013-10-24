@@ -1,8 +1,7 @@
-Myrothecium papyricolum Sacc. SPECIES
-=======
+# Myrothecium papyricola Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Myrothecium papyricolum Sacc.
+Myrothecium papyricola Sacc.
 
 ### Remarks
 null

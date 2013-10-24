@@ -1,5 +1,4 @@
-Naucoria contraria (Peck) Sacc. SPECIES
-=======
+# Naucoria contraria (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

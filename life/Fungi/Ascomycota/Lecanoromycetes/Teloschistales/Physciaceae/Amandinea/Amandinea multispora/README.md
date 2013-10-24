@@ -1,5 +1,4 @@
-Amandinea multispora (Kalb & Vezda) Marbach SPECIES
-=======
+# Amandinea multispora (Kalb & Vezda) Marbach SPECIES
 
 #### Status
 ACCEPTED

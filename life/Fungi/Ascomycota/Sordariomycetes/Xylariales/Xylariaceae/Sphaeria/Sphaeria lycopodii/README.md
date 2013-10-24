@@ -1,5 +1,4 @@
-Sphaeria lycopodii Lév. SPECIES
-=======
+# Sphaeria lycopodii Lév. SPECIES
 
 #### Status
 ACCEPTED

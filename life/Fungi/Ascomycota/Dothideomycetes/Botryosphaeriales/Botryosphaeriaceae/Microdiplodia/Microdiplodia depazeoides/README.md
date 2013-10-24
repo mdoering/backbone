@@ -1,5 +1,4 @@
-Microdiplodia depazeoides f. depazeoides FORM
-=======
+# Microdiplodia depazeoides (Durieu & Mont.) Zambett. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 70(3): 248 (1955)
 
 #### Original name
-Microdiplodia depazeoides f. depazeoides
+Diplodia depazeoides Durieu & Mont.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Puccinia nephrophyllii Mains SPECIES
-=======
+# Puccinia nephrophyllidii Mains SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 66: 620 (1939)
 
 #### Original name
-Puccinia nephrophyllii Mains
+Puccinia nephrophyllidii Mains
 
 ### Remarks
 null

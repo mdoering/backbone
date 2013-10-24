@@ -1,5 +1,4 @@
-Ustilago clintoniana Davis SPECIES
-=======
+# Ustilago clintoniana Davis SPECIES
 
 #### Status
 ACCEPTED

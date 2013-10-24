@@ -1,5 +1,4 @@
-Hypha digitata Humb. SPECIES
-=======
+# Hypha digitata Humb. SPECIES
 
 #### Status
 ACCEPTED

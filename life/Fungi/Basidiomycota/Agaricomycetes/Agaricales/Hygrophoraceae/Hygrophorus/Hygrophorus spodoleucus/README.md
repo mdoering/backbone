@@ -1,5 +1,4 @@
-Hygrophorus spodoleucus M.M. Moser SPECIES
-=======
+# Hygrophorus spodoleucus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

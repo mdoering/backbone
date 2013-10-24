@@ -1,5 +1,4 @@
-Gyalidea albocrenata (Arnold) Lettau SPECIES
-=======
+# Gyalidea albocrenata (Arnold) Lettau SPECIES
 
 #### Status
 ACCEPTED

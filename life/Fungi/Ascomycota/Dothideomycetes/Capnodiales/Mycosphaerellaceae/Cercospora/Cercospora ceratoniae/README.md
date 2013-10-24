@@ -1,5 +1,4 @@
-Cercospora ceratoniae Pat. & Trab. SPECIES
-=======
+# Cercospora ceratoniae Pat. & Trab. SPECIES
 
 #### Status
 ACCEPTED

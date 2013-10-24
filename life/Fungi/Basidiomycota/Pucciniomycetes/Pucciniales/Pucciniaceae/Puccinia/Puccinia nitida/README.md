@@ -1,17 +1,16 @@
-Trichobasis cynapi Cooke, 1865 SPECIES
-=======
+# Puccinia nitida Barclay, 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Descr. List Ured. Simla 3: 107 (1891)
 
 #### Original name
-null
+Puccinia nitida Barclay, 1891
 
 ### Remarks
 null

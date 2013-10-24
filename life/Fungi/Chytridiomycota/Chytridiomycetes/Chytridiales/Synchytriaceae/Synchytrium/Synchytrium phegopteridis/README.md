@@ -1,5 +1,4 @@
-Synchytrium phegopteridis Juel SPECIES
-=======
+# Synchytrium phegopteridis Juel SPECIES
 
 #### Status
 ACCEPTED

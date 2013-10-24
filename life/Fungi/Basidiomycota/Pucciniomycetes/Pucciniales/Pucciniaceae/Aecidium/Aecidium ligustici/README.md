@@ -1,5 +1,4 @@
-Aecidium ligustici Ellis & Everh. SPECIES
-=======
+# Aecidium ligustici Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

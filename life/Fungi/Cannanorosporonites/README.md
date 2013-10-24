@@ -1,5 +1,4 @@
-Cannanorosporonites Ramanujam & Rao GENUS
-=======
+# Cannanorosporonites Ramanujam & Rao GENUS
 
 #### Status
 ACCEPTED

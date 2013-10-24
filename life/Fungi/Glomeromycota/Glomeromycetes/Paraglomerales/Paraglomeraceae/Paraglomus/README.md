@@ -1,5 +1,4 @@
-Paraglomus J.B. Morton & D. Redecker GENUS
-=======
+# Paraglomus J.B. Morton & D. Redecker GENUS
 
 #### Status
 ACCEPTED

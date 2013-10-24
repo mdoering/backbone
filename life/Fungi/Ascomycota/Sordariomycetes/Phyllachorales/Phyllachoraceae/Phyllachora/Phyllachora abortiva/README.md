@@ -1,14 +1,13 @@
-Dothidea abortiva Desm., 1860 SPECIES
-=======
+# Phyllachora abortiva (Desm.) Fuckel, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Plantes Crypt. de France, Ser. 2 no. 92 (1860)
+Jb. nassau. Ver. Naturk. 23-24: 219 (1870)
 
 #### Original name
 Dothidea abortiva Desm., 1860

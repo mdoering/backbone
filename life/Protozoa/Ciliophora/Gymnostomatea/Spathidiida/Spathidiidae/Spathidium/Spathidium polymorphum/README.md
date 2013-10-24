@@ -1,5 +1,4 @@
-Spathidium polymorphum Wenzel, 1955 SPECIES
-=======
+# Spathidium polymorphum Wenzel, 1955 SPECIES
 
 #### Status
 ACCEPTED

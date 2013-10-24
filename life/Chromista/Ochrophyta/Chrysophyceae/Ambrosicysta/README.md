@@ -1,5 +1,4 @@
-Ambrosicysta Srivastava & Binda, 1984 GENUS
-=======
+# Ambrosicysta Srivastava & Binda, 1984 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paralia Heiberg GENUS
-=======
+# Paralia Heiberg GENUS
 
 #### Status
 ACCEPTED

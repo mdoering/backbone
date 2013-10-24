@@ -1,5 +1,4 @@
-Hypocrella aschersonia ined. SPECIES
-=======
+# Hypocrella aschersonia ined. SPECIES
 
 #### Status
 ACCEPTED

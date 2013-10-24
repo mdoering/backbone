@@ -1,5 +1,4 @@
-Torula simplex (Lindner) Sacc. SPECIES
-=======
+# Torula simplex (Lindner) Sacc. SPECIES
 
 #### Status
 ACCEPTED

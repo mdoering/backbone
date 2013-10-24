@@ -1,5 +1,4 @@
-Pezizella sedi (P. Karst.) Sacc. SPECIES
-=======
+# Pezizella sedi (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

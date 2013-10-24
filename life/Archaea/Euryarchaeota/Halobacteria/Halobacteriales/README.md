@@ -1,5 +1,4 @@
-Halobacteriales ORDER
-=======
+# Halobacteriales ORDER
 
 #### Status
 ACCEPTED

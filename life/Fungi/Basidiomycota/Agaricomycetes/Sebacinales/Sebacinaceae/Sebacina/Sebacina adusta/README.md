@@ -1,5 +1,4 @@
-Sebacina adusta Burt SPECIES
-=======
+# Sebacina adusta Burt SPECIES
 
 #### Status
 ACCEPTED

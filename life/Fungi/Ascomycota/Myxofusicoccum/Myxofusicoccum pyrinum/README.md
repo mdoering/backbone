@@ -1,5 +1,4 @@
-Myxofusicoccum pyrinum (Fr.) Boerema SPECIES
-=======
+# Myxofusicoccum pyrinum (Fr.) Boerema SPECIES
 
 #### Status
 ACCEPTED

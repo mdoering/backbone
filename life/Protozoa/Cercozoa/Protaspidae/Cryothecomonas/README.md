@@ -1,5 +1,4 @@
-Cryothecomonas Thomsen Buck, Bolt & Garrison, 1991 GENUS
-=======
+# Cryothecomonas Thomsen Buck, Bolt & Garrison, 1991 GENUS
 
 #### Status
 ACCEPTED

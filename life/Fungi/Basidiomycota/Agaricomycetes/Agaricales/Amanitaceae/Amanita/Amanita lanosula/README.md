@@ -1,5 +1,4 @@
-Amanita lanosula Bas SPECIES
-=======
+# Amanita lanosula Bas SPECIES
 
 #### Status
 ACCEPTED

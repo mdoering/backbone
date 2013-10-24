@@ -1,17 +1,16 @@
-Scutellinia phymatodeus S.C. Kaushal & R. Kaushal SPECIES
-=======
+# Scutellinia phymatodea S.C. Kaushal & R. Kaushal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Kaushal, Kaushal & Rawla, Biblthca Mycol. 91: 594 (1983)
 
 #### Original name
-Scutellinia phymatodeus S.C. Kaushal & R. Kaushal
+Scutellinia phymatodea S.C. Kaushal & R. Kaushal
 
 ### Remarks
 null

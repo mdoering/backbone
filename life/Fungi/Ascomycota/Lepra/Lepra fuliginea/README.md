@@ -1,5 +1,4 @@
-Lepra fuliginea SPECIES
-=======
+# Lepra fuliginea SPECIES
 
 #### Status
 ACCEPTED

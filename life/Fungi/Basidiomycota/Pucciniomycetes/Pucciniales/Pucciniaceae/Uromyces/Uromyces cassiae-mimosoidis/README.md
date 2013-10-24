@@ -1,17 +1,16 @@
-Uromyces cassiae-mimosoides Doidge SPECIES
-=======
+# Uromyces cassiae-mimosoidis Doidge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bothalia 4: 908 (1948)
 
 #### Original name
-Uromyces cassiae-mimosoides Doidge
+Uromyces cassiae-mimosoidis Doidge
 
 ### Remarks
 null

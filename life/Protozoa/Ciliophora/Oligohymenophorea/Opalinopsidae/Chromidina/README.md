@@ -1,5 +1,4 @@
-Chromidina Gonder, 1905 GENUS
-=======
+# Chromidina Gonder, 1905 GENUS
 
 #### Status
 ACCEPTED

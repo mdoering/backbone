@@ -1,5 +1,4 @@
-Stilbum piliforme Pers., 1801 SPECIES
-=======
+# Stilbum piliforme Pers., 1801 SPECIES
 
 #### Status
 ACCEPTED

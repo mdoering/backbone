@@ -1,5 +1,4 @@
-Valsa parasitica Cooke & Ellis SPECIES
-=======
+# Valsa parasitica Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

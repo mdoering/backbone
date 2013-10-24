@@ -1,5 +1,4 @@
-Navifusa purana Venkatachala et al., 1974 ex Fensome et al., 1990 SPECIES
-=======
+# Navifusa purana Venkatachala et al., 1974 ex Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

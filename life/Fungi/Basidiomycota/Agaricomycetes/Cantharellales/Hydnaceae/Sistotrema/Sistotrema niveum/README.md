@@ -1,5 +1,4 @@
-Sistotrema niveum Schwein. SPECIES
-=======
+# Sistotrema niveum Schwein. SPECIES
 
 #### Status
 ACCEPTED

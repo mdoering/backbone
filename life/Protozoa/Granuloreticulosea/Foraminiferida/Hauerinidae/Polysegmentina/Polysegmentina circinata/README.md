@@ -1,8 +1,7 @@
-Hauerina circinata Brady, 1881 SPECIES
-=======
+# Polysegmentina circinata (Brady, 1881) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

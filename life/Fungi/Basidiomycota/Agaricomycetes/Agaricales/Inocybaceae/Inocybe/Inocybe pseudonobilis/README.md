@@ -1,5 +1,4 @@
-Inocybe pseudonobilis Reumaux SPECIES
-=======
+# Inocybe pseudonobilis Reumaux SPECIES
 
 #### Status
 ACCEPTED

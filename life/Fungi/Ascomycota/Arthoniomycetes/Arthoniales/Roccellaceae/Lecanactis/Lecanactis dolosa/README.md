@@ -1,5 +1,4 @@
-Lecanactis dolosa (Duby) Müll. Arg. SPECIES
-=======
+# Lecanactis dolosa (Duby) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

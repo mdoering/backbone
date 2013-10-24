@@ -1,14 +1,13 @@
-Clavatospora stellatacula P.W. Kirk, 1969 SPECIES
-=======
+# Heliscella stellatacula (P.W. Kirk ex Marvanová & Sv. Nilsson) Marvanová, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 57(3): 531 (1969)
+Trans. Br. mycol. Soc. 75(2): 224 (1980)
 
 #### Original name
 Clavatospora stellatacula P.W. Kirk, 1969

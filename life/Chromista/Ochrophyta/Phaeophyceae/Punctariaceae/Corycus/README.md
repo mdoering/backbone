@@ -1,5 +1,4 @@
-Corycus F.R. Kjellman, 1889 GENUS
-=======
+# Corycus F.R. Kjellman, 1889 GENUS
 
 #### Status
 ACCEPTED

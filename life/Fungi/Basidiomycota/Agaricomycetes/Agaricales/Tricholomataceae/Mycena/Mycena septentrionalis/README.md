@@ -1,5 +1,4 @@
-Mycena septentrionalis Maas Geest., 1984 SPECIES
-=======
+# Mycena septentrionalis Maas Geest., 1984 SPECIES
 
 #### Status
 ACCEPTED

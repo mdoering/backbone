@@ -1,5 +1,4 @@
-Burcardia GENUS
-=======
+# Burcardia GENUS
 
 #### Status
 ACCEPTED

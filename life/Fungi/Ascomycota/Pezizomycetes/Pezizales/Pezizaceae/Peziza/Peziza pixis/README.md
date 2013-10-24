@@ -1,5 +1,4 @@
-Peziza pixis L. SPECIES
-=======
+# Peziza pixis L. SPECIES
 
 #### Status
 ACCEPTED

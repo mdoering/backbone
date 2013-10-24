@@ -1,5 +1,4 @@
-Blastotrichum obtusum (Bonord.) Sacc. SPECIES
-=======
+# Blastotrichum obtusum (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

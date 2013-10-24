@@ -1,5 +1,4 @@
-Maravalia fusiformis Y. Ono, Kakish. & Lohsomb., 1988 SPECIES
-=======
+# Maravalia fusiformis Y. Ono, Kakish. & Lohsomb., 1988 SPECIES
 
 #### Status
 ACCEPTED

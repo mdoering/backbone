@@ -1,5 +1,4 @@
-Coniosporium tripsaci Gonz. Frag. & Cif. SPECIES
-=======
+# Coniosporium tripsaci Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

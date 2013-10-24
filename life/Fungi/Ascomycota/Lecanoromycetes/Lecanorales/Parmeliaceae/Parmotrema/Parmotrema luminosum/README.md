@@ -1,5 +1,4 @@
-Parmotrema luminosum Marcelli SPECIES
-=======
+# Parmotrema luminosum Marcelli SPECIES
 
 #### Status
 ACCEPTED

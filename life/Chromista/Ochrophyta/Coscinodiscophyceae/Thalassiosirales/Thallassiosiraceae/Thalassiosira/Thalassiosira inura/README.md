@@ -1,5 +1,4 @@
-Thalassiosira inura R. Gersonde SPECIES
-=======
+# Thalassiosira inura R. Gersonde SPECIES
 
 #### Status
 ACCEPTED

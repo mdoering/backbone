@@ -1,5 +1,4 @@
-Dictyostelium valdivianum Vadell, Cavender, Romeralo & S.L. Stephenson, 2011 SPECIES
-=======
+# Dictyostelium valdivianum Vadell, Cavender, Romeralo & S.L. Stephenson, 2011 SPECIES
 
 #### Status
 ACCEPTED

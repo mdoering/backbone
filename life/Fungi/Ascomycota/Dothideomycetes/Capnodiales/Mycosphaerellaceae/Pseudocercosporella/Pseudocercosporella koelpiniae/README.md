@@ -1,5 +1,4 @@
-Pseudocercosporella koelpiniae (Annal.) U. Braun SPECIES
-=======
+# Pseudocercosporella koelpiniae (Annal.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

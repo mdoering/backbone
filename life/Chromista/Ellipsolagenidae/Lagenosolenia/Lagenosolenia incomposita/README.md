@@ -1,5 +1,4 @@
-Lagenosolenia incomposita Patterson & Pettis, 1986 SPECIES
-=======
+# Lagenosolenia incomposita Patterson & Pettis, 1986 SPECIES
 
 #### Status
 ACCEPTED

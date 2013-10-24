@@ -1,5 +1,4 @@
-Lactobacillus durianis Leisner et al., 2002 SPECIES
-=======
+# Lactobacillus durianis Leisner et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

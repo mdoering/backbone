@@ -1,5 +1,4 @@
-Sphaerella denigrans Kirschst. SPECIES
-=======
+# Sphaerella denigrans Kirschst. SPECIES
 
 #### Status
 ACCEPTED

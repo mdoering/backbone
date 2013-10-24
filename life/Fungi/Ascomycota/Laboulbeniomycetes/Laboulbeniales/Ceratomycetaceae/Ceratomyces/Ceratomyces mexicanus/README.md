@@ -1,5 +1,4 @@
-Ceratomyces mexicanus Thaxt. SPECIES
-=======
+# Ceratomyces mexicanus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

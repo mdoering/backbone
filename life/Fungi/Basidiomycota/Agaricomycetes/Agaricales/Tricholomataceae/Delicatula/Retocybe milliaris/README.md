@@ -1,5 +1,4 @@
-Retocybe milliaris Velen. SPECIES
-=======
+# Retocybe milliaris Velen. SPECIES
 
 #### Status
 ACCEPTED

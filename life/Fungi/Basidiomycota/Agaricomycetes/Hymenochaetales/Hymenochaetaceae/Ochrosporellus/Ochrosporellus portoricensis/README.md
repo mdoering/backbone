@@ -1,5 +1,4 @@
-Ochrosporellus portoricensis (Overh.) Bondartseva & S. Herrera SPECIES
-=======
+# Ochrosporellus portoricensis (Overh.) Bondartseva & S. Herrera SPECIES
 
 #### Status
 ACCEPTED

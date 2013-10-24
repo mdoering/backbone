@@ -1,5 +1,4 @@
-Stigmina butyrospermi (Hansf.) M.B. Ellis SPECIES
-=======
+# Stigmina butyrospermi (Hansf.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

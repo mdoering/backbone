@@ -1,5 +1,4 @@
-Amphimonas (Dujardin) Diesing GENUS
-=======
+# Amphimonas (Dujardin) Diesing GENUS
 
 #### Status
 ACCEPTED

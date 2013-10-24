@@ -1,5 +1,4 @@
-Marasmius arborescens (Henn.) Beeli SPECIES
-=======
+# Marasmius arborescens (Henn.) Beeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphorella torulata SPECIES
-=======
+# Amphorella torulata SPECIES
 
 #### Status
 ACCEPTED

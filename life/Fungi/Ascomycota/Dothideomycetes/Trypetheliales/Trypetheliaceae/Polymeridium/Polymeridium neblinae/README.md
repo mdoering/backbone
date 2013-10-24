@@ -1,5 +1,4 @@
-Polymeridium neblinae R.C. Harris SPECIES
-=======
+# Polymeridium neblinae R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

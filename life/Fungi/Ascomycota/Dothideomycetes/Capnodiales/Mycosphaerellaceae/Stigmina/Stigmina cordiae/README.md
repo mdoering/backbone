@@ -1,5 +1,4 @@
-Stigmina cordiae J.L. Mulder SPECIES
-=======
+# Stigmina cordiae J.L. Mulder SPECIES
 
 #### Status
 ACCEPTED

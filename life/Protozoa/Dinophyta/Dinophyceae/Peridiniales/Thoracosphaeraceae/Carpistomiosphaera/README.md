@@ -1,5 +1,4 @@
-Carpistomiosphaera Nowak, 1968 GENUS
-=======
+# Carpistomiosphaera Nowak, 1968 GENUS
 
 #### Status
 ACCEPTED

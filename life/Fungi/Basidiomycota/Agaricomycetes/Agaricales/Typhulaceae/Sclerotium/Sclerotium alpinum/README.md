@@ -1,5 +1,4 @@
-Sclerotium alpinum Jaap SPECIES
-=======
+# Sclerotium alpinum Jaap SPECIES
 
 #### Status
 ACCEPTED

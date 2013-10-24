@@ -1,5 +1,4 @@
-Sebacinaceae K. Wells & Oberw. FAMILY
-=======
+# Sebacinaceae K. Wells & Oberw. FAMILY
 
 #### Status
 ACCEPTED

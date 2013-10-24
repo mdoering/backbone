@@ -1,5 +1,4 @@
-Hydrocybe quadricolor (Scop.) M.M. Moser SPECIES
-=======
+# Hydrocybe quadricolor (Scop.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria teneriffensis Vain. SPECIES
-=======
+# Pertusaria teneriffensis Vain. SPECIES
 
 #### Status
 ACCEPTED

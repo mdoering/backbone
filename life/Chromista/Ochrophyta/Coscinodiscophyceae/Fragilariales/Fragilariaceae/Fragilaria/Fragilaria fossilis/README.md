@@ -1,5 +1,4 @@
-Fragilaria fossilis (Pant.) Lange-Bertalot SPECIES
-=======
+# Fragilaria fossilis (Pant.) Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

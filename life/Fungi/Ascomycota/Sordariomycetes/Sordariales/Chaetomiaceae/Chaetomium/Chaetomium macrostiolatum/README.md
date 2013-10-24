@@ -1,17 +1,16 @@
-Chaetomium macrostiolum Stchigel, K. Rodr. & Guarro SPECIES
-=======
+# Chaetomium macrostiolatum Stchigel, K. Rodr. & Guarro, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 94(1): 121 (2002)
 
 #### Original name
-Chaetomium macrostiolum Stchigel, K. Rodr. & Guarro
+Chaetomium macrostiolatum Stchigel, K. Rodr. & Guarro, 2002
 
 ### Remarks
 null

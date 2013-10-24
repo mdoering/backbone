@@ -1,5 +1,4 @@
-Phyllosticta trifoliorum Barbarine SPECIES
-=======
+# Phyllosticta trifoliorum Barbarine SPECIES
 
 #### Status
 ACCEPTED

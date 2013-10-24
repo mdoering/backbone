@@ -1,5 +1,4 @@
-Gangliostilbe malabarica Subram. & Bhat SPECIES
-=======
+# Gangliostilbe malabarica Subram. & Bhat SPECIES
 
 #### Status
 ACCEPTED

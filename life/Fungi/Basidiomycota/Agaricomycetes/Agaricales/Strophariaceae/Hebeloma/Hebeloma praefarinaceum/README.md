@@ -1,5 +1,4 @@
-Hebeloma praefarinaceum Murrill SPECIES
-=======
+# Hebeloma praefarinaceum Murrill SPECIES
 
 #### Status
 ACCEPTED

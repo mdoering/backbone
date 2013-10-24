@@ -1,5 +1,4 @@
-Neottiospora oryzae Hara SPECIES
-=======
+# Neottiospora oryzae Hara SPECIES
 
 #### Status
 ACCEPTED

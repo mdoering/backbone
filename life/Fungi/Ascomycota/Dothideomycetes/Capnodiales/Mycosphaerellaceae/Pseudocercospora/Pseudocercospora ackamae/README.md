@@ -1,5 +1,4 @@
-Pseudocercospora ackamae U. Braun & C.F. Hill SPECIES
-=======
+# Pseudocercospora ackamae U. Braun & C.F. Hill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stemmaria aeruginosa Massee SPECIES
-=======
+# Stemmaria aeruginosa Massee SPECIES
 
 #### Status
 ACCEPTED

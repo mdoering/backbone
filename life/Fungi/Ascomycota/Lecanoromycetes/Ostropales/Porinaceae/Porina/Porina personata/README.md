@@ -1,5 +1,4 @@
-Porina personata (Kremp.) Zahlbr. SPECIES
-=======
+# Porina personata (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

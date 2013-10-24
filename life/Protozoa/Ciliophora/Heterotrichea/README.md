@@ -1,5 +1,4 @@
-Heterotrichea Stein, 1859 CLASS
-=======
+# Heterotrichea Stein, 1859 CLASS
 
 #### Status
 ACCEPTED

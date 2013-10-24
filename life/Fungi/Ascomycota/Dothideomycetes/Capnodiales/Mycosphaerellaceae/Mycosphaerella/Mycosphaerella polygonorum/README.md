@@ -1,5 +1,4 @@
-Mycosphaerella polygonorum (Crié) Dearn. & House SPECIES
-=======
+# Mycosphaerella polygonorum (Crié) Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

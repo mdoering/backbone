@@ -1,5 +1,4 @@
-Haplosporidiidae FAMILY
-=======
+# Haplosporidiidae FAMILY
 
 #### Status
 ACCEPTED

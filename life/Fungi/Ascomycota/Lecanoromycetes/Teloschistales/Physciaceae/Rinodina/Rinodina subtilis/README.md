@@ -1,5 +1,4 @@
-Rinodina subtilis Müll. Arg. SPECIES
-=======
+# Rinodina subtilis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

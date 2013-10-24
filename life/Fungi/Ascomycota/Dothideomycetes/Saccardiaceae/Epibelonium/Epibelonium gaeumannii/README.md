@@ -1,17 +1,16 @@
-Epibelonium gaeumanni E. Müll., 1963 SPECIES
-=======
+# Epibelonium gaeumannii E. Müll., 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytopath. Z. 47: 240 (1963)
 
 #### Original name
-Epibelonium gaeumanni E. Müll., 1963
+Epibelonium gaeumannii E. Müll., 1963
 
 ### Remarks
 null

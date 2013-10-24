@@ -1,5 +1,4 @@
-Macrophoma acuaria (Cooke) Berl. & Voglino SPECIES
-=======
+# Macrophoma acuaria (Cooke) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

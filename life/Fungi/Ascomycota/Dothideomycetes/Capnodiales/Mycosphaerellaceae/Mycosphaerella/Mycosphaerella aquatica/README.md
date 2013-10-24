@@ -1,5 +1,4 @@
-Mycosphaerella aquatica Udaiyan & V.S. Hosag. SPECIES
-=======
+# Mycosphaerella aquatica Udaiyan & V.S. Hosag. SPECIES
 
 #### Status
 ACCEPTED

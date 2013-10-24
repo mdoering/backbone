@@ -1,5 +1,4 @@
-Lennoxia Thomsen & Buck, 1993 GENUS
-=======
+# Lennoxia Thomsen & Buck, 1993 GENUS
 
 #### Status
 ACCEPTED

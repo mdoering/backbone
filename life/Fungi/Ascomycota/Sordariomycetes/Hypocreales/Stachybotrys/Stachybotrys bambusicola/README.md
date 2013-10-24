@@ -1,5 +1,4 @@
-Stachybotrys bambusicola Rifai SPECIES
-=======
+# Stachybotrys bambusicola Rifai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe flavifolia (A.H. Sm. & Hesler) Singer SPECIES
-=======
+# Hygrocybe flavifolia (A.H. Sm. & Hesler) Singer SPECIES
 
 #### Status
 ACCEPTED

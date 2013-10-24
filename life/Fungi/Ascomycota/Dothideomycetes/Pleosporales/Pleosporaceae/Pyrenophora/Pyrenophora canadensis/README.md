@@ -1,5 +1,4 @@
-Pyrenophora canadensis Ellis & Everh. SPECIES
-=======
+# Pyrenophora canadensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

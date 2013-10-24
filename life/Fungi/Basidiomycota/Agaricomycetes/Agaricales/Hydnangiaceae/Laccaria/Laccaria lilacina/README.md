@@ -1,5 +1,4 @@
-Laccaria lilacina G. Stev., 1964 SPECIES
-=======
+# Laccaria lilacina G. Stev., 1964 SPECIES
 
 #### Status
 ACCEPTED

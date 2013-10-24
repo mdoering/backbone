@@ -1,5 +1,4 @@
-Lutimonas Yang, Choo & Cho, 2007 GENUS
-=======
+# Lutimonas Yang, Choo & Cho, 2007 GENUS
 
 #### Status
 ACCEPTED

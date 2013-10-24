@@ -1,5 +1,4 @@
-Collema triptodes Nyl. SPECIES
-=======
+# Collema triptodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

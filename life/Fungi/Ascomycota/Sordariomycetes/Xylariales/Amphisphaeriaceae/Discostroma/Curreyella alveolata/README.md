@@ -1,5 +1,4 @@
-Curreyella alveolata Rodway SPECIES
-=======
+# Curreyella alveolata Rodway SPECIES
 
 #### Status
 ACCEPTED

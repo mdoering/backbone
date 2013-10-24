@@ -1,5 +1,4 @@
-Aspergillus otanii Takada, Y. Horie & Abliz SPECIES
-=======
+# Aspergillus otanii Takada, Y. Horie & Abliz SPECIES
 
 #### Status
 ACCEPTED

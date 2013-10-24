@@ -1,5 +1,4 @@
-Albotricha ammophilae Dennis & Spooner, 1993 SPECIES
-=======
+# Albotricha ammophilae Dennis & Spooner, 1993 SPECIES
 
 #### Status
 ACCEPTED

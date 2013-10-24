@@ -1,5 +1,4 @@
-Apiospora inserta (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Apiospora inserta (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

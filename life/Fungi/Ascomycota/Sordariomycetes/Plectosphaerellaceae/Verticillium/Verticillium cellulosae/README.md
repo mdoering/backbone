@@ -1,5 +1,4 @@
-Verticillium cellulosae Dasz. SPECIES
-=======
+# Verticillium cellulosae Dasz. SPECIES
 
 #### Status
 ACCEPTED

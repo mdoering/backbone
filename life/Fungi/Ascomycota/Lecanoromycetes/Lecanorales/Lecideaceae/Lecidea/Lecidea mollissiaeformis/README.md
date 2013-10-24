@@ -1,5 +1,4 @@
-Lecidea mollissiaeformis Vain. SPECIES
-=======
+# Lecidea mollissiaeformis Vain. SPECIES
 
 #### Status
 ACCEPTED

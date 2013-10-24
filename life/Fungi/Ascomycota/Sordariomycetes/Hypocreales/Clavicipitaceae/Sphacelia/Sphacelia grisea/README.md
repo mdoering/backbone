@@ -1,5 +1,4 @@
-Sphacelia grisea Speg. SPECIES
-=======
+# Sphacelia grisea Speg. SPECIES
 
 #### Status
 ACCEPTED

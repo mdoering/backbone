@@ -1,5 +1,4 @@
-Deinococcus radiopugnans Brooks & Murray, 1981 SPECIES
-=======
+# Deinococcus radiopugnans Brooks & Murray, 1981 SPECIES
 
 #### Status
 ACCEPTED

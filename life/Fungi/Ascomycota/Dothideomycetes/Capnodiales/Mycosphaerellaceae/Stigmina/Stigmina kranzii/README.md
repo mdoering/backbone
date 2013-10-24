@@ -1,5 +1,4 @@
-Stigmina kranzii M.B. Ellis SPECIES
-=======
+# Stigmina kranzii M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

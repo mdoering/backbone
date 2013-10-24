@@ -1,5 +1,4 @@
-Septoria menthae (Thüm.) Oudem., 1875 SPECIES
-=======
+# Septoria menthae (Thüm.) Oudem., 1875 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stakmania Kamat & Sathe GENUS
-=======
+# Stakmania Kamat & Sathe GENUS
 
 #### Status
 ACCEPTED

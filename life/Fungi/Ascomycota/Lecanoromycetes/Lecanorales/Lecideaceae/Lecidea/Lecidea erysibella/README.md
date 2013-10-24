@@ -1,5 +1,4 @@
-Lecidea erysibella Nyl. SPECIES
-=======
+# Lecidea erysibella Nyl. SPECIES
 
 #### Status
 ACCEPTED

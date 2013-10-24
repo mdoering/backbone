@@ -1,5 +1,4 @@
-Orbopercularia illustris SPECIES
-=======
+# Orbopercularia illustris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gliocladium citrinum Bat., H. Maia & A.F. Vital SPECIES
-=======
+# Gliocladium citrinum Bat., H. Maia & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

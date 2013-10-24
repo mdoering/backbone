@@ -1,5 +1,4 @@
-Penzigia enteroleuca J.H. Mill. SPECIES
-=======
+# Penzigia enteroleuca J.H. Mill. SPECIES
 
 #### Status
 ACCEPTED

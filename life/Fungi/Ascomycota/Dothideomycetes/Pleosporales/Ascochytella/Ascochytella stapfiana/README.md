@@ -1,5 +1,4 @@
-Ascochytella stapfiana Petr. SPECIES
-=======
+# Ascochytella stapfiana Petr. SPECIES
 
 #### Status
 ACCEPTED

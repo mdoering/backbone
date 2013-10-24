@@ -1,5 +1,4 @@
-Aspicilia straminella Hue SPECIES
-=======
+# Aspicilia straminella Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spirulina miniata Hauck SPECIES
-=======
+# Spirulina miniata Hauck SPECIES
 
 #### Status
 ACCEPTED

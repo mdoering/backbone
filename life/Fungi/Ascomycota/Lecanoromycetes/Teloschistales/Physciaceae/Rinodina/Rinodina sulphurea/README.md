@@ -1,5 +1,4 @@
-Rinodina sulphurea SPECIES
-=======
+# Rinodina sulphurea SPECIES
 
 #### Status
 ACCEPTED

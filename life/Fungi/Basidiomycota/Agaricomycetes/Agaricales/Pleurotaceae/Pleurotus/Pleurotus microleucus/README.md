@@ -1,5 +1,4 @@
-Pleurotus microleucus Singer SPECIES
-=======
+# Pleurotus microleucus Singer SPECIES
 
 #### Status
 ACCEPTED

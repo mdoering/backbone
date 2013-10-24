@@ -1,5 +1,4 @@
-Gloeosporium lonicerae Ellis SPECIES
-=======
+# Gloeosporium lonicerae Ellis SPECIES
 
 #### Status
 ACCEPTED

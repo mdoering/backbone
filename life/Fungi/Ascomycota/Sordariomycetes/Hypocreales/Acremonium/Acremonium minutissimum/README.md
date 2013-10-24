@@ -1,5 +1,4 @@
-Acremonium minutissimum (Roze) Sacc. SPECIES
-=======
+# Acremonium minutissimum (Roze) Sacc. SPECIES
 
 #### Status
 ACCEPTED

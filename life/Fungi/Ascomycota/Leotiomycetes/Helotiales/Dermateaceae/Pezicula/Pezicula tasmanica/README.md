@@ -1,5 +1,4 @@
-Pezicula tasmanica W.Y. Zhuang & Korf SPECIES
-=======
+# Pezicula tasmanica W.Y. Zhuang & Korf SPECIES
 
 #### Status
 ACCEPTED

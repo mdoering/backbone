@@ -1,5 +1,4 @@
-Eichleriella pulvinata Coker SPECIES
-=======
+# Eichleriella pulvinata Coker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pharcidia ahlesiana (Hepp) G. Winter SPECIES
-=======
+# Pharcidia ahlesiana (Hepp) G. Winter SPECIES
 
 #### Status
 ACCEPTED

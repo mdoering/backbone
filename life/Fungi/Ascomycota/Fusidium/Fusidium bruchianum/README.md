@@ -1,5 +1,4 @@
-Fusidium bruchianum Speg. SPECIES
-=======
+# Fusidium bruchianum Speg. SPECIES
 
 #### Status
 ACCEPTED

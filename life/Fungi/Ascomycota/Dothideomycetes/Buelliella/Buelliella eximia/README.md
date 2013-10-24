@@ -1,5 +1,4 @@
-Buelliella eximia Kalb & Hafellner SPECIES
-=======
+# Buelliella eximia Kalb & Hafellner SPECIES
 
 #### Status
 ACCEPTED

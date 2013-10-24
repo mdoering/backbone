@@ -1,5 +1,4 @@
-Lophiostoma meridionale Ellis & Everh. SPECIES
-=======
+# Lophiostoma meridionale Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

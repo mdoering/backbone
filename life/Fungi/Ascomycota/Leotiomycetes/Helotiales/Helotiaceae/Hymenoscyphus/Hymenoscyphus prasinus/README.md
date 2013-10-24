@@ -1,5 +1,4 @@
-Hymenoscyphus prasinus (Massee) Dennis SPECIES
-=======
+# Hymenoscyphus prasinus (Massee) Dennis SPECIES
 
 #### Status
 ACCEPTED

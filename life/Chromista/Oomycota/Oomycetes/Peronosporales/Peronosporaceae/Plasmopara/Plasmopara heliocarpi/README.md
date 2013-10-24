@@ -1,5 +1,4 @@
-Plasmopara heliocarpi Lagerh. SPECIES
-=======
+# Plasmopara heliocarpi Lagerh. SPECIES
 
 #### Status
 ACCEPTED

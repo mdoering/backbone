@@ -1,5 +1,4 @@
-Stereocaulon leprocephalum Vain. SPECIES
-=======
+# Stereocaulon leprocephalum Vain. SPECIES
 
 #### Status
 ACCEPTED

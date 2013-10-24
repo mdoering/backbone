@@ -1,5 +1,4 @@
-Tylopilus badiceps (Peck) A.H. Sm. & Thiers SPECIES
-=======
+# Tylopilus badiceps (Peck) A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

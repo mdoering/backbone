@@ -1,5 +1,4 @@
-Baltisphaeridium pauciverrucosum Kjellström, 1971 SPECIES
-=======
+# Baltisphaeridium pauciverrucosum Kjellström, 1971 SPECIES
 
 #### Status
 ACCEPTED

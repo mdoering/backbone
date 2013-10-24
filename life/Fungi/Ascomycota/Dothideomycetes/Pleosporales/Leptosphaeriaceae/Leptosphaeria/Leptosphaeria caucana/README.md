@@ -1,5 +1,4 @@
-Leptosphaeria caucana Petr. SPECIES
-=======
+# Leptosphaeria caucana Petr. SPECIES
 
 #### Status
 ACCEPTED

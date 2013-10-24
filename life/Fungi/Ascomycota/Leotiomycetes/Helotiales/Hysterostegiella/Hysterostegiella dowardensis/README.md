@@ -1,14 +1,13 @@
-Hysteropezizella dowardensis Graddon, 1974 SPECIES
-=======
+# Hysterostegiella dowardensis (Graddon) B. Hein, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 63(3): 483 (1974)
+Nova Hedwigia 38: 692 (1983)
 
 #### Original name
 Hysteropezizella dowardensis Graddon, 1974

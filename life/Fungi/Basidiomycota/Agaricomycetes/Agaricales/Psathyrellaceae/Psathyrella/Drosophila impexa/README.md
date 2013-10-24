@@ -1,5 +1,4 @@
-Drosophila impexa Romagn. SPECIES
-=======
+# Drosophila impexa Romagn. SPECIES
 
 #### Status
 ACCEPTED

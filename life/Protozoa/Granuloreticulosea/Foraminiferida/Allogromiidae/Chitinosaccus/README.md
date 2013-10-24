@@ -1,5 +1,4 @@
-Chitinosaccus Smitter, 1956 GENUS
-=======
+# Chitinosaccus Smitter, 1956 GENUS
 
 #### Status
 ACCEPTED

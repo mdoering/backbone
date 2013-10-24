@@ -1,17 +1,16 @@
-Poria aestivale Overh. SPECIES
-=======
+# Flaviporus americanus (Ryvarden & Gilb.) Ginns, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 21: 326 (1984)
 
 #### Original name
-Poria aestivale Overh.
+Antrodiella americana Ryvarden & Gilb., 1984
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Megasacculina rugosa Naumova, 1968 SPECIES
-=======
+# Megasacculina rugosa Naumova, 1968 SPECIES
 
 #### Status
 ACCEPTED

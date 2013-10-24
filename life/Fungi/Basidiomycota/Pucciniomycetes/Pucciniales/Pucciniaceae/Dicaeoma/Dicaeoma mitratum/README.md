@@ -1,5 +1,4 @@
-Dicaeoma mitratum (P. Syd. & Syd.) Arthur SPECIES
-=======
+# Dicaeoma mitratum (P. Syd. & Syd.) Arthur SPECIES
 
 #### Status
 ACCEPTED

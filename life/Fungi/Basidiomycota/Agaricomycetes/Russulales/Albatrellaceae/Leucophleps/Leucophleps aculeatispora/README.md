@@ -1,14 +1,13 @@
-Corditubera aculeatispora (Fogel) Malençon, 1983 SPECIES
-=======
+# Leucophleps aculeatispora Fogel, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cryptog. Mycol. 4(1): 6 (1983)
+Can. J. Bot. 57(16): 1727 (1979)
 
 #### Original name
 Leucophleps aculeatispora Fogel, 1979

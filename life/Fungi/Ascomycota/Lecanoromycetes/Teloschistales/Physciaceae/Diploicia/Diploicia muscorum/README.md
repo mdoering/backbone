@@ -1,5 +1,4 @@
-Diploicia muscorum SPECIES
-=======
+# Diploicia muscorum SPECIES
 
 #### Status
 ACCEPTED

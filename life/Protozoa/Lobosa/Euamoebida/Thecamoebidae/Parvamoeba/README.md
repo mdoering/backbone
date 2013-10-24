@@ -1,5 +1,4 @@
-Parvamoeba Rogerson, 1993 GENUS
-=======
+# Parvamoeba Rogerson, 1993 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Elsinoëaceae FAMILY
-=======
+# Elsinoaceae Höhn. ex Sacc. & Trotter FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 22: 584 (1913)
 
 #### Original name
-null
+Elsinoaceae Höhn. ex Sacc. & Trotter
 
 ### Remarks
 null

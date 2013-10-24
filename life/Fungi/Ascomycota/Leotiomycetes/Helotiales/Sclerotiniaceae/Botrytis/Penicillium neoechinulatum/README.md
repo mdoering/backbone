@@ -1,5 +1,4 @@
-Penicillium neoechinulatum (Frisvad, Filt. & Wicklow) Frisvad & Samson, 1994 SPECIES
-=======
+# Penicillium neoechinulatum (Frisvad, Filt. & Wicklow) Frisvad & Samson, 1994 SPECIES
 
 #### Status
 DOUBTFUL

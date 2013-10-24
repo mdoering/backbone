@@ -1,5 +1,4 @@
-Colletotrichum gloriosae Verpl. & Claess. SPECIES
-=======
+# Colletotrichum gloriosae Verpl. & Claess. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe paraceracea Bon SPECIES
-=======
+# Hygrocybe paraceracea Bon SPECIES
 
 #### Status
 ACCEPTED

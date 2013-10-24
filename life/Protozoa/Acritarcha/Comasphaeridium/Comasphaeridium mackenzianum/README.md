@@ -1,5 +1,4 @@
-Comasphaeridium mackenzianum Baudelot, Aitken & Vanguestaine, 1989 SPECIES
-=======
+# Comasphaeridium mackenzianum Baudelot, Aitken & Vanguestaine, 1989 SPECIES
 
 #### Status
 ACCEPTED

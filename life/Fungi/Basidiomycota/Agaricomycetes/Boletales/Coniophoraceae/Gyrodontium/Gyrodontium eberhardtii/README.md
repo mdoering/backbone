@@ -1,5 +1,4 @@
-Gyrodontium eberhardtii Pat. SPECIES
-=======
+# Gyrodontium eberhardtii Pat. SPECIES
 
 #### Status
 ACCEPTED

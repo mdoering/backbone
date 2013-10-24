@@ -1,5 +1,4 @@
-Asteridiella rondeletiifolii Bat. & Nascim. SPECIES
-=======
+# Asteridiella rondeletiifolii Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tintinnopsis chinglanensis SPECIES
-=======
+# Tintinnopsis chinglanensis SPECIES
 
 #### Status
 ACCEPTED

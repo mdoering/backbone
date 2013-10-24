@@ -1,5 +1,4 @@
-Umbilicaria taibaiensis J.C. Wei & Y.M. Jiang SPECIES
-=======
+# Umbilicaria taibaiensis J.C. Wei & Y.M. Jiang SPECIES
 
 #### Status
 ACCEPTED

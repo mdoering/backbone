@@ -1,5 +1,4 @@
-Penicillium salmonicolor Raillo SPECIES
-=======
+# Penicillium salmonicolor Raillo SPECIES
 
 #### Status
 ACCEPTED

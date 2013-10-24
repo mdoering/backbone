@@ -1,5 +1,4 @@
-Pseudodendromonas vlkii Bourrelly SPECIES
-=======
+# Pseudodendromonas vlkii Bourrelly SPECIES
 
 #### Status
 ACCEPTED

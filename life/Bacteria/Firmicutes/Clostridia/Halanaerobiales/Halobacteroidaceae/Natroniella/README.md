@@ -1,5 +1,4 @@
-Natroniella Zhilina et al., 1996 GENUS
-=======
+# Natroniella Zhilina et al., 1996 GENUS
 
 #### Status
 ACCEPTED

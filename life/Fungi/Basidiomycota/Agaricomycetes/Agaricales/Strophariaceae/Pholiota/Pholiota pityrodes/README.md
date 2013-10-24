@@ -1,5 +1,4 @@
-Pholiota pityrodes (F. Brig.) Holec SPECIES
-=======
+# Pholiota pityrodes (F. Brig.) Holec SPECIES
 
 #### Status
 ACCEPTED

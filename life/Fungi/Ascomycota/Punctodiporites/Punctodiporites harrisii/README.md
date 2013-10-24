@@ -1,5 +1,4 @@
-Punctodiporites harrisii C.P. Varma & Rawat SPECIES
-=======
+# Punctodiporites harrisii C.P. Varma & Rawat SPECIES
 
 #### Status
 ACCEPTED

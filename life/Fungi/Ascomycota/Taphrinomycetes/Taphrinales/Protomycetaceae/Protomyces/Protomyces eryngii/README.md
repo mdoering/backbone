@@ -1,5 +1,4 @@
-Protomyces eryngii Fuckel SPECIES
-=======
+# Protomyces eryngii Fuckel SPECIES
 
 #### Status
 ACCEPTED

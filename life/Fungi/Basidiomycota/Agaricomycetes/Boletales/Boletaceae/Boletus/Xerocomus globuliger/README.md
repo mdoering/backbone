@@ -1,5 +1,4 @@
-Xerocomus globuliger Singer SPECIES
-=======
+# Xerocomus globuliger Singer SPECIES
 
 #### Status
 ACCEPTED

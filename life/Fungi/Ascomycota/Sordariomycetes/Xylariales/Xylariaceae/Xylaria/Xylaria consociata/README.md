@@ -1,5 +1,4 @@
-Xylaria consociata Starbäck SPECIES
-=======
+# Xylaria consociata Starbäck SPECIES
 
 #### Status
 ACCEPTED

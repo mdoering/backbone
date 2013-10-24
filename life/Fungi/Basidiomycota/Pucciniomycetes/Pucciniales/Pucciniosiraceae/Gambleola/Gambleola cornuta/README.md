@@ -1,14 +1,13 @@
-Pucciniosira cornuta (Massee) Buriticá & J.F. Hennen, 1988 SPECIES
-=======
+# Gambleola cornuta Massee, 1898 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Ono, Adhikari & Rajbhandari, Cryptogams of the Himalayas (Tsukuba), 1. The Kathmandu Valley 117 (1988)
+Bull. Misc. Inf. , Kew (1898)
 
 #### Original name
 Gambleola cornuta Massee, 1898

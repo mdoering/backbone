@@ -1,5 +1,4 @@
-Opegrapha cavernicola Llimona & Werner SPECIES
-=======
+# Opegrapha cavernicola Llimona & Werner SPECIES
 
 #### Status
 ACCEPTED

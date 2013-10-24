@@ -1,5 +1,4 @@
-Caryostaurus Haeckel, 1881 GENUS
-=======
+# Caryostaurus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

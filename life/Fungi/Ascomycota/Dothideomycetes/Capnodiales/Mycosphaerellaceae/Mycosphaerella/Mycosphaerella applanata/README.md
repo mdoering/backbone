@@ -1,5 +1,4 @@
-Mycosphaerella applanata (Ellis & Everh.) Lind SPECIES
-=======
+# Mycosphaerella applanata (Ellis & Everh.) Lind SPECIES
 
 #### Status
 ACCEPTED

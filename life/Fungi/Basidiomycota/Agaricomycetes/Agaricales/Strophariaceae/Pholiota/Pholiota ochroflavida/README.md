@@ -1,5 +1,4 @@
-Pholiota ochroflavida (Malençon) Bon SPECIES
-=======
+# Pholiota ochroflavida (Malençon) Bon SPECIES
 
 #### Status
 ACCEPTED

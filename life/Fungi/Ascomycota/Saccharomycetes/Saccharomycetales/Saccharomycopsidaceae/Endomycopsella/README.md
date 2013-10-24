@@ -1,5 +1,4 @@
-Endomycopsella Boedijn GENUS
-=======
+# Endomycopsella Boedijn GENUS
 
 #### Status
 ACCEPTED

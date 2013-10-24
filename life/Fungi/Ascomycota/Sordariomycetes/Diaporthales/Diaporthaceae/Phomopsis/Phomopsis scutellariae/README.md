@@ -1,5 +1,4 @@
-Phomopsis scutellariae Bond.-Mont. SPECIES
-=======
+# Phomopsis scutellariae Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

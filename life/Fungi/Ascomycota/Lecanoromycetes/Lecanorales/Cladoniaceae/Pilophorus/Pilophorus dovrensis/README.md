@@ -1,5 +1,4 @@
-Pilophorus dovrensis (Nyl.) Timdal, Hertel & Rambold SPECIES
-=======
+# Pilophorus dovrensis (Nyl.) Timdal, Hertel & Rambold SPECIES
 
 #### Status
 ACCEPTED

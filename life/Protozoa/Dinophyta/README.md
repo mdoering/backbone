@@ -1,5 +1,4 @@
-Dinophyta PHYLUM
-=======
+# Dinophyta PHYLUM
 
 #### Status
 ACCEPTED

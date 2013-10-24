@@ -1,5 +1,4 @@
-Tubaria earlei Murrill SPECIES
-=======
+# Tubaria earlei Murrill SPECIES
 
 #### Status
 ACCEPTED

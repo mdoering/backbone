@@ -1,5 +1,4 @@
-Flagelloscypha australis (Singer) Agerer SPECIES
-=======
+# Flagelloscypha australis (Singer) Agerer SPECIES
 
 #### Status
 ACCEPTED

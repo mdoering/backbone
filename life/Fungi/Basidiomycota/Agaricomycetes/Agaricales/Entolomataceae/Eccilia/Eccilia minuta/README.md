@@ -1,5 +1,4 @@
-Eccilia minuta Velen. SPECIES
-=======
+# Eccilia minuta Velen. SPECIES
 
 #### Status
 ACCEPTED

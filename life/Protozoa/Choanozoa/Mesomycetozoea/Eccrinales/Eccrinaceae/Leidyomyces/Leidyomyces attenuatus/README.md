@@ -1,14 +1,13 @@
-Eccrinopsis attenuatus (Leidy) L. Léger & Duboscq SPECIES
-=======
+# Leidyomyces attenuatus (Leidy) Lichtw., M.M. White, Cafaro & J.K. Misra, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 91(4): 695 (1999)
 
 #### Original name
 Enterobryus attenuatus Leidy, 1850

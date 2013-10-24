@@ -1,5 +1,4 @@
-Spiculogloeales R. Bauer, Begerow, J.P. Samp., M. Weiss & Oberw. ORDER
-=======
+# Spiculogloeales R. Bauer, Begerow, J.P. Samp., M. Weiss & Oberw. ORDER
 
 #### Status
 ACCEPTED

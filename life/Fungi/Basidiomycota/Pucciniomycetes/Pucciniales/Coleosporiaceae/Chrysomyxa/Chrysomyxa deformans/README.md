@@ -1,5 +1,4 @@
-Chrysomyxa deformans (Dietel) Jacz. SPECIES
-=======
+# Chrysomyxa deformans (Dietel) Jacz. SPECIES
 
 #### Status
 ACCEPTED

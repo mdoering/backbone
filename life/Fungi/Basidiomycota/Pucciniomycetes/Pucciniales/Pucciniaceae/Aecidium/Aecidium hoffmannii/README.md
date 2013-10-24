@@ -1,17 +1,16 @@
-Aecidium hoffmanni P. Syd. & Syd. SPECIES
-=======
+# Aecidium hoffmannii P. Syd. & Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Uredin. (Lipsiae) 4(1): 32 (1923)
 
 #### Original name
-Aecidium hoffmanni P. Syd. & Syd.
+Aecidium hoffmannii P. Syd. & Syd.
 
 ### Remarks
 null

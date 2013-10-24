@@ -1,5 +1,4 @@
-Strasseria agapanthi Sousa da Câmara SPECIES
-=======
+# Strasseria agapanthi Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

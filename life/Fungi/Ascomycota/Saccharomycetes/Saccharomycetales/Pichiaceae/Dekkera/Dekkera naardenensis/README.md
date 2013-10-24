@@ -1,5 +1,4 @@
-Dekkera naardenensis S.C. Jong & F.L. Lee, 1986 SPECIES
-=======
+# Dekkera naardenensis S.C. Jong & F.L. Lee, 1986 SPECIES
 
 #### Status
 ACCEPTED

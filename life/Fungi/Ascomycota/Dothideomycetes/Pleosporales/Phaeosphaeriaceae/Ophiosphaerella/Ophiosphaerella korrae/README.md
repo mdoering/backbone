@@ -1,14 +1,13 @@
-Leptosphaeria korrae J. Walker & A.M. Sm. bis, 1972 SPECIES
-=======
+# Ophiosphaerella korrae (J. Walker & A.M. Sm. bis) Shoemaker & C.E. Babc., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 58(3): 461 (1972)
+Can. J. Bot. 67(5): 1591 (1989)
 
 #### Original name
 Leptosphaeria korrae J. Walker & A.M. Sm. bis, 1972

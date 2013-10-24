@@ -1,5 +1,4 @@
-Melanomma fritzii J. Schröt. SPECIES
-=======
+# Melanomma fritzii J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lithapium Haeckel, 1887 GENUS
-=======
+# Lithapium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

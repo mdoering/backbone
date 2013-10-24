@@ -1,5 +1,4 @@
-Annellolacinia dinemasporioides B. Sutton, 1964 SPECIES
-=======
+# Annellolacinia dinemasporioides B. Sutton, 1964 SPECIES
 
 #### Status
 ACCEPTED

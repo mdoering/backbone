@@ -1,5 +1,4 @@
-Cortinarius alnobetulae Kühner SPECIES
-=======
+# Cortinarius alnobetulae Kühner SPECIES
 
 #### Status
 ACCEPTED

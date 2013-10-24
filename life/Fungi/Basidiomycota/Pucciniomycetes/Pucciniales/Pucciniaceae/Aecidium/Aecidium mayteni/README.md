@@ -1,5 +1,4 @@
-Aecidium mayteni Pazschke SPECIES
-=======
+# Aecidium mayteni Pazschke SPECIES
 
 #### Status
 ACCEPTED

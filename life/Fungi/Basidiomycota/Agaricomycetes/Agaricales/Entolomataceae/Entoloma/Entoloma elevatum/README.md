@@ -1,17 +1,16 @@
-Entoloma elavatum Corner & E. Horak SPECIES
-=======
+# Entoloma elevatum Corner & E. Horak SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Horak, Beih. Nova Hedwigia 65: 285 (1980)
 
 #### Original name
-Entoloma elavatum Corner & E. Horak
+Entoloma elevatum Corner & E. Horak
 
 ### Remarks
 null

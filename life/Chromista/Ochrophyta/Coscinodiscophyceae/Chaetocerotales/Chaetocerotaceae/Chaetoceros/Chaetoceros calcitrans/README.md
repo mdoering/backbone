@@ -1,5 +1,4 @@
-Chaetoceros calcitrans f. pumilus Takano FORM
-=======
+# Chaetoceros calcitrans (Paulsen) Takano, 1968 SPECIES
 
 #### Status
 ACCEPTED

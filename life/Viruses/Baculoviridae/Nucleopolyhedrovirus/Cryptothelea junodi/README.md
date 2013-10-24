@@ -1,5 +1,4 @@
-Cryptothelea junodi Npv SPECIES
-=======
+# Cryptothelea junodi Npv SPECIES
 
 #### Status
 ACCEPTED

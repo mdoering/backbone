@@ -1,5 +1,4 @@
-Cortinarius naphthalinus Soop, 2001 SPECIES
-=======
+# Cortinarius naphthalinus Soop, 2001 SPECIES
 
 #### Status
 ACCEPTED

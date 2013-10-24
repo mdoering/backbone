@@ -1,5 +1,4 @@
-Limacinia formosensis W. Yamam. SPECIES
-=======
+# Limacinia formosensis W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

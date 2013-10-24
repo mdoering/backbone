@@ -1,5 +1,4 @@
-Vaucheria incurva T.A. Christensen SPECIES
-=======
+# Vaucheria incurva T.A. Christensen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Corticium flavissimum (Link) Bres., 1911 SPECIES
-=======
+# Sporotrichum flavissimum Link, 1816 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 27: 142 (1911)
+Magazin Ges. naturf. Freunde, Berlin 8: 34 (1816)
 
 #### Original name
 Sporotrichum flavissimum Link, 1816

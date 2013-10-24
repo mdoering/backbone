@@ -1,17 +1,16 @@
-Lecanora epanora var. epanora VARIETY
-=======
+# Lecanora epanora (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Lich. univ. (1810)
 
 #### Original name
-Lecanora epanora var. epanora
+Lichen epanorus Ach.
 
 ### Remarks
 null

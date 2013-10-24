@@ -1,5 +1,4 @@
-Pseudobasidiospora caroliniana Dyko & B. Sutton, 1978 SPECIES
-=======
+# Pseudobasidiospora caroliniana Dyko & B. Sutton, 1978 SPECIES
 
 #### Status
 ACCEPTED

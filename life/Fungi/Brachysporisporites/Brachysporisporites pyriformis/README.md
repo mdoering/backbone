@@ -1,5 +1,4 @@
-Brachysporisporites pyriformis R.T. Lange & P.H. Sm. SPECIES
-=======
+# Brachysporisporites pyriformis R.T. Lange & P.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

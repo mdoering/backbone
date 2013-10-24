@@ -1,5 +1,4 @@
-Phoma perpusilla P. Karst. SPECIES
-=======
+# Phoma perpusilla P. Karst. SPECIES
 
 #### Status
 ACCEPTED

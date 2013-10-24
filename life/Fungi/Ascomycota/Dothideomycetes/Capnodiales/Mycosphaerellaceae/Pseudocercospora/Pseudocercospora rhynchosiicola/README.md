@@ -1,5 +1,4 @@
-Pseudocercospora rhynchosiicola Bagyan., Jagad. & U. Braun SPECIES
-=======
+# Pseudocercospora rhynchosiicola Bagyan., Jagad. & U. Braun SPECIES
 
 #### Status
 ACCEPTED

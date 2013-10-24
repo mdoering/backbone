@@ -1,5 +1,4 @@
-Phormidium brevis (Kützing ex Gomont) Anagnostidis & Komárek SPECIES
-=======
+# Phormidium brevis (Kützing ex Gomont) Anagnostidis & Komárek SPECIES
 
 #### Status
 ACCEPTED

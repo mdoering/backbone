@@ -1,5 +1,4 @@
-Hypocopra pisana Bacc. SPECIES
-=======
+# Hypocopra pisana Bacc. SPECIES
 
 #### Status
 ACCEPTED

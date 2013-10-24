@@ -1,5 +1,4 @@
-Aulographonium Haeckel, 1887 GENUS
-=======
+# Aulographonium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

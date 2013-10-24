@@ -1,14 +1,13 @@
-Coprinopsis poliomallus (Romagn.) Doveri, Granito & Lunghini, 2005 SPECIES
-=======
+# Coprinus poliomallus Romagn., 1945 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Riv. Micol. 48(4): 338 (2005)
+Revue Mycol. , Paris 10: 89 (1945)
 
 #### Original name
 Coprinus poliomallus Romagn., 1945

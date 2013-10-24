@@ -1,5 +1,4 @@
-Peridermium rostrupi E. Fisch. SPECIES
-=======
+# Peridermium rostrupi E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

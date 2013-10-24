@@ -1,5 +1,4 @@
-Marasmius stenophyllus Mont. SPECIES
-=======
+# Marasmius stenophyllus Mont. SPECIES
 
 #### Status
 ACCEPTED

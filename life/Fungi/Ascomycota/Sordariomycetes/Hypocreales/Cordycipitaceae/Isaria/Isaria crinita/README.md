@@ -1,5 +1,4 @@
-Isaria crinita Lloyd SPECIES
-=======
+# Isaria crinita Lloyd SPECIES
 
 #### Status
 ACCEPTED

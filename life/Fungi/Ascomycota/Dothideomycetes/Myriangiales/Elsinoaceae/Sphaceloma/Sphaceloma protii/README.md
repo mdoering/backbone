@@ -1,5 +1,4 @@
-Sphaceloma protii Bat. & J.L. Bezerra SPECIES
-=======
+# Sphaceloma protii Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

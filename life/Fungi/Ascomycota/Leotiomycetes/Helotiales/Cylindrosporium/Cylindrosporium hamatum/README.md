@@ -1,5 +1,4 @@
-Cylindrosporium hamatum Bres. SPECIES
-=======
+# Cylindrosporium hamatum Bres. SPECIES
 
 #### Status
 ACCEPTED

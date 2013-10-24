@@ -1,5 +1,4 @@
-Aspicilia papillata (Arnold) Motyka SPECIES
-=======
+# Aspicilia papillata (Arnold) Motyka SPECIES
 
 #### Status
 ACCEPTED

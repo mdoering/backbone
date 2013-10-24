@@ -1,5 +1,4 @@
-Prorodon farctus SPECIES
-=======
+# Prorodon farctus SPECIES
 
 #### Status
 ACCEPTED

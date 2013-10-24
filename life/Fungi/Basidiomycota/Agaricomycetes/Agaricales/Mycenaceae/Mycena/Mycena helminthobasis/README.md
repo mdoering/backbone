@@ -1,17 +1,16 @@
-Mycena helminthobasis var. helminthobasis Singer VARIETY
-=======
+# Mycena helminthobasis Singer, 1969 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Beih. Nova Hedwigia 29: 137 (1969)
 
 #### Original name
-Mycena helminthobasis var. helminthobasis Singer
+Mycena helminthobasis Singer, 1969
 
 ### Remarks
 null

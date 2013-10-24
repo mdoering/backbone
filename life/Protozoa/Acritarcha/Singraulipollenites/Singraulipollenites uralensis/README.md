@@ -1,5 +1,4 @@
-Singraulipollenites uralensis Dyupina, 1975 SPECIES
-=======
+# Singraulipollenites uralensis Dyupina, 1975 SPECIES
 
 #### Status
 ACCEPTED

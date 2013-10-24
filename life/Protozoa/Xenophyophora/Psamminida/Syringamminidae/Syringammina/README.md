@@ -1,5 +1,4 @@
-Syringammina Brady, 1883 GENUS
-=======
+# Syringammina Brady, 1883 GENUS
 
 #### Status
 ACCEPTED

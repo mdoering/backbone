@@ -1,5 +1,4 @@
-Coprinus populicola Mornand SPECIES
-=======
+# Coprinus populicola Mornand SPECIES
 
 #### Status
 ACCEPTED

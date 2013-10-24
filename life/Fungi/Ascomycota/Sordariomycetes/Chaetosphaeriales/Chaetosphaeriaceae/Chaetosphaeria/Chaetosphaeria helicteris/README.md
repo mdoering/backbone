@@ -1,17 +1,16 @@
-Chaetosphaeria helicteridis R. Rao SPECIES
-=======
+# Chaetosphaeria helicteris R. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 24(1-6): 323 (1971)
 
 #### Original name
-Chaetosphaeria helicteridis R. Rao
+Chaetosphaeria helicteris R. Rao
 
 ### Remarks
 null

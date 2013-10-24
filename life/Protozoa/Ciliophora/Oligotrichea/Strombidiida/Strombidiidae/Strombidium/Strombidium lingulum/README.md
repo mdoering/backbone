@@ -1,5 +1,4 @@
-Strombidium lingulum Montagnes & Humphrey, 1998 SPECIES
-=======
+# Strombidium lingulum Montagnes & Humphrey, 1998 SPECIES
 
 #### Status
 ACCEPTED

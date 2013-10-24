@@ -1,5 +1,4 @@
-Futyania O. Varol, 1989 GENUS
-=======
+# Futyania O. Varol, 1989 GENUS
 
 #### Status
 ACCEPTED

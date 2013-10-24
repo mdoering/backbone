@@ -1,5 +1,4 @@
-Cercospora maianthemi Fuckel, 1866 SPECIES
-=======
+# Cercospora maianthemi Fuckel, 1866 SPECIES
 
 #### Status
 ACCEPTED

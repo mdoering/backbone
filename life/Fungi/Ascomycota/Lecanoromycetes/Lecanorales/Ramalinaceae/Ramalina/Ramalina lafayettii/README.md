@@ -1,5 +1,4 @@
-Ramalina lafayettii Bory SPECIES
-=======
+# Ramalina lafayettii Bory SPECIES
 
 #### Status
 ACCEPTED

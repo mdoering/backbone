@@ -1,5 +1,4 @@
-Catillaria rimosa (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Catillaria rimosa (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

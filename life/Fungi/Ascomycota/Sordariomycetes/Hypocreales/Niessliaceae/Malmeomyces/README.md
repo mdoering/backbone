@@ -1,5 +1,4 @@
-Malmeomyces Starbäck GENUS
-=======
+# Malmeomyces Starbäck GENUS
 
 #### Status
 ACCEPTED

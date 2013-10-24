@@ -1,5 +1,4 @@
-Scytonema rhizophorae Zeller SPECIES
-=======
+# Scytonema rhizophorae Zeller SPECIES
 
 #### Status
 ACCEPTED

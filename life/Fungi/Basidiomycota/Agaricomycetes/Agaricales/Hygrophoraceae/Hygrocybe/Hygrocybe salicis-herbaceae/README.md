@@ -1,5 +1,4 @@
-Hygrocybe salicis-herbaceae Kühner, 1976 SPECIES
-=======
+# Hygrocybe salicis-herbaceae Kühner, 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiobolus spirosporus S. Ahmad SPECIES
-=======
+# Ophiobolus spirosporus S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

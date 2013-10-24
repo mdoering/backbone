@@ -1,5 +1,4 @@
-Phaeoacremonium amstelodamense L. Mostert, Summerb. & Crous SPECIES
-=======
+# Phaeoacremonium amstelodamense L. Mostert, Summerb. & Crous SPECIES
 
 #### Status
 ACCEPTED

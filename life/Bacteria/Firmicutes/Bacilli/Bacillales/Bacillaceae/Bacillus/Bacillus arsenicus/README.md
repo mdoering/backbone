@@ -1,5 +1,4 @@
-Bacillus arsenicus Shivaji et al., 2005 SPECIES
-=======
+# Bacillus arsenicus Shivaji et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

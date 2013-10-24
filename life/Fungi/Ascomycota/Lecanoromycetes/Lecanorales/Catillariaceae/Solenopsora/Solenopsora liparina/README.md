@@ -1,14 +1,13 @@
-Ricasolia liparina (Nyl.) Flagey SPECIES
-=======
+# Solenopsora liparina (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Öst. bot. Z. 68: 304 (1919)
 
 #### Original name
 Lecanora liparina Nyl.

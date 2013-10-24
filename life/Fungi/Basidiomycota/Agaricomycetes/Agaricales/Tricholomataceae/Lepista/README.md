@@ -1,5 +1,4 @@
-Lepista (E.M. Fries) W.G. Smith, 1870 GENUS
-=======
+# Lepista (E.M. Fries) W.G. Smith, 1870 GENUS
 
 #### Status
 ACCEPTED

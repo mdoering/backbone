@@ -1,5 +1,4 @@
-Tuburcinia penniseti Mishra SPECIES
-=======
+# Tuburcinia penniseti Mishra SPECIES
 
 #### Status
 ACCEPTED

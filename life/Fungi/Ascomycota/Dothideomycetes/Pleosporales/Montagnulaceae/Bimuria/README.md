@@ -1,5 +1,4 @@
-Bimuria D. Hawksworth, Chea & Sheridan, 1979 GENUS
-=======
+# Bimuria D. Hawksworth, Chea & Sheridan, 1979 GENUS
 
 #### Status
 ACCEPTED

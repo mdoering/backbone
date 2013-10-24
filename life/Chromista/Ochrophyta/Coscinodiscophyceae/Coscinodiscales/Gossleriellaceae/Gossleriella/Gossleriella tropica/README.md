@@ -1,5 +1,4 @@
-Gossleriella tropica Schutt SPECIES
-=======
+# Gossleriella tropica Schutt SPECIES
 
 #### Status
 ACCEPTED

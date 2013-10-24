@@ -1,5 +1,4 @@
-Teichospora livida P. Karst. SPECIES
-=======
+# Teichospora livida P. Karst. SPECIES
 
 #### Status
 ACCEPTED

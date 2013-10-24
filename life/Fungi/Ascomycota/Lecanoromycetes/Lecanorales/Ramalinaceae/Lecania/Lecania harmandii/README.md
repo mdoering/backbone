@@ -1,5 +1,4 @@
-Lecania harmandii (Hue) Zahlbr. SPECIES
-=======
+# Lecania harmandii (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

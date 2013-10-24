@@ -1,5 +1,4 @@
-Pyrenopeziza glabrata Sacc. SPECIES
-=======
+# Pyrenopeziza glabrata Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramalina chilensis Bertero ex Nyl. SPECIES
-=======
+# Ramalina chilensis Bertero ex Nyl. SPECIES
 
 #### Status
 ACCEPTED

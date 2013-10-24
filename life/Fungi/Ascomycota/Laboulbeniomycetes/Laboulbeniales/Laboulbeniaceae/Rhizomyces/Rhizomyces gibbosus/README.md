@@ -1,5 +1,4 @@
-Rhizomyces gibbosus Thaxt., 1901 SPECIES
-=======
+# Rhizomyces gibbosus Thaxt., 1901 SPECIES
 
 #### Status
 ACCEPTED

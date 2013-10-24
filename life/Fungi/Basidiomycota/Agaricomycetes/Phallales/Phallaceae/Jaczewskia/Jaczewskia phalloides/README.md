@@ -1,5 +1,4 @@
-Jaczewskia phalloides Mattir. SPECIES
-=======
+# Jaczewskia phalloides Mattir. SPECIES
 
 #### Status
 ACCEPTED

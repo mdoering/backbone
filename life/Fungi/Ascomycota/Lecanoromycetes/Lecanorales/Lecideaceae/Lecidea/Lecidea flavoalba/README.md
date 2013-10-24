@@ -1,5 +1,4 @@
-Lecidea flavoalba Nyl. SPECIES
-=======
+# Lecidea flavoalba Nyl. SPECIES
 
 #### Status
 ACCEPTED

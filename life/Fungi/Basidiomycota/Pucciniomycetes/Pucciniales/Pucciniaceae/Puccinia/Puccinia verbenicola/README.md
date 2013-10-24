@@ -1,5 +1,4 @@
-Puccinia verbenicola Arthur SPECIES
-=======
+# Puccinia verbenicola Arthur SPECIES
 
 #### Status
 ACCEPTED

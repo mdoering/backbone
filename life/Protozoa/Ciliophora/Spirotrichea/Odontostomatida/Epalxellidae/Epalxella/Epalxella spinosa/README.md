@@ -1,5 +1,4 @@
-Epalxella spinosa SPECIES
-=======
+# Epalxella spinosa SPECIES
 
 #### Status
 ACCEPTED

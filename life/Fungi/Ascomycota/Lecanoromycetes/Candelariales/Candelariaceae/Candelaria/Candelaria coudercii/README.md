@@ -1,5 +1,4 @@
-Candelaria coudercii Harm. SPECIES
-=======
+# Candelaria coudercii Harm. SPECIES
 
 #### Status
 ACCEPTED

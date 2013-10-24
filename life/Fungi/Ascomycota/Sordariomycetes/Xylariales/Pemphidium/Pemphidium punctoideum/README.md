@@ -1,5 +1,4 @@
-Pemphidium punctoideum P. Karst. SPECIES
-=======
+# Pemphidium punctoideum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

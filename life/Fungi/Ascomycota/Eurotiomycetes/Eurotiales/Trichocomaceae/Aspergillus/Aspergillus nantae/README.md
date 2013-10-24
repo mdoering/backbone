@@ -1,5 +1,4 @@
-Aspergillus nantae Pinoy SPECIES
-=======
+# Aspergillus nantae Pinoy SPECIES
 
 #### Status
 ACCEPTED

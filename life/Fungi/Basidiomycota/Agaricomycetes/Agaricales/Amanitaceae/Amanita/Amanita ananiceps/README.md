@@ -1,5 +1,4 @@
-Amanita ananiceps (Berk.) Sacc. SPECIES
-=======
+# Amanita ananiceps (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

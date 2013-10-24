@@ -1,17 +1,16 @@
-Lepidoleptogium montagnei A. L. Sm. SPECIES
-=======
+# Pannaria immixta Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 9: 249 (1867)
 
 #### Original name
-null
+Pannaria immixta Nyl.
 
 ### Remarks
 null

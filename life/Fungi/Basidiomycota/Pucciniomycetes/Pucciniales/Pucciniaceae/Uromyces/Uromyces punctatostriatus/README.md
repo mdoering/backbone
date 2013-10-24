@@ -1,5 +1,4 @@
-Uromyces punctatostriatus Cooke & Harkn. SPECIES
-=======
+# Uromyces punctatostriatus Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

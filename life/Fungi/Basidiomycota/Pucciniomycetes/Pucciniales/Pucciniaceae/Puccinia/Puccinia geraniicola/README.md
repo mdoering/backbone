@@ -1,5 +1,4 @@
-Puccinia geraniicola Speg. SPECIES
-=======
+# Puccinia geraniicola Speg. SPECIES
 
 #### Status
 ACCEPTED

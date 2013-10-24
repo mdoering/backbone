@@ -1,5 +1,4 @@
-Sphaerella clypeata Sousa da Câmara & A.T. Vasconc. SPECIES
-=======
+# Sphaerella clypeata Sousa da Câmara & A.T. Vasconc. SPECIES
 
 #### Status
 ACCEPTED

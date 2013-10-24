@@ -1,5 +1,4 @@
-Lycoperdon nainitalense K.S. Thind & I.P.S. Thind SPECIES
-=======
+# Lycoperdon nainitalense K.S. Thind & I.P.S. Thind SPECIES
 
 #### Status
 ACCEPTED

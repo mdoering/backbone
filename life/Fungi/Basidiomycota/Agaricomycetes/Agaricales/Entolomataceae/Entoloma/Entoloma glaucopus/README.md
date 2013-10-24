@@ -1,5 +1,4 @@
-Entoloma glaucopus E. Horak SPECIES
-=======
+# Entoloma glaucopus E. Horak SPECIES
 
 #### Status
 ACCEPTED

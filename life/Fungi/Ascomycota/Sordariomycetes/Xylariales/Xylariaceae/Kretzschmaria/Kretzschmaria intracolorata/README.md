@@ -1,5 +1,4 @@
-Kretzschmaria intracolorata J.D. Rogers, Callan & Samuels SPECIES
-=======
+# Kretzschmaria intracolorata J.D. Rogers, Callan & Samuels SPECIES
 
 #### Status
 ACCEPTED

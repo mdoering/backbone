@@ -1,5 +1,4 @@
-Arthonia nudata Chevall. SPECIES
-=======
+# Arthonia nudata Chevall. SPECIES
 
 #### Status
 ACCEPTED

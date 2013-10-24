@@ -1,5 +1,4 @@
-Diporicellaesporites belluloides Z.C. Song SPECIES
-=======
+# Diporicellaesporites belluloides Z.C. Song SPECIES
 
 #### Status
 ACCEPTED

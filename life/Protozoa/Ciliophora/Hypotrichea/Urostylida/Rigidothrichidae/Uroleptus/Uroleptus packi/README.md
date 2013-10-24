@@ -1,5 +1,4 @@
-Uroleptus packi Calkins, 1919 SPECIES
-=======
+# Uroleptus packi Calkins, 1919 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyochaeta variabilis Kuthub. & Nawawi SPECIES
-=======
+# Dictyochaeta variabilis Kuthub. & Nawawi SPECIES
 
 #### Status
 ACCEPTED

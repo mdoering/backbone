@@ -1,5 +1,4 @@
-Melampsora euphorbiae-geniculatae F. Kern & Thurst. SPECIES
-=======
+# Melampsora euphorbiae-geniculatae F. Kern & Thurst. SPECIES
 
 #### Status
 ACCEPTED

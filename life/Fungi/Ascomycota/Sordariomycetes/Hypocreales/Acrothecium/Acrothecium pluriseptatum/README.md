@@ -1,5 +1,4 @@
-Acrothecium pluriseptatum (Preuss) Sacc. SPECIES
-=======
+# Acrothecium pluriseptatum (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

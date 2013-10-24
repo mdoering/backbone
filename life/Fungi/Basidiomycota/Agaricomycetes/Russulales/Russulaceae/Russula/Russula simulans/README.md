@@ -1,5 +1,4 @@
-Russula simulans Burl. SPECIES
-=======
+# Russula simulans Burl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria glaucis Syd., 1921 SPECIES
-=======
+# Septoria glaucis Syd., 1921 SPECIES
 
 #### Status
 ACCEPTED

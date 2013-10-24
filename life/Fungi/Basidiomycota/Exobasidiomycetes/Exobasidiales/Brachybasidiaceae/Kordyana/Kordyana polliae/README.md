@@ -1,5 +1,4 @@
-Kordyana polliae var. polliae VARIETY
-=======
+# Kordyana polliae Gäum. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 20: 261 (1922)
 
 #### Original name
-Kordyana polliae var. polliae
+Kordyana polliae Gäum.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Didymosphaeria inconspicua Rehm SPECIES
-=======
+# Didymosphaeria inconspicua Rehm SPECIES
 
 #### Status
 ACCEPTED

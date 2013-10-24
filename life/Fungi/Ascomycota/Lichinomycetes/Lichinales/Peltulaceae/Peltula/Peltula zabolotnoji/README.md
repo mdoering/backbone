@@ -1,5 +1,4 @@
-Peltula zabolotnoji (Elenkin) N.S. Golubk. SPECIES
-=======
+# Peltula zabolotnoji (Elenkin) N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

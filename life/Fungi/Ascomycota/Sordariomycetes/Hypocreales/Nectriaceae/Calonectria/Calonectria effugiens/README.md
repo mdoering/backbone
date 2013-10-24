@@ -1,5 +1,4 @@
-Calonectria effugiens Penz. & Sacc. SPECIES
-=======
+# Calonectria effugiens Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

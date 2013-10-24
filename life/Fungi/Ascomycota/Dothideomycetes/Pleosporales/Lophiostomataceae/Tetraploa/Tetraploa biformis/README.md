@@ -1,5 +1,4 @@
-Tetraploa biformis K. Matsush. & Matsush. SPECIES
-=======
+# Tetraploa biformis K. Matsush. & Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Resinomycena montana Redhead & Singer, 1981 SPECIES
-=======
+# Resinomycena montana Redhead & Singer, 1981 SPECIES
 
 #### Status
 ACCEPTED

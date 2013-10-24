@@ -1,5 +1,4 @@
-Zygodiscus clubhousensis J.G. Hattner & S.W. Wise SPECIES
-=======
+# Zygodiscus clubhousensis J.G. Hattner & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

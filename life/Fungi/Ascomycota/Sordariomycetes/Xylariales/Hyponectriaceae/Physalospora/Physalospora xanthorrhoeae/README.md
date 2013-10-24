@@ -1,5 +1,4 @@
-Physalospora xanthorrhoeae Hansf. SPECIES
-=======
+# Physalospora xanthorrhoeae Hansf. SPECIES
 
 #### Status
 ACCEPTED

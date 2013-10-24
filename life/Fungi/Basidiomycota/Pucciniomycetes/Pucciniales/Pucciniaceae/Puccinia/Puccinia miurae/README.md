@@ -1,5 +1,4 @@
-Puccinia miurae Syd. & P. Syd. SPECIES
-=======
+# Puccinia miurae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

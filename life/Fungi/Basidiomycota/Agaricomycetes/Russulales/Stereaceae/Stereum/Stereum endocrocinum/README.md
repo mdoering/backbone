@@ -1,5 +1,4 @@
-Stereum endocrocinum Berk. SPECIES
-=======
+# Stereum endocrocinum Berk. SPECIES
 
 #### Status
 ACCEPTED

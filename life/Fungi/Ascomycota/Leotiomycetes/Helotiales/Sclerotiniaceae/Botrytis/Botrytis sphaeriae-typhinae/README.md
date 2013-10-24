@@ -1,5 +1,4 @@
-Botrytis sphaeriae-typhinae (Corda) Sacc. SPECIES
-=======
+# Botrytis sphaeriae-typhinae (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

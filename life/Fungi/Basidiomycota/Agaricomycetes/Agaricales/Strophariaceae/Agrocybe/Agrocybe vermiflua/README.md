@@ -1,5 +1,4 @@
-Agrocybe vermiflua (Peck) Watling SPECIES
-=======
+# Agrocybe vermiflua (Peck) Watling SPECIES
 
 #### Status
 ACCEPTED

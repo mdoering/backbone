@@ -1,5 +1,4 @@
-Sporidesmium tumulosum Sacc. SPECIES
-=======
+# Sporidesmium tumulosum Sacc. SPECIES
 
 #### Status
 ACCEPTED

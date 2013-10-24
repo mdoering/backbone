@@ -1,5 +1,4 @@
-Tricholoma militare (Lasch) Gillet SPECIES
-=======
+# Tricholoma militare (Lasch) Gillet SPECIES
 
 #### Status
 ACCEPTED

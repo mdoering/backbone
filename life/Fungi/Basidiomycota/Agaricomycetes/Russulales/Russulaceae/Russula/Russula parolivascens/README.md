@@ -1,5 +1,4 @@
-Russula parolivascens Bidaud & Moënne-Locc. SPECIES
-=======
+# Russula parolivascens Bidaud & Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

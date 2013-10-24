@@ -1,5 +1,4 @@
-Mycobacterium flavescens Bojalil et al., 1962 (Approved Lists, 1980) SPECIES
-=======
+# Mycobacterium flavescens Bojalil et al., 1962 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

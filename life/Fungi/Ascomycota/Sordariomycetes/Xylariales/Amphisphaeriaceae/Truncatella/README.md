@@ -1,17 +1,16 @@
-Ahmadinula Petr. GENUS
-=======
+# Truncatella Steyaert, 1949 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 7: 375 (1953)
+Bull. Jard. Bot. État 19: 293 (1949)
 
 #### Original name
-Ahmadinula Petr.
+Truncatella Steyaert, 1949
 
 ### Remarks
 null

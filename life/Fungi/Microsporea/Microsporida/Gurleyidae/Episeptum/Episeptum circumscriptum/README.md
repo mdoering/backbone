@@ -1,5 +1,4 @@
-Episeptum circumscriptum J.I.R. Larsson SPECIES
-=======
+# Episeptum circumscriptum J.I.R. Larsson SPECIES
 
 #### Status
 ACCEPTED

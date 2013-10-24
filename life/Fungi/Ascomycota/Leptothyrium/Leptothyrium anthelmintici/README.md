@@ -1,5 +1,4 @@
-Leptothyrium anthelmintici Tehon SPECIES
-=======
+# Leptothyrium anthelmintici Tehon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora fumosa Speg. SPECIES
-=======
+# Cercospora fumosa Speg. SPECIES
 
 #### Status
 ACCEPTED

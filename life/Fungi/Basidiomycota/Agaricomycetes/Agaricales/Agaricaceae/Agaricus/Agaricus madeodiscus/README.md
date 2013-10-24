@@ -1,5 +1,4 @@
-Agaricus madeodiscus Peck SPECIES
-=======
+# Agaricus madeodiscus Peck SPECIES
 
 #### Status
 ACCEPTED

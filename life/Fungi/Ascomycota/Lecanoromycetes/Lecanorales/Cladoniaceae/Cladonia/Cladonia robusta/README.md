@@ -1,5 +1,4 @@
-Cladonia robusta Ahti SPECIES
-=======
+# Cladonia robusta Ahti SPECIES
 
 #### Status
 ACCEPTED

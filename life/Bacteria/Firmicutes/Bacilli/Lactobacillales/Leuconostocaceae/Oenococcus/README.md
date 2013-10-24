@@ -1,5 +1,4 @@
-Oenococcus Dicks et al., 1995 GENUS
-=======
+# Oenococcus Dicks et al., 1995 GENUS
 
 #### Status
 ACCEPTED

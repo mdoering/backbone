@@ -1,11 +1,10 @@
-Palmerinella palmerae var. diminuta Saunders, 1957 VARIETY
-=======
+# Palmerinella palmerae Bermúdez, 1934 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

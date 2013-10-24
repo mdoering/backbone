@@ -1,5 +1,4 @@
-Sclerotium strobilinum J.C. Schmidt SPECIES
-=======
+# Sclerotium strobilinum J.C. Schmidt SPECIES
 
 #### Status
 ACCEPTED

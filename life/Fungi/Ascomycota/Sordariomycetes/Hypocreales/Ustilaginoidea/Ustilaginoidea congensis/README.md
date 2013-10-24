@@ -1,5 +1,4 @@
-Ustilaginoidea congensis Henn. SPECIES
-=======
+# Ustilaginoidea congensis Henn. SPECIES
 
 #### Status
 ACCEPTED

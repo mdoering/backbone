@@ -1,5 +1,4 @@
-Oscillatoria gracilis M. T. P. Azevedo & C. L. Sant'Anna SPECIES
-=======
+# Oscillatoria gracilis M. T. P. Azevedo & C. L. Sant'Anna SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Craterellus dilatatus Burt SPECIES
-=======
+# Craterellus dilatatus Burt SPECIES
 
 #### Status
 ACCEPTED

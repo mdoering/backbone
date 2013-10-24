@@ -1,5 +1,4 @@
-Aspergillus tsurutae Y. Horie SPECIES
-=======
+# Aspergillus tsurutae Y. Horie SPECIES
 
 #### Status
 ACCEPTED

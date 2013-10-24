@@ -1,5 +1,4 @@
-Passalora ilicis Y.L. Guo SPECIES
-=======
+# Passalora ilicis Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eutypa murrayae A.K. Kar & Maity SPECIES
-=======
+# Eutypa murrayae A.K. Kar & Maity SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepraria zeorinica (L. Saag) Kukwa SPECIES
-=======
+# Lepraria zeorinica (L. Saag) Kukwa SPECIES
 
 #### Status
 ACCEPTED

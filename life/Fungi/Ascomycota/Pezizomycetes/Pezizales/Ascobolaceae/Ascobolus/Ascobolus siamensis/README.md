@@ -1,5 +1,4 @@
-Ascobolus siamensis Brumm. SPECIES
-=======
+# Ascobolus siamensis Brumm. SPECIES
 
 #### Status
 ACCEPTED

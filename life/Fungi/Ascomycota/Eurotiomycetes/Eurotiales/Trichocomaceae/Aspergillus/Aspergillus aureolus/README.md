@@ -1,5 +1,4 @@
-Aspergillus aureolus Fennell & Raper, 1955 SPECIES
-=======
+# Aspergillus aureolus Fennell & Raper, 1955 SPECIES
 
 #### Status
 ACCEPTED

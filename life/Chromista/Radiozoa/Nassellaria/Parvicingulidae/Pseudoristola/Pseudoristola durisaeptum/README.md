@@ -1,5 +1,4 @@
-Pseudoristola durisaeptum SPECIES
-=======
+# Pseudoristola durisaeptum SPECIES
 
 #### Status
 ACCEPTED

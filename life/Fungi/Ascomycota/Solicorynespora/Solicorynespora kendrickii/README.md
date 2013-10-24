@@ -1,5 +1,4 @@
-Solicorynespora kendrickii R.F. Castañeda, 1996 SPECIES
-=======
+# Solicorynespora kendrickii R.F. Castañeda, 1996 SPECIES
 
 #### Status
 ACCEPTED

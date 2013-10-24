@@ -1,5 +1,4 @@
-Dischloridium regenerans Bhat & W.B. Kendr. SPECIES
-=======
+# Dischloridium regenerans Bhat & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

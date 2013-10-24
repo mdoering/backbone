@@ -1,5 +1,4 @@
-Usnea strigosella var. strigosella VARIETY
-=======
+# Usnea strigosella J. Steiner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Herb. Boissier 7: 637 (1907)
 
 #### Original name
-Usnea strigosella var. strigosella
+Usnea strigosella J. Steiner
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Acarospora solitaria H. Magn. SPECIES
-=======
+# Acarospora solitaria H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius isabellinus (Batsch) Fr. SPECIES
-=======
+# Cortinarius isabellinus (Batsch) Fr. SPECIES
 
 #### Status
 ACCEPTED

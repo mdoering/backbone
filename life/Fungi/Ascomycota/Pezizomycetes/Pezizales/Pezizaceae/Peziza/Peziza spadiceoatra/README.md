@@ -1,5 +1,4 @@
-Peziza spadiceoatra Mont. SPECIES
-=======
+# Peziza spadiceoatra Mont. SPECIES
 
 #### Status
 ACCEPTED

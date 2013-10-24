@@ -1,5 +1,4 @@
-Lentinus melanophyllus Lév. SPECIES
-=======
+# Lentinus melanophyllus Lév. SPECIES
 
 #### Status
 ACCEPTED

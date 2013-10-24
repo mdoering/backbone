@@ -1,5 +1,4 @@
-Patellaria tenella (Kullh.) Nyl. SPECIES
-=======
+# Patellaria tenella (Kullh.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spirillum anodontae SPECIES
-=======
+# Spirillum anodontae SPECIES
 
 #### Status
 ACCEPTED

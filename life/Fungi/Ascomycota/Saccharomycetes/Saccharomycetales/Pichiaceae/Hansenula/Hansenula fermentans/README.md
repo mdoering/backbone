@@ -1,5 +1,4 @@
-Hansenula fermentans Verona & Valleggi SPECIES
-=======
+# Hansenula fermentans Verona & Valleggi SPECIES
 
 #### Status
 ACCEPTED

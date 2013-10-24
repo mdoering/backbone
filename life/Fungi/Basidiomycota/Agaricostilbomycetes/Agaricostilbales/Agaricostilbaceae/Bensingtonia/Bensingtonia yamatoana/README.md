@@ -1,5 +1,4 @@
-Bensingtonia yamatoana (Nakase, M. Suzuki & Itoh) Nakase & Boekhout SPECIES
-=======
+# Bensingtonia yamatoana (Nakase, M. Suzuki & Itoh) Nakase & Boekhout SPECIES
 
 #### Status
 ACCEPTED

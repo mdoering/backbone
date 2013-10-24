@@ -1,5 +1,4 @@
-Polycoccum montis-wilhelmii Diederich SPECIES
-=======
+# Polycoccum montis-wilhelmii Diederich SPECIES
 
 #### Status
 ACCEPTED

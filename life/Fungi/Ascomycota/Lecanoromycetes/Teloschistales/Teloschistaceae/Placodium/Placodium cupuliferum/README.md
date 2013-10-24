@@ -1,5 +1,4 @@
-Placodium cupuliferum Vain. SPECIES
-=======
+# Placodium cupuliferum Vain. SPECIES
 
 #### Status
 ACCEPTED

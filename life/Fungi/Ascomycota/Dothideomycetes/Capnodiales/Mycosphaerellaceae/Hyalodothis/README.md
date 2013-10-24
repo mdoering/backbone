@@ -1,5 +1,4 @@
-Hyalodothis GENUS
-=======
+# Hyalodothis GENUS
 
 #### Status
 ACCEPTED

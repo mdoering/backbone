@@ -1,5 +1,4 @@
-Lusatia dramatica Ribecai & Tongiorgi, 1997 SPECIES
-=======
+# Lusatia dramatica Ribecai & Tongiorgi, 1997 SPECIES
 
 #### Status
 ACCEPTED

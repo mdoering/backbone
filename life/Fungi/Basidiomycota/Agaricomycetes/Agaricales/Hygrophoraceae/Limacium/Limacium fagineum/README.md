@@ -1,5 +1,4 @@
-Limacium fagineum Velen. SPECIES
-=======
+# Limacium fagineum Velen. SPECIES
 
 #### Status
 ACCEPTED

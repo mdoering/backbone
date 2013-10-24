@@ -1,5 +1,4 @@
-Phyllosticta portulacae Sacc. & Speg. SPECIES
-=======
+# Phyllosticta portulacae Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

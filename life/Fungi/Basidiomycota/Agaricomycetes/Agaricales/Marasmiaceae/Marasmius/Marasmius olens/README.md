@@ -1,5 +1,4 @@
-Marasmius olens Velen. SPECIES
-=======
+# Marasmius olens Velen. SPECIES
 
 #### Status
 ACCEPTED

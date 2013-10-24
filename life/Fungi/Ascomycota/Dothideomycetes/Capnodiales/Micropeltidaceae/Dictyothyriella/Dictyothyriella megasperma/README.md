@@ -1,5 +1,4 @@
-Dictyothyriella megasperma (Syd.) F. Stevens & Manter SPECIES
-=======
+# Dictyothyriella megasperma (Syd.) F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

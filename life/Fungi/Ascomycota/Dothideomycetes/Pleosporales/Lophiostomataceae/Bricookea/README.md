@@ -1,5 +1,4 @@
-Bricookea M.E. Barr GENUS
-=======
+# Bricookea M.E. Barr GENUS
 
 #### Status
 ACCEPTED

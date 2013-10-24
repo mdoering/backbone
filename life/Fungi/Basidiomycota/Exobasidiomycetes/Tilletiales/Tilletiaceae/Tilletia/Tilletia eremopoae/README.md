@@ -1,5 +1,4 @@
-Tilletia eremopoae Vánky & H. Scholz, 2001 SPECIES
-=======
+# Tilletia eremopoae Vánky & H. Scholz, 2001 SPECIES
 
 #### Status
 ACCEPTED

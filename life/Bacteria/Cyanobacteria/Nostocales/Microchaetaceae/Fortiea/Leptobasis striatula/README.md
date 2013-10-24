@@ -1,8 +1,7 @@
-Microchaete striatula Hy SPECIES
-=======
+# Leptobasis striatula (Hy) Elenkin SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

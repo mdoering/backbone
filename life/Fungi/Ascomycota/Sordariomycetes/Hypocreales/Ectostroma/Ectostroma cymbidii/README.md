@@ -1,5 +1,4 @@
-Ectostroma cymbidii Sawada SPECIES
-=======
+# Ectostroma cymbidii Sawada SPECIES
 
 #### Status
 ACCEPTED

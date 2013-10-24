@@ -1,5 +1,4 @@
-Lepiota pitereka Grgur. SPECIES
-=======
+# Lepiota pitereka Grgur. SPECIES
 
 #### Status
 ACCEPTED

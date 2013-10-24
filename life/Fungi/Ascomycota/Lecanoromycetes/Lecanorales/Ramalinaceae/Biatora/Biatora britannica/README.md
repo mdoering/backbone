@@ -1,5 +1,4 @@
-Biatora britannica Printzen, Lumbsch & Orange SPECIES
-=======
+# Biatora britannica Printzen, Lumbsch & Orange SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coriolus haedinus (Berk.) Pat. SPECIES
-=======
+# Coriolus haedinus (Berk.) Pat. SPECIES
 
 #### Status
 ACCEPTED

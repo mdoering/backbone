@@ -1,5 +1,4 @@
-Mucor paronychius Suth.-Campb. & Plunkett SPECIES
-=======
+# Mucor paronychius Suth.-Campb. & Plunkett SPECIES
 
 #### Status
 ACCEPTED

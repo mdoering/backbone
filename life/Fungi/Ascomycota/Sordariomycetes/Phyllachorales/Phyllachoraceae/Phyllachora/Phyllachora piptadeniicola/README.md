@@ -1,14 +1,13 @@
-Puiggarina piptadeniicola (Speg.) Speg., 1919 SPECIES
-=======
+# Phyllachora piptadeniicola Speg., 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boletín de la Academia Nacional de Ciencias de Córdoba 23: 486 (1919)
+Anal. Mus. nac. Hist. nat. B. Aires 23(6): 91 (1912)
 
 #### Original name
 Phyllachora piptadeniicola Speg., 1912

@@ -1,5 +1,4 @@
-Clitocybe stercoraria H.E. Bigelow SPECIES
-=======
+# Clitocybe stercoraria H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

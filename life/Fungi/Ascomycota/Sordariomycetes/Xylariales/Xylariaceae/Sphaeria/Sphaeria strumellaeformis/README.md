@@ -1,5 +1,4 @@
-Sphaeria strumellaeformis De Not. SPECIES
-=======
+# Sphaeria strumellaeformis De Not. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula resinae Lindau SPECIES
-=======
+# Torula resinae Lindau SPECIES
 
 #### Status
 ACCEPTED

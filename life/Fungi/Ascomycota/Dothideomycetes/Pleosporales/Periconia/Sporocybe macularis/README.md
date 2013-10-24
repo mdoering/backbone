@@ -1,5 +1,4 @@
-Sporocybe macularis (Schwein.) Sacc. SPECIES
-=======
+# Sporocybe macularis (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

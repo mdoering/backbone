@@ -1,5 +1,4 @@
-Peteinosphaeridium indianaense Colbath, 1979 SPECIES
-=======
+# Peteinosphaeridium indianaense Colbath, 1979 SPECIES
 
 #### Status
 ACCEPTED

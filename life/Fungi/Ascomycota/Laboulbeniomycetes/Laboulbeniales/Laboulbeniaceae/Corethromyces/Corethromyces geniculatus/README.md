@@ -1,5 +1,4 @@
-Corethromyces geniculatus Thaxt. SPECIES
-=======
+# Corethromyces geniculatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

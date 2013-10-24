@@ -1,5 +1,4 @@
-Phyllachora amyridis Seaver, 1928 SPECIES
-=======
+# Phyllachora amyridis Seaver, 1928 SPECIES
 
 #### Status
 DOUBTFUL

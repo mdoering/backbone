@@ -1,5 +1,4 @@
-Chroomonas africana Meyer & Pienaar SPECIES
-=======
+# Chroomonas africana Meyer & Pienaar SPECIES
 
 #### Status
 ACCEPTED

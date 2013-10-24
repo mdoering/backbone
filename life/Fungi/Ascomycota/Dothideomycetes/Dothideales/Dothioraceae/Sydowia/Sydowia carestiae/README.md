@@ -1,5 +1,4 @@
-Sydowia carestiae Sacc. SPECIES
-=======
+# Sydowia carestiae Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubulinosema ratisbonensis C. Franzen, S. Fischer, J. Schroeder, J. Schölmerich & S. Schneuwly SPECIES
-=======
+# Tubulinosema ratisbonensis C. Franzen, S. Fischer, J. Schroeder, J. Schölmerich & S. Schneuwly SPECIES
 
 #### Status
 ACCEPTED

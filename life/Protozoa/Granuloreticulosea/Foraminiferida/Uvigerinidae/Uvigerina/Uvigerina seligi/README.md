@@ -1,5 +1,4 @@
-Uvigerina seligi Cushman SPECIES
-=======
+# Uvigerina seligi Cushman SPECIES
 
 #### Status
 ACCEPTED

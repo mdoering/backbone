@@ -1,17 +1,16 @@
-Phaeographis dussi Vain. SPECIES
-=======
+# Phaeographis dussii Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 38: 255 (1899)
 
 #### Original name
-Phaeographis dussi Vain.
+Phaeographis dussii Vain.
 
 ### Remarks
 null

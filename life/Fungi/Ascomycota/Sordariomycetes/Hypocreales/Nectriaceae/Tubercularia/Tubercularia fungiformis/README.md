@@ -1,5 +1,4 @@
-Tubercularia fungiformis (Scop.) SPECIES
-=======
+# Tubercularia fungiformis (Scop.) SPECIES
 
 #### Status
 ACCEPTED

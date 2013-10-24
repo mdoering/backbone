@@ -1,5 +1,4 @@
-Asterothyrites Cookson GENUS
-=======
+# Asterothyrites Cookson GENUS
 
 #### Status
 ACCEPTED

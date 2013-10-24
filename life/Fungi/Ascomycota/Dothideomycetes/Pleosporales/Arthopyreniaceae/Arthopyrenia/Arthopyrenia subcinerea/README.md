@@ -1,5 +1,4 @@
-Arthopyrenia subcinerea (Nyl.) Müll. Arg. SPECIES
-=======
+# Arthopyrenia subcinerea (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

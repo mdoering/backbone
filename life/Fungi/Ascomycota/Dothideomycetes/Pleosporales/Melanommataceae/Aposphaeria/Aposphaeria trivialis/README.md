@@ -1,5 +1,4 @@
-Aposphaeria trivialis Speg. SPECIES
-=======
+# Aposphaeria trivialis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sulcaria badia Brodo & D. Hawksw. SPECIES
-=======
+# Sulcaria badia Brodo & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

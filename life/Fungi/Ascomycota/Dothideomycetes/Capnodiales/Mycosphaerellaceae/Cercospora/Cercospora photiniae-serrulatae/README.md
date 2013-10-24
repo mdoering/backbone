@@ -1,5 +1,4 @@
-Cercospora photiniae-serrulatae L. Anzal. & Plakidas SPECIES
-=======
+# Cercospora photiniae-serrulatae L. Anzal. & Plakidas SPECIES
 
 #### Status
 ACCEPTED

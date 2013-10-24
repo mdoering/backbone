@@ -1,5 +1,4 @@
-Sticta piloselloides (Räsänen) Zahlbr. SPECIES
-=======
+# Sticta piloselloides (Räsänen) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lacrimatoria stricta (Müller) Bory, 1824 SPECIES
-=======
+# Lacrimatoria stricta (Müller) Bory, 1824 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monoicomyces sanctae-helenae Thaxt. SPECIES
-=======
+# Monoicomyces sanctae-helenae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

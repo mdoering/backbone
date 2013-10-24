@@ -1,5 +1,4 @@
-Hydnum rimosissimum Peck SPECIES
-=======
+# Hydnum rimosissimum Peck SPECIES
 
 #### Status
 ACCEPTED

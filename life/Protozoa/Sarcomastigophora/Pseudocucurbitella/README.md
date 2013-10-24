@@ -1,5 +1,4 @@
-Pseudocucurbitella Haman, 1988 GENUS
-=======
+# Pseudocucurbitella Haman, 1988 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oscillatoria salinarum SPECIES
-=======
+# Oscillatoria salinarum SPECIES
 
 #### Status
 ACCEPTED

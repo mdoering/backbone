@@ -1,5 +1,4 @@
-Miyoshiella fusispora Kawam., 1929 SPECIES
-=======
+# Miyoshiella fusispora Kawam., 1929 SPECIES
 
 #### Status
 ACCEPTED

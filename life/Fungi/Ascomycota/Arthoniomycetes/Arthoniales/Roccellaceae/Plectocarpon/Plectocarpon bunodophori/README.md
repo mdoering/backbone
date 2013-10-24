@@ -1,5 +1,4 @@
-Plectocarpon bunodophori Wedin, Ertz & Diederich SPECIES
-=======
+# Plectocarpon bunodophori Wedin, Ertz & Diederich SPECIES
 
 #### Status
 ACCEPTED

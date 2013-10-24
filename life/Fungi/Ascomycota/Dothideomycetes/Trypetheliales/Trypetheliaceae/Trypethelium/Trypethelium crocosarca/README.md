@@ -1,5 +1,4 @@
-Trypethelium crocosarca Berk. & Broome SPECIES
-=======
+# Trypethelium crocosarca Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

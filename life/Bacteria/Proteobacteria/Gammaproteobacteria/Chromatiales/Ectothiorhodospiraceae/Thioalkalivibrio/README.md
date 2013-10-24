@@ -1,5 +1,4 @@
-Thioalkalivibrio Sorokin et al., 2001 GENUS
-=======
+# Thioalkalivibrio Sorokin et al., 2001 GENUS
 
 #### Status
 ACCEPTED

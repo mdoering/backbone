@@ -1,5 +1,4 @@
-Creonectria laurentiana (É.J. Marchal) Seaver & Chardón SPECIES
-=======
+# Creonectria laurentiana (É.J. Marchal) Seaver & Chardón SPECIES
 
 #### Status
 ACCEPTED

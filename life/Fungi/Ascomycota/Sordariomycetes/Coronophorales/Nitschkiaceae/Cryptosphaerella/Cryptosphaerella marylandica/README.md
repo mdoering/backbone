@@ -1,5 +1,4 @@
-Cryptosphaerella marylandica Petr. SPECIES
-=======
+# Cryptosphaerella marylandica Petr. SPECIES
 
 #### Status
 ACCEPTED

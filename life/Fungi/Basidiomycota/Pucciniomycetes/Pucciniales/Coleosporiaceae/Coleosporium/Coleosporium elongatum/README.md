@@ -1,5 +1,4 @@
-Coleosporium elongatum Syd. & P. Syd. SPECIES
-=======
+# Coleosporium elongatum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

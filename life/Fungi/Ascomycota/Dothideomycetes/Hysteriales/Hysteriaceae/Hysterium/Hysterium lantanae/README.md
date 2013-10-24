@@ -1,5 +1,4 @@
-Hysterium lantanae Tilak & R. Rao SPECIES
-=======
+# Hysterium lantanae Tilak & R. Rao SPECIES
 
 #### Status
 ACCEPTED

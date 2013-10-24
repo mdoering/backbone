@@ -1,5 +1,4 @@
-Penidiella tenuiramis Crous & Summerell, 2009 SPECIES
-=======
+# Penidiella tenuiramis Crous & Summerell, 2009 SPECIES
 
 #### Status
 ACCEPTED

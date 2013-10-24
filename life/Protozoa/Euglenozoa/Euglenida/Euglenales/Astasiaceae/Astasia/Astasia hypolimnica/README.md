@@ -1,5 +1,4 @@
-Astasia hypolimnica Skuja SPECIES
-=======
+# Astasia hypolimnica Skuja SPECIES
 
 #### Status
 ACCEPTED

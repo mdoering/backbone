@@ -1,5 +1,4 @@
-Peziza cremoricolor Berk. SPECIES
-=======
+# Peziza cremoricolor Berk. SPECIES
 
 #### Status
 ACCEPTED

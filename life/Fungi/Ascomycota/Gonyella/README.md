@@ -1,5 +1,4 @@
-Gonyella Syd. & P. Syd. GENUS
-=======
+# Gonyella Syd. & P. Syd. GENUS
 
 #### Status
 ACCEPTED

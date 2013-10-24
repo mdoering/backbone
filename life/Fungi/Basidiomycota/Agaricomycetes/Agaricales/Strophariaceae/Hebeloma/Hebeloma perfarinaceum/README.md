@@ -1,5 +1,4 @@
-Hebeloma perfarinaceum A.H. Sm., V.S. Evenson & Mitchel SPECIES
-=======
+# Hebeloma perfarinaceum A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
 ACCEPTED

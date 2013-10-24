@@ -1,5 +1,4 @@
-Spiropes nothofagi M.B. Ellis SPECIES
-=======
+# Spiropes nothofagi M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

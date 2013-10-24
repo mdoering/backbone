@@ -1,5 +1,4 @@
-Rottnestia borussica (Eisenack, 1954) Cookson & Eisenack, 1961 SPECIES
-=======
+# Rottnestia borussica (Eisenack, 1954) Cookson & Eisenack, 1961 SPECIES
 
 #### Status
 ACCEPTED

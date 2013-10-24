@@ -1,5 +1,4 @@
-Didonia quercina Velen. SPECIES
-=======
+# Didonia quercina Velen. SPECIES
 
 #### Status
 ACCEPTED

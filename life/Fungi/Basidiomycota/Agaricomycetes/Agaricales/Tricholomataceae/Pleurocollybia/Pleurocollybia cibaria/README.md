@@ -1,5 +1,4 @@
-Pleurocollybia cibaria Singer SPECIES
-=======
+# Pleurocollybia cibaria Singer SPECIES
 
 #### Status
 ACCEPTED

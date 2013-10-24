@@ -1,5 +1,4 @@
-Penicillium immensum Tzean, J.L. Chen, L.S. Hsieh & J.C. Peng SPECIES
-=======
+# Penicillium immensum Tzean, J.L. Chen, L.S. Hsieh & J.C. Peng SPECIES
 
 #### Status
 ACCEPTED

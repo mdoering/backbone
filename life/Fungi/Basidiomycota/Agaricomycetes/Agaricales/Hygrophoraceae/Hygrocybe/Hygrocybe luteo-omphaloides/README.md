@@ -1,5 +1,4 @@
-Hygrocybe luteo-omphaloides Norvell, Redhead & Ammirati SPECIES
-=======
+# Hygrocybe luteo-omphaloides Norvell, Redhead & Ammirati SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scutellinia michiganensis Povah SPECIES
-=======
+# Scutellinia michiganensis Povah SPECIES
 
 #### Status
 ACCEPTED

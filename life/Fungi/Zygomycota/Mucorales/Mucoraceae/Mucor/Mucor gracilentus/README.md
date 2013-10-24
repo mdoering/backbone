@@ -1,5 +1,4 @@
-Mucor gracilentus Fr. SPECIES
-=======
+# Mucor gracilentus Fr. SPECIES
 
 #### Status
 ACCEPTED

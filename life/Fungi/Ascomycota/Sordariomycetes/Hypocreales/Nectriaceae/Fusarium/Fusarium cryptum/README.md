@@ -1,5 +1,4 @@
-Fusarium cryptum McAlpine SPECIES
-=======
+# Fusarium cryptum McAlpine SPECIES
 
 #### Status
 ACCEPTED

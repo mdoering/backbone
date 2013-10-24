@@ -1,5 +1,4 @@
-Psathyrella pellstonensis A.H. Sm. SPECIES
-=======
+# Psathyrella pellstonensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

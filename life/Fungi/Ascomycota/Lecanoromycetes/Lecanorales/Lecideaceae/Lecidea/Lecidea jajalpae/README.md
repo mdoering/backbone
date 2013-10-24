@@ -1,5 +1,4 @@
-Lecidea jajalpae B. de Lesd. SPECIES
-=======
+# Lecidea jajalpae B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

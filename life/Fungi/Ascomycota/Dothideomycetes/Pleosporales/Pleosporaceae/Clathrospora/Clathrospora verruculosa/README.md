@@ -1,5 +1,4 @@
-Clathrospora verruculosa O.E. Erikss. SPECIES
-=======
+# Clathrospora verruculosa O.E. Erikss. SPECIES
 
 #### Status
 ACCEPTED

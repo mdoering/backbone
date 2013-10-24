@@ -1,5 +1,4 @@
-Aschersonia fomosensis Sawada SPECIES
-=======
+# Aschersonia fomosensis Sawada SPECIES
 
 #### Status
 ACCEPTED

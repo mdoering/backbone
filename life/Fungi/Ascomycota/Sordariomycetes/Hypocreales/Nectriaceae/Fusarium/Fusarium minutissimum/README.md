@@ -1,5 +1,4 @@
-Fusarium minutissimum (Desm.) Sacc. SPECIES
-=======
+# Fusarium minutissimum (Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

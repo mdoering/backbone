@@ -1,5 +1,4 @@
-Sincothurnia Jankowski, 1985 GENUS
-=======
+# Sincothurnia Jankowski, 1985 GENUS
 
 #### Status
 ACCEPTED

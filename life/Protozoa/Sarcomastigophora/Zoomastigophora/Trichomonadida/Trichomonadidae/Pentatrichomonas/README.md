@@ -1,5 +1,4 @@
-Pentatrichomonas Mesnil, 1914 GENUS
-=======
+# Pentatrichomonas Mesnil, 1914 GENUS
 
 #### Status
 ACCEPTED

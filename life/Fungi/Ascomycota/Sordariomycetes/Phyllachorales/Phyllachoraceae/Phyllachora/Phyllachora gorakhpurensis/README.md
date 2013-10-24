@@ -1,5 +1,4 @@
-Phyllachora gorakhpurensis Y.N. Srivast. & Bhargava, 1975 SPECIES
-=======
+# Phyllachora gorakhpurensis Y.N. Srivast. & Bhargava, 1975 SPECIES
 
 #### Status
 ACCEPTED

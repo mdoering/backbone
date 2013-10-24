@@ -1,5 +1,4 @@
-Dicaeoma exhauriens (Thüm.) Kuntze SPECIES
-=======
+# Dicaeoma exhauriens (Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

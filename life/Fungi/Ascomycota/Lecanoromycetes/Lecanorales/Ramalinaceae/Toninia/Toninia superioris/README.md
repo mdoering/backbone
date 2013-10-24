@@ -1,5 +1,4 @@
-Toninia superioris Timdal SPECIES
-=======
+# Toninia superioris Timdal SPECIES
 
 #### Status
 ACCEPTED

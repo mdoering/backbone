@@ -1,5 +1,4 @@
-Cryptella Pascher, 1929 GENUS
-=======
+# Cryptella Pascher, 1929 GENUS
 
 #### Status
 ACCEPTED

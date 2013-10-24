@@ -1,17 +1,16 @@
-Cortinarius comparioides Ammirati, Halling & Garnica SPECIES
-=======
+# Cortinarius comparoides Ammirati, Halling & Garnica SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Ammirati, Garnica, Halling, Mata, Mueller & Carranza, Can. J. Bot. 85(9): 804 (2007)
 
 #### Original name
-Cortinarius comparioides Ammirati, Halling & Garnica
+Cortinarius comparoides Ammirati, Halling & Garnica
 
 ### Remarks
 null

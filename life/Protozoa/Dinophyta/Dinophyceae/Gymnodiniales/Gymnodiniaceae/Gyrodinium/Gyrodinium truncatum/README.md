@@ -1,5 +1,4 @@
-Gyrodinium truncatum Kofoid & Swezy, 1921 SPECIES
-=======
+# Gyrodinium truncatum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dialonectria dorcas (Berk. & Broome) Cooke SPECIES
-=======
+# Dialonectria dorcas (Berk. & Broome) Cooke SPECIES
 
 #### Status
 ACCEPTED

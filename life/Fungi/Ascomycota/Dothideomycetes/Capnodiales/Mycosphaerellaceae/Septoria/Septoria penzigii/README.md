@@ -1,5 +1,4 @@
-Septoria penzigii f. penzigii FORM
-=======
+# Septoria penzigii Cocc. & Morini SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria penzigii f. penzigii
+Septoria penzigii Cocc. & Morini
 
 ### Remarks
 null

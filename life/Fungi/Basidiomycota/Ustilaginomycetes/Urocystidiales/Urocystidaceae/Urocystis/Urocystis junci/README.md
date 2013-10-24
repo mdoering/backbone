@@ -1,17 +1,16 @@
-Urocystis junci var. junci Lagerh. VARIETY
-=======
+# Urocystis junci Lagerh., 1888 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Cat. Pl. Cincinnati 210 (1888)
 
 #### Original name
-Urocystis junci var. junci Lagerh.
+Urocystis junci Lagerh., 1888
 
 ### Remarks
 null

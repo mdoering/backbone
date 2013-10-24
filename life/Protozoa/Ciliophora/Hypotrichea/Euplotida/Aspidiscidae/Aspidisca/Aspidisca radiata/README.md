@@ -1,5 +1,4 @@
-Aspidisca radiata Fromentel, 1876 SPECIES
-=======
+# Aspidisca radiata Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

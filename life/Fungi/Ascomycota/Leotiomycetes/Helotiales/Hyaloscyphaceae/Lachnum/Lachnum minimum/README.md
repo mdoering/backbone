@@ -1,5 +1,4 @@
-Lachnum minimum Velen. SPECIES
-=======
+# Lachnum minimum Velen. SPECIES
 
 #### Status
 ACCEPTED

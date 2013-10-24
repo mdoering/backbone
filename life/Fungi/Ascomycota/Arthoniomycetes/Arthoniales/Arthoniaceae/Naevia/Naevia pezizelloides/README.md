@@ -1,5 +1,4 @@
-Naevia pezizelloides Rehm SPECIES
-=======
+# Naevia pezizelloides Rehm SPECIES
 
 #### Status
 ACCEPTED

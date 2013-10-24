@@ -1,8 +1,7 @@
-Davidiella dianthi (C.C. Burt) Crous & U. Braun, 2003 SPECIES
-=======
+# Mycosphaerella dianthi (C.C. Burt) Jørst., 1945 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Phyllosticta madisonensis H.C. Greene SPECIES
-=======
+# Phyllosticta madisonensis H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aleurosporia plicatilis (Sabour.) Grigorakis {?} SPECIES
-=======
+# Aleurosporia plicatilis (Sabour.) Grigorakis {?} SPECIES
 
 #### Status
 ACCEPTED

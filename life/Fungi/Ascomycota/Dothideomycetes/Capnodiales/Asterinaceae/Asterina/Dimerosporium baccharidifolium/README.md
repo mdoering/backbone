@@ -1,5 +1,4 @@
-Dimerosporium baccharidifolium Speg. SPECIES
-=======
+# Dimerosporium baccharidifolium Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus macounii Lloyd SPECIES
-=======
+# Polystictus macounii Lloyd SPECIES
 
 #### Status
 ACCEPTED

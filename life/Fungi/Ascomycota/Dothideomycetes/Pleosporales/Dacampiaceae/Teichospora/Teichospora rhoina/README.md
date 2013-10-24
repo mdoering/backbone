@@ -1,5 +1,4 @@
-Teichospora rhoina (Earle) Sacc. & D. Sacc. SPECIES
-=======
+# Teichospora rhoina (Earle) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

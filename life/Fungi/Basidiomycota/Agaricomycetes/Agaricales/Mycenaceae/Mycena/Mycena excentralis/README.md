@@ -1,5 +1,4 @@
-Mycena excentralis Métrod SPECIES
-=======
+# Mycena excentralis Métrod SPECIES
 
 #### Status
 ACCEPTED

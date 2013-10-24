@@ -1,5 +1,4 @@
-Patellaria aureococcinea Berk. & M.A. Curtis SPECIES
-=======
+# Patellaria aureococcinea Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

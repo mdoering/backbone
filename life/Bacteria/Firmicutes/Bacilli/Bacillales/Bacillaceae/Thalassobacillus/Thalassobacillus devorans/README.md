@@ -1,5 +1,4 @@
-Thalassobacillus devorans García et al., 2005 SPECIES
-=======
+# Thalassobacillus devorans García et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

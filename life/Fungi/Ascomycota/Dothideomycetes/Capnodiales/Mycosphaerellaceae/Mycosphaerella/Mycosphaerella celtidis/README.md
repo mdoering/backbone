@@ -1,5 +1,4 @@
-Mycosphaerella celtidis (Pass.) Tomilin SPECIES
-=======
+# Mycosphaerella celtidis (Pass.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

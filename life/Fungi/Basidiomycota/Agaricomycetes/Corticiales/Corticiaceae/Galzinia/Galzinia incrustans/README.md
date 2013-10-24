@@ -1,17 +1,16 @@
-Corticium incrustans Höhn. & Litsch., 1906 SPECIES
-=======
+# Galzinia incrustans (Höhn. & Litsch.) Parmasto, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Eesti NSV Tead. Akad. Toim. , Biol. seer 14(2): 225 (1965)
 
 #### Original name
-null
+Corticium incrustans Höhn. & Litsch., 1906
 
 ### Remarks
 null

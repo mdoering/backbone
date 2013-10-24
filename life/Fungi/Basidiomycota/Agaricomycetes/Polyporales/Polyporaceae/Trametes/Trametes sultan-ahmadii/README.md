@@ -1,5 +1,4 @@
-Trametes sultan-ahmadii Corner SPECIES
-=======
+# Trametes sultan-ahmadii Corner SPECIES
 
 #### Status
 ACCEPTED

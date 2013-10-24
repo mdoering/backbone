@@ -1,5 +1,4 @@
-Micrantholithus pinguis Bramlette & Sullivan, 1961 SPECIES
-=======
+# Micrantholithus pinguis Bramlette & Sullivan, 1961 SPECIES
 
 #### Status
 ACCEPTED

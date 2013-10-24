@@ -1,5 +1,4 @@
-Asterina mysorensis Hansf. & Thirum. SPECIES
-=======
+# Asterina mysorensis Hansf. & Thirum. SPECIES
 
 #### Status
 ACCEPTED

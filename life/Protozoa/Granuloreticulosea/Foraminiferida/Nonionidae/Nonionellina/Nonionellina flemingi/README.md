@@ -1,8 +1,7 @@
-Nonion flemingi Vella, 1957 SPECIES
-=======
+# Nonionellina flemingi (Vella, 1957) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

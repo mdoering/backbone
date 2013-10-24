@@ -1,5 +1,4 @@
-Nummulites perforatus Montfort SPECIES
-=======
+# Nummulites perforatus Montfort SPECIES
 
 #### Status
 ACCEPTED

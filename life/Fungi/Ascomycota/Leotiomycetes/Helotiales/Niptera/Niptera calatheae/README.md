@@ -1,5 +1,4 @@
-Niptera calatheae Henn. SPECIES
-=======
+# Niptera calatheae Henn. SPECIES
 
 #### Status
 ACCEPTED

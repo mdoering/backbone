@@ -1,5 +1,4 @@
-Leptosphaeria barriae Shoemaker SPECIES
-=======
+# Leptosphaeria barriae Shoemaker SPECIES
 
 #### Status
 ACCEPTED

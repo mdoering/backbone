@@ -1,5 +1,4 @@
-Tuberculina pallida Syd. {?} SPECIES
-=======
+# Tuberculina pallida Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

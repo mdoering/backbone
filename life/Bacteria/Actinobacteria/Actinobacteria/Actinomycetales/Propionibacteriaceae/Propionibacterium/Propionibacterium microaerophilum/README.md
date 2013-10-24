@@ -1,5 +1,4 @@
-Propionibacterium microaerophilum Koussémon et al., 2001 SPECIES
-=======
+# Propionibacterium microaerophilum Koussémon et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

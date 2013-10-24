@@ -1,5 +1,4 @@
-Galerina subbadia A.H. Sm. & Singer SPECIES
-=======
+# Galerina subbadia A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

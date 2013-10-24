@@ -1,5 +1,4 @@
-Acarospora multipunctata Vain. SPECIES
-=======
+# Acarospora multipunctata Vain. SPECIES
 
 #### Status
 ACCEPTED

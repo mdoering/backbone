@@ -1,5 +1,4 @@
-Caloplaca nolens Zahlbr. SPECIES
-=======
+# Caloplaca nolens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aleuria latispora J. Moravec SPECIES
-=======
+# Aleuria latispora J. Moravec SPECIES
 
 #### Status
 ACCEPTED

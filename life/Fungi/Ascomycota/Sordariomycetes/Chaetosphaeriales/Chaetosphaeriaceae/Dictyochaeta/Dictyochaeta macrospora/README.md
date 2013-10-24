@@ -1,5 +1,4 @@
-Dictyochaeta macrospora Kuthub. & Nawawi SPECIES
-=======
+# Dictyochaeta macrospora Kuthub. & Nawawi SPECIES
 
 #### Status
 ACCEPTED

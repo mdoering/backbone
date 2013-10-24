@@ -1,5 +1,4 @@
-Bacidia scoliciosporoides (Bagl.) Lettau SPECIES
-=======
+# Bacidia scoliciosporoides (Bagl.) Lettau SPECIES
 
 #### Status
 ACCEPTED

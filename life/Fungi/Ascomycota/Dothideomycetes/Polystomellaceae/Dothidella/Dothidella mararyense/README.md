@@ -1,5 +1,4 @@
-Dothidella mararyense Henn. SPECIES
-=======
+# Dothidella mararyense Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Embellisia hyacinthi de Hoog & P.J. Mull. bis, 1973 SPECIES
-=======
+# Embellisia hyacinthi de Hoog & P.J. Mull. bis, 1973 SPECIES
 
 #### Status
 ACCEPTED

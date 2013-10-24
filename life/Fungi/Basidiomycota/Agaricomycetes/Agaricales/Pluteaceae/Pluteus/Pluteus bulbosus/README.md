@@ -1,5 +1,4 @@
-Pluteus bulbosus S. Imai SPECIES
-=======
+# Pluteus bulbosus S. Imai SPECIES
 
 #### Status
 ACCEPTED

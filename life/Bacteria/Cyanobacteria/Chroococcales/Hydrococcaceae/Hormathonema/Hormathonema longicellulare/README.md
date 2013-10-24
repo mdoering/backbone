@@ -1,5 +1,4 @@
-Hormathonema longicellulare Ercegovic SPECIES
-=======
+# Hormathonema longicellulare Ercegovic SPECIES
 
 #### Status
 ACCEPTED

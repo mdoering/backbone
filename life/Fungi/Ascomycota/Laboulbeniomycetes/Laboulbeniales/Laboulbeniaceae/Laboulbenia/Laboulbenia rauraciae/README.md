@@ -1,5 +1,4 @@
-Laboulbenia rauraciae R. Baumgartner SPECIES
-=======
+# Laboulbenia rauraciae R. Baumgartner SPECIES
 
 #### Status
 ACCEPTED

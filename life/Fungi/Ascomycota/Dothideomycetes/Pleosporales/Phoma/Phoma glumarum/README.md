@@ -1,5 +1,4 @@
-Phoma glumarum Ellis & Tracy SPECIES
-=======
+# Phoma glumarum Ellis & Tracy SPECIES
 
 #### Status
 ACCEPTED

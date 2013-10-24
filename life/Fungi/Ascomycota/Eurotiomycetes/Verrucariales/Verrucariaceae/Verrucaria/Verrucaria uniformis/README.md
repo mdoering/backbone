@@ -1,5 +1,4 @@
-Verrucaria uniformis Nyl. SPECIES
-=======
+# Verrucaria uniformis Nyl. SPECIES
 
 #### Status
 ACCEPTED

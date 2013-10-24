@@ -1,5 +1,4 @@
-Trametes allantospora Corner SPECIES
-=======
+# Trametes allantospora Corner SPECIES
 
 #### Status
 ACCEPTED

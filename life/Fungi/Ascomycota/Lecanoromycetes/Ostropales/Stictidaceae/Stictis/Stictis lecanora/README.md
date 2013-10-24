@@ -1,5 +1,4 @@
-Stictis lecanora anon. SPECIES
-=======
+# Stictis lecanora anon. SPECIES
 
 #### Status
 ACCEPTED

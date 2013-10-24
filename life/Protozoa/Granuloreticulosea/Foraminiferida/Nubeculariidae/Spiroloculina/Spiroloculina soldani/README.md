@@ -1,5 +1,4 @@
-Spiroloculina soldani Fornasini SPECIES
-=======
+# Spiroloculina soldani Fornasini SPECIES
 
 #### Status
 ACCEPTED

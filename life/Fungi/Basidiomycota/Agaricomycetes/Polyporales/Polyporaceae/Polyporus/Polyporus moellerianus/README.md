@@ -1,5 +1,4 @@
-Polyporus moellerianus Sacc. & Berl. SPECIES
-=======
+# Polyporus moellerianus Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

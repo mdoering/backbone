@@ -1,5 +1,4 @@
-Placodium subpapilliferum Vain. SPECIES
-=======
+# Placodium subpapilliferum Vain. SPECIES
 
 #### Status
 ACCEPTED

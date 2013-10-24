@@ -1,5 +1,4 @@
-Bartonella grahamii Birtles et al., 1995 SPECIES
-=======
+# Bartonella grahamii Birtles et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

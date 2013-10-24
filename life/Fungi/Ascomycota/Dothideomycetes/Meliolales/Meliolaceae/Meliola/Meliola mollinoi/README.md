@@ -1,5 +1,4 @@
-Meliola mollinoi Speg. SPECIES
-=======
+# Meliola mollinoi Speg. SPECIES
 
 #### Status
 ACCEPTED

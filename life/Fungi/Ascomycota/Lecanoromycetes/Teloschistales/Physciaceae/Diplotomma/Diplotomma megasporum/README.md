@@ -1,5 +1,4 @@
-Diplotomma megasporum S.R. Singh & D.D. Awasthi SPECIES
-=======
+# Diplotomma megasporum S.R. Singh & D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea mediocricula Nyl. SPECIES
-=======
+# Lecidea mediocricula Nyl. SPECIES
 
 #### Status
 ACCEPTED

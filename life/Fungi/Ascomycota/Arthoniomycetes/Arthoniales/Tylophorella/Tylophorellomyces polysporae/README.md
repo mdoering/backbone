@@ -1,5 +1,4 @@
-Tylophorellomyces polysporae Cif. & Tomas. SPECIES
-=======
+# Tylophorellomyces polysporae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Menegazzia grandis P. James SPECIES
-=======
+# Menegazzia grandis P. James SPECIES
 
 #### Status
 ACCEPTED

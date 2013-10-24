@@ -1,5 +1,4 @@
-Harposporium arcuatum G.L. Barron SPECIES
-=======
+# Harposporium arcuatum G.L. Barron SPECIES
 
 #### Status
 ACCEPTED

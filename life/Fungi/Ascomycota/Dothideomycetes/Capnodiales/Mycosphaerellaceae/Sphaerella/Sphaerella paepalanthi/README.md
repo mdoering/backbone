@@ -1,5 +1,4 @@
-Sphaerella paepalanthi (Rehm) Sacc. & P. Syd. SPECIES
-=======
+# Sphaerella paepalanthi (Rehm) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

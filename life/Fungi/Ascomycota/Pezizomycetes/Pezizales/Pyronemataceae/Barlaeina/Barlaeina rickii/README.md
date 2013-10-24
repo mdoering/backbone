@@ -1,5 +1,4 @@
-Barlaeina rickii Rehm SPECIES
-=======
+# Barlaeina rickii Rehm SPECIES
 
 #### Status
 ACCEPTED

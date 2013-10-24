@@ -1,5 +1,4 @@
-Amanita chevalleri Har. & Pat. SPECIES
-=======
+# Amanita chevalleri Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Medastina Dodart GENUS
-=======
+# Medastina Dodart GENUS
 
 #### Status
 ACCEPTED

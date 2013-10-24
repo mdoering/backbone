@@ -1,5 +1,4 @@
-Diplodina spiraeicola Gonz. Frag. SPECIES
-=======
+# Diplodina spiraeicola Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

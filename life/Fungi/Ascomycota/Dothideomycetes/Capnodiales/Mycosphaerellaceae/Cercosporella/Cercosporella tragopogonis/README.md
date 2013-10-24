@@ -1,17 +1,16 @@
-Cercosporella tragopogi Vestergr. SPECIES
-=======
+# Cercosporella tragopogonis Vestergr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Svensk bot. Tidskr. 8: 92 (1914)
 
 #### Original name
-Cercosporella tragopogi Vestergr.
+Cercosporella tragopogonis Vestergr.
 
 ### Remarks
 null

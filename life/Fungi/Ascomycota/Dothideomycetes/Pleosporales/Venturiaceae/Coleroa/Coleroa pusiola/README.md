@@ -1,5 +1,4 @@
-Coleroa pusiola (P. Karst.) Sivan. SPECIES
-=======
+# Coleroa pusiola (P. Karst.) Sivan. SPECIES
 
 #### Status
 ACCEPTED

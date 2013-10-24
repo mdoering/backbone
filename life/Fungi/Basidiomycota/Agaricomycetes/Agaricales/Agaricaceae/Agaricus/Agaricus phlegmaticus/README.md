@@ -1,5 +1,4 @@
-Agaricus phlegmaticus Berk. SPECIES
-=======
+# Agaricus phlegmaticus Berk. SPECIES
 
 #### Status
 ACCEPTED

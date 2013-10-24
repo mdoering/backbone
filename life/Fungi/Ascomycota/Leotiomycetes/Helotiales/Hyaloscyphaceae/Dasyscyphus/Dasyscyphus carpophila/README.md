@@ -1,8 +1,7 @@
-Dasyscypha carpophila Pers. SPECIES
-=======
+# Dasyscyphus carpophila Pers. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha carpophila Pers.
+Dasyscyphus carpophila Pers.
 
 ### Remarks
 null

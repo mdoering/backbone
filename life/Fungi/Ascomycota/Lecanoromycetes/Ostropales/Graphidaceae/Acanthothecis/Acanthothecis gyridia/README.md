@@ -1,14 +1,13 @@
-Graphis gyridia Stirt. SPECIES
-=======
+# Acanthothecis gyridia (Stirt.) A. W. Archer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. & Proc. Roy. Soc. Victoria 17: 77 (1881)
+Telopea 11(1): 70 (2005)
 
 #### Original name
 Graphis gyridia Stirt.

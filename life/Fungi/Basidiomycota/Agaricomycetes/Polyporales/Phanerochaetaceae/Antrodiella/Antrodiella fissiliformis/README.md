@@ -1,14 +1,13 @@
-Poria fissiliformis Pilát, 1940 SPECIES
-=======
+# Antrodiella fissiliformis (Pilát) Gilb. & Ryvarden, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stud. Bot. Cechoslav. 3: 1 (1940)
+N. Amer. Polyp. (Oslo), Vol. <b>2</b> <i>Megasporoporia</i> - <i>Wrightoporia</i> 808 (1987)
 
 #### Original name
 Poria fissiliformis Pilát, 1940

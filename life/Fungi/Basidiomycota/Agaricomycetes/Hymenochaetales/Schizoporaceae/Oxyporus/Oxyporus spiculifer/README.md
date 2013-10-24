@@ -1,5 +1,4 @@
-Oxyporus spiculifer (G. Cunn.) P.K. Buchanan & Ryvarden, 1988 SPECIES
-=======
+# Oxyporus spiculifer (G. Cunn.) P.K. Buchanan & Ryvarden, 1988 SPECIES
 
 #### Status
 ACCEPTED

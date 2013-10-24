@@ -1,5 +1,4 @@
-Trachelomonas de-bruynei Van Oye SPECIES
-=======
+# Trachelomonas de-bruynei Van Oye SPECIES
 
 #### Status
 ACCEPTED

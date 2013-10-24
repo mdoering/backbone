@@ -1,5 +1,4 @@
-Aphelidium Zopf, 1885 GENUS
-=======
+# Aphelidium Zopf, 1885 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Poria tasmanica Cleland & Rodway, 1928 SPECIES
-=======
+# Coltriciella tasmanica (Cleland & Rodway) D.A. Reid, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pap. Proc. R. Soc. Tasm. 43 (1928)
+Kew Bull. 17: 292 (1963)
 
 #### Original name
 Poria tasmanica Cleland & Rodway, 1928

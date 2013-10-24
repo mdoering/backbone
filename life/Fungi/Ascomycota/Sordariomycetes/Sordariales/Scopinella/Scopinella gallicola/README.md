@@ -1,5 +1,4 @@
-Scopinella gallicola Tsuneda & Y. Hirats., 1981 SPECIES
-=======
+# Scopinella gallicola Tsuneda & Y. Hirats., 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora phaeophora Stizenb. ex Hasse SPECIES
-=======
+# Biatora phaeophora Stizenb. ex Hasse SPECIES
 
 #### Status
 ACCEPTED

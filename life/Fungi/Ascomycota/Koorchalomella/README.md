@@ -1,5 +1,4 @@
-Koorchalomella Chona, Munjal & J.N. Kapoor GENUS
-=======
+# Koorchalomella Chona, Munjal & J.N. Kapoor GENUS
 
 #### Status
 ACCEPTED

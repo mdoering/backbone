@@ -1,5 +1,4 @@
-Microglossum obscurum Peck SPECIES
-=======
+# Microglossum obscurum Peck SPECIES
 
 #### Status
 ACCEPTED

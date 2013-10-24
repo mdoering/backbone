@@ -1,5 +1,4 @@
-Lophosphaeridium pelicanense Playford, 1981 SPECIES
-=======
+# Lophosphaeridium pelicanense Playford, 1981 SPECIES
 
 #### Status
 ACCEPTED

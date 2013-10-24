@@ -1,5 +1,4 @@
-Omphalina subobscura Singer SPECIES
-=======
+# Omphalina subobscura Singer SPECIES
 
 #### Status
 ACCEPTED

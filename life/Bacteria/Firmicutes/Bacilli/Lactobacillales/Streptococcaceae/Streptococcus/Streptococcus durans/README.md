@@ -1,5 +1,4 @@
-Streptococcus durans (ex Sherman & Wing, 1937) Knight et al., 1984 SPECIES
-=======
+# Streptococcus durans (ex Sherman & Wing, 1937) Knight et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

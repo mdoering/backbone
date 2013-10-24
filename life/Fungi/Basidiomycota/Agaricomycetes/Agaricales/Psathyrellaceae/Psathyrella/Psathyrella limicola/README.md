@@ -1,5 +1,4 @@
-Psathyrella limicola var. limicola VARIETY
-=======
+# Psathyrella limicola (Peck) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mem. N. Y. bot. Gdn 24: 415 (1972)
 
 #### Original name
-Psathyrella limicola var. limicola
+Agaricus limicola Peck
 
 ### Remarks
 null

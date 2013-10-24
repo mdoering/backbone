@@ -1,5 +1,4 @@
-Gnomonia alpina G. Winter SPECIES
-=======
+# Gnomonia alpina G. Winter SPECIES
 
 #### Status
 ACCEPTED

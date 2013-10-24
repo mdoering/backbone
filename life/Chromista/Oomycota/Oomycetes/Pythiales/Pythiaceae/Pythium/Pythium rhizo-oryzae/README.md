@@ -1,5 +1,4 @@
-Pythium rhizo-oryzae B. Paul SPECIES
-=======
+# Pythium rhizo-oryzae B. Paul SPECIES
 
 #### Status
 ACCEPTED

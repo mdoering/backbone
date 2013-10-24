@@ -1,5 +1,4 @@
-Karreriella novangliae (Cushman, 1922) SPECIES
-=======
+# Karreriella novangliae (Cushman, 1922) SPECIES
 
 #### Status
 ACCEPTED

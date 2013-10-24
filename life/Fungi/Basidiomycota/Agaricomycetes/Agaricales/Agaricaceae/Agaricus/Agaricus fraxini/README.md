@@ -1,5 +1,4 @@
-Agaricus fraxini G.H. Otth SPECIES
-=======
+# Agaricus fraxini G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

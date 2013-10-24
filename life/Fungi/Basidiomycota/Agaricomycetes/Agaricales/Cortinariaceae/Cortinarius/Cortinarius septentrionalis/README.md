@@ -1,5 +1,4 @@
-Cortinarius septentrionalis Bendiksen, K. Bendiksen & Brandrud SPECIES
-=======
+# Cortinarius septentrionalis Bendiksen, K. Bendiksen & Brandrud SPECIES
 
 #### Status
 ACCEPTED

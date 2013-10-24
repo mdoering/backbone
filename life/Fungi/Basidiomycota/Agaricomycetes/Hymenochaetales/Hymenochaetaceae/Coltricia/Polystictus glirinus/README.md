@@ -1,5 +1,4 @@
-Polystictus glirinus (Kalchbr.) Cooke SPECIES
-=======
+# Polystictus glirinus (Kalchbr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia fagopyricola Jørst. SPECIES
-=======
+# Puccinia fagopyricola Jørst. SPECIES
 
 #### Status
 ACCEPTED

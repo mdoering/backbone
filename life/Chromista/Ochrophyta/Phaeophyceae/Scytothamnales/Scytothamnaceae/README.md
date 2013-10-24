@@ -1,5 +1,4 @@
-Scytothamnaceae Womersley, 1987 FAMILY
-=======
+# Scytothamnaceae Womersley, 1987 FAMILY
 
 #### Status
 ACCEPTED

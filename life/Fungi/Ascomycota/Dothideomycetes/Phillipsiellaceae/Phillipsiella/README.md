@@ -1,17 +1,16 @@
-Bactridiopsis Gonz. Fragoso & Ciferri, 1927 GENUS
-=======
+# Phillipsiella Cooke, 1878 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boletín de la Real Sociedad Española de Historia Natural, Biologica 27: 330 (1927)
+Grevillea 7(no. 42): 48 (1878)
 
 #### Original name
-Bactridiopsis Gonz. Fragoso & Ciferri, 1927
+Phillipsiella Cooke, 1878
 
 ### Remarks
 null

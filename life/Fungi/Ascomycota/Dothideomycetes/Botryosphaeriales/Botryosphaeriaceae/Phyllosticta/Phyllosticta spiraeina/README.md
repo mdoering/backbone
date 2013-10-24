@@ -1,5 +1,4 @@
-Phyllosticta spiraeina var. spiraeina VARIETY
-=======
+# Phyllosticta spiraeina Brunaud SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Miscell. mycol. 2: 33 (1915)
 
 #### Original name
-Phyllosticta spiraeina var. spiraeina
+Phyllosticta spiraeina Brunaud
 
 ### Remarks
 null

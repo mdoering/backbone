@@ -1,5 +1,4 @@
-Bacidia yasudae (Vain.) Zahlbr. SPECIES
-=======
+# Bacidia yasudae (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

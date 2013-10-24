@@ -1,5 +1,4 @@
-Placodium perexiguum Müll. Arg. SPECIES
-=======
+# Placodium perexiguum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

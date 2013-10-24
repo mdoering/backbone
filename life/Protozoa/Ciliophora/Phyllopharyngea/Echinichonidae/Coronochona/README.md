@@ -1,5 +1,4 @@
-Coronochona Yankovskii, 1973 GENUS
-=======
+# Coronochona Yankovskii, 1973 GENUS
 
 #### Status
 ACCEPTED

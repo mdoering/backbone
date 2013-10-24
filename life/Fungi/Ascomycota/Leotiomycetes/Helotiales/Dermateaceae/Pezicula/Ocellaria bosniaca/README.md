@@ -1,5 +1,4 @@
-Ocellaria bosniaca Petr. SPECIES
-=======
+# Ocellaria bosniaca Petr. SPECIES
 
 #### Status
 ACCEPTED

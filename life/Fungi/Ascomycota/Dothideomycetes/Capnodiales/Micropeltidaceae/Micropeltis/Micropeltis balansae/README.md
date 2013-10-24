@@ -1,5 +1,4 @@
-Micropeltis balansae Speg. SPECIES
-=======
+# Micropeltis balansae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cantharellus fechtneri Velen. SPECIES
-=======
+# Cantharellus fechtneri Velen. SPECIES
 
 #### Status
 ACCEPTED

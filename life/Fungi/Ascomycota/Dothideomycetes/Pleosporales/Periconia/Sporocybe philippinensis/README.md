@@ -1,5 +1,4 @@
-Sporocybe philippinensis Henn. SPECIES
-=======
+# Sporocybe philippinensis Henn. SPECIES
 
 #### Status
 ACCEPTED

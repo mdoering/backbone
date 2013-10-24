@@ -1,5 +1,4 @@
-Fusisporium lolii Wm. G. Sm. SPECIES
-=======
+# Fusisporium lolii Wm. G. Sm. SPECIES
 
 #### Status
 ACCEPTED

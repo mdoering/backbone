@@ -1,5 +1,4 @@
-Stegopeziza juniperina (E. Müll.) Dennis SPECIES
-=======
+# Stegopeziza juniperina (E. Müll.) Dennis SPECIES
 
 #### Status
 ACCEPTED

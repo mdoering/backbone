@@ -1,5 +1,4 @@
-Sommerstorffia spinosa Arnaudov, 1923 SPECIES
-=======
+# Sommerstorffia spinosa Arnaudov, 1923 SPECIES
 
 #### Status
 ACCEPTED

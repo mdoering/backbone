@@ -1,5 +1,4 @@
-Candida africana H.-J. Tietz, Hopp, Schmalreck, Sterry & Czaika SPECIES
-=======
+# Candida africana H.-J. Tietz, Hopp, Schmalreck, Sterry & Czaika SPECIES
 
 #### Status
 ACCEPTED

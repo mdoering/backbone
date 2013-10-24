@@ -1,5 +1,4 @@
-Peniophora crustosa Cooke, 1879 SPECIES
-=======
+# Peniophora crustosa Cooke, 1879 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Geastrum rufescens var. readeri (Cooke & Massee) Cleland & Cheel VARIETY
-=======
+# Geastrum rufescens Pers., 1801 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. mycol. (Lundae) 3(1): 18 (1829)
 
 #### Original name
-Geastrum readeri Cooke & Massee
+Geastrum rufescens Pers., 1801
 
 ### Remarks
 null

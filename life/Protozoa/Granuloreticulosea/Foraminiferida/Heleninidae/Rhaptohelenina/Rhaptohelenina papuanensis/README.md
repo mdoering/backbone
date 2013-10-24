@@ -1,5 +1,4 @@
-Rhaptohelenina papuanensis Clark, 1993 SPECIES
-=======
+# Rhaptohelenina papuanensis Clark, 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma cinchonae Vincens SPECIES
-=======
+# Phoma cinchonae Vincens SPECIES
 
 #### Status
 ACCEPTED

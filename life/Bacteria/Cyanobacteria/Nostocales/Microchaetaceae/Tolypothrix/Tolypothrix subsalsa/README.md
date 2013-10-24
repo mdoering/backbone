@@ -1,5 +1,4 @@
-Tolypothrix subsalsa C.K. Tseng & M. Hua SPECIES
-=======
+# Tolypothrix subsalsa C.K. Tseng & M. Hua SPECIES
 
 #### Status
 ACCEPTED

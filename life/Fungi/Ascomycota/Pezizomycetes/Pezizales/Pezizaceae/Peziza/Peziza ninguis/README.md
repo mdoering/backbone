@@ -1,17 +1,16 @@
-Peziza fortoulii Donadini & Neville, 1978 SPECIES
-=======
+# Peziza ninguis Donadini & Trimbach, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Donadini, Bull. Soc. linn. Provence 30: 87 (1978)
+null
 
 #### Original name
-Peziza fortoulii Donadini & Neville, 1978
+null
 
 ### Remarks
 null

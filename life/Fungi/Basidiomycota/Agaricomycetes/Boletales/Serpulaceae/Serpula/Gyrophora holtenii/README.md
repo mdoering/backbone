@@ -1,5 +1,4 @@
-Gyrophora holtenii SPECIES
-=======
+# Gyrophora holtenii SPECIES
 
 #### Status
 ACCEPTED

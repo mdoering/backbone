@@ -1,11 +1,10 @@
-Spirillum gracile Canale-Parola et al., 1966 SPECIES
-=======
+# Hylemonella gracilis (Canale-Parola et al., 1966) Spring et al., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

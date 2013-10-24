@@ -1,5 +1,4 @@
-Perigrapha nitida Ertz, Diederich, Christnach & Wedin SPECIES
-=======
+# Perigrapha nitida Ertz, Diederich, Christnach & Wedin SPECIES
 
 #### Status
 ACCEPTED

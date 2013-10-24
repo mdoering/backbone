@@ -1,5 +1,4 @@
-Ascochyta fumariae Hollós SPECIES
-=======
+# Ascochyta fumariae Hollós SPECIES
 
 #### Status
 ACCEPTED

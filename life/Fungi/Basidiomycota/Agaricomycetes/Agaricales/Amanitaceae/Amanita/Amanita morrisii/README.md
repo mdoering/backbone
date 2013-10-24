@@ -1,5 +1,4 @@
-Amanita morrisii Peck SPECIES
-=======
+# Amanita morrisii Peck SPECIES
 
 #### Status
 ACCEPTED

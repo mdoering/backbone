@@ -1,5 +1,4 @@
-Sargassum symphyorhizoideum Tseng & Lu SPECIES
-=======
+# Sargassum symphyorhizoideum Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

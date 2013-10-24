@@ -1,5 +1,4 @@
-Trichosporon lactis Lopandic, Sugita, Middelhoven, Herzberg & Prillinger SPECIES
-=======
+# Trichosporon lactis Lopandic, Sugita, Middelhoven, Herzberg & Prillinger SPECIES
 
 #### Status
 ACCEPTED

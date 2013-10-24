@@ -1,8 +1,7 @@
-Helminthocarpon taylori Herre SPECIES
-=======
+# Helminthocarpon taylorii Herre SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Helminthocarpon taylori Herre
+Helminthocarpon taylorii Herre
 
 ### Remarks
 null

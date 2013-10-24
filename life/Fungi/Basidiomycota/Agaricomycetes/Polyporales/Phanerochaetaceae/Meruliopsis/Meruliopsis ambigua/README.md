@@ -1,5 +1,4 @@
-Meruliopsis ambigua (Berk.) Ginns SPECIES
-=======
+# Meruliopsis ambigua (Berk.) Ginns SPECIES
 
 #### Status
 ACCEPTED

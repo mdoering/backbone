@@ -1,5 +1,4 @@
-Scyphosphaera tora Kamptner, 1967 SPECIES
-=======
+# Scyphosphaera tora Kamptner, 1967 SPECIES
 
 #### Status
 ACCEPTED

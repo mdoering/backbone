@@ -1,17 +1,16 @@
-Mycocarpon flexus B.H. Davis & Leisman SPECIES
-=======
+# Mycocarpon flexum B.H. Davis & Leisman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 89(2): 102 + figs 7-8 (1962)
 
 #### Original name
-Mycocarpon flexus B.H. Davis & Leisman
+Mycocarpon flexum B.H. Davis & Leisman
 
 ### Remarks
 null

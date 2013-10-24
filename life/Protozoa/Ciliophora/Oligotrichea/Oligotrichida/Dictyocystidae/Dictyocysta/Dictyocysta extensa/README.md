@@ -1,5 +1,4 @@
-Dictyocysta extensa Kofoid & Campbell, 1929 SPECIES
-=======
+# Dictyocysta extensa Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

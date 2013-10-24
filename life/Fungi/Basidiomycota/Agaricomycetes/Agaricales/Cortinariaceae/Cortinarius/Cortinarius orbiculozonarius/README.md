@@ -1,5 +1,4 @@
-Cortinarius orbiculozonarius Rob. Henry SPECIES
-=======
+# Cortinarius orbiculozonarius Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

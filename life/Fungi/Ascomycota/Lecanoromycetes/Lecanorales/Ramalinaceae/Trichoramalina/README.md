@@ -1,5 +1,4 @@
-Trichoramalina GENUS
-=======
+# Trichoramalina GENUS
 
 #### Status
 ACCEPTED

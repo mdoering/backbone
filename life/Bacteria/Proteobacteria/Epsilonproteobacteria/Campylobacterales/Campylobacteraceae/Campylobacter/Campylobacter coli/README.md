@@ -1,5 +1,4 @@
-Campylobacter coli (Doyle, 1948) Véron and Chatelain, 1973 (Approved Lists, 1980) SPECIES
-=======
+# Campylobacter coli (Doyle, 1948) Véron and Chatelain, 1973 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strombomonas brevicaudata V. Conforti & G.-J. Joo SPECIES
-=======
+# Strombomonas brevicaudata V. Conforti & G.-J. Joo SPECIES
 
 #### Status
 ACCEPTED

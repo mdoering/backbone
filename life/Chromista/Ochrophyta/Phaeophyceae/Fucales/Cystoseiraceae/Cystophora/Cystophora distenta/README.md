@@ -1,5 +1,4 @@
-Cystophora distenta J.Agardh, 1870 SPECIES
-=======
+# Cystophora distenta J.Agardh, 1870 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placosphaeria medicaginis Tehon SPECIES
-=======
+# Placosphaeria medicaginis Tehon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lawalreea Dieder. GENUS
-=======
+# Lawalreea Dieder. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymella castillejae Wehm. SPECIES
-=======
+# Didymella castillejae Wehm. SPECIES
 
 #### Status
 ACCEPTED

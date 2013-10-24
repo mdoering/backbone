@@ -1,5 +1,4 @@
-Schizostoma querceti Sacc. & Speg. SPECIES
-=======
+# Schizostoma querceti Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

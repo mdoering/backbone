@@ -1,5 +1,4 @@
-Didymosphaeria populifolia Ellis & Everh. SPECIES
-=======
+# Didymosphaeria populifolia Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

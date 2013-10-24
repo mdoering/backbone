@@ -1,5 +1,4 @@
-Cortinarius subcastaneus Bidaud & Reumaux SPECIES
-=======
+# Cortinarius subcastaneus Bidaud & Reumaux SPECIES
 
 #### Status
 ACCEPTED

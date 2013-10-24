@@ -1,17 +1,16 @@
-Hiratsukamyces salicicola Thirum., F. Kern & B.V. Patil SPECIES
-=======
+# Hiratsukamyces salaciicola Thirum., F. Kern & B.V. Patil, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 27(1-6): 80 (1975)
 
 #### Original name
-Hiratsukamyces salicicola Thirum., F. Kern & B.V. Patil
+Hiratsukamyces salaciicola Thirum., F. Kern & B.V. Patil, 1975
 
 ### Remarks
 null

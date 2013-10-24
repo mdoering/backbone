@@ -1,5 +1,4 @@
-Tricholomopsis lividipileata P.G. Liu SPECIES
-=======
+# Tricholomopsis lividipileata P.G. Liu SPECIES
 
 #### Status
 ACCEPTED

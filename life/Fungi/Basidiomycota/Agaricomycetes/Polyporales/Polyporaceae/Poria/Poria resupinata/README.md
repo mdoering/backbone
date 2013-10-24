@@ -1,5 +1,4 @@
-Poria resupinata (Massee) W.G. Sm. SPECIES
-=======
+# Poria resupinata (Massee) W.G. Sm. SPECIES
 
 #### Status
 ACCEPTED

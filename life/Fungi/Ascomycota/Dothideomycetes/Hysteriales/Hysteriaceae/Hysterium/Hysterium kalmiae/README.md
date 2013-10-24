@@ -1,5 +1,4 @@
-Hysterium kalmiae Schwein. ex Fr. SPECIES
-=======
+# Hysterium kalmiae Schwein. ex Fr. SPECIES
 
 #### Status
 ACCEPTED

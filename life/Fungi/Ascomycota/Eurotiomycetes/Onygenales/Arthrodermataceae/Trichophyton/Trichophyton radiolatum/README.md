@@ -1,5 +1,4 @@
-Trichophyton radiolatum Sabour. SPECIES
-=======
+# Trichophyton radiolatum Sabour. SPECIES
 
 #### Status
 ACCEPTED

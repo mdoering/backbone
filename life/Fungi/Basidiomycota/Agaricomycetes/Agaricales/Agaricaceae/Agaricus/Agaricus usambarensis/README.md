@@ -1,5 +1,4 @@
-Agaricus usambarensis Eichelb. SPECIES
-=======
+# Agaricus usambarensis Eichelb. SPECIES
 
 #### Status
 ACCEPTED

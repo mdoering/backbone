@@ -1,17 +1,16 @@
-Orbilia chrysocoma var. chrysocoma VARIETY
-=======
+# Dacrymyces chrysocomus (Bull.) Tul., 1860 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 624 (1889)
+Outl. Brit. Fung. (London) 291 (1860)
 
 #### Original name
-Orbilia chrysocoma var. chrysocoma
+null
 
 ### Remarks
 null

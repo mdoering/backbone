@@ -1,5 +1,4 @@
-Parmelia dendritica var. dendritica VARIETY
-=======
+# Parmelia dendritica Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia dendritica var. dendritica
+Parmelia dendritica Pers.
 
 ### Remarks
 null

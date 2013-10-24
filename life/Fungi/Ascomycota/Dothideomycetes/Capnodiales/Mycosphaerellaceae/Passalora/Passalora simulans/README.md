@@ -1,5 +1,4 @@
-Passalora simulans (Ellis & Kellerm.) U. Braun SPECIES
-=======
+# Passalora simulans (Ellis & Kellerm.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

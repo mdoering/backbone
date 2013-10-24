@@ -1,5 +1,4 @@
-Mycena kuthanii Singer SPECIES
-=======
+# Mycena kuthanii Singer SPECIES
 
 #### Status
 ACCEPTED

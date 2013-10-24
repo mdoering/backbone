@@ -1,5 +1,4 @@
-Extremocystis Setna, 1931 GENUS
-=======
+# Extremocystis Setna, 1931 GENUS
 
 #### Status
 ACCEPTED

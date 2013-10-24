@@ -1,5 +1,4 @@
-Aikinetocystidae Bhatia, 1930 FAMILY
-=======
+# Aikinetocystidae Bhatia, 1930 FAMILY
 
 #### Status
 ACCEPTED

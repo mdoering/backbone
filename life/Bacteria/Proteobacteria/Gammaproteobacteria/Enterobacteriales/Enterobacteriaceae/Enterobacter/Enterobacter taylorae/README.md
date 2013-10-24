@@ -1,5 +1,4 @@
-Enterobacter taylorae Farmer et al., 1985 SPECIES
-=======
+# Enterobacter taylorae Farmer et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

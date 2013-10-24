@@ -1,5 +1,4 @@
-Ramalina lanceolata var. lanceolata VARIETY
-=======
+# Ramalina lanceolata Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ramalina lanceolata var. lanceolata
+Ramalina lanceolata Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ascochyta tritici Hori & Enjoji SPECIES
-=======
+# Ascochyta tritici Hori & Enjoji SPECIES
 
 #### Status
 ACCEPTED

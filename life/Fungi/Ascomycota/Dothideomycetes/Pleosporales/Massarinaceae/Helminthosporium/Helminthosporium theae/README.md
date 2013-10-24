@@ -1,17 +1,16 @@
-Helmisporium theae G.E. Bernard SPECIES
-=======
+# Helminthosporium theae G.E. Bernard SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beitr. Naturk. Forsch. Südwestdeutschl. 11: 30 (1907)
 
 #### Original name
-Helmisporium theae G.E. Bernard
+Helminthosporium theae G.E. Bernard
 
 ### Remarks
 null

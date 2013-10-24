@@ -1,5 +1,4 @@
-Caloplaca barchalovii Oxner SPECIES
-=======
+# Caloplaca barchalovii Oxner SPECIES
 
 #### Status
 ACCEPTED

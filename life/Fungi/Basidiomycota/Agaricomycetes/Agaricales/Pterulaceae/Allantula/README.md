@@ -1,5 +1,4 @@
-Allantula Corner GENUS
-=======
+# Allantula Corner GENUS
 
 #### Status
 ACCEPTED

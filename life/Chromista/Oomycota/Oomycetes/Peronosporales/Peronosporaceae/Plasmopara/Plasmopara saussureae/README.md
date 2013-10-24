@@ -1,5 +1,4 @@
-Plasmopara saussureae Novot. SPECIES
-=======
+# Plasmopara saussureae Novot. SPECIES
 
 #### Status
 ACCEPTED

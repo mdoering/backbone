@@ -1,5 +1,4 @@
-Dehalospirillum Scholz-Muramatsu et al., 2002 GENUS
-=======
+# Dehalospirillum Scholz-Muramatsu et al., 2002 GENUS
 
 #### Status
 ACCEPTED

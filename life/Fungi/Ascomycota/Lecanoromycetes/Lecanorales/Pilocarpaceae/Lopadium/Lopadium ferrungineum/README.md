@@ -1,5 +1,4 @@
-Lopadium ferrungineum SPECIES
-=======
+# Lopadium ferrungineum SPECIES
 
 #### Status
 ACCEPTED

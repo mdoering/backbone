@@ -1,17 +1,16 @@
-Sticta argyracea f. argyracea FORM
-=======
+# Pseudocyphellaria argyracea (Delise) Vain. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Soc. Linn. Calvados 2: 91 (1825)
+Hedwigia 37: 35 (1898)
 
 #### Original name
-Sticta argyracea f. argyracea
+Sticta argyracea Delise
 
 ### Remarks
 null

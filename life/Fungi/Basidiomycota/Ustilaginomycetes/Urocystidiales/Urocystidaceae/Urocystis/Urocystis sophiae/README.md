@@ -1,5 +1,4 @@
-Urocystis sophiae Griffiths SPECIES
-=======
+# Urocystis sophiae Griffiths SPECIES
 
 #### Status
 ACCEPTED

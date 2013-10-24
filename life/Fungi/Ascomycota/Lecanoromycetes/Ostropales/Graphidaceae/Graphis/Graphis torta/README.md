@@ -1,5 +1,4 @@
-Graphis torta Zahlbr. SPECIES
-=======
+# Graphis torta Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

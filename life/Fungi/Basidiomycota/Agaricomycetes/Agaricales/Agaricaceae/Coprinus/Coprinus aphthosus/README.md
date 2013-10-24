@@ -1,5 +1,4 @@
-Coprinus aphthosus Fr. SPECIES
-=======
+# Coprinus aphthosus Fr. SPECIES
 
 #### Status
 ACCEPTED

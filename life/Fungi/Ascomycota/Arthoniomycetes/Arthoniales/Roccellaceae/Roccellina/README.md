@@ -1,17 +1,16 @@
-Lobodirina Follmann GENUS
-=======
+# Roccellina Darb. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 14: 234 (1968)
+Ber. dt. bot. Ges. 16: 11, 14 (1898)
 
 #### Original name
-Lobodirina Follmann
+Roccellina Darb.
 
 ### Remarks
 null

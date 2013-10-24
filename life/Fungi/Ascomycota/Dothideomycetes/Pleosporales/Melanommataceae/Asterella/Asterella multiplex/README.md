@@ -1,5 +1,4 @@
-Asterella multiplex (Rehm) Sacc. & Trotter SPECIES
-=======
+# Asterella multiplex (Rehm) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

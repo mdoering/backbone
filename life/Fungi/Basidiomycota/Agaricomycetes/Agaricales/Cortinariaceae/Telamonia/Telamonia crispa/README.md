@@ -1,5 +1,4 @@
-Telamonia crispa Velen. SPECIES
-=======
+# Telamonia crispa Velen. SPECIES
 
 #### Status
 ACCEPTED

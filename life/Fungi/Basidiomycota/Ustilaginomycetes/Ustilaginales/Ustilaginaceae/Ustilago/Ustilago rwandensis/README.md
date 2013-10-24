@@ -1,5 +1,4 @@
-Ustilago rwandensis T. Majewski & K.A. Nowak SPECIES
-=======
+# Ustilago rwandensis T. Majewski & K.A. Nowak SPECIES
 
 #### Status
 ACCEPTED

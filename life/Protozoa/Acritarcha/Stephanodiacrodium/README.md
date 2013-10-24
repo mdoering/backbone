@@ -1,5 +1,4 @@
-Stephanodiacrodium Vavrdová, 1986 GENUS
-=======
+# Stephanodiacrodium Vavrdová, 1986 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Renatina I.A. Pjanovskaya, 1981 GENUS
-=======
+# Renatina I.A. Pjanovskaya, 1981 GENUS
 
 #### Status
 ACCEPTED

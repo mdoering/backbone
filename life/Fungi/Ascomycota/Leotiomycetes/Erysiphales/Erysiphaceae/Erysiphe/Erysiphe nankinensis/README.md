@@ -1,5 +1,4 @@
-Erysiphe nankinensis (F.L. Tai) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe nankinensis (F.L. Tai) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

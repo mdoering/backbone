@@ -1,5 +1,4 @@
-Trichothecium floccosum Harz SPECIES
-=======
+# Trichothecium floccosum Harz SPECIES
 
 #### Status
 ACCEPTED

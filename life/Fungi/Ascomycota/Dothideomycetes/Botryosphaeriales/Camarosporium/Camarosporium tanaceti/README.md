@@ -1,5 +1,4 @@
-Camarosporium tanaceti Oudem. SPECIES
-=======
+# Camarosporium tanaceti Oudem. SPECIES
 
 #### Status
 ACCEPTED

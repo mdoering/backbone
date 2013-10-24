@@ -1,5 +1,4 @@
-Sphingopyxis flavimaris Yoon & Oh, 2005 SPECIES
-=======
+# Sphingopyxis flavimaris Yoon & Oh, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zythia xanthella Curzi & Barbaini SPECIES
-=======
+# Zythia xanthella Curzi & Barbaini SPECIES
 
 #### Status
 ACCEPTED

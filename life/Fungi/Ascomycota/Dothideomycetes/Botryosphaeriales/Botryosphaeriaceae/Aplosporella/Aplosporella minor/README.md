@@ -1,5 +1,4 @@
-Aplosporella minor Ellis & Barthol. SPECIES
-=======
+# Aplosporella minor Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

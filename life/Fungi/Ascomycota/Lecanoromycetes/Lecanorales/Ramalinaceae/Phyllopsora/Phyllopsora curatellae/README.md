@@ -1,5 +1,4 @@
-Phyllopsora curatellae (Malme) Gotth. Schneid. SPECIES
-=======
+# Phyllopsora curatellae (Malme) Gotth. Schneid. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Limacinia fuliginoides (Rehm) Sacc. SPECIES
-=======
+# Limacinia fuliginoides (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

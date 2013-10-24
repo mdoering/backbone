@@ -1,5 +1,4 @@
-Licmophora ovata (W. Smith) Grunow SPECIES
-=======
+# Licmophora ovata (W. Smith) Grunow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogiopsis reticulata (Mont.) Müll. Arg. SPECIES
-=======
+# Leptogiopsis reticulata (Mont.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

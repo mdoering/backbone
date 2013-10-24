@@ -1,5 +1,4 @@
-Sporotrichum peckii Sacc. SPECIES
-=======
+# Sporotrichum peckii Sacc. SPECIES
 
 #### Status
 ACCEPTED

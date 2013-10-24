@@ -1,5 +1,4 @@
-Doratomyces verrucisporus Y.L. Jiang & T.Y. Zhang SPECIES
-=======
+# Doratomyces verrucisporus Y.L. Jiang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

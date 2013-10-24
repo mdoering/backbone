@@ -1,5 +1,4 @@
-Sticta nashii D.J. Galloway SPECIES
-=======
+# Sticta nashii D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

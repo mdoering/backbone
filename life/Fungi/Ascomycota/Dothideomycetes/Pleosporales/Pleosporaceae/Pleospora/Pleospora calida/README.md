@@ -1,5 +1,4 @@
-Pleospora calida Penz. & Sacc. SPECIES
-=======
+# Pleospora calida Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

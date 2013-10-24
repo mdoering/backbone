@@ -1,5 +1,4 @@
-Tremella dulaciana Roum. SPECIES
-=======
+# Tremella dulaciana Roum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nodulisporium verticillioides (Corda) S. Hughes SPECIES
-=======
+# Nodulisporium verticillioides (Corda) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

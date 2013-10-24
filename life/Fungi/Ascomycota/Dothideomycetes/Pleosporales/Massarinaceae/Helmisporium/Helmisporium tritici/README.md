@@ -1,5 +1,4 @@
-Helmisporium tritici Brond. SPECIES
-=======
+# Helmisporium tritici Brond. SPECIES
 
 #### Status
 ACCEPTED

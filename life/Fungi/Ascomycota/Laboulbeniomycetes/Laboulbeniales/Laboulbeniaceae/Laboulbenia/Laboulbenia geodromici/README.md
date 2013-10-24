@@ -1,5 +1,4 @@
-Laboulbenia geodromici Baumgartner SPECIES
-=======
+# Laboulbenia geodromici Baumgartner SPECIES
 
 #### Status
 ACCEPTED

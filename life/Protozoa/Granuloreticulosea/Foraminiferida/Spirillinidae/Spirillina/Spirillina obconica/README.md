@@ -1,5 +1,4 @@
-Spirillina obconica Brady, 1879 SPECIES
-=======
+# Spirillina obconica Brady, 1879 SPECIES
 
 #### Status
 ACCEPTED

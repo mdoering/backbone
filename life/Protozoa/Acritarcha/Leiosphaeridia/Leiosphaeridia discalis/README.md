@@ -1,5 +1,4 @@
-Leiosphaeridia discalis Rasul, 1979 SPECIES
-=======
+# Leiosphaeridia discalis Rasul, 1979 SPECIES
 
 #### Status
 ACCEPTED

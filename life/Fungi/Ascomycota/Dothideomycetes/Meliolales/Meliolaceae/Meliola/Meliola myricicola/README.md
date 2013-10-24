@@ -1,5 +1,4 @@
-Meliola myricicola Hansf. SPECIES
-=======
+# Meliola myricicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

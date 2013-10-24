@@ -1,5 +1,4 @@
-Dothichiza alnicola Petr. SPECIES
-=======
+# Dothichiza alnicola Petr. SPECIES
 
 #### Status
 ACCEPTED

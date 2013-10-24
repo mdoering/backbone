@@ -1,5 +1,4 @@
-Uredo machaeriicola Cummins SPECIES
-=======
+# Uredo machaeriicola Cummins SPECIES
 
 #### Status
 ACCEPTED

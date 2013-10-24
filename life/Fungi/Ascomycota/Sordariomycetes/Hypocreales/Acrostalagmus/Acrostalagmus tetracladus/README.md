@@ -1,8 +1,7 @@
-Acrostalagmus tetraclados A.L. Sm. SPECIES
-=======
+# Acrostalagmus tetracladus A.L. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Acrostalagmus tetraclados A.L. Sm.
+Acrostalagmus tetracladus A.L. Sm.
 
 ### Remarks
 null

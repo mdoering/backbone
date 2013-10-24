@@ -1,5 +1,4 @@
-Stigmella atriplicis Oudem. SPECIES
-=======
+# Stigmella atriplicis Oudem. SPECIES
 
 #### Status
 ACCEPTED

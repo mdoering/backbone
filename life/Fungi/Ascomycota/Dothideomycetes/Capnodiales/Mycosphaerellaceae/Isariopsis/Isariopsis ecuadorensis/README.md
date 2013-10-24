@@ -1,5 +1,4 @@
-Isariopsis ecuadorensis (Syd.) U. Braun SPECIES
-=======
+# Isariopsis ecuadorensis (Syd.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

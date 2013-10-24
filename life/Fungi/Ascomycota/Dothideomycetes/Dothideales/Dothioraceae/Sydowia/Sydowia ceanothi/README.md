@@ -1,5 +1,4 @@
-Sydowia ceanothi M.E. Barr SPECIES
-=======
+# Sydowia ceanothi M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eutypella leaiana (Berk.) Sacc. SPECIES
-=======
+# Eutypella leaiana (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

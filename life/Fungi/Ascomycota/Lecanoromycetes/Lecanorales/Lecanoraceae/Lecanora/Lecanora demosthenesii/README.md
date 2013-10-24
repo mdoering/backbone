@@ -1,5 +1,4 @@
-Lecanora demosthenesii Lumbsch & Messuti SPECIES
-=======
+# Lecanora demosthenesii Lumbsch & Messuti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusicladium theae Hara SPECIES
-=======
+# Fusicladium theae Hara SPECIES
 
 #### Status
 ACCEPTED

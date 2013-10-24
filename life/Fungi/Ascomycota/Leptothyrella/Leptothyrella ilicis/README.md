@@ -1,5 +1,4 @@
-Leptothyrella ilicis Henn. SPECIES
-=======
+# Leptothyrella ilicis Henn. SPECIES
 
 #### Status
 ACCEPTED

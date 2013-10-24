@@ -1,5 +1,4 @@
-Spheconisca barbata Norman ex Bachm. SPECIES
-=======
+# Spheconisca barbata Norman ex Bachm. SPECIES
 
 #### Status
 ACCEPTED

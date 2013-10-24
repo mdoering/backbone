@@ -1,5 +1,4 @@
-Volvaria viperina (Fr.) Gillet SPECIES
-=======
+# Volvaria viperina (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

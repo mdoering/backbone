@@ -1,14 +1,13 @@
-Cetraria andrejevii Oxner SPECIES
-=======
+# Arctocetraria andrejevii (Oxner) Kärnefelt & A. Thell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-J. Bot. Acad. Sci. RSS Ukraine 1(3-4): 44 (1940)
+Bryologist 96(3): 402 (1993)
 
 #### Original name
 Cetraria andrejevii Oxner

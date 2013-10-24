@@ -1,5 +1,4 @@
-Lecanora kjachtensis J. Steiner SPECIES
-=======
+# Lecanora kjachtensis J. Steiner SPECIES
 
 #### Status
 ACCEPTED

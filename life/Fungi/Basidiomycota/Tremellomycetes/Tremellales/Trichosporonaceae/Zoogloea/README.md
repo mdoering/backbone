@@ -1,5 +1,4 @@
-Zoogloea Eberth, 1873 GENUS
-=======
+# Zoogloea Eberth, 1873 GENUS
 
 #### Status
 ACCEPTED

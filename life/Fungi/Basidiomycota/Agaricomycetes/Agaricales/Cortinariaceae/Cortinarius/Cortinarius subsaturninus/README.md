@@ -1,5 +1,4 @@
-Cortinarius subsaturninus Rob. Henry SPECIES
-=======
+# Cortinarius subsaturninus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

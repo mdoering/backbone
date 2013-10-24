@@ -1,5 +1,4 @@
-Coprinus affinis P. Karst. SPECIES
-=======
+# Coprinus affinis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

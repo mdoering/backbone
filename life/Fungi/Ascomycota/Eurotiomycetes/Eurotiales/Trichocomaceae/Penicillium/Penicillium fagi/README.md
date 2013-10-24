@@ -1,5 +1,4 @@
-Penicillium fagi A.T. Martínez & C. Ramírez SPECIES
-=======
+# Penicillium fagi A.T. Martínez & C. Ramírez SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma prostratum (Cleland) E. Horak SPECIES
-=======
+# Entoloma prostratum (Cleland) E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thyridium tuberculatum Rehm SPECIES
-=======
+# Thyridium tuberculatum Rehm SPECIES
 
 #### Status
 ACCEPTED

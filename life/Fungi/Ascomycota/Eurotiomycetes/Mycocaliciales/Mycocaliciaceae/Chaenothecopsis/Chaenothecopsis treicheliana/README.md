@@ -1,5 +1,4 @@
-Chaenothecopsis treicheliana (Stein) Kalb SPECIES
-=======
+# Chaenothecopsis treicheliana (Stein) Kalb SPECIES
 
 #### Status
 ACCEPTED

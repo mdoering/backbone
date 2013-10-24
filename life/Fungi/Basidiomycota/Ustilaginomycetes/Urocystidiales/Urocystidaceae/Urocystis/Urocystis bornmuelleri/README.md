@@ -1,5 +1,4 @@
-Urocystis bornmuelleri Magnus SPECIES
-=======
+# Urocystis bornmuelleri Magnus SPECIES
 
 #### Status
 ACCEPTED

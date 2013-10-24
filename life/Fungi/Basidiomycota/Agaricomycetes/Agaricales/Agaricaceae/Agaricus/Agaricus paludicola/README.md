@@ -1,5 +1,4 @@
-Agaricus paludicola Britzelm. SPECIES
-=======
+# Agaricus paludicola Britzelm. SPECIES
 
 #### Status
 ACCEPTED

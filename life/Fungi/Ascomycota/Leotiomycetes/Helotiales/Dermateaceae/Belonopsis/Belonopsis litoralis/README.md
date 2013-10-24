@@ -1,5 +1,4 @@
-Belonopsis litoralis ined. SPECIES
-=======
+# Belonopsis litoralis ined. SPECIES
 
 #### Status
 ACCEPTED

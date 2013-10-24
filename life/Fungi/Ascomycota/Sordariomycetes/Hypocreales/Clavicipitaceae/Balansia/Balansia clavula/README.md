@@ -1,5 +1,4 @@
-Balansia clavula (Berk. & M.A. Curtis) Lloyd SPECIES
-=======
+# Balansia clavula (Berk. & M.A. Curtis) Lloyd SPECIES
 
 #### Status
 ACCEPTED

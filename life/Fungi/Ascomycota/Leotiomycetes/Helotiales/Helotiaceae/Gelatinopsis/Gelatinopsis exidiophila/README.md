@@ -1,5 +1,4 @@
-Gelatinopsis exidiophila Baral & G. Marson SPECIES
-=======
+# Gelatinopsis exidiophila Baral & G. Marson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Niesslia erysipheoides (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Niesslia erysiphoides (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 46: 50 (1993)
 
 #### Original name
 Venturia erysiphoides Ellis & Everh.

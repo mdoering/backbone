@@ -1,5 +1,4 @@
-Pterula importata Henn. SPECIES
-=======
+# Pterula importata Henn. SPECIES
 
 #### Status
 ACCEPTED

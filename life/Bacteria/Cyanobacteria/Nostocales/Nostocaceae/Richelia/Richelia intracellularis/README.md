@@ -1,5 +1,4 @@
-Richelia intracellularis J. Schmidt SPECIES
-=======
+# Richelia intracellularis J. Schmidt SPECIES
 
 #### Status
 ACCEPTED

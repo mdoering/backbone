@@ -1,5 +1,4 @@
-Patellaria sigmoidea Müll. Arg. SPECIES
-=======
+# Patellaria sigmoidea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

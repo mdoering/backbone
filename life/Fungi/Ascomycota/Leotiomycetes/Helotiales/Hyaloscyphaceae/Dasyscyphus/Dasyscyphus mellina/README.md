@@ -1,5 +1,4 @@
-Dasyscyphus mellina (Penz. & Sacc.) Höhn. SPECIES
-=======
+# Dasyscyphus mellina (Penz. & Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

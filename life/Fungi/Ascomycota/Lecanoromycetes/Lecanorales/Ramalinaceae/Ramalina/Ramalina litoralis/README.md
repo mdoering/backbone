@@ -1,5 +1,4 @@
-Ramalina litoralis Asahina SPECIES
-=======
+# Ramalina litoralis Asahina SPECIES
 
 #### Status
 ACCEPTED

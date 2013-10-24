@@ -1,5 +1,4 @@
-Rotula striguloides (Nyl.) Müll. Arg. SPECIES
-=======
+# Rotula striguloides (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

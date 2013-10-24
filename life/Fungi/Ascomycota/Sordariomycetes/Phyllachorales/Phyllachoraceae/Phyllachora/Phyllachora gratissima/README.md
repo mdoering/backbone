@@ -1,5 +1,4 @@
-Phyllachora gratissima Rehm, 1892 SPECIES
-=======
+# Phyllachora gratissima Rehm, 1892 SPECIES
 
 #### Status
 ACCEPTED

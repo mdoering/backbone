@@ -1,5 +1,4 @@
-Inonotus shichiana (Teng & L. Ling) Teng SPECIES
-=======
+# Inonotus shichiana (Teng & L. Ling) Teng SPECIES
 
 #### Status
 ACCEPTED

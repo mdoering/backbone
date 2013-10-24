@@ -1,5 +1,4 @@
-Phloeospora verbesinae Syd. SPECIES
-=======
+# Phloeospora verbesinae Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizomorpha pinnata Pers. SPECIES
-=======
+# Rhizomorpha pinnata Pers. SPECIES
 
 #### Status
 ACCEPTED

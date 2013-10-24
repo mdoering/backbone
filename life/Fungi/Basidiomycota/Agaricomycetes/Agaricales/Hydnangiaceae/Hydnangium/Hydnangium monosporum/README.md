@@ -1,5 +1,4 @@
-Hydnangium monosporum Boud. & Pat. SPECIES
-=======
+# Hydnangium monosporum Boud. & Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe zangherii Bres. SPECIES
-=======
+# Inocybe zangherii Bres. SPECIES
 
 #### Status
 ACCEPTED

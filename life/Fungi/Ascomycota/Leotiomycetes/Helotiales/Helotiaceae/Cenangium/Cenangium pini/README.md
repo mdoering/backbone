@@ -1,5 +1,4 @@
-Cenangium pini Sawada SPECIES
-=======
+# Cenangium pini Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synchytrium johansonii Juel SPECIES
-=======
+# Synchytrium johansonii Juel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alloiozona Hsiung, 1930 GENUS
-=======
+# Alloiozona Hsiung, 1930 GENUS
 
 #### Status
 ACCEPTED

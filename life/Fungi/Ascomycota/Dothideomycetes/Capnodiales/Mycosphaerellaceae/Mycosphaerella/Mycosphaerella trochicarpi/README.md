@@ -1,5 +1,4 @@
-Mycosphaerella trochicarpi Rehm SPECIES
-=======
+# Mycosphaerella trochicarpi Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triloculina barnardi Haig, 1988 SPECIES
-=======
+# Triloculina barnardi Haig, 1988 SPECIES
 
 #### Status
 ACCEPTED

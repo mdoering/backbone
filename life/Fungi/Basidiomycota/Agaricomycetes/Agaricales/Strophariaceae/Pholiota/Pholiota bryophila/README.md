@@ -1,5 +1,4 @@
-Pholiota bryophila Murrill SPECIES
-=======
+# Pholiota bryophila Murrill SPECIES
 
 #### Status
 ACCEPTED

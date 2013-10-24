@@ -1,5 +1,4 @@
-Astrosporina alboviscida E. Horak SPECIES
-=======
+# Astrosporina alboviscida E. Horak SPECIES
 
 #### Status
 ACCEPTED

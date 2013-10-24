@@ -1,5 +1,4 @@
-Cannopilus antarcticus P. F. Ciesielski SPECIES
-=======
+# Cannopilus antarcticus P. F. Ciesielski SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyota pfaffii Schnetter SPECIES
-=======
+# Dictyota pfaffii Schnetter SPECIES
 
 #### Status
 ACCEPTED

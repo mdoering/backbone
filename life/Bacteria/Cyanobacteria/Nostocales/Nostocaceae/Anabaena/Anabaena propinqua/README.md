@@ -1,5 +1,4 @@
-Anabaena propinqua Setchell & N.L. Gardner SPECIES
-=======
+# Anabaena propinqua Setchell & N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

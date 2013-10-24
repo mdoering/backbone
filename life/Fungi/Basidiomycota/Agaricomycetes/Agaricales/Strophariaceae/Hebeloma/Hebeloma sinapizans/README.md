@@ -1,17 +1,16 @@
-Hebeloma sinapizans var. sinapizans VARIETY
-=======
+# Hebeloma sinapizans (Fr.) Sacc., 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syll. fung. (Abellini) 5: 799 (1887)
 
 #### Original name
-Hebeloma sinapizans var. sinapizans
+Agaricus sinapizans Fr., 1838
 
 ### Remarks
 null

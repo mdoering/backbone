@@ -1,5 +1,4 @@
-Phoma jasiones Thüm. SPECIES
-=======
+# Phoma jasiones Thüm. SPECIES
 
 #### Status
 ACCEPTED

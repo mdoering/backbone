@@ -1,5 +1,4 @@
-Aspicilia conglomerans (Nyl.) Kernst. SPECIES
-=======
+# Aspicilia conglomerans (Nyl.) Kernst. SPECIES
 
 #### Status
 ACCEPTED

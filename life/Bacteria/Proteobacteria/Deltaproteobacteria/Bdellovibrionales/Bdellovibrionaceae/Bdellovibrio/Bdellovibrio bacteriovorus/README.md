@@ -1,5 +1,4 @@
-Bdellovibrio bacteriovorus Stolp and Starr, 1963 (Approved Lists, 1980) SPECIES
-=======
+# Bdellovibrio bacteriovorus Stolp and Starr, 1963 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

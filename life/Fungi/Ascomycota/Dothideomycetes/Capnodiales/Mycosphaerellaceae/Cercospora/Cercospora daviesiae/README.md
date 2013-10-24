@@ -1,5 +1,4 @@
-Cercospora daviesiae Cooke & Massee SPECIES
-=======
+# Cercospora daviesiae Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

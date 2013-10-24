@@ -1,5 +1,4 @@
-Laboulbenia cyrtomatis Balazuc SPECIES
-=======
+# Laboulbenia cyrtomatis Balazuc SPECIES
 
 #### Status
 ACCEPTED

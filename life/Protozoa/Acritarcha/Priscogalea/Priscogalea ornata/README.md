@@ -1,5 +1,4 @@
-Priscogalea ornata Pöthé de Baldis, 1974 SPECIES
-=======
+# Priscogalea ornata Pöthé de Baldis, 1974 SPECIES
 
 #### Status
 ACCEPTED

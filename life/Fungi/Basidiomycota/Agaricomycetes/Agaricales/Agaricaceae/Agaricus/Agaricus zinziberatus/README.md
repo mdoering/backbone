@@ -1,5 +1,4 @@
-Agaricus zinziberatus Scop. SPECIES
-=======
+# Agaricus zinziberatus Scop. SPECIES
 
 #### Status
 ACCEPTED

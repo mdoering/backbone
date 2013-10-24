@@ -1,5 +1,4 @@
-Exobasidium emeritense Dennis SPECIES
-=======
+# Exobasidium emeritense Dennis SPECIES
 
 #### Status
 ACCEPTED

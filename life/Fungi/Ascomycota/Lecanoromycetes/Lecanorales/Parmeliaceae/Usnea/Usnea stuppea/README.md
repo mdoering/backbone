@@ -1,5 +1,4 @@
-Usnea stuppea (Räsänen) Motyka SPECIES
-=======
+# Usnea stuppea (Räsänen) Motyka SPECIES
 
 #### Status
 ACCEPTED

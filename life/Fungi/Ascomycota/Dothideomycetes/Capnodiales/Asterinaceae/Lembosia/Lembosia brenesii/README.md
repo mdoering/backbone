@@ -1,5 +1,4 @@
-Lembosia brenesii Petr. SPECIES
-=======
+# Lembosia brenesii Petr. SPECIES
 
 #### Status
 ACCEPTED

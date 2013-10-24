@@ -1,5 +1,4 @@
-Sarcographina farinulenta Zahlbr. SPECIES
-=======
+# Sarcographina farinulenta Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

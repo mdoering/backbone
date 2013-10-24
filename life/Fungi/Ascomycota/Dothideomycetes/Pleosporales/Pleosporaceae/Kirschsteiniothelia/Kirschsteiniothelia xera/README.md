@@ -1,5 +1,4 @@
-Kirschsteiniothelia xera (Fairm.) You Z. Wang, Aptroot & K.D. Hyde SPECIES
-=======
+# Kirschsteiniothelia xera (Fairm.) You Z. Wang, Aptroot & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

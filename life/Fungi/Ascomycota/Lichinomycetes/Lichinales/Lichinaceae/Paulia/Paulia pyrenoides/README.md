@@ -1,5 +1,4 @@
-Paulia pyrenoides (Nyl.) Henssen SPECIES
-=======
+# Paulia pyrenoides (Nyl.) Henssen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Taphrina populi-salicis Mix, 1947 SPECIES
-=======
+# Taphrina populi-salicis Mix, 1947 SPECIES
 
 #### Status
 ACCEPTED

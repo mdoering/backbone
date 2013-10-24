@@ -1,5 +1,4 @@
-Lagena protea Chaster SPECIES
-=======
+# Lagena protea Chaster SPECIES
 
 #### Status
 ACCEPTED

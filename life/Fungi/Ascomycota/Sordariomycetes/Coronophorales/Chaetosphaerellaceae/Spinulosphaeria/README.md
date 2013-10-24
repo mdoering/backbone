@@ -1,5 +1,4 @@
-Spinulosphaeria Sivan. GENUS
-=======
+# Spinulosphaeria Sivan. GENUS
 
 #### Status
 ACCEPTED

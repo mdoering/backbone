@@ -1,5 +1,4 @@
-Auricula tremellosa (Fr.) Kuntze SPECIES
-=======
+# Auricula tremellosa (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

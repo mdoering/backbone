@@ -1,5 +1,4 @@
-Acanthobasidium Oberwinkler, 1965 GENUS
-=======
+# Acanthobasidium Oberwinkler, 1965 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peyritschiella cafiana (Thaxt.) I.I. Tav. SPECIES
-=======
+# Peyritschiella cafiana (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

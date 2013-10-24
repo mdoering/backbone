@@ -1,5 +1,4 @@
-Actinomucor kuwaitiensis (ddddd) anon. ined. SPECIES
-=======
+# Actinomucor kuwaitiensis (ddddd) anon. ined. SPECIES
 
 #### Status
 ACCEPTED

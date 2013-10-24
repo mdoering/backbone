@@ -1,5 +1,4 @@
-Cellypha berkeleyi Massee ex W.B. Cooke SPECIES
-=======
+# Cellypha berkeleyi Massee ex W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

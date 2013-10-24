@@ -1,5 +1,4 @@
-Boletus laetissimus Hongo SPECIES
-=======
+# Boletus laetissimus Hongo SPECIES
 
 #### Status
 ACCEPTED

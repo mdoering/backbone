@@ -1,5 +1,4 @@
-Pseudomassilina pacificensis (Cushman) SPECIES
-=======
+# Pseudomassilina pacificensis (Cushman) SPECIES
 
 #### Status
 ACCEPTED

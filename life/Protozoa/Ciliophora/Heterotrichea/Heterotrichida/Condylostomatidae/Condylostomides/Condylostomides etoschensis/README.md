@@ -1,5 +1,4 @@
-Condylostomides etoschensis Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Condylostomides etoschensis Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

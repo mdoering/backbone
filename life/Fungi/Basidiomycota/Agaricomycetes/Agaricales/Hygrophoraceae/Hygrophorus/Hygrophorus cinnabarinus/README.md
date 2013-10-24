@@ -1,5 +1,4 @@
-Hygrophorus cinnabarinus Schwein. SPECIES
-=======
+# Hygrophorus cinnabarinus Schwein. SPECIES
 
 #### Status
 ACCEPTED

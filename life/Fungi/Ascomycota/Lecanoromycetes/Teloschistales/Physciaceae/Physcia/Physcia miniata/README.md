@@ -1,5 +1,4 @@
-Physcia miniata (Hoffm.) A. Massal. SPECIES
-=======
+# Physcia miniata (Hoffm.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

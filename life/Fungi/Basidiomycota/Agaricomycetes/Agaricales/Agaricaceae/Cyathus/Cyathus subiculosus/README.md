@@ -1,5 +1,4 @@
-Cyathus subiculosus J. Kickx f. SPECIES
-=======
+# Cyathus subiculosus J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED

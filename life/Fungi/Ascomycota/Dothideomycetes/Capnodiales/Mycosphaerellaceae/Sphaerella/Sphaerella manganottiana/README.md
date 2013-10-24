@@ -1,5 +1,4 @@
-Sphaerella manganottiana C. Massal. SPECIES
-=======
+# Sphaerella manganottiana C. Massal. SPECIES
 
 #### Status
 ACCEPTED

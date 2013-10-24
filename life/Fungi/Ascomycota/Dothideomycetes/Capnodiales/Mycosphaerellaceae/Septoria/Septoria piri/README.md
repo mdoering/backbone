@@ -1,5 +1,4 @@
-Septoria piri I. Miyake SPECIES
-=======
+# Septoria piri I. Miyake SPECIES
 
 #### Status
 ACCEPTED

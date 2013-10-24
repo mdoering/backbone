@@ -1,5 +1,4 @@
-Cortinarius scabrosporus M.M. Moser SPECIES
-=======
+# Cortinarius scabrosporus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

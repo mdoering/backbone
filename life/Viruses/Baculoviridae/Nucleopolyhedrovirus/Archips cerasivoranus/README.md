@@ -1,5 +1,4 @@
-Archips cerasivoranus Npv SPECIES
-=======
+# Archips cerasivoranus Npv SPECIES
 
 #### Status
 ACCEPTED

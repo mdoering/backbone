@@ -1,5 +1,4 @@
-Cylindrosporium australe Speg. SPECIES
-=======
+# Cylindrosporium australe Speg. SPECIES
 
 #### Status
 ACCEPTED

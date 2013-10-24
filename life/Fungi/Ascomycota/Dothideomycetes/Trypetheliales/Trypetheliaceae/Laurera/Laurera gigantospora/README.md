@@ -1,5 +1,4 @@
-Laurera gigantospora (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Laurera gigantospora (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

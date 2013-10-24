@@ -1,5 +1,4 @@
-Squamaria australis (Arnold) H. Olivier SPECIES
-=======
+# Squamaria australis (Arnold) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

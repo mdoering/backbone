@@ -1,5 +1,4 @@
-Lecaniella melanophaea (Anzi) Jatta SPECIES
-=======
+# Lecaniella melanophaea (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micromastix Frenzel, 1892 GENUS
-=======
+# Micromastix Frenzel, 1892 GENUS
 
 #### Status
 ACCEPTED

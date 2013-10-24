@@ -1,8 +1,7 @@
-Dictyota radicans Harvey SPECIES
-=======
+# Dictyota prolifera J.V. Lamouroux SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

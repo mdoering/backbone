@@ -1,17 +1,16 @@
-Gloeosporium helicis var. helicis VARIETY
-=======
+# Colletotrichum helicis (Desm.) Morgan-Jones, 1971 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 49(11): 1931 (1971)
 
 #### Original name
-Gloeosporium helicis var. helicis
+Cheilaria helicis Desm., 1847
 
 ### Remarks
 null

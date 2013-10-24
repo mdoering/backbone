@@ -1,5 +1,4 @@
-Sarcosphaera ulbrichiana (Durieu & Mont.) Kirschst. SPECIES
-=======
+# Sarcosphaera ulbrichiana (Durieu & Mont.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

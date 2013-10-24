@@ -1,5 +1,4 @@
-Fomes leprosus (Fr.) Sacc. SPECIES
-=======
+# Fomes leprosus (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

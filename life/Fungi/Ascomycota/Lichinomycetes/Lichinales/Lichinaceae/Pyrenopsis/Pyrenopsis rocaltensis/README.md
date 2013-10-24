@@ -1,5 +1,4 @@
-Pyrenopsis rocaltensis Couderc SPECIES
-=======
+# Pyrenopsis rocaltensis Couderc SPECIES
 
 #### Status
 ACCEPTED

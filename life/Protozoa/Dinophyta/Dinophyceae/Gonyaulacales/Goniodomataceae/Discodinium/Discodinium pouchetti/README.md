@@ -1,5 +1,4 @@
-Discodinium pouchetti P.A. Dangeard SPECIES
-=======
+# Discodinium pouchetti P.A. Dangeard SPECIES
 
 #### Status
 ACCEPTED

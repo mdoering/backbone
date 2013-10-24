@@ -1,17 +1,16 @@
-Phaeographina montagnei f. montagnei FORM
-=======
+# Thecaria montagnei (Bosch) Staiger SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 85: 446 (2002)
 
 #### Original name
-Phaeographina montagnei f. montagnei
+Graphis montagnei Bosch
 
 ### Remarks
 null

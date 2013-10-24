@@ -1,5 +1,4 @@
-Trigonomonas Klebs, 1892 GENUS
-=======
+# Trigonomonas Klebs, 1892 GENUS
 
 #### Status
 ACCEPTED

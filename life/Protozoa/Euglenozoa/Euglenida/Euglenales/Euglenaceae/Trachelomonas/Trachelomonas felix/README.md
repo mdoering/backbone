@@ -1,5 +1,4 @@
-Trachelomonas felix Skvortzov SPECIES
-=======
+# Trachelomonas felix Skvortzov SPECIES
 
 #### Status
 ACCEPTED

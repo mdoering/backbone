@@ -1,17 +1,16 @@
-Fusarium pyrochroum (Desm.) Sacc., 1879 SPECIES
-=======
+# Calonectria pyrochroa (Desm.) Sacc., 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 5): 534 (1879)
+Michelia 1(no. 3): 308 (1878)
 
 #### Original name
-Selenosporium pyrochroum Desm., 1850
+Nectria pyrochroa Desm., 1856
 
 ### Remarks
 null

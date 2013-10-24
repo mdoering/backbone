@@ -1,17 +1,16 @@
-Sphaeria yuccogena Cooke SPECIES
-=======
+# Sphaeria yuccigena Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 7(no. 41): 12 (1878)
 
 #### Original name
-Sphaeria yuccogena Cooke
+Sphaeria yuccigena Cooke
 
 ### Remarks
 null

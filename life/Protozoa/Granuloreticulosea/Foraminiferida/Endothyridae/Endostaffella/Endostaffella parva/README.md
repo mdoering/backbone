@@ -1,5 +1,4 @@
-Endostaffella parva SPECIES
-=======
+# Endostaffella parva SPECIES
 
 #### Status
 ACCEPTED

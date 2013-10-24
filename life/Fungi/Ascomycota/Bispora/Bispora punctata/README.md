@@ -1,5 +1,4 @@
-Bispora punctata (Corda) G. Arnaud SPECIES
-=======
+# Bispora punctata (Corda) G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

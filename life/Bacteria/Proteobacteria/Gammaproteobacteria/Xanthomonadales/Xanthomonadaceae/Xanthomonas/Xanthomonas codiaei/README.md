@@ -1,5 +1,4 @@
-Xanthomonas codiaei Vauterin et al., 1995 SPECIES
-=======
+# Xanthomonas codiaei Vauterin et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

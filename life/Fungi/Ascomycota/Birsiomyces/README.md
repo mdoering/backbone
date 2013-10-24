@@ -1,5 +1,4 @@
-Birsiomyces F. Schaarschm. GENUS
-=======
+# Birsiomyces F. Schaarschm. GENUS
 
 #### Status
 ACCEPTED

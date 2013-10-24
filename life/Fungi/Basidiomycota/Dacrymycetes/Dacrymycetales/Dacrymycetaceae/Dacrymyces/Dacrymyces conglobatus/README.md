@@ -1,5 +1,4 @@
-Dacrymyces conglobatus Peck SPECIES
-=======
+# Dacrymyces conglobatus Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opercularia acilii SPECIES
-=======
+# Opercularia acilii SPECIES
 
 #### Status
 ACCEPTED

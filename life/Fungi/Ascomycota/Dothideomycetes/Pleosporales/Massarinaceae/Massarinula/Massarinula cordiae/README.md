@@ -1,5 +1,4 @@
-Massarinula cordiae Rehm SPECIES
-=======
+# Massarinula cordiae Rehm SPECIES
 
 #### Status
 ACCEPTED

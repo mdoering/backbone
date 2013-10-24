@@ -1,5 +1,4 @@
-Oudemansiella subnigra Singer SPECIES
-=======
+# Oudemansiella subnigra Singer SPECIES
 
 #### Status
 ACCEPTED

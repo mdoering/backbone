@@ -1,17 +1,16 @@
-Amazonia rogergoosiae B. Song, T.H. Li & Hosag. SPECIES
-=======
+# Amazonia rogergoosii B. Song, T.H. Li & Hosag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 84: 121 (2002)
 
 #### Original name
-Amazonia rogergoosiae B. Song, T.H. Li & Hosag.
+Amazonia rogergoosii B. Song, T.H. Li & Hosag.
 
 ### Remarks
 null

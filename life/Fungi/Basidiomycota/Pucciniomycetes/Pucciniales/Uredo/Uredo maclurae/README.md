@@ -1,5 +1,4 @@
-Uredo maclurae Speg. SPECIES
-=======
+# Uredo maclurae Speg. SPECIES
 
 #### Status
 ACCEPTED

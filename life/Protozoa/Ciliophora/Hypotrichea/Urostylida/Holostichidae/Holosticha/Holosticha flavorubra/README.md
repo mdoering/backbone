@@ -1,5 +1,4 @@
-Holosticha flavorubra subsp. flavorubra SUBSPECIES
-=======
+# Holosticha flavorubra SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pestalotia funerea var. funerea VARIETY
-=======
+# Pestalotiopsis funerea (Desm.) Steyaert, 1949 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Jard. bot. État Brux. 19(3): 340 (1949)
 
 #### Original name
-null
+Pestalotia funerea Desm., 1843
 
 ### Remarks
 null

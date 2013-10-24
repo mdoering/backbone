@@ -1,5 +1,4 @@
-Puccinia pelargonii (Thüm.) Syd. SPECIES
-=======
+# Puccinia pelargonii (Thüm.) Syd. SPECIES
 
 #### Status
 ACCEPTED

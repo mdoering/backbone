@@ -1,5 +1,4 @@
-Psorotichia areolata Zwackh SPECIES
-=======
+# Psorotichia areolata Zwackh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus cinnamomeotinctus P.D. Orton, 1988 SPECIES
-=======
+# Coprinus cinnamomeotinctus P.D. Orton, 1988 SPECIES
 
 #### Status
 ACCEPTED

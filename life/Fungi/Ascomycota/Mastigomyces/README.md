@@ -1,5 +1,4 @@
-Mastigomyces Imshenetski & Kriss, 1933 GENUS
-=======
+# Mastigomyces Imshenetski & Kriss, 1933 GENUS
 
 #### Status
 ACCEPTED

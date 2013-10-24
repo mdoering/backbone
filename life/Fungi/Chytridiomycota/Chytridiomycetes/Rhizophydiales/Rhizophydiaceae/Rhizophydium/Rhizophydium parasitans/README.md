@@ -1,5 +1,4 @@
-Rhizophydium parasitans Scherff. SPECIES
-=======
+# Rhizophydium parasitans Scherff. SPECIES
 
 #### Status
 ACCEPTED

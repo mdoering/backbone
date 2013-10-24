@@ -1,5 +1,4 @@
-Porina alpina (Bagl. & Carestia) Lettau SPECIES
-=======
+# Porina alpina (Bagl. & Carestia) Lettau SPECIES
 
 #### Status
 ACCEPTED

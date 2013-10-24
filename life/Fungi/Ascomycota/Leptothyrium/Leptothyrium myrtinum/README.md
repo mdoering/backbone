@@ -1,5 +1,4 @@
-Leptothyrium myrtinum (Durieu & Mont.) Speg. SPECIES
-=======
+# Leptothyrium myrtinum (Durieu & Mont.) Speg. SPECIES
 
 #### Status
 ACCEPTED

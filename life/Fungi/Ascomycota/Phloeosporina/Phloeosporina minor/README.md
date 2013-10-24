@@ -1,14 +1,13 @@
-Cylindrosporium minor Ellis & Kellerm., 1887 SPECIES
-=======
+# Phloeosporina minor (Ellis & Kellerm.) Höhn., 1916 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Öst. bot. Z. 66: 107 (1916)
 
 #### Original name
 Cylindrosporium minor Ellis & Kellerm., 1887

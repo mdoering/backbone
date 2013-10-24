@@ -1,5 +1,4 @@
-Diatrypella orgaoensis Henn. SPECIES
-=======
+# Diatrypella orgaoensis Henn. SPECIES
 
 #### Status
 ACCEPTED

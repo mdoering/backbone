@@ -1,5 +1,4 @@
-Rhizopogon shanxiensis B. Liu SPECIES
-=======
+# Rhizopogon shanxiensis B. Liu SPECIES
 
 #### Status
 ACCEPTED

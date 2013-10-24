@@ -1,8 +1,7 @@
-Valsa castanicola Berk. & M.A. Curtis SPECIES
-=======
+# Valsa castaneicola Berk. & M.A. Curtis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Valsa castanicola Berk. & M.A. Curtis
+Valsa castaneicola Berk. & M.A. Curtis
 
 ### Remarks
 null

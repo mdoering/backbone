@@ -1,5 +1,4 @@
-Hypochnus sordidus Schrad. SPECIES
-=======
+# Hypochnus sordidus Schrad. SPECIES
 
 #### Status
 ACCEPTED

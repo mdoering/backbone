@@ -1,5 +1,4 @@
-Periconia heveae J.A. Stev. & Imle SPECIES
-=======
+# Periconia heveae J.A. Stev. & Imle SPECIES
 
 #### Status
 ACCEPTED

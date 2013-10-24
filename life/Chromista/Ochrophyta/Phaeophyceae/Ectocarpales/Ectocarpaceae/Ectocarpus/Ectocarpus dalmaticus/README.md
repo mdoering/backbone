@@ -1,5 +1,4 @@
-Ectocarpus dalmaticus Ercegovic SPECIES
-=======
+# Ectocarpus dalmaticus Ercegovic SPECIES
 
 #### Status
 ACCEPTED

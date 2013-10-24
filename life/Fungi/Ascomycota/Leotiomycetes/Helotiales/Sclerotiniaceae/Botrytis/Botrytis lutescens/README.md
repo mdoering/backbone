@@ -1,5 +1,4 @@
-Botrytis lutescens Sacc. & Roum., 1882 SPECIES
-=======
+# Botrytis lutescens Sacc. & Roum., 1882 SPECIES
 
 #### Status
 ACCEPTED

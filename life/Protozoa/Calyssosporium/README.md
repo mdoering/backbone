@@ -1,5 +1,4 @@
-Calyssosporium Corda GENUS
-=======
+# Calyssosporium Corda GENUS
 
 #### Status
 ACCEPTED

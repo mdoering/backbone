@@ -1,5 +1,4 @@
-Pyrenopeziza araliae Höhn. SPECIES
-=======
+# Pyrenopeziza araliae Höhn. SPECIES
 
 #### Status
 ACCEPTED

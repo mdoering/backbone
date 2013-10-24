@@ -1,5 +1,4 @@
-Tephrosticta negeriana (Sacc., Syd. & P. Syd.) Syd. & P. Syd. SPECIES
-=======
+# Tephrosticta negeriana (Sacc., Syd. & P. Syd.) Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

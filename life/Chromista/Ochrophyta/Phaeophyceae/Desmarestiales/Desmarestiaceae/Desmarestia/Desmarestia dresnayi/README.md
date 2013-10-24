@@ -1,11 +1,10 @@
-Desmarestia dudresnayi SPECIES
-=======
+# Desmarestia dresnayi J.V. Lamouroux ex Leman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

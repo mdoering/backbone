@@ -1,5 +1,4 @@
-Coniosporium rigidum (Corda) Sacc. SPECIES
-=======
+# Coniosporium rigidum (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

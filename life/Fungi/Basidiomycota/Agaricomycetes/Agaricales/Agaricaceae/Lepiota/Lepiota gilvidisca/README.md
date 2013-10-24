@@ -1,5 +1,4 @@
-Lepiota gilvidisca Murrill SPECIES
-=======
+# Lepiota gilvidisca Murrill SPECIES
 
 #### Status
 ACCEPTED

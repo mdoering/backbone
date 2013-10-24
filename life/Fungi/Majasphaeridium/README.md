@@ -1,5 +1,4 @@
-Majasphaeridium T.N. Hermann in B.S. Sokolov, 1979 GENUS
-=======
+# Majasphaeridium T.N. Hermann in B.S. Sokolov, 1979 GENUS
 
 #### Status
 ACCEPTED

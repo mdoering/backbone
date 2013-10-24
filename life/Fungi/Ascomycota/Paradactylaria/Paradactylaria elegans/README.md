@@ -1,5 +1,4 @@
-Paradactylaria elegans Subram. & Sudha, 1989 SPECIES
-=======
+# Paradactylaria elegans Subram. & Sudha, 1989 SPECIES
 
 #### Status
 ACCEPTED

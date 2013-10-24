@@ -1,5 +1,4 @@
-Sphaceloma randii Jenkins & Bitanc. SPECIES
-=======
+# Sphaceloma randii Jenkins & Bitanc. SPECIES
 
 #### Status
 ACCEPTED

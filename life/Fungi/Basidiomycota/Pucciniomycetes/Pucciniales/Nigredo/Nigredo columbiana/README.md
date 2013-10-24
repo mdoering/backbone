@@ -1,5 +1,4 @@
-Nigredo columbiana (Mayor) Arthur SPECIES
-=======
+# Nigredo columbiana (Mayor) Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Claviceps orthocladae (Henn.) Diehl SPECIES
-=======
+# Claviceps orthocladae (Henn.) Diehl SPECIES
 
 #### Status
 ACCEPTED

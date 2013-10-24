@@ -1,5 +1,4 @@
-Asterella microtheca (Pat.) Sacc. SPECIES
-=======
+# Asterella microtheca (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

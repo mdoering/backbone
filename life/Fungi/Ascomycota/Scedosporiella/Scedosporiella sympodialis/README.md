@@ -1,5 +1,4 @@
-Scedosporiella sympodialis Gilgado et al. {?} SPECIES
-=======
+# Scedosporiella sympodialis Gilgado et al. {?} SPECIES
 
 #### Status
 ACCEPTED

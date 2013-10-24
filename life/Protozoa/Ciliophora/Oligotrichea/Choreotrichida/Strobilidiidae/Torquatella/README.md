@@ -1,5 +1,4 @@
-Torquatella Lankester, 1874 GENUS
-=======
+# Torquatella Lankester, 1874 GENUS
 
 #### Status
 ACCEPTED

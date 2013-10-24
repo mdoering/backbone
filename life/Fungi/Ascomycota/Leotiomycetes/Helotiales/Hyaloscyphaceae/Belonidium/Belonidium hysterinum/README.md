@@ -1,5 +1,4 @@
-Belonidium hysterinum Speg. SPECIES
-=======
+# Belonidium hysterinum Speg. SPECIES
 
 #### Status
 ACCEPTED

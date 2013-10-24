@@ -1,5 +1,4 @@
-Pholiota ornatula (Murrill) A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota ornatula (Murrill) A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

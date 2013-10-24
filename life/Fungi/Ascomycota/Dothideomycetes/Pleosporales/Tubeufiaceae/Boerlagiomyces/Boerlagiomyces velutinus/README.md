@@ -1,14 +1,13 @@
-Boerlagella velutina Penz. & Sacc., 1897 SPECIES
-=======
+# Boerlagiomyces velutinus (Penz. & Sacc.) Butzin, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Malpighia 11: 404 (1897)
+Willdenowia 8(1): 39 (1977)
 
 #### Original name
 Boerlagella velutina Penz. & Sacc., 1897

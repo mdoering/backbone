@@ -1,14 +1,13 @@
-Coniochaeta obliquata (Sommerf.) Minter, 2007 SPECIES
-=======
+# Rosellinia obliquata (Sommerf.) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Minter & Kirk, IMI Descr. Fungi Bact. 174(nos 1731-1740): [1] (2007)
+Syll. fung. (Abellini) 1: 260 (1882)
 
 #### Original name
 Sphaeria obliquata Sommerf., 1826

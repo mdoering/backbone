@@ -1,5 +1,4 @@
-Belonidium tympanoides Ellis & Everh. SPECIES
-=======
+# Belonidium tympanoides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

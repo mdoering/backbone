@@ -1,5 +1,4 @@
-Matsakision Bonnet, 1967 GENUS
-=======
+# Matsakision Bonnet, 1967 GENUS
 
 #### Status
 ACCEPTED

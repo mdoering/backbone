@@ -1,17 +1,16 @@
-Meliola spatholobii Hosag., H. Biju & Manojk. SPECIES
-=======
+# Meliola spatholobi Hosag., H. Biju & Manojk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Hosagoudar, Journal of Mycopathological Research 43(1): 30 (2005)
 
 #### Original name
-Meliola spatholobii Hosag., H. Biju & Manojk.
+Meliola spatholobi Hosag., H. Biju & Manojk.
 
 ### Remarks
 null

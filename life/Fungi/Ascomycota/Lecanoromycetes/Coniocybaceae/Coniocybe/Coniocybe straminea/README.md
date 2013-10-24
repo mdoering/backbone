@@ -1,5 +1,4 @@
-Coniocybe straminea Vain. SPECIES
-=======
+# Coniocybe straminea Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia mixta Schwein. SPECIES
-=======
+# Diplodia mixta Schwein. SPECIES
 
 #### Status
 ACCEPTED

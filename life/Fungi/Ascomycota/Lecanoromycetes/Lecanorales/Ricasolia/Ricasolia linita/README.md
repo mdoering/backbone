@@ -1,5 +1,4 @@
-Ricasolia linita (Ach.) Trevis. SPECIES
-=======
+# Ricasolia linita (Ach.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

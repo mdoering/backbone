@@ -1,5 +1,4 @@
-Septoria maesae Tassi SPECIES
-=======
+# Septoria maesae Tassi SPECIES
 
 #### Status
 ACCEPTED

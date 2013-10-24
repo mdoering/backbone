@@ -1,5 +1,4 @@
-Ramularia dispar Davis SPECIES
-=======
+# Ramularia dispar Davis SPECIES
 
 #### Status
 ACCEPTED

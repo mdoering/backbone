@@ -1,5 +1,4 @@
-Graphis geraënsis Redinger SPECIES
-=======
+# Graphis geraënsis Redinger SPECIES
 
 #### Status
 ACCEPTED

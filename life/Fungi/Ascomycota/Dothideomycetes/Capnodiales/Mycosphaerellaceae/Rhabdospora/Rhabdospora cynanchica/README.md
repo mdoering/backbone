@@ -1,5 +1,4 @@
-Rhabdospora cynanchica Sacc. SPECIES
-=======
+# Rhabdospora cynanchica Sacc. SPECIES
 
 #### Status
 ACCEPTED

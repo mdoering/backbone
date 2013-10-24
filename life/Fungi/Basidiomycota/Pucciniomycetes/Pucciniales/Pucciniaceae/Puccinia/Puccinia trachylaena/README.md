@@ -1,5 +1,4 @@
-Puccinia trachylaena Syd. SPECIES
-=======
+# Puccinia trachylaena Syd. SPECIES
 
 #### Status
 ACCEPTED

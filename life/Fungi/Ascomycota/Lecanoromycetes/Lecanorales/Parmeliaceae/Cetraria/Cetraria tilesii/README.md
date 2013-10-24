@@ -1,5 +1,4 @@
-Cetraria tilesii Ach. SPECIES
-=======
+# Cetraria tilesii Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mirandina arnaudii P.M. Kirk, 1986 SPECIES
-=======
+# Mirandina arnaudii P.M. Kirk, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphidinium aureum Böhm, 1976 SPECIES
-=======
+# Amphidinium aureum Böhm, 1976 SPECIES
 
 #### Status
 ACCEPTED

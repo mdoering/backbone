@@ -1,5 +1,4 @@
-Micronectria guaranitica Speg. SPECIES
-=======
+# Micronectria guaranitica Speg. SPECIES
 
 #### Status
 ACCEPTED

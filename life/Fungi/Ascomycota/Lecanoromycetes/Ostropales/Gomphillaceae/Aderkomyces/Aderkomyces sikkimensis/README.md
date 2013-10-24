@@ -1,5 +1,4 @@
-Aderkomyces sikkimensis Pinokiyo, Kr.P. Singh & Lücking SPECIES
-=======
+# Aderkomyces sikkimensis Pinokiyo, Kr.P. Singh & Lücking SPECIES
 
 #### Status
 ACCEPTED

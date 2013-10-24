@@ -1,5 +1,4 @@
-Coprinus aratus Berk. & Broome SPECIES
-=======
+# Coprinus aratus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

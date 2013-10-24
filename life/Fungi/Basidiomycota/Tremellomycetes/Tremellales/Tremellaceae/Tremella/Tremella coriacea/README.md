@@ -1,5 +1,4 @@
-Tremella coriacea Bres. SPECIES
-=======
+# Tremella coriacea Bres. SPECIES
 
 #### Status
 ACCEPTED

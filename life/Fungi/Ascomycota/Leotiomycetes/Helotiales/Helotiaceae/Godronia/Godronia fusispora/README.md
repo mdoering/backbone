@@ -1,5 +1,4 @@
-Godronia fusispora (Ellis & Everh.) Seaver SPECIES
-=======
+# Godronia fusispora (Ellis & Everh.) Seaver SPECIES
 
 #### Status
 ACCEPTED

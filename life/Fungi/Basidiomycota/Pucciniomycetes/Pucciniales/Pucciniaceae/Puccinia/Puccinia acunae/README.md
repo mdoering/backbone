@@ -1,5 +1,4 @@
-Puccinia acunae Z. Urb. SPECIES
-=======
+# Puccinia acunae Z. Urb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium rotundimaculatum Sawada SPECIES
-=======
+# Gloeosporium rotundimaculatum Sawada SPECIES
 
 #### Status
 ACCEPTED

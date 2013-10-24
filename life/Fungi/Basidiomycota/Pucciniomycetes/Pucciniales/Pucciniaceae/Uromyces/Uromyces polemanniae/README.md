@@ -1,5 +1,4 @@
-Uromyces polemanniae Kalchbr. & Cooke SPECIES
-=======
+# Uromyces polemanniae Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

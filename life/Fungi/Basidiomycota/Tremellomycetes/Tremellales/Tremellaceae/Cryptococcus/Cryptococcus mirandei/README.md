@@ -1,5 +1,4 @@
-Cryptococcus mirandei Velu SPECIES
-=======
+# Cryptococcus mirandei Velu SPECIES
 
 #### Status
 ACCEPTED

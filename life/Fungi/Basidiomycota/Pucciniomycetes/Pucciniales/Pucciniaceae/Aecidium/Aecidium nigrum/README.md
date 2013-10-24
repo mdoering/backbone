@@ -1,5 +1,4 @@
-Aecidium nigrum Pers. SPECIES
-=======
+# Aecidium nigrum Pers. SPECIES
 
 #### Status
 ACCEPTED

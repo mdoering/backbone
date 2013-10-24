@@ -1,5 +1,4 @@
-Secoliga peziza (Mont.) Arnold SPECIES
-=======
+# Secoliga peziza (Mont.) Arnold SPECIES
 
 #### Status
 ACCEPTED

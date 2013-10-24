@@ -1,5 +1,4 @@
-Gloeotulasnella griseorubella (Litsch.) Pilát SPECIES
-=======
+# Gloeotulasnella griseorubella (Litsch.) Pilát SPECIES
 
 #### Status
 ACCEPTED

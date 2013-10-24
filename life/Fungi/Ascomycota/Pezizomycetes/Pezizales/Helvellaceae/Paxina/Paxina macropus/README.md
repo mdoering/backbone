@@ -1,5 +1,4 @@
-Paxina macropus (Clem.) Seaver SPECIES
-=======
+# Paxina macropus (Clem.) Seaver SPECIES
 
 #### Status
 ACCEPTED

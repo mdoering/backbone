@@ -1,5 +1,4 @@
-Oidium lagasceae Chidd. SPECIES
-=======
+# Oidium lagasceae Chidd. SPECIES
 
 #### Status
 ACCEPTED

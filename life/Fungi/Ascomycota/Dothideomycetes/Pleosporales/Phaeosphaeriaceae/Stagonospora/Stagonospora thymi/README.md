@@ -1,5 +1,4 @@
-Stagonospora thymi Gucevic SPECIES
-=======
+# Stagonospora thymi Gucevic SPECIES
 
 #### Status
 ACCEPTED

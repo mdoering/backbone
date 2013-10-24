@@ -1,5 +1,4 @@
-Lactarius sciaphilus Verbeken & C. Sharp SPECIES
-=======
+# Lactarius sciaphilus Verbeken & C. Sharp SPECIES
 
 #### Status
 ACCEPTED

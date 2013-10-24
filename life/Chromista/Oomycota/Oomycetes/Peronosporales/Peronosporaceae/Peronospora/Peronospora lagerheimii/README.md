@@ -1,5 +1,4 @@
-Peronospora lagerheimii Gäum. SPECIES
-=======
+# Peronospora lagerheimii Gäum. SPECIES
 
 #### Status
 ACCEPTED

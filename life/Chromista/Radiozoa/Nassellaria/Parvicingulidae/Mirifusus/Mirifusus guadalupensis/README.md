@@ -1,5 +1,4 @@
-Mirifusus guadalupensis SPECIES
-=======
+# Mirifusus guadalupensis SPECIES
 
 #### Status
 ACCEPTED

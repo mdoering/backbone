@@ -1,5 +1,4 @@
-Caloplaca bolanderi (Tuck.) H. Magn. SPECIES
-=======
+# Caloplaca bolanderi (Tuck.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

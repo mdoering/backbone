@@ -1,5 +1,4 @@
-Syngenosorus eschweileri Trevis. SPECIES
-=======
+# Syngenosorus eschweileri Trevis. SPECIES
 
 #### Status
 ACCEPTED

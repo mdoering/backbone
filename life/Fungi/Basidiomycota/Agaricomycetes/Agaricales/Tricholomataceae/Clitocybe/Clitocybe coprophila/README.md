@@ -1,5 +1,4 @@
-Clitocybe coprophila Speg. SPECIES
-=======
+# Clitocybe coprophila Speg. SPECIES
 
 #### Status
 ACCEPTED

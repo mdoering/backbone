@@ -1,5 +1,4 @@
-Conchomyces verrucisporus Overeem, 1927 SPECIES
-=======
+# Conchomyces verrucisporus Overeem, 1927 SPECIES
 
 #### Status
 ACCEPTED

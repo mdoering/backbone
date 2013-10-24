@@ -1,5 +1,4 @@
-Cordyceps polyarthra Möller SPECIES
-=======
+# Cordyceps polyarthra Möller SPECIES
 
 #### Status
 ACCEPTED

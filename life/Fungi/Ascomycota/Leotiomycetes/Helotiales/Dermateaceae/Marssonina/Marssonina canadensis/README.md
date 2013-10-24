@@ -1,5 +1,4 @@
-Marssonina canadensis A.T. Bolton SPECIES
-=======
+# Marssonina canadensis A.T. Bolton SPECIES
 
 #### Status
 ACCEPTED

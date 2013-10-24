@@ -1,5 +1,4 @@
-Cercosporella mimosae Pat. SPECIES
-=======
+# Cercosporella mimosae Pat. SPECIES
 
 #### Status
 ACCEPTED

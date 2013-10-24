@@ -1,5 +1,4 @@
-Kameshwaromyces butiicolus R.K. Verma & N. Sharma SPECIES
-=======
+# Kameshwaromyces butiicolus R.K. Verma & N. Sharma SPECIES
 
 #### Status
 ACCEPTED

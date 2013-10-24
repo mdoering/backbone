@@ -1,5 +1,4 @@
-Spraguea Weissenberg, 1976 GENUS
-=======
+# Spraguea Weissenberg, 1976 GENUS
 
 #### Status
 ACCEPTED

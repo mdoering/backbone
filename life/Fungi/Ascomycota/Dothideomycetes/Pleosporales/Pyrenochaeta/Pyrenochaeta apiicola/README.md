@@ -1,5 +1,4 @@
-Pyrenochaeta apiicola Laib. SPECIES
-=======
+# Pyrenochaeta apiicola Laib. SPECIES
 
 #### Status
 ACCEPTED

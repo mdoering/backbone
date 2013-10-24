@@ -1,5 +1,4 @@
-Globorotalia opima SPECIES
-=======
+# Globorotalia opima SPECIES
 
 #### Status
 ACCEPTED

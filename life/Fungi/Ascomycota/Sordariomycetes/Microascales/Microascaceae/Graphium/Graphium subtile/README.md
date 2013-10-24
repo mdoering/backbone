@@ -1,5 +1,4 @@
-Graphium subtile var. subtile VARIETY
-=======
+# Graphium subtile Berl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Graphium subtile var. subtile
+Graphium subtile Berl.
 
 ### Remarks
 null

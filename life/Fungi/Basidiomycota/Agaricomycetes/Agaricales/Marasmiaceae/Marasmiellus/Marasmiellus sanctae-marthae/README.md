@@ -1,5 +1,4 @@
-Marasmiellus sanctae-marthae Singer SPECIES
-=======
+# Marasmiellus sanctae-marthae Singer SPECIES
 
 #### Status
 ACCEPTED

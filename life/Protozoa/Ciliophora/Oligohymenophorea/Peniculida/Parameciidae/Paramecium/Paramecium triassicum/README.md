@@ -1,5 +1,4 @@
-Paramecium triassicum Foissner & Schönborn in §, 1999 SPECIES
-=======
+# Paramecium triassicum Foissner & Schönborn in §, 1999 SPECIES
 
 #### Status
 ACCEPTED

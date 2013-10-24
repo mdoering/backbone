@@ -1,5 +1,4 @@
-Diplodina callicarpae Tassi SPECIES
-=======
+# Diplodina callicarpae Tassi SPECIES
 
 #### Status
 ACCEPTED

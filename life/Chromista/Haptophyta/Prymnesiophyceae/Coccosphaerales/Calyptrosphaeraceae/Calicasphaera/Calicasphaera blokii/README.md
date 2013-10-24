@@ -1,5 +1,4 @@
-Calicasphaera blokii A. Kleijne SPECIES
-=======
+# Calicasphaera blokii A. Kleijne SPECIES
 
 #### Status
 ACCEPTED

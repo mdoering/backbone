@@ -1,5 +1,4 @@
-Sphaeronaema marrubii Durieu & Mont. SPECIES
-=======
+# Sphaeronaema marrubii Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

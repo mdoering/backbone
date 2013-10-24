@@ -1,5 +1,4 @@
-Irenopsis sidae var. sidae VARIETY
-=======
+# Irenopsis sidae (Rehm) S. Hughes SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycol. Pap. 48: 44 (1952)
 
 #### Original name
-Irenopsis sidae var. sidae
+Meliola sidae Rehm
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Reinholdella GENUS
-=======
+# Reinholdella GENUS
 
 #### Status
 ACCEPTED

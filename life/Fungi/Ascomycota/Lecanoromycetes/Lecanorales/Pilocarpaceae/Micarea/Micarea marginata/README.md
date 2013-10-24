@@ -1,5 +1,4 @@
-Micarea marginata Coppins & Muhr SPECIES
-=======
+# Micarea marginata Coppins & Muhr SPECIES
 
 #### Status
 ACCEPTED

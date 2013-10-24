@@ -1,5 +1,4 @@
-Phlegmacium subscaurum M.M. Moser SPECIES
-=======
+# Phlegmacium subscaurum M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

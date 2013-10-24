@@ -1,5 +1,4 @@
-Stilbum coffeae Zimm. SPECIES
-=======
+# Stilbum coffeae Zimm. SPECIES
 
 #### Status
 ACCEPTED

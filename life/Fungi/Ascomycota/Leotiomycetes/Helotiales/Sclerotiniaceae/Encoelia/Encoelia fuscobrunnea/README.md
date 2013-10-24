@@ -1,5 +1,4 @@
-Encoelia fuscobrunnea (Pat. & Gaillard) W.Y. Zhuang SPECIES
-=======
+# Encoelia fuscobrunnea (Pat. & Gaillard) W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

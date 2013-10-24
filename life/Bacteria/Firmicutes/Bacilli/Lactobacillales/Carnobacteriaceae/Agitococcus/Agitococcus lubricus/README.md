@@ -1,5 +1,4 @@
-Agitococcus lubricus Franzmann & Skerman, 1981 SPECIES
-=======
+# Agitococcus lubricus Franzmann & Skerman, 1981 SPECIES
 
 #### Status
 ACCEPTED

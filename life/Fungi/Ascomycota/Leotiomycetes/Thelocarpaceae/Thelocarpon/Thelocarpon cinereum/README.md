@@ -1,5 +1,4 @@
-Thelocarpon cinereum Eitner SPECIES
-=======
+# Thelocarpon cinereum Eitner SPECIES
 
 #### Status
 ACCEPTED

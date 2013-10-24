@@ -1,5 +1,4 @@
-Microsporidiopsis Schereschewsky GENUS
-=======
+# Microsporidiopsis Schereschewsky GENUS
 
 #### Status
 ACCEPTED

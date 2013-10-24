@@ -1,17 +1,16 @@
-Cercospora flacourticola P.C. Gupta SPECIES
-=======
+# Cercospora flacourtiicola P.C. Gupta SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Z. PflKrankh. PflPath. PflSchutz 80(6): 329 (1973)
 
 #### Original name
-Cercospora flacourticola P.C. Gupta
+Cercospora flacourtiicola P.C. Gupta
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Schadonia indica Upreti & Nayaka SPECIES
-=======
+# Schadonia indica Upreti & Nayaka SPECIES
 
 #### Status
 ACCEPTED

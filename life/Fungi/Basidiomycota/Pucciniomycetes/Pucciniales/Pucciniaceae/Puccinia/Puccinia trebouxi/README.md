@@ -1,5 +1,4 @@
-Puccinia trebouxi Petr. & Syd. SPECIES
-=======
+# Puccinia trebouxi Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

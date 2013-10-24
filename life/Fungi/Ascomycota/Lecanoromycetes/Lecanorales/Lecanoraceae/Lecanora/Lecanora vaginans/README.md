@@ -1,5 +1,4 @@
-Lecanora vaginans (Zahlbr.) H. Magn. SPECIES
-=======
+# Lecanora vaginans (Zahlbr.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

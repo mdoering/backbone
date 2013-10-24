@@ -1,5 +1,4 @@
-Pholiota basilei Mattir. SPECIES
-=======
+# Pholiota basilei Mattir. SPECIES
 
 #### Status
 ACCEPTED

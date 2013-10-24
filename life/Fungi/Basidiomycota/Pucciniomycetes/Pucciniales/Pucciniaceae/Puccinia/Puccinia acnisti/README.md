@@ -1,5 +1,4 @@
-Puccinia acnisti Arthur SPECIES
-=======
+# Puccinia acnisti Arthur SPECIES
 
 #### Status
 ACCEPTED

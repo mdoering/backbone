@@ -1,5 +1,4 @@
-Urceolaria synaptae Cuenot, 1890 SPECIES
-=======
+# Urceolaria synaptae Cuenot, 1890 SPECIES
 
 #### Status
 ACCEPTED

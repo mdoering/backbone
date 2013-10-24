@@ -1,5 +1,4 @@
-Uredo achyroclines Henn. SPECIES
-=======
+# Uredo achyroclines Henn. SPECIES
 
 #### Status
 ACCEPTED

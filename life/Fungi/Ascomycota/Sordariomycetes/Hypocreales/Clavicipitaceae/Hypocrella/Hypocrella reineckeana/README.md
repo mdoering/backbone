@@ -1,5 +1,4 @@
-Hypocrella reineckeana Henn. SPECIES
-=======
+# Hypocrella reineckeana Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanoleuca russuloides (Murrill) Murrill SPECIES
-=======
+# Melanoleuca russuloides (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

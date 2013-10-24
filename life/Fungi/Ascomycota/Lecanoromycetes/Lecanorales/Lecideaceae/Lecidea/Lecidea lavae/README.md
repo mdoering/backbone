@@ -1,5 +1,4 @@
-Lecidea lavae (Darb.) Zahlbr. SPECIES
-=======
+# Lecidea lavae (Darb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

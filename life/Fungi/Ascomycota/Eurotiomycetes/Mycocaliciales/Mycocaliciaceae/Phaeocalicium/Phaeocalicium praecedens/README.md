@@ -1,14 +1,13 @@
-Chaenotheca praecedens (Nyl.) Lindau SPECIES
-=======
+# Phaeocalicium praecedens (Nyl.) A. F. W. Schmidt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mitt. Staatsinst. Allg. Bot. Hamburg 13: 131 (1970)
 
 #### Original name
 Calicium praecedens Nyl.

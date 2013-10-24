@@ -1,5 +1,4 @@
-Triceratium tripartitum Grunow in Van Heurck, 1883 SPECIES
-=======
+# Triceratium tripartitum Grunow in Van Heurck, 1883 SPECIES
 
 #### Status
 ACCEPTED

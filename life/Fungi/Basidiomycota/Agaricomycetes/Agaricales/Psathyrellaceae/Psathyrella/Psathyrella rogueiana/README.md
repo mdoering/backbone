@@ -1,5 +1,4 @@
-Psathyrella rogueiana A.H. Sm. SPECIES
-=======
+# Psathyrella rogueiana A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia pseudoservitiana f. pseudoservitiana FORM
-=======
+# Parmelia pseudoservitiana Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia pseudoservitiana f. pseudoservitiana
+Parmelia pseudoservitiana Gyeln.
 
 ### Remarks
 null

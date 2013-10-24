@@ -1,5 +1,4 @@
-Sepedonium alboluteolum Sacc. & Marchal SPECIES
-=======
+# Sepedonium alboluteolum Sacc. & Marchal SPECIES
 
 #### Status
 ACCEPTED

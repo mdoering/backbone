@@ -1,5 +1,4 @@
-Puccinia pattersoniana Arthur SPECIES
-=======
+# Puccinia pattersoniana Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Characiopsis subulata (A.Braun) Borzi SPECIES
-=======
+# Characiopsis subulata (A.Braun) Borzi SPECIES
 
 #### Status
 ACCEPTED

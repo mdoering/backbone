@@ -1,5 +1,4 @@
-Pseudolachnea bubakii var. bubakii VARIETY
-=======
+# Pseudolachnea bubakii Ranoj. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls mycol. 8(3): 393 (1910)
 
 #### Original name
-Pseudolachnea bubakii var. bubakii
+Pseudolachnea bubakii Ranoj.
 
 ### Remarks
 null

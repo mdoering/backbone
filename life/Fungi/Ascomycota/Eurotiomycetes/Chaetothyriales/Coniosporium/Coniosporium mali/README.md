@@ -1,5 +1,4 @@
-Coniosporium mali Dearn. & W.R. Foster SPECIES
-=======
+# Coniosporium mali Dearn. & W.R. Foster SPECIES
 
 #### Status
 ACCEPTED

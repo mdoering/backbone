@@ -1,5 +1,4 @@
-Rinodina pyrenodesmoides Zahlbr. SPECIES
-=======
+# Rinodina pyrenodesmoides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

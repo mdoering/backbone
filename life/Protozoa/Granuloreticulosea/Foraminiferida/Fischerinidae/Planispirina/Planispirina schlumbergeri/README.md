@@ -1,5 +1,4 @@
-Planispirina schlumbergeri Sidebottom, 1904 SPECIES
-=======
+# Planispirina schlumbergeri Sidebottom, 1904 SPECIES
 
 #### Status
 ACCEPTED

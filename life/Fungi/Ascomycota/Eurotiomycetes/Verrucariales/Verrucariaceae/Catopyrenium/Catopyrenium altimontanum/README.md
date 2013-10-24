@@ -1,5 +1,4 @@
-Catopyrenium altimontanum N.S. Golubk. SPECIES
-=======
+# Catopyrenium altimontanum N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

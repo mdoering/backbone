@@ -1,5 +1,4 @@
-Micropeltis theobromae Bat. SPECIES
-=======
+# Micropeltis theobromae Bat. SPECIES
 
 #### Status
 ACCEPTED

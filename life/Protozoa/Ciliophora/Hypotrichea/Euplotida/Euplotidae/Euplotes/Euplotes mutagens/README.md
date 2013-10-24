@@ -1,5 +1,4 @@
-Euplotes mutagens SPECIES
-=======
+# Euplotes mutagens SPECIES
 
 #### Status
 ACCEPTED

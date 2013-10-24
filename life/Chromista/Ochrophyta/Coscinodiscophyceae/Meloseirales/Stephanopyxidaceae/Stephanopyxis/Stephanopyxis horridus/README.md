@@ -1,5 +1,4 @@
-Stephanopyxis horridus I. Koizumi SPECIES
-=======
+# Stephanopyxis horridus I. Koizumi SPECIES
 
 #### Status
 ACCEPTED

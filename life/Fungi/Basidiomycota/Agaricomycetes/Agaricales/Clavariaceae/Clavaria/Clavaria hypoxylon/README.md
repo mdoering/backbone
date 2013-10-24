@@ -1,5 +1,4 @@
-Clavaria hypoxylon Batsch SPECIES
-=======
+# Clavaria hypoxylon Batsch SPECIES
 
 #### Status
 ACCEPTED

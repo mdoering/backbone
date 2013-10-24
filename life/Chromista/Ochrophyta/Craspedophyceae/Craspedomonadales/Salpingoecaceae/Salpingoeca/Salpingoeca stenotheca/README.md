@@ -1,5 +1,4 @@
-Salpingoeca stenotheca Boucard Camou, 1967 SPECIES
-=======
+# Salpingoeca stenotheca Boucard Camou, 1967 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trametes minor Bres. SPECIES
-=======
+# Trametes minor Bres. SPECIES
 
 #### Status
 ACCEPTED

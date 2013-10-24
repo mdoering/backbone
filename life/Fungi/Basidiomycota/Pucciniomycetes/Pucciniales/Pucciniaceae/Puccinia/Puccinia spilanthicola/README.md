@@ -1,5 +1,4 @@
-Puccinia spilanthicola Mayor SPECIES
-=======
+# Puccinia spilanthicola Mayor SPECIES
 
 #### Status
 ACCEPTED

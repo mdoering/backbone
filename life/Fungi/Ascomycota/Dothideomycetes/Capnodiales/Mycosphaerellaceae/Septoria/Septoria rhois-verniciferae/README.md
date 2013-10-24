@@ -1,5 +1,4 @@
-Septoria rhois-verniciferae Elisei SPECIES
-=======
+# Septoria rhois-verniciferae Elisei SPECIES
 
 #### Status
 ACCEPTED

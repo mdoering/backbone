@@ -1,5 +1,4 @@
-Mucor variabilis A.K. Sarbhoy, 1965 SPECIES
-=======
+# Mucor variabilis A.K. Sarbhoy, 1965 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Entosordaria molleriana (G. Winter) Höhn. SPECIES
-=======
+# Entosordaria moelleriana (G. Winter) Höhn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 129: 166 (1920)
 
 #### Original name
 Anthostomella moelleriana Traverso & Spessa, 1910

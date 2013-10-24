@@ -1,5 +1,4 @@
-Lichen holocarpus Ehrh. SPECIES
-=======
+# Lichen holocarpus Ehrh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita gymnopus Corner & Bas SPECIES
-=======
+# Amanita gymnopus Corner & Bas SPECIES
 
 #### Status
 ACCEPTED

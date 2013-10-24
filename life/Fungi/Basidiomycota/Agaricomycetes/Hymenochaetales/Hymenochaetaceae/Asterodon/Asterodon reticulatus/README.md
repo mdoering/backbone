@@ -1,5 +1,4 @@
-Asterodon reticulatus Rick SPECIES
-=======
+# Asterodon reticulatus Rick SPECIES
 
 #### Status
 ACCEPTED

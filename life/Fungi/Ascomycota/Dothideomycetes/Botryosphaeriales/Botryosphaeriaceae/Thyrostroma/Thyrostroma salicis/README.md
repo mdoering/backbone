@@ -1,5 +1,4 @@
-Thyrostroma salicis Höhn. SPECIES
-=======
+# Thyrostroma salicis Höhn. SPECIES
 
 #### Status
 ACCEPTED

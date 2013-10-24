@@ -1,5 +1,4 @@
-Capronia potentillae (E. Müll.) E. Müll., Petrini, P.J. Fisher, Samuels & Rossman SPECIES
-=======
+# Capronia potentillae (E. Müll.) E. Müll., Petrini, P.J. Fisher, Samuels & Rossman SPECIES
 
 #### Status
 ACCEPTED

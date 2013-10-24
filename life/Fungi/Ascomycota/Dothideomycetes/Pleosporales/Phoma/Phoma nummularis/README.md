@@ -1,5 +1,4 @@
-Phoma nummularis anon. SPECIES
-=======
+# Phoma nummularis anon. SPECIES
 
 #### Status
 ACCEPTED

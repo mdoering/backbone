@@ -1,5 +1,4 @@
-Buellia blastenioides Vain. SPECIES
-=======
+# Buellia blastenioides Vain. SPECIES
 
 #### Status
 ACCEPTED

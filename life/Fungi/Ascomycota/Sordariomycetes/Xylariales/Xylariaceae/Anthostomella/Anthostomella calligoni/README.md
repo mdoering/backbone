@@ -1,5 +1,4 @@
-Anthostomella calligoni Frolov, 1970 SPECIES
-=======
+# Anthostomella calligoni Frolov, 1970 SPECIES
 
 #### Status
 ACCEPTED

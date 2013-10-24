@@ -1,5 +1,4 @@
-Caeoma thesii Schltdl. SPECIES
-=======
+# Caeoma thesii Schltdl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tuburcinia simplex Liro SPECIES
-=======
+# Tuburcinia simplex Liro SPECIES
 
 #### Status
 ACCEPTED

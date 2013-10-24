@@ -1,5 +1,4 @@
-Parmelinopsis microlobulata (D. D. Awasthi) Elix & Hale SPECIES
-=======
+# Parmelinopsis microlobulata (D. D. Awasthi) Elix & Hale SPECIES
 
 #### Status
 ACCEPTED

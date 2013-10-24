@@ -1,17 +1,16 @@
-Helmisporium maculosum Sacc. SPECIES
-=======
+# Pleurophragmium maculosum (Sacc.) S. Hughes, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 36: 797 (1958)
 
 #### Original name
-Helmisporium maculosum Sacc.
+Helminthosporium maculosum Sacc., 1919
 
 ### Remarks
 null

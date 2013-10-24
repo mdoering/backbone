@@ -1,5 +1,4 @@
-Leptogium thoroldii C.W. Dodge SPECIES
-=======
+# Leptogium thoroldii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

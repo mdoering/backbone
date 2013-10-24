@@ -1,5 +1,4 @@
-Coryneliopsis Butin GENUS
-=======
+# Coryneliopsis Butin GENUS
 
 #### Status
 ACCEPTED

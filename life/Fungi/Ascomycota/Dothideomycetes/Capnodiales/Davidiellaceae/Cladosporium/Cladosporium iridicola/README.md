@@ -1,5 +1,4 @@
-Cladosporium iridicola Schwein. SPECIES
-=======
+# Cladosporium iridicola Schwein. SPECIES
 
 #### Status
 ACCEPTED

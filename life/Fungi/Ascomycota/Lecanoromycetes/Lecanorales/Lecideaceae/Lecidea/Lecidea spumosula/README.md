@@ -1,5 +1,4 @@
-Lecidea spumosula Zahlbr. SPECIES
-=======
+# Lecidea spumosula Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

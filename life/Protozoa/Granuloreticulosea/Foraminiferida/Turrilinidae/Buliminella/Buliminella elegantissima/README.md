@@ -1,11 +1,10 @@
-Bulimina elegantissima d'Orbigny, 1839 SPECIES
-=======
+# Buliminella elegantissima SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

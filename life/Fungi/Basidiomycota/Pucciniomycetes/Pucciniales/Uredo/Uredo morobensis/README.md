@@ -1,5 +1,4 @@
-Uredo morobensis Cummins SPECIES
-=======
+# Uredo morobensis Cummins SPECIES
 
 #### Status
 ACCEPTED

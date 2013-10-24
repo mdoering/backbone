@@ -1,5 +1,4 @@
-Conjunctospora Udagawa & Uchiy. GENUS
-=======
+# Conjunctospora Udagawa & Uchiy. GENUS
 
 #### Status
 ACCEPTED

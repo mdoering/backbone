@@ -1,5 +1,4 @@
-Hansfordia ugandensis (Hansf.) S. Hughes SPECIES
-=======
+# Hansfordia ugandensis (Hansf.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporormiella irregularis (I. Egeland) S.I. Ahmed & Cain SPECIES
-=======
+# Sporormiella irregularis (I. Egeland) S.I. Ahmed & Cain SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota subphaeosticta Murrill SPECIES
-=======
+# Lepiota subphaeosticta Murrill SPECIES
 
 #### Status
 ACCEPTED

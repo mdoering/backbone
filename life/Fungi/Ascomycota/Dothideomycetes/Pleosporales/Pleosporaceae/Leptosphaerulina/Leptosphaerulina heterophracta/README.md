@@ -1,5 +1,4 @@
-Leptosphaerulina heterophracta (Nyl.) Sacc. & D. Sacc. SPECIES
-=======
+# Leptosphaerulina heterophracta (Nyl.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

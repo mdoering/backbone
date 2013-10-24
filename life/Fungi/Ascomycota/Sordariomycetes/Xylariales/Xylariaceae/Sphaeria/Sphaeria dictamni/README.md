@@ -1,5 +1,4 @@
-Sphaeria dictamni Fuckel SPECIES
-=======
+# Sphaeria dictamni Fuckel SPECIES
 
 #### Status
 ACCEPTED

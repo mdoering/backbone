@@ -1,5 +1,4 @@
-Lasiella calva Quél. SPECIES
-=======
+# Lasiella calva Quél. SPECIES
 
 #### Status
 ACCEPTED

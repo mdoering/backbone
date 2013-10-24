@@ -1,17 +1,16 @@
-Caeoma leucospermatum Link SPECIES
-=======
+# Ochropsora ariae (Fuckel) Ramsb., 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Sydow & Sydow, Monogr. Uredin. (Lipsiae) 4(2): 337 (1923)
 
 #### Original name
-null
+Uredo ariae Schleich., 1821
 
 ### Remarks
 null

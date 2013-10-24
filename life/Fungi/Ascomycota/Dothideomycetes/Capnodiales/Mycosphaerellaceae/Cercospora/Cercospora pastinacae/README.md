@@ -1,5 +1,4 @@
-Cercospora pastinacae (Sacc.) Peck SPECIES
-=======
+# Cercospora pastinacae (Sacc.) Peck SPECIES
 
 #### Status
 ACCEPTED

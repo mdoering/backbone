@@ -1,5 +1,4 @@
-Rutilaria hustedtii R. Ross SPECIES
-=======
+# Rutilaria hustedtii R. Ross SPECIES
 
 #### Status
 ACCEPTED

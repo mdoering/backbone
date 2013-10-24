@@ -1,5 +1,4 @@
-Nectria magnusiana Rehm, 1878 SPECIES
-=======
+# Nectria magnusiana Rehm, 1878 SPECIES
 
 #### Status
 ACCEPTED

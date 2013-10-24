@@ -1,14 +1,13 @@
-Gonderia Toit, 1918 GENUS
-=======
+# Theileria Bettencourt, França & Borges, 1907 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Arch. Protistenk. , 39, 86, 93.
+Arch. Inst. Bact. Camera Pestana, 1, 343.
 
 #### Original name
 null

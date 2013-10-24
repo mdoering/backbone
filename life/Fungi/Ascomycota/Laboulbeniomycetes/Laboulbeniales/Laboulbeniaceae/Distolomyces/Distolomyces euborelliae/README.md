@@ -1,5 +1,4 @@
-Distolomyces euborelliae K. Sugiy. & T. Majewski SPECIES
-=======
+# Distolomyces euborelliae K. Sugiy. & T. Majewski SPECIES
 
 #### Status
 ACCEPTED

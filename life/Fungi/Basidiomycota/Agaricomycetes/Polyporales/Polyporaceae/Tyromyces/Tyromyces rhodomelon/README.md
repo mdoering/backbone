@@ -1,5 +1,4 @@
-Tyromyces rhodomelon Corner SPECIES
-=======
+# Tyromyces rhodomelon Corner SPECIES
 
 #### Status
 ACCEPTED

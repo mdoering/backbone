@@ -1,5 +1,4 @@
-Arthonia circumscissa G. Merr. SPECIES
-=======
+# Arthonia circumscissa G. Merr. SPECIES
 
 #### Status
 ACCEPTED

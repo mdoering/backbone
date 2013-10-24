@@ -1,5 +1,4 @@
-Pseudevernia polita (Fr.) C.W. Dodge SPECIES
-=======
+# Pseudevernia polita (Fr.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Sagraina Bronn in Bronn & Roemer, 1852 GENUS
-=======
+# Sagrina d'Orbigny in Sagra, 1839 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Bronn & Roemer, Lethaea, ed. 3, 2, 92.
+in Sagra, Cuba (Foram. ), 149.
 
 #### Original name
 null

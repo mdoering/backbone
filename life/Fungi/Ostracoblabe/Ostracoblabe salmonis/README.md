@@ -1,5 +1,4 @@
-Ostracoblabe salmonis (H.S. Davis) M.W. Dick SPECIES
-=======
+# Ostracoblabe salmonis (H.S. Davis) M.W. Dick SPECIES
 
 #### Status
 ACCEPTED

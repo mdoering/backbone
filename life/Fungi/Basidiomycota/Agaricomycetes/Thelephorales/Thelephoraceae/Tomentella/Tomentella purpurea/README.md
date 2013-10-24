@@ -1,5 +1,4 @@
-Tomentella purpurea Wakef. SPECIES
-=======
+# Tomentella purpurea Wakef. SPECIES
 
 #### Status
 ACCEPTED

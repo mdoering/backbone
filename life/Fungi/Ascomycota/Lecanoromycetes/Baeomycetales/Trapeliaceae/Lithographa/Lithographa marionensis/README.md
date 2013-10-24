@@ -1,5 +1,4 @@
-Lithographa marionensis Hertel & Rambold SPECIES
-=======
+# Lithographa marionensis Hertel & Rambold SPECIES
 
 #### Status
 ACCEPTED

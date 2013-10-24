@@ -1,5 +1,4 @@
-Oxytricha praeceps Müller, 1786 SPECIES
-=======
+# Oxytricha praeceps Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

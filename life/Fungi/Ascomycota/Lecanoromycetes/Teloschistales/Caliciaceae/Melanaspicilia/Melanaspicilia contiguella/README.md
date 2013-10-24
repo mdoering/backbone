@@ -1,5 +1,4 @@
-Melanaspicilia contiguella (Vain.) Vain. SPECIES
-=======
+# Melanaspicilia contiguella (Vain.) Vain. SPECIES
 
 #### Status
 ACCEPTED

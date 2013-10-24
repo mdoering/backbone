@@ -1,5 +1,4 @@
-Catillaria usneicola Etayo SPECIES
-=======
+# Catillaria usneicola Etayo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma uralense (Tranzschel) Kuntze SPECIES
-=======
+# Dicaeoma uralense (Tranzschel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

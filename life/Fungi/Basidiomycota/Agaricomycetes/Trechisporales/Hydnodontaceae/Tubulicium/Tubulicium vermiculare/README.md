@@ -1,14 +1,13 @@
-Peniophora vermicularis Wakef., 1915 SPECIES
-=======
+# Tubulicium vermiculare (Wakef.) Boidin & Gilles, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Misc. Inf. , Kew 8: 371 (1915)
+Bull. trimest. Soc. mycol. Fr. 102(3): 282 (1986)
 
 #### Original name
 Peniophora vermicularis Wakef., 1915

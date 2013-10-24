@@ -1,5 +1,4 @@
-Hendersonia tarda Grove SPECIES
-=======
+# Hendersonia tarda Grove SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia bambusicola Vain. SPECIES
-=======
+# Arthonia bambusicola Vain. SPECIES
 
 #### Status
 ACCEPTED

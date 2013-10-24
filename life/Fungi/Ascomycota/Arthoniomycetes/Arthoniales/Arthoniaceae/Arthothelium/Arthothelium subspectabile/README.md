@@ -1,5 +1,4 @@
-Arthothelium subspectabile Vezda & Kantvilas SPECIES
-=======
+# Arthothelium subspectabile Vezda & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

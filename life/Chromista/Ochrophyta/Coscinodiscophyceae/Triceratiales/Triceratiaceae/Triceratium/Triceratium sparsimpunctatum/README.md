@@ -1,5 +1,4 @@
-Triceratium sparsimpunctatum A. P. Jousé SPECIES
-=======
+# Triceratium sparsimpunctatum A. P. Jousé SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopilus microloxus Singer SPECIES
-=======
+# Gymnopilus microloxus Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Martinsphaeridium bipalmatum (Uutela & Tynni, 1991) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Martinsphaeridium bipalmatum (Uutela & Tynni, 1991) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria bokurai Miura SPECIES
-=======
+# Alternaria bokurai Miura SPECIES
 
 #### Status
 ACCEPTED

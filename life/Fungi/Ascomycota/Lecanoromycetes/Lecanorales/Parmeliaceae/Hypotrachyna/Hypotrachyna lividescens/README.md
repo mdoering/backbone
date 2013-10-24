@@ -1,14 +1,13 @@
-Parmelia lividescens Kurok. SPECIES
-=======
+# Hypotrachyna lividescens (Kurok.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Hale & Kurokawa, Contr. U. S. natnl. Herb. 36: 181 (1964)
+Phytologia 28: 341 (1974)
 
 #### Original name
 Parmelia lividescens Kurok.

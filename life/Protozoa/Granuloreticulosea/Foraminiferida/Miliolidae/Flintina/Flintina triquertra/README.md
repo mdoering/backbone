@@ -1,5 +1,4 @@
-Flintina (Pseudofintina) triquertra (Brady) SPECIES
-=======
+# Flintina (Pseudofintina) triquertra (Brady) SPECIES
 
 #### Status
 ACCEPTED

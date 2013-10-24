@@ -1,5 +1,4 @@
-Chitinimonas Chang, Want, Vandamme, Hwant, Chang & Chen, 2004 GENUS
-=======
+# Chitinimonas Chang, Want, Vandamme, Hwant, Chang & Chen, 2004 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia gongylodes Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia gongylodes Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

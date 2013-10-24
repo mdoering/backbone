@@ -1,5 +1,4 @@
-Puccinia ludovicianae Fahrend. SPECIES
-=======
+# Puccinia ludovicianae Fahrend. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cellularia amanitoides (P. Beauv.) Kuntze SPECIES
-=======
+# Cellularia amanitoides (P. Beauv.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

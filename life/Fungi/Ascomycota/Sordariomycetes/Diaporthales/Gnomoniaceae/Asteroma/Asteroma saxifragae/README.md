@@ -1,5 +1,4 @@
-Asteroma saxifragae Ellis & Everh. SPECIES
-=======
+# Asteroma saxifragae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

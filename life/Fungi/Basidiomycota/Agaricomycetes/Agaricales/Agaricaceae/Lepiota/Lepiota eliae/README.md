@@ -1,5 +1,4 @@
-Lepiota eliae Quél. & Gillet SPECIES
-=======
+# Lepiota eliae Quél. & Gillet SPECIES
 
 #### Status
 ACCEPTED

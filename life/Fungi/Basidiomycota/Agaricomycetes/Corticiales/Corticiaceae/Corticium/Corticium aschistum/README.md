@@ -1,5 +1,4 @@
-Corticium aschistum Berk. SPECIES
-=======
+# Corticium aschistum Berk. SPECIES
 
 #### Status
 ACCEPTED

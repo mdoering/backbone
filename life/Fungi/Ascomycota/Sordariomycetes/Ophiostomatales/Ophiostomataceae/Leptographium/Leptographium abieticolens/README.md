@@ -1,5 +1,4 @@
-Leptographium abieticolens K. Jacobs & M.J. Wingf. SPECIES
-=======
+# Leptographium abieticolens K. Jacobs & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

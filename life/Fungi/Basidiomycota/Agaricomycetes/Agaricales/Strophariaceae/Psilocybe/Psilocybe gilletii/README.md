@@ -1,5 +1,4 @@
-Psilocybe gilletii P. Karst. SPECIES
-=======
+# Psilocybe gilletii P. Karst. SPECIES
 
 #### Status
 ACCEPTED

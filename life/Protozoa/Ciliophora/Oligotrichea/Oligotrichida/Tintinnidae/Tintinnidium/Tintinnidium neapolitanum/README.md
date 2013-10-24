@@ -1,5 +1,4 @@
-Tintinnidium neapolitanum Daday, 1887 SPECIES
-=======
+# Tintinnidium neapolitanum Daday, 1887 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Verrucaria microspora var. frisiaca (Erichsen) Erichsen VARIETY
-=======
+# Verrucaria halizoa Leight. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. Fl. Great Brit. Irel. (London) 461 (1871)
 
 #### Original name
-Verrucaria friesiaca Erichsen
+Verrucaria halizoa Leight.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Ustilago halophiloides var. halophiloides G.W. Fisch. VARIETY
-=======
+# Tranzscheliella halophiloides (G.W. Fisch.) Vánky, 2003 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 85: 2 (2003)
 
 #### Original name
-Ustilago halophiloides var. halophiloides G.W. Fisch.
+Ustilago halophiloides G.W. Fisch., 1952
 
 ### Remarks
 null

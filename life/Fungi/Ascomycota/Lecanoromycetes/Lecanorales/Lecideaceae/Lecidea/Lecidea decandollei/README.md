@@ -1,5 +1,4 @@
-Lecidea decandollei (Hepp) Jatta SPECIES
-=======
+# Lecidea decandollei (Hepp) Jatta SPECIES
 
 #### Status
 ACCEPTED

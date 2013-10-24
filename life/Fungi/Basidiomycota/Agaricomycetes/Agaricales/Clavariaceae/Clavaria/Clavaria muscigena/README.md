@@ -1,5 +1,4 @@
-Clavaria muscigena Pers. SPECIES
-=======
+# Clavaria muscigena Pers. SPECIES
 
 #### Status
 ACCEPTED

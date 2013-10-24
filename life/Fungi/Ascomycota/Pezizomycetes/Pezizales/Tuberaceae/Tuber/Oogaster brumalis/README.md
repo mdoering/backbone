@@ -1,5 +1,4 @@
-Oogaster brumalis Zobel SPECIES
-=======
+# Oogaster brumalis Zobel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micrococcus radiatus SPECIES
-=======
+# Micrococcus radiatus SPECIES
 
 #### Status
 ACCEPTED

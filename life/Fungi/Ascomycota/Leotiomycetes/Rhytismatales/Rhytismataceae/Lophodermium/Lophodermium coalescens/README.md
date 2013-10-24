@@ -1,5 +1,4 @@
-Lophodermium coalescens Tobias SPECIES
-=======
+# Lophodermium coalescens Tobias SPECIES
 
 #### Status
 ACCEPTED

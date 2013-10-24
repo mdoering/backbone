@@ -1,5 +1,4 @@
-Hypoxylon apiculatum (Penz. & Sacc.) J.H. Mill. SPECIES
-=======
+# Hypoxylon apiculatum (Penz. & Sacc.) J.H. Mill. SPECIES
 
 #### Status
 ACCEPTED

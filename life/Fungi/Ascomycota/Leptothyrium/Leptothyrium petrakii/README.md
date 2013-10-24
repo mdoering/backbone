@@ -1,5 +1,4 @@
-Leptothyrium petrakii Solheim SPECIES
-=======
+# Leptothyrium petrakii Solheim SPECIES
 
 #### Status
 ACCEPTED

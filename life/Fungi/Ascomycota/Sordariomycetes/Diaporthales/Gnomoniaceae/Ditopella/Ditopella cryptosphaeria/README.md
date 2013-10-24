@@ -1,5 +1,4 @@
-Ditopella cryptosphaeria (Fuckel) Sacc. SPECIES
-=======
+# Ditopella cryptosphaeria (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

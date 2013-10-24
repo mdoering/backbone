@@ -1,5 +1,4 @@
-Pseudodidymaria U. Braun GENUS
-=======
+# Pseudodidymaria U. Braun GENUS
 
 #### Status
 ACCEPTED

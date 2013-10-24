@@ -1,5 +1,4 @@
-Phyllosticta minuta Garb. SPECIES
-=======
+# Phyllosticta minuta Garb. SPECIES
 
 #### Status
 ACCEPTED

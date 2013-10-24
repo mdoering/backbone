@@ -1,5 +1,4 @@
-Agaricus illecebrosus Britzelm. SPECIES
-=======
+# Agaricus illecebrosus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

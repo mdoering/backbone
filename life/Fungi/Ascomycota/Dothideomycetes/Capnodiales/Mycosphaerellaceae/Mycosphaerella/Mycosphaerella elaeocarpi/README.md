@@ -1,5 +1,4 @@
-Mycosphaerella elaeocarpi Crous & Summerell, 2007 SPECIES
-=======
+# Mycosphaerella elaeocarpi Crous & Summerell, 2007 SPECIES
 
 #### Status
 ACCEPTED

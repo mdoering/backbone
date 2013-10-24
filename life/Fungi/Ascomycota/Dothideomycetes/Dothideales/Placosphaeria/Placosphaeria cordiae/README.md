@@ -1,5 +1,4 @@
-Placosphaeria cordiae Allesch. SPECIES
-=======
+# Placosphaeria cordiae Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chloroflexales ORDER
-=======
+# Chloroflexales ORDER
 
 #### Status
 ACCEPTED

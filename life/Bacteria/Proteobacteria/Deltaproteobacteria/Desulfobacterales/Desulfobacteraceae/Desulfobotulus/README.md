@@ -1,5 +1,4 @@
-Desulfobotulus GENUS
-=======
+# Desulfobotulus GENUS
 
 #### Status
 ACCEPTED

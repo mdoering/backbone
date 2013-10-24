@@ -1,5 +1,4 @@
-Ceratolithina vesca Bukry & Percival, 1971 SPECIES
-=======
+# Ceratolithina vesca Bukry & Percival, 1971 SPECIES
 
 #### Status
 ACCEPTED

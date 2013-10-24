@@ -1,5 +1,4 @@
-Phycicoccus jejuensis Lee, 2006 SPECIES
-=======
+# Phycicoccus jejuensis Lee, 2006 SPECIES
 
 #### Status
 ACCEPTED

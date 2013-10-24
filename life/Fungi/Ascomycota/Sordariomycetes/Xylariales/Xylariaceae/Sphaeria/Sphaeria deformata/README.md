@@ -1,5 +1,4 @@
-Sphaeria deformata Schwein. SPECIES
-=======
+# Sphaeria deformata Schwein. SPECIES
 
 #### Status
 ACCEPTED

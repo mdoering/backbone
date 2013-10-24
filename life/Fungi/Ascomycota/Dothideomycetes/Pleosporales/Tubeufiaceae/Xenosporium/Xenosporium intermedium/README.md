@@ -1,5 +1,4 @@
-Xenosporium intermedium Vittal, 1981 SPECIES
-=======
+# Xenosporium intermedium Vittal, 1981 SPECIES
 
 #### Status
 ACCEPTED

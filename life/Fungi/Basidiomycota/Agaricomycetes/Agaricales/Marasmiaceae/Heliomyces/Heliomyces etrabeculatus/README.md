@@ -1,5 +1,4 @@
-Heliomyces etrabeculatus Speg. SPECIES
-=======
+# Heliomyces etrabeculatus Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella acronychiae-pedunculatae Hosag. SPECIES
-=======
+# Asteridiella acronychiae-pedunculatae Hosag. SPECIES
 
 #### Status
 ACCEPTED

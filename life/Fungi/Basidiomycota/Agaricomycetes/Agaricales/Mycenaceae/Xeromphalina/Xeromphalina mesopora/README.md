@@ -1,5 +1,4 @@
-Xeromphalina mesopora Singer SPECIES
-=======
+# Xeromphalina mesopora Singer SPECIES
 
 #### Status
 ACCEPTED

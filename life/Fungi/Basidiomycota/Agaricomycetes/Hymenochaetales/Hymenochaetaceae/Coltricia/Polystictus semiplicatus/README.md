@@ -1,5 +1,4 @@
-Polystictus semiplicatus Ellis & T. Macbr. SPECIES
-=======
+# Polystictus semiplicatus Ellis & T. Macbr. SPECIES
 
 #### Status
 ACCEPTED

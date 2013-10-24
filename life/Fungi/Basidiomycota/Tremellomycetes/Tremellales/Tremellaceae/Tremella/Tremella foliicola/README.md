@@ -1,5 +1,4 @@
-Tremella foliicola Fuckel SPECIES
-=======
+# Tremella foliicola Fuckel SPECIES
 
 #### Status
 ACCEPTED

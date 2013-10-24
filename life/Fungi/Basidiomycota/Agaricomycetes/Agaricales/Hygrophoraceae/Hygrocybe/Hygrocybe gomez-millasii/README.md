@@ -1,5 +1,4 @@
-Hygrocybe gomez-millasii Lazo SPECIES
-=======
+# Hygrocybe gomez-millasii Lazo SPECIES
 
 #### Status
 ACCEPTED

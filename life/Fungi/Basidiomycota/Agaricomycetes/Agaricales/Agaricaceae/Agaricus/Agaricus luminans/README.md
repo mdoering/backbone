@@ -1,5 +1,4 @@
-Agaricus luminans F. Muell. SPECIES
-=======
+# Agaricus luminans F. Muell. SPECIES
 
 #### Status
 ACCEPTED

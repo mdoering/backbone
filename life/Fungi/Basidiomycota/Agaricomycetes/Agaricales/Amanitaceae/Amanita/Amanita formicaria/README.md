@@ -1,5 +1,4 @@
-Amanita formicaria Velen. SPECIES
-=======
+# Amanita formicaria Velen. SPECIES
 
 #### Status
 ACCEPTED

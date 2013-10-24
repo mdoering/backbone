@@ -1,5 +1,4 @@
-Myoschiston simile SPECIES
-=======
+# Myoschiston simile SPECIES
 
 #### Status
 ACCEPTED

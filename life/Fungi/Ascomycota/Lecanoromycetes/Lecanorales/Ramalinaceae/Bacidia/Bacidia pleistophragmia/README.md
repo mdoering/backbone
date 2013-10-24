@@ -1,5 +1,4 @@
-Bacidia pleistophragmia (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia pleistophragmia (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

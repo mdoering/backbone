@@ -1,5 +1,4 @@
-Ceratostomella schrenkiana Hedgc. SPECIES
-=======
+# Ceratostomella schrenkiana Hedgc. SPECIES
 
 #### Status
 ACCEPTED

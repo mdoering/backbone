@@ -1,5 +1,4 @@
-Cothurnia longipes sensu Voigt, 1902 SPECIES
-=======
+# Cothurnia longipes sensu Voigt, 1902 SPECIES
 
 #### Status
 ACCEPTED

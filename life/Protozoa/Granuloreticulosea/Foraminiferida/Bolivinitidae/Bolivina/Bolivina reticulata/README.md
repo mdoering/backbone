@@ -1,5 +1,4 @@
-Bolivina reticulata Hantken SPECIES
-=======
+# Bolivina reticulata Hantken SPECIES
 
 #### Status
 ACCEPTED

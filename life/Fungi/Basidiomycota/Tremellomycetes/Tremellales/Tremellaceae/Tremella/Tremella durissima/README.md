@@ -1,5 +1,4 @@
-Tremella durissima Lowy SPECIES
-=======
+# Tremella durissima Lowy SPECIES
 
 #### Status
 ACCEPTED

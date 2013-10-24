@@ -1,5 +1,4 @@
-Sphaerella cinerescens Fuckel SPECIES
-=======
+# Sphaerella cinerescens Fuckel SPECIES
 
 #### Status
 ACCEPTED

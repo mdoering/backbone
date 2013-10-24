@@ -1,5 +1,4 @@
-Acarospora contraria H. Magn. SPECIES
-=======
+# Acarospora contraria H. Magn. SPECIES
 
 #### Status
 ACCEPTED

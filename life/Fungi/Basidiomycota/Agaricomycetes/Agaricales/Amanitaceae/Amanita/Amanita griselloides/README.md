@@ -1,5 +1,4 @@
-Amanita griselloides D.A. Reid SPECIES
-=======
+# Amanita griselloides D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula gaudichaudii (Fée) Pers. SPECIES
-=======
+# Pyrenula gaudichaudii (Fée) Pers. SPECIES
 
 #### Status
 ACCEPTED

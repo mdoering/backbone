@@ -1,5 +1,4 @@
-Didymopsis Sacc. & Marchal GENUS
-=======
+# Didymopsis Sacc. & Marchal GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelephora ericetorum Pers. SPECIES
-=======
+# Thelephora ericetorum Pers. SPECIES
 
 #### Status
 ACCEPTED

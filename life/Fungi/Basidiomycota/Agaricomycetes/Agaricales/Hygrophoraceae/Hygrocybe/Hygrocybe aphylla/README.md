@@ -1,5 +1,4 @@
-Hygrocybe aphylla Laessøe & Boertm. SPECIES
-=======
+# Hygrocybe aphylla Laessøe & Boertm. SPECIES
 
 #### Status
 ACCEPTED

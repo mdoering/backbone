@@ -1,5 +1,4 @@
-Linocarpon appendisporum K.D. Hyde SPECIES
-=======
+# Linocarpon appendisporum K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

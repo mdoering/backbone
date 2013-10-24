@@ -1,5 +1,4 @@
-Hapalocystis Sorokin GENUS
-=======
+# Hapalocystis Sorokin GENUS
 
 #### Status
 ACCEPTED

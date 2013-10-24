@@ -1,5 +1,4 @@
-Perexilibacter Yoon et al., 2007 GENUS
-=======
+# Perexilibacter Yoon et al., 2007 GENUS
 
 #### Status
 ACCEPTED

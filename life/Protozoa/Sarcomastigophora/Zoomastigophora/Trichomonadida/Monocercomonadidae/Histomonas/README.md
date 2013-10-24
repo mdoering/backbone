@@ -1,5 +1,4 @@
-Histomonas Tyzzer, 1920 GENUS
-=======
+# Histomonas Tyzzer, 1920 GENUS
 
 #### Status
 ACCEPTED

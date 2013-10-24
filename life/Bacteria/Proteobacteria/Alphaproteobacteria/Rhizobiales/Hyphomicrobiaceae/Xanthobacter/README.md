@@ -1,5 +1,4 @@
-Xanthobacter GENUS
-=======
+# Xanthobacter GENUS
 
 #### Status
 ACCEPTED

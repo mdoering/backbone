@@ -1,5 +1,4 @@
-Corynebacterium riegelii Funke et al., 1998 SPECIES
-=======
+# Corynebacterium riegelii Funke et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

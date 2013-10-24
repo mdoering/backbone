@@ -1,5 +1,4 @@
-Catinaria subcorallina (Zahlbr.) Brako SPECIES
-=======
+# Catinaria subcorallina (Zahlbr.) Brako SPECIES
 
 #### Status
 ACCEPTED

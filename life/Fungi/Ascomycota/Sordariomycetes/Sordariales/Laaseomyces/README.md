@@ -1,5 +1,4 @@
-Laaseomyces GENUS
-=======
+# Laaseomyces GENUS
 
 #### Status
 ACCEPTED

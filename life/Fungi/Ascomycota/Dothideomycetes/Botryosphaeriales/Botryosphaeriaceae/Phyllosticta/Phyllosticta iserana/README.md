@@ -1,5 +1,4 @@
-Phyllosticta iserana Kabát & Bubák SPECIES
-=======
+# Phyllosticta iserana Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

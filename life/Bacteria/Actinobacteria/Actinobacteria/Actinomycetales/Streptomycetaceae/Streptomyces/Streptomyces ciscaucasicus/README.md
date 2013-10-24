@@ -1,5 +1,4 @@
-Streptomyces ciscaucasicus Sveshnikova, 1986 SPECIES
-=======
+# Streptomyces ciscaucasicus Sveshnikova, 1986 SPECIES
 
 #### Status
 ACCEPTED

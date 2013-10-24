@@ -1,5 +1,4 @@
-Septoria asperulae-arvensis Maire SPECIES
-=======
+# Septoria asperulae-arvensis Maire SPECIES
 
 #### Status
 ACCEPTED

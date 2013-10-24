@@ -1,5 +1,4 @@
-Marasmius meridionalis E. Horak & Desjardin, 1994 SPECIES
-=======
+# Marasmius meridionalis E. Horak & Desjardin, 1994 SPECIES
 
 #### Status
 ACCEPTED

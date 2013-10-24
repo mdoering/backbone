@@ -1,5 +1,4 @@
-Poria buxi Bondartsev SPECIES
-=======
+# Poria buxi Bondartsev SPECIES
 
 #### Status
 ACCEPTED

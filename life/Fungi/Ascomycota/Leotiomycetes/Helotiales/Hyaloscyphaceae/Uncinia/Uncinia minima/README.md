@@ -1,5 +1,4 @@
-Uncinia minima Velen. SPECIES
-=======
+# Uncinia minima Velen. SPECIES
 
 #### Status
 ACCEPTED

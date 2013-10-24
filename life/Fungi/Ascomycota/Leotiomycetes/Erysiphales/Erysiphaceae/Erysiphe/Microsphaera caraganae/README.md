@@ -1,5 +1,4 @@
-Microsphaera caraganae Magnus SPECIES
-=======
+# Microsphaera caraganae Magnus SPECIES
 
 #### Status
 ACCEPTED

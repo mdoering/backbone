@@ -1,5 +1,4 @@
-Pseudeurotium irregulare Lodha SPECIES
-=======
+# Pseudeurotium irregulare Lodha SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heppia chudeaui Hue SPECIES
-=======
+# Heppia chudeaui Hue SPECIES
 
 #### Status
 ACCEPTED

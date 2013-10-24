@@ -1,5 +1,4 @@
-Rutstroemia belisensis (Kanouse) Dennis SPECIES
-=======
+# Rutstroemia belisensis (Kanouse) Dennis SPECIES
 
 #### Status
 ACCEPTED

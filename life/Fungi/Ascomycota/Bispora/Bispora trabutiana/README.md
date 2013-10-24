@@ -1,5 +1,4 @@
-Bispora trabutiana Sacc. SPECIES
-=======
+# Bispora trabutiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

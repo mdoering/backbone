@@ -1,5 +1,4 @@
-Bifidobacterium minimum Biavati et al., 1982 SPECIES
-=======
+# Bifidobacterium minimum Biavati et al., 1982 SPECIES
 
 #### Status
 ACCEPTED

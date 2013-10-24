@@ -1,5 +1,4 @@
-Thelidium variabile B. de Lesd. SPECIES
-=======
+# Thelidium variabile B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

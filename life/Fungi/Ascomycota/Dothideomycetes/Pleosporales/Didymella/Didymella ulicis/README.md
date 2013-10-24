@@ -1,5 +1,4 @@
-Didymella ulicis Siemaszko SPECIES
-=======
+# Didymella ulicis Siemaszko SPECIES
 
 #### Status
 ACCEPTED

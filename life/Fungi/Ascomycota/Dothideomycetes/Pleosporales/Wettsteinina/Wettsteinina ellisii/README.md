@@ -1,5 +1,4 @@
-Wettsteinina ellisii M.E. Barr SPECIES
-=======
+# Wettsteinina ellisii M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

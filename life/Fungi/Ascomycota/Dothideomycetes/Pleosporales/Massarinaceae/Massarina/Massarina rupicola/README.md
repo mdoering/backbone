@@ -1,5 +1,4 @@
-Massarina rupicola (Sacc.) Ahn & Shearer SPECIES
-=======
+# Massarina rupicola (Sacc.) Ahn & Shearer SPECIES
 
 #### Status
 ACCEPTED

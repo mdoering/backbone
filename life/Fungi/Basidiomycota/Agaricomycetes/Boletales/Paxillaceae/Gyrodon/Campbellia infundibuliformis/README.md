@@ -1,5 +1,4 @@
-Campbellia infundibuliformis (Cooke & Massee) Cooke & Massee SPECIES
-=======
+# Campbellia infundibuliformis (Cooke & Massee) Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora berberidicola Lobik SPECIES
-=======
+# Pleospora berberidicola Lobik SPECIES
 
 #### Status
 ACCEPTED

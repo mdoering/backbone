@@ -1,17 +1,16 @@
-Hiatula cepistipes var. lilacinogranulosa (Henn.) R. Heim & Romagn., 1934 VARIETY
-=======
+# Leucocoprinus ianthinus (Cooke) P. Mohr, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 50: 184 (1934)
+Boletus 18(2): 48 (1994)
 
 #### Original name
-Lepiota lilacinogranulosa Henn., 1898
+Agaricus ianthinus Fr., 1821
 
 ### Remarks
 null

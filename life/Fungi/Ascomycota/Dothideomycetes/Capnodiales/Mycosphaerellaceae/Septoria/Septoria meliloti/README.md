@@ -1,5 +1,4 @@
-Septoria meliloti (Lasch) Sacc. SPECIES
-=======
+# Septoria meliloti (Lasch) Sacc. SPECIES
 
 #### Status
 ACCEPTED

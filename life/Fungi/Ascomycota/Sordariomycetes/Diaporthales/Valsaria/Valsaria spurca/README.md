@@ -1,5 +1,4 @@
-Valsaria spurca (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Valsaria spurca (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

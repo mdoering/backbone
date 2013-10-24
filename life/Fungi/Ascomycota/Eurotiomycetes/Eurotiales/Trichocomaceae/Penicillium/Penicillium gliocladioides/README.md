@@ -1,5 +1,4 @@
-Penicillium gliocladioides Speg. SPECIES
-=======
+# Penicillium gliocladioides Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tylopilus roseolus (W.F. Chiu) F.L. Tai SPECIES
-=======
+# Tylopilus roseolus (W.F. Chiu) F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

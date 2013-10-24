@@ -1,5 +1,4 @@
-Phylacteria radiata (Oeder) Bigeard & H. Guill. SPECIES
-=======
+# Phylacteria radiata (Oeder) Bigeard & H. Guill. SPECIES
 
 #### Status
 ACCEPTED

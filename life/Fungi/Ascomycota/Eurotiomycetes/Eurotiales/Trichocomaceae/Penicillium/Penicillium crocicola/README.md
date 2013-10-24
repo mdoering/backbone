@@ -1,5 +1,4 @@
-Penicillium crocicola T. Yamam. SPECIES
-=======
+# Penicillium crocicola T. Yamam. SPECIES
 
 #### Status
 ACCEPTED

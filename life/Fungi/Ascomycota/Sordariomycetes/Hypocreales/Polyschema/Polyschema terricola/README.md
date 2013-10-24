@@ -1,5 +1,4 @@
-Polyschema terricola H.P. Upadhyay, 1966 SPECIES
-=======
+# Polyschema terricola H.P. Upadhyay, 1966 SPECIES
 
 #### Status
 ACCEPTED

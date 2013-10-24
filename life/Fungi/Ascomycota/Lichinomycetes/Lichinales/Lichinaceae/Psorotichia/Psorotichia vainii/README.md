@@ -1,5 +1,4 @@
-Psorotichia vainii Fink SPECIES
-=======
+# Psorotichia vainii Fink SPECIES
 
 #### Status
 ACCEPTED

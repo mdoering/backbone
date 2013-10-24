@@ -1,5 +1,4 @@
-Patellaria heterotoxa SPECIES
-=======
+# Patellaria heterotoxa SPECIES
 
 #### Status
 ACCEPTED

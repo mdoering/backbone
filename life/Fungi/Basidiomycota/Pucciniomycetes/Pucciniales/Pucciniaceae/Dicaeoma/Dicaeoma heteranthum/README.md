@@ -1,5 +1,4 @@
-Dicaeoma heteranthum (Ellis & Everh.) Kuntze SPECIES
-=======
+# Dicaeoma heteranthum (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

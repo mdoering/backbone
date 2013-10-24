@@ -1,5 +1,4 @@
-Vorticella cornuta Muller, 1773 SPECIES
-=======
+# Vorticella cornuta Muller, 1773 SPECIES
 
 #### Status
 ACCEPTED

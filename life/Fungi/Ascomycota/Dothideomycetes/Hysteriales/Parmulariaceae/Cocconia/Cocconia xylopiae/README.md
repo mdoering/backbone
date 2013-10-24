@@ -1,5 +1,4 @@
-Cocconia xylopiae Bat. & Peres, 1962 SPECIES
-=======
+# Cocconia xylopiae Bat. & Peres, 1962 SPECIES
 
 #### Status
 ACCEPTED

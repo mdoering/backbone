@@ -1,5 +1,4 @@
-Endomyces bonaerensis Greco SPECIES
-=======
+# Endomyces bonaerensis Greco SPECIES
 
 #### Status
 ACCEPTED

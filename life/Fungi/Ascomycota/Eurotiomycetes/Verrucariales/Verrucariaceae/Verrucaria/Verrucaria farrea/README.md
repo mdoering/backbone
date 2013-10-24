@@ -1,5 +1,4 @@
-Verrucaria farrea Ach. SPECIES
-=======
+# Verrucaria farrea Ach. SPECIES
 
 #### Status
 ACCEPTED

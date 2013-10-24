@@ -1,5 +1,4 @@
-Lecidea subrussula J. Steiner SPECIES
-=======
+# Lecidea subrussula J. Steiner SPECIES
 
 #### Status
 ACCEPTED

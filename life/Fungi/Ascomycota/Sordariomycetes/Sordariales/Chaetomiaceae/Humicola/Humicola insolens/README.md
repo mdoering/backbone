@@ -1,17 +1,16 @@
-Humicola insolens subsp. insolens SUBSPECIES
-=======
+# Humicola insolens Cooney & R. Emers., 1964 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Thermophilic Fungi 79 (1964)
 
 #### Original name
-null
+Humicola insolens Cooney & R. Emers., 1964
 
 ### Remarks
 null

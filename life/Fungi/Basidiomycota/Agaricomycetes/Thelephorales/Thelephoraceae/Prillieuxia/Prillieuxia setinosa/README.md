@@ -1,5 +1,4 @@
-Prillieuxia setinosa Rick SPECIES
-=======
+# Prillieuxia setinosa Rick SPECIES
 
 #### Status
 ACCEPTED

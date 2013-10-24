@@ -1,14 +1,13 @@
-Diplomesostoma Bütschli, 1887-89 GENUS
-=======
+# Glaucoma Ehrenberg, 1830 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bronn's Klassen Ordn. Thier-Reichs, Prot. 1, Abt. 3, 1226.
+Abh. Preuss. Akad. Wiss. , 1830 (1832), 42.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Coniochaeta nigerrima Peyronel SPECIES
-=======
+# Coniochaeta nigerrima Peyronel SPECIES
 
 #### Status
 ACCEPTED

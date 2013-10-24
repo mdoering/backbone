@@ -1,5 +1,4 @@
-Epiclintes radiosa Dujardin, 1841 SPECIES
-=======
+# Epiclintes radiosa Dujardin, 1841 SPECIES
 
 #### Status
 ACCEPTED

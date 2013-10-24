@@ -1,5 +1,4 @@
-Napicladium stuckertii Speg. SPECIES
-=======
+# Napicladium stuckertii Speg. SPECIES
 
 #### Status
 ACCEPTED

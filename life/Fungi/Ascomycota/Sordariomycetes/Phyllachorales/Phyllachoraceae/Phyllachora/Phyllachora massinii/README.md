@@ -1,5 +1,4 @@
-Phyllachora massinii Toro, 1926 SPECIES
-=======
+# Phyllachora massinii Toro, 1926 SPECIES
 
 #### Status
 ACCEPTED

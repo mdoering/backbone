@@ -1,17 +1,16 @@
-Lophodermium sapoti Chuan F. Zhang & P.K. Chi SPECIES
-=======
+# Lophodermium sapotae Chuan F. Zhang & P.K. Chi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of South China Agricultural University 15(4): 35 (1994)
 
 #### Original name
-Lophodermium sapoti Chuan F. Zhang & P.K. Chi
+Lophodermium sapotae Chuan F. Zhang & P.K. Chi
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Involucrothele antonelliana var. antonelliana VARIETY
-=======
+# Involucrothele antonelliana (Bagl. & Carestia) Servít SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Ceskoslov. Liejn. Celedi Verrucariaceae 168 (1954)
 
 #### Original name
-Involucrothele antonelliana var. antonelliana
+Thelidium antonellianum Bagl. & Carestia
 
 ### Remarks
 null

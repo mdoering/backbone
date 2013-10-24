@@ -1,5 +1,4 @@
-Clypeosphaeria imperfecta Ellis & Everh. SPECIES
-=======
+# Clypeosphaeria imperfecta Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

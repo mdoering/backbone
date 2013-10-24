@@ -1,5 +1,4 @@
-Prunulus extinctorius (Bull.) Gray SPECIES
-=======
+# Prunulus extinctorius (Bull.) Gray SPECIES
 
 #### Status
 ACCEPTED

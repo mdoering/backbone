@@ -1,5 +1,4 @@
-Ramularia rigidula (Delacr.) Nannf. SPECIES
-=======
+# Ramularia rigidula (Delacr.) Nannf. SPECIES
 
 #### Status
 ACCEPTED

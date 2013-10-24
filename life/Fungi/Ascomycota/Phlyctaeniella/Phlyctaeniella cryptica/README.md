@@ -1,5 +1,4 @@
-Phlyctaeniella cryptica Syd. SPECIES
-=======
+# Phlyctaeniella cryptica Syd. SPECIES
 
 #### Status
 ACCEPTED

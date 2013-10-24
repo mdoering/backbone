@@ -1,5 +1,4 @@
-Phanerochaete suballantoidea Sheng H. Wu SPECIES
-=======
+# Phanerochaete suballantoidea Sheng H. Wu SPECIES
 
 #### Status
 ACCEPTED

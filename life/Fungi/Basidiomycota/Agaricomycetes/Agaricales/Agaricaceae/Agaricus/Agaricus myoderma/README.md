@@ -1,5 +1,4 @@
-Agaricus myoderma Berk. & Broome SPECIES
-=======
+# Agaricus myoderma Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

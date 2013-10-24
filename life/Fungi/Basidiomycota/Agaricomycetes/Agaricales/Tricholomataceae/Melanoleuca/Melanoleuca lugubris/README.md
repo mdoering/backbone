@@ -1,5 +1,4 @@
-Melanoleuca lugubris (Peck) Murrill SPECIES
-=======
+# Melanoleuca lugubris (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

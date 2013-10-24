@@ -1,5 +1,4 @@
-Morchella continua Trotter SPECIES
-=======
+# Morchella continua Trotter SPECIES
 
 #### Status
 ACCEPTED

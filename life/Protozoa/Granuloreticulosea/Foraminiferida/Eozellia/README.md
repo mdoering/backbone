@@ -1,5 +1,4 @@
-Eozellia Hozovskaya, 1975 GENUS
-=======
+# Eozellia Hozovskaya, 1975 GENUS
 
 #### Status
 ACCEPTED

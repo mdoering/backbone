@@ -1,5 +1,4 @@
-Globolaxtorum Carter, 1993 GENUS
-=======
+# Globolaxtorum Carter, 1993 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lopadium subamaurum Zahlbr. SPECIES
-=======
+# Lopadium subamaurum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

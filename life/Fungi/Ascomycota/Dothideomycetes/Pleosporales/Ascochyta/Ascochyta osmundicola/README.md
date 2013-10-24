@@ -1,5 +1,4 @@
-Ascochyta osmundicola Punith. SPECIES
-=======
+# Ascochyta osmundicola Punith. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Zygosaccharomyces chodati Guyot SPECIES
-=======
+# Zygosaccharomyces chodatii Guyot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Zygosaccharomyces chodati Guyot
+Zygosaccharomyces chodatii Guyot
 
 ### Remarks
 null

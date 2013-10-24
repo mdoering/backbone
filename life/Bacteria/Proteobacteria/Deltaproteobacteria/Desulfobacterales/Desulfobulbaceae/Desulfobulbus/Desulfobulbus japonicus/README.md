@@ -1,5 +1,4 @@
-Desulfobulbus japonicus Suzuki, Ueki, Amaishi & Ueki, 2007 SPECIES
-=======
+# Desulfobulbus japonicus Suzuki, Ueki, Amaishi & Ueki, 2007 SPECIES
 
 #### Status
 ACCEPTED

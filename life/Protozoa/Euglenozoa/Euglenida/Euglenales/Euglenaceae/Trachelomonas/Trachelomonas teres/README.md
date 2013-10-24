@@ -1,5 +1,4 @@
-Trachelomonas teres var. rotunda Skvortsov VARIETY
-=======
+# Trachelomonas teres W.M. Maskell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pichia quercibus Phaff & E.P. Knapp SPECIES
-=======
+# Pichia quercibus Phaff & E.P. Knapp SPECIES
 
 #### Status
 ACCEPTED

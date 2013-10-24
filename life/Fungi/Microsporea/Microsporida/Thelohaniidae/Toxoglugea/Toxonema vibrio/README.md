@@ -1,5 +1,4 @@
-Toxonema vibrio Léger & Hesse SPECIES
-=======
+# Toxonema vibrio Léger & Hesse SPECIES
 
 #### Status
 ACCEPTED

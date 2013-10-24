@@ -1,5 +1,4 @@
-Trichocladia atraphaxis Golovin SPECIES
-=======
+# Trichocladia atraphaxis Golovin SPECIES
 
 #### Status
 ACCEPTED

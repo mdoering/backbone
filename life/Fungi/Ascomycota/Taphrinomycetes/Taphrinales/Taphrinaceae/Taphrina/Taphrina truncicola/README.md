@@ -1,5 +1,4 @@
-Taphrina truncicola Kusano SPECIES
-=======
+# Taphrina truncicola Kusano SPECIES
 
 #### Status
 ACCEPTED

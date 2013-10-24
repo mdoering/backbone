@@ -1,5 +1,4 @@
-Diplodina chavanieri Rieuf & Teasca SPECIES
-=======
+# Diplodina chavanieri Rieuf & Teasca SPECIES
 
 #### Status
 ACCEPTED

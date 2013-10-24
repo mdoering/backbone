@@ -1,5 +1,4 @@
-Scutisporus brunneus K. Ando & Tubaki, 1985 SPECIES
-=======
+# Scutisporus brunneus K. Ando & Tubaki, 1985 SPECIES
 
 #### Status
 ACCEPTED

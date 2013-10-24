@@ -1,5 +1,4 @@
-Lecanora elfvingii SPECIES
-=======
+# Lecanora elfvingii SPECIES
 
 #### Status
 ACCEPTED

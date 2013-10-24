@@ -1,5 +1,4 @@
-Endothia paraguayensis (Speg.) Höhn. SPECIES
-=======
+# Endothia paraguayensis (Speg.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

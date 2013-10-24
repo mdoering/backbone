@@ -1,5 +1,4 @@
-Rugoglobigerina Brönnimann, 1952 GENUS
-=======
+# Rugoglobigerina Brönnimann, 1952 GENUS
 
 #### Status
 ACCEPTED

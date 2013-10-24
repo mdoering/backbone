@@ -1,5 +1,4 @@
-Linospora elasticae Koord. SPECIES
-=======
+# Linospora elasticae Koord. SPECIES
 
 #### Status
 ACCEPTED

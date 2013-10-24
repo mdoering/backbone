@@ -1,5 +1,4 @@
-Neisseria flava Bergey et al., 1923 (Approved Lists, 1980) SPECIES
-=======
+# Neisseria flava Bergey et al., 1923 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

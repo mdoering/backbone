@@ -1,5 +1,4 @@
-Heterosporium lilacis (Desm.) Puttemans SPECIES
-=======
+# Heterosporium lilacis (Desm.) Puttemans SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea sororia SPECIES
-=======
+# Lecidea sororia SPECIES
 
 #### Status
 ACCEPTED

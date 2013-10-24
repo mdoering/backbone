@@ -1,5 +1,4 @@
-Botryosphaeria graphidea (Berk. & Ravenel) Sacc. SPECIES
-=======
+# Botryosphaeria graphidea (Berk. & Ravenel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

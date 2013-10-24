@@ -1,5 +1,4 @@
-Sporotrichum conditaneum Demelius SPECIES
-=======
+# Sporotrichum conditaneum Demelius SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chamaemyces pseudocastaneus (Bon & Boiffard) Contu SPECIES
-=======
+# Chamaemyces pseudocastaneus (Bon & Boiffard) Contu SPECIES
 
 #### Status
 ACCEPTED

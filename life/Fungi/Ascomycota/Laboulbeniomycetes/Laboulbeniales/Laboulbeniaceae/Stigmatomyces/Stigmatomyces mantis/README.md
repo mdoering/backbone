@@ -1,5 +1,4 @@
-Stigmatomyces mantis Huldén SPECIES
-=======
+# Stigmatomyces mantis Huldén SPECIES
 
 #### Status
 ACCEPTED

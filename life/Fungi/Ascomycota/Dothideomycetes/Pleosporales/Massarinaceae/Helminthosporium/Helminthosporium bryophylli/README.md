@@ -1,5 +1,4 @@
-Helminthosporium bryophylli Sawada SPECIES
-=======
+# Helminthosporium bryophylli Sawada SPECIES
 
 #### Status
 ACCEPTED

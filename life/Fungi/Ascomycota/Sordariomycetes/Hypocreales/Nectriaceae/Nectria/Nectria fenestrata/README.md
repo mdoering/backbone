@@ -1,5 +1,4 @@
-Nectria fenestrata Berk. & M.A. Curtis SPECIES
-=======
+# Nectria fenestrata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophomina Petr. GENUS
-=======
+# Macrophomina Petr. GENUS
 
 #### Status
 ACCEPTED

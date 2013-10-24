@@ -1,5 +1,4 @@
-Cercospora graminicola Tracy & Earle SPECIES
-=======
+# Cercospora graminicola Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

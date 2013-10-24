@@ -1,5 +1,4 @@
-Rhizocarpon elevatum H. Magn. SPECIES
-=======
+# Rhizocarpon elevatum H. Magn. SPECIES
 
 #### Status
 ACCEPTED

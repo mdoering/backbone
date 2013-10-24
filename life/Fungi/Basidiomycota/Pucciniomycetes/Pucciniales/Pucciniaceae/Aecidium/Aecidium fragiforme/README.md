@@ -1,5 +1,4 @@
-Aecidium fragiforme Ces. SPECIES
-=======
+# Aecidium fragiforme Ces. SPECIES
 
 #### Status
 ACCEPTED

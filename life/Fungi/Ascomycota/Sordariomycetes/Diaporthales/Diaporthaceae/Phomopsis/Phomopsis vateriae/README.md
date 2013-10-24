@@ -1,17 +1,16 @@
-Phomopsis vateria T.P. Devi & Chowdhry SPECIES
-=======
+# Phomopsis vateriae T.P. Devi & Chowdhry SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 57(4): 504 (2004)
 
 #### Original name
-Phomopsis vateria T.P. Devi & Chowdhry
+Phomopsis vateriae T.P. Devi & Chowdhry
 
 ### Remarks
 null

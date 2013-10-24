@@ -1,5 +1,4 @@
-Archaeodiscina ovalis Naumova, 1968 SPECIES
-=======
+# Archaeodiscina ovalis Naumova, 1968 SPECIES
 
 #### Status
 ACCEPTED

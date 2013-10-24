@@ -1,5 +1,4 @@
-Hypophrya López-Ochoterena, 1964 GENUS
-=======
+# Hypophrya López-Ochoterena, 1964 GENUS
 
 #### Status
 ACCEPTED

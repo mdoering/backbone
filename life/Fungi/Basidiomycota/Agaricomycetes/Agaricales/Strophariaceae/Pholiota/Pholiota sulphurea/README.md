@@ -1,5 +1,4 @@
-Pholiota sulphurea Beeli SPECIES
-=======
+# Pholiota sulphurea Beeli SPECIES
 
 #### Status
 ACCEPTED

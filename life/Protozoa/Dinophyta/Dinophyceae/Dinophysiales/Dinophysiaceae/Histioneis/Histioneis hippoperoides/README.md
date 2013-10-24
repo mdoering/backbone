@@ -1,5 +1,4 @@
-Histioneis hippoperoides SPECIES
-=======
+# Histioneis hippoperoides SPECIES
 
 #### Status
 ACCEPTED

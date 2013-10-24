@@ -1,5 +1,4 @@
-Cercospora bauhiniae-variegatae R.C. Rajak SPECIES
-=======
+# Cercospora bauhiniae-variegatae R.C. Rajak SPECIES
 
 #### Status
 ACCEPTED

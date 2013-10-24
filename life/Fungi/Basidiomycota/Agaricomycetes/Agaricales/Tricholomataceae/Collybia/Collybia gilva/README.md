@@ -1,8 +1,7 @@
-Collybia gilya (Pat.) Dennis SPECIES
-=======
+# Collybia gilva (Pat.) Dennis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Pleospora nolinae A.W. Ramaley & M.E. Barr SPECIES
-=======
+# Pleospora nolinae A.W. Ramaley & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

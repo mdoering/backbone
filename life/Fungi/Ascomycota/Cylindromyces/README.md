@@ -1,5 +1,4 @@
-Cylindromyces C. Manoharachary, D.K. Agarwal & N.K. Rao GENUS
-=======
+# Cylindromyces C. Manoharachary, D.K. Agarwal & N.K. Rao GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium anthyllidis Baudy SPECIES
-=======
+# Helminthosporium anthyllidis Baudy SPECIES
 
 #### Status
 ACCEPTED

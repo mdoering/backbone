@@ -1,5 +1,4 @@
-Arthonia serograpta (Nyl.) A. Massal. SPECIES
-=======
+# Arthonia serograpta (Nyl.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

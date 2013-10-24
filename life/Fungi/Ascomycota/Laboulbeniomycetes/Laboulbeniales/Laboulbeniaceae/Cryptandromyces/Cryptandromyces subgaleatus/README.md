@@ -1,5 +1,4 @@
-Cryptandromyces subgaleatus Thaxt. SPECIES
-=======
+# Cryptandromyces subgaleatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

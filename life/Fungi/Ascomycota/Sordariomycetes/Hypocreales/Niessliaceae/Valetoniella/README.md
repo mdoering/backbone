@@ -1,5 +1,4 @@
-Valetoniella Höhn. GENUS
-=======
+# Valetoniella Höhn. GENUS
 
 #### Status
 ACCEPTED

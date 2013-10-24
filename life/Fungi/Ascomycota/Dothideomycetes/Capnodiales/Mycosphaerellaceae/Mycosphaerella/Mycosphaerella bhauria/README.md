@@ -1,5 +1,4 @@
-Mycosphaerella bhauria (Cooke) Lindau SPECIES
-=======
+# Mycosphaerella bhauria (Cooke) Lindau SPECIES
 
 #### Status
 ACCEPTED

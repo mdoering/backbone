@@ -1,5 +1,4 @@
-Cercospora missouriensis G. Winter SPECIES
-=======
+# Cercospora missouriensis G. Winter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Secoliga interserta (Nyl.) Arnold SPECIES
-=======
+# Secoliga interserta (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

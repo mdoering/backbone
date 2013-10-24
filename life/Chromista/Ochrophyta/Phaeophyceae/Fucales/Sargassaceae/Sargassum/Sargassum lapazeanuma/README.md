@@ -1,5 +1,4 @@
-Sargassum lapazeanuma Setchell & Gardner SPECIES
-=======
+# Sargassum lapazeanuma Setchell & Gardner SPECIES
 
 #### Status
 ACCEPTED

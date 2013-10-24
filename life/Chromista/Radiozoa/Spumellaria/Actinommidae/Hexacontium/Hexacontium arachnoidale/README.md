@@ -1,5 +1,4 @@
-Hexacontium arachnoidale Hollande, 1960 SPECIES
-=======
+# Hexacontium arachnoidale Hollande, 1960 SPECIES
 
 #### Status
 ACCEPTED

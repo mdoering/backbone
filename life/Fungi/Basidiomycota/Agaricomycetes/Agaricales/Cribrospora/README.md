@@ -1,5 +1,4 @@
-Cribrospora Pacioni & P. Fantini GENUS
-=======
+# Cribrospora Pacioni & P. Fantini GENUS
 
 #### Status
 ACCEPTED

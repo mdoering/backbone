@@ -1,5 +1,4 @@
-Evernia kamtschadalis Mont. SPECIES
-=======
+# Evernia kamtschadalis Mont. SPECIES
 
 #### Status
 ACCEPTED

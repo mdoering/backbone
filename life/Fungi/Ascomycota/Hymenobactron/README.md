@@ -1,5 +1,4 @@
-Hymenobactron (Sacc.) Höhn. GENUS
-=======
+# Hymenobactron (Sacc.) Höhn. GENUS
 
 #### Status
 ACCEPTED

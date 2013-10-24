@@ -1,17 +1,16 @@
-Rosellinia rhopalostilicola L.E. Petrini SPECIES
-=======
+# Rosellinia rhopalostylidicola L.E. Petrini, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Z. Jl Bot. 41(1): 121 (2003)
 
 #### Original name
-Rosellinia rhopalostilicola L.E. Petrini
+Rosellinia rhopalostylidicola L.E. Petrini, 2003
 
 ### Remarks
 null

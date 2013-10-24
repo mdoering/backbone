@@ -1,5 +1,4 @@
-Petalomonas minutula Christen SPECIES
-=======
+# Petalomonas minutula Christen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterodoassansia ranunculina (Davis) Vánky SPECIES
-=======
+# Heterodoassansia ranunculina (Davis) Vánky SPECIES
 
 #### Status
 ACCEPTED

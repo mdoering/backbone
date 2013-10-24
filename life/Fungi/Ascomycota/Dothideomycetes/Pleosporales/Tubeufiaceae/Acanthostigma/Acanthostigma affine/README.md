@@ -1,5 +1,4 @@
-Acanthostigma affine Sacc. & Berl., 1885 SPECIES
-=======
+# Acanthostigma affine Sacc. & Berl., 1885 SPECIES
 
 #### Status
 ACCEPTED

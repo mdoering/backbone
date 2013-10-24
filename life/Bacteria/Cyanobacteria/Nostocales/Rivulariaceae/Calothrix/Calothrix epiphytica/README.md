@@ -1,5 +1,4 @@
-Calothrix epiphytica W. West & G.S. West SPECIES
-=======
+# Calothrix epiphytica W. West & G.S. West SPECIES
 
 #### Status
 ACCEPTED

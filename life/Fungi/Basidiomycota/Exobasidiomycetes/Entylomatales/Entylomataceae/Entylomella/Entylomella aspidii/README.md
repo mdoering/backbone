@@ -1,5 +1,4 @@
-Entylomella aspidii (Bres.) Höhn. SPECIES
-=======
+# Entylomella aspidii (Bres.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

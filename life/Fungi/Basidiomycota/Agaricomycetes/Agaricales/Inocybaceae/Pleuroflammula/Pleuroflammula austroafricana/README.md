@@ -1,5 +1,4 @@
-Pleuroflammula austroafricana (Pilát) D.A. Reid SPECIES
-=======
+# Pleuroflammula austroafricana (Pilát) D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Disphaerocapsula Dumitrica, 1999 GENUS
-=======
+# Disphaerocapsula Dumitrica, 1999 GENUS
 
 #### Status
 ACCEPTED

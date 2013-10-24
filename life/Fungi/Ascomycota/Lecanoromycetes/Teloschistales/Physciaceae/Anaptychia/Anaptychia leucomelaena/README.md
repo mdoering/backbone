@@ -1,5 +1,4 @@
-Anaptychia leucomelaena f. leucomelaena FORM
-=======
+# Anaptychia leucomelaena SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Acta Soc. Fauna Flora fenn. 7(1): 128 (1890)
+null
 
 #### Original name
-Anaptychia leucomelaena f. leucomelaena
+null
 
 ### Remarks
 null

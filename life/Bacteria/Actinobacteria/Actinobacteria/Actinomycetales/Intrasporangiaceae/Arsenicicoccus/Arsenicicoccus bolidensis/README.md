@@ -1,5 +1,4 @@
-Arsenicicoccus bolidensis Collins et al., 2004 SPECIES
-=======
+# Arsenicicoccus bolidensis Collins et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

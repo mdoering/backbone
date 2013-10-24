@@ -1,5 +1,4 @@
-Hymenogaster rehsteineri Bucholtz, 1901 SPECIES
-=======
+# Hymenogaster rehsteineri Bucholtz, 1901 SPECIES
 
 #### Status
 ACCEPTED

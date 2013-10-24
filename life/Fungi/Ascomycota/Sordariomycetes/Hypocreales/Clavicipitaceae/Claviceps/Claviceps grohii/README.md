@@ -1,5 +1,4 @@
-Claviceps grohii J.W. Groves, 1943 SPECIES
-=======
+# Claviceps grohii J.W. Groves, 1943 SPECIES
 
 #### Status
 ACCEPTED

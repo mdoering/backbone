@@ -1,5 +1,4 @@
-Trichoscypha afzelii (Fr.) Sacc. SPECIES
-=======
+# Trichoscypha afzelii (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eucampia zoodiacus Ehrenberg SPECIES
-=======
+# Eucampia zoodiacus Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

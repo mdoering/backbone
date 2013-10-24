@@ -1,8 +1,7 @@
-Lactarius bresadolianus Singer SPECIES
-=======
+# Lactarius bresadolanus Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lactarius bresadolianus Singer
+Lactarius bresadolanus Singer
 
 ### Remarks
 null

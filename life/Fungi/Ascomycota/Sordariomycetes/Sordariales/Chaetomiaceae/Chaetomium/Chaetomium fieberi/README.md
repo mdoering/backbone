@@ -1,5 +1,4 @@
-Chaetomium fieberi var. fieberi VARIETY
-=======
+# Chaetomium fieberi Corda SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Chaetomium fieberi var. fieberi
+Chaetomium fieberi Corda
 
 ### Remarks
 null

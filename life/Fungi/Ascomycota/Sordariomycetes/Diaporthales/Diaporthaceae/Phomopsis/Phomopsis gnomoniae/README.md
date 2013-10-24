@@ -1,5 +1,4 @@
-Phomopsis gnomoniae Petr. SPECIES
-=======
+# Phomopsis gnomoniae Petr. SPECIES
 
 #### Status
 ACCEPTED

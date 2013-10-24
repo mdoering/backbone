@@ -1,5 +1,4 @@
-Dimeromyces roreri Thaxt. SPECIES
-=======
+# Dimeromyces roreri Thaxt. SPECIES
 
 #### Status
 ACCEPTED

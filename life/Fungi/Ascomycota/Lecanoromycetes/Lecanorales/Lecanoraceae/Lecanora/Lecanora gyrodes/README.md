@@ -1,5 +1,4 @@
-Lecanora gyrodes Nyl. SPECIES
-=======
+# Lecanora gyrodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

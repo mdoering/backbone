@@ -1,5 +1,4 @@
-Ancorasporella J. Mena, Mercado & Heredia GENUS
-=======
+# Ancorasporella J. Mena, Mercado & Heredia GENUS
 
 #### Status
 ACCEPTED

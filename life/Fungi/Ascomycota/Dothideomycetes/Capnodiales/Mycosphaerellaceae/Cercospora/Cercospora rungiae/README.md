@@ -1,5 +1,4 @@
-Cercospora rungiae M.S. Patil SPECIES
-=======
+# Cercospora rungiae M.S. Patil SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fairmaniella nigricans (Cooke & Massee) Arx SPECIES
-=======
+# Fairmaniella nigricans (Cooke & Massee) Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrella chusqueae Petr. SPECIES
-=======
+# Hypocrella chusqueae Petr. SPECIES
 
 #### Status
 ACCEPTED

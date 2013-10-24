@@ -1,5 +1,4 @@
-Bullaria gouaniae (Holw.) Arthur & Mains SPECIES
-=======
+# Bullaria gouaniae (Holw.) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

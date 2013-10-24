@@ -1,5 +1,4 @@
-Trichopeziza subglobosa (Saut.) Sacc. SPECIES
-=======
+# Trichopeziza subglobosa (Saut.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

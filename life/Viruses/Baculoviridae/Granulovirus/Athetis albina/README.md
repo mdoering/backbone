@@ -1,5 +1,4 @@
-Athetis albina GV SPECIES
-=======
+# Athetis albina GV SPECIES
 
 #### Status
 ACCEPTED

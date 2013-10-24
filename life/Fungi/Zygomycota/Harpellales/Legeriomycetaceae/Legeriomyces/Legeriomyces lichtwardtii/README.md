@@ -1,5 +1,4 @@
-Legeriomyces lichtwardtii Siri, 2010 SPECIES
-=======
+# Legeriomyces lichtwardtii Siri, 2010 SPECIES
 
 #### Status
 ACCEPTED

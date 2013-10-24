@@ -1,8 +1,7 @@
-Haplosporidium ecdyonuris Weiser SPECIES
-=======
+# Haplosporidium ecdyonuri Weiser SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Haplosporidium ecdyonuris Weiser
+Haplosporidium ecdyonuri Weiser
 
 ### Remarks
 null

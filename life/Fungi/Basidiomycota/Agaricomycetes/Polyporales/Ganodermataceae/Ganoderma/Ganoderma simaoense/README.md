@@ -1,5 +1,4 @@
-Ganoderma simaoense J.D. Zhao, 1988 SPECIES
-=======
+# Ganoderma simaoense J.D. Zhao, 1988 SPECIES
 
 #### Status
 ACCEPTED

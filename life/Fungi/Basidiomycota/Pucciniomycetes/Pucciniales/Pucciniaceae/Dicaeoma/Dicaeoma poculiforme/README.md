@@ -1,5 +1,4 @@
-Dicaeoma poculiforme (Jacq.) Kuntze SPECIES
-=======
+# Dicaeoma poculiforme (Jacq.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

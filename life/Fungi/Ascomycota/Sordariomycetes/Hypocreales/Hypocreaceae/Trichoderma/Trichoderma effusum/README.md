@@ -1,5 +1,4 @@
-Trichoderma effusum Bissett, C.P. Kubicek & Szakacs, 2003 SPECIES
-=======
+# Trichoderma effusum Bissett, C.P. Kubicek & Szakacs, 2003 SPECIES
 
 #### Status
 ACCEPTED

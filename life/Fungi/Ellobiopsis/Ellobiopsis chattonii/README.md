@@ -1,17 +1,16 @@
-Ellobiopsis chattoni Caullery SPECIES
-=======
+# Ellobiopsis chattonii Caullery SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Scientifique de la France et de la Belgique 44: 213 (1910)
 
 #### Original name
-Ellobiopsis chattoni Caullery
+Ellobiopsis chattonii Caullery
 
 ### Remarks
 null

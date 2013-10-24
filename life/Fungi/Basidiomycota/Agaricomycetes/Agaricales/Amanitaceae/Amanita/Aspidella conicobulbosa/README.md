@@ -1,5 +1,4 @@
-Aspidella conicobulbosa (Cleland) E.-J. Gilbert SPECIES
-=======
+# Aspidella conicobulbosa (Cleland) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

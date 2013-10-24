@@ -1,5 +1,4 @@
-Brunneosporella V.M. Ranghoo & K.D. Hyde GENUS
-=======
+# Brunneosporella V.M. Ranghoo & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

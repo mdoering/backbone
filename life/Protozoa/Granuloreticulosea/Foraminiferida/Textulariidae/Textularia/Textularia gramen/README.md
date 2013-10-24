@@ -1,5 +1,4 @@
-Textularia gramen SPECIES
-=======
+# Textularia gramen SPECIES
 
 #### Status
 ACCEPTED

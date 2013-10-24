@@ -1,5 +1,4 @@
-Dothiorella mahagoni Thüm. SPECIES
-=======
+# Dothiorella mahagoni Thüm. SPECIES
 
 #### Status
 ACCEPTED

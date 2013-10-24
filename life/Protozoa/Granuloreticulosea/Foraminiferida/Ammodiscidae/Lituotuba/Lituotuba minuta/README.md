@@ -1,5 +1,4 @@
-Lituotuba minuta Collins, 1958 SPECIES
-=======
+# Lituotuba minuta Collins, 1958 SPECIES
 
 #### Status
 ACCEPTED

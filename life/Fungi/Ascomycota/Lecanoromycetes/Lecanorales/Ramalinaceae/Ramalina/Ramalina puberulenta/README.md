@@ -1,5 +1,4 @@
-Ramalina puberulenta Riefner & Bowler SPECIES
-=======
+# Ramalina puberulenta Riefner & Bowler SPECIES
 
 #### Status
 ACCEPTED

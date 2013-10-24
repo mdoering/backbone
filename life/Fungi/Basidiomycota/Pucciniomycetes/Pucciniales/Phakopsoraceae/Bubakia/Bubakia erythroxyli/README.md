@@ -1,14 +1,13 @@
-Bubakia erythroxylonis (Graziani) Cummins SPECIES
-=======
+# Bubakia erythroxyli (Graziani) Cummins SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 67: 69 (1940)
 
 #### Original name
 Uredo erythroxyli Graziani

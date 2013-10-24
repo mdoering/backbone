@@ -1,5 +1,4 @@
-Synsporium biguttatum Preuss SPECIES
-=======
+# Synsporium biguttatum Preuss SPECIES
 
 #### Status
 ACCEPTED

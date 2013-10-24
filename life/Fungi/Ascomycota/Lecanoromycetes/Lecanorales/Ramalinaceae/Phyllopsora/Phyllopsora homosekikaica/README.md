@@ -1,5 +1,4 @@
-Phyllopsora homosekikaica Elix SPECIES
-=======
+# Phyllopsora homosekikaica Elix SPECIES
 
 #### Status
 ACCEPTED

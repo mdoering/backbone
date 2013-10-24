@@ -1,5 +1,4 @@
-Didymosphaeria graminicola Ellis & Everh. SPECIES
-=======
+# Didymosphaeria graminicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

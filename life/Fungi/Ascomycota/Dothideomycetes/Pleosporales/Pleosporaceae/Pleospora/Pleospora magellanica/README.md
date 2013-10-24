@@ -1,5 +1,4 @@
-Pleospora magellanica Speg. SPECIES
-=======
+# Pleospora magellanica Speg. SPECIES
 
 #### Status
 ACCEPTED

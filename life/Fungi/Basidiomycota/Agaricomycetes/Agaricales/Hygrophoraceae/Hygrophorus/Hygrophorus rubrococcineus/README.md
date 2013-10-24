@@ -1,5 +1,4 @@
-Hygrophorus rubrococcineus Henn. SPECIES
-=======
+# Hygrophorus rubrococcineus Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gastrulocapsula Dumitrica, 1999 GENUS
-=======
+# Gastrulocapsula Dumitrica, 1999 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea subcaerulea Stirt. SPECIES
-=======
+# Lecidea subcaerulea Stirt. SPECIES
 
 #### Status
 ACCEPTED

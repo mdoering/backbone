@@ -1,5 +1,4 @@
-Caloplaca interna Poelt & Nimis SPECIES
-=======
+# Caloplaca interna Poelt & Nimis SPECIES
 
 #### Status
 ACCEPTED

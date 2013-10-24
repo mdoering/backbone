@@ -1,5 +1,4 @@
-Pseudocercospora macclatchieana (Sacc. & Syd.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora macclatchieana (Sacc. & Syd.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

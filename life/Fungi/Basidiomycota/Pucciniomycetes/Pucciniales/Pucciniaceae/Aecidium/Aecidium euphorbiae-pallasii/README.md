@@ -1,5 +1,4 @@
-Aecidium euphorbiae-pallasii Tranzschel SPECIES
-=======
+# Aecidium euphorbiae-pallasii Tranzschel SPECIES
 
 #### Status
 ACCEPTED

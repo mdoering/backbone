@@ -1,5 +1,4 @@
-Golovinomyces hyoscyami (R.Y. Zheng & G.Q. Chen) V.P. Heluta SPECIES
-=======
+# Golovinomyces hyoscyami (R.Y. Zheng & G.Q. Chen) V.P. Heluta SPECIES
 
 #### Status
 ACCEPTED

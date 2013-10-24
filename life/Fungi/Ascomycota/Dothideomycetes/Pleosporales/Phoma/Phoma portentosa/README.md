@@ -1,5 +1,4 @@
-Phoma portentosa Cooke & Massee SPECIES
-=======
+# Phoma portentosa Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

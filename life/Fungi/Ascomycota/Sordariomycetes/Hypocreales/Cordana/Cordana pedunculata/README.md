@@ -1,5 +1,4 @@
-Cordana pedunculata Preuss SPECIES
-=======
+# Cordana pedunculata Preuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Wardomyces humicola Hennebert & G.L. Barron, 1962 SPECIES
-=======
+# Wardomyces humicola Hennebert & G.L. Barron, 1962 SPECIES
 
 #### Status
 ACCEPTED

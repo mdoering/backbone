@@ -1,5 +1,4 @@
-Polyporus janseanus Henn. & E. Nyman SPECIES
-=======
+# Polyporus janseanus Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

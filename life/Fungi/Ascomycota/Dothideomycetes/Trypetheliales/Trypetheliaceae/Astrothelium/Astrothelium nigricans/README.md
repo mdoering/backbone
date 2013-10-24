@@ -1,5 +1,4 @@
-Astrothelium nigricans Malme SPECIES
-=======
+# Astrothelium nigricans Malme SPECIES
 
 #### Status
 ACCEPTED

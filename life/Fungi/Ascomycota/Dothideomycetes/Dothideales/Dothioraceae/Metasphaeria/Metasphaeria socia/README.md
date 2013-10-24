@@ -1,5 +1,4 @@
-Metasphaeria socia Sacc. SPECIES
-=======
+# Metasphaeria socia Sacc. SPECIES
 
 #### Status
 ACCEPTED

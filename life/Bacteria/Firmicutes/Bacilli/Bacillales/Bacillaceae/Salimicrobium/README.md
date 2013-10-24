@@ -1,5 +1,4 @@
-Salimicrobium Yoon, Kang & Oh, 2007 GENUS
-=======
+# Salimicrobium Yoon, Kang & Oh, 2007 GENUS
 
 #### Status
 ACCEPTED

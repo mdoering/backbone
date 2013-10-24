@@ -1,5 +1,4 @@
-Peltularia austroshetlandica (Øvstedal & Søchting) P.M. Jørg. SPECIES
-=======
+# Peltularia austroshetlandica (Øvstedal & Søchting) P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

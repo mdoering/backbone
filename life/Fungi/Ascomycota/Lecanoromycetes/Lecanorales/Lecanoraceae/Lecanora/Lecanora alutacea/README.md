@@ -1,5 +1,4 @@
-Lecanora alutacea Hue SPECIES
-=======
+# Lecanora alutacea Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphimelissa Jørgensen in Nordgaard & Joergensen, 1905 GENUS
-=======
+# Amphimelissa Jørgensen in Nordgaard & Joergensen, 1905 GENUS
 
 #### Status
 ACCEPTED

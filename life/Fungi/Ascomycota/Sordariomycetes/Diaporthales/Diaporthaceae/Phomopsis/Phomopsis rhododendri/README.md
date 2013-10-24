@@ -1,5 +1,4 @@
-Phomopsis rhododendri Z.D. Jiang, M.M. Xiang & P.K. Chi SPECIES
-=======
+# Phomopsis rhododendri Z.D. Jiang, M.M. Xiang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

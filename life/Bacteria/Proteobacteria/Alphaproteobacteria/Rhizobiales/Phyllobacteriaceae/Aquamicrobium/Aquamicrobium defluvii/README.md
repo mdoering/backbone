@@ -1,5 +1,4 @@
-Aquamicrobium defluvii Bambauer et al., 1998 SPECIES
-=======
+# Aquamicrobium defluvii Bambauer et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

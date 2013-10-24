@@ -1,5 +1,4 @@
-Claviceps digitariae Hansf. SPECIES
-=======
+# Claviceps digitariae Hansf. SPECIES
 
 #### Status
 ACCEPTED

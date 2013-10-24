@@ -1,5 +1,4 @@
-Gyroidinella kuwanoi Oki, 1989 SPECIES
-=======
+# Gyroidinella kuwanoi Oki, 1989 SPECIES
 
 #### Status
 ACCEPTED

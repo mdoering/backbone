@@ -1,5 +1,4 @@
-Sphaeria pachytricha Link SPECIES
-=======
+# Sphaeria pachytricha Link SPECIES
 
 #### Status
 ACCEPTED

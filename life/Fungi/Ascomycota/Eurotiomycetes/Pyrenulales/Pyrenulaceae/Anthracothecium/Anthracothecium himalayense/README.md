@@ -1,5 +1,4 @@
-Anthracothecium himalayense var. himalayense (Räsänen) D.D. Awasthi VARIETY
-=======
+# Anthracothecium himalayense (Räsänen) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Anthracothecium himalayense var. himalayense (Räsänen) D.D. Awasthi
+Bottaria himalayensis Räsänen
 
 ### Remarks
 null

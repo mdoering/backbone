@@ -1,8 +1,7 @@
-Amoeba pulchra Biernacka, 1963 SPECIES
-=======
+# Thecamoeba pulchra Page, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Phyllosticta eucommiae F.X. Chao & P.K. Chi SPECIES
-=======
+# Phyllosticta eucommiae F.X. Chao & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

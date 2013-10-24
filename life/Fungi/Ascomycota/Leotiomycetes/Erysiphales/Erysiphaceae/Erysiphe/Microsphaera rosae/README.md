@@ -1,5 +1,4 @@
-Microsphaera rosae H. Karis SPECIES
-=======
+# Microsphaera rosae H. Karis SPECIES
 
 #### Status
 ACCEPTED

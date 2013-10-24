@@ -1,5 +1,4 @@
-Ascochyta crataegicola Allesch. SPECIES
-=======
+# Ascochyta crataegicola Allesch. SPECIES
 
 #### Status
 ACCEPTED

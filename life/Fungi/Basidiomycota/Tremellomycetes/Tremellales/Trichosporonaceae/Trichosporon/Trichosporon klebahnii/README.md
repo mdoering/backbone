@@ -1,8 +1,7 @@
-Trichosporon klebhanii Stautz SPECIES
-=======
+# Trichosporon klebahnii Stautz SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Trichosporon klebhanii Stautz
+Trichosporon klebahnii Stautz
 
 ### Remarks
 null

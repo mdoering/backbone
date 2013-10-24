@@ -1,5 +1,4 @@
-Biatora varians F. Wilson SPECIES
-=======
+# Biatora varians F. Wilson SPECIES
 
 #### Status
 ACCEPTED

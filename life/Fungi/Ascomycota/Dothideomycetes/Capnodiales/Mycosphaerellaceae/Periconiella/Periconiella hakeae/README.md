@@ -1,5 +1,4 @@
-Periconiella hakeae Priest SPECIES
-=======
+# Periconiella hakeae Priest SPECIES
 
 #### Status
 ACCEPTED

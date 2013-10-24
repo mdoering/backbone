@@ -1,5 +1,4 @@
-Nematothecium australiense Hansf. SPECIES
-=======
+# Nematothecium australiense Hansf. SPECIES
 
 #### Status
 ACCEPTED

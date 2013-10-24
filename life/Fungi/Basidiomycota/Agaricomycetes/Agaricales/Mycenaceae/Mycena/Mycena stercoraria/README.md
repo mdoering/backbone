@@ -1,5 +1,4 @@
-Mycena stercoraria Raithelh. SPECIES
-=======
+# Mycena stercoraria Raithelh. SPECIES
 
 #### Status
 ACCEPTED

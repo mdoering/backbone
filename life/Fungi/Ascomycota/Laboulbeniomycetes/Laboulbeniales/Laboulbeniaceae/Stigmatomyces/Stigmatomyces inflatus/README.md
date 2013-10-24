@@ -1,5 +1,4 @@
-Stigmatomyces inflatus Thaxt. SPECIES
-=======
+# Stigmatomyces inflatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

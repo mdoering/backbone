@@ -1,5 +1,4 @@
-Harpellomyces abruptus Lichtw., M.M. White & Colbo, 2001 SPECIES
-=======
+# Harpellomyces abruptus Lichtw., M.M. White & Colbo, 2001 SPECIES
 
 #### Status
 ACCEPTED

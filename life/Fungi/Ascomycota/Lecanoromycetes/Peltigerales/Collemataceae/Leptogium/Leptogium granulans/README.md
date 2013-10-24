@@ -1,5 +1,4 @@
-Leptogium granulans Vain. SPECIES
-=======
+# Leptogium granulans Vain. SPECIES
 
 #### Status
 ACCEPTED

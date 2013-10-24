@@ -1,5 +1,4 @@
-Niebla pulchribarbara (Rundel & Bowler) Rundel & Bowler SPECIES
-=======
+# Niebla pulchribarbara (Rundel & Bowler) Rundel & Bowler SPECIES
 
 #### Status
 ACCEPTED

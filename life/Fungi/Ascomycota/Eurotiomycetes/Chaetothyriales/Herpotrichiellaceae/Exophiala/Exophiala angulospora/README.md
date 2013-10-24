@@ -1,5 +1,4 @@
-Exophiala angulospora Iwatsu, Udagawa & T. Takase, 1991 SPECIES
-=======
+# Exophiala angulospora Iwatsu, Udagawa & T. Takase, 1991 SPECIES
 
 #### Status
 ACCEPTED

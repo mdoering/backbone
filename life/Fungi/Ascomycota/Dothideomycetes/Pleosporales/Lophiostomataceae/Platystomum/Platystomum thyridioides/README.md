@@ -1,5 +1,4 @@
-Platystomum thyridioides (Sacc. & Speg.) Lindau SPECIES
-=======
+# Platystomum thyridioides (Sacc. & Speg.) Lindau SPECIES
 
 #### Status
 ACCEPTED

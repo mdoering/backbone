@@ -1,5 +1,4 @@
-Zygogloea gemellipara P. Roberts, 1994 SPECIES
-=======
+# Zygogloea gemellipara P. Roberts, 1994 SPECIES
 
 #### Status
 ACCEPTED

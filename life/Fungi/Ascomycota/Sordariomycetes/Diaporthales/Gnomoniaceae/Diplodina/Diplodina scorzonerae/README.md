@@ -1,5 +1,4 @@
-Diplodina scorzonerae Byzova SPECIES
-=======
+# Diplodina scorzonerae Byzova SPECIES
 
 #### Status
 ACCEPTED

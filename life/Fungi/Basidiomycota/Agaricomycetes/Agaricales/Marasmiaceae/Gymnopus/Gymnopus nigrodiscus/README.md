@@ -1,5 +1,4 @@
-Gymnopus nigrodiscus (Peck) Murrill SPECIES
-=======
+# Gymnopus nigrodiscus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

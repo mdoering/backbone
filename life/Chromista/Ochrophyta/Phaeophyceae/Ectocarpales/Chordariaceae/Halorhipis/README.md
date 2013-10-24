@@ -1,5 +1,4 @@
-Halorhipis Saunders, 1898 GENUS
-=======
+# Halorhipis Saunders, 1898 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ganoderma parvulum Murrill, 1902 SPECIES
-=======
+# Ganoderma stipitatum (Murrill) Murrill, 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 29: 605 (1902)
+N. Amer. Fl. (New York) 9(2): 122 (1908)
 
 #### Original name
-Ganoderma parvulum Murrill, 1902
+Fomes stipitatus Murrill, 1903
 
 ### Remarks
 null

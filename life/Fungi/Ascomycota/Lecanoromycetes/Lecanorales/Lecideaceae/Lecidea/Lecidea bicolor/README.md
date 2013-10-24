@@ -1,5 +1,4 @@
-Lecidea bicolor Spreng. SPECIES
-=======
+# Lecidea bicolor Spreng. SPECIES
 
 #### Status
 ACCEPTED

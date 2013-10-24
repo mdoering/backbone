@@ -1,5 +1,4 @@
-Ceriomyces inflexus (Peck) Murrill SPECIES
-=======
+# Ceriomyces inflexus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

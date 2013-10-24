@@ -1,14 +1,13 @@
-Margarinomyces mutabilis J.F.H. Beyma, 1944 SPECIES
-=======
+# Lecythophora mutabilis (J.F.H. Beyma) W. Gams & McGinnis, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Antonie van Leeuwenhoek 10: 48 (1944)
+Mycologia 75(6): 985 (1983)
 
 #### Original name
 Margarinomyces mutabilis J.F.H. Beyma, 1944

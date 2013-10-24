@@ -1,5 +1,4 @@
-Bensingtonia phylladus Y. Yamada, Nakagawa & Van der Walt SPECIES
-=======
+# Bensingtonia phylladus Y. Yamada, Nakagawa & Van der Walt SPECIES
 
 #### Status
 ACCEPTED

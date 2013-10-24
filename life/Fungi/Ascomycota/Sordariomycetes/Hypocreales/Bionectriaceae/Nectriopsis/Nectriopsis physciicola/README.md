@@ -1,5 +1,4 @@
-Nectriopsis physciicola D. Hawksw. & Earl.-Benn. SPECIES
-=======
+# Nectriopsis physciicola D. Hawksw. & Earl.-Benn. SPECIES
 
 #### Status
 ACCEPTED

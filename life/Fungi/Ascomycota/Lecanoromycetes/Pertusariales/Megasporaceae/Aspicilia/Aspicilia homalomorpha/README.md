@@ -1,5 +1,4 @@
-Aspicilia homalomorpha (Nyl.) Hue SPECIES
-=======
+# Aspicilia homalomorpha (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

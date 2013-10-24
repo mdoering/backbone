@@ -1,5 +1,4 @@
-Rhizophydium lenelangeae Sparrow SPECIES
-=======
+# Rhizophydium lenelangeae Sparrow SPECIES
 
 #### Status
 ACCEPTED

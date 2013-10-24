@@ -1,17 +1,16 @@
-Entyloma crepidis var. crepidis-rubrae (Jaap) Sacc., 1925 VARIETY
-=======
+# Entyloma crepidis-rubrae (Jaap) Liro, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Acad. Sci. fenn. , Ser. A 42: 139 (1935)
 
 #### Original name
-null
+Entyloma crepidicola var. crepidis-rubrae Jaap, 1916
 
 ### Remarks
 null

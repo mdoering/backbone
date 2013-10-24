@@ -1,5 +1,4 @@
-Septoria guembe Speg. SPECIES
-=======
+# Septoria guembe Speg. SPECIES
 
 #### Status
 ACCEPTED

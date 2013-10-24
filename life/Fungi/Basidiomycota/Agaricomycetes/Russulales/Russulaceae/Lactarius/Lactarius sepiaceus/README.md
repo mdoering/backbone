@@ -1,5 +1,4 @@
-Lactarius sepiaceus McNabb, 1971 SPECIES
-=======
+# Lactarius sepiaceus McNabb, 1971 SPECIES
 
 #### Status
 ACCEPTED

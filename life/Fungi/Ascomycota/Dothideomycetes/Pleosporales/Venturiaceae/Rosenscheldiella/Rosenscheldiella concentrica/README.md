@@ -1,5 +1,4 @@
-Rosenscheldiella concentrica (Tim) Arx & E. Müll. SPECIES
-=======
+# Rosenscheldiella concentrica (Tim) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

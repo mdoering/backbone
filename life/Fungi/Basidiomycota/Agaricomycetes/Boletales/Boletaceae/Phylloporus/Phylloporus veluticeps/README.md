@@ -1,14 +1,13 @@
-Paxillus veluticeps (Sacc.) Singer, 1955 SPECIES
-=======
+# Phylloporus veluticeps (Sacc.) Pegler & T.W.K. Young, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 9: 418 (1955)
+Trans. Br. mycol. Soc. 76(1): 119 (1981)
 
 #### Original name
 Agaricus veluticeps Cooke & Massee, 1889

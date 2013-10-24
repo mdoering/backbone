@@ -1,5 +1,4 @@
-Phoma elaeagnella Cooke SPECIES
-=======
+# Phoma elaeagnella Cooke SPECIES
 
 #### Status
 ACCEPTED

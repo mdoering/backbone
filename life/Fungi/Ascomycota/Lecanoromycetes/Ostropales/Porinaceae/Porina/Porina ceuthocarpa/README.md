@@ -1,5 +1,4 @@
-Porina ceuthocarpa (Sm.) SPECIES
-=======
+# Porina ceuthocarpa (Sm.) SPECIES
 
 #### Status
 ACCEPTED

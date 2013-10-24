@@ -1,5 +1,4 @@
-Xeromphalina kauffmanii A.H. Sm., 1953 SPECIES
-=======
+# Xeromphalina kauffmanii A.H. Sm., 1953 SPECIES
 
 #### Status
 ACCEPTED

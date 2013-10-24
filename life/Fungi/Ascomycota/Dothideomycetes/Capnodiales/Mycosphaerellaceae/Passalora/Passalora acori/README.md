@@ -1,5 +1,4 @@
-Passalora acori (J.M. Yen) U. Braun & Crous SPECIES
-=======
+# Passalora acori (J.M. Yen) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

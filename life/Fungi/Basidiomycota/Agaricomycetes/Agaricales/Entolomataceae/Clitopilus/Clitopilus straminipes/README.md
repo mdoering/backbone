@@ -1,5 +1,4 @@
-Clitopilus straminipes (Massee) Sacc. SPECIES
-=======
+# Clitopilus straminipes (Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

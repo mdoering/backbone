@@ -1,5 +1,4 @@
-Lecidea obscura Ramond SPECIES
-=======
+# Lecidea obscura Ramond SPECIES
 
 #### Status
 ACCEPTED

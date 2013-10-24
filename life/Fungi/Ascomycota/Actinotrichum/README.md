@@ -1,5 +1,4 @@
-Actinotrichum Wallr. GENUS
-=======
+# Actinotrichum Wallr. GENUS
 
 #### Status
 ACCEPTED

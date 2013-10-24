@@ -1,5 +1,4 @@
-Eutypella constellata (Berk. & M.A. Curtis) Berl. & Voglino SPECIES
-=======
+# Eutypella constellata (Berk. & M.A. Curtis) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Limnothrix pseudominima (Skuja) I. Umezaki & M. Watanabe SPECIES
-=======
+# Limnothrix pseudominima (Skuja) I. Umezaki & M. Watanabe SPECIES
 
 #### Status
 ACCEPTED

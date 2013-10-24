@@ -1,5 +1,4 @@
-Lecidea alba Schleich. SPECIES
-=======
+# Lecidea alba Schleich. SPECIES
 
 #### Status
 ACCEPTED

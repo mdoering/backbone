@@ -1,5 +1,4 @@
-Cortinarius pseudolargus f. pseudolargus FORM
-=======
+# Cortinarius pseudolargus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Chevassut & Henry, Docums Mycol. 17(no. 68): 27 (1987)
 
 #### Original name
-Cortinarius pseudolargus f. pseudolargus
+Cortinarius pseudolargus Rob. Henry
 
 ### Remarks
 null

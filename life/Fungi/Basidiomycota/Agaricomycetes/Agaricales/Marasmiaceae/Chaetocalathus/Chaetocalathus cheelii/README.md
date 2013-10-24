@@ -1,5 +1,4 @@
-Chaetocalathus cheelii (Massee) J.A. Simpson & Grgur. SPECIES
-=======
+# Chaetocalathus cheelii (Massee) J.A. Simpson & Grgur. SPECIES
 
 #### Status
 ACCEPTED

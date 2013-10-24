@@ -1,5 +1,4 @@
-Septobasidium cervicolor Couch ex L.D. Gómez & Henk SPECIES
-=======
+# Septobasidium cervicolor Couch ex L.D. Gómez & Henk SPECIES
 
 #### Status
 ACCEPTED

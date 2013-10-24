@@ -1,5 +1,4 @@
-Anthracothecium hexamerum Müll. Arg. SPECIES
-=======
+# Anthracothecium hexamerum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

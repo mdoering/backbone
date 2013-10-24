@@ -1,5 +1,4 @@
-Nyctotherus scinci Puytorac, 1954 SPECIES
-=======
+# Nyctotherus scinci Puytorac, 1954 SPECIES
 
 #### Status
 ACCEPTED

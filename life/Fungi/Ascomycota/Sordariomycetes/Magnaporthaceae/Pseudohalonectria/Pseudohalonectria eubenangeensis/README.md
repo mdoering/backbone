@@ -1,5 +1,4 @@
-Pseudohalonectria eubenangeensis K.D. Hyde, Joanne E. Taylor & J. Fröhl., 1999 SPECIES
-=======
+# Pseudohalonectria eubenangeensis K.D. Hyde, Joanne E. Taylor & J. Fröhl., 1999 SPECIES
 
 #### Status
 ACCEPTED

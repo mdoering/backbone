@@ -1,14 +1,13 @@
-Cyphella taxi Lév., 1847 SPECIES
-=======
+# Resupinatus taxi (Lév.) Thorn, Moncalvo & Redhead, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 8: 336 (1847)
+in Thorn, Moncalvo, Redhead, Lodge & Martín, Mycologia 97(5): 1148 (2006)
 
 #### Original name
 Cyphella taxi Lév., 1847

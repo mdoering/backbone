@@ -1,5 +1,4 @@
-Rhabdospora eriosporioides Vestergr. SPECIES
-=======
+# Rhabdospora eriosporioides Vestergr. SPECIES
 
 #### Status
 ACCEPTED

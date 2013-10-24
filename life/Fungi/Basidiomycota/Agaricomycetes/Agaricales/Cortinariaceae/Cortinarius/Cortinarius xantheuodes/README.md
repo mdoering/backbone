@@ -1,5 +1,4 @@
-Cortinarius xantheuodes Rob. Henry SPECIES
-=======
+# Cortinarius xantheuodes Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

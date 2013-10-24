@@ -1,5 +1,4 @@
-Sarcographina maculata Kr.P. Singh & G.P. Sinha SPECIES
-=======
+# Sarcographina maculata Kr.P. Singh & G.P. Sinha SPECIES
 
 #### Status
 ACCEPTED

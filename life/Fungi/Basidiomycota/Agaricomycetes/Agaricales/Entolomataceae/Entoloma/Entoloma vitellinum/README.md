@@ -1,5 +1,4 @@
-Entoloma vitellinum (Singer) E. Horak SPECIES
-=======
+# Entoloma vitellinum (Singer) E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerulina marginata (Wallr.) Kirschst. SPECIES
-=======
+# Sphaerulina marginata (Wallr.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria ceibae Bat. SPECIES
-=======
+# Septoria ceibae Bat. SPECIES
 
 #### Status
 ACCEPTED

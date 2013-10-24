@@ -1,5 +1,4 @@
-Scytonema varium Kützing SPECIES
-=======
+# Scytonema varium Kützing SPECIES
 
 #### Status
 ACCEPTED

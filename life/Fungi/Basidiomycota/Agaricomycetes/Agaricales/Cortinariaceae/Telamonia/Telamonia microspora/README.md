@@ -1,5 +1,4 @@
-Telamonia microspora Velen. SPECIES
-=======
+# Telamonia microspora Velen. SPECIES
 
 #### Status
 ACCEPTED

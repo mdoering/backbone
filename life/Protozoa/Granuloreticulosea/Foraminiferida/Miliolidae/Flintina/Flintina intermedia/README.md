@@ -1,5 +1,4 @@
-Flintina intermedia (Howchin) SPECIES
-=======
+# Flintina intermedia (Howchin) SPECIES
 
 #### Status
 ACCEPTED

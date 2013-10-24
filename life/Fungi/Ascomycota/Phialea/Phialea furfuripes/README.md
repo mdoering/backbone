@@ -1,5 +1,4 @@
-Phialea furfuripes (Berk. & M.A. Curtis) W. Phillips SPECIES
-=======
+# Phialea furfuripes (Berk. & M.A. Curtis) W. Phillips SPECIES
 
 #### Status
 ACCEPTED

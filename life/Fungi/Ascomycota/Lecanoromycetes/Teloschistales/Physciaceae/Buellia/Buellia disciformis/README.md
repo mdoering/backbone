@@ -1,17 +1,16 @@
-Buellia parasema f. parasema FORM
-=======
+# Buellia disciformis (Fr.) Mudd SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-G. bot. ital. 2,1,1: 198 (1846)
+Man. Brit. Lich. 216 (1861)
 
 #### Original name
-Buellia parasema f. parasema
+Lecidea parasema var. disciformis Fr.
 
 ### Remarks
 null

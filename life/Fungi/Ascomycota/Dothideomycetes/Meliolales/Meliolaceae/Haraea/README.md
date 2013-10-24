@@ -1,5 +1,4 @@
-Haraea Sacc. & P. Syd. GENUS
-=======
+# Haraea Sacc. & P. Syd. GENUS
 
 #### Status
 ACCEPTED

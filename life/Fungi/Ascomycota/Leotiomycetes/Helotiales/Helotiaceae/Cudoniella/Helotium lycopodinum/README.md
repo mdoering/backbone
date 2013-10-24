@@ -1,5 +1,4 @@
-Helotium lycopodinum Moesz SPECIES
-=======
+# Helotium lycopodinum Moesz SPECIES
 
 #### Status
 ACCEPTED

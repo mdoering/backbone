@@ -1,5 +1,4 @@
-Lecania heterochroa Müll. Arg. SPECIES
-=======
+# Lecania heterochroa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

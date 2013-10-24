@@ -1,5 +1,4 @@
-Phaeoglabrotricha puertoricensis W.B. Cooke SPECIES
-=======
+# Phaeoglabrotricha puertoricensis W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

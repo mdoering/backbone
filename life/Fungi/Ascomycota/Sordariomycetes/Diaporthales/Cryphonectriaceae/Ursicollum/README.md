@@ -1,5 +1,4 @@
-Ursicollum Gryzenh. & M.J. Wingf. GENUS
-=======
+# Ursicollum Gryzenh. & M.J. Wingf. GENUS
 
 #### Status
 ACCEPTED

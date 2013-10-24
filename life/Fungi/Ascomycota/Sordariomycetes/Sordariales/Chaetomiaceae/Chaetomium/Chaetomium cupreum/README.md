@@ -1,14 +1,13 @@
-Chaetomium trilaterale var. cupreum (L.M. Ames) J.C. Cooke, 1973 VARIETY
-=======
+# Chaetomium cupreum L.M. Ames, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 65(5): 1218 (1973)
+Mycologia 41(6): 642 (1950)
 
 #### Original name
 Chaetomium cupreum L.M. Ames, 1950

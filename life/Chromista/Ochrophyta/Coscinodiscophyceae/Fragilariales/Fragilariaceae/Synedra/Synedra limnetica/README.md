@@ -1,5 +1,4 @@
-Synedra limnetica Lemm. SPECIES
-=======
+# Synedra limnetica Lemm. SPECIES
 
 #### Status
 ACCEPTED

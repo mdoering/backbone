@@ -1,5 +1,4 @@
-Verrucaria fumago Wallr. SPECIES
-=======
+# Verrucaria fumago Wallr. SPECIES
 
 #### Status
 ACCEPTED

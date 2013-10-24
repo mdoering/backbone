@@ -1,5 +1,4 @@
-Pilulina nigrospora G. Arnaud, 1954 SPECIES
-=======
+# Pilulina nigrospora G. Arnaud, 1954 SPECIES
 
 #### Status
 ACCEPTED

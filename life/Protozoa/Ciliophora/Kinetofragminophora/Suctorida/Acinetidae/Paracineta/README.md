@@ -1,5 +1,4 @@
-Paracineta Collin, 1911 GENUS
-=======
+# Paracineta Collin, 1911 GENUS
 
 #### Status
 ACCEPTED

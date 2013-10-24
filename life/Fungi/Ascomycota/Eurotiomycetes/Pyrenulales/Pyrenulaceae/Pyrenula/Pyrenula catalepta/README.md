@@ -1,5 +1,4 @@
-Pyrenula catalepta (Ach.) Ach. SPECIES
-=======
+# Pyrenula catalepta (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

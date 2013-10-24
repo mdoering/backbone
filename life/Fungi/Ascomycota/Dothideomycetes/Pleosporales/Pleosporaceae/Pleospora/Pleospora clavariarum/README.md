@@ -1,5 +1,4 @@
-Pleospora clavariarum (Tul.) Tul. & C. Tul. SPECIES
-=======
+# Pleospora clavariarum (Tul.) Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

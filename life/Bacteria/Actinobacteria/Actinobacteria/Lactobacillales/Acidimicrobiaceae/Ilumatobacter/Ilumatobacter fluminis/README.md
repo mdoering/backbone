@@ -1,5 +1,4 @@
-Ilumatobacter fluminis Matsumoto, Kasai, Matsuo, Omura, Shizuri & Takahashi, 2009 SPECIES
-=======
+# Ilumatobacter fluminis Matsumoto, Kasai, Matsuo, Omura, Shizuri & Takahashi, 2009 SPECIES
 
 #### Status
 ACCEPTED

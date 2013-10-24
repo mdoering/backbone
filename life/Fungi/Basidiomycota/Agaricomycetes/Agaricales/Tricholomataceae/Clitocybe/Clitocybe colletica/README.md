@@ -1,5 +1,4 @@
-Clitocybe colletica Mont. SPECIES
-=======
+# Clitocybe colletica Mont. SPECIES
 
 #### Status
 ACCEPTED

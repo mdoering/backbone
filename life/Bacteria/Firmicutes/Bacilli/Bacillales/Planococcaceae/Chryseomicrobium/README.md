@@ -1,5 +1,4 @@
-Chryseomicrobium GENUS
-=======
+# Chryseomicrobium GENUS
 
 #### Status
 ACCEPTED

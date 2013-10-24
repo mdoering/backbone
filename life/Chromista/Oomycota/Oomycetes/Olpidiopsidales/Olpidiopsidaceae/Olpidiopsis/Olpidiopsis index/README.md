@@ -1,5 +1,4 @@
-Olpidiopsis index Cornu, 1872 SPECIES
-=======
+# Olpidiopsis index Cornu, 1872 SPECIES
 
 #### Status
 ACCEPTED

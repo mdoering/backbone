@@ -1,5 +1,4 @@
-Stictis curtispora Dearn. & Bisby SPECIES
-=======
+# Stictis curtispora Dearn. & Bisby SPECIES
 
 #### Status
 ACCEPTED

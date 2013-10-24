@@ -1,5 +1,4 @@
-Agaricus yucatanensis Ellis & Everh. SPECIES
-=======
+# Agaricus yucatanensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

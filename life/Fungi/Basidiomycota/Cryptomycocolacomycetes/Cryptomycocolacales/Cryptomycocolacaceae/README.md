@@ -1,5 +1,4 @@
-Cryptomycocolacaceae Oberw. & R. Bauer FAMILY
-=======
+# Cryptomycocolacaceae Oberw. & R. Bauer FAMILY
 
 #### Status
 ACCEPTED

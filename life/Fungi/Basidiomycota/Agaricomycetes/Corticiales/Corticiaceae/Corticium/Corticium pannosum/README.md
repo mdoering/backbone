@@ -1,5 +1,4 @@
-Corticium pannosum Fr. SPECIES
-=======
+# Corticium pannosum Fr. SPECIES
 
 #### Status
 ACCEPTED

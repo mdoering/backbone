@@ -1,17 +1,16 @@
-Polystictus fasciatus (Har. & Pat.) Sacc., 1925 SPECIES
-=======
+# Inonotus sideroides (Lév.) Ryvarden, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 23: 409 (1925)
+Syn. Fung. (Oslo) 21: 127 (2005)
 
 #### Original name
-Xanthochrous fasciatus Har. & Pat., 1914
+Polyporus sideroides Lév., 1844
 
 ### Remarks
 null

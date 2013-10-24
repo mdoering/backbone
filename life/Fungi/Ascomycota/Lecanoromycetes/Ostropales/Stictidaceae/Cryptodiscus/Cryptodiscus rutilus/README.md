@@ -1,5 +1,4 @@
-Cryptodiscus rutilus (Kirschst.) Rossman SPECIES
-=======
+# Cryptodiscus rutilus (Kirschst.) Rossman SPECIES
 
 #### Status
 ACCEPTED

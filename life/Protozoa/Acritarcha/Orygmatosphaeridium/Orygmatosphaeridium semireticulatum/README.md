@@ -1,5 +1,4 @@
-Orygmatosphaeridium semireticulatum Andreeva, 1966 SPECIES
-=======
+# Orygmatosphaeridium semireticulatum Andreeva, 1966 SPECIES
 
 #### Status
 ACCEPTED

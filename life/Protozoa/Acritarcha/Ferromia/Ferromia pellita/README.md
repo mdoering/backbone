@@ -1,5 +1,4 @@
-Ferromia pellita (Martin, 1975) Martin, 1996 SPECIES
-=======
+# Ferromia pellita (Martin, 1975) Martin, 1996 SPECIES
 
 #### Status
 ACCEPTED

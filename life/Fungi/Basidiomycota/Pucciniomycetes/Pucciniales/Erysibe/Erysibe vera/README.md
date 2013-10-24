@@ -1,5 +1,4 @@
-Erysibe vera Wallr. SPECIES
-=======
+# Erysibe vera Wallr. SPECIES
 
 #### Status
 ACCEPTED

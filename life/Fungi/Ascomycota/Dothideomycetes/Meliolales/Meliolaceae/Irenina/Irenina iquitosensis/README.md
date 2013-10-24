@@ -1,5 +1,4 @@
-Irenina iquitosensis (Henn.) Hansf. SPECIES
-=======
+# Irenina iquitosensis (Henn.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe quercetorum Reumaux SPECIES
-=======
+# Inocybe quercetorum Reumaux SPECIES
 
 #### Status
 ACCEPTED

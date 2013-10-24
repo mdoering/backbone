@@ -1,5 +1,4 @@
-Chamaeceras tageticolor (Berk.) Kuntze SPECIES
-=======
+# Chamaeceras tageticolor (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

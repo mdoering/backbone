@@ -1,5 +1,4 @@
-Scytinostroma aluta Lanq. SPECIES
-=======
+# Scytinostroma aluta Lanq. SPECIES
 
 #### Status
 ACCEPTED

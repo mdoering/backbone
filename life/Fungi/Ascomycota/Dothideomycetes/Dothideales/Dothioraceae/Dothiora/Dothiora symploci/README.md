@@ -1,5 +1,4 @@
-Dothiora symploci Petch SPECIES
-=======
+# Dothiora symploci Petch SPECIES
 
 #### Status
 ACCEPTED

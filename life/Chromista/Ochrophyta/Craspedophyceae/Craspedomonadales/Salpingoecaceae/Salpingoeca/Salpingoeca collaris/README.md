@@ -1,5 +1,4 @@
-Salpingoeca collaris Stokes, 1894 SPECIES
-=======
+# Salpingoeca collaris Stokes, 1894 SPECIES
 
 #### Status
 ACCEPTED

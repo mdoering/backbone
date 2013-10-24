@@ -1,5 +1,4 @@
-Agaricus confertus Bolton SPECIES
-=======
+# Agaricus confertus Bolton SPECIES
 
 #### Status
 ACCEPTED

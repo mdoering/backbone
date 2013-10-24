@@ -1,5 +1,4 @@
-Agaricus destrictus (Fr.) Fr. SPECIES
-=======
+# Agaricus destrictus (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

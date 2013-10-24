@@ -1,5 +1,4 @@
-Lactarius albidopallens (J.E. Lange) J. Blum SPECIES
-=======
+# Lactarius albidopallens (J.E. Lange) J. Blum SPECIES
 
 #### Status
 ACCEPTED

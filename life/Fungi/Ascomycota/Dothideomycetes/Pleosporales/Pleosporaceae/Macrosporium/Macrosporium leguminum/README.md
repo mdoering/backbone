@@ -1,5 +1,4 @@
-Macrosporium leguminum Cooke SPECIES
-=======
+# Macrosporium leguminum Cooke SPECIES
 
 #### Status
 ACCEPTED

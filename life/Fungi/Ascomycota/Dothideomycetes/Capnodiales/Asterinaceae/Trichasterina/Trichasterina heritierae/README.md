@@ -1,5 +1,4 @@
-Trichasterina heritierae Sawada & W. Yamam. SPECIES
-=======
+# Trichasterina heritierae Sawada & W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendrospyris stabilis Goll, 1968 SPECIES
-=======
+# Dendrospyris stabilis Goll, 1968 SPECIES
 
 #### Status
 ACCEPTED

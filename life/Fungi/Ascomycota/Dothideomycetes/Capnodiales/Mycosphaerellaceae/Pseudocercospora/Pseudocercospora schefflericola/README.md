@@ -1,5 +1,4 @@
-Pseudocercospora schefflericola Y.L. Guo SPECIES
-=======
+# Pseudocercospora schefflericola Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

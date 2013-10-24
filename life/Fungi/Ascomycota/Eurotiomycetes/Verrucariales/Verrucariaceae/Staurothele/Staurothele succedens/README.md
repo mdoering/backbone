@@ -1,14 +1,13 @@
-Verrucaria succedens (Rehm) Nyl. SPECIES
-=======
+# Staurothele succedens (Rehm ex Arnold) Arnold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Jber. St. Gallisch. Naturwiss. Gesellsch. 29: 488 (1882)
+Verh. zool. -bot. Ges. Wein 30: 149 (1880)
 
 #### Original name
 Polyblastia succedens Rehm

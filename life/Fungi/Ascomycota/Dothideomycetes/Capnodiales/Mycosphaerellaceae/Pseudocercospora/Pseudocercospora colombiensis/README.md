@@ -1,5 +1,4 @@
-Pseudocercospora colombiensis Crous & M.J. Wingf. SPECIES
-=======
+# Pseudocercospora colombiensis Crous & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zignoëlla cariosa (Cooke & Ellis) Sacc. SPECIES
-=======
+# Zignoëlla cariosa (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerellothecium minutum Hafellner, 1993 SPECIES
-=======
+# Sphaerellothecium minutum Hafellner, 1993 SPECIES
 
 #### Status
 ACCEPTED

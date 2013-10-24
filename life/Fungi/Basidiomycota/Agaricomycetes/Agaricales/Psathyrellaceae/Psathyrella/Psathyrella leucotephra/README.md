@@ -1,14 +1,13 @@
-Agaricus leucotephrus Berk. & Broome, 1870 SPECIES
-=======
+# Psathyrella leucotephra (Berk. & Broome) P.D. Orton, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 4 6: 468 (1870)
+Trans. Br. mycol. Soc. 43: 180 (1960)
 
 #### Original name
 Agaricus leucotephrus Berk. & Broome, 1870

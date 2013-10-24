@@ -1,5 +1,4 @@
-Ehrenbergina Reuss, 1850 GENUS
-=======
+# Ehrenbergina Reuss, 1850 GENUS
 
 #### Status
 ACCEPTED

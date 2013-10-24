@@ -1,5 +1,4 @@
-Haloplanus Elevi Bardavid, Mana & Oren, 2007 GENUS
-=======
+# Haloplanus Elevi Bardavid, Mana & Oren, 2007 GENUS
 
 #### Status
 ACCEPTED

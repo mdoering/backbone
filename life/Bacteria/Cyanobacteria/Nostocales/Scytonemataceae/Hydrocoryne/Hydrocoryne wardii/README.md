@@ -1,5 +1,4 @@
-Hydrocoryne wardii H. Welsh SPECIES
-=======
+# Hydrocoryne wardii H. Welsh SPECIES
 
 #### Status
 ACCEPTED

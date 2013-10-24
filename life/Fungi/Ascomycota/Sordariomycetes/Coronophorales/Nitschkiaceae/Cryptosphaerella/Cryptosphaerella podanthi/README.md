@@ -1,5 +1,4 @@
-Cryptosphaerella podanthi Speg. SPECIES
-=======
+# Cryptosphaerella podanthi Speg. SPECIES
 
 #### Status
 ACCEPTED

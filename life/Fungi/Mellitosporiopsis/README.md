@@ -1,5 +1,4 @@
-Mellitosporiopsis H. Rehm, 1900 GENUS
-=======
+# Mellitosporiopsis H. Rehm, 1900 GENUS
 
 #### Status
 ACCEPTED

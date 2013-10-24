@@ -1,5 +1,4 @@
-Usnea submusciformis Vain. SPECIES
-=======
+# Usnea submusciformis Vain. SPECIES
 
 #### Status
 ACCEPTED

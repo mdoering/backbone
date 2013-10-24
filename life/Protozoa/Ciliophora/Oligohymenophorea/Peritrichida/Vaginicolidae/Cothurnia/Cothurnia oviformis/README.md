@@ -1,5 +1,4 @@
-Cothurnia oviformis SPECIES
-=======
+# Cothurnia oviformis SPECIES
 
 #### Status
 ACCEPTED

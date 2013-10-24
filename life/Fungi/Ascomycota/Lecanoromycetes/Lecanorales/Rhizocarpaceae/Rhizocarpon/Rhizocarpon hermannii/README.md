@@ -1,5 +1,4 @@
-Rhizocarpon hermannii SPECIES
-=======
+# Rhizocarpon hermannii SPECIES
 
 #### Status
 ACCEPTED

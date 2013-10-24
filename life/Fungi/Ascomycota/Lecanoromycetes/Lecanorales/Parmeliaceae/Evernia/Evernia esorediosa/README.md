@@ -1,5 +1,4 @@
-Evernia esorediosa f. esorediosa FORM
-=======
+# Evernia esorediosa (Müll. Arg.) Du Rietz SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Evernia mesomorpha f. esorediosa Müll. Arg.
+null
 
 ### Remarks
 null

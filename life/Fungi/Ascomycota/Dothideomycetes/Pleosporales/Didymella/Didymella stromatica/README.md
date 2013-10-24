@@ -1,5 +1,4 @@
-Didymella stromatica M.E. Barr & Rogerson SPECIES
-=======
+# Didymella stromatica M.E. Barr & Rogerson SPECIES
 
 #### Status
 ACCEPTED

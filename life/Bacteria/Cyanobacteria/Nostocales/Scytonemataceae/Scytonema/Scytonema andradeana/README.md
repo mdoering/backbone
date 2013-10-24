@@ -1,5 +1,4 @@
-Scytonema andradeana P. González SPECIES
-=======
+# Scytonema andradeana P. González SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Chaetasbolisia falcata var. falcata VARIETY
-=======
+# Chaetasbolisia falcata V.A.M. Mill. & Bonar, 1941 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 University of Calif. Publ. Bot. 19: 413 (1941)
 
 #### Original name
-Chaetasbolisia falcata var. falcata
+Chaetasbolisia falcata V.A.M. Mill. & Bonar, 1941
 
 ### Remarks
 null

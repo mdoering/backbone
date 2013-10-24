@@ -1,14 +1,13 @@
-Pocillaria zeyheri (Berk.) Kuntze, 1891 SPECIES
-=======
+# Lentinus zeyheri Berk., 1843 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 866 (1891)
+J. Bot. 2: 514 (1843)
 
 #### Original name
 Lentinus zeyheri Berk., 1843

@@ -1,5 +1,4 @@
-Macalpinomyces viridans R.G. Shivas, McTaggart & Vánky, 2007 SPECIES
-=======
+# Macalpinomyces viridans R.G. Shivas, McTaggart & Vánky, 2007 SPECIES
 
 #### Status
 ACCEPTED

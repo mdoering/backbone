@@ -1,5 +1,4 @@
-Opegrapha xerica Torrente & Egea SPECIES
-=======
+# Opegrapha xerica Torrente & Egea SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilodiporites elongatus C.P. Varma & Rawat SPECIES
-=======
+# Psilodiporites elongatus C.P. Varma & Rawat SPECIES
 
 #### Status
 ACCEPTED

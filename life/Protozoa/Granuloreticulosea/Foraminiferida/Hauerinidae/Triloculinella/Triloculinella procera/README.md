@@ -1,8 +1,7 @@
-Miliolina procera Goes, 1896 SPECIES
-=======
+# Triloculinella procera (Goes, 1896) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

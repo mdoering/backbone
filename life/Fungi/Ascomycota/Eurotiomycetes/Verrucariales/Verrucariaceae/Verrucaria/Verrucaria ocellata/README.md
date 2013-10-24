@@ -1,5 +1,4 @@
-Verrucaria ocellata Afzel. ex Ach. SPECIES
-=======
+# Verrucaria ocellata Afzel. ex Ach. SPECIES
 
 #### Status
 ACCEPTED

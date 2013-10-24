@@ -1,5 +1,4 @@
-Encoelia cinereofusca (Schwein.) Kirschst. SPECIES
-=======
+# Encoelia cinereofusca (Schwein.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymosphaeria impar Penz. & Sacc. SPECIES
-=======
+# Didymosphaeria impar Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gibellula phialobasia Penz. & Sacc. SPECIES
-=======
+# Gibellula phialobasia Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

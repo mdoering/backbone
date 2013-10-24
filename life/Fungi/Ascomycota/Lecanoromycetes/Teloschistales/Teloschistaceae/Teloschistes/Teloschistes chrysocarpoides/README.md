@@ -1,5 +1,4 @@
-Teloschistes chrysocarpoides var. chrysocarpoides Vain. VARIETY
-=======
+# Teloschistes chrysocarpoides Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Teloschistes chrysocarpoides var. chrysocarpoides Vain.
+Teloschistes chrysocarpoides Vain.
 
 ### Remarks
 null

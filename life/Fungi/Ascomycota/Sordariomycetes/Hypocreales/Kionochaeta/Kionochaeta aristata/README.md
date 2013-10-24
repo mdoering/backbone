@@ -1,5 +1,4 @@
-Kionochaeta aristata P.M. Kirk, 1986 SPECIES
-=======
+# Kionochaeta aristata P.M. Kirk, 1986 SPECIES
 
 #### Status
 ACCEPTED

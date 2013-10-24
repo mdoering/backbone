@@ -1,17 +1,16 @@
-Uredo pamparum f. pamparum FORM
-=======
+# Uromyces dolicholi Arthur, 1906 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Soc. cient. argent. 9: 173 (1880)
+Bull. Torrey bot. Club 33: 27 (1906)
 
 #### Original name
-Uredo pamparum f. pamparum
+Uromyces dolicholi Arthur, 1906
 
 ### Remarks
 null

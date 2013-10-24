@@ -1,5 +1,4 @@
-Tiarosporellivora Punith. GENUS
-=======
+# Tiarosporellivora Punith. GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Polystigma truncatum (Ellis) Gola, 1930 SPECIES
-=======
+# Nectria truncata Ellis, 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-L'Erbario Micologico di P. A. Saccardo 159 (1930)
+Am. Midl. Nat. 17: 194 (1883)
 
 #### Original name
 Nectria truncata Ellis, 1883

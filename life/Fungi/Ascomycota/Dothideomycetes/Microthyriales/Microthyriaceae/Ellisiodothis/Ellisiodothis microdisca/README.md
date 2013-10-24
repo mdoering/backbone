@@ -1,5 +1,4 @@
-Ellisiodothis microdisca Syd. {?} SPECIES
-=======
+# Ellisiodothis microdisca Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

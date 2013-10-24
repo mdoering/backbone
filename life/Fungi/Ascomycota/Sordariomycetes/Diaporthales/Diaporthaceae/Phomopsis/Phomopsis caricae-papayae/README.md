@@ -1,5 +1,4 @@
-Phomopsis caricae-papayae Petr. & Cif., 1930 SPECIES
-=======
+# Phomopsis caricae-papayae Petr. & Cif., 1930 SPECIES
 
 #### Status
 ACCEPTED

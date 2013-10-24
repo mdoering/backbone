@@ -1,5 +1,4 @@
-Galera laevis var. glabrata Malençon & Bertault VARIETY
-=======
+# Galera laevis (Pers.) SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Champignon Supérieurs du Maroc 1: 556 (1970)
+null
 
 #### Original name
-Galera laevis var. glabrata Malençon & Bertault
+Agaricus laevis Pers., 1828
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phoma myricariae Henn. SPECIES
-=======
+# Phoma myricariae Henn. SPECIES
 
 #### Status
 ACCEPTED

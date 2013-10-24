@@ -1,5 +1,4 @@
-Pseudoparmelia cryptochlorophaea (Hale) Hale SPECIES
-=======
+# Pseudoparmelia cryptochlorophaea (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

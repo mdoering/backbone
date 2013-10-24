@@ -1,5 +1,4 @@
-Meliola choristylidis Doidge SPECIES
-=======
+# Meliola choristylidis Doidge SPECIES
 
 #### Status
 ACCEPTED

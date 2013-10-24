@@ -1,5 +1,4 @@
-Bryopogon norsticticus (Motyka) Bystrek SPECIES
-=======
+# Bryopogon norsticticus (Motyka) Bystrek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cryptosporella polylepidis E. Müll., 1965 SPECIES
-=======
+# Pseudocryptosporella polylepidis (E. Müll.) J. Reid & C. Booth, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Müller & Dennis, Kew Bull. 19(3): 383 (1965)
+Can. J. Bot. 47: 1058 (1969)
 
 #### Original name
 Cryptosporella polylepidis E. Müll., 1965

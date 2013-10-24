@@ -1,17 +1,16 @@
-Curvularia leonensis M.B. Ellis, 1966 SPECIES
-=======
+# Pseudocochliobolus pallescens Tsuda & Ueyama, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 106: 28 (1966)
+Memoirs of the College of Agriculture, Kyoto Imperial University 122: 86 (1983)
 
 #### Original name
-Curvularia leonensis M.B. Ellis, 1966
+Pseudocochliobolus pallescens Tsuda & Ueyama, 1983
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Humaria wisconsiensis Rehm SPECIES
-=======
+# Humaria wisconsiensis Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melaspilea rhododendri (Arnold & Rehm) Almq. SPECIES
-=======
+# Melaspilea rhododendri (Arnold & Rehm) Almq. SPECIES
 
 #### Status
 ACCEPTED

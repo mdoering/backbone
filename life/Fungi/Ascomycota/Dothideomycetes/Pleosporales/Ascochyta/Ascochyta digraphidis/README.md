@@ -1,5 +1,4 @@
-Ascochyta digraphidis Polozova SPECIES
-=======
+# Ascochyta digraphidis Polozova SPECIES
 
 #### Status
 ACCEPTED

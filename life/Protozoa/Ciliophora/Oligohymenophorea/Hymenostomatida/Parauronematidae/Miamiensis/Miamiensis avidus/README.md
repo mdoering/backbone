@@ -1,5 +1,4 @@
-Miamiensis avidus Thompson & Moewus, 1964 SPECIES
-=======
+# Miamiensis avidus Thompson & Moewus, 1964 SPECIES
 
 #### Status
 ACCEPTED

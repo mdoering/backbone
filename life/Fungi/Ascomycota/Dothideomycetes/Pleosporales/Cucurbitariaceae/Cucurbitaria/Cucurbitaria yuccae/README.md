@@ -1,5 +1,4 @@
-Cucurbitaria yuccae Cocc. SPECIES
-=======
+# Cucurbitaria yuccae Cocc. SPECIES
 
 #### Status
 ACCEPTED

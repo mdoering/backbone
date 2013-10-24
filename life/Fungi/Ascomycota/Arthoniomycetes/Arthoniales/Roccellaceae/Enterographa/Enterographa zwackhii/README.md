@@ -1,5 +1,4 @@
-Enterographa zwackhii A. Massal. SPECIES
-=======
+# Enterographa zwackhii A. Massal. SPECIES
 
 #### Status
 ACCEPTED

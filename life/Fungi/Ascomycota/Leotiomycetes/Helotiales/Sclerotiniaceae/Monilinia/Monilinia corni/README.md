@@ -1,5 +1,4 @@
-Monilinia corni (J.M. Reade) D.S. Hone SPECIES
-=======
+# Monilinia corni (J.M. Reade) D.S. Hone SPECIES
 
 #### Status
 ACCEPTED

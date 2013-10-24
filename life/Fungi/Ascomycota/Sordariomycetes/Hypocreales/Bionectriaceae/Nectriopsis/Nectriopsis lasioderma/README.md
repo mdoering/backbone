@@ -1,5 +1,4 @@
-Nectriopsis lasioderma (Ellis) Samuels SPECIES
-=======
+# Nectriopsis lasioderma (Ellis) Samuels SPECIES
 
 #### Status
 ACCEPTED

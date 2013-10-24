@@ -1,5 +1,4 @@
-Actinoptychus tenuis N. I. Strelnikova SPECIES
-=======
+# Actinoptychus tenuis N. I. Strelnikova SPECIES
 
 #### Status
 ACCEPTED

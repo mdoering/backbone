@@ -1,5 +1,4 @@
-Meliola dummeri Hansf. SPECIES
-=======
+# Meliola dummeri Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plicaria pedicellata Velen. SPECIES
-=======
+# Plicaria pedicellata Velen. SPECIES
 
 #### Status
 ACCEPTED

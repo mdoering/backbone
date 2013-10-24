@@ -1,5 +1,4 @@
-Thalassiosira concaviuscula I. V. Makarova SPECIES
-=======
+# Thalassiosira concaviuscula I. V. Makarova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peltula impressula (H. Magn.) N.S. Golubk. SPECIES
-=======
+# Peltula impressula (H. Magn.) N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora guatemalensis A.S. Mull. & Chupp SPECIES
-=======
+# Cercospora guatemalensis A.S. Mull. & Chupp SPECIES
 
 #### Status
 ACCEPTED

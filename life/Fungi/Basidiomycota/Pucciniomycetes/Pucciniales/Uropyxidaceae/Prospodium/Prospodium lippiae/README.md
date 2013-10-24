@@ -1,5 +1,4 @@
-Prospodium lippiae (Speg.) Arthur SPECIES
-=======
+# Prospodium lippiae (Speg.) Arthur SPECIES
 
 #### Status
 ACCEPTED

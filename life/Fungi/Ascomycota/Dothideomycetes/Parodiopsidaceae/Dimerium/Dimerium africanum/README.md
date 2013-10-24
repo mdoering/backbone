@@ -1,5 +1,4 @@
-Dimerium africanum Hansf. SPECIES
-=======
+# Dimerium africanum Hansf. SPECIES
 
 #### Status
 ACCEPTED

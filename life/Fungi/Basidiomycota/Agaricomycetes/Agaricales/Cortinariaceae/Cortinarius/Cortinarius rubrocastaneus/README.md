@@ -1,14 +1,13 @@
-Gymnopilus rubrocastaneus Soop, 2001 SPECIES
-=======
+# Cortinarius rubrocastaneus (Soop) A.-M.B. Oliv. & Orlovich, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 117(2): 128 (2001)
+N. Z. Jl Bot. 40(3): 485 (2002)
 
 #### Original name
 Gymnopilus rubrocastaneus Soop, 2001

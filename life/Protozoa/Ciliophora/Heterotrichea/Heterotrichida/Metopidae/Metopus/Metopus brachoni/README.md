@@ -1,5 +1,4 @@
-Metopus brachoni Fenchel, 1968 SPECIES
-=======
+# Metopus brachoni Fenchel, 1968 SPECIES
 
 #### Status
 ACCEPTED

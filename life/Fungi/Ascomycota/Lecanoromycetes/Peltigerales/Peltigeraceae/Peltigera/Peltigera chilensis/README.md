@@ -1,5 +1,4 @@
-Peltigera chilensis SPECIES
-=======
+# Peltigera chilensis SPECIES
 
 #### Status
 ACCEPTED

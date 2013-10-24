@@ -1,5 +1,4 @@
-Pseudocercospora pueraiiicola (Yamamoto) Deighton SPECIES
-=======
+# Pseudocercospora pueraiiicola (Yamamoto) Deighton SPECIES
 
 #### Status
 ACCEPTED

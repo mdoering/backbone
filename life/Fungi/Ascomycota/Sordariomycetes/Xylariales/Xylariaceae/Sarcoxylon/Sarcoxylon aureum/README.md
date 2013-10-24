@@ -1,5 +1,4 @@
-Sarcoxylon aureum Iwade SPECIES
-=======
+# Sarcoxylon aureum Iwade SPECIES
 
 #### Status
 ACCEPTED

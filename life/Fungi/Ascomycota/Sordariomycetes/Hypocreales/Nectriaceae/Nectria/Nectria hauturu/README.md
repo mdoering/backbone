@@ -1,5 +1,4 @@
-Nectria hauturu Dingley SPECIES
-=======
+# Nectria hauturu Dingley SPECIES
 
 #### Status
 ACCEPTED

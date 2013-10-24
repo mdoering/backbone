@@ -1,5 +1,4 @@
-Stilbum murinum Ehrenb. SPECIES
-=======
+# Stilbum murinum Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

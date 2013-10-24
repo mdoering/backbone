@@ -1,5 +1,4 @@
-Uredo cephalanthi Arthur SPECIES
-=======
+# Uredo cephalanthi Arthur SPECIES
 
 #### Status
 ACCEPTED

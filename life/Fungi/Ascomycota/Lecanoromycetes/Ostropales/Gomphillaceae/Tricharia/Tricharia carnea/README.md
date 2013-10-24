@@ -1,5 +1,4 @@
-Tricharia carnea (Müll. Arg.) R. Sant. SPECIES
-=======
+# Tricharia carnea (Müll. Arg.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

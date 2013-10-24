@@ -1,5 +1,4 @@
-Corynebacterium lilium Lee and Good, 1963 (Approved Lists, 1980) SPECIES
-=======
+# Corynebacterium lilium Lee and Good, 1963 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina oryzaeformis (Fée) Müll. Arg. SPECIES
-=======
+# Graphina oryzaeformis (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

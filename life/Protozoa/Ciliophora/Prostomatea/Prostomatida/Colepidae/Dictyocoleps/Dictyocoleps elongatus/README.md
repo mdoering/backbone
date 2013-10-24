@@ -1,8 +1,7 @@
-Coleps elongatus Ehrenberg, 1830 SPECIES
-=======
+# Dictyocoleps elongatus (Ehrenberg, 1830) Diesing, 1866 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

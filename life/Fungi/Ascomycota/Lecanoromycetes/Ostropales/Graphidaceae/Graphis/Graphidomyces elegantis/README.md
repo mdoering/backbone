@@ -1,5 +1,4 @@
-Graphidomyces elegantis E.A. Thomas ex Cif. & Tomas. SPECIES
-=======
+# Graphidomyces elegantis E.A. Thomas ex Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

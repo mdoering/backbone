@@ -1,5 +1,4 @@
-Parmotrema lobulatum Marcelli & Hale SPECIES
-=======
+# Parmotrema lobulatum Marcelli & Hale SPECIES
 
 #### Status
 ACCEPTED

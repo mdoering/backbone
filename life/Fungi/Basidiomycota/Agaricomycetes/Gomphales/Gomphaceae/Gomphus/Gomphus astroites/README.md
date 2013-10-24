@@ -1,5 +1,4 @@
-Gomphus astroites (Scop.) Pers. SPECIES
-=======
+# Gomphus astroites (Scop.) Pers. SPECIES
 
 #### Status
 ACCEPTED

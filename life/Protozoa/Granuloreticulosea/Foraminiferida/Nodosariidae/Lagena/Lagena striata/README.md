@@ -1,5 +1,4 @@
-Lagena striata SPECIES
-=======
+# Lagena striata SPECIES
 
 #### Status
 ACCEPTED

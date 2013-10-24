@@ -1,5 +1,4 @@
-Cinereomyces Jülich, 1982 GENUS
-=======
+# Cinereomyces Jülich, 1982 GENUS
 
 #### Status
 ACCEPTED

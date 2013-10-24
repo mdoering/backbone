@@ -1,5 +1,4 @@
-Parmotrema lyngeanum (Zahlbr.) Hale SPECIES
-=======
+# Parmotrema lyngeanum (Zahlbr.) Hale SPECIES
 
 #### Status
 ACCEPTED

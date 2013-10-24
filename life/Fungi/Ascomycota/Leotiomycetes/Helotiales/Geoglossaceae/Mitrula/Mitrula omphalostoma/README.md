@@ -1,5 +1,4 @@
-Mitrula omphalostoma Benedix SPECIES
-=======
+# Mitrula omphalostoma Benedix SPECIES
 
 #### Status
 ACCEPTED

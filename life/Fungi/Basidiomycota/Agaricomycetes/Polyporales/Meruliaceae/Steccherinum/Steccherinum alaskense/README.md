@@ -1,14 +1,13 @@
-Irpex alaskensis (Lindsey & Gilb.) Kotir. & Saaren., 2002 SPECIES
-=======
+# Steccherinum alaskense Lindsey & Gilb., 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Polish Botanical Journal 47(2): 104 (2002)
+Mycologia 71(6): 1264 (1980)
 
 #### Original name
 Steccherinum alaskense Lindsey & Gilb., 1980

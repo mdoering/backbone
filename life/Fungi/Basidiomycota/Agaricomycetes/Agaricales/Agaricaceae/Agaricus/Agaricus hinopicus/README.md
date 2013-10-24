@@ -1,5 +1,4 @@
-Agaricus hinopicus Fr. SPECIES
-=======
+# Agaricus hinopicus Fr. SPECIES
 
 #### Status
 ACCEPTED

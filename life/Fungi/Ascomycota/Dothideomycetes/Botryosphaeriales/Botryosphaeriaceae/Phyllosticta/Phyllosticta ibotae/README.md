@@ -1,5 +1,4 @@
-Phyllosticta ibotae Nann. SPECIES
-=======
+# Phyllosticta ibotae Nann. SPECIES
 
 #### Status
 ACCEPTED

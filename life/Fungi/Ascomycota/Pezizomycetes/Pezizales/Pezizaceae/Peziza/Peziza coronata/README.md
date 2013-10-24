@@ -1,5 +1,4 @@
-Peziza coronata Batsch SPECIES
-=======
+# Peziza coronata Batsch SPECIES
 
 #### Status
 ACCEPTED

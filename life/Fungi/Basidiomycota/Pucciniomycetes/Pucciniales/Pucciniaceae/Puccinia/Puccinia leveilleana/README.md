@@ -1,5 +1,4 @@
-Puccinia leveilleana De Toni SPECIES
-=======
+# Puccinia leveilleana De Toni SPECIES
 
 #### Status
 ACCEPTED

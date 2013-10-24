@@ -1,5 +1,4 @@
-Katodinium minutum (Lebour) SPECIES
-=======
+# Katodinium minutum (Lebour) SPECIES
 
 #### Status
 ACCEPTED

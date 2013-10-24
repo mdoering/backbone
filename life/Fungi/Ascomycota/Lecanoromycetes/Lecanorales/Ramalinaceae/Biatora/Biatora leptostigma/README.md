@@ -1,5 +1,4 @@
-Biatora leptostigma SPECIES
-=======
+# Biatora leptostigma SPECIES
 
 #### Status
 ACCEPTED

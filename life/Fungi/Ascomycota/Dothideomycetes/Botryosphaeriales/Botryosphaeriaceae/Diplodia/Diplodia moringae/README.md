@@ -1,5 +1,4 @@
-Diplodia moringae Sacc. SPECIES
-=======
+# Diplodia moringae Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleiostictis GENUS
-=======
+# Pleiostictis GENUS
 
 #### Status
 ACCEPTED

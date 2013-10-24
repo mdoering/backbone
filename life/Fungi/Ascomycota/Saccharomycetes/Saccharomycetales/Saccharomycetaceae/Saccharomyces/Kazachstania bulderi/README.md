@@ -1,5 +1,4 @@
-Kazachstania bulderi (Middelhoven, Kurtzman & Vaughan-Mart.) Kurtzman, 2003 SPECIES
-=======
+# Kazachstania bulderi (Middelhoven, Kurtzman & Vaughan-Mart.) Kurtzman, 2003 SPECIES
 
 #### Status
 ACCEPTED

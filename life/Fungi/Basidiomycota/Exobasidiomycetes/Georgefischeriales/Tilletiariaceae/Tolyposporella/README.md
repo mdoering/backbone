@@ -1,5 +1,4 @@
-Tolyposporella G.F. Atk. GENUS
-=======
+# Tolyposporella G.F. Atk. GENUS
 
 #### Status
 ACCEPTED

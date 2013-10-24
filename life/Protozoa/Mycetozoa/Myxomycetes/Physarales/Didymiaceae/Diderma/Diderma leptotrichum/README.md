@@ -1,5 +1,4 @@
-Diderma leptotrichum (Racib.) Kuntze SPECIES
-=======
+# Diderma leptotrichum (Racib.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

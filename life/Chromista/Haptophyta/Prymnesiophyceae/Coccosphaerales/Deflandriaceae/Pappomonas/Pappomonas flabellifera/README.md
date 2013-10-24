@@ -1,5 +1,4 @@
-Pappomonas flabellifera Manton & Oates, 1975 SPECIES
-=======
+# Pappomonas flabellifera Manton & Oates, 1975 SPECIES
 
 #### Status
 ACCEPTED

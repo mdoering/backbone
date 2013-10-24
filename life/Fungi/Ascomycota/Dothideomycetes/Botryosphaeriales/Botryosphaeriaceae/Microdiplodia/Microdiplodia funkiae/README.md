@@ -1,5 +1,4 @@
-Microdiplodia funkiae Verpl. & Van den Broecke SPECIES
-=======
+# Microdiplodia funkiae Verpl. & Van den Broecke SPECIES
 
 #### Status
 ACCEPTED

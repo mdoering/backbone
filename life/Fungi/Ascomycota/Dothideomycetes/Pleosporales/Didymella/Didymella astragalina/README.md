@@ -1,5 +1,4 @@
-Didymella astragalina (Rehm) Corbaz, 1957 SPECIES
-=======
+# Didymella astragalina (Rehm) Corbaz, 1957 SPECIES
 
 #### Status
 ACCEPTED

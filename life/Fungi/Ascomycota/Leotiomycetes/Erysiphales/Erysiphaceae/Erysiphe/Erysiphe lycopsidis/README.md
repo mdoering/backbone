@@ -1,5 +1,4 @@
-Erysiphe lycopsidis R.Y. Zheng & G.Q. Chen, 1981 SPECIES
-=======
+# Erysiphe lycopsidis R.Y. Zheng & G.Q. Chen, 1981 SPECIES
 
 #### Status
 ACCEPTED

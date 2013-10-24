@@ -1,5 +1,4 @@
-Pyrenochaeta hirta Sacc. SPECIES
-=======
+# Pyrenochaeta hirta Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placosphaeria caa-catu Speg. SPECIES
-=======
+# Placosphaeria caa-catu Speg. SPECIES
 
 #### Status
 ACCEPTED

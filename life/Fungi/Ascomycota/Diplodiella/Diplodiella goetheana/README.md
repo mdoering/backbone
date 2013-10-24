@@ -1,5 +1,4 @@
-Diplodiella goetheana Traverso SPECIES
-=======
+# Diplodiella goetheana Traverso SPECIES
 
 #### Status
 ACCEPTED

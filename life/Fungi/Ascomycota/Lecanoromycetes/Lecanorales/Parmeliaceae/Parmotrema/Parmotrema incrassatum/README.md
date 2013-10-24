@@ -1,5 +1,4 @@
-Parmotrema incrassatum Hale ex DePriest & B.W. Hale SPECIES
-=======
+# Parmotrema incrassatum Hale ex DePriest & B.W. Hale SPECIES
 
 #### Status
 ACCEPTED

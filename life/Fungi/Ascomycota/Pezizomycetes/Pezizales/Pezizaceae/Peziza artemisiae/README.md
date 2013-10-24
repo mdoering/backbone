@@ -1,5 +1,4 @@
-Peziza artemisiae Kirchn. SPECIES
-=======
+# Peziza artemisiae Kirchn. SPECIES
 
 #### Status
 ACCEPTED

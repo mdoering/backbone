@@ -1,5 +1,4 @@
-Phyllachora polygalae (Schwein.) Sacc., 1883 SPECIES
-=======
+# Phyllachora polygalae (Schwein.) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

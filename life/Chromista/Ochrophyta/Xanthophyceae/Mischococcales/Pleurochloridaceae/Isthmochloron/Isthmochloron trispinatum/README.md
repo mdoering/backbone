@@ -1,5 +1,4 @@
-Isthmochloron trispinatum (West & G.S.West) Skuja SPECIES
-=======
+# Isthmochloron trispinatum (West & G.S.West) Skuja SPECIES
 
 #### Status
 ACCEPTED

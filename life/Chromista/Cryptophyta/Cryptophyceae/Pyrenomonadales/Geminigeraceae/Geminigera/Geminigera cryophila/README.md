@@ -1,5 +1,4 @@
-Geminigera cryophila (D.L. Taylor & C.C. Lee) D.R.A. Hill SPECIES
-=======
+# Geminigera cryophila (D.L. Taylor & C.C. Lee) D.R.A. Hill SPECIES
 
 #### Status
 ACCEPTED

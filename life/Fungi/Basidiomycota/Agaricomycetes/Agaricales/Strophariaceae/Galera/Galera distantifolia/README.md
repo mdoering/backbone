@@ -1,5 +1,4 @@
-Galera distantifolia (Murrill) Sacc. & Trotter SPECIES
-=======
+# Galera distantifolia (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

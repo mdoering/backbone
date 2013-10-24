@@ -1,5 +1,4 @@
-Periconia coffeae Zimm. SPECIES
-=======
+# Periconia coffeae Zimm. SPECIES
 
 #### Status
 ACCEPTED

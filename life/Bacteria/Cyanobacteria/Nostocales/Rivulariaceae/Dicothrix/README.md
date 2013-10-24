@@ -1,5 +1,4 @@
-Dicothrix GENUS
-=======
+# Dicothrix GENUS
 
 #### Status
 ACCEPTED

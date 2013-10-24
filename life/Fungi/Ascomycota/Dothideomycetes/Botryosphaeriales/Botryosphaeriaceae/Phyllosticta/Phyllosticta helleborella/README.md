@@ -1,5 +1,4 @@
-Phyllosticta helleborella Sacc. SPECIES
-=======
+# Phyllosticta helleborella Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psalliota ammophila Menier SPECIES
-=======
+# Psalliota ammophila Menier SPECIES
 
 #### Status
 ACCEPTED

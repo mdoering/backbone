@@ -1,5 +1,4 @@
-Aplosporella lantanae J.V. Kachroo SPECIES
-=======
+# Aplosporella lantanae J.V. Kachroo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pseudomassariella Petr. GENUS
-=======
+# Leiosphaerella Höhn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 9: 602 (1955)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 128: 579 (1919)
 
 #### Original name
-Pseudomassariella Petr.
+Leiosphaerella Höhn.
 
 ### Remarks
 null

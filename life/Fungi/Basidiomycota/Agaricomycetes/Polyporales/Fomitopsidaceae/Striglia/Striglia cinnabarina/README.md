@@ -1,5 +1,4 @@
-Striglia cinnabarina Kuntze SPECIES
-=======
+# Striglia cinnabarina Kuntze SPECIES
 
 #### Status
 ACCEPTED

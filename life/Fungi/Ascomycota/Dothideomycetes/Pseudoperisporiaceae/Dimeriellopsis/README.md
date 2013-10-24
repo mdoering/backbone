@@ -1,5 +1,4 @@
-Dimeriellopsis GENUS
-=======
+# Dimeriellopsis GENUS
 
 #### Status
 ACCEPTED

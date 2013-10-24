@@ -1,5 +1,4 @@
-Thelephora soluta (Ces.) Lloyd SPECIES
-=======
+# Thelephora soluta (Ces.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

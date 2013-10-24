@@ -1,5 +1,4 @@
-Caloplaca pallescens H. Magn. SPECIES
-=======
+# Caloplaca pallescens H. Magn. SPECIES
 
 #### Status
 ACCEPTED

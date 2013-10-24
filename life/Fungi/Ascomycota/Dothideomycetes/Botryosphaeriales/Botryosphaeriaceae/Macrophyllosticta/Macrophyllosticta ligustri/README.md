@@ -1,5 +1,4 @@
-Macrophyllosticta ligustri Sousa da Câmara SPECIES
-=======
+# Macrophyllosticta ligustri Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

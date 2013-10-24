@@ -1,5 +1,4 @@
-Xiphodictya Haeckel, 1881 GENUS
-=======
+# Xiphodictya Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sargassum agaviforme Tseng & Lu SPECIES
-=======
+# Sargassum agaviforme Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

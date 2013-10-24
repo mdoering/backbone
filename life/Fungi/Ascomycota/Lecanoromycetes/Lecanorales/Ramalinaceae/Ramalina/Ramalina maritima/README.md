@@ -1,5 +1,4 @@
-Ramalina maritima Krog & Swinscow SPECIES
-=======
+# Ramalina maritima Krog & Swinscow SPECIES
 
 #### Status
 ACCEPTED

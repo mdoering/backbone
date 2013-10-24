@@ -1,5 +1,4 @@
-Pocillaria krombholzii Kuntze SPECIES
-=======
+# Pocillaria krombholzii Kuntze SPECIES
 
 #### Status
 ACCEPTED

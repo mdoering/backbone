@@ -1,5 +1,4 @@
-Leuconostoc van Tieghem, 1878 GENUS
-=======
+# Leuconostoc van Tieghem, 1878 GENUS
 
 #### Status
 ACCEPTED

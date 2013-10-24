@@ -1,5 +1,4 @@
-Cantharospyris platybursa Haeckel, 1887 SPECIES
-=======
+# Cantharospyris platybursa Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

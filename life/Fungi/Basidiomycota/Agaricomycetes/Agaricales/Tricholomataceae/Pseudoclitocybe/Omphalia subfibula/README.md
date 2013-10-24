@@ -1,5 +1,4 @@
-Omphalia subfibula Henn. SPECIES
-=======
+# Omphalia subfibula Henn. SPECIES
 
 #### Status
 ACCEPTED

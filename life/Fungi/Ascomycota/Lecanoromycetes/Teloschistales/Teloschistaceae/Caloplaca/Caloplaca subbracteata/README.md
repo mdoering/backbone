@@ -1,5 +1,4 @@
-Caloplaca subbracteata (Nyl.) Lettau SPECIES
-=======
+# Caloplaca subbracteata (Nyl.) Lettau SPECIES
 
 #### Status
 ACCEPTED

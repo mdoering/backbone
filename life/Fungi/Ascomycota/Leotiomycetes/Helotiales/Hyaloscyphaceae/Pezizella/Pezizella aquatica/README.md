@@ -1,5 +1,4 @@
-Pezizella aquatica Velen. SPECIES
-=======
+# Pezizella aquatica Velen. SPECIES
 
 #### Status
 ACCEPTED

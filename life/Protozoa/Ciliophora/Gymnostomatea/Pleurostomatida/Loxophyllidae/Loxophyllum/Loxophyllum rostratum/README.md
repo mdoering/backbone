@@ -1,5 +1,4 @@
-Loxophyllum rostratum subsp. palustris SUBSPECIES
-=======
+# Loxophyllum rostratum Cohn, 1866 SPECIES
 
 #### Status
 ACCEPTED

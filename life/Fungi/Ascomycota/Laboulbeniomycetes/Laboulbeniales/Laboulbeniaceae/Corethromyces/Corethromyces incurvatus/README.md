@@ -1,5 +1,4 @@
-Corethromyces incurvatus Thaxt. SPECIES
-=======
+# Corethromyces incurvatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

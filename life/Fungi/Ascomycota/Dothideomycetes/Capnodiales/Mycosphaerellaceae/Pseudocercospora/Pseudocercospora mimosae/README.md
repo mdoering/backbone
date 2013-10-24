@@ -1,5 +1,4 @@
-Pseudocercospora mimosae (Pat.) U. Braun SPECIES
-=======
+# Pseudocercospora mimosae (Pat.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

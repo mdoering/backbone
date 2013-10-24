@@ -1,5 +1,4 @@
-Stephanastromma Haeckel, 1887 GENUS
-=======
+# Stephanastromma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium audinum Syd. SPECIES
-=======
+# Fusarium audinum Syd. SPECIES
 
 #### Status
 ACCEPTED

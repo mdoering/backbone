@@ -1,5 +1,4 @@
-Chaetosphaeria stenostachyae Sawada SPECIES
-=======
+# Chaetosphaeria stenostachyae Sawada SPECIES
 
 #### Status
 ACCEPTED

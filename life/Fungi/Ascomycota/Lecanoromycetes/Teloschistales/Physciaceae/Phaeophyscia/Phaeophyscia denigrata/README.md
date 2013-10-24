@@ -1,5 +1,4 @@
-Phaeophyscia denigrata (Hue) Moberg SPECIES
-=======
+# Phaeophyscia denigrata (Hue) Moberg SPECIES
 
 #### Status
 ACCEPTED

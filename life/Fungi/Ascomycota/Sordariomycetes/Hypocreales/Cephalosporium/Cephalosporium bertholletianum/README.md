@@ -1,5 +1,4 @@
-Cephalosporium bertholletianum J.A. Spencer SPECIES
-=======
+# Cephalosporium bertholletianum J.A. Spencer SPECIES
 
 #### Status
 ACCEPTED

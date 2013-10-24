@@ -1,5 +1,4 @@
-Ombrophila hemiamyloidea Baral & Gminder SPECIES
-=======
+# Ombrophila hemiamyloidea Baral & Gminder SPECIES
 
 #### Status
 ACCEPTED

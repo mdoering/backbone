@@ -1,14 +1,13 @@
-Botryotinia ricini (G.H. Godfrey) Whetzel, 1945 SPECIES
-=======
+# Sclerotinia ricini G.H. Godfrey, 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 37(6): 680 (1945)
+Phytopathology 9: 565 (1919)
 
 #### Original name
 Sclerotinia ricini G.H. Godfrey, 1919

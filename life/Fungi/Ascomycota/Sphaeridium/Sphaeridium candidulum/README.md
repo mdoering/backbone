@@ -1,5 +1,4 @@
-Sphaeridium candidulum Sacc. & Roum., 1886 SPECIES
-=======
+# Sphaeridium candidulum Sacc. & Roum., 1886 SPECIES
 
 #### Status
 ACCEPTED

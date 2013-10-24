@@ -1,5 +1,4 @@
-Calicium ornicola J. Steiner SPECIES
-=======
+# Calicium ornicola J. Steiner SPECIES
 
 #### Status
 ACCEPTED

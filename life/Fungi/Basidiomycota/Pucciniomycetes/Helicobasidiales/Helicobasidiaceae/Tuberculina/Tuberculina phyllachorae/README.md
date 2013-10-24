@@ -1,5 +1,4 @@
-Tuberculina phyllachorae Bat. & J.L. Bezerra SPECIES
-=======
+# Tuberculina phyllachorae Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

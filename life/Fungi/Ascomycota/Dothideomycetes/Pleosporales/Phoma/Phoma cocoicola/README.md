@@ -1,5 +1,4 @@
-Phoma cocoicola Petch SPECIES
-=======
+# Phoma cocoicola Petch SPECIES
 
 #### Status
 ACCEPTED

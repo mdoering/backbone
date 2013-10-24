@@ -1,5 +1,4 @@
-Marasmius culmisedus Singer SPECIES
-=======
+# Marasmius culmisedus Singer SPECIES
 
 #### Status
 ACCEPTED

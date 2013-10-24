@@ -1,5 +1,4 @@
-Russula humicola Sarnari SPECIES
-=======
+# Russula humicola Sarnari SPECIES
 
 #### Status
 ACCEPTED

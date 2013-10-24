@@ -1,5 +1,4 @@
-Ogbinella Chedija, 1989 GENUS
-=======
+# Ogbinella Chedija, 1989 GENUS
 
 #### Status
 ACCEPTED

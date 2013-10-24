@@ -1,5 +1,4 @@
-Lophiostoma vigheffulense (Pass.) Chesters & A.E. Bell SPECIES
-=======
+# Lophiostoma vigheffulense (Pass.) Chesters & A.E. Bell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyota caribaea Hörnig & Schnetter SPECIES
-=======
+# Dictyota caribaea Hörnig & Schnetter SPECIES
 
 #### Status
 ACCEPTED

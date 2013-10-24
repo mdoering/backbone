@@ -1,17 +1,16 @@
-Mycoleptodiscus stellatosporus K. Ando SPECIES
-=======
+# Mycoleptodiscus stellatisporus K. Ando SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Czech Mycol. 49(1): 3 (1996)
 
 #### Original name
-Mycoleptodiscus stellatosporus K. Ando
+Mycoleptodiscus stellatisporus K. Ando
 
 ### Remarks
 null

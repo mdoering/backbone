@@ -1,5 +1,4 @@
-Paraparmelia vernicosa (Brusse) Essl. SPECIES
-=======
+# Paraparmelia vernicosa (Brusse) Essl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena robiniae Velen. SPECIES
-=======
+# Mycena robiniae Velen. SPECIES
 
 #### Status
 ACCEPTED

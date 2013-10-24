@@ -1,5 +1,4 @@
-Valsa praeclara Mont. SPECIES
-=======
+# Valsa praeclara Mont. SPECIES
 
 #### Status
 ACCEPTED

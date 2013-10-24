@@ -1,5 +1,4 @@
-Phomopsis buteae V.P. Sahni SPECIES
-=======
+# Phomopsis buteae V.P. Sahni SPECIES
 
 #### Status
 ACCEPTED

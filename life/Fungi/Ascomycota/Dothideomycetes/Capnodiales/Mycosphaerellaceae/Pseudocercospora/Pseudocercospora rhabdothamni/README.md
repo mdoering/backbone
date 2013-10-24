@@ -1,5 +1,4 @@
-Pseudocercospora rhabdothamni U. Braun & C.F. Hill, 2004 SPECIES
-=======
+# Pseudocercospora rhabdothamni U. Braun & C.F. Hill, 2004 SPECIES
 
 #### Status
 ACCEPTED

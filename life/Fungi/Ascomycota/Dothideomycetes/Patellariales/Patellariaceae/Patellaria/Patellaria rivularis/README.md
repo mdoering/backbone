@@ -1,5 +1,4 @@
-Patellaria rivularis P. Crouan & H. Crouan SPECIES
-=======
+# Patellaria rivularis P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

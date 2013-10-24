@@ -1,17 +1,16 @@
-Cristulariella pyramidalis Waterman & R.P. Marshall, 1948 SPECIES
-=======
+# Grovesinia pyramidalis M.N. Cline, J.L. Crane & S.D. Cline, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 39(6): 692 (1948)
+Mycologia 75(6): 991 (1983)
 
 #### Original name
-Cristulariella pyramidalis Waterman & R.P. Marshall, 1948
+Grovesinia pyramidalis M.N. Cline, J.L. Crane & S.D. Cline, 1983
 
 ### Remarks
 null

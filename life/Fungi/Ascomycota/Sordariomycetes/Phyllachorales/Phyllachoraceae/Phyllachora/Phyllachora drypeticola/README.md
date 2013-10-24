@@ -1,5 +1,4 @@
-Phyllachora drypeticola F. Stevens & Dalbey, 1919 SPECIES
-=======
+# Phyllachora drypeticola F. Stevens & Dalbey, 1919 SPECIES
 
 #### Status
 ACCEPTED

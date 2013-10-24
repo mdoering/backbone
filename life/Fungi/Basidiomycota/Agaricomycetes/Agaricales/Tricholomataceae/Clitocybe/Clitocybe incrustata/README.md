@@ -1,5 +1,4 @@
-Clitocybe incrustata Murrill SPECIES
-=======
+# Clitocybe incrustata Murrill SPECIES
 
 #### Status
 ACCEPTED

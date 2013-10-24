@@ -1,5 +1,4 @@
-Coryneum grewiae Henn. SPECIES
-=======
+# Coryneum grewiae Henn. SPECIES
 
 #### Status
 ACCEPTED

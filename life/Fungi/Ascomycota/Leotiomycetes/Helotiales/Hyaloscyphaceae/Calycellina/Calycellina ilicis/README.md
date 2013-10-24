@@ -1,5 +1,4 @@
-Calycellina ilicis (Grelet) Baral SPECIES
-=======
+# Calycellina ilicis (Grelet) Baral SPECIES
 
 #### Status
 ACCEPTED

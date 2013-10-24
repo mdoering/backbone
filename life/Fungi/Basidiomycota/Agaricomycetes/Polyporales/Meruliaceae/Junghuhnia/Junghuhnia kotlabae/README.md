@@ -1,5 +1,4 @@
-Junghuhnia kotlabae Pouzar, 2003 SPECIES
-=======
+# Junghuhnia kotlabae Pouzar, 2003 SPECIES
 
 #### Status
 ACCEPTED

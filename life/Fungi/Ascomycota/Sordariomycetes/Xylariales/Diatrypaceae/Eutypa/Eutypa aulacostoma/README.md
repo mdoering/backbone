@@ -1,5 +1,4 @@
-Eutypa aulacostoma (Kunze & Fr.) Sacc. SPECIES
-=======
+# Eutypa aulacostoma (Kunze & Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

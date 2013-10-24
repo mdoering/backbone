@@ -1,5 +1,4 @@
-Parmularia radiosa SPECIES
-=======
+# Parmularia radiosa SPECIES
 
 #### Status
 ACCEPTED

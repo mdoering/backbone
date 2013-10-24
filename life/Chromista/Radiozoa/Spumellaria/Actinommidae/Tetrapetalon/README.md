@@ -1,5 +1,4 @@
-Tetrapetalon Hollande & Enjumet, 1960 GENUS
-=======
+# Tetrapetalon Hollande & Enjumet, 1960 GENUS
 
 #### Status
 ACCEPTED

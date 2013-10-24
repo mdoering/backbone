@@ -1,5 +1,4 @@
-Dactylella Grove, 1884 GENUS
-=======
+# Dactylella Grove, 1884 GENUS
 
 #### Status
 ACCEPTED

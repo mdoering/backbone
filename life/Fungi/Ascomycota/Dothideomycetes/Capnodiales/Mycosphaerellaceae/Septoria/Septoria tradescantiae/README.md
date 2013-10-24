@@ -1,5 +1,4 @@
-Septoria tradescantiae (Ellis & Kellerm.) Davis, 1931 SPECIES
-=======
+# Septoria tradescantiae (Ellis & Kellerm.) Davis, 1931 SPECIES
 
 #### Status
 ACCEPTED

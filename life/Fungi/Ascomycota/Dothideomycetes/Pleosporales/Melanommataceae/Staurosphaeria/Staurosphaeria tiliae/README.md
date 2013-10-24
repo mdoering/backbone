@@ -1,5 +1,4 @@
-Staurosphaeria tiliae Therry SPECIES
-=======
+# Staurosphaeria tiliae Therry SPECIES
 
 #### Status
 ACCEPTED

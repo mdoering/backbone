@@ -1,17 +1,16 @@
-Parmelia hansfordi C.W. Dodge SPECIES
-=======
+# Parmelia hansfordii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Mo. bot. Gdn 46(1-2): 127 (1959)
 
 #### Original name
-Parmelia hansfordi C.W. Dodge
+Parmelia hansfordii C.W. Dodge
 
 ### Remarks
 null

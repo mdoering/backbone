@@ -1,5 +1,4 @@
-Anthostomella diderma (Sacc.) Rappaz SPECIES
-=======
+# Anthostomella diderma (Sacc.) Rappaz SPECIES
 
 #### Status
 ACCEPTED

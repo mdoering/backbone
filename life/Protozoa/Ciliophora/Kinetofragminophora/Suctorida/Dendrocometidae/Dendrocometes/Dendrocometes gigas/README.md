@@ -1,5 +1,4 @@
-Dendrocometes gigas Swarczewsky, 1928 SPECIES
-=======
+# Dendrocometes gigas Swarczewsky, 1928 SPECIES
 
 #### Status
 ACCEPTED

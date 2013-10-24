@@ -1,5 +1,4 @@
-Ceratophorum ciliatum (Corda) Sacc. SPECIES
-=======
+# Ceratophorum ciliatum (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

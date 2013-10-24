@@ -1,5 +1,4 @@
-Sebacinales M. Weiss, Selosse, Rexer, A. Urb. & Oberw. ORDER
-=======
+# Sebacinales M. Weiss, Selosse, Rexer, A. Urb. & Oberw. ORDER
 
 #### Status
 ACCEPTED

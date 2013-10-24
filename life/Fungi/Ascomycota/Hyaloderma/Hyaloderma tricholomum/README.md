@@ -1,5 +1,4 @@
-Hyaloderma tricholomum Pat. SPECIES
-=======
+# Hyaloderma tricholomum Pat. SPECIES
 
 #### Status
 ACCEPTED

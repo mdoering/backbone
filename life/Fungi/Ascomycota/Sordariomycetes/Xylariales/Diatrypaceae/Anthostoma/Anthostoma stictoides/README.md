@@ -1,5 +1,4 @@
-Anthostoma stictoides Ellis & Everh. SPECIES
-=======
+# Anthostoma stictoides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

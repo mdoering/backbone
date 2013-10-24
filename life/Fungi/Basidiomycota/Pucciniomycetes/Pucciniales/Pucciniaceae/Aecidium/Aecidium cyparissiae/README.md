@@ -1,5 +1,4 @@
-Aecidium cyparissiae DC. SPECIES
-=======
+# Aecidium cyparissiae DC. SPECIES
 
 #### Status
 ACCEPTED

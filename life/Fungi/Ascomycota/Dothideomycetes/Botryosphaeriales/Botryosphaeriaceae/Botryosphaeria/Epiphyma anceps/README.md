@@ -1,5 +1,4 @@
-Epiphyma anceps (Höhn.) Theiss. SPECIES
-=======
+# Epiphyma anceps (Höhn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

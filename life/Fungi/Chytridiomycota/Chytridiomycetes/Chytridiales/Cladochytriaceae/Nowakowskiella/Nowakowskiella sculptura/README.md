@@ -1,5 +1,4 @@
-Nowakowskiella sculptura Karling SPECIES
-=======
+# Nowakowskiella sculptura Karling SPECIES
 
 #### Status
 ACCEPTED

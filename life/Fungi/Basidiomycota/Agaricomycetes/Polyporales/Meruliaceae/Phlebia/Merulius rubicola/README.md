@@ -1,5 +1,4 @@
-Merulius rubicola P. Karst. SPECIES
-=======
+# Merulius rubicola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

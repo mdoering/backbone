@@ -1,5 +1,4 @@
-Elfvingia polyzonata Imazeki SPECIES
-=======
+# Elfvingia polyzonata Imazeki SPECIES
 
 #### Status
 ACCEPTED

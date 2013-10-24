@@ -1,17 +1,16 @@
-Catillaria subnigrata var. subnigrata VARIETY
-=======
+# Micarea subnigrata (Nyl.) Coppins & H. Kilias SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Kilias, Herzogia 5(3-4): 391 (1981)
 
 #### Original name
-null
+Lecidea subnigrata Nyl.
 
 ### Remarks
 null

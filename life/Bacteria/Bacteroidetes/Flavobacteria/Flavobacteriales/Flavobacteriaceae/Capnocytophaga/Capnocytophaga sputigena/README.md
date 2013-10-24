@@ -1,5 +1,4 @@
-Capnocytophaga sputigena Leadbetter et al., 1982 SPECIES
-=======
+# Capnocytophaga sputigena Leadbetter et al., 1982 SPECIES
 
 #### Status
 ACCEPTED

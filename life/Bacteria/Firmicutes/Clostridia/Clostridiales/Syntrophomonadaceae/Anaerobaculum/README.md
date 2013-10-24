@@ -1,5 +1,4 @@
-Anaerobaculum Rees, Patel, Grassia & Sheehy, 1997 GENUS
-=======
+# Anaerobaculum Rees, Patel, Grassia & Sheehy, 1997 GENUS
 
 #### Status
 ACCEPTED

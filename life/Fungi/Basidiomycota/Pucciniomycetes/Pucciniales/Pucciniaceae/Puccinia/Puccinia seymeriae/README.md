@@ -1,5 +1,4 @@
-Puccinia seymeriae Burrill SPECIES
-=======
+# Puccinia seymeriae Burrill SPECIES
 
 #### Status
 ACCEPTED

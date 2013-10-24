@@ -1,14 +1,13 @@
-Buellia wheeleri R.C. Harris SPECIES
-=======
+# Ciposia wheeleri (R.C. Harris) Marbach SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Evansia 5(3): 45 (1988)
+Biblthca Lichenol. 74: 159 (2000)
 
 #### Original name
 Buellia wheeleri R.C. Harris

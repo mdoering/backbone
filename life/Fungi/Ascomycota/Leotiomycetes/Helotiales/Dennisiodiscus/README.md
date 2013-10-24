@@ -1,5 +1,4 @@
-Dennisiodiscus Svrcek, 1976 GENUS
-=======
+# Dennisiodiscus Svrcek, 1976 GENUS
 
 #### Status
 ACCEPTED

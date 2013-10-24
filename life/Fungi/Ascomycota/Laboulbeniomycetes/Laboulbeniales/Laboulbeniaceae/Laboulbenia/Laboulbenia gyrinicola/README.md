@@ -1,5 +1,4 @@
-Laboulbenia gyrinicola Speg. SPECIES
-=======
+# Laboulbenia gyrinicola Speg. SPECIES
 
 #### Status
 ACCEPTED

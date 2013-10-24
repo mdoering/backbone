@@ -1,5 +1,4 @@
-Synarthonia Müll. Arg. GENUS
-=======
+# Synarthonia Müll. Arg. GENUS
 
 #### Status
 ACCEPTED

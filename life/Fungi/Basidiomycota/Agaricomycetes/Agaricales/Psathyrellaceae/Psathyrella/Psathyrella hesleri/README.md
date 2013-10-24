@@ -1,5 +1,4 @@
-Psathyrella hesleri A.H. Sm. SPECIES
-=======
+# Psathyrella hesleri A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

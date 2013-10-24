@@ -1,5 +1,4 @@
-Acanthocystis pelagica SPECIES
-=======
+# Acanthocystis pelagica SPECIES
 
 #### Status
 ACCEPTED

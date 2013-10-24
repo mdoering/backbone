@@ -1,5 +1,4 @@
-Lophiostoma thujae Ellis & Everh. SPECIES
-=======
+# Lophiostoma thujae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

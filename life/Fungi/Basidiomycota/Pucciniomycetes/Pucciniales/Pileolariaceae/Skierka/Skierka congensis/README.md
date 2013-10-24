@@ -1,5 +1,4 @@
-Skierka congensis Henn., 1907 SPECIES
-=======
+# Skierka congensis Henn., 1907 SPECIES
 
 #### Status
 ACCEPTED

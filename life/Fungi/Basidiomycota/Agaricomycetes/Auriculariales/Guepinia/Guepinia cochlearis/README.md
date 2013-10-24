@@ -1,5 +1,4 @@
-Guepinia cochlearis Quél. SPECIES
-=======
+# Guepinia cochlearis Quél. SPECIES
 
 #### Status
 ACCEPTED

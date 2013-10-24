@@ -1,5 +1,4 @@
-Schiffnerula whitfieldiae Hansf. SPECIES
-=======
+# Schiffnerula whitfieldiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

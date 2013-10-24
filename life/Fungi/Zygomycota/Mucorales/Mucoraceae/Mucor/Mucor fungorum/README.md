@@ -1,5 +1,4 @@
-Mucor fungorum Schrank SPECIES
-=======
+# Mucor fungorum Schrank SPECIES
 
 #### Status
 ACCEPTED

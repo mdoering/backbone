@@ -1,5 +1,4 @@
-Cassidulina quadrata SPECIES
-=======
+# Cassidulina quadrata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Telamonia exigua Velen. SPECIES
-=======
+# Telamonia exigua Velen. SPECIES
 
 #### Status
 ACCEPTED

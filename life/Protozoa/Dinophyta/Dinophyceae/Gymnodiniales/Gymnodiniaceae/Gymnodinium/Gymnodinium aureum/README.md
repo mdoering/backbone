@@ -1,5 +1,4 @@
-Gymnodinium aureum SPECIES
-=======
+# Gymnodinium aureum SPECIES
 
 #### Status
 ACCEPTED

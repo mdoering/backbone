@@ -1,5 +1,4 @@
-Didymosphaeria minutelloides Rehm SPECIES
-=======
+# Didymosphaeria minutelloides Rehm SPECIES
 
 #### Status
 ACCEPTED

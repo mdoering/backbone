@@ -1,5 +1,4 @@
-Villosacapsula semipunctata (Pöthé de Baldis, 1979) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Villosacapsula semipunctata (Pöthé de Baldis, 1979) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

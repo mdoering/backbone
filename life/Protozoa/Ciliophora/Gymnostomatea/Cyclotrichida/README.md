@@ -1,5 +1,4 @@
-Cyclotrichida ORDER
-=======
+# Cyclotrichida ORDER
 
 #### Status
 ACCEPTED

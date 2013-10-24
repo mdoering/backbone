@@ -1,5 +1,4 @@
-Collema rugosum Kremp. SPECIES
-=======
+# Collema rugosum Kremp. SPECIES
 
 #### Status
 ACCEPTED

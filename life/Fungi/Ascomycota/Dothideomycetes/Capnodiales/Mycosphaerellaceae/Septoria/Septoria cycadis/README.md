@@ -1,5 +1,4 @@
-Septoria cycadis Sundaram SPECIES
-=======
+# Septoria cycadis Sundaram SPECIES
 
 #### Status
 ACCEPTED

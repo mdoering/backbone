@@ -1,5 +1,4 @@
-Oospora brasiliensis (B. Lindeb.) Sartory SPECIES
-=======
+# Oospora brasiliensis (B. Lindeb.) Sartory SPECIES
 
 #### Status
 ACCEPTED

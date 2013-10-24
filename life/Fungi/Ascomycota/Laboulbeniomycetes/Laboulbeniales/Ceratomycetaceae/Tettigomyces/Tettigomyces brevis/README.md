@@ -1,5 +1,4 @@
-Tettigomyces brevis Thaxt. SPECIES
-=======
+# Tettigomyces brevis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

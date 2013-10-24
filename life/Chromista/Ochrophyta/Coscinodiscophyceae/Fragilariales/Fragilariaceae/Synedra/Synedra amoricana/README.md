@@ -1,5 +1,4 @@
-Synedra amoricana Kützing SPECIES
-=======
+# Synedra amoricana Kützing SPECIES
 
 #### Status
 ACCEPTED

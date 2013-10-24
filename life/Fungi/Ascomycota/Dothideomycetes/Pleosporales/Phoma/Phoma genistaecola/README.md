@@ -1,5 +1,4 @@
-Phoma genistaecola Hollós SPECIES
-=======
+# Phoma genistaecola Hollós SPECIES
 
 #### Status
 ACCEPTED

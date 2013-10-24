@@ -1,8 +1,7 @@
-Agaricus ochraceus-nanus Secr. SPECIES
-=======
+# Agaricus ochraceonanus Secr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Agaricus ochraceus-nanus Secr.
+Agaricus ochraceonanus Secr.
 
 ### Remarks
 null

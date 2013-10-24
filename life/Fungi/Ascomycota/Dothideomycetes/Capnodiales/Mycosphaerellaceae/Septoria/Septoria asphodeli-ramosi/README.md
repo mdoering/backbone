@@ -1,5 +1,4 @@
-Septoria asphodeli-ramosi Pat. SPECIES
-=======
+# Septoria asphodeli-ramosi Pat. SPECIES
 
 #### Status
 ACCEPTED

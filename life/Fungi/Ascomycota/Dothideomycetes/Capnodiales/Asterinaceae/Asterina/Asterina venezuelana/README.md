@@ -1,5 +1,4 @@
-Asterina venezuelana Syd. SPECIES
-=======
+# Asterina venezuelana Syd. SPECIES
 
 #### Status
 ACCEPTED

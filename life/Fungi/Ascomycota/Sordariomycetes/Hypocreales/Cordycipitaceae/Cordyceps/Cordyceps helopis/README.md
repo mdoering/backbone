@@ -1,5 +1,4 @@
-Cordyceps helopis Quél. SPECIES
-=======
+# Cordyceps helopis Quél. SPECIES
 
 #### Status
 ACCEPTED

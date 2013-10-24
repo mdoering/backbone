@@ -1,5 +1,4 @@
-Stigmidium acetabuli Calat. & Triebel SPECIES
-=======
+# Stigmidium acetabuli Calat. & Triebel SPECIES
 
 #### Status
 ACCEPTED

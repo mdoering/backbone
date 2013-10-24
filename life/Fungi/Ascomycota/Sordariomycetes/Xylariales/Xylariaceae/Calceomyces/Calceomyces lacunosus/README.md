@@ -1,5 +1,4 @@
-Calceomyces lacunosus Udagawa & S. Ueda, 1988 SPECIES
-=======
+# Calceomyces lacunosus Udagawa & S. Ueda, 1988 SPECIES
 
 #### Status
 ACCEPTED

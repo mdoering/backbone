@@ -1,5 +1,4 @@
-Ascochyta arenaria Lév. SPECIES
-=======
+# Ascochyta arenaria Lév. SPECIES
 
 #### Status
 ACCEPTED

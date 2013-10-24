@@ -1,5 +1,4 @@
-Diplodina raphanistri Gonz. Frag. SPECIES
-=======
+# Diplodina raphanistri Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

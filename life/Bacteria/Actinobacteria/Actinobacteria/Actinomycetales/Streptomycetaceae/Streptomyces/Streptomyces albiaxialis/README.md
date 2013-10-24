@@ -1,5 +1,4 @@
-Streptomyces albiaxialis Kuznetsov et al., 1993 SPECIES
-=======
+# Streptomyces albiaxialis Kuznetsov et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Exserohilum pedicellatum (A.W. Henry) K.J. Leonard & Suggs, 1974 SPECIES
-=======
+# Setosphaeria pedicellata (R.R. Nelson) K.J. Leonard & Suggs, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Mycologia 66(2): 291 (1974)
 
 #### Original name
-Helminthosporium pedicellatum A.W. Henry, 1924
+Trichometasphaeria pedicellata R.R. Nelson, 1965
 
 ### Remarks
 null

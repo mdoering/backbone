@@ -1,5 +1,4 @@
-Verrucaria carbonella Hulting SPECIES
-=======
+# Verrucaria carbonella Hulting SPECIES
 
 #### Status
 ACCEPTED

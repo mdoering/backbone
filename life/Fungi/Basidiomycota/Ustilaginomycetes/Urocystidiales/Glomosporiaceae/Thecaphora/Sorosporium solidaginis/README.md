@@ -1,5 +1,4 @@
-Sorosporium solidaginis Ellis & Everh. SPECIES
-=======
+# Sorosporium solidaginis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

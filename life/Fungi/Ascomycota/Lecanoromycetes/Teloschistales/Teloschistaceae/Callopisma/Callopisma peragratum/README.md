@@ -1,5 +1,4 @@
-Callopisma peragratum (Fée) Malme SPECIES
-=======
+# Callopisma peragratum (Fée) Malme SPECIES
 
 #### Status
 ACCEPTED

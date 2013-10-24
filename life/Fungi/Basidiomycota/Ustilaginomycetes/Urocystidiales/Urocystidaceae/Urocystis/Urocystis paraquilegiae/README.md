@@ -1,5 +1,4 @@
-Urocystis paraquilegiae Petr. SPECIES
-=======
+# Urocystis paraquilegiae Petr. SPECIES
 
 #### Status
 ACCEPTED

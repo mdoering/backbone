@@ -1,5 +1,4 @@
-Tricharia quezelii Faurel & Schotter SPECIES
-=======
+# Tricharia quezelii Faurel & Schotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Pogotrichum filiforme f. gracilis Batters FORM
-=======
+# Pogotrichum filiforme Reinke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

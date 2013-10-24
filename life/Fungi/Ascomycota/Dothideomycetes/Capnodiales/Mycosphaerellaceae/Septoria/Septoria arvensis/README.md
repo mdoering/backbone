@@ -1,5 +1,4 @@
-Septoria arvensis Speg. SPECIES
-=======
+# Septoria arvensis Speg. SPECIES
 
 #### Status
 ACCEPTED

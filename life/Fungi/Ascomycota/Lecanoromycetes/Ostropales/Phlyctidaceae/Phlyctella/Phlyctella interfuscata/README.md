@@ -1,5 +1,4 @@
-Phlyctella interfuscata Nyl. SPECIES
-=======
+# Phlyctella interfuscata Nyl. SPECIES
 
 #### Status
 ACCEPTED

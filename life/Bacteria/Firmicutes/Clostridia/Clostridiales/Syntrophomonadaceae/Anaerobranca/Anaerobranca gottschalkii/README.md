@@ -1,5 +1,4 @@
-Anaerobranca gottschalkii Prowe & Antranikian, 2001 SPECIES
-=======
+# Anaerobranca gottschalkii Prowe & Antranikian, 2001 SPECIES
 
 #### Status
 ACCEPTED

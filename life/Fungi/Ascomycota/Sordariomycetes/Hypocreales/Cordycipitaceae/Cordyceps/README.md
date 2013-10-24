@@ -1,17 +1,16 @@
-Xylaria Hill ex Grev. GENUS
-=======
+# Cordyceps E.M. Fries, 1824 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Scott. crypt. fl. (Edinburgh) 2: 2 (1823)
+null
 
 #### Original name
-Xylaria Hill ex Grev.
+null
 
 ### Remarks
 null

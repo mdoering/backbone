@@ -1,5 +1,4 @@
-Cercospora rhynchosiae Pavgi & U.P. Singh SPECIES
-=======
+# Cercospora rhynchosiae Pavgi & U.P. Singh SPECIES
 
 #### Status
 ACCEPTED

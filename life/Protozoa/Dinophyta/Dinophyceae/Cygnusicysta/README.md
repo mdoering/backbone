@@ -1,5 +1,4 @@
-Cygnusicysta J.B. Riding & R. Helby, 2001 GENUS
-=======
+# Cygnusicysta J.B. Riding & R. Helby, 2001 GENUS
 
 #### Status
 ACCEPTED

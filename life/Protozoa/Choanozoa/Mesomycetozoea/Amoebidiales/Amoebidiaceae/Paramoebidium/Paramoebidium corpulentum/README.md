@@ -1,5 +1,4 @@
-Paramoebidium corpulentum Lichtw. & M.C. Williams, 1991 SPECIES
-=======
+# Paramoebidium corpulentum Lichtw. & M.C. Williams, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascobolus psittacinus (Quél.) Quél. SPECIES
-=======
+# Ascobolus psittacinus (Quél.) Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trenomyces gibbus Thaxt. SPECIES
-=======
+# Trenomyces gibbus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

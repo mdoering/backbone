@@ -1,5 +1,4 @@
-Didymaria anethiana W.B. Cooke SPECIES
-=======
+# Didymaria anethiana W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

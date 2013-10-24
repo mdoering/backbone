@@ -1,8 +1,7 @@
-Parmelia korosi-csomae Gyeln. SPECIES
-=======
+# Parmelia koeroesi-csomae Gyeln. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia korosi-csomae Gyeln.
+Parmelia koeroesi-csomae Gyeln.
 
 ### Remarks
 null

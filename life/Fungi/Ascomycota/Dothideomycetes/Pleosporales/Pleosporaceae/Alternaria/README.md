@@ -1,17 +1,16 @@
-Rhopalidium Mont. GENUS
-=======
+# Alternaria Nees GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. Pilze (Würzburg) 72 (1816)
 
 #### Original name
-Rhopalidium Mont.
+Alternaria Nees
 
 ### Remarks
 null

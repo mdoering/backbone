@@ -1,5 +1,4 @@
-Strepsithalia curvata Sauvageau SPECIES
-=======
+# Strepsithalia curvata Sauvageau SPECIES
 
 #### Status
 ACCEPTED

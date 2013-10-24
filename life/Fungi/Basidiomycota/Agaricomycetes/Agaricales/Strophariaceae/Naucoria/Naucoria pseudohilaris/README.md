@@ -1,5 +1,4 @@
-Naucoria pseudohilaris Velen. SPECIES
-=======
+# Naucoria pseudohilaris Velen. SPECIES
 
 #### Status
 ACCEPTED

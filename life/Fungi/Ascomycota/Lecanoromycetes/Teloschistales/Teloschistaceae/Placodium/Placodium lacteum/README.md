@@ -1,5 +1,4 @@
-Placodium lacteum f. laetior (J. Steiner) Szatala FORM
-=======
+# Placodium lacteum (A. Massal.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

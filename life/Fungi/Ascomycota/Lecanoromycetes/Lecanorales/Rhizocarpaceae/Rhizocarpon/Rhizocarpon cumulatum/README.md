@@ -1,5 +1,4 @@
-Rhizocarpon cumulatum J.W. Thomson SPECIES
-=======
+# Rhizocarpon cumulatum J.W. Thomson SPECIES
 
 #### Status
 ACCEPTED

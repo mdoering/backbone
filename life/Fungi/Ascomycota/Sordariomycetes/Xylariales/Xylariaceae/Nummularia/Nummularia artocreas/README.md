@@ -1,5 +1,4 @@
-Nummularia artocreas (Cooke & Massee) J.H. Mill. SPECIES
-=======
+# Nummularia artocreas (Cooke & Massee) J.H. Mill. SPECIES
 
 #### Status
 ACCEPTED

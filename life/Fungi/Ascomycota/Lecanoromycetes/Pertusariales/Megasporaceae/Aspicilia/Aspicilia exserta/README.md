@@ -1,5 +1,4 @@
-Aspicilia exserta Hue SPECIES
-=======
+# Aspicilia exserta Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius manifestus Rob. Henry SPECIES
-=======
+# Cortinarius manifestus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

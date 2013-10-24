@@ -1,5 +1,4 @@
-Gyalidea hensseniae Hafellner, Poelt & Vezda SPECIES
-=======
+# Gyalidea hensseniae Hafellner, Poelt & Vezda SPECIES
 
 #### Status
 ACCEPTED

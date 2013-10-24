@@ -1,14 +1,13 @@
-Macrosporium rhapontici Nelen, 1962 SPECIES
-=======
+# Nimbya rhapontici (Nelen) E.G. Simmons, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Nelen & Vasiljeva, Notul. Syst. Sect. Crypt. Inst. Bot. Acad. Sci. U. S. S. R. 15: 146 (1962)
+Mycotaxon 65: 21 (1997)
 
 #### Original name
 Macrosporium rhapontici Nelen, 1962

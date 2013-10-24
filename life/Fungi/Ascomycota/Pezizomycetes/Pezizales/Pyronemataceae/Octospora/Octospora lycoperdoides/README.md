@@ -1,5 +1,4 @@
-Octospora lycoperdoides (Scop.) Timm SPECIES
-=======
+# Octospora lycoperdoides (Scop.) Timm SPECIES
 
 #### Status
 ACCEPTED

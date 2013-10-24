@@ -1,5 +1,4 @@
-Asteridiella schumannianthi Hosag., T.K. Abraham & J.L. Crane SPECIES
-=======
+# Asteridiella schumannianthi Hosag., T.K. Abraham & J.L. Crane SPECIES
 
 #### Status
 ACCEPTED

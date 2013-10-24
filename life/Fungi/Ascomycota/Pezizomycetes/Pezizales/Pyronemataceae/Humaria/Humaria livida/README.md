@@ -1,5 +1,4 @@
-Humaria livida Rick SPECIES
-=======
+# Humaria livida Rick SPECIES
 
 #### Status
 ACCEPTED

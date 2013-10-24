@@ -1,5 +1,4 @@
-Aecidium zernyanum Petr. SPECIES
-=======
+# Aecidium zernyanum Petr. SPECIES
 
 #### Status
 ACCEPTED

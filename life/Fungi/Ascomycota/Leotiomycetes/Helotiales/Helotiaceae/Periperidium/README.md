@@ -1,5 +1,4 @@
-Periperidium Darker GENUS
-=======
+# Periperidium Darker GENUS
 
 #### Status
 ACCEPTED

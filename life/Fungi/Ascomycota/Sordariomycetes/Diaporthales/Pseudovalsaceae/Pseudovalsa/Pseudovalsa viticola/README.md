@@ -1,5 +1,4 @@
-Pseudovalsa viticola Ellis & Everh. SPECIES
-=======
+# Pseudovalsa viticola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

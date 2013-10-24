@@ -1,5 +1,4 @@
-Caloplaca astonii S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Caloplaca astonii S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

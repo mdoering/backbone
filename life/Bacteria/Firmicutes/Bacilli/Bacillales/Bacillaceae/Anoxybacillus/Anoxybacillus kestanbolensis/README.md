@@ -1,5 +1,4 @@
-Anoxybacillus kestanbolensis Dulger et al., 2004 SPECIES
-=======
+# Anoxybacillus kestanbolensis Dulger et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremella fucoides Möller SPECIES
-=======
+# Tremella fucoides Möller SPECIES
 
 #### Status
 ACCEPTED

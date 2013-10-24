@@ -1,5 +1,4 @@
-Leptosphaeria holmii M.T. Lucas SPECIES
-=======
+# Leptosphaeria holmii M.T. Lucas SPECIES
 
 #### Status
 ACCEPTED

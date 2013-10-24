@@ -1,5 +1,4 @@
-Chaetomium humanum P. Karst. SPECIES
-=======
+# Chaetomium humanum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyblastia interfugiens (Nyl.) Zahlbr. SPECIES
-=======
+# Polyblastia interfugiens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

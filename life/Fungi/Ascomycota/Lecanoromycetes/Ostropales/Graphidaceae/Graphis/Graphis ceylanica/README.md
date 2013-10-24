@@ -1,5 +1,4 @@
-Graphis ceylanica Zahlbr. SPECIES
-=======
+# Graphis ceylanica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

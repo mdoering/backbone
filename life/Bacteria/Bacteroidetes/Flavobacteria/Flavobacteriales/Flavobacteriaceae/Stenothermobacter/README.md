@@ -1,5 +1,4 @@
-Stenothermobacter Lau, Tsoi, Li, Plakhotnikova, Dobretsov, Wu, Wong, Pawlik & Qian, 2006 GENUS
-=======
+# Stenothermobacter Lau, Tsoi, Li, Plakhotnikova, Dobretsov, Wu, Wong, Pawlik & Qian, 2006 GENUS
 
 #### Status
 ACCEPTED

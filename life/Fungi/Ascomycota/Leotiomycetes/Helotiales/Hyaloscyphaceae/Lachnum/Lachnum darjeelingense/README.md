@@ -1,5 +1,4 @@
-Lachnum darjeelingense Raitv., K.S. Thind & R. Sharma SPECIES
-=======
+# Lachnum darjeelingense Raitv., K.S. Thind & R. Sharma SPECIES
 
 #### Status
 ACCEPTED

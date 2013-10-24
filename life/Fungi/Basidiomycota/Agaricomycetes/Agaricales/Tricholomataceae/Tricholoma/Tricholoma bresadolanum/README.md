@@ -1,17 +1,16 @@
-Tricholoma bresadolianum Clémençon SPECIES
-=======
+# Tricholoma bresadolanum Clémençon, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Docums Mycol. 7(nos 27-28): 54 (1977)
 
 #### Original name
-Tricholoma bresadolianum Clémençon
+Tricholoma bresadolanum Clémençon, 1977
 
 ### Remarks
 null

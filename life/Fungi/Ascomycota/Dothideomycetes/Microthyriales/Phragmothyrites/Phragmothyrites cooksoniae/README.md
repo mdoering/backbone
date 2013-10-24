@@ -1,5 +1,4 @@
-Phragmothyrites cooksoniae (K.P. Rao & Ramanujam) Kalgutkar & Janson. SPECIES
-=======
+# Phragmothyrites cooksoniae (K.P. Rao & Ramanujam) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

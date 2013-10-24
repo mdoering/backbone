@@ -1,14 +1,13 @@
-Centrospora cantuariensis (E.S. Salmon & Wormald) Deighton, 1971 SPECIES
-=======
+# Pseudocercospora cantuariensis (E.S. Salmon & Wormald) U. Braun, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 124: 8 (1971)
+Mycotaxon 48: 281 (1993)
 
 #### Original name
 Cercospora cantuariensis E.S. Salmon & Wormald, 1923

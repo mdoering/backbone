@@ -1,5 +1,4 @@
-Uromyces triquetrus Cooke SPECIES
-=======
+# Uromyces triquetrus Cooke SPECIES
 
 #### Status
 ACCEPTED

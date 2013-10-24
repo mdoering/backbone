@@ -1,5 +1,4 @@
-Prosthecomicrobium Staley, 1968 GENUS
-=======
+# Prosthecomicrobium Staley, 1968 GENUS
 
 #### Status
 ACCEPTED

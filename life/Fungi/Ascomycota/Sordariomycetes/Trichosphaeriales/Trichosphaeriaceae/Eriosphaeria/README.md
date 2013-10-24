@@ -1,5 +1,4 @@
-Eriosphaeria Sacc. GENUS
-=======
+# Eriosphaeria Sacc. GENUS
 
 #### Status
 ACCEPTED

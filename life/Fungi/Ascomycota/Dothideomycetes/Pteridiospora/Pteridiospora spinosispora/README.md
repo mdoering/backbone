@@ -1,5 +1,4 @@
-Pteridiospora spinosispora Filer, 1969 SPECIES
-=======
+# Pteridiospora spinosispora Filer, 1969 SPECIES
 
 #### Status
 ACCEPTED

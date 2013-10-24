@@ -1,5 +1,4 @@
-Ammodochium fletcheri H. Y. Ling SPECIES
-=======
+# Ammodochium fletcheri H. Y. Ling SPECIES
 
 #### Status
 ACCEPTED

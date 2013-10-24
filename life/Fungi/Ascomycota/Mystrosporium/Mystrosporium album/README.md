@@ -1,5 +1,4 @@
-Mystrosporium album Preuss SPECIES
-=======
+# Mystrosporium album Preuss SPECIES
 
 #### Status
 ACCEPTED

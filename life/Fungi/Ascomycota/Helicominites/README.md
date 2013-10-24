@@ -1,5 +1,4 @@
-Helicominites Barlinge & Paradkar GENUS
-=======
+# Helicominites Barlinge & Paradkar GENUS
 
 #### Status
 ACCEPTED

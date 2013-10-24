@@ -1,5 +1,4 @@
-Bathelium tuberculosum (Makhija & Patw.) R.C. Harris SPECIES
-=======
+# Bathelium tuberculosum (Makhija & Patw.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

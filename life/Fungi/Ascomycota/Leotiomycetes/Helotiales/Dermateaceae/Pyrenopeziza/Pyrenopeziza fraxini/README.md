@@ -1,5 +1,4 @@
-Pyrenopeziza fraxini Velen. SPECIES
-=======
+# Pyrenopeziza fraxini Velen. SPECIES
 
 #### Status
 ACCEPTED

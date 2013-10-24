@@ -1,5 +1,4 @@
-Pholiota punctata (Cleland) Grgur. SPECIES
-=======
+# Pholiota punctata (Cleland) Grgur. SPECIES
 
 #### Status
 ACCEPTED

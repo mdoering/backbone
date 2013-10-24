@@ -1,5 +1,4 @@
-Agaricus taylori Berk. & Broome SPECIES
-=======
+# Agaricus taylori Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

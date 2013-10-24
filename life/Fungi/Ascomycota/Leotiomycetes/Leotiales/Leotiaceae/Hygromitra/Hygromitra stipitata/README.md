@@ -1,5 +1,4 @@
-Hygromitra stipitata Nees SPECIES
-=======
+# Hygromitra stipitata Nees SPECIES
 
 #### Status
 ACCEPTED

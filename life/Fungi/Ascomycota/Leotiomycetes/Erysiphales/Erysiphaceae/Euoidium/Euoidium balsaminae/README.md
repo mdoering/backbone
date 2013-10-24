@@ -1,5 +1,4 @@
-Euoidium balsaminae (Rajd.) Y.S. Paul & J.N. Kapoor SPECIES
-=======
+# Euoidium balsaminae (Rajd.) Y.S. Paul & J.N. Kapoor SPECIES
 
 #### Status
 ACCEPTED

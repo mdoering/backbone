@@ -1,5 +1,4 @@
-Rickia Cavara GENUS
-=======
+# Rickia Cavara GENUS
 
 #### Status
 ACCEPTED

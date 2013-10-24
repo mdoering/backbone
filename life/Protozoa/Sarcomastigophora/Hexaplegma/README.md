@@ -1,5 +1,4 @@
-Hexaplegma Haeckel, 1881 GENUS
-=======
+# Hexaplegma Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

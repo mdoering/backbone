@@ -1,5 +1,4 @@
-Lepiota naucinoides (Peck) Sacc. & Trotter SPECIES
-=======
+# Lepiota naucinoides (Peck) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

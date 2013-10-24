@@ -1,5 +1,4 @@
-Ommathymenium Haeckel, 1887 GENUS
-=======
+# Ommathymenium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

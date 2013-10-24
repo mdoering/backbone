@@ -1,5 +1,4 @@
-Trichodina multidentis Laird, 1953 SPECIES
-=======
+# Trichodina multidentis Laird, 1953 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coriolus sobrius (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Coriolus sobrius (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Dactylina tylopaga (Drechsler) Subram., 1964 SPECIES
-=======
+# Lactydina tylopaga (Drechsler) Subram., 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kavaka 5: 95 (1978)
 
 #### Original name
-null
+Dactylella tylopaga Drechsler
 
 ### Remarks
 null

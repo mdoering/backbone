@@ -1,5 +1,4 @@
-Spongophycus K.B. Korde, 1954 GENUS
-=======
+# Spongophycus K.B. Korde, 1954 GENUS
 
 #### Status
 ACCEPTED

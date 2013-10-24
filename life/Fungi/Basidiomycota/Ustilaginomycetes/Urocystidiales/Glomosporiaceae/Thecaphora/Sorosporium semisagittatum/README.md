@@ -1,5 +1,4 @@
-Sorosporium semisagittatum Thirum. & Pavgi SPECIES
-=======
+# Sorosporium semisagittatum Thirum. & Pavgi SPECIES
 
 #### Status
 ACCEPTED

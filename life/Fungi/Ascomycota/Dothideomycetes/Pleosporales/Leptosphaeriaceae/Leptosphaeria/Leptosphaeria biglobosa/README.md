@@ -1,5 +1,4 @@
-Leptosphaeria biglobosa Shoemaker & H. Brun, 2001 SPECIES
-=======
+# Leptosphaeria biglobosa Shoemaker & H. Brun, 2001 SPECIES
 
 #### Status
 ACCEPTED

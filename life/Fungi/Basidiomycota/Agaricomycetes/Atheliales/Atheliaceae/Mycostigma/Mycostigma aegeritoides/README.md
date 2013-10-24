@@ -1,5 +1,4 @@
-Mycostigma aegeritoides (Bourdot & Galzin) Jülich, 1976 SPECIES
-=======
+# Mycostigma aegeritoides (Bourdot & Galzin) Jülich, 1976 SPECIES
 
 #### Status
 ACCEPTED

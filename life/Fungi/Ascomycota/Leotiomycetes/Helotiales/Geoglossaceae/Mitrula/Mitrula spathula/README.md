@@ -1,5 +1,4 @@
-Mitrula spathula (O.F. Müll.) Fr. SPECIES
-=======
+# Mitrula spathula (O.F. Müll.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora penniseti Chupp SPECIES
-=======
+# Cercospora penniseti Chupp SPECIES
 
 #### Status
 ACCEPTED

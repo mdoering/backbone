@@ -1,5 +1,4 @@
-Phaeococcus A. Borzì, 1892 GENUS
-=======
+# Phaeococcus A. Borzì, 1892 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria pedicularium Fr. SPECIES
-=======
+# Sphaeria pedicularium Fr. SPECIES
 
 #### Status
 ACCEPTED

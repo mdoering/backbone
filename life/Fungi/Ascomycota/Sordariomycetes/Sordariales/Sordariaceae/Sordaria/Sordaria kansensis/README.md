@@ -1,5 +1,4 @@
-Sordaria kansensis (Griffiths) Sacc. & D. Sacc. SPECIES
-=======
+# Sordaria kansensis (Griffiths) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

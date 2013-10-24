@@ -1,5 +1,4 @@
-Phaeocollybia lilacifolia A.H. Sm. SPECIES
-=======
+# Phaeocollybia lilacifolia A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

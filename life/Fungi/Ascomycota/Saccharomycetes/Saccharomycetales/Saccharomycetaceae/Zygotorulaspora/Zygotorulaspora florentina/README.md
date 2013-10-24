@@ -1,17 +1,16 @@
-Zygotorulaspora florentinus (Castelli ex Kudryavtsev) Kurtzman SPECIES
-=======
+# Zygotorulaspora florentina (T. Castelli ex Kudryavtsev) Kurtzman, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+FEMS Yeast Res. 4(3): 243 (2003)
 
 #### Original name
-null
+Zygosaccharomyces florentinus T. Castelli ex Kudryavtsev, 1960
 
 ### Remarks
 null

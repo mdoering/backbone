@@ -1,5 +1,4 @@
-Cercophora samala Udagawa & T. Muroi, 1979 SPECIES
-=======
+# Cercophora samala Udagawa & T. Muroi, 1979 SPECIES
 
 #### Status
 ACCEPTED

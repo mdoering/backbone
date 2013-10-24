@@ -1,5 +1,4 @@
-Puccinia rigensis Bucholtz, 1905 SPECIES
-=======
+# Puccinia rigensis Bucholtz, 1905 SPECIES
 
 #### Status
 ACCEPTED

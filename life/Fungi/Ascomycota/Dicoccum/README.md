@@ -1,5 +1,4 @@
-Dicoccum Corda, 1829 GENUS
-=======
+# Dicoccum Corda, 1829 GENUS
 
 #### Status
 ACCEPTED

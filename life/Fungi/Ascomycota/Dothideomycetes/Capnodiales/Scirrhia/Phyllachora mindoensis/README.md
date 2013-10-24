@@ -1,5 +1,4 @@
-Phyllachora mindoensis Syd., 1939 SPECIES
-=======
+# Phyllachora mindoensis Syd., 1939 SPECIES
 
 #### Status
 DOUBTFUL

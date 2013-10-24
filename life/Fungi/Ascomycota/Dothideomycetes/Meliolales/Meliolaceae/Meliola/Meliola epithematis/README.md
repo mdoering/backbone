@@ -1,5 +1,4 @@
-Meliola epithematis F. Stevens & Roldan ex Hansf. SPECIES
-=======
+# Meliola epithematis F. Stevens & Roldan ex Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Compsomyces lestevi Thaxt., 1900 SPECIES
-=======
+# Compsomyces lestevi Thaxt., 1900 SPECIES
 
 #### Status
 ACCEPTED

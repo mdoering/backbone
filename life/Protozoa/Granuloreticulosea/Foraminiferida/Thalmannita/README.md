@@ -1,5 +1,4 @@
-Thalmannita Bermudez, 1952 GENUS
-=======
+# Thalmannita Bermudez, 1952 GENUS
 
 #### Status
 ACCEPTED

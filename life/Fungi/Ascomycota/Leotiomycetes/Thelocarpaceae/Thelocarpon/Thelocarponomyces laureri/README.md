@@ -1,5 +1,4 @@
-Thelocarponomyces laureri Cif. & Tomas. SPECIES
-=======
+# Thelocarponomyces laureri Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

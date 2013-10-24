@@ -1,5 +1,4 @@
-Lecidella cyanosarca (Zahlbr.) Hertel SPECIES
-=======
+# Lecidella cyanosarca (Zahlbr.) Hertel SPECIES
 
 #### Status
 ACCEPTED

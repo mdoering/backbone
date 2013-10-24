@@ -1,5 +1,4 @@
-Arteriviridae FAMILY
-=======
+# Arteriviridae FAMILY
 
 #### Status
 ACCEPTED

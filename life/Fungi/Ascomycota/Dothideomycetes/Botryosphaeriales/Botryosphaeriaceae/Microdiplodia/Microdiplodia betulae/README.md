@@ -1,5 +1,4 @@
-Microdiplodia betulae Jaap SPECIES
-=======
+# Microdiplodia betulae Jaap SPECIES
 
 #### Status
 ACCEPTED

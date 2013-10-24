@@ -1,5 +1,4 @@
-Aecidium hydrangiicola Henn. SPECIES
-=======
+# Aecidium hydrangiicola Henn. SPECIES
 
 #### Status
 ACCEPTED

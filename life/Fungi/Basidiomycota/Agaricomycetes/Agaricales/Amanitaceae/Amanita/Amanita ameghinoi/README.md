@@ -1,5 +1,4 @@
-Amanita ameghinoi (Speg.) Singer SPECIES
-=======
+# Amanita ameghinoi (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

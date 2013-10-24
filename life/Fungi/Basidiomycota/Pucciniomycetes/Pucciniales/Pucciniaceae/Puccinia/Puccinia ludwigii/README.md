@@ -1,14 +1,13 @@
-Dicaeoma ludwigii (Tepper) Kuntze, 1898 SPECIES
-=======
+# Puccinia ludwigii Tepper, 1890 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 469 (1898)
+in Ludwig, Botanisches Centralblatt 43: 6 (1890)
 
 #### Original name
 Puccinia ludwigii Tepper, 1890

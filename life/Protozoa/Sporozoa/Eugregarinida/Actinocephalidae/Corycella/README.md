@@ -1,5 +1,4 @@
-Corycella Léger, 1892 GENUS
-=======
+# Corycella Léger, 1892 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus aurantiocrocatus Schumach. SPECIES
-=======
+# Agaricus aurantiocrocatus Schumach. SPECIES
 
 #### Status
 ACCEPTED

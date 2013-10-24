@@ -1,5 +1,4 @@
-Gneudnaella psilata Playford in Playford & Dring, 1981 SPECIES
-=======
+# Gneudnaella psilata Playford in Playford & Dring, 1981 SPECIES
 
 #### Status
 ACCEPTED

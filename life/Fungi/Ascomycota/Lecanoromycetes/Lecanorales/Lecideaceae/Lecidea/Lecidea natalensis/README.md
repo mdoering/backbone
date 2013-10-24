@@ -1,5 +1,4 @@
-Lecidea natalensis Nyl. SPECIES
-=======
+# Lecidea natalensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

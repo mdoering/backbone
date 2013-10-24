@@ -1,5 +1,4 @@
-Lepraria atlantica Orange SPECIES
-=======
+# Lepraria atlantica Orange SPECIES
 
 #### Status
 ACCEPTED

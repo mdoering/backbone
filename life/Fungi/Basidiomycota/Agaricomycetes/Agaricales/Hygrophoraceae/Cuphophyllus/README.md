@@ -1,5 +1,4 @@
-Cuphophyllus GENUS
-=======
+# Cuphophyllus GENUS
 
 #### Status
 ACCEPTED

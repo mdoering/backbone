@@ -1,5 +1,4 @@
-Heliodiscomma Haeckel, 1887 GENUS
-=======
+# Heliodiscomma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

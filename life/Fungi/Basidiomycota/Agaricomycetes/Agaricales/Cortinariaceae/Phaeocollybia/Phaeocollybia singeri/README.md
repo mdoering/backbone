@@ -1,17 +1,16 @@
-Phaeocollybia singerii Guzmán, Bandala & Montoya SPECIES
-=======
+# Phaeocollybia singeri Guzmán, Bandala & Montoya SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Bandala-Muñoz, Guzmán, Mycotaxon 35(1): 134 (1989)
 
 #### Original name
-Phaeocollybia singerii Guzmán, Bandala & Montoya
+Phaeocollybia singeri Guzmán, Bandala & Montoya
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lenzites chinensis Cooke SPECIES
-=======
+# Lenzites chinensis Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria latebrosoides Servít SPECIES
-=======
+# Verrucaria latebrosoides Servít SPECIES
 
 #### Status
 ACCEPTED

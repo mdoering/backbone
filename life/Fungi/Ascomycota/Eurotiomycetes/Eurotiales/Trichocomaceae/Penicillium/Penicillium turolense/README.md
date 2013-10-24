@@ -1,5 +1,4 @@
-Penicillium turolense C. Ramírez & A.T. Martínez, 1981 SPECIES
-=======
+# Penicillium turolense C. Ramírez & A.T. Martínez, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleosphaerellula cornicola Naumov & Czerepan., 1952 SPECIES
-=======
+# Pleosphaerellula cornicola Naumov & Czerepan., 1952 SPECIES
 
 #### Status
 ACCEPTED

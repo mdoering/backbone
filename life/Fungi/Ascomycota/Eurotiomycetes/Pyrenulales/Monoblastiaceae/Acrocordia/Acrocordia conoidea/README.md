@@ -1,17 +1,16 @@
-Acrocordia conoidea var. conoidea VARIETY
-=======
+# Acrocordia conoidea (Fr.) Körb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. lich. germ. (Breslau) 358 (1855)
 
 #### Original name
-Acrocordia conoidea var. conoidea
+Verrucaria conoidea
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cortinarius bellus E. Horak, 1990 SPECIES
-=======
+# Cortinarius bellus E. Horak, 1990 SPECIES
 
 #### Status
 ACCEPTED

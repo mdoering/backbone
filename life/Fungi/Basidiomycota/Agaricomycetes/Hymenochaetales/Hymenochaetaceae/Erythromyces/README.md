@@ -1,5 +1,4 @@
-Erythromyces Hjortstam & Ryvarden GENUS
-=======
+# Erythromyces Hjortstam & Ryvarden GENUS
 
 #### Status
 ACCEPTED

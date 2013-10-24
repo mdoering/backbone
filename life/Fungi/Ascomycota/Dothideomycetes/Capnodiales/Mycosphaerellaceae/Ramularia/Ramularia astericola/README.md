@@ -1,5 +1,4 @@
-Ramularia astericola (Sacc.) Cif. SPECIES
-=======
+# Ramularia astericola (Sacc.) Cif. SPECIES
 
 #### Status
 ACCEPTED

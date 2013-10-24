@@ -1,5 +1,4 @@
-Pluteaceae Kotl. & Pouzar FAMILY
-=======
+# Pluteaceae Kotl. & Pouzar FAMILY
 
 #### Status
 ACCEPTED

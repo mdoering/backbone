@@ -1,5 +1,4 @@
-Barlaeina globulosa (Quél.) Sacc. & Traverso SPECIES
-=======
+# Barlaeina globulosa (Quél.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

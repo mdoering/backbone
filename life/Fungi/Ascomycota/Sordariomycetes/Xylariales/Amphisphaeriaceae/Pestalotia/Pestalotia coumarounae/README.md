@@ -1,5 +1,4 @@
-Pestalotia coumarounae (Cif. & Gonz. Frag.) Cif. SPECIES
-=======
+# Pestalotia coumarounae (Cif. & Gonz. Frag.) Cif. SPECIES
 
 #### Status
 ACCEPTED

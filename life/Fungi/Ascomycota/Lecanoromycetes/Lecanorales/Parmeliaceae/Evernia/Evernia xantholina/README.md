@@ -1,5 +1,4 @@
-Evernia xantholina (Ach.) Röhl. SPECIES
-=======
+# Evernia xantholina (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

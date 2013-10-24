@@ -1,5 +1,4 @@
-Vorticella parapulchella Sun, Song, Clamp & Al-Rasheid, 2006 SPECIES
-=======
+# Vorticella parapulchella Sun, Song, Clamp & Al-Rasheid, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Polyporus leucoxanthus Bres., 1925 SPECIES
-=======
+# Antrodiella leucoxantha (Bres.) Miettinen & Niemelä, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 17(2): 73 (1925)
+Mycotaxon 96: 224 (2006)
 
 #### Original name
 Polyporus leucoxanthus Bres., 1925

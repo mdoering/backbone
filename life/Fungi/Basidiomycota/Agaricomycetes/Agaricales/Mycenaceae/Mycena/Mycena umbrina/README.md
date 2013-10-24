@@ -1,5 +1,4 @@
-Mycena umbrina A.H. Sm. SPECIES
-=======
+# Mycena umbrina A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

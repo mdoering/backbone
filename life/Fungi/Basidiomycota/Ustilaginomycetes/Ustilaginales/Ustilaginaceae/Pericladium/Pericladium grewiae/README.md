@@ -1,17 +1,16 @@
-Pericladium flavesci Prasad & Tyagi, 1961 SPECIES
-=======
+# Pericladium grewiae Pass., 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Indian bot. Soc. 40(4): 498 (1961)
+Nuovo Giorn. Bot. Ital. 7: 185 (1875)
 
 #### Original name
-Pericladium flavesci Prasad & Tyagi, 1961
+Pericladium grewiae Pass., 1875
 
 ### Remarks
 null

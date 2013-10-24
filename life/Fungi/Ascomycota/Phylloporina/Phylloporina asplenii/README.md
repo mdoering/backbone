@@ -1,5 +1,4 @@
-Phylloporina asplenii Zahlbr. SPECIES
-=======
+# Phylloporina asplenii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Cystobia intestinalis Ssokoloff, 1913 SPECIES
-=======
+# Gonospora intestinalis Ssokoloff, 1913 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

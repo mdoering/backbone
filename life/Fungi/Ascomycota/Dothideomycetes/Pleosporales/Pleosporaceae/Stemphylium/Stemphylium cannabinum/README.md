@@ -1,5 +1,4 @@
-Stemphylium cannabinum (Bakhtin & Gutner) Khokhr. SPECIES
-=======
+# Stemphylium cannabinum (Bakhtin & Gutner) Khokhr. SPECIES
 
 #### Status
 ACCEPTED

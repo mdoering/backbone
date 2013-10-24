@@ -1,5 +1,4 @@
-Poria luteofibrata D.V. Baxter SPECIES
-=======
+# Poria luteofibrata D.V. Baxter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pilocratera tricholoma var. tricholoma VARIETY
-=======
+# Cookeina tricholoma (Mont.) Kuntze, 1891 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 2: 849 (1891)
 
 #### Original name
-Pilocratera tricholoma var. tricholoma
+Peziza tricholoma Mont., 1834
 
 ### Remarks
 null

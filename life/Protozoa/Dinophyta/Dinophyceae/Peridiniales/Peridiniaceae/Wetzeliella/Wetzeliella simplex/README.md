@@ -1,5 +1,4 @@
-Wetzeliella simplex (J.P. Bujak) J.K. Lentin & T.F. Vozzhennikova SPECIES
-=======
+# Wetzeliella simplex (J.P. Bujak) J.K. Lentin & T.F. Vozzhennikova SPECIES
 
 #### Status
 ACCEPTED

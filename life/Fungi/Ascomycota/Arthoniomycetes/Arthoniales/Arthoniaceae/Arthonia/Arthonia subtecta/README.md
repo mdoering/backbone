@@ -1,5 +1,4 @@
-Arthonia subtecta Müll. Arg. SPECIES
-=======
+# Arthonia subtecta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

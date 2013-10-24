@@ -1,5 +1,4 @@
-Semilecanora submollis Motyka SPECIES
-=======
+# Semilecanora submollis Motyka SPECIES
 
 #### Status
 ACCEPTED

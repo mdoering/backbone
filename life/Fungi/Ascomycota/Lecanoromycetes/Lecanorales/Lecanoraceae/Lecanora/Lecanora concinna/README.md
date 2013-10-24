@@ -1,17 +1,16 @@
-Lecanora concinnum J.W. Thomson SPECIES
-=======
+# Lecanora concinna J.W. Thomson SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bryologist 75(3): 35 8 (1972)
 
 #### Original name
-Lecanora concinnum J.W. Thomson
+Lecanora concinna J.W. Thomson
 
 ### Remarks
 null

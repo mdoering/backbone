@@ -1,5 +1,4 @@
-Mycena pruinosoviscida var. pruinosoviscida VARIETY
-=======
+# Mycena pruinosoviscida Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mycena pruinosoviscida var. pruinosoviscida
+Mycena pruinosoviscida Corner
 
 ### Remarks
 null

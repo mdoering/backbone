@@ -1,5 +1,4 @@
-Rhizopogon bacillisporus A.H. Sm. SPECIES
-=======
+# Rhizopogon bacillisporus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

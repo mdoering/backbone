@@ -1,5 +1,4 @@
-Meliola chassaliae anon. SPECIES
-=======
+# Meliola chassaliae anon. SPECIES
 
 #### Status
 ACCEPTED

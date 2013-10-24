@@ -1,5 +1,4 @@
-Schismatosphaeridium guttulaferum Le Hérissé, 1989 SPECIES
-=======
+# Schismatosphaeridium guttulaferum Le Hérissé, 1989 SPECIES
 
 #### Status
 ACCEPTED

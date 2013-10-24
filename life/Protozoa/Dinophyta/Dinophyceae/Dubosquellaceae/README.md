@@ -1,5 +1,4 @@
-Dubosquellaceae FAMILY
-=======
+# Dubosquellaceae FAMILY
 
 #### Status
 ACCEPTED

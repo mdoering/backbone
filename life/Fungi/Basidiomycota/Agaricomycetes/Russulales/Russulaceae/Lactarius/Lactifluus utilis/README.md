@@ -1,5 +1,4 @@
-Lactifluus utilis (Weinm.) Kuntze SPECIES
-=======
+# Lactifluus utilis (Weinm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

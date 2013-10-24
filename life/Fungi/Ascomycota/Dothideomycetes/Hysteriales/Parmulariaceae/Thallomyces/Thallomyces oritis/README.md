@@ -1,17 +1,16 @@
-Stigmatea oritidis Hansf. SPECIES
-=======
+# Thallomyces oritis (Hansf.) H.J. Swart, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 65(1): 85 (1975)
 
 #### Original name
-Stigmatea oritidis Hansf.
+Stigmatea oritis Hansf., 1954
 
 ### Remarks
 null

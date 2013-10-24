@@ -1,11 +1,10 @@
-Distephanopsis slavnicii subsp. slavnicii SUBSPECIES
-=======
+# Distephanopsis slavnicii (L. Jerkovic) P. Prema & T. V. Desikachary SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

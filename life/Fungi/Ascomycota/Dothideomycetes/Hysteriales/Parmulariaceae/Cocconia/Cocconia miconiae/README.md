@@ -1,5 +1,4 @@
-Cocconia miconiae Bat. & A.F. Vital, 1960 SPECIES
-=======
+# Cocconia miconiae Bat. & A.F. Vital, 1960 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinomycetaceae FAMILY
-=======
+# Actinomycetaceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria trichosperma Müll. Arg. SPECIES
-=======
+# Patellaria trichosperma Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

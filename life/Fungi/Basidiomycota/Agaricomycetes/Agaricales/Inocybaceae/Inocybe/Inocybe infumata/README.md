@@ -1,5 +1,4 @@
-Inocybe infumata Kühner SPECIES
-=======
+# Inocybe infumata Kühner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urostyla gracilis subsp. gracilis Entz, 1884 SUBSPECIES
-=======
+# Urostyla gracilis Entz, 1884 SPECIES
 
 #### Status
 ACCEPTED

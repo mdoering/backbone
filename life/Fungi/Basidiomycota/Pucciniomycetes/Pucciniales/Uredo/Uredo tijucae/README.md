@@ -1,5 +1,4 @@
-Uredo tijucae H.S. Jacks. & Holw. SPECIES
-=======
+# Uredo tijucae H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

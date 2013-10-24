@@ -1,5 +1,4 @@
-Micropsalliota pulverulenta Heinem. & Leelav. SPECIES
-=======
+# Micropsalliota pulverulenta Heinem. & Leelav. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sympodioclathra Voglmayr GENUS
-=======
+# Sympodioclathra Voglmayr GENUS
 
 #### Status
 ACCEPTED

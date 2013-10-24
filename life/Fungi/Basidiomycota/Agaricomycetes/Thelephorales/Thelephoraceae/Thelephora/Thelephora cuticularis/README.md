@@ -1,5 +1,4 @@
-Thelephora cuticularis Berk., 1847 SPECIES
-=======
+# Thelephora cuticularis Berk., 1847 SPECIES
 
 #### Status
 ACCEPTED

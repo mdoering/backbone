@@ -1,5 +1,4 @@
-Lophiostoma menthae Kirchn. SPECIES
-=======
+# Lophiostoma menthae Kirchn. SPECIES
 
 #### Status
 ACCEPTED

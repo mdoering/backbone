@@ -1,5 +1,4 @@
-Stegobolus subcavatus (Nyl.) Frisch SPECIES
-=======
+# Stegobolus subcavatus (Nyl.) Frisch SPECIES
 
 #### Status
 ACCEPTED

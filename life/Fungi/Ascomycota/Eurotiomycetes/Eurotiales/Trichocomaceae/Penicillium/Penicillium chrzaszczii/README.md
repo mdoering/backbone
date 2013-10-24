@@ -1,5 +1,4 @@
-Penicillium chrzaszczii K.M. Zalessky SPECIES
-=======
+# Penicillium chrzaszczii K.M. Zalessky SPECIES
 
 #### Status
 ACCEPTED

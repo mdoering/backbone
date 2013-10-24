@@ -1,5 +1,4 @@
-Microcoleus wuitneri Frémy SPECIES
-=======
+# Microcoleus wuitneri Frémy SPECIES
 
 #### Status
 ACCEPTED

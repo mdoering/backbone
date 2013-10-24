@@ -1,17 +1,16 @@
-Septomyxa andromedae f. vaccinii Negru FORM
-=======
+# Topospora andromedae (Henn.) M. Morelet, 1969 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annales de la Société des Sciences Naturelles et d'Archéologie de Toulon et du Var 21: 105 (1969)
 
 #### Original name
-Septomyxa andromedae f. vaccinii Negru
+Septomyxa andromedae Henn., 1901
 
 ### Remarks
 null

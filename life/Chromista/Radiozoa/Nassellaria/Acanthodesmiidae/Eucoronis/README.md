@@ -1,5 +1,4 @@
-Eucoronis Haeckel, 1881 GENUS
-=======
+# Eucoronis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanconium foliicola Peck SPECIES
-=======
+# Melanconium foliicola Peck SPECIES
 
 #### Status
 ACCEPTED

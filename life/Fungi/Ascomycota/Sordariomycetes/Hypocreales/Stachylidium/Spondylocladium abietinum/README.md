@@ -1,5 +1,4 @@
-Spondylocladium abietinum (Zukal) Sacc. SPECIES
-=======
+# Spondylocladium abietinum (Zukal) Sacc. SPECIES
 
 #### Status
 ACCEPTED

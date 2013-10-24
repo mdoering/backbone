@@ -1,5 +1,4 @@
-Leptosphaeria sorghi-arundinacei Luc SPECIES
-=======
+# Leptosphaeria sorghi-arundinacei Luc SPECIES
 
 #### Status
 ACCEPTED

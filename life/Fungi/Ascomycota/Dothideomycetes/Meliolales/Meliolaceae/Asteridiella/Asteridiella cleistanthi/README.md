@@ -1,5 +1,4 @@
-Asteridiella cleistanthi Hansf. SPECIES
-=======
+# Asteridiella cleistanthi Hansf. SPECIES
 
 #### Status
 ACCEPTED

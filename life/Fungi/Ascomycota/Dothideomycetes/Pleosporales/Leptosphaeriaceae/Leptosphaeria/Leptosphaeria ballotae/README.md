@@ -1,5 +1,4 @@
-Leptosphaeria ballotae Politis SPECIES
-=======
+# Leptosphaeria ballotae Politis SPECIES
 
 #### Status
 ACCEPTED

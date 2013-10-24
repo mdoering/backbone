@@ -1,5 +1,4 @@
-Cortinarius torosus Fr. SPECIES
-=======
+# Cortinarius torosus Fr. SPECIES
 
 #### Status
 ACCEPTED

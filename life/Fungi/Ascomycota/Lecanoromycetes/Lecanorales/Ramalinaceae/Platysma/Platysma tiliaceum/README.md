@@ -1,5 +1,4 @@
-Platysma tiliaceum (Hoffm.) Frege SPECIES
-=======
+# Platysma tiliaceum (Hoffm.) Frege SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Rhodophyllus poliopus f. poliopus FORM
-=======
+# Entoloma poliopus (Romagn.) Noordel. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 19: 8 (1954)
+null
 
 #### Original name
-Rhodophyllus poliopus f. poliopus
+null
 
 ### Remarks
 null

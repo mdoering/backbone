@@ -1,5 +1,4 @@
-Eucantharomyces rhaphidiognathae Thaxt. SPECIES
-=======
+# Eucantharomyces rhaphidiognathae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

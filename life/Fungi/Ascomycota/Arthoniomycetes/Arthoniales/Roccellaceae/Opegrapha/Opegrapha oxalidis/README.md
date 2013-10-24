@@ -1,5 +1,4 @@
-Opegrapha oxalidis C.W. Dodge SPECIES
-=======
+# Opegrapha oxalidis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

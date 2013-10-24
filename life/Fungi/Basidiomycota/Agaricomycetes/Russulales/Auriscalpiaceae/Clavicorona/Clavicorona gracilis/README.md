@@ -1,5 +1,4 @@
-Clavicorona gracilis SPECIES
-=======
+# Clavicorona gracilis SPECIES
 
 #### Status
 ACCEPTED

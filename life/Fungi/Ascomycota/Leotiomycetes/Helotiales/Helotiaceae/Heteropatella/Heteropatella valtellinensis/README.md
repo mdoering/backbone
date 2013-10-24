@@ -1,14 +1,13 @@
-Excipulina valtellinensis Traverso, 1903 SPECIES
-=======
+# Heteropatella valtellinensis (Traverso) Wollenw., 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Z. ParasitKde 3(3): 507 (1931)
 
 #### Original name
 Excipulina valtellinensis Traverso, 1903

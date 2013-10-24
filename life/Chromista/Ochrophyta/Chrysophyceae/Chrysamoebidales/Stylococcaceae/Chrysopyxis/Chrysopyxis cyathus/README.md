@@ -1,5 +1,4 @@
-Chrysopyxis cyathus Pascher SPECIES
-=======
+# Chrysopyxis cyathus Pascher SPECIES
 
 #### Status
 ACCEPTED

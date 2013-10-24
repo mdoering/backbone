@@ -1,17 +1,16 @@
-Phaeodothiora Petr. GENUS
-=======
+# Saccothecium E.M. Fries, 1836 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Sydowia 2: 82 (1948)
+null
 
 #### Original name
-Phaeodothiora Petr.
+null
 
 ### Remarks
 null

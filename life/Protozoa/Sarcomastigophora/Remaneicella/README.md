@@ -1,5 +1,4 @@
-Remaneicella Bronnimann, Zaninetti & Whittaker, 1983 GENUS
-=======
+# Remaneicella Bronnimann, Zaninetti & Whittaker, 1983 GENUS
 
 #### Status
 ACCEPTED

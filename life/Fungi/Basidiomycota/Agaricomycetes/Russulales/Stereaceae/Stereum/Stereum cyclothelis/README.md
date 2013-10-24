@@ -1,5 +1,4 @@
-Stereum cyclothelis Pers. SPECIES
-=======
+# Stereum cyclothelis Pers. SPECIES
 
 #### Status
 ACCEPTED

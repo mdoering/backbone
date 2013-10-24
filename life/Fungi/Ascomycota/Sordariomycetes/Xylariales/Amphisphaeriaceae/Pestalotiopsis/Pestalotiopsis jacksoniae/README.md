@@ -1,5 +1,4 @@
-Pestalotiopsis jacksoniae (Henn.) Nag Raj SPECIES
-=======
+# Pestalotiopsis jacksoniae (Henn.) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

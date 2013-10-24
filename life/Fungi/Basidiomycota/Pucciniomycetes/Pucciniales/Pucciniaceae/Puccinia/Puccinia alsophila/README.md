@@ -1,5 +1,4 @@
-Puccinia alsophila Sacc. SPECIES
-=======
+# Puccinia alsophila Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mollisia urticae E.K. Cash SPECIES
-=======
+# Mollisia urticae E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

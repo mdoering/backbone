@@ -1,5 +1,4 @@
-Russula herrerae A. Kong, A. Montoya & Estrada SPECIES
-=======
+# Russula herrerae A. Kong, A. Montoya & Estrada SPECIES
 
 #### Status
 ACCEPTED

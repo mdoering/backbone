@@ -1,5 +1,4 @@
-Graphis platycarpoides Vain. SPECIES
-=======
+# Graphis platycarpoides Vain. SPECIES
 
 #### Status
 ACCEPTED

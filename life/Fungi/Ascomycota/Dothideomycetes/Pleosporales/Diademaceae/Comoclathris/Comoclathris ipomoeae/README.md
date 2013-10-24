@@ -1,5 +1,4 @@
-Comoclathris ipomoeae Clem. SPECIES
-=======
+# Comoclathris ipomoeae Clem. SPECIES
 
 #### Status
 ACCEPTED

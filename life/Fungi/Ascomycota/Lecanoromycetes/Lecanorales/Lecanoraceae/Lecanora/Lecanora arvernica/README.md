@@ -1,5 +1,4 @@
-Lecanora arvernica (Hue) Zahlbr. SPECIES
-=======
+# Lecanora arvernica (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

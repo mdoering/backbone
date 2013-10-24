@@ -1,5 +1,4 @@
-Agaricus epigaei var. epigaei Pers. VARIETY
-=======
+# Agaricus epigaei Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Agaricus epigaei var. epigaei Pers.
+Agaricus epigaei Pers.
 
 ### Remarks
 null

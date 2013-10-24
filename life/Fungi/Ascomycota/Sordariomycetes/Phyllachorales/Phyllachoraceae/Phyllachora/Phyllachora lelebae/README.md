@@ -1,5 +1,4 @@
-Phyllachora lelebae Sawada SPECIES
-=======
+# Phyllachora lelebae Sawada SPECIES
 
 #### Status
 ACCEPTED

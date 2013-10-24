@@ -1,14 +1,13 @@
-Leptotrema rhodothecium (Vain.) Zahlbr. SPECIES
-=======
+# Thelotrema rhodothecium Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 2: 639 (1923)
+null
 
 #### Original name
 Thelotrema rhodothecium Vain.

@@ -1,5 +1,4 @@
-Chrysosporium ophiodiicola Guarro, D.A. Sutton, Wickes & Rajeev SPECIES
-=======
+# Chrysosporium ophiodiicola Guarro, D.A. Sutton, Wickes & Rajeev SPECIES
 
 #### Status
 ACCEPTED

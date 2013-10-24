@@ -1,5 +1,4 @@
-Alternaria eriobotryae Sawada SPECIES
-=======
+# Alternaria eriobotryae Sawada SPECIES
 
 #### Status
 ACCEPTED

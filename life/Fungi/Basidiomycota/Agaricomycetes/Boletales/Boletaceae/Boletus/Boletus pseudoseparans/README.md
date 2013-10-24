@@ -1,5 +1,4 @@
-Boletus pseudoseparans Grand & A.H. Sm. SPECIES
-=======
+# Boletus pseudoseparans Grand & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

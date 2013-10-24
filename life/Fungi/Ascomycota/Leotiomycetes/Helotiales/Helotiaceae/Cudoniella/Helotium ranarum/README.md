@@ -1,5 +1,4 @@
-Helotium ranarum Velen. SPECIES
-=======
+# Helotium ranarum Velen. SPECIES
 
 #### Status
 ACCEPTED

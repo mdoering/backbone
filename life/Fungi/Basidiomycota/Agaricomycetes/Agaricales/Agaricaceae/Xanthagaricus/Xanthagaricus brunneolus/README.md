@@ -1,5 +1,4 @@
-Xanthagaricus brunneolus Little Flower, Hosag. & T.K. Abraham, 1997 SPECIES
-=======
+# Xanthagaricus brunneolus Little Flower, Hosag. & T.K. Abraham, 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bulbothrix amazonensis V. Marcano, Galiz & A. Morales SPECIES
-=======
+# Bulbothrix amazonensis V. Marcano, Galiz & A. Morales SPECIES
 
 #### Status
 ACCEPTED

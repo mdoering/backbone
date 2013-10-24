@@ -1,17 +1,16 @@
-Ancistruma Strand, 1928 GENUS
-=======
+# Ancistrum Maupas, 1883 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+IRMNG Homonym List
 
 #### Published in
-Arch. Naturgesch. , 92, A8, 1926, 30.
+Arch. Zool. exp. gén. Paris, (2) 1, 476.
 
 #### Original name
-Ancistrum Maupas, 1883
+null
 
 ### Remarks
 null

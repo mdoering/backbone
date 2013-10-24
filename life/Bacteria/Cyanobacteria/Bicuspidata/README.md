@@ -1,5 +1,4 @@
-Bicuspidata E.A. Assejeva in Yu.V. Teslenko, 1982 GENUS
-=======
+# Bicuspidata E.A. Assejeva in Yu.V. Teslenko, 1982 GENUS
 
 #### Status
 ACCEPTED

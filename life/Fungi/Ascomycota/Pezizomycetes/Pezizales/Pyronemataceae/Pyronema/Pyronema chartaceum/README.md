@@ -1,5 +1,4 @@
-Pyronema chartaceum Velen. SPECIES
-=======
+# Pyronema chartaceum Velen. SPECIES
 
 #### Status
 ACCEPTED

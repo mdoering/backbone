@@ -1,5 +1,4 @@
-Phylacteria carbonaria (Velen.) Cejp SPECIES
-=======
+# Phylacteria carbonaria (Velen.) Cejp SPECIES
 
 #### Status
 ACCEPTED

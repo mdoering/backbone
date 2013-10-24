@@ -1,5 +1,4 @@
-Rectipilus cistophilus Esteve-Rav. & Vila, 1999 SPECIES
-=======
+# Rectipilus cistophilus Esteve-Rav. & Vila, 1999 SPECIES
 
 #### Status
 ACCEPTED

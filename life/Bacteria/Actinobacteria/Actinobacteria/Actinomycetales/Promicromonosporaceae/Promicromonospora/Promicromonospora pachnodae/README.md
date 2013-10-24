@@ -1,8 +1,7 @@
-Xylanimicrobium pachnodae (Cazemier et al., 2004) Stackebrandt & Schumann, 2004 SPECIES
-=======
+# Promicromonospora pachnodae Cazemier et al., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

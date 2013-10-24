@@ -1,5 +1,4 @@
-Tremella rubescens Ehrenb. SPECIES
-=======
+# Tremella rubescens Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

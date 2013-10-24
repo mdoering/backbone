@@ -1,5 +1,4 @@
-Irenina manca (Ellis & G. Martin) F. Stevens SPECIES
-=======
+# Irenina manca (Ellis & G. Martin) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camptoum palmarum Boedijn SPECIES
-=======
+# Camptoum palmarum Boedijn SPECIES
 
 #### Status
 ACCEPTED

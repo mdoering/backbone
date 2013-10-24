@@ -1,5 +1,4 @@
-Paratrichoconis antillana (R.F. Castañeda) R.F. Castañeda SPECIES
-=======
+# Paratrichoconis antillana (R.F. Castañeda) R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

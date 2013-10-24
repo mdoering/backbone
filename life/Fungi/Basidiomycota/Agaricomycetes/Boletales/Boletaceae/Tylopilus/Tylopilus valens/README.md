@@ -1,5 +1,4 @@
-Tylopilus valens (Corner) Hongo & Nagas. SPECIES
-=======
+# Tylopilus valens (Corner) Hongo & Nagas. SPECIES
 
 #### Status
 ACCEPTED

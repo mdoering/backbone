@@ -1,5 +1,4 @@
-Buellia sanguinea (Müll. Arg.) C.W. Dodge SPECIES
-=======
+# Buellia sanguinea (Müll. Arg.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

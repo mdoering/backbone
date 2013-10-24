@@ -1,5 +1,4 @@
-Hyphelia GENUS
-=======
+# Hyphelia GENUS
 
 #### Status
 ACCEPTED

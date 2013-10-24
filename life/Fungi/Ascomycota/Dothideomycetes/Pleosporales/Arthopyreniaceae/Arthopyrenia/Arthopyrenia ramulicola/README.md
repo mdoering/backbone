@@ -1,5 +1,4 @@
-Arthopyrenia ramulicola SPECIES
-=======
+# Arthopyrenia ramulicola SPECIES
 
 #### Status
 ACCEPTED

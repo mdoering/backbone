@@ -1,5 +1,4 @@
-Stemphylium phaeosporum De Not. SPECIES
-=======
+# Stemphylium phaeosporum De Not. SPECIES
 
 #### Status
 ACCEPTED

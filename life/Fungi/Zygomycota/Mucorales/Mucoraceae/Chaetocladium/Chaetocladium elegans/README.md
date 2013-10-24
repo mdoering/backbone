@@ -1,5 +1,4 @@
-Chaetocladium elegans Zopf SPECIES
-=======
+# Chaetocladium elegans Zopf SPECIES
 
 #### Status
 ACCEPTED

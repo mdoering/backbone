@@ -1,5 +1,4 @@
-Chaetosphaeria exserticlavoides Réblová & Seifert SPECIES
-=======
+# Chaetosphaeria exserticlavoides Réblová & Seifert SPECIES
 
 #### Status
 ACCEPTED

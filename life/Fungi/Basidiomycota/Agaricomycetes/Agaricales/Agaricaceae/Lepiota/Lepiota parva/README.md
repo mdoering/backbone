@@ -1,5 +1,4 @@
-Lepiota parva Beardslee SPECIES
-=======
+# Lepiota parva Beardslee SPECIES
 
 #### Status
 ACCEPTED

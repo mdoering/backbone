@@ -1,5 +1,4 @@
-Herpocladium circinans J. Schröt. SPECIES
-=======
+# Herpocladium circinans J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

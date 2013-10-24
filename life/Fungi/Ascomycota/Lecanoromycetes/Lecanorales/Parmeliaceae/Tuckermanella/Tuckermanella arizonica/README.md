@@ -1,5 +1,4 @@
-Tuckermanella arizonica Essl. SPECIES
-=======
+# Tuckermanella arizonica Essl. SPECIES
 
 #### Status
 ACCEPTED

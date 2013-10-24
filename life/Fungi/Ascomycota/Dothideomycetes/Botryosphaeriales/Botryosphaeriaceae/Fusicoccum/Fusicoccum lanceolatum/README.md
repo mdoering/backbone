@@ -1,5 +1,4 @@
-Fusicoccum lanceolatum (Cooke & Ellis) Vanev & Aa SPECIES
-=======
+# Fusicoccum lanceolatum (Cooke & Ellis) Vanev & Aa SPECIES
 
 #### Status
 ACCEPTED

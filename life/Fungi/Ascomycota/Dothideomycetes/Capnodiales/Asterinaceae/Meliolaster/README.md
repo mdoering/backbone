@@ -1,17 +1,16 @@
-Meliolinopsis Beeli, 1920 GENUS
-=======
+# Meliolaster von Höhnel, 1918 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Jard. Bot. État 7: 101 (1920)
+Ber. dt. bot. Ges. 35: 701 (1918)
 
 #### Original name
-Meliolinopsis Beeli, 1920
+Meliolaster von Höhnel, 1918
 
 ### Remarks
 null

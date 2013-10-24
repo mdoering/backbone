@@ -1,5 +1,4 @@
-Cylindrocarpon sinuatophorum Matsush. SPECIES
-=======
+# Cylindrocarpon sinuatophorum Matsush. SPECIES
 
 #### Status
 ACCEPTED

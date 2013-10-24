@@ -1,5 +1,4 @@
-Pistillaria subuncialis Corner, 1950 SPECIES
-=======
+# Pistillaria subuncialis Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED

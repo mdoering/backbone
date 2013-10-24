@@ -1,5 +1,4 @@
-Biatorina nivea (P. Crouan & H. Crouan) Boistel SPECIES
-=======
+# Biatorina nivea (P. Crouan & H. Crouan) Boistel SPECIES
 
 #### Status
 ACCEPTED

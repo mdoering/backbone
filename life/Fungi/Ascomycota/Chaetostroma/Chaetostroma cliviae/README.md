@@ -1,5 +1,4 @@
-Chaetostroma cliviae Oudem. SPECIES
-=======
+# Chaetostroma cliviae Oudem. SPECIES
 
 #### Status
 ACCEPTED

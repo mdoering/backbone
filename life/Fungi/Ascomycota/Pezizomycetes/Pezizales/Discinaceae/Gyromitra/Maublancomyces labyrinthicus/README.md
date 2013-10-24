@@ -1,8 +1,7 @@
-Maublancomyces labyrinthica (Fr.) Herter SPECIES
-=======
+# Maublancomyces labyrinthicus (Fr.) Herter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

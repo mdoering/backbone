@@ -1,5 +1,4 @@
-Chytridium lagenula A. Braun, 1855 SPECIES
-=======
+# Chytridium lagenula A. Braun, 1855 SPECIES
 
 #### Status
 ACCEPTED

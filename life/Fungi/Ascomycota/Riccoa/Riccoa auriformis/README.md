@@ -1,5 +1,4 @@
-Riccoa auriformis With. SPECIES
-=======
+# Riccoa auriformis With. SPECIES
 
 #### Status
 ACCEPTED

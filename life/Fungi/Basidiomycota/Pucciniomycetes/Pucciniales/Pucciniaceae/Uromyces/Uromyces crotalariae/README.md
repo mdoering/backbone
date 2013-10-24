@@ -1,5 +1,4 @@
-Uromyces crotalariae (Arthur) J.W. Baxter SPECIES
-=======
+# Uromyces crotalariae (Arthur) J.W. Baxter SPECIES
 
 #### Status
 ACCEPTED

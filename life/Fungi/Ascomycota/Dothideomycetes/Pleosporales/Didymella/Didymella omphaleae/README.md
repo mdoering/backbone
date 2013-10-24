@@ -1,5 +1,4 @@
-Didymella omphaleae Petr. & Cif. SPECIES
-=======
+# Didymella omphaleae Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

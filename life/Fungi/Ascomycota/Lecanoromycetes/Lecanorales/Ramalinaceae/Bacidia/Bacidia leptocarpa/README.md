@@ -1,5 +1,4 @@
-Bacidia leptocarpa Vain. SPECIES
-=======
+# Bacidia leptocarpa Vain. SPECIES
 
 #### Status
 ACCEPTED

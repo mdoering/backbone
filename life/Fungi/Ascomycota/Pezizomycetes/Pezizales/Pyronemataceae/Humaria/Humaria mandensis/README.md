@@ -1,5 +1,4 @@
-Humaria mandensis Velen. SPECIES
-=======
+# Humaria mandensis Velen. SPECIES
 
 #### Status
 ACCEPTED

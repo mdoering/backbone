@@ -1,5 +1,4 @@
-Guepinia femsjoniana Sopp SPECIES
-=======
+# Guepinia femsjoniana Sopp SPECIES
 
 #### Status
 ACCEPTED

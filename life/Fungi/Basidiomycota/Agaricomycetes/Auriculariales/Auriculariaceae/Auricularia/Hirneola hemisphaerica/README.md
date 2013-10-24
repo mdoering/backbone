@@ -1,5 +1,4 @@
-Hirneola hemisphaerica Fr. SPECIES
-=======
+# Hirneola hemisphaerica Fr. SPECIES
 
 #### Status
 ACCEPTED

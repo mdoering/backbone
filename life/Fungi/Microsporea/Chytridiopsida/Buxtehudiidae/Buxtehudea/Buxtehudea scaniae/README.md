@@ -1,5 +1,4 @@
-Buxtehudea scaniae J.I.R. Larsson SPECIES
-=======
+# Buxtehudea scaniae J.I.R. Larsson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicellaesporites inaequabilis Mart.-Hern. & Tom.-Ort. SPECIES
-=======
+# Dicellaesporites inaequabilis Mart.-Hern. & Tom.-Ort. SPECIES
 
 #### Status
 ACCEPTED

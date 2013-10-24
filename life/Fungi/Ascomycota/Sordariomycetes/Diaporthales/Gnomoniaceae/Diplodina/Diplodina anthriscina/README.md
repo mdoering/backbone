@@ -1,5 +1,4 @@
-Diplodina anthriscina Baudy SPECIES
-=======
+# Diplodina anthriscina Baudy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryosphaeria stomatica Cooke SPECIES
-=======
+# Botryosphaeria stomatica Cooke SPECIES
 
 #### Status
 ACCEPTED

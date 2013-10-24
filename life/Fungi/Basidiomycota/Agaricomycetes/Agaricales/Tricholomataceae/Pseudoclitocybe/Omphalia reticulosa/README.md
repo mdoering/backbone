@@ -1,5 +1,4 @@
-Omphalia reticulosa Velen. SPECIES
-=======
+# Omphalia reticulosa Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Belonopsis coccinea Rehm SPECIES
-=======
+# Belonopsis coccinea Rehm SPECIES
 
 #### Status
 ACCEPTED

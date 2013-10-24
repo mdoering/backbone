@@ -1,5 +1,4 @@
-Stylopage cymosa Dudd., 1953 SPECIES
-=======
+# Stylopage cymosa Dudd., 1953 SPECIES
 
 #### Status
 ACCEPTED

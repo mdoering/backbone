@@ -1,5 +1,4 @@
-Entosordaria microspora A. Pande SPECIES
-=======
+# Entosordaria microspora A. Pande SPECIES
 
 #### Status
 ACCEPTED

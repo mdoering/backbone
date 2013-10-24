@@ -1,5 +1,4 @@
-Amphisphaerella mycophila (Fr.) Kirschst. SPECIES
-=======
+# Amphisphaerella mycophila (Fr.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora sciadophila (Speg.) Chupp SPECIES
-=======
+# Cercospora sciadophila (Speg.) Chupp SPECIES
 
 #### Status
 ACCEPTED

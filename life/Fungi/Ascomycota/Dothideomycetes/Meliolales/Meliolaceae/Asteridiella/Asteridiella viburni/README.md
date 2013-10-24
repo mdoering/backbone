@@ -1,5 +1,4 @@
-Asteridiella viburni (Syd.) Hansf. SPECIES
-=======
+# Asteridiella viburni (Syd.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staurothele monicae (Zahlbr.) Wetmore SPECIES
-=======
+# Staurothele monicae (Zahlbr.) Wetmore SPECIES
 
 #### Status
 ACCEPTED

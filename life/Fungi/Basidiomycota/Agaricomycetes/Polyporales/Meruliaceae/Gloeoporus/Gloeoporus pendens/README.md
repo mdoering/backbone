@@ -1,5 +1,4 @@
-Gloeoporus pendens Corner, 1989 SPECIES
-=======
+# Gloeoporus pendens Corner, 1989 SPECIES
 
 #### Status
 ACCEPTED

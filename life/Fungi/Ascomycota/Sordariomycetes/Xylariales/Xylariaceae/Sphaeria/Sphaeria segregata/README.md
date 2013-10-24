@@ -1,5 +1,4 @@
-Sphaeria segregata Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria segregata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

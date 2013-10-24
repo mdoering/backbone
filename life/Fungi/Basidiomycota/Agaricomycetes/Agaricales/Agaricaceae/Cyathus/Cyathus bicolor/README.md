@@ -1,5 +1,4 @@
-Cyathus bicolor Pers. SPECIES
-=======
+# Cyathus bicolor Pers. SPECIES
 
 #### Status
 ACCEPTED

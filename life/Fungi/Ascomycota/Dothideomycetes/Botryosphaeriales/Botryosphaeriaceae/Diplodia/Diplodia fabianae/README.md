@@ -1,5 +1,4 @@
-Diplodia fabianae Tassi SPECIES
-=======
+# Diplodia fabianae Tassi SPECIES
 
 #### Status
 ACCEPTED

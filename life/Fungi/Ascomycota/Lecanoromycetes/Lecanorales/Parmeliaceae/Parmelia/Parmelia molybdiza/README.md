@@ -1,5 +1,4 @@
-Parmelia molybdiza Nyl. SPECIES
-=======
+# Parmelia molybdiza Nyl. SPECIES
 
 #### Status
 ACCEPTED

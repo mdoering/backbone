@@ -1,5 +1,4 @@
-Burkholderia phenoliruptrix Coenye et al., 2005 SPECIES
-=======
+# Burkholderia phenoliruptrix Coenye et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

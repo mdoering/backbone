@@ -1,5 +1,4 @@
-Gremmeniella juniperina K. Holm & L. Holm SPECIES
-=======
+# Gremmeniella juniperina K. Holm & L. Holm SPECIES
 
 #### Status
 ACCEPTED

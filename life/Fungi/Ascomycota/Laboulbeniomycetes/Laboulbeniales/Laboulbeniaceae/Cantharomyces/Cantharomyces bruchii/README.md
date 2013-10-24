@@ -1,5 +1,4 @@
-Cantharomyces bruchii Speg. SPECIES
-=======
+# Cantharomyces bruchii Speg. SPECIES
 
 #### Status
 ACCEPTED

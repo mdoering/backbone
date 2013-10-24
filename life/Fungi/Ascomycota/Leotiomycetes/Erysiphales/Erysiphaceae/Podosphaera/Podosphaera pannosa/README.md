@@ -1,17 +1,16 @@
-Sphaerotheca pannosa f. sp FORM
-=======
+# Podosphaera pannosa (Wallr.) de Bary, 1870 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Abh. senckenb. naturforsch. Ges. 3: 48 (1870)
 
 #### Original name
-Sphaerotheca pannosa f. sp
+Alphitomorpha pannosa Wallr., 1819
 
 ### Remarks
 null

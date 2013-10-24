@@ -1,5 +1,4 @@
-Meliola perexigua Gaillard SPECIES
-=======
+# Meliola perexigua Gaillard SPECIES
 
 #### Status
 ACCEPTED

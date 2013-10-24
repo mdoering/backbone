@@ -1,5 +1,4 @@
-Microglossum rufescens (Grelet) Bon SPECIES
-=======
+# Microglossum rufescens (Grelet) Bon SPECIES
 
 #### Status
 ACCEPTED

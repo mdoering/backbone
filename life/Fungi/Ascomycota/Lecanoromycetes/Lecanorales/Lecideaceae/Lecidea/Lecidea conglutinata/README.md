@@ -1,5 +1,4 @@
-Lecidea conglutinata H. Magn. SPECIES
-=======
+# Lecidea conglutinata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

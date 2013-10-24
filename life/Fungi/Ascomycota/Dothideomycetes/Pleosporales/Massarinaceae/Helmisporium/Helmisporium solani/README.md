@@ -1,5 +1,4 @@
-Helmisporium solani Brond. SPECIES
-=======
+# Helmisporium solani Brond. SPECIES
 
 #### Status
 ACCEPTED

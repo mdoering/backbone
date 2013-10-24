@@ -1,5 +1,4 @@
-Rhodobium marinum (Imhoff, 1984) Hiraishi et al., 1995 SPECIES
-=======
+# Rhodobium marinum (Imhoff, 1984) Hiraishi et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

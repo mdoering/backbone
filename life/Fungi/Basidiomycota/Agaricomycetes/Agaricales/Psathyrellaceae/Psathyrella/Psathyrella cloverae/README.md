@@ -1,5 +1,4 @@
-Psathyrella cloverae A.H. Sm. SPECIES
-=======
+# Psathyrella cloverae A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

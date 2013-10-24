@@ -1,5 +1,4 @@
-Pseudonodosaria discreta (Reuss, 1850) SPECIES
-=======
+# Pseudonodosaria discreta (Reuss, 1850) SPECIES
 
 #### Status
 ACCEPTED

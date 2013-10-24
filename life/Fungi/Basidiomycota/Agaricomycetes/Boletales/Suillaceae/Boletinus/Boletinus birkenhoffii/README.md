@@ -1,5 +1,4 @@
-Boletinus birkenhoffii Lebedeva SPECIES
-=======
+# Boletinus birkenhoffii Lebedeva SPECIES
 
 #### Status
 ACCEPTED

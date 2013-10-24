@@ -1,5 +1,4 @@
-Dactylospora arthrobotryina Hafellner SPECIES
-=======
+# Dactylospora arthrobotryina Hafellner SPECIES
 
 #### Status
 ACCEPTED

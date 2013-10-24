@@ -1,5 +1,4 @@
-Melanoleuca eduriformis Murrill SPECIES
-=======
+# Melanoleuca eduriformis Murrill SPECIES
 
 #### Status
 ACCEPTED

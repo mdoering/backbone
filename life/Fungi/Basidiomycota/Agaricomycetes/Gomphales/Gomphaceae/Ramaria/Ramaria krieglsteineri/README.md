@@ -1,5 +1,4 @@
-Ramaria krieglsteineri Schild SPECIES
-=======
+# Ramaria krieglsteineri Schild SPECIES
 
 #### Status
 ACCEPTED

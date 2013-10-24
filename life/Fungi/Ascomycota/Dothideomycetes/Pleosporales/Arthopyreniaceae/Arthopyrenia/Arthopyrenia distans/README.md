@@ -1,5 +1,4 @@
-Arthopyrenia distans (Willey) Zahlbr. SPECIES
-=======
+# Arthopyrenia distans (Willey) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

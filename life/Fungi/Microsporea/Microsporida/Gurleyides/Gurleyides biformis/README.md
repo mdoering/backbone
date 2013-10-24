@@ -1,5 +1,4 @@
-Gurleyides biformis Voronin SPECIES
-=======
+# Gurleyides biformis Voronin SPECIES
 
 #### Status
 ACCEPTED

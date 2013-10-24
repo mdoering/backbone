@@ -1,5 +1,4 @@
-Chaetoceros scolopendra Cleve SPECIES
-=======
+# Chaetoceros scolopendra Cleve SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyothyrium subcyaneum (Ellis & G. Martin) Theiss. SPECIES
-=======
+# Dictyothyrium subcyaneum (Ellis & G. Martin) Theiss. SPECIES
 
 #### Status
 ACCEPTED

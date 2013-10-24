@@ -1,5 +1,4 @@
-Porina thuretii (Hepp) Lettau SPECIES
-=======
+# Porina thuretii (Hepp) Lettau SPECIES
 
 #### Status
 ACCEPTED

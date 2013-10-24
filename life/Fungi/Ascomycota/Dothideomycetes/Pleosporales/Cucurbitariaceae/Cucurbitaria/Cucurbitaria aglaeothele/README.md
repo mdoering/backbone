@@ -1,5 +1,4 @@
-Cucurbitaria aglaeothele (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Cucurbitaria aglaeothele (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

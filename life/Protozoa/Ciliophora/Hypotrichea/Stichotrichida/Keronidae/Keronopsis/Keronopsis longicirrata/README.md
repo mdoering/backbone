@@ -1,5 +1,4 @@
-Keronopsis longicirrata SPECIES
-=======
+# Keronopsis longicirrata SPECIES
 
 #### Status
 ACCEPTED

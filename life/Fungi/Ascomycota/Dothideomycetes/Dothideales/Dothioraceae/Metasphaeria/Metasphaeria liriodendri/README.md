@@ -1,5 +1,4 @@
-Metasphaeria liriodendri Pass. SPECIES
-=======
+# Metasphaeria liriodendri Pass. SPECIES
 
 #### Status
 ACCEPTED

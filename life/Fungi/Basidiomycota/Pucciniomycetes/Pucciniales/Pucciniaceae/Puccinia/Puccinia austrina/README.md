@@ -1,5 +1,4 @@
-Puccinia austrina McKenzie, 2008 SPECIES
-=======
+# Puccinia austrina McKenzie, 2008 SPECIES
 
 #### Status
 ACCEPTED

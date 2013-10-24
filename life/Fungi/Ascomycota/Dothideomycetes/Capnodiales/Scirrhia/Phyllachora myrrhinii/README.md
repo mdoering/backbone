@@ -1,5 +1,4 @@
-Phyllachora myrrhinii Theiss., 1910 SPECIES
-=======
+# Phyllachora myrrhinii Theiss., 1910 SPECIES
 
 #### Status
 DOUBTFUL

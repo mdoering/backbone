@@ -1,5 +1,4 @@
-Lalaria confusa R.T. Moore SPECIES
-=======
+# Lalaria confusa R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

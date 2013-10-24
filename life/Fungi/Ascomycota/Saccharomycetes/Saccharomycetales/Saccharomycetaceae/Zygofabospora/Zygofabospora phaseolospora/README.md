@@ -1,5 +1,4 @@
-Zygofabospora phaseolospora (Shehata, Mrak & Phaff) G.I. Naumov SPECIES
-=======
+# Zygofabospora phaseolospora (Shehata, Mrak & Phaff) G.I. Naumov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Centrospora helminthosporioides Matsush. SPECIES
-=======
+# Centrospora helminthosporioides Matsush. SPECIES
 
 #### Status
 ACCEPTED

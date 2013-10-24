@@ -1,5 +1,4 @@
-Leptolyngbya valderiana (Gomont) Anagnostidis & Komárek, 1988 SPECIES
-=======
+# Leptolyngbya valderiana (Gomont) Anagnostidis & Komárek, 1988 SPECIES
 
 #### Status
 ACCEPTED

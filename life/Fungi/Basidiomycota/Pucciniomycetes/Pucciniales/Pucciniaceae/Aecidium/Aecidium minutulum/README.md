@@ -1,5 +1,4 @@
-Aecidium minutulum H.S. Jacks. ex Barthol. SPECIES
-=======
+# Aecidium minutulum H.S. Jacks. ex Barthol. SPECIES
 
 #### Status
 ACCEPTED

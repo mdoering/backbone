@@ -1,5 +1,4 @@
-Caloplaca thamnodes Poelt SPECIES
-=======
+# Caloplaca thamnodes Poelt SPECIES
 
 #### Status
 ACCEPTED

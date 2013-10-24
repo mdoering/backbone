@@ -1,5 +1,4 @@
-Jenmania osorioi Henssen SPECIES
-=======
+# Jenmania osorioi Henssen SPECIES
 
 #### Status
 ACCEPTED

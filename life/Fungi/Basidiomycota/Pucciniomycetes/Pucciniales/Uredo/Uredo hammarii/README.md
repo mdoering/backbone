@@ -1,8 +1,7 @@
-Uredo hammari Henn. SPECIES
-=======
+# Uredo hammarii Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Uredo hammari Henn.
+Uredo hammarii Henn.
 
 ### Remarks
 null

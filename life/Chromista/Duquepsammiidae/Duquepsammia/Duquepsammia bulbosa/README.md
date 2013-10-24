@@ -1,5 +1,4 @@
-Duquepsammia bulbosa (Cushman, 1911) SPECIES
-=======
+# Duquepsammia bulbosa (Cushman, 1911) SPECIES
 
 #### Status
 ACCEPTED

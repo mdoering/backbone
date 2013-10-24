@@ -1,5 +1,4 @@
-Bacidia plesia (C. Knight) Zahlbr. SPECIES
-=======
+# Bacidia plesia (C. Knight) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

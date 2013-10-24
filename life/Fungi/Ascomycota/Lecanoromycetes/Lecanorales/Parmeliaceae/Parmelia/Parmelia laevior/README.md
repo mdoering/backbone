@@ -1,17 +1,16 @@
-Parmelia laevior f. microphyllina Hue FORM
-=======
+# Parmelia laevior Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Parmelia laevior f. microphyllina Hue
+Parmelia laevior Nyl.
 
 ### Remarks
 null

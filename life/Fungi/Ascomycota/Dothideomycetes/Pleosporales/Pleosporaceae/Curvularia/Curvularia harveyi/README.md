@@ -1,5 +1,4 @@
-Curvularia harveyi Shipton, 1966 SPECIES
-=======
+# Curvularia harveyi Shipton, 1966 SPECIES
 
 #### Status
 ACCEPTED

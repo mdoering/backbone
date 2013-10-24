@@ -1,5 +1,4 @@
-Mycosphaerella ootheca (Sacc.) Magnus SPECIES
-=======
+# Mycosphaerella ootheca (Sacc.) Magnus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremella psoroglaenae Diederich SPECIES
-=======
+# Tremella psoroglaenae Diederich SPECIES
 
 #### Status
 ACCEPTED

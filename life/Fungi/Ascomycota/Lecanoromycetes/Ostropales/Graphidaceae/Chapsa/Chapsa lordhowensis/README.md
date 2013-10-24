@@ -1,5 +1,4 @@
-Chapsa lordhowensis Mangold SPECIES
-=======
+# Chapsa lordhowensis Mangold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placynthium luctuosum Hue SPECIES
-=======
+# Placynthium luctuosum Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ammonia aoteanus (Finlay, 1939) SPECIES
-=======
+# Ammonia aoteanus (Finlay, 1939) SPECIES
 
 #### Status
 ACCEPTED

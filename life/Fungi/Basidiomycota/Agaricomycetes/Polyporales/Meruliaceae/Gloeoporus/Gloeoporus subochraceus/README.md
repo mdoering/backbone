@@ -1,17 +1,16 @@
-Gloeoporus subochraceus var. subinteger Corner VARIETY
-=======
+# Gloeoporus subochraceus Corner, 1989 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Nova Hedwigia 96: 59 (1989)
+Beih. Nova Hedwigia 96: 57 (1989)
 
 #### Original name
-Gloeoporus subochraceus var. subinteger Corner
+Gloeoporus subochraceus Corner, 1989
 
 ### Remarks
 null

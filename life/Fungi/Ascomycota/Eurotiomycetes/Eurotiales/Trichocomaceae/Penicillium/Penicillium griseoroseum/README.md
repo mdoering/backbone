@@ -1,17 +1,16 @@
-Penicillium cyaneofulvum Biourge, 1923 SPECIES
-=======
+# Penicillium griseoroseum Dierckx, 1901 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-La Cellule 33(1): 267 (1923)
+Annals de la Soc. Scientifique Bruxelles 25: 89 (1901)
 
 #### Original name
-Penicillium cyaneofulvum Biourge, 1923
+Penicillium griseoroseum Dierckx, 1901
 
 ### Remarks
 null

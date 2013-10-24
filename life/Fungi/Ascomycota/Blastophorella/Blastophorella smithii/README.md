@@ -1,5 +1,4 @@
-Blastophorella smithii Boedijn, 1937 SPECIES
-=======
+# Blastophorella smithii Boedijn, 1937 SPECIES
 
 #### Status
 ACCEPTED

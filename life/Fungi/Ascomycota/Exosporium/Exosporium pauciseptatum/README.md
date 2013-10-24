@@ -1,5 +1,4 @@
-Exosporium pauciseptatum Glezer SPECIES
-=======
+# Exosporium pauciseptatum Glezer SPECIES
 
 #### Status
 ACCEPTED

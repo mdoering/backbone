@@ -1,5 +1,4 @@
-Bolbitius bruchii Speg. SPECIES
-=======
+# Bolbitius bruchii Speg. SPECIES
 
 #### Status
 ACCEPTED

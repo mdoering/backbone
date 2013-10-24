@@ -1,5 +1,4 @@
-Marasmius berkeleyi Sacc. & Cub. SPECIES
-=======
+# Marasmius berkeleyi Sacc. & Cub. SPECIES
 
 #### Status
 ACCEPTED

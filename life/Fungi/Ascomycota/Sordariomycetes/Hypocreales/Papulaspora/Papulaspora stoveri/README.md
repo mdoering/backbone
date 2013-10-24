@@ -1,5 +1,4 @@
-Papulaspora stoveri J.R. Warren SPECIES
-=======
+# Papulaspora stoveri J.R. Warren SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylon lobatum (Wormsk. ex Fr.) Sacc. SPECIES
-=======
+# Hypoxylon lobatum (Wormsk. ex Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

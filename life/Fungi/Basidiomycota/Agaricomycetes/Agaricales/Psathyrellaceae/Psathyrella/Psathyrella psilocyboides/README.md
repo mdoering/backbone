@@ -1,5 +1,4 @@
-Psathyrella psilocyboides A.H. Sm. SPECIES
-=======
+# Psathyrella psilocyboides A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

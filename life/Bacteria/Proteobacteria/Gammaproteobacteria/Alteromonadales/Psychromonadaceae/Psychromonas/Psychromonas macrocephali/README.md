@@ -1,5 +1,4 @@
-Psychromonas macrocephali Miyazaki, Nogi, Fujiwara & Horikoshi, 2008 SPECIES
-=======
+# Psychromonas macrocephali Miyazaki, Nogi, Fujiwara & Horikoshi, 2008 SPECIES
 
 #### Status
 ACCEPTED

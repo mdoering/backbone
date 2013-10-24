@@ -1,5 +1,4 @@
-Ocellularia melanophthalma Homchant. & Coppins SPECIES
-=======
+# Ocellularia melanophthalma Homchant. & Coppins SPECIES
 
 #### Status
 ACCEPTED

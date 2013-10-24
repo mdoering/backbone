@@ -1,5 +1,4 @@
-Septoria acanthina Sacc. & Magnus SPECIES
-=======
+# Septoria acanthina Sacc. & Magnus SPECIES
 
 #### Status
 ACCEPTED

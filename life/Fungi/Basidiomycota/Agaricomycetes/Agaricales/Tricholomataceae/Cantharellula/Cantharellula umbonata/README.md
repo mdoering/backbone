@@ -1,17 +1,16 @@
-Cantharellus umbonatus var. umbonatus (J.F. Gmel.) Pers. VARIETY
-=======
+# Cantharellula umbonata (J.F. Gmel.) Singer, 1936 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Neues Mag. Bot. 1: 106 (1794)
+Revue Mycol. , Paris 1: 281 (1936)
 
 #### Original name
-Cantharellus umbonatus var. umbonatus (J.F. Gmel.) Pers.
+Merulius umbonatus J.F. Gmel., 1792
 
 ### Remarks
 null

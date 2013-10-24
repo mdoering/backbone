@@ -1,5 +1,4 @@
-Graphina albotecta Redinger SPECIES
-=======
+# Graphina albotecta Redinger SPECIES
 
 #### Status
 ACCEPTED

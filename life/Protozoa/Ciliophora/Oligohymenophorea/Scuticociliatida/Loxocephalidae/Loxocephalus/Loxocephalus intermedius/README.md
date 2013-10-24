@@ -1,5 +1,4 @@
-Loxocephalus intermedius Kahl, 1928 SPECIES
-=======
+# Loxocephalus intermedius Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

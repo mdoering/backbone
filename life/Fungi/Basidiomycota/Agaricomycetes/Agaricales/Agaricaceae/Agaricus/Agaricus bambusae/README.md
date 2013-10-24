@@ -1,5 +1,4 @@
-Agaricus bambusae Beeli SPECIES
-=======
+# Agaricus bambusae Beeli SPECIES
 
 #### Status
 ACCEPTED

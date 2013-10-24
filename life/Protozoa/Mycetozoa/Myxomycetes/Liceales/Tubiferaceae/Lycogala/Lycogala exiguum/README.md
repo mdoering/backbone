@@ -1,17 +1,16 @@
-Lycogala epidendrum var. exigua Lister VARIETY
-=======
+# Lycogala exiguum Morgan, 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brotéria 7: 27 (1908)
+J. Cincinnati Soc. Nat. Hist. 15: 134 (1893)
 
 #### Original name
-Lycogala epidendrum var. exigua Lister
+Lycogala exiguum Morgan, 1893
 
 ### Remarks
 null

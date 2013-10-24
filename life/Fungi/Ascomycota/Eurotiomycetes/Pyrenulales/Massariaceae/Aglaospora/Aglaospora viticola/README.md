@@ -1,5 +1,4 @@
-Aglaospora viticola (Ellis & Everh.) Farl. SPECIES
-=======
+# Aglaospora viticola (Ellis & Everh.) Farl. SPECIES
 
 #### Status
 ACCEPTED

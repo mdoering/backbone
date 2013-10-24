@@ -1,17 +1,16 @@
-Coprinus cinereus var. cinereus VARIETY
-=======
+# Coprinopsis cinerea (Schaeff.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nat. Arr. Brit. Pl. (London) 1: 634 (1821)
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 227 (2001)
 
 #### Original name
-Coprinus cinereus var. cinereus
+Agaricus cinereus (Pers.) E.H.L. Krause, 1933
 
 ### Remarks
 null

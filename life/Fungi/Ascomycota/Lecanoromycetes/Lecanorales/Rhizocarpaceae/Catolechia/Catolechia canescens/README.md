@@ -1,5 +1,4 @@
-Catolechia canescens (Dicks.) Anzi SPECIES
-=======
+# Catolechia canescens (Dicks.) Anzi SPECIES
 
 #### Status
 ACCEPTED

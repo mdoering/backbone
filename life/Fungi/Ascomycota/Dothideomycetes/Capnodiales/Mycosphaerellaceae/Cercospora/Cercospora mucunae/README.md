@@ -1,5 +1,4 @@
-Cercospora mucunae Syd. & P. Syd. SPECIES
-=======
+# Cercospora mucunae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

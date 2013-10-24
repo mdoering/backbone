@@ -1,5 +1,4 @@
-Chrysochromulina cyathophora H.A. Thomsen, 1979 SPECIES
-=======
+# Chrysochromulina cyathophora H.A. Thomsen, 1979 SPECIES
 
 #### Status
 ACCEPTED

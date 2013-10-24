@@ -1,5 +1,4 @@
-Quasistaffella Solovieva, 1986 GENUS
-=======
+# Quasistaffella Solovieva, 1986 GENUS
 
 #### Status
 ACCEPTED

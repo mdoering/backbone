@@ -1,5 +1,4 @@
-Entopeltacites attenuatus Selkirk SPECIES
-=======
+# Entopeltacites attenuatus Selkirk SPECIES
 
 #### Status
 ACCEPTED

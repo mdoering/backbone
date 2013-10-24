@@ -1,5 +1,4 @@
-Polymeridium pleiomerellum (Müll. Arg.) R.C. Harris SPECIES
-=======
+# Polymeridium pleiomerellum (Müll. Arg.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

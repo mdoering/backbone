@@ -1,11 +1,10 @@
-Monilia A. Richard in Dumont d'Urville, 1832 GENUS
-=======
+# Hormosira (Endlichter) Meneghini, 1838 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

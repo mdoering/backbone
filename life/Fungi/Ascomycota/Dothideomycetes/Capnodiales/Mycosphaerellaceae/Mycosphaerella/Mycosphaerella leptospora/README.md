@@ -1,5 +1,4 @@
-Mycosphaerella leptospora (Sacc. & Scalia) Tomilin SPECIES
-=======
+# Mycosphaerella leptospora (Sacc. & Scalia) Tomilin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea roseotincta Coppins & Tønsberg SPECIES
-=======
+# Lecidea roseotincta Coppins & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora bidentis Tharp, 1917 SPECIES
-=======
+# Cercospora bidentis Tharp, 1917 SPECIES
 
 #### Status
 ACCEPTED

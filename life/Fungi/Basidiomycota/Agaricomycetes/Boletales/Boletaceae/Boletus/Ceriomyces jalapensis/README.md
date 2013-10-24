@@ -1,5 +1,4 @@
-Ceriomyces jalapensis Murrill SPECIES
-=======
+# Ceriomyces jalapensis Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Aecidium acteae Opiz SPECIES
-=======
+# Aecidium actaeae Opiz SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aecidium acteae Opiz
+Aecidium actaeae Opiz
 
 ### Remarks
 null

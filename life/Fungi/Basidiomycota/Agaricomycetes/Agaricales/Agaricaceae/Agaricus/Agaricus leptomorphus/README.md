@@ -1,5 +1,4 @@
-Agaricus leptomorphus Berk. SPECIES
-=======
+# Agaricus leptomorphus Berk. SPECIES
 
 #### Status
 ACCEPTED

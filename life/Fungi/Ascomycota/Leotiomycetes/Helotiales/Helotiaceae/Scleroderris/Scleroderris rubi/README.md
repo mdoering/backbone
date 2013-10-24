@@ -1,5 +1,4 @@
-Scleroderris rubi (Lib.) SPECIES
-=======
+# Scleroderris rubi (Lib.) SPECIES
 
 #### Status
 ACCEPTED

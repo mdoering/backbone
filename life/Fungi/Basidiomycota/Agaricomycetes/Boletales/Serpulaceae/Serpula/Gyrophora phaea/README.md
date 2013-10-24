@@ -1,5 +1,4 @@
-Gyrophora phaea (Tuck.) Nyl. SPECIES
-=======
+# Gyrophora phaea (Tuck.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

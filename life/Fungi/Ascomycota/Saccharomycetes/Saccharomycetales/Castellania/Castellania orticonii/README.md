@@ -1,5 +1,4 @@
-Castellania orticonii C.W. Dodge SPECIES
-=======
+# Castellania orticonii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

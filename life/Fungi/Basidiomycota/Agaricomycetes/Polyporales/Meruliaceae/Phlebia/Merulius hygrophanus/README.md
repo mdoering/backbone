@@ -1,14 +1,13 @@
-Merulius hygrophanes (C. Laest.) Kuntze SPECIES
-=======
+# Merulius hygrophanus (C. Laest.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 2: 862 (1891)
 
 #### Original name
 Cantharellus hygrophanus C. Laest.

@@ -1,5 +1,4 @@
-Amphidinium vasculum Kofoid & Swezy, 1921 SPECIES
-=======
+# Amphidinium vasculum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

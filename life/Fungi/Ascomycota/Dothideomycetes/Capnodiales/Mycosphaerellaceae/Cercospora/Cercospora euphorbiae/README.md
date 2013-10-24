@@ -1,5 +1,4 @@
-Cercospora euphorbiae Pat. SPECIES
-=======
+# Cercospora euphorbiae Pat. SPECIES
 
 #### Status
 ACCEPTED

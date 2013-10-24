@@ -1,5 +1,4 @@
-Russuliopsis thymiphila Velen. SPECIES
-=======
+# Russuliopsis thymiphila Velen. SPECIES
 
 #### Status
 ACCEPTED

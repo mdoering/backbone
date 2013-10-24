@@ -1,5 +1,4 @@
-Psoroma leprolomum SPECIES
-=======
+# Psoroma leprolomum SPECIES
 
 #### Status
 ACCEPTED

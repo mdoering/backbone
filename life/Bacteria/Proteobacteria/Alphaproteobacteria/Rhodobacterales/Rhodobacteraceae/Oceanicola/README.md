@@ -1,5 +1,4 @@
-Oceanicola Cho & Giovannoni, 2004 GENUS
-=======
+# Oceanicola Cho & Giovannoni, 2004 GENUS
 
 #### Status
 ACCEPTED

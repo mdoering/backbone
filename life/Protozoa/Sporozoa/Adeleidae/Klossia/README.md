@@ -1,5 +1,4 @@
-Klossia Schneider, 1875 GENUS
-=======
+# Klossia Schneider, 1875 GENUS
 
 #### Status
 ACCEPTED

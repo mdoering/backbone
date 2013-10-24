@@ -1,5 +1,4 @@
-Achroomyces chlamydospora P. Roberts SPECIES
-=======
+# Achroomyces chlamydospora P. Roberts SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhytisma milleri Ettingsh. SPECIES
-=======
+# Rhytisma milleri Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

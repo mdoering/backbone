@@ -1,5 +1,4 @@
-Lamproderma nordica Kuhnt, 2011 SPECIES
-=======
+# Lamproderma nordica Kuhnt, 2011 SPECIES
 
 #### Status
 ACCEPTED

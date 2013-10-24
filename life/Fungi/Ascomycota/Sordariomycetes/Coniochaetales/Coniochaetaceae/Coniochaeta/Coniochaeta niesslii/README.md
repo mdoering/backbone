@@ -1,5 +1,4 @@
-Coniochaeta niesslii (Auersw.) Cooke SPECIES
-=======
+# Coniochaeta niesslii (Auersw.) Cooke SPECIES
 
 #### Status
 ACCEPTED

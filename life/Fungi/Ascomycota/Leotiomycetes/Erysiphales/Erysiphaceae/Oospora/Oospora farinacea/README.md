@@ -1,5 +1,4 @@
-Oospora farinacea (Preuss) Sacc. & Voglino SPECIES
-=======
+# Oospora farinacea (Preuss) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

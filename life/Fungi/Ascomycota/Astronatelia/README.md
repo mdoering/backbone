@@ -1,5 +1,4 @@
-Astronatelia Bat. & H. Maia GENUS
-=======
+# Astronatelia Bat. & H. Maia GENUS
 
 #### Status
 ACCEPTED

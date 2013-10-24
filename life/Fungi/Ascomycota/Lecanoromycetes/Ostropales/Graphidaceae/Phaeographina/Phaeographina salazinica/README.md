@@ -1,5 +1,4 @@
-Phaeographina salazinica A.W. Archer SPECIES
-=======
+# Phaeographina salazinica A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

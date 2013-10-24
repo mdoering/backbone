@@ -1,14 +1,13 @@
-Lagenidium cyclotellae Scherff., 1925 SPECIES
-=======
+# Ectrogella cyclotellae (Scherff.) M.W. Dick, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Arch. Protistenk. 52: 18 (1925)
+Straminipilous Fungi (Dordrecht) 397 (2001)
 
 #### Original name
 Lagenidium cyclotellae Scherff., 1925

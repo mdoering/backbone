@@ -1,5 +1,4 @@
-Pluteus fayodii Damblon, Darimont & Lambinon SPECIES
-=======
+# Pluteus fayodii Damblon, Darimont & Lambinon SPECIES
 
 #### Status
 ACCEPTED

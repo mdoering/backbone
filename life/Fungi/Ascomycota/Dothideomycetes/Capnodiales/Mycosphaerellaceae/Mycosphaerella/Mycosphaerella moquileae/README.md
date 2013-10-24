@@ -1,5 +1,4 @@
-Mycosphaerella moquileae Bat., 1956 SPECIES
-=======
+# Mycosphaerella moquileae Bat., 1956 SPECIES
 
 #### Status
 ACCEPTED

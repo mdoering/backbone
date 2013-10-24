@@ -1,14 +1,13 @@
-Schizoplasmodium ovatum L.S. Olive & Stoian., 1966 SPECIES
-=======
+# Nematostelium ovatum (L.S. Olive & Stoian.) L.S. Olive & Stoian., 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Protozool. 13: 164 (1966)
+in Olive, Bot. Rev. 36: 68 (1970)
 
 #### Original name
 Schizoplasmodium ovatum L.S. Olive & Stoian., 1966

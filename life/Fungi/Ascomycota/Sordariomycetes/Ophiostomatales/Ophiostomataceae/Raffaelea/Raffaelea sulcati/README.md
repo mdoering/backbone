@@ -1,5 +1,4 @@
-Raffaelea sulcati A. Funk, 1970 SPECIES
-=======
+# Raffaelea sulcati A. Funk, 1970 SPECIES
 
 #### Status
 ACCEPTED

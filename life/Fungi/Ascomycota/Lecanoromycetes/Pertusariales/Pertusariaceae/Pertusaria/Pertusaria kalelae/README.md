@@ -1,5 +1,4 @@
-Pertusaria kalelae Messuti SPECIES
-=======
+# Pertusaria kalelae Messuti SPECIES
 
 #### Status
 ACCEPTED

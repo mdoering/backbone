@@ -1,5 +1,4 @@
-Lecanographa unghvariensis (Szatala) Egea & Torrente SPECIES
-=======
+# Lecanographa unghvariensis (Szatala) Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

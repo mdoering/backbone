@@ -1,8 +1,7 @@
-Lyngbya ceylanica Wille SPECIES
-=======
+# Porphyrosiphon ceylanicus (Wille) Anagnostidis & Komárek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

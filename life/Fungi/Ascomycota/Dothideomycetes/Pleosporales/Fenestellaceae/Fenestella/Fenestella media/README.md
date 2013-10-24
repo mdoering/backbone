@@ -1,5 +1,4 @@
-Fenestella media Tul. SPECIES
-=======
+# Fenestella media Tul. SPECIES
 
 #### Status
 ACCEPTED

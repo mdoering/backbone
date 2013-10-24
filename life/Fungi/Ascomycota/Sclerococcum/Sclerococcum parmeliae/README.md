@@ -1,5 +1,4 @@
-Sclerococcum parmeliae Etayo & Diederich SPECIES
-=======
+# Sclerococcum parmeliae Etayo & Diederich SPECIES
 
 #### Status
 ACCEPTED

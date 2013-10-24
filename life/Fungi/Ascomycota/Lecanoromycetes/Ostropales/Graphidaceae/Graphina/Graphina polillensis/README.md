@@ -1,5 +1,4 @@
-Graphina polillensis (Vain.) Zahlbr. SPECIES
-=======
+# Graphina polillensis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

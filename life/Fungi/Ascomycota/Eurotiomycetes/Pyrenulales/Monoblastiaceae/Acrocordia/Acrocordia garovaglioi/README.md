@@ -1,17 +1,16 @@
-Acrocordia garovagli A. Massal. SPECIES
-=======
+# Acrocordia garovaglioi A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Geneac. Lich. 17 (1854)
 
 #### Original name
-Acrocordia garovagli A. Massal.
+Acrocordia garovaglioi A. Massal.
 
 ### Remarks
 null

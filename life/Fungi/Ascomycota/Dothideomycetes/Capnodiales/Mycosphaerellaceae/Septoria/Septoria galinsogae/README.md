@@ -1,5 +1,4 @@
-Septoria galinsogae Speg. SPECIES
-=======
+# Septoria galinsogae Speg. SPECIES
 
 #### Status
 ACCEPTED

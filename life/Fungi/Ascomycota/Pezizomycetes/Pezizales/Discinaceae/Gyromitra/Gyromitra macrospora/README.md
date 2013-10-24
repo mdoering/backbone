@@ -1,5 +1,4 @@
-Gyromitra macrospora (Bubák) Harmaja SPECIES
-=======
+# Gyromitra macrospora (Bubák) Harmaja SPECIES
 
 #### Status
 ACCEPTED

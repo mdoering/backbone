@@ -1,5 +1,4 @@
-Phillipsia hartmannii (W. Phillips) Rifai SPECIES
-=======
+# Phillipsia hartmannii (W. Phillips) Rifai SPECIES
 
 #### Status
 ACCEPTED

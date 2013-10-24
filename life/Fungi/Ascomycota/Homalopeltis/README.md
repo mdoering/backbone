@@ -1,5 +1,4 @@
-Homalopeltis Bat. & Valle GENUS
-=======
+# Homalopeltis Bat. & Valle GENUS
 
 #### Status
 ACCEPTED

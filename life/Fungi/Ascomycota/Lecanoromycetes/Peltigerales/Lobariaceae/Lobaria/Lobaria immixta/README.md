@@ -1,5 +1,4 @@
-Lobaria immixta Vain. SPECIES
-=======
+# Lobaria immixta Vain. SPECIES
 
 #### Status
 ACCEPTED

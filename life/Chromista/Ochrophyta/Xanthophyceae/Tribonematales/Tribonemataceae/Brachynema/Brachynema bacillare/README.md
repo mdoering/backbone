@@ -1,5 +1,4 @@
-Brachynema bacillare SPECIES
-=======
+# Brachynema bacillare SPECIES
 
 #### Status
 ACCEPTED

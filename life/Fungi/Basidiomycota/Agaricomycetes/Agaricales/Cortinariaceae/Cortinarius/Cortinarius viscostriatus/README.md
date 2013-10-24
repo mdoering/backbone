@@ -1,5 +1,4 @@
-Cortinarius viscostriatus E. Horak, 1990 SPECIES
-=======
+# Cortinarius viscostriatus E. Horak, 1990 SPECIES
 
 #### Status
 ACCEPTED

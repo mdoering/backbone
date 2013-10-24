@@ -1,5 +1,4 @@
-Scolecopeltidium eugeniae (Doidge) Bat. SPECIES
-=======
+# Scolecopeltidium eugeniae (Doidge) Bat. SPECIES
 
 #### Status
 ACCEPTED

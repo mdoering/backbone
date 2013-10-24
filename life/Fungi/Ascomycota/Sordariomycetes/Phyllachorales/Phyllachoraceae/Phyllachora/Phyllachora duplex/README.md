@@ -1,17 +1,16 @@
-Catacauma serjaniae (Speg.) Chardón, 1932 SPECIES
-=======
+# Phyllachora duplex Rehm, 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Dept. Agric. Porto Rico 16: 170 (1932)
+Annls mycol. 7(5): 538 (1909)
 
 #### Original name
-Phyllachora serjaniae (Rehm) Petr., 1934
+Phyllachora duplex Rehm, 1909
 
 ### Remarks
 null

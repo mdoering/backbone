@@ -1,5 +1,4 @@
-Laboulbenia philippina Thaxt. SPECIES
-=======
+# Laboulbenia philippina Thaxt. SPECIES
 
 #### Status
 ACCEPTED

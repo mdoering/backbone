@@ -1,5 +1,4 @@
-Ramaria mediterranea Schild & Franchi, 1998 SPECIES
-=======
+# Ramaria mediterranea Schild & Franchi, 1998 SPECIES
 
 #### Status
 ACCEPTED

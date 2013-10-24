@@ -1,5 +1,4 @@
-Dothideovalsa Speg. GENUS
-=======
+# Dothideovalsa Speg. GENUS
 
 #### Status
 ACCEPTED

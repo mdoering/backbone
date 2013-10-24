@@ -1,5 +1,4 @@
-Bionectria pityrodes Schroers SPECIES
-=======
+# Bionectria pityrodes Schroers SPECIES
 
 #### Status
 ACCEPTED

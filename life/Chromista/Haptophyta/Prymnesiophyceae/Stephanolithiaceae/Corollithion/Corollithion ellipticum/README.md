@@ -1,5 +1,4 @@
-Corollithion ellipticum SPECIES
-=======
+# Corollithion ellipticum SPECIES
 
 #### Status
 ACCEPTED

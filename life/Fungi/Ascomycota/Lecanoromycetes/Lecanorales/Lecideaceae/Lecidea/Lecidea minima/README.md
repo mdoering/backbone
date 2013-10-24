@@ -1,5 +1,4 @@
-Lecidea minima Delise SPECIES
-=======
+# Lecidea minima Delise SPECIES
 
 #### Status
 ACCEPTED

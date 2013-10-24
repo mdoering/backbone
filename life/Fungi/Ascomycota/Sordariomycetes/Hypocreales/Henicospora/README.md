@@ -1,5 +1,4 @@
-Henicospora P.M. Kirk & B. Sutton GENUS
-=======
+# Henicospora P.M. Kirk & B. Sutton GENUS
 
 #### Status
 ACCEPTED

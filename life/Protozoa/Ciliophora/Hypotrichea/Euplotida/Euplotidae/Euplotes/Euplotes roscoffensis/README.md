@@ -1,5 +1,4 @@
-Euplotes roscoffensis Dragesco, 1966 SPECIES
-=======
+# Euplotes roscoffensis Dragesco, 1966 SPECIES
 
 #### Status
 ACCEPTED

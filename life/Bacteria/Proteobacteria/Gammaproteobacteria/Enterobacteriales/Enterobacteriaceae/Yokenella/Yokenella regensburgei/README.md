@@ -1,5 +1,4 @@
-Yokenella regensburgei Kosako et al., 1985 SPECIES
-=======
+# Yokenella regensburgei Kosako et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

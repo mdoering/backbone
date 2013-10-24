@@ -1,5 +1,4 @@
-Goplana Raciborski, 1900 GENUS
-=======
+# Goplana Raciborski, 1900 GENUS
 
 #### Status
 ACCEPTED

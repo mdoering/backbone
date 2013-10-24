@@ -1,5 +1,4 @@
-Phyllosticta azadii Jamaluddin, M.P. Tandon & Tandon SPECIES
-=======
+# Phyllosticta azadii Jamaluddin, M.P. Tandon & Tandon SPECIES
 
 #### Status
 ACCEPTED

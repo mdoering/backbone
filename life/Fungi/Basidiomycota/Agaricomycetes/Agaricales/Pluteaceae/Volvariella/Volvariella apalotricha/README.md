@@ -1,5 +1,4 @@
-Volvariella apalotricha (Berk. & Broome) Pegler SPECIES
-=======
+# Volvariella apalotricha (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora trichiliae (U. Braun) U. Braun SPECIES
-=======
+# Pseudocercospora trichiliae (U. Braun) U. Braun SPECIES
 
 #### Status
 ACCEPTED

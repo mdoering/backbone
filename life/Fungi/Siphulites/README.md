@@ -1,5 +1,4 @@
-Siphulites GENUS
-=======
+# Siphulites GENUS
 
 #### Status
 ACCEPTED

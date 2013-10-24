@@ -1,5 +1,4 @@
-Bunodophoron microsporum (Ohlsson) Wedin SPECIES
-=======
+# Bunodophoron microsporum (Ohlsson) Wedin SPECIES
 
 #### Status
 ACCEPTED

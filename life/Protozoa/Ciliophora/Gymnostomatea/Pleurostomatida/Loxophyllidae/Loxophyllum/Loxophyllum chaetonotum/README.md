@@ -1,5 +1,4 @@
-Loxophyllum chaetonotum Borror, 1965 SPECIES
-=======
+# Loxophyllum chaetonotum Borror, 1965 SPECIES
 
 #### Status
 ACCEPTED

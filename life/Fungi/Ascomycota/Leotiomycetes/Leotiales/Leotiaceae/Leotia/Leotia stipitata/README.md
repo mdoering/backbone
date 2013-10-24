@@ -1,5 +1,4 @@
-Leotia stipitata (Bosc.) J. Schröt. SPECIES
-=======
+# Leotia stipitata (Bosc.) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

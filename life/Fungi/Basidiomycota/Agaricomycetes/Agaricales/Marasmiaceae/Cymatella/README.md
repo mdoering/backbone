@@ -1,5 +1,4 @@
-Cymatella Patouillard, 1899 GENUS
-=======
+# Cymatella Patouillard, 1899 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria parabolica Tode SPECIES
-=======
+# Sphaeria parabolica Tode SPECIES
 
 #### Status
 ACCEPTED

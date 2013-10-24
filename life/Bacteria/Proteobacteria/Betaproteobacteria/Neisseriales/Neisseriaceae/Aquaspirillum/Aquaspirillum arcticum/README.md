@@ -1,5 +1,4 @@
-Aquaspirillum arcticum Butler et al., 1990 SPECIES
-=======
+# Aquaspirillum arcticum Butler et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

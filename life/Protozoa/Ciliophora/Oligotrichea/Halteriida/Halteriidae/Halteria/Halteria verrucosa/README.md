@@ -1,5 +1,4 @@
-Halteria verrucosa Fromentel, 1876 SPECIES
-=======
+# Halteria verrucosa Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

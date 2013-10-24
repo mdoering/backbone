@@ -1,5 +1,4 @@
-Puccinia aggregata Syd. SPECIES
-=======
+# Puccinia aggregata Syd. SPECIES
 
 #### Status
 ACCEPTED

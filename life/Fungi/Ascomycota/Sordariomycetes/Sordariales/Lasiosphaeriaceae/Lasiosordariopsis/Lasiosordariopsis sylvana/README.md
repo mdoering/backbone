@@ -1,5 +1,4 @@
-Lasiosordariopsis sylvana (Sacc.) Chenant. SPECIES
-=======
+# Lasiosordariopsis sylvana (Sacc.) Chenant. SPECIES
 
 #### Status
 ACCEPTED

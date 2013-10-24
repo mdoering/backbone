@@ -1,5 +1,4 @@
-Balantidium granulosus Gauthier, 1920 SPECIES
-=======
+# Balantidium granulosus Gauthier, 1920 SPECIES
 
 #### Status
 ACCEPTED

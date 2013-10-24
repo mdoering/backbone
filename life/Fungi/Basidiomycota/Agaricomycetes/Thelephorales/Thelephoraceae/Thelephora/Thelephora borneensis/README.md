@@ -1,5 +1,4 @@
-Thelephora borneensis Corner, 1976 SPECIES
-=======
+# Thelephora borneensis Corner, 1976 SPECIES
 
 #### Status
 ACCEPTED

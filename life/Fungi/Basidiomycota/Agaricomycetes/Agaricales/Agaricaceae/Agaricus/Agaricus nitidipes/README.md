@@ -1,5 +1,4 @@
-Agaricus nitidipes Peck SPECIES
-=======
+# Agaricus nitidipes Peck SPECIES
 
 #### Status
 ACCEPTED

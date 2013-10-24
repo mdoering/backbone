@@ -1,5 +1,4 @@
-Alternaria dioscoreae V.G. Rao SPECIES
-=======
+# Alternaria dioscoreae V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

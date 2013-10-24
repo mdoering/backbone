@@ -1,5 +1,4 @@
-Penicillium repens (Bainier) Biourge SPECIES
-=======
+# Penicillium repens (Bainier) Biourge SPECIES
 
 #### Status
 ACCEPTED

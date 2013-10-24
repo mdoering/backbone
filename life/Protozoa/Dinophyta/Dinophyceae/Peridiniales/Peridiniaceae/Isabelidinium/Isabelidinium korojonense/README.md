@@ -1,5 +1,4 @@
-Isabelidinium korojonense (Cookson & Eisenack, 1958) Lentin & Williams, 1977 SPECIES
-=======
+# Isabelidinium korojonense (Cookson & Eisenack, 1958) Lentin & Williams, 1977 SPECIES
 
 #### Status
 ACCEPTED

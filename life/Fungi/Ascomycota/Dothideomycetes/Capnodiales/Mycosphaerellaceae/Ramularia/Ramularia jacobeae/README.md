@@ -1,5 +1,4 @@
-Ramularia jacobeae Ranoj. SPECIES
-=======
+# Ramularia jacobeae Ranoj. SPECIES
 
 #### Status
 ACCEPTED

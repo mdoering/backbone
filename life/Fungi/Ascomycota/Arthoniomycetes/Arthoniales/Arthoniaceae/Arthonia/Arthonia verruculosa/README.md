@@ -1,5 +1,4 @@
-Arthonia verruculosa C. Knight SPECIES
-=======
+# Arthonia verruculosa C. Knight SPECIES
 
 #### Status
 ACCEPTED

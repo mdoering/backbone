@@ -1,8 +1,7 @@
-Anictostoma grelli Foissner, 1993 SPECIES
-=======
+# Corallocolpoda grelli (Foissner, 1993) Foissner, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

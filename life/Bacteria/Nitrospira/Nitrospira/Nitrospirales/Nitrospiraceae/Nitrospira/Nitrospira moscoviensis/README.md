@@ -1,5 +1,4 @@
-Nitrospira moscoviensis Ehrich et al., 2001 SPECIES
-=======
+# Nitrospira moscoviensis Ehrich et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Venturia oxydendri F.A. Wolf SPECIES
-=======
+# Venturia oxydendri F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

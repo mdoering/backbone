@@ -1,5 +1,4 @@
-Cystodinium acerosum R. H. Thompson SPECIES
-=======
+# Cystodinium acerosum R. H. Thompson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Enterococcus canis De Graef et al., 2003 SPECIES
-=======
+# Enterococcus canis De Graef et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

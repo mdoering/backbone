@@ -1,5 +1,4 @@
-Cercospora zeyherifolii Bat. & Peres SPECIES
-=======
+# Cercospora zeyherifolii Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

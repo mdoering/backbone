@@ -1,5 +1,4 @@
-Chanterel GENUS
-=======
+# Chanterel GENUS
 
 #### Status
 ACCEPTED

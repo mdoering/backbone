@@ -1,5 +1,4 @@
-Cercospora schini Syd. & P. Syd. SPECIES
-=======
+# Cercospora schini Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

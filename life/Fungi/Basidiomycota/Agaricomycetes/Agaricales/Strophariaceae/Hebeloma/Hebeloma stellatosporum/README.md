@@ -1,5 +1,4 @@
-Hebeloma stellatosporum Peck SPECIES
-=======
+# Hebeloma stellatosporum Peck SPECIES
 
 #### Status
 ACCEPTED

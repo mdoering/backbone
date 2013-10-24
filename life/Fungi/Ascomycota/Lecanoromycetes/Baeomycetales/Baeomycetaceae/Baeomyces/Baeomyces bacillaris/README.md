@@ -1,5 +1,4 @@
-Baeomyces bacillaris Ach. SPECIES
-=======
+# Baeomyces bacillaris Ach. SPECIES
 
 #### Status
 ACCEPTED

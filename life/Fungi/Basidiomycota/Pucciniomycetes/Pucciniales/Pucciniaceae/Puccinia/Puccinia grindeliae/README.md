@@ -1,5 +1,4 @@
-Puccinia grindeliae Peck SPECIES
-=======
+# Puccinia grindeliae Peck SPECIES
 
 #### Status
 ACCEPTED

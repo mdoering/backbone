@@ -1,5 +1,4 @@
-Granulicoccus Maszenan et al., 2007 GENUS
-=======
+# Granulicoccus Maszenan et al., 2007 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta hieracii Allesch. SPECIES
-=======
+# Phyllosticta hieracii Allesch. SPECIES
 
 #### Status
 ACCEPTED

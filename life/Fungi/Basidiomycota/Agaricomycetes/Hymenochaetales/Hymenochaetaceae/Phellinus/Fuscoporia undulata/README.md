@@ -1,5 +1,4 @@
-Fuscoporia undulata (Murrill) Bondartseva & S. Herrera SPECIES
-=======
+# Fuscoporia undulata (Murrill) Bondartseva & S. Herrera SPECIES
 
 #### Status
 ACCEPTED

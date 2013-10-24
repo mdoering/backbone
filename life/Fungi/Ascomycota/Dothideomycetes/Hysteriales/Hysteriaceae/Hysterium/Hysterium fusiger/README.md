@@ -1,5 +1,4 @@
-Hysterium fusiger Berk. & M.A. Curtis SPECIES
-=======
+# Hysterium fusiger Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

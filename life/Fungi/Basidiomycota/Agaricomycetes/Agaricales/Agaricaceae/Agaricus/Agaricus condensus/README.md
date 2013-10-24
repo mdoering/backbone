@@ -1,5 +1,4 @@
-Agaricus condensus Berk. SPECIES
-=======
+# Agaricus condensus Berk. SPECIES
 
 #### Status
 ACCEPTED

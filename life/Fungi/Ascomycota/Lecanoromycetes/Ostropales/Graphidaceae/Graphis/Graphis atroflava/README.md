@@ -1,5 +1,4 @@
-Graphis atroflava Fée SPECIES
-=======
+# Graphis atroflava Fée SPECIES
 
 #### Status
 ACCEPTED

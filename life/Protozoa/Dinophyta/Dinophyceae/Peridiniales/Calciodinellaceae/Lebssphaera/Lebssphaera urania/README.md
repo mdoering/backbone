@@ -1,5 +1,4 @@
-Lebssphaera urania Meier, Janofske & Willems, 2002 SPECIES
-=======
+# Lebssphaera urania Meier, Janofske & Willems, 2002 SPECIES
 
 #### Status
 ACCEPTED

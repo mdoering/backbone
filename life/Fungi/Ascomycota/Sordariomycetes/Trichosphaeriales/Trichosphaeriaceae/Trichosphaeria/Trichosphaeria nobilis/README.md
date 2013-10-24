@@ -1,5 +1,4 @@
-Trichosphaeria nobilis Sacc. & Speg. SPECIES
-=======
+# Trichosphaeria nobilis Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

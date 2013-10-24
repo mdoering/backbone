@@ -1,5 +1,4 @@
-Ceratium strictum (Kofoid) E.G.Jørgensen SPECIES
-=======
+# Ceratium strictum (Kofoid) E.G.Jørgensen SPECIES
 
 #### Status
 ACCEPTED

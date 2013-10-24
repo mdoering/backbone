@@ -1,5 +1,4 @@
-Ramalina pachyphloea J. Steiner SPECIES
-=======
+# Ramalina pachyphloea J. Steiner SPECIES
 
 #### Status
 ACCEPTED

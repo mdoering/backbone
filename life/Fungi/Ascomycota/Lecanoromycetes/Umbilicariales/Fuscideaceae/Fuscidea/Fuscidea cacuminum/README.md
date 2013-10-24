@@ -1,5 +1,4 @@
-Fuscidea cacuminum (Vain.) Mas. Inoue SPECIES
-=======
+# Fuscidea cacuminum (Vain.) Mas. Inoue SPECIES
 
 #### Status
 ACCEPTED

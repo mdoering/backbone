@@ -1,5 +1,4 @@
-Venturia sterilis Speg. SPECIES
-=======
+# Venturia sterilis Speg. SPECIES
 
 #### Status
 ACCEPTED

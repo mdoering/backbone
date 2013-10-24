@@ -1,5 +1,4 @@
-Neuropogon trachycarpus f. trachycarpus FORM
-=======
+# Usnea trachycarpa (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Scott. Natural. 6: 105 (1881)
+Nuovo Giorn. Bot. Ital. 21: 37 (1889)
 
 #### Original name
-Neuropogon trachycarpus f. trachycarpus
+Neuropogon trachycarpus Stirt.
 
 ### Remarks
 null

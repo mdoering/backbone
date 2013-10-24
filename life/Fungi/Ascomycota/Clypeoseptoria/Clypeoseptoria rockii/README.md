@@ -1,5 +1,4 @@
-Clypeoseptoria rockii F. Stevens & P.A. Young, 1925 SPECIES
-=======
+# Clypeoseptoria rockii F. Stevens & P.A. Young, 1925 SPECIES
 
 #### Status
 ACCEPTED

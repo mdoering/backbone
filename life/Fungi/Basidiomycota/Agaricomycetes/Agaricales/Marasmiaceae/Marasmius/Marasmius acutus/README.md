@@ -1,5 +1,4 @@
-Marasmius acutus Corner SPECIES
-=======
+# Marasmius acutus Corner SPECIES
 
 #### Status
 ACCEPTED

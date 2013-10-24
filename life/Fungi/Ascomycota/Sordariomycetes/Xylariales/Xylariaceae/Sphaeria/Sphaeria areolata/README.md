@@ -1,5 +1,4 @@
-Sphaeria areolata Fresen. SPECIES
-=======
+# Sphaeria areolata Fresen. SPECIES
 
 #### Status
 ACCEPTED

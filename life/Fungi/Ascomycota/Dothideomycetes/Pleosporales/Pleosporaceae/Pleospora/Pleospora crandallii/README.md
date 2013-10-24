@@ -1,5 +1,4 @@
-Pleospora crandallii Ellis & Everh. SPECIES
-=======
+# Pleospora crandallii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

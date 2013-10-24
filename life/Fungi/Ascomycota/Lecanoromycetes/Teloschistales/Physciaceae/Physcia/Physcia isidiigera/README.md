@@ -1,5 +1,4 @@
-Physcia isidiigera (Zahlbr.) Fink SPECIES
-=======
+# Physcia isidiigera (Zahlbr.) Fink SPECIES
 
 #### Status
 ACCEPTED

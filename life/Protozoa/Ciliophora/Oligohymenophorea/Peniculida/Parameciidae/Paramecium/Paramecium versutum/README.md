@@ -1,5 +1,4 @@
-Paramecium versutum subsp. versutum SUBSPECIES
-=======
+# Paramecium versutum Perty, 1852 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Massaria magnoliae Ellis & Everh. SPECIES
-=======
+# Massaria magnoliae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

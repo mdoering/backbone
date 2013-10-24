@@ -1,5 +1,4 @@
-Eurotium theodes Kuntze SPECIES
-=======
+# Eurotium theodes Kuntze SPECIES
 
 #### Status
 ACCEPTED

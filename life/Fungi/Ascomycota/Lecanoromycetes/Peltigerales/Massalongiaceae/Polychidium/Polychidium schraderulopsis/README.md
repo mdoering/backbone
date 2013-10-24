@@ -1,5 +1,4 @@
-Polychidium schraderulopsis Wedd. SPECIES
-=======
+# Polychidium schraderulopsis Wedd. SPECIES
 
 #### Status
 ACCEPTED

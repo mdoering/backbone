@@ -1,5 +1,4 @@
-Lecanora placodiiformis (Nyl.) Stizenb. SPECIES
-=======
+# Lecanora placodiiformis (Nyl.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

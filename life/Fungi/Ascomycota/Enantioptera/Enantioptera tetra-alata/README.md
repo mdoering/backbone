@@ -1,5 +1,4 @@
-Enantioptera tetra-alata Descals, 1983 SPECIES
-=======
+# Enantioptera tetra-alata Descals, 1983 SPECIES
 
 #### Status
 ACCEPTED

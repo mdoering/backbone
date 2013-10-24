@@ -1,5 +1,4 @@
-Physalospora friesii Keissl. SPECIES
-=======
+# Physalospora friesii Keissl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina rubrosphaera R. Sant. SPECIES
-=======
+# Porina rubrosphaera R. Sant. SPECIES
 
 #### Status
 ACCEPTED

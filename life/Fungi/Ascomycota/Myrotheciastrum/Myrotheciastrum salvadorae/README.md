@@ -1,5 +1,4 @@
-Myrotheciastrum salvadorae Abbas & B. Sutton, 1988 SPECIES
-=======
+# Myrotheciastrum salvadorae Abbas & B. Sutton, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria brunaudiana Sacc. SPECIES
-=======
+# Septoria brunaudiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Seimatosporium azaleae Okane, Nakagiri & Tad. Ito SPECIES
-=======
+# Seimatosporium azaleae Okane, Nakagiri & Tad. Ito SPECIES
 
 #### Status
 ACCEPTED

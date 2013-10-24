@@ -1,5 +1,4 @@
-Pertusaria velatula Vain. SPECIES
-=======
+# Pertusaria velatula Vain. SPECIES
 
 #### Status
 ACCEPTED

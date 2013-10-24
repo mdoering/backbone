@@ -1,5 +1,4 @@
-Ramalina huei Harm. SPECIES
-=======
+# Ramalina huei Harm. SPECIES
 
 #### Status
 ACCEPTED

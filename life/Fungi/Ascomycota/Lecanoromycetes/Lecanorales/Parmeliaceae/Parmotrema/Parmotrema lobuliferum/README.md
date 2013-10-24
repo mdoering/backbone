@@ -1,5 +1,4 @@
-Parmotrema lobuliferum (C. H. Ribeiro & Marcelli) O. Blanco, A. Crespo, Divakar, Elix & Lumbsch SPECIES
-=======
+# Parmotrema lobuliferum (C. H. Ribeiro & Marcelli) O. Blanco, A. Crespo, Divakar, Elix & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

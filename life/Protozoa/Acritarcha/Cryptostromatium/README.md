@@ -1,5 +1,4 @@
-Cryptostromatium Moreau-Benoît, 1974 GENUS
-=======
+# Cryptostromatium Moreau-Benoît, 1974 GENUS
 
 #### Status
 ACCEPTED

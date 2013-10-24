@@ -1,5 +1,4 @@
-Mycoporum integrum Vain. SPECIES
-=======
+# Mycoporum integrum Vain. SPECIES
 
 #### Status
 ACCEPTED

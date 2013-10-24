@@ -1,5 +1,4 @@
-Asteromella qualeae (Allesch.) Vanev & Aa SPECIES
-=======
+# Asteromella qualeae (Allesch.) Vanev & Aa SPECIES
 
 #### Status
 ACCEPTED

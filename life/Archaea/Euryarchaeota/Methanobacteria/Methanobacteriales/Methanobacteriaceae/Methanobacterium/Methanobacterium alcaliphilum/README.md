@@ -1,5 +1,4 @@
-Methanobacterium alcaliphilum Worakit et al., 1986 SPECIES
-=======
+# Methanobacterium alcaliphilum Worakit et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora albicella Lettau SPECIES
-=======
+# Lecanora albicella Lettau SPECIES
 
 #### Status
 ACCEPTED

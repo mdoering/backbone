@@ -1,5 +1,4 @@
-Phomopsis eriobotryae Curzi SPECIES
-=======
+# Phomopsis eriobotryae Curzi SPECIES
 
 #### Status
 ACCEPTED

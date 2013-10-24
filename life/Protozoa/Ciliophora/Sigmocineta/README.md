@@ -1,5 +1,4 @@
-Sigmocineta Jankowski, 1967 GENUS
-=======
+# Sigmocineta Jankowski, 1967 GENUS
 
 #### Status
 ACCEPTED

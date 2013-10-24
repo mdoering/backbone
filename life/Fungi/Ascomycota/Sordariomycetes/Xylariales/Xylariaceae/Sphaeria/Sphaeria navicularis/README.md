@@ -1,5 +1,4 @@
-Sphaeria navicularis Wallr. SPECIES
-=======
+# Sphaeria navicularis Wallr. SPECIES
 
 #### Status
 ACCEPTED

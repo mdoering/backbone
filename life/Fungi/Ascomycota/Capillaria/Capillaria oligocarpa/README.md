@@ -1,5 +1,4 @@
-Capillaria oligocarpa Corda SPECIES
-=======
+# Capillaria oligocarpa Corda SPECIES
 
 #### Status
 ACCEPTED

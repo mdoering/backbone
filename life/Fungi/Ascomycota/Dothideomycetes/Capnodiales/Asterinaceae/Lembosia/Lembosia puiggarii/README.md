@@ -1,5 +1,4 @@
-Lembosia puiggarii Speg. SPECIES
-=======
+# Lembosia puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leciographa sociella (Nyl.) Arnold SPECIES
-=======
+# Leciographa sociella (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

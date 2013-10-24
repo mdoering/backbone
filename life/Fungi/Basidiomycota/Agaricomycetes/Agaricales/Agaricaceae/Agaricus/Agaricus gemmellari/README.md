@@ -1,5 +1,4 @@
-Agaricus gemmellari Inzenga SPECIES
-=======
+# Agaricus gemmellari Inzenga SPECIES
 
 #### Status
 ACCEPTED

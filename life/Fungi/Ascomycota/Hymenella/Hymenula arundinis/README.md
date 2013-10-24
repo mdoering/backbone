@@ -1,5 +1,4 @@
-Hymenula arundinis Fr. SPECIES
-=======
+# Hymenula arundinis Fr. SPECIES
 
 #### Status
 ACCEPTED

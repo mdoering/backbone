@@ -1,5 +1,4 @@
-Biatora vacciniicola (Tønsberg) Printzen SPECIES
-=======
+# Biatora vacciniicola (Tønsberg) Printzen SPECIES
 
 #### Status
 ACCEPTED

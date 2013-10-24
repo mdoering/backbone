@@ -1,5 +1,4 @@
-Asterostomella indica V.G. Rao & Anahosur SPECIES
-=======
+# Asterostomella indica V.G. Rao & Anahosur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Olpidiopsis globosa Anastasiou & Churchl., 1968 SPECIES
-=======
+# Sirolpidium globosum (Anastasiou & Churchl.) M.W. Dick, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syesis 1: 81 (1968)
+Straminipilous Fungi (Dordrecht) 360 (2001)
 
 #### Original name
 Olpidiopsis globosa Anastasiou & Churchl., 1968

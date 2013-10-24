@@ -1,5 +1,4 @@
-Quaternaria microspora Teng & S.H. Ou SPECIES
-=======
+# Quaternaria microspora Teng & S.H. Ou SPECIES
 
 #### Status
 ACCEPTED

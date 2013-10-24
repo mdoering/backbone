@@ -1,5 +1,4 @@
-Trochamminopsis Brönnimann, 1976 GENUS
-=======
+# Trochamminopsis Brönnimann, 1976 GENUS
 
 #### Status
 ACCEPTED

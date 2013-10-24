@@ -1,5 +1,4 @@
-Lasiobelonium lanceolatum Raitv. SPECIES
-=======
+# Lasiobelonium lanceolatum Raitv. SPECIES
 
 #### Status
 ACCEPTED

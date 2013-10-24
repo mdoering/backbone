@@ -1,5 +1,4 @@
-Collodinium Haeckel, 1887 GENUS
-=======
+# Collodinium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

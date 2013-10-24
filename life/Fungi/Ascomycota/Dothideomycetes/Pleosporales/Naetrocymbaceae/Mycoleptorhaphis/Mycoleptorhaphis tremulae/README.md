@@ -1,5 +1,4 @@
-Mycoleptorhaphis tremulae Cif. & Tomas. SPECIES
-=======
+# Mycoleptorhaphis tremulae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

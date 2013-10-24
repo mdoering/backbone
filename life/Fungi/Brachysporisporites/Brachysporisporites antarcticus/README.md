@@ -1,5 +1,4 @@
-Brachysporisporites antarcticus Z.C. Song & Liu Cao SPECIES
-=======
+# Brachysporisporites antarcticus Z.C. Song & Liu Cao SPECIES
 
 #### Status
 ACCEPTED

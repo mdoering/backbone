@@ -1,5 +1,4 @@
-Chondrogaster angustisporus Giachini, Castellano, Trappe & V.L. Oliveira, 2000 SPECIES
-=======
+# Chondrogaster angustisporus Giachini, Castellano, Trappe & V.L. Oliveira, 2000 SPECIES
 
 #### Status
 ACCEPTED

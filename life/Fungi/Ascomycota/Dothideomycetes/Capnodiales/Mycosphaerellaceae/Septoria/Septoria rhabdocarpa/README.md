@@ -1,5 +1,4 @@
-Septoria rhabdocarpa Ellis & Barthol. SPECIES
-=======
+# Septoria rhabdocarpa Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

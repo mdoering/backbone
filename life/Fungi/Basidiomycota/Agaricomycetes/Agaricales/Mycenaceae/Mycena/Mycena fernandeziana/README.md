@@ -1,5 +1,4 @@
-Mycena fernandeziana Singer SPECIES
-=======
+# Mycena fernandeziana Singer SPECIES
 
 #### Status
 ACCEPTED

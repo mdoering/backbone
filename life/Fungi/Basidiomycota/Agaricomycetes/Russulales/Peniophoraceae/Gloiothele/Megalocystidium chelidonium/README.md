@@ -1,14 +1,13 @@
-Vesiculomyces chelidonium (Pat.) Boidin & Lanq. SPECIES
-=======
+# Megalocystidium chelidonium (Pat.) Boidin, Lanq. & Gilles, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 113(1): 62 (1997)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Dermatocarpon licentiosum Servít SPECIES
-=======
+# Dermatocarpon licentiosum Servít SPECIES
 
 #### Status
 ACCEPTED

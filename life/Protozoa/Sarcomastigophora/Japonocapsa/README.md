@@ -1,5 +1,4 @@
-Japonocapsa Kozur, 1986 GENUS
-=======
+# Japonocapsa Kozur, 1986 GENUS
 
 #### Status
 ACCEPTED

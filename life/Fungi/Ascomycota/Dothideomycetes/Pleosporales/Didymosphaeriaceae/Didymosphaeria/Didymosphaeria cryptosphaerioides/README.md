@@ -1,5 +1,4 @@
-Didymosphaeria cryptosphaerioides Rehm SPECIES
-=======
+# Didymosphaeria cryptosphaerioides Rehm SPECIES
 
 #### Status
 ACCEPTED

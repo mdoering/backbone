@@ -1,5 +1,4 @@
-Bacidia aggregatula Malme SPECIES
-=======
+# Bacidia aggregatula Malme SPECIES
 
 #### Status
 ACCEPTED

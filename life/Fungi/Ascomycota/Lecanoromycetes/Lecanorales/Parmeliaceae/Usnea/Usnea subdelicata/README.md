@@ -1,5 +1,4 @@
-Usnea subdelicata Motyka SPECIES
-=======
+# Usnea subdelicata Motyka SPECIES
 
 #### Status
 ACCEPTED

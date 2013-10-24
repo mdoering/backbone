@@ -1,5 +1,4 @@
-Hygrophorus russuliformis Murrill SPECIES
-=======
+# Hygrophorus russuliformis Murrill SPECIES
 
 #### Status
 ACCEPTED

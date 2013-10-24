@@ -1,5 +1,4 @@
-Lophodiacrodium obtusum Timofeev, 1958 SPECIES
-=======
+# Lophodiacrodium obtusum Timofeev, 1958 SPECIES
 
 #### Status
 ACCEPTED

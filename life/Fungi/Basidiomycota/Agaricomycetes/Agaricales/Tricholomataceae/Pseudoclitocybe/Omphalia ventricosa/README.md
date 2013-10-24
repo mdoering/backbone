@@ -1,5 +1,4 @@
-Omphalia ventricosa (Bull.) Quél. SPECIES
-=======
+# Omphalia ventricosa (Bull.) Quél. SPECIES
 
 #### Status
 ACCEPTED

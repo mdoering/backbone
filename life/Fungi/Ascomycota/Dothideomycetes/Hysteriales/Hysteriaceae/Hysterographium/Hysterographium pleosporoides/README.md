@@ -1,5 +1,4 @@
-Hysterographium pleosporoides Wehm. & S. Ahmad SPECIES
-=======
+# Hysterographium pleosporoides Wehm. & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

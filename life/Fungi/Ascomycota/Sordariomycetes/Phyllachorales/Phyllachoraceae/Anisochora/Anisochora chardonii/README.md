@@ -1,5 +1,4 @@
-Anisochora chardonii Orejuela, 1941 SPECIES
-=======
+# Anisochora chardonii Orejuela, 1941 SPECIES
 
 #### Status
 ACCEPTED

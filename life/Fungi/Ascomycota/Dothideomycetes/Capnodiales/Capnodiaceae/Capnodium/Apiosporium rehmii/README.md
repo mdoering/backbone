@@ -1,5 +1,4 @@
-Apiosporium rehmii Syd. SPECIES
-=======
+# Apiosporium rehmii Syd. SPECIES
 
 #### Status
 ACCEPTED

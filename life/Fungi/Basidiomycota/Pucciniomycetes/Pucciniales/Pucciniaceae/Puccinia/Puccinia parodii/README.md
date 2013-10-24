@@ -1,5 +1,4 @@
-Puccinia parodii Speg. SPECIES
-=======
+# Puccinia parodii Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeotrichata W. Bock, 1961 GENUS
-=======
+# Gloeotrichata W. Bock, 1961 GENUS
 
 #### Status
 ACCEPTED

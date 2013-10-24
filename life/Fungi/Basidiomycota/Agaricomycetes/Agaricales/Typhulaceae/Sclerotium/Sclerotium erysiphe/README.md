@@ -1,5 +1,4 @@
-Sclerotium erysiphe var. erysiphe VARIETY
-=======
+# Sclerotium erysiphe ß erysiphe (L.) Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Observ. mycol. (Lipsiae) 1: 13 (1796)
 
 #### Original name
-Sclerotium erysiphe var. erysiphe
+Sclerotium erysiphe ß erysiphe (L.) Pers.
 
 ### Remarks
 null

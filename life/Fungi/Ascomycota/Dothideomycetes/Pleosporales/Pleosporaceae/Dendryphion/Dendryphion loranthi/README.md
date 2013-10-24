@@ -1,5 +1,4 @@
-Dendryphion loranthi Hansf. SPECIES
-=======
+# Dendryphion loranthi Hansf. SPECIES
 
 #### Status
 ACCEPTED

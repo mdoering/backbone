@@ -1,5 +1,4 @@
-Perenniporia cremeopora Decock & Ryvarden SPECIES
-=======
+# Perenniporia cremeopora Decock & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

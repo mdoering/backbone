@@ -1,5 +1,4 @@
-Cladopsis GENUS
-=======
+# Cladopsis GENUS
 
 #### Status
 ACCEPTED

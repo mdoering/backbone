@@ -1,5 +1,4 @@
-Chlorogloea endophytica Howe SPECIES
-=======
+# Chlorogloea endophytica Howe SPECIES
 
 #### Status
 ACCEPTED

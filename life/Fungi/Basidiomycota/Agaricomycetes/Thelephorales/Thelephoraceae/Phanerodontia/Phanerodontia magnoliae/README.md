@@ -1,17 +1,16 @@
-Odontia rufobrunnea H. Furuk. SPECIES
-=======
+# Phanerodontia magnoliae (Berk. & M.A. Curtis) Hjortstam & Ryvarden, 2010 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Govt Forest Exp. Stn Meguro 261: 27 (1974)
+null
 
 #### Original name
-Odontia rufobrunnea H. Furuk.
+null
 
 ### Remarks
 null

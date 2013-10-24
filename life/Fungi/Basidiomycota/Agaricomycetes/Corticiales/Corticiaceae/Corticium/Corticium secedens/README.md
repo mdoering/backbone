@@ -1,5 +1,4 @@
-Corticium secedens Sacc. SPECIES
-=======
+# Corticium secedens Sacc. SPECIES
 
 #### Status
 ACCEPTED

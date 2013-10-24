@@ -1,5 +1,4 @@
-Thecaphora spermacoces Thirum. & Pavgi SPECIES
-=======
+# Thecaphora spermacoces Thirum. & Pavgi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peridermium peckii Thüm. SPECIES
-=======
+# Peridermium peckii Thüm. SPECIES
 
 #### Status
 ACCEPTED

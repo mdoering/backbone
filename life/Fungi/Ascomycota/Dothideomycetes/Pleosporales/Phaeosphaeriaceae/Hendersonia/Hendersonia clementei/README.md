@@ -1,5 +1,4 @@
-Hendersonia clementei Gonz. Frag. SPECIES
-=======
+# Hendersonia clementei Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

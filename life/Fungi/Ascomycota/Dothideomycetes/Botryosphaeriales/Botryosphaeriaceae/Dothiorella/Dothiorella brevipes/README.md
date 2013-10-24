@@ -1,5 +1,4 @@
-Dothiorella brevipes (Penz. & Sacc.) Petr. & Syd. SPECIES
-=======
+# Dothiorella brevipes (Penz. & Sacc.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

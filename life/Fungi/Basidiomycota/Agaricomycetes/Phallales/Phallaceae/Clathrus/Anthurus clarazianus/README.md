@@ -1,5 +1,4 @@
-Anthurus clarazianus Müll. Arg. SPECIES
-=======
+# Anthurus clarazianus Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

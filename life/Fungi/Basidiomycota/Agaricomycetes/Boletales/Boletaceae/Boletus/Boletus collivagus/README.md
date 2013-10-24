@@ -1,5 +1,4 @@
-Boletus collivagus Velen. SPECIES
-=======
+# Boletus collivagus Velen. SPECIES
 
 #### Status
 ACCEPTED

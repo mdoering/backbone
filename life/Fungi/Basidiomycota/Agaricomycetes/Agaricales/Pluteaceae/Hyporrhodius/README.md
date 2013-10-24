@@ -1,5 +1,4 @@
-Hyporrhodius GENUS
-=======
+# Hyporrhodius GENUS
 
 #### Status
 ACCEPTED

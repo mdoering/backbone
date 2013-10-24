@@ -1,5 +1,4 @@
-Marasmius rufopunctatus Mont. SPECIES
-=======
+# Marasmius rufopunctatus Mont. SPECIES
 
 #### Status
 ACCEPTED

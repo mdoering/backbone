@@ -1,5 +1,4 @@
-Spilosticta cephalariae (Ranoj.) Petr. SPECIES
-=======
+# Spilosticta cephalariae (Ranoj.) Petr. SPECIES
 
 #### Status
 ACCEPTED

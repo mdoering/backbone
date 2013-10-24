@@ -1,5 +1,4 @@
-Agaricus intersitus Britzelm. SPECIES
-=======
+# Agaricus intersitus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

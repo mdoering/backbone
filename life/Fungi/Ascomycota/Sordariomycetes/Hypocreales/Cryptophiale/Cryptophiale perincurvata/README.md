@@ -1,5 +1,4 @@
-Cryptophiale perincurvata ined. SPECIES
-=======
+# Cryptophiale perincurvata ined. SPECIES
 
 #### Status
 ACCEPTED

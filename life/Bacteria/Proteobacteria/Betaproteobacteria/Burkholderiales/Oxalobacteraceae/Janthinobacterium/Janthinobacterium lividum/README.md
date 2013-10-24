@@ -1,11 +1,10 @@
-Chromobacterium lividum (Eisenberg, 1891) Bergey et al., 1923 SPECIES
-=======
+# Janthinobacterium lividum (Eisenberg, 1891) De Ley et al., 1978 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

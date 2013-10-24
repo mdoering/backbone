@@ -1,5 +1,4 @@
-Tripospermum gardneri (Berk.) Speg. SPECIES
-=======
+# Tripospermum gardneri (Berk.) Speg. SPECIES
 
 #### Status
 ACCEPTED

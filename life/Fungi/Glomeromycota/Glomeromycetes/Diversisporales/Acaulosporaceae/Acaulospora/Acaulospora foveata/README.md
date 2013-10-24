@@ -1,5 +1,4 @@
-Acaulospora foveata Trappe & Janos, 1982 SPECIES
-=======
+# Acaulospora foveata Trappe & Janos, 1982 SPECIES
 
 #### Status
 ACCEPTED

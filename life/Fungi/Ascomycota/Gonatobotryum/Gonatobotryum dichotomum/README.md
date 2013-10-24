@@ -1,5 +1,4 @@
-Gonatobotryum dichotomum Cooke & Massee SPECIES
-=======
+# Gonatobotryum dichotomum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

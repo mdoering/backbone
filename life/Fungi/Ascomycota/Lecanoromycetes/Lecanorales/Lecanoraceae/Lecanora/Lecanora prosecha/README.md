@@ -1,17 +1,16 @@
-Lecanora prosecha f. prosecha FORM
-=======
+# Lecanora prosecha Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Lich. univ. (1810)
 
 #### Original name
-Lecanora prosecha f. prosecha
+Lecanora prosecha Ach.
 
 ### Remarks
 null

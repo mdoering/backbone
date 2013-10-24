@@ -1,5 +1,4 @@
-Discella olivacea Cooke & Harkn. SPECIES
-=======
+# Discella olivacea Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

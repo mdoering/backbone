@@ -1,5 +1,4 @@
-Pilosace laurinus (Quél.) Kuntze SPECIES
-=======
+# Pilosace laurinus (Quél.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

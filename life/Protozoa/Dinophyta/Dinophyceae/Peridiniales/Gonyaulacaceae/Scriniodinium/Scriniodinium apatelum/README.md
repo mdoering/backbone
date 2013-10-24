@@ -1,5 +1,4 @@
-Scriniodinium apatelum Cookson & Eisenack SPECIES
-=======
+# Scriniodinium apatelum Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

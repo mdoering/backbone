@@ -1,5 +1,4 @@
-Ochetodinium S.P. Damassa, 1979 GENUS
-=======
+# Ochetodinium S.P. Damassa, 1979 GENUS
 
 #### Status
 ACCEPTED

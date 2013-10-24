@@ -1,5 +1,4 @@
-Conocybe fimetaria Watling, 1986 SPECIES
-=======
+# Conocybe fimetaria Watling, 1986 SPECIES
 
 #### Status
 ACCEPTED

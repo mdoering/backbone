@@ -1,5 +1,4 @@
-Metacapnodium spongiosum S. Hughes & Sivan., 1984 SPECIES
-=======
+# Metacapnodium spongiosum S. Hughes & Sivan., 1984 SPECIES
 
 #### Status
 ACCEPTED

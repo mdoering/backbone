@@ -1,5 +1,4 @@
-Sphaerella spinicola Ellis & Everh. SPECIES
-=======
+# Sphaerella spinicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

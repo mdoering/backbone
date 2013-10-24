@@ -1,5 +1,4 @@
-Morenoella fagaraeae Syd. & P. Syd. SPECIES
-=======
+# Morenoella fagaraeae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

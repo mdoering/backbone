@@ -1,5 +1,4 @@
-Macrolepiota africana (R. Heim) Heinem. SPECIES
-=======
+# Macrolepiota africana (R. Heim) Heinem. SPECIES
 
 #### Status
 ACCEPTED

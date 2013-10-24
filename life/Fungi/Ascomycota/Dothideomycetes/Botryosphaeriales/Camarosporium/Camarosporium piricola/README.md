@@ -1,5 +1,4 @@
-Camarosporium piricola Gonz. Frag. SPECIES
-=======
+# Camarosporium piricola Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

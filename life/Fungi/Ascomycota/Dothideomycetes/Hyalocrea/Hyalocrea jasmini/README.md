@@ -1,5 +1,4 @@
-Hyalocrea jasmini (Hansf.) Rossman SPECIES
-=======
+# Hyalocrea jasmini (Hansf.) Rossman SPECIES
 
 #### Status
 ACCEPTED

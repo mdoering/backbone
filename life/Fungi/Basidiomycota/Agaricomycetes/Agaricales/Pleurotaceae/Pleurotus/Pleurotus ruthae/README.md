@@ -1,5 +1,4 @@
-Pleurotus ruthae (Berk. & Broome) Sacc. SPECIES
-=======
+# Pleurotus ruthae (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

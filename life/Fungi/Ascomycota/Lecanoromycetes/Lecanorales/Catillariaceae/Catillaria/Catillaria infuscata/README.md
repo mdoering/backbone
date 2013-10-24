@@ -1,5 +1,4 @@
-Catillaria infuscata Maheu & Werner SPECIES
-=======
+# Catillaria infuscata Maheu & Werner SPECIES
 
 #### Status
 ACCEPTED

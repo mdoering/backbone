@@ -1,5 +1,4 @@
-Flintia Schubert, 1911 GENUS
-=======
+# Flintia Schubert, 1911 GENUS
 
 #### Status
 ACCEPTED

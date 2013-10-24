@@ -1,5 +1,4 @@
-Cordyceps cochlidiicola Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps cochlidiicola Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

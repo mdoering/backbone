@@ -1,5 +1,4 @@
-Boletus vinosulus Kluzák, Papouek & utara SPECIES
-=======
+# Boletus vinosulus Kluzák, Papouek & utara SPECIES
 
 #### Status
 ACCEPTED

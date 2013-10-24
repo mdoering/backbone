@@ -1,5 +1,4 @@
-Laestadia melaleucae (Berk.) Sacc. SPECIES
-=======
+# Laestadia melaleucae (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

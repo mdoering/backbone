@@ -1,5 +1,4 @@
-Spadicoides ramosa Rambelli SPECIES
-=======
+# Spadicoides ramosa Rambelli SPECIES
 
 #### Status
 ACCEPTED

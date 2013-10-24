@@ -1,5 +1,4 @@
-Didymosporium profusum (Grev.) Fr. SPECIES
-=======
+# Didymosporium profusum (Grev.) Fr. SPECIES
 
 #### Status
 ACCEPTED

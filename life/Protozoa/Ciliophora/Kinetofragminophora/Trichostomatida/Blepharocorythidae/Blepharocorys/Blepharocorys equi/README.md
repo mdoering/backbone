@@ -1,5 +1,4 @@
-Blepharocorys equi Schuhmacher, 1915 SPECIES
-=======
+# Blepharocorys equi Schuhmacher, 1915 SPECIES
 
 #### Status
 ACCEPTED

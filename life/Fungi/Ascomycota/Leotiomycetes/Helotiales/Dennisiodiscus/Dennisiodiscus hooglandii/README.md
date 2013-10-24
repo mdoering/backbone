@@ -1,5 +1,4 @@
-Dennisiodiscus hooglandii (Dennis) Svrcek SPECIES
-=======
+# Dennisiodiscus hooglandii (Dennis) Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mississippina Howe, 1930 GENUS
-=======
+# Mississippina Howe, 1930 GENUS
 
 #### Status
 ACCEPTED

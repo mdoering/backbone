@@ -1,5 +1,4 @@
-Amanita submutabilis (Murrill) Murrill SPECIES
-=======
+# Amanita submutabilis (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

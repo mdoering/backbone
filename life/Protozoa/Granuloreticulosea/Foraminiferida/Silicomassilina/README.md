@@ -1,5 +1,4 @@
-Silicomassilina Serova, 1966 GENUS
-=======
+# Silicomassilina Serova, 1966 GENUS
 
 #### Status
 ACCEPTED

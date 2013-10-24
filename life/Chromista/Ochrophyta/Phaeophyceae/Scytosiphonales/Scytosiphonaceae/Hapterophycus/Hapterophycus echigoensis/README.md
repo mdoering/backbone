@@ -1,5 +1,4 @@
-Hapterophycus echigoensis Noda SPECIES
-=======
+# Hapterophycus echigoensis Noda SPECIES
 
 #### Status
 ACCEPTED

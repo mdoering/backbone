@@ -1,5 +1,4 @@
-Hysterium contortum Ditmar SPECIES
-=======
+# Hysterium contortum Ditmar SPECIES
 
 #### Status
 ACCEPTED

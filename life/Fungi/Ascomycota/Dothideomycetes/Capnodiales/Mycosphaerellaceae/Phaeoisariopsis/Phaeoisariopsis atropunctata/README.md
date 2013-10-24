@@ -1,5 +1,4 @@
-Phaeoisariopsis atropunctata (Racib.) U. Braun SPECIES
-=======
+# Phaeoisariopsis atropunctata (Racib.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

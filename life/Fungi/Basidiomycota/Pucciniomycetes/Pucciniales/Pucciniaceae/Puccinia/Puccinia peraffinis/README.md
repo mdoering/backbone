@@ -1,5 +1,4 @@
-Puccinia peraffinis Syd. SPECIES
-=======
+# Puccinia peraffinis Syd. SPECIES
 
 #### Status
 ACCEPTED

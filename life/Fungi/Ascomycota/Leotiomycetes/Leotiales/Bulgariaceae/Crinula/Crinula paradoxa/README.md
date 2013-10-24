@@ -1,5 +1,4 @@
-Crinula paradoxa Berk. & M.A. Curtis SPECIES
-=======
+# Crinula paradoxa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

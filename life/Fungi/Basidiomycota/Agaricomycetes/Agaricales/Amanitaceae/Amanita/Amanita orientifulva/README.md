@@ -1,5 +1,4 @@
-Amanita orientifulva Zhu L. Yang, M. Weiss & Oberw. SPECIES
-=======
+# Amanita orientifulva Zhu L. Yang, M. Weiss & Oberw. SPECIES
 
 #### Status
 ACCEPTED

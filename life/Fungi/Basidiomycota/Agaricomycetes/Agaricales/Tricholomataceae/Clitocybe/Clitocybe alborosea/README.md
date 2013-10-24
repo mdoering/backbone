@@ -1,5 +1,4 @@
-Clitocybe alborosea Pat. & Gaillard SPECIES
-=======
+# Clitocybe alborosea Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

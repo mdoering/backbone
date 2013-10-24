@@ -1,5 +1,4 @@
-Acarospora persimilis H. Magn. SPECIES
-=======
+# Acarospora persimilis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria cyanea Flörke SPECIES
-=======
+# Patellaria cyanea Flörke SPECIES
 
 #### Status
 ACCEPTED

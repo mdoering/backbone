@@ -1,5 +1,4 @@
-Dicaeoma rupestre (Juel) Kuntze SPECIES
-=======
+# Dicaeoma rupestre (Juel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Togaria caperata (Pers.) W.G. Sm., 1908 SPECIES
-=======
+# Cortinarius caperatus (Pers.) Fr., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. Brit. Basidiomyc. 122 (1908)
+Epicr. syst. mycol. (Upsaliae) 256 (1838)
 
 #### Original name
-Togaria caperata (Pers.) W.G. Sm., 1908
+Agaricus caperatus Pers., 1796
 
 ### Remarks
 null

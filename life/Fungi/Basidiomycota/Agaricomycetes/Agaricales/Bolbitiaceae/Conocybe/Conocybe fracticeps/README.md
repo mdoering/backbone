@@ -1,5 +1,4 @@
-Conocybe fracticeps (Pat. & Demange) Zhu L. Yang SPECIES
-=======
+# Conocybe fracticeps (Pat. & Demange) Zhu L. Yang SPECIES
 
 #### Status
 ACCEPTED

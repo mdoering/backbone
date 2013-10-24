@@ -1,5 +1,4 @@
-Xerocomus chapinii Singer SPECIES
-=======
+# Xerocomus chapinii Singer SPECIES
 
 #### Status
 ACCEPTED

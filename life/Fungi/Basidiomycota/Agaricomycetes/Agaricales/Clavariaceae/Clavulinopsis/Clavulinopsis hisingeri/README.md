@@ -1,17 +1,16 @@
-Clavaria tenuicola Bourdot & Galzin, 1928 SPECIES
-=======
+# Clavulinopsis hisingeri (P. Karst.) D.A. Reid, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomyc. de France 104 (1928)
+Persoonia 2(2): 123 (1962)
 
 #### Original name
-Clavaria tenuicola Bourdot & Galzin, 1928
+Polyozus hisingeri P. Karst., 1888
 
 ### Remarks
 null

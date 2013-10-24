@@ -1,5 +1,4 @@
-Verrucaria balcicensis Servít SPECIES
-=======
+# Verrucaria balcicensis Servít SPECIES
 
 #### Status
 ACCEPTED

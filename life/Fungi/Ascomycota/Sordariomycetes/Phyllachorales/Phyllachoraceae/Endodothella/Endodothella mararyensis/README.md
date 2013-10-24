@@ -1,14 +1,13 @@
-Dothidella mararyensis Henn., 1904 SPECIES
-=======
+# Endodothella mararyensis (Henn.) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 43: 369 (1904)
+Annls mycol. 13(5/6): 588 (1915)
 
 #### Original name
 Dothidella mararyensis Henn., 1904

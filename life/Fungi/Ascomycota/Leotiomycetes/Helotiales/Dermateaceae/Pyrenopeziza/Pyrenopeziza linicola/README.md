@@ -1,5 +1,4 @@
-Pyrenopeziza linicola E. Müll. SPECIES
-=======
+# Pyrenopeziza linicola E. Müll. SPECIES
 
 #### Status
 ACCEPTED

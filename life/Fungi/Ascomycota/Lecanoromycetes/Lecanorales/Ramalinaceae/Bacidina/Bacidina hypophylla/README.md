@@ -1,5 +1,4 @@
-Bacidina hypophylla Lücking & Kalb SPECIES
-=======
+# Bacidina hypophylla Lücking & Kalb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratorhiza R.T. Moore, 1987 GENUS
-=======
+# Ceratorhiza R.T. Moore, 1987 GENUS
 
 #### Status
 ACCEPTED

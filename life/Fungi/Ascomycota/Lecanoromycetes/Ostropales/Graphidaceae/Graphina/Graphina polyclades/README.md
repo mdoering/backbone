@@ -1,14 +1,13 @@
-Graphis polyclades Kremp. SPECIES
-=======
+# Graphina polyclades (Kremp.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. zool. -bot. Ges. Wein 30: 341 (1880)
+Flora, Jena 65: 502 (1882)
 
 #### Original name
 Graphis polyclades Kremp.

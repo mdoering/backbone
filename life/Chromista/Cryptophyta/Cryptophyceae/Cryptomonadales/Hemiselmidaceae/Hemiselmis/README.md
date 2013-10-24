@@ -1,5 +1,4 @@
-Hemiselmis Parke, 1949 GENUS
-=======
+# Hemiselmis Parke, 1949 GENUS
 
 #### Status
 ACCEPTED

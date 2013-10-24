@@ -1,5 +1,4 @@
-Nummularia citrincola Rehm SPECIES
-=======
+# Nummularia citrincola Rehm SPECIES
 
 #### Status
 ACCEPTED

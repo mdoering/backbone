@@ -1,5 +1,4 @@
-Achlyopsis entospora De Wild. SPECIES
-=======
+# Achlyopsis entospora De Wild. SPECIES
 
 #### Status
 ACCEPTED

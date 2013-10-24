@@ -1,5 +1,4 @@
-Graphina philippina (Vain.) Zahlbr. SPECIES
-=======
+# Graphina philippina (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

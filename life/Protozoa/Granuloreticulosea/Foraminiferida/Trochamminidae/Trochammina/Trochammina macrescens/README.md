@@ -1,5 +1,4 @@
-Trochammina macrescens SPECIES
-=======
+# Trochammina macrescens SPECIES
 
 #### Status
 ACCEPTED

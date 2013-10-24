@@ -1,5 +1,4 @@
-Phyllachora domingensis Chardón, 1927 SPECIES
-=======
+# Phyllachora domingensis Chardón, 1927 SPECIES
 
 #### Status
 ACCEPTED

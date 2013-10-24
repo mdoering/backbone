@@ -1,5 +1,4 @@
-Magmopsis pertenella Nyl. SPECIES
-=======
+# Magmopsis pertenella Nyl. SPECIES
 
 #### Status
 ACCEPTED

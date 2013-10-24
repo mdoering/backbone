@@ -1,5 +1,4 @@
-Trachelomonas tschernovii Popova SPECIES
-=======
+# Trachelomonas tschernovii Popova SPECIES
 
 #### Status
 ACCEPTED

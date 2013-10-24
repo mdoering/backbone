@@ -1,17 +1,16 @@
-Cercospora nojimai Togashi & Katsuki SPECIES
-=======
+# Cercospora nojimae Togashi & Katsuki SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Science Rep. Yokohama Nat. Univ. , Section 2 1: 5 (1952)
 
 #### Original name
-Cercospora nojimai Togashi & Katsuki
+Cercospora nojimae Togashi & Katsuki
 
 ### Remarks
 null

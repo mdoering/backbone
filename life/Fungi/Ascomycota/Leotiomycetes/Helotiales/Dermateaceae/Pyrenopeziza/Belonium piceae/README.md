@@ -1,5 +1,4 @@
-Belonium piceae SPECIES
-=======
+# Belonium piceae SPECIES
 
 #### Status
 ACCEPTED

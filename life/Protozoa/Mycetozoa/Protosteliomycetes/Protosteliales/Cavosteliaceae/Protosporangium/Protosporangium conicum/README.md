@@ -1,5 +1,4 @@
-Protosporangium conicum W.E. Benn., 1986 SPECIES
-=======
+# Protosporangium conicum W.E. Benn., 1986 SPECIES
 
 #### Status
 ACCEPTED

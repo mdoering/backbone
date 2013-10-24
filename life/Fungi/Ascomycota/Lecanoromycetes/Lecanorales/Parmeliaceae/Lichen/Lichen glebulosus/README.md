@@ -1,5 +1,4 @@
-Lichen glebulosus Sm. SPECIES
-=======
+# Lichen glebulosus Sm. SPECIES
 
 #### Status
 ACCEPTED

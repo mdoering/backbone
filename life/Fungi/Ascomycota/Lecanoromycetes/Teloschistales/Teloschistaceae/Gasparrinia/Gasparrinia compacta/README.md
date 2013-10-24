@@ -1,5 +1,4 @@
-Gasparrinia compacta (Arnold) Szatala SPECIES
-=======
+# Gasparrinia compacta (Arnold) Szatala SPECIES
 
 #### Status
 ACCEPTED

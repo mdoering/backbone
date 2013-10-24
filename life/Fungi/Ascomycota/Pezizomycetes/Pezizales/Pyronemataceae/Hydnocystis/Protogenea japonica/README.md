@@ -1,5 +1,4 @@
-Protogenea japonica Kobayasi SPECIES
-=======
+# Protogenea japonica Kobayasi SPECIES
 
 #### Status
 ACCEPTED

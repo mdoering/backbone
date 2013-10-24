@@ -1,5 +1,4 @@
-Parmelia endochroma (Fée) Spreng. SPECIES
-=======
+# Parmelia endochroma (Fée) Spreng. SPECIES
 
 #### Status
 ACCEPTED

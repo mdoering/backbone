@@ -1,5 +1,4 @@
-Diplodia pteleae Hollós SPECIES
-=======
+# Diplodia pteleae Hollós SPECIES
 
 #### Status
 ACCEPTED

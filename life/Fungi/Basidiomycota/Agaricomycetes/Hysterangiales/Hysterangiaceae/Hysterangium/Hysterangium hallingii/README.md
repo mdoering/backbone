@@ -1,5 +1,4 @@
-Hysterangium hallingii Castellano & J.J. Muchovej SPECIES
-=======
+# Hysterangium hallingii Castellano & J.J. Muchovej SPECIES
 
 #### Status
 ACCEPTED

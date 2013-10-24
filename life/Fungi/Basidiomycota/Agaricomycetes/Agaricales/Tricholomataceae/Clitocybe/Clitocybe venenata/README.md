@@ -1,5 +1,4 @@
-Clitocybe venenata R. Heim SPECIES
-=======
+# Clitocybe venenata R. Heim SPECIES
 
 #### Status
 ACCEPTED

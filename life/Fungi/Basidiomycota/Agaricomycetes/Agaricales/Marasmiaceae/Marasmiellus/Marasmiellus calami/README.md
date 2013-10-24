@@ -1,5 +1,4 @@
-Marasmiellus calami (Petch) Singer SPECIES
-=======
+# Marasmiellus calami (Petch) Singer SPECIES
 
 #### Status
 ACCEPTED

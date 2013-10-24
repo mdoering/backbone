@@ -1,5 +1,4 @@
-Chytridium simplex P.A. Dang. SPECIES
-=======
+# Chytridium simplex P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

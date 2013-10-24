@@ -1,5 +1,4 @@
-Balansia obtecta Diehl SPECIES
-=======
+# Balansia obtecta Diehl SPECIES
 
 #### Status
 ACCEPTED

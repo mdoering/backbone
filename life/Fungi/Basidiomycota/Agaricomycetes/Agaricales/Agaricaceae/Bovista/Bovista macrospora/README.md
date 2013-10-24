@@ -1,5 +1,4 @@
-Bovista macrospora Perdeck SPECIES
-=======
+# Bovista macrospora Perdeck SPECIES
 
 #### Status
 ACCEPTED

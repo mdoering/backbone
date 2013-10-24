@@ -1,5 +1,4 @@
-Hygrocybe avellana (Beeli) Heinem. SPECIES
-=======
+# Hygrocybe avellana (Beeli) Heinem. SPECIES
 
 #### Status
 ACCEPTED

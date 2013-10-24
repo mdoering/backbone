@@ -1,5 +1,4 @@
-Turbinaria gracilis Sonder SPECIES
-=======
+# Turbinaria gracilis Sonder SPECIES
 
 #### Status
 ACCEPTED

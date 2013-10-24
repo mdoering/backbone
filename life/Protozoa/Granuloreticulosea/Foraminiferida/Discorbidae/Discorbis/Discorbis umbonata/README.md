@@ -1,5 +1,4 @@
-Discorbis umbonata SPECIES
-=======
+# Discorbis umbonata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bolbitius tripolitanus Sacc. & Trotter SPECIES
-=======
+# Bolbitius tripolitanus Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

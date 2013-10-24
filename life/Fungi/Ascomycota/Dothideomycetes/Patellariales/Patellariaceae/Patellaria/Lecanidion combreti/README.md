@@ -1,14 +1,13 @@
-Lecanidion combretti (Tilak & Srinivas.) P.N. Mathur, R.R. Jain & G.G. Saini SPECIES
-=======
+# Lecanidion combreti (Tilak & Srinivas.) P.N. Mathur, R.R. Jain & G.G. Saini SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Journal of Mycology and Plant Pathology 11(1): 134 (1981)
 
 #### Original name
 Patellaria combreti Tilak & Srinivas.

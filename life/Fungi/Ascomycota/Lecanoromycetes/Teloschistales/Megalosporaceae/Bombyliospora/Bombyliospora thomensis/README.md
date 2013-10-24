@@ -1,5 +1,4 @@
-Bombyliospora thomensis (Nyl.) Zahlbr. SPECIES
-=======
+# Bombyliospora thomensis (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aegerita gelatina Matsush. SPECIES
-=======
+# Aegerita gelatina Matsush. SPECIES
 
 #### Status
 ACCEPTED

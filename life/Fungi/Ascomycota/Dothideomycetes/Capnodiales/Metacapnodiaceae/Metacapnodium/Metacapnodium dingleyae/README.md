@@ -1,5 +1,4 @@
-Metacapnodium dingleyae S. Hughes, 1981 SPECIES
-=======
+# Metacapnodium dingleyae S. Hughes, 1981 SPECIES
 
 #### Status
 ACCEPTED

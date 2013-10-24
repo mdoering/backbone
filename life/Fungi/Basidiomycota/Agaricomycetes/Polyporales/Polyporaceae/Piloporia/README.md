@@ -1,5 +1,4 @@
-Piloporia Niemelä GENUS
-=======
+# Piloporia Niemelä GENUS
 
 #### Status
 ACCEPTED

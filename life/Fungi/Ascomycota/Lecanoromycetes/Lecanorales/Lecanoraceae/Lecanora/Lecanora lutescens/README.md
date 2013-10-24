@@ -1,5 +1,4 @@
-Lecanora lutescens (DC.) Nyl. SPECIES
-=======
+# Lecanora lutescens (DC.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

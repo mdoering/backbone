@@ -1,5 +1,4 @@
-Hypodermium miniatum Link SPECIES
-=======
+# Hypodermium miniatum Link SPECIES
 
 #### Status
 ACCEPTED

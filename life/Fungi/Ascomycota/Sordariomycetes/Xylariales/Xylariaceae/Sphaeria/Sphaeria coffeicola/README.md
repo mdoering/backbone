@@ -1,5 +1,4 @@
-Sphaeria coffeicola Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria coffeicola Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

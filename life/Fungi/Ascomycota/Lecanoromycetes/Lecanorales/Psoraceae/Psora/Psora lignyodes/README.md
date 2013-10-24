@@ -1,5 +1,4 @@
-Psora lignyodes Flagey SPECIES
-=======
+# Psora lignyodes Flagey SPECIES
 
 #### Status
 ACCEPTED

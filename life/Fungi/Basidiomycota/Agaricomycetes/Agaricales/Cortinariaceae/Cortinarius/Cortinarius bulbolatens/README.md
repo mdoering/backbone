@@ -1,5 +1,4 @@
-Cortinarius bulbolatens Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius bulbolatens Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

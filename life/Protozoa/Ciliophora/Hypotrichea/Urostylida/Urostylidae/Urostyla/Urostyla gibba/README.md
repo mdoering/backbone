@@ -1,5 +1,4 @@
-Urostyla gibba SPECIES
-=======
+# Urostyla gibba SPECIES
 
 #### Status
 ACCEPTED

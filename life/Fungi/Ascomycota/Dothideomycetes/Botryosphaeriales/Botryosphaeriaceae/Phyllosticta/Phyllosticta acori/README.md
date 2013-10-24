@@ -1,5 +1,4 @@
-Phyllosticta acori Oudem. SPECIES
-=======
+# Phyllosticta acori Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galera peroxydata (Berk.) Sacc. SPECIES
-=======
+# Galera peroxydata (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

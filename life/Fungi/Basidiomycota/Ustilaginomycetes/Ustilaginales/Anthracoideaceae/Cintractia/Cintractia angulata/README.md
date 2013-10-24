@@ -1,5 +1,4 @@
-Cintractia angulata Syd. SPECIES
-=======
+# Cintractia angulata Syd. SPECIES
 
 #### Status
 ACCEPTED

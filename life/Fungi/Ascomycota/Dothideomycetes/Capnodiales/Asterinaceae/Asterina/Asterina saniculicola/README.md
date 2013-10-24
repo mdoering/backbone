@@ -1,5 +1,4 @@
-Asterina saniculicola Hansf. SPECIES
-=======
+# Asterina saniculicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

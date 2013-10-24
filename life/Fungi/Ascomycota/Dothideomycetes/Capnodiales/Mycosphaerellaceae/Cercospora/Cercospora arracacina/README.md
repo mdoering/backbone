@@ -1,5 +1,4 @@
-Cercospora arracacina Chupp SPECIES
-=======
+# Cercospora arracacina Chupp SPECIES
 
 #### Status
 ACCEPTED

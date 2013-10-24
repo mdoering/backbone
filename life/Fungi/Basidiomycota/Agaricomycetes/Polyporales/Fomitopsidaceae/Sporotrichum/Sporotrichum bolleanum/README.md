@@ -1,5 +1,4 @@
-Sporotrichum bolleanum Thüm. SPECIES
-=======
+# Sporotrichum bolleanum Thüm. SPECIES
 
 #### Status
 ACCEPTED

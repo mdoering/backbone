@@ -1,5 +1,4 @@
-Asteridiella manaosensis (Henn.) Hansf. SPECIES
-=======
+# Asteridiella manaosensis (Henn.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

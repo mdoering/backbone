@@ -1,5 +1,4 @@
-Pyxinioides fujitubo Hoshide, 1951 SPECIES
-=======
+# Pyxinioides fujitubo Hoshide, 1951 SPECIES
 
 #### Status
 ACCEPTED

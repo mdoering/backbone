@@ -1,5 +1,4 @@
-Ophryoscolex africanum SPECIES
-=======
+# Ophryoscolex africanum SPECIES
 
 #### Status
 ACCEPTED

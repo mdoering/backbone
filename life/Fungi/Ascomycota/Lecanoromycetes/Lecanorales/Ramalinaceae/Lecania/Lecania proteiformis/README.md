@@ -1,5 +1,4 @@
-Lecania proteiformis (A. Massal.) Arnold SPECIES
-=======
+# Lecania proteiformis (A. Massal.) Arnold SPECIES
 
 #### Status
 ACCEPTED

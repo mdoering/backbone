@@ -1,5 +1,4 @@
-Hypoxylon miserrimum Speg. SPECIES
-=======
+# Hypoxylon miserrimum Speg. SPECIES
 
 #### Status
 ACCEPTED

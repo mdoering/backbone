@@ -1,17 +1,16 @@
-Zignoella P.A. Saccardo, 1878 GENUS
-=======
+# Chaetosphaeria Tul. & C. Tul. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Select. fung. carpol. (Paris) 2: 252 (1863)
 
 #### Original name
-null
+Chaetosphaeria Tul. & C. Tul.
 
 ### Remarks
 null

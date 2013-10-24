@@ -1,5 +1,4 @@
-Pseudotorula heterospora Subram., 1958 SPECIES
-=======
+# Pseudotorula heterospora Subram., 1958 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phloeosporella hedysari (Solheim) B. Sutton SPECIES
-=======
+# Phloeosporella hedysari (Solheim) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

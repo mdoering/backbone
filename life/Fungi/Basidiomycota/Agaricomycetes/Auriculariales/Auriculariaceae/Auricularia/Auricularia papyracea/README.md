@@ -1,5 +1,4 @@
-Auricularia papyracea Yasuda SPECIES
-=======
+# Auricularia papyracea Yasuda SPECIES
 
 #### Status
 ACCEPTED

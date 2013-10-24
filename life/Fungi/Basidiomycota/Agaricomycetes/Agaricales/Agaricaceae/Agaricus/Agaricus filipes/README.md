@@ -1,5 +1,4 @@
-Agaricus filipes Bull. SPECIES
-=======
+# Agaricus filipes Bull. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zuberella GENUS
-=======
+# Zuberella GENUS
 
 #### Status
 ACCEPTED

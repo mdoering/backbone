@@ -1,5 +1,4 @@
-Collybia atratoides (Peck) Peck SPECIES
-=======
+# Collybia atratoides (Peck) Peck SPECIES
 
 #### Status
 ACCEPTED

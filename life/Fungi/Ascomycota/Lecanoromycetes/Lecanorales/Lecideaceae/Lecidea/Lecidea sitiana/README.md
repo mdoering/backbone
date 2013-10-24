@@ -1,5 +1,4 @@
-Lecidea sitiana Vain. SPECIES
-=======
+# Lecidea sitiana Vain. SPECIES
 
 #### Status
 ACCEPTED

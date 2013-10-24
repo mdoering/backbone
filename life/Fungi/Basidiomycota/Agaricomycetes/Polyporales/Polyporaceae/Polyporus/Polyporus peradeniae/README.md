@@ -1,5 +1,4 @@
-Polyporus peradeniae Berk. & Broome SPECIES
-=======
+# Polyporus peradeniae Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

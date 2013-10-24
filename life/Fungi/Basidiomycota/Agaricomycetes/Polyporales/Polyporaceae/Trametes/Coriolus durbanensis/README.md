@@ -1,5 +1,4 @@
-Coriolus durbanensis (Van der Byl) D.A. Reid SPECIES
-=======
+# Coriolus durbanensis (Van der Byl) D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

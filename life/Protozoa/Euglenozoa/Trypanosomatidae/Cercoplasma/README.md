@@ -1,5 +1,4 @@
-Cercoplasma E.Roubaud GENUS
-=======
+# Cercoplasma E.Roubaud GENUS
 
 #### Status
 ACCEPTED

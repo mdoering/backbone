@@ -1,5 +1,4 @@
-Graphis cuiabensis Staiger SPECIES
-=======
+# Graphis cuiabensis Staiger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Selenaspora guernisaci (P. Crouan & H. Crouan) R. Heim & Le Gal SPECIES
-=======
+# Selenaspora guernisacii (P. Crouan & H. Crouan) R. Heim & Le Gal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue Mycol. , Paris 18: 88 (1953)
 
 #### Original name
 Ascophanus guernisacii (P. Crouan & H. Crouan) Sacc.

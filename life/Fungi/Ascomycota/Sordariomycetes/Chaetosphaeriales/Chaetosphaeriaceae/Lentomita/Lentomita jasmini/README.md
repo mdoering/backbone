@@ -1,5 +1,4 @@
-Lentomita jasmini Tilak, S.B. Kale & S.V.S. Kale SPECIES
-=======
+# Lentomita jasmini Tilak, S.B. Kale & S.V.S. Kale SPECIES
 
 #### Status
 ACCEPTED

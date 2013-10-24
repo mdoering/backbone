@@ -1,17 +1,16 @@
-Odontiopsis hyphodontia Hjortstam & Ryvarden SPECIES
-=======
+# Odontiopsis hyphodontina Hjortstam & Ryvarden, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 12(1): 180 (1980)
 
 #### Original name
-Odontiopsis hyphodontia Hjortstam & Ryvarden
+Odontiopsis hyphodontina Hjortstam & Ryvarden, 1980
 
 ### Remarks
 null

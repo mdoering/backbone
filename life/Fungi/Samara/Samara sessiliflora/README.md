@@ -1,5 +1,4 @@
-Samara sessiliflora Kurz SPECIES
-=======
+# Samara sessiliflora Kurz SPECIES
 
 #### Status
 ACCEPTED

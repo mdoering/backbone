@@ -1,5 +1,4 @@
-Entoloma hircosum Corner & E. Horak SPECIES
-=======
+# Entoloma hircosum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

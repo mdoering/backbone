@@ -1,5 +1,4 @@
-Meliola berliniae var. berliniae VARIETY
-=======
+# Meliola berliniae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycol. Pap. 23: 23 (1948)
 
 #### Original name
-Meliola berliniae var. berliniae
+Meliola berliniae Hansf. & Deighton
 
 ### Remarks
 null

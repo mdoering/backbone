@@ -1,5 +1,4 @@
-Aspergillus globosus H.J. Chowdhery & J.N. Rai SPECIES
-=======
+# Aspergillus globosus H.J. Chowdhery & J.N. Rai SPECIES
 
 #### Status
 ACCEPTED

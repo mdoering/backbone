@@ -1,5 +1,4 @@
-Pulveraria farinosa (Hoffm.) Rabenh. SPECIES
-=======
+# Pulveraria farinosa (Hoffm.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

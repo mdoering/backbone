@@ -1,5 +1,4 @@
-Parmelia simulans Hale SPECIES
-=======
+# Parmelia simulans Hale SPECIES
 
 #### Status
 ACCEPTED

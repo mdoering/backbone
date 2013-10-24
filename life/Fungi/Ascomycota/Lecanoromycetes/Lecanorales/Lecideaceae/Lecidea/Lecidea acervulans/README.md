@@ -1,5 +1,4 @@
-Lecidea acervulans Nyl. SPECIES
-=======
+# Lecidea acervulans Nyl. SPECIES
 
 #### Status
 ACCEPTED

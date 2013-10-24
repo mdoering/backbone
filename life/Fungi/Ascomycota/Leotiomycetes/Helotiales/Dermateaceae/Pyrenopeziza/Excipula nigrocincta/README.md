@@ -1,5 +1,4 @@
-Excipula nigrocincta Massee SPECIES
-=======
+# Excipula nigrocincta Massee SPECIES
 
 #### Status
 ACCEPTED

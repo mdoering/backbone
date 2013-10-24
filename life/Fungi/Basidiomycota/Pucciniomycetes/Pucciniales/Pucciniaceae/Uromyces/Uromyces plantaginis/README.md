@@ -1,5 +1,4 @@
-Uromyces plantaginis Vestergr. SPECIES
-=======
+# Uromyces plantaginis Vestergr. SPECIES
 
 #### Status
 ACCEPTED

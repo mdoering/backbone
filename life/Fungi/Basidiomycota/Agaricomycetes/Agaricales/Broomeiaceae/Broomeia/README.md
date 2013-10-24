@@ -1,5 +1,4 @@
-Broomeia Berk. GENUS
-=======
+# Broomeia Berk. GENUS
 
 #### Status
 ACCEPTED

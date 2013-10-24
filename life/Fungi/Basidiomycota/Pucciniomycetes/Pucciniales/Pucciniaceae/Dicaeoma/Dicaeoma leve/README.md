@@ -1,5 +1,4 @@
-Dicaeoma leve (Sacc. & Bizz.) Arthur & Fromme SPECIES
-=======
+# Dicaeoma leve (Sacc. & Bizz.) Arthur & Fromme SPECIES
 
 #### Status
 ACCEPTED

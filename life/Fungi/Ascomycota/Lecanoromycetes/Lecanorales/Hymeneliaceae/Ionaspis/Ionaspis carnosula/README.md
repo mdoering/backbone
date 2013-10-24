@@ -1,5 +1,4 @@
-Ionaspis carnosula (Arnold) Arnold SPECIES
-=======
+# Ionaspis carnosula (Arnold) Arnold SPECIES
 
 #### Status
 ACCEPTED

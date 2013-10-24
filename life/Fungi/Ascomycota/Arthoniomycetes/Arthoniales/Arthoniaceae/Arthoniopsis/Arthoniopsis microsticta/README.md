@@ -1,5 +1,4 @@
-Arthoniopsis microsticta (Vain.) Zahlbr. SPECIES
-=======
+# Arthoniopsis microsticta (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

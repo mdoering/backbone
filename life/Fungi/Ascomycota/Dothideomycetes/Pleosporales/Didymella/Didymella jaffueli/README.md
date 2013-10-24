@@ -1,5 +1,4 @@
-Didymella jaffueli Speg. SPECIES
-=======
+# Didymella jaffueli Speg. SPECIES
 
 #### Status
 ACCEPTED

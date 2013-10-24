@@ -1,5 +1,4 @@
-Cortinarius phaeouranus Gasparini SPECIES
-=======
+# Cortinarius phaeouranus Gasparini SPECIES
 
 #### Status
 ACCEPTED

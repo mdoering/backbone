@@ -1,5 +1,4 @@
-Graphina haloniata Zahlbr. SPECIES
-=======
+# Graphina haloniata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

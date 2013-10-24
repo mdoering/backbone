@@ -1,5 +1,4 @@
-Micarea viridiatra Coppins SPECIES
-=======
+# Micarea viridiatra Coppins SPECIES
 
 #### Status
 ACCEPTED

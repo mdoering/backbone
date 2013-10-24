@@ -1,5 +1,4 @@
-Carchesium corymbosum SPECIES
-=======
+# Carchesium corymbosum SPECIES
 
 #### Status
 ACCEPTED

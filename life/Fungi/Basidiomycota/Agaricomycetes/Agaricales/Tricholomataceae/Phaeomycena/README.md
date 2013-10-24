@@ -1,5 +1,4 @@
-Phaeomycena R. Heim ex Singer & Digilio GENUS
-=======
+# Phaeomycena R. Heim ex Singer & Digilio GENUS
 
 #### Status
 ACCEPTED

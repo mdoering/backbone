@@ -1,5 +1,4 @@
-Nectria vicina Speg. SPECIES
-=======
+# Nectria vicina Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scolecostigmina maculata (Cooke) U. Braun SPECIES
-=======
+# Scolecostigmina maculata (Cooke) U. Braun SPECIES
 
 #### Status
 ACCEPTED

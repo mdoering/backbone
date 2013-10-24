@@ -1,5 +1,4 @@
-Sclerangium michelii Lév. SPECIES
-=======
+# Sclerangium michelii Lév. SPECIES
 
 #### Status
 ACCEPTED

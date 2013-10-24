@@ -1,5 +1,4 @@
-Phaeomeris GENUS
-=======
+# Phaeomeris GENUS
 
 #### Status
 ACCEPTED

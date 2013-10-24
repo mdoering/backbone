@@ -1,5 +1,4 @@
-Pithomyces trachelospermi X.G. Zhang & T.Y. Zhang SPECIES
-=======
+# Pithomyces trachelospermi X.G. Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

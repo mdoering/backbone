@@ -1,5 +1,4 @@
-Trachelomonas heduma Conrad SPECIES
-=======
+# Trachelomonas heduma Conrad SPECIES
 
 #### Status
 ACCEPTED

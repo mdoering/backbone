@@ -1,5 +1,4 @@
-Pholiota pallidocaulis Y.S. Chang & A.K. Mills SPECIES
-=======
+# Pholiota pallidocaulis Y.S. Chang & A.K. Mills SPECIES
 
 #### Status
 ACCEPTED

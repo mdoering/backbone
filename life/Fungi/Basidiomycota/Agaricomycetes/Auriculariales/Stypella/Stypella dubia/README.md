@@ -1,17 +1,16 @@
-Heterochaetella dubia f. dubia FORM
-=======
+# Stypella dubia (Bourdot & Galzin) P. Roberts, 1998 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomyc. de France (Sceaux) 51 (1928)
+Mycotaxon 69: 216 (1998)
 
 #### Original name
-Heterochaetella dubia f. dubia
+Heterochaete dubia Bourdot & Galzin, 1909
 
 ### Remarks
 null

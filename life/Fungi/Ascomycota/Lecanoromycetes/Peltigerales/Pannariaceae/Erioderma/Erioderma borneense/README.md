@@ -1,5 +1,4 @@
-Erioderma borneense P. M. Jørg. & Sipman SPECIES
-=======
+# Erioderma borneense P. M. Jørg. & Sipman SPECIES
 
 #### Status
 ACCEPTED

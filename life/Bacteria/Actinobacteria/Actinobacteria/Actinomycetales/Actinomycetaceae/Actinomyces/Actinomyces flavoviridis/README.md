@@ -1,5 +1,4 @@
-Actinomyces flavoviridis Krassiln. SPECIES
-=======
+# Actinomyces flavoviridis Krassiln. SPECIES
 
 #### Status
 ACCEPTED

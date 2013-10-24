@@ -1,5 +1,4 @@
-Aecidium gymnolomiae Mayor SPECIES
-=======
+# Aecidium gymnolomiae Mayor SPECIES
 
 #### Status
 ACCEPTED

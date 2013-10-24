@@ -1,5 +1,4 @@
-Caloplaca mouretii B. de Lesd. SPECIES
-=======
+# Caloplaca mouretii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

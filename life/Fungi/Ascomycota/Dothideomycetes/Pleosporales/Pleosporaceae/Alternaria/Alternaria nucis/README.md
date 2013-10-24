@@ -1,5 +1,4 @@
-Alternaria nucis Moesz SPECIES
-=======
+# Alternaria nucis Moesz SPECIES
 
 #### Status
 ACCEPTED

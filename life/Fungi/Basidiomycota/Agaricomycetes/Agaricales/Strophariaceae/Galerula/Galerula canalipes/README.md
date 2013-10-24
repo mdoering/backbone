@@ -1,5 +1,4 @@
-Galerula canalipes Murrill SPECIES
-=======
+# Galerula canalipes Murrill SPECIES
 
 #### Status
 ACCEPTED

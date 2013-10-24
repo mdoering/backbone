@@ -1,17 +1,16 @@
-Geoglossum difforme var. difforme Fr. VARIETY
-=======
+# Geoglossum difforme Fr., 1815 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Observ. mycol. (Havniae) 1: 159 (1815)
 
 #### Original name
-Geoglossum difforme var. difforme Fr.
+Geoglossum difforme Fr., 1815
 
 ### Remarks
 null

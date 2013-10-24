@@ -1,5 +1,4 @@
-Septoria herculis Maire & Werner SPECIES
-=======
+# Septoria herculis Maire & Werner SPECIES
 
 #### Status
 ACCEPTED

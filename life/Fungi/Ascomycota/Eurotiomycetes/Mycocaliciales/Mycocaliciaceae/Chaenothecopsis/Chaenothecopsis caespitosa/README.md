@@ -1,17 +1,16 @@
-Xylobotryum caespitosum A.L. Sm. SPECIES
-=======
+# Chaenothecopsis caespitosa (W. Philips) D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 74(3): 650 (1980)
 
 #### Original name
-Xylobotryum caespitosum A.L. Sm.
+Sphinctrina caespitosa W. Phillips
 
 ### Remarks
 null

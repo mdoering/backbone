@@ -1,5 +1,4 @@
-Neostomella Syd. GENUS
-=======
+# Neostomella Syd. GENUS
 
 #### Status
 ACCEPTED

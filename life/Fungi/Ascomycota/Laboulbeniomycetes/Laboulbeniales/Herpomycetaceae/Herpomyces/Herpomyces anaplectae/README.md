@@ -1,5 +1,4 @@
-Herpomyces anaplectae Thaxt. SPECIES
-=======
+# Herpomyces anaplectae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

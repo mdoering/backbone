@@ -1,5 +1,4 @@
-Cladonia apodocarpa Robbins SPECIES
-=======
+# Cladonia apodocarpa Robbins SPECIES
 
 #### Status
 ACCEPTED

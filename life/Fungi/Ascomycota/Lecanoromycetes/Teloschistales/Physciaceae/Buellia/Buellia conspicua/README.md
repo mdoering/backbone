@@ -1,5 +1,4 @@
-Buellia conspicua f. conspicua FORM
-=======
+# Buellia conspicua (I.M. Lamb) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Buellia conspicua f. conspicua
+Buellia coniops f. incrassata I.M. Lamb
 
 ### Remarks
 null

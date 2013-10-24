@@ -1,8 +1,7 @@
-Rhodomonas minuta Skuja SPECIES
-=======
+# Rhodomonas lacustris Pascher & Ruttner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

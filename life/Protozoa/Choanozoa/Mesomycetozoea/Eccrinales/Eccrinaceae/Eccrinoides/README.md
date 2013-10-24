@@ -1,5 +1,4 @@
-Eccrinoides L. Léger & Duboscq GENUS
-=======
+# Eccrinoides L. Léger & Duboscq GENUS
 
 #### Status
 ACCEPTED

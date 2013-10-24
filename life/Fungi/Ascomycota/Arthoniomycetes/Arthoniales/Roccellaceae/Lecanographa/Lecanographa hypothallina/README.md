@@ -1,5 +1,4 @@
-Lecanographa hypothallina (Zahlbr.) Egea & Torrente SPECIES
-=======
+# Lecanographa hypothallina (Zahlbr.) Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

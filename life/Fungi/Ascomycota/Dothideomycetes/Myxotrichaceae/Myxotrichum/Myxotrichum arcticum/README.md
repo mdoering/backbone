@@ -1,5 +1,4 @@
-Myxotrichum arcticum Udagawa, Uchiy. & Kamiya SPECIES
-=======
+# Myxotrichum arcticum Udagawa, Uchiy. & Kamiya SPECIES
 
 #### Status
 ACCEPTED

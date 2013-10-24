@@ -1,5 +1,4 @@
-Meliola celtidae var. celtidae VARIETY
-=======
+# Meliola celtidae H.S. Yates SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Philipp. J. Sci. , C, Bot. 13: 367 (1918)
 
 #### Original name
-Meliola celtidae var. celtidae
+Meliola celtidae H.S. Yates
 
 ### Remarks
 null

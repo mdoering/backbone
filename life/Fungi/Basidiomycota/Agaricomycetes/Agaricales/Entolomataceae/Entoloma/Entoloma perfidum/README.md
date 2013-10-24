@@ -1,5 +1,4 @@
-Entoloma perfidum E. Horak SPECIES
-=======
+# Entoloma perfidum E. Horak SPECIES
 
 #### Status
 ACCEPTED

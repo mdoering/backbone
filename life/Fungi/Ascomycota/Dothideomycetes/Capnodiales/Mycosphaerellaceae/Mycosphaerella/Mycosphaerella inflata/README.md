@@ -1,5 +1,4 @@
-Mycosphaerella inflata (Penz.) Tomilin SPECIES
-=======
+# Mycosphaerella inflata (Penz.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

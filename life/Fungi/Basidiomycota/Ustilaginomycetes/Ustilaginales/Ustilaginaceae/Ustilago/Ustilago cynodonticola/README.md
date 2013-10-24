@@ -1,5 +1,4 @@
-Ustilago cynodonticola Vánky, R.G. Shivas & A. Witt SPECIES
-=======
+# Ustilago cynodonticola Vánky, R.G. Shivas & A. Witt SPECIES
 
 #### Status
 ACCEPTED

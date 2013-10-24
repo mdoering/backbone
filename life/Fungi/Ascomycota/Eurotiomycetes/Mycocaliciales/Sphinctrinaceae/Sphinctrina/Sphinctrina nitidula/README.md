@@ -1,5 +1,4 @@
-Sphinctrina nitidula Stirt. SPECIES
-=======
+# Sphinctrina nitidula Stirt. SPECIES
 
 #### Status
 ACCEPTED

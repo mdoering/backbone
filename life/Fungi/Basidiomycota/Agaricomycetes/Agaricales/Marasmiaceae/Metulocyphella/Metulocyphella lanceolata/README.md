@@ -1,5 +1,4 @@
-Metulocyphella lanceolata Agerer, 1983 SPECIES
-=======
+# Metulocyphella lanceolata Agerer, 1983 SPECIES
 
 #### Status
 ACCEPTED

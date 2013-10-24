@@ -1,5 +1,4 @@
-Hydnum cirratum Schumach. SPECIES
-=======
+# Hydnum cirratum Schumach. SPECIES
 
 #### Status
 ACCEPTED

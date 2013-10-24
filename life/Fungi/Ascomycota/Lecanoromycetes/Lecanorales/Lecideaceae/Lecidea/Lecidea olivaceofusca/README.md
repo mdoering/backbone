@@ -1,5 +1,4 @@
-Lecidea olivaceofusca (Anzi) Nyl. SPECIES
-=======
+# Lecidea olivaceofusca (Anzi) Nyl. SPECIES
 
 #### Status
 ACCEPTED

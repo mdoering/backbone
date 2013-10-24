@@ -1,5 +1,4 @@
-Menegazzia chrysogaster Bjerke & Elvebakk SPECIES
-=======
+# Menegazzia chrysogaster Bjerke & Elvebakk SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parataeniella flavospora C.Y. Chien & L.H. Hsieh, 2001 SPECIES
-=======
+# Parataeniella flavospora C.Y. Chien & L.H. Hsieh, 2001 SPECIES
 
 #### Status
 ACCEPTED

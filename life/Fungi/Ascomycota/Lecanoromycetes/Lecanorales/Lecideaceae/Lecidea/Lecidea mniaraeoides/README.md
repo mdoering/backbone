@@ -1,5 +1,4 @@
-Lecidea mniaraeoides SPECIES
-=======
+# Lecidea mniaraeoides SPECIES
 
 #### Status
 ACCEPTED

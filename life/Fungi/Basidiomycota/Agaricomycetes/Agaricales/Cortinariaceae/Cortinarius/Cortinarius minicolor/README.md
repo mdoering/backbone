@@ -1,5 +1,4 @@
-Cortinarius minicolor Rob. Henry SPECIES
-=======
+# Cortinarius minicolor Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

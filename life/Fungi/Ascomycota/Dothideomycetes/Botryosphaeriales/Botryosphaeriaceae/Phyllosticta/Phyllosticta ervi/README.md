@@ -1,5 +1,4 @@
-Phyllosticta ervi Westend. SPECIES
-=======
+# Phyllosticta ervi Westend. SPECIES
 
 #### Status
 ACCEPTED

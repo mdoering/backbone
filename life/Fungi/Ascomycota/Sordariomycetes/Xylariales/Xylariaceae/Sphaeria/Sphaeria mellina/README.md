@@ -1,5 +1,4 @@
-Sphaeria mellina Mont. SPECIES
-=======
+# Sphaeria mellina Mont. SPECIES
 
 #### Status
 ACCEPTED

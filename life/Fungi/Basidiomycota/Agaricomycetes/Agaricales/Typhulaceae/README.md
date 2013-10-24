@@ -1,5 +1,4 @@
-Typhulaceae FAMILY
-=======
+# Typhulaceae FAMILY
 
 #### Status
 ACCEPTED

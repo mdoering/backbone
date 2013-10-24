@@ -1,5 +1,4 @@
-Amauroderma nigrum Rick SPECIES
-=======
+# Amauroderma nigrum Rick SPECIES
 
 #### Status
 ACCEPTED

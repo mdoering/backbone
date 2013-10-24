@@ -1,5 +1,4 @@
-Hygrocybe gregaria Leelav., Manim. & Arnolds SPECIES
-=======
+# Hygrocybe gregaria Leelav., Manim. & Arnolds SPECIES
 
 #### Status
 ACCEPTED

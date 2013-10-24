@@ -1,5 +1,4 @@
-Trichophyton faviforme E. Bodin SPECIES
-=======
+# Trichophyton faviforme E. Bodin SPECIES
 
 #### Status
 ACCEPTED

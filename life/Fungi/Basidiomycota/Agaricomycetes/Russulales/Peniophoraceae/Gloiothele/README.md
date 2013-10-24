@@ -1,5 +1,4 @@
-Gloiothele Bresadola, 1920 GENUS
-=======
+# Gloiothele Bresadola, 1920 GENUS
 
 #### Status
 ACCEPTED

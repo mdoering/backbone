@@ -1,5 +1,4 @@
-Mycoporellum difforme (Minks) Fink SPECIES
-=======
+# Mycoporellum difforme (Minks) Fink SPECIES
 
 #### Status
 ACCEPTED

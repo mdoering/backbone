@@ -1,5 +1,4 @@
-Blepharocysta compressa Gaarder, 1954 SPECIES
-=======
+# Blepharocysta compressa Gaarder, 1954 SPECIES
 
 #### Status
 ACCEPTED

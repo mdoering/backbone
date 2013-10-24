@@ -1,5 +1,4 @@
-Bacidia cyanea Houmeau & Cl. Roux SPECIES
-=======
+# Bacidia cyanea Houmeau & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

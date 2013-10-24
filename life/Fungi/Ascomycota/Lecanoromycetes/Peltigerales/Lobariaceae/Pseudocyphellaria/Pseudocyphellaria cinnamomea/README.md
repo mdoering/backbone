@@ -1,5 +1,4 @@
-Pseudocyphellaria cinnamomea (A. Rich.) Vain. SPECIES
-=======
+# Pseudocyphellaria cinnamomea (A. Rich.) Vain. SPECIES
 
 #### Status
 ACCEPTED

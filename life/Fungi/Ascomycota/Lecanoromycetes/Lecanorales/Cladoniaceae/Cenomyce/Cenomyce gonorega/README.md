@@ -1,5 +1,4 @@
-Cenomyce gonorega var. gonorega VARIETY
-=======
+# Cenomyce gonorega SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cenomyce gonorega var. gonorega
+Cenomyce gonorega
 
 ### Remarks
 null

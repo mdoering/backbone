@@ -1,5 +1,4 @@
-Epochniella cladosporioides (Berk.) Sacc. SPECIES
-=======
+# Epochniella cladosporioides (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

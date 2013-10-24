@@ -1,5 +1,4 @@
-Mycena minirubra G. Stev. & G.M. Taylor, 1964 SPECIES
-=======
+# Mycena minirubra G. Stev. & G.M. Taylor, 1964 SPECIES
 
 #### Status
 ACCEPTED

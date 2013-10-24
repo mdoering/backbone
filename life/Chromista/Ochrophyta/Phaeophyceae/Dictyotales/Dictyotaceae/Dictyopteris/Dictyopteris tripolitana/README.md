@@ -1,5 +1,4 @@
-Dictyopteris tripolitana Nizamuddin SPECIES
-=======
+# Dictyopteris tripolitana Nizamuddin SPECIES
 
 #### Status
 ACCEPTED

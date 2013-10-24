@@ -1,5 +1,4 @@
-Sphagnicola marchantiae Velen., 1934 SPECIES
-=======
+# Sphagnicola marchantiae Velen., 1934 SPECIES
 
 #### Status
 ACCEPTED

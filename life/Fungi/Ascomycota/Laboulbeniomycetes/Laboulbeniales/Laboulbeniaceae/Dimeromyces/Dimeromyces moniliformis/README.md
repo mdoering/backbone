@@ -1,5 +1,4 @@
-Dimeromyces moniliformis Thaxt. SPECIES
-=======
+# Dimeromyces moniliformis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

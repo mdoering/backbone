@@ -1,5 +1,4 @@
-Phlyctidium anatropum (A. Braun) Sparrow SPECIES
-=======
+# Phlyctidium anatropum (A. Braun) Sparrow SPECIES
 
 #### Status
 ACCEPTED

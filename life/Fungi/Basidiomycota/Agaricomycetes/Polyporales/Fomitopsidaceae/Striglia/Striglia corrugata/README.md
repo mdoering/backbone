@@ -1,5 +1,4 @@
-Striglia corrugata (Klotzsch) Kuntze SPECIES
-=======
+# Striglia corrugata (Klotzsch) Kuntze SPECIES
 
 #### Status
 ACCEPTED

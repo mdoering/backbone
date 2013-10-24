@@ -1,5 +1,4 @@
-Hydnum inodorum Britzelm. SPECIES
-=======
+# Hydnum inodorum Britzelm. SPECIES
 
 #### Status
 ACCEPTED

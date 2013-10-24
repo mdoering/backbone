@@ -1,5 +1,4 @@
-Ceraceomyces variicolor (G. Cunn.) Stalpers, 1985 SPECIES
-=======
+# Ceraceomyces variicolor (G. Cunn.) Stalpers, 1985 SPECIES
 
 #### Status
 ACCEPTED

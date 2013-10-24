@@ -1,5 +1,4 @@
-Pseudodiplodia ligniaria (P. Karst.) Sacc. SPECIES
-=======
+# Pseudodiplodia ligniaria (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

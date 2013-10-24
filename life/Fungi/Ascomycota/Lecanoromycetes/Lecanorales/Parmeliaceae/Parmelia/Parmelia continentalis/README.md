@@ -1,5 +1,4 @@
-Parmelia continentalis Lynge SPECIES
-=======
+# Parmelia continentalis Lynge SPECIES
 
 #### Status
 ACCEPTED

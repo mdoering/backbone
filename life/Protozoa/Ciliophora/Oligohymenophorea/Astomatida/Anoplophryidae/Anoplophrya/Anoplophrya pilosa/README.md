@@ -1,5 +1,4 @@
-Anoplophrya pilosa SPECIES
-=======
+# Anoplophrya pilosa SPECIES
 
 #### Status
 ACCEPTED

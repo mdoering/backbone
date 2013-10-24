@@ -1,5 +1,4 @@
-Entyloma incertum Cif. SPECIES
-=======
+# Entyloma incertum Cif. SPECIES
 
 #### Status
 ACCEPTED

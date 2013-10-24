@@ -1,5 +1,4 @@
-Agaricus exerrans Britzelm. SPECIES
-=======
+# Agaricus exerrans Britzelm. SPECIES
 
 #### Status
 ACCEPTED

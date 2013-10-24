@@ -1,5 +1,4 @@
-Hendersonula Spegazzini, 1880 GENUS
-=======
+# Hendersonula Spegazzini, 1880 GENUS
 
 #### Status
 ACCEPTED

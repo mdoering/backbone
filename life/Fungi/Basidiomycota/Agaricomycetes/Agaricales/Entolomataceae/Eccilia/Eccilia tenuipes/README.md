@@ -1,5 +1,4 @@
-Eccilia tenuipes Murrill SPECIES
-=======
+# Eccilia tenuipes Murrill SPECIES
 
 #### Status
 ACCEPTED

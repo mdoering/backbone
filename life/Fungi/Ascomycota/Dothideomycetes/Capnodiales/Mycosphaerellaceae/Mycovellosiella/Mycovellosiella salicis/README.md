@@ -1,5 +1,4 @@
-Mycovellosiella salicis Deighton, R.K. Verma & Prasad SPECIES
-=======
+# Mycovellosiella salicis Deighton, R.K. Verma & Prasad SPECIES
 
 #### Status
 ACCEPTED

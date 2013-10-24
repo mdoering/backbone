@@ -1,5 +1,4 @@
-Herpomyces amazonicus Thaxt. SPECIES
-=======
+# Herpomyces amazonicus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

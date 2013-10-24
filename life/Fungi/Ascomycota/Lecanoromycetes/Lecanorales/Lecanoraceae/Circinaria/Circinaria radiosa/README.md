@@ -1,5 +1,4 @@
-Circinaria radiosa f. radiosa FORM
-=======
+# Circinaria radiosa M. Choisy SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Circinaria radiosa f. radiosa
+Circinaria radiosa M. Choisy
 
 ### Remarks
 null

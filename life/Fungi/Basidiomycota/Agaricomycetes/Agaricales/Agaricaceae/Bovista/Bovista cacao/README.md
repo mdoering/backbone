@@ -1,5 +1,4 @@
-Bovista cacao P. Ponce de León SPECIES
-=======
+# Bovista cacao P. Ponce de León SPECIES
 
 #### Status
 ACCEPTED

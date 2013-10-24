@@ -1,5 +1,4 @@
-Tapesia chlorotica (Fr.) Fuckel SPECIES
-=======
+# Tapesia chlorotica (Fr.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

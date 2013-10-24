@@ -1,5 +1,4 @@
-Ephelis viridans (Kalchbr. & Cooke) Sacc. SPECIES
-=======
+# Ephelis viridans (Kalchbr. & Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

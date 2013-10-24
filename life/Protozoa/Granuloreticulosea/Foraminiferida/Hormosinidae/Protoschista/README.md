@@ -1,5 +1,4 @@
-Protoschista Eimer & Fickert, 1899 GENUS
-=======
+# Protoschista Eimer & Fickert, 1899 GENUS
 
 #### Status
 ACCEPTED

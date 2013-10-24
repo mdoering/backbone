@@ -1,5 +1,4 @@
-Phacus anomalus F.E. Fritsch & M.F. Rich, 1929 SPECIES
-=======
+# Phacus anomalus F.E. Fritsch & M.F. Rich, 1929 SPECIES
 
 #### Status
 ACCEPTED

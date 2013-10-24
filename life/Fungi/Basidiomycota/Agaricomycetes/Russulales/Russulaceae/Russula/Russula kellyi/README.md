@@ -1,5 +1,4 @@
-Russula kellyi Burl. SPECIES
-=======
+# Russula kellyi Burl. SPECIES
 
 #### Status
 ACCEPTED

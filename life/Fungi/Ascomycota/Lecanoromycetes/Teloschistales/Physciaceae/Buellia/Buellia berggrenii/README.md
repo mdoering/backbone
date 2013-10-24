@@ -1,5 +1,4 @@
-Buellia berggrenii H. Magn. SPECIES
-=======
+# Buellia berggrenii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calonectria minutissima Grove, 1930 SPECIES
-=======
+# Calonectria minutissima Grove, 1930 SPECIES
 
 #### Status
 ACCEPTED

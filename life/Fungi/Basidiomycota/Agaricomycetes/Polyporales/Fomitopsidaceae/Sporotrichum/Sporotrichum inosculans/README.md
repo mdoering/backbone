@@ -1,5 +1,4 @@
-Sporotrichum inosculans Berk. SPECIES
-=======
+# Sporotrichum inosculans Berk. SPECIES
 
 #### Status
 ACCEPTED

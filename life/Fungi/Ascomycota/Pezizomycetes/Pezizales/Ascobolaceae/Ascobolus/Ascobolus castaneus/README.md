@@ -1,5 +1,4 @@
-Ascobolus castaneus Teng SPECIES
-=======
+# Ascobolus castaneus Teng SPECIES
 
 #### Status
 ACCEPTED

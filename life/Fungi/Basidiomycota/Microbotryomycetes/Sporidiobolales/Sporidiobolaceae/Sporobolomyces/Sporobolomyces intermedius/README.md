@@ -1,5 +1,4 @@
-Sporobolomyces intermedius (Nakase & M. Suzuki) Nakase & M. Suzuki SPECIES
-=======
+# Sporobolomyces intermedius (Nakase & M. Suzuki) Nakase & M. Suzuki SPECIES
 
 #### Status
 ACCEPTED

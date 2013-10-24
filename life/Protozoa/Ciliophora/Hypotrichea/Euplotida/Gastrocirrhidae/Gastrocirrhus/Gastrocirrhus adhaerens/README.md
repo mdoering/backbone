@@ -1,5 +1,4 @@
-Gastrocirrhus adhaerens Faure-Fremiet, 1954 SPECIES
-=======
+# Gastrocirrhus adhaerens Faure-Fremiet, 1954 SPECIES
 
 #### Status
 ACCEPTED

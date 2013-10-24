@@ -1,5 +1,4 @@
-Opercularia frondicola SPECIES
-=======
+# Opercularia frondicola SPECIES
 
 #### Status
 ACCEPTED

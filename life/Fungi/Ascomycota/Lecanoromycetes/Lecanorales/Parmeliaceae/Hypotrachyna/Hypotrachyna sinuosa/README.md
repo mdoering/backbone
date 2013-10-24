@@ -1,17 +1,16 @@
-Imbricaria sinuosa var. angustifolia Anzi VARIETY
-=======
+# Hypotrachyna sinuosa (Sm.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Smithson. Contr. bot. 25: 63 (1975)
 
 #### Original name
-Imbricaria sinuosa var. angustifolia Anzi
+Lichen sinuosus Sm.
 
 ### Remarks
 null

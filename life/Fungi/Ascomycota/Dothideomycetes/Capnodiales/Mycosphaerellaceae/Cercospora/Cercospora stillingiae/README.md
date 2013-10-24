@@ -1,5 +1,4 @@
-Cercospora stillingiae Ellis & Everh. SPECIES
-=======
+# Cercospora stillingiae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

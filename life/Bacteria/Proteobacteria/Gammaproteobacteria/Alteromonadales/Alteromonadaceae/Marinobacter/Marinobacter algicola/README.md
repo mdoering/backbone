@@ -1,5 +1,4 @@
-Marinobacter algicola Green et al., 2006 SPECIES
-=======
+# Marinobacter algicola Green et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

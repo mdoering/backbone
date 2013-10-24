@@ -1,17 +1,16 @@
-Parmelia endococcinea (Müll. Arg.) Gyeln. SPECIES
-=======
+# Relicina subabstrusa (Gyeln.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 28: 485 (1974)
 
 #### Original name
-Parmelia limbata f. endococcinea Müll. Arg.
+Parmelia subabstrusa Gyeln.
 
 ### Remarks
 null

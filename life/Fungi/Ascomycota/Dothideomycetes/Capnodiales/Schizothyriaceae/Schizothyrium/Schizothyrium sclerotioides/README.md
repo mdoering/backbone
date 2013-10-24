@@ -1,5 +1,4 @@
-Schizothyrium sclerotioides (Duby) Sacc. SPECIES
-=======
+# Schizothyrium sclerotioides (Duby) Sacc. SPECIES
 
 #### Status
 ACCEPTED

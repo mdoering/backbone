@@ -1,5 +1,4 @@
-Verrucaria aurantia (Pers.) Wibel SPECIES
-=======
+# Verrucaria aurantia (Pers.) Wibel SPECIES
 
 #### Status
 ACCEPTED

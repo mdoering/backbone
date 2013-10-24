@@ -1,5 +1,4 @@
-Polythelis GENUS
-=======
+# Polythelis GENUS
 
 #### Status
 ACCEPTED

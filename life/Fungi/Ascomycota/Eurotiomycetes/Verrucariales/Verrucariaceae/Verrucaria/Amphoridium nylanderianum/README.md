@@ -1,5 +1,4 @@
-Amphoridium nylanderianum (Servít) Servít SPECIES
-=======
+# Amphoridium nylanderianum (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

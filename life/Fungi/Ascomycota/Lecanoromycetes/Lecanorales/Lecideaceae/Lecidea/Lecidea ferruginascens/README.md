@@ -1,5 +1,4 @@
-Lecidea ferruginascens (Nyl.) Hue SPECIES
-=======
+# Lecidea ferruginascens (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

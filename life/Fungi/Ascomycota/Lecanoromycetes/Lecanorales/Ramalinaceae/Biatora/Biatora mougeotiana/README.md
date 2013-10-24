@@ -1,5 +1,4 @@
-Biatora mougeotiana (Duby) Acloque SPECIES
-=======
+# Biatora mougeotiana (Duby) Acloque SPECIES
 
 #### Status
 ACCEPTED

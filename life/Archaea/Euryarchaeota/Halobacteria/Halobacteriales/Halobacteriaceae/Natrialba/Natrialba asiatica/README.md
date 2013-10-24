@@ -1,5 +1,4 @@
-Natrialba asiatica Kamekura & Dyall-Smith, 1996 SPECIES
-=======
+# Natrialba asiatica Kamekura & Dyall-Smith, 1996 SPECIES
 
 #### Status
 ACCEPTED

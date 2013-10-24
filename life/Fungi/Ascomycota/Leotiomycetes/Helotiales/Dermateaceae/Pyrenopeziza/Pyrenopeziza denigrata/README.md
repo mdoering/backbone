@@ -1,5 +1,4 @@
-Pyrenopeziza denigrata (Kunze) Rehm SPECIES
-=======
+# Pyrenopeziza denigrata (Kunze) Rehm SPECIES
 
 #### Status
 ACCEPTED

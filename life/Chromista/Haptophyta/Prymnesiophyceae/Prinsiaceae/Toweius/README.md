@@ -1,5 +1,4 @@
-Toweius W.W. Hay & H. Mohler, 1967 GENUS
-=======
+# Toweius W.W. Hay & H. Mohler, 1967 GENUS
 
 #### Status
 ACCEPTED

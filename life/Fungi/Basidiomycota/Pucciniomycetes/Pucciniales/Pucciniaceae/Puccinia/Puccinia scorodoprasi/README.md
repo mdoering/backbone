@@ -1,5 +1,4 @@
-Puccinia scorodoprasi Lind SPECIES
-=======
+# Puccinia scorodoprasi Lind SPECIES
 
 #### Status
 ACCEPTED

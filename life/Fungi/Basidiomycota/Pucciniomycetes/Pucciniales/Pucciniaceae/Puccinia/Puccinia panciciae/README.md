@@ -1,5 +1,4 @@
-Puccinia panciciae Picb. SPECIES
-=======
+# Puccinia panciciae Picb. SPECIES
 
 #### Status
 ACCEPTED

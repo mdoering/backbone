@@ -1,5 +1,4 @@
-Conchellium Haeckel, 1887 GENUS
-=======
+# Conchellium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

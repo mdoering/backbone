@@ -1,5 +1,4 @@
-Anthostoma cocoës Höhn. SPECIES
-=======
+# Anthostoma cocoës Höhn. SPECIES
 
 #### Status
 ACCEPTED

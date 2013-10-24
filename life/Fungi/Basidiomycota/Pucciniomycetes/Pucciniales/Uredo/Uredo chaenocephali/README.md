@@ -1,5 +1,4 @@
-Uredo chaenocephali Speg. SPECIES
-=======
+# Uredo chaenocephali Speg. SPECIES
 
 #### Status
 ACCEPTED

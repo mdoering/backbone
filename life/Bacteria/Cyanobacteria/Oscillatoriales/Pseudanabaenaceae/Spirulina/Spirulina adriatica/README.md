@@ -1,5 +1,4 @@
-Spirulina adriatica Hauck SPECIES
-=======
+# Spirulina adriatica Hauck SPECIES
 
 #### Status
 ACCEPTED

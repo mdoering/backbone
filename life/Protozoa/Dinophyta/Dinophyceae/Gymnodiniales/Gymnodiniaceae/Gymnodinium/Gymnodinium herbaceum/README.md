@@ -1,5 +1,4 @@
-Gymnodinium herbaceum Kofoid SPECIES
-=======
+# Gymnodinium herbaceum Kofoid SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dorothia rotunda (Chapman) SPECIES
-=======
+# Dorothia rotunda (Chapman) SPECIES
 
 #### Status
 ACCEPTED

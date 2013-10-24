@@ -1,5 +1,4 @@
-Cothurnia hofkeri Kahl, 1933 SPECIES
-=======
+# Cothurnia hofkeri Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

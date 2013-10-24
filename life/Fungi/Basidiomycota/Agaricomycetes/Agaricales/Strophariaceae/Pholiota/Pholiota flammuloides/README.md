@@ -1,5 +1,4 @@
-Pholiota flammuloides M.M. Moser SPECIES
-=======
+# Pholiota flammuloides M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

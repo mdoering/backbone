@@ -1,5 +1,4 @@
-Gasparrinia diploplaca var. diploplaca VARIETY
-=======
+# Gasparrinia diploplaca (Zahlbr.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 38: 108 (1971)
 
 #### Original name
-Gasparrinia diploplaca var. diploplaca
+Caloplaca diploplaca Zahlbr.
 
 ### Remarks
 null

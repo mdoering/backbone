@@ -1,5 +1,4 @@
-Agaricus hondensis Murrill SPECIES
-=======
+# Agaricus hondensis Murrill SPECIES
 
 #### Status
 ACCEPTED

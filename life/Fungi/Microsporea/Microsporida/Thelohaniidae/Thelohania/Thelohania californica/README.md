@@ -1,5 +1,4 @@
-Thelohania californica Weiser SPECIES
-=======
+# Thelohania californica Weiser SPECIES
 
 #### Status
 ACCEPTED

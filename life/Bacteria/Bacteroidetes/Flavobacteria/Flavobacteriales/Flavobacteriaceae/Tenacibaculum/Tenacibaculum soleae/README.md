@@ -1,5 +1,4 @@
-Tenacibaculum soleae Pineiro-Vidal, Carballas, Gomez-Barreiro, Riaza & Santos, 2008 SPECIES
-=======
+# Tenacibaculum soleae Pineiro-Vidal, Carballas, Gomez-Barreiro, Riaza & Santos, 2008 SPECIES
 
 #### Status
 ACCEPTED

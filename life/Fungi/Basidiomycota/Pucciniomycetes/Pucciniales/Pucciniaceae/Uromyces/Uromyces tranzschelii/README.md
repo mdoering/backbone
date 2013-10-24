@@ -1,5 +1,4 @@
-Uromyces tranzschelii Syd. & P. Syd. SPECIES
-=======
+# Uromyces tranzschelii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudopyrenula ubianensis Vain. SPECIES
-=======
+# Pseudopyrenula ubianensis Vain. SPECIES
 
 #### Status
 ACCEPTED

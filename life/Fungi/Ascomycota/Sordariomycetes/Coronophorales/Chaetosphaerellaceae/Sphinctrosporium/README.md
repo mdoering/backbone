@@ -1,5 +1,4 @@
-Sphinctrosporium GENUS
-=======
+# Sphinctrosporium GENUS
 
 #### Status
 ACCEPTED

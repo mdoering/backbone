@@ -1,5 +1,4 @@
-Acremonium flavum W. Gams, 1972 SPECIES
-=======
+# Acremonium flavum W. Gams, 1972 SPECIES
 
 #### Status
 ACCEPTED

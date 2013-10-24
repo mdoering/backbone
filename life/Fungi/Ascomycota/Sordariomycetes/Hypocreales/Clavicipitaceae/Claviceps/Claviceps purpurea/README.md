@@ -1,17 +1,16 @@
-Sclerotium clavus f. clavus FORM
-=======
+# Claviceps purpurea (Fr.) Tul., 1853 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in de Candolle & Lamarck, Fl. franç. (Paris), Edn 3 5/6: 115 (1815)
+in Saccardo, Syll. fung. (Abellini) 2: 564 (1883)
 
 #### Original name
-Sclerotium clavus f. clavus
+Sphaeria purpurea Fr., 1823
 
 ### Remarks
 null

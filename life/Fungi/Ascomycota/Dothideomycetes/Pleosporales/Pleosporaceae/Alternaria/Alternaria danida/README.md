@@ -1,5 +1,4 @@
-Alternaria danida E.G. Simmons SPECIES
-=======
+# Alternaria danida E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

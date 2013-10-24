@@ -1,5 +1,4 @@
-Hypogymnia fragillima (Hillmann) Rass. SPECIES
-=======
+# Hypogymnia fragillima (Hillmann) Rass. SPECIES
 
 #### Status
 ACCEPTED

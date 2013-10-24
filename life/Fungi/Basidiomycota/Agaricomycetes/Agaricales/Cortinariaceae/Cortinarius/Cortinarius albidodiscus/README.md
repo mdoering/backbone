@@ -1,5 +1,4 @@
-Cortinarius albidodiscus Bidaud & Fillion SPECIES
-=======
+# Cortinarius albidodiscus Bidaud & Fillion SPECIES
 
 #### Status
 ACCEPTED

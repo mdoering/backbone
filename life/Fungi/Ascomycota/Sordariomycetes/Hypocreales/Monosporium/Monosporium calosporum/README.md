@@ -1,5 +1,4 @@
-Monosporium calosporum Höhn. SPECIES
-=======
+# Monosporium calosporum Höhn. SPECIES
 
 #### Status
 ACCEPTED

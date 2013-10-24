@@ -1,5 +1,4 @@
-Boletus griseipurpureus Corner SPECIES
-=======
+# Boletus griseipurpureus Corner SPECIES
 
 #### Status
 ACCEPTED

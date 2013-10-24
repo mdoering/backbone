@@ -1,5 +1,4 @@
-Leucoagaricus subflavus T.K.A. Kumar & Manim. SPECIES
-=======
+# Leucoagaricus subflavus T.K.A. Kumar & Manim. SPECIES
 
 #### Status
 ACCEPTED

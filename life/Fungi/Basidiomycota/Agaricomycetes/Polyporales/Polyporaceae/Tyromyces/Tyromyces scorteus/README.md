@@ -1,5 +1,4 @@
-Tyromyces scorteus Corner SPECIES
-=======
+# Tyromyces scorteus Corner SPECIES
 
 #### Status
 ACCEPTED

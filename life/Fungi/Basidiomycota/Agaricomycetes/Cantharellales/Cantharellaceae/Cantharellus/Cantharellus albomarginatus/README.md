@@ -1,5 +1,4 @@
-Cantharellus albomarginatus (Coker) Corner SPECIES
-=======
+# Cantharellus albomarginatus (Coker) Corner SPECIES
 
 #### Status
 ACCEPTED

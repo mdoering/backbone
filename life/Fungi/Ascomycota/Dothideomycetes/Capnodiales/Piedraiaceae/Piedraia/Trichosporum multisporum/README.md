@@ -1,5 +1,4 @@
-Trichosporum multisporum G. Cochet SPECIES
-=======
+# Trichosporum multisporum G. Cochet SPECIES
 
 #### Status
 ACCEPTED

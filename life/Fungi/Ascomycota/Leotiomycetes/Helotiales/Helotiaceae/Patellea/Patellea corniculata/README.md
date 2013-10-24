@@ -1,5 +1,4 @@
-Patellea corniculata Velen. SPECIES
-=======
+# Patellea corniculata Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cretarhabdus striatus SPECIES
-=======
+# Cretarhabdus striatus SPECIES
 
 #### Status
 ACCEPTED

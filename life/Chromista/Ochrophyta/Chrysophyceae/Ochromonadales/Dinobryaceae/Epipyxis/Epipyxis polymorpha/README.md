@@ -1,5 +1,4 @@
-Epipyxis polymorpha (J.W.G. Lund) Hilliard & Asmund SPECIES
-=======
+# Epipyxis polymorpha (J.W.G. Lund) Hilliard & Asmund SPECIES
 
 #### Status
 ACCEPTED

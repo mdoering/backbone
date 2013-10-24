@@ -1,5 +1,4 @@
-Leucosporidium fasciculatum Babeva & Lisichk. SPECIES
-=======
+# Leucosporidium fasciculatum Babeva & Lisichk. SPECIES
 
 #### Status
 ACCEPTED

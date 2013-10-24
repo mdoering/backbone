@@ -1,17 +1,16 @@
-Ustilago rhynchosporae Saut., 1854 SPECIES
-=======
+# Ustanciosporium gigantosporum (Liro) M. Piepenbr., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Klotzsch & Rabenhorst, Bot. Ztg. 12: 190 (1854)
+Nova Hedwigia 70(3-4): 339 (2000)
 
 #### Original name
-Ustilago rhynchosporae Saut., 1854
+Cintractia gigantospora Liro, 1935
 
 ### Remarks
 null

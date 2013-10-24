@@ -1,5 +1,4 @@
-Phaeomarasmius hispidulus E. Horak SPECIES
-=======
+# Phaeomarasmius hispidulus E. Horak SPECIES
 
 #### Status
 ACCEPTED

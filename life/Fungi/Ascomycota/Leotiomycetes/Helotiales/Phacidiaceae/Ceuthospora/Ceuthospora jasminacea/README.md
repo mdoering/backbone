@@ -1,5 +1,4 @@
-Ceuthospora jasminacea Moesz SPECIES
-=======
+# Ceuthospora jasminacea Moesz SPECIES
 
 #### Status
 ACCEPTED

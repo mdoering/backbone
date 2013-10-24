@@ -1,17 +1,16 @@
-Galerina atkinsoniana f. atkinsoniana FORM
-=======
+# Galerina atkinsoniana A.H. Sm., 1953 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mycologia 45: 894 (1953)
 
 #### Original name
-Galerina atkinsoniana f. atkinsoniana
+Galerina atkinsoniana A.H. Sm., 1953
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Inocybe violascens Quél. SPECIES
-=======
+# Inocybe violascens Quél. SPECIES
 
 #### Status
 ACCEPTED

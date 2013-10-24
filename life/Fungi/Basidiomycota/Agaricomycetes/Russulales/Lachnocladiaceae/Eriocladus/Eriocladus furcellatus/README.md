@@ -1,5 +1,4 @@
-Eriocladus furcellatus (Fr.) Lév. SPECIES
-=======
+# Eriocladus furcellatus (Fr.) Lév. SPECIES
 
 #### Status
 ACCEPTED

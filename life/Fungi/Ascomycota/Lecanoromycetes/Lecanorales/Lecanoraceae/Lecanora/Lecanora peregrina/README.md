@@ -1,5 +1,4 @@
-Lecanora peregrina Samp. SPECIES
-=======
+# Lecanora peregrina Samp. SPECIES
 
 #### Status
 ACCEPTED

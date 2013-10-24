@@ -1,5 +1,4 @@
-Armillaria bruchii Speg. SPECIES
-=======
+# Armillaria bruchii Speg. SPECIES
 
 #### Status
 ACCEPTED

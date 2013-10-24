@@ -1,5 +1,4 @@
-Gomphus columellus (Scop.) Pers. SPECIES
-=======
+# Gomphus columellus (Scop.) Pers. SPECIES
 
 #### Status
 ACCEPTED

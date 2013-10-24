@@ -1,5 +1,4 @@
-Stilbum camerunense Henn. SPECIES
-=======
+# Stilbum camerunense Henn. SPECIES
 
 #### Status
 ACCEPTED

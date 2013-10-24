@@ -1,5 +1,4 @@
-Chaetophoma maculans G. Winter SPECIES
-=======
+# Chaetophoma maculans G. Winter SPECIES
 
 #### Status
 ACCEPTED

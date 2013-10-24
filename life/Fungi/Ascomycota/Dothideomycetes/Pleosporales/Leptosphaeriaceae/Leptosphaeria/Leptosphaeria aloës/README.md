@@ -1,5 +1,4 @@
-Leptosphaeria aloës Dias & Sousa da Câmara SPECIES
-=======
+# Leptosphaeria aloës Dias & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

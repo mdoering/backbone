@@ -1,17 +1,16 @@
-Phyllachora apiculata Sacc. & Berl. ex F.M. Bailey, 1909 SPECIES
-=======
+# Dothidella apiculata Sacc. & Berl., 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Compr. Cat. Queensland Pl. (1909)
+Revue mycol. , Toulouse 7: (1885)
 
 #### Original name
-Phyllachora apiculata Sacc. & Berl. ex F.M. Bailey, 1909
+Dothidella apiculata Sacc. & Berl., 1885
 
 ### Remarks
 null

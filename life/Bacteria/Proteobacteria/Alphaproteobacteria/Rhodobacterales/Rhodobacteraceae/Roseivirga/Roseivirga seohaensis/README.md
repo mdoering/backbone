@@ -1,8 +1,7 @@
-Marinicola seohaensis Yoon et al., 2005 SPECIES
-=======
+# Roseivirga seohaensis (Yoon et al., 2005) Lau et al., 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

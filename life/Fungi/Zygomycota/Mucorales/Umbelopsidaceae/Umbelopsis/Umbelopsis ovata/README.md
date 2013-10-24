@@ -1,14 +1,13 @@
-Mortierella ovata H.Y. Yip, 1982 SPECIES
-=======
+# Umbelopsis ovata (H.Y. Yip) H.Y. Yip, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 79(1): 164 (1982)
+Trans. Br. mycol. Soc. 86(2): 334 (1986)
 
 #### Original name
 Mortierella ovata H.Y. Yip, 1982

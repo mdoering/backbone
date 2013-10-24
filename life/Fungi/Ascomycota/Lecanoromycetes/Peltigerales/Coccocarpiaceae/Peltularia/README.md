@@ -1,5 +1,4 @@
-Peltularia R. Sant. GENUS
-=======
+# Peltularia R. Sant. GENUS
 
 #### Status
 ACCEPTED

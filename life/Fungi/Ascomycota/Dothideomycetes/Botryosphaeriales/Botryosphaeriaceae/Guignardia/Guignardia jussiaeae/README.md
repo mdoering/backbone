@@ -1,5 +1,4 @@
-Guignardia jussiaeae F. Stevens SPECIES
-=======
+# Guignardia jussiaeae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

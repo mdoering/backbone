@@ -1,5 +1,4 @@
-Postia alni Niemelä & Vampola SPECIES
-=======
+# Postia alni Niemelä & Vampola SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discella variabilis Ellis SPECIES
-=======
+# Discella variabilis Ellis SPECIES
 
 #### Status
 ACCEPTED

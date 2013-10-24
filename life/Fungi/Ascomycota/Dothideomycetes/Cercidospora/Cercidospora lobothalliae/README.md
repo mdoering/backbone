@@ -1,5 +1,4 @@
-Cercidospora lobothalliae Nav.-Ros. & Calat., 2004 SPECIES
-=======
+# Cercidospora lobothalliae Nav.-Ros. & Calat., 2004 SPECIES
 
 #### Status
 ACCEPTED

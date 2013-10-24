@@ -1,5 +1,4 @@
-Pleurotus chaetophyllus Sacc. SPECIES
-=======
+# Pleurotus chaetophyllus Sacc. SPECIES
 
 #### Status
 ACCEPTED

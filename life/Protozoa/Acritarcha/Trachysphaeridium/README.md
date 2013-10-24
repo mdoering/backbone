@@ -1,5 +1,4 @@
-Trachysphaeridium B.V. Timofeev ex B.V. Timofeev, 1966 GENUS
-=======
+# Trachysphaeridium B.V. Timofeev ex B.V. Timofeev, 1966 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyttarocylis pseudannulata SPECIES
-=======
+# Cyttarocylis pseudannulata SPECIES
 
 #### Status
 ACCEPTED

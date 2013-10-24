@@ -1,5 +1,4 @@
-Astrothelium parmularia Leight. SPECIES
-=======
+# Astrothelium parmularia Leight. SPECIES
 
 #### Status
 ACCEPTED

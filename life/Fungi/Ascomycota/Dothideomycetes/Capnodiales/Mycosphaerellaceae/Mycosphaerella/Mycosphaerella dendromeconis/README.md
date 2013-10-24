@@ -1,5 +1,4 @@
-Mycosphaerella dendromeconis (Cooke & Harkn.) Earle SPECIES
-=======
+# Mycosphaerella dendromeconis (Cooke & Harkn.) Earle SPECIES
 
 #### Status
 ACCEPTED

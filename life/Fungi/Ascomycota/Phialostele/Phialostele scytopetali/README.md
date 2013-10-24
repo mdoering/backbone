@@ -1,5 +1,4 @@
-Phialostele scytopetali Deighton, 1969 SPECIES
-=======
+# Phialostele scytopetali Deighton, 1969 SPECIES
 
 #### Status
 ACCEPTED

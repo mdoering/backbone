@@ -1,5 +1,4 @@
-Irenina cryptocarpa (Ellis & G. Martin) Hansf. SPECIES
-=======
+# Irenina cryptocarpa (Ellis & G. Martin) Hansf. SPECIES
 
 #### Status
 ACCEPTED

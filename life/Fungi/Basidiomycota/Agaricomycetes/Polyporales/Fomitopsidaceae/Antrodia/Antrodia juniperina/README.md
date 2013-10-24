@@ -1,14 +1,13 @@
-Agaricus juniperinus Murrill, 1905 SPECIES
-=======
+# Antrodia juniperina (Murrill) Niemelä & Ryvarden, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 32(2): 85 (1905)
+Trans. Br. mycol. Soc. 65: 3 (1975)
 
 #### Original name
 Agaricus juniperinus Murrill, 1905

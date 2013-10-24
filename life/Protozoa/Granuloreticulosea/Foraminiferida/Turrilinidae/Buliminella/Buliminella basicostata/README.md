@@ -1,5 +1,4 @@
-Buliminella basicostata SPECIES
-=======
+# Buliminella basicostata SPECIES
 
 #### Status
 ACCEPTED

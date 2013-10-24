@@ -1,5 +1,4 @@
-Hydrocybe flavolutea Murrill SPECIES
-=======
+# Hydrocybe flavolutea Murrill SPECIES
 
 #### Status
 ACCEPTED

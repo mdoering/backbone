@@ -1,5 +1,4 @@
-Lecidella intricata (Hepp) Bausch SPECIES
-=======
+# Lecidella intricata (Hepp) Bausch SPECIES
 
 #### Status
 ACCEPTED

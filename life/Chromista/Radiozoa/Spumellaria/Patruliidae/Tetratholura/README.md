@@ -1,5 +1,4 @@
-Tetratholura Dumitrica, 1989 GENUS
-=======
+# Tetratholura Dumitrica, 1989 GENUS
 
 #### Status
 ACCEPTED

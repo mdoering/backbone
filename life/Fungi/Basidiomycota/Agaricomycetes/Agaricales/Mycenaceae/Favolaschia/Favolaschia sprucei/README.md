@@ -1,14 +1,13 @@
-Favolus sprucei Berk., 1856 SPECIES
-=======
+# Favolaschia sprucei (Berk.) Singer, 1945 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hooker's J. Bot. Kew Gard. Misc. 8: 237 (1856)
+Lloydia 8: 202 (1945)
 
 #### Original name
 Favolus sprucei Berk., 1856

@@ -1,5 +1,4 @@
-Lecidea cretacea (Müll. Arg.) Hue SPECIES
-=======
+# Lecidea cretacea (Müll. Arg.) Hue SPECIES
 
 #### Status
 ACCEPTED

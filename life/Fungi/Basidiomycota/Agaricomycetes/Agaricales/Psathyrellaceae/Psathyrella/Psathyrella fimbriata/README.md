@@ -1,5 +1,4 @@
-Psathyrella fimbriata (A.M. Young) Ew. Gerhardt SPECIES
-=======
+# Psathyrella fimbriata (A.M. Young) Ew. Gerhardt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophodermium ellipticum Y.R. Lin SPECIES
-=======
+# Lophodermium ellipticum Y.R. Lin SPECIES
 
 #### Status
 ACCEPTED

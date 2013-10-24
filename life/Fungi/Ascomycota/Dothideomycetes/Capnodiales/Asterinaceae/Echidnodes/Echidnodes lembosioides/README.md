@@ -1,5 +1,4 @@
-Echidnodes lembosioides Doidge SPECIES
-=======
+# Echidnodes lembosioides Doidge SPECIES
 
 #### Status
 ACCEPTED

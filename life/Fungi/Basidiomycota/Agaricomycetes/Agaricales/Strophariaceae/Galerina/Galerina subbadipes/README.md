@@ -1,5 +1,4 @@
-Galerina subbadipes Huijsman, 1955 SPECIES
-=======
+# Galerina subbadipes Huijsman, 1955 SPECIES
 
 #### Status
 ACCEPTED

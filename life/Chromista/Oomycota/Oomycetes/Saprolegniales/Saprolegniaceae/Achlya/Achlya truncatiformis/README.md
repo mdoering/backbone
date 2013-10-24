@@ -1,5 +1,4 @@
-Achlya truncatiformis M.W. Dick & Mark A. Spencer SPECIES
-=======
+# Achlya truncatiformis M.W. Dick & Mark A. Spencer SPECIES
 
 #### Status
 ACCEPTED

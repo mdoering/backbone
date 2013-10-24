@@ -1,5 +1,4 @@
-Ninella Malakhova, 1975 GENUS
-=======
+# Ninella Malakhova, 1975 GENUS
 
 #### Status
 ACCEPTED

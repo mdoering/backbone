@@ -1,5 +1,4 @@
-Tubercularia expallens Fr. SPECIES
-=======
+# Tubercularia expallens Fr. SPECIES
 
 #### Status
 ACCEPTED

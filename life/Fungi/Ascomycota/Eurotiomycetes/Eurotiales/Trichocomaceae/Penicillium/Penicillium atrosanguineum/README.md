@@ -1,17 +1,16 @@
-Penicillium mangini Duché & R. Heim SPECIES
-=======
+# Penicillium atrosanguineum B.X. Dong, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ceská Mykol. 27(3): 174 (1973)
 
 #### Original name
-Penicillium mangini Duché & R. Heim
+Penicillium atrosanguineum B.X. Dong, 1973
 
 ### Remarks
 null

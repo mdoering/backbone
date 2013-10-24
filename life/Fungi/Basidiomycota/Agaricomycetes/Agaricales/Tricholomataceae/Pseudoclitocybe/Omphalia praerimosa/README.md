@@ -1,5 +1,4 @@
-Omphalia praerimosa (Murrill) Murrill SPECIES
-=======
+# Omphalia praerimosa (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

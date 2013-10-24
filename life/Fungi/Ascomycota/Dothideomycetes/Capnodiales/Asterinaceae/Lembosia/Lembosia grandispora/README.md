@@ -1,5 +1,4 @@
-Lembosia grandispora Petr. SPECIES
-=======
+# Lembosia grandispora Petr. SPECIES
 
 #### Status
 ACCEPTED

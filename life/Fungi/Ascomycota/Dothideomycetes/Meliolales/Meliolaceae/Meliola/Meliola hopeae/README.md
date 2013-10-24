@@ -1,5 +1,4 @@
-Meliola hopeae H.S. Yates SPECIES
-=======
+# Meliola hopeae H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

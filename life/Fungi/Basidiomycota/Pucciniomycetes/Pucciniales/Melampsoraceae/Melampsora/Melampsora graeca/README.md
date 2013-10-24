@@ -1,5 +1,4 @@
-Melampsora graeca W. Muell. SPECIES
-=======
+# Melampsora graeca W. Muell. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Sporodinium pseudocalani Gonnert SPECIES
-=======
+# Dissodinium pseudocalani (Gonnert) Drebes ex Elbrachter & Drebes SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

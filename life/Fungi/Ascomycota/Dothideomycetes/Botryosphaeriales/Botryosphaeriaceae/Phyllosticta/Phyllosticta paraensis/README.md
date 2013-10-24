@@ -1,17 +1,16 @@
-Phyllosticta paraënsis Henn. SPECIES
-=======
+# Phyllosticta paraensis Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 48: 110 (1908)
 
 #### Original name
-Phyllosticta paraënsis Henn.
+Phyllosticta paraensis Henn.
 
 ### Remarks
 null

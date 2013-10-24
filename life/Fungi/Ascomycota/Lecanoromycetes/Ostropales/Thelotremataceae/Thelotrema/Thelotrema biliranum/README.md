@@ -1,5 +1,4 @@
-Thelotrema biliranum Vain. SPECIES
-=======
+# Thelotrema biliranum Vain. SPECIES
 
 #### Status
 ACCEPTED

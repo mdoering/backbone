@@ -1,5 +1,4 @@
-Musaespora multilocularis Aptroot & Sipman SPECIES
-=======
+# Musaespora multilocularis Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

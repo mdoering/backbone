@@ -1,5 +1,4 @@
-Stagonospora curvula E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Stagonospora curvula E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

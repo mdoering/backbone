@@ -1,5 +1,4 @@
-Baeospora cristobalensis Corner SPECIES
-=======
+# Baeospora cristobalensis Corner SPECIES
 
 #### Status
 ACCEPTED

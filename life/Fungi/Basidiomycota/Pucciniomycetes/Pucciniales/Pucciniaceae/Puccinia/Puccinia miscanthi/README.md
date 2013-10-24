@@ -1,17 +1,16 @@
-Puccinia miscanthicola Tranzschel, 1940 SPECIES
-=======
+# Puccinia miscanthi Miura, 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora of Manchuria and East Mongolia 3: 302 (1928)
 
 #### Original name
-null
+Puccinia miscanthi Miura, 1928
 
 ### Remarks
 null

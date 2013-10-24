@@ -1,5 +1,4 @@
-Aleurodiscus ilexicola Bernicchia & Ryvarden, 1988 SPECIES
-=======
+# Aleurodiscus ilexicola Bernicchia & Ryvarden, 1988 SPECIES
 
 #### Status
 ACCEPTED

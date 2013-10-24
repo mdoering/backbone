@@ -1,5 +1,4 @@
-Meliola ocimincola Petr., 1963 SPECIES
-=======
+# Meliola ocimincola Petr., 1963 SPECIES
 
 #### Status
 ACCEPTED

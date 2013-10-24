@@ -1,5 +1,4 @@
-Haplophragmoides membranaceum Höglund, 1947 SPECIES
-=======
+# Haplophragmoides membranaceum Höglund, 1947 SPECIES
 
 #### Status
 ACCEPTED

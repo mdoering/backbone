@@ -1,5 +1,4 @@
-Placynthium petersii (Nyl.) Burnham {?} SPECIES
-=======
+# Placynthium petersii (Nyl.) Burnham {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca communis Vondrák, Ríha, Arup & Søchting SPECIES
-=======
+# Caloplaca communis Vondrák, Ríha, Arup & Søchting SPECIES
 
 #### Status
 ACCEPTED

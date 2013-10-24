@@ -1,17 +1,16 @@
-Cercospora pittierii Syd. SPECIES
-=======
+# Pseudocercospora pittieri (Syd.) Deighton, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 140: 150 (1976)
 
 #### Original name
-Cercospora pittierii Syd.
+Cercospora pittieri Syd., 1930
 
 ### Remarks
 null

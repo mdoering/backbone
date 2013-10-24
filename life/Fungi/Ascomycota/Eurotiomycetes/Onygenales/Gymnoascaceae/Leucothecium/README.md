@@ -1,5 +1,4 @@
-Leucothecium Arx & Samson, 1973 GENUS
-=======
+# Leucothecium Arx & Samson, 1973 GENUS
 
 #### Status
 ACCEPTED

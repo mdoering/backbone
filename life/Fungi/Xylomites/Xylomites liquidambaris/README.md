@@ -1,5 +1,4 @@
-Xylomites liquidambaris Ettingsh. SPECIES
-=======
+# Xylomites liquidambaris Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

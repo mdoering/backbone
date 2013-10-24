@@ -1,17 +1,16 @@
-Diplodina chenopodii P. Karst. SPECIES
-=======
+# Ascochyta chenopodii Rostr., 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 24: 73 (1885)
+Bot. Tidsskr. 26: 311 (1905)
 
 #### Original name
-Diplodina chenopodii P. Karst.
+Ascochyta chenopodii Rostr., 1905
 
 ### Remarks
 null

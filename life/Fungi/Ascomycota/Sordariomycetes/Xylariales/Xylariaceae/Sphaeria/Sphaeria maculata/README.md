@@ -1,5 +1,4 @@
-Sphaeria maculata Wallr. SPECIES
-=======
+# Sphaeria maculata Wallr. SPECIES
 
 #### Status
 ACCEPTED

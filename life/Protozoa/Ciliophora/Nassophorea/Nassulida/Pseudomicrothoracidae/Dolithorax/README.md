@@ -1,5 +1,4 @@
-Dolithorax GENUS
-=======
+# Dolithorax GENUS
 
 #### Status
 ACCEPTED

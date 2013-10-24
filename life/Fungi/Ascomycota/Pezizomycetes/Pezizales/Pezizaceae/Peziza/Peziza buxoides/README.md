@@ -1,5 +1,4 @@
-Peziza buxoides Donadini SPECIES
-=======
+# Peziza buxoides Donadini SPECIES
 
 #### Status
 ACCEPTED

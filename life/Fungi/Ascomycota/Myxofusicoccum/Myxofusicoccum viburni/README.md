@@ -1,5 +1,4 @@
-Myxofusicoccum viburni (Fautrey) Died. SPECIES
-=======
+# Myxofusicoccum viburni (Fautrey) Died. SPECIES
 
 #### Status
 ACCEPTED

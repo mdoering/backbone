@@ -1,5 +1,4 @@
-Buellia vulcani (Hepp) J. Steiner SPECIES
-=======
+# Buellia vulcani (Hepp) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

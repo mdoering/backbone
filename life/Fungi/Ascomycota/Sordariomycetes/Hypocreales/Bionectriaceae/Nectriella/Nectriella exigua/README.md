@@ -1,5 +1,4 @@
-Nectriella exigua Dennis, 1983 SPECIES
-=======
+# Nectriella exigua Dennis, 1983 SPECIES
 
 #### Status
 ACCEPTED

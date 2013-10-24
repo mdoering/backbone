@@ -1,5 +1,4 @@
-Uromyces tropaeoli Ranoj. SPECIES
-=======
+# Uromyces tropaeoli Ranoj. SPECIES
 
 #### Status
 ACCEPTED

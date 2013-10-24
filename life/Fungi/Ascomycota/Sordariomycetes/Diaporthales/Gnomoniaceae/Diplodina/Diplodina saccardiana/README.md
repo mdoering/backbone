@@ -1,5 +1,4 @@
-Diplodina saccardiana Ferraris SPECIES
-=======
+# Diplodina saccardiana Ferraris SPECIES
 
 #### Status
 ACCEPTED

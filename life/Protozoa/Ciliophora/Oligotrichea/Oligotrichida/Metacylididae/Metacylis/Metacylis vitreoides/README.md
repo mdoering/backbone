@@ -1,5 +1,4 @@
-Metacylis vitreoides Kofoid & Campbell, 1929 SPECIES
-=======
+# Metacylis vitreoides Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

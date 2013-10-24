@@ -1,5 +1,4 @@
-Galactinia pseudosylvestris Gamundí SPECIES
-=======
+# Galactinia pseudosylvestris Gamundí SPECIES
 
 #### Status
 ACCEPTED

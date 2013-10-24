@@ -1,5 +1,4 @@
-Buellia polita Zahlbr. SPECIES
-=======
+# Buellia polita Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

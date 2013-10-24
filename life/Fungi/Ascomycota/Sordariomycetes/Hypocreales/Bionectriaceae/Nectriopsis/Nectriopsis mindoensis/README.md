@@ -1,5 +1,4 @@
-Nectriopsis mindoensis (Petr.) Samuels SPECIES
-=======
+# Nectriopsis mindoensis (Petr.) Samuels SPECIES
 
 #### Status
 ACCEPTED

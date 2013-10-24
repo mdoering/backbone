@@ -1,5 +1,4 @@
-Meliola cupaniicola Bat. SPECIES
-=======
+# Meliola cupaniicola Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vacuolaria aquaeferrea Skvortzov & Noda SPECIES
-=======
+# Vacuolaria aquaeferrea Skvortzov & Noda SPECIES
 
 #### Status
 ACCEPTED

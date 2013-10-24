@@ -1,5 +1,4 @@
-Chalara rubi Sacc. & Briard SPECIES
-=======
+# Chalara rubi Sacc. & Briard SPECIES
 
 #### Status
 ACCEPTED

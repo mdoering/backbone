@@ -1,5 +1,4 @@
-Inocybe tomentosa (Jungh.) Quél. SPECIES
-=======
+# Inocybe tomentosa (Jungh.) Quél. SPECIES
 
 #### Status
 ACCEPTED

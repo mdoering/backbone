@@ -1,5 +1,4 @@
-Thecaphora carcinodes Berk. & M.A. Curtis SPECIES
-=======
+# Thecaphora carcinodes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

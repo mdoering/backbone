@@ -1,17 +1,16 @@
-Sillia cellastrina R. Rao SPECIES
-=======
+# Sillia celastrina R. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 24(1-6): 324 (1971)
 
 #### Original name
-Sillia cellastrina R. Rao
+Sillia celastrina R. Rao
 
 ### Remarks
 null

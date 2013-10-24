@@ -1,5 +1,4 @@
-Pleurochrysis placolithoides J. Fresnel & C. Billard SPECIES
-=======
+# Pleurochrysis placolithoides J. Fresnel & C. Billard SPECIES
 
 #### Status
 ACCEPTED

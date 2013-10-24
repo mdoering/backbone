@@ -1,5 +1,4 @@
-Cystoagaricus Singer GENUS
-=======
+# Cystoagaricus Singer GENUS
 
 #### Status
 ACCEPTED

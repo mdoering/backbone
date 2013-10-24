@@ -1,5 +1,4 @@
-Helotium erythropus (Saut.) Sacc. SPECIES
-=======
+# Helotium erythropus (Saut.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

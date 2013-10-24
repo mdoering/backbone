@@ -1,5 +1,4 @@
-Phaeoisariopsis caespitosa (Petr. & Cif.) U. Braun SPECIES
-=======
+# Phaeoisariopsis caespitosa (Petr. & Cif.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

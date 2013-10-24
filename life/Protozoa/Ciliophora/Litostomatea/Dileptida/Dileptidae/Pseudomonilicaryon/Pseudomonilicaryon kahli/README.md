@@ -1,8 +1,7 @@
-Dileptus kahli Srámek-Husek, 1957 SPECIES
-=======
+# Pseudomonilicaryon kahli (Sramek-Husek, 1957) Vdacny & Foissner, 2011 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Kabataia arthuri SPECIES
-=======
+# Kabataia arthuri SPECIES
 
 #### Status
 ACCEPTED

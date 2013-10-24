@@ -1,5 +1,4 @@
-Triscelophorus monosporus Ingold, 1944 SPECIES
-=======
+# Triscelophorus monosporus Ingold, 1944 SPECIES
 
 #### Status
 ACCEPTED

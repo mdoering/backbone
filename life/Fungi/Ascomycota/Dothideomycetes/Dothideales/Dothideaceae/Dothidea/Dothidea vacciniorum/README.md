@@ -1,5 +1,4 @@
-Dothidea vacciniorum Lév., 1846 SPECIES
-=======
+# Dothidea vacciniorum Lév., 1846 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanaria calcarea (Nyl.) Erichsen SPECIES
-=======
+# Melanaria calcarea (Nyl.) Erichsen SPECIES
 
 #### Status
 ACCEPTED

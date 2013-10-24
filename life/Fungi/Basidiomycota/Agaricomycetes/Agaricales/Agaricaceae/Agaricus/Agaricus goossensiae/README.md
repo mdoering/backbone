@@ -1,5 +1,4 @@
-Agaricus goossensiae var. pseudolutosus G. Moreno, Esteve-Rav., Illana & Heykoop VARIETY
-=======
+# Agaricus goossensiae Heinem. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Mycol. Res. 94(6): 781 (1990)
+null
 
 #### Original name
-Agaricus goossensiae var. pseudolutosus G. Moreno, Esteve-Rav., Illana & Heykoop
+Agaricus goossensiae Heinem.
 
 ### Remarks
 null

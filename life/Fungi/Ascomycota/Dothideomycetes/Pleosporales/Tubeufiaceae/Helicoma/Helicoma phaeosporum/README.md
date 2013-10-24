@@ -1,5 +1,4 @@
-Helicoma phaeosporum Fresen. SPECIES
-=======
+# Helicoma phaeosporum Fresen. SPECIES
 
 #### Status
 ACCEPTED

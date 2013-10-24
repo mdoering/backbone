@@ -1,5 +1,4 @@
-Janibacter terrae Yoon et al., 2000 SPECIES
-=======
+# Janibacter terrae Yoon et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

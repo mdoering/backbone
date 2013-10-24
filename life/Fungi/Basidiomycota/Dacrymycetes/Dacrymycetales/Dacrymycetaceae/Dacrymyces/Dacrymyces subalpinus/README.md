@@ -1,5 +1,4 @@
-Dacrymyces subalpinus Kobayasi SPECIES
-=======
+# Dacrymyces subalpinus Kobayasi SPECIES
 
 #### Status
 ACCEPTED

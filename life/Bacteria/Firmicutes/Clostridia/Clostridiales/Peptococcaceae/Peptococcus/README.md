@@ -1,5 +1,4 @@
-Peptococcus Kluyver & van Niel, 1936 GENUS
-=======
+# Peptococcus Kluyver & van Niel, 1936 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pulvinotrichum Gamundí, Aramb. & Giaiotti GENUS
-=======
+# Pulvinotrichum Gamundí, Aramb. & Giaiotti GENUS
 
 #### Status
 ACCEPTED

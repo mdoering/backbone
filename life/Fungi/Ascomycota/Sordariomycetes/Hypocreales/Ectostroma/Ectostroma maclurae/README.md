@@ -1,5 +1,4 @@
-Ectostroma maclurae Thüm. SPECIES
-=======
+# Ectostroma maclurae Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Salinibacillus kushneri Ren & Zhou, 2005 SPECIES
-=======
+# Salinibacillus kushneri Ren & Zhou, 2005 SPECIES
 
 #### Status
 ACCEPTED

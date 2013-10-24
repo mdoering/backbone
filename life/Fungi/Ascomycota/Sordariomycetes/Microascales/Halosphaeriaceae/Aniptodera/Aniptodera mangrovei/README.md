@@ -1,17 +1,16 @@
-Aniptodera mangrovii K.D. Hyde SPECIES
-=======
+# Aniptodera mangrovei K.D. Hyde, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Hyde, Farrant & Jones, Can. J. Bot. 64(12): 2989 (1986)
 
 #### Original name
-Aniptodera mangrovii K.D. Hyde
+Aniptodera mangrovei K.D. Hyde, 1986
 
 ### Remarks
 null

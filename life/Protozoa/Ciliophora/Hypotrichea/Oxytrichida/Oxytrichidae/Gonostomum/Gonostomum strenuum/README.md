@@ -1,8 +1,7 @@
-Stichochaeta strenua sensu Gourret & Roeser, 1888 SPECIES
-=======
+# Gonostomum strenuum (Engelmann, 1862) Sterki, 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

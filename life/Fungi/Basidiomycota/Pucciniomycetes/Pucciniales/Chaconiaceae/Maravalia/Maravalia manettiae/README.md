@@ -1,5 +1,4 @@
-Maravalia manettiae Jørst. SPECIES
-=======
+# Maravalia manettiae Jørst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chrysosporium roseolum ined. SPECIES
-=======
+# Chrysosporium roseolum ined. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoglaena fallaciosa SPECIES
-=======
+# Mycoglaena fallaciosa SPECIES
 
 #### Status
 ACCEPTED

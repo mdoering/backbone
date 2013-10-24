@@ -1,14 +1,13 @@
-Perrotia lonicerae (Alb. & Schwein.) E. Müll. & Dennis, 1959 SPECIES
-=======
+# Lasiobelonium lonicerae (Alb. & Schwein.) Raitv., 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 42: 504 (1959)
+Scripta Mycol. , Tartu 9: 115 (1980)
 
 #### Original name
 null

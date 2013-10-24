@@ -1,17 +1,16 @@
-Oedocephalum byssinum subsp. herbariorum P. Karst. SUBSPECIES
-=======
+# Oedocephalum byssinum (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Meddn Soc. Fauna Flora fenn. 16: 30 (1888)
+Syll. fung. (Abellini) 4: 49 (1886)
 
 #### Original name
-Oedocephalum byssinum subsp. herbariorum P. Karst.
+Periconia byssina Bonord., 1851
 
 ### Remarks
 null

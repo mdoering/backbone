@@ -1,5 +1,4 @@
-Vasicostella Patterson & Richardson, 1987 GENUS
-=======
+# Vasicostella Patterson & Richardson, 1987 GENUS
 
 #### Status
 ACCEPTED

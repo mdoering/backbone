@@ -1,5 +1,4 @@
-Coniothyrium callicarpae Cooke SPECIES
-=======
+# Coniothyrium callicarpae Cooke SPECIES
 
 #### Status
 ACCEPTED

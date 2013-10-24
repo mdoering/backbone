@@ -1,5 +1,4 @@
-Oidium hormini Farneti SPECIES
-=======
+# Oidium hormini Farneti SPECIES
 
 #### Status
 ACCEPTED

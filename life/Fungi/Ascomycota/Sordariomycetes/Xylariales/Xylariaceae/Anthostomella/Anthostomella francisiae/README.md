@@ -1,5 +1,4 @@
-Anthostomella francisiae K.D. Hyde, 1996 SPECIES
-=======
+# Anthostomella francisiae K.D. Hyde, 1996 SPECIES
 
 #### Status
 ACCEPTED

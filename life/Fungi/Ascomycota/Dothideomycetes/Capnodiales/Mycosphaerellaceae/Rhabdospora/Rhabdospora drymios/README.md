@@ -1,5 +1,4 @@
-Rhabdospora drymios Mont. SPECIES
-=======
+# Rhabdospora drymios Mont. SPECIES
 
 #### Status
 ACCEPTED

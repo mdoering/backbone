@@ -1,5 +1,4 @@
-Parmelia bakonyensis Gyeln. SPECIES
-=======
+# Parmelia bakonyensis Gyeln. SPECIES
 
 #### Status
 ACCEPTED

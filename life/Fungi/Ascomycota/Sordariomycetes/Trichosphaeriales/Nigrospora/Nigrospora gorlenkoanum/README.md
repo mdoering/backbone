@@ -1,5 +1,4 @@
-Nigrospora gorlenkoanum Novobr. SPECIES
-=======
+# Nigrospora gorlenkoanum Novobr. SPECIES
 
 #### Status
 ACCEPTED

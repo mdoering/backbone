@@ -1,5 +1,4 @@
-Rhytisma silphii Schwein. SPECIES
-=======
+# Rhytisma silphii Schwein. SPECIES
 
 #### Status
 ACCEPTED

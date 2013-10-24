@@ -1,5 +1,4 @@
-Pythium connatum Y.N. Yu SPECIES
-=======
+# Pythium connatum Y.N. Yu SPECIES
 
 #### Status
 ACCEPTED

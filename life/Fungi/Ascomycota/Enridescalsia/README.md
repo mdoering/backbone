@@ -1,5 +1,4 @@
-Enridescalsia R.F. Castañeda & Guarro GENUS
-=======
+# Enridescalsia R.F. Castañeda & Guarro GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthopyrenia subvaga Harm. SPECIES
-=======
+# Arthopyrenia subvaga Harm. SPECIES
 
 #### Status
 ACCEPTED

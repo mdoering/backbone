@@ -1,5 +1,4 @@
-Agaricus zylophilus Bull. SPECIES
-=======
+# Agaricus zylophilus Bull. SPECIES
 
 #### Status
 ACCEPTED

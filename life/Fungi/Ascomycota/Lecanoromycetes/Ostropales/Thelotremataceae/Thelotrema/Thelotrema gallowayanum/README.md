@@ -1,5 +1,4 @@
-Thelotrema gallowayanum Mangold, Elix & Lumbsch SPECIES
-=======
+# Thelotrema gallowayanum Mangold, Elix & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tintinnopsis obliqua-capitata Kufferath, 1950 SPECIES
-=======
+# Tintinnopsis obliqua-capitata Kufferath, 1950 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Apolimia Korganova, 1987 GENUS
-=======
+# Apolimia Korganova, 1987 GENUS
 
 #### Status
 ACCEPTED

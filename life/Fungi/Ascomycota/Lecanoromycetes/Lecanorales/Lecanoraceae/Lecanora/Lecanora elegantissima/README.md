@@ -1,5 +1,4 @@
-Lecanora elegantissima Nyl. SPECIES
-=======
+# Lecanora elegantissima Nyl. SPECIES
 
 #### Status
 ACCEPTED

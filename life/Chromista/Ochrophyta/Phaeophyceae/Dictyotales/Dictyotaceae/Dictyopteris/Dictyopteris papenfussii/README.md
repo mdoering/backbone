@@ -1,5 +1,4 @@
-Dictyopteris papenfussii Tanaka SPECIES
-=======
+# Dictyopteris papenfussii Tanaka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coleosporium Lév. GENUS
-=======
+# Coleosporium Lév. GENUS
 
 #### Status
 ACCEPTED

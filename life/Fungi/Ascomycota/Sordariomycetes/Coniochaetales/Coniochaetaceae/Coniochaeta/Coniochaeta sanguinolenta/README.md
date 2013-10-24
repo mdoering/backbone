@@ -1,5 +1,4 @@
-Coniochaeta sanguinolenta (Wallr.) Checa, Barrasa & G. Moreno SPECIES
-=======
+# Coniochaeta sanguinolenta (Wallr.) Checa, Barrasa & G. Moreno SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea kondaensis Vain. SPECIES
-=======
+# Lecidea kondaensis Vain. SPECIES
 
 #### Status
 ACCEPTED

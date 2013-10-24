@@ -1,5 +1,4 @@
-Cryptococcus elinovii Golubev SPECIES
-=======
+# Cryptococcus elinovii Golubev SPECIES
 
 #### Status
 ACCEPTED

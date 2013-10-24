@@ -1,5 +1,4 @@
-Rhizomorpha vestita Rebent. SPECIES
-=======
+# Rhizomorpha vestita Rebent. SPECIES
 
 #### Status
 ACCEPTED

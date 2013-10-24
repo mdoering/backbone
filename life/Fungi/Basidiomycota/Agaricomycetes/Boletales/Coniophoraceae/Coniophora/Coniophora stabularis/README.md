@@ -1,5 +1,4 @@
-Coniophora stabularis (Fr.) P. Karst. SPECIES
-=======
+# Coniophora stabularis (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

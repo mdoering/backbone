@@ -1,5 +1,4 @@
-Diexallophasis tappaniae (Kiryanov, 1978) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Diexallophasis tappaniae (Kiryanov, 1978) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

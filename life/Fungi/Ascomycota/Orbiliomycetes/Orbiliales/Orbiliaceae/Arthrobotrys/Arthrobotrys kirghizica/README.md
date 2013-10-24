@@ -1,5 +1,4 @@
-Arthrobotrys kirghizica Soprunov SPECIES
-=======
+# Arthrobotrys kirghizica Soprunov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhytisma juglandis Ettingsh. SPECIES
-=======
+# Rhytisma juglandis Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

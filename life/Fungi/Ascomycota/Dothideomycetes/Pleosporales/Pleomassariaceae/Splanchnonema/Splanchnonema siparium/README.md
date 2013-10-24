@@ -1,17 +1,16 @@
-Prosthemium betulinum Kunze SPECIES
-=======
+# Splanchnonema siparium (Berk. & Broome) M.E. Barr SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Mykologische Hefte (Leipzig) 1: 18 (1817)
+Mycotaxon 49: 140 (1993)
 
 #### Original name
-Prosthemium betulinum Kunze
+Sphaeria siparia Berk. & Broome
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Euplotes lata SPECIES
-=======
+# Euplotes lata SPECIES
 
 #### Status
 ACCEPTED

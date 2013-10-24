@@ -1,14 +1,13 @@
-Atractobolus glabrescens (Cooke & W. Phillips) Kuntze, 1898 SPECIES
-=======
+# Dasyscyphus glabrescens (Cooke & W. Phillips) Sacc., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 445 (1898)
+Syll. fung. (Abellini) 8: 451 (1889)
 
 #### Original name
 null

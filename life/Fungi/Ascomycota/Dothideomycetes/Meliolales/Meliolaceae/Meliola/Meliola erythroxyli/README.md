@@ -1,8 +1,7 @@
-Meliola erythroxylonis Cif. SPECIES
-=======
+# Meliola erythroxyli Cif. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Meliola erythroxylonis Cif.
+Meliola erythroxyli Cif.
 
 ### Remarks
 null

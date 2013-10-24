@@ -1,5 +1,4 @@
-Bacidia frigida (Th. Fr.) H. Olivier SPECIES
-=======
+# Bacidia frigida (Th. Fr.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

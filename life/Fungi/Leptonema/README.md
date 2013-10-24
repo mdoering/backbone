@@ -1,5 +1,4 @@
-Leptonema J. Smith Dalry, 1896 GENUS
-=======
+# Leptonema J. Smith Dalry, 1896 GENUS
 
 #### Status
 ACCEPTED

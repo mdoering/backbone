@@ -1,17 +1,16 @@
-Lactaria paradoxiformis Murrill SPECIES
-=======
+# Lactarius paradoxiformis Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 7: 304 (1945)
 
 #### Original name
-Lactaria paradoxiformis Murrill
+Lactarius paradoxiformis Murrill
 
 ### Remarks
 null

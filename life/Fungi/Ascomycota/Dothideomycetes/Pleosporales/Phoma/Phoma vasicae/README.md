@@ -1,5 +1,4 @@
-Phoma vasicae Shreem. SPECIES
-=======
+# Phoma vasicae Shreem. SPECIES
 
 #### Status
 ACCEPTED

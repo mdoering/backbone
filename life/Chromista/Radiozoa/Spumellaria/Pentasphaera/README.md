@@ -1,5 +1,4 @@
-Pentasphaera Squinabol, 1904 GENUS
-=======
+# Pentasphaera Squinabol, 1904 GENUS
 
 #### Status
 ACCEPTED

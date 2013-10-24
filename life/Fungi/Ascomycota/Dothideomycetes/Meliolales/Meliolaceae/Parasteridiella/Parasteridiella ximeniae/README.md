@@ -1,5 +1,4 @@
-Parasteridiella ximeniae (Bat. & J. Silva) H. Maia SPECIES
-=======
+# Parasteridiella ximeniae (Bat. & J. Silva) H. Maia SPECIES
 
 #### Status
 ACCEPTED

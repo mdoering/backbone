@@ -1,5 +1,4 @@
-Gymnopilus luteoviridis Thiers SPECIES
-=======
+# Gymnopilus luteoviridis Thiers SPECIES
 
 #### Status
 ACCEPTED

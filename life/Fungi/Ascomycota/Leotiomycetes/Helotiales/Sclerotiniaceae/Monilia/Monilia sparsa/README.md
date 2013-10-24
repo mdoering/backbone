@@ -1,5 +1,4 @@
-Monilia sparsa Link SPECIES
-=======
+# Monilia sparsa Link SPECIES
 
 #### Status
 ACCEPTED

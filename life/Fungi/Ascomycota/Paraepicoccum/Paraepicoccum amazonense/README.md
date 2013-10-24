@@ -1,5 +1,4 @@
-Paraepicoccum amazonense Matsush., 1993 SPECIES
-=======
+# Paraepicoccum amazonense Matsush., 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Arrhenia flabellula (Berk. & M.A. Curtis ex Cooke) Dennis SPECIES
-=======
+# Rhodoarrhenia flabellula (Berk. & M.A. Curtis ex Cooke) Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Kew Bull. 1952: 327 (1952)
+null
 
 #### Original name
 null

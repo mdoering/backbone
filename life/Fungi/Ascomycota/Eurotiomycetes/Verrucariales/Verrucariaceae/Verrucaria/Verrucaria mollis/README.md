@@ -1,5 +1,4 @@
-Verrucaria mollis Taylor SPECIES
-=======
+# Verrucaria mollis Taylor SPECIES
 
 #### Status
 ACCEPTED

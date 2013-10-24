@@ -1,5 +1,4 @@
-Exobasidium dracophylli McNabb, 1962 SPECIES
-=======
+# Exobasidium dracophylli McNabb, 1962 SPECIES
 
 #### Status
 ACCEPTED

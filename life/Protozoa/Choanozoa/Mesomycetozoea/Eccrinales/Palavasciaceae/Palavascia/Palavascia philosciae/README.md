@@ -1,5 +1,4 @@
-Palavascia philosciae Tuzet & Manier ex Lichtw., 1964 SPECIES
-=======
+# Palavascia philosciae Tuzet & Manier ex Lichtw., 1964 SPECIES
 
 #### Status
 ACCEPTED

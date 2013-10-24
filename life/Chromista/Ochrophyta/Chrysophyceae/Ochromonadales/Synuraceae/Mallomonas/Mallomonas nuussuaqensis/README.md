@@ -1,5 +1,4 @@
-Mallomonas nuussuaqensis L. R. Wilken & J. Kristiansen SPECIES
-=======
+# Mallomonas nuussuaqensis L. R. Wilken & J. Kristiansen SPECIES
 
 #### Status
 ACCEPTED

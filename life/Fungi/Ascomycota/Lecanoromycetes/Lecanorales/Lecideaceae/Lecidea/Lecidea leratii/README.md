@@ -1,8 +1,7 @@
-Lecidea lerati B. de Lesd. SPECIES
-=======
+# Lecidea leratii B. de Lesd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea lerati B. de Lesd.
+Lecidea leratii B. de Lesd.
 
 ### Remarks
 null

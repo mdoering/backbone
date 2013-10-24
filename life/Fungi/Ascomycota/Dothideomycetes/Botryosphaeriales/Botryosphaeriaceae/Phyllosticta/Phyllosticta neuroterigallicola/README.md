@@ -1,5 +1,4 @@
-Phyllosticta neuroterigallicola Tehon SPECIES
-=======
+# Phyllosticta neuroterigallicola Tehon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora emarginata Petr., 1948 SPECIES
-=======
+# Phyllachora emarginata Petr., 1948 SPECIES
 
 #### Status
 ACCEPTED

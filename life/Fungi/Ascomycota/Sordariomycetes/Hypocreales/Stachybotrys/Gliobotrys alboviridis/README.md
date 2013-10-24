@@ -1,17 +1,16 @@
-Gliobotrys albo-viridis Höhn. SPECIES
-=======
+# Gliobotrys alboviridis Höhn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 111: (1902)
 
 #### Original name
-Gliobotrys albo-viridis Höhn.
+Gliobotrys alboviridis Höhn.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Irene sepulta (Pat.) Toro SPECIES
-=======
+# Irene sepulta (Pat.) Toro SPECIES
 
 #### Status
 ACCEPTED

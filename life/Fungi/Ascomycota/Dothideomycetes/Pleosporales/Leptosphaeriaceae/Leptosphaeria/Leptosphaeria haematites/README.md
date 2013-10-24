@@ -1,17 +1,16 @@
-Heptameria haematites (Roberge ex Desm.) Cooke, 1889 SPECIES
-=======
+# Leptosphaeria haematites (Roberge ex Desm.) Niessl, 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 22: 10 (1883)
 
 #### Original name
-null
+Sphaeria haematites Roberge ex Desm., 1851
 
 ### Remarks
 null

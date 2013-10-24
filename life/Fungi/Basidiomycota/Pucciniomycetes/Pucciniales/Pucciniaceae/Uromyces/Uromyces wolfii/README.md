@@ -1,5 +1,4 @@
-Uromyces wolfii Cummins SPECIES
-=======
+# Uromyces wolfii Cummins SPECIES
 
 #### Status
 ACCEPTED

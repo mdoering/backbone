@@ -1,5 +1,4 @@
-Tetramelas poeltii (T. Schauer) Kalb SPECIES
-=======
+# Tetramelas poeltii (T. Schauer) Kalb SPECIES
 
 #### Status
 ACCEPTED

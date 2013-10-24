@@ -1,5 +1,4 @@
-Dicaeoma chaetochloae (Arthur) Arthur SPECIES
-=======
+# Dicaeoma chaetochloae (Arthur) Arthur SPECIES
 
 #### Status
 ACCEPTED

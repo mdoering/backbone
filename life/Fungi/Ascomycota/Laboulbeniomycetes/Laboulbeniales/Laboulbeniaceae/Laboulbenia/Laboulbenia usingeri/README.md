@@ -1,5 +1,4 @@
-Laboulbenia usingeri R.K. Benj. SPECIES
-=======
+# Laboulbenia usingeri R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

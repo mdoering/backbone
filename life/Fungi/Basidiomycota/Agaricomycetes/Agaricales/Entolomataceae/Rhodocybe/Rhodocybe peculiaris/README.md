@@ -1,5 +1,4 @@
-Rhodocybe peculiaris Contu & Bon SPECIES
-=======
+# Rhodocybe peculiaris Contu & Bon SPECIES
 
 #### Status
 ACCEPTED

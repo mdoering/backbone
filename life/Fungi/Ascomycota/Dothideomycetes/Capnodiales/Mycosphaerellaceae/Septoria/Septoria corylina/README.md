@@ -1,5 +1,4 @@
-Septoria corylina Peck SPECIES
-=======
+# Septoria corylina Peck SPECIES
 
 #### Status
 ACCEPTED

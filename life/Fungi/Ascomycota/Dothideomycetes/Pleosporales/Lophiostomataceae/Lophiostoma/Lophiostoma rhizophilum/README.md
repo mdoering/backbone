@@ -1,5 +1,4 @@
-Lophiostoma rhizophilum (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Lophiostoma rhizophilum (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bigeminococcus Schopf & Blacic GENUS
-=======
+# Bigeminococcus Schopf & Blacic GENUS
 
 #### Status
 ACCEPTED

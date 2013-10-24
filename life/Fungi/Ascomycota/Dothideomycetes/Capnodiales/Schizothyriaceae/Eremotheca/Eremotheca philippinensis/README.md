@@ -1,5 +1,4 @@
-Eremotheca philippinensis Theiss. & Syd. SPECIES
-=======
+# Eremotheca philippinensis Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

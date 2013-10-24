@@ -1,5 +1,4 @@
-Mucedites stercoraria var. stercoraria VARIETY
-=======
+# Mucedites stercoraria C.E. Bertrand & Renault SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mucedites stercoraria var. stercoraria
+Mucedites stercoraria C.E. Bertrand & Renault
 
 ### Remarks
 null

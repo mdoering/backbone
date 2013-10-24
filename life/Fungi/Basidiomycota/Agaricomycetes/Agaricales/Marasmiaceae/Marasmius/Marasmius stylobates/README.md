@@ -1,5 +1,4 @@
-Marasmius stylobates Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius stylobates Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

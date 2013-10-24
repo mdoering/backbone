@@ -1,5 +1,4 @@
-Mycosphaerella spissa Syd., 1924 SPECIES
-=======
+# Mycosphaerella spissa Syd., 1924 SPECIES
 
 #### Status
 ACCEPTED

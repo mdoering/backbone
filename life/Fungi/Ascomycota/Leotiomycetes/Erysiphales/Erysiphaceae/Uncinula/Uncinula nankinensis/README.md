@@ -1,5 +1,4 @@
-Uncinula nankinensis F.L. Tai SPECIES
-=======
+# Uncinula nankinensis F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysiphe miyabeana (U. Braun) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe miyabeana (U. Braun) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

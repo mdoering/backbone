@@ -1,5 +1,4 @@
-Placodium janinum Vain. SPECIES
-=======
+# Placodium janinum Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnum pronum Berk. & Broome SPECIES
-=======
+# Hydnum pronum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conidiobolus rugosus Drechsler, 1955 SPECIES
-=======
+# Conidiobolus rugosus Drechsler, 1955 SPECIES
 
 #### Status
 ACCEPTED

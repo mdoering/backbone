@@ -1,14 +1,13 @@
-Lecania coerulescens var. coeruleorubella Mudd VARIETY
-=======
+# Lecania coeruleorubella (Mudd) M. Mayrhofer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 28: 47 (1988)
 
 #### Original name
 Lecania coerulescens var. coeruleorubella Mudd

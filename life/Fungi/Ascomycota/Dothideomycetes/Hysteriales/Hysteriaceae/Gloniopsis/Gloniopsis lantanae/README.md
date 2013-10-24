@@ -1,5 +1,4 @@
-Gloniopsis lantanae Fautrey SPECIES
-=======
+# Gloniopsis lantanae Fautrey SPECIES
 
 #### Status
 ACCEPTED

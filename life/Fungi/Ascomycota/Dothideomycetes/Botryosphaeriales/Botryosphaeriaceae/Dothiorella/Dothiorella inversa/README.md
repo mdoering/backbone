@@ -1,5 +1,4 @@
-Dothiorella inversa (Fr.) Höhn. SPECIES
-=======
+# Dothiorella inversa (Fr.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

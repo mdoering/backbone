@@ -1,5 +1,4 @@
-Phoma fallens Sacc., 1892 SPECIES
-=======
+# Phoma fallens Sacc., 1892 SPECIES
 
 #### Status
 ACCEPTED

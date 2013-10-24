@@ -1,5 +1,4 @@
-Photocystis Haeckel GENUS
-=======
+# Photocystis Haeckel GENUS
 
 #### Status
 ACCEPTED

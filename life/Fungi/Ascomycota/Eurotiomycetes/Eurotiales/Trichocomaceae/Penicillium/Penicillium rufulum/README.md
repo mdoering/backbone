@@ -1,5 +1,4 @@
-Penicillium rufulum (Bainier) Sacc. SPECIES
-=======
+# Penicillium rufulum (Bainier) Sacc. SPECIES
 
 #### Status
 ACCEPTED

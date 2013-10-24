@@ -1,5 +1,4 @@
-Agaricus radiciformis Beauvais SPECIES
-=======
+# Agaricus radiciformis Beauvais SPECIES
 
 #### Status
 ACCEPTED

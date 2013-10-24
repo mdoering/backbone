@@ -1,5 +1,4 @@
-Trekljama Tikhomirova, 1989 GENUS
-=======
+# Trekljama Tikhomirova, 1989 GENUS
 
 #### Status
 ACCEPTED

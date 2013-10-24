@@ -1,14 +1,13 @@
-Tapesia eriobasis (Berk.) W. Phillips, 1887 SPECIES
-=======
+# Arachnopeziza eriobasis (Berk.) Korf, 1952 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 278 (1887)
+Lloydia 14(3): 167 (1952)
 
 #### Original name
 null

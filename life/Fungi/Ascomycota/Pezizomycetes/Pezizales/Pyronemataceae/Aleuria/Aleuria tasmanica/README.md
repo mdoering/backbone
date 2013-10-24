@@ -1,5 +1,4 @@
-Aleuria tasmanica Massee SPECIES
-=======
+# Aleuria tasmanica Massee SPECIES
 
 #### Status
 ACCEPTED

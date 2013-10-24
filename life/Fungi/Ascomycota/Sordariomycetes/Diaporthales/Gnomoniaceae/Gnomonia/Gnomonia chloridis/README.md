@@ -1,5 +1,4 @@
-Gnomonia chloridis Gonz. Frag. & Cif. SPECIES
-=======
+# Gnomonia chloridis Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

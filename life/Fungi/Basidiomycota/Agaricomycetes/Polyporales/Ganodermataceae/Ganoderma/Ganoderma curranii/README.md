@@ -1,5 +1,4 @@
-Ganoderma curranii var. dimiticum Corner VARIETY
-=======
+# Ganoderma curranii Murrill SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Beih. Nova Hedwigia 75: 134 (1983)
+Bull. Torrey bot. Club 35: 411 (1908)
 
 #### Original name
-Ganoderma curranii var. dimiticum Corner
+Ganoderma curranii Murrill
 
 ### Remarks
 null

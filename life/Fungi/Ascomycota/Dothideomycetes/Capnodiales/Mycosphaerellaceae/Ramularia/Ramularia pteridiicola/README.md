@@ -1,8 +1,7 @@
-Ramularia pteridicola Petr. SPECIES
-=======
+# Ramularia pteridiicola Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ramularia pteridicola Petr.
+Ramularia pteridiicola Petr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Gymnopus volkertii Murrill SPECIES
-=======
+# Gymnopus volkertii Murrill SPECIES
 
 #### Status
 ACCEPTED

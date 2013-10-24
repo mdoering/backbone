@@ -1,5 +1,4 @@
-Calosphaeria ludens Berl. SPECIES
-=======
+# Calosphaeria ludens Berl. SPECIES
 
 #### Status
 ACCEPTED

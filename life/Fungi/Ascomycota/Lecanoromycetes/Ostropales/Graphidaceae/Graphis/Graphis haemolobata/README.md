@@ -1,5 +1,4 @@
-Graphis haemolobata Redinger SPECIES
-=======
+# Graphis haemolobata Redinger SPECIES
 
 #### Status
 ACCEPTED

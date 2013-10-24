@@ -1,5 +1,4 @@
-Coniothyrium helichrysi Unamuno SPECIES
-=======
+# Coniothyrium helichrysi Unamuno SPECIES
 
 #### Status
 ACCEPTED

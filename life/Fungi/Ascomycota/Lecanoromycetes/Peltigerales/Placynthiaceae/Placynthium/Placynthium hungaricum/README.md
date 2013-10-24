@@ -1,5 +1,4 @@
-Placynthium hungaricum Gyeln. SPECIES
-=======
+# Placynthium hungaricum Gyeln. SPECIES
 
 #### Status
 ACCEPTED

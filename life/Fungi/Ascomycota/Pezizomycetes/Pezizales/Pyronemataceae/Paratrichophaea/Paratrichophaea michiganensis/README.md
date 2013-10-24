@@ -1,5 +1,4 @@
-Paratrichophaea michiganensis (Kanouse) Pfister SPECIES
-=======
+# Paratrichophaea michiganensis (Kanouse) Pfister SPECIES
 
 #### Status
 ACCEPTED

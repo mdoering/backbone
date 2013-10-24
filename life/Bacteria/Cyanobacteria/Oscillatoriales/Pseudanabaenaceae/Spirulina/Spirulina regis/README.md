@@ -1,5 +1,4 @@
-Spirulina regis L. Hoffmann SPECIES
-=======
+# Spirulina regis L. Hoffmann SPECIES
 
 #### Status
 ACCEPTED

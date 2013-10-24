@@ -1,5 +1,4 @@
-Diderma subviridifuscum Buyck, 1988 SPECIES
-=======
+# Diderma subviridifuscum Buyck, 1988 SPECIES
 
 #### Status
 ACCEPTED

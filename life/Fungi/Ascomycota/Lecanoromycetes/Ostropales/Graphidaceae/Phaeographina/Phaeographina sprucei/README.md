@@ -1,5 +1,4 @@
-Phaeographina sprucei (Leight.) Zahlbr. SPECIES
-=======
+# Phaeographina sprucei (Leight.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

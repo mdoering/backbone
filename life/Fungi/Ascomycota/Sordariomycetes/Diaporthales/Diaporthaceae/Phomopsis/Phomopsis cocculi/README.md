@@ -1,5 +1,4 @@
-Phomopsis cocculi Maffei SPECIES
-=======
+# Phomopsis cocculi Maffei SPECIES
 
 #### Status
 ACCEPTED

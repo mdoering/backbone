@@ -1,14 +1,13 @@
-Heterosporium paradoxum Syd. & P. Syd., 1913 SPECIES
-=======
+# Laocoön paradoxus (Syd. & P. Syd.) J.C. David, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 172: 116 (1997)
 
 #### Original name
 Heterosporium paradoxum Syd. & P. Syd., 1913

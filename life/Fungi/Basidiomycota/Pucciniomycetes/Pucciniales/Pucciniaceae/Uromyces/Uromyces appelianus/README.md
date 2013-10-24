@@ -1,5 +1,4 @@
-Uromyces appelianus Gassner SPECIES
-=======
+# Uromyces appelianus Gassner SPECIES
 
 #### Status
 ACCEPTED

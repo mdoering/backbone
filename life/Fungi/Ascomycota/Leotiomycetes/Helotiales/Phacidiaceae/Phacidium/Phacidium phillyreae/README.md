@@ -1,5 +1,4 @@
-Phacidium phillyreae Pass. SPECIES
-=======
+# Phacidium phillyreae Pass. SPECIES
 
 #### Status
 ACCEPTED

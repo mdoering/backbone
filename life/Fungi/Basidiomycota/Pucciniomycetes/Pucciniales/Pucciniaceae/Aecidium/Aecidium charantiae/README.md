@@ -1,5 +1,4 @@
-Aecidium charantiae Mayor & Vienn.-Bourg. SPECIES
-=======
+# Aecidium charantiae Mayor & Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

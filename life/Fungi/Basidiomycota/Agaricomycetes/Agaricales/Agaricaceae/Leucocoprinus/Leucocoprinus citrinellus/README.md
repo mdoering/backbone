@@ -1,5 +1,4 @@
-Leucocoprinus citrinellus (Speg.) Raithelh. SPECIES
-=======
+# Leucocoprinus citrinellus (Speg.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria subrupestris SPECIES
-=======
+# Pertusaria subrupestris SPECIES
 
 #### Status
 ACCEPTED

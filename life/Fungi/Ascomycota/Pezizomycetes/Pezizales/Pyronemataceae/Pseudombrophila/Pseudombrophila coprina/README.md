@@ -1,5 +1,4 @@
-Pseudombrophila coprina (Eckblad) Brumm. SPECIES
-=======
+# Pseudombrophila coprina (Eckblad) Brumm. SPECIES
 
 #### Status
 ACCEPTED

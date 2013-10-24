@@ -1,5 +1,4 @@
-Marasmiellus caespitosus (Pat.) Singer SPECIES
-=======
+# Marasmiellus caespitosus (Pat.) Singer SPECIES
 
 #### Status
 ACCEPTED

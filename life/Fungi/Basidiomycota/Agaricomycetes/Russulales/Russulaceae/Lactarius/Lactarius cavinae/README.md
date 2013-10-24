@@ -1,5 +1,4 @@
-Lactarius cavinae Velen. SPECIES
-=======
+# Lactarius cavinae Velen. SPECIES
 
 #### Status
 ACCEPTED

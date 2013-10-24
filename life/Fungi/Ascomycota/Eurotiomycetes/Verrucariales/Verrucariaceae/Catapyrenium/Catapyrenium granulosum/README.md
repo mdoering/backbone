@@ -1,5 +1,4 @@
-Catapyrenium granulosum (B. de Lesd.) J.W. Thomson SPECIES
-=======
+# Catapyrenium granulosum (B. de Lesd.) J.W. Thomson SPECIES
 
 #### Status
 ACCEPTED

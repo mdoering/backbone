@@ -1,5 +1,4 @@
-Gloiodon hirtus (Fr.) P. Karst. SPECIES
-=======
+# Gloiodon hirtus (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nitrospina GENUS
-=======
+# Nitrospina GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Leptosphaeria nigrella Auersw., 1869 SPECIES
-=======
+# Diaporthopsis nigrella (Auersw.) Fabre, 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 21 (1883)
+Annls Sci. Nat. , Bot. , sér. 6 15: 35 (1883)
 
 #### Original name
-Cucurbitaria nigrella Rabenh.
+Leptosphaeria nigrella Auersw., 1869
 
 ### Remarks
 null

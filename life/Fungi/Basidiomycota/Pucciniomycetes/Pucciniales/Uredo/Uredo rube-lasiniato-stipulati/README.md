@@ -1,5 +1,4 @@
-Uredo rube-lasiniato-stipulati Sawada SPECIES
-=======
+# Uredo rube-lasiniato-stipulati Sawada SPECIES
 
 #### Status
 ACCEPTED

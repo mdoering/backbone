@@ -1,5 +1,4 @@
-Fusidomus ficinus Grove SPECIES
-=======
+# Fusidomus ficinus Grove SPECIES
 
 #### Status
 ACCEPTED

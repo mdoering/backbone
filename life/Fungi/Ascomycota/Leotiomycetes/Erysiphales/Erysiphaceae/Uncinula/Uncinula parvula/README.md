@@ -1,5 +1,4 @@
-Uncinula parvula Cooke & Peck SPECIES
-=======
+# Uncinula parvula Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

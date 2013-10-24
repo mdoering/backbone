@@ -1,17 +1,16 @@
-Phyllachora berkeleyana Cooke, 1885 SPECIES
-=======
+# Microcyclus tinctoria (Tul.) Arx, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 13(no. 67): 65 (1885)
+in Müller & Arx, Beitr. Kryptfl. Schweiz 11(no. 2): 370 (1962)
 
 #### Original name
-Phyllachora berkeleyana Cooke, 1885
+Dothidea tinctoria Tul., 1858
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Leptogium davidii M. Lindstr. SPECIES
-=======
+# Leptogium davidii M. Lindstr. SPECIES
 
 #### Status
 ACCEPTED

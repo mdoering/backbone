@@ -1,5 +1,4 @@
-Lichen friabilis Vill. SPECIES
-=======
+# Lichen friabilis Vill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thielaviopsis adiposa (Bulter) C. Moreau SPECIES
-=======
+# Thielaviopsis adiposa (Bulter) C. Moreau SPECIES
 
 #### Status
 ACCEPTED

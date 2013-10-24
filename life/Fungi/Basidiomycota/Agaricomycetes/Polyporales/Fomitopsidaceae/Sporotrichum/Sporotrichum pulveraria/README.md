@@ -1,5 +1,4 @@
-Sporotrichum pulveraria Link SPECIES
-=======
+# Sporotrichum pulveraria Link SPECIES
 
 #### Status
 ACCEPTED

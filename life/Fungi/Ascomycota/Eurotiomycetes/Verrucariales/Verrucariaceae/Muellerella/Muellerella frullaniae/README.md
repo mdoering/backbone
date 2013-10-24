@@ -1,5 +1,4 @@
-Muellerella frullaniae Döbbeler & Triebel SPECIES
-=======
+# Muellerella frullaniae Döbbeler & Triebel SPECIES
 
 #### Status
 ACCEPTED

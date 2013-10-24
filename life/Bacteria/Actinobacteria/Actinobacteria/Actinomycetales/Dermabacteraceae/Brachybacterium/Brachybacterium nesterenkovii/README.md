@@ -1,5 +1,4 @@
-Brachybacterium nesterenkovii Gvozdyak et al., 1992 SPECIES
-=======
+# Brachybacterium nesterenkovii Gvozdyak et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

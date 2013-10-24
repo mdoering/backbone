@@ -1,5 +1,4 @@
-Sclerotium ligulatum Ces. SPECIES
-=======
+# Sclerotium ligulatum Ces. SPECIES
 
 #### Status
 ACCEPTED

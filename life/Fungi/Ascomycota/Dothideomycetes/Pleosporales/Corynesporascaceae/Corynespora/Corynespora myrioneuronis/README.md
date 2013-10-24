@@ -1,5 +1,4 @@
-Corynespora myrioneuronis Jian Ma & X.G. Zhang SPECIES
-=======
+# Corynespora myrioneuronis Jian Ma & X.G. Zhang SPECIES
 
 #### Status
 ACCEPTED

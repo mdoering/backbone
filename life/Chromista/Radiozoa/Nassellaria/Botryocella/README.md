@@ -1,5 +1,4 @@
-Botryocella Haeckel, 1881 GENUS
-=======
+# Botryocella Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

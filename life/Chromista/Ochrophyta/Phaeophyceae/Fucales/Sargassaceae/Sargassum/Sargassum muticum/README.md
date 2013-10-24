@@ -1,8 +1,7 @@
-Sargassum kjellmanianum f. muticum Yendo FORM
-=======
+# Sargassum muticum (Yendo) Fensholt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

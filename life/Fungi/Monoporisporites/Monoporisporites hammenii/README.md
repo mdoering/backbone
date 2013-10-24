@@ -1,5 +1,4 @@
-Monoporisporites hammenii Mart.-Hern. & Tom.-Ort. SPECIES
-=======
+# Monoporisporites hammenii Mart.-Hern. & Tom.-Ort. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe fibrillosa (Cleland) Grgur. SPECIES
-=======
+# Inocybe fibrillosa (Cleland) Grgur. SPECIES
 
 #### Status
 ACCEPTED

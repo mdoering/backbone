@@ -1,14 +1,13 @@
-Cyanothrix W. Schmidle, 1897 GENUS
-=======
+# Hapalosiphon Nägeli ex Bornet & Flahault, 1886 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-All. Bot. Ztschr. 3(3): 37.
+Ann. Sci. Nat. Bot. , ser. 7, 5: 54.
 
 #### Original name
 null

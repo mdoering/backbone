@@ -1,5 +1,4 @@
-Phomopsis montanensis G.G. Hahn SPECIES
-=======
+# Phomopsis montanensis G.G. Hahn SPECIES
 
 #### Status
 ACCEPTED

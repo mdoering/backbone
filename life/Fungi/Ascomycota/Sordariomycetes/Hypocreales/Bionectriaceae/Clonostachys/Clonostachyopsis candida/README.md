@@ -1,5 +1,4 @@
-Clonostachyopsis candida (Harz) Höhn. SPECIES
-=======
+# Clonostachyopsis candida (Harz) Höhn. SPECIES
 
 #### Status
 ACCEPTED

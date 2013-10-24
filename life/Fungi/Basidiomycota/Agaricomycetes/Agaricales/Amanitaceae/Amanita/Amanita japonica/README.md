@@ -1,5 +1,4 @@
-Amanita japonica Hongo ex Bas SPECIES
-=======
+# Amanita japonica Hongo ex Bas SPECIES
 
 #### Status
 ACCEPTED

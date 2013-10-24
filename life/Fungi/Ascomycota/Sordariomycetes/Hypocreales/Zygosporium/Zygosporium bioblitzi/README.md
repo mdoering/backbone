@@ -1,5 +1,4 @@
-Zygosporium bioblitzi McKenzie, Thongk. & Lumyong, 2007 SPECIES
-=======
+# Zygosporium bioblitzi McKenzie, Thongk. & Lumyong, 2007 SPECIES
 
 #### Status
 ACCEPTED

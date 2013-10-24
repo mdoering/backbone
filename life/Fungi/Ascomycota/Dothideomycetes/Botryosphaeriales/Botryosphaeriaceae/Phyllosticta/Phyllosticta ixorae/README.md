@@ -1,5 +1,4 @@
-Phyllosticta ixorae Rangel SPECIES
-=======
+# Phyllosticta ixorae Rangel SPECIES
 
 #### Status
 ACCEPTED

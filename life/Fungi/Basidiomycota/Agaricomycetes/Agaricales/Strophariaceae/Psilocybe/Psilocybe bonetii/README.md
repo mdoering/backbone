@@ -1,5 +1,4 @@
-Psilocybe bonetii Guzmán SPECIES
-=======
+# Psilocybe bonetii Guzmán SPECIES
 
 #### Status
 ACCEPTED

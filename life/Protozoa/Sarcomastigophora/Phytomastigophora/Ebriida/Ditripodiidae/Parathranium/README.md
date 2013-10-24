@@ -1,5 +1,4 @@
-Parathranium Hovasse GENUS
-=======
+# Parathranium Hovasse GENUS
 
 #### Status
 ACCEPTED

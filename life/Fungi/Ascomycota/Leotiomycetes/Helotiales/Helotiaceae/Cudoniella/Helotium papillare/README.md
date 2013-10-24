@@ -1,5 +1,4 @@
-Helotium papillare P. Karst. SPECIES
-=======
+# Helotium papillare P. Karst. SPECIES
 
 #### Status
 ACCEPTED

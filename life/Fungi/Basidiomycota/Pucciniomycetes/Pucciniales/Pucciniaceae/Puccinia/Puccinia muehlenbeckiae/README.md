@@ -1,14 +1,13 @@
-Puccinia rumicis-scutati var. muehlenbeckiae Cooke, 1890 VARIETY
-=======
+# Puccinia muehlenbeckiae (Cooke) P. Syd. & Syd., 1903 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 19(no. 90): 47 (1890)
+Monogr. Uredin. (Lipsiae) 1(3): 566 (1903)
 
 #### Original name
 Puccinia rumicis-scutati var. muehlenbeckiae Cooke, 1890

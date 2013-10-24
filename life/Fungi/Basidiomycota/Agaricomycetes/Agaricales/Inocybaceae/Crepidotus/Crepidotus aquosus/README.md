@@ -1,5 +1,4 @@
-Crepidotus aquosus Murrill SPECIES
-=======
+# Crepidotus aquosus Murrill SPECIES
 
 #### Status
 ACCEPTED

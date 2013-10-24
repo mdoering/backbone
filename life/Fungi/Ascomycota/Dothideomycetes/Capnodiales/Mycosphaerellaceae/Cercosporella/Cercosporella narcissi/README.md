@@ -1,5 +1,4 @@
-Cercosporella narcissi Boud. SPECIES
-=======
+# Cercosporella narcissi Boud. SPECIES
 
 #### Status
 ACCEPTED

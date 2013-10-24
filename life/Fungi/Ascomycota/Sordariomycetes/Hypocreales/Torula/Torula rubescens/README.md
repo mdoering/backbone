@@ -1,5 +1,4 @@
-Torula rubescens Saito SPECIES
-=======
+# Torula rubescens Saito SPECIES
 
 #### Status
 ACCEPTED

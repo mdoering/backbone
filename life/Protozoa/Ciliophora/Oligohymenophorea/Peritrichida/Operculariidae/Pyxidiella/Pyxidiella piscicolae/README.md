@@ -1,5 +1,4 @@
-Pyxidiella piscicolae (Nenninger, 1948) Corliss, 1960 SPECIES
-=======
+# Pyxidiella piscicolae (Nenninger, 1948) Corliss, 1960 SPECIES
 
 #### Status
 ACCEPTED

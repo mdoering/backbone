@@ -1,5 +1,4 @@
-Mallomonas adamas K. Harris & W.H. Bradley SPECIES
-=======
+# Mallomonas adamas K. Harris & W.H. Bradley SPECIES
 
 #### Status
 ACCEPTED

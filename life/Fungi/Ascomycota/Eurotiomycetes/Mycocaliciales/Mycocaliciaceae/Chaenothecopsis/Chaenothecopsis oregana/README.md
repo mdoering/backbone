@@ -1,5 +1,4 @@
-Chaenothecopsis oregana Rikkinen SPECIES
-=======
+# Chaenothecopsis oregana Rikkinen SPECIES
 
 #### Status
 ACCEPTED

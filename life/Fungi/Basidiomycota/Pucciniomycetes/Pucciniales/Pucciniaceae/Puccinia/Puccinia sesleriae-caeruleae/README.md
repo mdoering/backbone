@@ -1,5 +1,4 @@
-Puccinia sesleriae-caeruleae E. Fisch. SPECIES
-=======
+# Puccinia sesleriae-caeruleae E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ondiniella E.B.G. Jones, R.G. Johnson & S.T. Moss GENUS
-=======
+# Ondiniella E.B.G. Jones, R.G. Johnson & S.T. Moss GENUS
 
 #### Status
 ACCEPTED

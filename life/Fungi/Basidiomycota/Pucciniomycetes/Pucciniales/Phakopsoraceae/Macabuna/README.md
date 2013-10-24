@@ -1,5 +1,4 @@
-Macabuna Buriticá & J.F. Hennen GENUS
-=======
+# Macabuna Buriticá & J.F. Hennen GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placographa magnifica Berk. & Broome SPECIES
-=======
+# Placographa magnifica Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiocytium terrestre J. Heyward SPECIES
-=======
+# Ophiocytium terrestre J. Heyward SPECIES
 
 #### Status
 ACCEPTED

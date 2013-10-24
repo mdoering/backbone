@@ -1,5 +1,4 @@
-Hericium commune Roques SPECIES
-=======
+# Hericium commune Roques SPECIES
 
 #### Status
 ACCEPTED

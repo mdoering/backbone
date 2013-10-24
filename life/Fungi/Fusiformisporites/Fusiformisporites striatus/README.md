@@ -1,5 +1,4 @@
-Fusiformisporites striatus (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
-=======
+# Fusiformisporites striatus (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

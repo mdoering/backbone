@@ -1,5 +1,4 @@
-Reticularia aurea Nann.-Bremek., 1966 SPECIES
-=======
+# Reticularia aurea Nann.-Bremek., 1966 SPECIES
 
 #### Status
 ACCEPTED

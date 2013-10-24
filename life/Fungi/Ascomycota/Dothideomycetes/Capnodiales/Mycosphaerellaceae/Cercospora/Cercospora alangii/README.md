@@ -1,5 +1,4 @@
-Cercospora alangii M. Mandal SPECIES
-=======
+# Cercospora alangii M. Mandal SPECIES
 
 #### Status
 ACCEPTED

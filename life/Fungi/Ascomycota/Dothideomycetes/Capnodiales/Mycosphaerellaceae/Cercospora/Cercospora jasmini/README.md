@@ -1,5 +1,4 @@
-Cercospora jasmini Sawada SPECIES
-=======
+# Cercospora jasmini Sawada SPECIES
 
 #### Status
 ACCEPTED

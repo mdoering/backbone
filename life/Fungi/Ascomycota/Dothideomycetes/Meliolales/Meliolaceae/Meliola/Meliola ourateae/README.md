@@ -1,5 +1,4 @@
-Meliola ourateae Hansf. & Deighton SPECIES
-=======
+# Meliola ourateae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

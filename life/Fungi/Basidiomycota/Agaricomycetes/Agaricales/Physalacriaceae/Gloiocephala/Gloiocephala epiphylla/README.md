@@ -1,5 +1,4 @@
-Gloiocephala epiphylla Massee, 1892 SPECIES
-=======
+# Gloiocephala epiphylla Massee, 1892 SPECIES
 
 #### Status
 ACCEPTED

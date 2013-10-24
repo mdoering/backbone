@@ -1,5 +1,4 @@
-Hygrocybe hayi A.M. Young SPECIES
-=======
+# Hygrocybe hayi A.M. Young SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Illosporium hibisci F. Stevens & A.S. Peirce SPECIES
-=======
+# Illosporium hibisci F. Stevens & A.S. Peirce SPECIES
 
 #### Status
 ACCEPTED

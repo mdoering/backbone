@@ -1,5 +1,4 @@
-Porotyche GENUS
-=======
+# Porotyche GENUS
 
 #### Status
 ACCEPTED

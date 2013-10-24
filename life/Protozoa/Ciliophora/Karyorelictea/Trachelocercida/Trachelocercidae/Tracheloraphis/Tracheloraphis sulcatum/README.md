@@ -1,5 +1,4 @@
-Tracheloraphis sulcatum (Kovaleva, 1966) Foissner & Dragesco, 1996 SPECIES
-=======
+# Tracheloraphis sulcatum (Kovaleva, 1966) Foissner & Dragesco, 1996 SPECIES
 
 #### Status
 ACCEPTED

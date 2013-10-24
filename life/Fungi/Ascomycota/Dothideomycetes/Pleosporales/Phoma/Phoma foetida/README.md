@@ -1,5 +1,4 @@
-Phoma foetida Brunaud SPECIES
-=======
+# Phoma foetida Brunaud SPECIES
 
 #### Status
 ACCEPTED

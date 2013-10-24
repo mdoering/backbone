@@ -1,5 +1,4 @@
-Leptothyrium arcticum (Fuckel) Lind SPECIES
-=======
+# Leptothyrium arcticum (Fuckel) Lind SPECIES
 
 #### Status
 ACCEPTED

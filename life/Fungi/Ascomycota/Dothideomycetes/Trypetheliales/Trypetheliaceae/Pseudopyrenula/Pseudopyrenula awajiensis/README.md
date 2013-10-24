@@ -1,5 +1,4 @@
-Pseudopyrenula awajiensis Vain. SPECIES
-=======
+# Pseudopyrenula awajiensis Vain. SPECIES
 
 #### Status
 ACCEPTED

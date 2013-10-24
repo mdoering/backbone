@@ -1,5 +1,4 @@
-Chaenothecopsis brevipes Tibell SPECIES
-=======
+# Chaenothecopsis brevipes Tibell SPECIES
 
 #### Status
 ACCEPTED

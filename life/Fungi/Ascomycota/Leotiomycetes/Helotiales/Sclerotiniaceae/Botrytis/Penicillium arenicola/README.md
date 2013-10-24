@@ -1,8 +1,7 @@
-Penicillium canadense G. Sm., 1956 SPECIES
-=======
+# Penicillium arenicola Chalab., 1950 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

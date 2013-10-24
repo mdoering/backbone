@@ -1,5 +1,4 @@
-Gastronauta Bütschli, 1889 GENUS
-=======
+# Gastronauta Bütschli, 1889 GENUS
 
 #### Status
 ACCEPTED

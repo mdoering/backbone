@@ -1,5 +1,4 @@
-Spumaria flava Schumach. SPECIES
-=======
+# Spumaria flava Schumach. SPECIES
 
 #### Status
 ACCEPTED

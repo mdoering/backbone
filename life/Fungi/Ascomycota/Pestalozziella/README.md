@@ -1,5 +1,4 @@
-Pestalozziella Sacc. & Ellis ex Sacc. GENUS
-=======
+# Pestalozziella Sacc. & Ellis ex Sacc. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca sanguinea (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Caloplaca sanguinea (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

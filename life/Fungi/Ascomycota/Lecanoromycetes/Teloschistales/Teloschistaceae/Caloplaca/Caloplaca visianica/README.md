@@ -1,5 +1,4 @@
-Caloplaca visianica (A. Massal.) Jatta SPECIES
-=======
+# Caloplaca visianica (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED

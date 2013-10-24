@@ -1,5 +1,4 @@
-Syracosphaera tenuis Lohmann SPECIES
-=======
+# Syracosphaera tenuis Lohmann SPECIES
 
 #### Status
 ACCEPTED

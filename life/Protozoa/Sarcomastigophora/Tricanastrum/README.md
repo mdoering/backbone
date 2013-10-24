@@ -1,5 +1,4 @@
-Tricanastrum Haeckel, 1887 GENUS
-=======
+# Tricanastrum Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

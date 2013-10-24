@@ -1,5 +1,4 @@
-Fragilaria quadrata (Hustedt) Lange-Bertalot & Metzeltin SPECIES
-=======
+# Fragilaria quadrata (Hustedt) Lange-Bertalot & Metzeltin SPECIES
 
 #### Status
 ACCEPTED

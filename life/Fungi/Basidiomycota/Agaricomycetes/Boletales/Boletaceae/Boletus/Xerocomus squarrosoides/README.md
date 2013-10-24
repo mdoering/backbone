@@ -1,5 +1,4 @@
-Xerocomus squarrosoides (Snell & E.A. Dick) Singer SPECIES
-=======
+# Xerocomus squarrosoides (Snell & E.A. Dick) Singer SPECIES
 
 #### Status
 ACCEPTED

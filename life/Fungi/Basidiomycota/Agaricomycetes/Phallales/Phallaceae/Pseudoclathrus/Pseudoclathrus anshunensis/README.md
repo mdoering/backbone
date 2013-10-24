@@ -1,5 +1,4 @@
-Pseudoclathrus anshunensis W. Zhou & K.Q. Zhang SPECIES
-=======
+# Pseudoclathrus anshunensis W. Zhou & K.Q. Zhang SPECIES
 
 #### Status
 ACCEPTED

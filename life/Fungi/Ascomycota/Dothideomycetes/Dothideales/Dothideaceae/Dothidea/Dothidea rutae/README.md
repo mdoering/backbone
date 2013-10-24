@@ -1,5 +1,4 @@
-Dothidea rutae Mont. SPECIES
-=======
+# Dothidea rutae Mont. SPECIES
 
 #### Status
 ACCEPTED

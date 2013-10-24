@@ -1,5 +1,4 @@
-Entoloma beyerii Noordel. & Wölfel SPECIES
-=======
+# Entoloma beyerii Noordel. & Wölfel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus lapideus Velen. SPECIES
-=======
+# Boletus lapideus Velen. SPECIES
 
 #### Status
 ACCEPTED

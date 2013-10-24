@@ -1,5 +1,4 @@
-Mycena filiformis A.H. Sm. SPECIES
-=======
+# Mycena filiformis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

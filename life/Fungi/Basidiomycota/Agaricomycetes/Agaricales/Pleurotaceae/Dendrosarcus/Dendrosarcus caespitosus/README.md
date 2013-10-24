@@ -1,5 +1,4 @@
-Dendrosarcus caespitosus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Dendrosarcus caespitosus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

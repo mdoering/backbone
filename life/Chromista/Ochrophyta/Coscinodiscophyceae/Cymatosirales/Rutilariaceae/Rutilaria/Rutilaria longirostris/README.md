@@ -1,5 +1,4 @@
-Rutilaria longirostris N. V. Anissimowa SPECIES
-=======
+# Rutilaria longirostris N. V. Anissimowa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora smilacinae Ellis & Everh. SPECIES
-=======
+# Cercospora smilacinae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

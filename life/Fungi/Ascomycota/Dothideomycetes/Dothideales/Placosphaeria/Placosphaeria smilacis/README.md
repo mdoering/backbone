@@ -1,5 +1,4 @@
-Placosphaeria smilacis Allesch. SPECIES
-=======
+# Placosphaeria smilacis Allesch. SPECIES
 
 #### Status
 ACCEPTED

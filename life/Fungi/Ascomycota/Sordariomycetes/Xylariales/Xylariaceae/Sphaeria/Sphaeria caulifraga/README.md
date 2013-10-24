@@ -1,5 +1,4 @@
-Sphaeria caulifraga Fr. SPECIES
-=======
+# Sphaeria caulifraga Fr. SPECIES
 
 #### Status
 ACCEPTED

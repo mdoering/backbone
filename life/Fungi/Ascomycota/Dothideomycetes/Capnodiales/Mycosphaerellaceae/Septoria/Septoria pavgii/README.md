@@ -1,5 +1,4 @@
-Septoria pavgii U. Braun & Bagyan. SPECIES
-=======
+# Septoria pavgii U. Braun & Bagyan. SPECIES
 
 #### Status
 ACCEPTED

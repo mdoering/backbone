@@ -1,5 +1,4 @@
-Hypotrachyna terricola Elix SPECIES
-=======
+# Hypotrachyna terricola Elix SPECIES
 
 #### Status
 ACCEPTED

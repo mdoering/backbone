@@ -1,5 +1,4 @@
-Holosticha mononucleata Gelei, 1954 SPECIES
-=======
+# Holosticha mononucleata Gelei, 1954 SPECIES
 
 #### Status
 ACCEPTED

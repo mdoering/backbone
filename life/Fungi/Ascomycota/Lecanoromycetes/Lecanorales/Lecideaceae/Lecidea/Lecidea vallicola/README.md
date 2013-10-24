@@ -1,5 +1,4 @@
-Lecidea vallicola H. Magn. SPECIES
-=======
+# Lecidea vallicola H. Magn. SPECIES
 
 #### Status
 ACCEPTED

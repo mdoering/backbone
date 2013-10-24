@@ -1,5 +1,4 @@
-Proteus ichthyosmius SPECIES
-=======
+# Proteus ichthyosmius SPECIES
 
 #### Status
 ACCEPTED

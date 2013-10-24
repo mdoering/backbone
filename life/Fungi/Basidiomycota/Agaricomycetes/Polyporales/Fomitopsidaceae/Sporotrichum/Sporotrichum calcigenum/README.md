@@ -1,5 +1,4 @@
-Sporotrichum calcigenum Link SPECIES
-=======
+# Sporotrichum calcigenum Link SPECIES
 
 #### Status
 ACCEPTED

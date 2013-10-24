@@ -1,17 +1,16 @@
-Gloeosporium coffeicola subsp. coffeicola SUBSPECIES
-=======
+# Gloeosporium coffeicola Tassi SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Fusaria autographica delineata, Edn 1 no. 493 (1916)
 
 #### Original name
-null
+Gloeosporium coffeicola Tassi
 
 ### Remarks
 null

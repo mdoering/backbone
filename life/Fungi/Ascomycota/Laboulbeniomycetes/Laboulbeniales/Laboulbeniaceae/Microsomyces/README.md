@@ -1,5 +1,4 @@
-Microsomyces Thaxt. GENUS
-=======
+# Microsomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

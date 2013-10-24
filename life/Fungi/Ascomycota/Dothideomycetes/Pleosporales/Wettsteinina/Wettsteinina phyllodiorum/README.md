@@ -1,5 +1,4 @@
-Wettsteinina phyllodiorum (McAlpine) J. Walker SPECIES
-=======
+# Wettsteinina phyllodiorum (McAlpine) J. Walker SPECIES
 
 #### Status
 ACCEPTED

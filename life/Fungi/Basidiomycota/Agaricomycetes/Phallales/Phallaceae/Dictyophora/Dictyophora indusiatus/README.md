@@ -1,5 +1,4 @@
-Dictyophora indusiatus (Vent. Pers.) Fisch. SPECIES
-=======
+# Dictyophora indusiatus (Vent. Pers.) Fisch. SPECIES
 
 #### Status
 ACCEPTED

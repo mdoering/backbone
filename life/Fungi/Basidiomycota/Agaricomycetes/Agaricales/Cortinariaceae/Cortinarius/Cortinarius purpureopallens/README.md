@@ -1,5 +1,4 @@
-Cortinarius purpureopallens Reumaux SPECIES
-=======
+# Cortinarius purpureopallens Reumaux SPECIES
 
 #### Status
 ACCEPTED

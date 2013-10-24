@@ -1,5 +1,4 @@
-Vulvulina haeringensis (Gumbel) SPECIES
-=======
+# Vulvulina haeringensis (Gumbel) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sargassum banyuejiaoense C.K.Tseng & Lu SPECIES
-=======
+# Sargassum banyuejiaoense C.K.Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

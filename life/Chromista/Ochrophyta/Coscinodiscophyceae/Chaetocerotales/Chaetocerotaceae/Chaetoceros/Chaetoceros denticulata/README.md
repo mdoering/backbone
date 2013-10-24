@@ -1,5 +1,4 @@
-Chaetoceros denticulata Lauder, 1864 SPECIES
-=======
+# Chaetoceros denticulata Lauder, 1864 SPECIES
 
 #### Status
 ACCEPTED

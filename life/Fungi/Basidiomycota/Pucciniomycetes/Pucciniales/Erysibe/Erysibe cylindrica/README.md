@@ -1,5 +1,4 @@
-Erysibe cylindrica Wallr. SPECIES
-=======
+# Erysibe cylindrica Wallr. SPECIES
 
 #### Status
 ACCEPTED

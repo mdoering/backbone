@@ -1,5 +1,4 @@
-Woronichinia klingiae J. Komárek & J. Komárková-Legnerová SPECIES
-=======
+# Woronichinia klingiae J. Komárek & J. Komárková-Legnerová SPECIES
 
 #### Status
 ACCEPTED

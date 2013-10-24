@@ -1,5 +1,4 @@
-Phyllosticta rafinesquii H.W. Anderson SPECIES
-=======
+# Phyllosticta rafinesquii H.W. Anderson SPECIES
 
 #### Status
 ACCEPTED

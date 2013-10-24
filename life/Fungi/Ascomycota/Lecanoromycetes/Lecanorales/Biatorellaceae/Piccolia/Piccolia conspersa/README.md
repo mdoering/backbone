@@ -1,5 +1,4 @@
-Biatorella conspersa f. conspersa FORM
-=======
+# Piccolia conspersa (Fée) Hafellner SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Acta Soc. Fauna Flora fenn. 7(2): 62 (1890)
+Biblthca Lichenol. 58: 109 (1995)
 
 #### Original name
 Lecidea conspersa Fée

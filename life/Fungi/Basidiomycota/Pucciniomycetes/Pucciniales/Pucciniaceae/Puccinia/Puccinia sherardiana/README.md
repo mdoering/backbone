@@ -1,14 +1,13 @@
-Dicaeoma sherardianum (Körn.) Kuntze, 1898 SPECIES
-=======
+# Puccinia sherardiana Körn., 1877 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 470 (1898)
+Hedwigia 16: 19 (1877)
 
 #### Original name
 Puccinia sherardiana Körn., 1877

@@ -1,5 +1,4 @@
-Tristix Macfadyen, 1941 GENUS
-=======
+# Tristix Macfadyen, 1941 GENUS
 
 #### Status
 ACCEPTED

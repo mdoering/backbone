@@ -1,5 +1,4 @@
-Schinzinia Fayod GENUS
-=======
+# Schinzinia Fayod GENUS
 
 #### Status
 ACCEPTED

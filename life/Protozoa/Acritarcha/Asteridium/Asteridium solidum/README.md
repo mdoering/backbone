@@ -1,5 +1,4 @@
-Asteridium solidum Moczydlowska, 1998 SPECIES
-=======
+# Asteridium solidum Moczydlowska, 1998 SPECIES
 
 #### Status
 ACCEPTED

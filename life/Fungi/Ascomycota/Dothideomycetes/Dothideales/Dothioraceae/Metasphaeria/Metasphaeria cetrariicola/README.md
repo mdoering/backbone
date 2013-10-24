@@ -1,14 +1,13 @@
-Sphaerulina cetraricola (Nyl. ex Cooke) P. Karst. SPECIES
-=======
+# Metasphaeria cetrariicola (Nyl. ex Cooke) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 2: 184 (1883)
 
 #### Original name
 Sphaeria cetrariicola Nyl., 1874

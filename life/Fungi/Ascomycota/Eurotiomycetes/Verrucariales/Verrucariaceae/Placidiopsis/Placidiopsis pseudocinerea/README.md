@@ -1,5 +1,4 @@
-Placidiopsis pseudocinerea Breuss SPECIES
-=======
+# Placidiopsis pseudocinerea Breuss SPECIES
 
 #### Status
 ACCEPTED

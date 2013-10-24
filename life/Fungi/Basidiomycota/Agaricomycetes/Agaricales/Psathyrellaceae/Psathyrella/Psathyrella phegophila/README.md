@@ -1,5 +1,4 @@
-Psathyrella phegophila Romagn., 1985 SPECIES
-=======
+# Psathyrella phegophila Romagn., 1985 SPECIES
 
 #### Status
 ACCEPTED

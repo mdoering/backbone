@@ -1,5 +1,4 @@
-Phaeoseptoria rostrupii (Lind) Jørst. SPECIES
-=======
+# Phaeoseptoria rostrupii (Lind) Jørst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia tepperi F. Ludw. SPECIES
-=======
+# Puccinia tepperi F. Ludw. SPECIES
 
 #### Status
 ACCEPTED

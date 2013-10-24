@@ -1,5 +1,4 @@
-Radaisiella elegans Bainier SPECIES
-=======
+# Radaisiella elegans Bainier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterolampra parvulus Karsten SPECIES
-=======
+# Asterolampra parvulus Karsten SPECIES
 
 #### Status
 ACCEPTED

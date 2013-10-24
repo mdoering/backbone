@@ -1,5 +1,4 @@
-Cyanisticta hawaiiensis (H. Magn.) Räsänen SPECIES
-=======
+# Cyanisticta hawaiiensis (H. Magn.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

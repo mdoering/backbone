@@ -1,5 +1,4 @@
-Lecania detractula (Nyl.) Arnold SPECIES
-=======
+# Lecania detractula (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

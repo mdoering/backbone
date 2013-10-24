@@ -1,5 +1,4 @@
-Amphoridium lojkanum (Servít) Servít SPECIES
-=======
+# Amphoridium lojkanum (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

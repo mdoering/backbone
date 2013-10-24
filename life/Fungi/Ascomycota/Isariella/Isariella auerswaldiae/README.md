@@ -1,5 +1,4 @@
-Isariella auerswaldiae Henn., 1908 SPECIES
-=======
+# Isariella auerswaldiae Henn., 1908 SPECIES
 
 #### Status
 ACCEPTED

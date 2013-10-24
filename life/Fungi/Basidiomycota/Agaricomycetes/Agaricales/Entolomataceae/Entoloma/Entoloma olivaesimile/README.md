@@ -1,5 +1,4 @@
-Entoloma olivaesimile E. Horak SPECIES
-=======
+# Entoloma olivaesimile E. Horak SPECIES
 
 #### Status
 ACCEPTED

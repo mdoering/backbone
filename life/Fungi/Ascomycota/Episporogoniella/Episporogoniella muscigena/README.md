@@ -1,14 +1,13 @@
-Didymaria muscigena Speg., 1889 SPECIES
-=======
+# Episporogoniella muscigena (Speg.) U. Braun, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boln Acad. nac. Cienc. Córdoba 11(4): 613 (1889)
+Mycotaxon 51: 41 (1994)
 
 #### Original name
 Didymaria muscigena Speg., 1889

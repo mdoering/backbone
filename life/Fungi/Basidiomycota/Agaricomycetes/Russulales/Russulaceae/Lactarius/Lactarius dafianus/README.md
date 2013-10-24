@@ -1,5 +1,4 @@
-Lactarius dafianus K. Das, J.R. Sharma & Verbeken SPECIES
-=======
+# Lactarius dafianus K. Das, J.R. Sharma & Verbeken SPECIES
 
 #### Status
 ACCEPTED

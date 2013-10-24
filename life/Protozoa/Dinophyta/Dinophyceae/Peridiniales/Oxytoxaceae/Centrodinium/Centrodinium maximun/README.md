@@ -1,5 +1,4 @@
-Centrodinium maximun Pavillard, 1930 SPECIES
-=======
+# Centrodinium maximun Pavillard, 1930 SPECIES
 
 #### Status
 ACCEPTED

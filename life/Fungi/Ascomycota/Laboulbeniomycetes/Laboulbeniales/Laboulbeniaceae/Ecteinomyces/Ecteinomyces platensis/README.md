@@ -1,5 +1,4 @@
-Ecteinomyces platensis Speg. SPECIES
-=======
+# Ecteinomyces platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

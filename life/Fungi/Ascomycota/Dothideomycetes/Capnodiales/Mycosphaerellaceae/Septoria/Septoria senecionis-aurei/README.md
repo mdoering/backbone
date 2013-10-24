@@ -1,5 +1,4 @@
-Septoria senecionis-aurei Davis SPECIES
-=======
+# Septoria senecionis-aurei Davis SPECIES
 
 #### Status
 ACCEPTED

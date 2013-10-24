@@ -1,5 +1,4 @@
-Monodictys austrina Tubaki, 1965 SPECIES
-=======
+# Monodictys austrina Tubaki, 1965 SPECIES
 
 #### Status
 ACCEPTED

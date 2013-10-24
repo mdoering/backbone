@@ -1,5 +1,4 @@
-Usnea subintumescens f. subintumescens FORM
-=======
+# Usnea subintumescens Asahina SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+J. Jap. Bot. 47(5): 129 (1972)
 
 #### Original name
-Usnea subintumescens f. subintumescens
+Usnea subintumescens Asahina
 
 ### Remarks
 null

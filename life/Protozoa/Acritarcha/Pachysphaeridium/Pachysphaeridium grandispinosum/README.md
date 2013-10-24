@@ -1,5 +1,4 @@
-Pachysphaeridium grandispinosum (Uutela & Tynni, 1991) Ribecai & Tongiorgi, 1999 SPECIES
-=======
+# Pachysphaeridium grandispinosum (Uutela & Tynni, 1991) Ribecai & Tongiorgi, 1999 SPECIES
 
 #### Status
 ACCEPTED

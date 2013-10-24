@@ -1,5 +1,4 @@
-Phyllachora lauri-borboniae (Schwein.) Sacc. SPECIES
-=======
+# Phyllachora lauri-borboniae (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

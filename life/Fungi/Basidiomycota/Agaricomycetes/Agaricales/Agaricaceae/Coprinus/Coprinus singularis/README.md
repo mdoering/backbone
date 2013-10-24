@@ -1,5 +1,4 @@
-Coprinus singularis Uljé SPECIES
-=======
+# Coprinus singularis Uljé SPECIES
 
 #### Status
 ACCEPTED

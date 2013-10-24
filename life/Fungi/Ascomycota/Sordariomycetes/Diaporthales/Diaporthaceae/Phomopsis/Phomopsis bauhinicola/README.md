@@ -1,5 +1,4 @@
-Phomopsis bauhinicola M.M. Xiang, Z.D. Jiang & P.K. Chi SPECIES
-=======
+# Phomopsis bauhinicola M.M. Xiang, Z.D. Jiang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

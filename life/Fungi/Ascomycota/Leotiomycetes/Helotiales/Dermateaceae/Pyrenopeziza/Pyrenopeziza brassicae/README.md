@@ -1,17 +1,16 @@
-Gloeosporium concentricum (Grev.) Berk. & Broome, 1850 SPECIES
-=======
+# Pyrenopeziza brassicae B. Sutton & Rawl., 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 2 5: 455 (1850)
+in Rawlinson, Sutton & Muthyalu, Trans. Br. mycol. Soc. 71(3): 426 (1979)
 
 #### Original name
-Cylindrosporium concentricum Unger, 1833
+Pyrenopeziza brassicae B. Sutton & Rawl., 1979
 
 ### Remarks
 null

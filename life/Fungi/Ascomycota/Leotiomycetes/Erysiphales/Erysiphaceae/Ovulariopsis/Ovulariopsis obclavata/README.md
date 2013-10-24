@@ -1,5 +1,4 @@
-Ovulariopsis obclavata Wakef. SPECIES
-=======
+# Ovulariopsis obclavata Wakef. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea litoralis C. Knight SPECIES
-=======
+# Lecidea litoralis C. Knight SPECIES
 
 #### Status
 ACCEPTED

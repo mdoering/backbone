@@ -1,5 +1,4 @@
-Phyllosticta ribiseda Bubák & Kabát SPECIES
-=======
+# Phyllosticta ribiseda Bubák & Kabát SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anaptychia tentaculata (Zahlbr.) Kurok. SPECIES
-=======
+# Anaptychia tentaculata (Zahlbr.) Kurok. SPECIES
 
 #### Status
 ACCEPTED

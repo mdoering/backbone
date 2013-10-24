@@ -1,5 +1,4 @@
-Sphaceloma mori Kuros. {?} & Katsuki SPECIES
-=======
+# Sphaceloma mori Kuros. {?} & Katsuki SPECIES
 
 #### Status
 ACCEPTED

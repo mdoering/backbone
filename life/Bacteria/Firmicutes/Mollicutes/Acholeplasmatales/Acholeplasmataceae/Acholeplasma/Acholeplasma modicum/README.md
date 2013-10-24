@@ -1,5 +1,4 @@
-Acholeplasma modicum Leach, 1973 (Approved Lists, 1980) SPECIES
-=======
+# Acholeplasma modicum Leach, 1973 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

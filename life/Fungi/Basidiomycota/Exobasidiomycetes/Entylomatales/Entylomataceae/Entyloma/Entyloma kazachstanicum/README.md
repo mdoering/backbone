@@ -1,5 +1,4 @@
-Entyloma kazachstanicum Schwarzman SPECIES
-=======
+# Entyloma kazachstanicum Schwarzman SPECIES
 
 #### Status
 ACCEPTED

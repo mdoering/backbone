@@ -1,5 +1,4 @@
-Phyllosticta cannicola V.G. Rao SPECIES
-=======
+# Phyllosticta cannicola V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

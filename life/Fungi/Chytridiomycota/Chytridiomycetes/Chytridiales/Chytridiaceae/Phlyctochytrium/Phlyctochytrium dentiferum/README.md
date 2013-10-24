@@ -1,5 +1,4 @@
-Phlyctochytrium dentiferum Sparrow SPECIES
-=======
+# Phlyctochytrium dentiferum Sparrow SPECIES
 
 #### Status
 ACCEPTED

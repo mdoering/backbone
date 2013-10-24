@@ -1,5 +1,4 @@
-Stilbum micropus Pers. SPECIES
-=======
+# Stilbum micropus Pers. SPECIES
 
 #### Status
 ACCEPTED

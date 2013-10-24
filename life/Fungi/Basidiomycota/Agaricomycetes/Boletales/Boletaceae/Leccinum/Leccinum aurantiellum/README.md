@@ -1,5 +1,4 @@
-Leccinum aurantiellum E.A. Dick & Snell SPECIES
-=======
+# Leccinum aurantiellum E.A. Dick & Snell SPECIES
 
 #### Status
 ACCEPTED

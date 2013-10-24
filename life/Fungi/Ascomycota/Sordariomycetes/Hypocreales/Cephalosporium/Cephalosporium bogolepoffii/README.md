@@ -1,5 +1,4 @@
-Cephalosporium bogolepoffii (Vuill.) C.W. Dodge SPECIES
-=======
+# Cephalosporium bogolepoffii (Vuill.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

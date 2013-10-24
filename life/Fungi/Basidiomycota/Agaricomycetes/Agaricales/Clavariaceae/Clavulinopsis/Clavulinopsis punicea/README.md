@@ -1,5 +1,4 @@
-Clavulinopsis punicea Corner SPECIES
-=======
+# Clavulinopsis punicea Corner SPECIES
 
 #### Status
 ACCEPTED

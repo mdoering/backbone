@@ -1,8 +1,7 @@
-Laurera santessoni Letr.-Gal. SPECIES
-=======
+# Laurera santessonii Letr.-Gal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Laurera santessoni Letr.-Gal.
+Laurera santessonii Letr.-Gal.
 
 ### Remarks
 null

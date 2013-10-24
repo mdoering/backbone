@@ -1,5 +1,4 @@
-Squamaria hiulca Nyl. SPECIES
-=======
+# Squamaria hiulca Nyl. SPECIES
 
 #### Status
 ACCEPTED

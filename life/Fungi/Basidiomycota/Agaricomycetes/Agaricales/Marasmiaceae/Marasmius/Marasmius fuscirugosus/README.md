@@ -1,5 +1,4 @@
-Marasmius fuscirugosus Corner SPECIES
-=======
+# Marasmius fuscirugosus Corner SPECIES
 
 #### Status
 ACCEPTED

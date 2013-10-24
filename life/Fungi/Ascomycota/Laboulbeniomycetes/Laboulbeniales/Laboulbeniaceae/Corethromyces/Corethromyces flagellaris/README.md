@@ -1,5 +1,4 @@
-Corethromyces flagellaris Thaxt. SPECIES
-=======
+# Corethromyces flagellaris Thaxt. SPECIES
 
 #### Status
 ACCEPTED

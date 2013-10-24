@@ -1,5 +1,4 @@
-Diatrypella wistariae Tschern. SPECIES
-=======
+# Diatrypella wistariae Tschern. SPECIES
 
 #### Status
 ACCEPTED

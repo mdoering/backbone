@@ -1,5 +1,4 @@
-Laboulbenia habui Terada SPECIES
-=======
+# Laboulbenia habui Terada SPECIES
 
 #### Status
 ACCEPTED

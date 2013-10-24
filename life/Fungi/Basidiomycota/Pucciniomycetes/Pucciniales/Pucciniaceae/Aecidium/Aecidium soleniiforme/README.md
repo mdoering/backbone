@@ -1,5 +1,4 @@
-Aecidium soleniiforme Berk. SPECIES
-=======
+# Aecidium soleniiforme Berk. SPECIES
 
 #### Status
 ACCEPTED

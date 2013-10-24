@@ -1,14 +1,13 @@
-Alternaria amaranti (Peck) J.M. Hook SPECIES
-=======
+# Alternaria amaranthi (Peck) J.M. Hook SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. natn. Acad. Sci. India, Sect. B, Biol. Sci. 214 (1921)
 
 #### Original name
 Macrosporium amaranthi Peck

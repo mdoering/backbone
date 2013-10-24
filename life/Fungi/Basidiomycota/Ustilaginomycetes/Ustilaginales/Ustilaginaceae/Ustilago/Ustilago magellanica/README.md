@@ -1,5 +1,4 @@
-Ustilago magellanica (Speg.) Cif. SPECIES
-=======
+# Ustilago magellanica (Speg.) Cif. SPECIES
 
 #### Status
 ACCEPTED

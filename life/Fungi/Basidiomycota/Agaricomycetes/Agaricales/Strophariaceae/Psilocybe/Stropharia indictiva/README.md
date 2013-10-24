@@ -1,5 +1,4 @@
-Stropharia indictiva (Britzelm.) Sacc. SPECIES
-=======
+# Stropharia indictiva (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

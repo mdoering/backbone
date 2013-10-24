@@ -1,5 +1,4 @@
-Dimeromyces balazucii W. Rossi & Cesari, 1977 SPECIES
-=======
+# Dimeromyces balazucii W. Rossi & Cesari, 1977 SPECIES
 
 #### Status
 ACCEPTED

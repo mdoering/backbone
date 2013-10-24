@@ -1,17 +1,16 @@
-Agaricus craspedius var. craspedius VARIETY
-=======
+# Pleurotus craspedius (Fr.) Gillet, 1876 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hyménomycètes (Alençon) 341 (1876)
 
 #### Original name
-null
+Agaricus craspedius Fr., 1821
 
 ### Remarks
 null

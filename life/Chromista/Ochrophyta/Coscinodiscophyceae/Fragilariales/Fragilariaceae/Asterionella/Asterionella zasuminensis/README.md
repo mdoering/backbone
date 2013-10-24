@@ -1,8 +1,7 @@
-Eunotia ossa Brady SPECIES
-=======
+# Asterionella zasuminensis (Cabejszekówana) Lundh-Almestrand SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

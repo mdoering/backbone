@@ -1,5 +1,4 @@
-Poria geogena Berk. & M.A. Curtis ex Cooke SPECIES
-=======
+# Poria geogena Berk. & M.A. Curtis ex Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalospora sesbaniae Ellis & Everh. SPECIES
-=======
+# Physalospora sesbaniae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

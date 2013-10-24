@@ -1,5 +1,4 @@
-Trametes fulvirubida var. fulvirubida VARIETY
-=======
+# Trametes fulvirubida Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Beih. Nova Hedwigia 97: 104 (1989)
 
 #### Original name
-Trametes fulvirubida var. fulvirubida
+Trametes fulvirubida Corner
 
 ### Remarks
 null

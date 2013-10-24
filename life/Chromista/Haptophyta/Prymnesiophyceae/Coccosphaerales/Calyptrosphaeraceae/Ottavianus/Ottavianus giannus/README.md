@@ -1,5 +1,4 @@
-Ottavianus giannus J.B. Risatti SPECIES
-=======
+# Ottavianus giannus J.B. Risatti SPECIES
 
 #### Status
 ACCEPTED

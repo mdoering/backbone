@@ -1,5 +1,4 @@
-Phaeographis kalbii Staiger SPECIES
-=======
+# Phaeographis kalbii Staiger SPECIES
 
 #### Status
 ACCEPTED

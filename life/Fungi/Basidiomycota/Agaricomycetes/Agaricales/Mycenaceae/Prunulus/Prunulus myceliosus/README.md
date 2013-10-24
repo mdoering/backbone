@@ -1,5 +1,4 @@
-Prunulus myceliosus Murrill SPECIES
-=======
+# Prunulus myceliosus Murrill SPECIES
 
 #### Status
 ACCEPTED

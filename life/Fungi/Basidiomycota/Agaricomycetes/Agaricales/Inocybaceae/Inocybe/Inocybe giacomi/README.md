@@ -1,14 +1,13 @@
-Astrosporina giacomi (J. Favre) E. Horak, 1987 SPECIES
-=======
+# Inocybe giacomi O.K. Mill. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Arctic Alpine Mycology (New York), II 217 (1987)
+Ergebn. wiss. Unters. schweiz. NatnParks 5: 115 (1955)
 
 #### Original name
 Inocybe giacomi O.K. Mill.

@@ -1,5 +1,4 @@
-Meliola canarii-albi B. Song & Y.X. Hu SPECIES
-=======
+# Meliola canarii-albi B. Song & Y.X. Hu SPECIES
 
 #### Status
 ACCEPTED

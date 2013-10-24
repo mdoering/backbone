@@ -1,5 +1,4 @@
-Sphaeria crocina Mont. SPECIES
-=======
+# Sphaeria crocina Mont. SPECIES
 
 #### Status
 ACCEPTED

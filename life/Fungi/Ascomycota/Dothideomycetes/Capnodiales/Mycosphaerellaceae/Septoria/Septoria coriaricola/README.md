@@ -1,5 +1,4 @@
-Septoria coriaricola Petr. SPECIES
-=======
+# Septoria coriaricola Petr. SPECIES
 
 #### Status
 ACCEPTED

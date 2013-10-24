@@ -1,5 +1,4 @@
-Micropeltis allophyllifolii Bat. & I.H. Lima SPECIES
-=======
+# Micropeltis allophyllifolii Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

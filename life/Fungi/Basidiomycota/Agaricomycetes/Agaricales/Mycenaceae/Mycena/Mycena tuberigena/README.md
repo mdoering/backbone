@@ -1,5 +1,4 @@
-Mycena tuberigena (Berk.) Sacc. SPECIES
-=======
+# Mycena tuberigena (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

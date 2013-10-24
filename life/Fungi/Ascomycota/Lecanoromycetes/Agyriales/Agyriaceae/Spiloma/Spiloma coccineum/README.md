@@ -1,5 +1,4 @@
-Spiloma coccineum (Schultz) Chevall. SPECIES
-=======
+# Spiloma coccineum (Schultz) Chevall. SPECIES
 
 #### Status
 ACCEPTED

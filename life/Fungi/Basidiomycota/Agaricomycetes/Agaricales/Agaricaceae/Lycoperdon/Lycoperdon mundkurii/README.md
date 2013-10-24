@@ -1,8 +1,7 @@
-Lycoperdon mundkuri S. Ahmad SPECIES
-=======
+# Lycoperdon mundkurii S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lycoperdon mundkuri S. Ahmad
+Lycoperdon mundkurii S. Ahmad
 
 ### Remarks
 null

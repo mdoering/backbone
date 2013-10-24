@@ -1,5 +1,4 @@
-Fuscoporia montana Y.C. Dai & Niemelä SPECIES
-=======
+# Fuscoporia montana Y.C. Dai & Niemelä SPECIES
 
 #### Status
 ACCEPTED

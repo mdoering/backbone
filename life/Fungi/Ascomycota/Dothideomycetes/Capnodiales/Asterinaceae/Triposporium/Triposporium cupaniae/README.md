@@ -1,5 +1,4 @@
-Triposporium cupaniae Gonz. Frag. & Cif. SPECIES
-=======
+# Triposporium cupaniae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria macrocarpa Rabenh. SPECIES
-=======
+# Sphaeria macrocarpa Rabenh. SPECIES
 
 #### Status
 ACCEPTED

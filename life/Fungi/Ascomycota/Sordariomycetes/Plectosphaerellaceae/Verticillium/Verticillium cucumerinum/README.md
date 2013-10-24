@@ -1,5 +1,4 @@
-Verticillium cucumerinum Aderh. SPECIES
-=======
+# Verticillium cucumerinum Aderh. SPECIES
 
 #### Status
 ACCEPTED

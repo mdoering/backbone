@@ -1,5 +1,4 @@
-Sacidium ixerbae Cooke SPECIES
-=======
+# Sacidium ixerbae Cooke SPECIES
 
 #### Status
 ACCEPTED

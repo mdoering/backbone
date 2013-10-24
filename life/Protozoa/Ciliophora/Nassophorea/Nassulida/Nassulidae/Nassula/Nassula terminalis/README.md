@@ -1,5 +1,4 @@
-Nassula terminalis Ozaki & Yagiu, 1941 SPECIES
-=======
+# Nassula terminalis Ozaki & Yagiu, 1941 SPECIES
 
 #### Status
 ACCEPTED

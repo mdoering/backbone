@@ -1,5 +1,4 @@
-Candelariopsis australis (Arnold) Szatala SPECIES
-=======
+# Candelariopsis australis (Arnold) Szatala SPECIES
 
 #### Status
 ACCEPTED

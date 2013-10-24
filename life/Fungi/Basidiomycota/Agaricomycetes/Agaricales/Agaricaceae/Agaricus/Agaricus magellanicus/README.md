@@ -1,5 +1,4 @@
-Agaricus magellanicus Speg. SPECIES
-=======
+# Agaricus magellanicus Speg. SPECIES
 
 #### Status
 ACCEPTED

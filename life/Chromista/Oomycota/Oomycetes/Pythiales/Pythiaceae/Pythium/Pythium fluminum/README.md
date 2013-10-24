@@ -1,5 +1,4 @@
-Pythium fluminum var. flavum D. Park, 1977 VARIETY
-=======
+# Pythium fluminum D. Park, 1977 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 69(2): 230 (1977)
+null
 
 #### Original name
-Pythium fluminum var. flavum D. Park, 1977
+null
 
 ### Remarks
 null

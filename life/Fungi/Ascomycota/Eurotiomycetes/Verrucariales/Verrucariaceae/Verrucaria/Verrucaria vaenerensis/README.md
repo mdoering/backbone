@@ -1,5 +1,4 @@
-Verrucaria vaenerensis Servít SPECIES
-=======
+# Verrucaria vaenerensis Servít SPECIES
 
 #### Status
 ACCEPTED

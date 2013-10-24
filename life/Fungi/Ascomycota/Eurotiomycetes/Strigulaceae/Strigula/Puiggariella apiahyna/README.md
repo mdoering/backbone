@@ -1,5 +1,4 @@
-Puiggariella apiahyna var. gracilior Speg. VARIETY
-=======
+# Puiggariella apiahyna Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Boletín de la Academia Nacional de Ciencias de Córdoba 23: 508 (1919)
+Anal. Soc. cient. argent. 12: 99 (1881)
 
 #### Original name
-Puiggariella apiahyna var. gracilior Speg.
+Puiggariella apiahyna Speg.
 
 ### Remarks
 null

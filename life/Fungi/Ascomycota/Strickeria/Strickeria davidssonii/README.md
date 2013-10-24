@@ -1,5 +1,4 @@
-Strickeria davidssonii (Rostr.) P. Larsen SPECIES
-=======
+# Strickeria davidssonii (Rostr.) P. Larsen SPECIES
 
 #### Status
 ACCEPTED

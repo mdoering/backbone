@@ -1,8 +1,7 @@
-Spirillina limbata var. papillosa Cushman, 1915 VARIETY
-=======
+# Planispirillina papillosa (Cushman, 1915) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

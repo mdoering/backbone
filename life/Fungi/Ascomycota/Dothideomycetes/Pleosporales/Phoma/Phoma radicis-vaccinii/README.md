@@ -1,5 +1,4 @@
-Phoma radicis-vaccinii Ternetz SPECIES
-=======
+# Phoma radicis-vaccinii Ternetz SPECIES
 
 #### Status
 ACCEPTED

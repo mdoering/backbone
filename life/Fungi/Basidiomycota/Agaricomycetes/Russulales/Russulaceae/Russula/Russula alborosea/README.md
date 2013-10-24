@@ -1,5 +1,4 @@
-Russula alborosea Reumaux SPECIES
-=======
+# Russula alborosea Reumaux SPECIES
 
 #### Status
 ACCEPTED

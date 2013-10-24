@@ -1,5 +1,4 @@
-Opercularia confervarum Faure-Fremiet, 1905 SPECIES
-=======
+# Opercularia confervarum Faure-Fremiet, 1905 SPECIES
 
 #### Status
 ACCEPTED

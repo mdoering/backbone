@@ -1,5 +1,4 @@
-Ordovicidium clavatum (Uutela & Tynni, 1991) Eiserhardt, 1992 SPECIES
-=======
+# Ordovicidium clavatum (Uutela & Tynni, 1991) Eiserhardt, 1992 SPECIES
 
 #### Status
 ACCEPTED

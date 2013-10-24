@@ -1,5 +1,4 @@
-Neoclitocybe irregularis (Rick) Singer SPECIES
-=======
+# Neoclitocybe irregularis (Rick) Singer SPECIES
 
 #### Status
 ACCEPTED

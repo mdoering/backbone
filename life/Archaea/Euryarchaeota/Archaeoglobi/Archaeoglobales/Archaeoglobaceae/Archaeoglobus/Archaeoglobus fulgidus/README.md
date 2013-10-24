@@ -1,5 +1,4 @@
-Archaeoglobus fulgidus Stetter, 1988 SPECIES
-=======
+# Archaeoglobus fulgidus Stetter, 1988 SPECIES
 
 #### Status
 ACCEPTED

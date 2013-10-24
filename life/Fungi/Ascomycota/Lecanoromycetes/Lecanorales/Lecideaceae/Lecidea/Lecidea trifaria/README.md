@@ -1,5 +1,4 @@
-Lecidea trifaria Stizenb. SPECIES
-=======
+# Lecidea trifaria Stizenb. SPECIES
 
 #### Status
 ACCEPTED

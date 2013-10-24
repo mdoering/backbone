@@ -1,5 +1,4 @@
-Conicospirillinoides inaequalis (Brady, 1879) SPECIES
-=======
+# Conicospirillinoides inaequalis (Brady, 1879) SPECIES
 
 #### Status
 ACCEPTED

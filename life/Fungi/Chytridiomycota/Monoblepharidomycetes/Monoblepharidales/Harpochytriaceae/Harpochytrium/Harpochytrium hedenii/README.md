@@ -1,17 +1,16 @@
-Rhabdium acutum P.A. Dang., 1903 SPECIES
-=======
+# Harpochytrium hedenii Wille, 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 1(1/2): 61 (1903)
+Petermann's Geogr. Mitt. Ergänz. 131: 371 (1900)
 
 #### Original name
-Rhabdium acutum P.A. Dang., 1903
+Harpochytrium hedenii Wille, 1900
 
 ### Remarks
 null

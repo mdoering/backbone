@@ -1,5 +1,4 @@
-Masseea albopruinosa Rick SPECIES
-=======
+# Masseea albopruinosa Rick SPECIES
 
 #### Status
 ACCEPTED

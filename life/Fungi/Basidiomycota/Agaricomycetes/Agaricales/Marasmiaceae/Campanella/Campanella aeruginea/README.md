@@ -1,5 +1,4 @@
-Campanella aeruginea Singer SPECIES
-=======
+# Campanella aeruginea Singer SPECIES
 
 #### Status
 ACCEPTED

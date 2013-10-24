@@ -1,17 +1,16 @@
-Porina eminentior f. eminentior FORM
-=======
+# Porina eminentior (Nyl.) P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichenologist 32(1): 42 (2000)
+null
 
 #### Original name
-Porina eminentior f. eminentior
+null
 
 ### Remarks
 null

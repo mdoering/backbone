@@ -1,5 +1,4 @@
-Rhodophyllus deformisporus Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus deformisporus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physarum cinerescens Schumach. SPECIES
-=======
+# Physarum cinerescens Schumach. SPECIES
 
 #### Status
 ACCEPTED

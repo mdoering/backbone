@@ -1,5 +1,4 @@
-Placodium commixtum var. subherbidella Räsänen VARIETY
-=======
+# Placodium commixtum (Malme) Räsänen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Placodium commixtum var. subherbidella Räsänen
+Pyrenula commixta Malme
 
 ### Remarks
 null

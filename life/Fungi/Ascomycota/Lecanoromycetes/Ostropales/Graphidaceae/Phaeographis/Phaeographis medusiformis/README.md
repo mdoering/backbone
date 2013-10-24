@@ -1,5 +1,4 @@
-Phaeographis medusiformis (Kremp.) Müll. Arg. SPECIES
-=======
+# Phaeographis medusiformis (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

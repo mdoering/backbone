@@ -1,5 +1,4 @@
-Leiogramma tartareum Eschw. SPECIES
-=======
+# Leiogramma tartareum Eschw. SPECIES
 
 #### Status
 ACCEPTED

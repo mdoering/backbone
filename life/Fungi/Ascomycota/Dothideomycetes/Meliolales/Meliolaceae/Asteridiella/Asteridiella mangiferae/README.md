@@ -1,5 +1,4 @@
-Asteridiella mangiferae Jana, S.N. Ghosh & A.K. Das SPECIES
-=======
+# Asteridiella mangiferae Jana, S.N. Ghosh & A.K. Das SPECIES
 
 #### Status
 ACCEPTED

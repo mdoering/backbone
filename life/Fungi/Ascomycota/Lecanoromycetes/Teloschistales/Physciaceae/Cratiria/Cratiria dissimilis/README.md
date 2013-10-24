@@ -1,14 +1,13 @@
-Lecidea dissimilis Nyl. SPECIES
-=======
+# Cratiria dissimilis (Nyl.) Marbach SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 74: 177 (2000)
 
 #### Original name
 Lecidea dissimilis Nyl.

@@ -1,5 +1,4 @@
-Protocruziida Jankowksi, 1980 ORDER
-=======
+# Protocruziida Jankowksi, 1980 ORDER
 
 #### Status
 ACCEPTED

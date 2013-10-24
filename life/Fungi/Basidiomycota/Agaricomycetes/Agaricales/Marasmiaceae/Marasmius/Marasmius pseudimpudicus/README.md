@@ -1,5 +1,4 @@
-Marasmius pseudimpudicus Murrill SPECIES
-=======
+# Marasmius pseudimpudicus Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camerina Bruguière, 1789 GENUS
-=======
+# Camerina Bruguière, 1789 GENUS
 
 #### Status
 ACCEPTED

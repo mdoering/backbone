@@ -1,5 +1,4 @@
-Hexagonia tricolor Fr. SPECIES
-=======
+# Hexagonia tricolor Fr. SPECIES
 
 #### Status
 ACCEPTED

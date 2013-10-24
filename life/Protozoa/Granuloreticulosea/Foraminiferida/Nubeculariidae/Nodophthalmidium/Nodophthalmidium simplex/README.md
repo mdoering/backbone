@@ -1,5 +1,4 @@
-Nodophthalmidium simplex (Cushman & Todd, 1947) SPECIES
-=======
+# Nodophthalmidium simplex (Cushman & Todd, 1947) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physcia disseminata Hue SPECIES
-=======
+# Physcia disseminata Hue SPECIES
 
 #### Status
 ACCEPTED

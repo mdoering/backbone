@@ -1,5 +1,4 @@
-Dissoconium mali G.Y. Sun, Z. Zhang & Rong Zhang SPECIES
-=======
+# Dissoconium mali G.Y. Sun, Z. Zhang & Rong Zhang SPECIES
 
 #### Status
 ACCEPTED

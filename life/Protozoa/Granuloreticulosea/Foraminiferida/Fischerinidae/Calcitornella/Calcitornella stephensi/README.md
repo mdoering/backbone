@@ -1,5 +1,4 @@
-Calcitornella stephensi (Howchin) SPECIES
-=======
+# Calcitornella stephensi (Howchin) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lasiella trichella Quél. SPECIES
-=======
+# Lasiella trichella Quél. SPECIES
 
 #### Status
 ACCEPTED

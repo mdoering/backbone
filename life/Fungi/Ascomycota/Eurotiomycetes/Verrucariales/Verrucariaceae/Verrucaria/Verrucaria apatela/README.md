@@ -1,5 +1,4 @@
-Verrucaria apatela (A. Massal.) Trevis. SPECIES
-=======
+# Verrucaria apatela (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

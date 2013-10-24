@@ -1,14 +1,13 @@
-Corynespora alternarioides B. Sutton & Pascoe, 1988 SPECIES
-=======
+# Briansuttonia alternarioides (B. Sutton & Pascoe) R.F. Castañeda, Minter & Saikawa, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Aust. Syst. Bot. 1(2): 127 (1988)
+in Castañeda Ruíz, Heredia, Arias, Saikawa, Minter, Stadler, Guarro & Decock, Mycotaxon 89(2): 304 (2004)
 
 #### Original name
 Corynespora alternarioides B. Sutton & Pascoe, 1988

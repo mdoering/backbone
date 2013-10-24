@@ -1,17 +1,16 @@
-Alysisporium Peyronel GENUS
-=======
+# Phragmotrichum Kunze GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 38: 140 (1922)
+in Kunze & Schmidt, Mykologische Hefte (Leipzig) 2: 84 (1823)
 
 #### Original name
-Alysisporium Peyronel
+Phragmotrichum Kunze
 
 ### Remarks
 null

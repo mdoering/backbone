@@ -1,5 +1,4 @@
-Papulaspora funabasensis Tubaki & Uematsu SPECIES
-=======
+# Papulaspora funabasensis Tubaki & Uematsu SPECIES
 
 #### Status
 ACCEPTED

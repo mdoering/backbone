@@ -1,5 +1,4 @@
-Pyxine africana Kalb SPECIES
-=======
+# Pyxine africana Kalb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Farysia corniculata Vánky, 1992 SPECIES
-=======
+# Farysia corniculata Vánky, 1992 SPECIES
 
 #### Status
 ACCEPTED

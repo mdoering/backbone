@@ -1,5 +1,4 @@
-Sphacelotheca indica (Mundk.) Thirum. & Pavgi, 1956 SPECIES
-=======
+# Sphacelotheca indica (Mundk.) Thirum. & Pavgi, 1956 SPECIES
 
 #### Status
 ACCEPTED

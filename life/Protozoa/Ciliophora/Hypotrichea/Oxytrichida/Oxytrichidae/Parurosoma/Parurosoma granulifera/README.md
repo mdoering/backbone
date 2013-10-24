@@ -1,5 +1,4 @@
-Parurosoma granulifera (Berger, 1991) Berger, 1999 SPECIES
-=======
+# Parurosoma granulifera (Berger, 1991) Berger, 1999 SPECIES
 
 #### Status
 ACCEPTED

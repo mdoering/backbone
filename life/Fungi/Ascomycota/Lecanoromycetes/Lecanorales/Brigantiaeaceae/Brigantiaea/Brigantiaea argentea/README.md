@@ -1,5 +1,4 @@
-Brigantiaea argentea (Mont.) SPECIES
-=======
+# Brigantiaea argentea (Mont.) SPECIES
 
 #### Status
 ACCEPTED

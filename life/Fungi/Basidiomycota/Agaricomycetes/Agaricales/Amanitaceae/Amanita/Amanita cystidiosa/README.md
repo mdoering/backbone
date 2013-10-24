@@ -1,5 +1,4 @@
-Amanita cystidiosa O.K. Mill. & Lodge SPECIES
-=======
+# Amanita cystidiosa O.K. Mill. & Lodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gibberella effusa Rehm SPECIES
-=======
+# Gibberella effusa Rehm SPECIES
 
 #### Status
 ACCEPTED

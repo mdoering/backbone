@@ -1,5 +1,4 @@
-Trichocladia hedysari (U. Braun) Y.N. Yu SPECIES
-=======
+# Trichocladia hedysari (U. Braun) Y.N. Yu SPECIES
 
 #### Status
 ACCEPTED

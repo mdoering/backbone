@@ -1,5 +1,4 @@
-Uromyces carneus (Nees) Har. SPECIES
-=======
+# Uromyces carneus (Nees) Har. SPECIES
 
 #### Status
 ACCEPTED

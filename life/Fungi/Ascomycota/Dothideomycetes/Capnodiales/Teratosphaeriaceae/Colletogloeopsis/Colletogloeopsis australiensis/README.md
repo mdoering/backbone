@@ -1,5 +1,4 @@
-Colletogloeopsis australiensis Crous & Summerell SPECIES
-=======
+# Colletogloeopsis australiensis Crous & Summerell SPECIES
 
 #### Status
 ACCEPTED

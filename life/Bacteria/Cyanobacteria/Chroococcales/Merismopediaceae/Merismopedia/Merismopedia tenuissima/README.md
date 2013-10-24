@@ -1,5 +1,4 @@
-Merismopedia tenuissima var. polyedrica Guarrera VARIETY
-=======
+# Merismopedia tenuissima Lemmermann SPECIES
 
 #### Status
 ACCEPTED

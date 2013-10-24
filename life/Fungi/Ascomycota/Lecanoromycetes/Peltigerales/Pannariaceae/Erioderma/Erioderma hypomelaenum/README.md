@@ -1,5 +1,4 @@
-Erioderma hypomelaenum (Bornet) Hue SPECIES
-=======
+# Erioderma hypomelaenum (Bornet) Hue SPECIES
 
 #### Status
 ACCEPTED

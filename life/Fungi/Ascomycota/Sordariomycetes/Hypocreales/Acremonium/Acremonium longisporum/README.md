@@ -1,14 +1,13 @@
-Oospora longispora (Preuss) Sacc. & Voglino SPECIES
-=======
+# Acremonium longisporum (Preuss) W. Gams, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 4: 20 (1886)
+Cephalosporium-artige Schimmelpilze (Stuttgart) 89 (1971)
 
 #### Original name
 Torula longispora Preuss, 1851

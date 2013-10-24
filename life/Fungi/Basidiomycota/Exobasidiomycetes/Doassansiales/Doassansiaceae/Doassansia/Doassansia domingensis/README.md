@@ -1,5 +1,4 @@
-Doassansia domingensis Cif. SPECIES
-=======
+# Doassansia domingensis Cif. SPECIES
 
 #### Status
 ACCEPTED

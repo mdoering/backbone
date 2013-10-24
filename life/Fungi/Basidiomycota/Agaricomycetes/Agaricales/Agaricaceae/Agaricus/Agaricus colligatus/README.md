@@ -1,5 +1,4 @@
-Agaricus colligatus Berk. SPECIES
-=======
+# Agaricus colligatus Berk. SPECIES
 
 #### Status
 ACCEPTED

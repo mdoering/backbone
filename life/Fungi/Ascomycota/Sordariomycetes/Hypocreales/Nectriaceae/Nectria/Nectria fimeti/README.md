@@ -1,5 +1,4 @@
-Nectria fimeti Cooke SPECIES
-=======
+# Nectria fimeti Cooke SPECIES
 
 #### Status
 ACCEPTED

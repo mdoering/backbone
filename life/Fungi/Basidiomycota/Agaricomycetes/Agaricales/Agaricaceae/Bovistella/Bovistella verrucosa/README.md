@@ -1,5 +1,4 @@
-Bovistella verrucosa G. Cunn. SPECIES
-=======
+# Bovistella verrucosa G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

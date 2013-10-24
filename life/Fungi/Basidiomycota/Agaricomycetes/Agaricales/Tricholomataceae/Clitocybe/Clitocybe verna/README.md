@@ -1,5 +1,4 @@
-Clitocybe verna Egeland SPECIES
-=======
+# Clitocybe verna Egeland SPECIES
 
 #### Status
 ACCEPTED

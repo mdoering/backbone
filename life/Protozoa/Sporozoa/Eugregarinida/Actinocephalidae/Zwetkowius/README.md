@@ -1,5 +1,4 @@
-Zwetkowius Stloukal, 2000 GENUS
-=======
+# Zwetkowius Stloukal, 2000 GENUS
 
 #### Status
 ACCEPTED

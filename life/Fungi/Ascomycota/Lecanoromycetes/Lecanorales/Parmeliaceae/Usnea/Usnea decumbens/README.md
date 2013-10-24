@@ -1,5 +1,4 @@
-Usnea decumbens Chao {?}, Hsa {?} & Sun {?} SPECIES
-=======
+# Usnea decumbens Chao {?}, Hsa {?} & Sun {?} SPECIES
 
 #### Status
 ACCEPTED

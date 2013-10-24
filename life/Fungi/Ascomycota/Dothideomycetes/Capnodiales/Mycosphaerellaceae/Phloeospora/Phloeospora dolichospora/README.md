@@ -1,5 +1,4 @@
-Phloeospora dolichospora Sacc. SPECIES
-=======
+# Phloeospora dolichospora Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrosporium defoliatum Heald & F.A. Wolf SPECIES
-=======
+# Cylindrosporium defoliatum Heald & F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

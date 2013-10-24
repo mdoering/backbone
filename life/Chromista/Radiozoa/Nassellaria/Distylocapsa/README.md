@@ -1,5 +1,4 @@
-Distylocapsa Squinabol, 1904 GENUS
-=======
+# Distylocapsa Squinabol, 1904 GENUS
 
 #### Status
 ACCEPTED

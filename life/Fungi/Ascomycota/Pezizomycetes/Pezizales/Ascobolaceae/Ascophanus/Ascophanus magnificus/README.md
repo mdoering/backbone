@@ -1,5 +1,4 @@
-Ascophanus magnificus Kirschst. SPECIES
-=======
+# Ascophanus magnificus Kirschst. SPECIES
 
 #### Status
 ACCEPTED

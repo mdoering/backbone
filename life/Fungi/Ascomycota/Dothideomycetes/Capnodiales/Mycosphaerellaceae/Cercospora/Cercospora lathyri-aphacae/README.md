@@ -1,5 +1,4 @@
-Cercospora lathyri-aphacae Lall, H.S. Gill & Munjal SPECIES
-=======
+# Cercospora lathyri-aphacae Lall, H.S. Gill & Munjal SPECIES
 
 #### Status
 ACCEPTED

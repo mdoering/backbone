@@ -1,5 +1,4 @@
-Rinodina metabolica SPECIES
-=======
+# Rinodina metabolica SPECIES
 
 #### Status
 ACCEPTED

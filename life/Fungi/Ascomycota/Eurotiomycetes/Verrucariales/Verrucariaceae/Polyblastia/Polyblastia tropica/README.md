@@ -1,5 +1,4 @@
-Polyblastia tropica Müll. Arg. SPECIES
-=======
+# Polyblastia tropica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichoconis pedicephora R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Trichoconis pedicephora R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

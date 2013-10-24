@@ -1,5 +1,4 @@
-Trichocladium tenellum Harz SPECIES
-=======
+# Trichocladium tenellum Harz SPECIES
 
 #### Status
 ACCEPTED

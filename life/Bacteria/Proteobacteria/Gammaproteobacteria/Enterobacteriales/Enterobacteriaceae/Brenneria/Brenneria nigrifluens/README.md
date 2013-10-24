@@ -1,8 +1,7 @@
-Erwinia nigrifluens Wilson et al., 1957 (Approved Lists, 1980) SPECIES
-=======
+# Brenneria nigrifluens (Wilson et al., 1957) Hauben et al., 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

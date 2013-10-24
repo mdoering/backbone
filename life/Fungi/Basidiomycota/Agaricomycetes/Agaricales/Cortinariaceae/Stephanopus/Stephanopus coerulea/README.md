@@ -1,5 +1,4 @@
-Stephanopus coerulea (M.M. Moser) E. Horak, 1981 SPECIES
-=======
+# Stephanopus coerulea (M.M. Moser) E. Horak, 1981 SPECIES
 
 #### Status
 ACCEPTED

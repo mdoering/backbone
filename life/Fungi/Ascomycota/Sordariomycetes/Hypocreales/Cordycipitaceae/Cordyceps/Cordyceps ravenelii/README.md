@@ -1,5 +1,4 @@
-Cordyceps ravenelii Berk. & M.A. Curtis SPECIES
-=======
+# Cordyceps ravenelii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

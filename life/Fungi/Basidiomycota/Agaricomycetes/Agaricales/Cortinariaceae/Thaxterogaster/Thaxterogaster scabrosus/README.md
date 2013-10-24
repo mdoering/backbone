@@ -1,5 +1,4 @@
-Thaxterogaster scabrosus (Cooke & Massee) A.H. Sm. & Singer SPECIES
-=======
+# Thaxterogaster scabrosus (Cooke & Massee) A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

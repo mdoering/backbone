@@ -1,5 +1,4 @@
-Gomphus purpuraceus (Iwade) K. Yokoy. SPECIES
-=======
+# Gomphus purpuraceus (Iwade) K. Yokoy. SPECIES
 
 #### Status
 ACCEPTED

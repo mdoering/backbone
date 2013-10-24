@@ -1,14 +1,13 @@
-Cortinarius cinnamomeus var. fusipes P. Karst. VARIETY
-=======
+# Cortinarius fusipes (P. Karst.) Bidaud, Moënne-Locc. & Reumaux, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Bidaud, Moënne-Loccoz, Reumaux & Henry, Atlas des Cortinaires, Hors-Serie 1: 147 (1997)
 
 #### Original name
 Cortinarius cinnamomeus var. fusipes P. Karst.

@@ -1,5 +1,4 @@
-Cercospora dalbergiigena R.K. Srivast., S. Narayan & A.K. Srivast. SPECIES
-=======
+# Cercospora dalbergiigena R.K. Srivast., S. Narayan & A.K. Srivast. SPECIES
 
 #### Status
 ACCEPTED

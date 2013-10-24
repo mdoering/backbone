@@ -1,5 +1,4 @@
-Gloeosporium fructus-psidii Henn. SPECIES
-=======
+# Gloeosporium fructus-psidii Henn. SPECIES
 
 #### Status
 ACCEPTED

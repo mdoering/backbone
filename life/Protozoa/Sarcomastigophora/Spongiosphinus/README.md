@@ -1,5 +1,4 @@
-Spongiosphinus Alvira Martin, 1972 GENUS
-=======
+# Spongiosphinus Alvira Martin, 1972 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calothrix scytonemicola var. brasiliensis Borge VARIETY
-=======
+# Calothrix scytonemicola Tilden SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe dorsispora (Esteve-Rav. & Barassa) Noordel. SPECIES
-=======
+# Psilocybe dorsispora (Esteve-Rav. & Barassa) Noordel. SPECIES
 
 #### Status
 ACCEPTED

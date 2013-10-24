@@ -1,5 +1,4 @@
-Lamproderma reticulosporum Gilert SPECIES
-=======
+# Lamproderma reticulosporum Gilert SPECIES
 
 #### Status
 ACCEPTED

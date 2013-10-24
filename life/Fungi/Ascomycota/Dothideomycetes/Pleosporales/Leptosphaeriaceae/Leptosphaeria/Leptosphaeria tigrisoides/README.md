@@ -1,5 +1,4 @@
-Leptosphaeria tigrisoides Hara SPECIES
-=======
+# Leptosphaeria tigrisoides Hara SPECIES
 
 #### Status
 ACCEPTED

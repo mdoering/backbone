@@ -1,5 +1,4 @@
-Agaricus vermifluus Peck SPECIES
-=======
+# Agaricus vermifluus Peck SPECIES
 
 #### Status
 ACCEPTED

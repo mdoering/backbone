@@ -1,5 +1,4 @@
-Pseudocercospora megalopotamica (Speg.) U. Braun SPECIES
-=======
+# Pseudocercospora megalopotamica (Speg.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

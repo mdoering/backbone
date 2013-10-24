@@ -1,5 +1,4 @@
-Boletus fragicolor Berk. SPECIES
-=======
+# Boletus fragicolor Berk. SPECIES
 
 #### Status
 ACCEPTED

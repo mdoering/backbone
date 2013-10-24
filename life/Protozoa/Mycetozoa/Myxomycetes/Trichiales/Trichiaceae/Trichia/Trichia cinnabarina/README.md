@@ -1,5 +1,4 @@
-Trichia cinnabarina DC. SPECIES
-=======
+# Trichia cinnabarina DC. SPECIES
 
 #### Status
 ACCEPTED

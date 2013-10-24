@@ -1,5 +1,4 @@
-Pleurotus rickii Bres. SPECIES
-=======
+# Pleurotus rickii Bres. SPECIES
 
 #### Status
 ACCEPTED

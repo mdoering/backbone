@@ -1,5 +1,4 @@
-Drosophila echiniceps (G.F. Atk.) Murrill SPECIES
-=======
+# Drosophila echiniceps (G.F. Atk.) Murrill SPECIES
 
 #### Status
 ACCEPTED

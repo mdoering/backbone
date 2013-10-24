@@ -1,5 +1,4 @@
-Biatorella eucarpa (Nyl.) Flagey SPECIES
-=======
+# Biatorella eucarpa (Nyl.) Flagey SPECIES
 
 #### Status
 ACCEPTED

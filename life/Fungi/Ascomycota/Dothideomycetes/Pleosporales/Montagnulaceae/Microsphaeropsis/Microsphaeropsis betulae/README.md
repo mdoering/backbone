@@ -1,5 +1,4 @@
-Microsphaeropsis betulae (Laubert) Aa SPECIES
-=======
+# Microsphaeropsis betulae (Laubert) Aa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stuartella formosa Fabre, 1879 SPECIES
-=======
+# Stuartella formosa Fabre, 1879 SPECIES
 
 #### Status
 ACCEPTED

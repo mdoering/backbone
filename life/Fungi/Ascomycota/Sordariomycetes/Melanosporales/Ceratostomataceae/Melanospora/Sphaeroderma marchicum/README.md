@@ -1,5 +1,4 @@
-Sphaeroderma marchicum (J. Lindau) Sacc. & P. Syd. SPECIES
-=======
+# Sphaeroderma marchicum (J. Lindau) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

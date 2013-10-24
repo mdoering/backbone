@@ -1,5 +1,4 @@
-Curreya rimosa Ellis & Everh. SPECIES
-=======
+# Curreya rimosa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

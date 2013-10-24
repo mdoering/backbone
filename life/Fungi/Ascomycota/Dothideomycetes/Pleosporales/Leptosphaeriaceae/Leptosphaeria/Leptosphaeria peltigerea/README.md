@@ -1,5 +1,4 @@
-Leptosphaeria peltigerea (Merr.) Vouaux SPECIES
-=======
+# Leptosphaeria peltigerea (Merr.) Vouaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monotospora Corda, 1837 GENUS
-=======
+# Monotospora Corda, 1837 GENUS
 
 #### Status
 ACCEPTED

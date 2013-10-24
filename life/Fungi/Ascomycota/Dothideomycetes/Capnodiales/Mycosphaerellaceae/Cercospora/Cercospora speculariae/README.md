@@ -1,5 +1,4 @@
-Cercospora speculariae Ellis & Langl. ex Chupp SPECIES
-=======
+# Cercospora speculariae Ellis & Langl. ex Chupp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trametes luridochracea Corner SPECIES
-=======
+# Trametes luridochracea Corner SPECIES
 
 #### Status
 ACCEPTED

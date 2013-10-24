@@ -1,5 +1,4 @@
-Physalospora heterostemmae T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Physalospora heterostemmae T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

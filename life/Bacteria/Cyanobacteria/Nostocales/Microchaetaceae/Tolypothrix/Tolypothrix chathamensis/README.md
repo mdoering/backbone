@@ -1,5 +1,4 @@
-Tolypothrix chathamensis Lemmermann SPECIES
-=======
+# Tolypothrix chathamensis Lemmermann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryobasidium piliferum Boidin & Gilles, 1982 SPECIES
-=======
+# Botryobasidium piliferum Boidin & Gilles, 1982 SPECIES
 
 #### Status
 ACCEPTED

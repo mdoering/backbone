@@ -1,5 +1,4 @@
-Agaricus arachnostreptus Letell. SPECIES
-=======
+# Agaricus arachnostreptus Letell. SPECIES
 
 #### Status
 ACCEPTED

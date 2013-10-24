@@ -1,5 +1,4 @@
-Bionectria setosa Schroers SPECIES
-=======
+# Bionectria setosa Schroers SPECIES
 
 #### Status
 ACCEPTED

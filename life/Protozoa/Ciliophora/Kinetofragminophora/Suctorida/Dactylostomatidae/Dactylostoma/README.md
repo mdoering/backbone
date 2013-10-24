@@ -1,5 +1,4 @@
-Dactylostoma Jankowski, 1967 GENUS
-=======
+# Dactylostoma Jankowski, 1967 GENUS
 
 #### Status
 ACCEPTED

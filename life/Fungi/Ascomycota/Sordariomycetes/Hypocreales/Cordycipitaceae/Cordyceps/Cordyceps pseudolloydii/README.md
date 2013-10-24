@@ -1,5 +1,4 @@
-Cordyceps pseudolloydii H.C. Evans & Samson SPECIES
-=======
+# Cordyceps pseudolloydii H.C. Evans & Samson SPECIES
 
 #### Status
 ACCEPTED

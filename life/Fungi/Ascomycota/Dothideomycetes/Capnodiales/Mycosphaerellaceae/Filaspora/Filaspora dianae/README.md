@@ -1,5 +1,4 @@
-Filaspora dianae (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Filaspora dianae (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

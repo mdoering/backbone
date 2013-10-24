@@ -1,5 +1,4 @@
-Coprinus floridanus Murrill SPECIES
-=======
+# Coprinus floridanus Murrill SPECIES
 
 #### Status
 ACCEPTED

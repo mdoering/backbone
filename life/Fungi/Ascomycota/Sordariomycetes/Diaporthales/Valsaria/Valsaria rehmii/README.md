@@ -1,5 +1,4 @@
-Valsaria rehmii Sacc. & P. Syd. SPECIES
-=======
+# Valsaria rehmii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius rastetteri Rob. Henry SPECIES
-=======
+# Cortinarius rastetteri Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

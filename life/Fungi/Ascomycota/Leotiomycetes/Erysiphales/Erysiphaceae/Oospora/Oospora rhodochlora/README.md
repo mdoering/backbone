@@ -1,5 +1,4 @@
-Oospora rhodochlora Sacc. SPECIES
-=======
+# Oospora rhodochlora Sacc. SPECIES
 
 #### Status
 ACCEPTED

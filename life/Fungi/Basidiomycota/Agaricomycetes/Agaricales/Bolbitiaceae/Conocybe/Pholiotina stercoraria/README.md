@@ -1,5 +1,4 @@
-Pholiotina stercoraria (Watling) Enderle SPECIES
-=======
+# Pholiotina stercoraria (Watling) Enderle SPECIES
 
 #### Status
 ACCEPTED

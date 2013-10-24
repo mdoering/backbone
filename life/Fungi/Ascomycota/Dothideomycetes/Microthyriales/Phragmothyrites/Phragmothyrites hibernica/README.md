@@ -1,5 +1,4 @@
-Phragmothyrites hibernica T. Johnson SPECIES
-=======
+# Phragmothyrites hibernica T. Johnson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Archaeocorymbostomum Zanon, 1947 GENUS
-=======
+# Archaeocorymbostomum Zanon, 1947 GENUS
 
 #### Status
 ACCEPTED

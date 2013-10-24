@@ -1,5 +1,4 @@
-Lecanora elixii Lumbsch SPECIES
-=======
+# Lecanora elixii Lumbsch SPECIES
 
 #### Status
 ACCEPTED

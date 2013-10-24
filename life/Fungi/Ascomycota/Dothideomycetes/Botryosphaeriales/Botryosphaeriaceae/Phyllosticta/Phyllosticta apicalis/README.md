@@ -1,5 +1,4 @@
-Phyllosticta apicalis Davis SPECIES
-=======
+# Phyllosticta apicalis Davis SPECIES
 
 #### Status
 ACCEPTED

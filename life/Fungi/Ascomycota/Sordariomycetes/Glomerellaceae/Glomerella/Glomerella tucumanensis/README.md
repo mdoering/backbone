@@ -1,5 +1,4 @@
-Glomerella tucumanensis (Speg.) Arx & E. Müll., 1954 SPECIES
-=======
+# Glomerella tucumanensis (Speg.) Arx & E. Müll., 1954 SPECIES
 
 #### Status
 ACCEPTED

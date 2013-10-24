@@ -1,5 +1,4 @@
-Platysticta simulans Cooke & Massee SPECIES
-=======
+# Platysticta simulans Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urocystis delphinii Golovin SPECIES
-=======
+# Urocystis delphinii Golovin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scindalma nicaraguense (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Scindalma nicaraguense (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Textularia pseudoturris SPECIES
-=======
+# Textularia pseudoturris SPECIES
 
 #### Status
 ACCEPTED

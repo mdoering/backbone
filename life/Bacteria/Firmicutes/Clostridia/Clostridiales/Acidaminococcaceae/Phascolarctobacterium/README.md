@@ -1,5 +1,4 @@
-Phascolarctobacterium Del Dot et al., 1994 GENUS
-=======
+# Phascolarctobacterium Del Dot et al., 1994 GENUS
 
 #### Status
 ACCEPTED

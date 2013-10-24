@@ -1,5 +1,4 @@
-Bubakia ulei (Syd. & P. Syd.) H.S. Jacks. & Holw. SPECIES
-=======
+# Bubakia ulei (Syd. & P. Syd.) H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

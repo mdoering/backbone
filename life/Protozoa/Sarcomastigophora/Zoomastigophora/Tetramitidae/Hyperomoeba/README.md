@@ -1,5 +1,4 @@
-Hyperomoeba Doflein, 1928 GENUS
-=======
+# Hyperomoeba Doflein, 1928 GENUS
 
 #### Status
 ACCEPTED

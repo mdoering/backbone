@@ -1,8 +1,7 @@
-Dipleura GENUS
-=======
+# Diplura G.J. Hollenberg, 1969 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List

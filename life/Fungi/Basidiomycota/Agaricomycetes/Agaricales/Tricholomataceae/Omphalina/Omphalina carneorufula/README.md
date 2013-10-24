@@ -1,5 +1,4 @@
-Omphalina carneorufula (Berk.) Y.S. Chang & Kantvilas SPECIES
-=======
+# Omphalina carneorufula (Berk.) Y.S. Chang & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

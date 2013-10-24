@@ -1,5 +1,4 @@
-Blastenia iodomma (Nyl.) Zahlbr. SPECIES
-=======
+# Blastenia iodomma (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

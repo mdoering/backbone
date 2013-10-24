@@ -1,5 +1,4 @@
-Agaricus paleaceus Weinm. SPECIES
-=======
+# Agaricus paleaceus Weinm. SPECIES
 
 #### Status
 ACCEPTED

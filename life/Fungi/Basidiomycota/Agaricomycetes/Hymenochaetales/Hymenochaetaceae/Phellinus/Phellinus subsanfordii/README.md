@@ -1,5 +1,4 @@
-Phellinus subsanfordii T. Hatt. SPECIES
-=======
+# Phellinus subsanfordii T. Hatt. SPECIES
 
 #### Status
 ACCEPTED

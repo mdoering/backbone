@@ -1,5 +1,4 @@
-Sargassum ilicifolioides Tseng & Lu SPECIES
-=======
+# Sargassum ilicifolioides Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

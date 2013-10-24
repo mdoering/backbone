@@ -1,17 +1,16 @@
-Karstenula capparidis Petr. SPECIES
-=======
+# Karstenula capparis Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 8(1-6): 166 (1954)
 
 #### Original name
-Karstenula capparidis Petr.
+Karstenula capparis Petr.
 
 ### Remarks
 null

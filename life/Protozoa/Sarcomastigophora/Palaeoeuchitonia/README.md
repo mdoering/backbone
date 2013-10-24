@@ -1,5 +1,4 @@
-Palaeoeuchitonia Kozur & Mostler, 1978 GENUS
-=======
+# Palaeoeuchitonia Kozur & Mostler, 1978 GENUS
 
 #### Status
 ACCEPTED

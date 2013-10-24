@@ -1,5 +1,4 @@
-Peniophora subdiscolor (Rick) Rick SPECIES
-=======
+# Peniophora subdiscolor (Rick) Rick SPECIES
 
 #### Status
 ACCEPTED

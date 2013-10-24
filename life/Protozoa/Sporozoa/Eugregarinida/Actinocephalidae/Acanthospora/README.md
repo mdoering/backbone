@@ -1,5 +1,4 @@
-Acanthospora Léger, 1892 GENUS
-=======
+# Acanthospora Léger, 1892 GENUS
 
 #### Status
 ACCEPTED

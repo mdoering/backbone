@@ -1,5 +1,4 @@
-Micropsalliota pudica Heinem. & Leelav. SPECIES
-=======
+# Micropsalliota pudica Heinem. & Leelav. SPECIES
 
 #### Status
 ACCEPTED

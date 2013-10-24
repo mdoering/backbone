@@ -1,5 +1,4 @@
-Collybia bezdeki Velen. SPECIES
-=======
+# Collybia bezdeki Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina styracina Syd. SPECIES
-=======
+# Asterina styracina Syd. SPECIES
 
 #### Status
 ACCEPTED

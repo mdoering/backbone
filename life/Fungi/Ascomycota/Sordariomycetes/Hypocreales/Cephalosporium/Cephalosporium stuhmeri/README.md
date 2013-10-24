@@ -1,5 +1,4 @@
-Cephalosporium stuhmeri Schmidt {?} & J.F.H. Beyma SPECIES
-=======
+# Cephalosporium stuhmeri Schmidt {?} & J.F.H. Beyma SPECIES
 
 #### Status
 ACCEPTED

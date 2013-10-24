@@ -1,5 +1,4 @@
-Aecidium adhatodicola G.F. Laundon SPECIES
-=======
+# Aecidium adhatodicola G.F. Laundon SPECIES
 
 #### Status
 ACCEPTED

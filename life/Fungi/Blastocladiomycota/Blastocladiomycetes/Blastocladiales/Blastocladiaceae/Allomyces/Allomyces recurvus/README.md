@@ -1,5 +1,4 @@
-Allomyces recurvus Prabhuji & S.K. Sinha SPECIES
-=======
+# Allomyces recurvus Prabhuji & S.K. Sinha SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paulia japonica Asahina SPECIES
-=======
+# Paulia japonica Asahina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dactylella ambrusia (Gadd & Loos) K.Q. Zhang, Xing Z. Liu & L. Cao SPECIES
-=======
+# Dactylella ambrosia (Gadd & Loos) K.Q. Zhang, Xing Z. Liu & L. Cao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycosystema 7: 112 (1995)
 
 #### Original name
 Monacrosporium ambrosium Gadd & Loos

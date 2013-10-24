@@ -1,5 +1,4 @@
-Massarina quercina (Géneau) E. Müll. SPECIES
-=======
+# Massarina quercina (Géneau) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

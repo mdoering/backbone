@@ -1,5 +1,4 @@
-Endocarpon hygrobium Wahlenb. SPECIES
-=======
+# Endocarpon hygrobium Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

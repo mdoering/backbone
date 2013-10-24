@@ -1,5 +1,4 @@
-Alloiococcus Aguirre & Collins, 1992 GENUS
-=======
+# Alloiococcus Aguirre & Collins, 1992 GENUS
 
 #### Status
 ACCEPTED

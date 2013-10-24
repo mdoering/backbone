@@ -1,5 +1,4 @@
-Chaetomium parvotrichum Mazzuch. SPECIES
-=======
+# Chaetomium parvotrichum Mazzuch. SPECIES
 
 #### Status
 ACCEPTED

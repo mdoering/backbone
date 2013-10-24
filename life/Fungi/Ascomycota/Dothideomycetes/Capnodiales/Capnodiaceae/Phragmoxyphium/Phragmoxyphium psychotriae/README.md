@@ -1,5 +1,4 @@
-Phragmoxyphium psychotriae Bat. SPECIES
-=======
+# Phragmoxyphium psychotriae Bat. SPECIES
 
 #### Status
 ACCEPTED

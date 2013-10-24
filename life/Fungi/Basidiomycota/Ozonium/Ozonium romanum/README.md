@@ -1,5 +1,4 @@
-Ozonium romanum Thüm. SPECIES
-=======
+# Ozonium romanum Thüm. SPECIES
 
 #### Status
 ACCEPTED

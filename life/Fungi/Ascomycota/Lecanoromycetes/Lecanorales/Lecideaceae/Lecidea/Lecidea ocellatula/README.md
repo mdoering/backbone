@@ -1,5 +1,4 @@
-Lecidea ocellatula Müll. Arg. SPECIES
-=======
+# Lecidea ocellatula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

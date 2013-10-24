@@ -1,5 +1,4 @@
-Tenuirica Playford & Wicander, 1988 GENUS
-=======
+# Tenuirica Playford & Wicander, 1988 GENUS
 
 #### Status
 ACCEPTED

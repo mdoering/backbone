@@ -1,5 +1,4 @@
-Perforariomyces cucurbitulae Cif. & Tomas. SPECIES
-=======
+# Perforariomyces cucurbitulae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

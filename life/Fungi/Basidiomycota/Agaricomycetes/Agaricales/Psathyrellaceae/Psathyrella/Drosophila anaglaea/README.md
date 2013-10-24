@@ -1,5 +1,4 @@
-Drosophila anaglaea (Maire) Malençon & Bertault SPECIES
-=======
+# Drosophila anaglaea (Maire) Malençon & Bertault SPECIES
 
 #### Status
 ACCEPTED

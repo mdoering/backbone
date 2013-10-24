@@ -1,5 +1,4 @@
-Austroclitocybe orbiformis (Fr.) Raithelh. SPECIES
-=======
+# Austroclitocybe orbiformis (Fr.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

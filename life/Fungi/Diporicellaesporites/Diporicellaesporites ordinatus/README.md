@@ -1,5 +1,4 @@
-Diporicellaesporites ordinatus (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
-=======
+# Diporicellaesporites ordinatus (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

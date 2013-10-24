@@ -1,5 +1,4 @@
-Mycosphaerella schoenocauli Syd. SPECIES
-=======
+# Mycosphaerella schoenocauli Syd. SPECIES
 
 #### Status
 ACCEPTED

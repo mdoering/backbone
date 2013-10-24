@@ -1,5 +1,4 @@
-Fracchiaea coniferarum Höhn. SPECIES
-=======
+# Fracchiaea coniferarum Höhn. SPECIES
 
 #### Status
 ACCEPTED

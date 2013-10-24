@@ -1,5 +1,4 @@
-Teichospora oxythele Sacc. & Briard SPECIES
-=======
+# Teichospora oxythele Sacc. & Briard SPECIES
 
 #### Status
 ACCEPTED

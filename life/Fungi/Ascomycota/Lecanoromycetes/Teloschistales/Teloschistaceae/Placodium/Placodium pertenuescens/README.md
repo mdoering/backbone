@@ -1,5 +1,4 @@
-Placodium pertenuescens (Nyl.) Nyl. SPECIES
-=======
+# Placodium pertenuescens (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

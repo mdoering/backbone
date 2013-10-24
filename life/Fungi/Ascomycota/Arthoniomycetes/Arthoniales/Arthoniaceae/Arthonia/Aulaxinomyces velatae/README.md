@@ -1,5 +1,4 @@
-Aulaxinomyces velatae Cif. & Tomas. SPECIES
-=======
+# Aulaxinomyces velatae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

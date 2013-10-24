@@ -1,5 +1,4 @@
-Clitocybe conspurcata Berk. & Broome SPECIES
-=======
+# Clitocybe conspurcata Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

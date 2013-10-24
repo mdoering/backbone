@@ -1,5 +1,4 @@
-Dermatophilus (Van Saceghem) M.A. Gordon, 1964 GENUS
-=======
+# Dermatophilus (Van Saceghem) M.A. Gordon, 1964 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tulostoma lacticeps Bres. SPECIES
-=======
+# Tulostoma lacticeps Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orygmatosphaeridium trizonatum P. K. Maithy SPECIES
-=======
+# Orygmatosphaeridium trizonatum P. K. Maithy SPECIES
 
 #### Status
 ACCEPTED

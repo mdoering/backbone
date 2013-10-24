@@ -1,5 +1,4 @@
-Licnophora chattoni SPECIES
-=======
+# Licnophora chattoni SPECIES
 
 #### Status
 ACCEPTED

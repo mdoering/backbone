@@ -1,17 +1,16 @@
-Clistosoma Clem. & Shear GENUS
-=======
+# Emericella Berk. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Intr. crypt. bot. (London) 340 (1857)
 
 #### Original name
-Clistosoma Clem. & Shear
+Emericella Berk.
 
 ### Remarks
 null

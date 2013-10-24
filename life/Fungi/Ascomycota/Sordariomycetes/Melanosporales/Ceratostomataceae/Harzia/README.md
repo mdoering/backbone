@@ -1,17 +1,16 @@
-Chlorospora Speg. GENUS
-=======
+# Harzia Costantin, 1888 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Revista Argent. Hist. Nat. 1: 32 (1891)
+null
 
 #### Original name
-Chlorospora Speg.
+null
 
 ### Remarks
 null

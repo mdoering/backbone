@@ -1,5 +1,4 @@
-Caloplaca darbishirei (C.W. Dodge & G.E. Baker) Cretz. SPECIES
-=======
+# Caloplaca darbishirei (C.W. Dodge & G.E. Baker) Cretz. SPECIES
 
 #### Status
 ACCEPTED

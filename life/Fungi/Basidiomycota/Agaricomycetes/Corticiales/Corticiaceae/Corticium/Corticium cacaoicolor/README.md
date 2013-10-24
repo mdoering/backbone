@@ -1,5 +1,4 @@
-Corticium cacaoicolor Petch SPECIES
-=======
+# Corticium cacaoicolor Petch SPECIES
 
 #### Status
 ACCEPTED

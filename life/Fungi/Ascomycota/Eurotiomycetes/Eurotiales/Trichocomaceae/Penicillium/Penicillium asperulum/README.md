@@ -1,5 +1,4 @@
-Penicillium asperulum Bainier SPECIES
-=======
+# Penicillium asperulum Bainier SPECIES
 
 #### Status
 ACCEPTED

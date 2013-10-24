@@ -1,5 +1,4 @@
-Dichosporidium microsporum G. Thor SPECIES
-=======
+# Dichosporidium microsporum G. Thor SPECIES
 
 #### Status
 ACCEPTED

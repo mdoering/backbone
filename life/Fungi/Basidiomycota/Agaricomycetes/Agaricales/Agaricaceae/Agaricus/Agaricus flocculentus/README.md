@@ -1,5 +1,4 @@
-Agaricus flocculentus Pollich SPECIES
-=======
+# Agaricus flocculentus Pollich SPECIES
 
 #### Status
 ACCEPTED

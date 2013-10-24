@@ -1,5 +1,4 @@
-Leptogium isidiosellum (Riddle) Sierk SPECIES
-=======
+# Leptogium isidiosellum (Riddle) Sierk SPECIES
 
 #### Status
 ACCEPTED

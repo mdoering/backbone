@@ -1,14 +1,13 @@
-Ustilago merrillii Henn., 1908 SPECIES
-=======
+# Farysia merrillii (Henn.) Syd. & P. Syd., 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 47: 250 (1908)
+Annls mycol. 17(1): 41 (1919)
 
 #### Original name
 Ustilago merrillii Henn., 1908

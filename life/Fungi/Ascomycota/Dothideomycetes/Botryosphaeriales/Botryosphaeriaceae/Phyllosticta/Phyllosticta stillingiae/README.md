@@ -1,5 +1,4 @@
-Phyllosticta stillingiae Ellis & Everh. SPECIES
-=======
+# Phyllosticta stillingiae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

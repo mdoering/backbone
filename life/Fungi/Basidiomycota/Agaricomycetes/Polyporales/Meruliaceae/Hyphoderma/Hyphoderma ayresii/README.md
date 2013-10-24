@@ -1,14 +1,13 @@
-Corticium ayresii (Berk. ex Cooke) anon., 1916 SPECIES
-=======
+# Hyphoderma ayresii (Berk. ex Cooke) Boidin & Gilles, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 14(3/4): 242 (1916)
+Cryptog. Mycol. 12(2): 103 (1991)
 
 #### Original name
 Peniophora ayresii Berk. ex Cooke, 1879

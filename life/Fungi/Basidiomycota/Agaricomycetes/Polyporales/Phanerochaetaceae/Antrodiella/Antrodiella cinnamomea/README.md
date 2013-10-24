@@ -1,5 +1,4 @@
-Antrodiella cinnamomea Iturr. & Ryvarden, 2010 SPECIES
-=======
+# Antrodiella cinnamomea Iturr. & Ryvarden, 2010 SPECIES
 
 #### Status
 ACCEPTED

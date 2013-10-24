@@ -1,17 +1,16 @@
-Caromyxa Mont. GENUS
-=======
+# Mutinus E.M. Fries, 1849 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Summa veg. Scand. (Stockholm), Section Post. 434 (1849)
 
 #### Original name
-Caromyxa Mont.
+Mutinus E.M. Fries, 1849
 
 ### Remarks
 null

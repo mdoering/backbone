@@ -1,5 +1,4 @@
-Plasmopara gnaphalii Novot. SPECIES
-=======
+# Plasmopara gnaphalii Novot. SPECIES
 
 #### Status
 ACCEPTED

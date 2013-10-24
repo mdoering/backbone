@@ -1,5 +1,4 @@
-Hystrichostrogylon borisii P. Schiøler SPECIES
-=======
+# Hystrichostrogylon borisii P. Schiøler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladina rangifera Nyl. SPECIES
-=======
+# Cladina rangifera Nyl. SPECIES
 
 #### Status
 ACCEPTED

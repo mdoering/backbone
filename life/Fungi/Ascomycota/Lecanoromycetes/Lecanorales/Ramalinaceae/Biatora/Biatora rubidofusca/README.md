@@ -1,5 +1,4 @@
-Biatora rubidofusca Willey SPECIES
-=======
+# Biatora rubidofusca Willey SPECIES
 
 #### Status
 ACCEPTED

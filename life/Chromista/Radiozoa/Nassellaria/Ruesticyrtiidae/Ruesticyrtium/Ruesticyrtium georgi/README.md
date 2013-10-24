@@ -1,5 +1,4 @@
-Ruesticyrtium georgi SPECIES
-=======
+# Ruesticyrtium georgi SPECIES
 
 #### Status
 ACCEPTED

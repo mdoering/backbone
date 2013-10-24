@@ -1,8 +1,7 @@
-Streptoverticillium ladakanum Hanka et al., 1966 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces ladakanum (Hanka et al., 1966) Witt & Stackebrandt, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

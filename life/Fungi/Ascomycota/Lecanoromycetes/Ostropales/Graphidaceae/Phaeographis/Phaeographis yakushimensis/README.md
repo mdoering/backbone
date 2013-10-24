@@ -1,5 +1,4 @@
-Phaeographis yakushimensis M. Nakan. SPECIES
-=======
+# Phaeographis yakushimensis M. Nakan. SPECIES
 
 #### Status
 ACCEPTED

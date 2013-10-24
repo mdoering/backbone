@@ -1,5 +1,4 @@
-Macrophoma lagerstroemiae R.C. Rajak SPECIES
-=======
+# Macrophoma lagerstroemiae R.C. Rajak SPECIES
 
 #### Status
 ACCEPTED

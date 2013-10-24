@@ -1,5 +1,4 @@
-Pleurotus properatus G. Martin SPECIES
-=======
+# Pleurotus properatus G. Martin SPECIES
 
 #### Status
 ACCEPTED

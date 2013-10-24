@@ -1,5 +1,4 @@
-Aecidium flavescens Barclay SPECIES
-=======
+# Aecidium flavescens Barclay SPECIES
 
 #### Status
 ACCEPTED

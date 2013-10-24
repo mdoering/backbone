@@ -1,5 +1,4 @@
-Coccodiscus Haeckel, 1862 GENUS
-=======
+# Coccodiscus Haeckel, 1862 GENUS
 
 #### Status
 ACCEPTED

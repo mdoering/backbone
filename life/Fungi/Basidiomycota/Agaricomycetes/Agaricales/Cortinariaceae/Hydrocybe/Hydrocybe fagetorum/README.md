@@ -1,5 +1,4 @@
-Hydrocybe fagetorum M.M. Moser SPECIES
-=======
+# Hydrocybe fagetorum M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

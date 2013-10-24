@@ -1,5 +1,4 @@
-Chaetopsina nimbae Rambelli SPECIES
-=======
+# Chaetopsina nimbae Rambelli SPECIES
 
 #### Status
 ACCEPTED

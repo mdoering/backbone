@@ -1,5 +1,4 @@
-Laboulbenia rostellata Thaxt. SPECIES
-=======
+# Laboulbenia rostellata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

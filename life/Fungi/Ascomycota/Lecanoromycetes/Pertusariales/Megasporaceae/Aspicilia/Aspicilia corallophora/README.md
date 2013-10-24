@@ -1,5 +1,4 @@
-Aspicilia corallophora (Poelt) Hafellner & Türk SPECIES
-=======
+# Aspicilia corallophora (Poelt) Hafellner & Türk SPECIES
 
 #### Status
 ACCEPTED

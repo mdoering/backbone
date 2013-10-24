@@ -1,5 +1,4 @@
-Remispora ornata T.W. Johnson & A.R. Caval. SPECIES
-=======
+# Remispora ornata T.W. Johnson & A.R. Caval. SPECIES
 
 #### Status
 ACCEPTED

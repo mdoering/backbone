@@ -1,5 +1,4 @@
-Verrucaria filarszkyana Szatala SPECIES
-=======
+# Verrucaria filarszkyana Szatala SPECIES
 
 #### Status
 ACCEPTED

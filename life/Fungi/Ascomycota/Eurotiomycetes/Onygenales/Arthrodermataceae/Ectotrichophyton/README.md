@@ -1,5 +1,4 @@
-Ectotrichophyton GENUS
-=======
+# Ectotrichophyton GENUS
 
 #### Status
 ACCEPTED

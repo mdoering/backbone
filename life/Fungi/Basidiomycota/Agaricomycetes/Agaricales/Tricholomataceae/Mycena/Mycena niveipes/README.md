@@ -1,5 +1,4 @@
-Mycena niveipes (Murrill) Murrill, 1916 SPECIES
-=======
+# Mycena niveipes (Murrill) Murrill, 1916 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scutellinia caucasica Kullman & Raitv. SPECIES
-=======
+# Scutellinia caucasica Kullman & Raitv. SPECIES
 
 #### Status
 ACCEPTED

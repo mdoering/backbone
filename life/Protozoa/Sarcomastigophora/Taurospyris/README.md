@@ -1,5 +1,4 @@
-Taurospyris Haeckel, 1881 GENUS
-=======
+# Taurospyris Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

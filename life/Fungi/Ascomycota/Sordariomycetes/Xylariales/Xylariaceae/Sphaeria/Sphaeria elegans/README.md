@@ -1,5 +1,4 @@
-Sphaeria elegans Duby SPECIES
-=======
+# Sphaeria elegans Duby SPECIES
 
 #### Status
 ACCEPTED

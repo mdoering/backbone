@@ -1,5 +1,4 @@
-Stemphylium laxum Ellis & Everh. SPECIES
-=======
+# Stemphylium laxum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

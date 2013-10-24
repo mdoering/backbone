@@ -1,5 +1,4 @@
-Entoloma subtile E. Horak SPECIES
-=======
+# Entoloma subtile E. Horak SPECIES
 
 #### Status
 ACCEPTED

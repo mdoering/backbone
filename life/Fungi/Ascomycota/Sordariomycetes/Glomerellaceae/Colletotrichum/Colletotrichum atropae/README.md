@@ -1,5 +1,4 @@
-Colletotrichum atropae Klaptzova {?} SPECIES
-=======
+# Colletotrichum atropae Klaptzova {?} SPECIES
 
 #### Status
 ACCEPTED

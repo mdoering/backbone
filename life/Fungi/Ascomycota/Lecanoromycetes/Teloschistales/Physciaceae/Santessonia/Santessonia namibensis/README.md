@@ -1,5 +1,4 @@
-Santessonia namibensis Hale & Vobis SPECIES
-=======
+# Santessonia namibensis Hale & Vobis SPECIES
 
 #### Status
 ACCEPTED

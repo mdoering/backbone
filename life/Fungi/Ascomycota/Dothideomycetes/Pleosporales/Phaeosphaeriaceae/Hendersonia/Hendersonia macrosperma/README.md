@@ -1,5 +1,4 @@
-Hendersonia macrosperma Sacc. & Roum. SPECIES
-=======
+# Hendersonia macrosperma Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

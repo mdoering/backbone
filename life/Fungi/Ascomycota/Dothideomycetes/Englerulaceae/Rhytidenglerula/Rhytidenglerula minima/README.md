@@ -1,5 +1,4 @@
-Rhytidenglerula minima (Hansf.) Arx SPECIES
-=======
+# Rhytidenglerula minima (Hansf.) Arx SPECIES
 
 #### Status
 ACCEPTED

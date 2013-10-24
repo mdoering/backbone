@@ -1,5 +1,4 @@
-Physarum durieui Mont. SPECIES
-=======
+# Physarum durieui Mont. SPECIES
 
 #### Status
 ACCEPTED

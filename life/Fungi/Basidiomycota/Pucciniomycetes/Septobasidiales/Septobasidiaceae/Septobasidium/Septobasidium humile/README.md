@@ -1,5 +1,4 @@
-Septobasidium humile Racib. SPECIES
-=======
+# Septobasidium humile Racib. SPECIES
 
 #### Status
 ACCEPTED

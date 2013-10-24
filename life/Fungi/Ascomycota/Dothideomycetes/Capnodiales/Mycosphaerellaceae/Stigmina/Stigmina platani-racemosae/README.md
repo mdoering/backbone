@@ -1,14 +1,13 @@
-Stigmina plantani-racemosae (Dearn. & Barthol.) S. Hughes SPECIES
-=======
+# Stigmina platani-racemosae (Dearn. & Barthol.) S. Hughes SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Pap. 49: 9 (1952)
 
 #### Original name
 Stigmella platani-racemosae Dearn. & Barthol.

@@ -1,14 +1,13 @@
-Enterobryus compressus Thaxt., 1920 SPECIES
-=======
+# Passalomyces compressus (Thaxt.) Lichtw., M.M. White, Cafaro & J.K. Misra, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Gaz. 69: 24 (1920)
+Mycologia 91(4): 696 (1999)
 
 #### Original name
 Enterobryus compressus Thaxt., 1920

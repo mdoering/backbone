@@ -1,5 +1,4 @@
-Graphis ochroplaca (Nyl.) Vain. SPECIES
-=======
+# Graphis ochroplaca (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

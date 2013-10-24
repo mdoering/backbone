@@ -1,5 +1,4 @@
-Navicella ruscicola (Fabre) Kuntze SPECIES
-=======
+# Navicella ruscicola (Fabre) Kuntze SPECIES
 
 #### Status
 ACCEPTED

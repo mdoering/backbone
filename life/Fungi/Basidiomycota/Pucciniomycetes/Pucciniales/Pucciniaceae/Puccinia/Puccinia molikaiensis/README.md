@@ -1,5 +1,4 @@
-Puccinia molikaiensis Cummins SPECIES
-=======
+# Puccinia molikaiensis Cummins SPECIES
 
 #### Status
 ACCEPTED

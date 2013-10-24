@@ -1,17 +1,16 @@
-Phacotiella Vain. GENUS
-=======
+# Sphinctrina E.M. Fries, 1825 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Acta Soc. Fauna Flora fenn. 57(1): 113 (1927)
+null
 
 #### Original name
-Phacotiella Vain.
+null
 
 ### Remarks
 null

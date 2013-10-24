@@ -1,5 +1,4 @@
-Scleroderma spinulosum (Peck) De Toni SPECIES
-=======
+# Scleroderma spinulosum (Peck) De Toni SPECIES
 
 #### Status
 ACCEPTED

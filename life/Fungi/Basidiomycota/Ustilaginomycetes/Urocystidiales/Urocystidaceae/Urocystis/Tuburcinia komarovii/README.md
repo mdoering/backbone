@@ -1,5 +1,4 @@
-Tuburcinia komarovii Lavrov SPECIES
-=======
+# Tuburcinia komarovii Lavrov SPECIES
 
 #### Status
 ACCEPTED

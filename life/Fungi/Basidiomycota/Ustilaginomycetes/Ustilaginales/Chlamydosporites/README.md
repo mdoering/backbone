@@ -1,5 +1,4 @@
-Chlamydosporites Paradkar GENUS
-=======
+# Chlamydosporites Paradkar GENUS
 
 #### Status
 ACCEPTED

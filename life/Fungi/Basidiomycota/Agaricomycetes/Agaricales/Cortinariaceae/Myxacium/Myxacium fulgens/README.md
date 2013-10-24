@@ -1,5 +1,4 @@
-Myxacium fulgens (Alb. & Schwein.) P. Kumm. SPECIES
-=======
+# Myxacium fulgens (Alb. & Schwein.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

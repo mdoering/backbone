@@ -1,5 +1,4 @@
-Cercospora zorniae J.M. Yen & Gilles SPECIES
-=======
+# Cercospora zorniae J.M. Yen & Gilles SPECIES
 
 #### Status
 ACCEPTED

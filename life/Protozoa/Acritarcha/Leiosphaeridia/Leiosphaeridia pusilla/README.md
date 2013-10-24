@@ -1,5 +1,4 @@
-Leiosphaeridia pusilla Mädler, 1963 SPECIES
-=======
+# Leiosphaeridia pusilla Mädler, 1963 SPECIES
 
 #### Status
 ACCEPTED

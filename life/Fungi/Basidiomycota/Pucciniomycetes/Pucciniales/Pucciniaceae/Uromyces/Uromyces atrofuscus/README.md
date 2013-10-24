@@ -1,5 +1,4 @@
-Uromyces atrofuscus Dudley & C.H. Thomps. SPECIES
-=======
+# Uromyces atrofuscus Dudley & C.H. Thomps. SPECIES
 
 #### Status
 ACCEPTED

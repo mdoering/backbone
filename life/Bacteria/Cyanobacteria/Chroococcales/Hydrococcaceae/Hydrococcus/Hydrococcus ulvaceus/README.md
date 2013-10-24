@@ -1,5 +1,4 @@
-Hydrococcus ulvaceus Kützing SPECIES
-=======
+# Hydrococcus ulvaceus Kützing SPECIES
 
 #### Status
 ACCEPTED

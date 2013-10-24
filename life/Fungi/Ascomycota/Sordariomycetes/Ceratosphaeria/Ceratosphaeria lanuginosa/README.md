@@ -1,5 +1,4 @@
-Ceratosphaeria lanuginosa Maire SPECIES
-=======
+# Ceratosphaeria lanuginosa Maire SPECIES
 
 #### Status
 ACCEPTED

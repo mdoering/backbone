@@ -1,5 +1,4 @@
-Humarina lilacina Seaver SPECIES
-=======
+# Humarina lilacina Seaver SPECIES
 
 #### Status
 ACCEPTED

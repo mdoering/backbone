@@ -1,5 +1,4 @@
-Uredo argyreiae Petch SPECIES
-=======
+# Uredo argyreiae Petch SPECIES
 
 #### Status
 ACCEPTED

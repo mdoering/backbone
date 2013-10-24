@@ -1,5 +1,4 @@
-Agaricus subsulphureus Britzelm. SPECIES
-=======
+# Agaricus subsulphureus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

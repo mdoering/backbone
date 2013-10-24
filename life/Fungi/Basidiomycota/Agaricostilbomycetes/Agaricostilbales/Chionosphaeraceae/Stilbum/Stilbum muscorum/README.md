@@ -1,5 +1,4 @@
-Stilbum muscorum Corda SPECIES
-=======
+# Stilbum muscorum Corda SPECIES
 
 #### Status
 ACCEPTED

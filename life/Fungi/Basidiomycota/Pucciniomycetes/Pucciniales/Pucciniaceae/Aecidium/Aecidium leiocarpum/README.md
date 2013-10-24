@@ -1,8 +1,7 @@
-Aecidium lejocarpum Syd. & P. Syd. SPECIES
-=======
+# Aecidium leiocarpum Syd. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aecidium lejocarpum Syd. & P. Syd.
+Aecidium leiocarpum Syd. & P. Syd.
 
 ### Remarks
 null

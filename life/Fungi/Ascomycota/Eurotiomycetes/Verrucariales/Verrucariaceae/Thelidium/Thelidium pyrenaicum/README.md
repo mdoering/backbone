@@ -1,5 +1,4 @@
-Thelidium pyrenaicum SPECIES
-=======
+# Thelidium pyrenaicum SPECIES
 
 #### Status
 ACCEPTED

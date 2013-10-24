@@ -1,5 +1,4 @@
-Chytriomyces reticulatus Persiel, 1960 SPECIES
-=======
+# Chytriomyces reticulatus Persiel, 1960 SPECIES
 
 #### Status
 ACCEPTED

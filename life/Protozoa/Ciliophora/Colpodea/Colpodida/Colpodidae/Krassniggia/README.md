@@ -1,5 +1,4 @@
-Krassniggia Foissner, 1987 GENUS
-=======
+# Krassniggia Foissner, 1987 GENUS
 
 #### Status
 ACCEPTED

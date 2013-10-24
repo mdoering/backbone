@@ -1,17 +1,16 @@
-Trichosporonoides australiense C. Ramírez SPECIES
-=======
+# Trichosporonoides australiensis C. Ramírez SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopathologia 108(1): 25 (1989)
 
 #### Original name
-Trichosporonoides australiense C. Ramírez
+Trichosporonoides australiensis C. Ramírez
 
 ### Remarks
 null

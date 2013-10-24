@@ -1,5 +1,4 @@
-Creoseptoria Petr. GENUS
-=======
+# Creoseptoria Petr. GENUS
 
 #### Status
 ACCEPTED

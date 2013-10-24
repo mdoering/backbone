@@ -1,5 +1,4 @@
-Agaricus pauperatus Batsch SPECIES
-=======
+# Agaricus pauperatus Batsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endotebanella Vachard, Martini, Rettori & Zaninetti, 1994 GENUS
-=======
+# Endotebanella Vachard, Martini, Rettori & Zaninetti, 1994 GENUS
 
 #### Status
 ACCEPTED

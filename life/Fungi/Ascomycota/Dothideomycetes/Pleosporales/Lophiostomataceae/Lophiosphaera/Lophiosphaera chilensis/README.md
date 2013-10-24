@@ -1,5 +1,4 @@
-Lophiosphaera chilensis (Speg.) Sacc. & Traverso SPECIES
-=======
+# Lophiosphaera chilensis (Speg.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

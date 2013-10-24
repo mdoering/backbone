@@ -1,5 +1,4 @@
-Cercospora paulensis Henn. SPECIES
-=======
+# Cercospora paulensis Henn. SPECIES
 
 #### Status
 ACCEPTED

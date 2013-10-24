@@ -1,5 +1,4 @@
-Lecanactis ricasolii A. Massal. SPECIES
-=======
+# Lecanactis ricasolii A. Massal. SPECIES
 
 #### Status
 ACCEPTED

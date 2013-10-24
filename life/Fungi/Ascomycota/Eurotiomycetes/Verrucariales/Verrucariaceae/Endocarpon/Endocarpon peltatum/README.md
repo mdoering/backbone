@@ -1,5 +1,4 @@
-Endocarpon peltatum Taylor SPECIES
-=======
+# Endocarpon peltatum Taylor SPECIES
 
 #### Status
 ACCEPTED

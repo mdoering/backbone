@@ -1,5 +1,4 @@
-Spirospora R.R. Kudo GENUS
-=======
+# Spirospora R.R. Kudo GENUS
 
 #### Status
 ACCEPTED

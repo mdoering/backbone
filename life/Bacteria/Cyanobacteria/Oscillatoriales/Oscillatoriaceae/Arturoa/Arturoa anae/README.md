@@ -1,5 +1,4 @@
-Arturoa anae P. González SPECIES
-=======
+# Arturoa anae P. González SPECIES
 
 #### Status
 ACCEPTED

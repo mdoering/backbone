@@ -1,5 +1,4 @@
-Peniophora borbonica Boidin & Gilles, 2000 SPECIES
-=======
+# Peniophora borbonica Boidin & Gilles, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myxosporium fuscum Bonord. SPECIES
-=======
+# Myxosporium fuscum Bonord. SPECIES
 
 #### Status
 ACCEPTED

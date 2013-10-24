@@ -1,5 +1,4 @@
-Erysiphe euscaphidis (D.Z. Xie) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe euscaphidis (D.Z. Xie) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

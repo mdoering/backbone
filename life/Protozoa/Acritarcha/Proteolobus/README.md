@@ -1,5 +1,4 @@
-Proteolobus Wood, 1997 GENUS
-=======
+# Proteolobus Wood, 1997 GENUS
 
 #### Status
 ACCEPTED

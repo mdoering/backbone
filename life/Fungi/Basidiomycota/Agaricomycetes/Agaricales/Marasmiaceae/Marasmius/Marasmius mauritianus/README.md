@@ -1,5 +1,4 @@
-Marasmius mauritianus Lév. SPECIES
-=======
+# Marasmius mauritianus Lév. SPECIES
 
 #### Status
 ACCEPTED

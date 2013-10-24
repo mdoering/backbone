@@ -1,5 +1,4 @@
-Hygrophorus rubrofibrillosus Britzelm. SPECIES
-=======
+# Hygrophorus rubrofibrillosus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

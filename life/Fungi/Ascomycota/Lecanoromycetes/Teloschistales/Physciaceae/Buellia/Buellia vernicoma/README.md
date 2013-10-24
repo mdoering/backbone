@@ -1,5 +1,4 @@
-Buellia vernicoma (Tuck.) Tuck. SPECIES
-=======
+# Buellia vernicoma (Tuck.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

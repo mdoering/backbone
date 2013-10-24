@@ -1,5 +1,4 @@
-Geleia Foissner, 1998 GENUS
-=======
+# Geleia Foissner, 1998 GENUS
 
 #### Status
 ACCEPTED

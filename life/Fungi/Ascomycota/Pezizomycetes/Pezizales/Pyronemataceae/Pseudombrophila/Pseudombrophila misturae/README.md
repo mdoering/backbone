@@ -1,14 +1,13 @@
-Peziza misturae W. Phillips, 1880 SPECIES
-=======
+# Pseudombrophila misturae (W. Phillips) Svrcek, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gard. Chron. , London fig. 58 (1880)
+Ceská Mykol. 28(3): 135 (1974)
 
 #### Original name
 Peziza misturae W. Phillips, 1880

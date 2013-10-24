@@ -1,5 +1,4 @@
-Cyphella grisea Rick SPECIES
-=======
+# Cyphella grisea Rick SPECIES
 
 #### Status
 ACCEPTED

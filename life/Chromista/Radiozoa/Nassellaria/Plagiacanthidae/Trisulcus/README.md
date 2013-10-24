@@ -1,5 +1,4 @@
-Trisulcus Popofsky, 1913 GENUS
-=======
+# Trisulcus Popofsky, 1913 GENUS
 
 #### Status
 ACCEPTED

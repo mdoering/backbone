@@ -1,5 +1,4 @@
-Diaporthe rehmiana Starbäck SPECIES
-=======
+# Diaporthe rehmiana Starbäck SPECIES
 
 #### Status
 ACCEPTED

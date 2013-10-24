@@ -1,5 +1,4 @@
-Folliculina aculeata (Claparède & Lachmann, 1858) ?, ? SPECIES
-=======
+# Folliculina aculeata (Claparède & Lachmann, 1858) ?, ? SPECIES
 
 #### Status
 ACCEPTED

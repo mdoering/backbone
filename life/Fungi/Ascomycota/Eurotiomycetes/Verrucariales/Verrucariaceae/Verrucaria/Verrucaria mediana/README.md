@@ -1,5 +1,4 @@
-Verrucaria mediana Nyl. SPECIES
-=======
+# Verrucaria mediana Nyl. SPECIES
 
 #### Status
 ACCEPTED

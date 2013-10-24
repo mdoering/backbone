@@ -1,5 +1,4 @@
-Rhizocarpon renneri Poelt SPECIES
-=======
+# Rhizocarpon renneri Poelt SPECIES
 
 #### Status
 ACCEPTED

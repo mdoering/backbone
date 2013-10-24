@@ -1,5 +1,4 @@
-Lichen cervinus Wahlenb. SPECIES
-=======
+# Lichen cervinus Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Allophylaria montana Arendh. & R. Sharma SPECIES
-=======
+# Allophylaria montana Arendh. & R. Sharma SPECIES
 
 #### Status
 ACCEPTED

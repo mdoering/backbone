@@ -1,5 +1,4 @@
-Stigmatomyces subcircinalis Thaxt. SPECIES
-=======
+# Stigmatomyces subcircinalis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

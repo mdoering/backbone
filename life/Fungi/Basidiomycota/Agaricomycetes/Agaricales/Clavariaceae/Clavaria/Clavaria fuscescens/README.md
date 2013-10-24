@@ -1,5 +1,4 @@
-Clavaria fuscescens Fr. SPECIES
-=======
+# Clavaria fuscescens Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Enchelys papa SPECIES
-=======
+# Enchelys papa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudopeziza protrusa (Berk. & M.A. Curtis) Rehm SPECIES
-=======
+# Pseudopeziza protrusa (Berk. & M.A. Curtis) Rehm SPECIES
 
 #### Status
 ACCEPTED

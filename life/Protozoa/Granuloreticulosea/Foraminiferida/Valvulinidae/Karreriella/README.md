@@ -1,5 +1,4 @@
-Karreriella Cushman, 1933 GENUS
-=======
+# Karreriella Cushman, 1933 GENUS
 
 #### Status
 ACCEPTED

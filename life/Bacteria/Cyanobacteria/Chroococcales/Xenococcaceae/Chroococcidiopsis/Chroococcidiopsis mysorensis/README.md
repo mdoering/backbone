@@ -1,5 +1,4 @@
-Chroococcidiopsis mysorensis Tiwari SPECIES
-=======
+# Chroococcidiopsis mysorensis Tiwari SPECIES
 
 #### Status
 ACCEPTED

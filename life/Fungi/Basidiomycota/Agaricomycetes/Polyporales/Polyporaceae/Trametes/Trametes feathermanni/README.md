@@ -1,5 +1,4 @@
-Trametes feathermanni Ravenel SPECIES
-=======
+# Trametes feathermanni Ravenel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocraterellus mussooriensis (D.A. Reid, K.S. Thind & Adlakha) Corner SPECIES
-=======
+# Pseudocraterellus mussooriensis (D.A. Reid, K.S. Thind & Adlakha) Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum minutum (Link) B.T. Dicks. SPECIES
-=======
+# Colletotrichum minutum (Link) B.T. Dicks. SPECIES
 
 #### Status
 ACCEPTED

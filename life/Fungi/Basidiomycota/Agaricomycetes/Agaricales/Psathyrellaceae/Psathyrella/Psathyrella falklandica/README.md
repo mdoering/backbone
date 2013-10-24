@@ -1,5 +1,4 @@
-Psathyrella falklandica Cotton SPECIES
-=======
+# Psathyrella falklandica Cotton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calicium sphaerocephalum f. sphaerocephalum FORM
-=======
+# Calicium sphaerocephalum SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Method. Lich. 91 (1803)
+null
 
 #### Original name
-Calicium sphaerocephalum f. sphaerocephalum
+null
 
 ### Remarks
 null

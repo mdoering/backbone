@@ -1,5 +1,4 @@
-Pluteus excentricus Velen. SPECIES
-=======
+# Pluteus excentricus Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halteria oblonga Kellicott, 1885 SPECIES
-=======
+# Halteria oblonga Kellicott, 1885 SPECIES
 
 #### Status
 ACCEPTED

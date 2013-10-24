@@ -1,5 +1,4 @@
-Jattaea cornina (Peck) M.E. Barr, J.D. Rogers & Y.M. Ju SPECIES
-=======
+# Jattaea cornina (Peck) M.E. Barr, J.D. Rogers & Y.M. Ju SPECIES
 
 #### Status
 ACCEPTED

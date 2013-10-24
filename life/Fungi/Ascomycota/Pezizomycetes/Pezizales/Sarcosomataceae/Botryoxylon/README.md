@@ -1,5 +1,4 @@
-Botryoxylon GENUS
-=======
+# Botryoxylon GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acineta puteana SPECIES
-=======
+# Acineta puteana SPECIES
 
 #### Status
 ACCEPTED

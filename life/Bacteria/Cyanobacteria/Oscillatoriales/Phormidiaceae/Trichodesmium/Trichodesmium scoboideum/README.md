@@ -1,5 +1,4 @@
-Trichodesmium scoboideum A. H. S. Lucas SPECIES
-=======
+# Trichodesmium scoboideum A. H. S. Lucas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septobasidium meredithiae Henk SPECIES
-=======
+# Septobasidium meredithiae Henk SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glaphyriopsis B. Sutton & Pascoe GENUS
-=======
+# Glaphyriopsis B. Sutton & Pascoe GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia harryana Jørst. SPECIES
-=======
+# Puccinia harryana Jørst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pannaria femsjonensis (Fr.) Anzi SPECIES
-=======
+# Pannaria femsjonensis (Fr.) Anzi SPECIES
 
 #### Status
 ACCEPTED

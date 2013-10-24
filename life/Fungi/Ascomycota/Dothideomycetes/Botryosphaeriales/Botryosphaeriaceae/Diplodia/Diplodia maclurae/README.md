@@ -1,14 +1,13 @@
-Metadiplodia mutila f. maclurae (Speg.) Zambett., 1955 FORM
-=======
+# Diplodia maclurae Speg., 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 70(3): 285 (1955)
+Michelia 1(no. 5): 484 (1879)
 
 #### Original name
 Diplodia maclurae Speg., 1879

@@ -1,5 +1,4 @@
-Berengeria GENUS
-=======
+# Berengeria GENUS
 
 #### Status
 ACCEPTED

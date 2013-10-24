@@ -1,5 +1,4 @@
-Florilus labradoricus SPECIES
-=======
+# Florilus labradoricus SPECIES
 
 #### Status
 ACCEPTED

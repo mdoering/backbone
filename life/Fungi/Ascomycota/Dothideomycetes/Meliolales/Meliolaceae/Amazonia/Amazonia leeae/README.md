@@ -1,5 +1,4 @@
-Amazonia leeae Hansf. & Thirum. SPECIES
-=======
+# Amazonia leeae Hansf. & Thirum. SPECIES
 
 #### Status
 ACCEPTED

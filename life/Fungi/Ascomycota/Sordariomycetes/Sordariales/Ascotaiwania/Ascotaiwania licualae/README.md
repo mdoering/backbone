@@ -1,5 +1,4 @@
-Ascotaiwania licualae J. Fröhl. & K.D. Hyde, 2000 SPECIES
-=======
+# Ascotaiwania licualae J. Fröhl. & K.D. Hyde, 2000 SPECIES
 
 #### Status
 ACCEPTED

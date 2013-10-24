@@ -1,5 +1,4 @@
-Marasmius callicarpellus Murrill SPECIES
-=======
+# Marasmius callicarpellus Murrill SPECIES
 
 #### Status
 ACCEPTED

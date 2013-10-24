@@ -1,5 +1,4 @@
-Pythiella vernalis Couch, 1935 SPECIES
-=======
+# Pythiella vernalis Couch, 1935 SPECIES
 
 #### Status
 ACCEPTED

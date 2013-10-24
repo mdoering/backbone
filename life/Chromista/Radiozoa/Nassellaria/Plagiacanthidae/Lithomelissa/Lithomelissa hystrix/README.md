@@ -1,5 +1,4 @@
-Lithomelissa hystrix Joergensen, 1900 SPECIES
-=======
+# Lithomelissa hystrix Joergensen, 1900 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Maronea crassilabra (Müll. Arg.) H. Magn. SPECIES
-=======
+# Maronea crassilabra (Müll. Arg.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

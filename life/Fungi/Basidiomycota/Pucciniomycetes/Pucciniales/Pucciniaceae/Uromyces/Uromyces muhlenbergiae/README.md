@@ -1,17 +1,16 @@
-Uromyces muehlenbergiae S. Ito SPECIES
-=======
+# Uromyces muhlenbergiae S. Ito SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Jour. Agr. Coll. Tohoku Imp. Univ. 3(2): 186 (1909)
 
 #### Original name
-Uromyces muehlenbergiae S. Ito
+Uromyces muhlenbergiae S. Ito
 
 ### Remarks
 null

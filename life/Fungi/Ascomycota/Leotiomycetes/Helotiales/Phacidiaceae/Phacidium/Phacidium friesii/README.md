@@ -1,5 +1,4 @@
-Phacidium friesii Ces. SPECIES
-=======
+# Phacidium friesii Ces. SPECIES
 
 #### Status
 ACCEPTED

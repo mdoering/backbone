@@ -1,17 +1,16 @@
-Umbilicaria vellea f. vellea FORM
-=======
+# Umbilicaria vellea (L.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+K. Vetensk-Acad. Nya Handl. 15: 101 (1794)
 
 #### Original name
-null
+Lichen velleus
 
 ### Remarks
 null

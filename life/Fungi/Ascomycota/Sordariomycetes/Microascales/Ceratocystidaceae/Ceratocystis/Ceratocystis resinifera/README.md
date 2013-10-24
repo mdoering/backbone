@@ -1,5 +1,4 @@
-Ceratocystis resinifera T.C. Harr. & M.J. Wingf. SPECIES
-=======
+# Ceratocystis resinifera T.C. Harr. & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium palmarum Oudem. SPECIES
-=======
+# Gloeosporium palmarum Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta eucalypti Ellis & Everh. SPECIES
-=======
+# Phyllosticta eucalypti Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

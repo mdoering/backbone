@@ -1,5 +1,4 @@
-Pseudocercospora inulae Y.L. Guo & Y. Jiang SPECIES
-=======
+# Pseudocercospora inulae Y.L. Guo & Y. Jiang SPECIES
 
 #### Status
 ACCEPTED

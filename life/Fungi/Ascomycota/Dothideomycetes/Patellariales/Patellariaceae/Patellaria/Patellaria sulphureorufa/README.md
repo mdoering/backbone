@@ -1,5 +1,4 @@
-Patellaria sulphureorufa (Nyl.) SPECIES
-=======
+# Patellaria sulphureorufa (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hohenbuehelia pinicola Raithelh., 1984 SPECIES
-=======
+# Hohenbuehelia pinicola Raithelh., 1984 SPECIES
 
 #### Status
 ACCEPTED

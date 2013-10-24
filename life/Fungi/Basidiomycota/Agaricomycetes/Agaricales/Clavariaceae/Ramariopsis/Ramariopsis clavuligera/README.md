@@ -1,14 +1,13 @@
-Clavulinopsis clavuligera (R. Heim) Jülich, 1985 SPECIES
-=======
+# Ramariopsis clavuligera (R. Heim) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Int. J. Mycol. Lichenol. 2(1): 120 (1985)
+Ann. Bot. Mem. 1: 638 (1950)
 
 #### Original name
 Clavaria clavuligera R. Heim, 1934

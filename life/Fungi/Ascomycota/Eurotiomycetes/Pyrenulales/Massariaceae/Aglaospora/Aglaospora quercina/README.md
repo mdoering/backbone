@@ -1,5 +1,4 @@
-Aglaospora quercina Libert SPECIES
-=======
+# Aglaospora quercina Libert SPECIES
 
 #### Status
 ACCEPTED

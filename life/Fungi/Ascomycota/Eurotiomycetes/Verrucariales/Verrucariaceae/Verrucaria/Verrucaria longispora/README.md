@@ -1,5 +1,4 @@
-Verrucaria longispora P. Crouan & H. Crouan SPECIES
-=======
+# Verrucaria longispora P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

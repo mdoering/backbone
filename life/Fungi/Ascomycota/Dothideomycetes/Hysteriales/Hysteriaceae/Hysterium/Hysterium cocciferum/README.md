@@ -1,5 +1,4 @@
-Hysterium cocciferum Castagne SPECIES
-=======
+# Hysterium cocciferum Castagne SPECIES
 
 #### Status
 ACCEPTED

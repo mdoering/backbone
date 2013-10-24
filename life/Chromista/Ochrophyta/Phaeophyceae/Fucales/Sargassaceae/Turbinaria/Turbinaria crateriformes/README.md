@@ -1,5 +1,4 @@
-Turbinaria crateriformes Taylor, 1966 SPECIES
-=======
+# Turbinaria crateriformes Taylor, 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia constata Syd. SPECIES
-=======
+# Puccinia constata Syd. SPECIES
 
 #### Status
 ACCEPTED

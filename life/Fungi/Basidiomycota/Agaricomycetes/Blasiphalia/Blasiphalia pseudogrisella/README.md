@@ -1,14 +1,13 @@
-Omphalina pseudogrisella (A.H. Sm.) M. Lange, 1981 SPECIES
-=======
+# Blasiphalia pseudogrisella (A.H. Sm.) Redhead, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nordic Jl Bot. 1(5): 695 (1981)
+in Larsson, Parmasto, Fischer, Langer, Nakasone & Redhead, Mycologia 98(6): 934 (2007)
 
 #### Original name
 null

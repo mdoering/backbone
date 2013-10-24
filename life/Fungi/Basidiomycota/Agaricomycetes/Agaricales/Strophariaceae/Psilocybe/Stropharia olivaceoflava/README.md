@@ -1,5 +1,4 @@
-Stropharia olivaceoflava (Kalchbr. & MacOwan) Sacc. SPECIES
-=======
+# Stropharia olivaceoflava (Kalchbr. & MacOwan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

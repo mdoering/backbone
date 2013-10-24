@@ -1,5 +1,4 @@
-Pentabelus Sugiyama, 1992 GENUS
-=======
+# Pentabelus Sugiyama, 1992 GENUS
 
 #### Status
 ACCEPTED

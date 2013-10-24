@@ -1,5 +1,4 @@
-Septobasidium prunophilum Couch ex L.D. Gómez & Henk SPECIES
-=======
+# Septobasidium prunophilum Couch ex L.D. Gómez & Henk SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus flavorubellus Thiers & A.H. Sm. SPECIES
-=======
+# Boletus flavorubellus Thiers & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

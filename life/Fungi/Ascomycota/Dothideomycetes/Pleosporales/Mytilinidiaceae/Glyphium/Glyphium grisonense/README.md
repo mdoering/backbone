@@ -1,5 +1,4 @@
-Glyphium grisonense Math. SPECIES
-=======
+# Glyphium grisonense Math. SPECIES
 
 #### Status
 ACCEPTED

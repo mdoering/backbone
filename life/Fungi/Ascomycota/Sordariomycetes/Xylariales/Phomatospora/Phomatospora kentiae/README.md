@@ -1,5 +1,4 @@
-Phomatospora kentiae Speg. SPECIES
-=======
+# Phomatospora kentiae Speg. SPECIES
 
 #### Status
 ACCEPTED

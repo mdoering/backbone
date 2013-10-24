@@ -1,5 +1,4 @@
-Lamproderma zonatum Mar. Mey. & Poulain, 2004 SPECIES
-=======
+# Lamproderma zonatum Mar. Mey. & Poulain, 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus illuminans (F. Muell. ex Berk.) Sacc. SPECIES
-=======
+# Pleurotus illuminans (F. Muell. ex Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

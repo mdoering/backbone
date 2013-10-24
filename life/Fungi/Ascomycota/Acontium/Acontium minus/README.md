@@ -1,5 +1,4 @@
-Acontium minus Morgan SPECIES
-=======
+# Acontium minus Morgan SPECIES
 
 #### Status
 ACCEPTED

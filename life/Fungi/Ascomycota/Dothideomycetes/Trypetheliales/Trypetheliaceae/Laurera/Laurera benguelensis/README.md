@@ -1,5 +1,4 @@
-Laurera benguelensis (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Laurera benguelensis (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

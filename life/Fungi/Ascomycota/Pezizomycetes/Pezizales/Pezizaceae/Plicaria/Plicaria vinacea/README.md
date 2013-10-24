@@ -1,5 +1,4 @@
-Plicaria vinacea Clem. SPECIES
-=======
+# Plicaria vinacea Clem. SPECIES
 
 #### Status
 ACCEPTED

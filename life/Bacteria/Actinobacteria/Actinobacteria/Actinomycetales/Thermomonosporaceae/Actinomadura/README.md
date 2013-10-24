@@ -1,5 +1,4 @@
-Actinomadura H. Lechev. & M.P. Lechev. GENUS
-=======
+# Actinomadura H. Lechev. & M.P. Lechev. GENUS
 
 #### Status
 ACCEPTED

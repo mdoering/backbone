@@ -1,5 +1,4 @@
-Lecanora conizelloides (Werner & M. Choisy) Zahlbr. SPECIES
-=======
+# Lecanora conizelloides (Werner & M. Choisy) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

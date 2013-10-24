@@ -1,5 +1,4 @@
-Phaeaster Scherffel, 1927 GENUS
-=======
+# Phaeaster Scherffel, 1927 GENUS
 
 #### Status
 ACCEPTED

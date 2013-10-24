@@ -1,5 +1,4 @@
-Ascochyta siphonis Allesch. SPECIES
-=======
+# Ascochyta siphonis Allesch. SPECIES
 
 #### Status
 ACCEPTED

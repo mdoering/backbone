@@ -1,14 +1,13 @@
-Amphiloma glaucescens F. Wilson SPECIES
-=======
+# Caloplaca glaucescens (F. Wilson) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Victorian Nat. 5: 29 (1888)
+Cat. Lich. Univers. 7: 239 (1931)
 
 #### Original name
 Amphiloma glaucescens F. Wilson

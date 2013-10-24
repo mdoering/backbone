@@ -1,5 +1,4 @@
-Lentinus anastomosans Rick SPECIES
-=======
+# Lentinus anastomosans Rick SPECIES
 
 #### Status
 ACCEPTED

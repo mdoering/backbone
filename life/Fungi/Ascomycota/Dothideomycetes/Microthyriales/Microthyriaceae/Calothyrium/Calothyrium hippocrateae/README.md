@@ -1,5 +1,4 @@
-Calothyrium hippocrateae R.W. Ryan SPECIES
-=======
+# Calothyrium hippocrateae R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Melanopsamma shimekii Ellis & Everh. SPECIES
-=======
+# Javaria shimekii (Ellis & Everh.) M.E. Barr, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Amer. Fl. (New York), Ser. 2 13: 27 (1990)
 
 #### Original name
 Melanopsamma shimekii Ellis & Everh.

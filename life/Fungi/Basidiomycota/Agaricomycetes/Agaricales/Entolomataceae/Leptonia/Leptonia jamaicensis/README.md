@@ -1,14 +1,13 @@
-Leptonia jamaicense (Murrill) Largent SPECIES
-=======
+# Leptonia jamaicensis (Murrill) Largent SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Mycol. 55: 193 (1977)
 
 #### Original name
 Eccilia jamaicensis Murrill

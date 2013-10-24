@@ -1,5 +1,4 @@
-Diatrypella liriodendri (Schwein.) Sacc. SPECIES
-=======
+# Diatrypella liriodendri (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

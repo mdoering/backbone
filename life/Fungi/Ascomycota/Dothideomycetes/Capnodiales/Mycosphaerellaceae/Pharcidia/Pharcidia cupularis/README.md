@@ -1,5 +1,4 @@
-Pharcidia cupularis Pat. SPECIES
-=======
+# Pharcidia cupularis Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colepismatophila Adams & Travis, 1935 GENUS
-=======
+# Colepismatophila Adams & Travis, 1935 GENUS
 
 #### Status
 ACCEPTED

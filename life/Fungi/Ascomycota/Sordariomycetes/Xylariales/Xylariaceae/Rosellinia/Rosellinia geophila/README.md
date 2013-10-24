@@ -1,5 +1,4 @@
-Rosellinia geophila E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Rosellinia geophila E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

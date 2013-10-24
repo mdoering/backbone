@@ -1,5 +1,4 @@
-Hiscocapsa lugeoni SPECIES
-=======
+# Hiscocapsa lugeoni SPECIES
 
 #### Status
 ACCEPTED

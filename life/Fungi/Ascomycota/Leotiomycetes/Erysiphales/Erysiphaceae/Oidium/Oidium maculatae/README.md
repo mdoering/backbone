@@ -1,5 +1,4 @@
-Oidium maculatae Havryl. SPECIES
-=======
+# Oidium maculatae Havryl. SPECIES
 
 #### Status
 ACCEPTED

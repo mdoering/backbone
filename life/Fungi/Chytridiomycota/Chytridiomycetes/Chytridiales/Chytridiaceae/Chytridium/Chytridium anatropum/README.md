@@ -1,5 +1,4 @@
-Chytridium anatropum A. Braun SPECIES
-=======
+# Chytridium anatropum A. Braun SPECIES
 
 #### Status
 ACCEPTED

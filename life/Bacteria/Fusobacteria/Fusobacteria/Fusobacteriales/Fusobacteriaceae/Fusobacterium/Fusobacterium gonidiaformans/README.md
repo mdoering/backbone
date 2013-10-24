@@ -1,11 +1,10 @@
-Pseudobacterium gonidiaformans (Tunnicliff & Jackson, 1925) Krasil'nikov, 1949 SPECIES
-=======
+# Fusobacterium gonidiaformans (Tunnicliff and Jackson, 1925) Moore and Holdeman, 1970 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

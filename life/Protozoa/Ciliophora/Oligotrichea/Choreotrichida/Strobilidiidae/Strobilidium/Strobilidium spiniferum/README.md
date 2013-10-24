@@ -1,5 +1,4 @@
-Strobilidium spiniferum Leegaard, 1915 SPECIES
-=======
+# Strobilidium spiniferum Leegaard, 1915 SPECIES
 
 #### Status
 ACCEPTED

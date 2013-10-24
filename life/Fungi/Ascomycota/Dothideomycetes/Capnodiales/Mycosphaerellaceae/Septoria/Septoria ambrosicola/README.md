@@ -1,5 +1,4 @@
-Septoria ambrosicola Speg. SPECIES
-=======
+# Septoria ambrosicola Speg. SPECIES
 
 #### Status
 ACCEPTED

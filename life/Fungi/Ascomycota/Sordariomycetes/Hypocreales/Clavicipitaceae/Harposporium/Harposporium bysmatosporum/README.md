@@ -1,5 +1,4 @@
-Harposporium bysmatosporum Drechsler, 1946 SPECIES
-=======
+# Harposporium bysmatosporum Drechsler, 1946 SPECIES
 
 #### Status
 ACCEPTED

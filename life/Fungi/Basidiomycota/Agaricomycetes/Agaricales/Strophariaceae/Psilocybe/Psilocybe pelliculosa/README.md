@@ -1,5 +1,4 @@
-Psilocybe pelliculosa (A.H. Sm.) Singer & A.H. Sm. SPECIES
-=======
+# Psilocybe pelliculosa (A.H. Sm.) Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

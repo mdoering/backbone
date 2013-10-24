@@ -1,5 +1,4 @@
-Rhabdospora digitalis Siemaszko SPECIES
-=======
+# Rhabdospora digitalis Siemaszko SPECIES
 
 #### Status
 ACCEPTED

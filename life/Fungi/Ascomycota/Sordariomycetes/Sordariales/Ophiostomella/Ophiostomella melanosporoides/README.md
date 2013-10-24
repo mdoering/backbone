@@ -1,5 +1,4 @@
-Ophiostomella melanosporoides (G. Winter) Petr. SPECIES
-=======
+# Ophiostomella melanosporoides (G. Winter) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hiscocapsa O'Dogherty, 1994 GENUS
-=======
+# Hiscocapsa O'Dogherty, 1994 GENUS
 
 #### Status
 ACCEPTED

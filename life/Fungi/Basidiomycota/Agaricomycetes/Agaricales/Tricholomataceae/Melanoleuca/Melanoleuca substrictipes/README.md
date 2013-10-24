@@ -1,17 +1,16 @@
-Melanoleuca substrictipes var. substrictipes Kühner VARIETY
-=======
+# Melanoleuca substrictipes Kühner, 1978 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. mens. Soc. linn. Lyon 47(1): 52 (1978)
 
 #### Original name
-Melanoleuca substrictipes var. substrictipes Kühner
+Melanoleuca substrictipes Kühner, 1978
 
 ### Remarks
 null

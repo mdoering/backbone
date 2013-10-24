@@ -1,5 +1,4 @@
-Rhizocarpon tegulare SPECIES
-=======
+# Rhizocarpon tegulare SPECIES
 
 #### Status
 ACCEPTED

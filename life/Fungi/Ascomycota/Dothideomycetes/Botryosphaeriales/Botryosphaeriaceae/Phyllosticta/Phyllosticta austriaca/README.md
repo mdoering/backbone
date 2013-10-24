@@ -1,5 +1,4 @@
-Phyllosticta austriaca Sacc. SPECIES
-=======
+# Phyllosticta austriaca Sacc. SPECIES
 
 #### Status
 ACCEPTED

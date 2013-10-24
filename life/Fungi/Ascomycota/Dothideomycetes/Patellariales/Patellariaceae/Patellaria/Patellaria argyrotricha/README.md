@@ -1,5 +1,4 @@
-Patellaria argyrotricha Müll. Arg. SPECIES
-=======
+# Patellaria argyrotricha Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

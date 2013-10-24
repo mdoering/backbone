@@ -1,5 +1,4 @@
-Lycoperdon rima-spinosum Cragin SPECIES
-=======
+# Lycoperdon rima-spinosum Cragin SPECIES
 
 #### Status
 ACCEPTED

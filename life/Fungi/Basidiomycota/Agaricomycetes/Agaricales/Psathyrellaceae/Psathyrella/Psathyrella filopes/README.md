@@ -1,5 +1,4 @@
-Psathyrella filopes Velen. SPECIES
-=======
+# Psathyrella filopes Velen. SPECIES
 
 #### Status
 ACCEPTED

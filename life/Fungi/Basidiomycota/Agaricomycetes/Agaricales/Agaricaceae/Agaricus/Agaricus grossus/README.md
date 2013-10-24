@@ -1,5 +1,4 @@
-Agaricus grossus Berk. SPECIES
-=======
+# Agaricus grossus Berk. SPECIES
 
 #### Status
 ACCEPTED

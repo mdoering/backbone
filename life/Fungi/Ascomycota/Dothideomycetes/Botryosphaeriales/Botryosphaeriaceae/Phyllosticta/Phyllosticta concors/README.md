@@ -1,5 +1,4 @@
-Phyllosticta concors Sacc. SPECIES
-=======
+# Phyllosticta concors Sacc. SPECIES
 
 #### Status
 ACCEPTED

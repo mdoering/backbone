@@ -1,8 +1,7 @@
-Leptopharynx sphagnetorum Levander, 1900 SPECIES
-=======
+# Leptopharynx costatus Mermod, 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

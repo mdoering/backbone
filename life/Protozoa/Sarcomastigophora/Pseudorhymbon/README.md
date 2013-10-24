@@ -1,5 +1,4 @@
-Pseudorhymbon Medioli, Scott, Collins & Wall, 1990 GENUS
-=======
+# Pseudorhymbon Medioli, Scott, Collins & Wall, 1990 GENUS
 
 #### Status
 ACCEPTED

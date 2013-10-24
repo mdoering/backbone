@@ -1,5 +1,4 @@
-Russula atrovinosa Buyck SPECIES
-=======
+# Russula atrovinosa Buyck SPECIES
 
 #### Status
 ACCEPTED

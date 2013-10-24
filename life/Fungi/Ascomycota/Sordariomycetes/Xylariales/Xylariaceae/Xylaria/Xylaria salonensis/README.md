@@ -1,5 +1,4 @@
-Xylaria salonensis Recio SPECIES
-=======
+# Xylaria salonensis Recio SPECIES
 
 #### Status
 ACCEPTED

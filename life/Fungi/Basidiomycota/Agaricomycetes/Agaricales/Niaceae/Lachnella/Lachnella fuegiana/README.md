@@ -1,5 +1,4 @@
-Lachnella fuegiana Speg. SPECIES
-=======
+# Lachnella fuegiana Speg. SPECIES
 
 #### Status
 ACCEPTED

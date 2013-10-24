@@ -1,14 +1,13 @@
-Peronospora tanaceti Gäum., 1923 SPECIES
-=======
+# Paraperonospora tanaceti (Gäum.) Constant., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beitr. Kryptfl. Schweiz 5(4): 130 (1923)
+Sydowia 41: 99 (1989)
 
 #### Original name
 Peronospora tanaceti Gäum., 1923

@@ -1,5 +1,4 @@
-Rinodina haplosporoides SPECIES
-=======
+# Rinodina haplosporoides SPECIES
 
 #### Status
 ACCEPTED

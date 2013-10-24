@@ -1,5 +1,4 @@
-Borzia Cohn, 1883 GENUS
-=======
+# Borzia Cohn, 1883 GENUS
 
 #### Status
 ACCEPTED

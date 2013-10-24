@@ -1,5 +1,4 @@
-Caliciopsis calicioides (Ellis & Everh.) Fitzp. SPECIES
-=======
+# Caliciopsis calicioides (Ellis & Everh.) Fitzp. SPECIES
 
 #### Status
 ACCEPTED

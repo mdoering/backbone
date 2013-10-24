@@ -1,5 +1,4 @@
-Nephroma subtomentellum f. sublividum (Vain.) Gyeln. FORM
-=======
+# Nephroma subtomentellum (Nyl.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-null
+Nephromium subtomentellum (Nyl.) Cromb.
 
 ### Remarks
 null

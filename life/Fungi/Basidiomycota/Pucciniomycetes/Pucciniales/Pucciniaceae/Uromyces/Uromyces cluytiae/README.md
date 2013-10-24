@@ -1,5 +1,4 @@
-Uromyces cluytiae var. cluytiae VARIETY
-=======
+# Uromyces cluytiae Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Grevillea 11(no. 57): 20 (1882)
 
 #### Original name
-Uromyces cluytiae var. cluytiae
+Uromyces cluytiae Kalchbr. & Cooke
 
 ### Remarks
 null

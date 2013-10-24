@@ -1,5 +1,4 @@
-Phyllosticta crenatae Brunaud SPECIES
-=======
+# Phyllosticta crenatae Brunaud SPECIES
 
 #### Status
 ACCEPTED

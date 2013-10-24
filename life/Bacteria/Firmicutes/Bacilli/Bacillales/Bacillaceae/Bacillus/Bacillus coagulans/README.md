@@ -1,5 +1,4 @@
-Bacillus coagulans Hammer, 1915 (Approved Lists, 1980) SPECIES
-=======
+# Bacillus coagulans Hammer, 1915 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

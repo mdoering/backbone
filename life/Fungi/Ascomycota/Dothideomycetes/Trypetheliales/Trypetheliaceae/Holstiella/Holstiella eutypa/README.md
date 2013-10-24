@@ -1,5 +1,4 @@
-Holstiella eutypa Rehm SPECIES
-=======
+# Holstiella eutypa Rehm SPECIES
 
 #### Status
 ACCEPTED

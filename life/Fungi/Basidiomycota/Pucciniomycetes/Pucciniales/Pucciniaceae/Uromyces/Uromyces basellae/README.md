@@ -1,5 +1,4 @@
-Uromyces basellae Syd. & P. Syd. SPECIES
-=======
+# Uromyces basellae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

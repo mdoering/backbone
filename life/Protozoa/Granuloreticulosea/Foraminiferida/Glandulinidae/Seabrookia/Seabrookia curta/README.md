@@ -1,5 +1,4 @@
-Seabrookia curta McCulloch, 1977 SPECIES
-=======
+# Seabrookia curta McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

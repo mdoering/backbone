@@ -1,5 +1,4 @@
-Cercospora chidambarensis Rangaswami & Chandras. SPECIES
-=======
+# Cercospora chidambarensis Rangaswami & Chandras. SPECIES
 
 #### Status
 ACCEPTED

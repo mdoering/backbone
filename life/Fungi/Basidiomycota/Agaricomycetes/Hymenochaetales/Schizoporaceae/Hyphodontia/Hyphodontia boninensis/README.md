@@ -1,14 +1,13 @@
-Lyomyces boninensis (S. Ito & S. Imai) Hjortstam & Ryvarden, 2009 SPECIES
-=======
+# Hyphodontia boninensis (S. Ito & S. Imai) N. Maek., 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Rep. Tottori Mycol. Inst. 31: 9 (1993)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Xylosphaeria macedonica (Petr.) Petr. SPECIES
-=======
+# Xylosphaeria macedonica (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

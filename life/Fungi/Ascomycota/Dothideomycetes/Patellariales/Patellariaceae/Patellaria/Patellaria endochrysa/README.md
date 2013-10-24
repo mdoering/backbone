@@ -1,5 +1,4 @@
-Patellaria endochrysa (Fr.) Trevis. SPECIES
-=======
+# Patellaria endochrysa (Fr.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

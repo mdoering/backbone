@@ -1,5 +1,4 @@
-Entoloma subcaeruleum Hesler SPECIES
-=======
+# Entoloma subcaeruleum Hesler SPECIES
 
 #### Status
 ACCEPTED

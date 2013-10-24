@@ -1,5 +1,4 @@
-Vaginicola cementata Hadzi, 1940 SPECIES
-=======
+# Vaginicola cementata Hadzi, 1940 SPECIES
 
 #### Status
 ACCEPTED

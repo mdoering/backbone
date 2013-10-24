@@ -1,5 +1,4 @@
-Peziza annamitica (Pat.) Sacc. & Trotter SPECIES
-=======
+# Peziza annamitica (Pat.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

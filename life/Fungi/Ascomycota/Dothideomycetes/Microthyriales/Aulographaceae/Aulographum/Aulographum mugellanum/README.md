@@ -1,5 +1,4 @@
-Aulographum mugellanum Paoli SPECIES
-=======
+# Aulographum mugellanum Paoli SPECIES
 
 #### Status
 ACCEPTED

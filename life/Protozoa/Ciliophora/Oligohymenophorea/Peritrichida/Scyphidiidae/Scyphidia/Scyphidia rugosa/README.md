@@ -1,5 +1,4 @@
-Scyphidia rugosa Dujardin, 1841 SPECIES
-=======
+# Scyphidia rugosa Dujardin, 1841 SPECIES
 
 #### Status
 ACCEPTED

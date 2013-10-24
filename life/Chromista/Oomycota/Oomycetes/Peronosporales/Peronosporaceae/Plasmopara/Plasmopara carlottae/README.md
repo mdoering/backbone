@@ -1,5 +1,4 @@
-Plasmopara carlottae Savile SPECIES
-=======
+# Plasmopara carlottae Savile SPECIES
 
 #### Status
 ACCEPTED

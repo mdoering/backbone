@@ -1,5 +1,4 @@
-Physisporus variecolor P. Karst. SPECIES
-=======
+# Physisporus variecolor P. Karst. SPECIES
 
 #### Status
 ACCEPTED

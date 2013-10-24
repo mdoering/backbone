@@ -1,5 +1,4 @@
-Diploschistes cucularis (Norman) Zahlbr. SPECIES
-=======
+# Diploschistes cucularis (Norman) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

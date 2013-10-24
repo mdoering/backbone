@@ -1,5 +1,4 @@
-Cercospora petiveriae Chupp SPECIES
-=======
+# Cercospora petiveriae Chupp SPECIES
 
 #### Status
 ACCEPTED

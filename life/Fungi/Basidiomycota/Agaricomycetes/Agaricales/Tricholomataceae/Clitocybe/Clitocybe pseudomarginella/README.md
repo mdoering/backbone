@@ -1,5 +1,4 @@
-Clitocybe pseudomarginella H.E. Bigelow SPECIES
-=======
+# Clitocybe pseudomarginella H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

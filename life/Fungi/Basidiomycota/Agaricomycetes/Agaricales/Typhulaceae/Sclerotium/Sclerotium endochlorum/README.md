@@ -1,5 +1,4 @@
-Sclerotium endochlorum Sacc. SPECIES
-=======
+# Sclerotium endochlorum Sacc. SPECIES
 
 #### Status
 ACCEPTED

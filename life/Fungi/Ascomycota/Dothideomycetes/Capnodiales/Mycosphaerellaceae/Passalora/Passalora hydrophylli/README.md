@@ -1,5 +1,4 @@
-Passalora hydrophylli (Ellis & Everh.) U. Braun SPECIES
-=======
+# Passalora hydrophylli (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

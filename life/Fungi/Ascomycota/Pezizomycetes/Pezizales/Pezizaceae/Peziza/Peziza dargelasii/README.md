@@ -1,5 +1,4 @@
-Peziza dargelasii Gachet SPECIES
-=======
+# Peziza dargelasii Gachet SPECIES
 
 #### Status
 ACCEPTED

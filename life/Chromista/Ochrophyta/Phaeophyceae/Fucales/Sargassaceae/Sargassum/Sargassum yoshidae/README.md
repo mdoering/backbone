@@ -1,5 +1,4 @@
-Sargassum yoshidae G.C. Trono SPECIES
-=======
+# Sargassum yoshidae G.C. Trono SPECIES
 
 #### Status
 ACCEPTED

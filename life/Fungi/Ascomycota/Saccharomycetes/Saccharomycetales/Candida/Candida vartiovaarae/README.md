@@ -1,14 +1,13 @@
-Torulopsis vartiovaarae Capr., 1961 SPECIES
-=======
+# Candida vartiovaarae (Capr.) Uden & H.R. Buckley, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Lodder, Mycotaxon 17: 298 (1983)
 
 #### Original name
 null

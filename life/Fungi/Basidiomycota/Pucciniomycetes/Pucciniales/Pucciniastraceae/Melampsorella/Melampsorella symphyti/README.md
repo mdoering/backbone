@@ -1,17 +1,16 @@
-Trichobasis symphyti Lév., 1849 SPECIES
-=======
+# Melampsorella symphyti Bubák, 1903 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Orbigny, Dict. Univ. Hist. Nat. 12: 785 [19 of extr. ] (1848)
+Ber. dt. bot. Ges. 21: 356 (1903)
 
 #### Original name
-Uredo symphyti DC., 1808
+Melampsorella symphyti Bubák, 1903
 
 ### Remarks
 null

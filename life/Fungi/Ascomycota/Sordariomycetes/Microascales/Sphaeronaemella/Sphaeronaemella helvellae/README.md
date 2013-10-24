@@ -1,14 +1,13 @@
-Ceratocystis helvellae (P. Karst.) H.P. Upadhyay, 1981 SPECIES
-=======
+# Sphaeronaemella helvellae (P. Karst.) P. Karst., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monograph of Ceratocystis and Ceratocystiopsis (Athens) 97 (1981)
+Hedwigia 23: 18 (1884)
 
 #### Original name
 Sphaeria helvellae P. Karst., 1867

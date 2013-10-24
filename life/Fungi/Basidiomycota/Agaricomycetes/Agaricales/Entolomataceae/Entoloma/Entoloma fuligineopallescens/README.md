@@ -1,5 +1,4 @@
-Entoloma fuligineopallescens G.M. Gates & Noordel. SPECIES
-=======
+# Entoloma fuligineopallescens G.M. Gates & Noordel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactifluus theiogalus (Bull.) Kuntze SPECIES
-=======
+# Lactifluus theiogalus (Bull.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

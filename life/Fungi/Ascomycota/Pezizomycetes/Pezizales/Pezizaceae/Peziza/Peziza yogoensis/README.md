@@ -1,5 +1,4 @@
-Peziza yogoensis Ellis & Galloway SPECIES
-=======
+# Peziza yogoensis Ellis & Galloway SPECIES
 
 #### Status
 ACCEPTED

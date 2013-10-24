@@ -1,17 +1,16 @@
-Physarum rubronodum G.W. Martin, 1948 SPECIES
-=======
+# Physarum albescens Ellis ex T. Macbr., 1922 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Amer. Slime-Moulds (New York), Edn 2 86 (1922)
 
 #### Original name
-null
+Physarum albescens Ellis ex T. Macbr., 1922
 
 ### Remarks
 null

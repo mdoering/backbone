@@ -1,5 +1,4 @@
-Spiroplasma citri Saglio et al., 1973 (Approved Lists, 1980) SPECIES
-=======
+# Spiroplasma citri Saglio et al., 1973 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena pruni Velen. SPECIES
-=======
+# Mycena pruni Velen. SPECIES
 
 #### Status
 ACCEPTED

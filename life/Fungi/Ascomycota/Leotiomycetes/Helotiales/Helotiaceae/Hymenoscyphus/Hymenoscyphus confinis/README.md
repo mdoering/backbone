@@ -1,5 +1,4 @@
-Hymenoscyphus confinis (P. Karst.) Kuntze SPECIES
-=======
+# Hymenoscyphus confinis (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

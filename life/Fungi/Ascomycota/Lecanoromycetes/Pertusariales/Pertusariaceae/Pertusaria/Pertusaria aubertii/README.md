@@ -1,5 +1,4 @@
-Pertusaria aubertii SPECIES
-=======
+# Pertusaria aubertii SPECIES
 
 #### Status
 ACCEPTED

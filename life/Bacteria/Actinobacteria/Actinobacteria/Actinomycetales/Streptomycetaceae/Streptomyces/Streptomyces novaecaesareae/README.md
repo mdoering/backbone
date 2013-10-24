@@ -1,5 +1,4 @@
-Streptomyces novaecaesareae Waksman and Henrici, 1948 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces novaecaesareae Waksman and Henrici, 1948 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

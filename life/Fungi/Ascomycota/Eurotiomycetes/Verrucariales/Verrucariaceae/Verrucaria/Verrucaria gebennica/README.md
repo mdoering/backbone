@@ -1,5 +1,4 @@
-Verrucaria gebennica Nyl. SPECIES
-=======
+# Verrucaria gebennica Nyl. SPECIES
 
 #### Status
 ACCEPTED

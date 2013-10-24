@@ -1,5 +1,4 @@
-Thalassiosira lineata Jousé SPECIES
-=======
+# Thalassiosira lineata Jousé SPECIES
 
 #### Status
 ACCEPTED

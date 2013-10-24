@@ -1,5 +1,4 @@
-Melanotheca arthonioides var. arthonioides VARIETY
-=======
+# Melanotheca arthonioides (Eschw.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Melanotheca arthonioides var. arthonioides
+Verrucaria arthonioides Eschw.
 
 ### Remarks
 null

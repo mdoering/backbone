@@ -1,5 +1,4 @@
-Planktothrix peroronata f. attenuata (Skuja) Anagnostidis & Komárek FORM
-=======
+# Planktothrix peroronata SPECIES
 
 #### Status
 ACCEPTED

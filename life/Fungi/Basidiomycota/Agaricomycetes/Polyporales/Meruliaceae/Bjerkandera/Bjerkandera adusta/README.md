@@ -1,17 +1,16 @@
-Polyporus crispus f. crispus FORM
-=======
+# Bjerkandera adusta (Willd.) P. Karst., 1879 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 1: 363 (1821)
+Meddn Soc. Fauna Flora fenn. 5: 38 (1879)
 
 #### Original name
-Boletus crispus Pers., 1800
+Boletus adustus Willd., 1787
 
 ### Remarks
 null

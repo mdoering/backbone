@@ -1,14 +1,13 @@
-Aphrosina Carter, 1879 GENUS
-=======
+# Acervulina Schultze, 1854 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Polythal. , 67.
 
 #### Original name
 null

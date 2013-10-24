@@ -1,5 +1,4 @@
-Anixia myriasca Höhn. SPECIES
-=======
+# Anixia myriasca Höhn. SPECIES
 
 #### Status
 ACCEPTED

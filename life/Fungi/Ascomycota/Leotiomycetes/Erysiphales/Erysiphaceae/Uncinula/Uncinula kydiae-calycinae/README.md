@@ -1,5 +1,4 @@
-Uncinula kydiae-calycinae R.K. Verma, Chand & Kamal SPECIES
-=======
+# Uncinula kydiae-calycinae R.K. Verma, Chand & Kamal SPECIES
 
 #### Status
 ACCEPTED

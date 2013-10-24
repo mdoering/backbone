@@ -1,5 +1,4 @@
-Cytospora vaccinii Died., 1912 SPECIES
-=======
+# Cytospora vaccinii Died., 1912 SPECIES
 
 #### Status
 ACCEPTED

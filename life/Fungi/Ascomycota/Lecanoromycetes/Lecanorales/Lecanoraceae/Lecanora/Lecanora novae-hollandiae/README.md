@@ -1,5 +1,4 @@
-Lecanora novae-hollandiae Lumbsch SPECIES
-=======
+# Lecanora novae-hollandiae Lumbsch SPECIES
 
 #### Status
 ACCEPTED

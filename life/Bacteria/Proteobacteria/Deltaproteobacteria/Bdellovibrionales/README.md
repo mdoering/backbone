@@ -1,5 +1,4 @@
-Bdellovibrionales Garrity, Bell & Lilburn, 2006 ORDER
-=======
+# Bdellovibrionales Garrity, Bell & Lilburn, 2006 ORDER
 
 #### Status
 ACCEPTED

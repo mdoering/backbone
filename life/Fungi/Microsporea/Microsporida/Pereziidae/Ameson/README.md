@@ -1,5 +1,4 @@
-Ameson Sprague GENUS
-=======
+# Ameson Sprague GENUS
 
 #### Status
 ACCEPTED

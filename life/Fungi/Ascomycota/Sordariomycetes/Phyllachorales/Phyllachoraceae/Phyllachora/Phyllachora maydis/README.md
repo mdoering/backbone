@@ -1,5 +1,4 @@
-Phyllachora maydis Maubl., 1904 SPECIES
-=======
+# Phyllachora maydis Maubl., 1904 SPECIES
 
 #### Status
 ACCEPTED

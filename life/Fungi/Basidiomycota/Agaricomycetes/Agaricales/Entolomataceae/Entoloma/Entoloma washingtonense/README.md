@@ -1,5 +1,4 @@
-Entoloma washingtonense Murrill SPECIES
-=======
+# Entoloma washingtonense Murrill SPECIES
 
 #### Status
 ACCEPTED

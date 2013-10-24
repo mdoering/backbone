@@ -1,5 +1,4 @@
-Pseudocercospora gentianicola (Ellis & Everh.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora gentianicola (Ellis & Everh.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

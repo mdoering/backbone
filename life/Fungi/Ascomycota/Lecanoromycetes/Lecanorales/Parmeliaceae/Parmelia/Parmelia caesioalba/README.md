@@ -1,5 +1,4 @@
-Parmelia caesioalba (Le Prévost) Fr. SPECIES
-=======
+# Parmelia caesioalba (Le Prévost) Fr. SPECIES
 
 #### Status
 ACCEPTED

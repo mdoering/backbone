@@ -1,5 +1,4 @@
-Rachidicola palmae K.D. Hyde & J. Fröhl., 1995 SPECIES
-=======
+# Rachidicola palmae K.D. Hyde & J. Fröhl., 1995 SPECIES
 
 #### Status
 ACCEPTED

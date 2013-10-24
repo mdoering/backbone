@@ -1,5 +1,4 @@
-Donghicola Yoon, Kang & Oh, 2007 GENUS
-=======
+# Donghicola Yoon, Kang & Oh, 2007 GENUS
 
 #### Status
 ACCEPTED

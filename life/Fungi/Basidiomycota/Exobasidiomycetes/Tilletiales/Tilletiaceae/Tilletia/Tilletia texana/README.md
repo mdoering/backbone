@@ -1,5 +1,4 @@
-Tilletia texana Long ex G.P. Clinton SPECIES
-=======
+# Tilletia texana Long ex G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

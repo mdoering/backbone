@@ -1,5 +1,4 @@
-Cortinarius sericeps Peck SPECIES
-=======
+# Cortinarius sericeps Peck SPECIES
 
 #### Status
 ACCEPTED

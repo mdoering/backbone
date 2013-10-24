@@ -1,5 +1,4 @@
-Hyaloscypha dennisii Bertault SPECIES
-=======
+# Hyaloscypha dennisii Bertault SPECIES
 
 #### Status
 ACCEPTED

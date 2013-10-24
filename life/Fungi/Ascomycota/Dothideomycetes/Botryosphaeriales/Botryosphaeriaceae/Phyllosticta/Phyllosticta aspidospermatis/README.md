@@ -1,5 +1,4 @@
-Phyllosticta aspidospermatis Speg. SPECIES
-=======
+# Phyllosticta aspidospermatis Speg. SPECIES
 
 #### Status
 ACCEPTED

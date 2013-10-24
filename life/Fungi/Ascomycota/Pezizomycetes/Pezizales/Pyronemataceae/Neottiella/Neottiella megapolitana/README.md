@@ -1,5 +1,4 @@
-Neottiella megapolitana Benkert & T. Richt. SPECIES
-=======
+# Neottiella megapolitana Benkert & T. Richt. SPECIES
 
 #### Status
 ACCEPTED

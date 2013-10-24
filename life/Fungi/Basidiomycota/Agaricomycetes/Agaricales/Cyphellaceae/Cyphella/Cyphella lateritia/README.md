@@ -1,5 +1,4 @@
-Cyphella lateritia Rostr. SPECIES
-=======
+# Cyphella lateritia Rostr. SPECIES
 
 #### Status
 ACCEPTED

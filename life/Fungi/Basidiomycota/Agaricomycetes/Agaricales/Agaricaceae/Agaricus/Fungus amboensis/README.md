@@ -1,5 +1,4 @@
-Fungus amboensis (Fayod) Kuntze SPECIES
-=======
+# Fungus amboensis (Fayod) Kuntze SPECIES
 
 #### Status
 ACCEPTED

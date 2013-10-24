@@ -1,5 +1,4 @@
-Phoma armeniacae Thüm. SPECIES
-=======
+# Phoma armeniacae Thüm. SPECIES
 
 #### Status
 ACCEPTED

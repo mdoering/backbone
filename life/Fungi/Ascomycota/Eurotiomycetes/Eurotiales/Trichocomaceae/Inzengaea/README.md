@@ -1,5 +1,4 @@
-Inzengaea GENUS
-=======
+# Inzengaea GENUS
 
 #### Status
 ACCEPTED

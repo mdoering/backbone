@@ -1,5 +1,4 @@
-Aspergillus curviformis H.J. Chowdhery & J.N. Rai, 1980 SPECIES
-=======
+# Aspergillus curviformis H.J. Chowdhery & J.N. Rai, 1980 SPECIES
 
 #### Status
 ACCEPTED

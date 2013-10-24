@@ -1,5 +1,4 @@
-Pseudographis icerbae Henn., 1903 SPECIES
-=======
+# Pseudographis icerbae Henn., 1903 SPECIES
 
 #### Status
 ACCEPTED

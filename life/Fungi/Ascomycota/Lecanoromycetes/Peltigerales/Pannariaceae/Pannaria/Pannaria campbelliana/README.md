@@ -1,5 +1,4 @@
-Pannaria campbelliana Hue SPECIES
-=======
+# Pannaria campbelliana Hue SPECIES
 
 #### Status
 ACCEPTED

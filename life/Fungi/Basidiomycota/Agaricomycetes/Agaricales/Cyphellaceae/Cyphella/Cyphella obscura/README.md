@@ -1,5 +1,4 @@
-Cyphella obscura Roum. SPECIES
-=======
+# Cyphella obscura Roum. SPECIES
 
 #### Status
 ACCEPTED

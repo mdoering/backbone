@@ -1,5 +1,4 @@
-Poria amesis Murrill SPECIES
-=======
+# Poria amesis Murrill SPECIES
 
 #### Status
 ACCEPTED

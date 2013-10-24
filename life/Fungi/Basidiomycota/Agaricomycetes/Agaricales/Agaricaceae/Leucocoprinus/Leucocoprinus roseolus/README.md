@@ -1,5 +1,4 @@
-Leucocoprinus roseolus (Beeli) Heinem. SPECIES
-=======
+# Leucocoprinus roseolus (Beeli) Heinem. SPECIES
 
 #### Status
 ACCEPTED

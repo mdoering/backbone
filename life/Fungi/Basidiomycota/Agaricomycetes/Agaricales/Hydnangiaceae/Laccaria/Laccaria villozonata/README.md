@@ -1,5 +1,4 @@
-Laccaria villozonata anon. SPECIES
-=======
+# Laccaria villozonata anon. SPECIES
 
 #### Status
 ACCEPTED

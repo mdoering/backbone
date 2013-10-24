@@ -1,5 +1,4 @@
-Leptotrichia buccalis (Robin, 1853) Trevisan, 1879 (Approved Lists, 1980) SPECIES
-=======
+# Leptotrichia buccalis (Robin, 1853) Trevisan, 1879 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

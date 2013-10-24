@@ -1,5 +1,4 @@
-Psathyra aequatoria Mont. SPECIES
-=======
+# Psathyra aequatoria Mont. SPECIES
 
 #### Status
 ACCEPTED

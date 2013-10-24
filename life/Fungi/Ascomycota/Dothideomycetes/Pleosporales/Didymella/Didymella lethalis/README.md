@@ -1,5 +1,4 @@
-Didymella lethalis (R. Stone) Sivan. SPECIES
-=======
+# Didymella lethalis (R. Stone) Sivan. SPECIES
 
 #### Status
 ACCEPTED

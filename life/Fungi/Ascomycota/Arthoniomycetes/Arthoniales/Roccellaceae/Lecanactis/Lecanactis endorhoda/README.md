@@ -1,5 +1,4 @@
-Lecanactis endorhoda Zahlbr. SPECIES
-=======
+# Lecanactis endorhoda Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

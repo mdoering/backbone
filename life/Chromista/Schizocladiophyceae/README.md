@@ -1,5 +1,4 @@
-Schizocladiophyceae Kawai, Maebaa, Sasakib, Okudac & Henry, 2003 CLASS
-=======
+# Schizocladiophyceae Kawai, Maebaa, Sasakib, Okudac & Henry, 2003 CLASS
 
 #### Status
 ACCEPTED

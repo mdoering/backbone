@@ -1,5 +1,4 @@
-Sarcodon subsquamosus (Batsch) P. Karst. SPECIES
-=======
+# Sarcodon subsquamosus (Batsch) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

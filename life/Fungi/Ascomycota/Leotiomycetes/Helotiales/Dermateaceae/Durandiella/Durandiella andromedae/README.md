@@ -1,5 +1,4 @@
-Durandiella andromedae (Schwein.) J.W. Groves SPECIES
-=======
+# Durandiella andromedae (Schwein.) J.W. Groves SPECIES
 
 #### Status
 ACCEPTED

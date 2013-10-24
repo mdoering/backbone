@@ -1,5 +1,4 @@
-Pestalotiopsis tecomicola Nag Raj SPECIES
-=======
+# Pestalotiopsis tecomicola Nag Raj SPECIES
 
 #### Status
 ACCEPTED

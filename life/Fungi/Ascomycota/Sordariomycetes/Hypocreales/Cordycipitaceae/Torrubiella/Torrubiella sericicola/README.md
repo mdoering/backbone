@@ -1,5 +1,4 @@
-Torrubiella sericicola Höhn. SPECIES
-=======
+# Torrubiella sericicola Höhn. SPECIES
 
 #### Status
 ACCEPTED

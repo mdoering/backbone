@@ -1,11 +1,10 @@
-Usnea florida subsp. florida SUBSPECIES
-=======
+# Usnea florida (L.) Weber ex F. H. Wigg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Prim. fl. holsat. (Kiliae) 2: 7 (1780)

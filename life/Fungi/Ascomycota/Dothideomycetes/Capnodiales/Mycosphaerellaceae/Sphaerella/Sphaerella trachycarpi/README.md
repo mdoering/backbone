@@ -1,5 +1,4 @@
-Sphaerella trachycarpi (Rehm) Trotter SPECIES
-=======
+# Sphaerella trachycarpi (Rehm) Trotter SPECIES
 
 #### Status
 ACCEPTED

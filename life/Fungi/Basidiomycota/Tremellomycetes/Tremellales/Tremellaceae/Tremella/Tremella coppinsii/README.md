@@ -1,5 +1,4 @@
-Tremella coppinsii Diederich & G. Marson, 1988 SPECIES
-=======
+# Tremella coppinsii Diederich & G. Marson, 1988 SPECIES
 
 #### Status
 ACCEPTED

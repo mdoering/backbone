@@ -1,5 +1,4 @@
-Sporidesmium ciliatum Corda SPECIES
-=======
+# Sporidesmium ciliatum Corda SPECIES
 
 #### Status
 ACCEPTED

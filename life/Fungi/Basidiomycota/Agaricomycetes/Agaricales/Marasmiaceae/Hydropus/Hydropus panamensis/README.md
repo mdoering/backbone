@@ -1,5 +1,4 @@
-Hydropus panamensis (Singer) Singer SPECIES
-=======
+# Hydropus panamensis (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum corni (Woron.) Vassiljevsky SPECIES
-=======
+# Colletotrichum corni (Woron.) Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

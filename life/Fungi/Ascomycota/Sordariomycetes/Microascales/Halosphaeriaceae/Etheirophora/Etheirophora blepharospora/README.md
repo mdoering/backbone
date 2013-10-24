@@ -1,14 +1,13 @@
-Keissleriella blepharospora Kohlm. & E. Kohlm., 1965 SPECIES
-=======
+# Etheirophora blepharospora (Kohlm. & E. Kohlm.) Kohlm. & Volkm.-Kohlm., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 9: 97 (1965)
+Mycol. Res. 92(4): 415 (1989)
 
 #### Original name
 Keissleriella blepharospora Kohlm. & E. Kohlm., 1965

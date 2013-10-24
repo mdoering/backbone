@@ -1,5 +1,4 @@
-Helminthocarpon meyeri (Stein) Müll. Arg. SPECIES
-=======
+# Helminthocarpon meyeri (Stein) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

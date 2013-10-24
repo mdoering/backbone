@@ -1,8 +1,7 @@
-Polyopes sinicola Setchell & N.L. Gardner SPECIES
-=======
+# Ishige sinicola (Setchell & N.L. Gardner) Chihara SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Niesslia lobariae Etayo & Diederich, 1996 SPECIES
-=======
+# Niesslia lobariae Etayo & Diederich, 1996 SPECIES
 
 #### Status
 ACCEPTED

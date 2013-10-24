@@ -1,5 +1,4 @@
-Melasmia pulchella Speg. SPECIES
-=======
+# Melasmia pulchella Speg. SPECIES
 
 #### Status
 ACCEPTED

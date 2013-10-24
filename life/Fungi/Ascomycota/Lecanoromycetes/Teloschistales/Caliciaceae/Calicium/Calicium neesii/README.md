@@ -1,5 +1,4 @@
-Calicium neesii Flot. SPECIES
-=======
+# Calicium neesii Flot. SPECIES
 
 #### Status
 ACCEPTED

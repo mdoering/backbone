@@ -1,5 +1,4 @@
-Asteroma vermicosum Kalchbr. SPECIES
-=======
+# Asteroma vermicosum Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Depazea tulipiferae Fr. SPECIES
-=======
+# Depazea tulipiferae Fr. SPECIES
 
 #### Status
 ACCEPTED

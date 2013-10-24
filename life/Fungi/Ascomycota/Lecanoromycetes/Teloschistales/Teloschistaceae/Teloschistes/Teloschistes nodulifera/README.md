@@ -1,5 +1,4 @@
-Teloschistes nodulifera (Nyl.) Hillmann SPECIES
-=======
+# Teloschistes nodulifera (Nyl.) Hillmann SPECIES
 
 #### Status
 ACCEPTED

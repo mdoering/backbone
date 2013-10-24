@@ -1,5 +1,4 @@
-Myxosporium proteus Schulzer SPECIES
-=======
+# Myxosporium proteus Schulzer SPECIES
 
 #### Status
 ACCEPTED

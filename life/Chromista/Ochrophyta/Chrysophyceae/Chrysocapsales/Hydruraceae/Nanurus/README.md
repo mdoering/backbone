@@ -1,5 +1,4 @@
-Nanurus Skuja, 1937 GENUS
-=======
+# Nanurus Skuja, 1937 GENUS
 
 #### Status
 ACCEPTED

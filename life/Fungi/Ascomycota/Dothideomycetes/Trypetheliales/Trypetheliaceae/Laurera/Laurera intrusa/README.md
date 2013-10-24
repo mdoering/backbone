@@ -1,5 +1,4 @@
-Laurera intrusa (Nyl.) SPECIES
-=======
+# Laurera intrusa (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

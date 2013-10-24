@@ -1,5 +1,4 @@
-Amoeboaphelidium Scherff. GENUS
-=======
+# Amoeboaphelidium Scherff. GENUS
 
 #### Status
 ACCEPTED

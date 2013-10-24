@@ -1,5 +1,4 @@
-Albatrellus mexicanus Laferr. & Gilb. SPECIES
-=======
+# Albatrellus mexicanus Laferr. & Gilb. SPECIES
 
 #### Status
 ACCEPTED

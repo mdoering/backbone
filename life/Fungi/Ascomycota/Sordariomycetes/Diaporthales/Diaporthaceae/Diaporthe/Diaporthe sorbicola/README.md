@@ -1,17 +1,16 @@
-Diaporthe sorbicola subsp. sorbicola SUBSPECIES
-=======
+# Diaporthe sorbicola (Nitschke) Bref. & Tavel, 1891 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-null
+Diaporthe sorbicola (Nitschke) Bref. & Tavel, 1891
 
 ### Remarks
 null

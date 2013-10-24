@@ -1,5 +1,4 @@
-Puccinia caricis-incisae Syd. & P. Syd. SPECIES
-=======
+# Puccinia caricis-incisae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

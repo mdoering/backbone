@@ -1,5 +1,4 @@
-Verrucaria interspersa Nyl. SPECIES
-=======
+# Verrucaria interspersa Nyl. SPECIES
 
 #### Status
 ACCEPTED

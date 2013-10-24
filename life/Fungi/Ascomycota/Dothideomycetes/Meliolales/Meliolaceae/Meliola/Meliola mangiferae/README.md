@@ -1,5 +1,4 @@
-Meliola mangiferae Earle SPECIES
-=======
+# Meliola mangiferae Earle SPECIES
 
 #### Status
 ACCEPTED

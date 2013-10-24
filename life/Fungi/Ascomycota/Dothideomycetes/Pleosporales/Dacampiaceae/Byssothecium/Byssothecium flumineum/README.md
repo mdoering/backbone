@@ -1,5 +1,4 @@
-Byssothecium flumineum J.L. Crane, Shearer & Huhndorf SPECIES
-=======
+# Byssothecium flumineum J.L. Crane, Shearer & Huhndorf SPECIES
 
 #### Status
 ACCEPTED

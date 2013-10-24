@@ -1,5 +1,4 @@
-Phyllosticta aplectri Ellis & Everh. SPECIES
-=======
+# Phyllosticta aplectri Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

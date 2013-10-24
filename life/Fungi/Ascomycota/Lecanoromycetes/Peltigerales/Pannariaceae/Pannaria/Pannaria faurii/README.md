@@ -1,5 +1,4 @@
-Pannaria faurii Hue SPECIES
-=======
+# Pannaria faurii Hue SPECIES
 
 #### Status
 ACCEPTED

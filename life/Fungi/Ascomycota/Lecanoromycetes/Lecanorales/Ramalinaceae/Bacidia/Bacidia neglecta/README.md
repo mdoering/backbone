@@ -1,5 +1,4 @@
-Bacidia neglecta Vezda SPECIES
-=======
+# Bacidia neglecta Vezda SPECIES
 
 #### Status
 ACCEPTED

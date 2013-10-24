@@ -1,5 +1,4 @@
-Amerosporium cynodontis Urries SPECIES
-=======
+# Amerosporium cynodontis Urries SPECIES
 
 #### Status
 ACCEPTED

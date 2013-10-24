@@ -1,5 +1,4 @@
-Apodospora bulgarica Fakirova, 1973 SPECIES
-=======
+# Apodospora bulgarica Fakirova, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Curviperistomatus Amaro & Sena, 1967 GENUS
-=======
+# Curviperistomatus Amaro & Sena, 1967 GENUS
 
 #### Status
 ACCEPTED

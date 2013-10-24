@@ -1,5 +1,4 @@
-Lepiota hesperidea Risso SPECIES
-=======
+# Lepiota hesperidea Risso SPECIES
 
 #### Status
 ACCEPTED

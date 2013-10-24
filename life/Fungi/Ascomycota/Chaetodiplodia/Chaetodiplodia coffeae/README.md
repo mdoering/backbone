@@ -1,5 +1,4 @@
-Chaetodiplodia coffeae Zimm. SPECIES
-=======
+# Chaetodiplodia coffeae Zimm. SPECIES
 
 #### Status
 ACCEPTED

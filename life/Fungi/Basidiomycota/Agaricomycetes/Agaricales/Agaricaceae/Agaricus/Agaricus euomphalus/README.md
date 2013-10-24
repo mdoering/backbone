@@ -1,5 +1,4 @@
-Agaricus euomphalus Berk. SPECIES
-=======
+# Agaricus euomphalus Berk. SPECIES
 
 #### Status
 ACCEPTED

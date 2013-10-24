@@ -1,5 +1,4 @@
-Textularia kansaiensis Ishizaki SPECIES
-=======
+# Textularia kansaiensis Ishizaki SPECIES
 
 #### Status
 ACCEPTED

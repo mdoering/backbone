@@ -1,5 +1,4 @@
-Hymenoscyphus codicum Svrcek SPECIES
-=======
+# Hymenoscyphus codicum Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnum brasiliense (Mont.) J.H. Haines & Dumont SPECIES
-=======
+# Lachnum brasiliense (Mont.) J.H. Haines & Dumont SPECIES
 
 #### Status
 ACCEPTED

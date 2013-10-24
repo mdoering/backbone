@@ -1,5 +1,4 @@
-Sporotheca carpini Corda SPECIES
-=======
+# Sporotheca carpini Corda SPECIES
 
 #### Status
 ACCEPTED

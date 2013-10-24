@@ -1,5 +1,4 @@
-Segestrella sphaeroides (Zwackh) Bausch SPECIES
-=======
+# Segestrella sphaeroides (Zwackh) Bausch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Didymostilbe sundara (Subram. & Bhat) Seifert, 1985 SPECIES
-=======
+# Peethambara sundara Subram. & Bhat, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stud. Mycol. 27: 140 (1985)
+Revue Mycol. , Paris 42(1): 53 (1978)
 
 #### Original name
-Putagraivam sundaram Subram. & Bhat, 1978
+Peethambara sundara Subram. & Bhat, 1978
 
 ### Remarks
 null

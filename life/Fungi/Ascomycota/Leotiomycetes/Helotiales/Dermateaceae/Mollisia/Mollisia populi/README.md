@@ -1,5 +1,4 @@
-Mollisia populi Bayl. Ell., 1920 SPECIES
-=======
+# Mollisia populi Bayl. Ell., 1920 SPECIES
 
 #### Status
 ACCEPTED

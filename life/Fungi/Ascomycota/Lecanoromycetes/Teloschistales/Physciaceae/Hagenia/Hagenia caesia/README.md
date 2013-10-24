@@ -1,5 +1,4 @@
-Hagenia caesia SPECIES
-=======
+# Hagenia caesia SPECIES
 
 #### Status
 ACCEPTED

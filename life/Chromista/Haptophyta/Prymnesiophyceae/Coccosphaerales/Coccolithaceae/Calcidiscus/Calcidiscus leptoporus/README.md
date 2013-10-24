@@ -1,11 +1,10 @@
-Calcidiscus leptoporus subsp. leptoporus SUBSPECIES
-=======
+# Calcidiscus leptoporus (Murray & Blackman, 1898) Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

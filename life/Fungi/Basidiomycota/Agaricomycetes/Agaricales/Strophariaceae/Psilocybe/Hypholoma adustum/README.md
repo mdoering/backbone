@@ -1,5 +1,4 @@
-Hypholoma adustum (Cooke & Massee) Sacc. SPECIES
-=======
+# Hypholoma adustum (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

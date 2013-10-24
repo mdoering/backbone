@@ -1,5 +1,4 @@
-Melanomma rhodomelum (Fr.) Sacc. SPECIES
-=======
+# Melanomma rhodomelum (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

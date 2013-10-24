@@ -1,17 +1,16 @@
-Helotium epiphyllum var. ilicina W. Phillips, 1877 VARIETY
-=======
+# Calycellina populina (Fuckel) Höhn., 1926 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) no. 134 (1877)
+Mitt. bot. Inst. tech. Hochsch. Wien 3(3): 105 (1926)
 
 #### Original name
-Helotium epiphyllum var. ilicina W. Phillips, 1877
+Helotium populinum Fuckel, 1870
 
 ### Remarks
 null

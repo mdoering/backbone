@@ -1,5 +1,4 @@
-Ostracodermis conchatus Locq. SPECIES
-=======
+# Ostracodermis conchatus Locq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactobacillus kunkeei Edwards et al., 1998 SPECIES
-=======
+# Lactobacillus kunkeei Edwards et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia munita F. Ludw. SPECIES
-=======
+# Puccinia munita F. Ludw. SPECIES
 
 #### Status
 ACCEPTED

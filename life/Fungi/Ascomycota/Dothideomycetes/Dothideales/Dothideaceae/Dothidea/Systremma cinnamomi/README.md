@@ -1,5 +1,4 @@
-Systremma cinnamomi Gonz. Frag. & Cif. SPECIES
-=======
+# Systremma cinnamomi Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

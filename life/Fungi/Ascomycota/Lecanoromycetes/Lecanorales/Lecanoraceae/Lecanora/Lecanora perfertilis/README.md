@@ -1,5 +1,4 @@
-Lecanora perfertilis Motyka SPECIES
-=======
+# Lecanora perfertilis Motyka SPECIES
 
 #### Status
 ACCEPTED

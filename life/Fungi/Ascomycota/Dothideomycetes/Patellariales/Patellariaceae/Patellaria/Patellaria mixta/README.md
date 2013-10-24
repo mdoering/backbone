@@ -1,5 +1,4 @@
-Patellaria mixta (Mont.) Nyl. SPECIES
-=======
+# Patellaria mixta (Mont.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanactis americana Vain. SPECIES
-=======
+# Lecanactis americana Vain. SPECIES
 
 #### Status
 ACCEPTED

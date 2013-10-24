@@ -1,5 +1,4 @@
-Aleurodiscus peradeniyae Höhn. & Litsch. SPECIES
-=======
+# Aleurodiscus peradeniyae Höhn. & Litsch. SPECIES
 
 #### Status
 ACCEPTED

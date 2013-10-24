@@ -1,5 +1,4 @@
-Siphula moorii Zahlbr. SPECIES
-=======
+# Siphula moorii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Microporus piceinus (Peck) Kuntze, 1898 SPECIES
-=======
+# Phellinus piceinus (Peck) Pat., 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 497 (1898)
+Essai Tax. Hyménomyc. (Lons-le-Saunier) 97 (1900)
 
 #### Original name
 Polyporus piceinus Peck, 1889

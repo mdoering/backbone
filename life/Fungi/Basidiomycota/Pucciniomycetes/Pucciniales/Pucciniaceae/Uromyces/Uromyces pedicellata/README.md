@@ -1,5 +1,4 @@
-Uromyces pedicellata Pole-Evans SPECIES
-=======
+# Uromyces pedicellata Pole-Evans SPECIES
 
 #### Status
 ACCEPTED

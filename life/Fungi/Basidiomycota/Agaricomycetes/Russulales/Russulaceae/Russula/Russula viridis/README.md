@@ -1,5 +1,4 @@
-Russula viridis Cleland, 1933 SPECIES
-=======
+# Russula viridis Cleland, 1933 SPECIES
 
 #### Status
 ACCEPTED

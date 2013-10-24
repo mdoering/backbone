@@ -1,14 +1,13 @@
-Pemphidium nobile Welw. & Curr. SPECIES
-=======
+# Seynesia nobilis (Welw. & Curr.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 2: 668 (1883)
 
 #### Original name
 Pemphidium nobile Welw. & Curr.

@@ -1,5 +1,4 @@
-Staurosphaeretta GENUS
-=======
+# Staurosphaeretta GENUS
 
 #### Status
 ACCEPTED

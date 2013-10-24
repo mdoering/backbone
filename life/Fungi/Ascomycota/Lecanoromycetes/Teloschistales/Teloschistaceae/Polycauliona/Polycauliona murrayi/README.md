@@ -1,5 +1,4 @@
-Polycauliona murrayi C.W. Dodge SPECIES
-=======
+# Polycauliona murrayi C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

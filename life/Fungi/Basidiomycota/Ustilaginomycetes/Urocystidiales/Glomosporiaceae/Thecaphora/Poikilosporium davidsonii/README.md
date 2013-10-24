@@ -1,14 +1,13 @@
-Poikilosporium davidsohnii (Dietel & Holw.) Dietel SPECIES
-=======
+# Poikilosporium davidsonii (Dietel & Holw.) Dietel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Parasit. Alg. Pilze Java's (Jakarta) 2: 39 (1900)
 
 #### Original name
 Tolyposporium davidsonii Dietel & Holw.

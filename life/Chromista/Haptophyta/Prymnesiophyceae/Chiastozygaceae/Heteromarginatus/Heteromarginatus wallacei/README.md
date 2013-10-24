@@ -1,5 +1,4 @@
-Heteromarginatus wallacei Bukry, 1969 SPECIES
-=======
+# Heteromarginatus wallacei Bukry, 1969 SPECIES
 
 #### Status
 ACCEPTED

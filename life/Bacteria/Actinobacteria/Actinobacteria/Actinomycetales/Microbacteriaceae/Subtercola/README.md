@@ -1,5 +1,4 @@
-Subtercola Mannisto, Schumann, Rainey, Kampfer, Tsitko, Tiirola & Salkinoja-Salonen, 2000 GENUS
-=======
+# Subtercola Mannisto, Schumann, Rainey, Kampfer, Tsitko, Tiirola & Salkinoja-Salonen, 2000 GENUS
 
 #### Status
 ACCEPTED

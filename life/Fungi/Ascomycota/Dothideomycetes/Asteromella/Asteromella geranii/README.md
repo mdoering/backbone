@@ -1,5 +1,4 @@
-Asteromella geranii Chevassut SPECIES
-=======
+# Asteromella geranii Chevassut SPECIES
 
 #### Status
 ACCEPTED

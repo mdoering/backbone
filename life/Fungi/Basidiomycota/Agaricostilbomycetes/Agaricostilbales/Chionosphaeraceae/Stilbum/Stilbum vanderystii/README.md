@@ -1,8 +1,7 @@
-Stilbum vanderysti Sacc. & Trotter SPECIES
-=======
+# Stilbum vanderystii Sacc. & Trotter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stilbum vanderysti Sacc. & Trotter
+Stilbum vanderystii Sacc. & Trotter
 
 ### Remarks
 null

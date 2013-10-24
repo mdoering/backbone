@@ -1,5 +1,4 @@
-Scoleciocarpus GENUS
-=======
+# Scoleciocarpus GENUS
 
 #### Status
 ACCEPTED

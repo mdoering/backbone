@@ -1,5 +1,4 @@
-Granulodiplodia granulosa (A.L. Guyot) Zambett. SPECIES
-=======
+# Granulodiplodia granulosa (A.L. Guyot) Zambett. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stemphyliomma heterochromum N. Li & G.C. Zhao SPECIES
-=======
+# Stemphyliomma heterochromum N. Li & G.C. Zhao SPECIES
 
 #### Status
 ACCEPTED

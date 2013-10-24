@@ -1,5 +1,4 @@
-Ducelliera GENUS
-=======
+# Ducelliera GENUS
 
 #### Status
 ACCEPTED

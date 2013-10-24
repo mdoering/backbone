@@ -1,5 +1,4 @@
-Ascobolus purpurascens Pers. SPECIES
-=======
+# Ascobolus purpurascens Pers. SPECIES
 
 #### Status
 ACCEPTED

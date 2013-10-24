@@ -1,5 +1,4 @@
-Nesolechia thallicola (A. Massal.) Rehm SPECIES
-=======
+# Nesolechia thallicola (A. Massal.) Rehm SPECIES
 
 #### Status
 ACCEPTED

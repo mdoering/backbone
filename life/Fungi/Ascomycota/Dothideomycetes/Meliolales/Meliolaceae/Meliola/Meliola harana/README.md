@@ -1,5 +1,4 @@
-Meliola harana Trotter SPECIES
-=======
+# Meliola harana Trotter SPECIES
 
 #### Status
 ACCEPTED

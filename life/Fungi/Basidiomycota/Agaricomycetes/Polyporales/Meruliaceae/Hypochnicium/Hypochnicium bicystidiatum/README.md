@@ -1,5 +1,4 @@
-Hypochnicium bicystidiatum Boidin & Gilles SPECIES
-=======
+# Hypochnicium bicystidiatum Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

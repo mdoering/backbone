@@ -1,5 +1,4 @@
-Rhizocarpon argyreum (Hue) Darb. SPECIES
-=======
+# Rhizocarpon argyreum (Hue) Darb. SPECIES
 
 #### Status
 ACCEPTED

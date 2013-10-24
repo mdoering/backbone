@@ -1,5 +1,4 @@
-Endophragmiopsis pirozynskii M.B. Ellis, 1966 SPECIES
-=======
+# Endophragmiopsis pirozynskii M.B. Ellis, 1966 SPECIES
 
 #### Status
 ACCEPTED

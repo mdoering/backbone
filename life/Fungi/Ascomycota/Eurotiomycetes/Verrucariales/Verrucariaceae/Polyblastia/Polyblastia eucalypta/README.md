@@ -1,5 +1,4 @@
-Polyblastia eucalypta Lettau SPECIES
-=======
+# Polyblastia eucalypta Lettau SPECIES
 
 #### Status
 ACCEPTED

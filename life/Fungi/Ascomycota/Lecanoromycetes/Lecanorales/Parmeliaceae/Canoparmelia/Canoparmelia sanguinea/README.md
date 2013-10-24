@@ -1,5 +1,4 @@
-Canoparmelia sanguinea Marcelli, Benatti & Elix SPECIES
-=======
+# Canoparmelia sanguinea Marcelli, Benatti & Elix SPECIES
 
 #### Status
 ACCEPTED

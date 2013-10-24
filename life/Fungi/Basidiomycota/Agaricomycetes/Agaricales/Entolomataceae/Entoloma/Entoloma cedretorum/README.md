@@ -1,5 +1,4 @@
-Entoloma cedretorum (Romagn. & Riousset) Noordel. SPECIES
-=======
+# Entoloma cedretorum (Romagn. & Riousset) Noordel. SPECIES
 
 #### Status
 ACCEPTED

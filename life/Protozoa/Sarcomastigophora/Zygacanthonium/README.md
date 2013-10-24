@@ -1,5 +1,4 @@
-Zygacanthonium Haeckel, 1887 GENUS
-=======
+# Zygacanthonium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

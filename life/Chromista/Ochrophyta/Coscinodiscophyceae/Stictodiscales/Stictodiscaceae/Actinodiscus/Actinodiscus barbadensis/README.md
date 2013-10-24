@@ -1,5 +1,4 @@
-Actinodiscus barbadensis Greville SPECIES
-=======
+# Actinodiscus barbadensis Greville SPECIES
 
 #### Status
 ACCEPTED

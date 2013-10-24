@@ -1,5 +1,4 @@
-Gussonea verrucosa (Ach.) Trevis. SPECIES
-=======
+# Gussonea verrucosa (Ach.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

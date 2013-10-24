@@ -1,5 +1,4 @@
-Sphaeria contaminans Durieu & Mont. SPECIES
-=======
+# Sphaeria contaminans Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora rosigena U. Braun & Crous SPECIES
-=======
+# Passalora rosigena U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

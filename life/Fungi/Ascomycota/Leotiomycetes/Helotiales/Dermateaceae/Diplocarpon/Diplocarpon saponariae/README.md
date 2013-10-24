@@ -1,14 +1,13 @@
-Phacidium saponariae Ces., 1853 SPECIES
-=======
+# Diplocarpon saponariae (Ces.) Nannf., 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 36: 201 (1853)
+Svensk bot. Tidskr. 30: 297 (1936)
 
 #### Original name
 Phacidium saponariae Ces., 1853

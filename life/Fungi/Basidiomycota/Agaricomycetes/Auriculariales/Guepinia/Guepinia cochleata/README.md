@@ -1,5 +1,4 @@
-Guepinia cochleata Berk. & Broome SPECIES
-=======
+# Guepinia cochleata Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

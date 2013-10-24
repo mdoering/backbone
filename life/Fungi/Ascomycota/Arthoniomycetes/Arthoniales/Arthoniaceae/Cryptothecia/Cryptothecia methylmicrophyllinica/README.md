@@ -1,5 +1,4 @@
-Cryptothecia methylmicrophyllinica Aptroot & Spier SPECIES
-=======
+# Cryptothecia methylmicrophyllinica Aptroot & Spier SPECIES
 
 #### Status
 ACCEPTED

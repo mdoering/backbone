@@ -1,5 +1,4 @@
-Coryneum asperulum Lombard & R.W. Davidson SPECIES
-=======
+# Coryneum asperulum Lombard & R.W. Davidson SPECIES
 
 #### Status
 ACCEPTED

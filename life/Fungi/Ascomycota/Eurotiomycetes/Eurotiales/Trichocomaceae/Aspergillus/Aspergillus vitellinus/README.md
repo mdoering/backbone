@@ -1,5 +1,4 @@
-Aspergillus vitellinus (Ridl.) Samson & Seifert, 1986 SPECIES
-=======
+# Aspergillus vitellinus (Ridl.) Samson & Seifert, 1986 SPECIES
 
 #### Status
 ACCEPTED

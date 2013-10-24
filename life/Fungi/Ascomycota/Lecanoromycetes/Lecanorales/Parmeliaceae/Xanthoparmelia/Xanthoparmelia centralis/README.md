@@ -1,5 +1,4 @@
-Xanthoparmelia centralis Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia centralis Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

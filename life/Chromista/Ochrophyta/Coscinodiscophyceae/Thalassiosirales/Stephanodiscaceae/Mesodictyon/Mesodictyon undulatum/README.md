@@ -1,5 +1,4 @@
-Mesodictyon undulatum E. Theriot, J.P. Bradbury & W.N. Krebs SPECIES
-=======
+# Mesodictyon undulatum E. Theriot, J.P. Bradbury & W.N. Krebs SPECIES
 
 #### Status
 ACCEPTED

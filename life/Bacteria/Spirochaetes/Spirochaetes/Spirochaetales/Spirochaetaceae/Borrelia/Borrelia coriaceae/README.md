@@ -1,5 +1,4 @@
-Borrelia coriaceae Johnson et al., 1987 SPECIES
-=======
+# Borrelia coriaceae Johnson et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

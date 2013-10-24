@@ -1,17 +1,16 @@
-Torula fuliginosa var. ericophila (Link) Pers., 1822 VARIETY
-=======
+# Protoventuria straussii (Sacc. & Roum.) Sivan., 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. eur. (Erlanga) 1: 22 (1822)
+Trans. Br. mycol. Soc. 63(3): 590 (1974)
 
 #### Original name
-Sphaeria ericophila Link, 1809
+Venturia straussii Sacc. & Roum.
 
 ### Remarks
 null

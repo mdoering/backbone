@@ -1,5 +1,4 @@
-Ochrolechia austroamericana (Räsänen) Räsänen SPECIES
-=======
+# Ochrolechia austroamericana (Räsänen) Räsänen SPECIES
 
 #### Status
 ACCEPTED

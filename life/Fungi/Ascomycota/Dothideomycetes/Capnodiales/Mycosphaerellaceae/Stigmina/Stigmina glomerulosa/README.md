@@ -1,5 +1,4 @@
-Stigmina glomerulosa (Sacc.) S. Hughes, 1958 SPECIES
-=======
+# Stigmina glomerulosa (Sacc.) S. Hughes, 1958 SPECIES
 
 #### Status
 ACCEPTED

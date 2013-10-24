@@ -1,5 +1,4 @@
-Pholiotina viscidula Contu SPECIES
-=======
+# Pholiotina viscidula Contu SPECIES
 
 #### Status
 ACCEPTED

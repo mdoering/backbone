@@ -1,5 +1,4 @@
-Sphaerella vitis Schulzer SPECIES
-=======
+# Sphaerella vitis Schulzer SPECIES
 
 #### Status
 ACCEPTED

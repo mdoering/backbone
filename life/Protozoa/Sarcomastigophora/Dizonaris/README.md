@@ -1,5 +1,4 @@
-Dizonaris Haeckel, 1887 GENUS
-=======
+# Dizonaris Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

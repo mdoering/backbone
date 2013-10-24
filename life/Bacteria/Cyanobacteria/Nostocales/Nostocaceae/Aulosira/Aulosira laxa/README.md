@@ -1,5 +1,4 @@
-Aulosira laxa O. Kirchner ex Bornet & Flahault SPECIES
-=======
+# Aulosira laxa O. Kirchner ex Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

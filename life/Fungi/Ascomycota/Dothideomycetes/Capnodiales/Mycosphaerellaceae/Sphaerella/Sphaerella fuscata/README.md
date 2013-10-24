@@ -1,5 +1,4 @@
-Sphaerella fuscata Ellis SPECIES
-=======
+# Sphaerella fuscata Ellis SPECIES
 
 #### Status
 ACCEPTED

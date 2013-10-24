@@ -1,5 +1,4 @@
-Sorosporium aschersonii Ule SPECIES
-=======
+# Sorosporium aschersonii Ule SPECIES
 
 #### Status
 ACCEPTED

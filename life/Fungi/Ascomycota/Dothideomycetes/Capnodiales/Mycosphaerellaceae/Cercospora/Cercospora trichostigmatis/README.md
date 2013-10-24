@@ -1,17 +1,16 @@
-Cercospora trichostigmae F. Stevens SPECIES
-=======
+# Cercospora trichostigmatis F. Stevens SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Ill. St. Acad. Sci. 10: 211 (1917)
 
 #### Original name
-Cercospora trichostigmae F. Stevens
+Cercospora trichostigmatis F. Stevens
 
 ### Remarks
 null

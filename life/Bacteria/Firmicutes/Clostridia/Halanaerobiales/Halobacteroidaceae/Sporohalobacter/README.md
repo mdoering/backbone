@@ -1,5 +1,4 @@
-Sporohalobacter Oren et al., 1988 GENUS
-=======
+# Sporohalobacter Oren et al., 1988 GENUS
 
 #### Status
 ACCEPTED

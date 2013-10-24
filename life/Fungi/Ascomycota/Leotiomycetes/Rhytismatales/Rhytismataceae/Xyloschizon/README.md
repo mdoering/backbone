@@ -1,5 +1,4 @@
-Xyloschizon Syd. GENUS
-=======
+# Xyloschizon Syd. GENUS
 
 #### Status
 ACCEPTED

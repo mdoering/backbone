@@ -1,5 +1,4 @@
-Longa Amaro, 1966 GENUS
-=======
+# Longa Amaro, 1966 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Callopisma quadriloculare (Nyl.) Malme SPECIES
-=======
+# Callopisma quadriloculare (Nyl.) Malme SPECIES
 
 #### Status
 ACCEPTED

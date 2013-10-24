@@ -1,5 +1,4 @@
-Leptonia subcorvina (Hesler) Largent SPECIES
-=======
+# Leptonia subcorvina (Hesler) Largent SPECIES
 
 #### Status
 ACCEPTED

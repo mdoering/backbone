@@ -1,8 +1,7 @@
-Didymosphaeria kerneri (Stein) Vouaux SPECIES
-=======
+# Polycoccum kerneri J. Steiner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

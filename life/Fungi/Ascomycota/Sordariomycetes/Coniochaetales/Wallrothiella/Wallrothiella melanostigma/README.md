@@ -1,5 +1,4 @@
-Wallrothiella melanostigma (Cooke & Ellis) Sacc. SPECIES
-=======
+# Wallrothiella melanostigma (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

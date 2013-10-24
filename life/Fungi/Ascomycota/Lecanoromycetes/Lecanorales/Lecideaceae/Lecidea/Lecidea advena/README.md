@@ -1,5 +1,4 @@
-Lecidea advena Nyl. SPECIES
-=======
+# Lecidea advena Nyl. SPECIES
 
 #### Status
 ACCEPTED

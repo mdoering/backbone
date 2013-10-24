@@ -1,5 +1,4 @@
-Rhizammina Brady, 1879 GENUS
-=======
+# Rhizammina Brady, 1879 GENUS
 
 #### Status
 ACCEPTED

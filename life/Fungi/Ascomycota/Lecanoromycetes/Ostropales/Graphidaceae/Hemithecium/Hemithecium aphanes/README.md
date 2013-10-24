@@ -1,8 +1,7 @@
-Graphis aphanes Mont. & Bosch SPECIES
-=======
+# Hemithecium aphanes (Mont. & Bosch) M. Nakan. & Kashiw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

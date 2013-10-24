@@ -1,5 +1,4 @@
-Pleomassaria magnoliae Shear SPECIES
-=======
+# Pleomassaria magnoliae Shear SPECIES
 
 #### Status
 ACCEPTED

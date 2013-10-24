@@ -1,17 +1,16 @@
-Pertusaria inquinata f. inquinata FORM
-=======
+# Pertusaria chiodectonoides Bagl. ex A. Massal. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Miscell. Lich. (1878)
 
 #### Original name
-Pertusaria inquinata f. inquinata
+Trypethelium chiodectonoides Fée
 
 ### Remarks
 null

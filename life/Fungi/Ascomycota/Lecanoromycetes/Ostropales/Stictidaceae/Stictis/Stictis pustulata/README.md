@@ -1,5 +1,4 @@
-Stictis pustulata Ellis SPECIES
-=======
+# Stictis pustulata Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eutypella longiana Rehm SPECIES
-=======
+# Eutypella longiana Rehm SPECIES
 
 #### Status
 ACCEPTED

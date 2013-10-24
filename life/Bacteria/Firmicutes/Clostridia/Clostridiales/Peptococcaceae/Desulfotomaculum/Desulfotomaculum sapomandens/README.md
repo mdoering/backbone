@@ -1,5 +1,4 @@
-Desulfotomaculum sapomandens Cord-Ruwisch & Garcia, 1990 SPECIES
-=======
+# Desulfotomaculum sapomandens Cord-Ruwisch & Garcia, 1990 SPECIES
 
 #### Status
 ACCEPTED

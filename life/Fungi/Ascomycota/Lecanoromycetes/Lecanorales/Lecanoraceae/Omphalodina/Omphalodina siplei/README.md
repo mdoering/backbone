@@ -1,5 +1,4 @@
-Omphalodina siplei (C.W. Dodge & G.E. Baker) C.W. Dodge SPECIES
-=======
+# Omphalodina siplei (C.W. Dodge & G.E. Baker) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

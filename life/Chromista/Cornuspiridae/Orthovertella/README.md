@@ -1,5 +1,4 @@
-Orthovertella Cushman & Waters, 1928 GENUS
-=======
+# Orthovertella Cushman & Waters, 1928 GENUS
 
 #### Status
 ACCEPTED

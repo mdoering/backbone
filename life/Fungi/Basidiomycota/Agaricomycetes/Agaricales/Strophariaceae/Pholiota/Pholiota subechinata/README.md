@@ -1,5 +1,4 @@
-Pholiota subechinata A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota subechinata A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

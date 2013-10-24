@@ -1,5 +1,4 @@
-Sistotrema citreolum Jungh. ex Lév. SPECIES
-=======
+# Sistotrema citreolum Jungh. ex Lév. SPECIES
 
 #### Status
 ACCEPTED

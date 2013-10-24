@@ -1,5 +1,4 @@
-Ceratium schroeteri Schröder SPECIES
-=======
+# Ceratium schroeteri Schröder SPECIES
 
 #### Status
 ACCEPTED

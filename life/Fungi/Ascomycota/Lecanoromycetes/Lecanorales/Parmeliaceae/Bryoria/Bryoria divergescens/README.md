@@ -1,5 +1,4 @@
-Bryoria divergescens (Nyl.) Brodo & D. Hawksw. SPECIES
-=======
+# Bryoria divergescens (Nyl.) Brodo & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

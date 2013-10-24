@@ -1,5 +1,4 @@
-Aureobasidium harposporum (Bres. & Sacc.) Herm.-Nijh. SPECIES
-=======
+# Aureobasidium harposporum (Bres. & Sacc.) Herm.-Nijh. SPECIES
 
 #### Status
 ACCEPTED

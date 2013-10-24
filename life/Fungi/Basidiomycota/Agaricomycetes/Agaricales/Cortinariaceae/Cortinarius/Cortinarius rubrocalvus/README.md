@@ -1,5 +1,4 @@
-Cortinarius rubrocalvus Krieger {?} SPECIES
-=======
+# Cortinarius rubrocalvus Krieger {?} SPECIES
 
 #### Status
 ACCEPTED

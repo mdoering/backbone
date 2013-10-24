@@ -1,5 +1,4 @@
-Alternaria setariae T.Y. Zhang SPECIES
-=======
+# Alternaria setariae T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

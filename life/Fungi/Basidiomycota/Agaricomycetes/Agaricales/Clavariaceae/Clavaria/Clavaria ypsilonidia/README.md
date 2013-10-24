@@ -1,5 +1,4 @@
-Clavaria ypsilonidia R.H. Petersen, 1988 SPECIES
-=======
+# Clavaria ypsilonidia R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

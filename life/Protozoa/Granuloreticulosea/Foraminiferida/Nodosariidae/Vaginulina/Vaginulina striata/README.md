@@ -1,5 +1,4 @@
-Vaginulina striata d'Orbigny, 1839 SPECIES
-=======
+# Vaginulina striata d'Orbigny, 1839 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella didymopanacis (Miles) Sacc. SPECIES
-=======
+# Sphaerella didymopanacis (Miles) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cortinarius spontecissus Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius spontescissus Chevassut & Rob. Henry SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Docums Mycol. 12(no. 47): 45 (1982)
 
 #### Original name
-Cortinarius spontecissus Chevassut & Rob. Henry
+Cortinarius spontescissus Chevassut & Rob. Henry
 
 ### Remarks
 null

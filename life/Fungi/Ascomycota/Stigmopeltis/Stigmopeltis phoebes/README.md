@@ -1,5 +1,4 @@
-Stigmopeltis phoebes Syd. SPECIES
-=======
+# Stigmopeltis phoebes Syd. SPECIES
 
 #### Status
 ACCEPTED

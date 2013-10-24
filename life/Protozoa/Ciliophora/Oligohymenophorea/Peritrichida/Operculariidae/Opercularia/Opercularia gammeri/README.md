@@ -1,5 +1,4 @@
-Opercularia gammeri SPECIES
-=======
+# Opercularia gammeri SPECIES
 
 #### Status
 ACCEPTED

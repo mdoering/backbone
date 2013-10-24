@@ -1,5 +1,4 @@
-Uredo philodendri Pardo-Card. SPECIES
-=======
+# Uredo philodendri Pardo-Card. SPECIES
 
 #### Status
 ACCEPTED

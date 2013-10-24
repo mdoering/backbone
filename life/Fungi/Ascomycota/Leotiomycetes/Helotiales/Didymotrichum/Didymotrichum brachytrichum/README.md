@@ -1,5 +1,4 @@
-Didymotrichum brachytrichum (Corda) Bonord. SPECIES
-=======
+# Didymotrichum brachytrichum (Corda) Bonord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Phymatotrichum silvicolum Taubenh. & J.E. Watkins SPECIES
-=======
+# Phymatotrichum silvicola Taubenh. & J.E. Watkins SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phymatotrichum silvicolum Taubenh. & J.E. Watkins
+Phymatotrichum silvicola Taubenh. & J.E. Watkins
 
 ### Remarks
 null

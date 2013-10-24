@@ -1,5 +1,4 @@
-Bacidina squamellosa S. Ekman SPECIES
-=======
+# Bacidina squamellosa S. Ekman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thallochrysis littoralis SPECIES
-=======
+# Thallochrysis littoralis SPECIES
 
 #### Status
 ACCEPTED

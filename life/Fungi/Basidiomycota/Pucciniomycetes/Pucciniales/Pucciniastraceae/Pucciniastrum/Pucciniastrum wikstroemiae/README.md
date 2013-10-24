@@ -1,5 +1,4 @@
-Pucciniastrum wikstroemiae Arthur SPECIES
-=======
+# Pucciniastrum wikstroemiae Arthur SPECIES
 
 #### Status
 ACCEPTED

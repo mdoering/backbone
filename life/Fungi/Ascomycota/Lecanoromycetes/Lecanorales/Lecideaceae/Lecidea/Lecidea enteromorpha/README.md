@@ -1,5 +1,4 @@
-Lecidea enteromorpha f. enteromorpha FORM
-=======
+# Lecidea enteromorpha SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea enteromorpha f. enteromorpha
+null
 
 ### Remarks
 null

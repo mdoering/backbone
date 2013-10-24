@@ -1,5 +1,4 @@
-Gomphospora viridescens (Fée) A. Massal. SPECIES
-=======
+# Gomphospora viridescens (Fée) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

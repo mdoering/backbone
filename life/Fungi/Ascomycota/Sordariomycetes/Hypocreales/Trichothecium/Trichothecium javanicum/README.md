@@ -1,5 +1,4 @@
-Trichothecium javanicum Koord. SPECIES
-=======
+# Trichothecium javanicum Koord. SPECIES
 
 #### Status
 ACCEPTED

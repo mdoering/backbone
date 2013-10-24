@@ -1,5 +1,4 @@
-Lentithecium fluviatile (Aptroot & Van Ryck.) K.D. Hyde, J. Fourn. & Yin. Zhang, 2009 SPECIES
-=======
+# Lentithecium fluviatile (Aptroot & Van Ryck.) K.D. Hyde, J. Fourn. & Yin. Zhang, 2009 SPECIES
 
 #### Status
 ACCEPTED

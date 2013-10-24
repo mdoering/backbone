@@ -1,5 +1,4 @@
-Anomalina coronata SPECIES
-=======
+# Anomalina coronata SPECIES
 
 #### Status
 ACCEPTED

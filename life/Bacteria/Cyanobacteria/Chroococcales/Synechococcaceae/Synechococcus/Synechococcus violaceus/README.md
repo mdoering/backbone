@@ -1,5 +1,4 @@
-Synechococcus violaceus Grunow SPECIES
-=======
+# Synechococcus violaceus Grunow SPECIES
 
 #### Status
 ACCEPTED

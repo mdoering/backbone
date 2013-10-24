@@ -1,5 +1,4 @@
-Stilbohypoxylon Henn. GENUS
-=======
+# Stilbohypoxylon Henn. GENUS
 
 #### Status
 ACCEPTED

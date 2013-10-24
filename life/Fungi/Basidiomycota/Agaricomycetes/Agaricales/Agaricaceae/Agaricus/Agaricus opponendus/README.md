@@ -1,5 +1,4 @@
-Agaricus opponendus Britzelm. SPECIES
-=======
+# Agaricus opponendus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

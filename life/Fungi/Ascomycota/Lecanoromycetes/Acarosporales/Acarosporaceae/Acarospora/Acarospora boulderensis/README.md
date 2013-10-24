@@ -1,5 +1,4 @@
-Acarospora boulderensis H. Magn. SPECIES
-=======
+# Acarospora boulderensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

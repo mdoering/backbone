@@ -1,5 +1,4 @@
-Mallomonas favosa K.H. Nicholls SPECIES
-=======
+# Mallomonas favosa K.H. Nicholls SPECIES
 
 #### Status
 ACCEPTED

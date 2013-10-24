@@ -1,17 +1,16 @@
-Dasybolus Clem. & Shear GENUS
-=======
+# Ascobolus Pers. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Gmelin, Syst. Nat. , Edn 13 2: 1461 (1792)
 
 #### Original name
-Dasybolus Clem. & Shear
+Ascobolus Pers.
 
 ### Remarks
 null

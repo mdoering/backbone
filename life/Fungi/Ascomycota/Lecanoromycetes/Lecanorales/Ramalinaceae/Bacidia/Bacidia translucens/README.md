@@ -1,5 +1,4 @@
-Bacidia translucens (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia translucens (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

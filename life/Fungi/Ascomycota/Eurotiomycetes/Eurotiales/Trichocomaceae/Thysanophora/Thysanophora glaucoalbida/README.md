@@ -1,5 +1,4 @@
-Thysanophora glaucoalbida (Desm.) M. Morelet, 1968 SPECIES
-=======
+# Thysanophora glaucoalbida (Desm.) M. Morelet, 1968 SPECIES
 
 #### Status
 ACCEPTED

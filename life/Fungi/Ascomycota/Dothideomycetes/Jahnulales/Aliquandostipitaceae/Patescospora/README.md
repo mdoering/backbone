@@ -1,5 +1,4 @@
-Patescospora Abdel-Wahab & El-Shar. GENUS
-=======
+# Patescospora Abdel-Wahab & El-Shar. GENUS
 
 #### Status
 ACCEPTED

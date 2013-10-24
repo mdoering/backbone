@@ -1,5 +1,4 @@
-Dendrophoma metasequoiae Gucevic SPECIES
-=======
+# Dendrophoma metasequoiae Gucevic SPECIES
 
 #### Status
 ACCEPTED

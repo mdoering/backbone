@@ -1,5 +1,4 @@
-Acrodictyopsis patelii Borse & K.D. Hyde, 1989 SPECIES
-=======
+# Acrodictyopsis patelii Borse & K.D. Hyde, 1989 SPECIES
 
 #### Status
 ACCEPTED

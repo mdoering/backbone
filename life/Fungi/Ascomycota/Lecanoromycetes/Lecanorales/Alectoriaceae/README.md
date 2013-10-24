@@ -1,5 +1,4 @@
-Alectoriaceae Tomas. FAMILY
-=======
+# Alectoriaceae Tomas. FAMILY
 
 #### Status
 ACCEPTED

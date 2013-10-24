@@ -1,17 +1,16 @@
-Psathyra ammophila (Durieu & Lév.) Quél., 1880 SPECIES
-=======
+# Psathyrella ammophila (Durieu & Lév.) P.D. Orton, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 43(2): 180 (1960)
 
 #### Original name
-null
+Agaricus ammophilus Durieu & Lév., 1868
 
 ### Remarks
 null

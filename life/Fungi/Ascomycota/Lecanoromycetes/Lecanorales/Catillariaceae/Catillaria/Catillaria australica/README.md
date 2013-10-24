@@ -1,5 +1,4 @@
-Catillaria australica Räsänen SPECIES
-=======
+# Catillaria australica Räsänen SPECIES
 
 #### Status
 ACCEPTED

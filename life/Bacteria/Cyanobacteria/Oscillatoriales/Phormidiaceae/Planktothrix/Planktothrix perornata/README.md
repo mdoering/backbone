@@ -1,8 +1,7 @@
-Porphyrosiphon notarisii (Meneghini) Kützing ex Gomont SPECIES
-=======
+# Planktothrix perornata (Skuja) Anagnostidis & Komárek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

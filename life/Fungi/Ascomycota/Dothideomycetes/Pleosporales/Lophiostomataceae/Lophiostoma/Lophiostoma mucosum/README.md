@@ -1,5 +1,4 @@
-Lophiostoma mucosum Kaz. Tanaka & Y. Harada SPECIES
-=======
+# Lophiostoma mucosum Kaz. Tanaka & Y. Harada SPECIES
 
 #### Status
 ACCEPTED

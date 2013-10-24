@@ -1,5 +1,4 @@
-Bacidia trabutii Flagey SPECIES
-=======
+# Bacidia trabutii Flagey SPECIES
 
 #### Status
 ACCEPTED

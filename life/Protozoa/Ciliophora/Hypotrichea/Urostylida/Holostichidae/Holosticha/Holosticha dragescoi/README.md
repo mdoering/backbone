@@ -1,5 +1,4 @@
-Holosticha dragescoi SPECIES
-=======
+# Holosticha dragescoi SPECIES
 
 #### Status
 ACCEPTED

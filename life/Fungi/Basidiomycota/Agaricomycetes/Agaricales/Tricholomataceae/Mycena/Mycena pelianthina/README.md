@@ -1,5 +1,4 @@
-Mycena pelianthina (Fr.) Quél. SPECIES
-=======
+# Mycena pelianthina (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

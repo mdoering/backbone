@@ -1,5 +1,4 @@
-Hysterium anceps Sacc. SPECIES
-=======
+# Hysterium anceps Sacc. SPECIES
 
 #### Status
 ACCEPTED

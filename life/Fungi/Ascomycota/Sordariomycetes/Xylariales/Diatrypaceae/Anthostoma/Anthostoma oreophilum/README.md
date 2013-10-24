@@ -1,5 +1,4 @@
-Anthostoma oreophilum Sacc. SPECIES
-=======
+# Anthostoma oreophilum Sacc. SPECIES
 
 #### Status
 ACCEPTED

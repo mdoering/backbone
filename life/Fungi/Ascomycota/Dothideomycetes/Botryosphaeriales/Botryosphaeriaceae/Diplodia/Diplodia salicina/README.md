@@ -1,5 +1,4 @@
-Diplodia salicina Lév., 1846 SPECIES
-=======
+# Diplodia salicina Lév., 1846 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Solenodonta gibberosa (Lagerh.) Syd. SPECIES
-=======
+# Solenodonta gibberosa (Lagerh.) Syd. SPECIES
 
 #### Status
 ACCEPTED

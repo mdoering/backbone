@@ -1,5 +1,4 @@
-Cyrenella elegans Goch., 1981 SPECIES
-=======
+# Cyrenella elegans Goch., 1981 SPECIES
 
 #### Status
 ACCEPTED

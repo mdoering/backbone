@@ -1,5 +1,4 @@
-Physcia coronifera Moberg SPECIES
-=======
+# Physcia coronifera Moberg SPECIES
 
 #### Status
 ACCEPTED

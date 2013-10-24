@@ -1,5 +1,4 @@
-Cylindrosporium deutziae Syd. SPECIES
-=======
+# Cylindrosporium deutziae Syd. SPECIES
 
 #### Status
 ACCEPTED

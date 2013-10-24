@@ -1,5 +1,4 @@
-Macrophoma musarum (Cooke) Berl. & Voglino SPECIES
-=======
+# Macrophoma musarum (Cooke) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

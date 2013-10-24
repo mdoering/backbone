@@ -1,5 +1,4 @@
-Xiphophaga allominuta Goldstein, Habura, Richardson & Bowser, 2010 SPECIES
-=======
+# Xiphophaga allominuta Goldstein, Habura, Richardson & Bowser, 2010 SPECIES
 
 #### Status
 ACCEPTED

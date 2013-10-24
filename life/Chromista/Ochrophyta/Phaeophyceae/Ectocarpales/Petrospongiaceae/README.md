@@ -1,5 +1,4 @@
-Petrospongiaceae FAMILY
-=======
+# Petrospongiaceae FAMILY
 
 #### Status
 ACCEPTED

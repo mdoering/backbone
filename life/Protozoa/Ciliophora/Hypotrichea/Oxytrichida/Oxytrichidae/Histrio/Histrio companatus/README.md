@@ -1,5 +1,4 @@
-Histrio companatus SPECIES
-=======
+# Histrio companatus SPECIES
 
 #### Status
 ACCEPTED

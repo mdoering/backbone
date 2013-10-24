@@ -1,8 +1,7 @@
-Plenotrichum castanopsis J.N. Kapoor & Munjal SPECIES
-=======
+# Plenotrichum castanopsidis J.N. Kapoor & Munjal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Plenotrichum castanopsis J.N. Kapoor & Munjal
+Plenotrichum castanopsidis J.N. Kapoor & Munjal
 
 ### Remarks
 null

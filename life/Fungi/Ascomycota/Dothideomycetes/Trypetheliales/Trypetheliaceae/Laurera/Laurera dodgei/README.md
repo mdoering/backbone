@@ -1,5 +1,4 @@
-Laurera dodgei Letr.-Gal. SPECIES
-=======
+# Laurera dodgei Letr.-Gal. SPECIES
 
 #### Status
 ACCEPTED

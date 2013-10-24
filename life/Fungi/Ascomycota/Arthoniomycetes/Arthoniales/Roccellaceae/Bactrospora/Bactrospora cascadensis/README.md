@@ -1,5 +1,4 @@
-Bactrospora cascadensis Ponzetti & McCune SPECIES
-=======
+# Bactrospora cascadensis Ponzetti & McCune SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora atrodiscata Gintovt SPECIES
-=======
+# Lecanora atrodiscata Gintovt SPECIES
 
 #### Status
 ACCEPTED

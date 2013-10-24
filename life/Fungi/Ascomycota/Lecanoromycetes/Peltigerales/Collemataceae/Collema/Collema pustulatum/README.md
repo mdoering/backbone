@@ -1,17 +1,16 @@
-Collema pustulatum subsp. heterosporum Fink ex J. Hedrick SUBSPECIES
-=======
+# Collema pustulatum Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syn. meth. lich. 317 (1814)
 
 #### Original name
-Collema pustulatum subsp. heterosporum Fink ex J. Hedrick
+Collema pustulatum Ach.
 
 ### Remarks
 null

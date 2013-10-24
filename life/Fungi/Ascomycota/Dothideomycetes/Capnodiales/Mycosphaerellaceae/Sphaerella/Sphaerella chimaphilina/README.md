@@ -1,5 +1,4 @@
-Sphaerella chimaphilina Peck SPECIES
-=======
+# Sphaerella chimaphilina Peck SPECIES
 
 #### Status
 ACCEPTED

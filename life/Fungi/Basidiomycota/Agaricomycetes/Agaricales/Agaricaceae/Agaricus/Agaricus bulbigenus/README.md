@@ -1,5 +1,4 @@
-Agaricus bulbigenus Berk. & Broome SPECIES
-=======
+# Agaricus bulbigenus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

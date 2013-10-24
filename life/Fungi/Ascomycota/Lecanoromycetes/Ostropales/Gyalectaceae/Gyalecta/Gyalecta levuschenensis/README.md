@@ -1,5 +1,4 @@
-Gyalecta levuschenensis SPECIES
-=======
+# Gyalecta levuschenensis SPECIES
 
 #### Status
 ACCEPTED

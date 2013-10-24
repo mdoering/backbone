@@ -1,5 +1,4 @@
-Protoleiosphaeridium mycterum E.S. Korotkevich & Timofeev, 1959 SPECIES
-=======
+# Protoleiosphaeridium mycterum E.S. Korotkevich & Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Palaeohystrichodinium C.-Q. He, S.Z. Zhu & G.-X. Jin in C.-Q. He et al., 1989 GENUS
-=======
+# Palaeohystrichodinium C.-Q. He, S.Z. Zhu & G.-X. Jin in C.-Q. He et al., 1989 GENUS
 
 #### Status
 ACCEPTED

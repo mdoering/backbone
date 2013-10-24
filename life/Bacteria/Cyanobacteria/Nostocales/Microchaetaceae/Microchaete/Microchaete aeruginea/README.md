@@ -1,5 +1,4 @@
-Microchaete aeruginea Batters SPECIES
-=======
+# Microchaete aeruginea Batters SPECIES
 
 #### Status
 ACCEPTED

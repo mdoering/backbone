@@ -1,5 +1,4 @@
-Caloplaca bisagnonis B. de Lesd. SPECIES
-=======
+# Caloplaca bisagnonis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

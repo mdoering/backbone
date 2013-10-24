@@ -1,5 +1,4 @@
-Sneathiella chinensis Jordan, Thompson, Zhang, Li, Vancanneyt, Kroppenstedt, Priest & Austin, 2007 SPECIES
-=======
+# Sneathiella chinensis Jordan, Thompson, Zhang, Li, Vancanneyt, Kroppenstedt, Priest & Austin, 2007 SPECIES
 
 #### Status
 ACCEPTED

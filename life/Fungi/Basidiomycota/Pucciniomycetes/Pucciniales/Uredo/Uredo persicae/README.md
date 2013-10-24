@@ -1,5 +1,4 @@
-Uredo persicae Speg. SPECIES
-=======
+# Uredo persicae Speg. SPECIES
 
 #### Status
 ACCEPTED

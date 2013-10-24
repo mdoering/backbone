@@ -1,5 +1,4 @@
-Gyrodinium concentricum (Lebour, 1917) Kofoid & Swezy, 1921 SPECIES
-=======
+# Gyrodinium concentricum (Lebour, 1917) Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

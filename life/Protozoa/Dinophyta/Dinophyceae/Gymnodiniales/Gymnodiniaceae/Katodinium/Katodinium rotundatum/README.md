@@ -1,5 +1,4 @@
-Katodinium rotundatum SPECIES
-=======
+# Katodinium rotundatum SPECIES
 
 #### Status
 ACCEPTED

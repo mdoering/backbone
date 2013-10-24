@@ -1,5 +1,4 @@
-Favolaschia teapae Singer, 1974 SPECIES
-=======
+# Favolaschia teapae Singer, 1974 SPECIES
 
 #### Status
 ACCEPTED

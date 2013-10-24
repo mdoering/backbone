@@ -1,5 +1,4 @@
-Amphitrichum albocoronatum (Ellis) Kuntze SPECIES
-=======
+# Amphitrichum albocoronatum (Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geoglossum rugosum Lasch SPECIES
-=======
+# Geoglossum rugosum Lasch SPECIES
 
 #### Status
 ACCEPTED

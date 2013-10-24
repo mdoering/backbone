@@ -1,5 +1,4 @@
-Phoma incanae Pandotra SPECIES
-=======
+# Phoma incanae Pandotra SPECIES
 
 #### Status
 ACCEPTED

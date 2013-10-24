@@ -1,5 +1,4 @@
-Catillaria laetior (Nyl.) Zahlbr. SPECIES
-=======
+# Catillaria laetior (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Campanella merulina (Berk. & M.A. Curtis) Singer SPECIES
-=======
+# Campanella merulina (Berk. & M.A. Curtis) Singer SPECIES
 
 #### Status
 ACCEPTED

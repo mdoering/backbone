@@ -1,5 +1,4 @@
-Clathrocorys murrayi Haeckel, 1887 SPECIES
-=======
+# Clathrocorys murrayi Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthopyrenia tichothecioides (Arnold) Bachm. SPECIES
-=======
+# Xanthopyrenia tichothecioides (Arnold) Bachm. SPECIES
 
 #### Status
 ACCEPTED

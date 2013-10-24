@@ -1,5 +1,4 @@
-Tryblidiella leprieurii (Mont.) Sacc. SPECIES
-=======
+# Tryblidiella leprieurii (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

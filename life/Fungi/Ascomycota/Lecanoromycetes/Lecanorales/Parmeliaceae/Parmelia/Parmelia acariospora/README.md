@@ -1,5 +1,4 @@
-Parmelia acariospora Zahlbr. SPECIES
-=======
+# Parmelia acariospora Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

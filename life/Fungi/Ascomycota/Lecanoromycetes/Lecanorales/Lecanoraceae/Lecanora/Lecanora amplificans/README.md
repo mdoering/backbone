@@ -1,5 +1,4 @@
-Lecanora amplificans var. maderensis Kremp. VARIETY
-=======
+# Lecanora amplificans (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 7: 326 (1867)
 
 #### Original name
-Lecanora amplificans var. maderensis Kremp.
+Lecidea amplificans Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Placodium polioterum (Nyl.) Vain. SPECIES
-=======
+# Placodium polioterum (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oceanithermus Miroshnichenko et al., 2003 GENUS
-=======
+# Oceanithermus Miroshnichenko et al., 2003 GENUS
 
 #### Status
 ACCEPTED

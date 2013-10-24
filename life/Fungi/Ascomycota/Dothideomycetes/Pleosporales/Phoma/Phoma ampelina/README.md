@@ -1,5 +1,4 @@
-Phoma ampelina Berk. & M.A. Curtis SPECIES
-=======
+# Phoma ampelina Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peronospora andina Speg. SPECIES
-=======
+# Peronospora andina Speg. SPECIES
 
 #### Status
 ACCEPTED

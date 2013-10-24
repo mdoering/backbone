@@ -1,5 +1,4 @@
-Textularia longinflata Sun, 1993 SPECIES
-=======
+# Textularia longinflata Sun, 1993 SPECIES
 
 #### Status
 ACCEPTED

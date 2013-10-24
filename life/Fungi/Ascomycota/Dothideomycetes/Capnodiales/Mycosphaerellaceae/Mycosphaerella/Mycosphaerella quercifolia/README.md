@@ -1,5 +1,4 @@
-Mycosphaerella quercifolia (Gonz. Frag.) Cash SPECIES
-=======
+# Mycosphaerella quercifolia (Gonz. Frag.) Cash SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trabutia benguetensis H.S. Yates SPECIES
-=======
+# Trabutia benguetensis H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

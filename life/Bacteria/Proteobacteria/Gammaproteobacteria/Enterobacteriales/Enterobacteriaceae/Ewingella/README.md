@@ -1,5 +1,4 @@
-Ewingella Grimont et al., 1984 GENUS
-=======
+# Ewingella Grimont et al., 1984 GENUS
 
 #### Status
 ACCEPTED

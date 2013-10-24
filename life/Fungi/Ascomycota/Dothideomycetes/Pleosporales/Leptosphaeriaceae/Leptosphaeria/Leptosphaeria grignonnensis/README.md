@@ -1,5 +1,4 @@
-Leptosphaeria grignonnensis A.L. Guyot SPECIES
-=======
+# Leptosphaeria grignonnensis A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

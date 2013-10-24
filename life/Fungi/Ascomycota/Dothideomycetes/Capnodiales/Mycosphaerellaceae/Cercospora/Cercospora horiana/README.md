@@ -1,5 +1,4 @@
-Cercospora horiana Togashi & Katsuki SPECIES
-=======
+# Cercospora horiana Togashi & Katsuki SPECIES
 
 #### Status
 ACCEPTED

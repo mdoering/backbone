@@ -1,5 +1,4 @@
-Scolecopeltidium eschweilerae Bat. SPECIES
-=======
+# Scolecopeltidium eschweilerae Bat. SPECIES
 
 #### Status
 ACCEPTED

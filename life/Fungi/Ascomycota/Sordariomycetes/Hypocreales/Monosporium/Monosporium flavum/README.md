@@ -1,5 +1,4 @@
-Monosporium flavum Bonord. SPECIES
-=======
+# Monosporium flavum Bonord. SPECIES
 
 #### Status
 ACCEPTED

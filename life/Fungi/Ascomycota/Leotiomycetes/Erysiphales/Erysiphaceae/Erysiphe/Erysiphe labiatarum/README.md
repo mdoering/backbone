@@ -1,5 +1,4 @@
-Erysiphe labiatarum f. labiatarum FORM
-=======
+# Erysiphe labiatarum Chevall. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Erysiphe labiatarum f. labiatarum
+Erysiphe labiatarum Chevall.
 
 ### Remarks
 null

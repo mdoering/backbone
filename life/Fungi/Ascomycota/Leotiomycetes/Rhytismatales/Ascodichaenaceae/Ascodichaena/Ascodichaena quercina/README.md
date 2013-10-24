@@ -1,5 +1,4 @@
-Ascodichaena quercina (Pers.) SPECIES
-=======
+# Ascodichaena quercina (Pers.) SPECIES
 
 #### Status
 ACCEPTED

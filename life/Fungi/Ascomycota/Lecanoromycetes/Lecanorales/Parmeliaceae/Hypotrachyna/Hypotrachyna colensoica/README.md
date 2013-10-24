@@ -1,5 +1,4 @@
-Hypotrachyna colensoica Hale, T. H. Nash & Elix SPECIES
-=======
+# Hypotrachyna colensoica Hale, T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

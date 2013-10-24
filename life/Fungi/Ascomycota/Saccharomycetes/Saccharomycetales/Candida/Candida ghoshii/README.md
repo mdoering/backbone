@@ -1,5 +1,4 @@
-Candida ghoshii K.K. Mitra SPECIES
-=======
+# Candida ghoshii K.K. Mitra SPECIES
 
 #### Status
 ACCEPTED

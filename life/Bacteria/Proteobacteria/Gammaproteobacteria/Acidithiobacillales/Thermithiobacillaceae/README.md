@@ -1,5 +1,4 @@
-Thermithiobacillaceae FAMILY
-=======
+# Thermithiobacillaceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schiffnerula cannabis McPartl. & S. Hughes SPECIES
-=======
+# Schiffnerula cannabis McPartl. & S. Hughes SPECIES
 
 #### Status
 ACCEPTED

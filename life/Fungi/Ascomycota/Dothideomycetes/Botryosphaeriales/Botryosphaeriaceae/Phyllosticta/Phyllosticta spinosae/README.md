@@ -1,5 +1,4 @@
-Phyllosticta spinosae Ellis & Kellerm. SPECIES
-=======
+# Phyllosticta spinosae Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

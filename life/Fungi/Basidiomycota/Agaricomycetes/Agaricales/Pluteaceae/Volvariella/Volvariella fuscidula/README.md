@@ -1,5 +1,4 @@
-Volvariella fuscidula (Bres.) M.M. Moser SPECIES
-=======
+# Volvariella fuscidula (Bres.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

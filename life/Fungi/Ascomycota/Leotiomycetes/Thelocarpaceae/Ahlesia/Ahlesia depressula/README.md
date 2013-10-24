@@ -1,5 +1,4 @@
-Ahlesia depressula SPECIES
-=======
+# Ahlesia depressula SPECIES
 
 #### Status
 ACCEPTED

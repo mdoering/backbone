@@ -1,5 +1,4 @@
-Coryneum discolor Fautrey SPECIES
-=======
+# Coryneum discolor Fautrey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia arenariae A.L. Sm. & Ramsb., 1914 SPECIES
-=======
+# Ramularia arenariae A.L. Sm. & Ramsb., 1914 SPECIES
 
 #### Status
 ACCEPTED

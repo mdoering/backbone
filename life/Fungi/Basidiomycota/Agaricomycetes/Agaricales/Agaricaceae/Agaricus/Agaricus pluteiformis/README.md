@@ -1,5 +1,4 @@
-Agaricus pluteiformis Sch. {?} SPECIES
-=======
+# Agaricus pluteiformis Sch. {?} SPECIES
 
 #### Status
 ACCEPTED

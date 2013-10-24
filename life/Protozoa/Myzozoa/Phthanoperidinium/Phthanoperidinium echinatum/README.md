@@ -1,5 +1,4 @@
-Phthanoperidinium echinatum Eaton, 1976 SPECIES
-=======
+# Phthanoperidinium echinatum Eaton, 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Methanopyrales ORDER
-=======
+# Methanopyrales ORDER
 
 #### Status
 ACCEPTED

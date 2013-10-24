@@ -1,5 +1,4 @@
-Cercospora pistiae Nag Raj, Govindu & Thirum. SPECIES
-=======
+# Cercospora pistiae Nag Raj, Govindu & Thirum. SPECIES
 
 #### Status
 ACCEPTED

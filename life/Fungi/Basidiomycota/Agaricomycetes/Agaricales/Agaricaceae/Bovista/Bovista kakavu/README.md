@@ -1,5 +1,4 @@
-Bovista kakavu Zipp. SPECIES
-=======
+# Bovista kakavu Zipp. SPECIES
 
 #### Status
 ACCEPTED

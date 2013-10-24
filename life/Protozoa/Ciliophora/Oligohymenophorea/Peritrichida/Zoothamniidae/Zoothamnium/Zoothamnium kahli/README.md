@@ -1,5 +1,4 @@
-Zoothamnium kahli SPECIES
-=======
+# Zoothamnium kahli SPECIES
 
 #### Status
 ACCEPTED

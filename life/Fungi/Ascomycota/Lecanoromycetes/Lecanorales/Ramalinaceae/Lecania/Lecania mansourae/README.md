@@ -1,5 +1,4 @@
-Lecania mansourae (Stizenb.) Flagey SPECIES
-=======
+# Lecania mansourae (Stizenb.) Flagey SPECIES
 
 #### Status
 ACCEPTED

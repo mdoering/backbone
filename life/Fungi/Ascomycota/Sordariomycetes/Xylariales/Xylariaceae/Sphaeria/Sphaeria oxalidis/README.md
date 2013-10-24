@@ -1,5 +1,4 @@
-Sphaeria oxalidis Kirsch ex Berk. & Broome SPECIES
-=======
+# Sphaeria oxalidis Kirsch ex Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

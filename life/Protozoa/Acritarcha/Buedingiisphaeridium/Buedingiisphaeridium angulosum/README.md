@@ -1,5 +1,4 @@
-Buedingiisphaeridium angulosum Timofeev, 1959 ex Hu Yunxu, 1986 SPECIES
-=======
+# Buedingiisphaeridium angulosum Timofeev, 1959 ex Hu Yunxu, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma helicina Magnaghi SPECIES
-=======
+# Macrophoma helicina Magnaghi SPECIES
 
 #### Status
 ACCEPTED

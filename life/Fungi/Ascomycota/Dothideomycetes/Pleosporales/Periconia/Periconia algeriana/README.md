@@ -1,17 +1,16 @@
-Periconia algerina Lunghini SPECIES
-=======
+# Periconia algeriana Lunghini, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+G. bot. ital. , n. s. 112(5-6): 383 (1978)
 
 #### Original name
-Periconia algerina Lunghini
+Periconia algeriana Lunghini, 1978
 
 ### Remarks
 null

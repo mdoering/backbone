@@ -1,5 +1,4 @@
-Sporopodium aeruginascens Lücking & Lumbsch SPECIES
-=======
+# Sporopodium aeruginascens Lücking & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

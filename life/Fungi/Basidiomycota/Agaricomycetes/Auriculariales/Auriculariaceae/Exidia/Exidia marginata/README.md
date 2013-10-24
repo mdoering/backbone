@@ -1,5 +1,4 @@
-Exidia marginata Curr. SPECIES
-=======
+# Exidia marginata Curr. SPECIES
 
 #### Status
 ACCEPTED

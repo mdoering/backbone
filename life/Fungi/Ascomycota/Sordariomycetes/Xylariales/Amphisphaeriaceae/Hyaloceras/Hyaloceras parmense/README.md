@@ -1,5 +1,4 @@
-Hyaloceras parmense Pass. SPECIES
-=======
+# Hyaloceras parmense Pass. SPECIES
 
 #### Status
 ACCEPTED

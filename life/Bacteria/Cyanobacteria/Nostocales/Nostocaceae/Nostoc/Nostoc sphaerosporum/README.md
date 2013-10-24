@@ -1,5 +1,4 @@
-Nostoc sphaerosporum Gardner SPECIES
-=======
+# Nostoc sphaerosporum Gardner SPECIES
 
 #### Status
 ACCEPTED

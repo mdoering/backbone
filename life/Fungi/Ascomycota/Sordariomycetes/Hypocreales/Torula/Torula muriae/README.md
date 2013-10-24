@@ -1,5 +1,4 @@
-Torula muriae J. Kickx f. SPECIES
-=======
+# Torula muriae J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza azurea Lév. SPECIES
-=======
+# Peziza azurea Lév. SPECIES
 
 #### Status
 ACCEPTED

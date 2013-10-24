@@ -1,5 +1,4 @@
-Dictyopteris fucoides Tanaka SPECIES
-=======
+# Dictyopteris fucoides Tanaka SPECIES
 
 #### Status
 ACCEPTED

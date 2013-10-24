@@ -1,5 +1,4 @@
-Discosia ceratoniae Torrend SPECIES
-=======
+# Discosia ceratoniae Torrend SPECIES
 
 #### Status
 ACCEPTED

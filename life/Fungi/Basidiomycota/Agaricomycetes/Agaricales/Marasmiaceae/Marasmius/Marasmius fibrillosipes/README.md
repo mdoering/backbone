@@ -1,5 +1,4 @@
-Marasmius fibrillosipes Corner SPECIES
-=======
+# Marasmius fibrillosipes Corner SPECIES
 
 #### Status
 ACCEPTED

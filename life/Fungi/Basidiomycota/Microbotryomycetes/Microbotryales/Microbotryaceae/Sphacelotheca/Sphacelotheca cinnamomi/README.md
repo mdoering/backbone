@@ -1,5 +1,4 @@
-Sphacelotheca cinnamomi S. Hirata SPECIES
-=======
+# Sphacelotheca cinnamomi S. Hirata SPECIES
 
 #### Status
 ACCEPTED

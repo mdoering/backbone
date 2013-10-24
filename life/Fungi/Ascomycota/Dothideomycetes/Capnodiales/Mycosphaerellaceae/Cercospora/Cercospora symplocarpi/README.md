@@ -1,5 +1,4 @@
-Cercospora symplocarpi Peck SPECIES
-=======
+# Cercospora symplocarpi Peck SPECIES
 
 #### Status
 ACCEPTED

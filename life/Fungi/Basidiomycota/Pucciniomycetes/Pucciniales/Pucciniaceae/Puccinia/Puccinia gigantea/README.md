@@ -1,14 +1,13 @@
-Dicaeoma giganteum (P. Karst.) Kuntze, 1898 SPECIES
-=======
+# Puccinia gigantea P. Karst., 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 469 (1898)
+Bidr. Känn. Finl. Nat. Folk 31: 42 (1879)
 
 #### Original name
 Puccinia gigantea P. Karst., 1879

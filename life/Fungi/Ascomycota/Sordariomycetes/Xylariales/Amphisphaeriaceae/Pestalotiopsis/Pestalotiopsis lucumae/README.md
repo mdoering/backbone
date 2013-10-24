@@ -1,5 +1,4 @@
-Pestalotiopsis lucumae (Tehon) Rib. Souza SPECIES
-=======
+# Pestalotiopsis lucumae (Tehon) Rib. Souza SPECIES
 
 #### Status
 ACCEPTED

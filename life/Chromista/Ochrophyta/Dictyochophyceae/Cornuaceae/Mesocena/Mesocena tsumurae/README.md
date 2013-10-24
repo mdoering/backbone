@@ -1,5 +1,4 @@
-Mesocena tsumurae D. Bukry SPECIES
-=======
+# Mesocena tsumurae D. Bukry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bolivinoides decorata var. delicatula Cushman, 1927 VARIETY
-=======
+# Bolivinoides decorata (Jones) SPECIES
 
 #### Status
 ACCEPTED

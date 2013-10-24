@@ -1,5 +1,4 @@
-Stomiopeltella allophyli Hansf. SPECIES
-=======
+# Stomiopeltella allophyli Hansf. SPECIES
 
 #### Status
 ACCEPTED

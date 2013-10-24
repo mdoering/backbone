@@ -1,5 +1,4 @@
-Rectuvigerina Mathews, 1945 GENUS
-=======
+# Rectuvigerina Mathews, 1945 GENUS
 
 #### Status
 ACCEPTED

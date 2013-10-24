@@ -1,5 +1,4 @@
-Buellia tuxenii SPECIES
-=======
+# Buellia tuxenii SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizolpidium GENUS
-=======
+# Rhizolpidium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clypeolella rhamnicola (Doidge) Doidge SPECIES
-=======
+# Clypeolella rhamnicola (Doidge) Doidge SPECIES
 
 #### Status
 ACCEPTED

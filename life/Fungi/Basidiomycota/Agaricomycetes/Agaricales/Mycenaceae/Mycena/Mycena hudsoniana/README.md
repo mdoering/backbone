@@ -1,5 +1,4 @@
-Mycena hudsoniana A.H. Sm. SPECIES
-=======
+# Mycena hudsoniana A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

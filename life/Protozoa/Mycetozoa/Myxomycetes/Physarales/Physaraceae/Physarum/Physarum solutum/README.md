@@ -1,5 +1,4 @@
-Physarum solutum Schumach. SPECIES
-=======
+# Physarum solutum Schumach. SPECIES
 
 #### Status
 ACCEPTED

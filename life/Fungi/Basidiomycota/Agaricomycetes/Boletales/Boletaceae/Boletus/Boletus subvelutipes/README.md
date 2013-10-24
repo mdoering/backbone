@@ -1,5 +1,4 @@
-Boletus subvelutipes f. glabripes Singer FORM
-=======
+# Boletus subvelutipes Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Am. Midl. Nat. 37: 70 (1947)
+null
 
 #### Original name
-Boletus subvelutipes f. glabripes Singer
+Boletus subvelutipes Peck
 
 ### Remarks
 null

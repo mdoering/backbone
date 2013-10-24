@@ -1,5 +1,4 @@
-Thranium Hovasse GENUS
-=======
+# Thranium Hovasse GENUS
 
 #### Status
 ACCEPTED

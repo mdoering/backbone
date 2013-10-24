@@ -1,5 +1,4 @@
-Septoria palustris (Ces.) Sacc. SPECIES
-=======
+# Septoria palustris (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

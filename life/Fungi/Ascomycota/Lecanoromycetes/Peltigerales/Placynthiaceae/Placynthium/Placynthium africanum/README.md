@@ -1,5 +1,4 @@
-Placynthium africanum C.W. Dodge SPECIES
-=======
+# Placynthium africanum C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

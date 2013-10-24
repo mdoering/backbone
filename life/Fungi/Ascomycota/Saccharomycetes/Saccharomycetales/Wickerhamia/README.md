@@ -1,5 +1,4 @@
-Wickerhamia Soneda GENUS
-=======
+# Wickerhamia Soneda GENUS
 
 #### Status
 ACCEPTED

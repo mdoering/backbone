@@ -1,5 +1,4 @@
-Tholosina irregularis Rhumbler, 1931 SPECIES
-=======
+# Tholosina irregularis Rhumbler, 1931 SPECIES
 
 #### Status
 ACCEPTED

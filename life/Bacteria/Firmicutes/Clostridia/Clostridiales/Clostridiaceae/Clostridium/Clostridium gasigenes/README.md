@@ -1,5 +1,4 @@
-Clostridium gasigenes Broda et al., 2000 SPECIES
-=======
+# Clostridium gasigenes Broda et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

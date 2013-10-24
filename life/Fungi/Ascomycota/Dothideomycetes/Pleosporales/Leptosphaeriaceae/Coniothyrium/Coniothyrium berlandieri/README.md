@@ -1,5 +1,4 @@
-Coniothyrium berlandieri Viala & Sauv. SPECIES
-=======
+# Coniothyrium berlandieri Viala & Sauv. SPECIES
 
 #### Status
 ACCEPTED

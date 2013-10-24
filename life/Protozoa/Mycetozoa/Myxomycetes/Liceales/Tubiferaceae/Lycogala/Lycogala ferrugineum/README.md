@@ -1,5 +1,4 @@
-Lycogala ferrugineum Schumach. SPECIES
-=======
+# Lycogala ferrugineum Schumach. SPECIES
 
 #### Status
 ACCEPTED

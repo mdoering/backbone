@@ -1,5 +1,4 @@
-Chaetopatella GENUS
-=======
+# Chaetopatella GENUS
 
 #### Status
 ACCEPTED

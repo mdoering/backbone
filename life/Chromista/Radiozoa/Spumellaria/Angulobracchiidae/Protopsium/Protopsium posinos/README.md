@@ -1,5 +1,4 @@
-Protopsium posinos SPECIES
-=======
+# Protopsium posinos SPECIES
 
 #### Status
 ACCEPTED

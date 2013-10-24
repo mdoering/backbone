@@ -1,5 +1,4 @@
-Abaphospora yerbae (Speg.) Kirschst. SPECIES
-=======
+# Abaphospora yerbae (Speg.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

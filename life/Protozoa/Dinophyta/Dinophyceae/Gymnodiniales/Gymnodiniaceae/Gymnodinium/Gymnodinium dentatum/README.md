@@ -1,5 +1,4 @@
-Gymnodinium dentatum J. Larsen SPECIES
-=======
+# Gymnodinium dentatum J. Larsen SPECIES
 
 #### Status
 ACCEPTED

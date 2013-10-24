@@ -1,5 +1,4 @@
-Lactarius carnosus Velen. SPECIES
-=======
+# Lactarius carnosus Velen. SPECIES
 
 #### Status
 ACCEPTED

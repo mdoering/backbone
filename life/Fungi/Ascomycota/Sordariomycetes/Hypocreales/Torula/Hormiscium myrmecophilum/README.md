@@ -1,5 +1,4 @@
-Hormiscium myrmecophilum Thaxt. SPECIES
-=======
+# Hormiscium myrmecophilum Thaxt. SPECIES
 
 #### Status
 ACCEPTED

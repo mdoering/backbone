@@ -1,5 +1,4 @@
-Chaetoceros dadayi Pavillard SPECIES
-=======
+# Chaetoceros dadayi Pavillard SPECIES
 
 #### Status
 ACCEPTED

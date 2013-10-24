@@ -1,5 +1,4 @@
-Smittium cylindrosporum Lichtw. & Arenas, 1996 SPECIES
-=======
+# Smittium cylindrosporum Lichtw. & Arenas, 1996 SPECIES
 
 #### Status
 ACCEPTED

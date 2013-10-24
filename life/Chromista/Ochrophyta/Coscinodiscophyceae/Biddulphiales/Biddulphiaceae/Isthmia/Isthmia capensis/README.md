@@ -1,5 +1,4 @@
-Isthmia capensis Grunow, 1880 SPECIES
-=======
+# Isthmia capensis Grunow, 1880 SPECIES
 
 #### Status
 ACCEPTED

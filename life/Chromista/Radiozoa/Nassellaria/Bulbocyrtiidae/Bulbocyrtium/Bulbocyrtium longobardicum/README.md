@@ -1,5 +1,4 @@
-Bulbocyrtium longobardicum SPECIES
-=======
+# Bulbocyrtium longobardicum SPECIES
 
 #### Status
 ACCEPTED

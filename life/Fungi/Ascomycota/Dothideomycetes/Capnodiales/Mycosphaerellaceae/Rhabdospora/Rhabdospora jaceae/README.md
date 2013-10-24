@@ -1,5 +1,4 @@
-Rhabdospora jaceae Naumov SPECIES
-=======
+# Rhabdospora jaceae Naumov SPECIES
 
 #### Status
 ACCEPTED

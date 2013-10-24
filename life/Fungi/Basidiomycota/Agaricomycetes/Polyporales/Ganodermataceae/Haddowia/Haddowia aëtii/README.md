@@ -1,5 +1,4 @@
-Haddowia aëtii Steyaert SPECIES
-=======
+# Haddowia aëtii Steyaert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia laevigatoides Abbayes SPECIES
-=======
+# Parmelia laevigatoides Abbayes SPECIES
 
 #### Status
 ACCEPTED

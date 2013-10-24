@@ -1,5 +1,4 @@
-Haloterrigena limicola Cui et al., 2006 SPECIES
-=======
+# Haloterrigena limicola Cui et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

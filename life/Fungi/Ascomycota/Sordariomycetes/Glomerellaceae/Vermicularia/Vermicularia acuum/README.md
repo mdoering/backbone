@@ -1,5 +1,4 @@
-Vermicularia acuum Oudem. SPECIES
-=======
+# Vermicularia acuum Oudem. SPECIES
 
 #### Status
 ACCEPTED

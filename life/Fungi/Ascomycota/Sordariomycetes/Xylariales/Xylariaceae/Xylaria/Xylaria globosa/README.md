@@ -1,5 +1,4 @@
-Xylaria globosa SPECIES
-=======
+# Xylaria globosa SPECIES
 
 #### Status
 ACCEPTED

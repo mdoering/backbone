@@ -1,5 +1,4 @@
-Phyllosticta apatela var. apatela VARIETY
-=======
+# Phyllosticta apatela Allesch. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllosticta apatela var. apatela
+Phyllosticta apatela Allesch.
 
 ### Remarks
 null

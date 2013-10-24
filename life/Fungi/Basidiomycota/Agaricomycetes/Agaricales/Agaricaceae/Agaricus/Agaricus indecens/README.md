@@ -1,5 +1,4 @@
-Agaricus indecens Peck SPECIES
-=======
+# Agaricus indecens Peck SPECIES
 
 #### Status
 ACCEPTED

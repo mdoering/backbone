@@ -1,5 +1,4 @@
-Bagnisiopsis maculans Chardón, 1934 SPECIES
-=======
+# Bagnisiopsis maculans Chardón, 1934 SPECIES
 
 #### Status
 ACCEPTED

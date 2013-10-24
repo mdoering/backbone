@@ -1,14 +1,13 @@
-Helmisporium oligosporum (Corda) S. Hughes SPECIES
-=======
+# Helminthosporium oligosporum (Corda) S. Hughes SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Can. J. Bot. 36: 775 (1958)
 
 #### Original name
 Coryneum oligosporum Corda

@@ -1,5 +1,4 @@
-Erysiphe gerardiae Schwein. SPECIES
-=======
+# Erysiphe gerardiae Schwein. SPECIES
 
 #### Status
 ACCEPTED

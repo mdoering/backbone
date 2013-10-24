@@ -1,5 +1,4 @@
-Nectria azureo-ostiolata Yoshim. Doi SPECIES
-=======
+# Nectria azureo-ostiolata Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

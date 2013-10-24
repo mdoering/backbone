@@ -1,5 +1,4 @@
-Cortinarius lamoureae Bon SPECIES
-=======
+# Cortinarius lamoureae Bon SPECIES
 
 #### Status
 ACCEPTED

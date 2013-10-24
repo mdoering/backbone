@@ -1,5 +1,4 @@
-Spermatodium griseum (Anzi) Trevis. SPECIES
-=======
+# Spermatodium griseum (Anzi) Trevis. SPECIES
 
 #### Status
 ACCEPTED

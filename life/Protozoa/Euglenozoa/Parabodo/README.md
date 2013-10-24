@@ -1,5 +1,4 @@
-Parabodo Skuja GENUS
-=======
+# Parabodo Skuja GENUS
 
 #### Status
 ACCEPTED

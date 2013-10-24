@@ -1,5 +1,4 @@
-Poria subumbrina Cleland ex G. Cunn. SPECIES
-=======
+# Poria subumbrina Cleland ex G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora neovignae W. Yamam. SPECIES
-=======
+# Cercospora neovignae W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

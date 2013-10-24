@@ -1,5 +1,4 @@
-Hysteronaevia kobayasii Nannf. SPECIES
-=======
+# Hysteronaevia kobayasii Nannf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota tinctoria Murrill SPECIES
-=======
+# Lepiota tinctoria Murrill SPECIES
 
 #### Status
 ACCEPTED

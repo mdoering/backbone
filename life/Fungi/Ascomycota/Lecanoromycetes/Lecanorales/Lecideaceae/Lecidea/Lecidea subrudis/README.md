@@ -1,5 +1,4 @@
-Lecidea subrudis Nyl. SPECIES
-=======
+# Lecidea subrudis Nyl. SPECIES
 
 #### Status
 ACCEPTED

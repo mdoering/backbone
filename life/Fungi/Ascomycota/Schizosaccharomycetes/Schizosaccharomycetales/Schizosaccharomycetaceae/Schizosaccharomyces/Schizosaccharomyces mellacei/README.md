@@ -1,5 +1,4 @@
-Schizosaccharomyces mellacei (A. Jörg.) Lindner SPECIES
-=======
+# Schizosaccharomyces mellacei (A. Jörg.) Lindner SPECIES
 
 #### Status
 ACCEPTED

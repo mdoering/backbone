@@ -1,5 +1,4 @@
-Phoma nigripycnidia Boerema, Gruyter & Noordel., 1997 SPECIES
-=======
+# Phoma nigripycnidia Boerema, Gruyter & Noordel., 1997 SPECIES
 
 #### Status
 ACCEPTED

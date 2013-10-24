@@ -1,5 +1,4 @@
-Homotryblium tenuispinosum Davey & Williams, 1966 SPECIES
-=======
+# Homotryblium tenuispinosum Davey & Williams, 1966 SPECIES
 
 #### Status
 ACCEPTED

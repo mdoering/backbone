@@ -1,5 +1,4 @@
-Apiosoma phoxini SPECIES
-=======
+# Apiosoma phoxini SPECIES
 
 #### Status
 ACCEPTED

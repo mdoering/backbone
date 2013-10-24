@@ -1,5 +1,4 @@
-Godronia uberiformis J.W. Groves, 1965 SPECIES
-=======
+# Godronia uberiformis J.W. Groves, 1965 SPECIES
 
 #### Status
 ACCEPTED

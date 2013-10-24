@@ -1,5 +1,4 @@
-Mycovellosiella gonatoclada (Syd.) Munt.-Cvetk. SPECIES
-=======
+# Mycovellosiella gonatoclada (Syd.) Munt.-Cvetk. SPECIES
 
 #### Status
 ACCEPTED

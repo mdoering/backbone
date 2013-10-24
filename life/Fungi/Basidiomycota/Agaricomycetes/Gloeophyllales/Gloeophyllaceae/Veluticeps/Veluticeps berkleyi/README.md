@@ -1,5 +1,4 @@
-Veluticeps berkleyi Pat. SPECIES
-=======
+# Veluticeps berkleyi Pat. SPECIES
 
 #### Status
 ACCEPTED

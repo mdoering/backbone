@@ -1,5 +1,4 @@
-Puccinia baccharidis-rhexioidis Mayor SPECIES
-=======
+# Puccinia baccharidis-rhexioidis Mayor SPECIES
 
 #### Status
 ACCEPTED

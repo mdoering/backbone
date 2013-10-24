@@ -1,5 +1,4 @@
-Baculogysinoides GENUS
-=======
+# Baculogysinoides GENUS
 
 #### Status
 ACCEPTED

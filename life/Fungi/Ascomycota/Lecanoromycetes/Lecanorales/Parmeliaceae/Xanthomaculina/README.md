@@ -1,5 +1,4 @@
-Xanthomaculina Hale GENUS
-=======
+# Xanthomaculina Hale GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ammotium subdirectum Warren, 1957 SPECIES
-=======
+# Ammotium subdirectum Warren, 1957 SPECIES
 
 #### Status
 ACCEPTED

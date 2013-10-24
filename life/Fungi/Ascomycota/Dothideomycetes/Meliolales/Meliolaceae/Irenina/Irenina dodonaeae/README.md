@@ -1,17 +1,16 @@
-Irenina dodonaea Hansf. SPECIES
-=======
+# Irenina dodonaeae Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Linn. Soc. N. S. W. 78(3-4): 78 (1953)
 
 #### Original name
-Irenina dodonaea Hansf.
+Irenina dodonaeae Hansf.
 
 ### Remarks
 null

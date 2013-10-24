@@ -1,5 +1,4 @@
-Stachybotrys clitoriae Bat. & Peres SPECIES
-=======
+# Stachybotrys clitoriae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

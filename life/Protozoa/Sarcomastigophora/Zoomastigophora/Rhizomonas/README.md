@@ -1,5 +1,4 @@
-Rhizomonas Kent, 1880 GENUS
-=======
+# Rhizomonas Kent, 1880 GENUS
 
 #### Status
 ACCEPTED

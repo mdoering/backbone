@@ -1,5 +1,4 @@
-Puccinia umbilicicola Gjaerum & Bahç. SPECIES
-=======
+# Puccinia umbilicicola Gjaerum & Bahç. SPECIES
 
 #### Status
 ACCEPTED

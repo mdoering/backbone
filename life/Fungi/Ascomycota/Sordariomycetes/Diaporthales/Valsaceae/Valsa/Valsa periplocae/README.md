@@ -1,5 +1,4 @@
-Valsa periplocae Urries SPECIES
-=======
+# Valsa periplocae Urries SPECIES
 
 #### Status
 ACCEPTED

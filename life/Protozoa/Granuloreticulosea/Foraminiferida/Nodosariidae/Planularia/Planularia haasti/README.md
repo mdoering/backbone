@@ -1,5 +1,4 @@
-Planularia haasti (Stache) SPECIES
-=======
+# Planularia haasti (Stache) SPECIES
 
 #### Status
 ACCEPTED

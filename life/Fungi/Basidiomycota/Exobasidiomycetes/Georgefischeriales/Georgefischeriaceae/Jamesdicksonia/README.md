@@ -1,5 +1,4 @@
-Jamesdicksonia Thirum., Pavgi & Payak GENUS
-=======
+# Jamesdicksonia Thirum., Pavgi & Payak GENUS
 
 #### Status
 ACCEPTED

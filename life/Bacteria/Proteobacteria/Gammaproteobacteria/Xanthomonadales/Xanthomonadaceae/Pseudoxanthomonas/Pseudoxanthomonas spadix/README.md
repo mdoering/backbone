@@ -1,5 +1,4 @@
-Pseudoxanthomonas spadix Chiu-Chung Young, 2007 SPECIES
-=======
+# Pseudoxanthomonas spadix Chiu-Chung Young, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe olivaceotincta Kauffman SPECIES
-=======
+# Psilocybe olivaceotincta Kauffman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Asterina homalli Syd. SPECIES
-=======
+# Asterina homalii Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 37(3): 231 (1939)
 
 #### Original name
-Asterina homalli Syd.
+Asterina homalii Syd.
 
 ### Remarks
 null

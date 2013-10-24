@@ -1,5 +1,4 @@
-Sordaria ontariensis Cain SPECIES
-=======
+# Sordaria ontariensis Cain SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprobia hyphopila J. Moravec SPECIES
-=======
+# Coprobia hyphopila J. Moravec SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhinocladium coprogenum Sacc. & Marchal ex Marchal, 1885 SPECIES
-=======
+# Rhinocladium coprogenum Sacc. & Marchal ex Marchal, 1885 SPECIES
 
 #### Status
 ACCEPTED

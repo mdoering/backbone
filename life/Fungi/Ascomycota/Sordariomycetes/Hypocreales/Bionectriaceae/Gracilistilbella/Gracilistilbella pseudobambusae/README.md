@@ -1,14 +1,13 @@
-Stilbella pseudobambusae Seifert, 1990 SPECIES
-=======
+# Gracilistilbella pseudobambusae (Seifert) Seifert, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. N. Y. bot. Gdn 59: 143 (1990)
+in Seifert & Samuels, Stud. Mycol. 45: 18 (2000)
 
 #### Original name
 Stilbella pseudobambusae Seifert, 1990

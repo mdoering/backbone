@@ -1,5 +1,4 @@
-Stagonospora cookei E. Castell. & Germano SPECIES
-=======
+# Stagonospora cookei E. Castell. & Germano SPECIES
 
 #### Status
 ACCEPTED

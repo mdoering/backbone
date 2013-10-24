@@ -1,14 +1,13 @@
-Stigmatidium velatum C. Knight SPECIES
-=======
+# Enterodictyon velatum (C. Knight) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Trans. Linn. Soc. London, Bot. 2: 41 (1882)
+Annls mycol. 19(3/4): 233 (1921)
 
 #### Original name
 Stigmatidium velatum C. Knight

@@ -1,5 +1,4 @@
-Helicoma roseolum Thaxt. SPECIES
-=======
+# Helicoma roseolum Thaxt. SPECIES
 
 #### Status
 ACCEPTED

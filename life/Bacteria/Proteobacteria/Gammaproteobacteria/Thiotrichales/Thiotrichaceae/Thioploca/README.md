@@ -1,5 +1,4 @@
-Thioploca Lauterborn, 1907 GENUS
-=======
+# Thioploca Lauterborn, 1907 GENUS
 
 #### Status
 ACCEPTED

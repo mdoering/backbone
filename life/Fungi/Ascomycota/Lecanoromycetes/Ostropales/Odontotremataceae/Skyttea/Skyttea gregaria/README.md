@@ -1,14 +1,13 @@
-Rhymbocarpus gregarius (Sherwood, D. Hawksw. & Coppins) Triebel SPECIES
-=======
+# Skyttea gregaria Sherwood, D. Hawksw. & Coppins SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Biblthca Lichenol. 35: 144 (1989)
+Trans. Br. mycol. Soc. 75(3): 486 (1981)
 
 #### Original name
 Skyttea gregaria Sherwood, D. Hawksw. & Coppins

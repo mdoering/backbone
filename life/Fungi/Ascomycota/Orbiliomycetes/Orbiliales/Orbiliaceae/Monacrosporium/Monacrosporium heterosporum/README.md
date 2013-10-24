@@ -1,5 +1,4 @@
-Monacrosporium heterosporum (Drechsler) Subram. SPECIES
-=======
+# Monacrosporium heterosporum (Drechsler) Subram. SPECIES
 
 #### Status
 ACCEPTED

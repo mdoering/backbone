@@ -1,5 +1,4 @@
-Clavaria subviolacea R.H. Petersen, 1988 SPECIES
-=======
+# Clavaria subviolacea R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

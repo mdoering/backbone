@@ -1,5 +1,4 @@
-Microspiretta Jankowski, 1975 GENUS
-=======
+# Microspiretta Jankowski, 1975 GENUS
 
 #### Status
 ACCEPTED

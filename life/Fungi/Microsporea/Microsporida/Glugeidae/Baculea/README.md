@@ -1,5 +1,4 @@
-Baculea Loubès & Akbarieh GENUS
-=======
+# Baculea Loubès & Akbarieh GENUS
 
 #### Status
 ACCEPTED

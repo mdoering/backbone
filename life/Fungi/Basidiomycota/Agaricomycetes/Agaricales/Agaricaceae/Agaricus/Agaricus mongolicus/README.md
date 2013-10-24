@@ -1,5 +1,4 @@
-Agaricus mongolicus Kalchbr. SPECIES
-=======
+# Agaricus mongolicus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

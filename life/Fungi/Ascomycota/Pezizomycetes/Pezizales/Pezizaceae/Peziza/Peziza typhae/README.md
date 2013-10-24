@@ -1,5 +1,4 @@
-Peziza typhae Peck SPECIES
-=======
+# Peziza typhae Peck SPECIES
 
 #### Status
 ACCEPTED

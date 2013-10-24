@@ -1,5 +1,4 @@
-Sargassum incisum Dickie SPECIES
-=======
+# Sargassum incisum Dickie SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ustilago halophila Speg., 1902 SPECIES
-=======
+# Tranzscheliella halophila (Speg.) Vánky, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 85: 2 (2003)
 
 #### Original name
 Ustilago halophila Speg., 1902

@@ -1,5 +1,4 @@
-Periconiella leptographioides B. Sutton SPECIES
-=======
+# Periconiella leptographioides B. Sutton SPECIES
 
 #### Status
 ACCEPTED

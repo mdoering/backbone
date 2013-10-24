@@ -1,5 +1,4 @@
-Astrosphaeriella vesuvius (Berk. & Broome) D. Hawksw. & Boise SPECIES
-=======
+# Astrosphaeriella vesuvius (Berk. & Broome) D. Hawksw. & Boise SPECIES
 
 #### Status
 ACCEPTED

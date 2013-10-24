@@ -1,5 +1,4 @@
-Lecanora ambigua Motyka SPECIES
-=======
+# Lecanora ambigua Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta pleurocarpa (Ach.) Röhl. SPECIES
-=======
+# Sticta pleurocarpa (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

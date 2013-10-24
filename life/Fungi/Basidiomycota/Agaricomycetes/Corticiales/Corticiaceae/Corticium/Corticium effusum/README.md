@@ -1,5 +1,4 @@
-Corticium effusum Overh. SPECIES
-=======
+# Corticium effusum Overh. SPECIES
 
 #### Status
 ACCEPTED

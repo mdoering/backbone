@@ -1,5 +1,4 @@
-Puccinia varelae Unamuno SPECIES
-=======
+# Puccinia varelae Unamuno SPECIES
 
 #### Status
 ACCEPTED

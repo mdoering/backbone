@@ -1,5 +1,4 @@
-Porina hypochroa Vain. SPECIES
-=======
+# Porina hypochroa Vain. SPECIES
 
 #### Status
 ACCEPTED

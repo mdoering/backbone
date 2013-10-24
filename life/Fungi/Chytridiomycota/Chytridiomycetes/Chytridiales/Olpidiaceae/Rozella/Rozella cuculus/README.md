@@ -1,14 +1,13 @@
-Pleolpidium cuculus E.J. Butler, 1907 SPECIES
-=======
+# Rozella cuculus (E.J. Butler) Sparrow, 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Memoirs of the Dept. Agric. India, Bot. Ser. 1(5): 125 (1907)
+Mycologia 30(4): 377 (1938)
 
 #### Original name
 Pleolpidium cuculus E.J. Butler, 1907

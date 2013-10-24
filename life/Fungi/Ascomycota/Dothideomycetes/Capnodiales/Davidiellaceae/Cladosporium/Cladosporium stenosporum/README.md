@@ -1,5 +1,4 @@
-Cladosporium stenosporum Berk. & M.A. Curtis SPECIES
-=======
+# Cladosporium stenosporum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

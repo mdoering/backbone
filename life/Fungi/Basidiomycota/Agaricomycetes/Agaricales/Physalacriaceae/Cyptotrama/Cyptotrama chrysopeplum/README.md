@@ -1,14 +1,13 @@
-Gymnopus chrysopeplus (Berk. & M.A. Curtis) Murrill, 1916 SPECIES
-=======
+# Cyptotrama chrysopeplum (Berk. & M.A. Curtis) Singer, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Fl. (New York) 9(5): 359 (1916)
+Beih. Sydowia 7: 34 (1973)
 
 #### Original name
 Lentinus chrysopeplus Berk. & M.A. Curtis, 1868

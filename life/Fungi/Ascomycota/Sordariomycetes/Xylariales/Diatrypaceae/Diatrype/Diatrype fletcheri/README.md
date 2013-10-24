@@ -1,5 +1,4 @@
-Diatrype fletcheri Rehm SPECIES
-=======
+# Diatrype fletcheri Rehm SPECIES
 
 #### Status
 ACCEPTED

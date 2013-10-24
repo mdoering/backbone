@@ -1,5 +1,4 @@
-Entoloma alutaceum Murrill SPECIES
-=======
+# Entoloma alutaceum Murrill SPECIES
 
 #### Status
 ACCEPTED

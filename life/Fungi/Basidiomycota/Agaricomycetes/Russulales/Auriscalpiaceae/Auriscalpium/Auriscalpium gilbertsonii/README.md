@@ -1,5 +1,4 @@
-Auriscalpium gilbertsonii Ryvarden, 2001 SPECIES
-=======
+# Auriscalpium gilbertsonii Ryvarden, 2001 SPECIES
 
 #### Status
 ACCEPTED

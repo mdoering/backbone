@@ -1,5 +1,4 @@
-Zygopichia abadiae (F.H. Jacob) Kock.-Krat. SPECIES
-=======
+# Zygopichia abadiae (F.H. Jacob) Kock.-Krat. SPECIES
 
 #### Status
 ACCEPTED

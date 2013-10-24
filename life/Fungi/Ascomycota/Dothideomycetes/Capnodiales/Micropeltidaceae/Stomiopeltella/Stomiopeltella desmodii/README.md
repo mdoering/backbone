@@ -1,5 +1,4 @@
-Stomiopeltella desmodii Sawada SPECIES
-=======
+# Stomiopeltella desmodii Sawada SPECIES
 
 #### Status
 ACCEPTED

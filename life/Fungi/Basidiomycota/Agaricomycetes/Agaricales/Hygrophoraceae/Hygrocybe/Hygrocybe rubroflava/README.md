@@ -1,5 +1,4 @@
-Hygrocybe rubroflava Singer SPECIES
-=======
+# Hygrocybe rubroflava Singer SPECIES
 
 #### Status
 ACCEPTED

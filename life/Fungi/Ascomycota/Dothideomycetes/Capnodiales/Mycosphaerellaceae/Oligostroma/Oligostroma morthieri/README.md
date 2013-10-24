@@ -1,5 +1,4 @@
-Oligostroma morthieri (Fuckel) Höhn. SPECIES
-=======
+# Oligostroma morthieri (Fuckel) Höhn. SPECIES
 
 #### Status
 ACCEPTED

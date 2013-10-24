@@ -1,5 +1,4 @@
-Corynophrya conipes Mereschkowsky, 1877 SPECIES
-=======
+# Corynophrya conipes Mereschkowsky, 1877 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eriosoma GENUS
-=======
+# Eriosoma GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microbulbifer thermotolerans Miyazaki, Nogi, Ohta, Hatada, Fujiwara, Ito & Horikoshi, 2008 SPECIES
-=======
+# Microbulbifer thermotolerans Miyazaki, Nogi, Ohta, Hatada, Fujiwara, Ito & Horikoshi, 2008 SPECIES
 
 #### Status
 ACCEPTED

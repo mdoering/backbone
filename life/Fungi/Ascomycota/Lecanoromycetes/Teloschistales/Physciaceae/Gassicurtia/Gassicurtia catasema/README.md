@@ -1,5 +1,4 @@
-Gassicurtia catasema (Tuck.) Marbach SPECIES
-=======
+# Gassicurtia catasema (Tuck.) Marbach SPECIES
 
 #### Status
 ACCEPTED

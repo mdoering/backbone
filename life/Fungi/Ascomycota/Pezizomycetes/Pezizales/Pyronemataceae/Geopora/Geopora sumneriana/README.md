@@ -1,17 +1,16 @@
-Peziza lanuginosa Bull., 1789 SPECIES
-=======
+# Geopora sumneriana (Cooke) M. Torre, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Herb. Fr. 9: (1789)
+An. Inst. bot. A. J. Cavanilles 32(2): 96 (1976)
 
 #### Original name
-Peziza lanuginosa Bull., 1789
+Peziza sumneriana Cooke
 
 ### Remarks
 null

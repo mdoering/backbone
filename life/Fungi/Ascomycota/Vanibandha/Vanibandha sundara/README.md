@@ -1,5 +1,4 @@
-Vanibandha sundara Manohar., N.K. Rao, Kunwar & D.K. Agarwal, 2006 SPECIES
-=======
+# Vanibandha sundara Manohar., N.K. Rao, Kunwar & D.K. Agarwal, 2006 SPECIES
 
 #### Status
 ACCEPTED

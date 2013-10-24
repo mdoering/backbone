@@ -1,5 +1,4 @@
-Nigrofomes Murrill GENUS
-=======
+# Nigrofomes Murrill GENUS
 
 #### Status
 ACCEPTED

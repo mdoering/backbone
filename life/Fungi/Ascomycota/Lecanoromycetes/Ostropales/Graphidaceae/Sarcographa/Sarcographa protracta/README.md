@@ -1,5 +1,4 @@
-Sarcographa protracta (Kremp.) Zahlbr. SPECIES
-=======
+# Sarcographa protracta (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

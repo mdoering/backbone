@@ -1,5 +1,4 @@
-Crinipellis galeropsidoides Singer SPECIES
-=======
+# Crinipellis galeropsidoides Singer SPECIES
 
 #### Status
 ACCEPTED

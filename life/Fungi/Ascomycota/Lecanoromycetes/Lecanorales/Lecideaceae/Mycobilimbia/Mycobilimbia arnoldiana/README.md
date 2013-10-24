@@ -1,5 +1,4 @@
-Mycobilimbia arnoldiana Zopf SPECIES
-=======
+# Mycobilimbia arnoldiana Zopf SPECIES
 
 #### Status
 ACCEPTED

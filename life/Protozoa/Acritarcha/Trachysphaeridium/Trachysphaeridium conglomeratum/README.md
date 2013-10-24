@@ -1,5 +1,4 @@
-Trachysphaeridium conglomeratum Chen Jinbiao et al., 1980 SPECIES
-=======
+# Trachysphaeridium conglomeratum Chen Jinbiao et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

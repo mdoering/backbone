@@ -1,5 +1,4 @@
-Parmelia amoena Zahlbr. SPECIES
-=======
+# Parmelia amoena Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

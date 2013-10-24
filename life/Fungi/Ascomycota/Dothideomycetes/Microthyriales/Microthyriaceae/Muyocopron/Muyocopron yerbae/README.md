@@ -1,5 +1,4 @@
-Muyocopron yerbae Speg. SPECIES
-=======
+# Muyocopron yerbae Speg. SPECIES
 
 #### Status
 ACCEPTED

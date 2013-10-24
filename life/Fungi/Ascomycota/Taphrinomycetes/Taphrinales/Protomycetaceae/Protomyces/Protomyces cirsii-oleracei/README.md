@@ -1,5 +1,4 @@
-Protomyces cirsii-oleracei Buhr SPECIES
-=======
+# Protomyces cirsii-oleracei Buhr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hapalopilus flavus B.K. Cui & Y.C. Dai SPECIES
-=======
+# Hapalopilus flavus B.K. Cui & Y.C. Dai SPECIES
 
 #### Status
 ACCEPTED

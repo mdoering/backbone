@@ -1,5 +1,4 @@
-Camarosporium insuetum Petr., 1950 SPECIES
-=======
+# Camarosporium insuetum Petr., 1950 SPECIES
 
 #### Status
 ACCEPTED

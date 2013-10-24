@@ -1,5 +1,4 @@
-Tricholoma fiherensis Dufour & H. Poiss. SPECIES
-=======
+# Tricholoma fiherensis Dufour & H. Poiss. SPECIES
 
 #### Status
 ACCEPTED

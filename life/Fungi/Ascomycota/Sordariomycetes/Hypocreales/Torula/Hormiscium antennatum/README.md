@@ -1,5 +1,4 @@
-Hormiscium antennatum Bonord. SPECIES
-=======
+# Hormiscium antennatum Bonord. SPECIES
 
 #### Status
 ACCEPTED

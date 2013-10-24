@@ -1,5 +1,4 @@
-Gymnopus potassiovirescens (Contu) Antonín & Noordel. SPECIES
-=======
+# Gymnopus potassiovirescens (Contu) Antonín & Noordel. SPECIES
 
 #### Status
 ACCEPTED

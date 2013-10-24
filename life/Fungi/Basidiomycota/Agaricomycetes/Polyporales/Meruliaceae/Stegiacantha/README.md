@@ -1,5 +1,4 @@
-Stegiacantha Maas Geest. GENUS
-=======
+# Stegiacantha Maas Geest. GENUS
 
 #### Status
 ACCEPTED

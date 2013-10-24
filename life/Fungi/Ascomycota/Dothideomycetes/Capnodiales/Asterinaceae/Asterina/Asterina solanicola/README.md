@@ -1,17 +1,16 @@
-Asterina solanicola var. solanicola VARIETY
-=======
+# Asterina solanicola Berk. & M.A. Curtis, 1868 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 16: 108 (1902)
 
 #### Original name
-Asterina solanicola var. solanicola
+Asterina solanicola Berk. & M.A. Curtis, 1868
 
 ### Remarks
 null

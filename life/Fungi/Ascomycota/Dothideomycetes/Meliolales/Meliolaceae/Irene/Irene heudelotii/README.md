@@ -1,5 +1,4 @@
-Irene heudelotii (Gaillard) Doidge SPECIES
-=======
+# Irene heudelotii (Gaillard) Doidge SPECIES
 
 #### Status
 ACCEPTED

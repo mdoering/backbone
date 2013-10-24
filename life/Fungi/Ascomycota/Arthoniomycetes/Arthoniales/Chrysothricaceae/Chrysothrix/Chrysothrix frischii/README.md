@@ -1,5 +1,4 @@
-Chrysothrix frischii Kalb SPECIES
-=======
+# Chrysothrix frischii Kalb SPECIES
 
 #### Status
 ACCEPTED

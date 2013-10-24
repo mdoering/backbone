@@ -1,5 +1,4 @@
-Bartalinia querna Harkness SPECIES
-=======
+# Bartalinia querna Harkness SPECIES
 
 #### Status
 ACCEPTED

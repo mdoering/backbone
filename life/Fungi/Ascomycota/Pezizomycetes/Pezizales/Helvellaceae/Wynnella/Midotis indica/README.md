@@ -1,5 +1,4 @@
-Midotis indica K.S. Thind, E.K. Cash & Pr. Singh SPECIES
-=======
+# Midotis indica K.S. Thind, E.K. Cash & Pr. Singh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fuscoporella shaferi Murrill SPECIES
-=======
+# Fuscoporella shaferi Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Physosporella sanguinea (Rehm) Höhn., 1918 SPECIES
-=======
+# Plectosphaera sanguinea (Rehm) Arx & E. Müll., 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 16: 162 (1918)
+Beitr. Kryptfl. Schweiz 11(no. 1): 202 (1954)
 
 #### Original name
-Physosporella sanguinea (Rehm) Höhn., 1918
+Physalospora sanguinea Rehm, 1907
 
 ### Remarks
 null

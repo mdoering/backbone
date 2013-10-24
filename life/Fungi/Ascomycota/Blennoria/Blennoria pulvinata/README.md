@@ -1,5 +1,4 @@
-Blennoria pulvinata Petr. SPECIES
-=======
+# Blennoria pulvinata Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus spodoleucus (Fr.) Quél. SPECIES
-=======
+# Pleurotus spodoleucus (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

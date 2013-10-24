@@ -1,17 +1,16 @@
-Rhodothrix Vain. GENUS
-=======
+# Nectria (E.M. Fries) E.M. Fries, 1849 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Acad. Sci. fenn. , Ser. A 15: 31 (1921)
+Summa veg. Scand. (Stockholm), Section Post. 387 (1849)
 
 #### Original name
-Rhodothrix Vain.
+null
 
 ### Remarks
 null

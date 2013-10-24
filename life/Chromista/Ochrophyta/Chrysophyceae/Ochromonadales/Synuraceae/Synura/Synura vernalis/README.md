@@ -1,5 +1,4 @@
-Synura vernalis SPECIES
-=======
+# Synura vernalis SPECIES
 
 #### Status
 ACCEPTED

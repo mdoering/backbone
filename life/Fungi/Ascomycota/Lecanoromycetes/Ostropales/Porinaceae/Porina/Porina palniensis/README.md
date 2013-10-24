@@ -1,5 +1,4 @@
-Porina palniensis D.D. Awasthi & Kr.P. Singh SPECIES
-=======
+# Porina palniensis D.D. Awasthi & Kr.P. Singh SPECIES
 
 #### Status
 ACCEPTED

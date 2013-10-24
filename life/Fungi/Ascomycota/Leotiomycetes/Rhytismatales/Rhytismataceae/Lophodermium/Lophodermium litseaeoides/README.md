@@ -1,5 +1,4 @@
-Lophodermium litseaeoides Spooner, 1991 SPECIES
-=======
+# Lophodermium litseaeoides Spooner, 1991 SPECIES
 
 #### Status
 ACCEPTED

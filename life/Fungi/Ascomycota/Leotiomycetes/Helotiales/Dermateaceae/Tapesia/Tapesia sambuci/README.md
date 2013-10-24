@@ -1,5 +1,4 @@
-Tapesia sambuci Velen. SPECIES
-=======
+# Tapesia sambuci Velen. SPECIES
 
 #### Status
 ACCEPTED

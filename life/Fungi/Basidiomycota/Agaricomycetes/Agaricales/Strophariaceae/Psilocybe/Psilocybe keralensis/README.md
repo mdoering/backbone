@@ -1,5 +1,4 @@
-Psilocybe keralensis K.A. Thomas, Manim. & Guzmán SPECIES
-=======
+# Psilocybe keralensis K.A. Thomas, Manim. & Guzmán SPECIES
 
 #### Status
 ACCEPTED

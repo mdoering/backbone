@@ -1,5 +1,4 @@
-Dothichiza caryae Bonar SPECIES
-=======
+# Dothichiza caryae Bonar SPECIES
 
 #### Status
 ACCEPTED

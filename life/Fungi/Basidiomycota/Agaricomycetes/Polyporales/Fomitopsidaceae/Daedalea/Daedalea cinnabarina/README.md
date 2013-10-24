@@ -1,5 +1,4 @@
-Daedalea cinnabarina Secr. SPECIES
-=======
+# Daedalea cinnabarina Secr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hysterostoma faurea Doidge SPECIES
-=======
+# Hysterostoma faureae Doidge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bothalia 1(4): 197 (1924)
 
 #### Original name
-Hysterostoma faurea Doidge
+Hysterostoma faureae Doidge
 
 ### Remarks
 null

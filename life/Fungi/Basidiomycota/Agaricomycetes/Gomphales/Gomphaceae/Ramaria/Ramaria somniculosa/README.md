@@ -1,5 +1,4 @@
-Ramaria somniculosa R.H. Petersen, 1986 SPECIES
-=======
+# Ramaria somniculosa R.H. Petersen, 1986 SPECIES
 
 #### Status
 ACCEPTED

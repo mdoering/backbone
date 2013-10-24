@@ -1,5 +1,4 @@
-Wolinella succinogenes (Wolin et al., 1961) Tanner et al., 1981 SPECIES
-=======
+# Wolinella succinogenes (Wolin et al., 1961) Tanner et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

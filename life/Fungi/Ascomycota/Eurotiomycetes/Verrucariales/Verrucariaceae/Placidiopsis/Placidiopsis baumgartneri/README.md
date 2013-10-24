@@ -1,5 +1,4 @@
-Placidiopsis baumgartneri Zahlbr. SPECIES
-=======
+# Placidiopsis baumgartneri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

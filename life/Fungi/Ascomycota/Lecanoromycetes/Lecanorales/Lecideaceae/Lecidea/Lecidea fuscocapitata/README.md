@@ -1,5 +1,4 @@
-Lecidea fuscocapitata Lynge SPECIES
-=======
+# Lecidea fuscocapitata Lynge SPECIES
 
 #### Status
 ACCEPTED

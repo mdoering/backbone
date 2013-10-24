@@ -1,5 +1,4 @@
-Sabouraudites depauperatus (Guég.) M. Ota & Langeron SPECIES
-=======
+# Sabouraudites depauperatus (Guég.) M. Ota & Langeron SPECIES
 
 #### Status
 ACCEPTED

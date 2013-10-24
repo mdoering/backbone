@@ -1,5 +1,4 @@
-Coryneum papilliferum Henn. SPECIES
-=======
+# Coryneum papilliferum Henn. SPECIES
 
 #### Status
 ACCEPTED

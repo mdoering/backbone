@@ -1,5 +1,4 @@
-Pholiota mellea P. Karst. SPECIES
-=======
+# Pholiota mellea P. Karst. SPECIES
 
 #### Status
 ACCEPTED

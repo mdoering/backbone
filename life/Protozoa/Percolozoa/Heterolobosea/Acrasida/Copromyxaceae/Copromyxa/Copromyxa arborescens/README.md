@@ -1,5 +1,4 @@
-Copromyxa arborescens M. Nesom & L.S. Olive SPECIES
-=======
+# Copromyxa arborescens M. Nesom & L.S. Olive SPECIES
 
 #### Status
 ACCEPTED

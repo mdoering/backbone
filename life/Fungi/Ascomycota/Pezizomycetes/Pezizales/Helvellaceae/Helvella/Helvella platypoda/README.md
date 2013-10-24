@@ -1,5 +1,4 @@
-Helvella platypoda DC. SPECIES
-=======
+# Helvella platypoda DC. SPECIES
 
 #### Status
 ACCEPTED

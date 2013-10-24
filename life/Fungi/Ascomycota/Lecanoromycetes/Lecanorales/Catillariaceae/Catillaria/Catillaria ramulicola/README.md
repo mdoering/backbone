@@ -1,5 +1,4 @@
-Catillaria ramulicola H. Magn. SPECIES
-=======
+# Catillaria ramulicola H. Magn. SPECIES
 
 #### Status
 ACCEPTED

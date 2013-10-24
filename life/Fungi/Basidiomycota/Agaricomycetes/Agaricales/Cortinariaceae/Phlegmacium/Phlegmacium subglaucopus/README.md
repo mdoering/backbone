@@ -1,5 +1,4 @@
-Phlegmacium subglaucopus (Eichhorn) M.M. Moser SPECIES
-=======
+# Phlegmacium subglaucopus (Eichhorn) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

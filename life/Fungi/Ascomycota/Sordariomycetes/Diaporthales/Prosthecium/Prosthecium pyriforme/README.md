@@ -1,5 +1,4 @@
-Prosthecium pyriforme Jakl. & Voglmayr SPECIES
-=======
+# Prosthecium pyriforme Jakl. & Voglmayr SPECIES
 
 #### Status
 ACCEPTED

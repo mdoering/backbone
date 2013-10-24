@@ -1,5 +1,4 @@
-Parmelia madeirensis Tav. SPECIES
-=======
+# Parmelia madeirensis Tav. SPECIES
 
 #### Status
 ACCEPTED

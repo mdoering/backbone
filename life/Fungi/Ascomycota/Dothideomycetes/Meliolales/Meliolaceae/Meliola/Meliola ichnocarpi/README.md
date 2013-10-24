@@ -1,5 +1,4 @@
-Meliola ichnocarpi Hansf. & Thirum. SPECIES
-=======
+# Meliola ichnocarpi Hansf. & Thirum. SPECIES
 
 #### Status
 ACCEPTED

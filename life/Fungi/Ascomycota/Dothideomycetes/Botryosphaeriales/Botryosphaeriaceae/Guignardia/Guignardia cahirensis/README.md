@@ -1,5 +1,4 @@
-Guignardia cahirensis (J. Steiner) Sacc. SPECIES
-=======
+# Guignardia cahirensis (J. Steiner) Sacc. SPECIES
 
 #### Status
 ACCEPTED

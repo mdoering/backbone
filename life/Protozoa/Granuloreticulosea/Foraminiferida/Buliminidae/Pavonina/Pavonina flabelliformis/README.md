@@ -1,5 +1,4 @@
-Pavonina flabelliformis SPECIES
-=======
+# Pavonina flabelliformis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridium lepidigenoides Ellis & Everh. SPECIES
-=======
+# Asteridium lepidigenoides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prillieuxia flavorubra Rick SPECIES
-=======
+# Prillieuxia flavorubra Rick SPECIES
 
 #### Status
 ACCEPTED

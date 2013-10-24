@@ -1,5 +1,4 @@
-Rosellinia gagliardi (De Not.) Sacc. SPECIES
-=======
+# Rosellinia gagliardi (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

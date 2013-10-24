@@ -1,5 +1,4 @@
-Calicium cerviculatum Ach. SPECIES
-=======
+# Calicium cerviculatum Ach. SPECIES
 
 #### Status
 ACCEPTED

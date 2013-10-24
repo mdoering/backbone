@@ -1,5 +1,4 @@
-Pegleromyces collybioides Singer, 1981 SPECIES
-=======
+# Pegleromyces collybioides Singer, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Pyrenochaeta filarskyi Bubák SPECIES
-=======
+# Pyrenochaeta filarszkyi Bubák SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pyrenochaeta filarskyi Bubák
+Pyrenochaeta filarszkyi Bubák
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Peltigera rufescens var. rufescens VARIETY
-=======
+# Peltigera rufescens (Weiss) Humb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Fl. Friberg. Spec. (Berlin) 2 (1793)
 
 #### Original name
-Peltigera rufescens var. rufescens
+Lichen caninus var. rufescens Weiss
 
 ### Remarks
 null

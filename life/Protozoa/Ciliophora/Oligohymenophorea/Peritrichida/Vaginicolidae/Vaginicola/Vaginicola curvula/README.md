@@ -1,5 +1,4 @@
-Vaginicola curvula Dons, 1922 SPECIES
-=======
+# Vaginicola curvula Dons, 1922 SPECIES
 
 #### Status
 ACCEPTED

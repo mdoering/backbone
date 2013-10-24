@@ -1,5 +1,4 @@
-Carchesium corybosum Penard, 1922 SPECIES
-=======
+# Carchesium corybosum Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

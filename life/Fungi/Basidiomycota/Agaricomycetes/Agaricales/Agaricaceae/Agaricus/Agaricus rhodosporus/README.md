@@ -1,5 +1,4 @@
-Agaricus rhodosporus Broome & W.G. Sm. SPECIES
-=======
+# Agaricus rhodosporus Broome & W.G. Sm. SPECIES
 
 #### Status
 ACCEPTED

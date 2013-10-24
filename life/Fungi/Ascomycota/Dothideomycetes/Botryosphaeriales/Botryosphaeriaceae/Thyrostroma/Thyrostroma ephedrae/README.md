@@ -1,5 +1,4 @@
-Thyrostroma ephedrae Petr. SPECIES
-=======
+# Thyrostroma ephedrae Petr. SPECIES
 
 #### Status
 ACCEPTED

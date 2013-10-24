@@ -1,5 +1,4 @@
-Phyllachora muehlenbergiae (Ellis) Sacc., 1883 SPECIES
-=======
+# Phyllachora muehlenbergiae (Ellis) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

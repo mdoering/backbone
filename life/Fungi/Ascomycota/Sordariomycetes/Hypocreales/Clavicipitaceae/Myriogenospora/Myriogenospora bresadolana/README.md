@@ -1,17 +1,16 @@
-Myriogenospora bresadoleana Henn. SPECIES
-=======
+# Myriogenospora bresadolana Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 41: 9 (1902)
 
 #### Original name
-Myriogenospora bresadoleana Henn.
+Myriogenospora bresadolana Henn.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Corethromyces thinocarinus Thaxt. SPECIES
-=======
+# Corethromyces thinocarinus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

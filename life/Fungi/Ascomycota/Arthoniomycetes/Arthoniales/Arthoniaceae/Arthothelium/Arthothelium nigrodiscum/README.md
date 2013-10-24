@@ -1,5 +1,4 @@
-Arthothelium nigrodiscum Patw. & Makhija SPECIES
-=======
+# Arthothelium nigrodiscum Patw. & Makhija SPECIES
 
 #### Status
 ACCEPTED

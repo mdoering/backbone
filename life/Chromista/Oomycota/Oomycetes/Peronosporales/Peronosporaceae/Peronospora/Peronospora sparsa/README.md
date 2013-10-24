@@ -1,17 +1,16 @@
-Peronospora rosae-gallicae Savul. & Rayss, 1934 SPECIES
-=======
+# Peronospora sparsa Berk., 1862 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 32(1/2): 45 (1934)
+Gard. Chron. , London 308 (1862)
 
 #### Original name
-Peronospora rosae-gallicae Savul. & Rayss, 1934
+Peronospora sparsa Berk., 1862
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Clathrus pusillus Berk. SPECIES
-=======
+# Clathrus pusillus Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Saccharomyces mangini var. tetrasporus Beij. ex Stell.-Dekk. VARIETY
-=======
+# Saccharomyces paradoxus Bach.-Raich., 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Zhurnal Mikrobiologii, Epidemiologii i Immunobiologii 1: 231 (1914)
 
 #### Original name
-null
+Saccharomyces paradoxus Bach.-Raich., 1914
 
 ### Remarks
 null

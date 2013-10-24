@@ -1,17 +1,16 @@
-Meliola serjanicola Bat. & A.F. Vital SPECIES
-=======
+# Meliola serjaniicola Bat. & A.F. Vital SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 18(1): 14 (1926)
 
 #### Original name
-Meliola serjanicola Bat. & A.F. Vital
+Meliola serjaniicola Bat. & A.F. Vital
 
 ### Remarks
 null

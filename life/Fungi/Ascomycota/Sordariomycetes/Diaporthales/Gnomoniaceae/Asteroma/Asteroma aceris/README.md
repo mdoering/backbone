@@ -1,5 +1,4 @@
-Asteroma aceris Roberge ex Desm. SPECIES
-=======
+# Asteroma aceris Roberge ex Desm. SPECIES
 
 #### Status
 ACCEPTED

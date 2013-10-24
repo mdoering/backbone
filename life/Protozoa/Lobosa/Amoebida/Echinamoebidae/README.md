@@ -1,5 +1,4 @@
-Echinamoebidae FAMILY
-=======
+# Echinamoebidae FAMILY
 
 #### Status
 ACCEPTED

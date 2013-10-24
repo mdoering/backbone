@@ -1,5 +1,4 @@
-Aecidium imperatoriae Cruchet SPECIES
-=======
+# Aecidium imperatoriae Cruchet SPECIES
 
 #### Status
 ACCEPTED

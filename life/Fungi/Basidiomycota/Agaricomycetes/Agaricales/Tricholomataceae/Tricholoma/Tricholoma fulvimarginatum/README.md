@@ -1,5 +1,4 @@
-Tricholoma fulvimarginatum Ovrebo & Halling SPECIES
-=======
+# Tricholoma fulvimarginatum Ovrebo & Halling SPECIES
 
 #### Status
 ACCEPTED

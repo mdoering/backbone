@@ -1,5 +1,4 @@
-Cortinarius friesii Bres. & Schulzer SPECIES
-=======
+# Cortinarius friesii Bres. & Schulzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cetrelia pseudocollata Randlane & Saag SPECIES
-=======
+# Cetrelia pseudocollata Randlane & Saag SPECIES
 
 #### Status
 ACCEPTED

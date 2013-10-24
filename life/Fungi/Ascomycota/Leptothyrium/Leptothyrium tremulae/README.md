@@ -1,5 +1,4 @@
-Leptothyrium tremulae Lib. SPECIES
-=======
+# Leptothyrium tremulae Lib. SPECIES
 
 #### Status
 ACCEPTED

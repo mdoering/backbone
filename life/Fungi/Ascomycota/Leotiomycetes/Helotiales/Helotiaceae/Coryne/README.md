@@ -1,17 +1,16 @@
-Pirobasidium Höhn. GENUS
-=======
+# Coryne Nees, 1816 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 111: 1001 (1902)
+Syst. Pilze (Würzburg) 157 (1816)
 
 #### Original name
-Pirobasidium Höhn.
+Coryne Nees, 1816
 
 ### Remarks
 null

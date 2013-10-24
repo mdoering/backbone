@@ -1,17 +1,16 @@
-Anisolpidium saprobium Karling, 1968 SPECIES
-=======
+# Hyphochytrium elongatum (Karling) M.W. Dick, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Straminipilous Fungi (Dordrecht) 331 (2001)
 
 #### Original name
-Anisolpidium saprobium Karling, 1968
+Anisolpidium elongatum Karling, 1977
 
 ### Remarks
 null

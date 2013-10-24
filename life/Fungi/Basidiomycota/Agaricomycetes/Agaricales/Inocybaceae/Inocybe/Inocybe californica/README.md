@@ -1,5 +1,4 @@
-Inocybe californica Kauffman SPECIES
-=======
+# Inocybe californica Kauffman SPECIES
 
 #### Status
 ACCEPTED

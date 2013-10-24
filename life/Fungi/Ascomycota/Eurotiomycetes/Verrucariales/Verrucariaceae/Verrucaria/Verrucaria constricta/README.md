@@ -1,5 +1,4 @@
-Verrucaria constricta Zschacke SPECIES
-=======
+# Verrucaria constricta Zschacke SPECIES
 
 #### Status
 ACCEPTED

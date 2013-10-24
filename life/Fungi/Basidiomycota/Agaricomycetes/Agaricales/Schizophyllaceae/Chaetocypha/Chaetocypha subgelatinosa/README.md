@@ -1,5 +1,4 @@
-Chaetocypha subgelatinosa (Berk. & Ravenel) Kuntze SPECIES
-=======
+# Chaetocypha subgelatinosa (Berk. & Ravenel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

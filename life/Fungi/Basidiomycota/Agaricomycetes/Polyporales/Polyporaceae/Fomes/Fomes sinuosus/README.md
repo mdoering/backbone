@@ -1,5 +1,4 @@
-Fomes sinuosus Berk. SPECIES
-=======
+# Fomes sinuosus Berk. SPECIES
 
 #### Status
 ACCEPTED

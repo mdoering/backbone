@@ -1,17 +1,16 @@
-Trichocicinnus subgen. Saccardo von Höhnel, 1926 GENUS
-=======
+# Chaetosticta Petr. & Syd. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 23(3/6): 270 (1925)
 
 #### Original name
-null
+Chaetosticta Petr. & Syd.
 
 ### Remarks
 null

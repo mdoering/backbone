@@ -1,5 +1,4 @@
-Thermomucor Subrahamanyam, B.S. Mehrotra & Thirumalachar, 1977 GENUS
-=======
+# Thermomucor Subrahamanyam, B.S. Mehrotra & Thirumalachar, 1977 GENUS
 
 #### Status
 ACCEPTED

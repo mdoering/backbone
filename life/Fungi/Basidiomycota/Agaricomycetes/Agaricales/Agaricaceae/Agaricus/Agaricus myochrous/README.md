@@ -1,5 +1,4 @@
-Agaricus myochrous Berk. & Broome SPECIES
-=======
+# Agaricus myochrous Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

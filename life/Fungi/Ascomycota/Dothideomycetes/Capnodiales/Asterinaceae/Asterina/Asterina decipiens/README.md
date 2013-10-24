@@ -1,5 +1,4 @@
-Asterina decipiens Syd. & P. Syd. SPECIES
-=======
+# Asterina decipiens Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

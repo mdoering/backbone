@@ -1,17 +1,16 @@
-Prosporobolomyces E.K. Novák & Zsolt GENUS
-=======
+# Sporobolomyces Kluyver & C.B. Niel GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta microbiol. hung. 7: 99 (1961)
+Zentbl. Bakt. ParasitKde, Abt. II 63: 19 (1924)
 
 #### Original name
-Prosporobolomyces E.K. Novák & Zsolt
+Sporobolomyces Kluyver & C.B. Niel
 
 ### Remarks
 null

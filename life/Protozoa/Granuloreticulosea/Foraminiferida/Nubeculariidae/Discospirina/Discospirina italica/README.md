@@ -1,5 +1,4 @@
-Discospirina italica (Costa, 1856) SPECIES
-=======
+# Discospirina italica (Costa, 1856) SPECIES
 
 #### Status
 ACCEPTED

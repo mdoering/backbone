@@ -1,5 +1,4 @@
-Verticillium corticii Sacc. SPECIES
-=======
+# Verticillium corticii Sacc. SPECIES
 
 #### Status
 ACCEPTED

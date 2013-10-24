@@ -1,5 +1,4 @@
-Pseudohelotium apicale (Berk. & Broome) Sacc. SPECIES
-=======
+# Pseudohelotium apicale (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

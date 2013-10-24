@@ -1,5 +1,4 @@
-Aspergillus lepidophyton Pinoy SPECIES
-=======
+# Aspergillus lepidophyton Pinoy SPECIES
 
 #### Status
 ACCEPTED

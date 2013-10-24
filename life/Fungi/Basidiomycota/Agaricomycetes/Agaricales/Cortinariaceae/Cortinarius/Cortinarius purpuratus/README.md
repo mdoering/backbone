@@ -1,5 +1,4 @@
-Cortinarius purpuratus Rob. Henry SPECIES
-=======
+# Cortinarius purpuratus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

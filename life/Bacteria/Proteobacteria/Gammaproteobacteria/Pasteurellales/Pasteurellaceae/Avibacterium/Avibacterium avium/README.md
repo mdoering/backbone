@@ -1,8 +1,7 @@
-Haemophilus avium Hinz and Kunjara, 1977 (Approved Lists, 1980) SPECIES
-=======
+# Avibacterium avium (Hinz & Kunjara, 1977) Blackall et al., 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

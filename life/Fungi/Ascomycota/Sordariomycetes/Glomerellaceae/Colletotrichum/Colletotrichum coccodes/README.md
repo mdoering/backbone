@@ -1,17 +1,16 @@
-Vermicularia atramentaria f. hispanica Gonz. Frag. FORM
-=======
+# Colletotrichum coccodes (Wallr.) S. Hughes, 1958 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 36: 754 (1958)
 
 #### Original name
-Vermicularia atramentaria f. hispanica Gonz. Frag.
+Chaetomium coccodes Wallr., 1833
 
 ### Remarks
 null

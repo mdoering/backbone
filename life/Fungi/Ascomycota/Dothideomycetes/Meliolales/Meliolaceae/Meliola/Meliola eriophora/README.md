@@ -1,5 +1,4 @@
-Meliola eriophora Speg. SPECIES
-=======
+# Meliola eriophora Speg. SPECIES
 
 #### Status
 ACCEPTED

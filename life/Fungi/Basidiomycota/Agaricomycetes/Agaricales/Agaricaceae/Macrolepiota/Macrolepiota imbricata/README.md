@@ -1,5 +1,4 @@
-Macrolepiota imbricata (Henn.) Pegler SPECIES
-=======
+# Macrolepiota imbricata (Henn.) Pegler SPECIES
 
 #### Status
 ACCEPTED

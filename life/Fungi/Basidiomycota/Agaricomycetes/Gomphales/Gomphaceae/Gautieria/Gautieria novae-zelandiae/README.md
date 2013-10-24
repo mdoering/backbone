@@ -1,17 +1,16 @@
-Gautieria novaezelandiae G. Cunn. SPECIES
-=======
+# Gautieria novae-zelandiae G. Cunn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Linn. Soc. N. S. W. 409 (1938)
 
 #### Original name
-Gautieria novaezelandiae G. Cunn.
+Gautieria novae-zelandiae G. Cunn.
 
 ### Remarks
 null

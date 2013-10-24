@@ -1,5 +1,4 @@
-Opegrapha discoides Jatta SPECIES
-=======
+# Opegrapha discoides Jatta SPECIES
 
 #### Status
 ACCEPTED

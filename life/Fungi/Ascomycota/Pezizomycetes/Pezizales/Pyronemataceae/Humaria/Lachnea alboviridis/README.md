@@ -1,5 +1,4 @@
-Lachnea alboviridis Gillet SPECIES
-=======
+# Lachnea alboviridis Gillet SPECIES
 
 #### Status
 ACCEPTED

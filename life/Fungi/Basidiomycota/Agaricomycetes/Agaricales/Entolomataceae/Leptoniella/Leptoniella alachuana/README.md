@@ -1,5 +1,4 @@
-Leptoniella alachuana Murrill SPECIES
-=======
+# Leptoniella alachuana Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botrytis pellicula Schwein. SPECIES
-=======
+# Botrytis pellicula Schwein. SPECIES
 
 #### Status
 ACCEPTED

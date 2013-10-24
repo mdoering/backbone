@@ -1,5 +1,4 @@
-Biatora wrightii (Tuck.) Tuck. SPECIES
-=======
+# Biatora wrightii (Tuck.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

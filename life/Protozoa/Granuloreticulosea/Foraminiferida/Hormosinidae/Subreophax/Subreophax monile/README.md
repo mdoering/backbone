@@ -1,5 +1,4 @@
-Subreophax monile (Brady, 1881) SPECIES
-=======
+# Subreophax monile (Brady, 1881) SPECIES
 
 #### Status
 ACCEPTED

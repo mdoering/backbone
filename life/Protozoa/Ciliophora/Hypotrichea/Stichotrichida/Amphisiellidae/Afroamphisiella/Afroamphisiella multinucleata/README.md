@@ -1,5 +1,4 @@
-Afroamphisiella multinucleata Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Afroamphisiella multinucleata Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

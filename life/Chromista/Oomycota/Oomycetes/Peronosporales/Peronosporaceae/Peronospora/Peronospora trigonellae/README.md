@@ -1,5 +1,4 @@
-Peronospora trigonellae Gäum., 1923 SPECIES
-=======
+# Peronospora trigonellae Gäum., 1923 SPECIES
 
 #### Status
 ACCEPTED

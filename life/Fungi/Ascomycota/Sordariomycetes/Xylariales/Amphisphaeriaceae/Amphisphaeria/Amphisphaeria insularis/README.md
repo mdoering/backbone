@@ -1,5 +1,4 @@
-Amphisphaeria insularis S.H. Ou SPECIES
-=======
+# Amphisphaeria insularis S.H. Ou SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria rigidipes Speg. SPECIES
-=======
+# Naucoria rigidipes Speg. SPECIES
 
 #### Status
 ACCEPTED

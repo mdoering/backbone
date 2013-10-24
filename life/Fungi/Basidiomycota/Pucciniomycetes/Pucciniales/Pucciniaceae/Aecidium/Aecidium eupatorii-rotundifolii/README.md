@@ -1,5 +1,4 @@
-Aecidium eupatorii-rotundifolii Savile SPECIES
-=======
+# Aecidium eupatorii-rotundifolii Savile SPECIES
 
 #### Status
 ACCEPTED

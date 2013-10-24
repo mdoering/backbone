@@ -1,8 +1,7 @@
-Distigmopsis grassei Hollande SPECIES
-=======
+# Distigma grassei (Holland) Bourrelly SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Helotium epilobii Velen. SPECIES
-=======
+# Helotium epilobii Velen. SPECIES
 
 #### Status
 ACCEPTED

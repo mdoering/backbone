@@ -1,14 +1,13 @@
-Catacauma nitidissimum (Berk. & M.A. Curtis) Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora nitidissima (Berk. & M.A. Curtis) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 13(3/4): 398 (1915)
+Syll. fung. (Abellini) 2: 600 (1883)
 
 #### Original name
 Dothidea nitidissima Berk. & M.A. Curtis, 1868

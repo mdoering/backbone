@@ -1,8 +1,7 @@
-Funicularius tuberculatus Roussel SPECIES
-=======
+# Himanthalia elongata (Linnaeus) S.F. Gray SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Halorhodospira neutriphila Hirschler-Réa et al., 2003 SPECIES
-=======
+# Halorhodospira neutriphila Hirschler-Réa et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

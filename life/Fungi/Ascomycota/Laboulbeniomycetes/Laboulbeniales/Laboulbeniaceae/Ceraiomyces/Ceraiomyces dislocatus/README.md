@@ -1,5 +1,4 @@
-Ceraiomyces dislocatus Thaxt. SPECIES
-=======
+# Ceraiomyces dislocatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

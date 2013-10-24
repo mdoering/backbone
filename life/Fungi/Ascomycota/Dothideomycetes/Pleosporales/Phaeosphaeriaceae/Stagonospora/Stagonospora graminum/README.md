@@ -1,5 +1,4 @@
-Stagonospora graminum Sacc. & Scalia SPECIES
-=======
+# Stagonospora graminum Sacc. & Scalia SPECIES
 
 #### Status
 ACCEPTED

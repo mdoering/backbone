@@ -1,5 +1,4 @@
-Mycoblastus leprarioides Kantvilas & Elix SPECIES
-=======
+# Mycoblastus leprarioides Kantvilas & Elix SPECIES
 
 #### Status
 ACCEPTED

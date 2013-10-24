@@ -1,5 +1,4 @@
-Leptodothiorella glycosmidis (Syd., P. Syd. & E.J. Butler) Aa SPECIES
-=======
+# Leptodothiorella glycosmidis (Syd., P. Syd. & E.J. Butler) Aa SPECIES
 
 #### Status
 ACCEPTED

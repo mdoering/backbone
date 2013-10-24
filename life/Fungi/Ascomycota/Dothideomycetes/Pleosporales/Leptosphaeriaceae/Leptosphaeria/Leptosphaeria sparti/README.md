@@ -1,5 +1,4 @@
-Leptosphaeria sparti Tassi SPECIES
-=======
+# Leptosphaeria sparti Tassi SPECIES
 
 #### Status
 ACCEPTED

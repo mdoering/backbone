@@ -1,5 +1,4 @@
-Stereocaulon depreaultii Delise ex Nyl. SPECIES
-=======
+# Stereocaulon depreaultii Delise ex Nyl. SPECIES
 
 #### Status
 ACCEPTED

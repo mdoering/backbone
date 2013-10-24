@@ -1,5 +1,4 @@
-Polystictus pruinatus Berk. & Klotzsch SPECIES
-=======
+# Polystictus pruinatus Berk. & Klotzsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus subtilissimus Oudem. SPECIES
-=======
+# Agaricus subtilissimus Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leciographa nivalis Bagl. & Carestia SPECIES
-=======
+# Leciographa nivalis Bagl. & Carestia SPECIES
 
 #### Status
 ACCEPTED

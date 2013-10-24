@@ -1,14 +1,13 @@
-Labyrinthuloides schizochytrops J.A. Quick, 1974 SPECIES
-=======
+# Aplanochytrium schizochytrops (J.A. Quick) C.A. Leander & D. Porter, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Am. microsc. Soc. 93(3): 345 (1974)
+Mycotaxon 76: 442 (2000)
 
 #### Original name
 Labyrinthuloides schizochytrops J.A. Quick, 1974

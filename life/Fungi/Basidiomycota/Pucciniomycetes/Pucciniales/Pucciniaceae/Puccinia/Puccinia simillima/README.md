@@ -1,5 +1,4 @@
-Puccinia simillima Arthur SPECIES
-=======
+# Puccinia simillima Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Panellus albifavolus Corner, 1986 SPECIES
-=======
+# Panellus albifavolus Corner, 1986 SPECIES
 
 #### Status
 ACCEPTED

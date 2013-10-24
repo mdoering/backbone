@@ -1,5 +1,4 @@
-Sclerotium juncinum Desm. SPECIES
-=======
+# Sclerotium juncinum Desm. SPECIES
 
 #### Status
 ACCEPTED

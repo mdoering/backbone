@@ -1,5 +1,4 @@
-Hirneolina hirneoloides (Pat.) Sacc. & Trotter SPECIES
-=======
+# Hirneolina hirneoloides (Pat.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acremonium macrocatenatum Matsush. SPECIES
-=======
+# Acremonium macrocatenatum Matsush. SPECIES
 
 #### Status
 ACCEPTED

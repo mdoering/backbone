@@ -1,5 +1,4 @@
-Xenorhabdus ehlersii Lengyel et al., 2005 SPECIES
-=======
+# Xenorhabdus ehlersii Lengyel et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

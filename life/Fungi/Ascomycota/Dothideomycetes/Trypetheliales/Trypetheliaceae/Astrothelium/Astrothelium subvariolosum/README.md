@@ -1,5 +1,4 @@
-Astrothelium subvariolosum Makhija & Patw. SPECIES
-=======
+# Astrothelium subvariolosum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

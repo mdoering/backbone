@@ -1,5 +1,4 @@
-Castellania nogamii C.W. Dodge SPECIES
-=======
+# Castellania nogamii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

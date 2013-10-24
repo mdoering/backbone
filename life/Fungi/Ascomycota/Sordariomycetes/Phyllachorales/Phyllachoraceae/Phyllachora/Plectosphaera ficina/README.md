@@ -1,5 +1,4 @@
-Plectosphaera ficina var. minor Bat. & Peres VARIETY
-=======
+# Plectosphaera ficina anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Atas Inst. Micol. Univ. Pernambuco 4: 17 (1967)
+null
 
 #### Original name
-Plectosphaera ficina var. minor Bat. & Peres
+Plectosphaera ficina anon.
 
 ### Remarks
 null

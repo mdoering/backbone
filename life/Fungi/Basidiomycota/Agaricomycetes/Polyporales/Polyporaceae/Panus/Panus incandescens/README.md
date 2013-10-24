@@ -1,14 +1,13 @@
-Pocillaria incandescens (Berk. & Broome) Kuntze, 1898 SPECIES
-=======
+# Panus incandescens Berk. & Broome, 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 506 (1898)
+Trans. Linn. Soc. London, Bot. , Ser. 2 2: 55 (1882)
 
 #### Original name
 Panus incandescens Berk. & Broome, 1882

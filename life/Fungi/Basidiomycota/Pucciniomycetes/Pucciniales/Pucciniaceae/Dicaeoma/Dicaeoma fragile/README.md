@@ -1,5 +1,4 @@
-Dicaeoma fragile (L.D. Galloway & Tracy) Kuntze SPECIES
-=======
+# Dicaeoma fragile (L.D. Galloway & Tracy) Kuntze SPECIES
 
 #### Status
 ACCEPTED

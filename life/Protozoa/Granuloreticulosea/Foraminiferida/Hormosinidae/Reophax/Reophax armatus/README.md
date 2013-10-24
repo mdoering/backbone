@@ -1,5 +1,4 @@
-Reophax armatus Goes, 1896 SPECIES
-=======
+# Reophax armatus Goes, 1896 SPECIES
 
 #### Status
 ACCEPTED

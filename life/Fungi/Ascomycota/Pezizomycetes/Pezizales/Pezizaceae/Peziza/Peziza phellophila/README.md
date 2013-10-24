@@ -1,5 +1,4 @@
-Peziza phellophila Durieu & Lév. SPECIES
-=======
+# Peziza phellophila Durieu & Lév. SPECIES
 
 #### Status
 ACCEPTED

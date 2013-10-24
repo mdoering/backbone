@@ -1,17 +1,16 @@
-Microphiodothis Speg. GENUS
-=======
+# Ophiodothella (Henn.) Höhn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boletín de la Academia Nacional de Ciencias de Córdoba 23: 495 (1919)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 119: 940 (1910)
 
 #### Original name
-Microphiodothis Speg.
+null
 
 ### Remarks
 null

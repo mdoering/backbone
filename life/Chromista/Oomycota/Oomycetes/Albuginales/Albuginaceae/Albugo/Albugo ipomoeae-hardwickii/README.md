@@ -1,5 +1,4 @@
-Albugo ipomoeae-hardwickii Sawada SPECIES
-=======
+# Albugo ipomoeae-hardwickii Sawada SPECIES
 
 #### Status
 ACCEPTED

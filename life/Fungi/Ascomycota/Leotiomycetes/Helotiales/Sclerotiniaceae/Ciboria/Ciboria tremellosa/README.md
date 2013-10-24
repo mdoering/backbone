@@ -1,5 +1,4 @@
-Ciboria tremellosa Fuckel SPECIES
-=======
+# Ciboria tremellosa Fuckel SPECIES
 
 #### Status
 ACCEPTED

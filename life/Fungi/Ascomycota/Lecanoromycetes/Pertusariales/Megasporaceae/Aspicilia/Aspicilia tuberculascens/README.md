@@ -1,5 +1,4 @@
-Aspicilia tuberculascens Motyka SPECIES
-=======
+# Aspicilia tuberculascens Motyka SPECIES
 
 #### Status
 ACCEPTED

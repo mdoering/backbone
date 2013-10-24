@@ -1,5 +1,4 @@
-Farysia globispora Vánky & R.G. Shivas, 2009 SPECIES
-=======
+# Farysia globispora Vánky & R.G. Shivas, 2009 SPECIES
 
 #### Status
 ACCEPTED

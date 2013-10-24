@@ -1,5 +1,4 @@
-Leccinum manzanitae Thiers SPECIES
-=======
+# Leccinum manzanitae Thiers SPECIES
 
 #### Status
 ACCEPTED

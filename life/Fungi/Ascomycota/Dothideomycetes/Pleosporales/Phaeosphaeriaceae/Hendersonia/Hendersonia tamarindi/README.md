@@ -1,5 +1,4 @@
-Hendersonia tamarindi Syd. {?} SPECIES
-=======
+# Hendersonia tamarindi Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agrippina Strickland, 1912 GENUS
-=======
+# Agrippina Strickland, 1912 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Versiomyces cahuchucosus Whalley & Watling SPECIES
-=======
+# Versiomyces cahuchucosus Whalley & Watling SPECIES
 
 #### Status
 ACCEPTED

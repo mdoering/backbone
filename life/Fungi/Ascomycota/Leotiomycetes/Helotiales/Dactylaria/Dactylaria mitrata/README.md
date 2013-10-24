@@ -1,17 +1,16 @@
-Hemibeltrania mitrata P.M. Kirk, 1983 SPECIES
-=======
+# Dactylaria mitrata Matsush., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 18(2): 275 (1983)
+Matsush. Mycol. Mem. , no. 3 3: 8 (1983)
 
 #### Original name
-Hemibeltrania mitrata P.M. Kirk, 1983
+Dactylaria mitrata Matsush., 1983
 
 ### Remarks
 null

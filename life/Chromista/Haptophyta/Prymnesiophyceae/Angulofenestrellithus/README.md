@@ -1,5 +1,4 @@
-Angulofenestrellithus J.D.Bukry GENUS
-=======
+# Angulofenestrellithus J.D.Bukry GENUS
 
 #### Status
 ACCEPTED

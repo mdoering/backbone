@@ -1,5 +1,4 @@
-Archaeodiscina formosa Naumova & Pavlovski, 1961 SPECIES
-=======
+# Archaeodiscina formosa Naumova & Pavlovski, 1961 SPECIES
 
 #### Status
 ACCEPTED

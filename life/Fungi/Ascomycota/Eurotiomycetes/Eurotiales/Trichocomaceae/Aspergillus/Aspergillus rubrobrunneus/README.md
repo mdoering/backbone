@@ -1,5 +1,4 @@
-Aspergillus rubrobrunneus Samson & W. Gams SPECIES
-=======
+# Aspergillus rubrobrunneus Samson & W. Gams SPECIES
 
 #### Status
 ACCEPTED

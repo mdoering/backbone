@@ -1,5 +1,4 @@
-Cortinarius tomentosus Rob. Henry SPECIES
-=======
+# Cortinarius tomentosus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

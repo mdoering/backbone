@@ -1,5 +1,4 @@
-Leptogium caespitellum Nyl. SPECIES
-=======
+# Leptogium caespitellum Nyl. SPECIES
 
 #### Status
 ACCEPTED

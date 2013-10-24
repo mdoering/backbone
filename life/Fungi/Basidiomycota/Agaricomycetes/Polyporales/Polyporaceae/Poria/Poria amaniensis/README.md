@@ -1,5 +1,4 @@
-Poria amaniensis Henn. SPECIES
-=======
+# Poria amaniensis Henn. SPECIES
 
 #### Status
 ACCEPTED

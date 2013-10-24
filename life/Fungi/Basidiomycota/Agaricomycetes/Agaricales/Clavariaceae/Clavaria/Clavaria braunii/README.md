@@ -1,5 +1,4 @@
-Clavaria braunii Henn. SPECIES
-=======
+# Clavaria braunii Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora tridacis-procumbentis Thirum. & Govindu, 1953 SPECIES
-=======
+# Cercospora tridacis-procumbentis Thirum. & Govindu, 1953 SPECIES
 
 #### Status
 ACCEPTED

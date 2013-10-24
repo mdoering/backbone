@@ -1,17 +1,16 @@
-Elaphomyces variegatus var. variegatus VARIETY
-=======
+# Elaphomyces muricatus Fr., 1829 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Tuberac. (Milano) 68 (1831)
+Syst. mycol. (Lundae) 3(1): 59 (1829)
 
 #### Original name
-Elaphomyces variegatus var. variegatus
+Elaphomyces muricatus Fr., 1829
 
 ### Remarks
 null

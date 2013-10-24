@@ -1,5 +1,4 @@
-Puccinia caricis-diffusa Erikss. SPECIES
-=======
+# Puccinia caricis-diffusa Erikss. SPECIES
 
 #### Status
 ACCEPTED

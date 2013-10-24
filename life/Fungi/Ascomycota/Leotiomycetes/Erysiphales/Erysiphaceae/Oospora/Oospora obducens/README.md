@@ -1,5 +1,4 @@
-Oospora obducens Syd. SPECIES
-=======
+# Oospora obducens Syd. SPECIES
 
 #### Status
 ACCEPTED

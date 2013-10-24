@@ -1,17 +1,16 @@
-Lecidea inactiva Zahlbr. SPECIES
-=======
+# Carbonea inactiva (Zahlbr.) Hertel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beih. Nova Hedwigia 79: 443 (1984)
 
 #### Original name
-null
+Lecidea inactiva Zahlbr.
 
 ### Remarks
 null

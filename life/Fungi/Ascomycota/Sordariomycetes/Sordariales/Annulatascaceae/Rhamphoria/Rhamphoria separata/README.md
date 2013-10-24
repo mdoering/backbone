@@ -1,5 +1,4 @@
-Rhamphoria separata Munk, 1948 SPECIES
-=======
+# Rhamphoria separata Munk, 1948 SPECIES
 
 #### Status
 ACCEPTED

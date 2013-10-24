@@ -1,5 +1,4 @@
-Platycola circularis Dons, 1940 SPECIES
-=======
+# Platycola circularis Dons, 1940 SPECIES
 
 #### Status
 ACCEPTED

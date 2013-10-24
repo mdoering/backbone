@@ -1,5 +1,4 @@
-Leotia queletii Cooke SPECIES
-=======
+# Leotia queletii Cooke SPECIES
 
 #### Status
 ACCEPTED

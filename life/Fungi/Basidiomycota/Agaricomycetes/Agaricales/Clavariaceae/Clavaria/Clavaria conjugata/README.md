@@ -1,5 +1,4 @@
-Clavaria conjugata Hoffm. SPECIES
-=======
+# Clavaria conjugata Hoffm. SPECIES
 
 #### Status
 ACCEPTED

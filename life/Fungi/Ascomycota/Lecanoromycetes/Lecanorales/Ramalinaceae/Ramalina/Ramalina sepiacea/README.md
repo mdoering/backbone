@@ -1,5 +1,4 @@
-Ramalina sepiacea var. sepiacea VARIETY
-=======
+# Ramalina sepiacea (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

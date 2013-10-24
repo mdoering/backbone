@@ -1,14 +1,13 @@
-Antrodiella semisupina var. parasitica (Vampola) Krieglst., 1999 VARIETY
-=======
+# Antrodiella parasitica Vampola, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beitr. Kenntn. Pilze Mitteleur. 12: 49 (1999)
+Ceská Mykol. 45(1-2): 10 (1991)
 
 #### Original name
 Antrodiella parasitica Vampola, 1991

@@ -1,5 +1,4 @@
-Epitea GENUS
-=======
+# Epitea GENUS
 
 #### Status
 ACCEPTED

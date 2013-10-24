@@ -1,5 +1,4 @@
-Aspicilia nordlandica (H. Magn.) Degel. SPECIES
-=======
+# Aspicilia nordlandica (H. Magn.) Degel. SPECIES
 
 #### Status
 ACCEPTED

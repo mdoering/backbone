@@ -1,5 +1,4 @@
-Acrothecium delicatulum Berk. & Broome, 1845 SPECIES
-=======
+# Acrothecium delicatulum Berk. & Broome, 1845 SPECIES
 
 #### Status
 ACCEPTED

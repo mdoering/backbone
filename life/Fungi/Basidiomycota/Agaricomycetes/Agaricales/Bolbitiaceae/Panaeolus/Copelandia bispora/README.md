@@ -1,5 +1,4 @@
-Copelandia bispora (Malençon & Bertault) Singer & R.A. Weeks SPECIES
-=======
+# Copelandia bispora (Malençon & Bertault) Singer & R.A. Weeks SPECIES
 
 #### Status
 ACCEPTED

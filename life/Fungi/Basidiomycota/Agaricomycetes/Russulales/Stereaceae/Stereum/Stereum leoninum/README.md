@@ -1,5 +1,4 @@
-Stereum leoninum Skovst. SPECIES
-=======
+# Stereum leoninum Skovst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurage argentinensis (Speg.) C. Moreau SPECIES
-=======
+# Pleurage argentinensis (Speg.) C. Moreau SPECIES
 
 #### Status
 ACCEPTED

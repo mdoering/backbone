@@ -1,5 +1,4 @@
-Monoicomyces ramosus Thaxt. SPECIES
-=======
+# Monoicomyces ramosus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

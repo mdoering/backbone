@@ -1,5 +1,4 @@
-Phyllosticta hemibrunnea H.Y. Yip SPECIES
-=======
+# Phyllosticta hemibrunnea H.Y. Yip SPECIES
 
 #### Status
 ACCEPTED

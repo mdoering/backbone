@@ -1,5 +1,4 @@
-Cucurbitaria cingarus Schulzer & Sacc. SPECIES
-=======
+# Cucurbitaria cingarus Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

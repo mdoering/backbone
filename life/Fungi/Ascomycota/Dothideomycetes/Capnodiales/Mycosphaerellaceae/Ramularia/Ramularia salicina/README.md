@@ -1,5 +1,4 @@
-Ramularia salicina var. salicina VARIETY
-=======
+# Ramularia salicina SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Trans. Br. mycol. Soc. 90(2): 330 (1988)
+null
 
 #### Original name
-Ramularia salicina var. salicina
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Collybia albiflavescens SPECIES
-=======
+# Collybia albiflavescens SPECIES
 
 #### Status
 ACCEPTED

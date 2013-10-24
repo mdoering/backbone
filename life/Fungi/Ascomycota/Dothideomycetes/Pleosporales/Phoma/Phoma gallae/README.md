@@ -1,5 +1,4 @@
-Phoma gallae Trotter SPECIES
-=======
+# Phoma gallae Trotter SPECIES
 
 #### Status
 ACCEPTED

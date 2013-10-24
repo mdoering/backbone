@@ -1,5 +1,4 @@
-Peziza mellina f. major Pers. FORM
-=======
+# Peziza mellina Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peziza mellina f. major Pers.
+Peziza mellina Pers.
 
 ### Remarks
 null

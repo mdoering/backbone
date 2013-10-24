@@ -1,5 +1,4 @@
-Clonostachys solani f. solani (Harting) Schroers & W. Gams, 2001 FORM
-=======
+# Clonostachys solani SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stud. Mycol. 46: 111 (2001)
+null
 
 #### Original name
-Clonostachys solani f. solani (Harting) Schroers & W. Gams, 2001
+null
 
 ### Remarks
 null

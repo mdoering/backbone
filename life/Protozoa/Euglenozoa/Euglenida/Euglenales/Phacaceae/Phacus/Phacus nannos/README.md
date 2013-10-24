@@ -1,5 +1,4 @@
-Phacus nannos Pochmann SPECIES
-=======
+# Phacus nannos Pochmann SPECIES
 
 #### Status
 ACCEPTED

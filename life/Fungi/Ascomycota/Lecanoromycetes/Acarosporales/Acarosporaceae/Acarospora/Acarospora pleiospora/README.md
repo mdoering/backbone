@@ -1,5 +1,4 @@
-Acarospora pleiospora (Nyl.) Zahlbr. SPECIES
-=======
+# Acarospora pleiospora (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

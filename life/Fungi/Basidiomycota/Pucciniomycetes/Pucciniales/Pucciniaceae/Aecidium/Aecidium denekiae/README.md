@@ -1,5 +1,4 @@
-Aecidium denekiae Doidge SPECIES
-=======
+# Aecidium denekiae Doidge SPECIES
 
 #### Status
 ACCEPTED

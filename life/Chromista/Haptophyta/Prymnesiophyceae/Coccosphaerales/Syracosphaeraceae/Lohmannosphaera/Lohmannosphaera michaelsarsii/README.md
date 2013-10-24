@@ -1,5 +1,4 @@
-Lohmannosphaera michaelsarsii SPECIES
-=======
+# Lohmannosphaera michaelsarsii SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella conspicua Syd. & P. Syd. SPECIES
-=======
+# Sphaerella conspicua Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

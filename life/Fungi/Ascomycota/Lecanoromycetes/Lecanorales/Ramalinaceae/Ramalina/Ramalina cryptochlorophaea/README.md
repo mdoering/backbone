@@ -1,5 +1,4 @@
-Ramalina cryptochlorophaea Kashiw. & T. H. Nash SPECIES
-=======
+# Ramalina cryptochlorophaea Kashiw. & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

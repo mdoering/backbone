@@ -1,5 +1,4 @@
-Laschia cagnii (Matt.) Sacc. & Trotter SPECIES
-=======
+# Laschia cagnii (Matt.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria oleracea Frezzi SPECIES
-=======
+# Leptosphaeria oleracea Frezzi SPECIES
 
 #### Status
 ACCEPTED

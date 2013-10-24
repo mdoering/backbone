@@ -1,5 +1,4 @@
-Metopus striatus McMurrich, 1884 SPECIES
-=======
+# Metopus striatus McMurrich, 1884 SPECIES
 
 #### Status
 ACCEPTED

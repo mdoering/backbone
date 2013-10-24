@@ -1,5 +1,4 @@
-Arthopyrenia globularis Körb. SPECIES
-=======
+# Arthopyrenia globularis Körb. SPECIES
 
 #### Status
 ACCEPTED

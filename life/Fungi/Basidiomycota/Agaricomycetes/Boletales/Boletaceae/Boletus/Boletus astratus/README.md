@@ -1,5 +1,4 @@
-Boletus astratus Q.B. Wang & Y.J. Yao SPECIES
-=======
+# Boletus astratus Q.B. Wang & Y.J. Yao SPECIES
 
 #### Status
 ACCEPTED

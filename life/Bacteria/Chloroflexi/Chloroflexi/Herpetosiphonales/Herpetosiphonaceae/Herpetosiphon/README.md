@@ -1,5 +1,4 @@
-Herpetosiphon GENUS
-=======
+# Herpetosiphon GENUS
 
 #### Status
 ACCEPTED

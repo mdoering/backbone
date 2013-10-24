@@ -1,5 +1,4 @@
-Monophagus GENUS
-=======
+# Monophagus GENUS
 
 #### Status
 ACCEPTED

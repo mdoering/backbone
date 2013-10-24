@@ -1,5 +1,4 @@
-Rinodina acolioides Zahlbr. SPECIES
-=======
+# Rinodina acolioides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

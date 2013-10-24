@@ -1,5 +1,4 @@
-Cortinarius armeniacellus Rob. Henry SPECIES
-=======
+# Cortinarius armeniacellus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

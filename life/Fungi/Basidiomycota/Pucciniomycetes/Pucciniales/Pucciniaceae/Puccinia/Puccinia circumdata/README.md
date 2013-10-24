@@ -1,5 +1,4 @@
-Puccinia circumdata Mains SPECIES
-=======
+# Puccinia circumdata Mains SPECIES
 
 #### Status
 ACCEPTED

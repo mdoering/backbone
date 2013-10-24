@@ -1,5 +1,4 @@
-Buellia conioptoides (Nyl.) Zahlbr. SPECIES
-=======
+# Buellia conioptoides (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

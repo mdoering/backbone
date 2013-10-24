@@ -1,5 +1,4 @@
-Gyalideopsis applanata Herrera-Camp. & Lücking SPECIES
-=======
+# Gyalideopsis applanata Herrera-Camp. & Lücking SPECIES
 
 #### Status
 ACCEPTED

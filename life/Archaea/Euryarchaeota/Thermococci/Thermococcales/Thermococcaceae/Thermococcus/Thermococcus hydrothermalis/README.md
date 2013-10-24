@@ -1,5 +1,4 @@
-Thermococcus hydrothermalis Godfroy et al., 1997 SPECIES
-=======
+# Thermococcus hydrothermalis Godfroy et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

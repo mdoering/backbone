@@ -1,5 +1,4 @@
-Marasmius contrarius Peck SPECIES
-=======
+# Marasmius contrarius Peck SPECIES
 
 #### Status
 ACCEPTED

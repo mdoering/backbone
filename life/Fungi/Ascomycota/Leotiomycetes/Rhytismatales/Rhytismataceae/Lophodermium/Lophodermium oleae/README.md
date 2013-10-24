@@ -1,5 +1,4 @@
-Lophodermium oleae A. Pande, 2008 SPECIES
-=======
+# Lophodermium oleae A. Pande, 2008 SPECIES
 
 #### Status
 ACCEPTED

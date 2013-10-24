@@ -1,5 +1,4 @@
-Pluteus hongoi Singer SPECIES
-=======
+# Pluteus hongoi Singer SPECIES
 
 #### Status
 ACCEPTED

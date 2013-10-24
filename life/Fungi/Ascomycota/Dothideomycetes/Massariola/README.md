@@ -1,5 +1,4 @@
-Massariola Füisting GENUS
-=======
+# Massariola Füisting GENUS
 
 #### Status
 ACCEPTED

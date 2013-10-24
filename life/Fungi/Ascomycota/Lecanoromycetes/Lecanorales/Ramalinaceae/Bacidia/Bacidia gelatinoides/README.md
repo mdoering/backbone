@@ -1,5 +1,4 @@
-Bacidia gelatinoides (Hepp) Zahlbr. SPECIES
-=======
+# Bacidia gelatinoides (Hepp) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

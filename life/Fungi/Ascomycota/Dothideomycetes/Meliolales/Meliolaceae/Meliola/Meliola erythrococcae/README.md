@@ -1,5 +1,4 @@
-Meliola erythrococcae (Hansf.) Cif. SPECIES
-=======
+# Meliola erythrococcae (Hansf.) Cif. SPECIES
 
 #### Status
 ACCEPTED

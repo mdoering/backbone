@@ -1,14 +1,13 @@
-Haploporus papyraceus (Schwein.) Y.C. Dai & Niemelä, 2002 SPECIES
-=======
+# Pachykytospora papyracea (Schwein.) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Dai, Niemelä & Kinnunen, Ann. bot. fenn. 39(3): 181 (2002)
+Norw. Jl Bot. 19: 233 (1972)
 
 #### Original name
 Boletus papyraceus Schwein., 1822

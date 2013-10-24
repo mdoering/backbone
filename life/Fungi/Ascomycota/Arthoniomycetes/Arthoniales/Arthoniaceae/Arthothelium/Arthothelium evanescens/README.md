@@ -1,5 +1,4 @@
-Arthothelium evanescens Øvstedal SPECIES
-=======
+# Arthothelium evanescens Øvstedal SPECIES
 
 #### Status
 ACCEPTED

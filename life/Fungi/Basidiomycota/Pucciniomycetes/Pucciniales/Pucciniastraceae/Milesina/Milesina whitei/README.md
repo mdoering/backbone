@@ -1,17 +1,16 @@
-Milesia polystichii Wineland SPECIES
-=======
+# Milesina whitei (Faull) Hirats., 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mem. Tottori Agric. Coll. 4: 123 (1936)
 
 #### Original name
-Milesia polystichii Wineland
+Milesia whitei Faull, 1932
 
 ### Remarks
 null

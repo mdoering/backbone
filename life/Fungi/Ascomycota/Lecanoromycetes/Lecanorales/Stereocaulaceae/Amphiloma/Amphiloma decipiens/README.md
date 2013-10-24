@@ -1,5 +1,4 @@
-Amphiloma decipiens (Arnold) Bagl. SPECIES
-=======
+# Amphiloma decipiens (Arnold) Bagl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dentinum albomagnum (Banker) Pouzar SPECIES
-=======
+# Dentinum albomagnum (Banker) Pouzar SPECIES
 
 #### Status
 ACCEPTED

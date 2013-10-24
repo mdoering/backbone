@@ -1,5 +1,4 @@
-Coleosporium subalpinum Wagner SPECIES
-=======
+# Coleosporium subalpinum Wagner SPECIES
 
 #### Status
 ACCEPTED

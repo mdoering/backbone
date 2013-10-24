@@ -1,5 +1,4 @@
-Hydnangium archeri (Berk.) Rodway SPECIES
-=======
+# Hydnangium archeri (Berk.) Rodway SPECIES
 
 #### Status
 ACCEPTED

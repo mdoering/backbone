@@ -1,5 +1,4 @@
-Mycosphaerella familiaris (Auersw.) Lindau SPECIES
-=======
+# Mycosphaerella familiaris (Auersw.) Lindau SPECIES
 
 #### Status
 ACCEPTED

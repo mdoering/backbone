@@ -1,5 +1,4 @@
-Alaria elliptica Kjellman, 1883 SPECIES
-=======
+# Alaria elliptica Kjellman, 1883 SPECIES
 
 #### Status
 ACCEPTED

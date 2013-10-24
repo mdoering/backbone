@@ -1,5 +1,4 @@
-Tolypothrix werneckei Budde SPECIES
-=======
+# Tolypothrix werneckei Budde SPECIES
 
 #### Status
 ACCEPTED

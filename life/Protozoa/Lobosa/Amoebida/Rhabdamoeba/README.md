@@ -1,5 +1,4 @@
-Rhabdamoeba Dunkerly, 1921 GENUS
-=======
+# Rhabdamoeba Dunkerly, 1921 GENUS
 
 #### Status
 ACCEPTED

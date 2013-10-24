@@ -1,5 +1,4 @@
-Heimatomyces simplex Thaxt. SPECIES
-=======
+# Heimatomyces simplex Thaxt. SPECIES
 
 #### Status
 ACCEPTED

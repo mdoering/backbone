@@ -1,5 +1,4 @@
-Octaviania aurea Vittad. SPECIES
-=======
+# Octaviania aurea Vittad. SPECIES
 
 #### Status
 ACCEPTED

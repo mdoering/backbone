@@ -1,5 +1,4 @@
-Discinella corticalis P. Karst., 1891 SPECIES
-=======
+# Discinella corticalis P. Karst., 1891 SPECIES
 
 #### Status
 ACCEPTED

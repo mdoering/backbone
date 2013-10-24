@@ -1,5 +1,4 @@
-Clepsis persicana GV SPECIES
-=======
+# Clepsis persicana GV SPECIES
 
 #### Status
 ACCEPTED

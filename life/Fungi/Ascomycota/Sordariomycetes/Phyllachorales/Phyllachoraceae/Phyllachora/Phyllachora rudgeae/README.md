@@ -1,5 +1,4 @@
-Phyllachora rudgeae Syd. & P. Syd., 1901 SPECIES
-=======
+# Phyllachora rudgeae Syd. & P. Syd., 1901 SPECIES
 
 #### Status
 ACCEPTED

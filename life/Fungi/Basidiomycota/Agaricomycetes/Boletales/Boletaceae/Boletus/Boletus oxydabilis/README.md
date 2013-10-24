@@ -1,5 +1,4 @@
-Boletus oxydabilis (Singer) SPECIES
-=======
+# Boletus oxydabilis (Singer) SPECIES
 
 #### Status
 ACCEPTED

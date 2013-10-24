@@ -1,5 +1,4 @@
-Trogia guadalupensis Corner SPECIES
-=======
+# Trogia guadalupensis Corner SPECIES
 
 #### Status
 ACCEPTED

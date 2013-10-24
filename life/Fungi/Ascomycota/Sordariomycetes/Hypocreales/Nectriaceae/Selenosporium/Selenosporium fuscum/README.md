@@ -1,5 +1,4 @@
-Selenosporium fuscum Bonord. SPECIES
-=======
+# Selenosporium fuscum Bonord. SPECIES
 
 #### Status
 ACCEPTED

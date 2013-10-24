@@ -1,5 +1,4 @@
-Phaeotrichum Cain & M.E. Barr GENUS
-=======
+# Phaeotrichum Cain & M.E. Barr GENUS
 
 #### Status
 ACCEPTED

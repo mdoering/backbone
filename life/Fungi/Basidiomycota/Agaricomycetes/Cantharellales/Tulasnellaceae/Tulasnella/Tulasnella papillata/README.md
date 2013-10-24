@@ -1,14 +1,13 @@
-Gloeotulasnella papillata L.S. Olive, 1954 SPECIES
-=======
+# Tulasnella papillata (L.S. Olive) L.S. Olive, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 81: 335 (1954)
+Mycologia 49: 676 (1957)
 
 #### Original name
 Gloeotulasnella papillata L.S. Olive, 1954

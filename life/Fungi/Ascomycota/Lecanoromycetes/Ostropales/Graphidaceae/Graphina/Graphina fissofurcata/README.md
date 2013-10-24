@@ -1,14 +1,13 @@
-Graphis fissofurcata Leight. SPECIES
-=======
+# Graphina fissofurcata (Leight.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 65: 385 (1882)
 
 #### Original name
 Graphis fissofurcata Leight.

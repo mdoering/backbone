@@ -1,5 +1,4 @@
-Anoplophrya ochridensis Georgevitch, 1941 SPECIES
-=======
+# Anoplophrya ochridensis Georgevitch, 1941 SPECIES
 
 #### Status
 ACCEPTED

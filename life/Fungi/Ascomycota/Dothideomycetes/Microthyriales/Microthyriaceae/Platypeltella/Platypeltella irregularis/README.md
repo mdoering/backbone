@@ -1,5 +1,4 @@
-Platypeltella irregularis M.L. Farr SPECIES
-=======
+# Platypeltella irregularis M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

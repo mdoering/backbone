@@ -1,5 +1,4 @@
-Coleosporium erythrinae Petch SPECIES
-=======
+# Coleosporium erythrinae Petch SPECIES
 
 #### Status
 ACCEPTED

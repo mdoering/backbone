@@ -1,17 +1,16 @@
-Hilitzeria Dyr GENUS
-=======
+# Dichotomocladium Benny & R.K. Benj. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Aliso 8(3): 338 (1975)
 
 #### Original name
-Hilitzeria Dyr
+Dichotomocladium Benny & R.K. Benj.
 
 ### Remarks
 null

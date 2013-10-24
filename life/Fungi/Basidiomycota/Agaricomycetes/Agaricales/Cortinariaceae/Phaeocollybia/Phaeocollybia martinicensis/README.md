@@ -1,5 +1,4 @@
-Phaeocollybia martinicensis Guzmán, Montoya & Bandala SPECIES
-=======
+# Phaeocollybia martinicensis Guzmán, Montoya & Bandala SPECIES
 
 #### Status
 ACCEPTED

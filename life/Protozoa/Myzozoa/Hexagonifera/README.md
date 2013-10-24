@@ -1,5 +1,4 @@
-Hexagonifera Cookson & Eisenack GENUS
-=======
+# Hexagonifera Cookson & Eisenack GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria prismatocarpi Desm. SPECIES
-=======
+# Septoria prismatocarpi Desm. SPECIES
 
 #### Status
 ACCEPTED

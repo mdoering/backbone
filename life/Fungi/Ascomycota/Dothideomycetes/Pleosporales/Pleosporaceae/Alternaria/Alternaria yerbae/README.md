@@ -1,5 +1,4 @@
-Alternaria yerbae (Speg.) P. Joly SPECIES
-=======
+# Alternaria yerbae (Speg.) P. Joly SPECIES
 
 #### Status
 ACCEPTED

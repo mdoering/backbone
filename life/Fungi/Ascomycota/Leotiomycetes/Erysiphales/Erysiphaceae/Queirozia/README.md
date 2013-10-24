@@ -1,5 +1,4 @@
-Queirozia GENUS
-=======
+# Queirozia GENUS
 
 #### Status
 ACCEPTED

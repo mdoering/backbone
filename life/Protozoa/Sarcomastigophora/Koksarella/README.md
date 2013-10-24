@@ -1,5 +1,4 @@
-Koksarella Da, 1890 GENUS
-=======
+# Koksarella Da, 1890 GENUS
 
 #### Status
 ACCEPTED

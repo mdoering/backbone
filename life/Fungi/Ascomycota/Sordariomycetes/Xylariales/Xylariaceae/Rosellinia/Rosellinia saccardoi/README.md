@@ -1,5 +1,4 @@
-Rosellinia saccardoi Petrini SPECIES
-=======
+# Rosellinia saccardoi Petrini SPECIES
 
 #### Status
 ACCEPTED

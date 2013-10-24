@@ -1,5 +1,4 @@
-Acineta alata Stokes, 1885 SPECIES
-=======
+# Acineta alata Stokes, 1885 SPECIES
 
 #### Status
 ACCEPTED

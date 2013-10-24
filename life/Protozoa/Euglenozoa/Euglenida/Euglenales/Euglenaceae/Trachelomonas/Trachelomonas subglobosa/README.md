@@ -1,5 +1,4 @@
-Trachelomonas subglobosa Playfair emend. Conrad SPECIES
-=======
+# Trachelomonas subglobosa Playfair emend. Conrad SPECIES
 
 #### Status
 ACCEPTED

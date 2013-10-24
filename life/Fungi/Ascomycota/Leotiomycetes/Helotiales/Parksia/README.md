@@ -1,5 +1,4 @@
-Parksia GENUS
-=======
+# Parksia GENUS
 
 #### Status
 ACCEPTED

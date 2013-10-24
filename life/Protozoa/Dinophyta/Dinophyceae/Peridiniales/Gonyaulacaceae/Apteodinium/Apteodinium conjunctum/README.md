@@ -1,5 +1,4 @@
-Apteodinium conjunctum Eisenack & Cookson, 1960 SPECIES
-=======
+# Apteodinium conjunctum Eisenack & Cookson, 1960 SPECIES
 
 #### Status
 ACCEPTED

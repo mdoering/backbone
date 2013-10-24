@@ -1,5 +1,4 @@
-Cyanobium amethystinum (J.J. Copeland) J. Komárek, J. Kopeck & V. Cepák SPECIES
-=======
+# Cyanobium amethystinum (J.J. Copeland) J. Komárek, J. Kopeck & V. Cepák SPECIES
 
 #### Status
 ACCEPTED

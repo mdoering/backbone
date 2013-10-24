@@ -1,5 +1,4 @@
-Cortinarius luteoallutus Rob. Henry ex Bidaud & Reumaux SPECIES
-=======
+# Cortinarius luteoallutus Rob. Henry ex Bidaud & Reumaux SPECIES
 
 #### Status
 ACCEPTED

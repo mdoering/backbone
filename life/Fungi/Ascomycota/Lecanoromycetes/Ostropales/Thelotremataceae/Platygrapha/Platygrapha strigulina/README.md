@@ -1,5 +1,4 @@
-Platygrapha strigulina Nyl. SPECIES
-=======
+# Platygrapha strigulina Nyl. SPECIES
 
 #### Status
 ACCEPTED

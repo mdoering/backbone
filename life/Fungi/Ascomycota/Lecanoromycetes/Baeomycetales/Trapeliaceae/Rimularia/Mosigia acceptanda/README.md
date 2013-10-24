@@ -1,5 +1,4 @@
-Mosigia acceptanda (Nyl.) Motyka SPECIES
-=======
+# Mosigia acceptanda (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epichloe typhina (Pers.) Tul. & C. Tul., 1865 SPECIES
-=======
+# Epichloe typhina (Pers.) Tul. & C. Tul., 1865 SPECIES
 
 #### Status
 ACCEPTED

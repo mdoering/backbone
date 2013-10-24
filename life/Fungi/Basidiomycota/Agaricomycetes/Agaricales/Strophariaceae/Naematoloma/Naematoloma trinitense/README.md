@@ -1,14 +1,13 @@
-Nematoloma trinitense (Dennis) Singer SPECIES
-=======
+# Naematoloma trinitense (Dennis) Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Agaric. mod. Tax. (Koenigstein), Edn 4 564 (1986)
 
 #### Original name
 Pholiota trinitensis Dennis

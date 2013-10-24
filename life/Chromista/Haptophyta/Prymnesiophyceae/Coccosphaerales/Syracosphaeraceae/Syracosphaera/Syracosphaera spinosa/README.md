@@ -1,5 +1,4 @@
-Syracosphaera spinosa Lohmann SPECIES
-=======
+# Syracosphaera spinosa Lohmann SPECIES
 
 #### Status
 ACCEPTED

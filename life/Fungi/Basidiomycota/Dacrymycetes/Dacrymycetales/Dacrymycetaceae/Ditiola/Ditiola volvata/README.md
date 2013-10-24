@@ -1,5 +1,4 @@
-Ditiola volvata (Tode) Fr. SPECIES
-=======
+# Ditiola volvata (Tode) Fr. SPECIES
 
 #### Status
 ACCEPTED

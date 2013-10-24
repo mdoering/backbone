@@ -1,5 +1,4 @@
-Phyllosticta gastonis Roum. SPECIES
-=======
+# Phyllosticta gastonis Roum. SPECIES
 
 #### Status
 ACCEPTED

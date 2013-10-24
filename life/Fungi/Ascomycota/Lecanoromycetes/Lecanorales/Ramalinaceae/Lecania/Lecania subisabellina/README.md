@@ -1,5 +1,4 @@
-Lecania subisabellina Zahlbr. SPECIES
-=======
+# Lecania subisabellina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

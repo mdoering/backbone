@@ -1,5 +1,4 @@
-Nitrosolobus Watson et al., 1971 (Approved Lists, 1980) GENUS
-=======
+# Nitrosolobus Watson et al., 1971 (Approved Lists, 1980) GENUS
 
 #### Status
 ACCEPTED

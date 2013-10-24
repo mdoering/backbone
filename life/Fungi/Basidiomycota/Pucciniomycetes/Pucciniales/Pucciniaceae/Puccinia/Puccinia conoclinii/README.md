@@ -1,5 +1,4 @@
-Puccinia conoclinii Seym. SPECIES
-=======
+# Puccinia conoclinii Seym. SPECIES
 
 #### Status
 ACCEPTED

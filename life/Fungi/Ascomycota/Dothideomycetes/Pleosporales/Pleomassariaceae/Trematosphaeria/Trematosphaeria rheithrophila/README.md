@@ -1,5 +1,4 @@
-Trematosphaeria rheithrophila Kirschst. SPECIES
-=======
+# Trematosphaeria rheithrophila Kirschst. SPECIES
 
 #### Status
 ACCEPTED

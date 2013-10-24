@@ -1,5 +1,4 @@
-Diplocarponella coprosmae Bat. & H. Maia SPECIES
-=======
+# Diplocarponella coprosmae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

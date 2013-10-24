@@ -1,5 +1,4 @@
-Parmotrema forsteri Elix & R. W. Rogers SPECIES
-=======
+# Parmotrema forsteri Elix & R. W. Rogers SPECIES
 
 #### Status
 ACCEPTED

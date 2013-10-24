@@ -1,5 +1,4 @@
-Muscophrya Yankovskii, 1978 GENUS
-=======
+# Muscophrya Yankovskii, 1978 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Foraminiferida ORDER
-=======
+# Foraminiferida ORDER
 
 #### Status
 ACCEPTED

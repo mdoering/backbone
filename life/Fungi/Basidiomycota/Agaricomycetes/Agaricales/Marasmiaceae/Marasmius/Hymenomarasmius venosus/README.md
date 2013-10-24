@@ -1,5 +1,4 @@
-Hymenomarasmius venosus (Henn. & E. Nyman) Overeem SPECIES
-=======
+# Hymenomarasmius venosus (Henn. & E. Nyman) Overeem SPECIES
 
 #### Status
 ACCEPTED

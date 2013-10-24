@@ -1,5 +1,4 @@
-Cryptococcus stepposus Golubev & J.P. Samp. SPECIES
-=======
+# Cryptococcus stepposus Golubev & J.P. Samp. SPECIES
 
 #### Status
 ACCEPTED

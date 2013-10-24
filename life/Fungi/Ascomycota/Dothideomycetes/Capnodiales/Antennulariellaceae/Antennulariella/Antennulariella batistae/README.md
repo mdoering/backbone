@@ -1,5 +1,4 @@
-Antennulariella batistae S. Hughes, 2000 SPECIES
-=======
+# Antennulariella batistae S. Hughes, 2000 SPECIES
 
 #### Status
 ACCEPTED

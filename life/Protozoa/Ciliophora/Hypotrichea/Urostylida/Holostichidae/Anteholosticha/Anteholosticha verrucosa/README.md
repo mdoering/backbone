@@ -1,5 +1,4 @@
-Anteholosticha verrucosa (Foissner & Schade in Foissner, 2000) Berger, 2008 SPECIES
-=======
+# Anteholosticha verrucosa (Foissner & Schade in Foissner, 2000) Berger, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma pringlei (Peck) Kuntze SPECIES
-=======
+# Dicaeoma pringlei (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

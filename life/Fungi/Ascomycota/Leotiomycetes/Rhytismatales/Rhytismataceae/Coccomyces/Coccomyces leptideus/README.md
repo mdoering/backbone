@@ -1,17 +1,16 @@
-Coccomyces quadratus var. quadratus (J.C. Schmidt & Kunze) P. Karst. VARIETY
-=======
+# Coccomyces leptideus (Fr.) B. Erikss., 1970 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 19: 255 (1871)
+Symb. bot. upsal. 19(no. 4): 13 (1970)
 
 #### Original name
-Coccomyces quadratus var. quadratus (J.C. Schmidt & Kunze) P. Karst.
+Phacidium leptideum Fr., 1818
 
 ### Remarks
 null

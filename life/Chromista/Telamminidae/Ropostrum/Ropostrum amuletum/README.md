@@ -1,5 +1,4 @@
-Ropostrum amuletum Jonasson & Schröder-Adams, 1996 SPECIES
-=======
+# Ropostrum amuletum Jonasson & Schröder-Adams, 1996 SPECIES
 
 #### Status
 ACCEPTED

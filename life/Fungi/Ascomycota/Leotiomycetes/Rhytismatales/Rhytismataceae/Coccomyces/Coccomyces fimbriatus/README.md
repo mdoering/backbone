@@ -1,5 +1,4 @@
-Coccomyces fimbriatus (J.C. Schmidt) Quél. SPECIES
-=======
+# Coccomyces fimbriatus (J.C. Schmidt) Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Taiyuanella Zhuang, 1989 GENUS
-=======
+# Taiyuanella Zhuang, 1989 GENUS
 
 #### Status
 ACCEPTED

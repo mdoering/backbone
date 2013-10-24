@@ -1,5 +1,4 @@
-Micarea austroternaria Coppins & Kantvilas SPECIES
-=======
+# Micarea austroternaria Coppins & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

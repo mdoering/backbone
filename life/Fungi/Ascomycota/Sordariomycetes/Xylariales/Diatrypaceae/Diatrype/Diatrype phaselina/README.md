@@ -1,5 +1,4 @@
-Diatrype phaselina (Mont.) Rappaz SPECIES
-=======
+# Diatrype phaselina (Mont.) Rappaz SPECIES
 
 #### Status
 ACCEPTED

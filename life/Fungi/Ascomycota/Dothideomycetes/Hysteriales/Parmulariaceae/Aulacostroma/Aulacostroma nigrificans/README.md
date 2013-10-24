@@ -1,5 +1,4 @@
-Aulacostroma nigrificans Petr., 1954 SPECIES
-=======
+# Aulacostroma nigrificans Petr., 1954 SPECIES
 
 #### Status
 ACCEPTED

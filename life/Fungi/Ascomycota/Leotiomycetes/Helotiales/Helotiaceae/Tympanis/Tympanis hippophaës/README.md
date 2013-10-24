@@ -1,5 +1,4 @@
-Tympanis hippophaës (Rehm) Sherwood SPECIES
-=======
+# Tympanis hippophaës (Rehm) Sherwood SPECIES
 
 #### Status
 ACCEPTED

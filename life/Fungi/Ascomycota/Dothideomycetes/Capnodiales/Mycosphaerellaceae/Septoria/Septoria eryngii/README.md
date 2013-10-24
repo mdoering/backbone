@@ -1,5 +1,4 @@
-Septoria eryngii Westend. SPECIES
-=======
+# Septoria eryngii Westend. SPECIES
 
 #### Status
 ACCEPTED

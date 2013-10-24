@@ -1,5 +1,4 @@
-Lachnella brachytricha Cooke & W. Phillips SPECIES
-=======
+# Lachnella brachytricha Cooke & W. Phillips SPECIES
 
 #### Status
 ACCEPTED

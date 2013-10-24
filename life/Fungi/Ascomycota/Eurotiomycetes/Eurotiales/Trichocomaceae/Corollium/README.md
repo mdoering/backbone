@@ -1,5 +1,4 @@
-Corollium GENUS
-=======
+# Corollium GENUS
 
 #### Status
 ACCEPTED

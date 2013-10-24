@@ -1,5 +1,4 @@
-Peziza viticola Pers. SPECIES
-=======
+# Peziza viticola Pers. SPECIES
 
 #### Status
 ACCEPTED

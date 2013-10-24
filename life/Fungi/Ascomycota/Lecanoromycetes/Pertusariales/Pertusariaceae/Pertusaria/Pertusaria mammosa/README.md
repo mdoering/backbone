@@ -1,5 +1,4 @@
-Pertusaria mammosa Harm. SPECIES
-=======
+# Pertusaria mammosa Harm. SPECIES
 
 #### Status
 ACCEPTED

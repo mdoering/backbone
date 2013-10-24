@@ -1,5 +1,4 @@
-Coccotrichum erubescens Schwein. SPECIES
-=======
+# Coccotrichum erubescens Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe paulula (Cooke & Ellis) Sacc. SPECIES
-=======
+# Diaporthe paulula (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

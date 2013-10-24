@@ -1,5 +1,4 @@
-Phoma tecomicola Brunaud SPECIES
-=======
+# Phoma tecomicola Brunaud SPECIES
 
 #### Status
 ACCEPTED

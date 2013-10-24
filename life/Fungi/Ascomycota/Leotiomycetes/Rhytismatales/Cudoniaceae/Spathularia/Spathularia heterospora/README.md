@@ -1,5 +1,4 @@
-Spathularia heterospora E.K. Cash & Corner SPECIES
-=======
+# Spathularia heterospora E.K. Cash & Corner SPECIES
 
 #### Status
 ACCEPTED

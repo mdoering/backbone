@@ -1,5 +1,4 @@
-Entoloma albomagnum G.M. Gates & Noordel. SPECIES
-=======
+# Entoloma albomagnum G.M. Gates & Noordel. SPECIES
 
 #### Status
 ACCEPTED

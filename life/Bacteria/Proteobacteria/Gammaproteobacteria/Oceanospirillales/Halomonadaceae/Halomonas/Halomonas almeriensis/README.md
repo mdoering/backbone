@@ -1,5 +1,4 @@
-Halomonas almeriensis Martínez-Checa et al., 2005 SPECIES
-=======
+# Halomonas almeriensis Martínez-Checa et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

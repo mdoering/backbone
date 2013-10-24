@@ -1,5 +1,4 @@
-Anomalina atlantis SPECIES
-=======
+# Anomalina atlantis SPECIES
 
 #### Status
 ACCEPTED

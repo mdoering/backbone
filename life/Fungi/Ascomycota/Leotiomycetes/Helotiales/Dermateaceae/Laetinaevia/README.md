@@ -1,5 +1,4 @@
-Laetinaevia Nannf. GENUS
-=======
+# Laetinaevia Nannf. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flammula praelaeticolor (Murrill) Murrill SPECIES
-=======
+# Flammula praelaeticolor (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

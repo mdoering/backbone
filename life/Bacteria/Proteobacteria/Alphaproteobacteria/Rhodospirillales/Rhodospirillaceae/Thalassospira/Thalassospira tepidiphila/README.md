@@ -1,5 +1,4 @@
-Thalassospira tepidiphila Kodama, Stiknowati, Ueki, Ueki & Watanabe, 2008 SPECIES
-=======
+# Thalassospira tepidiphila Kodama, Stiknowati, Ueki, Ueki & Watanabe, 2008 SPECIES
 
 #### Status
 ACCEPTED

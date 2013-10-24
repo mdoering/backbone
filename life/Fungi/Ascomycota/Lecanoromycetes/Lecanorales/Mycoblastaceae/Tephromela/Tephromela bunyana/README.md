@@ -1,5 +1,4 @@
-Tephromela bunyana Kalb & Elix SPECIES
-=======
+# Tephromela bunyana Kalb & Elix SPECIES
 
 #### Status
 ACCEPTED

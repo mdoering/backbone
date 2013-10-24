@@ -1,5 +1,4 @@
-Pronectria echinulata Lowen, 1999 SPECIES
-=======
+# Pronectria echinulata Lowen, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acolium carolinianum Tuck. SPECIES
-=======
+# Acolium carolinianum Tuck. SPECIES
 
 #### Status
 ACCEPTED

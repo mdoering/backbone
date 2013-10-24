@@ -1,5 +1,4 @@
-Palaeoleptosphaeria Barlinge & Paradkar GENUS
-=======
+# Palaeoleptosphaeria Barlinge & Paradkar GENUS
 
 #### Status
 ACCEPTED

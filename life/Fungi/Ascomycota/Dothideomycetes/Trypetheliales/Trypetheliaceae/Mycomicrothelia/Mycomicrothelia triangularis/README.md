@@ -1,5 +1,4 @@
-Mycomicrothelia triangularis Aptroot SPECIES
-=======
+# Mycomicrothelia triangularis Aptroot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola securidacicola var. securidacicola VARIETY
-=======
+# Meliola securidacicola Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Beih. Sydowia 2: 82 (1961)
 
 #### Original name
-Meliola securidacicola var. securidacicola
+Meliola securidacae (Hansf.) Cif.
 
 ### Remarks
 null

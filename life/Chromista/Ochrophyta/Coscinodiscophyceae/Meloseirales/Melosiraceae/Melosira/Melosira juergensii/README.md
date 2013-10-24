@@ -1,5 +1,4 @@
-Melosira juergensii var. subangularis Grunow VARIETY
-=======
+# Melosira juergensii C. Agardh SPECIES
 
 #### Status
 ACCEPTED

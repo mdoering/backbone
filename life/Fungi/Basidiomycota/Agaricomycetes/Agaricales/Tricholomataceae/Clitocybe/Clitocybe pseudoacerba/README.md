@@ -1,5 +1,4 @@
-Clitocybe pseudoacerba Costantin & L.M. Dufour SPECIES
-=======
+# Clitocybe pseudoacerba Costantin & L.M. Dufour SPECIES
 
 #### Status
 ACCEPTED

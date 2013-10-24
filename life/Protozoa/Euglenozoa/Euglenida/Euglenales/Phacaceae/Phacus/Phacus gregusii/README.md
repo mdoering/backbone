@@ -1,5 +1,4 @@
-Phacus gregusii Hortobágyi SPECIES
-=======
+# Phacus gregusii Hortobágyi SPECIES
 
 #### Status
 ACCEPTED

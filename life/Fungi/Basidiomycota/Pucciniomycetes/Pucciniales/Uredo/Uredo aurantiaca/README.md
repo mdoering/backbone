@@ -1,5 +1,4 @@
-Uredo aurantiaca Montem. {?} SPECIES
-=======
+# Uredo aurantiaca Montem. {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina akagiensis Vain. SPECIES
-=======
+# Rinodina akagiensis Vain. SPECIES
 
 #### Status
 ACCEPTED

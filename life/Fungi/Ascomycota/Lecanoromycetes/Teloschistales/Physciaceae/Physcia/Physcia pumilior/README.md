@@ -1,5 +1,4 @@
-Physcia pumilior R. C. Harris SPECIES
-=======
+# Physcia pumilior R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

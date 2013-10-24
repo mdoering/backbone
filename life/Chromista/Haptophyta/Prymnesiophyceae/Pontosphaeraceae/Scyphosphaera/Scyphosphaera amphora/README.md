@@ -1,5 +1,4 @@
-Scyphosphaera amphora Deflandre, 1942 SPECIES
-=======
+# Scyphosphaera amphora Deflandre, 1942 SPECIES
 
 #### Status
 ACCEPTED

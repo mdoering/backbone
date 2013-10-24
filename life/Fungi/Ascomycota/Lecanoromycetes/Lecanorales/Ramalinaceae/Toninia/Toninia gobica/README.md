@@ -1,5 +1,4 @@
-Toninia gobica N.S. Golubk. SPECIES
-=======
+# Toninia gobica N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

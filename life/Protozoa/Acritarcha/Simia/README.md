@@ -1,5 +1,4 @@
-Simia N.S. Mikhailova & T.V. Jankauskas in T.V. Jankauskas, 1989 GENUS
-=======
+# Simia N.S. Mikhailova & T.V. Jankauskas in T.V. Jankauskas, 1989 GENUS
 
 #### Status
 ACCEPTED

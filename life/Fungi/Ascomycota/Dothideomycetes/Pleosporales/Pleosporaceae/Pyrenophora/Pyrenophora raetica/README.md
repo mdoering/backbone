@@ -1,5 +1,4 @@
-Pyrenophora raetica (E. Müll.) Crivelli SPECIES
-=======
+# Pyrenophora raetica (E. Müll.) Crivelli SPECIES
 
 #### Status
 ACCEPTED

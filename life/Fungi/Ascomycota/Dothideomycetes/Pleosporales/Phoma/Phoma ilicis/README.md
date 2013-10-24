@@ -1,17 +1,16 @@
-Phoma ilicis f. ilicis FORM
-=======
+# Phoma ilicis Desm., 1843 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Exs. no. 1290 (1843)
 
 #### Original name
-null
+Phoma ilicis Desm., 1843
 
 ### Remarks
 null

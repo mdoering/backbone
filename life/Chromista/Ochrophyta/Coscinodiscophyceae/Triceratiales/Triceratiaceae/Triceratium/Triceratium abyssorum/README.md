@@ -1,5 +1,4 @@
-Triceratium abyssorum Grunow SPECIES
-=======
+# Triceratium abyssorum Grunow SPECIES
 
 #### Status
 ACCEPTED

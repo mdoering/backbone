@@ -1,5 +1,4 @@
-Achlya pinnulata J.V. Harv. SPECIES
-=======
+# Achlya pinnulata J.V. Harv. SPECIES
 
 #### Status
 ACCEPTED

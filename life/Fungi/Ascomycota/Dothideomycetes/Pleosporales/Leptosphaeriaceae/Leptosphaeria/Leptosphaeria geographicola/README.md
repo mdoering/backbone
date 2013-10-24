@@ -1,5 +1,4 @@
-Leptosphaeria geographicola (Arnaud) Sacc. & D. Sacc. SPECIES
-=======
+# Leptosphaeria geographicola (Arnaud) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

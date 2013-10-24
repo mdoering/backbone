@@ -1,5 +1,4 @@
-Phragmodochium modestum Höhn., 1924 SPECIES
-=======
+# Phragmodochium modestum Höhn., 1924 SPECIES
 
 #### Status
 ACCEPTED

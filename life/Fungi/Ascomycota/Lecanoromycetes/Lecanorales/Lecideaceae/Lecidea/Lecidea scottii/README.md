@@ -1,5 +1,4 @@
-Lecidea scottii Vain. SPECIES
-=======
+# Lecidea scottii Vain. SPECIES
 
 #### Status
 ACCEPTED

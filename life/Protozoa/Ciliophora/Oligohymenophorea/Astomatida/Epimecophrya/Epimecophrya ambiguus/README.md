@@ -1,5 +1,4 @@
-Epimecophrya ambiguus Kahl, 1933 SPECIES
-=======
+# Epimecophrya ambiguus Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

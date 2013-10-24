@@ -1,5 +1,4 @@
-Lyophyllum urbanense A.H. Sm. & Clémençon SPECIES
-=======
+# Lyophyllum urbanense A.H. Sm. & Clémençon SPECIES
 
 #### Status
 ACCEPTED

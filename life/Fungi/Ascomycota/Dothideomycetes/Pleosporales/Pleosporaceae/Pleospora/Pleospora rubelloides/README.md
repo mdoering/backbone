@@ -1,5 +1,4 @@
-Pleospora rubelloides (Plowr. ex Cooke) J. Webster, 1957 SPECIES
-=======
+# Pleospora rubelloides (Plowr. ex Cooke) J. Webster, 1957 SPECIES
 
 #### Status
 ACCEPTED

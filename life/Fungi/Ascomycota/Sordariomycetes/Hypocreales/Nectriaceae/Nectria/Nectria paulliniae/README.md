@@ -1,5 +1,4 @@
-Nectria paulliniae (Rehm) Petr. SPECIES
-=======
+# Nectria paulliniae (Rehm) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thaumasiomyces scabellularius Thaxt., 1931 SPECIES
-=======
+# Thaumasiomyces scabellularius Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

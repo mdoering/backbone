@@ -1,5 +1,4 @@
-Mycena aphanes Aronsen & Gulden SPECIES
-=======
+# Mycena aphanes Aronsen & Gulden SPECIES
 
 #### Status
 ACCEPTED

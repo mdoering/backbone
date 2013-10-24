@@ -1,5 +1,4 @@
-Ophryoglena wrzesniowskii SPECIES
-=======
+# Ophryoglena wrzesniowskii SPECIES
 
 #### Status
 ACCEPTED

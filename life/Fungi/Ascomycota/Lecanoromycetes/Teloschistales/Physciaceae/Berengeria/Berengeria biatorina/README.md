@@ -1,5 +1,4 @@
-Berengeria biatorina Trevis. SPECIES
-=======
+# Berengeria biatorina Trevis. SPECIES
 
 #### Status
 ACCEPTED

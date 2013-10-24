@@ -1,5 +1,4 @@
-Isaria palmatifida Henn. SPECIES
-=======
+# Isaria palmatifida Henn. SPECIES
 
 #### Status
 ACCEPTED

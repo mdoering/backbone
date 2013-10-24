@@ -1,5 +1,4 @@
-Angotia GENUS
-=======
+# Angotia GENUS
 
 #### Status
 ACCEPTED

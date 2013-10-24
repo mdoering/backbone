@@ -1,5 +1,4 @@
-Enteromyxa paludosa Cienk. SPECIES
-=======
+# Enteromyxa paludosa Cienk. SPECIES
 
 #### Status
 ACCEPTED

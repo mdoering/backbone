@@ -1,5 +1,4 @@
-Leucogaster globosus Velen. SPECIES
-=======
+# Leucogaster globosus Velen. SPECIES
 
 #### Status
 ACCEPTED

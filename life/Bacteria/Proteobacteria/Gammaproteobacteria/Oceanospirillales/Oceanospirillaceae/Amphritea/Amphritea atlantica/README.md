@@ -1,5 +1,4 @@
-Amphritea atlantica Gartner, Wiese & Imhoff, 2008 SPECIES
-=======
+# Amphritea atlantica Gartner, Wiese & Imhoff, 2008 SPECIES
 
 #### Status
 ACCEPTED

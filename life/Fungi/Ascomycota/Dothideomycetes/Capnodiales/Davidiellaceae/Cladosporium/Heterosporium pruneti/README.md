@@ -1,5 +1,4 @@
-Heterosporium pruneti Nicolas & Aggéry SPECIES
-=======
+# Heterosporium pruneti Nicolas & Aggéry SPECIES
 
 #### Status
 ACCEPTED

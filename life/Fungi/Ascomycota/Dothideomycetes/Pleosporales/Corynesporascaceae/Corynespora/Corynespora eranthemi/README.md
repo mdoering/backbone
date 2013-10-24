@@ -1,5 +1,4 @@
-Corynespora eranthemi J.M. Yen & Lim SPECIES
-=======
+# Corynespora eranthemi J.M. Yen & Lim SPECIES
 
 #### Status
 ACCEPTED

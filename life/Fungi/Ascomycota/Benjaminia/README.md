@@ -1,5 +1,4 @@
-Benjaminia S. Ahmad, 1967 GENUS
-=======
+# Benjaminia S. Ahmad, 1967 GENUS
 
 #### Status
 ACCEPTED

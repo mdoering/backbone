@@ -1,5 +1,4 @@
-Scolecopeltidium anthurii Bat. & I.H. Lima SPECIES
-=======
+# Scolecopeltidium anthurii Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

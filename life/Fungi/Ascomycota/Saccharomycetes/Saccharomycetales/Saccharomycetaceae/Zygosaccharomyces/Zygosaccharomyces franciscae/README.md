@@ -1,5 +1,4 @@
-Zygosaccharomyces franciscae Capr. SPECIES
-=======
+# Zygosaccharomyces franciscae Capr. SPECIES
 
 #### Status
 ACCEPTED

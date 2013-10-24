@@ -1,5 +1,4 @@
-Uredo lasianthi Syd. SPECIES
-=======
+# Uredo lasianthi Syd. SPECIES
 
 #### Status
 ACCEPTED

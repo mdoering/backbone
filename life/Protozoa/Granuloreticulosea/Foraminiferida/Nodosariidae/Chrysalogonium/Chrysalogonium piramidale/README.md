@@ -1,5 +1,4 @@
-Chrysalogonium piramidale SPECIES
-=======
+# Chrysalogonium piramidale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebelomatis nauseosum (Cooke) Locq. SPECIES
-=======
+# Hebelomatis nauseosum (Cooke) Locq. SPECIES
 
 #### Status
 ACCEPTED

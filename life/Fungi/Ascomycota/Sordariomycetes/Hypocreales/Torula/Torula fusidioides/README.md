@@ -1,5 +1,4 @@
-Torula fusidioides Corda SPECIES
-=======
+# Torula fusidioides Corda SPECIES
 
 #### Status
 ACCEPTED

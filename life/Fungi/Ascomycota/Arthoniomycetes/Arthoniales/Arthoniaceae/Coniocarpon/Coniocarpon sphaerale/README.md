@@ -1,5 +1,4 @@
-Coniocarpon sphaerale Duby SPECIES
-=======
+# Coniocarpon sphaerale Duby SPECIES
 
 #### Status
 ACCEPTED

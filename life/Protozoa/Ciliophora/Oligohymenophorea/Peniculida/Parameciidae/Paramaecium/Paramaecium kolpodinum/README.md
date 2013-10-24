@@ -1,5 +1,4 @@
-Paramaecium kolpodinum SPECIES
-=======
+# Paramaecium kolpodinum SPECIES
 
 #### Status
 ACCEPTED

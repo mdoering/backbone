@@ -1,8 +1,7 @@
-Cylindralithus gallicus (Stradner, 1963) Bramlette & Martini, 1964 SPECIES
-=======
+# Cribrocorona gallica (Stradner, 1963) Perch-Nielsen, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

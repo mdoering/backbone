@@ -1,5 +1,4 @@
-Lecidea luteoalba SPECIES
-=======
+# Lecidea luteoalba SPECIES
 
 #### Status
 ACCEPTED

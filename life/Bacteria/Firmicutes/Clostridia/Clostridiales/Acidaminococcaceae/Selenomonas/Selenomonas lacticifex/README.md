@@ -1,5 +1,4 @@
-Selenomonas lacticifex Schleifer et al., 1990 SPECIES
-=======
+# Selenomonas lacticifex Schleifer et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

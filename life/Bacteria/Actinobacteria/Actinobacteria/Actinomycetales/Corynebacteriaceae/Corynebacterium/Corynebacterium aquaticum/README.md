@@ -1,5 +1,4 @@
-Corynebacterium aquaticum SPECIES
-=======
+# Corynebacterium aquaticum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella veratri (Höhn.) Sacc. SPECIES
-=======
+# Sphaerella veratri (Höhn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

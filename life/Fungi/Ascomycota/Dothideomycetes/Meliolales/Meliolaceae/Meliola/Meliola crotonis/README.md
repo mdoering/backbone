@@ -1,5 +1,4 @@
-Meliola crotonis (F. Stevens & Tehon) Cif. SPECIES
-=======
+# Meliola crotonis (F. Stevens & Tehon) Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parapeltella harmsiana (Henn.) Bat. SPECIES
-=======
+# Parapeltella harmsiana (Henn.) Bat. SPECIES
 
 #### Status
 ACCEPTED

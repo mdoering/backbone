@@ -1,5 +1,4 @@
-Sordaria sclerogenia Fields & Grear SPECIES
-=======
+# Sordaria sclerogenia Fields & Grear SPECIES
 
 #### Status
 ACCEPTED

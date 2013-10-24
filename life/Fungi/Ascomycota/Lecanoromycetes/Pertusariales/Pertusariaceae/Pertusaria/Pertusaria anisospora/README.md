@@ -1,5 +1,4 @@
-Pertusaria anisospora Müll. Arg. SPECIES
-=======
+# Pertusaria anisospora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

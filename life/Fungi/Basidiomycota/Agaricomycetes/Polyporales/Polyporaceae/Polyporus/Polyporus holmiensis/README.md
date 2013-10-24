@@ -1,5 +1,4 @@
-Polyporus holmiensis Fr. SPECIES
-=======
+# Polyporus holmiensis Fr. SPECIES
 
 #### Status
 ACCEPTED

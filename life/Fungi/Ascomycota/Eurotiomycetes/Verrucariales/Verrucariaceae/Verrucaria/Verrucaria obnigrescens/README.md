@@ -1,5 +1,4 @@
-Verrucaria obnigrescens Nyl. SPECIES
-=======
+# Verrucaria obnigrescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

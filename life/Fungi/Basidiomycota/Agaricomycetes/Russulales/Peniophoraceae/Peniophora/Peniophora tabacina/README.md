@@ -1,5 +1,4 @@
-Peniophora tabacina Burt SPECIES
-=======
+# Peniophora tabacina Burt SPECIES
 
 #### Status
 ACCEPTED

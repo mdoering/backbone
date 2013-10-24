@@ -1,5 +1,4 @@
-Gibbera maeshimana I. Hino & Katum. SPECIES
-=======
+# Gibbera maeshimana I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

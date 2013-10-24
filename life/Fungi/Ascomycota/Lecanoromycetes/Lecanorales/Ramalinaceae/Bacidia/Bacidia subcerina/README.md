@@ -1,5 +1,4 @@
-Bacidia subcerina Zahlbr. SPECIES
-=======
+# Bacidia subcerina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

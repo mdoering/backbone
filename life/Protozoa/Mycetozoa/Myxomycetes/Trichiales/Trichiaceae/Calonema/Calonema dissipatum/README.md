@@ -1,17 +1,16 @@
-Calonema dissipatum var. dissipatum Nann.-Bremek., R.K. Chopra & T.N. Lakh. VARIETY
-=======
+# Calonema dissipatum Nann.-Bremek., R.K. Chopra & T.N. Lakh., 1992 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Proc. K. Ned. Akad. Wet. 95(1): 42 (1992)
 
 #### Original name
-Calonema dissipatum var. dissipatum Nann.-Bremek., R.K. Chopra & T.N. Lakh.
+Calonema dissipatum Nann.-Bremek., R.K. Chopra & T.N. Lakh., 1992
 
 ### Remarks
 null

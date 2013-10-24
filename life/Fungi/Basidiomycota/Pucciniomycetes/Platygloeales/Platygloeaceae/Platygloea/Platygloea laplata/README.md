@@ -1,5 +1,4 @@
-Platygloea laplata Lindsey SPECIES
-=======
+# Platygloea laplata Lindsey SPECIES
 
 #### Status
 ACCEPTED

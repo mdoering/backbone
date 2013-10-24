@@ -1,5 +1,4 @@
-Exallosorus J.A.Phillips, 1997 GENUS
-=======
+# Exallosorus J.A.Phillips, 1997 GENUS
 
 #### Status
 ACCEPTED

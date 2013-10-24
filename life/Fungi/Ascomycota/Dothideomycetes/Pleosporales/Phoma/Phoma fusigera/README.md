@@ -1,5 +1,4 @@
-Phoma fusigera (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Phoma fusigera (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

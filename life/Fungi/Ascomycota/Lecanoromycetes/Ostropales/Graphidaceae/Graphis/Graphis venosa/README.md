@@ -1,5 +1,4 @@
-Graphis venosa Eschw. SPECIES
-=======
+# Graphis venosa Eschw. SPECIES
 
 #### Status
 ACCEPTED

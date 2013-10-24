@@ -1,5 +1,4 @@
-Halbaniella paulliniae Hansf. SPECIES
-=======
+# Halbaniella paulliniae Hansf. SPECIES
 
 #### Status
 ACCEPTED

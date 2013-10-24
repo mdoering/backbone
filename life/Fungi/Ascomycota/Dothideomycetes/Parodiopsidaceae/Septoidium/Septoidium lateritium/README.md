@@ -1,5 +1,4 @@
-Septoidium lateritium (Syd. & P. Syd.) G. Arnaud SPECIES
-=======
+# Septoidium lateritium (Syd. & P. Syd.) G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

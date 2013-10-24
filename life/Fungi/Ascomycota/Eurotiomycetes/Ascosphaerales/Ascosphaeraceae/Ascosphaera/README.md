@@ -1,5 +1,4 @@
-Ascosphaera L.S. Olive & Spiltoir, 1955 GENUS
-=======
+# Ascosphaera L.S. Olive & Spiltoir, 1955 GENUS
 
 #### Status
 ACCEPTED

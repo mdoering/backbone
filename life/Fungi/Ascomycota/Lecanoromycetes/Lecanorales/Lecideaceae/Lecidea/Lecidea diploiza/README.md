@@ -1,5 +1,4 @@
-Lecidea diploiza Nyl. SPECIES
-=======
+# Lecidea diploiza Nyl. SPECIES
 
 #### Status
 ACCEPTED

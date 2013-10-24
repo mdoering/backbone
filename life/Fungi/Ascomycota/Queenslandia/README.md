@@ -1,5 +1,4 @@
-Queenslandia Bat. & H. Maia GENUS
-=======
+# Queenslandia Bat. & H. Maia GENUS
 
 #### Status
 ACCEPTED

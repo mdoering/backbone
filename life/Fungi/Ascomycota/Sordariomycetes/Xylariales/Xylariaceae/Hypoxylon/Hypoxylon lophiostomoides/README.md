@@ -1,5 +1,4 @@
-Hypoxylon lophiostomoides Ellis & Everh. SPECIES
-=======
+# Hypoxylon lophiostomoides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xerocomus fennicus (Harmaja) H. Ladurner & Simonini SPECIES
-=======
+# Xerocomus fennicus (Harmaja) H. Ladurner & Simonini SPECIES
 
 #### Status
 ACCEPTED

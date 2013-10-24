@@ -1,5 +1,4 @@
-Amphichaeta daviesiae McAlpine SPECIES
-=======
+# Amphichaeta daviesiae McAlpine SPECIES
 
 #### Status
 ACCEPTED

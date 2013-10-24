@@ -1,5 +1,4 @@
-Peroniella hyalothecae Gobi SPECIES
-=======
+# Peroniella hyalothecae Gobi SPECIES
 
 #### Status
 ACCEPTED

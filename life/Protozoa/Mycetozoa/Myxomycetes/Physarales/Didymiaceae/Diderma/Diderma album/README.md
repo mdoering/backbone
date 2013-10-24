@@ -1,5 +1,4 @@
-Diderma album (Schumach.) Kuntze SPECIES
-=======
+# Diderma album (Schumach.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

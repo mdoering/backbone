@@ -1,5 +1,4 @@
-Ceratostoma plectotheca Munk SPECIES
-=======
+# Ceratostoma plectotheca Munk SPECIES
 
 #### Status
 ACCEPTED

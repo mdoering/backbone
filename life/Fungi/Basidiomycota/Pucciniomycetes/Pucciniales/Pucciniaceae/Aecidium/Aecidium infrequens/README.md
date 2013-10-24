@@ -1,5 +1,4 @@
-Aecidium infrequens Barclay SPECIES
-=======
+# Aecidium infrequens Barclay SPECIES
 
 #### Status
 ACCEPTED

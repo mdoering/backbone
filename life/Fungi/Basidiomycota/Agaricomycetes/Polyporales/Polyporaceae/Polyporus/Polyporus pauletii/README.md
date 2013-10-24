@@ -1,5 +1,4 @@
-Polyporus pauletii Fr. SPECIES
-=======
+# Polyporus pauletii Fr. SPECIES
 
 #### Status
 ACCEPTED

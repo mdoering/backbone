@@ -1,5 +1,4 @@
-Anthracothecium thelemorphum (Tuck.) Zahlbr. SPECIES
-=======
+# Anthracothecium thelemorphum (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

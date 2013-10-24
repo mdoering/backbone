@@ -1,5 +1,4 @@
-Cephalotheca palearum Richon SPECIES
-=======
+# Cephalotheca palearum Richon SPECIES
 
 #### Status
 ACCEPTED

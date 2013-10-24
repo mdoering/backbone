@@ -1,5 +1,4 @@
-Leptostroma bambusellum Sacc. SPECIES
-=======
+# Leptostroma bambusellum Sacc. SPECIES
 
 #### Status
 ACCEPTED

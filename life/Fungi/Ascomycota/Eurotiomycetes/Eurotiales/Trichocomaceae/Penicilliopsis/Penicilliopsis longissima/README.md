@@ -1,5 +1,4 @@
-Penicilliopsis longissima Hauman SPECIES
-=======
+# Penicilliopsis longissima Hauman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Anthostomella melnikii Lar.N. Vassiljeva, 1990 SPECIES
-=======
+# Spirodecospora melnikii (Lar.N. Vassiljeva) K.D. Hyde & Melnik, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mikol. Fitopatol. 24(3): 209 (1990)
+in Mel'nik & Hyde, Fungal Diversity 12: 152 (2003)
 
 #### Original name
 Anthostomella melnikii Lar.N. Vassiljeva, 1990

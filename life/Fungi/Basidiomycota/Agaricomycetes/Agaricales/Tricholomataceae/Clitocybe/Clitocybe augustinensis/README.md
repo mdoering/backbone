@@ -1,5 +1,4 @@
-Clitocybe augustinensis Singer SPECIES
-=======
+# Clitocybe augustinensis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lagynus ornatus Stokes, 1893 SPECIES
-=======
+# Lagynus ornatus Stokes, 1893 SPECIES
 
 #### Status
 ACCEPTED

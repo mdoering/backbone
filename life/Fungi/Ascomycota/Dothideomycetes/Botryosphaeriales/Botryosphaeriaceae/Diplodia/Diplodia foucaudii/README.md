@@ -1,5 +1,4 @@
-Diplodia foucaudii Brunaud SPECIES
-=======
+# Diplodia foucaudii Brunaud SPECIES
 
 #### Status
 ACCEPTED

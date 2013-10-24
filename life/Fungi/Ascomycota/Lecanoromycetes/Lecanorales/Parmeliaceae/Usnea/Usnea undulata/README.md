@@ -1,17 +1,16 @@
-Usnea undulata subsp. undulata SUBSPECIES
-=======
+# Usnea undulata Stirt. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Scott. Natural. 6: 104 (1881)
 
 #### Original name
-null
+Usnea undulata Stirt.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Puccinia buchloes Schofield SPECIES
-=======
+# Puccinia buchloës (Webber) P. Syd. & Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Uredin. (Lipsiae) 1(4): 740 (1903)
 
 #### Original name
-Puccinia buchloes Schofield
+Puccinia vexans var. buchloës Webber
 
 ### Remarks
 null

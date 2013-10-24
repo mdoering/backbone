@@ -1,5 +1,4 @@
-Streptococcus intermedius Prévot, 1925 (Approved Lists, 1980) SPECIES
-=======
+# Streptococcus intermedius Prévot, 1925 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

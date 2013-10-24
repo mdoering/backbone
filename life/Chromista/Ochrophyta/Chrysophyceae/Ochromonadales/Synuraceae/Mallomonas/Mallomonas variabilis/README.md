@@ -1,5 +1,4 @@
-Mallomonas variabilis G. Cronberg SPECIES
-=======
+# Mallomonas variabilis G. Cronberg SPECIES
 
 #### Status
 ACCEPTED

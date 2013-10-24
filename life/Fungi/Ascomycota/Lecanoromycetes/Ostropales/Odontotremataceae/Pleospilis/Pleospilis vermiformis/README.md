@@ -1,5 +1,4 @@
-Pleospilis vermiformis (Leight.) Clem. SPECIES
-=======
+# Pleospilis vermiformis (Leight.) Clem. SPECIES
 
 #### Status
 ACCEPTED

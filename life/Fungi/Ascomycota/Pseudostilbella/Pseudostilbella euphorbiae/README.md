@@ -1,5 +1,4 @@
-Pseudostilbella euphorbiae Munt.-Cvetk. & Gómez-Bolea, 1995 SPECIES
-=======
+# Pseudostilbella euphorbiae Munt.-Cvetk. & Gómez-Bolea, 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Favolus spatulatus (Jung.) Lev. SPECIES
-=======
+# Favolus spatulatus (Jung.) Lev. SPECIES
 
 #### Status
 ACCEPTED

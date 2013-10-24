@@ -1,5 +1,4 @@
-Agaricus hypozanthus (Pers.) J. Otto SPECIES
-=======
+# Agaricus hypozanthus (Pers.) J. Otto SPECIES
 
 #### Status
 ACCEPTED

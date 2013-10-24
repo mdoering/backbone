@@ -1,5 +1,4 @@
-Amphiamblys laubieri I. Desportes & J. Théodoridès SPECIES
-=======
+# Amphiamblys laubieri I. Desportes & J. Théodoridès SPECIES
 
 #### Status
 ACCEPTED

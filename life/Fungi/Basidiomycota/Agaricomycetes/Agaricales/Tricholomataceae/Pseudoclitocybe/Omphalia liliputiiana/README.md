@@ -1,5 +1,4 @@
-Omphalia liliputiiana Speg. SPECIES
-=======
+# Omphalia liliputiiana Speg. SPECIES
 
 #### Status
 ACCEPTED

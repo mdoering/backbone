@@ -1,5 +1,4 @@
-Diplodia pollacciana Allesch. SPECIES
-=======
+# Diplodia pollacciana Allesch. SPECIES
 
 #### Status
 ACCEPTED

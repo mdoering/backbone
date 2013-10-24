@@ -1,5 +1,4 @@
-Gyalecta subsphaeroides Tav. SPECIES
-=======
+# Gyalecta subsphaeroides Tav. SPECIES
 
 #### Status
 ACCEPTED

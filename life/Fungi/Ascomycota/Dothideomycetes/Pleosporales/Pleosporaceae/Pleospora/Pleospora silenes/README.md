@@ -1,5 +1,4 @@
-Pleospora silenes Earle SPECIES
-=======
+# Pleospora silenes Earle SPECIES
 
 #### Status
 ACCEPTED

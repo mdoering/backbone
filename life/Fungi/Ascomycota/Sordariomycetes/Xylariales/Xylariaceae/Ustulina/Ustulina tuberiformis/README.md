@@ -1,5 +1,4 @@
-Ustulina tuberiformis (Wallr. ex Mont.) Cooke SPECIES
-=======
+# Ustulina tuberiformis (Wallr. ex Mont.) Cooke SPECIES
 
 #### Status
 ACCEPTED

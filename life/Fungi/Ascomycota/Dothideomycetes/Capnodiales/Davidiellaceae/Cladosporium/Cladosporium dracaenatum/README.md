@@ -1,5 +1,4 @@
-Cladosporium dracaenatum Thüm., 1869 SPECIES
-=======
+# Cladosporium dracaenatum Thüm., 1869 SPECIES
 
 #### Status
 ACCEPTED

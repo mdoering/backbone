@@ -1,5 +1,4 @@
-Verrucaria discissa Nyl. SPECIES
-=======
+# Verrucaria discissa Nyl. SPECIES
 
 #### Status
 ACCEPTED

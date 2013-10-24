@@ -1,5 +1,4 @@
-Xerocarpus GENUS
-=======
+# Xerocarpus GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentinus pyramidalis Berk. & M.A. Curtis SPECIES
-=======
+# Lentinus pyramidalis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

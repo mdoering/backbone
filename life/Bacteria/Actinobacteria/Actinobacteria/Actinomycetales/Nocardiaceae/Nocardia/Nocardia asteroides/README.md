@@ -1,11 +1,10 @@
-Streptothrix eppingerii Rossi-Doria, 1891 SPECIES
-=======
+# Nocardia asteroides (Eppinger, 1891) Blanchard, 1896 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

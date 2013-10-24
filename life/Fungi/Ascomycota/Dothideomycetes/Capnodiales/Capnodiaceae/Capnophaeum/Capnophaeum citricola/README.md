@@ -1,8 +1,7 @@
-Capnophaeum citricolum (Hara) Sawada SPECIES
-=======
+# Capnophaeum citricola (Hara) Sawada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

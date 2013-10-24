@@ -1,5 +1,4 @@
-Diademosa ranunculi (Rostr.) Ahn & Shearer SPECIES
-=======
+# Diademosa ranunculi (Rostr.) Ahn & Shearer SPECIES
 
 #### Status
 ACCEPTED

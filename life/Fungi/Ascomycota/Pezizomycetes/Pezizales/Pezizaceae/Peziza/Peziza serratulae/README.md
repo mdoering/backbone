@@ -1,5 +1,4 @@
-Peziza serratulae Pers. SPECIES
-=======
+# Peziza serratulae Pers. SPECIES
 
 #### Status
 ACCEPTED

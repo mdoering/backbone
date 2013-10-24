@@ -1,5 +1,4 @@
-Phyllosticta rubi-odorati Bubák & Kabát SPECIES
-=======
+# Phyllosticta rubi-odorati Bubák & Kabát SPECIES
 
 #### Status
 ACCEPTED

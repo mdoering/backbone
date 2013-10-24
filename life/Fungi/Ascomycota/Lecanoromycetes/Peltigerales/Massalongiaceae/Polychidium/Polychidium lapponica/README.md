@@ -1,5 +1,4 @@
-Polychidium lapponica (Ach.) Degel. SPECIES
-=======
+# Polychidium lapponica (Ach.) Degel. SPECIES
 
 #### Status
 ACCEPTED

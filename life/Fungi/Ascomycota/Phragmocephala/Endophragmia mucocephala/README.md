@@ -1,5 +1,4 @@
-Endophragmia mucocephala R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Endophragmia mucocephala R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

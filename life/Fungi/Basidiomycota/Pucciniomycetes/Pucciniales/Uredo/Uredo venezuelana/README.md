@@ -1,5 +1,4 @@
-Uredo venezuelana F. Kern, Thurst. & Whetzel SPECIES
-=======
+# Uredo venezuelana F. Kern, Thurst. & Whetzel SPECIES
 
 #### Status
 ACCEPTED

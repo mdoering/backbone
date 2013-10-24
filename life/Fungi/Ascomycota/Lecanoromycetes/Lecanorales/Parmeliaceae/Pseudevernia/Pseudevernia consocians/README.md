@@ -1,5 +1,4 @@
-Pseudevernia consocians (Vain.) Hale & W. L. Culb. SPECIES
-=======
+# Pseudevernia consocians (Vain.) Hale & W. L. Culb. SPECIES
 
 #### Status
 ACCEPTED

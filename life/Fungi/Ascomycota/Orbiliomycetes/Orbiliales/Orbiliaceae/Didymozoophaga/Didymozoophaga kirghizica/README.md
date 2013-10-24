@@ -1,5 +1,4 @@
-Didymozoophaga kirghizica Soprunov & Galiulina SPECIES
-=======
+# Didymozoophaga kirghizica Soprunov & Galiulina SPECIES
 
 #### Status
 ACCEPTED

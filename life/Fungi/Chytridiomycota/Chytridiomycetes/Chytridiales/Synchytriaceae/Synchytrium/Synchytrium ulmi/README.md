@@ -1,5 +1,4 @@
-Synchytrium ulmi M.T. Cook SPECIES
-=======
+# Synchytrium ulmi M.T. Cook SPECIES
 
 #### Status
 ACCEPTED

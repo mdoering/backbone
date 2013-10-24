@@ -1,8 +1,7 @@
-Urotricha discolor Kahl, 1930 SPECIES
-=======
+# Paraurotricha discolor (Kahl, 1930) Foissner, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,14 +1,13 @@
-Lachnea leucothecioides Rehm, 1895 SPECIES
-=======
+# Trichophaea leucothecioides (Rehm) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rabenh. Krypt. -Fl. (Leipzig) 1(3): 1043 (1895)
+null
 
 #### Original name
 Lachnea leucothecioides Rehm, 1895

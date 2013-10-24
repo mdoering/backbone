@@ -1,8 +1,7 @@
-Aspidisca andrewii SPECIES
-=======
+# Aspidisca andreewi Mereschkowski, 1877 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Russula poetae Reumaux, Moënne-Locc. & Bidaud SPECIES
-=======
+# Russula poetae Reumaux, Moënne-Locc. & Bidaud SPECIES
 
 #### Status
 ACCEPTED

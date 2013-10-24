@@ -1,5 +1,4 @@
-Boletus pictilis (Quél.) Sacc. & Traverso SPECIES
-=======
+# Boletus pictilis (Quél.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

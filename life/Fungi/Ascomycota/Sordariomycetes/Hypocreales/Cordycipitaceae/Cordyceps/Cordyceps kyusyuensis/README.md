@@ -1,5 +1,4 @@
-Cordyceps kyusyuensis A. Kawam. SPECIES
-=======
+# Cordyceps kyusyuensis A. Kawam. SPECIES
 
 #### Status
 ACCEPTED

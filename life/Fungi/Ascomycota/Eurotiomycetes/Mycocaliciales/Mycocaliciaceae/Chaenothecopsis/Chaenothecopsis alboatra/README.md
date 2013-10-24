@@ -1,8 +1,7 @@
-Chaenothecopsis alboatrum (Flörke) Nádv. SPECIES
-=======
+# Chaenothecopsis alboatra (Flörke) Nádv. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

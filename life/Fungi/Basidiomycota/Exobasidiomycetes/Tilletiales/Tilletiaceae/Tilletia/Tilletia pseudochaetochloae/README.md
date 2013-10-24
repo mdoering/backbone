@@ -1,5 +1,4 @@
-Tilletia pseudochaetochloae R.G. Shivas & Vánky, 2002 SPECIES
-=======
+# Tilletia pseudochaetochloae R.G. Shivas & Vánky, 2002 SPECIES
 
 #### Status
 ACCEPTED

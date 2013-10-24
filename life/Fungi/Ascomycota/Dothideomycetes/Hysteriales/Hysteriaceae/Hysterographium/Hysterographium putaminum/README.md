@@ -1,5 +1,4 @@
-Hysterographium putaminum (Cooke) Sacc. SPECIES
-=======
+# Hysterographium putaminum (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

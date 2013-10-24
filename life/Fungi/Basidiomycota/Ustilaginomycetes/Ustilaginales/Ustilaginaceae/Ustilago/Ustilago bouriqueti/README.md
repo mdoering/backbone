@@ -1,5 +1,4 @@
-Ustilago bouriqueti Maubl. & Roger SPECIES
-=======
+# Ustilago bouriqueti Maubl. & Roger SPECIES
 
 #### Status
 ACCEPTED

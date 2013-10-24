@@ -1,14 +1,13 @@
-Tricholoma connatum (Schumach.) Ricken, 1915 SPECIES
-=======
+# Lyophyllum connatum (Schumach.) Singer, 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Die Blätterpilze 360 (1915)
+Schweiz. Z. Pilzk. 17: 55 (1939)
 
 #### Original name
 Agaricus connatus Berk. & M.A. Curtis, 1860

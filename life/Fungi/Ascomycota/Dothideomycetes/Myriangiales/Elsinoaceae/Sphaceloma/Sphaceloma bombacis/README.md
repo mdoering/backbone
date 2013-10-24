@@ -1,5 +1,4 @@
-Sphaceloma bombacis Wani & Thirum. SPECIES
-=======
+# Sphaceloma bombacis Wani & Thirum. SPECIES
 
 #### Status
 ACCEPTED

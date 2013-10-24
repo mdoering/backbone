@@ -1,5 +1,4 @@
-Rhodophyllus patagonicus Singer SPECIES
-=======
+# Rhodophyllus patagonicus Singer SPECIES
 
 #### Status
 ACCEPTED

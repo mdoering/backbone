@@ -1,5 +1,4 @@
-Nummularia laurus Morgan SPECIES
-=======
+# Nummularia laurus Morgan SPECIES
 
 #### Status
 ACCEPTED

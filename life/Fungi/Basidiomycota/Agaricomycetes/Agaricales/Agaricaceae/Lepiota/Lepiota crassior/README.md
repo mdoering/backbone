@@ -1,5 +1,4 @@
-Lepiota crassior Singer SPECIES
-=======
+# Lepiota crassior Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteus tiliaceus Velen. SPECIES
-=======
+# Pluteus tiliaceus Velen. SPECIES
 
 #### Status
 ACCEPTED

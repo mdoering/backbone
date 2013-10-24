@@ -1,5 +1,4 @@
-Ornithinicoccus hortensis Groth et al., 1999 SPECIES
-=======
+# Ornithinicoccus hortensis Groth et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

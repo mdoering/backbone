@@ -1,5 +1,4 @@
-Erineum punctiforme Lib. SPECIES
-=======
+# Erineum punctiforme Lib. SPECIES
 
 #### Status
 ACCEPTED

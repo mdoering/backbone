@@ -1,5 +1,4 @@
-Excipulites hymenomycetes Göpp. SPECIES
-=======
+# Excipulites hymenomycetes Göpp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius phaeophyllus P. Karst., 1881 SPECIES
-=======
+# Cortinarius phaeophyllus P. Karst., 1881 SPECIES
 
 #### Status
 ACCEPTED

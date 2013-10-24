@@ -1,5 +1,4 @@
-Acarospora polycarpa Th. Fr. SPECIES
-=======
+# Acarospora polycarpa Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

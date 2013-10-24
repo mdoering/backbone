@@ -1,5 +1,4 @@
-Ceratolithoides pricei SPECIES
-=======
+# Ceratolithoides pricei SPECIES
 
 #### Status
 ACCEPTED

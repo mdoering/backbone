@@ -1,5 +1,4 @@
-Sphaerella frenumbensis Speg. SPECIES
-=======
+# Sphaerella frenumbensis Speg. SPECIES
 
 #### Status
 ACCEPTED

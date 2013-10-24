@@ -1,5 +1,4 @@
-Galerina hybrida Kühner, 1935 SPECIES
-=======
+# Galerina hybrida Kühner, 1935 SPECIES
 
 #### Status
 ACCEPTED

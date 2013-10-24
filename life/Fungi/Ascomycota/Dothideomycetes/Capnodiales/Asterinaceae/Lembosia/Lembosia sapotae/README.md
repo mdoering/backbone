@@ -1,5 +1,4 @@
-Lembosia sapotae R.W. Ryan SPECIES
-=======
+# Lembosia sapotae R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

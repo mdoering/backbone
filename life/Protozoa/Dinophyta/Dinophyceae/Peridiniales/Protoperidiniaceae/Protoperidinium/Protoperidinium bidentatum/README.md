@@ -1,5 +1,4 @@
-Protoperidinium bidentatum (Abé, 1981) Balech, 1994 SPECIES
-=======
+# Protoperidinium bidentatum (Abé, 1981) Balech, 1994 SPECIES
 
 #### Status
 ACCEPTED

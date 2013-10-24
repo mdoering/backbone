@@ -1,5 +1,4 @@
-Phomopsis epiglandula (Tassi) Bond.-Mont. SPECIES
-=======
+# Phomopsis epiglandula (Tassi) Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

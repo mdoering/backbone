@@ -1,5 +1,4 @@
-Sticta tomentosa (Sw.) Ach. SPECIES
-=======
+# Sticta tomentosa (Sw.) Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyxicoccus fallax SPECIES
-=======
+# Pyxicoccus fallax SPECIES
 
 #### Status
 ACCEPTED

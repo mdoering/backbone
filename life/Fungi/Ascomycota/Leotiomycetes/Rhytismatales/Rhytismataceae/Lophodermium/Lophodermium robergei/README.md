@@ -1,5 +1,4 @@
-Lophodermium robergei (Desm.) Sacc. SPECIES
-=======
+# Lophodermium robergei (Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

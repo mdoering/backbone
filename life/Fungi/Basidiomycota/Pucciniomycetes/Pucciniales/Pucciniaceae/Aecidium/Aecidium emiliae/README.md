@@ -1,5 +1,4 @@
-Aecidium emiliae Petch SPECIES
-=======
+# Aecidium emiliae Petch SPECIES
 
 #### Status
 ACCEPTED

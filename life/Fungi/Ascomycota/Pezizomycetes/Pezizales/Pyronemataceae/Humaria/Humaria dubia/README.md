@@ -1,5 +1,4 @@
-Humaria dubia Boud. SPECIES
-=======
+# Humaria dubia Boud. SPECIES
 
 #### Status
 ACCEPTED

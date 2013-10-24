@@ -1,5 +1,4 @@
-Polysaccum confusum Cooke ex Massee SPECIES
-=======
+# Polysaccum confusum Cooke ex Massee SPECIES
 
 #### Status
 ACCEPTED

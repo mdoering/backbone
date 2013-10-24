@@ -1,5 +1,4 @@
-Colletotrichum sphaeriaeforme Pass. SPECIES
-=======
+# Colletotrichum sphaeriaeforme Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina bufonia Kabát & Bubák, 1903 SPECIES
-=======
+# Diplodina bufonia Kabát & Bubák, 1903 SPECIES
 
 #### Status
 ACCEPTED

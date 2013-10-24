@@ -1,5 +1,4 @@
-Torula verrucospora (P.N. Mathur & G.P. Singh) B. Sutton SPECIES
-=======
+# Torula verrucospora (P.N. Mathur & G.P. Singh) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

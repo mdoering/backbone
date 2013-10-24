@@ -1,5 +1,4 @@
-Mycosphaerella sarothamni Petr., 1924 SPECIES
-=======
+# Mycosphaerella sarothamni Petr., 1924 SPECIES
 
 #### Status
 ACCEPTED

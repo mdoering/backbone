@@ -1,17 +1,16 @@
-Peziza spencerii Colenso SPECIES
-=======
+# Peziza spenceri Colenso SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. & Proc. New Zealand Inst. 22: 458 (1890)
 
 #### Original name
-Peziza spencerii Colenso
+Peziza spenceri Colenso
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Synchytrium varanasense Bharadwaj & R.S. Dwivedi SPECIES
-=======
+# Synchytrium varanasense Bharadwaj & R.S. Dwivedi SPECIES
 
 #### Status
 ACCEPTED

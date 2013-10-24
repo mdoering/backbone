@@ -1,5 +1,4 @@
-Lecanora flavo-ochracea Müll. Arg. SPECIES
-=======
+# Lecanora flavo-ochracea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

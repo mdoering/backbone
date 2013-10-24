@@ -1,5 +1,4 @@
-Cephalotrichum cellare (Peck) Kuntze SPECIES
-=======
+# Cephalotrichum cellare (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

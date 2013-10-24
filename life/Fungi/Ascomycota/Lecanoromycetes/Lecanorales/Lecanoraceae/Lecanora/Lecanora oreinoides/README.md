@@ -1,5 +1,4 @@
-Lecidea angolensis var. angolensis VARIETY
-=======
+# Lecanora oreinoides (Körb.) Hertel & Rambold SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Linnaea 43: 35 (1880)
+in Rambold, Biblthca Lichenol. 34: 100 (1989)
 
 #### Original name
-Lecidea angolensis var. angolensis
+Aspicilia oreinoides Körb.
 
 ### Remarks
 null

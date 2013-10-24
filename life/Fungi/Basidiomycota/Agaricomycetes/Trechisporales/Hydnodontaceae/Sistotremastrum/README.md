@@ -1,5 +1,4 @@
-Sistotremastrum J. Eriksson, 1958 GENUS
-=======
+# Sistotremastrum J. Eriksson, 1958 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora scabrellae R. Chaudhary, C. Gupta & Kamal SPECIES
-=======
+# Pseudocercospora scabrellae R. Chaudhary, C. Gupta & Kamal SPECIES
 
 #### Status
 ACCEPTED

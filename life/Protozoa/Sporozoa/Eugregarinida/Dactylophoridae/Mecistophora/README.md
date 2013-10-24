@@ -1,5 +1,4 @@
-Mecistophora Ganapati & Narasimhamurti, 1960 GENUS
-=======
+# Mecistophora Ganapati & Narasimhamurti, 1960 GENUS
 
 #### Status
 ACCEPTED

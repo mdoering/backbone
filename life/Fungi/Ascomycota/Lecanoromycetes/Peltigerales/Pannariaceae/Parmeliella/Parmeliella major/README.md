@@ -1,5 +1,4 @@
-Parmeliella major Darb. SPECIES
-=======
+# Parmeliella major Darb. SPECIES
 
 #### Status
 ACCEPTED

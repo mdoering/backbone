@@ -1,5 +1,4 @@
-Urceolella pallida (Velen.) Huhtinen SPECIES
-=======
+# Urceolella pallida (Velen.) Huhtinen SPECIES
 
 #### Status
 ACCEPTED

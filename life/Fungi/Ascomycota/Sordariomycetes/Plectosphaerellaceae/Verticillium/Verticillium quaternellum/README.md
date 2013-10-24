@@ -1,5 +1,4 @@
-Verticillium quaternellum Grove SPECIES
-=======
+# Verticillium quaternellum Grove SPECIES
 
 #### Status
 ACCEPTED

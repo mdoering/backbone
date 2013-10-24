@@ -1,5 +1,4 @@
-Christiansenia Hauerslev GENUS
-=======
+# Christiansenia Hauerslev GENUS
 
 #### Status
 ACCEPTED

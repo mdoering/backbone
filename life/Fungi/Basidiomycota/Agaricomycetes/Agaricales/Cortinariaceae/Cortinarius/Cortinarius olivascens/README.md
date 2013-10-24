@@ -1,5 +1,4 @@
-Cortinarius olivascens (Velen.) Rob. Henry SPECIES
-=======
+# Cortinarius olivascens (Velen.) Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

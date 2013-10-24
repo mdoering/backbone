@@ -1,5 +1,4 @@
-Dysteria proraefrons Clark, 1866 SPECIES
-=======
+# Dysteria proraefrons Clark, 1866 SPECIES
 
 #### Status
 ACCEPTED

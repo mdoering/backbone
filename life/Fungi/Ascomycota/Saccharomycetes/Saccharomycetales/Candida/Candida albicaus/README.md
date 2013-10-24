@@ -1,5 +1,4 @@
-Candida albicaus (Robin) Berkhout SPECIES
-=======
+# Candida albicaus (Robin) Berkhout SPECIES
 
 #### Status
 ACCEPTED

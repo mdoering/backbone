@@ -1,14 +1,13 @@
-Macowanites echinosporus Zeller & C.W. Dodge, 1919 SPECIES
-=======
+# Cystangium echinosporum (Zeller & C.W. Dodge) Trappe, T. Lebel & Castellano, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 6: 57 (1919)
+Mycotaxon 81: 197 (2002)
 
 #### Original name
 Macowanites echinosporus Zeller & C.W. Dodge, 1919

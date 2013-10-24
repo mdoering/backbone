@@ -1,5 +1,4 @@
-Opegrapha sordidescens Vain. SPECIES
-=======
+# Opegrapha sordidescens Vain. SPECIES
 
 #### Status
 ACCEPTED

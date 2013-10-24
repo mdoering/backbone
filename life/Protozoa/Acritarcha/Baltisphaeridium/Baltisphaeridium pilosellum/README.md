@@ -1,5 +1,4 @@
-Baltisphaeridium pilosellum N. Umnova, 1975 SPECIES
-=======
+# Baltisphaeridium pilosellum N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

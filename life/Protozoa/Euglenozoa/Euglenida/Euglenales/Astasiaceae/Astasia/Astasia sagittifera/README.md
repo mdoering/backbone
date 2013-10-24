@@ -1,5 +1,4 @@
-Astasia sagittifera Skuja SPECIES
-=======
+# Astasia sagittifera Skuja SPECIES
 
 #### Status
 ACCEPTED

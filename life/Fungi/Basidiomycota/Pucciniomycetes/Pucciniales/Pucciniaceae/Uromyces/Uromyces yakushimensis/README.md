@@ -1,5 +1,4 @@
-Uromyces yakushimensis Hirats. f. & Katsuki SPECIES
-=======
+# Uromyces yakushimensis Hirats. f. & Katsuki SPECIES
 
 #### Status
 ACCEPTED

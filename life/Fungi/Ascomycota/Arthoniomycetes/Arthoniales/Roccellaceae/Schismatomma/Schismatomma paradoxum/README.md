@@ -1,5 +1,4 @@
-Schismatomma paradoxum (Fée) Zahlbr. SPECIES
-=======
+# Schismatomma paradoxum (Fée) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

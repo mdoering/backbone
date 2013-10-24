@@ -1,5 +1,4 @@
-Roseibium hamelinense Suzuki et al., 2000 SPECIES
-=======
+# Roseibium hamelinense Suzuki et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

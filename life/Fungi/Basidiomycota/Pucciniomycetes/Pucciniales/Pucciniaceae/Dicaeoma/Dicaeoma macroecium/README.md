@@ -1,5 +1,4 @@
-Dicaeoma macroecium (Ellis & Everh.) Kuntze SPECIES
-=======
+# Dicaeoma macroecium (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrype aemula (Penz. & Sacc.) Rappaz SPECIES
-=======
+# Diatrype aemula (Penz. & Sacc.) Rappaz SPECIES
 
 #### Status
 ACCEPTED

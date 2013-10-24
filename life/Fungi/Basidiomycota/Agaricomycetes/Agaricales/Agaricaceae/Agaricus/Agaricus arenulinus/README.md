@@ -1,5 +1,4 @@
-Agaricus arenulinus Peck SPECIES
-=======
+# Agaricus arenulinus Peck SPECIES
 
 #### Status
 ACCEPTED

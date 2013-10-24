@@ -1,5 +1,4 @@
-Lecidea veselskyi Opiz SPECIES
-=======
+# Lecidea veselskyi Opiz SPECIES
 
 #### Status
 ACCEPTED

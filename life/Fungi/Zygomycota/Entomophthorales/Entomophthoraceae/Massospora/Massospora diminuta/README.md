@@ -1,5 +1,4 @@
-Massospora diminuta R.S. Soper, 1974 SPECIES
-=======
+# Massospora diminuta R.S. Soper, 1974 SPECIES
 
 #### Status
 ACCEPTED

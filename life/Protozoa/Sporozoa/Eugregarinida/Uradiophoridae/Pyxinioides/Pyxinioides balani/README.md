@@ -1,8 +1,7 @@
-Gregarina balani von Kölliker, 1848 SPECIES
-=======
+# Pyxinioides balani (von Kölliker, 1848) Trégouboff, 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

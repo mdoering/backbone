@@ -1,5 +1,4 @@
-Neolinocarpon calami K.D. Hyde, Joanne E. Taylor & J. Fröhl. SPECIES
-=======
+# Neolinocarpon calami K.D. Hyde, Joanne E. Taylor & J. Fröhl. SPECIES
 
 #### Status
 ACCEPTED

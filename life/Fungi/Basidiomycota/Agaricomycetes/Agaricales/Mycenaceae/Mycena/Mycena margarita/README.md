@@ -1,5 +1,4 @@
-Mycena margarita Murrill SPECIES
-=======
+# Mycena margarita Murrill SPECIES
 
 #### Status
 ACCEPTED

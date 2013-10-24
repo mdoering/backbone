@@ -1,14 +1,13 @@
-Agaricus latifolius Peck, 1872 SPECIES
-=======
+# Mycena latifolia (Peck) A.H. Sm., 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. Reg. St. N. Y. 23: 81 (1872)
+Mycologia 27: 599 (1935)
 
 #### Original name
 Agaricus latifolius Peck, 1872

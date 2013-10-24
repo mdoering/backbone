@@ -1,5 +1,4 @@
-Sorothelia GENUS
-=======
+# Sorothelia GENUS
 
 #### Status
 ACCEPTED

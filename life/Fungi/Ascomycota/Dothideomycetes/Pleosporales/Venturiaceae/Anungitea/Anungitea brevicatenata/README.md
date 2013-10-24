@@ -1,5 +1,4 @@
-Anungitea brevicatenata R.F. Castañeda, W.B. Kendr. & Guarro, 1997 SPECIES
-=======
+# Anungitea brevicatenata R.F. Castañeda, W.B. Kendr. & Guarro, 1997 SPECIES
 
 #### Status
 ACCEPTED

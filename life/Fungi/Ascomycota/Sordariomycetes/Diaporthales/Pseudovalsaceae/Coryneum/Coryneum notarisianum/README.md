@@ -1,5 +1,4 @@
-Coryneum notarisianum Sacc. SPECIES
-=======
+# Coryneum notarisianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

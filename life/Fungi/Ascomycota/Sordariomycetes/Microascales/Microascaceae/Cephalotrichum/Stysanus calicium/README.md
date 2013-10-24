@@ -1,5 +1,4 @@
-Stysanus calicium Speg. SPECIES
-=======
+# Stysanus calicium Speg. SPECIES
 
 #### Status
 ACCEPTED

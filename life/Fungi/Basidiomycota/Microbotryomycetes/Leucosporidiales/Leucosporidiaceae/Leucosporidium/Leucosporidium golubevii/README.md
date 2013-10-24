@@ -1,5 +1,4 @@
-Leucosporidium golubevii Gadanho, J.P. Samp. & R. Bauer SPECIES
-=======
+# Leucosporidium golubevii Gadanho, J.P. Samp. & R. Bauer SPECIES
 
 #### Status
 ACCEPTED

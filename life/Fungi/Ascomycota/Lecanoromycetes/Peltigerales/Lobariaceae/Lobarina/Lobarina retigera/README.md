@@ -1,5 +1,4 @@
-Lobarina retigera (Bory) Nyl. SPECIES
-=======
+# Lobarina retigera (Bory) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenopeziza polygonati Velen. SPECIES
-=======
+# Pyrenopeziza polygonati Velen. SPECIES
 
 #### Status
 ACCEPTED

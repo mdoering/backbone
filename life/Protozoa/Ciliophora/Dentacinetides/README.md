@@ -1,5 +1,4 @@
-Dentacinetides Batisse, 1992 GENUS
-=======
+# Dentacinetides Batisse, 1992 GENUS
 
 #### Status
 ACCEPTED

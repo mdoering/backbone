@@ -1,5 +1,4 @@
-Abiotrophia Kawamura et al., 1995 GENUS
-=======
+# Abiotrophia Kawamura et al., 1995 GENUS
 
 #### Status
 ACCEPTED

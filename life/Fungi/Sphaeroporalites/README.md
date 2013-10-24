@@ -1,5 +1,4 @@
-Sphaeroporalites Hemer & Nygreen GENUS
-=======
+# Sphaeroporalites Hemer & Nygreen GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micrhystridium pallidum SPECIES
-=======
+# Micrhystridium pallidum SPECIES
 
 #### Status
 ACCEPTED

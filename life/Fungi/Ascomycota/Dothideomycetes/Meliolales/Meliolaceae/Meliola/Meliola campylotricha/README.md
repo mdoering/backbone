@@ -1,5 +1,4 @@
-Meliola campylotricha Syd. SPECIES
-=======
+# Meliola campylotricha Syd. SPECIES
 
 #### Status
 ACCEPTED

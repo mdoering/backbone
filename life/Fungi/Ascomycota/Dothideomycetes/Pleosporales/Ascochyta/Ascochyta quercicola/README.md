@@ -1,5 +1,4 @@
-Ascochyta quercicola Lib. SPECIES
-=======
+# Ascochyta quercicola Lib. SPECIES
 
 #### Status
 ACCEPTED

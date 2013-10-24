@@ -1,11 +1,10 @@
-Haematodinium J. Schiller in F. Gessner & V. Vareschi, 1956 GENUS
-=======
+# Halophilodinium A.R.Loeblich Jr. & A.R.Loeblich Iii, 1966 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

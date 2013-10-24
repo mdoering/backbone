@@ -1,5 +1,4 @@
-Gavelinopsis bassleri SPECIES
-=======
+# Gavelinopsis bassleri SPECIES
 
 #### Status
 ACCEPTED

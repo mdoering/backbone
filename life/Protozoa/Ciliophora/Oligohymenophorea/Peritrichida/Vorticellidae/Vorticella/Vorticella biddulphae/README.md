@@ -1,5 +1,4 @@
-Vorticella biddulphae Stiller, 1939 SPECIES
-=======
+# Vorticella biddulphae Stiller, 1939 SPECIES
 
 #### Status
 ACCEPTED

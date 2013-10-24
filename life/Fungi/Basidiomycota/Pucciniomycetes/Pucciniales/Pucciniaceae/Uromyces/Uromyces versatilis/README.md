@@ -1,5 +1,4 @@
-Uromyces versatilis Peck SPECIES
-=======
+# Uromyces versatilis Peck SPECIES
 
 #### Status
 ACCEPTED

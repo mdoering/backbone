@@ -1,5 +1,4 @@
-Stictis puiggarii Speg. SPECIES
-=======
+# Stictis puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia comandrae Peck SPECIES
-=======
+# Puccinia comandrae Peck SPECIES
 
 #### Status
 ACCEPTED

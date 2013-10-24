@@ -1,5 +1,4 @@
-Trombetta pulverulenta (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Trombetta pulverulenta (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

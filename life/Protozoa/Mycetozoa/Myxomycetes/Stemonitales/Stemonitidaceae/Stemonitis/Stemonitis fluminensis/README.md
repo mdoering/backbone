@@ -1,5 +1,4 @@
-Stemonitis fluminensis Speg. SPECIES
-=======
+# Stemonitis fluminensis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staurocyclia Haeckel, 1881 GENUS
-=======
+# Staurocyclia Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

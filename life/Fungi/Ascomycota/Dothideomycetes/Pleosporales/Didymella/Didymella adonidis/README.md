@@ -1,5 +1,4 @@
-Didymella adonidis Moesz, 1909 SPECIES
-=======
+# Didymella adonidis Moesz, 1909 SPECIES
 
 #### Status
 ACCEPTED

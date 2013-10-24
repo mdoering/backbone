@@ -1,5 +1,4 @@
-Cheilymenia notabilispora J. Moravec SPECIES
-=======
+# Cheilymenia notabilispora J. Moravec SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigonema thermale var. mucosa Lemmermann VARIETY
-=======
+# Stigonema thermale (Schwabe) Borzi SPECIES
 
 #### Status
 ACCEPTED

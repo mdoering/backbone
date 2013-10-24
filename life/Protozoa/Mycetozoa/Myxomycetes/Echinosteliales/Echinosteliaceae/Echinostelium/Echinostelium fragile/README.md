@@ -1,5 +1,4 @@
-Echinostelium fragile Nann.-Bremek., 1961 SPECIES
-=======
+# Echinostelium fragile Nann.-Bremek., 1961 SPECIES
 
 #### Status
 ACCEPTED

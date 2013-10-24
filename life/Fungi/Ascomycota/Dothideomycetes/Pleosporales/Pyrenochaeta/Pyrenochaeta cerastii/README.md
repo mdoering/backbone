@@ -1,5 +1,4 @@
-Pyrenochaeta cerastii Bondartseva SPECIES
-=======
+# Pyrenochaeta cerastii Bondartseva SPECIES
 
 #### Status
 ACCEPTED

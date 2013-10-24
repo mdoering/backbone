@@ -1,5 +1,4 @@
-Irenopsis passiflorae Hansf. SPECIES
-=======
+# Irenopsis passiflorae Hansf. SPECIES
 
 #### Status
 ACCEPTED

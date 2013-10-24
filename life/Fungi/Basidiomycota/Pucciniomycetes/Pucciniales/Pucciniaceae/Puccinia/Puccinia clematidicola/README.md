@@ -1,5 +1,4 @@
-Puccinia clematidicola F.L. Tai SPECIES
-=======
+# Puccinia clematidicola F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

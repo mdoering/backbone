@@ -1,5 +1,4 @@
-Mycena vinacea Cleland, 1931 SPECIES
-=======
+# Mycena vinacea Cleland, 1931 SPECIES
 
 #### Status
 ACCEPTED

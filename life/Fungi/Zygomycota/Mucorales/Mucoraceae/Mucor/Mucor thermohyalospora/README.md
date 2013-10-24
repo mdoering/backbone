@@ -1,5 +1,4 @@
-Mucor thermohyalospora Subrahm. SPECIES
-=======
+# Mucor thermohyalospora Subrahm. SPECIES
 
 #### Status
 ACCEPTED

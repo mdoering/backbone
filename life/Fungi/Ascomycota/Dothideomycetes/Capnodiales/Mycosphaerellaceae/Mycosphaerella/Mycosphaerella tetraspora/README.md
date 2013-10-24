@@ -1,5 +1,4 @@
-Mycosphaerella tetraspora Seaver SPECIES
-=======
+# Mycosphaerella tetraspora Seaver SPECIES
 
 #### Status
 ACCEPTED

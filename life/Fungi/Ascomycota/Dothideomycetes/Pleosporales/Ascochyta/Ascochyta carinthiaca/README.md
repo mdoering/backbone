@@ -1,5 +1,4 @@
-Ascochyta carinthiaca Jaap SPECIES
-=======
+# Ascochyta carinthiaca Jaap SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Saccharomyces phaseolospora Shehata, Mrak & Phaff SPECIES
-=======
+# Saccharomyces phaseolospora Shehata, Mrak & Phaff SPECIES
 
 #### Status
 ACCEPTED

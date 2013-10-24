@@ -1,5 +1,4 @@
-Strongylium majus Fr. SPECIES
-=======
+# Strongylium majus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphisphaeria closterophora Berk. & Broome SPECIES
-=======
+# Amphisphaeria closterophora Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

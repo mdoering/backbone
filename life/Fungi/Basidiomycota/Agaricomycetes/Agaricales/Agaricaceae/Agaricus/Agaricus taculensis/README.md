@@ -1,5 +1,4 @@
-Agaricus taculensis Raithelh. SPECIES
-=======
+# Agaricus taculensis Raithelh. SPECIES
 
 #### Status
 ACCEPTED

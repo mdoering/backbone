@@ -1,5 +1,4 @@
-Strigula endolithea Cl. Roux & Bricaud SPECIES
-=======
+# Strigula endolithea Cl. Roux & Bricaud SPECIES
 
 #### Status
 ACCEPTED

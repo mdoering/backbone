@@ -1,5 +1,4 @@
-Collybia ephippium (Fr.) Quél. SPECIES
-=======
+# Collybia ephippium (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

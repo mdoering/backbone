@@ -1,5 +1,4 @@
-Lycoperdon laxum Bonord. SPECIES
-=======
+# Lycoperdon laxum Bonord. SPECIES
 
 #### Status
 ACCEPTED

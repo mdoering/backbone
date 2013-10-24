@@ -1,5 +1,4 @@
-Escherichia alba SPECIES
-=======
+# Escherichia alba SPECIES
 
 #### Status
 ACCEPTED

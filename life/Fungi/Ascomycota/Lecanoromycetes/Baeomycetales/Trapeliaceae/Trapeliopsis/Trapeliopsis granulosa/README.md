@@ -1,17 +1,16 @@
-Lecidea granulosa var. granulosa VARIETY
-=======
+# Trapeliopsis granulosa (Hoffm.) Lumbsch SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Method. Lich. 65 (1803)
+in Hertel, Lecideaceae exsiccatae (München), Fascicle <b>V</b> 5: no. 99 (1983)
 
 #### Original name
-Lecidea granulosa var. granulosa
+null
 
 ### Remarks
 null

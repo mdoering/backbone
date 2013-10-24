@@ -1,11 +1,10 @@
-Goësella Cushman, 1933 GENUS
-=======
+# Goesella Cushman, 1933 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Contr. Cushman Lab. Foram. , 1933, 32.

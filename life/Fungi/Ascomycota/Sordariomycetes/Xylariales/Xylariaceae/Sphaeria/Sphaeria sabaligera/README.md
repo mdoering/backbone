@@ -1,5 +1,4 @@
-Sphaeria sabaligera Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria sabaligera Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

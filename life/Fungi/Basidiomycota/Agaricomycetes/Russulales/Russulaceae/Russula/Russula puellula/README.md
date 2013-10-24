@@ -1,5 +1,4 @@
-Russula puellula Ebbesen, F.H. Møller & Jul. Schäff., 1937 SPECIES
-=======
+# Russula puellula Ebbesen, F.H. Møller & Jul. Schäff., 1937 SPECIES
 
 #### Status
 ACCEPTED

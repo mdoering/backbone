@@ -1,5 +1,4 @@
-Hendersonia malvacei Brunaud SPECIES
-=======
+# Hendersonia malvacei Brunaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothidea lichenicola Massee SPECIES
-=======
+# Dothidea lichenicola Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corneromyces Ginns GENUS
-=======
+# Corneromyces Ginns GENUS
 
 #### Status
 ACCEPTED

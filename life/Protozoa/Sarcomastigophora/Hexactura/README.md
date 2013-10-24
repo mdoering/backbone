@@ -1,5 +1,4 @@
-Hexactura Haeckel, 1881 GENUS
-=======
+# Hexactura Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

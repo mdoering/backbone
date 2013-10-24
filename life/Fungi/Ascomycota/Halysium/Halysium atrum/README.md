@@ -1,5 +1,4 @@
-Halysium atrum Corda SPECIES
-=======
+# Halysium atrum Corda SPECIES
 
 #### Status
 ACCEPTED

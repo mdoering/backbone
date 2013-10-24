@@ -1,5 +1,4 @@
-Thelotrema dislaceratum Kremp. SPECIES
-=======
+# Thelotrema dislaceratum Kremp. SPECIES
 
 #### Status
 ACCEPTED

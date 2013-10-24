@@ -1,14 +1,13 @@
-Berlesiella fungicola Samuels & E. Müll., 1979 SPECIES
-=======
+# Capronia fungicola (Samuels & E. Müll.) Unter., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 31: 154 (1979)
+Mycologia 86(2): 294 (1994)
 
 #### Original name
 Berlesiella fungicola Samuels & E. Müll., 1979

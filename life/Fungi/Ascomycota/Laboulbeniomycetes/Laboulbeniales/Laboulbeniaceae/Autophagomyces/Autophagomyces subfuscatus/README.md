@@ -1,5 +1,4 @@
-Autophagomyces subfuscatus Thaxt. SPECIES
-=======
+# Autophagomyces subfuscatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

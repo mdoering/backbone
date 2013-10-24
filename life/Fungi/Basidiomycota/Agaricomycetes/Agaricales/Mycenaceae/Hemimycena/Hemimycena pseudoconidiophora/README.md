@@ -1,5 +1,4 @@
-Hemimycena pseudoconidiophora Singer SPECIES
-=======
+# Hemimycena pseudoconidiophora Singer SPECIES
 
 #### Status
 ACCEPTED

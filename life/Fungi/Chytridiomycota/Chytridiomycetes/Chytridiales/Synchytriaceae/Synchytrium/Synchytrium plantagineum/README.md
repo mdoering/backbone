@@ -1,5 +1,4 @@
-Synchytrium plantagineum Sacc. & Speg. SPECIES
-=======
+# Synchytrium plantagineum Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

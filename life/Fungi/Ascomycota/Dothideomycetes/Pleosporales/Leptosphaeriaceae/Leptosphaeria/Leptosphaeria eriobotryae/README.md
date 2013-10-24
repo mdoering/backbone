@@ -1,5 +1,4 @@
-Leptosphaeria eriobotryae Syd. & E.J. Butler SPECIES
-=======
+# Leptosphaeria eriobotryae Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

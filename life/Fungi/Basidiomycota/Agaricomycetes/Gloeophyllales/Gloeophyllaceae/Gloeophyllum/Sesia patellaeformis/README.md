@@ -1,5 +1,4 @@
-Sesia patellaeformis (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Sesia patellaeformis (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

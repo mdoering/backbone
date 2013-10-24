@@ -1,5 +1,4 @@
-Trichospermella Speg. GENUS
-=======
+# Trichospermella Speg. GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ascochytella erentopogoni S. Ahmad SPECIES
-=======
+# Ascochytella eremopogonis S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biologia, Lahore 17(1): 2 (1971)
 
 #### Original name
-Ascochytella erentopogoni S. Ahmad
+Ascochytella eremopogonis S. Ahmad
 
 ### Remarks
 null

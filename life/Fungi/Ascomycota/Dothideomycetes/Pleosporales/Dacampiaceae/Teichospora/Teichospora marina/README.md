@@ -1,5 +1,4 @@
-Teichospora marina var. marina VARIETY
-=======
+# Teichospora marina Rolland SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Teichospora marina var. marina
+Teichospora marina Rolland
 
 ### Remarks
 null

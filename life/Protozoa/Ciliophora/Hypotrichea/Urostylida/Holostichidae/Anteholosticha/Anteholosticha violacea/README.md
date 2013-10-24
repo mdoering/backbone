@@ -1,5 +1,4 @@
-Anteholosticha violacea Kahl, 1928 SPECIES
-=======
+# Anteholosticha violacea Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

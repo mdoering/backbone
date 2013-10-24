@@ -1,5 +1,4 @@
-Helotium corticale P. Karst. SPECIES
-=======
+# Helotium corticale P. Karst. SPECIES
 
 #### Status
 ACCEPTED

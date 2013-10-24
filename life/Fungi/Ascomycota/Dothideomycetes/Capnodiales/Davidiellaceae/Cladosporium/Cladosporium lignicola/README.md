@@ -1,17 +1,16 @@
-Cladosporium lignicolum Link SPECIES
-=======
+# Cladosporium lignicola Corda, 1837 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Icon. fung. (Prague) 1: 14 (1837)
 
 #### Original name
-Cladosporium lignicolum Link
+Cladosporium lignicola Corda, 1837
 
 ### Remarks
 null

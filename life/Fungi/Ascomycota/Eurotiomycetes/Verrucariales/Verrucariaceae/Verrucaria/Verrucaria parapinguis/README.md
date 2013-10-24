@@ -1,5 +1,4 @@
-Verrucaria parapinguis Servít SPECIES
-=======
+# Verrucaria parapinguis Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ectocarpus bombycinus Kützing SPECIES
-=======
+# Ectocarpus bombycinus Kützing SPECIES
 
 #### Status
 ACCEPTED

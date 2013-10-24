@@ -1,5 +1,4 @@
-Petalomonas dilatata Hollande SPECIES
-=======
+# Petalomonas dilatata Hollande SPECIES
 
 #### Status
 ACCEPTED

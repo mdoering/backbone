@@ -1,5 +1,4 @@
-Sargassum hildebrandtii Grunow SPECIES
-=======
+# Sargassum hildebrandtii Grunow SPECIES
 
 #### Status
 ACCEPTED

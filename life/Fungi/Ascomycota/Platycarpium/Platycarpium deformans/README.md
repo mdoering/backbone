@@ -1,5 +1,4 @@
-Platycarpium deformans (J. Schröt.) Petr. SPECIES
-=======
+# Platycarpium deformans (J. Schröt.) Petr. SPECIES
 
 #### Status
 ACCEPTED

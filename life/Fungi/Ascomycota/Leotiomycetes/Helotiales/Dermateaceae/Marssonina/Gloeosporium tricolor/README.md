@@ -1,5 +1,4 @@
-Gloeosporium tricolor Lind SPECIES
-=======
+# Gloeosporium tricolor Lind SPECIES
 
 #### Status
 ACCEPTED

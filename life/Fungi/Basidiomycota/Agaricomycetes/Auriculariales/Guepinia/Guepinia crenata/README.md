@@ -1,5 +1,4 @@
-Guepinia crenata Lloyd SPECIES
-=======
+# Guepinia crenata Lloyd SPECIES
 
 #### Status
 ACCEPTED

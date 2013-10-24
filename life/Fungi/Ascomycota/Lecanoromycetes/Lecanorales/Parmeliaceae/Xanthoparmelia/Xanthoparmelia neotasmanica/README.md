@@ -1,5 +1,4 @@
-Xanthoparmelia neotasmanica Hale SPECIES
-=======
+# Xanthoparmelia neotasmanica Hale SPECIES
 
 #### Status
 ACCEPTED

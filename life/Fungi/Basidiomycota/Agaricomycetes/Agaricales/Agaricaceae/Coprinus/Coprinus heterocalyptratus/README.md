@@ -1,5 +1,4 @@
-Coprinus heterocalyptratus Bogart SPECIES
-=======
+# Coprinus heterocalyptratus Bogart SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Methanogenium frigidum Franzmann et al., 1997 SPECIES
-=======
+# Methanogenium frigidum Franzmann et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

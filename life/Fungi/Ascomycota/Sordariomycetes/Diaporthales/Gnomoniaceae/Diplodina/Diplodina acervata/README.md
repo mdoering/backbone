@@ -1,5 +1,4 @@
-Diplodina acervata (Lév.) Sacc. SPECIES
-=======
+# Diplodina acervata (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pelagophycus Areschoug, 1881 GENUS
-=======
+# Pelagophycus Areschoug, 1881 GENUS
 
 #### Status
 ACCEPTED

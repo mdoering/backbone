@@ -1,5 +1,4 @@
-Hendersonia typhicola Picb. SPECIES
-=======
+# Hendersonia typhicola Picb. SPECIES
 
 #### Status
 ACCEPTED

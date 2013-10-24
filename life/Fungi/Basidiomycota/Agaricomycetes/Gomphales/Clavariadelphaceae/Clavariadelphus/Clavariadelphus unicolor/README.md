@@ -1,14 +1,13 @@
-Clavaria pistillaris var. unicolor (Berk. & Ravenel) Coker, 1947 VARIETY
-=======
+# Clavariadelphus unicolor (Berk. & Ravenel) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Elisha Mitchell scient. Soc. 63: 58 (1947)
+Ann. Bot. Mem. 1: 284 (1950)
 
 #### Original name
 Craterellus unicolor Berk. & Ravenel, 1873

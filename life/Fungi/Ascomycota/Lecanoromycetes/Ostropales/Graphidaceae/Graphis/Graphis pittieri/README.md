@@ -1,5 +1,4 @@
-Graphis pittieri Lücking, Umaña, Sipman & Chaves SPECIES
-=======
+# Graphis pittieri Lücking, Umaña, Sipman & Chaves SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calocera morchelloides B. Liu & L. Fan SPECIES
-=======
+# Calocera morchelloides B. Liu & L. Fan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilbospora grewiae T.S. Ramakr., Sriniv. & Sundaram SPECIES
-=======
+# Stilbospora grewiae T.S. Ramakr., Sriniv. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gastrostyla opisthoclada SPECIES
-=======
+# Gastrostyla opisthoclada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phellomycetes Renault GENUS
-=======
+# Phellomycetes Renault GENUS
 
 #### Status
 ACCEPTED

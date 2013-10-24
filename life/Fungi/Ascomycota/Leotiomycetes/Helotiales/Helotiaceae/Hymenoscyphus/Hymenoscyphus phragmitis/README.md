@@ -1,5 +1,4 @@
-Hymenoscyphus phragmitis (Saut.) Kuntze SPECIES
-=======
+# Hymenoscyphus phragmitis (Saut.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

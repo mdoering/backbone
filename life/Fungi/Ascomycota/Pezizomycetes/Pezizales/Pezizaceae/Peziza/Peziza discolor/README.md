@@ -1,5 +1,4 @@
-Peziza discolor (Hedw.) Fr. SPECIES
-=======
+# Peziza discolor (Hedw.) Fr. SPECIES
 
 #### Status
 ACCEPTED

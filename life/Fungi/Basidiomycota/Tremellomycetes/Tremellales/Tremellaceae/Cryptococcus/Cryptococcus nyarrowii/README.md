@@ -1,5 +1,4 @@
-Cryptococcus nyarrowii Thomas-Hall & K. Watson SPECIES
-=======
+# Cryptococcus nyarrowii Thomas-Hall & K. Watson SPECIES
 
 #### Status
 ACCEPTED

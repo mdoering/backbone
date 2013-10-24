@@ -1,5 +1,4 @@
-Neurospora terricola Goch. & Backus, 1963 SPECIES
-=======
+# Neurospora terricola Goch. & Backus, 1963 SPECIES
 
 #### Status
 ACCEPTED

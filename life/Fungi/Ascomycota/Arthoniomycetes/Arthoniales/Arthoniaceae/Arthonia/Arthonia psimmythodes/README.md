@@ -1,5 +1,4 @@
-Arthonia psimmythodes Nyl. SPECIES
-=======
+# Arthonia psimmythodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

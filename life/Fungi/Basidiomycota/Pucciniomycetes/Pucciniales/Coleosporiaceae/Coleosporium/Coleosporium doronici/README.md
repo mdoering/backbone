@@ -1,5 +1,4 @@
-Coleosporium doronici Namysl. SPECIES
-=======
+# Coleosporium doronici Namysl. SPECIES
 
 #### Status
 ACCEPTED

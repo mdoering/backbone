@@ -1,5 +1,4 @@
-Inocybe guttulifer f. guttulifer FORM
-=======
+# Inocybe guttulifer Kühner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Docums Mycol. 19(no. 74): 19 (1988)
 
 #### Original name
-Inocybe guttulifer f. guttulifer
+Inocybe guttulifer Kühner
 
 ### Remarks
 null

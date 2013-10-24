@@ -1,5 +1,4 @@
-Paenibacillus stellifer Suominen et al., 2003 SPECIES
-=======
+# Paenibacillus stellifer Suominen et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

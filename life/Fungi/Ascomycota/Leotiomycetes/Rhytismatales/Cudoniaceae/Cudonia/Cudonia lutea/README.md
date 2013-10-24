@@ -1,5 +1,4 @@
-Cudonia lutea (Peck) Sacc. SPECIES
-=======
+# Cudonia lutea (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eygalierina Foury, 1968 GENUS
-=======
+# Eygalierina Foury, 1968 GENUS
 
 #### Status
 ACCEPTED

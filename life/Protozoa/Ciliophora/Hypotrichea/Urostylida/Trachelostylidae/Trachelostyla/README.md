@@ -1,5 +1,4 @@
-Trachelostyla Borror, 1972 GENUS
-=======
+# Trachelostyla Borror, 1972 GENUS
 
 #### Status
 ACCEPTED

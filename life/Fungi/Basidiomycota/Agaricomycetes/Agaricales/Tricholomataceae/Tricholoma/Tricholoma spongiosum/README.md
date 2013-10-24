@@ -1,5 +1,4 @@
-Tricholoma spongiosum Petch SPECIES
-=======
+# Tricholoma spongiosum Petch SPECIES
 
 #### Status
 ACCEPTED

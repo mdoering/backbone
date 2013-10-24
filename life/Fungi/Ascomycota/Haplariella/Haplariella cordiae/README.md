@@ -1,5 +1,4 @@
-Haplariella cordiae Henn., 1931 SPECIES
-=======
+# Haplariella cordiae Henn., 1931 SPECIES
 
 #### Status
 ACCEPTED

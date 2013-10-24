@@ -1,5 +1,4 @@
-Haladaptatus litoreus Cui, Sun, Gao, Dong, Xu, Zhou, Liu, Oren & Zhou, 2010 SPECIES
-=======
+# Haladaptatus litoreus Cui, Sun, Gao, Dong, Xu, Zhou, Liu, Oren & Zhou, 2010 SPECIES
 
 #### Status
 ACCEPTED

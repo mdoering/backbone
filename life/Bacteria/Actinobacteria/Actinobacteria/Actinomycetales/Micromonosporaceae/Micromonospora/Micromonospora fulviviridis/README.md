@@ -1,5 +1,4 @@
-Micromonospora fulviviridis Kroppenstedt et al., 2005 SPECIES
-=======
+# Micromonospora fulviviridis Kroppenstedt et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

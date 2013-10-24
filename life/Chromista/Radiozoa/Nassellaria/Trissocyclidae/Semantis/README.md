@@ -1,5 +1,4 @@
-Semantis Haeckel, 1887 GENUS
-=======
+# Semantis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

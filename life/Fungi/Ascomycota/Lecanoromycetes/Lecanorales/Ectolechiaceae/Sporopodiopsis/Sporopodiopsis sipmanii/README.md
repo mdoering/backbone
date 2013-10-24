@@ -1,5 +1,4 @@
-Sporopodiopsis sipmanii Sérus. SPECIES
-=======
+# Sporopodiopsis sipmanii Sérus. SPECIES
 
 #### Status
 ACCEPTED

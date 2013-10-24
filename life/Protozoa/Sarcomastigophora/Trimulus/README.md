@@ -1,5 +1,4 @@
-Trimulus O'Dogherty, 1994 GENUS
-=======
+# Trimulus O'Dogherty, 1994 GENUS
 
 #### Status
 ACCEPTED

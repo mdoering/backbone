@@ -1,5 +1,4 @@
-Dinobryon anuminatum Rutter SPECIES
-=======
+# Dinobryon anuminatum Rutter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eurotiopsis foliicola P. Karst. SPECIES
-=======
+# Eurotiopsis foliicola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

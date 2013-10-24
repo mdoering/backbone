@@ -1,5 +1,4 @@
-Diplophlyctis asteroidea Dogma, 1976 SPECIES
-=======
+# Diplophlyctis asteroidea Dogma, 1976 SPECIES
 
 #### Status
 ACCEPTED

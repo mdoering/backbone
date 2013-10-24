@@ -1,5 +1,4 @@
-Miniimonas arenae Ue, Matsuo, Kasai & Yokota, 2011 SPECIES
-=======
+# Miniimonas arenae Ue, Matsuo, Kasai & Yokota, 2011 SPECIES
 
 #### Status
 ACCEPTED

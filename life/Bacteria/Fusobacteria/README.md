@@ -1,5 +1,4 @@
-Fusobacteria PHYLUM
-=======
+# Fusobacteria PHYLUM
 
 #### Status
 ACCEPTED

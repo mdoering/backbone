@@ -1,5 +1,4 @@
-Clitopilus earlei (Murrill) Sacc. & Trotter SPECIES
-=======
+# Clitopilus earlei (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

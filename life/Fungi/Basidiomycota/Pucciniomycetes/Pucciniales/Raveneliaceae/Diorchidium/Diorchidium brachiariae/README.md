@@ -1,5 +1,4 @@
-Diorchidium brachiariae Wakef. & Hansf. SPECIES
-=======
+# Diorchidium brachiariae Wakef. & Hansf. SPECIES
 
 #### Status
 ACCEPTED

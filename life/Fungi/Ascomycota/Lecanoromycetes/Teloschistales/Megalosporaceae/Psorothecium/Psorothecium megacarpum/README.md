@@ -1,5 +1,4 @@
-Psorothecium megacarpum (Nyl.) A. Massal. SPECIES
-=======
+# Psorothecium megacarpum (Nyl.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

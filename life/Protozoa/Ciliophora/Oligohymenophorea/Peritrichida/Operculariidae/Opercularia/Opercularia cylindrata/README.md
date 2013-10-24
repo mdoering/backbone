@@ -1,5 +1,4 @@
-Opercularia cylindrata Wrzesniowski, 1870 SPECIES
-=======
+# Opercularia cylindrata Wrzesniowski, 1870 SPECIES
 
 #### Status
 ACCEPTED

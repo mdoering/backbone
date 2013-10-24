@@ -1,5 +1,4 @@
-Phyllachora toroi Chardón, 1930 SPECIES
-=======
+# Phyllachora toroi Chardón, 1930 SPECIES
 
 #### Status
 DOUBTFUL

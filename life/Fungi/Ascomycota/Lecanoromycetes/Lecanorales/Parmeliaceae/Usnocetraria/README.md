@@ -1,5 +1,4 @@
-Usnocetraria GENUS
-=======
+# Usnocetraria GENUS
 
 #### Status
 ACCEPTED

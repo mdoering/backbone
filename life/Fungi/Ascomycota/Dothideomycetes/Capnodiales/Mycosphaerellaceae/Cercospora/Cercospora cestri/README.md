@@ -1,5 +1,4 @@
-Cercospora cestri Chupp & A.S. Mull. SPECIES
-=======
+# Cercospora cestri Chupp & A.S. Mull. SPECIES
 
 #### Status
 ACCEPTED

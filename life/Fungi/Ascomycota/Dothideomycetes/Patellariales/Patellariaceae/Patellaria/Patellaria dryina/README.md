@@ -1,5 +1,4 @@
-Patellaria dryina Duby SPECIES
-=======
+# Patellaria dryina Duby SPECIES
 
 #### Status
 ACCEPTED

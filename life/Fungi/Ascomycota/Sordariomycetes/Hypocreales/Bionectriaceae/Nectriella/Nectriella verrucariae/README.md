@@ -1,5 +1,4 @@
-Nectriella verrucariae (Vouaux) Weese SPECIES
-=======
+# Nectriella verrucariae (Vouaux) Weese SPECIES
 
 #### Status
 ACCEPTED

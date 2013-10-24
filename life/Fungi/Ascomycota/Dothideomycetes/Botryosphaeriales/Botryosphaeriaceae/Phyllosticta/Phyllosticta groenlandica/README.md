@@ -1,5 +1,4 @@
-Phyllosticta groenlandica Allesch. SPECIES
-=======
+# Phyllosticta groenlandica Allesch. SPECIES
 
 #### Status
 ACCEPTED

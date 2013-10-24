@@ -1,5 +1,4 @@
-Lagerheimiella Borzi, 1914 GENUS
-=======
+# Lagerheimiella Borzi, 1914 GENUS
 
 #### Status
 ACCEPTED

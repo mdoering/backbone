@@ -1,5 +1,4 @@
-Mycochlamys S. Marchand & Cabral GENUS
-=======
+# Mycochlamys S. Marchand & Cabral GENUS
 
 #### Status
 ACCEPTED

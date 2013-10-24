@@ -1,5 +1,4 @@
-Caldicellulosiruptor lactoaceticus Mladenovska et al., 1997 SPECIES
-=======
+# Caldicellulosiruptor lactoaceticus Mladenovska et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

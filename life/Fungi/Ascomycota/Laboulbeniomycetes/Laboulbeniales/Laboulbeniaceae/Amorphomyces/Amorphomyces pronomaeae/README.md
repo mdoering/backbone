@@ -1,5 +1,4 @@
-Amorphomyces pronomaeae Thaxt., 1931 SPECIES
-=======
+# Amorphomyces pronomaeae Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

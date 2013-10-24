@@ -1,5 +1,4 @@
-Mycena font-queri Maire SPECIES
-=======
+# Mycena font-queri Maire SPECIES
 
 #### Status
 ACCEPTED

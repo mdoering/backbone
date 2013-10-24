@@ -1,5 +1,4 @@
-Hygrophorus parvulus Peck SPECIES
-=======
+# Hygrophorus parvulus Peck SPECIES
 
 #### Status
 ACCEPTED

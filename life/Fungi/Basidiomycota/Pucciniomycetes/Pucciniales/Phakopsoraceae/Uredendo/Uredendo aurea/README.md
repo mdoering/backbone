@@ -1,5 +1,4 @@
-Uredendo aurea (Cummins) Buriticá & J.F. Hennen SPECIES
-=======
+# Uredendo aurea (Cummins) Buriticá & J.F. Hennen SPECIES
 
 #### Status
 ACCEPTED

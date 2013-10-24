@@ -1,5 +1,4 @@
-Chitonomyces unciger Thaxt. SPECIES
-=======
+# Chitonomyces unciger Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphiopsis sacchari (Speg.) Goid. SPECIES
-=======
+# Graphiopsis sacchari (Speg.) Goid. SPECIES
 
 #### Status
 ACCEPTED

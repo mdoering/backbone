@@ -1,5 +1,4 @@
-Placodium aphanotriptum (Nyl.) Eckfeldt SPECIES
-=======
+# Placodium aphanotriptum (Nyl.) Eckfeldt SPECIES
 
 #### Status
 ACCEPTED

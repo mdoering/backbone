@@ -1,17 +1,16 @@
-Merulius clavatus var. clavatus VARIETY
-=======
+# Merulius clavatus SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Observ. mycol. (Lipsiae) 1: 21 (1796)
 
 #### Original name
-null
+Merulius clavatus
 
 ### Remarks
 null

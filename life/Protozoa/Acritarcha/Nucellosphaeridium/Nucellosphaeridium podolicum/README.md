@@ -1,5 +1,4 @@
-Nucellosphaeridium podolicum Timofeev, 1966 SPECIES
-=======
+# Nucellosphaeridium podolicum Timofeev, 1966 SPECIES
 
 #### Status
 ACCEPTED

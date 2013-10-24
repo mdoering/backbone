@@ -1,5 +1,4 @@
-Dicaeoma behenis (DC.) Kuntze SPECIES
-=======
+# Dicaeoma behenis (DC.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

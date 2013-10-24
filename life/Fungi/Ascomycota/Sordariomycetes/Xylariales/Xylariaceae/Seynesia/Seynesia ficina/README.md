@@ -1,5 +1,4 @@
-Seynesia ficina Syd. & P. Syd. SPECIES
-=======
+# Seynesia ficina Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

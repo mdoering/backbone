@@ -1,5 +1,4 @@
-Robustoschwagerina Miklukho-Maklay, 1959 GENUS
-=======
+# Robustoschwagerina Miklukho-Maklay, 1959 GENUS
 
 #### Status
 ACCEPTED

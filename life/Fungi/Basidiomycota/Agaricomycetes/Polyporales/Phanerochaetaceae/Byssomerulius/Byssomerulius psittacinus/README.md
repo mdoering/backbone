@@ -1,5 +1,4 @@
-Byssomerulius psittacinus P.K. Buchanan, Ryvarden & Izawa, 2000 SPECIES
-=======
+# Byssomerulius psittacinus P.K. Buchanan, Ryvarden & Izawa, 2000 SPECIES
 
 #### Status
 ACCEPTED

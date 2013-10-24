@@ -1,5 +1,4 @@
-Sphaeria melanostigma Lév. SPECIES
-=======
+# Sphaeria melanostigma Lév. SPECIES
 
 #### Status
 ACCEPTED

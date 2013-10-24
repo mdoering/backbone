@@ -1,5 +1,4 @@
-Canninginopsis I.C. Cookson & A. Eisenack, 1962 GENUS
-=======
+# Canninginopsis I.C. Cookson & A. Eisenack, 1962 GENUS
 
 #### Status
 ACCEPTED

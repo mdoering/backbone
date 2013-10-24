@@ -1,5 +1,4 @@
-Coniochaeta mirabile (Udagawa & Tsub.) Dania García, Stchigel & Guarro SPECIES
-=======
+# Coniochaeta mirabile (Udagawa & Tsub.) Dania García, Stchigel & Guarro SPECIES
 
 #### Status
 ACCEPTED

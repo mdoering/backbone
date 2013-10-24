@@ -1,5 +1,4 @@
-Helicogloea sphaerospora (Möller) Lowy SPECIES
-=======
+# Helicogloea sphaerospora (Möller) Lowy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen rosatus Wulfen SPECIES
-=======
+# Lichen rosatus Wulfen SPECIES
 
 #### Status
 ACCEPTED

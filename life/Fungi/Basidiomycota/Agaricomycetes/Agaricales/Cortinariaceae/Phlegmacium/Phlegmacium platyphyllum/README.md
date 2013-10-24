@@ -1,5 +1,4 @@
-Phlegmacium platyphyllum Velen. SPECIES
-=======
+# Phlegmacium platyphyllum Velen. SPECIES
 
 #### Status
 ACCEPTED

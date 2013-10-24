@@ -1,5 +1,4 @@
-Saracenaria acutauricularis SPECIES
-=======
+# Saracenaria acutauricularis SPECIES
 
 #### Status
 ACCEPTED

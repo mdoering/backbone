@@ -1,5 +1,4 @@
-Phaeoisariopsis inornata S.C. Jong & E.F. Morris SPECIES
-=======
+# Phaeoisariopsis inornata S.C. Jong & E.F. Morris SPECIES
 
 #### Status
 ACCEPTED

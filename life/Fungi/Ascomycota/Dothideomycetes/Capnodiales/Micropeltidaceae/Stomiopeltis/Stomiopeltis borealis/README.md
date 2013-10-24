@@ -1,5 +1,4 @@
-Stomiopeltis borealis Munk SPECIES
-=======
+# Stomiopeltis borealis Munk SPECIES
 
 #### Status
 ACCEPTED

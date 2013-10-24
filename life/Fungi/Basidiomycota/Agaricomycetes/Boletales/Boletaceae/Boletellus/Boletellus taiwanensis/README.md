@@ -1,5 +1,4 @@
-Boletellus taiwanensis M. Zang & C.M. Chen SPECIES
-=======
+# Boletellus taiwanensis M. Zang & C.M. Chen SPECIES
 
 #### Status
 ACCEPTED

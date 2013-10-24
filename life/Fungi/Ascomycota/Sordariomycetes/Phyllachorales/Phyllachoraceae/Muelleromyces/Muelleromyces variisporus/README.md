@@ -1,5 +1,4 @@
-Muelleromyces variisporus (Died.) Ullasa SPECIES
-=======
+# Muelleromyces variisporus (Died.) Ullasa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Licea bulbosa Nann.-Bremek. & Y. Yamam., 1987 SPECIES
-=======
+# Licea bulbosa Nann.-Bremek. & Y. Yamam., 1987 SPECIES
 
 #### Status
 ACCEPTED

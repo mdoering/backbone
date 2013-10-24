@@ -1,5 +1,4 @@
-Phoma calligoni Murashk. SPECIES
-=======
+# Phoma calligoni Murashk. SPECIES
 
 #### Status
 ACCEPTED

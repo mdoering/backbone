@@ -1,5 +1,4 @@
-Macalpinomyces panici Vánky, 2005 SPECIES
-=======
+# Macalpinomyces panici Vánky, 2005 SPECIES
 
 #### Status
 ACCEPTED

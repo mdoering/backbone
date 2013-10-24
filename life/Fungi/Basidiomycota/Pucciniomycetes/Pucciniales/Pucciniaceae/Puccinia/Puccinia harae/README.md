@@ -1,5 +1,4 @@
-Puccinia harae Savile SPECIES
-=======
+# Puccinia harae Savile SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicilliopsis Solms GENUS
-=======
+# Penicilliopsis Solms GENUS
 
 #### Status
 ACCEPTED

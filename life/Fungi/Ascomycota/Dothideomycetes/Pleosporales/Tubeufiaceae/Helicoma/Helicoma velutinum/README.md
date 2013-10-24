@@ -1,5 +1,4 @@
-Helicoma velutinum Ellis SPECIES
-=======
+# Helicoma velutinum Ellis SPECIES
 
 #### Status
 ACCEPTED

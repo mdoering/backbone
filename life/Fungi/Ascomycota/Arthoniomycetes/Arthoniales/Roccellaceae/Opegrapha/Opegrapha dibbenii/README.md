@@ -1,5 +1,4 @@
-Opegrapha dibbenii Sérus. SPECIES
-=======
+# Opegrapha dibbenii Sérus. SPECIES
 
 #### Status
 ACCEPTED

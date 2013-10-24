@@ -1,5 +1,4 @@
-Lophium angustatum (Pers.) Fr. SPECIES
-=======
+# Lophium angustatum (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

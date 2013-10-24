@@ -1,5 +1,4 @@
-Ramularia arnicalis Ellis & Everh. SPECIES
-=======
+# Ramularia arnicalis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

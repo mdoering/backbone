@@ -1,5 +1,4 @@
-Septoria baudysiana Sacc. SPECIES
-=======
+# Septoria baudysiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

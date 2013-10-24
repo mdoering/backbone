@@ -1,5 +1,4 @@
-Gymnocella Cachon-Enjumet, 1961 GENUS
-=======
+# Gymnocella Cachon-Enjumet, 1961 GENUS
 
 #### Status
 ACCEPTED

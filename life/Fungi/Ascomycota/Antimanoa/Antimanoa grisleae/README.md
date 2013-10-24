@@ -1,14 +1,13 @@
-Mollisia grisleae (Syd.) J.H. Mill. & Burton, 1943 SPECIES
-=======
+# Antimanoa grisleae Syd., 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 35(1): 93 (1943)
+Annls mycol. 28(1/2): 170 (1930)
 
 #### Original name
 Antimanoa grisleae Syd., 1930

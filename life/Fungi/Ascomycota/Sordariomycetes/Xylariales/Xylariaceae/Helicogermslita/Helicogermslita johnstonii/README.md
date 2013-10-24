@@ -1,5 +1,4 @@
-Helicogermslita johnstonii L.E. Petrini, 2003 SPECIES
-=======
+# Helicogermslita johnstonii L.E. Petrini, 2003 SPECIES
 
 #### Status
 ACCEPTED

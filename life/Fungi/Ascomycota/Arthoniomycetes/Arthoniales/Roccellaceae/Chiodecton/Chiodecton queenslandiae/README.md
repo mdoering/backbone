@@ -1,5 +1,4 @@
-Chiodecton queenslandiae G. Thor SPECIES
-=======
+# Chiodecton queenslandiae G. Thor SPECIES
 
 #### Status
 ACCEPTED

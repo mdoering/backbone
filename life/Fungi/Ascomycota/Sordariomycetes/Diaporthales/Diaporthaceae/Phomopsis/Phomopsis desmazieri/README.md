@@ -1,5 +1,4 @@
-Phomopsis desmazieri var. desmazieri VARIETY
-=======
+# Phomopsis desmazieri (Durieu & Mont.) Grove SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phomopsis desmazieri var. desmazieri
+Phoma desmazieri Durieu & Mont.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lactarius subcircellatus Kühner SPECIES
-=======
+# Lactarius subcircellatus Kühner SPECIES
 
 #### Status
 ACCEPTED

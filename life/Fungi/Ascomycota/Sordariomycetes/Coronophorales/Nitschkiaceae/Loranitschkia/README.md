@@ -1,5 +1,4 @@
-Loranitschkia Lar.N. Vassiljeva GENUS
-=======
+# Loranitschkia Lar.N. Vassiljeva GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Briardia maquilingiana Rehm SPECIES
-=======
+# Briardia maquilingiana Rehm SPECIES
 
 #### Status
 ACCEPTED

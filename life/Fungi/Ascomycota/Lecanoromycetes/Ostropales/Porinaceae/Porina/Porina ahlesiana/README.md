@@ -1,17 +1,16 @@
-Segestria septemseptata Hepp ex Zwackh SPECIES
-=======
+# Porina ahlesiana (Körb.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 45: 549 (1862)
+null
 
 #### Original name
-Segestria septemseptata Hepp ex Zwackh
+Segestrella ahlesiana Körb.
 
 ### Remarks
 null

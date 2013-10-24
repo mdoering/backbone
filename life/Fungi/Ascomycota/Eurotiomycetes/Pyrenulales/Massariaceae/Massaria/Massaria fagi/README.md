@@ -1,5 +1,4 @@
-Massaria fagi Fuckel SPECIES
-=======
+# Massaria fagi Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tympanis turbinata Schwein. SPECIES
-=======
+# Tympanis turbinata Schwein. SPECIES
 
 #### Status
 ACCEPTED

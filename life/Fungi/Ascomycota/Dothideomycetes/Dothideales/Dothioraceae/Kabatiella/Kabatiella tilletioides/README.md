@@ -1,5 +1,4 @@
-Kabatiella tilletioides (Werderm.) Karak. SPECIES
-=======
+# Kabatiella tilletioides (Werderm.) Karak. SPECIES
 
 #### Status
 ACCEPTED

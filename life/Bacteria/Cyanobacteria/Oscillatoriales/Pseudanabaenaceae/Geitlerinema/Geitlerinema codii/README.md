@@ -1,5 +1,4 @@
-Geitlerinema codii I. Umezaki & M. Watanabe SPECIES
-=======
+# Geitlerinema codii I. Umezaki & M. Watanabe SPECIES
 
 #### Status
 ACCEPTED

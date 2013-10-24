@@ -1,5 +1,4 @@
-Agaricus palustris Quél. SPECIES
-=======
+# Agaricus palustris Quél. SPECIES
 
 #### Status
 ACCEPTED

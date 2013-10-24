@@ -1,5 +1,4 @@
-Buellia myriocarpella SPECIES
-=======
+# Buellia myriocarpella SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fromea granulata Lentin & Williams, 1977 SPECIES
-=======
+# Fromea granulata Lentin & Williams, 1977 SPECIES
 
 #### Status
 ACCEPTED

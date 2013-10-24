@@ -1,5 +1,4 @@
-Pythium imperfectum Höhnk SPECIES
-=======
+# Pythium imperfectum Höhnk SPECIES
 
 #### Status
 ACCEPTED

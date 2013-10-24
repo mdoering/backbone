@@ -1,17 +1,16 @@
-Verrucaria cinerea var. cartilaginea Nyl. VARIETY
-=======
+# Placidiopsis custnani (A. Massal.) Körb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Parerga lichenol. (Breslau) 305 (1863)
 
 #### Original name
-Verrucaria cinerea var. cartilaginea Nyl.
+Placidium custnani A. Massal.
 
 ### Remarks
 null

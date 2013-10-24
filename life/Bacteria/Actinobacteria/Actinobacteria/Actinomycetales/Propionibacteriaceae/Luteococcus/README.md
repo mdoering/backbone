@@ -1,5 +1,4 @@
-Luteococcus Tamura et al., 1994 GENUS
-=======
+# Luteococcus Tamura et al., 1994 GENUS
 
 #### Status
 ACCEPTED

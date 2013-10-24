@@ -1,17 +1,16 @@
-Volutella colletotrichoides var. setosa J.E. Chilton VARIETY
-=======
+# Volutella colletotrichoides J.E. Chilton, 1954 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mycologia 46(6): 801 (1954)
 
 #### Original name
-Volutella colletotrichoides var. setosa J.E. Chilton
+Volutella colletotrichoides J.E. Chilton, 1954
 
 ### Remarks
 null

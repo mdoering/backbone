@@ -1,5 +1,4 @@
-Micromphale bisporigera Noordel. SPECIES
-=======
+# Micromphale bisporigera Noordel. SPECIES
 
 #### Status
 ACCEPTED

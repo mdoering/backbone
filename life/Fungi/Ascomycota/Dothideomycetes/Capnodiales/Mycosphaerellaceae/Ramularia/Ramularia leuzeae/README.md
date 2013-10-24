@@ -1,5 +1,4 @@
-Ramularia leuzeae Sandu SPECIES
-=======
+# Ramularia leuzeae Sandu SPECIES
 
 #### Status
 ACCEPTED

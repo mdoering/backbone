@@ -1,5 +1,4 @@
-Omphalia setipes (Fr.) Quél. SPECIES
-=======
+# Omphalia setipes (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

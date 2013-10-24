@@ -1,5 +1,4 @@
-Xylaria meliacearum Laessøe SPECIES
-=======
+# Xylaria meliacearum Laessøe SPECIES
 
 #### Status
 ACCEPTED

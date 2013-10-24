@@ -1,5 +1,4 @@
-Glaziella ceramichroa (Berk. & Broome) Cooke SPECIES
-=======
+# Glaziella ceramichroa (Berk. & Broome) Cooke SPECIES
 
 #### Status
 ACCEPTED

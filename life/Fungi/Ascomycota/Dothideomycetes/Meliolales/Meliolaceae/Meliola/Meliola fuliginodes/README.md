@@ -1,5 +1,4 @@
-Meliola fuliginodes (Rehm) Sacc. SPECIES
-=======
+# Meliola fuliginodes (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

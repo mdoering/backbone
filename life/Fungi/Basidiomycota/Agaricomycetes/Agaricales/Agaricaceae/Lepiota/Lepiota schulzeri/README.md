@@ -1,5 +1,4 @@
-Lepiota schulzeri (Kalchbr.) Sacc. SPECIES
-=======
+# Lepiota schulzeri (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

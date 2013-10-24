@@ -1,5 +1,4 @@
-Ustilago iranica Syd. SPECIES
-=======
+# Ustilago iranica Syd. SPECIES
 
 #### Status
 ACCEPTED

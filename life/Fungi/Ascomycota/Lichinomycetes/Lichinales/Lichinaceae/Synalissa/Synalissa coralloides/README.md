@@ -1,5 +1,4 @@
-Synalissa coralloides (A. Massal.) Müll. Arg. SPECIES
-=======
+# Synalissa coralloides (A. Massal.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

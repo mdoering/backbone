@@ -1,5 +1,4 @@
-Asteridiella chloranthi F. Stevens ex Hansf. SPECIES
-=======
+# Asteridiella chloranthi F. Stevens ex Hansf. SPECIES
 
 #### Status
 ACCEPTED

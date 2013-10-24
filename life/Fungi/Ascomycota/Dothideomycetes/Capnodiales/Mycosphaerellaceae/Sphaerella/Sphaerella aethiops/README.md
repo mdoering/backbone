@@ -1,5 +1,4 @@
-Sphaerella aethiops Fuckel SPECIES
-=======
+# Sphaerella aethiops Fuckel SPECIES
 
 #### Status
 ACCEPTED

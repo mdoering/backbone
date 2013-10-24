@@ -1,14 +1,13 @@
-Parmelia grayana Hue SPECIES
-=======
+# Parmotrema grayanum (Hue) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nouvelles archives du Museum d'Histoire Naturelle, Paris, 4 Série 1: 184 (1899)
+Phytologia 28: 336 (1974)
 
 #### Original name
 Parmelia grayana Hue

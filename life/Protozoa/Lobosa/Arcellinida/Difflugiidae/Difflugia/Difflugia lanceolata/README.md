@@ -1,5 +1,4 @@
-Difflugia lanceolata Pen. SPECIES
-=======
+# Difflugia lanceolata Pen. SPECIES
 
 #### Status
 ACCEPTED

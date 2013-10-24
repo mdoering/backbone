@@ -1,5 +1,4 @@
-Tulostoma brasiliense J.E. Wright SPECIES
-=======
+# Tulostoma brasiliense J.E. Wright SPECIES
 
 #### Status
 ACCEPTED

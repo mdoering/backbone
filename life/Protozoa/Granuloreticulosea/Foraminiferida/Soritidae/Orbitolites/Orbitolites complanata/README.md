@@ -1,5 +1,4 @@
-Orbitolites complanata Lamarck, 1801 SPECIES
-=======
+# Orbitolites complanata Lamarck, 1801 SPECIES
 
 #### Status
 ACCEPTED

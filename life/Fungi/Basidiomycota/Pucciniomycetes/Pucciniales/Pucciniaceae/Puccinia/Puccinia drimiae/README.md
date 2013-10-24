@@ -1,5 +1,4 @@
-Puccinia drimiae Van der Byl SPECIES
-=======
+# Puccinia drimiae Van der Byl SPECIES
 
 #### Status
 ACCEPTED

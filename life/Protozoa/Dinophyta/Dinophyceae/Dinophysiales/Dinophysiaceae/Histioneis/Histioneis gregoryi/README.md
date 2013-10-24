@@ -1,5 +1,4 @@
-Histioneis gregoryi Böhm, 1936 SPECIES
-=======
+# Histioneis gregoryi Böhm, 1936 SPECIES
 
 #### Status
 ACCEPTED

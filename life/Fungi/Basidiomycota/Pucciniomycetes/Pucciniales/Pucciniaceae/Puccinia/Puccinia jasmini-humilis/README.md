@@ -1,5 +1,4 @@
-Puccinia jasmini-humilis Jørst. SPECIES
-=======
+# Puccinia jasmini-humilis Jørst. SPECIES
 
 #### Status
 ACCEPTED

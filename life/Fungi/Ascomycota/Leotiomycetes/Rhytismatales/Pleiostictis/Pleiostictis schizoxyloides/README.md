@@ -1,5 +1,4 @@
-Pleiostictis schizoxyloides Rehm SPECIES
-=======
+# Pleiostictis schizoxyloides Rehm SPECIES
 
 #### Status
 ACCEPTED

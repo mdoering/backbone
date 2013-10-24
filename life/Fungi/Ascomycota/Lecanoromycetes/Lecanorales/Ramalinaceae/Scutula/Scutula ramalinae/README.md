@@ -1,5 +1,4 @@
-Scutula ramalinae (Müll. Arg.) Vouaux SPECIES
-=======
+# Scutula ramalinae (Müll. Arg.) Vouaux SPECIES
 
 #### Status
 ACCEPTED

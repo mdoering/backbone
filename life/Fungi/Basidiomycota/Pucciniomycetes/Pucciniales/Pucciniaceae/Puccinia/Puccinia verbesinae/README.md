@@ -1,14 +1,13 @@
-Dicaeoma verbesinae (Schwein.) Kuntze, 1898 SPECIES
-=======
+# Puccinia verbesinae Schwein., 1822 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 471 (1898)
+Schr. naturf. Ges. Leipzig 1: 73 (1822)
 
 #### Original name
 Puccinia verbesinae Schwein., 1822

@@ -1,14 +1,13 @@
-Autophagomyces sarawakensis Thaxt., 1931 SPECIES
-=======
+# Corylophomyces sarawakensis (Thaxt.) R.K. Benj., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. Amer. Acad. Arts 16: 94 (1931)
+Aliso 14(1): 47 (1994)
 
 #### Original name
 Autophagomyces sarawakensis Thaxt., 1931

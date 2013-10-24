@@ -1,5 +1,4 @@
-Streptomyces geysiriensis Wallhäusser et al., 1966 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces geysiriensis Wallhäusser et al., 1966 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

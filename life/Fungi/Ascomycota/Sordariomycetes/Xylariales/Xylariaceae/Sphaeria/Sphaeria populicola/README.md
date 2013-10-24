@@ -1,5 +1,4 @@
-Sphaeria populicola P. Crouan & H. Crouan SPECIES
-=======
+# Sphaeria populicola P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

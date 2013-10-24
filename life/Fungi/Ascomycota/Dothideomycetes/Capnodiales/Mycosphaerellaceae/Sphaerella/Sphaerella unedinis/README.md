@@ -1,5 +1,4 @@
-Sphaerella unedinis (Jaap) Sacc. SPECIES
-=======
+# Sphaerella unedinis (Jaap) Sacc. SPECIES
 
 #### Status
 ACCEPTED

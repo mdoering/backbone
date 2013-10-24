@@ -1,5 +1,4 @@
-Phlomobacter GENUS
-=======
+# Phlomobacter GENUS
 
 #### Status
 ACCEPTED

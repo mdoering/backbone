@@ -1,5 +1,4 @@
-Lacertamoeba Telford, 1988 GENUS
-=======
+# Lacertamoeba Telford, 1988 GENUS
 
 #### Status
 ACCEPTED

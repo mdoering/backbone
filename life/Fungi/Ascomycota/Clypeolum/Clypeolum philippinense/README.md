@@ -1,5 +1,4 @@
-Clypeolum philippinense (Syd.) Bat. SPECIES
-=======
+# Clypeolum philippinense (Syd.) Bat. SPECIES
 
 #### Status
 ACCEPTED

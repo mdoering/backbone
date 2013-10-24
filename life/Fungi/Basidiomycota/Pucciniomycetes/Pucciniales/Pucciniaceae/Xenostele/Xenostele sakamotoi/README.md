@@ -1,5 +1,4 @@
-Xenostele sakamotoi (Hirats. f. & Yoshin.) S. Ito & Muray. SPECIES
-=======
+# Xenostele sakamotoi (Hirats. f. & Yoshin.) S. Ito & Muray. SPECIES
 
 #### Status
 ACCEPTED

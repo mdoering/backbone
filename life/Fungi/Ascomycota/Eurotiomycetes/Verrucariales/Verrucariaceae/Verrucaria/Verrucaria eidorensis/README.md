@@ -1,5 +1,4 @@
-Verrucaria eidorensis Erichsen SPECIES
-=======
+# Verrucaria eidorensis Erichsen SPECIES
 
 #### Status
 ACCEPTED

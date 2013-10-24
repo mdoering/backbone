@@ -1,5 +1,4 @@
-Cruciger lignatilis R. Kirschner & Oberw., 1999 SPECIES
-=======
+# Cruciger lignatilis R. Kirschner & Oberw., 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hiatula europaea P. Karst. SPECIES
-=======
+# Hiatula europaea P. Karst. SPECIES
 
 #### Status
 ACCEPTED

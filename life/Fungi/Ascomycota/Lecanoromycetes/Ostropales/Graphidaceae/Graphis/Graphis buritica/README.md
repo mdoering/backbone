@@ -1,5 +1,4 @@
-Graphis buritica f. buritica FORM
-=======
+# Graphis buritica Redinger SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Graphis buritica f. buritica
+Graphis buritica Redinger
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Merostictis trichophori (Petr.) Défago, 1968 SPECIES
-=======
+# Diplonaevia trichophori (Petr.) B. Hein, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 36: 95 (1983)
 
 #### Original name
 Asteronaevia trichophori Petr., 1929

@@ -1,17 +1,16 @@
-Parmelia subargentifera var. subargentifera VARIETY
-=======
+# Melanelixia subargentifera (Nyl.) O. Blanco, A. Crespo, Divakar, Essl., D. Hawksw. & Lumbsch SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Parmelia subargentifera var. subargentifera
+null
 
 ### Remarks
 null

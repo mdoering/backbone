@@ -1,8 +1,7 @@
-Sphingomonas chlorophenolica Nohynek et al., 1996 SPECIES
-=======
+# Sphingobium chlorophenolicum (Nohynek et al., 1996) Takeuchi et al., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Eucantharomyces fennoscandicus Huldén SPECIES
-=======
+# Eucantharomyces fennoscandicus Huldén SPECIES
 
 #### Status
 ACCEPTED

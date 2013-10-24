@@ -1,5 +1,4 @@
-Leiosphaeridia raoii Venkatachala et al., 1974 SPECIES
-=======
+# Leiosphaeridia raoii Venkatachala et al., 1974 SPECIES
 
 #### Status
 ACCEPTED

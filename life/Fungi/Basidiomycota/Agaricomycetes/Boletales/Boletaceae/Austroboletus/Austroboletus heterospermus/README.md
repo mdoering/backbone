@@ -1,5 +1,4 @@
-Austroboletus heterospermus (R. Heim & Perr.-Bertr.) Singer SPECIES
-=======
+# Austroboletus heterospermus (R. Heim & Perr.-Bertr.) Singer SPECIES
 
 #### Status
 ACCEPTED

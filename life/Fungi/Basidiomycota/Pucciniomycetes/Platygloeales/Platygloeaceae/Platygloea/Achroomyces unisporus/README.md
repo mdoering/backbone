@@ -1,5 +1,4 @@
-Achroomyces unisporus (L.S. Olive) Wojewoda SPECIES
-=======
+# Achroomyces unisporus (L.S. Olive) Wojewoda SPECIES
 
 #### Status
 ACCEPTED

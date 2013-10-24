@@ -1,17 +1,16 @@
-Leporina Velen. GENUS
-=======
+# Coprotus Korf & Kimbrough, 1967 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Opera Bot. Cech. 4: 154 (1947)
+null
 
 #### Original name
-Leporina Velen.
+null
 
 ### Remarks
 null

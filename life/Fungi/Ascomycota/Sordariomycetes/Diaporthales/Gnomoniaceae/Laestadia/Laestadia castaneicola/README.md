@@ -1,8 +1,7 @@
-Laestadia castanicola Ellis & Everh. SPECIES
-=======
+# Laestadia castaneicola Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Laestadia castanicola Ellis & Everh.
+Laestadia castaneicola Ellis & Everh.
 
 ### Remarks
 null

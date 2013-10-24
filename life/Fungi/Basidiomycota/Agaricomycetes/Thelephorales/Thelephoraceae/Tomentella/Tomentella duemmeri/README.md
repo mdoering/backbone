@@ -1,17 +1,16 @@
-Tomentella subcalcicola M.J. Larsen, 1967 SPECIES
-=======
+# Tomentella duemmeri (Wakef.) M.J. Larsen, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 45: 1302 (1967)
+Mycol. Mem. 4: 41 (1974)
 
 #### Original name
-Tomentella subcalcicola M.J. Larsen, 1967
+Caldesiella duemmeri Wakef., 1916
 
 ### Remarks
 null

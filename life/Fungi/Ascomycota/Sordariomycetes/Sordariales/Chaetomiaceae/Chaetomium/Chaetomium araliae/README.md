@@ -1,5 +1,4 @@
-Chaetomium araliae Corda SPECIES
-=======
+# Chaetomium araliae Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Umbillicaria vellea SPECIES
-=======
+# Umbillicaria vellea SPECIES
 
 #### Status
 DOUBTFUL

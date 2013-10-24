@@ -1,5 +1,4 @@
-Thymadora Clendening & Wood, 1981 GENUS
-=======
+# Thymadora Clendening & Wood, 1981 GENUS
 
 #### Status
 ACCEPTED

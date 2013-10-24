@@ -1,5 +1,4 @@
-Perenniporia mesoleuca (Petch) Ryvarden SPECIES
-=======
+# Perenniporia mesoleuca (Petch) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

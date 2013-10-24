@@ -1,5 +1,4 @@
-Marasmiellus carneopallidus (Pouzar) Singer SPECIES
-=======
+# Marasmiellus carneopallidus (Pouzar) Singer SPECIES
 
 #### Status
 ACCEPTED

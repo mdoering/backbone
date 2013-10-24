@@ -1,5 +1,4 @@
-Gastrocirrhus trichocystus Ito, 1958 SPECIES
-=======
+# Gastrocirrhus trichocystus Ito, 1958 SPECIES
 
 #### Status
 ACCEPTED

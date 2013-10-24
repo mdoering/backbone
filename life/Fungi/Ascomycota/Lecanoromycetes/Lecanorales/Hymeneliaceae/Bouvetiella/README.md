@@ -1,5 +1,4 @@
-Bouvetiella Øvstedal GENUS
-=======
+# Bouvetiella Øvstedal GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenophora castillejae Tracy & Earle SPECIES
-=======
+# Pyrenophora castillejae Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

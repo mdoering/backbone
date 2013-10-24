@@ -1,5 +1,4 @@
-Tapellaria granulosa Lücking & Rivas Plata SPECIES
-=======
+# Tapellaria granulosa Lücking & Rivas Plata SPECIES
 
 #### Status
 ACCEPTED

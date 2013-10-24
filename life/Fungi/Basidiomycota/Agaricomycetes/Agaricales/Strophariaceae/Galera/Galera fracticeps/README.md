@@ -1,5 +1,4 @@
-Galera fracticeps Pat. & Demange SPECIES
-=======
+# Galera fracticeps Pat. & Demange SPECIES
 
 #### Status
 ACCEPTED

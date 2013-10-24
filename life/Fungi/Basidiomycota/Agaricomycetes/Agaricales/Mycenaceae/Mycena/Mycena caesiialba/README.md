@@ -1,5 +1,4 @@
-Mycena caesiialba Murrill SPECIES
-=======
+# Mycena caesiialba Murrill SPECIES
 
 #### Status
 ACCEPTED

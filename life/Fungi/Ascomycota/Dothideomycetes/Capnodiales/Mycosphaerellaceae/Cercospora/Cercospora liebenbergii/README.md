@@ -1,5 +1,4 @@
-Cercospora liebenbergii Syd. SPECIES
-=======
+# Cercospora liebenbergii Syd. SPECIES
 
 #### Status
 ACCEPTED

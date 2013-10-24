@@ -1,5 +1,4 @@
-Aecidium cathartici Schumach. SPECIES
-=======
+# Aecidium cathartici Schumach. SPECIES
 
 #### Status
 ACCEPTED

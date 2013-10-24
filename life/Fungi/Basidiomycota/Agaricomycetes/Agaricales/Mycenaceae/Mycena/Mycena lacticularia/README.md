@@ -1,5 +1,4 @@
-Mycena lacticularia (Britzelm.) Lapl. SPECIES
-=======
+# Mycena lacticularia (Britzelm.) Lapl. SPECIES
 
 #### Status
 ACCEPTED

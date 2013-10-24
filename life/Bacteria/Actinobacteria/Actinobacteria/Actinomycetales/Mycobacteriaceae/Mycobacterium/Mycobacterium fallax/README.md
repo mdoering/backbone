@@ -1,5 +1,4 @@
-Mycobacterium fallax Lévy-Frébault et al., 1983 SPECIES
-=======
+# Mycobacterium fallax Lévy-Frébault et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

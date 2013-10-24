@@ -1,5 +1,4 @@
-Polyscytalum murinum Oudem. SPECIES
-=======
+# Polyscytalum murinum Oudem. SPECIES
 
 #### Status
 ACCEPTED

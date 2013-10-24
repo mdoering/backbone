@@ -1,5 +1,4 @@
-Gyrodinium maculatum Kofoid & Swezy, 1921 SPECIES
-=======
+# Gyrodinium maculatum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

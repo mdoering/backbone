@@ -1,5 +1,4 @@
-Hebeloma brunneifolium Hesler SPECIES
-=======
+# Hebeloma brunneifolium Hesler SPECIES
 
 #### Status
 ACCEPTED

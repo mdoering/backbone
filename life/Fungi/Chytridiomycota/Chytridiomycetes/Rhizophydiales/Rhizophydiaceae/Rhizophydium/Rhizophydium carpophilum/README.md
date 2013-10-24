@@ -1,5 +1,4 @@
-Rhizophydium carpophilum Zopf, 1885 SPECIES
-=======
+# Rhizophydium carpophilum Zopf, 1885 SPECIES
 
 #### Status
 ACCEPTED

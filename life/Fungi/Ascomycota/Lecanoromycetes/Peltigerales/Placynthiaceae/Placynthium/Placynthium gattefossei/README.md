@@ -1,5 +1,4 @@
-Placynthium gattefossei Werner SPECIES
-=======
+# Placynthium gattefossei Werner SPECIES
 
 #### Status
 ACCEPTED

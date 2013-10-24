@@ -1,5 +1,4 @@
-Perichaena vaporaria Schwein. SPECIES
-=======
+# Perichaena vaporaria Schwein. SPECIES
 
 #### Status
 ACCEPTED

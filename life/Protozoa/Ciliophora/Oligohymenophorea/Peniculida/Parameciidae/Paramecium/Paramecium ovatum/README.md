@@ -1,5 +1,4 @@
-Paramecium ovatum Ehrenberg, 1830 SPECIES
-=======
+# Paramecium ovatum Ehrenberg, 1830 SPECIES
 
 #### Status
 ACCEPTED

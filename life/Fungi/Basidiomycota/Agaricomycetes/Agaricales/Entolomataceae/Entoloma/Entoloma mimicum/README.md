@@ -1,5 +1,4 @@
-Entoloma mimicum P. Karst. SPECIES
-=======
+# Entoloma mimicum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

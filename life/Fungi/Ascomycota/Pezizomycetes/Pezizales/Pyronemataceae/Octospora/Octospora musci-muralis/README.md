@@ -1,5 +1,4 @@
-Octospora musci-muralis Graddon, 1972 SPECIES
-=======
+# Octospora musci-muralis Graddon, 1972 SPECIES
 
 #### Status
 ACCEPTED

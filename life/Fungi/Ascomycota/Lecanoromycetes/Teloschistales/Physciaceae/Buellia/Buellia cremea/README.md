@@ -1,5 +1,4 @@
-Buellia cremea (Hue) Darb. SPECIES
-=======
+# Buellia cremea (Hue) Darb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Mariella Dain in Bykova et al., 1958 GENUS
-=======
+# Dainita Loeblich & Tappan, 1964 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-in Bykova, N. K. et al. , Microfauna USSR. 9. Problems of the Systematics and description of new Species, Genera and subfamilies of Foraminifera and ostracods. Trudy vses. neft. nauchno-issled. Geol. -razv. Inst. (VNIGRI) 115 41.
+in Moore (Ed. ) Treatise on invertebrate paleontology. Geol. Soc. Am. Univ. Kansas Press, Lawrence. Part C Protista no. 2: C537.
 
 #### Original name
-null
+Mariella Dain in Bykova et al., 1958
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Trypethelium meiophorum (Nyl.) Müll. Arg. SPECIES
-=======
+# Trypethelium meiophorum (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

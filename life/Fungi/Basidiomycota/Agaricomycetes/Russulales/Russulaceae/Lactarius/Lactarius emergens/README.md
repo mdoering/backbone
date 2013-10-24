@@ -1,5 +1,4 @@
-Lactarius emergens Verbeken SPECIES
-=======
+# Lactarius emergens Verbeken SPECIES
 
 #### Status
 ACCEPTED

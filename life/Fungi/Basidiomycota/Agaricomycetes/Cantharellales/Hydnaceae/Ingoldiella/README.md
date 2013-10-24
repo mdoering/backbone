@@ -1,5 +1,4 @@
-Ingoldiella D.E. Shaw GENUS
-=======
+# Ingoldiella D.E. Shaw GENUS
 
 #### Status
 ACCEPTED

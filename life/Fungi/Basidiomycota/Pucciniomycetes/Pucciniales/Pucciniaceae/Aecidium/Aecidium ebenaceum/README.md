@@ -1,5 +1,4 @@
-Aecidium ebenaceum Mont. SPECIES
-=======
+# Aecidium ebenaceum Mont. SPECIES
 
 #### Status
 ACCEPTED

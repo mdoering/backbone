@@ -1,5 +1,4 @@
-Phoma foeniculina Sacc. SPECIES
-=======
+# Phoma foeniculina Sacc. SPECIES
 
 #### Status
 ACCEPTED

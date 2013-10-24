@@ -1,5 +1,4 @@
-Cortinarius viscidulus M.M. Moser SPECIES
-=======
+# Cortinarius viscidulus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

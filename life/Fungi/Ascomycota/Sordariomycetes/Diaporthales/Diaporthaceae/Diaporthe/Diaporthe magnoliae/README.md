@@ -1,5 +1,4 @@
-Diaporthe magnoliae Ellis & Everh. SPECIES
-=======
+# Diaporthe magnoliae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

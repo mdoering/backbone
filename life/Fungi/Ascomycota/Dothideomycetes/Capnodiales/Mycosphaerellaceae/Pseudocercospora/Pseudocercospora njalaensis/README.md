@@ -1,5 +1,4 @@
-Pseudocercospora njalaensis Deighton SPECIES
-=======
+# Pseudocercospora njalaensis Deighton SPECIES
 
 #### Status
 ACCEPTED

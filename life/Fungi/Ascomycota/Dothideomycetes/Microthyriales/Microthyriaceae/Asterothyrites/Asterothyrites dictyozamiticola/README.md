@@ -1,5 +1,4 @@
-Asterothyrites dictyozamiticola (Krassilov) Kalgutkar & Janson. SPECIES
-=======
+# Asterothyrites dictyozamiticola (Krassilov) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

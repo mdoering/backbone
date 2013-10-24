@@ -1,5 +1,4 @@
-Vercorsella Arnaud-Vanneau, 1980 GENUS
-=======
+# Vercorsella Arnaud-Vanneau, 1980 GENUS
 
 #### Status
 ACCEPTED

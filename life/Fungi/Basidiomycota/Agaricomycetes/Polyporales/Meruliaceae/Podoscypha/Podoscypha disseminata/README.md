@@ -1,5 +1,4 @@
-Podoscypha disseminata Douanla-Meli SPECIES
-=======
+# Podoscypha disseminata Douanla-Meli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Smittium caudatum Lichtw. & Grigg, 1998 SPECIES
-=======
+# Smittium caudatum Lichtw. & Grigg, 1998 SPECIES
 
 #### Status
 ACCEPTED

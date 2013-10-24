@@ -1,5 +1,4 @@
-Apiosoma incertum SPECIES
-=======
+# Apiosoma incertum SPECIES
 
 #### Status
 ACCEPTED

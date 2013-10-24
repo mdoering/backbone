@@ -1,5 +1,4 @@
-Leptothyrium subzonatum Speg. SPECIES
-=======
+# Leptothyrium subzonatum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ammonidium multipugiunculata (Cramer & Díez, 1977) Rubinstein, Toro & Waisfeld, 1999 SPECIES
-=======
+# Ammonidium multipugiunculata (Cramer & Díez, 1977) Rubinstein, Toro & Waisfeld, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Darvasella Leven, 1992 GENUS
-=======
+# Darvasella Leven, 1992 GENUS
 
 #### Status
 ACCEPTED

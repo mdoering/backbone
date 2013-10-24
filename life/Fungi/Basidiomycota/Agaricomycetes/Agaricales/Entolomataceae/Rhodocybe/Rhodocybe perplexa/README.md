@@ -1,5 +1,4 @@
-Rhodocybe perplexa T.J. Baroni & Watling SPECIES
-=======
+# Rhodocybe perplexa T.J. Baroni & Watling SPECIES
 
 #### Status
 ACCEPTED

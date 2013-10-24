@@ -1,5 +1,4 @@
-Melampsora abietis-populi S. Imai SPECIES
-=======
+# Melampsora abietis-populi S. Imai SPECIES
 
 #### Status
 ACCEPTED

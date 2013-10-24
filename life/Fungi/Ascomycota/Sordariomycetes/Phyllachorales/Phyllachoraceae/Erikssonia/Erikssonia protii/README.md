@@ -1,5 +1,4 @@
-Erikssonia protii Cash ex J.A. Stev., 1943 SPECIES
-=======
+# Erikssonia protii Cash ex J.A. Stev., 1943 SPECIES
 
 #### Status
 ACCEPTED

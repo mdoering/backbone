@@ -1,5 +1,4 @@
-Pelospora glutarica Matthies et al., 2000 SPECIES
-=======
+# Pelospora glutarica Matthies et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Fusicoccum costesi (Speg.) Vanev & Aa SPECIES
-=======
+# Fusicoccum costesii (Speg.) Vanev & Aa SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in van der Aa & Vanev, A Revision of the Species Described in Phyllosticta (Utrecht) 166 (2002)
 
 #### Original name
-Phyllosticta costesi Speg.
+Phyllosticta costesii Speg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Asteridium feijoae Rehm SPECIES
-=======
+# Asteridium feijoae Rehm SPECIES
 
 #### Status
 ACCEPTED

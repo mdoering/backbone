@@ -1,5 +1,4 @@
-Bathyascus grandisporus K.D. Hyde, 1987 SPECIES
-=======
+# Bathyascus grandisporus K.D. Hyde, 1987 SPECIES
 
 #### Status
 ACCEPTED

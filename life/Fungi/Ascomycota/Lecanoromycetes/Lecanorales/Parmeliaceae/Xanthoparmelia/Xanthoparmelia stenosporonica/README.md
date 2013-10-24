@@ -1,5 +1,4 @@
-Xanthoparmelia stenosporonica Hale SPECIES
-=======
+# Xanthoparmelia stenosporonica Hale SPECIES
 
 #### Status
 ACCEPTED

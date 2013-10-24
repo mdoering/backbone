@@ -1,5 +1,4 @@
-Geasteropsis conrathi Hollós SPECIES
-=======
+# Geasteropsis conrathi Hollós SPECIES
 
 #### Status
 ACCEPTED

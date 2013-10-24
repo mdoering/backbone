@@ -1,5 +1,4 @@
-Laboulbenia boggiani Speg. SPECIES
-=======
+# Laboulbenia boggiani Speg. SPECIES
 
 #### Status
 ACCEPTED

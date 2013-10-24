@@ -1,5 +1,4 @@
-Anthostoma anceps Sacc. & Roum. SPECIES
-=======
+# Anthostoma anceps Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

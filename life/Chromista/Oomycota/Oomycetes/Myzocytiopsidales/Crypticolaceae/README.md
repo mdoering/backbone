@@ -1,5 +1,4 @@
-Crypticolaceae M.W. Dick FAMILY
-=======
+# Crypticolaceae M.W. Dick FAMILY
 
 #### Status
 ACCEPTED

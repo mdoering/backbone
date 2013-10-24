@@ -1,5 +1,4 @@
-Lecanora coracina (Hoffm.) Hepp SPECIES
-=======
+# Lecanora coracina (Hoffm.) Hepp SPECIES
 
 #### Status
 ACCEPTED

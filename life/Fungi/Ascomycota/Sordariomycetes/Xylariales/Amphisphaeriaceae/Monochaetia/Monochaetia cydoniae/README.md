@@ -1,5 +1,4 @@
-Monochaetia cydoniae A. Evans & B.O. Dodge SPECIES
-=======
+# Monochaetia cydoniae A. Evans & B.O. Dodge SPECIES
 
 #### Status
 ACCEPTED

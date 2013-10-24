@@ -1,5 +1,4 @@
-Clitocybe ceraceolamellata (Britzelm.) Sacc. SPECIES
-=======
+# Clitocybe ceraceolamellata (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

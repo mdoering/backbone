@@ -1,5 +1,4 @@
-Synsphaeria Bonord. GENUS
-=======
+# Synsphaeria Bonord. GENUS
 
 #### Status
 ACCEPTED

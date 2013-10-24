@@ -1,5 +1,4 @@
-Caloplaca phloginoides Oxner SPECIES
-=======
+# Caloplaca phloginoides Oxner SPECIES
 
 #### Status
 ACCEPTED

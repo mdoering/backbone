@@ -1,5 +1,4 @@
-Teichospora princeps (Fabre) Sacc. SPECIES
-=======
+# Teichospora princeps (Fabre) Sacc. SPECIES
 
 #### Status
 ACCEPTED

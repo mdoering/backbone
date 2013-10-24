@@ -1,5 +1,4 @@
-Sporidesmium sarcopodioides (Corda) Bonord. SPECIES
-=======
+# Sporidesmium sarcopodioides (Corda) Bonord. SPECIES
 
 #### Status
 ACCEPTED

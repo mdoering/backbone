@@ -1,5 +1,4 @@
-Aulographum quadriae Berk. SPECIES
-=======
+# Aulographum quadriae Berk. SPECIES
 
 #### Status
 ACCEPTED

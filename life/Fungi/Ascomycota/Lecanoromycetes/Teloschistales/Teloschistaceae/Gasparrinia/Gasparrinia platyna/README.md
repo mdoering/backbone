@@ -1,5 +1,4 @@
-Gasparrinia platyna (Zahlbr.) C.W. Dodge SPECIES
-=======
+# Gasparrinia platyna (Zahlbr.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

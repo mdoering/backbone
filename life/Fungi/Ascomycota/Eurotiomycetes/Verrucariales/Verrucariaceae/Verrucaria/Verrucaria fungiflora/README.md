@@ -1,5 +1,4 @@
-Verrucaria fungiflora (Schrank) Humb. SPECIES
-=======
+# Verrucaria fungiflora (Schrank) Humb. SPECIES
 
 #### Status
 ACCEPTED

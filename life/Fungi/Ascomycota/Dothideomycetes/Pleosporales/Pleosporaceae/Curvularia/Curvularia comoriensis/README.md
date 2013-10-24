@@ -1,5 +1,4 @@
-Curvularia comoriensis Bouriquet & Jauffret ex M.B. Ellis, 1966 SPECIES
-=======
+# Curvularia comoriensis Bouriquet & Jauffret ex M.B. Ellis, 1966 SPECIES
 
 #### Status
 ACCEPTED

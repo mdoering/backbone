@@ -1,5 +1,4 @@
-Ceriosporopsis barbata Höhnk SPECIES
-=======
+# Ceriosporopsis barbata Höhnk SPECIES
 
 #### Status
 ACCEPTED

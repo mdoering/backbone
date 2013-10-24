@@ -1,5 +1,4 @@
-Staurothele andreanskyi Szatala SPECIES
-=======
+# Staurothele andreanskyi Szatala SPECIES
 
 #### Status
 ACCEPTED

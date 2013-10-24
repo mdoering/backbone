@@ -1,5 +1,4 @@
-Peziza floriformis Peck SPECIES
-=======
+# Peziza floriformis Peck SPECIES
 
 #### Status
 ACCEPTED

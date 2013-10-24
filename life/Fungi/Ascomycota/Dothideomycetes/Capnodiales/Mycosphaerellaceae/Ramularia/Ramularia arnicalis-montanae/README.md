@@ -1,5 +1,4 @@
-Ramularia arnicalis-montanae U. Braun SPECIES
-=======
+# Ramularia arnicalis-montanae U. Braun SPECIES
 
 #### Status
 ACCEPTED

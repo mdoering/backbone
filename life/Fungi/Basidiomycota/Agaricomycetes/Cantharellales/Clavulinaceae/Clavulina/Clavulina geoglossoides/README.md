@@ -1,5 +1,4 @@
-Clavulina geoglossoides Corner, 1970 SPECIES
-=======
+# Clavulina geoglossoides Corner, 1970 SPECIES
 
 #### Status
 ACCEPTED

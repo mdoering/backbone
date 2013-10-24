@@ -1,17 +1,16 @@
-Anixia H. Hoffmann, 1862 GENUS
-=======
+# Orbicula Cooke, 1871 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. fung. (Abellini) 70 (1862)
+Handbook of British Fungi 2: 926 (1871)
 
 #### Original name
-Anixia H. Hoffmann, 1862
+Orbicula Cooke, 1871
 
 ### Remarks
 null

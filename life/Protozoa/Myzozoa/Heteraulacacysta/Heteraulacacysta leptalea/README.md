@@ -1,5 +1,4 @@
-Heteraulacacysta leptalea Eaton, 1976 SPECIES
-=======
+# Heteraulacacysta leptalea Eaton, 1976 SPECIES
 
 #### Status
 ACCEPTED

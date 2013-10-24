@@ -1,5 +1,4 @@
-Coprinus cyclodes Fr. SPECIES
-=======
+# Coprinus cyclodes Fr. SPECIES
 
 #### Status
 ACCEPTED

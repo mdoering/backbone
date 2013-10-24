@@ -1,5 +1,4 @@
-Rosellinia buxi Fabre, 1879 SPECIES
-=======
+# Rosellinia buxi Fabre, 1879 SPECIES
 
 #### Status
 ACCEPTED

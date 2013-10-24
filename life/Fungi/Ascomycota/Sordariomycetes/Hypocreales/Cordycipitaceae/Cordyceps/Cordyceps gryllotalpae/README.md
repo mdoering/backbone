@@ -1,5 +1,4 @@
-Cordyceps gryllotalpae Kobayasi SPECIES
-=======
+# Cordyceps gryllotalpae Kobayasi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrium panacis Cooke, 1886 SPECIES
-=======
+# Leptothyrium panacis Cooke, 1886 SPECIES
 
 #### Status
 ACCEPTED

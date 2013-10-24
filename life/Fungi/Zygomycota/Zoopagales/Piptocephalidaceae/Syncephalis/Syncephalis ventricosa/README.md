@@ -1,5 +1,4 @@
-Syncephalis ventricosa Tiegh., 1875 SPECIES
-=======
+# Syncephalis ventricosa Tiegh., 1875 SPECIES
 
 #### Status
 ACCEPTED

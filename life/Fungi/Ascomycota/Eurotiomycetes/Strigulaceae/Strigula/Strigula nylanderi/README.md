@@ -1,5 +1,4 @@
-Strigula nylanderi Vain. SPECIES
-=======
+# Strigula nylanderi Vain. SPECIES
 
 #### Status
 ACCEPTED

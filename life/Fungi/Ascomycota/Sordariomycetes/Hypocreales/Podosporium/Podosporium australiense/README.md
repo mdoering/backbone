@@ -1,5 +1,4 @@
-Podosporium australiense Henn. SPECIES
-=======
+# Podosporium australiense Henn. SPECIES
 
 #### Status
 ACCEPTED

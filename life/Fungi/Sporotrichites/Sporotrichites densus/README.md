@@ -1,5 +1,4 @@
-Sporotrichites densus Göpp. & J.A. Menge SPECIES
-=======
+# Sporotrichites densus Göpp. & J.A. Menge SPECIES
 
 #### Status
 ACCEPTED

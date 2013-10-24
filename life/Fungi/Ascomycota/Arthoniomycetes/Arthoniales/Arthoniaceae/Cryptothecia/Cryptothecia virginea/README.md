@@ -1,5 +1,4 @@
-Cryptothecia virginea (Stizenb.) Makhija & Patw. SPECIES
-=======
+# Cryptothecia virginea (Stizenb.) Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

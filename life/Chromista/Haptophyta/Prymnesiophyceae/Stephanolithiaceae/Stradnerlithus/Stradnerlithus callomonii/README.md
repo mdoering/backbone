@@ -1,5 +1,4 @@
-Stradnerlithus callomonii (Rood et al., 1971) Perch-Nielsen, 1984 SPECIES
-=======
+# Stradnerlithus callomonii (Rood et al., 1971) Perch-Nielsen, 1984 SPECIES
 
 #### Status
 ACCEPTED

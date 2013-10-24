@@ -1,5 +1,4 @@
-Dothidotthia lasioderma (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Dothidotthia lasioderma (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

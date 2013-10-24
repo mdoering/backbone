@@ -1,5 +1,4 @@
-Clypeosphaeria euphorbiicola Henn. SPECIES
-=======
+# Clypeosphaeria euphorbiicola Henn. SPECIES
 
 #### Status
 ACCEPTED

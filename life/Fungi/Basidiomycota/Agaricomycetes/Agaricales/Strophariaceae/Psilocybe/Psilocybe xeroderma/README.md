@@ -1,5 +1,4 @@
-Psilocybe xeroderma Huijsman SPECIES
-=======
+# Psilocybe xeroderma Huijsman SPECIES
 
 #### Status
 ACCEPTED

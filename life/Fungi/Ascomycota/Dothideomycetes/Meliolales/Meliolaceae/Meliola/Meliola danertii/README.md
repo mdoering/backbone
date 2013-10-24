@@ -1,5 +1,4 @@
-Meliola danertii Schmied. SPECIES
-=======
+# Meliola danertii Schmied. SPECIES
 
 #### Status
 ACCEPTED

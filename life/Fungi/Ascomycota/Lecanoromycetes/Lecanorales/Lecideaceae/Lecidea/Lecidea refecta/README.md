@@ -1,5 +1,4 @@
-Lecidea refecta (Nyl.) Hue SPECIES
-=======
+# Lecidea refecta (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

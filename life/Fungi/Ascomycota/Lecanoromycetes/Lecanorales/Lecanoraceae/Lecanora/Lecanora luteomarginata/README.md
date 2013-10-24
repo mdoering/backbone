@@ -1,5 +1,4 @@
-Lecanora luteomarginata Nayaka, Upreti & Lumbsch SPECIES
-=======
+# Lecanora luteomarginata Nayaka, Upreti & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

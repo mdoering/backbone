@@ -1,5 +1,4 @@
-Cepedietta tritonis SPECIES
-=======
+# Cepedietta tritonis SPECIES
 
 #### Status
 ACCEPTED

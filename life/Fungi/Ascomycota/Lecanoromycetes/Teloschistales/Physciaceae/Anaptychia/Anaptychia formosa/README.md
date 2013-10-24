@@ -1,5 +1,4 @@
-Anaptychia formosa SPECIES
-=======
+# Anaptychia formosa SPECIES
 
 #### Status
 ACCEPTED

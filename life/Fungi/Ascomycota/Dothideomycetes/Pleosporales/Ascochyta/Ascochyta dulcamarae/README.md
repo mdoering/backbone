@@ -1,5 +1,4 @@
-Ascochyta dulcamarae Bubák SPECIES
-=======
+# Ascochyta dulcamarae Bubák SPECIES
 
 #### Status
 ACCEPTED

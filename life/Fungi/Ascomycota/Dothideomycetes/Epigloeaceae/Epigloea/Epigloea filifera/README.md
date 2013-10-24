@@ -1,5 +1,4 @@
-Epigloea filifera Döbbeler SPECIES
-=======
+# Epigloea filifera Döbbeler SPECIES
 
 #### Status
 ACCEPTED

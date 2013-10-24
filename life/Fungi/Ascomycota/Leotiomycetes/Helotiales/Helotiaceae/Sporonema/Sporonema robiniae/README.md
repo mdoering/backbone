@@ -1,5 +1,4 @@
-Sporonema robiniae Sacc. SPECIES
-=======
+# Sporonema robiniae Sacc. SPECIES
 
 #### Status
 ACCEPTED

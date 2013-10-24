@@ -1,5 +1,4 @@
-Nectria imperspicua Höhn. SPECIES
-=======
+# Nectria imperspicua Höhn. SPECIES
 
 #### Status
 ACCEPTED

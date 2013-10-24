@@ -1,5 +1,4 @@
-Hypomyces rostratus K. Põldmaa SPECIES
-=======
+# Hypomyces rostratus K. Põldmaa SPECIES
 
 #### Status
 ACCEPTED

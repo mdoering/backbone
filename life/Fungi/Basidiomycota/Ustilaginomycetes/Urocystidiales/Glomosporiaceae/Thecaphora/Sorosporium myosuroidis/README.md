@@ -1,5 +1,4 @@
-Sorosporium myosuroidis Hirschh. SPECIES
-=======
+# Sorosporium myosuroidis Hirschh. SPECIES
 
 #### Status
 ACCEPTED

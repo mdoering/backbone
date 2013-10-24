@@ -1,5 +1,4 @@
-Micropuccinia eurotiae (Griffiths) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia eurotiae (Griffiths) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

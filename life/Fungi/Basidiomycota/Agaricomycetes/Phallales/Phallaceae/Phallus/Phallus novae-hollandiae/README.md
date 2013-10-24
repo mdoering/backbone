@@ -1,5 +1,4 @@
-Phallus novae-hollandiae Corda SPECIES
-=======
+# Phallus novae-hollandiae Corda SPECIES
 
 #### Status
 ACCEPTED

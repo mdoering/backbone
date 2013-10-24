@@ -1,5 +1,4 @@
-Calonectria macroconidialis (Crous, M.J. Wingf. & Alfenas) Crous SPECIES
-=======
+# Calonectria macroconidialis (Crous, M.J. Wingf. & Alfenas) Crous SPECIES
 
 #### Status
 ACCEPTED

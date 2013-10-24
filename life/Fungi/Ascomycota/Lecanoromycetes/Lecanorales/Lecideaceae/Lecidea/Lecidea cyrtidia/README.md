@@ -1,5 +1,4 @@
-Lecidea cyrtidia Tuck. SPECIES
-=======
+# Lecidea cyrtidia Tuck. SPECIES
 
 #### Status
 ACCEPTED

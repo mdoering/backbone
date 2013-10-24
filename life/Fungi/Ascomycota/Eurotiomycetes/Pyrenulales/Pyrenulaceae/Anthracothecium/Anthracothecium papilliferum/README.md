@@ -1,5 +1,4 @@
-Anthracothecium papilliferum (Nyl.) Müll. Arg. SPECIES
-=======
+# Anthracothecium papilliferum (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

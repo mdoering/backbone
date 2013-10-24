@@ -1,5 +1,4 @@
-Chamaeceras inaequalis (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras inaequalis (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

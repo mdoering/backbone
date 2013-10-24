@@ -1,5 +1,4 @@
-Hendersoniopsis thelebola (Sacc.) Höhn., 1918 SPECIES
-=======
+# Hendersoniopsis thelebola (Sacc.) Höhn., 1918 SPECIES
 
 #### Status
 ACCEPTED

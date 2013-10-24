@@ -1,5 +1,4 @@
-Fusisporium cinnabarinum Berk. & M.A. Curtis SPECIES
-=======
+# Fusisporium cinnabarinum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

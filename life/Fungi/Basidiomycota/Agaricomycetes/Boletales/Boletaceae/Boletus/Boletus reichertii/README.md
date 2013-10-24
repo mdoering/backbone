@@ -1,5 +1,4 @@
-Boletus reichertii Aviz.-Hersh. & Binyam. SPECIES
-=======
+# Boletus reichertii Aviz.-Hersh. & Binyam. SPECIES
 
 #### Status
 ACCEPTED

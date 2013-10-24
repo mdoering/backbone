@@ -1,5 +1,4 @@
-Gloeocapsa aeruginosa Kützing SPECIES
-=======
+# Gloeocapsa aeruginosa Kützing SPECIES
 
 #### Status
 ACCEPTED

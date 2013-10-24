@@ -1,5 +1,4 @@
-Aecidium cissicola Cant. SPECIES
-=======
+# Aecidium cissicola Cant. SPECIES
 
 #### Status
 ACCEPTED

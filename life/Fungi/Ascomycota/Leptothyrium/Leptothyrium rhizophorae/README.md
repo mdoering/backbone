@@ -1,5 +1,4 @@
-Leptothyrium rhizophorae Gonz. Frag. & Cif. SPECIES
-=======
+# Leptothyrium rhizophorae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

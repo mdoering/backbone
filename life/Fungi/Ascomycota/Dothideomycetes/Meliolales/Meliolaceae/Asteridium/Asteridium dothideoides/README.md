@@ -1,5 +1,4 @@
-Asteridium dothideoides Ellis & Everh. SPECIES
-=======
+# Asteridium dothideoides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

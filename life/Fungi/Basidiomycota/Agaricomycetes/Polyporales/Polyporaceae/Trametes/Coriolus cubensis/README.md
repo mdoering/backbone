@@ -1,5 +1,4 @@
-Coriolus cubensis (Berk. & M.A. Curtis) Pat. SPECIES
-=======
+# Coriolus cubensis (Berk. & M.A. Curtis) Pat. SPECIES
 
 #### Status
 ACCEPTED

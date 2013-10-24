@@ -1,5 +1,4 @@
-Cortinarius caesiocortinatus Jul. Schäff. SPECIES
-=======
+# Cortinarius caesiocortinatus Jul. Schäff. SPECIES
 
 #### Status
 ACCEPTED

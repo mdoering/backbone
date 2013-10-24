@@ -1,14 +1,13 @@
-Asteromella bizzozeroana (C. Massal.) Aa SPECIES
-=======
+# Asteromella bizzozeriana (C. Massal.) Aa SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in van der Aa & Vanev, A Revision of the Species Described in Phyllosticta (Utrecht) 107 (2002)
 
 #### Original name
 Phyllosticta bizzozeriana C. Massal.

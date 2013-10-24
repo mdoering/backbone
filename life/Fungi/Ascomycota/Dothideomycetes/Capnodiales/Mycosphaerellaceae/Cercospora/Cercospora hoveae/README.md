@@ -1,5 +1,4 @@
-Cercospora hoveae Hansf. SPECIES
-=======
+# Cercospora hoveae Hansf. SPECIES
 
 #### Status
 ACCEPTED

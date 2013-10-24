@@ -1,5 +1,4 @@
-Laestadia Auersw., 1869 GENUS
-=======
+# Laestadia Auersw., 1869 GENUS
 
 #### Status
 ACCEPTED

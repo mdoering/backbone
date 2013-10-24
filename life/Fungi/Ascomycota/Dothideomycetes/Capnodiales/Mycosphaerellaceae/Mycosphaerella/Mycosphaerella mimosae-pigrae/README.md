@@ -1,5 +1,4 @@
-Mycosphaerella mimosae-pigrae H.C. Evans, G. Carrión & Ruiz-Belin SPECIES
-=======
+# Mycosphaerella mimosae-pigrae H.C. Evans, G. Carrión & Ruiz-Belin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ricasoliomyces amplissimae E.A. Thomas ex Cif. & Tomas. SPECIES
-=======
+# Ricasoliomyces amplissimae E.A. Thomas ex Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

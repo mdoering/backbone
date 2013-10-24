@@ -1,5 +1,4 @@
-Phaeographis nardiensis A. W. Archer SPECIES
-=======
+# Phaeographis nardiensis A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Parmularia muralis f. muralis FORM
-=======
+# Parmularia muralis SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Parmularia muralis f. muralis
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Trichocicinnus erysiphoides var. erysiphoides VARIETY
-=======
+# Trichocicinnus erysiphoides (Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mitt. bot. Inst. tech. Hochsch. Wien 3: (1926)
 
 #### Original name
-Trichocicinnus erysiphoides var. erysiphoides
+Sphaerella erysiphoides Sacc.
 
 ### Remarks
 null

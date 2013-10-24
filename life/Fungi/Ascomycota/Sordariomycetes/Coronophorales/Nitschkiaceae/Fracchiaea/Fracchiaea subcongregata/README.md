@@ -1,5 +1,4 @@
-Fracchiaea subcongregata (Berk. & M.A. Curtis) Ellis SPECIES
-=======
+# Fracchiaea subcongregata (Berk. & M.A. Curtis) Ellis SPECIES
 
 #### Status
 ACCEPTED

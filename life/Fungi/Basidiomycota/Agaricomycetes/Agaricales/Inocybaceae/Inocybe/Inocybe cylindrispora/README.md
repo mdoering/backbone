@@ -1,5 +1,4 @@
-Inocybe cylindrispora Murrill SPECIES
-=======
+# Inocybe cylindrispora Murrill SPECIES
 
 #### Status
 ACCEPTED

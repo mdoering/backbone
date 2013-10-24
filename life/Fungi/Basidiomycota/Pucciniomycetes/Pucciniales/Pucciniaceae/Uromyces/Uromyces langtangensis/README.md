@@ -1,5 +1,4 @@
-Uromyces langtangensis Durrieu SPECIES
-=======
+# Uromyces langtangensis Durrieu SPECIES
 
 #### Status
 ACCEPTED

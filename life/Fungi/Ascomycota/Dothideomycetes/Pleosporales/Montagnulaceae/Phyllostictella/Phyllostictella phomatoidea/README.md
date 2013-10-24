@@ -1,5 +1,4 @@
-Phyllostictella phomatoidea (Cooke & Massee) Tassi SPECIES
-=======
+# Phyllostictella phomatoidea (Cooke & Massee) Tassi SPECIES
 
 #### Status
 ACCEPTED

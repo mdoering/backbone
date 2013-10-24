@@ -1,5 +1,4 @@
-Cryptosporium magnoliae Thüm. SPECIES
-=======
+# Cryptosporium magnoliae Thüm. SPECIES
 
 #### Status
 ACCEPTED

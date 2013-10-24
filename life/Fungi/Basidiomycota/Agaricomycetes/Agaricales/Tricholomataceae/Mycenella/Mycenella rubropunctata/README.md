@@ -1,5 +1,4 @@
-Mycenella rubropunctata Boekhout, 1985 SPECIES
-=======
+# Mycenella rubropunctata Boekhout, 1985 SPECIES
 
 #### Status
 ACCEPTED

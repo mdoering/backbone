@@ -1,5 +1,4 @@
-Helcococcus Collins et al., 1993 GENUS
-=======
+# Helcococcus Collins et al., 1993 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sulfitobacter pontiacus Sorokin, 1996 SPECIES
-=======
+# Sulfitobacter pontiacus Sorokin, 1996 SPECIES
 
 #### Status
 ACCEPTED

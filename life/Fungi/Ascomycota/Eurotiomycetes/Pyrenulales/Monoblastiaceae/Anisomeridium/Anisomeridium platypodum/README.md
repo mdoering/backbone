@@ -1,5 +1,4 @@
-Anisomeridium platypodum G. Thor, Lücking & Tat. Matsumoto SPECIES
-=======
+# Anisomeridium platypodum G. Thor, Lücking & Tat. Matsumoto SPECIES
 
 #### Status
 ACCEPTED

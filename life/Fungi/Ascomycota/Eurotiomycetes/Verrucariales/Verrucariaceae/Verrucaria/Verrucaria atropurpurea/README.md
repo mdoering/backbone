@@ -1,5 +1,4 @@
-Verrucaria atropurpurea Eschw. SPECIES
-=======
+# Verrucaria atropurpurea Eschw. SPECIES
 
 #### Status
 ACCEPTED

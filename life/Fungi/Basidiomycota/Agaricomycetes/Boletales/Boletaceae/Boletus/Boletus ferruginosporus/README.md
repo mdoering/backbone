@@ -1,5 +1,4 @@
-Boletus ferruginosporus Corner SPECIES
-=======
+# Boletus ferruginosporus Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula riograndensis Singer SPECIES
-=======
+# Russula riograndensis Singer SPECIES
 
 #### Status
 ACCEPTED

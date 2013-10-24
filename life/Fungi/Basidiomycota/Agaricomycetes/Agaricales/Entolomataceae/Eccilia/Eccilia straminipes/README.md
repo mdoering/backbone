@@ -1,5 +1,4 @@
-Eccilia straminipes (Massee) A. Pearson & Dennis SPECIES
-=======
+# Eccilia straminipes (Massee) A. Pearson & Dennis SPECIES
 
 #### Status
 ACCEPTED

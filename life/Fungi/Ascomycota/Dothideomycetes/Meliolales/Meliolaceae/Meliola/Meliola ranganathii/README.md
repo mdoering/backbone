@@ -1,5 +1,4 @@
-Meliola ranganathii Hansf. SPECIES
-=======
+# Meliola ranganathii Hansf. SPECIES
 
 #### Status
 ACCEPTED

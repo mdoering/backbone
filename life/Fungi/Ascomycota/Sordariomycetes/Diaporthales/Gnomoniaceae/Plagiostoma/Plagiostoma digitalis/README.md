@@ -1,5 +1,4 @@
-Plagiostoma digitalis Dennis & Spooner SPECIES
-=======
+# Plagiostoma digitalis Dennis & Spooner SPECIES
 
 #### Status
 ACCEPTED

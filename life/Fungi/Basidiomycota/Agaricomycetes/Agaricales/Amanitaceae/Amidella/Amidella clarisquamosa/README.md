@@ -1,5 +1,4 @@
-Amidella clarisquamosa (S. Imai) E.-J. Gilbert SPECIES
-=======
+# Amidella clarisquamosa (S. Imai) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

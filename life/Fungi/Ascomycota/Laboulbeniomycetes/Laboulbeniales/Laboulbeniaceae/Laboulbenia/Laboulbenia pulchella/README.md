@@ -1,5 +1,4 @@
-Laboulbenia pulchella Speg. SPECIES
-=======
+# Laboulbenia pulchella Speg. SPECIES
 
 #### Status
 ACCEPTED

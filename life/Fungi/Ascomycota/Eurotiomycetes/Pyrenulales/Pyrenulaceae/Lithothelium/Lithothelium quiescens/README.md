@@ -1,5 +1,4 @@
-Lithothelium quiescens P. M. McCarthy SPECIES
-=======
+# Lithothelium quiescens P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

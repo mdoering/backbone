@@ -1,5 +1,4 @@
-Pholiota detersibilis Peck SPECIES
-=======
+# Pholiota detersibilis Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uroleptus ratulus SPECIES
-=======
+# Uroleptus ratulus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia rhododendri Zahlbr. SPECIES
-=======
+# Parmelia rhododendri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

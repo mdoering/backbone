@@ -1,5 +1,4 @@
-Corticium floridense (M.J. Larsen & Nakasone) M.J. Larsen, 1990 SPECIES
-=======
+# Corticium floridense (M.J. Larsen & Nakasone) M.J. Larsen, 1990 SPECIES
 
 #### Status
 ACCEPTED

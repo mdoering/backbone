@@ -1,5 +1,4 @@
-Fabraea crantziae Speg. SPECIES
-=======
+# Fabraea crantziae Speg. SPECIES
 
 #### Status
 ACCEPTED

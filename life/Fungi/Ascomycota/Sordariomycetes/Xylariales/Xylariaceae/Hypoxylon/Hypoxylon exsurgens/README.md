@@ -1,5 +1,4 @@
-Hypoxylon exsurgens Mont. SPECIES
-=======
+# Hypoxylon exsurgens Mont. SPECIES
 
 #### Status
 ACCEPTED

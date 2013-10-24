@@ -1,17 +1,16 @@
-Arcangeliella sculptispora S.L. Mill.) J.M. Vidal, 2005 SPECIES
-=======
+# Zelleromyces sculptisporus S.L. Mill., 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Miller & Lebel, Mycotaxon 72: 21 (1999)
 
 #### Original name
-null
+Zelleromyces sculptisporus S.L. Mill., 1999
 
 ### Remarks
 null

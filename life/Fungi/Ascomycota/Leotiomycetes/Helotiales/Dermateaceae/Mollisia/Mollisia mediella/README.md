@@ -1,5 +1,4 @@
-Mollisia mediella (P. Karst.) Baral, 2008 SPECIES
-=======
+# Mollisia mediella (P. Karst.) Baral, 2008 SPECIES
 
 #### Status
 ACCEPTED

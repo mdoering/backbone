@@ -1,5 +1,4 @@
-Allodus acnisti (Arthur) Arthur & Orton SPECIES
-=======
+# Allodus acnisti (Arthur) Arthur & Orton SPECIES
 
 #### Status
 ACCEPTED

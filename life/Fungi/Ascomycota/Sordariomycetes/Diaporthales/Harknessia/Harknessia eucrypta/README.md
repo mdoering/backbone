@@ -1,14 +1,13 @@
-Chaetomella eucrypta Cooke & Massee, 1890 SPECIES
-=======
+# Harknessia eucrypta (Cooke & Massee) Nag Raj & DiCosmo, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Cooke, Grevillea 19(no. 89): 4 (1890)
+Biblthca Mycol. 80: 28 (1981)
 
 #### Original name
 Chaetomella eucrypta Cooke & Massee, 1890

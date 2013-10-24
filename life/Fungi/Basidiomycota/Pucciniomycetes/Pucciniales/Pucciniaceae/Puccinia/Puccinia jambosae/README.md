@@ -1,5 +1,4 @@
-Puccinia jambosae Henn. SPECIES
-=======
+# Puccinia jambosae Henn. SPECIES
 
 #### Status
 ACCEPTED

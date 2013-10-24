@@ -1,14 +1,13 @@
-Siphula ramalinoides var. comata Nyl. VARIETY
-=======
+# Parasiphula comata (Nyl.) Kantvilas & Grube SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Crombie, J. Linn. Soc. , Bot. 15: 226 (1876)
+in Grube & Kantvilas, Lichenologist 38(3): 246 (2006)
 
 #### Original name
 Siphula ramalinoides var. comata Nyl.

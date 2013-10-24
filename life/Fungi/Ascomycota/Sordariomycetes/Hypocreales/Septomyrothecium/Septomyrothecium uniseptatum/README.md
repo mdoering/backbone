@@ -1,5 +1,4 @@
-Septomyrothecium uniseptatum Matsush., 1971 SPECIES
-=======
+# Septomyrothecium uniseptatum Matsush., 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Epicoccum diversisporum var. diversisporum Preuss VARIETY
-=======
+# Epicoccum diversisporum Preuss, 1852 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Linnaea 25: 740 (1852)
 
 #### Original name
-Epicoccum diversisporum var. diversisporum Preuss
+Epicoccum diversisporum Preuss, 1852
 
 ### Remarks
 null

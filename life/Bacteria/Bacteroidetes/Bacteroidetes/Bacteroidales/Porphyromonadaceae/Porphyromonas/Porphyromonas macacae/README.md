@@ -1,8 +1,7 @@
-Bacteroides melaninogenicus subsp. macacae Slots & Genco, 1980 SUBSPECIES
-=======
+# Porphyromonas macacae (Slots & Genco, 1980) Love, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

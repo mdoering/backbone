@@ -1,5 +1,4 @@
-Caecomyces equi J.J. Gold, 1988 SPECIES
-=======
+# Caecomyces equi J.J. Gold, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniotheciella GENUS
-=======
+# Coniotheciella GENUS
 
 #### Status
 ACCEPTED

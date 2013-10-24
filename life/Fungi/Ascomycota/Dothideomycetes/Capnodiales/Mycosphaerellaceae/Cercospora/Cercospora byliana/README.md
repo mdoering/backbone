@@ -1,5 +1,4 @@
-Cercospora byliana Syd. & P. Syd. SPECIES
-=======
+# Cercospora byliana Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

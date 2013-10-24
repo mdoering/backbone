@@ -1,5 +1,4 @@
-Szczawinskia leucopoda Holien & Tønsberg SPECIES
-=======
+# Szczawinskia leucopoda Holien & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

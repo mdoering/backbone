@@ -1,5 +1,4 @@
-Nectriopsis lilliputia Samuels SPECIES
-=======
+# Nectriopsis lilliputia Samuels SPECIES
 
 #### Status
 ACCEPTED

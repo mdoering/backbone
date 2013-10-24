@@ -1,5 +1,4 @@
-Stagonospora bataticola Khokhr. & Dyur. SPECIES
-=======
+# Stagonospora bataticola Khokhr. & Dyur. SPECIES
 
 #### Status
 ACCEPTED

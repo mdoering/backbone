@@ -1,5 +1,4 @@
-Chiodecton microdiscum Zahlbr. SPECIES
-=======
+# Chiodecton microdiscum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

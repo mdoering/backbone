@@ -1,5 +1,4 @@
-Bertia solorinae Anzi SPECIES
-=======
+# Bertia solorinae Anzi SPECIES
 
 #### Status
 ACCEPTED

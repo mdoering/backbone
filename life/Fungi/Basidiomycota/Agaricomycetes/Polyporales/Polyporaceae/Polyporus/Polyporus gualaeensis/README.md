@@ -1,5 +1,4 @@
-Polyporus gualaeensis Pat. SPECIES
-=======
+# Polyporus gualaeensis Pat. SPECIES
 
 #### Status
 ACCEPTED

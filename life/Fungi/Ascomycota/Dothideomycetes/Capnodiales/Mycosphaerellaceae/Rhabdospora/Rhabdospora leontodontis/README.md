@@ -1,5 +1,4 @@
-Rhabdospora leontodontis Henn. SPECIES
-=======
+# Rhabdospora leontodontis Henn. SPECIES
 
 #### Status
 ACCEPTED

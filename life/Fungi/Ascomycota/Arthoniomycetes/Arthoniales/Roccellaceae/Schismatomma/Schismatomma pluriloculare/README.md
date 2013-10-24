@@ -1,5 +1,4 @@
-Schismatomma pluriloculare Zahlbr. SPECIES
-=======
+# Schismatomma pluriloculare Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

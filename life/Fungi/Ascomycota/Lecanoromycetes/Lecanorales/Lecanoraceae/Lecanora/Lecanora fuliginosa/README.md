@@ -1,5 +1,4 @@
-Lecanora fuliginosa Brodo SPECIES
-=======
+# Lecanora fuliginosa Brodo SPECIES
 
 #### Status
 ACCEPTED

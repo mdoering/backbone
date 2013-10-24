@@ -1,5 +1,4 @@
-Arcyria oerstedtioides Flatau & Schirmer SPECIES
-=======
+# Arcyria oerstedtioides Flatau & Schirmer SPECIES
 
 #### Status
 ACCEPTED

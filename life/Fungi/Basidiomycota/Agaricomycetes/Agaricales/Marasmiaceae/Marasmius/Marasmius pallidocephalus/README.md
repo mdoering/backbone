@@ -1,5 +1,4 @@
-Marasmius pallidocephalus Gilliam SPECIES
-=======
+# Marasmius pallidocephalus Gilliam SPECIES
 
 #### Status
 ACCEPTED

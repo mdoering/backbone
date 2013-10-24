@@ -1,5 +1,4 @@
-Ascotrichosporon Kock.-Krat., E. Sláviková, Zemek & Kuniak GENUS
-=======
+# Ascotrichosporon Kock.-Krat., E. Sláviková, Zemek & Kuniak GENUS
 
 #### Status
 ACCEPTED

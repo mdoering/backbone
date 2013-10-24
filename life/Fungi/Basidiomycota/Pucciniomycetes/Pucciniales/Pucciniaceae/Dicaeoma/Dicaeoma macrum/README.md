@@ -1,5 +1,4 @@
-Dicaeoma macrum (Arthur & Holw.) Arthur & Fromme SPECIES
-=======
+# Dicaeoma macrum (Arthur & Holw.) Arthur & Fromme SPECIES
 
 #### Status
 ACCEPTED

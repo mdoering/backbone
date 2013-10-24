@@ -1,5 +1,4 @@
-Inonotus pegleri Ryvarden, 1975 SPECIES
-=======
+# Inonotus pegleri Ryvarden, 1975 SPECIES
 
 #### Status
 ACCEPTED

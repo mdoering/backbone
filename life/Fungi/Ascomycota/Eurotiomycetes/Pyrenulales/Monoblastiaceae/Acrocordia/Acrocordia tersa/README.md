@@ -1,5 +1,4 @@
-Acrocordia tersa Körb. SPECIES
-=======
+# Acrocordia tersa Körb. SPECIES
 
 #### Status
 ACCEPTED

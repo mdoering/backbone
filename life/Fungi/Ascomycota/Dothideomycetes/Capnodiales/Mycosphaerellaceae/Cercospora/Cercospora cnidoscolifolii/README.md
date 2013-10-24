@@ -1,5 +1,4 @@
-Cercospora cnidoscolifolii Bat., Peres & O.A. Drumm. SPECIES
-=======
+# Cercospora cnidoscolifolii Bat., Peres & O.A. Drumm. SPECIES
 
 #### Status
 ACCEPTED

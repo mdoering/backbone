@@ -1,5 +1,4 @@
-Stagonospora maritima Syd., 1911 SPECIES
-=======
+# Stagonospora maritima Syd., 1911 SPECIES
 
 #### Status
 ACCEPTED

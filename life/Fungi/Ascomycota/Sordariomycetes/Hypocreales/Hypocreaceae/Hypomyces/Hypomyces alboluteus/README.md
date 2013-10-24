@@ -1,5 +1,4 @@
-Hypomyces alboluteus anon. SPECIES
-=======
+# Hypomyces alboluteus anon. SPECIES
 
 #### Status
 ACCEPTED

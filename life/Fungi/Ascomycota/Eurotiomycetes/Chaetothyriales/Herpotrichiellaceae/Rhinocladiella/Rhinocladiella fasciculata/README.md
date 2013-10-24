@@ -1,14 +1,13 @@
-Rhinocladiella fasciculatum (V. Rao & de Hoog) Arzanlou & Crous SPECIES
-=======
+# Rhinocladiella fasciculata (V. Rao & de Hoog) Arzanlou & Crous, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Arzanlou, Groenewald, Gams, Braun, Shin & Crous, Stud. Mycol. 58: 77 (2007)
 
 #### Original name
 Ramichloridium fasciculatum V. Rao & de Hoog, 1986

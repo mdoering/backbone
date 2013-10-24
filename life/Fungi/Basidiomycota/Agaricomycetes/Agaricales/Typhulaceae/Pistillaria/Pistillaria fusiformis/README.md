@@ -1,5 +1,4 @@
-Pistillaria fusiformis Kauffman SPECIES
-=======
+# Pistillaria fusiformis Kauffman SPECIES
 
 #### Status
 ACCEPTED

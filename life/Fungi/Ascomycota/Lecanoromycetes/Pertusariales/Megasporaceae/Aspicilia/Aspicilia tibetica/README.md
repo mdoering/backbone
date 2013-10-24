@@ -1,5 +1,4 @@
-Aspicilia tibetica Sohrabi & Owe-Larss. SPECIES
-=======
+# Aspicilia tibetica Sohrabi & Owe-Larss. SPECIES
 
 #### Status
 ACCEPTED

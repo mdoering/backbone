@@ -1,5 +1,4 @@
-Cryptosporium graminis Fr. SPECIES
-=======
+# Cryptosporium graminis Fr. SPECIES
 
 #### Status
 ACCEPTED

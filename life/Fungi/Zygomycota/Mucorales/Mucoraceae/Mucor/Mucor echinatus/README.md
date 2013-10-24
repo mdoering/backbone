@@ -1,5 +1,4 @@
-Mucor echinatus (Tiegh.) Mig. SPECIES
-=======
+# Mucor echinatus (Tiegh.) Mig. SPECIES
 
 #### Status
 ACCEPTED

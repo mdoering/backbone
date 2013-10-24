@@ -1,5 +1,4 @@
-Candida mogii Vidal-Leir., 1967 SPECIES
-=======
+# Candida mogii Vidal-Leir., 1967 SPECIES
 
 #### Status
 ACCEPTED

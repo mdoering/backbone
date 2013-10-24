@@ -1,5 +1,4 @@
-Marasmius ellipsoidosporus Ash. Kumar, Singer & S.L. Stephenson SPECIES
-=======
+# Marasmius ellipsoidosporus Ash. Kumar, Singer & S.L. Stephenson SPECIES
 
 #### Status
 ACCEPTED

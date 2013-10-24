@@ -1,5 +1,4 @@
-Marginulina raphanus SPECIES
-=======
+# Marginulina raphanus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gallacea avellanea Pat., 1911 SPECIES
-=======
+# Gallacea avellanea Pat., 1911 SPECIES
 
 #### Status
 ACCEPTED

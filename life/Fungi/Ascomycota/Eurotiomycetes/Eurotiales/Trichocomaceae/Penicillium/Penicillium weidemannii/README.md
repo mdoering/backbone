@@ -1,5 +1,4 @@
-Penicillium weidemannii var. weidemannii VARIETY
-=======
+# Penicillium weidemannii (Westling) Biourge SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 La Cellule 33: 204 (1923)
 
 #### Original name
-Penicillium weidemannii var. weidemannii
+null
 
 ### Remarks
 null

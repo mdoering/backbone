@@ -1,5 +1,4 @@
-Celosporium GENUS
-=======
+# Celosporium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium erythrinae Thirum. & Naras. SPECIES
-=======
+# Helminthosporium erythrinae Thirum. & Naras. SPECIES
 
 #### Status
 ACCEPTED

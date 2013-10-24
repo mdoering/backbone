@@ -1,8 +1,7 @@
-Arcuospathidium japonicum Foissner, 1988 SPECIES
-=======
+# Cultellothrix japonica (Foissner, 1988) Foissner & Xu, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

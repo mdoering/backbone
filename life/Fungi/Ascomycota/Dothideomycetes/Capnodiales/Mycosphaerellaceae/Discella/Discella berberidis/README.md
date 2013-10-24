@@ -1,5 +1,4 @@
-Discella berberidis Oudem. SPECIES
-=======
+# Discella berberidis Oudem. SPECIES
 
 #### Status
 ACCEPTED

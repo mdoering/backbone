@@ -1,5 +1,4 @@
-Hysterium variegatum Berk. & M.A. Curtis SPECIES
-=======
+# Hysterium variegatum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

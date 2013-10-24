@@ -1,5 +1,4 @@
-Antennellopsis GENUS
-=======
+# Antennellopsis GENUS
 
 #### Status
 ACCEPTED

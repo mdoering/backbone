@@ -1,5 +1,4 @@
-Rhizophydium graminis Ledingham, 1936 SPECIES
-=======
+# Rhizophydium graminis Ledingham, 1936 SPECIES
 
 #### Status
 ACCEPTED

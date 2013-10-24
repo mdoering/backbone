@@ -1,5 +1,4 @@
-Boletus scrobiculatus Berk. SPECIES
-=======
+# Boletus scrobiculatus Berk. SPECIES
 
 #### Status
 ACCEPTED

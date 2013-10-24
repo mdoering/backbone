@@ -1,17 +1,16 @@
-Usnea chaetophora subsp. chaetophora Stirt. SUBSPECIES
-=======
+# Usnea chaetophora Stirt. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Scott. Natural. , N. S. 1: 76 (1883)
 
 #### Original name
-Usnea chaetophora subsp. chaetophora Stirt.
+Usnea chaetophora Stirt.
 
 ### Remarks
 null

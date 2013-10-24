@@ -1,5 +1,4 @@
-Evernia perfragilis f. perfragilis FORM
-=======
+# Evernia perfragilis Llano SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Evernia perfragilis f. perfragilis
+Evernia perfragilis Llano
 
 ### Remarks
 null

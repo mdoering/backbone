@@ -1,17 +1,16 @@
-Laschia eberhardti Pat. SPECIES
-=======
+# Campanella eberhardtii (Pat.) Singer, 1945 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lloydia 8: 195 (1945)
 
 #### Original name
-Laschia eberhardti Pat.
+Laschia eberhardtii Pat., 1909
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Clisosporium celtidis (Brunaud) Kuntze SPECIES
-=======
+# Clisosporium celtidis (Brunaud) Kuntze SPECIES
 
 #### Status
 ACCEPTED

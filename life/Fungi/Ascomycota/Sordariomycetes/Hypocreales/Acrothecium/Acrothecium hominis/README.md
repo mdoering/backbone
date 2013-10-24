@@ -1,5 +1,4 @@
-Acrothecium hominis Ola'h SPECIES
-=======
+# Acrothecium hominis Ola'h SPECIES
 
 #### Status
 ACCEPTED

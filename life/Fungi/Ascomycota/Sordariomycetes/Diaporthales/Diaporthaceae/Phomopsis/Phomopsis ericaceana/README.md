@@ -1,5 +1,4 @@
-Phomopsis ericaceana Fairm., 1918 SPECIES
-=======
+# Phomopsis ericaceana Fairm., 1918 SPECIES
 
 #### Status
 ACCEPTED

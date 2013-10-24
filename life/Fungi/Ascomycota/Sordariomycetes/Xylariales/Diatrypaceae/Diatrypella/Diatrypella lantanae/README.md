@@ -1,5 +1,4 @@
-Diatrypella lantanae Earle SPECIES
-=======
+# Diatrypella lantanae Earle SPECIES
 
 #### Status
 ACCEPTED

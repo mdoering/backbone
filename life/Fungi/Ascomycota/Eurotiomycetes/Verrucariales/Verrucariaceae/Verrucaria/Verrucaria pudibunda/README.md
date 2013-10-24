@@ -1,5 +1,4 @@
-Verrucaria pudibunda Mont. SPECIES
-=======
+# Verrucaria pudibunda Mont. SPECIES
 
 #### Status
 ACCEPTED

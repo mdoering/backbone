@@ -1,5 +1,4 @@
-Ditiola tubercularioides Lib. SPECIES
-=======
+# Ditiola tubercularioides Lib. SPECIES
 
 #### Status
 ACCEPTED

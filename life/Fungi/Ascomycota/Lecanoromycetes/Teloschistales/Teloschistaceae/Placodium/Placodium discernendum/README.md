@@ -1,5 +1,4 @@
-Placodium discernendum (Nyl.) Gasilien SPECIES
-=======
+# Placodium discernendum (Nyl.) Gasilien SPECIES
 
 #### Status
 ACCEPTED

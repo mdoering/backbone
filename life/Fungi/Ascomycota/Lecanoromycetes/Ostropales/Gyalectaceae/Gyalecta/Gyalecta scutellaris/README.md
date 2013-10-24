@@ -1,5 +1,4 @@
-Gyalecta scutellaris Bagl. & Carestia SPECIES
-=======
+# Gyalecta scutellaris Bagl. & Carestia SPECIES
 
 #### Status
 ACCEPTED

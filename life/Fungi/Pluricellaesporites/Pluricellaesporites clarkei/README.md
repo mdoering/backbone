@@ -1,5 +1,4 @@
-Pluricellaesporites clarkei S.K. Srivast. SPECIES
-=======
+# Pluricellaesporites clarkei S.K. Srivast. SPECIES
 
 #### Status
 ACCEPTED

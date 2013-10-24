@@ -1,5 +1,4 @@
-Dactylaria breviseptata Matsush. SPECIES
-=======
+# Dactylaria breviseptata Matsush. SPECIES
 
 #### Status
 ACCEPTED

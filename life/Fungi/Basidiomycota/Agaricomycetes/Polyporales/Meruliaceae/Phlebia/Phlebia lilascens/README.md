@@ -1,17 +1,16 @@
-Corticium pallidoincarnatum Litsch., 1941 SPECIES
-=======
+# Phlebia lilascens (Bourdot) J. Erikss. & Hjortstam, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 39(2/3): 123 (1941)
+in Eriksson, Hjortstam & Ryvarden, Cortic. N. Eur. (Oslo) 6: 1123 (1981)
 
 #### Original name
-Corticium pallidoincarnatum Litsch., 1941
+Corticium lilascens Bourdot, 1910
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Entoloma albinellum (Peck) Hesler SPECIES
-=======
+# Entoloma albinellum (Peck) Hesler SPECIES
 
 #### Status
 ACCEPTED

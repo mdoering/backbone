@@ -1,5 +1,4 @@
-Favolus discolor Fr. SPECIES
-=======
+# Favolus discolor Fr. SPECIES
 
 #### Status
 ACCEPTED

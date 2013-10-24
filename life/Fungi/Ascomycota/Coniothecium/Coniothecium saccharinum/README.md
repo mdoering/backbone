@@ -1,5 +1,4 @@
-Coniothecium saccharinum Peck SPECIES
-=======
+# Coniothecium saccharinum Peck SPECIES
 
 #### Status
 ACCEPTED

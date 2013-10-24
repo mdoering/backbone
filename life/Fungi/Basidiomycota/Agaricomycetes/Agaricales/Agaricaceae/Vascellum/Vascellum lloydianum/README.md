@@ -1,5 +1,4 @@
-Vascellum lloydianum A.H. Sm. SPECIES
-=======
+# Vascellum lloydianum A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

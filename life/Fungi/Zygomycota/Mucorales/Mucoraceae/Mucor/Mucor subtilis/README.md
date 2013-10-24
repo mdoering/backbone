@@ -1,5 +1,4 @@
-Mucor subtilis (Corda) Berl. & De Toni SPECIES
-=======
+# Mucor subtilis (Corda) Berl. & De Toni SPECIES
 
 #### Status
 ACCEPTED

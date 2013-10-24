@@ -1,5 +1,4 @@
-Lasiosphaeria muscicola De Not. SPECIES
-=======
+# Lasiosphaeria muscicola De Not. SPECIES
 
 #### Status
 ACCEPTED

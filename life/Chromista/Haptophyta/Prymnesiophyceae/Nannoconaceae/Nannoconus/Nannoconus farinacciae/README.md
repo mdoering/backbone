@@ -1,5 +1,4 @@
-Nannoconus farinacciae Bukry, 1969 SPECIES
-=======
+# Nannoconus farinacciae Bukry, 1969 SPECIES
 
 #### Status
 ACCEPTED

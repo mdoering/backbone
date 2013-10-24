@@ -1,5 +1,4 @@
-Inderites bulbiferus (Malyavkina in Luber & Valts, 1941) Abramova & Martchenko, 1964 SPECIES
-=======
+# Inderites bulbiferus (Malyavkina in Luber & Valts, 1941) Abramova & Martchenko, 1964 SPECIES
 
 #### Status
 ACCEPTED

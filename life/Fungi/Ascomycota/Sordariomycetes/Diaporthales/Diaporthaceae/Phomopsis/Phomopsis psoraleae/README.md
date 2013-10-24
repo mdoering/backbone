@@ -1,5 +1,4 @@
-Phomopsis psoraleae Bubák SPECIES
-=======
+# Phomopsis psoraleae Bubák SPECIES
 
 #### Status
 ACCEPTED

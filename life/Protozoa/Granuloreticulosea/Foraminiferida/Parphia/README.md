@@ -1,5 +1,4 @@
-Parphia Miklukho-Maklai, 1965 GENUS
-=======
+# Parphia Miklukho-Maklai, 1965 GENUS
 
 #### Status
 ACCEPTED

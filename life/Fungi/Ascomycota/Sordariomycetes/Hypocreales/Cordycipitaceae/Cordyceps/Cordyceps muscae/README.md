@@ -1,5 +1,4 @@
-Cordyceps muscae Henn. SPECIES
-=======
+# Cordyceps muscae Henn. SPECIES
 
 #### Status
 ACCEPTED

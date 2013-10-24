@@ -1,5 +1,4 @@
-Tricholoma convexo-planum (Britzelm.) Sacc. & P. Syd. SPECIES
-=======
+# Tricholoma convexo-planum (Britzelm.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

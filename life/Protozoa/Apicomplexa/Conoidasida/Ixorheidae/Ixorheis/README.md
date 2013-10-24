@@ -1,5 +1,4 @@
-Ixorheis Massin, Jangoux & Sibuet, 1978 GENUS
-=======
+# Ixorheis Massin, Jangoux & Sibuet, 1978 GENUS
 
 #### Status
 ACCEPTED

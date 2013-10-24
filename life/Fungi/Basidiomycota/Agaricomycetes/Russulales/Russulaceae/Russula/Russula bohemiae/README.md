@@ -1,5 +1,4 @@
-Russula bohemiae Reumaux SPECIES
-=======
+# Russula bohemiae Reumaux SPECIES
 
 #### Status
 ACCEPTED

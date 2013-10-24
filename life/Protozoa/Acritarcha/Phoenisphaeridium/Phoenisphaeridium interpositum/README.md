@@ -1,5 +1,4 @@
-Phoenisphaeridium interpositum Deunff in Eisenack et al., 1976 SPECIES
-=======
+# Phoenisphaeridium interpositum Deunff in Eisenack et al., 1976 SPECIES
 
 #### Status
 ACCEPTED

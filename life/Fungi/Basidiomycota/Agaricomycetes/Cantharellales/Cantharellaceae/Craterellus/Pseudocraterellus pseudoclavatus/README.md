@@ -1,5 +1,4 @@
-Pseudocraterellus pseudoclavatus (A.H. Sm.) R.H. Petersen SPECIES
-=======
+# Pseudocraterellus pseudoclavatus (A.H. Sm.) R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

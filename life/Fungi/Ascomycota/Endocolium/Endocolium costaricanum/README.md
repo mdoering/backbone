@@ -1,5 +1,4 @@
-Endocolium costaricanum Syd., 1937 SPECIES
-=======
+# Endocolium costaricanum Syd., 1937 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physarum nudum T. Macbr., 1932 SPECIES
-=======
+# Physarum nudum T. Macbr., 1932 SPECIES
 
 #### Status
 ACCEPTED

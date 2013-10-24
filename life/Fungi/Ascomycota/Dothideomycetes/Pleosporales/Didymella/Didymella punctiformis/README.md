@@ -1,5 +1,4 @@
-Didymella punctiformis var. punctiformis VARIETY
-=======
+# Didymella punctiformis SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Acta Soc. Fauna Flora fenn. 49(2): 208 (1921)
+null
 
 #### Original name
-Didymella punctiformis var. punctiformis
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mimulospora GENUS
-=======
+# Mimulospora GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota vapida (Fr.) Gillet SPECIES
-=======
+# Lepiota vapida (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

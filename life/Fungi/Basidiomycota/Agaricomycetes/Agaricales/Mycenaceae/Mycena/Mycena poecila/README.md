@@ -1,5 +1,4 @@
-Mycena poecila Singer SPECIES
-=======
+# Mycena poecila Singer SPECIES
 
 #### Status
 ACCEPTED

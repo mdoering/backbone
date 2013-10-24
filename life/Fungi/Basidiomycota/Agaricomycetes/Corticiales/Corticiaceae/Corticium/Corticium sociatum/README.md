@@ -1,5 +1,4 @@
-Corticium sociatum Burt SPECIES
-=======
+# Corticium sociatum Burt SPECIES
 
 #### Status
 ACCEPTED

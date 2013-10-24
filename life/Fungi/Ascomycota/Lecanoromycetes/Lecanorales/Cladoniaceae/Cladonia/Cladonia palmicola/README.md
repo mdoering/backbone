@@ -1,5 +1,4 @@
-Cladonia palmicola Ahti & Fleig SPECIES
-=======
+# Cladonia palmicola Ahti & Fleig SPECIES
 
 #### Status
 ACCEPTED

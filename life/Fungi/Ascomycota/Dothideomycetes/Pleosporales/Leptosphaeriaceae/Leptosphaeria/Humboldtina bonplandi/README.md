@@ -1,17 +1,16 @@
-Humboldtina bonplandii Chardón & Toro SPECIES
-=======
+# Humboldtina bonplandi Chardón & Toro SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monograph Univ. Puerto Rico, Series B 2: 183 (1934)
 
 #### Original name
-Humboldtina bonplandii Chardón & Toro
+Humboldtina bonplandi Chardón & Toro
 
 ### Remarks
 null

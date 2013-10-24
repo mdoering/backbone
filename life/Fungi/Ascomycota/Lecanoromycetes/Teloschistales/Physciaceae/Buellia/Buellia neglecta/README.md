@@ -1,5 +1,4 @@
-Buellia neglecta Eitner SPECIES
-=======
+# Buellia neglecta Eitner SPECIES
 
 #### Status
 ACCEPTED

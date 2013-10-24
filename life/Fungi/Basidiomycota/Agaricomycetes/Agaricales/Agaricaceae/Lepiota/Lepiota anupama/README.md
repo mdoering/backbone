@@ -1,5 +1,4 @@
-Lepiota anupama T.K.A. Kumar & Manim. SPECIES
-=======
+# Lepiota anupama T.K.A. Kumar & Manim. SPECIES
 
 #### Status
 ACCEPTED

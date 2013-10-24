@@ -1,5 +1,4 @@
-Salegentibacter salinarum Yoon, Lee, Kang & Oh, 2008 SPECIES
-=======
+# Salegentibacter salinarum Yoon, Lee, Kang & Oh, 2008 SPECIES
 
 #### Status
 ACCEPTED

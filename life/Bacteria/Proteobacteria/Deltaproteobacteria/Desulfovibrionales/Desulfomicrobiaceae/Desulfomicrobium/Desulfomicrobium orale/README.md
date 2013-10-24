@@ -1,5 +1,4 @@
-Desulfomicrobium orale Langendijk et al., 2001 SPECIES
-=======
+# Desulfomicrobium orale Langendijk et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

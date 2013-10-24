@@ -1,5 +1,4 @@
-Graphis schubertii Fr. SPECIES
-=======
+# Graphis schubertii Fr. SPECIES
 
 #### Status
 ACCEPTED

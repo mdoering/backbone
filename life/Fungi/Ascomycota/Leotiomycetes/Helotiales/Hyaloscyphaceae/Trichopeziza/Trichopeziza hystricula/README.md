@@ -1,5 +1,4 @@
-Trichopeziza hystricula (P. Karst.) Sacc. SPECIES
-=======
+# Trichopeziza hystricula (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

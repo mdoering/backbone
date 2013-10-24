@@ -1,5 +1,4 @@
-Peziza subulata Schumach. SPECIES
-=======
+# Peziza subulata Schumach. SPECIES
 
 #### Status
 ACCEPTED

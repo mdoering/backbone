@@ -1,5 +1,4 @@
-Lecidea perforans Stizenb. SPECIES
-=======
+# Lecidea perforans Stizenb. SPECIES
 
 #### Status
 ACCEPTED

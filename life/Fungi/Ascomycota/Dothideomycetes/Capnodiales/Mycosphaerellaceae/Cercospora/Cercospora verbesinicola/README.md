@@ -1,5 +1,4 @@
-Cercospora verbesinicola U. Braun, Delhey & Kiehr SPECIES
-=======
+# Cercospora verbesinicola U. Braun, Delhey & Kiehr SPECIES
 
 #### Status
 ACCEPTED

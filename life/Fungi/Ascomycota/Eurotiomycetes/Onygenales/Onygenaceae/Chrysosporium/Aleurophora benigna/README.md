@@ -1,5 +1,4 @@
-Aleurophora benigna O. Magalh. SPECIES
-=======
+# Aleurophora benigna O. Magalh. SPECIES
 
 #### Status
 ACCEPTED

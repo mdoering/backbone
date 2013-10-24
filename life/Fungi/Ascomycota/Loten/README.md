@@ -1,5 +1,4 @@
-Loten Adans. GENUS
-=======
+# Loten Adans. GENUS
 
 #### Status
 ACCEPTED

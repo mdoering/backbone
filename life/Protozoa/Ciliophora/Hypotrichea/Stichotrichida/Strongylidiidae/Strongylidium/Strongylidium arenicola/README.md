@@ -1,5 +1,4 @@
-Strongylidium arenicola Dragesco, 1953 SPECIES
-=======
+# Strongylidium arenicola Dragesco, 1953 SPECIES
 
 #### Status
 ACCEPTED

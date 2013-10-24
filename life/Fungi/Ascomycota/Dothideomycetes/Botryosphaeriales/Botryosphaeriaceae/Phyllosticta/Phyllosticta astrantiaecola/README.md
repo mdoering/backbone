@@ -1,5 +1,4 @@
-Phyllosticta astrantiaecola Gonz. Frag. SPECIES
-=======
+# Phyllosticta astrantiaecola Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

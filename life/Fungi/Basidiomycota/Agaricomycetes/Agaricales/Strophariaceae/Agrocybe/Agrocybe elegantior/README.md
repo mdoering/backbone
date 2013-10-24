@@ -1,5 +1,4 @@
-Agrocybe elegantior Watling SPECIES
-=======
+# Agrocybe elegantior Watling SPECIES
 
 #### Status
 ACCEPTED

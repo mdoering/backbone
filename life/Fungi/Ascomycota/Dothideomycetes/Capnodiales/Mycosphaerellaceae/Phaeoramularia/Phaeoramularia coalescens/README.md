@@ -1,5 +1,4 @@
-Phaeoramularia coalescens (Davis) U. Braun & Rogerson SPECIES
-=======
+# Phaeoramularia coalescens (Davis) U. Braun & Rogerson SPECIES
 
 #### Status
 ACCEPTED

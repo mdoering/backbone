@@ -1,5 +1,4 @@
-Encoelia infundibuliformis (E.J. Durand) Dennis SPECIES
-=======
+# Encoelia infundibuliformis (E.J. Durand) Dennis SPECIES
 
 #### Status
 ACCEPTED

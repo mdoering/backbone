@@ -1,5 +1,4 @@
-Durella polytrichina (H. Karst.) Racov. SPECIES
-=======
+# Durella polytrichina (H. Karst.) Racov. SPECIES
 
 #### Status
 ACCEPTED

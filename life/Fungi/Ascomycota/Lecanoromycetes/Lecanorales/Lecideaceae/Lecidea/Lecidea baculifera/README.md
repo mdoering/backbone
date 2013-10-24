@@ -1,5 +1,4 @@
-Lecidea baculifera Nyl. SPECIES
-=======
+# Lecidea baculifera Nyl. SPECIES
 
 #### Status
 ACCEPTED

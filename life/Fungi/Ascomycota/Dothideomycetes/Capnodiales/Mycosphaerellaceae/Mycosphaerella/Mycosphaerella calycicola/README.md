@@ -1,5 +1,4 @@
-Mycosphaerella calycicola (Pass.) Jacz. SPECIES
-=======
+# Mycosphaerella calycicola (Pass.) Jacz. SPECIES
 
 #### Status
 ACCEPTED

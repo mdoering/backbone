@@ -1,5 +1,4 @@
-Ascochyta jaczevskii Negru & Vlad SPECIES
-=======
+# Ascochyta jaczevskii Negru & Vlad SPECIES
 
 #### Status
 ACCEPTED

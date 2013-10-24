@@ -1,14 +1,13 @@
-Grandiniella salmoneolutea (Burds. & Gilb.) Burds., 1977 SPECIES
-=======
+# Phanerochaete salmoneolutea Burds. & Gilb., 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Taxon 26: 329 (1977)
+Mycologia 66(5): 787 (1974)
 
 #### Original name
 Phanerochaete salmoneolutea Burds. & Gilb., 1974

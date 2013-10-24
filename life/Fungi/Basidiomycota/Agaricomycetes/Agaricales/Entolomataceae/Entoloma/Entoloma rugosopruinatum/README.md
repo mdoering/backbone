@@ -1,5 +1,4 @@
-Entoloma rugosopruinatum Corner & E. Horak SPECIES
-=======
+# Entoloma rugosopruinatum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

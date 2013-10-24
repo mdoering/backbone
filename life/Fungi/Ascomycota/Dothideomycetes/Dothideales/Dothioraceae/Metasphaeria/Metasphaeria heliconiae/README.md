@@ -1,5 +1,4 @@
-Metasphaeria heliconiae Gonz. Frag. & Cif. SPECIES
-=======
+# Metasphaeria heliconiae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paraloricophrya Yankovskii, 1978 GENUS
-=======
+# Paraloricophrya Yankovskii, 1978 GENUS
 
 #### Status
 ACCEPTED

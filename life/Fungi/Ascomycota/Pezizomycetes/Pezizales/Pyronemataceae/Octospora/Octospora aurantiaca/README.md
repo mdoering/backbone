@@ -1,5 +1,4 @@
-Octospora aurantiaca (Bres.) Svrcek SPECIES
-=======
+# Octospora aurantiaca (Bres.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

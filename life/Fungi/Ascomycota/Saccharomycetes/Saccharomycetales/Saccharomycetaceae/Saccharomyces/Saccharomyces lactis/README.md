@@ -1,5 +1,4 @@
-Saccharomyces lactis Adametz SPECIES
-=======
+# Saccharomyces lactis Adametz SPECIES
 
 #### Status
 ACCEPTED

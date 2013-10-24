@@ -1,5 +1,4 @@
-Genea sphaeroides S. Imai SPECIES
-=======
+# Genea sphaeroides S. Imai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Syncarpella heliopsidis (Schwein.) Balletto SPECIES
-=======
+# Syncarpella heliopsidis (Schwein.) Balletto SPECIES
 
 #### Status
 ACCEPTED

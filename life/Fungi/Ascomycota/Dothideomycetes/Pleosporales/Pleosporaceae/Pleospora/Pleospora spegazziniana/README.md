@@ -1,5 +1,4 @@
-Pleospora spegazziniana var. spegazziniana VARIETY
-=======
+# Pleospora spegazziniana Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pleospora spegazziniana var. spegazziniana
+Pleospora spegazziniana Sacc.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Neta gigaspora R.F. Castañeda & Heredia, 2000 SPECIES
-=======
+# Neta gigaspora R.F. Castañeda & Heredia, 2000 SPECIES
 
 #### Status
 ACCEPTED

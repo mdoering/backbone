@@ -1,5 +1,4 @@
-Pertusaria spegazzinii Müll. Arg. SPECIES
-=======
+# Pertusaria spegazzinii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cubasina albofusca R.F. Castañeda, 1986 SPECIES
-=======
+# Cubasina albofusca R.F. Castañeda, 1986 SPECIES
 
 #### Status
 ACCEPTED

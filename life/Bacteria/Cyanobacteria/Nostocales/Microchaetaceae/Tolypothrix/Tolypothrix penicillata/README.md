@@ -1,5 +1,4 @@
-Tolypothrix penicillata (C. Agardh) Thuret ex Bornet & Flahault SPECIES
-=======
+# Tolypothrix penicillata (C. Agardh) Thuret ex Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

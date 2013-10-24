@@ -1,5 +1,4 @@
-Phormidium naveanum var. marinum C.K. Tseng & M. Hua VARIETY
-=======
+# Phormidium naveanum SPECIES
 
 #### Status
 ACCEPTED

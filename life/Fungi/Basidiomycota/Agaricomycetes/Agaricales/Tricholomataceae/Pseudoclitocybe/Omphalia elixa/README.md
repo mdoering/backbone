@@ -1,5 +1,4 @@
-Omphalia elixa (Sowerby) Gray SPECIES
-=======
+# Omphalia elixa (Sowerby) Gray SPECIES
 
 #### Status
 ACCEPTED

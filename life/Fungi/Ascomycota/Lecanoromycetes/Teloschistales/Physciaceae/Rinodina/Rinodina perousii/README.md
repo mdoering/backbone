@@ -1,5 +1,4 @@
-Rinodina perousii SPECIES
-=======
+# Rinodina perousii SPECIES
 
 #### Status
 ACCEPTED

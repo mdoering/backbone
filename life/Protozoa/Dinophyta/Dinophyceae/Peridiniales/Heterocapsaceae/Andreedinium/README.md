@@ -1,5 +1,4 @@
-Andreedinium Below, 1987 GENUS
-=======
+# Andreedinium Below, 1987 GENUS
 
 #### Status
 ACCEPTED

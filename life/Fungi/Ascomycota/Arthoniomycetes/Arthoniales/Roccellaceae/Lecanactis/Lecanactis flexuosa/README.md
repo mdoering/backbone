@@ -1,5 +1,4 @@
-Lecanactis flexuosa Nyl. SPECIES
-=======
+# Lecanactis flexuosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

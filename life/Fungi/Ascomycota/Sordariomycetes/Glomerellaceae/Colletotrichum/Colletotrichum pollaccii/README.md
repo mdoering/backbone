@@ -1,5 +1,4 @@
-Colletotrichum pollaccii Magnaghi SPECIES
-=======
+# Colletotrichum pollaccii Magnaghi SPECIES
 
 #### Status
 ACCEPTED

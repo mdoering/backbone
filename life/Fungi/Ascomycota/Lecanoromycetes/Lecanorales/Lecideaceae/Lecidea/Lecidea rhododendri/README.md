@@ -1,5 +1,4 @@
-Lecidea rhododendri (Hepp) Zahlbr. SPECIES
-=======
+# Lecidea rhododendri (Hepp) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ascochyta staticis Nagorny SPECIES
-=======
+# Ascochyta statices Nagorny SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Zhurnal Bolêzni Rastenii 7: 120 (1913)
 
 #### Original name
-Ascochyta staticis Nagorny
+Ascochyta statices Nagorny
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Phyllosticta prunicola var. prunicola VARIETY
-=======
+# Phoma laundoniae Boerema & Gruyter, 2002 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 2): 157 (1878)
+in Gruyter, Boerema & Aa, Persoonia 18(1): 30 (2002)
 
 #### Original name
-Phyllosticta prunicola var. prunicola
+Phoma laundoniae Boerema & Gruyter, 2002
 
 ### Remarks
 null

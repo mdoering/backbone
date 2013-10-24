@@ -1,5 +1,4 @@
-Mycocentrospora fusarioides Matsush. SPECIES
-=======
+# Mycocentrospora fusarioides Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnobolus sauteri Rostaf. SPECIES
-=======
+# Lachnobolus sauteri Rostaf. SPECIES
 
 #### Status
 ACCEPTED

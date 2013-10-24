@@ -1,5 +1,4 @@
-Pistillaria cupressiformis Berk. & M.A. Curtis SPECIES
-=======
+# Pistillaria cupressiformis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

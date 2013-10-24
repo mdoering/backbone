@@ -1,5 +1,4 @@
-Crustoderma flavescens Nakasone & Gilb., 1982 SPECIES
-=======
+# Crustoderma flavescens Nakasone & Gilb., 1982 SPECIES
 
 #### Status
 ACCEPTED

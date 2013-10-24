@@ -1,5 +1,4 @@
-Phoma anemones Kauffman SPECIES
-=======
+# Phoma anemones Kauffman SPECIES
 
 #### Status
 ACCEPTED

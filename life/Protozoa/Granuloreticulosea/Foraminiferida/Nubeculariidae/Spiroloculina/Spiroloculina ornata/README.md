@@ -1,5 +1,4 @@
-Spiroloculina ornata SPECIES
-=======
+# Spiroloculina ornata SPECIES
 
 #### Status
 ACCEPTED

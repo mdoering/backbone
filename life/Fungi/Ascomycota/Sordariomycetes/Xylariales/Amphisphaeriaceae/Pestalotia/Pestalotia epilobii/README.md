@@ -1,5 +1,4 @@
-Pestalotia epilobii Rolland & Fautrey SPECIES
-=======
+# Pestalotia epilobii Rolland & Fautrey SPECIES
 
 #### Status
 ACCEPTED

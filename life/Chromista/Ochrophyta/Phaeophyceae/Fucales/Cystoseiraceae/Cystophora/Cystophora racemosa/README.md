@@ -1,5 +1,4 @@
-Cystophora racemosa var. reflexa Sonder VARIETY
-=======
+# Cystophora racemosa (Harvey ex Kützing) J. Agardh SPECIES
 
 #### Status
 ACCEPTED

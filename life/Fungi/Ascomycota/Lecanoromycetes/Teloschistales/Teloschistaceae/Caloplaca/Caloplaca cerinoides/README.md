@@ -1,5 +1,4 @@
-Caloplaca cerinoides (Anzi) Jatta SPECIES
-=======
+# Caloplaca cerinoides (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

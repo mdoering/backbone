@@ -1,5 +1,4 @@
-Oudemansiella ephippium (Fr.) M.M. Moser SPECIES
-=======
+# Oudemansiella ephippium (Fr.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Drechslera coicis (Y. Nisik.) Subram. & B.L. Jain, 1966 SPECIES
-=======
+# Bipolaris coicis (Y. Nisik.) Shoemaker, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Curr. Sci. 35: 354 (1966)
+Can. J. Bot. 37: 883 (1959)
 
 #### Original name
 Helminthosporium coicis Y. Nisik., 1929

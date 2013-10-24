@@ -1,5 +1,4 @@
-Hygrophorus recurvatus Peck SPECIES
-=======
+# Hygrophorus recurvatus Peck SPECIES
 
 #### Status
 ACCEPTED

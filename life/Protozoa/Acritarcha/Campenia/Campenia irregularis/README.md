@@ -1,5 +1,4 @@
-Campenia irregularis Jiabo, 1978 SPECIES
-=======
+# Campenia irregularis Jiabo, 1978 SPECIES
 
 #### Status
 ACCEPTED

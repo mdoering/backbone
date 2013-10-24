@@ -1,5 +1,4 @@
-Mycosphaerella epimedii (Sacc.) Jaap SPECIES
-=======
+# Mycosphaerella epimedii (Sacc.) Jaap SPECIES
 
 #### Status
 ACCEPTED

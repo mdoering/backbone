@@ -1,5 +1,4 @@
-Gnomonia ariae (DC.) Fuckel, 1870 SPECIES
-=======
+# Gnomonia ariae (DC.) Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

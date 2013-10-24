@@ -1,5 +1,4 @@
-Skyttea acrocordiae Diederich SPECIES
-=======
+# Skyttea acrocordiae Diederich SPECIES
 
 #### Status
 ACCEPTED

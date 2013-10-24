@@ -1,17 +1,16 @@
-Phyllosticta zinnae-lenearae B.R.D. Yadav & V.G. Rao SPECIES
-=======
+# Phyllosticta zinniae-lenearis B.R.D. Yadav & V.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of the University of Poona 54: 161 (1981)
 
 #### Original name
-Phyllosticta zinnae-lenearae B.R.D. Yadav & V.G. Rao
+Phyllosticta zinniae-lenearis B.R.D. Yadav & V.G. Rao
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Physcia kigeziensis C.W. Dodge SPECIES
-=======
+# Physcia kigeziensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

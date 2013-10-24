@@ -1,5 +1,4 @@
-Mollisia pallens (Boud.) Sacc. & Trotter SPECIES
-=======
+# Mollisia pallens (Boud.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

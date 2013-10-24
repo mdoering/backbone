@@ -1,5 +1,4 @@
-Lecidea brandegei Tuck. SPECIES
-=======
+# Lecidea brandegei Tuck. SPECIES
 
 #### Status
 ACCEPTED

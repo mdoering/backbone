@@ -1,5 +1,4 @@
-Teichospora amelanchieris (Earle) Sacc. & D. Sacc. SPECIES
-=======
+# Teichospora amelanchieris (Earle) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

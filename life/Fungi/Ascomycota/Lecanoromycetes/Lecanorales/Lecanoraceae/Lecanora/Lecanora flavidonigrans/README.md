@@ -1,5 +1,4 @@
-Lecanora flavidonigrans Müll. Arg. SPECIES
-=======
+# Lecanora flavidonigrans Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

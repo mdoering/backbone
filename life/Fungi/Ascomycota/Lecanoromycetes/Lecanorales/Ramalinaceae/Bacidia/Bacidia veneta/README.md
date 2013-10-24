@@ -1,5 +1,4 @@
-Bacidia veneta S. Ekman SPECIES
-=======
+# Bacidia veneta S. Ekman SPECIES
 
 #### Status
 ACCEPTED

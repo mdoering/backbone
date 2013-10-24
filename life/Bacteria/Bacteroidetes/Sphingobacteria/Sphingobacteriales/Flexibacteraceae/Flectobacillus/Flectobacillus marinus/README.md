@@ -1,5 +1,4 @@
-Flectobacillus marinus (Raj, 1976) Borrall & Larkin, 1978 SPECIES
-=======
+# Flectobacillus marinus (Raj, 1976) Borrall & Larkin, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea gyrosa Spreng. SPECIES
-=======
+# Lecidea gyrosa Spreng. SPECIES
 
 #### Status
 ACCEPTED

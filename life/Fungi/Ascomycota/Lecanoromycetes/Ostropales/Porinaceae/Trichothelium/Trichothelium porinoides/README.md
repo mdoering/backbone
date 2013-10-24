@@ -1,5 +1,4 @@
-Trichothelium porinoides Vezda SPECIES
-=======
+# Trichothelium porinoides Vezda SPECIES
 
 #### Status
 ACCEPTED

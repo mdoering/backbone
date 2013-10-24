@@ -1,5 +1,4 @@
-Meliola olacicola Hosag. SPECIES
-=======
+# Meliola olacicola Hosag. SPECIES
 
 #### Status
 ACCEPTED

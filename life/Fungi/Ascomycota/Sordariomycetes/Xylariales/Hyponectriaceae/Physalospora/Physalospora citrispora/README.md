@@ -1,5 +1,4 @@
-Physalospora citrispora (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Physalospora citrispora (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

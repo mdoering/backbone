@@ -1,5 +1,4 @@
-Diacanthocapsa Squinabol, 1903 GENUS
-=======
+# Diacanthocapsa Squinabol, 1903 GENUS
 
 #### Status
 ACCEPTED

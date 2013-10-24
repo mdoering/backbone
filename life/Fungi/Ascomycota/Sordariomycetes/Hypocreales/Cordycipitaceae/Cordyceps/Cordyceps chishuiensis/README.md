@@ -1,5 +1,4 @@
-Cordyceps chishuiensis Z.Q. Liang & A.Y. Liu SPECIES
-=======
+# Cordyceps chishuiensis Z.Q. Liang & A.Y. Liu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gerronema subumbratile (Singer) Raithelh. SPECIES
-=======
+# Gerronema subumbratile (Singer) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

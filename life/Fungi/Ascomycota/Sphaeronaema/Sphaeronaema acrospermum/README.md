@@ -1,5 +1,4 @@
-Sphaeronaema acrospermum (Tode) Fr. SPECIES
-=======
+# Sphaeronaema acrospermum (Tode) Fr. SPECIES
 
 #### Status
 ACCEPTED

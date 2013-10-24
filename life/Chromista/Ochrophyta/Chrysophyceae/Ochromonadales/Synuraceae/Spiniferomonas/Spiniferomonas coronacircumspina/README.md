@@ -1,5 +1,4 @@
-Spiniferomonas coronacircumspina (Wujek & Kristiansen) K.H. Nicholls SPECIES
-=======
+# Spiniferomonas coronacircumspina (Wujek & Kristiansen) K.H. Nicholls SPECIES
 
 #### Status
 ACCEPTED

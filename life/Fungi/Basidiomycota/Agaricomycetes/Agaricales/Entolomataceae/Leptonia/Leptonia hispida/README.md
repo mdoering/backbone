@@ -1,5 +1,4 @@
-Leptonia hispida Rick SPECIES
-=======
+# Leptonia hispida Rick SPECIES
 
 #### Status
 ACCEPTED

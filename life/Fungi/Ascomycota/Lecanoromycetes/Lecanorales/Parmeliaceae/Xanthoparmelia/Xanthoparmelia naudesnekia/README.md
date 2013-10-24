@@ -1,5 +1,4 @@
-Xanthoparmelia naudesnekia Hale SPECIES
-=======
+# Xanthoparmelia naudesnekia Hale SPECIES
 
 #### Status
 ACCEPTED

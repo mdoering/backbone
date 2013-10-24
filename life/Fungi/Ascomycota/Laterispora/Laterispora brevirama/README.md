@@ -1,5 +1,4 @@
-Laterispora brevirama Uecker, W.A. Ayers & P.B. Adams, 1982 SPECIES
-=======
+# Laterispora brevirama Uecker, W.A. Ayers & P.B. Adams, 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudourostyla Borror, 1972 GENUS
-=======
+# Pseudourostyla Borror, 1972 GENUS
 
 #### Status
 ACCEPTED

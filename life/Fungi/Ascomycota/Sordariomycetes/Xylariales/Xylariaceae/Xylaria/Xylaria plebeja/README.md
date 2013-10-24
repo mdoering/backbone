@@ -1,5 +1,4 @@
-Xylaria plebeja Ces. SPECIES
-=======
+# Xylaria plebeja Ces. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe bipindiensis Henn. SPECIES
-=======
+# Hygrocybe bipindiensis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sistotrema populicola Ginns, 1988 SPECIES
-=======
+# Sistotrema populicola Ginns, 1988 SPECIES
 
 #### Status
 ACCEPTED

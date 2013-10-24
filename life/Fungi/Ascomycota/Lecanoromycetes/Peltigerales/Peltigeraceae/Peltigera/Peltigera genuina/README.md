@@ -1,5 +1,4 @@
-Peltigera genuina f. genuina FORM
-=======
+# Peltigera genuina Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peltigera genuina f. genuina
+Peltigera genuina Gyeln.
 
 ### Remarks
 null

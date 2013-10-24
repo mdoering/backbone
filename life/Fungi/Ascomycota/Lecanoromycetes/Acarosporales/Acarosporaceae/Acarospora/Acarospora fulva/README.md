@@ -1,5 +1,4 @@
-Acarospora fulva N.S. Golubk. SPECIES
-=======
+# Acarospora fulva N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

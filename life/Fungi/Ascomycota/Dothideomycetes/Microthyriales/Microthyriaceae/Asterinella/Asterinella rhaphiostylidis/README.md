@@ -1,5 +1,4 @@
-Asterinella rhaphiostylidis S. Hughes SPECIES
-=======
+# Asterinella rhaphiostylidis S. Hughes SPECIES
 
 #### Status
 ACCEPTED

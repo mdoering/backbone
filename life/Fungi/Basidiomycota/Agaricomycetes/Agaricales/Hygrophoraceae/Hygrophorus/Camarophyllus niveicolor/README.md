@@ -1,5 +1,4 @@
-Camarophyllus niveicolor (Murrill) Singer SPECIES
-=======
+# Camarophyllus niveicolor (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

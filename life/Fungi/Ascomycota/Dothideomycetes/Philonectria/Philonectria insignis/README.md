@@ -1,5 +1,4 @@
-Philonectria insignis (Petr. & Cif.) Arx SPECIES
-=======
+# Philonectria insignis (Petr. & Cif.) Arx SPECIES
 
 #### Status
 ACCEPTED

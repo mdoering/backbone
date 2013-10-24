@@ -1,5 +1,4 @@
-Bipolaris chloridis (Alcorn) Alcorn SPECIES
-=======
+# Bipolaris chloridis (Alcorn) Alcorn SPECIES
 
 #### Status
 ACCEPTED

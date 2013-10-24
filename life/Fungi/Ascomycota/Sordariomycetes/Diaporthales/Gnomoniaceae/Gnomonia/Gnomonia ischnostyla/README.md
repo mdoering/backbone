@@ -1,17 +1,16 @@
-Ophiognomonia ischnostyla (Desm.) Sogonov, 2008 SPECIES
-=======
+# Gnomonia ischnostyla (Desm.) Fuckel, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Jb. nassau. Ver. Naturk. 23-24: (1870)
 
 #### Original name
-null
+Sphaeria ischnostyla Desm., 1849
 
 ### Remarks
 null

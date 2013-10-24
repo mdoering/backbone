@@ -1,5 +1,4 @@
-Didymium simulans Howe SPECIES
-=======
+# Didymium simulans Howe SPECIES
 
 #### Status
 ACCEPTED

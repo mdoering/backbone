@@ -1,5 +1,4 @@
-Valsa euryala Mont. SPECIES
-=======
+# Valsa euryala Mont. SPECIES
 
 #### Status
 ACCEPTED

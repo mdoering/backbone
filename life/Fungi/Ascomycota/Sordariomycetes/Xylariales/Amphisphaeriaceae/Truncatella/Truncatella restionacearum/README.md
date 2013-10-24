@@ -1,5 +1,4 @@
-Truncatella restionacearum S.J. Lee & Crous SPECIES
-=======
+# Truncatella restionacearum S.J. Lee & Crous SPECIES
 
 #### Status
 ACCEPTED

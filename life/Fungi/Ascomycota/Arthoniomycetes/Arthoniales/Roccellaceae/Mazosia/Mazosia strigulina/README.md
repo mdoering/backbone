@@ -1,5 +1,4 @@
-Mazosia strigulina (Nyl.) Zahlbr. SPECIES
-=======
+# Mazosia strigulina (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

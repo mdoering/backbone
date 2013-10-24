@@ -1,5 +1,4 @@
-Passalora pteridis (Siemaszko) U. Braun & Crous SPECIES
-=======
+# Passalora pteridis (Siemaszko) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

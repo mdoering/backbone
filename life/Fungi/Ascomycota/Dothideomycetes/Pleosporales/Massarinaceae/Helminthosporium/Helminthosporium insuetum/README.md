@@ -1,5 +1,4 @@
-Helminthosporium insuetum Petr. SPECIES
-=======
+# Helminthosporium insuetum Petr. SPECIES
 
 #### Status
 ACCEPTED

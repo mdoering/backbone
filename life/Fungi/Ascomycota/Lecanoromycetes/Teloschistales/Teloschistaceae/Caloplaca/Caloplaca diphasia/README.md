@@ -1,5 +1,4 @@
-Caloplaca diphasia (Tuck.) Wetmore SPECIES
-=======
+# Caloplaca diphasia (Tuck.) Wetmore SPECIES
 
 #### Status
 ACCEPTED

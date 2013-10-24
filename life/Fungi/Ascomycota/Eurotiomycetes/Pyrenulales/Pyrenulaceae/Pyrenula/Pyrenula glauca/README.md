@@ -1,5 +1,4 @@
-Pyrenula glauca (Fée) Müll. Arg. SPECIES
-=======
+# Pyrenula glauca (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calyptella griseoviolacea (Pilát) W.B. Cooke SPECIES
-=======
+# Calyptella griseoviolacea (Pilát) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

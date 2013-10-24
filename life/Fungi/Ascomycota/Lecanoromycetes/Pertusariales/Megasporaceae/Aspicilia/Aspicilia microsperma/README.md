@@ -1,5 +1,4 @@
-Aspicilia microsperma SPECIES
-=======
+# Aspicilia microsperma SPECIES
 
 #### Status
 ACCEPTED

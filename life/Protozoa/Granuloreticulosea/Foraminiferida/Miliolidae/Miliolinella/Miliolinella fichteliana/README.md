@@ -1,5 +1,4 @@
-Miliolinella fichteliana SPECIES
-=======
+# Miliolinella fichteliana SPECIES
 
 #### Status
 ACCEPTED

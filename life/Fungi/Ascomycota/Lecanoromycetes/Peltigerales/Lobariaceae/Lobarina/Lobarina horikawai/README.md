@@ -1,5 +1,4 @@
-Lobarina horikawai Inumaru SPECIES
-=======
+# Lobarina horikawai Inumaru SPECIES
 
 #### Status
 ACCEPTED

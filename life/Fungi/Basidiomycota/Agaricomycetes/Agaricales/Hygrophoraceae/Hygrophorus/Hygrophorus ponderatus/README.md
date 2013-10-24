@@ -1,5 +1,4 @@
-Hygrophorus ponderatus Britzelm. SPECIES
-=======
+# Hygrophorus ponderatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

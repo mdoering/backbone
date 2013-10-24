@@ -1,5 +1,4 @@
-Ascodinium Cookson & Eisenack GENUS
-=======
+# Ascodinium Cookson & Eisenack GENUS
 
 #### Status
 ACCEPTED

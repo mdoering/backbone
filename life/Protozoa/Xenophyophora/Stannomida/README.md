@@ -1,5 +1,4 @@
-Stannomida CLASS
-=======
+# Stannomida CLASS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Prospodium tirumalensis Bagyan., Ravinder & P. Ramesh SPECIES
-=======
+# Prospodium tirumalense Bagyan., Ravinder & P. Ramesh, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 69: 473 (1998)
 
 #### Original name
-Prospodium tirumalensis Bagyan., Ravinder & P. Ramesh
+Prospodium tirumalense Bagyan., Ravinder & P. Ramesh, 1998
 
 ### Remarks
 null

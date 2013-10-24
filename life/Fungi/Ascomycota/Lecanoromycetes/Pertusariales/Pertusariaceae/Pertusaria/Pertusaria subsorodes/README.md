@@ -1,5 +1,4 @@
-Pertusaria subsorodes Elix & A.W. Archer SPECIES
-=======
+# Pertusaria subsorodes Elix & A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

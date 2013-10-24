@@ -1,5 +1,4 @@
-Sabulina Frieg & Price, 1982 GENUS
-=======
+# Sabulina Frieg & Price, 1982 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilosphaeria arceuthobi (Peck) Cooke SPECIES
-=======
+# Psilosphaeria arceuthobi (Peck) Cooke SPECIES
 
 #### Status
 ACCEPTED

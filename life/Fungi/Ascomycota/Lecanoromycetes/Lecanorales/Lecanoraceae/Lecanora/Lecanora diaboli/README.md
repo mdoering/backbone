@@ -1,5 +1,4 @@
-Lecanora diaboli Frey & Poelt SPECIES
-=======
+# Lecanora diaboli Frey & Poelt SPECIES
 
 #### Status
 ACCEPTED

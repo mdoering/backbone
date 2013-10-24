@@ -1,5 +1,4 @@
-Puccinia peridermiospora (Ellis & Tracy) Arthur SPECIES
-=======
+# Puccinia peridermiospora (Ellis & Tracy) Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oxydothis angustispora J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Oxydothis angustispora J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

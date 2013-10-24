@@ -1,5 +1,4 @@
-Monozonitis Haeckel, 1887 GENUS
-=======
+# Monozonitis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

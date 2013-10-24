@@ -1,5 +1,4 @@
-Pucciniola maculans (Pat.) Arthur SPECIES
-=======
+# Pucciniola maculans (Pat.) Arthur SPECIES
 
 #### Status
 ACCEPTED

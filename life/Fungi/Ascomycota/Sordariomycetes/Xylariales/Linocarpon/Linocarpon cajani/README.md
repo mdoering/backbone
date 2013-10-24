@@ -1,5 +1,4 @@
-Linocarpon cajani Deighton SPECIES
-=======
+# Linocarpon cajani Deighton SPECIES
 
 #### Status
 ACCEPTED

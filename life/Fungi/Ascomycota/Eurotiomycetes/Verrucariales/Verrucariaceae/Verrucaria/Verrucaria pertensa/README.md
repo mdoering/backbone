@@ -1,5 +1,4 @@
-Verrucaria pertensa Stirt. SPECIES
-=======
+# Verrucaria pertensa Stirt. SPECIES
 
 #### Status
 ACCEPTED

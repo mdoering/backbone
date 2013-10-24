@@ -1,5 +1,4 @@
-Gautieria tasmanica G. Cunn. SPECIES
-=======
+# Gautieria tasmanica G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euhelvella S. Imai, 1932 GENUS
-=======
+# Euhelvella S. Imai, 1932 GENUS
 
 #### Status
 ACCEPTED

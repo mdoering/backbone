@@ -1,5 +1,4 @@
-Crepidotus tiliophilus Peck SPECIES
-=======
+# Crepidotus tiliophilus Peck SPECIES
 
 #### Status
 ACCEPTED

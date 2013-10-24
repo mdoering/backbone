@@ -1,5 +1,4 @@
-Cercospora copallina Cooke SPECIES
-=======
+# Cercospora copallina Cooke SPECIES
 
 #### Status
 ACCEPTED

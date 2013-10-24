@@ -1,5 +1,4 @@
-Didymosphaeria analeptoides (Bagl. & Carestia) Rehm SPECIES
-=======
+# Didymosphaeria analeptoides (Bagl. & Carestia) Rehm SPECIES
 
 #### Status
 ACCEPTED

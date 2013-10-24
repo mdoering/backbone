@@ -1,5 +1,4 @@
-Fusarium aleurinum Ellis & Everh. SPECIES
-=======
+# Fusarium aleurinum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

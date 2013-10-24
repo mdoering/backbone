@@ -1,5 +1,4 @@
-Coelosphaeria calyculus (Mont.) Sacc. SPECIES
-=======
+# Coelosphaeria calyculus (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

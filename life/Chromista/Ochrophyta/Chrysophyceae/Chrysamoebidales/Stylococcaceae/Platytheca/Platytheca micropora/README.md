@@ -1,5 +1,4 @@
-Platytheca micropora F.Stein SPECIES
-=======
+# Platytheca micropora F.Stein SPECIES
 
 #### Status
 ACCEPTED

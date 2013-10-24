@@ -1,5 +1,4 @@
-Cercospora myriactidis Sawada SPECIES
-=======
+# Cercospora myriactidis Sawada SPECIES
 
 #### Status
 ACCEPTED

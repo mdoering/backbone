@@ -1,5 +1,4 @@
-Actinomadura fulvescens Terekhova et al., 1987 SPECIES
-=======
+# Actinomadura fulvescens Terekhova et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

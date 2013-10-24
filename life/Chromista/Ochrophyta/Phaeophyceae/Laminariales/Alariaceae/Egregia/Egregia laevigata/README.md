@@ -1,5 +1,4 @@
-Egregia laevigata Setchell SPECIES
-=======
+# Egregia laevigata Setchell SPECIES
 
 #### Status
 ACCEPTED

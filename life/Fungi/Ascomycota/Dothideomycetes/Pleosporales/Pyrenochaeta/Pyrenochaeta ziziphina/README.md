@@ -1,8 +1,7 @@
-Pyrenochaeta zizyphina S. Ahmad SPECIES
-=======
+# Pyrenochaeta ziziphina S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pyrenochaeta zizyphina S. Ahmad
+Pyrenochaeta ziziphina S. Ahmad
 
 ### Remarks
 null

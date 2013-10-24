@@ -1,5 +1,4 @@
-Chroococcus planctonicus Bethge SPECIES
-=======
+# Chroococcus planctonicus Bethge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zoothamnium perlatum Stiller, 1946 SPECIES
-=======
+# Zoothamnium perlatum Stiller, 1946 SPECIES
 
 #### Status
 ACCEPTED

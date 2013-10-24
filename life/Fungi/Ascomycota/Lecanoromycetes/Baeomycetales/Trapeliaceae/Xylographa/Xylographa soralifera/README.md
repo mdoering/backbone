@@ -1,5 +1,4 @@
-Xylographa soralifera Holien & Tønsberg SPECIES
-=======
+# Xylographa soralifera Holien & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

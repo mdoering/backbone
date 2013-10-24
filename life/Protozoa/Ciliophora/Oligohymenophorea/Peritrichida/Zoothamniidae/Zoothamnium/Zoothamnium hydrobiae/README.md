@@ -1,5 +1,4 @@
-Zoothamnium hydrobiae Hofker, 1930 SPECIES
-=======
+# Zoothamnium hydrobiae Hofker, 1930 SPECIES
 
 #### Status
 ACCEPTED

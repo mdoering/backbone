@@ -1,5 +1,4 @@
-Myxosporium rhamni Allesch. SPECIES
-=======
+# Myxosporium rhamni Allesch. SPECIES
 
 #### Status
 ACCEPTED

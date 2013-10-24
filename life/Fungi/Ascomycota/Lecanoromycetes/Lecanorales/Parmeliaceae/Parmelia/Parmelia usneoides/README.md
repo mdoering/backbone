@@ -1,5 +1,4 @@
-Parmelia usneoides Ach. SPECIES
-=======
+# Parmelia usneoides Ach. SPECIES
 
 #### Status
 ACCEPTED

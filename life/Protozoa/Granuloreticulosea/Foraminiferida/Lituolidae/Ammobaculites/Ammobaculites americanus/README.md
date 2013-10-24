@@ -1,5 +1,4 @@
-Ammobaculites americanus SPECIES
-=======
+# Ammobaculites americanus SPECIES
 
 #### Status
 ACCEPTED

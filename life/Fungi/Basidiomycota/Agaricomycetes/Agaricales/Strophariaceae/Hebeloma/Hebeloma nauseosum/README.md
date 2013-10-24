@@ -1,5 +1,4 @@
-Hebeloma nauseosum (Cooke) Sacc. SPECIES
-=======
+# Hebeloma nauseosum (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

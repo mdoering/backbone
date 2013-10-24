@@ -1,5 +1,4 @@
-Asterina banosensis Hansf. SPECIES
-=======
+# Asterina banosensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

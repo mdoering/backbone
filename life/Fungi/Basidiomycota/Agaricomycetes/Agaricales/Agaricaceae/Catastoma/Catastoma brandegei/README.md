@@ -1,5 +1,4 @@
-Catastoma brandegei Lloyd SPECIES
-=======
+# Catastoma brandegei Lloyd SPECIES
 
 #### Status
 ACCEPTED

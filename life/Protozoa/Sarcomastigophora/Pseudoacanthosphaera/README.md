@@ -1,5 +1,4 @@
-Pseudoacanthosphaera O'Dogherty, 1994 GENUS
-=======
+# Pseudoacanthosphaera O'Dogherty, 1994 GENUS
 
 #### Status
 ACCEPTED

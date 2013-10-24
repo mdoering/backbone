@@ -1,5 +1,4 @@
-Neocapnodium GENUS
-=======
+# Neocapnodium GENUS
 
 #### Status
 ACCEPTED

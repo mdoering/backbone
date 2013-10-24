@@ -1,5 +1,4 @@
-Coprinopsis clastophylla (Maniotis) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis clastophylla (Maniotis) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Reophax adunca Brady, 1882 SPECIES
-=======
+# Subreophax aduncus (Brady, 1882) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Phomopsis metrosideri (H. Mori) Petr. SPECIES
-=======
+# Phomopsis metrosideri (H. Mori) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Engizostoma alsophilum (Durieu & Mont.) Kuntze, 1898 SPECIES
-=======
+# Eutypella alsophila (Durieu & Mont.) Berk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

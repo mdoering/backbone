@@ -1,5 +1,4 @@
-Parmeliella subcincinnata (Nyl.) Malme SPECIES
-=======
+# Parmeliella subcincinnata (Nyl.) Malme SPECIES
 
 #### Status
 ACCEPTED

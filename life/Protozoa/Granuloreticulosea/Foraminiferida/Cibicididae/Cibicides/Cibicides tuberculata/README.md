@@ -1,5 +1,4 @@
-Cibicides tuberculata Natland, 1938 SPECIES
-=======
+# Cibicides tuberculata Natland, 1938 SPECIES
 
 #### Status
 ACCEPTED

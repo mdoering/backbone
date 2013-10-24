@@ -1,5 +1,4 @@
-Gymnopilus rigidus (Peck) Murrill SPECIES
-=======
+# Gymnopilus rigidus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

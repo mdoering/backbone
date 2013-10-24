@@ -1,5 +1,4 @@
-Porina hoehneliana (Jaap) R. Sant. SPECIES
-=======
+# Porina hoehneliana (Jaap) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

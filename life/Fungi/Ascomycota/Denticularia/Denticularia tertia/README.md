@@ -1,5 +1,4 @@
-Denticularia tertia (Chupp & H.C. Greene) Deighton SPECIES
-=======
+# Denticularia tertia (Chupp & H.C. Greene) Deighton SPECIES
 
 #### Status
 ACCEPTED

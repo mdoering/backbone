@@ -1,5 +1,4 @@
-Stegia subvelata var. subvelata VARIETY
-=======
+# Stegia subvelata Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stegia subvelata var. subvelata
+Stegia subvelata Rehm
 
 ### Remarks
 null

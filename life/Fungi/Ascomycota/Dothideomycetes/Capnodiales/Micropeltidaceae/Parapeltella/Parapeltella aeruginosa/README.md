@@ -1,5 +1,4 @@
-Parapeltella aeruginosa (G. Winter) Bat. SPECIES
-=======
+# Parapeltella aeruginosa (G. Winter) Bat. SPECIES
 
 #### Status
 ACCEPTED

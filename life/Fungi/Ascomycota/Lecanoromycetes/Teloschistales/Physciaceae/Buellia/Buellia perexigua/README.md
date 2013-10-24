@@ -1,5 +1,4 @@
-Buellia perexigua Müll. Arg. SPECIES
-=======
+# Buellia perexigua Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

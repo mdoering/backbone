@@ -1,5 +1,4 @@
-Malmidea GENUS
-=======
+# Malmidea GENUS
 
 #### Status
 ACCEPTED

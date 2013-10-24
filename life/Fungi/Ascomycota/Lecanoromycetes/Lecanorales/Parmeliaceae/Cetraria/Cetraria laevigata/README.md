@@ -1,5 +1,4 @@
-Cetraria laevigata Rass. SPECIES
-=======
+# Cetraria laevigata Rass. SPECIES
 
 #### Status
 ACCEPTED

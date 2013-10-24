@@ -1,17 +1,16 @@
-Bacidia friesiana var. friesiana (Hepp) Körb. VARIETY
-=======
+# Bacidia friesiana (Hepp) Körb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Parerga lichenol. (Breslau) 133 (1860)
 
 #### Original name
-Bacidia friesiana var. friesiana (Hepp) Körb.
+Biatora friesiana Hepp
 
 ### Remarks
 null

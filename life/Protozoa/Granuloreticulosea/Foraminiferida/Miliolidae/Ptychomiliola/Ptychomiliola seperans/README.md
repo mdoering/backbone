@@ -1,5 +1,4 @@
-Ptychomiliola seperans (Brady) SPECIES
-=======
+# Ptychomiliola seperans (Brady) SPECIES
 
 #### Status
 ACCEPTED

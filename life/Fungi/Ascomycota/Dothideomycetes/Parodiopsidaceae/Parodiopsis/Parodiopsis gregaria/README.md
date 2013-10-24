@@ -1,5 +1,4 @@
-Parodiopsis gregaria I. Hino & Katum. SPECIES
-=======
+# Parodiopsis gregaria I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

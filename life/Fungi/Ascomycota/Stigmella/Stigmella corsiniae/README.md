@@ -1,5 +1,4 @@
-Stigmella corsiniae Gonz. Frag. SPECIES
-=======
+# Stigmella corsiniae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

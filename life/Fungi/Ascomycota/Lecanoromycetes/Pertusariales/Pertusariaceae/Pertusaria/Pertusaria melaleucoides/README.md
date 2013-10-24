@@ -1,17 +1,16 @@
-Pertusaria atropunctata A. W. Archer SPECIES
-=======
+# Pertusaria melaleucoides Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 41(1): 224 (1991)
+Flora, Jena 67: 284 (1884)
 
 #### Original name
-Pertusaria atropunctata A. W. Archer
+Pertusaria melaleucoides Müll. Arg.
 
 ### Remarks
 null

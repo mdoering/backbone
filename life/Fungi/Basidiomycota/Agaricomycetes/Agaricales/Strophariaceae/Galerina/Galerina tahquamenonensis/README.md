@@ -1,5 +1,4 @@
-Galerina tahquamenonensis A.H. Sm. SPECIES
-=======
+# Galerina tahquamenonensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

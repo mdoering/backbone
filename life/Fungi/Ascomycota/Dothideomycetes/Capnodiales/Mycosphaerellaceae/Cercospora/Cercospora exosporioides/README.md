@@ -1,5 +1,4 @@
-Cercospora exosporioides Bubák, 1915 SPECIES
-=======
+# Cercospora exosporioides Bubák, 1915 SPECIES
 
 #### Status
 ACCEPTED

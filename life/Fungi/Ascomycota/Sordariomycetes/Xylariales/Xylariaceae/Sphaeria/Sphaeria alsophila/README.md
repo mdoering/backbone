@@ -1,5 +1,4 @@
-Sphaeria alsophila Mont. SPECIES
-=======
+# Sphaeria alsophila Mont. SPECIES
 
 #### Status
 ACCEPTED

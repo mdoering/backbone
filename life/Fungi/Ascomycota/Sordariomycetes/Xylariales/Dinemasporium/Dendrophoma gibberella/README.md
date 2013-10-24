@@ -1,5 +1,4 @@
-Dendrophoma gibberella Speg. SPECIES
-=======
+# Dendrophoma gibberella Speg. SPECIES
 
 #### Status
 ACCEPTED

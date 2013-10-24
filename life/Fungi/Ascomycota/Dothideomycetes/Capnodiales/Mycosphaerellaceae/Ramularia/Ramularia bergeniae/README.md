@@ -1,5 +1,4 @@
-Ramularia bergeniae Vasyag. SPECIES
-=======
+# Ramularia bergeniae Vasyag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Preussia lasiocarpa (Lorenzo) Guarro & Gené SPECIES
-=======
+# Preussia lasiocarpa (Lorenzo) Guarro & Gené SPECIES
 
 #### Status
 ACCEPTED

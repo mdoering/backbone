@@ -1,5 +1,4 @@
-Helosphaeridium paxillum Vecoli, 1999 SPECIES
-=======
+# Helosphaeridium paxillum Vecoli, 1999 SPECIES
 
 #### Status
 ACCEPTED

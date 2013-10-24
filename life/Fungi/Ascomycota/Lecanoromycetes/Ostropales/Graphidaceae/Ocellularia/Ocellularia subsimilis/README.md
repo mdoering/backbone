@@ -1,14 +1,13 @@
-Thelotrema subsimile Hale SPECIES
-=======
+# Ocellularia subsimilis (Hale) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytologia 27: 497 (1974)
+Mycotaxon 11(1): 138 (1980)
 
 #### Original name
 Thelotrema subsimile Hale

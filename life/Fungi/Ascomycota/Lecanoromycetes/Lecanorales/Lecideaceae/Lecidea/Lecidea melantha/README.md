@@ -1,5 +1,4 @@
-Lecidea melantha (Nyl.) Hue SPECIES
-=======
+# Lecidea melantha (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

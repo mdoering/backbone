@@ -1,5 +1,4 @@
-Finkia portoricensis Vain. SPECIES
-=======
+# Finkia portoricensis Vain. SPECIES
 
 #### Status
 ACCEPTED

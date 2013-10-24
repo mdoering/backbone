@@ -1,5 +1,4 @@
-Agaricus subgracilis Batsch SPECIES
-=======
+# Agaricus subgracilis Batsch SPECIES
 
 #### Status
 ACCEPTED

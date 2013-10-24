@@ -1,5 +1,4 @@
-Stilbocrea dussii Pat., 1900 SPECIES
-=======
+# Stilbocrea dussii Pat., 1900 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Illosporium annulare (Berk. & Broome) Petch SPECIES
-=======
+# Illosporium annulare (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

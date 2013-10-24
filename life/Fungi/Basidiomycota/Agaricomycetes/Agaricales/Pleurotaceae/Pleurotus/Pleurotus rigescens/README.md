@@ -1,5 +1,4 @@
-Pleurotus rigescens (Berk. & Broome) Sacc. SPECIES
-=======
+# Pleurotus rigescens (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

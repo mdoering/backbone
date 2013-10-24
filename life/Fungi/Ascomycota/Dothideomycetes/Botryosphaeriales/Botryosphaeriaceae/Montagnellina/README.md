@@ -1,5 +1,4 @@
-Montagnellina GENUS
-=======
+# Montagnellina GENUS
 
 #### Status
 ACCEPTED

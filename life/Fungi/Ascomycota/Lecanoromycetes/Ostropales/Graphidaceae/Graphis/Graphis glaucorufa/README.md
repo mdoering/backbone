@@ -1,5 +1,4 @@
-Graphis glaucorufa Vain. SPECIES
-=======
+# Graphis glaucorufa Vain. SPECIES
 
 #### Status
 ACCEPTED

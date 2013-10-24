@@ -1,5 +1,4 @@
-Chaetoamphisphaeria japonica Hara, 1918 SPECIES
-=======
+# Chaetoamphisphaeria japonica Hara, 1918 SPECIES
 
 #### Status
 ACCEPTED

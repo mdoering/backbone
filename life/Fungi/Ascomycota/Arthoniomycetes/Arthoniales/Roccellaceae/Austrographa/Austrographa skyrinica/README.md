@@ -1,5 +1,4 @@
-Austrographa skyrinica Sparrius, Elix & A. W. Archer SPECIES
-=======
+# Austrographa skyrinica Sparrius, Elix & A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

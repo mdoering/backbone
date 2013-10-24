@@ -1,5 +1,4 @@
-Collybia bibulosa Massee SPECIES
-=======
+# Collybia bibulosa Massee SPECIES
 
 #### Status
 ACCEPTED

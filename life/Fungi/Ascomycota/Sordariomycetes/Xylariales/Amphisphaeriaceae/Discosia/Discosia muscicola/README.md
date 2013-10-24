@@ -1,5 +1,4 @@
-Discosia muscicola (Nicot-Toul.) M. Morelet SPECIES
-=======
+# Discosia muscicola (Nicot-Toul.) M. Morelet SPECIES
 
 #### Status
 ACCEPTED

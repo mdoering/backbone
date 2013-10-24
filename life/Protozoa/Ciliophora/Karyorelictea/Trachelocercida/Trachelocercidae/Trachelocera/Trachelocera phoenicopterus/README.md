@@ -1,5 +1,4 @@
-Trachelocera phoenicopterus SPECIES
-=======
+# Trachelocera phoenicopterus SPECIES
 
 #### Status
 ACCEPTED

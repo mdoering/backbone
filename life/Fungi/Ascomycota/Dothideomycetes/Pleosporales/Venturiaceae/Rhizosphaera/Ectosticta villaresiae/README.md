@@ -1,5 +1,4 @@
-Ectosticta villaresiae Speg. SPECIES
-=======
+# Ectosticta villaresiae Speg. SPECIES
 
 #### Status
 ACCEPTED

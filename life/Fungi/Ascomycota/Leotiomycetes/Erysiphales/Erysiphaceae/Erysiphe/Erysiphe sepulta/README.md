@@ -1,5 +1,4 @@
-Erysiphe sepulta Ellis & Everh. SPECIES
-=======
+# Erysiphe sepulta Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

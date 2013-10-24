@@ -1,5 +1,4 @@
-Dendromyces stevenii Libosch. SPECIES
-=======
+# Dendromyces stevenii Libosch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rickenella minuta (Singer & Digilio) Raithelh. SPECIES
-=======
+# Rickenella minuta (Singer & Digilio) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

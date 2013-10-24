@@ -1,5 +1,4 @@
-Stanieria Komárek & Anagnostidis, 1986 GENUS
-=======
+# Stanieria Komárek & Anagnostidis, 1986 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Barklayella primaria (Ellis & Everh.) Sacc. SPECIES
-=======
+# Barklayella primaria (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

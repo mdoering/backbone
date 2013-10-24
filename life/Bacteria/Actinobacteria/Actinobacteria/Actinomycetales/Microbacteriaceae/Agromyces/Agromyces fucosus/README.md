@@ -1,5 +1,4 @@
-Agromyces fucosus subsp. fucosus Zgurskaya et al., 1992 SUBSPECIES
-=======
+# Agromyces fucosus Zgurskaya et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

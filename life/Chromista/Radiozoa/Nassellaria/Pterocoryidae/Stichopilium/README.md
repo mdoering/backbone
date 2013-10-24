@@ -1,5 +1,4 @@
-Stichopilium Haeckel, 1881 GENUS
-=======
+# Stichopilium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

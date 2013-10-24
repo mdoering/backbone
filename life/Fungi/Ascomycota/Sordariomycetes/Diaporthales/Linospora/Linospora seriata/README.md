@@ -1,5 +1,4 @@
-Linospora seriata (Syd. & P. Syd.) Rehm SPECIES
-=======
+# Linospora seriata (Syd. & P. Syd.) Rehm SPECIES
 
 #### Status
 ACCEPTED

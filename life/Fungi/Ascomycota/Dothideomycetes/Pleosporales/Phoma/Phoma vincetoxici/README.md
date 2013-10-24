@@ -1,5 +1,4 @@
-Phoma vincetoxici Westend. SPECIES
-=======
+# Phoma vincetoxici Westend. SPECIES
 
 #### Status
 ACCEPTED

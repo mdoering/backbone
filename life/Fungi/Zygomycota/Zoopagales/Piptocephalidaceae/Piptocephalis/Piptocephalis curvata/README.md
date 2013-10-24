@@ -1,5 +1,4 @@
-Piptocephalis curvata Baijal & B.S. Mehrotra, 1968 SPECIES
-=======
+# Piptocephalis curvata Baijal & B.S. Mehrotra, 1968 SPECIES
 
 #### Status
 ACCEPTED

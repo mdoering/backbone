@@ -1,5 +1,4 @@
-Piricauda fusus (Berk. & M.A. Curtis) R.T. Moore SPECIES
-=======
+# Piricauda fusus (Berk. & M.A. Curtis) R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

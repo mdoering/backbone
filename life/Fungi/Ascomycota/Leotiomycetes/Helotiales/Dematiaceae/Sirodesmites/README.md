@@ -1,5 +1,4 @@
-Sirodesmites Pia GENUS
-=======
+# Sirodesmites Pia GENUS
 
 #### Status
 ACCEPTED

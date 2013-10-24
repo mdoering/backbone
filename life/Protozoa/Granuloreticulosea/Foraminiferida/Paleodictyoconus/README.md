@@ -1,5 +1,4 @@
-Paleodictyoconus Moullade, 1965 GENUS
-=======
+# Paleodictyoconus Moullade, 1965 GENUS
 
 #### Status
 ACCEPTED

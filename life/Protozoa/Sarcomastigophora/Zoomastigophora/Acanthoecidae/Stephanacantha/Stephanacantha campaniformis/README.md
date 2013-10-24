@@ -1,8 +1,7 @@
-Parvicorbicula campaniformis Leadbeater, 1973 SPECIES
-=======
+# Stephanacantha campaniformis (Leadbeater, 1973) Thomsen in Thomsen & Boonruang, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

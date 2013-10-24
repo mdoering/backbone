@@ -1,5 +1,4 @@
-Pseudarcella Spandel, 1909 GENUS
-=======
+# Pseudarcella Spandel, 1909 GENUS
 
 #### Status
 ACCEPTED

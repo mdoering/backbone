@@ -1,5 +1,4 @@
-Phyllachora myrsinicola Doidge, 1922 SPECIES
-=======
+# Phyllachora myrsinicola Doidge, 1922 SPECIES
 
 #### Status
 DOUBTFUL

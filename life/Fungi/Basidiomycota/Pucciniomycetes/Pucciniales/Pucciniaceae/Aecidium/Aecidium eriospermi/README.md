@@ -1,5 +1,4 @@
-Aecidium eriospermi Henn. SPECIES
-=======
+# Aecidium eriospermi Henn. SPECIES
 
 #### Status
 ACCEPTED

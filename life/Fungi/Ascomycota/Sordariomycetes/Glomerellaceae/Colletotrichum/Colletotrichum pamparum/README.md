@@ -1,5 +1,4 @@
-Colletotrichum pamparum Speg. SPECIES
-=======
+# Colletotrichum pamparum Speg. SPECIES
 
 #### Status
 ACCEPTED

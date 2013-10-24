@@ -1,5 +1,4 @@
-Leptotus GENUS
-=======
+# Leptotus GENUS
 
 #### Status
 ACCEPTED

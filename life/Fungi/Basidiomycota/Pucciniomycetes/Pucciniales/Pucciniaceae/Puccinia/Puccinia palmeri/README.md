@@ -1,5 +1,4 @@
-Puccinia palmeri Dietel & Holw. SPECIES
-=======
+# Puccinia palmeri Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

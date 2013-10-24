@@ -1,5 +1,4 @@
-Heppia spectabilis Zahlbr. SPECIES
-=======
+# Heppia spectabilis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

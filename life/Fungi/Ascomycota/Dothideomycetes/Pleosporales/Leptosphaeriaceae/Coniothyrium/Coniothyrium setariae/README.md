@@ -1,5 +1,4 @@
-Coniothyrium setariae G.F. Atk. SPECIES
-=======
+# Coniothyrium setariae G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

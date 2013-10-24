@@ -1,5 +1,4 @@
-Cantharellus deliciosus (F. Brig.) Sacc. SPECIES
-=======
+# Cantharellus deliciosus (F. Brig.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora exsulans f. exsulans FORM
-=======
+# Lecanora exsulans (Th. Fr.) C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora exsulans f. exsulans
+Lecanora chrysoleuca f. exsulans Th. Fr.
 
 ### Remarks
 null

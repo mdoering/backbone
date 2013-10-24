@@ -1,5 +1,4 @@
-Anabaena birgei Hong SPECIES
-=======
+# Anabaena birgei Hong SPECIES
 
 #### Status
 ACCEPTED

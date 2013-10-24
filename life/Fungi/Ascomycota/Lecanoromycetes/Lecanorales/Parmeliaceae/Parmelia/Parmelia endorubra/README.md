@@ -1,5 +1,4 @@
-Parmelia endorubra f. imbricatiformis Gyeln. FORM
-=======
+# Parmelia endorubra Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia endorubra f. imbricatiformis Gyeln.
+Parmelia endorubra Gyeln.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phomopsis carludoviciae Novoss. SPECIES
-=======
+# Phomopsis carludoviciae Novoss. SPECIES
 
 #### Status
 ACCEPTED

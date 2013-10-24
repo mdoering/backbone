@@ -1,5 +1,4 @@
-Tumidophyton Vologdin GENUS
-=======
+# Tumidophyton Vologdin GENUS
 
 #### Status
 ACCEPTED

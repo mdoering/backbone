@@ -1,5 +1,4 @@
-Gregorella Lumbsch GENUS
-=======
+# Gregorella Lumbsch GENUS
 
 #### Status
 ACCEPTED

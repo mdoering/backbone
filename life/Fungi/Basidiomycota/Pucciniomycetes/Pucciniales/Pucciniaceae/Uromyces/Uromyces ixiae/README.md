@@ -1,5 +1,4 @@
-Uromyces ixiae (Lév.) G. Winter SPECIES
-=======
+# Uromyces ixiae (Lév.) G. Winter SPECIES
 
 #### Status
 ACCEPTED

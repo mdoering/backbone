@@ -1,5 +1,4 @@
-Lycoperdellon minutum R. Heim SPECIES
-=======
+# Lycoperdellon minutum R. Heim SPECIES
 
 #### Status
 ACCEPTED

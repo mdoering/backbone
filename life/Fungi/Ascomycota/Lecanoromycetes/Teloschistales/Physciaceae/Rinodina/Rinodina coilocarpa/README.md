@@ -1,5 +1,4 @@
-Rinodina coilocarpa (Nyl.) Zahlbr. SPECIES
-=======
+# Rinodina coilocarpa (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

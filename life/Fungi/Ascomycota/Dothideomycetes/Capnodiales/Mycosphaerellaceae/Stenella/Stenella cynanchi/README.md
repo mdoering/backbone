@@ -1,5 +1,4 @@
-Stenella cynanchi J.M. Yen, A.K. Kar & B.K. Das SPECIES
-=======
+# Stenella cynanchi J.M. Yen, A.K. Kar & B.K. Das SPECIES
 
 #### Status
 ACCEPTED

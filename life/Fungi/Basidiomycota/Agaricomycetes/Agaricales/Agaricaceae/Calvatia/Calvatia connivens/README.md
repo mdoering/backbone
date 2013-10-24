@@ -1,5 +1,4 @@
-Calvatia connivens M. Lange SPECIES
-=======
+# Calvatia connivens M. Lange SPECIES
 
 #### Status
 ACCEPTED

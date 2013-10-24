@@ -1,17 +1,16 @@
-Cortinarius viscibadia Murrill SPECIES
-=======
+# Cortinarius viscibadius Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 39(1): 132 (1947)
 
 #### Original name
-Cortinarius viscibadia Murrill
+Cortinarius viscibadius Murrill
 
 ### Remarks
 null

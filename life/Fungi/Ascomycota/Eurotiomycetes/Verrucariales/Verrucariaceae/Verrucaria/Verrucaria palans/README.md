@@ -1,5 +1,4 @@
-Verrucaria palans Nyl. SPECIES
-=======
+# Verrucaria palans Nyl. SPECIES
 
 #### Status
 ACCEPTED

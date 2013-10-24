@@ -1,5 +1,4 @@
-Pyrgo inornata (d'Orbigny, 1839) SPECIES
-=======
+# Pyrgo inornata (d'Orbigny, 1839) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia aucubae Westend. SPECIES
-=======
+# Diplodia aucubae Westend. SPECIES
 
 #### Status
 ACCEPTED

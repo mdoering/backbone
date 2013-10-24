@@ -1,5 +1,4 @@
-Lecania adplicata (Kremp.) Zahlbr. SPECIES
-=======
+# Lecania adplicata (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

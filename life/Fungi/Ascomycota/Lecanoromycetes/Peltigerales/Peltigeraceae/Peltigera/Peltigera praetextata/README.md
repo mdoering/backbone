@@ -1,17 +1,16 @@
-Peltigera praetextata subsp. praetextata SUBSPECIES
-=======
+# Peltigera praetextata (Flörke ex Sommerf.) Zopf SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Term. Füz. 22: 306 (1899)
 
 #### Original name
-null
+Peltidea ulorrhiza var. praetextata Sommerf.
 
 ### Remarks
 null

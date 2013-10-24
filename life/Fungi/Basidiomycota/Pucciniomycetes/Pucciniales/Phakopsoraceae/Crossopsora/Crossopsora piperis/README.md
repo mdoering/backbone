@@ -1,5 +1,4 @@
-Crossopsora piperis Berndt, F.O. Freire & C.N. Bastos, 2002 SPECIES
-=======
+# Crossopsora piperis Berndt, F.O. Freire & C.N. Bastos, 2002 SPECIES
 
 #### Status
 ACCEPTED

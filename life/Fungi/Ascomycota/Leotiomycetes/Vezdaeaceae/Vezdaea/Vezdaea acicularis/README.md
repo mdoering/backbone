@@ -1,5 +1,4 @@
-Vezdaea acicularis Coppins SPECIES
-=======
+# Vezdaea acicularis Coppins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Illosporium puniceum Lib. SPECIES
-=======
+# Illosporium puniceum Lib. SPECIES
 
 #### Status
 ACCEPTED

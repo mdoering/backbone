@@ -1,5 +1,4 @@
-Plicaria hyalinoalba (Speg.) Vacek SPECIES
-=======
+# Plicaria hyalinoalba (Speg.) Vacek SPECIES
 
 #### Status
 ACCEPTED

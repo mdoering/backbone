@@ -1,5 +1,4 @@
-Diaporthe centrophylli Speg. SPECIES
-=======
+# Diaporthe centrophylli Speg. SPECIES
 
 #### Status
 ACCEPTED

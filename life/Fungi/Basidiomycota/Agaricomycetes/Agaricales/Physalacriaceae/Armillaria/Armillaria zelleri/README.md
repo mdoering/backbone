@@ -1,5 +1,4 @@
-Armillaria zelleri D.E. Stuntz & A.H. Sm. SPECIES
-=======
+# Armillaria zelleri D.E. Stuntz & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

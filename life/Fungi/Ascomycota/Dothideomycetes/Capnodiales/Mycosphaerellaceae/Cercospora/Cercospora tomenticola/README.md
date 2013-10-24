@@ -1,5 +1,4 @@
-Cercospora tomenticola (Thüm.) Sacc. SPECIES
-=======
+# Cercospora tomenticola (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

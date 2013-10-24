@@ -1,5 +1,4 @@
-Entoloma lactarioides Noordel. & Liiv SPECIES
-=======
+# Entoloma lactarioides Noordel. & Liiv SPECIES
 
 #### Status
 ACCEPTED

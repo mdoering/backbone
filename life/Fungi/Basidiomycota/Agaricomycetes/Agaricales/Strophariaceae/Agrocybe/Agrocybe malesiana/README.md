@@ -1,5 +1,4 @@
-Agrocybe malesiana Watling SPECIES
-=======
+# Agrocybe malesiana Watling SPECIES
 
 #### Status
 ACCEPTED

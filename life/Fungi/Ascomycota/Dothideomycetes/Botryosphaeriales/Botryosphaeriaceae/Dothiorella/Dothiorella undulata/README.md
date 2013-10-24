@@ -1,5 +1,4 @@
-Dothiorella undulata (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Dothiorella undulata (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

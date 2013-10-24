@@ -1,5 +1,4 @@
-Hendersonia cerei Peck SPECIES
-=======
+# Hendersonia cerei Peck SPECIES
 
 #### Status
 ACCEPTED

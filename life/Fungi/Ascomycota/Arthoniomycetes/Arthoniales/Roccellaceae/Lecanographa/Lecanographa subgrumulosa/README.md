@@ -1,5 +1,4 @@
-Lecanographa subgrumulosa (Egea, Torrente & Manrique) Egea & Torrente SPECIES
-=======
+# Lecanographa subgrumulosa (Egea, Torrente & Manrique) Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

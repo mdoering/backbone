@@ -1,14 +1,13 @@
-Hypoxylon necatrix (Berl. ex Prill.) P.M.D. Martin, 1976 SPECIES
-=======
+# Rosellinia necatrix Berl. ex Prill., 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jl S. Afr. Bot. 34: 187 (1968)
+Bull. Soc. mycol. Fr. 20: 34 (1904)
 
 #### Original name
 Rosellinia necatrix Berl. ex Prill., 1904

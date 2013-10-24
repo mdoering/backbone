@@ -1,17 +1,16 @@
-Ustilago barberi Mundk., 1939 SPECIES
-=======
+# Sporisorium barberi (Mundk.) Vánky, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 85: 20 (2003)
 
 #### Original name
-null
+Ustilago barberi Mundk., 1939
 
 ### Remarks
 null

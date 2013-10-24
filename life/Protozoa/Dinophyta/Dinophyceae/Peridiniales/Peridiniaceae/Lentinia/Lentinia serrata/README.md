@@ -1,5 +1,4 @@
-Lentinia serrata Bujak in Bujak, Downie, Eaton & Williams, 1980 SPECIES
-=======
+# Lentinia serrata Bujak in Bujak, Downie, Eaton & Williams, 1980 SPECIES
 
 #### Status
 ACCEPTED

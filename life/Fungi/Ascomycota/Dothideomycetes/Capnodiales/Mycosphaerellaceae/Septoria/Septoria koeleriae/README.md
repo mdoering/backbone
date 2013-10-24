@@ -1,5 +1,4 @@
-Septoria koeleriae var. koeleriae VARIETY
-=======
+# Septoria koeleriae Cocc. & Morini SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Enum. Funghi della provincia di Bologna 2: no. 176 (1883)
 
 #### Original name
-Septoria koeleriae var. koeleriae
+Septoria koeleriae Cocc. & Morini
 
 ### Remarks
 null

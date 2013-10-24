@@ -1,5 +1,4 @@
-Tilakidium Vaidya, C.D. Naik & Rathod GENUS
-=======
+# Tilakidium Vaidya, C.D. Naik & Rathod GENUS
 
 #### Status
 ACCEPTED

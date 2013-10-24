@@ -1,5 +1,4 @@
-Stomiopeltis myricae K. Holm & L. Holm SPECIES
-=======
+# Stomiopeltis myricae K. Holm & L. Holm SPECIES
 
 #### Status
 ACCEPTED

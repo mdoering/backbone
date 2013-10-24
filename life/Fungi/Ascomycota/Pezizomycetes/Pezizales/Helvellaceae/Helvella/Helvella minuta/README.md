@@ -1,5 +1,4 @@
-Helvella minuta O.F. Müll. SPECIES
-=======
+# Helvella minuta O.F. Müll. SPECIES
 
 #### Status
 ACCEPTED

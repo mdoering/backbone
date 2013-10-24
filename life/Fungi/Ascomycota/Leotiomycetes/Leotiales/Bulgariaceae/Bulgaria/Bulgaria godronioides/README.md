@@ -1,5 +1,4 @@
-Bulgaria godronioides (Rick) Seaver SPECIES
-=======
+# Bulgaria godronioides (Rick) Seaver SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporidesmium terminaliae Deighton SPECIES
-=======
+# Sporidesmium terminaliae Deighton SPECIES
 
 #### Status
 ACCEPTED

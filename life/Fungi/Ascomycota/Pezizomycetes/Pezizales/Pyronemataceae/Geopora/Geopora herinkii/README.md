@@ -1,5 +1,4 @@
-Geopora herinkii (Svrcek) Senn-Irlet SPECIES
-=======
+# Geopora herinkii (Svrcek) Senn-Irlet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Albugo quadrata (Wallr.) S.D. Baker SPECIES
-=======
+# Albugo quadrata (Wallr.) S.D. Baker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma malpighiae (Mont.) Sacc. SPECIES
-=======
+# Phoma malpighiae (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

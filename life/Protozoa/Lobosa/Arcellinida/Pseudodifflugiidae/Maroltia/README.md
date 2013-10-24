@@ -1,5 +1,4 @@
-Maroltia Haman, 1988 GENUS
-=======
+# Maroltia Haman, 1988 GENUS
 
 #### Status
 ACCEPTED

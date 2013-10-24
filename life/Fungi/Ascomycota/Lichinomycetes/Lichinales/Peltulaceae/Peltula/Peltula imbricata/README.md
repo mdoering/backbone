@@ -1,5 +1,4 @@
-Peltula imbricata Filson SPECIES
-=======
+# Peltula imbricata Filson SPECIES
 
 #### Status
 ACCEPTED

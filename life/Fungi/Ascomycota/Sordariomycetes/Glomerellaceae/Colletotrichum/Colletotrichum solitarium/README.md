@@ -1,5 +1,4 @@
-Colletotrichum solitarium Ellis & Barthol. SPECIES
-=======
+# Colletotrichum solitarium Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

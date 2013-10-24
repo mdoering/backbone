@@ -1,5 +1,4 @@
-Oscillatoria pseudacutissimum Geitler SPECIES
-=======
+# Oscillatoria pseudacutissimum Geitler SPECIES
 
 #### Status
 ACCEPTED

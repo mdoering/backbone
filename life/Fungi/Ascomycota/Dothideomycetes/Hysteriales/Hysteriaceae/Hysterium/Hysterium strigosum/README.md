@@ -1,5 +1,4 @@
-Hysterium strigosum Pers. SPECIES
-=======
+# Hysterium strigosum Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenoscyphus africanus Descals, P.J. Fisher & J. Webster SPECIES
-=======
+# Hymenoscyphus africanus Descals, P.J. Fisher & J. Webster SPECIES
 
 #### Status
 ACCEPTED

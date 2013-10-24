@@ -1,5 +1,4 @@
-Hymenoscyphus contortus (W.L. White) M.P. Sharma SPECIES
-=======
+# Hymenoscyphus contortus (W.L. White) M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

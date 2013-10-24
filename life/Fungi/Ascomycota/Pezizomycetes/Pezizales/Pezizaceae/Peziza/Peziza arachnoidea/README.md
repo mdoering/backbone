@@ -1,5 +1,4 @@
-Peziza arachnoidea Schwein. SPECIES
-=======
+# Peziza arachnoidea Schwein. SPECIES
 
 #### Status
 ACCEPTED

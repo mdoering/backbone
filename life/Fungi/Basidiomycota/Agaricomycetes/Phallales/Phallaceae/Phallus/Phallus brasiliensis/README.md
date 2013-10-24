@@ -1,5 +1,4 @@
-Phallus brasiliensis Schltdl. SPECIES
-=======
+# Phallus brasiliensis Schltdl. SPECIES
 
 #### Status
 ACCEPTED

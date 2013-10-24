@@ -1,5 +1,4 @@
-Camillea stellata Laessøe, J.D. Rogers & Whalley SPECIES
-=======
+# Camillea stellata Laessøe, J.D. Rogers & Whalley SPECIES
 
 #### Status
 ACCEPTED

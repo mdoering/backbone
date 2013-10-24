@@ -1,5 +1,4 @@
-Helotium vaccinii Rehm SPECIES
-=======
+# Helotium vaccinii Rehm SPECIES
 
 #### Status
 ACCEPTED

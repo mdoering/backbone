@@ -1,5 +1,4 @@
-Boletus furfuraceus Berk. SPECIES
-=======
+# Boletus furfuraceus Berk. SPECIES
 
 #### Status
 ACCEPTED

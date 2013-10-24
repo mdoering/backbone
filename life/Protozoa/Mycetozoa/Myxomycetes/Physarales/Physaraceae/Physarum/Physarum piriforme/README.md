@@ -1,5 +1,4 @@
-Physarum piriforme Schumach. SPECIES
-=======
+# Physarum piriforme Schumach. SPECIES
 
 #### Status
 ACCEPTED

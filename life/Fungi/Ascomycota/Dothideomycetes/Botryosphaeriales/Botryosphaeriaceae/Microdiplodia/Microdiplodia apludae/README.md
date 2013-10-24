@@ -1,5 +1,4 @@
-Microdiplodia apludae S. Ahmad SPECIES
-=======
+# Microdiplodia apludae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

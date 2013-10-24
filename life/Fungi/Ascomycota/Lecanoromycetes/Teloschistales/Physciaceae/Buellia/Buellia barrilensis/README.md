@@ -1,5 +1,4 @@
-Buellia barrilensis Zahlbr. SPECIES
-=======
+# Buellia barrilensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

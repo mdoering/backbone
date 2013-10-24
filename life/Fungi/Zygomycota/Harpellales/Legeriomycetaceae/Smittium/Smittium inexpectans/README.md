@@ -1,5 +1,4 @@
-Smittium inexpectans L.G. Valle & Santam., 2004 SPECIES
-=======
+# Smittium inexpectans L.G. Valle & Santam., 2004 SPECIES
 
 #### Status
 ACCEPTED

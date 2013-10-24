@@ -1,5 +1,4 @@
-Lembosia decolorans Syd. & P. Syd. SPECIES
-=======
+# Lembosia decolorans Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

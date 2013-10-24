@@ -1,5 +1,4 @@
-Thalassiosira planiuscula (Rattray) D. M. Harwood & T. Maruyama SPECIES
-=======
+# Thalassiosira planiuscula (Rattray) D. M. Harwood & T. Maruyama SPECIES
 
 #### Status
 ACCEPTED

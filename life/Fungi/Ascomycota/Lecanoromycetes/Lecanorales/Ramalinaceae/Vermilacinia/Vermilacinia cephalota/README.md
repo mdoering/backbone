@@ -1,5 +1,4 @@
-Vermilacinia cephalota (Tuck.) Spjut & Hale SPECIES
-=======
+# Vermilacinia cephalota (Tuck.) Spjut & Hale SPECIES
 
 #### Status
 ACCEPTED

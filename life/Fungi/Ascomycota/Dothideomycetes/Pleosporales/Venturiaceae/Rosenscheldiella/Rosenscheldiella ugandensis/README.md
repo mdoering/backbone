@@ -1,5 +1,4 @@
-Rosenscheldiella ugandensis (Syd.) Hansf. SPECIES
-=======
+# Rosenscheldiella ugandensis (Syd.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

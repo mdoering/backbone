@@ -1,5 +1,4 @@
-Byssocorticium efibulatum Hjortstam & Ryvarden, 1978 SPECIES
-=======
+# Byssocorticium efibulatum Hjortstam & Ryvarden, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metopus trichocystiferus Jankowski, 1964 SPECIES
-=======
+# Metopus trichocystiferus Jankowski, 1964 SPECIES
 
 #### Status
 ACCEPTED

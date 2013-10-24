@@ -1,5 +1,4 @@
-Tricholoma oliveum Farl. & Burt SPECIES
-=======
+# Tricholoma oliveum Farl. & Burt SPECIES
 
 #### Status
 ACCEPTED

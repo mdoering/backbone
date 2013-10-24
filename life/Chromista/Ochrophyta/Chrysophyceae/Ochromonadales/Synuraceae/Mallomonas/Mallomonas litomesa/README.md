@@ -1,5 +1,4 @@
-Mallomonas litomesa var. curta Playfair VARIETY
-=======
+# Mallomonas litomesa A. Stokes SPECIES
 
 #### Status
 ACCEPTED

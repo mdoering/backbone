@@ -1,5 +1,4 @@
-Pleospora hydrophila (P. Karst.) P. Karst., 1883 SPECIES
-=======
+# Pleospora hydrophila (P. Karst.) P. Karst., 1883 SPECIES
 
 #### Status
 ACCEPTED

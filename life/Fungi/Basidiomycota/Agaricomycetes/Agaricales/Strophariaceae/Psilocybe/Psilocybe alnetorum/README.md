@@ -1,5 +1,4 @@
-Psilocybe alnetorum (Singer) Singer SPECIES
-=======
+# Psilocybe alnetorum (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

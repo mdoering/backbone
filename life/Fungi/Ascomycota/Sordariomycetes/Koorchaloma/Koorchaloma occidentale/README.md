@@ -1,17 +1,16 @@
-Koorchaloma occidentalis Nag Raj SPECIES
-=======
+# Koorchaloma occidentale Nag Raj SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 19: 191 (1984)
 
 #### Original name
-Koorchaloma occidentalis Nag Raj
+Koorchaloma occidentale Nag Raj
 
 ### Remarks
 null

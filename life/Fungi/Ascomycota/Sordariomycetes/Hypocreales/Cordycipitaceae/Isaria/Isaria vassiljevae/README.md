@@ -1,5 +1,4 @@
-Isaria vassiljevae Koval SPECIES
-=======
+# Isaria vassiljevae Koval SPECIES
 
 #### Status
 ACCEPTED

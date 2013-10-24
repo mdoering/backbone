@@ -1,5 +1,4 @@
-Sclerotium baccarum Rostr. SPECIES
-=======
+# Sclerotium baccarum Rostr. SPECIES
 
 #### Status
 ACCEPTED

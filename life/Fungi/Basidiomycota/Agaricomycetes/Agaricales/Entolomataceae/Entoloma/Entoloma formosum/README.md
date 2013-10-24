@@ -1,17 +1,16 @@
-Leptonia formosa var. formosa VARIETY
-=======
+# Entoloma formosum (Fr.) Noordel., 1985 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomycètes (Alençon) 414 (1876)
+Persoonia 12(4): 461 (1985)
 
 #### Original name
-Leptonia formosa var. formosa
+Agaricus formosus Fr., 1821
 
 ### Remarks
 null

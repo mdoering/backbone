@@ -1,5 +1,4 @@
-Puccinia microsphincta Lindr. SPECIES
-=======
+# Puccinia microsphincta Lindr. SPECIES
 
 #### Status
 ACCEPTED

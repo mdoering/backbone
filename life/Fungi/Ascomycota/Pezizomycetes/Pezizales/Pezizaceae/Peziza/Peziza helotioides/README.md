@@ -1,5 +1,4 @@
-Peziza helotioides Fr., 1822 SPECIES
-=======
+# Peziza helotioides Fr., 1822 SPECIES
 
 #### Status
 ACCEPTED

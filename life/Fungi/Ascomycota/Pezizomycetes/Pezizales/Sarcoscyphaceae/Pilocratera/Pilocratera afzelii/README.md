@@ -1,5 +1,4 @@
-Pilocratera afzelii (Fr.) Sacc. & Traverso SPECIES
-=======
+# Pilocratera afzelii (Fr.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

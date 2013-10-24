@@ -1,5 +1,4 @@
-Dermea pruni (Teng) J.W. Groves SPECIES
-=======
+# Dermea pruni (Teng) J.W. Groves SPECIES
 
 #### Status
 ACCEPTED

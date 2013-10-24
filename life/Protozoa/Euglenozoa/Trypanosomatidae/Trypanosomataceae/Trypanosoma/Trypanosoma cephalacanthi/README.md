@@ -1,5 +1,4 @@
-Trypanosoma cephalacanthi Ranque, 1973 SPECIES
-=======
+# Trypanosoma cephalacanthi Ranque, 1973 SPECIES
 
 #### Status
 ACCEPTED

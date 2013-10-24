@@ -1,5 +1,4 @@
-Pyramidochrysis Pascher, 1909 GENUS
-=======
+# Pyramidochrysis Pascher, 1909 GENUS
 
 #### Status
 ACCEPTED

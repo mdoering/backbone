@@ -1,17 +1,16 @@
-Malbranchea pulchella var. pulchella Sacc. & Penz. VARIETY
-=======
+# Malbranchea pulchella Sacc. & Penz., 1882 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Michelia 2(no. 8): 639 (1882)
 
 #### Original name
-Malbranchea pulchella var. pulchella Sacc. & Penz.
+Malbranchea pulchella Sacc. & Penz., 1882
 
 ### Remarks
 null

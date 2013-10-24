@@ -1,5 +1,4 @@
-Hendersonia eurotiae Kravtzev SPECIES
-=======
+# Hendersonia eurotiae Kravtzev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dexiotricha polystyla Foissner, 1987 SPECIES
-=======
+# Dexiotricha polystyla Foissner, 1987 SPECIES
 
 #### Status
 ACCEPTED

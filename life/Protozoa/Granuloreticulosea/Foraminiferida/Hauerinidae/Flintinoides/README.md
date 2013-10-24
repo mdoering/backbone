@@ -1,5 +1,4 @@
-Flintinoides Cherif, 1973 GENUS
-=======
+# Flintinoides Cherif, 1973 GENUS
 
 #### Status
 ACCEPTED

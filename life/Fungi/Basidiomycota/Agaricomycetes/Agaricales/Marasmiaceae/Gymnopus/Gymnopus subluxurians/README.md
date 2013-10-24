@@ -1,5 +1,4 @@
-Gymnopus subluxurians Murrill SPECIES
-=======
+# Gymnopus subluxurians Murrill SPECIES
 
 #### Status
 ACCEPTED

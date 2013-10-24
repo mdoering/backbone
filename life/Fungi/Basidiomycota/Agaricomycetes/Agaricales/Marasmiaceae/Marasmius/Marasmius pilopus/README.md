@@ -1,5 +1,4 @@
-Marasmius pilopus Kalchbr. SPECIES
-=======
+# Marasmius pilopus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

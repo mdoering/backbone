@@ -1,5 +1,4 @@
-Chevalieropsis lophirae (Deighton) Sivan. SPECIES
-=======
+# Chevalieropsis lophirae (Deighton) Sivan. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monacrosporium leporinum Bubák SPECIES
-=======
+# Monacrosporium leporinum Bubák SPECIES
 
 #### Status
 ACCEPTED

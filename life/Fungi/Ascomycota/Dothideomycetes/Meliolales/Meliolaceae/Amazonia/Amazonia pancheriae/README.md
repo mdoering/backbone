@@ -1,5 +1,4 @@
-Amazonia pancheriae B. Huguenin SPECIES
-=======
+# Amazonia pancheriae B. Huguenin SPECIES
 
 #### Status
 ACCEPTED

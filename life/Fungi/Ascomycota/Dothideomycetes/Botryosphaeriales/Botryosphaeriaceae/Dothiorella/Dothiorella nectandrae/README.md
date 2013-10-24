@@ -1,5 +1,4 @@
-Dothiorella nectandrae Bres. SPECIES
-=======
+# Dothiorella nectandrae Bres. SPECIES
 
 #### Status
 ACCEPTED

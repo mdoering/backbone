@@ -1,14 +1,13 @@
-Sporobolomyces naganoensis Nakase & M. Suzuki, 1987 SPECIES
-=======
+# Bensingtonia naganoensis (Nakase & M. Suzuki) Nakase & Boekhout, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Mycol. Soc. Japan 28(1): 2 (1987)
+J. gen. appl. Microbiol. , Tokyo 34(3): 435 (1988)
 
 #### Original name
 Sporobolomyces naganoensis Nakase & M. Suzuki, 1987

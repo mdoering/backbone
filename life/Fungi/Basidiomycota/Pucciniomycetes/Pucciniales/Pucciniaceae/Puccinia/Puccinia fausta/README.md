@@ -1,5 +1,4 @@
-Puccinia fausta H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia fausta H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

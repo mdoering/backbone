@@ -1,5 +1,4 @@
-Fromea warlinghamensis Gitmez & Sarjeant, 1972 SPECIES
-=======
+# Fromea warlinghamensis Gitmez & Sarjeant, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tylopilus conspicuocystidiata Watling & E. Turnbull SPECIES
-=======
+# Tylopilus conspicuocystidiata Watling & E. Turnbull SPECIES
 
 #### Status
 ACCEPTED

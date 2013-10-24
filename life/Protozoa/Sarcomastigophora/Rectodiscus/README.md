@@ -1,5 +1,4 @@
-Rectodiscus Conil & Pirlet in Pirlet & Conil, 1974 GENUS
-=======
+# Rectodiscus Conil & Pirlet in Pirlet & Conil, 1974 GENUS
 
 #### Status
 ACCEPTED

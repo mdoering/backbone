@@ -1,17 +1,16 @@
-Hapalopsis H. Kufferath, 1942 GENUS
-=======
+# Stigonema C. Agardh ex Bornet & Flahault GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. Roy. Bot. Belg. 74: 96.
+Ann. Sci. Nat. Bot. , ser. 7, 5: 62.
 
 #### Original name
-null
+Stigonema C. Agardh ex Bornet & Flahault
 
 ### Remarks
 null

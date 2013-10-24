@@ -1,5 +1,4 @@
-Laccaria pseudomontana Osmundson, C. Cripps & G.M. Muell., 2006 SPECIES
-=======
+# Laccaria pseudomontana Osmundson, C. Cripps & G.M. Muell., 2006 SPECIES
 
 #### Status
 ACCEPTED

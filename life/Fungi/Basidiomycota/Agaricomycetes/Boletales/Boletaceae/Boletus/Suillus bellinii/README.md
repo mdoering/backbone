@@ -1,8 +1,7 @@
-Boletus bellinii Inzenga, 1879 SPECIES
-=======
+# Suillus bellinii (Inzenga) Watling, 1967 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

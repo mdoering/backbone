@@ -1,5 +1,4 @@
-Guinardia pungens Cleve-Euler SPECIES
-=======
+# Guinardia pungens Cleve-Euler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corynespora indica Munjal & H.S. Gill SPECIES
-=======
+# Corynespora indica Munjal & H.S. Gill SPECIES
 
 #### Status
 ACCEPTED

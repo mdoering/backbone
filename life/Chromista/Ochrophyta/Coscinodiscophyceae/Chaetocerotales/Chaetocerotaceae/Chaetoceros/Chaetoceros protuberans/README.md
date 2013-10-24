@@ -1,5 +1,4 @@
-Chaetoceros protuberans H.S.Lauder, 1864 SPECIES
-=======
+# Chaetoceros protuberans H.S.Lauder, 1864 SPECIES
 
 #### Status
 ACCEPTED

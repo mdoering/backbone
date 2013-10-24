@@ -1,5 +1,4 @@
-Helotium versicolor anon. SPECIES
-=======
+# Helotium versicolor anon. SPECIES
 
 #### Status
 ACCEPTED

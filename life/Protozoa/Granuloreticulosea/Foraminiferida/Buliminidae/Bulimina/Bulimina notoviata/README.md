@@ -1,5 +1,4 @@
-Bulimina notoviata SPECIES
-=======
+# Bulimina notoviata SPECIES
 
 #### Status
 ACCEPTED

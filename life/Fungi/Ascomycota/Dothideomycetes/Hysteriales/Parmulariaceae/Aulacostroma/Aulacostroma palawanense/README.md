@@ -1,14 +1,13 @@
-Morenoella palawanensis (Syd. & P. Syd.) Bat. & J.L. Bezerra, 1963 SPECIES
-=======
+# Aulacostroma palawanense Syd. & P. Syd., 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Batista, Maia & Bezerra, Publções Inst. Micol. Recife 229: 11 (1963)
+Philipp. J. Sci. , C, Bot. 9(2): 176 (1914)
 
 #### Original name
 Aulacostroma palawanense Syd. & P. Syd., 1914

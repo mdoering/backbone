@@ -1,5 +1,4 @@
-Pterocystis Siemensma & Roijackers, 1988 GENUS
-=======
+# Pterocystis Siemensma & Roijackers, 1988 GENUS
 
 #### Status
 ACCEPTED

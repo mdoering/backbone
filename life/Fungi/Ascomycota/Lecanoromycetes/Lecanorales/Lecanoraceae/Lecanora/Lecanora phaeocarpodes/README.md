@@ -1,5 +1,4 @@
-Lecanora phaeocarpodes Nyl. SPECIES
-=======
+# Lecanora phaeocarpodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

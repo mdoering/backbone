@@ -1,5 +1,4 @@
-Xylaria ayresii (Berk. ex Cooke) P.M.D. Martin SPECIES
-=======
+# Xylaria ayresii (Berk. ex Cooke) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

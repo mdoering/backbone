@@ -1,5 +1,4 @@
-Funicularius Roussel, 1806 GENUS
-=======
+# Funicularius Roussel, 1806 GENUS
 
 #### Status
 ACCEPTED

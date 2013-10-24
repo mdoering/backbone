@@ -1,5 +1,4 @@
-Septoria ludwigiae Cooke SPECIES
-=======
+# Septoria ludwigiae Cooke SPECIES
 
 #### Status
 ACCEPTED

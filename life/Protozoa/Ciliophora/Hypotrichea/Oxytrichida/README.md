@@ -1,5 +1,4 @@
-Oxytrichida ORDER
-=======
+# Oxytrichida ORDER
 
 #### Status
 ACCEPTED

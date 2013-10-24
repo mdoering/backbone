@@ -1,5 +1,4 @@
-Diatoma fenestratum Lyngb. SPECIES
-=======
+# Diatoma fenestratum Lyngb. SPECIES
 
 #### Status
 ACCEPTED

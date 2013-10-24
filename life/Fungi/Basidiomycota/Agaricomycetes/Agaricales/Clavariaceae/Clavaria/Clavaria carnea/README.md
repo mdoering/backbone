@@ -1,5 +1,4 @@
-Clavaria carnea Wallr. SPECIES
-=======
+# Clavaria carnea Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Corticium auberianum Mont., 1842 SPECIES
-=======
+# Phlebiopsis ravenelii (Cooke) Hjortstam, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Windahlia 17: 58 (1987)
 
 #### Original name
-null
+Peniophora ravenelii Cooke, 1879
 
 ### Remarks
 null

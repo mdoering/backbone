@@ -1,5 +1,4 @@
-Parahistricus Grolière, 1976 GENUS
-=======
+# Parahistricus Grolière, 1976 GENUS
 
 #### Status
 ACCEPTED

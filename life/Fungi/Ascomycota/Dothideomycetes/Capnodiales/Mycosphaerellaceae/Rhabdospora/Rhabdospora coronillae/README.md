@@ -1,5 +1,4 @@
-Rhabdospora coronillae Sandu & Mítítíuc SPECIES
-=======
+# Rhabdospora coronillae Sandu & Mítítíuc SPECIES
 
 #### Status
 ACCEPTED

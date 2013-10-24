@@ -1,5 +1,4 @@
-Pocillaria cinnabarina (Fr.) Kuntze SPECIES
-=======
+# Pocillaria cinnabarina (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

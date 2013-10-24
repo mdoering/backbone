@@ -1,5 +1,4 @@
-Trochiloides striata Buddenbrock, 1920 SPECIES
-=======
+# Trochiloides striata Buddenbrock, 1920 SPECIES
 
 #### Status
 ACCEPTED

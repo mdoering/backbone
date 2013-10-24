@@ -1,5 +1,4 @@
-Paenibacillus contaminans Jui-Hsing Chou, 2008 SPECIES
-=======
+# Paenibacillus contaminans Jui-Hsing Chou, 2008 SPECIES
 
 #### Status
 ACCEPTED

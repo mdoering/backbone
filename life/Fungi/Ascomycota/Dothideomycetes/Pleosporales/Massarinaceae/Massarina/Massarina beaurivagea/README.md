@@ -1,5 +1,4 @@
-Massarina beaurivagea Poonyth, K.D. Hyde, Aptroot & Peerally, 1999 SPECIES
-=======
+# Massarina beaurivagea Poonyth, K.D. Hyde, Aptroot & Peerally, 1999 SPECIES
 
 #### Status
 ACCEPTED

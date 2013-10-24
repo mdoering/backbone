@@ -1,5 +1,4 @@
-Leptosphaeria rhaphidophora Hazsl. SPECIES
-=======
+# Leptosphaeria rhaphidophora Hazsl. SPECIES
 
 #### Status
 ACCEPTED

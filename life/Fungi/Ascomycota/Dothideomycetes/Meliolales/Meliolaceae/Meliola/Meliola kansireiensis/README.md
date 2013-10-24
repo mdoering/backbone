@@ -1,5 +1,4 @@
-Meliola kansireiensis W. Yamam. SPECIES
-=======
+# Meliola kansireiensis W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

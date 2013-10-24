@@ -1,5 +1,4 @@
-Physcia sparsa (Taylor) Nyl. SPECIES
-=======
+# Physcia sparsa (Taylor) Nyl. SPECIES
 
 #### Status
 ACCEPTED

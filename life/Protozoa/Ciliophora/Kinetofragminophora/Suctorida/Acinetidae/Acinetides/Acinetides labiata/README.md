@@ -1,5 +1,4 @@
-Acinetides labiata SPECIES
-=======
+# Acinetides labiata SPECIES
 
 #### Status
 ACCEPTED

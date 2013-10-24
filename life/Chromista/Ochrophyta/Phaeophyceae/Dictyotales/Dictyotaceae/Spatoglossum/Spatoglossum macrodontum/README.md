@@ -1,5 +1,4 @@
-Spatoglossum macrodontum J. Agardh SPECIES
-=======
+# Spatoglossum macrodontum J. Agardh SPECIES
 
 #### Status
 ACCEPTED

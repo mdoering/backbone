@@ -1,5 +1,4 @@
-Arthrobotrys vermicola (R.C. Cooke & Satchuth.) Rifai, 1968 SPECIES
-=======
+# Arthrobotrys vermicola (R.C. Cooke & Satchuth.) Rifai, 1968 SPECIES
 
 #### Status
 ACCEPTED

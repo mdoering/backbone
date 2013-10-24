@@ -1,5 +1,4 @@
-Septoria littorea Sacc. SPECIES
-=======
+# Septoria littorea Sacc. SPECIES
 
 #### Status
 ACCEPTED

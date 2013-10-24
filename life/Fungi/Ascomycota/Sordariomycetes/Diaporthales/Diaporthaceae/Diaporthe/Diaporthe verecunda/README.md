@@ -1,5 +1,4 @@
-Diaporthe verecunda Sacc. & Flageolet SPECIES
-=======
+# Diaporthe verecunda Sacc. & Flageolet SPECIES
 
 #### Status
 ACCEPTED

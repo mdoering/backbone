@@ -1,5 +1,4 @@
-Fusarium zygopetali Delacr. SPECIES
-=======
+# Fusarium zygopetali Delacr. SPECIES
 
 #### Status
 ACCEPTED

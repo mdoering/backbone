@@ -1,5 +1,4 @@
-Uredo bombacis Petch SPECIES
-=======
+# Uredo bombacis Petch SPECIES
 
 #### Status
 ACCEPTED

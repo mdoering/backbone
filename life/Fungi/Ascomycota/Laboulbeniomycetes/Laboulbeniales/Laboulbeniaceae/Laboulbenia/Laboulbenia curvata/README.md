@@ -1,5 +1,4 @@
-Laboulbenia curvata Thaxt. SPECIES
-=======
+# Laboulbenia curvata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

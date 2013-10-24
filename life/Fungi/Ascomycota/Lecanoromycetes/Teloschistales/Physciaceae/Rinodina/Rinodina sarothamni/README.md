@@ -1,5 +1,4 @@
-Rinodina sarothamni SPECIES
-=======
+# Rinodina sarothamni SPECIES
 
 #### Status
 ACCEPTED

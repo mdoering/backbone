@@ -1,5 +1,4 @@
-Dicaeoma porphyrogenitum (M.A. Curtis) Kuntze SPECIES
-=======
+# Dicaeoma porphyrogenitum (M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

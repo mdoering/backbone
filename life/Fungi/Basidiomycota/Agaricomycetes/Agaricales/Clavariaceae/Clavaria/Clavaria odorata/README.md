@@ -1,5 +1,4 @@
-Clavaria odorata (P. Karst.) Sacc. SPECIES
-=======
+# Clavaria odorata (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia anthriscicola Gjaerum SPECIES
-=======
+# Puccinia anthriscicola Gjaerum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus rufopunctatus (J. Blum) J. Blum SPECIES
-=======
+# Boletus rufopunctatus (J. Blum) J. Blum SPECIES
 
 #### Status
 ACCEPTED

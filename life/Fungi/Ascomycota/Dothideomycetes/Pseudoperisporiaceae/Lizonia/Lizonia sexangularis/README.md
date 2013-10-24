@@ -1,5 +1,4 @@
-Lizonia sexangularis Döbbeler & Poelt, 1978 SPECIES
-=======
+# Lizonia sexangularis Döbbeler & Poelt, 1978 SPECIES
 
 #### Status
 ACCEPTED

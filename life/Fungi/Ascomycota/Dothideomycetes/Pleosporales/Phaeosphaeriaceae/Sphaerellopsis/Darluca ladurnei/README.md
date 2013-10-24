@@ -1,5 +1,4 @@
-Darluca ladurnei (Bubák) Höhn. SPECIES
-=======
+# Darluca ladurnei (Bubák) Höhn. SPECIES
 
 #### Status
 ACCEPTED

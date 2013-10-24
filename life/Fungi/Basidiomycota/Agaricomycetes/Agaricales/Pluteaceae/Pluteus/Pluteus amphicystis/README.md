@@ -1,5 +1,4 @@
-Pluteus amphicystis Singer SPECIES
-=======
+# Pluteus amphicystis Singer SPECIES
 
 #### Status
 ACCEPTED

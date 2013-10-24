@@ -1,5 +1,4 @@
-Aulographum proteacium Rodway SPECIES
-=======
+# Aulographum proteacium Rodway SPECIES
 
 #### Status
 ACCEPTED

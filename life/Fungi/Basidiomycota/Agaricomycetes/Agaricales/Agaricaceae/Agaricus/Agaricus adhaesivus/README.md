@@ -1,5 +1,4 @@
-Agaricus adhaesivus SPECIES
-=======
+# Agaricus adhaesivus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coscinodiscus dissoniformis N.I. Strelnikova SPECIES
-=======
+# Coscinodiscus dissoniformis N.I. Strelnikova SPECIES
 
 #### Status
 ACCEPTED

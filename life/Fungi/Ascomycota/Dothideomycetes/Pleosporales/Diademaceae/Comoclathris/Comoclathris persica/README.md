@@ -1,5 +1,4 @@
-Comoclathris persica Shoemaker & C.E. Babc. SPECIES
-=======
+# Comoclathris persica Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

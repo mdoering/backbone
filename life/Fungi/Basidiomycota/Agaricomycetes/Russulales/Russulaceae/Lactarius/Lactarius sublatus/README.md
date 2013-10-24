@@ -1,17 +1,16 @@
-Lactaria sublata Murrill SPECIES
-=======
+# Lactarius sublatus Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 36(1): 122 (1944)
 
 #### Original name
-Lactaria sublata Murrill
+Lactarius sublatus Murrill
 
 ### Remarks
 null

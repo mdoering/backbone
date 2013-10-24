@@ -1,5 +1,4 @@
-Cystopezizella cupulincola Svrcek SPECIES
-=======
+# Cystopezizella cupulincola Svrcek SPECIES
 
 #### Status
 ACCEPTED

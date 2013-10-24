@@ -1,5 +1,4 @@
-Diplodina solidaginis Hollós SPECIES
-=======
+# Diplodina solidaginis Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dialaceniopsis landolphiae Bat., 1959 SPECIES
-=======
+# Dialaceniopsis landolphiae Bat., 1959 SPECIES
 
 #### Status
 ACCEPTED

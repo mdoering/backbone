@@ -1,5 +1,4 @@
-Puccinia seymourii Lindr. SPECIES
-=======
+# Puccinia seymourii Lindr. SPECIES
 
 #### Status
 ACCEPTED

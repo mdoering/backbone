@@ -1,5 +1,4 @@
-Timofeevia acremonia Rasul, 1979 SPECIES
-=======
+# Timofeevia acremonia Rasul, 1979 SPECIES
 
 #### Status
 ACCEPTED

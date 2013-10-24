@@ -1,5 +1,4 @@
-Aspergillus conjunctus Kwon-Chung & Fennell, 1965 SPECIES
-=======
+# Aspergillus conjunctus Kwon-Chung & Fennell, 1965 SPECIES
 
 #### Status
 ACCEPTED

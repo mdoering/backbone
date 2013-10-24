@@ -1,5 +1,4 @@
-Cortinarius thallioruber Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius thallioruber Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

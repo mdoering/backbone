@@ -1,5 +1,4 @@
-Phaeomacropus GENUS
-=======
+# Phaeomacropus GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Tripedotrichum herbariensis G.F. Orr & Kuehn SPECIES
-=======
+# Myxotrichum herbariense (G.F. Orr & Kuehn) Apinis, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 96: 22 (1964)
 
 #### Original name
-Tripedotrichum herbariensis G.F. Orr & Kuehn
+Tripedotrichum herbariense G.F. Orr & Kuehn, 1964
 
 ### Remarks
 null

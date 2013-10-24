@@ -1,5 +1,4 @@
-Rhizocarpon italicum Räsänen SPECIES
-=======
+# Rhizocarpon italicum Räsänen SPECIES
 
 #### Status
 ACCEPTED

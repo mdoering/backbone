@@ -1,5 +1,4 @@
-Chaetosphaeria albida T.J. Atk., A.N. Mill. & Huhndorf, 2007 SPECIES
-=======
+# Chaetosphaeria albida T.J. Atk., A.N. Mill. & Huhndorf, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trocholina Paalzow, 1922 GENUS
-=======
+# Trocholina Paalzow, 1922 GENUS
 
 #### Status
 ACCEPTED

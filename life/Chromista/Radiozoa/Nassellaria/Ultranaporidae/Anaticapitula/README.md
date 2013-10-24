@@ -1,5 +1,4 @@
-Anaticapitula Dumitrica & Zügel, 2003 GENUS
-=======
+# Anaticapitula Dumitrica & Zügel, 2003 GENUS
 
 #### Status
 ACCEPTED

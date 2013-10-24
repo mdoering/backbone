@@ -1,5 +1,4 @@
-Arthopyrenia elongatula (Nyl.) Arnold SPECIES
-=======
+# Arthopyrenia elongatula (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

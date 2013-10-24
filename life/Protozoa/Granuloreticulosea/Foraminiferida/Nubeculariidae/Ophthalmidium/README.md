@@ -1,5 +1,4 @@
-Ophthalmidium Kübler & Zwingli, 1871 GENUS
-=======
+# Ophthalmidium Kübler & Zwingli, 1871 GENUS
 
 #### Status
 ACCEPTED

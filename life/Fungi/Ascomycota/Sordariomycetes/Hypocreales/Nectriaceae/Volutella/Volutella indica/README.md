@@ -1,5 +1,4 @@
-Volutella indica (Niessl) Sacc. SPECIES
-=======
+# Volutella indica (Niessl) Sacc. SPECIES
 
 #### Status
 ACCEPTED

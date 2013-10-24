@@ -1,5 +1,4 @@
-Cortinarius caesiogriseus Jul. Schäff. SPECIES
-=======
+# Cortinarius caesiogriseus Jul. Schäff. SPECIES
 
 #### Status
 ACCEPTED

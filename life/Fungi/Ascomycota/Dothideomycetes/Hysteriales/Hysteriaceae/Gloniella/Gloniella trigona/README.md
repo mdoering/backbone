@@ -1,5 +1,4 @@
-Gloniella trigona Rehm SPECIES
-=======
+# Gloniella trigona Rehm SPECIES
 
 #### Status
 ACCEPTED

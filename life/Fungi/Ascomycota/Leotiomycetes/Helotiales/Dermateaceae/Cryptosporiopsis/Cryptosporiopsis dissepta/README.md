@@ -1,5 +1,4 @@
-Cryptosporiopsis dissepta (Höhn.) Petr. SPECIES
-=======
+# Cryptosporiopsis dissepta (Höhn.) Petr. SPECIES
 
 #### Status
 ACCEPTED

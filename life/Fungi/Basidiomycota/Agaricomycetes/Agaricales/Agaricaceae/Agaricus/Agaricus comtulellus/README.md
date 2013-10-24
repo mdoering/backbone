@@ -1,5 +1,4 @@
-Agaricus comtulellus S. Imai SPECIES
-=======
+# Agaricus comtulellus S. Imai SPECIES
 
 #### Status
 ACCEPTED

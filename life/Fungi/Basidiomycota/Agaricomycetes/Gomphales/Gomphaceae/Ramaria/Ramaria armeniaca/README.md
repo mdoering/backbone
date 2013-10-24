@@ -1,5 +1,4 @@
-Ramaria armeniaca R.H. Petersen & Scates, 1988 SPECIES
-=======
+# Ramaria armeniaca R.H. Petersen & Scates, 1988 SPECIES
 
 #### Status
 ACCEPTED

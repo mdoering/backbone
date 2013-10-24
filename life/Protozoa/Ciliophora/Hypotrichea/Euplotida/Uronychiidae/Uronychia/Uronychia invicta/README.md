@@ -1,5 +1,4 @@
-Uronychia invicta SPECIES
-=======
+# Uronychia invicta SPECIES
 
 #### Status
 ACCEPTED

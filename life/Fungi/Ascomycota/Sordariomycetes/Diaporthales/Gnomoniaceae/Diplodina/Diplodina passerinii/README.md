@@ -1,5 +1,4 @@
-Diplodina passerinii Grove SPECIES
-=======
+# Diplodina passerinii Grove SPECIES
 
 #### Status
 ACCEPTED

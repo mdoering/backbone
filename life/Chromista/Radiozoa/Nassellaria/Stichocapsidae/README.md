@@ -1,5 +1,4 @@
-Stichocapsidae Haeckel, 1881 FAMILY
-=======
+# Stichocapsidae Haeckel, 1881 FAMILY
 
 #### Status
 ACCEPTED

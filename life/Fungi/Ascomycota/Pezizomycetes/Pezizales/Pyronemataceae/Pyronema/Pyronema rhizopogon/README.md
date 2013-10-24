@@ -1,5 +1,4 @@
-Pyronema rhizopogon Hazsl. SPECIES
-=======
+# Pyronema rhizopogon Hazsl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orbilia mitracea Velen. SPECIES
-=======
+# Orbilia mitracea Velen. SPECIES
 
 #### Status
 ACCEPTED

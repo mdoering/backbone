@@ -1,5 +1,4 @@
-Calocera platyceras Speg. SPECIES
-=======
+# Calocera platyceras Speg. SPECIES
 
 #### Status
 ACCEPTED

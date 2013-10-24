@@ -1,5 +1,4 @@
-Tricholoma griseipileatum Corner SPECIES
-=======
+# Tricholoma griseipileatum Corner SPECIES
 
 #### Status
 ACCEPTED

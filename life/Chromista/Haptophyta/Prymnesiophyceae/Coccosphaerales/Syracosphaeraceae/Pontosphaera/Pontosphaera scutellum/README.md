@@ -1,5 +1,4 @@
-Pontosphaera scutellum Kamptner, 1952 SPECIES
-=======
+# Pontosphaera scutellum Kamptner, 1952 SPECIES
 
 #### Status
 ACCEPTED

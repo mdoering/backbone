@@ -1,5 +1,4 @@
-Mycoleptodiscus lunatus B. Sutton & Alcorn, 1985 SPECIES
-=======
+# Mycoleptodiscus lunatus B. Sutton & Alcorn, 1985 SPECIES
 
 #### Status
 ACCEPTED

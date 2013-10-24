@@ -1,5 +1,4 @@
-Aecidium anceps Syd. & P. Syd. SPECIES
-=======
+# Aecidium anceps Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

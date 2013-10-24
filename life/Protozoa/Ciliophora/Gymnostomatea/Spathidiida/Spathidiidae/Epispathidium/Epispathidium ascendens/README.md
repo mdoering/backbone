@@ -1,8 +1,7 @@
-Spathidium ascendens Wenzel, 1955 SPECIES
-=======
+# Epispathidium ascendens (Wenzel, 1955) Foissner, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

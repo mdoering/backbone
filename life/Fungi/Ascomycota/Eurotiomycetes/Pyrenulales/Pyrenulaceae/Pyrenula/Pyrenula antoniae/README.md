@@ -1,5 +1,4 @@
-Pyrenula antoniae (Kremp.) Overeem SPECIES
-=======
+# Pyrenula antoniae (Kremp.) Overeem SPECIES
 
 #### Status
 ACCEPTED

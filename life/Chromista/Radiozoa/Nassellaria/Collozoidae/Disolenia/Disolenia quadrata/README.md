@@ -1,5 +1,4 @@
-Disolenia quadrata (Ehrenberg) Nigrini, 1967 SPECIES
-=======
+# Disolenia quadrata (Ehrenberg) Nigrini, 1967 SPECIES
 
 #### Status
 ACCEPTED

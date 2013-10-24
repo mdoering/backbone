@@ -1,5 +1,4 @@
-Stigonema dendroideum Frémy SPECIES
-=======
+# Stigonema dendroideum Frémy SPECIES
 
 #### Status
 ACCEPTED

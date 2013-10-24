@@ -1,5 +1,4 @@
-Mycosphaerella agrimoniae Syd. SPECIES
-=======
+# Mycosphaerella agrimoniae Syd. SPECIES
 
 #### Status
 ACCEPTED

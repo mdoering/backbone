@@ -1,14 +1,13 @@
-Melanospora ornata Zukal, 1885 SPECIES
-=======
+# Sphaerodes ornata (Zukal) Arx, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Veb. em. neue Pilze. Myx. Bakt. 10 (1885)
+Gen. Fungi Sporul. Cult. (Vaduz), Edn 3 156 (1981)
 
 #### Original name
 Melanospora ornata Zukal, 1885

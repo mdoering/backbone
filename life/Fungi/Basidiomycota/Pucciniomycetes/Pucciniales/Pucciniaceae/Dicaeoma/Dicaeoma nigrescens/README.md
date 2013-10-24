@@ -1,5 +1,4 @@
-Dicaeoma nigrescens (Peck) Kuntze SPECIES
-=======
+# Dicaeoma nigrescens (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

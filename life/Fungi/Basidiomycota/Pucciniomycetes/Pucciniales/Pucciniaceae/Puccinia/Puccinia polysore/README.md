@@ -1,5 +1,4 @@
-Puccinia polysore Underw. SPECIES
-=======
+# Puccinia polysore Underw. SPECIES
 
 #### Status
 ACCEPTED

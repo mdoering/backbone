@@ -1,5 +1,4 @@
-Marasmius ficicola (Pat. & Demange) Sacc. & Trotter SPECIES
-=======
+# Marasmius ficicola (Pat. & Demange) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

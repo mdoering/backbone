@@ -1,5 +1,4 @@
-Lactarius atrosquamulosus X. He SPECIES
-=======
+# Lactarius atrosquamulosus X. He SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubercularia sarmentorum Fr. SPECIES
-=======
+# Tubercularia sarmentorum Fr. SPECIES
 
 #### Status
 ACCEPTED

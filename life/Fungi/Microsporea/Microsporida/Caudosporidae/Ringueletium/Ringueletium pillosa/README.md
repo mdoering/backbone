@@ -1,5 +1,4 @@
-Ringueletium pillosa J.J. Garcia SPECIES
-=======
+# Ringueletium pillosa J.J. Garcia SPECIES
 
 #### Status
 ACCEPTED

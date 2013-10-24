@@ -1,5 +1,4 @@
-Oospora microcarpa Schulzer & Sacc. SPECIES
-=======
+# Oospora microcarpa Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

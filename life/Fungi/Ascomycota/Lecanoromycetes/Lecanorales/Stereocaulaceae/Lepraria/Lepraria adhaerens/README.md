@@ -1,5 +1,4 @@
-Lepraria adhaerens K. Knudsen, Elix & Lendemer SPECIES
-=======
+# Lepraria adhaerens K. Knudsen, Elix & Lendemer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cercospora subsessilis var. subsessilis VARIETY
-=======
+# Pseudocercospora subsessilis (Syd. & P. Syd.) Deighton, 1976 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 140: 154 (1976)
 
 #### Original name
-Cercospora subsessilis var. subsessilis
+Cercospora subsessilis Syd., 1913
 
 ### Remarks
 null

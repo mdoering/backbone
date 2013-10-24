@@ -1,5 +1,4 @@
-Phocoenobacter uteri Foster et al., 2000 SPECIES
-=======
+# Phocoenobacter uteri Foster et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

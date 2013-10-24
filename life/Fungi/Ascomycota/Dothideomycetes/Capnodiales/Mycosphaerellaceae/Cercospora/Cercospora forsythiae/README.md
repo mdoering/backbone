@@ -1,5 +1,4 @@
-Cercospora forsythiae Katsuki & Ts. Kobay. SPECIES
-=======
+# Cercospora forsythiae Katsuki & Ts. Kobay. SPECIES
 
 #### Status
 ACCEPTED

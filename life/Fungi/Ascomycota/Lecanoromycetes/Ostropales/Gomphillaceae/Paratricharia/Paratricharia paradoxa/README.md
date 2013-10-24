@@ -1,14 +1,13 @@
-Tricharia paradoxa Lücking SPECIES
-=======
+# Paratricharia paradoxa (Lücking) Lücking SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 52(3-4): 295 (1991)
+Biblthca Lichenol. 65: 77 (1997)
 
 #### Original name
 Tricharia paradoxa Lücking

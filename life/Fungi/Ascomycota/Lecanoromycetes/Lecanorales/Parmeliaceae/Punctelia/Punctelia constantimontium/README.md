@@ -1,5 +1,4 @@
-Punctelia constantimontium Sérus. SPECIES
-=======
+# Punctelia constantimontium Sérus. SPECIES
 
 #### Status
 ACCEPTED

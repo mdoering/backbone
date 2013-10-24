@@ -1,5 +1,4 @@
-Septoria tormentillae Roberge ex Desm., 1847 SPECIES
-=======
+# Septoria tormentillae Roberge ex Desm., 1847 SPECIES
 
 #### Status
 ACCEPTED

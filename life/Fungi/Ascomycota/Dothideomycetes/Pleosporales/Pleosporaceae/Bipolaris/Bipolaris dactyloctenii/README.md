@@ -1,5 +1,4 @@
-Bipolaris dactyloctenii Alcorn SPECIES
-=======
+# Bipolaris dactyloctenii Alcorn SPECIES
 
 #### Status
 ACCEPTED

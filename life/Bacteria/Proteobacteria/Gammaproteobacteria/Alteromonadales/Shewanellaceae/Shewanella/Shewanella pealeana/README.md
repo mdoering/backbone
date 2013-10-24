@@ -1,5 +1,4 @@
-Shewanella pealeana Leonardo et al., 1999 SPECIES
-=======
+# Shewanella pealeana Leonardo et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

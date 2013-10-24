@@ -1,5 +1,4 @@
-Cymatosira lorenziana Grunow SPECIES
-=======
+# Cymatosira lorenziana Grunow SPECIES
 
 #### Status
 ACCEPTED

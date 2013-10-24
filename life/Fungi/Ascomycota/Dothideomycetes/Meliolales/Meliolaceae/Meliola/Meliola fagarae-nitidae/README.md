@@ -1,5 +1,4 @@
-Meliola fagarae-nitidae Hansf. SPECIES
-=======
+# Meliola fagarae-nitidae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galera hypnicola P. Karst. SPECIES
-=======
+# Galera hypnicola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

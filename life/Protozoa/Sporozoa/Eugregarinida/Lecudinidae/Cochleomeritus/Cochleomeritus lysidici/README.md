@@ -1,5 +1,4 @@
-Cochleomeritus lysidici (Tugawa, 1944) SPECIES
-=======
+# Cochleomeritus lysidici (Tugawa, 1944) SPECIES
 
 #### Status
 ACCEPTED

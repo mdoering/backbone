@@ -1,5 +1,4 @@
-Sclerospora J. Schröt. GENUS
-=======
+# Sclerospora J. Schröt. GENUS
 
 #### Status
 ACCEPTED

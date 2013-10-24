@@ -1,5 +1,4 @@
-Metasphaeria ryukyuensis I. Hino & Katum. SPECIES
-=======
+# Metasphaeria ryukyuensis I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

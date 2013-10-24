@@ -1,5 +1,4 @@
-Galera bolbitioides Beauseign. SPECIES
-=======
+# Galera bolbitioides Beauseign. SPECIES
 
 #### Status
 ACCEPTED

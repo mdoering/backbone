@@ -1,5 +1,4 @@
-Calothyriopeltis clermontiae F. Stevens & R.W. Ryan SPECIES
-=======
+# Calothyriopeltis clermontiae F. Stevens & R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

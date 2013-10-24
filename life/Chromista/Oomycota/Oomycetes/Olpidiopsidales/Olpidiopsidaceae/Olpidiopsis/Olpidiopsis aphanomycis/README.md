@@ -1,17 +1,16 @@
-Olpidiopsis luxurians Barrett, 1912 SPECIES
-=======
+# Olpidiopsis aphanomycis Cornu, 1872 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 5 15: 148 (1872)
 
 #### Original name
-Olpidiopsis luxurians Barrett, 1912
+Olpidiopsis aphanomycis Cornu, 1872
 
 ### Remarks
 null

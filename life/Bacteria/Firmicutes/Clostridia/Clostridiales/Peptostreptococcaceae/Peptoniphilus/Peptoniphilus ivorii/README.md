@@ -1,8 +1,7 @@
-Peptostreptococcus ivorii Murdoch et al., 1997 SPECIES
-=======
+# Peptoniphilus ivorii (Murdoch et al., 1997) Ezaki et al., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Laboulbenia kwangjuensis Y.B. Lee SPECIES
-=======
+# Laboulbenia kwangjuensis Y.B. Lee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epistylis halophila SPECIES
-=======
+# Epistylis halophila SPECIES
 
 #### Status
 ACCEPTED

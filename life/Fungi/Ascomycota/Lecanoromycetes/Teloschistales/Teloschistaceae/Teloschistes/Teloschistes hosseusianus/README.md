@@ -1,5 +1,4 @@
-Teloschistes hosseusianus Gyeln. SPECIES
-=======
+# Teloschistes hosseusianus Gyeln. SPECIES
 
 #### Status
 ACCEPTED

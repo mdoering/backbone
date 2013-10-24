@@ -1,5 +1,4 @@
-Heterosporium hybridum Ellis & Everh. SPECIES
-=======
+# Heterosporium hybridum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

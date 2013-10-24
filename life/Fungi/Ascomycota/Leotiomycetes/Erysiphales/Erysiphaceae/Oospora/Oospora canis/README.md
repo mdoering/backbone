@@ -1,5 +1,4 @@
-Oospora canis (Rabe {?} ) Sartory SPECIES
-=======
+# Oospora canis (Rabe {?} ) Sartory SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protoellipsodinium spinocristatum Davey & Verdier, 1971 SPECIES
-=======
+# Protoellipsodinium spinocristatum Davey & Verdier, 1971 SPECIES
 
 #### Status
 ACCEPTED

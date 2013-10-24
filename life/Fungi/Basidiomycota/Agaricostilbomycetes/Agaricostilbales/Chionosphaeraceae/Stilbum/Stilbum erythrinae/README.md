@@ -1,5 +1,4 @@
-Stilbum erythrinae Hansf. SPECIES
-=======
+# Stilbum erythrinae Hansf. SPECIES
 
 #### Status
 ACCEPTED

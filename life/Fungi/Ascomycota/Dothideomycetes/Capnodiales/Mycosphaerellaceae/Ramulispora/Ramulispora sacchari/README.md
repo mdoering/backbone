@@ -1,5 +1,4 @@
-Ramulispora sacchari Rawla SPECIES
-=======
+# Ramulispora sacchari Rawla SPECIES
 
 #### Status
 ACCEPTED

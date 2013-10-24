@@ -1,5 +1,4 @@
-Pleospora alstroemeriae Speg. SPECIES
-=======
+# Pleospora alstroemeriae Speg. SPECIES
 
 #### Status
 ACCEPTED

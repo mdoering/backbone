@@ -1,5 +1,4 @@
-Synchytrium muscicola Reinsch SPECIES
-=======
+# Synchytrium muscicola Reinsch SPECIES
 
 #### Status
 ACCEPTED

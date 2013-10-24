@@ -1,5 +1,4 @@
-Ochrobactrum lupini Trujillo et al., 2006 SPECIES
-=======
+# Ochrobactrum lupini Trujillo et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

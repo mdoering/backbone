@@ -1,5 +1,4 @@
-Aspidisca polypoda (Dujardin, 1841) Kahl, 1932 SPECIES
-=======
+# Aspidisca polypoda (Dujardin, 1841) Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

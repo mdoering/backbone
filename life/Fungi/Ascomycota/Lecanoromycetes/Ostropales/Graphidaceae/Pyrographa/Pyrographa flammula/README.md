@@ -1,5 +1,4 @@
-Pyrographa flammula (Eschw.) A. Massal. SPECIES
-=======
+# Pyrographa flammula (Eschw.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

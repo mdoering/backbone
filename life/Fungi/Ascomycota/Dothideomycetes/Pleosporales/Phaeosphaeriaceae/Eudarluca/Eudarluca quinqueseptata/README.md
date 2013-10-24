@@ -1,5 +1,4 @@
-Eudarluca quinqueseptata Katum. SPECIES
-=======
+# Eudarluca quinqueseptata Katum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurostromella rosarum Petr. SPECIES
-=======
+# Pleurostromella rosarum Petr. SPECIES
 
 #### Status
 ACCEPTED

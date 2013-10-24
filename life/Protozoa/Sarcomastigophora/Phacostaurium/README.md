@@ -1,5 +1,4 @@
-Phacostaurium Haeckel, 1887 GENUS
-=======
+# Phacostaurium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

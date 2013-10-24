@@ -1,5 +1,4 @@
-Uredo pouzolziae Syd. & P. Syd. SPECIES
-=======
+# Uredo pouzolziae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota umbonata f. umbonata FORM
-=======
+# Lepiota umbonata (Schumach.) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Fl. Agaric. Danic. 1: 24
 
 #### Original name
-Lepiota umbonata f. umbonata
+Agaricus umbonatus J. Otto
 
 ### Remarks
 null

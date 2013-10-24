@@ -1,5 +1,4 @@
-Aspicilia olivicolor (H. Magn.) Motyka SPECIES
-=======
+# Aspicilia olivicolor (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

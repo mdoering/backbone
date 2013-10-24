@@ -1,5 +1,4 @@
-Caloplaca mairei B. de Lesd. SPECIES
-=======
+# Caloplaca mairei B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

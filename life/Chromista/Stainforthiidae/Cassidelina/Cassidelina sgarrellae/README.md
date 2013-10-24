@@ -1,5 +1,4 @@
-Cassidelina sgarrellae Loeblich & Tappan, 1994 SPECIES
-=======
+# Cassidelina sgarrellae Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

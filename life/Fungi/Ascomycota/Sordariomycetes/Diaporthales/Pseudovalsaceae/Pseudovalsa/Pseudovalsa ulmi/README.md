@@ -1,5 +1,4 @@
-Pseudovalsa ulmi Wehm. SPECIES
-=======
+# Pseudovalsa ulmi Wehm. SPECIES
 
 #### Status
 ACCEPTED

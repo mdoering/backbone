@@ -1,5 +1,4 @@
-Coprinaceae Heim ex Pouzar FAMILY
-=======
+# Coprinaceae Heim ex Pouzar FAMILY
 
 #### Status
 ACCEPTED

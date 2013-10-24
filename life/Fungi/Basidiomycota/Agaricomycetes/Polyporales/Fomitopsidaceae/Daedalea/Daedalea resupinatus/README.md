@@ -1,5 +1,4 @@
-Daedalea resupinatus Pers. SPECIES
-=======
+# Daedalea resupinatus Pers. SPECIES
 
 #### Status
 ACCEPTED

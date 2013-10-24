@@ -1,5 +1,4 @@
-Hydnum agaricinum Hoffm. SPECIES
-=======
+# Hydnum agaricinum Hoffm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia picturata H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia picturata H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

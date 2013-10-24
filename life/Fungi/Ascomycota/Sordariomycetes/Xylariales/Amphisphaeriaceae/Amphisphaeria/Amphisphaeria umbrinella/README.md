@@ -1,5 +1,4 @@
-Amphisphaeria umbrinella (Berk. & Broome) Sacc. SPECIES
-=======
+# Amphisphaeria umbrinella (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

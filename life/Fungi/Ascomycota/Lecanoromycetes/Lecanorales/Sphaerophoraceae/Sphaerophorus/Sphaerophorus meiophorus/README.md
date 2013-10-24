@@ -1,5 +1,4 @@
-Sphaerophorus meiophorus (Nyl.) Vain. SPECIES
-=======
+# Sphaerophorus meiophorus (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

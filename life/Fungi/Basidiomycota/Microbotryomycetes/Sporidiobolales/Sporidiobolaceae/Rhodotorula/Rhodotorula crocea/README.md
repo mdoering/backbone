@@ -1,5 +1,4 @@
-Rhodotorula crocea Shifrine & Phaff SPECIES
-=======
+# Rhodotorula crocea Shifrine & Phaff SPECIES
 
 #### Status
 ACCEPTED

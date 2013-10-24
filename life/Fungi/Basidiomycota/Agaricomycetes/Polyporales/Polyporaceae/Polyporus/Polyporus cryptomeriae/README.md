@@ -1,5 +1,4 @@
-Polyporus cryptomeriae Henn. SPECIES
-=======
+# Polyporus cryptomeriae Henn. SPECIES
 
 #### Status
 ACCEPTED

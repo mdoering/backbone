@@ -1,5 +1,4 @@
-Caloplaca demissa (Körb.) Arup & Grube SPECIES
-=======
+# Caloplaca demissa (Körb.) Arup & Grube SPECIES
 
 #### Status
 ACCEPTED

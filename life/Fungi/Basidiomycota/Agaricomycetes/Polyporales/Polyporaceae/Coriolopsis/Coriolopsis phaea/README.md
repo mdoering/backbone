@@ -1,5 +1,4 @@
-Coriolopsis phaea (Lév.) Teng SPECIES
-=======
+# Coriolopsis phaea (Lév.) Teng SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria bundiensis A.W. Archer & Elix SPECIES
-=======
+# Pertusaria bundiensis A.W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

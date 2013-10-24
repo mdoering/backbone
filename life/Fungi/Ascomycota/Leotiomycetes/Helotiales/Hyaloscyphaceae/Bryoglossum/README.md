@@ -1,5 +1,4 @@
-Bryoglossum Redhead GENUS
-=======
+# Bryoglossum Redhead GENUS
 
 #### Status
 ACCEPTED

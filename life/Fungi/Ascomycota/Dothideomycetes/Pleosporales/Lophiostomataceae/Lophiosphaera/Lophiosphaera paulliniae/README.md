@@ -1,5 +1,4 @@
-Lophiosphaera paulliniae Bat. & J.L. Bezerra SPECIES
-=======
+# Lophiosphaera paulliniae Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

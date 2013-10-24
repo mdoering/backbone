@@ -1,5 +1,4 @@
-Uredo inouyei Henn. & Shirai SPECIES
-=======
+# Uredo inouyei Henn. & Shirai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botriocyrtis Bütschli, 1881 GENUS
-=======
+# Botriocyrtis Bütschli, 1881 GENUS
 
 #### Status
 ACCEPTED

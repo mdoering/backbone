@@ -1,5 +1,4 @@
-Dasypyrena lauricola Speg. SPECIES
-=======
+# Dasypyrena lauricola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Desmella obovata Arthur SPECIES
-=======
+# Desmella obovata Arthur SPECIES
 
 #### Status
 ACCEPTED

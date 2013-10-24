@@ -1,5 +1,4 @@
-Agaricus congolensis Beeli SPECIES
-=======
+# Agaricus congolensis Beeli SPECIES
 
 #### Status
 ACCEPTED

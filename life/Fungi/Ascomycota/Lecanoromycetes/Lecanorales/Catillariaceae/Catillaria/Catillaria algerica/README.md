@@ -1,5 +1,4 @@
-Catillaria algerica B. de Lesd. SPECIES
-=======
+# Catillaria algerica B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

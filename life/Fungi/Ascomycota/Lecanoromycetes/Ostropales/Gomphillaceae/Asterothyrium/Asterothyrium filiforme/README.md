@@ -1,5 +1,4 @@
-Asterothyrium filiforme Lücking & R. Sant. SPECIES
-=======
+# Asterothyrium filiforme Lücking & R. Sant. SPECIES
 
 #### Status
 ACCEPTED

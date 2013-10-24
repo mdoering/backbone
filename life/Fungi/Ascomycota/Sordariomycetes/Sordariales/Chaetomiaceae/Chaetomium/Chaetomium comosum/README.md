@@ -1,5 +1,4 @@
-Chaetomium comosum Bainier SPECIES
-=======
+# Chaetomium comosum Bainier SPECIES
 
 #### Status
 ACCEPTED

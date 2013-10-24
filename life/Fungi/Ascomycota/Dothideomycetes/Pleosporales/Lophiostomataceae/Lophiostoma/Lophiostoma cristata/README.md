@@ -1,5 +1,4 @@
-Lophiostoma cristata (Pers.) SPECIES
-=======
+# Lophiostoma cristata (Pers.) SPECIES
 
 #### Status
 ACCEPTED

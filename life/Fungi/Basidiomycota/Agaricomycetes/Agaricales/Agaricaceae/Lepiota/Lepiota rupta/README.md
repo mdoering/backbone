@@ -1,5 +1,4 @@
-Lepiota rupta Rick SPECIES
-=======
+# Lepiota rupta Rick SPECIES
 
 #### Status
 ACCEPTED

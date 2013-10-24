@@ -1,14 +1,13 @@
-Macmillanina opegraphodes (Malbr. & Sacc.) Kuntze SPECIES
-=======
+# Macmillanina opegraphoides (Malbr. & Sacc.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 491 (1898)
 
 #### Original name
 Cryptosporium opegraphoides Malbr. & Sacc.

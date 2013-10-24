@@ -1,5 +1,4 @@
-Uredo baphiae-nitidae J.M. Yen & Gilles SPECIES
-=======
+# Uredo baphiae-nitidae J.M. Yen & Gilles SPECIES
 
 #### Status
 ACCEPTED

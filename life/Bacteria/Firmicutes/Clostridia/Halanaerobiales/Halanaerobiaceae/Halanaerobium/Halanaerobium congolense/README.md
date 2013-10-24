@@ -1,5 +1,4 @@
-Halanaerobium congolense Ravot et al., 1998 SPECIES
-=======
+# Halanaerobium congolense Ravot et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

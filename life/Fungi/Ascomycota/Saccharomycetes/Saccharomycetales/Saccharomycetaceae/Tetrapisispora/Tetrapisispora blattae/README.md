@@ -1,14 +1,13 @@
-Kluyveromyces blattae Henninger & Windisch, 1977 SPECIES
-=======
+# Tetrapisispora blattae (Henninger & Windisch) Kurtzman, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Arch. Mikrobiol. 109(1-2): 155 (1977)
+FEMS Yeast Res. 4(3): 241 (2003)
 
 #### Original name
 Kluyveromyces blattae Henninger & Windisch, 1977

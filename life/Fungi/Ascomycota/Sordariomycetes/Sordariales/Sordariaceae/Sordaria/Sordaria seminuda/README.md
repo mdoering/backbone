@@ -1,5 +1,4 @@
-Sordaria seminuda Griffiths SPECIES
-=======
+# Sordaria seminuda Griffiths SPECIES
 
 #### Status
 ACCEPTED

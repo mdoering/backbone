@@ -1,5 +1,4 @@
-Phyllosticta populnea Desm. SPECIES
-=======
+# Phyllosticta populnea Desm. SPECIES
 
 #### Status
 ACCEPTED

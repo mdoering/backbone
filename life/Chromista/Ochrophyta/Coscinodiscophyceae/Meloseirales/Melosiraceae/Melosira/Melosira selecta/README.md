@@ -1,5 +1,4 @@
-Melosira selecta A. Schmidt, 1892 SPECIES
-=======
+# Melosira selecta A. Schmidt, 1892 SPECIES
 
 #### Status
 ACCEPTED

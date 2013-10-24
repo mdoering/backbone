@@ -1,5 +1,4 @@
-Rinodina subgranulata SPECIES
-=======
+# Rinodina subgranulata SPECIES
 
 #### Status
 ACCEPTED

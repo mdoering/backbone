@@ -1,5 +1,4 @@
-Collybia vestipes Velen. SPECIES
-=======
+# Collybia vestipes Velen. SPECIES
 
 #### Status
 ACCEPTED

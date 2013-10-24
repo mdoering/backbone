@@ -1,5 +1,4 @@
-Collybia sparsibarbis var. sparsibarbis VARIETY
-=======
+# Collybia sparsibarbis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Collybia sparsibarbis var. sparsibarbis
+Collybia sparsibarbis Berk. & Broome
 
 ### Remarks
 null

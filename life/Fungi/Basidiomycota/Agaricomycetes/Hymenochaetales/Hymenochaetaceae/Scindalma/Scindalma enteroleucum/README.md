@@ -1,5 +1,4 @@
-Scindalma enteroleucum (Fr.) Kuntze SPECIES
-=======
+# Scindalma enteroleucum (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

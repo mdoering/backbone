@@ -1,5 +1,4 @@
-Katablepharis Skuja, 1939 GENUS
-=======
+# Katablepharis Skuja, 1939 GENUS
 
 #### Status
 ACCEPTED

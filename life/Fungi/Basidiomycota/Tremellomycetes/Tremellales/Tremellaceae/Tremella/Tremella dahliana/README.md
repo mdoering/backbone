@@ -1,5 +1,4 @@
-Tremella dahliana Henn. SPECIES
-=======
+# Tremella dahliana Henn. SPECIES
 
 #### Status
 ACCEPTED

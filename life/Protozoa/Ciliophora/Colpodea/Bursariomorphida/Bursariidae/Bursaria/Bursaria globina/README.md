@@ -1,5 +1,4 @@
-Bursaria globina Müller, 1786 SPECIES
-=======
+# Bursaria globina Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

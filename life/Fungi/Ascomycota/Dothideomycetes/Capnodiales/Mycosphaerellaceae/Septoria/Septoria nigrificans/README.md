@@ -1,5 +1,4 @@
-Septoria nigrificans Pat. SPECIES
-=======
+# Septoria nigrificans Pat. SPECIES
 
 #### Status
 ACCEPTED

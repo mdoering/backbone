@@ -1,5 +1,4 @@
-Psathyra bulbillosa Fr. SPECIES
-=======
+# Psathyra bulbillosa Fr. SPECIES
 
 #### Status
 ACCEPTED

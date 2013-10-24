@@ -1,5 +1,4 @@
-Botrytis peronosporoides Sacc. SPECIES
-=======
+# Botrytis peronosporoides Sacc. SPECIES
 
 #### Status
 ACCEPTED

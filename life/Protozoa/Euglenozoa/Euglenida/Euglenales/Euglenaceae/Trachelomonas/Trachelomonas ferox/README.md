@@ -1,8 +1,7 @@
-Trachelomonas teres var. ferox Skvortzov VARIETY
-=======
+# Trachelomonas ferox (Skvortzov) Popova SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

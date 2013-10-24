@@ -1,14 +1,13 @@
-Glomus macrocarpum var. geosporus (T.H. Nicolson & Gerd.) Gerd. & Trappe, 1974 VARIETY
-=======
+# Glomus geosporum (T.H. Nicolson & Gerd.) C. Walker, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Mem. 5: 55 (1974)
+Mycotaxon 15: 56 (1982)
 
 #### Original name
 Endogone macrocarpa var. geospora T.H. Nicolson & Gerd., 1968

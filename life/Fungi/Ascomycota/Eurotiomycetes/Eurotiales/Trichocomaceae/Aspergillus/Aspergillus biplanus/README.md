@@ -1,5 +1,4 @@
-Aspergillus biplanus Raper & Fennell, 1965 SPECIES
-=======
+# Aspergillus biplanus Raper & Fennell, 1965 SPECIES
 
 #### Status
 ACCEPTED

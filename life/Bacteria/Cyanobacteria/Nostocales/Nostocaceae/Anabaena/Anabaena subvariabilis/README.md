@@ -1,5 +1,4 @@
-Anabaena subvariabilis R. E. M. Archibald SPECIES
-=======
+# Anabaena subvariabilis R. E. M. Archibald SPECIES
 
 #### Status
 ACCEPTED

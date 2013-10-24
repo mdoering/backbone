@@ -1,5 +1,4 @@
-Ophiobolus cajani Syd. SPECIES
-=======
+# Ophiobolus cajani Syd. SPECIES
 
 #### Status
 ACCEPTED

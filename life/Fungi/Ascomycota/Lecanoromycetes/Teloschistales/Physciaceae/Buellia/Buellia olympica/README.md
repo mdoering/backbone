@@ -1,5 +1,4 @@
-Buellia olympica SPECIES
-=======
+# Buellia olympica SPECIES
 
 #### Status
 ACCEPTED

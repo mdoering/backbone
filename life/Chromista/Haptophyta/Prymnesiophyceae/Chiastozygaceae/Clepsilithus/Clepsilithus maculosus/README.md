@@ -1,5 +1,4 @@
-Clepsilithus maculosus SPECIES
-=======
+# Clepsilithus maculosus SPECIES
 
 #### Status
 ACCEPTED

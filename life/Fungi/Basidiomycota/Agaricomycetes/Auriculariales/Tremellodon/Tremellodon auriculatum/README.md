@@ -1,5 +1,4 @@
-Tremellodon auriculatum (Fr.) Fr. SPECIES
-=======
+# Tremellodon auriculatum (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

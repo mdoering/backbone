@@ -1,5 +1,4 @@
-Cyclodothis GENUS
-=======
+# Cyclodothis GENUS
 
 #### Status
 ACCEPTED

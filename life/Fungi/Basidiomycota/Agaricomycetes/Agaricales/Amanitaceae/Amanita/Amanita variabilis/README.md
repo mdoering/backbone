@@ -1,5 +1,4 @@
-Amanita variabilis S. Curreli SPECIES
-=======
+# Amanita variabilis S. Curreli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium mali Velen. SPECIES
-=======
+# Helotium mali Velen. SPECIES
 
 #### Status
 ACCEPTED

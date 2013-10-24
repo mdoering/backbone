@@ -1,5 +1,4 @@
-Versicolorisporium triseptatum Sat. Hatak., Kaz. Tanaka & Y. Harada, 2008 SPECIES
-=======
+# Versicolorisporium triseptatum Sat. Hatak., Kaz. Tanaka & Y. Harada, 2008 SPECIES
 
 #### Status
 ACCEPTED

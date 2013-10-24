@@ -1,5 +1,4 @@
-Galactinia tosta Boud. SPECIES
-=======
+# Galactinia tosta Boud. SPECIES
 
 #### Status
 ACCEPTED

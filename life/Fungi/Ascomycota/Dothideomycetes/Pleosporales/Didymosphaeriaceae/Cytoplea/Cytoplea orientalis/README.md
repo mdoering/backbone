@@ -1,5 +1,4 @@
-Cytoplea orientalis B. Sutton SPECIES
-=======
+# Cytoplea orientalis B. Sutton SPECIES
 
 #### Status
 ACCEPTED

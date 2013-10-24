@@ -1,5 +1,4 @@
-Scirrhophragma regalis Theiss. & Syd. SPECIES
-=======
+# Scirrhophragma regalis Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

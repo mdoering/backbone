@@ -1,8 +1,7 @@
-Piptocephalis indica var. indica B.S. Mehrotra & Baijal, 1964 VARIETY
-=======
+# Piptocephalis indica B.S. Mehrotra & Baijal, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Sydowia 17: 171 (1964)
 
 #### Original name
-Piptocephalis indica var. indica B.S. Mehrotra & Baijal, 1964
+Piptocephalis indica B.S. Mehrotra & Baijal, 1964
 
 ### Remarks
 null

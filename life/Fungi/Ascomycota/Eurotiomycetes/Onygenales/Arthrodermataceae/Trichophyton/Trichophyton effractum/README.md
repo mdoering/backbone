@@ -1,5 +1,4 @@
-Trichophyton effractum Sabour. SPECIES
-=======
+# Trichophyton effractum Sabour. SPECIES
 
 #### Status
 ACCEPTED

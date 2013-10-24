@@ -1,5 +1,4 @@
-Lecidea fuliginata SPECIES
-=======
+# Lecidea fuliginata SPECIES
 
 #### Status
 ACCEPTED

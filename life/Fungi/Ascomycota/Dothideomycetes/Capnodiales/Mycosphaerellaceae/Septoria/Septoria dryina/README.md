@@ -1,5 +1,4 @@
-Septoria dryina Cooke SPECIES
-=======
+# Septoria dryina Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Montagnella platyplaca (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Montagnella platyplaca (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Castoreum Cooke & Massee GENUS
-=======
+# Castoreum Cooke & Massee GENUS
 
 #### Status
 ACCEPTED

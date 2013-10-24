@@ -1,5 +1,4 @@
-Phaeopeltosphaeria salsolae Frolov SPECIES
-=======
+# Phaeopeltosphaeria salsolae Frolov SPECIES
 
 #### Status
 ACCEPTED

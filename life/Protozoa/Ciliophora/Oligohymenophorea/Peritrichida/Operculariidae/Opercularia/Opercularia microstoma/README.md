@@ -1,5 +1,4 @@
-Opercularia microstoma Stein, 1868 SPECIES
-=======
+# Opercularia microstoma Stein, 1868 SPECIES
 
 #### Status
 ACCEPTED

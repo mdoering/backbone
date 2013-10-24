@@ -1,5 +1,4 @@
-Entyloma pammelii H.H. Hume SPECIES
-=======
+# Entyloma pammelii H.H. Hume SPECIES
 
 #### Status
 ACCEPTED

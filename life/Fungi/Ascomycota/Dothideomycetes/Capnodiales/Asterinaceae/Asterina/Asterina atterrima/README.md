@@ -1,5 +1,4 @@
-Asterina atterrima Syd. SPECIES
-=======
+# Asterina atterrima Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria chartarum Sacc. & P. Syd. SPECIES
-=======
+# Metasphaeria chartarum Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

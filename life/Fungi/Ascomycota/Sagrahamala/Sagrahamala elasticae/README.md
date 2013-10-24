@@ -1,5 +1,4 @@
-Sagrahamala elasticae (Koord.) Subram. SPECIES
-=======
+# Sagrahamala elasticae (Koord.) Subram. SPECIES
 
 #### Status
 ACCEPTED

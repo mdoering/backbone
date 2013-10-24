@@ -1,5 +1,4 @@
-Amblyosporiopsis parasphenoides Fairm. SPECIES
-=======
+# Amblyosporiopsis parasphenoides Fairm. SPECIES
 
 #### Status
 ACCEPTED

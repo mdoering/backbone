@@ -1,5 +1,4 @@
-Russula purpureolilacina Fayod SPECIES
-=======
+# Russula purpureolilacina Fayod SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria dennisii Narula & Rawla SPECIES
-=======
+# Xylaria dennisii Narula & Rawla SPECIES
 
 #### Status
 ACCEPTED

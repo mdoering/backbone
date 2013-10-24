@@ -1,5 +1,4 @@
-Limacinula musicola (Bat.) D.R. Reynolds SPECIES
-=======
+# Limacinula musicola (Bat.) D.R. Reynolds SPECIES
 
 #### Status
 ACCEPTED

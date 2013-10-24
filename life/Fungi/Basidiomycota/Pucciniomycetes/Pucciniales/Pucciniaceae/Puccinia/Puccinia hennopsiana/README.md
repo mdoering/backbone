@@ -1,5 +1,4 @@
-Puccinia hennopsiana Doidge SPECIES
-=======
+# Puccinia hennopsiana Doidge SPECIES
 
 #### Status
 ACCEPTED

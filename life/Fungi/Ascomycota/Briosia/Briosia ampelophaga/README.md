@@ -1,5 +1,4 @@
-Briosia ampelophaga Cavara, 1888 SPECIES
-=======
+# Briosia ampelophaga Cavara, 1888 SPECIES
 
 #### Status
 ACCEPTED

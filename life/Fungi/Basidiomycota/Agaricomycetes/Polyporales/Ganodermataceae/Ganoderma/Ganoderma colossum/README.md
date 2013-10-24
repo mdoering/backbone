@@ -1,5 +1,4 @@
-Ganoderma colossum (Fr.) Baker SPECIES
-=======
+# Ganoderma colossum (Fr.) Baker SPECIES
 
 #### Status
 ACCEPTED

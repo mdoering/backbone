@@ -1,5 +1,4 @@
-Tilletia narayanaraoana Mundk. & Thirum. SPECIES
-=======
+# Tilletia narayanaraoana Mundk. & Thirum. SPECIES
 
 #### Status
 ACCEPTED

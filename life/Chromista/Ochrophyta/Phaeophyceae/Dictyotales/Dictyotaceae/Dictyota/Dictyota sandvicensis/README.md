@@ -1,5 +1,4 @@
-Dictyota sandvicensis Sonder SPECIES
-=======
+# Dictyota sandvicensis Sonder SPECIES
 
 #### Status
 ACCEPTED

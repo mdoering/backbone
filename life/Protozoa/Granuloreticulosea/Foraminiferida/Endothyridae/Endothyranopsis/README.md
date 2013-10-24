@@ -1,5 +1,4 @@
-Endothyranopsis Cummings, 1955 GENUS
-=======
+# Endothyranopsis Cummings, 1955 GENUS
 
 #### Status
 ACCEPTED

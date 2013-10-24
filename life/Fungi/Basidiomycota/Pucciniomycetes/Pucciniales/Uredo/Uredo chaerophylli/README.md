@@ -1,5 +1,4 @@
-Uredo chaerophylli Kirchn. SPECIES
-=======
+# Uredo chaerophylli Kirchn. SPECIES
 
 #### Status
 ACCEPTED

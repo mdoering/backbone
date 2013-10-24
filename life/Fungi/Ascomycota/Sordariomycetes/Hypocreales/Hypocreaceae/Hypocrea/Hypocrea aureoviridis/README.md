@@ -1,17 +1,16 @@
-Hypocrea aureoviridis f. aureoviridis FORM
-=======
+# Hypocrea aureoviridis Plowr. & Cooke, 1880 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 in Phillips & Plowright, Grevillea 8(no. 47): 104 (1880)
 
 #### Original name
-Hypocrea aureoviridis f. aureoviridis
+Hypocrea aureoviridis Plowr. & Cooke, 1880
 
 ### Remarks
 null

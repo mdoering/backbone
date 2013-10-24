@@ -1,5 +1,4 @@
-Cantharellus haplorutis Mont. SPECIES
-=======
+# Cantharellus haplorutis Mont. SPECIES
 
 #### Status
 ACCEPTED

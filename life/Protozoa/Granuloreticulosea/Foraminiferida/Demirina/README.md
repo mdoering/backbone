@@ -1,5 +1,4 @@
-Demirina Ozcan, 1994 GENUS
-=======
+# Demirina Ozcan, 1994 GENUS
 
 #### Status
 ACCEPTED

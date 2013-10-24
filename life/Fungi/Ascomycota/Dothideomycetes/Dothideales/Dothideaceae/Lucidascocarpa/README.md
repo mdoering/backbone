@@ -1,5 +1,4 @@
-Lucidascocarpa A. Ferrer, Raja & Shearer GENUS
-=======
+# Lucidascocarpa A. Ferrer, Raja & Shearer GENUS
 
 #### Status
 ACCEPTED

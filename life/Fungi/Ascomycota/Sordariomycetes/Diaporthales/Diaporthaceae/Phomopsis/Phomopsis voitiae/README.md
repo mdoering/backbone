@@ -1,5 +1,4 @@
-Phomopsis voitiae Ohl SPECIES
-=======
+# Phomopsis voitiae Ohl SPECIES
 
 #### Status
 ACCEPTED

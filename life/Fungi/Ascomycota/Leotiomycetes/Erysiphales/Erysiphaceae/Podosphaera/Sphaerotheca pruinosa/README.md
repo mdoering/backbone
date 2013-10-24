@@ -1,5 +1,4 @@
-Sphaerotheca pruinosa Cooke & Peck SPECIES
-=======
+# Sphaerotheca pruinosa Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

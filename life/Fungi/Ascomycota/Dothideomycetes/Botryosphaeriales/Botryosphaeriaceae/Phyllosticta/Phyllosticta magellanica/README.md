@@ -1,5 +1,4 @@
-Phyllosticta magellanica Speg. SPECIES
-=======
+# Phyllosticta magellanica Speg. SPECIES
 
 #### Status
 ACCEPTED

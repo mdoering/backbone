@@ -1,17 +1,16 @@
-Hypoxylon baileyi Berk. & Broome ex Cooke, 1883 SPECIES
-=======
+# Biscogniauxia baileyi (Berk. & Broome ex Cooke) Kuntze, 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 12(no. 61): 6 (1883)
+Revis. gen. pl. (Leipzig) 2: 398 (1891)
 
 #### Original name
-Hypoxylon baileyi Berk. & Broome ex Cooke, 1883
+Nummularia baileyi Berk. & Broome ex Cooke, 1883
 
 ### Remarks
 null

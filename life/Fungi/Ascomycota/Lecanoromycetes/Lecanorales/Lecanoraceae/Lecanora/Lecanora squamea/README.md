@@ -1,5 +1,4 @@
-Lecanora squamea M. Choisy SPECIES
-=======
+# Lecanora squamea M. Choisy SPECIES
 
 #### Status
 ACCEPTED

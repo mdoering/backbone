@@ -1,5 +1,4 @@
-Omphalophallus retusus Kalchbr. SPECIES
-=======
+# Omphalophallus retusus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

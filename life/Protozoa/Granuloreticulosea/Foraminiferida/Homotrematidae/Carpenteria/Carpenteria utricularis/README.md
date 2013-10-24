@@ -1,5 +1,4 @@
-Carpenteria utricularis SPECIES
-=======
+# Carpenteria utricularis SPECIES
 
 #### Status
 ACCEPTED

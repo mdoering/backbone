@@ -1,14 +1,13 @@
-Diplodina deformis (P. Karst.) Sacc. SPECIES
-=======
+# Ascochyta deformis (P. Karst.) P.K. Buchanan, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 156: 55 (1987)
 
 #### Original name
 Diplodia deformis P. Karst.

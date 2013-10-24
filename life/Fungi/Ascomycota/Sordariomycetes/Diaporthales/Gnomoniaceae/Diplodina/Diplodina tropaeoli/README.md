@@ -1,5 +1,4 @@
-Diplodina tropaeoli Roum. & Fautrey SPECIES
-=======
+# Diplodina tropaeoli Roum. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

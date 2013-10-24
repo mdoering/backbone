@@ -1,5 +1,4 @@
-Lophophacidium dooksii Corlett & Shoemaker, 1984 SPECIES
-=======
+# Lophophacidium dooksii Corlett & Shoemaker, 1984 SPECIES
 
 #### Status
 ACCEPTED

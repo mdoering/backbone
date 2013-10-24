@@ -1,5 +1,4 @@
-Sporonema rameale var. crassisporum Moesz VARIETY
-=======
+# Sporonema rameale Desm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sporonema rameale var. crassisporum Moesz
+Sporonema rameale Desm.
 
 ### Remarks
 null

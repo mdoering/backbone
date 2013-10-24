@@ -1,17 +1,16 @@
-Sphaerella syringaecola G.H. Otth SPECIES
-=======
+# Sphaerella syringicola G.H. Otth SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mitt. naturf. Ges. Bern 1870: 110 (1871)
 
 #### Original name
-Sphaerella syringaecola G.H. Otth
+Sphaerella syringicola G.H. Otth
 
 ### Remarks
 null

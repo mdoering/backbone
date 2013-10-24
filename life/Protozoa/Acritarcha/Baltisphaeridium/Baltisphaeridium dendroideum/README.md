@@ -1,5 +1,4 @@
-Baltisphaeridium dendroideum Jankauskas, 1976 SPECIES
-=======
+# Baltisphaeridium dendroideum Jankauskas, 1976 SPECIES
 
 #### Status
 ACCEPTED

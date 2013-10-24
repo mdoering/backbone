@@ -1,5 +1,4 @@
-Krombholziella aberrans (J. Blum) Bon SPECIES
-=======
+# Krombholziella aberrans (J. Blum) Bon SPECIES
 
 #### Status
 ACCEPTED

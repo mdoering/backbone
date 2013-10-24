@@ -1,5 +1,4 @@
-Bacidia granulifera (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia granulifera (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

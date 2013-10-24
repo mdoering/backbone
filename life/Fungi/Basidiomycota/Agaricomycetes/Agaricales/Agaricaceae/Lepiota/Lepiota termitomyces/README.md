@@ -1,5 +1,4 @@
-Lepiota termitomyces Guzm.-Dáv. & Guzmán SPECIES
-=======
+# Lepiota termitomyces Guzm.-Dáv. & Guzmán SPECIES
 
 #### Status
 ACCEPTED

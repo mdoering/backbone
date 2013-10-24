@@ -1,5 +1,4 @@
-Fayodia granulospora G. Stev., 1964 SPECIES
-=======
+# Fayodia granulospora G. Stev., 1964 SPECIES
 
 #### Status
 ACCEPTED

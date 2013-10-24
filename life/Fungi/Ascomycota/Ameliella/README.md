@@ -1,5 +1,4 @@
-Ameliella Fryday & Coppins GENUS
-=======
+# Ameliella Fryday & Coppins GENUS
 
 #### Status
 ACCEPTED

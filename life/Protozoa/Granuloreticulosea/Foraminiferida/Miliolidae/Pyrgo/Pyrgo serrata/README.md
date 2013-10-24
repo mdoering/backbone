@@ -1,5 +1,4 @@
-Pyrgo serrata (Bailey) SPECIES
-=======
+# Pyrgo serrata (Bailey) SPECIES
 
 #### Status
 ACCEPTED

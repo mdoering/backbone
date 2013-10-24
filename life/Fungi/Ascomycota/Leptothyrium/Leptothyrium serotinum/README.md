@@ -1,5 +1,4 @@
-Leptothyrium serotinum Kabát & Bubák SPECIES
-=======
+# Leptothyrium serotinum Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

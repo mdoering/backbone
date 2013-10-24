@@ -1,5 +1,4 @@
-Phyllactinia pteroceltidis Y.N. Yu & S.J. Han SPECIES
-=======
+# Phyllactinia pteroceltidis Y.N. Yu & S.J. Han SPECIES
 
 #### Status
 ACCEPTED

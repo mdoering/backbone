@@ -1,5 +1,4 @@
-Agaricus conferruminatus Mont. SPECIES
-=======
+# Agaricus conferruminatus Mont. SPECIES
 
 #### Status
 ACCEPTED

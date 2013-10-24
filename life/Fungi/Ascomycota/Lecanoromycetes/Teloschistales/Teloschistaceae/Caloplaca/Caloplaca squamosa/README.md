@@ -1,17 +1,16 @@
-Caloplaca squamosa var. squamosa (B. de Lesd.) Zahlbr. VARIETY
-=======
+# Caloplaca squamosa (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Caloplaca squamosa var. squamosa (B. de Lesd.) Zahlbr.
+Placodium squamosum B. de Lesd.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Etymalbaillella GENUS
-=======
+# Etymalbaillella GENUS
 
 #### Status
 ACCEPTED

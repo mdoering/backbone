@@ -1,5 +1,4 @@
-Stropharia chloroconia (Berk. & Broome) Sacc. SPECIES
-=======
+# Stropharia chloroconia (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

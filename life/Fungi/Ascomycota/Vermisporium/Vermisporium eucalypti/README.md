@@ -1,5 +1,4 @@
-Vermisporium eucalypti (McAlpine) Nag Raj, 1993 SPECIES
-=======
+# Vermisporium eucalypti (McAlpine) Nag Raj, 1993 SPECIES
 
 #### Status
 ACCEPTED

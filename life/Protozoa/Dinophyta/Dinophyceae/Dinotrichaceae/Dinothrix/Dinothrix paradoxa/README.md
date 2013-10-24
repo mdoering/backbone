@@ -1,5 +1,4 @@
-Dinothrix paradoxa Pascher SPECIES
-=======
+# Dinothrix paradoxa Pascher SPECIES
 
 #### Status
 ACCEPTED

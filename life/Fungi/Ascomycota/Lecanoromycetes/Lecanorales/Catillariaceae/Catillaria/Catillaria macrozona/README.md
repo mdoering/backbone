@@ -1,5 +1,4 @@
-Catillaria macrozona (Fée) Zahlbr. SPECIES
-=======
+# Catillaria macrozona (Fée) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

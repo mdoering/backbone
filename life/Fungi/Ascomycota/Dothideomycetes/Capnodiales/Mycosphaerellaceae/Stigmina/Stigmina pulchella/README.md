@@ -1,5 +1,4 @@
-Stigmina pulchella Speg. SPECIES
-=======
+# Stigmina pulchella Speg. SPECIES
 
 #### Status
 ACCEPTED

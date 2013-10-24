@@ -1,5 +1,4 @@
-Craterium subulatum Sacc. SPECIES
-=======
+# Craterium subulatum Sacc. SPECIES
 
 #### Status
 ACCEPTED

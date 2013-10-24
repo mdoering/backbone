@@ -1,5 +1,4 @@
-Stereum kalchbrenneri Massee SPECIES
-=======
+# Stereum kalchbrenneri Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentophoma GENUS
-=======
+# Lentophoma GENUS
 
 #### Status
 ACCEPTED

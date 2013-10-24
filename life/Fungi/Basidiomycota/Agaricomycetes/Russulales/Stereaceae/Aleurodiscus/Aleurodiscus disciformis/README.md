@@ -1,17 +1,16 @@
-Peniophora disciformis var. disciformis VARIETY
-=======
+# Aleurodiscus disciformis (DC.) Pat., 1894 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 8(no. 45): 20 (1879)
+Bull. Soc. mycol. Fr. 10(2): 80 (1894)
 
 #### Original name
-Peniophora disciformis var. disciformis
+Thelephora disciformis DC., 1815
 
 ### Remarks
 null

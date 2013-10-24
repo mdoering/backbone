@@ -1,5 +1,4 @@
-Mesodictyon cyclotelloides E. Theriot SPECIES
-=======
+# Mesodictyon cyclotelloides E. Theriot SPECIES
 
 #### Status
 ACCEPTED

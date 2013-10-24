@@ -1,5 +1,4 @@
-Omphalia pithya Velen. SPECIES
-=======
+# Omphalia pithya Velen. SPECIES
 
 #### Status
 ACCEPTED

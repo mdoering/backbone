@@ -1,5 +1,4 @@
-Coenogonium isidiiferum (Lücking) Lücking SPECIES
-=======
+# Coenogonium isidiiferum (Lücking) Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium diospyri A.L. Sm. SPECIES
-=======
+# Aecidium diospyri A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

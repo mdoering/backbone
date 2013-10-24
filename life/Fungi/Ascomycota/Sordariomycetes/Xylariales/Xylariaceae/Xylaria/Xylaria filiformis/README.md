@@ -1,17 +1,16 @@
-Xylaria filiformis f. caulincola Rehm FORM
-=======
+# Xylaria filiformis (Alb. & Schwein.) Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 10(1): 57 (1912)
+Summa veg. Scand. (Stockholm), Section Post. 382 (1849)
 
 #### Original name
-Xylaria filiformis f. caulincola Rehm
+Sphaeria filiformis Alb. & Schwein., 1805
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Uredo schizachyrii Doidge SPECIES
-=======
+# Uredo schizachyrii Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sparrowia parasitica Willoughby, 1963 SPECIES
-=======
+# Sparrowia parasitica Willoughby, 1963 SPECIES
 
 #### Status
 ACCEPTED

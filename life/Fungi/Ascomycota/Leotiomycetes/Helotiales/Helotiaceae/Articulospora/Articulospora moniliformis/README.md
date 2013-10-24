@@ -1,17 +1,16 @@
-Articulospora moniliforma Ranzoni SPECIES
-=======
+# Articulospora moniliformis Ranzoni, 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Farlowia 4: 366 (1953)
 
 #### Original name
-Articulospora moniliforma Ranzoni
+Articulospora moniliformis Ranzoni, 1953
 
 ### Remarks
 null

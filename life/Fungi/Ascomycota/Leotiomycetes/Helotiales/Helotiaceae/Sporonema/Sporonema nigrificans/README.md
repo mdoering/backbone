@@ -1,5 +1,4 @@
-Sporonema nigrificans Petr. SPECIES
-=======
+# Sporonema nigrificans Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aulographum subconfluens Peck SPECIES
-=======
+# Aulographum subconfluens Peck SPECIES
 
 #### Status
 ACCEPTED

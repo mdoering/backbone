@@ -1,5 +1,4 @@
-Polyporus subpalmatus (Saut.) SPECIES
-=======
+# Polyporus subpalmatus (Saut.) SPECIES
 
 #### Status
 ACCEPTED

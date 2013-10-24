@@ -1,5 +1,4 @@
-Nocardioides aromaticivorans Kubota et al., 2005 SPECIES
-=======
+# Nocardioides aromaticivorans Kubota et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

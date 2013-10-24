@@ -1,17 +1,16 @@
-Diplodia photiniaecola Brunaud SPECIES
-=======
+# Diplodia photiniicola Brunaud SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue mycol. , Toulouse 8: 141 (1886)
 
 #### Original name
-Diplodia photiniaecola Brunaud
+Diplodia photiniicola Brunaud
 
 ### Remarks
 null

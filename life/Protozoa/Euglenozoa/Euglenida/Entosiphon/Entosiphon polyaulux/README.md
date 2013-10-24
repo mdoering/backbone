@@ -1,5 +1,4 @@
-Entosiphon polyaulux SPECIES
-=======
+# Entosiphon polyaulux SPECIES
 
 #### Status
 ACCEPTED

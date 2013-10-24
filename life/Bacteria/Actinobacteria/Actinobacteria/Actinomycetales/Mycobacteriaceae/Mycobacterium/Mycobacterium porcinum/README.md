@@ -1,5 +1,4 @@
-Mycobacterium porcinum Tsukamura et al., 1983 SPECIES
-=======
+# Mycobacterium porcinum Tsukamura et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

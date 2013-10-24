@@ -1,5 +1,4 @@
-Rosellinia nigerrima Peyronel SPECIES
-=======
+# Rosellinia nigerrima Peyronel SPECIES
 
 #### Status
 ACCEPTED

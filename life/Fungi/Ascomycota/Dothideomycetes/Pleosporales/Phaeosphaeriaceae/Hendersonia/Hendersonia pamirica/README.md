@@ -1,5 +1,4 @@
-Hendersonia pamirica Golovin SPECIES
-=======
+# Hendersonia pamirica Golovin SPECIES
 
 #### Status
 ACCEPTED

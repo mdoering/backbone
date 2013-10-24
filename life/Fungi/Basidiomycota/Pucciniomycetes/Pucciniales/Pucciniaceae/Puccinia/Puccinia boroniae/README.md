@@ -1,5 +1,4 @@
-Puccinia boroniae Henn. SPECIES
-=======
+# Puccinia boroniae Henn. SPECIES
 
 #### Status
 ACCEPTED

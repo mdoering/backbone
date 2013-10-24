@@ -1,5 +1,4 @@
-Lepraria collemoides Fr. SPECIES
-=======
+# Lepraria collemoides Fr. SPECIES
 
 #### Status
 ACCEPTED

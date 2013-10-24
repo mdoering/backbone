@@ -1,5 +1,4 @@
-Oxytoxum nanus Halldal SPECIES
-=======
+# Oxytoxum nanus Halldal SPECIES
 
 #### Status
 ACCEPTED

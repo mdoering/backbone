@@ -1,5 +1,4 @@
-Gyrodinium culeus Kofoid & Swezy, 1921 SPECIES
-=======
+# Gyrodinium culeus Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

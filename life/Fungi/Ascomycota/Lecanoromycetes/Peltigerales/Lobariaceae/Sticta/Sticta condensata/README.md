@@ -1,5 +1,4 @@
-Sticta condensata Zahlbr. SPECIES
-=======
+# Sticta condensata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

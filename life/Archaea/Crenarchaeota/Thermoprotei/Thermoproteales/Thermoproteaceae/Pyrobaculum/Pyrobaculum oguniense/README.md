@@ -1,5 +1,4 @@
-Pyrobaculum oguniense Sako et al., 2001 SPECIES
-=======
+# Pyrobaculum oguniense Sako et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

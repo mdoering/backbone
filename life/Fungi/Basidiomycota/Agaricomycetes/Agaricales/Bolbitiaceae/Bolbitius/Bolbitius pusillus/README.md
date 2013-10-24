@@ -1,5 +1,4 @@
-Bolbitius pusillus I.G. Borshch. SPECIES
-=======
+# Bolbitius pusillus I.G. Borshch. SPECIES
 
 #### Status
 ACCEPTED

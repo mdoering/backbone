@@ -1,5 +1,4 @@
-Arthonia picea Vain. SPECIES
-=======
+# Arthonia picea Vain. SPECIES
 
 #### Status
 ACCEPTED

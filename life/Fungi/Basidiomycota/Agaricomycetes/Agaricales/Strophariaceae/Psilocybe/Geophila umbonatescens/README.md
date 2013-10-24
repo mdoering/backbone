@@ -1,5 +1,4 @@
-Geophila umbonatescens (Peck) Kühner & Romagn. SPECIES
-=======
+# Geophila umbonatescens (Peck) Kühner & Romagn. SPECIES
 
 #### Status
 ACCEPTED

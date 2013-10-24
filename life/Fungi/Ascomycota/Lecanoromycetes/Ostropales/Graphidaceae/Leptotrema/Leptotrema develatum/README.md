@@ -1,5 +1,4 @@
-Leptotrema develatum (Nyl.) Zahlbr. SPECIES
-=======
+# Leptotrema develatum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

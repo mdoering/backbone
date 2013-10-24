@@ -1,5 +1,4 @@
-Pezizella chrysostigma (Fr. Fr.) Sacc. SPECIES
-=======
+# Pezizella chrysostigma (Fr. Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

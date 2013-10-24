@@ -1,5 +1,4 @@
-Epistylis crassicollis Stein, 1867 SPECIES
-=======
+# Epistylis crassicollis Stein, 1867 SPECIES
 
 #### Status
 ACCEPTED

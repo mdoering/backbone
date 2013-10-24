@@ -1,5 +1,4 @@
-Truncodiscoaster Prins GENUS
-=======
+# Truncodiscoaster Prins GENUS
 
 #### Status
 ACCEPTED

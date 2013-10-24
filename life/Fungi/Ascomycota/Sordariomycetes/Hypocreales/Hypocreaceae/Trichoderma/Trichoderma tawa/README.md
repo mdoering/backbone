@@ -1,5 +1,4 @@
-Trichoderma tawa P. Chaverri & Samuels SPECIES
-=======
+# Trichoderma tawa P. Chaverri & Samuels SPECIES
 
 #### Status
 ACCEPTED

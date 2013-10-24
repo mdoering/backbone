@@ -1,5 +1,4 @@
-Asterinella manaosensis (Henn.) Theiss. SPECIES
-=======
+# Asterinella manaosensis (Henn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

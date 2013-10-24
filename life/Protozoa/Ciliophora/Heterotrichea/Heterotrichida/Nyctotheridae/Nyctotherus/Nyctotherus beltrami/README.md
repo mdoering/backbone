@@ -1,5 +1,4 @@
-Nyctotherus beltrami Hegner, 1940 SPECIES
-=======
+# Nyctotherus beltrami Hegner, 1940 SPECIES
 
 #### Status
 ACCEPTED

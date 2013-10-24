@@ -1,5 +1,4 @@
-Mycosphaerella patouillardii (Sacc.) Maire & Werner SPECIES
-=======
+# Mycosphaerella patouillardii (Sacc.) Maire & Werner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnea chrysotricha Rehm SPECIES
-=======
+# Lachnea chrysotricha Rehm SPECIES
 
 #### Status
 ACCEPTED

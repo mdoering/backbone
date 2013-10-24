@@ -1,5 +1,4 @@
-Tilletia levis J.G. Kühn SPECIES
-=======
+# Tilletia levis J.G. Kühn SPECIES
 
 #### Status
 ACCEPTED

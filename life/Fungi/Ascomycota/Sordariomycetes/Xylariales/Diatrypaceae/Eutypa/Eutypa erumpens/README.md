@@ -1,5 +1,4 @@
-Eutypa erumpens Massee SPECIES
-=======
+# Eutypa erumpens Massee SPECIES
 
 #### Status
 ACCEPTED

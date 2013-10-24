@@ -1,14 +1,13 @@
-Oidium lanosum (Cooke) Linder, 1942 SPECIES
-=======
+# Rhinotrichum lanosum Cooke, 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lloydia 5(3): 172 (1942)
+Handbook of British Fungi 2: 591 (1871)
 
 #### Original name
 Rhinotrichum lanosum Cooke, 1871

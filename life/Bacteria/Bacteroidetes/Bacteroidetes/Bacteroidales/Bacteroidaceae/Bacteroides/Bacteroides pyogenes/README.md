@@ -1,5 +1,4 @@
-Bacteroides pyogenes Benno et al., 1983 SPECIES
-=======
+# Bacteroides pyogenes Benno et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

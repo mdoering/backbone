@@ -1,5 +1,4 @@
-Agaricus tergiversans Fr. SPECIES
-=======
+# Agaricus tergiversans Fr. SPECIES
 
 #### Status
 ACCEPTED

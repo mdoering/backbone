@@ -1,5 +1,4 @@
-Lamprospora exasperata (Berk. & M.A. Curtis) Seaver SPECIES
-=======
+# Lamprospora exasperata (Berk. & M.A. Curtis) Seaver SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endophragmiella bitriseptata Goh, K.D. Hyde & Steinke SPECIES
-=======
+# Endophragmiella bitriseptata Goh, K.D. Hyde & Steinke SPECIES
 
 #### Status
 ACCEPTED

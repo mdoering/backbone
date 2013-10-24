@@ -1,5 +1,4 @@
-Rhizopogon clavitisporus A.H. Sm. SPECIES
-=======
+# Rhizopogon clavitisporus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

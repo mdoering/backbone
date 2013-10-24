@@ -1,5 +1,4 @@
-Caldanaerobacter subterraneus subsp. subterraneus SUBSPECIES
-=======
+# Caldanaerobacter subterraneus (Fardeau et al., 2000) Fardeau et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

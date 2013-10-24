@@ -1,5 +1,4 @@
-Hyalorhinocladiella pinicola K. Jacobs & M.J. Wingf. SPECIES
-=======
+# Hyalorhinocladiella pinicola K. Jacobs & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nolanea heimii (Romagn.) Pegler SPECIES
-=======
+# Nolanea heimii (Romagn.) Pegler SPECIES
 
 #### Status
 ACCEPTED

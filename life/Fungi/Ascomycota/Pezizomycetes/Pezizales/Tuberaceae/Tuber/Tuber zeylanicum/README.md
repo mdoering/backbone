@@ -1,5 +1,4 @@
-Tuber zeylanicum Berk. & Broome SPECIES
-=======
+# Tuber zeylanicum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

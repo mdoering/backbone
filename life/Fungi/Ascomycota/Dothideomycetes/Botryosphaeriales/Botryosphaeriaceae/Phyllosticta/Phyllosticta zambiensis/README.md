@@ -1,5 +1,4 @@
-Phyllosticta zambiensis Cejp SPECIES
-=======
+# Phyllosticta zambiensis Cejp SPECIES
 
 #### Status
 ACCEPTED

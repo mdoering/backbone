@@ -1,5 +1,4 @@
-Phyllosticta treleasei Berl. & Voglino SPECIES
-=======
+# Phyllosticta treleasei Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

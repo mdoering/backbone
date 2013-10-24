@@ -1,5 +1,4 @@
-Conoplea atra var. atra VARIETY
-=======
+# Conoplea atra Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syn. meth. fung. (Göttingen) 1: 235 (1801)
 
 #### Original name
-Conoplea atra var. atra
+Conoplea atra Pers.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Arthonia limitata Nyl. SPECIES
-=======
+# Arthonia limitata Nyl. SPECIES
 
 #### Status
 ACCEPTED

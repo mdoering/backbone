@@ -1,5 +1,4 @@
-Sphaeria lignea Pers. SPECIES
-=======
+# Sphaeria lignea Pers. SPECIES
 
 #### Status
 ACCEPTED

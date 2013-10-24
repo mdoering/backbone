@@ -1,5 +1,4 @@
-Helicorbitoides MacGillavry, 1963 GENUS
-=======
+# Helicorbitoides MacGillavry, 1963 GENUS
 
 #### Status
 ACCEPTED

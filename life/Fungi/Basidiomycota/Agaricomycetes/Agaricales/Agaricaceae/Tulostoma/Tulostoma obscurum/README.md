@@ -1,5 +1,4 @@
-Tulostoma obscurum J.E. Wright SPECIES
-=======
+# Tulostoma obscurum J.E. Wright SPECIES
 
 #### Status
 ACCEPTED

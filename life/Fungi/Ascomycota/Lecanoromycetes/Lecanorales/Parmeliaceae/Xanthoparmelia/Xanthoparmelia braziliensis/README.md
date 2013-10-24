@@ -1,5 +1,4 @@
-Xanthoparmelia braziliensis T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia braziliensis T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

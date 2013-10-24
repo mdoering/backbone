@@ -1,5 +1,4 @@
-Callopisma paepalostomum (Anzi) Jatta SPECIES
-=======
+# Callopisma paepalostomum (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

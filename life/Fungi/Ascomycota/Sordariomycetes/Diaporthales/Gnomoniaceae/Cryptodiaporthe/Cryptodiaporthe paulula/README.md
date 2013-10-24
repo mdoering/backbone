@@ -1,5 +1,4 @@
-Cryptodiaporthe paulula (Cooke & Ellis) Wehm. SPECIES
-=======
+# Cryptodiaporthe paulula (Cooke & Ellis) Wehm. SPECIES
 
 #### Status
 ACCEPTED

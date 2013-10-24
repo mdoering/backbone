@@ -1,17 +1,16 @@
-Verrucaria papillosa f. papillosa FORM
-=======
+# Verrucaria papillosa Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. univ. 286 (1810)
+null
 
 #### Original name
-Verrucaria papillosa f. papillosa
+Verrucaria papillosa Ach.
 
 ### Remarks
 null

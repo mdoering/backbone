@@ -1,5 +1,4 @@
-Rickia europsis Thaxt. SPECIES
-=======
+# Rickia europsis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

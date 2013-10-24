@@ -1,5 +1,4 @@
-Ramalina crispans Werner SPECIES
-=======
+# Ramalina crispans Werner SPECIES
 
 #### Status
 ACCEPTED

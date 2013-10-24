@@ -1,5 +1,4 @@
-Pseudopolymorphina curta SPECIES
-=======
+# Pseudopolymorphina curta SPECIES
 
 #### Status
 ACCEPTED

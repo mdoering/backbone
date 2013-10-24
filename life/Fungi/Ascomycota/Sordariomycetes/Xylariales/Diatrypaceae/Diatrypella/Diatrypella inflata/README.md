@@ -1,5 +1,4 @@
-Diatrypella inflata Rick SPECIES
-=======
+# Diatrypella inflata Rick SPECIES
 
 #### Status
 ACCEPTED

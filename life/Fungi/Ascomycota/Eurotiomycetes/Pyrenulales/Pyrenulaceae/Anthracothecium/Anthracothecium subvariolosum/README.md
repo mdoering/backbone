@@ -1,14 +1,13 @@
-Pyrenula subvariolosa (C. Knight) Aptroot SPECIES
-=======
+# Anthracothecium subvariolosum C. Knight ex Shirley SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Australasian Lichenology 60: 40 (2007)
+Lich. Fl. Queensland 4: 182 (1889)
 
 #### Original name
 Anthracothecium subvariolosum C. Knight ex Shirley

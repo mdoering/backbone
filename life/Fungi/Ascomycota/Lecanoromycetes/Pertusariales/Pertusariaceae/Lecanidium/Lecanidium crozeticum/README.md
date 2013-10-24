@@ -1,5 +1,4 @@
-Lecanidium crozeticum C.W. Dodge SPECIES
-=======
+# Lecanidium crozeticum C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

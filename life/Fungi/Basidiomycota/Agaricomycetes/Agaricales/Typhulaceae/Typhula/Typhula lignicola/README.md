@@ -1,5 +1,4 @@
-Typhula lignicola Killerm. SPECIES
-=======
+# Typhula lignicola Killerm. SPECIES
 
 #### Status
 ACCEPTED

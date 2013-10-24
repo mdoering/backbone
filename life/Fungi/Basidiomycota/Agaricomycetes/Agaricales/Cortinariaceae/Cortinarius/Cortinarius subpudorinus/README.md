@@ -1,5 +1,4 @@
-Cortinarius subpudorinus Reumaux SPECIES
-=======
+# Cortinarius subpudorinus Reumaux SPECIES
 
 #### Status
 ACCEPTED

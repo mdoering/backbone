@@ -1,5 +1,4 @@
-Aecidium akebiae Henn. SPECIES
-=======
+# Aecidium akebiae Henn. SPECIES
 
 #### Status
 ACCEPTED

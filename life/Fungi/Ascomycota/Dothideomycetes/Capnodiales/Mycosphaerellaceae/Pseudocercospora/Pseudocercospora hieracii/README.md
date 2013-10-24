@@ -1,5 +1,4 @@
-Pseudocercospora hieracii (Ellis & Everh.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora hieracii (Ellis & Everh.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

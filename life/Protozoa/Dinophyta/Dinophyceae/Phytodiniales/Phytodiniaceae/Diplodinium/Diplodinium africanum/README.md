@@ -1,5 +1,4 @@
-Diplodinium africanum S. Imai SPECIES
-=======
+# Diplodinium africanum S. Imai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria lycii Pass. SPECIES
-=======
+# Leptosphaeria lycii Pass. SPECIES
 
 #### Status
 ACCEPTED

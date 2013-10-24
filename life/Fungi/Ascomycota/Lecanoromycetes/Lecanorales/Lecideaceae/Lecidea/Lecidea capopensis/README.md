@@ -1,5 +1,4 @@
-Lecidea capopensis Vain. SPECIES
-=======
+# Lecidea capopensis Vain. SPECIES
 
 #### Status
 ACCEPTED

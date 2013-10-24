@@ -1,5 +1,4 @@
-Stigmopeltella GENUS
-=======
+# Stigmopeltella GENUS
 
 #### Status
 ACCEPTED

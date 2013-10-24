@@ -1,5 +1,4 @@
-Goniosphaeridium polygonale SPECIES
-=======
+# Goniosphaeridium polygonale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria fallaciosa (Stizenb. ex Arnold) Nyl. SPECIES
-=======
+# Verrucaria fallaciosa (Stizenb. ex Arnold) Nyl. SPECIES
 
 #### Status
 ACCEPTED

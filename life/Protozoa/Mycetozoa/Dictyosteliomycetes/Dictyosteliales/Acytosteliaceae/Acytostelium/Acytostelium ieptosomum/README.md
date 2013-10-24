@@ -1,5 +1,4 @@
-Acytostelium ieptosomum Raper SPECIES
-=======
+# Acytostelium ieptosomum Raper SPECIES
 
 #### Status
 ACCEPTED

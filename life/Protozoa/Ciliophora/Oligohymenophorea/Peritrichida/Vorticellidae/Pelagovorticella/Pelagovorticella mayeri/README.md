@@ -1,8 +1,7 @@
-Vorticella mayeri Fauré-Fremiet, 1920 SPECIES
-=======
+# Pelagovorticella mayeri (Faure-Fremiet, 1923) Jankowski, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

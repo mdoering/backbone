@@ -1,5 +1,4 @@
-Coniothyrium boehmeriae Khokhr. SPECIES
-=======
+# Coniothyrium boehmeriae Khokhr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anaptychia squarrosa (Vain.) C.W. Dodge SPECIES
-=======
+# Anaptychia squarrosa (Vain.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

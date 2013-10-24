@@ -1,5 +1,4 @@
-Caloplaca immersa (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Caloplaca immersa (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

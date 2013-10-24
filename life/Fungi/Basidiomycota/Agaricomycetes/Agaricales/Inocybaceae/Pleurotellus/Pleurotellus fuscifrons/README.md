@@ -1,5 +1,4 @@
-Pleurotellus fuscifrons (Berk. & M.A. Curtis) Konrad & Maubl. SPECIES
-=======
+# Pleurotellus fuscifrons (Berk. & M.A. Curtis) Konrad & Maubl. SPECIES
 
 #### Status
 ACCEPTED

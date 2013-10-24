@@ -1,5 +1,4 @@
-Capnodinula GENUS
-=======
+# Capnodinula GENUS
 
 #### Status
 ACCEPTED

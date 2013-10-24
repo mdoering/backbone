@@ -1,14 +1,13 @@
-Hypodiscus rickii Lloyd, 1923 SPECIES
-=======
+# Neohypodiscus rickii (Lloyd) J.D. Rogers, Y.M. Ju & Laessøe, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 7: 1181 (1923)
+Mycologia 86(5): 685 (1994)
 
 #### Original name
 Hypodiscus rickii Lloyd, 1923

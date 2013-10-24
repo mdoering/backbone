@@ -1,5 +1,4 @@
-Entylomella thrinciae (Maire) Cif. SPECIES
-=======
+# Entylomella thrinciae (Maire) Cif. SPECIES
 
 #### Status
 ACCEPTED

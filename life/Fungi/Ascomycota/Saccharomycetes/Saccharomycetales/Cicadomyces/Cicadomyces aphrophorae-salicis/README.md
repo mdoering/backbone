@@ -1,5 +1,4 @@
-Cicadomyces aphrophorae-salicis ulc SPECIES
-=======
+# Cicadomyces aphrophorae-salicis ulc SPECIES
 
 #### Status
 ACCEPTED

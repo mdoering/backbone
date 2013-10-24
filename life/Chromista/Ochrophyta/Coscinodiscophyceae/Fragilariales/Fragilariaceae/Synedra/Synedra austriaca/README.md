@@ -1,5 +1,4 @@
-Synedra austriaca Grunow SPECIES
-=======
+# Synedra austriaca Grunow SPECIES
 
 #### Status
 ACCEPTED

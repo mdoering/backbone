@@ -1,5 +1,4 @@
-Sporonema diapensiae (Rostr.) Limber SPECIES
-=======
+# Sporonema diapensiae (Rostr.) Limber SPECIES
 
 #### Status
 ACCEPTED

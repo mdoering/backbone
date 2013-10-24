@@ -1,5 +1,4 @@
-Pseudobaeospora bavariae Bas SPECIES
-=======
+# Pseudobaeospora bavariae Bas SPECIES
 
 #### Status
 ACCEPTED

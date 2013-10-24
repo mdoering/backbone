@@ -1,5 +1,4 @@
-Ascotricha delhiana Kulshr., Raych. & A.Z.M. Khan SPECIES
-=======
+# Ascotricha delhiana Kulshr., Raych. & A.Z.M. Khan SPECIES
 
 #### Status
 ACCEPTED

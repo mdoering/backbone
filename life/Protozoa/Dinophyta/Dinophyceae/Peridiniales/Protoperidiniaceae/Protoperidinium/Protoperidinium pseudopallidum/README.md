@@ -1,5 +1,4 @@
-Protoperidinium pseudopallidum (Peters, 1930) Balech, 1994 SPECIES
-=======
+# Protoperidinium pseudopallidum (Peters, 1930) Balech, 1994 SPECIES
 
 #### Status
 ACCEPTED

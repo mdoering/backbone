@@ -1,5 +1,4 @@
-Anisolpidium sphacellarum (Kny) Karling SPECIES
-=======
+# Anisolpidium sphacellarum (Kny) Karling SPECIES
 
 #### Status
 ACCEPTED

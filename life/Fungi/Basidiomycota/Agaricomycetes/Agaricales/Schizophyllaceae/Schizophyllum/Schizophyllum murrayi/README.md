@@ -1,5 +1,4 @@
-Schizophyllum murrayi Massee, 1892 SPECIES
-=======
+# Schizophyllum murrayi Massee, 1892 SPECIES
 
 #### Status
 ACCEPTED

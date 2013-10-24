@@ -1,5 +1,4 @@
-Paratrochammina bartrami (Hedley, Hurdle & Burdett, 1967) SPECIES
-=======
+# Paratrochammina bartrami (Hedley, Hurdle & Burdett, 1967) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora nordenskioeldii SPECIES
-=======
+# Lecanora nordenskioeldii SPECIES
 
 #### Status
 ACCEPTED

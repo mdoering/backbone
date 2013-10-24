@@ -1,5 +1,4 @@
-Lisea inaequalis Hazsl. SPECIES
-=======
+# Lisea inaequalis Hazsl. SPECIES
 
 #### Status
 ACCEPTED

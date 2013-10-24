@@ -1,5 +1,4 @@
-Diplodina crassissima Bubák SPECIES
-=======
+# Diplodina crassissima Bubák SPECIES
 
 #### Status
 ACCEPTED

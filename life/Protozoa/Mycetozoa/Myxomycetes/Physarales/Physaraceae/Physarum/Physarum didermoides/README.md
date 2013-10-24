@@ -1,17 +1,16 @@
-Physarum didermoides subsp. didermoides SUBSPECIES
-=======
+# Physarum didermoides (Pers.) Rostaf., 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sluzowce monogr. (Paryz) 97 (1875)
 
 #### Original name
-null
+Spumaria didermoides Pers., 1801
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cyclonephelium areolatum Cookson & Eisenack SPECIES
-=======
+# Cyclonephelium areolatum Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

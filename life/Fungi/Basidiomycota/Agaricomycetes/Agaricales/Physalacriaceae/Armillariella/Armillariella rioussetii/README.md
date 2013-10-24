@@ -1,5 +1,4 @@
-Armillariella rioussetii Joss. SPECIES
-=======
+# Armillariella rioussetii Joss. SPECIES
 
 #### Status
 ACCEPTED

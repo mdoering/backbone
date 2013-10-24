@@ -1,5 +1,4 @@
-Russula griseoviridis McNabb, 1973 SPECIES
-=======
+# Russula griseoviridis McNabb, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Eutypella zizyphi Syd. & E.J. Butler SPECIES
-=======
+# Eutypella ziziphi Syd. & E.J. Butler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Eutypella zizyphi Syd. & E.J. Butler
+Eutypella ziziphi Syd. & E.J. Butler
 
 ### Remarks
 null

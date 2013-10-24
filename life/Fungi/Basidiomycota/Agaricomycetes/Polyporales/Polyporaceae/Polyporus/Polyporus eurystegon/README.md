@@ -1,5 +1,4 @@
-Polyporus eurystegon E.H.L. Krause SPECIES
-=======
+# Polyporus eurystegon E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

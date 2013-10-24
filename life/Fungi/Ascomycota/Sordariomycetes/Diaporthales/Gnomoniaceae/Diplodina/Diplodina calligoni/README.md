@@ -1,5 +1,4 @@
-Diplodina calligoni Koshk. & Frolov SPECIES
-=======
+# Diplodina calligoni Koshk. & Frolov SPECIES
 
 #### Status
 ACCEPTED

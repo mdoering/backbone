@@ -1,5 +1,4 @@
-Inocybe erythospilota Grund & D.E. Stuntz SPECIES
-=======
+# Inocybe erythospilota Grund & D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

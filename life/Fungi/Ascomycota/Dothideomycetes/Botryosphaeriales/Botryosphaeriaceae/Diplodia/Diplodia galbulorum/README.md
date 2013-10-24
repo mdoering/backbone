@@ -1,5 +1,4 @@
-Diplodia galbulorum Brunaud SPECIES
-=======
+# Diplodia galbulorum Brunaud SPECIES
 
 #### Status
 ACCEPTED

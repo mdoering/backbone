@@ -1,5 +1,4 @@
-Agaricus dispar Batsch SPECIES
-=======
+# Agaricus dispar Batsch SPECIES
 
 #### Status
 ACCEPTED

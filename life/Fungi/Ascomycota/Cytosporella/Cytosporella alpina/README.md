@@ -1,5 +1,4 @@
-Cytosporella alpina Ferraris SPECIES
-=======
+# Cytosporella alpina Ferraris SPECIES
 
 #### Status
 ACCEPTED

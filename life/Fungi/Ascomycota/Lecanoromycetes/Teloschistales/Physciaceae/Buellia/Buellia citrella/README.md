@@ -1,5 +1,4 @@
-Buellia citrella Darb. SPECIES
-=======
+# Buellia citrella Darb. SPECIES
 
 #### Status
 ACCEPTED

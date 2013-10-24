@@ -1,5 +1,4 @@
-Aecidium libanotidis Thüm. SPECIES
-=======
+# Aecidium libanotidis Thüm. SPECIES
 
 #### Status
 ACCEPTED

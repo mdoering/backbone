@@ -1,5 +1,4 @@
-Cercospora himatamthi Bat. & Peres SPECIES
-=======
+# Cercospora himatamthi Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stachybotryna hachijoensis Ts. Watan. SPECIES
-=======
+# Stachybotryna hachijoensis Ts. Watan. SPECIES
 
 #### Status
 ACCEPTED

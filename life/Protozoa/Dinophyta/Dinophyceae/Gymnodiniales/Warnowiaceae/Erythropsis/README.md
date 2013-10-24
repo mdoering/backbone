@@ -1,5 +1,4 @@
-Erythropsis GENUS
-=======
+# Erythropsis GENUS
 
 #### Status
 ACCEPTED

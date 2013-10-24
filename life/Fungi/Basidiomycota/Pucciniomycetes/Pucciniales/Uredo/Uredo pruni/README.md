@@ -1,5 +1,4 @@
-Uredo pruni Westend. SPECIES
-=======
+# Uredo pruni Westend. SPECIES
 
 #### Status
 ACCEPTED

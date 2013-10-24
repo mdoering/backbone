@@ -1,17 +1,16 @@
-Lecidea symmictella var. symmictella VARIETY
-=======
+# Lecanora symmicta (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syn. meth. lich. 340 (1814)
 
 #### Original name
-Lecidea symmictella var. symmictella
+Lecanora varia var. symmicta Ach.
 
 ### Remarks
 null

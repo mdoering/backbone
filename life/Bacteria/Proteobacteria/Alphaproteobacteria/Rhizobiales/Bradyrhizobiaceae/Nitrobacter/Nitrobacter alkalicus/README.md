@@ -1,5 +1,4 @@
-Nitrobacter alkalicus Sorokin et al., 1999 SPECIES
-=======
+# Nitrobacter alkalicus Sorokin et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

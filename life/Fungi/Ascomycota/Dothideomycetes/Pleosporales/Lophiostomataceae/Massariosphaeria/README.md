@@ -1,5 +1,4 @@
-Massariosphaeria (E. Müll.) Crivelli GENUS
-=======
+# Massariosphaeria (E. Müll.) Crivelli GENUS
 
 #### Status
 ACCEPTED

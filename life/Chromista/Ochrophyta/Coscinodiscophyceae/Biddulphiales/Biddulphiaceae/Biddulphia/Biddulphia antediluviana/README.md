@@ -1,8 +1,7 @@
-Triceratium antediluvianum (Ehrenberg) Grunow SPECIES
-=======
+# Biddulphia antediluviana (Ehrenberg) Van Heurck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Uromyces hainanicus J.Y. Zhuang & S.X. Wei, 1999 SPECIES
-=======
+# Uromyces hainanicus J.Y. Zhuang & S.X. Wei, 1999 SPECIES
 
 #### Status
 ACCEPTED

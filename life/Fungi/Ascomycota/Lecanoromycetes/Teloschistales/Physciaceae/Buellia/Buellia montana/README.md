@@ -1,5 +1,4 @@
-Buellia montana H. Magn. SPECIES
-=======
+# Buellia montana H. Magn. SPECIES
 
 #### Status
 ACCEPTED

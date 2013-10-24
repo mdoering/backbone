@@ -1,5 +1,4 @@
-Plasmoverna Constant., Voglmayr, Fatehi & Thines GENUS
-=======
+# Plasmoverna Constant., Voglmayr, Fatehi & Thines GENUS
 
 #### Status
 ACCEPTED

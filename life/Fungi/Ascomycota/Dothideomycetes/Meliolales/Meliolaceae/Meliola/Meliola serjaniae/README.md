@@ -1,17 +1,16 @@
-Meliola serjaniae var. dentata F. Stevens VARIETY
-=======
+# Meliola serjaniae F. Stevens, 1916 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 26(3/4): 280 (1928)
+Illinois Biol. Monogr. (Urbana) 2: 44 (1916)
 
 #### Original name
-Meliola serjaniae var. dentata F. Stevens
+Meliola serjaniae F. Stevens, 1916
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Diplodinula myopori (Tassi) Tassi SPECIES
-=======
+# Diplodinula myopori (Tassi) Tassi SPECIES
 
 #### Status
 ACCEPTED

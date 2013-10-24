@@ -1,5 +1,4 @@
-Nosema disstriae SPECIES
-=======
+# Nosema disstriae SPECIES
 
 #### Status
 ACCEPTED

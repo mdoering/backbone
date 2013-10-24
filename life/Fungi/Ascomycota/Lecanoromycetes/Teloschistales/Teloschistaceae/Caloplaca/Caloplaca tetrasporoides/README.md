@@ -1,5 +1,4 @@
-Caloplaca tetrasporoides Mereschk. SPECIES
-=======
+# Caloplaca tetrasporoides Mereschk. SPECIES
 
 #### Status
 ACCEPTED

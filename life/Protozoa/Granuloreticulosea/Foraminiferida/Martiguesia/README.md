@@ -1,5 +1,4 @@
-Martiguesia Maync, 1959 GENUS
-=======
+# Martiguesia Maync, 1959 GENUS
 
 #### Status
 ACCEPTED

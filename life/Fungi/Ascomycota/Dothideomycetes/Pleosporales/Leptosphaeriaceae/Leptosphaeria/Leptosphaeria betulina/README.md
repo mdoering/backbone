@@ -1,5 +1,4 @@
-Leptosphaeria betulina I.E. Brezhnev SPECIES
-=======
+# Leptosphaeria betulina I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

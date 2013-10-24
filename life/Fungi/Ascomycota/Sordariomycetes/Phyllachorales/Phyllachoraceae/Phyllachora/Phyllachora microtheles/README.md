@@ -1,14 +1,13 @@
-Puiggarina microtheles Speg., 1919 SPECIES
-=======
+# Phyllachora microtheles (Speg.) Chardón, 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boletín de la Academia Nacional de Ciencias de Córdoba 23: 487 (1919)
+J. Dept. Agric. Porto Rico 14(4): 261 (1930)
 
 #### Original name
 Puiggarina microtheles Speg., 1919

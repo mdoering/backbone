@@ -1,5 +1,4 @@
-Paratrichoconis longirostrata anon. SPECIES
-=======
+# Paratrichoconis longirostrata anon. SPECIES
 
 #### Status
 ACCEPTED

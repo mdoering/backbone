@@ -1,5 +1,4 @@
-Protoarchaeosacculina S.N. Naumova, 1960 GENUS
-=======
+# Protoarchaeosacculina S.N. Naumova, 1960 GENUS
 
 #### Status
 ACCEPTED

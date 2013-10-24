@@ -1,17 +1,16 @@
-Caeoma keralensis Hosag. SPECIES
-=======
+# Caeoma keralense Hosag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Econ. Taxon. Bot. 5(1): 209 (1984)
 
 #### Original name
-Caeoma keralensis Hosag.
+Caeoma keralense Hosag.
 
 ### Remarks
 null

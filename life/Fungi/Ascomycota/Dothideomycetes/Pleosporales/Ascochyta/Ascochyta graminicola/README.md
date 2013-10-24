@@ -1,17 +1,16 @@
-Ascochyta graminicola f. graminicola FORM
-=======
+# Ascochyta graminicola Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Michelia 1(no. 2): 127 (1878)
 
 #### Original name
-Ascochyta graminicola f. graminicola
+Ascochyta graminicola Sacc., 1878
 
 ### Remarks
 null

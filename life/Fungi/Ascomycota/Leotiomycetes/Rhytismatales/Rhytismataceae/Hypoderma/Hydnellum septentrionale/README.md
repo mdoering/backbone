@@ -1,5 +1,4 @@
-Hydnellum septentrionale K.A. Harrison, 1964 SPECIES
-=======
+# Hydnellum septentrionale K.A. Harrison, 1964 SPECIES
 
 #### Status
 DOUBTFUL

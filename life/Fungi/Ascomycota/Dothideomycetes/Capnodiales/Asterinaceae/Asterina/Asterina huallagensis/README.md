@@ -1,5 +1,4 @@
-Asterina huallagensis (Theiss.) Hosag. & T.K. Abraham SPECIES
-=======
+# Asterina huallagensis (Theiss.) Hosag. & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

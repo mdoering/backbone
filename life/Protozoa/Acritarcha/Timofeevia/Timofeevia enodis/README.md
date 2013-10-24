@@ -1,5 +1,4 @@
-Timofeevia enodis Uutela & Tynni, 1991 SPECIES
-=======
+# Timofeevia enodis Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

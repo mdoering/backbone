@@ -1,5 +1,4 @@
-Septoria heterosporum Ellis & Galloway SPECIES
-=======
+# Septoria heterosporum Ellis & Galloway SPECIES
 
 #### Status
 ACCEPTED

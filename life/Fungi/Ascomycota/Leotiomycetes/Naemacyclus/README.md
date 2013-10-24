@@ -1,17 +1,16 @@
-Lasiostictis (Sacc. & Berl.) Sacc. GENUS
-=======
+# Naemacyclus Fuckel GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 696 (1889)
+Jb. nassau. Ver. Naturk. 27-28: 49 (1873)
 
 #### Original name
-null
+Naemacyclus Fuckel
 
 ### Remarks
 null

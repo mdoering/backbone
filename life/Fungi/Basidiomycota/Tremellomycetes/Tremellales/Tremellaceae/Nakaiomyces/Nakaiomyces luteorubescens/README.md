@@ -1,5 +1,4 @@
-Nakaiomyces luteorubescens (Holterm.) Kobayasi SPECIES
-=======
+# Nakaiomyces luteorubescens (Holterm.) Kobayasi SPECIES
 
 #### Status
 ACCEPTED

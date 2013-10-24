@@ -1,5 +1,4 @@
-Cercospora operculinicola Kamal SPECIES
-=======
+# Cercospora operculinicola Kamal SPECIES
 
 #### Status
 ACCEPTED

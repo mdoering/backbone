@@ -1,5 +1,4 @@
-Chytrium chaetophilum Scherffel SPECIES
-=======
+# Chytrium chaetophilum Scherffel SPECIES
 
 #### Status
 ACCEPTED

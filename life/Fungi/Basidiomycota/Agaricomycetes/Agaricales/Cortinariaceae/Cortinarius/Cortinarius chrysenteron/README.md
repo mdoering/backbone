@@ -1,5 +1,4 @@
-Cortinarius chrysenteron Rob. Henry SPECIES
-=======
+# Cortinarius chrysenteron Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

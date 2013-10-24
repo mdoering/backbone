@@ -1,5 +1,4 @@
-Hyalopsora neocheilanthis Berndt SPECIES
-=======
+# Hyalopsora neocheilanthis Berndt SPECIES
 
 #### Status
 ACCEPTED

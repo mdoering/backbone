@@ -1,5 +1,4 @@
-Penicillium lanosogrisellum Biourge SPECIES
-=======
+# Penicillium lanosogrisellum Biourge SPECIES
 
 #### Status
 ACCEPTED

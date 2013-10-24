@@ -1,5 +1,4 @@
-Sphaeria imitatrix Berk. & Broome SPECIES
-=======
+# Sphaeria imitatrix Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tintinnus Schrank, 1803 GENUS
-=======
+# Tintinnus Schrank, 1803 GENUS
 
 #### Status
 ACCEPTED

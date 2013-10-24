@@ -1,5 +1,4 @@
-Phaulomyces cis Thaxt., 1931 SPECIES
-=======
+# Phaulomyces cis Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

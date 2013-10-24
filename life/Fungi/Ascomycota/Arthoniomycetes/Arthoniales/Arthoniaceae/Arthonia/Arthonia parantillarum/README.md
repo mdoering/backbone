@@ -1,5 +1,4 @@
-Arthonia parantillarum Aptroot SPECIES
-=======
+# Arthonia parantillarum Aptroot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stropharia sclerotifera Speg. SPECIES
-=======
+# Stropharia sclerotifera Speg. SPECIES
 
 #### Status
 ACCEPTED

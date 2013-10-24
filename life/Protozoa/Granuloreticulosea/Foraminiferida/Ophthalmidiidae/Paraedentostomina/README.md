@@ -1,5 +1,4 @@
-Paraedentostomina Akimoto in Akimoto, Matsui, Shimokawa & Furukawa, 2002 GENUS
-=======
+# Paraedentostomina Akimoto in Akimoto, Matsui, Shimokawa & Furukawa, 2002 GENUS
 
 #### Status
 ACCEPTED

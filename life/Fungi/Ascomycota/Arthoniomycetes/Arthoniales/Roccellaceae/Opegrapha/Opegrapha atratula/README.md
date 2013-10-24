@@ -1,5 +1,4 @@
-Opegrapha atratula f. atratula FORM
-=======
+# Opegrapha atratula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Flora, Jena 63: 41 (1880)
 
 #### Original name
-Opegrapha atratula f. atratula
+Opegrapha atratula Müll. Arg.
 
 ### Remarks
 null

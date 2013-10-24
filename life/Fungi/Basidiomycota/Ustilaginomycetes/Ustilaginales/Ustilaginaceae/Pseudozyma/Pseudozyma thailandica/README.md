@@ -1,5 +1,4 @@
-Pseudozyma thailandica Sugita, M. Takash., Mekha & Poonwan SPECIES
-=======
+# Pseudozyma thailandica Sugita, M. Takash., Mekha & Poonwan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereocaulon obesum Th. Fr. SPECIES
-=======
+# Stereocaulon obesum Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

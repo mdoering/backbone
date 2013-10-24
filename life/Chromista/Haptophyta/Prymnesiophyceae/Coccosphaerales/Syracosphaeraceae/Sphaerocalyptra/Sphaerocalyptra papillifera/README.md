@@ -1,5 +1,4 @@
-Sphaerocalyptra papillifera (Halldal) Halldal SPECIES
-=======
+# Sphaerocalyptra papillifera (Halldal) Halldal SPECIES
 
 #### Status
 ACCEPTED

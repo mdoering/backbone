@@ -1,5 +1,4 @@
-Neostomella splendida Bat. SPECIES
-=======
+# Neostomella splendida Bat. SPECIES
 
 #### Status
 ACCEPTED

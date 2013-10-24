@@ -1,5 +1,4 @@
-Glomus fragilistratum Skou & I. Jakobsen, 1989 SPECIES
-=======
+# Glomus fragilistratum Skou & I. Jakobsen, 1989 SPECIES
 
 #### Status
 ACCEPTED

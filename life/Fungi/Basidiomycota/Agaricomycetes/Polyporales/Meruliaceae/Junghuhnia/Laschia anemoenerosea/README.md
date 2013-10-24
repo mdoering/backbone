@@ -1,5 +1,4 @@
-Laschia anemoenerosea SPECIES
-=======
+# Laschia anemoenerosea SPECIES
 
 #### Status
 ACCEPTED

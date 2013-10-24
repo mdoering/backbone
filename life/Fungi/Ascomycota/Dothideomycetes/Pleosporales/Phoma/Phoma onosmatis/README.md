@@ -1,5 +1,4 @@
-Phoma onosmatis Hollós SPECIES
-=======
+# Phoma onosmatis Hollós SPECIES
 
 #### Status
 ACCEPTED

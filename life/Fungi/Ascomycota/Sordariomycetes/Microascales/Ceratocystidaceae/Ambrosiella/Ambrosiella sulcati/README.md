@@ -1,5 +1,4 @@
-Ambrosiella sulcati A. Funk, 1970 SPECIES
-=======
+# Ambrosiella sulcati A. Funk, 1970 SPECIES
 
 #### Status
 ACCEPTED

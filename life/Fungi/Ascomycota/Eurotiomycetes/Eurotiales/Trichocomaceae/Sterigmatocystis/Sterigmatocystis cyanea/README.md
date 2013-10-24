@@ -1,5 +1,4 @@
-Sterigmatocystis cyanea Mattlet SPECIES
-=======
+# Sterigmatocystis cyanea Mattlet SPECIES
 
 #### Status
 ACCEPTED

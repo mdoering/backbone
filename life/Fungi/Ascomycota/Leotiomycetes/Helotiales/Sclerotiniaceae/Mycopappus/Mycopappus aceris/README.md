@@ -1,5 +1,4 @@
-Mycopappus aceris (Dearn. & Barthol.) Redhead & G.P. White SPECIES
-=======
+# Mycopappus aceris (Dearn. & Barthol.) Redhead & G.P. White SPECIES
 
 #### Status
 ACCEPTED

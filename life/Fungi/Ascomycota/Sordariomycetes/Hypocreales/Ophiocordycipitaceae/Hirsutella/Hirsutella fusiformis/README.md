@@ -1,5 +1,4 @@
-Hirsutella fusiformis Speare SPECIES
-=======
+# Hirsutella fusiformis Speare SPECIES
 
 #### Status
 ACCEPTED

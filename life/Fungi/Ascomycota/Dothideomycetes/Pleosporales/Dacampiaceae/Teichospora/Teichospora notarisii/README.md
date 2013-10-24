@@ -1,5 +1,4 @@
-Teichospora notarisii Sacc. & Traverso SPECIES
-=======
+# Teichospora notarisii Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

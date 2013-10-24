@@ -1,5 +1,4 @@
-Conaticystis densiconatus Habib & Knapp, 1982 SPECIES
-=======
+# Conaticystis densiconatus Habib & Knapp, 1982 SPECIES
 
 #### Status
 ACCEPTED

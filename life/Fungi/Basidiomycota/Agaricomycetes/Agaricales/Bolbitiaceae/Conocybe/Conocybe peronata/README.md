@@ -1,5 +1,4 @@
-Conocybe peronata Kühner & Watling SPECIES
-=======
+# Conocybe peronata Kühner & Watling SPECIES
 
 #### Status
 ACCEPTED

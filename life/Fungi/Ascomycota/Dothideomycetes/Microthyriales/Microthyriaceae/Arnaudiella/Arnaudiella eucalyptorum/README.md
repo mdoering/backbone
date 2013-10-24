@@ -1,5 +1,4 @@
-Arnaudiella eucalyptorum Crous & W.B. Kendr. SPECIES
-=======
+# Arnaudiella eucalyptorum Crous & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

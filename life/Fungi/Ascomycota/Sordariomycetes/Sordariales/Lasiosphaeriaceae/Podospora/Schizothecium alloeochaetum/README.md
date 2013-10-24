@@ -1,5 +1,4 @@
-Schizothecium alloeochaetum (Mirza & Cain) L. Cai SPECIES
-=======
+# Schizothecium alloeochaetum (Mirza & Cain) L. Cai SPECIES
 
 #### Status
 ACCEPTED

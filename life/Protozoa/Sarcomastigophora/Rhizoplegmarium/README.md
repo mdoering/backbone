@@ -1,5 +1,4 @@
-Rhizoplegmarium Haeckel, 1887 GENUS
-=======
+# Rhizoplegmarium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

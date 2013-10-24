@@ -1,5 +1,4 @@
-Lecidea alborussula Nyl. SPECIES
-=======
+# Lecidea alborussula Nyl. SPECIES
 
 #### Status
 ACCEPTED

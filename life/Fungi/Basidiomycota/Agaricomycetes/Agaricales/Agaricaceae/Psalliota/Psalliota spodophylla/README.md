@@ -1,5 +1,4 @@
-Psalliota spodophylla (Krombh.) P. Kumm. SPECIES
-=======
+# Psalliota spodophylla (Krombh.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

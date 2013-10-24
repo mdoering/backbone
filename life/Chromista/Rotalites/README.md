@@ -1,5 +1,4 @@
-Rotalites Lamarck, 1801 GENUS
-=======
+# Rotalites Lamarck, 1801 GENUS
 
 #### Status
 ACCEPTED

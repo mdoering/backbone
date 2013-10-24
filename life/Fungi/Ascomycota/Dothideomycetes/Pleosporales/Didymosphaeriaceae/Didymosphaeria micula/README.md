@@ -1,5 +1,4 @@
-Didymosphaeria micula Flot. SPECIES
-=======
+# Didymosphaeria micula Flot. SPECIES
 
 #### Status
 ACCEPTED

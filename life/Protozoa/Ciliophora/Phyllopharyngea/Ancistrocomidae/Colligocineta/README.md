@@ -1,5 +1,4 @@
-Colligocineta Kozloff, 1965 GENUS
-=======
+# Colligocineta Kozloff, 1965 GENUS
 
 #### Status
 ACCEPTED

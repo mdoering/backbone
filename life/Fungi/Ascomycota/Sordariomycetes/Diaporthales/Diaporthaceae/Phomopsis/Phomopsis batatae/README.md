@@ -1,5 +1,4 @@
-Phomopsis batatae (Ellis & Halst.) Harter & E.C. Field SPECIES
-=======
+# Phomopsis batatae (Ellis & Halst.) Harter & E.C. Field SPECIES
 
 #### Status
 ACCEPTED

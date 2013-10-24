@@ -1,5 +1,4 @@
-Nolanea pinna (Romagn.) Dennis SPECIES
-=======
+# Nolanea pinna (Romagn.) Dennis SPECIES
 
 #### Status
 ACCEPTED

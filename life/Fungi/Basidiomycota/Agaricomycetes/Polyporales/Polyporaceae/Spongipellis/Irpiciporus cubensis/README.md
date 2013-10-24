@@ -1,5 +1,4 @@
-Irpiciporus cubensis (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Irpiciporus cubensis (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

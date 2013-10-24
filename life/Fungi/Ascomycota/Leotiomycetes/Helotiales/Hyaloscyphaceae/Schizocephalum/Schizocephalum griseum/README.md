@@ -1,5 +1,4 @@
-Schizocephalum griseum (Ellis & Langl.) Pound & Clem. SPECIES
-=======
+# Schizocephalum griseum (Ellis & Langl.) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

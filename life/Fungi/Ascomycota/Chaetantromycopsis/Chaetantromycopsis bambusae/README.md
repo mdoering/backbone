@@ -1,5 +1,4 @@
-Chaetantromycopsis bambusae H.P. Upadhyay, Cavalc. & A.A. Silva, 1986 SPECIES
-=======
+# Chaetantromycopsis bambusae H.P. Upadhyay, Cavalc. & A.A. Silva, 1986 SPECIES
 
 #### Status
 ACCEPTED

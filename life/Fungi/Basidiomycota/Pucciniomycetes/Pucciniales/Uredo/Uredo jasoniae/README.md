@@ -1,5 +1,4 @@
-Uredo jasoniae Henn. SPECIES
-=======
+# Uredo jasoniae Henn. SPECIES
 
 #### Status
 ACCEPTED

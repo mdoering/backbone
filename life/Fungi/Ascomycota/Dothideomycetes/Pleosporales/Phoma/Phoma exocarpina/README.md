@@ -1,5 +1,4 @@
-Phoma exocarpina Peck SPECIES
-=======
+# Phoma exocarpina Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marginulina subbullata Hantken SPECIES
-=======
+# Marginulina subbullata Hantken SPECIES
 
 #### Status
 ACCEPTED

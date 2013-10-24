@@ -1,5 +1,4 @@
-Barnettozyma hawaiiensis (Phaff, Starmer & Kurtzman) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
-=======
+# Barnettozyma hawaiiensis (Phaff, Starmer & Kurtzman) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
 
 #### Status
 ACCEPTED

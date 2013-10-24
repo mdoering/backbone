@@ -1,5 +1,4 @@
-Licnophora conklini Stevens, 1904 SPECIES
-=======
+# Licnophora conklini Stevens, 1904 SPECIES
 
 #### Status
 ACCEPTED

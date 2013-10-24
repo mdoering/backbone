@@ -1,14 +1,13 @@
-Monodictys quadrata (G.F. Atk.) G.Z. Zhao & T.Y. Zhang, 2007 SPECIES
-=======
+# Pithomyces quadratus (G.F. Atk.) M.B. Ellis, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycosystema 26(3): 331 (2007)
+Mycol. Pap. 76: 18 (1960)
 
 #### Original name
 Sporidesmium quadratum G.F. Atk., 1897

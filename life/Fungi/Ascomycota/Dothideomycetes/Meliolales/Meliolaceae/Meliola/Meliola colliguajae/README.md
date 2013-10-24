@@ -1,5 +1,4 @@
-Meliola colliguajae Speg. SPECIES
-=======
+# Meliola colliguajae Speg. SPECIES
 
 #### Status
 ACCEPTED

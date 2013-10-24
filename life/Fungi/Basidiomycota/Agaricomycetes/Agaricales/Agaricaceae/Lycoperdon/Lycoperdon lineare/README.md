@@ -1,5 +1,4 @@
-Lycoperdon lineare Schrank SPECIES
-=======
+# Lycoperdon lineare Schrank SPECIES
 
 #### Status
 ACCEPTED

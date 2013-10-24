@@ -1,5 +1,4 @@
-Blastenia peragrata (Fée) Mig. SPECIES
-=======
+# Blastenia peragrata (Fée) Mig. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clathrospora triseptata var. triseptata VARIETY
-=======
+# Clathrospora triseptata Wehm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycologia 46(4): 513 (1954)
 
 #### Original name
-Clathrospora triseptata var. triseptata
+Clathrospora triseptata Wehm.
 
 ### Remarks
 null

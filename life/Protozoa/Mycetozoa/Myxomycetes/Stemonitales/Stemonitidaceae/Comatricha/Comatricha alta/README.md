@@ -1,17 +1,16 @@
-Comatricha alta var. macrospora Y. Yamam. VARIETY
-=======
+# Comatricha alta Preuss, 1851 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-The Myxomycete Biota of Japan (Tokyo) 528 (1998)
+Linnaea 24: 141 (1851)
 
 #### Original name
-Comatricha alta var. macrospora Y. Yamam.
+Comatricha alta Preuss, 1851
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaerella periplocae Pass. SPECIES
-=======
+# Sphaerella periplocae Pass. SPECIES
 
 #### Status
 ACCEPTED

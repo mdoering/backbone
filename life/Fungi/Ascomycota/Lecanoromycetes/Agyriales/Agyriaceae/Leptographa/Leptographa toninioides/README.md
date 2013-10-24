@@ -1,5 +1,4 @@
-Leptographa toninioides Jatta SPECIES
-=======
+# Leptographa toninioides Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microphiale argyrothalamia Zahlbr. SPECIES
-=======
+# Microphiale argyrothalamia Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

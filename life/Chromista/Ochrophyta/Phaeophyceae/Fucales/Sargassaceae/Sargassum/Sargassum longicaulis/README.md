@@ -1,5 +1,4 @@
-Sargassum longicaulis Tseng & Lu SPECIES
-=======
+# Sargassum longicaulis Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

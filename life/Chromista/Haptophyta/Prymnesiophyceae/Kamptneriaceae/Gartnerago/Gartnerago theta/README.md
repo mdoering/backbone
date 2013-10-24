@@ -1,5 +1,4 @@
-Gartnerago theta SPECIES
-=======
+# Gartnerago theta SPECIES
 
 #### Status
 ACCEPTED

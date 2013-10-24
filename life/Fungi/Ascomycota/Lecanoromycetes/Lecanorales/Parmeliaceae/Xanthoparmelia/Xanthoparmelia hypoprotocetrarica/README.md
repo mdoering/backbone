@@ -1,14 +1,13 @@
-Parmelia hypoprotocetrarica Kurok. & Elix SPECIES
-=======
+# Xanthoparmelia hypoprotocetrarica (Kurok. & Elix) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Jap. Bot. 46: 113 (1971)
+Phytologia 28: 487 (1974)
 
 #### Original name
 Parmelia hypoprotocetrarica Kurok. & Elix

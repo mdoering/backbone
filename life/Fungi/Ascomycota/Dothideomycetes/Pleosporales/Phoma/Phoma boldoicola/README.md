@@ -1,5 +1,4 @@
-Phoma boldoicola Speg. SPECIES
-=======
+# Phoma boldoicola Speg. SPECIES
 
 #### Status
 ACCEPTED

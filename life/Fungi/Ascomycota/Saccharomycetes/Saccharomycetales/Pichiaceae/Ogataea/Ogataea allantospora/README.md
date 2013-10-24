@@ -1,5 +1,4 @@
-Ogataea allantospora G. Péter, Tornai-Leh. & Dlauchy, 2007 SPECIES
-=======
+# Ogataea allantospora G. Péter, Tornai-Leh. & Dlauchy, 2007 SPECIES
 
 #### Status
 ACCEPTED

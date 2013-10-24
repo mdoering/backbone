@@ -1,5 +1,4 @@
-Phoma podanthi Speg. SPECIES
-=======
+# Phoma podanthi Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria colombiana E.G. Simmons SPECIES
-=======
+# Alternaria colombiana E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

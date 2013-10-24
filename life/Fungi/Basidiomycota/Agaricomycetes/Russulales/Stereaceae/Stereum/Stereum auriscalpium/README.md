@@ -1,5 +1,4 @@
-Stereum auriscalpium Lloyd SPECIES
-=======
+# Stereum auriscalpium Lloyd SPECIES
 
 #### Status
 ACCEPTED

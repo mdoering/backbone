@@ -1,5 +1,4 @@
-Bullardia inquinans Jungh. SPECIES
-=======
+# Bullardia inquinans Jungh. SPECIES
 
 #### Status
 ACCEPTED

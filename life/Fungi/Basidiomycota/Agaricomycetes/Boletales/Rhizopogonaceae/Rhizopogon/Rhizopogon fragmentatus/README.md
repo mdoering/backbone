@@ -1,5 +1,4 @@
-Rhizopogon fragmentatus A.H. Sm. SPECIES
-=======
+# Rhizopogon fragmentatus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

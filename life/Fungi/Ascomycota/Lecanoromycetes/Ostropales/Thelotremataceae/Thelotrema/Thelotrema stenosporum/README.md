@@ -1,5 +1,4 @@
-Thelotrema stenosporum Zahlbr. SPECIES
-=======
+# Thelotrema stenosporum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

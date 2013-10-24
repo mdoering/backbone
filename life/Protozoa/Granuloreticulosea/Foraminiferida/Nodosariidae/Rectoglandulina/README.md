@@ -1,5 +1,4 @@
-Rectoglandulina Loeblich & Tappan, 1955 GENUS
-=======
+# Rectoglandulina Loeblich & Tappan, 1955 GENUS
 
 #### Status
 ACCEPTED

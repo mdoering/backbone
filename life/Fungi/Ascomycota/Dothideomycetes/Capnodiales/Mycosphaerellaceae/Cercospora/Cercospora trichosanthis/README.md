@@ -1,5 +1,4 @@
-Cercospora trichosanthis McRae SPECIES
-=======
+# Cercospora trichosanthis McRae SPECIES
 
 #### Status
 ACCEPTED

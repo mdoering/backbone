@@ -1,5 +1,4 @@
-Pertusaria straminella Malme SPECIES
-=======
+# Pertusaria straminella Malme SPECIES
 
 #### Status
 ACCEPTED

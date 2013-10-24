@@ -1,5 +1,4 @@
-Marasmiellus cupreovirens (Speg.) Singer SPECIES
-=======
+# Marasmiellus cupreovirens (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

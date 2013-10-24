@@ -1,5 +1,4 @@
-Pazschkeella Syd. & P. Syd. GENUS
-=======
+# Pazschkeella Syd. & P. Syd. GENUS
 
 #### Status
 ACCEPTED

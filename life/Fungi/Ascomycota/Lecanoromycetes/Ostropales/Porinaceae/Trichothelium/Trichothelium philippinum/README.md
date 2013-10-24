@@ -1,5 +1,4 @@
-Trichothelium philippinum Vain. SPECIES
-=======
+# Trichothelium philippinum Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola osmanthina Hansf. SPECIES
-=======
+# Meliola osmanthina Hansf. SPECIES
 
 #### Status
 ACCEPTED

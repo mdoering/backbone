@@ -1,5 +1,4 @@
-Laboulbenia rupae Sugiy. SPECIES
-=======
+# Laboulbenia rupae Sugiy. SPECIES
 
 #### Status
 ACCEPTED

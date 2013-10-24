@@ -1,5 +1,4 @@
-Blastodinium contortum Chatton SPECIES
-=======
+# Blastodinium contortum Chatton SPECIES
 
 #### Status
 ACCEPTED

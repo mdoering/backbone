@@ -1,5 +1,4 @@
-Micropeltis rheediae Rehm SPECIES
-=======
+# Micropeltis rheediae Rehm SPECIES
 
 #### Status
 ACCEPTED

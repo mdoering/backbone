@@ -1,5 +1,4 @@
-Sphaerella veneta (Sacc. & Speg.) SPECIES
-=======
+# Sphaerella veneta (Sacc. & Speg.) SPECIES
 
 #### Status
 ACCEPTED

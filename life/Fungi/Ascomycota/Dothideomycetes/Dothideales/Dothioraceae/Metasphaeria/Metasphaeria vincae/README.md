@@ -1,5 +1,4 @@
-Metasphaeria vincae (Fr.) Sacc. SPECIES
-=======
+# Metasphaeria vincae (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

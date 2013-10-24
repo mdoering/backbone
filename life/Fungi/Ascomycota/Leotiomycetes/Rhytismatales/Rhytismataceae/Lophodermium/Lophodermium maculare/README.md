@@ -1,17 +1,16 @@
-Lophodermium maculare var. maculare VARIETY
-=======
+# Lophodermium maculare (Fr.) De Not., 1847 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 G. bot. ital. , n. s. 2(7-8): 45 (1847)
 
 #### Original name
-Lophodermium maculare var. maculare
+Hysterium maculare Fr., 1823
 
 ### Remarks
 null

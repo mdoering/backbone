@@ -1,5 +1,4 @@
-Habrostictis aurantiaca Rehm SPECIES
-=======
+# Habrostictis aurantiaca Rehm SPECIES
 
 #### Status
 ACCEPTED

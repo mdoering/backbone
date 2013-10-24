@@ -1,14 +1,13 @@
-Graphis exilior Vain. SPECIES
-=======
+# Phaeographina exilior (Vain.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Acad. Sci. fenn. 15(6): 200 (1921)
+Cat. Lich. Univers. 2: 438 (1923)
 
 #### Original name
 Graphis exilior Vain.

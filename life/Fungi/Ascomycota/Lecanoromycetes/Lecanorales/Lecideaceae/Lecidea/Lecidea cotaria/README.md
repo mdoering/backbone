@@ -1,5 +1,4 @@
-Lecidea cotaria Ach. SPECIES
-=======
+# Lecidea cotaria Ach. SPECIES
 
 #### Status
 ACCEPTED

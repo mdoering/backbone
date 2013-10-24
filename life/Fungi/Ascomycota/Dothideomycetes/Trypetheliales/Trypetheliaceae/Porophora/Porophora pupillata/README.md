@@ -1,5 +1,4 @@
-Porophora pupillata SPECIES
-=======
+# Porophora pupillata SPECIES
 
 #### Status
 ACCEPTED

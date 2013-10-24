@@ -1,14 +1,13 @@
-Sporisorium mexicanum (Vánky) Vánky & Cunningt., 2005 SPECIES
-=======
+# Lundquistia mexicana Vánky, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungal Diversity 17: 161 (2004)
 
 #### Original name
 Lundquistia mexicana Vánky, 2004

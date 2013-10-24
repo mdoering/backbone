@@ -1,5 +1,4 @@
-Stictina fuliginosa f. fuliginosa FORM
-=======
+# Stictina fuliginosa SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stictina fuliginosa f. fuliginosa
+null
 
 ### Remarks
 null

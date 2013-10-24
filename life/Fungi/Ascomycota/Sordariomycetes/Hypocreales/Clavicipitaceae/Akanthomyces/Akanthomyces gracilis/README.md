@@ -1,5 +1,4 @@
-Akanthomyces gracilis Samson & H.C. Evans, 1974 SPECIES
-=======
+# Akanthomyces gracilis Samson & H.C. Evans, 1974 SPECIES
 
 #### Status
 ACCEPTED

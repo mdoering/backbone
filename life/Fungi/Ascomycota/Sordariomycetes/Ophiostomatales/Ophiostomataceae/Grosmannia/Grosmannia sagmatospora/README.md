@@ -1,14 +1,13 @@
-Ophiostoma sagmatospora (E.F. Wright & Cain) H. Solheim SPECIES
-=======
+# Grosmannia sagmatospora (E.F. Wright & Cain) Zipfel, Z.W. de Beer & M.J. Wingf., 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Zipfel, Beer, Jacobs, Wingfield & Wingfield, Stud. Mycol. 55: 91 (2006)
 
 #### Original name
 Ceratocystis sagmatospora E.F. Wright & Cain, 1961

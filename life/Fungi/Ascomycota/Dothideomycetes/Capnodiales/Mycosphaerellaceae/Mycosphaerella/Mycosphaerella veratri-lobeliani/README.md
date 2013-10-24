@@ -1,5 +1,4 @@
-Mycosphaerella veratri-lobeliani Fakirova & Denchev SPECIES
-=======
+# Mycosphaerella veratri-lobeliani Fakirova & Denchev SPECIES
 
 #### Status
 ACCEPTED

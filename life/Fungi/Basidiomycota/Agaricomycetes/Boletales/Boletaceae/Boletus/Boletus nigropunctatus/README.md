@@ -1,5 +1,4 @@
-Boletus nigropunctatus W.F. Chiu SPECIES
-=======
+# Boletus nigropunctatus W.F. Chiu SPECIES
 
 #### Status
 ACCEPTED

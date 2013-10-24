@@ -1,5 +1,4 @@
-Aecidium tinneae Henn. SPECIES
-=======
+# Aecidium tinneae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria posekensis Sacc. SPECIES
-=======
+# Septoria posekensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

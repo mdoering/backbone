@@ -1,5 +1,4 @@
-Eutreptiella dofleinii (Schiller) Pascher SPECIES
-=======
+# Eutreptiella dofleinii (Schiller) Pascher SPECIES
 
 #### Status
 ACCEPTED

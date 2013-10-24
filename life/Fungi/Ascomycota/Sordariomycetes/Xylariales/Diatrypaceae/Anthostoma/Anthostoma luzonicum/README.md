@@ -1,5 +1,4 @@
-Anthostoma luzonicum Petr. SPECIES
-=======
+# Anthostoma luzonicum Petr. SPECIES
 
 #### Status
 ACCEPTED

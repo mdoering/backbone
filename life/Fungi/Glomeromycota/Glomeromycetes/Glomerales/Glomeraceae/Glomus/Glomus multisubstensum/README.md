@@ -1,5 +1,4 @@
-Glomus multisubstensum Mukerji, Bhattacharjee & J.P. Tewari SPECIES
-=======
+# Glomus multisubstensum Mukerji, Bhattacharjee & J.P. Tewari SPECIES
 
 #### Status
 ACCEPTED

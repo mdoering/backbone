@@ -1,5 +1,4 @@
-Peziza canina P. Karst. SPECIES
-=======
+# Peziza canina P. Karst. SPECIES
 
 #### Status
 ACCEPTED

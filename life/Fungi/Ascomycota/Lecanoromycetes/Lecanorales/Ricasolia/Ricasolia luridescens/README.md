@@ -1,5 +1,4 @@
-Ricasolia luridescens Stirt. SPECIES
-=======
+# Ricasolia luridescens Stirt. SPECIES
 
 #### Status
 ACCEPTED

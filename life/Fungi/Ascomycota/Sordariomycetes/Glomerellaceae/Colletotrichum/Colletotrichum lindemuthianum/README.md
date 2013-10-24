@@ -1,17 +1,16 @@
-Glomerella lindemuthianum Shear SPECIES
-=======
+# Colletotrichum lindemuthianum (Sacc. & Magnus) Briosi & Cavara, 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Funghi Parass. Piante Colt. od Utili, Fasc. 2: no. 50 (1889)
 
 #### Original name
-Glomerella lindemuthianum Shear
+Gloeosporium lindemuthianum Sacc. & Magnus, 1878
 
 ### Remarks
 null

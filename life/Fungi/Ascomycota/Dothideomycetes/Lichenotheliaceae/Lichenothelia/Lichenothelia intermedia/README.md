@@ -1,5 +1,4 @@
-Lichenothelia intermedia Henssen SPECIES
-=======
+# Lichenothelia intermedia Henssen SPECIES
 
 #### Status
 ACCEPTED

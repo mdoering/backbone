@@ -1,5 +1,4 @@
-Micrococcus pygmaeus SPECIES
-=======
+# Micrococcus pygmaeus SPECIES
 
 #### Status
 ACCEPTED

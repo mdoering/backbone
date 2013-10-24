@@ -1,5 +1,4 @@
-Phyllosticta stephaniae Sawada SPECIES
-=======
+# Phyllosticta stephaniae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa viburni Fuckel SPECIES
-=======
+# Valsa viburni Fuckel SPECIES
 
 #### Status
 ACCEPTED

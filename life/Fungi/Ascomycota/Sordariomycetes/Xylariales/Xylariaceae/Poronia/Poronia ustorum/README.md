@@ -1,5 +1,4 @@
-Poronia ustorum Pat. SPECIES
-=======
+# Poronia ustorum Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium alnisedum Velen. SPECIES
-=======
+# Helotium alnisedum Velen. SPECIES
 
 #### Status
 ACCEPTED

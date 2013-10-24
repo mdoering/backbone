@@ -1,8 +1,7 @@
-Biatora massalongii SPECIES
-=======
+# Biatora massalongoi Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-null
+Biatora massalongoi Syd.
 
 ### Remarks
 null

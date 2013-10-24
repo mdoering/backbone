@@ -1,5 +1,4 @@
-Agaricus xeretes K.R. Peterson, Desjardin & Hemmes SPECIES
-=======
+# Agaricus xeretes K.R. Peterson, Desjardin & Hemmes SPECIES
 
 #### Status
 ACCEPTED

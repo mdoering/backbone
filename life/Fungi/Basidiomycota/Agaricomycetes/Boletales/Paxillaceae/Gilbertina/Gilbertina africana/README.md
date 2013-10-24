@@ -1,5 +1,4 @@
-Gilbertina africana (Cooke & Massee) R. Heim SPECIES
-=======
+# Gilbertina africana (Cooke & Massee) R. Heim SPECIES
 
 #### Status
 ACCEPTED

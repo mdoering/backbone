@@ -1,5 +1,4 @@
-Defretinella eulaliae Henneré, 1966 SPECIES
-=======
+# Defretinella eulaliae Henneré, 1966 SPECIES
 
 #### Status
 ACCEPTED

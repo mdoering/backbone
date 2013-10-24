@@ -1,5 +1,4 @@
-Phyllosticta brunellae Ellis & Everh. SPECIES
-=======
+# Phyllosticta brunellae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

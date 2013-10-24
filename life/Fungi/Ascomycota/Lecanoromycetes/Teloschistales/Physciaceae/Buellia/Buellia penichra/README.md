@@ -1,5 +1,4 @@
-Buellia penichra (Tuck.) Hasse SPECIES
-=======
+# Buellia penichra (Tuck.) Hasse SPECIES
 
 #### Status
 ACCEPTED

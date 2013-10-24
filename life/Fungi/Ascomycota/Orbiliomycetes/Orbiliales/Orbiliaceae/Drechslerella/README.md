@@ -1,5 +1,4 @@
-Drechslerella Subram. GENUS
-=======
+# Drechslerella Subram. GENUS
 
 #### Status
 ACCEPTED

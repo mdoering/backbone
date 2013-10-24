@@ -1,5 +1,4 @@
-Ascochyta affinis Jaap SPECIES
-=======
+# Ascochyta affinis Jaap SPECIES
 
 #### Status
 ACCEPTED

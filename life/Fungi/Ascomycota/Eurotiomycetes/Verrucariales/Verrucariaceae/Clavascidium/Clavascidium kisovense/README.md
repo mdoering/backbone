@@ -1,14 +1,13 @@
-Dermatocarpon kisovense Zahlbr. SPECIES
-=======
+# Clavascidium kisovense (Zahlbr.) Breuss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Annls mycol. 29: 75 (1931)
+Annln naturh. Mus. Wien, Ser. B, Bot. Zool. 98(Suppl. ): 41 (1996)
 
 #### Original name
 Dermatocarpon kisovense Zahlbr.

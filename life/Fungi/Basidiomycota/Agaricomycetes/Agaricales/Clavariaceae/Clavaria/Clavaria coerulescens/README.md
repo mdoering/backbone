@@ -1,5 +1,4 @@
-Clavaria coerulescens P. Karst. SPECIES
-=======
+# Clavaria coerulescens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

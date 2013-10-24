@@ -1,5 +1,4 @@
-Alphaflexiviridae FAMILY
-=======
+# Alphaflexiviridae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthopyrenia paracapnodes (Stizenb.) Kernst. SPECIES
-=======
+# Arthopyrenia paracapnodes (Stizenb.) Kernst. SPECIES
 
 #### Status
 ACCEPTED

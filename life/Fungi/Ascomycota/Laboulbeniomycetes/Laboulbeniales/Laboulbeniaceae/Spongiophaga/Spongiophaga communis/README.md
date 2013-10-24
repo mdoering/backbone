@@ -1,5 +1,4 @@
-Spongiophaga communis Carter, 1878 SPECIES
-=======
+# Spongiophaga communis Carter, 1878 SPECIES
 
 #### Status
 ACCEPTED

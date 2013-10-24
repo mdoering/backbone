@@ -1,5 +1,4 @@
-Lacrymaria cucumis Penard, 1922 SPECIES
-=======
+# Lacrymaria cucumis Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septothyrella pakistanica S. Ahmad SPECIES
-=======
+# Septothyrella pakistanica S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

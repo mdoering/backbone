@@ -1,5 +1,4 @@
-Psilocybe laetissima Hauskn. & Singer SPECIES
-=======
+# Psilocybe laetissima Hauskn. & Singer SPECIES
 
 #### Status
 ACCEPTED

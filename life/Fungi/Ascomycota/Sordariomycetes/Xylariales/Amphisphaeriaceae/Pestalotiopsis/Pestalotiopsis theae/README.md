@@ -1,17 +1,16 @@
-Pestalotia theae var. minor Steyaert VARIETY
-=======
+# Pestalotiopsis theae (Sawada) Steyaert, 1949 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Jard. bot. État Brux. 19(3): 327 (1949)
 
 #### Original name
-Pestalotia theae var. minor Steyaert
+Pestalotia theae Sawada, 1915
 
 ### Remarks
 null

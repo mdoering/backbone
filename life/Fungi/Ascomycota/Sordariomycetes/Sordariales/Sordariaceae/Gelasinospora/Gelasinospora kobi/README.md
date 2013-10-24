@@ -1,5 +1,4 @@
-Gelasinospora kobi Cailleux, 1972 SPECIES
-=======
+# Gelasinospora kobi Cailleux, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gasparrinia aspera (Savicz) N.S. Golubk. SPECIES
-=======
+# Gasparrinia aspera (Savicz) N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

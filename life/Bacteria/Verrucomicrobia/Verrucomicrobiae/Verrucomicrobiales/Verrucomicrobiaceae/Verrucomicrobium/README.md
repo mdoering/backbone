@@ -1,5 +1,4 @@
-Verrucomicrobium Schlesner, 1988 GENUS
-=======
+# Verrucomicrobium Schlesner, 1988 GENUS
 
 #### Status
 ACCEPTED

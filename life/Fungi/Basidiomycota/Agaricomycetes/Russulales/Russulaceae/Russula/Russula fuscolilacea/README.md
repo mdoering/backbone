@@ -1,5 +1,4 @@
-Russula fuscolilacea Velen. SPECIES
-=======
+# Russula fuscolilacea Velen. SPECIES
 
 #### Status
 ACCEPTED

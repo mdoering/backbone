@@ -1,5 +1,4 @@
-Phomopsis amherstiae Ponnappa SPECIES
-=======
+# Phomopsis amherstiae Ponnappa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora lithophilae Gucevic SPECIES
-=======
+# Pleospora lithophilae Gucevic SPECIES
 
 #### Status
 ACCEPTED

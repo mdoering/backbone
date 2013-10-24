@@ -1,5 +1,4 @@
-Fomes cornu-bovis (Cooke) Sacc. SPECIES
-=======
+# Fomes cornu-bovis (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Diplocladium penicillioides var. penicillioides VARIETY
-=======
+# Diplocladium penicillioides Sacc., 1886 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syll. fung. (Abellini) 4: 177 (1886)
 
 #### Original name
-Diplocladium penicillioides var. penicillioides
+Diplocladium penicillioides Sacc., 1886
 
 ### Remarks
 null

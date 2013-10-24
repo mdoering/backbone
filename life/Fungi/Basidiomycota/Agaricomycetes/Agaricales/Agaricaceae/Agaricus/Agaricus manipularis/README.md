@@ -1,5 +1,4 @@
-Agaricus manipularis Berk. SPECIES
-=======
+# Agaricus manipularis Berk. SPECIES
 
 #### Status
 ACCEPTED

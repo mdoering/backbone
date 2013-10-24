@@ -1,5 +1,4 @@
-Pythium akanense Tokun. SPECIES
-=======
+# Pythium akanense Tokun. SPECIES
 
 #### Status
 ACCEPTED

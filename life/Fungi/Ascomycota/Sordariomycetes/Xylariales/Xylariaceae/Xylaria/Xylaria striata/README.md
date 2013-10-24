@@ -1,5 +1,4 @@
-Xylaria striata var. striata VARIETY
-=======
+# Xylaria striata Pat. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Xylaria striata var. striata
+Xylaria striata Pat.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Alkalibacter Garnova, Zhilina, Tourova, Kostrikina & Zavarzin, 2005 GENUS
-=======
+# Alkalibacter Garnova, Zhilina, Tourova, Kostrikina & Zavarzin, 2005 GENUS
 
 #### Status
 ACCEPTED

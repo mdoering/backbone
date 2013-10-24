@@ -1,5 +1,4 @@
-Lecania asperatula J. Steiner SPECIES
-=======
+# Lecania asperatula J. Steiner SPECIES
 
 #### Status
 ACCEPTED

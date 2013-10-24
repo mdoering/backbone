@@ -1,5 +1,4 @@
-Helvella reflexa Cumino SPECIES
-=======
+# Helvella reflexa Cumino SPECIES
 
 #### Status
 ACCEPTED

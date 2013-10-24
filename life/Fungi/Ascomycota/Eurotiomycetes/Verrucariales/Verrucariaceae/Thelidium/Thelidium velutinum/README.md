@@ -1,5 +1,4 @@
-Thelidium velutinum (Bernh.) Körb. SPECIES
-=======
+# Thelidium velutinum (Bernh.) Körb. SPECIES
 
 #### Status
 ACCEPTED

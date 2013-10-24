@@ -1,5 +1,4 @@
-Pyrenastrum GENUS
-=======
+# Pyrenastrum GENUS
 
 #### Status
 ACCEPTED

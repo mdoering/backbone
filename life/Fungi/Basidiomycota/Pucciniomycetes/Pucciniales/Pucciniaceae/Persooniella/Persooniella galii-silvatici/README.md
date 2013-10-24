@@ -1,5 +1,4 @@
-Persooniella galii-silvatici (G.H. Otth) Syd. SPECIES
-=======
+# Persooniella galii-silvatici (G.H. Otth) Syd. SPECIES
 
 #### Status
 ACCEPTED

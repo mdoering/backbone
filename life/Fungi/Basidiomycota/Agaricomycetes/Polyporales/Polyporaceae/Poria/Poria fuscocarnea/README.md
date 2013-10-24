@@ -1,5 +1,4 @@
-Poria fuscocarnea (Pers.) Fr. SPECIES
-=======
+# Poria fuscocarnea (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

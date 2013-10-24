@@ -1,5 +1,4 @@
-Pseudopyrenula papuana Aptroot SPECIES
-=======
+# Pseudopyrenula papuana Aptroot SPECIES
 
 #### Status
 ACCEPTED

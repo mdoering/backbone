@@ -1,5 +1,4 @@
-Lecidea medialis Tuck. SPECIES
-=======
+# Lecidea medialis Tuck. SPECIES
 
 #### Status
 ACCEPTED

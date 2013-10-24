@@ -1,5 +1,4 @@
-Spirocytopharynxa Li, Wang & Xiao, 2002 GENUS
-=======
+# Spirocytopharynxa Li, Wang & Xiao, 2002 GENUS
 
 #### Status
 ACCEPTED

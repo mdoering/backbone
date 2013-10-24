@@ -1,5 +1,4 @@
-Xanthoparmelia endochrysea (Müll. Arg.) Hale SPECIES
-=======
+# Xanthoparmelia endochrysea (Müll. Arg.) Hale SPECIES
 
 #### Status
 ACCEPTED

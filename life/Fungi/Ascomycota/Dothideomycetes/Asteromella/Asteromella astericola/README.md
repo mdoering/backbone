@@ -1,5 +1,4 @@
-Asteromella astericola Davis SPECIES
-=======
+# Asteromella astericola Davis SPECIES
 
 #### Status
 ACCEPTED

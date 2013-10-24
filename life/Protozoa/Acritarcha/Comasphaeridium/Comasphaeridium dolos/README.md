@@ -1,5 +1,4 @@
-Comasphaeridium dolos (Wicander & Loeblich, 1977) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Comasphaeridium dolos (Wicander & Loeblich, 1977) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

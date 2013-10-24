@@ -1,5 +1,4 @@
-Anthracothecium amphitropum Müll. Arg. SPECIES
-=======
+# Anthracothecium amphitropum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

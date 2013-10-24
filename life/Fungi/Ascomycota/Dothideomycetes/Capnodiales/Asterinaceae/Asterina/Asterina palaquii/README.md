@@ -1,5 +1,4 @@
-Asterina palaquii Hosag. & Goos SPECIES
-=======
+# Asterina palaquii Hosag. & Goos SPECIES
 
 #### Status
 ACCEPTED

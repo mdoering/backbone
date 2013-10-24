@@ -1,5 +1,4 @@
-Puccinia poae-alpinae Erikss. SPECIES
-=======
+# Puccinia poae-alpinae Erikss. SPECIES
 
 #### Status
 ACCEPTED

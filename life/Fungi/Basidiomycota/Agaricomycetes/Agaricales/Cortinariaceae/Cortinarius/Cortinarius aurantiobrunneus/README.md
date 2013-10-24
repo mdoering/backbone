@@ -1,5 +1,4 @@
-Cortinarius aurantiobrunneus Ammirati, Halling & Garnica SPECIES
-=======
+# Cortinarius aurantiobrunneus Ammirati, Halling & Garnica SPECIES
 
 #### Status
 ACCEPTED

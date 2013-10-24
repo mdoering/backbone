@@ -1,5 +1,4 @@
-Hebeloma testaceum (Batsch) Quél. SPECIES
-=======
+# Hebeloma testaceum (Batsch) Quél. SPECIES
 
 #### Status
 ACCEPTED

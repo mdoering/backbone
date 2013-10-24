@@ -1,5 +1,4 @@
-Stellosetifera malaysiana Matsush., 1996 SPECIES
-=======
+# Stellosetifera malaysiana Matsush., 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora belladonnae Allesch. SPECIES
-=======
+# Rhabdospora belladonnae Allesch. SPECIES
 
 #### Status
 ACCEPTED

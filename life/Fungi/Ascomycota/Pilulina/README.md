@@ -1,5 +1,4 @@
-Pilulina Arnaud, 1954 GENUS
-=======
+# Pilulina Arnaud, 1954 GENUS
 
 #### Status
 ACCEPTED

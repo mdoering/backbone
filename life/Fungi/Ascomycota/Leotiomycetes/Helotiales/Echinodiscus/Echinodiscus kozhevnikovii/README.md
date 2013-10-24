@@ -1,5 +1,4 @@
-Echinodiscus kozhevnikovii Zhurb. SPECIES
-=======
+# Echinodiscus kozhevnikovii Zhurb. SPECIES
 
 #### Status
 ACCEPTED

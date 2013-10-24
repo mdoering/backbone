@@ -1,5 +1,4 @@
-Moraxella caviae (Pelczar, 1953) Bøvre, 1984 SPECIES
-=======
+# Moraxella caviae (Pelczar, 1953) Bøvre, 1984 SPECIES
 
 #### Status
 ACCEPTED

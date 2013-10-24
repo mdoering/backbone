@@ -1,5 +1,4 @@
-Veronaia castellanii Benedek, 1961 SPECIES
-=======
+# Veronaia castellanii Benedek, 1961 SPECIES
 
 #### Status
 ACCEPTED

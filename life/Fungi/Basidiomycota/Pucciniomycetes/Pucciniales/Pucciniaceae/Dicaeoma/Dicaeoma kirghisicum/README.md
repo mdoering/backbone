@@ -1,5 +1,4 @@
-Dicaeoma kirghisicum (Thüm.) Kuntze SPECIES
-=======
+# Dicaeoma kirghisicum (Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca scrobiculata var. scrobiculata VARIETY
-=======
+# Caloplaca scrobiculata H. Magn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Caloplaca scrobiculata var. scrobiculata
+Caloplaca scrobiculata H. Magn.
 
 ### Remarks
 null

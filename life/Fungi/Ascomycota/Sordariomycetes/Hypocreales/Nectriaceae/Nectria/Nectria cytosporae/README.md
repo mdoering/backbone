@@ -1,5 +1,4 @@
-Nectria cytosporae Georgescu & Lungescu SPECIES
-=======
+# Nectria cytosporae Georgescu & Lungescu SPECIES
 
 #### Status
 ACCEPTED

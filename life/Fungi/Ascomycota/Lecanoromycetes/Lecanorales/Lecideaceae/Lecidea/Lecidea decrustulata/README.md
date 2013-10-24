@@ -1,5 +1,4 @@
-Lecidea decrustulata Vain. SPECIES
-=======
+# Lecidea decrustulata Vain. SPECIES
 
 #### Status
 ACCEPTED

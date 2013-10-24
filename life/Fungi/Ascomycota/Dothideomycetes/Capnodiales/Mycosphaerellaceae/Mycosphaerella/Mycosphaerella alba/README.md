@@ -1,5 +1,4 @@
-Mycosphaerella alba (Pass.) Tomilin SPECIES
-=======
+# Mycosphaerella alba (Pass.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

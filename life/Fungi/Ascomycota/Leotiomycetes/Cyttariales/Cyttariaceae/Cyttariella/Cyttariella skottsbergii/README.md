@@ -1,5 +1,4 @@
-Cyttariella skottsbergii Palm, 1932 SPECIES
-=======
+# Cyttariella skottsbergii Palm, 1932 SPECIES
 
 #### Status
 ACCEPTED

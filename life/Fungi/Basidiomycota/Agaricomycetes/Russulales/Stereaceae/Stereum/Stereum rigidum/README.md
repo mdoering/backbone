@@ -1,5 +1,4 @@
-Stereum rigidum Lév. SPECIES
-=======
+# Stereum rigidum Lév. SPECIES
 
 #### Status
 ACCEPTED

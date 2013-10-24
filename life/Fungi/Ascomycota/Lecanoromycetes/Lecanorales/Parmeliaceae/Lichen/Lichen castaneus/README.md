@@ -1,5 +1,4 @@
-Lichen castaneus Leers SPECIES
-=======
+# Lichen castaneus Leers SPECIES
 
 #### Status
 ACCEPTED

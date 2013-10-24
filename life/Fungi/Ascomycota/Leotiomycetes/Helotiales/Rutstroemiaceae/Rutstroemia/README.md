@@ -1,5 +1,4 @@
-Rutstroemia P. Karsten, 1871 GENUS
-=======
+# Rutstroemia P. Karsten, 1871 GENUS
 
 #### Status
 ACCEPTED

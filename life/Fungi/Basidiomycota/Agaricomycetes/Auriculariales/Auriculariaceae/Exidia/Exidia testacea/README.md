@@ -1,5 +1,4 @@
-Exidia testacea Raitv. SPECIES
-=======
+# Exidia testacea Raitv. SPECIES
 
 #### Status
 ACCEPTED

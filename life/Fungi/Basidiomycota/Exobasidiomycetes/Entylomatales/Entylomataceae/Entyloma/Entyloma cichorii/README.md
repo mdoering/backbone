@@ -1,5 +1,4 @@
-Entyloma cichorii Wróbl. SPECIES
-=======
+# Entyloma cichorii Wróbl. SPECIES
 
 #### Status
 ACCEPTED

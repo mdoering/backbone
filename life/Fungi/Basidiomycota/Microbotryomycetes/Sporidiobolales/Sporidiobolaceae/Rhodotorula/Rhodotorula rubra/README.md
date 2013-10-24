@@ -1,17 +1,16 @@
-Rhodotorula rubra f. rubra FORM
-=======
+# Rhodotorula rubra (Schimon) F.C. Harrison, 1928 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Nouveau Traité Méd. 22(2): 193 (1928)
 
 #### Original name
-Rhodotorula rubra f. rubra
+null
 
 ### Remarks
 null

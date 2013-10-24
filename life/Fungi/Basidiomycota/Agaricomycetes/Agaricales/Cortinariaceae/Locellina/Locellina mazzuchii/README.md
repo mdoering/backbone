@@ -1,5 +1,4 @@
-Locellina mazzuchii Speg. SPECIES
-=======
+# Locellina mazzuchii Speg. SPECIES
 
 #### Status
 ACCEPTED

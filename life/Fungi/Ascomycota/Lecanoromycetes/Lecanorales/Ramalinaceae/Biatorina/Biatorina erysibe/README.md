@@ -1,5 +1,4 @@
-Biatorina erysibe SPECIES
-=======
+# Biatorina erysibe SPECIES
 
 #### Status
 ACCEPTED

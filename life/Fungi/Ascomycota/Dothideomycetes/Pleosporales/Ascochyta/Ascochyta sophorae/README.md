@@ -1,5 +1,4 @@
-Ascochyta sophorae Allesch. SPECIES
-=======
+# Ascochyta sophorae Allesch. SPECIES
 
 #### Status
 ACCEPTED

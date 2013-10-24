@@ -1,5 +1,4 @@
-Sarcoscypha lilliputiana (Le Gal) Eckblad SPECIES
-=======
+# Sarcoscypha lilliputiana (Le Gal) Eckblad SPECIES
 
 #### Status
 ACCEPTED

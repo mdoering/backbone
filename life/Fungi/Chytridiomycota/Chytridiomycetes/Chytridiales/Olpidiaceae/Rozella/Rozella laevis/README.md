@@ -1,5 +1,4 @@
-Rozella laevis Karling, 1942 SPECIES
-=======
+# Rozella laevis Karling, 1942 SPECIES
 
 #### Status
 ACCEPTED

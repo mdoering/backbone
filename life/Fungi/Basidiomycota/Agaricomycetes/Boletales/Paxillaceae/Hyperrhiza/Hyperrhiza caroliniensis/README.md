@@ -1,5 +1,4 @@
-Hyperrhiza caroliniensis Spreng. SPECIES
-=======
+# Hyperrhiza caroliniensis Spreng. SPECIES
 
 #### Status
 ACCEPTED

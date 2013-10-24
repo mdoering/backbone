@@ -1,5 +1,4 @@
-Cryptomela acutispora J.F.H. Beyma, 1933 SPECIES
-=======
+# Cryptomela acutispora J.F.H. Beyma, 1933 SPECIES
 
 #### Status
 ACCEPTED

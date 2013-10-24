@@ -1,5 +1,4 @@
-Steinina Leger & Duboscq, 1904 GENUS
-=======
+# Steinina Leger & Duboscq, 1904 GENUS
 
 #### Status
 ACCEPTED

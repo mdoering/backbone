@@ -1,5 +1,4 @@
-Pyxine himalayensis D.D. Awasthi SPECIES
-=======
+# Pyxine himalayensis D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

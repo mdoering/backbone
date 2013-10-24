@@ -1,5 +1,4 @@
-Omphalia micromeles Berk. & Broome SPECIES
-=======
+# Omphalia micromeles Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

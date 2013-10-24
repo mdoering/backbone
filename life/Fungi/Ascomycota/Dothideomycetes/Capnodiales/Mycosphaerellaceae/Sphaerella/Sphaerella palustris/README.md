@@ -1,5 +1,4 @@
-Sphaerella palustris (Fr.) Cooke SPECIES
-=======
+# Sphaerella palustris (Fr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

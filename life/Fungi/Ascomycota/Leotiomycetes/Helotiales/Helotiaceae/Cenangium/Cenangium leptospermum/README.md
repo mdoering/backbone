@@ -1,5 +1,4 @@
-Cenangium leptospermum Berk. & M.A. Curtis SPECIES
-=======
+# Cenangium leptospermum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

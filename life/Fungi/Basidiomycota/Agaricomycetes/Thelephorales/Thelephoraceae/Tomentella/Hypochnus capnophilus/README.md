@@ -1,5 +1,4 @@
-Hypochnus capnophilus G. Arnaud SPECIES
-=======
+# Hypochnus capnophilus G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

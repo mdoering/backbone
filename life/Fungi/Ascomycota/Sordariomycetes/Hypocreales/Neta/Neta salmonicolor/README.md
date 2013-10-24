@@ -1,5 +1,4 @@
-Neta salmonicolor (Shearer) de Hoog, 1985 SPECIES
-=======
+# Neta salmonicolor (Shearer) de Hoog, 1985 SPECIES
 
 #### Status
 ACCEPTED

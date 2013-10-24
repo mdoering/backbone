@@ -1,5 +1,4 @@
-Calkinsia Lackey, 1960 GENUS
-=======
+# Calkinsia Lackey, 1960 GENUS
 
 #### Status
 ACCEPTED

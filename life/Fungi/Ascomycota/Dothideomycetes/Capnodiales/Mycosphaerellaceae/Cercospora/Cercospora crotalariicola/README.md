@@ -1,5 +1,4 @@
-Cercospora crotalariicola J.M. Yen SPECIES
-=======
+# Cercospora crotalariicola J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

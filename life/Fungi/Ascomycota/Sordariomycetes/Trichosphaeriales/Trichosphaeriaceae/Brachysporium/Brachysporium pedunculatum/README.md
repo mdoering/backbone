@@ -1,5 +1,4 @@
-Brachysporium pedunculatum Ellis & Everh. SPECIES
-=======
+# Brachysporium pedunculatum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

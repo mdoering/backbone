@@ -1,17 +1,16 @@
-Verticillium agaricinum var. agaricinum (Link) Corda VARIETY
-=======
+# Cladobotryum verticillatum (Link) S. Hughes, 1958 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. fung. (Prague) 2: 15 (1838)
+Can. J. Bot. 36: 750 (1958)
 
 #### Original name
-Verticillium agaricinum var. agaricinum (Link) Corda
+Acremonium verticillatum Link, 1809
 
 ### Remarks
 null

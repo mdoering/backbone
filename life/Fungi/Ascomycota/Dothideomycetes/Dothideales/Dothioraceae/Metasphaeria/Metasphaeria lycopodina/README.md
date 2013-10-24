@@ -1,5 +1,4 @@
-Metasphaeria lycopodina Petr. SPECIES
-=======
+# Metasphaeria lycopodina Petr. SPECIES
 
 #### Status
 ACCEPTED

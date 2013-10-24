@@ -1,5 +1,4 @@
-Ascococcus GENUS
-=======
+# Ascococcus GENUS
 
 #### Status
 ACCEPTED

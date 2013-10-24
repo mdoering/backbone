@@ -1,17 +1,16 @@
-Puccinia asteris var. asteris VARIETY
-=======
+# Puccinia cnici-oleracei Pers., 1823 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Gall. (Paris), Edn 2 2: 888 (1830)
+in Desmazières, Catal. des plantes omis. 24 (1823)
 
 #### Original name
-Puccinia asteris var. asteris
+Puccinia cnici-oleracei Pers., 1823
 
 ### Remarks
 null

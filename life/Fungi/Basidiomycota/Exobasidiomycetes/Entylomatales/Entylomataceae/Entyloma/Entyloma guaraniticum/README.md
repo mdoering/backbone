@@ -1,14 +1,13 @@
-Entyloma compositarum var. guaraniticum (Speg.) Cif., 1963 VARIETY
-=======
+# Entyloma guaraniticum Speg., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Quaderno Ist. Bot. Univ. Pavia 27: 93 (1963)
+Anal. Soc. cient. argent. 17(3): 128 (1884)
 
 #### Original name
 Entyloma guaraniticum Speg., 1884

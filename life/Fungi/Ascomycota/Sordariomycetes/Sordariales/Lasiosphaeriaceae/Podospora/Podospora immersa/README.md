@@ -1,5 +1,4 @@
-Podospora immersa (R. Stratton) Cain SPECIES
-=======
+# Podospora immersa (R. Stratton) Cain SPECIES
 
 #### Status
 ACCEPTED

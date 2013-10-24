@@ -1,5 +1,4 @@
-Acantholigotriletum carelense Timofeev, 1959 SPECIES
-=======
+# Acantholigotriletum carelense Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

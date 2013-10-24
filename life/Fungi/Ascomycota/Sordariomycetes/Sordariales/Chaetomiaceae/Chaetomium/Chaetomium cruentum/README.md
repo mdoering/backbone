@@ -1,5 +1,4 @@
-Chaetomium cruentum L.M. Ames, 1963 SPECIES
-=======
+# Chaetomium cruentum L.M. Ames, 1963 SPECIES
 
 #### Status
 ACCEPTED

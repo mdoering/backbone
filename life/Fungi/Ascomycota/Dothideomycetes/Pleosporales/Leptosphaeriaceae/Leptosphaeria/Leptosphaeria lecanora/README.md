@@ -1,17 +1,16 @@
-Heptameria lecanora (Fabre) Cooke, 1889 SPECIES
-=======
+# Leptosphaeria lecanora Fabre, 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 6 15: 49 (1883)
 
 #### Original name
-null
+Leptosphaeria lecanora Fabre, 1883
 
 ### Remarks
 null

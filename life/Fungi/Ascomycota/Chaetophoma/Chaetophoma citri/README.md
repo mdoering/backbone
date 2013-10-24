@@ -1,5 +1,4 @@
-Chaetophoma citri var. citri VARIETY
-=======
+# Chaetophoma citri Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Chaetophoma citri var. citri
+Chaetophoma citri Sacc.
 
 ### Remarks
 null

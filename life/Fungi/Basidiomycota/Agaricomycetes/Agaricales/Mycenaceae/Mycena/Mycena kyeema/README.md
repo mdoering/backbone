@@ -1,5 +1,4 @@
-Mycena kyeema Grgur. SPECIES
-=======
+# Mycena kyeema Grgur. SPECIES
 
 #### Status
 ACCEPTED

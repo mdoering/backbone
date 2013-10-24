@@ -1,5 +1,4 @@
-Hendersonia macrochloae Trab. SPECIES
-=======
+# Hendersonia macrochloae Trab. SPECIES
 
 #### Status
 ACCEPTED

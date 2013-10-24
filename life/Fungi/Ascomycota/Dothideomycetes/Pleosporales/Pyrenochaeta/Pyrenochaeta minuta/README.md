@@ -1,5 +1,4 @@
-Pyrenochaeta minuta J.C. Carter SPECIES
-=======
+# Pyrenochaeta minuta J.C. Carter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma restaldii Ferraris SPECIES
-=======
+# Macrophoma restaldii Ferraris SPECIES
 
 #### Status
 ACCEPTED

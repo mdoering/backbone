@@ -1,5 +1,4 @@
-Octospora Hedw. GENUS
-=======
+# Octospora Hedw. GENUS
 
 #### Status
 ACCEPTED

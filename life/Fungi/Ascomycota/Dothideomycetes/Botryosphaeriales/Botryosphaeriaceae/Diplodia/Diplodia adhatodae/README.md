@@ -1,5 +1,4 @@
-Diplodia adhatodae S. Ahmad SPECIES
-=======
+# Diplodia adhatodae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

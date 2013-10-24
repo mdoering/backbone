@@ -1,5 +1,4 @@
-Cortinarius depressus Fr., 1838 SPECIES
-=======
+# Cortinarius depressus Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED

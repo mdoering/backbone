@@ -1,5 +1,4 @@
-Physalospora theobromae Turconi SPECIES
-=======
+# Physalospora theobromae Turconi SPECIES
 
 #### Status
 ACCEPTED

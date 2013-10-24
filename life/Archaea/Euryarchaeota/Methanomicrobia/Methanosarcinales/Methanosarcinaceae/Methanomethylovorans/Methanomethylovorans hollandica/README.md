@@ -1,5 +1,4 @@
-Methanomethylovorans hollandica Lomans et al., 2004 SPECIES
-=======
+# Methanomethylovorans hollandica Lomans et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

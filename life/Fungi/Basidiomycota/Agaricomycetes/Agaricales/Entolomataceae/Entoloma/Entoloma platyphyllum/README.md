@@ -1,5 +1,4 @@
-Entoloma platyphyllum Herp. SPECIES
-=======
+# Entoloma platyphyllum Herp. SPECIES
 
 #### Status
 ACCEPTED

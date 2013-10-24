@@ -1,5 +1,4 @@
-Phyllachora hieronymi Henn., 1895 SPECIES
-=======
+# Phyllachora hieronymi Henn., 1895 SPECIES
 
 #### Status
 ACCEPTED

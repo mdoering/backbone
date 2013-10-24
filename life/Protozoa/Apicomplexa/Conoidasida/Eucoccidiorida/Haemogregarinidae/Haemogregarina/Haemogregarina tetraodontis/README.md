@@ -1,5 +1,4 @@
-Haemogregarina tetraodontis Mackerras & Mackerras, 1961 SPECIES
-=======
+# Haemogregarina tetraodontis Mackerras & Mackerras, 1961 SPECIES
 
 #### Status
 ACCEPTED

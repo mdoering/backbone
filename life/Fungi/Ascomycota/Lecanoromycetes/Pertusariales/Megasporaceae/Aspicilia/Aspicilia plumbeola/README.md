@@ -1,5 +1,4 @@
-Aspicilia plumbeola Hue SPECIES
-=======
+# Aspicilia plumbeola Hue SPECIES
 
 #### Status
 ACCEPTED

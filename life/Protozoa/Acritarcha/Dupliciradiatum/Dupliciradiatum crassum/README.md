@@ -1,5 +1,4 @@
-Dupliciradiatum crassum González, Moreno & Playford, 2005 SPECIES
-=======
+# Dupliciradiatum crassum González, Moreno & Playford, 2005 SPECIES
 
 #### Status
 ACCEPTED

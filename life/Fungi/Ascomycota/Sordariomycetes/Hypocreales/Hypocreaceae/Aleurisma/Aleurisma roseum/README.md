@@ -1,5 +1,4 @@
-Aleurisma roseum Link SPECIES
-=======
+# Aleurisma roseum Link SPECIES
 
 #### Status
 ACCEPTED

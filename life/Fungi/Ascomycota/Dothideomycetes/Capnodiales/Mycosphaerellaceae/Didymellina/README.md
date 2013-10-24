@@ -1,5 +1,4 @@
-Didymellina GENUS
-=======
+# Didymellina GENUS
 
 #### Status
 ACCEPTED

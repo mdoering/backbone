@@ -1,5 +1,4 @@
-Dioicomyces mesoveliae R.K. Benj. SPECIES
-=======
+# Dioicomyces mesoveliae R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

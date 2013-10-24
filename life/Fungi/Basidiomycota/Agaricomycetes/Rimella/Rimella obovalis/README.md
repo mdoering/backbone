@@ -1,5 +1,4 @@
-Rimella obovalis Raf. SPECIES
-=======
+# Rimella obovalis Raf. SPECIES
 
 #### Status
 ACCEPTED

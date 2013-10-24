@@ -1,5 +1,4 @@
-Platygrapha subrimata Nyl. SPECIES
-=======
+# Platygrapha subrimata Nyl. SPECIES
 
 #### Status
 ACCEPTED

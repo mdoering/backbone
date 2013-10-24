@@ -1,5 +1,4 @@
-Diplodina leonuri Rostr. SPECIES
-=======
+# Diplodina leonuri Rostr. SPECIES
 
 #### Status
 ACCEPTED

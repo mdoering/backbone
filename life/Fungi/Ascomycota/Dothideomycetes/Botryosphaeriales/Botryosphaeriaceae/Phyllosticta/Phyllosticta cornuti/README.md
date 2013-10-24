@@ -1,5 +1,4 @@
-Phyllosticta cornuti Ellis & Kellerm. SPECIES
-=======
+# Phyllosticta cornuti Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

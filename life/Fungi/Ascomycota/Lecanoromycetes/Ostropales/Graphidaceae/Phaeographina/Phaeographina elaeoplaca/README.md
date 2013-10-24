@@ -1,5 +1,4 @@
-Phaeographina elaeoplaca Zahlbr. SPECIES
-=======
+# Phaeographina elaeoplaca Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

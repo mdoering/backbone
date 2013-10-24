@@ -1,5 +1,4 @@
-Mycena vulgata (Britzelm.) Sacc. SPECIES
-=======
+# Mycena vulgata (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

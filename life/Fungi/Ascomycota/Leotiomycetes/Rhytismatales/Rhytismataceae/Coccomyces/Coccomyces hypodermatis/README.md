@@ -1,5 +1,4 @@
-Coccomyces hypodermatis C.L. Hou & M. Piepenbr., 2009 SPECIES
-=======
+# Coccomyces hypodermatis C.L. Hou & M. Piepenbr., 2009 SPECIES
 
 #### Status
 ACCEPTED

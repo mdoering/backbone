@@ -1,5 +1,4 @@
-Isoachlya terrestris P.G. Richt. ex Cejp SPECIES
-=======
+# Isoachlya terrestris P.G. Richt. ex Cejp SPECIES
 
 #### Status
 ACCEPTED

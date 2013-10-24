@@ -1,5 +1,4 @@
-Tolypomyria microspora (Corda) Sacc. SPECIES
-=======
+# Tolypomyria microspora (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biddulphiaceae Kütz. FAMILY
-=======
+# Biddulphiaceae Kütz. FAMILY
 
 #### Status
 ACCEPTED

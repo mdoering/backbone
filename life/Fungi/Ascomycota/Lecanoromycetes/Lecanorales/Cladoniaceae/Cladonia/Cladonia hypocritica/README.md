@@ -1,5 +1,4 @@
-Cladonia hypocritica Vain. SPECIES
-=======
+# Cladonia hypocritica Vain. SPECIES
 
 #### Status
 ACCEPTED

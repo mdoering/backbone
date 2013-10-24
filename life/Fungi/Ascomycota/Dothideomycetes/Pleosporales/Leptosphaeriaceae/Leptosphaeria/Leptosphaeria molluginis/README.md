@@ -1,5 +1,4 @@
-Leptosphaeria molluginis Pass. SPECIES
-=======
+# Leptosphaeria molluginis Pass. SPECIES
 
 #### Status
 ACCEPTED

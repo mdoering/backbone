@@ -1,5 +1,4 @@
-Pandadinium Courtinat, 1989 GENUS
-=======
+# Pandadinium Courtinat, 1989 GENUS
 
 #### Status
 ACCEPTED

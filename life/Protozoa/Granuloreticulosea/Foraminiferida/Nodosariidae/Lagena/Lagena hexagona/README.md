@@ -1,5 +1,4 @@
-Lagena hexagona (Williamson) SPECIES
-=======
+# Lagena hexagona (Williamson) SPECIES
 
 #### Status
 ACCEPTED

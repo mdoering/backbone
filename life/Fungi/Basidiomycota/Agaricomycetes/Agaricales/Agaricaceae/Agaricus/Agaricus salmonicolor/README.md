@@ -1,5 +1,4 @@
-Agaricus salmonicolor Berk. & Broome SPECIES
-=======
+# Agaricus salmonicolor Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

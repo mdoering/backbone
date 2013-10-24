@@ -1,5 +1,4 @@
-Echinella rhabdocarpa (Ellis) Seaver SPECIES
-=======
+# Echinella rhabdocarpa (Ellis) Seaver SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporisorium decorsei (Har. & Pat.) Vánky SPECIES
-=======
+# Sporisorium decorsei (Har. & Pat.) Vánky SPECIES
 
 #### Status
 ACCEPTED

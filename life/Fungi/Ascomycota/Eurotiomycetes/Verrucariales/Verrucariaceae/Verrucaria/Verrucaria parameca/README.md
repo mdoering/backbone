@@ -1,5 +1,4 @@
-Verrucaria parameca (A. Massal.) Stizenb. SPECIES
-=======
+# Verrucaria parameca (A. Massal.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

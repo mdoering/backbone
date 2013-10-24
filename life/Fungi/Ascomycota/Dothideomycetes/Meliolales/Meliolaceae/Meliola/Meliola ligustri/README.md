@@ -1,5 +1,4 @@
-Meliola ligustri Hosag. SPECIES
-=======
+# Meliola ligustri Hosag. SPECIES
 
 #### Status
 ACCEPTED

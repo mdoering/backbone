@@ -1,5 +1,4 @@
-Empusa phryganeae (Sorokin) Jacz. SPECIES
-=======
+# Empusa phryganeae (Sorokin) Jacz. SPECIES
 
 #### Status
 ACCEPTED

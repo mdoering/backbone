@@ -1,5 +1,4 @@
-Uncinula alangii T. Xu SPECIES
-=======
+# Uncinula alangii T. Xu SPECIES
 
 #### Status
 ACCEPTED

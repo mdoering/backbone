@@ -1,17 +1,16 @@
-Astrosporina umbrina (Bres.) Rea, 1979 SPECIES
-=======
+# Inocybe assimilata Britzelm., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 11(1): 14 (1979)
+Ber. naturw. Augsburg 26: 137 (1881)
 
 #### Original name
-Inocybe umbrina Massee, 1914
+Inocybe assimilata Britzelm., 1881
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Goussia aculeati Jastrzebski, 1984 SPECIES
-=======
+# Goussia aculeati Jastrzebski, 1984 SPECIES
 
 #### Status
 ACCEPTED

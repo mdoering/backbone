@@ -1,5 +1,4 @@
-Uromyces verbasci Niessl SPECIES
-=======
+# Uromyces verbasci Niessl SPECIES
 
 #### Status
 ACCEPTED

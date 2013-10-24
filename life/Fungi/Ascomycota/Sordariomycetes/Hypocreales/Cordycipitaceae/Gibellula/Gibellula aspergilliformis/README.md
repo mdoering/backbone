@@ -1,5 +1,4 @@
-Gibellula aspergilliformis (Rostr.) Nann. SPECIES
-=======
+# Gibellula aspergilliformis (Rostr.) Nann. SPECIES
 
 #### Status
 ACCEPTED

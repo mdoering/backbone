@@ -1,5 +1,4 @@
-Pholiota kummeriana Henn. SPECIES
-=======
+# Pholiota kummeriana Henn. SPECIES
 
 #### Status
 ACCEPTED

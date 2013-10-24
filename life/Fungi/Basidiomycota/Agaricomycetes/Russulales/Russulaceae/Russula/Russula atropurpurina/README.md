@@ -1,5 +1,4 @@
-Russula atropurpurina (Singer) Crawshay SPECIES
-=======
+# Russula atropurpurina (Singer) Crawshay SPECIES
 
 #### Status
 ACCEPTED

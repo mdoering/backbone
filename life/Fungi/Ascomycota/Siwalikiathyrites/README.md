@@ -1,5 +1,4 @@
-Siwalikiathyrites R.K. Saxena & H.P. Singh, 1982 GENUS
-=======
+# Siwalikiathyrites R.K. Saxena & H.P. Singh, 1982 GENUS
 
 #### Status
 ACCEPTED

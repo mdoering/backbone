@@ -1,5 +1,4 @@
-Marasmius flabellatus Henn. SPECIES
-=======
+# Marasmius flabellatus Henn. SPECIES
 
 #### Status
 ACCEPTED

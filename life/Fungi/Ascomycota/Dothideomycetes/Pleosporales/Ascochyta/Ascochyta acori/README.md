@@ -1,5 +1,4 @@
-Ascochyta acori Oudem., 1898 SPECIES
-=======
+# Ascochyta acori Oudem., 1898 SPECIES
 
 #### Status
 ACCEPTED

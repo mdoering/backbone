@@ -1,5 +1,4 @@
-Aspicilia athroocarpa (Sm. & Sowerby) Mudd SPECIES
-=======
+# Aspicilia athroocarpa (Sm. & Sowerby) Mudd SPECIES
 
 #### Status
 ACCEPTED

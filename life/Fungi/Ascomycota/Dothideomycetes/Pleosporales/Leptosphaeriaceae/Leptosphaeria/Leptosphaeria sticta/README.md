@@ -1,8 +1,7 @@
-Heptameria sticta (Ellis & Everh.) Cooke, 1889 SPECIES
-=======
+# Leptosphaeria sticta Ellis & Everh., 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Leptosphaeria sticta Ellis & Everh., 1885
 
 ### Remarks
 null

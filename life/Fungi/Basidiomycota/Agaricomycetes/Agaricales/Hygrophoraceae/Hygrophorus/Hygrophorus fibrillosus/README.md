@@ -1,5 +1,4 @@
-Hygrophorus fibrillosus H.E. Bigelow SPECIES
-=======
+# Hygrophorus fibrillosus H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

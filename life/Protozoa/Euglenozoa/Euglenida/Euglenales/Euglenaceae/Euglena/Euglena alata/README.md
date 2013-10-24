@@ -1,5 +1,4 @@
-Euglena alata R.H. Thompson SPECIES
-=======
+# Euglena alata R.H. Thompson SPECIES
 
 #### Status
 ACCEPTED

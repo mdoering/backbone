@@ -1,5 +1,4 @@
-Microsphaera calocladophora G.F. Atk. SPECIES
-=======
+# Microsphaera calocladophora G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

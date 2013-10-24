@@ -1,5 +1,4 @@
-Agaricus ravenelii Berk. & Broome SPECIES
-=======
+# Agaricus ravenelii Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria abietina Velen. SPECIES
-=======
+# Patellaria abietina Velen. SPECIES
 
 #### Status
 ACCEPTED

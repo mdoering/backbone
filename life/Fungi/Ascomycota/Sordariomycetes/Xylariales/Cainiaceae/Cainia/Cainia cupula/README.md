@@ -1,5 +1,4 @@
-Cainia cupula (Ellis) E. Müll. SPECIES
-=======
+# Cainia cupula (Ellis) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

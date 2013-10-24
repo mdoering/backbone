@@ -1,5 +1,4 @@
-Leptosphaerulina fontium Scheuer SPECIES
-=======
+# Leptosphaerulina fontium Scheuer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia mastrucata var. mastrucata VARIETY
-=======
+# Aspicilia mastrucata (Wahlenb.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aspicilia mastrucata var. mastrucata
+Lichen mastrucatus Wahlenb.
 
 ### Remarks
 null

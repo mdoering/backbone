@@ -1,5 +1,4 @@
-Peziza perparva Harmaja SPECIES
-=======
+# Peziza perparva Harmaja SPECIES
 
 #### Status
 ACCEPTED

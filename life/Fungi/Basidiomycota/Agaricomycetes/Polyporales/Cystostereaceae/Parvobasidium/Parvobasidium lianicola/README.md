@@ -1,17 +1,16 @@
-Corticium lianacolum G. Cunn. SPECIES
-=======
+# Parvobasidium lianicola (G. Cunn.) Stalpers, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Z. Jl Bot. 23(2): 307 (1985)
 
 #### Original name
-Corticium lianacolum G. Cunn.
+Corticium lianicola G. Cunn., 1963
 
 ### Remarks
 null

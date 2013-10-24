@@ -1,5 +1,4 @@
-Colacium arcuatum Playfair SPECIES
-=======
+# Colacium arcuatum Playfair SPECIES
 
 #### Status
 ACCEPTED

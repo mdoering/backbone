@@ -1,5 +1,4 @@
-Phyllosticta eucalyptica Pat. SPECIES
-=======
+# Phyllosticta eucalyptica Pat. SPECIES
 
 #### Status
 ACCEPTED

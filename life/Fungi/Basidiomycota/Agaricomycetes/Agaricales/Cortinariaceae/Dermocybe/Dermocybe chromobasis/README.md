@@ -1,5 +1,4 @@
-Dermocybe chromobasis (Høil. & Watling) T.W. May & A.E. Wood SPECIES
-=======
+# Dermocybe chromobasis (Høil. & Watling) T.W. May & A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

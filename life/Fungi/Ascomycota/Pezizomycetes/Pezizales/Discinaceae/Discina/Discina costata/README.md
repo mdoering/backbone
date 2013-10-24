@@ -1,5 +1,4 @@
-Discina costata (Fr.) Sacc. SPECIES
-=======
+# Discina costata (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

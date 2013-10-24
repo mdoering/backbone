@@ -1,5 +1,4 @@
-Coelomomyces iyengarii Couch SPECIES
-=======
+# Coelomomyces iyengarii Couch SPECIES
 
 #### Status
 ACCEPTED

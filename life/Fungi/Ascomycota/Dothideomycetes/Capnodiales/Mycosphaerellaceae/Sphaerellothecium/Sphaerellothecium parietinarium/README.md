@@ -1,17 +1,16 @@
-Discothecium gemmiferum var. physciicola (Nyl.) Keissl., 1930 VARIETY
-=======
+# Sphaerellothecium parietinarium (Linds.) Hafellner & V. John, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rabenh. Krypt. -Fl. (Leipzig) 8: 392 (1930)
+Herzogia 19: 155-176 (2006)
 
 #### Original name
-Mycoporum physciicola Nyl., 1873
+Microthelia parietinaria Linds., 1869
 
 ### Remarks
 null

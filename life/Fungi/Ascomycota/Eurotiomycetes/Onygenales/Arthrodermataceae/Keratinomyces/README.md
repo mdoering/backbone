@@ -1,5 +1,4 @@
-Keratinomyces GENUS
-=======
+# Keratinomyces GENUS
 
 #### Status
 ACCEPTED

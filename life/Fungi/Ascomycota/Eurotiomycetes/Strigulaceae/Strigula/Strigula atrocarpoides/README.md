@@ -1,5 +1,4 @@
-Strigula atrocarpoides var. atrocarpoides VARIETY
-=======
+# Strigula atrocarpoides Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ann. Acad. Sci. fenn. , Ser. A 19: 25 (1923)
 
 #### Original name
-Strigula atrocarpoides var. atrocarpoides
+Strigula atrocarpoides Vain.
 
 ### Remarks
 null

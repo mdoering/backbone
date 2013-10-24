@@ -1,5 +1,4 @@
-Ophiobolus pseudaffinis Petr. SPECIES
-=======
+# Ophiobolus pseudaffinis Petr. SPECIES
 
 #### Status
 ACCEPTED

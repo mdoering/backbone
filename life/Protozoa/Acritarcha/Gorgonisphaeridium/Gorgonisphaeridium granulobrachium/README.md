@@ -1,5 +1,4 @@
-Gorgonisphaeridium granulobrachium Ottone, Albanesi, Ortega & Holfeltz SPECIES
-=======
+# Gorgonisphaeridium granulobrachium Ottone, Albanesi, Ortega & Holfeltz SPECIES
 
 #### Status
 ACCEPTED

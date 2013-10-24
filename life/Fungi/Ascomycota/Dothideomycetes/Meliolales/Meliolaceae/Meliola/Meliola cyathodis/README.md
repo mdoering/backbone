@@ -1,17 +1,16 @@
-Meliola cyathodis var. stypheliae Hansf. VARIETY
-=======
+# Meliola cyathodis Hansf., 1946 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 9: 41 (1955)
+Proc. Linn. Soc. London 157: 180 (1946)
 
 #### Original name
-Meliola cyathodis var. stypheliae Hansf.
+Meliola cyathodis Hansf., 1946
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Baltisphaeridium cravattense Loeblich & Tappan, 1976 SPECIES
-=======
+# Baltisphaeridium cravattense Loeblich & Tappan, 1976 SPECIES
 
 #### Status
 ACCEPTED

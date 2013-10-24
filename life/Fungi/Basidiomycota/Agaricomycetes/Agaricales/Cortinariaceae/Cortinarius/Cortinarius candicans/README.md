@@ -1,5 +1,4 @@
-Cortinarius candicans (Velen.) Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius candicans (Velen.) Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

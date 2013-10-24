@@ -1,5 +1,4 @@
-Cercospora liabi Syd. SPECIES
-=======
+# Cercospora liabi Syd. SPECIES
 
 #### Status
 ACCEPTED

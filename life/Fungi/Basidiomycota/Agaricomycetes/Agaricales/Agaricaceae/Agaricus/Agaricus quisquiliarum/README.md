@@ -1,5 +1,4 @@
-Agaricus quisquiliarum Scop. SPECIES
-=======
+# Agaricus quisquiliarum Scop. SPECIES
 
 #### Status
 ACCEPTED

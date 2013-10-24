@@ -1,5 +1,4 @@
-Dendrophyra arborescens SPECIES
-=======
+# Dendrophyra arborescens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma cephalandrae (Thüm.) Kuntze SPECIES
-=======
+# Dicaeoma cephalandrae (Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

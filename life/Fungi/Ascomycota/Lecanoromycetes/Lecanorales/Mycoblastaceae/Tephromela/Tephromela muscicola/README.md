@@ -1,5 +1,4 @@
-Tephromela muscicola Kalb SPECIES
-=======
+# Tephromela muscicola Kalb SPECIES
 
 #### Status
 ACCEPTED

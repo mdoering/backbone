@@ -1,5 +1,4 @@
-Russula formosa J. Blum SPECIES
-=======
+# Russula formosa J. Blum SPECIES
 
 #### Status
 ACCEPTED

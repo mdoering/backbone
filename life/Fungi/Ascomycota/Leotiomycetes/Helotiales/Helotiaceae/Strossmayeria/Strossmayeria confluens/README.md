@@ -1,14 +1,13 @@
-Gorgoniceps confluens Seaver & Waterston, 1940 SPECIES
-=======
+# Strossmayeria confluens (Seaver & Waterston) Iturr. & Korf, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 32(3): 399 (1940)
+Mycotaxon 36(2): 423 (1990)
 
 #### Original name
 Gorgoniceps confluens Seaver & Waterston, 1940

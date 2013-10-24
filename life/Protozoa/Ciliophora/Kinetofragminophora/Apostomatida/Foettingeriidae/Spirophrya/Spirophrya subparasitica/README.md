@@ -1,5 +1,4 @@
-Spirophrya subparasitica Chatton & Lwoff, 1924 SPECIES
-=======
+# Spirophrya subparasitica Chatton & Lwoff, 1924 SPECIES
 
 #### Status
 ACCEPTED

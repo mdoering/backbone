@@ -1,5 +1,4 @@
-Cortinarius bolbitioides Rob. Henry SPECIES
-=======
+# Cortinarius bolbitioides Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

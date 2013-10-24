@@ -1,5 +1,4 @@
-Parmelia coeruleobadia Behlen & Desberger SPECIES
-=======
+# Parmelia coeruleobadia Behlen & Desberger SPECIES
 
 #### Status
 ACCEPTED

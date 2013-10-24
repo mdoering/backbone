@@ -1,5 +1,4 @@
-Xanthoparmelia kotisephola Hale SPECIES
-=======
+# Xanthoparmelia kotisephola Hale SPECIES
 
 #### Status
 ACCEPTED

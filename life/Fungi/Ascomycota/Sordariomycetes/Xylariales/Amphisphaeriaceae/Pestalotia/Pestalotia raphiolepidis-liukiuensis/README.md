@@ -1,5 +1,4 @@
-Pestalotia raphiolepidis-liukiuensis I. Hino & Katum. SPECIES
-=======
+# Pestalotia raphiolepidis-liukiuensis I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

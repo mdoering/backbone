@@ -1,5 +1,4 @@
-Sigmoilina elliptica Galloway & Wissler SPECIES
-=======
+# Sigmoilina elliptica Galloway & Wissler SPECIES
 
 #### Status
 ACCEPTED

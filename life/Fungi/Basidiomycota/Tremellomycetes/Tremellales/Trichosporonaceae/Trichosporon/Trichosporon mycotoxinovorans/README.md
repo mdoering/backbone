@@ -1,5 +1,4 @@
-Trichosporon mycotoxinovorans O. Molnár, Schatzm. & Prillinger SPECIES
-=======
+# Trichosporon mycotoxinovorans O. Molnár, Schatzm. & Prillinger SPECIES
 
 #### Status
 ACCEPTED

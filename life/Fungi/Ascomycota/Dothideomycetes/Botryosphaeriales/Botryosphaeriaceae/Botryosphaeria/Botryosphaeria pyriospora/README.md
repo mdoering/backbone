@@ -1,5 +1,4 @@
-Botryosphaeria pyriospora (Ellis) Sacc. SPECIES
-=======
+# Botryosphaeria pyriospora (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma flavescens Peck SPECIES
-=======
+# Tricholoma flavescens Peck SPECIES
 
 #### Status
 ACCEPTED

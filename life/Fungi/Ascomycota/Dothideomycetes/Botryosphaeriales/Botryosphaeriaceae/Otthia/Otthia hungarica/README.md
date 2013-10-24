@@ -1,5 +1,4 @@
-Otthia hungarica Sacc. & P. Syd. SPECIES
-=======
+# Otthia hungarica Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sagenomella chlamydospora ined. SPECIES
-=======
+# Sagenomella chlamydospora ined. SPECIES
 
 #### Status
 ACCEPTED

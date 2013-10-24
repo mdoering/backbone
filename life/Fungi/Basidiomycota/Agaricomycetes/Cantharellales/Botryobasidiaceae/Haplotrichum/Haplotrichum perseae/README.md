@@ -1,5 +1,4 @@
-Haplotrichum perseae R.F. Castañeda SPECIES
-=======
+# Haplotrichum perseae R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

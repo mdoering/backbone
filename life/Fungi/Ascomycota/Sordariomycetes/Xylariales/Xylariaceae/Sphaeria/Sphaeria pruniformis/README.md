@@ -1,5 +1,4 @@
-Sphaeria pruniformis Nyl. SPECIES
-=======
+# Sphaeria pruniformis Nyl. SPECIES
 
 #### Status
 ACCEPTED

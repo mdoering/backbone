@@ -1,5 +1,4 @@
-Typhula asphodeli Pat. SPECIES
-=======
+# Typhula asphodeli Pat. SPECIES
 
 #### Status
 ACCEPTED

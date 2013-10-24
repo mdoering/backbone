@@ -1,5 +1,4 @@
-Parmelia neglecta Asahina SPECIES
-=======
+# Parmelia neglecta Asahina SPECIES
 
 #### Status
 ACCEPTED

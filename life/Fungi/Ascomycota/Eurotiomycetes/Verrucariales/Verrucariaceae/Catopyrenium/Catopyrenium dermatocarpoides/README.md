@@ -1,5 +1,4 @@
-Catopyrenium dermatocarpoides (Anzi) Jatta SPECIES
-=======
+# Catopyrenium dermatocarpoides (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

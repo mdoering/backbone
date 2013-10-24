@@ -1,8 +1,7 @@
-Geotrichum redaelli Negroni & I. Fisch. SPECIES
-=======
+# Geotrichum redaellii Negroni & I. Fisch. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geotrichum redaelli Negroni & I. Fisch.
+Geotrichum redaellii Negroni & I. Fisch.
 
 ### Remarks
 null

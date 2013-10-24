@@ -1,5 +1,4 @@
-Sarcographa medusuloides (Fée) Zahlbr. SPECIES
-=======
+# Sarcographa medusuloides (Fée) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

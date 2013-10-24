@@ -1,5 +1,4 @@
-Eriomycopsis tenuis Syd. SPECIES
-=======
+# Eriomycopsis tenuis Syd. SPECIES
 
 #### Status
 ACCEPTED

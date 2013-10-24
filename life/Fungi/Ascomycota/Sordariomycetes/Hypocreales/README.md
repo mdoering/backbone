@@ -1,5 +1,4 @@
-Hypocreales Lindau ORDER
-=======
+# Hypocreales Lindau ORDER
 
 #### Status
 ACCEPTED

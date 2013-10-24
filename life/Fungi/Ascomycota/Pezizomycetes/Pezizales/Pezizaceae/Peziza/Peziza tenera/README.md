@@ -1,5 +1,4 @@
-Peziza tenera Saut. SPECIES
-=======
+# Peziza tenera Saut. SPECIES
 
 #### Status
 ACCEPTED

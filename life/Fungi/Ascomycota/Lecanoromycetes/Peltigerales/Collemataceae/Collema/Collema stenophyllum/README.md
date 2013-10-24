@@ -1,5 +1,4 @@
-Collema stenophyllum Nyl. SPECIES
-=======
+# Collema stenophyllum Nyl. SPECIES
 
 #### Status
 ACCEPTED

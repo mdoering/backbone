@@ -1,5 +1,4 @@
-Xerocomus leoninus (Krombh.) Quél. SPECIES
-=======
+# Xerocomus leoninus (Krombh.) Quél. SPECIES
 
 #### Status
 ACCEPTED

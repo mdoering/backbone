@@ -1,5 +1,4 @@
-Leptothyrium dewevreanum Sacc. & Trotter SPECIES
-=======
+# Leptothyrium dewevreanum Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

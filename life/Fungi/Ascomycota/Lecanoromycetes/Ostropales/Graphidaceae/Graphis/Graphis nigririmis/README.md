@@ -1,5 +1,4 @@
-Graphis nigririmis Müll. Arg. SPECIES
-=======
+# Graphis nigririmis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

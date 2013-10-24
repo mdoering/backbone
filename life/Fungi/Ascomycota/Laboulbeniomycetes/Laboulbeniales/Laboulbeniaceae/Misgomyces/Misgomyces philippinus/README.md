@@ -1,5 +1,4 @@
-Misgomyces philippinus Thaxt. SPECIES
-=======
+# Misgomyces philippinus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

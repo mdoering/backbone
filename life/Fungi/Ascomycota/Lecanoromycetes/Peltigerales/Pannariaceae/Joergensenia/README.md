@@ -1,5 +1,4 @@
-Joergensenia Passo, S. Stenroos & Calvelo GENUS
-=======
+# Joergensenia Passo, S. Stenroos & Calvelo GENUS
 
 #### Status
 ACCEPTED

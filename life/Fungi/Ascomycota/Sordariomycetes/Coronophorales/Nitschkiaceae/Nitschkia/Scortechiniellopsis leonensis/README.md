@@ -1,5 +1,4 @@
-Scortechiniellopsis leonensis Sivan. SPECIES
-=======
+# Scortechiniellopsis leonensis Sivan. SPECIES
 
 #### Status
 ACCEPTED

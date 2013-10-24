@@ -1,5 +1,4 @@
-Lyngbya cirularis SPECIES
-=======
+# Lyngbya cirularis SPECIES
 
 #### Status
 ACCEPTED

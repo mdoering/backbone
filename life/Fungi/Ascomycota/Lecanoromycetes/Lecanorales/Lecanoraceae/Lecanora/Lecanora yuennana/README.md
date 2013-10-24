@@ -1,8 +1,7 @@
-Lecanora yunnana (Zahlbr.) H. Magn. SPECIES
-=======
+# Lecanora yuennana (Zahlbr.) H. Magn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

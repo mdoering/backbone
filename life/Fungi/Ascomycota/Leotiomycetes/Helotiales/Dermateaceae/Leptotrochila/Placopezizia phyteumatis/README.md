@@ -1,5 +1,4 @@
-Placopezizia phyteumatis (Fuckel) Höhn. SPECIES
-=======
+# Placopezizia phyteumatis (Fuckel) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Puccinia recondita f. sp FORM
-=======
+# Puccinia recondita Dietel & Holw., 1857 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Notes R. bot. Gdn Edinb. 23: 504 (1961)
+Bull. Soc. bot. Fr. 4: 798 (1857)
 
 #### Original name
-Puccinia recondita f. sp
+Puccinia recondita Dietel & Holw., 1857
 
 ### Remarks
 null

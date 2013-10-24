@@ -1,5 +1,4 @@
-Mycena parca Aronsen SPECIES
-=======
+# Mycena parca Aronsen SPECIES
 
 #### Status
 ACCEPTED

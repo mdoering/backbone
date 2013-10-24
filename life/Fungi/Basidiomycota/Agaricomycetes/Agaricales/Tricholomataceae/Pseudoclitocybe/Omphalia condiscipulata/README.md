@@ -1,5 +1,4 @@
-Omphalia condiscipulata Berk. SPECIES
-=======
+# Omphalia condiscipulata Berk. SPECIES
 
 #### Status
 ACCEPTED

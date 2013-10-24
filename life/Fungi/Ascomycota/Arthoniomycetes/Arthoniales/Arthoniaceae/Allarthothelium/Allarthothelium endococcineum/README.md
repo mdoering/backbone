@@ -1,5 +1,4 @@
-Allarthothelium endococcineum (Vain.) Zahlbr. SPECIES
-=======
+# Allarthothelium endococcineum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

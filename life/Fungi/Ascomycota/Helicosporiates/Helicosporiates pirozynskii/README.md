@@ -1,5 +1,4 @@
-Helicosporiates pirozynskii Kalgutkar & Sigler SPECIES
-=======
+# Helicosporiates pirozynskii Kalgutkar & Sigler SPECIES
 
 #### Status
 ACCEPTED

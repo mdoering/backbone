@@ -1,5 +1,4 @@
-Lepiota erythrophylla Pat. SPECIES
-=======
+# Lepiota erythrophylla Pat. SPECIES
 
 #### Status
 ACCEPTED

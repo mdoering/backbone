@@ -1,5 +1,4 @@
-Bagnisiella anceps (Höhn.) Sacc. & Trotter SPECIES
-=======
+# Bagnisiella anceps (Höhn.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

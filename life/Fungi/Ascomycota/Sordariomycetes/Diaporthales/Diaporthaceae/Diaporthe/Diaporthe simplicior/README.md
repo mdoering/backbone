@@ -1,5 +1,4 @@
-Diaporthe simplicior Feltgen SPECIES
-=======
+# Diaporthe simplicior Feltgen SPECIES
 
 #### Status
 ACCEPTED

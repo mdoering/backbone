@@ -1,5 +1,4 @@
-Russula rolfeana L.D. Gómez & Alfaro SPECIES
-=======
+# Russula rolfeana L.D. Gómez & Alfaro SPECIES
 
 #### Status
 ACCEPTED

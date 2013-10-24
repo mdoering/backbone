@@ -1,5 +1,4 @@
-Mallomonas crassisquama var. papillosa P.A. Siver & A. Skogstad VARIETY
-=======
+# Mallomonas crassisquama (Asmund) Fott SPECIES
 
 #### Status
 ACCEPTED

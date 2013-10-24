@@ -1,5 +1,4 @@
-Streptomyces thermocoprophilus Kim et al., 2000 SPECIES
-=======
+# Streptomyces thermocoprophilus Kim et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

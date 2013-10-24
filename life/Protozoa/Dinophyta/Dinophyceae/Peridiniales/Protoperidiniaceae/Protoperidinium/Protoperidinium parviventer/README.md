@@ -1,8 +1,7 @@
-Protoperidinium gracile Gran & Braarud, 1935 SPECIES
-=======
+# Protoperidinium parviventer Balech, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

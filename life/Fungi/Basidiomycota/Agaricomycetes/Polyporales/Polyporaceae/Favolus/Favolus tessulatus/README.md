@@ -1,5 +1,4 @@
-Favolus tessulatus Mont. SPECIES
-=======
+# Favolus tessulatus Mont. SPECIES
 
 #### Status
 ACCEPTED

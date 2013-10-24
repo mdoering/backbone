@@ -1,5 +1,4 @@
-Aspidisca angulata Bock, 1952 SPECIES
-=======
+# Aspidisca angulata Bock, 1952 SPECIES
 
 #### Status
 ACCEPTED

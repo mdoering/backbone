@@ -1,5 +1,4 @@
-Peltigera coloradoensis Gyeln. SPECIES
-=======
+# Peltigera coloradoensis Gyeln. SPECIES
 
 #### Status
 ACCEPTED

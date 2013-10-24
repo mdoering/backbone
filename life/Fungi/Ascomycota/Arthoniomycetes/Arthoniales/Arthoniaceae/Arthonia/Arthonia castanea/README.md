@@ -1,5 +1,4 @@
-Arthonia castanea Chevall. SPECIES
-=======
+# Arthonia castanea Chevall. SPECIES
 
 #### Status
 ACCEPTED

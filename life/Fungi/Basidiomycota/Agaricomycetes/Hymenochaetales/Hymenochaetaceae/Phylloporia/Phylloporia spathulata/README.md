@@ -1,17 +1,16 @@
-Polystictus cumingii (Berk.) Sacc., 1888 SPECIES
-=======
+# Phylloporia spathulata (Hook.) Ryvarden, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 6: 209 (1888)
+Syn. Fung. (Oslo) 5: 196 (1991)
 
 #### Original name
-Polyporus cumingii Berk., 1842
+Boletus spathulatus Hook., 1822
 
 ### Remarks
 null

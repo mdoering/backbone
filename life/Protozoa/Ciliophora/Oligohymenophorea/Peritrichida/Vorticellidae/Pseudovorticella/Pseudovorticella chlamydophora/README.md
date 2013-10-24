@@ -1,5 +1,4 @@
-Pseudovorticella chlamydophora (Penard, 1922) Jankowski, 1976 SPECIES
-=======
+# Pseudovorticella chlamydophora (Penard, 1922) Jankowski, 1976 SPECIES
 
 #### Status
 ACCEPTED

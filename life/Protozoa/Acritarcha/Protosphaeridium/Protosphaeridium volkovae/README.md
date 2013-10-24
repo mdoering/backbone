@@ -1,5 +1,4 @@
-Protosphaeridium volkovae P. K. Maithy & M. Shukla SPECIES
-=======
+# Protosphaeridium volkovae P. K. Maithy & M. Shukla SPECIES
 
 #### Status
 ACCEPTED

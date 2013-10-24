@@ -1,5 +1,4 @@
-Melanoleuca brevispora Harmaja SPECIES
-=======
+# Melanoleuca brevispora Harmaja SPECIES
 
 #### Status
 ACCEPTED

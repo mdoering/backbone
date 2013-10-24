@@ -1,5 +1,4 @@
-Septoria hieracicola Dearn. & House SPECIES
-=======
+# Septoria hieracicola Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

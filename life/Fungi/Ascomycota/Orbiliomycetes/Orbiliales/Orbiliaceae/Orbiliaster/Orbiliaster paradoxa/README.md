@@ -1,5 +1,4 @@
-Orbiliaster paradoxa Huhtinen SPECIES
-=======
+# Orbiliaster paradoxa Huhtinen SPECIES
 
 #### Status
 ACCEPTED

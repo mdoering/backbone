@@ -1,5 +1,4 @@
-Ustilago spadicea (Liro) Vánky SPECIES
-=======
+# Ustilago spadicea (Liro) Vánky SPECIES
 
 #### Status
 ACCEPTED

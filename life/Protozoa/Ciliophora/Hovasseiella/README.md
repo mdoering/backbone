@@ -1,5 +1,4 @@
-Hovasseiella GENUS
-=======
+# Hovasseiella GENUS
 
 #### Status
 ACCEPTED

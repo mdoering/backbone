@@ -1,5 +1,4 @@
-Galerella plicatelloides Sarwal & Locq., 1983 SPECIES
-=======
+# Galerella plicatelloides Sarwal & Locq., 1983 SPECIES
 
 #### Status
 ACCEPTED

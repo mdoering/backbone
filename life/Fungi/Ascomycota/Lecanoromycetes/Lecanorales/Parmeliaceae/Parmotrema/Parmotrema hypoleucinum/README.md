@@ -1,17 +1,16 @@
-Parmelia hypoleucina var. hypoleucina VARIETY
-=======
+# Parmotrema hypoleucinum (J. Steiner) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Öst. bot. Z. 67: 282 (1918)
+Phytologia 28(4): 336 (1974)
 
 #### Original name
-Parmelia hypoleucina var. hypoleucina
+Parmelia hypoleucina J. Steiner
 
 ### Remarks
 null

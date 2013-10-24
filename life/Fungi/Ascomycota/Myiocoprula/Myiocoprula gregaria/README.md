@@ -1,5 +1,4 @@
-Myiocoprula gregaria Petr., 1955 SPECIES
-=======
+# Myiocoprula gregaria Petr., 1955 SPECIES
 
 #### Status
 ACCEPTED

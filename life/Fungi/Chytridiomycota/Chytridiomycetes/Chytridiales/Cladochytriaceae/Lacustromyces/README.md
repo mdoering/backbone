@@ -1,5 +1,4 @@
-Lacustromyces Longcore GENUS
-=======
+# Lacustromyces Longcore GENUS
 
 #### Status
 ACCEPTED

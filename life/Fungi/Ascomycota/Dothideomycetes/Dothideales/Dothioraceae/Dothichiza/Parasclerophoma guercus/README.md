@@ -1,5 +1,4 @@
-Parasclerophoma guercus (Lambotte) Petr. SPECIES
-=======
+# Parasclerophoma guercus (Lambotte) Petr. SPECIES
 
 #### Status
 ACCEPTED

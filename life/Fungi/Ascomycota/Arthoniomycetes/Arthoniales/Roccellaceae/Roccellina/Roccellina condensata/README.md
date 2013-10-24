@@ -1,14 +1,13 @@
-Dirina condensata (Darb.) Zahlbr. SPECIES
-=======
+# Roccellina condensata Darb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Meddn Göteb. Bot. Trädgord 2: 6 (1925)
+Ber. dt. bot. Ges. 16: 11 (1898)
 
 #### Original name
 Roccellina condensata Darb.

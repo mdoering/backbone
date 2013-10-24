@@ -1,5 +1,4 @@
-Rhabdospora uncinata Pass. SPECIES
-=======
+# Rhabdospora uncinata Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phyllosticta anacardicola Bat. & A.F. Vital SPECIES
-=======
+# Phyllosticta anacardiicola Bat. & A.F. Vital SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bol. Secr. Agric. (Pernambuco) 19(1-2): 6 (1952)
 
 #### Original name
-Phyllosticta anacardicola Bat. & A.F. Vital
+Phyllosticta anacardiicola Bat. & A.F. Vital
 
 ### Remarks
 null

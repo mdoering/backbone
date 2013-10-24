@@ -1,5 +1,4 @@
-Dacrymyces cerebriformis Bref. SPECIES
-=======
+# Dacrymyces cerebriformis Bref. SPECIES
 
 #### Status
 ACCEPTED

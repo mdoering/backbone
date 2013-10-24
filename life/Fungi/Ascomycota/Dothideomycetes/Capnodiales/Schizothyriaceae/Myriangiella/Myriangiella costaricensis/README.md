@@ -1,5 +1,4 @@
-Myriangiella costaricensis F. Stevens, 1927 SPECIES
-=======
+# Myriangiella costaricensis F. Stevens, 1927 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysteropezizella paradoxoides (Rehm) Nannf. SPECIES
-=======
+# Hysteropezizella paradoxoides (Rehm) Nannf. SPECIES
 
 #### Status
 ACCEPTED

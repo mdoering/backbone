@@ -1,5 +1,4 @@
-Lactarius tatrorum Z. Schaef. SPECIES
-=======
+# Lactarius tatrorum Z. Schaef. SPECIES
 
 #### Status
 ACCEPTED

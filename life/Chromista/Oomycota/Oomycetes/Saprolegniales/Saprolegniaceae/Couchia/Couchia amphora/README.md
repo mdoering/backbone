@@ -1,5 +1,4 @@
-Couchia amphora W.W. Martin, 2000 SPECIES
-=======
+# Couchia amphora W.W. Martin, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Helminthocarpon congoënse Müll. Arg. SPECIES
-=======
+# Helminthocarpon congoense Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Helminthocarpon congoënse Müll. Arg.
+Helminthocarpon congoense Müll. Arg.
 
 ### Remarks
 null

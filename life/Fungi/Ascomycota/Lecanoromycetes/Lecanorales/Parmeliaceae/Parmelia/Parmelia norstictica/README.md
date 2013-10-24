@@ -1,5 +1,4 @@
-Parmelia norstictica G.N. Stevens SPECIES
-=======
+# Parmelia norstictica G.N. Stevens SPECIES
 
 #### Status
 ACCEPTED

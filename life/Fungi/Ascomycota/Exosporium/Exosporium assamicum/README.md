@@ -1,5 +1,4 @@
-Exosporium assamicum Agnihothr. SPECIES
-=======
+# Exosporium assamicum Agnihothr. SPECIES
 
 #### Status
 ACCEPTED

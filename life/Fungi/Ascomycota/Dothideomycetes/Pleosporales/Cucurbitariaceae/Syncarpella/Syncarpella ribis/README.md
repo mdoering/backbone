@@ -1,17 +1,16 @@
-Syntholus ribis A.W. Ramaley & M.E. Barr, 1997 SPECIES
-=======
+# Syncarpella ribis A.W. Ramaley & M.E. Barr, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 65: 501 (1997)
+Mycotaxon 65: 500 (1997)
 
 #### Original name
-Syntholus ribis A.W. Ramaley & M.E. Barr, 1997
+Syncarpella ribis A.W. Ramaley & M.E. Barr, 1997
 
 ### Remarks
 null

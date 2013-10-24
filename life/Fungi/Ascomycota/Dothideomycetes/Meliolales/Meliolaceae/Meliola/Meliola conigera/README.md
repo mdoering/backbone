@@ -1,5 +1,4 @@
-Meliola conigera F. Stevens & Tehon SPECIES
-=======
+# Meliola conigera F. Stevens & Tehon SPECIES
 
 #### Status
 ACCEPTED

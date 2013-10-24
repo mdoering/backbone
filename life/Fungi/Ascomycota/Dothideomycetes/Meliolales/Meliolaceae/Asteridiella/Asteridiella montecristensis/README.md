@@ -1,5 +1,4 @@
-Asteridiella montecristensis Hansf. SPECIES
-=======
+# Asteridiella montecristensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urocystis erythronii G.P. Clinton SPECIES
-=======
+# Urocystis erythronii G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

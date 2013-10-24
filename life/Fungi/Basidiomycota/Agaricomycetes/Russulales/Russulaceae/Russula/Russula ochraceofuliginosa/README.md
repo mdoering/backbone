@@ -1,5 +1,4 @@
-Russula ochraceofuliginosa Beeli SPECIES
-=======
+# Russula ochraceofuliginosa Beeli SPECIES
 
 #### Status
 ACCEPTED

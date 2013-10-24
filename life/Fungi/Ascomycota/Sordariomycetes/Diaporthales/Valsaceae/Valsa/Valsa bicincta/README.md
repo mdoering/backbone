@@ -1,5 +1,4 @@
-Valsa bicincta Cooke & Peck SPECIES
-=======
+# Valsa bicincta Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

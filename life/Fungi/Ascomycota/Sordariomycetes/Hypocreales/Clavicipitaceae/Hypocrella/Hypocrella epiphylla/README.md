@@ -1,5 +1,4 @@
-Hypocrella epiphylla Massee SPECIES
-=======
+# Hypocrella epiphylla Massee SPECIES
 
 #### Status
 ACCEPTED

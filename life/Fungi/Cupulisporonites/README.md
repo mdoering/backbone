@@ -1,5 +1,4 @@
-Cupulisporonites Z.C. Song & Liu Cao GENUS
-=======
+# Cupulisporonites Z.C. Song & Liu Cao GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia stylosanthis Viégas SPECIES
-=======
+# Puccinia stylosanthis Viégas SPECIES
 
 #### Status
 ACCEPTED

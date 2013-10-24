@@ -1,5 +1,4 @@
-Schiffnerula theissenii S. Hughes SPECIES
-=======
+# Schiffnerula theissenii S. Hughes SPECIES
 
 #### Status
 ACCEPTED

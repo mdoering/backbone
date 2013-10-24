@@ -1,5 +1,4 @@
-Thaxterogaster conicus (Hesler) Singer & A.H. Sm. SPECIES
-=======
+# Thaxterogaster conicus (Hesler) Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

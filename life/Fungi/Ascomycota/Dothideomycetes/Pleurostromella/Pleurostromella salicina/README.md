@@ -1,5 +1,4 @@
-Pleurostromella salicina Petr. SPECIES
-=======
+# Pleurostromella salicina Petr. SPECIES
 
 #### Status
 ACCEPTED

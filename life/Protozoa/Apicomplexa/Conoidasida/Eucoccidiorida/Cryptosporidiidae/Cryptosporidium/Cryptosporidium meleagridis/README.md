@@ -1,8 +1,7 @@
-Cryptosporidium tyzzeri Levine, 1961 SPECIES
-=======
+# Cryptosporidium meleagridis Slavin, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Graphis subcontorta (Müll. Arg.) Lücking & Chaves SPECIES
-=======
+# Graphis subcontorta (Müll. Arg.) Lücking & Chaves SPECIES
 
 #### Status
 ACCEPTED

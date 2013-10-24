@@ -1,14 +1,13 @@
-Coniothyrium sporulosum (W. Gams & Domsch) Aa, 1977 SPECIES
-=======
+# Paraconiothyrium sporulosum (W. Gams & Domsch) Verkley, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. K. Akad. Wet. , tweede sect. 68: 3 (1977)
+in Verkley, da Silva, Wicklow & Crous, Stud. Mycol. 50(2): 332 (2004)
 
 #### Original name
 Coniothyrium fuckelii var. sporulosum W. Gams & Domsch, 1969

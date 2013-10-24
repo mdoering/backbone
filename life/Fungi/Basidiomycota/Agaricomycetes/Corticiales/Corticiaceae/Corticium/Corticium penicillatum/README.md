@@ -1,5 +1,4 @@
-Corticium penicillatum Petch, 1925 SPECIES
-=======
+# Corticium penicillatum Petch, 1925 SPECIES
 
 #### Status
 ACCEPTED

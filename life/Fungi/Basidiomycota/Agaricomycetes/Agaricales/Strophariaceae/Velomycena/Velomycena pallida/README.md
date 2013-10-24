@@ -1,5 +1,4 @@
-Velomycena pallida Pilát SPECIES
-=======
+# Velomycena pallida Pilát SPECIES
 
 #### Status
 ACCEPTED

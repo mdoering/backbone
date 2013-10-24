@@ -1,14 +1,13 @@
-Phellinus rufi-tinctus (Berk. & M.A. Curtis ex Cooke) Pat. SPECIES
-=======
+# Phellinus rufitinctus (Berk. & M.A. Curtis ex Cooke) Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Essai Tax. Hyménomyc. (Lons-le-Saunier) 97 (1900)
 
 #### Original name
 Polyporus rufitinctus Berk. & M.A. Curtis ex Cooke

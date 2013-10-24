@@ -1,5 +1,4 @@
-Cryptosporium boycei Dearn. SPECIES
-=======
+# Cryptosporium boycei Dearn. SPECIES
 
 #### Status
 ACCEPTED

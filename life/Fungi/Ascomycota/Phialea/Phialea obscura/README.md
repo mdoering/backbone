@@ -1,5 +1,4 @@
-Phialea obscura Henn. SPECIES
-=======
+# Phialea obscura Henn. SPECIES
 
 #### Status
 ACCEPTED

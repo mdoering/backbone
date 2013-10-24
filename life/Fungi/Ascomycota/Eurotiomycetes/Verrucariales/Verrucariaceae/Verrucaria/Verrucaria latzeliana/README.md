@@ -1,5 +1,4 @@
-Verrucaria latzeliana Servít SPECIES
-=======
+# Verrucaria latzeliana Servít SPECIES
 
 #### Status
 ACCEPTED

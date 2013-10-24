@@ -1,5 +1,4 @@
-Arthonia pertabescens Nyl. SPECIES
-=======
+# Arthonia pertabescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

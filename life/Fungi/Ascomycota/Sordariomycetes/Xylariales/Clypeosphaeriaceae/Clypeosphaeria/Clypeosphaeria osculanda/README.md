@@ -1,5 +1,4 @@
-Clypeosphaeria osculanda (Preuss) Sacc. SPECIES
-=======
+# Clypeosphaeria osculanda (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

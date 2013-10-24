@@ -1,5 +1,4 @@
-Mycovellosiella pyricola Y.L. Guo, X.R. Chen & Shan L. Zhang SPECIES
-=======
+# Mycovellosiella pyricola Y.L. Guo, X.R. Chen & Shan L. Zhang SPECIES
 
 #### Status
 ACCEPTED

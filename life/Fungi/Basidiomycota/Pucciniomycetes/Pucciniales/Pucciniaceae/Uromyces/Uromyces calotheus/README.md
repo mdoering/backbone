@@ -1,5 +1,4 @@
-Uromyces calotheus Syd. & P. Syd. SPECIES
-=======
+# Uromyces calotheus Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

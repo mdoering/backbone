@@ -1,5 +1,4 @@
-Riedelia tenuicornis (Greville) H. J. Schrader & J. Fenner SPECIES
-=======
+# Riedelia tenuicornis (Greville) H. J. Schrader & J. Fenner SPECIES
 
 #### Status
 ACCEPTED

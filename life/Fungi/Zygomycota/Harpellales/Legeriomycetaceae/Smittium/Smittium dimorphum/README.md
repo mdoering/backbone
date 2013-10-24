@@ -1,5 +1,4 @@
-Smittium dimorphum Lichtw. & M.C. Williams, 1983 SPECIES
-=======
+# Smittium dimorphum Lichtw. & M.C. Williams, 1983 SPECIES
 
 #### Status
 ACCEPTED

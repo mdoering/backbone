@@ -1,5 +1,4 @@
-Uredo dioscoreae-filiformis Racib. SPECIES
-=======
+# Uredo dioscoreae-filiformis Racib. SPECIES
 
 #### Status
 ACCEPTED

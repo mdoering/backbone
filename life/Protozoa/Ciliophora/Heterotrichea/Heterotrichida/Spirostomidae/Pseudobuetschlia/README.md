@@ -1,5 +1,4 @@
-Pseudobuetschlia GENUS
-=======
+# Pseudobuetschlia GENUS
 
 #### Status
 ACCEPTED

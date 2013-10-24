@@ -1,5 +1,4 @@
-Caloplaca dyseimata (Hue) Zahlbr. SPECIES
-=======
+# Caloplaca dyseimata (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

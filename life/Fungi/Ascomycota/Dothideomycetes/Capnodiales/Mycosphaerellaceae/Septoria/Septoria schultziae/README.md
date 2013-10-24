@@ -1,5 +1,4 @@
-Septoria schultziae Murashk. SPECIES
-=======
+# Septoria schultziae Murashk. SPECIES
 
 #### Status
 ACCEPTED

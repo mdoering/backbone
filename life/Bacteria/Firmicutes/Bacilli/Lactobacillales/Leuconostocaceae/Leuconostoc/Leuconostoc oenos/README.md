@@ -1,5 +1,4 @@
-Leuconostoc oenos SPECIES
-=======
+# Leuconostoc oenos SPECIES
 
 #### Status
 ACCEPTED

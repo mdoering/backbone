@@ -1,5 +1,4 @@
-Anematidium oxiphilum Gronchi SPECIES
-=======
+# Anematidium oxiphilum Gronchi SPECIES
 
 #### Status
 ACCEPTED

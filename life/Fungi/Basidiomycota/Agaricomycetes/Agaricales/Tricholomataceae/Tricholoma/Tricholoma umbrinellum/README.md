@@ -1,5 +1,4 @@
-Tricholoma umbrinellum Speg. SPECIES
-=======
+# Tricholoma umbrinellum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ombrophila albofusca Ellis SPECIES
-=======
+# Ombrophila albofusca Ellis SPECIES
 
 #### Status
 ACCEPTED

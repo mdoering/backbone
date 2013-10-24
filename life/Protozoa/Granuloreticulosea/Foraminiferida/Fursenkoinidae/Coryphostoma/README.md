@@ -1,5 +1,4 @@
-Coryphostoma Loeblich & Tappan, 1962 GENUS
-=======
+# Coryphostoma Loeblich & Tappan, 1962 GENUS
 
 #### Status
 ACCEPTED

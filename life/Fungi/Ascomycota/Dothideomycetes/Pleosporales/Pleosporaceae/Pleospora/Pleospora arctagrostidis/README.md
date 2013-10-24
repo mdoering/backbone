@@ -1,5 +1,4 @@
-Pleospora arctagrostidis Oudem. SPECIES
-=======
+# Pleospora arctagrostidis Oudem. SPECIES
 
 #### Status
 ACCEPTED

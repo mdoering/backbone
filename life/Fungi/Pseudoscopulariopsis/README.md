@@ -1,5 +1,4 @@
-Pseudoscopulariopsis G. Sm. GENUS
-=======
+# Pseudoscopulariopsis G. Sm. GENUS
 
 #### Status
 ACCEPTED

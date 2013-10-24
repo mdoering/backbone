@@ -1,5 +1,4 @@
-Russula blackfordiae Peck SPECIES
-=======
+# Russula blackfordiae Peck SPECIES
 
 #### Status
 ACCEPTED

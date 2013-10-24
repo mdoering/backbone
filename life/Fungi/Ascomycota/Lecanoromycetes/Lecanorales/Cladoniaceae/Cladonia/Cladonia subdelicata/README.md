@@ -1,5 +1,4 @@
-Cladonia subdelicata Nyl. SPECIES
-=======
+# Cladonia subdelicata Nyl. SPECIES
 
 #### Status
 ACCEPTED

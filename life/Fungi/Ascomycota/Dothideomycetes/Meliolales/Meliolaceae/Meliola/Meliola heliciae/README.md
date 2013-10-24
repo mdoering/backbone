@@ -1,5 +1,4 @@
-Meliola heliciae W. Yamam. SPECIES
-=======
+# Meliola heliciae W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

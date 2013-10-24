@@ -1,5 +1,4 @@
-Dichotisphaera R.E. Turner, 1984 GENUS
-=======
+# Dichotisphaera R.E. Turner, 1984 GENUS
 
 #### Status
 ACCEPTED

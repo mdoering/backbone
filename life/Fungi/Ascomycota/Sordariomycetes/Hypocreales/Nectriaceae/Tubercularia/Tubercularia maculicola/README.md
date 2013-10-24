@@ -1,5 +1,4 @@
-Tubercularia maculicola Sacc. SPECIES
-=======
+# Tubercularia maculicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

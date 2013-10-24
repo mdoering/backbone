@@ -1,5 +1,4 @@
-Saporlegnia terrestris Cookson ex Seymour SPECIES
-=======
+# Saporlegnia terrestris Cookson ex Seymour SPECIES
 
 #### Status
 ACCEPTED

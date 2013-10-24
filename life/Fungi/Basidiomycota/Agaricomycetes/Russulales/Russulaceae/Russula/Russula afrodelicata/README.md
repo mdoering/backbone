@@ -1,5 +1,4 @@
-Russula afrodelicata Buyck SPECIES
-=======
+# Russula afrodelicata Buyck SPECIES
 
 #### Status
 ACCEPTED

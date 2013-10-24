@@ -1,5 +1,4 @@
-Ciboria asphodeli Duvernoy & Maire SPECIES
-=======
+# Ciboria asphodeli Duvernoy & Maire SPECIES
 
 #### Status
 ACCEPTED

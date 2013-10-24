@@ -1,5 +1,4 @@
-Macrotyphula filiformis (Bull.) Paechn. SPECIES
-=======
+# Macrotyphula filiformis (Bull.) Paechn. SPECIES
 
 #### Status
 ACCEPTED

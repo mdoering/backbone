@@ -1,5 +1,4 @@
-Xenosporium ovatum G.Z. Zhao, Xing Z. Liu & W.P. Wu SPECIES
-=======
+# Xenosporium ovatum G.Z. Zhao, Xing Z. Liu & W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

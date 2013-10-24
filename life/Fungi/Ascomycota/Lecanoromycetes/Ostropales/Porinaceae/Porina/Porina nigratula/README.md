@@ -1,5 +1,4 @@
-Porina nigratula (Nyl.) Zahlbr. SPECIES
-=======
+# Porina nigratula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

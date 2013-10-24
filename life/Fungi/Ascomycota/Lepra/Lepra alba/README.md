@@ -1,5 +1,4 @@
-Lepra alba (Roth) Schaer. SPECIES
-=======
+# Lepra alba (Roth) Schaer. SPECIES
 
 #### Status
 ACCEPTED

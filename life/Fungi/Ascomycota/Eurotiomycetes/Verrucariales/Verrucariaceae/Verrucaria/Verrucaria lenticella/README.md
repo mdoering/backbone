@@ -1,5 +1,4 @@
-Verrucaria lenticella Zahlbr. SPECIES
-=======
+# Verrucaria lenticella Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

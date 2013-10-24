@@ -1,5 +1,4 @@
-Meliola bouchardatiae Hansf. SPECIES
-=======
+# Meliola bouchardatiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

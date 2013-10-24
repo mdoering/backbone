@@ -1,5 +1,4 @@
-Epistylis phoxini SPECIES
-=======
+# Epistylis phoxini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyperomyxa GENUS
-=======
+# Hyperomyxa GENUS
 
 #### Status
 ACCEPTED

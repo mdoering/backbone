@@ -1,5 +1,4 @@
-Nodosaria interrupta d’Orbigny, 1826 SPECIES
-=======
+# Nodosaria interrupta d’Orbigny, 1826 SPECIES
 
 #### Status
 ACCEPTED

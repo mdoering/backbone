@@ -1,5 +1,4 @@
-Coelosporidium Mesnil & Marchoux GENUS
-=======
+# Coelosporidium Mesnil & Marchoux GENUS
 
 #### Status
 ACCEPTED

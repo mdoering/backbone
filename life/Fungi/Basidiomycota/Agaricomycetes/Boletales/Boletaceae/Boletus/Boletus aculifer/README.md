@@ -1,5 +1,4 @@
-Boletus aculifer Corner SPECIES
-=======
+# Boletus aculifer Corner SPECIES
 
 #### Status
 ACCEPTED

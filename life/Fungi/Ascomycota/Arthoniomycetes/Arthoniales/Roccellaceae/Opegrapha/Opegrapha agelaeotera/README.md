@@ -1,5 +1,4 @@
-Opegrapha agelaeotera Vain. SPECIES
-=======
+# Opegrapha agelaeotera Vain. SPECIES
 
 #### Status
 ACCEPTED

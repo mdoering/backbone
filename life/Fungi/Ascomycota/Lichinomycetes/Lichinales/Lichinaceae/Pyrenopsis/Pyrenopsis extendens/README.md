@@ -1,5 +1,4 @@
-Pyrenopsis extendens (Nyl.) Vain. SPECIES
-=======
+# Pyrenopsis extendens (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

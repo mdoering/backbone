@@ -1,5 +1,4 @@
-Weiseria palustris SPECIES
-=======
+# Weiseria palustris SPECIES
 
 #### Status
 ACCEPTED

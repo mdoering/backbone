@@ -1,17 +1,16 @@
-Botrytis ficariarum Hennebert, 1973 SPECIES
-=======
+# Botryotinia ficariarum Hennebert, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 7(2): 189 (1973)
+Can. J. Bot. 41: 355 (1963)
 
 #### Original name
-Botrytis ficariarum Hennebert, 1973
+Botryotinia ficariarum Hennebert, 1963
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Rhodocollybia subnigra Lennox SPECIES
-=======
+# Rhodocollybia subnigra Lennox SPECIES
 
 #### Status
 ACCEPTED

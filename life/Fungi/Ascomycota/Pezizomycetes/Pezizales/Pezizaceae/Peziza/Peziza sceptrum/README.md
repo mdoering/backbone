@@ -1,5 +1,4 @@
-Peziza sceptrum Batsch SPECIES
-=======
+# Peziza sceptrum Batsch SPECIES
 
 #### Status
 ACCEPTED

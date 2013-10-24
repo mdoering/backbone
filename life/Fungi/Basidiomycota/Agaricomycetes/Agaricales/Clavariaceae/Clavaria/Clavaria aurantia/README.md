@@ -1,5 +1,4 @@
-Clavaria aurantia var. macrospora R.H. Petersen VARIETY
-=======
+# Clavaria aurantia Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Sydowia 32(1-6): 215 (1980)
+Ann. Bot. (Usteri) 15: 32 (1795)
 
 #### Original name
-Clavaria aurantia var. macrospora R.H. Petersen
+Clavaria aurantia Pers.
 
 ### Remarks
 null

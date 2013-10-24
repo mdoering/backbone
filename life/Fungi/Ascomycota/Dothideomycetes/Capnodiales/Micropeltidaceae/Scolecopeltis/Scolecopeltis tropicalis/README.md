@@ -1,5 +1,4 @@
-Scolecopeltis tropicalis Speg. SPECIES
-=======
+# Scolecopeltis tropicalis Speg. SPECIES
 
 #### Status
 ACCEPTED

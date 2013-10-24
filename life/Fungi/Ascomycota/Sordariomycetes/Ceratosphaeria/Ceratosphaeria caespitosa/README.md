@@ -1,5 +1,4 @@
-Ceratosphaeria caespitosa Lind & Vleugel SPECIES
-=======
+# Ceratosphaeria caespitosa Lind & Vleugel SPECIES
 
 #### Status
 ACCEPTED

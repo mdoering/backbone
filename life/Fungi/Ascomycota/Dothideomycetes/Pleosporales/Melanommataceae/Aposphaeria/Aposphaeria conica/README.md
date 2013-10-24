@@ -1,5 +1,4 @@
-Aposphaeria conica Sacc. SPECIES
-=======
+# Aposphaeria conica Sacc. SPECIES
 
 #### Status
 ACCEPTED

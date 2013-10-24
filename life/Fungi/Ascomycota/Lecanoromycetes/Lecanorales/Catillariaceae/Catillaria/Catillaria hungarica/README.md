@@ -1,5 +1,4 @@
-Catillaria hungarica (Bentz.-Stern.) Zahlbr. SPECIES
-=======
+# Catillaria hungarica (Bentz.-Stern.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

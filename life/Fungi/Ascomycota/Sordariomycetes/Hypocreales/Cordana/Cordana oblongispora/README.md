@@ -1,5 +1,4 @@
-Cordana oblongispora Matsush. SPECIES
-=======
+# Cordana oblongispora Matsush. SPECIES
 
 #### Status
 ACCEPTED

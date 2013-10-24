@@ -1,5 +1,4 @@
-Pseudocorythion wailesi Golemansky, 1971 SPECIES
-=======
+# Pseudocorythion wailesi Golemansky, 1971 SPECIES
 
 #### Status
 ACCEPTED

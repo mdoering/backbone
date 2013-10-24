@@ -1,5 +1,4 @@
-Verrucaria simplicior J. Steiner SPECIES
-=======
+# Verrucaria simplicior J. Steiner SPECIES
 
 #### Status
 ACCEPTED

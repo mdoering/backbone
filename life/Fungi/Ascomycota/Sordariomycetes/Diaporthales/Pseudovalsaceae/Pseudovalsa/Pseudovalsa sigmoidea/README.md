@@ -1,5 +1,4 @@
-Pseudovalsa sigmoidea (Cooke & Ellis) Sacc. SPECIES
-=======
+# Pseudovalsa sigmoidea (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

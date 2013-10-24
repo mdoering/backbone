@@ -1,5 +1,4 @@
-Uromyces sisyrinchiicola Speg. SPECIES
-=======
+# Uromyces sisyrinchiicola Speg. SPECIES
 
 #### Status
 ACCEPTED

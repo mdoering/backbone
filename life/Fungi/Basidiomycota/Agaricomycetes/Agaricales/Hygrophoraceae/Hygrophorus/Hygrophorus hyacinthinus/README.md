@@ -1,5 +1,4 @@
-Hygrophorus hyacinthinus Quél. SPECIES
-=======
+# Hygrophorus hyacinthinus Quél. SPECIES
 
 #### Status
 ACCEPTED

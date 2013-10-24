@@ -1,5 +1,4 @@
-Asterina africana var. kiggelariae Doidge VARIETY
-=======
+# Asterina africana (Van der Byl) Doidge SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Bothalia 4(2): 333 (1942)
+Bothalia 4: 310 (1942)
 
 #### Original name
-Asterina africana var. kiggelariae Doidge
+Parasterina africana Van der Byl
 
 ### Remarks
 null

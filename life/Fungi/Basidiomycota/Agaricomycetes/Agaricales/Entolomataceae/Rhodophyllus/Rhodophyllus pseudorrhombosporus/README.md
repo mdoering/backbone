@@ -1,5 +1,4 @@
-Rhodophyllus pseudorrhombosporus Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus pseudorrhombosporus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

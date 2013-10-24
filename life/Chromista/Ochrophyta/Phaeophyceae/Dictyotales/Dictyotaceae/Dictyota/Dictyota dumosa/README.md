@@ -1,5 +1,4 @@
-Dictyota dumosa Børgesen SPECIES
-=======
+# Dictyota dumosa Børgesen SPECIES
 
 #### Status
 ACCEPTED

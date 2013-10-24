@@ -1,14 +1,13 @@
-Torula dimidiata Penz., 1887 SPECIES
-=======
+# Neoscytalidium dimidiatum (Penz.) Crous & Slippers, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Crous, Slippers, Wingfield, Rheeder, Marasas, Phillips, Alves, Burgess, Barber & Groenewald, Stud. Mycol. 55: 244 (2006)
 
 #### Original name
 Torula dimidiata Penz., 1887

@@ -1,5 +1,4 @@
-Monosiga W.S.Kent, 1878 GENUS
-=======
+# Monosiga W.S.Kent, 1878 GENUS
 
 #### Status
 ACCEPTED

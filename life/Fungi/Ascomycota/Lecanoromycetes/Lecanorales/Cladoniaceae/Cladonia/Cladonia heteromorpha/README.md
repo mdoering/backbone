@@ -1,5 +1,4 @@
-Cladonia heteromorpha SPECIES
-=======
+# Cladonia heteromorpha SPECIES
 
 #### Status
 ACCEPTED

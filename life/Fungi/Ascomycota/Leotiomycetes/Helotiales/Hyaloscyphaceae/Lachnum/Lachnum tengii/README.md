@@ -1,5 +1,4 @@
-Lachnum tengii W.Y. Zhuang SPECIES
-=======
+# Lachnum tengii W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

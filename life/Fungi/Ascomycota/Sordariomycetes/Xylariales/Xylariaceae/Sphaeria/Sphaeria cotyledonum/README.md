@@ -1,5 +1,4 @@
-Sphaeria cotyledonum Kirchn. SPECIES
-=======
+# Sphaeria cotyledonum Kirchn. SPECIES
 
 #### Status
 ACCEPTED

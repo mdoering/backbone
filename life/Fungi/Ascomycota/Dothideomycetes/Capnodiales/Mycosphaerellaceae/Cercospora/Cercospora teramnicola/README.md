@@ -1,5 +1,4 @@
-Cercospora teramnicola Ragunathan & K. Ramakr. SPECIES
-=======
+# Cercospora teramnicola Ragunathan & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

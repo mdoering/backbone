@@ -1,5 +1,4 @@
-Mycocalicium compressulum Nyl. ex Szatala SPECIES
-=======
+# Mycocalicium compressulum Nyl. ex Szatala SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena cyanorrhiza Quél. SPECIES
-=======
+# Mycena cyanorrhiza Quél. SPECIES
 
 #### Status
 ACCEPTED

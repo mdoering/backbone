@@ -1,14 +1,13 @@
-Glenospora curtisii Berk. & Desm., 1876 SPECIES
-=======
+# Septobasidium curtisii (Berk. & Desm.) Boedijn & B.A. Steinm., 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 4(no. 32): 161 (1876)
+Bull. Jard. Bot. Buitenz, 3 Sér. 11(2): 181 (1931)
 
 #### Original name
 Glenospora curtisii Berk. & Desm., 1876

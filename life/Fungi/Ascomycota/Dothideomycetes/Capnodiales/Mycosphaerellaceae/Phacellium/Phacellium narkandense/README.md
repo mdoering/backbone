@@ -1,5 +1,4 @@
-Phacellium narkandense (Deighton) U. Braun SPECIES
-=======
+# Phacellium narkandense (Deighton) U. Braun SPECIES
 
 #### Status
 ACCEPTED

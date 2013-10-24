@@ -1,5 +1,4 @@
-Leccinum luteoporum (Bouchinot ex Barbier) utara SPECIES
-=======
+# Leccinum luteoporum (Bouchinot ex Barbier) utara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena pallescens Maas Geest. & Hauskn. SPECIES
-=======
+# Mycena pallescens Maas Geest. & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parachnopeziza variabilis W.Y. Zhuang & K.D. Hyde, 2001 SPECIES
-=======
+# Parachnopeziza variabilis W.Y. Zhuang & K.D. Hyde, 2001 SPECIES
 
 #### Status
 ACCEPTED

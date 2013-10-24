@@ -1,5 +1,4 @@
-Mucor croceus Mont. SPECIES
-=======
+# Mucor croceus Mont. SPECIES
 
 #### Status
 ACCEPTED

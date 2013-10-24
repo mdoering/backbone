@@ -1,5 +1,4 @@
-Thecadinium ornatum M. Hoppenrath SPECIES
-=======
+# Thecadinium ornatum M. Hoppenrath SPECIES
 
 #### Status
 ACCEPTED

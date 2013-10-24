@@ -1,5 +1,4 @@
-Cryptandromyces scydmaenicola (Speg.) I.I. Tav. SPECIES
-=======
+# Cryptandromyces scydmaenicola (Speg.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

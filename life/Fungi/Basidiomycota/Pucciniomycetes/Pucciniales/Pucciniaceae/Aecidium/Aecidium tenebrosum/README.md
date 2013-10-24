@@ -1,5 +1,4 @@
-Aecidium tenebrosum H.S. Jacks. & Holw. SPECIES
-=======
+# Aecidium tenebrosum H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria labium Pass. SPECIES
-=======
+# Septoria labium Pass. SPECIES
 
 #### Status
 ACCEPTED

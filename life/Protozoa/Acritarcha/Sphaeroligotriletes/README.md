@@ -1,5 +1,4 @@
-Sphaeroligotriletes GENUS
-=======
+# Sphaeroligotriletes GENUS
 
 #### Status
 ACCEPTED

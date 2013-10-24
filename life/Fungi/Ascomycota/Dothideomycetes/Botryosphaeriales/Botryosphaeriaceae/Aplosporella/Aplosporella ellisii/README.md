@@ -1,5 +1,4 @@
-Aplosporella ellisii Syd. {?} SPECIES
-=======
+# Aplosporella ellisii Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

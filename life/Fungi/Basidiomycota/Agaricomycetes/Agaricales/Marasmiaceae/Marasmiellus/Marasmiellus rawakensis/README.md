@@ -1,14 +1,13 @@
-Agaricus rawakensis Pers., 1827 SPECIES
-=======
+# Marasmiellus rawakensis (Pers.) Pegler & T.W.K. Young, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Gaudichaud in Freycinet, Voy. Uranie. Bot. 168 (1826)
+Mycol. Res. 93(3): 361 (1989)
 
 #### Original name
 Agaricus rawakensis Pers., 1827

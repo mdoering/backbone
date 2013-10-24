@@ -1,5 +1,4 @@
-Puccinia vesiculosa Schltdl. SPECIES
-=======
+# Puccinia vesiculosa Schltdl. SPECIES
 
 #### Status
 ACCEPTED

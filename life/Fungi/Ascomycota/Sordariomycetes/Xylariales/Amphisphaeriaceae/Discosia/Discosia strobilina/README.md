@@ -1,5 +1,4 @@
-Discosia strobilina Lib. ex Sacc., 1884 SPECIES
-=======
+# Discosia strobilina Lib. ex Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED

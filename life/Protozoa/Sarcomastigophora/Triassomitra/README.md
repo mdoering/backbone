@@ -1,5 +1,4 @@
-Triassomitra Feng, Du, Zhang & Zeng, 1994 GENUS
-=======
+# Triassomitra Feng, Du, Zhang & Zeng, 1994 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stylartella Haeckel, 1887 GENUS
-=======
+# Stylartella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

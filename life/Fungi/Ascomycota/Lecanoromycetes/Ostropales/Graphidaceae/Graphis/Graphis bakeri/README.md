@@ -1,5 +1,4 @@
-Graphis bakeri Vain. SPECIES
-=======
+# Graphis bakeri Vain. SPECIES
 
 #### Status
 ACCEPTED

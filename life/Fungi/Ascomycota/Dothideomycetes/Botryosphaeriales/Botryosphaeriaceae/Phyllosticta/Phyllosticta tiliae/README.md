@@ -1,5 +1,4 @@
-Phyllosticta tiliae Sacc. & Speg., 1878 SPECIES
-=======
+# Phyllosticta tiliae Sacc. & Speg., 1878 SPECIES
 
 #### Status
 ACCEPTED

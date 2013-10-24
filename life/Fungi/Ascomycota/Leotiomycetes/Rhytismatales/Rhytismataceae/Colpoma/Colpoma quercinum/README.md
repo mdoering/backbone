@@ -1,17 +1,16 @@
-Hypoderma quercinum DC., 1805 SPECIES
-=======
+# Colpoma quercinum (Pers.) Wallr., 1833 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Lamarck & de Candolle, Fl. franç. (Paris), Edn 3 2: 306 (1805)
+Fl. crypt. Germ. (Nürnberg) 2: 423 (1833)
 
 #### Original name
-Hypoderma quercinum DC., 1805
+Hysterium quercinum Pers., 1796
 
 ### Remarks
 null

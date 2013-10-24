@@ -1,5 +1,4 @@
-Peziza seminulum Batsch SPECIES
-=======
+# Peziza seminulum Batsch SPECIES
 
 #### Status
 ACCEPTED

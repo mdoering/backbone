@@ -1,14 +1,13 @@
-Acetabula radiata (Clem.) Sacc. & D. Sacc. SPECIES
-=======
+# Acetabula radicata (Clem.) Sacc. & D. Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 18: 13 (1906)
 
 #### Original name
 Phleboscyphus radicatus Clem.

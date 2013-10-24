@@ -1,5 +1,4 @@
-Lacellina leonensis M.B. Ellis SPECIES
-=======
+# Lacellina leonensis M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanophora aristoteliae Sawada SPECIES
-=======
+# Melanophora aristoteliae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia styracinum Hirats. SPECIES
-=======
+# Puccinia styracinum Hirats. SPECIES
 
 #### Status
 ACCEPTED

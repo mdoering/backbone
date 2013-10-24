@@ -1,17 +1,16 @@
-Septoria lantanaefolii Bat. & J.L. Bezerra SPECIES
-=======
+# Septoria lantanifolii Bat. & J.L. Bezerra SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Publções Inst. Micol. Recife 214: 24 (1959)
 
 #### Original name
-Septoria lantanaefolii Bat. & J.L. Bezerra
+Septoria lantanifolii Bat. & J.L. Bezerra
 
 ### Remarks
 null

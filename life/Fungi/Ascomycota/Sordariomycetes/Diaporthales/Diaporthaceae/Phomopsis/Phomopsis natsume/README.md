@@ -1,5 +1,4 @@
-Phomopsis natsume Hara SPECIES
-=======
+# Phomopsis natsume Hara SPECIES
 
 #### Status
 ACCEPTED

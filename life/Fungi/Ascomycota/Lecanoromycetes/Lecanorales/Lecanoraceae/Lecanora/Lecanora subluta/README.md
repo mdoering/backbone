@@ -1,5 +1,4 @@
-Lecanora subluta Nyl. SPECIES
-=======
+# Lecanora subluta Nyl. SPECIES
 
 #### Status
 ACCEPTED

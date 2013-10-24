@@ -1,5 +1,4 @@
-Verticillium osteophilum Ellis & Everh. SPECIES
-=======
+# Verticillium osteophilum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

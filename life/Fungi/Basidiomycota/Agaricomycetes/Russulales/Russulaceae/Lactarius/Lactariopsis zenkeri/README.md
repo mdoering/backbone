@@ -1,5 +1,4 @@
-Lactariopsis zenkeri Henn. SPECIES
-=======
+# Lactariopsis zenkeri Henn. SPECIES
 
 #### Status
 ACCEPTED

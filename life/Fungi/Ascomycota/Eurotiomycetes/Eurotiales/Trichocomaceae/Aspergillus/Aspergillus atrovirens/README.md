@@ -1,5 +1,4 @@
-Aspergillus atrovirens P. Karst. SPECIES
-=======
+# Aspergillus atrovirens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

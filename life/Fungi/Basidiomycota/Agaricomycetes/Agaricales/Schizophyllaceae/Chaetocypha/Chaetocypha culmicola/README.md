@@ -1,5 +1,4 @@
-Chaetocypha culmicola (Fuckel) Kuntze SPECIES
-=======
+# Chaetocypha culmicola (Fuckel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

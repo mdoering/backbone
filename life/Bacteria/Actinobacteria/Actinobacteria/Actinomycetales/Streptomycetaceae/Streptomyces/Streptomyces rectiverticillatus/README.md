@@ -1,11 +1,10 @@
-Actinomyces rectiverticillatus Krasil'nikov & Yuan, 1965 SPECIES
-=======
+# Streptomyces rectiverticillatus (Krasil'nikov and Yuan, 1965) Witt and Stackebrandt, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Septoria jenisseica Thüm. SPECIES
-=======
+# Septoria jenisseica Thüm. SPECIES
 
 #### Status
 ACCEPTED

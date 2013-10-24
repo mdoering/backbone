@@ -1,5 +1,4 @@
-Hypochnus helvolus var. helvolus VARIETY
-=======
+# Hypochnus helvolus Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Observ. mycol. (Havniae) 2: 281 (1818)
 
 #### Original name
-Hypochnus helvolus var. helvolus
+Hypochnus helvolus Fr.
 
 ### Remarks
 null

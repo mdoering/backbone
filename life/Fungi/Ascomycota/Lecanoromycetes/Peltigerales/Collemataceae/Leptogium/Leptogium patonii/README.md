@@ -1,5 +1,4 @@
-Leptogium patonii Stirt. SPECIES
-=======
+# Leptogium patonii Stirt. SPECIES
 
 #### Status
 ACCEPTED

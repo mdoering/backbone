@@ -1,5 +1,4 @@
-Cryptophiale minor M.L. Farr, 1980 SPECIES
-=======
+# Cryptophiale minor M.L. Farr, 1980 SPECIES
 
 #### Status
 ACCEPTED

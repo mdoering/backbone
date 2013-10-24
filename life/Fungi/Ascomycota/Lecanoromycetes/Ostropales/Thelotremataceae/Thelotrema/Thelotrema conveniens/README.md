@@ -1,5 +1,4 @@
-Thelotrema conveniens Nyl. SPECIES
-=======
+# Thelotrema conveniens Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Merulius binominatus Massee SPECIES
-=======
+# Merulius binominatus Massee SPECIES
 
 #### Status
 ACCEPTED

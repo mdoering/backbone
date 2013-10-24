@@ -1,5 +1,4 @@
-Sphaeria geoglossum Schwein. SPECIES
-=======
+# Sphaeria geoglossum Schwein. SPECIES
 
 #### Status
 ACCEPTED

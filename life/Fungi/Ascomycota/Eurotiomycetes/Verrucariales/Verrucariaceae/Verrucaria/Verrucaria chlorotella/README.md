@@ -1,5 +1,4 @@
-Verrucaria chlorotella Nyl. SPECIES
-=======
+# Verrucaria chlorotella Nyl. SPECIES
 
 #### Status
 ACCEPTED

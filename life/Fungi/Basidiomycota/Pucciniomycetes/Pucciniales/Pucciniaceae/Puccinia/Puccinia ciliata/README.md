@@ -1,5 +1,4 @@
-Puccinia ciliata (Kom.) Tranzschel SPECIES
-=======
+# Puccinia ciliata (Kom.) Tranzschel SPECIES
 
 #### Status
 ACCEPTED

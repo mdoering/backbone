@@ -1,5 +1,4 @@
-Palaeomyces majus Renault SPECIES
-=======
+# Palaeomyces majus Renault SPECIES
 
 #### Status
 ACCEPTED

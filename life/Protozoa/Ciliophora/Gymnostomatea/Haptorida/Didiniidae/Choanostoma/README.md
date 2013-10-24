@@ -1,5 +1,4 @@
-Choanostoma Wang, 1931 GENUS
-=======
+# Choanostoma Wang, 1931 GENUS
 
 #### Status
 ACCEPTED

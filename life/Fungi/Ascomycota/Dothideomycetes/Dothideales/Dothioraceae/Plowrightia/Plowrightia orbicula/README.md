@@ -1,5 +1,4 @@
-Plowrightia orbicula (Syd.) Arx & E. Müll. SPECIES
-=======
+# Plowrightia orbicula (Syd.) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

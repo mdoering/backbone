@@ -1,5 +1,4 @@
-Fomes kermes (Berk. & Broome) Sacc. SPECIES
-=======
+# Fomes kermes (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Enchelys discolor SPECIES
-=======
+# Enchelys discolor SPECIES
 
 #### Status
 ACCEPTED

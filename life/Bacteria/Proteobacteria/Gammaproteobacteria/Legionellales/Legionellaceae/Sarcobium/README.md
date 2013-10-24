@@ -1,5 +1,4 @@
-Sarcobium Drozanski, 1991 GENUS
-=======
+# Sarcobium Drozanski, 1991 GENUS
 
 #### Status
 ACCEPTED

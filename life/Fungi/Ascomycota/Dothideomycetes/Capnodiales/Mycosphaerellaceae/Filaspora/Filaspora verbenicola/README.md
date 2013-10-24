@@ -1,5 +1,4 @@
-Filaspora verbenicola (Sacc.) Kuntze SPECIES
-=======
+# Filaspora verbenicola (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

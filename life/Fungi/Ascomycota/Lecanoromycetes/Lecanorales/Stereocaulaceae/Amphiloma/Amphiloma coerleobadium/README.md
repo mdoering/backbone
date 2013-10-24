@@ -1,5 +1,4 @@
-Amphiloma coerleobadium SPECIES
-=======
+# Amphiloma coerleobadium SPECIES
 
 #### Status
 ACCEPTED

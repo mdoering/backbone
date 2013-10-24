@@ -1,5 +1,4 @@
-Citharistes regius Stein SPECIES
-=======
+# Citharistes regius Stein SPECIES
 
 #### Status
 ACCEPTED

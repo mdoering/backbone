@@ -1,5 +1,4 @@
-Merulius dimidiatus Rauschert SPECIES
-=======
+# Merulius dimidiatus Rauschert SPECIES
 
 #### Status
 ACCEPTED

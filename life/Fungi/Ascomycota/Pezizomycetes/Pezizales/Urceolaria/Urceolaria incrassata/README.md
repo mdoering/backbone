@@ -1,5 +1,4 @@
-Urceolaria incrassata (Vain.) Motyka SPECIES
-=======
+# Urceolaria incrassata (Vain.) Motyka SPECIES
 
 #### Status
 ACCEPTED

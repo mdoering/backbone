@@ -1,5 +1,4 @@
-Asterina sarcandrae Hosag. & Kamar., 2006 SPECIES
-=======
+# Asterina sarcandrae Hosag. & Kamar., 2006 SPECIES
 
 #### Status
 ACCEPTED

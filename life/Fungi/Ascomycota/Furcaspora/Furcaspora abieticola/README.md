@@ -1,5 +1,4 @@
-Furcaspora abieticola Punith. SPECIES
-=======
+# Furcaspora abieticola Punith. SPECIES
 
 #### Status
 ACCEPTED

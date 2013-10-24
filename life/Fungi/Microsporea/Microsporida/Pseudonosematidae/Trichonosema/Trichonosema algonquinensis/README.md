@@ -1,5 +1,4 @@
-Trichonosema algonquinensis S.S. Desser, A. Koehler, J.R. Barta, J. Kamyab & M.J. Ringuette SPECIES
-=======
+# Trichonosema algonquinensis S.S. Desser, A. Koehler, J.R. Barta, J. Kamyab & M.J. Ringuette SPECIES
 
 #### Status
 ACCEPTED

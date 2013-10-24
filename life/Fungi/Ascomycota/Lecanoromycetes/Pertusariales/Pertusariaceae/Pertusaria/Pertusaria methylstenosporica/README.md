@@ -1,5 +1,4 @@
-Pertusaria methylstenosporica Jariangpr. SPECIES
-=======
+# Pertusaria methylstenosporica Jariangpr. SPECIES
 
 #### Status
 ACCEPTED

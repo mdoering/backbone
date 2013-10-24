@@ -1,5 +1,4 @@
-Schizothyrium discoideum (Ellis & G. Martin) Arx SPECIES
-=======
+# Schizothyrium discoideum (Ellis & G. Martin) Arx SPECIES
 
 #### Status
 ACCEPTED

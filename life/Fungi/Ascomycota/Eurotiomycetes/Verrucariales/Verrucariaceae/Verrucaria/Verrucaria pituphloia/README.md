@@ -1,5 +1,4 @@
-Verrucaria pituphloia Leight. SPECIES
-=======
+# Verrucaria pituphloia Leight. SPECIES
 
 #### Status
 ACCEPTED

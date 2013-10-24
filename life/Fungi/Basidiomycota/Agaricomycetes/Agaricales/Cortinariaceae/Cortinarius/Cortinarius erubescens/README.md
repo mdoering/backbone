@@ -1,5 +1,4 @@
-Cortinarius erubescens M.M. Moser, 1968 SPECIES
-=======
+# Cortinarius erubescens M.M. Moser, 1968 SPECIES
 
 #### Status
 ACCEPTED

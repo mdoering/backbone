@@ -1,5 +1,4 @@
-Phyllosticta cousiniae Vasyag. SPECIES
-=======
+# Phyllosticta cousiniae Vasyag. SPECIES
 
 #### Status
 ACCEPTED

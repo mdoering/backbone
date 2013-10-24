@@ -1,5 +1,4 @@
-Sphaerella fruticum (Starbäck) Sacc. SPECIES
-=======
+# Sphaerella fruticum (Starbäck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

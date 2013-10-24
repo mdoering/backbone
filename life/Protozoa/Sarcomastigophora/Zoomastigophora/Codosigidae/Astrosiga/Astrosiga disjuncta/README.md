@@ -1,5 +1,4 @@
-Astrosiga disjuncta (Fromentel, 1874) Kent, 1882 SPECIES
-=======
+# Astrosiga disjuncta (Fromentel, 1874) Kent, 1882 SPECIES
 
 #### Status
 ACCEPTED

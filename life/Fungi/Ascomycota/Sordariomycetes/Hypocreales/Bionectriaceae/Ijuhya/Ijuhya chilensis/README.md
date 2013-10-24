@@ -1,5 +1,4 @@
-Ijuhya chilensis (Speg.) Rossman & Samuels SPECIES
-=======
+# Ijuhya chilensis (Speg.) Rossman & Samuels SPECIES
 
 #### Status
 ACCEPTED

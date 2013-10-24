@@ -1,5 +1,4 @@
-Scleropycnis piceana (Naumov) B. Sutton & Livsey SPECIES
-=======
+# Scleropycnis piceana (Naumov) B. Sutton & Livsey SPECIES
 
 #### Status
 ACCEPTED

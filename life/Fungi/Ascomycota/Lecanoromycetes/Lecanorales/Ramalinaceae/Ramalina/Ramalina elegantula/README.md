@@ -1,5 +1,4 @@
-Ramalina elegantula P.M. Jørg. SPECIES
-=======
+# Ramalina elegantula P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

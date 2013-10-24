@@ -1,17 +1,16 @@
-Pertusaria sommerfeltii var. mamillana Erichsen VARIETY
-=======
+# Pertusaria sommerfeltii (Flörke ex Sommerf.) Fr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Pertusaria sommerfeltii var. mamillana Erichsen
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Dictyolus canalipes Lázaro Ibiza SPECIES
-=======
+# Dictyolus canalipes Lázaro Ibiza SPECIES
 
 #### Status
 ACCEPTED

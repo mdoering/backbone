@@ -1,5 +1,4 @@
-Hercospora kornhuberi Bäumler SPECIES
-=======
+# Hercospora kornhuberi Bäumler SPECIES
 
 #### Status
 ACCEPTED

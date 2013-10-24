@@ -1,14 +1,13 @@
-Urophlyctis alfalfae (Lagerh.) Magnus, 1902 SPECIES
-=======
+# Physoderma alfalfae (Pat. & Lagerh.) Karling, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lloydia 13(1): 44 (1950)
 
 #### Original name
 Cladochytrium alfalfae Lagerh., 1895

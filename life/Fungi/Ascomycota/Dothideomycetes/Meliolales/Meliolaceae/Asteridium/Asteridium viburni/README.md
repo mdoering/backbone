@@ -1,5 +1,4 @@
-Asteridium viburni Pat. SPECIES
-=======
+# Asteridium viburni Pat. SPECIES
 
 #### Status
 ACCEPTED

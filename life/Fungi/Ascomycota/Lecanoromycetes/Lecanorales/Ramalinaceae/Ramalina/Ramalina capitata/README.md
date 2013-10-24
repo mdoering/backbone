@@ -1,17 +1,16 @@
-Ramalina capitata var. capitata VARIETY
-=======
+# Ramalina capitata (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Grevillea 7(no. 44): 141 (1879)
 
 #### Original name
-Ramalina capitata var. capitata
+Ramalina polymorpha var. capitata (Ach.) Clauzade & Cl. Roux
 
 ### Remarks
 null

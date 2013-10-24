@@ -1,5 +1,4 @@
-Tubaria punicea (A.H. Sm. & Hesler) Ammirati, Matheny & P.-A. Moreau SPECIES
-=======
+# Tubaria punicea (A.H. Sm. & Hesler) Ammirati, Matheny & P.-A. Moreau SPECIES
 
 #### Status
 ACCEPTED

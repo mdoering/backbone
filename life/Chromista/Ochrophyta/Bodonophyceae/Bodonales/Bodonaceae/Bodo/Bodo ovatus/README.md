@@ -1,5 +1,4 @@
-Bodo ovatus SPECIES
-=======
+# Bodo ovatus SPECIES
 
 #### Status
 ACCEPTED

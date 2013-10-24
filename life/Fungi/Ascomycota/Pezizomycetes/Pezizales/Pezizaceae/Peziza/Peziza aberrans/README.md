@@ -1,5 +1,4 @@
-Peziza aberrans Peck SPECIES
-=======
+# Peziza aberrans Peck SPECIES
 
 #### Status
 ACCEPTED

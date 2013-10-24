@@ -1,5 +1,4 @@
-Helotium obconicum Höhn. SPECIES
-=======
+# Helotium obconicum Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spirochaeta termitis SPECIES
-=======
+# Spirochaeta termitis SPECIES
 
 #### Status
 ACCEPTED

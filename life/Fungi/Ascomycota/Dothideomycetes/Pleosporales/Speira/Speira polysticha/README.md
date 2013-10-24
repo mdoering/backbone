@@ -1,5 +1,4 @@
-Speira polysticha Höhn. SPECIES
-=======
+# Speira polysticha Höhn. SPECIES
 
 #### Status
 ACCEPTED

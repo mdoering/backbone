@@ -1,5 +1,4 @@
-Phlegmacium citrinolilacinum M.M. Moser SPECIES
-=======
+# Phlegmacium citrinolilacinum M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

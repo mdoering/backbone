@@ -1,5 +1,4 @@
-Mycena castaneomarginata Singer SPECIES
-=======
+# Mycena castaneomarginata Singer SPECIES
 
 #### Status
 ACCEPTED

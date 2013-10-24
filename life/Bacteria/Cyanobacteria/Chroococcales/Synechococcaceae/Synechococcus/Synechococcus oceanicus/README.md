@@ -1,5 +1,4 @@
-Synechococcus oceanicus W. T. Hall & G. Claus SPECIES
-=======
+# Synechococcus oceanicus W. T. Hall & G. Claus SPECIES
 
 #### Status
 ACCEPTED

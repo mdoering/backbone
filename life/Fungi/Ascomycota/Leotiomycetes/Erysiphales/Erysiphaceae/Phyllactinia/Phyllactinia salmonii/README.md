@@ -1,5 +1,4 @@
-Phyllactinia salmonii S. Blumer SPECIES
-=======
+# Phyllactinia salmonii S. Blumer SPECIES
 
 #### Status
 ACCEPTED

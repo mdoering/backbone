@@ -1,5 +1,4 @@
-Sporoschisma juvenile Boud., 1904 SPECIES
-=======
+# Sporoschisma juvenile Boud., 1904 SPECIES
 
 #### Status
 ACCEPTED

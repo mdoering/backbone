@@ -1,5 +1,4 @@
-Cercospora brassicae-campestris Rangel SPECIES
-=======
+# Cercospora brassicae-campestris Rangel SPECIES
 
 #### Status
 ACCEPTED

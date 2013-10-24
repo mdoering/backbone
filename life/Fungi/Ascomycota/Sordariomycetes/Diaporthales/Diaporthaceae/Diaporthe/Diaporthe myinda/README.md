@@ -1,5 +1,4 @@
-Diaporthe myinda (Cooke & Ellis) Sacc. SPECIES
-=======
+# Diaporthe myinda (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

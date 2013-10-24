@@ -1,5 +1,4 @@
-Sporothrix foliorum J.J. Taylor, 1970 SPECIES
-=======
+# Sporothrix foliorum J.J. Taylor, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pleosphaeropsis Died. GENUS
-=======
+# Aplosporella Speg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Sydow, Sydow & Butler, Annls mycol. 14(3/4): 203 (1916)
+Anal. Soc. cient. argent. 10(5-6): 157 (1880)
 
 #### Original name
-Pleosphaeropsis Died.
+Aplosporella Speg.
 
 ### Remarks
 null

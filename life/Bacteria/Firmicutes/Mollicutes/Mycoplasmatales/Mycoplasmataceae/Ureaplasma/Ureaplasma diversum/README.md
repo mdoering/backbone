@@ -1,5 +1,4 @@
-Ureaplasma diversum Howard & Gourlay, 1982 SPECIES
-=======
+# Ureaplasma diversum Howard & Gourlay, 1982 SPECIES
 
 #### Status
 ACCEPTED

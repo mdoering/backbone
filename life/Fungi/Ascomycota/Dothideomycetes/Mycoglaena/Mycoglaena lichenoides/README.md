@@ -1,5 +1,4 @@
-Mycoglaena lichenoides (Rehm) Riedl SPECIES
-=======
+# Mycoglaena lichenoides (Rehm) Riedl SPECIES
 
 #### Status
 ACCEPTED

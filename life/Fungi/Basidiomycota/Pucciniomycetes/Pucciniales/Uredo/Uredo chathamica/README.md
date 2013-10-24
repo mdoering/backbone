@@ -1,5 +1,4 @@
-Uredo chathamica McKenzie SPECIES
-=======
+# Uredo chathamica McKenzie SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nigredo celosiae (Dietel & Holw.) Arthur SPECIES
-=======
+# Nigredo celosiae (Dietel & Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

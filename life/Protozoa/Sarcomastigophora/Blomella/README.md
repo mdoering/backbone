@@ -1,5 +1,4 @@
-Blomella Sugiyama, 1997 GENUS
-=======
+# Blomella Sugiyama, 1997 GENUS
 
 #### Status
 ACCEPTED

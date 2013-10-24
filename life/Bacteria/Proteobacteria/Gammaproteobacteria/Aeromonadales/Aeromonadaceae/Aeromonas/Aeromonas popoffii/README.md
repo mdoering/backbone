@@ -1,5 +1,4 @@
-Aeromonas popoffii Huys et al., 1997 SPECIES
-=======
+# Aeromonas popoffii Huys et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota nigripes A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota nigripes A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

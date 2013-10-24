@@ -1,5 +1,4 @@
-Legionella londiniensis Dennis et al., 1993 SPECIES
-=======
+# Legionella londiniensis Dennis et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

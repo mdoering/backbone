@@ -1,5 +1,4 @@
-Puccinia astrantiicola Bubák SPECIES
-=======
+# Puccinia astrantiicola Bubák SPECIES
 
 #### Status
 ACCEPTED

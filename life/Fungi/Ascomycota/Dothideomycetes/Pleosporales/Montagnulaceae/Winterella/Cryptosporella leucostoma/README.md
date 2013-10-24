@@ -1,5 +1,4 @@
-Cryptosporella leucostoma Rick SPECIES
-=======
+# Cryptosporella leucostoma Rick SPECIES
 
 #### Status
 ACCEPTED

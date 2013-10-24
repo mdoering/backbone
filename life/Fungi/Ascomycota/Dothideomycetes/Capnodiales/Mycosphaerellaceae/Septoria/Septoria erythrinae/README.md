@@ -1,5 +1,4 @@
-Septoria erythrinae T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Septoria erythrinae T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

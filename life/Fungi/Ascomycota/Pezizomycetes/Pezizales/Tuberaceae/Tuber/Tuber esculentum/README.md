@@ -1,5 +1,4 @@
-Tuber esculentum Sacc. SPECIES
-=======
+# Tuber esculentum Sacc. SPECIES
 
 #### Status
 ACCEPTED

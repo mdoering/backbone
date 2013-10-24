@@ -1,5 +1,4 @@
-Xenodochus minor Arthur, 1912 SPECIES
-=======
+# Xenodochus minor Arthur, 1912 SPECIES
 
 #### Status
 ACCEPTED

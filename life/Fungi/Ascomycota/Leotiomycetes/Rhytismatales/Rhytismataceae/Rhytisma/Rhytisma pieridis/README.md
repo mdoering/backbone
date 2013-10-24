@@ -1,5 +1,4 @@
-Rhytisma pieridis Pat. SPECIES
-=======
+# Rhytisma pieridis Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Achorella andina (Chardón) Chardón SPECIES
-=======
+# Achorella andina (Chardón) Chardón SPECIES
 
 #### Status
 ACCEPTED

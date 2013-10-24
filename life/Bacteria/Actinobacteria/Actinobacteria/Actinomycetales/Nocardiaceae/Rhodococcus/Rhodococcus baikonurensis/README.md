@@ -1,5 +1,4 @@
-Rhodococcus baikonurensis Li et al., 2004 SPECIES
-=======
+# Rhodococcus baikonurensis Li et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

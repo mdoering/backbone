@@ -1,14 +1,13 @@
-Terana rudis (P. Karst.) Kuntze, 1891 SPECIES
-=======
+# Fibricium rude (P. Karst.) Jülich, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 872 (1891)
+Persoonia 8(1): 81 (1974)
 
 #### Original name
 null

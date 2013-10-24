@@ -1,5 +1,4 @@
-Pluteolus glutinosus Clem. SPECIES
-=======
+# Pluteolus glutinosus Clem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nodosaria orthocera d’Orbigny, 1826 SPECIES
-=======
+# Nodosaria orthocera d’Orbigny, 1826 SPECIES
 
 #### Status
 ACCEPTED

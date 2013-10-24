@@ -1,5 +1,4 @@
-Lophiostoma albo-ostiolatum (Aptroot, J. Fröhl. & K.D. Hyde) Aptroot & K.D. Hyde SPECIES
-=======
+# Lophiostoma albo-ostiolatum (Aptroot, J. Fröhl. & K.D. Hyde) Aptroot & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

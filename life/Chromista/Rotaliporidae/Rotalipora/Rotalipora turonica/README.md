@@ -1,5 +1,4 @@
-Rotalipora turonica Brotzen, 1942 SPECIES
-=======
+# Rotalipora turonica Brotzen, 1942 SPECIES
 
 #### Status
 ACCEPTED

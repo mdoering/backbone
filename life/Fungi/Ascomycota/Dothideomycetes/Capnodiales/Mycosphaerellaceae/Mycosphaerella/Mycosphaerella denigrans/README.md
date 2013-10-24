@@ -1,5 +1,4 @@
-Mycosphaerella denigrans (Kirschst.) Tomilin SPECIES
-=======
+# Mycosphaerella denigrans (Kirschst.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

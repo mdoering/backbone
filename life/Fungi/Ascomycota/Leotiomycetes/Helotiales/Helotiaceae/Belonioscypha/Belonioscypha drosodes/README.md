@@ -1,5 +1,4 @@
-Belonioscypha drosodes (Rehm) Höhn. SPECIES
-=======
+# Belonioscypha drosodes (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

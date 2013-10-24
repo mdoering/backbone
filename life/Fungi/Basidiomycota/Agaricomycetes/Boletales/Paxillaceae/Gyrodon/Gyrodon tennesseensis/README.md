@@ -1,5 +1,4 @@
-Gyrodon tennesseensis (Snell & A.H. Sm.) Snell & Hesler SPECIES
-=======
+# Gyrodon tennesseensis (Snell & A.H. Sm.) Snell & Hesler SPECIES
 
 #### Status
 ACCEPTED

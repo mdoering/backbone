@@ -1,5 +1,4 @@
-Infundibulicybe gigas (Harmaja) Harmaja SPECIES
-=======
+# Infundibulicybe gigas (Harmaja) Harmaja SPECIES
 
 #### Status
 ACCEPTED

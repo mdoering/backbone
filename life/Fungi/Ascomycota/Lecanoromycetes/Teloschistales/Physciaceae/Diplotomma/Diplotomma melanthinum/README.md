@@ -1,5 +1,4 @@
-Diplotomma melanthinum (Stizenb.) C.W. Dodge SPECIES
-=======
+# Diplotomma melanthinum (Stizenb.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

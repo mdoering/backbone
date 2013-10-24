@@ -1,5 +1,4 @@
-Hendersonia equiseti Trail SPECIES
-=======
+# Hendersonia equiseti Trail SPECIES
 
 #### Status
 ACCEPTED

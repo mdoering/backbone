@@ -1,5 +1,4 @@
-Dimerella weberi Vezda SPECIES
-=======
+# Dimerella weberi Vezda SPECIES
 
 #### Status
 ACCEPTED

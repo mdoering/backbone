@@ -1,5 +1,4 @@
-Massariosphaeria thurgoviensis (E. Müll.) Shoemaker & C.E. Babc. SPECIES
-=======
+# Massariosphaeria thurgoviensis (E. Müll.) Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

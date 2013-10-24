@@ -1,5 +1,4 @@
-Cercospora selaginellarum P. Joly SPECIES
-=======
+# Cercospora selaginellarum P. Joly SPECIES
 
 #### Status
 ACCEPTED

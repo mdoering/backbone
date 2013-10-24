@@ -1,5 +1,4 @@
-Anisomeridium indicum (Makhija & Patw.) R.C. Harris SPECIES
-=======
+# Anisomeridium indicum (Makhija & Patw.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

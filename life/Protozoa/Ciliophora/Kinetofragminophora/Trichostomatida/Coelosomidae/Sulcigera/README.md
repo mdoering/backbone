@@ -1,5 +1,4 @@
-Sulcigera Gajevskaia, 1928 GENUS
-=======
+# Sulcigera Gajevskaia, 1928 GENUS
 
 #### Status
 ACCEPTED

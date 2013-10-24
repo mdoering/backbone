@@ -1,5 +1,4 @@
-Bardeliellidae FAMILY
-=======
+# Bardeliellidae FAMILY
 
 #### Status
 ACCEPTED

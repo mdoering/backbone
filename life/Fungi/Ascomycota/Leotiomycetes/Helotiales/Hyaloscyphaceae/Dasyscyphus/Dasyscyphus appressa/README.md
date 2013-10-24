@@ -1,14 +1,13 @@
-Dasyscypha appressa (E.K. Cash) Le Gal SPECIES
-=======
+# Dasyscyphus appressa (E.K. Cash) Le Gal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Les Discomycetes de Madagascar 375 (1953)
 
 #### Original name
 Dasyscyphella appressa Cash

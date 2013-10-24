@@ -1,5 +1,4 @@
-Phaeosphaeria occidentalis (Ellis & Everh.) Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria occidentalis (Ellis & Everh.) Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

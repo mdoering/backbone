@@ -1,5 +1,4 @@
-Puccinia adenocalymmatis (Henn.) Arthur & J.R. Johnst. SPECIES
-=======
+# Puccinia adenocalymmatis (Henn.) Arthur & J.R. Johnst. SPECIES
 
 #### Status
 ACCEPTED

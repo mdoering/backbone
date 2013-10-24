@@ -1,5 +1,4 @@
-Boletus peralbidus Snell & Beardslee SPECIES
-=======
+# Boletus peralbidus Snell & Beardslee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria fur Ehrenb. SPECIES
-=======
+# Sphaeria fur Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protoleiosphaeridium favosum Rudavskaya in Rudavskaya & Timofeev, 1963 SPECIES
-=======
+# Protoleiosphaeridium favosum Rudavskaya in Rudavskaya & Timofeev, 1963 SPECIES
 
 #### Status
 ACCEPTED

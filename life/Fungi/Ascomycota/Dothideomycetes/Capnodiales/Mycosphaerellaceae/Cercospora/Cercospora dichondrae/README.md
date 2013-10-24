@@ -1,5 +1,4 @@
-Cercospora dichondrae Katsuki SPECIES
-=======
+# Cercospora dichondrae Katsuki SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygromyxacium GENUS
-=======
+# Hygromyxacium GENUS
 
 #### Status
 ACCEPTED

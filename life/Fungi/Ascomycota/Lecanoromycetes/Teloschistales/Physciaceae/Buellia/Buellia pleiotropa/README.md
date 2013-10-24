@@ -1,5 +1,4 @@
-Buellia pleiotropa Malme SPECIES
-=======
+# Buellia pleiotropa Malme SPECIES
 
 #### Status
 ACCEPTED

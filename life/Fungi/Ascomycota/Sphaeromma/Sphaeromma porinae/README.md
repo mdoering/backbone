@@ -1,5 +1,4 @@
-Sphaeromma porinae Matzer SPECIES
-=======
+# Sphaeromma porinae Matzer SPECIES
 
 #### Status
 ACCEPTED

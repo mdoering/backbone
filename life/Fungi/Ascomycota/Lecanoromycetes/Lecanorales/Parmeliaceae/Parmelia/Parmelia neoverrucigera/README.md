@@ -1,5 +1,4 @@
-Parmelia neoverrucigera Gyeln. SPECIES
-=======
+# Parmelia neoverrucigera Gyeln. SPECIES
 
 #### Status
 ACCEPTED

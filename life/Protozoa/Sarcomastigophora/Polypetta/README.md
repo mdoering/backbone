@@ -1,5 +1,4 @@
-Polypetta Haeckel, 1887 GENUS
-=======
+# Polypetta Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

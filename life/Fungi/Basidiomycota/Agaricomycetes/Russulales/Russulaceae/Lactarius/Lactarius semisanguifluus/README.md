@@ -1,5 +1,4 @@
-Lactarius semisanguifluus R. Heim & Leclair, 1950 SPECIES
-=======
+# Lactarius semisanguifluus R. Heim & Leclair, 1950 SPECIES
 
 #### Status
 ACCEPTED

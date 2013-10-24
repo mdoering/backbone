@@ -1,5 +1,4 @@
-Calosphaeria obvoluta P. Karst. SPECIES
-=======
+# Calosphaeria obvoluta P. Karst. SPECIES
 
 #### Status
 ACCEPTED

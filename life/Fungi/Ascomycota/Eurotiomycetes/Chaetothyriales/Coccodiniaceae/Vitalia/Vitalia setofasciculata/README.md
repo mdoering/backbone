@@ -1,5 +1,4 @@
-Vitalia setofasciculata Bat., A.F. Vital & Cif. SPECIES
-=======
+# Vitalia setofasciculata Bat., A.F. Vital & Cif. SPECIES
 
 #### Status
 ACCEPTED

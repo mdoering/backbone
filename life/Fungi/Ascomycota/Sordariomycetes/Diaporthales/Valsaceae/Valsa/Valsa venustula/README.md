@@ -1,5 +1,4 @@
-Valsa venustula Sacc. SPECIES
-=======
+# Valsa venustula Sacc. SPECIES
 
 #### Status
 ACCEPTED

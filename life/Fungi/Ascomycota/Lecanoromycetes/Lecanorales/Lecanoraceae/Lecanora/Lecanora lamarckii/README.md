@@ -1,5 +1,4 @@
-Lecanora lamarckii (DC.) Rabenh. SPECIES
-=======
+# Lecanora lamarckii (DC.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

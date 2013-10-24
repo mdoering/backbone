@@ -1,14 +1,13 @@
-Hendersonia persoonii Henn., 1901 SPECIES
-=======
+# Camarosporula persoonii (Henn.) Petr., 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia, Beibl. 40(4): 97 (1901)
+Sydowia 8(1-6): 99 (1954)
 
 #### Original name
 Hendersonia persoonii Henn., 1901

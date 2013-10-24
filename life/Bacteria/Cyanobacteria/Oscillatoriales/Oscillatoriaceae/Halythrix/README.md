@@ -1,5 +1,4 @@
-Halythrix J.W. Schopf, 1968 GENUS
-=======
+# Halythrix J.W. Schopf, 1968 GENUS
 
 #### Status
 ACCEPTED

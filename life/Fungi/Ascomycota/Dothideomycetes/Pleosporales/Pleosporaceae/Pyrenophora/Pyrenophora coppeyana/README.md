@@ -1,5 +1,4 @@
-Pyrenophora coppeyana Maire SPECIES
-=======
+# Pyrenophora coppeyana Maire SPECIES
 
 #### Status
 ACCEPTED

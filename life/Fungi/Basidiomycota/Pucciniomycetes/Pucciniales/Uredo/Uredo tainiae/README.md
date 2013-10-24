@@ -1,5 +1,4 @@
-Uredo tainiae Hirats. SPECIES
-=======
+# Uredo tainiae Hirats. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mykophagophrys Foissner, 1995 GENUS
-=======
+# Mykophagophrys Foissner, 1995 GENUS
 
 #### Status
 ACCEPTED

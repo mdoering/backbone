@@ -1,5 +1,4 @@
-Nigropuncta groenlandica Alstrup SPECIES
-=======
+# Nigropuncta groenlandica Alstrup SPECIES
 
 #### Status
 ACCEPTED

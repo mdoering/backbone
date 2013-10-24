@@ -1,5 +1,4 @@
-Chiasmolithus consuetus (Bramlette & Sullivan, 1961) Hay & Mohler, 1967 SPECIES
-=======
+# Chiasmolithus consuetus (Bramlette & Sullivan, 1961) Hay & Mohler, 1967 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypholoma bermudiense Massee SPECIES
-=======
+# Hypholoma bermudiense Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dyadosporites reticulatus (Ramanujam & K.P. Rao) Kalgutkar & Janson. SPECIES
-=======
+# Dyadosporites reticulatus (Ramanujam & K.P. Rao) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

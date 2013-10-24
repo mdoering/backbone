@@ -1,5 +1,4 @@
-Entyloma alsines Halst. SPECIES
-=======
+# Entyloma alsines Halst. SPECIES
 
 #### Status
 ACCEPTED

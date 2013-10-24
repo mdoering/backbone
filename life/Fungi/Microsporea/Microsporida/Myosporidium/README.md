@@ -1,5 +1,4 @@
-Myosporidium E. Baquero, M. Rubio, I.N.S. Moura, N.J. Pieniazek & R. Jordana GENUS
-=======
+# Myosporidium E. Baquero, M. Rubio, I.N.S. Moura, N.J. Pieniazek & R. Jordana GENUS
 
 #### Status
 ACCEPTED

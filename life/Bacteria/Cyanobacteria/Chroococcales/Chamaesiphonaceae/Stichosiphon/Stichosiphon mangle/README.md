@@ -1,5 +1,4 @@
-Stichosiphon mangle Branco, S.Silva & Sant’Anna SPECIES
-=======
+# Stichosiphon mangle Branco, S.Silva & Sant’Anna SPECIES
 
 #### Status
 ACCEPTED

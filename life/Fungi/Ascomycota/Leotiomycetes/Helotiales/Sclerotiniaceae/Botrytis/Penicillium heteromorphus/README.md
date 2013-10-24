@@ -1,5 +1,4 @@
-Penicillium heteromorphus H.Z. Kong & Z.T. Qi, 1988 SPECIES
-=======
+# Penicillium heteromorphus H.Z. Kong & Z.T. Qi, 1988 SPECIES
 
 #### Status
 DOUBTFUL

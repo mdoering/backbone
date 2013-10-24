@@ -1,5 +1,4 @@
-Phoma endomelaena Sacc. SPECIES
-=======
+# Phoma endomelaena Sacc. SPECIES
 
 #### Status
 ACCEPTED

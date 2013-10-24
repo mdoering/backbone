@@ -1,5 +1,4 @@
-Hyphoderma sporulosum Dhingra, 1989 SPECIES
-=======
+# Hyphoderma sporulosum Dhingra, 1989 SPECIES
 
 #### Status
 ACCEPTED

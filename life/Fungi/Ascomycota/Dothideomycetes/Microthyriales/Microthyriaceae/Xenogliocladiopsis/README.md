@@ -1,5 +1,4 @@
-Xenogliocladiopsis Crous & W.B. Kendr. GENUS
-=======
+# Xenogliocladiopsis Crous & W.B. Kendr. GENUS
 
 #### Status
 ACCEPTED

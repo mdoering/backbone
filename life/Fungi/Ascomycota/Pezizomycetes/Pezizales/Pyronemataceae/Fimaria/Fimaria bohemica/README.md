@@ -1,5 +1,4 @@
-Fimaria bohemica Velen. SPECIES
-=======
+# Fimaria bohemica Velen. SPECIES
 
 #### Status
 ACCEPTED

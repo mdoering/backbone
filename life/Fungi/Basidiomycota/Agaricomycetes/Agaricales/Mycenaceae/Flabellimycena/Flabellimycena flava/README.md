@@ -1,14 +1,13 @@
-Pleuromycenula flava Singer, 1978 SPECIES
-=======
+# Flabellimycena flava (Singer) Redhead, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 29(1-2): 42 (1978)
+Can. J. Bot. 62(5): 886 (1984)
 
 #### Original name
 Pleuromycenula flava Singer, 1978

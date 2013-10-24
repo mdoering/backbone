@@ -1,5 +1,4 @@
-Ornatosphaeridia R.N. Ogurtsova, 1975 GENUS
-=======
+# Ornatosphaeridia R.N. Ogurtsova, 1975 GENUS
 
 #### Status
 ACCEPTED

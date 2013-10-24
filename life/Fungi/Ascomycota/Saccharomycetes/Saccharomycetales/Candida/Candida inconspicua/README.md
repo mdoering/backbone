@@ -1,14 +1,13 @@
-Torulopsis inconspicua Lodder & Kreger-van Rij, 1952 SPECIES
-=======
+# Candida inconspicua (Lodder & Kreger-van Rij) S.A. Mey. & Yarrow, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-The Yeasts (London), Vol. <b>4</b>. Yeast Organelles. Edn 2 671 (1952)
+in Yarrow & Meyer, Int. J. Syst. Bacteriol. 28(4): 612 (1978)
 
 #### Original name
 Torulopsis inconspicua Lodder & Kreger-van Rij, 1952

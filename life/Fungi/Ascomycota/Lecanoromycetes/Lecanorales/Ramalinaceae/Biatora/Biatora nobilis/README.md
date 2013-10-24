@@ -1,5 +1,4 @@
-Biatora nobilis Printzen & Tønsberg SPECIES
-=======
+# Biatora nobilis Printzen & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

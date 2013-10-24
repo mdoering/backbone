@@ -1,5 +1,4 @@
-Verrucaria rivalis Zschacke SPECIES
-=======
+# Verrucaria rivalis Zschacke SPECIES
 
 #### Status
 ACCEPTED

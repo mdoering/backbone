@@ -1,5 +1,4 @@
-Phoma scirpi Brunaud SPECIES
-=======
+# Phoma scirpi Brunaud SPECIES
 
 #### Status
 ACCEPTED

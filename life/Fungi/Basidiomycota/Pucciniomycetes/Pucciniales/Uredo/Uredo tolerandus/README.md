@@ -1,5 +1,4 @@
-Uredo tolerandus H.S. Jacks. & Holw. SPECIES
-=======
+# Uredo tolerandus H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

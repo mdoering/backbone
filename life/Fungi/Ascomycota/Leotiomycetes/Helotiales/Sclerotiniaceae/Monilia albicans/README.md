@@ -1,5 +1,4 @@
-Monilia albicans var. albicans Pers. VARIETY
-=======
+# Monilia albicans Magron {?} SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycol. eur. (Erlanga) 1: 30 (1822)
 
 #### Original name
-Monilia albicans var. albicans Pers.
+Monilia albicans Magron {?}
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Porina decolorella (Nyl.) Lettau SPECIES
-=======
+# Cercidospora decolorella (Nyl.) O.E. Erikss. & J.Z. Yue, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Non-lichenized Pyrenomycetes of Sweden (Lund) 7 (1992)
 
 #### Original name
 Verrucaria decolorella Nyl.

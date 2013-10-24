@@ -1,5 +1,4 @@
-Diplococcium dendrocalami Goh, K.D. Hyde & Umali SPECIES
-=======
+# Diplococcium dendrocalami Goh, K.D. Hyde & Umali SPECIES
 
 #### Status
 ACCEPTED

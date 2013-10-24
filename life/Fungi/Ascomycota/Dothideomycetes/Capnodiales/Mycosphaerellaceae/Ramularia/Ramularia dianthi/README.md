@@ -1,5 +1,4 @@
-Ramularia dianthi Lindau SPECIES
-=======
+# Ramularia dianthi Lindau SPECIES
 
 #### Status
 ACCEPTED

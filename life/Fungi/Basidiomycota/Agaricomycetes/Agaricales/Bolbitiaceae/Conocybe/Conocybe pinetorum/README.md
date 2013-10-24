@@ -1,5 +1,4 @@
-Conocybe pinetorum Watling, Esteve-Rav. & G. Moreno, 1986 SPECIES
-=======
+# Conocybe pinetorum Watling, Esteve-Rav. & G. Moreno, 1986 SPECIES
 
 #### Status
 ACCEPTED

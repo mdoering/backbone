@@ -1,5 +1,4 @@
-Pezizella paupera Velen. SPECIES
-=======
+# Pezizella paupera Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota agrocybiformis Singer SPECIES
-=======
+# Pholiota agrocybiformis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe littoralis Pegler SPECIES
-=======
+# Inocybe littoralis Pegler SPECIES
 
 #### Status
 ACCEPTED

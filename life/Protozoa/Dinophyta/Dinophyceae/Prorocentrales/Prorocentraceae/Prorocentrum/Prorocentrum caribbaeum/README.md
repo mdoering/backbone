@@ -1,5 +1,4 @@
-Prorocentrum caribbaeum M. Faust SPECIES
-=======
+# Prorocentrum caribbaeum M. Faust SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Mycena tricolor Velen., 1920 SPECIES
-=======
+# Mycena citricolor (Berk. & M.A. Curtis) Sacc., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

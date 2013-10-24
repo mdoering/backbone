@@ -1,5 +1,4 @@
-Diaporthe sachalinensis Sacc. SPECIES
-=======
+# Diaporthe sachalinensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

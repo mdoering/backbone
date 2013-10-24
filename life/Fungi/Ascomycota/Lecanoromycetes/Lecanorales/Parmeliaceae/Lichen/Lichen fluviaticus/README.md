@@ -1,5 +1,4 @@
-Lichen fluviaticus Hull SPECIES
-=======
+# Lichen fluviaticus Hull SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytospora coffeae Saccas SPECIES
-=======
+# Cytospora coffeae Saccas SPECIES
 
 #### Status
 ACCEPTED

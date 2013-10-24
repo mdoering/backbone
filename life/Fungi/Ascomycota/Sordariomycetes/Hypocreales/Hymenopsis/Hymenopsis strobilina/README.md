@@ -1,5 +1,4 @@
-Hymenopsis strobilina (Lib.) Sacc. SPECIES
-=======
+# Hymenopsis strobilina (Lib.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

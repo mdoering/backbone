@@ -1,5 +1,4 @@
-Peziza incana var. candida Alb. & Schwein. VARIETY
-=======
+# Peziza incana Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Consp. fung. (Leipzig) 346 (1805)
+Syn. meth. fung. (Göttingen) 2: 675 (1801)
 
 #### Original name
-Peziza incana var. candida Alb. & Schwein.
+Peziza incana Pers.
 
 ### Remarks
 null

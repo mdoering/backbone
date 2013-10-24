@@ -1,14 +1,13 @@
-Octaviania megaspora (Rodway) G. Cunn., 1941 SPECIES
-=======
+# Cystangium megasporum (Rodway) T. Lebel & Castellano, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-New Zealand J. Sci. Technol. 22: 300B (1941)
+Mycologia 94(2): 335 (2002)
 
 #### Original name
 Gymnomyces megasporus Rodway, 1926

@@ -1,5 +1,4 @@
-Fusicladium grayianum (Ellis) Deighton & M.B. Ellis SPECIES
-=======
+# Fusicladium grayianum (Ellis) Deighton & M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

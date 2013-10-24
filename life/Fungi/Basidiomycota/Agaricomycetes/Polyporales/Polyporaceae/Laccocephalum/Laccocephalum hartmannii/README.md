@@ -1,17 +1,16 @@
-Polyporus hartmannii var. hartmannii VARIETY
-=======
+# Laccocephalum hartmannii (Cooke) Núñez & Ryvarden, 1995 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syn. Fung. (Oslo) 10: 30 (1995)
 
 #### Original name
-Polyporus hartmannii var. hartmannii
+Polyporus hartmannii Cooke, 1883
 
 ### Remarks
 null

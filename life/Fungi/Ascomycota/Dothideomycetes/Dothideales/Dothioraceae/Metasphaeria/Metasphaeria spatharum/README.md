@@ -1,5 +1,4 @@
-Metasphaeria spatharum (Ces.) Sacc. SPECIES
-=======
+# Metasphaeria spatharum (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

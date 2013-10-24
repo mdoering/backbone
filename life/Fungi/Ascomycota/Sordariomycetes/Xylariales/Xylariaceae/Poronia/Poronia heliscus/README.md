@@ -1,5 +1,4 @@
-Poronia heliscus (Mont.) Sacc. SPECIES
-=======
+# Poronia heliscus (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

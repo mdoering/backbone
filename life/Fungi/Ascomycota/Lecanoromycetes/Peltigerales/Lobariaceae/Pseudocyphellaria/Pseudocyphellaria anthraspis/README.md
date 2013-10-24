@@ -1,5 +1,4 @@
-Pseudocyphellaria anthraspis (Ach.) H. Magn. SPECIES
-=======
+# Pseudocyphellaria anthraspis (Ach.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

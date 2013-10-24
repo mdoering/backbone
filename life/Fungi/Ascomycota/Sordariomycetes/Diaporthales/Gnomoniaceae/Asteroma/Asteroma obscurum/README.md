@@ -1,5 +1,4 @@
-Asteroma obscurum Desm. SPECIES
-=======
+# Asteroma obscurum Desm. SPECIES
 
 #### Status
 ACCEPTED

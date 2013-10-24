@@ -1,5 +1,4 @@
-Trichodina blennii Fantham, 1930 SPECIES
-=======
+# Trichodina blennii Fantham, 1930 SPECIES
 
 #### Status
 ACCEPTED

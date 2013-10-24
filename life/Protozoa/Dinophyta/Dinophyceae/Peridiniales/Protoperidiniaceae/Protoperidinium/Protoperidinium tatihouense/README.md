@@ -1,5 +1,4 @@
-Protoperidinium tatihouense (Fauré-Fremiet, 1908) Balech, 1994 SPECIES
-=======
+# Protoperidinium tatihouense (Fauré-Fremiet, 1908) Balech, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyxine Fr. GENUS
-=======
+# Pyxine Fr. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Devriesia strelitziae Arzanlou & Crous, 2008 SPECIES
-=======
+# Devriesia strelitziae Arzanlou & Crous, 2008 SPECIES
 
 #### Status
 ACCEPTED

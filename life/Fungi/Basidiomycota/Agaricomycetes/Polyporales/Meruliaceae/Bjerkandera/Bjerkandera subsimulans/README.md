@@ -1,5 +1,4 @@
-Bjerkandera subsimulans Murrill SPECIES
-=======
+# Bjerkandera subsimulans Murrill SPECIES
 
 #### Status
 ACCEPTED

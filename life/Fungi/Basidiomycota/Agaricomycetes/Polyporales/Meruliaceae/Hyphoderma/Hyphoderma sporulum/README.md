@@ -1,5 +1,4 @@
-Hyphoderma sporulum Dhingra SPECIES
-=======
+# Hyphoderma sporulum Dhingra SPECIES
 
 #### Status
 ACCEPTED

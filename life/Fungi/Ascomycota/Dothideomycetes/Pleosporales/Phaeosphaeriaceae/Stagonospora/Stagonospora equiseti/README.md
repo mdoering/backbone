@@ -1,5 +1,4 @@
-Stagonospora equiseti Fautrey, 1890 SPECIES
-=======
+# Stagonospora equiseti Fautrey, 1890 SPECIES
 
 #### Status
 ACCEPTED

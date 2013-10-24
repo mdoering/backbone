@@ -1,5 +1,4 @@
-Cladosporium campactiusculum Sacc. & P. Syd. SPECIES
-=======
+# Cladosporium campactiusculum Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

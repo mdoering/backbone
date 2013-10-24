@@ -1,5 +1,4 @@
-Leptospora musae Drost SPECIES
-=======
+# Leptospora musae Drost SPECIES
 
 #### Status
 ACCEPTED

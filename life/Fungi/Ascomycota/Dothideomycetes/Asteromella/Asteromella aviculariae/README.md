@@ -1,5 +1,4 @@
-Asteromella aviculariae (Westend.) Petr. SPECIES
-=======
+# Asteromella aviculariae (Westend.) Petr. SPECIES
 
 #### Status
 ACCEPTED

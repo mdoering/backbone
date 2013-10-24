@@ -1,5 +1,4 @@
-Ophiobolus lapponicus L. Holm SPECIES
-=======
+# Ophiobolus lapponicus L. Holm SPECIES
 
 #### Status
 ACCEPTED

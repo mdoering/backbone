@@ -1,5 +1,4 @@
-Laboulbenia bogorensis Speg. SPECIES
-=======
+# Laboulbenia bogorensis Speg. SPECIES
 
 #### Status
 ACCEPTED

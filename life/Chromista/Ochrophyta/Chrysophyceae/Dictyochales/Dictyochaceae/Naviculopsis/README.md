@@ -1,5 +1,4 @@
-Naviculopsis Frenguelli, 1940 GENUS
-=======
+# Naviculopsis Frenguelli, 1940 GENUS
 
 #### Status
 ACCEPTED

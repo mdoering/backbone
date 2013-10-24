@@ -1,5 +1,4 @@
-Hyphoderma granuliferum P. Roberts, 2000 SPECIES
-=======
+# Hyphoderma granuliferum P. Roberts, 2000 SPECIES
 
 #### Status
 ACCEPTED

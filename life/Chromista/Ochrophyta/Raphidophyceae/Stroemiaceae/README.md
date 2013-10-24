@@ -1,5 +1,4 @@
-Stroemiaceae FAMILY
-=======
+# Stroemiaceae FAMILY
 
 #### Status
 ACCEPTED

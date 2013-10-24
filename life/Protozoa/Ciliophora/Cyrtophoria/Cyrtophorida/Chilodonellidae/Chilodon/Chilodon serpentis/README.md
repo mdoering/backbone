@@ -1,5 +1,4 @@
-Chilodon serpentis SPECIES
-=======
+# Chilodon serpentis SPECIES
 
 #### Status
 ACCEPTED

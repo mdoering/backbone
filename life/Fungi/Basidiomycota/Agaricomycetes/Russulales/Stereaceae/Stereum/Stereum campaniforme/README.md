@@ -1,5 +1,4 @@
-Stereum campaniforme Pat. SPECIES
-=======
+# Stereum campaniforme Pat. SPECIES
 
 #### Status
 ACCEPTED

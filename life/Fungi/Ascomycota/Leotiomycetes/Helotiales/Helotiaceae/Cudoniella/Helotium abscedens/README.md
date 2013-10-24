@@ -1,5 +1,4 @@
-Helotium abscedens P. Crouan & H. Crouan SPECIES
-=======
+# Helotium abscedens P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

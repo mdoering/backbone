@@ -1,5 +1,4 @@
-Platygraphomyces GENUS
-=======
+# Platygraphomyces GENUS
 
 #### Status
 ACCEPTED

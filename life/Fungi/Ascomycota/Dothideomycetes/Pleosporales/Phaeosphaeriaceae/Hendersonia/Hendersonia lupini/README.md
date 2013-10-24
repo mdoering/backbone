@@ -1,5 +1,4 @@
-Hendersonia lupini Cooke & Harkn. SPECIES
-=======
+# Hendersonia lupini Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

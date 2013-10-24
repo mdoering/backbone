@@ -1,5 +1,4 @@
-Drepanoconis J. Schröter & Hennings, 1896 GENUS
-=======
+# Drepanoconis J. Schröter & Hennings, 1896 GENUS
 
 #### Status
 ACCEPTED

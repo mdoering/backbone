@@ -1,5 +1,4 @@
-Pistillina paradoxa Berk. & M.A. Curtis SPECIES
-=======
+# Pistillina paradoxa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pleosphaeria lithospermi Clem., 1903 SPECIES
-=======
+# Pleostigma lithospermi (Clem.) Kirschst., 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 30: 83 (1903)
+Annls mycol. 37: 91 (1939)
 
 #### Original name
 Pleosphaeria lithospermi Clem., 1903

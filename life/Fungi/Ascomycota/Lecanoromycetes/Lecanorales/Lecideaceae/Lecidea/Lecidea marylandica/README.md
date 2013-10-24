@@ -1,5 +1,4 @@
-Lecidea marylandica SPECIES
-=======
+# Lecidea marylandica SPECIES
 
 #### Status
 ACCEPTED

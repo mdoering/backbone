@@ -1,5 +1,4 @@
-Placynthium nigrum var. nigrum VARIETY
-=======
+# Placynthium nigrum (Huds.) Gray SPECIES
 
 #### Status
 ACCEPTED

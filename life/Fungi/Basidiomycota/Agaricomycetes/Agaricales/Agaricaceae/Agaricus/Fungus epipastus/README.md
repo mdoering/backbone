@@ -1,5 +1,4 @@
-Fungus epipastus (Berk. & Broome) Kuntze SPECIES
-=======
+# Fungus epipastus (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

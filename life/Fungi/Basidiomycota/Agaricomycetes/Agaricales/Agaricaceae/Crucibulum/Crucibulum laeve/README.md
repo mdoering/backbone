@@ -1,17 +1,16 @@
-Crucibulum laeve f. laeve FORM
-=======
+# Crucibulum laeve (Huds.) Kambly, 1936 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Gast. Iowa 167 (1936)
 
 #### Original name
-null
+Peziza levis Huds.
 
 ### Remarks
 null

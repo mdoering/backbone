@@ -1,5 +1,4 @@
-Staphylotrichum coccosporum J.A. Mey. & Nicot, 1957 SPECIES
-=======
+# Staphylotrichum coccosporum J.A. Mey. & Nicot, 1957 SPECIES
 
 #### Status
 ACCEPTED

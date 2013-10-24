@@ -1,5 +1,4 @@
-Stigmidium hesperium Kocourk., K. Knudsen & Diederich, 2009 SPECIES
-=======
+# Stigmidium hesperium Kocourk., K. Knudsen & Diederich, 2009 SPECIES
 
 #### Status
 ACCEPTED

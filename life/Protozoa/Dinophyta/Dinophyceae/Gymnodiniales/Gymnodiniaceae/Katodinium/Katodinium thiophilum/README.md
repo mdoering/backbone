@@ -1,8 +1,7 @@
-Massartia thiophila Conrad SPECIES
-=======
+# Katodinium thiophilum (Conrad, 1939) Loeblich Iii, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

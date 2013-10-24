@@ -1,17 +1,16 @@
-Vibrissea guernisaci P. Crouan & H. Crouan SPECIES
-=======
+# Vibrissea guernisacii P. Crouan & H. Crouan, 1867 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Florule Finistère (Paris) 46 (1867)
 
 #### Original name
-Vibrissea guernisaci P. Crouan & H. Crouan
+Vibrissea guernisacii P. Crouan & H. Crouan, 1867
 
 ### Remarks
 null

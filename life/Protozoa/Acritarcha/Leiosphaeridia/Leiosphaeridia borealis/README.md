@@ -1,5 +1,4 @@
-Leiosphaeridia borealis Boneham & Tailleur, 1972 SPECIES
-=======
+# Leiosphaeridia borealis Boneham & Tailleur, 1972 SPECIES
 
 #### Status
 ACCEPTED

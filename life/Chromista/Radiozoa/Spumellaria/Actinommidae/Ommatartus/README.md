@@ -1,5 +1,4 @@
-Ommatartus Haeckel, 1881, emend. Riedel, 1971 GENUS
-=======
+# Ommatartus Haeckel, 1881, emend. Riedel, 1971 GENUS
 
 #### Status
 ACCEPTED

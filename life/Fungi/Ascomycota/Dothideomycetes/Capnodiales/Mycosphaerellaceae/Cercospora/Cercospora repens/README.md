@@ -1,5 +1,4 @@
-Cercospora repens Ellis & Everh. SPECIES
-=======
+# Cercospora repens Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

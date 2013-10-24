@@ -1,5 +1,4 @@
-Corticium corneum Petch SPECIES
-=======
+# Corticium corneum Petch SPECIES
 
 #### Status
 ACCEPTED

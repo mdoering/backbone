@@ -1,5 +1,4 @@
-Amphisphaeria edamensis Henn. & E. Nyman SPECIES
-=======
+# Amphisphaeria edamensis Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

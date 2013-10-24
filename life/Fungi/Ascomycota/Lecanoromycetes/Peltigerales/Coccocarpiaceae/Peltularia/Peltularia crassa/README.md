@@ -1,5 +1,4 @@
-Peltularia crassa P. M. Jørg. & D. J. Galloway SPECIES
-=======
+# Peltularia crassa P. M. Jørg. & D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

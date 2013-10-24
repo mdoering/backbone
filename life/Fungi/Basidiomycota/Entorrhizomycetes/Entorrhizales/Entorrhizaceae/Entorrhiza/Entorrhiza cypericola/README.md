@@ -1,14 +1,13 @@
-Schinzia cypericola Magnus, 1878 SPECIES
-=======
+# Entorrhiza cypericola (Magnus) Webber, 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. bot. Ver. Prov. Brandenb. 20: 54 (1878)
+Bot. Ztg. 42: 378 (1884)
 
 #### Original name
 Schinzia cypericola Magnus, 1878

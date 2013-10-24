@@ -1,5 +1,4 @@
-Acetonema Kane & Breznak, 1992 GENUS
-=======
+# Acetonema Kane & Breznak, 1992 GENUS
 
 #### Status
 ACCEPTED

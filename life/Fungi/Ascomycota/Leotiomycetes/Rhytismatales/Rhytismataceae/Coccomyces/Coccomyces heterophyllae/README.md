@@ -1,5 +1,4 @@
-Coccomyces heterophyllae A. Funk, 1968 SPECIES
-=======
+# Coccomyces heterophyllae A. Funk, 1968 SPECIES
 
 #### Status
 ACCEPTED

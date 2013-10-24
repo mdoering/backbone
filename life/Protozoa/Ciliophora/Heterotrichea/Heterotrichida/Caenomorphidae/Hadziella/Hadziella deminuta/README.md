@@ -1,5 +1,4 @@
-Hadziella deminuta Bole, 1961 SPECIES
-=======
+# Hadziella deminuta Bole, 1961 SPECIES
 
 #### Status
 ACCEPTED

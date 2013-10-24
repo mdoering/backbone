@@ -1,5 +1,4 @@
-Tilletia eragrostiellae Vánky, C. Vánky & N.D. Sharma, 1995 SPECIES
-=======
+# Tilletia eragrostiellae Vánky, C. Vánky & N.D. Sharma, 1995 SPECIES
 
 #### Status
 ACCEPTED

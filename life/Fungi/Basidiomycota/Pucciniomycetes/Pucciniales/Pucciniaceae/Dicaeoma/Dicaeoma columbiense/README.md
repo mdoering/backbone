@@ -1,5 +1,4 @@
-Dicaeoma columbiense (Ellis & Everh.) Kuntze SPECIES
-=======
+# Dicaeoma columbiense (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

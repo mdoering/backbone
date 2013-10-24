@@ -1,5 +1,4 @@
-Rigidocortex Berger, 1999 GENUS
-=======
+# Rigidocortex Berger, 1999 GENUS
 
 #### Status
 ACCEPTED

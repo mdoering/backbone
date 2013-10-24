@@ -1,5 +1,4 @@
-Ramularia erigerontis Gonz. Frag. SPECIES
-=======
+# Ramularia erigerontis Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

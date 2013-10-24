@@ -1,5 +1,4 @@
-Sordaria perileuca Sacc. SPECIES
-=======
+# Sordaria perileuca Sacc. SPECIES
 
 #### Status
 ACCEPTED

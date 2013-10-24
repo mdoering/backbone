@@ -1,5 +1,4 @@
-Verrucaria obfuscans var. obfuscans VARIETY
-=======
+# Verrucaria obfuscans Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria obfuscans var. obfuscans
+Verrucaria obfuscans Nyl.
 
 ### Remarks
 null

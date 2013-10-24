@@ -1,5 +1,4 @@
-Merulius crocicreas Ces. SPECIES
-=======
+# Merulius crocicreas Ces. SPECIES
 
 #### Status
 ACCEPTED

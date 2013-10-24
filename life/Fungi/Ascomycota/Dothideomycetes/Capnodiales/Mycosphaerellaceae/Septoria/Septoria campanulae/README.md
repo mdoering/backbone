@@ -1,5 +1,4 @@
-Septoria campanulae (Lév.) Sacc. SPECIES
-=======
+# Septoria campanulae (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

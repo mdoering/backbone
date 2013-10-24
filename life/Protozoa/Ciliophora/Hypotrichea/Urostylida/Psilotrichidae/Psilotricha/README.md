@@ -1,5 +1,4 @@
-Psilotricha Stein, 1859 GENUS
-=======
+# Psilotricha Stein, 1859 GENUS
 
 #### Status
 ACCEPTED

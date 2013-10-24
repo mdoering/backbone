@@ -1,5 +1,4 @@
-Pyrenopeziza paramyciformis M.P. Sharma & Ajay Singh SPECIES
-=======
+# Pyrenopeziza paramyciformis M.P. Sharma & Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

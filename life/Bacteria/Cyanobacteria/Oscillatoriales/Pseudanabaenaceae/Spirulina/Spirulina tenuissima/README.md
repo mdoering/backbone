@@ -1,5 +1,4 @@
-Spirulina tenuissima Kutzing SPECIES
-=======
+# Spirulina tenuissima Kutzing SPECIES
 
 #### Status
 ACCEPTED

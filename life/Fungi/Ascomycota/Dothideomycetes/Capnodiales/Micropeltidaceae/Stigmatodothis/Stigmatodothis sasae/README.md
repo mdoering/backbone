@@ -1,5 +1,4 @@
-Stigmatodothis sasae (Hara) I. Hino & Katum. SPECIES
-=======
+# Stigmatodothis sasae (Hara) I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

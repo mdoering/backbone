@@ -1,5 +1,4 @@
-Galerina leonina A.E. Wood SPECIES
-=======
+# Galerina leonina A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

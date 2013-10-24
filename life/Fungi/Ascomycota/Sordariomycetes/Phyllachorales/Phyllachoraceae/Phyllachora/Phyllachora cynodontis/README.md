@@ -1,17 +1,16 @@
-Phyllachora cynodontis var. chloridis Henn., 1895 VARIETY
-=======
+# Phyllachora cynodontis Niessl, 1876 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Die Pflanzenwelt Ost. Afrikas & der Nachbargebiete, Teil C 34 (1895)
+Verh. nat. Ver. Brünn 14: 219 (1876)
 
 #### Original name
-Phyllachora cynodontis var. chloridis Henn., 1895
+Phyllachora cynodontis Niessl, 1876
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Gunteria Cushman & Ponton, 1933 GENUS
-=======
+# Gunteria Cushman & Ponton, 1933 GENUS
 
 #### Status
 ACCEPTED

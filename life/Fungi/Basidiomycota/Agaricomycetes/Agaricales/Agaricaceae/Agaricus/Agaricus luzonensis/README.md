@@ -1,5 +1,4 @@
-Agaricus luzonensis P.W. Graff SPECIES
-=======
+# Agaricus luzonensis P.W. Graff SPECIES
 
 #### Status
 ACCEPTED

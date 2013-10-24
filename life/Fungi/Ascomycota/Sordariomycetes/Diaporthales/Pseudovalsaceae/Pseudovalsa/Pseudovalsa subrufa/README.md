@@ -1,5 +1,4 @@
-Pseudovalsa subrufa Ellis & Everh. SPECIES
-=======
+# Pseudovalsa subrufa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis fraxinellae (Tassi) Petr. SPECIES
-=======
+# Phomopsis fraxinellae (Tassi) Petr. SPECIES
 
 #### Status
 ACCEPTED

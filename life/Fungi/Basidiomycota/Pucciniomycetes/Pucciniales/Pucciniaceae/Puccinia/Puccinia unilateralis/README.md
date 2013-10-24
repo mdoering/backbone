@@ -1,5 +1,4 @@
-Puccinia unilateralis (Arthur) Cummins SPECIES
-=======
+# Puccinia unilateralis (Arthur) Cummins SPECIES
 
 #### Status
 ACCEPTED

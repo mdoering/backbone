@@ -1,5 +1,4 @@
-Placopyrenium heppioides (Zahlbr.) Breuss SPECIES
-=======
+# Placopyrenium heppioides (Zahlbr.) Breuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aulographella anthurii Bat. SPECIES
-=======
+# Aulographella anthurii Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelephora seriata Fr. SPECIES
-=======
+# Thelephora seriata Fr. SPECIES
 
 #### Status
 ACCEPTED

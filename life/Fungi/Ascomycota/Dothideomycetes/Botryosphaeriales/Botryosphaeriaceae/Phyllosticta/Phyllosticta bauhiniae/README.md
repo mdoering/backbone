@@ -1,5 +1,4 @@
-Phyllosticta bauhiniae Cooke SPECIES
-=======
+# Phyllosticta bauhiniae Cooke SPECIES
 
 #### Status
 ACCEPTED

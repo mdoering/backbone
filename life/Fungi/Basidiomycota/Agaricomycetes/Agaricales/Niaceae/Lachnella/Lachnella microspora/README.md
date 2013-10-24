@@ -1,5 +1,4 @@
-Lachnella microspora (Kanouse) Seaver SPECIES
-=======
+# Lachnella microspora (Kanouse) Seaver SPECIES
 
 #### Status
 ACCEPTED

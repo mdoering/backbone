@@ -1,14 +1,13 @@
-Acanthocystis hollandianus (Sumst.) Singer SPECIES
-=======
+# Acanthocystis hollandiana (Sumst.) Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 41: 148 (1943)
 
 #### Original name
 Pleurotus hollandianus Sumst.

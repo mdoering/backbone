@@ -1,17 +1,16 @@
-Puccinia kyllingiae-brevifoliae Miura SPECIES
-=======
+# Puccinia kyllingae-brevifoliae Miura SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Ito & Homma, Trans. Sapporo nat. Hist. Soc. 15(3): 128 (1938)
 
 #### Original name
-Puccinia kyllingiae-brevifoliae Miura
+Puccinia kyllingae-brevifoliae Miura
 
 ### Remarks
 null

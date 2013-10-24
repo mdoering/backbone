@@ -1,5 +1,4 @@
-Myxosporium corticola Edgerton SPECIES
-=======
+# Myxosporium corticola Edgerton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeronaema innatum P. Karst. SPECIES
-=======
+# Sphaeronaema innatum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Polyporus angolensis Lloyd, 1920 SPECIES
-=======
+# Piptoporus soloniensis (Dubois) Pilát, 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Atlas des Champignons de l'Europe, Ser. B 3: 126 (1937)
 
 #### Original name
-null
+Boletus soloniensis Dubois, 1815
 
 ### Remarks
 null

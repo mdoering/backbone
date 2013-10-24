@@ -1,5 +1,4 @@
-Phoma ceratoniae Politis SPECIES
-=======
+# Phoma ceratoniae Politis SPECIES
 
 #### Status
 ACCEPTED

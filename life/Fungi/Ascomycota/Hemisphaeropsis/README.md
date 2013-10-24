@@ -1,5 +1,4 @@
-Hemisphaeropsis Petr. GENUS
-=======
+# Hemisphaeropsis Petr. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora hyoscyami Domashova SPECIES
-=======
+# Stagonospora hyoscyami Domashova SPECIES
 
 #### Status
 ACCEPTED

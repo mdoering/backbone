@@ -1,5 +1,4 @@
-Krombholziella subrotundifoliae (J. Blum) Courtec. SPECIES
-=======
+# Krombholziella subrotundifoliae (J. Blum) Courtec. SPECIES
 
 #### Status
 ACCEPTED

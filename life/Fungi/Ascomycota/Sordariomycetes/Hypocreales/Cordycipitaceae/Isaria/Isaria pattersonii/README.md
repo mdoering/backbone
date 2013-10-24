@@ -1,5 +1,4 @@
-Isaria pattersonii Massee SPECIES
-=======
+# Isaria pattersonii Massee SPECIES
 
 #### Status
 ACCEPTED

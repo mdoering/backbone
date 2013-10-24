@@ -1,5 +1,4 @@
-Helicosphaera colombiana Gartner, 1977 SPECIES
-=======
+# Helicosphaera colombiana Gartner, 1977 SPECIES
 
 #### Status
 ACCEPTED

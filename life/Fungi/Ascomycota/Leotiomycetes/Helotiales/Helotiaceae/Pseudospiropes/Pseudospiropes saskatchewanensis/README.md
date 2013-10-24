@@ -1,5 +1,4 @@
-Pseudospiropes saskatchewanensis B. Sutton, 1973 SPECIES
-=======
+# Pseudospiropes saskatchewanensis B. Sutton, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoglaena kuemmerlei (Szatala) Szatala ex Nikol. SPECIES
-=======
+# Mycoglaena kuemmerlei (Szatala) Szatala ex Nikol. SPECIES
 
 #### Status
 ACCEPTED

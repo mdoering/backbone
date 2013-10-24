@@ -1,5 +1,4 @@
-Boletinus cavipoides C.S. Bi & G.Y. Zheng SPECIES
-=======
+# Boletinus cavipoides C.S. Bi & G.Y. Zheng SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia protuberans K. Sugiy. & T. Majewski SPECIES
-=======
+# Laboulbenia protuberans K. Sugiy. & T. Majewski SPECIES
 
 #### Status
 ACCEPTED

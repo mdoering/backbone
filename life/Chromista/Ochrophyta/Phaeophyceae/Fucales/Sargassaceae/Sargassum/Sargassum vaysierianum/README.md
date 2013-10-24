@@ -1,11 +1,10 @@
-Sargassum vaysierianum f. macrocarpum Grunow, 1889 FORM
-=======
+# Sargassum vaysierianum SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

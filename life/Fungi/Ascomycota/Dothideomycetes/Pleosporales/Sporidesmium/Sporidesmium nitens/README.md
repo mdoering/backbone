@@ -1,5 +1,4 @@
-Sporidesmium nitens Schwein. SPECIES
-=======
+# Sporidesmium nitens Schwein. SPECIES
 
 #### Status
 ACCEPTED

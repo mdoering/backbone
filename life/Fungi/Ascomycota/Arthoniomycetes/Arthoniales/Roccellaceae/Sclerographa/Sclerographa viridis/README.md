@@ -1,5 +1,4 @@
-Sclerographa viridis (Pers.) Erichsen SPECIES
-=======
+# Sclerographa viridis (Pers.) Erichsen SPECIES
 
 #### Status
 ACCEPTED

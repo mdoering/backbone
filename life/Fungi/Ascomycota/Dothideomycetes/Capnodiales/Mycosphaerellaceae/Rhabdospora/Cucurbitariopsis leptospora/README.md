@@ -1,5 +1,4 @@
-Cucurbitariopsis leptospora C. Massal. SPECIES
-=======
+# Cucurbitariopsis leptospora C. Massal. SPECIES
 
 #### Status
 ACCEPTED

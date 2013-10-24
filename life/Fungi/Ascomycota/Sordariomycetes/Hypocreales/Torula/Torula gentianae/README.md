@@ -1,5 +1,4 @@
-Torula gentianae Guyot SPECIES
-=======
+# Torula gentianae Guyot SPECIES
 
 #### Status
 ACCEPTED

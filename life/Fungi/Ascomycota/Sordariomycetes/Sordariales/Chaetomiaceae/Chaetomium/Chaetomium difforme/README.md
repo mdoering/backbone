@@ -1,5 +1,4 @@
-Chaetomium difforme W. Gams SPECIES
-=======
+# Chaetomium difforme W. Gams SPECIES
 
 #### Status
 ACCEPTED

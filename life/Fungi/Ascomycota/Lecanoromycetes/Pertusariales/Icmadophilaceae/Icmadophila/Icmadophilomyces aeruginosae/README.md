@@ -1,5 +1,4 @@
-Icmadophilomyces aeruginosae E.A. Thomas ex Cif. & Tomas. SPECIES
-=======
+# Icmadophilomyces aeruginosae E.A. Thomas ex Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

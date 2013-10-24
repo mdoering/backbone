@@ -1,5 +1,4 @@
-Cercosporella euphorbiacearum Siboe & J.C. David SPECIES
-=======
+# Cercosporella euphorbiacearum Siboe & J.C. David SPECIES
 
 #### Status
 ACCEPTED

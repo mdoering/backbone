@@ -1,5 +1,4 @@
-Chubbina Robinson, 1968 GENUS
-=======
+# Chubbina Robinson, 1968 GENUS
 
 #### Status
 ACCEPTED

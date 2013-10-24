@@ -1,5 +1,4 @@
-Apiotrichum porosum Stautz SPECIES
-=======
+# Apiotrichum porosum Stautz SPECIES
 
 #### Status
 ACCEPTED

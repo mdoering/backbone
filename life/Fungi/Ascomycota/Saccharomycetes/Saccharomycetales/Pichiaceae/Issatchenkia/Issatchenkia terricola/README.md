@@ -1,14 +1,13 @@
-Pichia terricola Van der Walt, 1957 SPECIES
-=======
+# Issatchenkia terricola (Van der Walt) Kurtzman, M.J. Smiley & C.J. Johnson, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Antonie van Leeuwenhoek 23: 28 (1957)
+Int. J. Syst. Bacteriol. 30(2): 507 (1980)
 
 #### Original name
 Pichia terricola Van der Walt, 1957

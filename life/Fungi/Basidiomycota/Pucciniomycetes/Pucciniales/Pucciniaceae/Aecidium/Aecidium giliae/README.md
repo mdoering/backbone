@@ -1,5 +1,4 @@
-Aecidium giliae Peck SPECIES
-=======
+# Aecidium giliae Peck SPECIES
 
 #### Status
 ACCEPTED

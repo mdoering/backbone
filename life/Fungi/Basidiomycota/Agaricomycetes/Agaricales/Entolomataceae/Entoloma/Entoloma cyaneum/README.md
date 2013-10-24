@@ -1,5 +1,4 @@
-Entoloma cyaneum (Murrill) Hesler SPECIES
-=======
+# Entoloma cyaneum (Murrill) Hesler SPECIES
 
 #### Status
 ACCEPTED

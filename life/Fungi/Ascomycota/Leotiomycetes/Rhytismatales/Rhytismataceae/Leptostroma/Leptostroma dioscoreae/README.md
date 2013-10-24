@@ -1,5 +1,4 @@
-Leptostroma dioscoreae Gonz. Frag. SPECIES
-=======
+# Leptostroma dioscoreae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

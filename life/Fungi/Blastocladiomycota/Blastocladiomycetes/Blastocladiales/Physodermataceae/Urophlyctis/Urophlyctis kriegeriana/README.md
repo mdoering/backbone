@@ -1,5 +1,4 @@
-Urophlyctis kriegeriana Magnus SPECIES
-=======
+# Urophlyctis kriegeriana Magnus SPECIES
 
 #### Status
 ACCEPTED

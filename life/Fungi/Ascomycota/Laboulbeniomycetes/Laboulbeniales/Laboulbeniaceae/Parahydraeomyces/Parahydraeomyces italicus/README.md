@@ -1,5 +1,4 @@
-Parahydraeomyces italicus Speg. SPECIES
-=======
+# Parahydraeomyces italicus Speg. SPECIES
 
 #### Status
 ACCEPTED

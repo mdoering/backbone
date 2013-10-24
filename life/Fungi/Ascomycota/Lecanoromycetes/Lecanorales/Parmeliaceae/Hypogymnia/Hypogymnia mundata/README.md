@@ -1,17 +1,16 @@
-Parmelia mundata var. mundata Nyl. VARIETY
-=======
+# Hypogymnia mundata (Nyl.) Oksner ex Rass. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. lich. 1: 401 (1860)
+Bot. Mater. Gerb. Bot. Inst. Kamarova Akad. Nauk SSSR 11: 11 (1956)
 
 #### Original name
-Parmelia mundata var. mundata Nyl.
+Parmelia mundata Nyl.
 
 ### Remarks
 null

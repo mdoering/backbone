@@ -1,5 +1,4 @@
-Cyclotella quillensis Bailey SPECIES
-=======
+# Cyclotella quillensis Bailey SPECIES
 
 #### Status
 ACCEPTED

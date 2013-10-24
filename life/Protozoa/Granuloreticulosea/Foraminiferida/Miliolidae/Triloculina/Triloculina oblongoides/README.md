@@ -1,5 +1,4 @@
-Triloculina oblongoides Hofker, 1964 SPECIES
-=======
+# Triloculina oblongoides Hofker, 1964 SPECIES
 
 #### Status
 ACCEPTED

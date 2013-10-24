@@ -1,5 +1,4 @@
-Dermatocarpon crassum f. crassum FORM
-=======
+# Dermatocarpon crassum (Anzi) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 1: 214 (1921)
 
 #### Original name
-Dermatocarpon crassum f. crassum
+Endocarpon crassum Anzi
 
 ### Remarks
 null

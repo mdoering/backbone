@@ -1,5 +1,4 @@
-Mycoplasma auris DaMassa et al., 1994 SPECIES
-=======
+# Mycoplasma auris DaMassa et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

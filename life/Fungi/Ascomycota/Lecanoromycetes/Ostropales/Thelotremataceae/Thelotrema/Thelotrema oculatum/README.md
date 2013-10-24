@@ -1,5 +1,4 @@
-Thelotrema oculatum Vain. SPECIES
-=======
+# Thelotrema oculatum Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dacrymyces nigrescens Lowy SPECIES
-=======
+# Dacrymyces nigrescens Lowy SPECIES
 
 #### Status
 ACCEPTED

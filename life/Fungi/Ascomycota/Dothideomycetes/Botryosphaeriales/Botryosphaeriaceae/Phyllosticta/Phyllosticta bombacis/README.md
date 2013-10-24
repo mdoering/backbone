@@ -1,5 +1,4 @@
-Phyllosticta bombacis Bat. SPECIES
-=======
+# Phyllosticta bombacis Bat. SPECIES
 
 #### Status
 ACCEPTED

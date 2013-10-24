@@ -1,14 +1,13 @@
-Linderomyces corneri Singer, 1961 SPECIES
-=======
+# Gloeocantharellus corneri (Singer) Corner, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Vellozia 1: 14 (1961)
+Nova Hedwigia 18(2-4): 799 (1970)
 
 #### Original name
 Linderomyces corneri Singer, 1961

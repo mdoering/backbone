@@ -1,8 +1,7 @@
-Karstenia corticioides (Pat.) Sherwood, 1977 SPECIES
-=======
+# Karstenia corticoides (Pat.) Sherwood, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Chytridium acuminatum A. Braun SPECIES
-=======
+# Chytridium acuminatum A. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Secoliga denigrata J. Steiner SPECIES
-=======
+# Secoliga denigrata J. Steiner SPECIES
 
 #### Status
 ACCEPTED

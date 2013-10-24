@@ -1,5 +1,4 @@
-Inocybe repanda (Bull.) Bres. SPECIES
-=======
+# Inocybe repanda (Bull.) Bres. SPECIES
 
 #### Status
 ACCEPTED

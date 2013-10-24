@@ -1,8 +1,7 @@
-Tubaria omphaliaeformis (Velen.) Wichanský SPECIES
-=======
+# Tubaria omphaliiformis (Velen.) Wichanský SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Rickia gryllotalpae Thaxt. SPECIES
-=======
+# Rickia gryllotalpae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

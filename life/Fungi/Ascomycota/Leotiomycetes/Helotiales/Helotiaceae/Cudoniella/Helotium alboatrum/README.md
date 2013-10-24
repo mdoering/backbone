@@ -1,5 +1,4 @@
-Helotium alboatrum Henn. SPECIES
-=======
+# Helotium alboatrum Henn. SPECIES
 
 #### Status
 ACCEPTED

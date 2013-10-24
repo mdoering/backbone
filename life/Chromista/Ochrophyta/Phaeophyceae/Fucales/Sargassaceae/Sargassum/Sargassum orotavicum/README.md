@@ -1,5 +1,4 @@
-Sargassum orotavicum T.Díaz-Villa, J.Afonso-Carillo & M.Sansón, 2004 SPECIES
-=======
+# Sargassum orotavicum T.Díaz-Villa, J.Afonso-Carillo & M.Sansón, 2004 SPECIES
 
 #### Status
 ACCEPTED

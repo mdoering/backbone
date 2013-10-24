@@ -1,11 +1,10 @@
-Elphidium crispum var. subcrispum Cushman & McCulloch, 1940 VARIETY
-=======
+# Elphidium crispum (Linnaeus, 1767) SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Sterigmatocystis butryacea SPECIES
-=======
+# Sterigmatocystis butryacea SPECIES
 
 #### Status
 ACCEPTED

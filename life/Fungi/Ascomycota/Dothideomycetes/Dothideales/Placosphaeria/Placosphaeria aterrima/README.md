@@ -1,5 +1,4 @@
-Placosphaeria aterrima (Lév.) Sacc. SPECIES
-=======
+# Placosphaeria aterrima (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cetraria komarovii Elenkin SPECIES
-=======
+# Cetraria komarovii Elenkin SPECIES
 
 #### Status
 ACCEPTED

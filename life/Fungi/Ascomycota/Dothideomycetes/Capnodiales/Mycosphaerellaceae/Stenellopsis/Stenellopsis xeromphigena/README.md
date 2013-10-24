@@ -1,5 +1,4 @@
-Stenellopsis xeromphigena K. Srivast., A.K. Srivast. & Kamal SPECIES
-=======
+# Stenellopsis xeromphigena K. Srivast., A.K. Srivast. & Kamal SPECIES
 
 #### Status
 ACCEPTED

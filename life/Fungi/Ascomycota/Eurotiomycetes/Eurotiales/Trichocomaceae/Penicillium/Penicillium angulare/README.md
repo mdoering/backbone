@@ -1,5 +1,4 @@
-Penicillium angulare S.W. Peterson, E.M. Bayer & Wicklow SPECIES
-=======
+# Penicillium angulare S.W. Peterson, E.M. Bayer & Wicklow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis hypocrellina Lücking & Chaves SPECIES
-=======
+# Graphis hypocrellina Lücking & Chaves SPECIES
 
 #### Status
 ACCEPTED

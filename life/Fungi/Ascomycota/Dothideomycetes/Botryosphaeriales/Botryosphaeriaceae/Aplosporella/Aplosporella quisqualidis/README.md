@@ -1,5 +1,4 @@
-Aplosporella quisqualidis S. Ahmad SPECIES
-=======
+# Aplosporella quisqualidis S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

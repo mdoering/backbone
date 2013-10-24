@@ -1,5 +1,4 @@
-Polynucleobacter necessarius Heckmann & Schmidt, 1987 SPECIES
-=======
+# Polynucleobacter necessarius Heckmann & Schmidt, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thaxterogaster cabrinii Raithelh. SPECIES
-=======
+# Thaxterogaster cabrinii Raithelh. SPECIES
 
 #### Status
 ACCEPTED

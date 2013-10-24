@@ -1,5 +1,4 @@
-Lecanora jussufii (Link) Follmann & Huneck SPECIES
-=======
+# Lecanora jussufii (Link) Follmann & Huneck SPECIES
 
 #### Status
 ACCEPTED

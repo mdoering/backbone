@@ -1,5 +1,4 @@
-Trachelomonas cupula Deflandre SPECIES
-=======
+# Trachelomonas cupula Deflandre SPECIES
 
 #### Status
 ACCEPTED

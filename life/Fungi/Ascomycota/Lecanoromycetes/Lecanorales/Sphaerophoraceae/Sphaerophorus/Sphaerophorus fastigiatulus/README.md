@@ -1,5 +1,4 @@
-Sphaerophorus fastigiatulus Nyl. SPECIES
-=======
+# Sphaerophorus fastigiatulus Nyl. SPECIES
 
 #### Status
 ACCEPTED

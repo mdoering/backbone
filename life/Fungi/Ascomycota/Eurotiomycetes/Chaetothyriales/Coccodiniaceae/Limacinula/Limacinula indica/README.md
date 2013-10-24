@@ -1,5 +1,4 @@
-Limacinula indica (Biv.) Sacc. & Trotter SPECIES
-=======
+# Limacinula indica (Biv.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

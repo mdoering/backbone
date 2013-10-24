@@ -1,5 +1,4 @@
-Klastopsora curcumae Höhn. SPECIES
-=======
+# Klastopsora curcumae Höhn. SPECIES
 
 #### Status
 ACCEPTED

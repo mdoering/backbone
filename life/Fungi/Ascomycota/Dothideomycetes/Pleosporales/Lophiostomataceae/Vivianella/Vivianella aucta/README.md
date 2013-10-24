@@ -1,5 +1,4 @@
-Vivianella aucta (Sacc.) Sacc. SPECIES
-=======
+# Vivianella aucta (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

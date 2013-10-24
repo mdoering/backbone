@@ -1,5 +1,4 @@
-Diplopsalopsis latipeltata Balech & Borgese SPECIES
-=======
+# Diplopsalopsis latipeltata Balech & Borgese SPECIES
 
 #### Status
 ACCEPTED

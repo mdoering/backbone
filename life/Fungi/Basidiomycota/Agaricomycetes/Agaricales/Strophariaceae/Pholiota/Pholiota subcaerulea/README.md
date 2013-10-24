@@ -1,5 +1,4 @@
-Pholiota subcaerulea A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota subcaerulea A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

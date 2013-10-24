@@ -1,5 +1,4 @@
-Sporobolomyces coprosmae Hamam. & Nakase, 1995 SPECIES
-=======
+# Sporobolomyces coprosmae Hamam. & Nakase, 1995 SPECIES
 
 #### Status
 ACCEPTED

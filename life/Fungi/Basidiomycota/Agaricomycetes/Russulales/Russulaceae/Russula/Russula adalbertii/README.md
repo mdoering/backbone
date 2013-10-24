@@ -1,5 +1,4 @@
-Russula adalbertii Reumaux, Moënne-Locc. & Bidaud SPECIES
-=======
+# Russula adalbertii Reumaux, Moënne-Locc. & Bidaud SPECIES
 
 #### Status
 ACCEPTED

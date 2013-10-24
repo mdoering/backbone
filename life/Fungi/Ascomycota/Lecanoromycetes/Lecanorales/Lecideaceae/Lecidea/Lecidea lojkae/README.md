@@ -1,5 +1,4 @@
-Lecidea lojkae Szatala SPECIES
-=======
+# Lecidea lojkae Szatala SPECIES
 
 #### Status
 ACCEPTED

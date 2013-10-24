@@ -1,14 +1,13 @@
-Terana oakesii (Berk. & M.A. Curtis) Kuntze, 1891 SPECIES
-=======
+# Aleurodiscus oakesii (Berk. & M.A. Curtis) Pat., 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 872 (1891)
+null
 
 #### Original name
 null

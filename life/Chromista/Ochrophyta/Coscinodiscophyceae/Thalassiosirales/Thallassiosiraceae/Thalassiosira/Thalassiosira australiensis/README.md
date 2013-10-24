@@ -1,5 +1,4 @@
-Thalassiosira australiensis (Grunow) G. R. Hasle SPECIES
-=======
+# Thalassiosira australiensis (Grunow) G. R. Hasle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Dicaeoma duthiei (Ellis & Tracy) Syd., 1922 SPECIES
-=======
+# Puccinia duthiei Ellis & Tracy, 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

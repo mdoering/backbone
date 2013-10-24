@@ -1,5 +1,4 @@
-Puccinia saltensis J.C. Lindq. SPECIES
-=======
+# Puccinia saltensis J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

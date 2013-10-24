@@ -1,5 +1,4 @@
-Stilbum hirsutum Hoffm. SPECIES
-=======
+# Stilbum hirsutum Hoffm. SPECIES
 
 #### Status
 ACCEPTED

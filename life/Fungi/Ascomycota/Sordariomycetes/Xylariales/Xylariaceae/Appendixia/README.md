@@ -1,5 +1,4 @@
-Appendixia B.S. Lu & K.D. Hyde GENUS
-=======
+# Appendixia B.S. Lu & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

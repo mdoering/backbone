@@ -1,5 +1,4 @@
-Biatora variegata (Fr.) Hepp SPECIES
-=======
+# Biatora variegata (Fr.) Hepp SPECIES
 
 #### Status
 ACCEPTED

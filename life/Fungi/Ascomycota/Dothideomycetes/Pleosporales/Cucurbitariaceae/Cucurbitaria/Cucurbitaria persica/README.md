@@ -1,5 +1,4 @@
-Cucurbitaria persica Petr. SPECIES
-=======
+# Cucurbitaria persica Petr. SPECIES
 
 #### Status
 ACCEPTED

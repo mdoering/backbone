@@ -1,5 +1,4 @@
-Encoelia hypochlora Berk. & M.A. Curtis SPECIES
-=======
+# Encoelia hypochlora Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

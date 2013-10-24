@@ -1,5 +1,4 @@
-Phyllosticta hydrophila Speg. SPECIES
-=======
+# Phyllosticta hydrophila Speg. SPECIES
 
 #### Status
 ACCEPTED

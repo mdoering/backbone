@@ -1,5 +1,4 @@
-Physalospora magellanica Speg. SPECIES
-=======
+# Physalospora magellanica Speg. SPECIES
 
 #### Status
 ACCEPTED

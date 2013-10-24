@@ -1,5 +1,4 @@
-Lamprospora irregulariata K.B. Khare & V.P. Tewari SPECIES
-=======
+# Lamprospora irregulariata K.B. Khare & V.P. Tewari SPECIES
 
 #### Status
 ACCEPTED

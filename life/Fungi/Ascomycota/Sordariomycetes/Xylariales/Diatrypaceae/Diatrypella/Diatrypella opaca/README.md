@@ -1,5 +1,4 @@
-Diatrypella opaca (Cooke) Sacc. SPECIES
-=======
+# Diatrypella opaca (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

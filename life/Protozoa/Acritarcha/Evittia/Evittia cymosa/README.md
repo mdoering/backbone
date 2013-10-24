@@ -1,5 +1,4 @@
-Evittia cymosa Loeblich, 1970 SPECIES
-=======
+# Evittia cymosa Loeblich, 1970 SPECIES
 
 #### Status
 ACCEPTED

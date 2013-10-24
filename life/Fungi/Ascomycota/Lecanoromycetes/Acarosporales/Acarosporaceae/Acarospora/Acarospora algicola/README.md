@@ -1,5 +1,4 @@
-Acarospora algicola (Groenh.) G. Salisb. SPECIES
-=======
+# Acarospora algicola (Groenh.) G. Salisb. SPECIES
 
 #### Status
 ACCEPTED

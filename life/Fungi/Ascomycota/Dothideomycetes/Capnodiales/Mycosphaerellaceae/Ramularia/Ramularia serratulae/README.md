@@ -1,5 +1,4 @@
-Ramularia serratulae (Sacc.) Maia SPECIES
-=======
+# Ramularia serratulae (Sacc.) Maia SPECIES
 
 #### Status
 ACCEPTED

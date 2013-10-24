@@ -1,5 +1,4 @@
-Apertospathula armata Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Apertospathula armata Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

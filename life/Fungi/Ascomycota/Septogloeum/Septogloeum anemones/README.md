@@ -1,17 +1,16 @@
-Septogloeum anemonis I. Miyake SPECIES
-=======
+# Septogloeum anemones I. Miyake SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Mag. , Tokyo 28: 53 (1914)
 
 #### Original name
-Septogloeum anemonis I. Miyake
+Septogloeum anemones I. Miyake
 
 ### Remarks
 null

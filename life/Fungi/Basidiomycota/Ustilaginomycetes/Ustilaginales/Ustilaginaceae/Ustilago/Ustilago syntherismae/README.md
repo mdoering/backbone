@@ -1,14 +1,13 @@
-Sorosporium syntherismae (Schwein.) Farl., 1891 SPECIES
-=======
+# Ustilago syntherismae (Schwein.) Peck, 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Rep. (Ann. ) N. Y. St. Mus. nat. Hist. 115 (1875)
 
 #### Original name
 Uredo syntherismae Schwein.

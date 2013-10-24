@@ -1,5 +1,4 @@
-Phoma senecionis P. Syd., 1899 SPECIES
-=======
+# Phoma senecionis P. Syd., 1899 SPECIES
 
 #### Status
 ACCEPTED

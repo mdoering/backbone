@@ -1,5 +1,4 @@
-Dicaeoma hydrophylli (Clinton & Peck) Kuntze SPECIES
-=======
+# Dicaeoma hydrophylli (Clinton & Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

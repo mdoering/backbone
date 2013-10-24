@@ -1,5 +1,4 @@
-Arthonia sulphurea Fée SPECIES
-=======
+# Arthonia sulphurea Fée SPECIES
 
 #### Status
 ACCEPTED

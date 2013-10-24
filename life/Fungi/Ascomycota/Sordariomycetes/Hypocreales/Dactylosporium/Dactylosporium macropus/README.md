@@ -1,5 +1,4 @@
-Dactylosporium macropus (Corda) Harz, 1871 SPECIES
-=======
+# Dactylosporium macropus (Corda) Harz, 1871 SPECIES
 
 #### Status
 ACCEPTED

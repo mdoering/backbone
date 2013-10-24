@@ -1,5 +1,4 @@
-Spiniferomonas trioralis Takahashi SPECIES
-=======
+# Spiniferomonas trioralis Takahashi SPECIES
 
 #### Status
 ACCEPTED

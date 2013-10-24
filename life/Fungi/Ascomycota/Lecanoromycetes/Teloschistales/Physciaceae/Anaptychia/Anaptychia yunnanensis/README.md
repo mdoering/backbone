@@ -1,5 +1,4 @@
-Anaptychia yunnanensis J.D. Zhao, L.W. Hsu & Z.M. Sun SPECIES
-=======
+# Anaptychia yunnanensis J.D. Zhao, L.W. Hsu & Z.M. Sun SPECIES
 
 #### Status
 ACCEPTED

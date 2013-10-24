@@ -1,5 +1,4 @@
-Gorgonisphaeridium jubatum Gao Lianda, 1988 SPECIES
-=======
+# Gorgonisphaeridium jubatum Gao Lianda, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vorticella elegans Dons, 1918 SPECIES
-=======
+# Vorticella elegans Dons, 1918 SPECIES
 
 #### Status
 ACCEPTED

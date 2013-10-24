@@ -1,5 +1,4 @@
-Blastocladia truncata Sparrow SPECIES
-=======
+# Blastocladia truncata Sparrow SPECIES
 
 #### Status
 ACCEPTED

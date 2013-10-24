@@ -1,5 +1,4 @@
-Pannaria obliterans Nyl. SPECIES
-=======
+# Pannaria obliterans Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces alyxiae Arthur SPECIES
-=======
+# Uromyces alyxiae Arthur SPECIES
 
 #### Status
 ACCEPTED

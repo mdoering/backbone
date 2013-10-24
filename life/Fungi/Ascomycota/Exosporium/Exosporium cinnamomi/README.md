@@ -1,5 +1,4 @@
-Exosporium cinnamomi Muthappa SPECIES
-=======
+# Exosporium cinnamomi Muthappa SPECIES
 
 #### Status
 ACCEPTED

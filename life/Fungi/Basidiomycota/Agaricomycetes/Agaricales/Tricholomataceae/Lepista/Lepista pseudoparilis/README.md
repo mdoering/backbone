@@ -1,5 +1,4 @@
-Lepista pseudoparilis Enderle & Contu SPECIES
-=======
+# Lepista pseudoparilis Enderle & Contu SPECIES
 
 #### Status
 ACCEPTED

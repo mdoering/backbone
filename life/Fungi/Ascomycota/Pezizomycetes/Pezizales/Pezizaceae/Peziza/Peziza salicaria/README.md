@@ -1,5 +1,4 @@
-Peziza salicaria Pers. SPECIES
-=======
+# Peziza salicaria Pers. SPECIES
 
 #### Status
 ACCEPTED

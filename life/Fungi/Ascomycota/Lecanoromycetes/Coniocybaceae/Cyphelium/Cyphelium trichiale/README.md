@@ -1,5 +1,4 @@
-Cyphelium trichiale Ach. SPECIES
-=======
+# Cyphelium trichiale Ach. SPECIES
 
 #### Status
 ACCEPTED

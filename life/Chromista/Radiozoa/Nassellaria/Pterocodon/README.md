@@ -1,14 +1,13 @@
-Peterocodon Carter, 1893 GENUS
-=======
+# Pterocodon Ehrenberg, 1847 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Amer. Micr. J. , 14, 71.
+Ber. Verh. Preuss. Akad. Wiss. , 1847, Tab. p. 54.
 
 #### Original name
 null

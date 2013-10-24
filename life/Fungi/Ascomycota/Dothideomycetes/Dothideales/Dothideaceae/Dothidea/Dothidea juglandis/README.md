@@ -1,5 +1,4 @@
-Dothidea juglandis Duby, 1830 SPECIES
-=======
+# Dothidea juglandis Duby, 1830 SPECIES
 
 #### Status
 ACCEPTED

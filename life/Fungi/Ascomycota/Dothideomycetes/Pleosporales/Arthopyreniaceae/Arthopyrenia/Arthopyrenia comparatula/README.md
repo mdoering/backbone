@@ -1,5 +1,4 @@
-Arthopyrenia comparatula Müll. Arg. SPECIES
-=======
+# Arthopyrenia comparatula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Nodularia sphaerocarpa Bornet & Flahault SPECIES
-=======
+# Nodularia harveyana (Thwaites) Thuret SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

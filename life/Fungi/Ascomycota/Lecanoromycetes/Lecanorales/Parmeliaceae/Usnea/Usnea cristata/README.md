@@ -1,5 +1,4 @@
-Usnea cristata Motyka SPECIES
-=======
+# Usnea cristata Motyka SPECIES
 
 #### Status
 ACCEPTED

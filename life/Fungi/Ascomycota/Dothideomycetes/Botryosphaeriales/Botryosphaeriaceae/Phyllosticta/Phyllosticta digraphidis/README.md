@@ -1,5 +1,4 @@
-Phyllosticta digraphidis (Lavrov) Lavrov SPECIES
-=======
+# Phyllosticta digraphidis (Lavrov) Lavrov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalospora brunneospora Saccas SPECIES
-=======
+# Physalospora brunneospora Saccas SPECIES
 
 #### Status
 ACCEPTED

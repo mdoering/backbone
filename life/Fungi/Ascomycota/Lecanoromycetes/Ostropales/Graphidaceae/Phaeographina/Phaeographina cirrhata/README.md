@@ -1,5 +1,4 @@
-Phaeographina cirrhata (Stirt.) Zahlbr. SPECIES
-=======
+# Phaeographina cirrhata (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

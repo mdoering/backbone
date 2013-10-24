@@ -1,5 +1,4 @@
-Ormathodium ambrosiae Olive SPECIES
-=======
+# Ormathodium ambrosiae Olive SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Candida naeodendra Van der Walt, Johannsen & Nakase, 1973 SPECIES
-=======
+# Candida diddensiae (Phaff, Mrak & O.B. Williams) Fell & S.A. Mey., 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycopath. Mycol. appl. 32: 189 (1967)
 
 #### Original name
-null
+Trichosporon diddensiae Phaff, Mrak & O.B. Williams, 1952
 
 ### Remarks
 null

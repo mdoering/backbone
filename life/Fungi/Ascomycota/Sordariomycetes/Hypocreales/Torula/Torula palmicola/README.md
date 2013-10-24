@@ -1,5 +1,4 @@
-Torula palmicola Berk. & M.A. Curtis SPECIES
-=======
+# Torula palmicola Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermicularia subeffigurata var. subeffigurata VARIETY
-=======
+# Vermicularia subeffigurata Schwein. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Vermicularia subeffigurata var. subeffigurata
+Vermicularia subeffigurata Schwein.
 
 ### Remarks
 null

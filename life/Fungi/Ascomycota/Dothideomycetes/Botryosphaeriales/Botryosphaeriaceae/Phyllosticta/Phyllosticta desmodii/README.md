@@ -1,5 +1,4 @@
-Phyllosticta desmodii var. desmodii VARIETY
-=======
+# Phyllosticta desmodii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 J. Mycol. 5(3): 146 (1889)
 
 #### Original name
-Phyllosticta desmodii var. desmodii
+Phyllosticta desmodii Ellis & Everh.
 
 ### Remarks
 null

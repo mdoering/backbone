@@ -1,8 +1,7 @@
-Ectosperma sessilis Vaucher SPECIES
-=======
+# Vaucheria bursata (O.F. Müller) C. Agardh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

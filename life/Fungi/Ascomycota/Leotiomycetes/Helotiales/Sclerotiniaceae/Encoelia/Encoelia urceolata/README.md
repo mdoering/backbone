@@ -1,5 +1,4 @@
-Encoelia urceolata (E.J. Durand) W.Y. Zhuang SPECIES
-=======
+# Encoelia urceolata (E.J. Durand) W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

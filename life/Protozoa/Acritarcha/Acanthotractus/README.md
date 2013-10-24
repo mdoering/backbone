@@ -1,5 +1,4 @@
-Acanthotractus GENUS
-=======
+# Acanthotractus GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Trachelius subtilis Penard, 1922 SPECIES
-=======
+# Trachelius ovum (Ehrenberg, 1831) Ehrenberg, 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

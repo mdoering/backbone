@@ -1,5 +1,4 @@
-Sarcosagium biatorellum A. Massal. SPECIES
-=======
+# Sarcosagium biatorellum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

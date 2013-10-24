@@ -1,5 +1,4 @@
-Clitocybe subhygrophana Singer SPECIES
-=======
+# Clitocybe subhygrophana Singer SPECIES
 
 #### Status
 ACCEPTED

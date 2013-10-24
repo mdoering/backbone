@@ -1,5 +1,4 @@
-Sarcodon candidus (J.C. Schmidt) Quél. SPECIES
-=======
+# Sarcodon candidus (J.C. Schmidt) Quél. SPECIES
 
 #### Status
 ACCEPTED

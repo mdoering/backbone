@@ -1,5 +1,4 @@
-Fuckelia rhenana SPECIES
-=======
+# Fuckelia rhenana SPECIES
 
 #### Status
 ACCEPTED

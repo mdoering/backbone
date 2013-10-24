@@ -1,5 +1,4 @@
-Psilocybe australiana Guzmán & Watling SPECIES
-=======
+# Psilocybe australiana Guzmán & Watling SPECIES
 
 #### Status
 ACCEPTED

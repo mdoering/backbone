@@ -1,5 +1,4 @@
-Nectria noackiana Syd. & P. Syd. SPECIES
-=======
+# Nectria noackiana Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

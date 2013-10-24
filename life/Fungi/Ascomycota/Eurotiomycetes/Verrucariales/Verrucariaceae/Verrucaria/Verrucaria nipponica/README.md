@@ -1,5 +1,4 @@
-Verrucaria nipponica Zahlbr. SPECIES
-=======
+# Verrucaria nipponica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

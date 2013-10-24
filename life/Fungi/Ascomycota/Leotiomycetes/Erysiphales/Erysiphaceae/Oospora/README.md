@@ -1,5 +1,4 @@
-Oospora Wallr., 1833 GENUS
-=======
+# Oospora Wallr., 1833 GENUS
 
 #### Status
 ACCEPTED

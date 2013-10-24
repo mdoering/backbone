@@ -1,5 +1,4 @@
-Trachelomonas vermiculosa var. tiszae Szabados VARIETY
-=======
+# Trachelomonas vermiculosa Palmer SPECIES
 
 #### Status
 ACCEPTED

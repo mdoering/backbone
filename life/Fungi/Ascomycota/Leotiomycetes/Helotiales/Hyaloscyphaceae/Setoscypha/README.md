@@ -1,5 +1,4 @@
-Setoscypha GENUS
-=======
+# Setoscypha GENUS
 
 #### Status
 ACCEPTED

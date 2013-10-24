@@ -1,5 +1,4 @@
-Periconiella laevispora Speg. SPECIES
-=======
+# Periconiella laevispora Speg. SPECIES
 
 #### Status
 ACCEPTED

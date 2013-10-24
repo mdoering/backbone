@@ -1,14 +1,13 @@
-Torula hysterioides Corda, 1837 SPECIES
-=======
+# Cryptocoryneum hysterioides (Corda) Peyronel, 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. fung. (Prague) 1: 9 (1837)
+Nuovo Giorn. Bot. Ital. , N. S. 25: 449 (1918)
 
 #### Original name
 Torula hysterioides Corda, 1837

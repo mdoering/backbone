@@ -1,5 +1,4 @@
-Dimerosporium agavectona Pat. & Har. SPECIES
-=======
+# Dimerosporium agavectona Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cystolepiota australis Singer SPECIES
-=======
+# Cystolepiota australis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Friedmanniella lacustris Lawson et al., 2000 SPECIES
-=======
+# Friedmanniella lacustris Lawson et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

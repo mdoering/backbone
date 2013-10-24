@@ -1,5 +1,4 @@
-Entoloma atrogriseum Largent SPECIES
-=======
+# Entoloma atrogriseum Largent SPECIES
 
 #### Status
 ACCEPTED

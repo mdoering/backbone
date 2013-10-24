@@ -1,5 +1,4 @@
-Actinoteichus maranhensis Cavalc. & Poroca SPECIES
-=======
+# Actinoteichus maranhensis Cavalc. & Poroca SPECIES
 
 #### Status
 ACCEPTED

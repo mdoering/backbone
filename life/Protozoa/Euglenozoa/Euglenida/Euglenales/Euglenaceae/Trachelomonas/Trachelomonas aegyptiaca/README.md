@@ -1,5 +1,4 @@
-Trachelomonas aegyptiaca Lemmermann SPECIES
-=======
+# Trachelomonas aegyptiaca Lemmermann SPECIES
 
 #### Status
 ACCEPTED

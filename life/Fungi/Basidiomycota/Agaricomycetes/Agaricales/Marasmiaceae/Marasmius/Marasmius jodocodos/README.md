@@ -1,5 +1,4 @@
-Marasmius jodocodos Henn. SPECIES
-=======
+# Marasmius jodocodos Henn. SPECIES
 
 #### Status
 ACCEPTED

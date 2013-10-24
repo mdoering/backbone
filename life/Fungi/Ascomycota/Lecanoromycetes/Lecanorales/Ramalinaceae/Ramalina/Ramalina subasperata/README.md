@@ -1,5 +1,4 @@
-Ramalina subasperata Nyl. SPECIES
-=======
+# Ramalina subasperata Nyl. SPECIES
 
 #### Status
 ACCEPTED

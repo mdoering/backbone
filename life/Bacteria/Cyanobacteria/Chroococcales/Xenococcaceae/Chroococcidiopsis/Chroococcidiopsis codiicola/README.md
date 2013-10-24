@@ -1,5 +1,4 @@
-Chroococcidiopsis codiicola Beljakova SPECIES
-=======
+# Chroococcidiopsis codiicola Beljakova SPECIES
 
 #### Status
 ACCEPTED

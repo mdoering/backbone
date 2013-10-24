@@ -1,5 +1,4 @@
-Pseudohandsfordia GENUS
-=======
+# Pseudohandsfordia GENUS
 
 #### Status
 ACCEPTED

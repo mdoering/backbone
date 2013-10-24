@@ -1,5 +1,4 @@
-Lecidea diducenda Vain. SPECIES
-=======
+# Lecidea diducenda Vain. SPECIES
 
 #### Status
 ACCEPTED

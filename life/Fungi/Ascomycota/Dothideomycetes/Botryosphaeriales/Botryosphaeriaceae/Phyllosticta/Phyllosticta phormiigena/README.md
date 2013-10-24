@@ -1,5 +1,4 @@
-Phyllosticta phormiigena Bubák SPECIES
-=======
+# Phyllosticta phormiigena Bubák SPECIES
 
 #### Status
 ACCEPTED

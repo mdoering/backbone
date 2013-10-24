@@ -1,5 +1,4 @@
-Actinomyces globisporus subsp. globisporus SUBSPECIES
-=======
+# Actinomyces globisporus Krassiln. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Classification of Ray-Fungi: Actinomycetales 48 (1941)
 
 #### Original name
-Actinomyces globisporus subsp. globisporus
+Actinomyces globisporus Krassiln.
 
 ### Remarks
 null

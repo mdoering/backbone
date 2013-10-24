@@ -1,5 +1,4 @@
-Parmelia spinibarbis Kurok. SPECIES
-=======
+# Parmelia spinibarbis Kurok. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acanthophysium incrustatum P.A. Lemke SPECIES
-=======
+# Acanthophysium incrustatum P.A. Lemke SPECIES
 
 #### Status
 ACCEPTED

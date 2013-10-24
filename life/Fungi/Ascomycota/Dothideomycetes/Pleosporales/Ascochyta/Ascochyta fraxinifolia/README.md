@@ -1,5 +1,4 @@
-Ascochyta fraxinifolia Siemaszko SPECIES
-=======
+# Ascochyta fraxinifolia Siemaszko SPECIES
 
 #### Status
 ACCEPTED

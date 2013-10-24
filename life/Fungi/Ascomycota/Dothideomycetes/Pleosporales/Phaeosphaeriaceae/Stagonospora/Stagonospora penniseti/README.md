@@ -1,5 +1,4 @@
-Stagonospora penniseti Moreau SPECIES
-=======
+# Stagonospora penniseti Moreau SPECIES
 
 #### Status
 ACCEPTED

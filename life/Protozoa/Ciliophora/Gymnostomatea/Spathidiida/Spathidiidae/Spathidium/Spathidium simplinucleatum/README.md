@@ -1,5 +1,4 @@
-Spathidium simplinucleatum subsp. bavariense SUBSPECIES
-=======
+# Spathidium simplinucleatum SPECIES
 
 #### Status
 ACCEPTED

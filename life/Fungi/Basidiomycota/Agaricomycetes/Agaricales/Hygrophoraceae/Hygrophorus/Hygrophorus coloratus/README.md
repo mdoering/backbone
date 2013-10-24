@@ -1,5 +1,4 @@
-Hygrophorus coloratus Peck SPECIES
-=======
+# Hygrophorus coloratus Peck SPECIES
 
 #### Status
 ACCEPTED

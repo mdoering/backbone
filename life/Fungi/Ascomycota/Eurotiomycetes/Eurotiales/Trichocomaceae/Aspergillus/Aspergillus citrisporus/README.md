@@ -1,5 +1,4 @@
-Aspergillus citrisporus Höhn., 1902 SPECIES
-=======
+# Aspergillus citrisporus Höhn., 1902 SPECIES
 
 #### Status
 ACCEPTED

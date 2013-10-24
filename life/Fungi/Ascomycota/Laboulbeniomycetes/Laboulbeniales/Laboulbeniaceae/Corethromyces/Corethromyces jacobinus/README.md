@@ -1,5 +1,4 @@
-Corethromyces jacobinus Thaxt. SPECIES
-=======
+# Corethromyces jacobinus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coleps viridis Ehrenberg, 1831 SPECIES
-=======
+# Coleps viridis Ehrenberg, 1831 SPECIES
 
 #### Status
 ACCEPTED

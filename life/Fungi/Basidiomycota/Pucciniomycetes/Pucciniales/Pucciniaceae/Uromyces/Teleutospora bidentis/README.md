@@ -1,5 +1,4 @@
-Teleutospora bidentis (Lagerh.) Arthur & Bisby SPECIES
-=======
+# Teleutospora bidentis (Lagerh.) Arthur & Bisby SPECIES
 
 #### Status
 ACCEPTED

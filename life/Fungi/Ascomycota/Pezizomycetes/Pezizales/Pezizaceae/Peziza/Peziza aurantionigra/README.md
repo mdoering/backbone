@@ -1,5 +1,4 @@
-Peziza aurantionigra Saut. SPECIES
-=======
+# Peziza aurantionigra Saut. SPECIES
 
 #### Status
 ACCEPTED

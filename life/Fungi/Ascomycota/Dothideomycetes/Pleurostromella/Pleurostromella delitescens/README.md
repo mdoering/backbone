@@ -1,5 +1,4 @@
-Pleurostromella delitescens Petr. SPECIES
-=======
+# Pleurostromella delitescens Petr. SPECIES
 
 #### Status
 ACCEPTED

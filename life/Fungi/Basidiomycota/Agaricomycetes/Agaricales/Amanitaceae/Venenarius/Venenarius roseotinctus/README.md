@@ -1,5 +1,4 @@
-Venenarius roseotinctus Murrill SPECIES
-=======
+# Venenarius roseotinctus Murrill SPECIES
 
 #### Status
 ACCEPTED

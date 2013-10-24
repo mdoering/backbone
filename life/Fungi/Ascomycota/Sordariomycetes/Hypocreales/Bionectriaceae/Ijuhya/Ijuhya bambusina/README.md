@@ -1,5 +1,4 @@
-Ijuhya bambusina (Syd. & P. Syd.) Rossman & Samuels SPECIES
-=======
+# Ijuhya bambusina (Syd. & P. Syd.) Rossman & Samuels SPECIES
 
 #### Status
 ACCEPTED

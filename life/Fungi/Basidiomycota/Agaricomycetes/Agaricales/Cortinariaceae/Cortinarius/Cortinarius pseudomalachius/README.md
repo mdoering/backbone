@@ -1,5 +1,4 @@
-Cortinarius pseudomalachius Reumaux SPECIES
-=======
+# Cortinarius pseudomalachius Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chamaeceras acicola (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras acicola (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Typhula cylindracea P. Karst. SPECIES
-=======
+# Typhula cylindracea P. Karst. SPECIES
 
 #### Status
 ACCEPTED

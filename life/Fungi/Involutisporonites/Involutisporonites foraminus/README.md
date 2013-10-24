@@ -1,5 +1,4 @@
-Involutisporonites foraminus R.T. Clarke SPECIES
-=======
+# Involutisporonites foraminus R.T. Clarke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corynespora ruelliae J.M. Yen & Lim SPECIES
-=======
+# Corynespora ruelliae J.M. Yen & Lim SPECIES
 
 #### Status
 ACCEPTED

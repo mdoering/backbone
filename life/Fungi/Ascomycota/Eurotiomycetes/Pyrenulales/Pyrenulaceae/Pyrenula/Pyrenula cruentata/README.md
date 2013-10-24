@@ -1,14 +1,13 @@
-Bottaria cruentata Müll. Arg. SPECIES
-=======
+# Pyrenula cruentata (Müll. Arg.) R.C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Engler's Bot. Jahrb. 6: 395 (1885)
+in Egan, Bryologist 90(2): 164 (1987)
 
 #### Original name
 Bottaria cruentata Müll. Arg.

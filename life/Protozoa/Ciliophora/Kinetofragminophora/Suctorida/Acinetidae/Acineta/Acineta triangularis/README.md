@@ -1,5 +1,4 @@
-Acineta triangularis SPECIES
-=======
+# Acineta triangularis SPECIES
 
 #### Status
 ACCEPTED

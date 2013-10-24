@@ -1,5 +1,4 @@
-Cryptosporium viride Bonord. SPECIES
-=======
+# Cryptosporium viride Bonord. SPECIES
 
 #### Status
 ACCEPTED

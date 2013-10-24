@@ -1,5 +1,4 @@
-Patellonectria GENUS
-=======
+# Patellonectria GENUS
 
 #### Status
 ACCEPTED

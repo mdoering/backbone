@@ -1,5 +1,4 @@
-Conida fuscopurpurea SPECIES
-=======
+# Conida fuscopurpurea SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina pilifera G. Neuwirth SPECIES
-=======
+# Porina pilifera G. Neuwirth SPECIES
 
 #### Status
 ACCEPTED

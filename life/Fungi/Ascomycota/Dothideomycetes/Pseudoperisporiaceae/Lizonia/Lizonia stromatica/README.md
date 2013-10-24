@@ -1,5 +1,4 @@
-Lizonia stromatica Rehm SPECIES
-=======
+# Lizonia stromatica Rehm SPECIES
 
 #### Status
 ACCEPTED

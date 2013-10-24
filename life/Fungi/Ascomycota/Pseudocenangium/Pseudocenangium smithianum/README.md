@@ -1,5 +1,4 @@
-Pseudocenangium smithianum Boud. SPECIES
-=======
+# Pseudocenangium smithianum Boud. SPECIES
 
 #### Status
 ACCEPTED

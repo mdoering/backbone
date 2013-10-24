@@ -1,5 +1,4 @@
-Lecidella latypea var. latypea VARIETY
-=======
+# Lecidella latypea (Ach.) Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidella latypea var. latypea
+Lecidea latypea Ach.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Dermatocarpon australe Malme SPECIES
-=======
+# Dermatocarpon australe Malme SPECIES
 
 #### Status
 ACCEPTED

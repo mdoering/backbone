@@ -1,5 +1,4 @@
-Agaricus rufipunctatus Berk. & Broome SPECIES
-=======
+# Agaricus rufipunctatus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

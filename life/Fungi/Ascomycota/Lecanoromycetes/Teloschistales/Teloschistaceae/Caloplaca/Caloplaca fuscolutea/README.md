@@ -1,5 +1,4 @@
-Caloplaca fuscolutea (Ach.) Th. Fr. SPECIES
-=======
+# Caloplaca fuscolutea (Ach.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

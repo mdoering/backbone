@@ -1,5 +1,4 @@
-Patellaria consanguinea Müll. Arg. SPECIES
-=======
+# Patellaria consanguinea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

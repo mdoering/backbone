@@ -1,5 +1,4 @@
-Opercularia penardi Kahl, 1935 SPECIES
-=======
+# Opercularia penardi Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

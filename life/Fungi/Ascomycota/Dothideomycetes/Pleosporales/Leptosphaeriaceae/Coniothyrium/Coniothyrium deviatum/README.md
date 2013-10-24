@@ -1,5 +1,4 @@
-Coniothyrium deviatum Syd. SPECIES
-=======
+# Coniothyrium deviatum Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella brahmagiriensis Hosag., Archana & D.K. Agarwal SPECIES
-=======
+# Asteridiella brahmagiriensis Hosag., Archana & D.K. Agarwal SPECIES
 
 #### Status
 ACCEPTED

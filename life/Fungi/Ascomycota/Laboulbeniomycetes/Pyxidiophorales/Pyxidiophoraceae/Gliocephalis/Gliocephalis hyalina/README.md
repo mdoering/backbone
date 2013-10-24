@@ -1,5 +1,4 @@
-Gliocephalis hyalina Matr., 1899 SPECIES
-=======
+# Gliocephalis hyalina Matr., 1899 SPECIES
 
 #### Status
 ACCEPTED

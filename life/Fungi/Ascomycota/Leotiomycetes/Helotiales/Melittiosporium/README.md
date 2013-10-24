@@ -1,5 +1,4 @@
-Melittiosporium Corda, 1838 GENUS
-=======
+# Melittiosporium Corda, 1838 GENUS
 
 #### Status
 ACCEPTED

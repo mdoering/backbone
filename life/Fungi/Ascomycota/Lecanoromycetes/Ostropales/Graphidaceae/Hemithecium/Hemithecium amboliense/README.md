@@ -1,5 +1,4 @@
-Hemithecium amboliense Makhija & Dube SPECIES
-=======
+# Hemithecium amboliense Makhija & Dube SPECIES
 
 #### Status
 ACCEPTED

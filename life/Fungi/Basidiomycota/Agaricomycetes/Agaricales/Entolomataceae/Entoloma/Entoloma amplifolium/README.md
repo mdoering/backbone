@@ -1,5 +1,4 @@
-Entoloma amplifolium Hesler SPECIES
-=======
+# Entoloma amplifolium Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena yalensis Singer SPECIES
-=======
+# Mycena yalensis Singer SPECIES
 
 #### Status
 ACCEPTED

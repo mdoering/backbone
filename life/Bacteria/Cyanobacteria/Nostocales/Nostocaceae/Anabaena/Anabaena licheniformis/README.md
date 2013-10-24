@@ -1,5 +1,4 @@
-Anabaena licheniformis Bory de Saint-Vincent SPECIES
-=======
+# Anabaena licheniformis Bory de Saint-Vincent SPECIES
 
 #### Status
 ACCEPTED

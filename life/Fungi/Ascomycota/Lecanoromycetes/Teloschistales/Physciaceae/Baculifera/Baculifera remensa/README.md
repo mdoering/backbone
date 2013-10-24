@@ -1,14 +1,13 @@
-Catillaria remensa (Stirt.) Zahlbr. SPECIES
-=======
+# Baculifera remensa (Stirt.) Marbach SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 4: 23 (1926)
+Biblthca Lichenol. 74: 144 (2000)
 
 #### Original name
 Lecidea remensa Stirt.

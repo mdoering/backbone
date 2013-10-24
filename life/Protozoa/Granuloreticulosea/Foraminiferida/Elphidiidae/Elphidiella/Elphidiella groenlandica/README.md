@@ -1,5 +1,4 @@
-Elphidiella groenlandica (Cushman, 1936) SPECIES
-=======
+# Elphidiella groenlandica (Cushman, 1936) SPECIES
 
 #### Status
 ACCEPTED

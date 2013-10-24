@@ -1,5 +1,4 @@
-Pyrenula hirsuta Etayo SPECIES
-=======
+# Pyrenula hirsuta Etayo SPECIES
 
 #### Status
 ACCEPTED

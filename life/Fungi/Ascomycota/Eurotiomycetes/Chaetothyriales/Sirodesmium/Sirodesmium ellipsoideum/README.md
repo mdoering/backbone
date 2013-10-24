@@ -1,5 +1,4 @@
-Sirodesmium ellipsoideum Neerg. SPECIES
-=======
+# Sirodesmium ellipsoideum Neerg. SPECIES
 
 #### Status
 ACCEPTED

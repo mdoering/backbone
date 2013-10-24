@@ -1,5 +1,4 @@
-Ascoliella Banner & Desai, 1988 GENUS
-=======
+# Ascoliella Banner & Desai, 1988 GENUS
 
 #### Status
 ACCEPTED

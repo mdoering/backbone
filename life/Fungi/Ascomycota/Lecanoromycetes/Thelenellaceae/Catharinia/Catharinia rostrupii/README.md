@@ -1,5 +1,4 @@
-Catharinia rostrupii Berl. SPECIES
-=======
+# Catharinia rostrupii Berl. SPECIES
 
 #### Status
 ACCEPTED

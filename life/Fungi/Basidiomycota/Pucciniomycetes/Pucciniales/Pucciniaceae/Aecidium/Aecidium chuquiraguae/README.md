@@ -1,5 +1,4 @@
-Aecidium chuquiraguae Syd. SPECIES
-=======
+# Aecidium chuquiraguae Syd. SPECIES
 
 #### Status
 ACCEPTED

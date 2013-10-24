@@ -1,5 +1,4 @@
-Nectria humicola P.Rama Rao, 1969 SPECIES
-=======
+# Nectria humicola P.Rama Rao, 1969 SPECIES
 
 #### Status
 ACCEPTED

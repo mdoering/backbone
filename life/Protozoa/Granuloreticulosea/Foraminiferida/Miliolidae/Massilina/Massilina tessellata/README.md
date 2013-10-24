@@ -1,5 +1,4 @@
-Massilina tessellata (Cushman) SPECIES
-=======
+# Massilina tessellata (Cushman) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius atrovelutinus J.Z. Ying SPECIES
-=======
+# Lactarius atrovelutinus J.Z. Ying SPECIES
 
 #### Status
 ACCEPTED

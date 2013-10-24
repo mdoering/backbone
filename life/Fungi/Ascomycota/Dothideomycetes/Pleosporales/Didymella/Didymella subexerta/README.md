@@ -1,5 +1,4 @@
-Didymella subexerta (Cooke & Ellis) Sacc. SPECIES
-=======
+# Didymella subexerta (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

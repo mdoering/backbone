@@ -1,5 +1,4 @@
-Cortinarius dolabratus Fr. SPECIES
-=======
+# Cortinarius dolabratus Fr. SPECIES
 
 #### Status
 ACCEPTED

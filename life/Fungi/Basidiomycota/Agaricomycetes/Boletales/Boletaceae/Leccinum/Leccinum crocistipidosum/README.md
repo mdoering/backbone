@@ -1,17 +1,16 @@
-Leccinum crocistipidosa H. Engel & Dermek SPECIES
-=======
+# Leccinum crocistipidosum H. Engel & Dermek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Z. Mykol. 47(2): 211 (1981)
 
 #### Original name
-Leccinum crocistipidosa H. Engel & Dermek
+Leccinum crocistipidosum H. Engel & Dermek
 
 ### Remarks
 null

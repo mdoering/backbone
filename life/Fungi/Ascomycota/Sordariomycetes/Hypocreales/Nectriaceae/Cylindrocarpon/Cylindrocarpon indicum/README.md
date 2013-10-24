@@ -1,5 +1,4 @@
-Cylindrocarpon indicum Chowdhry SPECIES
-=======
+# Cylindrocarpon indicum Chowdhry SPECIES
 
 #### Status
 ACCEPTED

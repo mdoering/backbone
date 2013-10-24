@@ -1,5 +1,4 @@
-Marasmius filaris Kalchbr. & MacOwan SPECIES
-=======
+# Marasmius filaris Kalchbr. & MacOwan SPECIES
 
 #### Status
 ACCEPTED

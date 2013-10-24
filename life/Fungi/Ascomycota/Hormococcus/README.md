@@ -1,17 +1,16 @@
-Hormyllium Clem. GENUS
-=======
+# Hormococcus Preuss, 1852 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+IRMNG Homonym List
 
 #### Published in
-Gen. fung. (Minneapolis) 135, 176 (1909)
+Friesia 5: 379 (1956)
 
 #### Original name
-Hormyllium Clem.
+Hormococcus Preuss, 1852
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Nummularia wrightii (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Nummularia wrightii (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

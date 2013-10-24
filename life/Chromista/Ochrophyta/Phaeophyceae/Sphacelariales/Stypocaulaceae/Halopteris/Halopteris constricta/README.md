@@ -1,5 +1,4 @@
-Halopteris constricta Totton SPECIES
-=======
+# Halopteris constricta Totton SPECIES
 
 #### Status
 ACCEPTED

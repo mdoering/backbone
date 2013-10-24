@@ -1,5 +1,4 @@
-Pseudopyrenula trypethelizans (Nyl.) Zahlbr. SPECIES
-=======
+# Pseudopyrenula trypethelizans (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

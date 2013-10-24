@@ -1,5 +1,4 @@
-Phyllachora scutiformis Speg., 1922 SPECIES
-=======
+# Phyllachora scutiformis Speg., 1922 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Psathyrella limophila (Peck) Guzmán SPECIES
-=======
+# Psathyrella limophila (Peck) Guzmán SPECIES
 
 #### Status
 ACCEPTED

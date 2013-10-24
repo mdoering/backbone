@@ -1,5 +1,4 @@
-Thyridaria subrufa (Ellis & Everh.) Wehm. SPECIES
-=======
+# Thyridaria subrufa (Ellis & Everh.) Wehm. SPECIES
 
 #### Status
 ACCEPTED

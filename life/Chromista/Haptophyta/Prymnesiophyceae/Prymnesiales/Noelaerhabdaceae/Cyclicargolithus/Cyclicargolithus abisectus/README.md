@@ -1,5 +1,4 @@
-Cyclicargolithus abisectus (C. Müller) S.W. Wise SPECIES
-=======
+# Cyclicargolithus abisectus (C. Müller) S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

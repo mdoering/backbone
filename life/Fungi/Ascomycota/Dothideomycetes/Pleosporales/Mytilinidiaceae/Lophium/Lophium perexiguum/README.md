@@ -1,5 +1,4 @@
-Lophium perexiguum Speg. SPECIES
-=======
+# Lophium perexiguum Speg. SPECIES
 
 #### Status
 ACCEPTED

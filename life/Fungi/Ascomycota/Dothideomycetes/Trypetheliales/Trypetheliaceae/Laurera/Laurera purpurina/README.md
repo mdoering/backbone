@@ -1,8 +1,7 @@
-Bathelium purpurinum (Nyl.) Müll. Arg. SPECIES
-=======
+# Laurera purpurina (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

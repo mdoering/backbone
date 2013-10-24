@@ -1,5 +1,4 @@
-Caliciopsis orientalis A. Funk, 1963 SPECIES
-=======
+# Caliciopsis orientalis A. Funk, 1963 SPECIES
 
 #### Status
 ACCEPTED

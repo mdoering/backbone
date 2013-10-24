@@ -1,5 +1,4 @@
-Lecidea tremelloidea Fée SPECIES
-=======
+# Lecidea tremelloidea Fée SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Genea variabilis B.C. Zhang SPECIES
-=======
+# Genea variabilis B.C. Zhang SPECIES
 
 #### Status
 ACCEPTED

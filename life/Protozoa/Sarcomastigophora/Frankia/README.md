@@ -1,5 +1,4 @@
-Frankia McCulloch, 1977 GENUS
-=======
+# Frankia McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

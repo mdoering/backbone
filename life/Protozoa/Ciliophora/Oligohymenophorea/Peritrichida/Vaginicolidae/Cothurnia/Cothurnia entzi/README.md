@@ -1,5 +1,4 @@
-Cothurnia entzi Kahl, 1933 SPECIES
-=======
+# Cothurnia entzi Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

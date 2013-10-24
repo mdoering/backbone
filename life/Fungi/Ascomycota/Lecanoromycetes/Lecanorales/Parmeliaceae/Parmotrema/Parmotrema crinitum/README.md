@@ -1,17 +1,16 @@
-Parmelia proboscidea f. proboscidea FORM
-=======
+# Parmotrema crinitum (Ach.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Mackey, Fl. Hibern. 2: 143 (1836)
+Bull. mens. Soc. linn. Lyon 21: 175 (1952)
 
 #### Original name
-Parmelia proboscidea f. proboscidea
+Parmelia crinita Ach.
 
 ### Remarks
 null

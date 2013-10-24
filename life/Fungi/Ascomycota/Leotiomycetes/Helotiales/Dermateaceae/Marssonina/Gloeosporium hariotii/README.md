@@ -1,8 +1,7 @@
-Gloeosporium harioti Sacc. SPECIES
-=======
+# Gloeosporium hariotii Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Gloeosporium harioti Sacc.
+Gloeosporium hariotii Sacc.
 
 ### Remarks
 null

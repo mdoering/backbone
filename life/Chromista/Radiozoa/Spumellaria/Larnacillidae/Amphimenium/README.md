@@ -1,5 +1,4 @@
-Amphimenium GENUS
-=======
+# Amphimenium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Learamoeba Sawyer, Nerad, Cahoon & Nearhoof, 1998 GENUS
-=======
+# Learamoeba Sawyer, Nerad, Cahoon & Nearhoof, 1998 GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Lyngbya kuetzingiana Kirchner, 1878 SPECIES
-=======
+# Phormidium kuetzingianum (Kirchner) Anagnostidis & Komárek, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

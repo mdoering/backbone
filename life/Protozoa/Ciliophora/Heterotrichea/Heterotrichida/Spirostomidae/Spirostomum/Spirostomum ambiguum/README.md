@@ -1,11 +1,10 @@
-Spirostomum ambiguum subsp. ambiguum SUBSPECIES
-=======
+# Spirostomum ambiguum (Müller, 1786) Ehrenberg, 1834 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Belonidium griseofulvum (Feltgen) Höhn. SPECIES
-=======
+# Belonidium griseofulvum (Feltgen) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiostoma lappae Nitschke SPECIES
-=======
+# Lophiostoma lappae Nitschke SPECIES
 
 #### Status
 ACCEPTED

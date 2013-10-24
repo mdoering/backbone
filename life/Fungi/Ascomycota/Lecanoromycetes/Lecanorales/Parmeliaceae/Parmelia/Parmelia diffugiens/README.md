@@ -1,5 +1,4 @@
-Parmelia diffugiens Zahlbr. SPECIES
-=======
+# Parmelia diffugiens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

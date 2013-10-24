@@ -1,5 +1,4 @@
-Blasticomyces I.I. Tav. GENUS
-=======
+# Blasticomyces I.I. Tav. GENUS
 
 #### Status
 ACCEPTED

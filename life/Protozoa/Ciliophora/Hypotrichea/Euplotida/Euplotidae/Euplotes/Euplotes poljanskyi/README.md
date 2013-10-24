@@ -1,5 +1,4 @@
-Euplotes poljanskyi Agamaliev, 1966 SPECIES
-=======
+# Euplotes poljanskyi Agamaliev, 1966 SPECIES
 
 #### Status
 ACCEPTED

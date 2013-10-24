@@ -1,5 +1,4 @@
-Pseudoidium indica Y.S. Paul & L.N. Bhardwaj SPECIES
-=======
+# Pseudoidium indica Y.S. Paul & L.N. Bhardwaj SPECIES
 
 #### Status
 ACCEPTED

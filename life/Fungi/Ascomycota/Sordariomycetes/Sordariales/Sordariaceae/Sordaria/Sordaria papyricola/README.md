@@ -1,17 +1,16 @@
-Hypocopra papyricola subsp. papyricola SUBSPECIES
-=======
+# Sordaria papyricola G. Winter, 1873 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 1: 245 (1882)
+null
 
 #### Original name
-Hypocopra papyricola subsp. papyricola
+Sordaria papyricola G. Winter, 1873
 
 ### Remarks
 null

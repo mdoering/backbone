@@ -1,5 +1,4 @@
-Xylaria acerata Bat. & A.F. Vital SPECIES
-=======
+# Xylaria acerata Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

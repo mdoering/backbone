@@ -1,5 +1,4 @@
-Excipulina pallida (Peck) Dearn. & House SPECIES
-=======
+# Excipulina pallida (Peck) Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

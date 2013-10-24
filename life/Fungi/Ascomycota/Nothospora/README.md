@@ -1,5 +1,4 @@
-Nothospora Peyronel GENUS
-=======
+# Nothospora Peyronel GENUS
 
 #### Status
 ACCEPTED

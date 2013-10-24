@@ -1,5 +1,4 @@
-Sphaeria caenosa Fr. SPECIES
-=======
+# Sphaeria caenosa Fr. SPECIES
 
 #### Status
 ACCEPTED

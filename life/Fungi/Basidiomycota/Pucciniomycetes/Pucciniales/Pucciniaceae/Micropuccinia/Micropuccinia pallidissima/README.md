@@ -1,5 +1,4 @@
-Micropuccinia pallidissima (Speg.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia pallidissima (Speg.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

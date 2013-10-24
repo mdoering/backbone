@@ -1,5 +1,4 @@
-Enantiodentalina muraii Uchio, 1953 SPECIES
-=======
+# Enantiodentalina muraii Uchio, 1953 SPECIES
 
 #### Status
 ACCEPTED

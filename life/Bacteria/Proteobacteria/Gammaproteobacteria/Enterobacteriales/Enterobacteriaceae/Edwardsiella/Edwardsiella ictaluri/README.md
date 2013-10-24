@@ -1,5 +1,4 @@
-Edwardsiella ictaluri Hawke et al., 1981 SPECIES
-=======
+# Edwardsiella ictaluri Hawke et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

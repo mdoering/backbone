@@ -1,5 +1,4 @@
-Kabatiella tricolor (Lind) Arx SPECIES
-=======
+# Kabatiella tricolor (Lind) Arx SPECIES
 
 #### Status
 ACCEPTED

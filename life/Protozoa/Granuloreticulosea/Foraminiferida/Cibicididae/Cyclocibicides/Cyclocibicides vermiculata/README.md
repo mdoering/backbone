@@ -1,5 +1,4 @@
-Cyclocibicides vermiculata (d'Orbigny, 1826) SPECIES
-=======
+# Cyclocibicides vermiculata (d'Orbigny, 1826) SPECIES
 
 #### Status
 ACCEPTED

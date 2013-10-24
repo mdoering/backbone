@@ -1,5 +1,4 @@
-Prospodium paraguayense (Speg.) Speg. SPECIES
-=======
+# Prospodium paraguayense (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

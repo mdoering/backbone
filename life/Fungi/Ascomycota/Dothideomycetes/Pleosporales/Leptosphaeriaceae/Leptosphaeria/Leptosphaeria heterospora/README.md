@@ -1,17 +1,16 @@
-Sphaeria heterospora De Not., 1863 SPECIES
-=======
+# Leptosphaeria heterospora (De Not.) Niessl, 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sfer. Ital. 65 (1863)
+null
 
 #### Original name
-Sphaeria heterospora De Not., 1863
+null
 
 ### Remarks
 null

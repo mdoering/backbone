@@ -1,17 +1,16 @@
-Ascochyta socialis var. socialis VARIETY
-=======
+# Ascochyta socialis Sacc. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Michelia 1(no. 1): 108 (1877)
 
 #### Original name
-null
+Ascochyta socialis Sacc.
 
 ### Remarks
 null

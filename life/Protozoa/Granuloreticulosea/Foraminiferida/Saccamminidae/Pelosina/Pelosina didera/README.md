@@ -1,5 +1,4 @@
-Pelosina didera (Loeblich & Tappan, 1953) SPECIES
-=======
+# Pelosina didera (Loeblich & Tappan, 1953) SPECIES
 
 #### Status
 ACCEPTED

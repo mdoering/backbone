@@ -1,5 +1,4 @@
-Entzia Daday, 1883 GENUS
-=======
+# Entzia Daday, 1883 GENUS
 
 #### Status
 ACCEPTED

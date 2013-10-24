@@ -1,5 +1,4 @@
-Physcia controversa A. Massal. SPECIES
-=======
+# Physcia controversa A. Massal. SPECIES
 
 #### Status
 ACCEPTED

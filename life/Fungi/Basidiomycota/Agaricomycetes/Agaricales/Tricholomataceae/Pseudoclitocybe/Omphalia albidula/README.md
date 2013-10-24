@@ -1,5 +1,4 @@
-Omphalia albidula Peck SPECIES
-=======
+# Omphalia albidula Peck SPECIES
 
 #### Status
 ACCEPTED

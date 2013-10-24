@@ -1,5 +1,4 @@
-Eupropolella britannica Greenh. & Morgan-Jones, 1972 SPECIES
-=======
+# Eupropolella britannica Greenh. & Morgan-Jones, 1972 SPECIES
 
 #### Status
 ACCEPTED

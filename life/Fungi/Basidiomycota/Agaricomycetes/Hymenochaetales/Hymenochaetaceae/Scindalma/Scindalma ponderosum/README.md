@@ -1,5 +1,4 @@
-Scindalma ponderosum (Kalchbr.) Kuntze SPECIES
-=======
+# Scindalma ponderosum (Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teichospora megalocarpa (Rehm) Sacc. SPECIES
-=======
+# Teichospora megalocarpa (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

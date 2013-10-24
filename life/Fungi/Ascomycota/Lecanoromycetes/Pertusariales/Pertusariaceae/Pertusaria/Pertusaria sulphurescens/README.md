@@ -1,5 +1,4 @@
-Pertusaria sulphurescens Müll. Arg. SPECIES
-=======
+# Pertusaria sulphurescens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

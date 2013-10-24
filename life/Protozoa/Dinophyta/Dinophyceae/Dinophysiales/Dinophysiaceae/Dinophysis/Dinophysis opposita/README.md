@@ -1,5 +1,4 @@
-Dinophysis opposita Wood, 1963 SPECIES
-=======
+# Dinophysis opposita Wood, 1963 SPECIES
 
 #### Status
 ACCEPTED

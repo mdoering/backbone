@@ -1,5 +1,4 @@
-Setulipes moreaui Antonín & Buyck SPECIES
-=======
+# Setulipes moreaui Antonín & Buyck SPECIES
 
 #### Status
 ACCEPTED

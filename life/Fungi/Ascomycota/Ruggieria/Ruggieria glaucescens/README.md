@@ -1,5 +1,4 @@
-Ruggieria glaucescens (Trab.) Cif. & Montemart., 1958 SPECIES
-=======
+# Ruggieria glaucescens (Trab.) Cif. & Montemart., 1958 SPECIES
 
 #### Status
 ACCEPTED

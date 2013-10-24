@@ -1,5 +1,4 @@
-Frondicularia cuspidata Cushman, 1931 SPECIES
-=======
+# Frondicularia cuspidata Cushman, 1931 SPECIES
 
 #### Status
 ACCEPTED

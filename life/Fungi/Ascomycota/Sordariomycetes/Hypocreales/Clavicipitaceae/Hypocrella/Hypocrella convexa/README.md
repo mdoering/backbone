@@ -1,5 +1,4 @@
-Hypocrella convexa Racib. SPECIES
-=======
+# Hypocrella convexa Racib. SPECIES
 
 #### Status
 ACCEPTED

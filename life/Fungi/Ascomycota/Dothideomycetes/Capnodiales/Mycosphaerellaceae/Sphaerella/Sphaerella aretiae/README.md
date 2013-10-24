@@ -1,5 +1,4 @@
-Sphaerella aretiae (Höhn.) Sacc. & Trotter SPECIES
-=======
+# Sphaerella aretiae (Höhn.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

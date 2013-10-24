@@ -1,5 +1,4 @@
-Acytostelium irregularosporum H. Hagiw., 1971 SPECIES
-=======
+# Acytostelium irregularosporum H. Hagiw., 1971 SPECIES
 
 #### Status
 ACCEPTED

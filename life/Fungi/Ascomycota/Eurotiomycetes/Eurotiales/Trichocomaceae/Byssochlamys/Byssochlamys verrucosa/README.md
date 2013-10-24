@@ -1,5 +1,4 @@
-Byssochlamys verrucosa Samson & Tansey, 1975 SPECIES
-=======
+# Byssochlamys verrucosa Samson & Tansey, 1975 SPECIES
 
 #### Status
 ACCEPTED

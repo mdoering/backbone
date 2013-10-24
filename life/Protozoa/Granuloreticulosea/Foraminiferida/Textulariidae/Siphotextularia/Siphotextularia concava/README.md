@@ -1,11 +1,10 @@
-Siphotextularia concava subsp. concava SUBSPECIES
-=======
+# Siphotextularia concava (Karrer, 1868) SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Tubercularia purpurata (Corda) Sacc. SPECIES
-=======
+# Tubercularia purpurata (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

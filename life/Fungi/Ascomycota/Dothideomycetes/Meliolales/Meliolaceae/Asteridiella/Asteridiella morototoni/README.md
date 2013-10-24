@@ -1,5 +1,4 @@
-Asteridiella morototoni (Speg.) Hansf. SPECIES
-=======
+# Asteridiella morototoni (Speg.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

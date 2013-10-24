@@ -1,5 +1,4 @@
-Leptosphaeria acicola Fuckel SPECIES
-=======
+# Leptosphaeria acicola Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytostagonospora traversiana Dias & Sousa da Câmara SPECIES
-=======
+# Cytostagonospora traversiana Dias & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

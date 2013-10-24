@@ -1,5 +1,4 @@
-Chaenotheca gracillima (Vain.) Tibell SPECIES
-=======
+# Chaenotheca gracillima (Vain.) Tibell SPECIES
 
 #### Status
 ACCEPTED

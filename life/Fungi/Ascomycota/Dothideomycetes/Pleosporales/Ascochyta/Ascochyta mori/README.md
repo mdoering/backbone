@@ -1,5 +1,4 @@
-Ascochyta mori Maire SPECIES
-=======
+# Ascochyta mori Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lionotus impatiens Penard, 1922 SPECIES
-=======
+# Lionotus impatiens Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

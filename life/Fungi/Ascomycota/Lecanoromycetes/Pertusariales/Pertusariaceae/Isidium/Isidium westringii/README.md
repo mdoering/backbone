@@ -1,5 +1,4 @@
-Isidium westringii (Lilj.) Ach. SPECIES
-=======
+# Isidium westringii (Lilj.) Ach. SPECIES
 
 #### Status
 ACCEPTED

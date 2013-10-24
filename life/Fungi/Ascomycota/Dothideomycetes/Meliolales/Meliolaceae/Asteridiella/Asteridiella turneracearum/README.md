@@ -1,5 +1,4 @@
-Asteridiella turneracearum (Cif.) Hansf. SPECIES
-=======
+# Asteridiella turneracearum (Cif.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

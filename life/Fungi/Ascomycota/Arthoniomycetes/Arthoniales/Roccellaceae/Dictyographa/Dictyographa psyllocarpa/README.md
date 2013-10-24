@@ -1,5 +1,4 @@
-Dictyographa psyllocarpa (Leight.) Redinger SPECIES
-=======
+# Dictyographa psyllocarpa (Leight.) Redinger SPECIES
 
 #### Status
 ACCEPTED

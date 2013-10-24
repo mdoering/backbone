@@ -1,5 +1,4 @@
-Scytonema coactile var. minor Wille VARIETY
-=======
+# Scytonema coactile Montagne SPECIES
 
 #### Status
 ACCEPTED

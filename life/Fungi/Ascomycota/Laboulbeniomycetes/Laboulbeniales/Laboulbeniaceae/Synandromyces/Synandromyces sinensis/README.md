@@ -1,5 +1,4 @@
-Synandromyces sinensis Y.H. Shen, 1992 SPECIES
-=======
+# Synandromyces sinensis Y.H. Shen, 1992 SPECIES
 
 #### Status
 ACCEPTED

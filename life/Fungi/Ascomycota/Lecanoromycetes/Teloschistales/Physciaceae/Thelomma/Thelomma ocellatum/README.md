@@ -1,14 +1,13 @@
-Trachylia ocellata (Körb.) Flot. SPECIES
-=======
+# Thelomma ocellatum (Körb.) Tibell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Notiser 129(3): 240 (1976)
 
 #### Original name
 Acolium ocellatum Flot.

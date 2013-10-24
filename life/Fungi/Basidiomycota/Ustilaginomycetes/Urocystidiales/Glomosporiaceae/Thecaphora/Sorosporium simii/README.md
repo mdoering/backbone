@@ -1,5 +1,4 @@
-Sorosporium simii Pole-Evans SPECIES
-=======
+# Sorosporium simii Pole-Evans SPECIES
 
 #### Status
 ACCEPTED

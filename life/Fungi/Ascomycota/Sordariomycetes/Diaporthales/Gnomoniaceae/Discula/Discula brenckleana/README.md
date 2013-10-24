@@ -1,5 +1,4 @@
-Discula brenckleana (Sacc., Syd. & P. Syd.) Petr., 1924 SPECIES
-=======
+# Discula brenckleana (Sacc., Syd. & P. Syd.) Petr., 1924 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudomonas taetrolens Haynes, 1957 (Approved Lists, 1980) SPECIES
-=======
+# Pseudomonas taetrolens Haynes, 1957 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

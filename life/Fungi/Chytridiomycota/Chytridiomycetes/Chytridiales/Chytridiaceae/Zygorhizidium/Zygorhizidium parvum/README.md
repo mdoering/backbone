@@ -1,5 +1,4 @@
-Zygorhizidium parvum Canter SPECIES
-=======
+# Zygorhizidium parvum Canter SPECIES
 
 #### Status
 ACCEPTED

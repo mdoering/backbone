@@ -1,5 +1,4 @@
-Marasmius rubefaciens Corner SPECIES
-=======
+# Marasmius rubefaciens Corner SPECIES
 
 #### Status
 ACCEPTED

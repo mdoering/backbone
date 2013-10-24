@@ -1,5 +1,4 @@
-Trabutia amboinensis Syd. SPECIES
-=======
+# Trabutia amboinensis Syd. SPECIES
 
 #### Status
 ACCEPTED

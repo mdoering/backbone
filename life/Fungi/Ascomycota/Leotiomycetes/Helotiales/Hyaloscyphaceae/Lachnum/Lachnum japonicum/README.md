@@ -1,5 +1,4 @@
-Lachnum japonicum Syd. SPECIES
-=======
+# Lachnum japonicum Syd. SPECIES
 
 #### Status
 ACCEPTED

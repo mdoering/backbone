@@ -1,5 +1,4 @@
-Mellitiosporiopsis violacea var. violacea VARIETY
-=======
+# Mellitiosporiopsis violacea Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hedwigia 39: 91 (1900)
 
 #### Original name
-Mellitiosporiopsis violacea var. violacea
+Mellitiosporiopsis violacea Rehm
 
 ### Remarks
 null

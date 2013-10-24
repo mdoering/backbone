@@ -1,8 +1,7 @@
-Geaster multifidum DC. SPECIES
-=======
+# Geastrum multifidum Pers. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster multifidum DC.
+Geastrum multifidum Pers.
 
 ### Remarks
 null

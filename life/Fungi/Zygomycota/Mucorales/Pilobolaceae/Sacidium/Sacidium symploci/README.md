@@ -1,5 +1,4 @@
-Sacidium symploci Cooke SPECIES
-=======
+# Sacidium symploci Cooke SPECIES
 
 #### Status
 ACCEPTED

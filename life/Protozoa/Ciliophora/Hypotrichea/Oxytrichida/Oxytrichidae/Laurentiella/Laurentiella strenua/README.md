@@ -1,8 +1,7 @@
-Laurentia acuminata Fedriani, Martin & Perez-Silva, 1976 SPECIES
-=======
+# Laurentiella strenua (Dingfelder, 1962) Berger & Foissner, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

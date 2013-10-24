@@ -1,17 +1,16 @@
-Cornicularia heteromalla Hook. ex Sm. SPECIES
-=======
+# Pilonema heteromalla (Hook. ex Sm.) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Engl. Fl. 5: 233 (1844)
+null
 
 #### Original name
-Cornicularia heteromalla Hook. ex Sm.
+Lichen heteromallus Sm.
 
 ### Remarks
 null

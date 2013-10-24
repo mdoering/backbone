@@ -1,14 +1,13 @@
-Omphalina cremea (G. Stev.) O.K. Mill., 1971 SPECIES
-=======
+# Pleurocollybia cremea (G. Stev.) E. Horak, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Z. Jl Bot. 9(3): 415 (1971)
 
 #### Original name
 Lentinellus cremeus G. Stev., 1964

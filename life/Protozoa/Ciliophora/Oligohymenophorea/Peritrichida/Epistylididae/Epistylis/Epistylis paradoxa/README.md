@@ -1,5 +1,4 @@
-Epistylis paradoxa Xu & Song, 2003 SPECIES
-=======
+# Epistylis paradoxa Xu & Song, 2003 SPECIES
 
 #### Status
 ACCEPTED

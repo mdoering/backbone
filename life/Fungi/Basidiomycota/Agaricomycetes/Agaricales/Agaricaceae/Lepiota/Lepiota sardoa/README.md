@@ -1,5 +1,4 @@
-Lepiota sardoa (Padovan & Contu) Vila & Castellón SPECIES
-=======
+# Lepiota sardoa (Padovan & Contu) Vila & Castellón SPECIES
 
 #### Status
 ACCEPTED

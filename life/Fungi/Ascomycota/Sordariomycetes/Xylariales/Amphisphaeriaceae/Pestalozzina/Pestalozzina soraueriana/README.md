@@ -1,5 +1,4 @@
-Pestalozzina soraueriana Sacc. SPECIES
-=======
+# Pestalozzina soraueriana Sacc. SPECIES
 
 #### Status
 ACCEPTED

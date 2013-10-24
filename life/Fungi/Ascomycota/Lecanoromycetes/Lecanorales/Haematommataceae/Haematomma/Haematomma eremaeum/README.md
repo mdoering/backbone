@@ -1,17 +1,16 @@
-Haematomma saxicola R. W. Rogers SPECIES
-=======
+# Haematomma eremaeum R. W. Rogers SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Rogers & Bartlett, Lichenologist 18(3): 254 (1986)
+Lichenologist 14(2): 124 (1982)
 
 #### Original name
-Haematomma saxicola R. W. Rogers
+Haematomma eremaeum R. W. Rogers
 
 ### Remarks
 null

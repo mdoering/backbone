@@ -1,5 +1,4 @@
-Ophiocordyceps odonatae (Kobayasi) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps odonatae (Kobayasi) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED

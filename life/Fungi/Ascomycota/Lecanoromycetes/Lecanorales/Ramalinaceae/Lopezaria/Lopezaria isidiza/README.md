@@ -1,5 +1,4 @@
-Lopezaria isidiza (Makhija & Nagarkar) Aptroot & Sipman SPECIES
-=======
+# Lopezaria isidiza (Makhija & Nagarkar) Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

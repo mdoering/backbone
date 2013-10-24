@@ -1,5 +1,4 @@
-Streptomyces althioticus Yamaguchi et al., 1957 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces althioticus Yamaguchi et al., 1957 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

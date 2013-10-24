@@ -1,8 +1,7 @@
-Cytospora ziziphisae Subhedar & V.G. Rao SPECIES
-=======
+# Cytospora ziziphi Subhedar & V.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cytospora ziziphisae Subhedar & V.G. Rao
+Cytospora ziziphi Subhedar & V.G. Rao
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hydrocybe multicolor M.M. Moser SPECIES
-=======
+# Hydrocybe multicolor M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

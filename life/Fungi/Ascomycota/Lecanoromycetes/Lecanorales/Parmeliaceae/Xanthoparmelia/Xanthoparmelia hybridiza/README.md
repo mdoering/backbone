@@ -1,5 +1,4 @@
-Xanthoparmelia hybridiza Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia hybridiza Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

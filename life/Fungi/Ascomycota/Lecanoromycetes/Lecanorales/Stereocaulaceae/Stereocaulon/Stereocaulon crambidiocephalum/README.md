@@ -1,5 +1,4 @@
-Stereocaulon crambidiocephalum I.M. Lamb SPECIES
-=======
+# Stereocaulon crambidiocephalum I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Papulaspora halima Anastasiou, 1963 SPECIES
-=======
+# Papulaspora halima Anastasiou, 1963 SPECIES
 
 #### Status
 ACCEPTED

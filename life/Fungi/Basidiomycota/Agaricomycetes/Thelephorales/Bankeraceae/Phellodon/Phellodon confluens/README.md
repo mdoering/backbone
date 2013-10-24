@@ -1,17 +1,16 @@
-Sarcodon amicus (Quél.) Quél., 1886 SPECIES
-=======
+# Phellodon confluens (Pers.) Pouzar, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Enchir. fung. (Paris) 189 (1886)
+Ceská Mykol. 10: 74 (1956)
 
 #### Original name
-Hydnum amicum Quél., 1880
+Hydnum confluens Pers., 1825
 
 ### Remarks
 null

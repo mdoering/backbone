@@ -1,5 +1,4 @@
-Dicellaesporites levis Sheffy & Dilcher SPECIES
-=======
+# Dicellaesporites levis Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

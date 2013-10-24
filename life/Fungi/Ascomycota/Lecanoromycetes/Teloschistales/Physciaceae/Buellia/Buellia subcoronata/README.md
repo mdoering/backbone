@@ -1,14 +1,13 @@
-Catolechia subcoronata Müll. Arg. SPECIES
-=======
+# Buellia subcoronata (Müll. Arg.) Malme SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Hedwigia 31: 195 (1892)
+Ark. Bot. 21A: 23 (1927)
 
 #### Original name
 Catolechia subcoronata Müll. Arg.

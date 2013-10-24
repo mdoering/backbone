@@ -1,5 +1,4 @@
-Gibberidea ribis Tracy & Earle SPECIES
-=======
+# Gibberidea ribis Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

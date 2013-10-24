@@ -1,5 +1,4 @@
-Radiatispora yunnanensis Matsush., 1995 SPECIES
-=======
+# Radiatispora yunnanensis Matsush., 1995 SPECIES
 
 #### Status
 ACCEPTED

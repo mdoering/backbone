@@ -1,5 +1,4 @@
-Epicoccum aponogetonicum Pavgi & U.P. Singh, 1966 SPECIES
-=======
+# Epicoccum aponogetonicum Pavgi & U.P. Singh, 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pleurophragmium scopiforme (Berk.) S. Hughes, 1958 SPECIES
-=======
+# Spiropes scopiformis (Berk.) M.B. Ellis, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 36: 798 (1958)
+Mycol. Pap. 114: 30 (1968)
 
 #### Original name
 Cladosporium scopiforme Berk., 1856

@@ -1,5 +1,4 @@
-Neottiospora theae Sawada SPECIES
-=======
+# Neottiospora theae Sawada SPECIES
 
 #### Status
 ACCEPTED

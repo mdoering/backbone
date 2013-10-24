@@ -1,5 +1,4 @@
-Dothiorella pittospori Petr. & Syd. SPECIES
-=======
+# Dothiorella pittospori Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

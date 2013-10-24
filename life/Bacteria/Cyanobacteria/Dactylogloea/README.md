@@ -1,5 +1,4 @@
-Dactylogloea Borzi, 1887 ex Borzi, 1914 GENUS
-=======
+# Dactylogloea Borzi, 1887 ex Borzi, 1914 GENUS
 
 #### Status
 ACCEPTED

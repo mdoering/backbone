@@ -1,5 +1,4 @@
-Mollisia sulphurea Velen. SPECIES
-=======
+# Mollisia sulphurea Velen. SPECIES
 
 #### Status
 ACCEPTED

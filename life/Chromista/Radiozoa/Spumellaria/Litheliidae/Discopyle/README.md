@@ -1,5 +1,4 @@
-Discopyle Haeckel, 1887 GENUS
-=======
+# Discopyle Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium cyanophylli Henn. SPECIES
-=======
+# Gloeosporium cyanophylli Henn. SPECIES
 
 #### Status
 ACCEPTED

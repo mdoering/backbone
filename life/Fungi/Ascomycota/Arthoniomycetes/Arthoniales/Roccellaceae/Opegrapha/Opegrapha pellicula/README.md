@@ -1,5 +1,4 @@
-Opegrapha pellicula Dufour SPECIES
-=======
+# Opegrapha pellicula Dufour SPECIES
 
 #### Status
 ACCEPTED

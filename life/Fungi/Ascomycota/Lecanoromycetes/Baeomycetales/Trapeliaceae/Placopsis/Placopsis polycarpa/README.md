@@ -1,5 +1,4 @@
-Placopsis polycarpa D. J. Galloway SPECIES
-=======
+# Placopsis polycarpa D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

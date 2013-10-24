@@ -1,5 +1,4 @@
-Sphaeria excentrica Cooke & Peck SPECIES
-=======
+# Sphaeria excentrica Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

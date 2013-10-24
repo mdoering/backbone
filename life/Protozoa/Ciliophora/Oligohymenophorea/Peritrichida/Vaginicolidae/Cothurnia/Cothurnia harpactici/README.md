@@ -1,5 +1,4 @@
-Cothurnia harpactici Kahl, 1933 SPECIES
-=======
+# Cothurnia harpactici Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

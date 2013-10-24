@@ -1,5 +1,4 @@
-Albomyces GENUS
-=======
+# Albomyces GENUS
 
 #### Status
 ACCEPTED

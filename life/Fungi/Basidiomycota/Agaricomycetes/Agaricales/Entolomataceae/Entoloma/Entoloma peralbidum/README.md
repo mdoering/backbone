@@ -1,5 +1,4 @@
-Entoloma peralbidum E. Horak, 1973 SPECIES
-=======
+# Entoloma peralbidum E. Horak, 1973 SPECIES
 
 #### Status
 ACCEPTED

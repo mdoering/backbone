@@ -1,5 +1,4 @@
-Dendrographa Darb. GENUS
-=======
+# Dendrographa Darb. GENUS
 
 #### Status
 ACCEPTED

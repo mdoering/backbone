@@ -1,17 +1,16 @@
-Listerellidae FAMILY
-=======
+# Listerellaceae Locq. FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syn. gen. fung. (Paris) [1] (1972)
 
 #### Original name
-null
+Listerellaceae Locq.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cytospora elegans Ces. SPECIES
-=======
+# Cytospora elegans Ces. SPECIES
 
 #### Status
 ACCEPTED

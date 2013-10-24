@@ -1,5 +1,4 @@
-Vaginicola elegans Swarczewsky, 1930 SPECIES
-=======
+# Vaginicola elegans Swarczewsky, 1930 SPECIES
 
 #### Status
 ACCEPTED

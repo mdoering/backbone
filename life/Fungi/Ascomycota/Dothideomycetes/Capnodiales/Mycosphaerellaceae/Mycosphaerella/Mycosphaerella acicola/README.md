@@ -1,5 +1,4 @@
-Mycosphaerella acicola (Cooke & Harkn.) Lindau SPECIES
-=======
+# Mycosphaerella acicola (Cooke & Harkn.) Lindau SPECIES
 
 #### Status
 ACCEPTED

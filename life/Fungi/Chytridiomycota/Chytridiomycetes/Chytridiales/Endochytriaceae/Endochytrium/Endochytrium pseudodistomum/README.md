@@ -1,5 +1,4 @@
-Endochytrium pseudodistomum (Domján) Karling, 1941 SPECIES
-=======
+# Endochytrium pseudodistomum (Domján) Karling, 1941 SPECIES
 
 #### Status
 ACCEPTED

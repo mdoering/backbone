@@ -1,5 +1,4 @@
-Eschaneustyla lugeri Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Eschaneustyla lugeri Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

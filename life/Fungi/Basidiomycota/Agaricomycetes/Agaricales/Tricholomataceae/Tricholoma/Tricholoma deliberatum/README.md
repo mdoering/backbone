@@ -1,5 +1,4 @@
-Tricholoma deliberatum (Britzelm.) Sacc. SPECIES
-=======
+# Tricholoma deliberatum (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

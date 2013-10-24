@@ -1,5 +1,4 @@
-Hymenoscyphus cereus (Rick) Dennis SPECIES
-=======
+# Hymenoscyphus cereus (Rick) Dennis SPECIES
 
 #### Status
 ACCEPTED

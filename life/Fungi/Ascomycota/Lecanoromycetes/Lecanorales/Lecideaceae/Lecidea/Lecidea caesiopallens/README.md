@@ -1,5 +1,4 @@
-Lecidea caesiopallens Nyl. SPECIES
-=======
+# Lecidea caesiopallens Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vahlkampfia limax (Duj.) SPECIES
-=======
+# Vahlkampfia limax (Duj.) SPECIES
 
 #### Status
 ACCEPTED

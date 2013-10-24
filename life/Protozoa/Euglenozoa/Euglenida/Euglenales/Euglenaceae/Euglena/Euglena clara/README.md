@@ -1,5 +1,4 @@
-Euglena clara Skuja SPECIES
-=======
+# Euglena clara Skuja SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothecium rameale Corda SPECIES
-=======
+# Coniothecium rameale Corda SPECIES
 
 #### Status
 ACCEPTED

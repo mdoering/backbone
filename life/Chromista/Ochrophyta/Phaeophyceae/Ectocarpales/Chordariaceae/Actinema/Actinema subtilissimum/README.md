@@ -1,5 +1,4 @@
-Actinema subtilissimum Reinsch SPECIES
-=======
+# Actinema subtilissimum Reinsch SPECIES
 
 #### Status
 ACCEPTED

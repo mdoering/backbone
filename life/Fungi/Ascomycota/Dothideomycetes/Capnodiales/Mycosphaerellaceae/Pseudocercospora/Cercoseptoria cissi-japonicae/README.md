@@ -1,5 +1,4 @@
-Cercoseptoria cissi-japonicae (Hori) Arx SPECIES
-=======
+# Cercoseptoria cissi-japonicae (Hori) Arx SPECIES
 
 #### Status
 ACCEPTED

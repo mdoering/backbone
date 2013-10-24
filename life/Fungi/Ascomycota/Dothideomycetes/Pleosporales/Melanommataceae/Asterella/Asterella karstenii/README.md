@@ -1,5 +1,4 @@
-Asterella karstenii (Starbäck) Sacc. SPECIES
-=======
+# Asterella karstenii (Starbäck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

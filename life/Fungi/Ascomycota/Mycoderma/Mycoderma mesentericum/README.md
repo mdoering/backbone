@@ -1,5 +1,4 @@
-Mycoderma mesentericum Pers. SPECIES
-=======
+# Mycoderma mesentericum Pers. SPECIES
 
 #### Status
 ACCEPTED

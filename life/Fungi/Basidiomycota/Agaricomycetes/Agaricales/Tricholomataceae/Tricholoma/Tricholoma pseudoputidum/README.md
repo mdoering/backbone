@@ -1,5 +1,4 @@
-Tricholoma pseudoputidum Velen. SPECIES
-=======
+# Tricholoma pseudoputidum Velen. SPECIES
 
 #### Status
 ACCEPTED

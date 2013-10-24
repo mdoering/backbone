@@ -1,5 +1,4 @@
-Laboulbenia formosa Speg. SPECIES
-=======
+# Laboulbenia formosa Speg. SPECIES
 
 #### Status
 ACCEPTED

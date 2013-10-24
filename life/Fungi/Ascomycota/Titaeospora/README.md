@@ -1,5 +1,4 @@
-Titaeospora Bubák GENUS
-=======
+# Titaeospora Bubák GENUS
 
 #### Status
 ACCEPTED

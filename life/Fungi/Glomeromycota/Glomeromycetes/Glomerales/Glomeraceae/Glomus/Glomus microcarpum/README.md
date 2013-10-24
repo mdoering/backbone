@@ -1,17 +1,16 @@
-Glomus microcarpus Tul. & C. Tul. SPECIES
-=======
+# Glomus microcarpum Tul. & C. Tul., 1845 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+G. bot. ital. 1(2(7-8)): 63 (1845)
 
 #### Original name
-Glomus microcarpus Tul. & C. Tul.
+Glomus microcarpum Tul. & C. Tul., 1845
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Ceramothyrium paraensis (Henn.) Bat. & H. Maia SPECIES
-=======
+# Ceramothyrium paraense (Henn.) Bat. & H. Maia SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Publções Inst. Micol. Recife 23(1-3): 7 (1956)
 
 #### Original name
 Xylaria paraensis Henn.

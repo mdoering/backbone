@@ -1,5 +1,4 @@
-Meriderma GENUS
-=======
+# Meriderma GENUS
 
 #### Status
 ACCEPTED

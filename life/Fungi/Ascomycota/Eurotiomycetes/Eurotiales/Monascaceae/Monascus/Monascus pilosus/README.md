@@ -1,5 +1,4 @@
-Monascus pilosus K. Satô ex D. Hawksw. & Pitt, 1983 SPECIES
-=======
+# Monascus pilosus K. Satô ex D. Hawksw. & Pitt, 1983 SPECIES
 
 #### Status
 ACCEPTED

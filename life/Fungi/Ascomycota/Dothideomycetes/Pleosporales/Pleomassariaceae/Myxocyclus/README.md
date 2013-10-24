@@ -1,5 +1,4 @@
-Myxocyclus Riess GENUS
-=======
+# Myxocyclus Riess GENUS
 
 #### Status
 ACCEPTED

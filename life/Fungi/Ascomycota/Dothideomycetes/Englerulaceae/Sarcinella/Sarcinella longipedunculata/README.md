@@ -1,5 +1,4 @@
-Sarcinella longipedunculata Bat. & Nascim. SPECIES
-=======
+# Sarcinella longipedunculata Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED

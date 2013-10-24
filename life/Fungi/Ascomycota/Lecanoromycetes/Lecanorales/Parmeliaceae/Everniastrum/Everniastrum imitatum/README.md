@@ -1,5 +1,4 @@
-Everniastrum imitatum (Hale & M. Wirth) Hale SPECIES
-=======
+# Everniastrum imitatum (Hale & M. Wirth) Hale SPECIES
 
 #### Status
 ACCEPTED

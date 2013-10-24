@@ -1,5 +1,4 @@
-Asterina artabotrydis Hansf. SPECIES
-=======
+# Asterina artabotrydis Hansf. SPECIES
 
 #### Status
 ACCEPTED

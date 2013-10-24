@@ -1,5 +1,4 @@
-Euplotes poljanski Agamaliev, 1966 SPECIES
-=======
+# Euplotes poljanski Agamaliev, 1966 SPECIES
 
 #### Status
 ACCEPTED

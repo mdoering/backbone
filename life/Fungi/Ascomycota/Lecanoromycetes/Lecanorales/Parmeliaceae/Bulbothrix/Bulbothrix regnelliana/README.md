@@ -1,5 +1,4 @@
-Bulbothrix regnelliana Jungbluth, Marcelli & Elix SPECIES
-=======
+# Bulbothrix regnelliana Jungbluth, Marcelli & Elix SPECIES
 
 #### Status
 ACCEPTED

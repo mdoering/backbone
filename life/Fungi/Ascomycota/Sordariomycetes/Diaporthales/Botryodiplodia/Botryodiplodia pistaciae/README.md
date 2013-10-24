@@ -1,5 +1,4 @@
-Botryodiplodia pistaciae Dias & Sousa da Câmara SPECIES
-=======
+# Botryodiplodia pistaciae Dias & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius fucatophyllus (Lasch) Fr. SPECIES
-=======
+# Cortinarius fucatophyllus (Lasch) Fr. SPECIES
 
 #### Status
 ACCEPTED

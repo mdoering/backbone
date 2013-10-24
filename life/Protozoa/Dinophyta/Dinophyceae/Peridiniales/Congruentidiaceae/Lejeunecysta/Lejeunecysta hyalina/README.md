@@ -1,5 +1,4 @@
-Lejeunecysta hyalina (Gerlach, 1961) Lentin & Williams, 1993 SPECIES
-=======
+# Lejeunecysta hyalina (Gerlach, 1961) Lentin & Williams, 1993 SPECIES
 
 #### Status
 ACCEPTED

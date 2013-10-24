@@ -1,5 +1,4 @@
-Puccinia kangrikarpoensis J.Y. Zhuang SPECIES
-=======
+# Puccinia kangrikarpoensis J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

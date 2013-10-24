@@ -1,5 +1,4 @@
-Chlorogloeaopsis congoensis P. K. Maithy SPECIES
-=======
+# Chlorogloeaopsis congoensis P. K. Maithy SPECIES
 
 #### Status
 ACCEPTED

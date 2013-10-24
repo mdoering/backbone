@@ -1,5 +1,4 @@
-Gymnostellatospora dendroidea (Locq.-Lin.) Udagawa SPECIES
-=======
+# Gymnostellatospora dendroidea (Locq.-Lin.) Udagawa SPECIES
 
 #### Status
 ACCEPTED

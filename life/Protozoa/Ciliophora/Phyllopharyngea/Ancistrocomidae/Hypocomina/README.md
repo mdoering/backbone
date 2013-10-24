@@ -1,5 +1,4 @@
-Hypocomina Chatton & Lwoff, 1924 GENUS
-=======
+# Hypocomina Chatton & Lwoff, 1924 GENUS
 
 #### Status
 ACCEPTED

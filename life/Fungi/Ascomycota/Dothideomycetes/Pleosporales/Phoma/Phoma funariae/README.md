@@ -1,5 +1,4 @@
-Phoma funariae Racov. SPECIES
-=======
+# Phoma funariae Racov. SPECIES
 
 #### Status
 ACCEPTED

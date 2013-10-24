@@ -1,5 +1,4 @@
-Striglia berkeleyi (Sacc.) Kuntze SPECIES
-=======
+# Striglia berkeleyi (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

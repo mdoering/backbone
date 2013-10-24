@@ -1,5 +1,4 @@
-Naemospora croceola f. croceola FORM
-=======
+# Naemospora croceola Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Michelia 2(no. 6): 120 (1880)
 
 #### Original name
-Naemospora croceola f. croceola
+Naemospora croceola Sacc.
 
 ### Remarks
 null

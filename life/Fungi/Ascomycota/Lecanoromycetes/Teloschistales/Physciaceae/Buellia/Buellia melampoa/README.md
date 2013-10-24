@@ -1,5 +1,4 @@
-Buellia melampoa (Hue) Darb. SPECIES
-=======
+# Buellia melampoa (Hue) Darb. SPECIES
 
 #### Status
 ACCEPTED

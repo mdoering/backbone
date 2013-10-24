@@ -1,5 +1,4 @@
-Meliola sclerolobii Hansf. SPECIES
-=======
+# Meliola sclerolobii Hansf. SPECIES
 
 #### Status
 ACCEPTED

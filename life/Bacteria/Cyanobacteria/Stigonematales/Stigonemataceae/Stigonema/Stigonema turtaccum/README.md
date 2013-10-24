@@ -1,5 +1,4 @@
-Stigonema turtaccum SPECIES
-=======
+# Stigonema turtaccum SPECIES
 
 #### Status
 ACCEPTED

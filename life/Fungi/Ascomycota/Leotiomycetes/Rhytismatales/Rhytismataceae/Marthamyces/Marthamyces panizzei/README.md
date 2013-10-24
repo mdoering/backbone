@@ -1,14 +1,13 @@
-Stictis panizzei De Not., 1863 SPECIES
-=======
+# Marthamyces panizzei (De Not.) Minter, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Comm. Soc. crittog. Ital. 1: 362 (1861)
+Mycotaxon 87: 51 (2003)
 
 #### Original name
 Stictis panizzei De Not., 1863

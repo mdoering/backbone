@@ -1,14 +1,13 @@
-Bactrodesmium caulicola var. pellucidum Grove, 1886 VARIETY
-=======
+# Camposporium pellucidum (Grove) S. Hughes, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. , London 24: 200 (1886)
+Mycol. Pap. 36: 9 (1951)
 
 #### Original name
 Bactrodesmium caulicola var. pellucidum Grove, 1886

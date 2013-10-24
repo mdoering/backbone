@@ -1,5 +1,4 @@
-Tricholoma pampeanum Speg. SPECIES
-=======
+# Tricholoma pampeanum Speg. SPECIES
 
 #### Status
 ACCEPTED

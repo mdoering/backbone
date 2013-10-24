@@ -1,5 +1,4 @@
-Thamnochrolechia verticillata Aptroot & Sipman SPECIES
-=======
+# Thamnochrolechia verticillata Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

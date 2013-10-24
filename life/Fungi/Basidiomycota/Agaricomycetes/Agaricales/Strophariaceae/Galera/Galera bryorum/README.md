@@ -1,5 +1,4 @@
-Galera bryorum (Pers.) Fr. SPECIES
-=======
+# Galera bryorum (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

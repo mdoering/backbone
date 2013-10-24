@@ -1,5 +1,4 @@
-Bactrodesmium opacum Cooke & Harkn. SPECIES
-=======
+# Bactrodesmium opacum Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

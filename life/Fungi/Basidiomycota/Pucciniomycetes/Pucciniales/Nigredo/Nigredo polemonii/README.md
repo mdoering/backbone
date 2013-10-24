@@ -1,5 +1,4 @@
-Nigredo polemonii (Peck) Arthur SPECIES
-=======
+# Nigredo polemonii (Peck) Arthur SPECIES
 
 #### Status
 ACCEPTED

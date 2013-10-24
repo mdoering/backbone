@@ -1,17 +1,16 @@
-Pseudocercospora jasminicola var. jasminicola VARIETY
-=======
+# Cercospora jasminicola Hansf., 1944 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 140: 74 (1976)
+Arq. Inst. Biol. Veget. Rio de Janeiro 3: 93 (1936)
 
 #### Original name
-Pseudocercospora jasminicola var. jasminicola
+Cercospora jasminicola Hansf., 1944
 
 ### Remarks
 null

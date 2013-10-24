@@ -1,5 +1,4 @@
-Ascopolyporus gollmerianus Henn. SPECIES
-=======
+# Ascopolyporus gollmerianus Henn. SPECIES
 
 #### Status
 ACCEPTED

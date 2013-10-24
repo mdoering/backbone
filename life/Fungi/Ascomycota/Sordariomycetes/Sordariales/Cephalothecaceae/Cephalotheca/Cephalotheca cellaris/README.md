@@ -1,5 +1,4 @@
-Cephalotheca cellaris Richon SPECIES
-=======
+# Cephalotheca cellaris Richon SPECIES
 
 #### Status
 ACCEPTED

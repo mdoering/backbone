@@ -1,5 +1,4 @@
-Stilbum aggregatum Syd. {?} SPECIES
-=======
+# Stilbum aggregatum Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

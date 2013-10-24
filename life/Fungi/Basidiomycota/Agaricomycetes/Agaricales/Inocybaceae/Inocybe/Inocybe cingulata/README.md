@@ -1,5 +1,4 @@
-Inocybe cingulata E. Horak SPECIES
-=======
+# Inocybe cingulata E. Horak SPECIES
 
 #### Status
 ACCEPTED

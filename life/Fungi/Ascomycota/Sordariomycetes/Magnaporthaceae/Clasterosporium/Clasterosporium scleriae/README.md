@@ -1,5 +1,4 @@
-Clasterosporium scleriae M.B. Ellis SPECIES
-=======
+# Clasterosporium scleriae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia turpis Halling SPECIES
-=======
+# Collybia turpis Halling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rickia elliptica Thaxt. SPECIES
-=======
+# Rickia elliptica Thaxt. SPECIES
 
 #### Status
 ACCEPTED

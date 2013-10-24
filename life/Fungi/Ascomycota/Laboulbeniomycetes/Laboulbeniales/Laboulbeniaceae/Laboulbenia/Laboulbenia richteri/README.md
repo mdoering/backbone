@@ -1,5 +1,4 @@
-Laboulbenia richteri Speg. SPECIES
-=======
+# Laboulbenia richteri Speg. SPECIES
 
 #### Status
 ACCEPTED

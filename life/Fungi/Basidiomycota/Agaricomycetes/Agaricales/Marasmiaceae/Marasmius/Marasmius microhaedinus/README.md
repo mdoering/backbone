@@ -1,5 +1,4 @@
-Marasmius microhaedinus Singer SPECIES
-=======
+# Marasmius microhaedinus Singer SPECIES
 
 #### Status
 ACCEPTED

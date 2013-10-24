@@ -1,5 +1,4 @@
-Cortinarius fuligineus Joachim SPECIES
-=======
+# Cortinarius fuligineus Joachim SPECIES
 
 #### Status
 ACCEPTED

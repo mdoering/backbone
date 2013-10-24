@@ -1,5 +1,4 @@
-Synchytrium abnorme Speg. SPECIES
-=======
+# Synchytrium abnorme Speg. SPECIES
 
 #### Status
 ACCEPTED

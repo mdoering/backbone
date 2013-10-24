@@ -1,5 +1,4 @@
-Actinocyclus longipes SPECIES
-=======
+# Actinocyclus longipes SPECIES
 
 #### Status
 ACCEPTED

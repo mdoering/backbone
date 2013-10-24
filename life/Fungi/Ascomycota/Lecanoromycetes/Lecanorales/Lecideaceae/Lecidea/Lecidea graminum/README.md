@@ -1,5 +1,4 @@
-Lecidea graminum Vain. SPECIES
-=======
+# Lecidea graminum Vain. SPECIES
 
 #### Status
 ACCEPTED

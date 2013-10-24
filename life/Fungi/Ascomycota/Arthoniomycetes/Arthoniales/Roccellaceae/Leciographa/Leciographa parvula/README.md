@@ -1,5 +1,4 @@
-Leciographa parvula (Arnaud) Sacc. & D. Sacc. SPECIES
-=======
+# Leciographa parvula (Arnaud) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

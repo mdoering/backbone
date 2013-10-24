@@ -1,5 +1,4 @@
-Pertusaria intermedia Vain. SPECIES
-=======
+# Pertusaria intermedia Vain. SPECIES
 
 #### Status
 ACCEPTED

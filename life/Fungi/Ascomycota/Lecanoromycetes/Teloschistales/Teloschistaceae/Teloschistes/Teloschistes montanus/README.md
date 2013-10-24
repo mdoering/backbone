@@ -1,5 +1,4 @@
-Teloschistes montanus Barkh. SPECIES
-=======
+# Teloschistes montanus Barkh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triospyridae FAMILY
-=======
+# Triospyridae FAMILY
 
 #### Status
 ACCEPTED

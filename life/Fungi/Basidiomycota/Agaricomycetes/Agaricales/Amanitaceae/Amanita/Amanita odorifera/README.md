@@ -1,5 +1,4 @@
-Amanita odorifera (Murrill) Murrill SPECIES
-=======
+# Amanita odorifera (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

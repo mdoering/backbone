@@ -1,5 +1,4 @@
-Agaricus porphyrocephalus F.H. Møller, 1952 SPECIES
-=======
+# Agaricus porphyrocephalus F.H. Møller, 1952 SPECIES
 
 #### Status
 ACCEPTED

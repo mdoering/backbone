@@ -1,17 +1,16 @@
-Helmisporium vesiculosum Thüm. SPECIES
-=======
+# Helminthosporium vesiculosum Thüm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotheca universalis no. 784 (1877)
 
 #### Original name
-Helmisporium vesiculosum Thüm.
+Helminthosporium vesiculosum Thüm.
 
 ### Remarks
 null

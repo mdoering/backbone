@@ -1,5 +1,4 @@
-Stictina beccarii (Kremp.) Müll. Arg. SPECIES
-=======
+# Stictina beccarii (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

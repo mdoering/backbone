@@ -1,5 +1,4 @@
-Oothecium stylosporum (Cooke) Doidge SPECIES
-=======
+# Oothecium stylosporum (Cooke) Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Crocynia nivea (Mont.) Hue SPECIES
-=======
+# Byssocaulon niveum Mont. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 2 3: 355 (1835)
 
 #### Original name
 Byssocaulon niveum Mont.

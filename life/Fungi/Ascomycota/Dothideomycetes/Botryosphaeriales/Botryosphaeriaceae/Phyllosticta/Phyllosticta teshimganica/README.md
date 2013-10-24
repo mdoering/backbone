@@ -1,5 +1,4 @@
-Phyllosticta teshimganica Melnik SPECIES
-=======
+# Phyllosticta teshimganica Melnik SPECIES
 
 #### Status
 ACCEPTED

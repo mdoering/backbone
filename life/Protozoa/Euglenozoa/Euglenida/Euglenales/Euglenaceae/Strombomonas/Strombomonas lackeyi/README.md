@@ -1,5 +1,4 @@
-Strombomonas lackeyi (J. J. McCoy) G. E. Dillard SPECIES
-=======
+# Strombomonas lackeyi (J. J. McCoy) G. E. Dillard SPECIES
 
 #### Status
 ACCEPTED

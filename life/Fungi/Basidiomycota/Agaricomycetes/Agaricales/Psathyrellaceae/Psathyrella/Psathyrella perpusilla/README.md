@@ -1,5 +1,4 @@
-Psathyrella perpusilla Kits van Wav. SPECIES
-=======
+# Psathyrella perpusilla Kits van Wav. SPECIES
 
 #### Status
 ACCEPTED

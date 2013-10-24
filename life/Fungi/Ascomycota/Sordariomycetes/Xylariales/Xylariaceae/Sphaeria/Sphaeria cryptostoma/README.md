@@ -1,5 +1,4 @@
-Sphaeria cryptostoma Lév. SPECIES
-=======
+# Sphaeria cryptostoma Lév. SPECIES
 
 #### Status
 ACCEPTED

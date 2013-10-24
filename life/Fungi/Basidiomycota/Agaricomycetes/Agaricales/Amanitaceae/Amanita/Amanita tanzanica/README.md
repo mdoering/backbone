@@ -1,5 +1,4 @@
-Amanita tanzanica Härk. & Saarim. SPECIES
-=======
+# Amanita tanzanica Härk. & Saarim. SPECIES
 
 #### Status
 ACCEPTED

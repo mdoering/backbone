@@ -1,5 +1,4 @@
-Asterostomella meliosmae I. Hino & Katum. SPECIES
-=======
+# Asterostomella meliosmae I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

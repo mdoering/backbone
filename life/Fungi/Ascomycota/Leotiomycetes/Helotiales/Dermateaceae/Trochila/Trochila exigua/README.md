@@ -1,5 +1,4 @@
-Trochila exigua Rostr. SPECIES
-=======
+# Trochila exigua Rostr. SPECIES
 
 #### Status
 ACCEPTED

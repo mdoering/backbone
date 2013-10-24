@@ -1,5 +1,4 @@
-Mycosphaerella moutan Siemaszko SPECIES
-=======
+# Mycosphaerella moutan Siemaszko SPECIES
 
 #### Status
 ACCEPTED

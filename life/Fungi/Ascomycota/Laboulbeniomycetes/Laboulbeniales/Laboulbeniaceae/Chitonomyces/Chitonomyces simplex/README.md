@@ -1,5 +1,4 @@
-Chitonomyces simplex Thaxt. SPECIES
-=======
+# Chitonomyces simplex Thaxt. SPECIES
 
 #### Status
 ACCEPTED

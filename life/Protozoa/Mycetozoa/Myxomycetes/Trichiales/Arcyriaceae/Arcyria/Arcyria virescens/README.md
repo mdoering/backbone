@@ -1,5 +1,4 @@
-Arcyria virescens G. Lister, 1921 SPECIES
-=======
+# Arcyria virescens G. Lister, 1921 SPECIES
 
 #### Status
 ACCEPTED

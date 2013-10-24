@@ -1,5 +1,4 @@
-Aniptodera intermedia K.D. Hyde & Alias, 1999 SPECIES
-=======
+# Aniptodera intermedia K.D. Hyde & Alias, 1999 SPECIES
 
 #### Status
 ACCEPTED

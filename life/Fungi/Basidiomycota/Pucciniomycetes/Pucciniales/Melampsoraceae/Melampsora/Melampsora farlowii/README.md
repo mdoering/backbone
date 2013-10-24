@@ -1,14 +1,13 @@
-Chrysomyxa farlowii (Arthur) Sacc. & Traverso, 1910 SPECIES
-=======
+# Melampsora farlowii (Arthur) Davis, 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 19: 284 (1910)
+Trans. Wis. Acad. Sci. Arts Lett. 18(1): 107 (1915)
 
 #### Original name
 Necium farlowii Arthur, 1907

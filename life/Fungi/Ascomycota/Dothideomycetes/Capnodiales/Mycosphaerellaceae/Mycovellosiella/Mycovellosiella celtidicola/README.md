@@ -1,5 +1,4 @@
-Mycovellosiella celtidicola Munt.-Cvetk. SPECIES
-=======
+# Mycovellosiella celtidicola Munt.-Cvetk. SPECIES
 
 #### Status
 ACCEPTED

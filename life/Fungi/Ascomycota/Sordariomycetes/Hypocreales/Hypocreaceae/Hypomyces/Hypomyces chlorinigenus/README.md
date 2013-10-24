@@ -1,5 +1,4 @@
-Hypomyces chlorinigenus Rogerson & Samuels, 1989 SPECIES
-=======
+# Hypomyces chlorinigenus Rogerson & Samuels, 1989 SPECIES
 
 #### Status
 ACCEPTED

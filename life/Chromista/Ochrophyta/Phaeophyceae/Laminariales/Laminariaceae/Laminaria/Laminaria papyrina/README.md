@@ -1,5 +1,4 @@
-Laminaria papyrina Bory de St.-Vincent SPECIES
-=======
+# Laminaria papyrina Bory de St.-Vincent SPECIES
 
 #### Status
 ACCEPTED

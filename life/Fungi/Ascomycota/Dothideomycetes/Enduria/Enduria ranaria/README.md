@@ -1,5 +1,4 @@
-Enduria ranaria Norman SPECIES
-=======
+# Enduria ranaria Norman SPECIES
 
 #### Status
 ACCEPTED

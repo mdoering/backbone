@@ -1,17 +1,16 @@
-Punjabia Haque, 1956 GENUS
-=======
+# Cincoriola Haque, 1958 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Mem. Geol. Surv. Pakist. 1: 152.
+Contr. Cushman Fdn foramin. Res. 9: 103.
 
 #### Original name
-null
+Punjabia Haque, 1956
 
 ### Remarks
 null

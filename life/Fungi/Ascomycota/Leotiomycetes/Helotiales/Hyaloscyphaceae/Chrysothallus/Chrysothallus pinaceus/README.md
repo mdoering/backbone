@@ -1,5 +1,4 @@
-Chrysothallus pinaceus Velen. SPECIES
-=======
+# Chrysothallus pinaceus Velen. SPECIES
 
 #### Status
 ACCEPTED

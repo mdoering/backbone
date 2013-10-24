@@ -1,5 +1,4 @@
-Acarocybe Syd. GENUS
-=======
+# Acarocybe Syd. GENUS
 
 #### Status
 ACCEPTED

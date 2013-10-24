@@ -1,5 +1,4 @@
-Septogloeum hercynicum Syd. & P. Syd. SPECIES
-=======
+# Septogloeum hercynicum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

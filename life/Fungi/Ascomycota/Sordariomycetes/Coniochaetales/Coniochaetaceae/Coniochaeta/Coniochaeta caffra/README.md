@@ -1,17 +1,16 @@
-Coniochaeta caffera Matsush. SPECIES
-=======
+# Coniochaeta caffra Matsush. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Matsush. Mycol. Mem. 9: 6 (1996)
 
 #### Original name
-Coniochaeta caffera Matsush.
+Coniochaeta caffra Matsush.
 
 ### Remarks
 null

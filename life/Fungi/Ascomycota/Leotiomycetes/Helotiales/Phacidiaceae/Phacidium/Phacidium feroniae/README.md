@@ -1,5 +1,4 @@
-Phacidium feroniae Ettingsh. SPECIES
-=======
+# Phacidium feroniae Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

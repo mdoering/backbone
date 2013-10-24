@@ -1,5 +1,4 @@
-Parmularia albomarginata Nyl. SPECIES
-=======
+# Parmularia albomarginata Nyl. SPECIES
 
 #### Status
 ACCEPTED

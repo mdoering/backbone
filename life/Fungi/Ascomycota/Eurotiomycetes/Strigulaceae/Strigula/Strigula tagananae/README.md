@@ -1,17 +1,16 @@
-Strigula lateralis Aptroot & Van den Boom SPECIES
-=======
+# Strigula tagananae (Harm.) R. C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 56: 3 (1995)
+More Florida Lichens (New York), Incl. 10 Cent Tour Pyrenol. 160 (1995)
 
 #### Original name
-Strigula lateralis Aptroot & Van den Boom
+Verrucaria tagananae Harm.
 
 ### Remarks
 null

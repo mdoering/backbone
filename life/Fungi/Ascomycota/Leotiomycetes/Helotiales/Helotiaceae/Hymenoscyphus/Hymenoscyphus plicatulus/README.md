@@ -1,5 +1,4 @@
-Hymenoscyphus plicatulus (Rehm) Kuntze SPECIES
-=======
+# Hymenoscyphus plicatulus (Rehm) Kuntze SPECIES
 
 #### Status
 ACCEPTED

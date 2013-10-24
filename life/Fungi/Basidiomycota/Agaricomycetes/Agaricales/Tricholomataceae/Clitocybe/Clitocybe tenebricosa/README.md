@@ -1,5 +1,4 @@
-Clitocybe tenebricosa Murrill SPECIES
-=======
+# Clitocybe tenebricosa Murrill SPECIES
 
 #### Status
 ACCEPTED

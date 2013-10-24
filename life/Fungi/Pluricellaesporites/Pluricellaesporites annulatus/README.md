@@ -1,5 +1,4 @@
-Pluricellaesporites annulatus A. Chandra, R.K. Saxena & Setty SPECIES
-=======
+# Pluricellaesporites annulatus A. Chandra, R.K. Saxena & Setty SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caromyxa elegans Mont. SPECIES
-=======
+# Caromyxa elegans Mont. SPECIES
 
 #### Status
 ACCEPTED

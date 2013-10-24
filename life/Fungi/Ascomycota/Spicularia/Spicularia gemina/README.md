@@ -1,5 +1,4 @@
-Spicularia gemina Pers. SPECIES
-=======
+# Spicularia gemina Pers. SPECIES
 
 #### Status
 ACCEPTED

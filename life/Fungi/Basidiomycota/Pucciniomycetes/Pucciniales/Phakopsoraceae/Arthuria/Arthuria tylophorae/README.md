@@ -1,5 +1,4 @@
-Arthuria tylophorae T.S. Ramakr., 1950 SPECIES
-=======
+# Arthuria tylophorae T.S. Ramakr., 1950 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea cerinocarpa C. Knight SPECIES
-=======
+# Lecidea cerinocarpa C. Knight SPECIES
 
 #### Status
 ACCEPTED

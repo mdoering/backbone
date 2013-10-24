@@ -1,5 +1,4 @@
-Diplopsalopsis Meunier, 1910 GENUS
-=======
+# Diplopsalopsis Meunier, 1910 GENUS
 
 #### Status
 ACCEPTED

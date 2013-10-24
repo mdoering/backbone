@@ -1,5 +1,4 @@
-Strasseria acicola M. Morelet SPECIES
-=======
+# Strasseria acicola M. Morelet SPECIES
 
 #### Status
 ACCEPTED

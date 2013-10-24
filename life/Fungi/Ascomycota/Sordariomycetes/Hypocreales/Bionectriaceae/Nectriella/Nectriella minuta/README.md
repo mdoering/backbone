@@ -1,5 +1,4 @@
-Nectriella minuta Lowen, 1999 SPECIES
-=======
+# Nectriella minuta Lowen, 1999 SPECIES
 
 #### Status
 ACCEPTED

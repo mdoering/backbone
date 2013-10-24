@@ -1,5 +1,4 @@
-Graphis nanodes Vain. SPECIES
-=======
+# Graphis nanodes Vain. SPECIES
 
 #### Status
 ACCEPTED

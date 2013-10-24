@@ -1,5 +1,4 @@
-Xylosphaeria nobilis (Petr.) Petr. SPECIES
-=======
+# Xylosphaeria nobilis (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

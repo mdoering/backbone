@@ -1,5 +1,4 @@
-Alaria linearis Strömfelt SPECIES
-=======
+# Alaria linearis Strömfelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporonema laricinum Sacc. SPECIES
-=======
+# Sporonema laricinum Sacc. SPECIES
 
 #### Status
 ACCEPTED

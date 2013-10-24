@@ -1,5 +1,4 @@
-Phyllachora danthoniae (Chardón) Cif., 1961 SPECIES
-=======
+# Phyllachora danthoniae (Chardón) Cif., 1961 SPECIES
 
 #### Status
 DOUBTFUL

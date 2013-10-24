@@ -1,5 +1,4 @@
-Alaria eliptica Kjellman SPECIES
-=======
+# Alaria eliptica Kjellman SPECIES
 
 #### Status
 ACCEPTED

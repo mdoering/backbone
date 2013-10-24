@@ -1,5 +1,4 @@
-Sceptrifera Deighton GENUS
-=======
+# Sceptrifera Deighton GENUS
 
 #### Status
 ACCEPTED

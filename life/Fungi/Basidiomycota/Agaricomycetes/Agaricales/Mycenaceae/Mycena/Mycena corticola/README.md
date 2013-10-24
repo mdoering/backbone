@@ -1,5 +1,4 @@
-Mycena corticola (Pers.) Gray, 1821 SPECIES
-=======
+# Mycena corticola (Pers.) Gray, 1821 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanospora exsola Bat. & H.P. Upadhyay, 1965 SPECIES
-=======
+# Melanospora exsola Bat. & H.P. Upadhyay, 1965 SPECIES
 
 #### Status
 ACCEPTED

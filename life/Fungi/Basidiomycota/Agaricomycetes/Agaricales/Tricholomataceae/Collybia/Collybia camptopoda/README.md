@@ -1,5 +1,4 @@
-Collybia camptopoda Berk. SPECIES
-=======
+# Collybia camptopoda Berk. SPECIES
 
 #### Status
 ACCEPTED

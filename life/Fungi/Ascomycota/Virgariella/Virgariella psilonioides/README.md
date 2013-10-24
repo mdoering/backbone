@@ -1,5 +1,4 @@
-Virgariella psilonioides (Preuss) de Hoog SPECIES
-=======
+# Virgariella psilonioides (Preuss) de Hoog SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryosphaeria hypoxyloidea Cooke SPECIES
-=======
+# Botryosphaeria hypoxyloidea Cooke SPECIES
 
 #### Status
 ACCEPTED

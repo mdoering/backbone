@@ -1,8 +1,7 @@
-Bacillus polymyxa (Prazmowski, 1880) Macé, 1889 (Approved Lists, 1980) SPECIES
-=======
+# Paenibacillus polymyxa (Prazmowski, 1880) Ash et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

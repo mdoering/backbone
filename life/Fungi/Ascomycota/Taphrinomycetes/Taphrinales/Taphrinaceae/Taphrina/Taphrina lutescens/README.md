@@ -1,5 +1,4 @@
-Taphrina lutescens Rostr. SPECIES
-=======
+# Taphrina lutescens Rostr. SPECIES
 
 #### Status
 ACCEPTED

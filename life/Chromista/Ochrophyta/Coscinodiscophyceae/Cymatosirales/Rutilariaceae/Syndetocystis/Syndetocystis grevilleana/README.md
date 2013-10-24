@@ -1,5 +1,4 @@
-Syndetocystis grevilleana Ralfs ex Chase & Walker SPECIES
-=======
+# Syndetocystis grevilleana Ralfs ex Chase & Walker SPECIES
 
 #### Status
 ACCEPTED

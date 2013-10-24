@@ -1,5 +1,4 @@
-Herpotrichia fusispora Chi Y. Chen & W.H. Hsieh, 2004 SPECIES
-=======
+# Herpotrichia fusispora Chi Y. Chen & W.H. Hsieh, 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anamika angustilamellata Zhu L. Yang & Z.W. Ge, 2005 SPECIES
-=======
+# Anamika angustilamellata Zhu L. Yang & Z.W. Ge, 2005 SPECIES
 
 #### Status
 ACCEPTED

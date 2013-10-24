@@ -1,5 +1,4 @@
-Protoparmelia badiola (Müll. Arg.) Kalb SPECIES
-=======
+# Protoparmelia badiola (Müll. Arg.) Kalb SPECIES
 
 #### Status
 ACCEPTED

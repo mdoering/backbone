@@ -1,5 +1,4 @@
-Lembosia juncinum (Lib.) Höhn. SPECIES
-=======
+# Lembosia juncinum (Lib.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

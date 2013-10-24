@@ -1,5 +1,4 @@
-Melanospora endobiotica Woron. SPECIES
-=======
+# Melanospora endobiotica Woron. SPECIES
 
 #### Status
 ACCEPTED

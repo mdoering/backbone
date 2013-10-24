@@ -1,5 +1,4 @@
-Phyllosticta celastrina (Died.) Aa SPECIES
-=======
+# Phyllosticta celastrina (Died.) Aa SPECIES
 
 #### Status
 ACCEPTED

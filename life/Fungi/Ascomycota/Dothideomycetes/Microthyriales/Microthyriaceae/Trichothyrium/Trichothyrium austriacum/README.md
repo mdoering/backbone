@@ -1,5 +1,4 @@
-Trichothyrium austriacum Petr. SPECIES
-=======
+# Trichothyrium austriacum Petr. SPECIES
 
 #### Status
 ACCEPTED

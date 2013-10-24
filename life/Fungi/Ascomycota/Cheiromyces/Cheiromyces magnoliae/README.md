@@ -1,5 +1,4 @@
-Cheiromyces magnoliae Promp., 2005 SPECIES
-=======
+# Cheiromyces magnoliae Promp., 2005 SPECIES
 
 #### Status
 ACCEPTED

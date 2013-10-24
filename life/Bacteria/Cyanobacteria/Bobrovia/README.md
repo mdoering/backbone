@@ -1,5 +1,4 @@
-Bobrovia P.N. Kolosov, 1975 GENUS
-=======
+# Bobrovia P.N. Kolosov, 1975 GENUS
 
 #### Status
 ACCEPTED

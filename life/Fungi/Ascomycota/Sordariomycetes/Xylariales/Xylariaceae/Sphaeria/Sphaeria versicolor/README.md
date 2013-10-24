@@ -1,5 +1,4 @@
-Sphaeria versicolor F. Brig. SPECIES
-=======
+# Sphaeria versicolor F. Brig. SPECIES
 
 #### Status
 ACCEPTED

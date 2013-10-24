@@ -1,5 +1,4 @@
-Cyptotrama Singer GENUS
-=======
+# Cyptotrama Singer GENUS
 
 #### Status
 ACCEPTED

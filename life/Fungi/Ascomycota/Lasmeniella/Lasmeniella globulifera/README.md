@@ -1,5 +1,4 @@
-Lasmeniella globulifera (Rabenh.) Petr. & Syd. SPECIES
-=======
+# Lasmeniella globulifera (Rabenh.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

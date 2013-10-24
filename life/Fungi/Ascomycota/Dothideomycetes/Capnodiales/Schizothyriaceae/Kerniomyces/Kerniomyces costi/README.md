@@ -1,5 +1,4 @@
-Kerniomyces costi Toro, 1939 SPECIES
-=======
+# Kerniomyces costi Toro, 1939 SPECIES
 
 #### Status
 ACCEPTED

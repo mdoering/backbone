@@ -1,5 +1,4 @@
-Domasia hermosa Cramer, 1970 SPECIES
-=======
+# Domasia hermosa Cramer, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fulgensia arbensis (Zahlbr.) Gyeln. SPECIES
-=======
+# Fulgensia arbensis (Zahlbr.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

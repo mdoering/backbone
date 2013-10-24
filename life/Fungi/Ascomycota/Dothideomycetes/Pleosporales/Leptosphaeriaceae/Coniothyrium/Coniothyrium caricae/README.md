@@ -1,5 +1,4 @@
-Coniothyrium caricae (Pass.) Kuntze SPECIES
-=======
+# Coniothyrium caricae (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

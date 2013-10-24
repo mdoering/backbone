@@ -1,5 +1,4 @@
-Conoplea pallida B. Sutton SPECIES
-=======
+# Conoplea pallida B. Sutton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microdiplodia halimodendri Gucevic SPECIES
-=======
+# Microdiplodia halimodendri Gucevic SPECIES
 
 #### Status
 ACCEPTED

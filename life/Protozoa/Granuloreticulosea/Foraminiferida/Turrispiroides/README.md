@@ -1,17 +1,16 @@
-Turrispira Reitlinger, 1950 GENUS
-=======
+# Turrispiroides Reitlinger, 1959 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Trud. Geol. Inst. Akad. Nauk SSSR, 126 (Geol. ser. 47), 18.
+in Rauzer-Chernousova & Fursenko (Eds) Protozoa. In Orlov, Y. A. (Ed. ). Osnovy Paleontol. . Akad. Nauk SSSR, Moskva 1: 181.
 
 #### Original name
-null
+Turrispira Reitlinger, 1950
 
 ### Remarks
 null

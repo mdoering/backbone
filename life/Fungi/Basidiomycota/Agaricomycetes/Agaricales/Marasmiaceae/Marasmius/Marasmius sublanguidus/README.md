@@ -1,5 +1,4 @@
-Marasmius sublanguidus Henn. SPECIES
-=======
+# Marasmius sublanguidus Henn. SPECIES
 
 #### Status
 ACCEPTED

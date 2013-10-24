@@ -1,5 +1,4 @@
-Russula arenaria Singer ex Singer SPECIES
-=======
+# Russula arenaria Singer ex Singer SPECIES
 
 #### Status
 ACCEPTED

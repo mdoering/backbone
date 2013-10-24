@@ -1,5 +1,4 @@
-Ustalia poitiaei (Fée) Stizenb. SPECIES
-=======
+# Ustalia poitiaei (Fée) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

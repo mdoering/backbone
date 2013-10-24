@@ -1,17 +1,16 @@
-Aspergillus ustus var. ustus VARIETY
-=======
+# Aspergillus ustus (Bainier) Thom & Church, 1926 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 The Aspergilli 152 (1926)
 
 #### Original name
-Aspergillus ustus var. ustus
+Sterigmatocystis ustus Bainier
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cellypha subgelatinosa (Berk. & Ravenel) W.B. Cooke SPECIES
-=======
+# Cellypha subgelatinosa (Berk. & Ravenel) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

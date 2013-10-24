@@ -1,14 +1,13 @@
-Dichoporis schizopora (Vain.) Clem. SPECIES
-=======
+# Dichoporis schizospora (Vain.) Clem. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Gen. fung. (Minneapolis) (1909)
 
 #### Original name
 Porina schizospora Vain.

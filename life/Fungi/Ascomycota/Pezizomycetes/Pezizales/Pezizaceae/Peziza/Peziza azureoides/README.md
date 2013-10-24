@@ -1,5 +1,4 @@
-Peziza azureoides Donadini, 1982 SPECIES
-=======
+# Peziza azureoides Donadini, 1982 SPECIES
 
 #### Status
 ACCEPTED

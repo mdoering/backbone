@@ -1,5 +1,4 @@
-Poronia gleditschii Willd., 1787 SPECIES
-=======
+# Poronia gleditschii Willd., 1787 SPECIES
 
 #### Status
 ACCEPTED

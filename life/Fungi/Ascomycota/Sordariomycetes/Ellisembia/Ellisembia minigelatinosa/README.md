@@ -1,5 +1,4 @@
-Ellisembia minigelatinosa (Matsush.) W.P. Wu SPECIES
-=======
+# Ellisembia minigelatinosa (Matsush.) W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

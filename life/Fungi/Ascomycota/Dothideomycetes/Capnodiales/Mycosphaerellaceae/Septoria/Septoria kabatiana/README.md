@@ -1,5 +1,4 @@
-Septoria kabatiana Syd. SPECIES
-=======
+# Septoria kabatiana Syd. SPECIES
 
 #### Status
 ACCEPTED

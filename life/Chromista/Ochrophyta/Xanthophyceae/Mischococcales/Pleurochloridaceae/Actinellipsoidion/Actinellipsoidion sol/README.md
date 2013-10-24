@@ -1,5 +1,4 @@
-Actinellipsoidion sol (Pascher) H. Ettl SPECIES
-=======
+# Actinellipsoidion sol (Pascher) H. Ettl SPECIES
 
 #### Status
 ACCEPTED

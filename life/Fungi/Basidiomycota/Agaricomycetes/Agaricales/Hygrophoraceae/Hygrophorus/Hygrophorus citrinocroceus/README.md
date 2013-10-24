@@ -1,5 +1,4 @@
-Hygrophorus citrinocroceus Beck SPECIES
-=======
+# Hygrophorus citrinocroceus Beck SPECIES
 
 #### Status
 ACCEPTED

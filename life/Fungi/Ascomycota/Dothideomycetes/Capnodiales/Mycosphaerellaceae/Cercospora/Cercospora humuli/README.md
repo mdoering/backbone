@@ -1,5 +1,4 @@
-Cercospora humuli Hori SPECIES
-=======
+# Cercospora humuli Hori SPECIES
 
 #### Status
 ACCEPTED

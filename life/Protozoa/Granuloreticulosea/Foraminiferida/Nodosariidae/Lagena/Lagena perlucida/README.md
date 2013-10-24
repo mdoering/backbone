@@ -1,5 +1,4 @@
-Lagena perlucida SPECIES
-=======
+# Lagena perlucida SPECIES
 
 #### Status
 ACCEPTED

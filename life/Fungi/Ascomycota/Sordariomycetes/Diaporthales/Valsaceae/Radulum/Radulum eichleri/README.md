@@ -1,17 +1,16 @@
-Radulum eichlerii Bres. SPECIES
-=======
+# Radulum eichleri Bres. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 1(1/2): 89 (1903)
 
 #### Original name
-Radulum eichlerii Bres.
+Radulum eichleri Bres.
 
 ### Remarks
 null

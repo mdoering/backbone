@@ -1,5 +1,4 @@
-Pertusaria leonina Stizenb. SPECIES
-=======
+# Pertusaria leonina Stizenb. SPECIES
 
 #### Status
 ACCEPTED

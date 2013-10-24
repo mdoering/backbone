@@ -1,5 +1,4 @@
-Aecidium hansfordii Cummins SPECIES
-=======
+# Aecidium hansfordii Cummins SPECIES
 
 #### Status
 ACCEPTED

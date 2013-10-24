@@ -1,5 +1,4 @@
-Arrhenosphaera Stejskal GENUS
-=======
+# Arrhenosphaera Stejskal GENUS
 
 #### Status
 ACCEPTED

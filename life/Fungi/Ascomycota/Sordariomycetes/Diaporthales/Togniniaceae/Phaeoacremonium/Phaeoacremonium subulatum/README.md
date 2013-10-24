@@ -1,5 +1,4 @@
-Phaeoacremonium subulatum L. Mostert, Summerb. & Crous SPECIES
-=======
+# Phaeoacremonium subulatum L. Mostert, Summerb. & Crous SPECIES
 
 #### Status
 ACCEPTED

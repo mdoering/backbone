@@ -1,5 +1,4 @@
-Lingulina neglecta Buchner, 1942 SPECIES
-=======
+# Lingulina neglecta Buchner, 1942 SPECIES
 
 #### Status
 ACCEPTED

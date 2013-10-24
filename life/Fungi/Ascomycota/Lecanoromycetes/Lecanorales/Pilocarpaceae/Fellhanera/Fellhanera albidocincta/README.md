@@ -1,5 +1,4 @@
-Fellhanera albidocincta (Vain.) Lücking SPECIES
-=======
+# Fellhanera albidocincta (Vain.) Lücking SPECIES
 
 #### Status
 ACCEPTED

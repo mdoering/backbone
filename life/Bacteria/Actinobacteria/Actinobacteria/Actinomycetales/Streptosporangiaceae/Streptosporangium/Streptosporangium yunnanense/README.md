@@ -1,5 +1,4 @@
-Streptosporangium yunnanense Zhang et al., 2005 SPECIES
-=======
+# Streptosporangium yunnanense Zhang et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

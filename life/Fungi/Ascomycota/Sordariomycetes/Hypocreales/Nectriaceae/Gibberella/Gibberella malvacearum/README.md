@@ -1,5 +1,4 @@
-Gibberella malvacearum Trab. SPECIES
-=======
+# Gibberella malvacearum Trab. SPECIES
 
 #### Status
 ACCEPTED

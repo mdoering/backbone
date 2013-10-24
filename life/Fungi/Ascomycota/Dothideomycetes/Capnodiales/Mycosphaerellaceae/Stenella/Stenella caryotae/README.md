@@ -1,5 +1,4 @@
-Stenella caryotae X.J. Liu & Y.Z. Liao SPECIES
-=======
+# Stenella caryotae X.J. Liu & Y.Z. Liao SPECIES
 
 #### Status
 ACCEPTED

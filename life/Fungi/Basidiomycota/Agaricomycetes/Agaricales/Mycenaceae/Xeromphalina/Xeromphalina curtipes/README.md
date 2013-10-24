@@ -1,5 +1,4 @@
-Xeromphalina curtipes Hongo SPECIES
-=======
+# Xeromphalina curtipes Hongo SPECIES
 
 #### Status
 ACCEPTED

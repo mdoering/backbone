@@ -1,5 +1,4 @@
-Colletotrichum luzulae Togashi & Onuma SPECIES
-=======
+# Colletotrichum luzulae Togashi & Onuma SPECIES
 
 #### Status
 ACCEPTED

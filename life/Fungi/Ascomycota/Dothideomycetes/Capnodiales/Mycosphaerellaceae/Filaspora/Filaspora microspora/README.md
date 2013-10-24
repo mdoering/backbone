@@ -1,5 +1,4 @@
-Filaspora microspora (Har. & P. Karst.) Kuntze SPECIES
-=======
+# Filaspora microspora (Har. & P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia guyanensis W. Rossi & Ponziani SPECIES
-=======
+# Laboulbenia guyanensis W. Rossi & Ponziani SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lecidea albovirens G. Mey. SPECIES
-=======
+# Pyxine albovirens (G. Mey.) Aptroot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Aptroot, Flora of the Guianas (Koenigstein), Series E: Fungi and Lichens. Fascicle 1. Pyxinaceae 42 (1987)
 
 #### Original name
 Lecidea albovirens G. Mey.

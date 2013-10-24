@@ -1,5 +1,4 @@
-Junghuhnia subnitida H.S. Yuan & Y. C. Dai SPECIES
-=======
+# Junghuhnia subnitida H.S. Yuan & Y. C. Dai SPECIES
 
 #### Status
 ACCEPTED

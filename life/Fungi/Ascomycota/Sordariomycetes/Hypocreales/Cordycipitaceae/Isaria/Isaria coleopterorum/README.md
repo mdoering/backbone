@@ -1,5 +1,4 @@
-Isaria coleopterorum (Samson & H.C. Evans) Samson & Hywel-Jones, 2005 SPECIES
-=======
+# Isaria coleopterorum (Samson & H.C. Evans) Samson & Hywel-Jones, 2005 SPECIES
 
 #### Status
 ACCEPTED

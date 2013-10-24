@@ -1,5 +1,4 @@
-Nolanea obscura (Dennis) Pegler SPECIES
-=======
+# Nolanea obscura (Dennis) Pegler SPECIES
 
 #### Status
 ACCEPTED

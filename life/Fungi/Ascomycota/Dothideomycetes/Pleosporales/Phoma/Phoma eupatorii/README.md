@@ -1,5 +1,4 @@
-Phoma eupatorii Died., 1912 SPECIES
-=======
+# Phoma eupatorii Died., 1912 SPECIES
 
 #### Status
 ACCEPTED

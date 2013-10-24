@@ -1,5 +1,4 @@
-Pleosphaeria australis Speg., 1881 SPECIES
-=======
+# Pleosphaeria australis Speg., 1881 SPECIES
 
 #### Status
 ACCEPTED

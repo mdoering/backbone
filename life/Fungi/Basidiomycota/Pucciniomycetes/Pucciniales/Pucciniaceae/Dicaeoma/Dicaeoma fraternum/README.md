@@ -1,5 +1,4 @@
-Dicaeoma fraternum (H.S. Jacks.) Arthur & H.S. Jacks. SPECIES
-=======
+# Dicaeoma fraternum (H.S. Jacks.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hormisciomyces bellum Bat. & Carneiro SPECIES
-=======
+# Hormisciomyces bellus Bat. & Carneiro SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atas Inst. Micol. Univ. Recife 1: 262 (1960)
 
 #### Original name
-Hormisciomyces bellum Bat. & Carneiro
+Hormisciomyces bellus Bat. & Carneiro
 
 ### Remarks
 null

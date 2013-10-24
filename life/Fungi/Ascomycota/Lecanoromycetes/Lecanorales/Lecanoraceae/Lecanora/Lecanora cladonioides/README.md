@@ -1,5 +1,4 @@
-Lecanora cladonioides Lynge SPECIES
-=======
+# Lecanora cladonioides Lynge SPECIES
 
 #### Status
 ACCEPTED

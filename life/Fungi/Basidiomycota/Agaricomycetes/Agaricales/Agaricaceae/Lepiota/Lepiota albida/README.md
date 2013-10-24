@@ -1,5 +1,4 @@
-Lepiota albida Beeli SPECIES
-=======
+# Lepiota albida Beeli SPECIES
 
 #### Status
 ACCEPTED

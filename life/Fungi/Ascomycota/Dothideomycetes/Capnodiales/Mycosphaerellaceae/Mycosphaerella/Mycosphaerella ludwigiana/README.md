@@ -1,5 +1,4 @@
-Mycosphaerella ludwigiana (Sacc. & Har.) Moesz SPECIES
-=======
+# Mycosphaerella ludwigiana (Sacc. & Har.) Moesz SPECIES
 
 #### Status
 ACCEPTED

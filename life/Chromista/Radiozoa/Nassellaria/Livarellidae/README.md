@@ -1,5 +1,4 @@
-Livarellidae Kozur & Mostler, 1981 FAMILY
-=======
+# Livarellidae Kozur & Mostler, 1981 FAMILY
 
 #### Status
 ACCEPTED

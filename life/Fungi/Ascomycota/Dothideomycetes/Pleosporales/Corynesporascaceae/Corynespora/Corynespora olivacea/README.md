@@ -1,14 +1,13 @@
-Sporidesmium olivaceum Wallr., 1833 SPECIES
-=======
+# Corynespora olivacea (Wallr.) M.B. Ellis, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. crypt. Germ. (Nürnberg) 2: 228 (1833)
+Mycol. Pap. 76: 32 (1960)
 
 #### Original name
 Sporidesmium olivaceum Wallr., 1833

@@ -1,5 +1,4 @@
-Pachnodium H.P. Upadhyay & W.B. Kendr. GENUS
-=======
+# Pachnodium H.P. Upadhyay & W.B. Kendr. GENUS
 
 #### Status
 ACCEPTED

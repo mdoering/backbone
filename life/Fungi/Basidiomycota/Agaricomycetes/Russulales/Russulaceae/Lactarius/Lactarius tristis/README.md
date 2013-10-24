@@ -1,5 +1,4 @@
-Lactarius tristis (Krombh.) J. Blum SPECIES
-=======
+# Lactarius tristis (Krombh.) J. Blum SPECIES
 
 #### Status
 ACCEPTED

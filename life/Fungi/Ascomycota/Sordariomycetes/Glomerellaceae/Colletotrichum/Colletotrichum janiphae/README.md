@@ -1,5 +1,4 @@
-Colletotrichum janiphae (Thüm.) Grove SPECIES
-=======
+# Colletotrichum janiphae (Thüm.) Grove SPECIES
 
 #### Status
 ACCEPTED

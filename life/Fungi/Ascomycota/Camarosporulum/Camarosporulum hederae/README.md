@@ -1,5 +1,4 @@
-Camarosporulum hederae (Ellis & Everh.) Tassi SPECIES
-=======
+# Camarosporulum hederae (Ellis & Everh.) Tassi SPECIES
 
 #### Status
 ACCEPTED

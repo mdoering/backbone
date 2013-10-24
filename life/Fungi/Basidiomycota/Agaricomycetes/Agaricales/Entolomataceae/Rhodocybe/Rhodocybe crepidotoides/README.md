@@ -1,5 +1,4 @@
-Rhodocybe crepidotoides Singer SPECIES
-=======
+# Rhodocybe crepidotoides Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterium aequatum Fr. SPECIES
-=======
+# Hysterium aequatum Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ostreopsis lenticularis Fukuyo SPECIES
-=======
+# Ostreopsis lenticularis Fukuyo SPECIES
 
 #### Status
 ACCEPTED

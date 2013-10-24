@@ -1,5 +1,4 @@
-Acarospora jenisejensis H. Magn. SPECIES
-=======
+# Acarospora jenisejensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

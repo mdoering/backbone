@@ -1,5 +1,4 @@
-Trichodina elegans Stein, 1979 SPECIES
-=======
+# Trichodina elegans Stein, 1979 SPECIES
 
 #### Status
 ACCEPTED

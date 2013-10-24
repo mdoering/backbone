@@ -1,5 +1,4 @@
-Larvulina Penard, 1922 GENUS
-=======
+# Larvulina Penard, 1922 GENUS
 
 #### Status
 ACCEPTED

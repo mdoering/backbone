@@ -1,5 +1,4 @@
-Nematopsis panopei Ball, 1951 SPECIES
-=======
+# Nematopsis panopei Ball, 1951 SPECIES
 
 #### Status
 ACCEPTED

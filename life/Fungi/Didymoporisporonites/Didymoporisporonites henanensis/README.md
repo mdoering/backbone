@@ -1,5 +1,4 @@
-Didymoporisporonites henanensis Z.C. Song & G.X. Li SPECIES
-=======
+# Didymoporisporonites henanensis Z.C. Song & G.X. Li SPECIES
 
 #### Status
 ACCEPTED

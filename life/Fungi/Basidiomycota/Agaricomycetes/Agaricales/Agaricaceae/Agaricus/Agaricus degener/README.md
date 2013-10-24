@@ -1,5 +1,4 @@
-Agaricus degener J. Otto SPECIES
-=======
+# Agaricus degener J. Otto SPECIES
 
 #### Status
 ACCEPTED

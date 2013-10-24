@@ -1,5 +1,4 @@
-Bacidia maravalensis (Vain.) Zahlbr. SPECIES
-=======
+# Bacidia maravalensis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

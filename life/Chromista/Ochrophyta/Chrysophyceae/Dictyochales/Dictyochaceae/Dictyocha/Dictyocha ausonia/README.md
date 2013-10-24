@@ -1,5 +1,4 @@
-Dictyocha ausonia Deflandre SPECIES
-=======
+# Dictyocha ausonia Deflandre SPECIES
 
 #### Status
 ACCEPTED

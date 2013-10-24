@@ -1,5 +1,4 @@
-Clavaria comosa Pat. SPECIES
-=======
+# Clavaria comosa Pat. SPECIES
 
 #### Status
 ACCEPTED

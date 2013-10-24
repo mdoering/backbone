@@ -1,5 +1,4 @@
-Monilinia gregaria (B.F. Dana) Honey SPECIES
-=======
+# Monilinia gregaria (B.F. Dana) Honey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Chiodecton hawaiiense Zahlbr. SPECIES
-=======
+# Syncesia hawaiiensis (Zahlbr.) Tehler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. Neotrop. , Monogr. 74: 16 (1997)
 
 #### Original name
-null
+Chiodecton hawaiiense Zahlbr.
 
 ### Remarks
 null

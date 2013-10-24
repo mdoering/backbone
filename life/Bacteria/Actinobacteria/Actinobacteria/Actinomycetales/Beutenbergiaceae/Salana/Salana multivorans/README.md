@@ -1,5 +1,4 @@
-Salana multivorans Von Wintzingerode et al., 2001 SPECIES
-=======
+# Salana multivorans Von Wintzingerode et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

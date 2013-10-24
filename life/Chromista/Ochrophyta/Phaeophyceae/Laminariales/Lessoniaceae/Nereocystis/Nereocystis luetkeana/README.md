@@ -1,8 +1,7 @@
-Fucus luetkeanus Mertens SPECIES
-=======
+# Nereocystis luetkeana (Mertens) Postels & Ruprecht SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

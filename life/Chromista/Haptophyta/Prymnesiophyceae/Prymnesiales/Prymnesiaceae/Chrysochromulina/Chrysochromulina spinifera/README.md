@@ -1,5 +1,4 @@
-Chrysochromulina spinifera (Fournier) Pienaar & Norris, 1979 SPECIES
-=======
+# Chrysochromulina spinifera (Fournier) Pienaar & Norris, 1979 SPECIES
 
 #### Status
 ACCEPTED

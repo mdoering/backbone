@@ -1,5 +1,4 @@
-Bacillus saliphilus Romano et al., 2005 SPECIES
-=======
+# Bacillus saliphilus Romano et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

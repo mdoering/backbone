@@ -1,5 +1,4 @@
-Thalassicollidium Haeckel, 1887 GENUS
-=======
+# Thalassicollidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramalina palmiformis Kashiw. & T. H. Nash SPECIES
-=======
+# Ramalina palmiformis Kashiw. & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

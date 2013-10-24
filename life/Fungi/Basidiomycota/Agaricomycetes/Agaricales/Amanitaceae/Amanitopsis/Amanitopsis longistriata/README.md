@@ -1,5 +1,4 @@
-Amanitopsis longistriata (S. Imai) E.-J. Gilbert SPECIES
-=======
+# Amanitopsis longistriata (S. Imai) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

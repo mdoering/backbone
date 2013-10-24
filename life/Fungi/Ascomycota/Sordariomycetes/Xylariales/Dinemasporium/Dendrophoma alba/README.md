@@ -1,5 +1,4 @@
-Dendrophoma alba (Preuss) Sacc. SPECIES
-=======
+# Dendrophoma alba (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

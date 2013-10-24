@@ -1,5 +1,4 @@
-Crocynia mexicana Hue SPECIES
-=======
+# Crocynia mexicana Hue SPECIES
 
 #### Status
 ACCEPTED

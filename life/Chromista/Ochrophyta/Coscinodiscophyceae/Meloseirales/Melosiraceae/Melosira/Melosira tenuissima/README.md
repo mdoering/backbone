@@ -1,5 +1,4 @@
-Melosira tenuissima Grunow SPECIES
-=======
+# Melosira tenuissima Grunow SPECIES
 
 #### Status
 ACCEPTED

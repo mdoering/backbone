@@ -1,5 +1,4 @@
-Psilocybe vialis Murrill SPECIES
-=======
+# Psilocybe vialis Murrill SPECIES
 
 #### Status
 ACCEPTED

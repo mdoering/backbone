@@ -1,5 +1,4 @@
-Puccinia delphinii Dietel & Holw. SPECIES
-=======
+# Puccinia delphinii Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma termitomycoides Corner SPECIES
-=======
+# Tricholoma termitomycoides Corner SPECIES
 
 #### Status
 ACCEPTED

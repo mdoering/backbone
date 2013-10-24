@@ -1,5 +1,4 @@
-Aecidium meleagriis SPECIES
-=======
+# Aecidium meleagriis SPECIES
 
 #### Status
 ACCEPTED

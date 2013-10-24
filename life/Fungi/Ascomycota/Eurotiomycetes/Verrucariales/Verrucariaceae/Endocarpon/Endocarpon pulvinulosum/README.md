@@ -1,5 +1,4 @@
-Endocarpon pulvinulosum Harm. SPECIES
-=======
+# Endocarpon pulvinulosum Harm. SPECIES
 
 #### Status
 ACCEPTED

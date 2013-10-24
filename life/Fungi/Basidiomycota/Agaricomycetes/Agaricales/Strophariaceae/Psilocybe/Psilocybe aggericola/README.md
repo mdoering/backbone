@@ -1,5 +1,4 @@
-Psilocybe aggericola Singer & A.H. Sm. SPECIES
-=======
+# Psilocybe aggericola Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

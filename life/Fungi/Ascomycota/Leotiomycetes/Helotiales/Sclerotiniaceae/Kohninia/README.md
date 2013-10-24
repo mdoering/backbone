@@ -1,5 +1,4 @@
-Kohninia Holst-Jensen, Vrålstad & T. Schumach. GENUS
-=======
+# Kohninia Holst-Jensen, Vrålstad & T. Schumach. GENUS
 
 #### Status
 ACCEPTED

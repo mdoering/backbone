@@ -1,5 +1,4 @@
-Lithocia alpina (Arnold) M. Choisy SPECIES
-=======
+# Lithocia alpina (Arnold) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

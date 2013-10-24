@@ -1,5 +1,4 @@
-Clypeus homomorpha Singer SPECIES
-=======
+# Clypeus homomorpha Singer SPECIES
 
 #### Status
 ACCEPTED

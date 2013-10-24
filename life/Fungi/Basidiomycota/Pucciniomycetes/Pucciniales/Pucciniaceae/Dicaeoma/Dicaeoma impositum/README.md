@@ -1,5 +1,4 @@
-Dicaeoma impositum (Arthur) Arthur & Fromme SPECIES
-=======
+# Dicaeoma impositum (Arthur) Arthur & Fromme SPECIES
 
 #### Status
 ACCEPTED

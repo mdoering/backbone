@@ -1,5 +1,4 @@
-Pterula pterulicioides L.D. Gómez, 1972 SPECIES
-=======
+# Pterula pterulicioides L.D. Gómez, 1972 SPECIES
 
 #### Status
 ACCEPTED

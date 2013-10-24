@@ -1,5 +1,4 @@
-Grandinia cervina Lloyd SPECIES
-=======
+# Grandinia cervina Lloyd SPECIES
 
 #### Status
 ACCEPTED

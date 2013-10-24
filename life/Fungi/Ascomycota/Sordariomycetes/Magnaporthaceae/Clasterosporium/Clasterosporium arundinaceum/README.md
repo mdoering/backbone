@@ -1,5 +1,4 @@
-Clasterosporium arundinaceum P. Karst. SPECIES
-=======
+# Clasterosporium arundinaceum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

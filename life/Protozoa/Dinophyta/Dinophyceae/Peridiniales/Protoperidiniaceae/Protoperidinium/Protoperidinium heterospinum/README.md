@@ -1,5 +1,4 @@
-Protoperidinium heterospinum (Gaarder, 1954) Balech, 1974 SPECIES
-=======
+# Protoperidinium heterospinum (Gaarder, 1954) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

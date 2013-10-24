@@ -1,5 +1,4 @@
-Spelaeophryidae Jankowksi in Batisse, 1975 FAMILY
-=======
+# Spelaeophryidae Jankowksi in Batisse, 1975 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pistillaria inaequalis Lasch SPECIES
-=======
+# Pistillaria inaequalis Lasch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Emericella foeniculicola Udagawa, 1979 SPECIES
-=======
+# Emericella foeniculicola Udagawa, 1979 SPECIES
 
 #### Status
 ACCEPTED

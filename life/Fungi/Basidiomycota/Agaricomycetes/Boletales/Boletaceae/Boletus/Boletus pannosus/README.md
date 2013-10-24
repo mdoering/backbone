@@ -1,5 +1,4 @@
-Boletus pannosus Rostk. SPECIES
-=======
+# Boletus pannosus Rostk. SPECIES
 
 #### Status
 ACCEPTED

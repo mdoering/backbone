@@ -1,5 +1,4 @@
-Sargassum johnsonii V.J.Chapman SPECIES
-=======
+# Sargassum johnsonii V.J.Chapman SPECIES
 
 #### Status
 ACCEPTED

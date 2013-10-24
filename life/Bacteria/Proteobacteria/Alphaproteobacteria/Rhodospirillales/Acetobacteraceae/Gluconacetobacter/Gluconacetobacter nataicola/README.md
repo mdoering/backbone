@@ -1,5 +1,4 @@
-Gluconacetobacter nataicola Lisdiyanti et al., 2006 SPECIES
-=======
+# Gluconacetobacter nataicola Lisdiyanti et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

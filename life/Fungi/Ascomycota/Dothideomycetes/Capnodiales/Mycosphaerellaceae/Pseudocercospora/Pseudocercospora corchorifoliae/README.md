@@ -1,5 +1,4 @@
-Pseudocercospora corchorifoliae (Thirum. & Govindu) Deighton SPECIES
-=======
+# Pseudocercospora corchorifoliae (Thirum. & Govindu) Deighton SPECIES
 
 #### Status
 ACCEPTED

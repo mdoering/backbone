@@ -1,5 +1,4 @@
-Trametes similis Bres. SPECIES
-=======
+# Trametes similis Bres. SPECIES
 
 #### Status
 ACCEPTED

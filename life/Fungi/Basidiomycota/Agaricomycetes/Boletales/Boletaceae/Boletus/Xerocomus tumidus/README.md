@@ -1,5 +1,4 @@
-Xerocomus tumidus Heinem. SPECIES
-=======
+# Xerocomus tumidus Heinem. SPECIES
 
 #### Status
 ACCEPTED

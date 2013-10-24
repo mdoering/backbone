@@ -1,5 +1,4 @@
-Aecidium minussense Thüm. SPECIES
-=======
+# Aecidium minussense Thüm. SPECIES
 
 #### Status
 ACCEPTED

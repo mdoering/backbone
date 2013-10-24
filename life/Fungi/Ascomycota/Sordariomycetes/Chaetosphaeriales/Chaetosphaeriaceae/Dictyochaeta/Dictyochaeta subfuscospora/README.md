@@ -1,5 +1,4 @@
-Dictyochaeta subfuscospora Kuthub. & Nawawi SPECIES
-=======
+# Dictyochaeta subfuscospora Kuthub. & Nawawi SPECIES
 
 #### Status
 ACCEPTED

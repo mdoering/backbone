@@ -1,5 +1,4 @@
-Puccinia corticola Arthur & Rorer SPECIES
-=======
+# Puccinia corticola Arthur & Rorer SPECIES
 
 #### Status
 ACCEPTED

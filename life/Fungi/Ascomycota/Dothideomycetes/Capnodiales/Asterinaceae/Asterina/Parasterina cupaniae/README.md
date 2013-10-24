@@ -1,5 +1,4 @@
-Parasterina cupaniae Bat. & Cif. SPECIES
-=======
+# Parasterina cupaniae Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

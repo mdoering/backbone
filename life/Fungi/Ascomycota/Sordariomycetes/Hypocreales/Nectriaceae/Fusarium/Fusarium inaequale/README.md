@@ -1,5 +1,4 @@
-Fusarium inaequale Auersw. SPECIES
-=======
+# Fusarium inaequale Auersw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hanzawaia mantaensis Galloway & Morrey SPECIES
-=======
+# Hanzawaia mantaensis Galloway & Morrey SPECIES
 
 #### Status
 ACCEPTED

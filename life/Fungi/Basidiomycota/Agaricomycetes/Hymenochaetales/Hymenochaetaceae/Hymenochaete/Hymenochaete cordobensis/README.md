@@ -1,5 +1,4 @@
-Hymenochaete cordobensis Speg. SPECIES
-=======
+# Hymenochaete cordobensis Speg. SPECIES
 
 #### Status
 ACCEPTED

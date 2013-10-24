@@ -1,5 +1,4 @@
-Siphula ramalinoides Nyl. SPECIES
-=======
+# Siphula ramalinoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

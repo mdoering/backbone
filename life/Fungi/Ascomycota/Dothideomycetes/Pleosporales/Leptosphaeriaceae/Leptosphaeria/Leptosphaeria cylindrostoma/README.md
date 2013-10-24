@@ -1,5 +1,4 @@
-Leptosphaeria cylindrostoma Starbäck SPECIES
-=======
+# Leptosphaeria cylindrostoma Starbäck SPECIES
 
 #### Status
 ACCEPTED

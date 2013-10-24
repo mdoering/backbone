@@ -1,5 +1,4 @@
-Agaricus mouceron Vittad. SPECIES
-=======
+# Agaricus mouceron Vittad. SPECIES
 
 #### Status
 ACCEPTED

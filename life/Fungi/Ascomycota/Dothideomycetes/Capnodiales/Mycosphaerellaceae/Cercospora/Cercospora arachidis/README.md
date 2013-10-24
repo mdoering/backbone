@@ -1,5 +1,4 @@
-Cercospora arachidis Henn. SPECIES
-=======
+# Cercospora arachidis Henn. SPECIES
 
 #### Status
 ACCEPTED

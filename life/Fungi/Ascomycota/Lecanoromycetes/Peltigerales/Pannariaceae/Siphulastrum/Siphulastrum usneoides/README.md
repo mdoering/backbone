@@ -1,5 +1,4 @@
-Siphulastrum usneoides C.W. Dodge SPECIES
-=======
+# Siphulastrum usneoides C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricostilbales Oberw. & R. Bauer ORDER
-=======
+# Agaricostilbales Oberw. & R. Bauer ORDER
 
 #### Status
 ACCEPTED

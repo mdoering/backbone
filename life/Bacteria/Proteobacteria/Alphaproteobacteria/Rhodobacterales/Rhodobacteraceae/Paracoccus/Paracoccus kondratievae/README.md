@@ -1,5 +1,4 @@
-Paracoccus kondratievae Doronina & Trotsenko, 2001 SPECIES
-=======
+# Paracoccus kondratievae Doronina & Trotsenko, 2001 SPECIES
 
 #### Status
 ACCEPTED

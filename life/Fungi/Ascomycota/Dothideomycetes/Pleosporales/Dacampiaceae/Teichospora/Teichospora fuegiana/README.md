@@ -1,5 +1,4 @@
-Teichospora fuegiana Speg. SPECIES
-=======
+# Teichospora fuegiana Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerotheca spiralis Neger SPECIES
-=======
+# Sphaerotheca spiralis Neger SPECIES
 
 #### Status
 ACCEPTED

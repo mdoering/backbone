@@ -1,5 +1,4 @@
-Puccinia crassa Link SPECIES
-=======
+# Puccinia crassa Link SPECIES
 
 #### Status
 ACCEPTED

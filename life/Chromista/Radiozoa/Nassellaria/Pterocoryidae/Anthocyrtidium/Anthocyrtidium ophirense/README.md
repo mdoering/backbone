@@ -1,5 +1,4 @@
-Anthocyrtidium ophirense (Ehrenberg) Petrushevskaya, 1968 SPECIES
-=======
+# Anthocyrtidium ophirense (Ehrenberg) Petrushevskaya, 1968 SPECIES
 
 #### Status
 ACCEPTED

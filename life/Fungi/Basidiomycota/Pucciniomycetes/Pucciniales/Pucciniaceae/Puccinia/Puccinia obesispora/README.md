@@ -1,5 +1,4 @@
-Puccinia obesispora Arthur SPECIES
-=======
+# Puccinia obesispora Arthur SPECIES
 
 #### Status
 ACCEPTED

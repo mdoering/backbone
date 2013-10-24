@@ -1,5 +1,4 @@
-Colletotrichum cradwickii C.K. Bancr. SPECIES
-=======
+# Colletotrichum cradwickii C.K. Bancr. SPECIES
 
 #### Status
 ACCEPTED

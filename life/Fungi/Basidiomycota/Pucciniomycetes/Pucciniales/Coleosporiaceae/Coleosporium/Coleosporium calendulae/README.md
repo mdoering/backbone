@@ -1,5 +1,4 @@
-Coleosporium calendulae Speg. SPECIES
-=======
+# Coleosporium calendulae Speg. SPECIES
 
 #### Status
 ACCEPTED

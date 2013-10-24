@@ -1,5 +1,4 @@
-Mycosphaerella coggyriae Zerova SPECIES
-=======
+# Mycosphaerella coggyriae Zerova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea yakushimensis Asahina SPECIES
-=======
+# Usnea yakushimensis Asahina SPECIES
 
 #### Status
 ACCEPTED

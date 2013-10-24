@@ -1,5 +1,4 @@
-Lactarius uyedae Singer SPECIES
-=======
+# Lactarius uyedae Singer SPECIES
 
 #### Status
 ACCEPTED

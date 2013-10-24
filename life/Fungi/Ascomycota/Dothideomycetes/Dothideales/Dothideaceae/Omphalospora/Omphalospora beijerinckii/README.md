@@ -1,5 +1,4 @@
-Omphalospora beijerinckii Oudem. SPECIES
-=======
+# Omphalospora beijerinckii Oudem. SPECIES
 
 #### Status
 ACCEPTED

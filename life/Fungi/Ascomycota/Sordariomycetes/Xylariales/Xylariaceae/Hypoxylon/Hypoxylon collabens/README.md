@@ -1,5 +1,4 @@
-Hypoxylon collabens Theiss. SPECIES
-=======
+# Hypoxylon collabens Theiss. SPECIES
 
 #### Status
 ACCEPTED

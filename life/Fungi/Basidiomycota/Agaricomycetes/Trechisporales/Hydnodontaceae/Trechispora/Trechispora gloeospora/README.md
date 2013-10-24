@@ -1,5 +1,4 @@
-Trechispora gloeospora (Warcup & P.H.B. Talbot) Liberta SPECIES
-=======
+# Trechispora gloeospora (Warcup & P.H.B. Talbot) Liberta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Platysma calycare (L.) Frege SPECIES
-=======
+# Platysma calicare (L.) Frege SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

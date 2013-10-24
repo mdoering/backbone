@@ -1,5 +1,4 @@
-Graphis lactinella Spreng. SPECIES
-=======
+# Graphis lactinella Spreng. SPECIES
 
 #### Status
 ACCEPTED

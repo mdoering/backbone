@@ -1,8 +1,7 @@
-Enchelyodon vermiformis Dragesco, 1970 SPECIES
-=======
+# Enchelyodon vermiforme Dragesco, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

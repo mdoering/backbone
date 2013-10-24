@@ -1,5 +1,4 @@
-Coniothecium antarcticum Speg. SPECIES
-=======
+# Coniothecium antarcticum Speg. SPECIES
 
 #### Status
 ACCEPTED

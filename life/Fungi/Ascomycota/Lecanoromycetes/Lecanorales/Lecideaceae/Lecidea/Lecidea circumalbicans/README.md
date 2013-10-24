@@ -1,5 +1,4 @@
-Lecidea circumalbicans Nyl. SPECIES
-=======
+# Lecidea circumalbicans Nyl. SPECIES
 
 #### Status
 ACCEPTED

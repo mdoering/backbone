@@ -1,5 +1,4 @@
-Verrucaria vallorcinensis Croz. SPECIES
-=======
+# Verrucaria vallorcinensis Croz. SPECIES
 
 #### Status
 ACCEPTED

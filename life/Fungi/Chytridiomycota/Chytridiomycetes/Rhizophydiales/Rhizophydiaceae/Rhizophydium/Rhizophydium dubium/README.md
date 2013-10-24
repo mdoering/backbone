@@ -1,5 +1,4 @@
-Rhizophydium dubium De Wild. SPECIES
-=======
+# Rhizophydium dubium De Wild. SPECIES
 
 #### Status
 ACCEPTED

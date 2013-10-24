@@ -1,5 +1,4 @@
-Boletus calceolaris Vent. SPECIES
-=======
+# Boletus calceolaris Vent. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina melanconia Vain. SPECIES
-=======
+# Rinodina melanconia Vain. SPECIES
 
 #### Status
 ACCEPTED

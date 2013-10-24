@@ -1,5 +1,4 @@
-Asterostomella daphniphylli Hosag. & K. Ravik. SPECIES
-=======
+# Asterostomella daphniphylli Hosag. & K. Ravik. SPECIES
 
 #### Status
 ACCEPTED

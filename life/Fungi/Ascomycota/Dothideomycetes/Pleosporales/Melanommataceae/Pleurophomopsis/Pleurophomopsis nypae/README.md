@@ -1,5 +1,4 @@
-Pleurophomopsis nypae K.D. Hyde & B. Sutton, 1992 SPECIES
-=======
+# Pleurophomopsis nypae K.D. Hyde & B. Sutton, 1992 SPECIES
 
 #### Status
 ACCEPTED

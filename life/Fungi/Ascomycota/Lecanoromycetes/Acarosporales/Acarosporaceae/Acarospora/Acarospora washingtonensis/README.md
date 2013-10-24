@@ -1,5 +1,4 @@
-Acarospora washingtonensis H. Magn. SPECIES
-=======
+# Acarospora washingtonensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

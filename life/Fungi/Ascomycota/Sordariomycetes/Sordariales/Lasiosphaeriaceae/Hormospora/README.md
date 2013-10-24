@@ -1,5 +1,4 @@
-Hormospora GENUS
-=======
+# Hormospora GENUS
 
 #### Status
 ACCEPTED

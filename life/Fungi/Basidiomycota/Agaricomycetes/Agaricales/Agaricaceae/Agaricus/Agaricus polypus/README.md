@@ -1,5 +1,4 @@
-Agaricus polypus Kalchbr. SPECIES
-=======
+# Agaricus polypus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

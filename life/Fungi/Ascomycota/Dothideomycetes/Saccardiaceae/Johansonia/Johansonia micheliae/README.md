@@ -1,5 +1,4 @@
-Johansonia micheliae S.K. Bose & E. Müll., 1965 SPECIES
-=======
+# Johansonia micheliae S.K. Bose & E. Müll., 1965 SPECIES
 
 #### Status
 ACCEPTED

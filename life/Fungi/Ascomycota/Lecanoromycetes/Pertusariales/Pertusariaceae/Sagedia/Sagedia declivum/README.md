@@ -1,5 +1,4 @@
-Sagedia declivum Bagl. & Carestia SPECIES
-=======
+# Sagedia declivum Bagl. & Carestia SPECIES
 
 #### Status
 ACCEPTED

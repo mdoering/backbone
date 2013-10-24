@@ -1,5 +1,4 @@
-Cirsosia hughesii Bat. & H. Maia SPECIES
-=======
+# Cirsosia hughesii Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

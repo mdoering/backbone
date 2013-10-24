@@ -1,5 +1,4 @@
-Macrophoma clematidis Tognini SPECIES
-=======
+# Macrophoma clematidis Tognini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kretzschmaria parvistroma Mugambi, Huhndorf & J.D. Rogers, 2009 SPECIES
-=======
+# Kretzschmaria parvistroma Mugambi, Huhndorf & J.D. Rogers, 2009 SPECIES
 
 #### Status
 ACCEPTED

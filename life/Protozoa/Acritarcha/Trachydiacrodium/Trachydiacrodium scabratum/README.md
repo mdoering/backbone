@@ -1,5 +1,4 @@
-Trachydiacrodium scabratum Ouyang Shu et al., 1974 SPECIES
-=======
+# Trachydiacrodium scabratum Ouyang Shu et al., 1974 SPECIES
 
 #### Status
 ACCEPTED

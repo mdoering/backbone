@@ -1,5 +1,4 @@
-Collybia lutea Massee SPECIES
-=======
+# Collybia lutea Massee SPECIES
 
 #### Status
 ACCEPTED

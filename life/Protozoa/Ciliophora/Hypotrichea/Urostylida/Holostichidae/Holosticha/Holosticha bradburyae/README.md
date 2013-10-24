@@ -1,5 +1,4 @@
-Holosticha bradburyae Gong, Song, Hu, Ma & Zhu, 2001 SPECIES
-=======
+# Holosticha bradburyae Gong, Song, Hu, Ma & Zhu, 2001 SPECIES
 
 #### Status
 ACCEPTED

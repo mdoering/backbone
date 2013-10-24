@@ -1,5 +1,4 @@
-Pluteus subspinulosus E. Horak SPECIES
-=======
+# Pluteus subspinulosus E. Horak SPECIES
 
 #### Status
 ACCEPTED

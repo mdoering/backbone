@@ -1,5 +1,4 @@
-Sphaeria hypocreoides Henn. SPECIES
-=======
+# Sphaeria hypocreoides Henn. SPECIES
 
 #### Status
 ACCEPTED

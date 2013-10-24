@@ -1,5 +1,4 @@
-Crepidotus quitensis Pat. SPECIES
-=======
+# Crepidotus quitensis Pat. SPECIES
 
 #### Status
 ACCEPTED

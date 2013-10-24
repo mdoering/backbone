@@ -1,5 +1,4 @@
-Allomorphina lamegoi Tinoco, 1958 SPECIES
-=======
+# Allomorphina lamegoi Tinoco, 1958 SPECIES
 
 #### Status
 ACCEPTED

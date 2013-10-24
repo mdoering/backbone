@@ -1,8 +1,7 @@
-Kentrophoros tubiformis (Raikov & Kovaleva in Kovaleva, 1966) Raikov SPECIES
-=======
+# Kentrophoros fistulosus (Faure-Fremiet, 1950) Foissner, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

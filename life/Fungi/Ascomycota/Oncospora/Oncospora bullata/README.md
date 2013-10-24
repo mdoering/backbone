@@ -1,5 +1,4 @@
-Oncospora bullata Kalchbr. & Cooke, 1880 SPECIES
-=======
+# Oncospora bullata Kalchbr. & Cooke, 1880 SPECIES
 
 #### Status
 ACCEPTED

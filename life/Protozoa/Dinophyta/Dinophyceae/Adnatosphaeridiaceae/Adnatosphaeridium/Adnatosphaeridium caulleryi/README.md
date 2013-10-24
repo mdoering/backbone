@@ -1,5 +1,4 @@
-Adnatosphaeridium caulleryi (Deflandre, 1938) Williams & Downie SPECIES
-=======
+# Adnatosphaeridium caulleryi (Deflandre, 1938) Williams & Downie SPECIES
 
 #### Status
 ACCEPTED

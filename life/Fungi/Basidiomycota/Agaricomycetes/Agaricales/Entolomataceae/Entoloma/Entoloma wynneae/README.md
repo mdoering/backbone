@@ -1,8 +1,7 @@
-Leptonia wynneae (Berk. & Broome) P.D. Orton, 1991 SPECIES
-=======
+# Entoloma wynneae (Berk. & Broome) Sacc., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

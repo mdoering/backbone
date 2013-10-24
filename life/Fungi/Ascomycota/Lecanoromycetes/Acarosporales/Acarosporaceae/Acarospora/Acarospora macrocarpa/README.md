@@ -1,5 +1,4 @@
-Acarospora macrocarpa H. Magn. SPECIES
-=======
+# Acarospora macrocarpa H. Magn. SPECIES
 
 #### Status
 ACCEPTED

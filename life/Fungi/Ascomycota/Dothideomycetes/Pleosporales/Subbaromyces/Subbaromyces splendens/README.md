@@ -1,14 +1,13 @@
-Klasterskya splendens (Hesselt.) Arx, 1981 SPECIES
-=======
+# Subbaromyces splendens Hesselt., 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. Fungi Sporul. Cult. (Vaduz), Edn 3 168 (1981)
+Bull. Torrey bot. Club 80: 511 (1953)
 
 #### Original name
 Subbaromyces splendens Hesselt., 1953

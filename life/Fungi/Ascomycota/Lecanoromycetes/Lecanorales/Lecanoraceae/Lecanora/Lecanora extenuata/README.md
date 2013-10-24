@@ -1,5 +1,4 @@
-Lecanora extenuata var. extenuata H. Magn. VARIETY
-=======
+# Lecanora extenuata H. Magn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora extenuata var. extenuata H. Magn.
+Lecanora extenuata H. Magn.
 
 ### Remarks
 null

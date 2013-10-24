@@ -1,5 +1,4 @@
-Entoloma distinctum E. Horak, 2008 SPECIES
-=======
+# Entoloma distinctum E. Horak, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mesocarinina McCulloch, 1977 GENUS
-=======
+# Mesocarinina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

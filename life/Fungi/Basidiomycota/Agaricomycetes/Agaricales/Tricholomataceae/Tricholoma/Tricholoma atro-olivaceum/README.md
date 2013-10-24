@@ -1,5 +1,4 @@
-Tricholoma atro-olivaceum Rick SPECIES
-=======
+# Tricholoma atro-olivaceum Rick SPECIES
 
 #### Status
 ACCEPTED

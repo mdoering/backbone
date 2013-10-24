@@ -1,5 +1,4 @@
-Patellaria albozonaria DC. SPECIES
-=======
+# Patellaria albozonaria DC. SPECIES
 
 #### Status
 ACCEPTED

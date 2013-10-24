@@ -1,5 +1,4 @@
-Stereomyxa Grell, 1965 GENUS
-=======
+# Stereomyxa Grell, 1965 GENUS
 
 #### Status
 ACCEPTED

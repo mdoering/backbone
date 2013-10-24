@@ -1,5 +1,4 @@
-Oidium santalacearum U. Braun & Hosag. SPECIES
-=======
+# Oidium santalacearum U. Braun & Hosag. SPECIES
 
 #### Status
 ACCEPTED

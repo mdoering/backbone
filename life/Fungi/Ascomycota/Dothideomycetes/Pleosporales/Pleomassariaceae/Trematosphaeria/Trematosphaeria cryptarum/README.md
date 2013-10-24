@@ -1,5 +1,4 @@
-Trematosphaeria cryptarum Fuckel SPECIES
-=======
+# Trematosphaeria cryptarum Fuckel SPECIES
 
 #### Status
 ACCEPTED

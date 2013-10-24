@@ -1,14 +1,13 @@
-Arthonia subvarians var. apotheciorum (A. Massal.) H. Olivier VARIETY
-=======
+# Arthonia clemens (Tul.) Th. Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+K. svenska Vetensk-Akad. Handl. 7(2): 46 (1867)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Chiodecton africanum Fée SPECIES
-=======
+# Chiodecton africanum Fée SPECIES
 
 #### Status
 ACCEPTED

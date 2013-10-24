@@ -1,5 +1,4 @@
-Arthonia dispuncta Nyl. SPECIES
-=======
+# Arthonia dispuncta Nyl. SPECIES
 
 #### Status
 ACCEPTED

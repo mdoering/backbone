@@ -1,5 +1,4 @@
-Synedra delicatissima W. Smith SPECIES
-=======
+# Synedra delicatissima W. Smith SPECIES
 
 #### Status
 ACCEPTED

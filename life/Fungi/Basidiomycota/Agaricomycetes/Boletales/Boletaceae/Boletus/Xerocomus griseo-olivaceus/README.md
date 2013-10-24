@@ -1,5 +1,4 @@
-Xerocomus griseo-olivaceus McNabb, 1968 SPECIES
-=======
+# Xerocomus griseo-olivaceus McNabb, 1968 SPECIES
 
 #### Status
 ACCEPTED

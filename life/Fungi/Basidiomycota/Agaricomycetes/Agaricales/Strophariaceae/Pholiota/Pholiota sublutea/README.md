@@ -1,5 +1,4 @@
-Pholiota sublutea (Vahl) P. Karst. SPECIES
-=======
+# Pholiota sublutea (Vahl) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

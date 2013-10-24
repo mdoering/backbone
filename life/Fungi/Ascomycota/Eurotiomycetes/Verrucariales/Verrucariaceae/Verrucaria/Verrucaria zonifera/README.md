@@ -1,5 +1,4 @@
-Verrucaria zonifera Servít SPECIES
-=======
+# Verrucaria zonifera Servít SPECIES
 
 #### Status
 ACCEPTED

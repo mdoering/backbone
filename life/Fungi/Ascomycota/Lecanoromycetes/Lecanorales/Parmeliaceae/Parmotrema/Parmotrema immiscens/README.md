@@ -1,5 +1,4 @@
-Parmotrema immiscens (Nyl.) Kurok. SPECIES
-=======
+# Parmotrema immiscens (Nyl.) Kurok. SPECIES
 
 #### Status
 ACCEPTED

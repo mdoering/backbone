@@ -1,5 +1,4 @@
-Holosticha simplex SPECIES
-=======
+# Holosticha simplex SPECIES
 
 #### Status
 ACCEPTED

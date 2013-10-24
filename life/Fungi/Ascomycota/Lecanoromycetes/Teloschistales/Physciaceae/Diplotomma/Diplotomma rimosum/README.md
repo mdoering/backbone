@@ -1,5 +1,4 @@
-Diplotomma rimosum SPECIES
-=======
+# Diplotomma rimosum SPECIES
 
 #### Status
 ACCEPTED

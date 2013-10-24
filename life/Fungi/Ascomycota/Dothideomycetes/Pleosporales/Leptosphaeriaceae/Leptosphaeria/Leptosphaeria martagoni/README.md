@@ -1,5 +1,4 @@
-Leptosphaeria martagoni Losa SPECIES
-=======
+# Leptosphaeria martagoni Losa SPECIES
 
 #### Status
 ACCEPTED

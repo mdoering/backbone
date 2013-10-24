@@ -1,5 +1,4 @@
-Pholiota broadwayi Murrill SPECIES
-=======
+# Pholiota broadwayi Murrill SPECIES
 
 #### Status
 ACCEPTED

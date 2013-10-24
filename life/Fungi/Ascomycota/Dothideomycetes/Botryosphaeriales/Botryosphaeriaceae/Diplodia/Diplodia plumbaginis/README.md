@@ -1,5 +1,4 @@
-Diplodia plumbaginis Politis SPECIES
-=======
+# Diplodia plumbaginis Politis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis renschiana (Müll. Arg.) Stizenb. SPECIES
-=======
+# Graphis renschiana (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

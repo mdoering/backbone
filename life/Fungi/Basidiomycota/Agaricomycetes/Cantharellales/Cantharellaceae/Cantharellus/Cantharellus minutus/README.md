@@ -1,5 +1,4 @@
-Cantharellus minutus Velen. SPECIES
-=======
+# Cantharellus minutus Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Solatisphaera E.R. Wicander & A.R. Loeblich Jr., 1977 GENUS
-=======
+# Solatisphaera E.R. Wicander & A.R. Loeblich Jr., 1977 GENUS
 
 #### Status
 ACCEPTED

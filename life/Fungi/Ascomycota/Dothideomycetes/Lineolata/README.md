@@ -1,5 +1,4 @@
-Lineolata Kohlm. & Volkm.-Kohlm. GENUS
-=======
+# Lineolata Kohlm. & Volkm.-Kohlm. GENUS
 
 #### Status
 ACCEPTED

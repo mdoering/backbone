@@ -1,5 +1,4 @@
-Usnea acanthera Motyka SPECIES
-=======
+# Usnea acanthera Motyka SPECIES
 
 #### Status
 ACCEPTED

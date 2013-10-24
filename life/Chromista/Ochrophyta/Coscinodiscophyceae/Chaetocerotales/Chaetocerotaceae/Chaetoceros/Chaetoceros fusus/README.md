@@ -1,5 +1,4 @@
-Chaetoceros fusus Schütt, 1895 SPECIES
-=======
+# Chaetoceros fusus Schütt, 1895 SPECIES
 
 #### Status
 ACCEPTED

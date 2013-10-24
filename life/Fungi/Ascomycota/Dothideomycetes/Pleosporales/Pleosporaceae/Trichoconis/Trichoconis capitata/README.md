@@ -1,5 +1,4 @@
-Trichoconis capitata Piroz. SPECIES
-=======
+# Trichoconis capitata Piroz. SPECIES
 
 #### Status
 ACCEPTED

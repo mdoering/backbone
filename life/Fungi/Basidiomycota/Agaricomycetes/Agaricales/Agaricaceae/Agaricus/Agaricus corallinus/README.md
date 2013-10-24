@@ -1,5 +1,4 @@
-Agaricus corallinus J.F. Gmel. SPECIES
-=======
+# Agaricus corallinus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

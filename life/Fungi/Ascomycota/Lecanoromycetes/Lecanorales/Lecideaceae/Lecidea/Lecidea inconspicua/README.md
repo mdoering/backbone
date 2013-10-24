@@ -1,5 +1,4 @@
-Lecidea inconspicua (Elenkin) Zahlbr. SPECIES
-=======
+# Lecidea inconspicua (Elenkin) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cladosporium lysimachiae Guba, 1930 SPECIES
-=======
+# Fusicladium lysimachiae (Guba) K. Schub. & U. Braun, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rhodora 513 (1930)
+Mycol. Progr. 4(2): 102 (2005)
 
 #### Original name
 Cladosporium lysimachiae Guba, 1930

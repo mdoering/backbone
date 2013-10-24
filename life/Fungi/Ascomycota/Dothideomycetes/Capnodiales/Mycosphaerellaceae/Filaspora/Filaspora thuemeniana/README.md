@@ -1,5 +1,4 @@
-Filaspora thuemeniana (Pass.) Kuntze SPECIES
-=======
+# Filaspora thuemeniana (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

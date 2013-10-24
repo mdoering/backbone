@@ -1,5 +1,4 @@
-Chlorangium esculentum (Pall.) Rabenh. SPECIES
-=======
+# Chlorangium esculentum (Pall.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

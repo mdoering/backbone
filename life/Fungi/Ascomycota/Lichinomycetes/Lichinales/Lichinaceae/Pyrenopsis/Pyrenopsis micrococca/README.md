@@ -1,14 +1,13 @@
-Synalissa micrococca Bornet & Nyl. SPECIES
-=======
+# Pyrenopsis micrococca (Bornet & Nyl.) Forssell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Acta R. Soc. Scient. upsal. , Ser. 3 13: 45 (1885)
 
 #### Original name
 Synalissa micrococca Bornet & Nyl.

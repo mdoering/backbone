@@ -1,5 +1,4 @@
-Cordyceps agariciformis (Bolton) Seaver SPECIES
-=======
+# Cordyceps agariciformis (Bolton) Seaver SPECIES
 
 #### Status
 ACCEPTED

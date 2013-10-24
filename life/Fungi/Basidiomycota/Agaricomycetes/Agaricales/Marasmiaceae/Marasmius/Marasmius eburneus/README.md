@@ -1,5 +1,4 @@
-Marasmius eburneus Theiss. SPECIES
-=======
+# Marasmius eburneus Theiss. SPECIES
 
 #### Status
 ACCEPTED

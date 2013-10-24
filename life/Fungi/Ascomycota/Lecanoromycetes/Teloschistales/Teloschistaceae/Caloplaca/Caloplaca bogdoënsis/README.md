@@ -1,5 +1,4 @@
-Caloplaca bogdoënsis (Mereschk.) Zahlbr. SPECIES
-=======
+# Caloplaca bogdoënsis (Mereschk.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

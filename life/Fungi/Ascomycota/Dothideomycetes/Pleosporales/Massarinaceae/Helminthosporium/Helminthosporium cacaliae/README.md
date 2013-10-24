@@ -1,5 +1,4 @@
-Helminthosporium cacaliae Viégas SPECIES
-=======
+# Helminthosporium cacaliae Viégas SPECIES
 
 #### Status
 ACCEPTED

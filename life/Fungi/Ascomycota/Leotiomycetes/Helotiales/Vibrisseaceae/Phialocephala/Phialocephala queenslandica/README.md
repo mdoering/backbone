@@ -1,5 +1,4 @@
-Phialocephala queenslandica Matsush. SPECIES
-=======
+# Phialocephala queenslandica Matsush. SPECIES
 
 #### Status
 ACCEPTED

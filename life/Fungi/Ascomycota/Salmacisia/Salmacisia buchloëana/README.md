@@ -1,5 +1,4 @@
-Salmacisia buchloëana (Kellerm. & Swingle) D.R. Huff & Amb. Chandra SPECIES
-=======
+# Salmacisia buchloëana (Kellerm. & Swingle) D.R. Huff & Amb. Chandra SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia aptrootii Sipman SPECIES
-=======
+# Buellia aptrootii Sipman SPECIES
 
 #### Status
 ACCEPTED

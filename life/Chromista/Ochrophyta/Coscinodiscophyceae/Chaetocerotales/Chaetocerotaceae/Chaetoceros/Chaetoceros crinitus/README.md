@@ -1,5 +1,4 @@
-Chaetoceros crinitus Schutt SPECIES
-=======
+# Chaetoceros crinitus Schutt SPECIES
 
 #### Status
 ACCEPTED

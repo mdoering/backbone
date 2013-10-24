@@ -1,5 +1,4 @@
-Sclerotium intestinum Petr. & Scharif SPECIES
-=======
+# Sclerotium intestinum Petr. & Scharif SPECIES
 
 #### Status
 ACCEPTED

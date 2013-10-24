@@ -1,5 +1,4 @@
-Cladina conspicua Ahti SPECIES
-=======
+# Cladina conspicua Ahti SPECIES
 
 #### Status
 ACCEPTED

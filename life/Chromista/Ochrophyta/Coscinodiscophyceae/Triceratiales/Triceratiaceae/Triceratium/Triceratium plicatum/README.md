@@ -1,5 +1,4 @@
-Triceratium plicatum Grunow SPECIES
-=======
+# Triceratium plicatum Grunow SPECIES
 
 #### Status
 ACCEPTED

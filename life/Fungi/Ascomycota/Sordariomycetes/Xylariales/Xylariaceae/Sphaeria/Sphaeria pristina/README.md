@@ -1,5 +1,4 @@
-Sphaeria pristina Ettingsh. SPECIES
-=======
+# Sphaeria pristina Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

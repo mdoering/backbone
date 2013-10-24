@@ -1,5 +1,4 @@
-Rhizosolenia crassa Schimper, 1905 SPECIES
-=======
+# Rhizosolenia crassa Schimper, 1905 SPECIES
 
 #### Status
 ACCEPTED

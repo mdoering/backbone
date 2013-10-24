@@ -1,5 +1,4 @@
-Botryosphaeria juniperi (Desm.) Weese SPECIES
-=======
+# Botryosphaeria juniperi (Desm.) Weese SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercidospora mali (Ellis & Everh.) Kuntze SPECIES
-=======
+# Cercidospora mali (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

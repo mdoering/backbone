@@ -1,5 +1,4 @@
-Skermanella Sly & Stackebrandt, 1999 GENUS
-=======
+# Skermanella Sly & Stackebrandt, 1999 GENUS
 
 #### Status
 ACCEPTED

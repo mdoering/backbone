@@ -1,5 +1,4 @@
-Podoxyphium mayteni Bat. SPECIES
-=======
+# Podoxyphium mayteni Bat. SPECIES
 
 #### Status
 ACCEPTED

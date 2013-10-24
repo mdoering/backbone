@@ -1,5 +1,4 @@
-Uncinula togashiana var. togashiana VARIETY
-=======
+# Uncinula togashiana U. Braun SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycotaxon 15: 141 (1982)
 
 #### Original name
-Uncinula togashiana var. togashiana
+Uncinula togashiana U. Braun
 
 ### Remarks
 null

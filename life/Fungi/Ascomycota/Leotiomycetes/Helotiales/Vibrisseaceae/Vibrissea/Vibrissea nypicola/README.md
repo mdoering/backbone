@@ -1,5 +1,4 @@
-Vibrissea nypicola K.D. Hyde & Alias, 1999 SPECIES
-=======
+# Vibrissea nypicola K.D. Hyde & Alias, 1999 SPECIES
 
 #### Status
 ACCEPTED

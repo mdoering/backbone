@@ -1,5 +1,4 @@
-Octospora paechnatzii (Benkert) Yei Z. Wang SPECIES
-=======
+# Octospora paechnatzii (Benkert) Yei Z. Wang SPECIES
 
 #### Status
 ACCEPTED

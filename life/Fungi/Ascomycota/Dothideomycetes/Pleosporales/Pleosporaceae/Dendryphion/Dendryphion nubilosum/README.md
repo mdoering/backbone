@@ -1,5 +1,4 @@
-Dendryphion nubilosum Ellis & Everh. SPECIES
-=======
+# Dendryphion nubilosum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

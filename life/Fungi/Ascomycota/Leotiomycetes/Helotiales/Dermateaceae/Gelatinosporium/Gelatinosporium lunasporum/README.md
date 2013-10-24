@@ -1,5 +1,4 @@
-Gelatinosporium lunasporum (Linder) A. Funk SPECIES
-=======
+# Gelatinosporium lunasporum (Linder) A. Funk SPECIES
 
 #### Status
 ACCEPTED

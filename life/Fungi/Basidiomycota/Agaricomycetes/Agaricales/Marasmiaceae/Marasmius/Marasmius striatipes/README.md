@@ -1,5 +1,4 @@
-Marasmius striatipes Peck SPECIES
-=======
+# Marasmius striatipes Peck SPECIES
 
 #### Status
 ACCEPTED

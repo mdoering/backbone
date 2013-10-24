@@ -1,5 +1,4 @@
-Pezizella cinerascens Velen. SPECIES
-=======
+# Pezizella cinerascens Velen. SPECIES
 
 #### Status
 ACCEPTED

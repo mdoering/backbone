@@ -1,5 +1,4 @@
-Ustilago paradoxa Syd. & P. Syd. SPECIES
-=======
+# Ustilago paradoxa Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

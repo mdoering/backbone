@@ -1,5 +1,4 @@
-Lichen viridatus J.F. Gmel. SPECIES
-=======
+# Lichen viridatus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

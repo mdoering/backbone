@@ -1,5 +1,4 @@
-Diplodia celastrina Ellis & Everh. SPECIES
-=======
+# Diplodia celastrina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

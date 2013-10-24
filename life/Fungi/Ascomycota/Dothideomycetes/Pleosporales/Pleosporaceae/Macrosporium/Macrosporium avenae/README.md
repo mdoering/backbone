@@ -1,5 +1,4 @@
-Macrosporium avenae Oudem. SPECIES
-=======
+# Macrosporium avenae Oudem. SPECIES
 
 #### Status
 ACCEPTED

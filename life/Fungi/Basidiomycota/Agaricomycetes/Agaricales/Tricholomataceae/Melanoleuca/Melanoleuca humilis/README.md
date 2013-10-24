@@ -1,17 +1,16 @@
-Tricholoma humile f. humile FORM
-=======
+# Melanoleuca humilis (Pers.) Pat., 1900 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Soc. Émul. Montbéliard, Sér. 2 5: 2 (1872)
+Essai Tax. Hyménomyc. (Lons-le-Saunier) 159 (1900)
 
 #### Original name
-Tricholoma humile f. humile
+Agaricus humilis Pers., 1801
 
 ### Remarks
 null

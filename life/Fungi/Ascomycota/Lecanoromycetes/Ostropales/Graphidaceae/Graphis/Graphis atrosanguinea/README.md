@@ -1,5 +1,4 @@
-Graphis atrosanguinea Zenker SPECIES
-=======
+# Graphis atrosanguinea Zenker SPECIES
 
 #### Status
 ACCEPTED

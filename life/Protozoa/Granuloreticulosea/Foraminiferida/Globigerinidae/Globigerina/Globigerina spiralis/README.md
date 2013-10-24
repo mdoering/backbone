@@ -1,5 +1,4 @@
-Globigerina spiralis Bolli SPECIES
-=======
+# Globigerina spiralis Bolli SPECIES
 
 #### Status
 ACCEPTED

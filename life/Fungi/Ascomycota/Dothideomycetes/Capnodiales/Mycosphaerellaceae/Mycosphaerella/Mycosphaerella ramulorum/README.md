@@ -1,5 +1,4 @@
-Mycosphaerella ramulorum Pass. SPECIES
-=======
+# Mycosphaerella ramulorum Pass. SPECIES
 
 #### Status
 ACCEPTED

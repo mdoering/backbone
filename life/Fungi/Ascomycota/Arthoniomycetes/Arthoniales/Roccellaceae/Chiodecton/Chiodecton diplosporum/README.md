@@ -1,5 +1,4 @@
-Chiodecton diplosporum Nyl. SPECIES
-=======
+# Chiodecton diplosporum Nyl. SPECIES
 
 #### Status
 ACCEPTED

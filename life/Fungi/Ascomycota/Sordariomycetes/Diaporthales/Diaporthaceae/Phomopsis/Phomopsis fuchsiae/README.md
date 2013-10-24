@@ -1,5 +1,4 @@
-Phomopsis fuchsiae (Brunaud) Sacc. SPECIES
-=======
+# Phomopsis fuchsiae (Brunaud) Sacc. SPECIES
 
 #### Status
 ACCEPTED

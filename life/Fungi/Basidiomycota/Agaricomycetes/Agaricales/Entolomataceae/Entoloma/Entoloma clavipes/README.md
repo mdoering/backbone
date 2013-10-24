@@ -1,5 +1,4 @@
-Entoloma clavipes Hesler SPECIES
-=======
+# Entoloma clavipes Hesler SPECIES
 
 #### Status
 ACCEPTED

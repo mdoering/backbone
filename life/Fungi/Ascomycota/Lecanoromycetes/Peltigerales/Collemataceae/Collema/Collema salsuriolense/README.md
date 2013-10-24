@@ -1,5 +1,4 @@
-Collema salsuriolense Harm. SPECIES
-=======
+# Collema salsuriolense Harm. SPECIES
 
 #### Status
 ACCEPTED

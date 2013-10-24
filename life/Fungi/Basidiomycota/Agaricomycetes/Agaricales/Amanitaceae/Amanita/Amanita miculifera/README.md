@@ -1,5 +1,4 @@
-Amanita miculifera Bas & Hatan. SPECIES
-=======
+# Amanita miculifera Bas & Hatan. SPECIES
 
 #### Status
 ACCEPTED

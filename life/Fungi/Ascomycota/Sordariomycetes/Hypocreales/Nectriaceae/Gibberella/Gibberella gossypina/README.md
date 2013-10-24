@@ -1,5 +1,4 @@
-Gibberella gossypina Av.-Saccá SPECIES
-=======
+# Gibberella gossypina Av.-Saccá SPECIES
 
 #### Status
 ACCEPTED

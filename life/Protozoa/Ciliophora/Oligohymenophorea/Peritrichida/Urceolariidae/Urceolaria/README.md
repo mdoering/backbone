@@ -1,5 +1,4 @@
-Urceolaria Stein, 1854 GENUS
-=======
+# Urceolaria Stein, 1854 GENUS
 
 #### Status
 ACCEPTED

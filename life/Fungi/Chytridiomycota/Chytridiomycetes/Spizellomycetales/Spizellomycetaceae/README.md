@@ -1,5 +1,4 @@
-Spizellomycetaceae D.J.S. Barr FAMILY
-=======
+# Spizellomycetaceae D.J.S. Barr FAMILY
 
 #### Status
 ACCEPTED

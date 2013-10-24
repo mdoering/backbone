@@ -1,5 +1,4 @@
-Tiptonina Lamb & Miller, 1984 GENUS
-=======
+# Tiptonina Lamb & Miller, 1984 GENUS
 
 #### Status
 ACCEPTED

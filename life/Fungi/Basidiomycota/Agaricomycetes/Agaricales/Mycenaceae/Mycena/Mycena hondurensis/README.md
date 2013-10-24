@@ -1,5 +1,4 @@
-Mycena hondurensis A.H. Sm. SPECIES
-=======
+# Mycena hondurensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

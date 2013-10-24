@@ -1,5 +1,4 @@
-Mantellum rubrum R. Tavera & J. Komárek SPECIES
-=======
+# Mantellum rubrum R. Tavera & J. Komárek SPECIES
 
 #### Status
 ACCEPTED

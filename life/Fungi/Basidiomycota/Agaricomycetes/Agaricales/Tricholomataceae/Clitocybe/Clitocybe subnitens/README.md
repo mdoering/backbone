@@ -1,5 +1,4 @@
-Clitocybe subnitens H.E. Bigelow SPECIES
-=======
+# Clitocybe subnitens H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

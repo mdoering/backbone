@@ -1,17 +1,16 @@
-Sphaerotheca aphanis var. aphanis VARIETY
-=======
+# Podosphaera aphanis (Wallr.) U. Braun & S. Takam., 2000 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 15: 136 (1982)
+Schlechtendalia 4: 26 (2000)
 
 #### Original name
-Sphaerotheca aphanis var. aphanis
+Alphitomorpha aphanis Wallr., 1819
 
 ### Remarks
 null

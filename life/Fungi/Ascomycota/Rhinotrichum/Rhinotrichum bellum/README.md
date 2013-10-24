@@ -1,5 +1,4 @@
-Rhinotrichum bellum Berk. & M.A. Curtis SPECIES
-=======
+# Rhinotrichum bellum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

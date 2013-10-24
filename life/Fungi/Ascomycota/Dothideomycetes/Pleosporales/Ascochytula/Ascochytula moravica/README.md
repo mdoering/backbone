@@ -1,5 +1,4 @@
-Ascochytula moravica Petr. SPECIES
-=======
+# Ascochytula moravica Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca avium Imshaug SPECIES
-=======
+# Caloplaca avium Imshaug SPECIES
 
 #### Status
 ACCEPTED

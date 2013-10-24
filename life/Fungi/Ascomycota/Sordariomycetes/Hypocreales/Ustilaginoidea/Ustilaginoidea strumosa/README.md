@@ -1,5 +1,4 @@
-Ustilaginoidea strumosa (Cooke) G.P. Clinton SPECIES
-=======
+# Ustilaginoidea strumosa (Cooke) G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

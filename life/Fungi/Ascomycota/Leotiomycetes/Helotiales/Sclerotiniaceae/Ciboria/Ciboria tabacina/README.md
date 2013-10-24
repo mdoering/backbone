@@ -1,5 +1,4 @@
-Ciboria tabacina Ellis & Holw. SPECIES
-=======
+# Ciboria tabacina Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

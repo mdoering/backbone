@@ -1,5 +1,4 @@
-Cladonia southlandica W. Martin SPECIES
-=======
+# Cladonia southlandica W. Martin SPECIES
 
 #### Status
 ACCEPTED

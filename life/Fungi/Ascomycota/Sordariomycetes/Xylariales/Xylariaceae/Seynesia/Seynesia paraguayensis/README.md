@@ -1,5 +1,4 @@
-Seynesia paraguayensis Theiss. SPECIES
-=======
+# Seynesia paraguayensis Theiss. SPECIES
 
 #### Status
 ACCEPTED

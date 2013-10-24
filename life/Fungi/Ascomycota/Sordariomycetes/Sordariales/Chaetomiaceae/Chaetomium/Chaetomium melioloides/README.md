@@ -1,5 +1,4 @@
-Chaetomium melioloides Cooke & Peck SPECIES
-=======
+# Chaetomium melioloides Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

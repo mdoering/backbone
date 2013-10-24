@@ -1,5 +1,4 @@
-Hygrophorus terebratus Fr. SPECIES
-=======
+# Hygrophorus terebratus Fr. SPECIES
 
 #### Status
 ACCEPTED

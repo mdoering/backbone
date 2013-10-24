@@ -1,5 +1,4 @@
-Otthiella brenesii Petr. SPECIES
-=======
+# Otthiella brenesii Petr. SPECIES
 
 #### Status
 ACCEPTED

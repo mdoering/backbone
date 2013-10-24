@@ -1,5 +1,4 @@
-Leptotrichia wadei Eribe et al., 2004 SPECIES
-=======
+# Leptotrichia wadei Eribe et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nyctomyces toruloides Underw. SPECIES
-=======
+# Nyctomyces toruloides Underw. SPECIES
 
 #### Status
 ACCEPTED

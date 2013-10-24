@@ -1,5 +1,4 @@
-Scintilla splendida Playfair SPECIES
-=======
+# Scintilla splendida Playfair SPECIES
 
 #### Status
 ACCEPTED

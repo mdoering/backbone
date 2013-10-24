@@ -1,5 +1,4 @@
-Thermoactinomyces candidus Kurup et al., 1975 (Approved Lists, 1980) SPECIES
-=======
+# Thermoactinomyces candidus Kurup et al., 1975 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

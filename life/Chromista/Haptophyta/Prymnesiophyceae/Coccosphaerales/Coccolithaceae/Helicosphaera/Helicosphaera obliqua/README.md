@@ -1,5 +1,4 @@
-Helicosphaera obliqua Bramlette & Wilcoxon, 1967 SPECIES
-=======
+# Helicosphaera obliqua Bramlette & Wilcoxon, 1967 SPECIES
 
 #### Status
 ACCEPTED

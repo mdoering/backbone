@@ -1,5 +1,4 @@
-Aquisalimonas Márquez et al., 2007 GENUS
-=======
+# Aquisalimonas Márquez et al., 2007 GENUS
 
 #### Status
 ACCEPTED

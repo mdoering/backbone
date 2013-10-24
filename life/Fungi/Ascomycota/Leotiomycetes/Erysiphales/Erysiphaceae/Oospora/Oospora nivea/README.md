@@ -1,5 +1,4 @@
-Oospora nivea (Fuckel) Sacc. & Voglino SPECIES
-=======
+# Oospora nivea (Fuckel) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

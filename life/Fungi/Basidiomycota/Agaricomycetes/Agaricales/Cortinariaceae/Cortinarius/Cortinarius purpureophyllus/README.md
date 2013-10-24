@@ -1,5 +1,4 @@
-Cortinarius purpureophyllus Kauffman SPECIES
-=======
+# Cortinarius purpureophyllus Kauffman SPECIES
 
 #### Status
 ACCEPTED

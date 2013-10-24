@@ -1,14 +1,13 @@
-Peziza coeruleomaculata (Rehm) Sacc. & D. Sacc. SPECIES
-=======
+# Peziza caeruleomaculata (Rehm) Sacc. & D. Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 18: 19 (1905)
 
 #### Original name
 Lachnum caeruleoalbum Rehm

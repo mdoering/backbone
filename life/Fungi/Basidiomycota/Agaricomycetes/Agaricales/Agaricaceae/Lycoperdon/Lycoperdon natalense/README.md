@@ -1,5 +1,4 @@
-Lycoperdon natalense Cooke & Massee SPECIES
-=======
+# Lycoperdon natalense Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

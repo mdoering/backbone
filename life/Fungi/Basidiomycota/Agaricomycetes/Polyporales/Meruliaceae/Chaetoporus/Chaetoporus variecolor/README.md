@@ -1,5 +1,4 @@
-Chaetoporus variecolor (P. Karst.) Parmasto SPECIES
-=======
+# Chaetoporus variecolor (P. Karst.) Parmasto SPECIES
 
 #### Status
 ACCEPTED

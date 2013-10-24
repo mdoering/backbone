@@ -1,5 +1,4 @@
-Mycena xanthocystidium X. He & X.D. Fang SPECIES
-=======
+# Mycena xanthocystidium X. He & X.D. Fang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bactridium gymnosporangii (Jaap) Wollenw. SPECIES
-=======
+# Bactridium gymnosporangii (Jaap) Wollenw. SPECIES
 
 #### Status
 ACCEPTED

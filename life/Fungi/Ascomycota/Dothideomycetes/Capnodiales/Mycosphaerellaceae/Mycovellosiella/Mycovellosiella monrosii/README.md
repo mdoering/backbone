@@ -1,5 +1,4 @@
-Mycovellosiella monrosii Munt.-Cvetk. SPECIES
-=======
+# Mycovellosiella monrosii Munt.-Cvetk. SPECIES
 
 #### Status
 ACCEPTED

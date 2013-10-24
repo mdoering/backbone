@@ -1,5 +1,4 @@
-Microsphaera querci Sawada SPECIES
-=======
+# Microsphaera querci Sawada SPECIES
 
 #### Status
 ACCEPTED

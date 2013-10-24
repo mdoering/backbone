@@ -1,5 +1,4 @@
-Phyllosticta hranicensis Petr. SPECIES
-=======
+# Phyllosticta hranicensis Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hymenoscyphus constantini (Boud.) Kuntze SPECIES
-=======
+# Hymenoscyphus constantinii (Boud.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 485 (1898)
 
 #### Original name
 Helotium constantinii Boud.

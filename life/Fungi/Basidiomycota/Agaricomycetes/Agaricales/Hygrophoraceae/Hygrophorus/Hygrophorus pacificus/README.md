@@ -1,5 +1,4 @@
-Hygrophorus pacificus A.H. Sm. & Hesler SPECIES
-=======
+# Hygrophorus pacificus A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

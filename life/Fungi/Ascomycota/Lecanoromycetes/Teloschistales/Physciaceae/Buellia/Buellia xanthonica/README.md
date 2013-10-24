@@ -1,8 +1,7 @@
-Hafellia xanthonica Elix SPECIES
-=======
+# Buellia xanthonica (Elix) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

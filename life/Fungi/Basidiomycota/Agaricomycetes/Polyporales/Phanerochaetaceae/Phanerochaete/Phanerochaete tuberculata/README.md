@@ -1,17 +1,16 @@
-Thelephora lactea var. lactea VARIETY
-=======
+# Phanerochaete tuberculata (P. Karst.) Parmasto, 1968 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Consp. System. Corticiac. (Tartu) 83 (1968)
 
 #### Original name
-Thelephora lactea var. lactea
+Corticium tuberculatum P. Karst., 1896
 
 ### Remarks
 null

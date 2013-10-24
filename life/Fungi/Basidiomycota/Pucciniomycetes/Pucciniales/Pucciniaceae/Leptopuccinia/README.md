@@ -1,5 +1,4 @@
-Leptopuccinia GENUS
-=======
+# Leptopuccinia GENUS
 
 #### Status
 ACCEPTED

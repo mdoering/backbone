@@ -1,5 +1,4 @@
-Ascophora disciflora SPECIES
-=======
+# Ascophora disciflora SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudodiplodia euphorbiarum Petr. SPECIES
-=======
+# Pseudodiplodia euphorbiarum Petr. SPECIES
 
 #### Status
 ACCEPTED

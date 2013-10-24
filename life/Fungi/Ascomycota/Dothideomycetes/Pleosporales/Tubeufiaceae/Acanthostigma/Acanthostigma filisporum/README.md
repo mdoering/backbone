@@ -1,5 +1,4 @@
-Acanthostigma filisporum Ellis & Everh. ex M.E. Barr SPECIES
-=======
+# Acanthostigma filisporum Ellis & Everh. ex M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

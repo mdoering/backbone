@@ -1,5 +1,4 @@
-Parmelia glauca var. glauca VARIETY
-=======
+# Parmelia glauca µ coralloidea Wallr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lichen glaucus L.
+Parmelia glauca µ coralloidea Wallr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Agaricus glandifer Batsch SPECIES
-=======
+# Agaricus glandifer Batsch SPECIES
 
 #### Status
 ACCEPTED

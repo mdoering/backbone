@@ -1,5 +1,4 @@
-Eutintinnus tenue SPECIES
-=======
+# Eutintinnus tenue SPECIES
 
 #### Status
 ACCEPTED

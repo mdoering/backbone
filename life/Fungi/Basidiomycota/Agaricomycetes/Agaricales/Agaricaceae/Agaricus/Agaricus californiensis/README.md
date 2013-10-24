@@ -1,5 +1,4 @@
-Agaricus californiensis Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus californiensis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

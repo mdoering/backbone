@@ -1,5 +1,4 @@
-Spegazziniella ocoteae Bat. SPECIES
-=======
+# Spegazziniella ocoteae Bat. SPECIES
 
 #### Status
 ACCEPTED

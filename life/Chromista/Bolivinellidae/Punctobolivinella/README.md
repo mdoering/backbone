@@ -1,5 +1,4 @@
-Punctobolivinella Hayward, 1990 GENUS
-=======
+# Punctobolivinella Hayward, 1990 GENUS
 
 #### Status
 ACCEPTED

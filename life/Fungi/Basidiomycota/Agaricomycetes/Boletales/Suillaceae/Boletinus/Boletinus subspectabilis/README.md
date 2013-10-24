@@ -1,5 +1,4 @@
-Boletinus subspectabilis Vassilkov SPECIES
-=======
+# Boletinus subspectabilis Vassilkov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella caespitosa Ellis & Everh. SPECIES
-=======
+# Sphaerella caespitosa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

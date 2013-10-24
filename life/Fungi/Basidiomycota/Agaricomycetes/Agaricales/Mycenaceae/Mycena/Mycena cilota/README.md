@@ -1,5 +1,4 @@
-Mycena cilota Speg. SPECIES
-=======
+# Mycena cilota Speg. SPECIES
 
 #### Status
 ACCEPTED

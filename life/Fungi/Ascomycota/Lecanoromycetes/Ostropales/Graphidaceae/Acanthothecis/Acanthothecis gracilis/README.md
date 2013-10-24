@@ -1,5 +1,4 @@
-Acanthothecis gracilis Staiger & Kalb SPECIES
-=======
+# Acanthothecis gracilis Staiger & Kalb SPECIES
 
 #### Status
 ACCEPTED

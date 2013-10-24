@@ -1,5 +1,4 @@
-Fungus rubellus (Quél.) Kuntze SPECIES
-=======
+# Fungus rubellus (Quél.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

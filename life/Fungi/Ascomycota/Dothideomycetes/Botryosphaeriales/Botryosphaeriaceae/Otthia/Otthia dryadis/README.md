@@ -1,5 +1,4 @@
-Otthia dryadis L. Holm & Nograsek SPECIES
-=======
+# Otthia dryadis L. Holm & Nograsek SPECIES
 
 #### Status
 ACCEPTED

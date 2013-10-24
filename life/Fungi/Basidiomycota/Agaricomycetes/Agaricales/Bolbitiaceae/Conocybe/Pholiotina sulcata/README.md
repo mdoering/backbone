@@ -1,17 +1,16 @@
-Pholiotina sulcata var. sulcata VARIETY
-=======
+# Pholiotina sulcata Arnolds & Hauskn. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Persoonia 18(2): 248 (2003)
 
 #### Original name
-null
+Pholiotina sulcata Arnolds & Hauskn.
 
 ### Remarks
 null

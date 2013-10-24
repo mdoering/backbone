@@ -1,5 +1,4 @@
-Pezizella kashmirensis K.S. Thind & M.P. Sharma SPECIES
-=======
+# Pezizella kashmirensis K.S. Thind & M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta schelliana Thüm. SPECIES
-=======
+# Ascochyta schelliana Thüm. SPECIES
 
 #### Status
 ACCEPTED

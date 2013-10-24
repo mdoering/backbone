@@ -1,5 +1,4 @@
-Cladosporium chrysanthemi A.K. Das SPECIES
-=======
+# Cladosporium chrysanthemi A.K. Das SPECIES
 
 #### Status
 ACCEPTED

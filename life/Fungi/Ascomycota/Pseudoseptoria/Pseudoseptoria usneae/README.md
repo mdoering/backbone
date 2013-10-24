@@ -1,14 +1,13 @@
-Phoma usneae Vouaux SPECIES
-=======
+# Pseudoseptoria usneae (Vouaux) D. Hawksw., 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Br. Mus. nat. Hist. , Bot. 9(1): 57 (1981)
 
 #### Original name
 Phoma usneae Vouaux

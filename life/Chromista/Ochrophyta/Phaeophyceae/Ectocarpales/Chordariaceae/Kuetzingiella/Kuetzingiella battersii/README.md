@@ -1,8 +1,7 @@
-Feldmannia battersii (Bornet ex Sauvageau) Hamel SPECIES
-=======
+# Kuetzingiella battersii (Bornet ex Sauvageau) Kornmann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

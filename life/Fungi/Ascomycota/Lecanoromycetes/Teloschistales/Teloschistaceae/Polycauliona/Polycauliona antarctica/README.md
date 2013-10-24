@@ -1,5 +1,4 @@
-Polycauliona antarctica (Vain.) C.W. Dodge SPECIES
-=======
+# Polycauliona antarctica (Vain.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

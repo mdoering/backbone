@@ -1,5 +1,4 @@
-Megatrichophyton GENUS
-=======
+# Megatrichophyton GENUS
 
 #### Status
 ACCEPTED

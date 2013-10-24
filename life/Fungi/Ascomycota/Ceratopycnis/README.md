@@ -1,5 +1,4 @@
-Ceratopycnis Höhn. GENUS
-=======
+# Ceratopycnis Höhn. GENUS
 
 #### Status
 ACCEPTED

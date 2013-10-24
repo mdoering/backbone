@@ -1,5 +1,4 @@
-Agaricus albido-ochraceus Britzelm. SPECIES
-=======
+# Agaricus albido-ochraceus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

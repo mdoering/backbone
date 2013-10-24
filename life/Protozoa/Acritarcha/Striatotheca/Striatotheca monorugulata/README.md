@@ -1,5 +1,4 @@
-Striatotheca monorugulata Yin Leiming, Di Mila & Tongiorgi, 1998 SPECIES
-=======
+# Striatotheca monorugulata Yin Leiming, Di Mila & Tongiorgi, 1998 SPECIES
 
 #### Status
 ACCEPTED

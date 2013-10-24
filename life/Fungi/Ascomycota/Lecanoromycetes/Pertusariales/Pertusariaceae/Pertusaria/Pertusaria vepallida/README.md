@@ -1,5 +1,4 @@
-Pertusaria vepallida Nyl. SPECIES
-=======
+# Pertusaria vepallida Nyl. SPECIES
 
 #### Status
 ACCEPTED

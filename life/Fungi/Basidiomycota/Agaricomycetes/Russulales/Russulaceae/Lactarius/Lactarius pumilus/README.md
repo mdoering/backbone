@@ -1,5 +1,4 @@
-Lactarius pumilus Verbeken SPECIES
-=======
+# Lactarius pumilus Verbeken SPECIES
 
 #### Status
 ACCEPTED

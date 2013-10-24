@@ -1,5 +1,4 @@
-Peronospora ducometi Siemaszko & Jank., 1929 SPECIES
-=======
+# Peronospora ducometi Siemaszko & Jank., 1929 SPECIES
 
 #### Status
 ACCEPTED

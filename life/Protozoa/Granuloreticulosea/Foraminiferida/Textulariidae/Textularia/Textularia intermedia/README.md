@@ -1,5 +1,4 @@
-Textularia intermedia Goes, 1894 SPECIES
-=======
+# Textularia intermedia Goes, 1894 SPECIES
 
 #### Status
 ACCEPTED

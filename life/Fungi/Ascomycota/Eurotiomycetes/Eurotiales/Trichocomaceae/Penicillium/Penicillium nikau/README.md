@@ -1,5 +1,4 @@
-Penicillium nikau F.J. Morton SPECIES
-=======
+# Penicillium nikau F.J. Morton SPECIES
 
 #### Status
 ACCEPTED

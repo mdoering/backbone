@@ -1,5 +1,4 @@
-Peziza hematochlora var. hematochlora VARIETY
-=======
+# Peziza hematochlora Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Anal. Soc. cient. argent. 12(5): 219 (1881)
 
 #### Original name
-Peziza hematochlora var. hematochlora
+Peziza hematochlora Speg.
 
 ### Remarks
 null

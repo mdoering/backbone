@@ -1,5 +1,4 @@
-Oidium favorum Berk. & Broome SPECIES
-=======
+# Oidium favorum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

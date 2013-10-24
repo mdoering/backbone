@@ -1,5 +1,4 @@
-Zeaxanthinibacter enoshimensis Asker, Beppu & Ueda, 2007 SPECIES
-=======
+# Zeaxanthinibacter enoshimensis Asker, Beppu & Ueda, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora hibisci Gucevic SPECIES
-=======
+# Pleospora hibisci Gucevic SPECIES
 
 #### Status
 ACCEPTED

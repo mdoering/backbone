@@ -1,5 +1,4 @@
-Trichophaeopsis Korf & Erb, 1972 GENUS
-=======
+# Trichophaeopsis Korf & Erb, 1972 GENUS
 
 #### Status
 ACCEPTED

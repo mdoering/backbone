@@ -1,5 +1,4 @@
-Otidea fulgens (Pers.) SPECIES
-=======
+# Otidea fulgens (Pers.) SPECIES
 
 #### Status
 ACCEPTED

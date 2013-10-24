@@ -1,5 +1,4 @@
-Gyrophora hypococcina Jatta SPECIES
-=======
+# Gyrophora hypococcina Jatta SPECIES
 
 #### Status
 ACCEPTED

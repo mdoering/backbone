@@ -1,17 +1,16 @@
-Ascocystis Grasse, 1953 GENUS
-=======
+# Ascogregarina Ward, Levine & Craig, 1982 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+Journal Parasit. 68 (2): 331.
 
 #### Original name
-null
+Ascocystis Grasse, 1953
 
 ### Remarks
 null

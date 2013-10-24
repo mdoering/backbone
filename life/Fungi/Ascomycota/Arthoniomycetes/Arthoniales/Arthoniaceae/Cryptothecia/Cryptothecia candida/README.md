@@ -1,17 +1,16 @@
-Myriostigma candicum Kremp. SPECIES
-=======
+# Cryptothecia candida (Kremp.) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 12(no. 1): 65 (1952)
 
 #### Original name
-Myriostigma candicum Kremp.
+Myriostigma candidum Kremp.
 
 ### Remarks
 null

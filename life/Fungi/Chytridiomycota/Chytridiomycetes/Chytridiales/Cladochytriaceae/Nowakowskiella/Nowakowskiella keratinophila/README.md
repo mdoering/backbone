@@ -1,5 +1,4 @@
-Nowakowskiella keratinophila Hassan & A. Batko SPECIES
-=======
+# Nowakowskiella keratinophila Hassan & A. Batko SPECIES
 
 #### Status
 ACCEPTED

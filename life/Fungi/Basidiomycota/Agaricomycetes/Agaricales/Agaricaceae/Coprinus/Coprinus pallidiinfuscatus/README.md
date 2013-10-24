@@ -1,5 +1,4 @@
-Coprinus pallidiinfuscatus Bogart SPECIES
-=======
+# Coprinus pallidiinfuscatus Bogart SPECIES
 
 #### Status
 ACCEPTED

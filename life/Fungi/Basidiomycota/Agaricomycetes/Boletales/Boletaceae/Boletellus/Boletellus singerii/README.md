@@ -1,5 +1,4 @@
-Boletellus singerii Gonz.-Velázq. & R. Valenz. SPECIES
-=======
+# Boletellus singerii Gonz.-Velázq. & R. Valenz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria gomphodes (Kalchbr.) Killerm. SPECIES
-=======
+# Naucoria gomphodes (Kalchbr.) Killerm. SPECIES
 
 #### Status
 ACCEPTED

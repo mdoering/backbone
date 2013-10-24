@@ -1,5 +1,4 @@
-Dictyochroa ovalis Górka, 1965 SPECIES
-=======
+# Dictyochroa ovalis Górka, 1965 SPECIES
 
 #### Status
 ACCEPTED

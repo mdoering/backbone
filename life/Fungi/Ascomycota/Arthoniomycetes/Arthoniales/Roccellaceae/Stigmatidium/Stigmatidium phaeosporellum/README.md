@@ -1,5 +1,4 @@
-Stigmatidium phaeosporellum Nyl. SPECIES
-=======
+# Stigmatidium phaeosporellum Nyl. SPECIES
 
 #### Status
 ACCEPTED

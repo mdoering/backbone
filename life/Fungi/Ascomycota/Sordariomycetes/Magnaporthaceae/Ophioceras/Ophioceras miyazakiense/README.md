@@ -1,5 +1,4 @@
-Ophioceras miyazakiense Matsush. SPECIES
-=======
+# Ophioceras miyazakiense Matsush. SPECIES
 
 #### Status
 ACCEPTED

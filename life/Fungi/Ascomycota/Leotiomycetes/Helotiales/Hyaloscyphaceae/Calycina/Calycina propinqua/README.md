@@ -1,5 +1,4 @@
-Calycina propinqua (Sacc. & Ellis) Kuntze SPECIES
-=======
+# Calycina propinqua (Sacc. & Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

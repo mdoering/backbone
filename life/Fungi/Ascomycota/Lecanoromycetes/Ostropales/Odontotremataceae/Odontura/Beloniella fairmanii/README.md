@@ -1,8 +1,7 @@
-Beloniella fairmani (Rehm) Sacc. SPECIES
-=======
+# Beloniella fairmanii (Rehm) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

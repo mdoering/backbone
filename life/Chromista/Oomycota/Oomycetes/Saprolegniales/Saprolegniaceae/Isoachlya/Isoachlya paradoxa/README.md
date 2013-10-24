@@ -1,5 +1,4 @@
-Isoachlya paradoxa (Coker) Kauffman SPECIES
-=======
+# Isoachlya paradoxa (Coker) Kauffman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Placoasterella placsoterella Subhedar & V.G. Rao SPECIES
-=======
+# Placoasterella pandanicola Subhedar & V.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Botanique, Nagpur 9(1-4): 65 (1980)
 
 #### Original name
-Placoasterella placsoterella Subhedar & V.G. Rao
+Placoasterella pandanicola Subhedar & V.G. Rao
 
 ### Remarks
 null

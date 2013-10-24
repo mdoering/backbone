@@ -1,5 +1,4 @@
-Microcallis smilacis S.K. Bose & E. Müll. SPECIES
-=======
+# Microcallis smilacis S.K. Bose & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

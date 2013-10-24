@@ -1,5 +1,4 @@
-Cercospora cecidicola Ellis SPECIES
-=======
+# Cercospora cecidicola Ellis SPECIES
 
 #### Status
 ACCEPTED

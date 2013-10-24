@@ -1,5 +1,4 @@
-Imbricaria candelaria (Weber ex F.H. Wigg.) Chevall. SPECIES
-=======
+# Imbricaria candelaria (Weber ex F.H. Wigg.) Chevall. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta bacterioides var. bacterioides VARIETY
-=======
+# Phyllosticta bacterioides Vuill. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllosticta bacterioides var. bacterioides
+Phyllosticta bacterioides Vuill.
 
 ### Remarks
 null

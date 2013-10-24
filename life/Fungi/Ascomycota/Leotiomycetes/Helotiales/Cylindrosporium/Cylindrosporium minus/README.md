@@ -1,5 +1,4 @@
-Cylindrosporium minus Ellis & Kellerm. SPECIES
-=======
+# Cylindrosporium minus Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

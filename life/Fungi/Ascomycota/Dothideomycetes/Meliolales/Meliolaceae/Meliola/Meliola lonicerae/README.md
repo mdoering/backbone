@@ -1,5 +1,4 @@
-Meliola lonicerae (W. Yamam.) Cif. SPECIES
-=======
+# Meliola lonicerae (W. Yamam.) Cif. SPECIES
 
 #### Status
 ACCEPTED

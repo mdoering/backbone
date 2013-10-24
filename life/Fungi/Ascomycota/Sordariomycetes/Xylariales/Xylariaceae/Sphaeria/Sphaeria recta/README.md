@@ -1,5 +1,4 @@
-Sphaeria recta Sowerby SPECIES
-=======
+# Sphaeria recta Sowerby SPECIES
 
 #### Status
 ACCEPTED

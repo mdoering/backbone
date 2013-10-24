@@ -1,5 +1,4 @@
-Peltigera weberi Sérus., Goffinet, Miadl. & Vitik. SPECIES
-=======
+# Peltigera weberi Sérus., Goffinet, Miadl. & Vitik. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora cubae Crous SPECIES
-=======
+# Pseudocercospora cubae Crous SPECIES
 
 #### Status
 ACCEPTED

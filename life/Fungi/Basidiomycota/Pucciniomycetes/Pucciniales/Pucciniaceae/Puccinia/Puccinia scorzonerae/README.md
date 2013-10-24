@@ -1,17 +1,16 @@
-Puccinia scorzonericola Tranzschel, 1904 SPECIES
-=======
+# Puccinia scorzonerae (Schumach.) Jacky, 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 2: 161 (1904)
+Composit. Puccin. 54 (1899)
 
 #### Original name
-Puccinia scorzonericola Tranzschel, 1904
+Uredo scorzonerae Schumach., 1803
 
 ### Remarks
 null

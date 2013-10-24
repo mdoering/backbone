@@ -1,5 +1,4 @@
-Sphaceloma macarangae Wani & Thirum. SPECIES
-=======
+# Sphaceloma macarangae Wani & Thirum. SPECIES
 
 #### Status
 ACCEPTED

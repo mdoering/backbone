@@ -1,5 +1,4 @@
-Blastenia subtubulata SPECIES
-=======
+# Blastenia subtubulata SPECIES
 
 #### Status
 ACCEPTED

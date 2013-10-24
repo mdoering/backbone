@@ -1,5 +1,4 @@
-Methylobacter marinus Bowman et al., 1993 SPECIES
-=======
+# Methylobacter marinus Bowman et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

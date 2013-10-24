@@ -1,5 +1,4 @@
-Cercospora austrinae Chupp & Viégas SPECIES
-=======
+# Cercospora austrinae Chupp & Viégas SPECIES
 
 #### Status
 ACCEPTED

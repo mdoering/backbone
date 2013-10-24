@@ -1,5 +1,4 @@
-Cladonia turgidior (Nyl.) Ahti SPECIES
-=======
+# Cladonia turgidior (Nyl.) Ahti SPECIES
 
 #### Status
 ACCEPTED

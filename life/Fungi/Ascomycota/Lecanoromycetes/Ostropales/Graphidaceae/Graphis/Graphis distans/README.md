@@ -1,5 +1,4 @@
-Graphis distans Fée SPECIES
-=======
+# Graphis distans Fée SPECIES
 
 #### Status
 ACCEPTED

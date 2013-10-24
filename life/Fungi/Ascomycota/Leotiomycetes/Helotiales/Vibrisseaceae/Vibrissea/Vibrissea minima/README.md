@@ -1,5 +1,4 @@
-Vibrissea minima Velen. SPECIES
-=======
+# Vibrissea minima Velen. SPECIES
 
 #### Status
 ACCEPTED

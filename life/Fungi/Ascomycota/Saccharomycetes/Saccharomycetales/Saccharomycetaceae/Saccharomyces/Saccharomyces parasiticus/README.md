@@ -1,5 +1,4 @@
-Saccharomyces parasiticus Linder SPECIES
-=======
+# Saccharomyces parasiticus Linder SPECIES
 
 #### Status
 ACCEPTED

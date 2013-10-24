@@ -1,5 +1,4 @@
-Belonopsis betulina Velen. SPECIES
-=======
+# Belonopsis betulina Velen. SPECIES
 
 #### Status
 ACCEPTED

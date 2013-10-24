@@ -1,5 +1,4 @@
-Getticellidae Dumitrica, 1965 FAMILY
-=======
+# Getticellidae Dumitrica, 1965 FAMILY
 
 #### Status
 ACCEPTED

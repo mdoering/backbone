@@ -1,5 +1,4 @@
-Cytosporina aspera (Wallr.) Sacc. SPECIES
-=======
+# Cytosporina aspera (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

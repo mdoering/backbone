@@ -1,5 +1,4 @@
-Stysanus glomeratus Sacc. SPECIES
-=======
+# Stysanus glomeratus Sacc. SPECIES
 
 #### Status
 ACCEPTED

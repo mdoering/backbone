@@ -1,5 +1,4 @@
-Cortinarius caespitosus F.M. Bailey SPECIES
-=======
+# Cortinarius caespitosus F.M. Bailey SPECIES
 
 #### Status
 ACCEPTED

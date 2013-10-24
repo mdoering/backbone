@@ -1,5 +1,4 @@
-Chlorapion grande (Düringer) Bourrelly SPECIES
-=======
+# Chlorapion grande (Düringer) Bourrelly SPECIES
 
 #### Status
 ACCEPTED

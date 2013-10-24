@@ -1,5 +1,4 @@
-Sticta glomerulifera (Hoffm.) Delise SPECIES
-=======
+# Sticta glomerulifera (Hoffm.) Delise SPECIES
 
 #### Status
 ACCEPTED

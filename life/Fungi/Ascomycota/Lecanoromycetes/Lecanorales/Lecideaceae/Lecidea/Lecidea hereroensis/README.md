@@ -1,5 +1,4 @@
-Lecidea hereroensis Zahlbr. SPECIES
-=======
+# Lecidea hereroensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candelariella plumbea Poelt & Vezda SPECIES
-=======
+# Candelariella plumbea Poelt & Vezda SPECIES
 
 #### Status
 ACCEPTED

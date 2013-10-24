@@ -1,5 +1,4 @@
-Xenococcus lyngbyeae Jao SPECIES
-=======
+# Xenococcus lyngbyeae Jao SPECIES
 
 #### Status
 ACCEPTED

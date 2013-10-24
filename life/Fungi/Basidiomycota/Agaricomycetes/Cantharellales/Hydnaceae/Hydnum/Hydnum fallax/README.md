@@ -1,5 +1,4 @@
-Hydnum fallax (Fr.) Fr. SPECIES
-=======
+# Hydnum fallax (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca herminica (Samp.) Samp. SPECIES
-=======
+# Caloplaca herminica (Samp.) Samp. SPECIES
 
 #### Status
 ACCEPTED

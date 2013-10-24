@@ -1,5 +1,4 @@
-Cryptandromyces incurvatus (Thaxt.) I.I. Tav. SPECIES
-=======
+# Cryptandromyces incurvatus (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

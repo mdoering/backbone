@@ -1,5 +1,4 @@
-Lasiosphaeriella dennisii Sivan., 1975 SPECIES
-=======
+# Lasiosphaeriella dennisii Sivan., 1975 SPECIES
 
 #### Status
 ACCEPTED

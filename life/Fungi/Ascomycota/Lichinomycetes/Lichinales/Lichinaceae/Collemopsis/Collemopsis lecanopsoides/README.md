@@ -1,5 +1,4 @@
-Collemopsis lecanopsoides (Nyl.) Cromb. SPECIES
-=======
+# Collemopsis lecanopsoides (Nyl.) Cromb. SPECIES
 
 #### Status
 ACCEPTED

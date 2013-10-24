@@ -1,5 +1,4 @@
-Hirsutella surinamensis (W. Voss) Speare SPECIES
-=======
+# Hirsutella surinamensis (W. Voss) Speare SPECIES
 
 #### Status
 ACCEPTED

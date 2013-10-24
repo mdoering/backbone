@@ -1,5 +1,4 @@
-Mycosphaerella moricola Sawada SPECIES
-=======
+# Mycosphaerella moricola Sawada SPECIES
 
 #### Status
 ACCEPTED

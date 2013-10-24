@@ -1,5 +1,4 @@
-Phycoascus GENUS
-=======
+# Phycoascus GENUS
 
 #### Status
 ACCEPTED

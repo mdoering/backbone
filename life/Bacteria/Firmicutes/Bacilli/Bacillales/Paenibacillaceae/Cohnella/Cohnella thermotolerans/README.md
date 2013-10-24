@@ -1,5 +1,4 @@
-Cohnella thermotolerans Kämpfer et al., 2006 SPECIES
-=======
+# Cohnella thermotolerans Kämpfer et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

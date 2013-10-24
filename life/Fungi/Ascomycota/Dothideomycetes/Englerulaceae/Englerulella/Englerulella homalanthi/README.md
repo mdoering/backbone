@@ -1,5 +1,4 @@
-Englerulella homalanthi Hansf. SPECIES
-=======
+# Englerulella homalanthi Hansf. SPECIES
 
 #### Status
 ACCEPTED

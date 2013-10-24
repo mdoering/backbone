@@ -1,5 +1,4 @@
-Triloculina tortuosa Cushman, 1921 SPECIES
-=======
+# Triloculina tortuosa Cushman, 1921 SPECIES
 
 #### Status
 ACCEPTED

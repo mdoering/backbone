@@ -1,5 +1,4 @@
-Tintinnopsis campanella (Haeckel, 1873) ? SPECIES
-=======
+# Tintinnopsis campanella (Haeckel, 1873) ? SPECIES
 
 #### Status
 ACCEPTED

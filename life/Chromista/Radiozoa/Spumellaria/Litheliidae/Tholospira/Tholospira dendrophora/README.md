@@ -1,5 +1,4 @@
-Tholospira dendrophora Haeckel, 1887 SPECIES
-=======
+# Tholospira dendrophora Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

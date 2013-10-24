@@ -1,5 +1,4 @@
-Passalora digitariae (Crous & B. Sutton) U. Braun & Crous SPECIES
-=======
+# Passalora digitariae (Crous & B. Sutton) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

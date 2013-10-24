@@ -1,5 +1,4 @@
-Lecanora nemoralis Makar. SPECIES
-=======
+# Lecanora nemoralis Makar. SPECIES
 
 #### Status
 ACCEPTED

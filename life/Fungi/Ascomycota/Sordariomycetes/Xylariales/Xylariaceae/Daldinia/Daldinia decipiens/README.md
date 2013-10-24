@@ -1,5 +1,4 @@
-Daldinia decipiens Wollw. & M. Stadler, 2001 SPECIES
-=======
+# Daldinia decipiens Wollw. & M. Stadler, 2001 SPECIES
 
 #### Status
 ACCEPTED

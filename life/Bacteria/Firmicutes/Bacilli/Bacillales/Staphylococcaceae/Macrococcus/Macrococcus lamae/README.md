@@ -1,5 +1,4 @@
-Macrococcus lamae Mannerová et al., 2003 SPECIES
-=======
+# Macrococcus lamae Mannerová et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

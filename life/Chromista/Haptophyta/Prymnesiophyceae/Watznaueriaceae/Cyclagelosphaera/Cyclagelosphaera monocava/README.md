@@ -1,5 +1,4 @@
-Cyclagelosphaera monocava SPECIES
-=======
+# Cyclagelosphaera monocava SPECIES
 
 #### Status
 ACCEPTED

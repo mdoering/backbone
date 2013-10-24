@@ -1,5 +1,4 @@
-Hysterites torulosus Göpp. SPECIES
-=======
+# Hysterites torulosus Göpp. SPECIES
 
 #### Status
 ACCEPTED

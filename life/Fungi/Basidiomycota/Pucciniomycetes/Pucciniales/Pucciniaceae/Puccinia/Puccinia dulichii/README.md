@@ -1,5 +1,4 @@
-Puccinia dulichii P. Syd. & Syd. SPECIES
-=======
+# Puccinia dulichii P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

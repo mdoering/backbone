@@ -1,5 +1,4 @@
-Galzinia Bourdot, 1922 GENUS
-=======
+# Galzinia Bourdot, 1922 GENUS
 
 #### Status
 ACCEPTED

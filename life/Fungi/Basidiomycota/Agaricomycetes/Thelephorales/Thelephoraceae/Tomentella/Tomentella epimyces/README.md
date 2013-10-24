@@ -1,5 +1,4 @@
-Tomentella epimyces (Bres.) Höhn. & Litsch. SPECIES
-=======
+# Tomentella epimyces (Bres.) Höhn. & Litsch. SPECIES
 
 #### Status
 ACCEPTED

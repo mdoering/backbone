@@ -1,5 +1,4 @@
-Euphysetta lucani Borgert, 1892 SPECIES
-=======
+# Euphysetta lucani Borgert, 1892 SPECIES
 
 #### Status
 ACCEPTED

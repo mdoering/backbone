@@ -1,5 +1,4 @@
-Valsella rostrupiana Munk SPECIES
-=======
+# Valsella rostrupiana Munk SPECIES
 
 #### Status
 ACCEPTED

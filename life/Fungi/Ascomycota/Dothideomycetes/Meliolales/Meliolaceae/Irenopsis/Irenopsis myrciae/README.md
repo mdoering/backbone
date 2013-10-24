@@ -1,5 +1,4 @@
-Irenopsis myrciae Hansf. SPECIES
-=======
+# Irenopsis myrciae Hansf. SPECIES
 
 #### Status
 ACCEPTED

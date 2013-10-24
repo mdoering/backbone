@@ -1,5 +1,4 @@
-Tesellatolithus Haq, 1968 GENUS
-=======
+# Tesellatolithus Haq, 1968 GENUS
 
 #### Status
 ACCEPTED

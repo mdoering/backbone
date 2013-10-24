@@ -1,5 +1,4 @@
-Gastrosporium asiaticum Dörfelt & Bumžaa, 1986 SPECIES
-=======
+# Gastrosporium asiaticum Dörfelt & Bumžaa, 1986 SPECIES
 
 #### Status
 ACCEPTED

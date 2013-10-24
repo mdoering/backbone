@@ -1,5 +1,4 @@
-Merulius elveloides Scop. SPECIES
-=======
+# Merulius elveloides Scop. SPECIES
 
 #### Status
 ACCEPTED

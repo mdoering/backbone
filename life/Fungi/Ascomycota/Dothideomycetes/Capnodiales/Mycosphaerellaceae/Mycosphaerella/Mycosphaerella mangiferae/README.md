@@ -1,5 +1,4 @@
-Mycosphaerella mangiferae C. Ramesh, 1986 SPECIES
-=======
+# Mycosphaerella mangiferae C. Ramesh, 1986 SPECIES
 
 #### Status
 ACCEPTED

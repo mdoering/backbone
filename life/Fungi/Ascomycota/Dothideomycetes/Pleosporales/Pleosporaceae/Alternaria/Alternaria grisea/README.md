@@ -1,5 +1,4 @@
-Alternaria grisea Svilv., 1936 SPECIES
-=======
+# Alternaria grisea Svilv., 1936 SPECIES
 
 #### Status
 ACCEPTED

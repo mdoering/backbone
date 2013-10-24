@@ -1,5 +1,4 @@
-Clitopilus parilis (Fr.) Kühner & Romagn. SPECIES
-=======
+# Clitopilus parilis (Fr.) Kühner & Romagn. SPECIES
 
 #### Status
 ACCEPTED

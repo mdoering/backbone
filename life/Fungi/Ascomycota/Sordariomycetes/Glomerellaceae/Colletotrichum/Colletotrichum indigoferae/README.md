@@ -1,5 +1,4 @@
-Colletotrichum indigoferae Sawada SPECIES
-=======
+# Colletotrichum indigoferae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vorticella umbellaria Linnaeus, 1767 SPECIES
-=======
+# Vorticella umbellaria Linnaeus, 1767 SPECIES
 
 #### Status
 ACCEPTED

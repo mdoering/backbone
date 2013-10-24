@@ -1,5 +1,4 @@
-Bacillidinium Habib & Knapp, 1982 GENUS
-=======
+# Bacillidinium Habib & Knapp, 1982 GENUS
 
 #### Status
 ACCEPTED

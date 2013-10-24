@@ -1,5 +1,4 @@
-Zoothamnium dichotomum Kent, 1881 SPECIES
-=======
+# Zoothamnium dichotomum Kent, 1881 SPECIES
 
 #### Status
 ACCEPTED

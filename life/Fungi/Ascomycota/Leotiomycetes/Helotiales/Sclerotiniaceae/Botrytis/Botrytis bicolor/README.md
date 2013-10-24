@@ -1,5 +1,4 @@
-Botrytis bicolor Link SPECIES
-=======
+# Botrytis bicolor Link SPECIES
 
 #### Status
 ACCEPTED

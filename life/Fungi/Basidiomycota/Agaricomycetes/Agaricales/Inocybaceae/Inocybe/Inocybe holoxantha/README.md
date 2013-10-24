@@ -1,5 +1,4 @@
-Inocybe holoxantha Grund & D.E. Stuntz SPECIES
-=======
+# Inocybe holoxantha Grund & D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

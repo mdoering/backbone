@@ -1,5 +1,4 @@
-Rhizopus speciosus (Oudem.) Lendn. SPECIES
-=======
+# Rhizopus speciosus (Oudem.) Lendn. SPECIES
 
 #### Status
 ACCEPTED

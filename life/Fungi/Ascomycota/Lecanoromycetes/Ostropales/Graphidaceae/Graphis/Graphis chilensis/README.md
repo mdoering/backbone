@@ -1,5 +1,4 @@
-Graphis chilensis Zahlbr. SPECIES
-=======
+# Graphis chilensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

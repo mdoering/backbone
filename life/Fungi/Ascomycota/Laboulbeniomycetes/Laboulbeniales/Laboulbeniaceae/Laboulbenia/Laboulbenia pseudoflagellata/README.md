@@ -1,5 +1,4 @@
-Laboulbenia pseudoflagellata Speg. SPECIES
-=======
+# Laboulbenia pseudoflagellata Speg. SPECIES
 
 #### Status
 ACCEPTED

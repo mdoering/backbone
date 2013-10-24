@@ -1,5 +1,4 @@
-Myxacium pluviorum Jul. Schäff. SPECIES
-=======
+# Myxacium pluviorum Jul. Schäff. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella praeparva Pass. & Beltr. SPECIES
-=======
+# Sphaerella praeparva Pass. & Beltr. SPECIES
 
 #### Status
 ACCEPTED

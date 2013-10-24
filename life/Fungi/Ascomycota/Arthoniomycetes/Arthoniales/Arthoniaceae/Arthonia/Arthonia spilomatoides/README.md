@@ -1,5 +1,4 @@
-Arthonia spilomatoides Nyl. SPECIES
-=======
+# Arthonia spilomatoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

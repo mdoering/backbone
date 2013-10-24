@@ -1,11 +1,10 @@
-Bacterium tracheiphilus (Smith, 1895) Chester, 1897 SPECIES
-=======
+# Erwinia tracheiphila (Smith, 1895) Bergey et al., 1923 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

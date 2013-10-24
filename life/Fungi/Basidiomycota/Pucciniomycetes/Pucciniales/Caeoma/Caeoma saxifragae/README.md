@@ -1,5 +1,4 @@
-Caeoma saxifragae G. Winter SPECIES
-=======
+# Caeoma saxifragae G. Winter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Venturia grossulariae (Auersw. & Fleischh.) Sacc. SPECIES
-=======
+# Venturia grossulariae (Auersw. & Fleischh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

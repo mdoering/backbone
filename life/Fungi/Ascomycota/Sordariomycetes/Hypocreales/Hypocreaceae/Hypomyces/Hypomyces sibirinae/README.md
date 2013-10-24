@@ -1,5 +1,4 @@
-Hypomyces sibirinae Rogerson & Samuels, 1990 SPECIES
-=======
+# Hypomyces sibirinae Rogerson & Samuels, 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius metarius Kauffman SPECIES
-=======
+# Cortinarius metarius Kauffman SPECIES
 
 #### Status
 ACCEPTED

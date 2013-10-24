@@ -1,5 +1,4 @@
-Trichoderma tilletei Rifai SPECIES
-=======
+# Trichoderma tilletei Rifai SPECIES
 
 #### Status
 ACCEPTED

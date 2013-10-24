@@ -1,5 +1,4 @@
-Cercosporina capitati Tharp SPECIES
-=======
+# Cercosporina capitati Tharp SPECIES
 
 #### Status
 ACCEPTED

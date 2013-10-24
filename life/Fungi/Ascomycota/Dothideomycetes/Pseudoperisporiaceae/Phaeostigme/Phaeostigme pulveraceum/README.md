@@ -1,5 +1,4 @@
-Phaeostigme pulveraceum (Speg.) Syd. SPECIES
-=======
+# Phaeostigme pulveraceum (Speg.) Syd. SPECIES
 
 #### Status
 ACCEPTED

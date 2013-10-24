@@ -1,5 +1,4 @@
-Strombidium macronucleatum Dragesco, 1960 SPECIES
-=======
+# Strombidium macronucleatum Dragesco, 1960 SPECIES
 
 #### Status
 ACCEPTED

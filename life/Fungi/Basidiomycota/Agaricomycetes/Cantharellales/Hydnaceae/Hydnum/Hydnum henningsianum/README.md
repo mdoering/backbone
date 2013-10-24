@@ -1,5 +1,4 @@
-Hydnum henningsianum Herter SPECIES
-=======
+# Hydnum henningsianum Herter SPECIES
 
 #### Status
 ACCEPTED

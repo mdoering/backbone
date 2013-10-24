@@ -1,5 +1,4 @@
-Rinodina paupercula SPECIES
-=======
+# Rinodina paupercula SPECIES
 
 #### Status
 ACCEPTED

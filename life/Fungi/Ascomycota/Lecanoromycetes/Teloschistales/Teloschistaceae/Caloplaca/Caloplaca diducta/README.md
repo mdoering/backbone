@@ -1,5 +1,4 @@
-Caloplaca diducta (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca diducta (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

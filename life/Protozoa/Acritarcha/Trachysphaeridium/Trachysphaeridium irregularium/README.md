@@ -1,5 +1,4 @@
-Trachysphaeridium irregularium Wang, Zhou & Chen, 1980 SPECIES
-=======
+# Trachysphaeridium irregularium Wang, Zhou & Chen, 1980 SPECIES
 
 #### Status
 ACCEPTED

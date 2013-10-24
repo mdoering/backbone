@@ -1,14 +1,13 @@
-Peziza archeri Berk., 1845 SPECIES
-=======
+# Pulvinula archeri (Berk.) Rifai, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Verh. K. Akad. Wet. , tweede sect. 57(3): 213 (1968)
 
 #### Original name
 Peziza archeri Berk., 1845

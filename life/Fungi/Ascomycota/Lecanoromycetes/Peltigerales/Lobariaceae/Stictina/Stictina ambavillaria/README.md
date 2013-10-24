@@ -1,5 +1,4 @@
-Stictina ambavillaria (Bory) Nyl. SPECIES
-=======
+# Stictina ambavillaria (Bory) Nyl. SPECIES
 
 #### Status
 ACCEPTED

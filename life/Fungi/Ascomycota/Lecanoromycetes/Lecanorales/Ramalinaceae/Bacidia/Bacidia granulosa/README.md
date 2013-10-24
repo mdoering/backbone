@@ -1,5 +1,4 @@
-Bacidia granulosa Darb. SPECIES
-=======
+# Bacidia granulosa Darb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Athelia byssina var. byssina VARIETY
-=======
+# Piloderma byssinum (P. Karst.) Jülich, 1969 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Eesti NSV Tead. Akad. Toim. , Biol. seer 16(4): 380 (1967)
+Ber. dt. bot. Ges. 81: 418 (1969)
 
 #### Original name
-Athelia byssina var. byssina
+Lyomyces byssinus P. Karst., 1884
 
 ### Remarks
 null

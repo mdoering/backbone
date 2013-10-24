@@ -1,5 +1,4 @@
-Micromonospora eburnea Thawai et al., 2005 SPECIES
-=======
+# Micromonospora eburnea Thawai et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

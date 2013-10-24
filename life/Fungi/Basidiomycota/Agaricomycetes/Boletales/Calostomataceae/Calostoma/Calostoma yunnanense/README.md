@@ -1,17 +1,16 @@
-Calostoma yunnanensis L.J. Li & B. Liu SPECIES
-=======
+# Calostoma yunnanense L.J. Li & B. Liu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Li, Liu & Liu, Acta Mycol. Sin. 3(2): 92 (1984)
 
 #### Original name
-Calostoma yunnanensis L.J. Li & B. Liu
+Calostoma yunnanense L.J. Li & B. Liu
 
 ### Remarks
 null

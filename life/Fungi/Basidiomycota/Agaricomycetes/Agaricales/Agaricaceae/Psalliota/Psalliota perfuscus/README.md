@@ -1,5 +1,4 @@
-Psalliota perfuscus (Copel.) Mend. {?} & Leus-Palo SPECIES
-=======
+# Psalliota perfuscus (Copel.) Mend. {?} & Leus-Palo SPECIES
 
 #### Status
 ACCEPTED

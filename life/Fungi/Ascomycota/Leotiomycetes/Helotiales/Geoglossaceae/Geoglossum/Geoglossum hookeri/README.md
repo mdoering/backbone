@@ -1,17 +1,16 @@
-Thuemenidium multiforme (Henn.) Kuntze, 1891 SPECIES
-=======
+# Geoglossum hookeri Cooke, 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycographia seu Icones Fungorum (London), Vol. <b>1</b>. Discomycetes tab. 10, fig. 15 (1875)
 
 #### Original name
-null
+Geoglossum hookeri Cooke, 1875
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Natronocella Sorokin et al., 2007 GENUS
-=======
+# Natronocella Sorokin et al., 2007 GENUS
 
 #### Status
 ACCEPTED

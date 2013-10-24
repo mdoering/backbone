@@ -1,5 +1,4 @@
-Illosporium gouaniae (Syd.) Cif. SPECIES
-=======
+# Illosporium gouaniae (Syd.) Cif. SPECIES
 
 #### Status
 ACCEPTED

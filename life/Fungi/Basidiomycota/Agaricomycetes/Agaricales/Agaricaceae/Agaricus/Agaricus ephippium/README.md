@@ -1,5 +1,4 @@
-Agaricus ephippium Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus ephippium Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

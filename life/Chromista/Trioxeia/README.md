@@ -1,5 +1,4 @@
-Trioxeia de Folin, 1888 GENUS
-=======
+# Trioxeia de Folin, 1888 GENUS
 
 #### Status
 ACCEPTED

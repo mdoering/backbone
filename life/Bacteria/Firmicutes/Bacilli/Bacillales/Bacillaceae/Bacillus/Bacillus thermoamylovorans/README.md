@@ -1,5 +1,4 @@
-Bacillus thermoamylovorans Combet-Blanc et al., 1995 SPECIES
-=======
+# Bacillus thermoamylovorans Combet-Blanc et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

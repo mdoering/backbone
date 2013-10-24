@@ -1,5 +1,4 @@
-Trematosphaeria albidae Gucevic SPECIES
-=======
+# Trematosphaeria albidae Gucevic SPECIES
 
 #### Status
 ACCEPTED

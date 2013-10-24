@@ -1,14 +1,13 @@
-Limacinia fenestrata (Cooke & Ellis) Sacc., 1897 SPECIES
-=======
+# Pleomeliola fenestrata (Cooke & Ellis) Sacc., 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) (1899)
 
 #### Original name
 Meliola fenestrata Cooke & Ellis, 1877

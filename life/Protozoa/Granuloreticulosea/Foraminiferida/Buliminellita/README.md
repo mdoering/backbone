@@ -1,5 +1,4 @@
-Buliminellita Cushman & Stainforth, 1947 GENUS
-=======
+# Buliminellita Cushman & Stainforth, 1947 GENUS
 
 #### Status
 ACCEPTED

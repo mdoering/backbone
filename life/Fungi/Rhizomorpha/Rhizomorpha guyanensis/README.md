@@ -1,5 +1,4 @@
-Rhizomorpha guyanensis Fr. SPECIES
-=======
+# Rhizomorpha guyanensis Fr. SPECIES
 
 #### Status
 ACCEPTED

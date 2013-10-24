@@ -1,5 +1,4 @@
-Polyhyphaethyrites giganticus R. Srivast. & R.K. Kar SPECIES
-=======
+# Polyhyphaethyrites giganticus R. Srivast. & R.K. Kar SPECIES
 
 #### Status
 ACCEPTED

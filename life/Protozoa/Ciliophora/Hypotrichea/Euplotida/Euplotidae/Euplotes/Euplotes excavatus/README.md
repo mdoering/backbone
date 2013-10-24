@@ -1,5 +1,4 @@
-Euplotes excavatus Claparède & Lachmann, 1858 SPECIES
-=======
+# Euplotes excavatus Claparède & Lachmann, 1858 SPECIES
 
 #### Status
 ACCEPTED

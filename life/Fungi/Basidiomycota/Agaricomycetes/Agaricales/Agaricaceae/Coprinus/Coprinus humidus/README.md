@@ -1,5 +1,4 @@
-Coprinus humidus Bogart SPECIES
-=======
+# Coprinus humidus Bogart SPECIES
 
 #### Status
 ACCEPTED

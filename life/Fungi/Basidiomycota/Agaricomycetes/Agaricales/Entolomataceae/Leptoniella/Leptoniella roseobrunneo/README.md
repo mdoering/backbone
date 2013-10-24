@@ -1,5 +1,4 @@
-Leptoniella roseobrunneo Murrill SPECIES
-=======
+# Leptoniella roseobrunneo Murrill SPECIES
 
 #### Status
 ACCEPTED

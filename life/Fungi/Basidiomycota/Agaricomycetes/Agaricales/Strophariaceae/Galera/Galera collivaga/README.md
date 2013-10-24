@@ -1,5 +1,4 @@
-Galera collivaga Velen. SPECIES
-=======
+# Galera collivaga Velen. SPECIES
 
 #### Status
 ACCEPTED

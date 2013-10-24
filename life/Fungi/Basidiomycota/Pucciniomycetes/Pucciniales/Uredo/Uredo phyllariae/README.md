@@ -1,5 +1,4 @@
-Uredo phyllariae Castagne SPECIES
-=======
+# Uredo phyllariae Castagne SPECIES
 
 #### Status
 ACCEPTED

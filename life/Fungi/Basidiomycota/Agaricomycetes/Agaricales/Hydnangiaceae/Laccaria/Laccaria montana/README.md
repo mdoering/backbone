@@ -1,5 +1,4 @@
-Laccaria montana Singer SPECIES
-=======
+# Laccaria montana Singer SPECIES
 
 #### Status
 ACCEPTED

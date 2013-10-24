@@ -1,5 +1,4 @@
-Hypogymnia inactiva (Krog) Ohlsson SPECIES
-=======
+# Hypogymnia inactiva (Krog) Ohlsson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactobacillus yamanashiensis subsp. yamanashiensis SUBSPECIES
-=======
+# Lactobacillus yamanashiensis (ex Nonomura et al., 1965) Nonomura, 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sorosporium turneri McAlpine SPECIES
-=======
+# Sorosporium turneri McAlpine SPECIES
 
 #### Status
 ACCEPTED

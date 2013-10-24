@@ -1,5 +1,4 @@
-Flavobacteriaceae FAMILY
-=======
+# Flavobacteriaceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calothrix cylindrica Frémy SPECIES
-=======
+# Calothrix cylindrica Frémy SPECIES
 
 #### Status
 ACCEPTED

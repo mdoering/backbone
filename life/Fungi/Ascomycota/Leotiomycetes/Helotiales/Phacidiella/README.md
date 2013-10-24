@@ -1,5 +1,4 @@
-Phacidiella P. Karsten, 1884 GENUS
-=======
+# Phacidiella P. Karsten, 1884 GENUS
 
 #### Status
 ACCEPTED

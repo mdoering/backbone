@@ -1,5 +1,4 @@
-Physalospora phomatoides (Mont.) Sacc. SPECIES
-=======
+# Physalospora phomatoides (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

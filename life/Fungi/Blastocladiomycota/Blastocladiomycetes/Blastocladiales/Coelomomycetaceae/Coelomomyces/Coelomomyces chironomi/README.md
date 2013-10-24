@@ -1,5 +1,4 @@
-Coelomomyces chironomi var. chironomi VARIETY
-=======
+# Coelomomyces chironomi Rasín SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Coelomomyces chironomi var. chironomi
+Coelomomyces chironomi Rasín
 
 ### Remarks
 null

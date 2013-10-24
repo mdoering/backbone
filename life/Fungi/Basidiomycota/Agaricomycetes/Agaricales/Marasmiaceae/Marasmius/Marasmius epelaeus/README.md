@@ -1,5 +1,4 @@
-Marasmius epelaeus Singer SPECIES
-=======
+# Marasmius epelaeus Singer SPECIES
 
 #### Status
 ACCEPTED

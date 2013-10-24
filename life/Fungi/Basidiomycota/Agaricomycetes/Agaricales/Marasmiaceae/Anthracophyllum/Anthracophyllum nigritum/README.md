@@ -1,8 +1,7 @@
-Xerotus nigritus Lév., 1846 SPECIES
-=======
+# Anthracophyllum nigritum (Lév.) Kalchbr., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Xerotus nigrita Lév.
 
 ### Remarks
 null

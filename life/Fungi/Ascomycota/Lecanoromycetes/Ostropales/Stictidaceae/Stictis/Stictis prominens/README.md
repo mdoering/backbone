@@ -1,5 +1,4 @@
-Stictis prominens Sherwood SPECIES
-=======
+# Stictis prominens Sherwood SPECIES
 
 #### Status
 ACCEPTED

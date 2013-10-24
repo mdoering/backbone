@@ -1,5 +1,4 @@
-Spirillum concentricum SPECIES
-=======
+# Spirillum concentricum SPECIES
 
 #### Status
 ACCEPTED

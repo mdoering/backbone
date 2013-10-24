@@ -1,5 +1,4 @@
-Navicella characiae (Fabre) Kuntze SPECIES
-=======
+# Navicella characiae (Fabre) Kuntze SPECIES
 
 #### Status
 ACCEPTED

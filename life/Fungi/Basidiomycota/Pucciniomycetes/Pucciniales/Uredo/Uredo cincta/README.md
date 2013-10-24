@@ -1,5 +1,4 @@
-Uredo cincta ß betae Pers. SPECIES
-=======
+# Uredo cincta ß betae Pers. SPECIES
 
 #### Status
 ACCEPTED

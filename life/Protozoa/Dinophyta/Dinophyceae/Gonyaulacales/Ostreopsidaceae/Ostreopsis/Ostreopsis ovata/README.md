@@ -1,5 +1,4 @@
-Ostreopsis ovata Fukuyo SPECIES
-=======
+# Ostreopsis ovata Fukuyo SPECIES
 
 #### Status
 ACCEPTED

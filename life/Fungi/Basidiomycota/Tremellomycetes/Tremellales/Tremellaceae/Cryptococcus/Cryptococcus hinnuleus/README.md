@@ -1,5 +1,4 @@
-Cryptococcus hinnuleus R.G. Shivas & Rodr. Mir. SPECIES
-=======
+# Cryptococcus hinnuleus R.G. Shivas & Rodr. Mir. SPECIES
 
 #### Status
 ACCEPTED

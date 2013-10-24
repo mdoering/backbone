@@ -1,5 +1,4 @@
-Filisphaeridium spinatum (Jiabo, 1978) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium spinatum (Jiabo, 1978) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

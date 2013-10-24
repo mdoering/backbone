@@ -1,5 +1,4 @@
-Pannaria waghornei Eckfeldt SPECIES
-=======
+# Pannaria waghornei Eckfeldt SPECIES
 
 #### Status
 ACCEPTED

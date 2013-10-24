@@ -1,5 +1,4 @@
-Microdiplodia rosae (Berk. & M.A. Curtis) Tassi SPECIES
-=======
+# Microdiplodia rosae (Berk. & M.A. Curtis) Tassi SPECIES
 
 #### Status
 ACCEPTED

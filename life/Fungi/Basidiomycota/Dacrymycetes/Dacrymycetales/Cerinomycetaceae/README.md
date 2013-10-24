@@ -1,5 +1,4 @@
-Cerinomycetaceae Jülich FAMILY
-=======
+# Cerinomycetaceae Jülich FAMILY
 
 #### Status
 ACCEPTED

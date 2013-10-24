@@ -1,5 +1,4 @@
-Gerronema longipes Pegler SPECIES
-=======
+# Gerronema longipes Pegler SPECIES
 
 #### Status
 ACCEPTED

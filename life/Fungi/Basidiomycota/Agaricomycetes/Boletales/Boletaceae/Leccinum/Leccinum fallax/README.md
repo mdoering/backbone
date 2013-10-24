@@ -1,5 +1,4 @@
-Leccinum fallax A.H. Sm., Thiers & Watling SPECIES
-=======
+# Leccinum fallax A.H. Sm., Thiers & Watling SPECIES
 
 #### Status
 ACCEPTED

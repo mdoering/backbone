@@ -1,5 +1,4 @@
-Phyllosticta lutetiana Sacc., 1878 SPECIES
-=======
+# Phyllosticta lutetiana Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED

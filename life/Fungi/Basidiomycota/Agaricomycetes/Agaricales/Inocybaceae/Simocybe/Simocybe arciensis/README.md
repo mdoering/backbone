@@ -1,5 +1,4 @@
-Simocybe arciensis (Contu) P.-A. Moreau & Lavoise SPECIES
-=======
+# Simocybe arciensis (Contu) P.-A. Moreau & Lavoise SPECIES
 
 #### Status
 ACCEPTED

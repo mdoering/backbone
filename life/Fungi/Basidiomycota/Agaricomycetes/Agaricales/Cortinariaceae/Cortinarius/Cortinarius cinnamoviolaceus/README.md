@@ -1,5 +1,4 @@
-Cortinarius cinnamoviolaceus M.M. Moser, 1968 SPECIES
-=======
+# Cortinarius cinnamoviolaceus M.M. Moser, 1968 SPECIES
 
 #### Status
 ACCEPTED

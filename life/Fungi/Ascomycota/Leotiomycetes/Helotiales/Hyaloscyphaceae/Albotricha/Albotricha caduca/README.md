@@ -1,5 +1,4 @@
-Albotricha caduca (Rehm) Raitv. & Sacconi SPECIES
-=======
+# Albotricha caduca (Rehm) Raitv. & Sacconi SPECIES
 
 #### Status
 ACCEPTED

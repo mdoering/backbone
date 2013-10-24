@@ -1,5 +1,4 @@
-Dematium coelosporium Fr. SPECIES
-=======
+# Dematium coelosporium Fr. SPECIES
 
 #### Status
 ACCEPTED

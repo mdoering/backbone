@@ -1,5 +1,4 @@
-Calvatia defodioidis Lloyd SPECIES
-=======
+# Calvatia defodioidis Lloyd SPECIES
 
 #### Status
 ACCEPTED

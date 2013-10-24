@@ -1,17 +1,16 @@
-Tremella biparasitica Fr., 1822 SPECIES
-=======
+# Phyllopta biparasitica Fr., 1825 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 2(1): 219 (1822)
+Syst. orb. veg. (Lundae) 1: (1825)
 
 #### Original name
-Tremella biparasitica Fr., 1822
+Phyllopta biparasitica Fr., 1825
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cortinarius croceobasalis Kärcher & Seibt SPECIES
-=======
+# Cortinarius croceobasalis Kärcher & Seibt SPECIES
 
 #### Status
 ACCEPTED

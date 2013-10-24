@@ -1,5 +1,4 @@
-Phyllachora andropogonis-aciculati Sawada SPECIES
-=======
+# Phyllachora andropogonis-aciculati Sawada SPECIES
 
 #### Status
 ACCEPTED

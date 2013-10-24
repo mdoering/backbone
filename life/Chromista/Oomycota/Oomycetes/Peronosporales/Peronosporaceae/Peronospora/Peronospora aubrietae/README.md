@@ -1,5 +1,4 @@
-Peronospora aubrietae Mayor SPECIES
-=======
+# Peronospora aubrietae Mayor SPECIES
 
 #### Status
 ACCEPTED

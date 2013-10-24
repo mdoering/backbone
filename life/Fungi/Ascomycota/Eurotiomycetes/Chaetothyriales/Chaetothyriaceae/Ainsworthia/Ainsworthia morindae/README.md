@@ -1,5 +1,4 @@
-Ainsworthia morindae (J.M. Mend.) Bat. SPECIES
-=======
+# Ainsworthia morindae (J.M. Mend.) Bat. SPECIES
 
 #### Status
 ACCEPTED

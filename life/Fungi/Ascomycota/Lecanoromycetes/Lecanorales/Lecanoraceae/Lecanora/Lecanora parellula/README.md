@@ -1,5 +1,4 @@
-Lecanora parellula (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Lecanora parellula (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

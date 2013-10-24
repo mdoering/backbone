@@ -1,5 +1,4 @@
-Blepharisma tardum Kahl, 1928 SPECIES
-=======
+# Blepharisma tardum Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

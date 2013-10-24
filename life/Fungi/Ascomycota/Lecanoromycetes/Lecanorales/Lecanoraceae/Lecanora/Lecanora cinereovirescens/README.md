@@ -1,5 +1,4 @@
-Lecanora cinereovirescens SPECIES
-=======
+# Lecanora cinereovirescens SPECIES
 
 #### Status
 ACCEPTED

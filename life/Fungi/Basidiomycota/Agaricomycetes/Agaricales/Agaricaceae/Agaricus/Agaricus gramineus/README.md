@@ -1,5 +1,4 @@
-Agaricus gramineus O.F. Müll. SPECIES
-=======
+# Agaricus gramineus O.F. Müll. SPECIES
 
 #### Status
 ACCEPTED

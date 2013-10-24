@@ -1,5 +1,4 @@
-Puccinia carbonacea Kalchbr. & Cooke SPECIES
-=======
+# Puccinia carbonacea Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

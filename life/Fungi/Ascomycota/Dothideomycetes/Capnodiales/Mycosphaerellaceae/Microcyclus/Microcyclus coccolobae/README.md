@@ -1,5 +1,4 @@
-Microcyclus coccolobae Vittal SPECIES
-=======
+# Microcyclus coccolobae Vittal SPECIES
 
 #### Status
 ACCEPTED

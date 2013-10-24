@@ -1,5 +1,4 @@
-Elfvingia reniformis (Morgan) Murrill SPECIES
-=======
+# Elfvingia reniformis (Morgan) Murrill SPECIES
 
 #### Status
 ACCEPTED

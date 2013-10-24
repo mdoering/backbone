@@ -1,5 +1,4 @@
-Perticiella He, Gao & Qiao, 1992 GENUS
-=======
+# Perticiella He, Gao & Qiao, 1992 GENUS
 
 #### Status
 ACCEPTED

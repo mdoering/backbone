@@ -1,14 +1,13 @@
-Aleurodiscus acerinus var. dryinus (Pers.) Bourdot & Galzin, 1913 VARIETY
-=======
+# Dendrothele dryina (Pers.) P.A. Lemke, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 28: 352 (1913)
+Persoonia 3(3): 366 (1965)
 
 #### Original name
 Thelephora dryina Pers., 1822

@@ -1,5 +1,4 @@
-Amycolatopsis sulphurea Lechevalier et al., 1986 SPECIES
-=======
+# Amycolatopsis sulphurea Lechevalier et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

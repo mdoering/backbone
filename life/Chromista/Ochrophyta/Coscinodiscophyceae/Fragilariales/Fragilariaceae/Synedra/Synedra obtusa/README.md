@@ -1,5 +1,4 @@
-Synedra obtusa W. Smith SPECIES
-=======
+# Synedra obtusa W. Smith SPECIES
 
 #### Status
 ACCEPTED

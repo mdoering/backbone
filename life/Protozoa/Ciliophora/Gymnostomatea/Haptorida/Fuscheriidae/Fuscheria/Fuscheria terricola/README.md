@@ -1,5 +1,4 @@
-Fuscheria terricola Berger, Foissner & Adam, 1983 SPECIES
-=======
+# Fuscheria terricola Berger, Foissner & Adam, 1983 SPECIES
 
 #### Status
 ACCEPTED

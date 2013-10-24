@@ -1,17 +1,16 @@
-Phyllachora andropogi (Schwein.) Ellis & Everh. SPECIES
-=======
+# Phyllachora americana Parbery, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Aust. J. Bot. 15: 290 (1967)
 
 #### Original name
-Sphaeria andropogonis Schwein., 1832
+Sphaeria nervisequia Schwein., 1832
 
 ### Remarks
 null

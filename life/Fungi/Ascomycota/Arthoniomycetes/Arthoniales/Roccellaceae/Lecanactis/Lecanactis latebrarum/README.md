@@ -1,5 +1,4 @@
-Lecanactis latebrarum (Ach.) Arnold SPECIES
-=======
+# Lecanactis latebrarum (Ach.) Arnold SPECIES
 
 #### Status
 ACCEPTED

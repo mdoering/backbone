@@ -1,5 +1,4 @@
-Gibbera rubiginosa Cooke SPECIES
-=======
+# Gibbera rubiginosa Cooke SPECIES
 
 #### Status
 ACCEPTED

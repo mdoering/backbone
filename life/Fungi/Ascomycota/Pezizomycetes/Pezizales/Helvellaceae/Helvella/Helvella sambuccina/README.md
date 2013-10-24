@@ -1,5 +1,4 @@
-Helvella sambuccina Scop. SPECIES
-=======
+# Helvella sambuccina Scop. SPECIES
 
 #### Status
 ACCEPTED

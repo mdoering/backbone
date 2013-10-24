@@ -1,5 +1,4 @@
-Oidium vernoniicola Bappamm., Hosag. & Udaiyan SPECIES
-=======
+# Oidium vernoniicola Bappamm., Hosag. & Udaiyan SPECIES
 
 #### Status
 ACCEPTED

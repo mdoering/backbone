@@ -1,5 +1,4 @@
-Leiosphaeridia pachyderma Sheshegova, 1984 SPECIES
-=======
+# Leiosphaeridia pachyderma Sheshegova, 1984 SPECIES
 
 #### Status
 ACCEPTED

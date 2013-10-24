@@ -1,14 +1,13 @@
-Culicinomyces parasiticus (G.L. Barron) Sigler, 1987 SPECIES
-=======
+# Pochonia parasitica (G.L. Barron) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Sigler, Frances & Panter, Mycologia 79(4): 498 (1987)
+in Sung, Hywel-Jones, Sung, Luangsa-ard, Shrestha & Spatafora, Stud. Mycol. 57: 35 (2007)
 
 #### Original name
 Tolypocladium parasiticum G.L. Barron, 1980

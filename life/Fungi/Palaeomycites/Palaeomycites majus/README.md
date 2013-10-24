@@ -1,5 +1,4 @@
-Palaeomycites majus (Renault) Mesch. SPECIES
-=======
+# Palaeomycites majus (Renault) Mesch. SPECIES
 
 #### Status
 ACCEPTED

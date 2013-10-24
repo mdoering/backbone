@@ -1,5 +1,4 @@
-Tarichium hyalinum Balazy, J. Wisn. & S. Kaczm. SPECIES
-=======
+# Tarichium hyalinum Balazy, J. Wisn. & S. Kaczm. SPECIES
 
 #### Status
 ACCEPTED

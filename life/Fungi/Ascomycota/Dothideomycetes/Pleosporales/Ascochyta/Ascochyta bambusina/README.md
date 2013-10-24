@@ -1,14 +1,13 @@
-Hendersonia bambusina (V.G. Rao) Punith., 1979 SPECIES
-=======
+# Ascochyta bambusina V.G. Rao, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 142: 183 (1979)
+Publções Inst. Micol. Recife 383: 4 (1963)
 
 #### Original name
 Ascochyta bambusina V.G. Rao, 1963

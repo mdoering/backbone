@@ -1,5 +1,4 @@
-Pseudohaplocaulus infravacuolatus Foissner & Brozek, 1996 SPECIES
-=======
+# Pseudohaplocaulus infravacuolatus Foissner & Brozek, 1996 SPECIES
 
 #### Status
 ACCEPTED

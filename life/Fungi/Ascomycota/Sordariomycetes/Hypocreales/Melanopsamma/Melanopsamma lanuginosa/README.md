@@ -1,5 +1,4 @@
-Melanopsamma lanuginosa (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Melanopsamma lanuginosa (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

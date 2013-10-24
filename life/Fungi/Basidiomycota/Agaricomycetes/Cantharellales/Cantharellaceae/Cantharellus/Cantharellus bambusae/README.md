@@ -1,5 +1,4 @@
-Cantharellus bambusae Pat. & Demange SPECIES
-=======
+# Cantharellus bambusae Pat. & Demange SPECIES
 
 #### Status
 ACCEPTED

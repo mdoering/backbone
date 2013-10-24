@@ -1,5 +1,4 @@
-Dictyosporium verucosum Tzean & J. L. Chen SPECIES
-=======
+# Dictyosporium verucosum Tzean & J. L. Chen SPECIES
 
 #### Status
 ACCEPTED

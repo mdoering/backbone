@@ -1,5 +1,4 @@
-Entoloma disparile E. Horak SPECIES
-=======
+# Entoloma disparile E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepocinclis aegyptiaca Conrad SPECIES
-=======
+# Lepocinclis aegyptiaca Conrad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta stauntoniae Gucevic SPECIES
-=======
+# Phyllosticta stauntoniae Gucevic SPECIES
 
 #### Status
 ACCEPTED

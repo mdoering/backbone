@@ -1,5 +1,4 @@
-Guignardia fici-beecheyanae Sawada SPECIES
-=======
+# Guignardia fici-beecheyanae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Dileptus marouensis Dragesco, 1963 SPECIES
-=======
+# Rimaleptus marouensis (Dragesco, 1963) Vdacny & Foissner, 2011 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

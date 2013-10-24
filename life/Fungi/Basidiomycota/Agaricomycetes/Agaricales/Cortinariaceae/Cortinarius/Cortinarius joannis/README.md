@@ -1,5 +1,4 @@
-Cortinarius joannis (Velen.) G. Garnier SPECIES
-=======
+# Cortinarius joannis (Velen.) G. Garnier SPECIES
 
 #### Status
 ACCEPTED

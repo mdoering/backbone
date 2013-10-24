@@ -1,5 +1,4 @@
-Phoma digitalis Boerema, 1979 SPECIES
-=======
+# Phoma digitalis Boerema, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalideopsis trapperi Kalb & Vezda SPECIES
-=======
+# Gyalideopsis trapperi Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanoleuca harperi Murrill SPECIES
-=======
+# Melanoleuca harperi Murrill SPECIES
 
 #### Status
 ACCEPTED

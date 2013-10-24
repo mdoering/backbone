@@ -1,5 +1,4 @@
-Helotiella citri (Penz.) Sacc. SPECIES
-=======
+# Helotiella citri (Penz.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

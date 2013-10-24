@@ -1,5 +1,4 @@
-Stemphylium graminis (Corda) Bonord. SPECIES
-=======
+# Stemphylium graminis (Corda) Bonord. SPECIES
 
 #### Status
 ACCEPTED

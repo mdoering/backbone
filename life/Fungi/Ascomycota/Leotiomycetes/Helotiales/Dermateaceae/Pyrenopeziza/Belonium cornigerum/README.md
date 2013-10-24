@@ -1,5 +1,4 @@
-Belonium cornigerum Velen. SPECIES
-=======
+# Belonium cornigerum Velen. SPECIES
 
 #### Status
 ACCEPTED

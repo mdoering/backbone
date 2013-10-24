@@ -1,5 +1,4 @@
-Tribonema viride Pascher SPECIES
-=======
+# Tribonema viride Pascher SPECIES
 
 #### Status
 ACCEPTED

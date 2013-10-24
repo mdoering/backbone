@@ -1,5 +1,4 @@
-Jolyna furcata M.J. Wynne SPECIES
-=======
+# Jolyna furcata M.J. Wynne SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Taeniospora Marvanová GENUS
-=======
+# Taeniospora Marvanová GENUS
 
 #### Status
 ACCEPTED

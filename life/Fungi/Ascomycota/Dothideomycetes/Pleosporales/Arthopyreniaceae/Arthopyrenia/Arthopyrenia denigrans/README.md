@@ -1,5 +1,4 @@
-Arthopyrenia denigrans Müll. Arg. SPECIES
-=======
+# Arthopyrenia denigrans Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

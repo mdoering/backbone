@@ -1,5 +1,4 @@
-Salopidium K.J. Dorning, 1981 GENUS
-=======
+# Salopidium K.J. Dorning, 1981 GENUS
 
 #### Status
 ACCEPTED

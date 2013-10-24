@@ -1,5 +1,4 @@
-Bodo variabilis (Stokes) Lemmermann, 1914 SPECIES
-=======
+# Bodo variabilis (Stokes) Lemmermann, 1914 SPECIES
 
 #### Status
 ACCEPTED

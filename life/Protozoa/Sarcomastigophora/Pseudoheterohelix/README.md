@@ -1,5 +1,4 @@
-Pseudoheterohelix Aliyulla, 1977 GENUS
-=======
+# Pseudoheterohelix Aliyulla, 1977 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea inconcinna Nyl. SPECIES
-=======
+# Lecidea inconcinna Nyl. SPECIES
 
 #### Status
 ACCEPTED

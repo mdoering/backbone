@@ -1,5 +1,4 @@
-Massaria distincta Cooke SPECIES
-=======
+# Massaria distincta Cooke SPECIES
 
 #### Status
 ACCEPTED

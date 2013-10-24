@@ -1,5 +1,4 @@
-Laboulbenia tsacasi Balazuc SPECIES
-=======
+# Laboulbenia tsacasi Balazuc SPECIES
 
 #### Status
 ACCEPTED

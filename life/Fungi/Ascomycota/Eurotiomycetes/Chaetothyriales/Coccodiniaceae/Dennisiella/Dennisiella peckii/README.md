@@ -1,5 +1,4 @@
-Dennisiella peckii (Lindau) M.E. Barr, 1986 SPECIES
-=======
+# Dennisiella peckii (Lindau) M.E. Barr, 1986 SPECIES
 
 #### Status
 ACCEPTED

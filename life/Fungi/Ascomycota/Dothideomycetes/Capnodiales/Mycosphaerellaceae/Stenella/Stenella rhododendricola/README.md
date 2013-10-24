@@ -1,5 +1,4 @@
-Stenella rhododendricola Seema Misra, A.K. Srivast. & Kamal SPECIES
-=======
+# Stenella rhododendricola Seema Misra, A.K. Srivast. & Kamal SPECIES
 
 #### Status
 ACCEPTED

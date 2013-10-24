@@ -1,5 +1,4 @@
-Dicaeoma ledi (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Dicaeoma ledi (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

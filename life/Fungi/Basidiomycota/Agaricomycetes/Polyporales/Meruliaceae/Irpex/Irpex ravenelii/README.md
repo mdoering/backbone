@@ -1,5 +1,4 @@
-Irpex ravenelii (Berk.) Overh. SPECIES
-=======
+# Irpex ravenelii (Berk.) Overh. SPECIES
 
 #### Status
 ACCEPTED

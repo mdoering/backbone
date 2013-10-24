@@ -1,5 +1,4 @@
-Helminthosporium scolecoides Corda, 1837 SPECIES
-=======
+# Helminthosporium scolecoides Corda, 1837 SPECIES
 
 #### Status
 ACCEPTED

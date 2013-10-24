@@ -1,5 +1,4 @@
-Phacidites juglandis (R. Ludw.) Schimp. SPECIES
-=======
+# Phacidites juglandis (R. Ludw.) Schimp. SPECIES
 
 #### Status
 ACCEPTED

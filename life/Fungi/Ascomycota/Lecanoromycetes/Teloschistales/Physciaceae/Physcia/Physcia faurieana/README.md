@@ -1,5 +1,4 @@
-Physcia faurieana SPECIES
-=======
+# Physcia faurieana SPECIES
 
 #### Status
 ACCEPTED

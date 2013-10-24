@@ -1,5 +1,4 @@
-Laboulbenia orthomi Thaxt. SPECIES
-=======
+# Laboulbenia orthomi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

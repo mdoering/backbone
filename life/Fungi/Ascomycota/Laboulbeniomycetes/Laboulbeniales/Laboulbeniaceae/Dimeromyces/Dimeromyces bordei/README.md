@@ -1,5 +1,4 @@
-Dimeromyces bordei Maire SPECIES
-=======
+# Dimeromyces bordei Maire SPECIES
 
 #### Status
 ACCEPTED

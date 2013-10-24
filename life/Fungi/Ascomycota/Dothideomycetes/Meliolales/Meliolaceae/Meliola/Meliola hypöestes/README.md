@@ -1,5 +1,4 @@
-Meliola hypöestes Hansf. SPECIES
-=======
+# Meliola hypöestes Hansf. SPECIES
 
 #### Status
 ACCEPTED

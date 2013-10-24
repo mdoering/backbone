@@ -1,5 +1,4 @@
-Soleella Darker GENUS
-=======
+# Soleella Darker GENUS
 
 #### Status
 ACCEPTED

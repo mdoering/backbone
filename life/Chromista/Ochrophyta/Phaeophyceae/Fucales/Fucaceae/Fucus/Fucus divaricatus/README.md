@@ -1,5 +1,4 @@
-Fucus divaricatus Gunnerus, nom. illeg. SPECIES
-=======
+# Fucus divaricatus Gunnerus, nom. illeg. SPECIES
 
 #### Status
 ACCEPTED

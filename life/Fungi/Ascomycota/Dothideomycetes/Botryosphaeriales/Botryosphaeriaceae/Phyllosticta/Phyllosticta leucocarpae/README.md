@@ -1,5 +1,4 @@
-Phyllosticta leucocarpae G.F. Atk. SPECIES
-=======
+# Phyllosticta leucocarpae G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

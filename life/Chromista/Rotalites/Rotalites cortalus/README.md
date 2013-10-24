@@ -1,5 +1,4 @@
-Rotalites cortalus Blainville, 1824 SPECIES
-=======
+# Rotalites cortalus Blainville, 1824 SPECIES
 
 #### Status
 ACCEPTED

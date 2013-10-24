@@ -1,5 +1,4 @@
-Gloeosporium foetidophilum Stoneman SPECIES
-=======
+# Gloeosporium foetidophilum Stoneman SPECIES
 
 #### Status
 ACCEPTED

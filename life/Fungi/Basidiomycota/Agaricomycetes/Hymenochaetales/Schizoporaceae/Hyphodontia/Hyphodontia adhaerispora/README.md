@@ -1,17 +1,16 @@
-Xylodon adhaerisporus (Langer) Hjortstam & Ryvarden, 2009 SPECIES
-=======
+# Hyphodontia adhaerispora Langer, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Mycol. 154: 32 (1994)
 
 #### Original name
-null
+Hyphodontia adhaerispora Langer, 1994
 
 ### Remarks
 null

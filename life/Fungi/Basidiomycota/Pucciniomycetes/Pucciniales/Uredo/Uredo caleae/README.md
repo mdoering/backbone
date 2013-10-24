@@ -1,5 +1,4 @@
-Uredo caleae Mayor SPECIES
-=======
+# Uredo caleae Mayor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyaloscypha tiliae Velen. SPECIES
-=======
+# Hyaloscypha tiliae Velen. SPECIES
 
 #### Status
 ACCEPTED

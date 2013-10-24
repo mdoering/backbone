@@ -1,14 +1,13 @@
-Nodophtalmidium Macfadyen, 1939 GENUS
-=======
+# Nodophthalmidium Macfadyen, 1939 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-null
+J. R. Micros. Soc. , 59, 167.
 
 #### Original name
 null

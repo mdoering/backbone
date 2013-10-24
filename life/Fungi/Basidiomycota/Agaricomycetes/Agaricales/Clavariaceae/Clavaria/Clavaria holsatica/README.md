@@ -1,5 +1,4 @@
-Clavaria holsatica (Henn.) Sacc. SPECIES
-=======
+# Clavaria holsatica (Henn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

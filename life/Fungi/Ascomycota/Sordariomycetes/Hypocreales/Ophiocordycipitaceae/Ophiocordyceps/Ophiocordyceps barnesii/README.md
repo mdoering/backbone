@@ -1,5 +1,4 @@
-Ophiocordyceps barnesii (Thwaites) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps barnesii (Thwaites) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED

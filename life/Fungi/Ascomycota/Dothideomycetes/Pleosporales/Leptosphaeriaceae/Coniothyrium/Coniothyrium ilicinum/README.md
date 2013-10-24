@@ -1,14 +1,13 @@
-Clisosporium ilicinum (Ellis & H.W. Anderson) Kuntze, 1898 SPECIES
-=======
+# Coniothyrium ilicinum Ellis & H.W. Anderson, 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 458 (1898)
+Bot. Gaz. 16: 46 (1891)
 
 #### Original name
 Coniothyrium ilicinum Ellis & H.W. Anderson, 1891

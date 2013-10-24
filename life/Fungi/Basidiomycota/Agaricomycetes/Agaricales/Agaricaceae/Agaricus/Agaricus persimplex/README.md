@@ -1,5 +1,4 @@
-Agaricus persimplex Britzelm. SPECIES
-=======
+# Agaricus persimplex Britzelm. SPECIES
 
 #### Status
 ACCEPTED

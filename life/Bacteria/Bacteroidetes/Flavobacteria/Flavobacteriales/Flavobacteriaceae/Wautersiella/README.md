@@ -1,5 +1,4 @@
-Wautersiella Kampfer, Avesani, Janssens, Charlier, De Baere & Vaneechoutte, 2006 GENUS
-=======
+# Wautersiella Kampfer, Avesani, Janssens, Charlier, De Baere & Vaneechoutte, 2006 GENUS
 
 #### Status
 ACCEPTED

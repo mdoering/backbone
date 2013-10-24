@@ -1,5 +1,4 @@
-Lecidea geminata Nyl. SPECIES
-=======
+# Lecidea geminata Nyl. SPECIES
 
 #### Status
 ACCEPTED

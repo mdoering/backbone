@@ -1,5 +1,4 @@
-Periconia levispora J. Lindau SPECIES
-=======
+# Periconia levispora J. Lindau SPECIES
 
 #### Status
 ACCEPTED

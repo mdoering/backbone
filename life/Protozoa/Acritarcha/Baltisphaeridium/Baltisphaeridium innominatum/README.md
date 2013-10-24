@@ -1,5 +1,4 @@
-Baltisphaeridium innominatum Timofeev, 1959 ex Hu Yunxu, 1986 SPECIES
-=======
+# Baltisphaeridium innominatum Timofeev, 1959 ex Hu Yunxu, 1986 SPECIES
 
 #### Status
 ACCEPTED

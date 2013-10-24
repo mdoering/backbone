@@ -1,5 +1,4 @@
-Lecanora casuarinophila Lumbsch SPECIES
-=======
+# Lecanora casuarinophila Lumbsch SPECIES
 
 #### Status
 ACCEPTED

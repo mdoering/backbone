@@ -1,5 +1,4 @@
-Phyllosticta solidaginis-serotinae Petr. SPECIES
-=======
+# Phyllosticta solidaginis-serotinae Petr. SPECIES
 
 #### Status
 ACCEPTED

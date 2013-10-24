@@ -1,5 +1,4 @@
-Phoma anethicola Allesch. SPECIES
-=======
+# Phoma anethicola Allesch. SPECIES
 
 #### Status
 ACCEPTED

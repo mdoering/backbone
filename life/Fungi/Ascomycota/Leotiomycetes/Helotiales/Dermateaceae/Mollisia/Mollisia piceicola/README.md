@@ -1,5 +1,4 @@
-Mollisia piceicola Velen. SPECIES
-=======
+# Mollisia piceicola Velen. SPECIES
 
 #### Status
 ACCEPTED

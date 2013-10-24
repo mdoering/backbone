@@ -1,5 +1,4 @@
-Encoelia impudicella P. Karst. SPECIES
-=======
+# Encoelia impudicella P. Karst. SPECIES
 
 #### Status
 ACCEPTED

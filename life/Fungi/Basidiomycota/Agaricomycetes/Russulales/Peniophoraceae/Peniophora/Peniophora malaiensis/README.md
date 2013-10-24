@@ -1,5 +1,4 @@
-Peniophora malaiensis Boidin, Lanq. & Gilles, 1991 SPECIES
-=======
+# Peniophora malaiensis Boidin, Lanq. & Gilles, 1991 SPECIES
 
 #### Status
 ACCEPTED

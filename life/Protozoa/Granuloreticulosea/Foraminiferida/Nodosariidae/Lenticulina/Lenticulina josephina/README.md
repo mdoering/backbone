@@ -1,5 +1,4 @@
-Lenticulina josephina (d'Orbigny) SPECIES
-=======
+# Lenticulina josephina (d'Orbigny) SPECIES
 
 #### Status
 ACCEPTED

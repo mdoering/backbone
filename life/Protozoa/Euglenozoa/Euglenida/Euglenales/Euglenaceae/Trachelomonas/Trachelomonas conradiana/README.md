@@ -1,5 +1,4 @@
-Trachelomonas conradiana Deflandre SPECIES
-=======
+# Trachelomonas conradiana Deflandre SPECIES
 
 #### Status
 ACCEPTED

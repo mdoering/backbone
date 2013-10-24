@@ -1,5 +1,4 @@
-Goniosphaeridium elongatum Turner, 1984 SPECIES
-=======
+# Goniosphaeridium elongatum Turner, 1984 SPECIES
 
 #### Status
 ACCEPTED

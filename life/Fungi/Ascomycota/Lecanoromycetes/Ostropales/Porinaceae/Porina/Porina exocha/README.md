@@ -1,17 +1,16 @@
-Porina endochrysea Bab. SPECIES
-=======
+# Porina exocha (Nyl.) P. M. McCarthy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 32(1): 23 (2000)
 
 #### Original name
-Porina endochrysea Bab.
+null
 
 ### Remarks
 null

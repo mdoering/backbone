@@ -1,5 +1,4 @@
-Monopodium uredopsis var. uredopsis VARIETY
-=======
+# Monopodium uredopsis Delacr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Soc. mycol. Fr. 6: (1890)
 
 #### Original name
-Monopodium uredopsis var. uredopsis
+Monopodium uredopsis Delacr.
 
 ### Remarks
 null

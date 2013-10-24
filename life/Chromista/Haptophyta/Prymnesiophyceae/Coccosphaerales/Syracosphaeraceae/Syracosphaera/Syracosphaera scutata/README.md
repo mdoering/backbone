@@ -1,5 +1,4 @@
-Syracosphaera scutata J. Lecal-Schlauder SPECIES
-=======
+# Syracosphaera scutata J. Lecal-Schlauder SPECIES
 
 #### Status
 ACCEPTED

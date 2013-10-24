@@ -1,5 +1,4 @@
-Aecidium tellinianum Sacc. SPECIES
-=======
+# Aecidium tellinianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

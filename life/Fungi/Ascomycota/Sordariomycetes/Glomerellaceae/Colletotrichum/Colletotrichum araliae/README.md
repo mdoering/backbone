@@ -1,5 +1,4 @@
-Colletotrichum araliae Kamal & R.P. Singh SPECIES
-=======
+# Colletotrichum araliae Kamal & R.P. Singh SPECIES
 
 #### Status
 ACCEPTED

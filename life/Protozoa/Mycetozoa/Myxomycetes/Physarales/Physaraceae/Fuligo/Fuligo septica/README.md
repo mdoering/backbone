@@ -1,17 +1,16 @@
-Aethalium septicum var. septicum (L.) Fr. VARIETY
-=======
+# Fuligo septica (L.) F.H. Wigg., 1780 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 3(1): 93 (1829)
+null
 
 #### Original name
-Aethalium septicum var. septicum (L.) Fr.
+null
 
 ### Remarks
 null

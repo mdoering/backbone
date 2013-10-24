@@ -1,5 +1,4 @@
-Nectria citrinoaurantia Lacroix, 1860 SPECIES
-=======
+# Nectria citrinoaurantia Lacroix, 1860 SPECIES
 
 #### Status
 ACCEPTED

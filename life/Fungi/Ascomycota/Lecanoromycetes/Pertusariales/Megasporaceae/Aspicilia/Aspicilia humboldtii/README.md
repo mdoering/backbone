@@ -1,5 +1,4 @@
-Aspicilia humboldtii (Lynge) J.W. Thomson SPECIES
-=======
+# Aspicilia humboldtii (Lynge) J.W. Thomson SPECIES
 
 #### Status
 ACCEPTED

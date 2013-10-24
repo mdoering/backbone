@@ -1,5 +1,4 @@
-Collybia zonata Peck SPECIES
-=======
+# Collybia zonata Peck SPECIES
 
 #### Status
 ACCEPTED

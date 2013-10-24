@@ -1,5 +1,4 @@
-Cyrtostrombidium longisomum Lynn & Gilron, 1993 SPECIES
-=======
+# Cyrtostrombidium longisomum Lynn & Gilron, 1993 SPECIES
 
 #### Status
 ACCEPTED

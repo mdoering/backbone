@@ -1,5 +1,4 @@
-Passalora malkoffii (Bubák) U. Braun SPECIES
-=======
+# Passalora malkoffii (Bubák) U. Braun SPECIES
 
 #### Status
 ACCEPTED

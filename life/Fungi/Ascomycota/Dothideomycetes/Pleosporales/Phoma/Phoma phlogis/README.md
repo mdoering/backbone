@@ -1,5 +1,4 @@
-Phoma phlogis Roum. SPECIES
-=======
+# Phoma phlogis Roum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Piricauda vernoniae (Dearn. & Barthol.) R.T. Moore SPECIES
-=======
+# Piricauda vernoniae (Dearn. & Barthol.) R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

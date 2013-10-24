@@ -1,5 +1,4 @@
-Lactarius gerardii var. gerardii VARIETY
-=======
+# Lactarius gerardii Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Buffalo Soc. nat. Sci. 1: 57 (1873)
 
 #### Original name
-Lactarius gerardii var. gerardii
+Lactarius gerardii Peck
 
 ### Remarks
 null

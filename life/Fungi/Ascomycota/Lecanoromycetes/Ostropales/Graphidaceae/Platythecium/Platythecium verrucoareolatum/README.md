@@ -1,5 +1,4 @@
-Platythecium verrucoareolatum Adaw. & Makhija SPECIES
-=======
+# Platythecium verrucoareolatum Adaw. & Makhija SPECIES
 
 #### Status
 ACCEPTED

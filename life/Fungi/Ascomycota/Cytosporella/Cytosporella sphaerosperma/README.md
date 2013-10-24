@@ -1,5 +1,4 @@
-Cytosporella sphaerosperma (Westend.) Sacc. SPECIES
-=======
+# Cytosporella sphaerosperma (Westend.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

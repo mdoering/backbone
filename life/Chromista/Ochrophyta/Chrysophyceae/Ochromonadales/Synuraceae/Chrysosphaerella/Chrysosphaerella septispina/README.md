@@ -1,5 +1,4 @@
-Chrysosphaerella septispina (K. H. Nicholls) J. Kristiansen & D. Tong SPECIES
-=======
+# Chrysosphaerella septispina (K. H. Nicholls) J. Kristiansen & D. Tong SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clathroporina nitidula (Malme) Zahlbr. SPECIES
-=======
+# Clathroporina nitidula (Malme) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

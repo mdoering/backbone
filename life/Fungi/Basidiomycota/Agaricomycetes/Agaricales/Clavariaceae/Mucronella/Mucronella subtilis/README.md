@@ -1,5 +1,4 @@
-Mucronella subtilis P. Karst. SPECIES
-=======
+# Mucronella subtilis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

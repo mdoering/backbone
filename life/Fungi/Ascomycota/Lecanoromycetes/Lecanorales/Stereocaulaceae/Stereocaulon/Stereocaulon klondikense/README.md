@@ -1,5 +1,4 @@
-Stereocaulon klondikense T. Sprib. SPECIES
-=======
+# Stereocaulon klondikense T. Sprib. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina pouzolziae Hansf., 1954 SPECIES
-=======
+# Asterina pouzolziae Hansf., 1954 SPECIES
 
 #### Status
 ACCEPTED

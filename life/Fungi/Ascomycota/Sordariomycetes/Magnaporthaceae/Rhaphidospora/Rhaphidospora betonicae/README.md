@@ -1,5 +1,4 @@
-Rhaphidospora betonicae Thüm. SPECIES
-=======
+# Rhaphidospora betonicae Thüm. SPECIES
 
 #### Status
 ACCEPTED

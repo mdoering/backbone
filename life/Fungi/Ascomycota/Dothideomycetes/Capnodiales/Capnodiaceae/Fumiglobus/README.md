@@ -1,17 +1,16 @@
-Fumeiglobus D.R. Reynolds & G.S. Gilbert GENUS
-=======
+# Fumiglobus D.R. Reynolds & G.S. Gilbert GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cryptog. Mycol. 27(3): 252 (2006)
 
 #### Original name
-Fumeiglobus D.R. Reynolds & G.S. Gilbert
+Fumiglobus D.R. Reynolds & G.S. Gilbert
 
 ### Remarks
 null

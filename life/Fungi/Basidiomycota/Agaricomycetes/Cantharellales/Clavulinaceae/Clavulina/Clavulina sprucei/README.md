@@ -1,14 +1,13 @@
-Clavaria sprucei Berk., 1856 SPECIES
-=======
+# Clavulina sprucei (Berk.) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hooker's J. Bot. Kew Gard. Misc. 8: 276 (1856)
+Ann. Bot. Mem. 1: 341 (1950)
 
 #### Original name
 Clavaria sprucei Berk., 1856

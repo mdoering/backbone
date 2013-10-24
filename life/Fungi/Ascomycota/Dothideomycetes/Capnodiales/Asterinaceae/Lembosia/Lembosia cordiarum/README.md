@@ -1,5 +1,4 @@
-Lembosia cordiarum Bat. SPECIES
-=======
+# Lembosia cordiarum Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphingomonas aquatilis Lee et al., 2001 SPECIES
-=======
+# Sphingomonas aquatilis Lee et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

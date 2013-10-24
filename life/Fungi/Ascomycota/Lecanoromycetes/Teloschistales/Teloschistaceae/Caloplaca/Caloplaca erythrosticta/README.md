@@ -1,14 +1,13 @@
-Callopisma erythrostictum (Taylor) Müll. Arg. SPECIES
-=======
+# Caloplaca erythrosticta (Taylor) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 71: 533 (1888)
+Cat. Lich. Univers. 7: 116 (1930)
 
 #### Original name
 Lecanora erythrosticta Taylor

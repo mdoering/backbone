@@ -1,5 +1,4 @@
-Bacidia gallowayi Coppins & Fryday SPECIES
-=======
+# Bacidia gallowayi Coppins & Fryday SPECIES
 
 #### Status
 ACCEPTED

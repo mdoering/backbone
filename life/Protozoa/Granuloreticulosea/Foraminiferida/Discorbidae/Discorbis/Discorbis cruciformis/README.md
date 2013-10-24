@@ -1,5 +1,4 @@
-Discorbis cruciformis (Howchin) SPECIES
-=======
+# Discorbis cruciformis (Howchin) SPECIES
 
 #### Status
 ACCEPTED

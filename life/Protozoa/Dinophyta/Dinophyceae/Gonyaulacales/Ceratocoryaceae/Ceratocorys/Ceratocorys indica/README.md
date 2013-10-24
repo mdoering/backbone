@@ -1,5 +1,4 @@
-Ceratocorys indica Wood, 1963 SPECIES
-=======
+# Ceratocorys indica Wood, 1963 SPECIES
 
 #### Status
 ACCEPTED

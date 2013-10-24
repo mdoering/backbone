@@ -1,5 +1,4 @@
-Lecidea alaskensis Nyl. SPECIES
-=======
+# Lecidea alaskensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe rufidula Kauffman SPECIES
-=======
+# Inocybe rufidula Kauffman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiocytium maius SPECIES
-=======
+# Ophiocytium maius SPECIES
 
 #### Status
 ACCEPTED

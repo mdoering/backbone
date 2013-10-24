@@ -1,5 +1,4 @@
-Peronospora officinalis anon. SPECIES
-=======
+# Peronospora officinalis anon. SPECIES
 
 #### Status
 ACCEPTED

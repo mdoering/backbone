@@ -1,5 +1,4 @@
-Syncyathella catillicola (Matthes & Guhl, 1972) Jankowski, 2007 SPECIES
-=======
+# Syncyathella catillicola (Matthes & Guhl, 1972) Jankowski, 2007 SPECIES
 
 #### Status
 ACCEPTED

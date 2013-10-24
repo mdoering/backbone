@@ -1,5 +1,4 @@
-Pandaglandulina dinapolii Loeblich & Tappan, 1955 SPECIES
-=======
+# Pandaglandulina dinapolii Loeblich & Tappan, 1955 SPECIES
 
 #### Status
 ACCEPTED

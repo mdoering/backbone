@@ -1,5 +1,4 @@
-Solenodonta flotowii Rabenh. SPECIES
-=======
+# Solenodonta flotowii Rabenh. SPECIES
 
 #### Status
 ACCEPTED

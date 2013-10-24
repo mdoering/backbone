@@ -1,5 +1,4 @@
-Alysidium versicolor (Speg.) Kuntze SPECIES
-=======
+# Alysidium versicolor (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

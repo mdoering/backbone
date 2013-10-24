@@ -1,5 +1,4 @@
-Agaricus subpratensis Murrill SPECIES
-=======
+# Agaricus subpratensis Murrill SPECIES
 
 #### Status
 ACCEPTED

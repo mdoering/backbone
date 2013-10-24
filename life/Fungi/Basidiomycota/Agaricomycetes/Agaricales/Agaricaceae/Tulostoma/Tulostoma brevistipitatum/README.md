@@ -1,5 +1,4 @@
-Tulostoma brevistipitatum B. Liu, Z.Y. Li & Du SPECIES
-=======
+# Tulostoma brevistipitatum B. Liu, Z.Y. Li & Du SPECIES
 
 #### Status
 ACCEPTED

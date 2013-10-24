@@ -1,5 +1,4 @@
-Macrophoma barringtoniae D.V. Singh & B.M. Khanna {?} SPECIES
-=======
+# Macrophoma barringtoniae D.V. Singh & B.M. Khanna {?} SPECIES
 
 #### Status
 ACCEPTED

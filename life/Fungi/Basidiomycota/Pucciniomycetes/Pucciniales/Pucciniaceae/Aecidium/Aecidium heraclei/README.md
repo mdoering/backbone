@@ -1,5 +1,4 @@
-Aecidium heraclei (Dozy & Molk.) Oudem. SPECIES
-=======
+# Aecidium heraclei (Dozy & Molk.) Oudem. SPECIES
 
 #### Status
 ACCEPTED

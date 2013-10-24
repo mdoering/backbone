@@ -1,5 +1,4 @@
-Asteridiella soyauxiae Deighton SPECIES
-=======
+# Asteridiella soyauxiae Deighton SPECIES
 
 #### Status
 ACCEPTED

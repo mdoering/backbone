@@ -1,5 +1,4 @@
-Hyperthermus Zillig, Holz & Wunderl, 1991 GENUS
-=======
+# Hyperthermus Zillig, Holz & Wunderl, 1991 GENUS
 
 #### Status
 ACCEPTED

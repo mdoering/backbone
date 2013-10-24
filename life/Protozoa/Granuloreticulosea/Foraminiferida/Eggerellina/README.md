@@ -1,5 +1,4 @@
-Eggerellina Marie, 1941 GENUS
-=======
+# Eggerellina Marie, 1941 GENUS
 
 #### Status
 ACCEPTED

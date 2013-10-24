@@ -1,5 +1,4 @@
-Marasmius sasicola Har. Takah. SPECIES
-=======
+# Marasmius sasicola Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

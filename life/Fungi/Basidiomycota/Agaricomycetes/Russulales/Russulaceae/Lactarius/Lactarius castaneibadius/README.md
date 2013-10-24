@@ -1,5 +1,4 @@
-Lactarius castaneibadius Pegler SPECIES
-=======
+# Lactarius castaneibadius Pegler SPECIES
 
 #### Status
 ACCEPTED

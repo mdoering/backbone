@@ -1,5 +1,4 @@
-Chromulina pseudonebulosa SPECIES
-=======
+# Chromulina pseudonebulosa SPECIES
 
 #### Status
 ACCEPTED

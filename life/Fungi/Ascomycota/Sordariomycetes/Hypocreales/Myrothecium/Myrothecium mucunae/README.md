@@ -1,5 +1,4 @@
-Myrothecium mucunae R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Myrothecium mucunae R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

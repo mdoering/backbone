@@ -1,5 +1,4 @@
-Cercospora pseudachyranthis R.F. Castañeda & U. Braun SPECIES
-=======
+# Cercospora pseudachyranthis R.F. Castañeda & U. Braun SPECIES
 
 #### Status
 ACCEPTED

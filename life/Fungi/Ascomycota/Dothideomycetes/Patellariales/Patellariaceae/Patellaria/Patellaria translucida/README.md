@@ -1,5 +1,4 @@
-Patellaria translucida Müll. Arg. SPECIES
-=======
+# Patellaria translucida Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

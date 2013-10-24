@@ -1,5 +1,4 @@
-Gibbera petrakii E. Müll. SPECIES
-=======
+# Gibbera petrakii E. Müll. SPECIES
 
 #### Status
 ACCEPTED

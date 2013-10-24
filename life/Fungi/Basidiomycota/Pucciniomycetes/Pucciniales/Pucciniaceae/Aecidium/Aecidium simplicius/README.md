@@ -1,5 +1,4 @@
-Aecidium simplicius Arthur & J.R. Johnst. SPECIES
-=======
+# Aecidium simplicius Arthur & J.R. Johnst. SPECIES
 
 #### Status
 ACCEPTED

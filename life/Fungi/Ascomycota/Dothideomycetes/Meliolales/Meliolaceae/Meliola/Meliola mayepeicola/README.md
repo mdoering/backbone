@@ -1,5 +1,4 @@
-Meliola mayepeicola F. Stevens SPECIES
-=======
+# Meliola mayepeicola F. Stevens SPECIES
 
 #### Status
 ACCEPTED

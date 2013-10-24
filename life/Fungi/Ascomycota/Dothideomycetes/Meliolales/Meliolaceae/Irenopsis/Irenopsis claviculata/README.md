@@ -1,5 +1,4 @@
-Irenopsis claviculata (Doidge) F. Stevens SPECIES
-=======
+# Irenopsis claviculata (Doidge) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypogymnia subpruinosa J.B. Chen SPECIES
-=======
+# Hypogymnia subpruinosa J.B. Chen SPECIES
 
 #### Status
 ACCEPTED

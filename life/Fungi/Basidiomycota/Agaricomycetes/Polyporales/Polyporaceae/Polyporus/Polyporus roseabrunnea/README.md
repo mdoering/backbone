@@ -1,5 +1,4 @@
-Polyporus roseabrunnea Lloyd SPECIES
-=======
+# Polyporus roseabrunnea Lloyd SPECIES
 
 #### Status
 ACCEPTED

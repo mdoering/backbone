@@ -1,5 +1,4 @@
-Mycosphaerella macedonica Petr. SPECIES
-=======
+# Mycosphaerella macedonica Petr. SPECIES
 
 #### Status
 ACCEPTED

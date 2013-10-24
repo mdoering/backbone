@@ -1,5 +1,4 @@
-Verrucaria hypophyta Nyl. SPECIES
-=======
+# Verrucaria hypophyta Nyl. SPECIES
 
 #### Status
 ACCEPTED

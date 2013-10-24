@@ -1,5 +1,4 @@
-Sphaeria miltina Mont. SPECIES
-=======
+# Sphaeria miltina Mont. SPECIES
 
 #### Status
 ACCEPTED

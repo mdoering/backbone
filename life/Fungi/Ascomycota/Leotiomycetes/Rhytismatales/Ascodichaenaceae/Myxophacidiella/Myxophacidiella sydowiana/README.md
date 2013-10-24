@@ -1,5 +1,4 @@
-Myxophacidiella sydowiana Petr. SPECIES
-=======
+# Myxophacidiella sydowiana Petr. SPECIES
 
 #### Status
 ACCEPTED

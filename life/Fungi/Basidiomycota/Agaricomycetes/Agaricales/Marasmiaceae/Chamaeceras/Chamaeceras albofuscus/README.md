@@ -1,5 +1,4 @@
-Chamaeceras albofuscus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras albofuscus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

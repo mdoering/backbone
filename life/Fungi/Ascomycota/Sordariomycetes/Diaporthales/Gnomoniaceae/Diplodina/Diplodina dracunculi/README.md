@@ -1,5 +1,4 @@
-Diplodina dracunculi Vörös SPECIES
-=======
+# Diplodina dracunculi Vörös SPECIES
 
 #### Status
 ACCEPTED

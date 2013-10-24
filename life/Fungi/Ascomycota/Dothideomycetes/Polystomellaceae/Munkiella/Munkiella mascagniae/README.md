@@ -1,5 +1,4 @@
-Munkiella mascagniae var. mascagniae VARIETY
-=======
+# Munkiella mascagniae Starbäck SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bih. K. svenska VetenskAkad. Handl. 25(1): 46 (1899)
 
 #### Original name
-Munkiella mascagniae var. mascagniae
+Munkiella mascagniae Starbäck
 
 ### Remarks
 null

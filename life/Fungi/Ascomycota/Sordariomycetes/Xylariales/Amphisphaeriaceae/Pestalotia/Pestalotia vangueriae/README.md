@@ -1,5 +1,4 @@
-Pestalotia vangueriae Petch SPECIES
-=======
+# Pestalotia vangueriae Petch SPECIES
 
 #### Status
 ACCEPTED

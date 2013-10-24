@@ -1,5 +1,4 @@
-Pertusaria pseudodactylina A. W. Archer SPECIES
-=======
+# Pertusaria pseudodactylina A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

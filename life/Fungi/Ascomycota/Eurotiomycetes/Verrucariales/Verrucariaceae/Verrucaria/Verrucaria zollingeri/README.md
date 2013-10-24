@@ -1,5 +1,4 @@
-Verrucaria zollingeri (Müll. Arg.) Stizenb. SPECIES
-=======
+# Verrucaria zollingeri (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

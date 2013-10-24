@@ -1,5 +1,4 @@
-Coccophysium Link GENUS
-=======
+# Coccophysium Link GENUS
 
 #### Status
 ACCEPTED

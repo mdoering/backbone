@@ -1,5 +1,4 @@
-Favolaschia decurrens (Berk. & M.A. Curtis ex Cooke) Kuntze SPECIES
-=======
+# Favolaschia decurrens (Berk. & M.A. Curtis ex Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

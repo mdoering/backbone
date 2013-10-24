@@ -1,5 +1,4 @@
-Phoma glaucellae Vouaux SPECIES
-=======
+# Phoma glaucellae Vouaux SPECIES
 
 #### Status
 ACCEPTED

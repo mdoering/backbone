@@ -1,5 +1,4 @@
-Amanita crenulata Peck SPECIES
-=======
+# Amanita crenulata Peck SPECIES
 
 #### Status
 ACCEPTED

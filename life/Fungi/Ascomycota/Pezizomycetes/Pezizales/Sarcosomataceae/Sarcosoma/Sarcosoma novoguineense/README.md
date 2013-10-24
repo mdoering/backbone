@@ -1,5 +1,4 @@
-Sarcosoma novoguineense Ramsb. SPECIES
-=======
+# Sarcosoma novoguineense Ramsb. SPECIES
 
 #### Status
 ACCEPTED

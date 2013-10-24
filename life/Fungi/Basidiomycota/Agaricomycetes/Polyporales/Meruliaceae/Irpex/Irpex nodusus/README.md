@@ -1,5 +1,4 @@
-Irpex nodusus Rodway ex Y.S. Chang & Kantvilas SPECIES
-=======
+# Irpex nodusus Rodway ex Y.S. Chang & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo forsteroniae Henn. SPECIES
-=======
+# Uredo forsteroniae Henn. SPECIES
 
 #### Status
 ACCEPTED

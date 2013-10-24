@@ -1,5 +1,4 @@
-Sticta submarginifera Zahlbr. SPECIES
-=======
+# Sticta submarginifera Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

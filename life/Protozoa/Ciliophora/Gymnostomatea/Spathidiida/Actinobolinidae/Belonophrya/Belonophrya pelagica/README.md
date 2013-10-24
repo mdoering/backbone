@@ -1,5 +1,4 @@
-Belonophrya pelagica André, 1914 SPECIES
-=======
+# Belonophrya pelagica André, 1914 SPECIES
 
 #### Status
 ACCEPTED

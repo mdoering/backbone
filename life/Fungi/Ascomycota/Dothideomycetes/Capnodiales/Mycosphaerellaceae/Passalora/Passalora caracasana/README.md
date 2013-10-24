@@ -1,5 +1,4 @@
-Passalora caracasana Syd. SPECIES
-=======
+# Passalora caracasana Syd. SPECIES
 
 #### Status
 ACCEPTED

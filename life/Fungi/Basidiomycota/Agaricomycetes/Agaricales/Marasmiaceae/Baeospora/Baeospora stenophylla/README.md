@@ -1,5 +1,4 @@
-Baeospora stenophylla Maas Geest. & E. Horak SPECIES
-=======
+# Baeospora stenophylla Maas Geest. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

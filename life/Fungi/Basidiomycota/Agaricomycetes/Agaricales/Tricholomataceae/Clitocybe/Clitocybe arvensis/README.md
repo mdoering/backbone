@@ -1,5 +1,4 @@
-Clitocybe arvensis Velen. SPECIES
-=======
+# Clitocybe arvensis Velen. SPECIES
 
 #### Status
 ACCEPTED

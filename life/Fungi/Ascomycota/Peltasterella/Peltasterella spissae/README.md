@@ -1,5 +1,4 @@
-Peltasterella spissae Bat. & H. Maia SPECIES
-=======
+# Peltasterella spissae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

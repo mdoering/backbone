@@ -1,5 +1,4 @@
-Opegrapha pleistophragmoides (Nyl.) Müll. Arg. SPECIES
-=======
+# Opegrapha pleistophragmoides (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

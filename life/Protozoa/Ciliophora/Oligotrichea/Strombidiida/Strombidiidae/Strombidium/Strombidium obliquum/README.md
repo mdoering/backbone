@@ -1,5 +1,4 @@
-Strombidium obliquum Kahl, 1932 SPECIES
-=======
+# Strombidium obliquum Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

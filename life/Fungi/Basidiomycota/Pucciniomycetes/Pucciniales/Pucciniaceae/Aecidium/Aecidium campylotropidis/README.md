@@ -1,5 +1,4 @@
-Aecidium campylotropidis F.L. Tai SPECIES
-=======
+# Aecidium campylotropidis F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

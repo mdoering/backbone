@@ -1,5 +1,4 @@
-Prolixandromyces triandrus Santam., 1988 SPECIES
-=======
+# Prolixandromyces triandrus Santam., 1988 SPECIES
 
 #### Status
 ACCEPTED

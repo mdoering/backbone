@@ -1,5 +1,4 @@
-Pterygosporopsis fragilis P.M. Kirk, 1983 SPECIES
-=======
+# Pterygosporopsis fragilis P.M. Kirk, 1983 SPECIES
 
 #### Status
 ACCEPTED

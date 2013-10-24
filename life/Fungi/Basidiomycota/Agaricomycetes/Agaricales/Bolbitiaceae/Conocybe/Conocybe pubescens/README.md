@@ -1,17 +1,16 @@
-Galera cryptocystis G.F. Atk., 1918 SPECIES
-=======
+# Conocybe pubescens (Gillet) Kühner, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Am. philos. Soc. 75: 368 (1918)
+Encyclop. Mycol. 7: 85 (1935)
 
 #### Original name
-Galera cryptocystis G.F. Atk., 1918
+Galera pubescens Gillet, 1876
 
 ### Remarks
 null

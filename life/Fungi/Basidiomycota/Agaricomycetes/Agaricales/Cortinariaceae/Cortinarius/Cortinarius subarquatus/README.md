@@ -1,17 +1,16 @@
-Phlegmacium subarquatum (M.M. Moser) M.M. Moser, 1953 SPECIES
-=======
+# Cortinarius subarquatus (M.M. Moser) M.M. Moser, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Gams, Kleine Kryptogamenflora von Mitteleuropa - Die Blätter- und Baupilze (Agaricales und Gastromycetes) 2b: 178 (1953)
+in Gams, Kleine Kryptogamenflora (Stuttgart), Edn 3 2b/2: 294 (1967)
 
 #### Original name
-Cortinarius subarquatus (M.M. Moser) M.M. Moser, 1967
+Phlegmacium subarquatum (M.M. Moser) M.M. Moser, 1953
 
 ### Remarks
 null

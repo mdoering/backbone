@@ -1,5 +1,4 @@
-Hypocrea caquetensis Yoshim. Doi SPECIES
-=======
+# Hypocrea caquetensis Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

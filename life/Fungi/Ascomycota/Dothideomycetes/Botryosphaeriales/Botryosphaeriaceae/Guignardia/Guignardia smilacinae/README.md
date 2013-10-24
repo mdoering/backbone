@@ -1,5 +1,4 @@
-Guignardia smilacinae (Dearn. & House) Dearn. & House SPECIES
-=======
+# Guignardia smilacinae (Dearn. & House) Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius pruinosulus Murrill SPECIES
-=======
+# Marasmius pruinosulus Murrill SPECIES
 
 #### Status
 ACCEPTED

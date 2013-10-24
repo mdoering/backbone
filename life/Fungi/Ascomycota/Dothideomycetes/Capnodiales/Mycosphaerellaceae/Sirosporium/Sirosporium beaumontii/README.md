@@ -1,5 +1,4 @@
-Sirosporium beaumontii (Sacc.) M.B. Ellis SPECIES
-=======
+# Sirosporium beaumontii (Sacc.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

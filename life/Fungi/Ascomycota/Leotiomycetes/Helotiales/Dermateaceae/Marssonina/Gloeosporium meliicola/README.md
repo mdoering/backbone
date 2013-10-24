@@ -1,5 +1,4 @@
-Gloeosporium meliicola Speg. SPECIES
-=======
+# Gloeosporium meliicola Speg. SPECIES
 
 #### Status
 ACCEPTED

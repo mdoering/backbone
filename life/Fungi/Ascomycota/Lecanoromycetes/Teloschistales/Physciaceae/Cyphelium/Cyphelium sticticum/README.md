@@ -1,5 +1,4 @@
-Cyphelium sticticum Ach. SPECIES
-=======
+# Cyphelium sticticum Ach. SPECIES
 
 #### Status
 ACCEPTED

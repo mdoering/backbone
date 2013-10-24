@@ -1,5 +1,4 @@
-Marasmius phaeus Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius phaeus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

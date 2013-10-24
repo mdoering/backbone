@@ -1,5 +1,4 @@
-Uredo nassauviae Vestergr. SPECIES
-=======
+# Uredo nassauviae Vestergr. SPECIES
 
 #### Status
 ACCEPTED

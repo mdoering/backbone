@@ -1,5 +1,4 @@
-Rhabdospora menthae Strasser SPECIES
-=======
+# Rhabdospora menthae Strasser SPECIES
 
 #### Status
 ACCEPTED

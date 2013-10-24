@@ -1,5 +1,4 @@
-Repetophragma calongei SPECIES
-=======
+# Repetophragma calongei SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Circinotrichum palmicolum SPECIES
-=======
+# Circinotrichum palmicolum SPECIES
 
 #### Status
 ACCEPTED

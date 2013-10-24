@@ -1,5 +1,4 @@
-Adelosina colomi (Le Calvez & Le Calvez, 1958) SPECIES
-=======
+# Adelosina colomi (Le Calvez & Le Calvez, 1958) SPECIES
 
 #### Status
 ACCEPTED

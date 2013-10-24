@@ -1,5 +1,4 @@
-Helvella foliacea Schaeff. SPECIES
-=======
+# Helvella foliacea Schaeff. SPECIES
 
 #### Status
 ACCEPTED

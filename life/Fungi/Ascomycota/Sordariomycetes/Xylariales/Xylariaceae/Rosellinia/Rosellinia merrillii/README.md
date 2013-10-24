@@ -1,5 +1,4 @@
-Rosellinia merrillii Syd. SPECIES
-=======
+# Rosellinia merrillii Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spirocystomellites GENUS
-=======
+# Spirocystomellites GENUS
 
 #### Status
 ACCEPTED

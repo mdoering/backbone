@@ -1,5 +1,4 @@
-Gloeosporidiella Petrak, 1921 GENUS
-=======
+# Gloeosporidiella Petrak, 1921 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pronectria casaresii Etayo SPECIES
-=======
+# Pronectria casaresii Etayo SPECIES
 
 #### Status
 ACCEPTED

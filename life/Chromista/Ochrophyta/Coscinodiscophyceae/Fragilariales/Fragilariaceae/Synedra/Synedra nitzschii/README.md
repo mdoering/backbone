@@ -1,5 +1,4 @@
-Synedra nitzschii Rabenhorst SPECIES
-=======
+# Synedra nitzschii Rabenhorst SPECIES
 
 #### Status
 ACCEPTED

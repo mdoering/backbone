@@ -1,5 +1,4 @@
-Cylindrothyrium coryli (Fuckel) Ribaldi SPECIES
-=======
+# Cylindrothyrium coryli (Fuckel) Ribaldi SPECIES
 
 #### Status
 ACCEPTED

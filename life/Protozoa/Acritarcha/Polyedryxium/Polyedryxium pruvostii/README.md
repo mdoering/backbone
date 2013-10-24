@@ -1,5 +1,4 @@
-Polyedryxium pruvostii Deunff, 1955 SPECIES
-=======
+# Polyedryxium pruvostii Deunff, 1955 SPECIES
 
 #### Status
 ACCEPTED

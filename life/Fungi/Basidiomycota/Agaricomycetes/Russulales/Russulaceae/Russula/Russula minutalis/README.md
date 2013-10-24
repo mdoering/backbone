@@ -1,5 +1,4 @@
-Russula minutalis Britzelm. SPECIES
-=======
+# Russula minutalis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

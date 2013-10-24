@@ -1,5 +1,4 @@
-Ectocarpus isopodicola E.Y. Dawson SPECIES
-=======
+# Ectocarpus isopodicola E.Y. Dawson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gelasinospora inversa Cailleux, 1972 SPECIES
-=======
+# Gelasinospora inversa Cailleux, 1972 SPECIES
 
 #### Status
 ACCEPTED

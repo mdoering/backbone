@@ -1,5 +1,4 @@
-Novozymia elegans W.P. Wu, 2005 SPECIES
-=======
+# Novozymia elegans W.P. Wu, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycoperdodes australe (Lév.) Kuntze SPECIES
-=======
+# Lycoperdodes australe (Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthrobotrys fruticulosa Mekht. SPECIES
-=======
+# Arthrobotrys fruticulosa Mekht. SPECIES
 
 #### Status
 ACCEPTED

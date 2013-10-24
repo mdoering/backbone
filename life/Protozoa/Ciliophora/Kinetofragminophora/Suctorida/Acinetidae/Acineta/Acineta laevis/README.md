@@ -1,5 +1,4 @@
-Acineta laevis Dons, 1918 SPECIES
-=======
+# Acineta laevis Dons, 1918 SPECIES
 
 #### Status
 ACCEPTED

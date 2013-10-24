@@ -1,5 +1,4 @@
-Stylonychia indica SPECIES
-=======
+# Stylonychia indica SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cystangium trappei T. Lebel, 2003 SPECIES
-=======
+# Cystangium trappei T. Lebel, 2003 SPECIES
 
 #### Status
 ACCEPTED

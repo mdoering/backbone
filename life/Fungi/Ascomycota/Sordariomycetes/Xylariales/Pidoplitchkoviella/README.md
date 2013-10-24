@@ -1,5 +1,4 @@
-Pidoplitchkoviella Kiril. GENUS
-=======
+# Pidoplitchkoviella Kiril. GENUS
 
 #### Status
 ACCEPTED

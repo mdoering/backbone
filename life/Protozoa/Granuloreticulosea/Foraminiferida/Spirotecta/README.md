@@ -1,5 +1,4 @@
-Spirotecta Belford, 1961 GENUS
-=======
+# Spirotecta Belford, 1961 GENUS
 
 #### Status
 ACCEPTED

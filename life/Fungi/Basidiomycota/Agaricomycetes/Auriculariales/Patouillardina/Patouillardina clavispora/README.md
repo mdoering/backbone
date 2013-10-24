@@ -1,5 +1,4 @@
-Patouillardina clavispora (Pat.) G. Arnaud, 1917 SPECIES
-=======
+# Patouillardina clavispora (Pat.) G. Arnaud, 1917 SPECIES
 
 #### Status
 ACCEPTED

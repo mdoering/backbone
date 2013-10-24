@@ -1,17 +1,16 @@
-Lembosia anonarum Petr. & Cif. SPECIES
-=======
+# Lembosia annonarum Petr. & Cif., 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 30(3/4): 193 (1932)
 
 #### Original name
-Lembosia anonarum Petr. & Cif.
+Lembosia annonarum Petr. & Cif., 1932
 
 ### Remarks
 null

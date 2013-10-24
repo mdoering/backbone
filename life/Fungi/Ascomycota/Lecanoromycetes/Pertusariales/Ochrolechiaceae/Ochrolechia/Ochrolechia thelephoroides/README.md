@@ -1,5 +1,4 @@
-Ochrolechia thelephoroides SPECIES
-=======
+# Ochrolechia thelephoroides SPECIES
 
 #### Status
 ACCEPTED

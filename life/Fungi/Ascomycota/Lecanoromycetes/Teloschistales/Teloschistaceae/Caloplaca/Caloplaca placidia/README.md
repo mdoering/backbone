@@ -1,5 +1,4 @@
-Caloplaca placidia f. placidia FORM
-=======
+# Caloplaca placidia (A. Massal.) J. Steiner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Caloplaca placidia f. placidia
+Epibryon Döbbeler
 
 ### Remarks
 null

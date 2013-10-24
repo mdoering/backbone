@@ -1,5 +1,4 @@
-Hypocrea stromatica J.L. Bezerra, J.C.B. Costa & C.N. Bastos SPECIES
-=======
+# Hypocrea stromatica J.L. Bezerra, J.C.B. Costa & C.N. Bastos SPECIES
 
 #### Status
 ACCEPTED

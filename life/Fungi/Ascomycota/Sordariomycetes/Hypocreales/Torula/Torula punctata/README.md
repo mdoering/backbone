@@ -1,5 +1,4 @@
-Torula punctata Corda SPECIES
-=======
+# Torula punctata Corda SPECIES
 
 #### Status
 ACCEPTED

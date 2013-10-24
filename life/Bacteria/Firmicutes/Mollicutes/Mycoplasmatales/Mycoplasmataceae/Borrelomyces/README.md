@@ -1,5 +1,4 @@
-Borrelomyces GENUS
-=======
+# Borrelomyces GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius squamulifer Bidaud & Reumaux SPECIES
-=======
+# Cortinarius squamulifer Bidaud & Reumaux SPECIES
 
 #### Status
 ACCEPTED

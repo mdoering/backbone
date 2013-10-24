@@ -1,5 +1,4 @@
-Phormidium chalybea (Mert. ex Gomont) Anagnostidis & Komárek SPECIES
-=======
+# Phormidium chalybea (Mert. ex Gomont) Anagnostidis & Komárek SPECIES
 
 #### Status
 ACCEPTED

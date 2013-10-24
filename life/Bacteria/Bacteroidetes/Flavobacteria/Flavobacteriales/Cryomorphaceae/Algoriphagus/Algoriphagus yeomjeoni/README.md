@@ -1,5 +1,4 @@
-Algoriphagus yeomjeoni Yoon et al., 2005 SPECIES
-=======
+# Algoriphagus yeomjeoni Yoon et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

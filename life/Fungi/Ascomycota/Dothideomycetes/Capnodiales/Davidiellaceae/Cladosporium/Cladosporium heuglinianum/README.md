@@ -1,5 +1,4 @@
-Cladosporium heuglinianum Thüm., 1879 SPECIES
-=======
+# Cladosporium heuglinianum Thüm., 1879 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Melampsora allii-salicis-albae Kleb., 1902 SPECIES
-=======
+# Melampsora salicis-albae Kleb., 1901 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Z. PflKrankh. PflPath. PflSchutz 12: 19 (1902)
+Pringsheims Jahrb. f. Wissenschaftl. Botanik 35: 679 (1901)
 
 #### Original name
-Melampsora allii-salicis-albae Kleb., 1902
+Melampsora salicis-albae Kleb., 1901
 
 ### Remarks
 null

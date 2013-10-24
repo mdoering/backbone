@@ -1,5 +1,4 @@
-Coniocybe macowanii Körb. SPECIES
-=======
+# Coniocybe macowanii Körb. SPECIES
 
 #### Status
 ACCEPTED

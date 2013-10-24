@@ -1,5 +1,4 @@
-Sphaerella galii (Sacc.) Traverso SPECIES
-=======
+# Sphaerella galii (Sacc.) Traverso SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phyllosticta cyamopsis V. Rao SPECIES
-=======
+# Phyllosticta cyamopsidis V. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Indian Acad. Sci. , Pl. Sci. 69: 211 (1969)
 
 #### Original name
-Phyllosticta cyamopsis V. Rao
+Phyllosticta cyamopsidis V. Rao
 
 ### Remarks
 null

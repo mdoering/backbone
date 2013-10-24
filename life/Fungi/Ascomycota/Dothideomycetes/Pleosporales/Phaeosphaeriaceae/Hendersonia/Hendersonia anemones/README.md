@@ -1,5 +1,4 @@
-Hendersonia anemones (Pat.) Kuntze SPECIES
-=======
+# Hendersonia anemones (Pat.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

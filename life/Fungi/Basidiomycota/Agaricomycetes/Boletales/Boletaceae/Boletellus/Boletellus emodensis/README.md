@@ -1,5 +1,4 @@
-Boletellus emodensis (Berk.) Singer SPECIES
-=======
+# Boletellus emodensis (Berk.) Singer SPECIES
 
 #### Status
 ACCEPTED

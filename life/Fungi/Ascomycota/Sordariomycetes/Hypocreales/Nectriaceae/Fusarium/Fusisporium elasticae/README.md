@@ -1,5 +1,4 @@
-Fusisporium elasticae Thüm. SPECIES
-=======
+# Fusisporium elasticae Thüm. SPECIES
 
 #### Status
 ACCEPTED

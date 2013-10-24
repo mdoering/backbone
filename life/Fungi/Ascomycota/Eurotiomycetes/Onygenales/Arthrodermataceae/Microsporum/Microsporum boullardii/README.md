@@ -1,5 +1,4 @@
-Microsporum boullardii Dominik & Majchr., 1965 SPECIES
-=======
+# Microsporum boullardii Dominik & Majchr., 1965 SPECIES
 
 #### Status
 ACCEPTED

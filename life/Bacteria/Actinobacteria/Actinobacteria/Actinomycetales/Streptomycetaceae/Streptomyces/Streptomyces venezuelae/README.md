@@ -1,5 +1,4 @@
-Streptomyces venezuelae Ehrlich et al., 1948 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces venezuelae Ehrlich et al., 1948 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

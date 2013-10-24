@@ -1,5 +1,4 @@
-Geopetalum viticola Murrill SPECIES
-=======
+# Geopetalum viticola Murrill SPECIES
 
 #### Status
 ACCEPTED

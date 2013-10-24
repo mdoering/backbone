@@ -1,5 +1,4 @@
-Buellia rhizocarpica Etayo, Giralt & Elix SPECIES
-=======
+# Buellia rhizocarpica Etayo, Giralt & Elix SPECIES
 
 #### Status
 ACCEPTED

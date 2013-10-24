@@ -1,5 +1,4 @@
-Puccinia digitariae Pole-Evans SPECIES
-=======
+# Puccinia digitariae Pole-Evans SPECIES
 
 #### Status
 ACCEPTED

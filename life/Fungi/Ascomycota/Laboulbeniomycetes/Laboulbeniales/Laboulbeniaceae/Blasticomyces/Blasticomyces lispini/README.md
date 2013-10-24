@@ -1,14 +1,13 @@
-Misgomyces lispini Thaxt., 1915 SPECIES
-=======
+# Blasticomyces lispini (Thaxt.) I.I. Tav., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Mem. 9: 155 (1985)
 
 #### Original name
 Misgomyces lispini Thaxt., 1915

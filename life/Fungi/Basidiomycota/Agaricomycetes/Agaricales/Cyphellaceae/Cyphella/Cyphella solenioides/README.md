@@ -1,5 +1,4 @@
-Cyphella solenioides P. Karst. SPECIES
-=======
+# Cyphella solenioides P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichenoconium cladoniarum E.S. Hansen & Alstrup SPECIES
-=======
+# Lichenoconium cladoniarum E.S. Hansen & Alstrup SPECIES
 
 #### Status
 ACCEPTED

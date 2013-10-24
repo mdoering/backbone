@@ -1,5 +1,4 @@
-Cercospora lyciicola J.M. Yen SPECIES
-=======
+# Cercospora lyciicola J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

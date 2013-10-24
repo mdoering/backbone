@@ -1,5 +1,4 @@
-Lecanora euphratica Werner SPECIES
-=======
+# Lecanora euphratica Werner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota fuscceps Hongo, 1973 SPECIES
-=======
+# Lepiota fuscceps Hongo, 1973 SPECIES
 
 #### Status
 ACCEPTED

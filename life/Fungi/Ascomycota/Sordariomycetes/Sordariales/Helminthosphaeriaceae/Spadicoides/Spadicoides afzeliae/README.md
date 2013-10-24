@@ -1,5 +1,4 @@
-Spadicoides afzeliae M.B. Ellis SPECIES
-=======
+# Spadicoides afzeliae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

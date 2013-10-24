@@ -1,5 +1,4 @@
-Stichophaena Haeckel, 1887 GENUS
-=======
+# Stichophaena Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

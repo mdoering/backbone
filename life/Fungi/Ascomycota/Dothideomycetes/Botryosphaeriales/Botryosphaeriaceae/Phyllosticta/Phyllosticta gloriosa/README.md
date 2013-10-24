@@ -1,5 +1,4 @@
-Phyllosticta gloriosa (Sacc.) Allesch. SPECIES
-=======
+# Phyllosticta gloriosa (Sacc.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

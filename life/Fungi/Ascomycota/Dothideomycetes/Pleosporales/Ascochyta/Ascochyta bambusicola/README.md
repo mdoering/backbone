@@ -1,5 +1,4 @@
-Ascochyta bambusicola Gonz. Frag. SPECIES
-=======
+# Ascochyta bambusicola Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Entoloma aromaticum f. aromaticum FORM
-=======
+# Entoloma aromaticum E. Horak, 1973 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Beih. Nova Hedwigia 43: 52 (1973)
 
 #### Original name
-Entoloma aromaticum f. aromaticum
+Entoloma aromaticum E. Horak, 1973
 
 ### Remarks
 null

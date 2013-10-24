@@ -1,5 +1,4 @@
-Biatorella heterospora Kalb & Vezda SPECIES
-=======
+# Biatorella heterospora Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

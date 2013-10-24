@@ -1,5 +1,4 @@
-Diplotomma grande (Flörke ex Flot.) Jatta SPECIES
-=======
+# Diplotomma grande (Flörke ex Flot.) Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cenangium pythium Fr. SPECIES
-=======
+# Cenangium pythium Fr. SPECIES
 
 #### Status
 ACCEPTED

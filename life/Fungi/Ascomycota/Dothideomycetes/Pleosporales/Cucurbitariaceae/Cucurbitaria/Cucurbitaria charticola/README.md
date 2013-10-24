@@ -1,5 +1,4 @@
-Cucurbitaria charticola (Fuckel) Kuntze SPECIES
-=======
+# Cucurbitaria charticola (Fuckel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina fortunata P. M. McCarthy & Etayo SPECIES
-=======
+# Porina fortunata P. M. McCarthy & Etayo SPECIES
 
 #### Status
 ACCEPTED

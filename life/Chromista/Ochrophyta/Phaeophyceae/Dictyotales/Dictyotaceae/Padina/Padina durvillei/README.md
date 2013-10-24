@@ -1,8 +1,7 @@
-Padina durvillei f. obscura Piccone FORM
-=======
+# Padina durvillei Bory Saint-Vincent, 1827 SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
 World Register of Marine Species

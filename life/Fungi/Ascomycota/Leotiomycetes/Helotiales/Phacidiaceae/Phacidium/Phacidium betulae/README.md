@@ -1,5 +1,4 @@
-Phacidium betulae Rehm SPECIES
-=======
+# Phacidium betulae Rehm SPECIES
 
 #### Status
 ACCEPTED

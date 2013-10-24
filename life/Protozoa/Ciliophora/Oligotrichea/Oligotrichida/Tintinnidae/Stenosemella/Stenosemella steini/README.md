@@ -1,5 +1,4 @@
-Stenosemella steini Jörgensen, 1894 SPECIES
-=======
+# Stenosemella steini Jörgensen, 1894 SPECIES
 
 #### Status
 ACCEPTED

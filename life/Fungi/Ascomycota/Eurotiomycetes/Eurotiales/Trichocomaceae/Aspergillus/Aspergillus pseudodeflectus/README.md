@@ -1,14 +1,13 @@
-Aspergillus ustus var. pseudodeflectus (Samson & Mouch.) Kozak., 1989 VARIETY
-=======
+# Aspergillus pseudodeflectus Samson & Mouch., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 161: 131 (1989)
+Antonie van Leeuwenhoek 41(3): 345 (1975)
 
 #### Original name
 Aspergillus pseudodeflectus Samson & Mouch., 1975

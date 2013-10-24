@@ -1,5 +1,4 @@
-Filaspora rhinanthi (Fr.) Kuntze SPECIES
-=======
+# Filaspora rhinanthi (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

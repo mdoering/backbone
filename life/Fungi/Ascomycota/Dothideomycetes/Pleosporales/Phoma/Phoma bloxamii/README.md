@@ -1,8 +1,7 @@
-Phoma bloxami Berk. SPECIES
-=======
+# Phoma bloxamii Berk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma bloxami Berk.
+Phoma bloxamii Berk.
 
 ### Remarks
 null

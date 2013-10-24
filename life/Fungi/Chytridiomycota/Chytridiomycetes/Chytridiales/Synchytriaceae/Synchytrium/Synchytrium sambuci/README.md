@@ -1,5 +1,4 @@
-Synchytrium sambuci M.T. Cook SPECIES
-=======
+# Synchytrium sambuci M.T. Cook SPECIES
 
 #### Status
 ACCEPTED

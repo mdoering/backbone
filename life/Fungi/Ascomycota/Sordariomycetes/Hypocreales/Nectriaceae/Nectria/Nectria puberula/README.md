@@ -1,5 +1,4 @@
-Nectria puberula Speg. SPECIES
-=======
+# Nectria puberula Speg. SPECIES
 
 #### Status
 ACCEPTED

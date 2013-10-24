@@ -1,5 +1,4 @@
-Graphyllium planispora (Ellis) M.E. Barr SPECIES
-=======
+# Graphyllium planispora (Ellis) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

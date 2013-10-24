@@ -1,5 +1,4 @@
-Maritimibacter alkaliphilus Lee, Choo, Giovannoni & Cho, 2007 SPECIES
-=======
+# Maritimibacter alkaliphilus Lee, Choo, Giovannoni & Cho, 2007 SPECIES
 
 #### Status
 ACCEPTED

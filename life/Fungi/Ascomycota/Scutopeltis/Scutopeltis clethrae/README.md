@@ -1,5 +1,4 @@
-Scutopeltis clethrae Bat. & Taltasse SPECIES
-=======
+# Scutopeltis clethrae Bat. & Taltasse SPECIES
 
 #### Status
 ACCEPTED

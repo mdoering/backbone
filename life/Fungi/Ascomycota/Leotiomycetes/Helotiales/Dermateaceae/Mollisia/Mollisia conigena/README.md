@@ -1,11 +1,10 @@
-Peziza conigena Pers., 1801 SPECIES
-=======
+# Mollisia conigena (Pers.) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

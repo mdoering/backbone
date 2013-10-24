@@ -1,5 +1,4 @@
-Micrhystridium kashiense He, 1991 SPECIES
-=======
+# Micrhystridium kashiense He, 1991 SPECIES
 
 #### Status
 ACCEPTED

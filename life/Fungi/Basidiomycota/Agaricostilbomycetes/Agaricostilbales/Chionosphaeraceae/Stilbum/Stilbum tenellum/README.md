@@ -1,5 +1,4 @@
-Stilbum tenellum Sacc. & Trotter SPECIES
-=======
+# Stilbum tenellum Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

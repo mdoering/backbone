@@ -1,5 +1,4 @@
-Dicaeoma tuyutense (Speg.) Kuntze SPECIES
-=======
+# Dicaeoma tuyutense (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

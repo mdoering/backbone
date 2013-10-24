@@ -1,5 +1,4 @@
-Cylindrospermum muscicola (Kützing) ex Bornet & Flahault SPECIES
-=======
+# Cylindrospermum muscicola (Kützing) ex Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ellipsoidion parrae G. Tell & H. Pizarro SPECIES
-=======
+# Ellipsoidion parrae G. Tell & H. Pizarro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia planimi Vize SPECIES
-=======
+# Pestalotia planimi Vize SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina pluriloculata Aptroot & Sparrius SPECIES
-=======
+# Rinodina pluriloculata Aptroot & Sparrius SPECIES
 
 #### Status
 ACCEPTED

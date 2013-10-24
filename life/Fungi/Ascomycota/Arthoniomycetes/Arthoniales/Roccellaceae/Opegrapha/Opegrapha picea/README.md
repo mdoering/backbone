@@ -1,5 +1,4 @@
-Opegrapha picea Pers. SPECIES
-=======
+# Opegrapha picea Pers. SPECIES
 
 #### Status
 ACCEPTED

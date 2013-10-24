@@ -1,5 +1,4 @@
-Lepiota atra Beeli SPECIES
-=======
+# Lepiota atra Beeli SPECIES
 
 #### Status
 ACCEPTED

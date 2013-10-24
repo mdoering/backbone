@@ -1,5 +1,4 @@
-Macrophoma ligustica Magnaghi SPECIES
-=======
+# Macrophoma ligustica Magnaghi SPECIES
 
 #### Status
 ACCEPTED

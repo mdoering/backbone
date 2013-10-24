@@ -1,5 +1,4 @@
-Bacillus wakoensis Nogi et al., 2005 SPECIES
-=======
+# Bacillus wakoensis Nogi et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

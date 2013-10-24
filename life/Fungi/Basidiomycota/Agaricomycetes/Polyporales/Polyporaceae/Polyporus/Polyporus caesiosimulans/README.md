@@ -1,5 +1,4 @@
-Polyporus caesiosimulans (G.F. Atk.) Sacc. & Trotter SPECIES
-=======
+# Polyporus caesiosimulans (G.F. Atk.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

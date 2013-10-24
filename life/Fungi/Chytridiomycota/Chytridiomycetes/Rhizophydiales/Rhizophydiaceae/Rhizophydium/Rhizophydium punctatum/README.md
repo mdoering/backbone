@@ -1,5 +1,4 @@
-Rhizophydium punctatum Golubeva SPECIES
-=======
+# Rhizophydium punctatum Golubeva SPECIES
 
 #### Status
 ACCEPTED

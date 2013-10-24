@@ -1,5 +1,4 @@
-Cercospora alysicarpi Munjal, Lall & Chona SPECIES
-=======
+# Cercospora alysicarpi Munjal, Lall & Chona SPECIES
 
 #### Status
 ACCEPTED

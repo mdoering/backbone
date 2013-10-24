@@ -1,5 +1,4 @@
-Chaetosphaeria hebetiseta Réblová & W. Gams SPECIES
-=======
+# Chaetosphaeria hebetiseta Réblová & W. Gams SPECIES
 
 #### Status
 ACCEPTED

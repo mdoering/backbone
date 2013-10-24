@@ -1,5 +1,4 @@
-Dyadosporites dubius P. Kumar SPECIES
-=======
+# Dyadosporites dubius P. Kumar SPECIES
 
 #### Status
 ACCEPTED

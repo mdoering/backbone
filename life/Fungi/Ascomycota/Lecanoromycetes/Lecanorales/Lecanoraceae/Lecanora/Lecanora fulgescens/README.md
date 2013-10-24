@@ -1,5 +1,4 @@
-Lecanora fulgescens Nyl. SPECIES
-=======
+# Lecanora fulgescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudotextulariella GENUS
-=======
+# Pseudotextulariella GENUS
 
 #### Status
 ACCEPTED

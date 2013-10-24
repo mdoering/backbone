@@ -1,5 +1,4 @@
-Phomopsis juglandina (Sacc.) Höhn., 1906 SPECIES
-=======
+# Phomopsis juglandina (Sacc.) Höhn., 1906 SPECIES
 
 #### Status
 ACCEPTED

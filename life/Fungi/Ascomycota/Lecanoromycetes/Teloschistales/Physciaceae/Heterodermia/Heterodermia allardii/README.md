@@ -1,5 +1,4 @@
-Heterodermia allardii (Kurok.) Trass SPECIES
-=======
+# Heterodermia allardii (Kurok.) Trass SPECIES
 
 #### Status
 ACCEPTED

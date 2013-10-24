@@ -1,5 +1,4 @@
-Opegrapha rigida Fée SPECIES
-=======
+# Opegrapha rigida Fée SPECIES
 
 #### Status
 ACCEPTED

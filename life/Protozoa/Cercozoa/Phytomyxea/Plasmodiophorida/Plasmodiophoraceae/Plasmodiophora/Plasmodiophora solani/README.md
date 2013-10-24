@@ -1,5 +1,4 @@
-Plasmodiophora solani Brehmer & Bärner SPECIES
-=======
+# Plasmodiophora solani Brehmer & Bärner SPECIES
 
 #### Status
 ACCEPTED

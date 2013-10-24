@@ -1,14 +1,13 @@
-Hypodermella hiratsukae Darker, 1935 SPECIES
-=======
+# Davisomycella hiratsukae (Darker) Darker, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Arnold Arbor. 16: 364 (1935)
+Can. J. Bot. 45: 1424 (1967)
 
 #### Original name
 Hypodermella hiratsukae Darker, 1935

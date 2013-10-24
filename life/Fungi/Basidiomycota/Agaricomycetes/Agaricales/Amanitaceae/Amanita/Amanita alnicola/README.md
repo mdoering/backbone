@@ -1,5 +1,4 @@
-Amanita alnicola Rouzeau & F. Massart SPECIES
-=======
+# Amanita alnicola Rouzeau & F. Massart SPECIES
 
 #### Status
 ACCEPTED

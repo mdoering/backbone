@@ -1,5 +1,4 @@
-Buellia proserpeus SPECIES
-=======
+# Buellia proserpeus SPECIES
 
 #### Status
 ACCEPTED

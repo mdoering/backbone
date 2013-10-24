@@ -1,8 +1,7 @@
-Myriocladia callitricha Rosenvinge SPECIES
-=======
+# Papenfussiella callitrichia (Rosenvinge) Kylin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

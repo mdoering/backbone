@@ -1,5 +1,4 @@
-Sheshukovia duplicata (A. Schmidt) Z. I. Glezer SPECIES
-=======
+# Sheshukovia duplicata (A. Schmidt) Z. I. Glezer SPECIES
 
 #### Status
 ACCEPTED

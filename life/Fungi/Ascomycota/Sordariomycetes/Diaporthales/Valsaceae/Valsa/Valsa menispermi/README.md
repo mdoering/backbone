@@ -1,5 +1,4 @@
-Valsa menispermi Ellis & Holw. SPECIES
-=======
+# Valsa menispermi Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

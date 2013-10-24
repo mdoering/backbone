@@ -1,5 +1,4 @@
-Hydrocybe helvola (Bull.) M.M. Moser SPECIES
-=======
+# Hydrocybe helvola (Bull.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

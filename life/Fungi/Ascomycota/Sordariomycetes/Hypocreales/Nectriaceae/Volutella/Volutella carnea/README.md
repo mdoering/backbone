@@ -1,5 +1,4 @@
-Volutella carnea (Preuss) Sacc. SPECIES
-=======
+# Volutella carnea (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

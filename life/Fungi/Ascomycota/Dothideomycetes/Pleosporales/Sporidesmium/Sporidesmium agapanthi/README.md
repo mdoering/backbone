@@ -1,5 +1,4 @@
-Sporidesmium agapanthi Thüm. SPECIES
-=======
+# Sporidesmium agapanthi Thüm. SPECIES
 
 #### Status
 ACCEPTED

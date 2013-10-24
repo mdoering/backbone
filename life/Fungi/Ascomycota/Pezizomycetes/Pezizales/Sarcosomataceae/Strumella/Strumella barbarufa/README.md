@@ -1,5 +1,4 @@
-Strumella barbarufa Wize SPECIES
-=======
+# Strumella barbarufa Wize SPECIES
 
 #### Status
 ACCEPTED

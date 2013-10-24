@@ -1,5 +1,4 @@
-Stigmatomyces gratiellae Bergonzo, W. Rossi & A. Weir SPECIES
-=======
+# Stigmatomyces gratiellae Bergonzo, W. Rossi & A. Weir SPECIES
 
 #### Status
 ACCEPTED

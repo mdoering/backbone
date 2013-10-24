@@ -1,5 +1,4 @@
-Thalassiosira fraga H. J. Schrader SPECIES
-=======
+# Thalassiosira fraga H. J. Schrader SPECIES
 
 #### Status
 ACCEPTED

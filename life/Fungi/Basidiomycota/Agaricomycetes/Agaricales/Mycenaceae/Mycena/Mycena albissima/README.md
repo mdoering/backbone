@@ -1,5 +1,4 @@
-Mycena albissima A.H. Sm. SPECIES
-=======
+# Mycena albissima A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

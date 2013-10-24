@@ -1,17 +1,16 @@
-Mucronoporus tomentosus f. tomentosus FORM
-=======
+# Onnia tomentosa (Fr.) P. Karst., 1889 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Mycol. 5(1): 28 (1889)
+Revue mycol. , Toulouse 11: 205 (1889)
 
 #### Original name
-Mucronoporus tomentosus f. tomentosus
+Polyporus tomentosus Fr., 1821
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Annulohypoxylon leucadendri Marinc., M.J. Wingf. & Crous, 2008 SPECIES
-=======
+# Annulohypoxylon leucadendri Marinc., M.J. Wingf. & Crous, 2008 SPECIES
 
 #### Status
 ACCEPTED

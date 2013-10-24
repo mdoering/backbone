@@ -1,5 +1,4 @@
-Graphis dimorphiza Nyl. SPECIES
-=======
+# Graphis dimorphiza Nyl. SPECIES
 
 #### Status
 ACCEPTED

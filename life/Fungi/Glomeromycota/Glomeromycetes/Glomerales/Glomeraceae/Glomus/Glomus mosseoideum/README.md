@@ -1,5 +1,4 @@
-Glomus mosseoideum Hu SPECIES
-=======
+# Glomus mosseoideum Hu SPECIES
 
 #### Status
 ACCEPTED

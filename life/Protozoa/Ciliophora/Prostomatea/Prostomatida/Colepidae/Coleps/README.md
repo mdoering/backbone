@@ -1,5 +1,4 @@
-Coleps Nitzsch, 1827 GENUS
-=======
+# Coleps Nitzsch, 1827 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heliomyces pruinosipes Peck SPECIES
-=======
+# Heliomyces pruinosipes Peck SPECIES
 
 #### Status
 ACCEPTED

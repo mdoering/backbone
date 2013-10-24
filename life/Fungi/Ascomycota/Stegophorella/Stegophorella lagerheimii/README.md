@@ -1,5 +1,4 @@
-Stegophorella lagerheimii Petr., 1947 SPECIES
-=======
+# Stegophorella lagerheimii Petr., 1947 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pirostomella major Syd. SPECIES
-=======
+# Pirostomella major Syd. SPECIES
 
 #### Status
 ACCEPTED

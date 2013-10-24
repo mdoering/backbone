@@ -1,5 +1,4 @@
-Lichinella intermedia Henssen, Büdel & T. H. Nash SPECIES
-=======
+# Lichinella intermedia Henssen, Büdel & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

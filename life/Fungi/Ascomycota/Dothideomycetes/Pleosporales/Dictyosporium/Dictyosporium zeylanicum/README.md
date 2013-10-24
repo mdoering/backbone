@@ -1,5 +1,4 @@
-Dictyosporium zeylanicum Petch SPECIES
-=======
+# Dictyosporium zeylanicum Petch SPECIES
 
 #### Status
 ACCEPTED

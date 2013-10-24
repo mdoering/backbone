@@ -1,5 +1,4 @@
-Rosellinia subsimilis Sacc. SPECIES
-=======
+# Rosellinia subsimilis Sacc. SPECIES
 
 #### Status
 ACCEPTED

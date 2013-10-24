@@ -1,5 +1,4 @@
-Fusidium pirinum Corda SPECIES
-=======
+# Fusidium pirinum Corda SPECIES
 
 #### Status
 ACCEPTED

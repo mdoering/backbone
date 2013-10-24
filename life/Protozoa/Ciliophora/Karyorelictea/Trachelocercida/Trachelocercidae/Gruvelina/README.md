@@ -1,5 +1,4 @@
-Gruvelina Delphy, 1939 GENUS
-=======
+# Gruvelina Delphy, 1939 GENUS
 
 #### Status
 ACCEPTED

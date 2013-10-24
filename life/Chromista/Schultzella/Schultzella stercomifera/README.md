@@ -1,5 +1,4 @@
-Schultzella stercomifera Rhumbler, 1935 SPECIES
-=======
+# Schultzella stercomifera Rhumbler, 1935 SPECIES
 
 #### Status
 ACCEPTED

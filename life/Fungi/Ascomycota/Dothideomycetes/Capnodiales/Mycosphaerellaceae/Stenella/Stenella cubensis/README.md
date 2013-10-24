@@ -1,5 +1,4 @@
-Stenella cubensis R.F. Castañeda SPECIES
-=======
+# Stenella cubensis R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

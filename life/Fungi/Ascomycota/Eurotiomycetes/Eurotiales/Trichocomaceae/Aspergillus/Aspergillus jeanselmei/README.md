@@ -1,5 +1,4 @@
-Aspergillus jeanselmei N. Ota SPECIES
-=======
+# Aspergillus jeanselmei N. Ota SPECIES
 
 #### Status
 ACCEPTED

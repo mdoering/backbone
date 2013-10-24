@@ -1,8 +1,7 @@
-Marthasterites contortus (Stradner, 1958) Deflandre, 1959 SPECIES
-=======
+# Tribrachiatus contortus (Stradner, 1958) Bukry, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

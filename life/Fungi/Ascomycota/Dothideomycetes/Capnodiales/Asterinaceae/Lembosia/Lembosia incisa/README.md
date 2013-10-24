@@ -1,5 +1,4 @@
-Lembosia incisa (Syd.) Theiss. SPECIES
-=======
+# Lembosia incisa (Syd.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

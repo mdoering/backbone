@@ -1,5 +1,4 @@
-Phialophora verrucaria Thaxt. SPECIES
-=======
+# Phialophora verrucaria Thaxt. SPECIES
 
 #### Status
 ACCEPTED

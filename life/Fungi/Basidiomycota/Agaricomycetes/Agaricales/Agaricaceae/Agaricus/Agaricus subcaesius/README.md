@@ -1,5 +1,4 @@
-Agaricus subcaesius Pers. SPECIES
-=======
+# Agaricus subcaesius Pers. SPECIES
 
 #### Status
 ACCEPTED

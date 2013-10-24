@@ -1,5 +1,4 @@
-Diderma maculatum Buyck, 1984 SPECIES
-=======
+# Diderma maculatum Buyck, 1984 SPECIES
 
 #### Status
 ACCEPTED

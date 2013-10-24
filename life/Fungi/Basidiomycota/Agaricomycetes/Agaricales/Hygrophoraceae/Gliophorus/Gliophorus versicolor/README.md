@@ -1,14 +1,13 @@
-Hygrocybe versicolor (E. Horak) Boertm., 2002 SPECIES
-=======
+# Gliophorus versicolor E. Horak, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Mycol. 192: 70 (2002)
+Beih. Nova Hedwigia 43: 175 (1973)
 
 #### Original name
 Gliophorus versicolor E. Horak, 1973

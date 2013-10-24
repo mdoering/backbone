@@ -1,5 +1,4 @@
-Hendersonia californica (Ellis & Everh.) Höhn. SPECIES
-=======
+# Hendersonia californica (Ellis & Everh.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

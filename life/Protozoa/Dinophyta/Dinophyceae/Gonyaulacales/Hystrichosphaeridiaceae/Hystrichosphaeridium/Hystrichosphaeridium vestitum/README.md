@@ -1,5 +1,4 @@
-Hystrichosphaeridium vestitum Deflandre SPECIES
-=======
+# Hystrichosphaeridium vestitum Deflandre SPECIES
 
 #### Status
 ACCEPTED

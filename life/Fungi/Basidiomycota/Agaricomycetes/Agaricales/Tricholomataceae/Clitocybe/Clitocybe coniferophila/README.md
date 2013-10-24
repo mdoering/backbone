@@ -1,5 +1,4 @@
-Clitocybe coniferophila H.E. Bigelow SPECIES
-=======
+# Clitocybe coniferophila H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chapsa lassae Mangold SPECIES
-=======
+# Chapsa lassae Mangold SPECIES
 
 #### Status
 ACCEPTED

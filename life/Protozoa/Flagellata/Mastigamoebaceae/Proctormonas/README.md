@@ -1,5 +1,4 @@
-Proctormonas B. Skvortzov & Noda, 1968 GENUS
-=======
+# Proctormonas B. Skvortzov & Noda, 1968 GENUS
 
 #### Status
 ACCEPTED

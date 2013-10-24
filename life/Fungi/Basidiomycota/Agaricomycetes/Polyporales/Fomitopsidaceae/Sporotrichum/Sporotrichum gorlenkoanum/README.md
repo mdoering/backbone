@@ -1,5 +1,4 @@
-Sporotrichum gorlenkoanum Kuritzina & Sizova SPECIES
-=======
+# Sporotrichum gorlenkoanum Kuritzina & Sizova SPECIES
 
 #### Status
 ACCEPTED

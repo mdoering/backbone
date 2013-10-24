@@ -1,5 +1,4 @@
-Diplopeltis graminella Höhn. SPECIES
-=======
+# Diplopeltis graminella Höhn. SPECIES
 
 #### Status
 ACCEPTED

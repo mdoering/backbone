@@ -1,8 +1,7 @@
-Biatora epixanthoidiza (Nyl.) Räsänen, 1939 SPECIES
-=======
+# Biatora efflorescens (Hedl.) Räsänen, 1935 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

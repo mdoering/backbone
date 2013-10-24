@@ -1,5 +1,4 @@
-Genistellospora guanacastensis Lichtw., 1998 SPECIES
-=======
+# Genistellospora guanacastensis Lichtw., 1998 SPECIES
 
 #### Status
 ACCEPTED

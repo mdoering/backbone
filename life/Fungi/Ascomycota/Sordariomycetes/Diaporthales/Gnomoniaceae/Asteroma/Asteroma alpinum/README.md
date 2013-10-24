@@ -1,5 +1,4 @@
-Asteroma alpinum Sacc. SPECIES
-=======
+# Asteroma alpinum Sacc. SPECIES
 
 #### Status
 ACCEPTED

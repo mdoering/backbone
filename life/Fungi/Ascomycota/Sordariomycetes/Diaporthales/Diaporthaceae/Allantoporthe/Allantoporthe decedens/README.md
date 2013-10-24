@@ -1,17 +1,16 @@
-Diaporthe decedens f. decedens (Fr.) Fuckel FORM
-=======
+# Allantoporthe decedens (Fr.) M.E. Barr, 1978 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 25-26: 30 (1871)
+Mycol. Mem. 7: 153 (1978)
 
 #### Original name
-Diaporthe decedens f. decedens (Fr.) Fuckel
+Sphaeria decedens Kunze
 
 ### Remarks
 null

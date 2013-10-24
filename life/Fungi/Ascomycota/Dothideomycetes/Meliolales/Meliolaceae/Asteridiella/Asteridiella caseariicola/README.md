@@ -1,5 +1,4 @@
-Asteridiella caseariicola Hosag. SPECIES
-=======
+# Asteridiella caseariicola Hosag. SPECIES
 
 #### Status
 ACCEPTED

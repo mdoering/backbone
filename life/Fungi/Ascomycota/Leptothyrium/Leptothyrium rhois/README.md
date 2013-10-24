@@ -1,5 +1,4 @@
-Leptothyrium rhois Westend. SPECIES
-=======
+# Leptothyrium rhois Westend. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Linderina Raper & Fennell, 1952 GENUS
-=======
+# Linderina Raper & Fennell, 1952 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphisphaeria portoricensis Petr. SPECIES
-=======
+# Amphisphaeria portoricensis Petr. SPECIES
 
 #### Status
 ACCEPTED

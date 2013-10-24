@@ -1,5 +1,4 @@
-Rhizopogon minor Velen. SPECIES
-=======
+# Rhizopogon minor Velen. SPECIES
 
 #### Status
 ACCEPTED

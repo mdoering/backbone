@@ -1,5 +1,4 @@
-Cercospora sorghicola Goh & W.H. Hsieh SPECIES
-=======
+# Cercospora sorghicola Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

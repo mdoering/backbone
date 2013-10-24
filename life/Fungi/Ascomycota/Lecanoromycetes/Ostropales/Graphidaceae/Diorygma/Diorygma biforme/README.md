@@ -1,5 +1,4 @@
-Diorygma biforme Eschw. SPECIES
-=======
+# Diorygma biforme Eschw. SPECIES
 
 #### Status
 ACCEPTED

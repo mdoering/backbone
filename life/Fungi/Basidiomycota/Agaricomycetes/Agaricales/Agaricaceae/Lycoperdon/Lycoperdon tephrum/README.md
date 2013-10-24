@@ -1,5 +1,4 @@
-Lycoperdon tephrum Lloyd SPECIES
-=======
+# Lycoperdon tephrum Lloyd SPECIES
 
 #### Status
 ACCEPTED

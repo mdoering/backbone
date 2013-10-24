@@ -1,5 +1,4 @@
-Pseudocercospora naitoi (Togashi) C. Nakash. & Tak. Kobay. SPECIES
-=======
+# Pseudocercospora naitoi (Togashi) C. Nakash. & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

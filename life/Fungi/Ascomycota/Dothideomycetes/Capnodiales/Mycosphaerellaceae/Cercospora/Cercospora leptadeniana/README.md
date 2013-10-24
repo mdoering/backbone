@@ -1,5 +1,4 @@
-Cercospora leptadeniana U. Braun, Bagyan. & Jagad. SPECIES
-=======
+# Cercospora leptadeniana U. Braun, Bagyan. & Jagad. SPECIES
 
 #### Status
 ACCEPTED

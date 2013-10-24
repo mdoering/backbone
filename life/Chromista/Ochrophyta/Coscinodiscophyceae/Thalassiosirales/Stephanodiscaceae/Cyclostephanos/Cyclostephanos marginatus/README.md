@@ -1,5 +1,4 @@
-Cyclostephanos marginatus (V. V. Mukhina) G. K. Khursevich SPECIES
-=======
+# Cyclostephanos marginatus (V. V. Mukhina) G. K. Khursevich SPECIES
 
 #### Status
 ACCEPTED

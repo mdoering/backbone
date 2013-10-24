@@ -1,5 +1,4 @@
-Dematium penicillus Schwein. SPECIES
-=======
+# Dematium penicillus Schwein. SPECIES
 
 #### Status
 ACCEPTED

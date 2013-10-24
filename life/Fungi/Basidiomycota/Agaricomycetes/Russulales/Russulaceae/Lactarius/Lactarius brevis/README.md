@@ -1,5 +1,4 @@
-Lactarius brevis Peck SPECIES
-=======
+# Lactarius brevis Peck SPECIES
 
 #### Status
 ACCEPTED

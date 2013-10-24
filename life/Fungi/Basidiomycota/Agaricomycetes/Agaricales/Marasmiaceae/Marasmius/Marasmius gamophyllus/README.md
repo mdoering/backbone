@@ -1,5 +1,4 @@
-Marasmius gamophyllus Mont. SPECIES
-=======
+# Marasmius gamophyllus Mont. SPECIES
 
 #### Status
 ACCEPTED

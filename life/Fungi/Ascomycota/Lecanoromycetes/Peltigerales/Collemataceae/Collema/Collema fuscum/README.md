@@ -1,5 +1,4 @@
-Collema fuscum Zahlbr. SPECIES
-=======
+# Collema fuscum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

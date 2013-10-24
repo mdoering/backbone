@@ -1,5 +1,4 @@
-Hebeloma ochroalbidum Bohus SPECIES
-=======
+# Hebeloma ochroalbidum Bohus SPECIES
 
 #### Status
 ACCEPTED

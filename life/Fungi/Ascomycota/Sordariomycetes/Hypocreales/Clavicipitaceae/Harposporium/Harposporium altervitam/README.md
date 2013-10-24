@@ -1,5 +1,4 @@
-Harposporium altervitam ined. SPECIES
-=======
+# Harposporium altervitam ined. SPECIES
 
 #### Status
 ACCEPTED

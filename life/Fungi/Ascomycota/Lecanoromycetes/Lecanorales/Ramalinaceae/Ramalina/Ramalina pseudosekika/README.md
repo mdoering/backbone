@@ -1,5 +1,4 @@
-Ramalina pseudosekika Asahina SPECIES
-=======
+# Ramalina pseudosekika Asahina SPECIES
 
 #### Status
 ACCEPTED

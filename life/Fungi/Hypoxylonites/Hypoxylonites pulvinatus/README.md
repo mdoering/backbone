@@ -1,5 +1,4 @@
-Hypoxylonites pulvinatus (Sheffy & Dilcher) Elsik SPECIES
-=======
+# Hypoxylonites pulvinatus (Sheffy & Dilcher) Elsik SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Malacostroma carneum (Thüm.) Höhn. SPECIES
-=======
+# Malacostroma carneum (Thüm.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

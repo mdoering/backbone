@@ -1,5 +1,4 @@
-Puccinia ellisii De Toni SPECIES
-=======
+# Puccinia ellisii De Toni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmina kosaroffii (Briosi) B. Sutton SPECIES
-=======
+# Stigmina kosaroffii (Briosi) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

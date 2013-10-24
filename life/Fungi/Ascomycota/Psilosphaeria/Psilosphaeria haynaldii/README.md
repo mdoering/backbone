@@ -1,5 +1,4 @@
-Psilosphaeria haynaldii (Schulzer & Sacc.) Cooke SPECIES
-=======
+# Psilosphaeria haynaldii (Schulzer & Sacc.) Cooke SPECIES
 
 #### Status
 ACCEPTED

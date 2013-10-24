@@ -1,5 +1,4 @@
-Caloplaca felipponei Zahlbr. SPECIES
-=======
+# Caloplaca felipponei Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

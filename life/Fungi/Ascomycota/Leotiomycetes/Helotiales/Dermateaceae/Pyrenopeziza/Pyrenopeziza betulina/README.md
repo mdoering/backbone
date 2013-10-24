@@ -1,14 +1,13 @@
-Peziza betulina Alb. & Schwein. SPECIES
-=======
+# Pyrenopeziza betulina (Alb. & Schwein.) Rauschert, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Consp. fung. (Leipzig) 339 (1805)
+Haussknechtia 4: 54 (1988)
 
 #### Original name
 Peziza betulina Alb. & Schwein.

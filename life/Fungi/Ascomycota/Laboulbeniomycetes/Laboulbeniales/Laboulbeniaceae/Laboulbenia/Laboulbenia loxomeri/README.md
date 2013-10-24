@@ -1,5 +1,4 @@
-Laboulbenia loxomeri M.B. Hughes & A. Weir, 2004 SPECIES
-=======
+# Laboulbenia loxomeri M.B. Hughes & A. Weir, 2004 SPECIES
 
 #### Status
 ACCEPTED

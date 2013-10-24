@@ -1,5 +1,4 @@
-Inocybe carpinacea Velen. SPECIES
-=======
+# Inocybe carpinacea Velen. SPECIES
 
 #### Status
 ACCEPTED

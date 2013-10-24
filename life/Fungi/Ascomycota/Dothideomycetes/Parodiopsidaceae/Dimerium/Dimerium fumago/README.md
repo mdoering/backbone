@@ -1,5 +1,4 @@
-Dimerium fumago (Niessl) Sacc. & P. Syd. SPECIES
-=======
+# Dimerium fumago (Niessl) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

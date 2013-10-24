@@ -1,5 +1,4 @@
-Podosporium maertensii (Westend.) Bonord. SPECIES
-=======
+# Podosporium maertensii (Westend.) Bonord. SPECIES
 
 #### Status
 ACCEPTED

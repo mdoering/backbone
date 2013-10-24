@@ -1,5 +1,4 @@
-Cercospora lyoniae Katsuki & Ts. Kobay. SPECIES
-=======
+# Cercospora lyoniae Katsuki & Ts. Kobay. SPECIES
 
 #### Status
 ACCEPTED

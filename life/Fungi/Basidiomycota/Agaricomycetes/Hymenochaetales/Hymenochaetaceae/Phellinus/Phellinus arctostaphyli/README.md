@@ -1,5 +1,4 @@
-Phellinus arctostaphyli (Long) Niemelä SPECIES
-=======
+# Phellinus arctostaphyli (Long) Niemelä SPECIES
 
 #### Status
 ACCEPTED

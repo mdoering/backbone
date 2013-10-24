@@ -1,5 +1,4 @@
-Astrosporina hiulca (Fr.) Rea SPECIES
-=======
+# Astrosporina hiulca (Fr.) Rea SPECIES
 
 #### Status
 ACCEPTED

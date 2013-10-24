@@ -1,5 +1,4 @@
-Pilinia morsei F.S. Collins SPECIES
-=======
+# Pilinia morsei F.S. Collins SPECIES
 
 #### Status
 ACCEPTED

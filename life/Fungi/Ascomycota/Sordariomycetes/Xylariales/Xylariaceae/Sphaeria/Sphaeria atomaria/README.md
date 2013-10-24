@@ -1,5 +1,4 @@
-Sphaeria atomaria Wallr. SPECIES
-=======
+# Sphaeria atomaria Wallr. SPECIES
 
 #### Status
 ACCEPTED

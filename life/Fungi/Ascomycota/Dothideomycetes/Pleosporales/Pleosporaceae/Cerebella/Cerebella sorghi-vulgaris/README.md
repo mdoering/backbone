@@ -1,5 +1,4 @@
-Cerebella sorghi-vulgaris Subraman. SPECIES
-=======
+# Cerebella sorghi-vulgaris Subraman. SPECIES
 
 #### Status
 ACCEPTED

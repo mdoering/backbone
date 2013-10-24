@@ -1,5 +1,4 @@
-Creonectria rubicarpa (Cooke) Seaver SPECIES
-=======
+# Creonectria rubicarpa (Cooke) Seaver SPECIES
 
 #### Status
 ACCEPTED

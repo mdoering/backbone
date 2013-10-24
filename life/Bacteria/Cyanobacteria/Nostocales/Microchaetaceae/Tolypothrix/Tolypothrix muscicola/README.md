@@ -1,5 +1,4 @@
-Tolypothrix muscicola var. hawaiiensis Nordstedt VARIETY
-=======
+# Tolypothrix muscicola SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella vagabunda (Desm.) Mig. SPECIES
-=======
+# Mycosphaerella vagabunda (Desm.) Mig. SPECIES
 
 #### Status
 ACCEPTED

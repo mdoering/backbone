@@ -1,5 +1,4 @@
-Cortinarius subavellanocoeruleus Bidaud & Reumaux SPECIES
-=======
+# Cortinarius subavellanocoeruleus Bidaud & Reumaux SPECIES
 
 #### Status
 ACCEPTED

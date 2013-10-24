@@ -1,5 +1,4 @@
-Irenopsis lagunae Hansf. SPECIES
-=======
+# Irenopsis lagunae Hansf. SPECIES
 
 #### Status
 ACCEPTED

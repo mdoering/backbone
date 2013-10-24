@@ -1,5 +1,4 @@
-Buellia mniaraeoides SPECIES
-=======
+# Buellia mniaraeoides SPECIES
 
 #### Status
 ACCEPTED

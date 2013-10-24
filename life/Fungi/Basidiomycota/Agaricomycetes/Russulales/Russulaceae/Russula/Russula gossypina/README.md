@@ -1,5 +1,4 @@
-Russula gossypina Buyck SPECIES
-=======
+# Russula gossypina Buyck SPECIES
 
 #### Status
 ACCEPTED

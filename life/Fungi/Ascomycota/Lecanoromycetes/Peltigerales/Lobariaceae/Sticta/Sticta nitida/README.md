@@ -1,5 +1,4 @@
-Sticta nitida var. nitida VARIETY
-=======
+# Sticta nitida SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-London J. Bot. 6: 178 (1847)
+null
 
 #### Original name
-Sticta nitida var. nitida
+null
 
 ### Remarks
 null

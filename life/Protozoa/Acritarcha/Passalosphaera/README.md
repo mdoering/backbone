@@ -1,5 +1,4 @@
-Passalosphaera Playford & Wicander, 1988 GENUS
-=======
+# Passalosphaera Playford & Wicander, 1988 GENUS
 
 #### Status
 ACCEPTED

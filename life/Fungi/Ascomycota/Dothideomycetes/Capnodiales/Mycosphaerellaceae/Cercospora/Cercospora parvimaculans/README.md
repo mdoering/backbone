@@ -1,5 +1,4 @@
-Cercospora parvimaculans Davis SPECIES
-=======
+# Cercospora parvimaculans Davis SPECIES
 
 #### Status
 ACCEPTED

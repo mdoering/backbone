@@ -1,5 +1,4 @@
-Coniothyrium piricola Potebnia SPECIES
-=======
+# Coniothyrium piricola Potebnia SPECIES
 
 #### Status
 ACCEPTED

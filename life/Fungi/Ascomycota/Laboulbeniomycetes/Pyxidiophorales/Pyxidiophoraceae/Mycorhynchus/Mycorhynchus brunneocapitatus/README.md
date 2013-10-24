@@ -1,14 +1,13 @@
-Pyxidiophora brunneocapitata (D. Hawksw. & J. Webster) D. Hawksw. & J. Webster, 1986 SPECIES
-=======
+# Mycorhynchus brunneocapitatus D. Hawksw. & J. Webster, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 87(1): 79 (1986)
+Trans. Br. mycol. Soc. 68(3): 331 (1977)
 
 #### Original name
 Mycorhynchus brunneocapitatus D. Hawksw. & J. Webster, 1977

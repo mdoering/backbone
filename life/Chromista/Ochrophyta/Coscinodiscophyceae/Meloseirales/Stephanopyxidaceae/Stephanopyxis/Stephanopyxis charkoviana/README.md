@@ -1,5 +1,4 @@
-Stephanopyxis charkoviana A. P. Jousé SPECIES
-=======
+# Stephanopyxis charkoviana A. P. Jousé SPECIES
 
 #### Status
 ACCEPTED

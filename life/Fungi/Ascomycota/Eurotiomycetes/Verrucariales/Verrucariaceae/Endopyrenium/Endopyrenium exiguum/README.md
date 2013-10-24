@@ -1,5 +1,4 @@
-Endopyrenium exiguum (Nyl.) Boistel SPECIES
-=======
+# Endopyrenium exiguum (Nyl.) Boistel SPECIES
 
 #### Status
 ACCEPTED

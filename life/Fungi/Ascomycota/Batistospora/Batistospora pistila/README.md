@@ -1,5 +1,4 @@
-Batistospora pistila Buriticá & M.P. Herrera SPECIES
-=======
+# Batistospora pistila Buriticá & M.P. Herrera SPECIES
 
 #### Status
 ACCEPTED

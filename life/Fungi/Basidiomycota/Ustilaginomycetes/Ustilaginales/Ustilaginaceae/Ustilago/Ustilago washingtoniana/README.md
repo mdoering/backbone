@@ -1,5 +1,4 @@
-Ustilago washingtoniana Ellis & Everh. SPECIES
-=======
+# Ustilago washingtoniana Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

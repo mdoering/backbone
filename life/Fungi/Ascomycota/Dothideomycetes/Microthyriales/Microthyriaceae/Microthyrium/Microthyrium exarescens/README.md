@@ -1,5 +1,4 @@
-Microthyrium exarescens Rehm SPECIES
-=======
+# Microthyrium exarescens Rehm SPECIES
 
 #### Status
 ACCEPTED

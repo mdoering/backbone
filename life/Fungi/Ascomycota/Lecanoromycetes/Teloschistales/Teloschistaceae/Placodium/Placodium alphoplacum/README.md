@@ -1,5 +1,4 @@
-Placodium alphoplacum (Wahlenb.) Link SPECIES
-=======
+# Placodium alphoplacum (Wahlenb.) Link SPECIES
 
 #### Status
 ACCEPTED

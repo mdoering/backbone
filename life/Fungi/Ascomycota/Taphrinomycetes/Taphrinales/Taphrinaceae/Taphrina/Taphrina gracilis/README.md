@@ -1,5 +1,4 @@
-Taphrina gracilis Mix SPECIES
-=======
+# Taphrina gracilis Mix SPECIES
 
 #### Status
 ACCEPTED

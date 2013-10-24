@@ -1,5 +1,4 @@
-Helminthosporium preussii Sacc. SPECIES
-=======
+# Helminthosporium preussii Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora rhagadioli var. rhagadioli VARIETY
-=======
+# Cercospora rhagadioli Bubák SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Herb. Boissier, 2 sér. 6: 487 (1906)
 
 #### Original name
-Cercospora rhagadioli var. rhagadioli
+Cercospora rhagadioli Bubák
 
 ### Remarks
 null

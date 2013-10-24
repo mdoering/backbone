@@ -1,5 +1,4 @@
-Saccharomycopsis phaeospora (Boedijn) Arx, 1977 SPECIES
-=======
+# Saccharomycopsis phaeospora (Boedijn) Arx, 1977 SPECIES
 
 #### Status
 ACCEPTED

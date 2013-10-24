@@ -1,5 +1,4 @@
-Heterodinium grahamii Rampi SPECIES
-=======
+# Heterodinium grahamii Rampi SPECIES
 
 #### Status
 ACCEPTED

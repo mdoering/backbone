@@ -1,5 +1,4 @@
-Borrelia afzelii Canica et al., 1994 SPECIES
-=======
+# Borrelia afzelii Canica et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

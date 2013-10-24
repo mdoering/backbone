@@ -1,5 +1,4 @@
-Rhabdospora bambusae Viégas SPECIES
-=======
+# Rhabdospora bambusae Viégas SPECIES
 
 #### Status
 ACCEPTED

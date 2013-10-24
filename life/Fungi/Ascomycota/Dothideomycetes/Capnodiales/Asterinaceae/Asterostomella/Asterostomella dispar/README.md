@@ -1,5 +1,4 @@
-Asterostomella dispar Speg. SPECIES
-=======
+# Asterostomella dispar Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Palaeorubus Ishiga in Ishiga, Leitch, Naka, Watanabe & Iwasaki, 1987 GENUS
-=======
+# Palaeorubus Ishiga in Ishiga, Leitch, Naka, Watanabe & Iwasaki, 1987 GENUS
 
 #### Status
 ACCEPTED

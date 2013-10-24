@@ -1,5 +1,4 @@
-Cladonia melanodes Nyl. SPECIES
-=======
+# Cladonia melanodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

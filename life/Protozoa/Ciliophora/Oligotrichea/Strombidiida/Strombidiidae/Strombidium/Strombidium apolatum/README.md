@@ -1,5 +1,4 @@
-Strombidium apolatum Wilbert & Song, 2005 SPECIES
-=======
+# Strombidium apolatum Wilbert & Song, 2005 SPECIES
 
 #### Status
 ACCEPTED

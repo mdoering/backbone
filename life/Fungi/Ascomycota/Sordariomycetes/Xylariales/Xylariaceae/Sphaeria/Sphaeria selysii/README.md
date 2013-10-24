@@ -1,5 +1,4 @@
-Sphaeria selysii Westend. SPECIES
-=======
+# Sphaeria selysii Westend. SPECIES
 
 #### Status
 ACCEPTED

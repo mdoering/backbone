@@ -1,5 +1,4 @@
-Peronospora pedicularis Palm SPECIES
-=======
+# Peronospora pedicularis Palm SPECIES
 
 #### Status
 ACCEPTED

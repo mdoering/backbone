@@ -1,5 +1,4 @@
-Palmula delicatissima (Plummer) SPECIES
-=======
+# Palmula delicatissima (Plummer) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Entoloma calongei (E. Horak & G. Moreno) Noordel. & Co-David, 2009 SPECIES
-=======
+# Rhodogaster calongei E. Horak & G. Moreno, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 50(2): 188 (1998)
 
 #### Original name
-null
+Rhodogaster calongei E. Horak & G. Moreno, 1998
 
 ### Remarks
 null

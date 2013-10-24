@@ -1,5 +1,4 @@
-Cortinarius subgemmeus Soop, 2003 SPECIES
-=======
+# Cortinarius subgemmeus Soop, 2003 SPECIES
 
 #### Status
 ACCEPTED

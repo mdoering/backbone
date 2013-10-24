@@ -1,5 +1,4 @@
-Didymiun iridis (Ditmar) Fries SPECIES
-=======
+# Didymiun iridis (Ditmar) Fries SPECIES
 
 #### Status
 ACCEPTED

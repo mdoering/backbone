@@ -1,5 +1,4 @@
-Scolecobasidium indicum R.Y. Roy, R.S. Dwivedi SPECIES
-=======
+# Scolecobasidium indicum R.Y. Roy, R.S. Dwivedi SPECIES
 
 #### Status
 ACCEPTED

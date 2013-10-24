@@ -1,17 +1,16 @@
-Ascoscleroderma Clémencet GENUS
-=======
+# Elaphomyces Nees, 1820 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Botaniste 24: 14 (1932)
+null
 
 #### Original name
-Ascoscleroderma Clémencet
+null
 
 ### Remarks
 null

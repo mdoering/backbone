@@ -1,5 +1,4 @@
-Crepidotus salmonicolor Cleland & Cheel SPECIES
-=======
+# Crepidotus salmonicolor Cleland & Cheel SPECIES
 
 #### Status
 ACCEPTED

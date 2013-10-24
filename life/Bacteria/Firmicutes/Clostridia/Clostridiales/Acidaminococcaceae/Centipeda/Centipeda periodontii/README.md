@@ -1,5 +1,4 @@
-Centipeda periodontii Lai et al., 1983 SPECIES
-=======
+# Centipeda periodontii Lai et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

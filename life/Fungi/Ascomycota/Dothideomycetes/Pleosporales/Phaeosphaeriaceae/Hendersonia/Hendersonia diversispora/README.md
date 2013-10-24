@@ -1,5 +1,4 @@
-Hendersonia diversispora (Preuss) Sacc. SPECIES
-=======
+# Hendersonia diversispora (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

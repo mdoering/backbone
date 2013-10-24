@@ -1,5 +1,4 @@
-Boletus sensibilis var. sensibilis VARIETY
-=======
+# Boletus sensibilis Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Boletus sensibilis var. sensibilis
+Boletus sensibilis Peck
 
 ### Remarks
 null

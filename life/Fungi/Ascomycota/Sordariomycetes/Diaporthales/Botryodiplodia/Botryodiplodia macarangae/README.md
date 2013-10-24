@@ -1,5 +1,4 @@
-Botryodiplodia macarangae (Höhn.) Petr. SPECIES
-=======
+# Botryodiplodia macarangae (Höhn.) Petr. SPECIES
 
 #### Status
 ACCEPTED

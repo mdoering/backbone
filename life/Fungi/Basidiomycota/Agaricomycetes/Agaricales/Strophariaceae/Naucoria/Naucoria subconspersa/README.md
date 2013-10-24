@@ -1,14 +1,13 @@
-Alnicola subsconspersa (Kühner ex P.D. Orton) Bon SPECIES
-=======
+# Naucoria subconspersa Kühner ex P.D. Orton, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 43(2): 323 (1960)
 
 #### Original name
 Naucoria subconspersa Kühner ex P.D. Orton, 1960

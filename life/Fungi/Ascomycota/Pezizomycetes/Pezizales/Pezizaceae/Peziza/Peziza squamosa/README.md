@@ -1,5 +1,4 @@
-Peziza squamosa Schumach. SPECIES
-=======
+# Peziza squamosa Schumach. SPECIES
 
 #### Status
 ACCEPTED

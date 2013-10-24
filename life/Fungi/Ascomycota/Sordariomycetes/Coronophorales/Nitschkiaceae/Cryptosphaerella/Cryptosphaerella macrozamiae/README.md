@@ -1,5 +1,4 @@
-Cryptosphaerella macrozamiae (Berk. & Broome) Sacc. SPECIES
-=======
+# Cryptosphaerella macrozamiae (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

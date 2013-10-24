@@ -1,5 +1,4 @@
-Cercospora hydrangeae Ellis & Everh., 1902 SPECIES
-=======
+# Cercospora hydrangeae Ellis & Everh., 1902 SPECIES
 
 #### Status
 ACCEPTED

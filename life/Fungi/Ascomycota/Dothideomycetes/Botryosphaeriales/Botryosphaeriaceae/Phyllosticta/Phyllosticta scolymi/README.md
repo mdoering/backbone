@@ -1,5 +1,4 @@
-Phyllosticta scolymi Pat. SPECIES
-=======
+# Phyllosticta scolymi Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria flexuosa Lasch SPECIES
-=======
+# Clavaria flexuosa Lasch SPECIES
 
 #### Status
 ACCEPTED

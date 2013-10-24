@@ -1,5 +1,4 @@
-Erysiphe karisiana U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe karisiana U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

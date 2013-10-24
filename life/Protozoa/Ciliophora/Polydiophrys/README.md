@@ -1,5 +1,4 @@
-Polydiophrys Yankovskij, 1979 GENUS
-=======
+# Polydiophrys Yankovskij, 1979 GENUS
 
 #### Status
 ACCEPTED

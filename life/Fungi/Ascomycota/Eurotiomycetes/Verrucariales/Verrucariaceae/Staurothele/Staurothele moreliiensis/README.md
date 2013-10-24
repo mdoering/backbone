@@ -1,5 +1,4 @@
-Staurothele moreliiensis B. de Lesd. SPECIES
-=======
+# Staurothele moreliiensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

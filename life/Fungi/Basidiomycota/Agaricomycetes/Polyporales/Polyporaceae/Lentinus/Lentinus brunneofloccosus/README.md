@@ -1,5 +1,4 @@
-Lentinus brunneofloccosus Pegler SPECIES
-=======
+# Lentinus brunneofloccosus Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diporicellaesporites liaoningensis P. Ke & Z.Y. Shi SPECIES
-=======
+# Diporicellaesporites liaoningensis P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

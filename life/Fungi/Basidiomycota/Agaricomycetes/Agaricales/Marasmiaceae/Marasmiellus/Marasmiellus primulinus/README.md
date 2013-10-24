@@ -1,5 +1,4 @@
-Marasmiellus primulinus (Dennis) Dennis SPECIES
-=======
+# Marasmiellus primulinus (Dennis) Dennis SPECIES
 
 #### Status
 ACCEPTED

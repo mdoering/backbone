@@ -1,5 +1,4 @@
-Lepocinclis heterochila Kufferath SPECIES
-=======
+# Lepocinclis heterochila Kufferath SPECIES
 
 #### Status
 ACCEPTED

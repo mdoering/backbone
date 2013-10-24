@@ -1,5 +1,4 @@
-Pestalotia jodhpurensis Bilgrami & Purohit SPECIES
-=======
+# Pestalotia jodhpurensis Bilgrami & Purohit SPECIES
 
 #### Status
 ACCEPTED

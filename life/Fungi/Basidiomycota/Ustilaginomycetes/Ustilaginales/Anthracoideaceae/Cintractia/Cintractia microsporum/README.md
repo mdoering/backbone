@@ -1,5 +1,4 @@
-Cintractia microsporum anon. SPECIES
-=======
+# Cintractia microsporum anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Semilecanora leptoplaca (Nyl.) Motyka SPECIES
-=======
+# Semilecanora leptoplaca (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

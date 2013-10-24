@@ -1,5 +1,4 @@
-Thelidium rugulosum (Schaer.) Zahlbr. SPECIES
-=======
+# Thelidium rugulosum (Schaer.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

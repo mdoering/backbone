@@ -1,5 +1,4 @@
-Trichophyton krajdenii J. Kane, J.A. Scott & Summerb., 1992 SPECIES
-=======
+# Trichophyton krajdenii J. Kane, J.A. Scott & Summerb., 1992 SPECIES
 
 #### Status
 ACCEPTED

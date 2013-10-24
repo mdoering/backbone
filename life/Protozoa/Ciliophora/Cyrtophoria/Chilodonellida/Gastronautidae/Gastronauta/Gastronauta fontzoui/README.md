@@ -1,5 +1,4 @@
-Gastronauta fontzoui Nie Dashu & Ho Yün-Luan, 1943 SPECIES
-=======
+# Gastronauta fontzoui Nie Dashu & Ho Yün-Luan, 1943 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Agaricus escharioides var. escharioides VARIETY
-=======
+# Naucoria escharioides (Fr.) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Führ. Pilzk. (Zwickau) 22, 76 (1871)
 
 #### Original name
-null
+Agaricus escharioides Fr., 1818
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Buellia substigmea S.R. Singh & D.D. Awasthi SPECIES
-=======
+# Buellia substigmea S.R. Singh & D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

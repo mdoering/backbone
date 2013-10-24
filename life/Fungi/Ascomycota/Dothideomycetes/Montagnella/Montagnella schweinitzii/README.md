@@ -1,14 +1,13 @@
-Phyllachora schweinitzii (Berk. & M.A. Curtis) Cooke, 1885 SPECIES
-=======
+# Montagnella schweinitzii (Berk. & M.A. Curtis) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 13(no. 67): 70 (1885)
+Syll. fung. (Abellini) 2: 639 (1883)
 
 #### Original name
 Dothidea schweinitzii Berk. & M.A. Curtis, 1853

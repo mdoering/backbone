@@ -1,5 +1,4 @@
-Irene megalospora Speg. SPECIES
-=======
+# Irene megalospora Speg. SPECIES
 
 #### Status
 ACCEPTED

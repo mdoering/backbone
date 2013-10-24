@@ -1,5 +1,4 @@
-Entoloma retroflexum Berk. & Broome SPECIES
-=======
+# Entoloma retroflexum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

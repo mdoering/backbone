@@ -1,5 +1,4 @@
-Pyrenophora polytricha (Wallr.) Wehm. SPECIES
-=======
+# Pyrenophora polytricha (Wallr.) Wehm. SPECIES
 
 #### Status
 ACCEPTED

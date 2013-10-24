@@ -1,5 +1,4 @@
-Graphis cingalina Nyl. SPECIES
-=======
+# Graphis cingalina Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea triangularis H. Magn. SPECIES
-=======
+# Lecidea triangularis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

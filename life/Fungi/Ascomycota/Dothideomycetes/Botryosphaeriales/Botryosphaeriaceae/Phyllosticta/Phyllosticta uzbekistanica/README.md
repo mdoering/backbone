@@ -1,5 +1,4 @@
-Phyllosticta uzbekistanica Melnik SPECIES
-=======
+# Phyllosticta uzbekistanica Melnik SPECIES
 
 #### Status
 ACCEPTED

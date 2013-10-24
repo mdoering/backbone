@@ -1,5 +1,4 @@
-Lichen denigratus Ach. SPECIES
-=======
+# Lichen denigratus Ach. SPECIES
 
 #### Status
 ACCEPTED

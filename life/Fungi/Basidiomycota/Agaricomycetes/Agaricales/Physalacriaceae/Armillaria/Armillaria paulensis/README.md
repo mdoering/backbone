@@ -1,5 +1,4 @@
-Armillaria paulensis Capelari SPECIES
-=======
+# Armillaria paulensis Capelari SPECIES
 
 #### Status
 ACCEPTED

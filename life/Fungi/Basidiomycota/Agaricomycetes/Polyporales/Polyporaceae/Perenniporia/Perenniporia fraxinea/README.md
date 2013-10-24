@@ -1,17 +1,16 @@
-Ungulina fraxinea var. albida Bourdot VARIETY
-=======
+# Perenniporia fraxinea (Bull.) Ryvarden, 1978 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 49: 227 (1932)
+Grundr. Krauterk. 2: 307 (1978)
 
 #### Original name
-Ungulina fraxinea var. albida Bourdot
+Boletus fraxineus Bull., 1790
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lithographomyces petraeae Cif. & Tomas. SPECIES
-=======
+# Lithographomyces petraeae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

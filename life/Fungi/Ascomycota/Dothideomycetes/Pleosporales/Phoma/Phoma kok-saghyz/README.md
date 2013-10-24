@@ -1,5 +1,4 @@
-Phoma kok-saghyz Cherem. SPECIES
-=======
+# Phoma kok-saghyz Cherem. SPECIES
 
 #### Status
 ACCEPTED

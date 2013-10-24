@@ -1,5 +1,4 @@
-Bryomyces nigrescens Döbbeler, 1978 SPECIES
-=======
+# Bryomyces nigrescens Döbbeler, 1978 SPECIES
 
 #### Status
 ACCEPTED

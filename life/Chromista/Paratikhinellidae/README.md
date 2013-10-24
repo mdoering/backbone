@@ -1,5 +1,4 @@
-Paratikhinellidae Loeblich & Tappan, 1984 FAMILY
-=======
+# Paratikhinellidae Loeblich & Tappan, 1984 FAMILY
 
 #### Status
 ACCEPTED

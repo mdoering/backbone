@@ -1,5 +1,4 @@
-Olpidium cruciferarum M.W. Dick, 2001 SPECIES
-=======
+# Olpidium cruciferarum M.W. Dick, 2001 SPECIES
 
 #### Status
 ACCEPTED

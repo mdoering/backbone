@@ -1,5 +1,4 @@
-Phyllachora ramosa (Schwein.) Sacc., 1883 SPECIES
-=======
+# Phyllachora ramosa (Schwein.) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

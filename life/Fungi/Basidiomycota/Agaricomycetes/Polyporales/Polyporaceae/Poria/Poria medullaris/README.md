@@ -1,17 +1,16 @@
-Poria medullaris var. medullaris VARIETY
-=======
+# Poria medullaris Gray SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Nat. Arr. Brit. Pl. (London) 1: 639 (1821)
 
 #### Original name
-null
+Poria medullaris Gray
 
 ### Remarks
 null

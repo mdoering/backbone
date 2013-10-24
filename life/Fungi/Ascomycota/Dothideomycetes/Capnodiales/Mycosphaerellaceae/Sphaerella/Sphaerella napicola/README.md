@@ -1,5 +1,4 @@
-Sphaerella napicola Fautrey SPECIES
-=======
+# Sphaerella napicola Fautrey SPECIES
 
 #### Status
 ACCEPTED

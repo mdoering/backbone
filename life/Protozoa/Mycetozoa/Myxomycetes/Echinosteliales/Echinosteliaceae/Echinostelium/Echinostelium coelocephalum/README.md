@@ -1,5 +1,4 @@
-Echinostelium coelocephalum T.E. Brooks & H.W. Keller, 1977 SPECIES
-=======
+# Echinostelium coelocephalum T.E. Brooks & H.W. Keller, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laocoon paradoxus (Syd. & P. Syd.) J.C. David, 1997 SPECIES
-=======
+# Laocoon paradoxus (Syd. & P. Syd.) J.C. David, 1997 SPECIES
 
 #### Status
 ACCEPTED

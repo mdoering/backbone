@@ -1,5 +1,4 @@
-Helotium cinnamomeum Alb. & Schwein. SPECIES
-=======
+# Helotium cinnamomeum Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

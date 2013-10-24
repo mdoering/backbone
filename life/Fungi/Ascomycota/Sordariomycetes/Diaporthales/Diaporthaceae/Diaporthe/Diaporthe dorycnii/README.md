@@ -1,5 +1,4 @@
-Diaporthe dorycnii (Mont.) Sacc. SPECIES
-=======
+# Diaporthe dorycnii (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

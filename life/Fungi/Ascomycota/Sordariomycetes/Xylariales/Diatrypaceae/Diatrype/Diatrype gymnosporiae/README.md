@@ -1,5 +1,4 @@
-Diatrype gymnosporiae Gambhir SPECIES
-=======
+# Diatrype gymnosporiae Gambhir SPECIES
 
 #### Status
 ACCEPTED

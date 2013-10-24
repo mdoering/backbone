@@ -1,5 +1,4 @@
-Chaenothecopsis australis Tibell SPECIES
-=======
+# Chaenothecopsis australis Tibell SPECIES
 
 #### Status
 ACCEPTED

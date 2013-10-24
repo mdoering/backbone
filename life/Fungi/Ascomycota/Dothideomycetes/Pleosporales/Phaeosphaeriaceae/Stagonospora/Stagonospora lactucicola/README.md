@@ -1,5 +1,4 @@
-Stagonospora lactucicola H.C. Greene SPECIES
-=======
+# Stagonospora lactucicola H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

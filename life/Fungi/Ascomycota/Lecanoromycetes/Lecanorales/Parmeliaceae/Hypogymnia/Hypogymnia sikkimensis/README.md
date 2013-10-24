@@ -1,5 +1,4 @@
-Hypogymnia sikkimensis G.P. Sinha & Elix SPECIES
-=======
+# Hypogymnia sikkimensis G.P. Sinha & Elix SPECIES
 
 #### Status
 ACCEPTED

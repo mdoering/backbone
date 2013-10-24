@@ -1,5 +1,4 @@
-Uromyces macounianus Ellis & Everh. SPECIES
-=======
+# Uromyces macounianus Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

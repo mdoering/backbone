@@ -1,5 +1,4 @@
-Psathyra griseolanosula Rick SPECIES
-=======
+# Psathyra griseolanosula Rick SPECIES
 
 #### Status
 ACCEPTED

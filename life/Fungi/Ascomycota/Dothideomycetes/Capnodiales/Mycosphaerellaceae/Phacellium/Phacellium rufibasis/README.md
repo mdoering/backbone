@@ -1,17 +1,16 @@
-Ramularia destructiva W. Phillips & Plowr., 1877 SPECIES
-=======
+# Phacellium rufibasis (Berk. & Broome) U. Braun, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 6(no. 37): 22 (1877)
+Nova Hedwigia 54(3-4): 471 (1992)
 
 #### Original name
-Ramularia destructiva W. Phillips & Plowr., 1877
+Peronospora rufibasis Berk. & Broome, 1875
 
 ### Remarks
 null

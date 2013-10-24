@@ -1,5 +1,4 @@
-Peltigera erioderma Vain. SPECIES
-=======
+# Peltigera erioderma Vain. SPECIES
 
 #### Status
 ACCEPTED

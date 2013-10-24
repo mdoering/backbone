@@ -1,5 +1,4 @@
-Cortinarius elotoides M.M. Moser & McKnight SPECIES
-=======
+# Cortinarius elotoides M.M. Moser & McKnight SPECIES
 
 #### Status
 ACCEPTED

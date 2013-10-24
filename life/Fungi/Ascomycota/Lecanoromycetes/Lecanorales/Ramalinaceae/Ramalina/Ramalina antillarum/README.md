@@ -1,5 +1,4 @@
-Ramalina antillarum Vain. SPECIES
-=======
+# Ramalina antillarum Vain. SPECIES
 
 #### Status
 ACCEPTED

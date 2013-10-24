@@ -1,5 +1,4 @@
-Buellia hypolepidina SPECIES
-=======
+# Buellia hypolepidina SPECIES
 
 #### Status
 ACCEPTED

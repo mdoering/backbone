@@ -1,5 +1,4 @@
-Lithocia beltraminiana A. Massal. SPECIES
-=======
+# Lithocia beltraminiana A. Massal. SPECIES
 
 #### Status
 ACCEPTED

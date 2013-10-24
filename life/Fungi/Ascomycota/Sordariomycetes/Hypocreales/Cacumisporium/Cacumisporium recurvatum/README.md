@@ -1,5 +1,4 @@
-Cacumisporium recurvatum (Morgan) SPECIES
-=======
+# Cacumisporium recurvatum (Morgan) SPECIES
 
 #### Status
 ACCEPTED

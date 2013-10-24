@@ -1,5 +1,4 @@
-Meliola calophylli F. Stevens SPECIES
-=======
+# Meliola calophylli F. Stevens SPECIES
 
 #### Status
 ACCEPTED

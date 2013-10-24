@@ -1,5 +1,4 @@
-Opegrapha aterula f. aterula FORM
-=======
+# Opegrapha aterula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Opegrapha aterula f. aterula
+Opegrapha aterula Müll. Arg.
 
 ### Remarks
 null

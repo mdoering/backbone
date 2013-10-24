@@ -1,14 +1,13 @@
-Tephromela talayana Haugan & Timdal SPECIES
-=======
+# Calvitimela talayana (Haugan & Timdal) M. P. Andreev SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Graphis Scripta 6(1): 24 (1994)
+Nov. sist. Niz. Rast. 37: 190 (2004)
 
 #### Original name
 Tephromela talayana Haugan & Timdal

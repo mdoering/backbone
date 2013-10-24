@@ -1,5 +1,4 @@
-Geitlerinema splendidum (Greville) Anagnostidis SPECIES
-=======
+# Geitlerinema splendidum (Greville) Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

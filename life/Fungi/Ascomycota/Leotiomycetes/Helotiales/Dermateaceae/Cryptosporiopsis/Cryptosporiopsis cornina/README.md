@@ -1,14 +1,13 @@
-Sphaeropsis cornina Peck, 1879 SPECIES
-=======
+# Cryptosporiopsis cornina (Peck) Petr. & Syd., 1924 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 22(3-6): 377 (1924)
 
 #### Original name
 Sphaeropsis cornina Peck, 1879

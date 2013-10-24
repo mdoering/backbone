@@ -1,5 +1,4 @@
-Phaeoseptoria oryzae I. Miyake SPECIES
-=======
+# Phaeoseptoria oryzae I. Miyake SPECIES
 
 #### Status
 ACCEPTED

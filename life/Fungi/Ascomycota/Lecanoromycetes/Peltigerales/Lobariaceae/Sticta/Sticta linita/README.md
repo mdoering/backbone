@@ -1,5 +1,4 @@
-Sticta linita Ach. SPECIES
-=======
+# Sticta linita Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phillipsia rugospora Paden SPECIES
-=======
+# Phillipsia rugospora Paden SPECIES
 
 #### Status
 ACCEPTED

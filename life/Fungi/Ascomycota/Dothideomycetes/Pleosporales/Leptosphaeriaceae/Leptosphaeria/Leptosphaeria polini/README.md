@@ -1,5 +1,4 @@
-Leptosphaeria polini Gucevic SPECIES
-=======
+# Leptosphaeria polini Gucevic SPECIES
 
 #### Status
 ACCEPTED

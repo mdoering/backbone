@@ -1,5 +1,4 @@
-Nectria polita Theiss. SPECIES
-=======
+# Nectria polita Theiss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Methanothermus sociabilis Stetter, 1986 SPECIES
-=======
+# Methanothermus sociabilis Stetter, 1986 SPECIES
 
 #### Status
 ACCEPTED

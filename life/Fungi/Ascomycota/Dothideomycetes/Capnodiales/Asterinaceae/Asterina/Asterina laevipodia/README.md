@@ -1,5 +1,4 @@
-Asterina laevipodia M.L. Farr SPECIES
-=======
+# Asterina laevipodia M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

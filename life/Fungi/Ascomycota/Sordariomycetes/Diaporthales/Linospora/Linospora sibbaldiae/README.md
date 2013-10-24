@@ -1,5 +1,4 @@
-Linospora sibbaldiae Rostr. SPECIES
-=======
+# Linospora sibbaldiae Rostr. SPECIES
 
 #### Status
 ACCEPTED

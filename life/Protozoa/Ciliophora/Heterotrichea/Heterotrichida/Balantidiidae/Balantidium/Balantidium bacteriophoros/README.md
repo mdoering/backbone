@@ -1,5 +1,4 @@
-Balantidium bacteriophoros Fenchel, 1980 SPECIES
-=======
+# Balantidium bacteriophoros Fenchel, 1980 SPECIES
 
 #### Status
 ACCEPTED

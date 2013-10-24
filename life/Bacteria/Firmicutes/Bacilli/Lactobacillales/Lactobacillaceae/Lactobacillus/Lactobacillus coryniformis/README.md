@@ -1,5 +1,4 @@
-Lactobacillus coryniformis subsp. torquens SUBSPECIES
-=======
+# Lactobacillus coryniformis Abo-Elnaga & Kandler, 1965 SPECIES
 
 #### Status
 ACCEPTED

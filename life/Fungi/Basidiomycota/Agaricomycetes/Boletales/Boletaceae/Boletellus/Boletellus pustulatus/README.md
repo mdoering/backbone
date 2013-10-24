@@ -1,5 +1,4 @@
-Boletellus pustulatus (Beeli) E.-J. Gilbert SPECIES
-=======
+# Boletellus pustulatus (Beeli) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

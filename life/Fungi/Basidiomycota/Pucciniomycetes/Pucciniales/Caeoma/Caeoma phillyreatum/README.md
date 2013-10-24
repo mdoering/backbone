@@ -1,5 +1,4 @@
-Caeoma phillyreatum Link SPECIES
-=======
+# Caeoma phillyreatum Link SPECIES
 
 #### Status
 ACCEPTED

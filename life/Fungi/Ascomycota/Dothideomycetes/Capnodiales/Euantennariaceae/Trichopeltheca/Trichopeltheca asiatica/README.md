@@ -1,5 +1,4 @@
-Trichopeltheca asiatica Bat., C.A.A. Costa & Cif., 1958 SPECIES
-=======
+# Trichopeltheca asiatica Bat., C.A.A. Costa & Cif., 1958 SPECIES
 
 #### Status
 ACCEPTED

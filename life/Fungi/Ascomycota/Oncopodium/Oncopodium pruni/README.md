@@ -1,5 +1,4 @@
-Oncopodium pruni M.B. Ellis SPECIES
-=======
+# Oncopodium pruni M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

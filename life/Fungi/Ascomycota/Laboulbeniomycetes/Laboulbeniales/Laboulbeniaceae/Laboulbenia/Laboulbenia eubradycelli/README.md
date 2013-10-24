@@ -1,5 +1,4 @@
-Laboulbenia eubradycelli Huldén, 1985 SPECIES
-=======
+# Laboulbenia eubradycelli Huldén, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepista indica Sathe & J.T. Daniel SPECIES
-=======
+# Lepista indica Sathe & J.T. Daniel SPECIES
 
 #### Status
 ACCEPTED

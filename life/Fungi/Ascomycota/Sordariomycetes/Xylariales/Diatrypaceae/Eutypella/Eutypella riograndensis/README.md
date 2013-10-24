@@ -1,5 +1,4 @@
-Eutypella riograndensis (Rehm) Rappaz SPECIES
-=======
+# Eutypella riograndensis (Rehm) Rappaz SPECIES
 
 #### Status
 ACCEPTED

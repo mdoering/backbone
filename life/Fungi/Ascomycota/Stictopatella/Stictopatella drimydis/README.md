@@ -1,17 +1,16 @@
-Stictopatella drymidis Bat. & Barreto SPECIES
-=======
+# Stictopatella drimydis Bat. & Barreto SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Saccardoa 1: 73 (1960)
 
 #### Original name
-Stictopatella drymidis Bat. & Barreto
+Stictopatella drimydis Bat. & Barreto
 
 ### Remarks
 null

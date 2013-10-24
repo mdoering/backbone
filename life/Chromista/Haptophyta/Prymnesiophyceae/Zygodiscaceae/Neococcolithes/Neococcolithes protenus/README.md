@@ -1,5 +1,4 @@
-Neococcolithes protenus (Bramlette & Sullivan, 1961) Black, 1967 SPECIES
-=======
+# Neococcolithes protenus (Bramlette & Sullivan, 1961) Black, 1967 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenopeziza pinicola Rehm SPECIES
-=======
+# Pyrenopeziza pinicola Rehm SPECIES
 
 #### Status
 ACCEPTED

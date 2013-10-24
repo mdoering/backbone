@@ -1,5 +1,4 @@
-Helminthosporium armatum (Lév.) Berl. & Sacc. SPECIES
-=======
+# Helminthosporium armatum (Lév.) Berl. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dematium geotrichum Wallr. SPECIES
-=======
+# Dematium geotrichum Wallr. SPECIES
 
 #### Status
 ACCEPTED

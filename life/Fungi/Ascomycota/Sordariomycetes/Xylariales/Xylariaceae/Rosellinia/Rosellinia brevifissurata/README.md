@@ -1,5 +1,4 @@
-Rosellinia brevifissurata Lar.N. Vassiljeva, 1998 SPECIES
-=======
+# Rosellinia brevifissurata Lar.N. Vassiljeva, 1998 SPECIES
 
 #### Status
 ACCEPTED

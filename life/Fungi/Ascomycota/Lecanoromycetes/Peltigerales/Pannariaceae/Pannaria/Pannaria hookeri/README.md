@@ -1,17 +1,16 @@
-Squamaria leucolepis Hook. f. SPECIES
-=======
+# Pannaria hookeri (Borrer ex Sm.) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Engl. Fl. 5: 198 (1844)
+Mém. Soc. Imp. Sci. Nat. Cherbourg 5: 109 (1857)
 
 #### Original name
-Squamaria leucolepis Hook. f.
+Lichen hookeri Borrer
 
 ### Remarks
 null

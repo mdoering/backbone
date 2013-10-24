@@ -1,5 +1,4 @@
-Ceratostomella subsalsa (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Ceratostomella subsalsa (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropeltis soroceae Bat. & Gayão SPECIES
-=======
+# Micropeltis soroceae Bat. & Gayão SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spirochaeta pollachi SPECIES
-=======
+# Spirochaeta pollachi SPECIES
 
 #### Status
 ACCEPTED

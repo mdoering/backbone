@@ -1,5 +1,4 @@
-Gorgonisphaeridium furcillatum R. Wicander & G. Playford SPECIES
-=======
+# Gorgonisphaeridium furcillatum R. Wicander & G. Playford SPECIES
 
 #### Status
 ACCEPTED

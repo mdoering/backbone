@@ -1,5 +1,4 @@
-Placodium thaumnastum SPECIES
-=======
+# Placodium thaumnastum SPECIES
 
 #### Status
 ACCEPTED

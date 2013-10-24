@@ -1,5 +1,4 @@
-Arthopyrenia mori Sántha SPECIES
-=======
+# Arthopyrenia mori Sántha SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anulohypha serpens Cif., 1962 SPECIES
-=======
+# Anulohypha serpens Cif., 1962 SPECIES
 
 #### Status
 ACCEPTED

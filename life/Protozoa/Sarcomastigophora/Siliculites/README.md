@@ -1,5 +1,4 @@
-Siliculites Fang, 1988 GENUS
-=======
+# Siliculites Fang, 1988 GENUS
 
 #### Status
 ACCEPTED

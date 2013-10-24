@@ -1,5 +1,4 @@
-Squamaria likana var. likana VARIETY
-=======
+# Squamaria likana Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Squamaria likana var. likana
+Squamaria likana Gyeln.
 
 ### Remarks
 null

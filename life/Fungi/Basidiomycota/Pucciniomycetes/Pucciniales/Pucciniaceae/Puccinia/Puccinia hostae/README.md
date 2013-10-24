@@ -1,5 +1,4 @@
-Puccinia hostae Hara SPECIES
-=======
+# Puccinia hostae Hara SPECIES
 
 #### Status
 ACCEPTED

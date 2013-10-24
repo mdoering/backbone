@@ -1,5 +1,4 @@
-Fusariella echinulata H.M. Liu & T.Y. Zhang SPECIES
-=======
+# Fusariella echinulata H.M. Liu & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

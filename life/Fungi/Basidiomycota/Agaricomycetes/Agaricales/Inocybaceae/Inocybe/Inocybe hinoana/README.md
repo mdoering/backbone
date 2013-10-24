@@ -1,5 +1,4 @@
-Inocybe hinoana Yukawa & Katum. SPECIES
-=======
+# Inocybe hinoana Yukawa & Katum. SPECIES
 
 #### Status
 ACCEPTED

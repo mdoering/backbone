@@ -1,5 +1,4 @@
-Galerina thujina A.H. Sm. & Singer SPECIES
-=======
+# Galerina thujina A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Petrakiella insignis Syd., 1924 SPECIES
-=======
+# Petrakiella insignis Syd., 1924 SPECIES
 
 #### Status
 ACCEPTED

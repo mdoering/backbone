@@ -1,5 +1,4 @@
-Hymenoscyphus vitreus (Velen.) Svrcek SPECIES
-=======
+# Hymenoscyphus vitreus (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

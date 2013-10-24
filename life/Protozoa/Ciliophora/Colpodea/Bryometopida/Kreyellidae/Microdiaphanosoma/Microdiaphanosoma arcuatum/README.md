@@ -1,8 +1,7 @@
-Microdiaphanosoma arcuata (Grandori & Grandori, 1934) Wenzel, 1953 SPECIES
-=======
+# Microdiaphanosoma arcuatum (Grandori & Grandori, 1934) Wenzel, 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

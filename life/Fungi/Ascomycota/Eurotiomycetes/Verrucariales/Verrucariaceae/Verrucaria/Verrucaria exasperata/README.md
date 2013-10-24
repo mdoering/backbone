@@ -1,5 +1,4 @@
-Verrucaria exasperata Zenker SPECIES
-=======
+# Verrucaria exasperata Zenker SPECIES
 
 #### Status
 ACCEPTED

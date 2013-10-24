@@ -1,5 +1,4 @@
-Porina rufocarpella Zahlbr. SPECIES
-=======
+# Porina rufocarpella Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

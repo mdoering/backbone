@@ -1,5 +1,4 @@
-Orthodonella sinica Long, Liu, Liu, Miao, Hu, Lin & Song, 2008 SPECIES
-=======
+# Orthodonella sinica Long, Liu, Liu, Miao, Hu, Lin & Song, 2008 SPECIES
 
 #### Status
 ACCEPTED

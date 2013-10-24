@@ -1,5 +1,4 @@
-Pulvinaria Borzì, 1916 GENUS
-=======
+# Pulvinaria Borzì, 1916 GENUS
 
 #### Status
 ACCEPTED

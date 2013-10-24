@@ -1,5 +1,4 @@
-Laboulbenia vitielloi W. Rossi SPECIES
-=======
+# Laboulbenia vitielloi W. Rossi SPECIES
 
 #### Status
 ACCEPTED

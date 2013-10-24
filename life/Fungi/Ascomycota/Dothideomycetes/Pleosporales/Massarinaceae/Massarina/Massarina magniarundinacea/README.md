@@ -1,5 +1,4 @@
-Massarina magniarundinacea Kaz. Tanaka & Y. Harada, 2004 SPECIES
-=======
+# Massarina magniarundinacea Kaz. Tanaka & Y. Harada, 2004 SPECIES
 
 #### Status
 ACCEPTED

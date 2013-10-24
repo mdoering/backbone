@@ -1,5 +1,4 @@
-Boletus fusipes Quél. SPECIES
-=======
+# Boletus fusipes Quél. SPECIES
 
 #### Status
 ACCEPTED

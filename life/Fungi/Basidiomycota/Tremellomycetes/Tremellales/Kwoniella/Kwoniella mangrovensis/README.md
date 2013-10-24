@@ -1,17 +1,16 @@
-Kwoniella mangroviensis Statzell, Belloch & Fell SPECIES
-=======
+# Kwoniella mangrovensis Statzell, Belloch & Fell, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Statzell-Tallman, Belloch & Fell, FEMS Yeast Res. 8(1): 107 (2008)
 
 #### Original name
-Kwoniella mangroviensis Statzell, Belloch & Fell
+Kwoniella mangrovensis Statzell, Belloch & Fell, 2008
 
 ### Remarks
 null

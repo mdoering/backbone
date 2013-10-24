@@ -1,5 +1,4 @@
-Peziza subtilis Fr. SPECIES
-=======
+# Peziza subtilis Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Craterellus spathuliformis Gillet SPECIES
-=======
+# Craterellus spathuliformis Gillet SPECIES
 
 #### Status
 ACCEPTED

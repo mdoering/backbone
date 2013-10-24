@@ -1,14 +1,13 @@
-Nectria mammiformis (Chardón) Samuels, 1982 SPECIES
-=======
+# Lanatonectria mammiformis (Chardón) Samuels & Rossman, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Samuels & Dumont, Caldasia 13(no. 63): 393 (1982)
+in Rossman, Samuels, Rogerson & Lowen, Stud. Mycol. 42: 139 (1999)
 
 #### Original name
 Sphaerostilbe mammiformis Chardón, 1926

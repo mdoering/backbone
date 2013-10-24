@@ -1,5 +1,4 @@
-Trichodothis Theiss. & Syd. GENUS
-=======
+# Trichodothis Theiss. & Syd. GENUS
 
 #### Status
 ACCEPTED

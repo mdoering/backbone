@@ -1,5 +1,4 @@
-Tyligmasoma G. Playford, 1977 GENUS
-=======
+# Tyligmasoma G. Playford, 1977 GENUS
 
 #### Status
 ACCEPTED

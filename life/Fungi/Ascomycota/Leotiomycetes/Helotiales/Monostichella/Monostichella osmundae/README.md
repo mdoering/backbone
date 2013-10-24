@@ -1,5 +1,4 @@
-Monostichella osmundae H. Ruppr. SPECIES
-=======
+# Monostichella osmundae H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

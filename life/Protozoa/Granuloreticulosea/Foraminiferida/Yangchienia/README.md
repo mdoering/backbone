@@ -1,5 +1,4 @@
-Yangchienia Lee, 1934 GENUS
-=======
+# Yangchienia Lee, 1934 GENUS
 
 #### Status
 ACCEPTED

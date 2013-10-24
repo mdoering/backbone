@@ -1,5 +1,4 @@
-Arthrobotrys mangrovispora Swe, Jeewon, Pointing & K.D. Hyde, 2008 SPECIES
-=======
+# Arthrobotrys mangrovispora Swe, Jeewon, Pointing & K.D. Hyde, 2008 SPECIES
 
 #### Status
 ACCEPTED

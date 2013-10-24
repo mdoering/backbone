@@ -1,5 +1,4 @@
-Ciliosporella tuberculiformis Z.Q. Yuan & C. Mohammed, 1997 SPECIES
-=======
+# Ciliosporella tuberculiformis Z.Q. Yuan & C. Mohammed, 1997 SPECIES
 
 #### Status
 ACCEPTED

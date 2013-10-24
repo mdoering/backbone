@@ -1,5 +1,4 @@
-Sphaleromyces speluncalis Maire SPECIES
-=======
+# Sphaleromyces speluncalis Maire SPECIES
 
 #### Status
 ACCEPTED

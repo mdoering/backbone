@@ -1,5 +1,4 @@
-Trichopeziza karstenii Sacc. SPECIES
-=======
+# Trichopeziza karstenii Sacc. SPECIES
 
 #### Status
 ACCEPTED

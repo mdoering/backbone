@@ -1,5 +1,4 @@
-Asterella clavuligera Cooke SPECIES
-=======
+# Asterella clavuligera Cooke SPECIES
 
 #### Status
 ACCEPTED

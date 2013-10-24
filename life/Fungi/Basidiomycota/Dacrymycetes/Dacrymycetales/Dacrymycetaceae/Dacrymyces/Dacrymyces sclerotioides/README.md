@@ -1,5 +1,4 @@
-Dacrymyces sclerotioides Berk. SPECIES
-=======
+# Dacrymyces sclerotioides Berk. SPECIES
 
 #### Status
 ACCEPTED

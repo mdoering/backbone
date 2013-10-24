@@ -1,5 +1,4 @@
-Aecidium mei J. Schröt. SPECIES
-=======
+# Aecidium mei J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

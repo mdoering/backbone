@@ -1,5 +1,4 @@
-Leucocoprinus sulphurellus Pegler SPECIES
-=======
+# Leucocoprinus sulphurellus Pegler SPECIES
 
 #### Status
 ACCEPTED

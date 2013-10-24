@@ -1,5 +1,4 @@
-Agaricus armeniacus var. armeniacus VARIETY
-=======
+# Agaricus armeniacus Schaeff. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Fung. Bavar. Palat. 4: 35 (1774)
 
 #### Original name
-Agaricus armeniacus var. armeniacus
+Agaricus armeniacus Schaeff.
 
 ### Remarks
 null

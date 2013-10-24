@@ -1,5 +1,4 @@
-Bulliardella capensis Doidge SPECIES
-=======
+# Bulliardella capensis Doidge SPECIES
 
 #### Status
 ACCEPTED

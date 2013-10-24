@@ -1,5 +1,4 @@
-Sowerbyella radiculata var. radiculata VARIETY
-=======
+# Sowerbyella radiculata (Sowerby Fr.) Nannf. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Svensk bot. Tidskr. 32: 119 (1938)
+null
 
 #### Original name
-Sowerbyella radiculata var. radiculata
+null
 
 ### Remarks
 null

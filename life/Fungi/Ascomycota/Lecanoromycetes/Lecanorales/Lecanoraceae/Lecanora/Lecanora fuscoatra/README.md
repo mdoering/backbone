@@ -1,5 +1,4 @@
-Lecanora fuscoatra (Bayrh.) Nyl. SPECIES
-=======
+# Lecanora fuscoatra (Bayrh.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

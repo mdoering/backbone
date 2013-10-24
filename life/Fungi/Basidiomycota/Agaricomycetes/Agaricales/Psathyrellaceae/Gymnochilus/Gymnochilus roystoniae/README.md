@@ -1,5 +1,4 @@
-Gymnochilus roystoniae Earle SPECIES
-=======
+# Gymnochilus roystoniae Earle SPECIES
 
 #### Status
 ACCEPTED

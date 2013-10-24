@@ -1,5 +1,4 @@
-Tetrachrysis A.J.Dop, 1980 GENUS
-=======
+# Tetrachrysis A.J.Dop, 1980 GENUS
 
 #### Status
 ACCEPTED

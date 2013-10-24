@@ -1,5 +1,4 @@
-Mycena roseagrisea Métrod SPECIES
-=======
+# Mycena roseagrisea Métrod SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium tamaricis Oudem., 1901 SPECIES
-=======
+# Coniothyrium tamaricis Oudem., 1901 SPECIES
 
 #### Status
 ACCEPTED

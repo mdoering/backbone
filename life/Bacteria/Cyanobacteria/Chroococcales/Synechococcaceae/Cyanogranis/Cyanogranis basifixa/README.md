@@ -1,5 +1,4 @@
-Cyanogranis basifixa Hindák SPECIES
-=======
+# Cyanogranis basifixa Hindák SPECIES
 
 #### Status
 ACCEPTED

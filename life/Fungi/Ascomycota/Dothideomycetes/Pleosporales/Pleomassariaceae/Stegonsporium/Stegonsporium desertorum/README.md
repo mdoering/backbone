@@ -1,5 +1,4 @@
-Stegonsporium desertorum Melnik SPECIES
-=======
+# Stegonsporium desertorum Melnik SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stemphylium soredosporum (Preuss) Sacc. SPECIES
-=======
+# Stemphylium soredosporum (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

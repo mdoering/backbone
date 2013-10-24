@@ -1,5 +1,4 @@
-Lignydium petersii (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Lignydium petersii (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

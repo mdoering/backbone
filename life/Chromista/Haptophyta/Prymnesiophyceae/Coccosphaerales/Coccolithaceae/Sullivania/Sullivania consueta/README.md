@@ -1,5 +1,4 @@
-Sullivania consueta (Bramlette & F. R. Sullivan) O. Varol SPECIES
-=======
+# Sullivania consueta (Bramlette & F. R. Sullivan) O. Varol SPECIES
 
 #### Status
 ACCEPTED

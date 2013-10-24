@@ -1,5 +1,4 @@
-Camarops biporosa var. biporosa VARIETY
-=======
+# Camarops biporosa J.D. Rogers & Samuels SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycotaxon 28(2): 415 (1987)
 
 #### Original name
-Camarops biporosa var. biporosa
+Camarops biporosa J.D. Rogers & Samuels
 
 ### Remarks
 null

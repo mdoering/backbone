@@ -1,5 +1,4 @@
-Diplodia scabra Fuckel SPECIES
-=======
+# Diplodia scabra Fuckel SPECIES
 
 #### Status
 ACCEPTED

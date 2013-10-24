@@ -1,5 +1,4 @@
-Polyporus pumilus Y.C. Dai & Niemelä SPECIES
-=======
+# Polyporus pumilus Y.C. Dai & Niemelä SPECIES
 
 #### Status
 ACCEPTED

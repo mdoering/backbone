@@ -1,5 +1,4 @@
-Diaporthe scabra Nitschke SPECIES
-=======
+# Diaporthe scabra Nitschke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endothia pseudoradicalis Petri SPECIES
-=======
+# Endothia pseudoradicalis Petri SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Reophax lodderae Goddard & Jensen, 1907 SPECIES
-=======
+# Reophax lodderae Goddard & Jensen, 1907 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candelariella oleaginescens var. oleaginescens VARIETY
-=======
+# Candelariella oleaginescens Rondon SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Candelariella oleaginescens var. oleaginescens
+Candelariella oleaginescens Rondon
 
 ### Remarks
 null

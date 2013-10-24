@@ -1,5 +1,4 @@
-Hiatula flavipes (Pat. & Gaillard) Sacc. SPECIES
-=======
+# Hiatula flavipes (Pat. & Gaillard) Sacc. SPECIES
 
 #### Status
 ACCEPTED

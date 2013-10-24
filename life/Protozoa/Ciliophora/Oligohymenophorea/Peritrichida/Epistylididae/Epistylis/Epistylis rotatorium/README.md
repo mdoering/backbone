@@ -1,5 +1,4 @@
-Epistylis rotatorium Kahl, 1935 SPECIES
-=======
+# Epistylis rotatorium Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

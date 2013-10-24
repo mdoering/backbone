@@ -1,5 +1,4 @@
-Zevius Sugiyama, 1992 GENUS
-=======
+# Zevius Sugiyama, 1992 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyblastiopsis verruculosa (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Polyblastiopsis verruculosa (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

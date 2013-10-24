@@ -1,5 +1,4 @@
-Larcospirema Haeckel, 1887 GENUS
-=======
+# Larcospirema Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

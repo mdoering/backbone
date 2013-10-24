@@ -1,5 +1,4 @@
-Navicella thapsi (Schwein.) Kuntze SPECIES
-=======
+# Navicella thapsi (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysiphe quercicola S. Takam. & U. Braun SPECIES
-=======
+# Erysiphe quercicola S. Takam. & U. Braun SPECIES
 
 #### Status
 ACCEPTED

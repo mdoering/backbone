@@ -1,14 +1,13 @@
-Paraparmelia neomongaensis Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia neomongaensis (Elix & J. Johnst.) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 32(1): 404 (1988)
+Mycotaxon 87: 400 (2003)
 
 #### Original name
 Paraparmelia neomongaensis Elix & J. Johnst.

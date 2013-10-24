@@ -1,5 +1,4 @@
-Colletotrichum elaeagni Siemaszko SPECIES
-=======
+# Colletotrichum elaeagni Siemaszko SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pocosphaeria allii Griffiths SPECIES
-=======
+# Pocosphaeria allii Griffiths SPECIES
 
 #### Status
 ACCEPTED

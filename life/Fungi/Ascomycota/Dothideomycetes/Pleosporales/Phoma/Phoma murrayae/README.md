@@ -1,5 +1,4 @@
-Phoma murrayae Petch SPECIES
-=======
+# Phoma murrayae Petch SPECIES
 
 #### Status
 ACCEPTED

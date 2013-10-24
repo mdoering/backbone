@@ -1,17 +1,16 @@
-Hydnotryopsis setchelli Gilkey SPECIES
-=======
+# Hydnotryopsis setchellii Gilkey, 1916 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+University of Calif. Publ. Bot. 6(11): 338 (1916)
 
 #### Original name
-Hydnotryopsis setchelli Gilkey
+Hydnotryopsis setchellii Gilkey, 1916
 
 ### Remarks
 null

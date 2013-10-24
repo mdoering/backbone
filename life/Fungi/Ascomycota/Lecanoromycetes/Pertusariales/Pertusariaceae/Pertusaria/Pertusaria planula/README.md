@@ -1,5 +1,4 @@
-Pertusaria planula Zahlbr. SPECIES
-=======
+# Pertusaria planula Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

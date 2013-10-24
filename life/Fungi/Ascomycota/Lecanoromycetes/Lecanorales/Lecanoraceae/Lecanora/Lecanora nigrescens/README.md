@@ -1,5 +1,4 @@
-Lecanora nigrescens Stein SPECIES
-=======
+# Lecanora nigrescens Stein SPECIES
 
 #### Status
 ACCEPTED

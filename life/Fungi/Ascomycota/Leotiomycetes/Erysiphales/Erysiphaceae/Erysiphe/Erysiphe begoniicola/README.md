@@ -1,17 +1,16 @@
-Microsphaera berberidis var. dimonpha Y.N. Yu & Z.Y. Zhao VARIETY
-=======
+# Erysiphe begoniicola U. Braun & S. Takam., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Schlechtendalia 4: 5 (2000)
 
 #### Original name
-Microsphaera berberidis var. dimonpha Y.N. Yu & Z.Y. Zhao
+Microsphaera begoniae Sivan., 1971
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phyllachora thanatophora (Lév.) Sacc., 1883 SPECIES
-=======
+# Phyllachora thanatophora (Lév.) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

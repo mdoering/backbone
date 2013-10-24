@@ -1,5 +1,4 @@
-Lophodermium alliaceum Feltgen SPECIES
-=======
+# Lophodermium alliaceum Feltgen SPECIES
 
 #### Status
 ACCEPTED

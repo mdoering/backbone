@@ -1,5 +1,4 @@
-Nicollea GENUS
-=======
+# Nicollea GENUS
 
 #### Status
 ACCEPTED

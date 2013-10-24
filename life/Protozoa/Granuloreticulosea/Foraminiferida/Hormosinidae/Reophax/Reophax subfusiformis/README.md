@@ -1,5 +1,4 @@
-Reophax subfusiformis Earland, 1933 SPECIES
-=======
+# Reophax subfusiformis Earland, 1933 SPECIES
 
 #### Status
 ACCEPTED

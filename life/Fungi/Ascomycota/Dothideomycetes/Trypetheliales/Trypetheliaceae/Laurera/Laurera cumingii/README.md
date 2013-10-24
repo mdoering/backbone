@@ -1,14 +1,13 @@
-Bathelium cumingianum (Mont.) Trevis. SPECIES
-=======
+# Laurera cumingii (Mont.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 1: 503 (1922)
 
 #### Original name
 Trypethelium cumingii Mont.

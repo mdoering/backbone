@@ -1,5 +1,4 @@
-Lecidea indigens Vain. SPECIES
-=======
+# Lecidea indigens Vain. SPECIES
 
 #### Status
 ACCEPTED

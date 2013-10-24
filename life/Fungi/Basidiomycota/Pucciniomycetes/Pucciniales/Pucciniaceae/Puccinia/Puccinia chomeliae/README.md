@@ -1,5 +1,4 @@
-Puccinia chomeliae Thirum. SPECIES
-=======
+# Puccinia chomeliae Thirum. SPECIES
 
 #### Status
 ACCEPTED

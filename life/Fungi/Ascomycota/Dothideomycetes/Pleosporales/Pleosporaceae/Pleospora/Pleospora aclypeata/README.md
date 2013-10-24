@@ -1,5 +1,4 @@
-Pleospora aclypeata Jadhav, Somani & Wangikar SPECIES
-=======
+# Pleospora aclypeata Jadhav, Somani & Wangikar SPECIES
 
 #### Status
 ACCEPTED

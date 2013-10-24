@@ -1,5 +1,4 @@
-Cystangium flavovirens T. Lebel, 2003 SPECIES
-=======
+# Cystangium flavovirens T. Lebel, 2003 SPECIES
 
 #### Status
 ACCEPTED

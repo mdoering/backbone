@@ -1,5 +1,4 @@
-Minimidochium indicum Varghese & V.G. Rao SPECIES
-=======
+# Minimidochium indicum Varghese & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

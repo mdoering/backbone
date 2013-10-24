@@ -1,5 +1,4 @@
-Meliola forsteroniae (F. Stevens) Hansf. SPECIES
-=======
+# Meliola forsteroniae (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paramoebidium curvum Lichtw., 1979 SPECIES
-=======
+# Paramoebidium curvum Lichtw., 1979 SPECIES
 
 #### Status
 ACCEPTED

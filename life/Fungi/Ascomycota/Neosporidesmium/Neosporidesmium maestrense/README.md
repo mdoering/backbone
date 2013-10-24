@@ -1,5 +1,4 @@
-Neosporidesmium maestrense Mercado & J. Mena, 1988 SPECIES
-=======
+# Neosporidesmium maestrense Mercado & J. Mena, 1988 SPECIES
 
 #### Status
 ACCEPTED

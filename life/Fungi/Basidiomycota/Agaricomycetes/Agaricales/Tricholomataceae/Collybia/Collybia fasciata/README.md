@@ -1,5 +1,4 @@
-Collybia fasciata (Penn.) Halling SPECIES
-=======
+# Collybia fasciata (Penn.) Halling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha minuta Fée SPECIES
-=======
+# Opegrapha minuta Fée SPECIES
 
 #### Status
 ACCEPTED

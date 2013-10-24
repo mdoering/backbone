@@ -1,5 +1,4 @@
-Renispora maritima Linder SPECIES
-=======
+# Renispora maritima Linder SPECIES
 
 #### Status
 ACCEPTED

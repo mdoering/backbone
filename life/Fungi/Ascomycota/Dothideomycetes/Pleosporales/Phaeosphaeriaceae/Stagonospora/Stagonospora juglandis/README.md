@@ -1,5 +1,4 @@
-Stagonospora juglandis Brunaud SPECIES
-=======
+# Stagonospora juglandis Brunaud SPECIES
 
 #### Status
 ACCEPTED

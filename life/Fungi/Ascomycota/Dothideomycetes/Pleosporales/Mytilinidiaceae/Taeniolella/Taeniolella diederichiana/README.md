@@ -1,5 +1,4 @@
-Taeniolella diederichiana Etayo & Calat. SPECIES
-=======
+# Taeniolella diederichiana Etayo & Calat. SPECIES
 
 #### Status
 ACCEPTED

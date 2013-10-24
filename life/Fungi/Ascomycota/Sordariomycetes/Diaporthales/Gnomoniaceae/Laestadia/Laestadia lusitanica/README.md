@@ -1,5 +1,4 @@
-Laestadia lusitanica (Auersw.) Sacc. SPECIES
-=======
+# Laestadia lusitanica (Auersw.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

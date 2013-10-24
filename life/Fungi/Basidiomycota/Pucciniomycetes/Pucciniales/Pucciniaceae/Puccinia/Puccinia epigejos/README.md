@@ -1,5 +1,4 @@
-Puccinia epigejos S. Ito SPECIES
-=======
+# Puccinia epigejos S. Ito SPECIES
 
 #### Status
 ACCEPTED

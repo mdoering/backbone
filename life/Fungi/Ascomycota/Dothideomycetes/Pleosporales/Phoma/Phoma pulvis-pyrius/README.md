@@ -1,5 +1,4 @@
-Phoma pulvis-pyrius Sacc. SPECIES
-=======
+# Phoma pulvis-pyrius Sacc. SPECIES
 
 #### Status
 ACCEPTED

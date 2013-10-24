@@ -1,5 +1,4 @@
-Uredo serratulae Schumach. SPECIES
-=======
+# Uredo serratulae Schumach. SPECIES
 
 #### Status
 ACCEPTED

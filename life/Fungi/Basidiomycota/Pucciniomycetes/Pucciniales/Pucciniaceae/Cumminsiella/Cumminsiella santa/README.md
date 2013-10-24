@@ -1,5 +1,4 @@
-Cumminsiella santa J.W. McCain & J.F. Hennen, 1982 SPECIES
-=======
+# Cumminsiella santa J.W. McCain & J.F. Hennen, 1982 SPECIES
 
 #### Status
 ACCEPTED

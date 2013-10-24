@@ -1,5 +1,4 @@
-Leptosphaeria gnaphalii (Westend. & Fuckel) Sacc. SPECIES
-=======
+# Leptosphaeria gnaphalii (Westend. & Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

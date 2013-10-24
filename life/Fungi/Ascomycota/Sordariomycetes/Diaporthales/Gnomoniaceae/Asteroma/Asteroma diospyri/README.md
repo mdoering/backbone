@@ -1,5 +1,4 @@
-Asteroma diospyri (Schwein.) Sacc. SPECIES
-=======
+# Asteroma diospyri (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

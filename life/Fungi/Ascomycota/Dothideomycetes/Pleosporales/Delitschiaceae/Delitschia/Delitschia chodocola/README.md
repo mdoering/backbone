@@ -1,5 +1,4 @@
-Delitschia chodocola Luck-Allen & Cain SPECIES
-=======
+# Delitschia chodocola Luck-Allen & Cain SPECIES
 
 #### Status
 ACCEPTED

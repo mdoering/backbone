@@ -1,17 +1,16 @@
-Amauroderma cervinum Bres., 1916 SPECIES
-=======
+# Ganoderma cervinum (Bres.) Sacc., 1925 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 23: 406 (1925)
 
 #### Original name
-null
+Ganoderma cervinum (Bres.) Sacc., 1925
 
 ### Remarks
 null

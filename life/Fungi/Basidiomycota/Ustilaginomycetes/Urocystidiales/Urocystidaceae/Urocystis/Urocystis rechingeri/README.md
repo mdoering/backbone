@@ -1,5 +1,4 @@
-Urocystis rechingeri Petr. SPECIES
-=======
+# Urocystis rechingeri Petr. SPECIES
 
 #### Status
 ACCEPTED

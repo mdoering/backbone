@@ -1,5 +1,4 @@
-Marasmius subsynodicus Murrill SPECIES
-=======
+# Marasmius subsynodicus Murrill SPECIES
 
 #### Status
 ACCEPTED

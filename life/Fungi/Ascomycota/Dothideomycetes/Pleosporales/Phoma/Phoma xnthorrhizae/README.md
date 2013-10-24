@@ -1,5 +1,4 @@
-Phoma xnthorrhizae Henn. SPECIES
-=======
+# Phoma xnthorrhizae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platystomum subgregarium (C. Massal.) Sacc. & D. Sacc. SPECIES
-=======
+# Platystomum subgregarium (C. Massal.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

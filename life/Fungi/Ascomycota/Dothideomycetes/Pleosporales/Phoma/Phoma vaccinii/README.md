@@ -1,5 +1,4 @@
-Phoma vaccinii Dearn. & House SPECIES
-=======
+# Phoma vaccinii Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

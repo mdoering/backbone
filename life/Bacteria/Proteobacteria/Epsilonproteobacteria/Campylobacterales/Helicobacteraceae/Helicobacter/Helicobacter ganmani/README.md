@@ -1,5 +1,4 @@
-Helicobacter ganmani Robertson et al., 2001 SPECIES
-=======
+# Helicobacter ganmani Robertson et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

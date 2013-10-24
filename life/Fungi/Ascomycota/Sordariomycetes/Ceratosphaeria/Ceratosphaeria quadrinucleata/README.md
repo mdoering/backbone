@@ -1,5 +1,4 @@
-Ceratosphaeria quadrinucleata Kirschst. SPECIES
-=======
+# Ceratosphaeria quadrinucleata Kirschst. SPECIES
 
 #### Status
 ACCEPTED

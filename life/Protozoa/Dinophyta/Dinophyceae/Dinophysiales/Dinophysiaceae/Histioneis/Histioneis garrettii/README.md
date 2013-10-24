@@ -1,11 +1,10 @@
-Parahistioneis garrettii (Kofoid) Kofoid & Skogsberg, 1928 SPECIES
-=======
+# Histioneis garrettii Kofoid & Michener, 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
 null

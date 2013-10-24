@@ -1,5 +1,4 @@
-Micropeltis hirtellae-hexandrae Bat. & I.H. Lima SPECIES
-=======
+# Micropeltis hirtellae-hexandrae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

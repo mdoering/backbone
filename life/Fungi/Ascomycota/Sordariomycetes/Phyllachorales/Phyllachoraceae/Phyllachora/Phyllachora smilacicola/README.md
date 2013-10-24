@@ -1,5 +1,4 @@
-Phyllachora smilacicola Chardón, 1926 SPECIES
-=======
+# Phyllachora smilacicola Chardón, 1926 SPECIES
 
 #### Status
 ACCEPTED

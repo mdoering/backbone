@@ -1,5 +1,4 @@
-Siphonaria sparrowii Karling, 1945 SPECIES
-=======
+# Siphonaria sparrowii Karling, 1945 SPECIES
 
 #### Status
 ACCEPTED

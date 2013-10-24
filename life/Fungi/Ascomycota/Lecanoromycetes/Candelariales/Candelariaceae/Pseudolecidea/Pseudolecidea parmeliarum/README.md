@@ -1,5 +1,4 @@
-Pseudolecidea parmeliarum (Nyl.) Marchand SPECIES
-=======
+# Pseudolecidea parmeliarum (Nyl.) Marchand SPECIES
 
 #### Status
 ACCEPTED

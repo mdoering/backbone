@@ -1,14 +1,13 @@
-Botryosphaeria praestans (Lév.) Sacc., 1882 SPECIES
-=======
+# Bagnisiopsis praestans (Lév.) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 1: 461 (1882)
+Annls mycol. 13(3/4): 293 (1915)
 
 #### Original name
 Sphaeria praestans Lév., 1846

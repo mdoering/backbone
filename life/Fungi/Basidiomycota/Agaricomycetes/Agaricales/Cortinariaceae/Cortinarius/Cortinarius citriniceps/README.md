@@ -1,17 +1,16 @@
-Cortinaria citriniceps Murrill SPECIES
-=======
+# Cortinarius citriniceps Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 8: 281 (1946)
 
 #### Original name
-Cortinaria citriniceps Murrill
+Cortinarius citriniceps Murrill
 
 ### Remarks
 null

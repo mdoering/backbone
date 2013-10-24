@@ -1,5 +1,4 @@
-Psathyrella atricastanea (Murrill) A.H. Sm. SPECIES
-=======
+# Psathyrella atricastanea (Murrill) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

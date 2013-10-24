@@ -1,5 +1,4 @@
-Corynocladus Leidy, 1850 GENUS
-=======
+# Corynocladus Leidy, 1850 GENUS
 
 #### Status
 ACCEPTED

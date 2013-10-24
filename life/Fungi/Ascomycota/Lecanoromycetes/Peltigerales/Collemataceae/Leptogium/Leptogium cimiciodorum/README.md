@@ -1,5 +1,4 @@
-Leptogium cimiciodorum A. Massal. SPECIES
-=======
+# Leptogium cimiciodorum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

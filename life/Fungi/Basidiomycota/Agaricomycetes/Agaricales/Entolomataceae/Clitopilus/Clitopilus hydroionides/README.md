@@ -1,5 +1,4 @@
-Clitopilus hydroionides Ces. SPECIES
-=======
+# Clitopilus hydroionides Ces. SPECIES
 
 #### Status
 ACCEPTED

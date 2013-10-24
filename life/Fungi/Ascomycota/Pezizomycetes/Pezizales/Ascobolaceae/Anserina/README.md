@@ -1,5 +1,4 @@
-Anserina GENUS
-=======
+# Anserina GENUS
 
 #### Status
 ACCEPTED

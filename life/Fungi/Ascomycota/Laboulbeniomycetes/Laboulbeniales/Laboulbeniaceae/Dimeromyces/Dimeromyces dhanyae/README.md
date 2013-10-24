@@ -1,5 +1,4 @@
-Dimeromyces dhanyae Thaxt. SPECIES
-=======
+# Dimeromyces dhanyae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

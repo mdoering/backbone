@@ -1,5 +1,4 @@
-Xanthoparmelia culcitula Knox {?} SPECIES
-=======
+# Xanthoparmelia culcitula Knox {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiovalsa fici J.N. Kapoor & S.P. Lal SPECIES
-=======
+# Ophiovalsa fici J.N. Kapoor & S.P. Lal SPECIES
 
 #### Status
 ACCEPTED

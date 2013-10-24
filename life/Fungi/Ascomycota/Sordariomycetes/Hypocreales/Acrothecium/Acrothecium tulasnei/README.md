@@ -1,5 +1,4 @@
-Acrothecium tulasnei Sacc. SPECIES
-=======
+# Acrothecium tulasnei Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium cytharexyli Scalia SPECIES
-=======
+# Gloeosporium cytharexyli Scalia SPECIES
 
 #### Status
 ACCEPTED

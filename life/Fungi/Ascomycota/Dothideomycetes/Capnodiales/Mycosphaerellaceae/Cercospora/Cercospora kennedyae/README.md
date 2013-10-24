@@ -1,5 +1,4 @@
-Cercospora kennedyae Cooke & Massee SPECIES
-=======
+# Cercospora kennedyae Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

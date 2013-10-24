@@ -1,5 +1,4 @@
-Biatora copromya (A. Massal.) Jatta SPECIES
-=======
+# Biatora copromya (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED

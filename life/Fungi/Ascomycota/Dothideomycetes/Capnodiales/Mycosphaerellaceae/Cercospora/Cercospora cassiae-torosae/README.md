@@ -1,5 +1,4 @@
-Cercospora cassiae-torosae Sawada SPECIES
-=======
+# Cercospora cassiae-torosae Sawada SPECIES
 
 #### Status
 ACCEPTED

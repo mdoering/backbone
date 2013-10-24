@@ -1,5 +1,4 @@
-Phaeomarasmius mercedis Singer SPECIES
-=======
+# Phaeomarasmius mercedis Singer SPECIES
 
 #### Status
 ACCEPTED

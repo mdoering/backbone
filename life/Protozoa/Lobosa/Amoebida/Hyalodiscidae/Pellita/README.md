@@ -1,5 +1,4 @@
-Pellita Smirnov & Kudryavtsev, 2005 GENUS
-=======
+# Pellita Smirnov & Kudryavtsev, 2005 GENUS
 
 #### Status
 ACCEPTED

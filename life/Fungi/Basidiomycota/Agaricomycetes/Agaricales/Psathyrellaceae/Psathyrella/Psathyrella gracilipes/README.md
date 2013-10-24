@@ -1,5 +1,4 @@
-Psathyrella gracilipes Pat. SPECIES
-=======
+# Psathyrella gracilipes Pat. SPECIES
 
 #### Status
 ACCEPTED

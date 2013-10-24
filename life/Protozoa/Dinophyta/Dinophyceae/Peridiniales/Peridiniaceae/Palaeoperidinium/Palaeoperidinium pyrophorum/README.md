@@ -1,5 +1,4 @@
-Palaeoperidinium pyrophorum (Ehrenberg, 1838) Sarjeant, 1967 SPECIES
-=======
+# Palaeoperidinium pyrophorum (Ehrenberg, 1838) Sarjeant, 1967 SPECIES
 
 #### Status
 ACCEPTED

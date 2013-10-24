@@ -1,5 +1,4 @@
-Cephalosporium crassum Petch SPECIES
-=======
+# Cephalosporium crassum Petch SPECIES
 
 #### Status
 ACCEPTED

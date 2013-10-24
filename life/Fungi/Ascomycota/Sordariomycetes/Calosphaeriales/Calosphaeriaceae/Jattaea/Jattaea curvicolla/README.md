@@ -1,5 +1,4 @@
-Jattaea curvicolla (Peck) M.E. Barr SPECIES
-=======
+# Jattaea curvicolla (Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiniferites ovatus J. P. Bujak SPECIES
-=======
+# Spiniferites ovatus J. P. Bujak SPECIES
 
 #### Status
 ACCEPTED

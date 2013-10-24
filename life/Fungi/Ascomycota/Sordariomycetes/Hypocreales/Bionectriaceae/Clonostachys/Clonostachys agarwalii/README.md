@@ -1,14 +1,13 @@
-Clonostachys agrawalii (Kushwaha) Schroers SPECIES
-=======
+# Clonostachys agarwalii (Kushwaha) Schroers SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Stud. Mycol. 46: 90 (2001)
 
 #### Original name
 Gliocladium agarwalii Kushwaha

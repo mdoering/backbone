@@ -1,5 +1,4 @@
-Elachista claytoniae Skinner SPECIES
-=======
+# Elachista claytoniae Skinner SPECIES
 
 #### Status
 ACCEPTED

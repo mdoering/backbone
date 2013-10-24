@@ -1,14 +1,13 @@
-Leptotrema deceptum Hale SPECIES
-=======
+# Myriotrema deceptum (Hale) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Smithson. Contr. bot. 16: 39 (1974)
+Mycotaxon 11(1): 133 (1980)
 
 #### Original name
 Leptotrema deceptum Hale

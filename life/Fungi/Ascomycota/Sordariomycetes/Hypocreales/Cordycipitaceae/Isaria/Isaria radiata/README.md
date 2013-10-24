@@ -1,5 +1,4 @@
-Isaria radiata Berk. & M.A. Curtis SPECIES
-=======
+# Isaria radiata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

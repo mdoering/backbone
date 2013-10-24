@@ -1,5 +1,4 @@
-Candelariales Miadl., Lutzoni & Lumbsch ORDER
-=======
+# Candelariales Miadl., Lutzoni & Lumbsch ORDER
 
 #### Status
 ACCEPTED

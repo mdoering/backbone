@@ -1,5 +1,4 @@
-Pestalotiopsis scirpina (Ellis & G. Martin) J. Xiang Zhang & T. Xu SPECIES
-=======
+# Pestalotiopsis scirpina (Ellis & G. Martin) J. Xiang Zhang & T. Xu SPECIES
 
 #### Status
 ACCEPTED

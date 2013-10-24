@@ -1,5 +1,4 @@
-Polystictus oniscus Fr. SPECIES
-=======
+# Polystictus oniscus Fr. SPECIES
 
 #### Status
 ACCEPTED

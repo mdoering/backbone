@@ -1,5 +1,4 @@
-Fusicoccum eumorphum Sacc. SPECIES
-=======
+# Fusicoccum eumorphum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia californiensis Murrill SPECIES
-=======
+# Omphalia californiensis Murrill SPECIES
 
 #### Status
 ACCEPTED

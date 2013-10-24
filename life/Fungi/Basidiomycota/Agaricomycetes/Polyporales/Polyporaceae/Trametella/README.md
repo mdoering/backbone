@@ -1,5 +1,4 @@
-Trametella GENUS
-=======
+# Trametella GENUS
 
 #### Status
 ACCEPTED

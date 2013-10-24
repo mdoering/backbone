@@ -1,5 +1,4 @@
-Wuestneia paucispora (Peck) J. Reid & C. Booth SPECIES
-=======
+# Wuestneia paucispora (Peck) J. Reid & C. Booth SPECIES
 
 #### Status
 ACCEPTED

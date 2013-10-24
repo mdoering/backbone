@@ -1,5 +1,4 @@
-Parmelia pseudosulcata Gyeln. SPECIES
-=======
+# Parmelia pseudosulcata Gyeln. SPECIES
 
 #### Status
 ACCEPTED

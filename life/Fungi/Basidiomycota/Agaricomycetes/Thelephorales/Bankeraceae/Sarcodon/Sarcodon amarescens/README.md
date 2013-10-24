@@ -1,5 +1,4 @@
-Sarcodon amarescens (Quél.) Quél. SPECIES
-=======
+# Sarcodon amarescens (Quél.) Quél. SPECIES
 
 #### Status
 ACCEPTED

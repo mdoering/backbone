@@ -1,8 +1,7 @@
-Balansiopsis pilulaeformis (Berk. & M.A. Curtis) Diehl SPECIES
-=======
+# Balansiopsis piluliformis (Berk. & M.A. Curtis) Diehl SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,14 +1,13 @@
-Polyporus leptodermus Berk. & Broome, 1875 SPECIES
-=======
+# Ceriporia leptoderma (Berk. & Broome) Ryvarden, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 14(2): 54 (1875)
+in Ryvarden & Johansen, Prelim. Polyp. Fl. E. Afr. (Oslo) 270 (1980)
 
 #### Original name
 Polyporus leptodermus Berk. & Broome, 1875

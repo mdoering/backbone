@@ -1,5 +1,4 @@
-Stagonospora pulsatillae Vestergr. SPECIES
-=======
+# Stagonospora pulsatillae Vestergr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placosphaeria fructicola C. Massal. SPECIES
-=======
+# Placosphaeria fructicola C. Massal. SPECIES
 
 #### Status
 ACCEPTED

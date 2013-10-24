@@ -1,5 +1,4 @@
-Rosellinia arausiaca Fabre SPECIES
-=======
+# Rosellinia arausiaca Fabre SPECIES
 
 #### Status
 ACCEPTED

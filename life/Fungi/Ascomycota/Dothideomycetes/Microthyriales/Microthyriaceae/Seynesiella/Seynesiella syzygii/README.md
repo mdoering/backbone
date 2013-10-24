@@ -1,5 +1,4 @@
-Seynesiella syzygii Sivan. & R.G. Shivas SPECIES
-=======
+# Seynesiella syzygii Sivan. & R.G. Shivas SPECIES
 
 #### Status
 ACCEPTED

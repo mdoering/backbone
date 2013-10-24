@@ -1,5 +1,4 @@
-Verrucidium Habib & Knapp, 1982 GENUS
-=======
+# Verrucidium Habib & Knapp, 1982 GENUS
 
 #### Status
 ACCEPTED

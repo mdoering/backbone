@@ -1,5 +1,4 @@
-Monoporisporites basidii (Elsik) Kalgutkar & Janson. SPECIES
-=======
+# Monoporisporites basidii (Elsik) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

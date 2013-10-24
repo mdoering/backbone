@@ -1,5 +1,4 @@
-Leptosphaeria suffulta (Nees) Niessl, 1885 SPECIES
-=======
+# Leptosphaeria suffulta (Nees) Niessl, 1885 SPECIES
 
 #### Status
 ACCEPTED

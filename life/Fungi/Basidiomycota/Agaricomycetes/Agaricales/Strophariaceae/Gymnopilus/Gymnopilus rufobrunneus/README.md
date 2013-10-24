@@ -1,5 +1,4 @@
-Gymnopilus rufobrunneus Hesler SPECIES
-=======
+# Gymnopilus rufobrunneus Hesler SPECIES
 
 #### Status
 ACCEPTED

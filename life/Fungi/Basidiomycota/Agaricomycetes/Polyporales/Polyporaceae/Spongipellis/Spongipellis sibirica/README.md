@@ -1,5 +1,4 @@
-Spongipellis sibirica (Penzina & Ryvarden) Penzina & Kotir. SPECIES
-=======
+# Spongipellis sibirica (Penzina & Ryvarden) Penzina & Kotir. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zignoëlla piceae Henn. SPECIES
-=======
+# Zignoëlla piceae Henn. SPECIES
 
 #### Status
 ACCEPTED

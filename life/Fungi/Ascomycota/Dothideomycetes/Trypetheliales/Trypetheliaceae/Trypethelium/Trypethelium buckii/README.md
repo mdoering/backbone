@@ -1,5 +1,4 @@
-Trypethelium buckii R.C. Harris SPECIES
-=======
+# Trypethelium buckii R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

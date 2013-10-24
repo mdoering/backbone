@@ -1,5 +1,4 @@
-Harpochytrium vermiforme Steinecke SPECIES
-=======
+# Harpochytrium vermiforme Steinecke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta owensii R. Sprague SPECIES
-=======
+# Phyllosticta owensii R. Sprague SPECIES
 
 #### Status
 ACCEPTED

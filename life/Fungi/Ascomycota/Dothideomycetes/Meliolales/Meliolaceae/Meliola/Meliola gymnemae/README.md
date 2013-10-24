@@ -1,5 +1,4 @@
-Meliola gymnemae Jana, S.N. Ghosh & A.K. Das SPECIES
-=======
+# Meliola gymnemae Jana, S.N. Ghosh & A.K. Das SPECIES
 
 #### Status
 ACCEPTED

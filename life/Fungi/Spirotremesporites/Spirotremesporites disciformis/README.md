@@ -1,5 +1,4 @@
-Spirotremesporites disciformis (Sheffy & Dilcher) Elsik SPECIES
-=======
+# Spirotremesporites disciformis (Sheffy & Dilcher) Elsik SPECIES
 
 #### Status
 ACCEPTED

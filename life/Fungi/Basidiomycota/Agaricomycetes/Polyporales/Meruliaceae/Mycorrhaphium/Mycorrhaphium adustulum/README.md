@@ -1,5 +1,4 @@
-Mycorrhaphium adustulum (Banker) Ryvarden SPECIES
-=======
+# Mycorrhaphium adustulum (Banker) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

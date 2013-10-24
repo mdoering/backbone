@@ -1,5 +1,4 @@
-Miogypsinidae FAMILY
-=======
+# Miogypsinidae FAMILY
 
 #### Status
 ACCEPTED

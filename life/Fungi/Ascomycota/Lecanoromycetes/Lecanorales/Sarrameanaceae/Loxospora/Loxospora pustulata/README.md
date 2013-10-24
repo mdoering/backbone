@@ -1,14 +1,13 @@
-Haematomma pustulatum Brodo & W.L. Culb. SPECIES
-=======
+# Loxospora pustulata (Brodo & W.L. Culb.) Egan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bryologist 89(3): 203 (1987)
+Bryologist 93(2): 217 (1990)
 
 #### Original name
 Haematomma pustulatum Brodo & W.L. Culb.

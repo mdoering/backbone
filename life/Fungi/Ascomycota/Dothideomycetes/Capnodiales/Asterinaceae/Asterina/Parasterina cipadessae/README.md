@@ -1,5 +1,4 @@
-Parasterina cipadessae (H.S. Yates) J.M. Mend. SPECIES
-=======
+# Parasterina cipadessae (H.S. Yates) J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

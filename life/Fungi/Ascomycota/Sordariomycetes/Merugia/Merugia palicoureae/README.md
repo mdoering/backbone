@@ -1,5 +1,4 @@
-Merugia palicoureae Rogerson & Samuels, 1990 SPECIES
-=======
+# Merugia palicoureae Rogerson & Samuels, 1990 SPECIES
 
 #### Status
 ACCEPTED

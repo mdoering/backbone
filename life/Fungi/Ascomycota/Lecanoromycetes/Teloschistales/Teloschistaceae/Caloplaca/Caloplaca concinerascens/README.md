@@ -1,5 +1,4 @@
-Caloplaca concinerascens (Nyl.) H. Olivier SPECIES
-=======
+# Caloplaca concinerascens (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

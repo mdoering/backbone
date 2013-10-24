@@ -1,5 +1,4 @@
-Paranectria parasitica G. Winter SPECIES
-=======
+# Paranectria parasitica G. Winter SPECIES
 
 #### Status
 ACCEPTED

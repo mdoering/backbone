@@ -1,5 +1,4 @@
-Mortierella delamerensis W. Gams SPECIES
-=======
+# Mortierella delamerensis W. Gams SPECIES
 
 #### Status
 ACCEPTED

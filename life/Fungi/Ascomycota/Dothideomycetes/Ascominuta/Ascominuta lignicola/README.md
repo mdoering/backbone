@@ -1,5 +1,4 @@
-Ascominuta lignicola Ranghoo & K.D. Hyde, 2000 SPECIES
-=======
+# Ascominuta lignicola Ranghoo & K.D. Hyde, 2000 SPECIES
 
 #### Status
 ACCEPTED

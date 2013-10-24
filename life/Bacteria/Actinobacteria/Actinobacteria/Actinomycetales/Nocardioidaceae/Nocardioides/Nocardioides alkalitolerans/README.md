@@ -1,5 +1,4 @@
-Nocardioides alkalitolerans Yoon et al., 2005 SPECIES
-=======
+# Nocardioides alkalitolerans Yoon et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

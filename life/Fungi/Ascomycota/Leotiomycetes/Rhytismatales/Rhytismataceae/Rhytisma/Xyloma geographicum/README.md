@@ -1,5 +1,4 @@
-Xyloma geographicum Fr. SPECIES
-=======
+# Xyloma geographicum Fr. SPECIES
 
 #### Status
 ACCEPTED

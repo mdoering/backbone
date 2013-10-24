@@ -1,5 +1,4 @@
-Telamonia ochreata Velen. SPECIES
-=======
+# Telamonia ochreata Velen. SPECIES
 
 #### Status
 ACCEPTED

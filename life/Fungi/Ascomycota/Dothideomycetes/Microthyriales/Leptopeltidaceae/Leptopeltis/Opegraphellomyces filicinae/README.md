@@ -1,5 +1,4 @@
-Opegraphellomyces filicinae Cif. & Tomas. SPECIES
-=======
+# Opegraphellomyces filicinae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

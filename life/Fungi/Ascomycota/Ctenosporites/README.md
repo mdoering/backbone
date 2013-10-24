@@ -1,5 +1,4 @@
-Ctenosporites Elsik & Janson. GENUS
-=======
+# Ctenosporites Elsik & Janson. GENUS
 
 #### Status
 ACCEPTED

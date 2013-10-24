@@ -1,5 +1,4 @@
-Entoloma heracleodora Largent SPECIES
-=======
+# Entoloma heracleodora Largent SPECIES
 
 #### Status
 ACCEPTED

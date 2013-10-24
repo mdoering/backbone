@@ -1,5 +1,4 @@
-Polyporus subtilis (Schrad.) Fr. SPECIES
-=======
+# Polyporus subtilis (Schrad.) Fr. SPECIES
 
 #### Status
 ACCEPTED

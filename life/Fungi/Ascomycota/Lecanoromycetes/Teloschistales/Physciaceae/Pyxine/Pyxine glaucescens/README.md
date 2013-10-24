@@ -1,5 +1,4 @@
-Pyxine glaucescens f. glaucescens FORM
-=======
+# Pyxine glaucescens Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pyxine glaucescens f. glaucescens
+Pyxine glaucescens Vain.
 
 ### Remarks
 null

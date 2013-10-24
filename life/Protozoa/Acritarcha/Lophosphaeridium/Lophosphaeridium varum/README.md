@@ -1,5 +1,4 @@
-Lophosphaeridium varum Wicander, Playford & Robertson, 1999 SPECIES
-=======
+# Lophosphaeridium varum Wicander, Playford & Robertson, 1999 SPECIES
 
 #### Status
 ACCEPTED

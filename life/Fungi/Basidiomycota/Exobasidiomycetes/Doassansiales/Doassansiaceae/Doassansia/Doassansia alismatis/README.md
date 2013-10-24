@@ -1,17 +1,16 @@
-Protomyces macularis (Wallr.) Sacc., 1895 SPECIES
-=======
+# Doassansia alismatis (Nees) Cornu, 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 6 15: 285 (1883)
 
 #### Original name
-Physoderma maculare Wallr., 1833
+Sclerotium alismatis Nees ex Fr., 1822
 
 ### Remarks
 null

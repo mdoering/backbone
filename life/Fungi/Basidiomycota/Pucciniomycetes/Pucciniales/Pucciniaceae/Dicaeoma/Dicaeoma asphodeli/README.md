@@ -1,5 +1,4 @@
-Dicaeoma asphodeli (Duby) Kuntze SPECIES
-=======
+# Dicaeoma asphodeli (Duby) Kuntze SPECIES
 
 #### Status
 ACCEPTED

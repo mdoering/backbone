@@ -1,17 +1,16 @@
-Symperidium Klotzsch GENUS
-=======
+# Aecidium Persoon, 1796 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Nova Acta Acad. Caes. Leop. -Carol. Nat. Cur. Dresden 19(Suppl. 1): 245 (1843)
+null
 
 #### Original name
-Symperidium Klotzsch
+null
 
 ### Remarks
 null

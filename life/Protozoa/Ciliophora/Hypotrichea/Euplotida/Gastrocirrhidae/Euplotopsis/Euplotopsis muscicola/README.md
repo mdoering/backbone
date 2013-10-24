@@ -1,5 +1,4 @@
-Euplotopsis muscicola subsp. muscicola (Kahl, 1932) Borror & Hill, 1995 SUBSPECIES
-=======
+# Euplotopsis muscicola (Kahl, 1932) Borror & Hill, 1995 SPECIES
 
 #### Status
 ACCEPTED

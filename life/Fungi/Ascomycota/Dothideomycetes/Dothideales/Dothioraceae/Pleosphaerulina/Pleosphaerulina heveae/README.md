@@ -1,5 +1,4 @@
-Pleosphaerulina heveae Saccas SPECIES
-=======
+# Pleosphaerulina heveae Saccas SPECIES
 
 #### Status
 ACCEPTED

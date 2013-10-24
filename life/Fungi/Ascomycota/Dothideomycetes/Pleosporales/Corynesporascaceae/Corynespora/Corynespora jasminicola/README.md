@@ -1,17 +1,16 @@
-Corynespora jasminiicola Meenu, Kharwar & Bhartiya SPECIES
-=======
+# Corynespora jasminicola Meenu, Kharwar & Bhartiya SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 51(2): 148 (1998)
 
 #### Original name
-Corynespora jasminiicola Meenu, Kharwar & Bhartiya
+Corynespora jasminicola Meenu, Kharwar & Bhartiya
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cyclopyxis Deflandre, 1929 GENUS
-=======
+# Cyclopyxis Deflandre, 1929 GENUS
 
 #### Status
 ACCEPTED

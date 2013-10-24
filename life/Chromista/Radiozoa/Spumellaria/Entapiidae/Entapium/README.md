@@ -1,5 +1,4 @@
-Entapium Sanfilippo & Riedel, 1973 GENUS
-=======
+# Entapium Sanfilippo & Riedel, 1973 GENUS
 
 #### Status
 ACCEPTED

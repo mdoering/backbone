@@ -1,5 +1,4 @@
-Paratympanum Haeckel, 1887 GENUS
-=======
+# Paratympanum Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

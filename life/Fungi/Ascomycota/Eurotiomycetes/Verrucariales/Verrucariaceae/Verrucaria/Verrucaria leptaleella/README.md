@@ -1,5 +1,4 @@
-Verrucaria leptaleella Nyl. SPECIES
-=======
+# Verrucaria leptaleella Nyl. SPECIES
 
 #### Status
 ACCEPTED

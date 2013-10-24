@@ -1,5 +1,4 @@
-Merulius hypnorum (Brond.) Kuntze SPECIES
-=======
+# Merulius hypnorum (Brond.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

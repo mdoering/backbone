@@ -1,14 +1,13 @@
-Ocellularia polillensis (Vain.) Hale SPECIES
-=======
+# Stegobolus polillensis (Vain.) Frisch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Br. Mus. nat. Hist. , Bot. 8(3): 320 (1981)
+in Frisch & Kalb, Biblthca Lichenol. 92: 476 (2006)
 
 #### Original name
 Thelotrema polillense Vain.

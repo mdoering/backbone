@@ -1,5 +1,4 @@
-Pterula secundiramea (Lév.) Speg. SPECIES
-=======
+# Pterula secundiramea (Lév.) Speg. SPECIES
 
 #### Status
 ACCEPTED

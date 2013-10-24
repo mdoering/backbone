@@ -1,8 +1,7 @@
-Eucladoniomyces digitata Cif. & Tomas. SPECIES
-=======
+# Eucladoniomyces digitatae Cif. & Tomas. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Eucladoniomyces digitata Cif. & Tomas.
+Eucladoniomyces digitatae Cif. & Tomas.
 
 ### Remarks
 null

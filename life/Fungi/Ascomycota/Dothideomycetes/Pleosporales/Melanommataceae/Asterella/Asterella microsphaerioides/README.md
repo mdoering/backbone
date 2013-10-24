@@ -1,5 +1,4 @@
-Asterella microsphaerioides Rehm SPECIES
-=======
+# Asterella microsphaerioides Rehm SPECIES
 
 #### Status
 ACCEPTED

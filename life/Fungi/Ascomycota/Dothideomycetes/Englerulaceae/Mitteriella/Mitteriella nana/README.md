@@ -1,5 +1,4 @@
-Mitteriella nana N. Srivast., A.K. Srivast. & Kamal SPECIES
-=======
+# Mitteriella nana N. Srivast., A.K. Srivast. & Kamal SPECIES
 
 #### Status
 ACCEPTED

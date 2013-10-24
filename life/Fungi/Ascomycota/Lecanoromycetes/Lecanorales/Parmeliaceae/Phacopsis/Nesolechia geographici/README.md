@@ -1,5 +1,4 @@
-Nesolechia geographici J. Steiner SPECIES
-=======
+# Nesolechia geographici J. Steiner SPECIES
 
 #### Status
 ACCEPTED

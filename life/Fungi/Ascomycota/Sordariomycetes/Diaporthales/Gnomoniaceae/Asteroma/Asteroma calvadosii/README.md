@@ -1,5 +1,4 @@
-Asteroma calvadosii Desm. SPECIES
-=======
+# Asteroma calvadosii Desm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia sylvestris Oeder SPECIES
-=======
+# Cladonia sylvestris Oeder SPECIES
 
 #### Status
 ACCEPTED

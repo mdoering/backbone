@@ -1,5 +1,4 @@
-Heimioporus E. Horak GENUS
-=======
+# Heimioporus E. Horak GENUS
 
 #### Status
 ACCEPTED

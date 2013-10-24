@@ -1,5 +1,4 @@
-Mycena mira Maas Geest. & de Meijer SPECIES
-=======
+# Mycena mira Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

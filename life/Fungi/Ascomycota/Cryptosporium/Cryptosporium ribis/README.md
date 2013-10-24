@@ -1,5 +1,4 @@
-Cryptosporium ribis Fuckel SPECIES
-=======
+# Cryptosporium ribis Fuckel SPECIES
 
 #### Status
 ACCEPTED

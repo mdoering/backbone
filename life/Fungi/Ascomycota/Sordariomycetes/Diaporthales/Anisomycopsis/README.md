@@ -1,5 +1,4 @@
-Anisomycopsis I. Hino & Katum. GENUS
-=======
+# Anisomycopsis I. Hino & Katum. GENUS
 
 #### Status
 ACCEPTED

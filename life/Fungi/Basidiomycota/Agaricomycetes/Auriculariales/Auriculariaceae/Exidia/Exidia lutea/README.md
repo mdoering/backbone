@@ -1,5 +1,4 @@
-Exidia lutea Lowy SPECIES
-=======
+# Exidia lutea Lowy SPECIES
 
 #### Status
 ACCEPTED

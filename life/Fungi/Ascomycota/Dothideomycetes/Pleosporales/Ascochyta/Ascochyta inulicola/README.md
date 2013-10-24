@@ -1,5 +1,4 @@
-Ascochyta inulicola Petr. SPECIES
-=======
+# Ascochyta inulicola Petr. SPECIES
 
 #### Status
 ACCEPTED

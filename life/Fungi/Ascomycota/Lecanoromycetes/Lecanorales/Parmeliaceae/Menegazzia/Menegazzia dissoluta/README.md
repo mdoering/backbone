@@ -1,5 +1,4 @@
-Menegazzia dissoluta P. James, Aptroot, Sérus. & Diederich SPECIES
-=======
+# Menegazzia dissoluta P. James, Aptroot, Sérus. & Diederich SPECIES
 
 #### Status
 ACCEPTED

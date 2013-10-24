@@ -1,5 +1,4 @@
-Erineum rubeum Pers. SPECIES
-=======
+# Erineum rubeum Pers. SPECIES
 
 #### Status
 ACCEPTED

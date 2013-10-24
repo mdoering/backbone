@@ -1,5 +1,4 @@
-Chloridium minus Corda SPECIES
-=======
+# Chloridium minus Corda SPECIES
 
 #### Status
 ACCEPTED

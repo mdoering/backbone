@@ -1,5 +1,4 @@
-Sphaeropezia arundinacea (Pers.) SPECIES
-=======
+# Sphaeropezia arundinacea (Pers.) SPECIES
 
 #### Status
 ACCEPTED

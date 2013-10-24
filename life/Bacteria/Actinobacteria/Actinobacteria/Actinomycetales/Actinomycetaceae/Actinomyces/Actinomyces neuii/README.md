@@ -1,5 +1,4 @@
-Actinomyces neuii subsp. neuii SUBSPECIES
-=======
+# Actinomyces neuii Funke et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

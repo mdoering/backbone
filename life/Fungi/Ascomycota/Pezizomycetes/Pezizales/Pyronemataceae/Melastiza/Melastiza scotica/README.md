@@ -1,14 +1,13 @@
-Aleuria scotica (Graddon) J. Moravec, 1994 SPECIES
-=======
+# Melastiza scotica Graddon, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Czech Mycol. 47(4): 255 (1994)
+Trans. Br. mycol. Soc. 44: 609 (1961)
 
 #### Original name
 Melastiza scotica Graddon, 1961

@@ -1,5 +1,4 @@
-Squamaria albescens (Hoffm.) Anzi SPECIES
-=======
+# Squamaria albescens (Hoffm.) Anzi SPECIES
 
 #### Status
 ACCEPTED

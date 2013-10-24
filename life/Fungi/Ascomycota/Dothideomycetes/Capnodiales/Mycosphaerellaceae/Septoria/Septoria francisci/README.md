@@ -1,5 +1,4 @@
-Septoria francisci Sacc. SPECIES
-=======
+# Septoria francisci Sacc. SPECIES
 
 #### Status
 ACCEPTED

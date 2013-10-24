@@ -1,5 +1,4 @@
-Diplodia astrodauci L.A. Kantsch. SPECIES
-=======
+# Diplodia astrodauci L.A. Kantsch. SPECIES
 
 #### Status
 ACCEPTED

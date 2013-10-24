@@ -1,5 +1,4 @@
-Russula phlyctidospora (Romagn.) Bon SPECIES
-=======
+# Russula phlyctidospora (Romagn.) Bon SPECIES
 
 #### Status
 ACCEPTED

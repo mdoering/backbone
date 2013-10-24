@@ -1,5 +1,4 @@
-Strigula undulata Müll. Arg. SPECIES
-=======
+# Strigula undulata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pannaria stylophora subsp. stylophora SUBSPECIES
-=======
+# Parmeliella stylophora (Vain.) P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bryologist 103(4): 698 (2000)
 
 #### Original name
-null
+Pannaria stylophora Vain.
 
 ### Remarks
 null

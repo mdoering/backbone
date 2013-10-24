@@ -1,5 +1,4 @@
-Desulfuromonas chloroethenica Krumholz, 1997 SPECIES
-=======
+# Desulfuromonas chloroethenica Krumholz, 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereocaulon tenerrimum Asahina SPECIES
-=======
+# Stereocaulon tenerrimum Asahina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uraecium cydistae Cummins, 1940 SPECIES
-=======
+# Uraecium cydistae Cummins, 1940 SPECIES
 
 #### Status
 ACCEPTED

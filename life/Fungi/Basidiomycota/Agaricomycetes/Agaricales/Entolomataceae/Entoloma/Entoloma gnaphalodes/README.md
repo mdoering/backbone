@@ -1,5 +1,4 @@
-Entoloma gnaphalodes (Berk. & Broome) E. Horak SPECIES
-=======
+# Entoloma gnaphalodes (Berk. & Broome) E. Horak SPECIES
 
 #### Status
 ACCEPTED

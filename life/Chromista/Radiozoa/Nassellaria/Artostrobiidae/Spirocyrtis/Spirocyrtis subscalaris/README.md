@@ -1,5 +1,4 @@
-Spirocyrtis subscalaris Nigrini, 1977 SPECIES
-=======
+# Spirocyrtis subscalaris Nigrini, 1977 SPECIES
 
 #### Status
 ACCEPTED

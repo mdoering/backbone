@@ -1,5 +1,4 @@
-Graphina cinerea Fink SPECIES
-=======
+# Graphina cinerea Fink SPECIES
 
 #### Status
 ACCEPTED

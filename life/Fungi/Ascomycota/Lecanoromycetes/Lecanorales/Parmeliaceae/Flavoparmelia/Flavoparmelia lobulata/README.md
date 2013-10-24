@@ -1,5 +1,4 @@
-Flavoparmelia lobulata Elix & Adler SPECIES
-=======
+# Flavoparmelia lobulata Elix & Adler SPECIES
 
 #### Status
 ACCEPTED

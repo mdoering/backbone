@@ -1,5 +1,4 @@
-Polyporus micans (Ehrenb.) Fr. SPECIES
-=======
+# Polyporus micans (Ehrenb.) Fr. SPECIES
 
 #### Status
 ACCEPTED

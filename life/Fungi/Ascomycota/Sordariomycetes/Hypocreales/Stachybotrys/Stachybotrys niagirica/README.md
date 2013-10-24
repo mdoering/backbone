@@ -1,5 +1,4 @@
-Stachybotrys niagirica Subramanian. SPECIES
-=======
+# Stachybotrys niagirica Subramanian. SPECIES
 
 #### Status
 ACCEPTED

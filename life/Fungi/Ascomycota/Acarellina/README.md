@@ -1,5 +1,4 @@
-Acarellina Bat. & H. Maia GENUS
-=======
+# Acarellina Bat. & H. Maia GENUS
 
 #### Status
 ACCEPTED

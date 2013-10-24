@@ -1,5 +1,4 @@
-Flammula weberi (Murrill) Murrill SPECIES
-=======
+# Flammula weberi (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

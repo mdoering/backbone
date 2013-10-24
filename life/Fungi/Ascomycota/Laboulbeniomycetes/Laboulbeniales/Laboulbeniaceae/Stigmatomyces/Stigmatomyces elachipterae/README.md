@@ -1,5 +1,4 @@
-Stigmatomyces elachipterae Thaxt. SPECIES
-=======
+# Stigmatomyces elachipterae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita roseola Steinhaus SPECIES
-=======
+# Amanita roseola Steinhaus SPECIES
 
 #### Status
 ACCEPTED

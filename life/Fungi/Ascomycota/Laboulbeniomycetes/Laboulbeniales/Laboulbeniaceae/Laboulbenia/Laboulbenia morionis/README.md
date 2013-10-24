@@ -1,5 +1,4 @@
-Laboulbenia morionis Thaxt. SPECIES
-=======
+# Laboulbenia morionis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

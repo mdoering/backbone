@@ -1,14 +1,13 @@
-Boletopsis subcitrina Corner, 1989 SPECIES
-=======
+# Corneroporus subcitrinus (Corner) T. Hatt., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Nova Hedwigia 96: 17 (1989)
+Mycoscience 45(5): 426 (2001)
 
 #### Original name
 Boletopsis subcitrina Corner, 1989

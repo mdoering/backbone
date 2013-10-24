@@ -1,5 +1,4 @@
-Penicillium firmum Preuss SPECIES
-=======
+# Penicillium firmum Preuss SPECIES
 
 #### Status
 ACCEPTED

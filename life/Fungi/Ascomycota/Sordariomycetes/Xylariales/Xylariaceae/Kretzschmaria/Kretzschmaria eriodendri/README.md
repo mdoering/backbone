@@ -1,14 +1,13 @@
-Hypoxylon eriodendri Henn., 1895 SPECIES
-=======
+# Kretzschmaria eriodendri (Henn.) J.D. Rogers & Y.M. Ju, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Jb. 22: 78 (1895)
+Mycotaxon 68: 358 (1998)
 
 #### Original name
 Hypoxylon eriodendri Henn., 1895

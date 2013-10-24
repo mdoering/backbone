@@ -1,5 +1,4 @@
-Septoria rhoina Berk. & M.A. Curtis SPECIES
-=======
+# Septoria rhoina Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

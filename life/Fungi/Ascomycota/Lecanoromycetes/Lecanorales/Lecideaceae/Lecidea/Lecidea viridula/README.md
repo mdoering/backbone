@@ -1,5 +1,4 @@
-Lecidea viridula Jatta SPECIES
-=======
+# Lecidea viridula Jatta SPECIES
 
 #### Status
 ACCEPTED

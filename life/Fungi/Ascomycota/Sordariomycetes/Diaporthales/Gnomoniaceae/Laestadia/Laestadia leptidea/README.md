@@ -1,5 +1,4 @@
-Laestadia leptidea Hazsl. SPECIES
-=======
+# Laestadia leptidea Hazsl. SPECIES
 
 #### Status
 ACCEPTED

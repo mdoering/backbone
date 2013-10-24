@@ -1,14 +1,13 @@
-Crepidotus ealaensis Beeli, 1928 SPECIES
-=======
+# Phyllotopsis ealaensis (Beeli) Pegler, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. R. Bot. Belg. 61(1): 90 (1928)
+Bull. Jard. Bot. Nat. Belg. 41(2): 281 (1971)
 
 #### Original name
 Crepidotus ealaensis Beeli, 1928

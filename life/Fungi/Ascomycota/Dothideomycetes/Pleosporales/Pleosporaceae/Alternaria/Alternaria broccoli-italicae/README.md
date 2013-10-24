@@ -1,5 +1,4 @@
-Alternaria broccoli-italicae E.G. Simmons SPECIES
-=======
+# Alternaria broccoli-italicae E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

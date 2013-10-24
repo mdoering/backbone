@@ -1,5 +1,4 @@
-Coniothyrium scabrum McAlpine SPECIES
-=======
+# Coniothyrium scabrum McAlpine SPECIES
 
 #### Status
 ACCEPTED

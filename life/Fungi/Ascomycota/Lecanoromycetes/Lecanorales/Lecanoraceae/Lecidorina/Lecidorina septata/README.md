@@ -1,5 +1,4 @@
-Lecidorina septata Motyka SPECIES
-=======
+# Lecidorina septata Motyka SPECIES
 
 #### Status
 ACCEPTED

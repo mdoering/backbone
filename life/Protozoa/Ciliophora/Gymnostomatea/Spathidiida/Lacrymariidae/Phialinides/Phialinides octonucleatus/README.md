@@ -1,5 +1,4 @@
-Phialinides octonucleatus Foissner ßß SPECIES
-=======
+# Phialinides octonucleatus Foissner ßß SPECIES
 
 #### Status
 ACCEPTED

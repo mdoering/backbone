@@ -1,5 +1,4 @@
-Scytonema catenatum Gardner SPECIES
-=======
+# Scytonema catenatum Gardner SPECIES
 
 #### Status
 ACCEPTED

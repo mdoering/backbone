@@ -1,5 +1,4 @@
-Clisosporium coloratum (Peck) Kuntze SPECIES
-=======
+# Clisosporium coloratum (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

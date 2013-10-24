@@ -1,14 +1,13 @@
-Englerulaster macowanianus (Thüm.) G. Arnaud, 1918 SPECIES
-=======
+# Parenglerula macowaniana (Thüm.) Höhn., 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Les Astérinées 183 (1918)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 (1910)
 
 #### Original name
 Meliola macowaniana Thüm., 1876

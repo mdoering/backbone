@@ -1,5 +1,4 @@
-Nectria geralensis (Rehm) Rossman SPECIES
-=======
+# Nectria geralensis (Rehm) Rossman SPECIES
 
 #### Status
 ACCEPTED

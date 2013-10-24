@@ -1,8 +1,7 @@
-Remanella faurei (Dragesco, 1954) Foissner, 1996 SPECIES
-=======
+# Remanella multinucleata Kahl, 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

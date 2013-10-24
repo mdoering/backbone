@@ -1,5 +1,4 @@
-Blepharocorys microcorys SPECIES
-=======
+# Blepharocorys microcorys SPECIES
 
 #### Status
 ACCEPTED

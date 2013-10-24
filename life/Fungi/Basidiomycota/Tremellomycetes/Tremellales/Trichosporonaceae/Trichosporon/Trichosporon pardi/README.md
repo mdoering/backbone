@@ -1,5 +1,4 @@
-Trichosporon pardi Fern.-Baq. & Trespalcios {?} SPECIES
-=======
+# Trichosporon pardi Fern.-Baq. & Trespalcios {?} SPECIES
 
 #### Status
 ACCEPTED

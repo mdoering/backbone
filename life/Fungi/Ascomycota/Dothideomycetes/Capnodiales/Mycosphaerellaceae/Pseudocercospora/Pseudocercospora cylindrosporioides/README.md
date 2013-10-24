@@ -1,5 +1,4 @@
-Pseudocercospora cylindrosporioides (Solheim & Chupp) Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora cylindrosporioides (Solheim & Chupp) Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

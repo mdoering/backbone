@@ -1,5 +1,4 @@
-Corynophrya steueri Schröder, 1911 SPECIES
-=======
+# Corynophrya steueri Schröder, 1911 SPECIES
 
 #### Status
 ACCEPTED

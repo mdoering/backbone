@@ -1,5 +1,4 @@
-Puccinia garrettii Arthur SPECIES
-=======
+# Puccinia garrettii Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discina fastigiata (Krombh.) Svrcek & J. Moravec SPECIES
-=======
+# Discina fastigiata (Krombh.) Svrcek & J. Moravec SPECIES
 
 #### Status
 ACCEPTED

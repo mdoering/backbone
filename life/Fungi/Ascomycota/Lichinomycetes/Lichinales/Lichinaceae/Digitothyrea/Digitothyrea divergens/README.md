@@ -1,14 +1,13 @@
-Thyrea divergens Henssen SPECIES
-=======
+# Digitothyrea divergens (Henssen) Moreno & Egea SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 25(2): 497 (1986)
+Lichenologist 24(3): 223 (1992)
 
 #### Original name
 Thyrea divergens Henssen

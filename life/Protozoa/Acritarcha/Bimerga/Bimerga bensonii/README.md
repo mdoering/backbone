@@ -1,5 +1,4 @@
-Bimerga bensonii Wood, 1995 SPECIES
-=======
+# Bimerga bensonii Wood, 1995 SPECIES
 
 #### Status
 ACCEPTED

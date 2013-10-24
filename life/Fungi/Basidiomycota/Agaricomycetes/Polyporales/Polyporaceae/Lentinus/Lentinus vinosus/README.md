@@ -1,5 +1,4 @@
-Lentinus vinosus Klotzsch SPECIES
-=======
+# Lentinus vinosus Klotzsch SPECIES
 
 #### Status
 ACCEPTED

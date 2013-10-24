@@ -1,5 +1,4 @@
-Stachybotrys verrucispora Matsush. SPECIES
-=======
+# Stachybotrys verrucispora Matsush. SPECIES
 
 #### Status
 ACCEPTED

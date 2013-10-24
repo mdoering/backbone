@@ -1,5 +1,4 @@
-Tricholoma farinolens E. Horak SPECIES
-=======
+# Tricholoma farinolens E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizidium vernale Zopf SPECIES
-=======
+# Rhizidium vernale Zopf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitopilus cinereifolius (Britzelm.) Sacc. SPECIES
-=======
+# Clitopilus cinereifolius (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

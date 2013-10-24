@@ -1,5 +1,4 @@
-Hystrichosphaerina G. Alberti, 1961 GENUS
-=======
+# Hystrichosphaerina G. Alberti, 1961 GENUS
 
 #### Status
 ACCEPTED

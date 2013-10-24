@@ -1,5 +1,4 @@
-Hygrophorus uliginosus Hesler & A.H. Sm. SPECIES
-=======
+# Hygrophorus uliginosus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

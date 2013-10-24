@@ -1,5 +1,4 @@
-Sargassum parvifolioides Tseng & Lu SPECIES
-=======
+# Sargassum parvifolioides Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

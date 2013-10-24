@@ -1,5 +1,4 @@
-Nosematidae Labbé, 1899 FAMILY
-=======
+# Nosematidae Labbé, 1899 FAMILY
 
 #### Status
 ACCEPTED

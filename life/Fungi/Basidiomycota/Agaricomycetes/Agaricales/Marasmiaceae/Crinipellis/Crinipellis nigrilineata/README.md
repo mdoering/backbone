@@ -1,5 +1,4 @@
-Crinipellis nigrilineata Corner SPECIES
-=======
+# Crinipellis nigrilineata Corner SPECIES
 
 #### Status
 ACCEPTED

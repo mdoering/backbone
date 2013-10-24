@@ -1,5 +1,4 @@
-Cephalotrichum septatum Demelius SPECIES
-=======
+# Cephalotrichum septatum Demelius SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caecitellidae FAMILY
-=======
+# Caecitellidae FAMILY
 
 #### Status
 ACCEPTED

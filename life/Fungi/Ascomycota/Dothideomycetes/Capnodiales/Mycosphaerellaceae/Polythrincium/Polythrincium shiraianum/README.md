@@ -1,5 +1,4 @@
-Polythrincium shiraianum Henn. SPECIES
-=======
+# Polythrincium shiraianum Henn. SPECIES
 
 #### Status
 ACCEPTED

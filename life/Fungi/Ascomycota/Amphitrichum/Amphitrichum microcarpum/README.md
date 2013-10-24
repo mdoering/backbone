@@ -1,5 +1,4 @@
-Amphitrichum microcarpum (P. Karst.) Kuntze SPECIES
-=======
+# Amphitrichum microcarpum (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

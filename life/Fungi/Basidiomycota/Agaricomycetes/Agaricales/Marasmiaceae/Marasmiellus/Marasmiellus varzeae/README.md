@@ -1,5 +1,4 @@
-Marasmiellus varzeae Singer SPECIES
-=======
+# Marasmiellus varzeae Singer SPECIES
 
 #### Status
 ACCEPTED

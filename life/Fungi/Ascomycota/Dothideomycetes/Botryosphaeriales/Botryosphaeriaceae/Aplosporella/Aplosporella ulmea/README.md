@@ -1,5 +1,4 @@
-Aplosporella ulmea var. ulmea VARIETY
-=======
+# Aplosporella ulmea (Ellis & Barthol.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Feddes Repert. Spec. Nov. Regni Veg. , Beih. 42: 96 (1926)
 
 #### Original name
-Aplosporella ulmea var. ulmea
+null
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Lecidea terrigena Ach. SPECIES
-=======
+# Aphanopsis terrigena (Ach.) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Lich. univ. (1810)
+null
 
 #### Original name
 Lecidea terrigena Ach.

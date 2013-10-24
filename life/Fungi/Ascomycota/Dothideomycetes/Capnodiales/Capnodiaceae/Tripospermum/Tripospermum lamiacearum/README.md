@@ -1,5 +1,4 @@
-Tripospermum lamiacearum C.D. Sharma, A.N. Rai & K.M. Vyas SPECIES
-=======
+# Tripospermum lamiacearum C.D. Sharma, A.N. Rai & K.M. Vyas SPECIES
 
 #### Status
 ACCEPTED

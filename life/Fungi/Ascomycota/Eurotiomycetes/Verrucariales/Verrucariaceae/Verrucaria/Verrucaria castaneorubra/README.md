@@ -1,5 +1,4 @@
-Verrucaria castaneorubra Maheu & A. Gillet SPECIES
-=======
+# Verrucaria castaneorubra Maheu & A. Gillet SPECIES
 
 #### Status
 ACCEPTED

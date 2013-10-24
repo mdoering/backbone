@@ -1,5 +1,4 @@
-Epipolaeum petrakii Arx SPECIES
-=======
+# Epipolaeum petrakii Arx SPECIES
 
 #### Status
 ACCEPTED

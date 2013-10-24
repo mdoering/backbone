@@ -1,5 +1,4 @@
-Capnodium axillatum Cooke SPECIES
-=======
+# Capnodium axillatum Cooke SPECIES
 
 #### Status
 ACCEPTED

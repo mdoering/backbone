@@ -1,5 +1,4 @@
-Menispora amazonensis Matsush. SPECIES
-=======
+# Menispora amazonensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

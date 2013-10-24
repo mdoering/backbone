@@ -1,5 +1,4 @@
-Naemaspora denudata Schulzer SPECIES
-=======
+# Naemaspora denudata Schulzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mitrocalpis araneafera Popofsky, 1908 SPECIES
-=======
+# Mitrocalpis araneafera Popofsky, 1908 SPECIES
 
 #### Status
 ACCEPTED

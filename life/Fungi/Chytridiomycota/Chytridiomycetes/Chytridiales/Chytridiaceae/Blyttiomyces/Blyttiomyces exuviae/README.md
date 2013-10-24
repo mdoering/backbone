@@ -1,5 +1,4 @@
-Blyttiomyces exuviae S.N. Dasgupta SPECIES
-=======
+# Blyttiomyces exuviae S.N. Dasgupta SPECIES
 
 #### Status
 ACCEPTED

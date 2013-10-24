@@ -1,5 +1,4 @@
-Phaeodothis yuccae (Ellis & Everh.) Sacc. SPECIES
-=======
+# Phaeodothis yuccae (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

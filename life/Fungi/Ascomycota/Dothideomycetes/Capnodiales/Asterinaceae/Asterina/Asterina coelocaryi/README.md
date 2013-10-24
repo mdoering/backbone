@@ -1,5 +1,4 @@
-Asterina coelocaryi Hansf. SPECIES
-=======
+# Asterina coelocaryi Hansf. SPECIES
 
 #### Status
 ACCEPTED

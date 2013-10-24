@@ -1,17 +1,16 @@
-Bacidia albidocarnea subsp. albidocarnea SUBSPECIES
-=======
+# Bacidia fuscoviridis (Anzi) Lettau SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 52: 132 (1912)
 
 #### Original name
-Bacidia albidocarnea subsp. albidocarnea
+Bilimbia fuscoviridis Anzi
 
 ### Remarks
 null

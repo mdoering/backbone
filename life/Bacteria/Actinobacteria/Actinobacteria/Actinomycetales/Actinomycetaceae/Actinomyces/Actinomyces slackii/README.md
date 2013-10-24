@@ -1,5 +1,4 @@
-Actinomyces slackii Dent & Williams, 1986 SPECIES
-=======
+# Actinomyces slackii Dent & Williams, 1986 SPECIES
 
 #### Status
 ACCEPTED

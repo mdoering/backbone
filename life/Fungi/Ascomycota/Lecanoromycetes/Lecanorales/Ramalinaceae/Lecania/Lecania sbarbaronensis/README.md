@@ -1,5 +1,4 @@
-Lecania sbarbaronensis B. de Lesd. SPECIES
-=======
+# Lecania sbarbaronensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

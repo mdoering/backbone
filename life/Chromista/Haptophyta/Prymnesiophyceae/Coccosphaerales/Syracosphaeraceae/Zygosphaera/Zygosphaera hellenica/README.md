@@ -1,8 +1,7 @@
-Laminolithus hellenicus (Kamptner) Heimdal SPECIES
-=======
+# Zygosphaera hellenica Kamptner, 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

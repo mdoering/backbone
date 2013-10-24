@@ -1,14 +1,13 @@
-Kneiffiella alutaria (Burt) Jülich & Stalpers, 1980 SPECIES
-=======
+# Hyphodontia alutaria (Burt) J. Erikss., 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. K. ned. Akad. Wet. , 2 Sectie 74: 129 (1980)
+Symb. bot. upsal. 16(no. 1): 104 (1958)
 
 #### Original name
 Peniophora alutaria Burt, 1926

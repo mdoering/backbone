@@ -1,17 +1,16 @@
-Pistillaria epiphylla (Quél.) Corner, 1950 SPECIES
-=======
+# Typhula crassipes Fuckel, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 480 (1950)
+Jb. nassau. Ver. Naturk. 23-24: 32 (1870)
 
 #### Original name
-Clavaria epiphylla Quél., 1884
+Typhula crassipes Fuckel, 1870
 
 ### Remarks
 null

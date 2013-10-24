@@ -1,5 +1,4 @@
-Opegrapha oulocheila Tuck. SPECIES
-=======
+# Opegrapha oulocheila Tuck. SPECIES
 
 #### Status
 ACCEPTED

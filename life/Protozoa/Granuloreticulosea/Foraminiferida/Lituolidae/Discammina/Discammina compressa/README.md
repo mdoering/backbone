@@ -1,5 +1,4 @@
-Discammina compressa SPECIES
-=======
+# Discammina compressa SPECIES
 
 #### Status
 ACCEPTED

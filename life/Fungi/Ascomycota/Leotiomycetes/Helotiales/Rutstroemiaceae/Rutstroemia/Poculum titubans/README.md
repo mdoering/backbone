@@ -1,5 +1,4 @@
-Poculum titubans (Mont.) Dumont SPECIES
-=======
+# Poculum titubans (Mont.) Dumont SPECIES
 
 #### Status
 ACCEPTED

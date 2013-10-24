@@ -1,5 +1,4 @@
-Haematomma guyanense Kalb & Staiger SPECIES
-=======
+# Haematomma guyanense Kalb & Staiger SPECIES
 
 #### Status
 ACCEPTED

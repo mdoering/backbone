@@ -1,5 +1,4 @@
-Naucoria pubescens Murrill SPECIES
-=======
+# Naucoria pubescens Murrill SPECIES
 
 #### Status
 ACCEPTED

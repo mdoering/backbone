@@ -1,17 +1,16 @@
-Gonatorrhodiella Thaxt. GENUS
-=======
+# Gonatobotryum Saccardo, 1880 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bot. Gaz. 16: 202 (1891)
+null
 
 #### Original name
-Gonatorrhodiella Thaxt.
+null
 
 ### Remarks
 null

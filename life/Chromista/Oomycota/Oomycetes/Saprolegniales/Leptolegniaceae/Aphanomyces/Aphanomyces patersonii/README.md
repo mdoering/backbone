@@ -1,5 +1,4 @@
-Aphanomyces patersonii W.W. Scott SPECIES
-=======
+# Aphanomyces patersonii W.W. Scott SPECIES
 
 #### Status
 ACCEPTED

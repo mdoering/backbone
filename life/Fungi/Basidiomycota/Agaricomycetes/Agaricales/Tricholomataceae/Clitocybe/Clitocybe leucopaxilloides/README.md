@@ -1,5 +1,4 @@
-Clitocybe leucopaxilloides H.E. Bigelow & A.H. Sm. SPECIES
-=======
+# Clitocybe leucopaxilloides H.E. Bigelow & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

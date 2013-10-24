@@ -1,17 +1,16 @@
-Cytispora pisiformis Duby SPECIES
-=======
+# Cytospora pisiformis Duby SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Aug. Pyrami de Candolle. Botanicon Gallicum, seu Synopsis Plantarum in Flora Gallica Descriptarum, Edn 2 2: 725 (1830)
 
 #### Original name
-Cytispora pisiformis Duby
+Cytospora pisiformis Duby
 
 ### Remarks
 null

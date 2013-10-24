@@ -1,17 +1,16 @@
-Acarospora impressula var. impressula VARIETY
-=======
+# Acarospora impressula Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. Scand. (Uppsala) 1: 214 (1871)
 
 #### Original name
-Acarospora impressula var. impressula
+Acarospora impressula Th. Fr.
 
 ### Remarks
 null

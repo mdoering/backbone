@@ -1,5 +1,4 @@
-Craterellus partitus (Berk.) Sacc. SPECIES
-=======
+# Craterellus partitus (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

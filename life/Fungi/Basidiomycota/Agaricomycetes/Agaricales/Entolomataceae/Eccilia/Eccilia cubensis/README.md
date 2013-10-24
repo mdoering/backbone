@@ -1,5 +1,4 @@
-Eccilia cubensis Murrill SPECIES
-=======
+# Eccilia cubensis Murrill SPECIES
 
 #### Status
 ACCEPTED

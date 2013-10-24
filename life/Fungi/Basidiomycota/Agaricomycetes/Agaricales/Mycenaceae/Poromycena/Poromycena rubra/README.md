@@ -1,5 +1,4 @@
-Poromycena rubra Kobayasi SPECIES
-=======
+# Poromycena rubra Kobayasi SPECIES
 
 #### Status
 ACCEPTED

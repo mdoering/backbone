@@ -1,5 +1,4 @@
-Phoma pratorum P.R. Johnst. & Boerema, 1982 SPECIES
-=======
+# Phoma pratorum P.R. Johnst. & Boerema, 1982 SPECIES
 
 #### Status
 ACCEPTED

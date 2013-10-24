@@ -1,5 +1,4 @@
-Sistotremastrum lateclavigerum Boidin & Gilles, 1994 SPECIES
-=======
+# Sistotremastrum lateclavigerum Boidin & Gilles, 1994 SPECIES
 
 #### Status
 ACCEPTED

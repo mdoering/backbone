@@ -1,5 +1,4 @@
-Phyllosticta papuensis Cooke SPECIES
-=======
+# Phyllosticta papuensis Cooke SPECIES
 
 #### Status
 ACCEPTED

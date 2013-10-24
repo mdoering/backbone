@@ -1,5 +1,4 @@
-Bakerophoma sacchari Died. SPECIES
-=======
+# Bakerophoma sacchari Died. SPECIES
 
 #### Status
 ACCEPTED

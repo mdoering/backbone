@@ -1,5 +1,4 @@
-Mycosphaerella podperae Picb. SPECIES
-=======
+# Mycosphaerella podperae Picb. SPECIES
 
 #### Status
 ACCEPTED

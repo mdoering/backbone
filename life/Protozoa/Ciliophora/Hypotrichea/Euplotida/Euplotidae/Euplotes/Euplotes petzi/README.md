@@ -1,5 +1,4 @@
-Euplotes petzi Song & Wilbert, 2009 SPECIES
-=======
+# Euplotes petzi Song & Wilbert, 2009 SPECIES
 
 #### Status
 ACCEPTED

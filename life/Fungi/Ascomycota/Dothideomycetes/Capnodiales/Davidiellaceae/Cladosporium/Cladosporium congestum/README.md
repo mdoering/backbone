@@ -1,5 +1,4 @@
-Cladosporium congestum Berk. SPECIES
-=======
+# Cladosporium congestum Berk. SPECIES
 
 #### Status
 ACCEPTED

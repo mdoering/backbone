@@ -1,5 +1,4 @@
-Geitlerinema acus (J. Copeland) Anagnostidis SPECIES
-=======
+# Geitlerinema acus (J. Copeland) Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

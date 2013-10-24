@@ -1,5 +1,4 @@
-Coniothyrium densiusculum (Sacc. & Roum.) Kuntze SPECIES
-=======
+# Coniothyrium densiusculum (Sacc. & Roum.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conocaryomma Lipman, 1969 GENUS
-=======
+# Conocaryomma Lipman, 1969 GENUS
 
 #### Status
 ACCEPTED

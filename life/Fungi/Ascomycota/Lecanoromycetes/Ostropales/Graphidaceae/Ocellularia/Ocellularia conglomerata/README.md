@@ -1,5 +1,4 @@
-Ocellularia conglomerata Hale SPECIES
-=======
+# Ocellularia conglomerata Hale SPECIES
 
 #### Status
 ACCEPTED

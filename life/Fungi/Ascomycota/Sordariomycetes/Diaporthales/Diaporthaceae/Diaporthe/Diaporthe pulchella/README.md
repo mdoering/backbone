@@ -1,5 +1,4 @@
-Diaporthe pulchella Sacc. & Briard SPECIES
-=======
+# Diaporthe pulchella Sacc. & Briard SPECIES
 
 #### Status
 ACCEPTED

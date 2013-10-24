@@ -1,5 +1,4 @@
-Cordyceps aurea Moureau SPECIES
-=======
+# Cordyceps aurea Moureau SPECIES
 
 #### Status
 ACCEPTED

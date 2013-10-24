@@ -1,5 +1,4 @@
-Sporisorium mishrae Vánky SPECIES
-=======
+# Sporisorium mishrae Vánky SPECIES
 
 #### Status
 ACCEPTED

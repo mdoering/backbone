@@ -1,17 +1,16 @@
-Phyllachora peribebuyensis var. brachycarpa Speg., 1908 VARIETY
-=======
+# Coccodiella peribebuyensis (Speg.) I. Hino & Katum., 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revta Mus. La Plata 15: 25 (1908)
+J. Jap. Bot. 43: 282 (1968)
 
 #### Original name
-Phyllachora peribebuyensis var. brachycarpa Speg., 1908
+Phyllachora peribebuyensis Speg., 1885
 
 ### Remarks
 null

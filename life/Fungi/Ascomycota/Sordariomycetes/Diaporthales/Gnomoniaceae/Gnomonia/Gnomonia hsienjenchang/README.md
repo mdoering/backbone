@@ -1,5 +1,4 @@
-Gnomonia hsienjenchang I. Hino & Katum. SPECIES
-=======
+# Gnomonia hsienjenchang I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Terana pannosa (Sowerby) Kuntze SPECIES
-=======
+# Terana pannosa (Sowerby) Kuntze SPECIES
 
 #### Status
 ACCEPTED

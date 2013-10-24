@@ -1,5 +1,4 @@
-Verrucaria fortuita P. M. McCarthy SPECIES
-=======
+# Verrucaria fortuita P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

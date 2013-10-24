@@ -1,5 +1,4 @@
-Ramalina mollis Krog SPECIES
-=======
+# Ramalina mollis Krog SPECIES
 
 #### Status
 ACCEPTED

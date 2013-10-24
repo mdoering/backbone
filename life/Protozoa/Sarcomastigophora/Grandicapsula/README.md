@@ -1,5 +1,4 @@
-Grandicapsula Kazinzova in Kazintsova, 1985 GENUS
-=======
+# Grandicapsula Kazinzova in Kazintsova, 1985 GENUS
 
 #### Status
 ACCEPTED

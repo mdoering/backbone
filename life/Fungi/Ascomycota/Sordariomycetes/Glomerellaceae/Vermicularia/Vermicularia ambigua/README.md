@@ -1,5 +1,4 @@
-Vermicularia ambigua Sacc. SPECIES
-=======
+# Vermicularia ambigua Sacc. SPECIES
 
 #### Status
 ACCEPTED

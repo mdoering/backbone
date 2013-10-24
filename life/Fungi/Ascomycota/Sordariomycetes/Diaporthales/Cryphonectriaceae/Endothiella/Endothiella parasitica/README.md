@@ -1,5 +1,4 @@
-Endothiella parasitica Roane SPECIES
-=======
+# Endothiella parasitica Roane SPECIES
 
 #### Status
 ACCEPTED

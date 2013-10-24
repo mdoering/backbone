@@ -1,5 +1,4 @@
-Cercosporina hydrangeicola Speg. SPECIES
-=======
+# Cercosporina hydrangeicola Speg. SPECIES
 
 #### Status
 ACCEPTED

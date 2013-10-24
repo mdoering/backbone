@@ -1,5 +1,4 @@
-Lunulospora curvula Ingold, 1942 SPECIES
-=======
+# Lunulospora curvula Ingold, 1942 SPECIES
 
 #### Status
 ACCEPTED

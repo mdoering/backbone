@@ -1,5 +1,4 @@
-Arthopyrenia analeptella (Nyl.) Arnold SPECIES
-=======
+# Arthopyrenia analeptella (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

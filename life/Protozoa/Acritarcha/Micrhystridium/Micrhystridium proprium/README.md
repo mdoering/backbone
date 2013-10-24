@@ -1,5 +1,4 @@
-Micrhystridium proprium Salujha, Kindra & Rehman, 1974 SPECIES
-=======
+# Micrhystridium proprium Salujha, Kindra & Rehman, 1974 SPECIES
 
 #### Status
 ACCEPTED

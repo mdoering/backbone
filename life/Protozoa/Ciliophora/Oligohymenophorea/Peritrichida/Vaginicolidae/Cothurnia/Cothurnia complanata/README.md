@@ -1,5 +1,4 @@
-Cothurnia complanata Precht, 1935 SPECIES
-=======
+# Cothurnia complanata Precht, 1935 SPECIES
 
 #### Status
 ACCEPTED

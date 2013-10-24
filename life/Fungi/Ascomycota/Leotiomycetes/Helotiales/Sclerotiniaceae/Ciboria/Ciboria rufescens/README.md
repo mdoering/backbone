@@ -1,5 +1,4 @@
-Ciboria rufescens Kanouse SPECIES
-=======
+# Ciboria rufescens Kanouse SPECIES
 
 #### Status
 ACCEPTED

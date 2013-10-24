@@ -1,5 +1,4 @@
-Acanthocorbis haurakiana Thomsen in Thomsen, Buck & Chavez, 1991 SPECIES
-=======
+# Acanthocorbis haurakiana Thomsen in Thomsen, Buck & Chavez, 1991 SPECIES
 
 #### Status
 ACCEPTED

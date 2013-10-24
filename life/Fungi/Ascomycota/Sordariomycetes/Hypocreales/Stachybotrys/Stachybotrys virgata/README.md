@@ -1,5 +1,4 @@
-Stachybotrys virgata Krzemien. & Badura SPECIES
-=======
+# Stachybotrys virgata Krzemien. & Badura SPECIES
 
 #### Status
 ACCEPTED

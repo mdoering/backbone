@@ -1,5 +1,4 @@
-Spadicoides palmicola Goh & K.D. Hyde SPECIES
-=======
+# Spadicoides palmicola Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

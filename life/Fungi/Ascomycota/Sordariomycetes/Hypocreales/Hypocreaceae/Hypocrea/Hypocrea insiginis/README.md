@@ -1,5 +1,4 @@
-Hypocrea insiginis SPECIES
-=======
+# Hypocrea insiginis SPECIES
 
 #### Status
 ACCEPTED

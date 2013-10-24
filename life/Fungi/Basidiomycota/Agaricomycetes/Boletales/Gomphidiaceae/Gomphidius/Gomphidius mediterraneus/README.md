@@ -1,14 +1,13 @@
-Gomphidius tyrrhenicus D. Antonini & M. Antonini, 2004 SPECIES
-=======
+# Gomphidius mediterraneus D. Antonini & M. Antonini, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 33(no. 130): 37 (2004)
+Fungi Non Delineati, Raro vel Haud Perspecte et Explorate Descripti aut Definite Picti 22: 50 (2002)
 
 #### Original name
 Gomphidius mediterraneus D. Antonini & M. Antonini, 2002

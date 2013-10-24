@@ -1,5 +1,4 @@
-Trametes parvula Bres. SPECIES
-=======
+# Trametes parvula Bres. SPECIES
 
 #### Status
 ACCEPTED

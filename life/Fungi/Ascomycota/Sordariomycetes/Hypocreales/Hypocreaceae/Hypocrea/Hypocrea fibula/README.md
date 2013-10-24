@@ -1,5 +1,4 @@
-Hypocrea fibula De Not. SPECIES
-=======
+# Hypocrea fibula De Not. SPECIES
 
 #### Status
 ACCEPTED

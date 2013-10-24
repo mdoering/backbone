@@ -1,5 +1,4 @@
-Microthyrium leopoldvilleanum Henn. SPECIES
-=======
+# Microthyrium leopoldvilleanum Henn. SPECIES
 
 #### Status
 ACCEPTED

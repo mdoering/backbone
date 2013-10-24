@@ -1,5 +1,4 @@
-Physalospora propinqua Sacc. SPECIES
-=======
+# Physalospora propinqua Sacc. SPECIES
 
 #### Status
 ACCEPTED

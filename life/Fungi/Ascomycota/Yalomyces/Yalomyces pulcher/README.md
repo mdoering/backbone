@@ -1,5 +1,4 @@
-Yalomyces pulcher Nag Raj, 1993 SPECIES
-=======
+# Yalomyces pulcher Nag Raj, 1993 SPECIES
 
 #### Status
 ACCEPTED

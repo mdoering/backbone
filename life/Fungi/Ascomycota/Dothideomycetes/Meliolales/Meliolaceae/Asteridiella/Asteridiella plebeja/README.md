@@ -1,5 +1,4 @@
-Asteridiella plebeja var. plebeja VARIETY
-=======
+# Asteridiella plebeja (Speg.) Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Sydowia 10: 49 (1957)
 
 #### Original name
-Asteridiella plebeja var. plebeja
+Meliola plebeja Speg.
 
 ### Remarks
 null

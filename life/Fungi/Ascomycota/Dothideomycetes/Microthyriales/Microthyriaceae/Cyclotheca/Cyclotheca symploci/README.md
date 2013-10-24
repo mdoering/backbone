@@ -1,5 +1,4 @@
-Cyclotheca symploci M.S. Patil & Thite SPECIES
-=======
+# Cyclotheca symploci M.S. Patil & Thite SPECIES
 
 #### Status
 ACCEPTED

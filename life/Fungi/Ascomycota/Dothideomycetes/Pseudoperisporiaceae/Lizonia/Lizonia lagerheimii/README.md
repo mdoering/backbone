@@ -1,5 +1,4 @@
-Lizonia lagerheimii Rehm SPECIES
-=======
+# Lizonia lagerheimii Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schachtia persoonii (Wallr.) Schulzer SPECIES
-=======
+# Schachtia persoonii (Wallr.) Schulzer SPECIES
 
 #### Status
 ACCEPTED

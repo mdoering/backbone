@@ -1,5 +1,4 @@
-Uredo cassandrae Peck & G.P. Clinton SPECIES
-=======
+# Uredo cassandrae Peck & G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

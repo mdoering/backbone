@@ -1,5 +1,4 @@
-Chalastospora ellipsoidea Crous & U. Braun, 2009 SPECIES
-=======
+# Chalastospora ellipsoidea Crous & U. Braun, 2009 SPECIES
 
 #### Status
 ACCEPTED

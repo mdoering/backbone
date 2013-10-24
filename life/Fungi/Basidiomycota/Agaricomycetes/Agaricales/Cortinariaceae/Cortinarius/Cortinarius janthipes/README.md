@@ -1,5 +1,4 @@
-Cortinarius janthipes Secr. ex Quél. SPECIES
-=======
+# Cortinarius janthipes Secr. ex Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caudosphaera T.N. Hermann & B.V. Timofeev in T.V. Jankauskas, 1989 GENUS
-=======
+# Caudosphaera T.N. Hermann & B.V. Timofeev in T.V. Jankauskas, 1989 GENUS
 
 #### Status
 ACCEPTED

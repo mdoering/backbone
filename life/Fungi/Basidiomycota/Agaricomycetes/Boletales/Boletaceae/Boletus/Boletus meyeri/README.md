@@ -1,5 +1,4 @@
-Boletus meyeri Rostk. SPECIES
-=======
+# Boletus meyeri Rostk. SPECIES
 
 #### Status
 ACCEPTED

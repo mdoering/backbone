@@ -1,5 +1,4 @@
-Stagonospora grevilleae Hansf. SPECIES
-=======
+# Stagonospora grevilleae Hansf. SPECIES
 
 #### Status
 ACCEPTED

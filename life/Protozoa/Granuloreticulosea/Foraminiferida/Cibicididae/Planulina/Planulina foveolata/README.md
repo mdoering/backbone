@@ -1,5 +1,4 @@
-Planulina foveolata SPECIES
-=======
+# Planulina foveolata SPECIES
 
 #### Status
 ACCEPTED

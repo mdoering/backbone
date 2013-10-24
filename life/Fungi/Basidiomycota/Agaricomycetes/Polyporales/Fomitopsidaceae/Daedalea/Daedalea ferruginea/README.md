@@ -1,5 +1,4 @@
-Daedalea ferruginea Schumach. SPECIES
-=======
+# Daedalea ferruginea Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geopyxis verruculosa (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Geopyxis verruculosa (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

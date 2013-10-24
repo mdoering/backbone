@@ -1,5 +1,4 @@
-Coscinodiscus lacustris var. hyperboreus Grunow VARIETY
-=======
+# Coscinodiscus lacustris Grunow in Cleve & Grunow, 1880 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmentaria irregularis Makhija & Patw. SPECIES
-=======
+# Parmentaria irregularis Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

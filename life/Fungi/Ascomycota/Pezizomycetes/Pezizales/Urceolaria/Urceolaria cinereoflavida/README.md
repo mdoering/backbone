@@ -1,5 +1,4 @@
-Urceolaria cinereoflavida Motyka SPECIES
-=======
+# Urceolaria cinereoflavida Motyka SPECIES
 
 #### Status
 ACCEPTED

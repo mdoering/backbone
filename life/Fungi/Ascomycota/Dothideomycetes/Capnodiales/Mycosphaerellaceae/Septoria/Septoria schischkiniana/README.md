@@ -1,5 +1,4 @@
-Septoria schischkiniana Gucevic SPECIES
-=======
+# Septoria schischkiniana Gucevic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Torula basicola Berk. & Broome, 1850 SPECIES
-=======
+# Thielaviopsis basicola (Berk. & Broome) Ferraris, 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 2 5: 461 (1850)
+Fl. ital. crypt. , Fungi 1(8): 233 (1912)
 
 #### Original name
 Torula basicola Berk. & Broome, 1850

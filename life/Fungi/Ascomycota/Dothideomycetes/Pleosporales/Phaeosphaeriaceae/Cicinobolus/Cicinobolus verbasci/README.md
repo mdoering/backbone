@@ -1,8 +1,7 @@
-Cicinnobolus verbasci Gonz. Frag. SPECIES
-=======
+# Cicinobolus verbasci Gonz. Frag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cicinnobolus verbasci Gonz. Frag.
+Cicinobolus verbasci Gonz. Frag.
 
 ### Remarks
 null

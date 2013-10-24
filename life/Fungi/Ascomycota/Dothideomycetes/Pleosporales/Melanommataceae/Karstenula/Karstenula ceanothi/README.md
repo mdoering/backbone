@@ -1,5 +1,4 @@
-Karstenula ceanothi (Dearn. & House) M.E. Barr SPECIES
-=======
+# Karstenula ceanothi (Dearn. & House) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

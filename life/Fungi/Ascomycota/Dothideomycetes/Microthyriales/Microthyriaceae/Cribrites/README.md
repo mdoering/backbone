@@ -1,5 +1,4 @@
-Cribrites R.T. Lange GENUS
-=======
+# Cribrites R.T. Lange GENUS
 
 #### Status
 ACCEPTED

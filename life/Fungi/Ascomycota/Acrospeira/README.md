@@ -1,17 +1,16 @@
-Spirospora L. Mangin & Vincens GENUS
-=======
+# Acrospeira Berkeley & Broome, 1857 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bull. Soc. mycol. Fr. 36: 96 (1920)
+null
 
 #### Original name
-Spirospora L. Mangin & Vincens
+null
 
 ### Remarks
 null

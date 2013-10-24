@@ -1,5 +1,4 @@
-Algoriphagus Bowman, Mancuso Nichols & Gibson, 2003 GENUS
-=======
+# Algoriphagus Bowman, Mancuso Nichols & Gibson, 2003 GENUS
 
 #### Status
 ACCEPTED

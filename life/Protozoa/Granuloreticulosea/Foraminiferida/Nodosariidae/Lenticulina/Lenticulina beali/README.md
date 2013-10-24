@@ -1,5 +1,4 @@
-Lenticulina beali (Cushman) SPECIES
-=======
+# Lenticulina beali (Cushman) SPECIES
 
 #### Status
 ACCEPTED

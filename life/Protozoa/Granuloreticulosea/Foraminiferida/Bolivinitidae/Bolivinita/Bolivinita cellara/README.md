@@ -1,5 +1,4 @@
-Bolivinita cellara Saidova, 1975 SPECIES
-=======
+# Bolivinita cellara Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

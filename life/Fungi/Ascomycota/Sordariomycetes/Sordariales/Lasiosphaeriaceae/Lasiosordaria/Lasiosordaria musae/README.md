@@ -1,5 +1,4 @@
-Lasiosordaria musae (Maire) C. Moreau SPECIES
-=======
+# Lasiosordaria musae (Maire) C. Moreau SPECIES
 
 #### Status
 ACCEPTED

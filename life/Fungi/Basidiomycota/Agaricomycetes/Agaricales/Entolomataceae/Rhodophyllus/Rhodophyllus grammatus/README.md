@@ -1,5 +1,4 @@
-Rhodophyllus grammatus Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus grammatus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

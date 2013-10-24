@@ -1,5 +1,4 @@
-Ceriomyces oliveisporus Murrill SPECIES
-=======
+# Ceriomyces oliveisporus Murrill SPECIES
 
 #### Status
 ACCEPTED

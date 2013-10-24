@@ -1,5 +1,4 @@
-Pseudonectria ciliata (Alb. & Schwein.) Fr. SPECIES
-=======
+# Pseudonectria ciliata (Alb. & Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

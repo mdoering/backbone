@@ -1,5 +1,4 @@
-Psilocistella alchemillae Raitv. SPECIES
-=======
+# Psilocistella alchemillae Raitv. SPECIES
 
 #### Status
 ACCEPTED

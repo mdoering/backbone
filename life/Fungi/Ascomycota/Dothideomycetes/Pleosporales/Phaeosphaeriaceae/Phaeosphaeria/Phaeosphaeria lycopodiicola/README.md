@@ -1,5 +1,4 @@
-Phaeosphaeria lycopodiicola (Peck) Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria lycopodiicola (Peck) Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

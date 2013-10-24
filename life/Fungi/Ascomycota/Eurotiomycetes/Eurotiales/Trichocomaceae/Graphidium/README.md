@@ -1,5 +1,4 @@
-Graphidium GENUS
-=======
+# Graphidium GENUS
 
 #### Status
 ACCEPTED

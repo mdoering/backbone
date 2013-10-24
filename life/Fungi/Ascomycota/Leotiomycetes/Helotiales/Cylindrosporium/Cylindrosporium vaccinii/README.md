@@ -1,5 +1,4 @@
-Cylindrosporium vaccinii H.C. Greene SPECIES
-=======
+# Cylindrosporium vaccinii H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

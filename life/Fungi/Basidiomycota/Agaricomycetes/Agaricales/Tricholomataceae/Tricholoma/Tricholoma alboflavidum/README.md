@@ -1,5 +1,4 @@
-Tricholoma alboflavidum Peck SPECIES
-=======
+# Tricholoma alboflavidum Peck SPECIES
 
 #### Status
 ACCEPTED

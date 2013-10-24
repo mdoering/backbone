@@ -1,5 +1,4 @@
-Verrucaria trabicola Arnold ex Servít SPECIES
-=======
+# Verrucaria trabicola Arnold ex Servít SPECIES
 
 #### Status
 ACCEPTED

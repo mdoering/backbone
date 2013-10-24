@@ -1,5 +1,4 @@
-Tremella coalescens L.S. Olive SPECIES
-=======
+# Tremella coalescens L.S. Olive SPECIES
 
 #### Status
 ACCEPTED

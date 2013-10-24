@@ -1,5 +1,4 @@
-Nectria albocincta Bres. SPECIES
-=======
+# Nectria albocincta Bres. SPECIES
 
 #### Status
 ACCEPTED

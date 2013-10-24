@@ -1,5 +1,4 @@
-Dothiorella vinosa Ellis & Marchal SPECIES
-=======
+# Dothiorella vinosa Ellis & Marchal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Annulatascus lacteus K.M. Tsui, Hodgkiss & K.D. Hyde SPECIES
-=======
+# Annulatascus lacteus K.M. Tsui, Hodgkiss & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

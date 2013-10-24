@@ -1,5 +1,4 @@
-Mycetozoa Engl. PHYLUM
-=======
+# Mycetozoa Engl. PHYLUM
 
 #### Status
 ACCEPTED

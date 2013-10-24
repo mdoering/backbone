@@ -1,5 +1,4 @@
-Agaricus verrucellosus Miq. SPECIES
-=======
+# Agaricus verrucellosus Miq. SPECIES
 
 #### Status
 ACCEPTED

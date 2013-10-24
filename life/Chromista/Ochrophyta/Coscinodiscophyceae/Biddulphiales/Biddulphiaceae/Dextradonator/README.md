@@ -1,5 +1,4 @@
-Dextradonator R.Ross & P.A.Sims, 1980 GENUS
-=======
+# Dextradonator R.Ross & P.A.Sims, 1980 GENUS
 
 #### Status
 ACCEPTED

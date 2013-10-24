@@ -1,5 +1,4 @@
-Eversia J.L. Crane & Schokn. GENUS
-=======
+# Eversia J.L. Crane & Schokn. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalideopsis subaequatoriana Lücking & W.R. Buck SPECIES
-=======
+# Gyalideopsis subaequatoriana Lücking & W.R. Buck SPECIES
 
 #### Status
 ACCEPTED

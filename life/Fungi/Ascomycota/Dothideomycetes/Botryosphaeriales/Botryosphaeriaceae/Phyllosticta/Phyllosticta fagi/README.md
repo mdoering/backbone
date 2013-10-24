@@ -1,5 +1,4 @@
-Phyllosticta fagi Oudem. SPECIES
-=======
+# Phyllosticta fagi Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pteromyces ambiguus E. Bommer, M. Rousseau & Sacc. ex Sacc., 1906 SPECIES
-=======
+# Pteromyces ambiguus E. Bommer, M. Rousseau & Sacc. ex Sacc., 1906 SPECIES
 
 #### Status
 ACCEPTED

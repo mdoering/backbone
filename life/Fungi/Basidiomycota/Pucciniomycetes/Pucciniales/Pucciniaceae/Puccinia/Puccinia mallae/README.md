@@ -1,5 +1,4 @@
-Puccinia mallae Durrieu SPECIES
-=======
+# Puccinia mallae Durrieu SPECIES
 
 #### Status
 ACCEPTED

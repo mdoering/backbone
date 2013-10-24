@@ -1,5 +1,4 @@
-Urceolaria excavata (Thunb.) Ach. SPECIES
-=======
+# Urceolaria excavata (Thunb.) Ach. SPECIES
 
 #### Status
 ACCEPTED

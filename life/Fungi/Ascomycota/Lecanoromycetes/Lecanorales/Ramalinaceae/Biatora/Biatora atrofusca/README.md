@@ -1,5 +1,4 @@
-Biatora atrofusca var. atrofusca Flörke ex Hepp VARIETY
-=======
+# Biatora atrofusca Flot. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Biatora atrofusca var. atrofusca Flörke ex Hepp
+Biatora atrofusca Flot.
 
 ### Remarks
 null

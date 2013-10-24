@@ -1,5 +1,4 @@
-Mycosphaerella cerasina (Cooke) Feltgen SPECIES
-=======
+# Mycosphaerella cerasina (Cooke) Feltgen SPECIES
 
 #### Status
 ACCEPTED

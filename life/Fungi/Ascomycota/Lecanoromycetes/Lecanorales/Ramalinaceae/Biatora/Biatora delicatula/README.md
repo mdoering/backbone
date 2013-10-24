@@ -1,5 +1,4 @@
-Biatora delicatula Körb. SPECIES
-=======
+# Biatora delicatula Körb. SPECIES
 
 #### Status
 ACCEPTED

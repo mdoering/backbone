@@ -1,5 +1,4 @@
-Thanatephorus amygdalisporus Hauerslev, P. Roberts & Å. Strid, 1996 SPECIES
-=======
+# Thanatephorus amygdalisporus Hauerslev, P. Roberts & Å. Strid, 1996 SPECIES
 
 #### Status
 ACCEPTED

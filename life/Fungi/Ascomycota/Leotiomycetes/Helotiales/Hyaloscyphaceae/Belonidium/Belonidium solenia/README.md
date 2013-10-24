@@ -1,5 +1,4 @@
-Belonidium solenia (Peck) Raitv. SPECIES
-=======
+# Belonidium solenia (Peck) Raitv. SPECIES
 
 #### Status
 ACCEPTED

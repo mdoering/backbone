@@ -1,5 +1,4 @@
-Stereocaulon explanatum I.M. Lamb SPECIES
-=======
+# Stereocaulon explanatum I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

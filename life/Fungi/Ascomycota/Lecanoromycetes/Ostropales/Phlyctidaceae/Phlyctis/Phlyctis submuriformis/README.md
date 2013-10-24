@@ -1,5 +1,4 @@
-Phlyctis submuriformis H. Magn. SPECIES
-=======
+# Phlyctis submuriformis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

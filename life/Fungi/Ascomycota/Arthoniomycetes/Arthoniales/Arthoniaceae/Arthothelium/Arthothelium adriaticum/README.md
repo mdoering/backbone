@@ -1,5 +1,4 @@
-Arthothelium adriaticum Zahlbr. SPECIES
-=======
+# Arthothelium adriaticum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

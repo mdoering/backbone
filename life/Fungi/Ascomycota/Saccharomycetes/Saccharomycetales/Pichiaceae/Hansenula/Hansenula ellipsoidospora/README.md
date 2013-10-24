@@ -1,5 +1,4 @@
-Hansenula ellipsoidospora Luteraan SPECIES
-=======
+# Hansenula ellipsoidospora Luteraan SPECIES
 
 #### Status
 ACCEPTED

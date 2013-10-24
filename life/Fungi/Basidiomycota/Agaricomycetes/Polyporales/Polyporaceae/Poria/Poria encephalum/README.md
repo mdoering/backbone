@@ -1,5 +1,4 @@
-Poria encephalum Hoffm. SPECIES
-=======
+# Poria encephalum Hoffm. SPECIES
 
 #### Status
 ACCEPTED

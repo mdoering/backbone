@@ -1,5 +1,4 @@
-Tilletia transiliensis M.N. Kusnezowa & Schwarzman SPECIES
-=======
+# Tilletia transiliensis M.N. Kusnezowa & Schwarzman SPECIES
 
 #### Status
 ACCEPTED

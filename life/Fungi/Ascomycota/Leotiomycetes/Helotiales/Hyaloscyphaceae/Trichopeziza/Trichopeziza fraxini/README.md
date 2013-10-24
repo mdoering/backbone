@@ -1,5 +1,4 @@
-Trichopeziza fraxini Boud. SPECIES
-=======
+# Trichopeziza fraxini Boud. SPECIES
 
 #### Status
 ACCEPTED

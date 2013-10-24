@@ -1,5 +1,4 @@
-Pleospora caroli Sacc. SPECIES
-=======
+# Pleospora caroli Sacc. SPECIES
 
 #### Status
 ACCEPTED

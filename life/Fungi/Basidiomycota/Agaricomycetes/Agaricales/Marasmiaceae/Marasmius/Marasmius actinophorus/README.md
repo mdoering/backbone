@@ -1,5 +1,4 @@
-Marasmius actinophorus Berk. & Broome SPECIES
-=======
+# Marasmius actinophorus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

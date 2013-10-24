@@ -1,5 +1,4 @@
-Naucoria bipindeensis Henn. SPECIES
-=======
+# Naucoria bipindeensis Henn. SPECIES
 
 #### Status
 ACCEPTED

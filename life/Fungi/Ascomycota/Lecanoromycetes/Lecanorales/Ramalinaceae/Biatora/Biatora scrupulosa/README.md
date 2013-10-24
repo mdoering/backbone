@@ -1,5 +1,4 @@
-Biatora scrupulosa Eckfeldt SPECIES
-=======
+# Biatora scrupulosa Eckfeldt SPECIES
 
 #### Status
 ACCEPTED

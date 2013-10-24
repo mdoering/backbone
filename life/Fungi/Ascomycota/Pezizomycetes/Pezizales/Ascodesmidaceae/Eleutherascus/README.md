@@ -1,17 +1,16 @@
-Hemiascosporium L.R. Batra GENUS
-=======
+# Eleutherascus Arx, 1971 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Mycologia 65(4): 796 (1973)
+null
 
 #### Original name
-Hemiascosporium L.R. Batra
+null
 
 ### Remarks
 null

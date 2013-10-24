@@ -1,5 +1,4 @@
-Torrubia adpropinquans Ces. SPECIES
-=======
+# Torrubia adpropinquans Ces. SPECIES
 
 #### Status
 ACCEPTED

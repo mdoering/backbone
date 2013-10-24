@@ -1,5 +1,4 @@
-Leiothecium ellipsoideum Samson & Mouch., 1975 SPECIES
-=======
+# Leiothecium ellipsoideum Samson & Mouch., 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma juglandis Sacc. SPECIES
-=======
+# Phoma juglandis Sacc. SPECIES
 
 #### Status
 ACCEPTED

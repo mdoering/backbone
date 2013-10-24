@@ -1,5 +1,4 @@
-Cylindrosporium juglandis F.A. Wolf SPECIES
-=======
+# Cylindrosporium juglandis F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

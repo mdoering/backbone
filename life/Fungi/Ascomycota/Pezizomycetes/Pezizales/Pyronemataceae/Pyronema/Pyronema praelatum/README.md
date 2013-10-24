@@ -1,5 +1,4 @@
-Pyronema praelatum Velen. SPECIES
-=======
+# Pyronema praelatum Velen. SPECIES
 
 #### Status
 ACCEPTED

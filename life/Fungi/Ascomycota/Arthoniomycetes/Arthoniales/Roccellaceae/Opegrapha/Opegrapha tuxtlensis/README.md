@@ -1,5 +1,4 @@
-Opegrapha tuxtlensis Herrera-Camp. & Lücking SPECIES
-=======
+# Opegrapha tuxtlensis Herrera-Camp. & Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma nigrellum (Quél.) Noordel. SPECIES
-=======
+# Entoloma nigrellum (Quél.) Noordel. SPECIES
 
 #### Status
 ACCEPTED

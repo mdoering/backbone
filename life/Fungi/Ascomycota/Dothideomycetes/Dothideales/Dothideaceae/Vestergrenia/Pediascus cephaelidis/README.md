@@ -1,5 +1,4 @@
-Pediascus cephaelidis Chardón & Toro SPECIES
-=======
+# Pediascus cephaelidis Chardón & Toro SPECIES
 
 #### Status
 ACCEPTED

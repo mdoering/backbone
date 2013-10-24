@@ -1,5 +1,4 @@
-Hygrophorus puellaris Hongo SPECIES
-=======
+# Hygrophorus puellaris Hongo SPECIES
 
 #### Status
 ACCEPTED

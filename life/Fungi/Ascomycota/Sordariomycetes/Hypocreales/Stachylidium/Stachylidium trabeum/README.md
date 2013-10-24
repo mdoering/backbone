@@ -1,5 +1,4 @@
-Stachylidium trabeum Berk. & Broome SPECIES
-=======
+# Stachylidium trabeum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

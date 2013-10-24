@@ -1,14 +1,13 @@
-Acarospora intricata H. Magn. SPECIES
-=======
+# Timdalia intricata (H. Magn.) Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Stapfia 76: 159 (2001)
 
 #### Original name
 Acarospora intricata H. Magn.

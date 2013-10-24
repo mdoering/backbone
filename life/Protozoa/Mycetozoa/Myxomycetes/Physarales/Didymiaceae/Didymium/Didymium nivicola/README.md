@@ -1,5 +1,4 @@
-Didymium nivicola Meyl. SPECIES
-=======
+# Didymium nivicola Meyl. SPECIES
 
 #### Status
 ACCEPTED

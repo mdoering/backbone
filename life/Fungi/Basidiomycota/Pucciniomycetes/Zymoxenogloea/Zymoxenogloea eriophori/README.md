@@ -1,5 +1,4 @@
-Zymoxenogloea eriophori D.J. McLaughlin & Doublés, 1992 SPECIES
-=======
+# Zymoxenogloea eriophori D.J. McLaughlin & Doublés, 1992 SPECIES
 
 #### Status
 ACCEPTED

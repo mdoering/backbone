@@ -1,5 +1,4 @@
-Catillaria italica B. de Lesd. SPECIES
-=======
+# Catillaria italica B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea norrliniana Hue SPECIES
-=======
+# Lecidea norrliniana Hue SPECIES
 
 #### Status
 ACCEPTED

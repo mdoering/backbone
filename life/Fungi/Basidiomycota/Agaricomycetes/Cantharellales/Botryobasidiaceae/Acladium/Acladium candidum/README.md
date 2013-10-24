@@ -1,5 +1,4 @@
-Acladium candidum Maubl. SPECIES
-=======
+# Acladium candidum Maubl. SPECIES
 
 #### Status
 ACCEPTED

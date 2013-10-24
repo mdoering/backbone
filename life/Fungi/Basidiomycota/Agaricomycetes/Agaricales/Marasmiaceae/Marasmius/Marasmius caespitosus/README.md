@@ -1,5 +1,4 @@
-Marasmius caespitosus Peck SPECIES
-=======
+# Marasmius caespitosus Peck SPECIES
 
 #### Status
 ACCEPTED

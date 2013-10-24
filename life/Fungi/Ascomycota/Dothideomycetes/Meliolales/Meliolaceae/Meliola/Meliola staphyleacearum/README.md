@@ -1,5 +1,4 @@
-Meliola staphyleacearum Hosag. SPECIES
-=======
+# Meliola staphyleacearum Hosag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psorothecium segregata (Nyl.) Hasse SPECIES
-=======
+# Psorothecium segregata (Nyl.) Hasse SPECIES
 
 #### Status
 ACCEPTED

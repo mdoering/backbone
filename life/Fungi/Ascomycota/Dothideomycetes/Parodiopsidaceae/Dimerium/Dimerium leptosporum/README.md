@@ -1,5 +1,4 @@
-Dimerium leptosporum Speg. SPECIES
-=======
+# Dimerium leptosporum Speg. SPECIES
 
 #### Status
 ACCEPTED

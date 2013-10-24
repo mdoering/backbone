@@ -1,5 +1,4 @@
-Sphinctrina leucophaea Müll. Arg. SPECIES
-=======
+# Sphinctrina leucophaea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

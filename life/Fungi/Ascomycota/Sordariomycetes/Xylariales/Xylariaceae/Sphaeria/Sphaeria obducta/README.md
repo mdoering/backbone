@@ -1,5 +1,4 @@
-Sphaeria obducta Bolton SPECIES
-=======
+# Sphaeria obducta Bolton SPECIES
 
 #### Status
 ACCEPTED

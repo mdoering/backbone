@@ -1,5 +1,4 @@
-Cytosporina brunnea Sacc. SPECIES
-=======
+# Cytosporina brunnea Sacc. SPECIES
 
 #### Status
 ACCEPTED

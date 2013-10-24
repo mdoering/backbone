@@ -1,5 +1,4 @@
-Biatora franciscana Tuck. SPECIES
-=======
+# Biatora franciscana Tuck. SPECIES
 
 #### Status
 ACCEPTED

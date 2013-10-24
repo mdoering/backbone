@@ -1,5 +1,4 @@
-Collemopsis leprosa (Anzi) Nyl. SPECIES
-=======
+# Collemopsis leprosa (Anzi) Nyl. SPECIES
 
 #### Status
 ACCEPTED

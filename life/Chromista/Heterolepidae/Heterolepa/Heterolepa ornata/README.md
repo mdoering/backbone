@@ -1,5 +1,4 @@
-Heterolepa ornata (Cushman, 1921) SPECIES
-=======
+# Heterolepa ornata (Cushman, 1921) SPECIES
 
 #### Status
 ACCEPTED

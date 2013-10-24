@@ -1,5 +1,4 @@
-Sphacelotheca furcata Maire SPECIES
-=======
+# Sphacelotheca furcata Maire SPECIES
 
 #### Status
 ACCEPTED

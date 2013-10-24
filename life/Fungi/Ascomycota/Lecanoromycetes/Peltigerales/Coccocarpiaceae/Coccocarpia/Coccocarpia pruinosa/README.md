@@ -1,5 +1,4 @@
-Coccocarpia pruinosa Arv. SPECIES
-=======
+# Coccocarpia pruinosa Arv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria intercellularis Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria intercellularis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

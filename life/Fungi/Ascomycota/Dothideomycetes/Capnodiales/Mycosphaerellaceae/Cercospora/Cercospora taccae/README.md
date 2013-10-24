@@ -1,5 +1,4 @@
-Cercospora taccae (Syd. & P. Syd.) Chupp, 1954 SPECIES
-=======
+# Cercospora taccae (Syd. & P. Syd.) Chupp, 1954 SPECIES
 
 #### Status
 ACCEPTED

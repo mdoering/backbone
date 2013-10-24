@@ -1,5 +1,4 @@
-Sphaeria consessa Cooke & Ellis SPECIES
-=======
+# Sphaeria consessa Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

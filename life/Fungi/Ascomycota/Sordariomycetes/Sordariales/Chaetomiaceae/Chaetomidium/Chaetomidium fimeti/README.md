@@ -1,14 +1,13 @@
-Chaetomium fimeti Fuckel, 1870 SPECIES
-=======
+# Chaetomidium fimeti (Fuckel) Zopf, 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 39 (1870)
+Syll. fung. (Abellini) 1: 39 (1882)
 
 #### Original name
 Chaetomium fimeti Fuckel, 1870

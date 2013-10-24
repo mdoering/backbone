@@ -1,5 +1,4 @@
-Coleps niger Lepsi, 1962 SPECIES
-=======
+# Coleps niger Lepsi, 1962 SPECIES
 
 #### Status
 ACCEPTED

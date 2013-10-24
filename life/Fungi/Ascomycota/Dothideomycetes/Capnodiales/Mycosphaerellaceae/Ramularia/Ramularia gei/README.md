@@ -1,14 +1,13 @@
-Ovularia gei A.G. Eliasson, 1897 SPECIES
-=======
+# Ramularia gei (A.G. Eliasson) Lindr., 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hist. stirp. Helv. 22: 18 (1897)
+Annls mycol. 2(1): 57 (1904)
 
 #### Original name
 Ovularia gei A.G. Eliasson, 1897

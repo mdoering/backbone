@@ -1,5 +1,4 @@
-Lycoperdon acariforme Sowerby SPECIES
-=======
+# Lycoperdon acariforme Sowerby SPECIES
 
 #### Status
 ACCEPTED

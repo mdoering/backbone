@@ -1,5 +1,4 @@
-Camarosporium phlomidis Petr. SPECIES
-=======
+# Camarosporium phlomidis Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gonyaulax areolata Kofoid & Michener, 1911 SPECIES
-=======
+# Gonyaulax areolata Kofoid & Michener, 1911 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius flavifolius Peck SPECIES
-=======
+# Cortinarius flavifolius Peck SPECIES
 
 #### Status
 ACCEPTED

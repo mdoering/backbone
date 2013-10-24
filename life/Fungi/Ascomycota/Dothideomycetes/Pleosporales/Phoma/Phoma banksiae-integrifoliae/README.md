@@ -1,5 +1,4 @@
-Phoma banksiae-integrifoliae B. Sutton SPECIES
-=======
+# Phoma banksiae-integrifoliae B. Sutton SPECIES
 
 #### Status
 ACCEPTED

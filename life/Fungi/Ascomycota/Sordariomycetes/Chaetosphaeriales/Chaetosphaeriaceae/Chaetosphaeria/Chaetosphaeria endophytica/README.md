@@ -1,5 +1,4 @@
-Chaetosphaeria endophytica Petrini & Dreyfuss, 1981 SPECIES
-=======
+# Chaetosphaeria endophytica Petrini & Dreyfuss, 1981 SPECIES
 
 #### Status
 ACCEPTED

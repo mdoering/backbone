@@ -1,5 +1,4 @@
-Pertusaria plethocarpa A.W. Archer, Elix & Streimann SPECIES
-=======
+# Pertusaria plethocarpa A.W. Archer, Elix & Streimann SPECIES
 
 #### Status
 ACCEPTED

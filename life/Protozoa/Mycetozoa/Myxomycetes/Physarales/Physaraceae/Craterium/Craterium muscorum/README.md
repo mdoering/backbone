@@ -1,14 +1,13 @@
-Badhamia rubiginosa var. globosa Lister & G. Lister VARIETY
-=======
+# Craterium muscorum Ing, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. , London 42: 130 (1904)
+Trans. Br. mycol. Soc. 78(3): 443 (1982)
 
 #### Original name
 Badhamia rubiginosa var. globosa Lister & G. Lister

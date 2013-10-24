@@ -1,5 +1,4 @@
-Gracilistilbella Seifert GENUS
-=======
+# Gracilistilbella Seifert GENUS
 
 #### Status
 ACCEPTED

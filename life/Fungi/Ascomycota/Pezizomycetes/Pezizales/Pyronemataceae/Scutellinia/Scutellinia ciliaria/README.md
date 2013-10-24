@@ -1,5 +1,4 @@
-Scutellinia ciliaria anon. SPECIES
-=======
+# Scutellinia ciliaria anon. SPECIES
 
 #### Status
 ACCEPTED

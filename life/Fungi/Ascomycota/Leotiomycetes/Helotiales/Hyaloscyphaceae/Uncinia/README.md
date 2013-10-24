@@ -1,5 +1,4 @@
-Uncinia GENUS
-=======
+# Uncinia GENUS
 
 #### Status
 ACCEPTED

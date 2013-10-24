@@ -1,5 +1,4 @@
-Aulosira Kirchner Ex Bor. & Flah., 1888 GENUS
-=======
+# Aulosira Kirchner Ex Bor. & Flah., 1888 GENUS
 
 #### Status
 ACCEPTED

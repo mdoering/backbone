@@ -1,5 +1,4 @@
-Elaeomyxa Hagelst. GENUS
-=======
+# Elaeomyxa Hagelst. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoblastus coniophorus (Elix & A. W. Archer) Kantvilas & Elix SPECIES
-=======
+# Mycoblastus coniophorus (Elix & A. W. Archer) Kantvilas & Elix SPECIES
 
 #### Status
 ACCEPTED

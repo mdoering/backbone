@@ -1,5 +1,4 @@
-Thelotrema bahianum var. bahianum VARIETY
-=======
+# Thelotrema bahianum Fée SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Thelotrema bahianum var. bahianum
+Thelotrema bahianum Fée
 
 ### Remarks
 null

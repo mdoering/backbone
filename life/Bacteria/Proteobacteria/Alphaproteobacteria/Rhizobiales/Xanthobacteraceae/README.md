@@ -1,5 +1,4 @@
-Xanthobacteraceae FAMILY
-=======
+# Xanthobacteraceae FAMILY
 
 #### Status
 ACCEPTED

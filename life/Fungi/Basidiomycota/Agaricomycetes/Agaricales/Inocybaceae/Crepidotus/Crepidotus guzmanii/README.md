@@ -1,5 +1,4 @@
-Crepidotus guzmanii Singer SPECIES
-=======
+# Crepidotus guzmanii Singer SPECIES
 
 #### Status
 ACCEPTED

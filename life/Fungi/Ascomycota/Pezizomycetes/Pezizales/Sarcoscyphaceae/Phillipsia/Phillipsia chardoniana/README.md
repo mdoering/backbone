@@ -1,5 +1,4 @@
-Phillipsia chardoniana Seaver SPECIES
-=======
+# Phillipsia chardoniana Seaver SPECIES
 
 #### Status
 ACCEPTED

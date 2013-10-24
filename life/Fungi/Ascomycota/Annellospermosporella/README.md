@@ -1,5 +1,4 @@
-Annellospermosporella P.R. Johnst. GENUS
-=======
+# Annellospermosporella P.R. Johnst. GENUS
 
 #### Status
 ACCEPTED

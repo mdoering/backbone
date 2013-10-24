@@ -1,14 +1,13 @@
-Phlyctochytrium biporosum Couch, 1932 SPECIES
-=======
+# Rhizophydium biporosum (Couch) D.J.S. Barr, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Elisha Mitchell scient. Soc. 47: 254 (1932)
+Can. J. Bot. 51(5): 969 (1973)
 
 #### Original name
 Phlyctochytrium biporosum Couch, 1932

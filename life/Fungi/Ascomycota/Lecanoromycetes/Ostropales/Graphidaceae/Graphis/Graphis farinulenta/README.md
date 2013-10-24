@@ -1,5 +1,4 @@
-Graphis farinulenta Müll. Arg. SPECIES
-=======
+# Graphis farinulenta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

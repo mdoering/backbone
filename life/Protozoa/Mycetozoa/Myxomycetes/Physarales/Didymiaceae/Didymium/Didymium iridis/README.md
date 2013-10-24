@@ -1,17 +1,16 @@
-Didymium nigripes var. xanthopus (Fr.) Lister VARIETY
-=======
+# Didymium iridis (Ditmar) Fr., 1829 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Mycetozoa (London) 98 (1894)
+Syst. mycol. (Lundae) 3(1): 120 (1829)
 
 #### Original name
-Didymium xanthopus (Ditmar) Fr., 1829
+Cionium iridis Ditmar, 1813
 
 ### Remarks
 null

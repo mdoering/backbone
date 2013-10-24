@@ -1,5 +1,4 @@
-Diaporthe japonica Sacc. SPECIES
-=======
+# Diaporthe japonica Sacc. SPECIES
 
 #### Status
 ACCEPTED

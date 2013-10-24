@@ -1,5 +1,4 @@
-Pezizella callunae Velen. SPECIES
-=======
+# Pezizella callunae Velen. SPECIES
 
 #### Status
 ACCEPTED

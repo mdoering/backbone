@@ -1,5 +1,4 @@
-Lecidea spodophana Nyl. SPECIES
-=======
+# Lecidea spodophana Nyl. SPECIES
 
 #### Status
 ACCEPTED

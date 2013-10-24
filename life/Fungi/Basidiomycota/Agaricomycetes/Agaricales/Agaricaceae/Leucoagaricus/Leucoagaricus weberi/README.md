@@ -1,5 +1,4 @@
-Leucoagaricus weberi J.J. Muchovej, Della Lucia & R.M.C. Muchovej SPECIES
-=======
+# Leucoagaricus weberi J.J. Muchovej, Della Lucia & R.M.C. Muchovej SPECIES
 
 #### Status
 ACCEPTED

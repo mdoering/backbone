@@ -1,5 +1,4 @@
-Buliminella subfusiformis SPECIES
-=======
+# Buliminella subfusiformis SPECIES
 
 #### Status
 ACCEPTED

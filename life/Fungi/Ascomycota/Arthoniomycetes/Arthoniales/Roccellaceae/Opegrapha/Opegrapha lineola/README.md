@@ -1,5 +1,4 @@
-Opegrapha lineola (Chevall.) Mathieu SPECIES
-=======
+# Opegrapha lineola (Chevall.) Mathieu SPECIES
 
 #### Status
 ACCEPTED

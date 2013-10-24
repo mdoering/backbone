@@ -1,14 +1,13 @@
-Periconia velutina G. Winter SPECIES
-=======
+# Periconiella velutina (G. Winter) Sacc., 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Miscell. mycol. 2: 17 (1884)
 
 #### Original name
 Periconia velutina G. Winter

@@ -1,5 +1,4 @@
-Russula nuragica f. nuragica FORM
-=======
+# Russula nuragica Sarnari SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Boll. Gruppo Micol. 'G. Bresadola' (Trento) 29(1-2): 16 (1986)
 
 #### Original name
-Russula nuragica f. nuragica
+Russula nuragica Sarnari
 
 ### Remarks
 null

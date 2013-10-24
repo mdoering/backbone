@@ -1,5 +1,4 @@
-Sagenidium Stirt. GENUS
-=======
+# Sagenidium Stirt. GENUS
 
 #### Status
 ACCEPTED

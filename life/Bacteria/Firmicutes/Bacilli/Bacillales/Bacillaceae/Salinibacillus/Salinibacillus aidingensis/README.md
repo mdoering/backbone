@@ -1,5 +1,4 @@
-Salinibacillus aidingensis Ren & Zhou, 2005 SPECIES
-=======
+# Salinibacillus aidingensis Ren & Zhou, 2005 SPECIES
 
 #### Status
 ACCEPTED

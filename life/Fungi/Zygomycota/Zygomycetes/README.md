@@ -1,5 +1,4 @@
-Zygomycetes G. Winter CLASS
-=======
+# Zygomycetes G. Winter CLASS
 
 #### Status
 ACCEPTED

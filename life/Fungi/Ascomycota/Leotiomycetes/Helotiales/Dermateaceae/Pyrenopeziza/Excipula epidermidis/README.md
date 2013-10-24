@@ -1,5 +1,4 @@
-Excipula epidermidis Schwein. SPECIES
-=======
+# Excipula epidermidis Schwein. SPECIES
 
 #### Status
 ACCEPTED

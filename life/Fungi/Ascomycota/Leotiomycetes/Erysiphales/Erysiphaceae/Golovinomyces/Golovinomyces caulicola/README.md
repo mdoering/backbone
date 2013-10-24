@@ -1,5 +1,4 @@
-Golovinomyces caulicola (Cif. & Bat.) U. Braun SPECIES
-=======
+# Golovinomyces caulicola (Cif. & Bat.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

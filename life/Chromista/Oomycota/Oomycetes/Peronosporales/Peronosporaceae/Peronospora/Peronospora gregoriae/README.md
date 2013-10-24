@@ -1,5 +1,4 @@
-Peronospora gregoriae S. Blumer SPECIES
-=======
+# Peronospora gregoriae S. Blumer SPECIES
 
 #### Status
 ACCEPTED

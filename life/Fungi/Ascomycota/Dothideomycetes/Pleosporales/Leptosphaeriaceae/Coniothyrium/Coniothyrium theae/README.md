@@ -1,5 +1,4 @@
-Coniothyrium theae Petch SPECIES
-=======
+# Coniothyrium theae Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bapalmuia halleana Sérus. SPECIES
-=======
+# Bapalmuia halleana Sérus. SPECIES
 
 #### Status
 ACCEPTED

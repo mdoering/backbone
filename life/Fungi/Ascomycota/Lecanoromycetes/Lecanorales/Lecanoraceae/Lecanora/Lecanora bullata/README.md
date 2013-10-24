@@ -1,5 +1,4 @@
-Lecanora bullata (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecanora bullata (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

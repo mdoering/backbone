@@ -1,8 +1,7 @@
-Tryblidiella mandanaoënsis Henn. SPECIES
-=======
+# Tryblidiella mindanaoënsis Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tryblidiella mandanaoënsis Henn.
+Tryblidiella mindanaoënsis Henn.
 
 ### Remarks
 null

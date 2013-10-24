@@ -1,5 +1,4 @@
-Mycosphaerella fennica (P. Karst.) Tomilin SPECIES
-=======
+# Mycosphaerella fennica (P. Karst.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

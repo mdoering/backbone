@@ -1,5 +1,4 @@
-Lecanora desquamescens Fée SPECIES
-=======
+# Lecanora desquamescens Fée SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria constricta Fr. SPECIES
-=======
+# Sphaeria constricta Fr. SPECIES
 
 #### Status
 ACCEPTED

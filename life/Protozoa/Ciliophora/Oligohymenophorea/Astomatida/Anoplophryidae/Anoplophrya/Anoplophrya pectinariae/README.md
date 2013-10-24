@@ -1,5 +1,4 @@
-Anoplophrya pectinariae SPECIES
-=======
+# Anoplophrya pectinariae SPECIES
 
 #### Status
 ACCEPTED

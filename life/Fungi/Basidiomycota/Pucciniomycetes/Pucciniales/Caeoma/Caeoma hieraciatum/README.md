@@ -1,5 +1,4 @@
-Caeoma hieraciatum Schwein. SPECIES
-=======
+# Caeoma hieraciatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

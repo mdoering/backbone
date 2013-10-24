@@ -1,5 +1,4 @@
-Sclerotinia bryophila Kirschst. SPECIES
-=======
+# Sclerotinia bryophila Kirschst. SPECIES
 
 #### Status
 ACCEPTED

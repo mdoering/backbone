@@ -1,5 +1,4 @@
-Calothyrium goiasense Bat. & Cavalc. SPECIES
-=======
+# Calothyrium goiasense Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

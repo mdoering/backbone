@@ -1,5 +1,4 @@
-Usnea staufferi Motyka SPECIES
-=======
+# Usnea staufferi Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula michiganensis Shaffer SPECIES
-=======
+# Russula michiganensis Shaffer SPECIES
 
 #### Status
 ACCEPTED

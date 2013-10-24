@@ -1,5 +1,4 @@
-Pseudopyrenula ochroleuca (Eschw.) Vain. SPECIES
-=======
+# Pseudopyrenula ochroleuca (Eschw.) Vain. SPECIES
 
 #### Status
 ACCEPTED

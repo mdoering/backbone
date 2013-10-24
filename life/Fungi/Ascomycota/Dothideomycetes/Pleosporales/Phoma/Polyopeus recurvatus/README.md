@@ -1,5 +1,4 @@
-Polyopeus recurvatus A.S. Horne, 1920 SPECIES
-=======
+# Polyopeus recurvatus A.S. Horne, 1920 SPECIES
 
 #### Status
 ACCEPTED

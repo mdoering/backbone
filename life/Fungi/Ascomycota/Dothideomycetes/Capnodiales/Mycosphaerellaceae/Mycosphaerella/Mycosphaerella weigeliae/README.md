@@ -1,5 +1,4 @@
-Mycosphaerella weigeliae Fairm. SPECIES
-=======
+# Mycosphaerella weigeliae Fairm. SPECIES
 
 #### Status
 ACCEPTED

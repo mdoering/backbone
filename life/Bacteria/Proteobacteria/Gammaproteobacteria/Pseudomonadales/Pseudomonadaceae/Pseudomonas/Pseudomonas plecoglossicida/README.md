@@ -1,5 +1,4 @@
-Pseudomonas plecoglossicida Nishimori et al., 2000 SPECIES
-=======
+# Pseudomonas plecoglossicida Nishimori et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

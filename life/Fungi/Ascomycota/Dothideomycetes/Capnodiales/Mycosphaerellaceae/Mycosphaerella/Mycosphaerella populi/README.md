@@ -1,17 +1,16 @@
-Sphaerella populi f. populi FORM
-=======
+# Mycosphaerella populi (Auersw.) J. Schröt., 1894 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 2(3): 336 (1894)
 
 #### Original name
-null
+Sphaerella populi Auersw., 1869
 
 ### Remarks
 null

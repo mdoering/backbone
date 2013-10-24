@@ -1,5 +1,4 @@
-Lyphyllum ulmarium (Fr.) Kühn SPECIES
-=======
+# Lyphyllum ulmarium (Fr.) Kühn SPECIES
 
 #### Status
 ACCEPTED

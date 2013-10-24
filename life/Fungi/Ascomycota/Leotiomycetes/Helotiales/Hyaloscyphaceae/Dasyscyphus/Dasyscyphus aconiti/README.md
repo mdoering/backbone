@@ -1,5 +1,4 @@
-Dasyscyphus aconiti (Rehm) Dennis SPECIES
-=======
+# Dasyscyphus aconiti (Rehm) Dennis SPECIES
 
 #### Status
 ACCEPTED

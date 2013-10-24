@@ -1,5 +1,4 @@
-Uromyces columbianus Mayor SPECIES
-=======
+# Uromyces columbianus Mayor SPECIES
 
 #### Status
 ACCEPTED

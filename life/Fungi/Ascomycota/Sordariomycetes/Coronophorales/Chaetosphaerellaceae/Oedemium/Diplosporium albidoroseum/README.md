@@ -1,5 +1,4 @@
-Diplosporium albidoroseum P. Karst. SPECIES
-=======
+# Diplosporium albidoroseum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

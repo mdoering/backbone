@@ -1,5 +1,4 @@
-Metasphaeria cerastii Gucevic SPECIES
-=======
+# Metasphaeria cerastii Gucevic SPECIES
 
 #### Status
 ACCEPTED

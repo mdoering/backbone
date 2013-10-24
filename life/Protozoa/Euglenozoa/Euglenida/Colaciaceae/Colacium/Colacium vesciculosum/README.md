@@ -1,5 +1,4 @@
-Colacium vesciculosum SPECIES
-=======
+# Colacium vesciculosum SPECIES
 
 #### Status
 ACCEPTED

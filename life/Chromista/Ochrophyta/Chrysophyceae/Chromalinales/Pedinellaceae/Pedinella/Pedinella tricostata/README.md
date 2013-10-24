@@ -1,5 +1,4 @@
-Pedinella tricostata M.I. Roukhiyajnen SPECIES
-=======
+# Pedinella tricostata M.I. Roukhiyajnen SPECIES
 
 #### Status
 ACCEPTED

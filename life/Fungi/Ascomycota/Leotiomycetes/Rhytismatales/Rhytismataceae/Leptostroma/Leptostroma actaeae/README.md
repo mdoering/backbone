@@ -1,5 +1,4 @@
-Leptostroma actaeae (Schwein.) Schwein. SPECIES
-=======
+# Leptostroma actaeae (Schwein.) Schwein. SPECIES
 
 #### Status
 ACCEPTED

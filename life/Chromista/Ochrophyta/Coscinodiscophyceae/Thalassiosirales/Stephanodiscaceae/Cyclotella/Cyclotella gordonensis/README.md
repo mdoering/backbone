@@ -1,5 +1,4 @@
-Cyclotella gordonensis Kling & Hakansson SPECIES
-=======
+# Cyclotella gordonensis Kling & Hakansson SPECIES
 
 #### Status
 ACCEPTED

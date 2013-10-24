@@ -1,5 +1,4 @@
-Pseudocercospora contraria (Syd. & P. Syd.) Deighton SPECIES
-=======
+# Pseudocercospora contraria (Syd. & P. Syd.) Deighton SPECIES
 
 #### Status
 ACCEPTED

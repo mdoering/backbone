@@ -1,5 +1,4 @@
-Didymella senegalensis Speg. SPECIES
-=======
+# Didymella senegalensis Speg. SPECIES
 
 #### Status
 ACCEPTED

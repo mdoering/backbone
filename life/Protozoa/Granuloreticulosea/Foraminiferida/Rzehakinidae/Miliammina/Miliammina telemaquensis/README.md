@@ -1,5 +1,4 @@
-Miliammina telemaquensis Saunders, 1958 SPECIES
-=======
+# Miliammina telemaquensis Saunders, 1958 SPECIES
 
 #### Status
 ACCEPTED

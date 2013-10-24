@@ -1,5 +1,4 @@
-Buellia geminata (Nyl.) Mong. SPECIES
-=======
+# Buellia geminata (Nyl.) Mong. SPECIES
 
 #### Status
 ACCEPTED

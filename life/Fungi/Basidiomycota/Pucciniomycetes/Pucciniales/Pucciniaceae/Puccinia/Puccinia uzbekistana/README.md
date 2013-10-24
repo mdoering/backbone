@@ -1,5 +1,4 @@
-Puccinia uzbekistana Gjaerum SPECIES
-=======
+# Puccinia uzbekistana Gjaerum SPECIES
 
 #### Status
 ACCEPTED

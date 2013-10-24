@@ -1,5 +1,4 @@
-Tetrachia singularis Sacc. SPECIES
-=======
+# Tetrachia singularis Sacc. SPECIES
 
 #### Status
 ACCEPTED

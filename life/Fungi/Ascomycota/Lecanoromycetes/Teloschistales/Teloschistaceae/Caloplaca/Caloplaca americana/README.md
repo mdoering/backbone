@@ -1,5 +1,4 @@
-Caloplaca americana (Malme) Zahlbr. SPECIES
-=======
+# Caloplaca americana (Malme) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

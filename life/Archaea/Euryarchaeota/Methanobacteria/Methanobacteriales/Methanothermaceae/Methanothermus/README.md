@@ -1,5 +1,4 @@
-Methanothermus Stetter, Thomm, Winter, Wildgruber, Huber, Zillig, Jane-Covic, Konig, Palm & Wunderl GENUS
-=======
+# Methanothermus Stetter, Thomm, Winter, Wildgruber, Huber, Zillig, Jane-Covic, Konig, Palm & Wunderl GENUS
 
 #### Status
 ACCEPTED

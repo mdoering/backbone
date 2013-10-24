@@ -1,5 +1,4 @@
-Hyperammina distorta SPECIES
-=======
+# Hyperammina distorta SPECIES
 
 #### Status
 ACCEPTED

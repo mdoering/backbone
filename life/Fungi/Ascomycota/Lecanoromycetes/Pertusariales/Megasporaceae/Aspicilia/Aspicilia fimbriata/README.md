@@ -1,5 +1,4 @@
-Aspicilia fimbriata (H. Magn.) Oxner SPECIES
-=======
+# Aspicilia fimbriata (H. Magn.) Oxner SPECIES
 
 #### Status
 ACCEPTED

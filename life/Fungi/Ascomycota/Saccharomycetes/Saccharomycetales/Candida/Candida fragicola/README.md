@@ -1,5 +1,4 @@
-Candida fragicola Nakase SPECIES
-=======
+# Candida fragicola Nakase SPECIES
 
 #### Status
 ACCEPTED

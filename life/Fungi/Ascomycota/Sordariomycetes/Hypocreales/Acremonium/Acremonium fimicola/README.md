@@ -1,5 +1,4 @@
-Acremonium fimicola Massee & E.S. Salmon SPECIES
-=======
+# Acremonium fimicola Massee & E.S. Salmon SPECIES
 
 #### Status
 ACCEPTED

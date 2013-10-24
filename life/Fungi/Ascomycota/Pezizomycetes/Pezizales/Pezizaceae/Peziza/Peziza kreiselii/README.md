@@ -1,5 +1,4 @@
-Peziza kreiselii G. Hirsch SPECIES
-=======
+# Peziza kreiselii G. Hirsch SPECIES
 
 #### Status
 ACCEPTED

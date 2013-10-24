@@ -1,5 +1,4 @@
-Pistillaria favosa F. Brig. SPECIES
-=======
+# Pistillaria favosa F. Brig. SPECIES
 
 #### Status
 ACCEPTED

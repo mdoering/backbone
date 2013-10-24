@@ -1,5 +1,4 @@
-Ramalina sideriza Zahlbr. SPECIES
-=======
+# Ramalina sideriza Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

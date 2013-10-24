@@ -1,5 +1,4 @@
-Diplodina idaei (Oudem.) Allesch. SPECIES
-=======
+# Diplodina idaei (Oudem.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

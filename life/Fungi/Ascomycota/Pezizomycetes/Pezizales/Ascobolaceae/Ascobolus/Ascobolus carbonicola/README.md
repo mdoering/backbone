@@ -1,5 +1,4 @@
-Ascobolus carbonicola Boud. SPECIES
-=======
+# Ascobolus carbonicola Boud. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyrodinium ovoideum Kofoid & Swezy, 1921 SPECIES
-=======
+# Gyrodinium ovoideum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

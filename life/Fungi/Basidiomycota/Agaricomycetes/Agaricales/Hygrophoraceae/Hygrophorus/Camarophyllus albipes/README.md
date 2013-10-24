@@ -1,5 +1,4 @@
-Camarophyllus albipes (Peck) Murrill SPECIES
-=======
+# Camarophyllus albipes (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

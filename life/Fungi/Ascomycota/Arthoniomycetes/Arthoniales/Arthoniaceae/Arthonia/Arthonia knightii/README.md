@@ -1,5 +1,4 @@
-Arthonia knightii Zahlbr. SPECIES
-=======
+# Arthonia knightii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

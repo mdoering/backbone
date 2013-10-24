@@ -1,5 +1,4 @@
-Marasmius myrciae (Pat.) Sacc. & P. Syd. SPECIES
-=======
+# Marasmius myrciae (Pat.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

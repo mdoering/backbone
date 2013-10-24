@@ -1,5 +1,4 @@
-Marasmius hainanensis T.H. Li SPECIES
-=======
+# Marasmius hainanensis T.H. Li SPECIES
 
 #### Status
 ACCEPTED

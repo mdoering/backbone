@@ -1,5 +1,4 @@
-Sphaeria apertiuscula Schwein. SPECIES
-=======
+# Sphaeria apertiuscula Schwein. SPECIES
 
 #### Status
 ACCEPTED

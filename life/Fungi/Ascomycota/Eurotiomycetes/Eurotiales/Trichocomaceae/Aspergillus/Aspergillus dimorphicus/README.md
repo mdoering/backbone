@@ -1,5 +1,4 @@
-Aspergillus dimorphicus B.S. Mehrotra & R. Prasad, 1969 SPECIES
-=======
+# Aspergillus dimorphicus B.S. Mehrotra & R. Prasad, 1969 SPECIES
 
 #### Status
 ACCEPTED

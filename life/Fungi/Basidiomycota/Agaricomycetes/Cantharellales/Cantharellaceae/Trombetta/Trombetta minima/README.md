@@ -1,5 +1,4 @@
-Trombetta minima (Saut.) Kuntze SPECIES
-=======
+# Trombetta minima (Saut.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

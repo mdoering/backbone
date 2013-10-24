@@ -1,5 +1,4 @@
-Polycoccum clauzadei Nav.-Ros. & Cl. Roux SPECIES
-=======
+# Polycoccum clauzadei Nav.-Ros. & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gelasinospora terricola Guarro SPECIES
-=======
+# Gelasinospora terricola Guarro SPECIES
 
 #### Status
 ACCEPTED

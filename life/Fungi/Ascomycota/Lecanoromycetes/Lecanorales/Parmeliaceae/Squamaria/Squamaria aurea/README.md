@@ -1,5 +1,4 @@
-Squamaria aurea (Schaer.) H. Olivier SPECIES
-=======
+# Squamaria aurea (Schaer.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

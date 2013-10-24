@@ -1,5 +1,4 @@
-Bacillopeltis Bat. GENUS
-=======
+# Bacillopeltis Bat. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exobasidium aequale Sacc. SPECIES
-=======
+# Exobasidium aequale Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria cavernosa Ellis & Everh. SPECIES
-=======
+# Sphaeria cavernosa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

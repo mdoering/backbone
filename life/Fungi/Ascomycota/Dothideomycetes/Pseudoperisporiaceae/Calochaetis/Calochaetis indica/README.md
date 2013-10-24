@@ -1,5 +1,4 @@
-Calochaetis indica Syd. SPECIES
-=======
+# Calochaetis indica Syd. SPECIES
 
 #### Status
 ACCEPTED

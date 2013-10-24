@@ -1,5 +1,4 @@
-Sorapion simulans Kuckuck SPECIES
-=======
+# Sorapion simulans Kuckuck SPECIES
 
 #### Status
 ACCEPTED

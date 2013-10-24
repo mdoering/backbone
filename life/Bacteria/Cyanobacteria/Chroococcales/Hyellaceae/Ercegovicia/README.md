@@ -1,5 +1,4 @@
-Ercegovicia De Toni, 1936 GENUS
-=======
+# Ercegovicia De Toni, 1936 GENUS
 
 #### Status
 ACCEPTED

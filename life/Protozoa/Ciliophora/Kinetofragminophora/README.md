@@ -1,5 +1,4 @@
-Kinetofragminophora CLASS
-=======
+# Kinetofragminophora CLASS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gibbera mikaniae (Henn.) Rick & Theiss. SPECIES
-=======
+# Gibbera mikaniae (Henn.) Rick & Theiss. SPECIES
 
 #### Status
 ACCEPTED

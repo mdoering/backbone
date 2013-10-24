@@ -1,17 +1,16 @@
-Karlingia marylandica Karling, 1949 SPECIES
-=======
+# Karlingiomyces marylandicus (Karling) Sparrow, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Aquatic Phycomycetes (Ann Arbor), Edn 2 562 (1960)
 
 #### Original name
-null
+Karlingia marylandia Karling, 1949
 
 ### Remarks
 null

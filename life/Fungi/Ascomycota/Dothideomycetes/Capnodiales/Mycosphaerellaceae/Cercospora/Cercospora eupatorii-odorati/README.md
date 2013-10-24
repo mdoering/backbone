@@ -1,5 +1,4 @@
-Cercospora eupatorii-odorati J.M. Yen SPECIES
-=======
+# Cercospora eupatorii-odorati J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Krombholziella brunneobadia (J. Blum) Bon SPECIES
-=======
+# Krombholziella brunneobadia (J. Blum) Bon SPECIES
 
 #### Status
 ACCEPTED

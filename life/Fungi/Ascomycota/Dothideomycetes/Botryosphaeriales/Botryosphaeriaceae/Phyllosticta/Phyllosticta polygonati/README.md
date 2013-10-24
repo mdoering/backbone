@@ -1,5 +1,4 @@
-Phyllosticta polygonati Bäumler SPECIES
-=======
+# Phyllosticta polygonati Bäumler SPECIES
 
 #### Status
 ACCEPTED

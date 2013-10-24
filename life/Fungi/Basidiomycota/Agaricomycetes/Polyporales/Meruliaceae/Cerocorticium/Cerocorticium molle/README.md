@@ -1,17 +1,16 @@
-Terana armeniaca (Sacc.) Kuntze, 1891 SPECIES
-=======
+# Cerocorticium molle (Berk. & M.A. Curtis) Jülich, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 872 (1891)
+Persoonia 8(2): 219 (1975)
 
 #### Original name
-Corticium armeniacum Sacc., 1888
+Corticium molle Berk. & M.A. Curtis, 1868
 
 ### Remarks
 null

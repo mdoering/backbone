@@ -1,5 +1,4 @@
-Polyporus myclodes Kalchbr. SPECIES
-=======
+# Polyporus myclodes Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizomorpha intestinalis Pers. SPECIES
-=======
+# Rhizomorpha intestinalis Pers. SPECIES
 
 #### Status
 DOUBTFUL

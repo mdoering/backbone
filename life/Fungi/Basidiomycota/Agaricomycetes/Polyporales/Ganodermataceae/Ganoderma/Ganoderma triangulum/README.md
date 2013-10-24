@@ -1,5 +1,4 @@
-Ganoderma triangulum J.D. Zhao & L.W. Hsu, 1984 SPECIES
-=======
+# Ganoderma triangulum J.D. Zhao & L.W. Hsu, 1984 SPECIES
 
 #### Status
 ACCEPTED

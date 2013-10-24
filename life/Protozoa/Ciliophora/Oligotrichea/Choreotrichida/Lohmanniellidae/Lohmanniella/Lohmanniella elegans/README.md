@@ -1,5 +1,4 @@
-Lohmanniella elegans Wulff, 1919 SPECIES
-=======
+# Lohmanniella elegans Wulff, 1919 SPECIES
 
 #### Status
 ACCEPTED

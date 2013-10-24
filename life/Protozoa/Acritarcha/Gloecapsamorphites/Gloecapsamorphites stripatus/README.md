@@ -1,5 +1,4 @@
-Gloecapsamorphites stripatus Ouyang Shu et al., 1974 SPECIES
-=======
+# Gloecapsamorphites stripatus Ouyang Shu et al., 1974 SPECIES
 
 #### Status
 ACCEPTED

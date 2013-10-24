@@ -1,5 +1,4 @@
-Diaporthe teucrii Feltgen SPECIES
-=======
+# Diaporthe teucrii Feltgen SPECIES
 
 #### Status
 ACCEPTED

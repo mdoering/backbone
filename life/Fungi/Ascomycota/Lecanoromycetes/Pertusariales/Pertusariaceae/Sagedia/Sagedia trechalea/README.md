@@ -1,5 +1,4 @@
-Sagedia trechalea (Nyl.) Arnold SPECIES
-=======
+# Sagedia trechalea (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

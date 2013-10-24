@@ -1,5 +1,4 @@
-Fusidium donacinum Thüm. SPECIES
-=======
+# Fusidium donacinum Thüm. SPECIES
 
 #### Status
 ACCEPTED

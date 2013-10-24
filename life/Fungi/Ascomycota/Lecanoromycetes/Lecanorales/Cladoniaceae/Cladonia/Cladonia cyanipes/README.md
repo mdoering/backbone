@@ -1,5 +1,4 @@
-Cladonia cyanipes (Sommerf.) Nyl. SPECIES
-=======
+# Cladonia cyanipes (Sommerf.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

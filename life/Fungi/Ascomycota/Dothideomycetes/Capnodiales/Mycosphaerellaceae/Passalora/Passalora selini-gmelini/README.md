@@ -1,5 +1,4 @@
-Passalora selini-gmelini (Sacc. & Scalia) U. Braun SPECIES
-=======
+# Passalora selini-gmelini (Sacc. & Scalia) U. Braun SPECIES
 
 #### Status
 ACCEPTED

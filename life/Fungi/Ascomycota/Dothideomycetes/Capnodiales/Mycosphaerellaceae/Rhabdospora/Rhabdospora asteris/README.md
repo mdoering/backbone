@@ -1,5 +1,4 @@
-Rhabdospora asteris Gonz. Frag. SPECIES
-=======
+# Rhabdospora asteris Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

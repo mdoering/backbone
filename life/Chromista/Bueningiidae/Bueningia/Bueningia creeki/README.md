@@ -1,5 +1,4 @@
-Bueningia creeki Finlay, 1939 SPECIES
-=======
+# Bueningia creeki Finlay, 1939 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypogymnia flavida McCune & Obermayer SPECIES
-=======
+# Hypogymnia flavida McCune & Obermayer SPECIES
 
 #### Status
 ACCEPTED

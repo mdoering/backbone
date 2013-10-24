@@ -1,5 +1,4 @@
-Pseudomycena graminea Cejp SPECIES
-=======
+# Pseudomycena graminea Cejp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endopyrenium incrassatum Müll. Arg. SPECIES
-=======
+# Endopyrenium incrassatum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

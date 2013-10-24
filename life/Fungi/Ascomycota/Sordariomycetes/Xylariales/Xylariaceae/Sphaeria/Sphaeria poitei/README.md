@@ -1,5 +1,4 @@
-Sphaeria poitei Lév. SPECIES
-=======
+# Sphaeria poitei Lév. SPECIES
 
 #### Status
 ACCEPTED

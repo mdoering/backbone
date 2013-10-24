@@ -1,5 +1,4 @@
-Sticta punctulata Nyl. SPECIES
-=======
+# Sticta punctulata Nyl. SPECIES
 
 #### Status
 ACCEPTED

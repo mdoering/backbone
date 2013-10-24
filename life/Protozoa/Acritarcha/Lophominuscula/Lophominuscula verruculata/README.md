@@ -1,5 +1,4 @@
-Lophominuscula verruculata Jankauskas in Jankauskas & Posti, 1976 SPECIES
-=======
+# Lophominuscula verruculata Jankauskas in Jankauskas & Posti, 1976 SPECIES
 
 #### Status
 ACCEPTED

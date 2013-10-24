@@ -1,5 +1,4 @@
-Leptosphaeria obesa Rehm SPECIES
-=======
+# Leptosphaeria obesa Rehm SPECIES
 
 #### Status
 ACCEPTED

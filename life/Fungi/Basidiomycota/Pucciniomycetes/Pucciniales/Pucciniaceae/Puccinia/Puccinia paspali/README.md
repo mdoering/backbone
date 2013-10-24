@@ -1,5 +1,4 @@
-Puccinia paspali Tracy & Earle SPECIES
-=======
+# Puccinia paspali Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

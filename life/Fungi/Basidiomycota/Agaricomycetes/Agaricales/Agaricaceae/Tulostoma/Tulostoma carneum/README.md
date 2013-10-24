@@ -1,5 +1,4 @@
-Tulostoma carneum var. carneum VARIETY
-=======
+# Tulostoma carneum Pat. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tulostoma carneum var. carneum
+Tulostoma carneum Pat.
 
 ### Remarks
 null

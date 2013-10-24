@@ -1,5 +1,4 @@
-Parmelia beltjensii Gyeln. SPECIES
-=======
+# Parmelia beltjensii Gyeln. SPECIES
 
 #### Status
 ACCEPTED

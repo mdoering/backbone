@@ -1,5 +1,4 @@
-Zygosphaera brytika Roth, 1970 SPECIES
-=======
+# Zygosphaera brytika Roth, 1970 SPECIES
 
 #### Status
 ACCEPTED

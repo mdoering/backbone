@@ -1,5 +1,4 @@
-Cortinarius malvaceus E. Horak SPECIES
-=======
+# Cortinarius malvaceus E. Horak SPECIES
 
 #### Status
 ACCEPTED

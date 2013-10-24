@@ -1,5 +1,4 @@
-Patellula Kozlova in Petrushevskaya & Kozlova, 1972 GENUS
-=======
+# Patellula Kozlova in Petrushevskaya & Kozlova, 1972 GENUS
 
 #### Status
 ACCEPTED

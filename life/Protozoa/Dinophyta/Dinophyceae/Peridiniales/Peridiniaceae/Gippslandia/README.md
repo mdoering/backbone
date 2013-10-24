@@ -1,5 +1,4 @@
-Gippslandia L.E. Stover & G.L. Williams, 1987 GENUS
-=======
+# Gippslandia L.E. Stover & G.L. Williams, 1987 GENUS
 
 #### Status
 ACCEPTED

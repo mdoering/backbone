@@ -1,5 +1,4 @@
-Nectria modesta Höhn., 1907 SPECIES
-=======
+# Nectria modesta Höhn., 1907 SPECIES
 
 #### Status
 ACCEPTED

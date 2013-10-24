@@ -1,5 +1,4 @@
-Agaricus rhabarbarinus Pers. SPECIES
-=======
+# Agaricus rhabarbarinus Pers. SPECIES
 
 #### Status
 ACCEPTED

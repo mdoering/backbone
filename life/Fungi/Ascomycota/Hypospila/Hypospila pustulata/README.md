@@ -1,5 +1,4 @@
-Hypospila pustulata (Pers.) P. Karst. SPECIES
-=======
+# Hypospila pustulata (Pers.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

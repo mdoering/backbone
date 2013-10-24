@@ -1,5 +1,4 @@
-Hyphospora A.W. Ramaley GENUS
-=======
+# Hyphospora A.W. Ramaley GENUS
 
 #### Status
 ACCEPTED

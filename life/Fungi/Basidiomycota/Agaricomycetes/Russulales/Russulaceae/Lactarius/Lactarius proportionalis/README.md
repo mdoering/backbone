@@ -1,5 +1,4 @@
-Lactarius proportionalis Britzelm. SPECIES
-=======
+# Lactarius proportionalis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

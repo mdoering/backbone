@@ -1,5 +1,4 @@
-Phaeoharziella heterospora Loubière SPECIES
-=======
+# Phaeoharziella heterospora Loubière SPECIES
 
 #### Status
 ACCEPTED

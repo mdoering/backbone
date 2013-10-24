@@ -1,5 +1,4 @@
-Helvella unctuosa Batsch SPECIES
-=======
+# Helvella unctuosa Batsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoria pollinarioides L. Lindblom & D.M. Wright SPECIES
-=======
+# Xanthoria pollinarioides L. Lindblom & D.M. Wright SPECIES
 
 #### Status
 ACCEPTED

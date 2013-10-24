@@ -1,5 +1,4 @@
-Asterina yoshinagai Henn. SPECIES
-=======
+# Asterina yoshinagai Henn. SPECIES
 
 #### Status
 ACCEPTED

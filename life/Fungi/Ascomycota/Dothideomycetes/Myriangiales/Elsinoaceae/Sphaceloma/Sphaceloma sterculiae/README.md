@@ -1,5 +1,4 @@
-Sphaceloma sterculiae Wani, Thirum. & M.D. Whitehead SPECIES
-=======
+# Sphaceloma sterculiae Wani, Thirum. & M.D. Whitehead SPECIES
 
 #### Status
 ACCEPTED

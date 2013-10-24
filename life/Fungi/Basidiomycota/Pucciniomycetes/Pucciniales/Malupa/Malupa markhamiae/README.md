@@ -1,5 +1,4 @@
-Malupa markhamiae (Vienn.-Bourg.) Buriticá & J.F. Hennen SPECIES
-=======
+# Malupa markhamiae (Vienn.-Bourg.) Buriticá & J.F. Hennen SPECIES
 
 #### Status
 ACCEPTED

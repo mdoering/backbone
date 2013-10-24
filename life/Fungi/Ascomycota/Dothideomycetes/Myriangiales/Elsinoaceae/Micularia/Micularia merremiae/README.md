@@ -1,5 +1,4 @@
-Micularia merremiae Boedijn, 1961 SPECIES
-=======
+# Micularia merremiae Boedijn, 1961 SPECIES
 
 #### Status
 ACCEPTED

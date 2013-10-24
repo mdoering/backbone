@@ -1,5 +1,4 @@
-Parmeliella cuprea Malme SPECIES
-=======
+# Parmeliella cuprea Malme SPECIES
 
 #### Status
 ACCEPTED

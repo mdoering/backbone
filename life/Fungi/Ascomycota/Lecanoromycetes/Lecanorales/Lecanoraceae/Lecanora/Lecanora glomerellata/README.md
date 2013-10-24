@@ -1,5 +1,4 @@
-Lecanora glomerellata Harm. SPECIES
-=======
+# Lecanora glomerellata Harm. SPECIES
 
 #### Status
 ACCEPTED

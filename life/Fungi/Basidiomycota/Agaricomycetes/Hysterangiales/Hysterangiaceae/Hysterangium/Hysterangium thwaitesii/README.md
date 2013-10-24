@@ -1,5 +1,4 @@
-Hysterangium thwaitesii Berk. & Broome, 1848 SPECIES
-=======
+# Hysterangium thwaitesii Berk. & Broome, 1848 SPECIES
 
 #### Status
 ACCEPTED

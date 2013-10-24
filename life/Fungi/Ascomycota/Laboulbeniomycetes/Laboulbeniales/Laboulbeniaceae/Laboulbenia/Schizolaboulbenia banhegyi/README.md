@@ -1,17 +1,16 @@
-Schizolaboulbenia banhegyii Middelh. SPECIES
-=======
+# Schizolaboulbenia banhegyi Middelh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fungus, Wageningen 27: (1957)
 
 #### Original name
-Schizolaboulbenia banhegyii Middelh.
+Schizolaboulbenia banhegyi Middelh.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Micromonospora mirobrigensis Trujillo et al., 2005 SPECIES
-=======
+# Micromonospora mirobrigensis Trujillo et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

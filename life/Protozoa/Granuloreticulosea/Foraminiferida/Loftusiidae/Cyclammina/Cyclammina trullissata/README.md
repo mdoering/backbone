@@ -1,5 +1,4 @@
-Cyclammina trullissata (Brady, 1879) SPECIES
-=======
+# Cyclammina trullissata (Brady, 1879) SPECIES
 
 #### Status
 ACCEPTED

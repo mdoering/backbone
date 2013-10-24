@@ -1,5 +1,4 @@
-Baculogysinoides spinosus Yabe & Hanzawa SPECIES
-=======
+# Baculogysinoides spinosus Yabe & Hanzawa SPECIES
 
 #### Status
 ACCEPTED

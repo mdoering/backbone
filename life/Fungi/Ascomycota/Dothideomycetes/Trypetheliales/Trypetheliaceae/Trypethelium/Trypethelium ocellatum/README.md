@@ -1,5 +1,4 @@
-Trypethelium ocellatum Zenker SPECIES
-=======
+# Trypethelium ocellatum Zenker SPECIES
 
 #### Status
 ACCEPTED

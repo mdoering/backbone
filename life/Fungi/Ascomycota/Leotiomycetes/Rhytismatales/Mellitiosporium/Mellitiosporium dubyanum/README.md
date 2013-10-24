@@ -1,8 +1,7 @@
-Melittosporium dubyanum Rehm SPECIES
-=======
+# Mellitiosporium dubyanum Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Melittosporium dubyanum Rehm
+Mellitiosporium dubyanum Rehm
 
 ### Remarks
 null

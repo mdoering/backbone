@@ -1,5 +1,4 @@
-Phialea uleana Rehm SPECIES
-=======
+# Phialea uleana Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusisphaeridium Turner, 1986 GENUS
-=======
+# Pertusisphaeridium Turner, 1986 GENUS
 
 #### Status
 ACCEPTED

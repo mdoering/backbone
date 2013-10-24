@@ -1,5 +1,4 @@
-Irene calophylli (F. Stevens) F. Stevens SPECIES
-=======
+# Irene calophylli (F. Stevens) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia cyperi-fastigiati Doidge SPECIES
-=======
+# Puccinia cyperi-fastigiati Doidge SPECIES
 
 #### Status
 ACCEPTED

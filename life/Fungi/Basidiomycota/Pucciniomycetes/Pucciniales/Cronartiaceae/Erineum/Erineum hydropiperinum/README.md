@@ -1,5 +1,4 @@
-Erineum hydropiperinum Schwein. SPECIES
-=======
+# Erineum hydropiperinum Schwein. SPECIES
 
 #### Status
 ACCEPTED

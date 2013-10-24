@@ -1,5 +1,4 @@
-Aecidium phyllanthi Henn. SPECIES
-=======
+# Aecidium phyllanthi Henn. SPECIES
 
 #### Status
 ACCEPTED

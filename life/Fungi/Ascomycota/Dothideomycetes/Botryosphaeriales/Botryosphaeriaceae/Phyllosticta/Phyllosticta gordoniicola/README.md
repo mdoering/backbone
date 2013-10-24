@@ -1,5 +1,4 @@
-Phyllosticta gordoniicola Sawada SPECIES
-=======
+# Phyllosticta gordoniicola Sawada SPECIES
 
 #### Status
 ACCEPTED

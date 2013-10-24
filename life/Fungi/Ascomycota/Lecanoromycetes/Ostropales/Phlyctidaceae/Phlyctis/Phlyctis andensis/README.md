@@ -1,5 +1,4 @@
-Phlyctis andensis Nyl. SPECIES
-=======
+# Phlyctis andensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

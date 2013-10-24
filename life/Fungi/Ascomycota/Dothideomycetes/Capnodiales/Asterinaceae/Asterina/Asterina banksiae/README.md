@@ -1,5 +1,4 @@
-Asterina banksiae Hansf. SPECIES
-=======
+# Asterina banksiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

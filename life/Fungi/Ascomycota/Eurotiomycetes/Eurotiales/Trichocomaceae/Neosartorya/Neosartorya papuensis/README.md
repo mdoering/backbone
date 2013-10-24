@@ -1,5 +1,4 @@
-Neosartorya papuensis Samson, Hong & Varga SPECIES
-=======
+# Neosartorya papuensis Samson, Hong & Varga SPECIES
 
 #### Status
 ACCEPTED

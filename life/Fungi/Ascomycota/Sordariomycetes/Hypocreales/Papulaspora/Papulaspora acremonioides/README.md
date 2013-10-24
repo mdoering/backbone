@@ -1,5 +1,4 @@
-Papulaspora acremonioides Harz SPECIES
-=======
+# Papulaspora acremonioides Harz SPECIES
 
 #### Status
 ACCEPTED

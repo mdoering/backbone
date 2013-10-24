@@ -1,5 +1,4 @@
-Didymella phacae Corbaz, 1955 SPECIES
-=======
+# Didymella phacae Corbaz, 1955 SPECIES
 
 #### Status
 ACCEPTED

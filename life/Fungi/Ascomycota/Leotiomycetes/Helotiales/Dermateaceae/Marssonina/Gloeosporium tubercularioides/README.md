@@ -1,5 +1,4 @@
-Gloeosporium tubercularioides Sacc. SPECIES
-=======
+# Gloeosporium tubercularioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

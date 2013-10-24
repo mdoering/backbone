@@ -1,5 +1,4 @@
-Syzygospora sorana Hauerslev, 1989 SPECIES
-=======
+# Syzygospora sorana Hauerslev, 1989 SPECIES
 
 #### Status
 ACCEPTED

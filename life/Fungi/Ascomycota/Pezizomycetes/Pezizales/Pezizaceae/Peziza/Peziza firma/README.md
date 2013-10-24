@@ -1,11 +1,10 @@
-Peziza firma subsp. firma SUBSPECIES
-=======
+# Peziza firma SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+NUB Generator [implicit canonical]
 
 #### Published in
 null

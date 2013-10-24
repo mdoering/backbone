@@ -1,17 +1,16 @@
-Leptonia reaae Maire SPECIES
-=======
+# Entoloma reae (Maire) Noordel., 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Entoloma s. l. (Saronno), Fungi Europaei vol. <b>5</b> 5: 201 (1992)
 
 #### Original name
-Leptonia reaae Maire
+Leptonia reae Maire, 1910
 
 ### Remarks
 null

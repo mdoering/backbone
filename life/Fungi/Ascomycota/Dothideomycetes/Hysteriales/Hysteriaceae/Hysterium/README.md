@@ -1,17 +1,16 @@
-Hypodermopsis Earle, 1902 GENUS
-=======
+# Hysterium Persoon, 1797 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin of the New York Botanical Garden 2: 345 (1902)
+Tent. disp. meth. fung. (Lipsiae) 5 (1797)
 
 #### Original name
-Hypodermopsis Earle, 1902
+Hysterium Persoon, 1797
 
 ### Remarks
 null

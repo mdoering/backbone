@@ -1,5 +1,4 @@
-Arthonia ochraceella Nyl. SPECIES
-=======
+# Arthonia ochraceella Nyl. SPECIES
 
 #### Status
 ACCEPTED

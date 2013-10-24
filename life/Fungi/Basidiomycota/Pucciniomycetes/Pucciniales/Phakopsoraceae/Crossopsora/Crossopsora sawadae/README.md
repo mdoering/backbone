@@ -1,5 +1,4 @@
-Crossopsora sawadae (Syd. & P. Syd.) Arthur & Cummins SPECIES
-=======
+# Crossopsora sawadae (Syd. & P. Syd.) Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

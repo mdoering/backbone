@@ -1,5 +1,4 @@
-Ectostroma oleae Castagne SPECIES
-=======
+# Ectostroma oleae Castagne SPECIES
 
 #### Status
 ACCEPTED

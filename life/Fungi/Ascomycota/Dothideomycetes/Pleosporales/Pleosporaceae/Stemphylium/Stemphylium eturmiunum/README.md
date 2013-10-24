@@ -1,5 +1,4 @@
-Stemphylium eturmiunum E.G. Simmons SPECIES
-=======
+# Stemphylium eturmiunum E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

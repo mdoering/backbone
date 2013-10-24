@@ -1,5 +1,4 @@
-Nigredo beckmanniae (H.S. Jacks.) Arthur SPECIES
-=======
+# Nigredo beckmanniae (H.S. Jacks.) Arthur SPECIES
 
 #### Status
 ACCEPTED

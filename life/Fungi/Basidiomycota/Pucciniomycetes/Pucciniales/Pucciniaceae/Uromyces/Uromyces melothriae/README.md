@@ -1,5 +1,4 @@
-Uromyces melothriae Henn. SPECIES
-=======
+# Uromyces melothriae Henn. SPECIES
 
 #### Status
 ACCEPTED

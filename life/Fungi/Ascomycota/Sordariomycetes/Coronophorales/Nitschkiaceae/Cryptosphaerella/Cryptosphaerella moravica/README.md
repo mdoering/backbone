@@ -1,5 +1,4 @@
-Cryptosphaerella moravica Petr. SPECIES
-=======
+# Cryptosphaerella moravica Petr. SPECIES
 
 #### Status
 ACCEPTED

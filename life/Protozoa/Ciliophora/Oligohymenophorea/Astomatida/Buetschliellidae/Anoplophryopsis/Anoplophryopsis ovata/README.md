@@ -1,5 +1,4 @@
-Anoplophryopsis ovata Puytorac, 1954 SPECIES
-=======
+# Anoplophryopsis ovata Puytorac, 1954 SPECIES
 
 #### Status
 ACCEPTED

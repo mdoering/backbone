@@ -1,5 +1,4 @@
-Chroomonas guttula Conrad, 1939 SPECIES
-=======
+# Chroomonas guttula Conrad, 1939 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiostoma ebulicola (Feltgen) Höhn. SPECIES
-=======
+# Lophiostoma ebulicola (Feltgen) Höhn. SPECIES
 
 #### Status
 ACCEPTED

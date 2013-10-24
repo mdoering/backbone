@@ -1,5 +1,4 @@
-Stigmina maculata (Cooke) S. Hughes SPECIES
-=======
+# Stigmina maculata (Cooke) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

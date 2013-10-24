@@ -1,5 +1,4 @@
-Balantidium bicavata Bhatia & Gulati, 1927 SPECIES
-=======
+# Balantidium bicavata Bhatia & Gulati, 1927 SPECIES
 
 #### Status
 ACCEPTED

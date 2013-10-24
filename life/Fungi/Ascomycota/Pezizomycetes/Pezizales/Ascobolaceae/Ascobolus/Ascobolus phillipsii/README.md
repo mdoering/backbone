@@ -1,5 +1,4 @@
-Ascobolus phillipsii Berk. SPECIES
-=======
+# Ascobolus phillipsii Berk. SPECIES
 
 #### Status
 ACCEPTED

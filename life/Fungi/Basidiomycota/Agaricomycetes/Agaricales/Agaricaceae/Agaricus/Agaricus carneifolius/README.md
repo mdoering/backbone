@@ -1,5 +1,4 @@
-Agaricus carneifolius Secr. SPECIES
-=======
+# Agaricus carneifolius Secr. SPECIES
 
 #### Status
 ACCEPTED

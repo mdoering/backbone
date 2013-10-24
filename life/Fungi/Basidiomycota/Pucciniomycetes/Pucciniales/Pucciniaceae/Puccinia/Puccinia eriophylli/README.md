@@ -1,17 +1,16 @@
-Puccinia eriophyllii H.S. Jacks. SPECIES
-=======
+# Puccinia eriophylli H.S. Jacks. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Memoirs of the Brooklyn botanical Garden 1: 246 (1918)
 
 #### Original name
-Puccinia eriophyllii H.S. Jacks.
+Puccinia eriophylli H.S. Jacks.
 
 ### Remarks
 null

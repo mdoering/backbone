@@ -1,5 +1,4 @@
-Rhytisma himalense Syd., P. Syd. & E.J. Butler, 1911 SPECIES
-=======
+# Rhytisma himalense Syd., P. Syd. & E.J. Butler, 1911 SPECIES
 
 #### Status
 ACCEPTED

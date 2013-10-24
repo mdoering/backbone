@@ -1,5 +1,4 @@
-Pyxine katendei Swinscow & Krog SPECIES
-=======
+# Pyxine katendei Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

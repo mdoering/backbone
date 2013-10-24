@@ -1,5 +1,4 @@
-Caryosporella Kohlm. GENUS
-=======
+# Caryosporella Kohlm. GENUS
 
 #### Status
 ACCEPTED

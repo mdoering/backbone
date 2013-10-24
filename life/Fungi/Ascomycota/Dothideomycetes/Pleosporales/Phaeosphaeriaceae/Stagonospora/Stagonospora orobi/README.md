@@ -1,5 +1,4 @@
-Stagonospora orobi Hollós SPECIES
-=======
+# Stagonospora orobi Hollós SPECIES
 
 #### Status
 ACCEPTED

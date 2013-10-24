@@ -1,5 +1,4 @@
-Alectoria rigida SPECIES
-=======
+# Alectoria rigida SPECIES
 
 #### Status
 ACCEPTED

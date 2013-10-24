@@ -1,5 +1,4 @@
-Lactarius verecundus Stubbe & Verbeken SPECIES
-=======
+# Lactarius verecundus Stubbe & Verbeken SPECIES
 
 #### Status
 ACCEPTED

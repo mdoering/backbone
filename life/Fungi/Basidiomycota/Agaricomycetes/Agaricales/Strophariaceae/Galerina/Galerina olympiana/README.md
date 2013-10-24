@@ -1,5 +1,4 @@
-Galerina olympiana A.H. Sm. SPECIES
-=======
+# Galerina olympiana A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

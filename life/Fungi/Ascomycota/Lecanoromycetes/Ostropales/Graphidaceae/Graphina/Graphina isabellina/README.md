@@ -1,5 +1,4 @@
-Graphina isabellina Zahlbr. SPECIES
-=======
+# Graphina isabellina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

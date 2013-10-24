@@ -1,5 +1,4 @@
-Uvigerina bifurcata d’Orbigny, 1839 SPECIES
-=======
+# Uvigerina bifurcata d’Orbigny, 1839 SPECIES
 
 #### Status
 ACCEPTED

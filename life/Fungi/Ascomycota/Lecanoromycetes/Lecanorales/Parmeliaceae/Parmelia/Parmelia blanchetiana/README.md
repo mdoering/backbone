@@ -1,5 +1,4 @@
-Parmelia blanchetiana Hue SPECIES
-=======
+# Parmelia blanchetiana Hue SPECIES
 
 #### Status
 ACCEPTED

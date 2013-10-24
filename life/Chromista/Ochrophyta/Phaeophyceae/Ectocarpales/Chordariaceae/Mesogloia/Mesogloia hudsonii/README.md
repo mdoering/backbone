@@ -1,5 +1,4 @@
-Mesogloia hudsonii Harvey SPECIES
-=======
+# Mesogloia hudsonii Harvey SPECIES
 
 #### Status
 ACCEPTED

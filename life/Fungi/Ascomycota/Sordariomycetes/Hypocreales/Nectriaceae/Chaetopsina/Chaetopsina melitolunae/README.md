@@ -1,17 +1,16 @@
-Chaetopsina mellitolunae Crous & Seifert SPECIES
-=======
+# Chaetopsina melitolunae Crous & Seifert SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Crous, Seifert & Castañeda Ruíz, S. Afr. J. Bot. 62(2): 89 (1996)
 
 #### Original name
-Chaetopsina mellitolunae Crous & Seifert
+Chaetopsina melitolunae Crous & Seifert
 
 ### Remarks
 null

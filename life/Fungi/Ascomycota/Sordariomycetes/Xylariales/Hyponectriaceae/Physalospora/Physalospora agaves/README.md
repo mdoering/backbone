@@ -1,5 +1,4 @@
-Physalospora agaves Henn. SPECIES
-=======
+# Physalospora agaves Henn. SPECIES
 
 #### Status
 ACCEPTED

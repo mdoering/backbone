@@ -1,5 +1,4 @@
-Irpex lamellosus Pat. SPECIES
-=======
+# Irpex lamellosus Pat. SPECIES
 
 #### Status
 ACCEPTED

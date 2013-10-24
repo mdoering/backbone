@@ -1,5 +1,4 @@
-Anisomeridium uniseriale (Zahlbr.) R.C. Harris SPECIES
-=======
+# Anisomeridium uniseriale (Zahlbr.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

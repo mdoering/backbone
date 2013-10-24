@@ -1,5 +1,4 @@
-Macrophoma mantegazziana subsp. mantegazziana (Penz.) Berl. & Voglino SUBSPECIES
-=======
+# Macrophoma mantegazziana (Penz.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Atti Soc. Veneto-Trent. Sci. Nat. 10(1): 193 (1886)
 
 #### Original name
-Macrophoma mantegazziana subsp. mantegazziana (Penz.) Berl. & Voglino
+Phoma mantegazziana Penz.
 
 ### Remarks
 null

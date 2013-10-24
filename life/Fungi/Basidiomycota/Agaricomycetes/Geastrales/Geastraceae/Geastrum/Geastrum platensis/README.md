@@ -1,8 +1,7 @@
-Geaster platensis Speg. SPECIES
-=======
+# Geastrum platensis Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster platensis Speg.
+Geastrum platensis Speg.
 
 ### Remarks
 null

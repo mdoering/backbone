@@ -1,5 +1,4 @@
-Mitosporium GENUS
-=======
+# Mitosporium GENUS
 
 #### Status
 ACCEPTED

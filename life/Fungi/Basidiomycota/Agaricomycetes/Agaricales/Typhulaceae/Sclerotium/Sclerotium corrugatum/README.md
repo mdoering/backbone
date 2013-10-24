@@ -1,5 +1,4 @@
-Sclerotium corrugatum Fr., 1828 SPECIES
-=======
+# Sclerotium corrugatum Fr., 1828 SPECIES
 
 #### Status
 ACCEPTED

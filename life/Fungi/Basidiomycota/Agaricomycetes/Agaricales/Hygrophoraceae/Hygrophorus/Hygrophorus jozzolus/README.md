@@ -1,5 +1,4 @@
-Hygrophorus jozzolus (Scop.) Murrill SPECIES
-=======
+# Hygrophorus jozzolus (Scop.) Murrill SPECIES
 
 #### Status
 ACCEPTED

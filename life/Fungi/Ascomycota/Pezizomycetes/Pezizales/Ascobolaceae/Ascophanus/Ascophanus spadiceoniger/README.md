@@ -1,5 +1,4 @@
-Ascophanus spadiceoniger Richon SPECIES
-=======
+# Ascophanus spadiceoniger Richon SPECIES
 
 #### Status
 ACCEPTED

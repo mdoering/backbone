@@ -1,5 +1,4 @@
-Octocyclus reinhardtii (D. Bukry) F.H. Wind & S.W. Wise SPECIES
-=======
+# Octocyclus reinhardtii (D. Bukry) F.H. Wind & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

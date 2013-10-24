@@ -1,5 +1,4 @@
-Ramaria rubri-attenuipes R.H. Petersen & M. Zang SPECIES
-=======
+# Ramaria rubri-attenuipes R.H. Petersen & M. Zang SPECIES
 
 #### Status
 ACCEPTED

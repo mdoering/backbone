@@ -1,5 +1,4 @@
-Pseudocercospora flavomarginata G.C. Hunter, Crous & M.J. Wingf. SPECIES
-=======
+# Pseudocercospora flavomarginata G.C. Hunter, Crous & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

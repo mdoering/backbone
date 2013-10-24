@@ -1,5 +1,4 @@
-Ectostroma plantaginis Lasch SPECIES
-=======
+# Ectostroma plantaginis Lasch SPECIES
 
 #### Status
 ACCEPTED

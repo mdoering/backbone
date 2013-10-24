@@ -1,5 +1,4 @@
-Uredo jahnii (Syd.) Ritschel SPECIES
-=======
+# Uredo jahnii (Syd.) Ritschel SPECIES
 
 #### Status
 ACCEPTED

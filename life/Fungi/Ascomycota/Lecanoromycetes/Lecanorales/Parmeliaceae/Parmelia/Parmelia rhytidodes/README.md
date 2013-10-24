@@ -1,5 +1,4 @@
-Parmelia rhytidodes (Hale) Ajay Singh SPECIES
-=======
+# Parmelia rhytidodes (Hale) Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

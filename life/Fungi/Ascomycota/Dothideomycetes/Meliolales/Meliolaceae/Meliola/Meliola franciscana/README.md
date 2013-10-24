@@ -1,5 +1,4 @@
-Meliola franciscana Hansf. SPECIES
-=======
+# Meliola franciscana Hansf. SPECIES
 
 #### Status
 ACCEPTED

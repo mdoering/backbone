@@ -1,5 +1,4 @@
-Montagnula stromatosa Aptroot, Joanne E. Taylor & K.D. Hyde SPECIES
-=======
+# Montagnula stromatosa Aptroot, Joanne E. Taylor & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

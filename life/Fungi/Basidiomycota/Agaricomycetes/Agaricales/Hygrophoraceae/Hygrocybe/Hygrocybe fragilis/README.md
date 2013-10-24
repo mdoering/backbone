@@ -1,5 +1,4 @@
-Hygrocybe fragilis (Batsch) P. Kumm. SPECIES
-=======
+# Hygrocybe fragilis (Batsch) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

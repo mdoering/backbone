@@ -1,5 +1,4 @@
-Cortinarius violaceovalens Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius violaceovalens Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

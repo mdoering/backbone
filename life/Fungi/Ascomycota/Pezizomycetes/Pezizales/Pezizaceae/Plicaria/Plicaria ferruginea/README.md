@@ -1,5 +1,4 @@
-Plicaria ferruginea Fuckel SPECIES
-=======
+# Plicaria ferruginea Fuckel SPECIES
 
 #### Status
 ACCEPTED

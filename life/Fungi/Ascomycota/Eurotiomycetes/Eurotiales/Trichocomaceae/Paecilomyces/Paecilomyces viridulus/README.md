@@ -1,5 +1,4 @@
-Paecilomyces viridulus Tzean, J.L. Chen, L.S. Hsieh & J.C. Peng, 1990 SPECIES
-=======
+# Paecilomyces viridulus Tzean, J.L. Chen, L.S. Hsieh & J.C. Peng, 1990 SPECIES
 
 #### Status
 ACCEPTED

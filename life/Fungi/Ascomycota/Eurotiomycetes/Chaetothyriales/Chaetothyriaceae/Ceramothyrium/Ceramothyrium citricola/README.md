@@ -1,5 +1,4 @@
-Ceramothyrium citricola Bat. & Nascim. SPECIES
-=======
+# Ceramothyrium citricola Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED

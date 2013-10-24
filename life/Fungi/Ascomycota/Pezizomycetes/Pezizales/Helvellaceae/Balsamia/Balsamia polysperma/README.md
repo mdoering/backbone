@@ -1,5 +1,4 @@
-Balsamia polysperma Tul. SPECIES
-=======
+# Balsamia polysperma Tul. SPECIES
 
 #### Status
 ACCEPTED

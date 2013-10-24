@@ -1,5 +1,4 @@
-Zimmermannella faecalis Lin et al., 2004 SPECIES
-=======
+# Zimmermannella faecalis Lin et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

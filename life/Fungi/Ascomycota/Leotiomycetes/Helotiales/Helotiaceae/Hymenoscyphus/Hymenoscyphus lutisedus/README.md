@@ -1,5 +1,4 @@
-Hymenoscyphus lutisedus (P. Karst.) SPECIES
-=======
+# Hymenoscyphus lutisedus (P. Karst.) SPECIES
 
 #### Status
 ACCEPTED

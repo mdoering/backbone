@@ -1,5 +1,4 @@
-Platygrapha flexuosa Müll. Arg. SPECIES
-=======
+# Platygrapha flexuosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

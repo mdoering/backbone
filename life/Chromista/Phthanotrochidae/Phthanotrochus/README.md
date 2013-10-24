@@ -1,5 +1,4 @@
-Phthanotrochus Arnold, 1978 GENUS
-=======
+# Phthanotrochus Arnold, 1978 GENUS
 
 #### Status
 ACCEPTED

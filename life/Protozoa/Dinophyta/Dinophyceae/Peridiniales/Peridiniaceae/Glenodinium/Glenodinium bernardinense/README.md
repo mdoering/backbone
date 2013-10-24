@@ -1,5 +1,4 @@
-Glenodinium bernardinense Chodat & Zender SPECIES
-=======
+# Glenodinium bernardinense Chodat & Zender SPECIES
 
 #### Status
 ACCEPTED

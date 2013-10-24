@@ -1,5 +1,4 @@
-Bisporella oritis G.W. Beaton SPECIES
-=======
+# Bisporella oritis G.W. Beaton SPECIES
 
 #### Status
 ACCEPTED

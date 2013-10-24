@@ -1,5 +1,4 @@
-Coniosporium quercicola Lasch SPECIES
-=======
+# Coniosporium quercicola Lasch SPECIES
 
 #### Status
 ACCEPTED

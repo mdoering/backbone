@@ -1,5 +1,4 @@
-Cercosporella elvirae Syd. SPECIES
-=======
+# Cercosporella elvirae Syd. SPECIES
 
 #### Status
 ACCEPTED

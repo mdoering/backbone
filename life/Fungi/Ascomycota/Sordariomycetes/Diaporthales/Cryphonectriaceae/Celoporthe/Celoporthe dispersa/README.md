@@ -1,5 +1,4 @@
-Celoporthe dispersa Nakab., Gryzenh., Jol. Roux & M.J. Wingf., 2006 SPECIES
-=======
+# Celoporthe dispersa Nakab., Gryzenh., Jol. Roux & M.J. Wingf., 2006 SPECIES
 
 #### Status
 ACCEPTED

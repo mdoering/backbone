@@ -1,5 +1,4 @@
-Puccinia caricis-boottianae Hirats. SPECIES
-=======
+# Puccinia caricis-boottianae Hirats. SPECIES
 
 #### Status
 ACCEPTED

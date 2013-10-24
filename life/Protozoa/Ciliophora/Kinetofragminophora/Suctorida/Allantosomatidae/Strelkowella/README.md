@@ -1,5 +1,4 @@
-Strelkowella Kornilova, 2004 GENUS
-=======
+# Strelkowella Kornilova, 2004 GENUS
 
 #### Status
 ACCEPTED

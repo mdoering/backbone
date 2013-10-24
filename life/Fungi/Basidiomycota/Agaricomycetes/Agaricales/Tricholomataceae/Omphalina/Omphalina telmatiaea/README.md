@@ -1,5 +1,4 @@
-Omphalina telmatiaea (Berk. & Cooke) Singer SPECIES
-=======
+# Omphalina telmatiaea (Berk. & Cooke) Singer SPECIES
 
 #### Status
 ACCEPTED

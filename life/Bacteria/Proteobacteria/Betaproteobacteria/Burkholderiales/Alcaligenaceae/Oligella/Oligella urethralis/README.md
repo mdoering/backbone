@@ -1,5 +1,4 @@
-Oligella urethralis (Lautrop et al., 1970) Rossau et al., 1987 SPECIES
-=======
+# Oligella urethralis (Lautrop et al., 1970) Rossau et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

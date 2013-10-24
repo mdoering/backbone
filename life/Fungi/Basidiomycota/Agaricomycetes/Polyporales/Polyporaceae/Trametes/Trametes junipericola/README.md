@@ -1,5 +1,4 @@
-Trametes junipericola Manjón, G. Moreno & Ryvarden, 1984 SPECIES
-=======
+# Trametes junipericola Manjón, G. Moreno & Ryvarden, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporothrix ankangensis M.Z. Fan, C. Guo & T.Y. Zhang SPECIES
-=======
+# Sporothrix ankangensis M.Z. Fan, C. Guo & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

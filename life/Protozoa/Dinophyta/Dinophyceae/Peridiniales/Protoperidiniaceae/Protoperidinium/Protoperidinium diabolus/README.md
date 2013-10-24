@@ -1,5 +1,4 @@
-Protoperidinium diabolus (Karsten) Balech SPECIES
-=======
+# Protoperidinium diabolus (Karsten) Balech SPECIES
 
 #### Status
 ACCEPTED

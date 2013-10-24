@@ -1,5 +1,4 @@
-Irenina polygoni Hansf. SPECIES
-=======
+# Irenina polygoni Hansf. SPECIES
 
 #### Status
 ACCEPTED

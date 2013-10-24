@@ -1,5 +1,4 @@
-Lecanora nidulans Stizenb. SPECIES
-=======
+# Lecanora nidulans Stizenb. SPECIES
 
 #### Status
 ACCEPTED

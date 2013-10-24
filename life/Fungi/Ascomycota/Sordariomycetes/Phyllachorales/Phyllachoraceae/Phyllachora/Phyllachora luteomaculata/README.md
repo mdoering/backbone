@@ -1,17 +1,16 @@
-Phyllachora brevifolia Chardón, 1929 SPECIES
-=======
+# Phyllachora luteomaculata (Schwein.) Orton, 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Dept. Agric. Porto Rico 13(1): 11 (1929)
+J. Dept. Agric. Porto Rico 2: 152 (1918)
 
 #### Original name
-Phyllachora brevifolia Chardón, 1929
+Sphaeria luteomaculata Schwein., 1832
 
 ### Remarks
 null

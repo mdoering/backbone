@@ -1,5 +1,4 @@
-Pistillaria purpurea Massee SPECIES
-=======
+# Pistillaria purpurea Massee SPECIES
 
 #### Status
 ACCEPTED

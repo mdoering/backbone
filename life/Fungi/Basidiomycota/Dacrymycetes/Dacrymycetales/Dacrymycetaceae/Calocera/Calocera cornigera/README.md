@@ -1,5 +1,4 @@
-Calocera cornigera Beck SPECIES
-=======
+# Calocera cornigera Beck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Houjia yanglingensis G.Y. Sun & Crous, 2010 SPECIES
-=======
+# Houjia yanglingensis G.Y. Sun & Crous, 2010 SPECIES
 
 #### Status
 ACCEPTED

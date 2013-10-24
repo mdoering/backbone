@@ -1,17 +1,16 @@
-Physalospora perversa var. perversa Rehm VARIETY
-=======
+# Phyllachora perversa (Rehm) Theiss. & Syd., 1915 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi europ. exsicc. , Editio novo. Century 32(42)(nos 4101-4200): no. 4162 (1898)
+Annls mycol. 13(5/6): 541 (1915)
 
 #### Original name
-Physalospora perversa var. perversa Rehm
+Physalospora perversa Rehm, 1898
 
 ### Remarks
 null

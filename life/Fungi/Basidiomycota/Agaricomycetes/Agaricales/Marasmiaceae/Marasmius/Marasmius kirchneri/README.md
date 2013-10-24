@@ -1,5 +1,4 @@
-Marasmius kirchneri Thüm. SPECIES
-=======
+# Marasmius kirchneri Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Echinosporium Woron. GENUS
-=======
+# Petrakia Sydow & P. Sydow, 1913 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Vest. tiflis. bot. Sada 28: 25 (1913)
+null
 
 #### Original name
-Echinosporium Woron.
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Bacidia golugensis SPECIES
-=======
+# Bacidia golugensis SPECIES
 
 #### Status
 ACCEPTED

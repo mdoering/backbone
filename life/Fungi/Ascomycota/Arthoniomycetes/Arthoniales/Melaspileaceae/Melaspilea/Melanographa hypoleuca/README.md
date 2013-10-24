@@ -1,5 +1,4 @@
-Melanographa hypoleuca Müll. Arg. SPECIES
-=======
+# Melanographa hypoleuca Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

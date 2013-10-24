@@ -1,5 +1,4 @@
-Iodosphaeria arundinariae (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Iodosphaeria arundinariae (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

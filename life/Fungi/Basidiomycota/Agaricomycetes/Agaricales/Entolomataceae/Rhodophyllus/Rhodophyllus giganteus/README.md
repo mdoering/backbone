@@ -1,5 +1,4 @@
-Rhodophyllus giganteus (Murrill) Singer SPECIES
-=======
+# Rhodophyllus giganteus (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

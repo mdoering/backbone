@@ -1,5 +1,4 @@
-Hypogymnia tavaresii D. Hawksw. & P. James SPECIES
-=======
+# Hypogymnia tavaresii D. Hawksw. & P. James SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cenangium sabalidis (Ellis & G. Martin) Sacc. SPECIES
-=======
+# Cenangium sabalidis (Ellis & G. Martin) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea azurella Müll. Arg. SPECIES
-=======
+# Lecidea azurella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

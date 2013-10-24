@@ -1,5 +1,4 @@
-Gelasinospora endodontia (Malloch & Cain) Arx, 1973 SPECIES
-=======
+# Gelasinospora endodontia (Malloch & Cain) Arx, 1973 SPECIES
 
 #### Status
 ACCEPTED

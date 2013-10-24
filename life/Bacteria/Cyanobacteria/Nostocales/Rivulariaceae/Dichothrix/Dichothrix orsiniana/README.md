@@ -1,5 +1,4 @@
-Dichothrix orsiniana var. africana Frémy VARIETY
-=======
+# Dichothrix orsiniana (Kützing) Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

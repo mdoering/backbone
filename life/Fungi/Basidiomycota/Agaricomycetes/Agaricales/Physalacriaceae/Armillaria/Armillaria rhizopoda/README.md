@@ -1,5 +1,4 @@
-Armillaria rhizopoda Cooke SPECIES
-=======
+# Armillaria rhizopoda Cooke SPECIES
 
 #### Status
 ACCEPTED

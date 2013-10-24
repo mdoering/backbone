@@ -1,5 +1,4 @@
-Calycina montaniensis (Ellis & H.W. Anderson) Kuntze SPECIES
-=======
+# Calycina montaniensis (Ellis & H.W. Anderson) Kuntze SPECIES
 
 #### Status
 ACCEPTED

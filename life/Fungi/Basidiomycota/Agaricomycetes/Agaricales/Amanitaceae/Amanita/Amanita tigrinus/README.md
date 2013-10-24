@@ -1,5 +1,4 @@
-Amanita tigrinus Lam. SPECIES
-=======
+# Amanita tigrinus Lam. SPECIES
 
 #### Status
 ACCEPTED

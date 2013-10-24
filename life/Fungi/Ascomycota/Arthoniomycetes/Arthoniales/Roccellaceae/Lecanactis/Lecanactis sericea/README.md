@@ -1,5 +1,4 @@
-Lecanactis sericea (Eschw.) Kremp. SPECIES
-=======
+# Lecanactis sericea (Eschw.) Kremp. SPECIES
 
 #### Status
 ACCEPTED

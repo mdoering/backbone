@@ -1,5 +1,4 @@
-Parmelia vulpina (L.) Ach. SPECIES
-=======
+# Parmelia vulpina (L.) Ach. SPECIES
 
 #### Status
 ACCEPTED

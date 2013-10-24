@@ -1,14 +1,13 @@
-Elletevera parasitica (Ellis & Everh.) Deighton, 1969 SPECIES
-=======
+# Pyricularia parasitica Ellis & Everh., 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 118: 19 (1969)
+Proc. Acad. nat. Sci. Philad. , 1893 45: 462 (1893)
 
 #### Original name
 Pyricularia parasitica Ellis & Everh., 1893

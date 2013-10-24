@@ -1,14 +1,13 @@
-Polyblastia nudata Müll. Arg. SPECIES
-=======
+# Polyblastiopsis nudata (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Hedwigia 32: 135 (1893)
+Cat. Lich. Univers. 1: 351 (1922)
 
 #### Original name
 Polyblastia nudata Müll. Arg.

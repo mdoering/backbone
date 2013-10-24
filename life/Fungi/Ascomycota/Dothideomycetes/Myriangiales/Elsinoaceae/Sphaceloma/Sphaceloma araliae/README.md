@@ -1,5 +1,4 @@
-Sphaceloma araliae Jenkins SPECIES
-=======
+# Sphaceloma araliae Jenkins SPECIES
 
 #### Status
 ACCEPTED

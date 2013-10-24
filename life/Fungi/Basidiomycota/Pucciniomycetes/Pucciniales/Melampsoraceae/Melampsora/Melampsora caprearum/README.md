@@ -1,17 +1,16 @@
-Uredo farinosa var. farinosa VARIETY
-=======
+# Melampsora caprearum Thüm., 1879 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. fung. (Göttingen) 1: 217 (1801)
+Mittheil. aus d. forsth. Versuchsaesen Öster. 2: 34 & 36 (1879)
 
 #### Original name
-Uredo farinosa var. farinosa
+Melampsora caprearum Thüm., 1879
 
 ### Remarks
 null

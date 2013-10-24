@@ -1,5 +1,4 @@
-Calloria rubella Fuckel SPECIES
-=======
+# Calloria rubella Fuckel SPECIES
 
 #### Status
 ACCEPTED

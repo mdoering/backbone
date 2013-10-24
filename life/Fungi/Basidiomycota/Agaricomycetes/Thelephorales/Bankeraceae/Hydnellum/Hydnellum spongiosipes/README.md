@@ -1,14 +1,13 @@
-Hydnellum velutinum var. spongiosipes (Peck) Maas Geest., 1957 VARIETY
-=======
+# Hydnellum spongiosipes (Peck) Pouzar, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungus 27: 63 (1957)
+Ceská Mykol. 14: 130 (1960)
 
 #### Original name
 Hydnum spongiosipes Peck, 1898

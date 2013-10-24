@@ -1,5 +1,4 @@
-Cercospora calendulae Sacc., 1878 SPECIES
-=======
+# Cercospora calendulae Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED

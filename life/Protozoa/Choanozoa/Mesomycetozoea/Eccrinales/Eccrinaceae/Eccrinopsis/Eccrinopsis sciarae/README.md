@@ -1,5 +1,4 @@
-Eccrinopsis sciarae Tschud. SPECIES
-=======
+# Eccrinopsis sciarae Tschud. SPECIES
 
 #### Status
 ACCEPTED

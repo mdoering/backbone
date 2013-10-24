@@ -1,5 +1,4 @@
-Puccinia oreoselini (F. Strauss) Körn. SPECIES
-=======
+# Puccinia oreoselini (F. Strauss) Körn. SPECIES
 
 #### Status
 ACCEPTED

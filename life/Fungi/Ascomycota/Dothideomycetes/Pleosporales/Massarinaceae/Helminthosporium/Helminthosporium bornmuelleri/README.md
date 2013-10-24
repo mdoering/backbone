@@ -1,5 +1,4 @@
-Helminthosporium bornmuelleri Magnus SPECIES
-=======
+# Helminthosporium bornmuelleri Magnus SPECIES
 
 #### Status
 ACCEPTED

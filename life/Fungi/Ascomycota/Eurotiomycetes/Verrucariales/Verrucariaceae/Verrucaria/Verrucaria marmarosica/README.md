@@ -1,5 +1,4 @@
-Verrucaria marmarosica Servít SPECIES
-=======
+# Verrucaria marmarosica Servít SPECIES
 
 #### Status
 ACCEPTED

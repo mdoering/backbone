@@ -1,5 +1,4 @@
-Puccinia brickelliae Peck SPECIES
-=======
+# Puccinia brickelliae Peck SPECIES
 
 #### Status
 ACCEPTED

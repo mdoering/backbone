@@ -1,5 +1,4 @@
-Circolagenophrys diogenes SPECIES
-=======
+# Circolagenophrys diogenes SPECIES
 
 #### Status
 ACCEPTED

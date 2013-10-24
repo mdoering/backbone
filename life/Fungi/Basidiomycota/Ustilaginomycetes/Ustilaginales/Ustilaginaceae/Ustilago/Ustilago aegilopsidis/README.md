@@ -1,5 +1,4 @@
-Ustilago aegilopsidis Picb. SPECIES
-=======
+# Ustilago aegilopsidis Picb. SPECIES
 
 #### Status
 ACCEPTED

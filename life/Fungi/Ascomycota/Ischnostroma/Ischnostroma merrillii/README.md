@@ -1,5 +1,4 @@
-Ischnostroma merrillii Syd. & P. Syd., 1914 SPECIES
-=======
+# Ischnostroma merrillii Syd. & P. Syd., 1914 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia campanulae-sarmaticae Lobik SPECIES
-=======
+# Ramularia campanulae-sarmaticae Lobik SPECIES
 
 #### Status
 ACCEPTED

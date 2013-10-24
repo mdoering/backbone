@@ -1,5 +1,4 @@
-Globocassidulina minima (Saidova, 1975) SPECIES
-=======
+# Globocassidulina minima (Saidova, 1975) SPECIES
 
 #### Status
 ACCEPTED

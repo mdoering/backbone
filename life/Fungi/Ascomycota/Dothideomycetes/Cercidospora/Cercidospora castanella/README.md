@@ -1,5 +1,4 @@
-Cercidospora castanella (Cooke & Ellis) Kuntze SPECIES
-=======
+# Cercidospora castanella (Cooke & Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

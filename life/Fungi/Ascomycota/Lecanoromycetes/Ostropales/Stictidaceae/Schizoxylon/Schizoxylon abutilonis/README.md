@@ -1,5 +1,4 @@
-Schizoxylon abutilonis E.K. Cash SPECIES
-=======
+# Schizoxylon abutilonis E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

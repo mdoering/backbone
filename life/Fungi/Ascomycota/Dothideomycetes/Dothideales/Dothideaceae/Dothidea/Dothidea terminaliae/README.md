@@ -1,5 +1,4 @@
-Dothidea terminaliae Syd. & P. Syd. SPECIES
-=======
+# Dothidea terminaliae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

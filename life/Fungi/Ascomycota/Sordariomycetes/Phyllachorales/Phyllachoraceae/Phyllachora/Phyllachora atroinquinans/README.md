@@ -1,14 +1,13 @@
-Trabutia atroinquinans (G. Winter) Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora atroinquinans G. Winter, 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 13(3/4): 357 (1915)
+Grevillea 15(no. 75): 90 (1887)
 
 #### Original name
 Phyllachora atroinquinans G. Winter, 1887

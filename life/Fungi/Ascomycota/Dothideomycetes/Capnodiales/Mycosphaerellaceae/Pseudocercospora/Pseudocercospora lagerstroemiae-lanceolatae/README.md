@@ -1,5 +1,4 @@
-Pseudocercospora lagerstroemiae-lanceolatae U. Braun & Crous SPECIES
-=======
+# Pseudocercospora lagerstroemiae-lanceolatae U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

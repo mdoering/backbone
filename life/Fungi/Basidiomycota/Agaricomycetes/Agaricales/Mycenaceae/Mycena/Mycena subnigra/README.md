@@ -1,5 +1,4 @@
-Mycena subnigra Cleland SPECIES
-=======
+# Mycena subnigra Cleland SPECIES
 
 #### Status
 ACCEPTED

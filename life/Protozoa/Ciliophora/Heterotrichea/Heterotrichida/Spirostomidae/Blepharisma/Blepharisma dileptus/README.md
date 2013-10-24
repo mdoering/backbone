@@ -1,5 +1,4 @@
-Blepharisma dileptus Kahl, 1928 SPECIES
-=======
+# Blepharisma dileptus Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

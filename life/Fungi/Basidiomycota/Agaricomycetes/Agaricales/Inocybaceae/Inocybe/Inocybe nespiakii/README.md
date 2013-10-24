@@ -1,5 +1,4 @@
-Inocybe nespiakii Bon SPECIES
-=======
+# Inocybe nespiakii Bon SPECIES
 
 #### Status
 ACCEPTED

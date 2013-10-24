@@ -1,5 +1,4 @@
-Melanomma juniperi Ellis & Everh. SPECIES
-=======
+# Melanomma juniperi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

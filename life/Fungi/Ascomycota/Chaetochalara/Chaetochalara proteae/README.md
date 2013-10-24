@@ -1,5 +1,4 @@
-Chaetochalara proteae Joanne E. Taylor, Crous & M.E. Palm SPECIES
-=======
+# Chaetochalara proteae Joanne E. Taylor, Crous & M.E. Palm SPECIES
 
 #### Status
 ACCEPTED

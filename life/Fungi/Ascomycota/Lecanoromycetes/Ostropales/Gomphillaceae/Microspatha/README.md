@@ -1,5 +1,4 @@
-Microspatha P. Karst. GENUS
-=======
+# Microspatha P. Karst. GENUS
 
 #### Status
 ACCEPTED

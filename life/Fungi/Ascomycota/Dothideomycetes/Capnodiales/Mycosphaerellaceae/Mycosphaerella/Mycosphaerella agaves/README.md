@@ -1,5 +1,4 @@
-Mycosphaerella agaves (C. Massal.) Tomilin SPECIES
-=======
+# Mycosphaerella agaves (C. Massal.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

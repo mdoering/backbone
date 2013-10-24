@@ -1,5 +1,4 @@
-Entoloma belouvense Noordel. & Hauskn. SPECIES
-=======
+# Entoloma belouvense Noordel. & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

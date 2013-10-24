@@ -1,5 +1,4 @@
-Proboscidium Meunier, 1910 GENUS
-=======
+# Proboscidium Meunier, 1910 GENUS
 
 #### Status
 ACCEPTED

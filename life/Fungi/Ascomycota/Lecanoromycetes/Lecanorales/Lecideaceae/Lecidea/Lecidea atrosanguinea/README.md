@@ -1,5 +1,4 @@
-Lecidea atrosanguinea f. atrosanguinea FORM
-=======
+# Lecidea atrosanguinea Flörke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea atrosanguinea f. atrosanguinea
+Lecidea atrosanguinea Flörke
 
 ### Remarks
 null

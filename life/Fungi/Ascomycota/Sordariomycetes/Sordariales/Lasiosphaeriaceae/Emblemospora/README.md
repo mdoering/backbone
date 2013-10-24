@@ -1,5 +1,4 @@
-Emblemospora Jeng & J.C. Krug GENUS
-=======
+# Emblemospora Jeng & J.C. Krug GENUS
 
 #### Status
 ACCEPTED

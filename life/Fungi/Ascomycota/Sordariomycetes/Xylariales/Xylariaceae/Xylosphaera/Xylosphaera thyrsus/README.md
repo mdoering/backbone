@@ -1,5 +1,4 @@
-Xylosphaera thyrsus (Berk.) Dennis SPECIES
-=======
+# Xylosphaera thyrsus (Berk.) Dennis SPECIES
 
 #### Status
 ACCEPTED

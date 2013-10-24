@@ -1,5 +1,4 @@
-Cercidospora pusilla (Niessl) Kuntze SPECIES
-=======
+# Cercidospora pusilla (Niessl) Kuntze SPECIES
 
 #### Status
 ACCEPTED

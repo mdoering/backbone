@@ -1,5 +1,4 @@
-Trichosporon terricola Sugita, M. Takash. & Nakase SPECIES
-=======
+# Trichosporon terricola Sugita, M. Takash. & Nakase SPECIES
 
 #### Status
 ACCEPTED

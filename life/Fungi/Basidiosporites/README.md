@@ -1,5 +1,4 @@
-Basidiosporites Elsik GENUS
-=======
+# Basidiosporites Elsik GENUS
 
 #### Status
 ACCEPTED

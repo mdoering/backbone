@@ -1,8 +1,7 @@
-Auerswaldia vignae Henn., 1905 SPECIES
-=======
+# Phyllachora dolichogena (Berk. & Broome) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

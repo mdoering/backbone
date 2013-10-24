@@ -1,5 +1,4 @@
-Opegrapha variegata Chevall. SPECIES
-=======
+# Opegrapha variegata Chevall. SPECIES
 
 #### Status
 ACCEPTED

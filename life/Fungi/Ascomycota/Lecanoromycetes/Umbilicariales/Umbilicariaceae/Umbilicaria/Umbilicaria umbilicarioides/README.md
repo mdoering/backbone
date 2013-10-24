@@ -1,5 +1,4 @@
-Umbilicaria umbilicarioides (Stein) Krog & Swinscow SPECIES
-=======
+# Umbilicaria umbilicarioides (Stein) Krog & Swinscow SPECIES
 
 #### Status
 ACCEPTED

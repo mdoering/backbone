@@ -1,5 +1,4 @@
-Psathyrella idahoensis A.H. Sm. SPECIES
-=======
+# Psathyrella idahoensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

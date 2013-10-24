@@ -1,5 +1,4 @@
-Boletus brunneocitrinus A.H. Sm. & Thiers SPECIES
-=======
+# Boletus brunneocitrinus A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

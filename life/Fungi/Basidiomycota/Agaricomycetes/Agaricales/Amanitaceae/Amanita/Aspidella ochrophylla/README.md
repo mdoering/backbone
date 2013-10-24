@@ -1,5 +1,4 @@
-Aspidella ochrophylla (Cooke & Massee) E.-J. Gilbert SPECIES
-=======
+# Aspidella ochrophylla (Cooke & Massee) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

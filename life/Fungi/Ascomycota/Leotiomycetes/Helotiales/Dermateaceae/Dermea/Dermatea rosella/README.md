@@ -1,5 +1,4 @@
-Dermatea rosella Rehm SPECIES
-=======
+# Dermatea rosella Rehm SPECIES
 
 #### Status
 ACCEPTED

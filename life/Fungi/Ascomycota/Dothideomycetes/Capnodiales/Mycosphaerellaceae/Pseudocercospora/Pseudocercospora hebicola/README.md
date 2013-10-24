@@ -1,5 +1,4 @@
-Pseudocercospora hebicola SPECIES
-=======
+# Pseudocercospora hebicola SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonula leptosphaerioides Gonz. Frag. SPECIES
-=======
+# Hendersonula leptosphaerioides Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haptophrya plethodonis SPECIES
-=======
+# Haptophrya plethodonis SPECIES
 
 #### Status
 ACCEPTED

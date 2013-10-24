@@ -1,5 +1,4 @@
-Myxozyma neglecta Spaaij, van der Walt & G. Weber, 1998 SPECIES
-=======
+# Myxozyma neglecta Spaaij, van der Walt & G. Weber, 1998 SPECIES
 
 #### Status
 ACCEPTED

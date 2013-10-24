@@ -1,5 +1,4 @@
-Chamaeceras semisquarrosus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras semisquarrosus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

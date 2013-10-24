@@ -1,5 +1,4 @@
-Cirrigregarina spissa (Henry, 1938) Levine, 1979 SPECIES
-=======
+# Cirrigregarina spissa (Henry, 1938) Levine, 1979 SPECIES
 
 #### Status
 ACCEPTED

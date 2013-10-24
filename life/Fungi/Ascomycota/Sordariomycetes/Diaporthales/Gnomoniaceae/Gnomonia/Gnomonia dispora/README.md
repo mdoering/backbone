@@ -1,5 +1,4 @@
-Gnomonia dispora Demaree & Cole ex M.E. Barr, 1978 SPECIES
-=======
+# Gnomonia dispora Demaree & Cole ex M.E. Barr, 1978 SPECIES
 
 #### Status
 ACCEPTED

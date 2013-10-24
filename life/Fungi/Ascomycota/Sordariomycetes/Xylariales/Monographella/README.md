@@ -1,5 +1,4 @@
-Monographella Petrak, 1924 GENUS
-=======
+# Monographella Petrak, 1924 GENUS
 
 #### Status
 ACCEPTED

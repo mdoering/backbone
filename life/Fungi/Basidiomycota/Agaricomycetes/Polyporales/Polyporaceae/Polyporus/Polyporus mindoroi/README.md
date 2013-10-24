@@ -1,5 +1,4 @@
-Polyporus mindoroi Lloyd SPECIES
-=======
+# Polyporus mindoroi Lloyd SPECIES
 
 #### Status
 ACCEPTED

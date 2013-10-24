@@ -1,5 +1,4 @@
-Coleosporium parvisporum S. Kaneko SPECIES
-=======
+# Coleosporium parvisporum S. Kaneko SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereocaulon laseroni C.W. Dodge SPECIES
-=======
+# Stereocaulon laseroni C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

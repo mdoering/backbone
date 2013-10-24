@@ -1,5 +1,4 @@
-Arthopyrenia finkii Zahlbr. SPECIES
-=======
+# Arthopyrenia finkii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

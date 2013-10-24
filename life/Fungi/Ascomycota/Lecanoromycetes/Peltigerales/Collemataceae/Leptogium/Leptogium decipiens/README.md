@@ -1,5 +1,4 @@
-Leptogium decipiens P. M. Jørg. SPECIES
-=======
+# Leptogium decipiens P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

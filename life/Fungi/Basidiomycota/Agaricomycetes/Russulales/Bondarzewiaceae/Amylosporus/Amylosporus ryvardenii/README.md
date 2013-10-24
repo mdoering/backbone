@@ -1,14 +1,13 @@
-Rigidoporopsis amylospora I. Johans. & Ryvarden, 1979 SPECIES
-=======
+# Amylosporus ryvardenii Stalpers, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 72(2): 192 (1979)
+Stud. Mycol. 40: 37 (1996)
 
 #### Original name
 Rigidoporopsis amylospora I. Johans. & Ryvarden, 1979

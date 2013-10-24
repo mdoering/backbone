@@ -1,5 +1,4 @@
-Puccinia tonduziana Speg. SPECIES
-=======
+# Puccinia tonduziana Speg. SPECIES
 
 #### Status
 ACCEPTED

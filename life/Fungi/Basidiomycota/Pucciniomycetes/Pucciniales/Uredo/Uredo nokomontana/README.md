@@ -1,5 +1,4 @@
-Uredo nokomontana Sawada SPECIES
-=======
+# Uredo nokomontana Sawada SPECIES
 
 #### Status
 ACCEPTED

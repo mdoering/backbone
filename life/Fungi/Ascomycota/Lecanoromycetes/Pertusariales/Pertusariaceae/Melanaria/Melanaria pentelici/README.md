@@ -1,5 +1,4 @@
-Melanaria pentelici (Stein) Erichsen SPECIES
-=======
+# Melanaria pentelici (Stein) Erichsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenoscyphus nectriella (P. Karst.) Kuntze SPECIES
-=======
+# Hymenoscyphus nectriella (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

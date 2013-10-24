@@ -1,5 +1,4 @@
-Leccinum olivaceoglutinosum A.H. Sm., Thiers & Watling SPECIES
-=======
+# Leccinum olivaceoglutinosum A.H. Sm., Thiers & Watling SPECIES
 
 #### Status
 ACCEPTED

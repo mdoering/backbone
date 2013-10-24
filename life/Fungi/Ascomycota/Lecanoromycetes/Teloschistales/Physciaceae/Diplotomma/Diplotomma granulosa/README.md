@@ -1,5 +1,4 @@
-Diplotomma granulosa (Darb.) C.W. Dodge SPECIES
-=======
+# Diplotomma granulosa (Darb.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

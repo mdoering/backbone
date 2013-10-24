@@ -1,5 +1,4 @@
-Capnodium araucariae Thüm. SPECIES
-=======
+# Capnodium araucariae Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Saccodendron heronalleni f. latericium Rhumbler, 1935 FORM
-=======
+# Saccodendron heronalleni Rhumbler, 1935 SPECIES
 
 #### Status
 ACCEPTED

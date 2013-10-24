@@ -1,5 +1,4 @@
-Barnettia lucumae var. lucumae VARIETY
-=======
+# Barnettia lucumae Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Batista, Perez & Bezerra, Brotéria, sér. Ci. Nat. 31(2): 95 (1962)
 
 #### Original name
-Barnettia lucumae var. lucumae
+Barnettia lucumae Bat. & J.L. Bezerra
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Piromyces lethargicus Orpin & E.A. Munn SPECIES
-=======
+# Piromyces lethargicus Orpin & E.A. Munn SPECIES
 
 #### Status
 ACCEPTED

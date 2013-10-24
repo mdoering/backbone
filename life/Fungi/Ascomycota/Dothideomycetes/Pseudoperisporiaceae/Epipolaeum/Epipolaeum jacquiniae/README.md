@@ -1,5 +1,4 @@
-Epipolaeum jacquiniae (Briard & Har.) Arx SPECIES
-=======
+# Epipolaeum jacquiniae (Briard & Har.) Arx SPECIES
 
 #### Status
 ACCEPTED

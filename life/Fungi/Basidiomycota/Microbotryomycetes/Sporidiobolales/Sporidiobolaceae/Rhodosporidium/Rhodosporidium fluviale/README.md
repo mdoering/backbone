@@ -1,5 +1,4 @@
-Rhodosporidium fluviale Fell, Kurtzman, Tallman & J.D. Buck SPECIES
-=======
+# Rhodosporidium fluviale Fell, Kurtzman, Tallman & J.D. Buck SPECIES
 
 #### Status
 ACCEPTED

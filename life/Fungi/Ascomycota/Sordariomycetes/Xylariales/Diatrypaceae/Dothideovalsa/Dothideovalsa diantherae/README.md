@@ -1,5 +1,4 @@
-Dothideovalsa diantherae (I.M. Lewis) Theiss. & Syd. SPECIES
-=======
+# Dothideovalsa diantherae (I.M. Lewis) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

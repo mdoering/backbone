@@ -1,5 +1,4 @@
-Caloplaca laeta H. Magn. SPECIES
-=======
+# Caloplaca laeta H. Magn. SPECIES
 
 #### Status
 ACCEPTED

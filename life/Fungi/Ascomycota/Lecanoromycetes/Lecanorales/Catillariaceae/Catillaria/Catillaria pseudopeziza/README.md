@@ -1,5 +1,4 @@
-Catillaria pseudopeziza SPECIES
-=======
+# Catillaria pseudopeziza SPECIES
 
 #### Status
 ACCEPTED

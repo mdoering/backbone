@@ -1,5 +1,4 @@
-Tubercularia pircuniae Speg. SPECIES
-=======
+# Tubercularia pircuniae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gliocladium salmonicolor Raillo SPECIES
-=======
+# Gliocladium salmonicolor Raillo SPECIES
 
 #### Status
 ACCEPTED

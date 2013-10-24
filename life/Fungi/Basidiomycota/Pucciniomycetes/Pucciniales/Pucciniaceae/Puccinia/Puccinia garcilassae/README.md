@@ -1,5 +1,4 @@
-Puccinia garcilassae Pardo-Card. SPECIES
-=======
+# Puccinia garcilassae Pardo-Card. SPECIES
 
 #### Status
 ACCEPTED

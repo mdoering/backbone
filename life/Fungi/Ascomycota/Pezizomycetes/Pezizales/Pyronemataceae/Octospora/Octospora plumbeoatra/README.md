@@ -1,5 +1,4 @@
-Octospora plumbeoatra (E.K. Cash) D.C. Pant & V.P. Tewari SPECIES
-=======
+# Octospora plumbeoatra (E.K. Cash) D.C. Pant & V.P. Tewari SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pleospora infectoria var. infectoria VARIETY
-=======
+# Lewia infectoria (Fuckel) M.E. Barr & E.G. Simmons, 1986 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 132 (1870)
+in Simmons, Mycotaxon 25(1): 296 (1986)
 
 #### Original name
-Pleospora infectoria var. infectoria
+Pleospora infectoria Fuckel, 1870
 
 ### Remarks
 null

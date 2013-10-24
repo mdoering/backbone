@@ -1,5 +1,4 @@
-Myriotrema multicavum Hale SPECIES
-=======
+# Myriotrema multicavum Hale SPECIES
 
 #### Status
 ACCEPTED

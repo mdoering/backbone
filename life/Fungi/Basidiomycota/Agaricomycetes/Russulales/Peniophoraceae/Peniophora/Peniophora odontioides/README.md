@@ -1,5 +1,4 @@
-Peniophora odontioides Burt SPECIES
-=======
+# Peniophora odontioides Burt SPECIES
 
 #### Status
 ACCEPTED

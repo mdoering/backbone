@@ -1,5 +1,4 @@
-Hygrocybe incolor Pegler SPECIES
-=======
+# Hygrocybe incolor Pegler SPECIES
 
 #### Status
 ACCEPTED

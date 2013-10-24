@@ -1,5 +1,4 @@
-Enchelyodon armatides Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Enchelyodon armatides Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

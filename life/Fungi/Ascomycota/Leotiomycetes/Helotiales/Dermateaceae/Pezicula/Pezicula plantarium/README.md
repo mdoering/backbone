@@ -1,5 +1,4 @@
-Pezicula plantarium Wollenw., 1938 SPECIES
-=======
+# Pezicula plantarium Wollenw., 1938 SPECIES
 
 #### Status
 ACCEPTED

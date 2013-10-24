@@ -1,5 +1,4 @@
-Cantharellus nigripedes Cleland & Cheel SPECIES
-=======
+# Cantharellus nigripedes Cleland & Cheel SPECIES
 
 #### Status
 ACCEPTED

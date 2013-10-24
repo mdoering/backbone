@@ -1,14 +1,13 @@
-Microthelia hemisphaerica Müll. Arg. SPECIES
-=======
+# Mycomicrothelia hemisphaerica (Müll. Arg.) D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Br. Mus. nat. Hist. , Bot. 14(2): 86 (1985)
 
 #### Original name
 Microthelia hemisphaerica Müll. Arg.

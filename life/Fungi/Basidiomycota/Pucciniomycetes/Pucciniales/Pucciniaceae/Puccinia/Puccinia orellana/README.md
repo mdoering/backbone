@@ -1,5 +1,4 @@
-Puccinia orellana Syd. SPECIES
-=======
+# Puccinia orellana Syd. SPECIES
 
 #### Status
 ACCEPTED

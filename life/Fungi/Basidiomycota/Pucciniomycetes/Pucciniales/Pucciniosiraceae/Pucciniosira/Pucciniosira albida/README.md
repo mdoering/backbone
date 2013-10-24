@@ -1,5 +1,4 @@
-Pucciniosira albida Buriticá & Pardo-Card., 1998 SPECIES
-=======
+# Pucciniosira albida Buriticá & Pardo-Card., 1998 SPECIES
 
 #### Status
 ACCEPTED

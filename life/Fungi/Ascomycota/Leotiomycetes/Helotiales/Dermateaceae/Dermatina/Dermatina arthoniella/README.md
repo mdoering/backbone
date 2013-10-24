@@ -1,5 +1,4 @@
-Dermatina arthoniella (Nyl.) Riedl SPECIES
-=======
+# Dermatina arthoniella (Nyl.) Riedl SPECIES
 
 #### Status
 ACCEPTED

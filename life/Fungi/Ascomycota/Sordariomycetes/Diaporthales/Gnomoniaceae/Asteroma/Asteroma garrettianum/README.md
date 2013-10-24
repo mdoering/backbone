@@ -1,5 +1,4 @@
-Asteroma garrettianum Syd. & P. Syd. SPECIES
-=======
+# Asteroma garrettianum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

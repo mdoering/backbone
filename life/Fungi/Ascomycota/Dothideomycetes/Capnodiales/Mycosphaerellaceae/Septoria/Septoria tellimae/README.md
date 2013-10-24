@@ -1,5 +1,4 @@
-Septoria tellimae W.B. Cooke & C.G. Shaw SPECIES
-=======
+# Septoria tellimae W.B. Cooke & C.G. Shaw SPECIES
 
 #### Status
 ACCEPTED

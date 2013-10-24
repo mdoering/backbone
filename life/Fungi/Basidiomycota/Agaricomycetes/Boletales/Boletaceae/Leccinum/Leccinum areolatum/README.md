@@ -1,5 +1,4 @@
-Leccinum areolatum A.H. Sm. & Thiers SPECIES
-=======
+# Leccinum areolatum A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

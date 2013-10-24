@@ -1,5 +1,4 @@
-Agaricus alopecius Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus alopecius Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

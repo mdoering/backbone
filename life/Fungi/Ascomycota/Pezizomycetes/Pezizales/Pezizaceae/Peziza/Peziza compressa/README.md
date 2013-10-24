@@ -1,5 +1,4 @@
-Peziza compressa Alb. & Schwein. SPECIES
-=======
+# Peziza compressa Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

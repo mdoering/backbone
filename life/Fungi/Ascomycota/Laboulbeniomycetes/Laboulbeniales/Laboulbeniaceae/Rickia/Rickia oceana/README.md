@@ -1,5 +1,4 @@
-Rickia oceana Sugiy. SPECIES
-=======
+# Rickia oceana Sugiy. SPECIES
 
 #### Status
 ACCEPTED

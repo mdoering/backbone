@@ -1,5 +1,4 @@
-Trematosphaeria graminicola A. Pande SPECIES
-=======
+# Trematosphaeria graminicola A. Pande SPECIES
 
 #### Status
 ACCEPTED

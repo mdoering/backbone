@@ -1,17 +1,16 @@
-Puccinia band-iamiri Durrieu SPECIES
-=======
+# Puccinia band-i-amirii Durrieu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue mycol. , Toulouse 39(3): 147 (1975)
 
 #### Original name
-Puccinia band-iamiri Durrieu
+Puccinia band-i-amirii Durrieu
 
 ### Remarks
 null

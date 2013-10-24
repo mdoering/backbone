@@ -1,5 +1,4 @@
-Stilbum aureolum Sacc. SPECIES
-=======
+# Stilbum aureolum Sacc. SPECIES
 
 #### Status
 ACCEPTED

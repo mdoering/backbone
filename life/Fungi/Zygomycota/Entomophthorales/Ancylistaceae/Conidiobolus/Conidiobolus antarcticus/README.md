@@ -1,5 +1,4 @@
-Conidiobolus antarcticus S. Tosi, Caretta & Humber, 2004 SPECIES
-=======
+# Conidiobolus antarcticus S. Tosi, Caretta & Humber, 2004 SPECIES
 
 #### Status
 ACCEPTED

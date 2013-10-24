@@ -1,5 +1,4 @@
-Coleophoma tylophorae Morim. SPECIES
-=======
+# Coleophoma tylophorae Morim. SPECIES
 
 #### Status
 ACCEPTED

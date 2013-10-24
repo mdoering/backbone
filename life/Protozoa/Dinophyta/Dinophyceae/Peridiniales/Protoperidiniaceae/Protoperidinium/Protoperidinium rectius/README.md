@@ -1,5 +1,4 @@
-Protoperidinium rectius (Graham, 1942) Balech, 1994 SPECIES
-=======
+# Protoperidinium rectius (Graham, 1942) Balech, 1994 SPECIES
 
 #### Status
 ACCEPTED

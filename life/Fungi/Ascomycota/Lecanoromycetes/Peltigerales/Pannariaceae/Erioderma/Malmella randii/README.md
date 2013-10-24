@@ -1,5 +1,4 @@
-Malmella randii C.W. Dodge SPECIES
-=======
+# Malmella randii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

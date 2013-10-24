@@ -1,5 +1,4 @@
-Pleospilis GENUS
-=======
+# Pleospilis GENUS
 
 #### Status
 ACCEPTED

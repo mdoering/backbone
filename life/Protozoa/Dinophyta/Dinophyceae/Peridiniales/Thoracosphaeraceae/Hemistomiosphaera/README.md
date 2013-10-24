@@ -1,5 +1,4 @@
-Hemistomiosphaera Nowak, 1968 GENUS
-=======
+# Hemistomiosphaera Nowak, 1968 GENUS
 
 #### Status
 ACCEPTED

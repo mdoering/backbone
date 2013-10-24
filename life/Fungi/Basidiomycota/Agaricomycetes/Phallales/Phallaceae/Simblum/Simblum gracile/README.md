@@ -1,5 +1,4 @@
-Simblum gracile var. gracile VARIETY
-=======
+# Simblum gracile Berk. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Simblum gracile var. gracile
+Simblum gracile Berk.
 
 ### Remarks
 null

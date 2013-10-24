@@ -1,5 +1,4 @@
-Phomopsis dianthicola Sacc. SPECIES
-=======
+# Phomopsis dianthicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

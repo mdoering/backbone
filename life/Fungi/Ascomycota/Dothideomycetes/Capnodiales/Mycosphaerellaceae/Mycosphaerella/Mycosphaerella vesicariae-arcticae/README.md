@@ -1,5 +1,4 @@
-Mycosphaerella vesicariae-arcticae Henn. SPECIES
-=======
+# Mycosphaerella vesicariae-arcticae Henn. SPECIES
 
 #### Status
 ACCEPTED

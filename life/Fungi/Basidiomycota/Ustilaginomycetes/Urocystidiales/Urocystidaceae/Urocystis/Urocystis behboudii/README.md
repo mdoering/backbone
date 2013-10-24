@@ -1,14 +1,13 @@
-Tuburcinia behboudii Esfand., 1950 SPECIES
-=======
+# Urocystis behboudii (Esfand.) Vánky, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 4(1-6): 11 (1950)
+Symb. bot. upsal. 24(no. 2): 154 (1985)
 
 #### Original name
 Tuburcinia behboudii Esfand., 1950

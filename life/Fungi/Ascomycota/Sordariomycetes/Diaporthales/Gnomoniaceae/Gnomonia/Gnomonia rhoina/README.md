@@ -1,5 +1,4 @@
-Gnomonia rhoina Feltgen SPECIES
-=======
+# Gnomonia rhoina Feltgen SPECIES
 
 #### Status
 ACCEPTED

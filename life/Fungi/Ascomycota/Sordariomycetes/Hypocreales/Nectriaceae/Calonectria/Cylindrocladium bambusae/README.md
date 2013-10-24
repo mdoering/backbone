@@ -1,5 +1,4 @@
-Cylindrocladium bambusae Hara SPECIES
-=======
+# Cylindrocladium bambusae Hara SPECIES
 
 #### Status
 ACCEPTED

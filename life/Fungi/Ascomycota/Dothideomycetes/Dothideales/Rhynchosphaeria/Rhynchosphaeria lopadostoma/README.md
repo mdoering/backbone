@@ -1,5 +1,4 @@
-Rhynchosphaeria lopadostoma (Feltgen) Sacc. & D. Sacc. SPECIES
-=======
+# Rhynchosphaeria lopadostoma (Feltgen) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

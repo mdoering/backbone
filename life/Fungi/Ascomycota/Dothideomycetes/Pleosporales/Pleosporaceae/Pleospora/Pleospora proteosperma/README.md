@@ -1,5 +1,4 @@
-Pleospora proteosperma Speg. SPECIES
-=======
+# Pleospora proteosperma Speg. SPECIES
 
 #### Status
 ACCEPTED

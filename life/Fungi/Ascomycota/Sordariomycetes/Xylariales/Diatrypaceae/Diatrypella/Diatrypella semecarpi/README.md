@@ -1,5 +1,4 @@
-Diatrypella semecarpi R.K. Verma SPECIES
-=======
+# Diatrypella semecarpi R.K. Verma SPECIES
 
 #### Status
 ACCEPTED

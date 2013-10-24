@@ -1,5 +1,4 @@
-Volvaria geaster Berk. & Broome SPECIES
-=======
+# Volvaria geaster Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

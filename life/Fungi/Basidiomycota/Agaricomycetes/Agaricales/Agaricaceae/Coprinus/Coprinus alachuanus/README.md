@@ -1,5 +1,4 @@
-Coprinus alachuanus Murrill SPECIES
-=======
+# Coprinus alachuanus Murrill SPECIES
 
 #### Status
 ACCEPTED

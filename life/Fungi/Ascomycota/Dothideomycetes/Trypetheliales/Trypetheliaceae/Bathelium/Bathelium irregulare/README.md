@@ -1,5 +1,4 @@
-Bathelium irregulare Müll. Arg. SPECIES
-=======
+# Bathelium irregulare Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

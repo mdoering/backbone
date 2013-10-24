@@ -1,5 +1,4 @@
-Melanconium cryptosporium Corda SPECIES
-=======
+# Melanconium cryptosporium Corda SPECIES
 
 #### Status
 ACCEPTED

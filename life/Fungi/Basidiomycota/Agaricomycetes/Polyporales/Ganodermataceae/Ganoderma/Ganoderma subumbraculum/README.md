@@ -1,5 +1,4 @@
-Ganoderma subumbraculum Imazeki SPECIES
-=======
+# Ganoderma subumbraculum Imazeki SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aulospathessa Haeckel, 1887 GENUS
-=======
+# Aulospathessa Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Sarrameana cyamidia (Stirt.) Kantvilas & Vezda SPECIES
-=======
+# Loxospora cyamidia (Stirt.) Kantvilas SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nordic Jl Bot. 16(3): 329 (1996)
+Herzogia 14: 37 (2000)
 
 #### Original name
 Lecanora cyamidia Stirt.

@@ -1,5 +1,4 @@
-Flammula paupercula Ces. SPECIES
-=======
+# Flammula paupercula Ces. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caudatispora J. Fröhl. & K.D. Hyde GENUS
-=======
+# Caudatispora J. Fröhl. & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

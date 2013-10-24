@@ -1,5 +1,4 @@
-Mycobilimbia parvilobulosa Sarrión, Aragón & Hafellner SPECIES
-=======
+# Mycobilimbia parvilobulosa Sarrión, Aragón & Hafellner SPECIES
 
 #### Status
 ACCEPTED

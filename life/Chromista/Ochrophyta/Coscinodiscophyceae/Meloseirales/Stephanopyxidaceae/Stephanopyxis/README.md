@@ -1,5 +1,4 @@
-Stephanopyxis (C. G. Ehrenb.) C. G. Ehrenb. GENUS
-=======
+# Stephanopyxis (C. G. Ehrenb.) C. G. Ehrenb. GENUS
 
 #### Status
 ACCEPTED

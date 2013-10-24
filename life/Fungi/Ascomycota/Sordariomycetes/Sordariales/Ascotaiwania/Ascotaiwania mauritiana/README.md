@@ -1,5 +1,4 @@
-Ascotaiwania mauritiana Dulym., P.F. Cannon, K.D. Hyde & Peerally, 2001 SPECIES
-=======
+# Ascotaiwania mauritiana Dulym., P.F. Cannon, K.D. Hyde & Peerally, 2001 SPECIES
 
 #### Status
 ACCEPTED

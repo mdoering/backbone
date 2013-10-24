@@ -1,5 +1,4 @@
-Diffusilina Heron-Allen & Earland, 1924 GENUS
-=======
+# Diffusilina Heron-Allen & Earland, 1924 GENUS
 
 #### Status
 ACCEPTED

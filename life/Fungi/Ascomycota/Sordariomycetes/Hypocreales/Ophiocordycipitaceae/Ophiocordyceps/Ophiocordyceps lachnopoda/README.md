@@ -1,5 +1,4 @@
-Ophiocordyceps lachnopoda (Penz. & Sacc.) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps lachnopoda (Penz. & Sacc.) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED

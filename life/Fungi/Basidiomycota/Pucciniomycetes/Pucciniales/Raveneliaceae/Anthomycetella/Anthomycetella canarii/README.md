@@ -1,5 +1,4 @@
-Anthomycetella canarii Syd. & P. Syd., 1916 SPECIES
-=======
+# Anthomycetella canarii Syd. & P. Syd., 1916 SPECIES
 
 #### Status
 ACCEPTED

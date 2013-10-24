@@ -1,5 +1,4 @@
-Licnophora europaea Garbini, 1898 SPECIES
-=======
+# Licnophora europaea Garbini, 1898 SPECIES
 
 #### Status
 ACCEPTED

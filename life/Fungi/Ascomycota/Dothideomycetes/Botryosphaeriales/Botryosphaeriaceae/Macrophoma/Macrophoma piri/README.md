@@ -1,5 +1,4 @@
-Macrophoma piri Sousa da Câmara SPECIES
-=======
+# Macrophoma piri Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

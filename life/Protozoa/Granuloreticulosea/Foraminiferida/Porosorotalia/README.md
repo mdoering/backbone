@@ -1,5 +1,4 @@
-Porosorotalia Voloshinova, 1958 GENUS
-=======
+# Porosorotalia Voloshinova, 1958 GENUS
 
 #### Status
 ACCEPTED

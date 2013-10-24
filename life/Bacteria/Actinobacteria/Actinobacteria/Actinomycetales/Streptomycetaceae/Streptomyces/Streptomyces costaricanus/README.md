@@ -1,5 +1,4 @@
-Streptomyces costaricanus Esnard et al., 1995 SPECIES
-=======
+# Streptomyces costaricanus Esnard et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

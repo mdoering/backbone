@@ -1,5 +1,4 @@
-Balantidium steinae Ky, 1971 SPECIES
-=======
+# Balantidium steinae Ky, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brachysporium echinochloae Sawada SPECIES
-=======
+# Brachysporium echinochloae Sawada SPECIES
 
 #### Status
 ACCEPTED

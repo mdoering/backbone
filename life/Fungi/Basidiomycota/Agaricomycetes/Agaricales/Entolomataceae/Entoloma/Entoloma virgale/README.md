@@ -1,5 +1,4 @@
-Entoloma virgale (Pegler) Courtec. SPECIES
-=======
+# Entoloma virgale (Pegler) Courtec. SPECIES
 
 #### Status
 ACCEPTED

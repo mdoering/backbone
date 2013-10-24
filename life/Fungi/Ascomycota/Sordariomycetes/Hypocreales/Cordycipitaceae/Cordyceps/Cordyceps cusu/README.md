@@ -1,5 +1,4 @@
-Cordyceps cusu Pat. SPECIES
-=======
+# Cordyceps cusu Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium syringicola K. Schub. & U. Braun SPECIES
-=======
+# Cladosporium syringicola K. Schub. & U. Braun SPECIES
 
 #### Status
 ACCEPTED

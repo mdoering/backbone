@@ -1,5 +1,4 @@
-Tiarospora westendorpii Sacc. & Marchal, 1885 SPECIES
-=======
+# Tiarospora westendorpii Sacc. & Marchal, 1885 SPECIES
 
 #### Status
 ACCEPTED

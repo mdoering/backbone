@@ -1,5 +1,4 @@
-Phoma typhicola Oudem. SPECIES
-=======
+# Phoma typhicola Oudem. SPECIES
 
 #### Status
 ACCEPTED

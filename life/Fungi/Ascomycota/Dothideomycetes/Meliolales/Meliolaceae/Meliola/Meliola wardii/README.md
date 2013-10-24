@@ -1,5 +1,4 @@
-Meliola wardii var. wardii VARIETY
-=======
+# Meliola wardii F. Stevens SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls mycol. 26(3/4): 213 (1928)
 
 #### Original name
-Meliola wardii var. wardii
+Meliola wardii F. Stevens
 
 ### Remarks
 null

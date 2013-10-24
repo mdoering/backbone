@@ -1,5 +1,4 @@
-Cantharellus helotioides Schwein. SPECIES
-=======
+# Cantharellus helotioides Schwein. SPECIES
 
 #### Status
 ACCEPTED

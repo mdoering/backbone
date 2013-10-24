@@ -1,5 +1,4 @@
-Thrombium glaciale Wallr. SPECIES
-=======
+# Thrombium glaciale Wallr. SPECIES
 
 #### Status
 ACCEPTED

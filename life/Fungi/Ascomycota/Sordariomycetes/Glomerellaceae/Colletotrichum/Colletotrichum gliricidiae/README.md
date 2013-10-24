@@ -1,5 +1,4 @@
-Colletotrichum gliricidiae Syd. & P. Syd. SPECIES
-=======
+# Colletotrichum gliricidiae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

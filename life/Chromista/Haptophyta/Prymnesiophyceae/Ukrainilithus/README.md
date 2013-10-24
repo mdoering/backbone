@@ -1,5 +1,4 @@
-Ukrainilithus Lulyeva, 1972 GENUS
-=======
+# Ukrainilithus Lulyeva, 1972 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Octaviania socialis Harkn. SPECIES
-=======
+# Octaviania socialis Harkn. SPECIES
 
 #### Status
 ACCEPTED

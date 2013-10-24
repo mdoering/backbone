@@ -1,5 +1,4 @@
-Anaeromusa Baena et al., 1999 GENUS
-=======
+# Anaeromusa Baena et al., 1999 GENUS
 
 #### Status
 ACCEPTED

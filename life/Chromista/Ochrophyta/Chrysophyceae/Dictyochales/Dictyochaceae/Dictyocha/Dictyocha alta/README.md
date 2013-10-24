@@ -1,5 +1,4 @@
-Dictyocha alta P. F. Ciesielski SPECIES
-=======
+# Dictyocha alta P. F. Ciesielski SPECIES
 
 #### Status
 ACCEPTED

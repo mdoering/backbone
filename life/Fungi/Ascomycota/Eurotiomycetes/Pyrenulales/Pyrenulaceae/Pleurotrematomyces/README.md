@@ -1,5 +1,4 @@
-Pleurotrematomyces GENUS
-=======
+# Pleurotrematomyces GENUS
 
 #### Status
 ACCEPTED

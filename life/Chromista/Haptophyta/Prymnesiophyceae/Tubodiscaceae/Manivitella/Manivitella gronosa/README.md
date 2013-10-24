@@ -1,5 +1,4 @@
-Manivitella gronosa (Stover, 1966) Black, 1973 SPECIES
-=======
+# Manivitella gronosa (Stover, 1966) Black, 1973 SPECIES
 
 #### Status
 ACCEPTED

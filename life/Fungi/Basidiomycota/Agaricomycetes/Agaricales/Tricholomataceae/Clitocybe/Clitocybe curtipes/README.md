@@ -1,5 +1,4 @@
-Clitocybe curtipes (Fr.) Gillet SPECIES
-=======
+# Clitocybe curtipes (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

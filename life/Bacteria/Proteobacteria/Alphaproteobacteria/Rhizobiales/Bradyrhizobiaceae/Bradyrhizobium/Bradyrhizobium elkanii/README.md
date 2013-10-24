@@ -1,5 +1,4 @@
-Bradyrhizobium elkanii Kuykendall et al., 1993 SPECIES
-=======
+# Bradyrhizobium elkanii Kuykendall et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

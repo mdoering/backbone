@@ -1,5 +1,4 @@
-Trichosporon piscium Siepmann SPECIES
-=======
+# Trichosporon piscium Siepmann SPECIES
 
 #### Status
 ACCEPTED

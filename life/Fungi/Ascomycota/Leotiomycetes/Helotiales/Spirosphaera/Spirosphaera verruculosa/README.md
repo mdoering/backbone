@@ -1,5 +1,4 @@
-Spirosphaera verruculosa Abdullah, Y. Horie & Udagawa, 1986 SPECIES
-=======
+# Spirosphaera verruculosa Abdullah, Y. Horie & Udagawa, 1986 SPECIES
 
 #### Status
 ACCEPTED

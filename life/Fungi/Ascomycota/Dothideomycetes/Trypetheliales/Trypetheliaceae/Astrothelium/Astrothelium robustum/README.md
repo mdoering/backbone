@@ -1,5 +1,4 @@
-Astrothelium robustum Müll. Arg. SPECIES
-=======
+# Astrothelium robustum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

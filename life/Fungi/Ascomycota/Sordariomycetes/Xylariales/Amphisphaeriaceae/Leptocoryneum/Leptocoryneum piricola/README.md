@@ -1,14 +1,13 @@
-Leptocoryneum piricolum (Sacc.) Petr. SPECIES
-=======
+# Leptocoryneum piricola (Sacc.) Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 65: 279 (1925)
 
 #### Original name
 Hendersonia piricola Sacc.

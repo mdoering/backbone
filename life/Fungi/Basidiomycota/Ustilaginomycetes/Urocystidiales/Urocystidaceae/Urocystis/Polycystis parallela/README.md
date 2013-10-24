@@ -1,5 +1,4 @@
-Polycystis parallela (Berk.) Fr. SPECIES
-=======
+# Polycystis parallela (Berk.) Fr. SPECIES
 
 #### Status
 ACCEPTED

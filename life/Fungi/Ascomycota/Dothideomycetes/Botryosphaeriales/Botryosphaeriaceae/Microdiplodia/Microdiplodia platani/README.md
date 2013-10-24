@@ -1,5 +1,4 @@
-Microdiplodia platani (Tassi) Allesch. SPECIES
-=======
+# Microdiplodia platani (Tassi) Allesch. SPECIES
 
 #### Status
 ACCEPTED

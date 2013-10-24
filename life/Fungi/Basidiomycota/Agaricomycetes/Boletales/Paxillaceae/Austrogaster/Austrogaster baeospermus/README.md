@@ -1,5 +1,4 @@
-Austrogaster baeospermus Singer, 1969 SPECIES
-=======
+# Austrogaster baeospermus Singer, 1969 SPECIES
 
 #### Status
 ACCEPTED

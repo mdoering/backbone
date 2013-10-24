@@ -1,5 +1,4 @@
-Cytospora hippophaës Thüm. SPECIES
-=======
+# Cytospora hippophaës Thüm. SPECIES
 
 #### Status
 ACCEPTED

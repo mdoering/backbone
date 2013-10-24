@@ -1,5 +1,4 @@
-Gloeosporium trotteri Fiore SPECIES
-=======
+# Gloeosporium trotteri Fiore SPECIES
 
 #### Status
 ACCEPTED

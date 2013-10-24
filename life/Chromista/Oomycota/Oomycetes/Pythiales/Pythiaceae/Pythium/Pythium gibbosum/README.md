@@ -1,5 +1,4 @@
-Pythium gibbosum De Wild. SPECIES
-=======
+# Pythium gibbosum De Wild. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta variegata Ellis & Everh. SPECIES
-=======
+# Phyllosticta variegata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymella castanella (Cooke & Ellis) Sacc. SPECIES
-=======
+# Didymella castanella (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

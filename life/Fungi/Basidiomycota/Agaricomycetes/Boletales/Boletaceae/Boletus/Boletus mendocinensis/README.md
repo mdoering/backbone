@@ -1,5 +1,4 @@
-Boletus mendocinensis Thiers SPECIES
-=======
+# Boletus mendocinensis Thiers SPECIES
 
 #### Status
 ACCEPTED

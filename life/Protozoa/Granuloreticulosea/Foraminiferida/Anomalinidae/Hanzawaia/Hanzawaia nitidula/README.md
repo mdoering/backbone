@@ -1,5 +1,4 @@
-Hanzawaia nitidula (Bandy) SPECIES
-=======
+# Hanzawaia nitidula (Bandy) SPECIES
 
 #### Status
 ACCEPTED

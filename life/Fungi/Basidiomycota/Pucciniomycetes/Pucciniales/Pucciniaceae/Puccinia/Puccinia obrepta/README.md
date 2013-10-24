@@ -1,5 +1,4 @@
-Puccinia obrepta H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia obrepta H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacidites ari (R. Ludw.) Schimp. SPECIES
-=======
+# Phacidites ari (R. Ludw.) Schimp. SPECIES
 
 #### Status
 ACCEPTED

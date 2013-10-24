@@ -1,14 +1,13 @@
-Peziza coerulea (Clem.) Sacc. & D. Sacc. SPECIES
-=======
+# Peziza caerulea (Clem.) Sacc. & D. Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 18: 20 (1906)
 
 #### Original name
 Heteroplegma caeruleum Clem.

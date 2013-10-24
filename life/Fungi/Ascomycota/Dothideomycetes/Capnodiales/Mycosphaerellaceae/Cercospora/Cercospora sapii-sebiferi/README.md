@@ -1,5 +1,4 @@
-Cercospora sapii-sebiferi Sawada SPECIES
-=======
+# Cercospora sapii-sebiferi Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia puntana J.C. Lindq. SPECIES
-=======
+# Puccinia puntana J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

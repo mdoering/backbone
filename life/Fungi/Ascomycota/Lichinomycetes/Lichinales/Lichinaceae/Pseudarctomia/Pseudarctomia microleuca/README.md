@@ -1,14 +1,13 @@
-Pannaria microleuca Nyl. SPECIES
-=======
+# Pseudarctomia microleuca (Nyl.) Gyeln. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls hist. -nat. Mus. natn. hung. (1939)
 
 #### Original name
 Pannaria microleuca Nyl.

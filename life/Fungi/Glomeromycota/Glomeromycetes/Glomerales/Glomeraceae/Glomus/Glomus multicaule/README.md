@@ -1,17 +1,16 @@
-Glomus multicaulis Gerd. & B.K. Bakshi SPECIES
-=======
+# Glomus multicaule Gerd. & B.K. Bakshi, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 66(2): 340 (1976)
 
 #### Original name
-Glomus multicaulis Gerd. & B.K. Bakshi
+Glomus multicaule Gerd. & B.K. Bakshi, 1976
 
 ### Remarks
 null

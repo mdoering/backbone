@@ -1,5 +1,4 @@
-Dothidea porlieriae Rehm SPECIES
-=======
+# Dothidea porlieriae Rehm SPECIES
 
 #### Status
 ACCEPTED

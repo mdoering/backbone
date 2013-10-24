@@ -1,5 +1,4 @@
-Rhytisma palaeoacerinus Engelhard SPECIES
-=======
+# Rhytisma palaeoacerinus Engelhard SPECIES
 
 #### Status
 ACCEPTED

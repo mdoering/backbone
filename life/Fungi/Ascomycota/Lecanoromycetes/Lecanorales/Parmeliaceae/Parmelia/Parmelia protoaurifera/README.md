@@ -1,5 +1,4 @@
-Parmelia protoaurifera Gyeln. SPECIES
-=======
+# Parmelia protoaurifera Gyeln. SPECIES
 
 #### Status
 ACCEPTED

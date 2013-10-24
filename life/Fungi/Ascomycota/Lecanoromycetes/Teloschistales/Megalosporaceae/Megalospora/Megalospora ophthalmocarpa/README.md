@@ -1,5 +1,4 @@
-Megalospora ophthalmocarpa (Vain.) Zahlbr. SPECIES
-=======
+# Megalospora ophthalmocarpa (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

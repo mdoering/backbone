@@ -1,5 +1,4 @@
-Micrhystridium pseudocoronatum Tynni, 1982 SPECIES
-=======
+# Micrhystridium pseudocoronatum Tynni, 1982 SPECIES
 
 #### Status
 ACCEPTED

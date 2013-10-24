@@ -1,5 +1,4 @@
-Diaporthe piri Hazsl. SPECIES
-=======
+# Diaporthe piri Hazsl. SPECIES
 
 #### Status
 ACCEPTED

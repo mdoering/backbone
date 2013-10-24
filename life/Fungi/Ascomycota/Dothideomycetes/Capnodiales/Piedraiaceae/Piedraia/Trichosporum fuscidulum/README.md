@@ -1,5 +1,4 @@
-Trichosporum fuscidulum Bres. SPECIES
-=======
+# Trichosporum fuscidulum Bres. SPECIES
 
 #### Status
 ACCEPTED

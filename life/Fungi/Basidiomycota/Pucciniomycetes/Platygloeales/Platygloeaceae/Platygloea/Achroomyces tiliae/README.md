@@ -1,5 +1,4 @@
-Achroomyces tiliae (Lasch) Höhn. SPECIES
-=======
+# Achroomyces tiliae (Lasch) Höhn. SPECIES
 
 #### Status
 ACCEPTED

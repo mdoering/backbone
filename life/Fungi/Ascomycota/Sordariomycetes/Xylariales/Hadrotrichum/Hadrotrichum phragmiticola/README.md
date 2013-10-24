@@ -1,5 +1,4 @@
-Hadrotrichum phragmiticola Teng SPECIES
-=======
+# Hadrotrichum phragmiticola Teng SPECIES
 
 #### Status
 ACCEPTED

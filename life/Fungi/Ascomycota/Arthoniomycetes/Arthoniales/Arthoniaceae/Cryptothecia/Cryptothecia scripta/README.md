@@ -1,5 +1,4 @@
-Cryptothecia scripta G. Thor SPECIES
-=======
+# Cryptothecia scripta G. Thor SPECIES
 
 #### Status
 ACCEPTED

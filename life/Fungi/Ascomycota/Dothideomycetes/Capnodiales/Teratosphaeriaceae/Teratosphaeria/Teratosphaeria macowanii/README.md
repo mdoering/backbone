@@ -1,5 +1,4 @@
-Teratosphaeria macowanii (Sacc.) Crous, 2009 SPECIES
-=======
+# Teratosphaeria macowanii (Sacc.) Crous, 2009 SPECIES
 
 #### Status
 ACCEPTED

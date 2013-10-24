@@ -1,5 +1,4 @@
-Uredo miniata Pers. SPECIES
-=======
+# Uredo miniata Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenula citrina Boud. SPECIES
-=======
+# Hymenula citrina Boud. SPECIES
 
 #### Status
 ACCEPTED

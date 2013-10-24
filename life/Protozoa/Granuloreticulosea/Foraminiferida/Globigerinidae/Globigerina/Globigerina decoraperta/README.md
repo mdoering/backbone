@@ -1,5 +1,4 @@
-Globigerina decoraperta Takayanagi & Saito SPECIES
-=======
+# Globigerina decoraperta Takayanagi & Saito SPECIES
 
 #### Status
 ACCEPTED

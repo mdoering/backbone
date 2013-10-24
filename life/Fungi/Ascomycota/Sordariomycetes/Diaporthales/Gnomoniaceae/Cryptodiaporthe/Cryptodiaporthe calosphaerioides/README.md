@@ -1,5 +1,4 @@
-Cryptodiaporthe calosphaerioides (Ellis & Everh.) Wehm. SPECIES
-=======
+# Cryptodiaporthe calosphaerioides (Ellis & Everh.) Wehm. SPECIES
 
 #### Status
 ACCEPTED

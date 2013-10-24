@@ -1,8 +1,7 @@
-Cryptodifflugia eboracensis Wailes & Penard, 1911 SPECIES
-=======
+# Wailesella eboracensis (Wailes & Penard, 1911) Deflandre, 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,14 +1,13 @@
-Strickera mamodes (Ellis & Everh.) Kuntze SPECIES
-=======
+# Strickeria mamodes (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3(2): 534 (1898)
 
 #### Original name
 Teichospora mamodes Ellis & Everh.

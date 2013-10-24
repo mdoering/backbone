@@ -1,5 +1,4 @@
-Zevadia peroccidentalis J.C. David & D. Hawksw., 1995 SPECIES
-=======
+# Zevadia peroccidentalis J.C. David & D. Hawksw., 1995 SPECIES
 
 #### Status
 ACCEPTED

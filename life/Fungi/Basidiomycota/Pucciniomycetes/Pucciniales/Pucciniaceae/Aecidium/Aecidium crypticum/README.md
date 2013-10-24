@@ -1,5 +1,4 @@
-Aecidium crypticum Kalchbr. & Cooke SPECIES
-=======
+# Aecidium crypticum Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

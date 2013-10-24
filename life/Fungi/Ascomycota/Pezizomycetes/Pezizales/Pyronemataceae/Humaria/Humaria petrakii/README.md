@@ -1,5 +1,4 @@
-Humaria petrakii Sacc. SPECIES
-=======
+# Humaria petrakii Sacc. SPECIES
 
 #### Status
 ACCEPTED

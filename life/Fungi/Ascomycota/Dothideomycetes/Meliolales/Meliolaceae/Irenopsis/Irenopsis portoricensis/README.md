@@ -1,5 +1,4 @@
-Irenopsis portoricensis F. Stevens SPECIES
-=======
+# Irenopsis portoricensis F. Stevens SPECIES
 
 #### Status
 ACCEPTED

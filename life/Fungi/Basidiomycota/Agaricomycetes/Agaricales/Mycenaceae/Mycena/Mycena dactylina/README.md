@@ -1,5 +1,4 @@
-Mycena dactylina Maas Geest. & de Meijer SPECIES
-=======
+# Mycena dactylina Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

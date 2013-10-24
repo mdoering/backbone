@@ -1,5 +1,4 @@
-Parmelia confusula Zahlbr. SPECIES
-=======
+# Parmelia confusula Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

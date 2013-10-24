@@ -1,5 +1,4 @@
-Pyrenochaeta destructiva McAlpine SPECIES
-=======
+# Pyrenochaeta destructiva McAlpine SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium stenosporum Ellis & Kellerm. SPECIES
-=======
+# Gloeosporium stenosporum Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

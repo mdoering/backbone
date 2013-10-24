@@ -1,5 +1,4 @@
-Sorosphaera confusa Brady, 1879 SPECIES
-=======
+# Sorosphaera confusa Brady, 1879 SPECIES
 
 #### Status
 ACCEPTED

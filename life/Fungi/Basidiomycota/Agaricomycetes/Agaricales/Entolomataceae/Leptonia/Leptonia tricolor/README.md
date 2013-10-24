@@ -1,5 +1,4 @@
-Leptonia tricolor Massee SPECIES
-=======
+# Leptonia tricolor Massee SPECIES
 
 #### Status
 ACCEPTED

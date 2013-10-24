@@ -1,5 +1,4 @@
-Cortinarius sabulicola Rob. Henry & Contu SPECIES
-=======
+# Cortinarius sabulicola Rob. Henry & Contu SPECIES
 
 #### Status
 ACCEPTED

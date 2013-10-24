@@ -1,5 +1,4 @@
-Porina glaucocinerea (Nyl.) Zahlbr. SPECIES
-=======
+# Porina glaucocinerea (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

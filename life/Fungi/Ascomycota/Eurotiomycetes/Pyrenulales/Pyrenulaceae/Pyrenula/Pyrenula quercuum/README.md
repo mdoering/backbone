@@ -1,5 +1,4 @@
-Pyrenula quercuum SPECIES
-=======
+# Pyrenula quercuum SPECIES
 
 #### Status
 ACCEPTED

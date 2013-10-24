@@ -1,5 +1,4 @@
-Mollisia purpurea Rehm SPECIES
-=======
+# Mollisia purpurea Rehm SPECIES
 
 #### Status
 ACCEPTED

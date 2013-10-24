@@ -1,5 +1,4 @@
-Sphacelotheca iseilematis (Syd., P. Syd. & E.J. Butler) Mundk. & Thirum. SPECIES
-=======
+# Sphacelotheca iseilematis (Syd., P. Syd. & E.J. Butler) Mundk. & Thirum. SPECIES
 
 #### Status
 ACCEPTED

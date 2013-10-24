@@ -1,5 +1,4 @@
-Haplographium hispidulum Dobrescu & Volc. SPECIES
-=======
+# Haplographium hispidulum Dobrescu & Volc. SPECIES
 
 #### Status
 ACCEPTED

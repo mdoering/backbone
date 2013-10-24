@@ -1,5 +1,4 @@
-Cleistophoma shiraiana (P. Syd.) Aa SPECIES
-=======
+# Cleistophoma shiraiana (P. Syd.) Aa SPECIES
 
 #### Status
 ACCEPTED

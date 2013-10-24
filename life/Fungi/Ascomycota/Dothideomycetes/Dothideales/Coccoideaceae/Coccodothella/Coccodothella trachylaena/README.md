@@ -1,5 +1,4 @@
-Coccodothella trachylaena Syd. SPECIES
-=======
+# Coccodothella trachylaena Syd. SPECIES
 
 #### Status
 ACCEPTED

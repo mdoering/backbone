@@ -1,5 +1,4 @@
-Phomatospora anacardicola Bat. SPECIES
-=======
+# Phomatospora anacardicola Bat. SPECIES
 
 #### Status
 ACCEPTED

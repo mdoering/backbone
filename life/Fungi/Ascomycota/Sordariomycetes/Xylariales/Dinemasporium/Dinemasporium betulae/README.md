@@ -1,5 +1,4 @@
-Dinemasporium betulae (Fuckel) Sacc. SPECIES
-=======
+# Dinemasporium betulae (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

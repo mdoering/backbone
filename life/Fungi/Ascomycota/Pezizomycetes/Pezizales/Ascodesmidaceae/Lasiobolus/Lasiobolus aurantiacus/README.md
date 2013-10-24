@@ -1,5 +1,4 @@
-Lasiobolus aurantiacus Bat. & H. Maia SPECIES
-=======
+# Lasiobolus aurantiacus Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

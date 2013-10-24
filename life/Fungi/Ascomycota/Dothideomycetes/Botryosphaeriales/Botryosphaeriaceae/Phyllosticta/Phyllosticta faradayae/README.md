@@ -1,5 +1,4 @@
-Phyllosticta faradayae Sacc. SPECIES
-=======
+# Phyllosticta faradayae Sacc. SPECIES
 
 #### Status
 ACCEPTED

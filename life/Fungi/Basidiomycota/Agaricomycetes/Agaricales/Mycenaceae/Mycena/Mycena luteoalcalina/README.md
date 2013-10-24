@@ -1,5 +1,4 @@
-Mycena luteoalcalina subsp. luteoalcalina SUBSPECIES
-=======
+# Mycena luteoalcalina Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Beih. bot. Zbl. 46(2): 95 (1929)
 
 #### Original name
-Mycena luteoalcalina subsp. luteoalcalina
+Mycena luteoalcalina Singer
 
 ### Remarks
 null

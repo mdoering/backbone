@@ -1,5 +1,4 @@
-Rhodophyllus pseudotruncatus Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus pseudotruncatus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

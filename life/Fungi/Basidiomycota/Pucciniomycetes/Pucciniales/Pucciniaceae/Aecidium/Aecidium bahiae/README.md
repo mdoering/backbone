@@ -1,5 +1,4 @@
-Aecidium bahiae Berk. & M.A. Curtis SPECIES
-=======
+# Aecidium bahiae Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

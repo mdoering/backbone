@@ -1,5 +1,4 @@
-Dimerosporium galactis Ellis & Everh. SPECIES
-=======
+# Dimerosporium galactis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

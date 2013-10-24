@@ -1,5 +1,4 @@
-Koordersiella goianensis Poroca SPECIES
-=======
+# Koordersiella goianensis Poroca SPECIES
 
 #### Status
 ACCEPTED

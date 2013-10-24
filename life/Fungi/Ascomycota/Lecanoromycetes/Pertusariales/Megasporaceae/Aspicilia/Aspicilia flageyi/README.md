@@ -1,5 +1,4 @@
-Aspicilia flageyi Hue SPECIES
-=======
+# Aspicilia flageyi Hue SPECIES
 
 #### Status
 ACCEPTED

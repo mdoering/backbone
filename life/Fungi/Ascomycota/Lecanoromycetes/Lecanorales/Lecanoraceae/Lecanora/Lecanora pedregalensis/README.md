@@ -1,5 +1,4 @@
-Lecanora pedregalensis SPECIES
-=======
+# Lecanora pedregalensis SPECIES
 
 #### Status
 ACCEPTED

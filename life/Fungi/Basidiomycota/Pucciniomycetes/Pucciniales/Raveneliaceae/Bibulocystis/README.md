@@ -1,5 +1,4 @@
-Bibulocystis J. Walker, Beilharz, Pascoe & Priest GENUS
-=======
+# Bibulocystis J. Walker, Beilharz, Pascoe & Priest GENUS
 
 #### Status
 ACCEPTED

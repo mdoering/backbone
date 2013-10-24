@@ -1,5 +1,4 @@
-Diaporthe palustris Brunaud SPECIES
-=======
+# Diaporthe palustris Brunaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria alamoi Toro SPECIES
-=======
+# Septoria alamoi Toro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anophrys ycus SPECIES
-=======
+# Anophrys ycus SPECIES
 
 #### Status
 ACCEPTED

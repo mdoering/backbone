@@ -1,5 +1,4 @@
-Clasterosporium domus-aliena Cif. & Bat. SPECIES
-=======
+# Clasterosporium domus-aliena Cif. & Bat. SPECIES
 
 #### Status
 ACCEPTED

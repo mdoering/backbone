@@ -1,5 +1,4 @@
-Hygrophorus pomona Berk. SPECIES
-=======
+# Hygrophorus pomona Berk. SPECIES
 
 #### Status
 ACCEPTED

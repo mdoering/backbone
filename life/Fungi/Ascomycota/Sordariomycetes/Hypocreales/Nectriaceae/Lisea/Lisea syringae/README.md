@@ -1,5 +1,4 @@
-Lisea syringae Hazsl. SPECIES
-=======
+# Lisea syringae Hazsl. SPECIES
 
 #### Status
 ACCEPTED

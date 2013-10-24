@@ -1,5 +1,4 @@
-Chiodecton mucorinum Zahlbr. SPECIES
-=======
+# Chiodecton mucorinum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

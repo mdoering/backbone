@@ -1,5 +1,4 @@
-Aspergillus indohii Y. Horie SPECIES
-=======
+# Aspergillus indohii Y. Horie SPECIES
 
 #### Status
 ACCEPTED

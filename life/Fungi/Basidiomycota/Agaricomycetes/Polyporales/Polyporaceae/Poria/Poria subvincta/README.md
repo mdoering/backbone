@@ -1,5 +1,4 @@
-Poria subvincta (Berk. & Broome) Sacc. SPECIES
-=======
+# Poria subvincta (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

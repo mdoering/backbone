@@ -1,5 +1,4 @@
-Boletus hypocarycinus Singer SPECIES
-=======
+# Boletus hypocarycinus Singer SPECIES
 
 #### Status
 ACCEPTED

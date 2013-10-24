@@ -1,5 +1,4 @@
-Uredo artemisiae-japonicae Dietel SPECIES
-=======
+# Uredo artemisiae-japonicae Dietel SPECIES
 
 #### Status
 ACCEPTED

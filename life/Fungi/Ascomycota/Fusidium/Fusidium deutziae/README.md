@@ -1,5 +1,4 @@
-Fusidium deutziae Cooke SPECIES
-=======
+# Fusidium deutziae Cooke SPECIES
 
 #### Status
 ACCEPTED

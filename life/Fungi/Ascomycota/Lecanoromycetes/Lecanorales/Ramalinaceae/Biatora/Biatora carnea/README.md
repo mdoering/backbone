@@ -1,5 +1,4 @@
-Biatora carnea Körb. SPECIES
-=======
+# Biatora carnea Körb. SPECIES
 
 #### Status
 ACCEPTED

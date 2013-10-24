@@ -1,5 +1,4 @@
-Irene cecropiicola Hansf. SPECIES
-=======
+# Irene cecropiicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

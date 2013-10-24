@@ -1,17 +1,16 @@
-Sphaerella muehlenbergiae Ellis SPECIES
-=======
+# Sphaerella muhlenbergiae Ellis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Am. Nat. 17: 317 (1883)
 
 #### Original name
-Sphaerella muehlenbergiae Ellis
+Sphaerella muhlenbergiae Ellis
 
 ### Remarks
 null

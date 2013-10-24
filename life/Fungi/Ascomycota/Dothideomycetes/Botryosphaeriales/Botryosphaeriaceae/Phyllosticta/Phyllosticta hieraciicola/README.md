@@ -1,5 +1,4 @@
-Phyllosticta hieraciicola Rostr. SPECIES
-=======
+# Phyllosticta hieraciicola Rostr. SPECIES
 
 #### Status
 ACCEPTED

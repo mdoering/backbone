@@ -1,5 +1,4 @@
-Lagotia dinaridica Primc-Habdija & Matonickin, 2005 SPECIES
-=======
+# Lagotia dinaridica Primc-Habdija & Matonickin, 2005 SPECIES
 
 #### Status
 ACCEPTED

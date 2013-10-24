@@ -1,5 +1,4 @@
-Aspergillus aureofulgens Luppi Mosca SPECIES
-=======
+# Aspergillus aureofulgens Luppi Mosca SPECIES
 
 #### Status
 ACCEPTED

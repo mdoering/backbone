@@ -1,5 +1,4 @@
-Camarophyllus chrysoconos (S. Imai) S. Ito SPECIES
-=======
+# Camarophyllus chrysoconos (S. Imai) S. Ito SPECIES
 
 #### Status
 ACCEPTED

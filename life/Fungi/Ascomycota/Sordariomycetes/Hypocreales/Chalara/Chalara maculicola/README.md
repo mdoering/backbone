@@ -1,5 +1,4 @@
-Chalara maculicola Moesz & Smarods SPECIES
-=======
+# Chalara maculicola Moesz & Smarods SPECIES
 
 #### Status
 ACCEPTED

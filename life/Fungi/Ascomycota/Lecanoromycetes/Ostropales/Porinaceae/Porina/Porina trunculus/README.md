@@ -1,5 +1,4 @@
-Porina trunculus (Stizenb.) Zahlbr. SPECIES
-=======
+# Porina trunculus (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Buellia johnstoni C.W. Dodge SPECIES
-=======
+# Buellia johnstonii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+B. A. N. Z. Antarct. Exped. Res. Rep. 7: 248 (1948)
 
 #### Original name
-Buellia johnstoni C.W. Dodge
+Buellia johnstonii C.W. Dodge
 
 ### Remarks
 null

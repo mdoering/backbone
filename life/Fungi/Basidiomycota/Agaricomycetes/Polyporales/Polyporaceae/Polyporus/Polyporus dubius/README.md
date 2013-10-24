@@ -1,5 +1,4 @@
-Polyporus dubius Berk. SPECIES
-=======
+# Polyporus dubius Berk. SPECIES
 
 #### Status
 ACCEPTED

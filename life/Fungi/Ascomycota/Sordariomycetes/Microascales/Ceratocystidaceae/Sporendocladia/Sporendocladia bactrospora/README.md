@@ -1,14 +1,13 @@
-Phialocephala bactrospora W.B. Kendr., 1961 SPECIES
-=======
+# Sporendocladia bactrospora (W.B. Kendr.) M.J. Wingf., 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 39(5): 1083 (1961)
+in Wingfield, Wyk & Wingfield, Trans. Br. mycol. Soc. 89(4): 515 (1987)
 
 #### Original name
 Phialocephala bactrospora W.B. Kendr., 1961

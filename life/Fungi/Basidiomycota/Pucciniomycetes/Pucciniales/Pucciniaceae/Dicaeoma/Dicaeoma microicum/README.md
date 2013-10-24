@@ -1,5 +1,4 @@
-Dicaeoma microicum (Ellis) Kuntze SPECIES
-=======
+# Dicaeoma microicum (Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

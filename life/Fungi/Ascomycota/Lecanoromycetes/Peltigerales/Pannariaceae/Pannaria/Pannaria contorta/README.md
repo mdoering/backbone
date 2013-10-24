@@ -1,5 +1,4 @@
-Pannaria contorta (Müll. Arg.) Passo & Calvelo SPECIES
-=======
+# Pannaria contorta (Müll. Arg.) Passo & Calvelo SPECIES
 
 #### Status
 ACCEPTED

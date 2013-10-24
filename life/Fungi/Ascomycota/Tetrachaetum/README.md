@@ -1,5 +1,4 @@
-Tetrachaetum Ingold GENUS
-=======
+# Tetrachaetum Ingold GENUS
 
 #### Status
 ACCEPTED

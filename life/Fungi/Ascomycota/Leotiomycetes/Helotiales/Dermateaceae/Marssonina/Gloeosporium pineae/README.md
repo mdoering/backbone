@@ -1,5 +1,4 @@
-Gloeosporium pineae Bubák SPECIES
-=======
+# Gloeosporium pineae Bubák SPECIES
 
 #### Status
 ACCEPTED

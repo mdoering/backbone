@@ -1,5 +1,4 @@
-Hexamita Dujardin, 1838 GENUS
-=======
+# Hexamita Dujardin, 1838 GENUS
 
 #### Status
 ACCEPTED

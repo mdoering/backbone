@@ -1,5 +1,4 @@
-Passalora senecionicola U. Braun & Delhey SPECIES
-=======
+# Passalora senecionicola U. Braun & Delhey SPECIES
 
 #### Status
 ACCEPTED

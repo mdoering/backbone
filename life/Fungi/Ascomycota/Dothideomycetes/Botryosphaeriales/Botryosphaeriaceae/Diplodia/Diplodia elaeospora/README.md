@@ -1,5 +1,4 @@
-Diplodia elaeospora Sacc. SPECIES
-=======
+# Diplodia elaeospora Sacc. SPECIES
 
 #### Status
 ACCEPTED

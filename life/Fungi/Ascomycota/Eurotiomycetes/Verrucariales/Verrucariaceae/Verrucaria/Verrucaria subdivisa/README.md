@@ -1,5 +1,4 @@
-Verrucaria subdivisa Breuss SPECIES
-=======
+# Verrucaria subdivisa Breuss SPECIES
 
 #### Status
 ACCEPTED

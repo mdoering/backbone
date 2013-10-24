@@ -1,5 +1,4 @@
-Polystictus pictus (R. Schulz) Fr. SPECIES
-=======
+# Polystictus pictus (R. Schulz) Fr. SPECIES
 
 #### Status
 ACCEPTED

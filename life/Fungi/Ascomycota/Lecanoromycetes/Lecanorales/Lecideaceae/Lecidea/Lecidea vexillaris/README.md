@@ -1,5 +1,4 @@
-Lecidea vexillaris Zahlbr. SPECIES
-=======
+# Lecidea vexillaris Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

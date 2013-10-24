@@ -1,5 +1,4 @@
-Macrosporium digitalis Milovtz. SPECIES
-=======
+# Macrosporium digitalis Milovtz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Varicosporium splendens Nawawi SPECIES
-=======
+# Varicosporium splendens Nawawi SPECIES
 
 #### Status
 ACCEPTED

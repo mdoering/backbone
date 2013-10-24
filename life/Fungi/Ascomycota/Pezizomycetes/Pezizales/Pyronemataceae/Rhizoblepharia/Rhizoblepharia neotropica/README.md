@@ -1,5 +1,4 @@
-Rhizoblepharia neotropica Erb & Korf, 1972 SPECIES
-=======
+# Rhizoblepharia neotropica Erb & Korf, 1972 SPECIES
 
 #### Status
 ACCEPTED

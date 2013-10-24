@@ -1,5 +1,4 @@
-Xanthoparmelia durietzii Hale SPECIES
-=======
+# Xanthoparmelia durietzii Hale SPECIES
 
 #### Status
 ACCEPTED

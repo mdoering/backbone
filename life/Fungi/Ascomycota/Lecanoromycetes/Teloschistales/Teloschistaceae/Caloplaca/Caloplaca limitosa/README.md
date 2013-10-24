@@ -1,5 +1,4 @@
-Caloplaca limitosa (Nyl.) H. Olivier SPECIES
-=======
+# Caloplaca limitosa (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

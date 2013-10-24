@@ -1,17 +1,16 @@
-Margaritella Caudri, 1974 GENUS
-=======
+# Caudriella Haman & Huddleston, 1984 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Verh. Naturf. Ges. Basel 84: 307.
+Proceedings Biol. Soc. Wash. 97 (1): 126.
 
 #### Original name
-null
+Margaritella Caudri, 1974
 
 ### Remarks
 null

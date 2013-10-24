@@ -1,5 +1,4 @@
-Cristella gloeospora Warcup & P.H.B. Talbot SPECIES
-=======
+# Cristella gloeospora Warcup & P.H.B. Talbot SPECIES
 
 #### Status
 ACCEPTED

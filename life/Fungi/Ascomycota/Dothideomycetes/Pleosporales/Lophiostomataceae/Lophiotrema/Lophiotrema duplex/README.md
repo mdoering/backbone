@@ -1,5 +1,4 @@
-Lophiotrema duplex (P. Karst.) Sacc., 1883 SPECIES
-=======
+# Lophiotrema duplex (P. Karst.) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED

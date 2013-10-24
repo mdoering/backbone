@@ -1,8 +1,7 @@
-Manginula osborni R.T. Lange SPECIES
-=======
+# Manginula osbornii R.T. Lange SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Manginula osborni R.T. Lange
+Manginula osbornii R.T. Lange
 
 ### Remarks
 null

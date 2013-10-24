@@ -1,5 +1,4 @@
-Parmeliopsis horrescens (Taylor) SPECIES
-=======
+# Parmeliopsis horrescens (Taylor) SPECIES
 
 #### Status
 ACCEPTED

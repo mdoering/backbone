@@ -1,5 +1,4 @@
-Diplodia spiraeicola Ellis & Everh. SPECIES
-=======
+# Diplodia spiraeicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

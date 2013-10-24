@@ -1,17 +1,16 @@
-Tulasnella rubropallens Bourdot & Galzin, 1924 SPECIES
-=======
+# Tulasnella allantospora Wakef. & A. Pearson, 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 39: 264 (1924)
+Trans. Br. mycol. Soc. 8: 220 (1923)
 
 #### Original name
-Tulasnella rubropallens Bourdot & Galzin, 1924
+Tulasnella allantospora Wakef. & A. Pearson, 1923
 
 ### Remarks
 null

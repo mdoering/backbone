@@ -1,5 +1,4 @@
-Ceratocystis conicicollis Olchow. & J. Reid SPECIES
-=======
+# Ceratocystis conicicollis Olchow. & J. Reid SPECIES
 
 #### Status
 ACCEPTED

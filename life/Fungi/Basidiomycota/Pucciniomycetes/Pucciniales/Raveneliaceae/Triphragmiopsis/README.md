@@ -1,5 +1,4 @@
-Triphragmiopsis Naumov GENUS
-=======
+# Triphragmiopsis Naumov GENUS
 
 #### Status
 ACCEPTED

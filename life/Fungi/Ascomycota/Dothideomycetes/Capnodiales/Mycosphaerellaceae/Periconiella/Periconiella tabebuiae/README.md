@@ -1,5 +1,4 @@
-Periconiella tabebuiae R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Periconiella tabebuiae R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

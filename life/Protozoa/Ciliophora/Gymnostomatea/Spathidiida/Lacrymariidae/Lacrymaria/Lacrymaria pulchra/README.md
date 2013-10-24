@@ -1,5 +1,4 @@
-Lacrymaria pulchra Wenzel, 1953 SPECIES
-=======
+# Lacrymaria pulchra Wenzel, 1953 SPECIES
 
 #### Status
 ACCEPTED

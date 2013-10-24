@@ -1,5 +1,4 @@
-Callopisma balaustina F. Wilson SPECIES
-=======
+# Callopisma balaustina F. Wilson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cronartium verruciforme Henn., 1896 SPECIES
-=======
+# Dietelia verruciformis (Henn.) Henn., 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 35: 245 (1896)
+Hedwigia 36: 215 (1897)
 
 #### Original name
 Cronartium verruciforme Henn., 1896

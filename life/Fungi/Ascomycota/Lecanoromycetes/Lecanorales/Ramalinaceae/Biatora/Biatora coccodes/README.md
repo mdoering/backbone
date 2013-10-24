@@ -1,5 +1,4 @@
-Biatora coccodes (Bél.) Mont. SPECIES
-=======
+# Biatora coccodes (Bél.) Mont. SPECIES
 
 #### Status
 ACCEPTED

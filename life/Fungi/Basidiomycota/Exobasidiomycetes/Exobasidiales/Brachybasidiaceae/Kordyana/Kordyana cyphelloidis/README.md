@@ -1,5 +1,4 @@
-Kordyana cyphelloidis Viégas SPECIES
-=======
+# Kordyana cyphelloidis Viégas SPECIES
 
 #### Status
 ACCEPTED

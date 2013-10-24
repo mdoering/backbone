@@ -1,5 +1,4 @@
-Vorticella communis Fromentel, 1876 SPECIES
-=======
+# Vorticella communis Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

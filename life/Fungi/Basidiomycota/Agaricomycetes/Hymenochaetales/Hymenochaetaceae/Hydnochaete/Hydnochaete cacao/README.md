@@ -1,5 +1,4 @@
-Hydnochaete cacao (Berk.) SPECIES
-=======
+# Hydnochaete cacao (Berk.) SPECIES
 
 #### Status
 ACCEPTED

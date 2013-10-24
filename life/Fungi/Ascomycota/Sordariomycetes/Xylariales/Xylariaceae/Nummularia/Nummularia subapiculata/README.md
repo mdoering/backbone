@@ -1,5 +1,4 @@
-Nummularia subapiculata Ellis & Everh. SPECIES
-=======
+# Nummularia subapiculata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps subochrocea Penz. & Sacc. SPECIES
-=======
+# Cordyceps subochrocea Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius paramethystinus Bidaud & Moënne-Locc. SPECIES
-=======
+# Cortinarius paramethystinus Bidaud & Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

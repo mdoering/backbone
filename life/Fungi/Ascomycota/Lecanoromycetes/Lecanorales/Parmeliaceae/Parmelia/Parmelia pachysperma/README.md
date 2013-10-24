@@ -1,5 +1,4 @@
-Parmelia pachysperma Hue SPECIES
-=======
+# Parmelia pachysperma Hue SPECIES
 
 #### Status
 ACCEPTED

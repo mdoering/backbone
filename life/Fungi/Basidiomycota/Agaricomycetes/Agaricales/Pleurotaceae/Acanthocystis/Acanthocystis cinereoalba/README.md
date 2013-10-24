@@ -1,14 +1,13 @@
-Acanthocystis cinereo-albus (Pat. & Gaillard) Singer SPECIES
-=======
+# Acanthocystis cinereoalba (Pat. & Gaillard) Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 40: 148 (1943)
 
 #### Original name
 Pleurotus cinereoalbus Pat. & Gaillard

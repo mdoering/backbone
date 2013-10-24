@@ -1,17 +1,16 @@
-Hydnospongos Wallr. GENUS
-=======
+# Gautieria Vittadini, 1831 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
 null
 
 #### Original name
-Hydnospongos Wallr.
+null
 
 ### Remarks
 null

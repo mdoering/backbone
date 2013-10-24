@@ -1,5 +1,4 @@
-Marasmius viridicarneus (Berk. & Broome) Pegler SPECIES
-=======
+# Marasmius viridicarneus (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

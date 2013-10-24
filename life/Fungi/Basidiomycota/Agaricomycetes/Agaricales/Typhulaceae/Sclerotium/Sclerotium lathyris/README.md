@@ -1,5 +1,4 @@
-Sclerotium lathyris Moug. ex Fr. SPECIES
-=======
+# Sclerotium lathyris Moug. ex Fr. SPECIES
 
 #### Status
 ACCEPTED

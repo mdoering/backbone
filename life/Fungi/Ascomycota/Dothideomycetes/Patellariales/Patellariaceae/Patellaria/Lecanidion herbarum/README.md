@@ -1,5 +1,4 @@
-Lecanidion herbarum Sacc. SPECIES
-=======
+# Lecanidion herbarum Sacc. SPECIES
 
 #### Status
 ACCEPTED

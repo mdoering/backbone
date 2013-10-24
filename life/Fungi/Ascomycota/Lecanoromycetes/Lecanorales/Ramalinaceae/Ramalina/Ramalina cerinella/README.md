@@ -1,5 +1,4 @@
-Ramalina cerinella Zahlbr. SPECIES
-=======
+# Ramalina cerinella Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

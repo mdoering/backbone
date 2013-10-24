@@ -1,17 +1,16 @@
-Gyalectella J. Lahm GENUS
-=======
+# Coenogonium Ehrenberg, 1820 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jahres-Ber. Westfäl. Prov. -Vereins 11: 119 (1883)
+in Nees von Esenbeck, Horae Phys. Berol. 120 (1820)
 
 #### Original name
-Gyalectella J. Lahm
+Coenogonium Ehrenberg, 1820
 
 ### Remarks
 null

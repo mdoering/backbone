@@ -1,14 +1,13 @@
-Lecidea contigua var. umbonifera Müll. Arg. VARIETY
-=======
+# Porpidia umbonifera (Müll. Arg.) Rambold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Herb. Boissier 1: 46 (1893)
+Biblthca Lichenol. 34: 296 (1989)
 
 #### Original name
 Lecidea contigua var. umbonifera Müll. Arg.

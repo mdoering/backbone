@@ -1,5 +1,4 @@
-Zygosporium rostratum (Giesenh.) Bunting & E.W. Mason SPECIES
-=======
+# Zygosporium rostratum (Giesenh.) Bunting & E.W. Mason SPECIES
 
 #### Status
 ACCEPTED

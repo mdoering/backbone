@@ -1,5 +1,4 @@
-Ramaria pedata Velen. SPECIES
-=======
+# Ramaria pedata Velen. SPECIES
 
 #### Status
 ACCEPTED

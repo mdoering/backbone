@@ -1,5 +1,4 @@
-Corticium tomentelloides Höhn. & Litsch. SPECIES
-=======
+# Corticium tomentelloides Höhn. & Litsch. SPECIES
 
 #### Status
 ACCEPTED

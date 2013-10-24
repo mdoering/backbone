@@ -1,5 +1,4 @@
-Stemonitis lichenoides J.F. Gmel. SPECIES
-=======
+# Stemonitis lichenoides J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

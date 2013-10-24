@@ -1,5 +1,4 @@
-Mycena rosaviolacea Raithelh. SPECIES
-=======
+# Mycena rosaviolacea Raithelh. SPECIES
 
 #### Status
 ACCEPTED

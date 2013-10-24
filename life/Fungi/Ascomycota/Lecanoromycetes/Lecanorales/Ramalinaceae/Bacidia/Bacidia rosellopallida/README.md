@@ -1,5 +1,4 @@
-Bacidia rosellopallida (Nyl.) Hellb. SPECIES
-=======
+# Bacidia rosellopallida (Nyl.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

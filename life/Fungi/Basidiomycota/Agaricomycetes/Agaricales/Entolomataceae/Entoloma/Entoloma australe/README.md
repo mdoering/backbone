@@ -1,5 +1,4 @@
-Entoloma australe (Murrill) Hesler SPECIES
-=======
+# Entoloma australe (Murrill) Hesler SPECIES
 
 #### Status
 ACCEPTED

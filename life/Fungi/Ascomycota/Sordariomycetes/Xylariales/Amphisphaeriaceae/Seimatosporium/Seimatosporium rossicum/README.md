@@ -1,5 +1,4 @@
-Seimatosporium rossicum Nag Raj & Melnik SPECIES
-=======
+# Seimatosporium rossicum Nag Raj & Melnik SPECIES
 
 #### Status
 ACCEPTED

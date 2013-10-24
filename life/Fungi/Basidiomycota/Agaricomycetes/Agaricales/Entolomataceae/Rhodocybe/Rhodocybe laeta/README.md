@@ -1,5 +1,4 @@
-Rhodocybe laeta Singer SPECIES
-=======
+# Rhodocybe laeta Singer SPECIES
 
 #### Status
 ACCEPTED

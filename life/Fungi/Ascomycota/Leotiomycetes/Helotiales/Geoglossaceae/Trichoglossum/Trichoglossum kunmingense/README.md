@@ -1,5 +1,4 @@
-Trichoglossum kunmingense F.L. Tai SPECIES
-=======
+# Trichoglossum kunmingense F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

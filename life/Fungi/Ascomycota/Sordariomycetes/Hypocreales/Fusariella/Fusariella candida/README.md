@@ -1,5 +1,4 @@
-Fusariella candida Matsush., 1993 SPECIES
-=======
+# Fusariella candida Matsush., 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cortinarius speculus Moënne-Locc. SPECIES
-=======
+# Cortinarius speculum Moënne-Locc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Bidaud, Moënne-Loccoz, Reumaux, Carteret & Eyssartier, Atlas des Cortinaires (Meyzieu) 11: 614 (2001)
 
 #### Original name
-Cortinarius speculus Moënne-Locc.
+Cortinarius speculum Moënne-Locc.
 
 ### Remarks
 null

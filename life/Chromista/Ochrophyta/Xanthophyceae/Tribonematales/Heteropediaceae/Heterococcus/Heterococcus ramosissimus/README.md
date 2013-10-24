@@ -1,5 +1,4 @@
-Heterococcus ramosissimus Pitschmann SPECIES
-=======
+# Heterococcus ramosissimus Pitschmann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pythium jirovecii Cejp SPECIES
-=======
+# Pythium jirovecii Cejp SPECIES
 
 #### Status
 ACCEPTED

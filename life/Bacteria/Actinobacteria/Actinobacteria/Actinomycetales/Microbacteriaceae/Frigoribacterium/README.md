@@ -1,5 +1,4 @@
-Frigoribacterium Kämpfer et al., 2000 GENUS
-=======
+# Frigoribacterium Kämpfer et al., 2000 GENUS
 
 #### Status
 ACCEPTED

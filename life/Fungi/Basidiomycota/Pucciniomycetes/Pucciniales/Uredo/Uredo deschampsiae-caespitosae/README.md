@@ -1,5 +1,4 @@
-Uredo deschampsiae-caespitosae Y.C. Wang SPECIES
-=======
+# Uredo deschampsiae-caespitosae Y.C. Wang SPECIES
 
 #### Status
 ACCEPTED

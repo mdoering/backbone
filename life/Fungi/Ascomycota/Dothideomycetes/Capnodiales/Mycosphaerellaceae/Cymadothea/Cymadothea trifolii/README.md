@@ -1,17 +1,16 @@
-Dothidella trifolii f. sp FORM
-=======
+# Cymadothea trifolii (Pers.) F.A. Wolf, 1935 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 27(1): 71 (1935)
 
 #### Original name
-Dothidella trifolii f. sp
+Sphaeria trifolii Pers., 1801
 
 ### Remarks
 null

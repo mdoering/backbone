@@ -1,5 +1,4 @@
-Dryophilum Schwein. GENUS
-=======
+# Dryophilum Schwein. GENUS
 
 #### Status
 ACCEPTED

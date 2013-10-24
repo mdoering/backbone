@@ -1,5 +1,4 @@
-Ramularia impatientis Peck SPECIES
-=======
+# Ramularia impatientis Peck SPECIES
 
 #### Status
 ACCEPTED

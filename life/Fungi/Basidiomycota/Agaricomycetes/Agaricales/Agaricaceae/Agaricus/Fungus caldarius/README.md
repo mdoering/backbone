@@ -1,5 +1,4 @@
-Fungus caldarius (Wettst.) Kuntze SPECIES
-=======
+# Fungus caldarius (Wettst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

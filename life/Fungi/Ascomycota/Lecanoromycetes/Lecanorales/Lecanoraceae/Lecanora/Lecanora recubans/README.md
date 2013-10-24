@@ -1,5 +1,4 @@
-Lecanora recubans Stirt. SPECIES
-=======
+# Lecanora recubans Stirt. SPECIES
 
 #### Status
 ACCEPTED

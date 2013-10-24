@@ -1,5 +1,4 @@
-Nectria antarctica (Speg.) Rossman SPECIES
-=======
+# Nectria antarctica (Speg.) Rossman SPECIES
 
 #### Status
 ACCEPTED

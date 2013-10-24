@@ -1,5 +1,4 @@
-Phytodinium Klebs, 1912 GENUS
-=======
+# Phytodinium Klebs, 1912 GENUS
 
 #### Status
 ACCEPTED

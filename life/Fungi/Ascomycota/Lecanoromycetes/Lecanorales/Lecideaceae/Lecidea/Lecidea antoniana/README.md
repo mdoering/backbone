@@ -1,5 +1,4 @@
-Lecidea antoniana Malme SPECIES
-=======
+# Lecidea antoniana Malme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lembosiella Sacc. GENUS
-=======
+# Lembosiella Sacc. GENUS
 
 #### Status
 ACCEPTED

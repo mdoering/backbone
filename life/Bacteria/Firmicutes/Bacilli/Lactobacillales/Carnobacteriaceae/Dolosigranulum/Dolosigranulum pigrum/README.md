@@ -1,5 +1,4 @@
-Dolosigranulum pigrum Aguirre et al., 1994 SPECIES
-=======
+# Dolosigranulum pigrum Aguirre et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

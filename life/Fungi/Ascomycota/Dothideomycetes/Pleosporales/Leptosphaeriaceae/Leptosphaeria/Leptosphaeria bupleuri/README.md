@@ -1,5 +1,4 @@
-Leptosphaeria bupleuri P. Syd. SPECIES
-=======
+# Leptosphaeria bupleuri P. Syd. SPECIES
 
 #### Status
 ACCEPTED

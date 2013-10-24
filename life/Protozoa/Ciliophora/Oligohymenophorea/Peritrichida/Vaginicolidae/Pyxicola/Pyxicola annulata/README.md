@@ -1,5 +1,4 @@
-Pyxicola annulata Leidy, 1882 SPECIES
-=======
+# Pyxicola annulata Leidy, 1882 SPECIES
 
 #### Status
 ACCEPTED

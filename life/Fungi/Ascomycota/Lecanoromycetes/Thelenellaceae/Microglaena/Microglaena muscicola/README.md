@@ -1,5 +1,4 @@
-Microglaena muscicola (Ach.) Lönnr. SPECIES
-=======
+# Microglaena muscicola (Ach.) Lönnr. SPECIES
 
 #### Status
 ACCEPTED

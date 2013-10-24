@@ -1,5 +1,4 @@
-Phaeomarasmius aureosimilis E. Horak, 1980 SPECIES
-=======
+# Phaeomarasmius aureosimilis E. Horak, 1980 SPECIES
 
 #### Status
 ACCEPTED

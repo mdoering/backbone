@@ -1,5 +1,4 @@
-Neurospora galapagosensis Mahoney & Backus, 1969 SPECIES
-=======
+# Neurospora galapagosensis Mahoney & Backus, 1969 SPECIES
 
 #### Status
 ACCEPTED

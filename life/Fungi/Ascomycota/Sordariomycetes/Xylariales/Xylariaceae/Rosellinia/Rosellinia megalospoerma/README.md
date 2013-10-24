@@ -1,5 +1,4 @@
-Rosellinia megalospoerma SPECIES
-=======
+# Rosellinia megalospoerma SPECIES
 
 #### Status
 ACCEPTED

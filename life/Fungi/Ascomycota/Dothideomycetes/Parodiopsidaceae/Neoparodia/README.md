@@ -1,5 +1,4 @@
-Neoparodia Petr. & Cif. GENUS
-=======
+# Neoparodia Petr. & Cif. GENUS
 
 #### Status
 ACCEPTED

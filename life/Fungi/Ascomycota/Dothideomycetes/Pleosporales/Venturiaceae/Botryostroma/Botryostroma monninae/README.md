@@ -1,5 +1,4 @@
-Botryostroma monninae Bat. & Barreto SPECIES
-=======
+# Botryostroma monninae Bat. & Barreto SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca minima (Spreng.) Zahlbr. SPECIES
-=======
+# Caloplaca minima (Spreng.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

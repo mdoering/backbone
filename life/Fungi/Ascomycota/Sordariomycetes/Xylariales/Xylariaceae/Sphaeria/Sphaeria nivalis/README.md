@@ -1,5 +1,4 @@
-Sphaeria nivalis Fuckel SPECIES
-=======
+# Sphaeria nivalis Fuckel SPECIES
 
 #### Status
 ACCEPTED

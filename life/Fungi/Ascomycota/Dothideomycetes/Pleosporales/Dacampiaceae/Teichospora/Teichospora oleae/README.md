@@ -1,5 +1,4 @@
-Teichospora oleae G. Arnaud SPECIES
-=======
+# Teichospora oleae G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

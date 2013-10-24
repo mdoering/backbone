@@ -1,5 +1,4 @@
-Acremonites succineus (Casp.) Pia SPECIES
-=======
+# Acremonites succineus (Casp.) Pia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Subiculicola GENUS
-=======
+# Subiculicola GENUS
 
 #### Status
 ACCEPTED

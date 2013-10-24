@@ -1,5 +1,4 @@
-Cladonia cerucha var. cerucha VARIETY
-=======
+# Cladonia cerucha (Ach.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Odontia rosea Rick SPECIES
-=======
+# Odontia rosea Rick SPECIES
 
 #### Status
 ACCEPTED

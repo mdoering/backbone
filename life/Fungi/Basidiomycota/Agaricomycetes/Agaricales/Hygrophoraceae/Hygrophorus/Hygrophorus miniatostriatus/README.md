@@ -1,5 +1,4 @@
-Hygrophorus miniatostriatus S. Ito & S. Imai SPECIES
-=======
+# Hygrophorus miniatostriatus S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

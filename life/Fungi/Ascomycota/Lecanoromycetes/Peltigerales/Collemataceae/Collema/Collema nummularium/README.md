@@ -1,5 +1,4 @@
-Collema nummularium Dufour SPECIES
-=======
+# Collema nummularium Dufour SPECIES
 
 #### Status
 ACCEPTED

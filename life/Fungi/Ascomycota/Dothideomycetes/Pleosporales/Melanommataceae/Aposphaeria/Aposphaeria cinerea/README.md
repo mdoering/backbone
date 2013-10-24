@@ -1,5 +1,4 @@
-Aposphaeria cinerea F. Lamb. & Fautrey SPECIES
-=======
+# Aposphaeria cinerea F. Lamb. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

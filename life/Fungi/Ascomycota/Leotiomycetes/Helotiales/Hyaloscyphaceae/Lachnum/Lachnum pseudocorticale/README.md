@@ -1,5 +1,4 @@
-Lachnum pseudocorticale Svrcek SPECIES
-=======
+# Lachnum pseudocorticale Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Miriquidica nigroleprosa var. nigroleprosa VARIETY
-=======
+# Miriquidica nigroleprosa (Vain.) Hertel & Rambold SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mitt. bot. StSamml. , Münch. 23: 388 (1987)
+null
 
 #### Original name
-Miriquidica nigroleprosa var. nigroleprosa
+null
 
 ### Remarks
 null

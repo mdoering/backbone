@@ -1,5 +1,4 @@
-Agaricus molibdeoleucus J. Otto SPECIES
-=======
+# Agaricus molibdeoleucus J. Otto SPECIES
 
 #### Status
 ACCEPTED

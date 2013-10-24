@@ -1,5 +1,4 @@
-Naucoria populicola (Britzelm.) Sacc. & P. Syd. SPECIES
-=======
+# Naucoria populicola (Britzelm.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

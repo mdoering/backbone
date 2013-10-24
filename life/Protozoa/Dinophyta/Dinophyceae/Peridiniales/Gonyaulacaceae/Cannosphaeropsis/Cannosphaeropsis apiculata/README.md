@@ -1,5 +1,4 @@
-Cannosphaeropsis apiculata Cookson & Eisenack SPECIES
-=======
+# Cannosphaeropsis apiculata Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

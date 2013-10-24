@@ -1,5 +1,4 @@
-Dimerosporium triumfettae G. Arnaud SPECIES
-=======
+# Dimerosporium triumfettae G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

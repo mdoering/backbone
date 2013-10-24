@@ -1,5 +1,4 @@
-Aspicilia submersa (Lamy) Hue SPECIES
-=======
+# Aspicilia submersa (Lamy) Hue SPECIES
 
 #### Status
 ACCEPTED

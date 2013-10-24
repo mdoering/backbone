@@ -1,5 +1,4 @@
-Mycosphaerella ludwigii Syd. SPECIES
-=======
+# Mycosphaerella ludwigii Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomatospora opuntiae Bat. & A.F. Vital SPECIES
-=======
+# Phomatospora opuntiae Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

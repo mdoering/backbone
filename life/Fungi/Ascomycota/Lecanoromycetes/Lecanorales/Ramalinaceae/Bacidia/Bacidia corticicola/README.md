@@ -1,5 +1,4 @@
-Bacidia corticicola (Anzi) Dalla Torre & Sarnth. SPECIES
-=======
+# Bacidia corticicola (Anzi) Dalla Torre & Sarnth. SPECIES
 
 #### Status
 ACCEPTED

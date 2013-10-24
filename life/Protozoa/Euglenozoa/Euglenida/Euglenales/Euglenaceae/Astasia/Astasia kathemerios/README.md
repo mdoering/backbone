@@ -1,5 +1,4 @@
-Astasia kathemerios Skuja SPECIES
-=======
+# Astasia kathemerios Skuja SPECIES
 
 #### Status
 ACCEPTED

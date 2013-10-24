@@ -1,5 +1,4 @@
-Phacidites populi-ovalis (A. Braun) Sacc. SPECIES
-=======
+# Phacidites populi-ovalis (A. Braun) Sacc. SPECIES
 
 #### Status
 ACCEPTED

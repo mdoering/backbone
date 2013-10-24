@@ -1,5 +1,4 @@
-Arthonia adspersa (Mont.) Kremp. SPECIES
-=======
+# Arthonia adspersa (Mont.) Kremp. SPECIES
 
 #### Status
 ACCEPTED

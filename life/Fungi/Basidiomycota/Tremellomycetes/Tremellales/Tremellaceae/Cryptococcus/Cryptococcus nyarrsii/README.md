@@ -1,5 +1,4 @@
-Cryptococcus nyarrsii Thomas-Hall SPECIES
-=======
+# Cryptococcus nyarrsii Thomas-Hall SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago sonoriana Zundel SPECIES
-=======
+# Ustilago sonoriana Zundel SPECIES
 
 #### Status
 ACCEPTED

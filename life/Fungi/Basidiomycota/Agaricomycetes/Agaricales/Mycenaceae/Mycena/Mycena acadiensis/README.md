@@ -1,5 +1,4 @@
-Mycena acadiensis Maas Geest. SPECIES
-=======
+# Mycena acadiensis Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

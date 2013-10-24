@@ -1,5 +1,4 @@
-Nosema chaetocnemae M. Yaman & R. Radek SPECIES
-=======
+# Nosema chaetocnemae M. Yaman & R. Radek SPECIES
 
 #### Status
 ACCEPTED

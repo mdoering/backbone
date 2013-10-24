@@ -1,5 +1,4 @@
-Hydnum sanchezii Lloyd SPECIES
-=======
+# Hydnum sanchezii Lloyd SPECIES
 
 #### Status
 ACCEPTED

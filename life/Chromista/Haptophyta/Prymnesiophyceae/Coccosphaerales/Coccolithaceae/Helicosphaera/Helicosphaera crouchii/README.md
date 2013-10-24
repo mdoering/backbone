@@ -1,5 +1,4 @@
-Helicosphaera crouchii D. Bukry SPECIES
-=======
+# Helicosphaera crouchii D. Bukry SPECIES
 
 #### Status
 ACCEPTED

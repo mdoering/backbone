@@ -1,5 +1,4 @@
-Cercospora pulvinata f. pulvinata FORM
-=======
+# Cercospora pulvinata SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cercospora pulvinata f. pulvinata
+Cercospora pulvinata
 
 ### Remarks
 null

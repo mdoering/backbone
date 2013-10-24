@@ -1,17 +1,16 @@
-Chloridiella G. Arnaud GENUS
-=======
+# Idriella P.E. Nelson & S. Wilhelm, 1956 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 69: 270 (1954)
+null
 
 #### Original name
-Chloridiella G. Arnaud
+null
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Sarcosoma globosum var. globosum VARIETY
-=======
+# Sarcosoma globosum (Schmidel) Casp., 1891 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 in Rabenhorst, Rabenh. Krypt. -Fl. (Leipzig) 1(3): 497 (1891)
 
 #### Original name
-Sarcosoma globosum var. globosum
+Burcardia globosa Schmied., 1793
 
 ### Remarks
 null

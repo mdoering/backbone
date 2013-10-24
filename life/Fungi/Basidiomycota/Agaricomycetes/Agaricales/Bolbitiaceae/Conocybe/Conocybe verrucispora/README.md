@@ -1,5 +1,4 @@
-Conocybe verrucispora (Singer) Watling SPECIES
-=======
+# Conocybe verrucispora (Singer) Watling SPECIES
 
 #### Status
 ACCEPTED

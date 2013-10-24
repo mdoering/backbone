@@ -1,5 +1,4 @@
-Buellia durbana Vain. SPECIES
-=======
+# Buellia durbana Vain. SPECIES
 
 #### Status
 ACCEPTED

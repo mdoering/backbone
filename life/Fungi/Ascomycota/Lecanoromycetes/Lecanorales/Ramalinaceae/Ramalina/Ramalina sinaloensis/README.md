@@ -1,5 +1,4 @@
-Ramalina sinaloensis Bowler & Rundel SPECIES
-=======
+# Ramalina sinaloensis Bowler & Rundel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Formivibrio citricus Tanaka et al., 1991 SPECIES
-=======
+# Formivibrio citricus Tanaka et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

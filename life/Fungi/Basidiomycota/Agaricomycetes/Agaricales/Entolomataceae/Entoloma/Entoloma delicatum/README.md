@@ -1,5 +1,4 @@
-Entoloma delicatum Hesler SPECIES
-=======
+# Entoloma delicatum Hesler SPECIES
 
 #### Status
 ACCEPTED

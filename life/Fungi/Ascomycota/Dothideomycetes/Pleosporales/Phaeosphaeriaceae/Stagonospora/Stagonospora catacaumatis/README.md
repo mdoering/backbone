@@ -1,5 +1,4 @@
-Stagonospora catacaumatis Petr. SPECIES
-=======
+# Stagonospora catacaumatis Petr. SPECIES
 
 #### Status
 ACCEPTED

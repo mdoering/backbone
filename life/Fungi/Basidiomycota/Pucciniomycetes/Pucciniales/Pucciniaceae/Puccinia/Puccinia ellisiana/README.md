@@ -1,5 +1,4 @@
-Puccinia ellisiana Thüm. SPECIES
-=======
+# Puccinia ellisiana Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lizoniella jacquiniae (Bres.) Sacc. & D. Sacc. SPECIES
-=======
+# Lizoniella jacquiniae (Bres.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

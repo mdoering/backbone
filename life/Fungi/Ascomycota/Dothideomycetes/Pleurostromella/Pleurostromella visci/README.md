@@ -1,5 +1,4 @@
-Pleurostromella visci Petr. SPECIES
-=======
+# Pleurostromella visci Petr. SPECIES
 
 #### Status
 ACCEPTED

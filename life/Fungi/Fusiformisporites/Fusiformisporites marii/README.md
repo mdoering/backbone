@@ -1,5 +1,4 @@
-Fusiformisporites marii Elsik SPECIES
-=======
+# Fusiformisporites marii Elsik SPECIES
 
 #### Status
 ACCEPTED

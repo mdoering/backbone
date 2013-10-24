@@ -1,5 +1,4 @@
-Triangularia batistae J.L. Bezerra & Maciel, 1969 SPECIES
-=======
+# Triangularia batistae J.L. Bezerra & Maciel, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma thyrsiflorae Oudem. SPECIES
-=======
+# Phoma thyrsiflorae Oudem. SPECIES
 
 #### Status
 ACCEPTED

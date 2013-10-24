@@ -1,5 +1,4 @@
-Acremonium apicesinuatum Matsush., 1995 SPECIES
-=======
+# Acremonium apicesinuatum Matsush., 1995 SPECIES
 
 #### Status
 ACCEPTED

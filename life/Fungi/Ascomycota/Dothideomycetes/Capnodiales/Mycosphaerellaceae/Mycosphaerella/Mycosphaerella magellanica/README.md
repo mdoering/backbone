@@ -1,5 +1,4 @@
-Mycosphaerella magellanica (Speg.) Tomilin SPECIES
-=======
+# Mycosphaerella magellanica (Speg.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

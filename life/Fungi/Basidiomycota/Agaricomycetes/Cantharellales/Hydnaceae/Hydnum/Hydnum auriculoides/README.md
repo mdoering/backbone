@@ -1,5 +1,4 @@
-Hydnum auriculoides Wettst. SPECIES
-=======
+# Hydnum auriculoides Wettst. SPECIES
 
 #### Status
 ACCEPTED

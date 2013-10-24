@@ -1,14 +1,13 @@
-Dasyscypha caricicola (Lasch) Sacc. & Trotter SPECIES
-=======
+# Dasyscyphus caricicola (Lasch) Sacc. & Trotter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 8: 450 (1889)
 
 #### Original name
 Peziza caricicola Lasch

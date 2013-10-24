@@ -1,5 +1,4 @@
-Helminthosporium pyrinum Lib. SPECIES
-=======
+# Helminthosporium pyrinum Lib. SPECIES
 
 #### Status
 ACCEPTED

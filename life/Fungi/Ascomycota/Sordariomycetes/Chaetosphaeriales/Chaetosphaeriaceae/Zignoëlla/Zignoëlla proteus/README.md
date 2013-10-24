@@ -1,5 +1,4 @@
-Zignoëlla proteus (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Zignoëlla proteus (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

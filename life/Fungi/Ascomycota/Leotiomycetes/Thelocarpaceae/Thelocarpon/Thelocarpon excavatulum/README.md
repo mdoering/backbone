@@ -1,5 +1,4 @@
-Thelocarpon excavatulum var. collapsum Nyl. VARIETY
-=======
+# Thelocarpon excavatulum Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Thelocarpon excavatulum var. collapsum Nyl.
+Thelocarpon excavatulum Nyl.
 
 ### Remarks
 null

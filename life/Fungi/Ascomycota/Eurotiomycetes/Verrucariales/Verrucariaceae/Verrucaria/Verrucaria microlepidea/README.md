@@ -1,5 +1,4 @@
-Verrucaria microlepidea var. microlepidea VARIETY
-=======
+# Verrucaria microlepidea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria microlepidea var. microlepidea
+Verrucaria microlepidea Zahlbr.
 
 ### Remarks
 null

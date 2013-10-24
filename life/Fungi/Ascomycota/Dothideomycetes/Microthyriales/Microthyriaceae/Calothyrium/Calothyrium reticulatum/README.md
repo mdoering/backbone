@@ -1,5 +1,4 @@
-Calothyrium reticulatum Petch SPECIES
-=======
+# Calothyrium reticulatum Petch SPECIES
 
 #### Status
 ACCEPTED

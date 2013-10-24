@@ -1,5 +1,4 @@
-Uredo cacaliae DC. SPECIES
-=======
+# Uredo cacaliae DC. SPECIES
 
 #### Status
 ACCEPTED

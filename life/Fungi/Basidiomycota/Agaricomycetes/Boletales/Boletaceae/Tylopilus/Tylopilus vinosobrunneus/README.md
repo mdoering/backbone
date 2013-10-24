@@ -1,5 +1,4 @@
-Tylopilus vinosobrunneus Hongo SPECIES
-=======
+# Tylopilus vinosobrunneus Hongo SPECIES
 
 #### Status
 ACCEPTED

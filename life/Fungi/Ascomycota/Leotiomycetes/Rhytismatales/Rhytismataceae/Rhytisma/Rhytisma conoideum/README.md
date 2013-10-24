@@ -1,5 +1,4 @@
-Rhytisma conoideum Cooke SPECIES
-=======
+# Rhytisma conoideum Cooke SPECIES
 
 #### Status
 ACCEPTED

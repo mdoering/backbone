@@ -1,5 +1,4 @@
-Puccinia apocrypta Ellis & Tracy SPECIES
-=======
+# Puccinia apocrypta Ellis & Tracy SPECIES
 
 #### Status
 ACCEPTED

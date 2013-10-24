@@ -1,5 +1,4 @@
-Homostegia lophiostomacea (Rehm) Theiss. & Syd. {?} SPECIES
-=======
+# Homostegia lophiostomacea (Rehm) Theiss. & Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora ixorae Rangel SPECIES
-=======
+# Stagonospora ixorae Rangel SPECIES
 
 #### Status
 ACCEPTED

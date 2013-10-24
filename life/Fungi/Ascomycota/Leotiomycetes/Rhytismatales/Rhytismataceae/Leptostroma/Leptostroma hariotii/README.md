@@ -1,5 +1,4 @@
-Leptostroma hariotii (Gonz. Frag.) Sacc. SPECIES
-=======
+# Leptostroma hariotii (Gonz. Frag.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

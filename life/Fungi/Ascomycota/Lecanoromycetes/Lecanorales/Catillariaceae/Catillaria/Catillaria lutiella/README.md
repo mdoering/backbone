@@ -1,5 +1,4 @@
-Catillaria lutiella (Nyl.) Zahlbr. SPECIES
-=======
+# Catillaria lutiella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

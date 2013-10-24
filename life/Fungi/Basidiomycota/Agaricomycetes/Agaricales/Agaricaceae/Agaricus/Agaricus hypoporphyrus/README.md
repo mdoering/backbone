@@ -1,17 +1,16 @@
-Agaricus hypoporphyrius Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus hypoporphyrus Berk. & M.A. Curtis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 10(no. 45): 289 (1868)
 
 #### Original name
-Agaricus hypoporphyrius Berk. & M.A. Curtis
+Agaricus hypoporphyrus Berk. & M.A. Curtis
 
 ### Remarks
 null

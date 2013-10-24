@@ -1,5 +1,4 @@
-Protoperidinium punctulatum (Paulsen) Balech SPECIES
-=======
+# Protoperidinium punctulatum (Paulsen) Balech SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnoxyphium splendidum Bat. & I.J. Araujo, 1963 SPECIES
-=======
+# Gymnoxyphium splendidum Bat. & I.J. Araujo, 1963 SPECIES
 
 #### Status
 ACCEPTED

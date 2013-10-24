@@ -1,5 +1,4 @@
-Didymosphaeria spinosa E. Müll. & S. Ahmad SPECIES
-=======
+# Didymosphaeria spinosa E. Müll. & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

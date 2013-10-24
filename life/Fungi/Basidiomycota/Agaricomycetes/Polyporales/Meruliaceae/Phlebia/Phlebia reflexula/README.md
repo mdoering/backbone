@@ -1,5 +1,4 @@
-Phlebia reflexula Berk. SPECIES
-=======
+# Phlebia reflexula Berk. SPECIES
 
 #### Status
 ACCEPTED

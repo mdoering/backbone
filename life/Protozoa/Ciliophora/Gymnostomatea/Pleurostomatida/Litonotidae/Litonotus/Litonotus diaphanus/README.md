@@ -1,5 +1,4 @@
-Litonotus diaphanus SPECIES
-=======
+# Litonotus diaphanus SPECIES
 
 #### Status
 ACCEPTED

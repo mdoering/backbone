@@ -1,5 +1,4 @@
-Sphaerella cucurbitae Rostr. SPECIES
-=======
+# Sphaerella cucurbitae Rostr. SPECIES
 
 #### Status
 ACCEPTED

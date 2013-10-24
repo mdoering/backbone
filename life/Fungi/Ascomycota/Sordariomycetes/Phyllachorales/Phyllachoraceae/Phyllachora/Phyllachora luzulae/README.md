@@ -1,17 +1,16 @@
-Hypopteris luzulae Rabenh., 1861 SPECIES
-=======
+# Phyllachora luzulae (Rabenh.) Cooke, 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kryptogamen Badens, unter Mitwirkung mehrer Botaniker, fasc. 7(nos 301-340): 335 (1861)
+Grevillea 13(no. 67): 64 (1885)
 
 #### Original name
-Hypopteris luzulae Rabenh., 1861
+Sphaeria luzulae Rabenh., 1863
 
 ### Remarks
 null

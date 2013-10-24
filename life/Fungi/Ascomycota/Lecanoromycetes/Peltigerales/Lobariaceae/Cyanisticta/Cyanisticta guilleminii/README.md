@@ -1,5 +1,4 @@
-Cyanisticta guilleminii (Mont.) Räsänen SPECIES
-=======
+# Cyanisticta guilleminii (Mont.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

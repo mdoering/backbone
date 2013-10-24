@@ -1,5 +1,4 @@
-Umbilicosphaera hulburtiana Gaarder, 1970 SPECIES
-=======
+# Umbilicosphaera hulburtiana Gaarder, 1970 SPECIES
 
 #### Status
 ACCEPTED

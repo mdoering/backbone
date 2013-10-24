@@ -1,5 +1,4 @@
-Chloridium minutisporum J. Lindau SPECIES
-=======
+# Chloridium minutisporum J. Lindau SPECIES
 
 #### Status
 ACCEPTED

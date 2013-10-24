@@ -1,5 +1,4 @@
-Schizoxylon taenioides Speg. SPECIES
-=======
+# Schizoxylon taenioides Speg. SPECIES
 
 #### Status
 ACCEPTED

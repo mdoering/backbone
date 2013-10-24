@@ -1,5 +1,4 @@
-Stephembruneria elegans R.F. Castañeda, 1988 SPECIES
-=======
+# Stephembruneria elegans R.F. Castañeda, 1988 SPECIES
 
 #### Status
 ACCEPTED

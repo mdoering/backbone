@@ -1,5 +1,4 @@
-Hymenula rubella Fr., 1828 SPECIES
-=======
+# Hymenula rubella Fr., 1828 SPECIES
 
 #### Status
 ACCEPTED

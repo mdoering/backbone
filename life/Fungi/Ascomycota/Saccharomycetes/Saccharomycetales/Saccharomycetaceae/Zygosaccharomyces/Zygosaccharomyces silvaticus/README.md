@@ -1,5 +1,4 @@
-Zygosaccharomyces silvaticus Krassiln. SPECIES
-=======
+# Zygosaccharomyces silvaticus Krassiln. SPECIES
 
 #### Status
 ACCEPTED

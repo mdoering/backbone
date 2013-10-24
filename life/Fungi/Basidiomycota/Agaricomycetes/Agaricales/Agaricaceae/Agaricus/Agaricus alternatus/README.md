@@ -1,5 +1,4 @@
-Agaricus alternatus Schumach. SPECIES
-=======
+# Agaricus alternatus Schumach. SPECIES
 
 #### Status
 ACCEPTED

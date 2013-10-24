@@ -1,5 +1,4 @@
-Xylaria graminicola W.R. Gerard SPECIES
-=======
+# Xylaria graminicola W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

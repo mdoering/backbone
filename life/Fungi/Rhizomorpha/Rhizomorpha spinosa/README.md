@@ -1,5 +1,4 @@
-Rhizomorpha spinosa var. acutanglia Pers. VARIETY
-=======
+# Rhizomorpha spinosa Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Mycol. eur. (Erlanga) 1: 58 (1822)
+Col. fig. Engl. Fung. Mushr. 3: 124, pl. 299 (1803)
 
 #### Original name
-Rhizomorpha spinosa var. acutanglia Pers.
+Rhizomorpha spinosa Ach.
 
 ### Remarks
 null

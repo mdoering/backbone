@@ -1,17 +1,16 @@
-Dasyscyphus agassizii var. agassizii VARIETY
-=======
+# Lachnellula agassizii (Berk. & M.A. Curtis) Dennis, 1962 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 438 (1889)
+Persoonia 2(2): 183 (1962)
 
 #### Original name
-Dasyscyphus agassizii var. agassizii
+null
 
 ### Remarks
 null

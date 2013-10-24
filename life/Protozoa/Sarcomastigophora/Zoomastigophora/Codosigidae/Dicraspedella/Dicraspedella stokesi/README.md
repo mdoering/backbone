@@ -1,5 +1,4 @@
-Dicraspedella stokesi Ellis, 1930 SPECIES
-=======
+# Dicraspedella stokesi Ellis, 1930 SPECIES
 
 #### Status
 ACCEPTED

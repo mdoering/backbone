@@ -1,5 +1,4 @@
-Myxophacidium microspermum (Fuckel) Petr. SPECIES
-=======
+# Myxophacidium microspermum (Fuckel) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina castaneomela SPECIES
-=======
+# Rinodina castaneomela SPECIES
 
 #### Status
 ACCEPTED

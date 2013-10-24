@@ -1,5 +1,4 @@
-Porinomyces GENUS
-=======
+# Porinomyces GENUS
 
 #### Status
 ACCEPTED

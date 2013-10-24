@@ -1,5 +1,4 @@
-Trochila petiolaris (Alb. & Schwein.) Rehm SPECIES
-=======
+# Trochila petiolaris (Alb. & Schwein.) Rehm SPECIES
 
 #### Status
 ACCEPTED

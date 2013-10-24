@@ -1,5 +1,4 @@
-Periconiella saccharicola Bat. & J.A. Lima, 1955 SPECIES
-=======
+# Periconiella saccharicola Bat. & J.A. Lima, 1955 SPECIES
 
 #### Status
 ACCEPTED

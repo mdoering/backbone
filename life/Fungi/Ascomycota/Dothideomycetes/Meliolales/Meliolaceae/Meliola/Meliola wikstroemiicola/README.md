@@ -1,5 +1,4 @@
-Meliola wikstroemiicola Hansf. SPECIES
-=======
+# Meliola wikstroemiicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteus tenuiculus Quél. SPECIES
-=======
+# Pluteus tenuiculus Quél. SPECIES
 
 #### Status
 ACCEPTED

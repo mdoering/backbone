@@ -1,5 +1,4 @@
-Agaricus bogoriensis Lév. SPECIES
-=======
+# Agaricus bogoriensis Lév. SPECIES
 
 #### Status
 ACCEPTED

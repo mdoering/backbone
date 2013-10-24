@@ -1,5 +1,4 @@
-Galerina detriticola Svrcek SPECIES
-=======
+# Galerina detriticola Svrcek SPECIES
 
 #### Status
 ACCEPTED

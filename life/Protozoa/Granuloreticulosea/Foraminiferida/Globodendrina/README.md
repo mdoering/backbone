@@ -1,5 +1,4 @@
-Globodendrina Plewes, Palmer & Haynes, 1993 GENUS
-=======
+# Globodendrina Plewes, Palmer & Haynes, 1993 GENUS
 
 #### Status
 ACCEPTED

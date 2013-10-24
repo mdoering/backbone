@@ -1,5 +1,4 @@
-Asterina turraeae Hansf. SPECIES
-=======
+# Asterina turraeae Hansf. SPECIES
 
 #### Status
 ACCEPTED

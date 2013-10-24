@@ -1,5 +1,4 @@
-Lophiostoma perversum De Not. SPECIES
-=======
+# Lophiostoma perversum De Not. SPECIES
 
 #### Status
 ACCEPTED

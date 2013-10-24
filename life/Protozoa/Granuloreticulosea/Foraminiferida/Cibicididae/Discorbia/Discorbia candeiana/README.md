@@ -1,5 +1,4 @@
-Discorbia candeiana (d'Orbigny, 1839) SPECIES
-=======
+# Discorbia candeiana (d'Orbigny, 1839) SPECIES
 
 #### Status
 ACCEPTED

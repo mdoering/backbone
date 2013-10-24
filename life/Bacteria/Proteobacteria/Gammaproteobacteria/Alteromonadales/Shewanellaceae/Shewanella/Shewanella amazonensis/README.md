@@ -1,5 +1,4 @@
-Shewanella amazonensis Venkateswaran et al., 1998 SPECIES
-=======
+# Shewanella amazonensis Venkateswaran et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

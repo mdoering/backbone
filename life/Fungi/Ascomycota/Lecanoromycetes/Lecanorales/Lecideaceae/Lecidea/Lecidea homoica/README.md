@@ -1,5 +1,4 @@
-Lecidea homoica Nyl. SPECIES
-=======
+# Lecidea homoica Nyl. SPECIES
 
 #### Status
 ACCEPTED

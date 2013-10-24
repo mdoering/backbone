@@ -1,17 +1,16 @@
-Pycnostroma Clem. GENUS
-=======
+# Munkia Speg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. fung. (Minneapolis), Edn 2 130 (1909)
+Anal. Soc. cient. argent. 22: 202 (1886)
 
 #### Original name
-Pycnostroma Clem.
+Munkia Speg.
 
 ### Remarks
 null

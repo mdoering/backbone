@@ -1,14 +1,13 @@
-Pannaria hilaris Zahlbr. SPECIES
-=======
+# Protopannaria hilaris (Zahlbr.) P. M. Jørg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Skottsberg, Nat. Hist. Juan Fernandez Easter Isl. , 2 (Bot. ) 3(11): 337 (1924)
+Biblthca Lichenol. 88: 247 (2004)
 
 #### Original name
 Pannaria hilaris Zahlbr.

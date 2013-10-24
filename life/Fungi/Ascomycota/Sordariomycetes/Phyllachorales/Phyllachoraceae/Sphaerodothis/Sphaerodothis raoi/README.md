@@ -1,17 +1,16 @@
-Sphaerodothis raoii A. Pande SPECIES
-=======
+# Sphaerodothis raoi A. Pande, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Indian Journal of Mycology and Plant Pathology 5: 208 (1975)
 
 #### Original name
-Sphaerodothis raoii A. Pande
+Sphaerodothis raoi A. Pande, 1975
 
 ### Remarks
 null

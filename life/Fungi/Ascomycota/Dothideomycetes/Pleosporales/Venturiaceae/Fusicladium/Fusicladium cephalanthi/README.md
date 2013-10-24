@@ -1,5 +1,4 @@
-Fusicladium cephalanthi Speg. SPECIES
-=======
+# Fusicladium cephalanthi Speg. SPECIES
 
 #### Status
 ACCEPTED

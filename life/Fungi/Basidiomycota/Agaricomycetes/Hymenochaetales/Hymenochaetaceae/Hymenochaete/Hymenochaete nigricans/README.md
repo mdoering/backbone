@@ -1,5 +1,4 @@
-Hymenochaete nigricans (Lév.) Pat. SPECIES
-=======
+# Hymenochaete nigricans (Lév.) Pat. SPECIES
 
 #### Status
 ACCEPTED

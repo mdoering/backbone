@@ -1,5 +1,4 @@
-Phlyctema rhizophila Dietel & P. Syd. SPECIES
-=======
+# Phlyctema rhizophila Dietel & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota highandensis (Perk) A.H. Smith & Hesler SPECIES
-=======
+# Pholiota highandensis (Perk) A.H. Smith & Hesler SPECIES
 
 #### Status
 ACCEPTED

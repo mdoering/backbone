@@ -1,5 +1,4 @@
-Diatrype ceanothi Cooke & Harkn. SPECIES
-=======
+# Diatrype ceanothi Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

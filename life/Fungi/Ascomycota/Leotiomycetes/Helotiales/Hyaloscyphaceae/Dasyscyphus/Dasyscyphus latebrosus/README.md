@@ -1,14 +1,13 @@
-Dasyscypha latebrosus (Ellis) Sacc. SPECIES
-=======
+# Dasyscyphus latebrosus (Ellis) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 8: 434 (1889)
 
 #### Original name
 Lachnella latebrosa Ellis

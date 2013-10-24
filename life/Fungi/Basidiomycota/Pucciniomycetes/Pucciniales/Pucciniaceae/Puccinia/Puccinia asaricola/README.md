@@ -1,5 +1,4 @@
-Puccinia asaricola F.L. Tai & C.C. Cheo SPECIES
-=======
+# Puccinia asaricola F.L. Tai & C.C. Cheo SPECIES
 
 #### Status
 ACCEPTED

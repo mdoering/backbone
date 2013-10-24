@@ -1,5 +1,4 @@
-Isuasphaera H.D. Pflug GENUS
-=======
+# Isuasphaera H.D. Pflug GENUS
 
 #### Status
 ACCEPTED

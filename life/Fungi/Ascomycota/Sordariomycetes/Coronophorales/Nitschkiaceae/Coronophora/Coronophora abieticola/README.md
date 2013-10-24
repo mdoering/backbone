@@ -1,5 +1,4 @@
-Coronophora abieticola (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Coronophora abieticola (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

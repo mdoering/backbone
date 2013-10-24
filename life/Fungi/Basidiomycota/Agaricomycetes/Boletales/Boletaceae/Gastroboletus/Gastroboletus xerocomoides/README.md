@@ -1,5 +1,4 @@
-Gastroboletus xerocomoides Trappe & Thiers, 1969 SPECIES
-=======
+# Gastroboletus xerocomoides Trappe & Thiers, 1969 SPECIES
 
 #### Status
 ACCEPTED

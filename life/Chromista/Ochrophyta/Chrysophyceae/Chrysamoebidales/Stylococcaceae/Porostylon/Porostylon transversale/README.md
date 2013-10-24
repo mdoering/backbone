@@ -1,5 +1,4 @@
-Porostylon transversale Pascher SPECIES
-=======
+# Porostylon transversale Pascher SPECIES
 
 #### Status
 ACCEPTED

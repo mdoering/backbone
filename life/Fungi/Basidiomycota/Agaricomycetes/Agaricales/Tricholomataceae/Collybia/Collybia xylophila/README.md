@@ -1,5 +1,4 @@
-Collybia xylophila (Weinm.) Sacc. SPECIES
-=======
+# Collybia xylophila (Weinm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

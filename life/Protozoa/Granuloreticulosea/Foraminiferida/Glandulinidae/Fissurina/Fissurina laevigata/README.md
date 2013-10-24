@@ -1,5 +1,4 @@
-Fissurina laevigata Reuss, 1850 SPECIES
-=======
+# Fissurina laevigata Reuss, 1850 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corticium rhodoleucum SPECIES
-=======
+# Corticium rhodoleucum SPECIES
 
 #### Status
 ACCEPTED

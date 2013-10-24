@@ -1,5 +1,4 @@
-Diplodinula sparti Tassi SPECIES
-=======
+# Diplodinula sparti Tassi SPECIES
 
 #### Status
 ACCEPTED

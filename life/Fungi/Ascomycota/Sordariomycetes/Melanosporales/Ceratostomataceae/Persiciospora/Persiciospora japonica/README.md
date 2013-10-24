@@ -1,5 +1,4 @@
-Persiciospora japonica Y. Horie, Udagawa & P.F. Cannon, 1986 SPECIES
-=======
+# Persiciospora japonica Y. Horie, Udagawa & P.F. Cannon, 1986 SPECIES
 
 #### Status
 ACCEPTED

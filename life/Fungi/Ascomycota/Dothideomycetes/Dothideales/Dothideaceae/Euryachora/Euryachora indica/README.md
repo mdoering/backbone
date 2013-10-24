@@ -1,5 +1,4 @@
-Euryachora indica M.S. Patil & S.D. Patil SPECIES
-=======
+# Euryachora indica M.S. Patil & S.D. Patil SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha protuberans f. protuberans FORM
-=======
+# Opegrapha protuberans SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Opegrapha protuberans f. protuberans
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Eriospora Berkeley & Broome, 1850 GENUS
-=======
+# Eriospora Berkeley & Broome, 1850 GENUS
 
 #### Status
 ACCEPTED

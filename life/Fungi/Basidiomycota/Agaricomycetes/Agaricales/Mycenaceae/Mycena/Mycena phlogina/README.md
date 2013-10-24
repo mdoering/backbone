@@ -1,5 +1,4 @@
-Mycena phlogina Maas Geest. & E. Horak SPECIES
-=======
+# Mycena phlogina Maas Geest. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

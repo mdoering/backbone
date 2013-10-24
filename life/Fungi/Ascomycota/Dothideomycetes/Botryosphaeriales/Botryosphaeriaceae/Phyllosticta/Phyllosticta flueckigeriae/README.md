@@ -1,5 +1,4 @@
-Phyllosticta flueckigeriae Gutner SPECIES
-=======
+# Phyllosticta flueckigeriae Gutner SPECIES
 
 #### Status
 ACCEPTED

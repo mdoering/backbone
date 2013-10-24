@@ -1,5 +1,4 @@
-Orbilia cucurbitae (W.R. Gerard) Seaver SPECIES
-=======
+# Orbilia cucurbitae (W.R. Gerard) Seaver SPECIES
 
 #### Status
 ACCEPTED

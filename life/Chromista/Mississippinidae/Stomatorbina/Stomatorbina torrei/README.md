@@ -1,5 +1,4 @@
-Stomatorbina torrei (Cushman & Bermudez, 1949) SPECIES
-=======
+# Stomatorbina torrei (Cushman & Bermudez, 1949) SPECIES
 
 #### Status
 ACCEPTED

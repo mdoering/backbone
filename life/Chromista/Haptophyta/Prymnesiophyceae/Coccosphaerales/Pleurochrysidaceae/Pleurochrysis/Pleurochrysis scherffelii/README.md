@@ -1,5 +1,4 @@
-Pleurochrysis scherffelii Pringsheim SPECIES
-=======
+# Pleurochrysis scherffelii Pringsheim SPECIES
 
 #### Status
 ACCEPTED

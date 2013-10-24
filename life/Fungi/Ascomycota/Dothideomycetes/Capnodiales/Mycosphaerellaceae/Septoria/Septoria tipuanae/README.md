@@ -1,5 +1,4 @@
-Septoria tipuanae Bond.-Mont. SPECIES
-=======
+# Septoria tipuanae Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

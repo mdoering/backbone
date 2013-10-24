@@ -1,5 +1,4 @@
-Macroplodia caryae (Cooke & Ellis) Kuntze SPECIES
-=======
+# Macroplodia caryae (Cooke & Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

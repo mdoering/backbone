@@ -1,5 +1,4 @@
-Monochaetinula geoffroeana Bianchin., 1990 SPECIES
-=======
+# Monochaetinula geoffroeana Bianchin., 1990 SPECIES
 
 #### Status
 ACCEPTED

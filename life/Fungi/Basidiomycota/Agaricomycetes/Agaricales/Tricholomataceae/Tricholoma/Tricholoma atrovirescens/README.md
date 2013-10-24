@@ -1,5 +1,4 @@
-Tricholoma atrovirescens A. Kawam. SPECIES
-=======
+# Tricholoma atrovirescens A. Kawam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Disciseda hypogaea (Cooke & Massee) G. Cunn. SPECIES
-=======
+# Disciseda hypogaea (Cooke & Massee) G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

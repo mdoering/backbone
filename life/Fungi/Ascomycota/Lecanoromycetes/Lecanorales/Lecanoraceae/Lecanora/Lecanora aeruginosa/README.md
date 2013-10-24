@@ -1,5 +1,4 @@
-Lecanora aeruginosa Nyl. SPECIES
-=======
+# Lecanora aeruginosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

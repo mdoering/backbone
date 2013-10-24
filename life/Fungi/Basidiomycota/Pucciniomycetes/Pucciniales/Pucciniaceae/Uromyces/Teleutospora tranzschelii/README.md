@@ -1,5 +1,4 @@
-Teleutospora tranzschelii (Syd. & P. Syd.) Arthur & Bisby SPECIES
-=======
+# Teleutospora tranzschelii (Syd. & P. Syd.) Arthur & Bisby SPECIES
 
 #### Status
 ACCEPTED

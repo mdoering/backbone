@@ -1,5 +1,4 @@
-Weissella hellenica Collins et al., 1994 SPECIES
-=======
+# Weissella hellenica Collins et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

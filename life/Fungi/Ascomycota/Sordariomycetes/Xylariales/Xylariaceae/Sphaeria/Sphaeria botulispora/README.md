@@ -1,8 +1,7 @@
-Sphaeria botulaespora Cooke SPECIES
-=======
+# Sphaeria botulispora Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaeria botulaespora Cooke
+Sphaeria botulispora Cooke
 
 ### Remarks
 null

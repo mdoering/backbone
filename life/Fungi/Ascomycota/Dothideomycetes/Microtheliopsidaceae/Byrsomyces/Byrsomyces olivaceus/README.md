@@ -1,5 +1,4 @@
-Byrsomyces olivaceus Cavalc. SPECIES
-=======
+# Byrsomyces olivaceus Cavalc. SPECIES
 
 #### Status
 ACCEPTED

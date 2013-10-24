@@ -1,5 +1,4 @@
-Chitonomyces corniculatus Thaxt. SPECIES
-=======
+# Chitonomyces corniculatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

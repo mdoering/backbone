@@ -1,5 +1,4 @@
-Hiatula gracilis Berk. & M.A. Curtis SPECIES
-=======
+# Hiatula gracilis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

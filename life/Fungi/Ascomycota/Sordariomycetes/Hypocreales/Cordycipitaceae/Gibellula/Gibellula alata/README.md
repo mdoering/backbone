@@ -1,5 +1,4 @@
-Gibellula alata Petch SPECIES
-=======
+# Gibellula alata Petch SPECIES
 
 #### Status
 ACCEPTED

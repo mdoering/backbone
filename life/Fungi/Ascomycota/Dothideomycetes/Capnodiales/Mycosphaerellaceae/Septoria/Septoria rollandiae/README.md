@@ -1,5 +1,4 @@
-Septoria rollandiae F. Stevens & P.A. Young SPECIES
-=======
+# Septoria rollandiae F. Stevens & P.A. Young SPECIES
 
 #### Status
 ACCEPTED

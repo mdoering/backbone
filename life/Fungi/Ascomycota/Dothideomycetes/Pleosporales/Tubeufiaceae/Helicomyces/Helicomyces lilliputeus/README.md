@@ -1,5 +1,4 @@
-Helicomyces lilliputeus R.T. Moore SPECIES
-=======
+# Helicomyces lilliputeus R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

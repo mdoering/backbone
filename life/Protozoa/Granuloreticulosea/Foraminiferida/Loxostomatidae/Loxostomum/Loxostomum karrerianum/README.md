@@ -1,5 +1,4 @@
-Loxostomum karrerianum (Brady) SPECIES
-=======
+# Loxostomum karrerianum (Brady) SPECIES
 
 #### Status
 ACCEPTED

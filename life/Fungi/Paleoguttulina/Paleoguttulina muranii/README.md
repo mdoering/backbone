@@ -1,5 +1,4 @@
-Paleoguttulina muranii Locq. & Miík SPECIES
-=======
+# Paleoguttulina muranii Locq. & Miík SPECIES
 
 #### Status
 ACCEPTED

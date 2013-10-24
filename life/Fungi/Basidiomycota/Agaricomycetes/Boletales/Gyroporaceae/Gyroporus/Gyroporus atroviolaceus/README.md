@@ -1,5 +1,4 @@
-Gyroporus atroviolaceus (Höhn.) E.-J. Gilbert SPECIES
-=======
+# Gyroporus atroviolaceus (Höhn.) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

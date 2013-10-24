@@ -1,5 +1,4 @@
-Paracolpoda aspera SPECIES
-=======
+# Paracolpoda aspera SPECIES
 
 #### Status
 ACCEPTED

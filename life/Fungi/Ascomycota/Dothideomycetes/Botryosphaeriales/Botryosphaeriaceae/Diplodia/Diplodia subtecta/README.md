@@ -1,5 +1,4 @@
-Diplodia subtecta Fr., 1849 SPECIES
-=======
+# Diplodia subtecta Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalina chrysoleuca (Pers.) Quél. SPECIES
-=======
+# Omphalina chrysoleuca (Pers.) Quél. SPECIES
 
 #### Status
 ACCEPTED

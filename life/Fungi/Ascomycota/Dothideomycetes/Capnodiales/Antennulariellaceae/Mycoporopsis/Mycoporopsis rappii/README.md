@@ -1,5 +1,4 @@
-Mycoporopsis rappii (Zahlbr.) Riedl SPECIES
-=======
+# Mycoporopsis rappii (Zahlbr.) Riedl SPECIES
 
 #### Status
 ACCEPTED

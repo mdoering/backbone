@@ -1,5 +1,4 @@
-Echinostelium paucifilum K.D. Whitney, 1980 SPECIES
-=======
+# Echinostelium paucifilum K.D. Whitney, 1980 SPECIES
 
 #### Status
 ACCEPTED

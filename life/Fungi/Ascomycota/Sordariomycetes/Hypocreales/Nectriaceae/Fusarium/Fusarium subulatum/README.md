@@ -1,5 +1,4 @@
-Fusarium subulatum Appel & Wollenw. SPECIES
-=======
+# Fusarium subulatum Appel & Wollenw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spironema Vuillemin, 1905 GENUS
-=======
+# Spironema Vuillemin, 1905 GENUS
 
 #### Status
 ACCEPTED

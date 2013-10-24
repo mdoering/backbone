@@ -1,17 +1,16 @@
-Pichia besseyi Kurtzman & Wick., 1972 SPECIES
-=======
+# Saturnispora besseyi (Kurtzman & Wick.) Kurtzman, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+FEMS Yeast Res. 6(2): 294 (2006)
 
 #### Original name
-null
+Pichia besseyi Kurtzman & Wick., 1972
 
 ### Remarks
 null

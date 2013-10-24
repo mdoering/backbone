@@ -1,5 +1,4 @@
-Aspicilia ryrkaipiae (H. Magn.) Oxner SPECIES
-=======
+# Aspicilia ryrkaipiae (H. Magn.) Oxner SPECIES
 
 #### Status
 ACCEPTED

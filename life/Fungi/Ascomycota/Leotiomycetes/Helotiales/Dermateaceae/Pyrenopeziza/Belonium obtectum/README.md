@@ -1,5 +1,4 @@
-Belonium obtectum Rehm SPECIES
-=======
+# Belonium obtectum Rehm SPECIES
 
 #### Status
 ACCEPTED

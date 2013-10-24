@@ -1,5 +1,4 @@
-Sphaeria placenta Tode SPECIES
-=======
+# Sphaeria placenta Tode SPECIES
 
 #### Status
 ACCEPTED

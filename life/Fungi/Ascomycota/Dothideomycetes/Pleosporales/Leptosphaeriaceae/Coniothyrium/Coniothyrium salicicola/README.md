@@ -1,5 +1,4 @@
-Coniothyrium salicicola Rota-Rossi SPECIES
-=======
+# Coniothyrium salicicola Rota-Rossi SPECIES
 
 #### Status
 ACCEPTED

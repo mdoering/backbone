@@ -1,17 +1,16 @@
-Corticium bupleurii Roum. SPECIES
-=======
+# Corticium bupleuri Roum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fungi Selecti Galliaei Exs. no. 1804 (1882)
 
 #### Original name
-Corticium bupleurii Roum.
+Corticium bupleuri Roum.
 
 ### Remarks
 null

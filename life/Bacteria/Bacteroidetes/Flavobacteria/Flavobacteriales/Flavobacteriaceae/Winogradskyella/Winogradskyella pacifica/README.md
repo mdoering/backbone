@@ -1,5 +1,4 @@
-Winogradskyella pacifica Kim & Nedashkovskaya, 2010 SPECIES
-=======
+# Winogradskyella pacifica Kim & Nedashkovskaya, 2010 SPECIES
 
 #### Status
 ACCEPTED

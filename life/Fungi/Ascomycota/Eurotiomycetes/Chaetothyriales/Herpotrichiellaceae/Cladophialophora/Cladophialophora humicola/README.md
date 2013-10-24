@@ -1,5 +1,4 @@
-Cladophialophora humicola Crous & U. Braun SPECIES
-=======
+# Cladophialophora humicola Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

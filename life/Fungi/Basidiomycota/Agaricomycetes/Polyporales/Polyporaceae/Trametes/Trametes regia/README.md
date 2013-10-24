@@ -1,5 +1,4 @@
-Trametes regia Kalchbr. SPECIES
-=======
+# Trametes regia Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

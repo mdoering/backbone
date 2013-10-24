@@ -1,5 +1,4 @@
-Cylindrosporium phalaridis Sacc. & Dearn. SPECIES
-=======
+# Cylindrosporium phalaridis Sacc. & Dearn. SPECIES
 
 #### Status
 ACCEPTED

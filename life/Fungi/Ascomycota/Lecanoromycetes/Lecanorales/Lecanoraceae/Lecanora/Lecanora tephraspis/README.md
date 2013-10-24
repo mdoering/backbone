@@ -1,5 +1,4 @@
-Lecanora tephraspis Tuck. SPECIES
-=======
+# Lecanora tephraspis Tuck. SPECIES
 
 #### Status
 ACCEPTED

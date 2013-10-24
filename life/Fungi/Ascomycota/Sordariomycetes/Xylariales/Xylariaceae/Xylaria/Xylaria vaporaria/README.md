@@ -1,5 +1,4 @@
-Xylaria vaporaria Berk., 1864 SPECIES
-=======
+# Xylaria vaporaria Berk., 1864 SPECIES
 
 #### Status
 ACCEPTED

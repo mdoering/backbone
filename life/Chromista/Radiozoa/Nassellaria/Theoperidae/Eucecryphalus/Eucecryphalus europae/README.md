@@ -1,5 +1,4 @@
-Eucecryphalus europae (Haeckel) Takahashi, 1991 SPECIES
-=======
+# Eucecryphalus europae (Haeckel) Takahashi, 1991 SPECIES
 
 #### Status
 ACCEPTED

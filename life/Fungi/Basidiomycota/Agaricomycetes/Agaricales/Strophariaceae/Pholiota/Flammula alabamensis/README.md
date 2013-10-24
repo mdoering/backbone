@@ -1,5 +1,4 @@
-Flammula alabamensis (Murrill) Sacc. & Trotter SPECIES
-=======
+# Flammula alabamensis (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

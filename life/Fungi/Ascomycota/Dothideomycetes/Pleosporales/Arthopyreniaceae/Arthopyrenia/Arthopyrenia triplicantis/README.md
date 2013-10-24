@@ -1,5 +1,4 @@
-Arthopyrenia triplicantis (Vain.) H. Olivier SPECIES
-=======
+# Arthopyrenia triplicantis (Vain.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

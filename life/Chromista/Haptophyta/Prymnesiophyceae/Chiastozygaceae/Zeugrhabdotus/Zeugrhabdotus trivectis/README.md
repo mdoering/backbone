@@ -1,5 +1,4 @@
-Zeugrhabdotus trivectis SPECIES
-=======
+# Zeugrhabdotus trivectis SPECIES
 
 #### Status
 ACCEPTED

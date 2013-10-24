@@ -1,5 +1,4 @@
-Aecidium vernoniae-monocephalae Doidge SPECIES
-=======
+# Aecidium vernoniae-monocephalae Doidge SPECIES
 
 #### Status
 ACCEPTED

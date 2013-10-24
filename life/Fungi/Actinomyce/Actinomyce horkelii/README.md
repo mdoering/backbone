@@ -1,5 +1,4 @@
-Actinomyce horkelii Meyen SPECIES
-=======
+# Actinomyce horkelii Meyen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glycomyces Labeda et al., 1985 GENUS
-=======
+# Glycomyces Labeda et al., 1985 GENUS
 
 #### Status
 ACCEPTED

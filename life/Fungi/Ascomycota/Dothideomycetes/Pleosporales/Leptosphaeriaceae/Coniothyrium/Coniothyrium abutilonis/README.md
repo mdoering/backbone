@@ -1,5 +1,4 @@
-Coniothyrium abutilonis Khokhr. SPECIES
-=======
+# Coniothyrium abutilonis Khokhr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conocybe olivacea M.M. Moser SPECIES
-=======
+# Conocybe olivacea M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

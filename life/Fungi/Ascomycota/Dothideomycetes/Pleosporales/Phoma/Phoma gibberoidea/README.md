@@ -1,5 +1,4 @@
-Phoma gibberoidea Cooke & Massee SPECIES
-=======
+# Phoma gibberoidea Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius perferrugineus Murrill SPECIES
-=======
+# Cortinarius perferrugineus Murrill SPECIES
 
 #### Status
 ACCEPTED

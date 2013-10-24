@@ -1,5 +1,4 @@
-Puccinia fuhrmanii Mayor SPECIES
-=======
+# Puccinia fuhrmanii Mayor SPECIES
 
 #### Status
 ACCEPTED

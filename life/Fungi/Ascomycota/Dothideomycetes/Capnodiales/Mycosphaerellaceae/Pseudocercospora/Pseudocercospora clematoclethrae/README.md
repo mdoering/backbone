@@ -1,5 +1,4 @@
-Pseudocercospora clematoclethrae X.J. Liu & Y.L. Guo SPECIES
-=======
+# Pseudocercospora clematoclethrae X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

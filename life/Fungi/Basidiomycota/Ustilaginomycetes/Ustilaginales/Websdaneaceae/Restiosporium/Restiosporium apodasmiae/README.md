@@ -1,5 +1,4 @@
-Restiosporium apodasmiae Vánky, 2006 SPECIES
-=======
+# Restiosporium apodasmiae Vánky, 2006 SPECIES
 
 #### Status
 ACCEPTED

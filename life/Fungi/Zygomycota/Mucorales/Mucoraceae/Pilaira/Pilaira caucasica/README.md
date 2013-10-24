@@ -1,17 +1,16 @@
-Pilaira moreaui var. caucasica (Milko) R.Y. Zheng & X.Y. Liu, 2009 VARIETY
-=======
+# Pilaira caucasica Milko, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mikol. Fitopatol. 4(3): 263 (1970)
 
 #### Original name
-null
+Pilaira caucasica Milko, 1970
 
 ### Remarks
 null

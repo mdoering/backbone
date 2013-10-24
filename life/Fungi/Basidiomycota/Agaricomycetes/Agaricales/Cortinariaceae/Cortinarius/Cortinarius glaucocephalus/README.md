@@ -1,5 +1,4 @@
-Cortinarius glaucocephalus M.M. Moser, Ammirati & Halling SPECIES
-=======
+# Cortinarius glaucocephalus M.M. Moser, Ammirati & Halling SPECIES
 
 #### Status
 ACCEPTED

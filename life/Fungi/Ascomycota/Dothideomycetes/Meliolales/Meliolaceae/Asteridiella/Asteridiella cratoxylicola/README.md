@@ -1,17 +1,16 @@
-Asteridiella cratoxylonicola Y.X. Hu SPECIES
-=======
+# Asteridiella cratoxylicola Y.X. Hu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Hu, Lu & Jiang, Acta Mycol. Sin. 8(3): 181 (1989)
 
 #### Original name
-Asteridiella cratoxylonicola Y.X. Hu
+Asteridiella cratoxylicola Y.X. Hu
 
 ### Remarks
 null

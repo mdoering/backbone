@@ -1,5 +1,4 @@
-Nigredo seditiosa (F. Kern) Arthur SPECIES
-=======
+# Nigredo seditiosa (F. Kern) Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria oryzina Sacc. SPECIES
-=======
+# Leptosphaeria oryzina Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triceratium mesoleium Grunow SPECIES
-=======
+# Triceratium mesoleium Grunow SPECIES
 
 #### Status
 ACCEPTED

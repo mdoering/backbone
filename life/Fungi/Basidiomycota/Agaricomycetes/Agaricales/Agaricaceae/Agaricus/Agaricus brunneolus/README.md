@@ -1,5 +1,4 @@
-Agaricus brunneolus (J.E. Lange) Pilát SPECIES
-=======
+# Agaricus brunneolus (J.E. Lange) Pilát SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Lisea spatholobii Rehm SPECIES
-=======
+# Lisea spatholobi Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lisea spatholobii Rehm
+Lisea spatholobi Rehm
 
 ### Remarks
 null

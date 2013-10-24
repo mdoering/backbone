@@ -1,5 +1,4 @@
-Phyllachora julocrotonis Bres., 1896 SPECIES
-=======
+# Phyllachora julocrotonis Bres., 1896 SPECIES
 
 #### Status
 ACCEPTED

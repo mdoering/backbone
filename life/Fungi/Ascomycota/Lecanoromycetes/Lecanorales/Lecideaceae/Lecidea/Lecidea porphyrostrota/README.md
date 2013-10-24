@@ -1,5 +1,4 @@
-Lecidea porphyrostrota f. porphyrostrota FORM
-=======
+# Lecidea porphyrostrota Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea porphyrostrota f. porphyrostrota
+Lecidea porphyrostrota Vain.
 
 ### Remarks
 null

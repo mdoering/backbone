@@ -1,5 +1,4 @@
-Meliola penicilliformis Gaillard SPECIES
-=======
+# Meliola penicilliformis Gaillard SPECIES
 
 #### Status
 ACCEPTED

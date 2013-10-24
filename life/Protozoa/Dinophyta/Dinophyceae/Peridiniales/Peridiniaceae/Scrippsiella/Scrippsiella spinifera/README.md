@@ -1,5 +1,4 @@
-Scrippsiella spinifera G. Honsell & M. Cabrini SPECIES
-=======
+# Scrippsiella spinifera G. Honsell & M. Cabrini SPECIES
 
 #### Status
 ACCEPTED

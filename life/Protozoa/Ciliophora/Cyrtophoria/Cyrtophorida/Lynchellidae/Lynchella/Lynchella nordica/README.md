@@ -1,5 +1,4 @@
-Lynchella nordica Jankowski, 1968 SPECIES
-=======
+# Lynchella nordica Jankowski, 1968 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epipolaeum absconditum (Johanson) L. Holm SPECIES
-=======
+# Epipolaeum absconditum (Johanson) L. Holm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius microsporus Sosin SPECIES
-=======
+# Lactarius microsporus Sosin SPECIES
 
 #### Status
 ACCEPTED

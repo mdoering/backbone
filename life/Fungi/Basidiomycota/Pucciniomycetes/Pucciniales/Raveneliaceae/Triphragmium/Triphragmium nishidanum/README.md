@@ -1,5 +1,4 @@
-Triphragmium nishidanum Dietel SPECIES
-=======
+# Triphragmium nishidanum Dietel SPECIES
 
 #### Status
 ACCEPTED

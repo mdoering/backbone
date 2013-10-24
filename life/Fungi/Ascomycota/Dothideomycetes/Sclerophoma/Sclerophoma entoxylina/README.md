@@ -1,5 +1,4 @@
-Sclerophoma entoxylina Lagerb. & Melin, 1927 SPECIES
-=======
+# Sclerophoma entoxylina Lagerb. & Melin, 1927 SPECIES
 
 #### Status
 ACCEPTED

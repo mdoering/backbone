@@ -1,14 +1,13 @@
-Gnomonia ulmea (Fr.) Thüm., 1878 SPECIES
-=======
+# Stegophora ulmea (Fr.) Syd. & P. Syd., 1916 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 61: 178 (1878)
+Annls mycol. 14(5): 364 (1916)
 
 #### Original name
 Sphaeria ulmea Fr., 1823

@@ -1,17 +1,16 @@
-Agaricus rubescens var. rubescens VARIETY
-=======
+# Agaricus rubescens Scop. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Fl. carniol. (Wien), Edn 2 2: 458 (no 1572) (1772)
 
 #### Original name
-null
+Agaricus rubescens Scop.
 
 ### Remarks
 null

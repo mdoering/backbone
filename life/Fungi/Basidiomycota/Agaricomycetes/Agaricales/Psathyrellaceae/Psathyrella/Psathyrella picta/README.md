@@ -1,5 +1,4 @@
-Psathyrella picta (Romagn.) Romagn. SPECIES
-=======
+# Psathyrella picta (Romagn.) Romagn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fungoides auriculae-judae Vaill. SPECIES
-=======
+# Fungoides auriculae-judae Vaill. SPECIES
 
 #### Status
 ACCEPTED

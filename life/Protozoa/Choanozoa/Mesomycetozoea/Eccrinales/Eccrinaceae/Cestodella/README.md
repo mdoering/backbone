@@ -1,5 +1,4 @@
-Cestodella GENUS
-=======
+# Cestodella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kirschsteiniella thujina (Peck) Pomerl. & D.E. Ether. SPECIES
-=======
+# Kirschsteiniella thujina (Peck) Pomerl. & D.E. Ether. SPECIES
 
 #### Status
 ACCEPTED

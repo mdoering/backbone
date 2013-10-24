@@ -1,5 +1,4 @@
-Phyllosticta longispora McAlpine SPECIES
-=======
+# Phyllosticta longispora McAlpine SPECIES
 
 #### Status
 ACCEPTED

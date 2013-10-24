@@ -1,5 +1,4 @@
-Aspicilia uplandica (H. Magn.) Creveld SPECIES
-=======
+# Aspicilia uplandica (H. Magn.) Creveld SPECIES
 
 #### Status
 ACCEPTED

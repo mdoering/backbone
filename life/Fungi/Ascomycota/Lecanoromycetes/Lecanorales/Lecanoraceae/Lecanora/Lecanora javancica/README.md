@@ -1,5 +1,4 @@
-Lecanora javancica SPECIES
-=======
+# Lecanora javancica SPECIES
 
 #### Status
 ACCEPTED

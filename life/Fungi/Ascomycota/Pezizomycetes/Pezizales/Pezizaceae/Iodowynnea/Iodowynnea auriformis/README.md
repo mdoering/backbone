@@ -1,14 +1,13 @@
-Peziza taeniospora Pfister, 1974 SPECIES
-=======
+# Iodowynnea auriformis (Pat. ex Le Gal) Medel, Guzmán & S. Chacón, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Agric. Univ. P. Rico 58(3): 366 (1974)
+in Medel, Guzmán, Chacón & Korf, Mycotaxon 59: 128 (1996)
 
 #### Original name
 Galactinia auriformis Pat. ex Le Gal, 1953

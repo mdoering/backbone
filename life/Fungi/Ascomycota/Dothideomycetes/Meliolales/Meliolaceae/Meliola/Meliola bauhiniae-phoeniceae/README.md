@@ -1,5 +1,4 @@
-Meliola bauhiniae-phoeniceae Hosag., H. Biju & Manojk. SPECIES
-=======
+# Meliola bauhiniae-phoeniceae Hosag., H. Biju & Manojk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago garcesi Zundel SPECIES
-=======
+# Ustilago garcesi Zundel SPECIES
 
 #### Status
 ACCEPTED

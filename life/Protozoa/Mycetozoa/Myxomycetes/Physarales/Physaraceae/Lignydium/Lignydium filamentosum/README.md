@@ -1,5 +1,4 @@
-Lignydium filamentosum (Trentep.) Kuntze SPECIES
-=======
+# Lignydium filamentosum (Trentep.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

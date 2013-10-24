@@ -1,17 +1,16 @@
-Diderma niveum subsp. lyallii (Massee) G. Lister SUBSPECIES
-=======
+# Diderma fallax (Rostaf.) Lado, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Lister, Monogr. Mycetozoa (London), Edn 2 105 (1911)
+Cuadernos de Trabajo de Flora Micológica Ibérica (Madrid) 16: 32 (2001)
 
 #### Original name
-Chondrioderma lyallii Massee, 1892
+Chondrioderma fallax Rostaf., 1874
 
 ### Remarks
 null

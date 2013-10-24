@@ -1,5 +1,4 @@
-Laestadia engleri Speg. SPECIES
-=======
+# Laestadia engleri Speg. SPECIES
 
 #### Status
 ACCEPTED

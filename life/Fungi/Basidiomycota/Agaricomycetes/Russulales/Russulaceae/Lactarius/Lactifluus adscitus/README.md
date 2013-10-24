@@ -1,5 +1,4 @@
-Lactifluus adscitus (Britzelm.) Kuntze SPECIES
-=======
+# Lactifluus adscitus (Britzelm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

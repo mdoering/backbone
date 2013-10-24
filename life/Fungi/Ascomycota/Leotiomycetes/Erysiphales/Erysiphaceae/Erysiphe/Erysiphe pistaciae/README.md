@@ -1,5 +1,4 @@
-Erysiphe pistaciae (J.Y. Lu & K.R. Wang) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe pistaciae (J.Y. Lu & K.R. Wang) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

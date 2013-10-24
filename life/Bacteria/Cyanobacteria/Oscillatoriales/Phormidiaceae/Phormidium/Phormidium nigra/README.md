@@ -1,5 +1,4 @@
-Phormidium nigra (Vaucher ex Gomont) Anagnostidis & Komárek SPECIES
-=======
+# Phormidium nigra (Vaucher ex Gomont) Anagnostidis & Komárek SPECIES
 
 #### Status
 ACCEPTED

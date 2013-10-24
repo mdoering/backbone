@@ -1,5 +1,4 @@
-Sigmoilina coelata O.G. Costa, 1855 SPECIES
-=======
+# Sigmoilina coelata O.G. Costa, 1855 SPECIES
 
 #### Status
 ACCEPTED

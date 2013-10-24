@@ -1,5 +1,4 @@
-Filisphaera J.P.Bujak, 1984 GENUS
-=======
+# Filisphaera J.P.Bujak, 1984 GENUS
 
 #### Status
 ACCEPTED

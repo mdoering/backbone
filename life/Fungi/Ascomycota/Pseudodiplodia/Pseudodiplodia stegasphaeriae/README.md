@@ -1,5 +1,4 @@
-Pseudodiplodia stegasphaeriae (Petr.) Petr. SPECIES
-=======
+# Pseudodiplodia stegasphaeriae (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

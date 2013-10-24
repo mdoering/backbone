@@ -1,5 +1,4 @@
-Naucoria glabra Velen. SPECIES
-=======
+# Naucoria glabra Velen. SPECIES
 
 #### Status
 ACCEPTED

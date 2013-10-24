@@ -1,5 +1,4 @@
-Cercospora gigantea F.E. Fisher SPECIES
-=======
+# Cercospora gigantea F.E. Fisher SPECIES
 
 #### Status
 ACCEPTED

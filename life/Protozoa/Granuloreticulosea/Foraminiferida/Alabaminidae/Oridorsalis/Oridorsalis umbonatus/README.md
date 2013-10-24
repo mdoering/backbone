@@ -1,5 +1,4 @@
-Oridorsalis umbonatus (Reuss) SPECIES
-=======
+# Oridorsalis umbonatus (Reuss) SPECIES
 
 #### Status
 ACCEPTED

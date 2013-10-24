@@ -1,14 +1,13 @@
-Omphalina roseopallida (Contu) Contu, 1990 SPECIES
-=======
+# Loreleia roseopallida (Contu) Redhead, Moncalvo, Vilgalys & Lutzoni, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bolm Soc. broteriana, 2<sup>a</sup> série 63: 385 (1990)
+Mycotaxon 82: 162 (2002)
 
 #### Original name
 Gerronema roseopallidum Contu, 1989

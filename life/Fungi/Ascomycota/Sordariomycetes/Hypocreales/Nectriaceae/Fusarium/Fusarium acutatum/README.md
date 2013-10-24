@@ -1,5 +1,4 @@
-Fusarium acutatum Nirenberg & O'Donnell, 1998 SPECIES
-=======
+# Fusarium acutatum Nirenberg & O'Donnell, 1998 SPECIES
 
 #### Status
 ACCEPTED

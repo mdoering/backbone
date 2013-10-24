@@ -1,5 +1,4 @@
-Campylacia quercus Beltr. SPECIES
-=======
+# Campylacia quercus Beltr. SPECIES
 
 #### Status
 ACCEPTED

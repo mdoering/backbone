@@ -1,5 +1,4 @@
-Stachybotrys pallida Orpurt SPECIES
-=======
+# Stachybotrys pallida Orpurt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eufolliculina latemarginata (Hadzi, 1938) ? SPECIES
-=======
+# Eufolliculina latemarginata (Hadzi, 1938) ? SPECIES
 
 #### Status
 ACCEPTED

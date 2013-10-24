@@ -1,5 +1,4 @@
-Lepista stipitipurpurascens Corner SPECIES
-=======
+# Lepista stipitipurpurascens Corner SPECIES
 
 #### Status
 ACCEPTED

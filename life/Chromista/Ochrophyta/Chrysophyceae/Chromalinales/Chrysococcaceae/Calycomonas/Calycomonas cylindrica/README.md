@@ -1,5 +1,4 @@
-Calycomonas cylindrica (Conrad & Kufferath) Lund SPECIES
-=======
+# Calycomonas cylindrica (Conrad & Kufferath) Lund SPECIES
 
 #### Status
 ACCEPTED

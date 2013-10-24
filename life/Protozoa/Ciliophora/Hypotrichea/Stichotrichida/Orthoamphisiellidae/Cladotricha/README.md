@@ -1,5 +1,4 @@
-Cladotricha Gaievskaia, 1925 GENUS
-=======
+# Cladotricha Gaievskaia, 1925 GENUS
 
 #### Status
 ACCEPTED

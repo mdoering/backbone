@@ -1,5 +1,4 @@
-Sphaeria magnoliae Schwein. SPECIES
-=======
+# Sphaeria magnoliae Schwein. SPECIES
 
 #### Status
 ACCEPTED

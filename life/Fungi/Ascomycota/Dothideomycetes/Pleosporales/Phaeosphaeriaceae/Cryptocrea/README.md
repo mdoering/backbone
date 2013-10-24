@@ -1,5 +1,4 @@
-Cryptocrea GENUS
-=======
+# Cryptocrea GENUS
 
 #### Status
 ACCEPTED

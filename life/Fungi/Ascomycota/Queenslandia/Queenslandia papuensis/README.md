@@ -1,5 +1,4 @@
-Queenslandia papuensis Bat. & Peres SPECIES
-=======
+# Queenslandia papuensis Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora babingtonii Hook. f. & Taylor SPECIES
-=======
+# Lecanora babingtonii Hook. f. & Taylor SPECIES
 
 #### Status
 ACCEPTED

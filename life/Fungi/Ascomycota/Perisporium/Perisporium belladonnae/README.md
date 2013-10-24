@@ -1,5 +1,4 @@
-Perisporium belladonnae Kirchn. SPECIES
-=======
+# Perisporium belladonnae Kirchn. SPECIES
 
 #### Status
 ACCEPTED

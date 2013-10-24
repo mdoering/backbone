@@ -1,5 +1,4 @@
-Octopodotus stupendus Kohlm. & Volkm.-Kohlm., 2003 SPECIES
-=======
+# Octopodotus stupendus Kohlm. & Volkm.-Kohlm., 2003 SPECIES
 
 #### Status
 ACCEPTED

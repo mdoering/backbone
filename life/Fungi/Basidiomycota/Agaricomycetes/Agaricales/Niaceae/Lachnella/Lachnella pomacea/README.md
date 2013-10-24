@@ -1,5 +1,4 @@
-Lachnella pomacea Velen. SPECIES
-=======
+# Lachnella pomacea Velen. SPECIES
 
 #### Status
 ACCEPTED

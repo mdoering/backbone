@@ -1,14 +1,13 @@
-Humaria carneosanguinea Fuckel, 1870 SPECIES
-=======
+# Parascutellinia carneosanguinea (Fuckel) T. Schumach., 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 323 (1870)
+Norw. Jl Bot. 26(1): 62 (1979)
 
 #### Original name
 Humaria carneosanguinea Fuckel, 1870

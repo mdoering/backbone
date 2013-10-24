@@ -1,5 +1,4 @@
-Verrucaria marcii SPECIES
-=======
+# Verrucaria marcii SPECIES
 
 #### Status
 ACCEPTED

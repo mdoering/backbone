@@ -1,5 +1,4 @@
-Vampyrellidium vagans Zopf SPECIES
-=======
+# Vampyrellidium vagans Zopf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces congoensis Syd. & P. Syd. SPECIES
-=======
+# Uromyces congoensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

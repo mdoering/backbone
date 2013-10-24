@@ -1,5 +1,4 @@
-Sphaceloma lespedezae Kuros. {?} & Katsuki SPECIES
-=======
+# Sphaceloma lespedezae Kuros. {?} & Katsuki SPECIES
 
 #### Status
 ACCEPTED

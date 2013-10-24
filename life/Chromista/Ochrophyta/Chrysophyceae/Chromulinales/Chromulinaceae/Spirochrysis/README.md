@@ -1,5 +1,4 @@
-Spirochrysis W.Conrad, 1931 GENUS
-=======
+# Spirochrysis W.Conrad, 1931 GENUS
 
 #### Status
 SYNONYM

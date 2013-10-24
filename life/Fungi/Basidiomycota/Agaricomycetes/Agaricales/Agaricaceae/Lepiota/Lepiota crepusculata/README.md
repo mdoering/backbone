@@ -1,5 +1,4 @@
-Lepiota crepusculata E. Horak SPECIES
-=======
+# Lepiota crepusculata E. Horak SPECIES
 
 #### Status
 ACCEPTED

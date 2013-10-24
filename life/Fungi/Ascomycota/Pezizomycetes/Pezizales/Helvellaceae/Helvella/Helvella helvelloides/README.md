@@ -1,5 +1,4 @@
-Helvella helvelloides (Fr.) SPECIES
-=======
+# Helvella helvelloides (Fr.) SPECIES
 
 #### Status
 ACCEPTED

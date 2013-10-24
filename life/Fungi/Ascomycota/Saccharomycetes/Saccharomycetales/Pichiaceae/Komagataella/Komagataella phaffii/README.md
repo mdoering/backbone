@@ -1,5 +1,4 @@
-Komagataella phaffii Kurtzman, 2005 SPECIES
-=======
+# Komagataella phaffii Kurtzman, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baeomyces rubescescens Vain. SPECIES
-=======
+# Baeomyces rubescescens Vain. SPECIES
 
 #### Status
 ACCEPTED

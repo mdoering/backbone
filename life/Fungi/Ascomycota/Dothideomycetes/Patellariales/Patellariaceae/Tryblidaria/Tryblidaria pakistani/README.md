@@ -1,5 +1,4 @@
-Tryblidaria pakistani (E. Müll. & S. Ahmad) Kutorga & D. Hawksw. SPECIES
-=======
+# Tryblidaria pakistani (E. Müll. & S. Ahmad) Kutorga & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

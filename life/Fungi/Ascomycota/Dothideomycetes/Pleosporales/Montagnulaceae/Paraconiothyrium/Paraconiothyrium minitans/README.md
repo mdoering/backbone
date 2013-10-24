@@ -1,14 +1,13 @@
-Coniothyrium minitans W.A. Campb., 1947 SPECIES
-=======
+# Paraconiothyrium minitans (W.A. Campb.) Verkley, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 39(2): 191 (1947)
+in Verkley, da Silva, Wicklow & Crous, Stud. Mycol. 50(2): 332 (2004)
 
 #### Original name
 Coniothyrium minitans W.A. Campb., 1947

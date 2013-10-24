@@ -1,5 +1,4 @@
-Calocera corticalis (Batsch) Fr. SPECIES
-=======
+# Calocera corticalis (Batsch) Fr. SPECIES
 
 #### Status
 ACCEPTED

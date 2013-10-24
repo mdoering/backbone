@@ -1,5 +1,4 @@
-Mycena radicata Thiers SPECIES
-=======
+# Mycena radicata Thiers SPECIES
 
 #### Status
 ACCEPTED

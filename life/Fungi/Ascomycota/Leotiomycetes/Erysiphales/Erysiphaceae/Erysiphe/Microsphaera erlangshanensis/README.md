@@ -1,5 +1,4 @@
-Microsphaera erlangshanensis Y.N. Yu SPECIES
-=======
+# Microsphaera erlangshanensis Y.N. Yu SPECIES
 
 #### Status
 ACCEPTED

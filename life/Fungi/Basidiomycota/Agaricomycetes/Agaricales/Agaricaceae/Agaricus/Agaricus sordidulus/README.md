@@ -1,5 +1,4 @@
-Agaricus sordidulus J.F. Gmel. SPECIES
-=======
+# Agaricus sordidulus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

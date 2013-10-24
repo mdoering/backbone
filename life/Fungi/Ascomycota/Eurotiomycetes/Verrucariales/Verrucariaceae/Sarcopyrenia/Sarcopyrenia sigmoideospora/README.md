@@ -1,5 +1,4 @@
-Sarcopyrenia sigmoideospora Tretiach & Nav.-Ros. SPECIES
-=======
+# Sarcopyrenia sigmoideospora Tretiach & Nav.-Ros. SPECIES
 
 #### Status
 ACCEPTED

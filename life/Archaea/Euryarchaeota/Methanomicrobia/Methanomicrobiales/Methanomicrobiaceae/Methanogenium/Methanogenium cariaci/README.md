@@ -1,5 +1,4 @@
-Methanogenium cariaci Romesser et al., 1981 SPECIES
-=======
+# Methanogenium cariaci Romesser et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

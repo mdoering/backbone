@@ -1,5 +1,4 @@
-Hygrocybe corsica Candusso SPECIES
-=======
+# Hygrocybe corsica Candusso SPECIES
 
 #### Status
 ACCEPTED

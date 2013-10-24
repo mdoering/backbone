@@ -1,5 +1,4 @@
-Brasiliomyces chiangmaiensis To-Anun & S. Takam. SPECIES
-=======
+# Brasiliomyces chiangmaiensis To-Anun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

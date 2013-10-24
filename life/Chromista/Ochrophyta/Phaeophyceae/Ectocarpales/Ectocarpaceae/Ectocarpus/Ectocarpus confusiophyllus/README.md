@@ -1,5 +1,4 @@
-Ectocarpus confusiophyllus Noda SPECIES
-=======
+# Ectocarpus confusiophyllus Noda SPECIES
 
 #### Status
 ACCEPTED

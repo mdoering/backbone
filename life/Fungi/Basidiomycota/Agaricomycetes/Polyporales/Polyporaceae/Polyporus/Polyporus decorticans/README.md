@@ -1,5 +1,4 @@
-Polyporus decorticans Speg. SPECIES
-=======
+# Polyporus decorticans Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterocassidulina saidovae Loeblich & Tappan, 1994 SPECIES
-=======
+# Heterocassidulina saidovae Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia subopaca Speg. SPECIES
-=======
+# Laboulbenia subopaca Speg. SPECIES
 
 #### Status
 ACCEPTED

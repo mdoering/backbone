@@ -1,5 +1,4 @@
-Dimastigamoeba Blochmann, 1894 GENUS
-=======
+# Dimastigamoeba Blochmann, 1894 GENUS
 
 #### Status
 ACCEPTED

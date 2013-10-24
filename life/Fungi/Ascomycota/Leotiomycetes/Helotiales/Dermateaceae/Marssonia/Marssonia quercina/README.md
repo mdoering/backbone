@@ -1,5 +1,4 @@
-Marssonia quercina G. Winter SPECIES
-=======
+# Marssonia quercina G. Winter SPECIES
 
 #### Status
 ACCEPTED

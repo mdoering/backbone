@@ -1,5 +1,4 @@
-Pholiota albovirescens A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota albovirescens A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

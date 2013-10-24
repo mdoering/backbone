@@ -1,5 +1,4 @@
-Clitocybe pedicellata Velen. SPECIES
-=======
+# Clitocybe pedicellata Velen. SPECIES
 
 #### Status
 ACCEPTED

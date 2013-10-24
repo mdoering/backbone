@@ -1,5 +1,4 @@
-Deflandrea heterophlycta Deflandre & Cookson, 1955 SPECIES
-=======
+# Deflandrea heterophlycta Deflandre & Cookson, 1955 SPECIES
 
 #### Status
 ACCEPTED

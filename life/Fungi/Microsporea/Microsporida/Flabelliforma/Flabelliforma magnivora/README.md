@@ -1,5 +1,4 @@
-Flabelliforma magnivora J.I.R. Larsson, D. Ebert, K.L. Mangin & J. Vavra SPECIES
-=======
+# Flabelliforma magnivora J.I.R. Larsson, D. Ebert, K.L. Mangin & J. Vavra SPECIES
 
 #### Status
 ACCEPTED

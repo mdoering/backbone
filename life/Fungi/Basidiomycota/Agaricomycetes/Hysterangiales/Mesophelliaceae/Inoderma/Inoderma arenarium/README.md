@@ -1,5 +1,4 @@
-Inoderma arenarium Berk. SPECIES
-=======
+# Inoderma arenarium Berk. SPECIES
 
 #### Status
 ACCEPTED

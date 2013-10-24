@@ -1,5 +1,4 @@
-Peziza pyrophila (Korf & W.Y. Zhuang) Brumm. SPECIES
-=======
+# Peziza pyrophila (Korf & W.Y. Zhuang) Brumm. SPECIES
 
 #### Status
 ACCEPTED

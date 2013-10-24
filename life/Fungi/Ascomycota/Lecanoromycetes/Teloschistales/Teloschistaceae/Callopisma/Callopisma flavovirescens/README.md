@@ -1,5 +1,4 @@
-Callopisma flavovirescens SPECIES
-=======
+# Callopisma flavovirescens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetomium pampaninii Cif. SPECIES
-=======
+# Chaetomium pampaninii Cif. SPECIES
 
 #### Status
 ACCEPTED

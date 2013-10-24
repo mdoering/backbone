@@ -1,17 +1,16 @@
-Glaziella berkleyi Lloyd SPECIES
-=======
+# Glaziella berkeleyi Lloyd SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Writ. 7(69): 1204 (1923)
 
 #### Original name
-Glaziella berkleyi Lloyd
+Glaziella berkeleyi Lloyd
 
 ### Remarks
 null

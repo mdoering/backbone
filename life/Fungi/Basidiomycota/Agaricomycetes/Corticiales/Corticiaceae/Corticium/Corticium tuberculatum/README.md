@@ -1,5 +1,4 @@
-Corticium tuberculatum SPECIES
-=======
+# Corticium tuberculatum SPECIES
 
 #### Status
 ACCEPTED

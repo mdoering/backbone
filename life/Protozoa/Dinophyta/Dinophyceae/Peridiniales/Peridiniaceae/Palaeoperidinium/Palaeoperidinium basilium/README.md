@@ -1,5 +1,4 @@
-Palaeoperidinium basilium (Drugg) Drugg SPECIES
-=======
+# Palaeoperidinium basilium (Drugg) Drugg SPECIES
 
 #### Status
 ACCEPTED

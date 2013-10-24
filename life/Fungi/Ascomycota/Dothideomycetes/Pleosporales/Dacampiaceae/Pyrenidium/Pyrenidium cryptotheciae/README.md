@@ -1,5 +1,4 @@
-Pyrenidium cryptotheciae Matzer SPECIES
-=======
+# Pyrenidium cryptotheciae Matzer SPECIES
 
 #### Status
 ACCEPTED

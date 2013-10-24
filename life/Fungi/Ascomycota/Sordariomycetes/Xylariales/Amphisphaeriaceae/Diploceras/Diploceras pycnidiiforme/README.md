@@ -1,17 +1,16 @@
-Diploceras pycnidiforme Nag Raj SPECIES
-=======
+# Diploceras pycnidiiforme Nag Raj SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Coelomycetous Anamorphs with Appendage-bearing Conidia (Ontario) 297 (1993)
 
 #### Original name
-Diploceras pycnidiforme Nag Raj
+Diploceras pycnidiiforme Nag Raj
 
 ### Remarks
 null

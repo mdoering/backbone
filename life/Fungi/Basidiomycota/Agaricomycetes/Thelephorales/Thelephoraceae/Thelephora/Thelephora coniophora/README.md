@@ -1,5 +1,4 @@
-Thelephora coniophora Spreng. SPECIES
-=======
+# Thelephora coniophora Spreng. SPECIES
 
 #### Status
 ACCEPTED

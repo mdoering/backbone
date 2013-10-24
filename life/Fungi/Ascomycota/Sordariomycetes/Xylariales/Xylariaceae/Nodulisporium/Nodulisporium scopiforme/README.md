@@ -1,5 +1,4 @@
-Nodulisporium scopiforme K. Matsush. & Matsush. SPECIES
-=======
+# Nodulisporium scopiforme K. Matsush. & Matsush. SPECIES
 
 #### Status
 ACCEPTED

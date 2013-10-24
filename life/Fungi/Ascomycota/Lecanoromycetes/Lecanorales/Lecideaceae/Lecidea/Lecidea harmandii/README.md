@@ -1,5 +1,4 @@
-Lecidea harmandii Pit. SPECIES
-=======
+# Lecidea harmandii Pit. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Agaricus psammocephalus Bull., 1793 SPECIES
-=======
+# Cortinarius psammocephalus (Bull.) Fr., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Herb. Fr. 13: 12, tab. 531, fig. 2 (1793)
+Epicr. syst. mycol. (Upsaliae) 301 (1838)
 
 #### Original name
 Agaricus psammocephalus Bull., 1793

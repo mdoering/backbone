@@ -1,5 +1,4 @@
-Pseudodidymium R. Michel, Walochnik & Aspöck GENUS
-=======
+# Pseudodidymium R. Michel, Walochnik & Aspöck GENUS
 
 #### Status
 ACCEPTED

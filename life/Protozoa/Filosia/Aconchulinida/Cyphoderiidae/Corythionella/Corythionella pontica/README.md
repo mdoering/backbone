@@ -1,5 +1,4 @@
-Corythionella pontica Golemansky, 1970 SPECIES
-=======
+# Corythionella pontica Golemansky, 1970 SPECIES
 
 #### Status
 ACCEPTED

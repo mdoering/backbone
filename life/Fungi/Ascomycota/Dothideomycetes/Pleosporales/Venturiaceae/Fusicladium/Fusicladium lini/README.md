@@ -1,5 +1,4 @@
-Fusicladium lini Sorauer SPECIES
-=======
+# Fusicladium lini Sorauer SPECIES
 
 #### Status
 ACCEPTED

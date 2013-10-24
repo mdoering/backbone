@@ -1,5 +1,4 @@
-Ascochyta davidii Tasl. SPECIES
-=======
+# Ascochyta davidii Tasl. SPECIES
 
 #### Status
 ACCEPTED

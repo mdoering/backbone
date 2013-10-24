@@ -1,5 +1,4 @@
-Gilletia spinuligera Sacc. & Therry SPECIES
-=======
+# Gilletia spinuligera Sacc. & Therry SPECIES
 
 #### Status
 ACCEPTED

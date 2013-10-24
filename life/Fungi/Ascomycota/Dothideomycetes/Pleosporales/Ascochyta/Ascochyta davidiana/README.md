@@ -1,5 +1,4 @@
-Ascochyta davidiana Kabát & Bubák SPECIES
-=======
+# Ascochyta davidiana Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

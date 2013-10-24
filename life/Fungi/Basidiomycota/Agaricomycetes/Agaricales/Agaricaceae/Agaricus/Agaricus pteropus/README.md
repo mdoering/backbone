@@ -1,5 +1,4 @@
-Agaricus pteropus Kalchbr. & MacOwan SPECIES
-=======
+# Agaricus pteropus Kalchbr. & MacOwan SPECIES
 
 #### Status
 ACCEPTED

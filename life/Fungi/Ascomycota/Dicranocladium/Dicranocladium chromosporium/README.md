@@ -1,5 +1,4 @@
-Dicranocladium chromosporium (Sousa da Câmara) Sousa da Câmara SPECIES
-=======
+# Dicranocladium chromosporium (Sousa da Câmara) Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

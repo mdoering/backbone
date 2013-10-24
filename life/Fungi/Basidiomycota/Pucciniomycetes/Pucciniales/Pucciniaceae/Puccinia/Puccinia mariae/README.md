@@ -1,5 +1,4 @@
-Puccinia mariae H.S. Jacks. SPECIES
-=======
+# Puccinia mariae H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

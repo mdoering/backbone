@@ -1,5 +1,4 @@
-Cylindrosporium aquaticum (Fautrey & Roum.) Sacc. SPECIES
-=======
+# Cylindrosporium aquaticum (Fautrey & Roum.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

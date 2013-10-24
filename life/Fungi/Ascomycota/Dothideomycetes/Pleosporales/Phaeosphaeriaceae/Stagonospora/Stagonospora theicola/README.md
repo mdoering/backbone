@@ -1,5 +1,4 @@
-Stagonospora theicola Petch SPECIES
-=======
+# Stagonospora theicola Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum orthianum Kostlan {?} SPECIES
-=======
+# Colletotrichum orthianum Kostlan {?} SPECIES
 
 #### Status
 ACCEPTED

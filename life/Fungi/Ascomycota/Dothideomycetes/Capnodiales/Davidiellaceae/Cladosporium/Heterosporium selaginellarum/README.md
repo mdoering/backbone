@@ -1,5 +1,4 @@
-Heterosporium selaginellarum M.L. Farr SPECIES
-=======
+# Heterosporium selaginellarum M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

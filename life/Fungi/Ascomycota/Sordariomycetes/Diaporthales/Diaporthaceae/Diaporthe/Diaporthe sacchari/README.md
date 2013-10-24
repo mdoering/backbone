@@ -1,5 +1,4 @@
-Diaporthe sacchari Speg. SPECIES
-=======
+# Diaporthe sacchari Speg. SPECIES
 
 #### Status
 ACCEPTED

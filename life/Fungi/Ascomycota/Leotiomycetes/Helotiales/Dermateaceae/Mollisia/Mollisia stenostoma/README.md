@@ -1,5 +1,4 @@
-Mollisia stenostoma Berk. & M.A. Curtis SPECIES
-=======
+# Mollisia stenostoma Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

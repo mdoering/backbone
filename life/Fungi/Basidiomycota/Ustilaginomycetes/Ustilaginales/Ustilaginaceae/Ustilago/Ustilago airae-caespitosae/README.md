@@ -1,5 +1,4 @@
-Ustilago airae-caespitosae (Lindr.) Liro SPECIES
-=======
+# Ustilago airae-caespitosae (Lindr.) Liro SPECIES
 
 #### Status
 ACCEPTED

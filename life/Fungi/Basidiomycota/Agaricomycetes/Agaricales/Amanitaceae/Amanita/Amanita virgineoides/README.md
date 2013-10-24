@@ -1,5 +1,4 @@
-Amanita virgineoides Bas SPECIES
-=======
+# Amanita virgineoides Bas SPECIES
 
 #### Status
 ACCEPTED

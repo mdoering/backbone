@@ -1,5 +1,4 @@
-Paxillus microsporus Peck SPECIES
-=======
+# Paxillus microsporus Peck SPECIES
 
 #### Status
 ACCEPTED

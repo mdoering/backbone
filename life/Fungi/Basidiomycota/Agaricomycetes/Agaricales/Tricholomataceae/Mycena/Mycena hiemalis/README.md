@@ -1,11 +1,10 @@
-Mycena corticola sensu auct. brit. SPECIES
-=======
+# Mycena hiemalis (Osbeck) Quél. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Belgian Species List
 
 #### Published in
 null

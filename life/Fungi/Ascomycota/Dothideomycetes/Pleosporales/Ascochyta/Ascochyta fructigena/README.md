@@ -1,5 +1,4 @@
-Ascochyta fructigena Dominik SPECIES
-=======
+# Ascochyta fructigena Dominik SPECIES
 
 #### Status
 ACCEPTED

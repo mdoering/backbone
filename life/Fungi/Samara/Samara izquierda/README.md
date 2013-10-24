@@ -1,5 +1,4 @@
-Samara izquierda Spreng. SPECIES
-=======
+# Samara izquierda Spreng. SPECIES
 
 #### Status
 ACCEPTED

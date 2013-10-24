@@ -1,17 +1,16 @@
-Pythium borealis R.L. Duan SPECIES
-=======
+# Pythium boreale R.L. Duan, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Acta Mycol. Sin. 4(1): 1 (1985)
 
 #### Original name
-Pythium borealis R.L. Duan
+Pythium boreale R.L. Duan, 1985
 
 ### Remarks
 null

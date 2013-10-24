@@ -1,5 +1,4 @@
-Hendersonia mnii Racov. SPECIES
-=======
+# Hendersonia mnii Racov. SPECIES
 
 #### Status
 ACCEPTED

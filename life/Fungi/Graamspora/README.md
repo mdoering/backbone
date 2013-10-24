@@ -1,5 +1,4 @@
-Graamspora Locq. & Sal.-Cheb. GENUS
-=======
+# Graamspora Locq. & Sal.-Cheb. GENUS
 
 #### Status
 ACCEPTED

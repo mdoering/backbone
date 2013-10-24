@@ -1,5 +1,4 @@
-Angiopsora hansfordiana Jørst. SPECIES
-=======
+# Angiopsora hansfordiana Jørst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Granulopyrenis portoricensis (Petr.) You Z. Wang, Aptroot & K.D. Hyde SPECIES
-=======
+# Granulopyrenis portoricensis (Petr.) You Z. Wang, Aptroot & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

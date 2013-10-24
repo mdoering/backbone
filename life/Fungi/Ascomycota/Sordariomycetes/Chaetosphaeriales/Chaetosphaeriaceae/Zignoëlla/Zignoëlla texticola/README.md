@@ -1,5 +1,4 @@
-Zignoëlla texticola Vouaux SPECIES
-=======
+# Zignoëlla texticola Vouaux SPECIES
 
 #### Status
 ACCEPTED

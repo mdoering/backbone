@@ -1,5 +1,4 @@
-Elytrocysta L.E. Stover & W.R. Evitt, 1978 GENUS
-=======
+# Elytrocysta L.E. Stover & W.R. Evitt, 1978 GENUS
 
 #### Status
 ACCEPTED

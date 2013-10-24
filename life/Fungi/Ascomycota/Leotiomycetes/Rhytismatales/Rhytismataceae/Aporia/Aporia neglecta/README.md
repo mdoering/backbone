@@ -1,5 +1,4 @@
-Aporia neglecta Duby SPECIES
-=======
+# Aporia neglecta Duby SPECIES
 
 #### Status
 ACCEPTED

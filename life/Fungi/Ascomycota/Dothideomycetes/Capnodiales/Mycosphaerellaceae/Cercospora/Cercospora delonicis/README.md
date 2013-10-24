@@ -1,5 +1,4 @@
-Cercospora delonicis J.M. Yen SPECIES
-=======
+# Cercospora delonicis J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

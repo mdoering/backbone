@@ -1,5 +1,4 @@
-Parmelia hysgina Wahlenb. SPECIES
-=======
+# Parmelia hysgina Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

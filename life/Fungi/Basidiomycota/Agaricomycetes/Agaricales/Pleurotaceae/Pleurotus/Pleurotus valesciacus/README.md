@@ -1,5 +1,4 @@
-Pleurotus valesciacus Ces. SPECIES
-=======
+# Pleurotus valesciacus Ces. SPECIES
 
 #### Status
 ACCEPTED

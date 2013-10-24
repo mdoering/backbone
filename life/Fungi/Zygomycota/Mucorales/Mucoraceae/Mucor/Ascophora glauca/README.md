@@ -1,5 +1,4 @@
-Ascophora glauca Corda SPECIES
-=======
+# Ascophora glauca Corda SPECIES
 
 #### Status
 ACCEPTED

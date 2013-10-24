@@ -1,5 +1,4 @@
-Mycena rufolimitata Maas Geest. & E. Horak SPECIES
-=======
+# Mycena rufolimitata Maas Geest. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

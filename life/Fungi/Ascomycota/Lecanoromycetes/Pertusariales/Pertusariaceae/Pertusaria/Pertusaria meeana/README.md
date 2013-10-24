@@ -1,5 +1,4 @@
-Pertusaria meeana A. W. Archer & Elix SPECIES
-=======
+# Pertusaria meeana A. W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora hiratsukana (Togashi & Katsuki) Deighton SPECIES
-=======
+# Pseudocercospora hiratsukana (Togashi & Katsuki) Deighton SPECIES
 
 #### Status
 ACCEPTED

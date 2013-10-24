@@ -1,5 +1,4 @@
-Meliola tamarindi Petr. & Syd. SPECIES
-=======
+# Meliola tamarindi Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

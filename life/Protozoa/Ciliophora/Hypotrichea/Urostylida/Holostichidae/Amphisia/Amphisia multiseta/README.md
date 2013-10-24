@@ -1,5 +1,4 @@
-Amphisia multiseta Sterki, 1878 SPECIES
-=======
+# Amphisia multiseta Sterki, 1878 SPECIES
 
 #### Status
 ACCEPTED

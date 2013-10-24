@@ -1,5 +1,4 @@
-Rutstroemia microsperma (Speg.) Gamundí SPECIES
-=======
+# Rutstroemia microsperma (Speg.) Gamundí SPECIES
 
 #### Status
 ACCEPTED

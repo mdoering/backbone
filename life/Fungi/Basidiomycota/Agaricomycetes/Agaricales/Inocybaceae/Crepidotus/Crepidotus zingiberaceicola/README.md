@@ -1,5 +1,4 @@
-Crepidotus zingiberaceicola Henn. SPECIES
-=======
+# Crepidotus zingiberaceicola Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ocellularia flavomedullosa Nagarkar & Hale SPECIES
-=======
+# Ocellularia flavomedullosa Nagarkar & Hale SPECIES
 
 #### Status
 ACCEPTED

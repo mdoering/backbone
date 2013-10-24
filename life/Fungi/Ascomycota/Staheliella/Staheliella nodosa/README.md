@@ -1,5 +1,4 @@
-Staheliella nodosa Emden, 1974 SPECIES
-=======
+# Staheliella nodosa Emden, 1974 SPECIES
 
 #### Status
 ACCEPTED

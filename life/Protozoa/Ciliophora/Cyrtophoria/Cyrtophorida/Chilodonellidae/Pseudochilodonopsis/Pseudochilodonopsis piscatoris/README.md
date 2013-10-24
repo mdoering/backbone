@@ -1,8 +1,7 @@
-Alinostoma plurivacuolatum (Deroux & Dragesco, 1968) Jankowski, 1980 SPECIES
-=======
+# Pseudochilodonopsis piscatoris (Blochmann, 1895) Foissner, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

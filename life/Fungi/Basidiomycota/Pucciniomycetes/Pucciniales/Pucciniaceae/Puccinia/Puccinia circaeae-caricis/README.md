@@ -1,5 +1,4 @@
-Puccinia circaeae-caricis Hasler SPECIES
-=======
+# Puccinia circaeae-caricis Hasler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protoperidinium obtusum (Karsten) Parke & Dodge SPECIES
-=======
+# Protoperidinium obtusum (Karsten) Parke & Dodge SPECIES
 
 #### Status
 ACCEPTED

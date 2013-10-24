@@ -1,5 +1,4 @@
-Sphaerophrya insolita Jankowski, 1973 SPECIES
-=======
+# Sphaerophrya insolita Jankowski, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella aeluropodis Lobik SPECIES
-=======
+# Mycosphaerella aeluropodis Lobik SPECIES
 
 #### Status
 ACCEPTED

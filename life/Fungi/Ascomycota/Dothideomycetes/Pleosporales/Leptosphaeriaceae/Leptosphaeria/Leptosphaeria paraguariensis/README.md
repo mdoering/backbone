@@ -1,5 +1,4 @@
-Leptosphaeria paraguariensis Maubl. SPECIES
-=======
+# Leptosphaeria paraguariensis Maubl. SPECIES
 
 #### Status
 ACCEPTED

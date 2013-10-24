@@ -1,8 +1,7 @@
-Podaxon calyptratus Fr. SPECIES
-=======
+# Podaxis calyptratus Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Podaxon calyptratus Fr.
+Podaxis calyptratus Fr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Anthostomella africana (Kalchbr. & Cooke) Sacc. SPECIES
-=======
+# Anthostomella africana (Kalchbr. & Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

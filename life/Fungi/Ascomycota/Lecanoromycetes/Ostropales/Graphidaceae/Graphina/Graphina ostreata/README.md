@@ -1,5 +1,4 @@
-Graphina ostreata C.W. Dodge SPECIES
-=======
+# Graphina ostreata C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

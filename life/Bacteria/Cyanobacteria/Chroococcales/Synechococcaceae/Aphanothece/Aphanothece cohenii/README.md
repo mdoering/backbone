@@ -1,5 +1,4 @@
-Aphanothece cohenii Campbell & Golubic SPECIES
-=======
+# Aphanothece cohenii Campbell & Golubic SPECIES
 
 #### Status
 ACCEPTED

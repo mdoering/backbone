@@ -1,5 +1,4 @@
-Xylaria pseudoapiculata Hamme & Guerrero SPECIES
-=======
+# Xylaria pseudoapiculata Hamme & Guerrero SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Leptonia catalaunica Singer, 1936 SPECIES
-=======
+# Entoloma catalaunicum (Singer) Noordel., 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 34: 428 (1936)
+Persoonia 11(4): 470 (1982)
 
 #### Original name
 Leptonia catalaunica Singer, 1936

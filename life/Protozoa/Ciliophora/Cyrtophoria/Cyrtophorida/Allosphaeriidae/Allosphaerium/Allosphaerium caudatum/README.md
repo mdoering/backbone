@@ -1,5 +1,4 @@
-Allosphaerium caudatum SPECIES
-=======
+# Allosphaerium caudatum SPECIES
 
 #### Status
 ACCEPTED

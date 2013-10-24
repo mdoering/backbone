@@ -1,17 +1,16 @@
-Hypomyces ekmani Petr. & Cif. SPECIES
-=======
+# Hypomyces ekmanii Petr. & Cif. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 28(5/6): 382 (1930)
 
 #### Original name
-Hypomyces ekmani Petr. & Cif.
+Hypomyces ekmanii Petr. & Cif.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Nematosphaeropsis singularis R. J. Davey SPECIES
-=======
+# Nematosphaeropsis singularis R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

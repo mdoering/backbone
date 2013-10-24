@@ -1,5 +1,4 @@
-Woroninia Solms-Laubach, 1867 GENUS
-=======
+# Woroninia Solms-Laubach, 1867 GENUS
 
 #### Status
 ACCEPTED

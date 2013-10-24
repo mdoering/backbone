@@ -1,5 +1,4 @@
-Gyrophora vellerea SPECIES
-=======
+# Gyrophora vellerea SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dryophila sapinea (Fr.) SPECIES
-=======
+# Dryophila sapinea (Fr.) SPECIES
 
 #### Status
 ACCEPTED

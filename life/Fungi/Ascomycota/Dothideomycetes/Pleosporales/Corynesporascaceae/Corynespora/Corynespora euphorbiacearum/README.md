@@ -1,5 +1,4 @@
-Corynespora euphorbiacearum Meenu, Arch. Singh & S.K. Singh SPECIES
-=======
+# Corynespora euphorbiacearum Meenu, Arch. Singh & S.K. Singh SPECIES
 
 #### Status
 ACCEPTED

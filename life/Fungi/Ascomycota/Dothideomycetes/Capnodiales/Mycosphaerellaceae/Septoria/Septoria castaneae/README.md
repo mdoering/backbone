@@ -1,5 +1,4 @@
-Septoria castaneae Lév. SPECIES
-=======
+# Septoria castaneae Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycoperdon poltaviense Sosin SPECIES
-=======
+# Lycoperdon poltaviense Sosin SPECIES
 
 #### Status
 ACCEPTED

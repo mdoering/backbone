@@ -1,5 +1,4 @@
-Pegidia dubia var. laevigata Heron-Allen & Earland, 1928 VARIETY
-=======
+# Pegidia dubia (d'Orbigny, 1826) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora verrucarioides Hepp SPECIES
-=======
+# Biatora verrucarioides Hepp SPECIES
 
 #### Status
 ACCEPTED

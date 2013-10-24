@@ -1,5 +1,4 @@
-Aecidium lini Dearn. & House SPECIES
-=======
+# Aecidium lini Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

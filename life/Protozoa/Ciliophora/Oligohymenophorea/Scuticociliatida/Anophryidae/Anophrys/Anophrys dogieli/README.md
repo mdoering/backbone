@@ -1,5 +1,4 @@
-Anophrys dogieli SPECIES
-=======
+# Anophrys dogieli SPECIES
 
 #### Status
 ACCEPTED

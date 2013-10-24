@@ -1,5 +1,4 @@
-Phaeociliospora eugeniae Bat. & Peres SPECIES
-=======
+# Phaeociliospora eugeniae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrosporium goniolimonis Thüm. SPECIES
-=======
+# Macrosporium goniolimonis Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusicladium jacarandae (Viégas) K. Schub., U. Braun & F.O. Freire SPECIES
-=======
+# Fusicladium jacarandae (Viégas) K. Schub., U. Braun & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exobasidium agauriae Henn. SPECIES
-=======
+# Exobasidium agauriae Henn. SPECIES
 
 #### Status
 ACCEPTED

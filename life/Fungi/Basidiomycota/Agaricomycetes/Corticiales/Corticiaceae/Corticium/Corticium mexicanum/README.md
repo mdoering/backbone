@@ -1,5 +1,4 @@
-Corticium mexicanum Burt SPECIES
-=======
+# Corticium mexicanum Burt SPECIES
 
 #### Status
 ACCEPTED

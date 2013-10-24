@@ -1,5 +1,4 @@
-Nephroma reagens f. reagens FORM
-=======
+# Nephroma reagens (B. de Lesd.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Nephroma reagens f. reagens
+null
 
 ### Remarks
 null

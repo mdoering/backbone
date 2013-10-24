@@ -1,5 +1,4 @@
-Ovularia cardui (Kabát & Bubák) Petr. SPECIES
-=======
+# Ovularia cardui (Kabát & Bubák) Petr. SPECIES
 
 #### Status
 ACCEPTED

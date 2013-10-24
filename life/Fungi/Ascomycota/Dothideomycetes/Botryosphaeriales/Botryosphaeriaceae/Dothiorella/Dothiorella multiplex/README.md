@@ -1,5 +1,4 @@
-Dothiorella multiplex (Preuss) Sacc. SPECIES
-=======
+# Dothiorella multiplex (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

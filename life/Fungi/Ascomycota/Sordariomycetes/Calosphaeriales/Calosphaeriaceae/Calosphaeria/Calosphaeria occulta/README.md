@@ -1,5 +1,4 @@
-Calosphaeria occulta G.H. Otth SPECIES
-=======
+# Calosphaeria occulta G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

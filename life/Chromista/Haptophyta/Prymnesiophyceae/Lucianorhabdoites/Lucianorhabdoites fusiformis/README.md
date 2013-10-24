@@ -1,5 +1,4 @@
-Lucianorhabdoites fusiformis Chongyou Wang SPECIES
-=======
+# Lucianorhabdoites fusiformis Chongyou Wang SPECIES
 
 #### Status
 ACCEPTED

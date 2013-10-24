@@ -1,5 +1,4 @@
-Lecidella azurea (Kremp.) Körb. SPECIES
-=======
+# Lecidella azurea (Kremp.) Körb. SPECIES
 
 #### Status
 ACCEPTED

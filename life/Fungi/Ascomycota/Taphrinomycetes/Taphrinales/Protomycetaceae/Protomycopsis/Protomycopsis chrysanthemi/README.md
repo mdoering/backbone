@@ -1,5 +1,4 @@
-Protomycopsis chrysanthemi Büren SPECIES
-=======
+# Protomycopsis chrysanthemi Büren SPECIES
 
 #### Status
 ACCEPTED

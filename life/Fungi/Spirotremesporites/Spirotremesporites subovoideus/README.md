@@ -1,5 +1,4 @@
-Spirotremesporites subovoideus Sheffy & Dilcher ex Elsik SPECIES
-=======
+# Spirotremesporites subovoideus Sheffy & Dilcher ex Elsik SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Filaspora leptospora (C. Massal.) Kuntze SPECIES
-=======
+# Filaspora leptospora (C. Massal.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

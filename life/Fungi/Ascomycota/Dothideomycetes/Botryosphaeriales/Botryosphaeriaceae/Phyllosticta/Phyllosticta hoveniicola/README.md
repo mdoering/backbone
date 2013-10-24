@@ -1,5 +1,4 @@
-Phyllosticta hoveniicola Motohashi & C. Nakash. SPECIES
-=======
+# Phyllosticta hoveniicola Motohashi & C. Nakash. SPECIES
 
 #### Status
 ACCEPTED

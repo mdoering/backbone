@@ -1,17 +1,16 @@
-Phyllachora mulleri Chardón SPECIES
-=======
+# Phyllachora muelleri Chardón, 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 32: 196 (1940)
 
 #### Original name
-Phyllachora mulleri Chardón
+Phyllachora muelleri Chardón, 1940
 
 ### Remarks
 null

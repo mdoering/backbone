@@ -1,5 +1,4 @@
-Parmelia thomsoniana Müll. Arg. SPECIES
-=======
+# Parmelia thomsoniana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tintinnopsis bulbulus Meunier, ? SPECIES
-=======
+# Tintinnopsis bulbulus Meunier, ? SPECIES
 
 #### Status
 ACCEPTED

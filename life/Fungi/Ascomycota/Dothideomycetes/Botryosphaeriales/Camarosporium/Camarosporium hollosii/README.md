@@ -1,5 +1,4 @@
-Camarosporium hollosii Sacc. & Trotter SPECIES
-=======
+# Camarosporium hollosii Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereocaulon strictum var. strictum VARIETY
-=======
+# Stereocaulon strictum Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Stereoc. Piloph. Comm. 24 (1857)
 
 #### Original name
-Stereocaulon strictum var. strictum
+Stereocaulon strictum Th. Fr.
 
 ### Remarks
 null

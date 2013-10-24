@@ -1,5 +1,4 @@
-Calothrix kossinskajae Poljansky SPECIES
-=======
+# Calothrix kossinskajae Poljansky SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptosporium arundinis Durieu & Mont. SPECIES
-=======
+# Cryptosporium arundinis Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

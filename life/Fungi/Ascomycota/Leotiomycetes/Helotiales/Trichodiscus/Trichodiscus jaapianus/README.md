@@ -1,5 +1,4 @@
-Trichodiscus jaapianus Kirschst. SPECIES
-=======
+# Trichodiscus jaapianus Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora amorpha Dearn. & Bisby SPECIES
-=======
+# Stagonospora amorpha Dearn. & Bisby SPECIES
 
 #### Status
 ACCEPTED

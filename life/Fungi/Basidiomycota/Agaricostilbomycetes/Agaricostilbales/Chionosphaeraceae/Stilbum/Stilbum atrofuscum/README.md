@@ -1,5 +1,4 @@
-Stilbum atrofuscum Mont. SPECIES
-=======
+# Stilbum atrofuscum Mont. SPECIES
 
 #### Status
 ACCEPTED

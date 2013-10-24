@@ -1,5 +1,4 @@
-Lachnum minutum W.Y. Zhuang & M. Ye SPECIES
-=======
+# Lachnum minutum W.Y. Zhuang & M. Ye SPECIES
 
 #### Status
 ACCEPTED

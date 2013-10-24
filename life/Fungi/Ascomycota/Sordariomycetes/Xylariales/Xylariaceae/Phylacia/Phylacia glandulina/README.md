@@ -1,5 +1,4 @@
-Phylacia glandulina Speer SPECIES
-=======
+# Phylacia glandulina Speer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mesophellia westresii Trappe, Castellano & Malajczuk, 1996 SPECIES
-=======
+# Mesophellia westresii Trappe, Castellano & Malajczuk, 1996 SPECIES
 
 #### Status
 ACCEPTED

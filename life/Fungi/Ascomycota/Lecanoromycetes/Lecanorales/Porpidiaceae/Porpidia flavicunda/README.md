@@ -1,17 +1,16 @@
-Lecidea albocaerulescens f. flavocaerulescens (Hornem.) Schaer. FORM
-=======
+# Porpidia flavicunda (Ach.) Gowan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bryologist 92(1): 43 (1989)
 
 #### Original name
-Lecidea flavocaerulescens Hornem.
+Lecidea flavicunda Ach.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Inocybe castaneolamellata (Britzelm.) Lapl. SPECIES
-=======
+# Inocybe castaneolamellata (Britzelm.) Lapl. SPECIES
 
 #### Status
 ACCEPTED

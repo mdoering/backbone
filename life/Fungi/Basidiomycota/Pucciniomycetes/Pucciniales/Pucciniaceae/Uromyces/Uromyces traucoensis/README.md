@@ -1,5 +1,4 @@
-Uromyces traucoensis Monteal. & Oehrens SPECIES
-=======
+# Uromyces traucoensis Monteal. & Oehrens SPECIES
 
 #### Status
 ACCEPTED

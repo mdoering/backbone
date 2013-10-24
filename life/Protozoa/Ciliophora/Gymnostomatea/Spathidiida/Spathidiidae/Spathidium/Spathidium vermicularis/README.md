@@ -1,5 +1,4 @@
-Spathidium vermicularis Kahl SPECIES
-=======
+# Spathidium vermicularis Kahl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Histioneis planeta Wood, 1963 SPECIES
-=======
+# Histioneis planeta Wood, 1963 SPECIES
 
 #### Status
 ACCEPTED

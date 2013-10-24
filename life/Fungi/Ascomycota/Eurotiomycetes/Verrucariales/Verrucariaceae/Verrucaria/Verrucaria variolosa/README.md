@@ -1,5 +1,4 @@
-Verrucaria variolosa Mont. SPECIES
-=======
+# Verrucaria variolosa Mont. SPECIES
 
 #### Status
 ACCEPTED

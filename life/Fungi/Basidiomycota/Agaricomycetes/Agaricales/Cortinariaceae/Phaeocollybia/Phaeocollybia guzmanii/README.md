@@ -1,5 +1,4 @@
-Phaeocollybia guzmanii Bandala & Montoya SPECIES
-=======
+# Phaeocollybia guzmanii Bandala & Montoya SPECIES
 
 #### Status
 ACCEPTED

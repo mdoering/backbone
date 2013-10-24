@@ -1,5 +1,4 @@
-Rhizocarpon parasiticum Eitner SPECIES
-=======
+# Rhizocarpon parasiticum Eitner SPECIES
 
 #### Status
 ACCEPTED

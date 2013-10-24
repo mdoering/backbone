@@ -1,14 +1,13 @@
-Balansia gaduae (Rehm) J.F. White, 1997 SPECIES
-=======
+# Balansiopsis gaduae (Rehm) Höhn., 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in White, Reddy, Glenn & Bacon, Mycologia 89(3): 413 (1997)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 119: 936 (1910)
 
 #### Original name
 Ophiodothis gaduae Rehm, 1896

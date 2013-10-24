@@ -1,5 +1,4 @@
-Agaricus hypophaeus Heinem. SPECIES
-=======
+# Agaricus hypophaeus Heinem. SPECIES
 
 #### Status
 ACCEPTED

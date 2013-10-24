@@ -1,5 +1,4 @@
-Laboulbenia producta Thaxt. SPECIES
-=======
+# Laboulbenia producta Thaxt. SPECIES
 
 #### Status
 ACCEPTED

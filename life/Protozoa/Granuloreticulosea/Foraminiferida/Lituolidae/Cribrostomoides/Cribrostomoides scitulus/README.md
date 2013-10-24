@@ -1,5 +1,4 @@
-Cribrostomoides scitulus SPECIES
-=======
+# Cribrostomoides scitulus SPECIES
 
 #### Status
 ACCEPTED

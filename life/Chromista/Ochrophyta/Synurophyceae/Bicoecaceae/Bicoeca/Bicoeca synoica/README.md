@@ -1,5 +1,4 @@
-Bicoeca synoica Skuja SPECIES
-=======
+# Bicoeca synoica Skuja SPECIES
 
 #### Status
 ACCEPTED

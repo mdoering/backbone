@@ -1,17 +1,16 @@
-Ramalina denticulata var. canalicularis Nyl. VARIETY
-=======
+# Ramalina canalicularis (Nyl.) Kashiw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichen Flora of the Greater Sonoran Desert Region (Tempe) 2: 444 (2004)
 
 #### Original name
-null
+Ramalina denticulata var. canalicularis Nyl.
 
 ### Remarks
 null

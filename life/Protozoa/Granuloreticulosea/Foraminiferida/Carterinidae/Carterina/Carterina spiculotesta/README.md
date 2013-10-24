@@ -1,5 +1,4 @@
-Carterina spiculotesta SPECIES
-=======
+# Carterina spiculotesta SPECIES
 
 #### Status
 ACCEPTED

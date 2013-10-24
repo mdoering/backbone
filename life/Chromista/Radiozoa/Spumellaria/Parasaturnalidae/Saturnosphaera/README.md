@@ -1,5 +1,4 @@
-Saturnosphaera Tikhomirova, 1975 GENUS
-=======
+# Saturnosphaera Tikhomirova, 1975 GENUS
 
 #### Status
 ACCEPTED

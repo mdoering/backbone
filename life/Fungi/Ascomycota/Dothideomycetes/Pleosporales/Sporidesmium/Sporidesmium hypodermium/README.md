@@ -1,5 +1,4 @@
-Sporidesmium hypodermium Niessl SPECIES
-=======
+# Sporidesmium hypodermium Niessl SPECIES
 
 #### Status
 ACCEPTED

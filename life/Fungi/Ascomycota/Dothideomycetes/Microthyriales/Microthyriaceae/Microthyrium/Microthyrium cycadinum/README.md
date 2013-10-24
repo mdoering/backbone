@@ -1,5 +1,4 @@
-Microthyrium cycadinum I. Hino & Katum. SPECIES
-=======
+# Microthyrium cycadinum I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

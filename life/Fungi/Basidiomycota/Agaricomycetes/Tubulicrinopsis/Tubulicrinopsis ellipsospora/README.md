@@ -1,5 +1,4 @@
-Tubulicrinopsis ellipsospora Kotir., Hjortstam & M. Kulju, 2007 SPECIES
-=======
+# Tubulicrinopsis ellipsospora Kotir., Hjortstam & M. Kulju, 2007 SPECIES
 
 #### Status
 ACCEPTED

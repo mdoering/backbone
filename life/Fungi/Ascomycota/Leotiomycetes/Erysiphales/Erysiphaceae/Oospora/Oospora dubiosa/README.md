@@ -1,5 +1,4 @@
-Oospora dubiosa (Speg.) Sacc. & Voglino SPECIES
-=======
+# Oospora dubiosa (Speg.) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

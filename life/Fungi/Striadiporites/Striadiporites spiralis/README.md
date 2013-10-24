@@ -1,5 +1,4 @@
-Striadiporites spiralis Kalgutkar & Janson. SPECIES
-=======
+# Striadiporites spiralis Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

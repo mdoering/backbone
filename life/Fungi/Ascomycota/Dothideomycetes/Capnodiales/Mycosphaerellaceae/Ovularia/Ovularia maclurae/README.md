@@ -1,5 +1,4 @@
-Ovularia maclurae Ellis & Langl. SPECIES
-=======
+# Ovularia maclurae Ellis & Langl. SPECIES
 
 #### Status
 ACCEPTED

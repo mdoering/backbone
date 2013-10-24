@@ -1,5 +1,4 @@
-Spiromastigaceae FAMILY
-=======
+# Spiromastigaceae FAMILY
 
 #### Status
 ACCEPTED

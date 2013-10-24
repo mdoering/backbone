@@ -1,5 +1,4 @@
-Maupasia Schewiakoff, 1892 GENUS
-=======
+# Maupasia Schewiakoff, 1892 GENUS
 
 #### Status
 ACCEPTED

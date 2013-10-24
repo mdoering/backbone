@@ -1,5 +1,4 @@
-Heterococcus stigeoclonioides Pitschmann SPECIES
-=======
+# Heterococcus stigeoclonioides Pitschmann SPECIES
 
 #### Status
 ACCEPTED

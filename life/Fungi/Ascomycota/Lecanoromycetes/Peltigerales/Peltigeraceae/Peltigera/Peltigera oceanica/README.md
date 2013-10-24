@@ -1,5 +1,4 @@
-Peltigera oceanica Gyeln. SPECIES
-=======
+# Peltigera oceanica Gyeln. SPECIES
 
 #### Status
 ACCEPTED

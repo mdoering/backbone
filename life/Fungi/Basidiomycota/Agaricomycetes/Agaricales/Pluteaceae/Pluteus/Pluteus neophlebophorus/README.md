@@ -1,5 +1,4 @@
-Pluteus neophlebophorus f. olivaceogriseus Singer FORM
-=======
+# Pluteus neophlebophorus Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Lloydia 21: 263 (1959)
+Lloydia 21: 262 (1959)
 
 #### Original name
-Pluteus neophlebophorus f. olivaceogriseus Singer
+Pluteus neophlebophorus Singer
 
 ### Remarks
 null

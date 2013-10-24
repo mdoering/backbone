@@ -1,5 +1,4 @@
-Spiropes Cif. GENUS
-=======
+# Spiropes Cif. GENUS
 
 #### Status
 ACCEPTED

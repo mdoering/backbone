@@ -1,17 +1,16 @@
-Septoria capillepedii Priest SPECIES
-=======
+# Septoria capillipedii Priest SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fungi of Australia 225 (2006)
 
 #### Original name
-Septoria capillepedii Priest
+Septoria capillipedii Priest
 
 ### Remarks
 null

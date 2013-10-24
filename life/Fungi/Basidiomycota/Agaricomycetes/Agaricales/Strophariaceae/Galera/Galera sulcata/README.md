@@ -1,5 +1,4 @@
-Galera sulcata Velen. SPECIES
-=======
+# Galera sulcata Velen. SPECIES
 
 #### Status
 ACCEPTED

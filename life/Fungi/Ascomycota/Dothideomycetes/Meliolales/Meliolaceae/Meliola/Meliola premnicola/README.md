@@ -1,5 +1,4 @@
-Meliola premnicola Hosag. SPECIES
-=======
+# Meliola premnicola Hosag. SPECIES
 
 #### Status
 ACCEPTED

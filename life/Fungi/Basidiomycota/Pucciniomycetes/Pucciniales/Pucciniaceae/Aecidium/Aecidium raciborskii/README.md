@@ -1,5 +1,4 @@
-Aecidium raciborskii Wróbl. SPECIES
-=======
+# Aecidium raciborskii Wróbl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Agrocybe metuloidaephora Ballero, Contu & Martis SPECIES
-=======
+# Agrocybe metuloidiphora Ballero, Contu & Martis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Webbia 46(1): 151 (1991)
 
 #### Original name
-Agrocybe metuloidaephora Ballero, Contu & Martis
+Agrocybe metuloidiphora Ballero, Contu & Martis
 
 ### Remarks
 null

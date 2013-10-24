@@ -1,17 +1,16 @@
-Hymenogaster cribbiae A.H. Sm., 1966 SPECIES
-=======
+# Protoglossum cribbiae (A.H. Sm.) T.W. May, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 58(1): 105 (1966)
+Muelleria 8(3): 287 (1995)
 
 #### Original name
-Gymnoglossum viscidum J.W. Cribb, 1958
+Hymenogaster cribbiae A.H. Sm., 1966
 
 ### Remarks
 null

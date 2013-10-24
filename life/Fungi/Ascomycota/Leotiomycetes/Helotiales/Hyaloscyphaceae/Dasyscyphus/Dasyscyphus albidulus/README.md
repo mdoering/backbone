@@ -1,5 +1,4 @@
-Dasyscyphus albidulus Penz. & Sacc. SPECIES
-=======
+# Dasyscyphus albidulus Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

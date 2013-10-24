@@ -1,5 +1,4 @@
-Trametes triqueter Fr. SPECIES
-=======
+# Trametes triqueter Fr. SPECIES
 
 #### Status
 ACCEPTED

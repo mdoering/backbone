@@ -1,5 +1,4 @@
-Peniophoraceae FAMILY
-=======
+# Peniophoraceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sicuophrya heimi Albaret, 1970 SPECIES
-=======
+# Sicuophrya heimi Albaret, 1970 SPECIES
 
 #### Status
 ACCEPTED

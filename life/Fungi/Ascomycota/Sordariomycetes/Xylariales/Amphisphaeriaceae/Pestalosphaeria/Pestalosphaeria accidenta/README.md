@@ -1,5 +1,4 @@
-Pestalosphaeria accidenta P.L. Zhu, Q.X. Ge & T. Xu SPECIES
-=======
+# Pestalosphaeria accidenta P.L. Zhu, Q.X. Ge & T. Xu SPECIES
 
 #### Status
 ACCEPTED

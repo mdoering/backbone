@@ -1,5 +1,4 @@
-Flammula semi-imbricata Singer SPECIES
-=======
+# Flammula semi-imbricata Singer SPECIES
 
 #### Status
 ACCEPTED

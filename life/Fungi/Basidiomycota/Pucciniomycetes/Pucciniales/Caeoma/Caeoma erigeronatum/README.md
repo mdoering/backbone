@@ -1,5 +1,4 @@
-Caeoma erigeronatum Schwein. SPECIES
-=======
+# Caeoma erigeronatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

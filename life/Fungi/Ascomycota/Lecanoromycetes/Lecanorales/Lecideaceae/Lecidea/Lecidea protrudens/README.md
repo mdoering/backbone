@@ -1,5 +1,4 @@
-Lecidea protrudens Müll. Arg. SPECIES
-=======
+# Lecidea protrudens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola kibirae var. kibirae VARIETY
-=======
+# Meliola kibirae Hansf. & F. Stevens SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 J. Linn. Soc. , Bot. 51: 276 (1937)
 
 #### Original name
-Meliola kibirae var. kibirae
+Meliola kibirae Hansf. & F. Stevens
 
 ### Remarks
 null

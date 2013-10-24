@@ -1,5 +1,4 @@
-Didymella chaetostoma Pass. SPECIES
-=======
+# Didymella chaetostoma Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gibberidea parasitica Petr. SPECIES
-=======
+# Gibberidea parasitica Petr. SPECIES
 
 #### Status
 ACCEPTED

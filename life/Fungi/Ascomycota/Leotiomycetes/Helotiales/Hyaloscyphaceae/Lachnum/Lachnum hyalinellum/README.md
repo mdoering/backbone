@@ -1,5 +1,4 @@
-Lachnum hyalinellum Rehm SPECIES
-=======
+# Lachnum hyalinellum Rehm SPECIES
 
 #### Status
 ACCEPTED

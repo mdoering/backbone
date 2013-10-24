@@ -1,5 +1,4 @@
-Chaunopycnis pustulata Bills, Polishook & J.F. White SPECIES
-=======
+# Chaunopycnis pustulata Bills, Polishook & J.F. White SPECIES
 
 #### Status
 ACCEPTED

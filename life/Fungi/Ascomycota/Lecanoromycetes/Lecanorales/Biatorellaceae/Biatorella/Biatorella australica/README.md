@@ -1,5 +1,4 @@
-Biatorella australica Räsänen SPECIES
-=======
+# Biatorella australica Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecania nigrella Müll. Arg. SPECIES
-=======
+# Lecania nigrella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

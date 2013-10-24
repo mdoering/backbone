@@ -1,5 +1,4 @@
-Oospora rufescens (Fresen.) Sacc. SPECIES
-=======
+# Oospora rufescens (Fresen.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

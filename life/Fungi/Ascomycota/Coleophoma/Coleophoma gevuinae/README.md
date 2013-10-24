@@ -1,5 +1,4 @@
-Coleophoma gevuinae (Speg.) Bianchin. & Rajchenb. SPECIES
-=======
+# Coleophoma gevuinae (Speg.) Bianchin. & Rajchenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholidotopsis mycenoides (Fr.) Earle SPECIES
-=======
+# Pholidotopsis mycenoides (Fr.) Earle SPECIES
 
 #### Status
 ACCEPTED

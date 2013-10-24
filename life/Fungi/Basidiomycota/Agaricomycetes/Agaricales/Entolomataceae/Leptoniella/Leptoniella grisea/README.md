@@ -1,5 +1,4 @@
-Leptoniella grisea (Peck) Murrill SPECIES
-=======
+# Leptoniella grisea (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

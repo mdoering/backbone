@@ -1,5 +1,4 @@
-Gymnopilus squamulosus Murrill SPECIES
-=======
+# Gymnopilus squamulosus Murrill SPECIES
 
 #### Status
 ACCEPTED

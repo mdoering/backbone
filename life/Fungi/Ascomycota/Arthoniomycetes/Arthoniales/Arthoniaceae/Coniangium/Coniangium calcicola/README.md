@@ -1,5 +1,4 @@
-Coniangium calcicola (Nyl.) Arnold SPECIES
-=======
+# Coniangium calcicola (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

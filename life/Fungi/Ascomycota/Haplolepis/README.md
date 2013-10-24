@@ -1,5 +1,4 @@
-Haplolepis Sydow, 1925 GENUS
-=======
+# Haplolepis Sydow, 1925 GENUS
 
 #### Status
 ACCEPTED

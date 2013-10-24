@@ -1,5 +1,4 @@
-Gyalecta erythrozona Lettau SPECIES
-=======
+# Gyalecta erythrozona Lettau SPECIES
 
 #### Status
 ACCEPTED

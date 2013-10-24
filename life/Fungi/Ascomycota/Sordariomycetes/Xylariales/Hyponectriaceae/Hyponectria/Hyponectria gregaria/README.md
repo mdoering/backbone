@@ -1,5 +1,4 @@
-Hyponectria gregaria M.E. Barr SPECIES
-=======
+# Hyponectria gregaria M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

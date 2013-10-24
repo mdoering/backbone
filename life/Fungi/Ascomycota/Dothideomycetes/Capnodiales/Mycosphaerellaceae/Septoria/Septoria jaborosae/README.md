@@ -1,5 +1,4 @@
-Septoria jaborosae Speg. SPECIES
-=======
+# Septoria jaborosae Speg. SPECIES
 
 #### Status
 ACCEPTED

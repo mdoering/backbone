@@ -1,5 +1,4 @@
-Cryptosporium brunneoviride (Auersw.) Jacq. SPECIES
-=======
+# Cryptosporium brunneoviride (Auersw.) Jacq. SPECIES
 
 #### Status
 ACCEPTED

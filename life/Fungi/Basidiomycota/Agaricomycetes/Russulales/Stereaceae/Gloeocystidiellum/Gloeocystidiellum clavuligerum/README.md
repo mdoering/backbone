@@ -1,17 +1,16 @@
-Gloeocystidium clavuligerum var. brasiliense Rick VARIETY
-=======
+# Gloeocystidiellum clavuligerum (Höhn. & Litsch.) Nakasone, 1982 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Rambo (Ed. ), Iheringia, Sér. Bot. 4: 90 (1959)
+Mycotaxon 14(1): 320 (1982)
 
 #### Original name
-Gloeocystidium clavuligerum var. brasiliense Rick
+Gloeocystidium clavuligerum Höhn. & Litsch., 1906
 
 ### Remarks
 null

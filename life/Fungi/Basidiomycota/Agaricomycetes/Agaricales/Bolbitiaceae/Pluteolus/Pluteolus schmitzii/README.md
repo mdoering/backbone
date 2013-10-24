@@ -1,5 +1,4 @@
-Pluteolus schmitzii Torrend SPECIES
-=======
+# Pluteolus schmitzii Torrend SPECIES
 
 #### Status
 ACCEPTED

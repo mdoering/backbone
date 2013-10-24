@@ -1,17 +1,16 @@
-Mycena luteoalba var. sulphureomarginata J.E. Lange, 1923 VARIETY
-=======
+# Mycena flavescens Velen., 1920 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Dansk bot. Ark. 4(no. 4): 46 (1923)
+Ceské Houby 2: 323 (1920)
 
 #### Original name
-Mycena luteoalba var. sulphureomarginata J.E. Lange, 1923
+Mycena flavescens Velen., 1920
 
 ### Remarks
 null

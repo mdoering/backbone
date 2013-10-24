@@ -1,5 +1,4 @@
-Rhizocarpon lomnitzense Eitner SPECIES
-=======
+# Rhizocarpon lomnitzense Eitner SPECIES
 
 #### Status
 ACCEPTED

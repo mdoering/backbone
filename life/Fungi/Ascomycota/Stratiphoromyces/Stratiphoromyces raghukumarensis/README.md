@@ -1,5 +1,4 @@
-Stratiphoromyces raghukumarensis D'Souza, S.K. Singh & Bhat, 2002 SPECIES
-=======
+# Stratiphoromyces raghukumarensis D'Souza, S.K. Singh & Bhat, 2002 SPECIES
 
 #### Status
 ACCEPTED

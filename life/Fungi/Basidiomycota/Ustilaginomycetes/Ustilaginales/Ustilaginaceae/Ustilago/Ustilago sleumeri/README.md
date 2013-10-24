@@ -1,5 +1,4 @@
-Ustilago sleumeri Petr. SPECIES
-=======
+# Ustilago sleumeri Petr. SPECIES
 
 #### Status
 ACCEPTED

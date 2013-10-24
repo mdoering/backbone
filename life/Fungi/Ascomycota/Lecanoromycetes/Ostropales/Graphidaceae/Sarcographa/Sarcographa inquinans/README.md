@@ -1,5 +1,4 @@
-Sarcographa inquinans Fée SPECIES
-=======
+# Sarcographa inquinans Fée SPECIES
 
 #### Status
 ACCEPTED

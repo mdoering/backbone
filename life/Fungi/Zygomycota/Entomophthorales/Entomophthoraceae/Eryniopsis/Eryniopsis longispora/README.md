@@ -1,14 +1,13 @@
-Entomophthora longispora Balazy, 1982 SPECIES
-=======
+# Eryniopsis longispora (Balazy) Humber, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin de l'Académie Polonais des sciences, Classe II, Série des Sciences biologiques 39(5-6): 222 (1982)
+Mycotaxon 21: 259 (1984)
 
 #### Original name
 Entomophthora longispora Balazy, 1982

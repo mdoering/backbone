@@ -1,5 +1,4 @@
-Pertusaria alpinoides Oshio SPECIES
-=======
+# Pertusaria alpinoides Oshio SPECIES
 
 #### Status
 ACCEPTED

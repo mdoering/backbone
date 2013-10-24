@@ -1,5 +1,4 @@
-Keronopsis elongata SPECIES
-=======
+# Keronopsis elongata SPECIES
 
 #### Status
 ACCEPTED

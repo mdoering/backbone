@@ -1,5 +1,4 @@
-Aaosphaeria Aptroot GENUS
-=======
+# Aaosphaeria Aptroot GENUS
 
 #### Status
 ACCEPTED

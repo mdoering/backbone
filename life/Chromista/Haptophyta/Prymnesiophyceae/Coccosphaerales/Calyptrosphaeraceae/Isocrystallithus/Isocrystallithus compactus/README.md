@@ -1,5 +1,4 @@
-Isocrystallithus compactus Verbeek, 1976 SPECIES
-=======
+# Isocrystallithus compactus Verbeek, 1976 SPECIES
 
 #### Status
 ACCEPTED

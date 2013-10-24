@@ -1,5 +1,4 @@
-Lecanora obvallata H. Magn. SPECIES
-=======
+# Lecanora obvallata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

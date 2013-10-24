@@ -1,5 +1,4 @@
-Pseudomonas antimicrobica Attafuah & Bradbury, 1990 SPECIES
-=======
+# Pseudomonas antimicrobica Attafuah & Bradbury, 1990 SPECIES
 
 #### Status
 ACCEPTED

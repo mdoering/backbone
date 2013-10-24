@@ -1,5 +1,4 @@
-Scutellinia heterospora Clem. SPECIES
-=======
+# Scutellinia heterospora Clem. SPECIES
 
 #### Status
 ACCEPTED

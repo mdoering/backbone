@@ -1,5 +1,4 @@
-Pleurocytospora taxi J.Q. Sun, D.P. Zhou & Ping SPECIES
-=======
+# Pleurocytospora taxi J.Q. Sun, D.P. Zhou & Ping SPECIES
 
 #### Status
 ACCEPTED

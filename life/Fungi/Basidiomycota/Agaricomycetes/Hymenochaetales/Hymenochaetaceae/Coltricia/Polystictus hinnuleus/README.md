@@ -1,5 +1,4 @@
-Polystictus hinnuleus (Berk. & Cooke) Cooke SPECIES
-=======
+# Polystictus hinnuleus (Berk. & Cooke) Cooke SPECIES
 
 #### Status
 ACCEPTED

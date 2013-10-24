@@ -1,5 +1,4 @@
-Parmotrema praeinsuetum (Kurok.) Louwhoff & Elix SPECIES
-=======
+# Parmotrema praeinsuetum (Kurok.) Louwhoff & Elix SPECIES
 
 #### Status
 ACCEPTED

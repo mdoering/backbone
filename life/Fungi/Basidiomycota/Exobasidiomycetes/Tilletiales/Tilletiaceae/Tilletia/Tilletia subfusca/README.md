@@ -1,5 +1,4 @@
-Tilletia subfusca H.H. Hume SPECIES
-=======
+# Tilletia subfusca H.H. Hume SPECIES
 
 #### Status
 ACCEPTED

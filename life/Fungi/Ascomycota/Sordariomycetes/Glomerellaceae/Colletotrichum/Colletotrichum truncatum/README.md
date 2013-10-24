@@ -1,14 +1,13 @@
-Vermicularia truncata Schwein., 1832 SPECIES
-=======
+# Colletotrichum truncatum (Schwein.) Andrus & W.D. Moore, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Am. phil. Soc. , New Series 4(2): 230 (1832)
+Phytopathology 25: 121 (1935)
 
 #### Original name
 Vermicularia truncata Schwein., 1832

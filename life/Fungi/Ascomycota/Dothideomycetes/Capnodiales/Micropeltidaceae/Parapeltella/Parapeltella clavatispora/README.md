@@ -1,5 +1,4 @@
-Parapeltella clavatispora Bat. & Cavalc. SPECIES
-=======
+# Parapeltella clavatispora Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

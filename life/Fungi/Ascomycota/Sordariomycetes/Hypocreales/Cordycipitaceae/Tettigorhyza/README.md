@@ -1,5 +1,4 @@
-Tettigorhyza GENUS
-=======
+# Tettigorhyza GENUS
 
 #### Status
 ACCEPTED

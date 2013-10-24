@@ -1,5 +1,4 @@
-Dictyopteris gracilis Womersley SPECIES
-=======
+# Dictyopteris gracilis Womersley SPECIES
 
 #### Status
 ACCEPTED

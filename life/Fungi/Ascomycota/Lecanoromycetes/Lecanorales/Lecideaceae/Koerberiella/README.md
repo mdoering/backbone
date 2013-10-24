@@ -1,17 +1,16 @@
-Perspicinora Riedl GENUS
-=======
+# Koerberiella Stein GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Linzer biol. Beitr. 22(1): 152 (1990)
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 2(2): 143 (1879)
 
 #### Original name
-Perspicinora Riedl
+Koerberiella Stein
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Anaeromyces Breton, Bernalier, Dusser, Fonty, B. Gaillard & J. Guillot GENUS
-=======
+# Anaeromyces Breton, Bernalier, Dusser, Fonty, B. Gaillard & J. Guillot GENUS
 
 #### Status
 ACCEPTED

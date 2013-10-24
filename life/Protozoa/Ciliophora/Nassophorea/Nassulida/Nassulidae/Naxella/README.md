@@ -1,5 +1,4 @@
-Naxella Foissner & O'Donoghue, 1990 GENUS
-=======
+# Naxella Foissner & O'Donoghue, 1990 GENUS
 
 #### Status
 ACCEPTED

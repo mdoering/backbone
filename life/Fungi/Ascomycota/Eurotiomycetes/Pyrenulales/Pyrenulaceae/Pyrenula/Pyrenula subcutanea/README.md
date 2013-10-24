@@ -1,5 +1,4 @@
-Pyrenula subcutanea Fée SPECIES
-=======
+# Pyrenula subcutanea Fée SPECIES
 
 #### Status
 ACCEPTED

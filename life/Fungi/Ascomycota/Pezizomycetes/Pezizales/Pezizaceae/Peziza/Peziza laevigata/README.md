@@ -1,5 +1,4 @@
-Peziza laevigata Fr. SPECIES
-=======
+# Peziza laevigata Fr. SPECIES
 
 #### Status
 ACCEPTED

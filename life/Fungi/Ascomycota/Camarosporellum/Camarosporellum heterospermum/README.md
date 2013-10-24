@@ -1,5 +1,4 @@
-Camarosporellum heterospermum (Vestergr.) Van Warmelo & B. Sutton SPECIES
-=======
+# Camarosporellum heterospermum (Vestergr.) Van Warmelo & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

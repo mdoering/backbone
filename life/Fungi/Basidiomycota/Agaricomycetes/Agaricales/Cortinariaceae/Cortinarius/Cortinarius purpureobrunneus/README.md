@@ -1,5 +1,4 @@
-Cortinarius purpureobrunneus M.M. Moser SPECIES
-=======
+# Cortinarius purpureobrunneus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

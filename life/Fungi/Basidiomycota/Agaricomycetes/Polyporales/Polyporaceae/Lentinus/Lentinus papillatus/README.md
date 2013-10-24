@@ -1,5 +1,4 @@
-Lentinus papillatus (Henn.) Henn. SPECIES
-=======
+# Lentinus papillatus (Henn.) Henn. SPECIES
 
 #### Status
 ACCEPTED

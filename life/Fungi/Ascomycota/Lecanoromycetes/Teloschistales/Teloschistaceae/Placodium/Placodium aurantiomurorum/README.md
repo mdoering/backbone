@@ -1,5 +1,4 @@
-Placodium aurantiomurorum Flagey SPECIES
-=======
+# Placodium aurantiomurorum Flagey SPECIES
 
 #### Status
 ACCEPTED

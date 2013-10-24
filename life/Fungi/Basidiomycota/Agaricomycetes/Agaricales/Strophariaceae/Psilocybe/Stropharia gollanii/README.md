@@ -1,8 +1,7 @@
-Stropharia gollani Henn. SPECIES
-=======
+# Stropharia gollanii Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stropharia gollani Henn.
+Stropharia gollanii Henn.
 
 ### Remarks
 null

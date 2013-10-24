@@ -1,5 +1,4 @@
-Anisostomula cooperta (Desm.) Höhn. SPECIES
-=======
+# Anisostomula cooperta (Desm.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

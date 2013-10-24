@@ -1,5 +1,4 @@
-Collemopsis cleistocarpa (Müll. Arg.) Stizenb. SPECIES
-=======
+# Collemopsis cleistocarpa (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

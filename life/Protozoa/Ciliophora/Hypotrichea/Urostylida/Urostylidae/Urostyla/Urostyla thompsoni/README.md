@@ -1,5 +1,4 @@
-Urostyla thompsoni Jankowski, 1979 SPECIES
-=======
+# Urostyla thompsoni Jankowski, 1979 SPECIES
 
 #### Status
 ACCEPTED

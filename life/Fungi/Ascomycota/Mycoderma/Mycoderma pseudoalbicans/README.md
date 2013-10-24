@@ -1,5 +1,4 @@
-Mycoderma pseudoalbicans (Neveu-Lem.) C.W. Dodge SPECIES
-=======
+# Mycoderma pseudoalbicans (Neveu-Lem.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

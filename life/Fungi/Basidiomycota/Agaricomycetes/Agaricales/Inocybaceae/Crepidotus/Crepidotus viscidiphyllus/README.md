@@ -1,5 +1,4 @@
-Crepidotus viscidiphyllus Hesler SPECIES
-=======
+# Crepidotus viscidiphyllus Hesler SPECIES
 
 #### Status
 ACCEPTED

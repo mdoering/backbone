@@ -1,5 +1,4 @@
-Pertusaria subcopelandii Jariangpr. SPECIES
-=======
+# Pertusaria subcopelandii Jariangpr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nosema locustae Canning SPECIES
-=======
+# Nosema locustae Canning SPECIES
 
 #### Status
 ACCEPTED

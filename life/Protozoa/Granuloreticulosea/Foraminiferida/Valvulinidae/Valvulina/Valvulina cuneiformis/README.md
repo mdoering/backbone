@@ -1,5 +1,4 @@
-Valvulina cuneiformis Chapman, 1900 SPECIES
-=======
+# Valvulina cuneiformis Chapman, 1900 SPECIES
 
 #### Status
 ACCEPTED

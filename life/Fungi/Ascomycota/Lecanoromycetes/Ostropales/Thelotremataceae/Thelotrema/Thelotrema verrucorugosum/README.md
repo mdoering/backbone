@@ -1,5 +1,4 @@
-Thelotrema verrucorugosum Nagarkar, Sethy & Patw. SPECIES
-=======
+# Thelotrema verrucorugosum Nagarkar, Sethy & Patw. SPECIES
 
 #### Status
 ACCEPTED

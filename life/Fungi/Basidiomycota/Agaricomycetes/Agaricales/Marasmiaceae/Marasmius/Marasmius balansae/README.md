@@ -1,5 +1,4 @@
-Marasmius balansae Speg. SPECIES
-=======
+# Marasmius balansae Speg. SPECIES
 
 #### Status
 ACCEPTED

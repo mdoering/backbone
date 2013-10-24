@@ -1,5 +1,4 @@
-Ophiobolus periclymeni (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Ophiobolus periclymeni (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

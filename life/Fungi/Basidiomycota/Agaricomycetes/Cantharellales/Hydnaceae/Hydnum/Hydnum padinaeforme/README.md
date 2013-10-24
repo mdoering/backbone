@@ -1,5 +1,4 @@
-Hydnum padinaeforme (Mont.) Pat. SPECIES
-=======
+# Hydnum padinaeforme (Mont.) Pat. SPECIES
 
 #### Status
 ACCEPTED

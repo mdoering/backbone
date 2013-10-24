@@ -1,5 +1,4 @@
-Cortinarius ludibriosus Carteret SPECIES
-=======
+# Cortinarius ludibriosus Carteret SPECIES
 
 #### Status
 ACCEPTED

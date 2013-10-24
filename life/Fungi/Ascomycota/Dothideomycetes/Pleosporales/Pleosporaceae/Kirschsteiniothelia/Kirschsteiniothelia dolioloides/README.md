@@ -1,5 +1,4 @@
-Kirschsteiniothelia dolioloides (Rehm) You Z. Wang, Aptroot & K.D. Hyde SPECIES
-=======
+# Kirschsteiniothelia dolioloides (Rehm) You Z. Wang, Aptroot & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

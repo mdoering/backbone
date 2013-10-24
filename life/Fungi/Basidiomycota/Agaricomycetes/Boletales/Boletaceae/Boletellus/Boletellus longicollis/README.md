@@ -1,5 +1,4 @@
-Boletellus longicollis (Ces.) Pegler & T.W.K. Young SPECIES
-=======
+# Boletellus longicollis (Ces.) Pegler & T.W.K. Young SPECIES
 
 #### Status
 ACCEPTED

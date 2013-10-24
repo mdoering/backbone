@@ -1,5 +1,4 @@
-Phoma lirellata SPECIES
-=======
+# Phoma lirellata SPECIES
 
 #### Status
 ACCEPTED

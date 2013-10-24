@@ -1,5 +1,4 @@
-Hypochnopsis fuscata P. Karst. SPECIES
-=======
+# Hypochnopsis fuscata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

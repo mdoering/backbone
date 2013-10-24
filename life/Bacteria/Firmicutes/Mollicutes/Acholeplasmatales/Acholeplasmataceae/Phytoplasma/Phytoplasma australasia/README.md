@@ -1,5 +1,4 @@
-Phytoplasma australasia White et al., 1998. SPECIES
-=======
+# Phytoplasma australasia White et al., 1998. SPECIES
 
 #### Status
 ACCEPTED

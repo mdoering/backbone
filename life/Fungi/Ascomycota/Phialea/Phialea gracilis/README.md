@@ -1,5 +1,4 @@
-Phialea gracilis (Cooke & Peck) Sacc. SPECIES
-=======
+# Phialea gracilis (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

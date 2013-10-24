@@ -1,5 +1,4 @@
-Prataprajella Hosag. GENUS
-=======
+# Prataprajella Hosag. GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ocellularia cavata var. cavata (Ach.) Müll. Arg. VARIETY
-=======
+# Ocellularia cavata (Ach.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Flora, Jena 65: 499 (1882)
 
 #### Original name
-Ocellularia cavata var. cavata (Ach.) Müll. Arg.
+Thelotrema cavatum Ach.
 
 ### Remarks
 null

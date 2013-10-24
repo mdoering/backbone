@@ -1,5 +1,4 @@
-Septoria elaeospora Sacc. SPECIES
-=======
+# Septoria elaeospora Sacc. SPECIES
 
 #### Status
 ACCEPTED

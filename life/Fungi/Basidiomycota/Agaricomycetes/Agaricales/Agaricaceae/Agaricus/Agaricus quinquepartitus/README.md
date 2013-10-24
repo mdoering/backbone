@@ -1,5 +1,4 @@
-Agaricus quinquepartitus L. SPECIES
-=======
+# Agaricus quinquepartitus L. SPECIES
 
 #### Status
 ACCEPTED

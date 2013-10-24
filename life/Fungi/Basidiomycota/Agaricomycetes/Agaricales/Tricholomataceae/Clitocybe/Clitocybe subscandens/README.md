@@ -1,5 +1,4 @@
-Clitocybe subscandens Raithelh. SPECIES
-=======
+# Clitocybe subscandens Raithelh. SPECIES
 
 #### Status
 ACCEPTED

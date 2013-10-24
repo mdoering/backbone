@@ -1,5 +1,4 @@
-Lyromma confusum Lücking & Sérus. SPECIES
-=======
+# Lyromma confusum Lücking & Sérus. SPECIES
 
 #### Status
 ACCEPTED

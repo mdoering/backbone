@@ -1,5 +1,4 @@
-Caloplaca capensis (A. Massal.) Zahlbr. SPECIES
-=======
+# Caloplaca capensis (A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

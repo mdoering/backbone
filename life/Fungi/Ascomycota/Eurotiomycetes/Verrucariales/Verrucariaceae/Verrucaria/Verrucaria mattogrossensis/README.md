@@ -1,5 +1,4 @@
-Verrucaria mattogrossensis Malme SPECIES
-=======
+# Verrucaria mattogrossensis Malme SPECIES
 
 #### Status
 ACCEPTED

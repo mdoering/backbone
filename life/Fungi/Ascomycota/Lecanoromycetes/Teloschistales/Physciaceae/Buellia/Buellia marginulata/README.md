@@ -1,14 +1,13 @@
-Catolechia marginulata Müll. Arg. SPECIES
-=======
+# Buellia marginulata (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Hedwigia 31: 195 (1892)
+Cat. Lich. Univers. 7: 464 (1931)
 
 #### Original name
 Catolechia marginulata Müll. Arg.

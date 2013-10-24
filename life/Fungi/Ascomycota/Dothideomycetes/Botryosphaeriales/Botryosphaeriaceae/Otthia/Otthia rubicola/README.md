@@ -1,5 +1,4 @@
-Otthia rubicola Petr. SPECIES
-=======
+# Otthia rubicola Petr. SPECIES
 
 #### Status
 ACCEPTED

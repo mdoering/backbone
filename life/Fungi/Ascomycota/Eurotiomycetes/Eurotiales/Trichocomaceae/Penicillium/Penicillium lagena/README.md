@@ -1,17 +1,16 @@
-Monocillium humicola var. humicola VARIETY
-=======
+# Penicillium lagena (Delitsch) Stolk & Samson, 1983 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 39: 1575 (1961)
+Stud. Mycol. 23: 100 (1983)
 
 #### Original name
-Monocillium humicola var. humicola
+Torulomyces lagena Delitsch, 1943
 
 ### Remarks
 null

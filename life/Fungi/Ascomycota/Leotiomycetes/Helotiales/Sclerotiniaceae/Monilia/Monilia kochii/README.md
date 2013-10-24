@@ -1,5 +1,4 @@
-Monilia kochii (Wettst.) Sacc. SPECIES
-=======
+# Monilia kochii (Wettst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

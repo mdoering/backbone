@@ -1,5 +1,4 @@
-Lecanora margaritula Zahlbr. SPECIES
-=======
+# Lecanora margaritula Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella chelidonii Fautrey & Lambotte SPECIES
-=======
+# Sphaerella chelidonii Fautrey & Lambotte SPECIES
 
 #### Status
 ACCEPTED

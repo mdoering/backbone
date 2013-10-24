@@ -1,14 +1,13 @@
-Parmelia eurysaca Hue SPECIES
-=======
+# Parmotrema eurysacum (Hue) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 28: 336 (1974)
 
 #### Original name
 Parmelia eurysaca Hue

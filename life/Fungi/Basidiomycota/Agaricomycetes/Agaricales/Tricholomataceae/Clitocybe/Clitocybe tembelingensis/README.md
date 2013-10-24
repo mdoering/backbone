@@ -1,5 +1,4 @@
-Clitocybe tembelingensis Corner SPECIES
-=======
+# Clitocybe tembelingensis Corner SPECIES
 
 #### Status
 ACCEPTED

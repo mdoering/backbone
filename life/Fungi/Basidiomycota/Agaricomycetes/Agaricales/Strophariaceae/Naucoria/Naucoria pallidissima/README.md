@@ -1,5 +1,4 @@
-Naucoria pallidissima Singer SPECIES
-=======
+# Naucoria pallidissima Singer SPECIES
 
 #### Status
 ACCEPTED

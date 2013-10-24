@@ -1,5 +1,4 @@
-Lycoperdon todayense Copel. SPECIES
-=======
+# Lycoperdon todayense Copel. SPECIES
 
 #### Status
 ACCEPTED

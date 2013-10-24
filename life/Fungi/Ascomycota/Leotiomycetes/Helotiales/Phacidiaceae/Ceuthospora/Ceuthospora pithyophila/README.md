@@ -1,5 +1,4 @@
-Ceuthospora pithyophila (Bres. & Sacc.) Höhn. SPECIES
-=======
+# Ceuthospora pithyophila (Bres. & Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

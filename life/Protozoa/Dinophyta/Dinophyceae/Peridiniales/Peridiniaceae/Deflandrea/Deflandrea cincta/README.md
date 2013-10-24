@@ -1,5 +1,4 @@
-Deflandrea cincta Cookson & Eisenack SPECIES
-=======
+# Deflandrea cincta Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

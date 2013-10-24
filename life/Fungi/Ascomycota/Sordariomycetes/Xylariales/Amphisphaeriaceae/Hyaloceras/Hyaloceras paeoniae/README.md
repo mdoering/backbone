@@ -1,5 +1,4 @@
-Hyaloceras paeoniae Curzi & Barbaini SPECIES
-=======
+# Hyaloceras paeoniae Curzi & Barbaini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Madurella bouffardii (Brumpt) Vuill. SPECIES
-=======
+# Madurella bouffardii (Brumpt) Vuill. SPECIES
 
 #### Status
 ACCEPTED

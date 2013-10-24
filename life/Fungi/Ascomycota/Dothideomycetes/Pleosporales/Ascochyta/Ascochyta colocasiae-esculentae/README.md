@@ -1,5 +1,4 @@
-Ascochyta colocasiae-esculentae Punith. & Peregrine SPECIES
-=======
+# Ascochyta colocasiae-esculentae Punith. & Peregrine SPECIES
 
 #### Status
 ACCEPTED

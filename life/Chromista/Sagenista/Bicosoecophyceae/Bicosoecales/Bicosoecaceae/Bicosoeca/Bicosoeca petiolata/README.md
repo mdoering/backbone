@@ -1,5 +1,4 @@
-Bicosoeca petiolata (Stein) Pringsheim, 1946 SPECIES
-=======
+# Bicosoeca petiolata (Stein) Pringsheim, 1946 SPECIES
 
 #### Status
 ACCEPTED

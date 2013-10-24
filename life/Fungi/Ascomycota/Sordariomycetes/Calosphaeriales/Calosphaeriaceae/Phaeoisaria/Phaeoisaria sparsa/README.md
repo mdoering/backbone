@@ -1,17 +1,16 @@
-Phaeoisaria sparsa var. cubensis Mercado, Figueras & Gené VARIETY
-=======
+# Phaeoisaria sparsa B. Sutton, 1973 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 63: 372 (1997)
+Mycol. Pap. 132: 87 (1973)
 
 #### Original name
-Phaeoisaria sparsa var. cubensis Mercado, Figueras & Gené
+Phaeoisaria sparsa B. Sutton, 1973
 
 ### Remarks
 null

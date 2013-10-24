@@ -1,5 +1,4 @@
-Mucrosporium fusarisporum Peyronel SPECIES
-=======
+# Mucrosporium fusarisporum Peyronel SPECIES
 
 #### Status
 ACCEPTED

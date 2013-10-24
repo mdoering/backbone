@@ -1,5 +1,4 @@
-Nectriella tracheiphila E.F. Sm. SPECIES
-=======
+# Nectriella tracheiphila E.F. Sm. SPECIES
 
 #### Status
 ACCEPTED

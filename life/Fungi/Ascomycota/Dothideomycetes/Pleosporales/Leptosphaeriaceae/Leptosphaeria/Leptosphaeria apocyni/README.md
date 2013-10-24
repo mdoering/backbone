@@ -1,5 +1,4 @@
-Leptosphaeria apocyni Bondartsev SPECIES
-=======
+# Leptosphaeria apocyni Bondartsev SPECIES
 
 #### Status
 ACCEPTED

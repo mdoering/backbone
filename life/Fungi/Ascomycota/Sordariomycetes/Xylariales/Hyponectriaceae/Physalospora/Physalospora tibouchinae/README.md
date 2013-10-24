@@ -1,5 +1,4 @@
-Physalospora tibouchinae Henn. SPECIES
-=======
+# Physalospora tibouchinae Henn. SPECIES
 
 #### Status
 ACCEPTED

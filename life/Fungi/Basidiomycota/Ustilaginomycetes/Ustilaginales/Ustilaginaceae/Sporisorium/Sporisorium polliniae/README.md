@@ -1,14 +1,13 @@
-Sorosporium polliniae Magnus, 1900 SPECIES
-=======
+# Sporisorium polliniae (Magnus) Vánky, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. zool. -bot. Ges. Wien 433 (1900)
+Mycotaxon 18(2): 331 (1983)
 
 #### Original name
 Sorosporium polliniae Magnus, 1900

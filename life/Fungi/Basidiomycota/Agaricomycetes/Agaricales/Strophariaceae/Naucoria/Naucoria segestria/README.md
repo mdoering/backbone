@@ -1,5 +1,4 @@
-Naucoria segestria var. segestria VARIETY
-=======
+# Naucoria segestria (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

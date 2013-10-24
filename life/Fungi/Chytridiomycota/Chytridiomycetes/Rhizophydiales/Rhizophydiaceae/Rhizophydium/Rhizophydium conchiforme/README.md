@@ -1,5 +1,4 @@
-Rhizophydium conchiforme S.N. Dasgupta & R. John SPECIES
-=======
+# Rhizophydium conchiforme S.N. Dasgupta & R. John SPECIES
 
 #### Status
 ACCEPTED

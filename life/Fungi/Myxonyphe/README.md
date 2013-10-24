@@ -1,17 +1,16 @@
-Pyonema Nieuwl. GENUS
-=======
+# Myxonyphe Rchb. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Am. Midl. Nat. 4: 381 (1916)
+Deut. Bot. Herb. -Buch 2(Syn. Red. ): 193, 236 (1841)
 
 #### Original name
-Pyonema Nieuwl.
+Myxonyphe Rchb.
 
 ### Remarks
 null

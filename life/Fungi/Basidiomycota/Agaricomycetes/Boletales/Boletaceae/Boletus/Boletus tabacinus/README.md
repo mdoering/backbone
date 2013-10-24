@@ -1,5 +1,4 @@
-Boletus tabacinus Peck SPECIES
-=======
+# Boletus tabacinus Peck SPECIES
 
 #### Status
 ACCEPTED

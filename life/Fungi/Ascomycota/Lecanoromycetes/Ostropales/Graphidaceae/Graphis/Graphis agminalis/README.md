@@ -1,5 +1,4 @@
-Graphis agminalis Nyl. SPECIES
-=======
+# Graphis agminalis Nyl. SPECIES
 
 #### Status
 ACCEPTED

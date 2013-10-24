@@ -1,5 +1,4 @@
-Cassidulina algida SPECIES
-=======
+# Cassidulina algida SPECIES
 
 #### Status
 ACCEPTED

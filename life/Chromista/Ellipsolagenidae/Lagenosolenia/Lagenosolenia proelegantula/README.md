@@ -1,5 +1,4 @@
-Lagenosolenia proelegantula McCulloch, 1977 SPECIES
-=======
+# Lagenosolenia proelegantula McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

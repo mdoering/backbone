@@ -1,5 +1,4 @@
-Discosia pleurochaeta Mont. & Durieu SPECIES
-=======
+# Discosia pleurochaeta Mont. & Durieu SPECIES
 
 #### Status
 ACCEPTED

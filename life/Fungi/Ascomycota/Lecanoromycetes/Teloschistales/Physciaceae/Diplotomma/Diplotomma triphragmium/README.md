@@ -1,5 +1,4 @@
-Diplotomma triphragmium (Nyl.) Szatala SPECIES
-=======
+# Diplotomma triphragmium (Nyl.) Szatala SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta gymnosporiae Ciccar. SPECIES
-=======
+# Phyllosticta gymnosporiae Ciccar. SPECIES
 
 #### Status
 ACCEPTED

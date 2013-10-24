@@ -1,14 +1,13 @@
-Clisosporium conodeum (Sacc.) Kuntze, 1898 SPECIES
-=======
+# Coniothyrium conoideum Sacc., 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 458 (1898)
+Michelia 1(no. 2): 203 (1878)
 
 #### Original name
 Coniothyrium conoideum Sacc., 1878

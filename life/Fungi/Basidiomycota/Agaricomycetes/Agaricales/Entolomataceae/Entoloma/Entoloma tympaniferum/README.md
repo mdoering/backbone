@@ -1,14 +1,13 @@
-Entoloma tympanifer (E. Horak) Putzke & M. Putzke SPECIES
-=======
+# Entoloma tympaniferum (E. Horak) Putzke & M. Putzke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Caderno de Pesquisa, Série Botânica 12(2): 38 (2000)
 
 #### Original name
 Claudopus tympanifer E. Horak

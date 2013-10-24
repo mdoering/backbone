@@ -1,5 +1,4 @@
-Phialea nivalis Rehm SPECIES
-=======
+# Phialea nivalis Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Favososphaeridium inparilum Piskun, 1976 SPECIES
-=======
+# Favososphaeridium inparilum Piskun, 1976 SPECIES
 
 #### Status
 ACCEPTED

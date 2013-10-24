@@ -1,5 +1,4 @@
-Cercospora leonensis Deighton SPECIES
-=======
+# Cercospora leonensis Deighton SPECIES
 
 #### Status
 ACCEPTED

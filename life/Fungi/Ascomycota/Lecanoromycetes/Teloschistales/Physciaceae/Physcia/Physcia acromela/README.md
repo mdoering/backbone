@@ -1,5 +1,4 @@
-Physcia acromela (Pers.) Nyl. SPECIES
-=======
+# Physcia acromela (Pers.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia sporoboli var. robusta Cummins & H.C. Greene VARIETY
-=======
+# Puccinia sporoboli Arthur SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia sporoboli var. robusta Cummins & H.C. Greene
+Puccinia sporoboli Arthur
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Macrophoma brunnea McAlpine SPECIES
-=======
+# Macrophoma brunnea McAlpine SPECIES
 
 #### Status
 ACCEPTED

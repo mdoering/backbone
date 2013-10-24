@@ -1,5 +1,4 @@
-Aecidium keerliae Arthur SPECIES
-=======
+# Aecidium keerliae Arthur SPECIES
 
 #### Status
 ACCEPTED

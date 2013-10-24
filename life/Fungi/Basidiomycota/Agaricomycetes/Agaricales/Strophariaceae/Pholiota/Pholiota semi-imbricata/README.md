@@ -1,5 +1,4 @@
-Pholiota semi-imbricata (Singer) Singer SPECIES
-=======
+# Pholiota semi-imbricata (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

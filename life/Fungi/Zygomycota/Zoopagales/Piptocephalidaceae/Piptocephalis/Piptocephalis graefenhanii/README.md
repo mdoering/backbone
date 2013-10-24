@@ -1,5 +1,4 @@
-Piptocephalis graefenhanii H.M. Ho, 2006 SPECIES
-=======
+# Piptocephalis graefenhanii H.M. Ho, 2006 SPECIES
 
 #### Status
 ACCEPTED

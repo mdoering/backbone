@@ -1,5 +1,4 @@
-Peneroplidae Schultze, 1854 FAMILY
-=======
+# Peneroplidae Schultze, 1854 FAMILY
 
 #### Status
 ACCEPTED

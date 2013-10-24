@@ -1,17 +1,16 @@
-Amoebochytrium rhizioides Zopf SPECIES
-=======
+# Amoebochytrium rhizidioides Zopf, 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Acta Acad. Caes. Leop. -Carol. German. Nat. Cur. 47: 41 (1884)
 
 #### Original name
-Amoebochytrium rhizioides Zopf
+Amoebochytrium rhizidioides Zopf, 1884
 
 ### Remarks
 null

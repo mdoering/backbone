@@ -1,5 +1,4 @@
-Phyllachora ehrhartae Marasas, 1966 SPECIES
-=======
+# Phyllachora ehrhartae Marasas, 1966 SPECIES
 
 #### Status
 DOUBTFUL

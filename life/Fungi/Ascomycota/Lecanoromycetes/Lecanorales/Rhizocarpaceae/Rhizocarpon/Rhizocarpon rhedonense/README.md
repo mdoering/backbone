@@ -1,5 +1,4 @@
-Rhizocarpon rhedonense (Nyl.) Zahlbr. SPECIES
-=======
+# Rhizocarpon rhedonense (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

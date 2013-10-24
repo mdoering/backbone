@@ -1,5 +1,4 @@
-Boletus flavimarginatus (Murrill) Murrill SPECIES
-=======
+# Boletus flavimarginatus (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

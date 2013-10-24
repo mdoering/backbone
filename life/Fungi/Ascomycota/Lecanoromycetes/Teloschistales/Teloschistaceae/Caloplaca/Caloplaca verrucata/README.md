@@ -1,5 +1,4 @@
-Caloplaca verrucata (Hue) Zahlbr. SPECIES
-=======
+# Caloplaca verrucata (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

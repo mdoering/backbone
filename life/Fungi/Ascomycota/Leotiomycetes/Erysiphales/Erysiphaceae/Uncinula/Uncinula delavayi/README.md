@@ -1,5 +1,4 @@
-Uncinula delavayi var. delavayi VARIETY
-=======
+# Uncinula delavayi Pat. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Uncinula delavayi var. delavayi
+Uncinula delavayi Pat.
 
 ### Remarks
 null

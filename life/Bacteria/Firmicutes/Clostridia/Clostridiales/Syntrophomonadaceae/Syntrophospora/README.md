@@ -1,5 +1,4 @@
-Syntrophospora Zhao et al., 1990 GENUS
-=======
+# Syntrophospora Zhao et al., 1990 GENUS
 
 #### Status
 ACCEPTED

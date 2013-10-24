@@ -1,8 +1,7 @@
-Euryachora pithecolobii Racib. SPECIES
-=======
+# Euryachora pithecellobii Racib. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Euryachora pithecolobii Racib.
+Euryachora pithecellobii Racib.
 
 ### Remarks
 null

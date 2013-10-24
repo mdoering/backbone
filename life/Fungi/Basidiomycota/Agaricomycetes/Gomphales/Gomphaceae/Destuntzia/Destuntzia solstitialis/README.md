@@ -1,5 +1,4 @@
-Destuntzia solstitialis Fogel & Trappe, 1985 SPECIES
-=======
+# Destuntzia solstitialis Fogel & Trappe, 1985 SPECIES
 
 #### Status
 ACCEPTED

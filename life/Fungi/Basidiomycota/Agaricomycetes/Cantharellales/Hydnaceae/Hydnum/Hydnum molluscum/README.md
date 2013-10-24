@@ -1,14 +1,13 @@
-Odontia mollusca (Fr.) Rea, 1922 SPECIES
-=======
+# Hydnum molluscum Fr., 1849 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brit. basidiomyc. (Cambridge) 649 (1922)
+Summa veg. Scand. (Stockholm), Section Post. 327 (1849)
 
 #### Original name
 Hydnum molluscum Fr., 1849

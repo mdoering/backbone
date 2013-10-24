@@ -1,5 +1,4 @@
-Septoria acerina Peck, 1873 SPECIES
-=======
+# Septoria acerina Peck, 1873 SPECIES
 
 #### Status
 ACCEPTED

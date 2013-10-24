@@ -1,5 +1,4 @@
-Bacidia subspadiella Zahlbr. SPECIES
-=======
+# Bacidia subspadiella Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

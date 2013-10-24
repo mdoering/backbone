@@ -1,8 +1,7 @@
-Mycterothrix cardioides Gelei, 1950 SPECIES
-=======
+# Maryna cardioides Gelei, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

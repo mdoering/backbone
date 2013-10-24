@@ -1,5 +1,4 @@
-Anthostomella subconica Rehm SPECIES
-=======
+# Anthostomella subconica Rehm SPECIES
 
 #### Status
 ACCEPTED

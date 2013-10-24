@@ -1,5 +1,4 @@
-Aspicilia haeyrenii (H. Magn.) Creveld SPECIES
-=======
+# Aspicilia haeyrenii (H. Magn.) Creveld SPECIES
 
 #### Status
 ACCEPTED

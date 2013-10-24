@@ -1,17 +1,16 @@
-Terana plumbea (Fr.) Kuntze, 1891 SPECIES
-=======
+# Peniophora pithya (Pers.) J. Erikss., 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 872 (1891)
+Symb. bot. upsal. 10(no. 5): 45 (1950)
 
 #### Original name
-null
+Thelephora pithya Pers., 1822
 
 ### Remarks
 null

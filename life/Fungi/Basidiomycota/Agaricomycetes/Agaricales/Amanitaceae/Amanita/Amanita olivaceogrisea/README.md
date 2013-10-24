@@ -1,5 +1,4 @@
-Amanita olivaceogrisea Kalamees, 1986 SPECIES
-=======
+# Amanita olivaceogrisea Kalamees, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valletofolliculina bicornis Andrews & Reinhard, 1953 SPECIES
-=======
+# Valletofolliculina bicornis Andrews & Reinhard, 1953 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma anastomosans (Rick) Raithelh. SPECIES
-=======
+# Entoloma anastomosans (Rick) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

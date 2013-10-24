@@ -1,5 +1,4 @@
-Omphalina sphaerospora Lamoure SPECIES
-=======
+# Omphalina sphaerospora Lamoure SPECIES
 
 #### Status
 ACCEPTED

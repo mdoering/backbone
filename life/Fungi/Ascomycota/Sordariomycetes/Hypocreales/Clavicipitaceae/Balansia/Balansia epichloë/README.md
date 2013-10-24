@@ -1,5 +1,4 @@
-Balansia epichloë (Weese) Diehl SPECIES
-=======
+# Balansia epichloë (Weese) Diehl SPECIES
 
 #### Status
 ACCEPTED

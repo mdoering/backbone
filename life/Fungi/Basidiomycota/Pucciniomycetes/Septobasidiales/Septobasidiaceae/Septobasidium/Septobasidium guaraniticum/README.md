@@ -1,5 +1,4 @@
-Septobasidium guaraniticum Marchion. SPECIES
-=======
+# Septobasidium guaraniticum Marchion. SPECIES
 
 #### Status
 ACCEPTED

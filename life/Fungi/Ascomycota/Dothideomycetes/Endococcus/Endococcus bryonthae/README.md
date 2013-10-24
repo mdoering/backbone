@@ -1,5 +1,4 @@
-Endococcus bryonthae Arnold SPECIES
-=======
+# Endococcus bryonthae Arnold SPECIES
 
 #### Status
 ACCEPTED

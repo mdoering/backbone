@@ -1,8 +1,7 @@
-Zygodiscus spiralis Bramlette & Martini, 1964 SPECIES
-=======
+# Placozygus fibuliformis (Reinhardt, 1964) Hoffmann, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

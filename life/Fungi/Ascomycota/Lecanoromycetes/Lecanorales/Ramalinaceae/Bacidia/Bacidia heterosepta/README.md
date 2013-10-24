@@ -1,5 +1,4 @@
-Bacidia heterosepta Zahlbr. SPECIES
-=======
+# Bacidia heterosepta Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola kiraiensis W. Yamam. SPECIES
-=======
+# Meliola kiraiensis W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

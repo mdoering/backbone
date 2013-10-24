@@ -1,5 +1,4 @@
-Rhodoferax Hiraishi, Hoshino & Satoh, 1992 GENUS
-=======
+# Rhodoferax Hiraishi, Hoshino & Satoh, 1992 GENUS
 
 #### Status
 ACCEPTED

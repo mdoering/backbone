@@ -1,5 +1,4 @@
-Sphaleromyces brachyderi Thaxt. SPECIES
-=======
+# Sphaleromyces brachyderi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

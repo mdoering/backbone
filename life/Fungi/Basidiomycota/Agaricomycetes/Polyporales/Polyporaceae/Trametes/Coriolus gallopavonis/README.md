@@ -1,5 +1,4 @@
-Coriolus gallopavonis (Berk. & Broome) L. Hansen SPECIES
-=======
+# Coriolus gallopavonis (Berk. & Broome) L. Hansen SPECIES
 
 #### Status
 ACCEPTED

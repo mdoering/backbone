@@ -1,8 +1,7 @@
-Turania vitrea Brodsky, 1925 SPECIES
-=======
+# Turaniella vitrea (Brodsky, 1925) Corliss, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Cercospora teucrii Ellis & Kellerm. SPECIES
-=======
+# Cercospora teucrii Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

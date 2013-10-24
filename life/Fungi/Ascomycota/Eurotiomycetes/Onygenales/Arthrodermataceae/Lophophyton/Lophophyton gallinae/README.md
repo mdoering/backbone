@@ -1,5 +1,4 @@
-Lophophyton gallinae Matr. & Dassonv. SPECIES
-=======
+# Lophophyton gallinae Matr. & Dassonv. SPECIES
 
 #### Status
 ACCEPTED

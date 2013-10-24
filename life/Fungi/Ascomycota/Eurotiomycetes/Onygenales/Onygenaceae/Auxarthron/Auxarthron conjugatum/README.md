@@ -1,17 +1,16 @@
-Gymnoascus bifurcatus (G.F. Orr) Arx, 1981 SPECIES
-=======
+# Auxarthron conjugatum (Kuehn) G.F. Orr & Kuehn, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. Fungi Sporul. Cult. (Vaduz), Edn 3 132 (1981)
+Mycotaxon 24: 148 (1985)
 
 #### Original name
-Macronodus bifurcatus G.F. Orr, 1977
+Myxotrichum conjugatum Kuehn, 1956
 
 ### Remarks
 null

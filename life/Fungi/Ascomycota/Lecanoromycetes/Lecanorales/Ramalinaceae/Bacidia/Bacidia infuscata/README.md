@@ -1,5 +1,4 @@
-Bacidia infuscata (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia infuscata (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

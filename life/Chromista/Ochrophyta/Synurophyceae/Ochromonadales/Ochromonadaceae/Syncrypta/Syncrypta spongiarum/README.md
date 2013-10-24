@@ -1,5 +1,4 @@
-Syncrypta spongiarum Bidder SPECIES
-=======
+# Syncrypta spongiarum Bidder SPECIES
 
 #### Status
 ACCEPTED

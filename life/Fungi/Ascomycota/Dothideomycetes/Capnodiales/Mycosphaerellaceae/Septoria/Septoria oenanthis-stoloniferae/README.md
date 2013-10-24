@@ -1,5 +1,4 @@
-Septoria oenanthis-stoloniferae Sawada SPECIES
-=======
+# Septoria oenanthis-stoloniferae Sawada SPECIES
 
 #### Status
 ACCEPTED

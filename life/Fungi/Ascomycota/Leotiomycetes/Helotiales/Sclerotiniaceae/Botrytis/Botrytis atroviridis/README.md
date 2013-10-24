@@ -1,5 +1,4 @@
-Botrytis atroviridis Cooke & Ellis SPECIES
-=======
+# Botrytis atroviridis Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phoma padina Sacc., 1884 SPECIES
-=======
+# Phomopsis padina (Sacc.) Dietel, 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Krypt. -Fl. Brandenburg (Leipzig) 9: 264 (1912)
 
 #### Original name
 Phoma padina Sacc., 1884

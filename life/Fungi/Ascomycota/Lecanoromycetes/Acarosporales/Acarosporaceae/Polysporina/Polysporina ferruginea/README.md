@@ -1,14 +1,13 @@
-Sarcogyne simplex f. ferruginea Lettau FORM
-=======
+# Polysporina ferruginea (Lettau) M. Steiner ex Kantvilas SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Feddes Repert. 57: 73 (1955)
+in Kantvilas, Lichenologist 30(6): 557 (1998)
 
 #### Original name
 Sarcogyne simplex f. ferruginea Lettau

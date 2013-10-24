@@ -1,5 +1,4 @@
-Hygrocybe pseudococcinea Hongo SPECIES
-=======
+# Hygrocybe pseudococcinea Hongo SPECIES
 
 #### Status
 ACCEPTED

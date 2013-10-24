@@ -1,5 +1,4 @@
-Amanita repens Lam. SPECIES
-=======
+# Amanita repens Lam. SPECIES
 
 #### Status
 ACCEPTED

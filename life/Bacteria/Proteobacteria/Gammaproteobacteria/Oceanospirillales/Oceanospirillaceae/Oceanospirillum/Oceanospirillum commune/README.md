@@ -1,8 +1,7 @@
-Alteromonas communis Baumann et al., 1972 (Approved Lists, 1980) SPECIES
-=======
+# Oceanospirillum commune (Baumann et al., 1972) Bowditch et al., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

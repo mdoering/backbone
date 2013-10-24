@@ -1,5 +1,4 @@
-Lecidea standaertii B. de Lesd. SPECIES
-=======
+# Lecidea standaertii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

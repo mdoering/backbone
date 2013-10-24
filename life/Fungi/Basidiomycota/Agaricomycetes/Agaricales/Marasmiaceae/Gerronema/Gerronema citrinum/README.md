@@ -1,5 +1,4 @@
-Gerronema citrinum (Corner) Pegler SPECIES
-=======
+# Gerronema citrinum (Corner) Pegler SPECIES
 
 #### Status
 ACCEPTED

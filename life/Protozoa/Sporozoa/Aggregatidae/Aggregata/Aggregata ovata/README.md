@@ -1,5 +1,4 @@
-Aggregata ovata Moroff, 1908 SPECIES
-=======
+# Aggregata ovata Moroff, 1908 SPECIES
 
 #### Status
 ACCEPTED

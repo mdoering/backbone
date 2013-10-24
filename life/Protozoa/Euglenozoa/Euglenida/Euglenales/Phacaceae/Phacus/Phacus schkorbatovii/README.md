@@ -1,5 +1,4 @@
-Phacus schkorbatovii Dedusenko-Stregoleva SPECIES
-=======
+# Phacus schkorbatovii Dedusenko-Stregoleva SPECIES
 
 #### Status
 ACCEPTED

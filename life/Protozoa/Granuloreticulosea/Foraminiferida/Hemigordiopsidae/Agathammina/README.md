@@ -1,5 +1,4 @@
-Agathammina Neumayr, 1887 GENUS
-=======
+# Agathammina Neumayr, 1887 GENUS
 
 #### Status
 ACCEPTED

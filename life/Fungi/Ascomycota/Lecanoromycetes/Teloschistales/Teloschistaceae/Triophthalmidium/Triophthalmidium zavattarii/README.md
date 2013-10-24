@@ -1,5 +1,4 @@
-Triophthalmidium zavattarii (Sambo) C.W. Dodge SPECIES
-=======
+# Triophthalmidium zavattarii (Sambo) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeoramularia verbenacearum Gadp., D.K. Dwivedi & A.N. Rai SPECIES
-=======
+# Phaeoramularia verbenacearum Gadp., D.K. Dwivedi & A.N. Rai SPECIES
 
 #### Status
 ACCEPTED

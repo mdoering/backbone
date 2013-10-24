@@ -1,8 +1,7 @@
-Circolagenophrys limnoriae (Clamp, 1988) Jankowski, 1992 SPECIES
-=======
+# Lagenophrys limnoriae Clamp, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

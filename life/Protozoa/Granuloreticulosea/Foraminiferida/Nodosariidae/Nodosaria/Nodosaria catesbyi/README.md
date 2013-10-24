@@ -1,5 +1,4 @@
-Nodosaria catesbyi SPECIES
-=======
+# Nodosaria catesbyi SPECIES
 
 #### Status
 ACCEPTED

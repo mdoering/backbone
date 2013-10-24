@@ -1,5 +1,4 @@
-Mycosphaerella brachycomes Petr. SPECIES
-=======
+# Mycosphaerella brachycomes Petr. SPECIES
 
 #### Status
 ACCEPTED

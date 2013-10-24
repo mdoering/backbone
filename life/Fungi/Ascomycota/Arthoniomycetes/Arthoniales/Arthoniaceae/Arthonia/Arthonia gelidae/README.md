@@ -1,5 +1,4 @@
-Arthonia gelidae R. Sant. SPECIES
-=======
+# Arthonia gelidae R. Sant. SPECIES
 
 #### Status
 ACCEPTED

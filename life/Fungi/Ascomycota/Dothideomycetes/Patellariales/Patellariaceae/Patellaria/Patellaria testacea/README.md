@@ -1,5 +1,4 @@
-Patellaria testacea Fr. SPECIES
-=======
+# Patellaria testacea Fr. SPECIES
 
 #### Status
 ACCEPTED

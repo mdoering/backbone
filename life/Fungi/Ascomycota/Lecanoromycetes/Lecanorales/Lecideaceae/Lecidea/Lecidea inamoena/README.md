@@ -1,5 +1,4 @@
-Lecidea inamoena Müll. Arg. SPECIES
-=======
+# Lecidea inamoena Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryodiplodia alaterni (Sacc.) Petr. & Syd. SPECIES
-=======
+# Botryodiplodia alaterni (Sacc.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

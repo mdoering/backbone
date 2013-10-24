@@ -1,5 +1,4 @@
-Septoria cheiriana Curzi & Barbaini SPECIES
-=======
+# Septoria cheiriana Curzi & Barbaini SPECIES
 
 #### Status
 ACCEPTED

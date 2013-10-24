@@ -1,5 +1,4 @@
-Cylindrocarpon suballantoideum Wollenw. SPECIES
-=======
+# Cylindrocarpon suballantoideum Wollenw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trochylina GENUS
-=======
+# Trochylina GENUS
 
 #### Status
 ACCEPTED

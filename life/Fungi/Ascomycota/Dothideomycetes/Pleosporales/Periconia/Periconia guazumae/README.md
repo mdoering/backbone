@@ -1,5 +1,4 @@
-Periconia guazumae (Syd.) Linder SPECIES
-=======
+# Periconia guazumae (Syd.) Linder SPECIES
 
 #### Status
 ACCEPTED

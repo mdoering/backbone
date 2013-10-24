@@ -1,5 +1,4 @@
-Cercospora hymenocallidis Pat. SPECIES
-=======
+# Cercospora hymenocallidis Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyrodon rubescens (Trog) Fr. SPECIES
-=======
+# Gyrodon rubescens (Trog) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebecysta J.P. Bujak & M.J. Fisher, 1976 GENUS
-=======
+# Hebecysta J.P. Bujak & M.J. Fisher, 1976 GENUS
 
 #### Status
 ACCEPTED

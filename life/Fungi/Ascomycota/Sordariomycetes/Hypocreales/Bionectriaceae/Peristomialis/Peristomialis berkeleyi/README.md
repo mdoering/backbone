@@ -1,17 +1,16 @@
-Cyathicula peristomialis (Berk. & Broome) Sacc., 1889 SPECIES
-=======
+# Peristomialis berkeleyi Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 308 (1889)
+Hist. Class. Discom. Eur. (Paris) 116 (1907)
 
 #### Original name
-null
+Peristomialis berkeleyi Boud., 1907
 
 ### Remarks
 null

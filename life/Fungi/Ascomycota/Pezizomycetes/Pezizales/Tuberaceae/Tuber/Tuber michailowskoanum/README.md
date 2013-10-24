@@ -1,5 +1,4 @@
-Tuber michailowskoanum Bucholtz SPECIES
-=======
+# Tuber michailowskoanum Bucholtz SPECIES
 
 #### Status
 ACCEPTED

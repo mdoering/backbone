@@ -1,17 +1,16 @@
-Omphalia striipilea var. striipilea VARIETY
-=======
+# Tephrocybe striipilea (Fr.) Donk, 1962 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beih. Nova Hedwigia 5: 284 (1962)
 
 #### Original name
-null
+Agaricus striipileus Fr., 1861
 
 ### Remarks
 null

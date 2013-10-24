@@ -1,5 +1,4 @@
-Stenocybe fragmenta E.B. Peterson & Rikkinen SPECIES
-=======
+# Stenocybe fragmenta E.B. Peterson & Rikkinen SPECIES
 
 #### Status
 ACCEPTED

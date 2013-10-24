@@ -1,5 +1,4 @@
-Psilocybe meridensis Guzmán SPECIES
-=======
+# Psilocybe meridensis Guzmán SPECIES
 
 #### Status
 ACCEPTED

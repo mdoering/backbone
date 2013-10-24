@@ -1,5 +1,4 @@
-Lecanora epruinosae Zahlbr. SPECIES
-=======
+# Lecanora epruinosae Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

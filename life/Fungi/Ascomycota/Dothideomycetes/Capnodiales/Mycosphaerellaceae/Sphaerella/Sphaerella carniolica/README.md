@@ -1,5 +1,4 @@
-Sphaerella carniolica var. carniolica VARIETY
-=======
+# Sphaerella carniolica Niessl SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaerella carniolica var. carniolica
+Sphaerella carniolica Niessl
 
 ### Remarks
 null

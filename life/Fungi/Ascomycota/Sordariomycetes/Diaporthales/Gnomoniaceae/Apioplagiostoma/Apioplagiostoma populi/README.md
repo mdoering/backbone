@@ -1,14 +1,13 @@
-Plagiostoma populi E.K. Cash & Waterman, 1957 SPECIES
-=======
+# Apioplagiostoma populi (E.K. Cash & Waterman) M.E. Barr, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Mem. 7: 102 (1978)
 
 #### Original name
 Plagiostoma populi E.K. Cash & Waterman, 1957

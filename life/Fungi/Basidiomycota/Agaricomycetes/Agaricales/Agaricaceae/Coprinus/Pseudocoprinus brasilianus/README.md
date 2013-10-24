@@ -1,5 +1,4 @@
-Pseudocoprinus brasilianus Bat. SPECIES
-=======
+# Pseudocoprinus brasilianus Bat. SPECIES
 
 #### Status
 ACCEPTED

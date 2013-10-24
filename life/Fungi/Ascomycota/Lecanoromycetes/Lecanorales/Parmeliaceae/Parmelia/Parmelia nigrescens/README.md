@@ -1,5 +1,4 @@
-Parmelia nigrescens var. nigrescens VARIETY
-=======
+# Parmelia nigrescens Stirt. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Scott. Natural. 4: 253 (1878)
 
 #### Original name
-Lichen nigrescens Huds.
+Parmelia nigrescens Stirt.
 
 ### Remarks
 null

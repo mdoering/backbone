@@ -1,5 +1,4 @@
-Cortinarius autumnalis Peck SPECIES
-=======
+# Cortinarius autumnalis Peck SPECIES
 
 #### Status
 ACCEPTED

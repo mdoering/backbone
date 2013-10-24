@@ -1,5 +1,4 @@
-Phalansterium consociatum (Fresen.) Cienkowski SPECIES
-=======
+# Phalansterium consociatum (Fresen.) Cienkowski SPECIES
 
 #### Status
 ACCEPTED

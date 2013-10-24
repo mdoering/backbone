@@ -1,5 +1,4 @@
-Inocybe astoriana Murrill SPECIES
-=======
+# Inocybe astoriana Murrill SPECIES
 
 #### Status
 ACCEPTED

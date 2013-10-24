@@ -1,5 +1,4 @@
-Myelochroa sibirica Otnyukova, Stepanov & Elix SPECIES
-=======
+# Myelochroa sibirica Otnyukova, Stepanov & Elix SPECIES
 
 #### Status
 ACCEPTED

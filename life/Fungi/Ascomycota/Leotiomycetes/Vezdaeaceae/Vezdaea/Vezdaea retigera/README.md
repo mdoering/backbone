@@ -1,5 +1,4 @@
-Vezdaea retigera Poelt & Döbbeler SPECIES
-=======
+# Vezdaea retigera Poelt & Döbbeler SPECIES
 
 #### Status
 ACCEPTED

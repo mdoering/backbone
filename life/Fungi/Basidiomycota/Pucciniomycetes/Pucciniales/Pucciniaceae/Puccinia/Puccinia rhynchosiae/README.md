@@ -1,5 +1,4 @@
-Puccinia rhynchosiae Kalchbr. & Cooke SPECIES
-=======
+# Puccinia rhynchosiae Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

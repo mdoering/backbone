@@ -1,5 +1,4 @@
-Rhynchonectria GENUS
-=======
+# Rhynchonectria GENUS
 
 #### Status
 ACCEPTED

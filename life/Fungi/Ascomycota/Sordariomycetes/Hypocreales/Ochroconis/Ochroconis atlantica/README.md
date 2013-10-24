@@ -1,5 +1,4 @@
-Ochroconis atlantica A.M. Wellman SPECIES
-=======
+# Ochroconis atlantica A.M. Wellman SPECIES
 
 #### Status
 ACCEPTED

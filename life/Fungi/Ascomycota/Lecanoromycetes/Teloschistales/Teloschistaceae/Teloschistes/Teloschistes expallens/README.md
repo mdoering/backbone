@@ -1,5 +1,4 @@
-Teloschistes expallens (Müll. Arg.) W. Martin & J. Child SPECIES
-=======
+# Teloschistes expallens (Müll. Arg.) W. Martin & J. Child SPECIES
 
 #### Status
 ACCEPTED

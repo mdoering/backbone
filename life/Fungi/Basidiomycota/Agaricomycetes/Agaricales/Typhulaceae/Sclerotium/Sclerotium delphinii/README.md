@@ -1,14 +1,13 @@
-Sclerotium rolfsii var. delphinii (Welch) Boerema & Hamers, 1988 VARIETY
-=======
+# Sclerotium delphinii Welch, 1924 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Neth. Jl Pl. Path. 94(suppl. 1): 7 (1988)
+Phytopathology 14: 31 (1924)
 
 #### Original name
 Sclerotium delphinii Welch, 1924

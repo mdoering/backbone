@@ -1,5 +1,4 @@
-Pseudoclitocybe bacillaris (Pers.) Singer SPECIES
-=======
+# Pseudoclitocybe bacillaris (Pers.) Singer SPECIES
 
 #### Status
 ACCEPTED

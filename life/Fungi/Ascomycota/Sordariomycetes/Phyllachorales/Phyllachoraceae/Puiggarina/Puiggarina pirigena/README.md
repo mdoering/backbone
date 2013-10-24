@@ -1,5 +1,4 @@
-Puiggarina pirigena Speg., 1922 SPECIES
-=======
+# Puiggarina pirigena Speg., 1922 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trypethelium cartilagineum (Fée) Aptroot SPECIES
-=======
+# Trypethelium cartilagineum (Fée) Aptroot SPECIES
 
 #### Status
 ACCEPTED

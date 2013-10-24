@@ -1,5 +1,4 @@
-Meliola ceratopetali Hansf. SPECIES
-=======
+# Meliola ceratopetali Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Jomonlithus Inouye & Chihara, 1983 GENUS
-=======
+# Jomonlithus Inouye & Chihara, 1983 GENUS
 
 #### Status
 ACCEPTED

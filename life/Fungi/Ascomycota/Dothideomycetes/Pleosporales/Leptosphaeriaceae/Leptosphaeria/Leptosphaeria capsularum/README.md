@@ -1,5 +1,4 @@
-Leptosphaeria capsularum Cavara SPECIES
-=======
+# Leptosphaeria capsularum Cavara SPECIES
 
 #### Status
 ACCEPTED

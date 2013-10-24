@@ -1,8 +1,7 @@
-Helotium calathicolum Rehm SPECIES
-=======
+# Helotium calathicola Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Helotium calathicolum Rehm
+Helotium calathicola Rehm
 
 ### Remarks
 null

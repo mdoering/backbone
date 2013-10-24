@@ -1,5 +1,4 @@
-Phyllosticta sechii E. Young, 1915 SPECIES
-=======
+# Phyllosticta sechii E. Young, 1915 SPECIES
 
 #### Status
 ACCEPTED

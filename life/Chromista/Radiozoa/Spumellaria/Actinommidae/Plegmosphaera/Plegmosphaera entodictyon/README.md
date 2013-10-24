@@ -1,5 +1,4 @@
-Plegmosphaera entodictyon Haeckel, 1887 SPECIES
-=======
+# Plegmosphaera entodictyon Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

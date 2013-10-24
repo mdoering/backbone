@@ -1,5 +1,4 @@
-Diatrype indica Dargan & Bhatia SPECIES
-=======
+# Diatrype indica Dargan & Bhatia SPECIES
 
 #### Status
 ACCEPTED

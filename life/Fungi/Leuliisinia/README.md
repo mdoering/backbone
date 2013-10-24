@@ -1,5 +1,4 @@
-Leuliisinia T. Matsushima, 1985 GENUS
-=======
+# Leuliisinia T. Matsushima, 1985 GENUS
 
 #### Status
 ACCEPTED

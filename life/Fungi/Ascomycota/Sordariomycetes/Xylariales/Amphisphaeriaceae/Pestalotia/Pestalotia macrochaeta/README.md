@@ -1,5 +1,4 @@
-Pestalotia macrochaeta (Speg.) Guba SPECIES
-=======
+# Pestalotia macrochaeta (Speg.) Guba SPECIES
 
 #### Status
 ACCEPTED

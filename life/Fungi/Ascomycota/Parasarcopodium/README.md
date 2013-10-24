@@ -1,5 +1,4 @@
-Parasarcopodium Melnik, S.J. Lee & Crous GENUS
-=======
+# Parasarcopodium Melnik, S.J. Lee & Crous GENUS
 
 #### Status
 ACCEPTED

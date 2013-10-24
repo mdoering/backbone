@@ -1,5 +1,4 @@
-Ascochyta populi Delacr. SPECIES
-=======
+# Ascochyta populi Delacr. SPECIES
 
 #### Status
 ACCEPTED

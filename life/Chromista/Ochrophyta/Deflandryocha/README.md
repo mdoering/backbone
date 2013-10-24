@@ -1,5 +1,4 @@
-Deflandryocha L.Jerkovic GENUS
-=======
+# Deflandryocha L.Jerkovic GENUS
 
 #### Status
 ACCEPTED

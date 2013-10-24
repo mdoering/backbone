@@ -1,5 +1,4 @@
-Rinodina miocensis Flagey SPECIES
-=======
+# Rinodina miocensis Flagey SPECIES
 
 #### Status
 ACCEPTED

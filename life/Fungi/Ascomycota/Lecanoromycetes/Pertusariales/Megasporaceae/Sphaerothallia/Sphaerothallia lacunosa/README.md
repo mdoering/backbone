@@ -1,5 +1,4 @@
-Sphaerothallia lacunosa (Mereschk.) Follmann & A. Crespo SPECIES
-=======
+# Sphaerothallia lacunosa (Mereschk.) Follmann & A. Crespo SPECIES
 
 #### Status
 ACCEPTED

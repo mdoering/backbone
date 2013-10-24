@@ -1,5 +1,4 @@
-Phaeoseptoria agropyri-ramosi (Murashk.) Vasyag. SPECIES
-=======
+# Phaeoseptoria agropyri-ramosi (Murashk.) Vasyag. SPECIES
 
 #### Status
 ACCEPTED

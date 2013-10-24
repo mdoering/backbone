@@ -1,17 +1,16 @@
-Corticium romellii (Litsch.) S. Lundell, 1950 SPECIES
-=======
+# Cabalodontia cretacea (Romell ex Bourdot & Galzin) Piatek, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi Exsiccati Suecici 37 (1950)
+Polish Botanical Journal 49(1): 2 (2004)
 
 #### Original name
-Peniophora romellii Litsch., 1932
+Peniophora cretacea Romell ex Bourdot & Galzin, 1928
 
 ### Remarks
 null

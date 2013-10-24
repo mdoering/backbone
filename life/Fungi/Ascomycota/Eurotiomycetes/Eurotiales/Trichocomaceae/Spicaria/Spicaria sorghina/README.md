@@ -1,5 +1,4 @@
-Spicaria sorghina Sacc. SPECIES
-=======
+# Spicaria sorghina Sacc. SPECIES
 
 #### Status
 ACCEPTED

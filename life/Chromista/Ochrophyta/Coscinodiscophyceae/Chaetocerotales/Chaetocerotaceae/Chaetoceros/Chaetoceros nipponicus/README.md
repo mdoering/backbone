@@ -1,5 +1,4 @@
-Chaetoceros nipponicus J.Ikari SPECIES
-=======
+# Chaetoceros nipponicus J.Ikari SPECIES
 
 #### Status
 ACCEPTED

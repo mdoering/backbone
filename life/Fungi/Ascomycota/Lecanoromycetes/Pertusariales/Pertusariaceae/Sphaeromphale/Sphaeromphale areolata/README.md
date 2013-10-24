@@ -1,5 +1,4 @@
-Sphaeromphale areolata (Ach.) Arnold SPECIES
-=======
+# Sphaeromphale areolata (Ach.) Arnold SPECIES
 
 #### Status
 ACCEPTED

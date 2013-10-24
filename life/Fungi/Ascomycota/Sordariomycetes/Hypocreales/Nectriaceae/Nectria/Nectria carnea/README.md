@@ -1,5 +1,4 @@
-Nectria carnea (Desm.) Tul. & C. Tul. SPECIES
-=======
+# Nectria carnea (Desm.) Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

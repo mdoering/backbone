@@ -1,5 +1,4 @@
-Peziza lerchenfeldii Schulzer SPECIES
-=======
+# Peziza lerchenfeldii Schulzer SPECIES
 
 #### Status
 ACCEPTED

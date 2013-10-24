@@ -1,5 +1,4 @@
-Fusicladium schnablianum Allesch. SPECIES
-=======
+# Fusicladium schnablianum Allesch. SPECIES
 
 #### Status
 ACCEPTED

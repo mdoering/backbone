@@ -1,5 +1,4 @@
-Torula corii Richon SPECIES
-=======
+# Torula corii Richon SPECIES
 
 #### Status
 ACCEPTED

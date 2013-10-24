@@ -1,5 +1,4 @@
-Bakeromyces philippinensis Syd. & P. Syd. SPECIES
-=======
+# Bakeromyces philippinensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

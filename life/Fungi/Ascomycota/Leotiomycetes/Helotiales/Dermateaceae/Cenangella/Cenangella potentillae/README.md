@@ -1,5 +1,4 @@
-Cenangella potentillae (Hazsl.) Sacc. SPECIES
-=======
+# Cenangella potentillae (Hazsl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

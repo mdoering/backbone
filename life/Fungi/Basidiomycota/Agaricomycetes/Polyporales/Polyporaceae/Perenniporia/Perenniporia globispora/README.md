@@ -1,5 +1,4 @@
-Perenniporia globispora Ipulet & Ryvarden, 2005 SPECIES
-=======
+# Perenniporia globispora Ipulet & Ryvarden, 2005 SPECIES
 
 #### Status
 ACCEPTED

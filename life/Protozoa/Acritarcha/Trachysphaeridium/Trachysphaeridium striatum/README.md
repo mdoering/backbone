@@ -1,5 +1,4 @@
-Trachysphaeridium striatum Yin Leiming & Li Zaiping, 1978 SPECIES
-=======
+# Trachysphaeridium striatum Yin Leiming & Li Zaiping, 1978 SPECIES
 
 #### Status
 ACCEPTED

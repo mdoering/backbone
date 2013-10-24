@@ -1,5 +1,4 @@
-Holospora (ex Hafkine, 1890) Gromov & Ossipov, 1981 GENUS
-=======
+# Holospora (ex Hafkine, 1890) Gromov & Ossipov, 1981 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus bruneoleucus Lloyd SPECIES
-=======
+# Polystictus bruneoleucus Lloyd SPECIES
 
 #### Status
 ACCEPTED

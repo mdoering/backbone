@@ -1,5 +1,4 @@
-Sportelloeca Norris, 1965 GENUS
-=======
+# Sportelloeca Norris, 1965 GENUS
 
 #### Status
 ACCEPTED

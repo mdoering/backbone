@@ -1,5 +1,4 @@
-Cladonia australis SPECIES
-=======
+# Cladonia australis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hemiophrys pectinata Kahl, 1926 SPECIES
-=======
+# Hemiophrys pectinata Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

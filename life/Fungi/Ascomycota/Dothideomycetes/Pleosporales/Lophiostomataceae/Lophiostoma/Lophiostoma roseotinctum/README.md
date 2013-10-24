@@ -1,5 +1,4 @@
-Lophiostoma roseotinctum var. roseotinctum VARIETY
-=======
+# Lophiostoma roseotinctum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lophiostoma roseotinctum var. roseotinctum
+Lophiostoma roseotinctum Ellis & Everh.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Arthopyrenia verrucarioides (Fée) Zahlbr. SPECIES
-=======
+# Arthopyrenia verrucarioides (Fée) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

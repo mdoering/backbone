@@ -1,5 +1,4 @@
-Pseudoclitocybe coprophila (Speg.) Singer SPECIES
-=======
+# Pseudoclitocybe coprophila (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

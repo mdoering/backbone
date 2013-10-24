@@ -1,5 +1,4 @@
-Aspergillus archiflavipes Blochwitz SPECIES
-=======
+# Aspergillus archiflavipes Blochwitz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubulicium erectum Hjortstam & Ryvarden SPECIES
-=======
+# Tubulicium erectum Hjortstam & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

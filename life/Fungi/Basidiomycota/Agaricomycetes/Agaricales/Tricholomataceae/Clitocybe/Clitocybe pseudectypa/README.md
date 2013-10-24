@@ -1,5 +1,4 @@
-Clitocybe pseudectypa M. Lange SPECIES
-=======
+# Clitocybe pseudectypa M. Lange SPECIES
 
 #### Status
 ACCEPTED

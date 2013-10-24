@@ -1,5 +1,4 @@
-Dicellaesporites littoralis Sal.-Cheb. & Locq. SPECIES
-=======
+# Dicellaesporites littoralis Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

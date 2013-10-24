@@ -1,5 +1,4 @@
-Dendrophoma amygdalina Bondartseva SPECIES
-=======
+# Dendrophoma amygdalina Bondartseva SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysibe longissima Wallr. SPECIES
-=======
+# Erysibe longissima Wallr. SPECIES
 
 #### Status
 ACCEPTED

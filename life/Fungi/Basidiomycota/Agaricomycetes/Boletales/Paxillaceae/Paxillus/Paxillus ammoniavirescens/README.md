@@ -1,5 +1,4 @@
-Paxillus ammoniavirescens Contu & Dessì, 1999 SPECIES
-=======
+# Paxillus ammoniavirescens Contu & Dessì, 1999 SPECIES
 
 #### Status
 ACCEPTED

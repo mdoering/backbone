@@ -1,5 +1,4 @@
-Heteropolaria colisarum Foissner & Schubert, 1977 SPECIES
-=======
+# Heteropolaria colisarum Foissner & Schubert, 1977 SPECIES
 
 #### Status
 ACCEPTED

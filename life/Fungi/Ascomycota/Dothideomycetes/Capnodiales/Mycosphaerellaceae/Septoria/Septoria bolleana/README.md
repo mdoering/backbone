@@ -1,5 +1,4 @@
-Septoria bolleana Thüm. SPECIES
-=======
+# Septoria bolleana Thüm. SPECIES
 
 #### Status
 ACCEPTED

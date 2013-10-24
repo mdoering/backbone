@@ -1,5 +1,4 @@
-Tarzetta cinerascens Rehm SPECIES
-=======
+# Tarzetta cinerascens Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnea mariae Svrcek SPECIES
-=======
+# Lachnea mariae Svrcek SPECIES
 
 #### Status
 ACCEPTED

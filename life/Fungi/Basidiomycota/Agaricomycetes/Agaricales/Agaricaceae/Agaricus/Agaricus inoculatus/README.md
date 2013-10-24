@@ -1,5 +1,4 @@
-Agaricus inoculatus Fr. SPECIES
-=======
+# Agaricus inoculatus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus perplexus Peck SPECIES
-=======
+# Agaricus perplexus Peck SPECIES
 
 #### Status
 ACCEPTED

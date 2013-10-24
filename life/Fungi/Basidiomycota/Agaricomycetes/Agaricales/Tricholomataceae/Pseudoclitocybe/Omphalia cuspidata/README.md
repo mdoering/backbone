@@ -1,5 +1,4 @@
-Omphalia cuspidata var. cuspidata Quél. VARIETY
-=======
+# Omphalia cuspidata Quél. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Omphalia cuspidata var. cuspidata Quél.
+Omphalia cuspidata Quél.
 
 ### Remarks
 null

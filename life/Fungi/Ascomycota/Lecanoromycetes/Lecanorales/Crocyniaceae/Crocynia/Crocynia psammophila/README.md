@@ -1,5 +1,4 @@
-Crocynia psammophila Hue SPECIES
-=======
+# Crocynia psammophila Hue SPECIES
 
 #### Status
 ACCEPTED

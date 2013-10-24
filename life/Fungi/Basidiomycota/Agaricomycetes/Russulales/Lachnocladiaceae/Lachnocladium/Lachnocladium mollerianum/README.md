@@ -1,5 +1,4 @@
-Lachnocladium mollerianum Bres. & Roum. SPECIES
-=======
+# Lachnocladium mollerianum Bres. & Roum. SPECIES
 
 #### Status
 ACCEPTED

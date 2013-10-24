@@ -1,5 +1,4 @@
-Bacidia insimilans (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia insimilans (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rickia scydmaeni Thaxt. SPECIES
-=======
+# Rickia scydmaeni Thaxt. SPECIES
 
 #### Status
 ACCEPTED

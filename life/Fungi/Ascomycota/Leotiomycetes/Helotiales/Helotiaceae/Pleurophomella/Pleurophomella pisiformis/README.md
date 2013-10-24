@@ -1,5 +1,4 @@
-Pleurophomella pisiformis (Fr.) Petr. & Syd. SPECIES
-=======
+# Pleurophomella pisiformis (Fr.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

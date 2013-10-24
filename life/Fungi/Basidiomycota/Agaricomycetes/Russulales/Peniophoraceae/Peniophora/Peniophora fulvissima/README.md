@@ -1,5 +1,4 @@
-Peniophora fulvissima Boidin & Gilles SPECIES
-=======
+# Peniophora fulvissima Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

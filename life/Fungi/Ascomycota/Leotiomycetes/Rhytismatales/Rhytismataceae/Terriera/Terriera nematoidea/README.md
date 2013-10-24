@@ -1,14 +1,13 @@
-Lophodermium nematoideum P.R. Johnst., 1991 SPECIES
-=======
+# Terriera nematoidea (P.R. Johnst.) P.R. Johnst., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Z. Jl Bot. 29(4): 401 (1991)
+Mycol. Pap. 176: 171 (2001)
 
 #### Original name
 Lophodermium nematoideum P.R. Johnst., 1991

@@ -1,5 +1,4 @@
-Lecidea stigmatoides Nyl. SPECIES
-=======
+# Lecidea stigmatoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

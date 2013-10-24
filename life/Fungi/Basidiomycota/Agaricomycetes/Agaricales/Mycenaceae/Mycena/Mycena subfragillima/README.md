@@ -1,5 +1,4 @@
-Mycena subfragillima G. Stev., 1964 SPECIES
-=======
+# Mycena subfragillima G. Stev., 1964 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plectonaemella fuckeliana Höhn., 1915 SPECIES
-=======
+# Plectonaemella fuckeliana Höhn., 1915 SPECIES
 
 #### Status
 ACCEPTED

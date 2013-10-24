@@ -1,14 +1,13 @@
-Polystomella borneensis Petr., 1954 SPECIES
-=======
+# Protothyrium borneense (Petr.) Arx, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 8: 22 (1954)
+in Müller & Arx, Beitr. Kryptfl. Schweiz 11(no. 2): 78 (1962)
 
 #### Original name
 Polystomella borneensis Petr., 1954

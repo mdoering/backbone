@@ -1,5 +1,4 @@
-Hydrocybe lanata M.M. Moser SPECIES
-=======
+# Hydrocybe lanata M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

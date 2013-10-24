@@ -1,5 +1,4 @@
-Marasmius sulcatipes Murrill SPECIES
-=======
+# Marasmius sulcatipes Murrill SPECIES
 
 #### Status
 ACCEPTED

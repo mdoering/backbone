@@ -1,5 +1,4 @@
-Pilocintractia adrianae Vánky, 2006 SPECIES
-=======
+# Pilocintractia adrianae Vánky, 2006 SPECIES
 
 #### Status
 ACCEPTED

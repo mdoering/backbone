@@ -1,5 +1,4 @@
-Asterina nodosa Doidge SPECIES
-=======
+# Asterina nodosa Doidge SPECIES
 
 #### Status
 ACCEPTED

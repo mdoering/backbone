@@ -1,5 +1,4 @@
-Rinodina prasina SPECIES
-=======
+# Rinodina prasina SPECIES
 
 #### Status
 ACCEPTED

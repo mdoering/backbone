@@ -1,5 +1,4 @@
-Ophiaster reductus Manton & Oates, 1983 SPECIES
-=======
+# Ophiaster reductus Manton & Oates, 1983 SPECIES
 
 #### Status
 ACCEPTED

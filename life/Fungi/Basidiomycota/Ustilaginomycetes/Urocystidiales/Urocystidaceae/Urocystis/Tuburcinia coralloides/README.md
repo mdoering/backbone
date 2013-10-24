@@ -1,5 +1,4 @@
-Tuburcinia coralloides var. coralloides VARIETY
-=======
+# Tuburcinia coralloides (Rostr.) Liro SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ann. Univ. fenn. Aboënsis, Ser. A 1(no. 1): (1922)
 
 #### Original name
-Tuburcinia coralloides var. coralloides
+Urocystis coralloides Rostr.
 
 ### Remarks
 null

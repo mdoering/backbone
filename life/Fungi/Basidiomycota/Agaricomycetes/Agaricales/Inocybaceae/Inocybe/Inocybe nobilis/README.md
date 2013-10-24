@@ -1,5 +1,4 @@
-Inocybe nobilis (R. Heim) Alessio SPECIES
-=======
+# Inocybe nobilis (R. Heim) Alessio SPECIES
 
 #### Status
 ACCEPTED

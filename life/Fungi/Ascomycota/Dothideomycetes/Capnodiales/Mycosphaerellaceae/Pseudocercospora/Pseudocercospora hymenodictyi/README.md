@@ -1,14 +1,13 @@
-Pseudocercospora hymenodictyonis (Petr.) Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora hymenodictyi (Petr.) Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycosystema 5: 103 (1992)
 
 #### Original name
 Cercospora hymenodictyi Petr.

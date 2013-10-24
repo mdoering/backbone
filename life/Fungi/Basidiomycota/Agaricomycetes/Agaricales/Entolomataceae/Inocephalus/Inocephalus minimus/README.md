@@ -1,5 +1,4 @@
-Inocephalus minimus Largent SPECIES
-=======
+# Inocephalus minimus Largent SPECIES
 
 #### Status
 ACCEPTED

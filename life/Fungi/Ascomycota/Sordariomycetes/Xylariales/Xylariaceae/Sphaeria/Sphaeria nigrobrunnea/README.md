@@ -1,5 +1,4 @@
-Sphaeria nigrobrunnea Schwein. SPECIES
-=======
+# Sphaeria nigrobrunnea Schwein. SPECIES
 
 #### Status
 ACCEPTED

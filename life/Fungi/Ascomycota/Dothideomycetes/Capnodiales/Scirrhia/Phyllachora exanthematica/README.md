@@ -1,5 +1,4 @@
-Phyllachora exanthematica Cooke, 1885 SPECIES
-=======
+# Phyllachora exanthematica Cooke, 1885 SPECIES
 
 #### Status
 DOUBTFUL

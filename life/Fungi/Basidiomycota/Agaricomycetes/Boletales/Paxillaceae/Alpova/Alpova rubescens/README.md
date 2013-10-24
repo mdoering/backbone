@@ -1,5 +1,4 @@
-Alpova rubescens (Vittad.) Trappe SPECIES
-=======
+# Alpova rubescens (Vittad.) Trappe SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trifurcospora K. Ando & Tubaki GENUS
-=======
+# Trifurcospora K. Ando & Tubaki GENUS
 
 #### Status
 ACCEPTED

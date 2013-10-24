@@ -1,5 +1,4 @@
-Daldinia loculatoides Wollw. & M. Stadler, 2004 SPECIES
-=======
+# Daldinia loculatoides Wollw. & M. Stadler, 2004 SPECIES
 
 #### Status
 ACCEPTED

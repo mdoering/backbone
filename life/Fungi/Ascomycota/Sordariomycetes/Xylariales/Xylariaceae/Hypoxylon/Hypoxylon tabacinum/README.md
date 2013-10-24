@@ -1,5 +1,4 @@
-Hypoxylon tabacinum J. Kickx f. SPECIES
-=======
+# Hypoxylon tabacinum J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED

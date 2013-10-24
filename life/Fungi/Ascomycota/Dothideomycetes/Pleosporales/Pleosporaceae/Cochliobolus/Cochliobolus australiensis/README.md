@@ -1,17 +1,16 @@
-Drechslera australiense Bugnic. ex Subram. & B.L. Jain SPECIES
-=======
+# Cochliobolus australiensis (Tsuda & Ueyama) Alcorn, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 16(2): 373 (1983)
 
 #### Original name
-Drechslera australiense Bugnic. ex Subram. & B.L. Jain
+Pseudocochliobolus australiensis Tsuda & Ueyama, 1981
 
 ### Remarks
 null

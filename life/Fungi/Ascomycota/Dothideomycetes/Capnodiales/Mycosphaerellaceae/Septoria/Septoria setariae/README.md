@@ -1,5 +1,4 @@
-Septoria setariae Cejp SPECIES
-=======
+# Septoria setariae Cejp SPECIES
 
 #### Status
 ACCEPTED

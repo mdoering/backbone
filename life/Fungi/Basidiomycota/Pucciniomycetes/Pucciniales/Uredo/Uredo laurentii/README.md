@@ -1,5 +1,4 @@
-Uredo laurentii Henn. SPECIES
-=======
+# Uredo laurentii Henn. SPECIES
 
 #### Status
 ACCEPTED

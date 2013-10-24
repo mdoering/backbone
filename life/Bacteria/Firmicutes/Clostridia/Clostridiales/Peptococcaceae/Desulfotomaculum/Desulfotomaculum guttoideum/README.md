@@ -1,5 +1,4 @@
-Desulfotomaculum guttoideum Gogotova & Vainstein, 1986 SPECIES
-=======
+# Desulfotomaculum guttoideum Gogotova & Vainstein, 1986 SPECIES
 
 #### Status
 ACCEPTED

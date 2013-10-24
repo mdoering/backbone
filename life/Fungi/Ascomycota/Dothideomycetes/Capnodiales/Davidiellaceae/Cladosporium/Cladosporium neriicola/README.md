@@ -1,5 +1,4 @@
-Cladosporium neriicola S.A. Khan & M. Kamal, 1974 SPECIES
-=======
+# Cladosporium neriicola S.A. Khan & M. Kamal, 1974 SPECIES
 
 #### Status
 ACCEPTED

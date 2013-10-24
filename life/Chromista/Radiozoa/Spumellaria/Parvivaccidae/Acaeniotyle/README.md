@@ -1,5 +1,4 @@
-Acaeniotyle Foreman, 1973 GENUS
-=======
+# Acaeniotyle Foreman, 1973 GENUS
 
 #### Status
 ACCEPTED

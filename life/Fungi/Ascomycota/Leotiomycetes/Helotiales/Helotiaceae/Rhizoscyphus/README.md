@@ -1,5 +1,4 @@
-Rhizoscyphus W.Y. Zhuang & Korf GENUS
-=======
+# Rhizoscyphus W.Y. Zhuang & Korf GENUS
 
 #### Status
 ACCEPTED

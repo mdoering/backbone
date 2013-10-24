@@ -1,5 +1,4 @@
-Rhizosolenia T. Brightwell, 1858 GENUS
-=======
+# Rhizosolenia T. Brightwell, 1858 GENUS
 
 #### Status
 ACCEPTED

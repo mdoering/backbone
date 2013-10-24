@@ -1,5 +1,4 @@
-Spinodeflandrella Kozur, 1981 GENUS
-=======
+# Spinodeflandrella Kozur, 1981 GENUS
 
 #### Status
 ACCEPTED

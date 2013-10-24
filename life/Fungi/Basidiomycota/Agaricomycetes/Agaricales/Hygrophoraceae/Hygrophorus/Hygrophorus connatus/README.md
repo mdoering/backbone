@@ -1,5 +1,4 @@
-Hygrophorus connatus (P. Karst.) Sacc. SPECIES
-=======
+# Hygrophorus connatus (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

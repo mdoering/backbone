@@ -1,5 +1,4 @@
-Lepra cretacea Mérat SPECIES
-=======
+# Lepra cretacea Mérat SPECIES
 
 #### Status
 ACCEPTED

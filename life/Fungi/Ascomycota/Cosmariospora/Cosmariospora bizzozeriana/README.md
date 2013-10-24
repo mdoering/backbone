@@ -1,5 +1,4 @@
-Cosmariospora bizzozeriana Sacc., 1880 SPECIES
-=======
+# Cosmariospora bizzozeriana Sacc., 1880 SPECIES
 
 #### Status
 ACCEPTED

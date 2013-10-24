@@ -1,5 +1,4 @@
-Letharia magellanica (Mont.) Räsänen SPECIES
-=======
+# Letharia magellanica (Mont.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

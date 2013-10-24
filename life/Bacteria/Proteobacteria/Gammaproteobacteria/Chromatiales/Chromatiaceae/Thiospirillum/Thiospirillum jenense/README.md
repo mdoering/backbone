@@ -1,11 +1,10 @@
-Rhodospirillum jenense (Ehrenberg, 1838) Ellis, 1932 SPECIES
-=======
+# Thiospirillum jenense (Ehrenberg, 1838) Migula, 1900 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

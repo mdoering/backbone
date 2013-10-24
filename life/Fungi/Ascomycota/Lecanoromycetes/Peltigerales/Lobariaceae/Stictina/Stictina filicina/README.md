@@ -1,5 +1,4 @@
-Stictina filicina f. filicina FORM
-=======
+# Stictina filicina SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stictina filicina f. filicina
+null
 
 ### Remarks
 null

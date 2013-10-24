@@ -1,17 +1,16 @@
-Laboulbenia subterranea subsp. subterranea Thaxt. SUBSPECIES
-=======
+# Laboulbenia subterranea Thaxt., 1893 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. Amer. Acad. Arts & Sci. 163 (1893)
 
 #### Original name
-Laboulbenia subterranea subsp. subterranea Thaxt.
+Laboulbenia subterranea Thaxt., 1893
 
 ### Remarks
 null

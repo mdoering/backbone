@@ -1,5 +1,4 @@
-Melanotheca leucotrypa (Nyl.) Müll. Arg. SPECIES
-=======
+# Melanotheca leucotrypa (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

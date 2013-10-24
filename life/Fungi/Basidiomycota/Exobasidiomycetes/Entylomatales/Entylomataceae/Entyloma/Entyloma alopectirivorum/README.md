@@ -1,5 +1,4 @@
-Entyloma alopectirivorum SPECIES
-=======
+# Entyloma alopectirivorum SPECIES
 
 #### Status
 ACCEPTED

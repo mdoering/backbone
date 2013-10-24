@@ -1,5 +1,4 @@
-Monodictys epilepraria Kukwa & Diederich, 2005 SPECIES
-=======
+# Monodictys epilepraria Kukwa & Diederich, 2005 SPECIES
 
 #### Status
 ACCEPTED

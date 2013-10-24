@@ -1,5 +1,4 @@
-Thermobacterium GENUS
-=======
+# Thermobacterium GENUS
 
 #### Status
 ACCEPTED

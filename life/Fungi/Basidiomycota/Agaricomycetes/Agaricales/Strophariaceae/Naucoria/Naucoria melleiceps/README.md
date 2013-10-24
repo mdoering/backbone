@@ -1,5 +1,4 @@
-Naucoria melleiceps (Murrill) Singer SPECIES
-=======
+# Naucoria melleiceps (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

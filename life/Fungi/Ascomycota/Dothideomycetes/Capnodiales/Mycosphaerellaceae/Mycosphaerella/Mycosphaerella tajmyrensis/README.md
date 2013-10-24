@@ -1,5 +1,4 @@
-Mycosphaerella tajmyrensis Tomilin SPECIES
-=======
+# Mycosphaerella tajmyrensis Tomilin SPECIES
 
 #### Status
 ACCEPTED

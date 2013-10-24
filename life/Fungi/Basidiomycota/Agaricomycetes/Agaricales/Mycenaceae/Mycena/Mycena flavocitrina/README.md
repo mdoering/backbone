@@ -1,5 +1,4 @@
-Mycena flavocitrina Murrill SPECIES
-=======
+# Mycena flavocitrina Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula laevigata (Pers.) Arnold, 1885 SPECIES
-=======
+# Pyrenula laevigata (Pers.) Arnold, 1885 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Achitonium strobilicola Kalchbr. SPECIES
-=======
+# Achitonium strobilicola Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

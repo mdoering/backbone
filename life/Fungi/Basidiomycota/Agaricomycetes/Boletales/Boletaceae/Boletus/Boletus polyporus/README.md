@@ -1,5 +1,4 @@
-Boletus polyporus Bull. SPECIES
-=======
+# Boletus polyporus Bull. SPECIES
 
 #### Status
 ACCEPTED

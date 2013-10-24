@@ -1,5 +1,4 @@
-Ditiola shopei Coker SPECIES
-=======
+# Ditiola shopei Coker SPECIES
 
 #### Status
 ACCEPTED

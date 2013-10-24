@@ -1,5 +1,4 @@
-Inocybe menthi-gustans F.H. Nishida SPECIES
-=======
+# Inocybe menthi-gustans F.H. Nishida SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chytridium isthmiophilum Canter SPECIES
-=======
+# Chytridium isthmiophilum Canter SPECIES
 
 #### Status
 ACCEPTED

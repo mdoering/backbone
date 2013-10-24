@@ -1,5 +1,4 @@
-Lignydium antiades (Bull.) Kuntze SPECIES
-=======
+# Lignydium antiades (Bull.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

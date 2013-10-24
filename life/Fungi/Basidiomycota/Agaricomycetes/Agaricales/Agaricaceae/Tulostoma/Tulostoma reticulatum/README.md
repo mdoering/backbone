@@ -1,5 +1,4 @@
-Tulostoma reticulatum G. Cunn. SPECIES
-=======
+# Tulostoma reticulatum G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Octospora ciervensis Gamundí & Spinedi SPECIES
-=======
+# Octospora ciervensis Gamundí & Spinedi SPECIES
 
 #### Status
 ACCEPTED

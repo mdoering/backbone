@@ -1,5 +1,4 @@
-Galerula reticulata (Peck) Murrill SPECIES
-=======
+# Galerula reticulata (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

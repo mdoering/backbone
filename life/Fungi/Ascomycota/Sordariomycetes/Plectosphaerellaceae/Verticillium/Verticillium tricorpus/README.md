@@ -1,5 +1,4 @@
-Verticillium tricorpus I. Isaac, 1953 SPECIES
-=======
+# Verticillium tricorpus I. Isaac, 1953 SPECIES
 
 #### Status
 ACCEPTED

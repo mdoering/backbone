@@ -1,5 +1,4 @@
-Ceratocystis crenulata Olchow. & J. Reid SPECIES
-=======
+# Ceratocystis crenulata Olchow. & J. Reid SPECIES
 
 #### Status
 ACCEPTED

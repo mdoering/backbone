@@ -1,5 +1,4 @@
-Phyllosticta rhipsalidicola Novoss. SPECIES
-=======
+# Phyllosticta rhipsalidicola Novoss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Daedalea dentifera Fr. SPECIES
-=======
+# Daedalea dentifera Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staurolithites flavus SPECIES
-=======
+# Staurolithites flavus SPECIES
 
 #### Status
 ACCEPTED

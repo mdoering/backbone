@@ -1,5 +1,4 @@
-Stella vacuolata Vasilyeva, 1985 SPECIES
-=======
+# Stella vacuolata Vasilyeva, 1985 SPECIES
 
 #### Status
 ACCEPTED

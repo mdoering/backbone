@@ -1,5 +1,4 @@
-Septoria liatridis Ellis & Davis SPECIES
-=======
+# Septoria liatridis Ellis & Davis SPECIES
 
 #### Status
 ACCEPTED

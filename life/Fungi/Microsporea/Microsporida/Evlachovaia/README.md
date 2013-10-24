@@ -1,5 +1,4 @@
-Evlachovaia Voronin GENUS
-=======
+# Evlachovaia Voronin GENUS
 
 #### Status
 ACCEPTED

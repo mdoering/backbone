@@ -1,5 +1,4 @@
-Rhabdospora linicola Bubák SPECIES
-=======
+# Rhabdospora linicola Bubák SPECIES
 
 #### Status
 ACCEPTED

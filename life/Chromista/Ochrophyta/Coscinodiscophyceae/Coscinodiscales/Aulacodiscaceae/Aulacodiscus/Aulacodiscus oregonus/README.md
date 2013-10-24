@@ -1,5 +1,4 @@
-Aulacodiscus oregonus SPECIES
-=======
+# Aulacodiscus oregonus SPECIES
 
 #### Status
 ACCEPTED

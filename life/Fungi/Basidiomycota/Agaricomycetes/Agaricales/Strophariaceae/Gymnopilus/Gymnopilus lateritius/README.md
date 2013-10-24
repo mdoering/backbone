@@ -1,5 +1,4 @@
-Gymnopilus lateritius (Pat.) Murrill SPECIES
-=======
+# Gymnopilus lateritius (Pat.) Murrill SPECIES
 
 #### Status
 ACCEPTED

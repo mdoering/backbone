@@ -1,5 +1,4 @@
-Hyalopus muscorum (Corda) Corda SPECIES
-=======
+# Hyalopus muscorum (Corda) Corda SPECIES
 
 #### Status
 ACCEPTED

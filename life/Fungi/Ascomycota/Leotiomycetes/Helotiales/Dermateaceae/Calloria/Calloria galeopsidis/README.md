@@ -1,5 +1,4 @@
-Calloria galeopsidis J. Schröt. SPECIES
-=======
+# Calloria galeopsidis J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

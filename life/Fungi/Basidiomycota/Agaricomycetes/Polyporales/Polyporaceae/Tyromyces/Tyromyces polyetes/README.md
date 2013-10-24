@@ -1,5 +1,4 @@
-Tyromyces polyetes Parmasto SPECIES
-=======
+# Tyromyces polyetes Parmasto SPECIES
 
 #### Status
 ACCEPTED

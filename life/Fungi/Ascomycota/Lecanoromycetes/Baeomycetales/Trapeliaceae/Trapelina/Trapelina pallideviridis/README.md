@@ -1,5 +1,4 @@
-Trapelina pallideviridis Motyka SPECIES
-=======
+# Trapelina pallideviridis Motyka SPECIES
 
 #### Status
 ACCEPTED

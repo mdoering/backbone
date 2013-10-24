@@ -1,5 +1,4 @@
-Coenogonium dialeptizum Stirt. SPECIES
-=======
+# Coenogonium dialeptizum Stirt. SPECIES
 
 #### Status
 ACCEPTED

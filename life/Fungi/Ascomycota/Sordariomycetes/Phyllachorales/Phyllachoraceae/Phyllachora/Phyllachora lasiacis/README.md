@@ -1,5 +1,4 @@
-Phyllachora lasiacis Syd., 1925 SPECIES
-=======
+# Phyllachora lasiacis Syd., 1925 SPECIES
 
 #### Status
 ACCEPTED

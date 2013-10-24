@@ -1,5 +1,4 @@
-Septochora samaricola SPECIES
-=======
+# Septochora samaricola SPECIES
 
 #### Status
 ACCEPTED

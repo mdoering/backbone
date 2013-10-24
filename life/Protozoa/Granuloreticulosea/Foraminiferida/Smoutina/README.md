@@ -1,5 +1,4 @@
-Smoutina Drooger, 1960 GENUS
-=======
+# Smoutina Drooger, 1960 GENUS
 
 #### Status
 ACCEPTED

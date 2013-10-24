@@ -1,5 +1,4 @@
-Vivianella affinis (Speg.) Sacc. SPECIES
-=======
+# Vivianella affinis (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

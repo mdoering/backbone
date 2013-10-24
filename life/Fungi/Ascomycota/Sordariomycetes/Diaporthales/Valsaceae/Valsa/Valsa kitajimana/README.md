@@ -1,5 +1,4 @@
-Valsa kitajimana Kobayasi SPECIES
-=======
+# Valsa kitajimana Kobayasi SPECIES
 
 #### Status
 ACCEPTED

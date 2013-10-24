@@ -1,5 +1,4 @@
-Hexaconus Haeckel, 1885 GENUS
-=======
+# Hexaconus Haeckel, 1885 GENUS
 
 #### Status
 ACCEPTED

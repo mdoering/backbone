@@ -1,5 +1,4 @@
-Leiosphaeridia bharadwajii Fensome et al., 1990 SPECIES
-=======
+# Leiosphaeridia bharadwajii Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

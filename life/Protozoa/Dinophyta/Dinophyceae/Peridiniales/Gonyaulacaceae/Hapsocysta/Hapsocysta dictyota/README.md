@@ -1,5 +1,4 @@
-Hapsocysta dictyota R. J. Davey SPECIES
-=======
+# Hapsocysta dictyota R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoporum anastomosans (Nyl.) Branth & Rostr. SPECIES
-=======
+# Mycoporum anastomosans (Nyl.) Branth & Rostr. SPECIES
 
 #### Status
 ACCEPTED

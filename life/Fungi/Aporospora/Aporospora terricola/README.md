@@ -1,5 +1,4 @@
-Aporospora terricola J.C. Krug & Jeng SPECIES
-=======
+# Aporospora terricola J.C. Krug & Jeng SPECIES
 
 #### Status
 ACCEPTED

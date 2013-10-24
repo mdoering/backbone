@@ -1,5 +1,4 @@
-Sporotrichum keratinolyticum Dominik & Majchr. SPECIES
-=======
+# Sporotrichum keratinolyticum Dominik & Majchr. SPECIES
 
 #### Status
 ACCEPTED

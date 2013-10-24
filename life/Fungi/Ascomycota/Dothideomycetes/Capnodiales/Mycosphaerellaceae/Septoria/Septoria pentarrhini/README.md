@@ -1,5 +1,4 @@
-Septoria pentarrhini E. Castell. SPECIES
-=======
+# Septoria pentarrhini E. Castell. SPECIES
 
 #### Status
 ACCEPTED

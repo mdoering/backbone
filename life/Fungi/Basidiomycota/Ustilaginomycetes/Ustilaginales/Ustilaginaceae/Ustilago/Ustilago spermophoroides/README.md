@@ -1,5 +1,4 @@
-Ustilago spermophoroides L. Ling & T.L. Chen SPECIES
-=======
+# Ustilago spermophoroides L. Ling & T.L. Chen SPECIES
 
 #### Status
 ACCEPTED

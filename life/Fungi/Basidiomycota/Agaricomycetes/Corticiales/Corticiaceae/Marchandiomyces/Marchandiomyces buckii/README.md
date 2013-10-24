@@ -1,5 +1,4 @@
-Marchandiomyces buckii Diederich & Lawrey, 2007 SPECIES
-=======
+# Marchandiomyces buckii Diederich & Lawrey, 2007 SPECIES
 
 #### Status
 ACCEPTED

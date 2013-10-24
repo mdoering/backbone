@@ -1,5 +1,4 @@
-Paragranatisporites lunpolaensis Zhong Y. Zhang SPECIES
-=======
+# Paragranatisporites lunpolaensis Zhong Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

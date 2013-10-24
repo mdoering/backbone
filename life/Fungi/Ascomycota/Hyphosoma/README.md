@@ -1,5 +1,4 @@
-Hyphosoma Syd. GENUS
-=======
+# Hyphosoma Syd. GENUS
 
 #### Status
 ACCEPTED

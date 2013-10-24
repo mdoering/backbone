@@ -1,5 +1,4 @@
-Exobasidium sydowianum Nannf., 1981 SPECIES
-=======
+# Exobasidium sydowianum Nannf., 1981 SPECIES
 
 #### Status
 ACCEPTED

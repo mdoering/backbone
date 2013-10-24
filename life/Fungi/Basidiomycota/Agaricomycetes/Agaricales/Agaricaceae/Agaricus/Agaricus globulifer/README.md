@@ -1,5 +1,4 @@
-Agaricus globulifer Brond. SPECIES
-=======
+# Agaricus globulifer Brond. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerotheca asragali L. Junell SPECIES
-=======
+# Sphaerotheca asragali L. Junell SPECIES
 
 #### Status
 ACCEPTED

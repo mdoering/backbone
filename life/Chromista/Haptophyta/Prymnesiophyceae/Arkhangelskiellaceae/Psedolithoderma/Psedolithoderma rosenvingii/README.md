@@ -1,5 +1,4 @@
-Psedolithoderma rosenvingii (Waern) S. Lund SPECIES
-=======
+# Psedolithoderma rosenvingii (Waern) S. Lund SPECIES
 
 #### Status
 ACCEPTED

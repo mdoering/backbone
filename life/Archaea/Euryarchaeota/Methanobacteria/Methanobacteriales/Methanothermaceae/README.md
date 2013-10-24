@@ -1,5 +1,4 @@
-Methanothermaceae FAMILY
-=======
+# Methanothermaceae FAMILY
 
 #### Status
 ACCEPTED

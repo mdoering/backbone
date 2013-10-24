@@ -1,5 +1,4 @@
-Poeltinula Hafellner GENUS
-=======
+# Poeltinula Hafellner GENUS
 
 #### Status
 ACCEPTED

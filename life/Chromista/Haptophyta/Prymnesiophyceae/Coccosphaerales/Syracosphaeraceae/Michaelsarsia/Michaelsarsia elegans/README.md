@@ -1,5 +1,4 @@
-Michaelsarsia elegans Gran SPECIES
-=======
+# Michaelsarsia elegans Gran SPECIES
 
 #### Status
 ACCEPTED

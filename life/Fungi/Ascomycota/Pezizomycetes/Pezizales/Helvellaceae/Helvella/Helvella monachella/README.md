@@ -1,8 +1,7 @@
-Helvella monachella var. monachella (Scop.) Fr., 1822 VARIETY
-=======
+# Helvella monachella (Scop.) Fr., 1822 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

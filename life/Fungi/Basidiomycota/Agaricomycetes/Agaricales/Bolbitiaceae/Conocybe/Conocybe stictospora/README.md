@@ -1,5 +1,4 @@
-Conocybe stictospora Singer SPECIES
-=======
+# Conocybe stictospora Singer SPECIES
 
 #### Status
 ACCEPTED

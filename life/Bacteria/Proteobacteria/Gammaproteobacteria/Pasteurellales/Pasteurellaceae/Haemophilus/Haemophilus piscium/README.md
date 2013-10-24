@@ -1,5 +1,4 @@
-Haemophilus piscium Snieszko et al., 1950 (Approved Lists, 1980) SPECIES
-=======
+# Haemophilus piscium Snieszko et al., 1950 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

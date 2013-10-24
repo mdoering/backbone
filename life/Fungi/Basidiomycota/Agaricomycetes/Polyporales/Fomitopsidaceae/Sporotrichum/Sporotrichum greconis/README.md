@@ -1,5 +1,4 @@
-Sporotrichum greconis (C.W. Dodge) Gougerot SPECIES
-=======
+# Sporotrichum greconis (C.W. Dodge) Gougerot SPECIES
 
 #### Status
 ACCEPTED

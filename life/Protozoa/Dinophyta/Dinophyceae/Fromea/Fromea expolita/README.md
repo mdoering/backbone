@@ -1,5 +1,4 @@
-Fromea expolita (Brideaux, 1977) Lentin & Williams, 1981 SPECIES
-=======
+# Fromea expolita (Brideaux, 1977) Lentin & Williams, 1981 SPECIES
 
 #### Status
 ACCEPTED

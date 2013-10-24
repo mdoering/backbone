@@ -1,5 +1,4 @@
-Verrucaria cinefaciens Nyl. SPECIES
-=======
+# Verrucaria cinefaciens Nyl. SPECIES
 
 #### Status
 ACCEPTED

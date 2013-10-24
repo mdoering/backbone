@@ -1,5 +1,4 @@
-Phragmidium sinicum F.L. Tai & C.C. Cheo SPECIES
-=======
+# Phragmidium sinicum F.L. Tai & C.C. Cheo SPECIES
 
 #### Status
 ACCEPTED

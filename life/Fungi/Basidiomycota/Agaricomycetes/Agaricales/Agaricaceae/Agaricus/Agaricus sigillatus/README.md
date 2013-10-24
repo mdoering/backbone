@@ -1,5 +1,4 @@
-Agaricus sigillatus Lév. SPECIES
-=======
+# Agaricus sigillatus Lév. SPECIES
 
 #### Status
 ACCEPTED

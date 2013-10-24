@@ -1,5 +1,4 @@
-Fellhanera eriniae R.C. Harris & Lendemer SPECIES
-=======
+# Fellhanera eriniae R.C. Harris & Lendemer SPECIES
 
 #### Status
 ACCEPTED

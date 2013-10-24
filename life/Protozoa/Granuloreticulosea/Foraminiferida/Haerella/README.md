@@ -1,5 +1,4 @@
-Haerella Belford, 1960 GENUS
-=======
+# Haerella Belford, 1960 GENUS
 
 #### Status
 ACCEPTED

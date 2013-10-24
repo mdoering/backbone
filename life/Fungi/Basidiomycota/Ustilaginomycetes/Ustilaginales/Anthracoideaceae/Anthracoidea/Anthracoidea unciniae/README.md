@@ -1,5 +1,4 @@
-Anthracoidea unciniae Vánky & C. Vánky SPECIES
-=======
+# Anthracoidea unciniae Vánky & C. Vánky SPECIES
 
 #### Status
 ACCEPTED

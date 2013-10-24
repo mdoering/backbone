@@ -1,5 +1,4 @@
-Bryosphaeria pohliae Döbbeler, 1978 SPECIES
-=======
+# Bryosphaeria pohliae Döbbeler, 1978 SPECIES
 
 #### Status
 ACCEPTED

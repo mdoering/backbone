@@ -1,5 +1,4 @@
-Usnea ruwenzoriana Motyka SPECIES
-=======
+# Usnea ruwenzoriana Motyka SPECIES
 
 #### Status
 ACCEPTED

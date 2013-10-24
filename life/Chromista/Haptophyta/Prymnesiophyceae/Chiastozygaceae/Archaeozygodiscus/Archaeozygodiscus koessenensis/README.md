@@ -1,5 +1,4 @@
-Archaeozygodiscus koessenensis SPECIES
-=======
+# Archaeozygodiscus koessenensis SPECIES
 
 #### Status
 ACCEPTED

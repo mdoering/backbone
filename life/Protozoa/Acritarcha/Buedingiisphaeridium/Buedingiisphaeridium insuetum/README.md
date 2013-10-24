@@ -1,5 +1,4 @@
-Buedingiisphaeridium insuetum (Treshchetenkova in Akulcheva et al., 1981) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Buedingiisphaeridium insuetum (Treshchetenkova in Akulcheva et al., 1981) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

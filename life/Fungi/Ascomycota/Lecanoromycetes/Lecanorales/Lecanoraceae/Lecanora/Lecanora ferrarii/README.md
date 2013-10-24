@@ -1,5 +1,4 @@
-Lecanora ferrarii (Bagl.) Stizenb. SPECIES
-=======
+# Lecanora ferrarii (Bagl.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

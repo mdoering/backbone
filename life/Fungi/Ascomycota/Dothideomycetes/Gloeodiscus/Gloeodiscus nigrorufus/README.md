@@ -1,14 +1,13 @@
-Gloeodiscus nigro-rufus (Berk.) Dennis, 1961 SPECIES
-=======
+# Gloeodiscus nigrorufus (Berk.) Dennis, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kew Bull. 15(2): 319 (1961)
 
 #### Original name
 Excipula nigrorufa Berk., 1855

@@ -1,5 +1,4 @@
-Orphella haysii M.C. Williams & Lichtw., 1987 SPECIES
-=======
+# Orphella haysii M.C. Williams & Lichtw., 1987 SPECIES
 
 #### Status
 ACCEPTED

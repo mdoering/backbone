@@ -1,5 +1,4 @@
-Phyllosticta pachystimae Wehm. SPECIES
-=======
+# Phyllosticta pachystimae Wehm. SPECIES
 
 #### Status
 ACCEPTED

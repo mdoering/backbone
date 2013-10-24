@@ -1,5 +1,4 @@
-Diconodinium glabrum Eisenack & Cookson, 1960 SPECIES
-=======
+# Diconodinium glabrum Eisenack & Cookson, 1960 SPECIES
 
 #### Status
 ACCEPTED

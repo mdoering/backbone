@@ -1,5 +1,4 @@
-Aspicilia atrocinerea (Trevis.) A. Massal. SPECIES
-=======
+# Aspicilia atrocinerea (Trevis.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

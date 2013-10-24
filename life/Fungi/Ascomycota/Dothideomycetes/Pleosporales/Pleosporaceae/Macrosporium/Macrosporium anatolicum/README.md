@@ -1,5 +1,4 @@
-Macrosporium anatolicum A. Savul. SPECIES
-=======
+# Macrosporium anatolicum A. Savul. SPECIES
 
 #### Status
 ACCEPTED

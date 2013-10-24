@@ -1,5 +1,4 @@
-Lactarius crassiusculus H.T. Le & Stubbe SPECIES
-=======
+# Lactarius crassiusculus H.T. Le & Stubbe SPECIES
 
 #### Status
 ACCEPTED

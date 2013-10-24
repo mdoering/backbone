@@ -1,17 +1,16 @@
-Phyllosticta argyraea Speg. SPECIES
-=======
+# Phyllosticta argyrea Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Soc. cient. argent. 10(1): 28 [no. 121] (1880)
 
 #### Original name
-Phyllosticta argyraea Speg.
+Phyllosticta argyrea Speg.
 
 ### Remarks
 null

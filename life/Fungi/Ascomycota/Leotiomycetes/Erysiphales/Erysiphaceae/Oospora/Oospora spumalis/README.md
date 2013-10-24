@@ -1,5 +1,4 @@
-Oospora spumalis Sartory SPECIES
-=======
+# Oospora spumalis Sartory SPECIES
 
 #### Status
 ACCEPTED

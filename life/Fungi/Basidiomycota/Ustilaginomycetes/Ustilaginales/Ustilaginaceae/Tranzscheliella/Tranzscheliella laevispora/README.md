@@ -1,5 +1,4 @@
-Tranzscheliella laevispora Vánky, 2004 SPECIES
-=======
+# Tranzscheliella laevispora Vánky, 2004 SPECIES
 
 #### Status
 ACCEPTED

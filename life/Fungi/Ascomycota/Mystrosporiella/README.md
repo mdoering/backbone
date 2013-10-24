@@ -1,5 +1,4 @@
-Mystrosporiella Munjal & Kulshr. GENUS
-=======
+# Mystrosporiella Munjal & Kulshr. GENUS
 
 #### Status
 ACCEPTED

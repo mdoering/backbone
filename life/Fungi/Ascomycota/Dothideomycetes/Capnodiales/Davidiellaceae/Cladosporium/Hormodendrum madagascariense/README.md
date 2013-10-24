@@ -1,14 +1,13 @@
-Hormodendrum madagascarense (Verdun) C.W. Dodge SPECIES
-=======
+# Hormodendrum madagascariense (Verdun) C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Ann. Mo. bot. Gdn (1935)
+Medical mycology. Fungous diseases of men and other mammals 845 (1935)
 
 #### Original name
 Cladosporium madagascariense Verdun

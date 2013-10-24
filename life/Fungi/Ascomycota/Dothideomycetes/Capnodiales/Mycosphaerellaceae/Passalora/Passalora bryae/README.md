@@ -1,5 +1,4 @@
-Passalora bryae U. Braun & Crous SPECIES
-=======
+# Passalora bryae U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Spirochona scheuteni Stein, 1854 SPECIES
-=======
+# Heliochona scheuteni Stein, 1854 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Cytospora platani Fuckel, 1860 SPECIES
-=======
+# Cytospora platani Fuckel, 1860 SPECIES
 
 #### Status
 ACCEPTED

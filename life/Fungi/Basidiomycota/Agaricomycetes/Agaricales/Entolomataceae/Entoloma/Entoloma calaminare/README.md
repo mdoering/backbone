@@ -1,5 +1,4 @@
-Entoloma calaminare Noordel., 1984 SPECIES
-=======
+# Entoloma calaminare Noordel., 1984 SPECIES
 
 #### Status
 ACCEPTED

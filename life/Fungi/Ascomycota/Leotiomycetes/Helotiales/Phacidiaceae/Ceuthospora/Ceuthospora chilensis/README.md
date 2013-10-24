@@ -1,5 +1,4 @@
-Ceuthospora chilensis Petr. & Syd. SPECIES
-=======
+# Ceuthospora chilensis Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

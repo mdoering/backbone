@@ -1,5 +1,4 @@
-Hydnum plumosum Duby SPECIES
-=======
+# Hydnum plumosum Duby SPECIES
 
 #### Status
 ACCEPTED

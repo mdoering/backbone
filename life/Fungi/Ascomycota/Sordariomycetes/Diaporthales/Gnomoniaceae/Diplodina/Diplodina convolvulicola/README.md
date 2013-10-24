@@ -1,5 +1,4 @@
-Diplodina convolvulicola Hollós SPECIES
-=======
+# Diplodina convolvulicola Hollós SPECIES
 
 #### Status
 ACCEPTED

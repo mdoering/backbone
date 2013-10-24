@@ -1,5 +1,4 @@
-Hypocrea flavovirens Berk. SPECIES
-=======
+# Hypocrea flavovirens Berk. SPECIES
 
 #### Status
 ACCEPTED

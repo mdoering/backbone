@@ -1,5 +1,4 @@
-Graphis gonimica Zahlbr. SPECIES
-=======
+# Graphis gonimica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

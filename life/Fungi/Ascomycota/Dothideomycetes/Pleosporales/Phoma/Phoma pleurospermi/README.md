@@ -1,5 +1,4 @@
-Phoma pleurospermi Petr. SPECIES
-=======
+# Phoma pleurospermi Petr. SPECIES
 
 #### Status
 ACCEPTED

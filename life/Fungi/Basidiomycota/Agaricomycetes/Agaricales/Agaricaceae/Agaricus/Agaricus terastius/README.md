@@ -1,5 +1,4 @@
-Agaricus terastius Berk. & Broome SPECIES
-=======
+# Agaricus terastius Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

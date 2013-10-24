@@ -1,5 +1,4 @@
-Passalora galactiae (Ellis & Everh.) U. Braun & Crous SPECIES
-=======
+# Passalora galactiae (Ellis & Everh.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

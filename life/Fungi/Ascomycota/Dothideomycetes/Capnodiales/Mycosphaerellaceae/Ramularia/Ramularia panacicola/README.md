@@ -1,5 +1,4 @@
-Ramularia panacicola Zinssm. SPECIES
-=======
+# Ramularia panacicola Zinssm. SPECIES
 
 #### Status
 ACCEPTED

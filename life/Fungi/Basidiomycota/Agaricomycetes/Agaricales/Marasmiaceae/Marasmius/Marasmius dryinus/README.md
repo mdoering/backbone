@@ -1,5 +1,4 @@
-Marasmius dryinus Singer SPECIES
-=======
+# Marasmius dryinus Singer SPECIES
 
 #### Status
 ACCEPTED

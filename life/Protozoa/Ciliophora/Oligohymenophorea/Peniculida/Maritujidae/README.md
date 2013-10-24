@@ -1,5 +1,4 @@
-Maritujidae FAMILY
-=======
+# Maritujidae FAMILY
 
 #### Status
 ACCEPTED

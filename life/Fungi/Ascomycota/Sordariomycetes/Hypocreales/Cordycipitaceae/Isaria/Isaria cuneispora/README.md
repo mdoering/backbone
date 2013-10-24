@@ -1,5 +1,4 @@
-Isaria cuneispora Boud. SPECIES
-=======
+# Isaria cuneispora Boud. SPECIES
 
 #### Status
 ACCEPTED

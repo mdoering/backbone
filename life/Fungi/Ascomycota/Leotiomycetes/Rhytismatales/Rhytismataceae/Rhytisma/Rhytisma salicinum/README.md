@@ -1,17 +1,16 @@
-Rhytisma salicinum f. salicinum FORM
-=======
+# Rhytisma salicinum (Pers.) Fr., 1823 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. mycol. (Lundae) 2(2): 568 (1823)
 
 #### Original name
-null
+Xyloma salicinum Pers., 1794
 
 ### Remarks
 null

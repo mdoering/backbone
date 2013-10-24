@@ -1,5 +1,4 @@
-Arthonia cinnabarinula Müll. Arg. SPECIES
-=======
+# Arthonia cinnabarinula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

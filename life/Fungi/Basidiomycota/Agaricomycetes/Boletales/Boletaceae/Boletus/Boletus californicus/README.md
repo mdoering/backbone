@@ -1,5 +1,4 @@
-Boletus californicus Murrill SPECIES
-=======
+# Boletus californicus Murrill SPECIES
 
 #### Status
 ACCEPTED

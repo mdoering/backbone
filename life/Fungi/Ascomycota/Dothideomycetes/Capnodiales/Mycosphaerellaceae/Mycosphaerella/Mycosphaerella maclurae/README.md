@@ -1,5 +1,4 @@
-Mycosphaerella maclurae (Ellis & Everh.) Tomilin SPECIES
-=======
+# Mycosphaerella maclurae (Ellis & Everh.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

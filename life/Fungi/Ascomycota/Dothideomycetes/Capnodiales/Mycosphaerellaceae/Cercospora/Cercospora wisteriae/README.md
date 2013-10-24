@@ -1,5 +1,4 @@
-Cercospora wisteriae A.S. Mull. & Chupp SPECIES
-=======
+# Cercospora wisteriae A.S. Mull. & Chupp SPECIES
 
 #### Status
 ACCEPTED

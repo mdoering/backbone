@@ -1,5 +1,4 @@
-Acrotheca humilis Rambelli SPECIES
-=======
+# Acrotheca humilis Rambelli SPECIES
 
 #### Status
 ACCEPTED

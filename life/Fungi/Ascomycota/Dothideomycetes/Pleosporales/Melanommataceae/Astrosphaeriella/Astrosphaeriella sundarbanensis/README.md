@@ -1,5 +1,4 @@
-Astrosphaeriella sundarbanensis Jagadeesh & Aptroot, 2005 SPECIES
-=======
+# Astrosphaeriella sundarbanensis Jagadeesh & Aptroot, 2005 SPECIES
 
 #### Status
 ACCEPTED

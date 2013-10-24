@@ -1,5 +1,4 @@
-Arthrospira fusiformis (Voronikhin) J. Komárek & J. W. G. Lund SPECIES
-=======
+# Arthrospira fusiformis (Voronikhin) J. Komárek & J. W. G. Lund SPECIES
 
 #### Status
 ACCEPTED

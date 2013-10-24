@@ -1,5 +1,4 @@
-Stellosetifera Matsush. GENUS
-=======
+# Stellosetifera Matsush. GENUS
 
 #### Status
 ACCEPTED

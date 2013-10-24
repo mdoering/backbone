@@ -1,5 +1,4 @@
-Marasmius reticulatus Henn. SPECIES
-=======
+# Marasmius reticulatus Henn. SPECIES
 
 #### Status
 ACCEPTED

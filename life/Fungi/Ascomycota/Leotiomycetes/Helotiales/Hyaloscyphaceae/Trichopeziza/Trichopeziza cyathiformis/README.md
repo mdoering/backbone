@@ -1,5 +1,4 @@
-Trichopeziza cyathiformis (Wallr.) Sacc. SPECIES
-=======
+# Trichopeziza cyathiformis (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

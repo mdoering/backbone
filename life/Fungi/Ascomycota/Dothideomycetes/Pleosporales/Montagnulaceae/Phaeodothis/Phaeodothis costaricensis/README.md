@@ -1,5 +1,4 @@
-Phaeodothis costaricensis F. Stevens SPECIES
-=======
+# Phaeodothis costaricensis F. Stevens SPECIES
 
 #### Status
 ACCEPTED

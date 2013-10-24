@@ -1,5 +1,4 @@
-Agaricus montosus Berk. SPECIES
-=======
+# Agaricus montosus Berk. SPECIES
 
 #### Status
 ACCEPTED

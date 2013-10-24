@@ -1,5 +1,4 @@
-Hypoxylon fusconigrum S. Ito & S. Imai SPECIES
-=======
+# Hypoxylon fusconigrum S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

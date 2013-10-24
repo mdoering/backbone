@@ -1,8 +1,7 @@
-Diatoma vulgare var. constricta Grunow in Van Heurck, 1881 VARIETY
-=======
+# Diatoma constricta (Grunow in Van Heurck) William, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

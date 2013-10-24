@@ -1,5 +1,4 @@
-Umbillicaria nylanderiana (Zahlbr.) H. Magn. SPECIES
-=======
+# Umbillicaria nylanderiana (Zahlbr.) H. Magn. SPECIES
 
 #### Status
 DOUBTFUL

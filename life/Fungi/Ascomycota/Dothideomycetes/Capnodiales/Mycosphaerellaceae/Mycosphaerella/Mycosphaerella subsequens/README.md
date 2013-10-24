@@ -1,5 +1,4 @@
-Mycosphaerella subsequens Munk SPECIES
-=======
+# Mycosphaerella subsequens Munk SPECIES
 
 #### Status
 ACCEPTED

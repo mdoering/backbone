@@ -1,5 +1,4 @@
-Asteroma populorum Fuckel SPECIES
-=======
+# Asteroma populorum Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lachnella oedema (Desm.) W. Phillips, 1887 SPECIES
-=======
+# Mollisina oedema (Desm.) Dennis, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 271 (1887)
+Persoonia 3(2): 355 (1964)
 
 #### Original name
 null

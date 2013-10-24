@@ -1,14 +1,13 @@
-Thelephora arachnoidea Berk. & Broome, 1875 SPECIES
-=======
+# Septobasidium arachnoideum (Berk. & Broome) Bres., 1916 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 14(2): 64 (1875)
+Annls mycol. 14(3/4): 241 (1916)
 
 #### Original name
 Thelephora arachnoidea Berk. & Broome, 1875

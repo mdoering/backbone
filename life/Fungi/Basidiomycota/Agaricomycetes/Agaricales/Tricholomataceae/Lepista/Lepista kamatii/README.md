@@ -1,17 +1,16 @@
-Lepista kainati Sathe & Sasangan {?} SPECIES
-=======
+# Lepista kamatii Sathe & Sasangan {?} SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 47(19): 739 (1978)
 
 #### Original name
-Lepista kainati Sathe & Sasangan {?}
+Lepista kamatii Sathe & Sasangan {?}
 
 ### Remarks
 null

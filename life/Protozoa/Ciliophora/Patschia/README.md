@@ -1,5 +1,4 @@
-Patschia Small & Lynn, 1985 GENUS
-=======
+# Patschia Small & Lynn, 1985 GENUS
 
 #### Status
 ACCEPTED

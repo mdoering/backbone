@@ -1,5 +1,4 @@
-Pertusaria ludovicae Werner SPECIES
-=======
+# Pertusaria ludovicae Werner SPECIES
 
 #### Status
 ACCEPTED

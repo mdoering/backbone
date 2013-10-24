@@ -1,5 +1,4 @@
-Rickia sarawakensis Thaxt. SPECIES
-=======
+# Rickia sarawakensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schismatomma rediunta (Hasse) Tehler SPECIES
-=======
+# Schismatomma rediunta (Hasse) Tehler SPECIES
 
 #### Status
 ACCEPTED

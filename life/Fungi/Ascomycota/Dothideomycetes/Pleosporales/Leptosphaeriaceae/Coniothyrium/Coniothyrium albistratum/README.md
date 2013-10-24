@@ -1,5 +1,4 @@
-Coniothyrium albistratum (Peck) Sacc. SPECIES
-=======
+# Coniothyrium albistratum (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

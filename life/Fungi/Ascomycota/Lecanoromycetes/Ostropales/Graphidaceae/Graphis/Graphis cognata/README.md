@@ -1,5 +1,4 @@
-Graphis cognata Müll. Arg. SPECIES
-=======
+# Graphis cognata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

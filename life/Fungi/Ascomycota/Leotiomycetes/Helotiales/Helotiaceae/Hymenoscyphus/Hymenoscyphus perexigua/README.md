@@ -1,8 +1,7 @@
-Hymenoscypha perexigua J. Schröt. SPECIES
-=======
+# Hymenoscyphus perexigua J. Schröt. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hymenoscypha perexigua J. Schröt.
+Hymenoscyphus perexigua J. Schröt.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lacrymaria actinoboliformis Dumas, 1937 SPECIES
-=======
+# Lacrymaria actinoboliformis Dumas, 1937 SPECIES
 
 #### Status
 ACCEPTED

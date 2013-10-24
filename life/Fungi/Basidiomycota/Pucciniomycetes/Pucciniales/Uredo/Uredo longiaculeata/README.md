@@ -1,5 +1,4 @@
-Uredo longiaculeata Henn. SPECIES
-=======
+# Uredo longiaculeata Henn. SPECIES
 
 #### Status
 ACCEPTED

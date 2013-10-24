@@ -1,5 +1,4 @@
-Pestalotia javanica Guba SPECIES
-=======
+# Pestalotia javanica Guba SPECIES
 
 #### Status
 ACCEPTED

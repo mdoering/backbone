@@ -1,5 +1,4 @@
-Parmelia chloromela Ach. SPECIES
-=======
+# Parmelia chloromela Ach. SPECIES
 
 #### Status
 ACCEPTED

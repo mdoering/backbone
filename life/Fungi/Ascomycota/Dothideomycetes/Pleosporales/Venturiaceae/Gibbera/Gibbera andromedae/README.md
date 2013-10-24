@@ -1,14 +1,13 @@
-Ascospora andromedae (Rehm) Kuntze, 1898 SPECIES
-=======
+# Gibbera andromedae (Rehm) E. Müll. & Arx, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 444 (1898)
+Ber. schweiz. bot. Ges. 60: 368 (1950)
 
 #### Original name
 Trichosphaeria andromedae Rehm, 1881

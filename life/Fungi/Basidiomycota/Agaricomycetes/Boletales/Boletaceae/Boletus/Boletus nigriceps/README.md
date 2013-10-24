@@ -1,5 +1,4 @@
-Boletus nigriceps Herter SPECIES
-=======
+# Boletus nigriceps Herter SPECIES
 
 #### Status
 ACCEPTED

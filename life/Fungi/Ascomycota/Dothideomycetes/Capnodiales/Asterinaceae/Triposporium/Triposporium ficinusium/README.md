@@ -1,5 +1,4 @@
-Triposporium ficinusium Preuss SPECIES
-=======
+# Triposporium ficinusium Preuss SPECIES
 
 #### Status
 ACCEPTED

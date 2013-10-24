@@ -1,5 +1,4 @@
-Asperopilum Spooner GENUS
-=======
+# Asperopilum Spooner GENUS
 
 #### Status
 ACCEPTED

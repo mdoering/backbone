@@ -1,5 +1,4 @@
-Lentinus lagunensis P.W. Graff SPECIES
-=======
+# Lentinus lagunensis P.W. Graff SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Physalospora bifrons Starbäck, 1904 SPECIES
-=======
+# Phyllachora amphigena Speg., 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ark. Bot. 2(5): 17 (1904)
+Anal. Soc. cient. argent. 19: 92 (1885)
 
 #### Original name
-Physalospora bifrons Starbäck, 1904
+Phyllachora amphigena Speg., 1885
 
 ### Remarks
 null

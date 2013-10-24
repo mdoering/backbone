@@ -1,5 +1,4 @@
-Uromyces calystegiae (de Bary) Fuckel SPECIES
-=======
+# Uromyces calystegiae (de Bary) Fuckel SPECIES
 
 #### Status
 ACCEPTED

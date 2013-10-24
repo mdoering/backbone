@@ -1,5 +1,4 @@
-Trichosporon brocquii (Beintema) Nann. SPECIES
-=======
+# Trichosporon brocquii (Beintema) Nann. SPECIES
 
 #### Status
 ACCEPTED

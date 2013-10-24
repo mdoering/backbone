@@ -1,5 +1,4 @@
-Mucor conglomeratus Scholler SPECIES
-=======
+# Mucor conglomeratus Scholler SPECIES
 
 #### Status
 ACCEPTED

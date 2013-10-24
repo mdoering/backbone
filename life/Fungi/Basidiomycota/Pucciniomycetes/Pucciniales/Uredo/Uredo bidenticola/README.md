@@ -1,5 +1,4 @@
-Uredo bidenticola Henn. SPECIES
-=======
+# Uredo bidenticola Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea croceorubescens Vain. SPECIES
-=======
+# Usnea croceorubescens Vain. SPECIES
 
 #### Status
 ACCEPTED

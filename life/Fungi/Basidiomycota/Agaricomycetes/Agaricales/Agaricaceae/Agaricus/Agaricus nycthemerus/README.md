@@ -1,5 +1,4 @@
-Agaricus nycthemerus Pers. SPECIES
-=======
+# Agaricus nycthemerus Pers. SPECIES
 
 #### Status
 ACCEPTED

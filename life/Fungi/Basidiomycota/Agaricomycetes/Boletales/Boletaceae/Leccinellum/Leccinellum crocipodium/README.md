@@ -1,17 +1,16 @@
-Boletus crocipodius var. crocipodius VARIETY
-=======
+# Leccinellum crocipodium (Letell.) Bresinsky & Manfr. Binder, 2003 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hist. Champ. France (Paris) tab. 666 (1838)
+in Bresinsky & Besl, Regensb. Mykol. Schr. 11: 233 (2003)
 
 #### Original name
-Boletus crocipodius var. crocipodius
+Boletus crocipodius Letell., 1838
 
 ### Remarks
 null

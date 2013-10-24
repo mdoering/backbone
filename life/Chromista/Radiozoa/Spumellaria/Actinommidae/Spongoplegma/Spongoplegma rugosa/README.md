@@ -1,5 +1,4 @@
-Spongoplegma rugosa Hollande, 1960 SPECIES
-=======
+# Spongoplegma rugosa Hollande, 1960 SPECIES
 
 #### Status
 ACCEPTED

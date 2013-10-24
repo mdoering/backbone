@@ -1,5 +1,4 @@
-Cyathela Raf. GENUS
-=======
+# Cyathela Raf. GENUS
 
 #### Status
 ACCEPTED

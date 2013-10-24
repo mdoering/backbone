@@ -1,5 +1,4 @@
-Lepiota cretaceiformis Murrill SPECIES
-=======
+# Lepiota cretaceiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

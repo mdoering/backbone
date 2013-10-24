@@ -1,5 +1,4 @@
-Licmosphaenia clevei Mereschkowsky SPECIES
-=======
+# Licmosphaenia clevei Mereschkowsky SPECIES
 
 #### Status
 ACCEPTED

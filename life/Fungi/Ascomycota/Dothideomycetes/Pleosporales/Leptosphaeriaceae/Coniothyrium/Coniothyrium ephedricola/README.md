@@ -1,5 +1,4 @@
-Coniothyrium ephedricola Kravtzev SPECIES
-=======
+# Coniothyrium ephedricola Kravtzev SPECIES
 
 #### Status
 ACCEPTED

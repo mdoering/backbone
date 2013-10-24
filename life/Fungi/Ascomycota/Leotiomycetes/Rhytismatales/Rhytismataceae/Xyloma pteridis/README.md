@@ -1,5 +1,4 @@
-Xyloma pteridis Mart. SPECIES
-=======
+# Xyloma pteridis Mart. SPECIES
 
 #### Status
 ACCEPTED

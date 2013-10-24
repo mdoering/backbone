@@ -1,5 +1,4 @@
-Xylaria myrosimila Lloyd SPECIES
-=======
+# Xylaria myrosimila Lloyd SPECIES
 
 #### Status
 ACCEPTED

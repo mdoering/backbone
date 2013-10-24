@@ -1,5 +1,4 @@
-Laboulbenia agoni Sugiy. SPECIES
-=======
+# Laboulbenia agoni Sugiy. SPECIES
 
 #### Status
 ACCEPTED

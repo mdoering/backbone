@@ -1,5 +1,4 @@
-Biatorina wallrothii var. wallrothii VARIETY
-=======
+# Biatorina wallrothii SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Biatorina wallrothii var. wallrothii
+null
 
 ### Remarks
 null

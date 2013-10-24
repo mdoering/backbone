@@ -1,5 +1,4 @@
-Tulasnella balearica P. Roberts, 1996 SPECIES
-=======
+# Tulasnella balearica P. Roberts, 1996 SPECIES
 
 #### Status
 ACCEPTED

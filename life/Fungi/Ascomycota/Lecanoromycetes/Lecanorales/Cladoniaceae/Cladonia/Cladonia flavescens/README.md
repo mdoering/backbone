@@ -1,5 +1,4 @@
-Cladonia flavescens Vain. SPECIES
-=======
+# Cladonia flavescens Vain. SPECIES
 
 #### Status
 ACCEPTED

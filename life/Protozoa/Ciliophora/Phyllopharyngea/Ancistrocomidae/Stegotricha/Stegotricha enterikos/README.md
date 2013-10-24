@@ -1,5 +1,4 @@
-Stegotricha enterikos Bower & Meyer, 1993 SPECIES
-=======
+# Stegotricha enterikos Bower & Meyer, 1993 SPECIES
 
 #### Status
 ACCEPTED

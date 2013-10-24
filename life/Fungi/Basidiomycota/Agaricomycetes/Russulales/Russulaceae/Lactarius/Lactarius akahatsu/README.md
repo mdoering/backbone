@@ -1,5 +1,4 @@
-Lactarius akahatsu Nobuj. Tanaka SPECIES
-=======
+# Lactarius akahatsu Nobuj. Tanaka SPECIES
 
 #### Status
 ACCEPTED

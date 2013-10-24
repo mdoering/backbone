@@ -1,5 +1,4 @@
-Peziza miniata Schumach. SPECIES
-=======
+# Peziza miniata Schumach. SPECIES
 
 #### Status
 ACCEPTED

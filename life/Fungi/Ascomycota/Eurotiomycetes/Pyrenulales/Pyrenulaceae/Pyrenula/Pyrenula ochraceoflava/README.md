@@ -1,17 +1,16 @@
-Anthracothecium ochraceoflavum f. ochraceoflavum FORM
-=======
+# Pyrenula ochraceoflava (Nyl.) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mem. N. Y. bot. Gdn 49: 96 (1989)
 
 #### Original name
-Anthracothecium ochraceoflavum f. ochraceoflavum
+Verrucaria ochraceoflava Nyl.
 
 ### Remarks
 null

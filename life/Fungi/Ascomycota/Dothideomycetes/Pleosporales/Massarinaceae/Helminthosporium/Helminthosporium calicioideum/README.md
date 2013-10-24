@@ -1,17 +1,16 @@
-Helmisporium calicioideum Berk. & Broome SPECIES
-=======
+# Helminthosporium calicioideum Berk. & Broome SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 14(2): 98 (1875)
 
 #### Original name
-Helmisporium calicioideum Berk. & Broome
+Helminthosporium calicioideum Berk. & Broome
 
 ### Remarks
 null

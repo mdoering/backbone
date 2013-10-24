@@ -1,5 +1,4 @@
-Halobyssus moniliformis var. parasiticus Maffei VARIETY
-=======
+# Halobyssus moniliformis Zukal SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Öst. bot. Z. 43: (1893)
 
 #### Original name
-Halobyssus moniliformis var. parasiticus Maffei
+Halobyssus moniliformis Zukal
 
 ### Remarks
 null

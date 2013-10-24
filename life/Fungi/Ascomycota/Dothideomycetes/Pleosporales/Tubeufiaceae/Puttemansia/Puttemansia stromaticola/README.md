@@ -1,5 +1,4 @@
-Puttemansia stromaticola (Henn.) Rossman, 1987 SPECIES
-=======
+# Puttemansia stromaticola (Henn.) Rossman, 1987 SPECIES
 
 #### Status
 ACCEPTED

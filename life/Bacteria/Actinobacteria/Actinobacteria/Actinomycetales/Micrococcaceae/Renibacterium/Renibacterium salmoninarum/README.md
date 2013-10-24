@@ -1,5 +1,4 @@
-Renibacterium salmoninarum Sanders & Fryer, 1980 SPECIES
-=======
+# Renibacterium salmoninarum Sanders & Fryer, 1980 SPECIES
 
 #### Status
 ACCEPTED

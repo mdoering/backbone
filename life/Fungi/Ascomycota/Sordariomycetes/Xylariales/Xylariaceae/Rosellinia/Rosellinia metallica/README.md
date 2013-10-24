@@ -1,5 +1,4 @@
-Rosellinia metallica Hazsl. SPECIES
-=======
+# Rosellinia metallica Hazsl. SPECIES
 
 #### Status
 ACCEPTED

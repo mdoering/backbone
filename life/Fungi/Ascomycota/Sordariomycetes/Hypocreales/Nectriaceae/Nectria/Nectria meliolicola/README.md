@@ -1,5 +1,4 @@
-Nectria meliolicola F. Stevens SPECIES
-=======
+# Nectria meliolicola F. Stevens SPECIES
 
 #### Status
 ACCEPTED

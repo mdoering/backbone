@@ -1,5 +1,4 @@
-Cochlonema euryblastum Drechsler, 1942 SPECIES
-=======
+# Cochlonema euryblastum Drechsler, 1942 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plectocarpon venustum Ertz, Coppins & Diederich SPECIES
-=======
+# Plectocarpon venustum Ertz, Coppins & Diederich SPECIES
 
 #### Status
 ACCEPTED

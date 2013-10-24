@@ -1,5 +1,4 @@
-Diaporthe kyushuensis Kajitani & Kanem. SPECIES
-=======
+# Diaporthe kyushuensis Kajitani & Kanem. SPECIES
 
 #### Status
 ACCEPTED

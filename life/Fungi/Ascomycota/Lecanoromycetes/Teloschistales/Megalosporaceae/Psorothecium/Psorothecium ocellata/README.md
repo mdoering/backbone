@@ -1,5 +1,4 @@
-Psorothecium ocellata (Th. Fr.) Forssell SPECIES
-=======
+# Psorothecium ocellata (Th. Fr.) Forssell SPECIES
 
 #### Status
 ACCEPTED

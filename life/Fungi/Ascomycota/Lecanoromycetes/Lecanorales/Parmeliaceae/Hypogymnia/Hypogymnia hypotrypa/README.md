@@ -1,5 +1,4 @@
-Hypogymnia hypotrypa (Nyl.) Rass. SPECIES
-=======
+# Hypogymnia hypotrypa (Nyl.) Rass. SPECIES
 
 #### Status
 ACCEPTED

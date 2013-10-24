@@ -1,5 +1,4 @@
-Edythea soratensis Ritschel SPECIES
-=======
+# Edythea soratensis Ritschel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacillus schlegelii Schenk & Aragno, 1981 SPECIES
-=======
+# Bacillus schlegelii Schenk & Aragno, 1981 SPECIES
 
 #### Status
 ACCEPTED

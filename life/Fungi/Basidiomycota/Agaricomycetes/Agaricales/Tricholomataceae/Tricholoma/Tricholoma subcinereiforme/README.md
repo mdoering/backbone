@@ -1,5 +1,4 @@
-Tricholoma subcinereiforme (Murrill) Sacc. & Trotter SPECIES
-=======
+# Tricholoma subcinereiforme (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

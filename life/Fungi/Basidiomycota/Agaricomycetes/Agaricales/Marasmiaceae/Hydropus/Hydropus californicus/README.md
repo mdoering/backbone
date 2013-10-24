@@ -1,5 +1,4 @@
-Hydropus californicus Singer SPECIES
-=======
+# Hydropus californicus Singer SPECIES
 
 #### Status
 ACCEPTED

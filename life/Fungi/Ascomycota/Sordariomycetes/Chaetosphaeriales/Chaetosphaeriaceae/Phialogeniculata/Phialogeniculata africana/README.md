@@ -1,5 +1,4 @@
-Phialogeniculata africana Goh, K.D. Hyde & Steinke SPECIES
-=======
+# Phialogeniculata africana Goh, K.D. Hyde & Steinke SPECIES
 
 #### Status
 ACCEPTED

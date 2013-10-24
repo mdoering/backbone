@@ -1,5 +1,4 @@
-Thecaphora berkeleyana A.A. Fisch. Waldh. SPECIES
-=======
+# Thecaphora berkeleyana A.A. Fisch. Waldh. SPECIES
 
 #### Status
 ACCEPTED

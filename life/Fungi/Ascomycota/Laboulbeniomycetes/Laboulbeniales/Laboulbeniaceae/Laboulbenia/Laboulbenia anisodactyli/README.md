@@ -1,5 +1,4 @@
-Laboulbenia anisodactyli Speg. SPECIES
-=======
+# Laboulbenia anisodactyli Speg. SPECIES
 
 #### Status
 ACCEPTED

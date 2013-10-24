@@ -1,5 +1,4 @@
-Pestalozzina punicae Hüseyin SPECIES
-=======
+# Pestalozzina punicae Hüseyin SPECIES
 
 #### Status
 ACCEPTED

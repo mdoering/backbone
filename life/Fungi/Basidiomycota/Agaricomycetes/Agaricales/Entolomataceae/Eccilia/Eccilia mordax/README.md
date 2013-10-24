@@ -1,5 +1,4 @@
-Eccilia mordax G.F. Atk. SPECIES
-=======
+# Eccilia mordax G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

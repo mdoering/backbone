@@ -1,5 +1,4 @@
-Porusphaera Jiabo, 1978 GENUS
-=======
+# Porusphaera Jiabo, 1978 GENUS
 
 #### Status
 ACCEPTED

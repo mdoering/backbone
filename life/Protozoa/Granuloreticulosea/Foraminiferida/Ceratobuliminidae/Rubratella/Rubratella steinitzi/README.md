@@ -1,5 +1,4 @@
-Rubratella steinitzi Pawlowski & Lee, 1991 SPECIES
-=======
+# Rubratella steinitzi Pawlowski & Lee, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliolina sydowiana F. Stevens, 1925 SPECIES
-=======
+# Meliolina sydowiana F. Stevens, 1925 SPECIES
 
 #### Status
 ACCEPTED

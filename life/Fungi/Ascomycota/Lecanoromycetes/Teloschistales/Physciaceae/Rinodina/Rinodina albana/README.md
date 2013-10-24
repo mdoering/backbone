@@ -1,5 +1,4 @@
-Rinodina albana (A. Massal.) A. Massal. SPECIES
-=======
+# Rinodina albana (A. Massal.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

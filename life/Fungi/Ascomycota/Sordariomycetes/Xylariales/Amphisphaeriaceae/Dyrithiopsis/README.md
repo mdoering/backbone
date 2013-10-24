@@ -1,5 +1,4 @@
-Dyrithiopsis L. Cai, R. Jeewon & K.D. Hyde GENUS
-=======
+# Dyrithiopsis L. Cai, R. Jeewon & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

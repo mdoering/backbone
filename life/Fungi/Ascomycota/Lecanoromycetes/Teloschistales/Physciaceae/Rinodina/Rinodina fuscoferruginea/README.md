@@ -1,5 +1,4 @@
-Rinodina fuscoferruginea SPECIES
-=======
+# Rinodina fuscoferruginea SPECIES
 
 #### Status
 ACCEPTED

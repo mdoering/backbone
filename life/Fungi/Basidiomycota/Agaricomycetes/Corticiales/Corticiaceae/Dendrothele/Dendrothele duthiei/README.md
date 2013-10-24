@@ -1,8 +1,7 @@
-Epithele duthiei (P.H.B. Talbot) Boidin, Lanq. & Duhem, 1996 SPECIES
-=======
+# Dendrothele duthiei P.H.B. Talbot, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

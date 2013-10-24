@@ -1,5 +1,4 @@
-Rhynchomeliola quercina Marinc. & M.E. Barr SPECIES
-=======
+# Rhynchomeliola quercina Marinc. & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

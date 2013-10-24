@@ -1,5 +1,4 @@
-Eriomycopsis robusta Hansf. SPECIES
-=======
+# Eriomycopsis robusta Hansf. SPECIES
 
 #### Status
 ACCEPTED

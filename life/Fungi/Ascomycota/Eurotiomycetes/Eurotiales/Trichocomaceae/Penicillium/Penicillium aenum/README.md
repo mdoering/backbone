@@ -1,5 +1,4 @@
-Penicillium aenum SPECIES
-=======
+# Penicillium aenum SPECIES
 
 #### Status
 ACCEPTED

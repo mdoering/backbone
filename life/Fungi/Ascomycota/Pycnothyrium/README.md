@@ -1,5 +1,4 @@
-Pycnothyrium Died. GENUS
-=======
+# Pycnothyrium Died. GENUS
 
 #### Status
 ACCEPTED

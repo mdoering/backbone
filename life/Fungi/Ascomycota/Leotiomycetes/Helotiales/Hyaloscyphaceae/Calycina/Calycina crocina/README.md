@@ -1,5 +1,4 @@
-Calycina crocina (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Calycina crocina (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

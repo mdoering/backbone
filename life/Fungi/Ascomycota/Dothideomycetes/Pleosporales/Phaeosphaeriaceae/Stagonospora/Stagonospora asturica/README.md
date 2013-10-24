@@ -1,5 +1,4 @@
-Stagonospora asturica Unamuno SPECIES
-=======
+# Stagonospora asturica Unamuno SPECIES
 
 #### Status
 ACCEPTED

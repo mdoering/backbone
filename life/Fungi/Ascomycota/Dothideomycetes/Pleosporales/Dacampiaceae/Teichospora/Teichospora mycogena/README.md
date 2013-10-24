@@ -1,5 +1,4 @@
-Teichospora mycogena Ellis & Everh. SPECIES
-=======
+# Teichospora mycogena Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula diffusa var. diffusa VARIETY
-=======
+# Russula diffusa Buyck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Jard. Bot. Nat. Belg. 58(3-4): 473 (1988)
 
 #### Original name
-Russula diffusa var. diffusa
+Russula diffusa Buyck
 
 ### Remarks
 null

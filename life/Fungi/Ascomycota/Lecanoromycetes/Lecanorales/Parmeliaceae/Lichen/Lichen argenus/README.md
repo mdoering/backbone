@@ -1,5 +1,4 @@
-Lichen argenus (Ach.) Sm. & Sowerby SPECIES
-=======
+# Lichen argenus (Ach.) Sm. & Sowerby SPECIES
 
 #### Status
 ACCEPTED

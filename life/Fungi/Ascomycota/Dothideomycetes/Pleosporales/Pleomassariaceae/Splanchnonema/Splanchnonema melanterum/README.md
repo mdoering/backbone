@@ -1,5 +1,4 @@
-Splanchnonema melanterum (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Splanchnonema melanterum (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phacidium clematidis W. Phillips, 1888 SPECIES
-=======
+# Karstenia clematidis (W. Phillips) Sherwood, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 17(no. 82): 46 (1888)
+Occ. Pap. Farlow Herb. Crypt. Bot. 15: 109 (1980)
 
 #### Original name
 Phacidium clematidis W. Phillips, 1888

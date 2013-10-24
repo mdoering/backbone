@@ -1,5 +1,4 @@
-Arthonia translucens Stirt. SPECIES
-=======
+# Arthonia translucens Stirt. SPECIES
 
 #### Status
 ACCEPTED

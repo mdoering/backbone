@@ -1,5 +1,4 @@
-Arecophila calamicola K.D. Hyde SPECIES
-=======
+# Arecophila calamicola K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremella bambusina Sacc. SPECIES
-=======
+# Tremella bambusina Sacc. SPECIES
 
 #### Status
 ACCEPTED

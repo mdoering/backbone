@@ -1,5 +1,4 @@
-Torula adnata Fuckel SPECIES
-=======
+# Torula adnata Fuckel SPECIES
 
 #### Status
 ACCEPTED

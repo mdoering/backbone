@@ -1,5 +1,4 @@
-Uromyces fragilipes Tranzschel SPECIES
-=======
+# Uromyces fragilipes Tranzschel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria pachnostoma Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria pachnostoma Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

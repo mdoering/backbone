@@ -1,5 +1,4 @@
-Phellinus eugeniae T.T. Chang SPECIES
-=======
+# Phellinus eugeniae T.T. Chang SPECIES
 
 #### Status
 ACCEPTED

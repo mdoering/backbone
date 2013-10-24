@@ -1,5 +1,4 @@
-Smittium commune Lichtw. & Grigg, 1998 SPECIES
-=======
+# Smittium commune Lichtw. & Grigg, 1998 SPECIES
 
 #### Status
 ACCEPTED

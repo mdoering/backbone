@@ -1,5 +1,4 @@
-Artocapsa Haeckel, 1881 GENUS
-=======
+# Artocapsa Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia temperei Balazuc SPECIES
-=======
+# Laboulbenia temperei Balazuc SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Capriniana liaohoensis (Chen, 1984) Jankowski, 1992 SPECIES
-=======
+# Capriniana liaohoensis (Chen, 1984) Jankowski, 1992 SPECIES
 
 #### Status
 ACCEPTED

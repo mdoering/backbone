@@ -1,14 +1,13 @@
-Schismatomma congerens (Nyl.) Zahlbr. SPECIES
-=======
+# Platygrapha congerens Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 2: 555 (1923)
+Annls Sci. Nat. , Bot. , sér. 5 7: 339 (1867)
 
 #### Original name
 Platygrapha congerens Nyl.

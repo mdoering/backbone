@@ -1,5 +1,4 @@
-Leptosphaeria shastensis Shoemaker SPECIES
-=======
+# Leptosphaeria shastensis Shoemaker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geopyxis flavidula Velen. SPECIES
-=======
+# Geopyxis flavidula Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vorticella globosa Ghosh, 1925 SPECIES
-=======
+# Vorticella globosa Ghosh, 1925 SPECIES
 
 #### Status
 ACCEPTED

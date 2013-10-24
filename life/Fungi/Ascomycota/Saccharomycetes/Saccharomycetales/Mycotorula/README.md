@@ -1,5 +1,4 @@
-Mycotorula GENUS
-=======
+# Mycotorula GENUS
 
 #### Status
 ACCEPTED

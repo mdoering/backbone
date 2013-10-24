@@ -1,5 +1,4 @@
-Asterella parmularia Henn. SPECIES
-=======
+# Asterella parmularia Henn. SPECIES
 
 #### Status
 ACCEPTED

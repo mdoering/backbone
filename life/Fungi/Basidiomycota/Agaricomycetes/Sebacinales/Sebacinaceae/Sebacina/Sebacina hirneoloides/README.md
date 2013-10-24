@@ -1,5 +1,4 @@
-Sebacina hirneoloides Pat. SPECIES
-=======
+# Sebacina hirneoloides Pat. SPECIES
 
 #### Status
 ACCEPTED

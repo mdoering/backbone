@@ -1,5 +1,4 @@
-Hirsutella clavispora (Petch) Petch SPECIES
-=======
+# Hirsutella clavispora (Petch) Petch SPECIES
 
 #### Status
 ACCEPTED

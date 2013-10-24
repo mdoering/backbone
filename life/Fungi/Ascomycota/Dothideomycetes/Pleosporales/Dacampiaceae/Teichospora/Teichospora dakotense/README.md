@@ -1,5 +1,4 @@
-Teichospora dakotense Brenckle SPECIES
-=======
+# Teichospora dakotense Brenckle SPECIES
 
 #### Status
 ACCEPTED

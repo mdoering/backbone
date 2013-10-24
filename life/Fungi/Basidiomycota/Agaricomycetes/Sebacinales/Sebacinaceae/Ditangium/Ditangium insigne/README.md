@@ -1,5 +1,4 @@
-Ditangium insigne P. Karst., 1870 SPECIES
-=======
+# Ditangium insigne P. Karst., 1870 SPECIES
 
 #### Status
 ACCEPTED

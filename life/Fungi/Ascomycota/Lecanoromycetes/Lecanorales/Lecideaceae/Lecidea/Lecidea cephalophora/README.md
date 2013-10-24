@@ -1,5 +1,4 @@
-Lecidea cephalophora I.M. Lamb SPECIES
-=======
+# Lecidea cephalophora I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

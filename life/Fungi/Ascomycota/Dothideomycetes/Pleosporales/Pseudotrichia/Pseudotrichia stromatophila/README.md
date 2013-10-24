@@ -1,5 +1,4 @@
-Pseudotrichia stromatophila Kirschst., 1939 SPECIES
-=======
+# Pseudotrichia stromatophila Kirschst., 1939 SPECIES
 
 #### Status
 ACCEPTED

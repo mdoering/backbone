@@ -1,5 +1,4 @@
-Scyphosphaera apsteinii Lohmann SPECIES
-=======
+# Scyphosphaera apsteinii Lohmann SPECIES
 
 #### Status
 ACCEPTED

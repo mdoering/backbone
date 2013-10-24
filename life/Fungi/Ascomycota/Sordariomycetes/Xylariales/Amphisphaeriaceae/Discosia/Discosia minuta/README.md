@@ -1,5 +1,4 @@
-Discosia minuta Ces. SPECIES
-=======
+# Discosia minuta Ces. SPECIES
 
 #### Status
 ACCEPTED

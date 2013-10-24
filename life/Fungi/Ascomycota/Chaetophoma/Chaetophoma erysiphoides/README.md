@@ -1,5 +1,4 @@
-Chaetophoma erysiphoides Griffon & Maubl. SPECIES
-=======
+# Chaetophoma erysiphoides Griffon & Maubl. SPECIES
 
 #### Status
 ACCEPTED

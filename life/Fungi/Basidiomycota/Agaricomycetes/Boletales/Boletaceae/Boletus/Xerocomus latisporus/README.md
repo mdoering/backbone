@@ -1,5 +1,4 @@
-Xerocomus latisporus Heinem. SPECIES
-=======
+# Xerocomus latisporus Heinem. SPECIES
 
 #### Status
 ACCEPTED

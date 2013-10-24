@@ -1,5 +1,4 @@
-Scoresbyellaceae Womersley, 1987 FAMILY
-=======
+# Scoresbyellaceae Womersley, 1987 FAMILY
 
 #### Status
 ACCEPTED

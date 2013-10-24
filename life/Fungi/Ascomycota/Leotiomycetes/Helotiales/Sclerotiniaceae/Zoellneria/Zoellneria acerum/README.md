@@ -1,5 +1,4 @@
-Zoellneria acerum Velen. SPECIES
-=======
+# Zoellneria acerum Velen. SPECIES
 
 #### Status
 ACCEPTED

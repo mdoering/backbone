@@ -1,5 +1,4 @@
-Pucciniola aureus (Dietel & Holw.) Arthur SPECIES
-=======
+# Pucciniola aureus (Dietel & Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

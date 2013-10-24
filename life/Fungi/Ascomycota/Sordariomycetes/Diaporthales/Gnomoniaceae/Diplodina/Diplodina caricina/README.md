@@ -1,5 +1,4 @@
-Diplodina caricina Petr. SPECIES
-=======
+# Diplodina caricina Petr. SPECIES
 
 #### Status
 ACCEPTED

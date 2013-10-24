@@ -1,5 +1,4 @@
-Pichia gentianae Guyot SPECIES
-=======
+# Pichia gentianae Guyot SPECIES
 
 #### Status
 ACCEPTED

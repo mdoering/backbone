@@ -1,5 +1,4 @@
-Triadelphia Shearer & J.L. Crane GENUS
-=======
+# Triadelphia Shearer & J.L. Crane GENUS
 
 #### Status
 ACCEPTED

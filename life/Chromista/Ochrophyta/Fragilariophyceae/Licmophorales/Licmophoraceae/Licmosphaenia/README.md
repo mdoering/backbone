@@ -1,5 +1,4 @@
-Licmosphaenia GENUS
-=======
+# Licmosphaenia GENUS
 
 #### Status
 ACCEPTED

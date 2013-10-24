@@ -1,5 +1,4 @@
-Pyricularia costina Sarbajna, 1990 SPECIES
-=======
+# Pyricularia costina Sarbajna, 1990 SPECIES
 
 #### Status
 ACCEPTED

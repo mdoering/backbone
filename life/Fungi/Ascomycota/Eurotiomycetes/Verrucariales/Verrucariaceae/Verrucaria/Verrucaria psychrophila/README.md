@@ -1,5 +1,4 @@
-Verrucaria psychrophila I.M. Lamb SPECIES
-=======
+# Verrucaria psychrophila I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

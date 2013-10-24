@@ -1,17 +1,16 @@
-Cantharellus hrabanovi Velen. SPECIES
-=======
+# Cantharellus hrabanovii Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mykologia (Prague) 3: 76 (1926)
 
 #### Original name
-Cantharellus hrabanovi Velen.
+Cantharellus hrabanovii Velen.
 
 ### Remarks
 null

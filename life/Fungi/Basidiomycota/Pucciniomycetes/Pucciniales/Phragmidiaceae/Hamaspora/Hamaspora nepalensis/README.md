@@ -1,5 +1,4 @@
-Hamaspora nepalensis Durrieu, 1975 SPECIES
-=======
+# Hamaspora nepalensis Durrieu, 1975 SPECIES
 
 #### Status
 ACCEPTED

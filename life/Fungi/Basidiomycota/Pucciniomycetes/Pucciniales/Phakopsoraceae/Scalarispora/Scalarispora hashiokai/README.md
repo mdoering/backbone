@@ -1,17 +1,16 @@
-Pucciniostele hashiokai (Hirats. f.) Cummins, 1951 SPECIES
-=======
+# Scalarispora hashiokai (Hirats. f.) Buriticá & J.F. Hennen, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revta Acad. colomb. cienc. exact. fís. nat. 19(no. 72): 61 (1994)
 
 #### Original name
-null
+Cerotelium hashiokai Hirats. f., 1937
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Pleurotus chioneus f. chioneus FORM
-=======
+# Pleurotellus chioneus (Pers.) Kühner, 1926 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Le Botaniste 17: 114 (1926)
 
 #### Original name
-null
+Agaricus variabilis chioneus Pers., 1828
 
 ### Remarks
 null

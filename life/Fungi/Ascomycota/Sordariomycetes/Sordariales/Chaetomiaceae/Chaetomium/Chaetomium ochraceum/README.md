@@ -1,5 +1,4 @@
-Chaetomium ochraceum Tschudy SPECIES
-=======
+# Chaetomium ochraceum Tschudy SPECIES
 
 #### Status
 ACCEPTED

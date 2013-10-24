@@ -1,5 +1,4 @@
-Ripartites P. Karsten, 1879 GENUS
-=======
+# Ripartites P. Karsten, 1879 GENUS
 
 #### Status
 ACCEPTED

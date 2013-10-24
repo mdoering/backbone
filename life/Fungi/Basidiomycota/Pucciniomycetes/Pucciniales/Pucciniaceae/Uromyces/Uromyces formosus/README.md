@@ -1,5 +1,4 @@
-Uromyces formosus Syd. & P. Syd. SPECIES
-=======
+# Uromyces formosus Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

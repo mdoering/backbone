@@ -1,5 +1,4 @@
-Radiolithus planus Stover, 1966 SPECIES
-=======
+# Radiolithus planus Stover, 1966 SPECIES
 
 #### Status
 ACCEPTED

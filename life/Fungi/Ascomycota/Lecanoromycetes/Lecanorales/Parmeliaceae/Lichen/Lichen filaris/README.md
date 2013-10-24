@@ -1,5 +1,4 @@
-Lichen filaris Ach. SPECIES
-=======
+# Lichen filaris Ach. SPECIES
 
 #### Status
 ACCEPTED

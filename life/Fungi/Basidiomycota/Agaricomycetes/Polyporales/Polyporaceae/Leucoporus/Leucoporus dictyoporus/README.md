@@ -1,5 +1,4 @@
-Leucoporus dictyoporus Pat. SPECIES
-=======
+# Leucoporus dictyoporus Pat. SPECIES
 
 #### Status
 ACCEPTED

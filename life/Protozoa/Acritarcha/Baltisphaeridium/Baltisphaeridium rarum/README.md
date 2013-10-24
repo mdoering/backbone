@@ -1,5 +1,4 @@
-Baltisphaeridium rarum Sheshegova, 1984 SPECIES
-=======
+# Baltisphaeridium rarum Sheshegova, 1984 SPECIES
 
 #### Status
 ACCEPTED

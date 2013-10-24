@@ -1,5 +1,4 @@
-Chrysiogenes Macy et al., 1996 GENUS
-=======
+# Chrysiogenes Macy et al., 1996 GENUS
 
 #### Status
 ACCEPTED

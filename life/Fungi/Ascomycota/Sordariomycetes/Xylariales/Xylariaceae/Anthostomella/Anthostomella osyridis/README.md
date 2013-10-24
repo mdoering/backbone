@@ -1,5 +1,4 @@
-Anthostomella osyridis Bubák SPECIES
-=======
+# Anthostomella osyridis Bubák SPECIES
 
 #### Status
 ACCEPTED

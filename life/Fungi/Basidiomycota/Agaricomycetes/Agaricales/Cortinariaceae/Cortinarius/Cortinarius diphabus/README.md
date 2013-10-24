@@ -1,5 +1,4 @@
-Cortinarius diphabus SPECIES
-=======
+# Cortinarius diphabus SPECIES
 
 #### Status
 ACCEPTED

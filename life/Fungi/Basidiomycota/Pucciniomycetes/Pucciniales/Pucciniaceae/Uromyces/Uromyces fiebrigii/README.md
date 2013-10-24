@@ -1,5 +1,4 @@
-Uromyces fiebrigii Henn. & Vestergr. SPECIES
-=======
+# Uromyces fiebrigii Henn. & Vestergr. SPECIES
 
 #### Status
 ACCEPTED

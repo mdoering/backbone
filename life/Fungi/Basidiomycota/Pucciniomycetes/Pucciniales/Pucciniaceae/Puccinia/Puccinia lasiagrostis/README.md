@@ -1,5 +1,4 @@
-Puccinia lasiagrostis Tranzschel SPECIES
-=======
+# Puccinia lasiagrostis Tranzschel SPECIES
 
 #### Status
 ACCEPTED

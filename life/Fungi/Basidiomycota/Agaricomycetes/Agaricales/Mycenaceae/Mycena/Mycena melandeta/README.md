@@ -1,5 +1,4 @@
-Mycena melandeta Singer SPECIES
-=======
+# Mycena melandeta Singer SPECIES
 
 #### Status
 ACCEPTED

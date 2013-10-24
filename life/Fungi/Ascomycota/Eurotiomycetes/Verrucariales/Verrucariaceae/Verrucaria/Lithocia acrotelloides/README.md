@@ -1,5 +1,4 @@
-Lithocia acrotelloides (A. Massal.) A. Massal. SPECIES
-=======
+# Lithocia acrotelloides (A. Massal.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brachyosoma brachypoda subsp. brachypoda (Stokes, 1885) Batisse, 1975 SUBSPECIES
-=======
+# Brachyosoma brachypoda Stokes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phloeospora parcissima Höhn. SPECIES
-=======
+# Phloeospora parcissima Höhn. SPECIES
 
 #### Status
 ACCEPTED

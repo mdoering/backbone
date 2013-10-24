@@ -1,5 +1,4 @@
-Aplanosporites R.K. Kar GENUS
-=======
+# Aplanosporites R.K. Kar GENUS
 
 #### Status
 ACCEPTED

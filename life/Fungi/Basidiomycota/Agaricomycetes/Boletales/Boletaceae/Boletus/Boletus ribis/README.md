@@ -1,5 +1,4 @@
-Boletus ribis Pers. ex DC. SPECIES
-=======
+# Boletus ribis Pers. ex DC. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius ungularis E. Horak & M.M. Moser SPECIES
-=======
+# Cortinarius ungularis E. Horak & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

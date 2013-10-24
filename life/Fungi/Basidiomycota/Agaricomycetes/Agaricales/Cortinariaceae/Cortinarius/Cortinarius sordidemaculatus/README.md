@@ -1,5 +1,4 @@
-Cortinarius sordidemaculatus Rob. Henry SPECIES
-=======
+# Cortinarius sordidemaculatus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

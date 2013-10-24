@@ -1,5 +1,4 @@
-Leptosphaeria oriophora Sacc. SPECIES
-=======
+# Leptosphaeria oriophora Sacc. SPECIES
 
 #### Status
 ACCEPTED

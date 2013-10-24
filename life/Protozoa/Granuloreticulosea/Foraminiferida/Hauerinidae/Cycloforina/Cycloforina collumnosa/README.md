@@ -1,5 +1,4 @@
-Cycloforina collumnosa (Cushman, 1922) SPECIES
-=======
+# Cycloforina collumnosa (Cushman, 1922) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptomeliola quercina (Pat.) Höhn. SPECIES
-=======
+# Leptomeliola quercina (Pat.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

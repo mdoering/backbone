@@ -1,5 +1,4 @@
-Spadicoides mitrata (Penz. & Sacc.) S. Hughes SPECIES
-=======
+# Spadicoides mitrata (Penz. & Sacc.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

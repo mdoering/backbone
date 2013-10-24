@@ -1,5 +1,4 @@
-Xanthoparmelia tuckeriana Elix & T. H. Nash SPECIES
-=======
+# Xanthoparmelia tuckeriana Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parapeltella leptosphaerioides (Speg.) Bat. SPECIES
-=======
+# Parapeltella leptosphaerioides (Speg.) Bat. SPECIES
 
 #### Status
 ACCEPTED

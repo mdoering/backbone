@@ -1,5 +1,4 @@
-Polystictus hunteri Lloyd SPECIES
-=======
+# Polystictus hunteri Lloyd SPECIES
 
 #### Status
 ACCEPTED

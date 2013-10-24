@@ -1,5 +1,4 @@
-Leptosphaeria eremophila (Speg.) Sacc. & Trotter SPECIES
-=======
+# Leptosphaeria eremophila (Speg.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

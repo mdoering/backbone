@@ -1,5 +1,4 @@
-Winterella yerbae Speg. SPECIES
-=======
+# Winterella yerbae Speg. SPECIES
 
 #### Status
 ACCEPTED

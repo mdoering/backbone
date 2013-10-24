@@ -1,5 +1,4 @@
-Lecidella placodina (Nyl.) Hertel SPECIES
-=======
+# Lecidella placodina (Nyl.) Hertel SPECIES
 
 #### Status
 ACCEPTED

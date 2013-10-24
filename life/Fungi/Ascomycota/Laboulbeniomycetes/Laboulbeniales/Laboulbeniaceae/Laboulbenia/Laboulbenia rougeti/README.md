@@ -1,5 +1,4 @@
-Laboulbenia rougeti var. rougeti VARIETY
-=======
+# Laboulbenia rougeti Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Laboulbenia rougeti var. rougeti
+Laboulbenia rougeti Speg.
 
 ### Remarks
 null

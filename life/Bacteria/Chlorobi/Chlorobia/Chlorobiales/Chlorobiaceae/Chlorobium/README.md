@@ -1,14 +1,13 @@
-Chlorochromatium GENUS
-=======
+# Chlorobium GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Jard. Bot. St. Petersburg 6: 190.
 
 #### Original name
 null

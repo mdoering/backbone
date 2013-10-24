@@ -1,5 +1,4 @@
-Lepiota saatiensis Henn. SPECIES
-=======
+# Lepiota saatiensis Henn. SPECIES
 
 #### Status
 ACCEPTED

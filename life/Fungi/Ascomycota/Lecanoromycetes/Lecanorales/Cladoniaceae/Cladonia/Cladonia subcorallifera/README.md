@@ -1,5 +1,4 @@
-Cladonia subcorallifera Vain. SPECIES
-=======
+# Cladonia subcorallifera Vain. SPECIES
 
 #### Status
 ACCEPTED

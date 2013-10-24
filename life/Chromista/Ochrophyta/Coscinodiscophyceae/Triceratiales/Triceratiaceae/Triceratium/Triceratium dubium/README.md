@@ -1,5 +1,4 @@
-Triceratium dubium Brightwell SPECIES
-=======
+# Triceratium dubium Brightwell SPECIES
 
 #### Status
 ACCEPTED

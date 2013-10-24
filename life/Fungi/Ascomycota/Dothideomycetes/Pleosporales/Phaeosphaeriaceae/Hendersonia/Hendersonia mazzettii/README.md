@@ -1,5 +1,4 @@
-Hendersonia mazzettii Petr. SPECIES
-=======
+# Hendersonia mazzettii Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora frigidodeserticola N.S. Golubk. SPECIES
-=======
+# Acarospora frigidodeserticola N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

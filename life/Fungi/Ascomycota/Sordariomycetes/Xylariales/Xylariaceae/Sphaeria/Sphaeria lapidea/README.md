@@ -1,5 +1,4 @@
-Sphaeria lapidea Lesq. SPECIES
-=======
+# Sphaeria lapidea Lesq. SPECIES
 
 #### Status
 ACCEPTED

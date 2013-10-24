@@ -1,5 +1,4 @@
-Phomatospora moravica Petr. SPECIES
-=======
+# Phomatospora moravica Petr. SPECIES
 
 #### Status
 ACCEPTED

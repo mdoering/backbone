@@ -1,5 +1,4 @@
-Levenia Ueno, 1991 GENUS
-=======
+# Levenia Ueno, 1991 GENUS
 
 #### Status
 ACCEPTED

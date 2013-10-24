@@ -1,5 +1,4 @@
-Salinispora Maldonado et al., 2005 GENUS
-=======
+# Salinispora Maldonado et al., 2005 GENUS
 
 #### Status
 ACCEPTED

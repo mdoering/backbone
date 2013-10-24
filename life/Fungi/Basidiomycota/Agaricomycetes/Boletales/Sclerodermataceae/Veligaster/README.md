@@ -1,5 +1,4 @@
-Veligaster GENUS
-=======
+# Veligaster GENUS
 
 #### Status
 ACCEPTED

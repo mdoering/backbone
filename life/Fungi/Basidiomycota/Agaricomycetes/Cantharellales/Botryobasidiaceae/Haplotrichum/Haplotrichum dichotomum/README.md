@@ -1,5 +1,4 @@
-Haplotrichum dichotomum Sacc. SPECIES
-=======
+# Haplotrichum dichotomum Sacc. SPECIES
 
 #### Status
 ACCEPTED

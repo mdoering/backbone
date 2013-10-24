@@ -1,5 +1,4 @@
-Parasphaeropsis shearii Petr., 1953 SPECIES
-=======
+# Parasphaeropsis shearii Petr., 1953 SPECIES
 
 #### Status
 ACCEPTED

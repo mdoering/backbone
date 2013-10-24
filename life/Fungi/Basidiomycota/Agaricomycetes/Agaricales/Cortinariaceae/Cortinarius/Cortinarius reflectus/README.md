@@ -1,5 +1,4 @@
-Cortinarius reflectus Britzelm. SPECIES
-=======
+# Cortinarius reflectus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

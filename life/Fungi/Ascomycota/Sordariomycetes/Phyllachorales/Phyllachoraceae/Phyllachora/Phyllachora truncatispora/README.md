@@ -1,5 +1,4 @@
-Phyllachora truncatispora var. macrocarpa Bat. & Peres, 1967 VARIETY
-=======
+# Phyllachora truncatispora SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Batista, Peres & Maia, Atas Inst. Micol. Univ. Recife 4: 71 (1967)
+null
 
 #### Original name
-Phyllachora truncatispora var. macrocarpa Bat. & Peres, 1967
+null
 
 ### Remarks
 null

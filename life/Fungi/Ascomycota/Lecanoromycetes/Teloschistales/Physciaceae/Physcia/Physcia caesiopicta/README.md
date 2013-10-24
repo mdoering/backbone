@@ -1,5 +1,4 @@
-Physcia caesiopicta Nyl. SPECIES
-=======
+# Physcia caesiopicta Nyl. SPECIES
 
 #### Status
 ACCEPTED

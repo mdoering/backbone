@@ -1,5 +1,4 @@
-Hendersonia kudschurica Petr. SPECIES
-=======
+# Hendersonia kudschurica Petr. SPECIES
 
 #### Status
 ACCEPTED

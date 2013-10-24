@@ -1,5 +1,4 @@
-Arthrobotryum strychni Henn. SPECIES
-=======
+# Arthrobotryum strychni Henn. SPECIES
 
 #### Status
 ACCEPTED

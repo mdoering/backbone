@@ -1,5 +1,4 @@
-Lecanora kansuensis H. Magn. SPECIES
-=======
+# Lecanora kansuensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

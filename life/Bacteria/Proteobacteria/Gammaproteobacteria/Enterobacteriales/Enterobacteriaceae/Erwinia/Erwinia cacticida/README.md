@@ -1,5 +1,4 @@
-Erwinia cacticida Alcorn et al., 1991 SPECIES
-=======
+# Erwinia cacticida Alcorn et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

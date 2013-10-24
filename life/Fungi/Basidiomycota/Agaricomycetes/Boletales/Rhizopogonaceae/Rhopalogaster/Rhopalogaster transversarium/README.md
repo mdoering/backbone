@@ -1,5 +1,4 @@
-Rhopalogaster transversarium (Bosc) J.R. Johnst. SPECIES
-=======
+# Rhopalogaster transversarium (Bosc) J.R. Johnst. SPECIES
 
 #### Status
 ACCEPTED

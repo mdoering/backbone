@@ -1,5 +1,4 @@
-Stereum lacunosum Velen. SPECIES
-=======
+# Stereum lacunosum Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Roccellina mollis (Hampe) Tehler SPECIES
-=======
+# Roccellina mollis (Hampe) Tehler SPECIES
 
 #### Status
 ACCEPTED

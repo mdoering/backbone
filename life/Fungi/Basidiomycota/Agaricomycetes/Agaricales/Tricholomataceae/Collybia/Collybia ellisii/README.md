@@ -1,5 +1,4 @@
-Collybia ellisii (Murrill) Murrill SPECIES
-=======
+# Collybia ellisii (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

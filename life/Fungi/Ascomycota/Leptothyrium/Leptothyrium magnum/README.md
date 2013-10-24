@@ -1,5 +1,4 @@
-Leptothyrium magnum Speg. SPECIES
-=======
+# Leptothyrium magnum Speg. SPECIES
 
 #### Status
 ACCEPTED

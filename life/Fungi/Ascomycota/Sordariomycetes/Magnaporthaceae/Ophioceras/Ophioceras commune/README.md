@@ -1,5 +1,4 @@
-Ophioceras commune Shearer, J.L. Crane & W. Chen SPECIES
-=======
+# Ophioceras commune Shearer, J.L. Crane & W. Chen SPECIES
 
 #### Status
 ACCEPTED

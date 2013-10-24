@@ -1,5 +1,4 @@
-Exophiala dopicola Katz & McGinnis, 1980 SPECIES
-=======
+# Exophiala dopicola Katz & McGinnis, 1980 SPECIES
 
 #### Status
 ACCEPTED

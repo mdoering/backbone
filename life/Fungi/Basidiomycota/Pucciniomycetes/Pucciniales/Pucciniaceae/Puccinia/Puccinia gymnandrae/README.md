@@ -1,5 +1,4 @@
-Puccinia gymnandrae subsp. gymnandrae SUBSPECIES
-=======
+# Puccinia gymnandrae Tranzschel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Scripta Bot. Horti Univ. Imper. Petrop. 3: 137 (1891)
 
 #### Original name
-Puccinia gymnandrae subsp. gymnandrae
+Puccinia gymnandrae Tranzschel
 
 ### Remarks
 null

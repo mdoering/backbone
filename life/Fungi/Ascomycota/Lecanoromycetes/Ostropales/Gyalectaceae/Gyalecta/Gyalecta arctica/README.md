@@ -1,5 +1,4 @@
-Gyalecta arctica Malme SPECIES
-=======
+# Gyalecta arctica Malme SPECIES
 
 #### Status
 ACCEPTED

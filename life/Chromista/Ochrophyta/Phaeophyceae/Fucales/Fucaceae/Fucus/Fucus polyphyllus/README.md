@@ -1,5 +1,4 @@
-Fucus polyphyllus S. G. Gmelin SPECIES
-=======
+# Fucus polyphyllus S. G. Gmelin SPECIES
 
 #### Status
 ACCEPTED

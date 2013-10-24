@@ -1,5 +1,4 @@
-Phyllostictina hymenaeae Bat. & A.F. Vital SPECIES
-=======
+# Phyllostictina hymenaeae Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

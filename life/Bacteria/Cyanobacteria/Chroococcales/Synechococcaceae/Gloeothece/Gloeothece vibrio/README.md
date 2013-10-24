@@ -1,5 +1,4 @@
-Gloeothece vibrio var. abiscoensis Skuja VARIETY
-=======
+# Gloeothece vibrio N.Carter SPECIES
 
 #### Status
 ACCEPTED

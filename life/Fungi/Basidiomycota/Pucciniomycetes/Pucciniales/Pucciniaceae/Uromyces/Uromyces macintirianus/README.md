@@ -1,5 +1,4 @@
-Uromyces macintirianus Barclay SPECIES
-=======
+# Uromyces macintirianus Barclay SPECIES
 
 #### Status
 ACCEPTED

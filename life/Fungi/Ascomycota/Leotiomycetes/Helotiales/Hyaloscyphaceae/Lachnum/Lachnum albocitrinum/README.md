@@ -1,5 +1,4 @@
-Lachnum albocitrinum (Cooke) P. Blank SPECIES
-=======
+# Lachnum albocitrinum (Cooke) P. Blank SPECIES
 
 #### Status
 ACCEPTED

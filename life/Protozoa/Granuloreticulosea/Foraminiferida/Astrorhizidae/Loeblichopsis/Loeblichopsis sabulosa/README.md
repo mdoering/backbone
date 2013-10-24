@@ -1,8 +1,7 @@
-Reophax sabulosa Brady, 1881 SPECIES
-=======
+# Loeblichopsis sabulosa (Brady, 1881) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

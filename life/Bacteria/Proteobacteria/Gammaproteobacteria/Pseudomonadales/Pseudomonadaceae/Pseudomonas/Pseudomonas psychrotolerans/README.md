@@ -1,5 +1,4 @@
-Pseudomonas psychrotolerans Hauser et al., 2004 SPECIES
-=======
+# Pseudomonas psychrotolerans Hauser et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

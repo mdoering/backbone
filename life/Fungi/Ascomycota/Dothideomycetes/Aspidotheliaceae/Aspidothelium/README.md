@@ -1,17 +1,16 @@
-Aspidotheliomyces Cif. & Tomas. GENUS
-=======
+# Aspidothelium Vain. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10: 60 (1953)
+Acta Soc. Fauna Flora fenn. 7(2): 190 (1890)
 
 #### Original name
-Aspidotheliomyces Cif. & Tomas.
+Aspidothelium Vain.
 
 ### Remarks
 null

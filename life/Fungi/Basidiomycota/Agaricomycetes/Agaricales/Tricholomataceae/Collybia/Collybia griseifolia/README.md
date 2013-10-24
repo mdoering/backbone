@@ -1,5 +1,4 @@
-Collybia griseifolia (Murrill) Murrill SPECIES
-=======
+# Collybia griseifolia (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

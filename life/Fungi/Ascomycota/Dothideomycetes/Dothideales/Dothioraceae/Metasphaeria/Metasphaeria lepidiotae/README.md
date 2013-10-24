@@ -1,5 +1,4 @@
-Metasphaeria lepidiotae (Anzi) Sacc. SPECIES
-=======
+# Metasphaeria lepidiotae (Anzi) Sacc. SPECIES
 
 #### Status
 ACCEPTED

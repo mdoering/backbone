@@ -1,5 +1,4 @@
-Scindalma focale (Kalchbr.) Kuntze SPECIES
-=======
+# Scindalma focale (Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

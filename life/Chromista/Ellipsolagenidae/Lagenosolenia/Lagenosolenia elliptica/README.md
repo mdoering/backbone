@@ -1,14 +1,13 @@
-Lagenosolenia elliptica subsp. elliptica SUBSPECIES
-=======
+# Lagenosolenia elliptica Yassini & Jones, 1995 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+World Register of Marine Species
 
 #### Published in
-null
+Yassini, I. , & Jones, B. G. 1995. Foraminiferida and ostracoda from estuarine and shelf environments on the southeastern coast of Australia: University of Wollongong Press, Wollongong, 484 pp.
 
 #### Original name
 null

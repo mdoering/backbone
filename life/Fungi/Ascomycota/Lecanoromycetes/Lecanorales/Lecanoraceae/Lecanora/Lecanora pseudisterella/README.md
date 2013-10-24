@@ -1,5 +1,4 @@
-Lecanora pseudisterella Vain. SPECIES
-=======
+# Lecanora pseudisterella Vain. SPECIES
 
 #### Status
 ACCEPTED

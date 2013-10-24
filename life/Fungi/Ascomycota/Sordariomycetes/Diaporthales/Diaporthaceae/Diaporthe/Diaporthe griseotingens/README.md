@@ -1,5 +1,4 @@
-Diaporthe griseotingens (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Diaporthe griseotingens (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

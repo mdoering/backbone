@@ -1,5 +1,4 @@
-Phyllosticta odontoglossi Verpl. & Claess. SPECIES
-=======
+# Phyllosticta odontoglossi Verpl. & Claess. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Splanchnomyces clathroides Corda SPECIES
-=======
+# Splanchnomyces clathroides Corda SPECIES
 
 #### Status
 ACCEPTED

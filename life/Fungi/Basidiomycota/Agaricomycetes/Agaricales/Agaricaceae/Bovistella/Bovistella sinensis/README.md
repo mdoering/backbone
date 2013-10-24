@@ -1,5 +1,4 @@
-Bovistella sinensis Lloyd SPECIES
-=======
+# Bovistella sinensis Lloyd SPECIES
 
 #### Status
 ACCEPTED

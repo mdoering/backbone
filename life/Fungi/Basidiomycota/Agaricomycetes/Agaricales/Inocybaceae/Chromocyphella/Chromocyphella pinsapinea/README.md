@@ -1,5 +1,4 @@
-Chromocyphella pinsapinea G. Moreno, A. Ortega & Honrubia, 1985 SPECIES
-=======
+# Chromocyphella pinsapinea G. Moreno, A. Ortega & Honrubia, 1985 SPECIES
 
 #### Status
 ACCEPTED

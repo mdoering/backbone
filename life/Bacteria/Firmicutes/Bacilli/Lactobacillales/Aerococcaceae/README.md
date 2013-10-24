@@ -1,5 +1,4 @@
-Aerococcaceae FAMILY
-=======
+# Aerococcaceae FAMILY
 
 #### Status
 ACCEPTED

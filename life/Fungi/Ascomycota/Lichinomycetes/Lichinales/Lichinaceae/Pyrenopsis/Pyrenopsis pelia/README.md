@@ -1,5 +1,4 @@
-Pyrenopsis pelia Stirt. SPECIES
-=======
+# Pyrenopsis pelia Stirt. SPECIES
 
 #### Status
 ACCEPTED

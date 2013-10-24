@@ -1,5 +1,4 @@
-Opegrapha arabica (Müll. Arg.) Vain. SPECIES
-=======
+# Opegrapha arabica (Müll. Arg.) Vain. SPECIES
 
 #### Status
 ACCEPTED

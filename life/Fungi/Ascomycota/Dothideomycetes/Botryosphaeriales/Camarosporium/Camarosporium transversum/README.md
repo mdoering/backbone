@@ -1,5 +1,4 @@
-Camarosporium transversum Gutner SPECIES
-=======
+# Camarosporium transversum Gutner SPECIES
 
 #### Status
 ACCEPTED

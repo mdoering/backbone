@@ -1,5 +1,4 @@
-Verrucaria ochroleuca Eschw. SPECIES
-=======
+# Verrucaria ochroleuca Eschw. SPECIES
 
 #### Status
 ACCEPTED

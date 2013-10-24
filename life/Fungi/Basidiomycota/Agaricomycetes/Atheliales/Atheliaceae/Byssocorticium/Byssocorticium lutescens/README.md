@@ -1,17 +1,16 @@
-Athelia lutescens (J. Erikss. & Ryvarden) Zmitr. & Spirin, 2004 SPECIES
-=======
+# Byssocorticium lutescens J. Erikss. & Ryvarden, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cortic. N. Eur. (Oslo), <b>2</b> Aleurodiscus-Confertobasidium 185 (1973)
 
 #### Original name
-null
+Byssocorticium lutescens J. Erikss. & Ryvarden, 1973
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sclerophoma simplex Bubák & Krieg. SPECIES
-=======
+# Sclerophoma simplex Bubák & Krieg. SPECIES
 
 #### Status
 ACCEPTED

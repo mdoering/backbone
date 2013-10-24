@@ -1,5 +1,4 @@
-Mycoglaena betularia SPECIES
-=======
+# Mycoglaena betularia SPECIES
 
 #### Status
 ACCEPTED

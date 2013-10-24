@@ -1,5 +1,4 @@
-Chondropodium spina (Berk. & Ravenel) Höhn. SPECIES
-=======
+# Chondropodium spina (Berk. & Ravenel) Höhn. SPECIES
 
 #### Status
 ACCEPTED

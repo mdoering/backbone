@@ -1,5 +1,4 @@
-Septoria sicya Peck SPECIES
-=======
+# Septoria sicya Peck SPECIES
 
 #### Status
 ACCEPTED

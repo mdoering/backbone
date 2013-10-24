@@ -1,5 +1,4 @@
-Aphanizomenon skujae J. Komárková-Legnerová & G. Cronberg SPECIES
-=======
+# Aphanizomenon skujae J. Komárková-Legnerová & G. Cronberg SPECIES
 
 #### Status
 ACCEPTED

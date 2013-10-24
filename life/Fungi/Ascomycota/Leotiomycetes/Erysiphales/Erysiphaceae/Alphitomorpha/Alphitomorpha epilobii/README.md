@@ -1,5 +1,4 @@
-Alphitomorpha epilobii Wallr. SPECIES
-=======
+# Alphitomorpha epilobii Wallr. SPECIES
 
 #### Status
 ACCEPTED

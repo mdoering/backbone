@@ -1,5 +1,4 @@
-Crepidotus maculans Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus maculans Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

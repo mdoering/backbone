@@ -1,5 +1,4 @@
-Cothurnia inflecta SPECIES
-=======
+# Cothurnia inflecta SPECIES
 
 #### Status
 ACCEPTED

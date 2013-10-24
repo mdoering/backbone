@@ -1,17 +1,16 @@
-Oleinis Clem. GENUS
-=======
+# Oleina Tiegh. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Clements & Shear, Gen. fung. (Minneapolis), Edn 2 46, 245 (1931)
+J. Bot. Morot 1: 289 (1887)
 
 #### Original name
-Oleinis Clem.
+Oleina Tiegh.
 
 ### Remarks
 null

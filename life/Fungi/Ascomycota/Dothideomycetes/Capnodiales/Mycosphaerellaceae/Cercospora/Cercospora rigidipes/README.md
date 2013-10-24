@@ -1,5 +1,4 @@
-Cercospora rigidipes Munt.-Cvetk. SPECIES
-=======
+# Cercospora rigidipes Munt.-Cvetk. SPECIES
 
 #### Status
 ACCEPTED

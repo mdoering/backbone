@@ -1,5 +1,4 @@
-Lichen pilularis Davies SPECIES
-=======
+# Lichen pilularis Davies SPECIES
 
 #### Status
 ACCEPTED

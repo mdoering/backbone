@@ -1,5 +1,4 @@
-Cercospora iteae Sawada & Katsuki SPECIES
-=======
+# Cercospora iteae Sawada & Katsuki SPECIES
 
 #### Status
 ACCEPTED

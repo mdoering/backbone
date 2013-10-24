@@ -1,17 +1,16 @@
-Fuligo cinerea ecorticata G. Lister, 1911 INFRASPECIFIC_NAME
-=======
+# Fuligo intermedia T. Macbr., 1922 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Amer. Slime-Moulds (New York), Edn 2 30 (1922)
 
 #### Original name
-null
+Fuligo intermedia T. Macbr., 1922
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Prosthemium formosum Lib. SPECIES
-=======
+# Prosthemiella formosa Sacc. & Malbr., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Michelia 2(no. 7): 356 (1881)
 
 #### Original name
 null

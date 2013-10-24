@@ -1,5 +1,4 @@
-Unisetosphaeria Pinnoi, E.B.G. Jones, McKenzie & K.D. Hyde GENUS
-=======
+# Unisetosphaeria Pinnoi, E.B.G. Jones, McKenzie & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

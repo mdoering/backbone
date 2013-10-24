@@ -1,5 +1,4 @@
-Stysanus niger Bonord. SPECIES
-=======
+# Stysanus niger Bonord. SPECIES
 
 #### Status
 ACCEPTED

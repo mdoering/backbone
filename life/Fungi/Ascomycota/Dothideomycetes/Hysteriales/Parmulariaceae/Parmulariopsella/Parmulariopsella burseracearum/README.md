@@ -1,5 +1,4 @@
-Parmulariopsella burseracearum Sivan., 1970 SPECIES
-=======
+# Parmulariopsella burseracearum Sivan., 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia amplifica H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia amplifica H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

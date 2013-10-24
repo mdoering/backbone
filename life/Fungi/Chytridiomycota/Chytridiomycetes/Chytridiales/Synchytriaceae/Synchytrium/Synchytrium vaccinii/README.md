@@ -1,5 +1,4 @@
-Synchytrium vaccinii F. Thomas SPECIES
-=======
+# Synchytrium vaccinii F. Thomas SPECIES
 
 #### Status
 ACCEPTED

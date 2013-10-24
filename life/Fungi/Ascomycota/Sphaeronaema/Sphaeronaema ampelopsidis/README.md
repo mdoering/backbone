@@ -1,5 +1,4 @@
-Sphaeronaema ampelopsidis Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeronaema ampelopsidis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

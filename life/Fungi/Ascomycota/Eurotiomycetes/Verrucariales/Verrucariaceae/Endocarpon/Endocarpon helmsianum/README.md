@@ -1,5 +1,4 @@
-Endocarpon helmsianum Müll. Arg. SPECIES
-=======
+# Endocarpon helmsianum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

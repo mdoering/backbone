@@ -1,17 +1,16 @@
-Helmisporium insigne Gaillard ex Sacc. SPECIES
-=======
+# Helminthosporium insigne Gaillard ex Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atti Accad. Sci. Ven. -Trent. -Istr. 23: 89 (1917)
 
 #### Original name
-Helmisporium insigne Gaillard ex Sacc.
+Helminthosporium insigne Gaillard ex Sacc.
 
 ### Remarks
 null

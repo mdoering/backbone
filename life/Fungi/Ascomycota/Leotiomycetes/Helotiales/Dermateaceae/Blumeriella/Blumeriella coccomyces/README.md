@@ -1,5 +1,4 @@
-Blumeriella coccomyces Higgins SPECIES
-=======
+# Blumeriella coccomyces Higgins SPECIES
 
 #### Status
 ACCEPTED

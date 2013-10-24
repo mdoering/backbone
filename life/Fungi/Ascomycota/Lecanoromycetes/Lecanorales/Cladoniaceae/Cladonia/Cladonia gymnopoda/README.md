@@ -1,5 +1,4 @@
-Cladonia gymnopoda Vain. SPECIES
-=======
+# Cladonia gymnopoda Vain. SPECIES
 
 #### Status
 ACCEPTED

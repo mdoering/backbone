@@ -1,5 +1,4 @@
-Evernia fertilis Fr. SPECIES
-=======
+# Evernia fertilis Fr. SPECIES
 
 #### Status
 ACCEPTED

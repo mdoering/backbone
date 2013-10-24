@@ -1,5 +1,4 @@
-Hyalopsora asplenii-wichuriae Dietel SPECIES
-=======
+# Hyalopsora asplenii-wichuriae Dietel SPECIES
 
 #### Status
 ACCEPTED

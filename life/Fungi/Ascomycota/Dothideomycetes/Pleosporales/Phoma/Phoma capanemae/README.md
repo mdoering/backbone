@@ -1,5 +1,4 @@
-Phoma capanemae Sacc. SPECIES
-=======
+# Phoma capanemae Sacc. SPECIES
 
 #### Status
 ACCEPTED

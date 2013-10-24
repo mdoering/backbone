@@ -1,5 +1,4 @@
-Dendrothele mangiferae Boidin & Duhem, 1996 SPECIES
-=======
+# Dendrothele mangiferae Boidin & Duhem, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Levanderella Kopperi, 1937 GENUS
-=======
+# Levanderella Kopperi, 1937 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cornuspiridae Schultze, 1854 FAMILY
-=======
+# Cornuspiridae Schultze, 1854 FAMILY
 
 #### Status
 ACCEPTED

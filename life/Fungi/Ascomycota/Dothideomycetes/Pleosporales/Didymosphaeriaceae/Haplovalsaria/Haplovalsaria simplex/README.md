@@ -1,5 +1,4 @@
-Haplovalsaria simplex Höhn. SPECIES
-=======
+# Haplovalsaria simplex Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus thozetii (Berk. & F. Muell.) Sacc. SPECIES
-=======
+# Pleurotus thozetii (Berk. & F. Muell.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

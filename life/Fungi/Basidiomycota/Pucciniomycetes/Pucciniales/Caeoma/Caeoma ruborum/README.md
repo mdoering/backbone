@@ -1,5 +1,4 @@
-Caeoma ruborum (DC.) Schltdl. SPECIES
-=======
+# Caeoma ruborum (DC.) Schltdl. SPECIES
 
 #### Status
 ACCEPTED

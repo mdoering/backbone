@@ -1,17 +1,16 @@
-Paraliomyces lentiferus Kohlm., 1959 SPECIES
-=======
+# Paraliomyces lentifer Kohlm., 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 1(1): 81 (1959)
 
 #### Original name
-Paraliomyces lentiferus Kohlm., 1959
+Paraliomyces lentifer Kohlm., 1959
 
 ### Remarks
 null

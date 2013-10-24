@@ -1,5 +1,4 @@
-Rinodina azulensis SPECIES
-=======
+# Rinodina azulensis SPECIES
 
 #### Status
 ACCEPTED

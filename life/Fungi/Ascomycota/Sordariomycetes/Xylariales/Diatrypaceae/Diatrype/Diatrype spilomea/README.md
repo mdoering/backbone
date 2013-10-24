@@ -1,5 +1,4 @@
-Diatrype spilomea Syd., 1934 SPECIES
-=======
+# Diatrype spilomea Syd., 1934 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyuchus magnusii Lindst., 1872 SPECIES
-=======
+# Dictyuchus magnusii Lindst., 1872 SPECIES
 
 #### Status
 ACCEPTED

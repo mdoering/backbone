@@ -1,5 +1,4 @@
-Menispora libertiana Sacc. & Roum. SPECIES
-=======
+# Menispora libertiana Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

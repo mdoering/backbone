@@ -1,5 +1,4 @@
-Trogia hispidula Corner SPECIES
-=======
+# Trogia hispidula Corner SPECIES
 
 #### Status
 ACCEPTED

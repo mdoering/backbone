@@ -1,5 +1,4 @@
-Lecanora olivaceopallida H. Magn. SPECIES
-=======
+# Lecanora olivaceopallida H. Magn. SPECIES
 
 #### Status
 ACCEPTED

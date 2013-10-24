@@ -1,5 +1,4 @@
-Pyrotheca cuneiformis SPECIES
-=======
+# Pyrotheca cuneiformis SPECIES
 
 #### Status
 ACCEPTED

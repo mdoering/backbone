@@ -1,5 +1,4 @@
-Marssonina alni Karak. SPECIES
-=======
+# Marssonina alni Karak. SPECIES
 
 #### Status
 ACCEPTED

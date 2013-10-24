@@ -1,5 +1,4 @@
-Lyophyllum chamaeleon Clémençon & A.H. Sm. SPECIES
-=======
+# Lyophyllum chamaeleon Clémençon & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeolepiota Maire ex Konrad & Maublanc, 1928 GENUS
-=======
+# Phaeolepiota Maire ex Konrad & Maublanc, 1928 GENUS
 
 #### Status
 ACCEPTED

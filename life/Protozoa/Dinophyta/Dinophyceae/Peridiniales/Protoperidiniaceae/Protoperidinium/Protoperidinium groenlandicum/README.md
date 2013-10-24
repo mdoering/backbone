@@ -1,5 +1,4 @@
-Protoperidinium groenlandicum (Woloszynska) Balech SPECIES
-=======
+# Protoperidinium groenlandicum (Woloszynska) Balech SPECIES
 
 #### Status
 ACCEPTED

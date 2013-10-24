@@ -1,14 +1,13 @@
-Pistillaria aciculata Durieu & Lév., 1846 SPECIES
-=======
+# Ceratellopsis aciculata (Durieu & Lév.) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Expl. Sci. Alg. , Bot. 1(6): (1846)
+Ann. Bot. Mem. 1: 200 (1950)
 
 #### Original name
 Pistillaria aciculata Durieu & Lév., 1846

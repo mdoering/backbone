@@ -1,5 +1,4 @@
-Macrophoma fragilis (Mont.) Berl. & Voglino SPECIES
-=======
+# Macrophoma fragilis (Mont.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

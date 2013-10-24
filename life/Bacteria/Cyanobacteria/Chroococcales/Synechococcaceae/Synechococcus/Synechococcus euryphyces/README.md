@@ -1,5 +1,4 @@
-Synechococcus euryphyces Beck SPECIES
-=======
+# Synechococcus euryphyces Beck SPECIES
 
 #### Status
 ACCEPTED

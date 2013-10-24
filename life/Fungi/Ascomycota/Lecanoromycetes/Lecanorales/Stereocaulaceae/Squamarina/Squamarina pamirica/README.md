@@ -1,5 +1,4 @@
-Squamarina pamirica N.S. Golubk. SPECIES
-=======
+# Squamarina pamirica N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

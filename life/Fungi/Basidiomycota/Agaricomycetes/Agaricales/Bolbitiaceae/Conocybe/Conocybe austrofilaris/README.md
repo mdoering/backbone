@@ -1,5 +1,4 @@
-Conocybe austrofilaris (Singer) Watling SPECIES
-=======
+# Conocybe austrofilaris (Singer) Watling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus haematopodus Pers. SPECIES
-=======
+# Agaricus haematopodus Pers. SPECIES
 
 #### Status
 ACCEPTED

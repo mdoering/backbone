@@ -1,5 +1,4 @@
-Clitocybula intermedia (Kauffman) Raithelh. SPECIES
-=======
+# Clitocybula intermedia (Kauffman) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

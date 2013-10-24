@@ -1,5 +1,4 @@
-Lichen helicopis Wahlenb. ex Ach. SPECIES
-=======
+# Lichen helicopis Wahlenb. ex Ach. SPECIES
 
 #### Status
 ACCEPTED

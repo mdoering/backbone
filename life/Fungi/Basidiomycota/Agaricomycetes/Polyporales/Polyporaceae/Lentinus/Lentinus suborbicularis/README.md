@@ -1,5 +1,4 @@
-Lentinus suborbicularis (Berk. & Broome) Henn. SPECIES
-=======
+# Lentinus suborbicularis (Berk. & Broome) Henn. SPECIES
 
 #### Status
 ACCEPTED

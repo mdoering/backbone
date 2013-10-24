@@ -1,5 +1,4 @@
-Meliola adenantherae (Cif.) Hansf. SPECIES
-=======
+# Meliola adenantherae (Cif.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

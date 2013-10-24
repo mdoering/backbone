@@ -1,5 +1,4 @@
-Anabaena volzii f. gelatinosa P. Bourrelly & A. Couté FORM
-=======
+# Anabaena volzii Lemmermann SPECIES
 
 #### Status
 ACCEPTED

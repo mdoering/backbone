@@ -1,5 +1,4 @@
-Chaetopyrena quercicola Koshk. & Frolov SPECIES
-=======
+# Chaetopyrena quercicola Koshk. & Frolov SPECIES
 
 #### Status
 ACCEPTED

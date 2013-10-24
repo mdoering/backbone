@@ -1,5 +1,4 @@
-Spiloma viridans SPECIES
-=======
+# Spiloma viridans SPECIES
 
 #### Status
 ACCEPTED

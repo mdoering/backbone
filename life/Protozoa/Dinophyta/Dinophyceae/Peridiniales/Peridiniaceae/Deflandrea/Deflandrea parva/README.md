@@ -1,5 +1,4 @@
-Deflandrea parva Cookson & Eisenack SPECIES
-=======
+# Deflandrea parva Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

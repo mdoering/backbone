@@ -1,5 +1,4 @@
-Physcia scopularis (Nyl.) Arnold SPECIES
-=======
+# Physcia scopularis (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

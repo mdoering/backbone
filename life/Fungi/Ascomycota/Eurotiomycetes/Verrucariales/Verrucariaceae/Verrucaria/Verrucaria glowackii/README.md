@@ -1,5 +1,4 @@
-Verrucaria glowackii Servít SPECIES
-=======
+# Verrucaria glowackii Servít SPECIES
 
 #### Status
 ACCEPTED

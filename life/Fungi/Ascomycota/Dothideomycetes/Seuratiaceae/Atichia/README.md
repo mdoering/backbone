@@ -1,5 +1,4 @@
-Atichia Flot. GENUS
-=======
+# Atichia Flot. GENUS
 
 #### Status
 ACCEPTED

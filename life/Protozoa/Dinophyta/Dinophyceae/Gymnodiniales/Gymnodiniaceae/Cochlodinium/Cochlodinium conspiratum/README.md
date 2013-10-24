@@ -1,5 +1,4 @@
-Cochlodinium conspiratum Kofoid & Swezy, 1921 SPECIES
-=======
+# Cochlodinium conspiratum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

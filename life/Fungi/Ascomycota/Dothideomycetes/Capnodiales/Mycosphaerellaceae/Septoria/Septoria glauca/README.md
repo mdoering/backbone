@@ -1,5 +1,4 @@
-Septoria glauca Cooke SPECIES
-=======
+# Septoria glauca Cooke SPECIES
 
 #### Status
 ACCEPTED

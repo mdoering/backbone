@@ -1,5 +1,4 @@
-Podospora karachiensis Mirza & Cain SPECIES
-=======
+# Podospora karachiensis Mirza & Cain SPECIES
 
 #### Status
 ACCEPTED

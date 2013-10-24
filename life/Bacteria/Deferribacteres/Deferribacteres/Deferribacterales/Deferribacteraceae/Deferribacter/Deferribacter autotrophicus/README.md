@@ -1,5 +1,4 @@
-Deferribacter autotrophicus Slobodkina, Kolganova, Chernyh, Querellou, Bonch-Osmolovskaya & Slobodkin, 2009 SPECIES
-=======
+# Deferribacter autotrophicus Slobodkina, Kolganova, Chernyh, Querellou, Bonch-Osmolovskaya & Slobodkin, 2009 SPECIES
 
 #### Status
 ACCEPTED

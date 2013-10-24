@@ -1,5 +1,4 @@
-Diductius constans SPECIES
-=======
+# Diductius constans SPECIES
 
 #### Status
 ACCEPTED

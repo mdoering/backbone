@@ -1,5 +1,4 @@
-Leptosphaeria staticicola Unamuno SPECIES
-=======
+# Leptosphaeria staticicola Unamuno SPECIES
 
 #### Status
 ACCEPTED

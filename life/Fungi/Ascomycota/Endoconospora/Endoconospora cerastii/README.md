@@ -1,5 +1,4 @@
-Endoconospora cerastii Gjaerum, 1971 SPECIES
-=======
+# Endoconospora cerastii Gjaerum, 1971 SPECIES
 
 #### Status
 ACCEPTED

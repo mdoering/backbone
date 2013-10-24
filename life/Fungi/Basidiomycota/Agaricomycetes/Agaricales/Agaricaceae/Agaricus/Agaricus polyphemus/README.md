@@ -1,5 +1,4 @@
-Agaricus polyphemus Cooke & Massee SPECIES
-=======
+# Agaricus polyphemus Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

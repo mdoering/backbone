@@ -1,5 +1,4 @@
-Bacteriastrum comosum Pavillard, 1916 SPECIES
-=======
+# Bacteriastrum comosum Pavillard, 1916 SPECIES
 
 #### Status
 ACCEPTED

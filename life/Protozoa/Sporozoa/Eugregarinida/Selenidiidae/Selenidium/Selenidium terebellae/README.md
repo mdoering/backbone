@@ -1,8 +1,7 @@
-Esarabdina terebellae (von Kölliker, 1845) Mingazinni, 1891 SPECIES
-=======
+# Selenidium terebellae (von Kölliker, 1845) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Gymnosporium malvacearum Westend. SPECIES
-=======
+# Gymnosporium malvacearum Westend. SPECIES
 
 #### Status
 ACCEPTED

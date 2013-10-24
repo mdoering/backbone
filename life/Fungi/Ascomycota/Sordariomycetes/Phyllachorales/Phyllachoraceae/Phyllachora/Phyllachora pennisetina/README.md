@@ -1,17 +1,16 @@
-Phyllachora penniseti-japonici Sawada, 1944 SPECIES
-=======
+# Phyllachora pennisetina Syd., 1922 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rep. Govt Res. Inst. Dep. Agric. , Formosa 87: 19 (1944)
+Annls mycol. 20(1/2): 64 (1922)
 
 #### Original name
-Phyllachora penniseti-japonici Sawada, 1944
+Phyllachora pennisetina Syd., 1922
 
 ### Remarks
 null

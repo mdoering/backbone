@@ -1,5 +1,4 @@
-Epalxella mimetica Penard, 1922 SPECIES
-=======
+# Epalxella mimetica Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

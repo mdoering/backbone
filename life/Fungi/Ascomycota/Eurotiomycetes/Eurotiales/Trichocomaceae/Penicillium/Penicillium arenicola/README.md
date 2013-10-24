@@ -1,17 +1,16 @@
-Penicillium canadense G. Sm., 1956 SPECIES
-=======
+# Penicillium arenicola Chalab., 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 39: 113 (1956)
+Notul. Syst. Sect. Crypt. Inst. Bot. Acad. Sci. U. S. S. R. 6: 162 (1950)
 
 #### Original name
-Penicillium canadense G. Sm., 1956
+Penicillium arenicola Chalab., 1950
 
 ### Remarks
 null

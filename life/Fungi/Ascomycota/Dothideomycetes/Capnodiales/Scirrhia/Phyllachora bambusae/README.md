@@ -1,5 +1,4 @@
-Phyllachora bambusae (Rabenh.) Cooke, 1885 SPECIES
-=======
+# Phyllachora bambusae (Rabenh.) Cooke, 1885 SPECIES
 
 #### Status
 DOUBTFUL

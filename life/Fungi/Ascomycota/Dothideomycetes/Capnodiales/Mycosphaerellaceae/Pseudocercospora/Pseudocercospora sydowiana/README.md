@@ -1,5 +1,4 @@
-Pseudocercospora sydowiana (Chupp) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora sydowiana (Chupp) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

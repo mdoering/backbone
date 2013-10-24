@@ -1,5 +1,4 @@
-Puccinia globulifera Arthur SPECIES
-=======
+# Puccinia globulifera Arthur SPECIES
 
 #### Status
 ACCEPTED

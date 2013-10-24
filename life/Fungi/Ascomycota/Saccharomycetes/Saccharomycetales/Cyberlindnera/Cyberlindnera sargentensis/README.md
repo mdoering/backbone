@@ -1,8 +1,7 @@
-Lindnera sargentensis (Wick. & Kurtzman) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
-=======
+# Cyberlindnera sargentensis (Wick. & Kurtzman) Minter, 2009 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Pichia sargentensis Wick. & Kurtzman, 1971
 
 ### Remarks
 null

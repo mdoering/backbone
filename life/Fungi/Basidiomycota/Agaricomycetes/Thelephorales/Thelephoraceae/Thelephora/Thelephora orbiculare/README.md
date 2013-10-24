@@ -1,5 +1,4 @@
-Thelephora orbiculare Durieu & Lév. SPECIES
-=======
+# Thelephora orbiculare Durieu & Lév. SPECIES
 
 #### Status
 ACCEPTED

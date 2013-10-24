@@ -1,5 +1,4 @@
-Chlamydobacterium GENUS
-=======
+# Chlamydobacterium GENUS
 
 #### Status
 ACCEPTED

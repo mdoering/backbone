@@ -1,5 +1,4 @@
-Alectoria poeltii Bystrek SPECIES
-=======
+# Alectoria poeltii Bystrek SPECIES
 
 #### Status
 ACCEPTED

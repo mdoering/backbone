@@ -1,5 +1,4 @@
-Leccinum fuscoalbum (Sowerby) Lannoy & Estadès SPECIES
-=======
+# Leccinum fuscoalbum (Sowerby) Lannoy & Estadès SPECIES
 
 #### Status
 ACCEPTED

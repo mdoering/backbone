@@ -1,5 +1,4 @@
-Phyllosticta castaneae Ellis & Everh. SPECIES
-=======
+# Phyllosticta castaneae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

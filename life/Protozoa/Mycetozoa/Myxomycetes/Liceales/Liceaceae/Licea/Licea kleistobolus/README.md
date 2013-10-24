@@ -1,17 +1,16 @@
-Kleistobolus pusillus C. Lippert, 1894 SPECIES
-=======
+# Licea kleistobolus G.W. Martin, 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. zool. -bot. Ges. Wein 44: 70 (1894)
+Mycologia 34(6): 702 (1942)
 
 #### Original name
-Kleistobolus pusillus C. Lippert, 1894
+Licea kleistobolus G.W. Martin, 1942
 
 ### Remarks
 null

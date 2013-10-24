@@ -1,5 +1,4 @@
-Praehedbergella GENUS
-=======
+# Praehedbergella GENUS
 
 #### Status
 ACCEPTED

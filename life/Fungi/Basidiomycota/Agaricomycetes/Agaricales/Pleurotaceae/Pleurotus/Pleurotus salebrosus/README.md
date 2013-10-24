@@ -1,5 +1,4 @@
-Pleurotus salebrosus (Berk.) Sacc. SPECIES
-=======
+# Pleurotus salebrosus (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

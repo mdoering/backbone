@@ -1,5 +1,4 @@
-Archips longicellana GV SPECIES
-=======
+# Archips longicellana GV SPECIES
 
 #### Status
 ACCEPTED

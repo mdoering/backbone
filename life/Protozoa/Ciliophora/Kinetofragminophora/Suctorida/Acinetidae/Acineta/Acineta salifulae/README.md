@@ -1,5 +1,4 @@
-Acineta salifulae SPECIES
-=======
+# Acineta salifulae SPECIES
 
 #### Status
 ACCEPTED

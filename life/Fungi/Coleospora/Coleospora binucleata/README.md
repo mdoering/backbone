@@ -1,5 +1,4 @@
-Coleospora binucleata Cribb SPECIES
-=======
+# Coleospora binucleata Cribb SPECIES
 
 #### Status
 ACCEPTED

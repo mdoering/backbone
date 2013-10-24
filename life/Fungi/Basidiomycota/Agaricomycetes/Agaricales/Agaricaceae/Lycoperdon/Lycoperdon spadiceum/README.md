@@ -1,14 +1,13 @@
-Scleroderma aurantium var. spadiceum (Schaeff.) Šebek, 1953 VARIETY
-=======
+# Lycoperdon spadiceum Schaeff., 1774 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 7: 171 (1953)
+Fung. Bavar. Palat. 4: 129 (1774)
 
 #### Original name
 Lycoperdon spadiceum Schaeff., 1774

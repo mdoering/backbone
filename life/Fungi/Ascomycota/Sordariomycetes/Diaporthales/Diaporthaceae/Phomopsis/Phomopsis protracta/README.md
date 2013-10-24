@@ -1,5 +1,4 @@
-Phomopsis protracta Sacc. SPECIES
-=======
+# Phomopsis protracta Sacc. SPECIES
 
 #### Status
 ACCEPTED

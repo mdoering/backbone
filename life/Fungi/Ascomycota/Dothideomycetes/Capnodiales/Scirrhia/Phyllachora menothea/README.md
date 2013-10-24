@@ -1,5 +1,4 @@
-Phyllachora menothea Syd., 1928 SPECIES
-=======
+# Phyllachora menothea Syd., 1928 SPECIES
 
 #### Status
 DOUBTFUL

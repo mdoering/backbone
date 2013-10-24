@@ -1,5 +1,4 @@
-Aleurina puiggarii (Speg.) Sacc. & P. Syd. SPECIES
-=======
+# Aleurina puiggarii (Speg.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycorrhaphium africanum Mossebo & Ryvarden, 2003 SPECIES
-=======
+# Mycorrhaphium africanum Mossebo & Ryvarden, 2003 SPECIES
 
 #### Status
 ACCEPTED

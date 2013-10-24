@@ -1,5 +1,4 @@
-Excipulina hicksiana Ellis & Everh. SPECIES
-=======
+# Excipulina hicksiana Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

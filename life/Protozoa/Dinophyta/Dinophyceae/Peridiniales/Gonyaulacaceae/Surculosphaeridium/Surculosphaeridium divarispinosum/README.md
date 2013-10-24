@@ -1,5 +1,4 @@
-Surculosphaeridium divarispinosum K. P. Jain SPECIES
-=======
+# Surculosphaeridium divarispinosum K. P. Jain SPECIES
 
 #### Status
 ACCEPTED

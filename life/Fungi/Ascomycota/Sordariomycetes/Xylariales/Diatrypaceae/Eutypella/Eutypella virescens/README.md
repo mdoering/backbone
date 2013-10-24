@@ -1,5 +1,4 @@
-Eutypella virescens Wehm., 1936 SPECIES
-=======
+# Eutypella virescens Wehm., 1936 SPECIES
 
 #### Status
 ACCEPTED

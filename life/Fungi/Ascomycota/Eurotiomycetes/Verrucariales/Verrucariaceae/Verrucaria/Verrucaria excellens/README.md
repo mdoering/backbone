@@ -1,5 +1,4 @@
-Verrucaria excellens Nyl. SPECIES
-=======
+# Verrucaria excellens Nyl. SPECIES
 
 #### Status
 ACCEPTED

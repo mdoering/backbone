@@ -1,5 +1,4 @@
-Mycosphaerella anthurii Miles SPECIES
-=======
+# Mycosphaerella anthurii Miles SPECIES
 
 #### Status
 ACCEPTED

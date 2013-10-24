@@ -1,5 +1,4 @@
-Micropuccinia apocyni (Dietel & Holw.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia apocyni (Dietel & Holw.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

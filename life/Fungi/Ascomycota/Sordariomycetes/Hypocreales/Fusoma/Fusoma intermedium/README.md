@@ -1,5 +1,4 @@
-Fusoma intermedium Sartory & Bainier SPECIES
-=======
+# Fusoma intermedium Sartory & Bainier SPECIES
 
 #### Status
 ACCEPTED

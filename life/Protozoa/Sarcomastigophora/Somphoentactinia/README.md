@@ -1,5 +1,4 @@
-Somphoentactinia Nazarov, 1975 GENUS
-=======
+# Somphoentactinia Nazarov, 1975 GENUS
 
 #### Status
 ACCEPTED

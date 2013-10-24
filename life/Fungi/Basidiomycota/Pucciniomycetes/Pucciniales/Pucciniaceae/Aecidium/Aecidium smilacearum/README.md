@@ -1,5 +1,4 @@
-Aecidium smilacearum Oudem. SPECIES
-=======
+# Aecidium smilacearum Oudem. SPECIES
 
 #### Status
 ACCEPTED

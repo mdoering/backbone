@@ -1,5 +1,4 @@
-Porina confraga (Kremp.) Zahlbr. SPECIES
-=======
+# Porina confraga (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

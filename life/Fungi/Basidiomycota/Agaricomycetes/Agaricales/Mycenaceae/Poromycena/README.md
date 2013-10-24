@@ -1,5 +1,4 @@
-Poromycena GENUS
-=======
+# Poromycena GENUS
 
 #### Status
 ACCEPTED

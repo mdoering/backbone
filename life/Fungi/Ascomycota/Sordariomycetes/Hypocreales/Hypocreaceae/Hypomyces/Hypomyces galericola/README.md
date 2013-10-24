@@ -1,5 +1,4 @@
-Hypomyces galericola Henn. SPECIES
-=======
+# Hypomyces galericola Henn. SPECIES
 
 #### Status
 ACCEPTED

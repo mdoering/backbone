@@ -1,5 +1,4 @@
-Mastigosporium graminum (P. Karst.) Nag Raj SPECIES
-=======
+# Mastigosporium graminum (P. Karst.) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

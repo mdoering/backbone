@@ -1,5 +1,4 @@
-Polyporus annularis Fr. SPECIES
-=======
+# Polyporus annularis Fr. SPECIES
 
 #### Status
 ACCEPTED

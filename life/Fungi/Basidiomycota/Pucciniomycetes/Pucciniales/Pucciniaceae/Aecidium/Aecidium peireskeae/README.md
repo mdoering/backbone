@@ -1,5 +1,4 @@
-Aecidium peireskeae Henn. SPECIES
-=======
+# Aecidium peireskeae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polythrinciopsis phragmitis J. Walker, 1966 SPECIES
-=======
+# Polythrinciopsis phragmitis J. Walker, 1966 SPECIES
 
 #### Status
 ACCEPTED

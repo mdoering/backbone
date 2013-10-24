@@ -1,5 +1,4 @@
-Lecanora minutella Nyl. SPECIES
-=======
+# Lecanora minutella Nyl. SPECIES
 
 #### Status
 ACCEPTED

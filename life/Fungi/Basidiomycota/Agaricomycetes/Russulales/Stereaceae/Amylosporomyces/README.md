@@ -1,5 +1,4 @@
-Amylosporomyces S.S. Rattan GENUS
-=======
+# Amylosporomyces S.S. Rattan GENUS
 
 #### Status
 ACCEPTED

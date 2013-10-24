@@ -1,17 +1,16 @@
-Leptothyrium drymidicola Speg. SPECIES
-=======
+# Leptothyrium drimydicola Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revta Fac. Agron. Univ. nac. La Plata, Ser. 2 6(1): 172 (1910)
 
 #### Original name
-Leptothyrium drymidicola Speg.
+Leptothyrium drimydicola Speg.
 
 ### Remarks
 null

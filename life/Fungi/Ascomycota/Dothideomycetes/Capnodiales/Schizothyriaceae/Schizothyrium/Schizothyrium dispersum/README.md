@@ -1,5 +1,4 @@
-Schizothyrium dispersum Katum. SPECIES
-=======
+# Schizothyrium dispersum Katum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Luellia cystidiata Hauerslev, 1987 SPECIES
-=======
+# Luellia cystidiata Hauerslev, 1987 SPECIES
 
 #### Status
 ACCEPTED

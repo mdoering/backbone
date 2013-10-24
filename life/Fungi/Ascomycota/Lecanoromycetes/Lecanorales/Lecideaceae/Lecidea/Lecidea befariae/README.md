@@ -1,5 +1,4 @@
-Lecidea befariae Müll. Arg. SPECIES
-=======
+# Lecidea befariae Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

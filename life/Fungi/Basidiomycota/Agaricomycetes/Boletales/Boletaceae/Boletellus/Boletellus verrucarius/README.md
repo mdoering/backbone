@@ -1,5 +1,4 @@
-Boletellus verrucarius (Berk.) Singer SPECIES
-=======
+# Boletellus verrucarius (Berk.) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Albugo blytii (Biv.) Kuntze, 1891 SPECIES
-=======
+# Albugo blytii (Biv.) Kuntze, 1891 SPECIES
 
 #### Status
 ACCEPTED

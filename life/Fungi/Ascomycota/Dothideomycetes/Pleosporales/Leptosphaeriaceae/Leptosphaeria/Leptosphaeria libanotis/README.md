@@ -1,17 +1,16 @@
-Phoma rostrupii Sacc., 1895 SPECIES
-=======
+# Leptosphaeria libanotis (Fuckel) Niessl, 1876 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 11: 490 (1895)
+null
 
 #### Original name
-Phoma rostrupii Sacc., 1895
+Pleospora libanotis Fuckel, 1874
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Asteridiella fagaricola var. fagaricola VARIETY
-=======
+# Asteridiella fagaricola (Speg.) Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Sydowia 10: 53 (1957)
 
 #### Original name
-Asteridiella fagaricola var. fagaricola
+Meliola fagaricola W. Yamam.
 
 ### Remarks
 null

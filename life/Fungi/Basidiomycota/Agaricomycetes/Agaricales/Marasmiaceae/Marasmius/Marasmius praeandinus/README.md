@@ -1,5 +1,4 @@
-Marasmius praeandinus Singer SPECIES
-=======
+# Marasmius praeandinus Singer SPECIES
 
 #### Status
 ACCEPTED

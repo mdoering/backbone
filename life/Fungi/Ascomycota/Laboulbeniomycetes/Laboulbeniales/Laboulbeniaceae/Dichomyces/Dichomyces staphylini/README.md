@@ -1,5 +1,4 @@
-Dichomyces staphylini Thaxt. SPECIES
-=======
+# Dichomyces staphylini Thaxt. SPECIES
 
 #### Status
 ACCEPTED

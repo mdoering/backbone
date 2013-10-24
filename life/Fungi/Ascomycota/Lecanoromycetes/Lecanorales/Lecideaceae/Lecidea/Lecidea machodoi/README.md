@@ -1,5 +1,4 @@
-Lecidea machodoi Samp. SPECIES
-=======
+# Lecidea machodoi Samp. SPECIES
 
 #### Status
 ACCEPTED

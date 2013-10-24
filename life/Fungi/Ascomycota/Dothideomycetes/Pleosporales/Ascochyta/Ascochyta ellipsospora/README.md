@@ -1,5 +1,4 @@
-Ascochyta ellipsospora Vouaux SPECIES
-=======
+# Ascochyta ellipsospora Vouaux SPECIES
 
 #### Status
 ACCEPTED

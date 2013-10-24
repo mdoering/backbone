@@ -1,5 +1,4 @@
-Devriesia acadiensis N.L. Nick. & Seifert, 2004 SPECIES
-=======
+# Devriesia acadiensis N.L. Nick. & Seifert, 2004 SPECIES
 
 #### Status
 ACCEPTED

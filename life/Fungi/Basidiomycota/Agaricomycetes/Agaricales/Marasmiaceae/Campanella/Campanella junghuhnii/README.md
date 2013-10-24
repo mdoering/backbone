@@ -1,14 +1,13 @@
-Cantharellus junghuhnii Mont., 1841 SPECIES
-=======
+# Campanella junghuhnii (Mont.) Singer, 1945 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Léveillé, Annls Sci. Nat. , Bot. , sér. 2 16: 318 (1841)
+Lloydia 8(3): 192 (1945)
 
 #### Original name
 Cantharellus junghuhnii Mont., 1841

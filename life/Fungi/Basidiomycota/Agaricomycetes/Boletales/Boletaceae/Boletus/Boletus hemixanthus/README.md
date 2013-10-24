@@ -1,5 +1,4 @@
-Boletus hemixanthus (Singer) Murrill SPECIES
-=======
+# Boletus hemixanthus (Singer) Murrill SPECIES
 
 #### Status
 ACCEPTED

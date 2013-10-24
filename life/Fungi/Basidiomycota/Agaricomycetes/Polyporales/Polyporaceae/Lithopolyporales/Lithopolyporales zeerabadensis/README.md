@@ -1,5 +1,4 @@
-Lithopolyporales zeerabadensis R.K. Kar, N. Sharma, A. Agarwal & R. Kar, 2003 SPECIES
-=======
+# Lithopolyporales zeerabadensis R.K. Kar, N. Sharma, A. Agarwal & R. Kar, 2003 SPECIES
 
 #### Status
 ACCEPTED

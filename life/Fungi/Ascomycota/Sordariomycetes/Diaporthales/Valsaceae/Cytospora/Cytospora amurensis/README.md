@@ -1,5 +1,4 @@
-Cytospora amurensis Koval SPECIES
-=======
+# Cytospora amurensis Koval SPECIES
 
 #### Status
 ACCEPTED

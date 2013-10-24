@@ -1,5 +1,4 @@
-Bullaria proba (H.S. Jacks. & Holw.) Arthur & Mains SPECIES
-=======
+# Bullaria proba (H.S. Jacks. & Holw.) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

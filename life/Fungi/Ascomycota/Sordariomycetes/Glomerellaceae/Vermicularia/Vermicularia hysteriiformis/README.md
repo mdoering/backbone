@@ -1,5 +1,4 @@
-Vermicularia hysteriiformis Peck SPECIES
-=======
+# Vermicularia hysteriiformis Peck SPECIES
 
 #### Status
 ACCEPTED

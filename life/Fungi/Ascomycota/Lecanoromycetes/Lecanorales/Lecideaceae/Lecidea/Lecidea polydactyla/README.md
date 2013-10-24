@@ -1,5 +1,4 @@
-Lecidea polydactyla (Müll. Arg.) Malme SPECIES
-=======
+# Lecidea polydactyla (Müll. Arg.) Malme SPECIES
 
 #### Status
 ACCEPTED

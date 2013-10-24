@@ -1,5 +1,4 @@
-Stentor inhabitator Dumas, 1930 SPECIES
-=======
+# Stentor inhabitator Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

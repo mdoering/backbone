@@ -1,5 +1,4 @@
-Corynespora tectonae X.G. Zhang & Cheng K. Shi SPECIES
-=======
+# Corynespora tectonae X.G. Zhang & Cheng K. Shi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhinotrichum decipiens Cooke SPECIES
-=======
+# Rhinotrichum decipiens Cooke SPECIES
 
 #### Status
 ACCEPTED

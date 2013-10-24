@@ -1,5 +1,4 @@
-Stentor clavipes Dumas, 1937 SPECIES
-=======
+# Stentor clavipes Dumas, 1937 SPECIES
 
 #### Status
 ACCEPTED

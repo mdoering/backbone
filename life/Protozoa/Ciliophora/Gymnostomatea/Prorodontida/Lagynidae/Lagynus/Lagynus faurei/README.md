@@ -1,5 +1,4 @@
-Lagynus faurei Kahl, 1927 SPECIES
-=======
+# Lagynus faurei Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

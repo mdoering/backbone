@@ -1,5 +1,4 @@
-Agaricus pileatus Batsch SPECIES
-=======
+# Agaricus pileatus Batsch SPECIES
 
 #### Status
 ACCEPTED

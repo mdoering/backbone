@@ -1,5 +1,4 @@
-Hygrocybe erythrocrenata Monks & A.K. Mills SPECIES
-=======
+# Hygrocybe erythrocrenata Monks & A.K. Mills SPECIES
 
 #### Status
 ACCEPTED

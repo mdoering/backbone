@@ -1,5 +1,4 @@
-Nosema phyllotretae J. Weiser SPECIES
-=======
+# Nosema phyllotretae J. Weiser SPECIES
 
 #### Status
 ACCEPTED

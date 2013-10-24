@@ -1,5 +1,4 @@
-Theocapsomella himedaruma SPECIES
-=======
+# Theocapsomella himedaruma SPECIES
 
 #### Status
 ACCEPTED

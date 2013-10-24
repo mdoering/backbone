@@ -1,5 +1,4 @@
-Arthopyrenia phaeosporizans Zahlbr. SPECIES
-=======
+# Arthopyrenia phaeosporizans Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

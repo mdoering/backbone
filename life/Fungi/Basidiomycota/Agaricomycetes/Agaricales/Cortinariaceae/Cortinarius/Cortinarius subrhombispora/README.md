@@ -1,5 +1,4 @@
-Cortinarius subrhombispora A. de Haan, Lenaerts & Volders SPECIES
-=======
+# Cortinarius subrhombispora A. de Haan, Lenaerts & Volders SPECIES
 
 #### Status
 ACCEPTED

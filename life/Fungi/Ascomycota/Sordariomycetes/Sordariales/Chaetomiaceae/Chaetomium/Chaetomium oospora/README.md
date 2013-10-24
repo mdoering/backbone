@@ -1,5 +1,4 @@
-Chaetomium oospora Beauverie SPECIES
-=======
+# Chaetomium oospora Beauverie SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Campsotrichum cladosporioides Sacc. SPECIES
-=======
+# Campsotrichum cladosporioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

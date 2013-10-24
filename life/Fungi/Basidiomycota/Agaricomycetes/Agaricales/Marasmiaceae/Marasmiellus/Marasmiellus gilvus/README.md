@@ -1,5 +1,4 @@
-Marasmiellus gilvus (Pat.) Singer SPECIES
-=======
+# Marasmiellus gilvus (Pat.) Singer SPECIES
 
 #### Status
 ACCEPTED

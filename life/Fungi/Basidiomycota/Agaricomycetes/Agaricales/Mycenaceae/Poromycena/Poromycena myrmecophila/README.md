@@ -1,5 +1,4 @@
-Poromycena myrmecophila (R. Heim) Singer SPECIES
-=======
+# Poromycena myrmecophila (R. Heim) Singer SPECIES
 
 #### Status
 ACCEPTED

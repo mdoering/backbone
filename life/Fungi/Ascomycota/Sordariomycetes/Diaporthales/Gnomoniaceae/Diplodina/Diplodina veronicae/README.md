@@ -1,5 +1,4 @@
-Diplodina veronicae Brunaud SPECIES
-=======
+# Diplodina veronicae Brunaud SPECIES
 
 #### Status
 ACCEPTED

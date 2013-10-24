@@ -1,5 +1,4 @@
-Scytalidium thermophilia (Coomey & Emerson) Austwick SPECIES
-=======
+# Scytalidium thermophilia (Coomey & Emerson) Austwick SPECIES
 
 #### Status
 ACCEPTED

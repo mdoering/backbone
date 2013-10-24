@@ -1,5 +1,4 @@
-Albatrellus microcarpus H.D. Zheng & P.G. Liu SPECIES
-=======
+# Albatrellus microcarpus H.D. Zheng & P.G. Liu SPECIES
 
 #### Status
 ACCEPTED

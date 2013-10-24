@@ -1,5 +1,4 @@
-Emericella bicolor M. Chr. & States, 1978 SPECIES
-=======
+# Emericella bicolor M. Chr. & States, 1978 SPECIES
 
 #### Status
 ACCEPTED

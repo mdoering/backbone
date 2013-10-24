@@ -1,5 +1,4 @@
-Pestalotia carveri Guba SPECIES
-=======
+# Pestalotia carveri Guba SPECIES
 
 #### Status
 ACCEPTED

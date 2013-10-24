@@ -1,5 +1,4 @@
-Clitocybe payettensis H.E. Bigelow SPECIES
-=======
+# Clitocybe payettensis H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

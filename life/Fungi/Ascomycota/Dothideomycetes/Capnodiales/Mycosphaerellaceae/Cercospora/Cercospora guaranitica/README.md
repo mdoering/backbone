@@ -1,5 +1,4 @@
-Cercospora guaranitica Speg. SPECIES
-=======
+# Cercospora guaranitica Speg. SPECIES
 
 #### Status
 ACCEPTED

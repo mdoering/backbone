@@ -1,5 +1,4 @@
-Russula roseostipitata McNabb, 1973 SPECIES
-=======
+# Russula roseostipitata McNabb, 1973 SPECIES
 
 #### Status
 ACCEPTED

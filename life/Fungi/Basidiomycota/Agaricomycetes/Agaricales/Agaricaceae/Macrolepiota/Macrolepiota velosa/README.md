@@ -1,5 +1,4 @@
-Macrolepiota velosa Vellinga & Zhu L. Yang SPECIES
-=======
+# Macrolepiota velosa Vellinga & Zhu L. Yang SPECIES
 
 #### Status
 ACCEPTED

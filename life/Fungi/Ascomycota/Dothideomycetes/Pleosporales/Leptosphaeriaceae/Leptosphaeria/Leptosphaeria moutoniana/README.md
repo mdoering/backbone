@@ -1,5 +1,4 @@
-Leptosphaeria moutoniana Sacc. & P. Syd. SPECIES
-=======
+# Leptosphaeria moutoniana Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

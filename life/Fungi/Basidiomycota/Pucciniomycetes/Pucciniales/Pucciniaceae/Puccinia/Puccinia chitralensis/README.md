@@ -1,5 +1,4 @@
-Puccinia chitralensis Jørst. SPECIES
-=======
+# Puccinia chitralensis Jørst. SPECIES
 
 #### Status
 ACCEPTED

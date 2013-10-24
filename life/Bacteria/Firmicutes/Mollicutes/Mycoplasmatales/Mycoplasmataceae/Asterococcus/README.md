@@ -1,5 +1,4 @@
-Asterococcus Borrel, Dujardin-Beaumetz, Jeantet & Jouan, 1910 GENUS
-=======
+# Asterococcus Borrel, Dujardin-Beaumetz, Jeantet & Jouan, 1910 GENUS
 
 #### Status
 ACCEPTED

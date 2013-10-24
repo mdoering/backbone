@@ -1,5 +1,4 @@
-Septoria veratri Sawada SPECIES
-=======
+# Septoria veratri Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia isabellina Malme SPECIES
-=======
+# Buellia isabellina Malme SPECIES
 
 #### Status
 ACCEPTED

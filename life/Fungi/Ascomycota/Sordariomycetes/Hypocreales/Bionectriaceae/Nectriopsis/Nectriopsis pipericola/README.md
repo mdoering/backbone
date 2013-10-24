@@ -1,5 +1,4 @@
-Nectriopsis pipericola (Henn.) Samuels SPECIES
-=======
+# Nectriopsis pipericola (Henn.) Samuels SPECIES
 
 #### Status
 ACCEPTED

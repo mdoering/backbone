@@ -1,5 +1,4 @@
-Laetinaevia lapponica (Nannf.) Nannf. SPECIES
-=======
+# Laetinaevia lapponica (Nannf.) Nannf. SPECIES
 
 #### Status
 ACCEPTED

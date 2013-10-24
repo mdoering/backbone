@@ -1,5 +1,4 @@
-Galerula lenticeps (Peck) G.F. Atk. SPECIES
-=======
+# Galerula lenticeps (Peck) G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

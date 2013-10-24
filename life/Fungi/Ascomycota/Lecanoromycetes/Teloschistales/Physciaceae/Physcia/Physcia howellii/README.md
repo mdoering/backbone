@@ -1,5 +1,4 @@
-Physcia howellii Linder SPECIES
-=======
+# Physcia howellii Linder SPECIES
 
 #### Status
 ACCEPTED

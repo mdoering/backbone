@@ -1,5 +1,4 @@
-Cladonia botryocephala Hepp SPECIES
-=======
+# Cladonia botryocephala Hepp SPECIES
 
 #### Status
 ACCEPTED

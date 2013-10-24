@@ -1,5 +1,4 @@
-Entoloma alnetorum Monthoux & Röllin SPECIES
-=======
+# Entoloma alnetorum Monthoux & Röllin SPECIES
 
 #### Status
 ACCEPTED

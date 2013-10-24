@@ -1,5 +1,4 @@
-Agaricus nitidiusculus Britzelm. SPECIES
-=======
+# Agaricus nitidiusculus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

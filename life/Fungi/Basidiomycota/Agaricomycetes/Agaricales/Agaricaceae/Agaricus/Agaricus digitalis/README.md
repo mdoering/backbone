@@ -1,5 +1,4 @@
-Agaricus digitalis Batsch SPECIES
-=======
+# Agaricus digitalis Batsch SPECIES
 
 #### Status
 ACCEPTED

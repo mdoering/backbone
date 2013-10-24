@@ -1,5 +1,4 @@
-Gnomonia stahlii Kleb. SPECIES
-=======
+# Gnomonia stahlii Kleb. SPECIES
 
 #### Status
 ACCEPTED

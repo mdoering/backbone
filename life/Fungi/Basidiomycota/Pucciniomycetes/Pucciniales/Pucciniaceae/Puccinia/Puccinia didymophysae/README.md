@@ -1,5 +1,4 @@
-Puccinia didymophysae Dietel SPECIES
-=======
+# Puccinia didymophysae Dietel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma montanum Cleland & Cheel SPECIES
-=======
+# Hebeloma montanum Cleland & Cheel SPECIES
 
 #### Status
 ACCEPTED

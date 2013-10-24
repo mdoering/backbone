@@ -1,5 +1,4 @@
-Graphina virginea (Eschw.) Müll. Arg. SPECIES
-=======
+# Graphina virginea (Eschw.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laminaria flagellum (S. G. Gmelin) Steudel SPECIES
-=======
+# Laminaria flagellum (S. G. Gmelin) Steudel SPECIES
 
 #### Status
 ACCEPTED

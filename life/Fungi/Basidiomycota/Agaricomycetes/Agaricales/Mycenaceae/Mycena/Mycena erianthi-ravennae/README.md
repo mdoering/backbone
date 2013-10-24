@@ -1,5 +1,4 @@
-Mycena erianthi-ravennae Robich & M. Marchetti SPECIES
-=======
+# Mycena erianthi-ravennae Robich & M. Marchetti SPECIES
 
 #### Status
 ACCEPTED

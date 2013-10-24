@@ -1,5 +1,4 @@
-Ascophanus gallinaceus (Peck) Seaver SPECIES
-=======
+# Ascophanus gallinaceus (Peck) Seaver SPECIES
 
 #### Status
 ACCEPTED

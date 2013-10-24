@@ -1,5 +1,4 @@
-Bacidia subrotuliformis (Jatta) Zahlbr. SPECIES
-=======
+# Bacidia subrotuliformis (Jatta) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

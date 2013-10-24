@@ -1,5 +1,4 @@
-Pterula pusilla Bres. SPECIES
-=======
+# Pterula pusilla Bres. SPECIES
 
 #### Status
 ACCEPTED

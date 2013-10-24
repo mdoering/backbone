@@ -1,5 +1,4 @@
-Coniothyrium eriogoni Tracy & Earle SPECIES
-=======
+# Coniothyrium eriogoni Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

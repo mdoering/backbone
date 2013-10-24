@@ -1,5 +1,4 @@
-Usnea ledienii Stein SPECIES
-=======
+# Usnea ledienii Stein SPECIES
 
 #### Status
 ACCEPTED

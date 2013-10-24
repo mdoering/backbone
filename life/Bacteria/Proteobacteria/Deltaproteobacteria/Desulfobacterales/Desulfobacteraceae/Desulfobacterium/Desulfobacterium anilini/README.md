@@ -1,5 +1,4 @@
-Desulfobacterium anilini Schnell et al., 1990 SPECIES
-=======
+# Desulfobacterium anilini Schnell et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

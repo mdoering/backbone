@@ -1,5 +1,4 @@
-Stagonospora acaciae Hansf. SPECIES
-=======
+# Stagonospora acaciae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius xerampelianus Singer SPECIES
-=======
+# Marasmius xerampelianus Singer SPECIES
 
 #### Status
 ACCEPTED

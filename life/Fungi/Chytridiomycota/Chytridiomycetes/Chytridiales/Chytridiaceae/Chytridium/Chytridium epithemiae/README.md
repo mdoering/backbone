@@ -1,5 +1,4 @@
-Chytridium epithemiae Nowak. SPECIES
-=======
+# Chytridium epithemiae Nowak. SPECIES
 
 #### Status
 ACCEPTED

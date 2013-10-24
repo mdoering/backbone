@@ -1,5 +1,4 @@
-Prospodium erinaceum Syd. SPECIES
-=======
+# Prospodium erinaceum Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceuthospora ferulina Petr. SPECIES
-=======
+# Ceuthospora ferulina Petr. SPECIES
 
 #### Status
 ACCEPTED

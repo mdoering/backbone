@@ -1,5 +1,4 @@
-Clathrus intermedius E. Fisch. SPECIES
-=======
+# Clathrus intermedius E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

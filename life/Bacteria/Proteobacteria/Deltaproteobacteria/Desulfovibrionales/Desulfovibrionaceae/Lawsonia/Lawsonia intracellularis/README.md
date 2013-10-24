@@ -1,5 +1,4 @@
-Lawsonia intracellularis McOrist et al., 1995 SPECIES
-=======
+# Lawsonia intracellularis McOrist et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

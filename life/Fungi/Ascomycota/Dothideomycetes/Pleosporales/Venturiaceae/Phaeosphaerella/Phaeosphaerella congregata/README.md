@@ -1,5 +1,4 @@
-Phaeosphaerella congregata (Syd.) Doidge SPECIES
-=======
+# Phaeosphaerella congregata (Syd.) Doidge SPECIES
 
 #### Status
 ACCEPTED

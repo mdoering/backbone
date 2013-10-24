@@ -1,5 +1,4 @@
-Graphis elongata var. elongata VARIETY
-=======
+# Graphis elongata Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Graphis elongata var. elongata
+Graphis elongata Vain.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Graphina xylophaga R.C. Harris SPECIES
-=======
+# Graphina xylophaga R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

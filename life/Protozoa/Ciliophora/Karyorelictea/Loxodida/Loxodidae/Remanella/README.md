@@ -1,5 +1,4 @@
-Remanella Kahl, 1933 GENUS
-=======
+# Remanella Kahl, 1933 GENUS
 
 #### Status
 ACCEPTED

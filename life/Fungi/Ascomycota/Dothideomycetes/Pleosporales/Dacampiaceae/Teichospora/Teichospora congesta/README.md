@@ -1,5 +1,4 @@
-Teichospora congesta (Cooke & Ellis) M.E. Barr SPECIES
-=======
+# Teichospora congesta (Cooke & Ellis) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

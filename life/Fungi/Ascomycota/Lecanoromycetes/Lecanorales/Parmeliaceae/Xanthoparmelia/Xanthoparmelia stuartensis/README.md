@@ -1,5 +1,4 @@
-Xanthoparmelia stuartensis Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia stuartensis Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

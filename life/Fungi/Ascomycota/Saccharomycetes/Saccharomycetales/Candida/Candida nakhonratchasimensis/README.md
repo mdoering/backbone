@@ -1,5 +1,4 @@
-Candida nakhonratchasimensis Jindam. & Nakase SPECIES
-=======
+# Candida nakhonratchasimensis Jindam. & Nakase SPECIES
 
 #### Status
 ACCEPTED

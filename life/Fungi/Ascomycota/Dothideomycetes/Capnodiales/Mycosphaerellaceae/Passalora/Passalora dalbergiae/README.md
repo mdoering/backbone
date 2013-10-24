@@ -1,5 +1,4 @@
-Passalora dalbergiae (S.K. Singh & P.N. Singh) U. Braun, Dianese & A. Hern. Gut. SPECIES
-=======
+# Passalora dalbergiae (S.K. Singh & P.N. Singh) U. Braun, Dianese & A. Hern. Gut. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyactis grisea Schwein. SPECIES
-=======
+# Polyactis grisea Schwein. SPECIES
 
 #### Status
 ACCEPTED

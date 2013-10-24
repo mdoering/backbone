@@ -1,5 +1,4 @@
-Stagonospora allantella (Sacc.) Sacc. SPECIES
-=======
+# Stagonospora allantella (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

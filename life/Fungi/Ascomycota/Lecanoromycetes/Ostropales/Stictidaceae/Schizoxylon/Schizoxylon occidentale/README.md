@@ -1,5 +1,4 @@
-Schizoxylon occidentale Ellis & Everh. SPECIES
-=======
+# Schizoxylon occidentale Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

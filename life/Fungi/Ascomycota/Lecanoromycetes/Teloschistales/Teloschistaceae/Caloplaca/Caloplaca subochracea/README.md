@@ -1,5 +1,4 @@
-Caloplaca subochracea var. subochracea VARIETY
-=======
+# Caloplaca subochracea (Wedd.) Werner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Caloplaca subochracea var. subochracea
+null
 
 ### Remarks
 null

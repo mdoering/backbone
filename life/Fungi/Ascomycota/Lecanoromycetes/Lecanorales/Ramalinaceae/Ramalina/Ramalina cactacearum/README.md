@@ -1,5 +1,4 @@
-Ramalina cactacearum Follmann SPECIES
-=======
+# Ramalina cactacearum Follmann SPECIES
 
 #### Status
 ACCEPTED

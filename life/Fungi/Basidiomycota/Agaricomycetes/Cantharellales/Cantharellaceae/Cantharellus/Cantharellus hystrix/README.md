@@ -1,5 +1,4 @@
-Cantharellus hystrix Corner SPECIES
-=======
+# Cantharellus hystrix Corner SPECIES
 
 #### Status
 ACCEPTED

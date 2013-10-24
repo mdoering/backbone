@@ -1,5 +1,4 @@
-Phlegmacium fluryi M.M. Moser SPECIES
-=======
+# Phlegmacium fluryi M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

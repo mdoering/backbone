@@ -1,8 +1,7 @@
-Peziza sequojae W. Phillips SPECIES
-=======
+# Peziza sequoiae W. Phillips SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peziza sequojae W. Phillips
+Peziza sequoiae W. Phillips
 
 ### Remarks
 null

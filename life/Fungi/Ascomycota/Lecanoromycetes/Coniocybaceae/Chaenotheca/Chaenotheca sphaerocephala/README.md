@@ -1,5 +1,4 @@
-Chaenotheca sphaerocephala Nádv. SPECIES
-=======
+# Chaenotheca sphaerocephala Nádv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brunchorstia laricina Ettl. SPECIES
-=======
+# Brunchorstia laricina Ettl. SPECIES
 
 #### Status
 ACCEPTED

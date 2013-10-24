@@ -1,5 +1,4 @@
-Phlyctidium volvocinum (A. Braun) J. Schröt. SPECIES
-=======
+# Phlyctidium volvocinum (A. Braun) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

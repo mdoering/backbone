@@ -1,5 +1,4 @@
-Humaria stipitata Rodway SPECIES
-=======
+# Humaria stipitata Rodway SPECIES
 
 #### Status
 ACCEPTED

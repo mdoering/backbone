@@ -1,5 +1,4 @@
-Valsa longirostrata Henn. SPECIES
-=======
+# Valsa longirostrata Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anaptychia penicillifera (Lettau) Gyeln. SPECIES
-=======
+# Anaptychia penicillifera (Lettau) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichenochora collematum Nik. Hoffm. & Hafellner, 2000 SPECIES
-=======
+# Lichenochora collematum Nik. Hoffm. & Hafellner, 2000 SPECIES
 
 #### Status
 ACCEPTED

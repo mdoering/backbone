@@ -1,5 +1,4 @@
-Mycena ribesinoides Raithelh. SPECIES
-=======
+# Mycena ribesinoides Raithelh. SPECIES
 
 #### Status
 ACCEPTED

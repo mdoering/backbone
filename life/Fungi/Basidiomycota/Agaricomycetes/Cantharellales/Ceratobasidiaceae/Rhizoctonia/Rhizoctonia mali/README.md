@@ -1,5 +1,4 @@
-Rhizoctonia mali DC. SPECIES
-=======
+# Rhizoctonia mali DC. SPECIES
 
 #### Status
 ACCEPTED

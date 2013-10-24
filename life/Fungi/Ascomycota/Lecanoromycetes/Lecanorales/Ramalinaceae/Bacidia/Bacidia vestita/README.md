@@ -1,5 +1,4 @@
-Bacidia vestita (Mont.) Zahlbr. SPECIES
-=======
+# Bacidia vestita (Mont.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

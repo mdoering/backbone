@@ -1,5 +1,4 @@
-Ovularia jubatskana Sacc. SPECIES
-=======
+# Ovularia jubatskana Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nesolechia halacsyi J. Steiner SPECIES
-=======
+# Nesolechia halacsyi J. Steiner SPECIES
 
 #### Status
 ACCEPTED

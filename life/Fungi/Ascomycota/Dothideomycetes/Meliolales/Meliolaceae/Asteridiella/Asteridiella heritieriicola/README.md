@@ -1,5 +1,4 @@
-Asteridiella heritieriicola (Thite & D.K. Kulk.) Hosag. SPECIES
-=======
+# Asteridiella heritieriicola (Thite & D.K. Kulk.) Hosag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Leptogium sinuatum var. sinuatum VARIETY
-=======
+# Leptogium gelatinosum (With.) J. R. Laundon SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Memor. Lichenogr. 88, fig. 106 (1853)
+Lichenologist 16(3): 219 (1984)
 
 #### Original name
-Leptogium sinuatum var. sinuatum
+Lichen gelatinosus Oeder
 
 ### Remarks
 null

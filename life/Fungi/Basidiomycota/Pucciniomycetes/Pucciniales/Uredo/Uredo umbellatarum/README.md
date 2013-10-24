@@ -1,5 +1,4 @@
-Uredo umbellatarum SPECIES
-=======
+# Uredo umbellatarum SPECIES
 
 #### Status
 ACCEPTED

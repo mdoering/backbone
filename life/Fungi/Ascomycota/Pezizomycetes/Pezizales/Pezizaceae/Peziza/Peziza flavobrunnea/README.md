@@ -1,5 +1,4 @@
-Peziza flavobrunnea Richon SPECIES
-=======
+# Peziza flavobrunnea Richon SPECIES
 
 #### Status
 ACCEPTED

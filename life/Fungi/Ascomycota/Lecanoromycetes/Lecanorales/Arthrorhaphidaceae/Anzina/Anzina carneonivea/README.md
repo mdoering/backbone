@@ -1,5 +1,4 @@
-Varicellaria carneonivea var. carneonivea VARIETY
-=======
+# Anzina carneonivea (Anzi) Scheid. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Vezda, Lichenes Selecti Exsiccati (Pruhonice), Fascicle <b>73</b> 73: 5 (1982)
 
 #### Original name
-Varicellaria carneonivea var. carneonivea
+Gyalolechia carneonivea Anzi
 
 ### Remarks
 null

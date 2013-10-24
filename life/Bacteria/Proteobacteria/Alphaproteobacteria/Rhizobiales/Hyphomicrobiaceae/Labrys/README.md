@@ -1,5 +1,4 @@
-Labrys Vasilyeva & Semenov, 1985 GENUS
-=======
+# Labrys Vasilyeva & Semenov, 1985 GENUS
 
 #### Status
 ACCEPTED

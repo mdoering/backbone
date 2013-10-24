@@ -1,5 +1,4 @@
-Thelohania Henneguy GENUS
-=======
+# Thelohania Henneguy GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria conferciens (Britzelm.) Sacc. SPECIES
-=======
+# Naucoria conferciens (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

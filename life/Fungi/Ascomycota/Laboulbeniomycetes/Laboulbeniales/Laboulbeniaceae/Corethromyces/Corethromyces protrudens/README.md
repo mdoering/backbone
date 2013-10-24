@@ -1,5 +1,4 @@
-Corethromyces protrudens Thaxt. SPECIES
-=======
+# Corethromyces protrudens Thaxt. SPECIES
 
 #### Status
 ACCEPTED

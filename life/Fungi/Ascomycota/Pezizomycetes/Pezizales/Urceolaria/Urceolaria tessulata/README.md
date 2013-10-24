@@ -1,5 +1,4 @@
-Urceolaria tessulata (Ach.) Ach. SPECIES
-=======
+# Urceolaria tessulata (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

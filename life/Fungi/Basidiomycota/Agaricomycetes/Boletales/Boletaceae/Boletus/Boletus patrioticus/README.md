@@ -1,5 +1,4 @@
-Boletus patrioticus T.J. Baroni, Bessette & Roody SPECIES
-=======
+# Boletus patrioticus T.J. Baroni, Bessette & Roody SPECIES
 
 #### Status
 ACCEPTED

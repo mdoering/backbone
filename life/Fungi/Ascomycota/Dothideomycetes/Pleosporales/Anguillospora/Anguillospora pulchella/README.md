@@ -1,5 +1,4 @@
-Anguillospora pulchella Wolfe SPECIES
-=======
+# Anguillospora pulchella Wolfe SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Goplana concinna Syd., 1937 SPECIES
-=======
+# Goplana concinna Syd., 1937 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Streptococcus raffinolactis Orla-Jensen and Hansen, 1932 (Approved Lists, 1980) SPECIES
-=======
+# Lactococcus raffinolactis (Orla-Jensen & Hansen, 1932) Schleifer et al., 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

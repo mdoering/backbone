@@ -1,5 +1,4 @@
-Cyclotella kutzingiana Thwaites SPECIES
-=======
+# Cyclotella kutzingiana Thwaites SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strigula epiphylla Eschw. SPECIES
-=======
+# Strigula epiphylla Eschw. SPECIES
 
 #### Status
 ACCEPTED

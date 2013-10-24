@@ -1,5 +1,4 @@
-Puccinia patruelis Arthur, 1910 SPECIES
-=======
+# Puccinia patruelis Arthur, 1910 SPECIES
 
 #### Status
 ACCEPTED

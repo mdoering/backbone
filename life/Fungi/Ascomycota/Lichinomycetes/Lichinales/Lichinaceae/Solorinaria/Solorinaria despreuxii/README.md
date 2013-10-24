@@ -1,5 +1,4 @@
-Solorinaria despreuxii SPECIES
-=======
+# Solorinaria despreuxii SPECIES
 
 #### Status
 ACCEPTED

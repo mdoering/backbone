@@ -1,5 +1,4 @@
-Thalassiphora pelagica (Eisenack, 1954) Eisenack & Gocht, 1960 SPECIES
-=======
+# Thalassiphora pelagica (Eisenack, 1954) Eisenack & Gocht, 1960 SPECIES
 
 #### Status
 ACCEPTED

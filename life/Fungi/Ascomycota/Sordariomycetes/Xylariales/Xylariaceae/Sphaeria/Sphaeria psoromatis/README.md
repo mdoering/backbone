@@ -1,5 +1,4 @@
-Sphaeria psoromatis Massee SPECIES
-=======
+# Sphaeria psoromatis Massee SPECIES
 
 #### Status
 ACCEPTED

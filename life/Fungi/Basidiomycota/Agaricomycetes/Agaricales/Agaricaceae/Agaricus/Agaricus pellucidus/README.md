@@ -1,5 +1,4 @@
-Agaricus pellucidus Cumino SPECIES
-=======
+# Agaricus pellucidus Cumino SPECIES
 
 #### Status
 ACCEPTED

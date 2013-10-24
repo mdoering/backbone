@@ -1,5 +1,4 @@
-Boletus cyaneirufescens Corner SPECIES
-=======
+# Boletus cyaneirufescens Corner SPECIES
 
 #### Status
 ACCEPTED

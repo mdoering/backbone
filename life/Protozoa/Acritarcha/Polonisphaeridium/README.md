@@ -1,5 +1,4 @@
-Polonisphaeridium GENUS
-=======
+# Polonisphaeridium GENUS
 
 #### Status
 ACCEPTED

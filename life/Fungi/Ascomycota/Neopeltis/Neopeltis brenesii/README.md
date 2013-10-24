@@ -1,5 +1,4 @@
-Neopeltis brenesii Syd., 1937 SPECIES
-=======
+# Neopeltis brenesii Syd., 1937 SPECIES
 
 #### Status
 ACCEPTED

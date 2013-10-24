@@ -1,5 +1,4 @@
-Aspergillus longobasidia Bainier ex Mosseray SPECIES
-=======
+# Aspergillus longobasidia Bainier ex Mosseray SPECIES
 
 #### Status
 ACCEPTED

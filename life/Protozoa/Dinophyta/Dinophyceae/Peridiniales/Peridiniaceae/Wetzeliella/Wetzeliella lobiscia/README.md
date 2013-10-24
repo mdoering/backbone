@@ -1,5 +1,4 @@
-Wetzeliella lobiscia (G.L. Williams & C. Downie) D.W. Jolley & E. Spinner SPECIES
-=======
+# Wetzeliella lobiscia (G.L. Williams & C. Downie) D.W. Jolley & E. Spinner SPECIES
 
 #### Status
 ACCEPTED

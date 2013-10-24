@@ -1,5 +1,4 @@
-Meliola citharexyli (Hansf.) Cif. SPECIES
-=======
+# Meliola citharexyli (Hansf.) Cif. SPECIES
 
 #### Status
 ACCEPTED

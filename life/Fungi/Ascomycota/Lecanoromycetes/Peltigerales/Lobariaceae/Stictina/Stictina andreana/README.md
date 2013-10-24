@@ -1,5 +1,4 @@
-Stictina andreana Müll. Arg. SPECIES
-=======
+# Stictina andreana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coenogoniomycella linkii Cif. & Tomas. SPECIES
-=======
+# Coenogoniomycella linkii Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

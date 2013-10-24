@@ -1,5 +1,4 @@
-Cladosporium ossifragi (Rostr.) U. Braun & K. Schub. SPECIES
-=======
+# Cladosporium ossifragi (Rostr.) U. Braun & K. Schub. SPECIES
 
 #### Status
 ACCEPTED

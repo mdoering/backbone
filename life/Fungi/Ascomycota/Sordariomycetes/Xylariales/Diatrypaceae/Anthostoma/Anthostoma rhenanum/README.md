@@ -1,5 +1,4 @@
-Anthostoma rhenanum (Fuckel) Sacc. SPECIES
-=======
+# Anthostoma rhenanum (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

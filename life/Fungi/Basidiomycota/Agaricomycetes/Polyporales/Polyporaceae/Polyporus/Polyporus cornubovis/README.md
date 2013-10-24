@@ -1,5 +1,4 @@
-Polyporus cornubovis Cooke SPECIES
-=======
+# Polyporus cornubovis Cooke SPECIES
 
 #### Status
 ACCEPTED

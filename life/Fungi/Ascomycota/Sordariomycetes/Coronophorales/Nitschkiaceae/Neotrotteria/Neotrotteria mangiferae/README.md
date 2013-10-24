@@ -1,5 +1,4 @@
-Neotrotteria mangiferae Vaidya SPECIES
-=======
+# Neotrotteria mangiferae Vaidya SPECIES
 
 #### Status
 ACCEPTED

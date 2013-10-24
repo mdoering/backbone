@@ -1,5 +1,4 @@
-Marasmius trinitatis var. trinitatis VARIETY
-=======
+# Marasmius trinitatis Dennis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Marasmius trinitatis var. trinitatis
+Marasmius trinitatis Dennis
 
 ### Remarks
 null

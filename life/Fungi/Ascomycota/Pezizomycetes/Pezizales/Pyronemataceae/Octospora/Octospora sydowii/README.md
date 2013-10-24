@@ -1,5 +1,4 @@
-Octospora sydowii (Rehm) M.M. Moser SPECIES
-=======
+# Octospora sydowii (Rehm) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

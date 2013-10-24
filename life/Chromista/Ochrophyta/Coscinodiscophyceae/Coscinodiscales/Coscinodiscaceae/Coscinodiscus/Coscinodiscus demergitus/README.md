@@ -1,5 +1,4 @@
-Coscinodiscus demergitus J. Fenner SPECIES
-=======
+# Coscinodiscus demergitus J. Fenner SPECIES
 
 #### Status
 ACCEPTED

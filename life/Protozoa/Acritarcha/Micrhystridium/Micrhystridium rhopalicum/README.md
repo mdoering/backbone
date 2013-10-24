@@ -1,5 +1,4 @@
-Micrhystridium rhopalicum Sarjeant, 1962 SPECIES
-=======
+# Micrhystridium rhopalicum Sarjeant, 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Favelloides serrata SPECIES
-=======
+# Favelloides serrata SPECIES
 
 #### Status
 ACCEPTED

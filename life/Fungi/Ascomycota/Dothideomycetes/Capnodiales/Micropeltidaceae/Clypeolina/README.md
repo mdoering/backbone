@@ -1,5 +1,4 @@
-Clypeolina Theissen, 1918 GENUS
-=======
+# Clypeolina Theissen, 1918 GENUS
 
 #### Status
 ACCEPTED

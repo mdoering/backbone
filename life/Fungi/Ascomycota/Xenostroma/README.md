@@ -1,5 +1,4 @@
-Xenostroma Höhn. GENUS
-=======
+# Xenostroma Höhn. GENUS
 
 #### Status
 ACCEPTED

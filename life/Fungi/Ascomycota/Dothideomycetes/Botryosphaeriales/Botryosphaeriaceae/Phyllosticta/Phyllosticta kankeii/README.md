@@ -1,5 +1,4 @@
-Phyllosticta kankeii A.K. Dutta ex R.S. Mathur SPECIES
-=======
+# Phyllosticta kankeii A.K. Dutta ex R.S. Mathur SPECIES
 
 #### Status
 ACCEPTED

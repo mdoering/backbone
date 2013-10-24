@@ -1,14 +1,13 @@
-Camarophyllus schulzeri (Bres.) Ricken, 1920 SPECIES
-=======
+# Camarophyllopsis schulzeri (Bres.) Herink, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Vadem. Pilzfr. 198 (1920)
+Sborník severoceského Musea, Historia Naturalis 1: 62 (1958)
 
 #### Original name
 Hygrophorus schulzeri Bres., 1881

@@ -1,5 +1,4 @@
-Xenasma parvisporum Pouzar, 1982 SPECIES
-=======
+# Xenasma parvisporum Pouzar, 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogium harmandii SPECIES
-=======
+# Leptogium harmandii SPECIES
 
 #### Status
 ACCEPTED

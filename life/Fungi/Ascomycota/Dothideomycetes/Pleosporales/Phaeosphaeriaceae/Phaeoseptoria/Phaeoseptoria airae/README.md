@@ -1,14 +1,13 @@
-Septoria alopecuri var. airae Grove, 1935 VARIETY
-=======
+# Phaeoseptoria airae (Grove) R. Sprague, 1943 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-British Stem- and Leaf-Fungi (Coelomycetes) (Cambridge) 1: 425 (1935)
+Mycologia 35(4): 485 (1943)
 
 #### Original name
 Septoria alopecuri var. airae Grove, 1935

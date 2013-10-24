@@ -1,5 +1,4 @@
-Lecidea laetissima Fée SPECIES
-=======
+# Lecidea laetissima Fée SPECIES
 
 #### Status
 ACCEPTED

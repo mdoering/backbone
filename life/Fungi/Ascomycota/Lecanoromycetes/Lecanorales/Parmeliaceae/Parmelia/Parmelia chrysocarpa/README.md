@@ -1,5 +1,4 @@
-Parmelia chrysocarpa Meyer {?} SPECIES
-=======
+# Parmelia chrysocarpa Meyer {?} SPECIES
 
 #### Status
 ACCEPTED

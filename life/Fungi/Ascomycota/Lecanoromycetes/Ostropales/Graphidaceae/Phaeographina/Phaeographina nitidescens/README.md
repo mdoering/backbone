@@ -1,5 +1,4 @@
-Phaeographina nitidescens Fink SPECIES
-=======
+# Phaeographina nitidescens Fink SPECIES
 
 #### Status
 ACCEPTED

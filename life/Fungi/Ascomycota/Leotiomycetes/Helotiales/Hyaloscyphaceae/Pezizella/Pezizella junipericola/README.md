@@ -1,5 +1,4 @@
-Pezizella junipericola Svrcek SPECIES
-=======
+# Pezizella junipericola Svrcek SPECIES
 
 #### Status
 ACCEPTED

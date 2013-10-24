@@ -1,5 +1,4 @@
-Gyrodinium chiasmonetrium Norris, 1961 SPECIES
-=======
+# Gyrodinium chiasmonetrium Norris, 1961 SPECIES
 
 #### Status
 ACCEPTED

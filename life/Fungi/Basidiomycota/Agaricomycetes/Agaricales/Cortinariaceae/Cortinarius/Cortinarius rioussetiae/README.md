@@ -1,5 +1,4 @@
-Cortinarius rioussetiae Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius rioussetiae Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

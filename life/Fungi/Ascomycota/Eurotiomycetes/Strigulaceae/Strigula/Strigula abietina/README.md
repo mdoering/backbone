@@ -1,5 +1,4 @@
-Strigula abietina Fr. SPECIES
-=======
+# Strigula abietina Fr. SPECIES
 
 #### Status
 ACCEPTED

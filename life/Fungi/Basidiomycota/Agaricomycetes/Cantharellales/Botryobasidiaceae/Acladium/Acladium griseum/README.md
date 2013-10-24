@@ -1,17 +1,16 @@
-Acladium gyrseum Wallr. SPECIES
-=======
+# Acladium griseum Wallr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Instituto, (Coimbra) 4(1): 555 (1827)
 
 #### Original name
-Acladium gyrseum Wallr.
+Acladium griseum Wallr.
 
 ### Remarks
 null

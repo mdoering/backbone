@@ -1,5 +1,4 @@
-Neofuscelia stenosporonica Elix & Schumm SPECIES
-=======
+# Neofuscelia stenosporonica Elix & Schumm SPECIES
 
 #### Status
 ACCEPTED

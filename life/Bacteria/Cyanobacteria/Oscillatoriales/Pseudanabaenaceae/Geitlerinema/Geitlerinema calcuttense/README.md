@@ -1,5 +1,4 @@
-Geitlerinema calcuttense (Biswas) Anagnostidis SPECIES
-=======
+# Geitlerinema calcuttense (Biswas) Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

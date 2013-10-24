@@ -1,5 +1,4 @@
-Hyaloscypha byssacea (P. Karst.) Boud. SPECIES
-=======
+# Hyaloscypha byssacea (P. Karst.) Boud. SPECIES
 
 #### Status
 ACCEPTED

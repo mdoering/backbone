@@ -1,5 +1,4 @@
-Blastocladia mammillata S.N. Dasgupta & R. John SPECIES
-=======
+# Blastocladia mammillata S.N. Dasgupta & R. John SPECIES
 
 #### Status
 ACCEPTED

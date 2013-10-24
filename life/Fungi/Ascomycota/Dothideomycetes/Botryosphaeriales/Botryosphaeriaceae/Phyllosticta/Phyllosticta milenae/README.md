@@ -1,5 +1,4 @@
-Phyllosticta milenae Bubák SPECIES
-=======
+# Phyllosticta milenae Bubák SPECIES
 
 #### Status
 ACCEPTED

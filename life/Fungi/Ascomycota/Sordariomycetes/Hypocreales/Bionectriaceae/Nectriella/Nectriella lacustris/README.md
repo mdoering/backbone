@@ -1,5 +1,4 @@
-Nectriella lacustris (Kirschst.) Magnes & Hafellner SPECIES
-=======
+# Nectriella lacustris (Kirschst.) Magnes & Hafellner SPECIES
 
 #### Status
 ACCEPTED

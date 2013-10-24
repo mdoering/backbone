@@ -1,14 +1,13 @@
-Leptotrema laevius (Vain.) Zahlbr. SPECIES
-=======
+# Thelotrema laevius Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 2: 635 (1923)
+null
 
 #### Original name
 Thelotrema laevius Vain.

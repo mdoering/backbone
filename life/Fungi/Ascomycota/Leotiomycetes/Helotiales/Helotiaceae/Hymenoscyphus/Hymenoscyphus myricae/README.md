@@ -1,5 +1,4 @@
-Hymenoscyphus myricae (Rehm) Kuntze SPECIES
-=======
+# Hymenoscyphus myricae (Rehm) Kuntze SPECIES
 
 #### Status
 ACCEPTED

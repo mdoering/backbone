@@ -1,5 +1,4 @@
-Phragmidium intermedium Eysenh. {?} SPECIES
-=======
+# Phragmidium intermedium Eysenh. {?} SPECIES
 
 #### Status
 ACCEPTED

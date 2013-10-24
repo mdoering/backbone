@@ -1,5 +1,4 @@
-Hendersonia marginata Sacc. SPECIES
-=======
+# Hendersonia marginata Sacc. SPECIES
 
 #### Status
 ACCEPTED

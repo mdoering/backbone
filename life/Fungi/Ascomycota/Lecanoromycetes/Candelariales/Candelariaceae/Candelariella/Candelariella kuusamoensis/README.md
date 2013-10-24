@@ -1,5 +1,4 @@
-Candelariella kuusamoensis Räsänen SPECIES
-=======
+# Candelariella kuusamoensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

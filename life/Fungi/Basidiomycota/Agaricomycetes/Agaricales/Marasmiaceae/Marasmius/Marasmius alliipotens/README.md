@@ -1,5 +1,4 @@
-Marasmius alliipotens Corner SPECIES
-=======
+# Marasmius alliipotens Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arkonia G. Burmann, 1970 GENUS
-=======
+# Arkonia G. Burmann, 1970 GENUS
 
 #### Status
 ACCEPTED

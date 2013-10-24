@@ -1,5 +1,4 @@
-Peltasteropsis eugeniae Bat. & Cif. SPECIES
-=======
+# Peltasteropsis eugeniae Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

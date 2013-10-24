@@ -1,5 +1,4 @@
-Nectria fragilis Dingley, 1951 SPECIES
-=======
+# Nectria fragilis Dingley, 1951 SPECIES
 
 #### Status
 ACCEPTED

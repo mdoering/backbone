@@ -1,5 +1,4 @@
-Baltisphaeridium ainiktum Loeblich & Wicander, 1976 SPECIES
-=======
+# Baltisphaeridium ainiktum Loeblich & Wicander, 1976 SPECIES
 
 #### Status
 ACCEPTED

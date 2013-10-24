@@ -1,5 +1,4 @@
-Oxytricha echinata Claparède & Lachmann, 1859 SPECIES
-=======
+# Oxytricha echinata Claparède & Lachmann, 1859 SPECIES
 
 #### Status
 ACCEPTED

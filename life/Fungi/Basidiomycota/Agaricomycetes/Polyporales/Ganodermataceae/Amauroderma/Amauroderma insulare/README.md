@@ -1,5 +1,4 @@
-Amauroderma insulare (Har. & Pat.) Torrend, 1920 SPECIES
-=======
+# Amauroderma insulare (Har. & Pat.) Torrend, 1920 SPECIES
 
 #### Status
 ACCEPTED

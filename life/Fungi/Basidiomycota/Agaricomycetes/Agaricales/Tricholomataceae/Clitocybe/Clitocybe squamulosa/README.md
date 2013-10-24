@@ -1,17 +1,16 @@
-Agaricus squamulosus var. squamulosus VARIETY
-=======
+# Clitocybe squamulosa (Pers.) Fr., 1821 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. mycol. (Lundae) 1: 82 (1821)
 
 #### Original name
-null
+Agaricus squamulosus Pers., 1801
 
 ### Remarks
 null

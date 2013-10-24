@@ -1,5 +1,4 @@
-Macrophoma boltoniae Dearn. SPECIES
-=======
+# Macrophoma boltoniae Dearn. SPECIES
 
 #### Status
 ACCEPTED

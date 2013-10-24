@@ -1,5 +1,4 @@
-Amanita constricta Thiers & Ammirati SPECIES
-=======
+# Amanita constricta Thiers & Ammirati SPECIES
 
 #### Status
 ACCEPTED

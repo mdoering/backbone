@@ -1,17 +1,16 @@
-Pleiostomella Syd. & P. Syd. GENUS
-=======
+# Mendogia Racib. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 15(3/4): 221 (1917)
+Parasit. Alg. Pilze Java's (Jakarta) 3: 31 (1900)
 
 #### Original name
-Pleiostomella Syd. & P. Syd.
+Mendogia Racib.
 
 ### Remarks
 null

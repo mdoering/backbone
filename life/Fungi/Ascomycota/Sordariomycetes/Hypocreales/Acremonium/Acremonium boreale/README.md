@@ -1,5 +1,4 @@
-Acremonium boreale J.D. Sm. & J.G.N. Davidson SPECIES
-=======
+# Acremonium boreale J.D. Sm. & J.G.N. Davidson SPECIES
 
 #### Status
 ACCEPTED

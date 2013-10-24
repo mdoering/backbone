@@ -1,5 +1,4 @@
-Pterocorys Haeckel, 1881 GENUS
-=======
+# Pterocorys Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

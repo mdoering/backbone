@@ -1,5 +1,4 @@
-Angelina leprieurii Mont. SPECIES
-=======
+# Angelina leprieurii Mont. SPECIES
 
 #### Status
 ACCEPTED

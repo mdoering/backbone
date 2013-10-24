@@ -1,5 +1,4 @@
-Fusisporium schiedermayeri Thüm. SPECIES
-=======
+# Fusisporium schiedermayeri Thüm. SPECIES
 
 #### Status
 ACCEPTED

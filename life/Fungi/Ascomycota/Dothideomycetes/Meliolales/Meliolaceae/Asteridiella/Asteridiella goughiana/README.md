@@ -1,5 +1,4 @@
-Asteridiella goughiana Mibey SPECIES
-=======
+# Asteridiella goughiana Mibey SPECIES
 
 #### Status
 ACCEPTED

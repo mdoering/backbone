@@ -1,5 +1,4 @@
-Neozygites slavi S. Keller, 2006 SPECIES
-=======
+# Neozygites slavi S. Keller, 2006 SPECIES
 
 #### Status
 ACCEPTED

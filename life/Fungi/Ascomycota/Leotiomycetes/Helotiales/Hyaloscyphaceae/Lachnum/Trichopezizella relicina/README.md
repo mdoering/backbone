@@ -1,5 +1,4 @@
-Trichopezizella relicina var. relicina VARIETY
-=======
+# Trichopezizella relicina (Fr.) Raitv. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Akad. Nauk Estonskoi S. S. R. , Inst. Zool. Bot. , Tartu 60 (1970)
 
 #### Original name
-Trichopezizella relicina var. relicina
+Peziza relicina Fr.
 
 ### Remarks
 null

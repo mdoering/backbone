@@ -1,17 +1,16 @@
-Podobactridium Penz. & Sacc. ex Petch GENUS
-=======
+# Bactridium Kunze, 1817 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. R. bot. Gdns Peradeniya 6: 180 (1916)
+in Kunze & Schmidt, Mykologische Hefte (Leipzig) 1: 5 (1817)
 
 #### Original name
-Podobactridium Penz. & Sacc. ex Petch
+Bactridium Kunze, 1817
 
 ### Remarks
 null

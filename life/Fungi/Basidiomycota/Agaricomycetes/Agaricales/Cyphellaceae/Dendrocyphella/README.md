@@ -1,5 +1,4 @@
-Dendrocyphella GENUS
-=======
+# Dendrocyphella GENUS
 
 #### Status
 ACCEPTED

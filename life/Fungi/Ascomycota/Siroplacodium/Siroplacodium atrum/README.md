@@ -1,5 +1,4 @@
-Siroplacodium atrum Petr., 1940 SPECIES
-=======
+# Siroplacodium atrum Petr., 1940 SPECIES
 
 #### Status
 ACCEPTED

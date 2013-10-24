@@ -1,14 +1,13 @@
-Gloeosporium longisporum J.F.H. Beyma, 1929 SPECIES
-=======
+# Cryptosporiopsis longispora (J.F.H. Beyma) Arx, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. K. ned. Akad. Wet. , 2 Sectie 26(4): 9 (1929)
+Verh. K. Akad. Wet. , tweede sect. 51(3): 100 (1957)
 
 #### Original name
 Gloeosporium longisporum J.F.H. Beyma, 1929

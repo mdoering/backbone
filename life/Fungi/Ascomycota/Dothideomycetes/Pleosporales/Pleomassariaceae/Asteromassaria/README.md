@@ -1,5 +1,4 @@
-Asteromassaria Höhn. GENUS
-=======
+# Asteromassaria Höhn. GENUS
 
 #### Status
 ACCEPTED

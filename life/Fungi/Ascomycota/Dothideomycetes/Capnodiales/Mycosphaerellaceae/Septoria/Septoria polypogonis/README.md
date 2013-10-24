@@ -1,5 +1,4 @@
-Septoria polypogonis Sacc. & Trotter SPECIES
-=======
+# Septoria polypogonis Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

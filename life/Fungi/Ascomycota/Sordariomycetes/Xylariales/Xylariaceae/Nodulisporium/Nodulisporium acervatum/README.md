@@ -1,14 +1,13 @@
-Isaria acervata Massee, 1901 SPECIES
-=======
+# Nodulisporium acervatum (Massee) Deighton, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 85(3): 391 (1985)
 
 #### Original name
 Isaria acervata Massee, 1901

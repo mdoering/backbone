@@ -1,5 +1,4 @@
-Macrophoma eriobotryae Peglion SPECIES
-=======
+# Macrophoma eriobotryae Peglion SPECIES
 
 #### Status
 ACCEPTED

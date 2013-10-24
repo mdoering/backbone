@@ -1,5 +1,4 @@
-Marasmius bathomphalus Singer SPECIES
-=======
+# Marasmius bathomphalus Singer SPECIES
 
 #### Status
 ACCEPTED

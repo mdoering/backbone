@@ -1,14 +1,13 @@
-Leibleinia Meneghini, 1838 GENUS
-=======
+# Calothrix C.Agardh ex Bornet & Flahault, 1886 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cenni Algh. , p. 31.
+Ann. Sci. Nat. Bot. , ser. 7, 3: 345.
 
 #### Original name
 null

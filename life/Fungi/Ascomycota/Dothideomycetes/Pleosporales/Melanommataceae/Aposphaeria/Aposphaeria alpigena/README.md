@@ -1,5 +1,4 @@
-Aposphaeria alpigena Ellis & Everh. SPECIES
-=======
+# Aposphaeria alpigena Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

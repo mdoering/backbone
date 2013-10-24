@@ -1,5 +1,4 @@
-Phyllosticta effusa (Roberge) Allesch. SPECIES
-=======
+# Phyllosticta effusa (Roberge) Allesch. SPECIES
 
 #### Status
 ACCEPTED

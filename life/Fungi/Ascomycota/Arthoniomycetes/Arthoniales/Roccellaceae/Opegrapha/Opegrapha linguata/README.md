@@ -1,5 +1,4 @@
-Opegrapha linguata var. linguata VARIETY
-=======
+# Opegrapha linguata Redinger SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Opegrapha linguata var. linguata
+Opegrapha linguata Redinger
 
 ### Remarks
 null

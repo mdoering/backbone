@@ -1,5 +1,4 @@
-Helvella craterella (Hedw.) Quél. SPECIES
-=======
+# Helvella craterella (Hedw.) Quél. SPECIES
 
 #### Status
 ACCEPTED

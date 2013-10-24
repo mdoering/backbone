@@ -1,17 +1,16 @@
-Diderma radiatum var. rubrum VARIETY
-=======
+# Diderma radiatum (L.) Morgan, 1894 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Schr. naturw. Ver. Schles. -Holst. 15: 59 (1912)
+J. Cincinnati Soc. Nat. Hist. 16: 151 (1894)
 
 #### Original name
-Diderma radiatum var. rubrum
+Lycoperdon radiatum L.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cercospora grisleae Syd. SPECIES
-=======
+# Cercospora grisleae Syd. SPECIES
 
 #### Status
 ACCEPTED

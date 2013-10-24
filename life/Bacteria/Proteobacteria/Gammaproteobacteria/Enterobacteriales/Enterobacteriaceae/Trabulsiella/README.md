@@ -1,5 +1,4 @@
-Trabulsiella McWhorter et al., 1992 GENUS
-=======
+# Trabulsiella McWhorter et al., 1992 GENUS
 
 #### Status
 ACCEPTED

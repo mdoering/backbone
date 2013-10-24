@@ -1,5 +1,4 @@
-Caloplaca sauronii Søchting & Øvstedal SPECIES
-=======
+# Caloplaca sauronii Søchting & Øvstedal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria duplicella Nyl. SPECIES
-=======
+# Sphaeria duplicella Nyl. SPECIES
 
 #### Status
 ACCEPTED

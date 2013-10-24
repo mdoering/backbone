@@ -1,5 +1,4 @@
-Werneromyces rabatensis SPECIES
-=======
+# Werneromyces rabatensis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria menispermi Thüm. SPECIES
-=======
+# Septoria menispermi Thüm. SPECIES
 
 #### Status
 ACCEPTED

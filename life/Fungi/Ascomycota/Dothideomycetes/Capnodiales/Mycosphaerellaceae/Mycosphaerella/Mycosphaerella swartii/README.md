@@ -1,5 +1,4 @@
-Mycosphaerella swartii R.F. Park & Keane, 1984 SPECIES
-=======
+# Mycosphaerella swartii R.F. Park & Keane, 1984 SPECIES
 
 #### Status
 ACCEPTED

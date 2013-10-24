@@ -1,5 +1,4 @@
-Dermatocarpon choisyi D.D. Awasthi SPECIES
-=======
+# Dermatocarpon choisyi D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

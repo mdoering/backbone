@@ -1,5 +1,4 @@
-Dermacoccaceae FAMILY
-=======
+# Dermacoccaceae FAMILY
 
 #### Status
 ACCEPTED

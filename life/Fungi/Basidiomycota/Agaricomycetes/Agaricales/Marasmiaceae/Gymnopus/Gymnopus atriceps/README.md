@@ -1,5 +1,4 @@
-Gymnopus atriceps Murrill SPECIES
-=======
+# Gymnopus atriceps Murrill SPECIES
 
 #### Status
 ACCEPTED

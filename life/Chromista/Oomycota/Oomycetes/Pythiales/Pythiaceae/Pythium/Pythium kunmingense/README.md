@@ -1,5 +1,4 @@
-Pythium kunmingense Y.N. Yu, 1973 SPECIES
-=======
+# Pythium kunmingense Y.N. Yu, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Enterobryus zinophorae G.J.M. Gorter, 1993 SPECIES
-=======
+# Enterobryus zinophorae G.J.M. Gorter, 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Aspergillus niger var. tubingensis (Mosseray) Kozak., 1989 VARIETY
-=======
+# Aspergillus tubingensis Mosseray, 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 161: 112 (1989)
+La Cellule 43: 245 (1934)
 
 #### Original name
 Aspergillus tubingensis Mosseray, 1934

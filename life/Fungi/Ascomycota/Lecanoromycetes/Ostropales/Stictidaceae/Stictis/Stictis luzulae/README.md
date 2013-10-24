@@ -1,5 +1,4 @@
-Stictis luzulae Lib. SPECIES
-=======
+# Stictis luzulae Lib. SPECIES
 
 #### Status
 ACCEPTED

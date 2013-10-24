@@ -1,5 +1,4 @@
-Hyaloscypha lunispora Velen. SPECIES
-=======
+# Hyaloscypha lunispora Velen. SPECIES
 
 #### Status
 ACCEPTED

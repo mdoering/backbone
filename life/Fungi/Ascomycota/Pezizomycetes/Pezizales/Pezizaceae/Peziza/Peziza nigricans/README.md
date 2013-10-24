@@ -1,5 +1,4 @@
-Peziza nigricans Fr. SPECIES
-=======
+# Peziza nigricans Fr. SPECIES
 
 #### Status
 ACCEPTED

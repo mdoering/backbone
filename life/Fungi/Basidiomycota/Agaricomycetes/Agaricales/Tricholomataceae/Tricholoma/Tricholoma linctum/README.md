@@ -1,5 +1,4 @@
-Tricholoma linctum P. Karst. SPECIES
-=======
+# Tricholoma linctum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tuburcinia ceratocephali Zambett. SPECIES
-=======
+# Tuburcinia ceratocephali Zambett. SPECIES
 
 #### Status
 ACCEPTED

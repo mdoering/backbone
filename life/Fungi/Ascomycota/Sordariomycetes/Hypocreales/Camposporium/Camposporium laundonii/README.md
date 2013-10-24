@@ -1,5 +1,4 @@
-Camposporium laundonii M.B. Ellis, 1976 SPECIES
-=======
+# Camposporium laundonii M.B. Ellis, 1976 SPECIES
 
 #### Status
 ACCEPTED

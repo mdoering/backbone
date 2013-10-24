@@ -1,5 +1,4 @@
-Pleurotus petalodes f. petalodes FORM
-=======
+# Pleurotus petalodes SPECIES
 
 #### Status
 ACCEPTED

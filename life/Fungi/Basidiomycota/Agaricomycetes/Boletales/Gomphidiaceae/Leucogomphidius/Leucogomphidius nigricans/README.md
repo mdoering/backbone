@@ -1,5 +1,4 @@
-Leucogomphidius nigricans (Peck) Kotl. & Pouzar SPECIES
-=======
+# Leucogomphidius nigricans (Peck) Kotl. & Pouzar SPECIES
 
 #### Status
 ACCEPTED

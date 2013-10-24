@@ -1,5 +1,4 @@
-Passalora caribensis Crous & Den Breeÿen SPECIES
-=======
+# Passalora caribensis Crous & Den Breeÿen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Membrosphaera dividata Eiserhardt, 1991 SPECIES
-=======
+# Membrosphaera dividata Eiserhardt, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leiophloea parvula (Zahlbr.) Riedl SPECIES
-=======
+# Leiophloea parvula (Zahlbr.) Riedl SPECIES
 
 #### Status
 ACCEPTED

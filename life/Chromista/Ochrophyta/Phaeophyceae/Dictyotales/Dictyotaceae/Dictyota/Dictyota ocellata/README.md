@@ -1,5 +1,4 @@
-Dictyota ocellata J. Agardh SPECIES
-=======
+# Dictyota ocellata J. Agardh SPECIES
 
 #### Status
 ACCEPTED

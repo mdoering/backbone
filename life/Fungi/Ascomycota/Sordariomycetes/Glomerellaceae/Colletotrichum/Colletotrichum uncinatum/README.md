@@ -1,5 +1,4 @@
-Colletotrichum uncinatum (Berk. & M.A. Curtis) Duke SPECIES
-=======
+# Colletotrichum uncinatum (Berk. & M.A. Curtis) Duke SPECIES
 
 #### Status
 ACCEPTED

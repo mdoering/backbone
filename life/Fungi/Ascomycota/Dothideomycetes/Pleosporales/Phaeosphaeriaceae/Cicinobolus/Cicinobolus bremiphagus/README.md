@@ -1,8 +1,7 @@
-Cicinnobolus bremiphagus Naumov {?} SPECIES
-=======
+# Cicinobolus bremiphagus Naumov {?} SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cicinnobolus bremiphagus Naumov {?}
+Cicinobolus bremiphagus Naumov {?}
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cymatiogalea fascicularis Yin Leiming, 1985 SPECIES
-=======
+# Cymatiogalea fascicularis Yin Leiming, 1985 SPECIES
 
 #### Status
 ACCEPTED

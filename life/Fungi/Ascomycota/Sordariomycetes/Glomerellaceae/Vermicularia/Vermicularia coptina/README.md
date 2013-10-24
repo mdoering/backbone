@@ -1,5 +1,4 @@
-Vermicularia coptina Peck SPECIES
-=======
+# Vermicularia coptina Peck SPECIES
 
 #### Status
 ACCEPTED

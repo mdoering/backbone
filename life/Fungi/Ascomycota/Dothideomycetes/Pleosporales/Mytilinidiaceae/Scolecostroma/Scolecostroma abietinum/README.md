@@ -1,17 +1,16 @@
-Scolecostroma abietina Bat. & Peres SPECIES
-=======
+# Scolecostroma abietinum Bat. & Peres SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Saccardoa 1: 34 (1960)
 
 #### Original name
-Scolecostroma abietina Bat. & Peres
+Scolecostroma abietinum Bat. & Peres
 
 ### Remarks
 null

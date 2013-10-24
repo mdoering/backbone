@@ -1,5 +1,4 @@
-Licea bicolor var. lignatilis Alb. & Schwein. VARIETY
-=======
+# Licea bicolor Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Consp. fung. (Leipzig) 107 (1805)
+null
 
 #### Original name
-Licea bicolor var. lignatilis Alb. & Schwein.
+Licea bicolor Pers.
 
 ### Remarks
 null

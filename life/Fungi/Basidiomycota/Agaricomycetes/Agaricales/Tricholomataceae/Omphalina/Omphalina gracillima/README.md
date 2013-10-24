@@ -1,5 +1,4 @@
-Omphalina gracillima (Weinm.) Quél. SPECIES
-=======
+# Omphalina gracillima (Weinm.) Quél. SPECIES
 
 #### Status
 ACCEPTED

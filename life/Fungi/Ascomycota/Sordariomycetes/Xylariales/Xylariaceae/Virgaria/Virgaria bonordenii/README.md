@@ -1,5 +1,4 @@
-Virgaria bonordenii Sacc. SPECIES
-=======
+# Virgaria bonordenii Sacc. SPECIES
 
 #### Status
 ACCEPTED

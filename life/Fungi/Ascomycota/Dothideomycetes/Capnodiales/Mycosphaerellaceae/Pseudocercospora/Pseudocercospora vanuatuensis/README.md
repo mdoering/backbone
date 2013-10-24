@@ -1,5 +1,4 @@
-Pseudocercospora vanuatuensis U. Braun & McKenzie, 1999 SPECIES
-=======
+# Pseudocercospora vanuatuensis U. Braun & McKenzie, 1999 SPECIES
 
 #### Status
 ACCEPTED

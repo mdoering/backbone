@@ -1,5 +1,4 @@
-Ustilago liebenbergii Zundel SPECIES
-=======
+# Ustilago liebenbergii Zundel SPECIES
 
 #### Status
 ACCEPTED

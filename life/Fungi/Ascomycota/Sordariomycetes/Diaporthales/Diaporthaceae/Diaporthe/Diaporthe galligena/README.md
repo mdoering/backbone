@@ -1,5 +1,4 @@
-Diaporthe galligena Petr. SPECIES
-=======
+# Diaporthe galligena Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astacolus albatrossi SPECIES
-=======
+# Astacolus albatrossi SPECIES
 
 #### Status
 ACCEPTED

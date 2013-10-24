@@ -1,5 +1,4 @@
-Kockovaella barringtoniae Fungsin, Hamam. & Nakase, 2002 SPECIES
-=======
+# Kockovaella barringtoniae Fungsin, Hamam. & Nakase, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina subcarpinea Malme SPECIES
-=======
+# Porina subcarpinea Malme SPECIES
 
 #### Status
 ACCEPTED

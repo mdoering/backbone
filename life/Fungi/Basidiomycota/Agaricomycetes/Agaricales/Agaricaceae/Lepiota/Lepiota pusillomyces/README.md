@@ -1,5 +1,4 @@
-Lepiota pusillomyces (Peck) Sacc. SPECIES
-=======
+# Lepiota pusillomyces (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

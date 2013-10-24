@@ -1,5 +1,4 @@
-Hydropus fuscoalbus Singer SPECIES
-=======
+# Hydropus fuscoalbus Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Trichophyton tenuishypha Castell. SPECIES
-=======
+# Trichophyton tenuishyphum Castell. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of Tropical Medicine 42: 376 (1939)
 
 #### Original name
-Trichophyton tenuishypha Castell.
+Trichophyton tenuishyphum Castell.
 
 ### Remarks
 null

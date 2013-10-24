@@ -1,5 +1,4 @@
-Ascochyta araliae J.D. Sun & J.K. Bai SPECIES
-=======
+# Ascochyta araliae J.D. Sun & J.K. Bai SPECIES
 
 #### Status
 ACCEPTED

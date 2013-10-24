@@ -1,5 +1,4 @@
-Conocybe striipes (Cooke) Lundell SPECIES
-=======
+# Conocybe striipes (Cooke) Lundell SPECIES
 
 #### Status
 ACCEPTED

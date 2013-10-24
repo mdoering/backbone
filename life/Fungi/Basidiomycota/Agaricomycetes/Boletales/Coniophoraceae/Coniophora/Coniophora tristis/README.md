@@ -1,5 +1,4 @@
-Coniophora tristis (Berk. & M.A. Curtis) Speg. SPECIES
-=======
+# Coniophora tristis (Berk. & M.A. Curtis) Speg. SPECIES
 
 #### Status
 ACCEPTED

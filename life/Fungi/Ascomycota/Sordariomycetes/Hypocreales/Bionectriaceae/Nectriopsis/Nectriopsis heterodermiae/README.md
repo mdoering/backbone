@@ -1,5 +1,4 @@
-Nectriopsis heterodermiae Etayo SPECIES
-=======
+# Nectriopsis heterodermiae Etayo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Flammulaster albopunctata Callebaut & Imler SPECIES
-=======
+# Flammulaster albopunctatus Callebaut & Imler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sterbeeckia 13: 23 (1983)
 
 #### Original name
-Flammulaster albopunctata Callebaut & Imler
+Flammulaster albopunctatus Callebaut & Imler
 
 ### Remarks
 null

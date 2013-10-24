@@ -1,5 +1,4 @@
-Poria luteogrisea Bondartsev SPECIES
-=======
+# Poria luteogrisea Bondartsev SPECIES
 
 #### Status
 ACCEPTED

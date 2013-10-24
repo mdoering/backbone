@@ -1,5 +1,4 @@
-Pseudocercospora cupheae (Syd.) U. Braun SPECIES
-=======
+# Pseudocercospora cupheae (Syd.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

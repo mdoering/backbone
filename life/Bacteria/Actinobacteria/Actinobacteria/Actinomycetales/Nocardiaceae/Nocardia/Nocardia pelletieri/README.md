@@ -1,5 +1,4 @@
-Nocardia pelletieri H.P. Fröes SPECIES
-=======
+# Nocardia pelletieri H.P. Fröes SPECIES
 
 #### Status
 ACCEPTED

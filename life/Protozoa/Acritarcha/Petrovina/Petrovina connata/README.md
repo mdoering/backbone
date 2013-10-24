@@ -1,5 +1,4 @@
-Petrovina connata Loboziak et al., 1997 SPECIES
-=======
+# Petrovina connata Loboziak et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

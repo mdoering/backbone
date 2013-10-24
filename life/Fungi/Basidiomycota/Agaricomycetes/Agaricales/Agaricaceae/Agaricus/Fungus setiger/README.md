@@ -1,5 +1,4 @@
-Fungus setiger (Fr.) Kuntze SPECIES
-=======
+# Fungus setiger (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

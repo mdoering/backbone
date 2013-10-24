@@ -1,5 +1,4 @@
-Trifascicularia Strelkow, 1931 GENUS
-=======
+# Trifascicularia Strelkow, 1931 GENUS
 
 #### Status
 ACCEPTED

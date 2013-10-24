@@ -1,5 +1,4 @@
-Saprolegnia shikotsuensis Hatai, Egusa & Awakura, 1977 SPECIES
-=======
+# Saprolegnia shikotsuensis Hatai, Egusa & Awakura, 1977 SPECIES
 
 #### Status
 ACCEPTED

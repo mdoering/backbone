@@ -1,5 +1,4 @@
-Placosphaeria phagnalonis Gonz. Frag. SPECIES
-=======
+# Placosphaeria phagnalonis Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calopposis nodulosa Lloyd SPECIES
-=======
+# Calopposis nodulosa Lloyd SPECIES
 
 #### Status
 ACCEPTED

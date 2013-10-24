@@ -1,5 +1,4 @@
-Armillaria badicephala Zeller SPECIES
-=======
+# Armillaria badicephala Zeller SPECIES
 
 #### Status
 ACCEPTED

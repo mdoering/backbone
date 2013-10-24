@@ -1,5 +1,4 @@
-Gymnopilus praelaeticolor Murrill SPECIES
-=======
+# Gymnopilus praelaeticolor Murrill SPECIES
 
 #### Status
 ACCEPTED

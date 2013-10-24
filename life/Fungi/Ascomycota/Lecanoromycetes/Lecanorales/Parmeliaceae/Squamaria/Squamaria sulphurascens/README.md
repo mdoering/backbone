@@ -1,5 +1,4 @@
-Squamaria sulphurascens (Nyl.) H. Olivier SPECIES
-=======
+# Squamaria sulphurascens (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

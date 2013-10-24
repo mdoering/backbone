@@ -1,5 +1,4 @@
-Gyalecta dilabens Th. Fr. SPECIES
-=======
+# Gyalecta dilabens Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

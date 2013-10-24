@@ -1,5 +1,4 @@
-Trichoderma oviferum Rifai SPECIES
-=======
+# Trichoderma oviferum Rifai SPECIES
 
 #### Status
 ACCEPTED

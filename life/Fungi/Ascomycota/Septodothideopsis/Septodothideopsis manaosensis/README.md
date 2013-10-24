@@ -1,5 +1,4 @@
-Septodothideopsis manaosensis Henn. SPECIES
-=======
+# Septodothideopsis manaosensis Henn. SPECIES
 
 #### Status
 ACCEPTED

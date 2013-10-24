@@ -1,5 +1,4 @@
-Puccinia medioasiaticae Uljan. SPECIES
-=======
+# Puccinia medioasiaticae Uljan. SPECIES
 
 #### Status
 ACCEPTED

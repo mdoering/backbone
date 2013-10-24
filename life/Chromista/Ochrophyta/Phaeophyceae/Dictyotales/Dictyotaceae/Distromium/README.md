@@ -1,5 +1,4 @@
-Distromium Levring, 1940 GENUS
-=======
+# Distromium Levring, 1940 GENUS
 
 #### Status
 ACCEPTED

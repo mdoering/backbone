@@ -1,5 +1,4 @@
-Hydrocybe cystidifera Velen. SPECIES
-=======
+# Hydrocybe cystidifera Velen. SPECIES
 
 #### Status
 ACCEPTED

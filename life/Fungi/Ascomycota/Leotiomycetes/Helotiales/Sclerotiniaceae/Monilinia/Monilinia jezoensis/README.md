@@ -1,5 +1,4 @@
-Monilinia jezoensis Yuk. Takah., Sano & Y. Harada SPECIES
-=======
+# Monilinia jezoensis Yuk. Takah., Sano & Y. Harada SPECIES
 
 #### Status
 ACCEPTED

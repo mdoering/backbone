@@ -1,5 +1,4 @@
-Lactarius acrissimus Verbeken & Van Rooij SPECIES
-=======
+# Lactarius acrissimus Verbeken & Van Rooij SPECIES
 
 #### Status
 ACCEPTED

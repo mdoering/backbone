@@ -1,5 +1,4 @@
-Lichen viridis Schreb. SPECIES
-=======
+# Lichen viridis Schreb. SPECIES
 
 #### Status
 ACCEPTED

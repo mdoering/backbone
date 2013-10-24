@@ -1,5 +1,4 @@
-Hebeloma exiguifolium Murrill SPECIES
-=======
+# Hebeloma exiguifolium Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dearnessia apocyni Bubák, 1916 SPECIES
-=======
+# Dearnessia apocyni Bubák, 1916 SPECIES
 
 #### Status
 ACCEPTED

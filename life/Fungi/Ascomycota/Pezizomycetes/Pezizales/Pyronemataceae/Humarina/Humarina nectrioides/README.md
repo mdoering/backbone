@@ -1,5 +1,4 @@
-Humarina nectrioides Seaver SPECIES
-=======
+# Humarina nectrioides Seaver SPECIES
 
 #### Status
 ACCEPTED

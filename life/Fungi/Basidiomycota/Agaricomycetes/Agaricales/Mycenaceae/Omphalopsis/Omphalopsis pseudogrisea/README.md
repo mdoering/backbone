@@ -1,5 +1,4 @@
-Omphalopsis pseudogrisea Murrill SPECIES
-=======
+# Omphalopsis pseudogrisea Murrill SPECIES
 
 #### Status
 ACCEPTED

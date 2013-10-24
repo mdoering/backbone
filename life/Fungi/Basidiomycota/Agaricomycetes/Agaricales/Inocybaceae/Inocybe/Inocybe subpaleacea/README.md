@@ -1,5 +1,4 @@
-Inocybe subpaleacea Kühner SPECIES
-=======
+# Inocybe subpaleacea Kühner SPECIES
 
 #### Status
 ACCEPTED

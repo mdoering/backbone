@@ -1,5 +1,4 @@
-Cyphella catilla W.G. Sm. SPECIES
-=======
+# Cyphella catilla W.G. Sm. SPECIES
 
 #### Status
 ACCEPTED

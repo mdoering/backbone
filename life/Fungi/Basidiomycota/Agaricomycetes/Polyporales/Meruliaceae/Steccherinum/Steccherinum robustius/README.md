@@ -1,17 +1,16 @@
-Mycoleptodon robustius J. Erikss. & S. Lundell SPECIES
-=======
+# Steccherinum robustius (J. Erikss. & S. Lundell) J. Erikss., 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 16(no. 1): 134 (1958)
 
 #### Original name
-Mycoleptodon robustius J. Erikss. & S. Lundell
+Mycoleptodon robustior J. Erikss. & S. Lundell, 1953
 
 ### Remarks
 null

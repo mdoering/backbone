@@ -1,5 +1,4 @@
-Lacrymaria atricha (Berk.) Kits van Wav. SPECIES
-=======
+# Lacrymaria atricha (Berk.) Kits van Wav. SPECIES
 
 #### Status
 ACCEPTED

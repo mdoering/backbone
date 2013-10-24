@@ -1,5 +1,4 @@
-Bacidia pelidna Boistel SPECIES
-=======
+# Bacidia pelidna Boistel SPECIES
 
 #### Status
 ACCEPTED

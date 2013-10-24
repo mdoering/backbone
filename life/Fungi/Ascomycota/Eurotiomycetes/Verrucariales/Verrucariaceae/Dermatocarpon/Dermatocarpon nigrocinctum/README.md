@@ -1,5 +1,4 @@
-Dermatocarpon nigrocinctum (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Dermatocarpon nigrocinctum (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

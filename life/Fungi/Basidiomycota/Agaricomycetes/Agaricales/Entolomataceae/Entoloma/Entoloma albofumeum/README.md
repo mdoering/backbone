@@ -1,5 +1,4 @@
-Entoloma albofumeum Hesler SPECIES
-=======
+# Entoloma albofumeum Hesler SPECIES
 
 #### Status
 ACCEPTED

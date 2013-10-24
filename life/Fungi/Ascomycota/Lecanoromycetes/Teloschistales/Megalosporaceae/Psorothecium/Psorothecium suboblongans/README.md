@@ -1,5 +1,4 @@
-Psorothecium suboblongans Harm. SPECIES
-=======
+# Psorothecium suboblongans Harm. SPECIES
 
 #### Status
 ACCEPTED

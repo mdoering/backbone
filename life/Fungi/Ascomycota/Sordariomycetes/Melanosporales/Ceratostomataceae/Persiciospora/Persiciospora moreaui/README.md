@@ -1,17 +1,16 @@
-Sphaerodes moreaui (Doguet) Arx, 1981 SPECIES
-=======
+# Persiciospora moreaui P.F. Cannon & D. Hawksw., 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. Fungi Sporul. Cult. (Vaduz), Edn 3 156 (1981)
+J. Linn. Soc. , Bot. 84(2): 134 (1982)
 
 #### Original name
-Melanospora moreaui Doguet, 1955
+Persiciospora moreaui P.F. Cannon & D. Hawksw., 1982
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Elattopycnis protii Bat. & Cavalc., 1964 SPECIES
-=======
+# Elattopycnis protii Bat. & Cavalc., 1964 SPECIES
 
 #### Status
 ACCEPTED

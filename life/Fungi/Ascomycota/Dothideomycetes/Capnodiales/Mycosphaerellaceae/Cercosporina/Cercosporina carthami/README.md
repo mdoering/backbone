@@ -1,5 +1,4 @@
-Cercosporina carthami Syd. {?} SPECIES
-=======
+# Cercosporina carthami Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

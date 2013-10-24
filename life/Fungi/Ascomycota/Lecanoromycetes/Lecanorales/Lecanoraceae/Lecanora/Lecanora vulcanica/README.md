@@ -1,5 +1,4 @@
-Lecanora vulcanica Bagl. SPECIES
-=======
+# Lecanora vulcanica Bagl. SPECIES
 
 #### Status
 ACCEPTED

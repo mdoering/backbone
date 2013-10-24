@@ -1,5 +1,4 @@
-Lecidea fuscoatrula Nyl. SPECIES
-=======
+# Lecidea fuscoatrula Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius ochraceofulvus Cleland SPECIES
-=======
+# Cortinarius ochraceofulvus Cleland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo bosquieae Vienn.-Bourg. SPECIES
-=======
+# Uredo bosquieae Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spegazzinites Félix GENUS
-=======
+# Spegazzinites Félix GENUS
 
 #### Status
 ACCEPTED

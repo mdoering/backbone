@@ -1,14 +1,13 @@
-Polyporus biokoensis Bres. ex Lloyd, 1912 SPECIES
-=======
+# Rigidoporus biokoensis (Bres. ex Lloyd) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 3 (Syn. Stip. Polyporoids) 131 (1912)
+Norw. Jl Bot. 19: 236 (1972)
 
 #### Original name
 Polyporus biokoensis Bres. ex Lloyd, 1912

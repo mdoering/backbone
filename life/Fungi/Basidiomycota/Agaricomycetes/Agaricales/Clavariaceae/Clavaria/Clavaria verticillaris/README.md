@@ -1,5 +1,4 @@
-Clavaria verticillaris Bull. SPECIES
-=======
+# Clavaria verticillaris Bull. SPECIES
 
 #### Status
 ACCEPTED

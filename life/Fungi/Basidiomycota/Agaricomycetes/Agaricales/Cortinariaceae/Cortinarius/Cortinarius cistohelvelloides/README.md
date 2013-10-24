@@ -1,5 +1,4 @@
-Cortinarius cistohelvelloides var. cistohelvelloides VARIETY
-=======
+# Cortinarius cistohelvelloides Bon SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Docums Mycol. , mém. hors sér. 22(no. 85): 52 (1992)
 
 #### Original name
-Cortinarius cistohelvelloides var. cistohelvelloides
+Cortinarius cistohelvelloides Bon
 
 ### Remarks
 null

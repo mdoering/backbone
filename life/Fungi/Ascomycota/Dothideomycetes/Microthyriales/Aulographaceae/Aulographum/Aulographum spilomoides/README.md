@@ -1,5 +1,4 @@
-Aulographum spilomoides Ces. SPECIES
-=======
+# Aulographum spilomoides Ces. SPECIES
 
 #### Status
 ACCEPTED

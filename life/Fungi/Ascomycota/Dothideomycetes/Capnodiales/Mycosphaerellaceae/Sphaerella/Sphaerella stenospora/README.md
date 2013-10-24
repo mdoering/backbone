@@ -1,5 +1,4 @@
-Sphaerella stenospora Ellis & Everh. SPECIES
-=======
+# Sphaerella stenospora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

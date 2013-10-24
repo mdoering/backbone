@@ -1,5 +1,4 @@
-Lecidea cinnabarodes Nyl. SPECIES
-=======
+# Lecidea cinnabarodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

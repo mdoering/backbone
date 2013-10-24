@@ -1,5 +1,4 @@
-Xanthoparmelia purdieae Elix SPECIES
-=======
+# Xanthoparmelia purdieae Elix SPECIES
 
 #### Status
 ACCEPTED

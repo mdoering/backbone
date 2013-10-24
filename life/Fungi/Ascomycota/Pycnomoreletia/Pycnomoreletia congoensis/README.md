@@ -1,14 +1,13 @@
-Coryneum congoense Torrend, 1914 SPECIES
-=======
+# Pycnomoreletia congoensis (Torrend) Rulamort, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. bot. Centre-Ouest, Nouv. sér. 21: 512 (1990)
 
 #### Original name
 Coryneum congoense Torrend, 1914

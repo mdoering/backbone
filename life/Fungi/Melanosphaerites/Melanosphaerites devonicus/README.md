@@ -1,5 +1,4 @@
-Melanosphaerites devonicus Grüss SPECIES
-=======
+# Melanosphaerites devonicus Grüss SPECIES
 
 #### Status
 ACCEPTED

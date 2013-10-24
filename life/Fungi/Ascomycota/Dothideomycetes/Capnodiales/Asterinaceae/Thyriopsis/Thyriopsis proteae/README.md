@@ -1,5 +1,4 @@
-Thyriopsis proteae Van der Byl SPECIES
-=======
+# Thyriopsis proteae Van der Byl SPECIES
 
 #### Status
 ACCEPTED

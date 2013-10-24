@@ -1,5 +1,4 @@
-Psathyrella subradicata A.H. Sm. SPECIES
-=======
+# Psathyrella subradicata A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parascutellinia Svrcek, 1975 GENUS
-=======
+# Parascutellinia Svrcek, 1975 GENUS
 
 #### Status
 ACCEPTED

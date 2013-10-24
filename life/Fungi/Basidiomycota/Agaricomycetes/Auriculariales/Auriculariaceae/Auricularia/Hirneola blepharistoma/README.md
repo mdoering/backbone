@@ -1,5 +1,4 @@
-Hirneola blepharistoma Berk. & M.A. Curtis SPECIES
-=======
+# Hirneola blepharistoma Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

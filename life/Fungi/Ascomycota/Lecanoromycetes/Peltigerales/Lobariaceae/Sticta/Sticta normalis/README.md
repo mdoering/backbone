@@ -1,5 +1,4 @@
-Sticta normalis (Hav.) Gyeln. SPECIES
-=======
+# Sticta normalis (Hav.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

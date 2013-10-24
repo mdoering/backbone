@@ -1,5 +1,4 @@
-Hemicorynespora obclavata Subram. SPECIES
-=======
+# Hemicorynespora obclavata Subram. SPECIES
 
 #### Status
 ACCEPTED

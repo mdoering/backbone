@@ -1,5 +1,4 @@
-Planularia patens (Brady) SPECIES
-=======
+# Planularia patens (Brady) SPECIES
 
 #### Status
 ACCEPTED

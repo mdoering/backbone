@@ -1,5 +1,4 @@
-Aplanobacter GENUS
-=======
+# Aplanobacter GENUS
 
 #### Status
 ACCEPTED

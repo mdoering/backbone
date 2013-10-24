@@ -1,5 +1,4 @@
-Coryneum salicis Tognini SPECIES
-=======
+# Coryneum salicis Tognini SPECIES
 
 #### Status
 ACCEPTED

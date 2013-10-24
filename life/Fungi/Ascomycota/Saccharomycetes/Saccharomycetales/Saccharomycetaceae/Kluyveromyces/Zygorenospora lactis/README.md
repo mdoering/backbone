@@ -1,5 +1,4 @@
-Zygorenospora lactis (Dombrowski) Krassiln. SPECIES
-=======
+# Zygorenospora lactis (Dombrowski) Krassiln. SPECIES
 
 #### Status
 ACCEPTED

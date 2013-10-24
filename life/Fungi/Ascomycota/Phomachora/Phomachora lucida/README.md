@@ -1,14 +1,13 @@
-Phoma lucida (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Phomachora lucida (Berk. & M.A. Curtis) Petr. & Syd., 1925 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 23(3/6): 236 (1925)
 
 #### Original name
 null

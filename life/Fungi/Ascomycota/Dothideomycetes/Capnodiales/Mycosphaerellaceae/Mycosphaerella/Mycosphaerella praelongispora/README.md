@@ -1,5 +1,4 @@
-Mycosphaerella praelongispora Carnegie SPECIES
-=======
+# Mycosphaerella praelongispora Carnegie SPECIES
 
 #### Status
 ACCEPTED

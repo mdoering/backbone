@@ -1,5 +1,4 @@
-Xanthoparmelia hypomelaenoides Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia hypomelaenoides Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

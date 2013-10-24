@@ -1,5 +1,4 @@
-Trematosphaeria palaquii Ricker SPECIES
-=======
+# Trematosphaeria palaquii Ricker SPECIES
 
 #### Status
 ACCEPTED

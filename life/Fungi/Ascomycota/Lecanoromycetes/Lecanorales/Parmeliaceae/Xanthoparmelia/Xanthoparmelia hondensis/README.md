@@ -1,5 +1,4 @@
-Xanthoparmelia hondensis Elix & U. Becker SPECIES
-=======
+# Xanthoparmelia hondensis Elix & U. Becker SPECIES
 
 #### Status
 ACCEPTED

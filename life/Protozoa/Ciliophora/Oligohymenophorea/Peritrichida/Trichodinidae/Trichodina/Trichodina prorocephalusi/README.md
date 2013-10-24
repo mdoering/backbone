@@ -1,5 +1,4 @@
-Trichodina prorocephalusi SPECIES
-=======
+# Trichodina prorocephalusi SPECIES
 
 #### Status
 ACCEPTED

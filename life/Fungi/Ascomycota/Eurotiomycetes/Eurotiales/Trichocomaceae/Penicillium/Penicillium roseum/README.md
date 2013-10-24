@@ -1,5 +1,4 @@
-Penicillium roseum var. coremioides J. Kickx f. VARIETY
-=======
+# Penicillium roseum Cooke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Penicillium roseum var. coremioides J. Kickx f.
+Penicillium roseum Cooke
 
 ### Remarks
 null

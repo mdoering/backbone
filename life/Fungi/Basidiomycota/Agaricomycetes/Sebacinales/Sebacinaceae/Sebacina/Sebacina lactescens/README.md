@@ -1,5 +1,4 @@
-Sebacina lactescens Burt SPECIES
-=======
+# Sebacina lactescens Burt SPECIES
 
 #### Status
 ACCEPTED

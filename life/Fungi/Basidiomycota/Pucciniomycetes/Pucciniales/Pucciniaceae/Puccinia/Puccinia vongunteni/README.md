@@ -1,5 +1,4 @@
-Puccinia vongunteni Mayor SPECIES
-=======
+# Puccinia vongunteni Mayor SPECIES
 
 #### Status
 ACCEPTED

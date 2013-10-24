@@ -1,5 +1,4 @@
-Lopadostoma ostropoides (Rehm) P.M.D. Martin SPECIES
-=======
+# Lopadostoma ostropoides (Rehm) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

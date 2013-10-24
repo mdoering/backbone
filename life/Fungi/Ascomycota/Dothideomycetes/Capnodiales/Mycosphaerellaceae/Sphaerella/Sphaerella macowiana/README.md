@@ -1,5 +1,4 @@
-Sphaerella macowiana G. Winter SPECIES
-=======
+# Sphaerella macowiana G. Winter SPECIES
 
 #### Status
 ACCEPTED

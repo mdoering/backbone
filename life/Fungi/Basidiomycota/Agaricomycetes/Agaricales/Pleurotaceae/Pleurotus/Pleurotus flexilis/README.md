@@ -1,5 +1,4 @@
-Pleurotus flexilis S.T. Chang & X.L. Mao SPECIES
-=======
+# Pleurotus flexilis S.T. Chang & X.L. Mao SPECIES
 
 #### Status
 ACCEPTED

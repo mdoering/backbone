@@ -1,5 +1,4 @@
-Botryosphaeria plicatula (Berk. & Broome) S. Ahmad SPECIES
-=======
+# Botryosphaeria plicatula (Berk. & Broome) S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

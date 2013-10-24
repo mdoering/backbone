@@ -1,5 +1,4 @@
-Palaeoanabaena K.E. Nagovitsin, 2001 GENUS
-=======
+# Palaeoanabaena K.E. Nagovitsin, 2001 GENUS
 
 #### Status
 ACCEPTED

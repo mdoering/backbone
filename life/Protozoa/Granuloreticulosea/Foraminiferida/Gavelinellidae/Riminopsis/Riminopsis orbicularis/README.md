@@ -1,5 +1,4 @@
-Riminopsis orbicularis (d'Orbigny in Fornasini, 1902) SPECIES
-=======
+# Riminopsis orbicularis (d'Orbigny in Fornasini, 1902) SPECIES
 
 #### Status
 ACCEPTED

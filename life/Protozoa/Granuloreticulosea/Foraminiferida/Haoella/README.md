@@ -1,5 +1,4 @@
-Haoella Gung, 1966 GENUS
-=======
+# Haoella Gung, 1966 GENUS
 
 #### Status
 ACCEPTED

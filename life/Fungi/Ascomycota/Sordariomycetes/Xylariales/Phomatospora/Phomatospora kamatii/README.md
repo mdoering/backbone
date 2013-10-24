@@ -1,5 +1,4 @@
-Phomatospora kamatii Tilak & Talde SPECIES
-=======
+# Phomatospora kamatii Tilak & Talde SPECIES
 
 #### Status
 ACCEPTED

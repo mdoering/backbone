@@ -1,5 +1,4 @@
-Lecanora leucochroa Chevall. SPECIES
-=======
+# Lecanora leucochroa Chevall. SPECIES
 
 #### Status
 ACCEPTED

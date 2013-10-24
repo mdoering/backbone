@@ -1,5 +1,4 @@
-Leuvenia Gardner, 1910 GENUS
-=======
+# Leuvenia Gardner, 1910 GENUS
 
 #### Status
 ACCEPTED

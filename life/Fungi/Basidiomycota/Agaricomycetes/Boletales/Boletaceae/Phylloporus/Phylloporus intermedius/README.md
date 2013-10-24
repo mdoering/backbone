@@ -1,5 +1,4 @@
-Phylloporus intermedius Pat. SPECIES
-=======
+# Phylloporus intermedius Pat. SPECIES
 
 #### Status
 ACCEPTED

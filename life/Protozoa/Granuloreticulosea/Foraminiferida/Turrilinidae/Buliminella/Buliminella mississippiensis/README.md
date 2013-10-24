@@ -1,5 +1,4 @@
-Buliminella mississippiensis Seiglie, 1969 SPECIES
-=======
+# Buliminella mississippiensis Seiglie, 1969 SPECIES
 
 #### Status
 ACCEPTED

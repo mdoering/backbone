@@ -1,5 +1,4 @@
-Septoria stipularis Pass. SPECIES
-=======
+# Septoria stipularis Pass. SPECIES
 
 #### Status
 ACCEPTED

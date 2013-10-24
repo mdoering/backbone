@@ -1,5 +1,4 @@
-Pseudocercospora cecropiae (F. Stevens) Deighton SPECIES
-=======
+# Pseudocercospora cecropiae (F. Stevens) Deighton SPECIES
 
 #### Status
 ACCEPTED

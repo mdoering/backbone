@@ -1,5 +1,4 @@
-Pilosace subvinosus (Berk.) Kuntze SPECIES
-=======
+# Pilosace subvinosus (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

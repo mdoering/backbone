@@ -1,5 +1,4 @@
-Phaeographina obfirmata (Nyl.) Zahlbr. SPECIES
-=======
+# Phaeographina obfirmata (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

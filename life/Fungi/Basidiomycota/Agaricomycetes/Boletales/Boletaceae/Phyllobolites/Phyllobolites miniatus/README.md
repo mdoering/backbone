@@ -1,14 +1,13 @@
-Paxillus miniatus Rick, 1906 SPECIES
-=======
+# Phyllobolites miniatus (Rick) Singer, 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 40: 59 (1942)
 
 #### Original name
 Paxillus miniatus Rick, 1906

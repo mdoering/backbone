@@ -1,17 +1,16 @@
-Pluteus pseudoroberti M.M. Moser SPECIES
-=======
+# Pluteus pseudorobertii M.M. Moser & Stangl, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Z. Pilzk. 29(2): 39 (1963)
 
 #### Original name
-Pluteus pseudoroberti M.M. Moser
+Pluteus pseudorobertii M.M. Moser & Stangl, 1963
 
 ### Remarks
 null

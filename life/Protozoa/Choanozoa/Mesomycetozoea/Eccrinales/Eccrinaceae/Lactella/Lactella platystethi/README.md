@@ -1,5 +1,4 @@
-Lactella platystethi Maessen SPECIES
-=======
+# Lactella platystethi Maessen SPECIES
 
 #### Status
 ACCEPTED

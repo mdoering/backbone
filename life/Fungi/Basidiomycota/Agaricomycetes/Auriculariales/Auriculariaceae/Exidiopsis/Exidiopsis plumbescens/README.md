@@ -1,5 +1,4 @@
-Exidiopsis plumbescens (Burt) K. Wells SPECIES
-=======
+# Exidiopsis plumbescens (Burt) K. Wells SPECIES
 
 #### Status
 ACCEPTED

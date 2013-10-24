@@ -1,17 +1,16 @@
-Seynesia coccolobae R.W. Ryan, 1924 SPECIES
-=======
+# Cocconia coccolobae (R.W. Ryan) Petr., 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 32: 324 (1934)
 
 #### Original name
-null
+Seynesia coccolobae R.W. Ryan, 1924
 
 ### Remarks
 null

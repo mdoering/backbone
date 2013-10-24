@@ -1,5 +1,4 @@
-Omphalia reversa Berk. SPECIES
-=======
+# Omphalia reversa Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniosporium toruloides Sacc. SPECIES
-=======
+# Coniosporium toruloides Sacc. SPECIES
 
 #### Status
 ACCEPTED

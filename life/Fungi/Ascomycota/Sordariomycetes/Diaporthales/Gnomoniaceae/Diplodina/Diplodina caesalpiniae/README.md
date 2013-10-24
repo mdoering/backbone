@@ -1,5 +1,4 @@
-Diplodina caesalpiniae Gucevic SPECIES
-=======
+# Diplodina caesalpiniae Gucevic SPECIES
 
 #### Status
 ACCEPTED

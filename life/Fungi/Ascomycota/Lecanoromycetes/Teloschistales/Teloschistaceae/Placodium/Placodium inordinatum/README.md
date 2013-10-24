@@ -1,5 +1,4 @@
-Placodium inordinatum (Hue) Darb. SPECIES
-=======
+# Placodium inordinatum (Hue) Darb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptomyces albulus Routien, 1969 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces albulus Routien, 1969 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

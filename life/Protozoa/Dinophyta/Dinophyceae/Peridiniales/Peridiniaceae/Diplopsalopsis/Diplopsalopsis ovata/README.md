@@ -1,5 +1,4 @@
-Diplopsalopsis ovata (Abé) J. D. Dodge & S. Toriumi SPECIES
-=======
+# Diplopsalopsis ovata (Abé) J. D. Dodge & S. Toriumi SPECIES
 
 #### Status
 ACCEPTED

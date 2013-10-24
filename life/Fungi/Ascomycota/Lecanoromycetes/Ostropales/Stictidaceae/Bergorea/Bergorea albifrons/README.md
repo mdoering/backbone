@@ -1,5 +1,4 @@
-Bergorea albifrons (Tul.) Nieuwl. SPECIES
-=======
+# Bergorea albifrons (Tul.) Nieuwl. SPECIES
 
 #### Status
 ACCEPTED

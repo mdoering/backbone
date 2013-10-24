@@ -1,5 +1,4 @@
-Rhodocybe testacea Dennis SPECIES
-=======
+# Rhodocybe testacea Dennis SPECIES
 
 #### Status
 ACCEPTED

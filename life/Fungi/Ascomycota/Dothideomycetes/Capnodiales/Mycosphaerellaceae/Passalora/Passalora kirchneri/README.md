@@ -1,5 +1,4 @@
-Passalora kirchneri (Hegyi) Petr. SPECIES
-=======
+# Passalora kirchneri (Hegyi) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lignydium subglobosum (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Lignydium subglobosum (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

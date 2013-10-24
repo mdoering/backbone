@@ -1,5 +1,4 @@
-Armillaria caernuloviridis (F. Brig.) Sacc. SPECIES
-=======
+# Armillaria caernuloviridis (F. Brig.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium newbouldiae Vienn.-Bourg. SPECIES
-=======
+# Helminthosporium newbouldiae Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

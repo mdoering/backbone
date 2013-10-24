@@ -1,17 +1,16 @@
-Discosiella acrocomia-maculiformis Bat. SPECIES
-=======
+# Discosiella acrocomiae-maculiformis Bat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anais Soc. Biol. Pernambuco 12(1): 43 (1954)
 
 #### Original name
-Discosiella acrocomia-maculiformis Bat.
+Discosiella acrocomiae-maculiformis Bat.
 
 ### Remarks
 null

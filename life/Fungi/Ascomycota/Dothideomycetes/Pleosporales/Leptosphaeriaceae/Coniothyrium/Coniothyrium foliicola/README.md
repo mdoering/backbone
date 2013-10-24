@@ -1,5 +1,4 @@
-Coniothyrium foliicola Jaap SPECIES
-=======
+# Coniothyrium foliicola Jaap SPECIES
 
 #### Status
 ACCEPTED

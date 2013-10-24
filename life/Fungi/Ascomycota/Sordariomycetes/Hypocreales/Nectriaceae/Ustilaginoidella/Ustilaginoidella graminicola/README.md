@@ -1,5 +1,4 @@
-Ustilaginoidella graminicola Essed SPECIES
-=======
+# Ustilaginoidella graminicola Essed SPECIES
 
 #### Status
 ACCEPTED

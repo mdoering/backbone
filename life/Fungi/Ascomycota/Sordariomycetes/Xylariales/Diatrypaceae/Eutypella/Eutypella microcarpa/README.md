@@ -1,5 +1,4 @@
-Eutypella microcarpa Ellis & Everh. SPECIES
-=======
+# Eutypella microcarpa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

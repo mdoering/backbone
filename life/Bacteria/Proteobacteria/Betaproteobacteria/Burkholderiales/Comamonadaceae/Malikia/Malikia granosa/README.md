@@ -1,5 +1,4 @@
-Malikia granosa Spring et al., 2005 SPECIES
-=======
+# Malikia granosa Spring et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

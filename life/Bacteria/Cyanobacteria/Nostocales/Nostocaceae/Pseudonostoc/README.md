@@ -1,5 +1,4 @@
-Pseudonostoc A.A.Elenkin, 1949 GENUS
-=======
+# Pseudonostoc A.A.Elenkin, 1949 GENUS
 
 #### Status
 ACCEPTED

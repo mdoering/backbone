@@ -1,5 +1,4 @@
-Drechslera triseti Ondrej SPECIES
-=======
+# Drechslera triseti Ondrej SPECIES
 
 #### Status
 ACCEPTED

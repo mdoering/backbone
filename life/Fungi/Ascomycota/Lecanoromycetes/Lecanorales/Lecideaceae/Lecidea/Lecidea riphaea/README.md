@@ -1,5 +1,4 @@
-Lecidea riphaea Körb. SPECIES
-=======
+# Lecidea riphaea Körb. SPECIES
 
 #### Status
 ACCEPTED

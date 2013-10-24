@@ -1,5 +1,4 @@
-Asterina sphaerasca Thüm. SPECIES
-=======
+# Asterina sphaerasca Thüm. SPECIES
 
 #### Status
 ACCEPTED

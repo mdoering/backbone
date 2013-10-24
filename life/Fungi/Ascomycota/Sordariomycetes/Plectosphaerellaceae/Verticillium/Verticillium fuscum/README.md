@@ -1,5 +1,4 @@
-Verticillium fuscum Fuckel SPECIES
-=======
+# Verticillium fuscum Fuckel SPECIES
 
 #### Status
 ACCEPTED

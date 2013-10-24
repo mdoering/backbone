@@ -1,5 +1,4 @@
-Parmelia regis Lynge SPECIES
-=======
+# Parmelia regis Lynge SPECIES
 
 #### Status
 ACCEPTED

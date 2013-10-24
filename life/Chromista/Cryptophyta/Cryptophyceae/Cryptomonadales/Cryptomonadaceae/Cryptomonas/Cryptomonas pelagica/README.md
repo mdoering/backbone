@@ -1,5 +1,4 @@
-Cryptomonas pelagica H. Lohmann SPECIES
-=======
+# Cryptomonas pelagica H. Lohmann SPECIES
 
 #### Status
 ACCEPTED

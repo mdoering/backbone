@@ -1,5 +1,4 @@
-Cryptobasidium ocoteae Lendn., 1921 SPECIES
-=======
+# Cryptobasidium ocoteae Lendn., 1921 SPECIES
 
 #### Status
 ACCEPTED

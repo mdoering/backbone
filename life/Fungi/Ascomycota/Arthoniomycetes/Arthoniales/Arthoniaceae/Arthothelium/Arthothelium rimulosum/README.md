@@ -1,5 +1,4 @@
-Arthothelium rimulosum Makhija & Patw. SPECIES
-=======
+# Arthothelium rimulosum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

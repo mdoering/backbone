@@ -1,5 +1,4 @@
-Gnomonia amoena (Nees) Fuckel, 1870 SPECIES
-=======
+# Gnomonia amoena (Nees) Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma laricis Oudem. SPECIES
-=======
+# Phoma laricis Oudem. SPECIES
 
 #### Status
 ACCEPTED

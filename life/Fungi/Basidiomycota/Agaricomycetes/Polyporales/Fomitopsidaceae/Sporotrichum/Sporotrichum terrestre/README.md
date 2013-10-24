@@ -1,5 +1,4 @@
-Sporotrichum terrestre P. Karst. SPECIES
-=======
+# Sporotrichum terrestre P. Karst. SPECIES
 
 #### Status
 ACCEPTED

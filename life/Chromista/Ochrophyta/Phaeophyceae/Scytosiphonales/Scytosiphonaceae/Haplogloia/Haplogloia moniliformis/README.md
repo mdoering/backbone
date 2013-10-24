@@ -1,5 +1,4 @@
-Haplogloia moniliformis R.W.Ricker SPECIES
-=======
+# Haplogloia moniliformis R.W.Ricker SPECIES
 
 #### Status
 ACCEPTED

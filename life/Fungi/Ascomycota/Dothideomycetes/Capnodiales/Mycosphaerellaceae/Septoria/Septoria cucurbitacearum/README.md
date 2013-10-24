@@ -1,5 +1,4 @@
-Septoria cucurbitacearum Sacc., 1876 SPECIES
-=======
+# Septoria cucurbitacearum Sacc., 1876 SPECIES
 
 #### Status
 ACCEPTED

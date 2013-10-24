@@ -1,5 +1,4 @@
-Desulfomicrobium Rozanova, Nazina & Galushko, 1994 GENUS
-=======
+# Desulfomicrobium Rozanova, Nazina & Galushko, 1994 GENUS
 
 #### Status
 ACCEPTED

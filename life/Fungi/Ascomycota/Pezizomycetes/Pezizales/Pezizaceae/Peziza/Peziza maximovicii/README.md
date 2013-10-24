@@ -1,5 +1,4 @@
-Peziza maximovicii (Velen.) Svrcek SPECIES
-=======
+# Peziza maximovicii (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

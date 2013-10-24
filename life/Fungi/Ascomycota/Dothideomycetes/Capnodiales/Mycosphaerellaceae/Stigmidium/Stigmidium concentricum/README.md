@@ -1,5 +1,4 @@
-Stigmidium concentricum (J.L. Bezerra & Cavalc.) Lücking SPECIES
-=======
+# Stigmidium concentricum (J.L. Bezerra & Cavalc.) Lücking SPECIES
 
 #### Status
 ACCEPTED

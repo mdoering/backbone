@@ -1,5 +1,4 @@
-Heliosphaeridium radzynicum (Volkova in Volkova et al., 1979) Moczydlowska, 1991 SPECIES
-=======
+# Heliosphaeridium radzynicum (Volkova in Volkova et al., 1979) Moczydlowska, 1991 SPECIES
 
 #### Status
 ACCEPTED

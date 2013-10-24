@@ -1,5 +1,4 @@
-Dermatosorus schoenoplecti Vánky & R.G. Shivas, 2003 SPECIES
-=======
+# Dermatosorus schoenoplecti Vánky & R.G. Shivas, 2003 SPECIES
 
 #### Status
 ACCEPTED

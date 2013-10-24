@@ -1,14 +1,13 @@
-Lachnella micacea (Pers.) W. Phillips, 1887 SPECIES
-=======
+# Psilachnum micaceum (Pers.) Dennis, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 269 (1887)
+Persoonia 3(1): 70 (1964)
 
 #### Original name
 null

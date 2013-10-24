@@ -1,14 +1,13 @@
-Haematophyllum Garzon Maceda, 1900 GENUS
-=======
+# Plasmodium Marchiafava & Celli, 1885 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+Fortschr. Med. , 3, no. 24, 791.
 
 #### Original name
 null

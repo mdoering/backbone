@@ -1,11 +1,10 @@
-Spirochaeta pertenuis Castellani, 1905 SPECIES
-=======
+# Treponema pertenue (Castellani, 1905) Castellani and Chalmers, 1910 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

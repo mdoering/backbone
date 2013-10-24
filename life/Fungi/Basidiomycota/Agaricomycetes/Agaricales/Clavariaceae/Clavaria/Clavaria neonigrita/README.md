@@ -1,5 +1,4 @@
-Clavaria neonigrita R.H. Petersen SPECIES
-=======
+# Clavaria neonigrita R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scytonema stuposum (Kützing) Bornet SPECIES
-=======
+# Scytonema stuposum (Kützing) Bornet SPECIES
 
 #### Status
 ACCEPTED

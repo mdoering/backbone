@@ -1,5 +1,4 @@
-Macrophoma bakeri Syd. SPECIES
-=======
+# Macrophoma bakeri Syd. SPECIES
 
 #### Status
 ACCEPTED

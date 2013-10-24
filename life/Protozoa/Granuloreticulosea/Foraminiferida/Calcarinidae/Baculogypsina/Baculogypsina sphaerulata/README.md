@@ -1,8 +1,7 @@
-Orbitolina concava var. sphaerulata Parker & Jones, 1860 VARIETY
-=======
+# Baculogypsina sphaerulata (Parker & Jones, 1860) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

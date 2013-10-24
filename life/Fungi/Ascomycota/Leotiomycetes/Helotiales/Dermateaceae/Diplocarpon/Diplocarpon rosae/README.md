@@ -1,17 +1,16 @@
-Actinonema rosae (Lib.) Fr., 1849 SPECIES
-=======
+# Diplocarpon rosae F.A. Wolf, 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Summa veg. Scand. (Stockholm), Section Post. 424 (1849)
+Bot. Gaz. 54: 231 (1912)
 
 #### Original name
-Asteroma rosae Lib., 1827
+Diplocarpon rosae F.A. Wolf, 1912
 
 ### Remarks
 null

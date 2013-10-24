@@ -1,5 +1,4 @@
-Phyllosticta colocasicola Höhn. SPECIES
-=======
+# Phyllosticta colocasicola Höhn. SPECIES
 
 #### Status
 ACCEPTED

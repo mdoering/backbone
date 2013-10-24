@@ -1,5 +1,4 @@
-Peziza hapala Berk. & Broome SPECIES
-=======
+# Peziza hapala Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

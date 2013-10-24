@@ -1,5 +1,4 @@
-Lacellinopsis Subram. GENUS
-=======
+# Lacellinopsis Subram. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parvibaculum Schleheck et al., 2004 GENUS
-=======
+# Parvibaculum Schleheck et al., 2004 GENUS
 
 #### Status
 ACCEPTED

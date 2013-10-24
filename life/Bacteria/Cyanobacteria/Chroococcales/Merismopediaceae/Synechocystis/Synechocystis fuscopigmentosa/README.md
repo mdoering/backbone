@@ -1,5 +1,4 @@
-Synechocystis fuscopigmentosa Kovácik SPECIES
-=======
+# Synechocystis fuscopigmentosa Kovácik SPECIES
 
 #### Status
 ACCEPTED

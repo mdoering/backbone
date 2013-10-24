@@ -1,5 +1,4 @@
-Cylindrium pallidum Thüm. SPECIES
-=======
+# Cylindrium pallidum Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cortinaria lacticeps Murrill SPECIES
-=======
+# Cortinarius lacticeps Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 7(4): 318 (1945)
 
 #### Original name
-Cortinaria lacticeps Murrill
+Cortinarius lacticeps Murrill
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pluricellaesporites sacciformis (Sheffy & Dilcher) M.G. Parsons & G. Norris SPECIES
-=======
+# Pluricellaesporites sacciformis (Sheffy & Dilcher) M.G. Parsons & G. Norris SPECIES
 
 #### Status
 ACCEPTED

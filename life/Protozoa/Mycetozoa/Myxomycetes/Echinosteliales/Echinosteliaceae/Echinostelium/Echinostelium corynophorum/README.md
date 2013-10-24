@@ -1,5 +1,4 @@
-Echinostelium corynophorum K.D. Whitney, 1980 SPECIES
-=======
+# Echinostelium corynophorum K.D. Whitney, 1980 SPECIES
 
 #### Status
 ACCEPTED

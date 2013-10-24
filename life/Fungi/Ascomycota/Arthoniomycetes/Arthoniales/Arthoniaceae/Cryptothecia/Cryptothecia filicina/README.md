@@ -1,5 +1,4 @@
-Cryptothecia filicina (Ellis & Everh.) Lücking, G. Thor, Aptroot & Kalb SPECIES
-=======
+# Cryptothecia filicina (Ellis & Everh.) Lücking, G. Thor, Aptroot & Kalb SPECIES
 
 #### Status
 ACCEPTED

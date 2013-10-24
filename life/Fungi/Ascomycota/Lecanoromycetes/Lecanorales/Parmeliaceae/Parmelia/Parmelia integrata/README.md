@@ -1,5 +1,4 @@
-Parmelia integrata SPECIES
-=======
+# Parmelia integrata SPECIES
 
 #### Status
 ACCEPTED

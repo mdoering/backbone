@@ -1,5 +1,4 @@
-Puccinia bicolor Ellis & Everh. SPECIES
-=======
+# Puccinia bicolor Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

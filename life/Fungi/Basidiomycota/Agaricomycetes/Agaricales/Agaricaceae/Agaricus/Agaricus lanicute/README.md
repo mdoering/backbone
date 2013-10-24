@@ -1,5 +1,4 @@
-Agaricus lanicute Britzelm. SPECIES
-=======
+# Agaricus lanicute Britzelm. SPECIES
 
 #### Status
 ACCEPTED

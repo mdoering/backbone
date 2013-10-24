@@ -1,5 +1,4 @@
-Mycosphaerella aliena f. aliena FORM
-=======
+# Mycosphaerella aliena (Pass.) Cash SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mycosphaerella aliena f. aliena
+Sphaerella aliena Pass.
 
 ### Remarks
 null

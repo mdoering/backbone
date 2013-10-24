@@ -1,5 +1,4 @@
-Siphula subtabularis Nyl. SPECIES
-=======
+# Siphula subtabularis Nyl. SPECIES
 
 #### Status
 ACCEPTED

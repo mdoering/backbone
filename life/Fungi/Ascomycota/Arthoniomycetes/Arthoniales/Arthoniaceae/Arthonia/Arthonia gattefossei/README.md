@@ -1,5 +1,4 @@
-Arthonia gattefossei Maheu & Werner SPECIES
-=======
+# Arthonia gattefossei Maheu & Werner SPECIES
 
 #### Status
 ACCEPTED

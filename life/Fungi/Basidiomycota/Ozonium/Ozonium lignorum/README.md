@@ -1,5 +1,4 @@
-Ozonium lignorum Ficinus SPECIES
-=======
+# Ozonium lignorum Ficinus SPECIES
 
 #### Status
 ACCEPTED

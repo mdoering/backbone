@@ -1,5 +1,4 @@
-Tremella christiansenii Diederich SPECIES
-=======
+# Tremella christiansenii Diederich SPECIES
 
 #### Status
 ACCEPTED

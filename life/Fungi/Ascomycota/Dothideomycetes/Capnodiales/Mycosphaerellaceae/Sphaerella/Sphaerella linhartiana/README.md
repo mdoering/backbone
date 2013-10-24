@@ -1,5 +1,4 @@
-Sphaerella linhartiana Niessl SPECIES
-=======
+# Sphaerella linhartiana Niessl SPECIES
 
 #### Status
 ACCEPTED

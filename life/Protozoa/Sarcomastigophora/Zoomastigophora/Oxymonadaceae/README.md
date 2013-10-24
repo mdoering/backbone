@@ -1,5 +1,4 @@
-Oxymonadaceae FAMILY
-=======
+# Oxymonadaceae FAMILY
 
 #### Status
 ACCEPTED

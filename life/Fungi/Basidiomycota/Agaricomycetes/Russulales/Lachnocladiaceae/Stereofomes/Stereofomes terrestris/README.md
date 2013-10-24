@@ -1,5 +1,4 @@
-Stereofomes terrestris Rick SPECIES
-=======
+# Stereofomes terrestris Rick SPECIES
 
 #### Status
 ACCEPTED

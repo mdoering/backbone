@@ -1,5 +1,4 @@
-Trachyaletes Timofeev GENUS
-=======
+# Trachyaletes Timofeev GENUS
 
 #### Status
 ACCEPTED

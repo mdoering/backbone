@@ -1,5 +1,4 @@
-Protomyces crepidis (Jaap) Sacc. & Trotter SPECIES
-=======
+# Protomyces crepidis (Jaap) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

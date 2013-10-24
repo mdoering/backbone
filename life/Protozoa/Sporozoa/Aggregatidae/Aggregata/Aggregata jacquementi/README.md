@@ -1,5 +1,4 @@
-Aggregata jacquementi (Moroff, 1906) SPECIES
-=======
+# Aggregata jacquementi (Moroff, 1906) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kernkampella kirganeliae (Mundk. & Thirum.) G.F. Laundon, 1975 SPECIES
-=======
+# Kernkampella kirganeliae (Mundk. & Thirum.) G.F. Laundon, 1975 SPECIES
 
 #### Status
 ACCEPTED

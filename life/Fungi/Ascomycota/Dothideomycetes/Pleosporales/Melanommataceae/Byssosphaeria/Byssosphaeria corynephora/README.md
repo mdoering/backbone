@@ -1,5 +1,4 @@
-Byssosphaeria corynephora Cooke SPECIES
-=======
+# Byssosphaeria corynephora Cooke SPECIES
 
 #### Status
 ACCEPTED

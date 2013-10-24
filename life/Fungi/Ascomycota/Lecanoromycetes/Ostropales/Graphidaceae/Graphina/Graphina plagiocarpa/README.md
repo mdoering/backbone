@@ -1,5 +1,4 @@
-Graphina plagiocarpa (Fée) Müll. Arg. SPECIES
-=======
+# Graphina plagiocarpa (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

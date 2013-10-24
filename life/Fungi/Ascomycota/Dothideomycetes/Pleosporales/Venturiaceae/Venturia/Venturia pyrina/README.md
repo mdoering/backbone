@@ -1,8 +1,7 @@
-Venturia pyrina f. pyrina Aderh., 1896 FORM
-=======
+# Venturia pyrina Aderh., 1896 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Venturia pyrina f. pyrina Aderh., 1896
+null
 
 ### Remarks
 null

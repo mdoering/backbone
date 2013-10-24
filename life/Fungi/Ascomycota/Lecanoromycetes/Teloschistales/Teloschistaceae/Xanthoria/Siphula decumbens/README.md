@@ -1,5 +1,4 @@
-Siphula decumbens Nyl., 1888 SPECIES
-=======
+# Siphula decumbens Nyl., 1888 SPECIES
 
 #### Status
 DOUBTFUL

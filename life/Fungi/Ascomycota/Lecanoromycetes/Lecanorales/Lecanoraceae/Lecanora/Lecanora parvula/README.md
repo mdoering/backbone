@@ -1,5 +1,4 @@
-Lecanora parvula Du Rietz SPECIES
-=======
+# Lecanora parvula Du Rietz SPECIES
 
 #### Status
 ACCEPTED

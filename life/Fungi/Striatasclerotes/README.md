@@ -1,5 +1,4 @@
-Striatasclerotes Stach & Pickh. GENUS
-=======
+# Striatasclerotes Stach & Pickh. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora piperigena U. Braun & F.O. Freire SPECIES
-=======
+# Pseudocercospora piperigena U. Braun & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astrorhiza gigantea Saidova, 1970 SPECIES
-=======
+# Astrorhiza gigantea Saidova, 1970 SPECIES
 
 #### Status
 ACCEPTED

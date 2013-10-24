@@ -1,5 +1,4 @@
-Hypoblema lepidophorum (Ellis & Everh.) Lloyd SPECIES
-=======
+# Hypoblema lepidophorum (Ellis & Everh.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnella citrina Peck SPECIES
-=======
+# Lachnella citrina Peck SPECIES
 
 #### Status
 ACCEPTED

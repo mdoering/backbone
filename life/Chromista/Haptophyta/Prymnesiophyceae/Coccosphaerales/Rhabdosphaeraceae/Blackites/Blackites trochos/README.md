@@ -1,5 +1,4 @@
-Blackites trochos Bybell, 1982 SPECIES
-=======
+# Blackites trochos Bybell, 1982 SPECIES
 
 #### Status
 ACCEPTED

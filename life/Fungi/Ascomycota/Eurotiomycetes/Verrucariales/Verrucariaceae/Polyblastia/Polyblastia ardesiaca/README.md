@@ -1,5 +1,4 @@
-Polyblastia ardesiaca (Bagl. & Carestia) Zschacke SPECIES
-=======
+# Polyblastia ardesiaca (Bagl. & Carestia) Zschacke SPECIES
 
 #### Status
 ACCEPTED

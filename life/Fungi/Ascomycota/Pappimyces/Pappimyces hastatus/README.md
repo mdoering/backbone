@@ -1,5 +1,4 @@
-Pappimyces hastatus B. Sutton & Hodges, 1975 SPECIES
-=======
+# Pappimyces hastatus B. Sutton & Hodges, 1975 SPECIES
 
 #### Status
 ACCEPTED

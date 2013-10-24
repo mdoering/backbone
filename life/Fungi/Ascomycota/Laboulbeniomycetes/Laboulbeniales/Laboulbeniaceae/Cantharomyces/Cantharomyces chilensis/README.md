@@ -1,5 +1,4 @@
-Cantharomyces chilensis Thaxt. SPECIES
-=======
+# Cantharomyces chilensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

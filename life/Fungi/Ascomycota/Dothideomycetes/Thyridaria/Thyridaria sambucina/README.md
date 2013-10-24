@@ -1,5 +1,4 @@
-Thyridaria sambucina (Peck) Wehm. SPECIES
-=======
+# Thyridaria sambucina (Peck) Wehm. SPECIES
 
 #### Status
 ACCEPTED

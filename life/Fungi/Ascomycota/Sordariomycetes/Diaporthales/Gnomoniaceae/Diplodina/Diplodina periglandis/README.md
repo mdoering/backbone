@@ -1,5 +1,4 @@
-Diplodina periglandis (Cooke & Harkn.) Sacc. SPECIES
-=======
+# Diplodina periglandis (Cooke & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymotrichum alnicola (Corda) Bonord. SPECIES
-=======
+# Didymotrichum alnicola (Corda) Bonord. SPECIES
 
 #### Status
 ACCEPTED

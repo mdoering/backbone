@@ -1,5 +1,4 @@
-Corynespora pulviniformis (Syd.) S. Hughes SPECIES
-=======
+# Corynespora pulviniformis (Syd.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria vermicularioides (Syd.) Died. SPECIES
-=======
+# Septoria vermicularioides (Syd.) Died. SPECIES
 
 #### Status
 ACCEPTED

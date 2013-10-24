@@ -1,5 +1,4 @@
-Arcocellulus cornucervis G.R. Hasle, H.A. von Stosch & E.E. Syvertsen SPECIES
-=======
+# Arcocellulus cornucervis G.R. Hasle, H.A. von Stosch & E.E. Syvertsen SPECIES
 
 #### Status
 ACCEPTED

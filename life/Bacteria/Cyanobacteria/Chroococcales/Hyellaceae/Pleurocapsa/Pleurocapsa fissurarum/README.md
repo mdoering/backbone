@@ -1,5 +1,4 @@
-Pleurocapsa fissurarum Ercegovic SPECIES
-=======
+# Pleurocapsa fissurarum Ercegovic SPECIES
 
 #### Status
 ACCEPTED

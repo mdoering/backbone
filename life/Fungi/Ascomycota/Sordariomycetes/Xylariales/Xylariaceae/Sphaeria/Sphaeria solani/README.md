@@ -1,5 +1,4 @@
-Sphaeria solani Pers. SPECIES
-=======
+# Sphaeria solani Pers. SPECIES
 
 #### Status
 ACCEPTED

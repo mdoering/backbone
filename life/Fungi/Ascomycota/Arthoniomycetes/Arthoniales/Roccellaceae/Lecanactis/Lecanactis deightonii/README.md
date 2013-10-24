@@ -1,17 +1,16 @@
-Lecanactis deightoni C.W. Dodge SPECIES
-=======
+# Lecanactis deightonii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Mo. bot. Gdn 40: 339 (1953)
 
 #### Original name
-Lecanactis deightoni C.W. Dodge
+Lecanactis deightonii C.W. Dodge
 
 ### Remarks
 null

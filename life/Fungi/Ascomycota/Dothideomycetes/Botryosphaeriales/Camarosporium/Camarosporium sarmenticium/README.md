@@ -1,5 +1,4 @@
-Camarosporium sarmenticium Sacc. SPECIES
-=======
+# Camarosporium sarmenticium Sacc. SPECIES
 
 #### Status
 ACCEPTED

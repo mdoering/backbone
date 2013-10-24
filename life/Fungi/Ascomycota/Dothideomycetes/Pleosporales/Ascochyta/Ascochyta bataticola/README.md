@@ -1,5 +1,4 @@
-Ascochyta bataticola Khokhr. & Dyur. SPECIES
-=======
+# Ascochyta bataticola Khokhr. & Dyur. SPECIES
 
 #### Status
 ACCEPTED

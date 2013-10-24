@@ -1,17 +1,16 @@
-Thelephora frustulata var. frustulata VARIETY
-=======
+# Xylobolus frustulatus (Pers.) Boidin, 1958 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revue Mycol. , Paris 23: 341 (1958)
 
 #### Original name
-null
+Thelephora frustulata Pers., 1801
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Penicillium olivaceum var. olivaceum VARIETY
-=======
+# Penicillium olivaceum Wehmer SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Penicillium olivaceum var. olivaceum
+Penicillium olivaceum Wehmer
 
 ### Remarks
 null

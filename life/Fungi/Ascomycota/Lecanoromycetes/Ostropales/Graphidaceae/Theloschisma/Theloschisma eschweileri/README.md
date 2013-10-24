@@ -1,5 +1,4 @@
-Theloschisma eschweileri (Mont.) Trevis. SPECIES
-=======
+# Theloschisma eschweileri (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

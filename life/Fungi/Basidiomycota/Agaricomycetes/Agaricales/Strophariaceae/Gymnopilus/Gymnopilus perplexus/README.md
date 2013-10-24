@@ -1,5 +1,4 @@
-Gymnopilus perplexus B.J. Rees SPECIES
-=======
+# Gymnopilus perplexus B.J. Rees SPECIES
 
 #### Status
 ACCEPTED

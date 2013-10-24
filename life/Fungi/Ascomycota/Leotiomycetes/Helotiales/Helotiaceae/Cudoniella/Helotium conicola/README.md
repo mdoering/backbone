@@ -1,5 +1,4 @@
-Helotium conicola Velen. SPECIES
-=======
+# Helotium conicola Velen. SPECIES
 
 #### Status
 ACCEPTED

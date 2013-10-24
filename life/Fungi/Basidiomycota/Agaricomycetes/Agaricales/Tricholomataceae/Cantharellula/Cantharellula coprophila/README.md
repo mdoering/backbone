@@ -1,5 +1,4 @@
-Cantharellula coprophila (Speg.) Singer SPECIES
-=======
+# Cantharellula coprophila (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

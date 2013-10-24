@@ -1,5 +1,4 @@
-Naucoria solstitialis P. Karst. SPECIES
-=======
+# Naucoria solstitialis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

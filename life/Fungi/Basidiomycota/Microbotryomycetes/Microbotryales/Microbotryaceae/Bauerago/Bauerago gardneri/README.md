@@ -1,17 +1,16 @@
-Ustilago gardnerii McKenzie & Vánky SPECIES
-=======
+# Bauerago gardneri (McKenzie & Vánky) Vánky, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 70: 46 (1999)
 
 #### Original name
-Ustilago gardnerii McKenzie & Vánky
+Ustilago gardneri McKenzie & Vánky, 1991
 
 ### Remarks
 null

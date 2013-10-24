@@ -1,5 +1,4 @@
-Rhizophydium couchii Sparrow SPECIES
-=======
+# Rhizophydium couchii Sparrow SPECIES
 
 #### Status
 ACCEPTED

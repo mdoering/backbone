@@ -1,5 +1,4 @@
-Parmelia leucomela var. leucomela VARIETY
-=======
+# Parmelia leucomela SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia leucomela var. leucomela
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lachnum albidoroseum (Rehm) Nannf. SPECIES
-=======
+# Lachnum albidoroseum (Rehm) Nannf. SPECIES
 
 #### Status
 ACCEPTED

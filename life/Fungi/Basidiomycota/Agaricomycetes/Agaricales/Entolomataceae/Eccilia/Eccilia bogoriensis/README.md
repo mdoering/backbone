@@ -1,5 +1,4 @@
-Eccilia bogoriensis Henn. & E. Nyman SPECIES
-=======
+# Eccilia bogoriensis Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microascus cirrosus Curzi, 1930 SPECIES
-=======
+# Microascus cirrosus Curzi, 1930 SPECIES
 
 #### Status
 ACCEPTED

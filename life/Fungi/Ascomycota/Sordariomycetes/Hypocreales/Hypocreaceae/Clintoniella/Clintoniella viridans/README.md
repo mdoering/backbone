@@ -1,5 +1,4 @@
-Clintoniella viridans (Berk. & M.A. Curtis) Sacc. & P. Syd. SPECIES
-=======
+# Clintoniella viridans (Berk. & M.A. Curtis) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

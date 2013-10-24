@@ -1,5 +1,4 @@
-Teichospora seminuda (Pers. & De Not.) Sacc. SPECIES
-=======
+# Teichospora seminuda (Pers. & De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

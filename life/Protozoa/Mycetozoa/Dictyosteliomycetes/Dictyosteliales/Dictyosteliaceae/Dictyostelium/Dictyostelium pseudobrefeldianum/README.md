@@ -1,17 +1,16 @@
-Dictyostelium pseudo-brefeldianum H. Hagiw. SPECIES
-=======
+# Dictyostelium pseudobrefeldianum H. Hagiw., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. natn. Sci. Mus. , Tokyo, B 22(2): 47 (1996)
 
 #### Original name
-Dictyostelium pseudo-brefeldianum H. Hagiw.
+Dictyostelium pseudobrefeldianum H. Hagiw., 1996
 
 ### Remarks
 null

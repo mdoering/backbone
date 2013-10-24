@@ -1,5 +1,4 @@
-Micrococcus rugosus SPECIES
-=======
+# Micrococcus rugosus SPECIES
 
 #### Status
 ACCEPTED

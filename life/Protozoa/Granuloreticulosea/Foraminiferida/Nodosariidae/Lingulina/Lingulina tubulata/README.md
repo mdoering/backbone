@@ -1,5 +1,4 @@
-Lingulina tubulata Buchner, 1942 SPECIES
-=======
+# Lingulina tubulata Buchner, 1942 SPECIES
 
 #### Status
 ACCEPTED

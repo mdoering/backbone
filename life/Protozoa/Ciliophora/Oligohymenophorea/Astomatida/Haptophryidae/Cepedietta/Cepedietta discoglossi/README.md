@@ -1,5 +1,4 @@
-Cepedietta discoglossi SPECIES
-=======
+# Cepedietta discoglossi SPECIES
 
 #### Status
 ACCEPTED

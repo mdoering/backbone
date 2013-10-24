@@ -1,17 +1,16 @@
-Cercospora cruenta Sacc., 1880 SPECIES
-=======
+# Mycosphaerella cruenta Latham, 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 2(no. 6): 149 (1880)
+Mycologia 26(6): 525 (1934)
 
 #### Original name
-Cercospora cruenta Sacc., 1880
+Mycosphaerella cruenta Latham, 1934
 
 ### Remarks
 null

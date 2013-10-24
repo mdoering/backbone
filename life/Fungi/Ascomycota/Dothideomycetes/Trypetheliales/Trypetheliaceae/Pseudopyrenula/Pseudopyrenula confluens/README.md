@@ -1,5 +1,4 @@
-Pseudopyrenula confluens G. Merr. SPECIES
-=======
+# Pseudopyrenula confluens G. Merr. SPECIES
 
 #### Status
 ACCEPTED

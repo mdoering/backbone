@@ -1,5 +1,4 @@
-Scleroderris pinastri Höhn. SPECIES
-=======
+# Scleroderris pinastri Höhn. SPECIES
 
 #### Status
 ACCEPTED

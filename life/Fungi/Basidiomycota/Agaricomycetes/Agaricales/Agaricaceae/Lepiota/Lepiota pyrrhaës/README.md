@@ -1,14 +1,13 @@
-Lepiota pyrrhäs (Berk. & Broome) Sacc. SPECIES
-=======
+# Lepiota pyrrhaës (Berk. & Broome) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 5: 62 (1887)
 
 #### Original name
 Agaricus pyrrhaës Berk. & Broome

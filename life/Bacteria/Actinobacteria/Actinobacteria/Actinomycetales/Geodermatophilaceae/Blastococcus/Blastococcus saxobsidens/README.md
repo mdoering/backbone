@@ -1,5 +1,4 @@
-Blastococcus saxobsidens Urzì et al., 2004 SPECIES
-=======
+# Blastococcus saxobsidens Urzì et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

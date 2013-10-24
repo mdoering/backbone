@@ -1,5 +1,4 @@
-Sinophthalmidium Wang, 1986 GENUS
-=======
+# Sinophthalmidium Wang, 1986 GENUS
 
 #### Status
 ACCEPTED

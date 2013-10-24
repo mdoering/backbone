@@ -1,5 +1,4 @@
-Mazosiella palmae Bat. & A.A. Silva SPECIES
-=======
+# Mazosiella palmae Bat. & A.A. Silva SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lycoperdon fenestratum Batsch, 1783 SPECIES
-=======
+# Geastrum fenestratum (Batsch) Lloyd, 1901 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Elench. fung. (Halle) 151 (1783)
+Mycol. Writ. 1(7): 70 (1901)
 
 #### Original name
 Lycoperdon fenestratum Batsch, 1783

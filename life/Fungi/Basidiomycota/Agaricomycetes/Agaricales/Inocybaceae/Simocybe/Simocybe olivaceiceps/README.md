@@ -1,5 +1,4 @@
-Simocybe olivaceiceps (Singer) Singer SPECIES
-=======
+# Simocybe olivaceiceps (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

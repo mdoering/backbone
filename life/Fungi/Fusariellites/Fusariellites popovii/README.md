@@ -1,5 +1,4 @@
-Fusariellites popovii Babajan & Tasl. SPECIES
-=======
+# Fusariellites popovii Babajan & Tasl. SPECIES
 
 #### Status
 ACCEPTED

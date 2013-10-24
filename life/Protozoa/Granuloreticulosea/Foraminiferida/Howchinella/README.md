@@ -1,5 +1,4 @@
-Howchinella GENUS
-=======
+# Howchinella GENUS
 
 #### Status
 ACCEPTED

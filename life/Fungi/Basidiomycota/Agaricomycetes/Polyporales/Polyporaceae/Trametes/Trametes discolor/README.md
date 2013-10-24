@@ -1,5 +1,4 @@
-Trametes discolor Sacc. & Berl. SPECIES
-=======
+# Trametes discolor Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomyces microsporus (Speg.) E. Castell. SPECIES
-=======
+# Phomyces microsporus (Speg.) E. Castell. SPECIES
 
 #### Status
 ACCEPTED

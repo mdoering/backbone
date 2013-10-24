@@ -1,5 +1,4 @@
-Entoloma gomerense Wölfel & Noordel. SPECIES
-=======
+# Entoloma gomerense Wölfel & Noordel. SPECIES
 
 #### Status
 ACCEPTED

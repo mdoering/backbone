@@ -1,5 +1,4 @@
-Acrotellomyces lariani Cif. & Tomas. SPECIES
-=======
+# Acrotellomyces lariani Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

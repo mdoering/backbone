@@ -1,5 +1,4 @@
-Acidaminococcus fermentans Rogosa, 1969 (Approved Lists, 1980) SPECIES
-=======
+# Acidaminococcus fermentans Rogosa, 1969 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

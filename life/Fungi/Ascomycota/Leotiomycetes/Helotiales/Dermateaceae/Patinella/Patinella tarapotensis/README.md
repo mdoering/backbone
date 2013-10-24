@@ -1,5 +1,4 @@
-Patinella tarapotensis Henn. SPECIES
-=======
+# Patinella tarapotensis Henn. SPECIES
 
 #### Status
 ACCEPTED

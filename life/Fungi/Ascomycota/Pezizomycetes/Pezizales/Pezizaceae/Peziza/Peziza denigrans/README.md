@@ -1,5 +1,4 @@
-Peziza denigrans Fuckel SPECIES
-=======
+# Peziza denigrans Fuckel SPECIES
 
 #### Status
 ACCEPTED

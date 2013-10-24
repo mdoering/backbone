@@ -1,5 +1,4 @@
-Metasphaeria nicolai (Bubák) Sacc. & D. Sacc. SPECIES
-=======
+# Metasphaeria nicolai (Bubák) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

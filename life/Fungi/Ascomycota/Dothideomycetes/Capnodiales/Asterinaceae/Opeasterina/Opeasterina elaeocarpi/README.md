@@ -1,5 +1,4 @@
-Opeasterina elaeocarpi (Syd. & P. Syd.) Speg. SPECIES
-=======
+# Opeasterina elaeocarpi (Syd. & P. Syd.) Speg. SPECIES
 
 #### Status
 ACCEPTED

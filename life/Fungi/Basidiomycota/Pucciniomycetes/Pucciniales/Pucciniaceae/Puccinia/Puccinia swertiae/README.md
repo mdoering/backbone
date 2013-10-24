@@ -1,17 +1,16 @@
-Puccinia swertiae var. minor Durrieu VARIETY
-=======
+# Puccinia swertiae (Opiz) G. Winter, 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue mycol. , Toulouse 39(3): 150 (1975)
+Rabenh. Krypt. -Fl. (Leipzig), Edn 2 1(1): 205 (1881)
 
 #### Original name
-Puccinia swertiae var. minor Durrieu
+Aecidium swertiae Opiz, 1852
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Athelia ovata Jülich, 1972 SPECIES
-=======
+# Athelia ovata Jülich, 1972 SPECIES
 
 #### Status
 ACCEPTED

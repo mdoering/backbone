@@ -1,5 +1,4 @@
-Operculites bigranulatus Schrank, 2003 SPECIES
-=======
+# Operculites bigranulatus Schrank, 2003 SPECIES
 
 #### Status
 ACCEPTED

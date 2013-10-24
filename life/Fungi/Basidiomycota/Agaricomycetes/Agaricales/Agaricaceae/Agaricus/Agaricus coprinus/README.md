@@ -1,5 +1,4 @@
-Agaricus coprinus (Fr.) Fr. SPECIES
-=======
+# Agaricus coprinus (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orbilia rubrococcinea (Rehm) Sacc. SPECIES
-=======
+# Orbilia rubrococcinea (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

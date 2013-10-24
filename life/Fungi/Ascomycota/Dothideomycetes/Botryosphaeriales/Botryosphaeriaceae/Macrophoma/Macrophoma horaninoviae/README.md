@@ -1,8 +1,7 @@
-Macrophoma horaninowiae Nagov {?} SPECIES
-=======
+# Macrophoma horaninoviae Nagov {?} SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Macrophoma horaninowiae Nagov {?}
+Macrophoma horaninoviae Nagov {?}
 
 ### Remarks
 null

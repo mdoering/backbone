@@ -1,5 +1,4 @@
-Florilus stelligera SPECIES
-=======
+# Florilus stelligera SPECIES
 
 #### Status
 ACCEPTED

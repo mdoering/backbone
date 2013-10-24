@@ -1,5 +1,4 @@
-Biddulphia petrolia Hanna SPECIES
-=======
+# Biddulphia petrolia Hanna SPECIES
 
 #### Status
 ACCEPTED

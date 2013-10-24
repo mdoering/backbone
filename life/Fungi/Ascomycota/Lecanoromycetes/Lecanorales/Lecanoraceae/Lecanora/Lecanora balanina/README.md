@@ -1,5 +1,4 @@
-Lecanora balanina (Wahlenb.) Ach. SPECIES
-=======
+# Lecanora balanina (Wahlenb.) Ach. SPECIES
 
 #### Status
 ACCEPTED

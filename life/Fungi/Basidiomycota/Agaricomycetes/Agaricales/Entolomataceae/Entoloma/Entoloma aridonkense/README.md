@@ -1,5 +1,4 @@
-Entoloma aridonkense Murrill SPECIES
-=======
+# Entoloma aridonkense Murrill SPECIES
 
 #### Status
 ACCEPTED

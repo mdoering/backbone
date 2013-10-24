@@ -1,5 +1,4 @@
-Metasphaeria gillii Petr. SPECIES
-=======
+# Metasphaeria gillii Petr. SPECIES
 
 #### Status
 ACCEPTED

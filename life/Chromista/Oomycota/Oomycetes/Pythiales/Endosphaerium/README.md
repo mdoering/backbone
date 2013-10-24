@@ -1,5 +1,4 @@
-Endosphaerium D'Eliscu GENUS
-=======
+# Endosphaerium D'Eliscu GENUS
 
 #### Status
 ACCEPTED

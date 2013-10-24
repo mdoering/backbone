@@ -1,17 +1,16 @@
-Cladonia subulata f. subulata (L.) Weber ex F.H. Wigg. FORM
-=======
+# Cladonia subulata (L.) Weber ex F. H. Wigg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Prim. fl. holsat. (Kiliae) 90 (1780)
 
 #### Original name
-Cladonia subulata f. subulata (L.) Weber ex F.H. Wigg.
+Lichen subulatus L.
 
 ### Remarks
 null

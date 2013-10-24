@@ -1,5 +1,4 @@
-Peziza russa Berk. & Broome SPECIES
-=======
+# Peziza russa Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Wrightoporia rubella Y.C. Dai, 1995 SPECIES
-=======
+# Wrightoporia rubella Y.C. Dai, 1995 SPECIES
 
 #### Status
 ACCEPTED

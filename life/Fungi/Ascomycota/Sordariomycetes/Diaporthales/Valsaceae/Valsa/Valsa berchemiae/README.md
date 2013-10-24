@@ -1,5 +1,4 @@
-Valsa berchemiae Cooke SPECIES
-=======
+# Valsa berchemiae Cooke SPECIES
 
 #### Status
 ACCEPTED

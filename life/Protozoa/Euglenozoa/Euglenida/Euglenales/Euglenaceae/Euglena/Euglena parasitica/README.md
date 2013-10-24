@@ -1,5 +1,4 @@
-Euglena parasitica Sokolov SPECIES
-=======
+# Euglena parasitica Sokolov SPECIES
 
 #### Status
 ACCEPTED

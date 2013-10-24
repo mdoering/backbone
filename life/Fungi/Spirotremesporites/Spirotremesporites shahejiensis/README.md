@@ -1,5 +1,4 @@
-Spirotremesporites shahejiensis Elsik SPECIES
-=======
+# Spirotremesporites shahejiensis Elsik SPECIES
 
 #### Status
 ACCEPTED

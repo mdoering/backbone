@@ -1,5 +1,4 @@
-Aducta Z.K. Fajzulina in Z.A. Akulcheva et al., 1981 GENUS
-=======
+# Aducta Z.K. Fajzulina in Z.A. Akulcheva et al., 1981 GENUS
 
 #### Status
 ACCEPTED

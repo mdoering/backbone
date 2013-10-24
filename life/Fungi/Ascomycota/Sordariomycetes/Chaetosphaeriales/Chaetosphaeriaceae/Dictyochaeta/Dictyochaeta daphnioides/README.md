@@ -1,5 +1,4 @@
-Dictyochaeta daphnioides Kuthub. & Nawawi, 1991 SPECIES
-=======
+# Dictyochaeta daphnioides Kuthub. & Nawawi, 1991 SPECIES
 
 #### Status
 ACCEPTED

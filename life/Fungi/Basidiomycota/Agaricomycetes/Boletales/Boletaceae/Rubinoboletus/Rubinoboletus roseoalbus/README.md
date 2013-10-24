@@ -1,8 +1,7 @@
-Rubinoboletus roseo-albus (Alessio & Littini) De Kesel SPECIES
-=======
+# Rubinoboletus roseoalbus (Alessio & Littini) De Kesel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

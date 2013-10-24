@@ -1,5 +1,4 @@
-Agaricus curioso Larber {?} SPECIES
-=======
+# Agaricus curioso Larber {?} SPECIES
 
 #### Status
 ACCEPTED

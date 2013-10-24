@@ -1,5 +1,4 @@
-Diplotomma saprophilum (B. de Lesd.) Szatala SPECIES
-=======
+# Diplotomma saprophilum (B. de Lesd.) Szatala SPECIES
 
 #### Status
 ACCEPTED

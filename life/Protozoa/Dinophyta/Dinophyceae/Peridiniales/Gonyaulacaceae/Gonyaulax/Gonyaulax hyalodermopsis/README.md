@@ -1,5 +1,4 @@
-Gonyaulax hyalodermopsis Cookson & Eisenack SPECIES
-=======
+# Gonyaulax hyalodermopsis Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

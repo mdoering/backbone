@@ -1,5 +1,4 @@
-Rigidoporus umbonatipes Rajchenb., 1987 SPECIES
-=======
+# Rigidoporus umbonatipes Rajchenb., 1987 SPECIES
 
 #### Status
 ACCEPTED

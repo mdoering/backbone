@@ -1,5 +1,4 @@
-Leucocytospora leucostoma (Fr.) Höhn. SPECIES
-=======
+# Leucocytospora leucostoma (Fr.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

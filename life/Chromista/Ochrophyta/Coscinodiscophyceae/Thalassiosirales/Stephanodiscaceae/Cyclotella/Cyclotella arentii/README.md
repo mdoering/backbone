@@ -1,5 +1,4 @@
-Cyclotella arentii Kolbe SPECIES
-=======
+# Cyclotella arentii Kolbe SPECIES
 
 #### Status
 ACCEPTED

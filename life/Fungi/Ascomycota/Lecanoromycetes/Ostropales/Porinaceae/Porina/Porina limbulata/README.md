@@ -1,14 +1,13 @@
-Phylloporina limbulata (Kremp.) Müll. Arg. SPECIES
-=======
+# Porina limbulata (Kremp.) Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichenes Epiphylli Novi 21 (1890)
+Ann. Acad. Sci. fenn. , Ser. A 15: 363 (1921)
 
 #### Original name
 null

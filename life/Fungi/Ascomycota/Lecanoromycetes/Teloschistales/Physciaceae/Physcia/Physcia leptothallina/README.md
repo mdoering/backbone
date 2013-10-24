@@ -1,5 +1,4 @@
-Physcia leptothallina (Vain.) Zahlbr. SPECIES
-=======
+# Physcia leptothallina (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

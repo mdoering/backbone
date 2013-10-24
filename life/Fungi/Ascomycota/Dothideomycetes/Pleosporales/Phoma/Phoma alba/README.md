@@ -1,5 +1,4 @@
-Phoma alba R.P. Singh & A.K. Singh SPECIES
-=======
+# Phoma alba R.P. Singh & A.K. Singh SPECIES
 
 #### Status
 ACCEPTED

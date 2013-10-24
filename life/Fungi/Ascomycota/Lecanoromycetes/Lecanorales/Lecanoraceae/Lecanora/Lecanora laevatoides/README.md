@@ -1,5 +1,4 @@
-Lecanora laevatoides var. laevatoides VARIETY
-=======
+# Lecanora laevatoides H. Magn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora laevatoides var. laevatoides
+Lecanora laevatoides H. Magn.
 
 ### Remarks
 null

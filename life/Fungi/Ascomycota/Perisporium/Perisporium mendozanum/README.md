@@ -1,5 +1,4 @@
-Perisporium mendozanum Speg. SPECIES
-=======
+# Perisporium mendozanum Speg. SPECIES
 
 #### Status
 ACCEPTED

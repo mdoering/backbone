@@ -1,5 +1,4 @@
-Phyllosticta diospyri C.C. Chen SPECIES
-=======
+# Phyllosticta diospyri C.C. Chen SPECIES
 
 #### Status
 ACCEPTED

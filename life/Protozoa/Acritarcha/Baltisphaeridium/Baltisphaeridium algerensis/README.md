@@ -1,5 +1,4 @@
-Baltisphaeridium algerensis Cramer in Cramer, 1969 SPECIES
-=======
+# Baltisphaeridium algerensis Cramer in Cramer, 1969 SPECIES
 
 #### Status
 ACCEPTED

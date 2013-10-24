@@ -1,5 +1,4 @@
-Paraconiothyrium estuarinum Verkley & M. da Silva, 2004 SPECIES
-=======
+# Paraconiothyrium estuarinum Verkley & M. da Silva, 2004 SPECIES
 
 #### Status
 ACCEPTED

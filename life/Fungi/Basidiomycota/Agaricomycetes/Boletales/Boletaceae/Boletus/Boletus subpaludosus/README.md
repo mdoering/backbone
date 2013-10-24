@@ -1,5 +1,4 @@
-Boletus subpaludosus W.F. Chiu SPECIES
-=======
+# Boletus subpaludosus W.F. Chiu SPECIES
 
 #### Status
 ACCEPTED

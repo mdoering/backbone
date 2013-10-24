@@ -1,5 +1,4 @@
-Bacidia poliophaea Vain. SPECIES
-=======
+# Bacidia poliophaea Vain. SPECIES
 
 #### Status
 ACCEPTED

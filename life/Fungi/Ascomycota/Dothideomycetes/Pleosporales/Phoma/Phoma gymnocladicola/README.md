@@ -1,5 +1,4 @@
-Phoma gymnocladicola Hollós SPECIES
-=======
+# Phoma gymnocladicola Hollós SPECIES
 
 #### Status
 ACCEPTED

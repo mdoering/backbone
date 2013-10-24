@@ -1,5 +1,4 @@
-Phoma deflectens P. Karst. SPECIES
-=======
+# Phoma deflectens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

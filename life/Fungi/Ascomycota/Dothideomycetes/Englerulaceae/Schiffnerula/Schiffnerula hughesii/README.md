@@ -1,5 +1,4 @@
-Schiffnerula hughesii Hosag. SPECIES
-=======
+# Schiffnerula hughesii Hosag. SPECIES
 
 #### Status
 ACCEPTED

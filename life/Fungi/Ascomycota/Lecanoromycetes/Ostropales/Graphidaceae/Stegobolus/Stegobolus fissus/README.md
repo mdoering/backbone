@@ -1,14 +1,13 @@
-Leptotrema fissum (Nyl.) Müll. Arg. SPECIES
-=======
+# Stegobolus fissus (Nyl.) Frisch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 65: 333 (1882)
+in Frisch & Kalb, Biblthca Lichenol. 92: 455 (2006)
 
 #### Original name
 Thelotrema fissum Nyl.

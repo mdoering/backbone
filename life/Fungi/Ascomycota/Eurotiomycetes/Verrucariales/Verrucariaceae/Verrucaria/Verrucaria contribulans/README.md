@@ -1,5 +1,4 @@
-Verrucaria contribulans Nyl. SPECIES
-=======
+# Verrucaria contribulans Nyl. SPECIES
 
 #### Status
 ACCEPTED

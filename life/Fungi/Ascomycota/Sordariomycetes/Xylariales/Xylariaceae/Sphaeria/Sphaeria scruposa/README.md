@@ -1,5 +1,4 @@
-Sphaeria scruposa Fr. SPECIES
-=======
+# Sphaeria scruposa Fr. SPECIES
 
 #### Status
 ACCEPTED

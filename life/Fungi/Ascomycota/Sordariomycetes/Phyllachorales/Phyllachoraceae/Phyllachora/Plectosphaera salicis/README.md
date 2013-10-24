@@ -1,17 +1,16 @@
-Physalospora salicis var. salicis VARIETY
-=======
+# Plectosphaera salicis (Auersw. ex Fuckel) Arx & E. Müll., 1954 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 1: 439 (1882)
+Beitr. Kryptfl. Schweiz 11(no. 1): 204 (1954)
 
 #### Original name
-Physalospora salicis var. salicis
+Sphaeria salicis Auersw. ex Fuckel, 1870
 
 ### Remarks
 null

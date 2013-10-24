@@ -1,5 +1,4 @@
-Peronospora helichrysi Togashi & Egami SPECIES
-=======
+# Peronospora helichrysi Togashi & Egami SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mollisia solani Kutorga & Raitv. SPECIES
-=======
+# Mollisia solani Kutorga & Raitv. SPECIES
 
 #### Status
 ACCEPTED

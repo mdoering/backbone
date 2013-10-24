@@ -1,5 +1,4 @@
-Phomopsis fagopyri Traverso & Spessa SPECIES
-=======
+# Phomopsis fagopyri Traverso & Spessa SPECIES
 
 #### Status
 ACCEPTED

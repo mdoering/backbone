@@ -1,17 +1,16 @@
-Tremellodiscus Lloyd GENUS
-=======
+# Ruhlandiella Henn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 7(75): 1363 (1925)
+Hedwigia 42(Beibl. ): 24 (1903)
 
 #### Original name
-Tremellodiscus Lloyd
+Ruhlandiella Henn.
 
 ### Remarks
 null

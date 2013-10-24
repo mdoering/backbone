@@ -1,8 +1,7 @@
-Dactylococcopsis scenedesmoides Nygaard SPECIES
-=======
+# Rhabdogloea scenedesmoides (Nygaard) Komárek & Anagnostidis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Lecidea gregalis Arnold SPECIES
-=======
+# Lecidea gregalis Arnold SPECIES
 
 #### Status
 ACCEPTED

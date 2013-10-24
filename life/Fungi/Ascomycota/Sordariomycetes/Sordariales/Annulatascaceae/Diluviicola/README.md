@@ -1,5 +1,4 @@
-Diluviicola K.D. Hyde, S.W. Wong & E.B.G. Jones GENUS
-=======
+# Diluviicola K.D. Hyde, S.W. Wong & E.B.G. Jones GENUS
 
 #### Status
 ACCEPTED

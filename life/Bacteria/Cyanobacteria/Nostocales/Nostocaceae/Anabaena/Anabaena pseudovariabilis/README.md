@@ -1,5 +1,4 @@
-Anabaena pseudovariabilis Woronichin SPECIES
-=======
+# Anabaena pseudovariabilis Woronichin SPECIES
 
 #### Status
 ACCEPTED

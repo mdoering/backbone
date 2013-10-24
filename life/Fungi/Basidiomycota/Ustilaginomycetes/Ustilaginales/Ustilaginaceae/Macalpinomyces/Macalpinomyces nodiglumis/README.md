@@ -1,5 +1,4 @@
-Macalpinomyces nodiglumis Vánky, 2002 SPECIES
-=======
+# Macalpinomyces nodiglumis Vánky, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Niptera pilotrichi Henn. SPECIES
-=======
+# Niptera pilotrichi Henn. SPECIES
 
 #### Status
 ACCEPTED

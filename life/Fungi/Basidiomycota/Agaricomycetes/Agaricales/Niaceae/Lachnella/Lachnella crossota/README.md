@@ -1,17 +1,16 @@
-Lachnella crossata Ellis SPECIES
-=======
+# Lachnella crossota Ellis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 8: 124 (1881)
 
 #### Original name
-Lachnella crossata Ellis
+Lachnella crossota Ellis
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Acetabula purpurea M. Zang SPECIES
-=======
+# Acetabula purpurea M. Zang SPECIES
 
 #### Status
 ACCEPTED

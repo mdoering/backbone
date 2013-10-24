@@ -1,5 +1,4 @@
-Macbrideola declinata T.E. Brooks & H.W. Keller, 1988 SPECIES
-=======
+# Macbrideola declinata T.E. Brooks & H.W. Keller, 1988 SPECIES
 
 #### Status
 ACCEPTED

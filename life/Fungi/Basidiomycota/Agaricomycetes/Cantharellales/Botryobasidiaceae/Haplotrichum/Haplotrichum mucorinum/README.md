@@ -1,5 +1,4 @@
-Haplotrichum mucorinum (Berk. & M.A. Curtis) Pound & Clem. SPECIES
-=======
+# Haplotrichum mucorinum (Berk. & M.A. Curtis) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius croceolimbatus (Bon) G. Garnier SPECIES
-=======
+# Cortinarius croceolimbatus (Bon) G. Garnier SPECIES
 
 #### Status
 ACCEPTED

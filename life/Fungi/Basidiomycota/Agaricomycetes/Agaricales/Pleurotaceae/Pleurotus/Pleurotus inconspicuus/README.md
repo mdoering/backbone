@@ -1,5 +1,4 @@
-Pleurotus inconspicuus Massee SPECIES
-=======
+# Pleurotus inconspicuus Massee SPECIES
 
 #### Status
 ACCEPTED

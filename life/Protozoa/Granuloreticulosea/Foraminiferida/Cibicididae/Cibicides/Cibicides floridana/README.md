@@ -1,5 +1,4 @@
-Cibicides floridana SPECIES
-=======
+# Cibicides floridana SPECIES
 
 #### Status
 ACCEPTED

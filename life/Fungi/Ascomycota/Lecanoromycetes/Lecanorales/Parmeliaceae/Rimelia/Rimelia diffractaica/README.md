@@ -1,5 +1,4 @@
-Rimelia diffractaica (Essl.) Hale & A. Fletcher SPECIES
-=======
+# Rimelia diffractaica (Essl.) Hale & A. Fletcher SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Massilina annectens (Schlumberger, 1893) SPECIES
-=======
+# Quinqueloculina annectens (Schlumberger, 1893) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

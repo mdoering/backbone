@@ -1,5 +1,4 @@
-Corynascus similis Stchigel, Cano & Guarro, 2000 SPECIES
-=======
+# Corynascus similis Stchigel, Cano & Guarro, 2000 SPECIES
 
 #### Status
 ACCEPTED

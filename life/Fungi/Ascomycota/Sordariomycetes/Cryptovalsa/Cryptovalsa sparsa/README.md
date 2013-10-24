@@ -1,5 +1,4 @@
-Cryptovalsa sparsa Ellis & Everh. SPECIES
-=======
+# Cryptovalsa sparsa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

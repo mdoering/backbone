@@ -1,5 +1,4 @@
-Rhabdospora origani (Brunaud) Sacc. SPECIES
-=======
+# Rhabdospora origani (Brunaud) Sacc. SPECIES
 
 #### Status
 ACCEPTED

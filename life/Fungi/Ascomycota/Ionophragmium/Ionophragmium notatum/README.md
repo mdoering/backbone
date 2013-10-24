@@ -1,5 +1,4 @@
-Ionophragmium notatum Peres & L. Xavier, 1961 SPECIES
-=======
+# Ionophragmium notatum Peres & L. Xavier, 1961 SPECIES
 
 #### Status
 ACCEPTED

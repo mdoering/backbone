@@ -1,14 +1,13 @@
-Cladoderris mussooriensis Henn., 1901 SPECIES
-=======
+# Stereopsis mussooriensis (Henn.) D.A. Reid, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 40: 324 (1901)
+Beih. Nova Hedwigia 18: 311 (1965)
 
 #### Original name
 Cladoderris mussooriensis Henn., 1901

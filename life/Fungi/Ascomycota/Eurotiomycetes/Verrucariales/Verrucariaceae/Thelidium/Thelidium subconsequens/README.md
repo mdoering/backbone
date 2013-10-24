@@ -1,5 +1,4 @@
-Thelidium subconsequens (Nyl.) Hulting SPECIES
-=======
+# Thelidium subconsequens (Nyl.) Hulting SPECIES
 
 #### Status
 ACCEPTED

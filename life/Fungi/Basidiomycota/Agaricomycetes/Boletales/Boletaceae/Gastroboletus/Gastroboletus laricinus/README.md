@@ -1,5 +1,4 @@
-Gastroboletus laricinus Singer & Both SPECIES
-=======
+# Gastroboletus laricinus Singer & Both SPECIES
 
 #### Status
 ACCEPTED

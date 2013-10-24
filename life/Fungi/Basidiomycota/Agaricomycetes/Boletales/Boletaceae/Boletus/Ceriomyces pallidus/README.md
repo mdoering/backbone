@@ -1,5 +1,4 @@
-Ceriomyces pallidus (Frost) Murrill SPECIES
-=======
+# Ceriomyces pallidus (Frost) Murrill SPECIES
 
 #### Status
 ACCEPTED

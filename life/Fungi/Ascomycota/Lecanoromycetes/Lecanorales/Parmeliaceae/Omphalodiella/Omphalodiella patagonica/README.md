@@ -1,5 +1,4 @@
-Omphalodiella patagonica Henssen SPECIES
-=======
+# Omphalodiella patagonica Henssen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichoderma granulosum Fuckel, 1870 SPECIES
-=======
+# Trichoderma granulosum Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

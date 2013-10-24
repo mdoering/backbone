@@ -1,5 +1,4 @@
-Phyllosticta talisiae-major Bat. SPECIES
-=======
+# Phyllosticta talisiae-major Bat. SPECIES
 
 #### Status
 ACCEPTED

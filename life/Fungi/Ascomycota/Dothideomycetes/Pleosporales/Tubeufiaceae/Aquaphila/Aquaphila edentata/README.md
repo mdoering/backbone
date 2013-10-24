@@ -1,5 +1,4 @@
-Aquaphila edentata R.F. Castañeda, Guarro & Gené SPECIES
-=======
+# Aquaphila edentata R.F. Castañeda, Guarro & Gené SPECIES
 
 #### Status
 ACCEPTED

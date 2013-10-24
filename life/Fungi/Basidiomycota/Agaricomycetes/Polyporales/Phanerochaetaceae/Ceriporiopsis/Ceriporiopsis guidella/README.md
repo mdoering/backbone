@@ -1,5 +1,4 @@
-Ceriporiopsis guidella Bernicchia & Ryvarden, 2003 SPECIES
-=======
+# Ceriporiopsis guidella Bernicchia & Ryvarden, 2003 SPECIES
 
 #### Status
 ACCEPTED

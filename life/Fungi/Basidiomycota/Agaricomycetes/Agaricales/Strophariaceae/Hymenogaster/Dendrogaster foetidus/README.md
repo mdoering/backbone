@@ -1,5 +1,4 @@
-Dendrogaster foetidus (Coker & Couch) Zeller & C.W. Dodge SPECIES
-=======
+# Dendrogaster foetidus (Coker & Couch) Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

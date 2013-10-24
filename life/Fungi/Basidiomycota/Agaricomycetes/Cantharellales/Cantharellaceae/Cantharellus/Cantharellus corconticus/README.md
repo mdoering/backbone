@@ -1,5 +1,4 @@
-Cantharellus corconticus Velen. SPECIES
-=======
+# Cantharellus corconticus Velen. SPECIES
 
 #### Status
 ACCEPTED

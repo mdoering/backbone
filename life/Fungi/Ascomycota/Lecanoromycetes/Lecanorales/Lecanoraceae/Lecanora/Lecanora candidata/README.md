@@ -1,5 +1,4 @@
-Lecanora candidata Stizenb. SPECIES
-=======
+# Lecanora candidata Stizenb. SPECIES
 
 #### Status
 ACCEPTED

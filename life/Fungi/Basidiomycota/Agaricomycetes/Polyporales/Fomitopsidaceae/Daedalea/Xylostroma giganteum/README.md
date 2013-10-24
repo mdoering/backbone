@@ -1,14 +1,13 @@
-Byssus gigantea (Tode) Lam. & DC., 1805 SPECIES
-=======
+# Xylostroma giganteum Tode, 1790 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Lamarck & de Candolle, Fl. franç. (Paris), Edn 3 2: 67 (1805)
+Fung. mecklenb. sel. (Lüneburg) 1: 36 (1790)
 
 #### Original name
 Xylostroma giganteum Tode, 1790

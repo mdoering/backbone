@@ -1,5 +1,4 @@
-Belonium hyalinocinerellum Rehm SPECIES
-=======
+# Belonium hyalinocinerellum Rehm SPECIES
 
 #### Status
 ACCEPTED

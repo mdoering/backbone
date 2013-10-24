@@ -1,5 +1,4 @@
-Priscogalea gautieri F. Martin SPECIES
-=======
+# Priscogalea gautieri F. Martin SPECIES
 
 #### Status
 ACCEPTED

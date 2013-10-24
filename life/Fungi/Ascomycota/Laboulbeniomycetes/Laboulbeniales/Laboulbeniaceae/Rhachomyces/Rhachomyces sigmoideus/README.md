@@ -1,5 +1,4 @@
-Rhachomyces sigmoideus Thaxt. SPECIES
-=======
+# Rhachomyces sigmoideus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

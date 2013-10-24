@@ -1,5 +1,4 @@
-Rhizocarpon fujijamae var. fujijamae VARIETY
-=======
+# Rhizocarpon fujijamae Räsänen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhizocarpon fujijamae var. fujijamae
+Rhizocarpon fujijamae Räsänen
 
 ### Remarks
 null

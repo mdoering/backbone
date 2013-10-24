@@ -1,5 +1,4 @@
-Dimerosporium crustaceum Theiss. SPECIES
-=======
+# Dimerosporium crustaceum Theiss. SPECIES
 
 #### Status
 ACCEPTED

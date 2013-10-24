@@ -1,5 +1,4 @@
-Lactobacillus diolivorans Krooneman et al., 2002 SPECIES
-=======
+# Lactobacillus diolivorans Krooneman et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gephyrobiscutum diabolum SPECIES
-=======
+# Gephyrobiscutum diabolum SPECIES
 
 #### Status
 ACCEPTED

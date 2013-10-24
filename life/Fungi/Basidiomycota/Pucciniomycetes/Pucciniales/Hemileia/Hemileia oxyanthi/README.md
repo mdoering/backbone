@@ -1,5 +1,4 @@
-Hemileia oxyanthi Cummins SPECIES
-=======
+# Hemileia oxyanthi Cummins SPECIES
 
 #### Status
 ACCEPTED

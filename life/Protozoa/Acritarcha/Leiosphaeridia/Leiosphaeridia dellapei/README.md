@@ -1,5 +1,4 @@
-Leiosphaeridia dellapei Volkheimer et al., 1977 SPECIES
-=======
+# Leiosphaeridia dellapei Volkheimer et al., 1977 SPECIES
 
 #### Status
 ACCEPTED

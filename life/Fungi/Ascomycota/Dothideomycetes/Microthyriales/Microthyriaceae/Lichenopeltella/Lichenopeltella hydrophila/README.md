@@ -1,5 +1,4 @@
-Lichenopeltella hydrophila R. Sant. SPECIES
-=======
+# Lichenopeltella hydrophila R. Sant. SPECIES
 
 #### Status
 ACCEPTED

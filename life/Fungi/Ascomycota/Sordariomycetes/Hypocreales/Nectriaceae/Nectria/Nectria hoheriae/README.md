@@ -1,5 +1,4 @@
-Nectria hoheriae Dingley, 1989 SPECIES
-=======
+# Nectria hoheriae Dingley, 1989 SPECIES
 
 #### Status
 ACCEPTED

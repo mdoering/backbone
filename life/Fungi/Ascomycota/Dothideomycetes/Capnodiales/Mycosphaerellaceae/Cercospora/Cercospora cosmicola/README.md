@@ -1,5 +1,4 @@
-Cercospora cosmicola A.K. Kar & M. Mandal SPECIES
-=======
+# Cercospora cosmicola A.K. Kar & M. Mandal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lactarius changbainensis Y. Wang & Z.X. Xie SPECIES
-=======
+# Lactarius changbaiensis Y. Wang & Z.X. Xie SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta Mycol. Sin. 3(2): 81 (1984)
 
 #### Original name
-Lactarius changbainensis Y. Wang & Z.X. Xie
+Lactarius changbaiensis Y. Wang & Z.X. Xie
 
 ### Remarks
 null

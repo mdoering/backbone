@@ -1,5 +1,4 @@
-Coccocarpia guimarana (Vain.) Swinscow & Krog SPECIES
-=======
+# Coccocarpia guimarana (Vain.) Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

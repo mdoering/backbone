@@ -1,5 +1,4 @@
-Dothidea pitya Fr. SPECIES
-=======
+# Dothidea pitya Fr. SPECIES
 
 #### Status
 ACCEPTED

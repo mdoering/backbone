@@ -1,5 +1,4 @@
-Pyrenula thelemorpha Tuck. SPECIES
-=======
+# Pyrenula thelemorpha Tuck. SPECIES
 
 #### Status
 ACCEPTED

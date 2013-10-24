@@ -1,5 +1,4 @@
-Galera cyanopes Kauffman SPECIES
-=======
+# Galera cyanopes Kauffman SPECIES
 
 #### Status
 ACCEPTED

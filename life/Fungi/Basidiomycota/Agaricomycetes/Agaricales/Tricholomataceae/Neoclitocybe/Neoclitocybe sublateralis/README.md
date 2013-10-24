@@ -1,5 +1,4 @@
-Neoclitocybe sublateralis Singer SPECIES
-=======
+# Neoclitocybe sublateralis Singer SPECIES
 
 #### Status
 ACCEPTED

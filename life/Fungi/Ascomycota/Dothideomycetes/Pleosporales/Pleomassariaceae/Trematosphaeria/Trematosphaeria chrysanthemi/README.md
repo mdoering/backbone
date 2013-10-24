@@ -1,5 +1,4 @@
-Trematosphaeria chrysanthemi Tracy & Earle SPECIES
-=======
+# Trematosphaeria chrysanthemi Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

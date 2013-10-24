@@ -1,5 +1,4 @@
-Camptosporium Link GENUS
-=======
+# Camptosporium Link GENUS
 
 #### Status
 ACCEPTED

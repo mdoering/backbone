@@ -1,5 +1,4 @@
-Clypeoporthella appendiculata (Wehm.) J.C. Cooke & M.E. Barr SPECIES
-=======
+# Clypeoporthella appendiculata (Wehm.) J.C. Cooke & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

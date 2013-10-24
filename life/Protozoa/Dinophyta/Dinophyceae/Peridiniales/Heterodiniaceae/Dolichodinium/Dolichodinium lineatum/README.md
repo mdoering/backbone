@@ -1,5 +1,4 @@
-Dolichodinium lineatum (Kofoid & Michener) Kofoid & A. Adamson SPECIES
-=======
+# Dolichodinium lineatum (Kofoid & Michener) Kofoid & A. Adamson SPECIES
 
 #### Status
 ACCEPTED

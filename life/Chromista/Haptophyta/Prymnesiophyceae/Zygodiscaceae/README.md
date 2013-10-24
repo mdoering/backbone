@@ -1,5 +1,4 @@
-Zygodiscaceae Hay & Mohler, 1967 FAMILY
-=======
+# Zygodiscaceae Hay & Mohler, 1967 FAMILY
 
 #### Status
 ACCEPTED

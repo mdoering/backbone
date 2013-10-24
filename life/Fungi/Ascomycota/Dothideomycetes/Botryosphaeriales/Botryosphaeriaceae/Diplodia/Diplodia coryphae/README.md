@@ -1,5 +1,4 @@
-Diplodia coryphae Cooke SPECIES
-=======
+# Diplodia coryphae Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Holophrya alviolata (Kahl, 1926) Kahl, 1930 SPECIES
-=======
+# Holophrya alviolata (Kahl, 1926) Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterothecium leptocheilum (Tuck.) Riddle SPECIES
-=======
+# Heterothecium leptocheilum (Tuck.) Riddle SPECIES
 
 #### Status
 ACCEPTED

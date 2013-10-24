@@ -1,5 +1,4 @@
-Inocybe ozeensis Kobayasi SPECIES
-=======
+# Inocybe ozeensis Kobayasi SPECIES
 
 #### Status
 ACCEPTED

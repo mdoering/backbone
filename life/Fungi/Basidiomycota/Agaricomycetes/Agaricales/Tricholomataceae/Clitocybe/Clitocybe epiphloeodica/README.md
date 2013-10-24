@@ -1,5 +1,4 @@
-Clitocybe epiphloeodica H.E. Bigelow SPECIES
-=======
+# Clitocybe epiphloeodica H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

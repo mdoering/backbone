@@ -1,5 +1,4 @@
-Phyllachora suttoniae Hansf. SPECIES
-=======
+# Phyllachora suttoniae Hansf. SPECIES
 
 #### Status
 ACCEPTED

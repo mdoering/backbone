@@ -1,5 +1,4 @@
-Cassidulina minuta SPECIES
-=======
+# Cassidulina minuta SPECIES
 
 #### Status
 ACCEPTED

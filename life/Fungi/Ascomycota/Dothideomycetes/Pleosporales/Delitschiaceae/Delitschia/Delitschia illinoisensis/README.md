@@ -1,5 +1,4 @@
-Delitschia illinoisensis Luck-Allen SPECIES
-=======
+# Delitschia illinoisensis Luck-Allen SPECIES
 
 #### Status
 ACCEPTED

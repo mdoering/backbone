@@ -1,5 +1,4 @@
-Uromyces celosiae Dietel & Holw. SPECIES
-=======
+# Uromyces celosiae Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

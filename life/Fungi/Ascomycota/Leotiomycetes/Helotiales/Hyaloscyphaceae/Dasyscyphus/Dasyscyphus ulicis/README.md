@@ -1,8 +1,7 @@
-Dasyscypha ulicis (De Guern.) Sacc. SPECIES
-=======
+# Dasyscyphus ulicis (De Guern.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

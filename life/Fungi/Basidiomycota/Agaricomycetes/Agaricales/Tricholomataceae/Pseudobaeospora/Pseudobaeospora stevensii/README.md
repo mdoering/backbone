@@ -1,5 +1,4 @@
-Pseudobaeospora stevensii Desjardin SPECIES
-=======
+# Pseudobaeospora stevensii Desjardin SPECIES
 
 #### Status
 ACCEPTED

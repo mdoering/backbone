@@ -1,8 +1,7 @@
-Nematoloma papuanum Hongo SPECIES
-=======
+# Naematoloma papuanum Hongo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Nematoloma papuanum Hongo
+Naematoloma papuanum Hongo
 
 ### Remarks
 null

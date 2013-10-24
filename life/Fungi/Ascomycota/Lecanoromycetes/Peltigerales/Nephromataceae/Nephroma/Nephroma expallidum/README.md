@@ -1,5 +1,4 @@
-Nephroma expallidum (Nyl.) Nyl. SPECIES
-=======
+# Nephroma expallidum (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

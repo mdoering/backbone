@@ -1,5 +1,4 @@
-Thelephora centrifuga Weinm. SPECIES
-=======
+# Thelephora centrifuga Weinm. SPECIES
 
 #### Status
 ACCEPTED

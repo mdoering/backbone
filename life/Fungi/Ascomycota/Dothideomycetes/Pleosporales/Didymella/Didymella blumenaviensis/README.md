@@ -1,5 +1,4 @@
-Didymella blumenaviensis Rehm SPECIES
-=======
+# Didymella blumenaviensis Rehm SPECIES
 
 #### Status
 ACCEPTED

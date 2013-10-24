@@ -1,5 +1,4 @@
-Trigonastrum Haeckel, 1887 GENUS
-=======
+# Trigonastrum Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

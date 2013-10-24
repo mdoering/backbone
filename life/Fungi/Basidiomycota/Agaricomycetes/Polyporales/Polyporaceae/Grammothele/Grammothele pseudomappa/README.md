@@ -1,5 +1,4 @@
-Grammothele pseudomappa P.H.B. Talbot SPECIES
-=======
+# Grammothele pseudomappa P.H.B. Talbot SPECIES
 
 #### Status
 ACCEPTED

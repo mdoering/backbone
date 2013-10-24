@@ -1,5 +1,4 @@
-Natronococcus amylolyticus Kanai et al., 1995 SPECIES
-=======
+# Natronococcus amylolyticus Kanai et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

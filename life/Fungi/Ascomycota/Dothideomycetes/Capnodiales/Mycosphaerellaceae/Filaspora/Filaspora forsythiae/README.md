@@ -1,5 +1,4 @@
-Filaspora forsythiae (Pass.) Kuntze SPECIES
-=======
+# Filaspora forsythiae (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

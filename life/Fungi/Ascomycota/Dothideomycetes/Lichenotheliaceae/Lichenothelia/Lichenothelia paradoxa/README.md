@@ -1,5 +1,4 @@
-Lichenothelia paradoxa Henssen SPECIES
-=======
+# Lichenothelia paradoxa Henssen SPECIES
 
 #### Status
 ACCEPTED

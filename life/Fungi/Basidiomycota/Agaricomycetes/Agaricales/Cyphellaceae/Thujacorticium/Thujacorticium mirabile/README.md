@@ -1,5 +1,4 @@
-Thujacorticium mirabile Ginns, 1988 SPECIES
-=======
+# Thujacorticium mirabile Ginns, 1988 SPECIES
 
 #### Status
 ACCEPTED

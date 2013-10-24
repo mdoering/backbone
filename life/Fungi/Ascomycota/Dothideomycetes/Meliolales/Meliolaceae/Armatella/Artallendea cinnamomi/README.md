@@ -1,5 +1,4 @@
-Artallendea cinnamomi Bat. & H. Maia SPECIES
-=======
+# Artallendea cinnamomi Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

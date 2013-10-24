@@ -1,5 +1,4 @@
-Gilmania pulchra Bat., J.L. Bezerra & Cavalc. SPECIES
-=======
+# Gilmania pulchra Bat., J.L. Bezerra & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

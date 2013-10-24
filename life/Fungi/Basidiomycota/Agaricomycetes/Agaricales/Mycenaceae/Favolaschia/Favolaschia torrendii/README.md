@@ -1,5 +1,4 @@
-Favolaschia torrendii (Lloyd) Singer SPECIES
-=======
+# Favolaschia torrendii (Lloyd) Singer SPECIES
 
 #### Status
 ACCEPTED

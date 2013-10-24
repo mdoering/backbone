@@ -1,5 +1,4 @@
-Flagelloscypha christinae Agerer, 1975 SPECIES
-=======
+# Flagelloscypha christinae Agerer, 1975 SPECIES
 
 #### Status
 ACCEPTED

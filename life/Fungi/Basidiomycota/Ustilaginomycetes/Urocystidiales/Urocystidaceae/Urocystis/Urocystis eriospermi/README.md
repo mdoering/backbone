@@ -1,5 +1,4 @@
-Urocystis eriospermi (Syd. {?} ) Zundel SPECIES
-=======
+# Urocystis eriospermi (Syd. {?} ) Zundel SPECIES
 
 #### Status
 ACCEPTED

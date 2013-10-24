@@ -1,5 +1,4 @@
-Cordyceps clavicipitis Örtegren SPECIES
-=======
+# Cordyceps clavicipitis Örtegren SPECIES
 
 #### Status
 ACCEPTED

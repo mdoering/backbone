@@ -1,5 +1,4 @@
-Metopus vexilliger Penard, 1922 SPECIES
-=======
+# Metopus vexilliger Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

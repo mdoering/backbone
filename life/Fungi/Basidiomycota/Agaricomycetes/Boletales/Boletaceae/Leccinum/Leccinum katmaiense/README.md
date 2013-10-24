@@ -1,17 +1,16 @@
-Leccinum katmaiensis V.L. Wells & Kempton SPECIES
-=======
+# Leccinum katmaiense V.L. Wells & Kempton SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 51: 353 (1975)
 
 #### Original name
-Leccinum katmaiensis V.L. Wells & Kempton
+Leccinum katmaiense V.L. Wells & Kempton
 
 ### Remarks
 null

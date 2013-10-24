@@ -1,5 +1,4 @@
-Amoenodochium humicola Peláez & R.F. Castañeda, 1996 SPECIES
-=======
+# Amoenodochium humicola Peláez & R.F. Castañeda, 1996 SPECIES
 
 #### Status
 ACCEPTED

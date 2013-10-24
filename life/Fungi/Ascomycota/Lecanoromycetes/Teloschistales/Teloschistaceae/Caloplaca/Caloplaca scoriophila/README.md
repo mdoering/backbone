@@ -1,5 +1,4 @@
-Caloplaca scoriophila (A. Massal.) Zahlbr. SPECIES
-=======
+# Caloplaca scoriophila (A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe rubellipes G.F. Atk. SPECIES
-=======
+# Inocybe rubellipes G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

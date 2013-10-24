@@ -1,5 +1,4 @@
-Mycosphaerella holualoana Crous, Joanne E. Taylor & M.E. Palm, 2001 SPECIES
-=======
+# Mycosphaerella holualoana Crous, Joanne E. Taylor & M.E. Palm, 2001 SPECIES
 
 #### Status
 ACCEPTED

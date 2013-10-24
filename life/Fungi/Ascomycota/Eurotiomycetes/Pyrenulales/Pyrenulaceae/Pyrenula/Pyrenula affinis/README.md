@@ -1,5 +1,4 @@
-Pyrenula affinis Malme SPECIES
-=======
+# Pyrenula affinis Malme SPECIES
 
 #### Status
 ACCEPTED

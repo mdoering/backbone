@@ -1,5 +1,4 @@
-Tyromyces calkinsii Murrill SPECIES
-=======
+# Tyromyces calkinsii Murrill SPECIES
 
 #### Status
 ACCEPTED

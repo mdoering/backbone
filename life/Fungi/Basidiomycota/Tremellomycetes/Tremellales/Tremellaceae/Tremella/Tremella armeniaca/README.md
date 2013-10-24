@@ -1,5 +1,4 @@
-Tremella armeniaca Bandoni & J. Carranza SPECIES
-=======
+# Tremella armeniaca Bandoni & J. Carranza SPECIES
 
 #### Status
 ACCEPTED

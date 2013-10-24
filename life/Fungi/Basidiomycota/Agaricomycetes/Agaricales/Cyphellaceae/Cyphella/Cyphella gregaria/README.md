@@ -1,5 +1,4 @@
-Cyphella gregaria Syd. & P. Syd. SPECIES
-=======
+# Cyphella gregaria Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

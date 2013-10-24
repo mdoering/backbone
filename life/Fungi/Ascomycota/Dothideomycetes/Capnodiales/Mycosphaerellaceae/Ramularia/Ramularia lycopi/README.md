@@ -1,5 +1,4 @@
-Ramularia lycopi Hollós SPECIES
-=======
+# Ramularia lycopi Hollós SPECIES
 
 #### Status
 ACCEPTED

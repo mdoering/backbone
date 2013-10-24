@@ -1,17 +1,16 @@
-Chikaneea holleronia B. Sutton SPECIES
-=======
+# Chikaneea holleroniae B. Sutton, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 132: 30 (1973)
 
 #### Original name
-Chikaneea holleronia B. Sutton
+Chikaneea holleroniae B. Sutton, 1973
 
 ### Remarks
 null

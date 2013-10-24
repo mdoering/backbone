@@ -1,5 +1,4 @@
-Laestadites nathorstii Mesch. SPECIES
-=======
+# Laestadites nathorstii Mesch. SPECIES
 
 #### Status
 ACCEPTED

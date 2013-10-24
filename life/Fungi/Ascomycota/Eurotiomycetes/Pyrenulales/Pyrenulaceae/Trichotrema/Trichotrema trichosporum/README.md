@@ -1,5 +1,4 @@
-Trichotrema trichosporum (Müll. Arg.) Clem. SPECIES
-=======
+# Trichotrema trichosporum (Müll. Arg.) Clem. SPECIES
 
 #### Status
 ACCEPTED

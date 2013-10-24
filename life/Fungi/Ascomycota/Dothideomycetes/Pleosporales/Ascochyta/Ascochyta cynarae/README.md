@@ -1,5 +1,4 @@
-Ascochyta cynarae (Westend.) Zimm. SPECIES
-=======
+# Ascochyta cynarae (Westend.) Zimm. SPECIES
 
 #### Status
 ACCEPTED

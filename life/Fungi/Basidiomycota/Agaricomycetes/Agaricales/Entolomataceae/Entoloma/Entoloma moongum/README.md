@@ -1,5 +1,4 @@
-Entoloma moongum Grgur. SPECIES
-=======
+# Entoloma moongum Grgur. SPECIES
 
 #### Status
 ACCEPTED

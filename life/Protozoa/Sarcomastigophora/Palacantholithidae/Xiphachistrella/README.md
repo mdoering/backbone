@@ -1,5 +1,4 @@
-Xiphachistrella Deflandre, 1973 GENUS
-=======
+# Xiphachistrella Deflandre, 1973 GENUS
 
 #### Status
 ACCEPTED

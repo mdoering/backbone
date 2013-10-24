@@ -1,5 +1,4 @@
-Tympanis corylina (Sacc.) Rehm SPECIES
-=======
+# Tympanis corylina (Sacc.) Rehm SPECIES
 
 #### Status
 ACCEPTED

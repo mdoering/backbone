@@ -1,5 +1,4 @@
-Gyalecta pachyspora Vain. SPECIES
-=======
+# Gyalecta pachyspora Vain. SPECIES
 
 #### Status
 ACCEPTED

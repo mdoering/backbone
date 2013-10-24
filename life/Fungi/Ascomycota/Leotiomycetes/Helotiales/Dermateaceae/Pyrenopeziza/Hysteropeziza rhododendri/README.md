@@ -1,5 +1,4 @@
-Hysteropeziza rhododendri Schwein. SPECIES
-=======
+# Hysteropeziza rhododendri Schwein. SPECIES
 
 #### Status
 ACCEPTED

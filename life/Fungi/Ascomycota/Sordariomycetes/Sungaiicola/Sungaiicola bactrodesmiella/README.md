@@ -1,5 +1,4 @@
-Sungaiicola bactrodesmiella Fryar & K.D. Hyde, 2004 SPECIES
-=======
+# Sungaiicola bactrodesmiella Fryar & K.D. Hyde, 2004 SPECIES
 
 #### Status
 ACCEPTED

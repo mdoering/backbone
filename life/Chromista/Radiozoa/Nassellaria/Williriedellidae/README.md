@@ -1,5 +1,4 @@
-Williriedellidae Dumitrica, 1970 FAMILY
-=======
+# Williriedellidae Dumitrica, 1970 FAMILY
 
 #### Status
 ACCEPTED

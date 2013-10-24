@@ -1,5 +1,4 @@
-Langermannia bicolor (Lév.) Demoulin & Dring SPECIES
-=======
+# Langermannia bicolor (Lév.) Demoulin & Dring SPECIES
 
 #### Status
 ACCEPTED

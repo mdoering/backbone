@@ -1,5 +1,4 @@
-Trimmatostroma platense (Speg.) Van Warmelo & B. Sutton SPECIES
-=======
+# Trimmatostroma platense (Speg.) Van Warmelo & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

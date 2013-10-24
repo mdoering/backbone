@@ -1,5 +1,4 @@
-Trametes incondita Fr. SPECIES
-=======
+# Trametes incondita Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetopsina auburnensis Morgan-Jones SPECIES
-=======
+# Chaetopsina auburnensis Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

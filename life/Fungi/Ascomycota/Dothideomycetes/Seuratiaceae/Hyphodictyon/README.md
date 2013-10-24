@@ -1,5 +1,4 @@
-Hyphodictyon GENUS
-=======
+# Hyphodictyon GENUS
 
 #### Status
 ACCEPTED

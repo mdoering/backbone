@@ -1,5 +1,4 @@
-Boletus balloui Peck, 1912 SPECIES
-=======
+# Boletus balloui Peck, 1912 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora veraguensis Syd., 1926 SPECIES
-=======
+# Phyllachora veraguensis Syd., 1926 SPECIES
 
 #### Status
 ACCEPTED

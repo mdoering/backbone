@@ -1,5 +1,4 @@
-Megastomum Sartirana, 1905 GENUS
-=======
+# Megastomum Sartirana, 1905 GENUS
 
 #### Status
 ACCEPTED

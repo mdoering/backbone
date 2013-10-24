@@ -1,8 +1,7 @@
-Elphidium macellum var. aculeatum Silvestri, 1901 VARIETY
-=======
+# Elphidium silvestrii Hayward, 1997 in Hayward, Hollis & Grenfell, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

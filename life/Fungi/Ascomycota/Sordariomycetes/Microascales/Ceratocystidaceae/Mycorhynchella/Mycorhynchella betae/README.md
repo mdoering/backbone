@@ -1,5 +1,4 @@
-Mycorhynchella betae (Hollrung) Höhn. SPECIES
-=======
+# Mycorhynchella betae (Hollrung) Höhn. SPECIES
 
 #### Status
 ACCEPTED

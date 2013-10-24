@@ -1,5 +1,4 @@
-Parmelia boliviana Nyl. SPECIES
-=======
+# Parmelia boliviana Nyl. SPECIES
 
 #### Status
 ACCEPTED

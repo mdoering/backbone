@@ -1,5 +1,4 @@
-Pestalotiopsis macrochaeta (Speg.) J. Xiang Zhang & T. Xu SPECIES
-=======
+# Pestalotiopsis macrochaeta (Speg.) J. Xiang Zhang & T. Xu SPECIES
 
 #### Status
 ACCEPTED

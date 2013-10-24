@@ -1,5 +1,4 @@
-Cejpia coerulea Velen., 1934 SPECIES
-=======
+# Cejpia coerulea Velen., 1934 SPECIES
 
 #### Status
 ACCEPTED

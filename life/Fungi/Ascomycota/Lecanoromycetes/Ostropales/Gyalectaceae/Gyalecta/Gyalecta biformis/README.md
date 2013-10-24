@@ -1,14 +1,13 @@
-Gyalecta truncigena var. biformis (Körb.) Vezda VARIETY
-=======
+# Gyalecta biformis (Körb.) H. Olivier SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Acad. Intern. Géogr. Bot. 21: 194 (1911)
 
 #### Original name
 Secoliga biformis Körb.

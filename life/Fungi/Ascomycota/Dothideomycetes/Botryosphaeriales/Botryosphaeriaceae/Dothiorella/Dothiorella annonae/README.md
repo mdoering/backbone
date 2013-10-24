@@ -1,17 +1,16 @@
-Dothiorella anonae Petch SPECIES
-=======
+# Dothiorella annonae Petch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. R. bot. Gdns Peradeniya 9: 324 (1925)
 
 #### Original name
-Dothiorella anonae Petch
+Dothiorella annonae Petch
 
 ### Remarks
 null

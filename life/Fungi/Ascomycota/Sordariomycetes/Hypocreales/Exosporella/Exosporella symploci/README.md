@@ -1,5 +1,4 @@
-Exosporella symploci Höhn., 1912 SPECIES
-=======
+# Exosporella symploci Höhn., 1912 SPECIES
 
 #### Status
 ACCEPTED

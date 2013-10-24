@@ -1,5 +1,4 @@
-Rhizoctonia choussii Crand. & Arill. SPECIES
-=======
+# Rhizoctonia choussii Crand. & Arill. SPECIES
 
 #### Status
 ACCEPTED

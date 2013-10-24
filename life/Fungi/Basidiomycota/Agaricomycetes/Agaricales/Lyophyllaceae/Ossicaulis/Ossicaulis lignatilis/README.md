@@ -1,17 +1,16 @@
-Pleurotus lignatilis f. lignatilis FORM
-=======
+# Ossicaulis lignatilis (Pers.) Redhead & Ginns, 1985 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Führ. Pilzk. (Zwickau) 105 (1871)
+Trans. Mycol. Soc. Japan 26(3): 362 (1985)
 
 #### Original name
-Pleurotus lignatilis f. lignatilis
+Agaricus lignatilis Pers., 1801
 
 ### Remarks
 null

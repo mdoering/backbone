@@ -1,5 +1,4 @@
-Lamprospora gotlandica Benkert SPECIES
-=======
+# Lamprospora gotlandica Benkert SPECIES
 
 #### Status
 ACCEPTED

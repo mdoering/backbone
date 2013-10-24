@@ -1,5 +1,4 @@
-Collema mexicanum B. de Lesd. SPECIES
-=======
+# Collema mexicanum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

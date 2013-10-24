@@ -1,5 +1,4 @@
-Trametes philippinensis Lloyd SPECIES
-=======
+# Trametes philippinensis Lloyd SPECIES
 
 #### Status
 ACCEPTED

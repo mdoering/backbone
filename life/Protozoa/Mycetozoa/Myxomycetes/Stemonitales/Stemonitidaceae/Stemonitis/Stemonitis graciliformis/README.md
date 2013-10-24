@@ -1,5 +1,4 @@
-Stemonitis graciliformis Nann.-Bremek., K.G. Mukerji & Pasricha, 1984 SPECIES
-=======
+# Stemonitis graciliformis Nann.-Bremek., K.G. Mukerji & Pasricha, 1984 SPECIES
 
 #### Status
 ACCEPTED

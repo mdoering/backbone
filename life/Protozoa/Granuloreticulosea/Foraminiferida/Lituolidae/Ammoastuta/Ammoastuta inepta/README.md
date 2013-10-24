@@ -1,5 +1,4 @@
-Ammoastuta inepta (Cushman & McCulloch, 1939) SPECIES
-=======
+# Ammoastuta inepta (Cushman & McCulloch, 1939) SPECIES
 
 #### Status
 ACCEPTED

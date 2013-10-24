@@ -1,5 +1,4 @@
-Agromyces salentinus Jurado et al., 2005 SPECIES
-=======
+# Agromyces salentinus Jurado et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

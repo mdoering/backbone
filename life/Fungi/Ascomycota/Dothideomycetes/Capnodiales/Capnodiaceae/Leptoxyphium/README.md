@@ -1,5 +1,4 @@
-Leptoxyphium Spegazzini, 1918 GENUS
-=======
+# Leptoxyphium Spegazzini, 1918 GENUS
 
 #### Status
 ACCEPTED

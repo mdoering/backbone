@@ -1,5 +1,4 @@
-Gilvibacter Khan, Nakagawa & Harayama, 2007 GENUS
-=======
+# Gilvibacter Khan, Nakagawa & Harayama, 2007 GENUS
 
 #### Status
 ACCEPTED

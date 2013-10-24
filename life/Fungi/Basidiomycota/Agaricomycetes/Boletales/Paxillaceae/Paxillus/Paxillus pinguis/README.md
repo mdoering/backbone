@@ -1,5 +1,4 @@
-Paxillus pinguis Berk. SPECIES
-=======
+# Paxillus pinguis Berk. SPECIES
 
 #### Status
 ACCEPTED

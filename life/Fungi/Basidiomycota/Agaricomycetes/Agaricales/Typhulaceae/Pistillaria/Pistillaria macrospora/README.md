@@ -1,5 +1,4 @@
-Pistillaria macrospora (Pat.) Sacc. SPECIES
-=======
+# Pistillaria macrospora (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

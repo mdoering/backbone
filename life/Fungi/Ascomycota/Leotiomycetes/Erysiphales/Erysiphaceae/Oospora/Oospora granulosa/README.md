@@ -1,5 +1,4 @@
-Oospora granulosa Kambay. SPECIES
-=======
+# Oospora granulosa Kambay. SPECIES
 
 #### Status
 ACCEPTED

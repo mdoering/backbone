@@ -1,5 +1,4 @@
-Rhaphidoscene texturata Chapman, 1924 SPECIES
-=======
+# Rhaphidoscene texturata Chapman, 1924 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pelczaria Poston, 1994 GENUS
-=======
+# Pelczaria Poston, 1994 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Isia neocaledoniensis (C. Moreau) D. Hawksw. & Manohar., 1978 SPECIES
-=======
+# Isia neocaledoniensis (C. Moreau) D. Hawksw. & Manohar., 1978 SPECIES
 
 #### Status
 ACCEPTED

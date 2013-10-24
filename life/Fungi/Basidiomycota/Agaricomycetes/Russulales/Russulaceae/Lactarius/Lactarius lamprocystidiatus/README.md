@@ -1,5 +1,4 @@
-Lactarius lamprocystidiatus Verbeken & E. Horak SPECIES
-=======
+# Lactarius lamprocystidiatus Verbeken & E. Horak SPECIES
 
 #### Status
 ACCEPTED

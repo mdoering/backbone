@@ -1,5 +1,4 @@
-Micrometula Nyholm, 1952 GENUS
-=======
+# Micrometula Nyholm, 1952 GENUS
 
 #### Status
 ACCEPTED

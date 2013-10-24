@@ -1,5 +1,4 @@
-Phyllosticta nuptialis Thüm. SPECIES
-=======
+# Phyllosticta nuptialis Thüm. SPECIES
 
 #### Status
 ACCEPTED

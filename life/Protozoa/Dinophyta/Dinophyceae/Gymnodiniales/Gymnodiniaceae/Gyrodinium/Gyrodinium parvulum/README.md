@@ -1,5 +1,4 @@
-Gyrodinium parvulum (Schütt) Kofoid & Swezy SPECIES
-=======
+# Gyrodinium parvulum (Schütt) Kofoid & Swezy SPECIES
 
 #### Status
 ACCEPTED

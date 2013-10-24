@@ -1,5 +1,4 @@
-Stictospora Léger, 1893 GENUS
-=======
+# Stictospora Léger, 1893 GENUS
 
 #### Status
 ACCEPTED

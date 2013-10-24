@@ -1,5 +1,4 @@
-Tubaria verruculospora Pegler SPECIES
-=======
+# Tubaria verruculospora Pegler SPECIES
 
 #### Status
 ACCEPTED

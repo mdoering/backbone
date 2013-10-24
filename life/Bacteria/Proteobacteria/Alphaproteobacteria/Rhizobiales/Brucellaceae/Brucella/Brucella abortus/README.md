@@ -1,5 +1,4 @@
-Brucella abortus (Schmidt, 1901) Meyer and Shaw, 1920 (Approved Lists, 1980) SPECIES
-=======
+# Brucella abortus (Schmidt, 1901) Meyer and Shaw, 1920 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

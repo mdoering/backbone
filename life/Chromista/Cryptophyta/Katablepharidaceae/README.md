@@ -1,5 +1,4 @@
-Katablepharidaceae FAMILY
-=======
+# Katablepharidaceae FAMILY
 
 #### Status
 ACCEPTED

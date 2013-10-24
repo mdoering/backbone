@@ -1,5 +1,4 @@
-Agaricus rudis Berk. SPECIES
-=======
+# Agaricus rudis Berk. SPECIES
 
 #### Status
 ACCEPTED

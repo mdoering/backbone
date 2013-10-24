@@ -1,5 +1,4 @@
-Ascophanus aeruginascens P. Karst. SPECIES
-=======
+# Ascophanus aeruginascens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

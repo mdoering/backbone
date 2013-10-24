@@ -1,5 +1,4 @@
-Pseudocercospora abricola (Boedijn) U. Braun SPECIES
-=======
+# Pseudocercospora abricola (Boedijn) U. Braun SPECIES
 
 #### Status
 ACCEPTED

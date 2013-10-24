@@ -1,5 +1,4 @@
-Isochona Jankowksi, 1973 GENUS
-=======
+# Isochona Jankowksi, 1973 GENUS
 
 #### Status
 ACCEPTED

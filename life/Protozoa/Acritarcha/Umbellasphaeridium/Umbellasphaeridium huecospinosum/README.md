@@ -1,5 +1,4 @@
-Umbellasphaeridium huecospinosum (Cramer, 1964) Cramer & Díez, 1976 SPECIES
-=======
+# Umbellasphaeridium huecospinosum (Cramer, 1964) Cramer & Díez, 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Multicellaesporites fusus V.S. Ediger SPECIES
-=======
+# Multicellaesporites fusus V.S. Ediger SPECIES
 
 #### Status
 ACCEPTED

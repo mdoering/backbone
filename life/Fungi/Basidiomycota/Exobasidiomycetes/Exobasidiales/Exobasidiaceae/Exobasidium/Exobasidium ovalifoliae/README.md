@@ -1,5 +1,4 @@
-Exobasidium ovalifoliae Z.Y. Li & L. Guo SPECIES
-=======
+# Exobasidium ovalifoliae Z.Y. Li & L. Guo SPECIES
 
 #### Status
 ACCEPTED

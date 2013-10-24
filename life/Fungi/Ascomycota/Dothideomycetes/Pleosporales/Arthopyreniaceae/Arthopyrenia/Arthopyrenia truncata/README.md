@@ -1,5 +1,4 @@
-Arthopyrenia truncata Müll. Arg. SPECIES
-=======
+# Arthopyrenia truncata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

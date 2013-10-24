@@ -1,5 +1,4 @@
-Microporus gossypinus (Lév.) Kuntze SPECIES
-=======
+# Microporus gossypinus (Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

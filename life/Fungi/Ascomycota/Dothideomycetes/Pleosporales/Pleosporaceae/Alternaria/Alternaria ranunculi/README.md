@@ -1,5 +1,4 @@
-Alternaria ranunculi E.G. Simmons SPECIES
-=======
+# Alternaria ranunculi E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

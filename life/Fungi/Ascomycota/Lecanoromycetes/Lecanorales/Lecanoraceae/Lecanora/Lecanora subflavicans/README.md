@@ -1,5 +1,4 @@
-Lecanora subflavicans Nyl. SPECIES
-=======
+# Lecanora subflavicans Nyl. SPECIES
 
 #### Status
 ACCEPTED

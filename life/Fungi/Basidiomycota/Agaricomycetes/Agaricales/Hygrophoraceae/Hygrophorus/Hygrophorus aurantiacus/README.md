@@ -1,5 +1,4 @@
-Hygrophorus aurantiacus Henn. SPECIES
-=======
+# Hygrophorus aurantiacus Henn. SPECIES
 
 #### Status
 ACCEPTED

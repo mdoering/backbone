@@ -1,5 +1,4 @@
-Cortinarius conglobatus Rob. Henry SPECIES
-=======
+# Cortinarius conglobatus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

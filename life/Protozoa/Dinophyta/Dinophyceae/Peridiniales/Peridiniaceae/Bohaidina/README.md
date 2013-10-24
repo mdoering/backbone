@@ -1,5 +1,4 @@
-Bohaidina Jiabo, 1978 GENUS
-=======
+# Bohaidina Jiabo, 1978 GENUS
 
 #### Status
 ACCEPTED

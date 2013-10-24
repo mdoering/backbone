@@ -1,5 +1,4 @@
-Meliola pediicola Hansf. SPECIES
-=======
+# Meliola pediicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

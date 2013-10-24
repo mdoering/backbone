@@ -1,5 +1,4 @@
-Tubercularia calycanthi Pass. SPECIES
-=======
+# Tubercularia calycanthi Pass. SPECIES
 
 #### Status
 ACCEPTED

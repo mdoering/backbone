@@ -1,5 +1,4 @@
-Torulaspora yarrowii (Santa María & C. García) Van der Walt & Johannsen SPECIES
-=======
+# Torulaspora yarrowii (Santa María & C. García) Van der Walt & Johannsen SPECIES
 
 #### Status
 ACCEPTED

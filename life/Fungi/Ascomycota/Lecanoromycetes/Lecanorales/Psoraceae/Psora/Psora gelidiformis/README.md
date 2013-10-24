@@ -1,5 +1,4 @@
-Psora gelidiformis Hoffm. SPECIES
-=======
+# Psora gelidiformis Hoffm. SPECIES
 
 #### Status
 ACCEPTED

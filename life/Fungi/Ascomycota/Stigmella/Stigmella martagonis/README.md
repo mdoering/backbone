@@ -1,5 +1,4 @@
-Stigmella martagonis Oudem. SPECIES
-=======
+# Stigmella martagonis Oudem. SPECIES
 
 #### Status
 ACCEPTED

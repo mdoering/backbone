@@ -1,5 +1,4 @@
-Lepiota deliciolum Berk. SPECIES
-=======
+# Lepiota deliciolum Berk. SPECIES
 
 #### Status
 ACCEPTED

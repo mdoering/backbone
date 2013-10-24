@@ -1,5 +1,4 @@
-Leucogyroporus pisciodorus (Murrill) Snell SPECIES
-=======
+# Leucogyroporus pisciodorus (Murrill) Snell SPECIES
 
 #### Status
 ACCEPTED

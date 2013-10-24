@@ -1,17 +1,16 @@
-Erysiphe fagacarum R.Y. Zheng & G.Q. Chen SPECIES
-=======
+# Erysiphe fagacearum R.Y. Zheng & G.Q. Chen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta microbiol. sin. 21(1): 27 (1981)
 
 #### Original name
-Erysiphe fagacarum R.Y. Zheng & G.Q. Chen
+Erysiphe fagacearum R.Y. Zheng & G.Q. Chen
 
 ### Remarks
 null

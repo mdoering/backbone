@@ -1,5 +1,4 @@
-Leccinum subleucophaeum var. subleucophaeum VARIETY
-=======
+# Leccinum subleucophaeum E.A. Dick & Snell SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leccinum subleucophaeum var. subleucophaeum
+Leccinum subleucophaeum E.A. Dick & Snell
 
 ### Remarks
 null

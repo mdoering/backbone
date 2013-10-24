@@ -1,5 +1,4 @@
-Septoria podograriae Lasch SPECIES
-=======
+# Septoria podograriae Lasch SPECIES
 
 #### Status
 ACCEPTED

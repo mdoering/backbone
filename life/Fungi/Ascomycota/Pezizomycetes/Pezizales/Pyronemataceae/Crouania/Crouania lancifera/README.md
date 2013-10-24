@@ -1,5 +1,4 @@
-Crouania lancifera Hazsl. SPECIES
-=======
+# Crouania lancifera Hazsl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ovulariopsis fortunii J.M. Yen & Chin C. Wang SPECIES
-=======
+# Ovulariopsis fortunei J.M. Yen & Chin C. Wang SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue Mycol. , Paris 37(3): 171 (1973)
 
 #### Original name
-Ovulariopsis fortunii J.M. Yen & Chin C. Wang
+Ovulariopsis fortunei J.M. Yen & Chin C. Wang
 
 ### Remarks
 null

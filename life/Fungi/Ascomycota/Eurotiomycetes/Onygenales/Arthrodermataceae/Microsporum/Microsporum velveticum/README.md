@@ -1,5 +1,4 @@
-Microsporum velveticum Sabour. SPECIES
-=======
+# Microsporum velveticum Sabour. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Capnodium taxi Sacc. & Roum. SPECIES
-=======
+# Capnodium taxi Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

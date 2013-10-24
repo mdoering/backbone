@@ -1,5 +1,4 @@
-Fomes scabriusculus (Berk.) F.M. Bailey SPECIES
-=======
+# Fomes scabriusculus (Berk.) F.M. Bailey SPECIES
 
 #### Status
 ACCEPTED

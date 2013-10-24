@@ -1,5 +1,4 @@
-Leiosphaeridia maithyi Fensome et al., 1990 SPECIES
-=======
+# Leiosphaeridia maithyi Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

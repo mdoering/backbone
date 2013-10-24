@@ -1,5 +1,4 @@
-Didymostilbe matsushimae Seifert, 1985 SPECIES
-=======
+# Didymostilbe matsushimae Seifert, 1985 SPECIES
 
 #### Status
 ACCEPTED

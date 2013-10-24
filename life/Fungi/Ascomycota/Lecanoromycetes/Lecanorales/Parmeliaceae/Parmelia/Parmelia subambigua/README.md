@@ -1,5 +1,4 @@
-Parmelia subambigua Hale SPECIES
-=======
+# Parmelia subambigua Hale SPECIES
 
 #### Status
 ACCEPTED

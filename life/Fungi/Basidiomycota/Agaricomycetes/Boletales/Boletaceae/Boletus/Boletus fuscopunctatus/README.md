@@ -1,5 +1,4 @@
-Boletus fuscopunctatus Hongo & Nagas. SPECIES
-=======
+# Boletus fuscopunctatus Hongo & Nagas. SPECIES
 
 #### Status
 ACCEPTED

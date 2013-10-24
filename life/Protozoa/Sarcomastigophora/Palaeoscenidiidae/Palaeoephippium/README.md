@@ -1,5 +1,4 @@
-Palaeoephippium Goodbody, 1986 GENUS
-=======
+# Palaeoephippium Goodbody, 1986 GENUS
 
 #### Status
 ACCEPTED

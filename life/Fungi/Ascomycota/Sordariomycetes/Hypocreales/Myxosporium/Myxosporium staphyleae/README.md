@@ -1,5 +1,4 @@
-Myxosporium staphyleae Oudem. SPECIES
-=======
+# Myxosporium staphyleae Oudem. SPECIES
 
 #### Status
 ACCEPTED

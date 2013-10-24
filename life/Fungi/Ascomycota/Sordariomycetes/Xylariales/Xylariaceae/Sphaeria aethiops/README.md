@@ -1,5 +1,4 @@
-Sphaeria aethiops Wallr. SPECIES
-=======
+# Sphaeria aethiops Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acetobacter pomorum Sokollek et al., 1998 SPECIES
-=======
+# Acetobacter pomorum Sokollek et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

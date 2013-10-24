@@ -1,5 +1,4 @@
-Skyttea pyrenulae Diederich, Etayo & Coppins SPECIES
-=======
+# Skyttea pyrenulae Diederich, Etayo & Coppins SPECIES
 
 #### Status
 ACCEPTED

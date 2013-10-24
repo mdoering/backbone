@@ -1,5 +1,4 @@
-Collybia eucalyptorum Cleland SPECIES
-=======
+# Collybia eucalyptorum Cleland SPECIES
 
 #### Status
 ACCEPTED

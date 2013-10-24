@@ -1,5 +1,4 @@
-Puccinia aquita Arthur SPECIES
-=======
+# Puccinia aquita Arthur SPECIES
 
 #### Status
 ACCEPTED

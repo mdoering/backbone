@@ -1,5 +1,4 @@
-Metasphaeria macounii Dearn. SPECIES
-=======
+# Metasphaeria macounii Dearn. SPECIES
 
 #### Status
 ACCEPTED

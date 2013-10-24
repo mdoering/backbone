@@ -1,5 +1,4 @@
-Oospora cruoris (Macfie & A. Ingram) Sartory SPECIES
-=======
+# Oospora cruoris (Macfie & A. Ingram) Sartory SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria umbrinofusca Hoffm. SPECIES
-=======
+# Verrucaria umbrinofusca Hoffm. SPECIES
 
 #### Status
 ACCEPTED

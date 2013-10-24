@@ -1,5 +1,4 @@
-Ocellularia globosa Hale SPECIES
-=======
+# Ocellularia globosa Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora microphyllina (Tuck.) Hue SPECIES
-=======
+# Lecanora microphyllina (Tuck.) Hue SPECIES
 
 #### Status
 ACCEPTED

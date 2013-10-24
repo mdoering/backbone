@@ -1,5 +1,4 @@
-Pyrenopsis phaeococca (Tuck.) Tuck. SPECIES
-=======
+# Pyrenopsis phaeococca (Tuck.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

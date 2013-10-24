@@ -1,5 +1,4 @@
-Phlyctidium eudorinae M. Gimesi SPECIES
-=======
+# Phlyctidium eudorinae M. Gimesi SPECIES
 
 #### Status
 ACCEPTED

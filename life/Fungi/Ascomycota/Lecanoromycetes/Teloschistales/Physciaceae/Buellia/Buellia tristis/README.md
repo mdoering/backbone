@@ -1,5 +1,4 @@
-Buellia tristis SPECIES
-=======
+# Buellia tristis SPECIES
 
 #### Status
 ACCEPTED

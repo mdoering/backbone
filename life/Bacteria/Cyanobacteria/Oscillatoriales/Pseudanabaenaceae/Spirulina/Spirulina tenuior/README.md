@@ -1,5 +1,4 @@
-Spirulina tenuior (Lagerheim) Kirchner SPECIES
-=======
+# Spirulina tenuior (Lagerheim) Kirchner SPECIES
 
 #### Status
 ACCEPTED

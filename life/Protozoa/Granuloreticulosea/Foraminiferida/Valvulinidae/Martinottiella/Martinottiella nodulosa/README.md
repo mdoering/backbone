@@ -1,5 +1,4 @@
-Martinottiella nodulosa SPECIES
-=======
+# Martinottiella nodulosa SPECIES
 
 #### Status
 ACCEPTED

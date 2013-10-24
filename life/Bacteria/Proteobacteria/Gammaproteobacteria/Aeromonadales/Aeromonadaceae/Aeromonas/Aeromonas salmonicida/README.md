@@ -1,5 +1,4 @@
-Aeromonas salmonicida subsp. salmonicida SUBSPECIES
-=======
+# Aeromonas salmonicida (Lehmann & Neumann, 1896) Griffin, Snieszko & Friddle, 1953 SPECIES
 
 #### Status
 ACCEPTED

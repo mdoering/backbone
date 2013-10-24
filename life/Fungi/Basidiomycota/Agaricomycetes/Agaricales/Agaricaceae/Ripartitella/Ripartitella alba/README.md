@@ -1,5 +1,4 @@
-Ripartitella alba Halling & Franco-Mol., 1996 SPECIES
-=======
+# Ripartitella alba Halling & Franco-Mol., 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudombrophila laciniata Brumm. SPECIES
-=======
+# Pseudombrophila laciniata Brumm. SPECIES
 
 #### Status
 ACCEPTED

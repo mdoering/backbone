@@ -1,5 +1,4 @@
-Macrophoma anthurii Trinchieri SPECIES
-=======
+# Macrophoma anthurii Trinchieri SPECIES
 
 #### Status
 ACCEPTED

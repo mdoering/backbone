@@ -1,5 +1,4 @@
-Queletia mirabilis Fr., 1872 SPECIES
-=======
+# Queletia mirabilis Fr., 1872 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Loculistroma F. Patt. & Charles GENUS
-=======
+# Loculistroma F. Patt. & Charles GENUS
 
 #### Status
 ACCEPTED

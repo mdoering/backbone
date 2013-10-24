@@ -1,5 +1,4 @@
-Laterradea Raspail GENUS
-=======
+# Laterradea Raspail GENUS
 
 #### Status
 ACCEPTED

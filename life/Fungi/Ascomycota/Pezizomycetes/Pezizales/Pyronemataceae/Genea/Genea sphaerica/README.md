@@ -1,17 +1,16 @@
-Genea sphaerica var. sphaerica VARIETY
-=======
+# Genea sphaerica Tul. & C. Tul., 1851 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Fungi hypog. 120 (1851)
 
 #### Original name
-Genea sphaerica var. sphaerica
+Genea sphaerica Tul. & C. Tul., 1851
 
 ### Remarks
 null

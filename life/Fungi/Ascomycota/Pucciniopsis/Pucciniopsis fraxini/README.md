@@ -1,5 +1,4 @@
-Pucciniopsis fraxini (Pass.) Höhn. SPECIES
-=======
+# Pucciniopsis fraxini (Pass.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

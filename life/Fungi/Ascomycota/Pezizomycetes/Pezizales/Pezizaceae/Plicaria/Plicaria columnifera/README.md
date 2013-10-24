@@ -1,5 +1,4 @@
-Plicaria columnifera Rifai SPECIES
-=======
+# Plicaria columnifera Rifai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scyphosphaera abelei Rade, 1975 SPECIES
-=======
+# Scyphosphaera abelei Rade, 1975 SPECIES
 
 #### Status
 ACCEPTED

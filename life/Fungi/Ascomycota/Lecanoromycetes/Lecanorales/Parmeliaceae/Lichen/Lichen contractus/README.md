@@ -1,5 +1,4 @@
-Lichen contractus Brot. SPECIES
-=======
+# Lichen contractus Brot. SPECIES
 
 #### Status
 ACCEPTED

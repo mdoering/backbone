@@ -1,5 +1,4 @@
-Rhizocarpon confervoides A. Massal. SPECIES
-=======
+# Rhizocarpon confervoides A. Massal. SPECIES
 
 #### Status
 ACCEPTED

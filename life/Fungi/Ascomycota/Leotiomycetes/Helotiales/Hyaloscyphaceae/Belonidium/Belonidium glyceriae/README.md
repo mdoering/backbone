@@ -1,5 +1,4 @@
-Belonidium glyceriae Peck SPECIES
-=======
+# Belonidium glyceriae Peck SPECIES
 
 #### Status
 ACCEPTED

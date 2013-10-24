@@ -1,5 +1,4 @@
-Stereocaulon flavireagens f. densum H. Magn. FORM
-=======
+# Stereocaulon flavireagens Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stereocaulon flavireagens f. densum H. Magn.
+Stereocaulon flavireagens Gyeln.
 
 ### Remarks
 null

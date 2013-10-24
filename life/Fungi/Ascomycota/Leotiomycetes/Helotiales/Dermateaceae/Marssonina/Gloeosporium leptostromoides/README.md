@@ -1,5 +1,4 @@
-Gloeosporium leptostromoides Bubák SPECIES
-=======
+# Gloeosporium leptostromoides Bubák SPECIES
 
 #### Status
 ACCEPTED

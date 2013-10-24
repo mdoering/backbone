@@ -1,5 +1,4 @@
-Hanzawaia concentricus SPECIES
-=======
+# Hanzawaia concentricus SPECIES
 
 #### Status
 ACCEPTED

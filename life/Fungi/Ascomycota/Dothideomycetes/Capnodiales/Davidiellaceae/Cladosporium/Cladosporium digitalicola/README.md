@@ -1,5 +1,4 @@
-Cladosporium digitalicola Z.Y. Zhang, T. Zhang & W.Q. Pu, 1998 SPECIES
-=======
+# Cladosporium digitalicola Z.Y. Zhang, T. Zhang & W.Q. Pu, 1998 SPECIES
 
 #### Status
 ACCEPTED

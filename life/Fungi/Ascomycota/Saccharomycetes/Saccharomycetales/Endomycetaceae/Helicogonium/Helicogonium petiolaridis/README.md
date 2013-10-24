@@ -1,5 +1,4 @@
-Helicogonium petiolaridis Baral, 1999 SPECIES
-=======
+# Helicogonium petiolaridis Baral, 1999 SPECIES
 
 #### Status
 ACCEPTED

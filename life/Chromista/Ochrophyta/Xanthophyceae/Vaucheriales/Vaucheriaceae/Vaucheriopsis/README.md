@@ -1,5 +1,4 @@
-Vaucheriopsis Heering GENUS
-=======
+# Vaucheriopsis Heering GENUS
 
 #### Status
 SYNONYM

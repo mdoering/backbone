@@ -1,5 +1,4 @@
-Mycena convexa (Murrill) Dennis SPECIES
-=======
+# Mycena convexa (Murrill) Dennis SPECIES
 
 #### Status
 ACCEPTED

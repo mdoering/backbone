@@ -1,5 +1,4 @@
-Pyrenopeziza arctostaphyli E. Müll. SPECIES
-=======
+# Pyrenopeziza arctostaphyli E. Müll. SPECIES
 
 #### Status
 ACCEPTED

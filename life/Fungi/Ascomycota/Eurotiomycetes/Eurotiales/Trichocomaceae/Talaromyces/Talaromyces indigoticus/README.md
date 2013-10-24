@@ -1,5 +1,4 @@
-Talaromyces indigoticus Takada & Udagawa, 1993 SPECIES
-=======
+# Talaromyces indigoticus Takada & Udagawa, 1993 SPECIES
 
 #### Status
 ACCEPTED

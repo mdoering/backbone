@@ -1,5 +1,4 @@
-Cladochytrium cornutum De Wild. SPECIES
-=======
+# Cladochytrium cornutum De Wild. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthracothecium megaspermum Patw. & Makhija SPECIES
-=======
+# Anthracothecium megaspermum Patw. & Makhija SPECIES
 
 #### Status
 ACCEPTED

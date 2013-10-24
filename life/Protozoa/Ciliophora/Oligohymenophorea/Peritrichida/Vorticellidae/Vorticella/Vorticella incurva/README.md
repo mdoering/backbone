@@ -1,5 +1,4 @@
-Vorticella incurva Dumas, 1930 SPECIES
-=======
+# Vorticella incurva Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

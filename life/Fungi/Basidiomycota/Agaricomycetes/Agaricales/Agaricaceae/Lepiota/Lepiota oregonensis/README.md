@@ -1,5 +1,4 @@
-Lepiota oregonensis H.V. Sm. SPECIES
-=======
+# Lepiota oregonensis H.V. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Multiplicisphaeridium micropilare Cramer, 1970 ex Eisenack et al., 1973 SPECIES
-=======
+# Multiplicisphaeridium micropilare Cramer, 1970 ex Eisenack et al., 1973 SPECIES
 
 #### Status
 ACCEPTED

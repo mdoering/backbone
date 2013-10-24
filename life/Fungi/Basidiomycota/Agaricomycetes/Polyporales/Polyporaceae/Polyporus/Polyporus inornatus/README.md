@@ -1,5 +1,4 @@
-Polyporus inornatus Petch SPECIES
-=======
+# Polyporus inornatus Petch SPECIES
 
 #### Status
 ACCEPTED

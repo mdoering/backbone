@@ -1,5 +1,4 @@
-Graphina panhalensis Patw. & C.R. Kulk. SPECIES
-=======
+# Graphina panhalensis Patw. & C.R. Kulk. SPECIES
 
 #### Status
 ACCEPTED

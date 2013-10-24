@@ -1,5 +1,4 @@
-Hystrichosphaeridium ancoriferum Cookson & Eisenack SPECIES
-=======
+# Hystrichosphaeridium ancoriferum Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

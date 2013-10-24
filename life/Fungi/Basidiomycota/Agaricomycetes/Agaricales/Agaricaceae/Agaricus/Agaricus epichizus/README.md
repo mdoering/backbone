@@ -1,5 +1,4 @@
-Agaricus epichizus Pers. SPECIES
-=======
+# Agaricus epichizus Pers. SPECIES
 
 #### Status
 ACCEPTED

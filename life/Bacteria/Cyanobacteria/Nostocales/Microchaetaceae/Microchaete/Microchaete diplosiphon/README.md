@@ -1,5 +1,4 @@
-Microchaete diplosiphon var. cambrica W. West VARIETY
-=======
+# Microchaete diplosiphon Gomont ex Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

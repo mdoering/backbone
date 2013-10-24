@@ -1,5 +1,4 @@
-Strasseria camarae Dias & Teixeira SPECIES
-=======
+# Strasseria camarae Dias & Teixeira SPECIES
 
 #### Status
 ACCEPTED

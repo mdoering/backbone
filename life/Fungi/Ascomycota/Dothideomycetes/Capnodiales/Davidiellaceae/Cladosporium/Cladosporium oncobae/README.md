@@ -1,5 +1,4 @@
-Cladosporium oncobae K. Schub. & C.F. Hill, 2006 SPECIES
-=======
+# Cladosporium oncobae K. Schub. & C.F. Hill, 2006 SPECIES
 
 #### Status
 ACCEPTED

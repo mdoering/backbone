@@ -1,5 +1,4 @@
-Polyblastia atlantica Werner SPECIES
-=======
+# Polyblastia atlantica Werner SPECIES
 
 #### Status
 ACCEPTED

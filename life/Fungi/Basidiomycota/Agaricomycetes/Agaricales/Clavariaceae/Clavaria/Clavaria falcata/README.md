@@ -1,17 +1,16 @@
-Clavaria falcata var. obtusa Pers. VARIETY
-=======
+# Clavaria falcata Pers., 1794 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Comm. fung. clav. (Lipsiae) 81 (1797)
+Neues Mag. Bot. 1: 118 (1794)
 
 #### Original name
-Clavaria falcata var. obtusa Pers.
+Clavaria falcata Pers., 1794
 
 ### Remarks
 null

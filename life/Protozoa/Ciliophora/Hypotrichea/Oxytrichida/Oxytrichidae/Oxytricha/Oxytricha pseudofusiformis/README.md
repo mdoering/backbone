@@ -1,5 +1,4 @@
-Oxytricha pseudofusiformis Dragesco & Dragesco-Kernéis, 1986 SPECIES
-=======
+# Oxytricha pseudofusiformis Dragesco & Dragesco-Kernéis, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea bacillifera f. bacillifera FORM
-=======
+# Lecidea bacillifera Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea bacillifera f. bacillifera
+Lecidea bacillifera Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Loxophyllum viride SPECIES
-=======
+# Loxophyllum viride SPECIES
 
 #### Status
 ACCEPTED

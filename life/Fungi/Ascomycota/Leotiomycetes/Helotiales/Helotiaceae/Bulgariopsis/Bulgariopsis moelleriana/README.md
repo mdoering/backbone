@@ -1,14 +1,13 @@
-Ombrophila moelleriana (Henn.) Höhn., 1911 SPECIES
-=======
+# Bulgariopsis moelleriana Henn., 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 120: 387 (1911)
+Hedwigia 41: 21 (1902)
 
 #### Original name
 Bulgariopsis moelleriana Henn., 1902

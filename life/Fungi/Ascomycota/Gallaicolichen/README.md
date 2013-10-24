@@ -1,5 +1,4 @@
-Gallaicolichen Sérus. & Lücking GENUS
-=======
+# Gallaicolichen Sérus. & Lücking GENUS
 
 #### Status
 ACCEPTED

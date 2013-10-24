@@ -1,5 +1,4 @@
-Phyllachora valsiformis Rehm, 1913 SPECIES
-=======
+# Phyllachora valsiformis Rehm, 1913 SPECIES
 
 #### Status
 DOUBTFUL

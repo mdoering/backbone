@@ -1,5 +1,4 @@
-Gymnoascus gypseum Nann. SPECIES
-=======
+# Gymnoascus gypseum Nann. SPECIES
 
 #### Status
 ACCEPTED

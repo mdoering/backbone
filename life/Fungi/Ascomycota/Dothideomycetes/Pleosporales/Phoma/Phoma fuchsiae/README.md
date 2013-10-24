@@ -1,5 +1,4 @@
-Phoma fuchsiae Brunaud SPECIES
-=======
+# Phoma fuchsiae Brunaud SPECIES
 
 #### Status
 ACCEPTED

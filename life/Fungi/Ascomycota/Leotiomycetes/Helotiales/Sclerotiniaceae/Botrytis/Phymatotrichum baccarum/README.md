@@ -1,5 +1,4 @@
-Phymatotrichum baccarum Oudem. SPECIES
-=======
+# Phymatotrichum baccarum Oudem. SPECIES
 
 #### Status
 ACCEPTED

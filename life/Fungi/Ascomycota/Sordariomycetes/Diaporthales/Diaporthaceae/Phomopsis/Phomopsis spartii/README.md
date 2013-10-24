@@ -1,5 +1,4 @@
-Phomopsis spartii (Sacc.) Died. SPECIES
-=======
+# Phomopsis spartii (Sacc.) Died. SPECIES
 
 #### Status
 ACCEPTED

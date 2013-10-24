@@ -1,5 +1,4 @@
-Physcia squarrosa (Hoffm.) DC. SPECIES
-=======
+# Physcia squarrosa (Hoffm.) DC. SPECIES
 
 #### Status
 ACCEPTED

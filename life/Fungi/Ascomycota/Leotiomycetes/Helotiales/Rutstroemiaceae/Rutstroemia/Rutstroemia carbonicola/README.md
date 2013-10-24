@@ -1,5 +1,4 @@
-Rutstroemia carbonicola Svrcek SPECIES
-=======
+# Rutstroemia carbonicola Svrcek SPECIES
 
 #### Status
 ACCEPTED

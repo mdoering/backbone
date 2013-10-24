@@ -1,5 +1,4 @@
-Sphaerella chalcographa Kalchbr. SPECIES
-=======
+# Sphaerella chalcographa Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichella helocharis R.A. Poiss. SPECIES
-=======
+# Trichella helocharis R.A. Poiss. SPECIES
 
 #### Status
 ACCEPTED

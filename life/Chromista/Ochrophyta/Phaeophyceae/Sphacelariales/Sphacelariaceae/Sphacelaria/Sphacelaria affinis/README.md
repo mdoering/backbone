@@ -1,5 +1,4 @@
-Sphacelaria affinis Dickie SPECIES
-=======
+# Sphacelaria affinis Dickie SPECIES
 
 #### Status
 ACCEPTED

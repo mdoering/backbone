@@ -1,5 +1,4 @@
-Polygoniomorpha quadrata Wang, Zhou & Chen, 1980 SPECIES
-=======
+# Polygoniomorpha quadrata Wang, Zhou & Chen, 1980 SPECIES
 
 #### Status
 ACCEPTED

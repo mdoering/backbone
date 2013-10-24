@@ -1,5 +1,4 @@
-Placodium ochroleucum DC. SPECIES
-=======
+# Placodium ochroleucum DC. SPECIES
 
 #### Status
 ACCEPTED

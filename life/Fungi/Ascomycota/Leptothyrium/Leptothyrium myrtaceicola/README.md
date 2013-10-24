@@ -1,17 +1,16 @@
-Leptothyrium myrtacicola Bat. & J.A. Lima SPECIES
-=======
+# Leptothyrium myrtaceicola Bat. & J.A. Lima SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anais Soc. Biol. Pernambuco 13(2): 43 (1955)
 
 #### Original name
-Leptothyrium myrtacicola Bat. & J.A. Lima
+Leptothyrium myrtaceicola Bat. & J.A. Lima
 
 ### Remarks
 null

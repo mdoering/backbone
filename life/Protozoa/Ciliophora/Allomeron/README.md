@@ -1,5 +1,4 @@
-Allomeron Yankovskii, 1967 GENUS
-=======
+# Allomeron Yankovskii, 1967 GENUS
 
 #### Status
 ACCEPTED

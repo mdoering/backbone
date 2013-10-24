@@ -1,5 +1,4 @@
-Agaricus phyllophila Weinm. SPECIES
-=======
+# Agaricus phyllophila Weinm. SPECIES
 
 #### Status
 ACCEPTED

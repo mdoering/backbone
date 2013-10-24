@@ -1,5 +1,4 @@
-Dimerella pocsii Vezda & Farkas SPECIES
-=======
+# Dimerella pocsii Vezda & Farkas SPECIES
 
 #### Status
 ACCEPTED

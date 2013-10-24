@@ -1,5 +1,4 @@
-Omphalia subavellana Murrill SPECIES
-=======
+# Omphalia subavellana Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea coniops Mudd SPECIES
-=======
+# Lecidea coniops Mudd SPECIES
 
 #### Status
 ACCEPTED

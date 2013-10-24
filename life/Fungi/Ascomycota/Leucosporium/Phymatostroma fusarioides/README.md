@@ -1,5 +1,4 @@
-Phymatostroma fusarioides Corda SPECIES
-=======
+# Phymatostroma fusarioides Corda SPECIES
 
 #### Status
 ACCEPTED

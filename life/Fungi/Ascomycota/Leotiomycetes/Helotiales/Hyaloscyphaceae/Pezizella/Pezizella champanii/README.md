@@ -1,5 +1,4 @@
-Pezizella champanii SPECIES
-=======
+# Pezizella champanii SPECIES
 
 #### Status
 ACCEPTED

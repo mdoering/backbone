@@ -1,5 +1,4 @@
-Ophiocordyceps rhizoidea (Höhn.) Petch SPECIES
-=======
+# Ophiocordyceps rhizoidea (Höhn.) Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeomarasmius curcuma (Berk. & M.A. Curtis) Singer SPECIES
-=======
+# Phaeomarasmius curcuma (Berk. & M.A. Curtis) Singer SPECIES
 
 #### Status
 ACCEPTED

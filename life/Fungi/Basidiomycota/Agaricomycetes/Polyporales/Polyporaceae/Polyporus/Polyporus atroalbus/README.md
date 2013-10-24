@@ -1,5 +1,4 @@
-Polyporus atroalbus Rick SPECIES
-=======
+# Polyporus atroalbus Rick SPECIES
 
 #### Status
 ACCEPTED

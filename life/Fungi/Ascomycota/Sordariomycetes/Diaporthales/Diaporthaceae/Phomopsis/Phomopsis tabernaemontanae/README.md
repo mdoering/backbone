@@ -1,5 +1,4 @@
-Phomopsis tabernaemontanae Ponnappa & Nag Raj SPECIES
-=======
+# Phomopsis tabernaemontanae Ponnappa & Nag Raj SPECIES
 
 #### Status
 ACCEPTED

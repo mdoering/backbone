@@ -1,5 +1,4 @@
-Sphacelotheca utahensis Zundel SPECIES
-=======
+# Sphacelotheca utahensis Zundel SPECIES
 
 #### Status
 ACCEPTED

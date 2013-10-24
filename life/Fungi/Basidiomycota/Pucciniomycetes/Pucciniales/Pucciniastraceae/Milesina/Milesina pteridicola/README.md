@@ -1,5 +1,4 @@
-Milesina pteridicola Hirats. f. SPECIES
-=======
+# Milesina pteridicola Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphacelotheca sorghicola (Speg.) Zundel SPECIES
-=======
+# Sphacelotheca sorghicola (Speg.) Zundel SPECIES
 
 #### Status
 ACCEPTED

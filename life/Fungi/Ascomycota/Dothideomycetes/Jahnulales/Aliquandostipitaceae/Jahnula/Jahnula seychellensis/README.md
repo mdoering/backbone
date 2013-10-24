@@ -1,5 +1,4 @@
-Jahnula seychellensis K.D. Hyde & S.W. Wong, 1999 SPECIES
-=======
+# Jahnula seychellensis K.D. Hyde & S.W. Wong, 1999 SPECIES
 
 #### Status
 ACCEPTED

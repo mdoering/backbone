@@ -1,5 +1,4 @@
-Omphalia austinii var. austinii VARIETY
-=======
+# Omphalia austinii Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Omphalia austinii var. austinii
+Omphalia austinii Peck
 
 ### Remarks
 null
